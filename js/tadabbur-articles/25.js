@@ -16,36 +16,36 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Charge in Two Moves",
-          "bn": "অভিযোগের দুই চাল"
+          "bn": "দুই ধাপে অভিযোগ"
         },
         "p": [
           {
             "en": "The surah opens by blessing the One who sent down the Furqān, the Criterion, upon His servant as a warning to the worlds (25:1), and it has just exposed the idols that create nothing and own neither harm nor benefit for themselves (25:3). Then comes the reply of those who reject him. Their sentence carries two charges, not one. First: in hādhā illā ifk iftarāh — this is nothing but a lie he invented. Then, as though that were still too thin, a second: wa a'ānahu 'alayhi qawmun ākharūn — and another people helped him with it.",
-            "bn": "সূরাটি শুরু হয় সেই সত্তার প্রশংসা দিয়ে যিনি তাঁর বান্দার উপর ফুরকান, অর্থাৎ সত্য-মিথ্যার পার্থক্যকারী কিতাব নাযিল করেছেন বিশ্বজগতের জন্য সতর্ককারী হিসেবে (২৫:১)। একটু আগেই আয়াত ধরিয়ে দিয়েছে সেই মূর্তিদের অসারতা, যারা কিছুই সৃষ্টি করে না আর নিজেদের ক্ষতি বা উপকারেরও মালিক নয় (২৫:৩)। এরপর আসে অস্বীকারকারীদের জবাব। তাদের কথায় একটা নয়, দুটি অভিযোগ। প্রথমটি: ইন হা-যা ইল্লা ইফক ইফতারা-হু, এটা মিথ্যা ছাড়া কিছু নয়, সে নিজে বানিয়েছে। তারপর, যেন এতেও কথাটা হালকা থেকে যায়, দ্বিতীয়টি: ওয়া আ'আনাহু আলাইহি কাওমুন আ-খারুন, আর ভিন্ন এক জাতি এ ব্যাপারে তাকে সাহায্য করেছে।"
+            "bn": "সূরাটি শুরু হয়েছে সেই মহান সত্তার বরকতের ঘোষণা দিয়ে, যিনি তাঁর বান্দার উপর ফুরকান নাজিল করেছেন, অর্থাৎ সত্য-মিথ্যার পার্থক্যকারী কিতাব, যাতে তিনি বিশ্ববাসীর জন্য সতর্ককারী হন (২৫:১)। একটু আগেই সূরা ফাঁস করে দিয়েছে সেই মূর্তিদের অসারতা, যারা কিছুই সৃষ্টি করে না, নিজেদের ভালো-মন্দেরও মালিক নয় (২৫:৩)। এরপর আসে অস্বীকারকারীদের জবাব। তাদের এক কথাতেই অভিযোগ একটা নয়, দুটো। প্রথমটা: ইন হা-যা ইল্লা ইফক ইফতারা-হু, এটা মিথ্যা ছাড়া কিছু নয়, সে নিজেই বানিয়েছে। তারপর, যেন এটুকুতে কথাটা জমল না, দ্বিতীয়টা: ওয়া আ'আনাহু আলাইহি কাওমুন আ-খারুন, আর অন্য এক জাতি এ কাজে তাকে সাহায্য করেছে।"
           },
           {
             "en": "So the accusation is no longer only that a man is lying. It is that he is lying with help, that the words must have a hidden human workshop behind them. The Qur'an lets the whole charge stand, and then answers it with two words of its own: fa-qad jā'ū ẓulman wa zūrā — they have come with injustice and falsehood. This piece follows both halves of the charge. Who were the 'others' said to be, and why the reply to the borrowing claim was already there, waiting inside the Book they were trying to explain away.",
-            "bn": "তাই অভিযোগটা আর শুধু এই নয় যে একজন লোক মিথ্যা বলছে। এখন কথাটা হলো, সে মিথ্যা বলছে সাহায্য নিয়ে, এই কথাগুলোর পেছনে নিশ্চয়ই কোনো লুকোনো মানুষের কারখানা আছে। কুরআন গোটা অভিযোগটাকে দাঁড়াতে দেয়, তারপর নিজের দুটো শব্দে তার জবাব দেয়: ফাকাদ জা-ঊ যুলমান ওয়া যূরা, তারা অন্যায় ও মিথ্যা নিয়ে এসেছে। এই লেখা অভিযোগের দুই দিকই অনুসরণ করবে। এই 'অন্যেরা' কারা বলে দাবি করা হতো, আর ধার নেওয়ার অভিযোগের জবাবটা কেন আগে থেকেই সেই কিতাবের ভেতরেই অপেক্ষা করছিল, যাকে তারা উড়িয়ে দিতে চাইছিল।"
+            "bn": "ফলে অভিযোগটা আর শুধু এটুকু থাকে না যে লোকটা মিথ্যা বলছে। এখন দাবি হলো, সে মিথ্যা বলছে অন্যের সাহায্য নিয়ে; এই কথাগুলোর পেছনে নিশ্চয়ই কিছু মানুষের গোপন কারখানা আছে। কুরআন পুরো অভিযোগটা হুবহু তুলে ধরে, তারপর নিজের দুটো শব্দে জবাব দেয়: ফাকাদ জা-ঊ যুলমান ওয়া যূরা, তারা অন্যায় আর মিথ্যা নিয়ে এসেছে। এই লেখায় অভিযোগের দুটো অংশই আমরা খতিয়ে দেখব: সেই 'অন্যেরা' কারা বলে দাবি করা হতো, আর ধার করার অভিযোগের জবাব কেন আগে থেকেই সেই কিতাবের ভেতরে অপেক্ষা করছিল, যাকে তারা উড়িয়ে দিতে চাইছিল।"
           }
         ]
       },
       {
         "h": {
           "en": "Who Were the Others?",
-          "bn": "সেই অন্যেরা কারা"
+          "bn": "সেই অন্যেরা কারা?"
         },
         "p": [
           {
             "en": "Who was speaking? Al-Qurtubi, on the authority of Ibn 'Abbās, reports that the one who said this among them was an-Naḍr ibn al-Ḥārith, and that wherever the Qur'an mentions 'legends of the ancients' it points to him; Ibn Isḥāq, al-Qurtubi adds, described this man as one who used to injure the Prophet ﷺ. Al-Baghawī names the same figure — an-Naḍr and his circle — as the disbelievers meant here. So the commentators place a particular opponent behind the sentence, not a faceless crowd.",
-            "bn": "কথাটা বলছিল কে? কুরতুবী ইবন আব্বাস (রাঃ)-এর সূত্রে বলেন, তাদের মধ্যে যে এ কথা বলত সে ছিল নাদর ইবনুল হারিস। কুরআনে যেখানেই 'পূর্বপুরুষদের কিসসা' বলার উল্লেখ আছে, তার দিকেই ইঙ্গিত। কুরতুবী আরও জানান, ইবন ইসহাকের বর্ণনায় এই লোকটি নবী ﷺ-কে কষ্ট দিত। বাগাভীও একই লোকের নাম নেন, নাদর আর তার সঙ্গীদের, এখানে অস্বীকারকারী বলতে যাদের বোঝানো হয়েছে। তাই তাফসীরকারেরা এই কথার পেছনে একজন নির্দিষ্ট বিরোধীকে বসান, নামহীন কোনো জটলাকে নয়।"
+            "bn": "কথাটা বলছিল কে? কুরতুবী ইবন আব্বাস (রাঃ)-এর সূত্রে বলেন, তাদের মধ্যে যে এ কথা বলত সে ছিল নাদর ইবনুল হারিস। কুরআনে যেখানেই 'পূর্বপুরুষদের কিসসা' কথাটা এসেছে, সেখানেই ইঙ্গিত তার দিকে। কুরতুবী আরও জানান, ইবন ইসহাকের বর্ণনায় এই লোকটি নবী ﷺ-কে কষ্ট দিত। বাগাভীও এখানে অস্বীকারকারী বলতে এই লোককেই বোঝান, নাদর আর তার দলবল। তাই তাফসীরকারেরা এই কথার পেছনে একজন নির্দিষ্ট বিরোধীকে দেখেন, নামহীন কোনো জটলাকে নয়।"
           },
           {
             "en": "And the 'others' who supposedly helped? At-Ṭabarī reports, through Ibn Abī Najīḥ from Mujāhid, that they were the Jews: the Meccans were saying that it was the Jews who taught Muḥammad ﷺ what he brought them, and this, at-Ṭabarī says, is the sense of wa a'ānahu 'alayhi qawmun ākharūn. Al-Baghawī carries the same reading from Mujāhid. Two independent commentaries thus preserve one early identification — that the alleged 'other people' were Jewish informants of the town.",
-            "bn": "আর 'অন্যেরা', যারা নাকি সাহায্য করেছিল? তাবারী ইবন আবী নাজীহের মাধ্যমে মুজাহিদ থেকে বর্ণনা করেন, তারা ছিল ইহুদিরা। মক্কাবাসীরা বলত, মুহাম্মাদ ﷺ যা নিয়ে আসছেন তা তাঁকে ইহুদিরাই শেখাচ্ছে। তাবারীর মতে ওয়া আ'আনাহু আলাইহি কাওমুন আ-খারুন কথার এটাই মর্ম। বাগাভীও মুজাহিদ থেকে একই পাঠ আনেন। এভাবে দুটি আলাদা তাফসীর একটি পুরোনো শনাক্তকরণ ধরে রাখে, নাকি-সাহায্যকারী 'অন্য জাতি' বলতে শহরের ইহুদি তথ্যদাতাদের বোঝানো হতো।"
+            "bn": "আর 'অন্যেরা', যারা নাকি সাহায্য করেছিল? তাবারী ইবন আবী নাজীহের মাধ্যমে মুজাহিদ থেকে বর্ণনা করেন, তারা ছিল ইহুদিরা। মক্কাবাসীরা বলত, মুহাম্মাদ ﷺ যা নিয়ে আসছেন তা তাঁকে ইহুদিরাই শেখাচ্ছে। তাবারীর মতে ওয়া আ'আনাহু আলাইহি কাওমুন আ-খারুন কথার এটাই মর্ম। বাগাভীও মুজাহিদ থেকে একই ব্যাখ্যা আনেন। এভাবে দুটি আলাদা তাফসীরে একই পুরোনো ব্যাখ্যা টিকে আছে: কথিত সেই 'অন্য জাতি' মানে শহরের কিছু ইহুদি, যারা নাকি তাঁকে এসব জানিয়ে দিত।"
           },
           {
             "en": "Others named individuals. Al-Qurtubi, again from Ibn 'Abbās, lists three men from the People of the Book — Abū Fukayha the freedman of Banū al-Ḥaḍramī, 'Addās, and Jabr — and notes that they had already been discussed back in Sūrat an-Naḥl. Al-Baghawī gives an overlapping but not identical list — Jabr, Yasār, and 'Addās ibn 'Ubayd, People of the Book living at Makka — and reports from al-Ḥasan a different name again, one 'Ubayd al-Ḥabashī. The lists do not match, and the commentators offer them as reports, not as settled fact.",
-            "bn": "কেউ কেউ নির্দিষ্ট নাম বলেছেন। কুরতুবী আবার ইবন আব্বাস (রাঃ) থেকে আহলে কিতাবের তিনজনের নাম দেন, বনু হাদরামীর মুক্ত করা দাস আবু ফুকাইহা, আদ্দাস আর জাবর। তিনি জানান, এদের কথা আগেই সূরা নাহলে এসেছে। বাগাভী কাছাকাছি কিন্তু হুবহু এক নয় এমন একটি তালিকা দেন, জাবর, ইয়াসার আর আদ্দাস ইবন উবাইদ, মক্কায় বসবাসকারী আহলে কিতাবের লোক। হাসান থেকে তিনি আবার আরেকটি নাম আনেন, উবাইদ আল-হাবাশী। তালিকাগুলো মেলে না, আর তাফসীরকারেরা এগুলো বর্ণনা হিসেবে পেশ করেন, চূড়ান্ত সত্য হিসেবে নয়।"
+            "bn": "কেউ কেউ নির্দিষ্ট নামও বলেছেন। কুরতুবী আবার ইবন আব্বাস (রাঃ) থেকে আহলে কিতাবের তিনজনের নাম দেন: বনু হাদরামীর মুক্ত করা দাস আবু ফুকাইহা, আদ্দাস আর জাবর। তিনি জানান, এদের কথা আগেই সূরা নাহলে এসেছে। বাগাভীর তালিকা এর কাছাকাছি, তবে হুবহু এক নয়: জাবর, ইয়াসার আর আদ্দাস ইবন উবাইদ, মক্কায় থাকা আহলে কিতাবের লোক। হাসান থেকে তিনি আবার আরেকটি নাম আনেন, উবাইদ আল-হাবাশী। তালিকাগুলো মেলে না, আর তাফসীরকারেরা এগুলো বর্ণনা হিসেবেই পেশ করেন, প্রমাণিত সত্য হিসেবে নয়।"
           }
         ]
       },
@@ -57,31 +57,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "When al-Qurtubi sends the reader back to Sūrat an-Naḥl for those names, he is pointing at where the borrowing charge had already been met. There, in 16:103, the Qur'an quotes the very same accusation — that a human being is teaching him — and answers it in one clause: the tongue of the one they allude to is foreign, while this is a clear Arabic tongue. The supposed informant spoke a non-Arabic speech; the Book is Arabic of the highest order. The story does not survive its own detail.",
-            "bn": "কুরতুবী যখন সেই নামগুলোর জন্য পাঠককে সূরা নাহলে ফিরিয়ে নেন, তখন তিনি দেখিয়ে দেন কোথায় ধার নেওয়ার অভিযোগের জবাব আগেই দেওয়া হয়ে গেছে। সেখানে, ১৬:১০৩ আয়াতে, কুরআন হুবহু একই অভিযোগ তুলে ধরে, যে একজন মানুষ তাঁকে শেখাচ্ছে। আর এক বাক্যেই তার জবাব দেয়: তারা যার দিকে ইঙ্গিত করছে তার জবান বিদেশি, অথচ এটা স্পষ্ট আরবি জবান। কথিত সেই শিক্ষক কথা বলত আরবি নয় এমন ভাষায়, আর কিতাবটি সর্বোচ্চ মানের আরবি। গল্পটা নিজের খুঁটিনাটির ভারেই ভেঙে পড়ে।"
+            "bn": "কুরতুবী যখন সেই নামগুলোর জন্য পাঠককে সূরা নাহলে ফিরিয়ে নেন, তখন তিনি দেখিয়ে দেন, ধার করার অভিযোগের জবাব আগেই কোথায় দেওয়া হয়ে গেছে। সেখানে, ১৬:১০৩ আয়াতে, কুরআন হুবহু একই অভিযোগ তুলে ধরে: একজন মানুষ তাঁকে শেখাচ্ছে। আর এক বাক্যেই জবাব দেয়: তারা যার দিকে ইঙ্গিত করছে তার ভাষা অনারব, অথচ এটা স্পষ্ট আরবি ভাষা। কথিত সেই শিক্ষকের মুখের ভাষা আরবিই ছিল না, আর কিতাবটি সবচেয়ে উঁচু মানের আরবি। গল্পটা নিজের খুঁটিনাটির ভারেই ভেঙে পড়ে।"
           },
           {
             "en": "That is exactly why al-Muyassar, after stating the charge plainly — that they called the Qur'an a lie invented by Muḥammad ﷺ with the help of other people — closes on one sentence: the Qur'an is not something any human being could fabricate (fa-l-Qur'ānu laysa mimmā yumkinu li-basharin an yakhtaliqah). The point is not that this or that informant cannot be found. It is that the thing itself lies past human manufacture, so the picture of a hidden workshop of helpers never even gets off the ground.",
-            "bn": "ঠিক এ কারণেই মুয়াসসার অভিযোগটা সাফ বলে দেওয়ার পর, অর্থাৎ তারা কুরআনকে বলেছে মুহাম্মাদ ﷺ-এর বানানো এক মিথ্যা যাতে অন্য লোকেরা সাহায্য করেছে, শেষ করেন একটি বাক্যে: কুরআন এমন কিছু নয় যা কোনো মানুষের পক্ষে বানানো সম্ভব। কথাটা এই নয় যে অমুক তমুক তথ্যদাতাকে খুঁজে পাওয়া যায় না। কথাটা হলো, জিনিসটাই মানুষের গড়ার সাধ্যের বাইরে। তাই লুকোনো সাহায্যকারীদের কারখানার ছবিটা দাঁড়ানোরই সুযোগ পায় না।"
+            "bn": "ঠিক এ কারণেই মুয়াসসার আগে অভিযোগটা খোলাখুলি বলে নেন: তারা কুরআনকে বলেছিল মুহাম্মাদ ﷺ-এর বানানো মিথ্যা, যা বানাতে অন্য লোকেরা তাঁকে সাহায্য করেছে। তারপর শেষ করেন এক বাক্যে: কুরআন এমন জিনিস নয় যা কোনো মানুষ বানাতে পারে। কথা এটা নয় যে অমুক বা তমুক শিক্ষককে খুঁজে পাওয়া যায় না। কথা হলো, জিনিসটাই মানুষের বানানোর সাধ্যের বাইরে। তাই গোপন সাহায্যকারীদের কারখানার গল্পটা দাঁড়ানোর সুযোগই পায় না।"
           },
           {
             "en": "As-Sa'dī presses the same nerve from the side of what they knew. He calls the charge sheer obstinacy (mukābara), a thing no sound mind could hold, because the Meccans of all people knew the Messenger ﷺ best — his truthfulness, his trustworthiness, the fullness of his integrity — and knew that neither he nor the whole of creation could bring a discourse this lofty, and that he had never sat with anyone to be coached in it. What they brought, as-Sa'dī concludes, was ẓulm and zūr — wrong and a lie.",
-            "bn": "সা'দী একই জায়গায় চাপ দেন, তবে তারা যা জানত সেই দিক থেকে। তিনি অভিযোগটাকে বলেন নিছক গোঁয়ার্তুমি, যা কোনো সুস্থ বুদ্ধি ধারণ করতে পারে না। কারণ মক্কাবাসীরাই তো রসূল ﷺ-কে সবচেয়ে ভালো চিনত, তাঁর সততা, তাঁর আমানতদারি, তাঁর পূর্ণ নিষ্ঠা। তারা জানত, তিনি বা গোটা সৃষ্টিও এমন উঁচু মানের বাণী আনতে পারে না, আর জানত যে তিনি কারও কাছে বসে এ ব্যাপারে তালিম নেননি। সা'দীর সিদ্ধান্ত, তারা যা এনেছে তা যুলম আর যূর, অন্যায় আর মিথ্যা।"
+            "bn": "সা'দী একই জায়গায় আঘাত করেন, তবে মক্কাবাসীরা নিজেরা যা জানত সেই দিক থেকে। তিনি অভিযোগটাকে বলেন নিছক গোঁয়ার্তুমি, যা কোনো সুস্থ মাথায় আসতে পারে না। কারণ রাসূল ﷺ-কে সবচেয়ে ভালো চিনত মক্কাবাসীরাই: তাঁর সত্যবাদিতা, তাঁর আমানতদারি, তাঁর চরিত্রের পূর্ণতা। তারা জানত, এত উঁচু বাণী তিনি তো দূরের কথা, গোটা সৃষ্টি মিলেও আনতে পারবে না। এটাও জানত, তিনি কখনো কারও কাছে বসে এসব তালিম নেননি। সা'দীর উপসংহার: তারা যা এনেছে তা যুলম আর যূর, অন্যায় আর মিথ্যা।"
           }
         ]
       },
       {
         "h": {
           "en": "The Unlettered Man They Knew",
-          "bn": "যাকে তারা নিরক্ষর জানত"
+          "bn": "যে নিরক্ষর মানুষটিকে তারা চিনত"
         },
         "p": [
           {
             "en": "Ibn Kathir, commenting here, meets the borrowing charge with a fact the accusers themselves could not deny. It is established by mass-transmitted report, he says, that Muḥammad ﷺ never learned to read or write, at the beginning of his life or at its end. He grew up among them for some forty years before his mission, and in all that time they had called him al-Amīn, the Trustworthy, for the truthfulness and honesty they saw in him. An unlettered man of that settled reputation is a poor candidate for a secret literary partnership with foreign scribes.",
-            "bn": "ইবন কাসীর এখানে ধার নেওয়ার অভিযোগের মুখে এমন একটি বাস্তবতা রাখেন যা অভিযোগকারীরা নিজেরাই অস্বীকার করতে পারত না। তিনি বলেন, বহুধারায় বর্ণিত ও সর্বজনবিদিত যে মুহাম্মাদ ﷺ জীবনের শুরুতে বা শেষে কখনো পড়তে বা লিখতে শেখেননি। নবুয়তের আগে প্রায় চল্লিশ বছর তিনি তাদের মাঝেই বড় হয়েছেন, আর এই পুরোটা সময় তারা তাঁকে ডাকত আল-আমীন বলে, তাঁর মধ্যে যে সততা আর বিশ্বস্ততা দেখেছিল সেজন্য। এমন মজবুত সুনামের একজন নিরক্ষর মানুষ ভিনদেশি লেখকদের সঙ্গে গোপন সাহিত্যচুক্তির জন্য বড়ই বেমানান।"
+            "bn": "ইবন কাসীর এখানে ধার করার অভিযোগের জবাব দেন এমন এক তথ্য দিয়ে, যা অভিযোগকারীরা নিজেরাও অস্বীকার করতে পারত না। তিনি বলেন, বহু ধারায় বর্ণিত হয়ে এটা প্রতিষ্ঠিত যে মুহাম্মাদ ﷺ জীবনের শুরুতে বা শেষে কখনো পড়তে বা লিখতে শেখেননি। নবুয়তের আগে প্রায় চল্লিশ বছর তিনি তাদের মাঝেই বড় হয়েছেন। পুরো সময়টা তারা তাঁকে আল-আমীন বলে ডাকত, কারণ তাঁর মধ্যে তারা সততা আর বিশ্বস্ততা দেখেছিল। এমন পাকা সুনামের একজন নিরক্ষর মানুষ ভিনদেশি লেখকদের সঙ্গে গোপনে বসে কিতাব রচনা করবেন, এ কথা একেবারেই খাপ খায় না।"
           },
           {
             "en": "That unlettered state is the picture drawn by the report of how revelation began. Al-Bukhārī records from 'Ā'isha (RA) that when the angel first came to him in the cave of Ḥirā' and said 'Read', the Prophet ﷺ answered mā anā bi-qāri' — I am not one who reads — and said it again under the angel's grip, a second and a third time, before the words of Sūrat al-'Alaq were placed on him. This is a narration about the onset of revelation, not an occasion for 25:4; but it shows plainly the man the Meccans imagined as the author of a forgery he had been coached to write.",
-            "bn": "সেই নিরক্ষরতার ছবিটাই ফুটে ওঠে ওহি শুরু হওয়ার বর্ণনায়। বুখারী আয়িশা (রাঃ) থেকে বর্ণনা করেন, হেরা গুহায় ফেরেশতা প্রথম এসে যখন বললেন 'পড়ুন', নবী ﷺ জবাব দিলেন, মা আনা বিকারি, আমি পড়তে জানি না। ফেরেশতার চাপে পড়ে তিনি একই কথা আবার বললেন, দ্বিতীয়বার আর তৃতীয়বার, তারপর সূরা আলাকের শুরুর শব্দগুলো তাঁর উপর রাখা হলো। এটি ওহির সূচনার বর্ণনা, ২৫:৪ আয়াতের কোনো শানে-নুযূল নয়। তবে এ থেকে সাফ বোঝা যায়, মক্কাবাসীরা যাকে শিখিয়ে-পড়িয়ে লেখানো এক জালিয়াতির নীরব রচয়িতা ভাবছিল, সে মানুষটি আসলে কেমন ছিল।"
+            "bn": "সেই নিরক্ষরতার ছবিটাই ফুটে ওঠে ওহি শুরু হওয়ার বর্ণনায়। বুখারী আয়িশা (রাঃ) থেকে বর্ণনা করেন, হেরা গুহায় ফেরেশতা প্রথম এসে যখন বললেন 'পড়ুন', নবী ﷺ জবাব দিলেন, মা আনা বিকারি, আমি পড়তে জানি না। ফেরেশতা তাঁকে চেপে ধরলেন, তিনি আবার একই কথা বললেন, দ্বিতীয়বার, তৃতীয়বার। তারপর তাঁকে দেওয়া হলো সূরা আলাকের শুরুর শব্দগুলো। এটি ওহির সূচনার বর্ণনা, ২৫:৪ আয়াতের কোনো শানে-নুযূল নয়। তবে এ থেকে পরিষ্কার বোঝা যায়, মক্কাবাসীরা যাকে অন্যের শিখিয়ে দেওয়া জালিয়াতির লেখক ভাবছিল, সেই মানুষটি আসলে কেমন ছিলেন।"
           }
         ]
       },
@@ -93,23 +93,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Return to the Qur'an's two-word answer. At-Ṭabarī takes the pair apart. Ẓulm, he reminds us, means at root putting a thing where it does not belong; the wrong here was to file God's own speech and revelation under the label of a fabrication invented by Muḥammad ﷺ. Zūr, he says, is at root the dressing-up of falsehood so that it looks like something true. And from Mujāhid he narrates the plain gloss on the whole clause — kadhiban, a lie, pure and simple. The verdict is not abuse thrown back; it is exact.",
-            "bn": "কুরআনের সেই দুই শব্দের জবাবে ফিরে আসি। তাবারী শব্দ দুটোকে আলাদা করে দেখেন। যুলম, তিনি মনে করিয়ে দেন, মূলে মানে কোনো জিনিসকে তার জায়গা ছাড়া অন্য জায়গায় বসানো। এখানে অন্যায়টা হলো আল্লাহর নিজের কালাম আর ওহিকে মুহাম্মাদ ﷺ-এর বানানো এক জালিয়াতি বলে দাগিয়ে দেওয়া। আর যূর, তিনি বলেন, মূলে মানে মিথ্যাকে সত্যের মতো সাজিয়ে তোলা। মুজাহিদ থেকে তিনি গোটা বাক্যের সোজা ব্যাখ্যাটা আনেন, কিযব, নিছক মিথ্যা। এই রায় পাল্টা গালি নয়, নিখুঁত মাপা কথা।"
+            "bn": "ফিরে আসি কুরআনের সেই দুই শব্দের জবাবে। তাবারী শব্দ দুটোকে আলাদা করে দেখেন। তিনি মনে করিয়ে দেন, যুলমের মূল অর্থ কোনো জিনিসকে তার জায়গা ছাড়া অন্য জায়গায় রাখা। এখানে অন্যায়টা হলো আল্লাহর নিজের কালাম আর ওহিকে মুহাম্মাদ ﷺ-এর বানানো জালিয়াতি বলে দাগিয়ে দেওয়া। আর যূরের মূল অর্থ, তাঁর ভাষায়, মিথ্যাকে সাজিয়ে-গুছিয়ে সত্যের মতো দেখানো। মুজাহিদ থেকে তিনি গোটা বাক্যের সোজা ব্যাখ্যাটা আনেন: কিযব, নিছক মিথ্যা। এই রায় পাল্টা গালি নয়, একেবারে মাপা কথা।"
           },
           {
             "en": "Al-Baghawī reads the same pair as shirk and lie at once — associating partners and speaking falsehood — since to call God's word a human invention is both together. Ibn Kathir sharpens the edge: they have produced an unjust wrong and a lie, and they are the liars, knowing within themselves that what they claim is untrue. The charge, then, was not an honest mistake about where the Book came from. It was an accusation its own makers knew to be false, which is why the reply names it twice over: injustice, and a lie.",
-            "bn": "বাগাভী একই জোড়াকে পড়েন শিরক আর মিথ্যা একসঙ্গে, কারণ আল্লাহর কালামকে মানুষের বানানো বলা এ দুটোই একত্রে। ইবন কাসীর ধারটা আরও তীক্ষ্ণ করেন: তারা এনেছে অন্যায় আর মিথ্যা, আর তারাই মিথ্যাবাদী, নিজেদের ভেতরে জেনেও যে তাদের দাবি সত্য নয়। তাহলে এই অভিযোগ কিতাব কোথা থেকে এল তা নিয়ে সৎ কোনো ভুল ছিল না। এটা এমন এক অভিযোগ যাকে যারা বানাল তারাই মিথ্যা জানত। এ জন্যই জবাব তাকে দুবার নাম ধরে ডাকে, অন্যায়, আর মিথ্যা।"
+            "bn": "বাগাভী শব্দ দুটোতে একসঙ্গে শিরক আর মিথ্যা দেখেন, কারণ আল্লাহর কালামকে মানুষের বানানো বলা মানে দুটোই একসঙ্গে করা। ইবন কাসীর কথাটা আরও ধারালো করেন: তারা অন্যায় আর মিথ্যা নিয়ে এসেছে, আর তারাই মিথ্যাবাদী; মনে মনে তারা জানে, তাদের দাবি সত্য নয়। তাহলে কিতাব কোথা থেকে এল, তা নিয়ে এটা সরল মনের কোনো ভুল ছিল না। যারা অভিযোগটা বানিয়েছিল, তারা নিজেরাই জানত এটা মিথ্যা। এ জন্যই জবাবে দুটো নাম: অন্যায়, আর মিথ্যা।"
           }
         ]
       },
       {
         "h": {
           "en": "A Charge That Keeps Shifting",
-          "bn": "যে অভিযোগ থামে না"
+          "bn": "যে অভিযোগ বারবার রূপ বদলায়"
         },
         "p": [
           {
             "en": "Watch the charge move even across these few verses. In 25:4 the Qur'an is an invented lie with hidden co-authors. In the next breath, 25:5, it becomes legends of the ancients he has had written down, dictated to him morning and evening. A little later the target slides from the Book to the man: why does this messenger eat food and walk the markets (25:7), and then, you follow only a man bewitched (25:8). Forger, copyist, ordinary mortal, a man under a spell — the accusation cannot settle into a single shape.",
-            "bn": "এই কয়টি আয়াতের মধ্যেই অভিযোগটার নড়াচড়া লক্ষ্য করুন। ২৫:৪ আয়াতে কুরআন হলো লুকোনো সহলেখকসহ বানানো এক মিথ্যা। পরের নিঃশ্বাসেই, ২৫:৫ আয়াতে, তা হয়ে যায় পূর্বপুরুষদের কিসসা, যা সে লিখিয়ে নিয়েছে আর সকাল-সন্ধ্যা তাকে পড়ে শোনানো হয়। একটু পরে নিশানা কিতাব থেকে সরে যায় মানুষটার দিকে, এ কেমন রসূল যে খাবার খায় আর হাটবাজারে চলে (২৫:৭), তারপর, তোমরা তো এক যাদুগ্রস্ত লোকেরই অনুসরণ করছ (২৫:৮)। জালিয়াত, নকলনবিশ, সাধারণ মানুষ, যাদুগ্রস্ত কেউ, অভিযোগটা কোনো এক রূপে থিতু হতে পারে না।"
+            "bn": "এই কয়েকটি আয়াতের ভেতরেই খেয়াল করুন, অভিযোগটা কীভাবে জায়গা বদলায়। ২৫:৪ আয়াতে কুরআন হলো বানানো মিথ্যা, যার পেছনে গোপন সহলেখক আছে। ঠিক পরের আয়াতে, ২৫:৫-এ, তা হয়ে যায় পূর্বপুরুষদের কিসসা, যা সে লিখিয়ে নিয়েছে, আর সকাল-সন্ধ্যা তাকে পড়ে শোনানো হয়। একটু পরে নিশানা কিতাব থেকে সরে যায় মানুষটার দিকে: এ কেমন রাসূল, যে খাবার খায় আর হাটবাজারে ঘোরে (২৫:৭)! তারপর: তোমরা তো এক যাদুগ্রস্ত লোকেরই অনুসরণ করছ (২৫:৮)। জালিয়াত, নকলনবিশ, সাধারণ মানুষ, যাদুগ্রস্ত লোক: অভিযোগটা কোনো এক চেহারায় থিতু হতে পারে না।"
           },
           {
             "en": "Ibn Kathir names the pattern outright. They were not sure what to accuse him of, he writes: at times a sorcerer, at times a poet, at times mad, at times a liar — and he cites the Qur'an's own summary, see what comparisons they strike for you; they have strayed and cannot find a way (17:48). A charge that keeps changing shape has stopped being an argument about whether a thing is true and become a hunt for any exit from it. The tell is not the content of the objection but its restlessness.",
@@ -125,18 +125,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One caution must be stated plainly, in the reading and in the living of it. This verse reports what a particular set of Meccan opponents said, and the commentators, in explaining 'another people', report names — an-Naḍr ibn al-Ḥārith among the speakers, and among the alleged informants certain Jews or People of the Book of that town. The verse describes what the text describes: a false claim made by named individuals in one specific dispute. It licenses nothing against any living person or community.",
-            "bn": "একটা সতর্কবার্তা সাফ বলে দেওয়া দরকার, পড়ার বেলায়ও, আর জীবনে মানার বেলায়ও। এই আয়াত জানায় মক্কার একদল নির্দিষ্ট বিরোধী কী বলেছিল। আর তাফসীরকারেরা 'অন্য জাতি' বোঝাতে গিয়ে কিছু নাম আনেন, বক্তাদের মধ্যে নাদর ইবনুল হারিস, আর কথিত তথ্যদাতাদের মধ্যে সেই শহরের কিছু ইহুদি বা আহলে কিতাব। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে, একটি নির্দিষ্ট বিবাদে নির্দিষ্ট কয়েকজনের করা একটি মিথ্যা দাবি। জীবিত কোনো ব্যক্তি বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না।"
+            "bn": "একটা সতর্কতার কথা পরিষ্কার বলে রাখা দরকার, পড়ার বেলায়ও, জীবনে মানার বেলায়ও। এই আয়াত জানায়, মক্কার একদল নির্দিষ্ট বিরোধী কী বলেছিল। আর 'অন্য জাতি'-র ব্যাখ্যায় তাফসীরকারেরা কিছু নাম আনেন: বক্তাদের মধ্যে নাদর ইবনুল হারিস, আর কথিত তথ্যদাতাদের মধ্যে সেই শহরের কিছু ইহুদি বা আহলে কিতাব। আয়াতের কথা ঠিক ততটুকুই: একটা নির্দিষ্ট বিবাদে নির্দিষ্ট কয়েকজন লোকের একটা মিথ্যা দাবি। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না।"
           },
           {
             "en": "To take an early report of who was rumoured to be coaching the Prophet ﷺ and turn it into suspicion of Jews, or of the People of the Book, as a class today is to repeat the very sin the verse condemns — putting a thing where it does not belong, which is ẓulm itself. The Qur'an's quarrel here is with a lie about the Book's origin, not with a people. To read it as a warrant to accuse a whole community would be, in the verse's own words, injustice and falsehood.",
-            "bn": "নবী ﷺ-কে কে শিখিয়ে দিচ্ছিল বলে গুজব ছিল, সেই পুরোনো বর্ণনাকে টেনে এনে আজ ইহুদি বা আহলে কিতাবকে গোটা জাত হিসেবে সন্দেহ করা মানে ঠিক সেই গুনাহই আবার করা, যাকে আয়াত নিন্দা করছে, অর্থাৎ জিনিসকে তার জায়গা ছাড়া বসানো, যা নিজেই যুলম। এখানে কুরআনের ঝগড়া কিতাবের উৎস নিয়ে একটি মিথ্যার সঙ্গে, কোনো জনগোষ্ঠীর সঙ্গে নয়। একে গোটা এক সম্প্রদায়কে দোষারোপের ছাড়পত্র হিসেবে পড়া আয়াতেরই ভাষায় হবে অন্যায় আর মিথ্যা।"
+            "bn": "নবী ﷺ-কে কে শিখিয়ে দিচ্ছে বলে একসময় গুজব ছিল, সেই পুরোনো বর্ণনা টেনে এনে আজ ইহুদি বা আহলে কিতাবকে গোটা জাত ধরে সন্দেহ করা মানে আয়াত যে গুনাহর নিন্দা করছে, ঠিক সেটাই আবার করা: জিনিসকে তার জায়গার বাইরে বসানো, আর সেটাই তো যুলম। এখানে কুরআনের বিরোধ কিতাবের উৎস নিয়ে বানানো এক মিথ্যার সঙ্গে, কোনো জাতির সঙ্গে নয়। একে গোটা সম্প্রদায়কে দোষ দেওয়ার ছাড়পত্র বানালে, আয়াতেরই ভাষায়, সেটা হবে অন্যায় আর মিথ্যা।"
           }
         ]
       },
       {
         "h": {
           "en": "The Door Left Open",
-          "bn": "খোলা রাখা দরজা"
+          "bn": "যে দরজা খোলা রইল"
         },
         "p": [
           {
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That leaves the harder question, the one under the whole scene. The Meccans built a story about where the Book came from so they would not have to answer what it said. The same reflex is nearer than we like to admit. When a truth reaches me that would cost me something to accept, do I weigh what was said, or stay busy with the one who said it, assembling a story about how he 'really' came by it? The honest reply to a message is a reply to the message. Everything else is an exit, and this verse has already named it: injustice, and a lie.",
-            "bn": "এতে শ্রোতার সামনে থেকে যায় আরও কঠিন প্রশ্নটা, যেটা গোটা দৃশ্যের নিচে লুকিয়ে আছে। মক্কাবাসীরা কিতাব কোথা থেকে এল তা নিয়ে একটা গল্প বানিয়েছিল, যাতে কিতাব যা বলে তার জবাব দিতে না হয়। এই স্বভাব আমরা যতটা মানি তার চেয়ে কাছেই আছে। যে সত্য মানতে গেলে আমার কিছু খোয়াতে হয়, আমি কি সেই কথাটা ওজন করি, নাকি যে বলেছে তাকে নিয়ে ব্যস্ত থেকে চুপচাপ একটা গল্প বানাই যে সে 'আসলে' কোথা থেকে পেল? কোনো কথার সৎ জবাব হলো সেই কথার জবাব। বাকি সবই পালানোর পথ, আর এই আয়াত তার নাম আগেই বলে দিয়েছে, অন্যায়, আর মিথ্যা।"
+            "bn": "এরপর থাকে আরও কঠিন প্রশ্নটা, যা গোটা দৃশ্যের নিচে চাপা আছে। মক্কাবাসীরা কিতাব কোথা থেকে এল তা নিয়ে একটা গল্প বানিয়েছিল, যাতে কিতাব কী বলছে তার জবাব দিতে না হয়। এই স্বভাবকে আমরা যতটা দূরের ভাবতে চাই, আসলে তা ততটা দূরে নয়। যে সত্য মানতে গেলে আমার কিছু খোয়াতে হবে, তা যখন আমার কাছে আসে, আমি কি কথাটা ওজন করি? নাকি যে বলেছে তাকে নিয়েই ব্যস্ত থাকি, আর গল্প সাজাই, সে 'আসলে' এটা কোথা থেকে পেল? কোনো বার্তার সৎ জবাব হলো বার্তাটারই জবাব। বাকি সবই পালানোর পথ, আর এই আয়াত আগেই তার নাম বলে দিয়েছে: অন্যায়, আর মিথ্যা।"
           }
         ]
       }
@@ -165,7 +165,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then comes 25:8 with two more demands. Or why is a treasure not cast down to him, or a garden given him to eat from? Ibn Kathir sets these beside Pharaoh's taunt in 43:53, why are golden bracelets not thrown on him, or angels sent along with him. The mind is the same across the two scenes: measure the messenger by wealth and spectacle, and if the grandeur is missing, refuse the message. The verse gathers their tests into one list so that we can see the error whole.",
-            "bn": "এরপর ২৫:৮ আয়াতে আরও দুটি দাবি। তার কাছে ধন-ভান্ডার ফেলা হয় না কেন, কিংবা তার একটা বাগান হয় না কেন যা থেকে সে খেতে পারে? ইবন কাসীর এ দাবিগুলোকে ৪৩:৫৩ আয়াতে ফিরআউনের টিটকারির পাশে রাখেন, তার গায়ে সোনার কাঁকন পরানো হলো না কেন, বা তার সঙ্গে ফেরেশতারা এল না কেন। দুই দৃশ্যেই মন একই: রসূলকে মাপো ধন আর জাঁকজমক দিয়ে, আর সেই জাঁক না থাকলে বার্তাটাই নাকচ করো। আয়াতটি তাদের এই পরীক্ষাগুলোকে একসঙ্গে সাজিয়ে দেয়, যাতে ভুলটা আমরা গোটা দেখতে পাই।"
+            "bn": "এরপর ২৫:৮ আয়াতে আরও দুটি দাবি: তার কাছে ধন-ভান্ডার ফেলা হয় না কেন, কিংবা তার একটা বাগান হয় না কেন, যা থেকে সে খাবে? ইবন কাসীর এ দাবিগুলোকে রাখেন ৪৩:৫৩ আয়াতে ফেরাউনের টিটকারির পাশে: তার গায়ে সোনার কাঁকন পরানো হলো না কেন, বা তার সঙ্গে ফেরেশতারা এল না কেন? দুই দৃশ্যেই মানসিকতা একই: রাসূলকে মাপো ধন আর জাঁকজমক দিয়ে, আর সেই জাঁক না থাকলে বার্তাটাই নাকচ করো। আয়াতটি তাদের এই সব শর্ত এক তালিকায় সাজিয়ে দেয়, যাতে ভুলটা আমরা পুরোটা একবারে দেখতে পাই।"
           }
         ]
       },
@@ -177,7 +177,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Take the treasure first. Al-Baghawi explains it as a treasure sent down on him from the sky, one he could spend, so that he would not have to go back and forth working for his keep. As-Sa'di sharpens it to wealth gathered without effort, mal majmu' min ghayri ta'ab. Their picture of a prophet is a man lifted above ordinary need, funded from heaven, never seen bargaining in a market. Ibn Kathir reads the treasure the same way, as money he could spend from.",
-            "bn": "আগে ধন-ভান্ডারের কথা ধরুন। বাগাভী বলেন, এ আসমান থেকে তার উপর নেমে আসা এক ধন, যা সে খরচ করতে পারবে, ফলে জীবিকার জন্য আর তাকে ছোটাছুটি করতে হবে না। সাদী কথাটা আরও ধারালো করেন: কোনো পরিশ্রম ছাড়াই জমা হওয়া সম্পদ। নবী কেমন হবেন, তাদের সেই ছবিটা এমন এক মানুষের, যাকে সাধারণ অভাবের উপরে তুলে রাখা হয়েছে, যার খরচ আসে আসমান থেকে, যাকে কখনো বাজারে দরদাম করতে দেখা যায় না। ইবন কাসীরও ধনটাকে একইভাবে পড়েন, এমন অর্থ যা থেকে সে খরচ করবে।"
+            "bn": "আগে ধন-ভান্ডারের কথা ধরুন। বাগাভী বলেন, এ হলো আসমান থেকে তার উপর নেমে আসা এক ধন, যা সে খরচ করতে পারবে, ফলে রুজির জন্য তাকে আর ছোটাছুটি করতে হবে না। সাদী কথাটা আরও ধারালো করেন: কোনো পরিশ্রম ছাড়াই জমা হওয়া সম্পদ। তাদের কল্পনার নবী এমন একজন, যিনি সাধারণ অভাবের ঊর্ধ্বে, যাঁর খরচ আসে আসমান থেকে, যাঁকে কখনো বাজারে দরদাম করতে দেখা যায় না। ইবন কাসীরও ধনটাকে একইভাবে বোঝেন: এমন অর্থ, যা থেকে সে খরচ করবে।"
           },
           {
             "en": "The garden is the second half of the wish. At-Tabari glosses jannah simply as a bustan, an orchard, and Ibn Kathir adds a vivid touch: a garden that would travel with him wherever he went, so its fruit was always at hand. As-Sa'di ties it back to 25:7: with such a garden he would be spared walking the markets to seek his food. Both demands share one assumption, that God shows His favour by removing a man from labour and want. The Qur'an will answer that assumption rather than grant it.",
@@ -188,20 +188,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "One Verb, Two Readings",
-          "bn": "এক ক্রিয়া, দুই পড়া"
+          "bn": "এক ক্রিয়া, দুই কিরাআত"
         },
         "p": [
           {
             "en": "A small difference of recitation sits inside the words yakulu minha, from which he eats. At-Tabari records that the reciters of Madinah and Basrah, and some of Kufa, read it with ya, yakulu, meaning the messenger eats from the garden. The general reciters of Kufa read it with nun, nakulu, meaning we eat from it. Al-Baghawi names the second reading precisely: Hamzah and al-Kisa'i read nakulu, that is, we too would eat from it.",
-            "bn": "'ইয়াকুলু মিনহা' অর্থাৎ 'যা থেকে সে খায়'— এই শব্দগুলোর ভেতরে ছোট্ট একটা কিরাআতের পার্থক্য লুকিয়ে আছে। তাবারী লেখেন, মদীনা ও বসরার এবং কূফার কিছু ক্বারী এটি 'ইয়া' দিয়ে পড়েন, 'ইয়াকুলু', মানে রসূল বাগান থেকে খান। কূফার সাধারণ ক্বারীরা পড়েন 'নূন' দিয়ে, 'নাকুলু', মানে আমরা তা থেকে খাই। বাগাভী দ্বিতীয় পড়াটি নির্দিষ্ট করে বলেন: হামযা ও কিসাঈ 'নাকুলু' পড়েন, অর্থাৎ আমরাও তা থেকে খেতাম।"
+            "bn": "'ইয়াকুলু মিনহা', মানে 'যা থেকে সে খায়', এই শব্দগুলোর ভেতরে কিরাআতের ছোট্ট একটা পার্থক্য আছে। তাবারী লেখেন, মদীনা ও বসরার ক্বারীরা আর কূফার কয়েকজন এটা 'ইয়া' দিয়ে পড়েন, 'ইয়াকুলু', অর্থাৎ রাসূল বাগান থেকে খান। কূফার অধিকাংশ ক্বারী পড়েন 'নূন' দিয়ে, 'নাকুলু', অর্থাৎ আমরা তা থেকে খাই। বাগাভী দ্বিতীয় কিরাআতের পাঠকদের নাম বলে দেন: হামযা ও কিসাঈ 'নাকুলু' পড়েন, অর্থাৎ আমরাও তা থেকে খেতাম।"
           },
           {
             "en": "The two readings shift who benefits. On the ya reading the demand is only about the Prophet's own comfort. On the nun reading the objectors imagine sharing in the garden themselves. At-Tabari prefers the ya reading, and gives his reason: the pagans had asked the Prophet to seek these favours for himself, not for them, so it would not fit for them to say seek it that we may eat. He adds that 25:10, blessed is He who could give you better than that, gardens and palaces, addresses the Prophet alone and confirms the point.",
-            "bn": "দুই পড়ায় লাভবান কে, তা বদলে যায়। 'ইয়া' পড়ায় দাবিটা কেবল নবীর নিজের আরাম নিয়ে। 'নূন' পড়ায় আপত্তিকারীরা নিজেরাও সেই বাগানে ভাগ বসানোর কথা ভাবে। তাবারী 'ইয়া' পড়াকেই অগ্রাধিকার দেন, আর কারণ দেন: মুশরিকরা নবীকে বলেছিল এসব অনুগ্রহ নিজের জন্য চাইতে, তাদের জন্য নয়। তাই তাদের মুখে এমন কথা মানানসই নয় যে, তা চাও যেন আমরা খেতে পারি। তিনি যোগ করেন, ২৫:১০ আয়াতে বলা হয়েছে, মহাকল্যাণময় তিনি যিনি চাইলে তোমাকে এর চেয়ে ভালো বাগান ও প্রাসাদ দিতে পারতেন; আর সে সম্বোধন কেবল নবীকেই, যা এ কথাই নিশ্চিত করে।"
+            "bn": "দুই কিরাআতে বদলে যায়, লাভটা কার। 'ইয়া' কিরাআতে দাবিটা কেবল নবীর নিজের আরামের। 'নূন' কিরাআতে আপত্তিকারীরা কল্পনা করে, তারাও সেই বাগানে ভাগ পাবে। তাবারী 'ইয়া' কিরাআতকেই প্রাধান্য দেন, আর কারণও বলেন: মুশরিকরা নবীকে বলেছিল এসব অনুগ্রহ নিজের জন্য চাইতে, তাদের জন্য নয়। তাই তাদের মুখে 'চাও, যাতে আমরা খেতে পারি' কথাটা খাপ খায় না। তিনি আরও বলেন, ২৫:১০ আয়াত, মহাকল্যাণময় তিনি, যিনি চাইলে তোমাকে এর চেয়ে ভালো বাগান ও প্রাসাদ দিতে পারতেন, শুধু নবীকেই সম্বোধন করে, আর তাতে কথাটা আরও পাকা হয়।"
           },
           {
             "en": "Al-Qurtubi reaches the same preference by grammar. Both readings, he says, are good and carry a sound meaning, yet the ya reading is clearer, because the Prophet alone has just been mentioned, so the pronoun returns to him most naturally; he cites this from an-Nahhas. Here two masters of tafsir agree on the stronger reading while keeping the weaker one as a valid recitation, not an error. The disagreement is small, but the habit is the point: name both, weigh both, and do not flatten a real variant into a single line.",
-            "bn": "কুরতুবী একই অগ্রাধিকারে পৌঁছান ব্যাকরণের পথে। তিনি বলেন, দুটি পড়াই ভালো এবং সঠিক অর্থ বহন করে, তবু 'ইয়া' পড়া বেশি স্পষ্ট, কারণ ঠিক আগেই কেবল নবীর কথা এসেছে, তাই সর্বনামটি স্বাভাবিকভাবেই তাঁর দিকেই ফেরে; এ কথা তিনি নাহহাস থেকে উদ্ধৃত করেন। এখানে তাফসীরের দুই পণ্ডিত শক্তিশালী পড়াটির ব্যাপারে একমত, অথচ দুর্বল পড়াটিকেও ভুল নয়, বরং বৈধ কিরাআত হিসেবেই রাখেন। পার্থক্যটা ছোট, কিন্তু অভ্যাসটাই আসল কথা: দুটোরই নাম নাও, দুটোই ওজন করো, আর একটা সত্যিকারের ভিন্ন পড়াকে এক লাইনে চেপে দিয়ো না।"
+            "bn": "কুরতুবী ব্যাকরণের পথ ধরে একই সিদ্ধান্তে পৌঁছান। তিনি বলেন, দুটো কিরাআতই ভালো, দুটোরই অর্থ সঠিক, তবু 'ইয়া' কিরাআত বেশি স্পষ্ট। কারণ ঠিক আগে শুধু নবীর কথাই এসেছে, তাই সর্বনামটা সবচেয়ে স্বাভাবিকভাবে তাঁর দিকেই ফেরে; এ কথা তিনি নাহহাস থেকে নিয়েছেন। এখানে তাফসীরের দুই ইমাম জোরালো কিরাআতের ব্যাপারে একমত, অথচ দুর্বলটিকে ভুল বলেন না, বৈধ কিরাআত হিসেবেই রেখে দেন। মতভেদটা ছোট, কিন্তু আসল শিক্ষা এই অভ্যাসে: দুটোরই উল্লেখ করা, দুটোই ওজন করা, আর সত্যিকারের একটা ভিন্ন কিরাআতকে মুছে এক লাইনে নামিয়ে না আনা।"
           }
         ]
       },
@@ -213,11 +213,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What the objectors held against the Prophet is exactly what makes him reachable. Ibn Kathir, explaining their words, says he walked about and went often to the markets, seeking to trade and earn a living. As-Sa'di too speaks of his walking the markets in search of provision. This is a man who knew hunger and work, who bought and sold among people, who was not a distant figure sealed behind wealth. The disbelievers read that nearness as a defect. Read rightly, it is a mercy.",
-            "bn": "আপত্তিকারীরা নবীর বিরুদ্ধে যা ধরেছিল, ঠিক সেটাই তাঁকে নাগালের মধ্যে আনে। ইবন কাসীর তাদের কথা ব্যাখ্যা করতে গিয়ে বলেন, তিনি ঘুরে বেড়াতেন আর প্রায়ই বাজারে যেতেন ব্যবসা করতে ও জীবিকা অর্জন করতে। সাদীও বলেন রিজিকের খোঁজে তাঁর বাজারে হাঁটার কথা। এ এমন এক মানুষ, যিনি ক্ষুধা ও খাটুনি চিনতেন, মানুষের মাঝে কেনাবেচা করতেন, ধনের আড়ালে বন্ধ কোনো দূরের ছবি ছিলেন না। অবিশ্বাসীরা এই কাছে থাকাটাকে ত্রুটি হিসেবে পড়ল। ঠিকভাবে পড়লে এটাই রহমত।"
+            "bn": "আপত্তিকারীরা নবীর যে দিকটা নিয়ে আপত্তি তুলেছিল, ঠিক সেটাই তাঁকে মানুষের নাগালে এনে দেয়। ইবন কাসীর তাদের কথার ব্যাখ্যায় বলেন, তিনি চলাফেরা করতেন, প্রায়ই বাজারে যেতেন ব্যবসা আর রুজির খোঁজে। সাদীও বলেন রিজিকের খোঁজে তাঁর বাজারে যাওয়ার কথা। তিনি এমন মানুষ, যিনি ক্ষুধা চিনতেন, খাটুনি চিনতেন, মানুষের মাঝে কেনাবেচা করতেন; সম্পদের দেয়ালের আড়ালে থাকা দূরের কেউ ছিলেন না। অবিশ্বাসীরা এই কাছে থাকাটাকে দোষ ভেবেছিল। ঠিকভাবে বুঝলে এটাই রহমত।"
           },
           {
             "en": "A messenger who eats and works can be followed, because his life can be copied. Had guidance come through an angel, or through a rich man walled off from need, the ordinary believer could admire it but never imitate it. Because the Prophet lived within the same limits as those he called, every part of his conduct, from how he ate to how he traded, became a pattern within reach. The very humanity the Makkans mocked is what makes him, in the Qur'an's own words, a beautiful example to follow, in 33:21.",
-            "bn": "যে রসূল খান আর খাটেন, তাঁকে অনুসরণ করা যায়, কারণ তাঁর জীবন নকল করা যায়। ফেরেশতা কিংবা অভাব থেকে দেয়ালে ঘেরা কোনো ধনীর মাধ্যমে যদি হিদায়াত আসত, সাধারণ মুমিন তার প্রশংসা করতে পারত, কিন্তু অনুকরণ করতে পারত না। নবী যাদের ডেকেছেন তাদের মতোই একই সীমার ভেতরে জীবন কাটিয়েছেন বলে তাঁর আচরণের প্রতিটি অংশ, খাওয়া থেকে কেনাবেচা পর্যন্ত, নাগালের মধ্যে থাকা এক আদর্শ হয়ে উঠেছে। মক্কাবাসীরা যে মানবিকতাকে বিদ্রূপ করেছিল, সেটাই তাঁকে কুরআনের ভাষায় ৩৩:২১ আয়াতে এক সুন্দর আদর্শ বানায়।"
+            "bn": "যে রাসূল খাবার খান, পরিশ্রম করেন, তাঁকে অনুসরণ করা যায়, কারণ তাঁর জীবন হুবহু অনুকরণ করা যায়। হিদায়াত যদি আসত কোনো ফেরেশতার মাধ্যমে, কিংবা অভাবের নাগালের বাইরে থাকা কোনো ধনীর মাধ্যমে, সাধারণ মুমিন হয়তো মুগ্ধ হতো, কিন্তু অনুকরণ করতে পারত না। নবী যাদের ডেকেছেন, তিনি তাদেরই মতো একই সীমার ভেতরে জীবন কাটিয়েছেন। তাই খাওয়া থেকে কেনাবেচা পর্যন্ত তাঁর প্রতিটি আচরণ এমন আদর্শ হয়ে উঠেছে, যা সবার নাগালে। মক্কাবাসীরা তাঁর যে মানুষ হওয়াকে বিদ্রূপ করেছিল, সেটাই তাঁকে বানিয়েছে, কুরআনের ভাষায়, অনুসরণের জন্য উত্তম আদর্শ (৩৩:২১)।"
           }
         ]
       },
@@ -229,15 +229,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The objection ends with an insult aimed not at the message but at those who followed it: you follow none but a man mashur, bewitched. Al-Muyassar reads mashur as a man in whom magic has taken hold and overcome his mind. This is the primary sense: a man under a spell, his reason no longer his own, so that whoever trusts him is trusting a broken instrument. It is a way of dismissing every word he says without answering a single one of them.",
-            "bn": "আপত্তিটা শেষ হয় এক কটাক্ষ দিয়ে, যা নবীর বার্তার দিকে নয়, তাক করা হয় তাঁর অনুসারীদের দিকে: তোমরা তো এক 'মাসহুর', যাদুগ্রস্ত লোকেরই অনুসরণ করছ। মুয়াসসার 'মাসহুর' পড়েন এমন লোক, যার উপর যাদু ভর করেছে ও তার বুদ্ধিকে কাবু করে ফেলেছে। এটাই প্রধান অর্থ: এক লোক যাদুর প্রভাবে, যার বিবেক আর তার নিজের নেই, ফলে যে তাকে বিশ্বাস করে সে বিশ্বাস করছে এক ভাঙা যন্ত্রকে। তার একটি কথারও জবাব না দিয়েই সব কথা উড়িয়ে দেওয়ার এ এক কৌশল।"
+            "bn": "আপত্তির শেষটা একটা খোঁচা, তবে সেটা বার্তার দিকে নয়, যারা বার্তা মেনেছে তাদের দিকে: তোমরা তো এক 'মাসহুর', যাদুগ্রস্ত লোকেরই অনুসরণ করছ। মুয়াসসার 'মাসহুর'-এর ব্যাখ্যা করেন এমন লোক, যার উপর যাদু ভর করেছে আর তার বুদ্ধি কাবু করে ফেলেছে। এটাই মূল অর্থ: যাদুতে আচ্ছন্ন এক লোক, যার বুদ্ধি আর তার নিজের বশে নেই। ফলে যে তাকে বিশ্বাস করে, সে যেন একটা ভাঙা যন্ত্রের উপর ভরসা করছে। তার একটা কথারও জবাব না দিয়ে সব কথা উড়িয়ে দেওয়ার এ এক কৌশল।"
           },
           {
             "en": "Other readings sit alongside it. Al-Baghawi glosses mashur first as makhdu', deceived or taken in; then reports a second view, masruf 'ani-l-haqq, one turned away from the truth. Ibn Kathir, listing the charges thrown at the Prophet, gathers them together: they called him a sorcerer, or bewitched, or crazy, or a liar, or a poet. The commentators do not force these into one meaning. They let bewitched, deceived, and turned from the truth stand as the range the word carried, with bewitched foremost.",
-            "bn": "এর পাশে আরও কিছু পড়া আছে। বাগাভী 'মাসহুর'-এর প্রথম অর্থ করেন 'মাখদূ', মানে প্রতারিত, ধোঁকা খাওয়া লোক; এরপর দ্বিতীয় মত আনেন, 'মাসরূফ আনিল হক্ক', মানে সত্য থেকে সরিয়ে দেওয়া একজন। ইবন কাসীর নবীর দিকে ছোড়া অপবাদগুলো একসঙ্গে গোনেন: তারা তাঁকে বলেছে যাদুকর, বা যাদুগ্রস্ত, বা পাগল, বা মিথ্যুক, বা কবি। তাফসীরকারেরা এগুলোকে এক অর্থে চেপে দেন না। তাঁরা যাদুগ্রস্ত, প্রতারিত ও সত্য থেকে বিমুখ— এই তিন অর্থকেই শব্দটির পরিসর হিসেবে দাঁড়াতে দেন, যার আগে থাকে যাদুগ্রস্ত।"
+            "bn": "এর পাশাপাশি আরও কিছু ব্যাখ্যা আছে। বাগাভী 'মাসহুর'-এর প্রথম অর্থ করেন 'মাখদূ', মানে প্রতারিত, ধোঁকা খাওয়া লোক; এরপর দ্বিতীয় একটি মত আনেন, 'মাসরূফ আনিল হক্ক', মানে সত্য থেকে সরিয়ে দেওয়া লোক। ইবন কাসীর নবীর দিকে ছোড়া অপবাদগুলো একসঙ্গে গোনেন: তারা তাঁকে বলেছে যাদুকর, বা যাদুগ্রস্ত, বা পাগল, বা মিথ্যুক, বা কবি। তাফসীরকারেরা এগুলোকে জোর করে এক অর্থে বাঁধেন না। যাদুগ্রস্ত, প্রতারিত আর সত্য থেকে বিমুখ, এই সবগুলোকেই তাঁরা শব্দটির অর্থের পরিসর হিসেবে রেখে দেন, তবে সবার আগে যাদুগ্রস্ত।"
           },
           {
             "en": "What none of the readings can supply is a reason. As-Sa'di makes the sharpest observation here: they said this while they knew the perfection of his intellect, the excellence of his speech, and his freedom from every fault worth naming. The charge of sorcery was not a diagnosis; it was a way to be rid of a man they could not answer. When an argument cannot be met, it is easier to declare its speaker unwell than to weigh what he actually said.",
-            "bn": "কোনো পড়াই যা জোগাতে পারে না, তা হলো একটা কারণ। সাদী এখানে সবচেয়ে তীক্ষ্ণ কথাটা বলেন: তারা এ কথা বলেছিল যখন তারা জানত তাঁর বুদ্ধির পূর্ণতা, তাঁর কথার সৌন্দর্য, আর নিন্দার যোগ্য প্রতিটি দোষ থেকে তাঁর মুক্তি। যাদুর অপবাদ কোনো রোগের রায় ছিল না; ছিল যে মানুষটির জবাব তারা দিতে পারছিল না, তার হাত থেকে রেহাই পাওয়ার পথ। যুক্তির জবাব যখন দেওয়া যায় না, তখন বক্তাকে অসুস্থ ঘোষণা করা তার কথা ওজন করার চেয়ে সহজ।"
+            "bn": "কোনো ব্যাখ্যাই যা দিতে পারে না, তা হলো এ কথার পক্ষে কোনো কারণ। সাদী এখানে সবচেয়ে ধারালো কথাটা বলেন: তারা এটা বলেছিল জেনেশুনেই। তারা জানত তাঁর বুদ্ধি কত পূর্ণ, তাঁর কথা কত সুন্দর, আর উল্লেখ করার মতো কোনো দোষই তাঁর নেই। যাদুর অপবাদ কোনো রোগ ধরার ব্যাপার ছিল না; যে মানুষের জবাব তারা দিতে পারছিল না, তাঁর হাত থেকে রেহাই পাওয়ার উপায় ছিল। যুক্তির জবাব দিতে না পারলে বক্তাকে অসুস্থ ঘোষণা করা সহজ, তিনি আসলে কী বললেন তা ওজন করার চেয়ে।"
           }
         ]
       },
@@ -249,11 +249,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not call these speakers doubters or the confused; it calls them az-zalimun, the wrongdoers. As-Sa'di draws the line exactly: what drove them to speak was their wrongdoing, not any genuine confusion on their part. At-Tabari identifies them as the polytheists speaking to the believers, telling the faithful that in following Muhammad they follow only a bewitched man. The name the Qur'an gives the speakers already carries its verdict on the speech.",
-            "bn": "আয়াত এই বক্তাদের সন্দিহান বা বিভ্রান্ত বলে না; বলে 'আয-যালিমূন', যালিমরা। সাদী রেখাটা ঠিক টেনে দেন: তাদের এ কথা বলতে ঠেলে দিয়েছিল তাদের জুলুম, তাদের কোনো সত্যিকারের সংশয় নয়। তাবারী এদের চিহ্নিত করেন মুমিনদের উদ্দেশে কথা বলা মুশরিক হিসেবে, যারা মুমিনদের বলছে, মুহাম্মাদকে অনুসরণ করে তোমরা কেবল এক যাদুগ্রস্ত লোকেরই পিছু নিচ্ছ। কুরআন বক্তাদের যে নাম দেয়, তার মধ্যেই সেই কথার ব্যাপারে রায় লেখা আছে।"
+            "bn": "আয়াত এই বক্তাদের সন্দিহান বা বিভ্রান্ত বলে না; বলে 'আয-যালিমূন', যালিমরা। সাদী রেখাটা ঠিক জায়গায় টানেন: তাদের এ কথা বলতে ঠেলে দিয়েছিল তাদের জুলুম, কোনো সত্যিকারের সংশয় নয়। তাবারীর মতে এরা মুশরিক, আর কথাটা তারা বলছিল মুমিনদের: মুহাম্মাদকে মেনে তোমরা তো কেবল এক যাদুগ্রস্ত লোকের পিছু নিচ্ছ। কুরআন বক্তাদের যে নাম দেয়, তার মধ্যেই তাদের কথার ব্যাপারে রায় লেখা আছে।"
           },
           {
             "en": "This must be said plainly, in what the verse condemns and in what it does not. The verse records the words of a group of deniers in Makkah and names their sin; it describes what the text describes and licenses nothing against any living person or community. It is no warrant to brand people today as bewitched, deceived, or astray for holding a different view, nor to borrow the wrongdoers' tactic of dismissing a person instead of answering an argument. The lesson faces inward, at how I judge, not outward as a label to hand out.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার, আয়াত যা নিন্দা করে আর যা করে না, দুই দিকেই। আয়াতটি মক্কার একদল অস্বীকারকারীর কথা লিপিবদ্ধ করে আর তাদের গুনাহের নাম দেয়; আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে, আর কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। ভিন্ন মত রাখার জন্য আজ কাউকে যাদুগ্রস্ত, প্রতারিত বা পথভ্রষ্ট বলে দাগিয়ে দেওয়ার এটি কোনো ছাড়পত্র নয়, যুক্তির জবাব না দিয়ে মানুষকে উড়িয়ে দেওয়ার সেই যালিমি কৌশল ধার করারও নয়। শিক্ষাটা ভেতরের দিকে মুখ করা, আমি কীভাবে বিচার করি সেদিকে, বাইরের দিকে ছুড়ে দেওয়া কোনো লেবেল নয়।"
+            "bn": "কথাটা পরিষ্কার বলা দরকার: আয়াত কী নিন্দা করে, আর কী করে না। আয়াতটি মক্কার একদল অস্বীকারকারীর কথা তুলে ধরে আর তাদের গুনাহের নাম বলে দেয়। এর বেশি কিছু নয়; কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। ভিন্ন মত রাখার কারণে আজ কাউকে যাদুগ্রস্ত, প্রতারিত বা পথভ্রষ্ট বলে দাগিয়ে দেওয়ার ছাড়পত্র এ আয়াত নয়। যুক্তির জবাব না দিয়ে মানুষটাকেই উড়িয়ে দেওয়ার সেই যালিমদের কৌশল ধার করার অনুমতিও নয়। শিক্ষাটা নিজের দিকে ফেরানো: আমি কীভাবে বিচার করি। অন্যের গায়ে সেঁটে দেওয়ার মতো কোনো লেবেল এটা নয়।"
           }
         ]
       },
@@ -265,7 +265,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The tafsir consulted here attach no hadith to this verse; the narration below is not tied to 25:8 by any of them, but it names the very scale the wrongdoers refused. Muslim records from Abu Hurayrah (RA) that the Messenger of God (peace be upon him) said: Verily Allah does not look to your faces and your wealth, but He looks to your hearts and your deeds. This is in the Sahih of Muslim, sound by its collector's standard.",
-            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, তারা কেউ এ আয়াতের সঙ্গে কোনো হাদীস জোড়েনি; নিচের বর্ণনাটিও তাদের কারও মতে ২৫:৮ আয়াতের সঙ্গে যুক্ত নয়, তবে যালিমরা যে মাপকাঠি অস্বীকার করেছিল, তা এতে ঠিক নাম ধরে আসে। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন যে, আল্লাহর রসূল ﷺ বলেছেন: নিশ্চয় আল্লাহ তোমাদের চেহারা আর তোমাদের সম্পদের দিকে তাকান না, বরং তিনি তাকান তোমাদের অন্তর আর আমলের দিকে। এটি সহীহ মুসলিমের হাদীস, সংকলকের মানদণ্ডে সহীহ।"
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেনি। নিচের বর্ণনাটিও তাঁদের কেউ ২৫:৮ আয়াতের সঙ্গে জোড়েননি, তবে যালিমরা যে মাপকাঠি মানতে রাজি হয়নি, এ হাদিস ঠিক সেটারই নাম বলে দেয়। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: নিশ্চয় আল্লাহ তোমাদের চেহারা আর সম্পদের দিকে তাকান না, বরং তিনি তাকান তোমাদের অন্তর আর আমলের দিকে। হাদিসটি সহীহ মুসলিমে আছে, সংকলকের মানদণ্ডে সহীহ।"
           },
           {
             "en": "Set that beside the demand of 25:8 and the answer is complete. The Makkans wanted the messenger measured by faces and wealth, by treasure heaped on him and a garden at his door. The hadith says God weighs neither, and weighs instead the heart and what it does. A man walking to market with nothing in his hands may carry more before God than the man behind gates of gold. The objectors were sorting by the wrong ledger, and the sorting itself was the error.",
@@ -276,16 +276,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What He Chose to Withhold",
-          "bn": "যা তিনি রেখে দিলেন"
+          "bn": "যা তিনি ইচ্ছে করেই দেননি"
         },
         "p": [
           {
             "en": "Could God have granted their list? Ibn Kathir answers that all of this, the treasure, the garden, the descending angel, is easy for God, but He had a wisdom in leaving it, and His is the conclusive proof, lahu-l-hujjatu-l-balighah. The withholding was not inability; it was choice. And the very next passage lifts the matter higher: 25:10 declares blessed is He who, if He willed, could give you better than that, gardens beneath which rivers flow, and palaces. The gift they demanded was small beside what He can give and, Ibn Kathir notes from Mujahid, could give even in this world.",
-            "bn": "আল্লাহ কি তাদের ফর্দ পূরণ করতে পারতেন? ইবন কাসীর জবাব দেন, এসব কিছুই আল্লাহর জন্য সহজ, ধন হোক, বাগান হোক, বা নেমে আসা ফেরেশতা, কিন্তু তা রেখে দেওয়ার মধ্যে তাঁর হিকমত ছিল, আর তাঁরই আছে চূড়ান্ত দলিল। রেখে দেওয়াটা অক্ষমতা ছিল না; ছিল পছন্দ। আর ঠিক পরের আয়াত বিষয়টাকে আরও উঁচুতে তোলে: ২৫:১০ আয়াত ঘোষণা করে, মহাকল্যাণময় তিনি, যিনি চাইলে তোমাকে এর চেয়ে ভালো দিতে পারতেন, এমন বাগান যার নিচ দিয়ে নদী বয়, আর প্রাসাদ। তারা যে উপহার চেয়েছিল, তিনি যা দিতে পারেন তার পাশে তা সামান্য, আর ইবন কাসীর মুজাহিদের সূত্রে বলেন, তা এই দুনিয়াতেও দিতে পারতেন।"
+            "bn": "আল্লাহ কি তাদের ফর্দ পূরণ করতে পারতেন? ইবন কাসীরের জবাব: ধন, বাগান, নেমে আসা ফেরেশতা, এসবই আল্লাহর জন্য সহজ। কিন্তু না দেওয়ার মধ্যে তাঁর হিকমত ছিল, আর চূড়ান্ত দলিল তাঁরই। না দেওয়াটা অক্ষমতা ছিল না, ছিল তাঁর নিজের বাছাই। আর ঠিক পরের অংশ বিষয়টাকে আরও উঁচুতে তোলে: ২৫:১০ আয়াত ঘোষণা করে, মহাকল্যাণময় তিনি, যিনি চাইলে তোমাকে এর চেয়ে ভালো দিতে পারতেন, এমন বাগান যার নিচ দিয়ে নদী বয়, আর প্রাসাদ। তিনি যা দিতে পারেন, তার তুলনায় তাদের চাওয়া উপহার সামান্য। ইবন কাসীর মুজাহিদের সূত্রে বলেন, এমনকি এই দুনিয়াতেও তিনি তা দিতে পারতেন।"
           },
           {
             "en": "So the refusal to send treasure was itself an argument. Had a garden and a fortune arrived, faith would have become a transaction, and the message would have been believed for its packaging rather than its truth. God left the messenger plain on purpose, so that whoever followed him followed the truth of what he brought. The question the verse leaves is not whether guidance can afford gold, but whether I will accept the truth when it comes to me with empty hands.",
-            "bn": "তাই ধন না পাঠানোর সিদ্ধান্তটাই ছিল একটা যুক্তি। বাগান আর সম্পদ এসে গেলে ঈমান হয়ে যেত এক লেনদেন, আর বার্তাটা বিশ্বাস করা হতো তার মোড়কের জন্য, সত্যের জন্য নয়। আল্লাহ ইচ্ছে করেই রসূলকে সাদামাটা রাখলেন, যাতে যে তাঁকে অনুসরণ করে সে অনুসরণ করে তাঁর আনা সত্যকেই। আয়াত যে প্রশ্ন রেখে যায় তা এই নয় যে হিদায়াত সোনার খরচ চালাতে পারে কিনা, বরং এই— সত্য যখন খালি হাতে আমার কাছে আসে, আমি কি তা কবুল করব?"
+            "bn": "তাই ধন না পাঠানোটাই ছিল একটা যুক্তি। বাগান আর সম্পদ এসে গেলে ঈমান হয়ে যেত লেনদেন, আর মানুষ বার্তাটা মানত তার মোড়ক দেখে, সত্য দেখে নয়। আল্লাহ ইচ্ছে করেই রাসূলকে সাদামাটা রেখেছেন, যাতে যে তাঁকে অনুসরণ করে, সে অনুসরণ করে তাঁর আনা সত্যকেই। আয়াত যে প্রশ্ন রেখে যায়, তা এই নয় যে হিদায়াতের সঙ্গে সোনা আসতে পারত কি না। প্রশ্নটা হলো: সত্য যখন খালি হাতে আমার কাছে আসে, আমি কি তা কবুল করব?"
           }
         ]
       }
@@ -296,7 +296,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question Put to the Deniers",
-          "bn": "প্রশ্নটা অস্বীকারকারীদের সামনে"
+          "bn": "অস্বীকারকারীদের প্রতি এক প্রশ্ন"
         },
         "p": [
           {
@@ -305,11 +305,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir spells out what this points back to. It is, he says, the state of those wretched ones dragged on their faces to Hell, met with a scowling face, with fury and roaring, thrown into its cramped spaces bound at the shoulders, unable to move, unable to help themselves, unable to escape what they are in. Against all of that stands the alternative. The verse does not add a fresh threat; it takes the threat just given and sets a second picture beside it, so that the two can be seen together and weighed against each other.",
-            "bn": "'এটা' বলতে কী বোঝানো হচ্ছে, ইবন কাসীর তা খুলে বলেন। তাঁর মতে এটা সেই হতভাগাদের অবস্থা, যাদের উপুড় করে মুখের উপর টেনে নেওয়া হয় জাহান্নামের দিকে, যেখানে আগুন তাদের অভ্যর্থনা জানায় বিকৃত মুখে, ক্রোধ আর গর্জনে, তারপর কাঁধ পর্যন্ত বেঁধে ছুড়ে দেওয়া হয় তার সংকীর্ণ জায়গায়, যেখানে তারা নড়তে পারে না, নিজেদের সাহায্য করতে পারে না, যে অবস্থায় আছে তা থেকে বেরোতেও পারে না। এই গোটা দৃশ্যের বিপরীতে দাঁড়িয়ে আছে আরেকটি পরিণতি। আয়াত নতুন কোনো হুমকি যোগ করে না, বরং এইমাত্র দেওয়া হুমকির পাশে দ্বিতীয় একটা ছবি বসিয়ে দেয়, যাতে দুটিকে একসঙ্গে দেখে ওজন করা যায়।"
+            "bn": "'এটা' বলতে কী বোঝানো হচ্ছে, ইবন কাসীর তা খুলে বলেন। তাঁর মতে, এটা সেই হতভাগাদের অবস্থা, যাদের মুখের উপর উপুড় করে টেনে নেওয়া হয় জাহান্নামের দিকে। সেখানে তাদের স্বাগত জানায় এক বিকৃত, ক্রুদ্ধ চেহারা, ক্রোধ আর গর্জন। তারপর কাঁধ পর্যন্ত বেঁধে ছুড়ে ফেলা হয় তার সরু জায়গাগুলোতে। তারা নড়তে পারে না, নিজেদের সাহায্য করতে পারে না, যে অবস্থায় আছে তা থেকে বেরোতেও পারে না। এই সবকিছুর বিপরীতে দাঁড়িয়ে আছে অন্য পরিণতিটি। আয়াত নতুন কোনো হুমকি যোগ করে না। এইমাত্র দেওয়া হুমকির পাশে আরেকটা ছবি বসিয়ে দেয়, যাতে দুটো একসঙ্গে দেখে একটাকে আরেকটার সঙ্গে ওজন করা যায়।"
           },
           {
             "en": "That pairing is the whole force of the line. A scene of the Fire alone frightens; a scene of the Garden alone comforts. Placed as a question with two named answers, they become a choice, and the choice is not abstract. It is the direction a person walks in this life, made visible by naming where each road ends. The verse hands the deniers, and every later reader, the clarity of seeing both destinations at once and being asked, plainly, which of the two they are living toward.",
-            "bn": "এই পাশাপাশি রাখাটাই আয়াতের আসল জোর। শুধু আগুনের দৃশ্য ভয় দেখায়, শুধু জান্নাতের দৃশ্য সান্ত্বনা দেয়। কিন্তু দুটোকে নাম ধরে প্রশ্নের আকারে সামনে রাখলে তা হয়ে ওঠে এক পছন্দ, আর সে পছন্দ কোনো বায়বীয় জিনিস নয়। এ হলো এই জীবনে মানুষ কোন দিকে হাঁটছে সেই দিক, যা দুই পথের শেষ ঠিকানা নাম ধরে বলার মধ্য দিয়ে চোখের সামনে ফুটে ওঠে। আয়াত অস্বীকারকারীদের, আর পরের প্রতিটি পাঠককে, দুই ঠিকানা একসঙ্গে দেখার স্পষ্টতা তুলে দেয় আর সোজাসুজি জিজ্ঞেস করে, তুমি কোনটার দিকে মুখ করে বাঁচছ?"
+            "bn": "এই পাশাপাশি রাখাটাই আয়াতের আসল জোর। শুধু আগুনের দৃশ্য ভয় দেখায়, শুধু জান্নাতের দৃশ্য সান্ত্বনা দেয়। কিন্তু নাম ধরে দুটো উত্তর দিয়ে প্রশ্নের আকারে সামনে রাখলে তা হয়ে যায় একটা বাছাই, আর সে বাছাই কোনো তাত্ত্বিক ব্যাপার নয়। এ হলো এই জীবনে মানুষ কোন দিকে হাঁটছে, সেটাই; প্রতিটি পথ কোথায় গিয়ে শেষ হয়, তা নাম ধরে বলে দেওয়ায় দিকটা চোখের সামনে স্পষ্ট হয়ে ওঠে। আয়াত অস্বীকারকারীদের, আর পরে যারা পড়বে তাদের প্রত্যেককে, দুটো ঠিকানা একসঙ্গে দেখার সুযোগ দেয়। তারপর সোজাসুজি জানতে চায়, দুটোর কোনটার দিকে তারা জীবন কাটাচ্ছে।"
           }
         ]
       },
@@ -329,7 +329,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi keeps one more reading in view, and it cuts deepest. The question, he suggests, may be posed according to your own knowledge and belief, O disbelievers. Because they lived the deeds of the people of the Fire and turned from the Garden, they behaved as though they held the Fire to be the better bargain. The verse then holds their own choice up to them in the shape of a question: you have been living as if this were better; look now at what you have preferred.",
-            "bn": "কুরতুবী আরও একটি পাঠ সামনে রাখেন, আর সেটাই সবচেয়ে গভীরে বেঁধে। প্রশ্নটা, তিনি বলেন, হয়তো তোলা হয়েছে তোমাদের নিজেদের জ্ঞান আর বিশ্বাস অনুযায়ী, হে অবিশ্বাসীরা। কারণ তারা আগুনের বাসিন্দাদের মতো আমল করত আর জান্নাত থেকে মুখ ফেরাত, তাই তাদের আচরণ ছিল যেন তারা আগুনকেই লাভজনক সওদা মনে করত। আয়াত তখন তাদের নিজেদের পছন্দটাই প্রশ্নের আকারে তাদের সামনে তুলে ধরে: তোমরা তো এমনভাবেই বেঁচে এসেছ যেন এটাই ভালো, এবার দেখো কীসের দিকে তোমরা ঝুঁকেছ।"
+            "bn": "কুরতুবী আরও একটি ব্যাখ্যা সামনে রাখেন, আর সেটাই সবচেয়ে গভীরে গিয়ে বেঁধে। তাঁর মতে, প্রশ্নটা হয়তো করা হয়েছে, হে অবিশ্বাসীরা, তোমাদের নিজেদের জানা আর বিশ্বাস অনুযায়ী। তারা জাহান্নামিদের মতো আমল করত আর জান্নাত থেকে মুখ ফিরিয়ে নিত, তাই তাদের আচরণ ছিল এমন, যেন আগুনটাই লাভের সওদা। আয়াত তখন তাদের নিজেদের বাছাইটাই প্রশ্নের আকারে তাদের সামনে তুলে ধরে: তোমরা তো এমনভাবে জীবন কাটিয়েছ যেন এটাই ভালো; এবার দেখো, কোনটা তোমরা বেছে নিয়েছ।"
           }
         ]
       },
@@ -341,11 +341,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The little word that carries more than one anchor, and al-Qurtubi lists them. On one reading it points back to the Fire just described, the nearest and most natural sense, shared by Ibn Kathir, al-Baghawi and as-Sa'di alike. On another it reaches back to 25:10, Blessed is He who, if He willed, could have made for you better than that, gardens and palaces. On a third it returns to 25:8, or a treasure is cast to him, or he has a garden to eat from, the very riches the deniers had demanded of the Prophet.",
-            "bn": "ছোট্ট শব্দ 'এটা'-র একাধিক ভিত্তি আছে, কুরতুবী সেগুলো সাজিয়ে দেন। এক পাঠে এটা ফিরে যায় এইমাত্র বর্ণিত আগুনের দিকে, সবচেয়ে কাছের ও স্বাভাবিক অর্থ, যা ইবন কাসীর, বাগাভী আর সাদী সবাই মানেন। আরেক পাঠে এটা পৌঁছে যায় ২৫:১০ আয়াতে, মহা কল্যাণময় তিনি, যিনি ইচ্ছে করলে তোমাকে এর চেয়ে ভালো কিছু দিতে পারতেন, বাগান আর প্রাসাদ। তৃতীয় পাঠে এটা ফেরে ২৫:৮ আয়াতে, তার কাছে ধন-ভান্ডার ফেলা হয় না কেন, বা তার একটা বাগান হয় না কেন, ঠিক সেই ধন যা অস্বীকারকারীরা নবীর কাছে দাবি করেছিল।"
+            "bn": "ছোট্ট শব্দ 'এটা' একাধিক জিনিসের দিকে ফিরতে পারে, আর কুরতুবী সেগুলো একে একে বলেন। এক ব্যাখ্যায় এটা ফিরে যায় এইমাত্র বর্ণিত আগুনের দিকে; এটাই সবচেয়ে কাছের ও স্বাভাবিক অর্থ, যা ইবন কাসীর, বাগাভী আর সাদী সবাই মানেন। আরেক ব্যাখ্যায় এটা পৌঁছে যায় ২৫:১০ আয়াতে: মহাকল্যাণময় তিনি, যিনি ইচ্ছে করলে তোমাকে এর চেয়ে ভালো কিছু দিতে পারতেন, বাগান আর প্রাসাদ। তৃতীয় ব্যাখ্যায় এটা ফেরে ২৫:৮ আয়াতে: তার কাছে ধন-ভান্ডার ফেলা হয় না কেন, বা তার একটা বাগান হয় না কেন? এ সেই সম্পদ, যা অস্বীকারকারীরা নবীর কাছে দাবি করেছিল।"
           },
           {
             "en": "The readings are not rivals so much as layers. Whether that means the Fire of the doomed, or the fleeting comforts God could grant in this world, or the treasure the deniers wished for, the answer the verse presses is the same: none of these is better than the Garden of Eternity. Set the worst end against it and the Garden wins; set the best of this world against it and the Garden still wins. The comparison is built so that every candidate on the other side falls short.",
-            "bn": "এই পাঠগুলো একে অপরের প্রতিদ্বন্দ্বী নয়, বরং একটার উপর আরেকটা স্তর। 'এটা' মানে হতভাগাদের আগুন হোক, কিংবা দুনিয়ায় আল্লাহর দিতে পারা ক্ষণস্থায়ী ভোগ, অথবা অস্বীকারকারীদের চাওয়া ধন, আয়াত যে জবাবটা চেপে ধরে তা একটাই: এর কোনোটাই চিরস্থায়ী জান্নাতের চেয়ে ভালো নয়। সবচেয়ে খারাপ পরিণতিকে এর পাশে রাখো, জান্নাত জেতে; দুনিয়ার সেরা জিনিসকে রাখো, জান্নাত তবুও জেতে। তুলনাটা এমনভাবে গড়া যে উল্টো দিকের প্রতিটি প্রার্থীই কম পড়ে যায়।"
+            "bn": "এই ব্যাখ্যাগুলো একে অপরের প্রতিদ্বন্দ্বী নয়, বরং একটার উপর আরেকটা স্তর। 'এটা' মানে হতভাগাদের আগুন হোক, কিংবা দুনিয়ায় আল্লাহ যে ক্ষণস্থায়ী সুখ দিতে পারেন তা, অথবা অস্বীকারকারীদের চাওয়া ধন, আয়াত একই জবাবের দিকে ঠেলে দেয়: এর কোনোটাই চিরস্থায়ী জান্নাতের চেয়ে ভালো নয়। সবচেয়ে খারাপ পরিণতিকে এর পাশে রাখলে জান্নাত জেতে; দুনিয়ার সেরা জিনিস রাখলেও জান্নাতই জেতে। তুলনাটা এমনভাবে সাজানো যে অপর পাশের প্রতিটি জিনিসই পিছিয়ে পড়ে।"
           }
         ]
       },
@@ -361,7 +361,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di closes his comment on the verse with the same weight, describing it as a place they return to, settle in, and abide within forever, unendingly. There is no death after it to fear, no expulsion to dread, no clock running down. Set beside the narrow, chained place of 25:13, the contrast is total: one is confinement without release, the other a home without an end. The word eternity is doing the deciding work; it is what makes the two ends genuinely incomparable.",
-            "bn": "সাদী আয়াতের আলোচনা শেষ করেন একই ওজনে, একে বলেন এমন এক জায়গা যেখানে তারা ফিরে আসে, থিতু হয়, আর চিরকাল অনন্তকাল থেকে যায়। এর পরে ভয় পাওয়ার মতো কোনো মৃত্যু নেই, শঙ্কা করার মতো কোনো বিতাড়ন নেই, ফুরিয়ে আসা কোনো ঘড়ি নেই। ২৫:১৩ আয়াতের সংকীর্ণ, শিকল-বাঁধা জায়গার পাশে রাখলে ফারাকটা পূর্ণ: একটা মুক্তিহীন বন্দিদশা, অন্যটা শেষহীন এক ঘর। 'চিরস্থায়ী' শব্দটাই এখানে ফয়সালা করে দিচ্ছে, এটাই দুই পরিণতিকে সত্যিকারভাবে অতুলনীয় করে তোলে।"
+            "bn": "সাদী আয়াতের আলোচনা শেষ করেন একই ভার দিয়ে। তিনি একে বলেন এমন জায়গা, যেখানে তারা ফিরে আসে, থিতু হয়, আর চিরকাল থেকে যায়, যার কোনো শেষ নেই। এর পরে ভয় পাওয়ার মতো কোনো মৃত্যু নেই, বের করে দেওয়ার কোনো আশঙ্কা নেই, ফুরিয়ে আসা কোনো সময় নেই। ২৫:১৩ আয়াতের সরু, শিকলে বাঁধা জায়গার পাশে রাখলে ফারাকটা আকাশ-পাতাল: একটা মুক্তিহীন বন্দিদশা, অন্যটা শেষহীন এক ঘর। এখানে ফয়সালা করে দিচ্ছে 'চিরস্থায়ী' শব্দটাই; এটাই দুই পরিণতিকে সত্যিকার অর্থে অতুলনীয় করে তোলে।"
           }
         ]
       },
@@ -373,7 +373,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Notice the verb: the Garden is something that has been promised to the God-conscious. It is not described as a prize that might be won if things go well, but as a pledge already spoken. At-Tabari ties the promise to a life: it is promised to whoever feared his Lord in this world by obeying Him in what He commanded and forbade. As-Sa'di makes the link tighter still, saying that whoever upholds taqwa, God has already promised it to him. The Garden is owed on a word that God has given.",
-            "bn": "ক্রিয়াটা খেয়াল করুন: জান্নাত এমন এক জিনিস যার ওয়াদা মুত্তাকীদের দেওয়া হয়ে গেছে। একে এমন কোনো পুরস্কার বলা হয়নি যা ভাগ্য ভালো হলে জেতা যেতে পারে, বরং বলা হয়েছে আগেই দেওয়া এক প্রতিশ্রুতি। তাবারী এই ওয়াদাকে এক জীবনের সঙ্গে বেঁধে দেন: যে দুনিয়ায় তার রবকে ভয় করেছে, তাঁর আদেশ-নিষেধ মেনে তাঁর আনুগত্য করেছে, তাকে এর ওয়াদা দেওয়া হয়েছে। সাদী বাঁধনটা আরও শক্ত করেন, বলেন, যে তাকওয়া ধরে রাখে, আল্লাহ তাকে এর ওয়াদা দিয়ে রেখেছেন। জান্নাত আল্লাহর দেওয়া এক কথার উপর পাওনা।"
+            "bn": "ক্রিয়াটা খেয়াল করুন: জান্নাতের ওয়াদা মুত্তাকীদের আগেই দেওয়া হয়ে গেছে। এটা এমন পুরস্কার নয়, যা ভাগ্য ভালো হলে হয়তো মিলবে; এটা আগেই দেওয়া এক প্রতিশ্রুতি। তাবারী এই ওয়াদাকে একটা জীবনের সঙ্গে বেঁধে দেন: যে দুনিয়ায় তার রবকে ভয় করেছে, তাঁর আদেশ-নিষেধ মেনে তাঁর আনুগত্য করেছে, তাকেই এর ওয়াদা দেওয়া হয়েছে। সাদী বাঁধনটা আরও শক্ত করেন: যে তাকওয়া ধরে রাখে, আল্লাহ তাকে এর ওয়াদা দিয়ে রেখেছেন। জান্নাত পাওনা হয়েছে আল্লাহর দেওয়া কথার জোরে।"
           },
           {
             "en": "Who exactly is promised it? Al-Muyassar glosses the God-conscious as those who fear the punishment of their Lord, so the door is not narrow. And the certainty grows firmer in the next verse: 25:16 calls it a promise resting upon your Lord, and Ibn Kathir, reporting the older Arabic scholars, glosses the words a promise requested to mean a binding pledge that must inevitably come to pass. So the tone here is not the dread of the Fire scene but its opposite: hope resting on a guarantee. The Fire is a warning; the Garden is a promise kept.",
@@ -389,7 +389,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends by calling the Garden two things at once: for them it is a reward and a destination. The first word, jaza', is recompense earned. At-Tabari reads it as the requital of the God-conscious for their deeds done for God in this world by obeying Him, and the reward of their taqwa. Al-Baghawi glosses the same word simply as thawab, reward. The Garden, on this half of the verse, is wages: it answers to a life of obedience, given back in kind.",
-            "bn": "আয়াত শেষ হয় জান্নাতকে একসঙ্গে দুটো জিনিস বলে: তাদের জন্য এটা প্রতিদান আর ফেরার ঠিকানা, দুটি জিনিস একসঙ্গে। প্রথম শব্দ, জাযা, মানে অর্জিত বিনিময়। তাবারী একে পড়েন মুত্তাকীদের সেই প্রতিদান হিসেবে, যা দুনিয়ায় আল্লাহর জন্য তাঁর আনুগত্য করে করা আমলের বদলা, তাদের তাকওয়ার পুরস্কার। বাগাভী একই শব্দের অর্থ সোজা করে বলেন সওয়াব, প্রতিদান। আয়াতের এই অর্ধেকে জান্নাত যেন মজুরি: এ আনুগত্যে ভরা এক জীবনের জবাব, সেই অনুযায়ী ফিরিয়ে দেওয়া।"
+            "bn": "আয়াত শেষ হয় জান্নাতকে একসঙ্গে দুটো নামে ডেকে: তাদের জন্য এটা প্রতিদান, আর ফেরার ঠিকানা। প্রথম শব্দ 'জাযা' মানে অর্জিত বিনিময়। তাবারীর ব্যাখ্যায় এটা মুত্তাকীদের সেই বদলা, যা তারা পাবে দুনিয়ায় আল্লাহর আনুগত্য করে তাঁর জন্য যে আমল করেছে তার বিনিময়ে; এটা তাদের তাকওয়ার পুরস্কার। বাগাভী শব্দটির অর্থ করেন সোজা সওয়াব, প্রতিদান। আয়াতের এই অংশে জান্নাত যেন মজুরি: আনুগত্যে কাটানো জীবনের জবাব, যেমন আমল তেমন ফল।"
           },
           {
             "en": "The second word, masir, turns the same place into a homecoming. At-Tabari explains it as a destination the God-conscious come to in the Hereafter; al-Baghawi renders it a place of return; as-Sa'di calls it a refuge they go back to and settle in. So the Garden is not only what obedience earns but where the traveler finally arrives. A reward can feel like a transaction; a destination speaks of belonging. The verse holds both, so that the end of the road is at once justly given and truly home.",
@@ -409,7 +409,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same report adds an invitation: if you wish, recite the verse, No soul knows what is kept hidden for it of joy, as a reward for what they used to do (32:17). That closing phrase, a reward for what they used to do, is the very jaza' of our verse, and the hidden joy no heart has imagined is its Garden. Ibn Kathir, commenting on the next verse, gathers exactly this: delights of food, drink, dwelling and more that no eye has seen and no heart has grasped. The promise is real, and it is larger than the mind that reaches for it.",
-            "bn": "একই বর্ণনা এক আহ্বানও জুড়ে দেয়: ইচ্ছে হলে এ আয়াতটি পড়ো, কোনো প্রাণ জানে না তার জন্য চোখ জুড়ানোর কী লুকিয়ে রাখা হয়েছে, তাদের কাজের প্রতিদান হিসেবে (৩২:১৭)। শেষ কথাটা, কাজের প্রতিদান, আমাদের আয়াতের সেই 'জাযা'-ই, আর কোনো অন্তর যা কল্পনা করেনি সেই লুকানো আনন্দ তার সেই জান্নাত। ইবন কাসীর পরের আয়াতের ব্যাখ্যায় ঠিক এটাই একত্র করেন: খাবার, পানীয়, বাসস্থানসহ এমন সব ভোগ যা কোনো চোখ দেখেনি, কোনো অন্তর ধরতে পারেনি। ওয়াদাটা সত্যি, আর যে মন তাকে ছুঁতে চায় তার চেয়ে ঢের বড়।"
+            "bn": "একই বর্ণনায় একটা আহ্বানও আছে: ইচ্ছে হলে এ আয়াতটি পড়ো, কোনো প্রাণ জানে না তার জন্য চোখ জুড়ানোর কী লুকিয়ে রাখা হয়েছে, তাদের কাজের প্রতিদান হিসেবে (৩২:১৭)। শেষের কথাটা, 'তাদের কাজের প্রতিদান', আমাদের আয়াতের সেই 'জাযা'-ই; আর যে লুকানো আনন্দ কোনো অন্তর কল্পনাও করেনি, সেটাই আমাদের আয়াতের জান্নাত। ইবন কাসীর পরের আয়াতের ব্যাখ্যায় ঠিক এটাই জড়ো করেন: খাবার, পানীয়, বাসস্থান, আরও এমন সব নিয়ামত, যা কোনো চোখ দেখেনি, কোনো অন্তর ধারণা করতে পারেনি। ওয়াদাটা সত্যি, আর যে মন তাকে ছুঁতে চায়, তার চেয়ে ঢের বড়।"
           }
         ]
       },
@@ -421,15 +421,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Why put it as a question at all? As-Sa'di reads the whole line as God making plain the folly of their judgment and their choosing the harmful over the beneficial. A statement could have informed them; a question makes them answer. Standing between a named Fire and a named Garden, the deniers are made to say, if only to themselves, which they are actually choosing. And the honesty of that is the mercy in it: nobody is condemned in the dark, everyone is shown the two ends and asked.",
-            "bn": "প্রশ্নের আকারে বলা হলো কেন? সাদী গোটা কথাটা পড়েন এভাবে: আল্লাহ তাদের বিচারের মূর্খতা আর ক্ষতিকরকে উপকারীর উপর বেছে নেওয়ার নির্বুদ্ধিতা স্পষ্ট করে দিচ্ছেন। বিবৃতি দিলে তাদের জানানো হতো, কিন্তু প্রশ্ন তাদের জবাব দিতে বাধ্য করে। নাম-ধরা এক আগুন আর নাম-ধরা এক জান্নাতের মাঝে দাঁড়িয়ে অস্বীকারকারীদের বলতে হয়, অন্তত নিজেদের কাছে, তারা আসলে কোনটা বেছে নিচ্ছে। আর এই সততাই এর ভেতরের রহমত: কাউকে অন্ধকারে রেখে শাস্তি দেওয়া হয় না, প্রত্যেককে দুই পরিণতি দেখিয়ে জিজ্ঞেস করা হয়।"
+            "bn": "প্রশ্নের আকারে বলা হলো কেন? সাদীর ব্যাখ্যায়, আল্লাহ এখানে দেখিয়ে দিচ্ছেন তাদের বিচার কত বোকামির, তারা উপকারী ছেড়ে ক্ষতিকরটাই বেছে নিচ্ছে। শুধু ঘোষণা দিলে তারা কেবল জানত; প্রশ্ন তাদের জবাব দিতে বাধ্য করে। নাম ধরে বলা এক আগুন আর নাম ধরে বলা এক জান্নাতের মাঝখানে দাঁড়িয়ে অস্বীকারকারীদের বলতেই হয়, অন্তত মনে মনে, তারা আসলে কোনটা বেছে নিচ্ছে। এই খোলাখুলি ভাবটাই এর ভেতরের রহমত: কাউকে অন্ধকারে রেখে দোষী সাব্যস্ত করা হয় না; সবাইকে দুই পরিণতি দেখিয়ে তারপর জিজ্ঞেস করা হয়।"
           },
           {
             "en": "This is a pattern in the Qur'an, not an isolated case. Ibn Kathir points to Surat as-Saffat, where God describes the joy of the people of the Garden and then asks, Is that better as hospitality, or the tree of Zaqqum? (37:62). The same balance is struck: name the good end, name the bitter end, and let the hearer weigh them. When the two are set side by side and spoken aloud, the choice that a life has been quietly making all along is brought into the open where it can still be changed.",
-            "bn": "এটা কুরআনের এক রীতি, একবারের ঘটনা নয়। ইবন কাসীর সূরা সাফফাতের দিকে ইশারা করেন, যেখানে আল্লাহ জান্নাতবাসীর আনন্দ বর্ণনা করে তারপর প্রশ্ন করেন, আপ্যায়নের জন্য এটা ভালো, না যাক্কুম গাছ? (৩৭:৬২)। ভারসাম্যটা এখানেও একই: ভালো পরিণতির নাম বলো, তিক্ত পরিণতির নাম বলো, আর শ্রোতাকে ওজন করতে দাও। যখন দুটিকে পাশাপাশি রেখে মুখে উচ্চারণ করা হয়, তখন জীবন এতদিন চুপচাপ যে পছন্দটা করে আসছিল তা এমন জায়গায় এসে দাঁড়ায় যেখানে তা এখনো বদলানো যায়।"
+            "bn": "এটা কুরআনের একটা রীতি, একবারের ঘটনা নয়। ইবন কাসীর সূরা সাফফাতের কথা মনে করিয়ে দেন, যেখানে আল্লাহ জান্নাতবাসীদের আনন্দের বর্ণনা দিয়ে তারপর প্রশ্ন করেন: আপ্যায়ন হিসেবে এটা ভালো, না যাক্কুম গাছ? (৩৭:৬২)। সেখানেও একই ভারসাম্য: ভালো পরিণতির নাম বলা, তিক্ত পরিণতির নাম বলা, তারপর শ্রোতাকে ওজন করতে দেওয়া। দুটো পাশাপাশি রেখে মুখে উচ্চারণ করলে একটা জীবন এতদিন চুপচাপ যা বেছে আসছিল, তা খোলা জায়গায় বেরিয়ে আসে, যেখানে এখনো তা বদলানো যায়।"
           },
           {
             "en": "So the verse leaves its reader with a mirror, not a verdict. It does not say the Garden is out of reach or the Fire already sealed; it draws both, calls one a promise to the God-conscious, and asks which way I am facing. Most of us would never, in words, choose the Fire. The question is quieter and harder: does the direction of my days, the small and steadily repeated choices of them, actually bend toward the homecoming I claim to want? Naming the two ends is how the verse makes that question impossible to avoid.",
-            "bn": "তাই আয়াত পাঠকের হাতে তুলে দেয় এক আয়না, কোনো রায় নয়। এ বলে না যে জান্নাত নাগালের বাইরে বা আগুন এরই মধ্যে পাকা; বরং দুটোকেই আঁকে, একটাকে বলে মুত্তাকীদের দেওয়া ওয়াদা, আর জিজ্ঞেস করে আমি কোন দিকে মুখ করে আছি। আমাদের বেশির ভাগই মুখে কখনো আগুন বেছে নেব না। প্রশ্নটা আরও চাপা আর আরও কঠিন: আমার দিনগুলোর দিক, সেগুলোর ছোট আর বারবার করা পছন্দ, সত্যিই কি সেই ঠিকানার দিকে বেঁকে আছে যা আমি চাই বলে দাবি করি? দুই পরিণতির নাম বলে দেওয়াই সেই প্রশ্নটাকে এড়ানো অসম্ভব করে তোলে।"
+            "bn": "তাই আয়াত পাঠকের হাতে তুলে দেয় একটা আয়না, কোনো রায় নয়। আয়াত বলে না যে জান্নাত নাগালের বাইরে, বা আগুন আগেই পাকা হয়ে গেছে। দুটোরই ছবি আঁকে, একটাকে বলে মুত্তাকীদের দেওয়া ওয়াদা, তারপর জিজ্ঞেস করে, আমি কোন দিকে মুখ করে আছি। আমাদের বেশির ভাগই মুখে কখনো আগুন বেছে নেব না। প্রশ্নটা আরও নীরব, আরও কঠিন: আমার দিনগুলো, প্রতিদিনের ছোট ছোট বারবার করা সিদ্ধান্তগুলো, সত্যিই কি সেই ঘরে ফেরার দিকে ঝুঁকে আছে, যা আমি চাই বলে দাবি করি? দুই পরিণতির নাম বলে দিয়ে আয়াত এই প্রশ্ন এড়ানোর আর কোনো পথ রাখে না।"
           }
         ]
       }
@@ -465,7 +465,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di draws the same line into a lesson for the reader. God did not make His messengers bodies that ate nothing, nor did He make them angels; He made them men, and so, as-Sa'di says, in them there is a pattern for you to follow. The complaint had assumed that a true messenger must be something other than human, remote and self-sufficient. The Qur'an answers by making the messenger's humanity not an embarrassment to explain away but the very ground on which an ordinary person can walk behind him.",
-            "bn": "সাদী একই সুতোকে টেনে আনেন পাঠকের জন্য এক শিক্ষায়। আল্লাহ তাঁর রসূলদের এমন দেহ বানাননি যা কিছুই খেত না, তাঁদের ফেরেশতাও বানাননি; বানিয়েছেন মানুষ। তাই, সাদী বলেন, তাঁদের মধ্যে তোমার জন্য রয়েছে অনুসরণের নমুনা। আপত্তিটা ধরে নিয়েছিল, সত্যিকারের রসূলকে মানুষের চেয়ে ভিন্ন কিছু হতে হবে, দূরের ও স্বয়ংসম্পূর্ণ। কুরআন জবাব দেয় রসূলের মানবতাকে লজ্জা হিসেবে না দেখিয়ে, বরং সেই মানবতাকেই বানিয়ে তোলে সেই জমি, যার উপর দিয়ে একজন সাধারণ মানুষ তাঁর পিছনে হাঁটতে পারে।"
+            "bn": "সাদী একই কথা থেকে পাঠকের জন্য শিক্ষা বের করে আনেন। আল্লাহ তাঁর রাসূলদের এমন দেহ দেননি যা কিছুই খায় না, তাঁদের ফেরেশতাও বানাননি; বানিয়েছেন মানুষ। তাই, সাদী বলেন, তাঁদের মধ্যে আপনার জন্য রয়েছে অনুসরণের আদর্শ। আপত্তিটা ধরে নিয়েছিল, সত্যিকারের রাসূল মানুষ ছাড়া অন্য কিছু হবেন, দূরের কেউ, কারও মুখাপেক্ষী নন। কুরআনের জবাবে রাসূলের মানুষ হওয়াটা লুকিয়ে রাখার মতো লজ্জার কিছু নয়। বরং সেটাই সেই জমি, যার উপর দিয়ে একজন সাধারণ মানুষ তাঁর পিছু পিছু হাঁটতে পারে।"
           }
         ]
       },
@@ -481,11 +481,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The reports gathered here say the choice was offered and declined. Ma'arif cites the Musnad of Ahmad and at-Tirmidhi, on the authority of Abu Umamah, that God offered to turn the valley and hills of Makkah into gold for him, and he answered, \"No, my Lord; I would rather be fed a day so that I thank You, and go hungry a day so that I am patient.\" Ibn Kathir reports the like — \"had I willed, God would have moved mountains of gold with me\" — and that, given the choice, he chose to be a servant and messenger rather than a prophet and king.",
-            "bn": "এই তাফসীরকারদের জড়ো করা বর্ণনা বলে, সুযোগটি দেওয়া হয়েছিল, আর তিনি ফিরিয়ে দিয়েছিলেন। মাআরিফ আনে আহমাদের মুসনাদ ও তিরমিযী, আবু উমামা (রাঃ) সূত্রে, যে আল্লাহ তাঁর জন্য মক্কার উপত্যকা ও পাহাড়কে সোনা বানিয়ে দিতে চাইলেন, আর তিনি জবাব দিলেন, ‘না, হে আমার রব; বরং আমি একদিন খেয়ে যেন আপনার শোকর করি, আরেকদিন না খেয়ে যেন ধৈর্য ধরি।’ ইবন কাসীর অনুরূপ বর্ণনা করেন, ‘আমি চাইলে আল্লাহ আমার সঙ্গে সোনার পাহাড় চালিয়ে দিতেন,’ আর যে দুটোর মধ্যে বেছে নিতে বলা হলে তিনি নবী-বাদশাহ নয়, বান্দা ও রসূল হওয়াকেই বেছে নিলেন।"
+            "bn": "এখানে জড়ো করা বর্ণনাগুলো বলে, সুযোগটা তাঁকে দেওয়া হয়েছিল, আর তিনি তা ফিরিয়ে দিয়েছিলেন। মাআরিফ মুসনাদে আহমাদ ও তিরমিযী থেকে আবু উমামা (রাঃ)-এর বর্ণনা আনে: আল্লাহ তাঁর জন্য মক্কার উপত্যকা আর পাহাড়গুলো সোনা বানিয়ে দেওয়ার প্রস্তাব দিলেন। তিনি জবাব দিলেন, ‘না, হে আমার রব; বরং আমি একদিন খাব, যেন আপনার শোকর করি, আরেকদিন না খেয়ে থাকব, যেন সবর করি।’ ইবন কাসীরও এমন বর্ণনা আনেন, ‘আমি চাইলে আল্লাহ আমার সঙ্গে সোনার পাহাড় চালিয়ে দিতেন।’ আর দুটোর মধ্যে বেছে নিতে বলা হলে তিনি নবী-বাদশাহ নয়, বান্দা ও রাসূল হওয়াই বেছে নিয়েছিলেন।"
           },
           {
             "en": "At-Tabari names the wisdom behind the withholding, and here the two halves of the verse meet. God did not give Muhammad ﷺ the world; He made him seek his living in the markets, so as to test people: whether they would obey their Lord and answer His messenger with no worldly prize to hope for from him. Had I put the world with him, at-Tabari writes in God's voice, many would have rushed to follow coveting his wealth. So the plain man is not incidental to the test; the absence of spectacle is the test. Will you follow truth for its own sake?",
-            "bn": "তাবারী নাম দেন এই বঞ্চনার পিছনের হিকমতের, আর এখানেই আয়াতের দুই অর্ধেক মিলে যায়। আল্লাহ মুহাম্মদ ﷺ-কে দুনিয়া দেননি, তাঁকে বাজারে রুজি খুঁজতে দিয়েছেন, যাতে মানুষকে পরীক্ষা করা যায়: তারা কি রবের আনুগত্য করবে আর তাঁর রসূলের ডাকে সাড়া দেবে, তাঁর কাছ থেকে দুনিয়ার কোনো পুরস্কারের আশা ছাড়াই। কারণ, তাবারী আল্লাহর জবানে লেখেন, আমি যদি তাঁর সঙ্গে দুনিয়া দিতাম, অনেকেই তাঁর সম্পদের লোভে তাঁকে অনুসরণ করতে ছুটে আসত। তাই সাধারণ চেহারার মানুষটি পরীক্ষার বাইরের কিছু নয়; চোখধাঁধানো কিছুর অনুপস্থিতিই পরীক্ষা: তুমি কি সত্যকে তার নিজের গুণেই মানবে?"
+            "bn": "না দেওয়ার পেছনের হিকমতটা তাবারী খুলে বলেন, আর এখানেই আয়াতের দুই অংশ এসে মেলে। আল্লাহ মুহাম্মাদ ﷺ-কে দুনিয়া দেননি; তাঁকে বাজারে গিয়ে রুজি খুঁজতে দিয়েছেন, যাতে মানুষকে পরীক্ষা করা যায়: তাঁর কাছ থেকে দুনিয়ার কোনো লাভের আশা না থাকলেও তারা কি রবের আনুগত্য করবে, তাঁর রাসূলের ডাকে সাড়া দেবে? তাবারী আল্লাহর জবানিতে লেখেন, আমি যদি তাঁর সঙ্গে দুনিয়া জুড়ে দিতাম, অনেকেই তাঁর সম্পদের লোভে তাঁর পিছনে ছুটে আসত। তাই সাদামাটা মানুষটি পরীক্ষার বাড়তি কোনো অংশ নয়; জাঁকজমক না থাকাটাই পরীক্ষা। আপনি কি সত্যকে মানবেন শুধু সত্য বলেই?"
           }
         ]
       },
@@ -497,7 +497,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "\"And We have made some of you a trial for others.\" As-Sa'di reads the trial as running in every direction at once. The messenger is a trial for the people he is sent to, sorting the obedient from the defiant, and the messengers themselves are tried by the labour of calling others. Wealth is a trial for the poor and poverty a trial for the rich, and so it goes, he says, for every class of creature in this abode — the abode of trial and testing. No station is exempt; each one is a question put to the person standing in it.",
-            "bn": "‘আর আমি তোমাদের একজনকে অন্যজনের জন্য করেছি পরীক্ষা।’ সাদী এই পরীক্ষাকে পড়েন সব দিকে একসঙ্গে বইতে থাকা হিসেবে। রসূল তাঁর প্রেরিত জাতির জন্য পরীক্ষা, অনুগতকে অবাধ্য থেকে আলাদা করেন, আর রসূলরা নিজেরাও পরীক্ষিত হন মানুষকে ডাকার শ্রমে। ধন গরিবের জন্য পরীক্ষা, দারিদ্র্য ধনীর জন্য পরীক্ষা, আর এভাবেই, তিনি বলেন, এই আবাসের প্রতিটি শ্রেণির সৃষ্টির বেলায়, যে আবাস পরীক্ষা ও যাচাইয়ের। কোনো স্তর ছাড় পায় না; প্রতিটিই সেখানে দাঁড়ানো মানুষটির সামনে রাখা এক প্রশ্ন।"
+            "bn": "‘আর আমি তোমাদের একজনকে অন্যজনের জন্য করেছি পরীক্ষা।’ সাদীর ব্যাখ্যায় এই পরীক্ষা চলে সব দিকে একসঙ্গে। রাসূল যাদের কাছে প্রেরিত, তাদের জন্য তিনি পরীক্ষা: কে মানে আর কে অবাধ্য হয়, তা আলাদা হয়ে যায়। রাসূলরাও পরীক্ষিত হন মানুষকে দাওয়াত দেওয়ার কষ্টে। ধন গরিবের জন্য পরীক্ষা, দারিদ্র্য ধনীর জন্য পরীক্ষা। তিনি বলেন, এই দুনিয়ায় প্রতিটি শ্রেণির সৃষ্টির বেলায় এমনই, কারণ এটা পরীক্ষা আর যাচাইয়ের ঘর। কোনো অবস্থানই ছাড় পায় না; প্রতিটি অবস্থান সেখানে দাঁড়ানো মানুষটির কাছে একেকটা প্রশ্ন।"
           },
           {
             "en": "Ibn Kathir and the Muyassar spell out the pairs. God tries some of us by means of others, Ibn Kathir writes, to know who obeys and who disobeys; the Muyassar lists guidance and misguidance, wealth and poverty, health and sickness. At-Tabari fills in the inner voice the trial provokes, quoting al-Hasan: this blind man says, had God willed He would have made me seeing like so-and-so; this poor man, rich like so-and-so; this sick man, well like so-and-so. The verse names that murmur exactly, and then asks its one question of it.",
@@ -512,39 +512,39 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Occasions the Reports Name",
-          "bn": "বর্ণনাগুলোর উল্লেখ করা উপলক্ষ"
+          "bn": "বর্ণনায় যেসব উপলক্ষের কথা আছে"
         },
         "p": [
           {
             "en": "Beside the general reading, al-Baghawi and al-Qurtubi preserve narrower occasions, and it is worth keeping both rather than choosing. On Muqatil's account the words came about certain Quraysh chiefs — Abu Jahl, al-As ibn Wa'il, an-Nadr ibn al-Harith and others — who, seeing that Abu Dharr, Ibn Mas'ud, Ammar, Bilal, Suhayb and men like them had believed, said mockingly, \"Are we to accept Islam and become like these?\" On another report, al-Baghawi's al-Kalbi, a nobleman who meant to believe held back once a low-born man believed first, unwilling to come after him.",
-            "bn": "সাধারণ পাঠের পাশাপাশি বাগাভী ও কুরতুবী রাখেন সংকীর্ণতর কিছু উপলক্ষ, আর একটিকে বেছে নেওয়ার চেয়ে দুটোই ধরে রাখা ভালো। মুকাতিলের বর্ণনায় কথাগুলো এসেছিল কুরাইশের কিছু সরদারকে নিয়ে, আবু জাহল, আস ইবন ওয়ায়িল, নাদর ইবন হারিস ও অন্যরা, যারা আবু যর, ইবন মাসউদ, আম্মার, বিলাল, সুহাইব (রাঃ) ও তাঁদের মতো মানুষকে ঈমান আনতে দেখে বিদ্রূপ করে বলেছিল, ‘আমরা কি ইসলাম গ্রহণ করে এদের মতো হয়ে যাব?’ আরেক বর্ণনায়, বাগাভীর কালবী সূত্রে, একজন অভিজাত ঈমান আনতে চেয়েও থমকে গেল যখন এক নিচু বংশের মানুষ আগে ঈমান আনল, তার পরে আসতে সে রাজি হলো না।"
+            "bn": "সাধারণ ব্যাখ্যার পাশাপাশি বাগাভী ও কুরতুবী আরও নির্দিষ্ট কিছু উপলক্ষের বর্ণনা রেখেছেন; একটিকে বেছে না নিয়ে দুটোই মনে রাখা ভালো। মুকাতিলের বর্ণনায় আয়াতটি এসেছিল কুরাইশের কিছু সরদারকে নিয়ে: আবু জাহল, আস ইবন ওয়ায়িল, নাদর ইবন হারিস ও অন্যরা। তারা যখন দেখল আবু যর, ইবন মাসউদ, আম্মার, বিলাল, সুহাইব (রাঃ) আর তাঁদের মতো মানুষেরা ঈমান এনেছেন, তখন বিদ্রূপ করে বলল, ‘আমরা কি ইসলাম গ্রহণ করে এদের মতো হয়ে যাব?’ বাগাভীর আনা কালবীর আরেক বর্ণনায়, এক অভিজাত লোক ঈমান আনতে চেয়েছিল, কিন্তু নিচু বংশের এক লোক আগে ঈমান আনায় সে থেমে গেল; তার পরে আসতে সে রাজি হলো না।"
           },
           {
             "en": "A third report al-Baghawi carries turns the trial the other way: it came down about the poor believers being tested by the scoffers of Quraysh, who sneered, \"Look at these — the slaves and the lowly among us — who have followed Muhammad.\" To these believers, al-Baghawi says, God addressed the question, \"Will you be patient?\" — that is, patient over this hard state of poverty and abuse. The occasions differ in who is tested by whom, but they converge on the verse's single demand, and none of them makes birth or wealth a measure of a soul.",
-            "bn": "বাগাভীর আনা তৃতীয় একটি বর্ণনা পরীক্ষাটিকে ঘুরিয়ে দেয় উল্টো দিকে: এটি নাযিল হয়েছিল গরিব ঈমানদারদের নিয়ে, যারা পরীক্ষিত হচ্ছিল কুরাইশের বিদ্রূপকারীদের দিয়ে, যারা টিটকারি দিত, ‘এদের দেখো, আমাদের গোলাম আর নিচু লোকেরা, যারা মুহাম্মদের পিছনে গেছে।’ এই ঈমানদারদের উদ্দেশে, বাগাভী বলেন, আল্লাহ রাখলেন প্রশ্ন, ‘তোমরা কি ধৈর্য ধরবে?’, অর্থাৎ দারিদ্র্য ও নির্যাতনের এই কঠিন অবস্থায় ধৈর্য। উপলক্ষগুলো ভিন্ন হয় কে কার দ্বারা পরীক্ষিত তাতে, কিন্তু আয়াতের একটিমাত্র দাবিতে সবাই এসে মেলে, আর কোনোটিই জন্ম বা সম্পদকে কোনো আত্মার মাপ বানায় না।"
+            "bn": "বাগাভীর আনা তৃতীয় একটি বর্ণনা পরীক্ষাটাকে উল্টো দিক থেকে দেখায়: আয়াতটি নাজিল হয়েছিল সেই গরিব মুমিনদের নিয়ে, যাদের পরীক্ষা হচ্ছিল কুরাইশের বিদ্রূপকারীদের দিয়ে। তারা টিটকারি দিত, ‘এদের দেখো, আমাদের গোলাম আর নিচু লোকগুলো মুহাম্মাদের পিছু নিয়েছে।’ বাগাভী বলেন, এই মুমিনদেরই আল্লাহ জিজ্ঞেস করলেন, ‘তোমরা কি ধৈর্য ধরবে?’ অর্থাৎ অভাব আর নির্যাতনের এই কঠিন অবস্থায় ধৈর্য ধরবে কি না। কে কার দ্বারা পরীক্ষিত, তাতে উপলক্ষগুলো আলাদা, কিন্তু সবগুলো এসে মেলে আয়াতের একই দাবিতে। আর কোনোটিই বংশ বা সম্পদকে মানুষের মূল্যের মাপকাঠি বানায় না।"
           }
         ]
       },
       {
         "h": {
           "en": "The Question That Waits for You",
-          "bn": "যে প্রশ্ন তোমার জন্য অপেক্ষা করে"
+          "bn": "যে প্রশ্ন আপনার জন্য অপেক্ষা করছে"
         },
         "p": [
           {
             "en": "\"Will you be patient?\" The Muyassar and as-Sa'di read it as a question with its answer left hanging: will you carry out what God has laid on you and thank Him, so your Lord rewards you, or fail to endure and deserve the punishment? Al-Qurtubi notes the answer is elided precisely so the hearer must supply it: \"or will you not be patient?\" A minority, he adds, read the word not as a question but as a command, \"be patient,\" the way \"will you not desist?\" means \"desist.\" Either way the verse turns to face the one reading it.",
-            "bn": "‘তোমরা কি ধৈর্য ধরবে?’ মুয়াসসার ও সাদী একে পড়েন এমন প্রশ্ন হিসেবে যার জবাব ঝুলিয়ে রাখা: আল্লাহ তোমার উপর যা রেখেছেন তা কি পালন করবে ও তাঁর শোকর করবে, যাতে তোমার রব তোমাকে পুরস্কার দেন, নাকি সইতে না পেরে শাস্তির যোগ্য হবে? কুরতুবী লক্ষ করেন, জবাবটি ঊহ্য রাখা হয়েছে ঠিক এ কারণেই যেন শ্রোতাকে তা জোগাতে হয়, ‘নাকি তোমরা ধৈর্য ধরবে না?’ একটি সংখ্যালঘু মত, তিনি যোগ করেন, শব্দটিকে প্রশ্ন নয় বরং আদেশ ধরে, ‘ধৈর্য ধরো,’ যেমন ‘তোমরা কি থামবে না’ মানে ‘থামো।’ যেভাবেই হোক, আয়াত মুখ ফেরায় তার দিকে যে তা পড়ছে।"
+            "bn": "‘তোমরা কি ধৈর্য ধরবে?’ মুয়াসসার ও সাদী একে পড়েন এমন প্রশ্ন হিসেবে, যার জবাব ঝুলিয়ে রাখা হয়েছে: আল্লাহ তোমার উপর যা চাপিয়েছেন তা কি পালন করবে, তাঁর শোকর করবে, যাতে তোমার রব তোমাকে পুরস্কার দেন? নাকি সইতে না পেরে শাস্তির যোগ্য হবে? কুরতুবী লক্ষ করেন, জবাবটা ইচ্ছে করেই উহ্য রাখা হয়েছে, যাতে শ্রোতা নিজেই তা পূরণ করে: ‘নাকি তোমরা ধৈর্য ধরবে না?’ তিনি আরও জানান, অল্প কয়েকজন শব্দটিকে প্রশ্ন নয়, আদেশ হিসেবে পড়েছেন, ‘ধৈর্য ধরো’, যেমন ‘তোমরা কি থামবে না?’ মানে ‘থামো’। যেভাবেই পড়া হোক, আয়াত শেষে ঘুরে দাঁড়ায় পাঠকের দিকেই।"
           },
           {
             "en": "Al-Qurtubi names the two failures the trial invites and the one patience that answers both. The afflicted may envy the one at ease, and the one at ease may scorn the afflicted; patience is that each restrains himself, this one from insolence, that one from anguish. He recalls al-Muzani, whom poverty had driven out, catching sight of a servant riding in fine style; something stirred in him, and just then he heard a voice reciting \"Will you be patient?\" He answered, \"Yes, our Lord; we will be patient and seek the reward.\" The verse, read aloud in a market, had reached the very man walking through it.",
-            "bn": "কুরতুবী দুটি ব্যর্থতার সংজ্ঞা দেন যা এই পরীক্ষা ডেকে আনে, আর একটিমাত্র ধৈর্য যা দুটোরই জবাব। বিপদগ্রস্ত হয়তো ঈর্ষা করে স্বাচ্ছন্দ্যে থাকা মানুষটিকে, আর স্বাচ্ছন্দ্যের মানুষ হয়তো তাচ্ছিল্য করে বিপদগ্রস্তকে; ধৈর্য হলো দুজনেই নিজেকে সামলানো, একজন ঔদ্ধত্য থেকে, আরেকজন আর্তনাদ থেকে। তিনি স্মরণ করেন মুযানীকে, দারিদ্র্য যাঁকে বাইরে বের করেছিল, যিনি এক ভৃত্যকে জমকালো সওয়ারিতে চড়ে যেতে দেখলেন; মনে কিছু একটা নড়ে উঠল, ঠিক তখনই তিনি শুনলেন কেউ পড়ছে ‘তোমরা কি ধৈর্য ধরবে?’, আর জবাব দিলেন, ‘হ্যাঁ, হে আমাদের রব; আমরা ধৈর্য ধরব আর সওয়াবের আশা রাখব।’ বাজারে উচ্চস্বরে পড়া আয়াতটি সেই মানুষটির উপরই কাজ করে ফেলল, যে সেই বাজার দিয়েই হাঁটছিল।"
+            "bn": "এই পরীক্ষা দুই রকম ব্যর্থতার দিকে টানে, কুরতুবী তা চিহ্নিত করেন, আর দেখান একটাই ধৈর্য দুটোর জবাব। বিপদে থাকা মানুষ হয়তো সুখে থাকা মানুষকে হিংসা করে, আর সুখে থাকা মানুষ হয়তো বিপদগ্রস্তকে তুচ্ছ ভাবে। ধৈর্য মানে দুজনেই নিজেকে সামলায়: একজন অহংকার থেকে, অন্যজন হাহাকার থেকে। তিনি মুযানীর ঘটনা বলেন। অভাব তাঁকে ঘর থেকে বের করে এনেছিল, পথে দেখলেন এক ভৃত্য জমকালো সাজে সওয়ার হয়ে যাচ্ছে। মনের ভেতর কিছু একটা নড়ে উঠল। ঠিক তখনই শুনলেন কেউ পড়ছে, ‘তোমরা কি ধৈর্য ধরবে?’ তিনি জবাব দিলেন, ‘হ্যাঁ, হে আমাদের রব; আমরা ধৈর্য ধরব, আর সওয়াবের আশা রাখব।’ বাজারে উচ্চস্বরে পড়া আয়াতটি গিয়ে পৌঁছল ঠিক সেই মানুষটির কাছে, যিনি তখন সেই বাজার দিয়েই হাঁটছিলেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Look to the One Below You",
-          "bn": "নিচের জনের দিকে তাকাও"
+          "bn": "নিচের জনের দিকে তাকান"
         },
         "p": [
           {
