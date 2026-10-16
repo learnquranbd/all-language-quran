@@ -281,7 +281,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an points to the turn that comes after. Following the mention of the disbelievers, it says, several verses describe the qualities of the righteous and the pleasant consequences of their righteousness. In 51:15 to 51:18 those people are among gardens and springs; before that they slept little of the night and sought forgiveness in the hours before dawn. On hadith, none of the commentaries fetched for this verse attaches a narration to it, so this article quotes none.",
-            "bn": "এরপর যে মোড় আসে, মাআরিফুল কুরআন সেদিকে দৃষ্টি দেয়। কাফিরদের কথা বলার পর, তার ভাষায়, কয়েকটি আয়াত নেককারদের গুণাবলি আর তাদের নেকির সুন্দর পরিণতির কথা বলে। ৫১:১৫ থেকে ৫১:১৮ আয়াতে সেই মানুষেরা আছেন বাগান আর ঝর্ণার মাঝে। দুনিয়ায় তাঁরা রাতে অল্পই ঘুমাতেন, আর ভোরের আগের প্রহরে ইস্তিগফার করতেন। হাদীসের কথা বললে, এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো বর্ণনা যুক্ত করেনি। তাই এ লেখায় কোনো হাদীস উদ্ধৃত করা হলো না।"
+            "bn": "এরপর যে মোড় আসে, মাআরিফুল কুরআন সেদিকে দৃষ্টি দেয়। কাফিরদের কথা বলার পর, তার ভাষায়, কয়েকটি আয়াত নেককারদের গুণাবলি আর তাদের নেকির সুন্দর পরিণতির কথা বলে। ৫১:১৫ থেকে ৫১:১৮ আয়াতে সেই মানুষেরা আছেন বাগান আর ঝর্ণার মাঝে। দুনিয়ায় তাঁরা রাতে অল্পই ঘুমাতেন, আর ভোরের আগের প্রহরে ইস্তিগফার করতেন। হাদিসের কথা বললে, এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো বর্ণনা যুক্ত করেনি। তাই এ লেখায় কোনো হাদিস উদ্ধৃত করা হলো না।"
           }
         ]
       },
@@ -313,7 +313,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the useful question is not when but how. When the Day is mentioned in a lecture, a recitation or a funeral, what does the reminder do to me? If it sends a person back to prayer, to repaying a debt, to mending a wrong, then the question has been asked in the right spirit. If it produces only talk about signs and dates, it has drifted towards the posture this verse describes. The surah answers when with what, and a reader can do the same.",
-            "bn": "তাই কাজের প্রশ্নটা কবে নয়, কীভাবে। কোনো বয়ানে, তিলাওয়াতে বা জানাযায় যখন সেই দিনের কথা ওঠে, নসিহতটা আমার ভেতরে কী করে? যদি তা মানুষকে নামাযে ফেরায়, ঋণ শোধ করতে তাড়া দেয়, কোনো অন্যায় শুধরে নিতে বলে, তবে প্রশ্নটা ঠিক মন নিয়েই করা হয়েছে। আর যদি তা শুধু আলামত আর তারিখ নিয়ে আলাপ জন্ম দেয়, তবে তা সরে গেছে সেই ভঙ্গির দিকে, যার বর্ণনা এ আয়াতে আছে। সূরা কবে-র জবাব দেয় কী দিয়ে। পাঠকও তা-ই করতে পারেন।"
+            "bn": "তাই কাজের প্রশ্নটা কবে নয়, কীভাবে। কোনো বয়ানে, তিলাওয়াতে বা জানাযায় যখন সেই দিনের কথা ওঠে, নসিহতটা আমার ভেতরে কী করে? যদি তা মানুষকে নামাজে ফেরায়, ঋণ শোধ করতে তাড়া দেয়, কোনো অন্যায় শুধরে নিতে বলে, তবে প্রশ্নটা ঠিক মন নিয়েই করা হয়েছে। আর যদি তা শুধু আলামত আর তারিখ নিয়ে আলাপ জন্ম দেয়, তবে তা সরে গেছে সেই ভঙ্গির দিকে, যার বর্ণনা এ আয়াতে আছে। সূরা কবে-র জবাব দেয় কী দিয়ে। পাঠকও তা-ই করতে পারেন।"
           },
           {
             "en": "The righteous described a few verses later are not shown asking about the date at all. They are shown at night, sleeping little, and at dawn, seeking forgiveness. Whatever they believed about the timing of the Day, it reached their nights before it reached their tongues. That is the quiet contrast the passage sets up, and it leaves every reader with a choice between the two ways of holding the same knowledge.",
@@ -445,7 +445,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "After 51:16 the passage turns from what they receive to how they lived: little of the night spent in sleep in 51:17, forgiveness sought in the hours before dawn in 51:18, and in 51:19 a right in their wealth for the asker and the deprived. Each belongs to its own verse and is not developed here. No fetched commentary attaches a hadith to 51:15 itself; the narrations Ibn Kathir brings in this group are attached to 51:17, and they will be weighed there.",
-            "bn": "৫১:১৬ আয়াতের পর অংশটি তারা কী পায় সে কথা থেকে সরে আসে তারা কীভাবে জীবন কাটাত সে কথায়। ৫১:১৭ আয়াতে রাতের অল্প সময় ঘুমে কাটানো, ৫১:১৮ আয়াতে ভোরের আগের প্রহরে ইস্তিগফার, আর ৫১:১৯ আয়াতে তাদের সম্পদে প্রার্থী ও বঞ্চিতের হক। প্রতিটির জায়গা নিজের আয়াতে, এখানে সেগুলো খুলে বলা হচ্ছে না। আনা তাফসীরগুলোর কোনোটিই ৫১:১৫ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয় না। এ গুচ্ছে ইবন কাসীর যেসব বর্ণনা আনেন, সেগুলো ৫১:১৭ আয়াতের সঙ্গে যুক্ত, যাচাইও হবে সেখানেই।"
+            "bn": "৫১:১৬ আয়াতের পর অংশটি তারা কী পায় সে কথা থেকে সরে আসে তারা কীভাবে জীবন কাটাত সে কথায়। ৫১:১৭ আয়াতে রাতের অল্প সময় ঘুমে কাটানো, ৫১:১৮ আয়াতে ভোরের আগের প্রহরে ইস্তিগফার, আর ৫১:১৯ আয়াতে তাদের সম্পদে প্রার্থী ও বঞ্চিতের হক। প্রতিটির জায়গা নিজের আয়াতে, এখানে সেগুলো খুলে বলা হচ্ছে না। আনা তাফসীরগুলোর কোনোটিই ৫১:১৫ আয়াতের সঙ্গে কোনো হাদিস জুড়ে দেয় না। এ গুচ্ছে ইবন কাসীর যেসব বর্ণনা আনেন, সেগুলো ৫১:১৭ আয়াতের সঙ্গে যুক্ত, যাচাইও হবে সেখানেই।"
           }
         ]
       },
@@ -717,7 +717,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi relays a related report as the saying of 'Amr ibn Dinar. The angels said, we eat only for a price. Ibrahim said, eat, and pay its price. They asked, what is its price? He said, that you name Allah when you eat and praise Him when you finish. They looked at one another and said, for this Allah took you as His intimate friend. No chain to the Prophet ﷺ or a Companion appears in the text fetched here, so it stands as a report al-Qurtubi relays, not as a hadith.",
-            "bn": "কুরতুবী আমর ইবন দীনারের কথা হিসেবে এ প্রসঙ্গে একটি বর্ণনা আনেন। ফেরেশতারা বলল, আমরা দাম ছাড়া খাই না। ইবরাহীম বললেন, খান, আর এর দাম দিয়ে দিন। তারা জিজ্ঞেস করল, এর দাম কী? তিনি বললেন, খাওয়ার শুরুতে আল্লাহর নাম নেবেন, শেষ করে তাঁর প্রশংসা করবেন। তারা একে অপরের দিকে তাকিয়ে বলল, এ জন্যই আল্লাহ আপনাকে খলীল, অন্তরঙ্গ বন্ধু বানিয়েছেন। এখানে আনা লেখায় নবী ﷺ বা কোনো সাহাবী পর্যন্ত কোনো সনদ নেই। তাই এটি কুরতুবীর উদ্ধৃত একটি বর্ণনা, হাদীস নয়।"
+            "bn": "কুরতুবী আমর ইবন দীনারের কথা হিসেবে এ প্রসঙ্গে একটি বর্ণনা আনেন। ফেরেশতারা বলল, আমরা দাম ছাড়া খাই না। ইবরাহীম বললেন, খান, আর এর দাম দিয়ে দিন। তারা জিজ্ঞেস করল, এর দাম কী? তিনি বললেন, খাওয়ার শুরুতে আল্লাহর নাম নেবেন, শেষ করে তাঁর প্রশংসা করবেন। তারা একে অপরের দিকে তাকিয়ে বলল, এ জন্যই আল্লাহ আপনাকে খলীল, অন্তরঙ্গ বন্ধু বানিয়েছেন। এখানে আনা লেখায় নবী ﷺ বা কোনো সাহাবী পর্যন্ত কোনো সনদ নেই। তাই এটি কুরতুবীর উদ্ধৃত একটি বর্ণনা, হাদিস নয়।"
           }
         ]
       },
@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it, so none is quoted here; the report from 'Amr ibn Dinar above is a saying al-Qurtubi relays. What the verse leaves is a sequence and a pointer onward. In 51:29 the wife comes forward, and in 51:30 the guests tell her that this is what her Lord has said. Meanwhile Ibrahim's manners at the table, as Ibn Kathir draws them out, remain within reach of any home: the best one has, brought quickly, set close and offered gently.",
-            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি। আমর ইবন দীনারের যে বর্ণনা আগে এসেছে, সেটা কুরতুবীর উদ্ধৃত একটি উক্তি। আয়াত রেখে যায় একটা ক্রম আর সামনের দিকে একটা ইশারা। ৫১:২৯ আয়াতে স্ত্রী এগিয়ে আসেন, আর ৫১:৩০ আয়াতে মেহমানেরা তাঁকে বলেন, আপনার রব এমনই বলেছেন। ওদিকে দস্তরখানে ইবরাহীমের আদব, ইবন কাসীর যেভাবে তা তুলে ধরেছেন, যে কোনো ঘরের নাগালেই আছে: নিজের সেরাটা, দ্রুত এনে, কাছে রেখে, নরম সুরে সামনে দেওয়া।"
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হয়নি। আমর ইবন দীনারের যে বর্ণনা আগে এসেছে, সেটা কুরতুবীর উদ্ধৃত একটি উক্তি। আয়াত রেখে যায় একটা ক্রম আর সামনের দিকে একটা ইশারা। ৫১:২৯ আয়াতে স্ত্রী এগিয়ে আসেন, আর ৫১:৩০ আয়াতে মেহমানেরা তাঁকে বলেন, আপনার রব এমনই বলেছেন। ওদিকে দস্তরখানে ইবরাহীমের আদব, ইবন কাসীর যেভাবে তা তুলে ধরেছেন, যে কোনো ঘরের নাগালেই আছে: নিজের সেরাটা, দ্রুত এনে, কাছে রেখে, নরম সুরে সামনে দেওয়া।"
           }
         ]
       }
@@ -837,7 +837,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari and the Muyassar, at this verse, take another route. They do not name the people; they explain the word that describes them, and the next section follows that explanation. This is a difference of emphasis, not a disagreement. Eight commentaries were fetched for this verse, and none of them attaches a hadith to it, so no hadith is quoted here. The verse is read on its own words and on what the commentators say about those words, with nothing added from outside them and nothing filled in from general memory.",
-            "bn": "তাবারী আর মুয়াসসার এ আয়াতে অন্য পথে যান। তাঁরা জাতির নাম বলেন না, যে শব্দে তাদের বর্ণনা করা হয়েছে সেটার ব্যাখ্যা দেন। পরের অংশ সেই ব্যাখ্যা নিয়েই। এটা মতভেদ নয়, কেবল জোর দেওয়ার জায়গা আলাদা। এ আয়াতের জন্য আটটি তাফসীর সংগ্রহ করা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো হাদীস উদ্ধৃত করা হচ্ছে না। আয়াতটি পড়া হচ্ছে তার নিজের শব্দে, আর সেই শব্দ নিয়ে তাফসীরকারেরা যা বলেছেন তার আলোকে। বাইরে থেকে কিছু যোগ করা হয়নি, আন্দাজে কোনো ফাঁকও ভরাট করা হয়নি।"
+            "bn": "তাবারী আর মুয়াসসার এ আয়াতে অন্য পথে যান। তাঁরা জাতির নাম বলেন না, যে শব্দে তাদের বর্ণনা করা হয়েছে সেটার ব্যাখ্যা দেন। পরের অংশ সেই ব্যাখ্যা নিয়েই। এটা মতভেদ নয়, কেবল জোর দেওয়ার জায়গা আলাদা। এ আয়াতের জন্য আটটি তাফসীর সংগ্রহ করা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেনি। তাই এখানে কোনো হাদিস উদ্ধৃত করা হচ্ছে না। আয়াতটি পড়া হচ্ছে তার নিজের শব্দে, আর সেই শব্দ নিয়ে তাফসীরকারেরা যা বলেছেন তার আলোকে। বাইরে থেকে কিছু যোগ করা হয়নি, আন্দাজে কোনো ফাঁকও ভরাট করা হয়নি।"
           }
         ]
       },
@@ -869,7 +869,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The same people receive other descriptions close by. Two verses on, in 51:34, the stones are marked lil-musrifin, for the transgressors, and the Muyassar glosses that word as those who exceeded the bound in fujur and 'isyan, in wickedness and disobedience. In 29:31 the messengers tell Ibrahim (AS) that the people of this town have been zalimin, wrongdoers. Criminals, transgressors, wrongdoers: three words in the Qur'an's own text for the one people, and each of them describes what they did, not who they were by birth or place.",
-            "bn": "কাছাকাছিই এই জাতির আরও বর্ণনা আছে। দুই আয়াত পরে, ৫১:৩৪ আয়াতে, পাথরগুলো চিহ্নিত লিলমুসরিফীন, সীমালঙ্ঘনকারীদের জন্য। মুয়াসসার শব্দটার ব্যাখ্যা দেয়: যারা ফুজূর আর ইসইয়ানে, অর্থাৎ পাপাচার আর নাফরমানিতে সীমা ছাড়িয়ে গিয়েছিল। ২৯:৩১ আয়াতে দূতেরা ইবরাহীম (আঃ)-কে বলেন, এই জনপদের লোকেরা ছিল যালিমীন, জালিম। অপরাধী, সীমালঙ্ঘনকারী, জালিম: কুরআনের নিজের ভাষায় একই জাতির জন্য তিনটি শব্দ। প্রতিটি শব্দই বলে তারা কী করেছিল। জন্ম বা জায়গার সূত্রে তারা কারা ছিল, তা কোনো শব্দই বলে না।"
+            "bn": "কাছাকাছিই এই জাতির আরও বর্ণনা আছে। দুই আয়াত পরে, ৫১:৩৪ আয়াতে, পাথরগুলো চিহ্নিত লিলমুসরিফীন, সীমালঙ্ঘনকারীদের জন্য। মুয়াসসার শব্দটার ব্যাখ্যা দেয়: যারা ফুজূর আর ইসইয়ানে, অর্থাৎ পাপাচার আর নাফরমানিতে সীমা ছাড়িয়ে গিয়েছিল। ২৯:৩১ আয়াতে দূতেরা ইবরাহীম (আঃ)-কে বলেন, এই জনপদের লোকেরা ছিল জালিমীন, জালিম। অপরাধী, সীমালঙ্ঘনকারী, জালিম: কুরআনের নিজের ভাষায় একই জাতির জন্য তিনটি শব্দ। প্রতিটি শব্দই বলে তারা কী করেছিল। জন্ম বা জায়গার সূত্রে তারা কারা ছিল, তা কোনো শব্দই বলে না।"
           },
           {
             "en": "Ibn Kathir's abridged English, commenting on this passage, brings in what adh-Dhariyat does not narrate. He quotes 11:74 to 11:76: when the fear had left Ibrahim and the glad tidings had reached him, he began to plead with Us for the people of Lut; Ibrahim was forbearing, given to humble supplication, and repentant; and then, O Ibrahim, forsake this, the command of your Lord has come. He also quotes 29:32, where Ibrahim (AS) says that Lut is in the town, and they answer that they know better who is there and will save him and his family, except his wife.",
@@ -1005,7 +1005,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di then adds a sentence that changes how the verse reads. They knew, he says, and Pharaoh above all, that Musa was truthful. He cites 27:14, they denied the signs though their own selves were certain of them, out of wrongdoing and haughtiness, and the words of Musa (AS) to Pharaoh at 17:102: you know well that none sent these down but the Lord of the heavens and the earth, as clear evidence. On as-Sa'di's reading the label does not come from confusion. It is a refusal dressed up as a verdict.",
-            "bn": "এরপর সা'দী এমন এক বাক্য যোগ করেন, যা আয়াতটা পড়ার ধরনই বদলে দেয়। তাঁর কথায়, তারা জানত, বিশেষ করে ফেরাউন জানত, মূসা সত্যবাদী। প্রমাণ হিসেবে তিনি আনেন ২৭:১৪ আয়াত: জুলুম আর ঔদ্ধত্যের বশে তারা নিদর্শনগুলো অস্বীকার করল, অথচ তাদের অন্তর সেগুলোর ব্যাপারে নিশ্চিত ছিল। আর আনেন ১৭:১০২ আয়াতে ফেরাউনের প্রতি মূসা (আঃ)-এর কথা: তুমি ভালো করেই জানো, এগুলো আসমান ও জমিনের রবই নাযিল করেছেন, চোখ খুলে দেওয়ার মতো প্রমাণ হিসেবে। সা'দীর পাঠে তকমাটা বিভ্রান্তি থেকে আসেনি। এটা আসলে প্রত্যাখ্যান, রায়ের পোশাক পরে এসেছে।"
+            "bn": "এরপর সা'দী এমন এক বাক্য যোগ করেন, যা আয়াতটা পড়ার ধরনই বদলে দেয়। তাঁর কথায়, তারা জানত, বিশেষ করে ফেরাউন জানত, মূসা সত্যবাদী। প্রমাণ হিসেবে তিনি আনেন ২৭:১৪ আয়াত: জুলুম আর ঔদ্ধত্যের বশে তারা নিদর্শনগুলো অস্বীকার করল, অথচ তাদের অন্তর সেগুলোর ব্যাপারে নিশ্চিত ছিল। আর আনেন ১৭:১০২ আয়াতে ফেরাউনের প্রতি মূসা (আঃ)-এর কথা: তুমি ভালো করেই জানো, এগুলো আসমান ও জমিনের রবই নাজিল করেছেন, চোখ খুলে দেওয়ার মতো প্রমাণ হিসেবে। সা'দীর পাঠে তকমাটা বিভ্রান্তি থেকে আসেনি। এটা আসলে প্রত্যাখ্যান, রায়ের পোশাক পরে এসেছে।"
           }
         ]
       },
@@ -1057,7 +1057,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it; the narration quoted in this passage of Ibn Kathir's abridged English concerns the wind that destroyed 'Ad at 51:41, not Pharaoh. What follows the six words is 51:40: so We seized him and his hosts and cast them into the sea, and he was blameworthy. The surah then moves on to 'Ad and to Thamud at 51:43, sign after sign laid out for the reader who fears the painful punishment and still has time to turn towards the truth.",
-            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে এই অংশে যে বর্ণনাটি এসেছে, তা ৫১:৪১ আয়াতে আদ জাতিকে ধ্বংস করা বাতাস নিয়ে, ফেরাউনকে নিয়ে নয়। ছয়টি শব্দের পরে আসে ৫১:৪০ আয়াত: অতঃপর আমি তাকে ও তার বাহিনীকে পাকড়াও করলাম এবং সাগরে নিক্ষেপ করলাম, আর সে ছিল নিন্দনীয়। এরপর সূরাটি চলে যায় আদ জাতির দিকে, তারপর ৫১:৪৩ আয়াতে সামূদের দিকে। নিদর্শনের পর নিদর্শন সাজানো আছে সেই পাঠকের জন্য, যে যন্ত্রণাদায়ক আযাবকে ভয় করে, আর যার হাতে এখনো সত্যের দিকে ফেরার সময় আছে।"
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে এই অংশে যে বর্ণনাটি এসেছে, তা ৫১:৪১ আয়াতে আদ জাতিকে ধ্বংস করা বাতাস নিয়ে, ফেরাউনকে নিয়ে নয়। ছয়টি শব্দের পরে আসে ৫১:৪০ আয়াত: অতঃপর আমি তাকে ও তার বাহিনীকে পাকড়াও করলাম এবং সাগরে নিক্ষেপ করলাম, আর সে ছিল নিন্দনীয়। এরপর সূরাটি চলে যায় আদ জাতির দিকে, তারপর ৫১:৪৩ আয়াতে সামূদের দিকে। নিদর্শনের পর নিদর্শন সাজানো আছে সেই পাঠকের জন্য, যে যন্ত্রণাদায়ক আযাবকে ভয় করে, আর যার হাতে এখনো সত্যের দিকে ফেরার সময় আছে।"
           }
         ]
       }
