@@ -141,7 +141,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Some things are absent, and saying so is part of reading honestly. None of the commentaries fetched for this verse attaches a hadith to it, so none is cited here. None gives an occasion of revelation for it. None explains fi khalqikum through embryology or any modern science, and this article does not either. The subjection of all that is in the heavens and the earth comes later, in 45:13, and has its own article.",
-            "bn": "কিছু জিনিস এখানে নেই, আর সেটা বলাও সৎভাবে পড়ার অংশ। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হচ্ছে না। কোনো তাফসীর এর শানে নুযূলও দেয়নি। ভ্রূণবিদ্যা বা আধুনিক কোনো বিজ্ঞান দিয়ে কেউ ফী খালকিকুম ব্যাখ্যা করেননি, এ লেখাও করবে না। আকাশ ও যমীনের সবকিছু অধীন করে দেওয়ার কথা আসে পরে, ৪৫:১৩-এ, আর তার আলাদা লেখা আছে।"
+            "bn": "কিছু জিনিস এখানে নেই, আর সেটা বলাও সৎভাবে পড়ার অংশ। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হচ্ছে না। কোনো তাফসীর এর শানে নুযূলও দেয়নি। ভ্রূণবিদ্যা বা আধুনিক কোনো বিজ্ঞান দিয়ে কেউ ফী খালকিকুম ব্যাখ্যা করেননি, এ লেখাও করবে না। আকাশ ও যমীনের সবকিছু অধীন করে দেওয়ার কথা আসে পরে, ৪৫:১৩-এ, আর তার আলাদা লেখা আছে।"
           },
           {
             "en": "What remains is enough. The verse gives two places to look, the self and the creatures, and one kind of person who reads them rightly. The commentators give the words their sense, record a reading in two forms that at-Tabari accepts equally, and disagree openly over why the endings shift. Nothing in that needs to be padded with more than the sources say in order to do its work on the reader.",
@@ -525,7 +525,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the eight commentaries fetched for this verse attaches a hadith to it, so none is given here. Nor do they report an occasion of revelation for it; the verse is read in its place, after 45:21. The cross-references a reader might expect on creation in truth are not drawn here either, because none of these texts draws them on this verse. What remains is the verse itself, and the glosses the named commentators give.",
-            "bn": "এ আয়াতের জন্য হাতে থাকা আটটি তাফসীরের কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, তাই এখানে কোনো হাদীস আনা হয়নি। নাযিলের কোনো উপলক্ষও তারা বর্ণনা করেনি। আয়াতটি পড়া হয়েছে তার জায়গায়, ৪৫:২১-এর পরে। হক সহকারে সৃষ্টি নিয়ে অন্য যে আয়াতগুলোর কথা পাঠকের মনে আসতে পারে, সেগুলোও এখানে টানা হয়নি, কারণ এসব তাফসীর এ আয়াতে সেগুলো টানেনি। বাকি থাকে আয়াতটি নিজে, আর নাম ধরে উল্লেখ করা তাফসীরকারদের ব্যাখ্যা।"
+            "bn": "এ আয়াতের জন্য হাতে থাকা আটটি তাফসীরের কোনোটিই এর সঙ্গে কোনো হাদিস জুড়ে দেয়নি, তাই এখানে কোনো হাদিস আনা হয়নি। নাজিলের কোনো উপলক্ষও তারা বর্ণনা করেনি। আয়াতটি পড়া হয়েছে তার জায়গায়, ৪৫:২১-এর পরে। হক সহকারে সৃষ্টি নিয়ে অন্য যে আয়াতগুলোর কথা পাঠকের মনে আসতে পারে, সেগুলোও এখানে টানা হয়নি, কারণ এসব তাফসীর এ আয়াতে সেগুলো টানেনি। বাকি থাকে আয়াতটি নিজে, আর নাম ধরে উল্লেখ করা তাফসীরকারদের ব্যাখ্যা।"
           },
           {
             "en": "The verse speaks of every soul, kullu nafsin, so the reader is inside it before anyone else. A practical way to hold it: at the end of a day, name one thing done that no one saw, and trust that it was not lost; name one thing done to someone else that you would not want to meet again, and set it right while it can still be set right. Then leave the accounts of others where the verse leaves them.",
@@ -805,7 +805,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Nor does it turn a person who has questions or doubts today into one of them. The speakers here are marked by their reply after the message reached them, which at-Tabari reads as denial of the promise and rejection of the report. Someone who carries a question to learning is doing the opposite of saying we do not know and walking away. No commentary fetched for this verse attaches a sound hadith to it, so none is cited here, and none gives an occasion of revelation for it.",
-            "bn": "আজ যার মনে প্রশ্ন বা সংশয় আছে, এ আয়াত তাকেও ওই দলের একজন বানায় না। এখানকার বক্তাদের চেনা যায় বার্তা পৌঁছানোর পর তাদের জবাব দিয়ে। তাবারীর পাঠে সে জবাব ছিল প্রতিশ্রুতিকে মিথ্যা বলা আর খবরকে ফিরিয়ে দেওয়া। যে মানুষ নিজের প্রশ্ন নিয়ে ইলমের কাছে যায়, সে তো উল্টো কাজ করছে। সে আমরা জানি না বলে মুখ ফিরিয়ে চলে যাচ্ছে না। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি। কোনো তাফসীর এর শানে নুযূলও উল্লেখ করেনি।"
+            "bn": "আজ যার মনে প্রশ্ন বা সংশয় আছে, এ আয়াত তাকেও ওই দলের একজন বানায় না। এখানকার বক্তাদের চেনা যায় বার্তা পৌঁছানোর পর তাদের জবাব দিয়ে। তাবারীর পাঠে সে জবাব ছিল প্রতিশ্রুতিকে মিথ্যা বলা আর খবরকে ফিরিয়ে দেওয়া। যে মানুষ নিজের প্রশ্ন নিয়ে ইলমের কাছে যায়, সে তো উল্টো কাজ করছে। সে আমরা জানি না বলে মুখ ফিরিয়ে চলে যাচ্ছে না। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হয়নি। কোনো তাফসীর এর শানে নুযূলও উল্লেখ করেনি।"
           }
         ]
       },
