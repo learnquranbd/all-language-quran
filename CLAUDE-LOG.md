@@ -32,6 +32,8 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN: 3:190-191 s2.p1 sums up 3:192 as "shame at the fate of wrongdoers"; the verse is the disgrace of whoever is put in the Fire.
 - Shard 3 DONE v982 (8/8 + spelling pass). Reviewers moved duas to address Allah as আপনি only in strings they rewrote; untouched dua strings in 3 may still say তুমি (mixed). Bengali-only notes kept: 3:18-19 s1.p1 (Ahsanul Bayan), 3:123-126 s1.p0.
 - USER DECISION: ~975 EN article paragraphs (nearly every js/tadabbur-articles shard) leak the drafting process: "None of the commentaries fetched for this verse...", "the tafsir page fetched", "these fetched commentators", 17:80 s4.p0 "The note behind this article". Proposed: fetched -> consulted (skip "far-fetched") + same rule in tools/wip/round11/BRIEF.md. Not done.
+- Shard 16 DONE v983 (6/6 + spelling pass incl. জিহবা→জিহ্বা). Open EN: 16:116 s6.p0 "in both readings of the verse" refers to nothing; 16:116 s2.p2 says carrion was among what pagans banned (they allowed it); 16:96-97 s0.p1 "baq" mangled for baqin; 16:98 s2.p1 "the first view, seeking it before" but the first view named is seeking refuge after.
+- Open EN (17): 17:47 s7.p2 Allah knows "what is said to Him" (slander was about the Prophet); 17:47 s6.p1 "describes what the text describes" tautology.
 - Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
