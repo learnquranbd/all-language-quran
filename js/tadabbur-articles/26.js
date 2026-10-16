@@ -192,20 +192,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Naming the Wrongdoing People",
-          "bn": "যালিম সম্প্রদায়ের পরিচয়"
+          "bn": "জালিম সম্প্রদায়ের পরিচয়"
         },
         "p": [
           {
             "en": "Who are the wrongdoing people the messenger is sent to? At-Tabari answers without hesitation: the disbelievers, the people of Pharaoh. He also notes the grammar that binds this verse to the next. The phrase the people of Pharaoh in 26:11 stands in the accusative as an explication of the wrongdoing people in 26:10, so the second naming simply spells out the first. The Qur'an withholds the name for one line, calls them by their wrong, and only then tells us exactly whose court is meant.",
-            "bn": "রাসূলকে যাদের কাছে পাঠানো হচ্ছে, সেই যালিম সম্প্রদায় কারা? তাবারী কোনো দ্বিধা ছাড়াই জবাব দেন: কাফিররা, ফেরাউনের সম্প্রদায়। তিনি সেই ব্যাকরণের দিকেও ইশারা করেন, যা এই আয়াতকে পরের আয়াতের সঙ্গে বেঁধে রাখে। ২৬:১১ আয়াতের ফেরাউনের সম্প্রদায় কথাটি কর্মকারকে বসেছে ২৬:১০ আয়াতের যালিম সম্প্রদায়ের ব্যাখ্যা হিসেবে, তাই দ্বিতীয় নামটি প্রথমটিকেই খুলে বলে। কুরআন এক আয়াত পর্যন্ত নামটা বলে না, তাদের পরিচয় দেয় তাদের অন্যায় দিয়ে; তারপরই জানিয়ে দেয়, ঠিক কার দরবারের কথা হচ্ছে।"
+            "bn": "রাসূলকে যাদের কাছে পাঠানো হচ্ছে, সেই জালিম সম্প্রদায় কারা? তাবারী কোনো দ্বিধা ছাড়াই জবাব দেন: কাফিররা, ফেরাউনের সম্প্রদায়। তিনি সেই ব্যাকরণের দিকেও ইশারা করেন, যা এই আয়াতকে পরের আয়াতের সঙ্গে বেঁধে রাখে। ২৬:১১ আয়াতের ফেরাউনের সম্প্রদায় কথাটি কর্মকারকে বসেছে ২৬:১০ আয়াতের জালিম সম্প্রদায়ের ব্যাখ্যা হিসেবে, তাই দ্বিতীয় নামটি প্রথমটিকেই খুলে বলে। কুরআন এক আয়াত পর্যন্ত নামটা বলে না, তাদের পরিচয় দেয় তাদের অন্যায় দিয়ে; তারপরই জানিয়ে দেয়, ঠিক কার দরবারের কথা হচ্ছে।"
           },
           {
             "en": "Al-Baghawi opens up what their wrong actually was, and it runs in two directions at once. They wronged themselves, he says, through disbelief and disobedience, refusing the God who made them. And they wronged the Children of Israel by enslaving them and subjecting them to the worst of torment. The single word ẓālimīn thus covers both a sin against heaven and a crime against a people. It is not a vague label of dislike; it names a documented refusal of God joined to a documented cruelty toward the powerless.",
-            "bn": "বাগভী খুলে বলেন, তাদের অন্যায়টা আসলে কী ছিল। সে অন্যায় চলছিল একসঙ্গে দুই দিকে। এক, তারা কুফর আর নাফরমানি করে নিজেদের ওপর জুলুম করেছে, যে আল্লাহ তাদের সৃষ্টি করেছেন তাঁকেই অস্বীকার করেছে। দুই, তারা বনী ইসরাঈলের ওপর জুলুম করেছে, তাদের দাস বানিয়ে আর সবচেয়ে নিকৃষ্ট নির্যাতনে ফেলে। তাই যালিমীন, এই একটি শব্দের মধ্যেই আছে আল্লাহর বিরুদ্ধে গুনাহ আর একটা জাতির বিরুদ্ধে অপরাধ, দুটোই। এটা অপছন্দের কোনো ঝাপসা তকমা নয়। এ শব্দ বোঝায় আল্লাহকে অস্বীকারের প্রমাণিত ইতিহাস, তার সঙ্গে অসহায় মানুষের ওপর প্রমাণিত নিষ্ঠুরতা।"
+            "bn": "বাগভী খুলে বলেন, তাদের অন্যায়টা আসলে কী ছিল। সে অন্যায় চলছিল একসঙ্গে দুই দিকে। এক, তারা কুফর আর নাফরমানি করে নিজেদের ওপর জুলুম করেছে, যে আল্লাহ তাদের সৃষ্টি করেছেন তাঁকেই অস্বীকার করেছে। দুই, তারা বনী ইসরাঈলের ওপর জুলুম করেছে, তাদের দাস বানিয়ে আর সবচেয়ে নিকৃষ্ট নির্যাতনে ফেলে। তাই জালিমীন, এই একটি শব্দের মধ্যেই আছে আল্লাহর বিরুদ্ধে গুনাহ আর একটা জাতির বিরুদ্ধে অপরাধ, দুটোই। এটা অপছন্দের কোনো ঝাপসা তকমা নয়। এ শব্দ বোঝায় আল্লাহকে অস্বীকারের প্রমাণিত ইতিহাস, তার সঙ্গে অসহায় মানুষের ওপর প্রমাণিত নিষ্ঠুরতা।"
           },
           {
             "en": "As-Sa'di presses on the arrogance underneath it. These were people who exalted themselves in the land and set themselves above its inhabitants, and whose chief went so far as to claim lordship for himself. Al-Muyassar keeps the identification plain and short: the wrongdoing people are the people of Pharaoh. Between them the commentators draw one portrait, a regime that had inverted the order of things, putting a man where God belongs and putting a nation in chains, and calling the arrangement normal.",
-            "bn": "সাদী জোর দেন এর তলায় থাকা অহংকারের ওপর। এরা দেশে নিজেদের বড় করে দেখত, দেশের মানুষের ওপর নিজেদের চাপিয়ে রেখেছিল, আর এদের সর্দার তো নিজেকে রব বলে দাবি পর্যন্ত করে বসেছিল। মুয়াসসার পরিচয়টা দেন সোজা আর ছোট করে: যালিম সম্প্রদায় মানে ফেরাউনের সম্প্রদায়। সব মিলিয়ে তাফসীরকারেরা একটাই ছবি আঁকেন: এমন এক শাসন, যা সবকিছুর স্বাভাবিক নিয়ম উল্টে দিয়েছিল। আল্লাহর জায়গায় বসিয়েছিল একজন মানুষকে, গোটা একটা জাতিকে বেঁধেছিল শিকলে, আর বলছিল, এটাই তো স্বাভাবিক।"
+            "bn": "সাদী জোর দেন এর তলায় থাকা অহংকারের ওপর। এরা দেশে নিজেদের বড় করে দেখত, দেশের মানুষের ওপর নিজেদের চাপিয়ে রেখেছিল, আর এদের সর্দার তো নিজেকে রব বলে দাবি পর্যন্ত করে বসেছিল। মুয়াসসার পরিচয়টা দেন সোজা আর ছোট করে: জালিম সম্প্রদায় মানে ফেরাউনের সম্প্রদায়। সব মিলিয়ে তাফসীরকারেরা একটাই ছবি আঁকেন: এমন এক শাসন, যা সবকিছুর স্বাভাবিক নিয়ম উল্টে দিয়েছিল। আল্লাহর জায়গায় বসিয়েছিল একজন মানুষকে, গোটা একটা জাতিকে বেঁধেছিল শিকলে, আর বলছিল, এটাই তো স্বাভাবিক।"
           }
         ]
       },
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly, in the same breath as the naming. The verse describes one particular people, the court of one particular king, and the wrong the Qur'an records against them: their disbelief and their enslavement of Israel. It licenses nothing against any living person or community. No nation, family or faith-group today may be branded the wrongdoing people on the strength of this line, and anyone who reaches for it to justify contempt for a whole people has turned a verse about ẓulm into an act of ẓulm.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার, ঠিক নাম বলার সঙ্গে সঙ্গেই। আয়াতটি একটি নির্দিষ্ট সম্প্রদায়ের কথা বলে, একজন নির্দিষ্ট বাদশাহর দরবারের কথা, আর সেই অন্যায়ের কথা যা কুরআন তাদের বিরুদ্ধে লিপিবদ্ধ করেছে: তাদের কুফর আর বনী ইসরাঈলকে দাস বানানো। এ আয়াত কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আজ কোনো জাতি, পরিবার বা ধর্মদলকে এই লাইনের জোরে যালিম সম্প্রদায় বলে দাগানো যায় না। যে কেউ গোটা একটা জাতিকে ঘৃণা করার সাফাই খুঁজতে এটি টেনে আনে, সে যুলুম নিয়ে বলা আয়াতকেই বানিয়ে ফেলে এক যুলুম।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার, ঠিক নাম বলার সঙ্গে সঙ্গেই। আয়াতটি একটি নির্দিষ্ট সম্প্রদায়ের কথা বলে, একজন নির্দিষ্ট বাদশাহর দরবারের কথা, আর সেই অন্যায়ের কথা যা কুরআন তাদের বিরুদ্ধে লিপিবদ্ধ করেছে: তাদের কুফর আর বনী ইসরাঈলকে দাস বানানো। এ আয়াত কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আজ কোনো জাতি, পরিবার বা ধর্মদলকে এই লাইনের জোরে জালিম সম্প্রদায় বলে দাগানো যায় না। যে কেউ গোটা একটা জাতিকে ঘৃণা করার সাফাই খুঁজতে এটি টেনে আনে, সে জুলুম নিয়ে বলা আয়াতকেই বানিয়ে ফেলে এক জুলুম।"
           },
           {
             "en": "The verse itself refuses that misuse. The very next line does not call down ruin on Pharaoh's people; it asks whether they will not fear God, holding the door of return open even to them. If the worst regime named in the passage is still addressed as capable of taqwā, then the reader is given no warrant to write off anyone as beyond it. To name a wrong rightly is one thing; to hate the wrongdoer past all hope of his return is another, and this verse does not teach the second.",
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di observes that God repeated the story of Mūsā in the Qur'an, and doubled it, more than He did for any other, because it carries great wisdoms and lessons, holding within it his dealings with wrongdoers and with believers alike. Mūsā, he adds, is the bearer of the great law and of the Torah, the best of the revealed books after the Qur'an. The man being called in this verse is no minor figure; he is the prophet whose confrontation with tyranny the Qur'an returns to again and again.",
-            "bn": "সাদী লক্ষ করেন, আল্লাহ কুরআনে মূসার কাহিনি যতবার এনেছেন, যত নানা দিক থেকে ফিরিয়ে ফিরিয়ে বলেছেন, অন্য কোনো কাহিনি ততবার আনেননি। কারণ এতে আছে বড় বড় হিকমত আর শিক্ষা; আছে যালিমদের সঙ্গে আর মুমিনদের সঙ্গে তাঁর আচরণের কথা। তিনি আরও বলেন, মূসা মহান শরিয়তের বাহক, তাওরাতের ধারক, আর আসমানি কিতাবগুলোর মধ্যে কুরআনের পরেই তাওরাতের স্থান। এই আয়াতে যাঁকে ডাকা হচ্ছে, তিনি সাধারণ কেউ নন। তিনি সেই নবী, জুলুমের বিরুদ্ধে যাঁর লড়াইয়ের কথা কুরআন বারবার ফিরে ফিরে বলে।"
+            "bn": "সাদী লক্ষ করেন, আল্লাহ কুরআনে মূসার কাহিনি যতবার এনেছেন, যত নানা দিক থেকে ফিরিয়ে ফিরিয়ে বলেছেন, অন্য কোনো কাহিনি ততবার আনেননি। কারণ এতে আছে বড় বড় হিকমত আর শিক্ষা; আছে জালিমদের সঙ্গে আর মুমিনদের সঙ্গে তাঁর আচরণের কথা। তিনি আরও বলেন, মূসা মহান শরিয়তের বাহক, তাওরাতের ধারক, আর আসমানি কিতাবগুলোর মধ্যে কুরআনের পরেই তাওরাতের স্থান। এই আয়াতে যাঁকে ডাকা হচ্ছে, তিনি সাধারণ কেউ নন। তিনি সেই নবী, জুলুমের বিরুদ্ধে যাঁর লড়াইয়ের কথা কুরআন বারবার ফিরে ফিরে বলে।"
           },
           {
             "en": "And yet the call opens not with his rank but with his errand. Before Mūsā is told that God will be with him, before his brother is granted to him, he is simply pointed at the hardest door of his age and told to walk through it. The reassurances come, and they come quickly in the verses that follow, but they come after the assignment, not before it. The order is the lesson: the task is given first, and the comfort is given to those who accept the task.",
@@ -301,7 +301,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The call comes in 26:10 and 26:11: your Lord called Mūsā (AS), telling him to go to the wrongdoing people, the people of Pharaoh, who would not fear God. Ibn Kathir, on this passage, describes God calling him from the right side of the mountain, speaking with him, choosing him, and commanding him to go. The command is to confront a tyrant at the height of his power. Mūsā's reply in 26:12 opens not with protest but with a name: Rabbi, my Lord.",
-            "bn": "ডাকটা আসে ২৬:১০ ও ২৬:১১ আয়াতে: তোমার প্রতিপালক মূসা (আঃ)-কে ডাকলেন, বললেন যালিম সম্প্রদায়ের কাছে যেতে, ফেরাউনের সম্প্রদায়ের কাছে, যারা আল্লাহকে ভয় করে না। ইবন কাসীর এই অংশে বলেন, আল্লাহ তাঁকে পাহাড়ের ডান পাশ থেকে ডাকলেন, তাঁর সঙ্গে কথা বললেন, তাঁকে বেছে নিলেন আর ফেরাউনের কাছে যাওয়ার হুকুম দিলেন। হুকুমটা ক্ষমতার চূড়ায় বসা এক স্বৈরাচারীর মুখোমুখি হওয়ার। মূসা (আঃ)-এর জবাব ২৬:১২ আয়াতে শুরু হয় প্রতিবাদ দিয়ে নয়, একটা নাম দিয়ে: রাব্বি, হে আমার প্রতিপালক।"
+            "bn": "ডাকটা আসে ২৬:১০ ও ২৬:১১ আয়াতে: তোমার প্রতিপালক মূসা (আঃ)-কে ডাকলেন, বললেন জালিম সম্প্রদায়ের কাছে যেতে, ফেরাউনের সম্প্রদায়ের কাছে, যারা আল্লাহকে ভয় করে না। ইবন কাসীর এই অংশে বলেন, আল্লাহ তাঁকে পাহাড়ের ডান পাশ থেকে ডাকলেন, তাঁর সঙ্গে কথা বললেন, তাঁকে বেছে নিলেন আর ফেরাউনের কাছে যাওয়ার হুকুম দিলেন। হুকুমটা ক্ষমতার চূড়ায় বসা এক স্বৈরাচারীর মুখোমুখি হওয়ার। মূসা (আঃ)-এর জবাব ২৬:১২ আয়াতে শুরু হয় প্রতিবাদ দিয়ে নয়, একটা নাম দিয়ে: রাব্বি, হে আমার প্রতিপালক।"
           },
           {
             "en": "At-Tabari reads the whole line as Mūsā (AS) speaking to his Lord: I fear, from Pharaoh's people whom You have ordered me to go to, that they will deny me. The address matters. Before he says a word about his fear, he places it inside a relationship. He is not arguing with the mission; he is talking to the One who gave it. The first move of a servant under a hard command is to turn toward the Commander.",
@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi sharpens it: the denial Mūsā (AS) fears is denial in the message and the prophethood. Al-Muyassar reads it the same way, that they would belie him in the risāla, the errand of revelation he was sent with. This is the particular fear of anyone charged with saying something true and unwelcome. It is not weakness of faith in God; it is a clear-eyed reading of the people he was being sent to, whom the previous verse has already named as wrongdoers.",
-            "bn": "কুরতুবী কথাটা আরও স্পষ্ট করেন: মূসা (আঃ) যে মিথ্যাবাদী বলার ভয় পাচ্ছেন, তা রিসালাত আর নবুয়ত অস্বীকারের ভয়। মুয়াসসারও একই অর্থ নেন: তারা রিসালাতের ব্যাপারে, অর্থাৎ যে ওহির দায়িত্ব দিয়ে তাঁকে পাঠানো হয়েছে, সে ব্যাপারে তাঁকে মিথ্যাবাদী বলবে। সত্য অথচ অপ্রিয় কথা বলার দায়িত্ব যার কাঁধে, এটা তারই বিশেষ ভয়। এটা আল্লাহর ওপর ঈমানের দুর্বলতা নয়। যাদের কাছে তাঁকে পাঠানো হচ্ছে, তাদের তিনি ঠিকঠাক চিনেছিলেন; আগের আয়াতই তো তাদের যালিম বলে দিয়েছে।"
+            "bn": "কুরতুবী কথাটা আরও স্পষ্ট করেন: মূসা (আঃ) যে মিথ্যাবাদী বলার ভয় পাচ্ছেন, তা রিসালাত আর নবুয়ত অস্বীকারের ভয়। মুয়াসসারও একই অর্থ নেন: তারা রিসালাতের ব্যাপারে, অর্থাৎ যে ওহির দায়িত্ব দিয়ে তাঁকে পাঠানো হয়েছে, সে ব্যাপারে তাঁকে মিথ্যাবাদী বলবে। সত্য অথচ অপ্রিয় কথা বলার দায়িত্ব যার কাঁধে, এটা তারই বিশেষ ভয়। এটা আল্লাহর ওপর ঈমানের দুর্বলতা নয়। যাদের কাছে তাঁকে পাঠানো হচ্ছে, তাদের তিনি ঠিকঠাক চিনেছিলেন; আগের আয়াতই তো তাদের জালিম বলে দিয়েছে।"
           }
         ]
       },
@@ -409,7 +409,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The wording answers our verse almost line for line. Mūsā (AS) feared and turned to his Lord, and God said innā maʿakum, We are with you. The hadith makes that companionship the standing rule: God is with the servant the moment the servant remembers Him, and He closes the distance faster than the servant opens it. The fear that drives someone toward God is not the end of nearness. It is often its beginning, the first handspan that God answers with an arm's length.",
-            "bn": "হাদীসের কথা যেন আমাদের আয়াতের সঙ্গে লাইনে লাইনে মেলে। মূসা (আঃ) ভয় পেয়ে রবের দিকে ফিরলেন, আর আল্লাহ বললেন ইন্না মাআকুম, আমি তোমাদের সঙ্গে আছি। হাদীস সেই সঙ্গ থাকাকে বানিয়ে দেয় স্থায়ী নিয়ম: বান্দা স্মরণ করার মুহূর্তেই আল্লাহ তার সঙ্গে থাকেন, আর বান্দা যত দূরত্ব ঘোচায় তার চেয়ে দ্রুত তিনি ঘোচান। যে ভয় মানুষকে আল্লাহর দিকে ঠেলে দেয়, তা নৈকট্যের শেষ নয়। বরং প্রায়ই তা নৈকট্যের শুরু, সেই প্রথম বিঘত যার জবাবে আল্লাহ দেন এক হাত।"
+            "bn": "হাদিসের কথা যেন আমাদের আয়াতের সঙ্গে লাইনে লাইনে মেলে। মূসা (আঃ) ভয় পেয়ে রবের দিকে ফিরলেন, আর আল্লাহ বললেন ইন্না মাআকুম, আমি তোমাদের সঙ্গে আছি। হাদিস সেই সঙ্গ থাকাকে বানিয়ে দেয় স্থায়ী নিয়ম: বান্দা স্মরণ করার মুহূর্তেই আল্লাহ তার সঙ্গে থাকেন, আর বান্দা যত দূরত্ব ঘোচায় তার চেয়ে দ্রুত তিনি ঘোচান। যে ভয় মানুষকে আল্লাহর দিকে ঠেলে দেয়, তা নৈকট্যের শেষ নয়। বরং প্রায়ই তা নৈকট্যের শুরু, সেই প্রথম বিঘত যার জবাবে আল্লাহ দেন এক হাত।"
           },
           {
             "en": "So the believer who feels fear at the threshold of a duty is not far from God for feeling it. He is exactly where Mūsā (AS) stood, and the same nearness is on offer. The remedy the hadith prescribes is not to manufacture confidence but to remember God, for it is in that remembrance that His companionship is both promised and given.",
@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The surrounding verses name Pharaoh's people as wrongdoers, and the Qur'an is describing a specific tyrant and his court at a specific moment in history. It condemns that tyranny; it licenses nothing against any living person or community today. The verse's work is inward: it teaches how a servant carries fear to God, not how to look upon any neighbour.",
-            "bn": "এ আয়াতের আশপাশের আয়াতগুলো ফেরাউনের সম্প্রদায়কে যালিম বলে ডাকে, আর কুরআন এখানে ইতিহাসের এক নির্দিষ্ট সময়ের এক নির্দিষ্ট স্বৈরাচার ও তার দরবারের কথা বলছে। তা ওই জুলুমকে ধিক্কার দেয়, আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আয়াতের কাজ অন্তরের ভেতরে: এক বান্দা কীভাবে ভয় আল্লাহর কাছে নিয়ে যায় তা শেখায়, কোনো প্রতিবেশীকে কীভাবে দেখতে হবে তা নয়।"
+            "bn": "এ আয়াতের আশপাশের আয়াতগুলো ফেরাউনের সম্প্রদায়কে জালিম বলে ডাকে, আর কুরআন এখানে ইতিহাসের এক নির্দিষ্ট সময়ের এক নির্দিষ্ট স্বৈরাচার ও তার দরবারের কথা বলছে। তা ওই জুলুমকে ধিক্কার দেয়, আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আয়াতের কাজ অন্তরের ভেতরে: এক বান্দা কীভাবে ভয় আল্লাহর কাছে নিয়ে যায় তা শেখায়, কোনো প্রতিবেশীকে কীভাবে দেখতে হবে তা নয়।"
           }
         ]
       }
@@ -600,8 +600,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "দরবার এর মধ্যেই দুটি জবাব শুনে ফেলেছে। ফেরাউন যখন জিজ্ঞেস করল, ‘বিশ্বজগতের রব আবার কী?’ (২৬:২৩), মূসা (আঃ) বললেন, তিনি আসমান, জমিন আর এ দুইয়ের মাঝে যা কিছু আছে সবের রব (২৬:২৪)। ফেরাউন তর্কে গেল না। সে তার আশপাশের সর্দারদের দিকে ফিরে যেন মজা করে বলল, ‘তোমরা শুনছ তো?’ (২৬:২৫)। সেই টিটকারির মধ্যেই আসে তৃতীয় জবাবটি (২৬:২৬)। মূসা (আঃ) আকাশ-জমিনের কথা আর নতুন করে বলেন না। তিনি বরং আঙুল তোলেন ঘরের মানুষগুলোর দিকে আর তাদের পেছনের কবরগুলোর দিকে।"
           },
           {
-            "en": "Ibn Kathir explains why the question in 26:23 was never innocent. Pharaoh had told his people, 'I know of no god for you other than me' (28:28); he denied the Creator outright and held that his people had no lord but himself. So when Mūsā spoke of the Lord of the worlds, Pharaoh was not asking after God's nature but refusing that any such Lord exists. Against that refusal, 26:26 offers not a definition but a witness the court cannot deny: their own fathers.",
-            "bn": "কেন ২৬:২৩-এর প্রশ্নটি কখনোই সরল ছিল না, ইবন কাসীর তা বুঝিয়ে দেন। ফেরাউন তার জাতিকে বলেছিল, ‘আমি ছাড়া তোমাদের আর কোনো ইলাহ আছে বলে আমি জানি না’ (২৮:২৮)। সে স্রষ্টাকে একেবারেই অস্বীকার করত, আর মনে করত তার জাতির রব সে নিজে ছাড়া আর কেউ নয়। তাই মূসা (আঃ) যখন বিশ্বজগতের রবের কথা বললেন, ফেরাউন আল্লাহর স্বরূপ জানতে চাইছিল না, বরং এমন কোনো রবের অস্তিত্বই অস্বীকার করছিল। সেই অস্বীকারের মুখে ২৬:২৬ কোনো সংজ্ঞা দেয় না, দেয় এমন এক সাক্ষী যাকে দরবার অস্বীকার করতে পারে না, তাদের নিজেদের বাপ-দাদা।"
+            "en": "Ibn Kathir explains why the question in 26:23 was never innocent. Pharaoh had told his people, 'I know of no god for you other than me' (28:38); he denied the Creator outright and held that his people had no lord but himself. So when Mūsā spoke of the Lord of the worlds, Pharaoh was not asking after God's nature but refusing that any such Lord exists. Against that refusal, 26:26 offers not a definition but a witness the court cannot deny: their own fathers.",
+            "bn": "কেন ২৬:২৩-এর প্রশ্নটি কখনোই সরল ছিল না, ইবন কাসীর তা বুঝিয়ে দেন। ফেরাউন তার জাতিকে বলেছিল, ‘আমি ছাড়া তোমাদের আর কোনো ইলাহ আছে বলে আমি জানি না’ (২৮:৩৮)। সে স্রষ্টাকে একেবারেই অস্বীকার করত, আর মনে করত তার জাতির রব সে নিজে ছাড়া আর কেউ নয়। তাই মূসা (আঃ) যখন বিশ্বজগতের রবের কথা বললেন, ফেরাউন আল্লাহর স্বরূপ জানতে চাইছিল না, বরং এমন কোনো রবের অস্তিত্বই অস্বীকার করছিল। সেই অস্বীকারের মুখে ২৬:২৬ কোনো সংজ্ঞা দেয় না, দেয় এমন এক সাক্ষী যাকে দরবার অস্বীকার করতে পারে না, তাদের নিজেদের বাপ-দাদা।"
           }
         ]
       },
@@ -2077,7 +2077,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Notice what the verse measures. Not the sound body, though we spend fortunes on it; not the sound reputation or portfolio. The heart is the one organ whose condition travels across death, and its soundness is defined against tawhid first, because shirk is the disease that Day exposes absolutely. Worship, knowledge, and struggle all serve, in the end, one purpose here: returning the heart whole to the One who first gave it whole.",
-            "bn": "লক্ষ করুন, আয়াতটি কী মাপে। সুস্থ শরীর নয়, যদিও তার পেছনে আমরা অঢেল টাকা ঢালি; সুনাম বা সম্পদের হিসাবও নয়। হৃদয়ই একমাত্র অঙ্গ, যার অবস্থা মৃত্যুর ওপারেও সঙ্গে যায়। আর তার বিশুদ্ধতা মাপা হয় সবার আগে তাওহীদ দিয়ে, কারণ শিরকই সেই রোগ, যা সেদিন পুরোপুরি ধরা পড়ে যায়। ইবাদত, ইলম, সংগ্রাম, শেষ পর্যন্ত সবই এখানে এক উদ্দেশ্যের জন্য: হৃদয়টিকে অক্ষত অবস্থায় তাঁর কাছে ফিরিয়ে দেওয়া, যিনি প্রথমে তা অক্ষত অবস্থাতেই দিয়েছিলেন।"
+            "bn": "লক্ষ করুন, আয়াতটি কী মাপে। সুস্থ শরীর নয়, যদিও তার পেছনে আমরা অঢেল টাকা ঢালি; সুনাম বা সম্পদের হিসাবও নয়। হৃদয়ই একমাত্র অঙ্গ, যার অবস্থা মৃত্যুর ওপারেও সঙ্গে যায়। আর তার বিশুদ্ধতা মাপা হয় সবার আগে তাওহিদ দিয়ে, কারণ শিরকই সেই রোগ, যা সেদিন পুরোপুরি ধরা পড়ে যায়। ইবাদত, ইলম, সংগ্রাম, শেষ পর্যন্ত সবই এখানে এক উদ্দেশ্যের জন্য: হৃদয়টিকে অক্ষত অবস্থায় তাঁর কাছে ফিরিয়ে দেওয়া, যিনি প্রথমে তা অক্ষত অবস্থাতেই দিয়েছিলেন।"
           }
         ]
       },
@@ -2241,7 +2241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Set the two pictures next to each other. Here is a partnership that meets over disobedience and is gathered, in the end, into one fire to trade accusations. There is a friendship that meets for Allah and parts for Allah, and is gathered, in the end, under the shade that is His alone. Both are bonds; both involve meeting and parting and standing together. The whole difference is what the bond is built on. The verse and the hadith are asking the same question from opposite ends: on the Day the shade is shared out, which of these two companies will you be found in?",
-            "bn": "দুটি ছবি পাশাপাশি রাখুন। এখানে এক জোট, যা অবাধ্যতার উপর মেলে আর শেষে এক আগুনে জড়ো হয়ে পরস্পরের বিরুদ্ধে দোষারোপ ছোড়ে। ওখানে এক বন্ধুত্ব, যা আল্লাহর জন্য মেলে আর আল্লাহর জন্য আলাদা হয়, আর শেষে জড়ো হয় সেই ছায়ায় যা কেবল তাঁরই। দুটোই বন্ধন; দুটোতেই মেলামেশা, আলাদা হওয়া আর একসঙ্গে দাঁড়ানো আছে। গোটা তফাত হলো বন্ধনটা কিসের উপর গড়া। আয়াত আর হাদীস একই প্রশ্ন করছে দুই প্রান্ত থেকে: যেদিন ছায়া ভাগ করে দেওয়া হবে, এই দুই দলের কোনটিতে আপনাকে পাওয়া যাবে?"
+            "bn": "দুটি ছবি পাশাপাশি রাখুন। এখানে এক জোট, যা অবাধ্যতার উপর মেলে আর শেষে এক আগুনে জড়ো হয়ে পরস্পরের বিরুদ্ধে দোষারোপ ছোড়ে। ওখানে এক বন্ধুত্ব, যা আল্লাহর জন্য মেলে আর আল্লাহর জন্য আলাদা হয়, আর শেষে জড়ো হয় সেই ছায়ায় যা কেবল তাঁরই। দুটোই বন্ধন; দুটোতেই মেলামেশা, আলাদা হওয়া আর একসঙ্গে দাঁড়ানো আছে। গোটা তফাত হলো বন্ধনটা কিসের উপর গড়া। আয়াত আর হাদিস একই প্রশ্ন করছে দুই প্রান্ত থেকে: যেদিন ছায়া ভাগ করে দেওয়া হবে, এই দুই দলের কোনটিতে আপনাকে পাওয়া যাবে?"
           }
         ]
       },
@@ -2373,11 +2373,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A sound hadith carries the same lesson into a single scene. In Sahih al-Bukhari, Anas ibn Malik reports that the Prophet (ﷺ) used to say that a disbeliever will be brought on the Day of Resurrection and asked, suppose you had as much gold as would fill the earth, would you offer it to ransom yourself? He will reply, yes. Then it will be said to him, you were asked for something easier than that, to join none in worship with Allah, but you refused. The hadith is in al-Bukhari's collection, which admits only what met his conditions for a sound chain.",
-            "bn": "একটি সহীহ হাদীস এই একই শিক্ষাকে এক দৃশ্যে এনে দাঁড় করায়। সহীহ বুখারীতে আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ বলতেন, কিয়ামতের দিন এক কাফিরকে আনা হবে আর জিজ্ঞেস করা হবে, ধরো তোমার কাছে যদি গোটা পৃথিবীভরা সোনা থাকত, তবে কি তা দিয়ে নিজেকে মুক্ত করতে চাইতে? সে বলবে, হ্যাঁ। তখন তাকে বলা হবে, তোমার কাছে তো এর চেয়ে সহজ জিনিস চাওয়া হয়েছিল, আল্লাহর সঙ্গে কাউকে শরিক না করা, অথচ তুমি অস্বীকার করেছিলে। হাদীসটি বুখারীর সংকলনে, যেখানে কেবল তা-ই স্থান পায় যা তাঁর সহীহ সনদের শর্ত পূরণ করেছে।"
+            "bn": "একটি সহীহ হাদিস এই একই শিক্ষাকে এক দৃশ্যে এনে দাঁড় করায়। সহীহ বুখারীতে আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ বলতেন, কিয়ামতের দিন এক কাফিরকে আনা হবে আর জিজ্ঞেস করা হবে, ধরো তোমার কাছে যদি গোটা পৃথিবীভরা সোনা থাকত, তবে কি তা দিয়ে নিজেকে মুক্ত করতে চাইতে? সে বলবে, হ্যাঁ। তখন তাকে বলা হবে, তোমার কাছে তো এর চেয়ে সহজ জিনিস চাওয়া হয়েছিল, আল্লাহর সঙ্গে কাউকে শরিক না করা, অথচ তুমি অস্বীকার করেছিলে। হাদিসটি বুখারীর সংকলনে, যেখানে কেবল তা-ই স্থান পায় যা তাঁর সহীহ সনদের শর্ত পূরণ করেছে।"
           },
           {
             "en": "Set the hadith beside the verse and they say the same thing from different ends. The man in the hadith is finally willing to give everything, a whole earth of gold, at the exact moment he has nothing and can give nothing. The deviators in the verse finally see the truth with perfect clarity at the exact moment that seeing it is worthless. In both, the right response arrives, and it arrives on the far side of the deadline. What was asked for was never the impossible. It was the easy thing they would not do while it was still theirs to do.",
-            "bn": "হাদীসটি আয়াতের পাশে রাখুন, দুই দিক থেকে তারা একই কথা বলে। হাদীসের লোকটি শেষ পর্যন্ত সব দিয়ে দিতে রাজি হয়, গোটা পৃথিবীভরা সোনা, ঠিক সেই মুহূর্তে যখন তার কাছে কিছুই নেই, দেওয়ার মতো কিছুই নেই। আর আয়াতের পথভ্রষ্টরা শেষমেশ সত্যটা একদম স্পষ্ট দেখে ঠিক সেই মুহূর্তে, যখন তা দেখার কোনো দাম নেই। দুই জায়গাতেই সঠিক জবাবটা আসে, কিন্তু আসে সময়সীমার ওপারে পৌঁছে। যা চাওয়া হয়েছিল তা কখনো অসম্ভব ছিল না। ছিল সেই সহজ কাজটাই, যা তারা করতে চায়নি যতক্ষণ তা করার সুযোগ তাদের হাতে ছিল।"
+            "bn": "হাদিসটি আয়াতের পাশে রাখুন, দুই দিক থেকে তারা একই কথা বলে। হাদিসের লোকটি শেষ পর্যন্ত সব দিয়ে দিতে রাজি হয়, গোটা পৃথিবীভরা সোনা, ঠিক সেই মুহূর্তে যখন তার কাছে কিছুই নেই, দেওয়ার মতো কিছুই নেই। আর আয়াতের পথভ্রষ্টরা শেষমেশ সত্যটা একদম স্পষ্ট দেখে ঠিক সেই মুহূর্তে, যখন তা দেখার কোনো দাম নেই। দুই জায়গাতেই সঠিক জবাবটা আসে, কিন্তু আসে সময়সীমার ওপারে পৌঁছে। যা চাওয়া হয়েছিল তা কখনো অসম্ভব ছিল না। ছিল সেই সহজ কাজটাই, যা তারা করতে চায়নি যতক্ষণ তা করার সুযোগ তাদের হাতে ছিল।"
           }
         ]
       },
@@ -2856,7 +2856,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "One Caller, Named as Many",
-          "bn": "এক আহ্বানকারী, বহু রসূল"
+          "bn": "এক আহ্বানকারী, বহু রাসূল"
         },
         "p": [
           {
@@ -2897,7 +2897,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir goes on: God had given them flowing provisions, wealth, gardens and springs, children, crops and fruits — a people settled in plenty by every measure the world keeps. And then the line that turns all of it: with all of that, they worshipped others besides God. The abundance was not the problem; what they did with it was. A nation strong enough to feel it answered to nothing had decided, as a people, that it owed its Maker nothing — and when His messenger came to correct that, they called him a liar.",
-            "bn": "ইবন কাসীর আরও বলেন: আল্লাহ তাদের দিয়েছিলেন অফুরান রিজিক, ধনসম্পদ, বাগান আর ঝরনা, সন্তান, ফসল ও ফলমূল—দুনিয়ার সব মাপকাঠিতেই প্রাচুর্যে থিতু এক জাতি। এরপর আসে সেই কথা, যা সবকিছু উল্টে দেয়: এত কিছুর পরও তারা আল্লাহকে বাদ দিয়ে অন্যদের ইবাদত করত। প্রাচুর্য সমস্যা ছিল না, সমস্যা ছিল তা দিয়ে তারা কী করল তাতে। এত শক্তিশালী এক জাতি, যে নিজেকে কারও কাছে দায়বদ্ধ নয় বলে ভাবত, জাতি হিসেবেই ঠিক করে নিয়েছিল যে স্রষ্টার কাছে তাদের কোনো দেনা নেই। আর তাঁর রসূল যখন তা শুধরে দিতে এলেন, তারা তাঁকে মিথ্যাবাদী বলল।"
+            "bn": "ইবন কাসীর আরও বলেন: আল্লাহ তাদের দিয়েছিলেন অফুরান রিজিক, ধনসম্পদ, বাগান আর ঝরনা, সন্তান, ফসল ও ফলমূল—দুনিয়ার সব মাপকাঠিতেই প্রাচুর্যে থিতু এক জাতি। এরপর আসে সেই কথা, যা সবকিছু উল্টে দেয়: এত কিছুর পরও তারা আল্লাহকে বাদ দিয়ে অন্যদের ইবাদত করত। প্রাচুর্য সমস্যা ছিল না, সমস্যা ছিল তা দিয়ে তারা কী করল তাতে। এত শক্তিশালী এক জাতি, যে নিজেকে কারও কাছে দায়বদ্ধ নয় বলে ভাবত, জাতি হিসেবেই ঠিক করে নিয়েছিল যে স্রষ্টার কাছে তাদের কোনো দেনা নেই। আর তাঁর রাসূল যখন তা শুধরে দিতে এলেন, তারা তাঁকে মিথ্যাবাদী বলল।"
           }
         ]
       },
@@ -3489,7 +3489,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "If the verse asks whether a person will be left here secure, the Prophet ﷺ gave his Companions the answer to live by. Al-Bukhari records that ʿAbdullah ibn ʿUmar said: the Messenger of God ﷺ took hold of my shoulder and said, \"Be in this world as if you were a stranger or a wayfarer.\" The wording is sound, carried in Bukhari's own collection. The image is exact for this verse. A stranger does not mistake the town he is passing through for home, and a traveller does not unpack as if the road were the destination. Neither expects to be left there.",
-            "bn": "আয়াত যদি জিজ্ঞেস করে একজন মানুষকে কি এখানে নিরাপদে রেখে দেওয়া হবে, নবী ﷺ তাঁর সাহাবিদের সেই জবাবটাই দিয়েছেন যা ধরে বাঁচা যায়। বুখারী বর্ণনা করেন, আবদুল্লাহ ইবন উমর (রাঃ) বলেন: আল্লাহর রসূল ﷺ আমার কাঁধ ধরে বললেন, \"দুনিয়াতে এমনভাবে থাকো যেন তুমি একজন অপরিচিত কিংবা পথচারী।\" বর্ণনাটি সহীহ, বুখারীর নিজের সংকলনে রাখা। ছবিটা এই আয়াতের জন্য হুবহু মানানসই। অপরিচিত মানুষ যে শহর পার হচ্ছে তাকে ঘর বলে ভুল করে না, আর পথিক এমনভাবে বোঁচকা খোলে না যেন রাস্তাটাই তার গন্তব্য। কেউই আশা করে না তাকে সেখানে রেখে দেওয়া হবে।"
+            "bn": "আয়াত যদি জিজ্ঞেস করে একজন মানুষকে কি এখানে নিরাপদে রেখে দেওয়া হবে, নবী ﷺ তাঁর সাহাবিদের সেই জবাবটাই দিয়েছেন যা ধরে বাঁচা যায়। বুখারী বর্ণনা করেন, আবদুল্লাহ ইবন উমর (রাঃ) বলেন: আল্লাহর রাসূল ﷺ আমার কাঁধ ধরে বললেন, \"দুনিয়াতে এমনভাবে থাকো যেন তুমি একজন অপরিচিত কিংবা পথচারী।\" বর্ণনাটি সহীহ, বুখারীর নিজের সংকলনে রাখা। ছবিটা এই আয়াতের জন্য হুবহু মানানসই। অপরিচিত মানুষ যে শহর পার হচ্ছে তাকে ঘর বলে ভুল করে না, আর পথিক এমনভাবে বোঁচকা খোলে না যেন রাস্তাটাই তার গন্তব্য। কেউই আশা করে না তাকে সেখানে রেখে দেওয়া হবে।"
           },
           {
             "en": "Ibn ʿUmar then added words of his own, as the report preserves them: if you reach the evening, do not wait for the morning; if you reach the morning, do not wait for the evening; take from your health for your sickness, and from your life for your death. That is not gloom. It is a man drawing the practical conclusion from the image: spend the strength you have now on what will outlast it. Where Thamūd assumed the morning would come, the traveller books nothing on it. He holds his plenty the way a guest holds a borrowed thing, ready to give it back when it is called for.",
@@ -3649,7 +3649,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One thing must be said plainly, in both languages. Thamūd are named in the Qur'an among the peoples who rejected their messenger and were condemned, and the verses around this one move toward their ruin. But this account describes only what the text describes: a sign given to one ancient people and the terms that were set upon them. It licenses nothing against any living person or community. It is not a verdict on the inhabitants of any land today, nor on anyone's neighbours, nor a warrant to look down upon a single living soul.",
-            "bn": "একটা কথা দুই ভাষাতেই সোজাসুজি বলা দরকার। সামূদকে কুরআনে সেসব জাতির মধ্যে গোনা হয়েছে যারা নিজেদের রসূলকে প্রত্যাখ্যান করেছিল আর অভিশপ্ত হয়েছিল, আর এর আশপাশের আয়াতগুলো তাদের ধ্বংসের দিকেই এগোয়। কিন্তু এই বৃত্তান্ত যা বলছে কেবল তা-ই বলছে: প্রাচীন এক জাতিকে দেওয়া এক নিদর্শন আর তাদের উপর বাঁধা শর্তের কথা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। এটা আজকের কোনো ভূমির বাসিন্দাদের নিয়ে রায় নয়, কারও প্রতিবেশীকে নিয়ে নয়, একটি জীবিত প্রাণকেও হেয় করার কোনো সনদ নয়।"
+            "bn": "একটা কথা দুই ভাষাতেই সোজাসুজি বলা দরকার। সামূদকে কুরআনে সেসব জাতির মধ্যে গোনা হয়েছে যারা নিজেদের রাসূলকে প্রত্যাখ্যান করেছিল আর অভিশপ্ত হয়েছিল, আর এর আশপাশের আয়াতগুলো তাদের ধ্বংসের দিকেই এগোয়। কিন্তু এই বৃত্তান্ত যা বলছে কেবল তা-ই বলছে: প্রাচীন এক জাতিকে দেওয়া এক নিদর্শন আর তাদের উপর বাঁধা শর্তের কথা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। এটা আজকের কোনো ভূমির বাসিন্দাদের নিয়ে রায় নয়, কারও প্রতিবেশীকে নিয়ে নয়, একটি জীবিত প্রাণকেও হেয় করার কোনো সনদ নয়।"
           },
           {
             "en": "The verse is handed to the reader as a mirror, not a measuring stick for others. Its question turns inward: when a clear sign has reached me, and a small, fair duty comes attached, do I keep it or take more than my turn? Thamūd's story is kept in the Qur'an so that those who come after may weigh themselves by it. The Prophet ﷺ, the sound report says, turned his companions at al-Ḥijr to the she-camel's own well, a care for the lesson, not a licence to despise the dead. The sign and its terms test whoever hears of them, this reader above all.",
@@ -4469,7 +4469,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Set that beside what al-Aykah did and the irony is exact. They raised a suspicion against Shuʿayb (AS) and used it to brand him the liar. But the Prophet ﷺ teaches that suspicion is itself the most false of speech, akdhab al-ḥadīth. So the very instrument they reached for to convict a truthful man is named, by the measure of revelation, as the falsest thing a tongue can carry. They thought they were exposing a liar. The guess in their mouths was the lie, exactly as as-Saʿdi had read the verse to say.",
-            "bn": "আইকাবাসীরা যা করেছিল, তার পাশে এটা রাখুন, পরিহাসটা হুবহু মিলে যায়। তারা শুআয়ব (আঃ)-এর বিরুদ্ধে একটা সন্দেহ তুলল, আর সেটা দিয়েই তাঁর গায়ে মিথ্যাবাদীর ছাপ লাগাল। অথচ নবী ﷺ শেখান, সন্দেহই সবচেয়ে বড় মিথ্যা কথা, আকজাবুল হাদীস। এক সত্যবাদী মানুষকে দোষী বানাতে তারা যে হাতিয়ার তুলে নিল, ওহির মাপকাঠিতে সেটাই মানুষের জিভে ওঠা সবচেয়ে মিথ্যা জিনিস। তারা ভেবেছিল এক মিথ্যুককে ধরে ফেলছে। আসলে তাদের মুখের আন্দাজটাই ছিল মিথ্যা, ঠিক যেমনটা সাদী আয়াত থেকে বুঝেছিলেন।"
+            "bn": "আইকাবাসীরা যা করেছিল, তার পাশে এটা রাখুন, পরিহাসটা হুবহু মিলে যায়। তারা শুআয়ব (আঃ)-এর বিরুদ্ধে একটা সন্দেহ তুলল, আর সেটা দিয়েই তাঁর গায়ে মিথ্যাবাদীর ছাপ লাগাল। অথচ নবী ﷺ শেখান, সন্দেহই সবচেয়ে বড় মিথ্যা কথা, আকজাবুল হাদিস। এক সত্যবাদী মানুষকে দোষী বানাতে তারা যে হাতিয়ার তুলে নিল, ওহির মাপকাঠিতে সেটাই মানুষের জিভে ওঠা সবচেয়ে মিথ্যা জিনিস। তারা ভেবেছিল এক মিথ্যুককে ধরে ফেলছে। আসলে তাদের মুখের আন্দাজটাই ছিল মিথ্যা, ঠিক যেমনটা সাদী আয়াত থেকে বুঝেছিলেন।"
           }
         ]
       },
@@ -4561,7 +4561,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi notes why some scholars leaned toward the heavy reading. Abu Hatim and Abu Ubayd preferred it, he says, because the previous verse had just used the verbal noun tanzīl in 26:192, and the heavy form nazzala shares that root and pattern, so the two sit together. Those who read it light answered that the sense is already complete: the Qur'an is the sending-down of the Lord of the worlds, and Jibril brought it down to the Prophet. The grammar is debated; the meaning the readings carry is not.",
-            "bn": "কুরতুবী ব্যাখ্যা করেন কেন কিছু আলিম ভারী কিরাআতের দিকে ঝুঁকেছেন। তিনি বলেন, আবু হাতিম ও আবু উবায়দ এটিকেই পছন্দ করেছেন, কারণ ঠিক আগের আয়াত ২৬:১৯২-এ 'তানযীল' ক্রিয়ামূলটি এসেছে, আর ভারী রূপ 'নাযযালা' সেই একই ধাতু ও গড়ন থেকে আসে, তাই দুটি পাশাপাশি বসে যায়। যাঁরা হালকা করে পড়েন তাঁদের জবাব, অর্থ এমনিতেই পূর্ণ: কুরআন জগতসমূহের প্রতিপালকের নাযিল করা, আর জিবরাঈল তা নবীর কাছে নামিয়ে এনেছেন। ব্যাকরণ নিয়ে মতভেদ, কিন্তু কিরাআত দুটি যে অর্থ বহন করে তা নিয়ে নয়।"
+            "bn": "কুরতুবী ব্যাখ্যা করেন কেন কিছু আলিম ভারী কিরাআতের দিকে ঝুঁকেছেন। তিনি বলেন, আবু হাতিম ও আবু উবায়দ এটিকেই পছন্দ করেছেন, কারণ ঠিক আগের আয়াত ২৬:১৯২-এ 'তানযীল' ক্রিয়ামূলটি এসেছে, আর ভারী রূপ 'নাযযালা' সেই একই ধাতু ও গড়ন থেকে আসে, তাই দুটি পাশাপাশি বসে যায়। যাঁরা হালকা করে পড়েন তাঁদের জবাব, অর্থ এমনিতেই পূর্ণ: কুরআন জগতসমূহের প্রতিপালকের নাজিল করা, আর জিবরাঈল তা নবীর কাছে নামিয়ে এনেছেন। ব্যাকরণ নিয়ে মতভেদ, কিন্তু কিরাআত দুটি যে অর্থ বহন করে তা নিয়ে নয়।"
           }
         ]
       },
@@ -5076,12 +5076,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Seen in the Prayer",
-          "bn": "নামাযের ভেতরে দেখা"
+          "bn": "নামাজের ভেতরে দেখা"
         },
         "p": [
           {
             "en": "At-Tabari gathers the earliest reports under a single heading: the turning is the turning of prayer itself. He transmits from Ibn Abbas that it means your standing, your bowing, and your prostrating. He transmits from Ikrimah the same answer in fuller form, your standing and prostrating and bowing and sitting, the postures the body passes through within the prayer. On this reading God is not watching you cross a room. He is watching the prayer happen inside you, posture giving way to posture, as the act of worship moves from its beginning to its end.",
-            "bn": "তাবারী প্রথম যুগের বর্ণনাগুলোকে একটি শিরোনামের নিচে জড়ো করেন: এই চলাফেরা আসলে নামাযেরই চলাফেরা। তিনি ইবন আব্বাস থেকে বর্ণনা করেন যে এর অর্থ তোমার দাঁড়ানো, রুকু করা আর সিজদা করা। ইকরিমা থেকে তিনি একই উত্তর আরও পূর্ণরূপে আনেন: তোমার দাঁড়ানো, সিজদা, রুকু আর বসা, নামাযের ভেতরে শরীর যে ভঙ্গিগুলোর ভেতর দিয়ে যায়। এই পাঠে আল্লাহ তোমাকে ঘর পেরোতে দেখছেন না। তিনি দেখছেন তোমার ভেতরে নামাযটা ঘটছে, এক ভঙ্গি সরে গিয়ে আরেক ভঙ্গি আসছে, ইবাদতটা যেভাবে তার শুরু থেকে শেষের দিকে এগোয়।"
+            "bn": "তাবারী প্রথম যুগের বর্ণনাগুলোকে একটি শিরোনামের নিচে জড়ো করেন: এই চলাফেরা আসলে নামাজেরই চলাফেরা। তিনি ইবন আব্বাস থেকে বর্ণনা করেন যে এর অর্থ তোমার দাঁড়ানো, রুকু করা আর সিজদা করা। ইকরিমা থেকে তিনি একই উত্তর আরও পূর্ণরূপে আনেন: তোমার দাঁড়ানো, সিজদা, রুকু আর বসা, নামাজের ভেতরে শরীর যে ভঙ্গিগুলোর ভেতর দিয়ে যায়। এই পাঠে আল্লাহ তোমাকে ঘর পেরোতে দেখছেন না। তিনি দেখছেন তোমার ভেতরে নামাজটা ঘটছে, এক ভঙ্গি সরে গিয়ে আরেক ভঙ্গি আসছে, ইবাদতটা যেভাবে তার শুরু থেকে শেষের দিকে এগোয়।"
           },
           {
             "en": "As-Sadi draws out why prayer, of all acts, is named here. He writes that God sees you in this tremendous act of worship, the prayer, at the time of your standing, and in your turning as you bow and prostrate; He singled it out for its excellence and its honour. Then as-Sadi adds the heart of it: whoever brings to mind, inside the prayer, the nearness of his Lord, grows humble and lowly, and perfects the prayer. By perfecting it he perfects the rest of his deeds, and he draws on it for help in all his affairs.",
@@ -5165,7 +5165,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Return now to what this seeing is. Ibn Kathir reads who sees you when you stand (26:218) as a word of care, not of cold scrutiny: it means He is taking care of you. He sets beside it another verse, be patient for the judgment of your Lord, for you are before Our eyes (52:48). To be before the eyes of God, in that verse, is to be guarded, not merely watched. The gaze that follows your prayer in the verse at hand is that same tender gaze, bent now over your worship.",
-            "bn": "এবার ফিরে দেখি, এই দেখাটা আসলে কী। ইবন কাসীর 'তুমি যখন দাঁড়াও তখন যিনি তোমাকে দেখেন' (২৬:২১৮) কথাটি পড়েন যত্নের কথা হিসেবে, শীতল নজরদারির কথা হিসেবে নয়: এর মানে তিনি তোমার দেখভাল করছেন। পাশে তিনি রাখেন আরেকটি আয়াত, 'তুমি তোমার রবের ফয়সালার জন্য ধৈর্য ধরো, কারণ তুমি আমাদের চোখের সামনে' (৫২:৪৮)। সেই আয়াতে আল্লাহর চোখের সামনে থাকা মানে রক্ষিত থাকা, কেবল দেখা হওয়া নয়। যে দৃষ্টি এই আয়াতে তোমার নামায অনুসরণ করে, তা সেই একই স্নেহভরা দৃষ্টি, এবার ঝুঁকে আছে তোমার ইবাদতের ওপর।"
+            "bn": "এবার ফিরে দেখি, এই দেখাটা আসলে কী। ইবন কাসীর 'তুমি যখন দাঁড়াও তখন যিনি তোমাকে দেখেন' (২৬:২১৮) কথাটি পড়েন যত্নের কথা হিসেবে, শীতল নজরদারির কথা হিসেবে নয়: এর মানে তিনি তোমার দেখভাল করছেন। পাশে তিনি রাখেন আরেকটি আয়াত, 'তুমি তোমার রবের ফয়সালার জন্য ধৈর্য ধরো, কারণ তুমি আমাদের চোখের সামনে' (৫২:৪৮)। সেই আয়াতে আল্লাহর চোখের সামনে থাকা মানে রক্ষিত থাকা, কেবল দেখা হওয়া নয়। যে দৃষ্টি এই আয়াতে তোমার নামাজ অনুসরণ করে, তা সেই একই স্নেহভরা দৃষ্টি, এবার ঝুঁকে আছে তোমার ইবাদতের ওপর।"
           },
           {
             "en": "The two names just before decide the mood of the watching. The verse told the Prophet to rely on the Mighty, the Merciful (26:217), and only then that this same Lord sees him. A watcher who is merely mighty would make the gaze a danger. A watcher who is mighty and merciful makes it a shelter. So when the verse says your turning is seen, it is not a camera trained on a suspect. It is the attention of a protector who has already promised to carry you, now resting on you as you pray.",
@@ -5180,7 +5180,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "When You Rise to Pray",
-          "bn": "যখন নামাযে দাঁড়ান"
+          "bn": "যখন নামাজে দাঁড়ান"
         },
         "p": [
           {
@@ -5324,7 +5324,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Wrongdoers Turn",
-          "bn": "যালিমরা কোথায় ফিরবে"
+          "bn": "জালিমরা কোথায় ফিরবে"
         },
         "p": [
           {

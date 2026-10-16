@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two of the three strokes are visible acts. Prayer is worship the body performs, at fixed times and in a fixed shape. Zakāh is worship the wealth performs, a measured portion that leaves the pocket of the giver and reaches the needy. The third stroke is not an act at all but a state of the heart: yaqīn, a certainty that beyond this life lies another in which all of it is weighed. The portrait is complete only with the three together, and it is the inner certainty that gives the two outward acts their life.",
-            "bn": "তিনটি আঁচড়ের দুটি চোখে দেখা যায় এমন আমল। নামায হলো শরীরের ইবাদত, নির্দিষ্ট সময়ে আর নির্দিষ্ট আকারে আদায় করা। যাকাত হলো সম্পদের ইবাদত, মাপা একটা অংশ দাতার পকেট ছেড়ে অভাবীর কাছে পৌঁছায়। তৃতীয় আঁচড়টি কোনো আমলই নয়, বরং অন্তরের এক অবস্থা: ইয়াকীন, এই দৃঢ় নিশ্চয়তা যে এই জীবনের ওপারে আরেকটি জীবন আছে, যেখানে সবকিছুর ওজন হবে। ছবিটা পূর্ণ হয় কেবল তিনটি একসঙ্গে থাকলে, আর ভেতরের নিশ্চয়তাই বাইরের দুটি আমলকে প্রাণ দেয়।"
+            "bn": "তিনটি আঁচড়ের দুটি চোখে দেখা যায় এমন আমল। নামাজ হলো শরীরের ইবাদত, নির্দিষ্ট সময়ে আর নির্দিষ্ট আকারে আদায় করা। যাকাত হলো সম্পদের ইবাদত, মাপা একটা অংশ দাতার পকেট ছেড়ে অভাবীর কাছে পৌঁছায়। তৃতীয় আঁচড়টি কোনো আমলই নয়, বরং অন্তরের এক অবস্থা: ইয়াকীন, এই দৃঢ় নিশ্চয়তা যে এই জীবনের ওপারে আরেকটি জীবন আছে, যেখানে সবকিছুর ওজন হবে। ছবিটা পূর্ণ হয় কেবল তিনটি একসঙ্গে থাকলে, আর ভেতরের নিশ্চয়তাই বাইরের দুটি আমলকে প্রাণ দেয়।"
           }
         ]
       },
@@ -48,7 +48,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Prayer Held to Its Limits",
-          "bn": "সীমার ভেতরে নামায"
+          "bn": "সীমার ভেতরে নামাজ"
         },
         "p": [
           {
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "To establish a thing is to set it up so it stands on its own and does not fall the moment you walk away. A prayer established is woven into the day at its fixed hours, performed in its proper form, and not dropped when life grows busy. At-Tabari's phrase, within its limits, guards both ends: not less than the prayer requires, and not a private invention beyond it. The doer of good is not the person who prays when the mood takes him, but the person whose prayer stands whether the mood is there or not.",
-            "bn": "কোনো কিছু কায়েম করা মানে এমনভাবে দাঁড় করানো যে তা নিজের পায়ে দাঁড়িয়ে থাকে, আপনি সরে গেলেই পড়ে যায় না। কায়েম করা নামায দিনের ভেতরে গাঁথা থাকে তার নির্দিষ্ট সময়ে, আদায় হয় সঠিক আকারে, জীবন ব্যস্ত হলেও ফেলে রাখা হয় না। তাবারীর কথা, তার সীমার ভেতরে, দুই দিকই পাহারা দেয়: নামায যতটুকু চায় তার কম নয়, আবার তার বাইরে নিজের বানানো কিছুও নয়। সৎকর্মশীল সেই লোক নয় যে মন চাইলে নামায পড়ে, বরং সেই লোক যার নামায দাঁড়িয়ে থাকে মন থাকুক বা না থাকুক।"
+            "bn": "কোনো কিছু কায়েম করা মানে এমনভাবে দাঁড় করানো যে তা নিজের পায়ে দাঁড়িয়ে থাকে, আপনি সরে গেলেই পড়ে যায় না। কায়েম করা নামাজ দিনের ভেতরে গাঁথা থাকে তার নির্দিষ্ট সময়ে, আদায় হয় সঠিক আকারে, জীবন ব্যস্ত হলেও ফেলে রাখা হয় না। তাবারীর কথা, তার সীমার ভেতরে, দুই দিকই পাহারা দেয়: নামাজ যতটুকু চায় তার কম নয়, আবার তার বাইরে নিজের বানানো কিছুও নয়। সৎকর্মশীল সেই লোক নয় যে মন চাইলে নামাজ পড়ে, বরং সেই লোক যার নামাজ দাঁড়িয়ে থাকে মন থাকুক বা না থাকুক।"
           }
         ]
       },
@@ -305,7 +305,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse sits inside another speech. Surah Luqman is carrying the counsel of Luqman to his son — 31:13 has him warning against shirk, and his advice resumes at 31:16. Between the father's words, Allah Himself interjects: and We have enjoined upon man concerning his parents. The commentators note the placement: at the very moment a father is teaching his child tawhid, the Author of the Book steps in to teach the child what he owes his parents.",
-            "bn": "আয়াতটি বসে আছে আরেকজনের কথার ভেতরে। সূরা লুকমানে এখানে চলছে ছেলের প্রতি লুকমানের উপদেশ। 31:13-এ তিনি ছেলেকে শিরক থেকে সাবধান করছেন, আর তাঁর উপদেশ আবার শুরু হয় 31:16-এ। বাবার কথার মাঝখানে স্বয়ং আল্লাহ বলে ওঠেন: আর আমি মানুষকে তার মা-বাবার ব্যাপারে নির্দেশ দিয়েছি। মুফাসসিরগণ জায়গাটা খেয়াল করেছেন। যে মুহূর্তে এক বাবা সন্তানকে তাওহীদ শেখাচ্ছেন, ঠিক তখনই যিনি এই কিতাব নাজিল করেছেন, তিনি নিজে এসে সন্তানকে শেখান, মা-বাবার কাছে তার ঋণ কতখানি।"
+            "bn": "আয়াতটি বসে আছে আরেকজনের কথার ভেতরে। সূরা লুকমানে এখানে চলছে ছেলের প্রতি লুকমানের উপদেশ। 31:13-এ তিনি ছেলেকে শিরক থেকে সাবধান করছেন, আর তাঁর উপদেশ আবার শুরু হয় 31:16-এ। বাবার কথার মাঝখানে স্বয়ং আল্লাহ বলে ওঠেন: আর আমি মানুষকে তার মা-বাবার ব্যাপারে নির্দেশ দিয়েছি। মুফাসসিরগণ জায়গাটা খেয়াল করেছেন। যে মুহূর্তে এক বাবা সন্তানকে তাওহিদ শেখাচ্ছেন, ঠিক তখনই যিনি এই কিতাব নাজিল করেছেন, তিনি নিজে এসে সন্তানকে শেখান, মা-বাবার কাছে তার ঋণ কতখানি।"
           },
           {
             "en": "The pairing runs deep in the Quran. 17:23 joins the command to worship Allah alone with excellence to parents in a single verse, and this verse will end by joining gratitude to Him with gratitude to them in a single breath. The two duties stand next to each other so often that the mufassirun treat the ordering as doctrine: after the right of Allah comes, immediately, the right of the parents.",
@@ -400,7 +400,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Prayer, Duty, Patience",
-          "bn": "নামায, দায়িত্ব, ধৈর্য"
+          "bn": "নামাজ, দায়িত্ব, ধৈর্য"
         },
         "p": [
           {
@@ -541,7 +541,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Luqman's counsel to his son ran from 31:13 to 31:19 and has ended by now. 31:20 asks whether they do not see that Allah has made subject to them whatever is in the heavens and the earth and has poured out His favours, apparent and hidden — and yet some dispute about Allah without knowledge. 31:21 then quotes them: told to follow what Allah revealed, they answer that they will follow what they found their fathers upon.",
-            "bn": "লুকমানের উপদেশ চলেছিল 31:13 থেকে 31:19 পর্যন্ত, আর এতক্ষণে তা শেষ হয়ে গেছে। 31:20 আয়াত প্রশ্ন করে, তারা কি দেখে না যে আল্লাহ আসমান ও যমীনে যা কিছু আছে সব তাদের অধীন করে দিয়েছেন এবং ঢেলে দিয়েছেন তাঁর প্রকাশ্য ও অপ্রকাশ্য অনুগ্রহ — তবুও কেউ কেউ কোনো জ্ঞান ছাড়াই আল্লাহ সম্পর্কে বিতর্ক করে। এরপর 31:21 আয়াত তাদের কথাই উদ্ধৃত করে: আল্লাহ যা নাযিল করেছেন তা অনুসরণ করতে বলা হলে তারা বলে, তারা বরং তাই অনুসরণ করবে যার ওপর তারা তাদের পিতৃপুরুষদের পেয়েছে।"
+            "bn": "লুকমানের উপদেশ চলেছিল 31:13 থেকে 31:19 পর্যন্ত, আর এতক্ষণে তা শেষ হয়ে গেছে। 31:20 আয়াত প্রশ্ন করে, তারা কি দেখে না যে আল্লাহ আসমান ও যমীনে যা কিছু আছে সব তাদের অধীন করে দিয়েছেন এবং ঢেলে দিয়েছেন তাঁর প্রকাশ্য ও অপ্রকাশ্য অনুগ্রহ — তবুও কেউ কেউ কোনো জ্ঞান ছাড়াই আল্লাহ সম্পর্কে বিতর্ক করে। এরপর 31:21 আয়াত তাদের কথাই উদ্ধৃত করে: আল্লাহ যা নাজিল করেছেন তা অনুসরণ করতে বলা হলে তারা বলে, তারা বরং তাই অনুসরণ করবে যার ওপর তারা তাদের পিতৃপুরুষদের পেয়েছে।"
           },
           {
             "en": "So the handhold verse arrives directly after a picture of people holding on to something else — an inheritance, gripped because it was gripped before them. And the verse straight after it, 31:23, tells the Prophet ﷺ not to be grieved by anyone's disbelief, since their return is to Allah, who knows what is inside the breasts. The offer of a firm handle is placed between a grip that will not bear weight and a consolation for the one holding it out.",
