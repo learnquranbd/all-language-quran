@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nahl opens with a run of creation verses. 16:3 names the heavens and the earth, created with truth, and declares Allah high above what they associate with Him. 16:4 turns to man, and 16:5 moves on to the grazing livestock. Al-Qurtubi describes the turn: having set out the proof of His oneness, Allah then mentions man, his contrariness and his overstepping of his bounds. At-Tabari reads the verse in the same line of argument, opening it with the words: and among His proofs against you, O people.",
-            "bn": "সূরা নাহলের শুরুতে পরপর কয়েকটি আয়াত সৃষ্টির কথা বলে। ১৬:৩ আয়াতে আসমান ও যমীনের কথা, যা সত্যসহ সৃষ্টি, আর ঘোষণা যে তারা যা শরীক করে তা থেকে আল্লাহ বহু ঊর্ধ্বে। ১৬:৪ আয়াত ফেরে মানুষের দিকে, আর ১৬:৫ আয়াত চলে যায় গবাদি পশুর কথায়। কুরতুবী এই মোড়টা ধরিয়ে দেন। তাওহীদের দলিল পেশ করার পর আল্লাহ মানুষের কথা আনেন, তার একগুঁয়েমি আর নিজের সীমা ছাড়িয়ে যাওয়ার কথা। তাবারীও আয়াতটি পড়েন একই যুক্তির ধারায়। তাঁর ব্যাখ্যা শুরু হয় এভাবে: হে মানুষ, তোমাদের বিরুদ্ধে তাঁর দলিলগুলোর মধ্যে এটিও একটি।"
+            "bn": "সূরা নাহলের শুরুতে পরপর কয়েকটি আয়াত সৃষ্টির কথা বলে। ১৬:৩ আয়াত বলে, আল্লাহ আসমান ও যমীন সৃষ্টি করেছেন যথাযথভাবে, আর তারা যাকে শরীক করে, তিনি তার বহু ঊর্ধ্বে। ১৬:৪ আয়াত ফেরে মানুষের দিকে, আর ১৬:৫ আয়াত চলে যায় গবাদি পশুর কথায়। কুরতুবী এই মোড়টা ধরিয়ে দেন। তাওহীদের দলিল পেশ করার পর আল্লাহ মানুষের কথা আনেন, তার একগুঁয়েমি আর নিজের সীমা ছাড়িয়ে যাওয়ার কথা। তাবারীও আয়াতটি পড়েন একই যুক্তির ধারায়। তাঁর ব্যাখ্যা শুরু হয় এভাবে: হে মানুষ, তোমাদের বিরুদ্ধে তাঁর দলিলগুলোর মধ্যে এটিও একটি।"
           },
           {
             "en": "So the verse is a sign placed among other signs, and it is the only one in the run that talks back. The sky does not dispute, and the livestock of the verses after it give warmth and carry loads. Ma'arif al-Qur'an notes the contrast from the other side: man is the one whom the whole universe has been made to serve, and he is also the one who turns critic of his Creator. Al-Insan, at-Tabari adds, means all people, singular in its wording and plural in its meaning; al-Qurtubi calls it a name for the whole kind.",
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It should be said plainly. The verse describes what it describes: a man made from a lowly drop who turns his speech against his Lord, and in the narrated occasion one named man with a crumbled bone. It licenses nothing against any living person or community. It does not make every questioner an adversary. The glosses gathered here describe dispute against Allah, dispute with falsehood, denial of the resurrection. As-Sa'di's second reading even counts the power to debate as a favour to be thanked for.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে: নগণ্য ফোঁটা থেকে বানানো এক মানুষ, যে নিজের কথাকে রবের বিরুদ্ধে ঘুরিয়ে দেয়। আর বর্ণিত ঘটনায় আছে নির্দিষ্ট একজন লোক, হাতে ঝুরঝুরে হাড়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। প্রশ্ন করে এমন প্রত্যেককে সে প্রতিপক্ষও বানায় না। এখানে জড়ো করা ব্যাখ্যাগুলো যে বিবাদের কথা বলে, তা আল্লাহর বিরুদ্ধে বিবাদ, বাতিল দিয়ে বিবাদ, পুনরুত্থান অস্বীকার। সা'দীর দ্বিতীয় ব্যাখ্যায় তো তর্ক করার ক্ষমতাকেই শুকরিয়ার যোগ্য নিয়ামত বলা হয়েছে।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু সেটুকুই: নগণ্য ফোঁটা থেকে বানানো এক মানুষ, যে নিজের কথাকে রবের বিরুদ্ধে ঘুরিয়ে দেয়। আর বর্ণিত ঘটনায় আছে নির্দিষ্ট একজন লোক, হাতে ঝুরঝুরে হাড়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। যে-ই প্রশ্ন করে, তাকেই প্রতিপক্ষ বানায় না। এখানে জড়ো করা ব্যাখ্যাগুলো যে বিবাদের কথা বলে, তা আল্লাহর বিরুদ্ধে বিবাদ, বাতিল দিয়ে বিবাদ, পুনরুত্থান অস্বীকার। সা'দীর দ্বিতীয় ব্যাখ্যায় তো তর্ক করার ক্ষমতাকেই শুকরিয়ার যোগ্য নিয়ামত বলা হয়েছে।"
           },
           {
             "en": "So the label is not for pinning on someone else. At-Tabari says al-insan here means all people, and al-Baghawi, for all his report about Ubayy, holds that the verse is general. That places the reader inside the verse rather than beside it. Anyone who has been fed, raised and taught to speak is the subject of its first half, and the only open question is how much of the second half is also true of them. That question is not answered by pointing at another person.",
@@ -301,7 +301,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse then ends with humility. Whatever the clause covers in the end, Paradise, unseen creatures or journeys not yet imagined, it tells me that my knowledge is not the edge of His creation. That is a good place to stand. I can thank Him for the familiar things I use every day and stop treating them as mine by right. And I can hold my certainty about the world a little more loosely, since He is still creating what I do not know.",
-            "bn": "এরপর আয়াত শেষ হয় বিনয়ের কথায়। শেষ পর্যন্ত বাক্যটির আওতায় যা-ই পড়ুক, জান্নাত, অদেখা প্রাণী, কিংবা এখনো কল্পনায় না আসা সফর, একটা কথা আমাকে জানিয়ে দেয়: আমার জ্ঞান তাঁর সৃষ্টির সীমানা নয়। দাঁড়ানোর জন্য জায়গাটা ভালো। প্রতিদিন যেসব চেনা জিনিস ব্যবহার করি, সেগুলোর জন্য তাঁর শুকরিয়া আদায় করতে পারি, আর ওগুলোকে নিজের জন্মগত পাওনা ভাবা বন্ধ করতে পারি। দুনিয়া সম্পর্কে নিজের নিশ্চিত ধারণাগুলোও একটু আলগা করে ধরতে পারি, কারণ তিনি এখনো সৃষ্টি করে চলেছেন এমন কিছু, যা আমি জানি না।"
+            "bn": "এরপর আয়াত শেষ হয় বিনয়ের কথায়। শেষ পর্যন্ত এর আওতায় যা-ই পড়ুক, জান্নাত, অদেখা প্রাণী, কিংবা এখনো কল্পনায় না আসা সফর, বাক্যটি আমাকে জানিয়ে দেয়: আমার জ্ঞানেই তাঁর সৃষ্টি শেষ নয়। এ বোধটুকু নিয়ে চলাই ভালো। প্রতিদিন যেসব চেনা জিনিস ব্যবহার করি, সেগুলোর জন্য তাঁর শুকরিয়া আদায় করতে পারি, আর ওগুলোকে নিজের জন্মগত পাওনা ভাবা ছেড়ে দিতে পারি। দুনিয়া সম্পর্কে নিজের নিশ্চিত ধারণাগুলোও একটু আলগা করে ধরতে পারি, কারণ আমি যা জানি না, তিনি এখনো তেমন কিছু সৃষ্টি করে চলেছেন।"
           }
         ]
       }
@@ -312,32 +312,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Surah That Counts Aloud",
-          "bn": "যে সূরা সরবে গণনা করে"
+          "bn": "যে সূরা গুনে গুনে শোনায়"
         },
         "p": [
           {
             "en": "Surah an-Nahl opens with a long inventory of favors before this verse sums it up. Cattle are named in 16:5 with their warmth and their uses; rain in 16:10 giving drink and raising pasture; the sea in 16:14 with its fresh flesh, its ornaments, and the ships cleaving through it; mountains, rivers, and stars follow. The list is deliberate: the surah makes the reader count along for many verses, and then tells him the count can never be finished.",
-            "bn": "সূরা আন-নাহল এই আয়াতে উপসংহার টানার আগে নিয়ামতের এক দীর্ঘ তালিকা দিয়ে শুরু হয়। 16:5 আয়াতে গবাদিপশুর নাম আসে তাদের উষ্ণতা ও উপকারসহ; 16:10 আয়াতে বৃষ্টি — যা পানীয় দেয় ও তৃণভূমি জাগায়; 16:14 আয়াতে সমুদ্র — তার তাজা গোশত, অলংকার আর বুক চিরে চলা জাহাজসহ; এরপর আসে পাহাড়, নদী ও তারা। তালিকাটি ইচ্ছাকৃত: সূরাটি পাঠককে বহু আয়াত ধরে সঙ্গে সঙ্গে গুনতে বাধ্য করে, তারপর জানিয়ে দেয় — এই গণনা কখনো শেষ করা যাবে না।"
+            "bn": "এই আয়াতে এসে সারকথা বলার আগে সূরা নাহল নিয়ামতের লম্বা এক ফর্দ দিয়ে শুরু হয়। ১৬:৫ আয়াতে আসে গবাদি পশুর কথা, তাদের দেওয়া উষ্ণতা আর নানা উপকারসহ। ১৬:১০ আয়াতে বৃষ্টি, যা পান করার পানি দেয়, চারণভূমিতে ঘাস গজায়। ১৬:১৪ আয়াতে সমুদ্র: তার তাজা গোশত, গয়না, আর ঢেউ চিরে চলা জাহাজ। তারপর আসে পাহাড়, নদী আর তারা। ফর্দটা ভেবেচিন্তেই সাজানো। বহু আয়াত ধরে সূরাটি পাঠককে সঙ্গে নিয়ে গুনিয়ে চলে, তারপর জানিয়ে দেয়: এ গোনা কখনো শেষ হবে না।"
           },
           {
             "en": "That is the setting of the summary verse — and if you were to count the favor of Allah, you could never enumerate it. The sentence appears again almost word for word in 14:34 inside another such list of gifts. The Quran does not ask for gratitude in the abstract; it walks through the gifts one by one first, and only then states that the walk could go on forever.",
-            "bn": "এই হলো উপসংহার-আয়াতটির পটভূমি — আর তোমরা যদি আল্লাহর নিয়ামত গণনা করতে চাও, কখনোই তা সম্পূর্ণ গুনে শেষ করতে পারবে না। বাক্যটি প্রায় হুবহু আবার আসে 14:34 আয়াতে, দানসামগ্রীর এমনই আরেক তালিকার ভেতরে। কুরআন বিমূর্তভাবে কৃতজ্ঞতা চায় না; আগে উপহারগুলোর ভেতর দিয়ে একটি একটি করে হাঁটিয়ে নেয়, তারপরই বলে — এই হাঁটা চিরকাল চলতে পারত।"
+            "bn": "সারকথার এই আয়াতটি আসে সেই পটভূমিতে: তোমরা যদি আল্লাহর নিয়ামত গুনতে চাও, কখনো গুনে শেষ করতে পারবে না। প্রায় হুবহু এই বাক্যটি আবার এসেছে ১৪:৩৪ আয়াতে, দানের এমনই আরেক ফর্দের মাঝে। কুরআন ভাসাভাসাভাবে শুকরিয়া চায় না। আগে একটা একটা করে নিয়ামতের ভেতর দিয়ে হাঁটিয়ে নেয়, তারপর বলে: এ হাঁটা চাইলে অনন্তকাল চলতে পারত।"
           }
         ]
       },
       {
         "h": {
           "en": "Counting Versus Encompassing",
-          "bn": "গণনা বনাম পরিবেষ্টন"
+          "bn": "গোনা আর গুনে শেষ করা"
         },
         "p": [
           {
             "en": "Two different verbs carry the sentence. In ta'uddu, if you count — 'adda is tallying one by one. La tuhsuha — ahsa is to encompass a total completely, to close the ledger. The verse concedes the first and denies the second: begin the tally if you wish; you will never reach the bottom of the page. Even the object is singular, ni'mat Allah, the favor of Allah, as if to say that a single favor, traced honestly, already opens into more than can be followed.",
-            "bn": "বাক্যটি বহন করছে দুটি ভিন্ন ক্রিয়াপদ। ইন তাউদ্দু — যদি তোমরা গণনা করো — 'আদ্দা মানে একটি একটি করে হিসাব করা। লা তুহসুহা — 'আহসা' মানে মোট অঙ্কটিকে পুরোপুরি পরিবেষ্টন করা, খাতা বন্ধ করা। আয়াতটি প্রথমটি মেনে নেয়, দ্বিতীয়টি অস্বীকার করে: ইচ্ছা হলে হিসাব শুরু করো; পাতার শেষ প্রান্তে কখনো পৌঁছাবে না। এমনকি কর্মপদটিও একবচনে — নি'মাতাল্লাহ, আল্লাহর নিয়ামত — যেন বলা হচ্ছে, সততার সঙ্গে অনুসরণ করলে একটিমাত্র নিয়ামতই এত কিছুতে খুলে যায় যে তার পিছু নেওয়া যায় না।"
+            "bn": "বাক্যটি দাঁড়িয়ে আছে দুটি আলাদা ক্রিয়ার উপর। ইন তাউদ্দু, অর্থাৎ যদি তোমরা গোনো। আদ্দা মানে একটা একটা করে হিসাব করা। লা তুহসূহা: আহসা মানে পুরো অঙ্কটা ঘিরে ফেলা, হিসাবের খাতা বন্ধ করে দেওয়া। আয়াত প্রথমটার সুযোগ দেয়, দ্বিতীয়টা নাকচ করে। চাইলে গোনা শুরু করুন, কিন্তু পাতার শেষে কখনো পৌঁছাবেন না। এমনকি কর্মটিও একবচনে: নি'মাতাল্লাহ, আল্লাহর নিয়ামত। যেন বলা হচ্ছে, একটিমাত্র নিয়ামতকেও সৎভাবে খুঁজে দেখলে তা এত কিছুতে ছড়িয়ে যায় যে তার নাগাল পাওয়া যায় না।"
           },
           {
             "en": "The commentators illustrate it from the body: one eye is sight, but also tears that clean it, lids that guard it, and a brain that reads what it sees — each a favor inside a favor. Add what no one perceives: dangers averted that we never knew existed, and provision routed to us through hands we never met. The impossibility of the count is not rhetorical exaggeration; it is a plain description of a creature sustained from every side.",
-            "bn": "মুফাসসিরগণ দেহ থেকে এর দৃষ্টান্ত দেন: একটি চোখ মানে দৃষ্টি, কিন্তু সেই সঙ্গে অশ্রু যা তাকে পরিষ্কার রাখে, পাতা যা তাকে পাহারা দেয়, আর মস্তিষ্ক যা দেখা জিনিস পড়ে নেয় — প্রতিটিই নিয়ামতের ভেতরে নিয়ামত। এর সঙ্গে যোগ করুন যা কেউ টেরও পায় না: এমন সব বিপদ যা সরিয়ে দেওয়া হয়েছে অথচ আমরা জানতেই পারিনি, আর এমন রিযিক যা আমাদের কাছে পৌঁছেছে কখনো দেখা হয়নি এমন হাতের ভেতর দিয়ে। গণনার এই অসম্ভবতা কোনো অলংকারিক অতিরঞ্জন নয়; এটি চারদিক থেকে প্রতিপালিত এক সৃষ্টির সরল বিবরণ।"
+            "bn": "মুফাসসিররা শরীর থেকেই এর উদাহরণ দেন। একটা চোখ মানে শুধু দেখা নয়। সঙ্গে আছে চোখের পানি, যা চোখ পরিষ্কার রাখে; পাতা, যা চোখ পাহারা দেয়; আর মগজ, যা দেখা জিনিসটা বুঝে নেয়। প্রতিটিই নিয়ামতের ভেতরে নিয়ামত। এর সঙ্গে যোগ করুন সেসব, যা কেউ টেরই পায় না। কত বিপদ সরে গেছে, যার কথা আমরা জানতেই পারিনি। কত রিযিক আমাদের কাছে এসেছে এমন সব হাত ঘুরে, যাদের সঙ্গে কখনো দেখা হয়নি। কাজেই গুনে শেষ করতে না পারার কথাটা বাড়িয়ে বলা নয়। চারদিক থেকে যাকে আগলে রাখা হচ্ছে, এমন এক সৃষ্টির এ হলো সোজা বর্ণনা।"
           }
         ]
       },
@@ -349,11 +349,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "14:34 and this verse share the same clause about counting, and part ways at the close. There the sentence ends: indeed man is persistently unjust, ungrateful. Here it ends: indeed Allah is Forgiving, Merciful. The commentators read the two endings as the two sides of one account — what the count proves about us, and how Allah responds to what it proves. Confronted with a debt no creature can even calculate, the Quran's final word is not the debtor's failure but the Creditor's pardon.",
-            "bn": "14:34 আয়াত আর এই আয়াত গণনা-বিষয়ক একই বাক্যাংশ ভাগ করে নেয়, আর শেষে এসে আলাদা পথ ধরে। সেখানে বাক্য শেষ হয়: নিশ্চয়ই মানুষ বড়ই যালিম, বড়ই অকৃতজ্ঞ। এখানে শেষ হয়: নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু। মুফাসসিরগণ এই দুই সমাপ্তিকে একই হিসাবের দুই পিঠ হিসেবে পড়েন — গণনাটি আমাদের সম্পর্কে কী প্রমাণ করে, আর যা প্রমাণিত হলো তার জবাবে আল্লাহ কী করেন। যে ঋণ কোনো সৃষ্টি হিসাবই করতে পারে না, তার মুখোমুখি দাঁড়িয়ে কুরআনের শেষ কথাটি ঋণীর ব্যর্থতা নয় — মহাজনের ক্ষমা।"
+            "bn": "গোনার কথাটা ১৪:৩৪ আয়াতে আর এই আয়াতে একই, কিন্তু শেষে এসে দুটির পথ আলাদা হয়ে যায়। সেখানে আয়াত শেষ হয়: নিশ্চয়ই মানুষ বড়ই যালিম, বড়ই অকৃতজ্ঞ। এখানে শেষ হয়: নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু। মুফাসসিররা এই দুই সমাপ্তিকে একই হিসাবের দুই পিঠ হিসেবে দেখেন। একদিকে, এই গোনা আমাদের সম্পর্কে কী প্রমাণ করে। অন্যদিকে, সেই প্রমাণের জবাবে আল্লাহ কী করেন। এমন এক ঋণ, যার হিসাব কোনো সৃষ্টি কষতেই পারে না। তার সামনে কুরআনের শেষ কথা ঋণীর ব্যর্থতা নয়, যাঁর কাছে ঋণ, তাঁরই ক্ষমা।"
           },
           {
             "en": "As-Sa'di draws the consequence plainly: Allah forgives the shortfall in gratitude itself. No one has ever thanked Allah in proportion to what he received; the verse pairs the impossible arithmetic with the two names that answer it, al-Ghafur and ar-Rahim. Gratitude in Islam is therefore not a payment that clears a balance. It is the posture of someone who knows the balance cannot be cleared, and finds, precisely there, forgiveness and mercy.",
-            "bn": "আস-সা'দী পরিণতিটি সরাসরি টেনে আনেন: কৃতজ্ঞতার ঘাটতিটুকুও আল্লাহ ক্ষমা করে দেন। যা পেয়েছে তার অনুপাতে আল্লাহকে শুকরিয়া জানাতে পারেনি কেউ কখনো; আয়াতটি এই অসম্ভব পাটিগণিতের পাশে বসিয়ে দেয় তার জবাব দেওয়া দুটি নাম — আল-গাফূর ও আর-রাহীম। তাই ইসলামে কৃতজ্ঞতা এমন কোনো পরিশোধ নয় যা হিসাব চুকিয়ে দেয়। এটি এমন একজনের ভঙ্গি, যে জানে হিসাব কোনোদিন চুকবে না — আর ঠিক সেখানেই পায় ক্ষমা ও রহমত।"
+            "bn": "সা'দী সোজা কথায় এর ফল টেনে বলেন: শুকরিয়ার ঘাটতিটুকুও আল্লাহ মাফ করে দেন। যা পেয়েছে, সেই অনুপাতে আল্লাহর শুকরিয়া আদায় করতে পারেনি কেউ কোনোদিন। আয়াত এই অসম্ভব হিসাবের পাশেই রেখে দেয় তার জবাব, দুটি নাম: আল-গাফূর ও আর-রাহীম। কাজেই ইসলামে শুকরিয়া এমন কোনো দাম পরিশোধ নয়, যাতে দেনা চুকে যায়। এ হলো এমন মানুষের অবস্থান, যে জানে দেনা কোনোদিন চুকবে না। আর ঠিক সেখানেই সে পায় মাগফিরাত আর রহমত।"
           }
         ]
       },
@@ -365,7 +365,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The scholars also observe a loop inside gratitude: the very ability to give thanks is itself a fresh favor deserving further thanks, so the count grows even while you are counting. 16:53 in the same surah states the premise — whatever favor you have, it is from Allah. Nothing in the ledger originates with us, including the tongue doing the thanking and the heart that means it. Rightly seen, this does not crush the servant; it frees him from ever imagining he has finished.",
-            "bn": "আলিমগণ কৃতজ্ঞতার ভেতরে একটি চক্রও লক্ষ করেন: শুকরিয়া জানাতে পারার সামর্থ্যটুকুই এক নতুন নিয়ামত, যা আরও শুকরিয়া দাবি করে — ফলে গুনতে গুনতেই হিসাব বেড়ে চলে। একই সূরার 16:53 আয়াত ভিত্তিটি ঘোষণা করে — তোমাদের কাছে যে নিয়ামতই আছে তা আল্লাহরই পক্ষ থেকে। খাতার কোনো কিছুই আমাদের থেকে উৎসারিত নয় — যে জিহ্বা শুকরিয়া জানাচ্ছে আর যে হৃদয় তা অন্তর থেকে বলছে, সে দুটিও নয়। সঠিকভাবে দেখলে এটি বান্দাকে পিষে ফেলে না; বরং তাকে মুক্তি দেয় এই কল্পনা থেকে যে তার শুকরিয়া কখনো সম্পূর্ণ হয়ে গেছে।"
+            "bn": "আলেমরা শুকরিয়ার ভেতরে একটা চক্রও লক্ষ করেন। শুকরিয়া আদায় করতে পারাটাই নতুন এক নিয়ামত, যার জন্য আবার শুকরিয়া লাগে। ফলে গুনতে গুনতেই হিসাব বেড়ে চলে। একই সূরার ১৬:৫৩ আয়াত গোড়ার কথাটা বলে দেয়: তোমাদের কাছে যে নিয়ামতই আছে, তা আল্লাহরই দেওয়া। হিসাবের খাতার কিছুই আমাদের নিজের থেকে আসেনি। যে জিভ শুকরিয়া বলছে, আর যে অন্তর মন থেকে তা বলছে, সেগুলোও না। ঠিকভাবে দেখলে এ কথা বান্দাকে দাবিয়ে দেয় না। বরং তাকে মুক্তি দেয় এই ধারণা থেকে যে তার শুকরিয়া কখনো পুরো হয়ে গেছে।"
           }
         ]
       },
@@ -377,27 +377,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari relates from al-Mughirah ibn Shu'bah (RA) that the Prophet ﷺ stood in night prayer until his feet swelled, and when asked why he did this when he had already been forgiven, he answered: should I not be a grateful slave? Gratitude in that answer is not a sentiment but a workload. The one human being with the least to prove treated thankfulness as the strongest of motives — stronger than fear, stronger than need.",
-            "bn": "আল-বুখারী মুগীরা ইবনে শু'বা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ রাতের নামাযে এত দীর্ঘ দাঁড়াতেন যে তাঁর দুই পা ফুলে যেত; জিজ্ঞেস করা হলো — আপনাকে তো ক্ষমা করেই দেওয়া হয়েছে, তবু কেন এমন করেন? তিনি উত্তর দিলেন: আমি কি কৃতজ্ঞ বান্দা হব না? এই উত্তরে কৃতজ্ঞতা কোনো অনুভূতি নয়, রীতিমতো পরিশ্রমের কাজ। যে একজন মানুষের প্রমাণ করার ছিল সবচেয়ে কম, তিনিই শুকরিয়াকে গণ্য করলেন সবচেয়ে জোরালো প্রেরণা হিসেবে — ভয়ের চেয়ে জোরালো, প্রয়োজনের চেয়েও জোরালো।"
+            "bn": "বুখারী মুগীরা ইবনে শু'বা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ রাতের নামাজে এত দীর্ঘ সময় দাঁড়িয়ে থাকতেন যে তাঁর দুই পা ফুলে যেত। তাঁকে জিজ্ঞেস করা হলো, আপনাকে তো আগেই মাফ করে দেওয়া হয়েছে, তবু কেন এমন করেন? তিনি বললেন: আমি কি কৃতজ্ঞ বান্দা হব না? এই জবাবে শুকরিয়া কোনো আবেগ নয়, রীতিমতো খাটুনির কাজ। নিজেকে প্রমাণ করার দায় যাঁর ছিল সবচেয়ে কম, সেই মানুষটিই শুকরিয়াকে মানলেন সবচেয়ে বড় প্রেরণা হিসেবে। ভয়ের চেয়েও বড়, প্রয়োজনের চেয়েও বড়।"
           },
           {
             "en": "The classical teachers divide shukr across three organs: the heart that recognises the Giver, the tongue that names the gift, and the limbs that use the gift in obedience rather than against Him. The division is practical. A favor acknowledged in the heart, spoken of without boasting, and spent where its Giver is pleased has been thanked in full measure — as full, at least, as a creature's measure ever gets.",
-            "bn": "প্রাচীন শিক্ষকগণ শুকরকে তিনটি অঙ্গে ভাগ করেন: হৃদয় — যে দাতাকে চিনে নেয়; জিহ্বা — যে দানটির নাম নেয়; আর অঙ্গ-প্রত্যঙ্গ — যা দানটিকে তাঁর বিরুদ্ধে নয়, তাঁর আনুগত্যে ব্যবহার করে। ভাগটি ব্যবহারিক। যে নিয়ামত হৃদয়ে স্বীকৃত, অহংকার ছাড়া মুখে উচ্চারিত, আর দাতার সন্তুষ্টির জায়গায় ব্যয়িত — তার শুকরিয়া পূর্ণ মাত্রায় আদায় হয়েছে; অন্তত কোনো সৃষ্টির মাত্রা যতটা পূর্ণ হতে পারে, ততটা।"
+            "bn": "আগের যুগের আলেমরা শোকরকে তিন অঙ্গে ভাগ করেছেন। অন্তর, যা দাতাকে চেনে। জিভ, যা দানের কথা মুখে আনে। আর হাত-পা, যা দানটাকে তাঁর নাফরমানিতে নয়, তাঁর আনুগত্যে কাজে লাগায়। ভাগটা একেবারে কাজের। যে নিয়ামত অন্তরে স্বীকার করা হয়েছে, বড়াই ছাড়া মুখে বলা হয়েছে, আর দাতা যেখানে খুশি হন সেখানে খরচ করা হয়েছে, তার শুকরিয়া পুরোপুরি আদায় হয়েছে। অন্তত কোনো সৃষ্টির পক্ষে যতটা পুরো হওয়া সম্ভব, ততটা।"
           }
         ]
       },
       {
         "h": {
           "en": "Counting Anyway",
-          "bn": "তবু গণনা করা"
+          "bn": "তবু গুনে চলা"
         },
         "p": [
           {
             "en": "The verse denies that the count can be completed, not that it should be attempted. The practice is simple: name a few favors each day, specifically — this recovery, this meal, this friend — because gratitude attaches to what is noticed, and heedlessness to what is assumed. The habit retrains attention away from the one thing missing toward the many things present, which is where the verse has been pointing all along.",
-            "bn": "আয়াতটি অস্বীকার করে যে গণনা শেষ করা যাবে — এ কথা নয় যে চেষ্টাই করা উচিত নয়। অনুশীলনটি সরল: প্রতিদিন কয়েকটি নিয়ামতের নাম নিন, সুনির্দিষ্টভাবে — এই আরোগ্য, এই খাবার, এই বন্ধু — কারণ কৃতজ্ঞতা জড়ায় যা লক্ষ করা হয় তার সঙ্গে, আর গাফলত জড়ায় যা ধরে নেওয়া হয় তার সঙ্গে। অভ্যাসটি মনোযোগকে নতুন করে গড়ে তোলে — যে একটি জিনিস নেই তা থেকে সরিয়ে, যে অনেক কিছু আছে তার দিকে; আয়াতটি গোড়া থেকেই সেদিকে আঙুল তুলে রেখেছে।"
+            "bn": "আয়াত বলে, গুনে শেষ করা যাবে না। এ কথা বলে না যে গোনার চেষ্টা করা উচিত নয়। অভ্যাসটা সহজ: প্রতিদিন নির্দিষ্ট করে কয়েকটা নিয়ামতের নাম নিন। এই সেরে ওঠা, এই খাবার, এই বন্ধু। কারণ যা চোখে পড়ে, শুকরিয়া জন্মায় তাকে ঘিরে। আর যা ধরেই নেওয়া হয়, গাফিলতি বাসা বাঁধে সেখানে। এই অভ্যাস মনোযোগকে নতুন করে শেখায়: যে একটা জিনিস নেই, সেখান থেকে চোখ সরিয়ে যে অনেক কিছু আছে, সেদিকে তাকাতে। আয়াত শুরু থেকে সেদিকেই আঙুল তুলে আছে।"
           },
           {
             "en": "And when the count falters — days when the heart is dull and thanks feels false — the verse's ending is already there for exactly that failure: He is Forgiving, Merciful. Begin again from forgiveness rather than from guilt. A believer who counts blessings, loses count, falls short in thanks, and returns is living this verse precisely as it is written: an unbounded gift met by a finite creature before a forgiving Lord.",
-            "bn": "আর যখন গণনা থমকে যায় — যেসব দিনে হৃদয় ভোঁতা লাগে আর শুকরিয়া মেকি মনে হয় — ঠিক সেই ব্যর্থতার জন্যই আয়াতের সমাপ্তিটি আগে থেকে রাখা: তিনি ক্ষমাশীল, পরম দয়ালু। অপরাধবোধ থেকে নয়, ক্ষমা থেকে আবার শুরু করুন। যে মুমিন নিয়ামত গোনে, হিসাব হারায়, শুকরিয়ায় ঘাটতি রাখে, আবার ফিরে আসে — সে এই আয়াতটি ঠিক যেমন লেখা তেমনভাবেই যাপন করছে: সীমাহীন এক দান, সসীম এক সৃষ্টি, আর সামনে এক ক্ষমাশীল রব।"
+            "bn": "আর কখনো গোনা থেমে যায়। মন ভোঁতা লাগে, শুকরিয়াকেও মেকি মনে হয়। ঠিক এই ব্যর্থতার জন্যই আয়াতের শেষ কথাটা আগে থেকে রাখা আছে: তিনি ক্ষমাশীল, পরম দয়ালু। তাই অপরাধবোধ থেকে নয়, তাঁর ক্ষমা থেকে আবার শুরু করুন। যে মুমিন নিয়ামত গোনে, গুনতে গুনতে হিসাব হারিয়ে ফেলে, শুকরিয়ায় কমতি করে, আবার ফিরে আসে, সে এই আয়াতকে ঠিক যেমন লেখা আছে তেমনভাবেই জীবনে পালন করছে। সীমাহীন দান, সীমিত এক সৃষ্টি, আর সামনে ক্ষমাশীল রব।"
           }
         ]
       }
@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di fills out the name in words taken from Surat al-Ikhlas: He is Allah, al-Ahad, al-Fard, as-Samad, who did not beget and to whom none is equal. Ibn Kathir uses a similar string: Allah tells that there is no god but Him, al-Wahid, al-Ahad, al-Fard, as-Samad. Neither stops at a definition. As-Sa'di in particular moves at once from the statement to what it does inside those who accept it, and that is where the verse's contrast begins to take shape.",
-            "bn": "সা'দী নামটির পরিচয় দেন সূরা ইখলাসের শব্দ দিয়ে: তিনি আল্লাহ, আল-আহাদ, আল-ফারদ, আস-সামাদ, যিনি কাউকে জন্ম দেননি, আর তাঁর সমকক্ষ কেউ নেই। ইবন কাসীরও প্রায় একই শব্দমালা ব্যবহার করেন: আল্লাহ জানিয়ে দিচ্ছেন, তিনি ছাড়া কোনো ইলাহ নেই, তিনি আল-ওয়াহিদ, আল-আহাদ, আল-ফারদ, আস-সামাদ। দুজনের কেউই শুধু সংজ্ঞা দিয়ে থামেন না। বিশেষ করে সা'দী ঘোষণাটি থেকে সঙ্গে সঙ্গে চলে যান, যারা একে মেনে নেয় তাদের ভেতরে এটা কী ঘটায় সেই দিকে। আয়াতের বৈপরীত্যটা সেখান থেকেই আকার নিতে শুরু করে।"
+            "bn": "সা'দী নামটির পরিচয় দেন সূরা ইখলাসের শব্দ দিয়ে: তিনি আল্লাহ, আল-আহাদ, আল-ফারদ, আস-সামাদ, যিনি কাউকে জন্ম দেননি, আর তাঁর সমকক্ষ কেউ নেই। ইবন কাসীরও প্রায় একই শব্দমালা ব্যবহার করেন: আল্লাহ জানিয়ে দিচ্ছেন, তিনি ছাড়া কোনো ইলাহ নেই, তিনি আল-ওয়াহিদ, আল-আহাদ, আল-ফারদ, আস-সামাদ। দুজনের কেউই শুধু সংজ্ঞা দিয়ে থামেন না। বিশেষ করে সা'দী ঘোষণাটি বলেই চলে যান পরের কথায়: যারা একে মেনে নেয়, তাদের ভেতরে এটা কী বদল আনে। আয়াতের বৈপরীত্যটা সেখান থেকেই আকার নিতে শুরু করে।"
           },
           {
             "en": "The people of faith and of sound minds, he writes, held Him in awe in their hearts and magnified Him, and loved Him with a great love. They gave Him all they could of the acts that bring a servant near, of the body and of wealth, the acts of hearts and the acts of limbs, and they praised Him by His beautiful names, His attributes and His holy acts. That is the opposite of the heart this verse goes on to describe.",
@@ -453,7 +453,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari's gloss leans towards how the message is received. Munkira, he says, means mustankira: finding strange and objectionable what We relate to them of Allah's power and His greatness, of His fine favours upon them, and of the fact that worship is fit only for Him and divinity belongs to nothing else. Al-Qurtubi puts it in terms of what such a heart can take in: it does not accept admonition, and remembrance does not benefit it. On his reading the trouble is a heart on which the reminder no longer works.",
-            "bn": "তাবারীর ব্যাখ্যা ঝুঁকে আছে বার্তাটা কীভাবে গৃহীত হয় সেই দিকে। তিনি বলেন, মুনকিরা মানে মুসতানকিরা: যা অদ্ভুত আর আপত্তিকর ঠেকে। আল্লাহর কুদরত ও মহত্ত্বের যে বিবরণ তাদের শোনানো হয়, তাদের উপর তাঁর সুন্দর নিয়ামতের কথা, আর ইবাদত যে কেবল তাঁরই প্রাপ্য, উলূহিয়াত যে আর কারও নয়, এসবই তাদের কাছে অচেনা আর অগ্রহণযোগ্য লাগে। কুরতুবী বিষয়টা দেখেন এমন অন্তর কী গ্রহণ করতে পারে সেই দিক থেকে: সে নসিহত কবুল করে না, জিকির তার কোনো উপকারে আসে না। তাঁর পাঠে সমস্যাটা এমন অন্তর, যার উপর মনে করিয়ে দেওয়া আর কাজ করে না।"
+            "bn": "তাবারীর ব্যাখ্যার ঝোঁক অন্য দিকে: বার্তাটা মানুষ কীভাবে নেয়। তিনি বলেন, মুনকিরা মানে মুসতানকিরা: যা অদ্ভুত আর আপত্তিকর ঠেকে। আল্লাহর কুদরত ও মহত্ত্বের যে বিবরণ তাদের শোনানো হয়, তাদের উপর তাঁর সুন্দর নিয়ামতের কথা, আর ইবাদত যে কেবল তাঁরই প্রাপ্য, উলূহিয়াত যে আর কারও নয়, এসবই তাদের কাছে অচেনা আর অগ্রহণযোগ্য লাগে। কুরতুবী বিষয়টা দেখেন এমন অন্তর কী গ্রহণ করতে পারে সেই দিক থেকে: সে নসিহত কবুল করে না, জিকির তার কোনো উপকারে আসে না। তাঁর পাঠে সমস্যাটা এমন অন্তর, যার উপর মনে করিয়ে দেওয়া আর কাজ করে না।"
           },
           {
             "en": "At-Tabari also cites Qatada, through Bishr, Yazid and Sa'id, on the words their hearts are munkira: towards this discourse that has gone before, and they are arrogant towards it. Qatada points the denial back at what has just been said. Set side by side, the glosses differ in emphasis rather than in substance. Some describe a heart that rejects the claim outright; others describe a heart that finds the reminder strange and lets it pass without effect. The verse's single word holds both.",
@@ -509,7 +509,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second, 39:45, uses the verse's own phrase: when Allah alone is mentioned, the hearts of those who do not believe in the Hereafter shrink with aversion, and when those besides Him are mentioned, they rejoice. Here the denial shows as a feeling. The heart tightens at the mention of the One and brightens at the mention of others. It is the same group, named in the same words, and the Qur'an describes what happens inside them as they listen. Munkira, in 39:45, has a visible face.",
-            "bn": "দ্বিতীয়টি ৩৯:৪৫, যেখানে এই আয়াতের শব্দবন্ধটাই আছে: যখন একমাত্র আল্লাহর কথা বলা হয়, তখন যারা আখিরাতে বিশ্বাস করে না তাদের অন্তর বিতৃষ্ণায় সংকুচিত হয়ে যায়, আর যখন তিনি ছাড়া অন্যদের কথা বলা হয়, তখন তারা খুশিতে উৎফুল্ল হয়। এখানে অস্বীকারটা ধরা পড়ে এক অনুভূতিতে। একক আল্লাহর নাম শুনলে অন্তর কুঁকড়ে যায়, অন্যদের নাম শুনলে উজ্জ্বল হয়ে ওঠে। একই দল, একই শব্দে তাদের পরিচয়। শুনতে শুনতে তাদের ভেতরে কী ঘটে, কুরআন তা বর্ণনা করে। ৩৯:৪৫ আয়াতে মুনকিরা অবস্থাটার একটা দেখা যায় এমন চেহারা আছে।"
+            "bn": "দ্বিতীয়টি ৩৯:৪৫, যেখানে এই আয়াতের শব্দবন্ধটাই আছে: যখন একমাত্র আল্লাহর কথা বলা হয়, তখন যারা আখিরাতে বিশ্বাস করে না তাদের অন্তর বিতৃষ্ণায় সংকুচিত হয়ে যায়, আর যখন তিনি ছাড়া অন্যদের কথা বলা হয়, তখন তারা খুশিতে উৎফুল্ল হয়। এখানে অস্বীকারটা ধরা পড়ে এক অনুভূতিতে। একক আল্লাহর নাম শুনলে অন্তর কুঁকড়ে যায়, অন্যদের নাম শুনলে উজ্জ্বল হয়ে ওঠে। একই দল, একই শব্দে তাদের পরিচয়। শুনতে শুনতে তাদের ভেতরে কী ঘটে, কুরআন তা বর্ণনা করে। ৩৯:৪৫ আয়াতে মুনকিরা অবস্থাটা যেন চোখে দেখা যায়।"
           },
           {
             "en": "None of the commentaries fetched for 16:22 attaches a hadith to it. The well-known narration on pride, recorded in Sahih Muslim (91), was treated in this series under 15:33, where it is quoted in full, and it is not repeated here. Ibn Kathir's abridged English runs on into 16:23, where Allah says that He does not love the arrogant. That verse, and whatever is said under it, belongs to its own article; this article stays with what 16:22 describes.",
@@ -525,7 +525,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes a disposition: a heart that repudiates the oneness of Allah and a pride that will not accept the truth or bow in worship. It describes that as the text describes it, and it licenses no contempt for any living person or community. It hands no reader a label to fix on a neighbour, a relative or a people. What is inside any heart is known to Allah, who, as the very next verse says, knows what they conceal and what they declare.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি মনোভাবের বর্ণনা দেয়: এমন অন্তর, যা আল্লাহর একত্ব অস্বীকার করে, আর এমন অহংকার, যা সত্য কবুল করে না, ইবাদতে মাথা নোয়ায় না। আয়াত যেভাবে বর্ণনা দেয়, সেভাবেই এটা বর্ণনা। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়কে তুচ্ছ করার অনুমতি এ আয়াত কাউকে দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতির গায়ে সাঁটানোর মতো কোনো তকমাও পাঠকের হাতে তুলে দেয় না। কার অন্তরে কী আছে, তা আল্লাহ জানেন। ঠিক পরের আয়াতই বলে, তারা যা গোপন করে আর যা প্রকাশ করে, সবই তিনি জানেন।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি মনোভাবের বর্ণনা দেয়: এমন অন্তর, যা আল্লাহর একত্ব অস্বীকার করে, আর এমন অহংকার, যা সত্য কবুল করে না, ইবাদতে মাথা নোয়ায় না। আয়াত এটুকুর বর্ণনা দেয়, এর বেশি কিছু নয়। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়কে তুচ্ছ করার অনুমতি এ আয়াত কাউকে দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতির গায়ে সাঁটানোর মতো কোনো তকমাও পাঠকের হাতে তুলে দেয় না। কার অন্তরে কী আছে, তা আল্লাহ জানেন। ঠিক পরের আয়াতই বলে, তারা যা গোপন করে আর যা প্রকাশ করে, সবই তিনি জানেন।"
           },
           {
             "en": "There is an irony in using this verse against others. Al-Qurtubi and the Muyassar define the pride it names as holding oneself above accepting the truth. A reader who takes the verse as permission to look down on people has begun to show the very trait it describes. The verse's own attention is on the heart that meets the message, and the safest place to hold it up is in front of one's own. Read that way, it asks a question before it passes any judgement.",
