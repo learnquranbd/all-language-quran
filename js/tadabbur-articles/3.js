@@ -3261,7 +3261,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "3:155 repeats the pardon for those who turned back when the two armies met, adding that it was Satan who made them slip because of some of what they had earned, and that Allah is Forgiving and Forbearing. 42:30 gives the general rule behind both verses: whatever strikes you of disaster is for what your hands have earned, but He pardons much. And 3:159, a few verses on, tells the Prophet ﷺ to pardon these same people, to ask forgiveness for them, and to consult them in the matter.",
-            "bn": "৩:১৫৫ আয়াত দুই বাহিনী মুখোমুখি হওয়ার দিন যাঁরা পিছু ফিরেছিলেন, তাঁদের মাফের কথা আবার বলে। সঙ্গে জানায়, তাঁদের কিছু কাজের কারণে শয়তান তাঁদের পা পিছলে দিয়েছিল, আর আল্লাহ ক্ষমাশীল, সহনশীল। ৪২:৩০ আয়াত দুটি আয়াতের পেছনের সাধারণ নিয়মটা বলে দেয়: তোমাদের ওপর যে বিপদই আসে, তা তোমাদের হাতের কামাই, তবে তিনি অনেক কিছুই মাফ করে দেন। আর কয়েক আয়াত পরে ৩:১৫৯ আয়াত নবী ﷺ-কে বলে, এই মানুষদেরই মাফ করে দিন, তাঁদের জন্য ক্ষমা চান, আর কাজে তাঁদের সঙ্গে পরামর্শ করুন।"
+            "bn": "৩:১৫৫ আয়াত দুই বাহিনী মুখোমুখি হওয়ার দিন যাঁরা পিছু ফিরেছিলেন, তাঁদের মাফের কথা আবার বলে। সঙ্গে জানায়, তাঁদের কিছু কাজের কারণে শয়তান তাঁদের পা পিছলে দিয়েছিল, আর আল্লাহ ক্ষমাশীল, সহনশীল। এই দুই আয়াতের পেছনের সাধারণ নিয়মটা বলে দেয় ৪২:৩০ আয়াত: তোমাদের ওপর যে বিপদই আসে, তা তোমাদের হাতের কামাই, তবে তিনি অনেক কিছুই মাফ করে দেন। আর কয়েক আয়াত পরে ৩:১৫৯ আয়াত নবী ﷺ-কে বলে, এই মানুষদেরই মাফ করে দিন, তাঁদের জন্য ক্ষমা চান, আর কাজে তাঁদের সঙ্গে পরামর্শ করুন।"
           }
         ]
       },
@@ -3293,11 +3293,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No transmitted du'a is attached to this verse, but 59:10 gives the Quran's own words for the attitude it teaches towards earlier believers: Rabbana ighfir lana wa li-ikhwaninalladhina sabaquna bil-iman wa la taj'al fi qulubina ghillan lilladhina amanu, rabbana innaka ra'ufun rahim. Our Lord, forgive us and our brothers who preceded us in faith, and put no resentment in our hearts towards those who have believed. Our Lord, You are Kind and Merciful.",
-            "bn": "এই আয়াতের সঙ্গে বর্ণিত কোনো দোয়া নেই। তবে আগের ঈমানদারদের ব্যাপারে আয়াত যে মনোভাব শেখায়, তার ভাষা কুরআন নিজেই দিয়েছে ৫৯:১০ আয়াতে: রাব্বানাগফির লানা ওয়া লিইখওয়ানিনাল্লাযীনা সাবাকূনা বিল ঈমান, ওয়া লা তাজআল ফী কুলূবিনা গিল্লাল লিল্লাযীনা আমানূ, রাব্বানা ইন্নাকা রাঊফুর রাহীম। হে আমাদের রব, আমাদের মাফ করো, আর আমাদের সেই ভাইদেরও, যাঁরা ঈমানে আমাদের আগে গেছেন। আর ঈমানদারদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রেখো না। হে আমাদের রব, তুমি বড়ই স্নেহশীল, পরম দয়ালু।"
+            "bn": "এই আয়াতের সঙ্গে হাদিসে বর্ণিত কোনো দোয়া নেই। তবে আগের ঈমানদারদের ব্যাপারে আয়াতটি যে মনোভাব শেখায়, তার ভাষা কুরআন নিজেই দিয়েছে ৫৯:১০ আয়াতে: রাব্বানাগফির লানা ওয়া লিইখওয়ানিনাল্লাযীনা সাবাকূনা বিল ঈমান, ওয়া লা তাজআল ফী কুলূবিনা গিল্লাল লিল্লাযীনা আমানূ, রাব্বানা ইন্নাকা রাঊফুর রাহীম। হে আমাদের রব, আমাদের মাফ করে দিন, আর আমাদের সেই ভাইদেরও, যাঁরা আমাদের আগে ঈমান এনেছেন। আর ঈমানদারদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রাখবেন না। হে আমাদের রব, আপনি বড়ই স্নেহশীল, পরম দয়ালু।"
           },
           {
             "en": "A reader may add a supplication composed from 3:152's own vocabulary, which is not a transmitted du'a: O Allah, You keep Your promise. When You show us what we love, keep us from losing heart, from disputing Your command, and from disobeying it. Make us of those who want the Hereafter, and pardon us as You pardoned them, for You are full of bounty to the believers.",
-            "bn": "এর সঙ্গে ৩:১৫২ আয়াতের নিজের শব্দ দিয়ে বানানো একটি দোয়া যোগ করা যায়, যা বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, তুমি তোমার ওয়াদা পূরণ করো। আমাদের প্রিয় জিনিস যখন দেখাবে, তখন আমাদের সাহস হারানো থেকে, তোমার আদেশ নিয়ে বিবাদ থেকে, আর তার অবাধ্যতা থেকে বাঁচিয়ে রেখো। আমাদের তাদের দলে রাখো যারা আখিরাত চায়। আর তাঁদের যেমন মাফ করেছ, আমাদেরও তেমনি মাফ করো, কারণ মুমিনদের প্রতি তুমি অনুগ্রহশীল।"
+            "bn": "পাঠক ৩:১৫২ আয়াতের নিজের শব্দ থেকে সাজানো এই দোয়াটিও যোগ করতে পারেন, যা হাদিসে বর্ণিত দোয়া নয়: হে আল্লাহ, আপনি আপনার ওয়াদা পূরণ করেন। আমাদের প্রিয় জিনিস যখন দেখাবেন, তখন সাহস হারানো থেকে, আপনার আদেশ নিয়ে বিবাদ থেকে, আর তা অমান্য করা থেকে আমাদের বাঁচিয়ে রাখুন। আমাদের তাদের দলে রাখুন, যারা আখিরাত চায়। আর তাঁদের যেমন মাফ করেছেন, আমাদেরও তেমনি মাফ করুন, কারণ মুমিনদের প্রতি আপনি বড়ই অনুগ্রহশীল।"
           }
         ]
       },
@@ -3309,7 +3309,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "When things are finally going well, which instruction, from Allah, from a doctor, from my own earlier resolve, am I most tempted to treat as no longer needed? In my last disagreement over a clear instruction, was I trying to understand it, or looking for a way out of it? And if the motives behind my last good deed were divided the way this verse divides an army, how much of me was wanting this world?",
-            "bn": "অবশেষে সব যখন ভালোর দিকে যায়, তখন কোন নির্দেশটাকে, আল্লাহর হোক, ডাক্তারের হোক, বা আমার নিজের আগের সংকল্পের, আর দরকার নেই ভাবতে সবচেয়ে বেশি ইচ্ছে হয়? স্পষ্ট কোনো নির্দেশ নিয়ে সর্বশেষ মতভেদে আমি কি তা বুঝতে চাইছিলাম, নাকি বেরোনোর পথ খুঁজছিলাম? আর এই আয়াত যেভাবে একটি বাহিনীর উদ্দেশ্য ভাগ করে দেখায়, সেভাবে আমার সর্বশেষ ভালো কাজটার উদ্দেশ্য ভাগ করলে, আমার কতটা দুনিয়া চাইছিল?"
+            "bn": "অবশেষে সব যখন ঠিকঠাক চলছে, তখন কোন নির্দেশটাকে আর দরকার নেই ভাবতে মন সবচেয়ে বেশি চায়? সেটা আল্লাহর নির্দেশ হোক, ডাক্তারের হোক, কিংবা আমার নিজেরই আগের সংকল্প। স্পষ্ট কোনো নির্দেশ নিয়ে শেষবার যখন দ্বিমত করেছি, তখন কি তা বুঝতে চাইছিলাম, নাকি পাশ কাটানোর পথ খুঁজছিলাম? আর এই আয়াত যেভাবে একটা বাহিনীর নিয়ত ভাগ করে দেখায়, সেভাবে আমার শেষ ভালো কাজটার নিয়ত ভাগ করলে, আমার কতখানি দুনিয়া চাইছিল?"
           },
           {
             "en": "When I speak of the failures of people who came before me, in history or in my own family, do I speak as this verse speaks, naming the act and leaving their standing with Allah? Is there a fault of my own that I have sincerely repented of and still keep reopening, as if His pardon had never been given? And who in my life needs to hear from me that an old account between us is closed?",
@@ -3329,11 +3329,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse begins by tracing a character trait back to its source: fa bima rahmatin minallahi linta lahum, it is by a mercy from Allah that you were lenient with them. The Prophet's ﷺ gentleness is not presented as a natural temperament he happened to have, but as something granted. The verb linta comes from lin, softness, the word used for pliable material that does not break when pressure is applied to it.",
-            "bn": "আয়াতটি শুরু হয় একটি চারিত্রিক গুণকে তার উৎস পর্যন্ত টেনে নিয়ে গিয়ে: ফাবিমা রাহমাতিম মিনাল্লাহি লিনতা লাহুম — আল্লাহর পক্ষ থেকে রহমতের কারণেই আপনি তাদের প্রতি কোমল হয়েছেন। নবী ﷺ-এর কোমলতাকে তাঁর সহজাত স্বভাব হিসেবে নয়, বরং প্রদত্ত এক দান হিসেবে উপস্থাপন করা হয়েছে। 'লিনতা' ক্রিয়াপদটি এসেছে 'লীন' থেকে, যার অর্থ কোমলতা — সেই শব্দ, যা এমন নমনীয় বস্তুর জন্য ব্যবহৃত হয় যা চাপ পড়লে ভেঙে যায় না।"
+            "bn": "আয়াতটি শুরুতেই একটি স্বভাবকে তার উৎসে ফিরিয়ে নেয়: ফাবিমা রাহমাতিম মিনাল্লাহি লিনতা লাহুম, আল্লাহর রহমতেই আপনি তাদের প্রতি কোমল হয়েছেন। নবী ﷺ-এর কোমলতা এখানে এমন সহজাত মেজাজ নয়, যা তাঁর এমনিতেই ছিল; এটা আল্লাহর দান। 'লিনতা' ক্রিয়াটি এসেছে 'লীন' থেকে, মানে কোমলতা। এমন নরম, নমনীয় জিনিসকে এই শব্দে বলা হয়, যা চাপ পড়লেও ভাঙে না।"
           },
           {
             "en": "Then the counterfactual: had you been fazzan ghalizal-qalb, they would have dispersed from around you. The two words are not synonyms. Fazz describes coarseness in speech and manner, what a person hears; ghaliz al-qalb is hardness of heart, what a person is. The verse names both the surface and the source, and the consequence of either is the same: infaddu, they would scatter away from you.",
-            "bn": "এরপর আসে বিপরীত সম্ভাবনার কথা: আপনি যদি 'ফায্‌য' ও 'গালীযুল কাল্‌ব' হতেন, তবে তারা আপনার চারপাশ থেকে সরে যেত। শব্দ দুটি সমার্থক নয়। 'ফায্‌য' বোঝায় কথায় ও আচরণে রুক্ষতা — অর্থাৎ মানুষ যা শোনে; আর 'গালীযুল কাল্‌ব' মানে হৃদয়ের কঠোরতা — অর্থাৎ মানুষ যা। আয়াত উপরিভাগ ও উৎস দুটোরই নাম নেয়, আর দুটোরই পরিণতি এক: 'ইনফাদ্দূ' — তারা আপনার চারপাশ থেকে ছত্রভঙ্গ হয়ে যেত।"
+            "bn": "এরপর বিপরীত সম্ভাবনার কথা: আপনি যদি 'ফায্‌য' ও 'গালীযুল কাল্‌ব' হতেন, তবে তারা আপনার চারপাশ থেকে সরে যেত। শব্দ দুটি সমার্থক নয়। 'ফায্‌য' হলো কথা ও আচরণের রুক্ষতা, অর্থাৎ মানুষ যা শোনে। 'গালীযুল কাল্‌ব' হলো অন্তরের কঠোরতা, অর্থাৎ মানুষটি ভেতরে যা। আয়াত বাইরের রূপ আর ভেতরের উৎস দুটোরই নাম নেয়, আর যেকোনোটির পরিণতি একই: 'ইনফাদ্দূ', তারা আপনার চারপাশ থেকে ছড়িয়ে-ছিটিয়ে সরে যেত।"
           }
         ]
       },
@@ -3345,11 +3345,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is one of the clearest contexts in the Quran. The verse lies inside the long treatment of the battle of Uhud in Surah Al Imran, roughly 3:121-179, where the Muslims suffered heavy loss after a group of archers left the position they had been ordered to hold. The people the Prophet ﷺ is told to be gentle with, pardon, and consult are the same people whose error had just cost the community dearly.",
-            "bn": "কুরআনে প্রেক্ষাপট সবচেয়ে স্পষ্ট যে কয়েকটি জায়গায়, এটি তার একটি। আয়াতটি সূরা আলে ইমরানে উহুদ যুদ্ধ নিয়ে দীর্ঘ আলোচনার ভেতরে — মোটামুটি 3:121-179-এর মধ্যে — অবস্থিত, যেখানে একদল তীরন্দাজ নির্ধারিত অবস্থান ছেড়ে যাওয়ার পর মুসলিমরা ভারী ক্ষতির মুখে পড়েন। নবী ﷺ-কে যাদের প্রতি কোমল হতে, যাদের ক্ষমা করতে ও যাদের সঙ্গে পরামর্শ করতে বলা হচ্ছে, তারা ঠিক সেই মানুষগুলোই যাদের ভুলের মূল্য সমাজটি সবেমাত্র দিয়েছে।"
+            "bn": "কুরআনের যে কয়টি জায়গায় প্রেক্ষাপট সবচেয়ে স্পষ্ট, এটি তার একটি। সূরা আলে ইমরানে উহুদ যুদ্ধ নিয়ে দীর্ঘ আলোচনা চলেছে মোটামুটি ৩:১২১-১৭৯ জুড়ে, আয়াতটি তারই ভেতরে। সেই যুদ্ধে একদল তীরন্দাজকে যে জায়গা আঁকড়ে থাকার হুকুম দেওয়া হয়েছিল, তাঁরা তা ছেড়ে যাওয়ার পর মুসলিমদের বড় ক্ষতি হয়। নবী ﷺ-কে যাঁদের প্রতি কোমল হতে, যাঁদের মাফ করতে আর যাঁদের সঙ্গে পরামর্শ করতে বলা হচ্ছে, তাঁরা ঠিক সেই মানুষগুলোই, যাঁদের ভুলের চড়া দাম মুসলিমদের এইমাত্র দিতে হয়েছে।"
           },
           {
             "en": "That timing gives the command on consultation its edge. Going out from Madinah to meet the enemy had itself been the outcome of consultation, and the Prophet ﷺ had personally inclined otherwise. A defeat followed. The verse that comes after this episode does not withdraw the practice of shura; it commands it. Consultation is being established as a permanent method, not as a technique that is kept only while it produces the results people wanted.",
-            "bn": "এই সময়টিই পরামর্শের আদেশটিকে ধার দেয়। শত্রুর মোকাবিলায় মদীনা থেকে বেরিয়ে যাওয়াটাই ছিল পরামর্শেরই ফল, আর নবী ﷺ ব্যক্তিগতভাবে ভিন্ন মতের দিকে ঝুঁকেছিলেন। এরপর এলো পরাজয়। এই ঘটনার পরে নাযিল হওয়া আয়াতটি শূরার চর্চা তুলে নেয় না; বরং তার আদেশ দেয়। পরামর্শকে প্রতিষ্ঠিত করা হচ্ছে একটি স্থায়ী পদ্ধতি হিসেবে — এমন কোনো কৌশল হিসেবে নয়, যা কেবল ততক্ষণই রাখা হয় যতক্ষণ তা কাঙ্ক্ষিত ফল দেয়।"
+            "bn": "এই সময়টাই পরামর্শের হুকুমকে ধারালো করে তোলে। মদিনা থেকে বেরিয়ে শত্রুর মোকাবিলা করার সিদ্ধান্তটাই এসেছিল পরামর্শ থেকে, অথচ নবী ﷺ নিজে অন্য মতের দিকে ঝুঁকেছিলেন। তারপর এলো পরাজয়। এ ঘটনার পরে নাজিল হওয়া আয়াত শূরার চর্চা তুলে নেয় না, উল্টো তার হুকুম দেয়। পরামর্শকে স্থায়ী পদ্ধতি হিসেবে প্রতিষ্ঠা করা হচ্ছে। এটা এমন কৌশল নয় যে মানুষের চাওয়া ফল দিলে রাখা হবে, না দিলে বাদ।"
           }
         ]
       },
@@ -3361,11 +3361,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The instructions arrive in a deliberate order. Fa'fu 'anhum, pardon them, deals with what they owe you personally. Wastaghfir lahum, and seek forgiveness for them, deals with what they owe Allah, and it asks the wronged party to pray for the wrongdoer. Wa shawirhum fil-amr, and consult them in the matter, restores them to full standing. Pardon that stops short of restored trust is not what this sequence describes.",
-            "bn": "নির্দেশগুলো আসে সুচিন্তিত ক্রমে। 'ফা'ফু আনহুম' — তাদের ক্ষমা করে দিন — এটি তোমার প্রতি তাদের যে দায়, তার নিষ্পত্তি করে। 'ওয়াস্তাগফির লাহুম' — আর তাদের জন্য ক্ষমা প্রার্থনা করুন — এটি আল্লাহর প্রতি তাদের যে দায়, তা নিয়ে; আর এখানে ক্ষতিগ্রস্ত পক্ষকেই বলা হচ্ছে অপরাধীর জন্য দোয়া করতে। 'ওয়া শাবিরহুম ফিল আমর' — আর কাজে তাদের সঙ্গে পরামর্শ করুন — এটি তাদের পূর্ণ মর্যাদায় ফিরিয়ে আনে। যে ক্ষমা আস্থা ফিরিয়ে দেওয়ার আগেই থেমে যায়, এই ধারাবাহিকতা তার কথা বলছে না।"
+            "bn": "নির্দেশগুলো আসে ভেবেচিন্তে সাজানো ক্রমে। 'ফা'ফু আনহুম', তাদের মাফ করে দিন: এতে মেটে আপনার প্রতি তাদের ব্যক্তিগত দায়। 'ওয়াস্তাগফির লাহুম', আর তাদের জন্য ক্ষমা চান: এটা আল্লাহর প্রতি তাদের দায়ের কথা। এখানে যার ওপর অন্যায় হয়েছে, তাকেই বলা হচ্ছে অন্যায়কারীর জন্য দোয়া করতে। 'ওয়া শাবিরহুম ফিল আমর', আর কাজে তাদের সঙ্গে পরামর্শ করুন: এতে তারা পুরো মর্যাদায় ফিরে আসে। যে মাফ আস্থা ফিরিয়ে দেওয়া পর্যন্ত পৌঁছায় না, এই ক্রম সেই মাফের কথা বলছে না।"
           },
           {
             "en": "Then the turn: fa idha 'azamta fatawakkal 'alallah, and when you have resolved, rely upon Allah. The commentators note the shift from consulting the many — shawirhum, consult them — to a resolve that is yours alone, 'azamta in the singular. Everyone is consulted; one person decides. Reliance is placed after the decision, not instead of it, which is why the classical scholars treat tawakkul as the companion of effort rather than its replacement. Allah loves those who rely upon Him, the verse concludes.",
-            "bn": "এরপর মোড়: ফা-ইযা 'আযামতা ফাতাওয়াক্কাল 'আলাল্লাহ — আর যখন আপনি সংকল্প করে ফেলবেন, তখন আল্লাহর ওপর ভরসা করুন। মুফাসসিরগণ লক্ষ করেন, 'শাবিরহুম' — অনেকের সঙ্গে পরামর্শ — থেকে ভাষা সরে যায় 'আযামতা'-য়, যে সংকল্প একার। পরামর্শ নেওয়া হয় সবার, সিদ্ধান্ত নেন একজন। ভরসা রাখা হয় সিদ্ধান্তের পরে — সিদ্ধান্তের বদলে নয়; এ কারণেই ধ্রুপদী আলিমগণ তাওয়াক্কুলকে চেষ্টার বিকল্প নয়, বরং সঙ্গী হিসেবে দেখেন। আয়াত শেষ হয় এই কথায় যে আল্লাহ ভরসাকারীদের ভালোবাসেন।"
+            "bn": "এরপর মোড়: ফা-ইযা 'আযামতা ফাতাওয়াক্কাল 'আলাল্লাহ, আর যখন সংকল্প করে ফেলবেন, তখন আল্লাহর ওপর ভরসা করুন। মুফাসসিররা লক্ষ করেছেন, ভাষা এখানে 'শাবিরহুম', অর্থাৎ অনেকের সঙ্গে পরামর্শ, থেকে সরে আসে একবচনের 'আযামতা'-য়, যে সংকল্প আপনার একার। পরামর্শ হয় সবার সঙ্গে, সিদ্ধান্ত নেন একজন। ভরসা আসে সিদ্ধান্তের পরে, সিদ্ধান্তের বদলে নয়। এ কারণেই পূর্বসূরি আলিমরা তাওয়াক্কুলকে চেষ্টার বিকল্প নয়, সঙ্গী মনে করেন। আয়াত শেষ হয় এই কথায়: আল্লাহ ভরসাকারীদের ভালোবাসেন।"
           }
         ]
       },
@@ -3377,27 +3377,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tirmidhi reports from Abu Hurayrah (RA) that he never saw anyone consult his companions more than the Prophet ﷺ did. The seerah records bear this out. Ibn Ishaq's account, preserved by Ibn Hisham, describes Salman al-Farisi (RA) proposing a trench around Madinah, a tactic unknown to the Arabs, and the proposal being adopted. The defence of the city that year was built on advice taken from a man who was not an Arab at all.",
-            "bn": "তিরমিযী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন যে তিনি নবী ﷺ-এর চেয়ে বেশি সাহাবীদের সঙ্গে পরামর্শ করতে আর কাউকে দেখেননি। সীরাতের বিবরণও তা-ই বলে। ইবনে হিশামের মাধ্যমে সংরক্ষিত ইবনে ইসহাকের বর্ণনায় আছে, সালমান ফারসী (রাঃ) মদীনার চারপাশে পরিখা খননের প্রস্তাব দেন — যে কৌশল আরবদের অজানা ছিল — এবং প্রস্তাবটি গৃহীত হয়। সে বছর শহরের প্রতিরক্ষা দাঁড়িয়েছিল এমন একজনের পরামর্শের ওপর, যিনি আরবই ছিলেন না।"
+            "bn": "তিরমিযী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন, তিনি নবী ﷺ-এর চেয়ে বেশি সাহাবিদের সঙ্গে পরামর্শ করতে আর কাউকে দেখেননি। সীরাতের বিবরণও এর সাক্ষ্য দেয়। ইবনে ইসহাকের যে বর্ণনা ইবনে হিশাম সংরক্ষণ করেছেন, তাতে আছে: সালমান ফারসী (রাঃ) মদিনার চারপাশে পরিখা খোঁড়ার প্রস্তাব দেন। আরবরা এই কৌশল চিনত না, তবু প্রস্তাবটি মেনে নেওয়া হয়। সে বছর শহরের প্রতিরক্ষা দাঁড়িয়েছিল এমন একজনের পরামর্শের ওপর, যিনি আরবই ছিলেন না।"
           },
           {
             "en": "Al-Bukhari relates that at Hudaybiyah, when the companions were slow to act after a treaty they found bitter, Umm Salamah (RA) advised the Prophet ﷺ to go out and perform the rites himself without addressing anyone, and that when he did so the people followed. Consultation in his practice was not limited to a council of the senior, and it was not a formality performed before a decision he had already fixed.",
-            "bn": "বুখারী বর্ণনা করেন, হুদায়বিয়ায় যখন সাহাবীরা তিক্ত মনে হওয়া এক সন্ধির পর কাজে এগোতে দেরি করছিলেন, তখন উম্মে সালামা (রাঃ) নবী ﷺ-কে পরামর্শ দেন যে তিনি যেন কাউকে কিছু না বলে নিজেই বেরিয়ে গিয়ে কাজগুলো সম্পন্ন করেন; আর তিনি তা করলে মানুষ তাঁকে অনুসরণ করে। তাঁর আমলে পরামর্শ কেবল প্রবীণদের পরিষদে সীমিত ছিল না, আর তা আগেই স্থির করা সিদ্ধান্তের আগে সেরে নেওয়া কোনো আনুষ্ঠানিকতাও ছিল না।"
+            "bn": "বুখারী বর্ণনা করেছেন, হুদায়বিয়ায় সন্ধিটা সাহাবিদের কাছে তিক্ত লেগেছিল, তাই তাঁরা কাজে এগোতে দেরি করছিলেন। তখন উম্মে সালামা (রাঃ) নবী ﷺ-কে পরামর্শ দেন, কাউকে কিছু না বলে তিনি নিজেই বেরিয়ে গিয়ে আমলগুলো সেরে ফেলুন। তিনি তা-ই করলেন, আর লোকেরা তাঁর অনুসরণ করল। তাঁর রীতিতে পরামর্শ শুধু বয়োজ্যেষ্ঠদের মজলিসে সীমিত ছিল না। আবার আগেই ঠিক করে রাখা সিদ্ধান্তের আগে নিয়মরক্ষার আনুষ্ঠানিকতাও ছিল না।"
           }
         ]
       },
       {
         "h": {
           "en": "What Scholars Take From It",
-          "bn": "আলিমগণ যা গ্রহণ করেন"
+          "bn": "আলিমরা এখান থেকে যা নেন"
         },
         "p": [
           {
             "en": "The majority hold that al-amr, the matter, refers to affairs on which no revelation has settled the question, which is where judgement is genuinely needed. Some early authorities read the command as binding on the Prophet ﷺ himself, so that consultation was a duty rather than a courtesy even for the one receiving revelation. That reading is what later scholars leaned on when arguing that leadership without consultation departs from the prophetic pattern.",
-            "bn": "অধিকাংশ আলিমের মত হলো, 'আল-আমর' বলতে সেসব বিষয় বোঝানো হয়েছে যেগুলোর মীমাংসা ওহী করে দেয়নি — অর্থাৎ যেখানে প্রকৃতপক্ষে বিচারবুদ্ধির প্রয়োজন। প্রাচীন কিছু কর্তৃপক্ষ আদেশটিকে স্বয়ং নবী ﷺ-এর ওপর অবশ্যপালনীয় হিসেবে পড়েছেন, ফলে ওহীপ্রাপ্ত ব্যক্তির জন্যও পরামর্শ ছিল সৌজন্য নয়, কর্তব্য। পরবর্তী আলিমগণ এই পাঠের ওপরই ভর করেছেন যখন তাঁরা বলেছেন যে পরামর্শহীন নেতৃত্ব নববী রীতি থেকে সরে যায়।"
+            "bn": "অধিকাংশ আলিমের মতে 'আল-আমর', অর্থাৎ বিষয়, বলতে সেসব ব্যাপার বোঝায় যার মীমাংসা ওহি দেয়নি। সেখানেই আসলে বিবেচনার দরকার পড়ে। প্রথম যুগের কিছু আলিম হুকুমটিকে স্বয়ং নবী ﷺ-এর জন্যও বাধ্যতামূলক ধরেছেন। তাঁদের মতে, যাঁর কাছে ওহি আসত, তাঁর জন্যও পরামর্শ ছিল সৌজন্য নয়, কর্তব্য। পরের যুগের আলিমরা এই ব্যাখ্যার ওপর ভর করেই বলেছেন, পরামর্শ ছাড়া নেতৃত্ব নববী আদর্শ থেকে সরে যায়।"
           },
           {
             "en": "They also read the opening clause as an argument about method in calling people to Islam. If harshness would have emptied the space around the Prophet ﷺ himself, whose truthfulness was being confirmed by revelation, then no caller since has a stronger case for severity. Ibn Kathir and others relate the verse in connection with the wider Quranic instruction to invite with wisdom and good exhortation, as in 16:125.",
-            "bn": "তাঁরা আয়াতের প্রথম অংশটিকেও ইসলামের দাওয়াতের পদ্ধতি নিয়ে একটি যুক্তি হিসেবে পড়েন। কঠোরতা যদি স্বয়ং নবী ﷺ-এর চারপাশটাই খালি করে দিত — যাঁর সত্যবাদিতা ওহী দ্বারা নিশ্চিত হচ্ছিল — তবে তাঁর পরে কোনো দাঈর পক্ষেই রূঢ়তার পক্ষে শক্তিশালী যুক্তি থাকে না। ইবনে কাসীরসহ অন্যরা আয়াতটিকে কুরআনের বৃহত্তর নির্দেশনার সঙ্গে যুক্ত করেন — যেমন 16:125-এ হিকমত ও উত্তম উপদেশ দিয়ে আহ্বান করার কথা বলা হয়েছে।"
+            "bn": "আয়াতের শুরুর অংশকে তাঁরা দাওয়াতের পদ্ধতি নিয়ে একটি যুক্তি হিসেবেও পড়েন। কঠোরতা যদি স্বয়ং নবী ﷺ-এর চারপাশ খালি করে দিত, অথচ ওহি তাঁর সত্যবাদিতার সাক্ষ্য দিচ্ছিল, তাহলে পরের কোনো দাঈ কঠোর হওয়ার পক্ষে এর চেয়ে জোরালো যুক্তি দেখাতে পারে না। ইবনে কাসীরসহ অন্যরা আয়াতটিকে কুরআনের বৃহত্তর নির্দেশের সঙ্গে মিলিয়ে পড়েন: হিকমত ও সুন্দর উপদেশ দিয়ে ডাকো, যেমনটা ১৬:১২৫ আয়াতে আছে।"
           }
         ]
       },
@@ -3409,11 +3409,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Most people exercise authority somewhere: over a team, a classroom, a household, a volunteer group. The verse offers a usable sequence for the moment after something has gone wrong. Deal with the personal grievance first, so that the correction is not carrying resentment. Then bring the person back into the conversation rather than quietly writing them off. Then decide, and stop relitigating the decision in front of everyone.",
-            "bn": "প্রায় সবাই কোথাও না কোথাও কর্তৃত্ব চর্চা করে: কোনো দল, শ্রেণিকক্ষ, পরিবার কিংবা স্বেচ্ছাসেবী গোষ্ঠীর ওপর। কিছু একটা ভুল হয়ে যাওয়ার পরের মুহূর্তটির জন্য আয়াতটি একটি ব্যবহারযোগ্য ক্রম দেয়। আগে ব্যক্তিগত অভিযোগটি মিটিয়ে ফেলুন, যাতে সংশোধনের সঙ্গে ক্ষোভ মিশে না থাকে। তারপর মানুষটিকে নিঃশব্দে বাতিল করে না দিয়ে আলোচনায় ফিরিয়ে আনুন। এরপর সিদ্ধান্ত নিন, আর সবার সামনে বারবার সেই সিদ্ধান্তের বিচার খুলে বসবেন না।"
+            "bn": "প্রায় সবাই কোথাও না কোথাও কর্তা: কোনো কর্মীদলের, ক্লাসের, সংসারের কিংবা কোনো স্বেচ্ছাসেবী সংগঠনের। কিছু ভুল হয়ে যাওয়ার ঠিক পরের মুহূর্তের জন্য আয়াতটি কাজে লাগানোর মতো একটা ক্রম দেয়। আগে নিজের ব্যক্তিগত ক্ষোভটা মিটিয়ে নিন, যাতে শোধরানোর কথায় রাগ মিশে না থাকে। তারপর মানুষটিকে চুপচাপ বাতিলের খাতায় না ফেলে আবার আলোচনায় ডেকে আনুন। এরপর সিদ্ধান্ত নিন, আর সবার সামনে সেই সিদ্ধান্ত নিয়ে বারবার মামলা খুলে বসবেন না।"
           },
           {
             "en": "The verse also sets a diagnostic that is uncomfortable to apply honestly. If people around you go quiet, stop volunteering information, or leave, the verse suggests looking first at tone rather than at their commitment. And it locates gentleness in the right place: not as a personality type some are lucky to have, but as a mercy that can be asked for, practised, and lost through neglect.",
-            "bn": "আয়াতটি এমন একটি পরীক্ষাও দাঁড় করায়, যা সৎভাবে প্রয়োগ করা অস্বস্তিকর। আপনার চারপাশের মানুষ যদি চুপ হয়ে যায়, তথ্য দেওয়া বন্ধ করে দেয়, কিংবা সরে যায় — আয়াতটি ইঙ্গিত দেয়, তাদের নিষ্ঠার দিকে তাকানোর আগে নিজের কথার সুরের দিকে তাকাতে। আর এটি কোমলতাকে সঠিক জায়গায় বসায়: এটি কারও ভাগ্যক্রমে পাওয়া স্বভাব নয়, বরং এমন এক রহমত যা চাওয়া যায়, চর্চা করা যায়, এবং অবহেলায় হারিয়েও ফেলা যায়।"
+            "bn": "আয়াতটি নিজেকে যাচাইয়ের এমন একটা মাপকাঠিও দেয়, যা সৎভাবে খাটাতে গেলে অস্বস্তি লাগে। আপনার আশপাশের মানুষ যদি চুপ হয়ে যায়, নিজে থেকে কিছু জানানো বন্ধ করে দেয়, কিংবা সরে যায়, তবে আয়াতের ইঙ্গিত হলো: তাদের নিষ্ঠা নিয়ে প্রশ্ন তোলার আগে নিজের কথার সুরটা দেখুন। আর আয়াতটি কোমলতাকে ঠিক জায়গায় বসায়। এটা এমন স্বভাব নয় যা কেউ কেউ ভাগ্যগুণে পায়। এটা আল্লাহর রহমত: চেয়ে নেওয়া যায়, চর্চা করে ধরে রাখা যায়, আবার অবহেলায় হারিয়েও ফেলা যায়।"
           }
         ]
       }
@@ -3429,7 +3429,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse immediately before this one ends with an instruction: when you have resolved upon a matter, rely upon Allah, for Allah loves those who rely. 3:159 gives the command; this verse, following directly, gives the reason. Reliance is not asked for here because it steadies the nerves, nor because effort is somehow unworthy of a believer. It is asked for because of a plain fact about how outcomes are actually produced, and the verse states that fact in two halves.",
-            "bn": "ঠিক আগের আয়াতটি শেষ হয় একটি নির্দেশ দিয়ে: যখন কোনো বিষয়ে সংকল্প করবে, তখন আল্লাহর ওপর ভরসা করো, কারণ আল্লাহ ভরসাকারীদের ভালোবাসেন। 3:159 আয়াতে নির্দেশ, আর ঠিক পরে আসা এই আয়াতে সেই নির্দেশের কারণ। এখানে ভরসা করতে বলা হয়নি এ কারণে যে তাতে স্নায়ু স্থির হয়, কিংবা পরিশ্রম মুমিনের জন্য কোনোভাবে নিচু কিছু বলে। বলা হয়েছে পরিণতি আসলে কীভাবে তৈরি হয় সে সম্পর্কে একটি সরল বাস্তবতার কারণে, আর আয়াতটি সেই বাস্তবতাকে দুই ভাগে বলে।"
+            "bn": "ঠিক আগের আয়াত শেষ হয়েছে একটি হুকুম দিয়ে: কোনো বিষয়ে সংকল্প করে ফেললে আল্লাহর ওপর ভরসা করুন, কারণ আল্লাহ ভরসাকারীদের ভালোবাসেন। ৩:১৫৯ আয়াতে হুকুম, আর ঠিক তার পরের এই আয়াতে সেই হুকুমের কারণ। এখানে ভরসা করতে বলার কারণ এটা নয় যে ভরসা করলে মন শান্ত থাকে। এটাও নয় যে চেষ্টা করা মুমিনের জন্য কোনোভাবে ছোট কাজ। কারণটা হলো, ফলাফল আসলে কীভাবে তৈরি হয় সে সম্পর্কে একটি সরল সত্য, আর আয়াতটি সেই সত্য বলে দুই ভাগে।"
           }
         ]
       },
@@ -3441,23 +3441,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In yansurkumullahu fala ghaliba lakum. Nasr is help given to someone who is contending against an opponent, not assistance in general. Its opposite in the verse is yakhdhulkum, from khidhlan, and that word is not neutral absence either. Khidhlan is withdrawing support from someone who was counting on it and had a claim to it. So the two possibilities in the verse are not help and nothing; they are being backed and being left, and both are described as acts.",
-            "bn": "'ইন ইয়ানসুরকুমুল্লাহু ফালা গালিবা লাকুম।' 'নাসর' মানে প্রতিপক্ষের বিরুদ্ধে লড়ছে এমন কাউকে দেওয়া সাহায্য, সাধারণভাবে যেকোনো সহায়তা নয়। আয়াতে এর বিপরীতে আছে 'ইয়াখযুলকুম', যা এসেছে 'খিযলান' থেকে, আর সে শব্দটিও নিরপেক্ষ অনুপস্থিতি নয়। 'খিযলান' মানে এমন কারও কাছ থেকে সমর্থন প্রত্যাহার করা, যে তার ওপর ভরসা করছিল এবং যার তাতে দাবি ছিল। তাই আয়াতের দুই সম্ভাবনা সাহায্য ও শূন্যতা নয়; সম্ভাবনা দুটি হলো পাশে থাকা আর ছেড়ে দেওয়া, আর দুটিকেই কাজ হিসেবে বর্ণনা করা হয়েছে।"
+            "bn": "'ইন ইয়ানসুরকুমুল্লাহু ফালা গালিবা লাকুম।' 'নাসর' সাধারণ যেকোনো সাহায্য নয়; প্রতিপক্ষের সঙ্গে লড়ছে এমন কাউকে যে সাহায্য দেওয়া হয়, সেটাই নাসর। আয়াতে এর বিপরীতে এসেছে 'ইয়াখযুলকুম', মূল 'খিযলান'। এই শব্দটিও নিছক না-থাকা বোঝায় না। 'খিযলান' মানে এমন কারও পাশ থেকে সরে যাওয়া, যে ওই সমর্থনের ভরসায় ছিল এবং যার তা পাওয়ার দাবিও ছিল। তাই আয়াতের দুই সম্ভাবনা সাহায্য আর শূন্যতা নয়। সম্ভাবনা দুটি হলো পাশে থাকা আর ছেড়ে যাওয়া, আর আয়াত দুটোকেই সক্রিয় কাজ হিসেবে বলেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Statement and a Question",
-          "bn": "একটি বিবৃতি ও একটি প্রশ্ন"
+          "bn": "এক ঘোষণা, এক প্রশ্ন"
         },
         "p": [
           {
             "en": "The two halves are not built the same way, and the difference is the point. The first is a flat statement: there is no one who can overcome you. The second is a question: who then is there to help you after Him? A statement invites disagreement; a question shaped like this leaves the reader with nothing to say back, because any name he could offer is itself something Allah made and sustains. The verse wins the second half by refusing to argue it.",
-            "bn": "দুই অর্ধেক একইভাবে গড়া নয়, আর এই পার্থক্যটিই মূল কথা। প্রথমটি সরল বিবৃতি: কেউ তোমাদের ওপর বিজয়ী হতে পারবে না। দ্বিতীয়টি প্রশ্ন: তবে তাঁর পরে কে আছে যে তোমাদের সাহায্য করবে? বিবৃতি দ্বিমতের সুযোগ দেয়; কিন্তু এমন আকারের প্রশ্ন পাঠকের হাতে ফিরিয়ে বলার মতো কিছু রাখে না, কারণ সে যে নামই দিতে পারত, তা-ও তো আল্লাহরই সৃষ্টি ও তাঁরই রক্ষণাধীন। আয়াতটি দ্বিতীয় অর্ধেকে জেতে তর্কই না করে।"
+            "bn": "দুই অংশ একই ছাঁচে গড়া নয়, আর আসল কথা এই পার্থক্যেই। প্রথমটি সোজা ঘোষণা: কেউ তোমাদের ওপর জয়ী হতে পারবে না। দ্বিতীয়টি প্রশ্ন: তাহলে তাঁর পরে আর কে আছে, যে তোমাদের সাহায্য করবে? ঘোষণার সঙ্গে দ্বিমত করা যায়। কিন্তু এমন প্রশ্নের জবাবে পাঠকের বলার কিছু থাকে না, কারণ সে যে নামই আনুক, সেটাও আল্লাহর সৃষ্টি, তাঁরই ধরে রাখায় টিকে আছে। দ্বিতীয় অংশে আয়াত জেতে তর্কে না গিয়েই।"
           },
           {
             "en": "It is also worth noticing who is being addressed. This is not a threat aimed at enemies; it is a caution given to the believers themselves, in a surah that has just walked through a battle in which they were badly hurt. The same sentence that removes fear of the strong removes confidence in the self. Nothing is left in the middle between those two, which is exactly why the verse ends where it does.",
-            "bn": "কাকে সম্বোধন করা হচ্ছে, তাও লক্ষ করার মতো। এটি শত্রুদের উদ্দেশে কোনো হুমকি নয়; এটি স্বয়ং মুমিনদের প্রতি সতর্কবার্তা — এমন এক সূরায়, যা এইমাত্র এমন এক যুদ্ধের ভেতর দিয়ে হেঁটে এলো যেখানে তারা মারাত্মকভাবে আহত হয়েছিল। যে বাক্য শক্তিমানের ভয় সরায়, সেই একই বাক্য নিজের ওপর আত্মবিশ্বাসও সরিয়ে দেয়। এ দুইয়ের মাঝখানে কিছুই অবশিষ্ট থাকে না, আর ঠিক এ কারণেই আয়াতটি যেখানে শেষ হয় সেখানেই শেষ হয়।"
+            "bn": "কাকে বলা হচ্ছে, সেটাও খেয়াল করার মতো। এটা শত্রুদের প্রতি হুমকি নয়। এটা খোদ মুমিনদের জন্য সতর্কবাণী, এমন এক সূরায়, যা এইমাত্র এমন একটি যুদ্ধের বিবরণ দিয়ে এসেছে যেখানে তাঁরা গুরুতর আঘাত পেয়েছিলেন। যে বাক্য শক্তিশালীর ভয় দূর করে, সেই বাক্যই নিজের ওপর ভরসাও কেড়ে নেয়। এ দুয়ের মাঝখানে আর কিছু বাকি থাকে না, আর ঠিক এ জন্যই আয়াতটি যে কথায় শেষ হয়েছে, সে কথাতেই শেষ হয়েছে।"
           }
         ]
       },
@@ -3469,11 +3469,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa 'ala Allahi falyatawakkali al-mu'minun. The verb carries the lam of command: let them rely. Tawakkul is therefore an action a person performs, not a mood that arrives when circumstances improve. As-Sa'di defines it as the heart's reliance upon Allah in obtaining what benefits and repelling what harms, together with genuine trust in Him. The definition has two parts, and people who quote it usually keep only the second.",
-            "bn": "'ওয়া আলাল্লাহি ফালইয়াতাওয়াক্কালিল মুমিনূন।' ক্রিয়াপদটি আদেশের 'লাম' বহন করে: তারা যেন ভরসা করে। তাই তাওয়াক্কুল এমন একটি কাজ যা মানুষ সম্পাদন করে, পরিস্থিতি ভালো হলে যে মেজাজ আপনি এসে যায় তা নয়। আস-সা'দী একে সংজ্ঞায়িত করেন এভাবে: কল্যাণ অর্জনে ও ক্ষতি প্রতিহত করায় অন্তরের আল্লাহর ওপর নির্ভরতা, তাঁর প্রতি প্রকৃত আস্থাসহ। সংজ্ঞাটির দুটি অংশ আছে, আর যাঁরা এটি উদ্ধৃত করেন তাঁরা সাধারণত কেবল দ্বিতীয়টিই রাখেন।"
+            "bn": "'ওয়া আলাল্লাহি ফালইয়াতাওয়াক্কালিল মুমিনূন।' ক্রিয়াটিতে আছে আদেশের 'লাম': তারা যেন ভরসা করে। তাই তাওয়াক্কুল এমন কাজ, যা মানুষ নিজে করে; পরিস্থিতি ভালো হলে আপনাআপনি এসে যাওয়া কোনো মেজাজ নয়। আস-সা'দী এর সংজ্ঞা দিয়েছেন এভাবে: উপকার পাওয়া আর ক্ষতি ঠেকানোর ব্যাপারে অন্তর দিয়ে আল্লাহর ওপর নির্ভর করা, সঙ্গে তাঁর প্রতি খাঁটি আস্থা। সংজ্ঞাটির দুটি অংশ, অথচ যাঁরা এটি উদ্ধৃত করেন, তাঁরা সাধারণত শুধু দ্বিতীয়টিই রাখেন।"
           },
           {
             "en": "The verse also ties reliance to faith by naming the ones commanded: the believers. 5:23 makes the tie explicit in the words of two God-fearing men to a hesitating people, rely upon Allah if you are believers. And the same closing formula has already appeared earlier in this surah, at 3:122, after an account of two groups who nearly lost their nerve. The refrain is placed each time beside a moment of weakness rather than a moment of triumph.",
-            "bn": "আয়াতটি যাদের নির্দেশ দেওয়া হচ্ছে তাদের নাম নিয়েই ভরসাকে ঈমানের সঙ্গে বেঁধে দেয়: মুমিনগণ। 5:23 আয়াতে দুইজন আল্লাহভীরু ব্যক্তির কথায় সম্পর্কটি স্পষ্ট করা হয়েছে, যা তাঁরা এক দ্বিধাগ্রস্ত জাতিকে বলেছিলেন — আল্লাহর ওপর ভরসা করো, যদি তোমরা মুমিন হও। আর এই সূরারই আগের অংশে 3:122 আয়াতে একই সমাপ্তি-বাক্য এসেছে, এমন দুই দলের বিবরণের পরে যারা প্রায় সাহস হারিয়ে ফেলেছিল। প্রতিবারই এই ধুয়াটি বসানো হয়েছে দুর্বলতার মুহূর্তের পাশে, বিজয়ের মুহূর্তের পাশে নয়।"
+            "bn": "যাদের হুকুম দেওয়া হচ্ছে, তাদের মুমিন নামে ডেকেই আয়াতটি ভরসাকে ঈমানের সঙ্গে বেঁধে দেয়। ৫:২৩ আয়াত এই বাঁধন খোলাখুলি বলে। সেখানে আল্লাহভীরু দুজন মানুষ দ্বিধায় পড়া এক জাতিকে বলেছিলেন: আল্লাহর ওপর ভরসা করো, যদি তোমরা মুমিন হও। আর এই সূরাতেই আগে ৩:১২২ আয়াতে একই সমাপ্তি-বাক্য এসেছে, এমন দুই দলের কথার পরে, যাঁরা প্রায় সাহস হারিয়ে ফেলেছিলেন। প্রতিবারই বাক্যটি বসেছে দুর্বলতার মুহূর্তের পাশে, বিজয়ের মুহূর্তের পাশে নয়।"
           }
         ]
       },
@@ -3485,11 +3485,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's own neighbourhood blocks the lazy reading. 3:159 commands consultation and firm resolve before it commands reliance, so the order is deliberate: take counsel, decide, act, and rely. 4:71 instructs the believers to take their precaution when they go out. And this very surah traces the reverse case in 3:152, where the reversal at Uhud followed disputing over the order and disobeying it after they had been shown what they loved.",
-            "bn": "আয়াতটির নিজের প্রতিবেশই অলস পাঠকে আটকে দেয়। 3:159 আয়াতে ভরসার নির্দেশের আগে পরামর্শ ও দৃঢ় সংকল্পের নির্দেশ আছে, তাই ক্রমটি উদ্দেশ্যপ্রণোদিত: পরামর্শ করো, সিদ্ধান্ত নাও, কাজ করো, আর ভরসা করো। 4:71 আয়াতে মুমিনদের নির্দেশ দেওয়া হয়েছে বেরোনোর সময় সতর্কতা অবলম্বন করতে। আর এই সূরাই 3:152 আয়াতে বিপরীত ঘটনাটির সূত্র ধরিয়ে দেয়, যেখানে উহুদের বিপর্যয় এসেছিল নির্দেশ নিয়ে বিতর্ক ও তা অমান্য করার পরে — তারা যা ভালোবাসে তা দেখিয়ে দেওয়ার পরেও।"
+            "bn": "আশপাশের আয়াতগুলোই অলস ব্যাখ্যার পথ বন্ধ করে দেয়। ৩:১৫৯ আয়াত ভরসার হুকুমের আগে পরামর্শ আর দৃঢ় সংকল্পের হুকুম দেয়। তাই ক্রমটা ভেবেচিন্তে সাজানো: পরামর্শ, সিদ্ধান্ত, কাজ, তারপর ভরসা। ৪:৭১ আয়াত মুমিনদের বলে, বের হওয়ার সময় সতর্কতা অবলম্বন করো। আর এই সূরাই ৩:১৫২ আয়াতে উল্টো ঘটনাটি দেখায়: উহুদের বিপর্যয় এসেছিল হুকুম নিয়ে বিবাদ করা আর তা অমান্য করার পরে, তাও আবার প্রিয় জিনিস দেখিয়ে দেওয়ার পরে।"
           },
           {
             "en": "So reliance replaces anxiety about the result, never work on the causes. Lived out, the verse cuts in two directions at once. When a person is strong, it tells him his advantages did not create his success, so arrogance has nothing to stand on. When he is outmatched, it tells him the shortfall was never the deciding factor, so despair has nothing to stand on either. 3:126 states the conclusion of both halves plainly: victory is only from Allah, the Exalted in Might, the Wise.",
-            "bn": "তাই ভরসা ফলাফল নিয়ে উদ্বেগের জায়গা নেয়, কারণ নিয়ে পরিশ্রমের জায়গা কখনোই নয়। জীবনে প্রয়োগ করলে আয়াতটি একসঙ্গে দুই দিকেই কাটে। মানুষ যখন শক্তিশালী, তখন এটি তাকে বলে যে তার সুবিধাগুলো তার সাফল্য তৈরি করেনি, ফলে অহংকারের দাঁড়ানোর জায়গা থাকে না। আর সে যখন সংখ্যায় ও শক্তিতে পিছিয়ে, তখন এটি তাকে বলে যে সেই ঘাটতিই কখনো নির্ণায়ক ছিল না, ফলে হতাশারও দাঁড়ানোর জায়গা থাকে না। 3:126 আয়াতে দুই অর্ধেকের সিদ্ধান্তই স্পষ্ট করে বলা হয়েছে: সাহায্য কেবল আল্লাহরই কাছ থেকে, যিনি পরাক্রমশালী, প্রজ্ঞাময়।"
+            "bn": "তাই ভরসা ফলাফল নিয়ে দুশ্চিন্তার জায়গা নেয়, উপায় অবলম্বনের পরিশ্রমের জায়গা কখনোই নয়। জীবনে এর চর্চা করলে আয়াতটি একসঙ্গে দুই দিকে কাজ করে। মানুষ যখন শক্তিশালী, আয়াত তাকে মনে করিয়ে দেয়: তার সুবিধাগুলো তার সাফল্য তৈরি করেনি। তাই অহংকারের পায়ের নিচে মাটি থাকে না। আর যখন সে প্রতিপক্ষের চেয়ে দুর্বল, আয়াত তাকে বলে: এই ঘাটতি কখনো আসল ফয়সালা করেনি। তাই হতাশারও পায়ের নিচে মাটি থাকে না। দুই অংশের উপসংহার ৩:১২৬ আয়াত সোজা বলে দেয়: সাহায্য কেবল আল্লাহর কাছ থেকেই, যিনি মহাপরাক্রমশালী, প্রজ্ঞাময়।"
           }
         ]
       }
@@ -3644,12 +3644,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Who Is Being Described",
-          "bn": "কাদের বর্ণনা দেওয়া হচ্ছে"
+          "bn": "কাদের কথা বলা হচ্ছে"
         },
         "p": [
           {
             "en": "This verse does not begin a new subject; it continues a sentence. 3:172 describes those who responded to Allah and the Messenger after injury had already struck them, promising a great reward to those among them who did good and feared Allah. The people in this verse are that same group — men who had already been wounded and who went out again. Commentators relate the passage to the march out to Hamra' al-Asad following Uhud; others relate it to the later appointment at Badr, and the wording itself does not decide between them.",
-            "bn": "এই আয়াত নতুন কোনো প্রসঙ্গ শুরু করে না; এটি একটি বাক্যের ধারাবাহিকতা। 3:172 আয়াতে তাদের বর্ণনা আছে, যারা আঘাতপ্রাপ্ত হওয়ার পরেও আল্লাহ ও রাসূলের ডাকে সাড়া দিয়েছিল, আর তাদের মধ্যে যারা সৎকাজ করে ও তাকওয়া অবলম্বন করে তাদের জন্য মহা প্রতিদানের প্রতিশ্রুতি দেওয়া হয়েছে। এই আয়াতের লোকেরা সেই একই দল — যারা আগেই আহত হয়েছিল এবং আবার বেরিয়ে পড়েছিল। মুফাসসিরগণ কেউ অংশটিকে উহুদের পরের হামরাউল আসাদের অভিযানের সঙ্গে যুক্ত করেন; কেউ আবার পরবর্তী বদরের নির্ধারিত সাক্ষাতের সঙ্গে যুক্ত করেন, আর শব্দগুলো নিজে থেকে এ দুটির মধ্যে ফয়সালা করে না।"
+            "bn": "এই আয়াত নতুন প্রসঙ্গ শুরু করে না, আগের বাক্যটাই এগিয়ে নেয়। ৩:১৭২ আয়াত তাঁদের কথা বলে, যাঁরা আঘাত পাওয়ার পরেও আল্লাহ ও রাসূলের ডাকে সাড়া দিয়েছিলেন। তাঁদের মধ্যে যাঁরা সৎকাজ করেছেন ও তাকওয়া অবলম্বন করেছেন, তাঁদের জন্য আছে মহা প্রতিদানের ওয়াদা। এই আয়াতের মানুষেরা সেই একই দল: আগেই আহত হয়েও যাঁরা আবার বেরিয়ে পড়েছিলেন। মুফাসসিরদের কেউ অংশটিকে উহুদের পরে হামরাউল আসাদের অভিযানের সঙ্গে যুক্ত করেন, কেউ পরে বদরে নির্ধারিত মোকাবিলার সঙ্গে। আয়াতের শব্দ নিজে এ দুইয়ের কোনোটিকে চূড়ান্ত করে না।"
           }
         ]
       },
@@ -3661,7 +3661,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Alladhina qala lahumu an-nasu inna an-nasa qad jama'u lakum fakhshawhum. The word an-nas, the people, appears twice in one line, once for the messengers of the news and once for the army they described. The Quran names neither. What it does name comes two verses later: 3:175 says that it is only Satan who frightens you of his supporters, so do not fear them but fear Me, if you are believers. The report may have been accurate; the fear it was designed to produce had a different author.",
-            "bn": "'আল্লাযীনা ক্বালা লাহুমুন নাসু ইন্নান নাসা ক্বাদ জামাঊ লাকুম ফাখশাওহুম।' এক লাইনে 'আন-নাস' অর্থাৎ 'লোকেরা' শব্দটি দুইবার আসে — একবার খবরদাতাদের জন্য, একবার তারা যে বাহিনীর কথা বলছিল তার জন্য। কুরআন কারও নাম নেয় না। তবে যার নাম নেয় তা আসে দুই আয়াত পরে: 3:175 আয়াতে বলা হয়েছে, ওটা তো শয়তানই, সে তোমাদের তার বন্ধুদের ভয় দেখায়; তোমরা তাদের ভয় করো না, আমাকেই ভয় করো, যদি তোমরা মুমিন হও। খবরটি হয়তো সঠিকই ছিল; কিন্তু তা যে ভয়টি তৈরি করতে চেয়েছিল, তার রচয়িতা ছিল অন্য কেউ।"
+            "bn": "'আল্লাযীনা ক্বালা লাহুমুন নাসু ইন্নান নাসা ক্বাদ জামাঊ লাকুম ফাখশাওহুম।' এক লাইনেই 'আন-নাস', মানে লোকেরা, শব্দটি দুবার এসেছে: একবার খবর নিয়ে আসা লোকদের জন্য, আরেকবার তারা যে বাহিনীর কথা বলছিল তাদের জন্য। কুরআন এদের কারও নাম বলেনি। যার নাম বলেছে, তা আসে দুই আয়াত পরে। ৩:১৭৫ আয়াত বলে: ওটা তো শয়তানই, সে তোমাদের তার বন্ধুদের ভয় দেখায়; তোমরা তাদের ভয় করো না, আমাকে ভয় করো, যদি তোমরা মুমিন হও। খবরটা হয়তো সত্যিই ছিল, কিন্তু যে ভয় জাগানোর জন্য খবরটা ছড়ানো হয়েছিল, তার পেছনে ছিল অন্য কেউ।"
           }
         ]
       },
@@ -3673,7 +3673,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fazadahum imanan — so it increased them in faith. The grammar is worth pausing over: the thing that does the increasing is the frightening report itself. The same sentence spoken to two men empties one and fills the other, which means the outcome was never in the news. 8:2 lists exactly this among the marks of the believers, that when His verses are recited their faith is increased and upon their Lord they rely. 33:22 records the same reaction at the Trench, where the sight of the massed confederates increased them only in faith and acceptance.",
-            "bn": "'ফাযাদাহুম ঈমানা' — ফলে তা তাদের ঈমান বাড়িয়ে দিল। ব্যাকরণটির ওপর একটু থামা দরকার: যে জিনিসটি বৃদ্ধি ঘটাচ্ছে তা স্বয়ং ওই ভীতিকর খবরটিই। একই বাক্য দুই ব্যক্তিকে বললে একজনকে খালি করে দেয় আর অন্যজনকে ভরে দেয়; অর্থাৎ পরিণতিটি কখনোই খবরের ভেতরে ছিল না। 8:2 আয়াতে ঠিক এটিই মুমিনদের লক্ষণের মধ্যে গণ্য করা হয়েছে — তাঁর আয়াত তিলাওয়াত করা হলে তাদের ঈমান বাড়ে এবং তারা তাদের রবের ওপর ভরসা করে। 33:22 আয়াতে খন্দকের সময়ে একই প্রতিক্রিয়া লিপিবদ্ধ আছে, যেখানে সম্মিলিত বাহিনীকে দেখে তাদের ঈমান ও আনুগত্যই কেবল বৃদ্ধি পেয়েছিল।"
+            "bn": "'ফাযাদাহুম ঈমানা', ফলে তা তাদের ঈমান বাড়িয়ে দিল। ব্যাকরণটা খেয়াল করার মতো: যা ঈমান বাড়াচ্ছে, সেটা ওই ভয়ের খবরটাই। একই কথা দুজনকে বললে একজনের ভেতরটা খালি হয়ে যায়, আরেকজনের ভেতরটা ভরে ওঠে। অর্থাৎ পরিণতি কখনোই খবরের ভেতরে ছিল না। ৮:২ আয়াত ঠিক এটাকেই মুমিনের লক্ষণের মধ্যে গুনেছে: তাঁর আয়াত তিলাওয়াত হলে তাদের ঈমান বাড়ে, আর তারা তাদের রবের ওপর ভরসা করে। ৩৩:২২ আয়াতে খন্দকের সময়েও একই প্রতিক্রিয়ার কথা আছে: সম্মিলিত বাহিনী দেখে তাদের ঈমান আর আনুগত্যই শুধু বেড়েছিল।"
           }
         ]
       },
@@ -3685,11 +3685,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Their answer is four words in Arabic and contains no request. Hasb means what suffices, the amount that closes an account and leaves nothing owing, so hasbunallah says Allah is our sufficiency. A wakil is not a helper who lends a hand; he is the one to whom a matter is handed over entirely to manage on your behalf. Ni'mal wakil, how excellent the One entrusted, is praise of the manager rather than instruction about the outcome.",
-            "bn": "তাদের জবাবটি আরবিতে চারটি শব্দের, আর তাতে কোনো আবেদন নেই। 'হাসব' মানে যা যথেষ্ট, যে পরিমাণ হিসাব চুকিয়ে দেয় এবং কিছুই বাকি রাখে না; তাই 'হাসবুনাল্লাহ' মানে আল্লাহই আমাদের যথেষ্টতা। 'ওয়াকীল' এমন সাহায্যকারী নন যিনি হাত লাগান; তিনি সেই সত্তা, যাঁর কাছে বিষয়টি সম্পূর্ণভাবে সঁপে দেওয়া হয় আপনার পক্ষে পরিচালনার জন্য। 'নি'মাল ওয়াকীল' অর্থাৎ কতই না উত্তম সেই কর্মবিধায়ক — এটি পরিণতি নিয়ে নির্দেশ নয়, বরং যাঁর হাতে ভার দেওয়া হলো তাঁর প্রশংসা।"
+            "bn": "তাদের জবাব আরবিতে চার শব্দের, আর তাতে কিছুই চাওয়া হয়নি। 'হাসব' মানে যা যথেষ্ট, এমন পরিমাণ যা হিসাব চুকিয়ে দেয়, কিছুই বাকি রাখে না। তাই 'হাসবুনাল্লাহ' মানে আল্লাহই আমাদের জন্য যথেষ্ট। 'ওয়াকীল' এমন সাহায্যকারী নন যিনি একটু হাত লাগান। তিনি সেই সত্তা, যাঁর হাতে পুরো বিষয়টি সঁপে দেওয়া হয়, যেন তিনিই আপনার হয়ে সব সামলান। 'নি'মাল ওয়াকীল', কতই না উত্তম কর্মবিধায়ক: এতে পরিণতি নিয়ে কোনো ফরমায়েশ নেই; আছে যাঁর হাতে ভার দেওয়া হলো তাঁর প্রশংসা।"
           },
           {
             "en": "Notice what the sentence does not do. It does not ask for the enemy to be scattered or for the danger to pass. It states a relationship and leaves the outcome inside it. 65:3 gives the general rule behind the moment: whoever relies upon Allah, then He is sufficient for him. 39:36 asks the same thing as a question — is Allah not sufficient for His servant? — and puts it, tellingly, immediately alongside people making threats.",
-            "bn": "লক্ষ করুন বাক্যটি কী করে না। এটি শত্রু ছত্রভঙ্গ হওয়ার জন্য বা বিপদ কেটে যাওয়ার জন্য কিছু চায় না। এটি একটি সম্পর্ক ঘোষণা করে আর পরিণতিকে সেই সম্পর্কের ভেতরে রেখে দেয়। 65:3 আয়াতে এই মুহূর্তের পেছনের সাধারণ বিধানটি আছে: যে আল্লাহর ওপর ভরসা করে, তিনিই তার জন্য যথেষ্ট। 39:36 আয়াতে একই কথা প্রশ্ন আকারে আছে — আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন? — আর তা রাখা হয়েছে, বেশ তাৎপর্যপূর্ণভাবে, হুমকি দেওয়া লোকদের প্রসঙ্গের ঠিক পাশেই।"
+            "bn": "খেয়াল করুন, বাক্যটি কী করে না। শত্রু ছত্রভঙ্গ হোক বা বিপদ কেটে যাক, এমন কিছুই চায় না। শুধু একটি সম্পর্কের ঘোষণা দেয়, আর পরিণতিকে সেই সম্পর্কের ভেতরেই ছেড়ে দেয়। এই মুহূর্তের পেছনের সাধারণ নিয়মটি ৬৫:৩ আয়াতে: যে আল্লাহর ওপর ভরসা করে, তিনিই তার জন্য যথেষ্ট। ৩৯:৩৬ আয়াত একই কথা প্রশ্নের আকারে বলে: আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন? আর লক্ষণীয়ভাবে, কথাটি সেখানে এসেছে হুমকি দেওয়া লোকদের প্রসঙ্গের ঠিক পাশে।"
           }
         ]
       },
@@ -3701,7 +3701,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari relates from Ibn Abbas (RA) that hasbunallahu wa ni'mal wakil was said by Ibrahim (AS) when he was cast into the fire, and that it was said by Muhammad ﷺ when they said to him, indeed the people have gathered against you so fear them, and it increased them in faith and they said, sufficient for us is Allah and He is the best Disposer of affairs. The report names two occasions and keeps them apart, and it is worth quoting in that shape rather than fusing them into one scene.",
-            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন যে 'হাসবুনাল্লাহু ওয়া নি'মাল ওয়াকীল' কথাটি ইবরাহীম (আঃ) বলেছিলেন যখন তাঁকে আগুনে নিক্ষেপ করা হয়েছিল, আর কথাটি মুহাম্মাদ ﷺ বলেছিলেন যখন তাঁদের বলা হয়েছিল, লোকেরা তোমাদের বিরুদ্ধে জড়ো হয়েছে, কাজেই তাদের ভয় করো — তখন তা তাদের ঈমান বাড়িয়ে দিল এবং তারা বলল, আমাদের জন্য আল্লাহই যথেষ্ট এবং তিনি কতই না উত্তম কর্মবিধায়ক। বর্ণনাটি দুটি উপলক্ষের নাম নেয় এবং সেগুলোকে আলাদা রাখে, আর দুটিকে এক দৃশ্যে মিশিয়ে না ফেলে ঠিক এই আকারেই উদ্ধৃত করা উচিত।"
+            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন: 'হাসবুনাল্লাহু ওয়া নি'মাল ওয়াকীল' কথাটি ইবরাহীম (আঃ) বলেছিলেন, যখন তাঁকে আগুনে ফেলা হয়েছিল। আর মুহাম্মাদ ﷺ বলেছিলেন, যখন তাঁকে বলা হলো, লোকেরা তোমাদের বিরুদ্ধে জড়ো হয়েছে, কাজেই তাদের ভয় করো; তখন তা তাঁদের ঈমান বাড়িয়ে দিল, আর তাঁরা বললেন, আমাদের জন্য আল্লাহই যথেষ্ট, আর তিনি কতই না উত্তম কর্মবিধায়ক। বর্ণনাটি দুটি ঘটনার উল্লেখ করে, তবে দুটিকে আলাদা রাখে। তাই দুটিকে মিলিয়ে এক দৃশ্য না বানিয়ে এভাবেই উদ্ধৃত করা ভালো।"
           }
         ]
       },
@@ -3713,11 +3713,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "3:174 records the sequel: they returned with favour from Allah and bounty, no harm having touched them, and they had pursued the pleasure of Allah. The order in the passage is the lesson. The words were said while the danger was still credible and the outcome still unknown; the safety is reported afterwards. Had the sentence been spoken only once the threat had dissolved, it would have been a comment on the news rather than an answer to it.",
-            "bn": "3:174 আয়াতে পরবর্তী ঘটনা লিপিবদ্ধ: তারা আল্লাহর নিয়ামত ও অনুগ্রহসহ ফিরে এলো, কোনো অনিষ্ট তাদের স্পর্শ করেনি, আর তারা আল্লাহর সন্তুষ্টিরই অনুসরণ করেছিল। অংশটির ক্রমই এখানে শিক্ষা। কথাগুলো বলা হয়েছিল যখন বিপদ তখনো বিশ্বাসযোগ্য আর পরিণতি তখনো অজানা; নিরাপত্তার কথা এসেছে পরে। হুমকি মিলিয়ে যাওয়ার পরে যদি বাক্যটি বলা হতো, তবে তা খবরের জবাব না হয়ে খবরের ওপর মন্তব্য হয়ে যেত।"
+            "bn": "পরের ঘটনা আছে ৩:১৭৪ আয়াতে: তাঁরা আল্লাহর নিয়ামত ও অনুগ্রহ নিয়ে ফিরে এলেন, কোনো অনিষ্ট তাঁদের ছুঁতে পারেনি, আর তাঁরা আল্লাহর সন্তুষ্টির পেছনেই ছুটেছিলেন। শিক্ষাটা এই ক্রমেই। কথাগুলো বলা হয়েছিল যখন বিপদ তখনো সত্যি মনে হচ্ছে, পরিণতি তখনো অজানা। নিরাপদে ফেরার খবর এসেছে পরে। হুমকি মিলিয়ে যাওয়ার পরে বাক্যটি বললে সেটা খবরের জবাব হতো না, হতো খবরের ওপর মন্তব্য।"
           },
           {
             "en": "That is how the phrase is meant to be used. It belongs at the start of a frightening hour, not at the end of it, and it is said about the specific thing that has frightened you rather than in general. Said early, it settles the question of who is handling the matter and frees the person to do the next sensible thing. Said late, it is only relief wearing the clothes of trust.",
-            "bn": "বাক্যটির ব্যবহার এভাবেই উদ্দিষ্ট। এর জায়গা ভীতিকর ঘণ্টাটির শুরুতে, শেষে নয়; আর তা বলা হয় ঠিক যে জিনিসটি আপনাকে ভয় পাইয়েছে তার ব্যাপারে, ঢালাওভাবে নয়। আগেভাগে বললে তা এই প্রশ্নটি মীমাংসা করে দেয় যে বিষয়টি কে সামলাচ্ছেন, আর মানুষকে পরবর্তী বুদ্ধিমানের কাজটি করার জন্য মুক্ত করে দেয়। দেরিতে বললে তা কেবল স্বস্তি — ভরসার পোশাক পরা।"
+            "bn": "বাক্যটি এভাবেই ব্যবহার করার কথা। এর জায়গা ভয়ের সময়টার শুরুতে, শেষে নয়। আর বলতে হয় ঠিক যে জিনিসটা আপনাকে ভয় পাইয়েছে সেটার ব্যাপারে, ঢালাওভাবে নয়। আগেভাগে বললে বিষয়টা কে সামলাচ্ছেন, সেই প্রশ্নের মীমাংসা হয়ে যায়। তখন মানুষ নিশ্চিন্তে পরের বুদ্ধিমানের কাজটায় মন দিতে পারে। দেরিতে বললে সেটা নিছক স্বস্তি, যে স্বস্তি ভরসার পোশাক পরে আছে।"
           }
         ]
       }
