@@ -1161,7 +1161,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other commentators fetched lean the same way in their own words. As-Sa'di calls it an occupation that delights the soul and gives it pleasure, made of everything the souls long for, the eyes delight in, and those who wish could wish for. Ibn Kathir begins with a general sentence before he quotes anyone: occupied away from others by the lasting bliss and the great triumph they are in. The particular readings stay as the words of the early generation. None of the commentaries fetched for this verse attaches a sound hadith to it.",
-            "bn": "অন্য যেসব তাফসীর দেখা হয়েছে, সেগুলোও নিজের ভাষায় একই দিকে ঝোঁকে। সা'দী বলেন, এ এমন এক ব্যস্ততা যা মনকে প্রফুল্ল করে, তৃপ্তি দেয়। এর মধ্যে আছে মন যা চায়, চোখ যাতে জুড়ায়, আর আকাঙ্ক্ষী যা কিছু আকাঙ্ক্ষা করতে পারে। ইবন কাসীর কারও উক্তি আনার আগে নিজে একটি সাধারণ কথা বলেন: স্থায়ী নিয়ামত আর মহাসাফল্যের মধ্যে থেকে তারা অন্য সবকিছু থেকে অন্যমনস্ক। নির্দিষ্ট মতগুলো থেকে যায় পূর্বসূরিদের কথা হিসেবে। আর এ আয়াতের জন্য দেখা কোনো তাফসীরেই এর সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই।"
+            "bn": "অন্য যেসব তাফসীর দেখা হয়েছে, সেগুলোও নিজের ভাষায় একই দিকে ঝোঁকে। সা'দী বলেন, এ এমন ব্যস্ততা, যা মনকে খুশি করে, তৃপ্তি দেয়। এতে আছে মন যা চায়, যাতে চোখ জুড়ায়, আর কেউ যা কিছু চাইতে পারে তার সবই। ইবন কাসীর কারও উক্তি আনার আগে নিজে একটি সাধারণ কথা বলেন: তারা যে স্থায়ী নিয়ামত আর মহাসাফল্যের মধ্যে আছে, তাতেই ডুবে থেকে অন্য সবকিছু ভুলে আছে। নির্দিষ্ট মতগুলো থেকে যায় পূর্বসূরিদের কথা হিসেবে। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদিস জোড়েনি।"
           }
         ]
       },
@@ -1197,19 +1197,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This can sound hard on first hearing. Yet at-Tabari counts it among the favours of that occupation, not as a coldness in the believers. Read as reflection: a joy that grief could break into at any moment would not be complete, and the verse stands right after the declaration that no soul is wronged. What befalls anyone there is settled by the Just, according to what each did. The people of Paradise are not asked to carry it, and that release is itself part of the reward.",
-            "bn": "প্রথম শুনলে কথাটা কঠিন মনে হতে পারে। কিন্তু তাবারী একে সেই ব্যস্ততার নিয়ামতগুলোর মধ্যেই গণনা করেন। মুমিনদের হৃদয়হীনতা হিসেবে নয়। একটু ভেবে দেখুন। যে আনন্দে যেকোনো মুহূর্তে দুঃখ এসে ঢুকতে পারে, সে আনন্দ পূর্ণ হয় না। আর আয়াতটি এসেছে ঠিক সেই ঘোষণার পরে, যেখানে বলা হয়েছে কারও উপর যুলম হবে না। সেখানে কার কী হবে, তা ফয়সালা করবেন ন্যায়বিচারক আল্লাহ, প্রত্যেকের আমল অনুযায়ী। জান্নাতবাসীদের সেই বোঝা বইতে হবে না। এই মুক্তিটাও প্রতিদানেরই অংশ।"
+            "bn": "প্রথম শুনলে কথাটা কঠিন মনে হতে পারে। কিন্তু তাবারী একে মুমিনদের হৃদয়হীনতা বলেননি, বরং সেই ব্যস্ততার নিয়ামতগুলোর মধ্যেই গুনেছেন। একটু ভেবে দেখুন। যে আনন্দে যেকোনো মুহূর্তে দুঃখ এসে ঢুকতে পারে, সে আনন্দ পূর্ণ হয় না। আর আয়াতটি এসেছে ঠিক সেই ঘোষণার পরে যে, কারও উপর জুলুম হবে না। সেখানে কার কী হবে, তা ফয়সালা করবেন ন্যায়বিচারক আল্লাহ, প্রত্যেকের আমল অনুযায়ী। জান্নাতবাসীদের সেই বোঝা বইতে হবে না। এই মুক্তিটাও প্রতিদানেরই অংশ।"
           }
         ]
       },
       {
         "h": {
           "en": "Busy Here, Busy There",
-          "bn": "এখানের ব্যস্ততা, সেখানের ব্যস্ততা"
+          "bn": "এখানেও ব্যস্ত, সেখানেও ব্যস্ত"
         },
         "p": [
           {
             "en": "The verse borrows a word everyone knows. Shughl is the ordinary word for being busy, and in this world it is usually a complaint: I have no time, the work never ends, something else is always waiting. The Qur'an takes that word and turns it inside out. In Paradise people are still occupied, but with what they would choose, and fakihun says how it feels from inside: glad, pleased, finding it wonderful. Ma'arif al-Qur'an's point holds here. The rest of Paradise is not empty time.",
-            "bn": "আয়াতটি এমন একটি শব্দ নিয়েছে যা সবার চেনা। শুগল মানে সাধারণ ব্যস্ততা। এই দুনিয়ায় শব্দটা সাধারণত অভিযোগের সুরে আসে: সময় নেই, কাজ শেষ হয় না, সবসময় আরেকটা কিছু অপেক্ষা করছে। কুরআন সেই শব্দটাকেই উল্টে দেয়। জান্নাতেও মানুষ ব্যস্ত থাকবে, তবে এমন কিছুতে যা তারা নিজেরাই বেছে নিত। আর ফাকিহূন বলে দেয় ভেতর থেকে সেটা কেমন লাগে: খুশি, তৃপ্ত, মুগ্ধ। মাআরিফুল কুরআনের কথাটা এখানে খাটে। জান্নাতের অবসর ফাঁকা সময় নয়।"
+            "bn": "আয়াতটি সবার চেনা একটা শব্দ বেছে নিয়েছে। শুগল মানে সাধারণ ব্যস্ততা। এই দুনিয়ায় শব্দটা সাধারণত অভিযোগের সুরে আসে: সময় নেই, কাজ শেষ হয় না, সবসময় আরেকটা কিছু অপেক্ষা করছে। কুরআন সেই শব্দটাকেই উল্টে দেয়। জান্নাতেও মানুষ ব্যস্ত থাকবে, তবে নিজেদের মনের মতো জিনিসে। আর ফাকিহূন বলে দেয় ভেতর থেকে সেটা কেমন লাগে: খুশি, তৃপ্ত, মুগ্ধ। মাআরিফুল কুরআনের কথাটা এখানে খাটে। জান্নাতের অবসর ফাঁকা সময় নয়।"
           },
           {
             "en": "The link to 36:54 tells where this occupation comes from: you will be repaid only for what you used to do. The busyness of that Day answers the busyness of this one. Not every effort here is a burden to be rid of. A prayer kept on a tired evening, a debt honoured when it was hard, a kindness done with no one watching are forms of shughl too. The verse leaves the reader asking whether the hours that fill the day are building toward that joy or simply passing.",
@@ -1249,7 +1249,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The question does not ask for information. Ibn Kathir calls it a taqriʿ, a reproach from Allah to the disbelievers among the children of Adam. Al-Muyassar describes it as Allah speaking to them in rebuke and in reminder. Both words matter. The reproach shames them for what they did, and the reminder points back to something they were once told and set aside. Nothing in the question is new to them; that is exactly its force.",
-            "bn": "প্রশ্নটা কিছু জানতে চাওয়ার জন্য নয়। ইবন কাসীর একে বলেন তাকরী', আদম সন্তানদের মধ্যে যারা কুফরি করেছে, তাদের প্রতি আল্লাহর ভর্ৎসনা। মুয়াসসারের ভাষায়, আল্লাহ তাদের সঙ্গে কথা বলছেন তিরস্কার আর স্মরণ করিয়ে দেওয়ার জন্য। দুটো শব্দই গুরুত্বপূর্ণ। তিরস্কার তাদের লজ্জা দেয় নিজেদের কাজের জন্য। আর স্মরণ করিয়ে দেওয়া ফিরিয়ে নিয়ে যায় সেই কথার দিকে, যা একদিন তাদের বলা হয়েছিল আর তারা সরিয়ে রেখেছিল। প্রশ্নের কিছুই তাদের কাছে নতুন নয়। এর জোরটা ঠিক সেখানেই।"
+            "bn": "প্রশ্নটা কিছু জানতে চাওয়ার জন্য নয়। ইবন কাসীর একে বলেন তাকরী', আদম সন্তানদের মধ্যে যারা কুফরি করেছে, তাদের প্রতি আল্লাহর ভর্ৎসনা। মুয়াসসারের ভাষায়, আল্লাহ তাদের সঙ্গে কথা বলছেন তিরস্কার আর স্মরণ করিয়ে দেওয়ার জন্য। দুটো শব্দই গুরুত্বপূর্ণ। তিরস্কার তাদের লজ্জা দেয় নিজেদের কাজের জন্য। আর স্মরণ করানোটা মনে করিয়ে দেয় সেই কথা, যা একদিন তাদের শোনানো হয়েছিল, কিন্তু তারা সরিয়ে রেখেছিল। প্রশ্নের কিছুই তাদের কাছে নতুন নয়। এর জোরটা ঠিক সেখানেই।"
           }
         ]
       },
@@ -1265,7 +1265,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Put together, the commentators fetched for this verse describe a charge given openly, in this life, through revelation. Al-Muyassar repeats the route: did I not instruct you on the tongues of My messengers? Nothing here is a secret or private pact. It is the message the prophets carried, generation after generation, to the children of Adam as a whole. That is why the question can be asked at all on that Day: the instruction had reached them, in words they could hear, from people sent to say it.",
-            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সবগুলো মিলিয়ে ছবিটা পরিষ্কার। নির্দেশটা দেওয়া হয়েছে প্রকাশ্যে, এই জীবনেই, ওহীর মাধ্যমে। মুয়াসসারও একই পথের কথা বলে: আমি কি আমার রাসূলদের মুখে তোমাদের নির্দেশ দিইনি? এখানে গোপন বা ব্যক্তিগত কোনো চুক্তির কথা নেই। এ হলো সেই বাণী, যা নবীরা যুগের পর যুগ গোটা আদম সন্তানের কাছে বয়ে এনেছেন। সে দিন প্রশ্নটা করা যায় এ কারণেই। নির্দেশটা তাদের কাছে পৌঁছেছিল, শোনার মতো ভাষায়, এমন মানুষের মুখে যাঁদের পাঠানোই হয়েছিল তা বলার জন্য।"
+            "bn": "এ আয়াতের জন্য দেখা তাফসীরগুলো মিলিয়ে পড়লে ছবিটা পরিষ্কার। আল্লাহ নির্দেশটা দিয়েছেন প্রকাশ্যে, এই জীবনেই, ওহির মাধ্যমে। মুয়াসসারও সেই একই মাধ্যমের কথা বলে: আমি কি আমার রাসূলদের মুখে তোমাদের নির্দেশ দিইনি? এখানে গোপন বা ব্যক্তিগত কোনো চুক্তির কথা নেই। এ হলো সেই বাণী, যা নবীরা যুগের পর যুগ গোটা আদম সন্তানের কাছে বয়ে এনেছেন। সে দিন প্রশ্নটা করা যায় এ কারণেই। নির্দেশটা তাদের কাছে পৌঁছেছিল, শোনার মতো ভাষায়, এমন মানুষের মুখে যাঁদের পাঠানোই হয়েছিল তা বলার জন্য।"
           }
         ]
       },
@@ -1285,7 +1285,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This matters for how the verse is read today. A person who has never heard of any cult of Satan can still be among those addressed, because the question is about whose command he followed when it clashed with Allah's. The worship meant here wears ordinary clothes. It looks like a choice made under pressure, a whisper accepted, a habit that keeps a person away from what Allah asked. The verse names that pattern by its real name, so that nobody can hide it behind a gentler label.",
-            "bn": "আজকের পাঠকের জন্য কথাটা জরুরি। শয়তান-পূজার কোনো দলের নামও যে শোনেনি, সেও এই প্রশ্নের লক্ষ্য হতে পারে। কারণ প্রশ্নটা হলো, আল্লাহর হুকুমের সঙ্গে সংঘাত বাধলে সে কার কথা মেনেছে। এখানে যে ইবাদতের কথা, তা দেখতে খুব সাধারণ। চাপের মুখে নেওয়া কোনো সিদ্ধান্ত, মেনে নেওয়া কোনো কুমন্ত্রণা, এমন কোনো অভ্যাস যা মানুষকে আল্লাহর চাওয়া থেকে দূরে রাখে। আয়াতটি এই ধারাকে তার আসল নামে ডাকে, যাতে কেউ একে আরামদায়ক কোনো নামের আড়ালে লুকাতে না পারে।"
+            "bn": "আজকের পাঠকের জন্য কথাটা জরুরি। শয়তান-পূজার কোনো দলের নামও যে শোনেনি, সেও এই প্রশ্নের লক্ষ্য হতে পারে। কারণ প্রশ্নটা হলো, আল্লাহর হুকুমের সঙ্গে সংঘাত বাধলে সে কার কথা মেনেছে। এখানে যে ইবাদতের কথা, তা দেখতে খুব সাধারণ। চাপের মুখে নেওয়া কোনো সিদ্ধান্ত, মেনে নেওয়া কোনো কুমন্ত্রণা, এমন কোনো অভ্যাস যা মানুষকে আল্লাহর চাওয়া থেকে দূরে রাখে। আয়াতটি এই ধারাকে তার আসল নামে ডাকে, যাতে কেউ একে নরম কোনো নামের আড়ালে লুকাতে না পারে।"
           }
         ]
       },
@@ -1301,7 +1301,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "These readings do not cancel each other, and as-Sa'di does not say that every sinner is among the criminals of 36:59. What he says is that the same logic runs through every act of disobedience: each one, in its measure, is a moment of listening to the enemy instead of to Allah. That gives the believer a reason to hear this verse as addressed to him as well. The verse speaks to the children of Adam, and a Muslim reading it is one of them.",
-            "bn": "এই ব্যাখ্যাগুলো একে অপরকে বাতিল করে না। সা'দী এ কথা বলেন না যে প্রত্যেক গুনাহগার ৩৬:৫৯-এর অপরাধীদের দলে। তিনি বলেন, প্রতিটি নাফরমানির ভেতরে একই যুক্তি কাজ করে। প্রত্যেকটা, নিজ মাত্রায়, এমন এক মুহূর্ত যখন মানুষ আল্লাহর বদলে শত্রুর কথা শুনেছে। মুমিনের জন্য তাই আয়াতটিকে নিজের প্রতি বলা কথা হিসেবে শোনার কারণ আছে। আয়াতটি আদম সন্তানদের সম্বোধন করে, আর যে মুসলিম এটা পড়ছেন, তিনিও তাদেরই একজন।"
+            "bn": "এই ব্যাখ্যাগুলো একে অপরকে বাতিল করে না। সা'দী এ কথা বলেন না যে প্রত্যেক গুনাহগার ৩৬:৫৯-এর অপরাধীদের দলে। তিনি বলেন, প্রতিটি নাফরমানির পেছনে একই হিসাব কাজ করে। নিজ নিজ মাত্রায় প্রত্যেকটাই এমন এক মুহূর্ত, যখন মানুষ আল্লাহর কথা না শুনে শত্রুর কথা শুনেছে। তাই মুমিনেরও আয়াতটিকে নিজের প্রতি বলা কথা হিসেবে শোনার কারণ আছে। আয়াতটি আদম সন্তানদের সম্বোধন করে, আর যে মুসলিম এটা পড়ছেন, তিনিও তাদেরই একজন।"
           }
         ]
       },
@@ -1313,7 +1313,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Innahu lakum ʿaduwwun mubin: indeed he is to you a clear enemy. Al-Baghawi and al-Muyassar both explain mubin as zahir al-ʿadawa, open in his enmity. At-Tabari supplies the words as Allah speaking: and I say to you, Satan is to you a clear enemy. He then explains how that enmity became clear. Satan refused to prostrate to your father Adam (AS), out of envy over the honour Allah had given him, and then deceived him until he brought about the expulsion of Adam and his wife from the Garden.",
-            "bn": "ইন্নাহু লাকুম আদুউউম মুবীন: নিশ্চয়ই সে তোমাদের প্রকাশ্য শত্রু। বাগাভী আর মুয়াসসার দুজনেই মুবীনের অর্থ করেন যাহিরুল আদাওয়াহ, যার শত্রুতা খোলাখুলি। তাবারী কথাটাকে আল্লাহর জবানিতে সাজান: আর আমি তোমাদের বলি, শয়তান তোমাদের প্রকাশ্য শত্রু। তারপর তিনি ব্যাখ্যা করেন, শত্রুতাটা প্রকাশ পেল কীভাবে। আল্লাহ তোমাদের পিতা আদম (আঃ)-কে যে সম্মান দিয়েছিলেন, তাতে হিংসা করে শয়তান তাঁকে সিজদা করতে অস্বীকার করে। তারপর তাঁকে ধোঁকা দিতে থাকে, শেষ পর্যন্ত আদম (আঃ) ও তাঁর স্ত্রীকে জান্নাত থেকে বের করে আনার কারণ হয়।"
+            "bn": "ইন্নাহু লাকুম আদুউউম মুবীন: নিশ্চয়ই সে তোমাদের প্রকাশ্য শত্রু। বাগাভী আর মুয়াসসার দুজনেই মুবীনের অর্থ করেন যাহিরুল আদাওয়াহ, যার শত্রুতা খোলাখুলি। তাবারী কথাটাকে আল্লাহর জবানিতে সাজান: আর আমি তোমাদের বলি, শয়তান তোমাদের প্রকাশ্য শত্রু। তারপর তিনি ব্যাখ্যা করেন, শত্রুতাটা প্রকাশ পেল কীভাবে। আল্লাহ তোমাদের পিতা আদম (আঃ)-কে যে সম্মান দিয়েছিলেন, তাতে হিংসা করে শয়তান তাঁকে সিজদা করতে অস্বীকার করে। তারপর তাঁকে ধোঁকা দিতে থাকে, যতক্ষণ না আদম (আঃ) ও তাঁর স্ত্রীকে জান্নাত থেকে বের করিয়ে ছাড়ে।"
           },
           {
             "en": "That is the background at-Tabari gives, and it is enough. The enmity did not begin with any one person's sins; it began with a refusal and a grudge aimed at the father of every reader of this verse. An enemy who announced himself that early leaves no room for the plea that nobody knew. As-Sa'di draws out the same point from Allah's side: so I warned you against him with the utmost warning, cautioned you against obeying him, and told you what he calls you to.",
@@ -1333,11 +1333,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "To show that obedience can amount to worship, Ma'arif al-Qur'an refers on this verse to a hadith about the person who becomes the servant of his money. One wording is in Sahih al-Bukhari, number 2886, from Abu Hurayra (RA): the Prophet (peace be upon him) said, Let the slave of the dinar and the dirham, of the qatifa and the khamisa perish, for he is pleased if these things are given to him, and if not, he is displeased. The qatifa and khamisa are fine cloths; the translator glosses them as money and luxurious clothes.",
-            "bn": "আনুগত্য যে ইবাদতের পর্যায়ে পৌঁছাতে পারে, তা বোঝাতে মাআরিফুল কুরআন এ আয়াতের আলোচনায় এক হাদীসের দিকে ইঙ্গিত করে। হাদীসটি সেই মানুষ নিয়ে, যে নিজের সম্পদের গোলাম হয়ে যায়। এর একটি ভাষ্য আছে সহীহ বুখারীতে, ২৮৮৬ নম্বরে, আবু হুরাইরা (রাঃ) থেকে। নবী ﷺ বলেছেন: দিনার আর দিরহামের গোলাম, কাতীফা আর খামীসার গোলাম ধ্বংস হোক। তাকে এগুলো দেওয়া হলে সে খুশি, না দেওয়া হলে নাখোশ। কাতীফা আর খামীসা দামি কাপড়। অনুবাদক এদের ব্যাখ্যা করেছেন সম্পদ আর বিলাসী পোশাক বলে।"
+            "bn": "আনুগত্য যে ইবাদতের পর্যায়ে পৌঁছাতে পারে, তা বোঝাতে মাআরিফুল কুরআন এ আয়াতের আলোচনায় একটি হাদিসের কথা আনে। হাদিসটি এমন মানুষকে নিয়ে, যে নিজের সম্পদের গোলাম হয়ে যায়। এর একটি বর্ণনা আছে সহীহ বুখারীতে, ২৮৮৬ নম্বরে, আবু হুরাইরা (রাঃ) থেকে। নবী ﷺ বলেছেন: দিনার আর দিরহামের গোলাম, কাতীফা আর খামীসার গোলাম ধ্বংস হোক। তাকে এগুলো দেওয়া হলে সে খুশি, না দেওয়া হলে নাখোশ। কাতীফা আর খামীসা হলো দামি কাপড়। অনুবাদক এগুলোর অর্থ করেছেন সম্পদ আর বিলাসী পোশাক।"
           },
           {
             "en": "Some caution is needed. Ma'arif's paraphrase also speaks of a servant of the spouse, but the Bukhari wording quoted here does not contain that phrase, so this article does not attach it to al-Bukhari. And no tafsir fetched for 36:60 ties this hadith to the verse as its occasion; it is a general narration, brought in by Ma'arif only to explain what worship means. Its place in his Sahih is al-Bukhari's own mark of soundness, though he notes after it that Israʾil narrated it from Abu Hasin without raising it to the Prophet.",
-            "bn": "এখানে কিছু সতর্কতা দরকার। মাআরিফুল কুরআনের ভাষ্যে স্ত্রীর গোলামের কথাও আছে, কিন্তু এখানে উদ্ধৃত বুখারীর ভাষ্যে সে কথা নেই। তাই এ লেখা ওই অংশটুকু বুখারীর নামে জুড়ে দিচ্ছে না। আর ৩৬:৬০-এর জন্য দেখা কোনো তাফসীর এ হাদীসকে আয়াত নাযিলের উপলক্ষ হিসেবে বাঁধেনি। এটি সাধারণ একটি বর্ণনা। মাআরিফুল কুরআন এনেছে শুধু ইবাদতের অর্থ বোঝাতে। সহীহ গ্রন্থে এর স্থান পাওয়াই বুখারীর নিজের দেওয়া বিশুদ্ধতার স্বীকৃতি। তবে হাদীসের পরে তিনি উল্লেখ করেছেন, ইসরাঈল এটি আবু হাসীন থেকে বর্ণনা করেছেন নবী ﷺ পর্যন্ত না পৌঁছিয়ে।"
+            "bn": "এখানে কিছু সতর্কতা দরকার। মাআরিফুল কুরআনের বর্ণনায় স্ত্রীর গোলামের কথাও আছে, কিন্তু এখানে উদ্ধৃত বুখারীর শব্দে সে কথা নেই। তাই এ লেখা ওই অংশটুকু বুখারীর নামে জুড়ে দিচ্ছে না। আর ৩৬:৬০-এর জন্য দেখা কোনো তাফসীর এ হাদিসকে আয়াত নাজিলের উপলক্ষ হিসেবে জোড়েনি। এটা একটা সাধারণ বর্ণনা। মাআরিফুল কুরআন এনেছে শুধু ইবাদতের অর্থ বোঝাতে। সহীহ গ্রন্থে এর স্থান পাওয়াই বুখারীর নিজের দেওয়া বিশুদ্ধতার স্বীকৃতি। তবে হাদিসের পরে তিনি উল্লেখ করেছেন, ইসরাঈল এটি আবু হাসীন থেকে বর্ণনা করেছেন নবী ﷺ পর্যন্ত না পৌঁছিয়ে।"
           }
         ]
       },
@@ -1353,7 +1353,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Because the address is to humanity, the verse is not a label to pin on anyone now living. It describes what Allah will say to those judged on that Day, and the judging is His alone. It licenses nothing against any living person or community, and gives no one the right to call a neighbour, a rival or another group the party of Satan. The only person a reader can usefully test against this verse is the one holding the book.",
-            "bn": "সম্বোধন যেহেতু গোটা মানবজাতির প্রতি, তাই আজ বেঁচে থাকা কারও গায়ে সাঁটার মতো তকমা এ আয়াত নয়। আয়াতটি বলে, সে দিন যাদের বিচার হবে, তাদের আল্লাহ কী বলবেন। আর বিচার একমাত্র তাঁরই। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, প্রতিপক্ষ বা অন্য কোনো দলকে শয়তানের দল বলে দাগানোর অধিকারও কাউকে দেয় না। এ আয়াতের মাপকাঠিতে পাঠক কাজের মতো করে যাচাই করতে পারেন শুধু একজনকে: যিনি কিতাবটি হাতে ধরে আছেন।"
+            "bn": "সম্বোধন যেহেতু গোটা মানবজাতির প্রতি, তাই আজ বেঁচে থাকা কারও গায়ে সাঁটার মতো তকমা এ আয়াত নয়। আয়াতটি বলে, সে দিন যাদের বিচার হবে, তাদের আল্লাহ কী বলবেন। আর বিচার একমাত্র তাঁরই। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, প্রতিপক্ষ বা অন্য কোনো দলকে শয়তানের দল বলে দাগানোর অধিকারও কাউকে দেয় না। এ আয়াত দিয়ে মেপে দেখে সত্যিকারের লাভ হয় শুধু একজনের বেলায়: যিনি কিতাবটি হাতে নিয়ে পড়ছেন।"
           }
         ]
       },
@@ -1365,7 +1365,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "On that Day the question will need no reply; the record will already have answered it. Today it is different. The charge described by al-Qurtubi and as-Sa'di is still being delivered, on the tongues of the messengers, through the Book that carries their message. Each time Allah's command and some other voice pull in opposite directions, the reader is being asked the question early, and the choice made then is the real answer.",
-            "bn": "সে দিন প্রশ্নটার কোনো জবাব লাগবে না। আমলনামাই তার জবাব দিয়ে রাখবে। আজকের ব্যাপারটা আলাদা। কুরতুবী আর সা'দী যে নির্দেশের কথা বলেন, তা এখনো পৌঁছে চলেছে রাসূলদের মুখে, সেই কিতাবের মাধ্যমে যা তাঁদের বাণী বয়ে আনে। যখনই আল্লাহর হুকুম আর অন্য কোনো ডাক দুই দিকে টানে, পাঠককে প্রশ্নটা আগেভাগেই করা হচ্ছে। তখন যে সিদ্ধান্ত নেওয়া হয়, সেটাই আসল জবাব।"
+            "bn": "সে দিন প্রশ্নটার কোনো জবাব লাগবে না। আমলনামাই তার জবাব দিয়ে রাখবে। আজকের ব্যাপারটা আলাদা। কুরতুবী আর সা'দী যে নির্দেশের কথা বলেন, তা এখনো পৌঁছে চলেছে রাসূলদের মুখে, সেই কিতাবের মাধ্যমে যা তাঁদের বাণী বয়ে আনে। যখনই আল্লাহর হুকুম আর অন্য কোনো ডাক দুই দিকে টানে, প্রশ্নটা তখনই আগেভাগে পাঠকের সামনে এসে দাঁড়ায়। আর তখন তিনি যা বেছে নেন, সেটাই আসল জবাব।"
           },
           {
             "en": "The enemy does not usually ask for open allegiance. He asks for small permissions: a prayer delayed, a word said that should not be, money taken from where it should not come. As-Sa'di's point is that each of these is obedience to him in its measure. Seeing that clearly is not meant to frighten a believer into despair. It is meant to let him recognise the voice for what it is and turn back towards the Lord who created him and provides for him.",
@@ -1433,7 +1433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi then quotes Ibn al-'Arabi, who says the verse is no fault-finding with poetry, just as 29:48, which says the Prophet recited no book before this and wrote none with his right hand, is no fault-finding with writing. Al-Qurtubi adds a story of the caliph al-Ma'mun, who rebuked a man for excusing his illiteracy and his broken verse by the Prophet's example: in the Prophet it was a virtue, in you a defect. It was withheld from him to remove suspicion, not because poetry or writing is a fault.",
-            "bn": "এরপর কুরতুবী ইবনুল আরাবীর কথা আনেন। তাঁর মতে এ আয়াত কবিতার দোষ ধরছে না। ঠিক যেমন ২৯:৪৮ আয়াত, যেখানে বলা হয়েছে এর আগে নবী কোনো কিতাব পড়তেন না আর ডান হাতে কিছু লিখতেনও না, তা লেখালেখির দোষ ধরে না। কুরতুবী খলিফা মামুনের একটা ঘটনাও আনেন। এক লোক নিজের নিরক্ষরতা আর ছন্দ ভাঙার অজুহাত দিচ্ছিল নবীর উদাহরণ টেনে। মামুন তাকে ধমক দিয়ে বললেন, নবীর বেলায় এটা ছিল মর্যাদা, তোমার বেলায় এটা ঘাটতি। সন্দেহ দূর করতেই তাঁকে এ থেকে দূরে রাখা হয়েছিল, কবিতা বা লেখা দোষের বলে নয়।"
+            "bn": "এরপর কুরতুবী ইবনুল আরাবীর কথা আনেন। ২৯:৪৮ আয়াত বলছে, এর আগে নবী কোনো কিতাব পড়তেন না, ডান হাতে কিছু লিখতেনও না। ইবনুল আরাবী বলেন, সে আয়াত যেমন লেখালেখির দোষ ধরে না, এ আয়াতও তেমনি কবিতার দোষ ধরে না। কুরতুবী খলিফা মামুনের একটা ঘটনাও আনেন। এক লোক নিজের নিরক্ষরতা আর ছন্দ ভাঙার অজুহাত দিচ্ছিল নবীর উদাহরণ টেনে। মামুন তাকে ধমক দিয়ে বললেন, নবীর বেলায় এটা ছিল মর্যাদা, তোমার বেলায় এটা ঘাটতি। সন্দেহ দূর করতেই তাঁকে এ থেকে দূরে রাখা হয়েছিল, কবিতা বা লেখা দোষের বলে নয়।"
           }
         ]
       },
@@ -1465,7 +1465,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari, with his chain to Qatada, and Ibn Kathir report that Aisha (RA) was asked whether the Messenger of Allah ﷺ used to quote any poetry. She said: it was the most hated speech to him, except that he would quote a line of the brother of Banu Qays, putting its end first and its beginning last. Abu Bakr (RA) said: it is not like that. He replied: by Allah, I am not a poet, nor is it befitting for me. His reply repeats the verse's own wording.",
-            "bn": "তাবারী কাতাদা পর্যন্ত নিজের সনদে, আর ইবন কাসীরও, বর্ণনা করেন যে আয়িশা (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, রাসূলুল্লাহ ﷺ কি কবিতা থেকে কিছু উদ্ধৃত করতেন? তিনি বললেন, কবিতা ছিল তাঁর কাছে সবচেয়ে অপছন্দের কথা। তবে বনু কায়সের এক লোকের একটা পঙক্তি তিনি উদ্ধৃত করতেন, শেষটা আগে আর শুরুটা পরে বসিয়ে। আবু বকর (রাঃ) বললেন, পঙক্তিটা এরকম নয়। তিনি বললেন, আল্লাহর কসম, আমি কবি নই, আর তা আমার জন্য শোভনও নয়। তাঁর জবাবে আয়াতের শব্দগুলোই ফিরে আসে।"
+            "bn": "তাবারী কাতাদা পর্যন্ত নিজের সনদে বর্ণনা করেন, ইবন কাসীরও করেন: আয়িশা (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, রাসূলুল্লাহ ﷺ কি কবিতা থেকে কিছু উদ্ধৃত করতেন? তিনি বললেন, কবিতা ছিল তাঁর কাছে সবচেয়ে অপছন্দের কথা। তবে বনু কায়সের এক লোকের একটা পঙক্তি তিনি উদ্ধৃত করতেন, শেষটা আগে আর শুরুটা পরে বসিয়ে। আবু বকর (রাঃ) বললেন, পঙক্তিটা এরকম নয়। তিনি বললেন, আল্লাহর কসম, আমি কবি নই, আর তা আমার জন্য শোভনও নয়। তাঁর জবাবে আয়াতের শব্দগুলোই ফিরে আসে।"
           },
           {
             "en": "Ma'mar's version from Qatada, which opens it reached me, appears in al-Baghawi and Ibn Kathir and names the poet: Tarafa. The full line runs sa-tubdi laka al-ayyamu ma kunta jahilan, wa ya'tika bil-akhbari man lam tuzawwidi: the days will show you what you did not know, and news will be brought by someone you never provisioned. In this report he said it as wa ya'tika man lam tuzawwid bil-akhbar, the news moved to the end. Al-Qurtubi gives it inverted too.",
@@ -1493,7 +1493,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He went on: I have laid his words against the measures of poetry, and it will not hold on anyone's tongue after me that it is poetry. By Allah, he is truthful and they are liars. The hadith is not narrated as commentary on this verse; al-Qurtubi brings it here. Ibn Kathir also cites Imam Ahmad, ungraded, from Aisha (RA): poetry was the most hated speech to him.",
-            "bn": "তারপর বললেন: আমি তাঁর কথাকে কবিতার ছন্দের মাপে বসিয়ে দেখেছি। আমার পরে কারও মুখে এ কথা মানাবে না যে এটা কবিতা। আল্লাহর কসম, তিনি সত্যবাদী, আর ওরা মিথ্যাবাদী। হাদীসটি এ আয়াতের ব্যাখ্যা হিসেবে বর্ণিত হয়নি, কুরতুবী এখানে এনেছেন। ইবন কাসীর ইমাম আহমাদের সূত্রে আয়িশা (রাঃ)-এর কথাও আনেন, মান নির্ণয় ছাড়া: কবিতা ছিল তাঁর কাছে সবচেয়ে অপছন্দের কথা।"
+            "bn": "তারপর বললেন: আমি তাঁর কথাকে কবিতার ছন্দের মাপে বসিয়ে দেখেছি। আমার পরে কেউ একে কবিতা বললে সে কথা টিকবে না। আল্লাহর কসম, তিনি সত্যবাদী, আর ওরা মিথ্যাবাদী। হাদিসটি এ আয়াতের ব্যাখ্যা হিসেবে বর্ণিত হয়নি। কুরতুবী নিজে একে এখানে এনেছেন। ইবন কাসীর ইমাম আহমাদের সূত্রে আয়িশা (রাঃ)-এর কথাও আনেন, মান নির্ণয় ছাড়া: কবিতা ছিল তাঁর কাছে সবচেয়ে অপছন্দের কথা।"
           }
         ]
       },
@@ -1525,11 +1525,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In huwa illa dhikrun wa qur'anun mubin: it is nothing but a reminder and a clear Qur'an. The commentators differ on what it refers to. At-Tabari takes it as Muhammad ﷺ himself: he is nothing but a reminder to you, Allah reminding you by sending him and alerting you to your share. Al-Baghawi takes it as the Qur'an. Ibn Kathir reads it as what We taught him, and al-Qurtubi as what he recites to you.",
-            "bn": "ইন হুয়া ইল্লা যিকরুন ওয়া কুরআনুম মুবীন: এ তো কেবল উপদেশ আর সুস্পষ্ট কুরআন। হুয়া বলতে কী বোঝানো হয়েছে, তাফসীরকারেরা এক কথা বলেন না। তাবারীর মতে এ খোদ মুহাম্মাদ ﷺ। তিনি তোমাদের জন্য উপদেশ মাত্র, তাঁকে পাঠিয়ে আল্লাহ তোমাদের মনে করিয়ে দিয়েছেন আর তোমাদের ভাগ্যের দিকে সজাগ করেছেন। বাগাভীর মতে এ হলো কুরআন। ইবন কাসীর পড়েন, যা আমি তাঁকে শিখিয়েছি। কুরতুবী পড়েন, যা তিনি তোমাদের সামনে তিলাওয়াত করেন।"
+            "bn": "ইন হুয়া ইল্লা যিকরুন ওয়া কুরআনুম মুবীন: এ তো কেবল উপদেশ আর সুস্পষ্ট কুরআন। হুয়া বলতে কী বোঝানো হয়েছে, তাফসীরকারেরা এক কথা বলেন না। তাবারীর মতে এ খোদ মুহাম্মাদ ﷺ। তিনি তোমাদের জন্য উপদেশ মাত্র, তাঁকে পাঠিয়ে আল্লাহ তোমাদের মনে করিয়ে দিয়েছেন আর তোমাদের নিজেদের কল্যাণের ব্যাপারে সজাগ করেছেন। বাগাভীর মতে এ হলো কুরআন। ইবন কাসীর পড়েন, যা আমি তাঁকে শিখিয়েছি। কুরতুবী পড়েন, যা তিনি তোমাদের সামনে তিলাওয়াত করেন।"
           },
           {
             "en": "On the two nouns, al-Baghawi glosses dhikr as exhortation and says the clear Qur'an holds the obligations, the limits and the rulings. As-Sa'di says it reminds minds of what Allah set in their natures, the command to every good and the ban on every ugliness. At-Tabari adds that it shows whoever ponders that it is revelation, not poetry and not a soothsayer's speech.",
-            "bn": "শব্দ দুটি নিয়ে বাগাভী বলেন, যিকর মানে নসিহত, আর সুস্পষ্ট কুরআনে আছে ফরযসমূহ, সীমারেখা আর বিধান। সা'দী বলেন, আল্লাহ মানুষের ফিতরাতে যা গেঁথে দিয়েছেন, সব ভালোর আদেশ আর সব মন্দের নিষেধ, এ কিতাব বিবেককে তা মনে করিয়ে দেয়। তাবারী যোগ করেন, যে চিন্তা করে তার কাছে এটি স্পষ্ট করে দেয় যে এ ওহী, কবিতা নয়, গণকের কথাও নয়।"
+            "bn": "শব্দ দুটি নিয়ে বাগাভী বলেন, জিকির মানে নসিহত, আর সুস্পষ্ট কুরআনে আছে ফরজগুলো, সীমারেখা আর বিধান। সা'দী বলেন, আল্লাহ মানুষের ফিতরাতে যা গেঁথে দিয়েছেন, অর্থাৎ সব ভালোর আদেশ আর সব মন্দের নিষেধ, এ কিতাব বিবেককে তা মনে করিয়ে দেয়। তাবারী যোগ করেন, যে ভেবে দেখে, সে এ থেকেই বুঝে নেয় যে এটা ওহি, কবিতা নয়, গণকের কথাও নয়।"
           },
           {
             "en": "The verse turns attention from the Messenger's tongue to the listener's ear. The labels on offer let its hearers admire or dismiss without obeying. A reminder cannot be kept at that distance; it asks to be acted on, and a clear Book asks to be understood, not only enjoyed. Finding a recitation beautiful is a real gift; the next step is asking what the words said to do.",
@@ -1549,7 +1549,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Awa-lam yara al-insanu anna khalaqnahu min nutfatin fa-idha huwa khasimun mubin: does man not see that We created him from a drop, and then, at once, he is a clear adversary? The verse follows directly on 36:76, where the Prophet ﷺ is told not to let their speech grieve him, because Allah knows what they hide and what they declare. The verses before that spoke of livestock created and tamed for people, and of gods taken that cannot help them. Now the address turns away from the grieving Prophet ﷺ towards the man whose words caused the grief.",
-            "bn": "আওয়ালাম ইয়ারাল ইনসানু আন্না খালাকনাহু মিন নুতফাতিন ফাইযা হুয়া খাসীমুম মুবীন: মানুষ কি দেখে না, আমি তাকে এক ফোঁটা শুক্র থেকে সৃষ্টি করেছি, আর তারপরই সে হয়ে গেল প্রকাশ্য ঝগড়াটে? ঠিক আগের আয়াত ৩৬:৭৬-এ নবী ﷺ-কে বলা হয়েছে, ওদের কথা যেন তাঁকে কষ্ট না দেয়। কারণ ওরা যা লুকায় আর যা প্রকাশ করে, আল্লাহ সবই জানেন। তার আগের আয়াতগুলোতে ছিল মানুষের জন্য বানানো ও বশ মানানো পশুর কথা, আর এমন সব উপাস্যের কথা, যারা কোনো সাহায্য করতে পারে না। এবার কথার মুখ ফেরে। দুঃখ পাওয়া নবী ﷺ-এর দিক থেকে সরে তা যায় সেই লোকের দিকে, যার কথায় দুঃখটা এসেছিল।"
+            "bn": "আওয়ালাম ইয়ারাল ইনসানু আন্না খালাকনাহু মিন নুতফাতিন ফাইযা হুয়া খাসীমুম মুবীন: মানুষ কি দেখে না, আমি তাকে এক ফোঁটা শুক্র থেকে সৃষ্টি করেছি, আর তারপরই সে হয়ে গেল প্রকাশ্য ঝগড়াটে? ঠিক আগের আয়াত ৩৬:৭৬-এ নবী ﷺ-কে বলা হয়েছে, ওদের কথা যেন তাঁকে কষ্ট না দেয়। কারণ ওরা যা লুকায় আর যা প্রকাশ করে, আল্লাহ সবই জানেন। তার আগের আয়াতগুলোতে ছিল মানুষের জন্য বানানো ও বশ মানানো পশুর কথা, আর এমন সব উপাস্যের কথা, যারা কোনো সাহায্য করতে পারে না। এবার কথার মুখ ঘুরে যায়। দুঃখ পাওয়া নবী ﷺ-কে ছেড়ে কথা এবার সেই লোকের দিকে, যার কথায় দুঃখটা এসেছিল।"
           },
           {
             "en": "The question is built on the verb of seeing, yara, but the commentators read it as seeing with the mind. Ibn Kathir paraphrases it this way: does the one who denies the resurrection not take the beginning as proof of the return? The Muyassar puts it in nearly the same terms: does man, the denier of the resurrection, not see the beginning of his own creation, and infer from it his coming back? As-Sa'di says the verse points the denier, and the one who doubts, to something that gives complete certainty the resurrection will happen, and that something is his own beginning.",
@@ -1573,7 +1573,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other commentators fetched here show the same spread. Al-Qurtubi gives all three names: Abdullah ibn Ubayy from Ibn Abbas, al-As ibn Wa'il from Sa'id ibn Jubayr, and Ubayy ibn Khalaf al-Jumahi from al-Hasan, adding that Ibn Ishaq said the same and that Ibn Wahb narrated it from Malik. Al-Baghawi names only Ubayy ibn Khalaf al-Jumahi, saying in his own voice that the verse came down about him, a man who disputed with the Prophet ﷺ in denying the resurrection. Ma'arif al-Qur'an mentions Ubayy and al-As, and sees no improbability in the event having happened with both.",
-            "bn": "এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের অন্যদের লেখাতেও একই ছড়ানো ছবি। কুরতুবী তিনটি নামই আনেন। ইবন আব্বাস থেকে আবদুল্লাহ ইবন উবাই, সাঈদ ইবন জুবাইর থেকে আস ইবন ওয়াইল, আর হাসান থেকে উবাই ইবন খালাফ জুমাহী। সঙ্গে যোগ করেন, ইবন ইসহাকও তা-ই বলেছেন, আর ইবন ওয়াহব এটি মালিক থেকে বর্ণনা করেছেন। বাগাভী শুধু উবাই ইবন খালাফ জুমাহীর নাম নেন। নিজের ভাষায় বলেন, আয়াতটি নাযিল হয়েছে তাকে নিয়েই, যে পুনরুত্থান অস্বীকার করে নবী ﷺ-এর সঙ্গে ঝগড়া করেছিল। মাআরিফুল কুরআন উবাই ও আস দুজনের কথাই বলে, আর মনে করে, ঘটনাটা দুজনের বেলাতেই ঘটে থাকতে পারে, এতে অসম্ভব কিছু নেই।"
+            "bn": "এখানে দেখা অন্য তাফসীরগুলোতেও মতের একই রকম ছড়াছড়ি। কুরতুবী তিনটি নামই আনেন। ইবন আব্বাস থেকে আবদুল্লাহ ইবন উবাই, সাঈদ ইবন জুবাইর থেকে আস ইবন ওয়াইল, আর হাসান থেকে উবাই ইবন খালাফ জুমাহী। সঙ্গে যোগ করেন, ইবন ইসহাকও তা-ই বলেছেন, আর ইবন ওয়াহব এটি মালিক থেকে বর্ণনা করেছেন। বাগাভী শুধু উবাই ইবন খালাফ জুমাহীর নাম নেন। নিজের ভাষায় বলেন, আয়াতটি নাজিল হয়েছে তাকে নিয়েই, যে পুনরুত্থান অস্বীকার করে নবী ﷺ-এর সঙ্গে ঝগড়া করেছিল। মাআরিফুল কুরআন উবাই ও আস দুজনের কথাই বলে, আর মনে করে, ঘটনাটা দুজনের বেলাতেই ঘটে থাকতে পারে, এতে অসম্ভব কিছু নেই।"
           }
         ]
       },
@@ -1609,7 +1609,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Qatada's report in at-Tabari ends with a further sentence: the Messenger of Allah ﷺ killed Ubayy ibn Khalaf on the day of Uhud. It is given here because the source carries it, and only as a report of history, under the view that names Ubayy. The verse describes what the text describes, a named man's dispute in the Prophet's time, and it licenses nothing against any living person or community. It gives no one a warrant to treat a person who doubts the Hereafter today as an enemy to be harmed.",
-            "bn": "তাবারীতে কাতাদার বর্ণনা শেষ হয় আরও একটি বাক্যে: উহুদের দিন রাসূলুল্লাহ ﷺ উবাই ইবন খালাফকে হত্যা করেন। কথাটা এখানে আনা হলো কেবল এই কারণে যে সূত্রে তা আছে, আর তা আনা হলো ইতিহাসের খবর হিসেবেই, উবাইয়ের নাম নেওয়া মতের অধীনে। আয়াতটি সেটুকুই বর্ণনা করে, যা পাঠে আছে: নবী ﷺ-এর যুগে নির্দিষ্ট এক লোকের বিবাদ। বর্তমানের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কেউ আখিরাত নিয়ে সন্দেহ করলে তাকে শত্রু ভেবে ক্ষতি করার কোনো ছাড়পত্রও এতে নেই।"
+            "bn": "তাবারীতে কাতাদার বর্ণনা শেষ হয় আরও একটি বাক্যে: উহুদের দিন রাসূলুল্লাহ ﷺ উবাই ইবন খালাফকে হত্যা করেন। সূত্রে কথাটা আছে বলেই এখানে আনা হলো, শুধু ইতিহাসের খবর হিসেবে, আর তা-ও কেবল সেই মতের অধীনে, যে মত উবাইয়ের নাম নেয়। আয়াতটি সেটুকুই বর্ণনা করে, যা পাঠে আছে: নবী ﷺ-এর যুগে নির্দিষ্ট এক লোকের বিবাদ। বর্তমানের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কেউ আখিরাত নিয়ে সন্দেহ করলে তাকে শত্রু ভেবে ক্ষতি করার কোনো ছাড়পত্রও এতে নেই।"
           }
         ]
       },
