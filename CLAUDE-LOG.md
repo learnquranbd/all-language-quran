@@ -40,7 +40,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN (21): 21:7 s0.p2 "A line before, in 21:5" (two verses before); 21:47-48 s2.p1 "the first view" ambiguous (metaphor view given first); 21:25 s7.h "One Lord, One Ear" doesn't match its section.
 - Shards 18 + 21 DONE v985. Open EN (18): 18:57 s2.p1 "he left off his disbelief and his sins and did not repent" reads as gave them up (Qurtubi: left them unaddressed).
 - Shard 4 DONE v986 (8/8 + spelling, 124 swaps; zann = যান্ন). Open EN (4): 4:78 s4.p1 says of 3:165 "they are told to say it is from yourselves" (the Prophet is told to say it to them); 4:109 s5.p2 "What has no substitute is an advocate" ambiguous; 4:165 s3.p1 glosses "loving excuse" as giving every chance to excuse themselves (hadith 'udhr = leaving no excuse by warning first); 4:1 s7.p0 "If my family knew that Allah was watching" (likely "if I kept in mind"); 4:36 s0.p0 "a single preposition" though bi- repeats.
-- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 8/8, 6: 3/8
+- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 8/8, 6: 4/8
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows

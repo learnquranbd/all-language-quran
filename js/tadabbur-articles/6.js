@@ -1661,15 +1661,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No narration is given as an occasion for this verse, and none is needed. What the Sunnah does have is a supplication that says the verse back. Al-Bukhari records from Ibn Abbas (RA) that when the Prophet ﷺ stood for prayer in the night he would say: O Allah, to You belongs praise; You are the Truth, and Your promise is the truth, and Your word is the truth, and the meeting with You is true, and the Garden is true, and the Fire is true, and the Hour is true (Sahih al-Bukhari 1120).",
-            "bn": "এই আয়াতের শানে নুযূল হিসেবে কোনো বর্ণনা দেওয়া হয় না, দরকারও নেই। সুন্নাহর কাছে যা আছে তা এমন এক দু’আ যা আয়াতটাকেই ফিরিয়ে বলে। ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ রাতে নামাযে দাঁড়িয়ে বলতেন: হে আল্লাহ, সমস্ত প্রশংসা আপনার; আপনিই সত্য, আপনার ওয়াদা সত্য, আপনার কথা সত্য, আপনার সাক্ষাৎ সত্য, জান্নাত সত্য, জাহান্নাম সত্য, আর কিয়ামত সত্য (সহীহ বুখারী ১১২০)।"
+            "bn": "এই আয়াতের কোনো শানে নুযূল বর্ণিত নেই, তার দরকারও নেই। তবে সুন্নাহয় একটি দু’আ আছে, যাতে আয়াতটাই ফিরে আসে। ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ রাতে নামাজে দাঁড়িয়ে বলতেন: হে আল্লাহ, সমস্ত প্রশংসা আপনার; আপনিই সত্য, আপনার ওয়াদা সত্য, আপনার কথা সত্য, আপনার সাক্ষাৎ সত্য, জান্নাত সত্য, জাহান্নাম সত্য, আর কিয়ামত সত্য (সহীহ বুখারী ১১২০)।"
           },
           {
             "en": "Set the two texts side by side and the borrowing is plain. The verse says His word is the truth; the supplication says Your word is the truth. The verse names the day the Horn is blown; the supplication names the Hour. What the verse states about Him, the one praying says to Him, in the second half of the night, with nobody listening. That is what tadabbur looks like when it has finished being a thought.",
-            "bn": "দুটো লেখা পাশাপাশি রাখলে ধার নেওয়াটা স্পষ্ট হয়ে যায়। আয়াত বলে তাঁর কথাই সত্য; দু’আ বলে আপনার কথা সত্য। আয়াত নাম নেয় সিঙ্গায় ফুঁ দেওয়ার দিনের; দু’আ নাম নেয় কিয়ামতের। আয়াত তাঁর সম্পর্কে যা বলে, বান্দা রাতের শেষ ভাগে সেটাই তাঁকে বলে, শোনার কেউ না থাকতে। ভাবনাটা যখন কেবল ভাবনা থাকে না, তাদাব্বুর তখন এমনই দেখায়।"
+            "bn": "দুটো লেখা পাশাপাশি রাখলেই বোঝা যায়, দু’আটি আয়াত থেকেই নেওয়া। আয়াত বলে, তাঁর কথাই সত্য; দু’আ বলে, আপনার কথা সত্য। আয়াতে আছে সিঙ্গায় ফুঁ দেওয়ার দিনের কথা; দু’আয় আছে কিয়ামতের কথা। আয়াত তাঁর সম্পর্কে যা বলে, বান্দা রাতের শেষার্ধে সেটাই তাঁকে বলে, যখন শোনার আর কেউ নেই। ভাবনা যখন কেবল ভাবনা হয়ে থাকে না, তাদাব্বুর তখন এমনই দেখায়।"
           },
           {
             "en": "A short supplication in the verse's own vocabulary may be added to that, offered as such and not as a transmitted wording: O Knower of the hidden and the witnessed, You made the heavens and the earth in truth, so do not let me live in them as though they were a game. Your word does not fail; fasten my heart to it. And on the day the Horn is blown, when the kingdom is Yours and no one else's, let me be among those You are pleased with.",
-            "bn": "এর সঙ্গে আয়াতের নিজের শব্দ ধরে ছোট একটি প্রার্থনা যোগ করা যায়, যা বর্ণিত দু’আ নয়, এভাবেই পেশ করা: হে গায়েব ও প্রকাশ্যের জ্ঞানী, আপনি আসমান-যমীন সত্য দিয়ে বানিয়েছেন; এর ভেতরে আমাকে খেলার মতো করে বাঁচতে দেবেন না। আপনার কথা ব্যর্থ হয় না; আমার অন্তরটা সেই কথার সঙ্গে বেঁধে দিন। আর যেদিন সিঙ্গায় ফুঁ দেওয়া হবে, যেদিন রাজত্ব কেবল আপনারই, সেদিন আমাকে রাখুন তাদের দলে যাদের প্রতি আপনি সন্তুষ্ট।"
+            "bn": "এর সঙ্গে আয়াতের শব্দ দিয়েই গড়া ছোট একটি দু’আ যোগ করা যায়। এটি বর্ণিত দু’আর শব্দ নয়, নিজেদের গড়া দু’আ হিসেবেই বলা: হে গায়েব ও প্রকাশ্যের জ্ঞানী, আপনি আসমান-যমীন সত্য দিয়ে সৃষ্টি করেছেন; এগুলোকে খেলা ভেবে যেন আমি এখানে জীবন না কাটাই। আপনার কথা কখনো ব্যর্থ হয় না; আমার অন্তরটা সেই কথার সঙ্গে বেঁধে দিন। আর যেদিন সিঙ্গায় ফুঁ দেওয়া হবে, যেদিন রাজত্ব কেবল আপনারই, সেদিন আমাকে তাদের দলে রাখুন যাদের উপর আপনি সন্তুষ্ট।"
           }
         ]
       },
@@ -1697,11 +1697,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first use of this verse is against the suspicion that nothing finally means anything. That suspicion rarely announces itself; it shows up as an inability to care about small right actions. The verse answers at the level of the whole: the place you are standing in was made in truth, by someone who does not begin what He will abandon. A believer who takes that in stops needing every good deed to produce a visible result before it feels worth doing.",
-            "bn": "এই আয়াতের প্রথম কাজ সেই সন্দেহের বিরুদ্ধে, যা বলে শেষ পর্যন্ত কোনো কিছুরই মানে নেই। সন্দেহটা সাধারণত নিজের নাম ঘোষণা করে না; দেখা দেয় ছোট ছোট ভালো কাজের প্রতি অনীহা হয়ে। আয়াত জবাব দেয় গোটাটার স্তরে: আপনি যে জায়গায় দাঁড়িয়ে আছেন তা সত্য দিয়ে বানানো, আর যিনি বানিয়েছেন তিনি যা শুরু করেন তা ফেলে রাখেন না। কথাটা ভেতরে ঢুকে গেলে প্রতিটি নেক কাজের চোখে দেখা ফল না পেলেও তা করতে আর আটকায় না।"
+            "bn": "এই আয়াতের প্রথম কাজ একটি সন্দেহের জবাব দেওয়া: শেষ পর্যন্ত কোনো কিছুরই কোনো মানে নেই। এই সন্দেহ সাধারণত নিজের পরিচয় দিয়ে আসে না; আসে ছোট ছোট ভালো কাজে মন না লাগার রূপ ধরে। আয়াত জবাব দেয় পুরো ছবিটা ধরে: আপনি যেখানে দাঁড়িয়ে আছেন, তা সত্য দিয়ে বানানো, আর যিনি বানিয়েছেন তিনি কোনো কিছু শুরু করে ফেলে রাখেন না। এ কথা যে মুমিনের অন্তরে বসে যায়, প্রতিটি নেক কাজের চোখে-দেখা ফল তার আর দরকার হয় না; ফল না দেখেও কাজটা তার কাছে করার মতো মনে হয়।"
           },
           {
             "en": "The second use is in how promises are weighed. People hold divine promises in a softer grip than human ones, because human promises come with consequences for breaking them. This verse reverses the grip. His word is the truth, so the forgiveness promised to the one who repents, the provision written for you, the meeting that is coming, are all firmer than the appointment in your calendar for tomorrow morning. Plan around the firmer ones.",
-            "bn": "দ্বিতীয় কাজ হলো ওয়াদার ওজন মাপায়। মানুষ আল্লাহর ওয়াদা ধরে রাখে ঢিলে হাতে, আর মানুষের ওয়াদা ধরে শক্ত করে, কারণ মানুষের ওয়াদা ভাঙলে ফল ভোগ করতে হয়। এই আয়াত হাতটা উল্টে দেয়। তাঁর কথাই সত্য। তাই তওবাকারীর জন্য মাফের ওয়াদা, আপনার নামে লেখা রিযিক, সামনে আসা সাক্ষাৎ, সবই আগামীকাল সকালের ডায়েরিতে লেখা অ্যাপয়েন্টমেন্টের চেয়ে বেশি পাকা। হিসাবটা পাকা জিনিসগুলো ধরেই সাজান।"
+            "bn": "দ্বিতীয় কাজটা ওয়াদা মাপার বেলায়। মানুষ আল্লাহর ওয়াদাকে মানুষের ওয়াদার চেয়ে হালকা করে ধরে, কারণ মানুষের ওয়াদা ভাঙলে তার মাশুল দিতে হয়। এই আয়াত হিসাবটা উল্টে দেয়। তাঁর কথাই সত্য। তাই তওবাকারীর জন্য মাফের ওয়াদা, আপনার নামে লেখা রিযিক, সামনে আসা সাক্ষাৎ, সবই কাল সকালের ক্যালেন্ডারে লেখা অ্যাপয়েন্টমেন্টের চেয়ে বেশি পাকা। জীবনের পরিকল্পনা সাজান এই বেশি পাকা জিনিসগুলো ধরেই।"
           }
         ]
       },
@@ -1733,11 +1733,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-An'am is Makkan, and 6:74 opens the account of Ibrahim (AS) with his words to his father Azar. 6:75 says the realm of the heavens and the earth was shown to him so that he would be among the certain, and 6:76 to 6:78 carry the night of the star, the moon and the sun, each of which he refused once it set. 6:79 is his conclusion, spoken to his people: he has turned his face to the One who created the heavens and the earth. Our passage begins in the silence right after that sentence.",
-            "bn": "সূরা আল-আনআম মাক্কী। ৬:৭৪ আয়াত ইবরাহীম (আঃ)-এর ঘটনা শুরু করে তাঁর পিতা আজরকে বলা কথা দিয়ে। ৬:৭৫ আয়াত বলে, আসমান-যমীনের রাজত্ব তাঁকে দেখানো হয়েছিল যাতে তিনি দৃঢ় বিশ্বাসীদের একজন হন। ৬:৭৬ থেকে ৬:৭৮ আয়াত বহন করে সেই রাতটি, তারা, চাঁদ ও সূর্য, যার প্রতিটিকে অস্ত যেতে দেখে তিনি ফিরিয়ে দিয়েছেন। ৬:৭৯ আয়াত তাঁর সিদ্ধান্ত, যা তিনি জাতিকে শুনিয়ে বলেন: তিনি আসমান-যমীনের স্রষ্টার দিকেই নিজের মুখ ফিরিয়ে নিয়েছেন। আমাদের অংশটি শুরু হয় ঠিক সেই বাক্যের পরের নীরবতা থেকে।"
+            "bn": "সূরা আল-আনআম মক্কী। ৬:৭৪ আয়াতে ইবরাহীম (আঃ)-এর ঘটনা শুরু হয় তাঁর পিতা আজরকে বলা কথা দিয়ে। ৬:৭৫ আয়াত বলে, আসমান-যমীনের রাজত্ব তাঁকে দেখানো হয়েছিল, যাতে তিনি দৃঢ় বিশ্বাসীদের একজন হন। ৬:৭৬ থেকে ৬:৭৮ আয়াতে সেই রাতের কথা: তারা, চাঁদ আর সূর্য; প্রতিটি অস্ত যেতেই তিনি সেটিকে প্রত্যাখ্যান করেছেন। ৬:৭৯ আয়াতে তাঁর সিদ্ধান্ত, জাতিকে শুনিয়ে বলা: তিনি আসমান-যমীনের স্রষ্টার দিকেই নিজের মুখ ফিরিয়েছেন। আমাদের অংশ শুরু হয় ঠিক সেই কথার পরের নীরবতা থেকে।"
           },
           {
             "en": "Four verses follow, and they are shaped like a debate with an interruption. Ibrahim (AS) speaks in 6:80 and in 6:81, ending on a question he puts to them. 6:82 answers that question in a voice that is not the crowd's. 6:83 stands outside the scene altogether and names what has just happened: that was Our argument, which We gave to Ibrahim against his people. Then 6:84 leaves the debate and begins listing the prophets given to him, so the argument is the last thing said before the reward is.",
-            "bn": "এরপর চারটি আয়াত, আর তাদের গড়ন এক বাদানুবাদের, মাঝখানে একটা ছেদসহ। ইবরাহীম (আঃ) কথা বলেন ৬:৮০ আয়াতে ও ৬:৮১ আয়াতে, শেষ করেন তাদের দিকে ছোড়া একটা প্রশ্ন দিয়ে। ৬:৮২ আয়াত সেই প্রশ্নের জবাব দেয় এমন এক কণ্ঠে, যা ভিড়ের কণ্ঠ নয়। ৬:৮৩ আয়াত দৃশ্যের বাইরে দাঁড়িয়ে নাম দেয় এইমাত্র যা ঘটল তার: এ আমারই যুক্তি, যা আমি ইবরাহীমকে দিয়েছিলাম তার জাতির বিপক্ষে। এরপর ৬:৮৪ আয়াত তর্ক ছেড়ে তাঁকে দেওয়া নবীদের তালিকা শুরু করে। অর্থাৎ পুরস্কারের ঠিক আগের কথাটাই এই যুক্তি।"
+            "bn": "এরপর চারটি আয়াত। গড়নে এগুলো যেন এক বিতর্ক, যার মাঝখানে অন্য এক কণ্ঠ ঢুকে পড়ে। ইবরাহীম (আঃ) কথা বলেন ৬:৮০ ও ৬:৮১ আয়াতে, আর শেষ করেন তাদের দিকে একটি প্রশ্ন ছুড়ে দিয়ে। ৬:৮২ আয়াত সেই প্রশ্নের জবাব দেয় এমন এক কণ্ঠে, যা ভিড়ের কণ্ঠ নয়। ৬:৮৩ আয়াত পুরো দৃশ্যের বাইরে দাঁড়িয়ে বলে দেয় এইমাত্র কী ঘটল: এ আমারই যুক্তি, যা আমি ইবরাহীমকে দিয়েছিলাম তার জাতির বিপক্ষে। এরপর ৬:৮৪ আয়াত তর্ক ছেড়ে তাঁকে দেওয়া নবীদের তালিকা শুরু করে। ফলে পুরস্কারের কথা আসার ঠিক আগের কথাটাই এই যুক্তি।"
           }
         ]
       },
@@ -1753,7 +1753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "His first answer does not take up their case at all. Atuhajjunni fi Allahi wa qad hadani: do you argue with me about Allah when He has already guided me? The clause about guidance is placed as the standing condition under which the whole conversation happens. A man who has been shown something does not go back to the question of whether it can be seen. Then the fear they are trying to raise is met with a sentence that keeps its limits: he does not fear what they set beside Allah, unless his Lord should will something.",
-            "bn": "তাঁর প্রথম জবাব তাদের যুক্তি ধরেই না। আতুহাজ্জুন্নি ফিল্লাহি ওয়া কাদ হাদান: আল্লাহর ব্যাপারে আমার সঙ্গে তর্ক করছ, অথচ তিনি তো আমাকে পথ দেখিয়ে দিয়েছেন? হিদায়াতের কথাটা বসানো আছে গোটা আলাপের স্থায়ী শর্ত হিসেবে। যাকে একবার দেখিয়ে দেওয়া হয়েছে, সে আর দেখা যায় কি না সেই প্রশ্নে ফেরে না। এরপর তারা যে ভয় জাগাতে চাইছিল, তার জবাব আসে এমন বাক্যে যা নিজের সীমা ভোলে না: তারা আল্লাহর পাশে যাদের বসিয়েছে তাদের তিনি ভয় করেন না, তবে তাঁর প্রতিপালক কিছু চাইলে সে আলাদা কথা।"
+            "bn": "তাঁর প্রথম জবাব তাদের যুক্তি ধরেই না। আতুহাজ্জুন্নি ফিল্লাহি ওয়া কাদ হাদান: আল্লাহর ব্যাপারে আমার সঙ্গে তর্ক করছ, অথচ তিনি তো আমাকে পথ দেখিয়ে দিয়েছেন? পথ দেখানোর কথাটা এখানে গোটা আলাপের স্থায়ী ভিত; পুরো কথোপকথন চলছে সেই সত্যের উপর দাঁড়িয়ে। যাকে একবার দেখিয়ে দেওয়া হয়েছে, সে আর \"দেখা যায় কি না\" সেই প্রশ্নে ফেরে না। এরপর তারা যে ভয় জাগাতে চাইছিল, তার জবাব আসে এমন এক বাক্যে, যা নিজের সীমা ভোলে না: তারা আল্লাহর পাশে যাদের বসিয়েছে তাদের তিনি ভয় করেন না, তবে তাঁর প্রতিপালক কিছু চাইলে সে আলাদা কথা।"
           },
           {
             "en": "Near the end of 6:80 comes wasi'a rabbi kulla shay'in ilma. The verb wasi'a means to be wide enough to hold a thing without strain, and the sentence says his Lord has taken in everything; the last word names the respect in which He has: in knowledge. Then the question, a fala tatadhakkarun. The verb is tadhakkur, calling back to mind what you already have, not learning something new. He is not offering them information. He is telling them they are arguing against what they know.",
@@ -1780,16 +1780,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Verse That Alarmed the Companions",
-          "bn": "যে আয়াত সাহাবীদের ভীত করেছিল"
+          "bn": "যে আয়াত শুনে সাহাবীরা ভয় পেয়েছিলেন"
         },
         "p": [
           {
             "en": "Al-Bukhari and Muslim both record from Abdullah ibn Mas'ud (RA) that when the words about those who believe and do not mix their belief with wrong came down, it weighed heavily on the Companions of the Messenger of Allah ﷺ, and they said: which of us has not wronged himself? He ﷺ said that it is not as they were thinking. It is only as Luqman said to his son, in 31:13: my son, do not associate anything with Allah; associating with Him is a great wrong.",
-            "bn": "ইমাম বুখারী ও ইমাম মুসলিম উভয়েই আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, যারা ঈমান এনেছে আর ঈমানকে জুলুমে মেশায়নি, এই কথাটি নাযিল হলে তা রাসূলুল্লাহ ﷺ-এর সাহাবীদের উপর ভারী হয়ে বসে। তাঁরা বললেন, আমাদের কে আছে যে নিজের উপর জুলুম করেনি? নবী ﷺ বললেন, ব্যাপারটা তোমরা যা ভাবছ তা নয়। এ তো সেটাই, যা লুকমান তাঁর ছেলেকে বলেছিলেন, ৩১:১৩ আয়াতে: বৎস, আল্লাহর সঙ্গে কাউকে শরিক কোরো না; শিরক তো মহা জুলুম।"
+            "bn": "ইমাম বুখারী ও ইমাম মুসলিম দুজনেই আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন: যারা ঈমান এনেছে আর ঈমানকে জুলুমের সঙ্গে মেশায়নি, এই কথা নাজিল হলে রাসূলুল্লাহ ﷺ-এর সাহাবীদের কাছে তা খুব ভারী ঠেকল। তাঁরা বললেন, আমাদের মধ্যে কে আছে যে নিজের উপর জুলুম করেনি? নবী ﷺ বললেন, ব্যাপারটা তোমরা যেমন ভাবছ তেমন নয়। এ তো তা-ই, যা লুকমান তাঁর ছেলেকে বলেছিলেন, ৩১:১৩ আয়াতে: বৎস, আল্লাহর সঙ্গে কাউকে শরিক কোরো না; শিরক তো মহা জুলুম।"
           },
           {
             "en": "What the narration fixes is the size of a word. Zulm in Arabic covers every wrong done to anyone, oneself included, and the Companions read it at that full width and lost the promise. The Prophet ﷺ did not narrow it with an opinion; he narrowed it with another verse. The Bengali rendering of 6:82 in this app carries the same gloss inside the translation itself. And the narrowing is not a discount on other sins. It says which wrong forfeits security outright, and other wrongs are dealt with elsewhere.",
-            "bn": "এই বর্ণনা যা ঠিক করে দেয় তা একটি শব্দের মাপ। আরবিতে জুলুম বলতে বোঝায় যে কারো প্রতি করা যেকোনো অন্যায়, নিজের প্রতিও। সাহাবীরা শব্দটি সেই পুরো প্রস্থেই পড়েছিলেন, আর প্রতিশ্রুতিটা হাত থেকে চলে যাচ্ছিল। নবী ﷺ কোনো মত দিয়ে শব্দটা ছোট করেননি, করেছেন আরেকটি আয়াত দিয়ে। এই অ্যাপের ৬:৮২ আয়াতের বাংলা অনুবাদ সেই ব্যাখ্যাটাই ভেতরে ধরে রেখেছে। আর এই সংকোচন অন্য গুনাহের ছাড়পত্র নয়। এটি বলে দেয় কোন অন্যায়ে নিরাপত্তা একেবারেই হাতছাড়া হয়, বাকি গুনাহের হিসাব অন্যত্র।"
+            "bn": "এই বর্ণনা আসলে একটি শব্দের পরিধি ঠিক করে দেয়। আরবিতে জুলুম মানে যে কারো প্রতি যেকোনো অন্যায়, নিজের প্রতিও। সাহাবীরা শব্দটি সেই পুরো অর্থেই বুঝেছিলেন, তাই মনে হচ্ছিল ওয়াদাটা হাতছাড়া হয়ে গেল। নবী ﷺ নিজের মত দিয়ে অর্থটা সীমিত করেননি, করেছেন আরেকটি আয়াত দিয়ে। এই অ্যাপে ৬:৮২ আয়াতের বাংলা অনুবাদেও এই ব্যাখ্যা অনুবাদের ভেতরেই রাখা আছে। তবে অর্থ সীমিত করা মানে অন্য গুনাহে ছাড় নয়। এটি শুধু বলে দেয়, কোন অন্যায়ে নিরাপত্তা পুরোপুরি হাতছাড়া হয়; বাকি অন্যায়ের হিসাব অন্য জায়গায়।"
           }
         ]
       },
@@ -1841,7 +1841,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second is to name what you are actually afraid of. Nobody today fears a carved figure, but the shape of the fear survives: that keeping a rule will cost the job, that praying at work will mark you, that a decision made for Allah will leave you unprotected. The verse answers by asking which party has more right to feel safe, and the answer is given before the crowd can vote on it. The safety is attached to the faith, not to the odds.",
-            "bn": "দ্বিতীয় জিনিস হলো, আপনি আসলে কিসে ভয় পান তার নাম বলা। আজ কেউ খোদাই করা মূর্তিকে ভয় পায় না, কিন্তু ভয়ের গড়নটা টিকে আছে: নিয়ম মানলে চাকরিটা যাবে, কর্মস্থলে নামায পড়লে আলাদা চোখে দেখা হবে, আল্লাহর জন্য নেওয়া সিদ্ধান্তে আমি অরক্ষিত হয়ে পড়ব। আয়াত জবাব দেয় প্রশ্ন করে, নিরাপদ বোধ করার হকদার কোন দল; আর ভিড় ভোট দেওয়ার আগেই জবাবটা দিয়ে দেওয়া হয়। নিরাপত্তা বাঁধা আছে ঈমানের সঙ্গে, সম্ভাবনার হিসাবের সঙ্গে নয়।"
+            "bn": "দ্বিতীয় জিনিস হলো, আপনি আসলে কিসে ভয় পান তার নাম দেওয়া। আজ কেউ খোদাই করা মূর্তিকে ভয় পায় না, কিন্তু ভয়ের গড়নটা রয়ে গেছে: নিয়ম মানলে চাকরিটা যাবে, কর্মস্থলে নামাজ পড়লে লোকে আলাদা চোখে দেখবে, আল্লাহর জন্য নেওয়া সিদ্ধান্তে আমি অরক্ষিত হয়ে পড়ব। আয়াত জবাব দেয় একটি প্রশ্ন করে: নিরাপদ বোধ করার বেশি হকদার কোন দল? আর ভিড় ভোট দেওয়ার আগেই জবাবটা চলে আসে। নিরাপত্তা বাঁধা আছে ঈমানের সঙ্গে, সম্ভাবনার হিসাবের সঙ্গে নয়।"
           },
           {
             "en": "The third is the sentence that ends the passage. The argument was given. Whatever clarity a believer finds in defending his religion is a gift handed to him at the moment he needs it, which turns preparation into two things rather than one: learn the answer, and ask for it. A person who has only studied will be fluent and may still be raised no degrees at all; the verse attaches the raising to the Giver, not to the reading.",
@@ -1857,11 +1857,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran preserves a supplication of Ibrahim (AS) that asks for exactly what this passage argues about. In 14:35 he says: my Lord, make this city secure, and keep me and my sons away from worshipping idols. The word for secure there is from the same root as the security promised in 6:82. He asks for the safety of a place and, in the same breath, for the one thing whose absence makes a place safe, that he and his children never worship anything besides Allah.",
-            "bn": "এই অংশে যা নিয়ে তর্ক, ঠিক সেটিই চেয়ে করা ইবরাহীম (আঃ)-এর একটি দু’আ কুরআন ধরে রেখেছে। ১৪:৩৫ আয়াতে তিনি বলেন: হে আমার প্রতিপালক, এই শহরকে নিরাপদ করুন, আর আমাকে ও আমার সন্তানদের মূর্তিপূজা থেকে দূরে রাখুন। সেখানে নিরাপদ শব্দটি এসেছে সেই একই মূল থেকে, ৬:৮২ আয়াতে যে নিরাপত্তার ওয়াদা। তিনি চান একটি জায়গার নিরাপত্তা, আর একই নিঃশ্বাসে চান সেই জিনিসটি যার অনুপস্থিতিই জায়গাটাকে নিরাপদ করে: তিনি ও তাঁর সন্তানেরা যেন আল্লাহ ছাড়া কিছুর পূজা না করেন।"
+            "bn": "কুরআনে ইবরাহীম (আঃ)-এর একটি দু’আ আছে, যাতে তিনি ঠিক সেটাই চেয়েছেন যা নিয়ে এই অংশের তর্ক। ১৪:৩৫ আয়াতে তিনি বলেন: হে আমার প্রতিপালক, এই শহরকে নিরাপদ করুন, আর আমাকে ও আমার সন্তানদের মূর্তিপূজা থেকে দূরে রাখুন। সেখানে \"নিরাপদ\" শব্দটি এসেছে সেই মূল থেকেই, যে মূল থেকে এসেছে ৬:৮২ আয়াতে ওয়াদা করা নিরাপত্তা। তিনি একটি জায়গার নিরাপত্তা চান, আর একই নিঃশ্বাসে চান সেই জিনিস, যা না থাকাটাই জায়গাটাকে নিরাপদ করে: তিনি ও তাঁর সন্তানেরা যেন আল্লাহ ছাড়া কিছুর পূজা না করেন।"
           },
           {
             "en": "To that may be added a short supplication in the vocabulary of these four verses, offered as such and not as a transmitted wording: O Allah, You have encompassed everything in knowledge, so do not leave me arguing about You from ignorance. Do not let anything wrong be thrown over my faith like a garment. Give me the proof when I need it, and count me among those who have security and are guided, and raise me by whatever degree You choose.",
-            "bn": "এর সঙ্গে এই চার আয়াতের শব্দ ধরে ছোট একটি প্রার্থনা যোগ করা যায়, যা বর্ণিত দু’আ নয়, এভাবেই পেশ করা: হে আল্লাহ, আপনি সব কিছুকে জ্ঞানে ধরে রেখেছেন; আমাকে না জেনে আপনাকে নিয়ে তর্ক করতে দেবেন না। আমার ঈমানের উপর যেন জুলুমের কোনো চাদর না পড়ে। যখন দলিল দরকার তখন দলিলটা দিন, আর আমাকে গণ্য করুন তাদের মধ্যে যারা নিরাপদ ও হিদায়াতপ্রাপ্ত; যে মর্যাদায় ইচ্ছা আমাকে তুলে নিন।"
+            "bn": "এর সঙ্গে এই চার আয়াতের শব্দ দিয়েই গড়া ছোট একটি দু’আ যোগ করা যায়। এটি বর্ণিত দু’আর শব্দ নয়, নিজেদের গড়া দু’আ হিসেবেই বলা: হে আল্লাহ, আপনি জ্ঞানে সব কিছুকে ঘিরে রেখেছেন; আমাকে অজ্ঞতা নিয়ে আপনার ব্যাপারে তর্ক করতে দেবেন না। আমার ঈমানের উপর কোনো জুলুম যেন চাদরের মতো চেপে না বসে। যখন দলিল দরকার হবে, তখন দলিলটা দিন; আমাকে তাদের মধ্যে গণ্য করুন যারা নিরাপদ ও হিদায়াতপ্রাপ্ত; আর যে মর্যাদায় আপনি চান, আমাকে উঁচু করুন।"
           }
         ]
       },
@@ -1877,7 +1877,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Companions heard the word wrong at full width and were frightened for themselves. When I read a warning in the Quran, do I check myself against it, or do I file it under people who are worse than me? And 6:82 promises security. Where do I go for the feeling of being safe when a week turns hard, and how much of that is arrangement rather than faith?",
-            "bn": "সাহাবীরা জুলুম শব্দটা তার পুরো প্রস্থে শুনে নিজেদের নিয়ে ভয় পেয়েছিলেন। কুরআনে কোনো সতর্কবাণী পড়লে আমি কি নিজেকে তার সামনে দাঁড় করাই, নাকি সেটাকে আমার চেয়ে খারাপ লোকদের খাতায় তুলে রাখি? আর ৬:৮২ আয়াত নিরাপত্তার ওয়াদা করে। সপ্তাহটা কঠিন হয়ে উঠলে নিরাপদ বোধ করতে আমি কোথায় যাই, আর তার কতটা ঈমান নয়, নিজের গোছানো ব্যবস্থা?"
+            "bn": "সাহাবীরা জুলুম শব্দটাকে তার পুরো অর্থে শুনে নিজেদের নিয়েই ভয় পেয়েছিলেন। কুরআনে কোনো সতর্কবাণী পড়লে আমি কি নিজেকে তার সামনে দাঁড় করাই, নাকি সেটাকে আমার চেয়ে খারাপ লোকদের খাতায় তুলে রাখি? আর ৬:৮২ আয়াত নিরাপত্তার ওয়াদা করে। সপ্তাহটা কঠিন হয়ে উঠলে নিরাপদ বোধ করতে আমি কোথায় যাই, আর তার কতটা ঈমান, কতটা নিজের গোছানো ব্যবস্থা?"
           }
         ]
       }
@@ -1897,7 +1897,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The list is fenced by two verses that tell the reader what it is for. 6:88 says this is the guidance of Allah by which He guides whom He wills of His servants, and warns that had they associated others with Him, everything they did would have come to nothing. 6:90 then turns to the Prophet ﷺ: those are the ones whom Allah guided, so follow their guidance. The names are not being recited as history. They are being held up as a road.",
-            "bn": "তালিকাটির দুই পাশে বেড়ার মতো দাঁড়িয়ে আছে দুটি আয়াত, যারা পাঠককে বলে দেয় তালিকাটা কীসের জন্য। ৬:৮৮ আয়াত বলে, এ হলো আল্লাহর হিদায়াত, তিনি তাঁর বান্দাদের যাকে ইচ্ছা এ দিয়ে পথ দেখান; আর সতর্ক করে, তাঁরা যদি শিরক করতেন তবে তাঁদের সব কাজ বৃথা যেত। এরপর ৬:৯০ আয়াত নবী ﷺ-এর দিকে ফেরে: এঁরাই তাঁরা যাঁদের আল্লাহ হিদায়াত দিয়েছেন, তুমি তাঁদের পথ অনুসরণ করো। নামগুলো ইতিহাস হিসেবে পড়ানো হচ্ছে না। ধরে দেখানো হচ্ছে একটা রাস্তা হিসেবে।"
+            "bn": "তালিকার দুই পাশে বেড়ার মতো দুটি আয়াত দাঁড়িয়ে আছে, আর সে দুটিই পাঠককে বলে দেয় তালিকাটা কিসের জন্য। ৬:৮৮ আয়াত বলে, এ হলো আল্লাহর হিদায়াত, এ দিয়ে তিনি তাঁর বান্দাদের মধ্যে যাকে ইচ্ছা পথ দেখান; আর সতর্ক করে, তাঁরা যদি শিরক করতেন তবে তাঁদের সব আমল বৃথা যেত। এরপর ৬:৯০ আয়াত নবী ﷺ-এর দিকে ফেরে: এঁরাই তাঁরা যাঁদের আল্লাহ হিদায়াত দিয়েছেন, তুমি তাঁদের পথ অনুসরণ করো। নামগুলো ইতিহাস হিসেবে শোনানো হচ্ছে না। তুলে ধরা হচ্ছে চলার পথ হিসেবে।"
           }
         ]
       },
@@ -1913,7 +1913,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Each of the three verses ends on a verdict, and each verdict is about the men rather than about anything they built. 6:84 closes with thus do We reward the doers of good. 6:85 closes with all of them were of the righteous. 6:86 closes with all of them We preferred over the worlds. Kingdoms, scriptures and rescued nations are not mentioned. What is being scored is a quality of person, three times in three different words.",
-            "bn": "তিনটি আয়াতের প্রত্যেকটি শেষ হয় একটি রায়ে, আর প্রতিটি রায় মানুষগুলোকে নিয়ে, তাঁরা কী বানিয়েছেন তা নিয়ে নয়। ৬:৮৪ আয়াত শেষ হয়, সৎকর্মশীলদের আমি এভাবেই পুরস্কৃত করি। ৬:৮৫ আয়াত শেষ হয়, এঁরা সবাই সৎকর্মশীলদের অন্তর্ভুক্ত। ৬:৮৬ আয়াত শেষ হয়, এঁদের প্রত্যেককে আমি জগৎবাসীর উপর শ্রেষ্ঠত্ব দিয়েছি। রাজত্ব, কিতাব বা উদ্ধার পাওয়া জাতির কথা নেই। নম্বর দেওয়া হচ্ছে মানুষটির গুণকে, তিনবার তিনটি আলাদা শব্দে।"
+            "bn": "তিনটি আয়াতের প্রতিটিই শেষ হয় একটি রায়ে, আর প্রতিটি রায় মানুষগুলোকে নিয়ে, তাঁরা কী গড়েছেন তা নিয়ে নয়। ৬:৮৪ আয়াতের শেষে: সৎকর্মশীলদের আমি এভাবেই প্রতিদান দিই। ৬:৮৫ আয়াতের শেষে: এঁরা সবাই নেককারদের অন্তর্ভুক্ত। ৬:৮৬ আয়াতের শেষে: এঁদের প্রত্যেককে আমি জগৎবাসীর উপর শ্রেষ্ঠত্ব দিয়েছি। রাজত্ব, কিতাব বা উদ্ধার পাওয়া জাতির কথা নেই। মাপা হচ্ছে মানুষের গুণ, তিনবার, তিনটি আলাদা শব্দে।"
           },
           {
             "en": "The order is not a timeline. Dawud and Sulayman (AS) stand before Musa and Harun (AS) in 6:84, though they came long after them. Nor is it a ranking by office: a king and a man sold as a slave, a prophet stripped of his health and a prophet swallowed by the fish, stand in the same sentence. One verb brackets the passage rather than running through it: twice in 6:84, all of them We guided and Nuh (AS) We guided before, and once more at the close of 6:87, We chose them and guided them to a straight path. The two verses in between never mention guidance.",
@@ -1929,11 +1929,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "6:84 says and of his descendants, and the commentators differ over whose. Ibn Kathir holds that the more apparent reference is Nuh (AS), because he is the nearest named and because Lut (AS) appears later in the list, and Lut is not of Ibrahim's progeny but the son of his brother. Others refer the pronoun to Ibrahim (AS), since he is the subject the passage began from and the one being rewarded.",
-            "bn": "৬:৮৪ আয়াত বলে, আর তার বংশধর থেকে; কার বংশধর, তা নিয়ে মুফাসসিরগণের মতভেদ। ইবনে কাসীর মনে করেন, বেশি স্পষ্ট ইঙ্গিত নূহ (আঃ)-এর দিকে, কারণ নামের দিক থেকে তিনিই সবচেয়ে কাছে, আর তালিকায় পরে লূত (আঃ) আছেন, যিনি ইবরাহীমের বংশধর নন, তাঁর ভাইয়ের ছেলে। অন্যরা সর্বনামটি ইবরাহীম (আঃ)-এর দিকেই ফেরান, কারণ অংশটি তাঁকে দিয়েই শুরু আর পুরস্কারটাও তাঁরই।"
+            "bn": "৬:৮৪ আয়াত বলে, আর তার বংশধরদের মধ্য থেকে; কার বংশধর, তা নিয়ে মুফাসসিরগণের মতভেদ আছে। ইবনে কাসীরের মতে বেশি স্পষ্ট হলো নূহ (আঃ)-এর দিকে ইঙ্গিত, কারণ আয়াতে তাঁর নামই সবচেয়ে কাছে এসেছে, আর তালিকায় পরে লূত (আঃ) আছেন; লূত ইবরাহীমের বংশধর নন, তাঁর ভাইয়ের ছেলে। অন্যরা সর্বনামটি ইবরাহীম (আঃ)-এর দিকেই ফেরান, কারণ অংশটি তাঁকে দিয়েই শুরু, আর পুরস্কারটাও তাঁরই।"
           },
           {
             "en": "Either way, one name in the list bears on a question the jurists later asked. Isa (AS) is counted among these descendants, and he had no father, so he reaches the line through his mother. The commentators take that as evidence that a daughter's children are a man's descendants. A passage that looks like a bare register of names turns out to bear on a ruling about who belongs to whom.",
-            "bn": "যেভাবেই হোক, তালিকার একটি নাম পরবর্তীকালে ফকীহদের তোলা এক প্রশ্নের সঙ্গে জড়িয়ে যায়। ঈসা (আঃ)-কে এই বংশধরদের মধ্যে গোনা হয়েছে, অথচ তাঁর পিতা ছিলেন না; তিনি বংশধারায় পৌঁছান মায়ের দিক দিয়ে। মুফাসসিরগণ একে দলিল ধরেন যে মেয়ের সন্তানেরাও একজনের বংশধর। যে অংশটিকে দেখে নিছক নামের খতিয়ান মনে হয়, তার ভেতরেই জড়িয়ে আছে কে কার লোক সেই প্রশ্ন।"
+            "bn": "যেভাবেই হোক, তালিকার একটি নাম পরবর্তীকালে ফকীহদের তোলা এক প্রশ্নের সঙ্গে জড়িয়ে যায়। ঈসা (আঃ)-কে এই বংশধরদের মধ্যে গোনা হয়েছে, অথচ তাঁর পিতা ছিলেন না; তিনি এই বংশধারায় এসেছেন মায়ের দিক দিয়ে। মুফাসসিরগণ একে দলিল হিসেবে নেন যে মেয়ের সন্তানেরাও একজন মানুষের বংশধর। যে অংশকে নিছক নামের খতিয়ান মনে হয়, দেখা যায় তা কে কার বংশে গণ্য, সেই বিধানের সঙ্গেও জড়িয়ে আছে।"
           }
         ]
       },
@@ -1953,7 +1953,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir reads the command in 6:90, fa-bi-hudahum iqtadih, as addressed to the Prophet ﷺ and binding on those who follow him. He is told to take the guidance of the prophets named here as his pattern, and what is a command to him is an example to his community. The list therefore ends in an instruction rather than in admiration: these men were guided, so walk where they walked.",
-            "bn": "ইবনে কাসীর ৬:৯০ আয়াতের হুকুম, ফাবিহুদাহুমুক তাদিহ, পড়েন নবী ﷺ-কে সম্বোধন হিসেবে, আর তা বাধ্যতামূলক তাঁর অনুসারীদের জন্যও। তাঁকে বলা হচ্ছে এখানে নাম নেওয়া নবীদের হিদায়াতকেই নিজের আদর্শ বানাতে; আর তাঁর প্রতি যা হুকুম, উম্মতের জন্য তা দৃষ্টান্ত। তাই তালিকা শেষ হয় মুগ্ধতায় নয়, নির্দেশে: এঁদের পথ দেখানো হয়েছিল, তাই এঁরা যেখানে হেঁটেছেন সেখানেই হাঁটো।"
+            "bn": "ইবনে কাসীর ৬:৯০ আয়াতের হুকুম, ফাবিহুদাহুমুক তাদিহ, পড়েন নবী ﷺ-এর প্রতি সম্বোধন হিসেবে, যা তাঁর অনুসারীদের জন্যও বাধ্যতামূলক। তাঁকে বলা হচ্ছে, এখানে যে নবীদের নাম এসেছে তাঁদের হিদায়াতকেই নিজের আদর্শ বানাতে; আর তাঁর প্রতি যা হুকুম, উম্মতের জন্য তা দৃষ্টান্ত। তাই তালিকা শেষ হয় মুগ্ধতায় নয়, নির্দেশে: এঁদের পথ দেখানো হয়েছিল, তাই এঁরা যেখানে হেঁটেছেন, আপনিও সেখানেই হাঁটুন।"
           }
         ]
       },
@@ -1976,12 +1976,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Same Line Is Named",
-          "bn": "একই ধারা আর যেখানে"
+          "bn": "একই বংশধারা আর যেখানে এসেছে"
         },
         "p": [
           {
             "en": "4:163 gives a list of the same kind for a different purpose, answering people who demanded a book sent down from the sky by naming the prophets revelation had already come to. 29:27 states the gift to Ibrahim (AS) as a standing arrangement: We gave him Ishaq and Ya'qub and placed prophethood and the Scripture in his descendants. 19:49 records the same two names as what he was given after he left his people and what they worshipped, and 21:72 gives them again as an addition, nafilah, with all of them made righteous.",
-            "bn": "৪:১৬৩ আয়াত একই ধরনের তালিকা দেয় অন্য উদ্দেশ্যে, আকাশ থেকে কিতাব নামানোর দাবি করা লোকদের জবাবে সেই নবীদের নাম নিয়ে যাঁদের কাছে ওহী আগেই এসেছে। ২৯:২৭ আয়াত ইবরাহীম (আঃ)-কে দেওয়া দানটিকে স্থায়ী ব্যবস্থা হিসেবে বলে: আমি তাকে ইসহাক ও ইয়াকূব দিয়েছি, আর তার বংশধরদের মধ্যে নবুওত ও কিতাব রেখেছি। ১৯:৪৯ আয়াত একই দুটি নাম লিখে রাখে, জাতি আর তাদের উপাস্যদের ছেড়ে আসার পর তাঁকে যা দেওয়া হয়েছিল। ২১:৭২ আয়াত সেই দুটি নামই দেয় বাড়তি দান হিসেবে, নাফিলা, আর বলে, প্রত্যেককে আমি সৎকর্মশীল করেছি।"
+            "bn": "৪:১৬৩ আয়াত একই ধরনের তালিকা দেয় অন্য উদ্দেশ্যে: যারা আকাশ থেকে কিতাব নামিয়ে আনার দাবি করছিল, তাদের জবাবে সেই নবীদের নাম নেয়, যাঁদের কাছে ওহি আগেই এসেছে। ২৯:২৭ আয়াত ইবরাহীম (আঃ)-কে দেওয়া দানটিকে স্থায়ী ব্যবস্থা হিসেবে বলে: আমি তাকে ইসহাক ও ইয়াকূব দিয়েছি, আর তার বংশধরদের মধ্যে নবুওত ও কিতাব রেখেছি। ১৯:৪৯ আয়াতে একই দুটি নাম আসে, জাতি আর তাদের উপাস্যদের ছেড়ে আসার পর তাঁকে যা দেওয়া হয়েছিল তা হিসেবে। ২১:৭২ আয়াত সেই দুটি নামই দেয় বাড়তি দান হিসেবে, নাফিলা, আর বলে, প্রত্যেককে আমি নেককার বানিয়েছি।"
           },
           {
             "en": "12:38 has Yusuf (AS) himself naming the line from inside a prison: I have followed the religion of my fathers, Ibrahim, Ishaq and Ya'qub, and it was not for us to associate anything with Allah. 4:69 turns the whole idea toward the reader, promising that whoever obeys Allah and the Messenger will be with those upon whom Allah bestowed favour, the prophets, the truthful, the martyrs and the righteous, and excellent are those as companions.",
@@ -1997,11 +1997,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The three closing verdicts give a believer a measure he can actually use. Not what did I build, but what was I: a doer of good, one of the righteous, someone Allah chose. Careers and portfolios do not appear in the passage, and the men who had them are described without them. It is worth asking which of the three words could honestly be used of a week of your life, and what would have to change for the second one to fit.",
-            "bn": "শেষের তিনটি রায় একজন মুমিনকে এমন মাপকাঠি দেয় যা সত্যিই কাজে লাগে। প্রশ্নটা আমি কী বানিয়েছি তা নয়, আমি কী ছিলাম তা: সৎকর্মশীল, সালেহীনের একজন, আল্লাহর বেছে নেওয়া কেউ। পেশা বা সম্পদের হিসাব এই অংশে নেই, আর যাঁদের তা ছিল তাঁদেরও বর্ণনা দেওয়া হয়েছে সেসব বাদ দিয়ে। জিজ্ঞেস করার মতো প্রশ্ন, এই তিন শব্দের কোনটি সত্যি বলে আপনার একটি সপ্তাহের গায়ে বসানো যায়, আর দ্বিতীয়টি বসাতে হলে কী বদলাতে হতো।"
+            "bn": "শেষের তিনটি রায় একজন মুমিনের হাতে এমন এক মাপকাঠি দেয়, যা সত্যিই কাজে লাগে। প্রশ্নটা \"আমি কী গড়েছি\" নয়, \"আমি কেমন ছিলাম\": সৎকর্মশীল, নেককারদের একজন, আল্লাহর বেছে নেওয়া কেউ। পেশা বা অর্জনের হিসাব এই অংশে নেই; যাঁদের তা ছিল, তাঁদের কথাও বলা হয়েছে সেসব বাদ দিয়েই। নিজেকে জিজ্ঞেস করে দেখুন, আপনার জীবনের একটা সপ্তাহের বেলায় এই তিন শব্দের কোনটি সৎভাবে খাটে, আর দ্বিতীয়টি খাটাতে হলে কী বদলাতে হবে।"
           },
           {
             "en": "6:87 widens the frame from the individual to the household, adding their fathers, their descendants and their brothers. Guidance is described here as something that travels along family lines without being owed to them, which puts a question to every reader who has one. Is guidance moving through your house in either direction? A parent taught, a sibling reconciled with, a child who sees the prayer kept rather than described: these are the ordinary shapes of being a link in the chain.",
-            "bn": "৬:৮৭ আয়াত দৃষ্টিটা ব্যক্তির থেকে বাড়িয়ে ঘর পর্যন্ত নেয়, যোগ করে তাঁদের পিতৃপুরুষ, বংশধর ও ভাইদের। হিদায়াতকে এখানে দেখানো হয়েছে এমন জিনিস হিসেবে যা পরিবারের রেখা ধরে চলে, অথচ পরিবারের প্রাপ্য নয়। যাঁর ঘর আছে প্রত্যেকের সামনেই এতে একটা প্রশ্ন এসে দাঁড়ায়। আপনার ঘরে কি হিদায়াত কোনো এক দিকে চলছে? বাবা-মাকে কিছু শেখানো, ভাইয়ের সঙ্গে মিটমাট, আর এমন সন্তান যে নামাযের বর্ণনা নয় নামায পড়া দেখে; শেকলের কড়া হওয়ার চেহারা এমন সাধারণই।"
+            "bn": "৬:৮৭ আয়াত দৃষ্টিটা একজন মানুষ থেকে বাড়িয়ে গোটা ঘর পর্যন্ত নেয়; যোগ করে তাঁদের পিতৃপুরুষ, বংশধর ও ভাইদের। হিদায়াত এখানে পরিবারের ধারা ধরে চলে, অথচ পরিবারের পাওনা নয়। যাঁর পরিবার আছে, এ কথা তাঁর সামনে একটা প্রশ্ন রাখে: আপনার ঘরে কি হিদায়াত চলাচল করছে, যে দিক দিয়েই হোক? বাবা-মাকে কিছু শেখানো, ভাই বা বোনের সঙ্গে মিটমাট, এমন সন্তান যে নামাজের কথা শুধু শোনে না, নামাজ পড়া হতে দেখে: শেকলের একটি কড়া হওয়ার চেহারা এমনই সাধারণ।"
           }
         ]
       },
@@ -2017,7 +2017,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A short supplication in the vocabulary of these verses may be added to that, offered as such and not as a transmitted wording: O Allah, You guided Nuh and Ibrahim and everyone named after them, and You chose them; do not leave me outside the road You put them on. Let my house be one of the houses guidance passes through. And make the last thing said about me a word about what I was, not about what I collected.",
-            "bn": "এর সঙ্গে এই আয়াতগুলোর শব্দ ধরে ছোট একটি প্রার্থনা যোগ করা যায়, যা বর্ণিত দু’আ নয়, এভাবেই পেশ করা: হে আল্লাহ, আপনি নূহ ও ইবরাহীমকে এবং তাঁদের পরে নাম নেওয়া সবাইকে পথ দেখিয়েছেন আর বেছে নিয়েছেন; যে পথে তাঁদের বসিয়েছেন তার বাইরে আমাকে ফেলে রাখবেন না। আমার ঘরটিকে সেই ঘরগুলোর একটি বানান যেগুলোর ভেতর দিয়ে হিদায়াত চলে যায়। আর আমার সম্পর্কে শেষ কথাটি যেন হয় আমি কী ছিলাম তা নিয়ে, কী জমিয়েছি তা নিয়ে নয়।"
+            "bn": "এর সঙ্গে এই আয়াতগুলোর শব্দ দিয়েই গড়া ছোট একটি দু’আ যোগ করা যায়। এটি বর্ণিত দু’আর শব্দ নয়, নিজেদের গড়া দু’আ হিসেবেই বলা: হে আল্লাহ, আপনি নূহ ও ইবরাহীমকে এবং তাঁদের পরে যাঁদের নাম এসেছে সবাইকে পথ দেখিয়েছেন, বেছে নিয়েছেন; যে পথে তাঁদের তুলে দিয়েছেন, তার বাইরে আমাকে ফেলে রাখবেন না। আমার ঘরটিকে সেই ঘরগুলোর একটি বানান, যেগুলোর ভেতর দিয়ে হিদায়াত বয়ে যায়। আর আমার সম্পর্কে শেষ কথাটি যেন হয় আমি কেমন ছিলাম তা নিয়ে, কী জমিয়েছি তা নিয়ে নয়।"
           }
         ]
       },
@@ -2049,7 +2049,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-An'am is a Makkan surah, and this verse sits inside a long argument about revelation itself. Two verses earlier, 6:91 reports the claim that Allah did not send down anything to any human being, and answers it by naming the Book that Musa (AS) brought as light and guidance. Then 6:92 affirms the Book now in the listeners' hands, blessed and confirming what came before it. Our verse turns to the opposite error. Having denied that Allah reveals at all, a man may instead claim a revelation that never came to him.",
-            "bn": "সূরা আল-আনআম মক্কী, আর এই আয়াতটি বসে আছে ওহি নিয়ে দীর্ঘ এক তর্কের ভেতরে। দুই আয়াত আগে ৬:৯১ আয়াত তুলে ধরে সেই দাবি যে আল্লাহ কোনো মানুষের কাছে কিছুই নাযিল করেননি, আর জবাবে নাম নেয় সেই কিতাবের যা মূসা (আঃ) আলো ও হিদায়াত হিসেবে এনেছিলেন। এরপর ৬:৯২ আয়াত শ্রোতাদের হাতে থাকা কিতাবটিকে সত্যায়ন করে, বরকতে ভরা আর আগের কিতাবের সত্যতা প্রমাণকারী। আমাদের আয়াতটি ঘুরে দাঁড়ায় উল্টো ভুলটির দিকে। ওহি নামেই না বলে অস্বীকার করার পর মানুষ এমন ওহির দাবিও করতে পারে যা তার কাছে কখনো আসেনি।"
+            "bn": "সূরা আল-আনআম মক্কী, আর এই আয়াতটি এসেছে খোদ ওহি নিয়ে দীর্ঘ এক তর্কের ভেতরে। দুই আয়াত আগে ৬:৯১ আয়াত তুলে ধরে সেই দাবি যে আল্লাহ কোনো মানুষের কাছে কিছুই নাজিল করেননি, আর জবাবে নাম নেয় সেই কিতাবের, যা মূসা (আঃ) আলো ও হিদায়াত হিসেবে এনেছিলেন। এরপর ৬:৯২ আয়াত শ্রোতাদের হাতের কিতাবটিকে সত্য বলে ঘোষণা করে: বরকতময়, আগের কিতাবের সত্যায়নকারী। আমাদের আয়াত ফেরে উল্টো ভুলটির দিকে। আল্লাহ আদৌ ওহি পাঠান, এ কথা অস্বীকার করার পর মানুষ উল্টো এমন ওহির দাবিও করে বসতে পারে, যা তার কাছে কখনো আসেনি।"
           },
           {
             "en": "So this is not a stray threat dropped into the surah. It completes a pair. One party says the door of revelation was never opened at all; another party walks through a door that was never there. Both are speaking about Allah what Allah did not say, and the verse gathers them under a single question. The reports about who exactly was meant differ among the commentators, and the placement is enough on its own: this is the sentence that closes the surah's argument about who may speak for Allah.",
@@ -2073,7 +2073,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second and third claims are quoted in the claimant's own voice, which is what leaves them so exposed. Uhiya ilayya, it has been inspired to me, and the verse answers inside the same breath: wa lam yuha ilayhi shay', while nothing has been inspired to him. Then sa-unzilu mithla ma anzala Allah, I will send down the like of what Allah sent down. Three sentences, three men, and one crime wearing three coats: inventing for Him, claiming from Him, and competing with Him.",
-            "bn": "দ্বিতীয় ও তৃতীয় দাবি দুটি উদ্ধৃত হয়েছে দাবিদারের নিজের মুখে, আর এতেই সে সবচেয়ে বেশি উন্মুক্ত হয়ে পড়ে। 'উহিয়া ইলাইয়া', আমার কাছে ওহি এসেছে; আর আয়াত একই নিঃশ্বাসে জবাব দেয়, 'ওয়া লাম ইউহা ইলাইহি শাইউন', অথচ তার কাছে কিছুই পাঠানো হয়নি। এরপর 'সাউনযিলু মিসলা মা আনযালাল্লাহ', আল্লাহ যা নাযিল করেছেন আমিও তেমন নাযিল করব। তিনটি বাক্য, তিনজন মানুষ, আর একটিই অপরাধ তিন রকম পোশাকে: তাঁর নামে বানানো, তাঁর কাছ থেকে পাওয়ার দাবি করা, আর তাঁর সঙ্গে পাল্লা দেওয়া।"
+            "bn": "দ্বিতীয় ও তৃতীয় দাবি দুটি এসেছে দাবিদারের নিজের মুখের কথায়, আর এতেই সে সবচেয়ে বেশি ধরা পড়ে যায়। 'উহিয়া ইলাইয়া', আমার কাছে ওহি এসেছে; আর আয়াত একই নিঃশ্বাসে জবাব দেয়, 'ওয়া লাম ইউহা ইলাইহি শাইউন', অথচ তার কাছে কিছুই পাঠানো হয়নি। এরপর 'সাউনযিলু মিসলা মা আনযালাল্লাহ', আল্লাহ যা নাজিল করেছেন আমিও তেমন নাজিল করব। তিনটি বাক্য, তিনজন মানুষ, আর একটিই অপরাধ তিন রকম পোশাকে: তাঁর নামে বানানো, তাঁর কাছ থেকে পাওয়ার দাবি করা, আর তাঁর সঙ্গে পাল্লা দেওয়া।"
           }
         ]
       },
@@ -2105,11 +2105,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ghamarat al-mawt. Ghamara is what water does when it closes over a thing, and the plural names the floods of it arriving one after another. The picture is of a man going under. Into that moment the angels speak an imperative, akhriju anfusakum, discharge your souls, and it is a command nobody can obey. It is rebuke rather than instruction, and it is addressed to people who had been very confident in public about what Allah does and does not send down.",
-            "bn": "'গামারাতুল মাউত'। 'গামারা' বলতে বোঝায় পানি যখন কোনো কিছুর উপর দিয়ে ঢেকে যায়, আর বহুবচনে তা একটার পর একটা আসা প্লাবনের কথা বলে। ছবিটা হলো একজন মানুষ তলিয়ে যাচ্ছে। সেই মুহূর্তে ফেরেশতারা হুকুম দেন, 'আখরিজু আনফুসাকুম', নিজেদের জান বের করে দাও; অথচ এই হুকুম কারও পক্ষে মানা সম্ভব নয়। এ নির্দেশ নয়, তিরস্কার, আর তা বলা হচ্ছে এমন লোকদের যারা প্রকাশ্যে খুব জোর দিয়ে বলে বেড়াত আল্লাহ কী নাযিল করেন আর কী করেন না।"
+            "bn": "'গামারাতুল মাউত'। পানি যখন কোনো কিছুকে ঢেকে ফেলে, সেটাই 'গামারা'; আর বহুবচনে বোঝায় একটার পর একটা ধেয়ে আসা প্লাবন। ছবিটা হলো একজন মানুষ তলিয়ে যাচ্ছে। সেই মুহূর্তে ফেরেশতারা হুকুম দেন, 'আখরিজু আনফুসাকুম', নিজেদের জান বের করে দাও; অথচ এই হুকুম কারও পক্ষে মানা সম্ভব নয়। এ নির্দেশ নয়, তিরস্কার। আর তা বলা হচ্ছে এমন লোকদের, যারা প্রকাশ্যে খুব জোর দিয়ে বলে বেড়াত আল্লাহ কী নাজিল করেন আর কী করেন না।"
           },
           {
             "en": "The sentence pronounced over them names the crime twice. Today you are paid 'adhab al-hun, the punishment of humiliation, bima kuntum taqulun 'ala Allah ghayr al-haqq, for what you used to say about Allah other than the truth, and wa kuntum 'an ayatihi tastakbirun, and for being arrogant toward His verses. Istikbar is the crime and hun is the payment, and the two words are opposites. The man who made himself large is made small by the same sentence that condemns him.",
-            "bn": "তাদের উপর ঘোষিত রায়ে অপরাধটির নাম দুইবার আসে। আজ তোমাদের দেওয়া হবে 'আজাবুল হুন', অপমানের শাস্তি; 'বিমা কুনতুম তাকুলুনা আলাল্লাহি গাইরাল হাক্ক', কারণ তোমরা আল্লাহর নামে সত্যের বাইরে কথা বলতে; আর 'ওয়া কুনতুম আন আয়াতিহি তাসতাকবিরুন', কারণ তোমরা তাঁর আয়াতের ব্যাপারে ঔদ্ধত্য দেখাতে। 'ইসতিকবার' হলো অপরাধ আর 'হুন' হলো তার মূল্য, আর শব্দ দুটি একে অন্যের উল্টো। যে নিজেকে বড় বানিয়েছিল, যে রায় তাকে দোষী করছে সেই রায়েই তাকে ছোট করে দেওয়া হচ্ছে।"
+            "bn": "তাদের উপর ঘোষিত রায়ে অপরাধটির নাম আসে দুবার। আজ তোমাদের দেওয়া হবে 'আজাবুল হুন', অপমানের শাস্তি; 'বিমা কুনতুম তাকুলুনা আলাল্লাহি গাইরাল হাক্ক', কারণ তোমরা আল্লাহর নামে সত্যের বাইরে কথা বলতে; আর 'ওয়া কুনতুম আন আয়াতিহি তাসতাকবিরুন', কারণ তোমরা তাঁর আয়াতের ব্যাপারে অহংকার দেখাতে। 'ইসতিকবার' হলো অপরাধ, 'হুন' তার বদলা, আর শব্দ দুটি একে অন্যের উল্টো। যে নিজেকে বড় বানিয়েছিল, তাকে দোষী সাব্যস্ত করা সেই একই রায় তাকে ছোট করে দেয়।"
           }
         ]
       },
@@ -2121,7 +2121,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari narrates from Ibn Abbas (RA) that the Prophet ﷺ said: while I was sleeping I saw on my hands two bracelets of gold, and they distressed me; then it was inspired to me in the dream that I should blow on them, so I blew and they flew away, and I interpreted them as two liars who would come out after me. The commentators identify them as the two men who later claimed prophethood, one at San'a and one at Yamamah.",
-            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আমি ঘুমিয়ে ছিলাম, দেখলাম আমার দুই হাতে সোনার দুটি বালা, আর তা আমাকে অস্বস্তিতে ফেলল; তখন স্বপ্নের ভেতরেই আমার কাছে ওহি এলো যে ওগুলোতে ফুঁ দাও, আমি ফুঁ দিলাম আর ওগুলো উড়ে গেল; আমি এর ব্যাখ্যা করলাম আমার পরে বেরোতে যাওয়া দুই মিথ্যাবাদী হিসেবে। মুফাসসিরগণ তাদের চিহ্নিত করেন সেই দুজন হিসেবে যারা পরে নবুওতের দাবি করেছিল, একজন সানআয় আর একজন ইয়ামামায়।"
+            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আমি ঘুমিয়ে ছিলাম, দেখলাম আমার দুই হাতে সোনার দুটি বালা, আর তা আমাকে অস্বস্তিতে ফেলল; তখন স্বপ্নের ভেতরেই আমার কাছে ওহি এলো, ওগুলোতে ফুঁ দাও; আমি ফুঁ দিলাম আর ওগুলো উড়ে গেল; আমি এর ব্যাখ্যা করলাম, আমার পরে দুজন মিথ্যাবাদী বের হবে। মুফাসসিরগণ বলেন, এরা সেই দুজন যারা পরে নবুওতের দাবি করেছিল, একজন সানআয় আর একজন ইয়ামামায়।"
           },
           {
             "en": "Two things in that report touch the verse directly. The verb used for the true inspiration in the dream is the verb this verse puts in a false claimant's mouth, so the reader hears the same word used rightly and wrongly within a page. And the claim the verse describes was not left as a possibility. The Prophet ﷺ was shown it coming while he was still alive, which tells you that this crime was expected to keep finding claimants long after the men of Makkah were gone.",
