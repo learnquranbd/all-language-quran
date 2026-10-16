@@ -17,6 +17,8 @@
  *        fatha / kasra / damma / sukun / shadda.
  * qalqalah: for ق ط ب ج د, the 8 most frequent ayah-final words ending in it.
  * ra: the 6 most frequent words for each heavy/light ra rule (see raCat).
+ * allah: heavy/light lam in the name Allah, by the vowel before it (see allahCat).
+ * madd: for ا و ي, the most frequent words for each madd length (see maddLetter).
  * pairs: for each confusable pair (LETTER_CONFUSABLE), up to 6 minimal pairs:
  *        two Quranic words that are spelt alike except that one pronounced
  *        letter is swapped (أَلِيمٌ / عَلِيمٌ). Ranked by the rarer word's count.
@@ -219,6 +221,191 @@ for (const cat of ['h_vowel', 'h_after', 'h_wasl', 'h_istila', 'l_vowel', 'l_aft
 }
 
 /**
+ * allah: the lam in the name Allah (and ٱللَّهُمَّ) is heavy after fatha or damma
+ * and light after kasra, decided by the vowel said just before it when reading on.
+ * Long vowels count as their short vowel and are skipped back over (عَلَى ٱللَّهِ heavy,
+ * فِى ٱللَّهِ light), silent letters too; tanween before it gets a kasra (light).
+ * At the start of an ayah it is heavy (you start with the fatha of the wasl hamza).
+ *   allah[cat] = [total, [[text, ref of its first word, count, aw, lc, vw, vc], …]]
+ *   aw/lc = word and cluster index of the lam; vw/vc = those of the vowel (-1: none).
+ * Two-word texts play as a span; h_start examples are the ayah's first two words
+ * (count = ayahs starting with them).
+ */
+const allahLam = (cl) => {
+  for (let j = 1; j + 1 < cl.length; j++) {
+    const c = cl[j];
+    if (c.base !== 'ل' || c.marks.indexOf('ّ') < 0 || c.marks.indexOf('َ') < 0 || cl[j + 1].base !== 'ه') continue;
+    const end = j + 2 === cl.length || (j + 3 === cl.length && cl[j + 2].base === 'م');
+    if (end && cl[j - 1].base === 'ل') return j;
+  }
+  return -1;
+};
+/** Index of the cluster whose vowel is said last, walking back from `from`; -1 if none. */
+const SILENT = /[۟۠]/, HARAKA = /[ً-ْ]/;
+const vowelAt = (cl, from) => {
+  for (let i = from; i >= 0; i--) {
+    const c = cl[i];
+    if (c.base === 'ٱ' || SILENT.test(c.marks)) continue;
+    if ('اىوي'.indexOf(c.base) >= 0 && !HARAKA.test(c.marks)) continue;
+    return i;
+  }
+  return -1;
+};
+const allahCat = (m) => /[ً-ٍ]/.test(m) ? 'l_tanween' : m.indexOf('ِ') >= 0 ? 'l_kasra'
+  : m.indexOf('َ') >= 0 ? 'h_fatha' : m.indexOf('ُ') >= 0 ? 'h_damma' : '';
+const allahJ = {};   // cat -> text -> { n, r, aw, lc, vw, vc }
+const allahOdd = [];
+for (const ref of Object.keys(WORDS)) {
+  const ws = WORDS[ref];
+  ws.forEach((w, i) => {
+    const cl = R.analyse(w);
+    const lc = allahLam(cl);
+    if (lc < 0) return;
+    // لِلَّهِ: the prefix lam carries the vowel; ٱللَّهِ: look before the article.
+    let vw = 0, vc = cl[lc - 1].marks ? lc - 1 : vowelAt(cl, lc - 3);
+    let text = w, r = ref + ':' + (i + 1), aw = 0, cat;
+    if (vc < 0 && i > 0) {
+      const pcl = R.analyse(ws[i - 1]);
+      vc = vowelAt(pcl, pcl.length - 1);
+      text = ws[i - 1] + ' ' + w; r = ref + ':' + i; aw = 1;
+      cat = vc < 0 ? '' : allahCat(pcl[vc].marks);
+    } else if (vc < 0) {
+      cat = 'h_start'; vw = -1;
+      if (ws[1]) text = w + ' ' + ws[1];
+    } else cat = allahCat(cl[vc].marks);
+    if (!cat) { allahOdd.push(r + ' ' + text); return; }
+    const byText = allahJ[cat] || (allahJ[cat] = new Map());
+    const e = byText.get(text) || { n: 0, r, aw, lc, vw, vc };
+    e.n++;
+    byText.set(text, e);
+  });
+}
+const allah = {};
+for (const cat of ['h_start', 'h_fatha', 'h_damma', 'l_kasra', 'l_tanween']) {
+  const all = [...(allahJ[cat] || new Map()).entries()].sort((a, b) => b[1].n - a[1].n);
+  allah[cat] = [all.reduce((s, e) => s + e[1].n, 0), all.slice(0, 6).map(([t, e]) => [t, e.r, e.n, e.aw, e.lc, e.vw, e.vc])];
+}
+if (allahOdd.length) console.log('allah: no vowel before the lam:', allahOdd.join(' | '));
+console.log('allah lam:', Object.entries(allah).map(([c, v]) => c + ' ' + v[0]).join(', '));
+
+/**
+ * madd: for the long-vowel letters ا و ي, real words for each madd length, read
+ * from the Madani marks: the maddah (ٓ) marks every madd longer than 2 counts.
+ *   madd_muttasil  maddah, hamza next in the same word (جَآءَ)          4–5
+ *   madd_munfasil  maddah at a word's end, the next word starts with hamza  4–5
+ *   madd_6         maddah, then a sukun or shadda (ٱلضَّآلِّينَ, ءَآلْـَٰٔنَ)  6
+ *   harfi          the opening letters of surahs (الٓمٓ), by the vowel of the letter's name  6
+ *   madd_2         no maddah, inside a word (natural madd and badal)       2
+ *   madd_246       no maddah, the last letter of an ayah after it: stopping
+ *                  gives 2, 4 or 6 (ٱلْعَٰلَمِينَ); lin = و / ي with sukun after fatha there (خَوْفٍ)
+ * A maddah at an ayah's end (مُوسَىٰٓ) is munfasil only when reading on into the next
+ * ayah, so it is left out. A madd letter at a word's end without a maddah is left out (it drops before a
+ * sukun: فِى ٱلْأَرْضِ). Alif covers ا, the dagger alif (ٰ) and ى with ٰ.
+ *   madd[L][cat] = [total, [[text, ref of its first word, count, ci], …]]
+ * madd_2 examples are spellings whose madd is 2 counts wherever they occur, so
+ * the ×N list matches; madd_246 / lin counts are ayah ends only.
+ */
+const MADDAH = 'ٓ', NO_HARAKA = (m) => !/[ً-ْ]/.test(m);
+const isHamza = (c) => c && ('ءأإؤئ'.indexOf(c.base) >= 0 || c.marks.indexOf('ٔ') >= 0);
+/** The madd letter (ا و ي) cluster i makes, or '' (lin: 'و*' / 'ي*'). */
+const maddLetter = (cl, i) => {
+  const c = cl[i], m = c.marks;
+  if (SILENT.test(m) || c.base === 'ٱ' || m.indexOf('۬') >= 0) return '';   // ا۬: hamza with tas-hil
+  // A madd letter written small after a vowelled letter (دَاوُۥدَ, the silah of هُۥ / هِۦ).
+  if (m.indexOf('ۥ') >= 0) return 'و';
+  if (m.indexOf('ۦ') >= 0) return 'ي';
+  let p = i - 1;
+  while (p >= 0 && SILENT.test(cl[p].marks)) p--;   // a silent alif in between: وَجِا۟ىٓءَ
+  const pm = p >= 0 ? cl[p].marks : '';
+  if (pm.indexOf('۪') >= 0) return '';   // imala: مَجْر۪ىٰهَا
+  // ٰ with a hamza sign or sukun is only the hamza's seat (فَٱدَّٰرَْٰٔتُمْ).
+  if (m.indexOf('ٰ') >= 0) return /[ْٔ]/.test(m) ? '' : 'ا';
+  if (p < 0) return '';
+  if ((c.base === 'ا' || c.base === 'آ') && NO_HARAKA(m) && /َ/.test(pm) && !/ً/.test(pm)) return 'ا';
+  if (c.base === 'و' && NO_HARAKA(m) && /ُ/.test(pm)) return 'و';
+  if ((c.base === 'ي' || c.base === 'ى') && NO_HARAKA(m) && /ِ/.test(pm)) return 'ي';
+  if ((c.base === 'و' || c.base === 'ي') && m.indexOf('ْ') >= 0 && /َ/.test(pm) && !/ّ/.test(m)) return c.base + '*';
+  return '';
+};
+/** The opening letters of surahs carry a maddah too (الٓمٓ): the long vowel in the letter's name. */
+const HARFI = { 'ل': 'ا', 'ص': 'ا', 'ك': 'ا', 'ق': 'ا', 'م': 'ي', 'س': 'ي', 'ن': 'و' };
+const maddJ = {};   // L -> cat -> text -> { n, r, ci }
+const maddSeen = {};   // word|ci -> Set of categories (madd_2 purity)
+const maddOdd = [];
+const addM = (L, cat, text, r, ci) => {
+  const byCat = maddJ[L] || (maddJ[L] = {});
+  const byText = byCat[cat] || (byCat[cat] = new Map());
+  const e = byText.get(text) || { n: 0, r, ci };
+  if (e.at === r) return;   // two madds of one kind in a word count the word once
+  e.at = r;
+  e.n++;
+  byText.set(text, e);
+};
+for (const ref of Object.keys(WORDS)) {
+  const ws = WORDS[ref];
+  ws.forEach((w, wi) => {
+    const cl = R.analyse(w);
+    const at = ref + ':' + (wi + 1);
+    let last = cl.length - 1;
+    while (last > 0 && (SILENT.test(cl[last].marks) || (cl[last].base === 'ا' && !cl[last].marks))) last--;
+    const ayahEnd = wi === ws.length - 1;
+    cl.forEach((c, i) => {
+      let L = maddLetter(cl, i);
+      if (!L && c.marks.indexOf(MADDAH) >= 0 && HARFI[c.base]) addM(HARFI[c.base], 'harfi', w, at, i);
+      if (!L) return;
+      const lin = L.length > 1;
+      L = L[0];
+      let cat;
+      if (c.marks.indexOf(MADDAH) >= 0) {
+        const next = cl[i + 1];
+        if (i >= last) {
+          if (lin || ayahEnd || !isHamza(R.analyse(ws[wi + 1])[0])) { maddOdd.push(at + ' ' + w); return; }
+          addM(L, 'madd_munfasil', w + ' ' + ws[wi + 1], at, i);
+          return;
+        }
+        // يَٰٓأَيُّهَا, هَٰٓؤُلَآءِ, هَٰٓأَنتُمْ: the vocative يَا / the هَا of attention is a word of its
+        // own written joined, so the madd is munfasil.
+        if (isHamza(next) && /[يه]/.test(c.base) && c.marks.indexOf('\u0670') >= 0 && (i === 0 || (i === 1 && /[وفأ]/.test(cl[0].base)))) {
+          addM(L, 'madd_munfasil', w, at, i);
+          return;
+        }
+        if (isHamza(next)) cat = 'madd_muttasil';
+        else if (/[ّْ]/.test(next.marks) || (!next.marks && !maddLetter(cl, i + 1))) cat = 'madd_6';
+        else { maddOdd.push(at + ' ' + w); return; }
+      } else if (i >= last) return;
+      else if (i === last - 1 && ayahEnd && !/ً/.test(cl[last].marks)) cat = lin ? 'lin' : 'madd_246';
+      else if (lin) return;
+      else cat = 'madd_2';
+      const sk = w + '|' + i;
+      (maddSeen[sk] || (maddSeen[sk] = new Set())).add(cat);
+      addM(L, cat, w, at, i);
+    });
+  });
+}
+const madd = {};
+for (const L of 'اوي') {
+  madd[L] = {};
+  for (const cat of ['madd_2', 'madd_muttasil', 'madd_munfasil', 'madd_6', 'harfi', 'madd_246', 'lin']) {
+    const all = [...((maddJ[L] || {})[cat] || new Map()).entries()].sort((a, b) => b[1].n - a[1].n);
+    const total = all.reduce((s, e) => s + e[1].n, 0);
+    if (!total) continue;
+    const out = [], used = new Set();
+    for (const [t, e] of all) {
+      if (out.length >= 6) break;
+      if (cat === 'madd_2' && maddSeen[t + '|' + e.ci].size > 1) continue;
+      const k = t.split(' ').map((x) => R.wordKey(x)).join(' ');
+      if (used.has(k)) continue;
+      used.add(k);
+      refsForGloss.add(e.r);
+      out.push([t, e.r, e.n, e.ci]);
+    }
+    madd[L][cat] = [total, out];
+  }
+}
+if (maddOdd.length) console.log('madd: maddah not explained (' + maddOdd.length + '):', maddOdd.join(' | '));
+console.log('madd:', Object.entries(madd).map(([L, v]) => L + ' ' + Object.entries(v).map(([c, x]) => c + ' ' + x[0]).join(', ')).join(' ; '));
+
+/**
  * before: what a noon sakinah, tanween or meem sakinah does before each letter.
  * The rule depends only on the next letter, and the Madani marks agree with it
  * (the noon or meem carries sukun exactly when it is izhar), so a junction whose
@@ -330,7 +517,7 @@ for (const [x, y] of LETTER_CONFUSABLE) {
 }
 
 fs.mkdirSync(OUT, { recursive: true });
-fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs, harakat, qalqalah, ra, before }));
+fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs, harakat, qalqalah, ra, allah, madd, before }));
 
 for (const lang of GLOSS_LANGS) {
   const wbw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/wbw', lang + '.json'), 'utf8'));

@@ -893,6 +893,121 @@ class TajweedLearn {
       </div>`;
   }
 
+  /** Arabic text with chosen clusters coloured: marks = [[word index, cluster index, colour], …]. */
+  lpMarkText(text, marks) {
+    return text.split(' ').map((w, wi) => LetterPracticeRules.analyse(w).map((c, ci) => {
+      const m = marks.find(x => x[0] === wi && x[1] === ci);
+      return m ? `<span style="color:${m[2]};font-weight:700">${this.esc(c.text)}</span>` : this.esc(c.text);
+    }).join('')).join(' ');
+  }
+
+  /**
+   * A drill chip: two-word texts play the words together from the ayah recitation,
+   * one word plays its own clip. The badge opens the ayah (ayah-position examples)
+   * or lists every ayah with this exact text (×N).
+   */
+  lpDrillChip(text, r, n, key, marks, ayahBadge) {
+    const num = v => Number(v).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
+    const two = text.indexOf(' ') >= 0;
+    const ayah = r.split(':').slice(0, 2).join(':');
+    const occTitle = this.esc(this.tt('tj_lp_occ_btn', 'See every ayah with this word'));
+    const badge = ayahBadge
+      ? `<button data-ayah-ref="${ayah}" title="${this.tt('tj_open_verse')}" class="absolute top-1 end-1 text-[10px] font-mono px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">${ayah}</button>`
+      : `<button data-lp-occw="${this.esc(text)}" data-lp-occr="${r}" data-lp-occk="${key}" data-lp-occx title="${occTitle}" aria-label="${occTitle}"
+          class="absolute top-1 end-1 text-[10px] font-medium px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${num(n)}</button>`;
+    return `
+      <div class="relative">
+        <button ${two ? `data-lp-span="${r}"` : `data-ayah-audio="${this.lpWordAudio(r)}"`} title="${r}" class="w-full h-full flex flex-col items-center rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1">
+          <span class="absolute top-1.5 start-1.5 text-[10px] text-gray-400">🔊</span>
+          <span class="ayah-arabic !text-xl !leading-[2.1] mt-3" dir="rtl">${this.lpMarkText(text, marks)}</span>
+          ${two ? (ayahBadge ? '' : `<span class="text-[10px] font-mono text-gray-400 leading-tight">${ayah}</span>`)
+            : `<span class="text-[10px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-1" dir="auto">${this.esc(this.lpGlossOf(r))}</span>`}
+        </button>
+        ${badge}
+      </div>`;
+  }
+
+  /** ل only: the lam in the name Allah, heavy or light by the vowel said just before it. */
+  lpAllahHtml(key) {
+    const A = key === 'ل' && this.lpData && this.lpData.allah;
+    if (!A) return '';
+    const num = n => Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
+    const VOWEL = '#D97706';
+    const col = (title, cls, color, cats) => `
+      <div class="rounded-xl border ${cls} p-3">
+        <p class="text-sm font-bold mb-2" style="color:${color}">${title}</p>
+        ${cats.filter(c => A[c] && A[c][1].length).map(c => `
+          <p class="text-xs text-gray-600 dark:text-gray-300 mb-1">${this.tt('tj_al_' + c, c)} <span class="text-gray-400">· ${this.tt('tj_nb_count', '{n} times in the Quran').split('{n}').join(num(A[c][0]))}</span></p>
+          <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 gap-1.5 mb-3">${A[c][1].map(([text, r, n, aw, lc, vw, vc]) =>
+            this.lpDrillChip(text, r, n, key, vw >= 0 ? [[aw, lc, color], [vw, vc, VOWEL]] : [[aw, lc, color]], c === 'h_start')).join('')}</div>`).join('')}
+      </div>`;
+    return `
+      <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">${this.tt('tj_al_title', 'Lam in the name Allah')}</h3>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_al_hint', 'The lam is heavy after fatha or damma and light after kasra. Look at the vowel just before it, shown in amber. Tap an example to hear it.')}</p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        ${col(this.tt('tj_ra_heavy', 'Heavy (tafkhim)'), 'border-rose-200 dark:border-rose-500/30', '#E11D48', ['h_start', 'h_fatha', 'h_damma'])}
+        ${col(this.tt('tj_ra_light', 'Light (tarqiq)'), 'border-sky-200 dark:border-sky-500/30', '#0284C7', ['l_kasra', 'l_tanween'])}
+      </div>`;
+  }
+
+  /** Colour of a tajweed rule (TAJWEED_RULES), grey when unknown. */
+  lpRuleColor(r) {
+    return ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[r]) || {}).color || '#64748B';
+  }
+
+  /** Rule chip (opens the rule) with its one-line lesson. */
+  lpRuleHead(r) {
+    return `
+      <div class="flex flex-wrap items-start gap-2 mb-2">
+        <button data-tj-path="${r}" class="shrink-0 text-xs font-semibold px-2.5 py-1 rounded-full text-white hover:opacity-80" style="background:${this.lpRuleColor(r)}">${this.esc(this.ruleName(r))} ›</button>
+        <span class="flex-1 min-w-[12rem] text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lesson(r))}</span>
+      </div>`;
+  }
+
+  /**
+   * ا و ي: how long to hold the madd, one box per length, with real words. The
+   * madd letter is in the rule's colour and what lengthens it (the hamza, the
+   * sukun or shadda, the last letter at a stop) in amber.
+   */
+  lpMaddHtml(key) {
+    const M = this.lpData && this.lpData.madd && this.lpData.madd[key];
+    if (!M) return '';
+    const num = n => Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
+    const CAUSE = '#D97706';
+    const ROWS = [
+      ['madd_2', 'madd_2', 'tj_md_c2', '2 counts'],
+      ['madd_muttasil', 'madd_muttasil', 'tj_md_c45', '4 or 5 counts'],
+      ['madd_munfasil', 'madd_munfasil', 'tj_md_c45', '4 or 5 counts'],
+      ['madd_6', 'madd_6', 'tj_md_c6', '6 counts'],
+      ['harfi', 'madd_6', 'tj_md_harfi', 'Opening letters of a surah (الٓمٓ): 6 counts'],
+      ['madd_246', 'madd_246', 'tj_md_c246', '2, 4 or 6 counts when stopping'],
+      ['lin', 'madd_246', 'tj_md_lin', 'Madd lin: و or ي with sukun after fatha']
+    ];
+    let shown = '';   // the rule chip is shown once per rule (harfi follows madd_6, lin follows madd_246)
+    const boxes = ROWS.filter(([cat]) => M[cat] && M[cat][1].length).map(([cat, rule, lk, lf]) => {
+      const color = this.lpRuleColor(rule);
+      const head = shown === rule ? '' : this.lpRuleHead(rule);
+      shown = rule;
+      const atEnd = cat === 'madd_246' || cat === 'lin';
+      const chips = M[cat][1].map(([text, r, n, ci]) => {
+        const marks = [[0, ci, color]];
+        if (cat !== 'madd_2' && cat !== 'harfi') marks.push(text.indexOf(' ') >= 0 ? [1, 0, CAUSE] : [0, ci + 1, CAUSE]);
+        return this.lpDrillChip(text, r, n, key, marks, atEnd);
+      }).join('');
+      return `
+        <div class="rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 p-3 mb-3">
+          ${head}
+          <p class="text-xs font-semibold text-gray-600 dark:text-gray-300 mb-1.5"><span style="color:${color}">${this.tt(lk, lf)}</span> <span class="font-normal text-gray-400">· ${this.tt('tj_nb_count', '{n} times in the Quran').split('{n}').join(num(M[cat][0]))}</span></p>
+          <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-1.5">${chips}</div>
+        </div>`;
+    }).join('');
+    return `
+      <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">${this.tt('tj_md_title', 'How long to hold the madd')}</h3>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_md_hint', '{l} as a long vowel. The madd sign (ـٓ) means hold it longer than 2 counts. Tap a word to hear it.').split('{l}').join(`<span class="ayah-arabic !text-base !leading-none" dir="rtl">${key}</span>`)}</p>
+      ${boxes}
+      <div class="mb-6"></div>`;
+  }
+
   /** Count a word or ayah heard on the selected letter's page (LetterProgress step 1). */
   lpHeard(id) {
     if (typeof LetterProgress !== 'undefined' && id && LetterProgress.heard(this.lpLetter, id)) this.lpProgressRefresh();
@@ -1055,7 +1170,7 @@ class TajweedLearn {
     const B = this.lpData && this.lpData.before && this.lpData.before[key];
     if (!B) return '';
     const num = n => Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
-    const ruleColor = r => ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[r]) || {}).color || '#64748B';
+    const ruleColor = r => this.lpRuleColor(r);
     const occTitle = this.esc(this.tt('tj_lp_occ_btn', 'See every ayah with this word'));
     const chips = (ex, rc) => ex.map(([text, r, n, ci]) => {
       const two = text.indexOf(' ') >= 0;
@@ -1071,11 +1186,7 @@ class TajweedLearn {
             class="absolute top-1 end-1 text-[10px] font-medium px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${num(n)}</button>
         </div>`;
     }).join('');
-    const ruleHead = r => `
-      <div class="flex flex-wrap items-start gap-2 mb-2">
-        <button data-tj-path="${r}" class="shrink-0 text-xs font-semibold px-2.5 py-1 rounded-full text-white hover:opacity-80" style="background:${ruleColor(r)}">${this.esc(this.ruleName(r))} ›</button>
-        <span class="flex-1 min-w-[12rem] text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lesson(r))}</span>
-      </div>`;
+    const ruleHead = r => this.lpRuleHead(r);
     const row = (label, total, ex, rc) => ex.length ? `
       <p class="text-xs font-semibold text-gray-600 dark:text-gray-300 mb-1.5">${label} <span class="font-normal text-gray-400">· ${this.tt('tj_nb_count', '{n} times in the Quran').split('{n}').join(num(total))}</span></p>
       <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-1.5 mb-3">${chips(ex, rc)}</div>` : '';
@@ -1212,6 +1323,8 @@ class TajweedLearn {
         <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-2 mb-6">${words}</div>
 
         ${this.lpRaHtml(sel.key)}
+        ${this.lpAllahHtml(sel.key)}
+        ${this.lpMaddHtml(sel.key)}
         ${this.lpQalqalahHtml(sel.key, color)}
         ${this.lpHarakatHtml(sel.key, color)}
         ${this.lpBeforeHtml(sel.key, color)}
