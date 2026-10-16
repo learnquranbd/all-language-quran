@@ -1109,7 +1109,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi then records the objection. Ibn Qutayba and others rejected the reading and said this usage holds only for two equal faces, each of which faces a different group of people, like a wall standing between you and another people; that, they said, is how the sky is spoken of. Al-Qurtubi sets the two positions side by side without settling between them, and this article leaves them there too. It is worth noting only that the remark of Ibn Mas'ud (RA) and the answer of Sa'id ibn Jubayr both rest on the first reading, lining as the underside.",
-            "bn": "কুরতুবী এরপর আপত্তিটাও লিখে রাখেন। ইবন কুতায়বা ও অন্যরা এই ব্যাখ্যা মানেননি। তাঁদের মতে এমন ব্যবহার চলে শুধু দুটি সমান দিকের বেলায়, যার প্রতিটি দুই ভিন্ন দল মানুষের দিকে মুখ করে থাকে। যেমন আপনার আর আরেক দল মানুষের মাঝখানে দাঁড়ানো একটা দেয়াল। আকাশের কথাও তাঁদের মতে এভাবেই বলা হয়। কুরতুবী দুই মত পাশাপাশি রাখেন, কোনো ফয়সালা দেন না। এই লেখাও সেভাবেই রেখে দিচ্ছে। শুধু এটুকু খেয়াল রাখার মতো: ইবন মাসউদ (রাঃ)-এর মন্তব্য আর সাঈদ ইবন জুবাইরের উত্তর, দুটোই দাঁড়িয়ে আছে প্রথম পাঠের উপর, যেখানে আস্তর মানে নিচের দিক।"
+            "bn": "কুরতুবী এরপর আপত্তিটাও লিখে রাখেন। ইবন কুতায়বা ও অন্যরা এই ব্যাখ্যা মানেননি। তাঁদের মতে এমন ব্যবহার চলে শুধু এমন দুটি সমান দিকের বেলায়, যার একেকটি একেক দল মানুষের দিকে মুখ করে থাকে। যেমন আপনার আর আরেক দল মানুষের মাঝখানে দাঁড়ানো একটা দেয়াল। আকাশের কথাও তাঁদের মতে এভাবেই বলা হয়। কুরতুবী দুই মত পাশাপাশি রাখেন, কোনো ফয়সালা দেন না। এই লেখাও সেভাবেই রেখে দিচ্ছে। শুধু এটুকু খেয়াল রাখার মতো: ইবন মাসউদ (রাঃ)-এর মন্তব্য আর সাঈদ ইবন জুবাইরের উত্তর, দুটোই দাঁড়িয়ে আছে প্রথম পাঠের উপর, যেখানে আস্তর মানে নিচের দিক।"
           }
         ]
       },
@@ -1121,11 +1121,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-jana al-jannatayni dan: and the jana of the two gardens is near. Al-Qurtubi and al-Baghawi define jana as whatever is gathered from trees, and al-Qurtubi notes a reading jina, with the first letter vowelled i. As-Sa'di specifies ripe fruit. Dan is the active participle of dana, to come near. At-Tabari explains the nearness by what it spares them: they do not tire themselves climbing the palms and trees to gather the fruit, but gather it sitting, without any toil.",
-            "bn": "ওয়া জানাল জান্নাতাইনি দান: আর দুই বাগানের জানা কাছেই। কুরতুবী আর বাগাভী জানার সংজ্ঞা দেন: গাছ থেকে যা তোলা হয়। কুরতুবী জানান, শব্দটির আরেক পাঠ জিনা, প্রথম অক্ষরে যের দিয়ে। সা'দী নির্দিষ্ট করে বলেন, পাকা ফল। দান এসেছে দানা ক্রিয়া থেকে, যার অর্থ কাছে আসা। তাবারী এই কাছে থাকার ব্যাখ্যা দেন কী থেকে তারা রেহাই পায় তা দিয়ে। খেজুর গাছে বা অন্য গাছে চড়ে ফল পাড়তে তাদের কষ্ট করতে হয় না। বসে বসেই ফল তুলে নেয়, কোনো খাটুনি ছাড়া।"
+            "bn": "ওয়া জানাল জান্নাতাইনি দান: আর দুই বাগানের জানা কাছেই। কুরতুবী আর বাগাভী জানার সংজ্ঞা দেন: গাছ থেকে যা তোলা হয়। কুরতুবী জানান, শব্দটির আরেক পাঠ জিনা, প্রথম অক্ষরে যের দিয়ে। সা'দী নির্দিষ্ট করে বলেন, পাকা ফল। দান এসেছে দানা ক্রিয়া থেকে, যার অর্থ কাছে আসা। এই কাছে থাকার মানে তাবারী বোঝান, তারা কোন কষ্ট থেকে রেহাই পায় তা দেখিয়ে। খেজুর গাছে বা অন্য গাছে চড়ে ফল পাড়তে তাদের কষ্ট করতে হয় না। বসে বসেই ফল তুলে নেয়, কোনো খাটুনি ছাড়া।"
           },
           {
             "en": "The commentators then list the postures in which the fruit can be reached. Al-Qurtubi reports Ibn Abbas (RA): the tree comes down until the friend of Allah picks from it, standing if he wishes, sitting if he wishes, lying down if he wishes. Al-Baghawi's version of the same report names standing and sitting. As-Sa'di says the one standing, the one sitting and the one lying down all reach it, and al-Baghawi's own gloss has the one standing, sitting and sleeping. Qatadah, in at-Tabari and al-Baghawi, puts it negatively: neither distance nor thorns turn their hands back.",
-            "bn": "এরপর তাফসীরকারেরা জানান, কোন কোন ভঙ্গিতে ফলের নাগাল পাওয়া যায়। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন: গাছ নিচে নেমে আসে, যতক্ষণ না আল্লাহর ওলী তা থেকে ফল তুলে নেন। চাইলে দাঁড়িয়ে, চাইলে বসে, চাইলে শুয়ে। বাগাভীর বর্ণনায় একই কথায় আছে দাঁড়ানো আর বসার উল্লেখ। সা'দী বলেন, দাঁড়ানো, বসা আর শোয়া, সবাই নাগাল পায়। বাগাভীর নিজের ব্যাখ্যায় আছে দাঁড়ানো, বসা আর ঘুমন্ত মানুষের কথা। তাবারী আর বাগাভীর বর্ণনায় কাতাদা কথাটি বলেন না-বাচক ভাষায়: দূরত্ব বা কাঁটা কোনোটাই তাদের হাত ফিরিয়ে দেয় না।"
+            "bn": "এরপর তাফসীরকারেরা জানান, কোন কোন ভঙ্গিতে ফলের নাগাল পাওয়া যায়। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন: গাছ নিচে নেমে আসে, যতক্ষণ না আল্লাহর ওলী তা থেকে ফল তুলে নেন। চাইলে দাঁড়িয়ে, চাইলে বসে, চাইলে শুয়ে। একই বর্ণনা বাগাভী যেভাবে এনেছেন, তাতে আছে দাঁড়ানো আর বসার কথা। সা'দী বলেন, যে দাঁড়িয়ে আছে, যে বসে আছে, যে শুয়ে আছে, সবাই ফলের নাগাল পায়। বাগাভীর নিজের ব্যাখ্যায় আছে দাঁড়ানো, বসা আর ঘুমন্ত মানুষের কথা। তাবারী আর বাগাভীর বর্ণনায় কাতাদা কথাটি বলেন না-বাচক ভাষায়: দূরত্ব বা কাঁটা কোনোটাই তাদের হাত ফিরিয়ে দেয় না।"
           },
           {
             "en": "Ibn Kathir says the fruit is near them, so that whenever they wish they take it, in whatever state they are in, and he sets the verse beside two others. 69:23 says its clusters are near, and 76:14 says its shade is close over them and its clusters have been made to hang low. He explains that the fruit does not hold back from whoever reaches for it, but comes down to him from its branches. The verse's own word is enough: nothing stands between the hand and the fruit.",
@@ -1141,7 +1141,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the tafsir fetched for this verse attaches a sound, sourced hadith to the furnishings or the fruit; at-Tabari and al-Qurtubi each mention a report from the Prophet ﷺ without naming a collection, and this article does not use them. The verse that Sa'id ibn Jubayr reached for, 32:17, does have one, recorded by al-Bukhari in Sahih al-Bukhari (4779) under that verse, not under ours. Abu Hurayra (RA) narrates that the Messenger of Allah ﷺ said:",
-            "bn": "এই আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোর কোনোটিই শয্যা বা ফল নিয়ে সূত্রসহ কোনো সহীহ হাদীস এই আয়াতের সঙ্গে যুক্ত করেনি। তাবারী আর কুরতুবী দুজনেই নবী ﷺ থেকে একটি করে বর্ণনা উল্লেখ করেন, কিন্তু কোনো হাদীসগ্রন্থের নাম দেন না। এই লেখা সেগুলো ব্যবহার করছে না। তবে সাঈদ ইবন জুবাইর যে আয়াতের কথা তুলেছিলেন, সেই ৩২:১৭ আয়াতের সঙ্গে একটি হাদীস আছে। ইমাম বুখারী তা এনেছেন সহীহ বুখারীতে (৪৭৭৯), সেই আয়াতের অধীনে, আমাদের আয়াতের অধীনে নয়। আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন:"
+            "bn": "এ আয়াতের যেসব তাফসীর সংগ্রহ করা হয়েছে, তার কোনোটিই শয্যা বা ফল নিয়ে সূত্রসহ কোনো সহীহ হাদিস আনেনি। তাবারী আর কুরতুবী দুজনেই নবী ﷺ থেকে একটি করে বর্ণনা উল্লেখ করেন, কিন্তু কোনো হাদিসগ্রন্থের নাম দেন না। এ প্রবন্ধে সেগুলো নেওয়া হয়নি। তবে সাঈদ ইবন জুবাইর যে আয়াতের দিকে ইশারা করেছিলেন, সেই ৩২:১৭ আয়াতের সঙ্গে একটি হাদিস আছে। ইমাম বুখারী তা এনেছেন সহীহ বুখারীতে (৪৭৭৯), ওই আয়াতের অধীনে, আমাদের আয়াতের অধীনে নয়। আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন:"
           },
           {
             "en": "\"Allah said, 'I have prepared for my pious worshipers such things as no eye has ever seen, no ear has ever heard of, and nobody has ever thought of.'\" Abu Hurayra added: if you wish you can read, 'No soul knows what is kept hidden (in reserve) for them of joy as reward for what they used to do.' The narration is general, about all that is prepared in Paradise, and it is not attached to 55:54. It does fit the restraint the early answers showed. A lining is described; the rest is left to that promise.",
@@ -1157,11 +1157,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Everything in this verse is ease: a body leaning back, a cloth so fine it is wasted on the underside, fruit that comes down to the hand. The ease is not offered to everyone. It is the reward of the man described in 55:46, whose fear of the standing before his Lord cost him something in this life. The verse does not dwell on that cost, but its picture is the opposite of it: here there is climbing and thorns, there neither distance nor thorns turn the hand back.",
-            "bn": "এই আয়াতের সবটাই আরাম। একটা শরীর হেলান দিয়ে আছে। এমন মিহি কাপড়, যা নিচের দিকে লাগানো যেন অপচয়। আর ফল নিজেই নেমে আসে হাতের কাছে। এ আরাম সবার জন্য নয়। এটা ৫৫:৪৬ আয়াতে বর্ণিত সেই মানুষের প্রতিদান, রবের সামনে দাঁড়ানোর ভয় যাকে দুনিয়াতে কিছু না কিছু ছাড়তে বাধ্য করেছে। সেই ত্যাগ নিয়ে আয়াত কিছু বলে না, কিন্তু তার ছবিটা ঠিক উল্টো। এখানে গাছে চড়া আছে, কাঁটা আছে। সেখানে দূরত্ব বা কাঁটা কিছুই হাত ফিরিয়ে দেয় না।"
+            "bn": "এই আয়াতের সবটাই আরাম। একটা শরীর হেলান দিয়ে আছে। কাপড় এত মিহি যে নিচের দিকে লাগানো যেন অপচয়। আর ফল নিজেই নেমে আসে হাতের কাছে। এ আরাম সবার জন্য নয়। এটা ৫৫:৪৬ আয়াতে বর্ণিত সেই মানুষের প্রতিদান, রবের সামনে দাঁড়ানোর ভয় যাকে দুনিয়াতে কিছু না কিছু ছাড়তে বাধ্য করেছে। সেই ত্যাগ নিয়ে আয়াত কিছু বলে না, কিন্তু আয়াতের ছবিটা সেই ত্যাগের ঠিক উল্টো। দুনিয়াতে গাছে চড়তে হয়, কাঁটা বিঁধে। সেখানে দূরত্ব বা কাঁটা কিছুই হাত ফিরিয়ে দেয় না।"
           },
           {
             "en": "Two practical lines follow. The first is to accept the half-told promise as the early readers did, with eagerness rather than with demands for detail: Ibn Abbas (RA), in al-Qurtubi's report, said the linings were described so that hearts would be guided towards it. The second is to choose where to spend effort. Rest here is real and lawful, but it does not last; the verse places lasting rest after the fear has done its work. The surah goes on to the people who share these couches and then to a second pair of gardens, each with its own verse.",
-            "bn": "এ থেকে দুটি বাস্তব কথা আসে। প্রথমত, অর্ধেক বলা ওয়াদাটা গ্রহণ করা আগের যুগের মানুষের মতো, আগ্রহ নিয়ে, বিস্তারিত দাবি না করে। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন, আস্তরের বর্ণনা দেওয়া হয়েছে যেন মন সেদিকে পথ পায়। দ্বিতীয়ত, খাটুনি কোথায় খরচ করবেন তা বেছে নেওয়া। দুনিয়ার বিশ্রাম সত্যি, হালালও, কিন্তু টেকে না। স্থায়ী বিশ্রাম আয়াত রেখেছে সেই ভয় তার কাজ শেষ করার পরে। সূরা এরপর যাবে এই শয্যার সঙ্গীদের কথায়, তারপর আরও এক জোড়া বাগানের কথায়। প্রতিটির জন্য আছে আলাদা আয়াত।"
+            "bn": "এ থেকে দুটি বাস্তব শিক্ষা পাওয়া যায়। প্রথমটি হলো, অর্ধেক বলা এই ওয়াদাকে সেভাবে গ্রহণ করা, যেভাবে আগের যুগের মানুষেরা করেছিলেন: আগ্রহ নিয়ে, খুঁটিনাটির দাবি না তুলে। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন, আস্তরের বর্ণনা দেওয়া হয়েছে, যাতে মন সেদিকে পথ খুঁজে পায়। দ্বিতীয়টি হলো, খাটুনি কোথায় খরচ করবেন তা বেছে নেওয়া। দুনিয়ার বিশ্রাম সত্যি, হালালও, কিন্তু তা টেকে না। আয়াতটি স্থায়ী বিশ্রাম রেখেছে ভয় তার কাজ শেষ করার পরে। সূরা এরপর বলবে এই শয্যার সঙ্গীদের কথা, তারপর আরও এক জোড়া বাগানের কথা, প্রতিটি নিজ নিজ আয়াতে।"
           }
         ]
       }
@@ -1172,16 +1172,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question Built to Deny",
-          "bn": "যে প্রশ্ন অস্বীকার করতেই গড়া"
+          "bn": "যে প্রশ্নের উত্তর একটাই: না"
         },
         "p": [
           {
             "en": "Hal jaza' al-ihsani illa al-ihsan. Five words in Arabic, and the shape of the sentence carries as much as the vocabulary. Hal is the interrogative particle, but paired with illa, except, it forms the construction Arabic uses for emphatic negation dressed as a question. The literal sense is: is the recompense of ihsan anything except ihsan? The intended sense is: there is nothing else it could be.",
-            "bn": "হাল জাযাউল-ইহসানি ইল্লাল-ইহসান। আরবিতে পাঁচটি শব্দ, আর বাক্যের গড়ন শব্দভান্ডারের সমানই ভার বহন করে। হাল একটি প্রশ্নবাচক অব্যয়, কিন্তু ইল্লা অর্থাৎ ‘ছাড়া’-র সাথে জোড়া লেগে এটি সেই গঠন তৈরি করে যা আরবি ব্যবহার করে প্রশ্নের পোশাকে জোরালো অস্বীকার প্রকাশে। আক্ষরিক অর্থ: ইহসানের প্রতিদান কি ইহসান ছাড়া আর কিছু? অভিপ্রেত অর্থ: এটি আর কিছুই হতে পারে না।"
+            "bn": "হাল জাযাউল-ইহসানি ইল্লাল-ইহসান। আরবিতে মাত্র পাঁচটি শব্দ। এখানে শব্দের মতো বাক্যের গড়নও সমান কথা বলে। হাল প্রশ্ন করার অব্যয়। কিন্তু ইল্লা, অর্থাৎ ‘ছাড়া’, এর সঙ্গে জুড়লে তা আরবির এমন এক গঠন হয়ে যায়, যা প্রশ্নের চেহারায় জোর দিয়ে ‘না’ বলে। আক্ষরিক অর্থ: ইহসানের প্রতিদান কি ইহসান ছাড়া আর কিছু? আসল বক্তব্য: আর কিছু হতেই পারে না।"
           },
           {
             "en": "A statement would have said the reward of good is good. The question does something a statement cannot: it hands the conclusion to the listener to draw. Nobody is being informed; everybody is being asked to admit what he already knows. That is why the line has travelled so far beyond its own surah, and why it works as an argument even with someone who does not accept the Book it comes from.",
-            "bn": "সাধারণ বিবৃতি হলে বলা হতো, ইহসানের প্রতিদান ইহসান। কিন্তু প্রশ্নটি এমন কিছু করে যা বিবৃতি পারে না: সিদ্ধান্তটি টানার ভার শ্রোতার হাতে তুলে দেয়। কাউকে জানানো হচ্ছে না; প্রত্যেককে বলা হচ্ছে সে যা আগে থেকেই জানে তা স্বীকার করতে। এ কারণেই কথাটি নিজের সূরার সীমা ছাড়িয়ে এত দূর গেছে, আর এ কারণেই এটি এমন কারও সাথেও যুক্তি হিসেবে কাজ করে যে এই কিতাবকেই মানে না।"
+            "bn": "সোজা বিবৃতি হলে বলা হতো: ভালোর প্রতিদান ভালো। প্রশ্ন এমন কাজ করে, যা বিবৃতি পারে না। সিদ্ধান্তটা শ্রোতা নিজেই টানেন। এখানে কাউকে নতুন কিছু জানানো হচ্ছে না। সবাইকে বলা হচ্ছে, যা আগে থেকেই জানেন, তা মুখে স্বীকার করুন। এ কারণেই কথাটি নিজের সূরা ছাড়িয়ে এত দূর পৌঁছেছে। আর এ কারণেই, যে এই কিতাব মানে না, তার সঙ্গেও যুক্তি হিসেবে এটা খাটে।"
           }
         ]
       },
@@ -1193,11 +1193,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Jaza is not a gift. It is requital — what is due back, an exact settling of accounts, the same root that gives the phrase jazak Allahu khayran. Putting jaza and ihsan in one sentence is already a claim: that goodness is not left to chance or to the generosity of whoever received it, but falls under a law of return.",
-            "bn": "জাযা কোনো উপহার নয়। এটি প্রতিদান — যা ফিরিয়ে দেওয়া প্রাপ্য, হিসাবের নিখুঁত নিষ্পত্তি; একই ধাতু থেকে এসেছে জাযাকাল্লাহু খাইরান বাক্যাংশটি। জাযা ও ইহসানকে এক বাক্যে বসানোই একটি দাবি: কল্যাণ সৌভাগ্যের হাতে বা গ্রহীতার উদারতার হাতে ছেড়ে দেওয়া হয়নি, বরং তা ফিরে আসার একটি বিধানের অধীন।"
+            "bn": "জাযা কোনো উপহার নয়। জাযা হলো প্রতিদান: যা পাওনা, তা ফিরিয়ে দেওয়া, কড়ায়-গণ্ডায় হিসাব মেটানো। জাযাকাল্লাহু খাইরান কথাটিও এসেছে একই ধাতু থেকে। জাযা আর ইহসানকে এক বাক্যে বসানোতেই একটা দাবি আছে। ভালো কাজ ভাগ্যের হাতে ছেড়ে দেওয়া হয়নি, যে উপকার পেল তার উদারতার হাতেও নয়। ভালো কাজ একটা নিয়ম মেনে ফিরে আসে।"
           },
           {
             "en": "Ihsan is from husn, beauty. It is not merely doing good but doing it well and completely, without the corners cut that nobody would have noticed. Both occurrences carry the definite article, al-ihsan, so the recompense is not merely something pleasant; it is of the same named kind as the deed. Beauty is repaid with beauty, and the sentence is closed at both ends by the same word.",
-            "bn": "ইহসান এসেছে হুসন থেকে, অর্থাৎ সৌন্দর্য। এটি কেবল ভালো কাজ করা নয়, বরং তা ভালোভাবে ও পূর্ণরূপে করা — কেউ টের পেত না এমন কোণগুলোও না কেটে। দুই জায়গাতেই নির্দিষ্টতাবাচক উপসর্গ আছে, আল-ইহসান; তাই প্রতিদান কেবল কোনো আনন্দদায়ক কিছু নয়, বরং কাজটির মতো একই নামের একই জাতের। সৌন্দর্যের প্রতিদান সৌন্দর্য, আর বাক্যটির দুই প্রান্তই বন্ধ হয়েছে একই শব্দ দিয়ে।"
+            "bn": "ইহসান এসেছে হুসন থেকে, যার অর্থ সৌন্দর্য। ইহসান মানে শুধু ভালো কাজ করা নয়, কাজটা সুন্দর করে, পুরোপুরি করা। এমন ফাঁকিও না দেওয়া, যা কেউ টেরই পেত না। দুই জায়গাতেই শব্দটি এসেছে ‘আল’ সহ: আল-ইহসান। তাই প্রতিদান শুধু ভালো লাগার মতো কিছু নয়। কাজের যে নাম, প্রতিদানেরও সেই নাম, সেই জাত। সৌন্দর্যের প্রতিদান সৌন্দর্য। বাক্যের শুরু আর শেষ, দুই মাথাই বাঁধা একই শব্দে।"
           }
         ]
       },
@@ -1209,11 +1209,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names neither the one who does the ihsan nor the one who repays it. That silence is not a gap; the commentators read the line in more than one direction and the wording carries all of them. It is the servant's ihsan towards his Lord, answered by his Lord's ihsan towards him. It is also ihsan shown to people, whose return is guaranteed even when the people themselves do not provide it.",
-            "bn": "আয়াতে কারও নাম নেই — না যে ইহসান করে, না যে প্রতিদান দেয়। এই নীরবতা কোনো ফাঁক নয়; মুফাসসিরগণ পঙ্‌ক্তিটিকে একাধিক দিক থেকে পড়েন, আর শব্দগুলো সবগুলো অর্থই বহন করে। এটি রবের প্রতি বান্দার ইহসান, যার জবাবে আসে বান্দার প্রতি রবের ইহসান। এটি মানুষের প্রতি দেখানো ইহসানও, যার প্রতিদান নিশ্চিত — মানুষ নিজে তা না দিলেও।"
+            "bn": "যে ইহসান করে, আয়াতে তার নাম নেই। যে প্রতিদান দেয়, তারও নাম নেই। এই নীরবতা কোনো ফাঁক নয়। তাফসীরকারেরা কথাটি একাধিক দিক থেকে পড়েছেন, আর আয়াতের শব্দ সবগুলো অর্থই ধারণ করে। এক অর্থে এটা রবের প্রতি বান্দার ইহসান, যার জবাবে আসে বান্দার প্রতি রবের ইহসান। আরেক অর্থে এটা মানুষের প্রতি করা ইহসান। মানুষ নিজে প্রতিদান না দিলেও এর প্রতিদান নিশ্চিত।"
           },
           {
             "en": "Set beside it 10:26: for those who did good is al-husna and more. Husna, the best, plus ziyadah, an addition beyond it. So the law of exact return is not a ceiling. Ihsan is repaid in kind as a minimum, and then something is added that the equation did not require. The verse before us states the floor; the promise elsewhere removes the roof.",
-            "bn": "এর পাশে রাখুন 10:26: যারা ইহসান করেছে তাদের জন্য আছে আল-হুসনা এবং আরও কিছু। হুসনা অর্থাৎ সর্বোত্তম, তার সাথে যিয়াদাহ অর্থাৎ তার ওপরে অতিরিক্ত। অর্থাৎ নিখুঁত প্রতিদানের বিধানটি কোনো সিলিং নয়। ইহসানের প্রতিদান অন্তত সমমানে ফিরে আসে, তারপর এমন কিছু যোগ হয় যা সমীকরণের দাবি ছিল না। আমাদের সামনের আয়াতটি মেঝে নির্ধারণ করে; অন্যত্রের প্রতিশ্রুতি ছাদটি সরিয়ে দেয়।"
+            "bn": "এর পাশে রাখুন ১০:২৬ আয়াত: যারা ইহসান করেছে, তাদের জন্য আছে আল-হুসনা, আর আরও বেশি। হুসনা মানে সবচেয়ে উত্তম, আর যিয়াদাহ মানে তার ওপরে বাড়তি। তাহলে কড়ায়-গণ্ডায় প্রতিদানের নিয়মটা কোনো ঊর্ধ্বসীমা নয়। ইহসানের প্রতিদান অন্তত সমান মাপে ফেরে। তারপর এমন কিছু যোগ হয়, যা হিসাবমতে পাওনা ছিল না। আমাদের সামনের আয়াত নিচের সীমাটা বলে দেয়। আর অন্য আয়াতের ওয়াদা উপরের সীমাটাই তুলে দেয়।"
           }
         ]
       },
@@ -1225,11 +1225,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah ar-Rahman is built on a refrain — so which of the favours of your Lord will you two deny — repeated thirty-one times, and 55:61 is one of those repetitions, coming immediately after our line. The placement matters. From 55:46 the surah has been describing two gardens for the one who feared the standing before his Lord, with their branches, springs and fruits.",
-            "bn": "সূরা আর-রাহমান গাঁথা হয়েছে একটি ধুয়ার ওপর — অতএব তোমরা উভয়ে তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে — যা একত্রিশবার পুনরাবৃত্ত হয়েছে, আর 55:61 সেই পুনরাবৃত্তিগুলোরই একটি, যা আমাদের পঙ্‌ক্তির ঠিক পরেই আসে। অবস্থানটি গুরুত্বপূর্ণ। 55:46 থেকে সূরাটি বর্ণনা করে আসছে দুটি জান্নাত, যা সেই ব্যক্তির জন্য যে তার রবের সামনে দাঁড়ানোকে ভয় করেছে — তার শাখা, ঝর্ণা ও ফলসহ।"
+            "bn": "সূরা আর-রাহমান দাঁড়িয়ে আছে একটি ধুয়ার ওপর: অতএব তোমরা উভয়ে তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে? ধুয়াটি এসেছে একত্রিশবার। ৫৫:৬১ তারই একটি, আর তা আসে আমাদের আয়াতের ঠিক পরেই। এই অবস্থানটা গুরুত্বপূর্ণ। ৫৫:৪৬ থেকে সূরাটি দুটি বাগানের বর্ণনা দিয়ে আসছে। বাগান দুটি তার জন্য, যে রবের সামনে দাঁড়ানোকে ভয় করেছে। একে একে এসেছে সেগুলোর ডালপালা, ঝরনা আর ফলের কথা।"
           },
           {
             "en": "Immediately after the refrain, 55:62 begins the second pair: and besides these two, two other gardens. So our verse sits exactly on the seam. It is not an isolated aphorism about kindness. It is the summary line that explains the entire passage of reward: everything described on either side of it is there because this rule holds. The gardens are the answer to the question the verse asks.",
-            "bn": "ধুয়াটির ঠিক পরেই 55:62 দ্বিতীয় জোড়াটি শুরু করে: আর এ দুটি ছাড়াও আরও দুটি জান্নাত। অর্থাৎ আমাদের আয়াতটি ঠিক সংযোগস্থলেই বসে আছে। এটি দয়া নিয়ে বিচ্ছিন্ন কোনো প্রবাদবাক্য নয়। এটি সেই সারসংক্ষেপ যা গোটা পুরস্কার-অংশটিকেই ব্যাখ্যা করে: এর দুই পাশে যা কিছু বর্ণিত, তা আছে কারণ এই বিধানটি সত্য। জান্নাতগুলোই সেই প্রশ্নের উত্তর যা আয়াতটি করছে।"
+            "bn": "ধুয়ার ঠিক পরেই ৫৫:৬২ শুরু করে দ্বিতীয় জোড়া: আর এ দুটি ছাড়া আরও দুটি বাগান। তাহলে আমাদের আয়াতটি বসে আছে ঠিক দুই জোড়ার সংযোগস্থলে। এটা দয়া নিয়ে বিচ্ছিন্ন কোনো জ্ঞানের কথা নয়। পুরো প্রতিদান-অংশটার ব্যাখ্যা এই এক লাইনে: এর দুই পাশে যা কিছু বর্ণনা করা হয়েছে, সবই আছে এই নিয়ম সত্য বলে। আয়াত যে প্রশ্ন করছে, বাগানগুলোই তার উত্তর।"
           }
         ]
       },
@@ -1241,27 +1241,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The word is given its definition in the hadith of Jibril, recorded in both Sahih al-Bukhari and Sahih Muslim: asked what ihsan is, the Prophet ﷺ answered that it is to worship Allah as though you see Him, and if you do not see Him, then He sees you. Ihsan is therefore not a level of effort but a level of awareness, and everything else follows from it.",
-            "bn": "শব্দটির সংজ্ঞা দেওয়া হয়েছে জিবরীলের হাদীসে, যা সহীহ বুখারী ও সহীহ মুসলিম উভয়েই সংরক্ষিত: ইহসান কী জিজ্ঞেস করা হলে নবী ﷺ উত্তর দেন, তা হলো আল্লাহর ইবাদত এমনভাবে করা যেন তুমি তাঁকে দেখছ, আর যদি তুমি তাঁকে না দেখো, তবে তিনি তো তোমাকে দেখছেন। তাই ইহসান পরিশ্রমের কোনো স্তর নয়, বরং সচেতনতার স্তর, আর বাকি সবকিছু তা থেকেই আসে।"
+            "bn": "জিবরীলের হাদিসে শব্দটির সংজ্ঞা এসেছে। হাদিসটি সহীহ বুখারী ও সহীহ মুসলিম, দুটিতেই আছে। ইহসান কী, জিজ্ঞেস করা হলে নবী ﷺ বলেন: আল্লাহর ইবাদত এমনভাবে করা, যেন তুমি তাঁকে দেখছ। আর যদি তুমি তাঁকে না দেখো, তবে তিনি তো তোমাকে দেখছেন। তাহলে ইহসান খাটুনির কোনো মাত্রা নয়, সচেতনতার মাত্রা। বাকি সবকিছু আসে এখান থেকেই।"
           },
           {
             "en": "Sahih Muslim also preserves the instruction that Allah has prescribed ihsan in everything — and the example given there is the slaughter of an animal, that the blade be sharpened and the creature spared distress. The scope is worth noticing. Ihsan is not reserved for prayer and charity. It is asked for in the most ordinary work a person does with his hands, including work that nobody will inspect.",
-            "bn": "সহীহ মুসলিম সেই নির্দেশও সংরক্ষণ করেছে যে আল্লাহ সবকিছুতেই ইহসান ফরজ করেছেন — আর সেখানে উদাহরণ দেওয়া হয়েছে পশু জবাইয়ের, যেন ছুরি ধারালো করা হয় এবং প্রাণীটি কষ্ট থেকে রেহাই পায়। পরিধিটি লক্ষ্য করার মতো। ইহসান কেবল নামাজ ও দানের জন্য বরাদ্দ নয়। এটি চাওয়া হয় মানুষের হাতে করা সবচেয়ে সাধারণ কাজেও, এমন কাজেও যা কেউ পরীক্ষা করে দেখবে না।"
+            "bn": "সহীহ মুসলিমে আরও আছে, আল্লাহ সবকিছুতে ইহসান ফরজ করেছেন। সেখানে উদাহরণ এসেছে পশু জবাইয়ের: ছুরিতে ধার দিতে হবে, আর পশুটিকে কষ্ট থেকে রেহাই দিতে হবে। এর পরিসরটা খেয়াল করার মতো। ইহসান শুধু নামাজ আর দান-সদকার জন্য তোলা নেই। মানুষ নিজ হাতে যে সবচেয়ে সাধারণ কাজ করে, সেখানেও ইহসান চাওয়া হয়েছে। এমনকি যে কাজ কেউ কখনো যাচাই করতে আসবে না, সেখানেও।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "আজ যেভাবে এটি জীবনে আসে"
+          "bn": "জীবনে যেভাবে মানা যায়"
         },
         "p": [
           {
             "en": "The practical value of this verse shows up in the moment good is not returned — the favour forgotten, the help repaid with coldness, years of care met with a shrug. The verse does not deny that this happens; it relocates the debt. Because no repayer is named, the account is not with the person who benefited. Expecting return from them is what turns generosity bitter, and this line quietly removes the expectation.",
-            "bn": "এই আয়াতের বাস্তব মূল্য টের পাওয়া যায় ঠিক সেই মুহূর্তে যখন ভালোর প্রতিদান ফিরে আসে না — ভুলে যাওয়া উপকার, শীতলতা দিয়ে শোধ করা সাহায্য, বছরের পর বছর যত্নের জবাবে কাঁধ ঝাঁকানো। আয়াত অস্বীকার করে না যে এমন ঘটে; বরং ঋণের খাতাটি সরিয়ে দেয়। যেহেতু কোনো প্রতিদানদাতার নাম নেই, হিসাবটি সেই ব্যক্তির সাথে নয় যে উপকার পেয়েছে। তাদের কাছ থেকে ফেরত আশা করাই উদারতাকে তিক্ত করে তোলে, আর এই পঙ্‌ক্তি নীরবে সেই আশাটিই সরিয়ে নেয়।"
+            "bn": "এ আয়াতের আসল কাজটা বোঝা যায় ঠিক তখন, যখন ভালোর বদলে ভালো ফেরে না। উপকারের কথা লোকে ভুলে যায়, সাহায্যের জবাব আসে শীতল আচরণে, বছরের পর বছরের যত্নের জবাবে মেলে উদাসীনতা। আয়াত অস্বীকার করে না যে এমন হয়। বরং ঋণের ঠিকানাটাই বদলে দেয়। প্রতিদান কে দেবে, তার নাম নেই। তাই হিসাবটা যে উপকার পেয়েছে, তার সঙ্গে নয়। তার কাছে প্রতিদান আশা করলেই উদারতা তেতো হয়ে যায়। এই আয়াত চুপচাপ সেই আশাটাই সরিয়ে নেয়।"
           },
           {
             "en": "It also raises the standard of the work itself. If the return matches the kind, then a job half done returns half done, and quality is not a matter of who is watching. Concretely: finish the thing properly when nobody will check, answer the message you could ignore, sharpen the knife. And read the verse in reverse for a sharper test — if the reward of ihsan is ihsan, what is the reward of the other thing?",
-            "bn": "এটি কাজটির মানও উঁচু করে দেয়। প্রতিদান যদি জাতের সাথে মেলে, তবে আধা-করা কাজ আধা-করা হয়েই ফেরে, আর গুণমান কে দেখছে তার ওপর নির্ভর করে না। বাস্তবে: কেউ যাচাই করবে না জেনেও কাজটি ঠিকভাবে শেষ করুন; যে বার্তাটি উপেক্ষা করা যেত তার জবাব দিন; ছুরিটি ধার দিন। আর আয়াতটি উল্টো দিক থেকেও পড়ুন, তাতে পরীক্ষাটি আরও ধারালো হয় — ইহসানের প্রতিদান যদি ইহসান হয়, তবে তার উল্টোটির প্রতিদান কী?"
+            "bn": "এ আয়াত কাজের মানও উঁচু করে দেয়। প্রতিদান যদি কাজের জাত মেনেই আসে, তবে আধা-খেঁচড়া কাজ ফেরেও আধা-খেঁচড়া হয়ে। কে দেখছে, তার ওপর কাজের মান নির্ভর করে না। হাতে-কলমে বললে: কেউ যাচাই করবে না জেনেও কাজটা ঠিকঠাক শেষ করুন। যে বার্তার জবাব না দিলেও চলত, তার জবাব দিন। ছুরিতে ধার দিন। আর পরীক্ষাটা আরও কঠিন করতে আয়াতটা উল্টো দিক থেকে পড়ুন: ইহসানের প্রতিদান যদি ইহসান হয়, তবে এর উল্টোটার প্রতিদান কী?"
           }
         ]
       }
@@ -1313,7 +1313,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi argues the same way at length. He sets the descriptions of the two pairs side by side: springs that flow against springs that gush, every fruit in pairs against fruit, palms and pomegranates, the maidens likened to rubies and coral against good and beautiful ones. Of the springs he says that gushing falls short of flowing. He closes with this: perhaps the differences left unmentioned outnumber those mentioned. The second-pair verses, from 55:64 to 55:76, have their own articles to come. Here only the method matters: the rank is read from the description rather than announced.",
-            "bn": "কুরতুবী একই পথে যুক্তি দেন, আরও বিস্তারিতভাবে। মতগুলো উল্লেখ করার পর তিনি দুই জোড়ার বর্ণনা পাশাপাশি রাখেন। একদিকে বয়ে চলা ঝরনা, অন্যদিকে উথলে ওঠা ঝরনা। একদিকে প্রত্যেক ফল জোড়ায় জোড়ায়, অন্যদিকে ফল, খেজুর আর ডালিম। একদিকে পদ্মরাগ ও প্রবালের মতো হুর, অন্যদিকে সচ্চরিত্রা সুন্দরীরা। ঝরনা প্রসঙ্গে তিনি বলেন, উথলে ওঠা বয়ে চলার চেয়ে কম। শেষে তিনি একটি মনে রাখার মতো কথা বলেন: হয়তো যে পার্থক্যগুলো বলা হয়নি, সেগুলো বলা পার্থক্যের চেয়ে বেশি। দ্বিতীয় জোড়ার আয়াতগুলো, ৫৫:৬৪ থেকে ৫৫:৭৬ পর্যন্ত, আলোচিত হবে নিজ নিজ প্রবন্ধে। এখানে শুধু পদ্ধতিটুকু দেখার বিষয়: স্তরের ঘোষণা নেই, স্তর পড়ে নিতে হয় বর্ণনা থেকে।"
+            "bn": "কুরতুবী একই পথে যুক্তি দেন, আরও বিস্তারিতভাবে। তিনি দুই জোড়ার বর্ণনা পাশাপাশি রাখেন। একদিকে বয়ে চলা ঝরনা, অন্যদিকে উথলে ওঠা ঝরনা। একদিকে প্রত্যেক ফল জোড়ায় জোড়ায়, অন্যদিকে ফল, খেজুর আর ডালিম। একদিকে পদ্মরাগ ও প্রবালের মতো হুর, অন্যদিকে সচ্চরিত্রা সুন্দরীরা। ঝরনা প্রসঙ্গে তিনি বলেন, উথলে ওঠা বয়ে চলার চেয়ে কম। শেষে তিনি বলেন: হয়তো যে পার্থক্যগুলো বলা হয়নি, সেগুলো বলা পার্থক্যের চেয়েও বেশি। দ্বিতীয় জোড়ার আয়াতগুলো, ৫৫:৬৪ থেকে ৫৫:৭৬ পর্যন্ত, আলোচিত হবে নিজ নিজ প্রবন্ধে। এখানে শুধু পদ্ধতিটুকু দেখার বিষয়: স্তরের ঘোষণা নেই, স্তর পড়ে নিতে হয় বর্ণনা থেকে।"
           }
         ]
       },
@@ -1361,7 +1361,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The article on 55:46 and 55:47 has already quoted this hadith; it is given here once more because the commentators on 55:62 lean on it. Al-Bukhari records in his Sahih (no. 4878) from Abdullah ibn Qais that Allah's Messenger ﷺ said: \"Two gardens, the utensils and the contents of which are of silver, and two other gardens, the utensils and contents of which are of gold. And nothing will prevent the people who will be in the Garden of Eden from seeing their Lord except the curtain of Majesty over His Face.\" Al-Baghawi cites the same narration through al-Bukhari's chain.",
-            "bn": "৫৫:৪৬ ও ৫৫:৪৭ আয়াতের প্রবন্ধে হাদিসটি আগেই এসেছে। এখানে আরেকবার আনা হলো, কারণ ৫৫:৬২ আয়াতের তাফসীরকারেরা এর ওপর ভর করেন। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (হাদিস ৪৮৭৮) আবদুল্লাহ ইবন কাইস থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"দুটি জান্নাত, যার পাত্র ও ভেতরের সবকিছু রুপার। আর দুটি জান্নাত, যার পাত্র ও ভেতরের সবকিছু সোনার। জান্নাতে আদনে লোকদের আর তাদের রবের দিকে তাকানোর মাঝে তাঁর চেহারার ওপর মহিমার চাদর ছাড়া আর কোনো আড়াল থাকবে না।\" বাগাভীও বুখারীর সনদ ধরে একই বর্ণনা উদ্ধৃত করেন।"
+            "bn": "৫৫:৪৬ ও ৫৫:৪৭ আয়াতের প্রবন্ধে হাদিসটি আগেই এসেছে। এখানে আরেকবার আনা হলো, কারণ ৫৫:৬২ আয়াতের তাফসীরকারেরা এর ওপর ভর করেন। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (হাদিস ৪৮৭৮) আবদুল্লাহ ইবন কাইস থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"দুটি জান্নাত, যার পাত্র ও ভেতরের সবকিছু রুপার। আর অন্য দুটি জান্নাত, যার পাত্র ও ভেতরের সবকিছু সোনার। জান্নাতে আদনের বাসিন্দাদের তাদের রবকে দেখা থেকে কোনো কিছুই আটকাবে না, শুধু তাঁর চেহারার ওপর মহিমার চাদর ছাড়া।\" বাগাভীও বুখারীর সনদ ধরে একই বর্ণনা উদ্ধৃত করেন।"
           },
           {
             "en": "Notice what the wording itself says. It names two gardens of silver and two of gold, and it does not say which pair belongs to which verse. Ibn Kathir's Arabic quotes it with a closing clause, the first two for those brought near and the other two for the companions of the right, and then gives a saying of Abu Musa to the same effect. That allocation is how the hadith is joined to this verse. Ad-Dahhak's metals, gold and silver for the first pair and gems for the second, point the other way. No fetched commentary gives a cause of revelation for this verse.",
@@ -1433,7 +1433,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari states the problem directly. There has been disagreement, he says, over why palms and pomegranates were mentioned again, when it had already been said that fruit is in the two gardens. Some said they were mentioned because palms and pomegranates are not fruit. Others said they are fruit. Al-Baghawi reports the same split in fewer words, and al-Qurtubi treats the verse under two questions: whether the two belong to fruit at all, and a ruling on oaths that follows from the answer.",
-            "bn": "তাবারী সমস্যাটি সরাসরি তুলে ধরেন। তিনি বলেন, খেজুর আর ডালিমের নাম কেন আবার এল, তা নিয়ে মতভেদ হয়েছে, যখন আগেই বলা হয়ে গেছে যে বাগান দুটিতে ফল আছে। কেউ বলেছেন, নাম এসেছে কারণ খেজুর আর ডালিম ফলের মধ্যে পড়ে না। অন্যরা বলেছেন, এ দুটিও ফল। বাগাভী অল্প কথায় একই বিভাজন জানান। আর কুরতুবী আয়াতটি আলোচনা করেন দুটি প্রশ্নের অধীনে: এ দুটি আদৌ ফলের মধ্যে পড়ে কি না, আর সেই উত্তর থেকে বেরিয়ে আসা কসমের একটি বিধান।"
+            "bn": "তাবারী সমস্যাটি সরাসরি তুলে ধরেন। বাগান দুটিতে ফল আছে, এ কথা আগেই বলা হয়ে গেছে। তবু খেজুর আর ডালিমের নাম আবার কেন এল, তিনি বলেন, তা নিয়ে মতভেদ হয়েছে। কেউ বলেছেন, নাম এসেছে কারণ খেজুর আর ডালিম ফলের মধ্যে পড়ে না। অন্যরা বলেছেন, এ দুটিও ফল। বাগাভী অল্প কথায় একই বিভাজন জানান। আর কুরতুবী আয়াতটি আলোচনা করেন দুটি প্রশ্নের অধীনে: এ দুটি আদৌ ফলের মধ্যে পড়ে কি না, আর সেই উত্তর থেকে বেরিয়ে আসা কসমের একটি বিধান।"
           },
           {
             "en": "What is at stake is the small word wa, and. In ordinary speech a thing is joined by and to something other than itself. If palms and pomegranates are fruit, the and needs explaining. If they are not, the verse simply lists three different gifts. Both sides read the same words and accept the same gift; they differ on what the joining tells us. The sources keep that difference open, and so does this article, giving each side in the words of those who report it.",
