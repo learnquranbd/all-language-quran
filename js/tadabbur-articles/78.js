@@ -557,14 +557,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The first word has two readings. At-Tabari reports lābithīn, with the long vowel, from most readers of Medina and Basra and some of Kufa, and labithīn, without it, from most Kufan readers. He judges the long form the more eloquent and better grounded in Arabic, yet says he does not disallow the other. Al-Baghawi names Hamza and Ya'qub for the short form; al-Qurtubi names Hamza and al-Kisa'i. Both call the two forms dialect variants, and al-Qurtubi adds a shade: the short form describes a person for whom staying has become his settled condition.",
-            "bn": "প্রথম শব্দটির দুটি কিরাআত আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী এবং কুফার কয়েকজন পড়েছেন লা-বিসীন, দীর্ঘ স্বরে। আর কুফার অধিকাংশ কারী পড়েছেন লাবিসীন, দীর্ঘ স্বর ছাড়া। তাঁর বিচারে দীর্ঘ রূপটি বেশি প্রাঞ্জল, আরবি ব্যাকরণেও বেশি মজবুত। তবু অন্য পাঠটিকে তিনি অবৈধ বলেননি। ছোট রূপটির কারী হিসেবে বাগাভী নাম নেন হামযা ও ইয়াকুবের, কুরতুবী নাম নেন হামযা ও কিসাঈর। দুজনেই বলেন, এ দুটি আরবির দুই প্রচলিত রূপ। কুরতুবী একটু সূক্ষ্মতাও যোগ করেন: ছোট রূপটি বোঝায় সেই লোককে, থেকে যাওয়াটাই যার স্থায়ী অবস্থা হয়ে গেছে।"
+            "bn": "প্রথম শব্দটির দুটি কিরাআত আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী এবং কুফার কয়েকজন পড়েছেন লা-বিসীন, দীর্ঘ স্বরে। আর কুফার অধিকাংশ কারী পড়েছেন লাবিসীন, দীর্ঘ স্বর ছাড়া। তাঁর বিচারে দীর্ঘ রূপটি বেশি প্রাঞ্জল, আরবি ব্যাকরণেও বেশি মজবুত। তবু অন্য পাঠটিকে তিনি অবৈধ বলেননি। ছোট রূপটির কারী হিসেবে বাগাভী নাম নেন হামযা ও ইয়াকুবের, কুরতুবী নাম নেন হামযা ও কিসাঈর। দুজনেই বলেন, এ দুটি আরবির দুই আঞ্চলিক রূপ। কুরতুবী একটু সূক্ষ্মতাও যোগ করেন: ছোট রূপটি বোঝায় সেই লোককে, থেকে যাওয়াটাই যার স্থায়ী অবস্থা হয়ে গেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Word for the Long Stretch",
-          "bn": "দীর্ঘ কালের একটি শব্দ"
+          "bn": "দীর্ঘ কাল বোঝানোর শব্দ"
         },
         "p": [
           {
@@ -585,7 +585,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Several of the fetched books record numbers, and they do not agree. At-Tabari's chain has 'Ali ibn Abi Talib ask Hilal al-Hajari what they find the huqb to be in the revealed book; Hilal answers eighty years, each year twelve months, each month thirty days, each day a thousand years. At-Tabari carries eighty years from Abu Hurayra, Ibn 'Abbas and Sa'id ibn Jubayr, with a doubt marked in Sa'id's report over whether the day is a year or a thousand years. Qatada says it reached him that a huqb is eighty years of the years of the Hereafter.",
-            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কয়েকটিতে সংখ্যা আছে, আর সংখ্যাগুলো মেলে না। তাবারীর এক সনদে আলী ইবন আবী তালিব (রাঃ) হিলাল আল-হাজারীকে জিজ্ঞেস করেন, নাযিলকৃত কিতাবে তোমরা হুকবকে কী পাও? হিলাল বলেন, আশি বছর। প্রতি বছরে ১২ মাস, প্রতি মাসে ৩০ দিন, আর প্রতিটি দিন হাজার বছরের। আশি বছরের কথা তাবারী আবূ হুরায়রা (রাঃ), ইবন আব্বাস (রাঃ) ও সাঈদ ইবন জুবাইর থেকেও আনেন। সাঈদের বর্ণনায় অবশ্য একটা সংশয় চিহ্নিত আছে: দিনটি এক বছরের, নাকি হাজার বছরের। কাতাদা বলেন, তাঁর কাছে খবর পৌঁছেছে যে হুকব হলো আখিরাতের হিসাবে আশি বছর।"
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কয়েকটিতে সংখ্যা আছে, আর সংখ্যাগুলো মেলে না। তাবারীর এক সনদে আলী ইবন আবী তালিব (রাঃ) হিলাল আল-হাজারীকে জিজ্ঞেস করেন, নাজিল হওয়া কিতাবে তোমরা হুকবের পরিমাণ কত পাও? হিলাল বলেন, আশি বছর। প্রতি বছরে ১২ মাস, প্রতি মাসে ৩০ দিন, আর প্রতিটি দিন হাজার বছরের। আশি বছরের কথা তাবারী আবূ হুরায়রা (রাঃ), ইবন আব্বাস (রাঃ) ও সাঈদ ইবন জুবাইর থেকেও আনেন। সাঈদের বর্ণনায় অবশ্য একটা সংশয় চিহ্নিত আছে: দিনটি এক বছরের, নাকি হাজার বছরের। কাতাদা বলেন, তাঁর কাছে খবর পৌঁছেছে যে হুকব হলো আখিরাতের হিসাবে আশি বছর।"
           },
           {
             "en": "Other figures sit beside these. Bashir ibn Ka'b says it reached him that a huqb is 300 years of 360 days, each day a thousand years. Ibn Kathir reports seventy years from al-Hasan and as-Suddi, and forty from 'Abdullah ibn 'Amr; al-Qurtubi gives the forty from Ibn 'Umar. Al-Baghawi reports seventeen thousand years from Muqatil ibn Hayyan. A long compound reckoning of 43 ahqab, each of seventy autumns, is credited to Mujahid by al-Baghawi and to al-Qurazi by al-Qurtubi. As-Suddi, in Ibn Kathir, counts 700 ahqab.",
@@ -609,7 +609,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi argues the point from the language. The verse means the ages of the Hereafter, which have no end, much as people say the days of the Hereafter. It would mark a limit only if it said five ahqab or ten. The huqb, he says, was the farthest span the Arabs knew, so they were addressed in terms their minds could reach, as an idiom for perpetuity; others say ahqab was chosen over days because it weighs more heavily on hearts. He quotes Ibn Kaysan: ages with no final limit, as though the verse said forever.",
-            "bn": "কুরতুবী ভাষা থেকেই যুক্তি দেন। আয়াতের মানে আখিরাতের যুগসমূহ, যার কোনো শেষ নেই, যেমন লোকে বলে আখিরাতের দিনগুলো। আয়াত যদি বলত পাঁচটি হুকব বা দশটি হুকব, তবেই সেখানে মেয়াদ বোঝাত। তাঁর মতে আরবদের জানা সবচেয়ে দূরের সময় ছিল হুকব। তাই তাদের সঙ্গে কথা বলা হয়েছে এমন শব্দে, যা তাদের কল্পনায় ধরে, আর এ শব্দ চিরস্থায়িত্বের ইঙ্গিত। অন্যরা বলেন, দিনের বদলে আহকাব বলা হয়েছে, কারণ মনের উপর তার ভার বেশি। তিনি ইবন কাইসানের কথা আনেন: এমন যুগ যার কোনো শেষ সীমা নেই, যেন আয়াত বলছে চিরকাল।"
+            "bn": "কুরতুবী ভাষা থেকেই যুক্তি দেন। আয়াতের মানে আখিরাতের যুগসমূহ, যার কোনো শেষ নেই, যেমন লোকে বলে আখিরাতের দিনগুলো। আয়াত যদি বলত পাঁচটি হুকব বা দশটি হুকব, তবেই সেখানে মেয়াদ বোঝাত। তাঁর মতে আরবদের জানা সবচেয়ে দূরের সময় ছিল হুকব। তাই তাদের বোধের নাগালে থাকা শব্দেই তাদের সম্বোধন করা হয়েছে। চিরকাল বোঝাতে এটা ছিল তাদের ভাষার এক বাগধারা। অন্যরা বলেন, দিনের বদলে আহকাব বলা হয়েছে, কারণ মনের উপর তার ভার বেশি। তিনি ইবন কাইসানের কথা আনেন: এমন যুগ যার কোনো শেষ সীমা নেই, যেন আয়াত বলছে চিরকাল।"
           },
           {
             "en": "Al-Qurtubi then weighs the figures themselves: they conflict, and fixing a duration for the stay would need a transmitted text that settles the question, which is not established from the Prophet ﷺ. Ma'arif al-Qur'an reaches a similar point: what the reports share is that a huqb is an extremely long time, and it quotes al-Baydawi's gloss of long periods following one another. Al-Baghawi adds a saying through as-Suddi and Murra from 'Abdullah: if the people of the Fire knew they would stay as long as the number of the world's pebbles, they would rejoice, and the people of the Garden would grieve.",
@@ -629,7 +629,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir summarises at-Tabari in an order worth noting: first this possibility of another kind of punishment, then the statement that the sound view is that the ahqab have no ending, as Qatada and ar-Rabi' said. Al-Qurtubi lists the reading under it has been said, and Ma'arif al-Qur'an presents it as a third interpretation held by a group of commentators. Read this way, the ahqab measure one stage of the punishment, not the whole stay. What that stage contains belongs to the next verses, and is left to them here.",
-            "bn": "ইবন কাসীর তাবারীর কথা যে ক্রমে সাজান, সেটা লক্ষ করার মতো। প্রথমে অন্য ধরনের শাস্তির এই সম্ভাবনা। তারপর এই কথা যে সঠিক মত হলো, আহকাবের কোনো শেষ নেই, যেমন কাতাদা ও রাবী বলেছেন। কুরতুবী ব্যাখ্যাটি আনেন 'বলা হয়েছে' দিয়ে। মাআরিফুল কুরআন একে বলে একদল মুফাসসিরের তৃতীয় ব্যাখ্যা। এভাবে পড়লে আহকাব পুরো অবস্থানের মাপ নয়, শাস্তির একটি পর্যায়ের মাপ। সে পর্যায়ে কী আছে, তা পরের আয়াতগুলোর বিষয়। এখানে সেটা তাদের জন্যই রেখে দেওয়া হলো।"
+            "bn": "ইবন কাসীর তাবারীর কথা যে ক্রমে সাজান, সেটা লক্ষ করার মতো। প্রথমে অন্য ধরনের শাস্তির এই সম্ভাবনা। তারপর এই কথা যে সঠিক মত হলো, আহকাবের কোনো শেষ নেই, যেমন কাতাদা ও রাবী বলেছেন। কুরতুবী ব্যাখ্যাটি আনেন 'বলা হয়েছে' দিয়ে। মাআরিফুল কুরআন একে বলে একদল মুফাসসিরের তৃতীয় ব্যাখ্যা। এভাবে পড়লে আহকাব পুরো অবস্থানের মাপ নয়, শাস্তির একটি পর্যায়ের মাপ। সে পর্যায়ে কী আছে, তা পরের আয়াতগুলোর আলোচনা, তাই এখানে সে প্রসঙ্গ তোলা হলো না।"
           }
         ]
       },
@@ -649,7 +649,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Abu Hayyan, as Ma'arif al-Qur'an reports him, disputes this from the verses that follow: 78:27 and 78:28 describe people who expected no reckoning and denied Allah's signs outright, which does not fit believers. Ma'arif itself holds that the disbelievers are never released, citing the Qur'an's phrase khalidina fiha abadan, abiding in it forever, and claiming the consensus of the Ummah. Ibn Kathir's abridged English names the taghin as rejectors who oppose the Messengers. These positions are reported here as their holders' own, side by side, with no verdict added.",
-            "bn": "মাআরিফুল কুরআনের বর্ণনায় আবূ হাইয়ান পরের আয়াত দিয়ে এর বিরোধিতা করেন। ৭৮:২৭ ও ৭৮:২৮ আয়াতে এমন লোকদের কথা, যারা কোনো হিসাবের আশা করত না আর আল্লাহর নিদর্শনগুলো পুরোপুরি অস্বীকার করেছিল। এ বর্ণনা মুমিনদের সঙ্গে মেলে না। মাআরিফুল কুরআন নিজে মনে করে, কাফেরদের কখনো মুক্তি দেওয়া হবে না। প্রমাণ হিসেবে আনে কুরআনের বাক্যাংশ খালিদীনা ফীহা আবাদা, সেখানে তারা চিরকাল থাকবে, আর দাবি করে উম্মাহর ইজমা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তাগীনদের বলে রাসূলদের বিরোধিতাকারী অস্বীকারকারী। এ মতগুলো এখানে যার যার নিজের মত হিসেবেই পাশাপাশি রাখা হলো, কোনো রায় যোগ করা হয়নি।"
+            "bn": "মাআরিফুল কুরআনের বর্ণনায় আবূ হাইয়ান পরের আয়াত দিয়ে এর বিরোধিতা করেন। ৭৮:২৭ ও ৭৮:২৮ আয়াতে এমন লোকদের কথা, যারা কোনো হিসাবের আশা করত না আর আল্লাহর নিদর্শনগুলো পুরোপুরি অস্বীকার করেছিল। এ বর্ণনা মুমিনদের সঙ্গে মেলে না। মাআরিফুল কুরআন নিজে মনে করে, কাফেরদের কখনো মুক্তি দেওয়া হবে না। প্রমাণ হিসেবে আনে কুরআনের বাক্যাংশ খালিদীনা ফীহা আবাদা, সেখানে তারা চিরকাল থাকবে, আর দাবি করে উম্মাহর ইজমা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে তাগীন হলো তারা, যারা রাসূলদের অস্বীকার করে আর তাঁদের বিরোধিতা করে। এ মতগুলো এখানে যার যার নিজের মত হিসেবেই পাশাপাশি রাখা হলো, কোনো রায় যোগ করা হয়নি।"
           }
         ]
       },
@@ -665,7 +665,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A further point must be said plainly. The verse describes at-taghin, those who overstepped every bound and who, as 78:27 and 78:28 go on to say, denied Allah's signs. It describes what the text describes, and it licenses nothing against any living person or community. It hands no reader a list of names, and nobody may assign another human being to these ages. Each person's end is with Allah. The commentators' own disagreement over who is meant should be enough to check any confidence about other people.",
-            "bn": "আরেকটা কথা সোজাসুজি বলা দরকার। আয়াতটি আত-তাগীনদের কথা বলে, যারা সব সীমা ছাড়িয়ে গিয়েছিল। ৭৮:২৭ ও ৭৮:২৮ আয়াত জানায়, তারা আল্লাহর নিদর্শনগুলো অস্বীকার করেছিল। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা তার পাঠে আছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি এ আয়াত দেয় না। কোনো পাঠকের হাতে এটি নামের তালিকা তুলে দেয় না। অন্য কোনো মানুষকে এই যুগ যুগের ঠিকানায় পাঠিয়ে দেওয়ার অধিকারও কারও নেই। প্রত্যেকের শেষ পরিণতি আল্লাহর হাতে। আয়াতে কারা উদ্দেশ্য, এ নিয়ে মুফাসসিরদের নিজেদের মতভেদই অন্যদের ব্যাপারে যেকোনো নিশ্চিত ধারণাকে থামিয়ে দেওয়ার জন্য যথেষ্ট।"
+            "bn": "আরেকটা কথা সোজাসুজি বলা দরকার। আয়াতটি আত-তাগীনদের কথা বলে, যারা সব সীমা ছাড়িয়ে গিয়েছিল। ৭৮:২৭ ও ৭৮:২৮ আয়াত জানায়, তারা আল্লাহর নিদর্শনগুলো অস্বীকার করেছিল। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা তার পাঠে আছে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু বলার বা করার অনুমতি এ আয়াত দেয় না। কোনো পাঠকের হাতে এটি নামের তালিকা তুলে দেয় না। অন্য কোনো মানুষকে এই যুগ যুগের ঠিকানায় পাঠিয়ে দেওয়ার অধিকারও কারও নেই। প্রত্যেকের শেষ পরিণতি আল্লাহর হাতে। আয়াতে কারা উদ্দেশ্য, তা নিয়ে মুফাসসিরদের নিজেদেরই মতভেদ আছে। অন্য মানুষ সম্পর্কে নিশ্চিত হয়ে কিছু বলার আগে থমকে দাঁড়াতে এটুকুই যথেষ্ট।"
           }
         ]
       },
@@ -677,11 +677,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What remains for the reader is the contrast the word sets up. Every human life is countable. Its years can be written down, and even when describing the ahqab, the early reports reached for years, months and days. Yet the verse itself names no number, and al-Qurtubi notes it would have said five or ten if it meant a fixed limit. The span on the far side is described in a word that defeats the counting mind. That leaves the countable span on this side as the span that can still be used.",
-            "bn": "পাঠকের জন্য যা থেকে যায়, তা হলো শব্দটি যে বৈপরীত্য দাঁড় করায়। মানুষের জীবন গোনা যায়। তার বছরগুলো লিখে রাখা যায়। এমনকি আহকাবের বর্ণনা দিতে গিয়েও পূর্বসূরিদের বর্ণনাগুলো বছর, মাস আর দিনেরই আশ্রয় নিয়েছে। অথচ আয়াত নিজে কোনো সংখ্যা বলেনি। কুরতুবী মনে করিয়ে দেন, নির্দিষ্ট মেয়াদ বোঝালে আয়াত পাঁচটি বা দশটি হুকব বলত। ওপারের সময়টা বলা হয়েছে এমন শব্দে, যার সামনে গোনার বুদ্ধি হার মানে। তাহলে এপারের গোনা সময়টাই থাকে, যা এখনো কাজে লাগানো যায়।"
+            "bn": "পাঠকের জন্য থেকে যায় শব্দটির দেখানো এক বৈপরীত্য। মানুষের জীবন গোনা যায়। তার বছরগুলো লিখে রাখা যায়। এমনকি আহকাবের বর্ণনা দিতে গিয়েও পূর্বসূরিদের বর্ণনাগুলো বছর, মাস আর দিনেরই আশ্রয় নিয়েছে। অথচ আয়াত নিজে কোনো সংখ্যা বলেনি। কুরতুবী মনে করিয়ে দেন, নির্দিষ্ট মেয়াদ বোঝালে আয়াত পাঁচটি বা দশটি হুকব বলত। ওপারের সময়টা বলা হয়েছে এমন শব্দে, যার সামনে গোনার বুদ্ধি হার মানে। তাহলে এপারের গোনা সময়টাই থাকে, যা এখনো কাজে লাগানো যায়।"
           },
           {
             "en": "So the verse returns a practical question. Which repentance have I been postponing on the assumption that time is plentiful? Which wrong done to another person am I leaving unrepaired, as though there will always be a later? The commentators' long arithmetic, whatever its worth, agrees with the verse on one thing: the stay is long beyond any easy reckoning. The time to act is the short, countable one we are in now, and the right place to apply a verse like this is to oneself, before anyone else.",
-            "bn": "আয়াতটি তাই একটা কাজের প্রশ্ন ফিরিয়ে দেয়। সময় অঢেল আছে ভেবে কোন তওবাটা আমি পিছিয়ে রাখছি? কারও প্রতি করা কোন অন্যায়ের প্রতিকার না করে ফেলে রেখেছি, যেন পরে করার সময় সবসময়ই থাকবে? মুফাসসিরদের লম্বা হিসাবের মূল্য যা-ই হোক, এক জায়গায় তা আয়াতের সঙ্গে একমত: থাকার মেয়াদ সহজ কোনো হিসাবের অনেক বাইরে। কাজের সময় তো এই ছোট, গোনা সময়টাই, যার ভেতরে আমরা এখন আছি। আর এমন আয়াত প্রয়োগের সঠিক জায়গা অন্য কেউ নয়, প্রথমে নিজের জীবন।"
+            "bn": "তাই আয়াতটি পাঠকের সামনে একটা বাস্তব প্রশ্ন রেখে যায়। সময় অঢেল আছে ভেবে কোন তওবাটা আমি পিছিয়ে রাখছি? কারও প্রতি করা কোন অন্যায়ের প্রতিকার না করে ফেলে রেখেছি, যেন পরে করার সময় সবসময়ই থাকবে? মুফাসসিরদের লম্বা হিসাবের মূল্য যা-ই হোক, এক জায়গায় তা আয়াতের সঙ্গে একমত: থাকার মেয়াদ সহজ কোনো হিসাবের অনেক বাইরে। কাজের সময় তো এই ছোট, গোনা সময়টাই, যার ভেতরে আমরা এখন আছি। আর এমন আয়াত অন্য কারও ওপর খাটানোর আগে খাটাতে হয় নিজের ওপর।"
           }
         ]
       }
@@ -692,7 +692,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Turning From the Transgressors",
-          "bn": "যেখানে সূরার মোড় ঘোরে"
+          "bn": "সীমালঙ্ঘনকারীদের থেকে মুখ ফিরিয়ে"
         },
         "p": [
           {
@@ -701,19 +701,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The turn is sharp. From 78:21 to 78:30 the surah described the transgressors and their end; those verses describe what the text describes and license no verdict on any living person or community. Ma'arif al-Qur'an marks the hinge in plain words: thus far the punishment of the disbelievers was depicted, and as opposed to this, the reward and blessings of the righteous believers are depicted below. The Bengali Ahsanul Bayaan says the same: after the unfortunate come the fortunate, and the blessings they will enjoy in the Hereafter.",
-            "bn": "মোড়টা তীক্ষ্ণ। ৭৮:২১ থেকে ৭৮:৩০ পর্যন্ত সূরাটি সীমালঙ্ঘনকারীদের আর তাদের পরিণতির কথা বলেছে। সেই আয়াতগুলো যা বলে, কেবল তা-ই বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে রায় দেওয়ার অনুমতি দেয় না। মাআরিফুল কুরআন জোড়ের জায়গাটা চিনিয়ে দেয় সোজা কথায়: এ পর্যন্ত এল কাফেরদের শাস্তির ছবি, এর বিপরীতে এবার আসছে নেককার মুমিনদের পুরস্কার আর নিয়ামতের ছবি। বাংলা আহসানুল বয়ানও একই কথা বলে: দুর্ভাগাদের কথার পর এবার সৌভাগ্যবানদের কথা, আর আখিরাতে তারা যে নিয়ামত ভোগ করবে তার বিবরণ।"
+            "bn": "এখানে সূরা হঠাৎ মোড় নেয়। ৭৮:২১ থেকে ৭৮:৩০ পর্যন্ত সূরাটি সীমালঙ্ঘনকারীদের আর তাদের পরিণতির কথা বলেছে। সেই আয়াতগুলো যা বলে, কেবল তা-ই বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে রায় দেওয়ার অনুমতি দেয় না। মাআরিফুল কুরআন জোড়ের জায়গাটা চিনিয়ে দেয় সোজা কথায়: এ পর্যন্ত এল কাফেরদের শাস্তির ছবি, এর বিপরীতে এবার আসছে নেককার মুমিনদের পুরস্কার আর নিয়ামতের ছবি। বাংলা আহসানুল বয়ানও একই কথা বলে: দুর্ভাগাদের কথার পর এবার সৌভাগ্যবানদের কথা, আর আখিরাতে তারা যে নিয়ামত ভোগ করবে তার বিবরণ।"
           }
         ]
       },
       {
         "h": {
           "en": "Winning, Spelled Out in Gardens",
-          "bn": "বাগানে খুলে বলা সাফল্য"
+          "bn": "বাগানের ভাষায় সাফল্যের ব্যাখ্যা"
         },
         "p": [
           {
             "en": "At-Tabari reads the gardens as that winning restated. His term is tarjama wa bayan: a rendering and an explanation of al-mafaz. This is allowed, he says, because mafaz is a verbal noun from the expression faza fulan bi-hadha al-shay', said of someone who sought a thing and obtained it. So the sense runs, in his paraphrase: for the God-fearing there is an obtaining of what they sought, of gardens and grapes. The winning is not left abstract for more than a single verse.",
-            "bn": "তাবারী বাগানগুলোকে পড়েন সেই সাফল্যেরই নতুন ভাষায় বলা হিসেবে। তাঁর শব্দ তারজামা ওয়া বায়ান, মানে আল-মাফাযের অনুবাদ ও ব্যাখ্যা। তিনি বলেন, এমনটা চলে, কারণ মাফায শব্দটি মাসদার, মূল কাজের নাম। আরবরা বলে, ফাযা ফুলানুন বিহাযাশ শাই। কেউ কোনো জিনিস চেয়ে তা পেয়ে গেলে এ কথা বলা হয়। তাবারীর ব্যাখ্যায় অর্থ দাঁড়ায়: মুত্তাকীরা যা চেয়েছিল, তা তারা পেয়েছে, বাগান আর আঙুর। সাফল্য কথাটা একটি আয়াতের বেশি বিমূর্ত থাকে না।"
+            "bn": "তাবারীর মতে বাগানগুলো সেই সাফল্যেরই নতুন করে বলা। তাঁর শব্দ তারজামা ওয়া বায়ান, মানে আল-মাফাযের অনুবাদ ও ব্যাখ্যা। তিনি বলেন, এমনটা চলে, কারণ মাফায শব্দটি মাসদার, মূল কাজের নাম। আরবরা বলে, ফাযা ফুলানুন বিহাযাশ শাই। কেউ কোনো জিনিস চেয়ে তা পেয়ে গেলে এ কথা বলা হয়। তাবারীর ব্যাখ্যায় অর্থ দাঁড়ায়: মুত্তাকীরা যা চেয়েছিল, তা তারা পেয়েছে, বাগান আর আঙুর। সাফল্যের কথাটা তাই এক আয়াতের বেশি বিমূর্ত থাকে না।"
           },
           {
             "en": "Al-Qurtubi opens his note on the verse with the same judgement in three words: hadha tafsir al-fawz, this is the explanation of the winning. He then records, under qila, it is said, a reading that joins the two verses into one sentence: inna li-l-muttaqina mafaza means inna li-l-muttaqina hada'iq, for the God-fearing there are gardens. The Bengali Ahsanul Bayaan calls the verse a badal of mafazan, a word standing in its place to restate it: the details of the success. Three commentaries, one structure.",
@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Why grapes, out of every fruit a garden might hold? As-Sa'di gives two reasons in one phrase: the grapes are singled out li-sharafiha wa kathratiha, for their nobility and for how plentiful they are in those gardens. Al-Baghawi reads the pair together and briefly: he means the trees of Paradise and their fruits. The article on 36:34 has already weighed why the Qur'an names the palm and the vine side by side, drawing on al-Qurtubi and as-Sa'di on that verse, and that discussion is not repeated here.",
-            "bn": "বাগানে তো কত রকম ফল থাকতে পারে, তবু আঙুর কেন? সা'দী একটিমাত্র বাক্যাংশে দুটি কারণ দেন: আঙুরকে আলাদা করে উল্লেখ করা লিশারাফিহা ওয়া কাসরাতিহা, এর মর্যাদার জন্য, আর সেই বাগানগুলোতে এর প্রাচুর্যের জন্য। বাগাভী দুটি শব্দ একসঙ্গে পড়েন, অল্প কথায়: এখানে উদ্দেশ্য জান্নাতের গাছপালা আর তার ফলমূল। কুরআন কেন খেজুর আর আঙুরলতার নাম পাশাপাশি নেয়, সে আলোচনা ৩৬:৩৪ আয়াতের লেখায় আগেই হয়েছে, সেখানে কুরতুবী ও সা'দীর ব্যাখ্যা ধরে। এখানে তার পুনরাবৃত্তি নেই।"
+            "bn": "বাগানে তো কত রকম ফল থাকতে পারে, তবু আঙুর কেন? সা'দী একটিমাত্র বাক্যাংশে দুটি কারণ দেন: আঙুরের নাম আলাদা করে এসেছে লিশারাফিহা ওয়া কাসরাতিহা, অর্থাৎ এর মর্যাদার জন্য, আর সেই বাগানগুলোতে এর প্রাচুর্যের জন্য। বাগাভী দুটি শব্দ একসঙ্গে পড়েন, অল্প কথায়: এখানে উদ্দেশ্য জান্নাতের গাছপালা আর তার ফলমূল। কুরআন কেন খেজুর আর আঙুরলতার নাম পাশাপাশি নেয়, সে আলোচনা ৩৬:৩৪ আয়াতের লেখায় আগেই হয়েছে, সেখানে কুরতুবী ও সা'দীর ব্যাখ্যা ধরে। এখানে তার পুনরাবৃত্তি নেই।"
           }
         ]
       },
@@ -781,7 +781,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A count from the Arabic text sharpens the point. The grape word, singular or plural, occurs in eleven verses of the Qur'an. In ten of them the grape belongs to this world. It is provision brought out of the earth in 6:99, 16:11, 23:19, 36:34 and 80:28; a sign for people who reason in 13:4 and 16:67; part of a parable in 2:266 and 18:32; and part of a garden the deniers demand in 17:91. Of the eleven, 78:32 alone sets the grape in the life to come.",
-            "bn": "আরবি পাঠ থেকে একটা গণনা কথাটাকে আরও স্পষ্ট করে। আঙুর শব্দটি, একবচনে বা বহুবচনে, কুরআনের ১১টি আয়াতে এসেছে। এর দশটিতে আঙুর এই দুনিয়ার জিনিস। মাটি থেকে বের করে আনা রিজিক হিসেবে আছে ৬:৯৯, ১৬:১১, ২৩:১৯, ৩৬:৩৪ আর ৮০:২৮ আয়াতে। বুদ্ধিমানদের জন্য নিদর্শন হিসেবে ১৩:৪ ও ১৬:৬৭ আয়াতে। উপমার অংশ হয়ে ২:২৬৬ ও ১৮:৩২ আয়াতে। আর ১৭:৯১ আয়াতে অস্বীকারকারীরা যে বাগান দাবি করে, তার অংশ হয়ে। ১১টির মধ্যে কেবল ৭৮:৩২ আঙুরকে রাখে আখিরাতে।"
+            "bn": "আরবি পাঠে শব্দটি গুনে দেখলে কথাটা আরও স্পষ্ট হয়। আঙুর শব্দটি, একবচনে বা বহুবচনে, কুরআনের ১১টি আয়াতে এসেছে। এর দশটিতে আঙুর এই দুনিয়ার জিনিস। মাটি থেকে বের করে আনা রিজিক হিসেবে আছে ৬:৯৯, ১৬:১১, ২৩:১৯, ৩৬:৩৪ আর ৮০:২৮ আয়াতে। বুদ্ধিমানদের জন্য নিদর্শন হিসেবে ১৩:৪ ও ১৬:৬৭ আয়াতে। উপমার অংশ হয়ে ২:২৬৬ ও ১৮:৩২ আয়াতে। আর ১৭:৯১ আয়াতে অস্বীকারকারীরা যে বাগান দাবি করে, তার অংশ হয়ে। ১১টির মধ্যে কেবল ৭৮:৩২ আঙুরকে রাখে আখিরাতে।"
           },
           {
             "en": "The word hada'iq is rarer still, in three verses. In 27:60 Allah sends down water and causes to grow by it hada'iqa dhata bahja, gardens of joyful beauty, whose trees you could not have grown yourselves. In 80:30 the hada'iq are ghulb, dense, listed among the plants grown as provision. Here, the third time, the gardens are the reward. The first listeners were asked to recognise the promise in the vocabulary of their own fields, the words they already used for orchards they had watered and walked through.",
@@ -796,12 +796,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What the Sources Leave Out",
-          "bn": "সূত্রগুলো যা যোগ করে না"
+          "bn": "সূত্রগুলোতে যা নেই"
         },
         "p": [
           {
             "en": "Some things are absent, and the absence is reported plainly. None of the eight tafsir texts fetched for this verse cites a hadith on these two words: at-Tabari, Ibn Kathir in Arabic and in abridged English, al-Qurtubi, as-Sa'di, al-Baghawi, the Muyassar and Ma'arif al-Qur'an. So this article quotes no narration for the verse, rather than attaching a narration from another setting. None of them gives an occasion of revelation either; the verse's setting is simply its place in the surah's sequence.",
-            "bn": "কিছু জিনিস অনুপস্থিত, আর সেটাও সোজাসুজি জানিয়ে রাখা দরকার। এ আয়াতের জন্য সংগ্রহ করা আটটি তাফসীর পাঠের কোনোটিই এই দুটি শব্দের ব্যাখ্যায় কোনো হাদীস আনেনি: তাবারী, আরবি ও সংক্ষিপ্ত ইংরেজিতে ইবন কাসীর, কুরতুবী, সা'দী, বাগাভী, মুয়াসসার আর মাআরিফুল কুরআন। তাই অন্য প্রসঙ্গ থেকে কোনো বর্ণনা টেনে এনে জুড়ে না দিয়ে এ লেখা আয়াতটির জন্য কোনো হাদীস উদ্ধৃত করছে না। শানে নুযূলও কেউ উল্লেখ করেননি। সূরার ধারাবাহিকতায় আয়াতটির অবস্থানই তার প্রেক্ষাপট।"
+            "bn": "কিছু জিনিস সূত্রগুলোতে নেই, আর সে কথাও সোজাসুজি জানিয়ে রাখা দরকার। এ আয়াতের জন্য সংগ্রহ করা আটটি তাফসীর পাঠের কোনোটিই এই দুটি শব্দের ব্যাখ্যায় কোনো হাদিস আনেনি: তাবারী, আরবি ও সংক্ষিপ্ত ইংরেজিতে ইবন কাসীর, কুরতুবী, সা'দী, বাগাভী, মুয়াসসার আর মাআরিফুল কুরআন। তাই অন্য প্রসঙ্গ থেকে কোনো বর্ণনা টেনে এনে জুড়ে না দিয়ে এ লেখা আয়াতটির জন্য কোনো হাদিস উদ্ধৃত করছে না। শানে নুযূলও কেউ উল্লেখ করেননি। সূরার ধারাবাহিকতায় আয়াতটির অবস্থানই তার প্রেক্ষাপট।"
           },
           {
             "en": "The list also keeps going, and it is left alone here on purpose. The verses that follow name further gifts, and they deserve their own reading rather than a hurried paragraph at the end of this article. What 78:32 gives on its own is a beginning. The first concrete thing named in the description of the winning is ground that grows: enclosed, planted and bearing fruit. Before anything else on that list, the God-fearing are told where they will be.",
@@ -812,7 +812,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Tending Toward a Garden",
-          "bn": "বাগানের পথে চারা যত্ন"
+          "bn": "বাগানের আশায় পরিচর্যা"
         },
         "p": [
           {
@@ -821,7 +821,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then there is the wall. If at-Tabari is right that a hadiqa is a garden only when walls surround it, the image carries a second instruction beside the first: what you plant, you also protect. The Qur'an itself warns in 2:264 against invalidating charity with reminders or injury, which is a good deed spoiled after it was done. The application to this verse is the reader's own, not the commentators'. But someone who hopes for a walled garden there has reason to build a few walls here.",
-            "bn": "তারপর দেয়ালের কথা। তাবারীর কথামতো হাদীকা যদি কেবল সেই বাগান হয় যার চারপাশে দেয়াল আছে, তাহলে ছবিটা প্রথম নির্দেশের পাশে আরেকটা নির্দেশও দেয়: যা লাগান, তা আগলেও রাখুন। কুরআন নিজেই ২:২৬৪ আয়াতে সতর্ক করে, খোঁটা দিয়ে বা কষ্ট দিয়ে নিজের দান নষ্ট কোরো না। এ হলো করে ফেলা নেক কাজ পরে নষ্ট হয়ে যাওয়া। এ আয়াতের সঙ্গে কথাটা মেলানো পাঠকের নিজের কাজ, তাফসীরকারদের নয়। তবে যে ওখানে দেয়ালঘেরা বাগানের আশা করে, এখানে কিছু দেয়াল গড়ার কারণ তার আছে।"
+            "bn": "তারপর দেয়ালের কথা। তাবারীর কথামতো হাদীকা যদি কেবল সেই বাগান হয় যার চারপাশে দেয়াল আছে, তাহলে ছবিটা প্রথম নির্দেশের পাশে আরেকটা নির্দেশও দেয়: যা লাগান, তা আগলেও রাখুন। কুরআন নিজেই ২:২৬৪ আয়াতে সতর্ক করে, খোঁটা দিয়ে বা কষ্ট দিয়ে নিজের দান নষ্ট কোরো না। অর্থাৎ নেক কাজ করে ফেলার পরেও তা নষ্ট হয়ে যেতে পারে। এ আয়াতের সঙ্গে কথাটা মেলানো পাঠকের নিজের কাজ, তাফসীরকারদের নয়। তবে যে ওখানে দেয়ালঘেরা বাগানের আশা করে, এখানে কিছু দেয়াল গড়ার কারণ তার আছে।"
           },
           {
             "en": "Last, the fruit on your own table. The grapes you eat carry the same name the Qur'an gave to this reward. That does not make a bunch of grapes a piece of Paradise, and none of the commentators says so. It can make it a reminder. Eat it with thanks, and let it carry the mind for a moment from the vine you can see to the garden you cannot, and from there to the deeds that the Muyassar names as the way in.",
@@ -861,7 +861,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second line looks at what speech yields rather than whether it is true. Ibn Kathir explains laghw as speech that is idle and stripped of benefit, kalam lagh 'ari 'an al-fa'ida. As-Sa'di is shorter still: kalam la fa'ida fih, talk with no benefit in it. The abridged English Ibn Kathir renders the idea as vain, worthless speech. On this reading the garden is free not only of untrue words but of words that lead nowhere, the kind that fill an hour and leave nothing behind.",
-            "bn": "দ্বিতীয় ধারা দেখে কথাটা সত্য কি না তা নয়, বরং কথাটা কী ফল দেয়। ইবন কাসীর লাগওয়ের ব্যাখ্যা দেন এমন কথা হিসেবে, যা বৃথা আর উপকার থেকে শূন্য। সা'দী আরও সংক্ষেপে বলেন, এমন কথা যাতে কোনো ফায়দা নেই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে অসার, মূল্যহীন কথা। এ পাঠে জান্নাত শুধু অসত্য কথা থেকেই মুক্ত নয়, যে কথা কোথাও পৌঁছায় না তা থেকেও মুক্ত। সেই কথা, যা এক ঘণ্টা ভরে রাখে কিন্তু শেষে কিছুই রেখে যায় না।"
+            "bn": "দ্বিতীয় ধারার প্রশ্ন কথাটা সত্য কি না, তা নয়। প্রশ্ন হলো, কথাটা কী ফল দেয়। ইবন কাসীর লাগওয়ের ব্যাখ্যা দেন এমন কথা হিসেবে, যা বৃথা আর উপকার থেকে শূন্য। সা'দী আরও সংক্ষেপে বলেন, এমন কথা যাতে কোনো ফায়দা নেই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে অসার, মূল্যহীন কথা। এ পাঠে জান্নাত শুধু অসত্য কথা থেকেই মুক্ত নয়, যে কথা কোথাও পৌঁছায় না তা থেকেও মুক্ত। সেই কথা, যা এক ঘণ্টা ভরে রাখে কিন্তু শেষে কিছুই রেখে যায় না।"
           },
           {
             "en": "The two lines do not contradict each other, and none of the commentators sets one against the other. They differ in emphasis: one asks whether a word is false, the other whether it does any good. Read together, they describe a conversation in which every word is both true and worth saying. At-Tabari adds a report through its chain from Qatada, who glosses the pair laghw and kidhdhab as batil and ithm, falsehood and sin, and another from Ibn Zayd, who simply affirms the verse: it is so, with no laghw in it and no kidhdhab.",
@@ -881,7 +881,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The hadith does not explain itself further, but its plain sense is worth noticing. Be quiet is not a false sentence, and it is even correct, since listening to the sermon is right. Yet spoken over the sermon it is counted as laghw. That fits the second line of definitions above, which judges speech by what it does in its place. A true word at the wrong moment can still be a word thrown away, and the garden, on Ibn Kathir's and as-Sa'di's reading, has none of those.",
-            "bn": "হাদীসটি নিজে আর কোনো ব্যাখ্যা দেয় না, তবে এর সরল অর্থটা খেয়াল করার মতো। চুপ করো কথাটা মিথ্যা নয়। বরং ঠিক কথাই, কারণ খুতবা মন দিয়ে শোনাই নিয়ম। অথচ খুতবার মাঝখানে বলা হলে সেটাই লাগও গণ্য হয়। উপরের দ্বিতীয় ধারার সংজ্ঞার সঙ্গে এটি মিলে যায়, যে ধারা কথাকে বিচার করে তার জায়গায় সে কী কাজ করে তা দিয়ে। ভুল মুহূর্তে বলা সত্য কথাও ফেলে দেওয়ার মতো কথা হয়ে যেতে পারে। ইবন কাসীর আর সা'দীর পাঠে জান্নাতে এমন কথাও নেই।"
+            "bn": "হাদিসটি নিজে আর কোনো ব্যাখ্যা দেয় না, তবে এর সরল অর্থটা খেয়াল করার মতো। 'চুপ করো' কথাটা মিথ্যা নয়। বরং ঠিক কথাই, কারণ খুতবা মন দিয়ে শোনাই নিয়ম। অথচ খুতবার মাঝখানে বলা হলে সেটাই লাগও গণ্য হয়। এটা উপরের দ্বিতীয় ধারার সংজ্ঞার সঙ্গে মেলে। সে ধারা কথার বিচার করে, যেখানে বলা হলো সেখানে কথাটা কী কাজ করল তা দেখে। ভুল মুহূর্তে বলা সত্য কথাও ফেলে দেওয়ার মতো কথা হয়ে যেতে পারে। ইবন কাসীর আর সা'দীর পাঠে জান্নাতে এমন কথাও নেই।"
           },
           {
             "en": "Two cautions belong with this. The hadith concerns conduct in the mosque, not Paradise, and al-Qurtubi uses it only to show how the word is used; it is not attached to this verse as an occasion of revelation. His own wording runs in a slightly different order from al-Bukhari's, so only al-Bukhari's text is quoted here. And none of the commentators read for this verse cites a hadith about speech in Paradise itself, so this article quotes none and does not supply any from elsewhere.",
@@ -892,7 +892,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Lying, or Calling a Liar",
-          "bn": "মিথ্যা বলা, নাকি মিথ্যুক ঠাওরানো"
+          "bn": "মিথ্যা বলা, নাকি মিথ্যাবাদী বলা"
         },
         "p": [
           {
@@ -901,7 +901,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi holds both senses in a single sentence. None of them will call another a liar, he writes, and they will not hear lying, kadhib. Ibn Kathir puts the second sense first and joins it to sin: in the garden there is no ithm kadhib, the sin of a lie. The abridged English Ibn Kathir has nor any sinful lying. On this reading the word names the lie itself, whoever might speak it, rather than an accusation thrown at someone else. The garden is free of falsehood, not only of quarrels about it.",
-            "bn": "কুরতুবী এক বাক্যেই দুটো অর্থ ধরে রাখেন। তিনি লেখেন, তাদের কেউ কাউকে মিথ্যাবাদী বলবে না, আর তারা কোনো মিথ্যা, কাযিব, শুনবেও না। ইবন কাসীর দ্বিতীয় অর্থটিকে সামনে আনেন এবং তার সঙ্গে গুনাহ জুড়ে দেন: জান্নাতে নেই ইসমু কাযিব, মিথ্যার গুনাহ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, কোনো গুনাহের মিথ্যাও নেই। এ পাঠে শব্দটি খোদ মিথ্যাকেই বোঝায়, যে-ই বলুক। অন্যের দিকে ছোড়া অভিযোগ এখানে মূল কথা নয়। জান্নাত শুধু মিথ্যা নিয়ে ঝগড়া থেকে মুক্ত নয়, মিথ্যা থেকেই মুক্ত।"
+            "bn": "কুরতুবী এক বাক্যেই দুটো অর্থ ধরে রাখেন। তিনি লেখেন, তাদের কেউ কাউকে মিথ্যাবাদী বলবে না, আর তারা কোনো মিথ্যা, কাযিব, শুনবেও না। ইবন কাসীর দ্বিতীয় অর্থটিকে সামনে আনেন এবং তার সঙ্গে গুনাহ জুড়ে দেন: জান্নাতে নেই ইসমু কাযিব, মিথ্যার গুনাহ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, কোনো গুনাহভরা মিথ্যাও নেই। এ পাঠে শব্দটি খোদ মিথ্যাকেই বোঝায়, যে-ই বলুক। অন্যের দিকে ছোড়া অভিযোগ এখানে মূল কথা নয়। জান্নাত শুধু মিথ্যা নিয়ে ঝগড়া থেকে মুক্ত নয়, মিথ্যা থেকেই মুক্ত।"
           },
           {
             "en": "As-Sa'di moves furthest from the letter of the word. He glosses kidhdhab simply as ithm, sin, and Qatada's pairing in at-Tabari, falsehood and sin, points the same way. So three readings stand side by side in the texts read for this verse: a garden where no one calls another a liar, a garden where no lie is heard, and a garden free of sinful speech. The commentators place them next to each other without ranking them, and this article leaves them in that order without choosing between them.",
@@ -917,7 +917,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The form of the word carries a difference of reading, and three of the commentators report it. At-Tabari says the readers of the great cities read kidhdhaban with a doubled dhal, except al-Kisa'i, who read it lighter, kidhaban. He points back to what he said on wa kadhdhabu bi-ayatina kidhdhaba (78:28), where the same noun with the doubled letter describes how the deniers denied Our signs. He also cites a line by the poet al-A'sha as evidence that the lighter form is good Arabic.",
-            "bn": "শব্দটির গঠনে পাঠের একটি পার্থক্য আছে, আর তিনজন তাফসীরকার তা উল্লেখ করেন। তাবারী বলেন, বড় বড় নগরের কারীরা যাল অক্ষরে তাশদীদ দিয়ে কিয্‌যাবান পড়েছেন। ব্যতিক্রম কিসাঈ, তিনি হালকা করে পড়েছেন কিযাবান। এ প্রসঙ্গে তাবারী ফিরে যান ওয়া কায্‌যাবূ বিআয়াতিনা কিয্‌যাবা (৭৮:২৮) আয়াতে তাঁর আলোচনায়, যেখানে তাশদীদওয়ালা একই শব্দ দিয়ে অস্বীকারকারীদের আমার আয়াতসমূহ প্রত্যাখ্যানের বর্ণনা। হালকা রূপটিও যে শুদ্ধ আরবি, তার প্রমাণে তিনি কবি আ'শার একটি পঙক্তিও আনেন।"
+            "bn": "শব্দটির গঠনে পাঠের একটি পার্থক্য আছে, আর তিনজন তাফসীরকার তা উল্লেখ করেন। তাবারী বলেন, বড় বড় নগরের কারীরা যাল অক্ষরে তাশদীদ দিয়ে কিয্‌যাবান পড়েছেন। ব্যতিক্রম কিসাঈ, তিনি হালকা করে পড়েছেন কিযাবান। এ প্রসঙ্গে তাবারী ফিরে যান ওয়া কায্‌যাবূ বিআয়াতিনা কিয্‌যাবা (৭৮:২৮) আয়াতে তাঁর আলোচনায়। সেখানে তাশদীদসহ একই শব্দ জানায়, অস্বীকারকারীরা কীভাবে আমার আয়াতগুলোকে মিথ্যা বলে উড়িয়ে দিয়েছিল। হালকা রূপটিও যে শুদ্ধ আরবি, তার প্রমাণে তিনি কবি আ'শার একটি পঙক্তিও আনেন।"
           },
           {
             "en": "At-Tabari then takes a position. The doubled form is dearer to him, he says, and it is the reading; he does not accept the lighter one, because the authoritative readers agree against it. Al-Qurtubi and al-Baghawi report al-Kisa'i's reading without that judgement. For al-Qurtubi the lighter form comes from kadhabtu kidhaban, so the sense is that they do not lie to one another in the garden. Al-Baghawi calls it the verbal noun of kadhaba, like mukadhaba, then adds two further views: that it means lying, and that it means takdhib, exactly like the doubled form.",
@@ -969,7 +969,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a promise, and a promise is not an instruction. Still, someone who longs for a place may begin keeping its customs before arriving. If the commentators are right that laghw covers both the false word and the useless one, two questions can be put to any sentence before it leaves the mouth: is it true, and will it do any good? Many of the words we come to regret fail one test or the other, and the Friday hadith shows that even a correct word can fail the second.",
-            "bn": "আয়াতটি একটি প্রতিশ্রুতি, আর প্রতিশ্রুতি মানেই নির্দেশ নয়। তবু কোনো জায়গার জন্য যার মন টানে, সে পৌঁছানোর আগেই সেখানকার রীতি মেনে চলা শুরু করতে পারে। লাগও যদি মিথ্যা কথা আর অকেজো কথা দুটোকেই বোঝায়, যেমনটা তাফসীরকারেরা বলেন, তাহলে মুখ থেকে কোনো বাক্য বের হওয়ার আগে তাকে দুটি প্রশ্ন করা যায়। এটা কি সত্য? আর এটা কি কোনো উপকারে আসবে? যে কথাগুলোর জন্য পরে আফসোস হয়, তার অনেকগুলোই এ দুই পরীক্ষার কোনো একটিতে আটকে যায়। জুমার হাদীস দেখায়, ঠিক কথাও দ্বিতীয় পরীক্ষায় আটকে যেতে পারে।"
+            "bn": "আয়াতটি প্রতিশ্রুতি, আর প্রতিশ্রুতি তো নির্দেশ নয়। তবু কোনো জায়গার জন্য যার মন টানে, সে পৌঁছানোর আগেই সেখানকার রীতি মেনে চলা শুরু করতে পারে। লাগও যদি মিথ্যা কথা আর অকেজো কথা দুটোকেই বোঝায়, যেমনটা তাফসীরকারেরা বলেন, তাহলে মুখ থেকে কোনো বাক্য বের হওয়ার আগে তাকে দুটি প্রশ্ন করা যায়। এটা কি সত্য? আর এটা কি কোনো উপকারে আসবে? যে কথাগুলোর জন্য পরে আফসোস হয়, তার অনেকগুলোই এ দুই পরীক্ষার কোনো একটিতে আটকে যায়। জুমার হাদিস দেখায়, ঠিক কথাও দ্বিতীয় পরীক্ষায় আটকে যেতে পারে।"
           },
           {
             "en": "The second half asks something harder. On the reading of at-Tabari, al-Baghawi and the Muyassar, the garden is free of people calling each other liars. That is a habit of suspicion as much as a habit of speech. Practising its absence here means giving a friend's account a fair hearing before deciding it is false, and owning our own exaggerations before anyone else has to name them. The garden is still to come, but the tongue that hopes to speak there is in use today, and it is shaped by what it says now.",
