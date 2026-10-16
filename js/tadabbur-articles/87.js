@@ -25,23 +25,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The grammar is spare. Sabbih is a command; isma, the name, is its object, joined to rabbika, your Lord; al-a'la, the Most High, closes the verse. Al-Waqi'ah twice carries a near twin, fa-sabbih bi-smi rabbika al-'azim, glorify by the name of your Lord, the Most Great (56:74 and 56:96), and Ibn Kathir sets the two side by side in a report below. There the name comes with the particle bi-; here the verb takes the name directly.",
-            "bn": "ব্যাকরণ খুবই সংক্ষিপ্ত। সাব্বিহ একটি আদেশ। ইসমা, অর্থাৎ নাম, তার কর্ম, যা যুক্ত রাব্বিকা, তোমার রব, শব্দের সঙ্গে। আর শেষে আসে আল-আ'লা, সর্বোচ্চ। সূরা ওয়াকিআয় দুবার প্রায় একই রকম বাক্য আছে: ফাসাব্বিহ বিসমি রাব্বিকাল আযীম, তোমার মহান রবের নামে পবিত্রতা ঘোষণা কর (৫৬:৭৪ ও ৫৬:৯৬)। ইবন কাসীর সামনের এক বর্ণনায় দুটি আয়াতকে পাশাপাশি রাখেন। সেখানে নামের আগে বি অব্যয় আছে, এখানে ক্রিয়া সরাসরি নামকে ধরেছে।"
+            "bn": "ব্যাকরণ খুবই সংক্ষিপ্ত। সাব্বিহ একটি আদেশ। ইসমা, অর্থাৎ নাম, হলো তার কর্ম, আর নামটি জুড়ে আছে রাব্বিকা, তোমার রব, শব্দের সঙ্গে। শেষে আসে আল-আ'লা, সর্বোচ্চ। সূরা ওয়াকিআয় দুবার প্রায় একই রকম বাক্য আছে: ফাসাব্বিহ বিসমি রাব্বিকাল আযীম, তোমার মহান রবের নামে পবিত্রতা ঘোষণা কর (৫৬:৭৪ ও ৫৬:৯৬)। পরে উল্লিখিত এক বর্ণনায় ইবন কাসীর দুটি আয়াতকে পাশাপাশি রাখেন। সেখানে নামের আগে বি অব্যয় আছে, এখানে ক্রিয়া সরাসরি নামকে ধরেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Five Readings in at-Tabari",
-          "bn": "তাবারীর কাছে পাঁচ ব্যাখ্যা"
+          "bn": "তাবারীর তাফসীরে পাঁচ ব্যাখ্যা"
         },
         "p": [
           {
             "en": "At-Tabari opens by saying the people of interpretation differed over this verse. Some said its meaning is: magnify your Lord, the Most High, for there is no lord higher or greater than He; and some of them, when they recited it, would say subhana rabbiya al-a'la, glory to my Lord, the Most High. Others said: keep the name of your Lord, O Muhammad, from being given to anything besides Him. He says this forbade what the idolaters did in naming their gods, one al-Lat and another al-'Uzza.",
-            "bn": "তাবারী শুরুতেই বলেন, এ আয়াতের ব্যাখ্যায় তাফসীরবিদদের মধ্যে মতভেদ আছে, কেউ বলেছেন, এর অর্থ তোমার সর্বোচ্চ রবের মহিমা ঘোষণা কর, কারণ তাঁর চেয়ে উঁচু বা বড় কোনো রব নেই। তাঁদের কেউ কেউ আয়াতটি পড়ে বলতেন, সুবহানা রাব্বিয়াল আ'লা, আমার সর্বোচ্চ রবের পবিত্রতা। আরেক দল বলেছেন: হে মুহাম্মাদ, তোমার রবের নাম অন্য কাউকে দিয়ো না। তাবারী বলেন, মুশরিকরা নিজেদের দেবতাদের একটার নাম রাখত লাত, আরেকটার উযযা। এ আদেশ সেই কাজ থেকেই নিষেধ করছে।"
+            "bn": "তাবারী শুরুতেই বলেন, এ আয়াতের ব্যাখ্যায় তাফসীরবিদদের মধ্যে মতভেদ আছে। কেউ বলেছেন, এর অর্থ: তোমার সর্বোচ্চ রবের মহিমা ঘোষণা কর, কারণ তাঁর চেয়ে উঁচু বা বড় কোনো রব নেই। তাঁদের কেউ কেউ আয়াতটি পড়ে বলতেন, সুবহানা রাব্বিয়াল আ'লা, আমার সর্বোচ্চ রবের পবিত্রতা। আরেক দল বলেছেন: হে মুহাম্মাদ, তোমার রবের নাম তিনি ছাড়া আর কাউকে দিয়ো না। তাবারী বলেন, মুশরিকরা নিজেদের দেবতাদের একটার নাম রাখত লাত, আরেকটার উযযা। এ আদেশ সেই কাজ থেকেই নিষেধ করছে।"
           },
           {
             "en": "A third group said it means: declare Allah free of what the idolaters say about Him. At-Tabari pairs this with 6:108, do not insult those they call on besides Allah, lest they insult Allah in enmity without knowledge; for them the name is not what is meant, and the sense is simply glorify your Lord. A fourth group said: keep your naming of your Lord, and your mention of Him, from ever happening except in humility and lowliness before Him. On this reading, they said, the noun name stands in place of the act of naming.",
-            "bn": "তৃতীয় দলের মতে অর্থ হলো: মুশরিকরা আল্লাহ সম্পর্কে যা বলে, তা থেকে তাঁকে পবিত্র ঘোষণা কর। তাবারী এর সঙ্গে ৬:১০৮ আয়াত উদ্ধৃত করেন: আল্লাহ ছাড়া যাদের তারা ডাকে, তাদের গালি দিয়ো না, নইলে তারা না জেনে শত্রুতাবশে আল্লাহকে গালি দেবে। তাঁদের কাছে এখানে নাম উদ্দেশ্য নয়, কথাটা সোজা: তোমার রবের পবিত্রতা ঘোষণা কর। চতুর্থ দল বলেছেন: রবের নাম নেওয়া আর তাঁর জিকির যেন কখনো বিনয় ও নত হওয়া ছাড়া না ঘটে। তাঁদের কথায়, এখানে নাম শব্দটি নাম নেওয়ার কাজের জায়গায় বসেছে।"
+            "bn": "তৃতীয় দলের মতে অর্থ হলো: মুশরিকরা আল্লাহ সম্পর্কে যা বলে, তা থেকে তাঁকে পবিত্র ঘোষণা কর। তাবারী এর সঙ্গে ৬:১০৮ আয়াত উদ্ধৃত করেন: আল্লাহ ছাড়া যাদের তারা ডাকে, তাদের গালি দিয়ো না, নইলে তারা না জেনে শত্রুতাবশে আল্লাহকে গালি দেবে। তাঁদের কাছে এখানে নাম উদ্দেশ্য নয়, কথাটা সোজা: তোমার রবের পবিত্রতা ঘোষণা কর। চতুর্থ দল বলেছেন: রবের নাম নেওয়া আর তাঁর জিকির কখনো যেন তাঁর সামনে বিনয় আর নত হওয়া ছাড়া না হয়। তাঁদের কথায়, এখানে নাম শব্দটি নাম নেওয়ার কাজের জায়গায় বসেছে।"
           },
           {
             "en": "A fifth group said: pray, O Muhammad, with the remembrance of your Lord, meaning pray while you remember Him, in awe and fear of Him. Then at-Tabari gives his own choice. The most correct reading, he says, is: keep the name of your Lord from being used to call on gods and idols. His reason is the reports he has just cited from the Prophet ﷺ and the Companions, who said subhana rabbiya al-a'la on reciting it; that, he says, shows they knew its sense: magnify the name of your Lord and declare it free.",
@@ -52,7 +52,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Say It, Pray It, Mean It",
-          "bn": "বলা, নামাজ আর অন্তরের মহিমা"
+          "bn": "মুখে, নামাজে, অন্তরে"
         },
         "p": [
           {
@@ -61,7 +61,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi adds two readings under it is said. One: pray with the names of Allah, not as the idolaters prayed, with whistling and clapping. The other: raise your voice in the remembrance of your Lord, for which he cites a line of the poet Jarir in which the pilgrims sabbaha and cried Allahu akbar. As-Sa'di makes the command broad: a tasbih that includes remembering Him and worshipping Him, humbling oneself before His majesty and yielding to His greatness, a tasbih befitting His greatness.",
-            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে আরও দুটি ব্যাখ্যা আনেন। একটি: আল্লাহর নামগুলো নিয়ে নামাজ পড়ো, মুশরিকদের মতো শিস আর হাততালি দিয়ে নয়। অন্যটি: রবের জিকিরে আওয়াজ উঁচু করো। এর পক্ষে তিনি কবি জারীরের একটি পঙক্তি উদ্ধৃত করেন, যেখানে হাজীরা তাসবীহ পড়ছে আর আল্লাহু আকবার বলছে। সা'দী আদেশটিকে প্রশস্ত করে পড়েন। এ এমন তাসবীহ, যার ভেতরে আছে তাঁর জিকির আর ইবাদত, তাঁর প্রতাপের সামনে নত হওয়া, তাঁর মহত্ত্বের সামনে বিনীত হওয়া। আর তাসবীহটি হবে তাঁর মহত্ত্বের উপযোগী।"
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে আরও দুটি ব্যাখ্যা আনেন। একটি: আল্লাহর নামগুলো নিয়ে নামাজ পড়ো, মুশরিকদের মতো শিস আর হাততালি দিয়ে নয়। অন্যটি: রবের জিকিরে আওয়াজ উঁচু করো। এর পক্ষে তিনি কবি জারীরের একটি পঙক্তি উদ্ধৃত করেন, যেখানে হাজীরা তাসবীহ পড়ছে আর আল্লাহু আকবার বলছে। সা'দী আদেশটিকে ব্যাপক অর্থে নেন। তাঁর মতে এ এমন তাসবীহ, যার ভেতরে আছে তাঁর জিকির আর ইবাদত, তাঁর প্রতাপের সামনে নত হওয়া আর তাঁর মহত্ত্বের কাছে মাথা নোয়ানো। এমন তাসবীহ, যা তাঁর মহত্ত্বের উপযুক্ত।"
           },
           {
             "en": "The Muyassar compresses it into a single line: declare the name of your Lord, the Most High, free of any partner and of every deficiency, in a way that befits His greatness. Ma'arif al-Qur'an explains tasbih as to pronounce the purity, and the phrase as to honour the name of your Lord: when His name is said it should be with utmost humility and respect, and kept free of anything unbecoming to Him. They are kept side by side, and none is chosen.",
@@ -85,7 +85,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an, citing al-Qurtubi, says some commentators take ism here to mean not the name but the Being of Allah, that Arabic usage allows this, and that the instruction to say the tasbih in prostration as glory to my Lord points the same way. At-Tabari, as shown above, keeps name as a name, to be guarded from idols. The difference stands as the commentators left it.",
-            "bn": "মাআরিফুল কুরআন কুরতুবীর বরাতে বলে, কিছু তাফসীরকার এখানে ইসম বলতে নাম নয়, আল্লাহর সত্তা বুঝেছেন। আরবি ভাষার প্রয়োগে এমন অর্থ অসম্ভব নয়। সিজদায় যে তাসবীহ পড়ার নির্দেশ আছে, তা আমার রবের পবিত্রতা, তাঁর নামের নয়, আর এটিও একই দিকে ইঙ্গিত করে। অন্যদিকে তাবারী, আগেই যেমন দেখা গেছে, নামকে নাম হিসেবেই রাখেন, যাকে দেবদেবী থেকে আলাদা রাখতে হবে। তাফসীরকারেরা মতভেদ যেভাবে রেখে গেছেন, সেভাবেই তা থাকল।"
+            "bn": "মাআরিফুল কুরআন কুরতুবীর বরাতে বলে, কিছু তাফসীরকার এখানে ইসম বলতে নাম নয়, আল্লাহর সত্তা বুঝেছেন। আরবি ভাষায় এমন প্রয়োগ চলে। সিজদায় তাসবীহ পড়ার যে নির্দেশ আছে, তা-ও এসেছে 'আমার রবের পবিত্রতা' বলে, আর এটিও একই দিকে ইঙ্গিত করে। অন্যদিকে তাবারী, আগেই যেমন দেখা গেছে, নামকে নাম হিসেবেই রাখেন, যাকে দেবদেবী থেকে বাঁচিয়ে রাখতে হবে। তাফসীরকারেরা মতভেদ যেভাবে রেখে গেছেন, সেভাবেই তা থাকল।"
           }
         ]
       },
@@ -101,7 +101,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi reports through Nafi' that Ibn 'Umar said: do not say the name of Allah has risen high, for the name of Allah is the Most High. That is the whole of what these texts offer on the word. They do not open a discussion of how He is Most High, and this article does not open such a discussion either, from memory or in its own voice. The verses that follow, from 87:2, go on to describe the Lord whose name is to be glorified; they are left to be read in their own place.",
-            "bn": "কুরতুবী নাফে'র সূত্রে ইবন উমার (রাঃ)-এর কথা আনেন: বলো না যে আল্লাহর নাম উঁচু হয়েছে, কারণ আল্লাহর নামই সর্বোচ্চ। শব্দটি নিয়ে এ তাফসীরগুলোর কথা এখানেই শেষ। তিনি কীভাবে সর্বোচ্চ, সে আলোচনা তাঁরা এখানে খোলেননি। এ লেখাও স্মৃতি থেকে বা নিজের কণ্ঠে সে আলোচনা খুলবে না। ৮৭:২ থেকে পরের আয়াতগুলো সেই রবের পরিচয় দিতে থাকে, যাঁর নামের পবিত্রতা ঘোষণার আদেশ এসেছে। সেগুলোর আলোচনা তাদের নিজ নিজ জায়গায়।"
+            "bn": "কুরতুবী নাফে'র সূত্রে ইবন উমার (রাঃ)-এর কথা আনেন: বলো না যে আল্লাহর নাম উঁচু হয়েছে, কারণ আল্লাহর নামই সর্বোচ্চ। শব্দটি নিয়ে এ তাফসীরগুলোর কথা এখানেই শেষ। তিনি কীভাবে সর্বোচ্চ, সে আলোচনা তাঁরা এখানে তোলেননি। এ লেখাও স্মৃতি থেকে বা নিজের পক্ষ থেকে সে আলোচনায় যাবে না। ৮৭:২ থেকে পরের আয়াতগুলো সেই রবের পরিচয় দিতে থাকে, যাঁর নামের পবিত্রতা ঘোষণার আদেশ এসেছে। সেগুলোর আলোচনা তাদের নিজ নিজ জায়গায়।"
           }
         ]
       },
@@ -113,11 +113,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Several Companions are reported to have answered the verse as they recited it. At-Tabari, Ibn Kathir and al-Qurtubi all give 'Ali (RA): he recited Sabbih isma rabbika al-a'la and said subhana rabbiya al-a'la. At-Tabari and Ibn Kathir give the same of Ibn 'Abbas, who also said, on reaching the end of al-Qiyamah, is He not able to give life to the dead (75:40), glory to You, and yes; at-Tabari's wording adds O Allah. At-Tabari adds Ibn 'Abbas doing so in the sunset prayer, and Ibn 'Umar reading the verse with the phrase, the report adding that it was so in the reading of Ubayy ibn Ka'b.",
-            "bn": "কয়েকজন সাহাবী আয়াতটি পড়ার সময়ই তার জবাব দিতেন বলে বর্ণিত আছে। তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই আলী (রাঃ)-এর কথা আনেন: তিনি সাব্বিহিসমা রাব্বিকাল আ'লা পড়ে বললেন সুবহানা রাব্বিয়াল আ'লা। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ)-এর বেলায়ও একই কথা আনেন। সূরা কিয়ামাহর শেষে পৌঁছে, তিনি কি মৃতকে জীবিত করতে সক্ষম নন (৭৫:৪০), তিনি বলতেন: তোমার পবিত্রতা, অবশ্যই। তাবারীর বর্ণনায় এর সঙ্গে হে আল্লাহ কথাটিও আছে। তাবারী আরও আনেন, ইবন আব্বাস মাগরিবের নামাজে এমন করেছেন। আর ইবন উমার (রাঃ) আয়াতটির সঙ্গে বাক্যটি জুড়ে পড়তেন। বর্ণনায় এও আছে যে উবাই ইবন কা'ব (রাঃ)-এর কিরাআতেও এমনই ছিল।"
+            "bn": "কয়েকজন সাহাবী আয়াতটি পড়ার সময়ই তার জবাব দিতেন বলে বর্ণিত আছে। তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই আলী (রাঃ)-এর কথা আনেন: তিনি সাব্বিহিসমা রাব্বিকাল আ'লা পড়ে বললেন সুবহানা রাব্বিয়াল আ'লা। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ)-এর বেলায়ও একই কথা আনেন। সূরা কিয়ামাহর শেষ আয়াত, তিনি কি মৃতকে জীবিত করতে সক্ষম নন (৭৫:৪০), পর্যন্ত পৌঁছে তিনি বলতেন: আপনি পবিত্র, হ্যাঁ, অবশ্যই। তাবারীর বর্ণনায় এর সঙ্গে হে আল্লাহ কথাটিও আছে। তাবারী আরও আনেন, ইবন আব্বাস মাগরিবের নামাজে এমন করেছেন। আর ইবন উমার (রাঃ) আয়াতটির সঙ্গে বাক্যটি জুড়ে পড়তেন। বর্ণনায় এও আছে যে উবাই ইবন কা'ব (রাঃ)-এর কিরাআতেও এমনই ছিল।"
           },
           {
             "en": "Al-Qurtubi guards the line between the answer and the text. He reports, through Abu Bakr al-Anbari, that 'Ali said it in prayer and was asked afterwards whether he was adding this to the Qur'an. He said no: we were commanded something, and I said it. Al-Qurtubi says one follows the Companions in saying it, not because subhana rabbiya al-a'la is part of the Qur'an, as some people of deviation claimed. Ma'arif al-Qur'an calls the response commendable, citing al-Qurtubi, and notes that this desirability is outside the prayer.",
-            "bn": "উত্তর আর মূল পাঠের মাঝের সীমারেখা কুরতুবী সতর্কভাবে রক্ষা করেন। তিনি আবু বকর ইবনুল আনবারীর সূত্রে বর্ণনা করেন, আলী (রাঃ) নামাজে কথাটি বললেন। নামাজ শেষে তাঁকে জিজ্ঞেস করা হলো, আপনি কি কুরআনে এটা বাড়িয়ে দিচ্ছেন? তিনি বললেন, না। আমাদের একটা কিছুর আদেশ দেওয়া হয়েছে, আমি সেটাই বলেছি। কুরতুবী বলেন, সাহাবীদের অনুসরণে কথাটি বলা হয়। তবে সুবহানা রাব্বিয়াল আ'লা কুরআনের অংশ নয়, যেমনটা কিছু বিপথগামী দাবি করেছে। মাআরিফুল কুরআন কুরতুবীর বরাতে এ জবাবকে মুস্তাহাব বলে, আর জানায় যে এ পছন্দনীয়তা নামাজের বাইরের জন্য।"
+            "bn": "জবাব আর কুরআনের পাঠের মাঝের সীমা কুরতুবী সতর্কভাবে আলাদা রাখেন। তিনি আবু বকর ইবনুল আনবারীর সূত্রে বর্ণনা করেন, আলী (রাঃ) নামাজে কথাটি বললেন। নামাজ শেষে তাঁকে জিজ্ঞেস করা হলো, আপনি কি কুরআনে এটা বাড়িয়ে দিচ্ছেন? তিনি বললেন, না। আমাদের একটা কিছুর আদেশ দেওয়া হয়েছে, আমি সেটাই বলেছি। কুরতুবী বলেন, কথাটি বলা হয় সাহাবীদের অনুসরণে। এ কারণে নয় যে সুবহানা রাব্বিয়াল আ'লা কুরআনের অংশ, যেমনটা কিছু বিপথগামী লোক দাবি করেছে। মাআরিফুল কুরআন কুরতুবীর বরাতে এ জবাবকে মুস্তাহাব বলে, তবে জানায় যে তা মুস্তাহাব নামাজের বাইরে।"
           },
           {
             "en": "From the Prophet ﷺ the act comes by two routes in these texts. At-Tabari and Ibn Kathir carry Qatada's words, it was mentioned to us that the Prophet of Allah, when he recited it, said subhana rabbiya al-a'la. Ibn Kathir also cites Ahmad and Abu Dawud from Ibn 'Abbas that the Prophet ﷺ said it on reciting the verse, then quotes Abu Dawud's own remark: Waki' was contradicted in this hadith, for Abu Waki' and Shu'bah narrated it from Ibn 'Abbas as his own words.",
@@ -133,11 +133,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir, al-Qurtubi and Ma'arif al-Qur'an all bring the report of 'Uqba ibn 'Amir al-Juhani (RA), and Ibn Kathir names Ahmad, Abu Dawud and Ibn Majah for it. In Abu Dawud's wording as the page gives it: When \"Glorify the name of your mighty Lord\" was revealed, the Messenger of Allah (ﷺ) said: Use it when bowing, and when \"Glorify the name of your most high Lord\" was revealed, he said: Use it when prostrating yourself. (Sunan Abu Dawud 869)",
-            "bn": "ইবন কাসীর, কুরতুবী ও মাআরিফুল কুরআন তিনটিই উকবা ইবন আমির জুহানী (রাঃ)-এর বর্ণনা আনে। ইবন কাসীর এর উৎস হিসেবে আহমাদ, আবু দাউদ ও ইবন মাজাহর নাম বলেন। আবু দাউদের ভাষ্যে: যখন নাযিল হলো, তোমার মহান রবের নামে পবিত্রতা ঘোষণা কর, আল্লাহর রাসূল ﷺ বললেন: এটি রুকুতে রাখো। আর যখন নাযিল হলো, তোমার সর্বোচ্চ রবের নামের পবিত্রতা ঘোষণা কর, তিনি বললেন: এটি সিজদায় রাখো। (সুনান আবু দাউদ 869)"
+            "bn": "ইবন কাসীর, কুরতুবী ও মাআরিফুল কুরআন তিনটিই উকবা ইবন আমির জুহানী (রাঃ)-এর বর্ণনা আনে। ইবন কাসীর এর উৎস হিসেবে আহমাদ, আবু দাউদ ও ইবন মাজাহর নাম বলেন। পৃষ্ঠায় আবু দাউদের যে ভাষ্য আছে, তাতে: যখন নাজিল হলো, তোমার মহান রবের নামে পবিত্রতা ঘোষণা কর, আল্লাহর রাসূল ﷺ বললেন: এটি রুকুতে রাখো। আর যখন নাজিল হলো, তোমার সর্বোচ্চ রবের নামের পবিত্রতা ঘোষণা কর, তিনি বললেন: এটি সিজদায় রাখো। (সুনান আবু দাউদ 869)"
           },
           {
             "en": "Ibn Majah records the same report (Sunan Ibn Majah 887). Neither page shows a grading for it, and none is supplied here. The earlier verse, by Ibn Kathir's reference, is fa-sabbih bi-smi rabbika al-'azim in al-Waqi'ah (56:74 and 56:96). The report pairs the two commands with the two postures: the Most Great for bowing, the Most High for prostration. The surah's place in the Eid and Friday prayers is treated in the entry on 87:14 to 87:17 and is not repeated here.",
-            "bn": "ইবন মাজাহও একই বর্ণনা এনেছেন (সুনান ইবন মাজাহ 887)। কোনো পৃষ্ঠাতেই এর কোনো মান নির্ণয় দেখানো নেই, এখানেও কোনো মান যোগ করা হলো না। ইবন কাসীরের উল্লেখ অনুযায়ী আগের আয়াতটি হলো সূরা ওয়াকিআর ফাসাব্বিহ বিসমি রাব্বিকাল আযীম (৫৬:৭৪ ও ৫৬:৯৬)। বর্ণনাটি দুটি আদেশকে দুটি অবস্থার সঙ্গে জোড়া দেয়। মহান রবের তাসবীহ রুকুতে, আর সর্বোচ্চ রবের তাসবীহ সিজদায়। ঈদ ও জুমার নামাজে এ সূরার স্থান নিয়ে আলোচনা আছে ৮৭:১৪ থেকে ৮৭:১৭ আয়াতের লেখায়, এখানে তার পুনরাবৃত্তি করা হলো না।"
+            "bn": "ইবন মাজাহও একই বর্ণনা এনেছেন (সুনান ইবন মাজাহ 887)। কোনো পৃষ্ঠাতেই এর মান দেখানো নেই, তাই এখানেও কোনো মান দেওয়া হলো না। ইবন কাসীরের উল্লেখ অনুযায়ী আগের আয়াতটি হলো সূরা ওয়াকিআর ফাসাব্বিহ বিসমি রাব্বিকাল আযীম (৫৬:৭৪ ও ৫৬:৯৬)। বর্ণনাটি দুটি আদেশকে নামাজের দুটি অবস্থার সঙ্গে জোড়া দেয়: মহান রবের তাসবীহ রুকুতে, আর সর্বোচ্চ রবের তাসবীহ সিজদায়। ঈদ ও জুমার নামাজে এ সূরার স্থান নিয়ে আলোচনা আছে ৮৭:১৪ থেকে ৮৭:১৭ আয়াতের লেখায়, এখানে তা আর বলা হলো না।"
           }
         ]
       },
@@ -153,7 +153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other readings carry their own practice. Keeping the mention of His name humble asks how the name is said; the readings of prayer ask where it is said; the spoken reply asks that the command be answered on the tongue. At-Tabari's third reading points to 6:108, where insulting what others call on is forbidden lest they insult Allah in return; that verse has its own entry. Before any description of the Lord, the opening sets the manner in which His name is held.",
-            "bn": "বাকি ব্যাখ্যাগুলোরও নিজস্ব অনুশীলন আছে। বিনয়ের সঙ্গে নাম নেওয়ার ব্যাখ্যা প্রশ্ন করে, নামটা কীভাবে নেওয়া হচ্ছে। নামাজের ব্যাখ্যাগুলো প্রশ্ন করে, কোথায় নেওয়া হচ্ছে। মুখের জবাবের ব্যাখ্যা চায়, আদেশের উত্তর জিহ্বায় আসুক। তাবারীর তৃতীয় ব্যাখ্যা ইঙ্গিত করে ৬:১০৮ আয়াতের দিকে। সেখানে অন্যরা যাদের ডাকে তাদের গালি দিতে নিষেধ করা হয়েছে, যাতে তারা পাল্টা আল্লাহকে গালি না দেয়। সে আয়াতের আলোচনা আলাদা লেখায় আছে। রবের কোনো পরিচয় আসার আগেই সূরার শুরু ঠিক করে দেয়, তাঁর নামকে কীভাবে ধারণ করতে হবে।"
+            "bn": "বাকি ব্যাখ্যাগুলো থেকেও আমলের কথা বেরিয়ে আসে। বিনয়ের সঙ্গে নাম নেওয়ার ব্যাখ্যা দেখে, নামটা কীভাবে নেওয়া হচ্ছে। নামাজের ব্যাখ্যাগুলো দেখে, কোথায় নেওয়া হচ্ছে। মুখের জবাবের ব্যাখ্যা চায়, আদেশের উত্তর জিহ্বায় আসুক। তাবারীর তৃতীয় ব্যাখ্যা ইঙ্গিত করে ৬:১০৮ আয়াতের দিকে। সেখানে অন্যরা যাদের ডাকে তাদের গালি দিতে নিষেধ করা হয়েছে, যাতে তারা পাল্টা আল্লাহকে গালি না দেয়। সে আয়াতের আলোচনা আলাদা লেখায় আছে। রবের কোনো পরিচয় আসার আগেই সূরার শুরু ঠিক করে দেয়, তাঁর নামকে কোন আদবে ধরে রাখতে হবে।"
           }
         ]
       }
@@ -193,14 +193,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of these is set against the others in the texts, and this article does not choose among them. What they share is worth noticing. Not one commentator here defines the fear as a mood. Each ties it to Allah, and several tie it to something the one who fears knows: that a meeting is coming, that deeds will be answered. Read this way, the one who fears in 87:10 is first of all someone who has taken a fact seriously, and the feeling follows from the fact.",
-            "bn": "তাফসীরগুলোতে এই পাঠগুলোকে পরস্পরের বিপরীতে দাঁড় করানো হয়নি, আর এ লেখাও এদের মধ্যে কোনোটা বেছে নেয় না। তবে এদের মিলটুকু খেয়াল করার মতো। এখানে কোনো মুফাসসিরই ভয়কে নিছক মনের অবস্থা বলে সংজ্ঞায়িত করেননি। প্রত্যেকে একে আল্লাহর সঙ্গে বেঁধেছেন। কয়েকজন আবার বেঁধেছেন এমন কিছুর সঙ্গে, যা ভয়কারী জানে: সাক্ষাৎ আসছে, আমলের জবাব দিতে হবে। এভাবে পড়লে ৮৭:১০ আয়াতের ভয়কারী আগে এমন একজন, যে একটি সত্যকে গুরুত্ব দিয়েছে। অনুভূতি আসে সেই সত্য থেকে।"
+            "bn": "তাফসীরগুলোতে এই পাঠগুলোকে পরস্পরের বিপরীতে দাঁড় করানো হয়নি, আর এ লেখাও এদের মধ্যে কোনোটা বেছে নেয় না। তবে এদের মিলটুকু খেয়াল করার মতো। এখানে কোনো মুফাসসিরই ভয়কে নিছক মনের অবস্থা বলেননি। প্রত্যেকে একে আল্লাহর সঙ্গে বেঁধেছেন। কয়েকজন আবার বেঁধেছেন এমন কিছুর সঙ্গে, যা ভয় করা মানুষটি জানে: সাক্ষাৎ আসছে, আমলের জবাব দিতে হবে। এভাবে পড়লে ৮৭:১০ আয়াতে যে ভয় করে, সে প্রথমত এমন একজন, যে একটি সত্যকে গুরুত্ব দিয়ে নিয়েছে। অনুভূতিটা আসে সেই সত্য থেকেই।"
           }
         ]
       },
       {
         "h": {
           "en": "What Being Reminded Does",
-          "bn": "উপদেশ নেওয়ার চেহারা"
+          "bn": "উপদেশ নিলে কী হয়"
         },
         "p": [
           {
@@ -209,7 +209,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di opens his comment by naming the group: as for those who benefit, al-muntafi'un, He mentions them in His words, he who fears will be reminded. He then states what the benefit looks like. Fear of Allah, together with the servant's knowledge that Allah will requite his deeds, obliges the servant to hold back from sins and to strive in good works. For as-Sa'di, then, being reminded is measured in conduct: what a person stops doing, and what a person sets out to do.",
-            "bn": "সা'দী তাঁর ব্যাখ্যা শুরু করেন দলটির নাম দিয়ে: যারা উপকৃত হয়, আল-মুনতাফিঊন, তাদের কথা আল্লাহ বলেছেন এই বাণীতে, যে ভয় করে সে উপদেশ গ্রহণ করবে। তারপর তিনি বলেন উপকারটা দেখতে কেমন। আল্লাহর ভয়, সঙ্গে এই জ্ঞান যে তিনি আমলের প্রতিদান দেবেন, বান্দাকে গুনাহ থেকে বিরত থাকতে আর নেক কাজে চেষ্টা করতে বাধ্য করে। সা'দীর কাছে তাই উপদেশ নেওয়ার মাপকাঠি আচরণ। কী ছাড়া হলো, আর কী শুরু হলো।"
+            "bn": "সা'দী তাঁর ব্যাখ্যা শুরু করেন দলটির নাম দিয়ে: যারা উপকৃত হয়, আল-মুনতাফিঊন, তাদের কথা আল্লাহ বলেছেন এই বাণীতে, যে ভয় করে সে উপদেশ গ্রহণ করবে। তারপর তিনি বলেন, উপকারটা কেমন হয়। আল্লাহর ভয় থাকলে, আর বান্দা যদি জানে যে আল্লাহ তার আমলের প্রতিদান দেবেন, এ দুটি মিলে তাকে গুনাহ থেকে বিরত থাকতে আর নেক কাজে চেষ্টা করতে বাধ্য করে। সা'দীর কাছে তাই উপদেশ নেওয়ার মাপকাঠি আচরণ: মানুষটি কী ছাড়ল, আর কী করতে শুরু করল।"
           }
         ]
       },
@@ -221,7 +221,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi records an observation from al-Mawardi that meets a question a reader may well ask: why does the verse tie the reminder to fear? Al-Mawardi says that the one who hopes, man yarjuhu, may also be reminded. But the reminder of the one who fears is more effective, ablagh, than the reminder of the one who hopes, and so Allah attached it to fear rather than to hope, even though it attaches to both fear and hope.",
-            "bn": "কুরতুবী মাওয়ারদীর একটি পর্যবেক্ষণ উদ্ধৃত করেন, যা পাঠকের মনে স্বাভাবিকভাবে জাগা এক প্রশ্নের জবাব দেয়: আয়াত উপদেশকে ভয়ের সঙ্গেই বাঁধল কেন? মাওয়ারদী বলেন, যে আশা করে, মান ইয়ারজূহু, সেও উপদেশ গ্রহণ করতে পারে। তবে ভয়কারীর উপদেশ গ্রহণ আশাবাদীর চেয়ে বেশি কার্যকর, আবলাগ। তাই আল্লাহ একে আশার বদলে ভয়ের সঙ্গে জুড়েছেন, যদিও উপদেশের সম্পর্ক ভয় আর আশা দুটোর সঙ্গেই।"
+            "bn": "কুরতুবী মাওয়ারদীর একটি কথা উদ্ধৃত করেন, যা পাঠকের মনে স্বাভাবিকভাবে জাগা এক প্রশ্নের জবাব দেয়: আয়াত উপদেশকে ভয়ের সঙ্গেই বাঁধল কেন? মাওয়ারদী বলেন, যে আশা করে, মান ইয়ারজূহু, সেও উপদেশ গ্রহণ করতে পারে। তবে যে ভয় করে, তার উপদেশ নেওয়া যে আশা করে তার চেয়ে বেশি কার্যকর, আবলাগ। তাই আল্লাহ একে আশার বদলে ভয়ের সঙ্গে জুড়েছেন, যদিও উপদেশের সম্পর্ক ভয় আর আশা দুটোর সঙ্গেই।"
           },
           {
             "en": "Two things follow from his wording, and both are his, not this article's. First, hope is not excluded: the reminder can reach a hopeful heart too. Second, the choice of fear in the verse is a matter of which works more strongly, not of which alone is valid. Al-Mawardi does not say why fear reaches deeper, and the fetched texts give no reason, so this article leaves the point where he left it.",
@@ -249,7 +249,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi, under 87:10, records a third view with the words wa-qila, it is said, and notes that al-Qushayri reported it: make the reminder and the admonition general, even though admonition benefits only the one who fears, for you still obtain the reward of calling. So one reading places the reminder where it will benefit, another holds that it always benefits, and a third has it given to all while only some take it. The texts set them side by side, and so does this article.",
-            "bn": "কুরতুবী ৮৭:১০ আয়াতের আলোচনায় 'বলা হয়েছে', ওয়া কীলা, শব্দে তৃতীয় একটি মত আনেন, আর জানান কুশাইরী এটি বর্ণনা করেছেন। মতটি হলো: তুমি উপদেশ ও নসিহত সবার জন্য ব্যাপক করো। নসিহত যদিও কেবল ভয়কারীরই উপকারে আসে, তবু দাওয়াতের সওয়াব তুমি পাবেই। তাহলে এক পাঠে উপদেশ দিতে হবে যেখানে তা উপকারে আসে। আরেক পাঠে উপদেশ সব সময়ই উপকারী। তৃতীয় পাঠে উপদেশ সবাইকে দেওয়া হবে, নেবে কেউ কেউ। তাফসীরগুলো মতগুলোকে পাশাপাশি রেখেছে, এ লেখাও তাই রাখে।"
+            "bn": "কুরতুবী ৮৭:১০ আয়াতের আলোচনায় 'বলা হয়েছে', ওয়া কীলা, শব্দে তৃতীয় একটি মত আনেন, আর জানান কুশাইরী এটি বর্ণনা করেছেন। মতটি হলো: তুমি উপদেশ ও নসিহত সবার জন্য ব্যাপক করো। নসিহত যদিও কেবল যে ভয় করে তারই উপকারে আসে, তবু দাওয়াতের সওয়াব তুমি পাবেই। তাহলে এক পাঠে উপদেশ দিতে হবে যেখানে তা উপকারে আসে। আরেক পাঠে উপদেশ সব সময়ই উপকারী। তৃতীয় পাঠে উপদেশ সবাইকে দেওয়া হবে, নেবে কেউ কেউ। তাফসীরগুলো মতগুলোকে পাশাপাশি রেখেছে, এ লেখাও তাই রাখে।"
           }
         ]
       },
@@ -297,11 +297,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The commentators give that fear a shape one can work with. Ibn Kathir's gloss pairs it with knowing that one will meet Allah; as-Sa'di's pairs it with knowing that deeds will be requited, and measures the reminder by sins left and good deeds sought. Neither describes a feeling to be manufactured. Both describe a fact to be kept in view. A reader who keeps the meeting in view at the hour of a decision has begun to take the reminder in the way their glosses describe.",
-            "bn": "মুফাসসিরগণ এই ভয়কে এমন রূপ দেন, যা নিয়ে কাজ করা যায়। ইবন কাসীরের ব্যাখ্যায় ভয়ের সঙ্গী এই জ্ঞান যে আল্লাহর সঙ্গে সাক্ষাৎ হবে। সা'দীর ব্যাখ্যায় এর সঙ্গী এই জ্ঞান যে আমলের প্রতিদান মিলবে। আর উপদেশের মাপ তিনি নেন ছেড়ে দেওয়া গুনাহ আর খোঁজা নেক কাজ দিয়ে। কেউই জোর করে বানানো কোনো অনুভূতির কথা বলেন না। দুজনেই বলেন একটি সত্যের কথা, যা চোখের সামনে রাখতে হয়। সিদ্ধান্তের মুহূর্তে যে পাঠক সাক্ষাতের কথা মনে রাখে, সে তাঁদের ব্যাখ্যার ধারায় উপদেশ নিতে শুরু করেছে।"
+            "bn": "মুফাসসিরগণ এই ভয়কে এমন চেহারা দেন, যা জীবনে কাজে লাগানো যায়। ইবন কাসীরের ব্যাখ্যায় ভয়ের সঙ্গী এই জ্ঞান যে আল্লাহর সঙ্গে সাক্ষাৎ হবে। সা'দীর ব্যাখ্যায় এর সঙ্গী এই জ্ঞান যে আমলের প্রতিদান মিলবে। আর উপদেশ কতটা নেওয়া হলো, তা তিনি মাপেন ছেড়ে দেওয়া গুনাহ আর চেষ্টা করা নেক কাজ দিয়ে। কেউই জোর করে বানানো কোনো অনুভূতির কথা বলেন না। দুজনেই বলেন একটি সত্যের কথা, যা চোখের সামনে রাখতে হয়। সিদ্ধান্তের মুহূর্তে যে পাঠক সাক্ষাতের কথা মনে রাখে, সে তাঁদের ব্যাখ্যার ধারায় উপদেশ নিতে শুরু করেছে।"
           },
           {
             "en": "And for anyone who reminds others, the two verses together offer both caution and relief. Ibn Kathir's reading counsels care about where knowledge is offered and how much. Ma'arif al-Qur'an's reading, and the view al-Qurtubi records from al-Qushayri, counsel that it not be withheld. The verse itself places the taking of the reminder with whoever fears, and the view al-Qushayri reported adds that whoever reminds has the reward of calling either way.",
-            "bn": "যিনি অন্যদের উপদেশ দেন, তাঁর জন্য দুই আয়াত মিলে সতর্কতাও দেয়, স্বস্তিও দেয়। ইবন কাসীরের পাঠ বলে, ইলম কোথায় আর কতটুকু দেওয়া হচ্ছে সে ব্যাপারে যত্নবান হতে। মাআরিফুল কুরআনের পাঠ আর কুশাইরী থেকে কুরতুবীর আনা মত বলে, উপদেশ আটকে রাখা যাবে না। আয়াত নিজে উপদেশ গ্রহণের ভার রাখে ভয়কারীর কাঁধে। আর কুশাইরীর বর্ণিত মত যোগ করে, যিনি উপদেশ দেন, ফল যা-ই হোক, দাওয়াতের সওয়াব তিনি পাবেন।"
+            "bn": "যিনি অন্যদের উপদেশ দেন, তাঁর জন্য দুই আয়াত মিলে সতর্কতাও দেয়, স্বস্তিও দেয়। ইবন কাসীরের পাঠ বলে, ইলম কোথায় আর কতটুকু দেওয়া হচ্ছে সে ব্যাপারে যত্নবান হতে। মাআরিফুল কুরআনের পাঠ আর কুশাইরী থেকে কুরতুবীর আনা মত বলে, উপদেশ আটকে রাখা যাবে না। আয়াত নিজেই বলে দেয়, উপদেশ নেবে সে, যে ভয় করে। আর কুশাইরীর বর্ণিত মত যোগ করে, যিনি উপদেশ দেন, ফল যা-ই হোক, দাওয়াতের সওয়াব তিনি পাবেন।"
           }
         ]
       }
@@ -312,56 +312,56 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Success, Declared",
-          "bn": "সাফল্য ঘোষিত"
+          "bn": "সাফল্যের ঘোষণা"
         },
         "p": [
           {
             "en": "Qad aflaha man tazakka — truly he has succeeded who purifies himself. The particle qad with the past tense announces the matter as settled: this person has already succeeded; the result is in. Falah is the Quran's word for genuine success — thriving, attaining, lasting — the same word the adhan calls to five times a day: hayya alal-falah. Surah al-A'la, which opens in 87:1 by commanding glorification of the name of the Lord Most High, here defines what winning actually is.",
-            "bn": "কাদ আফলাহা মান তাযাক্কা — নিশ্চিতই সে সফল হয়েছে, যে নিজেকে পবিত্র করেছে। অতীত কালের ক্রিয়ার সাথে কাদ শব্দটি বিষয়টিকে মীমাংসিত ঘোষণা করে: এই মানুষটি ইতিমধ্যেই সফল; ফলাফল এসে গেছে। ফালাহ হলো প্রকৃত সাফল্যের জন্য কুরআনের শব্দ — সমৃদ্ধ হওয়া, অর্জন করা, টিকে থাকা — সেই একই শব্দ, যার দিকে আযান দিনে পাঁচবার ডাকে: হাইয়া আলাল-ফালাহ। সূরা আল-আ'লা, যা 87:1 আয়াতে মহান সর্বোচ্চ রবের নামের তাসবীহর নির্দেশ দিয়ে শুরু হয়, এখানে সংজ্ঞা দেয় — জেতা আসলে কী।"
+            "bn": "কাদ আফলাহা মান তাযাক্কা: নিশ্চয়ই সে সফল হয়েছে, যে নিজেকে পবিত্র করেছে। অতীত কালের ক্রিয়ার আগে কাদ বসে বিষয়টিকে মীমাংসিত বলে ঘোষণা করে: এই মানুষটি সফল হয়ে গেছে, ফল বেরিয়ে গেছে। ফালাহ কুরআনের সেই শব্দ, যা দিয়ে সত্যিকারের সাফল্য বোঝায়: উন্নতি করা, লক্ষ্যে পৌঁছানো, টিকে থাকা। আযানও দিনে পাঁচবার এই শব্দের দিকেই ডাকে: হাইয়া আলাল ফালাহ। সূরা আল-আ'লা শুরু হয়েছিল ৮৭:১ আয়াতে সর্বোচ্চ রবের নামের তাসবীহের আদেশ দিয়ে। এখানে সূরাটি বলে দেয়, আসল জেতা কাকে বলে।"
           }
         ]
       },
       {
         "h": {
           "en": "Three Verbs in Order",
-          "bn": "ক্রমে তিন ক্রিয়া"
+          "bn": "পরপর তিন ক্রিয়া"
         },
         "p": [
           {
             "en": "The definition has three verbs in sequence: purified himself, tazakka; remembered the name of his Lord, dhakara isma rabbihi; and prayed, fa-salla. The commentators read the order as instructive: cleansing comes first — from shirk, from sins, from the diseases of the heart — then remembrance fills the cleaned space, and prayer carries the remembrance into the limbs. The fa before salla binds prayer tightly to remembrance: the prayer meant here flows from a heart already turned.",
-            "bn": "সংজ্ঞাটিতে পরপর তিনটি ক্রিয়া: নিজেকে পবিত্র করল — তাযাক্কা; তার রবের নাম স্মরণ করল — যাকারা ইসমা রাব্বিহি; আর নামায পড়ল — ফাসাল্লা। মুফাসসিরগণ এই ক্রমকে শিক্ষণীয় হিসেবে পড়েন: আগে পরিশুদ্ধি — শিরক থেকে, গুনাহ থেকে, অন্তরের ব্যাধি থেকে — তারপর স্মরণ সেই পরিষ্কার জায়গাটি ভরে তোলে, আর নামায সেই স্মরণকে অঙ্গ-প্রত্যঙ্গে বয়ে নেয়। সাল্লার আগের ফা নামাযকে স্মরণের সাথে শক্ত করে বাঁধে: এখানে যে নামাযের কথা, তা এমন অন্তর থেকে প্রবাহিত হয় যা আগেই ফিরেছে।"
+            "bn": "সংজ্ঞাটিতে পরপর তিনটি ক্রিয়া: নিজেকে পবিত্র করল, তাযাক্কা; রবের নাম স্মরণ করল, যাকারা ইসমা রাব্বিহি; আর নামাজ পড়ল, ফাসাল্লা। মুফাসসিরগণ এই ক্রম থেকে শিক্ষা নেন। আগে পরিশুদ্ধি: শিরক থেকে, গুনাহ থেকে, অন্তরের রোগ থেকে। তারপর জিকির এসে সেই পরিষ্কার জায়গাটা ভরে দেয়। আর নামাজ সেই জিকিরকে নিয়ে যায় শরীরের অঙ্গে অঙ্গে। সাল্লার আগের ফা নামাজকে জিকিরের সঙ্গে শক্ত করে বেঁধে দেয়। এখানে যে নামাজের কথা, তা আসে এমন অন্তর থেকে, যা আগেই আল্লাহর দিকে ফিরেছে।"
           },
           {
             "en": "Some early commentators, as al-Qurtubi records, connected these verses to the charity given at the end of Ramadan and the Eid prayer that follows it — purification through sadaqat al-fitr, remembrance in the takbirs, then the prayer. The wording itself remains general, and the general reading stands: any purifying, any remembering, any praying enters the verse. The specific application shows how concretely the early generations read their Quran — they looked for days on the calendar where the three verbs lined up.",
-            "bn": "কিছু প্রাচীন মুফাসসির, যেমন আল-কুরতুবী লিপিবদ্ধ করেন, এই আয়াতগুলোকে যুক্ত করেছেন রমযানের শেষে দেওয়া দানের সাথে এবং তার পরের ঈদের নামাযের সাথে — সাদাকাতুল ফিতরের মাধ্যমে পরিশুদ্ধি, তাকবীরে স্মরণ, তারপর নামায। শব্দগুলো নিজে অবশ্য সাধারণই রয়ে গেছে, আর সাধারণ পাঠটিই বহাল: যেকোনো পবিত্রকরণ, যেকোনো স্মরণ, যেকোনো নামায আয়াতটিতে ঢোকে। নির্দিষ্ট প্রয়োগটি দেখায় প্রথম প্রজন্মগুলো তাদের কুরআন কতটা হাতে-কলমে পড়ত — তারা পঞ্জিকায় এমন দিন খুঁজত যেখানে তিনটি ক্রিয়া এক সারিতে দাঁড়ায়।"
+            "bn": "কুরতুবী জানান, প্রথম যুগের কিছু মুফাসসির এই আয়াতগুলোকে রমজানের শেষে দেওয়া সদকা আর তার পরের ঈদের নামাজের সঙ্গে মিলিয়েছেন: সাদাকাতুল ফিতর দিয়ে পবিত্রতা, তাকবীরে জিকির, তারপর নামাজ। তবে আয়াতের শব্দগুলো ব্যাপক, আর ব্যাপক অর্থই বহাল থাকে। যেকোনো পবিত্রতা, যেকোনো জিকির, যেকোনো নামাজ এ আয়াতের ভেতরে পড়ে। নির্দিষ্ট এই প্রয়োগ দেখায়, প্রথম প্রজন্মগুলো কুরআনকে কতটা বাস্তব জীবনের সঙ্গে মিলিয়ে পড়তেন। তাঁরা বছরের এমন দিন খুঁজতেন, যেদিন তিনটি ক্রিয়া একসঙ্গে মিলে যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Honest Diagnosis",
-          "bn": "সৎ রোগনির্ণয়"
+          "bn": "সোজাসুজি দোষ ধরা"
         },
         "p": [
           {
             "en": "Then the surah turns from definition to diagnosis: bal tu'thirun al-hayata ad-dunya — rather, you prefer the life of this world. The verb is athara, to prefer, to choose one thing over another; the charge is not that people use the world but that, choice after choice, they rank it first. The address is plural and undefended; the Quran states it as a plain fact about us. No argument is offered, because none is needed — our calendars and accounts testify.",
-            "bn": "তারপর সূরাটি সংজ্ঞা থেকে রোগনির্ণয়ে ফেরে: বাল তু'সিরূনাল-হায়াতাদ-দুনইয়া — বরং তোমরা দুনিয়ার জীবনকেই প্রাধান্য দাও। ক্রিয়াটি আসারা — প্রাধান্য দেওয়া, এক জিনিসকে আরেকটির উপরে বেছে নেওয়া; অভিযোগটি এই নয় যে মানুষ দুনিয়া ব্যবহার করে, বরং এই যে, পছন্দের পর পছন্দে তারা একেই প্রথমে রাখে। সম্বোধন বহুবচনে, কোনো আত্মপক্ষ ছাড়া; কুরআন এটিকে আমাদের সম্পর্কে সরল সত্য হিসেবেই বলে। কোনো যুক্তি হাজির করা হয় না, কারণ দরকারও নেই — আমাদের সময়সূচি আর হিসাবের খাতাই সাক্ষ্য দেয়।"
+            "bn": "তারপর সূরা সংজ্ঞা থেকে দোষ ধরায় যায়: বাল তু'সিরূনাল হায়াতাদ দুনইয়া, বরং তোমরা দুনিয়ার জীবনকেই প্রাধান্য দাও। ক্রিয়াটি আসারা, অর্থাৎ প্রাধান্য দেওয়া, একটাকে আরেকটার উপরে বেছে নেওয়া। অভিযোগ এই নয় যে মানুষ দুনিয়া কাজে লাগায়। অভিযোগ হলো, একের পর এক বাছাইয়ে তারা দুনিয়াকেই আগে রাখে। সম্বোধন বহুবচনে, কোনো রাখঢাক নেই। কুরআন একে আমাদের সম্পর্কে সাদামাটা সত্য হিসেবেই বলে। কোনো যুক্তি দেখানো হয়নি, কারণ দরকারই নেই। আমাদের সময় কোথায় যায় আর টাকা কোথায় যায়, সেটাই সাক্ষী।"
           },
           {
             "en": "The correction follows in the same breath: wal-akhiratu khayrun wa abqa — while the Hereafter is better and more lasting. Two comparatives, each aimed at one leg of the preference. We choose the world because it seems good: the Hereafter is better. We cling to it because it is here: the Hereafter lasts. 42:36 makes the same pairing — what is with Allah is better and more enduring for those who believe and rely upon their Lord.",
-            "bn": "সংশোধনটি আসে একই নিঃশ্বাসে: ওয়াল-আখিরাতু খাইরুন ওয়া আবকা — অথচ আখিরাত উত্তম ও অধিক স্থায়ী। দুটি তুলনাবাচক শব্দ, প্রতিটির নিশানা প্রাধান্যের এক-একটি পা। আমরা দুনিয়া বেছে নিই কারণ তা ভালো মনে হয়: আখিরাত উত্তম। আমরা তা আঁকড়ে ধরি কারণ তা হাতের কাছে: আখিরাত টিকে থাকে। 42:36 একই জোড় তৈরি করে — আল্লাহর কাছে যা আছে তা উত্তম ও অধিক স্থায়ী, তাদের জন্য যারা ঈমান আনে ও তাদের রবের উপর ভরসা করে।"
+            "bn": "সংশোধনটা আসে একই নিঃশ্বাসে: ওয়াল আখিরাতু খাইরুন ওয়া আবকা, অথচ আখিরাত উত্তম ও বেশি স্থায়ী। দুটি তুলনাবাচক শব্দ, প্রতিটি দুনিয়াকে বেছে নেওয়ার একেকটি কারণের জবাব। আমরা দুনিয়া বেছে নিই, কারণ তা ভালো মনে হয়: আখিরাত উত্তম। দুনিয়া আঁকড়ে থাকি, কারণ তা হাতের কাছে: আখিরাত টিকে থাকে। ৪২:৩৬ আয়াতেও একই জোড়া এসেছে: আল্লাহর কাছে যা আছে, তা উত্তম ও বেশি স্থায়ী, তাদের জন্য যারা ঈমান এনেছে আর নিজেদের রবের উপর ভরসা করে।"
           }
         ]
       },
       {
         "h": {
           "en": "In the First Scriptures",
-          "bn": "প্রাচীন সহীফাসমূহে"
+          "bn": "আগের সহীফাগুলোতে"
         },
         "p": [
           {
             "en": "The surah then discloses the age of this teaching: indeed this is in the former scriptures, the scriptures of Ibrahim (AS) and Musa (AS), as 87:18-19 declare. The commentators discuss what this points back to; the nearest passage is this very definition of success and diagnosis of preference. The claim is quietly enormous: the core spiritual arithmetic — purify, remember, pray, and do not trade the lasting for the immediate — was not new with the Quran. It is the oldest message there is, restated.",
-            "bn": "এরপর সূরাটি এই শিক্ষার বয়স প্রকাশ করে: নিশ্চয়ই এ কথা আছে পূর্ববর্তী সহীফাগুলোতে — ইবরাহীম (আঃ) ও মূসা (আঃ)-এর সহীফায় — 87:18-19। এই ইঙ্গিত কোন কথার দিকে, তা নিয়ে মুফাসসিরগণ আলোচনা করেন; নিকটতম অনুচ্ছেদটি হলো সাফল্যের এই সংজ্ঞা আর প্রাধান্যের এই রোগনির্ণয়ই। দাবিটি নীরবে বিশাল: মূল আধ্যাত্মিক পাটিগণিত — পবিত্র হও, স্মরণ করো, নামায পড়ো, আর স্থায়ীকে তাৎক্ষণিকের বিনিময়ে বেচে দিয়ো না — কুরআনের সাথে নতুন আসেনি। এ হলো প্রাচীনতম বার্তা, নতুন করে বলা।"
+            "bn": "এরপর সূরা জানায়, এ শিক্ষা কত পুরোনো: নিশ্চয়ই এ কথা আছে পূর্ববর্তী সহীফাগুলোতে, ইবরাহীম (আঃ) ও মূসা (আঃ)-এর সহীফায় (৮৭:১৮-১৯)। এ ইঙ্গিত ঠিক কোন কথার দিকে, তা নিয়ে মুফাসসিরগণ আলোচনা করেছেন। সবচেয়ে কাছের অংশটি হলো সাফল্যের এই সংজ্ঞা আর দুনিয়াকে প্রাধান্য দেওয়ার এই দোষ ধরা। দাবিটা নিঃশব্দ, কিন্তু বিশাল। আত্মার মূল হিসাব, অর্থাৎ পবিত্র হও, জিকির করো, নামাজ পড়ো, আর তাৎক্ষণিকের বদলে স্থায়ীকে বেচে দিয়ো না, কুরআনের সঙ্গে নতুন আসেনি। এ সবচেয়ে পুরোনো বার্তা, নতুন করে বলা।"
           }
         ]
       },
@@ -373,23 +373,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim records from an-Nu'man ibn Bashir (RA) that the Prophet ﷺ used to recite Sabbih isma rabbika al-a'la and Hal ataka hadithul-ghashiyah in the two Eid prayers and in the Friday prayer, and when Eid and Friday fell on the same day he recited them both in both. The choice means the ummah's largest regular gatherings repeatedly heard success redefined. On the days most given to celebration and appearance, the congregation was told again what winning is: purification, remembrance, prayer.",
-            "bn": "মুসলিম নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ দুই ঈদের নামাযে ও জুমার নামাযে সাব্বিহিসমা রাব্বিকাল-আ'লা এবং হাল আতাকা হাদীসুল-গাশিয়াহ পড়তেন, আর ঈদ ও জুমা একই দিনে পড়লে দুটিতেই দুটিই পড়তেন। এই বাছাইয়ের মানে — উম্মাহর সবচেয়ে বড় নিয়মিত সমাবেশগুলো বারবার শুনেছে সাফল্যের নতুন সংজ্ঞা। যে দিনগুলো সবচেয়ে বেশি উদযাপন ও সাজসজ্জার, সেই দিনগুলোতেই জামাতকে আবার বলা হয়েছে জেতা কাকে বলে: পরিশুদ্ধি, স্মরণ, নামায।"
+            "bn": "মুসলিম নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ দুই ঈদের নামাজে আর জুমার নামাজে সাব্বিহিসমা রাব্বিকাল আ'লা ও হাল আতাকা হাদীসুল গাশিয়াহ পড়তেন। ঈদ আর জুমা একই দিনে পড়লে দুই নামাজেই এ দুটি সূরা পড়তেন। এ বাছাইয়ের ফলে উম্মাহর সবচেয়ে বড় নিয়মিত সমাবেশগুলো বারবার সাফল্যের নতুন সংজ্ঞা শুনেছে। যে দিনগুলো সবচেয়ে বেশি উৎসব আর সাজসজ্জার, সেদিনই জামাতকে আবার মনে করিয়ে দেওয়া হয়েছে, আসল জেতা কী: পবিত্রতা, জিকির, নামাজ।"
           }
         ]
       },
       {
         "h": {
           "en": "Running the Definition",
-          "bn": "সংজ্ঞাটি চালু করা"
+          "bn": "সংজ্ঞা থেকে আমলে"
         },
         "p": [
           {
             "en": "The three verbs convert directly into a day's architecture. Purify: keep tawbah current, and let charity clean what wealth accumulates. Remember: attach the name of your Lord to thresholds — waking, eating, leaving, returning. Pray: guard the five, and let them be the remembrance walking. Then use the diagnosis as a lens on small choices: in each trade-off between the immediate and the lasting, notice which way the hand reaches. The preference is corrected in increments, not in proclamations.",
-            "bn": "তিনটি ক্রিয়া সরাসরি একটি দিনের স্থাপত্যে রূপ নেয়। পবিত্র করুন: তাওবা হালনাগাদ রাখুন, আর সম্পদ যা জমায় দান তা পরিষ্কার করুক। স্মরণ করুন: আপনার রবের নাম চৌকাঠগুলোতে জুড়ে দিন — ঘুম ভাঙা, খাওয়া, বেরোনো, ফেরা। নামায পড়ুন: পাঁচ ওয়াক্ত পাহারা দিন, আর সেগুলোই হোক হেঁটে চলা স্মরণ। তারপর রোগনির্ণয়টিকে ছোট ছোট পছন্দের লেন্স বানান: তাৎক্ষণিক আর স্থায়ীর প্রতিটি দর-কষাকষিতে খেয়াল করুন হাত কোন দিকে বাড়ে। প্রাধান্যের সংশোধন হয় কিস্তিতে কিস্তিতে, ঘোষণায় নয়।"
+            "bn": "তিনটি ক্রিয়া সরাসরি একটি দিনের কাঠামো হয়ে উঠতে পারে। পবিত্র হোন: তওবা সব সময় তাজা রাখুন, আর সম্পদে যা জমে, দান দিয়ে তা পরিষ্কার করুন। জিকির করুন: দিনের প্রতিটি মোড়ে রবের নাম জুড়ে দিন, ঘুম থেকে ওঠা, খাওয়া, ঘর থেকে বেরোনো, ফিরে আসা। নামাজ পড়ুন: পাঁচ ওয়াক্তের হেফাজত করুন, আর নামাজ হয়ে উঠুক চলমান জিকির। তারপর আয়াত যে দোষ ধরিয়ে দিয়েছে, তা দিয়ে নিজের ছোট ছোট সিদ্ধান্তগুলো যাচাই করুন। তাৎক্ষণিক আর স্থায়ীর মধ্যে প্রতিটি টানাপোড়েনে খেয়াল করুন, হাত কোন দিকে যায়। দুনিয়ার প্রতি এই টান শোধরায় একটু একটু করে, বড় ঘোষণায় নয়।"
           },
           {
             "en": "The verse's tense is also its comfort. Success is declared already attained by whoever does these things — not deferred until wealth, recognition or ease arrive. A person of modest means who purifies, remembers and prays has succeeded, in the present tense, on the authority of the One who defines the term. What remains is the choice the surah names, made freshly each day, between the thing in the hand and the thing that endures.",
-            "bn": "আয়াতের কালই তার সান্ত্বনা। যে এই কাজগুলো করে, তার সাফল্য ইতিমধ্যে অর্জিত বলে ঘোষিত — সম্পদ, স্বীকৃতি বা স্বাচ্ছন্দ্য আসা পর্যন্ত মুলতবি নয়। সামান্য সামর্থ্যের যে মানুষ পবিত্র হয়, স্মরণ করে ও নামায পড়ে, সে সফল — বর্তমান কালে, সেই সত্তার কর্তৃত্বে যিনি শব্দটির সংজ্ঞা দেন। বাকি থাকে সূরাটির নাম-করা সেই পছন্দ, যা প্রতিদিন নতুন করে করতে হয় — হাতের জিনিস আর টিকে-থাকা জিনিসের মধ্যে।"
+            "bn": "আয়াতের কালেই আছে সান্ত্বনা। যে এ কাজগুলো করে, তার সাফল্য অর্জিত হয়ে গেছে বলে ঘোষণা এসেছে। সম্পদ, স্বীকৃতি বা আরাম আসা পর্যন্ত তা ঝুলে নেই। সামান্য সামর্থ্যের যে মানুষ পবিত্র হয়, জিকির করে, নামাজ পড়ে, সে সফল, এখনই, বর্তমান কালে। এ কথা বলছেন তিনি, যিনি সাফল্যের সংজ্ঞা দেন। বাকি থাকে সূরা যে বাছাইয়ের কথা বলেছে, তা প্রতিদিন নতুন করে করা: হাতের জিনিস, নাকি যা টিকে থাকে।"
           }
         ]
       }
