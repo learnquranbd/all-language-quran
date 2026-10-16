@@ -225,7 +225,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "One honest note belongs here. No sound hadith of the Prophet (peace be upon him) comes attached to this particular verse in the tafsirs consulted; what the commentators transmit are the words of the Companions and Followers about the language and the sense, not a marfu report on the meaning of the ayah. Where there is no sound narration to add, the right course is to say so and let the verse and its language carry the weight.",
-            "bn": "এখানে একটা সৎ কথা বলা দরকার। যেসব তাফসীর দেখা হয়েছে, তাতে এই নির্দিষ্ট আয়াতের সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদীস জুড়ে আসেনি। তাফসীরকারেরা যা বর্ণনা করেন তা সাহাবা ও তাবিঈদের কথা, ভাষা আর অর্থ নিয়ে, আয়াতের মানে নিয়ে কোনো মারফূ বর্ণনা নয়। যেখানে জোড়ার মতো কোনো সহীহ বর্ণনা নেই, সেখানে সঠিক পথ হলো তা বলে দেওয়া আর আয়াত ও তার ভাষাকেই ভার বহন করতে দেওয়া।"
+            "bn": "এখানে একটা সৎ কথা বলা দরকার। যেসব তাফসীর দেখা হয়েছে, তাতে এই নির্দিষ্ট আয়াতের সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদিস জুড়ে আসেনি। তাফসীরকারেরা যা বর্ণনা করেন তা সাহাবা ও তাবিঈদের কথা, ভাষা আর অর্থ নিয়ে, আয়াতের মানে নিয়ে কোনো মারফূ বর্ণনা নয়। যেখানে জোড়ার মতো কোনো সহীহ বর্ণনা নেই, সেখানে সঠিক পথ হলো তা বলে দেওয়া আর আয়াত ও তার ভাষাকেই ভার বহন করতে দেওয়া।"
           }
         ]
       },
@@ -697,7 +697,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Read the verse's verbs and see who acts in them. He made me blessed, jaʿalanī; He enjoined upon me, awṣānī. In each clause Allah is the subject and ʿĪsā (AS) is acted upon. A person who says he was made blessed did not bless himself, and whoever reports that he was enjoined to pray and give stands beneath a command rather than above it. The grammar of 19:31 is, from beginning to end, the grammar of a servant describing his Master and not himself.",
-            "bn": "আয়াতের ক্রিয়াগুলো পড়ুন, দেখুন কে সেখানে কাজ করছেন। তিনি আমাকে বরকতময় করেছেন, জাআলানী; তিনি আমাকে হুকুম দিয়েছেন, আওসানী। প্রতিটি বাক্যে আল্লাহই কর্তা, আর ঈসা (আঃ) যাঁর উপর কাজটি হচ্ছে। যে বলে তাকে বরকতময় করা হয়েছে, সে নিজে নিজেকে বরকত দেয়নি। আর যে জানায় তাকে নামায ও যাকাতের হুকুম দেওয়া হয়েছে, সে হুকুমের উপরে নয়, নিচে দাঁড়িয়ে। ১৯:৩১ আয়াতের ভাষা গোড়া থেকে শেষ পর্যন্ত এমন এক বান্দার ভাষা, যে নিজের নয়, নিজের মালিকের কথা বলছে।"
+            "bn": "আয়াতের ক্রিয়াগুলো পড়ুন, দেখুন কে সেখানে কাজ করছেন। তিনি আমাকে বরকতময় করেছেন, জাআলানী; তিনি আমাকে হুকুম দিয়েছেন, আওসানী। প্রতিটি বাক্যে আল্লাহই কর্তা, আর ঈসা (আঃ) যাঁর উপর কাজটি হচ্ছে। যে বলে তাকে বরকতময় করা হয়েছে, সে নিজে নিজেকে বরকত দেয়নি। আর যে জানায় তাকে নামাজ ও যাকাতের হুকুম দেওয়া হয়েছে, সে হুকুমের উপরে নয়, নিচে দাঁড়িয়ে। ১৯:৩১ আয়াতের ভাষা গোড়া থেকে শেষ পর্যন্ত এমন এক বান্দার ভাষা, যে নিজের নয়, নিজের মালিকের কথা বলছে।"
           }
         ]
       },
