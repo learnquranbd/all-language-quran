@@ -61,7 +61,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an begins from a name. Shaping the figures of creatures, it says, is one of the exclusive attributes of Allah, which is why al-Musawwir, the Shaper, is among His names. It then calls the giving of shape one of the Divine blessings the verse mentions, and notes that fa-ahsana suwarakum follows it at once. On that reading the clause names a favour twice: once for being formed at all, and once for being formed well. Neither part is something the one formed did for himself.",
-            "bn": "মাআরিফুল কুরআন শুরু করে আল্লাহর একটি নাম থেকে। সৃষ্টির আকৃতি গড়া, তার ভাষায়, একান্তভাবে আল্লাহরই গুণ। এ কারণেই আল-মুসাওয়ির, আকৃতিদাতা, তাঁর নামগুলোর একটি। এরপর মাআরিফ বলে, আকৃতি দেওয়াকে আয়াতটি আল্লাহর নিয়ামতের মধ্যে গুনেছে, আর ঠিক তার পরেই এসেছে ফাআহসানা সুওয়ারাকুম। এ পাঠে বাক্যাংশটি একটি অনুগ্রহের কথা বলে দুবার। একবার আকৃতি পাওয়ার জন্য, আরেকবার সুন্দর আকৃতি পাওয়ার জন্য। এর কোনোটাই যাকে গড়া হয়েছে সে নিজে নিজের জন্য করেনি।"
+            "bn": "মাআরিফুল কুরআন শুরু করে আল্লাহর একটি নাম থেকে। মাআরিফের ভাষায়, সৃষ্টির আকৃতি গড়া একান্তভাবে আল্লাহরই গুণ। এ কারণেই আল-মুসাওয়ির, আকৃতিদাতা, তাঁর নামগুলোর একটি। এরপর মাআরিফ বলে, আকৃতি দেওয়াকে আয়াতটি আল্লাহর নিয়ামতের মধ্যে গুনেছে, আর ঠিক তার পরেই এসেছে ফাআহসানা সুওয়ারাকুম। এ পাঠে বাক্যাংশটি অনুগ্রহের কথা বলে দুবার: একবার আকৃতি পাওয়ার জন্য, আরেকবার সুন্দর আকৃতি পাওয়ার জন্য। যাকে গড়া হলো, এর কোনোটাই সে নিজে নিজের জন্য করেনি।"
           }
         ]
       },
@@ -73,11 +73,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Whom does the you of sawwarakum mean? Al-Qurtubi records two answers. The first, which he attributes to Muqatil, is that the clause means Adam (AS), whom Allah created with His hand as an honour to him. The second is that it means all of creation. At-Tabari's own gloss speaks to the listeners directly, but he also reports the first view: it has been said that the forming of Adam is meant, and his being created by Allah's hand. He gives it with a chain to Ibn 'Abbas, in these words: it means Adam; He created him with His hand.",
-            "bn": "সাওওয়ারাকুম-এর 'তোমাদের' কারা? কুরতুবী দুটি জবাব লিখে রাখেন। প্রথমটি তিনি মুকাতিলের নামে বলেন: এখানে আদম (আঃ)-এর কথা বলা হয়েছে, যাঁকে আল্লাহ সম্মান দিয়ে নিজ হাতে সৃষ্টি করেছেন। দ্বিতীয়টি হলো, এখানে উদ্দেশ্য সমস্ত সৃষ্টি। তাবারীর নিজের ব্যাখ্যা শ্রোতাদের সরাসরি সম্বোধন করে। তবে প্রথম মতটিও তিনি উল্লেখ করেন: বলা হয়েছে, এখানে আদমকে আকৃতি দেওয়ার আর আল্লাহর নিজ হাতে তাঁকে সৃষ্টি করার কথা বোঝানো হয়েছে। তিনি এটি সনদসহ ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছে দেন, যাঁর কথা: এর মানে আদম, আল্লাহ তাঁকে নিজ হাতে সৃষ্টি করেছেন।"
+            "bn": "সাওওয়ারাকুম-এর 'তোমাদের' কারা? কুরতুবী দুটি জবাব লিখে রাখেন। প্রথমটি তিনি মুকাতিলের নামে বলেন: এখানে আদম (আঃ)-এর কথা বলা হয়েছে, যাঁকে আল্লাহ সম্মান দিয়ে নিজ হাতে সৃষ্টি করেছেন। দ্বিতীয় জবাব, এখানে উদ্দেশ্য সমস্ত সৃষ্টি। তাবারী নিজের ব্যাখ্যায় শ্রোতাদের সরাসরি সম্বোধন করেন। তবে প্রথম মতটিও তিনি উল্লেখ করেন: কেউ কেউ বলেছেন, এখানে উদ্দেশ্য আদমকে আকৃতি দেওয়া আর আল্লাহর নিজ হাতে তাঁকে সৃষ্টি করা। এ মত তিনি সনদসহ ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছে দেন। তাঁর কথা: এর মানে আদম, আল্লাহ তাঁকে নিজ হাতে সৃষ্টি করেছেন।"
           },
           {
             "en": "At-Tabari gives the chain in full, and this article reports it as he does, without grading it. The two views are kept as two. On the first, the verse reminds the children of Adam (AS) of the honour shown to their father. On the second, it speaks to every listener of his or her own forming. The article does not choose between them. Both readings agree on the direction of the clause: the form is received, and its Giver is named alongside the heavens and the earth.",
-            "bn": "তাবারী পুরো সনদ উল্লেখ করেছেন। এ প্রবন্ধ সেটি তাঁর মতোই উদ্ধৃত করছে, সনদের মান যাচাই না করে। দুটি মত এখানে দুটি মত হিসেবেই থাকছে। প্রথম মতে আয়াতটি আদম সন্তানদের মনে করিয়ে দেয় তাদের পিতা আদম (আঃ)-কে দেওয়া সম্মানের কথা। দ্বিতীয় মতে আয়াত প্রত্যেক শ্রোতাকে তার নিজের গড়নের কথা বলে। এ প্রবন্ধ এর কোনোটিকে বেছে নিচ্ছে না। দুই পাঠেই বাক্যাংশের দিক এক: আকৃতি পাওয়া জিনিস, আর যিনি দিয়েছেন, আসমান ও যমীনের সঙ্গে একই বাক্যে তাঁর নাম আসে।"
+            "bn": "তাবারী পুরো সনদ উল্লেখ করেছেন। এ প্রবন্ধ সেটি তাঁর মতোই উদ্ধৃত করছে, সনদের মান যাচাই না করে। দুটি মত এখানে দুটি মত হিসেবেই থাকছে। প্রথম মতে আয়াতটি আদম সন্তানদের মনে করিয়ে দেয় তাদের পিতা আদম (আঃ)-কে দেওয়া সম্মানের কথা। দ্বিতীয় মতে আয়াত প্রত্যেক শ্রোতাকে তার নিজের গড়নের কথা বলে। এ প্রবন্ধ এর কোনোটিকে বেছে নিচ্ছে না। দুই পাঠেই বাক্যাংশটির দিক এক: আকৃতি মানুষের পাওয়া জিনিস, আর যিনি দিয়েছেন, আসমান ও যমীনের সঙ্গে একই বাক্যে তাঁর নাম এসেছে।"
           }
         ]
       },
@@ -113,7 +113,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then Ma'arif adds a sentence that guards the clause from misuse. In the whole universe, it says, Allah made the human shape the most beautiful, and however ugly a man might seem in his own community, he is still beautiful in his own right when set beside the shapes of all non-human creatures. The comparison the commentators draw, in Ma'arif as in al-Qurtubi and as-Sa'di, is between human beings and other living things. It is not a comparison between one person and another.",
-            "bn": "এরপর মাআরিফ এমন একটি কথা যোগ করে যা বাক্যাংশটিকে অপব্যবহার থেকে রক্ষা করে। গোটা সৃষ্টিজগতে আল্লাহ মানুষের আকৃতিকেই সবচেয়ে সুন্দর করেছেন। কোনো মানুষকে তার নিজের সমাজে যত কুশ্রীই মনে হোক, অন্য সব অমানব প্রাণীর আকৃতির পাশে রাখলে সে নিজ গুণেই সুন্দর। মাআরিফ, কুরতুবী ও সা'দী তিনজনই যে তুলনা টানেন, তা মানুষ আর অন্য প্রাণীর মধ্যে। এক মানুষের সঙ্গে আরেক মানুষের তুলনা সেটা নয়।"
+            "bn": "এরপর মাআরিফ একটি কথা যোগ করে, যাতে বাক্যাংশটির অপব্যবহার না হয়। গোটা সৃষ্টিজগতে আল্লাহ মানুষের আকৃতিকেই সবচেয়ে সুন্দর করেছেন। কোনো মানুষকে তার নিজের সমাজে যত কুশ্রীই মনে হোক, মানুষ ছাড়া অন্য সব প্রাণীর আকৃতির পাশে রাখলে সে-ও নিজ গুণে সুন্দর। মাআরিফ, কুরতুবী ও সা'দী তিনজনই যে তুলনা টানেন, তা মানুষ আর অন্য প্রাণীর মধ্যে। এক মানুষের সঙ্গে আরেক মানুষের তুলনা সেটা নয়।"
           },
           {
             "en": "That needs saying plainly, because a phrase like made your forms good is easy to bend. The verse makes no claim about any one person's looks, ranks no face above another, and gives no one a reason to think less of a face that differs from the taste of a place or an age. It speaks to its listeners together: He formed you, in the plural, and made your forms good. Whoever uses it to praise his own face or to belittle someone else's has read into it a contest the commentators never found there.",
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di widens the reckoning. On that Day, he writes, Allah will repay you for your faith and your disbelief, and He will ask you about the blessings and the favours He granted you: did you fulfil the thanks owed for them, or did you not? As-Sa'di does not name the form at this point. Yet a reader who has just heard that his form was made good can hardly leave it off that list, and so the clause about the return turns back on the clause before it.",
-            "bn": "সা'দী হিসাবের পরিধি আরও বড় করে দেখান। সেদিন, তিনি লেখেন, আল্লাহ তোমাদের ঈমান ও কুফরের প্রতিদান দেবেন। আর তিনি জিজ্ঞেস করবেন সেই সব নিয়ামত আর অনুগ্রহের কথা যা তিনি তোমাদের দিয়েছিলেন: তোমরা কি এগুলোর শোকর আদায় করেছিলে, নাকি করোনি? সা'দী এখানে আকৃতির কথা আলাদা করে বলেননি। কিন্তু যে পাঠক এইমাত্র শুনল যে তার আকৃতি সুন্দর করে গড়া হয়েছে, সে এই তালিকা থেকে আকৃতিকে বাদ দিতে পারে না। এভাবে ফেরার কথাটা আগের বাক্যাংশের দিকেই ঘুরে আসে।"
+            "bn": "সা'দী হিসাবের পরিধি আরও বড় করে দেখান। তিনি লেখেন, সেদিন আল্লাহ তোমাদের ঈমান ও কুফরের প্রতিদান দেবেন। আর তিনি তোমাদের জিজ্ঞেস করবেন, যত নিয়ামত আর অনুগ্রহ তোমাদের দিয়েছিলেন, তোমরা কি সেগুলোর শোকর আদায় করেছিলে, নাকি করোনি? সা'দী এখানে আকৃতির কথা আলাদা করে বলেননি। কিন্তু যে পাঠক এইমাত্র শুনল যে তার আকৃতি সুন্দর করে গড়া হয়েছে, সে এই তালিকা থেকে আকৃতিকে বাদ রাখবে কী করে? এভাবে ফেরার কথাটা আগের বাক্যাংশের দিকেই ঘুরে আসে।"
           },
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so the article offers neither. Nor does any of them, in the text read here, tie al-masir by number to the verses later in the surah, so no such link is drawn here. What the verses that follow say about knowledge and about earlier peoples belongs to those verses, and is left for them.",
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah at-Taghabun has just finished describing the Day of Assembly. 64:9 names it the Day of Taghabun, the day of mutual gain and loss, and promises the believer who works righteousness that his misdeeds will be removed and gardens opened; 64:10 states the opposite outcome for those who denied the signs. Only after both destinations are fixed does the surah turn to the reader's present, and the first thing it says about the present is that nothing in it arrives by accident.",
-            "bn": "সূরা আত-তাগাবুন এইমাত্র সমাবেশের দিনের বর্ণনা শেষ করেছে। 64:9 আয়াতে সেই দিনকে বলা হয়েছে তাগাবুনের দিন, অর্থাৎ পারস্পরিক লাভ-ক্ষতির দিন, আর যে মুমিন সৎকাজ করে তার জন্য প্রতিশ্রুতি দেওয়া হয়েছে যে তার মন্দ কাজগুলো মুছে দেওয়া হবে ও জান্নাত খুলে দেওয়া হবে; 64:10 আয়াতে যারা নিদর্শন অস্বীকার করেছে তাদের বিপরীত পরিণতির কথা বলা হয়েছে। দুই গন্তব্য নির্ধারিত হওয়ার পরেই সূরাটি পাঠকের বর্তমানে ফেরে, আর বর্তমান সম্পর্কে প্রথম কথাটিই হলো: এখানে কিছুই দুর্ঘটনাক্রমে আসে না।"
+            "bn": "সূরা আত-তাগাবুন এইমাত্র সমবেত করার দিনের বর্ণনা শেষ করেছে। ৬৪:৯ আয়াত সেই দিনের নাম দিয়েছে তাগাবুনের দিন, অর্থাৎ লাভ-ক্ষতির দিন। যে মুমিন নেক আমল করে, তাকে কথা দেওয়া হয়েছে: তার মন্দ কাজগুলো মুছে দেওয়া হবে, জান্নাত খুলে দেওয়া হবে। ৬৪:১০ আয়াত বলে, যারা আল্লাহর নিদর্শন অস্বীকার করেছে, তাদের পরিণতি ঠিক উল্টো। দুই ঠিকানা স্থির হয়ে যাওয়ার পরেই সূরা পাঠকের বর্তমানে ফিরে আসে। আর বর্তমান নিয়ে প্রথম কথাই হলো: এখানে কিছুই আকস্মিকভাবে আসে না।"
           }
         ]
       },
@@ -181,11 +181,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma asaba min musibatin illa bi idhnillah. The Arabic word for calamity is itself instructive. Musibah comes from asaba, to hit what was aimed at; the same root gives sawab, the correct answer, the thing that strikes the mark. Built into the noun is the idea that the blow arrived where it was directed. The verse then adds the source of the aim: illa bi idhnillah, except by the leave of Allah — permission in the sense of enabling and allowing, not in the sense of approving of every act that people commit.",
-            "bn": "'মা আসাবা মিন মুসীবাতিন ইল্লা বিইযনিল্লাহ।' বিপদ বোঝাতে আরবি যে শব্দটি ব্যবহৃত হয়েছে, তা নিজেই শিক্ষণীয়। 'মুসীবাহ' এসেছে 'আসাবা' থেকে, যার অর্থ লক্ষ্যবস্তুতে আঘাত করা; একই ধাতু থেকে আসে 'সাওয়াব', অর্থাৎ সঠিক উত্তর, যা লক্ষ্যে লাগে। শব্দটির ভেতরেই গাঁথা আছে এই ধারণা যে আঘাতটি সেখানেই পৌঁছেছে যেখানে তাকে পাঠানো হয়েছিল। এরপর আয়াতটি সেই লক্ষ্যস্থিরকারীর কথা যোগ করে: 'ইল্লা বিইযনিল্লাহ' — আল্লাহর অনুমতি ছাড়া নয়; এখানে অনুমতি মানে ঘটতে দেওয়া ও সক্ষম করা, মানুষ যা করে তার প্রতিটিকে অনুমোদন করা নয়।"
+            "bn": "মা আসাবা মিন মুসীবাতিন ইল্লা বিইযনিল্লাহ। বিপদের আরবি শব্দটিই অনেক কিছু শেখায়। 'মুসীবাহ' এসেছে 'আসাবা' থেকে, যার মানে নিশানা করা জায়গায় গিয়ে লাগা। একই ধাতু থেকে এসেছে 'সাওয়াব', অর্থাৎ সঠিক উত্তর, যা ঠিক জায়গায় লাগে। তাই শব্দটির ভেতরেই এই ভাবনা গাঁথা: আঘাত সেখানেই পৌঁছেছে, যেখানে তাকে পাঠানো হয়েছিল। এরপর আয়াত বলে দেয় নিশানা কার: ইল্লা বিইযনিল্লাহ, আল্লাহর অনুমতি ছাড়া নয়। এখানে অনুমতি মানে ঘটতে দেওয়া, ঘটার সুযোগ করে দেওয়া। মানুষ যা কিছু করে তার প্রতিটি কাজ তিনি পছন্দ করেন, এই অর্থে নয়।"
           },
           {
             "en": "57:22 supplies the fuller version of the same statement: no disaster strikes on the earth or among yourselves except that it is in a register before We bring it into being. And 57:23 states the purpose out loud, so that you do not despair over what has escaped you nor exult over what He has given you. 9:51 puts the same conviction in the mouth of the believer as a thing to say: never will we be struck except by what Allah has decreed for us.",
-            "bn": "57:22 আয়াতে একই বক্তব্যের পূর্ণতর রূপ আছে: পৃথিবীতে বা তোমাদের নিজেদের ওপর এমন কোনো বিপদ আসে না, যা আমি তা সংঘটিত করার আগেই কিতাবে লিপিবদ্ধ রাখি না। আর 57:23 আয়াতে উদ্দেশ্যটি সরাসরি বলা হয়েছে — যাতে যা তোমাদের হাতছাড়া হয়েছে তার জন্য তোমরা হতাশ না হও, আর তিনি যা দিয়েছেন তা নিয়ে উৎফুল্ল না হও। 9:51 আয়াতে একই প্রত্যয় মুমিনের মুখে বলার মতো কথা হিসেবে বসানো হয়েছে: আল্লাহ আমাদের জন্য যা লিখে দিয়েছেন তা ছাড়া আমাদের কিছুই ঘটবে না।"
+            "bn": "৫৭:২২ আয়াতে একই কথা আরও পূর্ণ করে বলা হয়েছে: পৃথিবীতে বা তোমাদের নিজেদের ওপর এমন কোনো বিপদ আসে না, যা ঘটানোর আগেই আমি কিতাবে লিখে রাখিনি। ৫৭:২৩ আয়াত এর উদ্দেশ্যও খোলাখুলি বলে দেয়: যাতে যা হাতছাড়া হয়েছে তার জন্য তোমরা হতাশ না হও, আর তিনি যা দিয়েছেন তা নিয়ে উল্লাস না করো। ৯:৫১ আয়াতে একই বিশ্বাসকে মুমিনের মুখের কথা করে দেওয়া হয়েছে: আল্লাহ আমাদের জন্য যা লিখে রেখেছেন, তা ছাড়া আর কিছুই আমাদের ওপর আসবে না।"
           }
         ]
       },
@@ -197,11 +197,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second clause is the one that makes the verse a comfort rather than a mere doctrine. Waman yu'min billahi yahdi qalbah — and whoever believes in Allah, He guides his heart. Read the exchange carefully. Belief is the condition; the response promised is not that the calamity will be lifted, nor that an explanation will be supplied. The response is guidance inside the heart while the calamity still stands. The circumstances are left exactly as they are and the person inside them is changed.",
-            "bn": "দ্বিতীয় বাক্যাংশটিই আয়াতটিকে নিছক আকীদা নয়, সান্ত্বনা করে তোলে। 'ওয়া মাইঁ ইউমিম বিল্লাহি ইয়াহদি ক্বালবাহ' — আর যে আল্লাহর প্রতি ঈমান আনে, তিনি তার অন্তরকে পথ দেখান। বিনিময়টি মন দিয়ে পড়ুন। ঈমান হলো শর্ত; আর প্রতিশ্রুত সাড়া এই নয় যে বিপদ উঠিয়ে নেওয়া হবে, কিংবা কোনো ব্যাখ্যা দেওয়া হবে। সাড়াটি হলো অন্তরের ভেতরে হিদায়াত — বিপদ যখন এখনো দাঁড়িয়ে আছে তখনই। পরিস্থিতি ঠিক যেমন আছে তেমনই রাখা হয়, আর তার ভেতরে থাকা মানুষটিকে বদলে দেওয়া হয়।"
+            "bn": "দ্বিতীয় বাক্যাংশের কারণেই আয়াতটি নিছক আকীদার কথা না থেকে সান্ত্বনা হয়ে ওঠে। ওয়া মাইঁ ইউমিম বিল্লাহি ইয়াহদি ক্বালবাহ: আর যে আল্লাহর প্রতি ঈমান আনে, তিনি তার অন্তরকে পথ দেখান। লেনদেনটা মন দিয়ে লক্ষ করুন। শর্ত হলো ঈমান। বিনিময়ে যে কথা দেওয়া হয়েছে, তা এই নয় যে বিপদ সরিয়ে নেওয়া হবে, কিংবা এর কোনো ব্যাখ্যা দেওয়া হবে। কথা দেওয়া হয়েছে অন্তরের ভেতরে হিদায়াতের, আর তা বিপদ থাকতে থাকতেই। পরিস্থিতি যেমন ছিল তেমনই থাকে। বদলে যায় তার ভেতরের মানুষটি।"
           },
           {
             "en": "Ibn Kathir relates the classical gloss on this clause from Alqamah, who explained it as the man struck by a calamity who knows that it is from Allah, so he is content and submits. The attribution matters. This is the reading of a Successor, one of the students of Ibn Mas'ud (RA), passed on in the works of tafsir — not a statement of the Prophet ﷺ, and it should not be quoted as one. Its authority is that of a careful early reader of the verse.",
-            "bn": "ইবনে কাসীর এই বাক্যাংশের ধ্রুপদী ব্যাখ্যাটি বর্ণনা করেন আলক্বামাহ থেকে, যিনি বলেছেন: এ হলো সেই ব্যক্তি, যার ওপর বিপদ আসে আর সে জানে যে তা আল্লাহর পক্ষ থেকে, ফলে সে সন্তুষ্ট হয় ও আত্মসমর্পণ করে। সূত্রের বিষয়টি গুরুত্বপূর্ণ। এটি একজন তাবিয়ীর ব্যাখ্যা, যিনি ইবনে মাসঊদ (রাঃ)-এর ছাত্রদের একজন, আর তা তাফসীরের গ্রন্থে সংরক্ষিত — এটি নবী ﷺ-এর বাণী নয়, এবং একে সেভাবে উদ্ধৃত করা উচিত নয়। এর মর্যাদা হলো আয়াতটির একজন সতর্ক প্রাচীন পাঠকের মর্যাদা।"
+            "bn": "এই বাক্যাংশের প্রসিদ্ধ প্রাচীন ব্যাখ্যাটি ইবনে কাসীর বর্ণনা করেছেন আলক্বামাহ থেকে। তিনি বলেছেন: এ সেই ব্যক্তি, যার ওপর বিপদ আসে আর সে জানে এটি আল্লাহর পক্ষ থেকে, তাই সে সন্তুষ্ট থাকে ও মেনে নেয়। কথাটা কার, সেটা জানা জরুরি। এটি একজন তাবিয়ীর ব্যাখ্যা। তিনি ইবনে মাসঊদ (রাঃ)-এর ছাত্রদের একজন, আর তাঁর এ কথা তাফসীরের কিতাবে সংরক্ষিত আছে। এটি নবী ﷺ-এর বাণী নয়, তাই তাঁর বাণী বলে উদ্ধৃত করাও ঠিক নয়। এর মর্যাদা হলো আয়াতটির একজন যত্নশীল প্রথম যুগের পাঠকের মর্যাদা।"
           }
         ]
       },
@@ -213,23 +213,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes on a name: and Allah is Knowing of all things. The choice is exact. A decree issued by power alone would be something to submit to and no more; a decree issued by complete knowledge is something that can be trusted while it is still unexplained. The name answers the question the sufferer actually asks, which is rarely whether Allah could have prevented this, and almost always whether anyone understands what it is doing to him.",
-            "bn": "আয়াতটি শেষ হয় একটি নাম দিয়ে: আর আল্লাহ সকল বিষয়ে জ্ঞানী। নির্বাচনটি নিখুঁত। কেবল ক্ষমতা থেকে জারি হওয়া ফয়সালা হতো এমন কিছু, যার কাছে আত্মসমর্পণ ছাড়া উপায় নেই; কিন্তু পূর্ণ জ্ঞান থেকে জারি হওয়া ফয়সালা এমন কিছু, যা ব্যাখ্যাহীন অবস্থাতেও ভরসা করা যায়। নামটি সেই প্রশ্নেরই জবাব দেয় যা দুঃখভোগকারী আসলে করে — প্রশ্নটি খুব কমই এই যে আল্লাহ কি এটি ঠেকাতে পারতেন, আর প্রায় সবসময়ই এই যে এটি তার সঙ্গে কী করছে তা কেউ বোঝে কি না।"
+            "bn": "আয়াতটি শেষ হয় আল্লাহর একটি নাম দিয়ে: আর আল্লাহ সব বিষয়ে জ্ঞানী। নামটি একেবারে মাপমতো বাছা। শুধু ক্ষমতার জোরে দেওয়া ফয়সালা মেনে নেওয়া যায়, এর বেশি কিছু নয়। কিন্তু পূর্ণ জ্ঞান থেকে আসা ফয়সালার ওপর ভরসা করা যায়, ব্যাখ্যা না পেলেও। কষ্টে থাকা মানুষ আসলে যে প্রশ্ন করে, নামটি তারই জবাব। সে খুব কমই জানতে চায়, আল্লাহ এটা ঠেকাতে পারতেন কি না। প্রায় সবসময় তার প্রশ্ন হলো: এটা আমার ভেতরে কী করছে, কেউ কি তা বোঝে?"
           },
           {
             "en": "Two verses later, 64:13 draws the conclusion the surah has been building toward: Allah, there is no deity except Him, and upon Allah let the believers rely. The sequence is worth following in order. First the decree is placed beyond accident, then the heart is offered guidance, then the name of knowledge is given as the reason to trust, and only then is reliance commanded. Tawakkul is presented as the last step of an argument, not as an instruction to feel calm.",
-            "bn": "দুই আয়াত পরে 64:13 আয়াতে সেই সিদ্ধান্তটি টানা হয়, যেদিকে সূরাটি এগোচ্ছিল: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, আর মুমিনরা যেন আল্লাহর ওপরই ভরসা করে। ক্রমটি ধারাবাহিকভাবে অনুসরণ করার মতো। প্রথমে ফয়সালাকে দুর্ঘটনার বাইরে রাখা হয়, তারপর অন্তরকে হিদায়াতের প্রতিশ্রুতি দেওয়া হয়, তারপর ভরসার কারণ হিসেবে জ্ঞানের নামটি দেওয়া হয়, আর তারপরই কেবল তাওয়াক্কুলের নির্দেশ আসে। তাওয়াক্কুলকে এখানে একটি যুক্তির শেষ ধাপ হিসেবে উপস্থাপন করা হয়েছে, শান্ত বোধ করার নির্দেশ হিসেবে নয়।"
+            "bn": "দুই আয়াত পরে ৬৪:১৩ সেই সিদ্ধান্তে পৌঁছায়, যার দিকে সূরাটি এগোচ্ছিল: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, আর মুমিনরা যেন আল্লাহরই ওপর ভরসা করে। ধাপগুলো ক্রম ধরে দেখার মতো। প্রথমে বলা হলো, ফয়সালা আকস্মিক নয়। তারপর অন্তরকে হিদায়াতের কথা দেওয়া হলো। তারপর ভরসার কারণ হিসেবে এল জ্ঞানের নামটি। এরপরই কেবল তাওয়াক্কুলের হুকুম। অর্থাৎ তাওয়াক্কুল এখানে একটি যুক্তির শেষ ধাপ, মনকে শান্ত রাখার কোনো আদেশ নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Using It When It Lands",
-          "bn": "বিপদ এলে এর ব্যবহার"
+          "bn": "বিপদ এলে কী করবেন"
         },
         "p": [
           {
             "en": "In practice the verse gives an order of operations for the hour after bad news. First establish the fact: this did not slip past Him. Second, drop the search for someone to blame, since the register was written before the event. Third, ask for the thing actually promised here, which is a guided heart, and ask for it in those words. What the verse never asks for is the pretence that the loss is not a loss.",
-            "bn": "বাস্তবে আয়াতটি দুঃসংবাদের পরের ঘণ্টাটির জন্য একটি কাজের ক্রম দেয়। প্রথমে সত্যটি স্থির করুন: এটি তাঁর অগোচরে ঘটে যায়নি। দ্বিতীয়ত, দোষ চাপানোর মতো কাউকে খোঁজা বন্ধ করুন, কারণ ঘটনার আগেই তা লিপিবদ্ধ ছিল। তৃতীয়ত, এখানে যা আসলে প্রতিশ্রুত তা-ই চান, অর্থাৎ একটি পথপ্রাপ্ত অন্তর — আর ঠিক এই ভাষাতেই চান। আয়াতটি কখনোই যা চায় না তা হলো এই ভান করা যে ক্ষতিটি ক্ষতি নয়।"
+            "bn": "দুঃসংবাদ পাওয়ার পরের ঘণ্টাটির জন্য আয়াতটি বাস্তবে একটা ক্রম শিখিয়ে দেয়। প্রথমে সত্যটা মনে গেঁথে নিন: এটা তাঁর অগোচরে ঘটেনি। দ্বিতীয়ত, দোষ দেওয়ার মতো কাউকে খোঁজা বন্ধ করুন, কারণ ঘটনার আগেই এটা লেখা হয়ে গিয়েছিল। তৃতীয়ত, এখানে আসলে যা দেওয়ার কথা বলা হয়েছে, তা-ই চান: হিদায়াত পাওয়া একটি অন্তর। আর চাইবেন ঠিক এই কথাতেই। ক্ষতিটা যে ক্ষতি নয়, এমন ভান করতে আয়াত কখনো বলে না।"
           }
         ]
       }
@@ -245,11 +245,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is short and its first word is restrictive: innama amwalukum wa awladukum fitnah. Innama narrows a statement to one thing and excludes the rest, so the sense is that your wealth and your children are nothing but a fitnah. Then the counterweight: wa Allahu indahu ajrun azim, and Allah — with Him is a great reward. Two clauses, one naming what you hold and one naming what is held for you.",
-            "bn": "আয়াতটি ছোট, আর এর প্রথম শব্দটিই সীমাবদ্ধকারী: ইন্নামা আমওয়ালুকুম ওয়া আওলাদুকুম ফিতনাহ। ইন্নামা কোনো বক্তব্যকে একটি বিষয়ে সীমিত করে আর বাকি সব বাদ দেয়; তাই অর্থ দাঁড়ায়, তোমাদের সম্পদ ও তোমাদের সন্তান একটি ফিতনা ছাড়া আর কিছুই নয়। এরপর ভারসাম্য রক্ষাকারী অংশ: ওয়াল্লাহু ইনদাহু আজরুন আযীম, আর আল্লাহ — তাঁরই কাছে আছে মহাপুরস্কার। দুটি বাক্যাংশ: একটি বলে তুমি কী ধরে আছ, অন্যটি বলে তোমার জন্য কী ধরে রাখা হয়েছে।"
+            "bn": "আয়াতটি ছোট, আর এর প্রথম শব্দটিই সীমা টেনে দেয়: ইন্নামা আমওয়ালুকুম ওয়া আওলাদুকুম ফিতনাহ। ইন্নামা একটি কথাকে একটিমাত্র বিষয়ে বেঁধে দেয়, বাকি সব বাদ দেয়। তাই অর্থ দাঁড়ায়: তোমাদের সম্পদ ও সন্তান ফিতনা ছাড়া আর কিছুই নয়। এরপর পাল্লার অন্য দিক: ওয়াল্লাহু ইনদাহু আজরুন আযীম, আর আল্লাহ, তাঁরই কাছে আছে মহাপুরস্কার। দুটি বাক্যাংশ। একটি বলে আপনার হাতে কী আছে, অন্যটি বলে আপনার জন্য কী রাখা আছে।"
           },
           {
             "en": "Fitnah is the word to slow down on. Its root sense is the assaying of gold — putting metal into fire to separate what is precious from what is mixed in with it. From there it comes to mean a test, and in some contexts a temptation or a civil strife. The fire in that image is not there to destroy the gold. It is there to find out what is gold.",
-            "bn": "ফিতনা শব্দটির ওপরই ধীরে যেতে হয়। এর মূল অর্থ সোনা যাচাই — ধাতুকে আগুনে দিয়ে মূল্যবান অংশ আর মেশানো অংশ আলাদা করা। সেখান থেকেই এর অর্থ দাঁড়ায় পরীক্ষা, আর কোনো কোনো প্রসঙ্গে প্রলোভন বা বিপর্যয়। সেই ছবিতে আগুন সোনাকে ধ্বংস করতে আসেনি। এসেছে বের করতে, কোনটি আসলে সোনা।"
+            "bn": "ফিতনা শব্দটিতে একটু থামা দরকার। এর মূল অর্থ সোনা যাচাই করা: ধাতুকে আগুনে দিয়ে খাঁটি অংশকে মিশে থাকা খাদ থেকে আলাদা করা। সেখান থেকে এর মানে দাঁড়ায় পরীক্ষা, আর কোনো কোনো প্রসঙ্গে প্রলোভন বা অন্তর্কলহ। সেই ছবিতে আগুন সোনাকে পুড়িয়ে শেষ করার জন্য নয়। আগুন আছে খুঁজে বের করতে, কোনটা আসল সোনা।"
           }
         ]
       },
@@ -261,11 +261,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse cannot be read apart from 64:14, which precedes it: O you who believe, among your spouses and your children there are enemies to you, so beware of them. And then, in the same verse, the release — but if you pardon and overlook and forgive, then indeed Allah is Forgiving, Merciful. A hard sentence and a merciful one, side by side, before ours arrives to explain both.",
-            "bn": "এই আয়াতটিকে 64:14 থেকে আলাদা করে পড়া যায় না, যা এর ঠিক আগে: হে ঈমানদারগণ, তোমাদের স্ত্রী ও সন্তানদের মধ্যে কেউ কেউ তোমাদের শত্রু, অতএব তাদের ব্যাপারে সতর্ক থেকো। আর এরপর একই আয়াতে মুক্তি — তবে যদি তোমরা মার্জনা করো, উপেক্ষা করো ও ক্ষমা করো, তবে নিশ্চয়ই আল্লাহ ক্ষমাশীল, দয়ালু। একটি কঠিন বাক্য ও একটি দয়ার বাক্য পাশাপাশি, আর তারপর আমাদের আয়াতটি এসে দুটিকেই ব্যাখ্যা করে।"
+            "bn": "এ আয়াতকে এর ঠিক আগের আয়াত ৬৪:১৪ থেকে আলাদা করে পড়া যায় না: হে ঈমানদারগণ, তোমাদের স্ত্রী ও সন্তানদের মধ্যে কেউ কেউ তোমাদের শত্রু, তাই তাদের ব্যাপারে সতর্ক থেকো। তারপর একই আয়াতে আসে ছাড়: আর যদি তোমরা মার্জনা করো, এড়িয়ে যাও ও ক্ষমা করো, তবে নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু। একটি কঠিন কথা আর একটি দয়ার কথা পাশাপাশি। তারপর আমাদের আয়াতটি এসে দুটিরই ব্যাখ্যা দেয়।"
           },
           {
             "en": "A report from Ibn Abbas (RA), preserved in the Sunan collections, connects these two verses to men in Mecca who wanted to migrate and were held back by wives and children; when they later reached Medina and saw how much others had learned of the religion, they were minded to punish their families, and the verses came down. The report explains the pairing exactly: beware, and then pardon.",
-            "bn": "সুনান-গ্রন্থগুলোতে সংরক্ষিত ইবনে আব্বাস (রাঃ)-এর একটি বর্ণনা এই দুই আয়াতকে যুক্ত করে মক্কার সেই ব্যক্তিদের সাথে যারা হিজরত করতে চেয়েছিলেন কিন্তু স্ত্রী-সন্তানরা তাঁদের আটকে রেখেছিল; পরে মদিনায় পৌঁছে যখন তাঁরা দেখলেন অন্যরা দ্বীনের কত কিছু শিখে ফেলেছে, তখন তাঁরা পরিবারকে শাস্তি দিতে চাইলেন, আর তখনই আয়াতগুলো নাযিল হয়। বর্ণনাটি জোড়াটিকে নিখুঁতভাবে ব্যাখ্যা করে: সতর্ক থেকো, তারপর ক্ষমা করো।"
+            "bn": "সুনান গ্রন্থগুলোতে ইবনে আব্বাস (রাঃ)-এর একটি বর্ণনা আছে, যা এই দুই আয়াতকে মক্কার কিছু লোকের ঘটনার সঙ্গে যুক্ত করে। তাঁরা হিজরত করতে চেয়েছিলেন, কিন্তু স্ত্রী-সন্তানরা তাঁদের আটকে রেখেছিল। পরে মদিনায় পৌঁছে তাঁরা দেখলেন, অন্যরা দ্বীনের কত কিছু শিখে ফেলেছে। তখন তাঁরা পরিবারকে শাস্তি দিতে চাইলেন, আর তখনই আয়াতগুলো নাজিল হয়। বর্ণনাটি জোড়াটা ঠিকঠাক বুঝিয়ে দেয়: আগে সতর্ক থাকো, তারপর ক্ষমা করো।"
           }
         ]
       },
@@ -277,27 +277,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It would be a serious misreading to take fitnah as a low view of family. The Quran itself sets the other terms. In 18:46 wealth and children are called zinat al-hayat ad-dunya, the adornment of worldly life, before adding that the enduring good deeds are better with your Lord. And in 25:74 the servants of the Most Merciful are taught to ask for spouses and offspring as a coolness of the eyes.",
-            "bn": "ফিতনাকে পরিবারের প্রতি নিচু দৃষ্টিভঙ্গি হিসেবে নেওয়া হবে মারাত্মক ভুলপাঠ। কুরআন নিজেই অন্য পরিভাষাগুলো দেয়। 18:46 আয়াতে সম্পদ ও সন্তানকে বলা হয়েছে যীনাতুল-হায়াতিদ-দুনইয়া, পার্থিব জীবনের শোভা, আর তারপর যোগ করা হয়েছে যে স্থায়ী সৎকর্ম তোমার রবের কাছে উত্তম। আর 25:74 আয়াতে রহমানের বান্দাদের শেখানো হয়েছে স্ত্রী ও সন্তানদের চোখের শীতলতা হিসেবে প্রার্থনা করতে।"
+            "bn": "ফিতনা শব্দ দেখে পরিবারকে তুচ্ছ ভাবা হবে আয়াতটিকে মারাত্মক ভুল বোঝা। কুরআন নিজেই পরিবারের অন্য পরিচয়ও দিয়েছে। ১৮:৪৬ আয়াতে সম্পদ ও সন্তানকে বলা হয়েছে যীনাতুল হায়াতিদ দুনইয়া, দুনিয়ার জীবনের শোভা। তারপর যোগ করা হয়েছে, স্থায়ী নেক আমল তোমার রবের কাছে আরও উত্তম। আর ২৫:৭৪ আয়াতে রহমানের বান্দাদের শেখানো হয়েছে, তারা যেন স্ত্রী ও সন্তানদের চোখের শীতলতা হিসেবে চেয়ে দোয়া করে।"
           },
           {
             "en": "So the same things are asked for as a blessing, described as an ornament, and named as a test. All three are true at once, and the third is what keeps the first two safe. The identical sentence appears again at 8:28, there placed after a warning against betraying trusts — and 63:9 states the danger plainly: let not your wealth or your children divert you from the remembrance of Allah.",
-            "bn": "অর্থাৎ একই জিনিস নিয়ামত হিসেবে চাওয়া হয়, শোভা হিসেবে বর্ণনা করা হয়, আর পরীক্ষা হিসেবে নাম দেওয়া হয়। তিনটিই একসাথে সত্য, আর তৃতীয়টিই প্রথম দুটিকে নিরাপদ রাখে। হুবহু একই বাক্য আবার আসে 8:28 আয়াতে, সেখানে আমানতের খিয়ানত নিয়ে সতর্কবাণীর পরে — আর 63:9 বিপদটি স্পষ্ট করে বলে: তোমাদের সম্পদ ও সন্তান যেন তোমাদের আল্লাহর স্মরণ থেকে উদাসীন না করে।"
+            "bn": "অর্থাৎ একই জিনিস নিয়ামত হিসেবে চাওয়া হয়, শোভা বলে বর্ণনা করা হয়, আবার পরীক্ষা বলেও নাম দেওয়া হয়। তিনটিই একসঙ্গে সত্য। আর তৃতীয়টিই প্রথম দুটিকে নিরাপদ রাখে। হুবহু একই বাক্য আবার এসেছে ৮:২৮ আয়াতে, সেখানে আমানতের খিয়ানত নিয়ে সতর্ক করার পরে। আর ৬৩:৯ আয়াত বিপদটা খোলাখুলি বলে দেয়: তোমাদের সম্পদ ও সন্তান যেন তোমাদের আল্লাহর জিকির থেকে গাফেল না করে।"
           }
         ]
       },
       {
         "h": {
           "en": "What Is Kept With Him",
-          "bn": "যা তাঁর কাছে রাখা"
+          "bn": "যা তাঁর কাছে রাখা আছে"
         },
         "p": [
           {
             "en": "The second half is built on a preposition: indahu, with Him. Wealth and children are described with the pronoun of possession, yours; the reward is described as located with Allah. That is a difference in security, not only in size. What is with you can be lost, spent, outlived or taken; what is with Him cannot. Ajr azim, a great reward, is left undescribed, which the commentators read as a sign of its scale.",
-            "bn": "দ্বিতীয়ার্ধটি একটি অব্যয়ের ওপর দাঁড়ানো: ইনদাহু, তাঁর কাছে। সম্পদ ও সন্তানকে বর্ণনা করা হয়েছে মালিকানার সর্বনাম দিয়ে — তোমাদের; আর পুরস্কারকে বর্ণনা করা হয়েছে আল্লাহর কাছে অবস্থিত হিসেবে। এটি কেবল আকারের নয়, নিরাপত্তারও পার্থক্য। তোমার কাছে যা আছে তা হারানো যায়, খরচ হয়ে যায়, তোমার আগেই ফুরিয়ে যায় বা কেড়ে নেওয়া হয়; তাঁর কাছে যা আছে তা নয়। আজরুন আযীম বা মহাপুরস্কারের কোনো বর্ণনা দেওয়া হয়নি, আর মুফাসসিরগণ একেই তার বিশালতার আলামত হিসেবে পড়েন।"
+            "bn": "দ্বিতীয় অংশটি দাঁড়িয়ে আছে একটি অব্যয়ের ওপর: ইনদাহু, তাঁর কাছে। সম্পদ ও সন্তানের সঙ্গে এসেছে মালিকানার সর্বনাম: তোমাদের। আর পুরস্কারের কথা বলা হয়েছে, তা আছে আল্লাহর কাছে। পার্থক্যটা শুধু পরিমাণের নয়, নিরাপত্তারও। আপনার কাছে যা আছে, তা হারাতে পারে, খরচ হয়ে যেতে পারে, আপনার আগেই ফুরিয়ে যেতে পারে, কেউ কেড়েও নিতে পারে। তাঁর কাছে যা আছে, তার কিছুই এমন হয় না। আজরুন আযীম, মহাপুরস্কার, কেমন তা বলা হয়নি। মুফাসসিরগণ একেই এর বিশালতার আলামত হিসেবে দেখেন।"
           },
           {
             "en": "What follows keeps the demand realistic. 64:16 says fear Allah as much as you are able, and listen and obey and spend — a rare and merciful qualification, since the burden of family is not the same for every person. It then names the real obstacle: whoever is protected from the miserliness of his own soul, those are the successful. The problem was never the wealth. It was shuhh, the grasping inside the one who holds it.",
-            "bn": "এরপর যা আসে তা দাবিটিকে বাস্তবসম্মত রাখে। 64:16 বলে, তোমরা সাধ্যমতো আল্লাহকে ভয় করো, আর শোনো, মানো ও খরচ করো — এক বিরল ও দয়ালু শর্তারোপ, কারণ পরিবারের ভার প্রত্যেকের জন্য এক নয়। এরপর প্রকৃত বাধাটির নাম বলা হয়: যাকে তার নিজের নফসের কার্পণ্য থেকে রক্ষা করা হয়েছে, তারাই সফল। সমস্যা কখনোই সম্পদ ছিল না। সমস্যা ছিল শুহ্‌হ, অর্থাৎ যে ধরে আছে তার ভেতরের আঁকড়ে থাকা।"
+            "bn": "পরের আয়াত দাবিটাকে মানুষের সাধ্যের মধ্যে রাখে। ৬৪:১৬ বলে: তোমরা যথাসাধ্য আল্লাহকে ভয় করো, আর শোনো, মানো ও খরচ করো। এ এক বিরল ও দয়াময় ছাড়, কারণ পরিবারের বোঝা সবার জন্য সমান নয়। এরপর আয়াতটি আসল বাধার নাম বলে দেয়: যাকে তার নিজের নফসের কার্পণ্য থেকে রক্ষা করা হয়েছে, তারাই সফল। সমস্যা কখনো সম্পদ ছিল না। সমস্যা ছিল শুহ্‌হ: যার হাতে সম্পদ, তার ভেতরের আঁকড়ে ধরার স্বভাব।"
           }
         ]
       },
@@ -309,27 +309,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The majority hold that the enmity of 64:14 is not a permanent description of spouses and children but a description of what they can become when they pull a person away from obedience. The word used is a warning about a direction of travel, not a judgement on persons. This is why the verse ends with pardon rather than with separation, and why the commentators consistently read it as counselling patience within the family rather than escape from it.",
-            "bn": "অধিকাংশ মুফাসসির মনে করেন, 64:14 আয়াতের শত্রুতা স্ত্রী ও সন্তানদের স্থায়ী পরিচয় নয়, বরং তারা কী হয়ে উঠতে পারে তার বর্ণনা — যখন তারা কাউকে আনুগত্য থেকে টেনে সরায়। ব্যবহৃত শব্দটি ব্যক্তিদের সম্পর্কে রায় নয়, বরং যাত্রার দিক নিয়ে সতর্কবার্তা। এ কারণেই আয়াতটি বিচ্ছেদ দিয়ে নয়, ক্ষমা দিয়ে শেষ হয়, আর এ কারণেই মুফাসসিরগণ ধারাবাহিকভাবে একে পরিবার থেকে পালানোর নয়, পরিবারের ভেতরে ধৈর্য ধরার উপদেশ হিসেবেই পড়েন।"
+            "bn": "অধিকাংশ মুফাসসিরের মতে, ৬৪:১৪ আয়াতের শত্রুতা স্ত্রী-সন্তানদের স্থায়ী পরিচয় নয়। তারা কাউকে আনুগত্য থেকে টেনে সরালে কী হয়ে উঠতে পারে, এ তারই বর্ণনা। শব্দটি কোনো মানুষের ওপর রায় নয়, বরং পথ কোন দিকে যাচ্ছে তা নিয়ে সতর্কবার্তা। এ কারণেই আয়াতটি শেষ হয়েছে বিচ্ছেদে নয়, ক্ষমায়। আর এ কারণেই মুফাসসিরগণ বরাবর একে পড়েছেন পরিবারের ভেতরে থেকে সবর করার উপদেশ হিসেবে, পরিবার ছেড়ে পালানোর উপদেশ হিসেবে নয়।"
           },
           {
             "en": "They also note the direction of the test. It runs both ways: a parent may be tested through a child, and a child through a parent; a person may be tested by having wealth and equally by lacking it. Nothing in the verse says the test is failed by loving them. It is failed by choosing them over what Allah has kept with Him, and the verse names both sides so that the choice is at least a conscious one.",
-            "bn": "তাঁরা পরীক্ষার দিকটিও লক্ষ্য করেন। এটি দুদিকেই চলে: পিতামাতা সন্তানের মাধ্যমে পরীক্ষিত হতে পারেন, আবার সন্তানও পিতামাতার মাধ্যমে; কেউ সম্পদ থাকায় পরীক্ষিত হয়, কেউ আবার সমানভাবে সম্পদ না থাকায়। আয়াতের কোথাও বলা হয়নি যে তাদের ভালোবাসলেই পরীক্ষায় ব্যর্থ হওয়া যায়। ব্যর্থতা আসে আল্লাহ যা তাঁর কাছে রেখেছেন তার চেয়ে তাদের বেছে নিলে, আর আয়াত দুই দিকের নামই বলে দেয় যাতে বাছাইটি অন্তত সচেতন হয়।"
+            "bn": "তাঁরা এটাও লক্ষ করেন যে পরীক্ষাটা দুই দিক থেকেই আসে। বাবা-মা পরীক্ষিত হতে পারেন সন্তানকে দিয়ে, সন্তানও বাবা-মাকে দিয়ে। কেউ পরীক্ষিত হয় সম্পদ পেয়ে, কেউ ঠিক তেমনি সম্পদ না পেয়ে। আয়াতের কোথাও বলা নেই যে তাদের ভালোবাসলেই পরীক্ষায় ব্যর্থ হতে হয়। ব্যর্থতা আসে তখন, যখন আল্লাহ তাঁর কাছে যা রেখেছেন, তার চেয়ে তাদের বেছে নেওয়া হয়। আয়াত দুই দিকেরই নাম বলে দেয়, যাতে বাছাইটা অন্তত জেনে-বুঝে হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "আজ যেভাবে এটি জীবনে আসে"
+          "bn": "জীবনে যেভাবে আসে"
         },
         "p": [
           {
             "en": "In practice the test rarely announces itself. It shows up as the job that pays more and takes the family's evenings, the school chosen for its name, the silence kept in front of a relative because an inheritance is pending. It shows up as a father who will argue about a school fee and not about a missed prayer. The verse asks only that these moments be recognised as the fire in which something is being assayed.",
-            "bn": "বাস্তবে পরীক্ষা খুব কমই নিজের নাম ঘোষণা করে। এটি আসে সেই চাকরি হয়ে যা বেশি আয় দেয় আর পরিবারের সন্ধ্যাগুলো কেড়ে নেয়; সেই স্কুল হয়ে যা নামের জন্য বাছা হয়; সেই নীরবতা হয়ে যা কোনো আত্মীয়ের সামনে রাখা হয় কারণ উত্তরাধিকার ঝুলে আছে। এটি আসে এমন বাবা হয়ে যিনি স্কুলের বেতন নিয়ে তর্ক করেন কিন্তু ছুটে যাওয়া নামাজ নিয়ে করেন না। আয়াত কেবল এটুকুই চায় যে এসব মুহূর্তকে সেই আগুন হিসেবে চেনা হোক, যেখানে কিছু একটা যাচাই হচ্ছে।"
+            "bn": "বাস্তবে পরীক্ষা খুব কমই নিজের পরিচয় দিয়ে আসে। আসে এমন চাকরির রূপে, যেখানে বেতন বেশি কিন্তু পরিবারের সন্ধ্যাগুলো চলে যায়। আসে এমন স্কুলের রূপে, যেটা বাছা হয়েছে শুধু নামডাকের জন্য। আসে এমন নীরবতার রূপে, যা কোনো আত্মীয়ের সামনে ধরে রাখা হয়, কারণ মিরাসের ভাগ এখনো ঝুলে আছে। আসে এমন বাবার রূপে, যিনি স্কুলের বেতন নিয়ে তর্ক করেন, কিন্তু কাজা হওয়া নামাজ নিয়ে একটা কথাও বলেন না। আয়াত শুধু এটুকু চায়: এসব মুহূর্তকে চিনে নিন। এ-ই সেই আগুন, যেখানে কিছু একটা যাচাই হচ্ছে।"
           },
           {
             "en": "The counterweight is deliberate use. Family becomes an investment rather than a distraction when it is turned towards what is with Allah: teaching a child to pray rather than only to succeed, keeping a household's income clean even when it costs, giving from what you would rather keep. And where 64:14 applies, where a family genuinely obstructs, the instruction is unusual and worth taking literally — pardon, overlook, forgive.",
-            "bn": "ভারসাম্যটি আসে সচেতন ব্যবহারের মধ্য দিয়ে। পরিবার তখনই বিক্ষেপ না হয়ে বিনিয়োগ হয়ে ওঠে যখন তাকে আল্লাহর কাছে যা আছে তার দিকে ঘোরানো হয়: সন্তানকে কেবল সফল হতে নয়, নামাজ পড়তে শেখানো; খরচ হলেও ঘরের আয় হালাল রাখা; যা রেখে দিতে ইচ্ছে করে তা থেকেই দেওয়া। আর যেখানে 64:14 সত্যিই প্রযোজ্য, যেখানে পরিবার সত্যিকারভাবে বাধা হয়ে দাঁড়ায়, সেখানে নির্দেশটি অস্বাভাবিক এবং আক্ষরিকভাবে নেওয়ার মতো — মার্জনা করো, উপেক্ষা করো, ক্ষমা করো।"
+            "bn": "এর বিপরীতে আছে জেনে-বুঝে কাজে লাগানো। পরিবারকে যখন আল্লাহর কাছে যা আছে তার দিকে ঘুরিয়ে দেওয়া হয়, তখন তা মন সরিয়ে নেওয়ার জিনিস না থেকে বিনিয়োগ হয়ে ওঠে। যেমন: সন্তানকে শুধু সফল হতে নয়, নামাজ পড়তেও শেখানো; লোকসান হলেও ঘরের আয় হালাল রাখা; যা নিজের কাছে রেখে দিতে মন চায়, তা থেকেই দান করা। আর যেখানে ৬৪:১৪ সত্যিই খাটে, যেখানে পরিবার সত্যিই বাধা হয়ে দাঁড়ায়, সেখানে নির্দেশটি অসাধারণ, আর তা আক্ষরিকভাবেই মানার মতো: মার্জনা করো, এড়িয়ে যাও, ক্ষমা করো।"
           }
         ]
       }
