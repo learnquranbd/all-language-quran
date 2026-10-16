@@ -1089,7 +1089,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Bi-aydin is where care is needed. It looks like a plural of yad, hand, and some renderings turn it into hands. The mufassirun read it otherwise: Ibn Abbas, Mujahid, Qatadah and ath-Thawri gloss it as bi-quwwah, with strength, and Ibn Kathir passes their reading on as the meaning. The word here is ayd, might. The clause is telling you how firmly the roof was set, not describing a limb.",
-            "bn": "সতর্কতা দরকার 'বি-আইদ' শব্দটিতে। দেখতে এটি 'ইয়াদ' অর্থাৎ হাতের বহুবচনের মতো, আর কোনো কোনো অনুবাদে তা 'হাত' হিসেবেই আসে। মুফাসসিরগণ একে অন্যভাবে পড়েন: ইবনে আব্বাস, মুজাহিদ, কাতাদাহ ও সুফইয়ান আস-সাওরী এর ব্যাখ্যা করেন 'বি-কুওয়্যাহ' অর্থাৎ শক্তি দিয়ে, আর ইবনে কাসীর তাঁদের এই পাঠকেই অর্থ হিসেবে বর্ণনা করেন। এখানকার শব্দটি 'আইদ', অর্থাৎ ক্ষমতা। বাক্যাংশটি বলছে ছাদটি কত দৃঢ়ভাবে বসানো হয়েছে; এটি কোনো অঙ্গের বর্ণনা নয়।"
+            "bn": "'বি-আইদ' শব্দটিতে এসে একটু সাবধান হতে হয়। দেখতে এটি 'ইয়াদ' অর্থাৎ হাতের বহুবচনের মতো, তাই কোনো কোনো অনুবাদ একে 'হাত' বানিয়ে ফেলে। মুফাসসিরগণ অবশ্য অন্যভাবে বুঝেছেন: ইবনে আব্বাস, মুজাহিদ, কাতাদাহ ও সুফইয়ান আস-সাওরী এর অর্থ করেছেন 'বি-কুওয়্যাহ', অর্থাৎ শক্তি দিয়ে। ইবনে কাসীরও তাঁদের এই ব্যাখ্যাকেই আয়াতের অর্থ হিসেবে উল্লেখ করেছেন। এখানে শব্দটি হলো 'আইদ', মানে ক্ষমতা। বাক্যটি জানাচ্ছে ছাদটি কত মজবুত করে বসানো হয়েছে; কোনো অঙ্গের কথা এখানে নেই।"
           }
         ]
       },
@@ -1101,11 +1101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa inna la-musi'un. Musi' is the active participle of awsa'a, to make wide or to have ample room, and the classical readings stay inside that range. Ibn Kathir explains it as: We made its expanse vast and raised its roof without pillars to hold it. Others take it of Allah Himself — that He is possessed of vastness, in power and in provision, so that nothing He builds strains what He has.",
-            "bn": "ওয়া ইন্না লামূসিঊন। 'মূসি' হলো 'আওসাআ' ক্রিয়ার কর্তৃবাচক বিশেষণ — প্রশস্ত করা, বা প্রশস্ততার অধিকারী হওয়া; আর ধ্রুপদী ব্যাখ্যাগুলো এই অর্থসীমার ভেতরেই থাকে। ইবনে কাসীর ব্যাখ্যা করেন: আমি তার বিস্তারকে প্রশস্ত করেছি এবং কোনো খুঁটি ছাড়াই তার ছাদ উঁচু করেছি। আবার কেউ কেউ একে নেন স্বয়ং আল্লাহর বর্ণনা হিসেবে — তিনি প্রশস্ততার অধিকারী, শক্তিতে ও রিযিকে; ফলে তিনি যা-ই নির্মাণ করেন, তাতে তাঁর সামর্থ্যে টান পড়ে না।"
+            "bn": "ওয়া ইন্না লামূসিঊন। 'মূসি' হলো 'আওসাআ' ক্রিয়ার কর্তাবাচক রূপ। 'আওসাআ' মানে প্রশস্ত করা, কিংবা যথেষ্ট জায়গার মালিক হওয়া; পূর্বসূরি মুফাসসিরদের ব্যাখ্যা এই অর্থের সীমার ভেতরেই থেকেছে। ইবনে কাসীর এর ব্যাখ্যা দিয়েছেন এভাবে: আমি এর পরিসর বিশাল করেছি এবং কোনো খুঁটি ছাড়াই এর ছাদ উঁচু করেছি। অন্যরা একে আল্লাহর নিজের গুণ হিসেবে নিয়েছেন: তিনি প্রশস্ততার মালিক, শক্তিতেও, রিযিকেও। তাই তিনি যা-ই বানান, তাতে তাঁর ভাণ্ডারে কোনো টান পড়ে না।"
           },
           {
             "en": "That second reading has a plain Quranic anchor. 2:236 uses the same participle of a man: 'ala al-musi'i qadaruh, upon the one of ample means is his measure. The commentators did not read our verse as a report on the physical behaviour of the sky, and it is not necessary to make them. The point they draw is about the Builder: a roof on this scale cost Him nothing, and He has room to spare.",
-            "bn": "এই দ্বিতীয় পাঠটির জন্য কুরআনেই স্পষ্ট ভিত্তি আছে। 2:236 আয়াতে একই বিশেষণ ব্যবহৃত হয়েছে মানুষের জন্য: 'আলাল মূসিয়ি কাদারুহ' — সচ্ছল ব্যক্তির ওপর তার সাধ্যমতো। মুফাসসিরগণ আমাদের এই আয়াতটিকে আকাশের ভৌত আচরণ সম্পর্কে কোনো বিবরণ হিসেবে পড়েননি, আর তাঁদের দিয়ে তা পড়ানোর প্রয়োজনও নেই। তাঁরা যে কথাটি বের করেন তা নির্মাতাকে নিয়ে: এত বড় মাপের একটি ছাদ তাঁর কিছুই খরচ করেনি, আর তাঁর হাতে জায়গা উদ্বৃত্তই আছে।"
+            "bn": "এই দ্বিতীয় ব্যাখ্যার পক্ষে কুরআনেই সোজা প্রমাণ আছে। ২:২৩৬ আয়াতে একই শব্দ এসেছে একজন মানুষের ক্ষেত্রে: 'আলাল মূসিয়ি কাদারুহ', সচ্ছল ব্যক্তির ওপর তার সামর্থ্য অনুযায়ী। মুফাসসিরগণ আমাদের এই আয়াতকে আকাশের ভৌত গতিপ্রকৃতির বিবরণ হিসেবে পড়েননি, আর জোর করে তাঁদের মুখে সে কথা বসানোরও দরকার নেই। তাঁরা যে শিক্ষা নেন তা নির্মাতাকে নিয়ে: এত বিশাল ছাদ বানাতে তাঁর কিছুই খরচ হয়নি, আর তাঁর প্রশস্ততার এখনো অনেক বাকি।"
           }
         ]
       },
@@ -1117,43 +1117,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa'l-arda farashnaha. Farsh is bedding, what you spread on the ground in order to lie on it, and 2:22 uses the noun outright: He made the earth a firash for you. The praise that follows, fa-ni'ma al-mahidun, comes from the root of mahd, a cradle — the word 20:53 uses when it says He made the earth a mahd, and 78:6 when it asks whether He did not make it a mihad.",
-            "bn": "ওয়াল-আরদা ফারাশনাহা। 'ফারশ' মানে বিছানা — যা মাটিতে বিছিয়ে দেওয়া হয় তার ওপর শোয়ার জন্য; আর 2:22 আয়াতে শব্দটি সরাসরিই এসেছে: তিনি তোমাদের জন্য যমীনকে 'ফিরাশ' বানিয়েছেন। এরপরের প্রশংসাবাক্য 'ফানি'মাল মাহিদূন' এসেছে 'মাহদ' অর্থাৎ দোলনার ধাতু থেকে — 20:53 আয়াত এই শব্দই ব্যবহার করে যখন বলে তিনি যমীনকে 'মাহদ' বানিয়েছেন, আর 78:6 আয়াত যখন জিজ্ঞেস করে তিনি কি একে 'মিহাদ' বানাননি।"
+            "bn": "ওয়াল-আরদা ফারাশনাহা। 'ফারশ' মানে বিছানা, শোয়ার জন্য মাটিতে যা বিছিয়ে নেওয়া হয়। ২:২২ আয়াতে বিশেষ্যটি সরাসরিই এসেছে: তিনি যমীনকে তোমাদের জন্য 'ফিরাশ' বানিয়েছেন। এরপরের প্রশংসা 'ফানি'মাল মাহিদূন' এসেছে 'মাহদ' অর্থাৎ দোলনার মূল ধাতু থেকে। ২০:৫৩ আয়াতে এই শব্দই আছে, যেখানে আল্লাহ বলেন তিনি যমীনকে 'মাহদ' বানিয়েছেন; আর ৭৮:৬ আয়াতেও, যেখানে তিনি প্রশ্ন করেন: আমি কি যমীনকে 'মিহাদ' বানাইনি?"
           },
           {
             "en": "Two images, bedding and a cradle, and both are chosen for a creature that has to lie down, that sleeps, that is carried before it can walk. Ibn Kathir glosses farashnaha as: We made it a resting place for the created. The earth is not presented here as raw material waiting to be conquered. It is presented as something already made comfortable for a body that tires.",
-            "bn": "দুটি চিত্র — বিছানা আর দোলনা — আর দুটিই বাছা হয়েছে এমন এক সৃষ্টির জন্য, যাকে শুতে হয়, যে ঘুমায়, আর যে হাঁটতে শেখার আগে কোলে বাহিত হয়। ইবনে কাসীর 'ফারাশনাহা'-র ব্যাখ্যা করেন: আমি একে সৃষ্টিকুলের জন্য বিশ্রামের জায়গা বানিয়েছি। যমীনকে এখানে জয় করার অপেক্ষায় থাকা কাঁচামাল হিসেবে উপস্থাপন করা হয়নি। উপস্থাপন করা হয়েছে এমন কিছু হিসেবে, যা ক্লান্ত হয়ে পড়া এক শরীরের জন্য আগে থেকেই আরামদায়ক করে রাখা হয়েছে।"
+            "bn": "দুটি ছবি, বিছানা আর দোলনা। দুটিই বেছে নেওয়া হয়েছে এমন এক সৃষ্টির কথা ভেবে, যাকে শুতে হয়, ঘুমাতে হয়, হাঁটতে শেখার আগে যাকে কোলে করে বয়ে নিতে হয়। ইবনে কাসীর 'ফারাশনাহা'-র ব্যাখ্যা করেছেন: আমি একে সৃষ্টিকুলের জন্য বিশ্রামের জায়গা বানিয়েছি। এখানে যমীন জয় করার অপেক্ষায় পড়ে থাকা কাঁচামাল নয়। বরং এমন এক জিনিস, যা ক্লান্ত হয়ে পড়া শরীরের জন্য আগে থেকেই আরামদায়ক করে সাজিয়ে রাখা।"
           }
         ]
       },
       {
         "h": {
           "en": "Two of Every Thing",
-          "bn": "প্রত্যেক জিনিসের দুটি"
+          "bn": "প্রত্যেক জিনিস জোড়ায় জোড়ায়"
         },
         "p": [
           {
             "en": "Wa min kulli shay'in khalaqna zawjayn. Ibn Kathir reads the pairs widely — heaven and earth, night and day, sun and moon, land and sea, light and darkness, faith and disbelief, death and life, the Garden and the Fire — alongside the pairing of animals and plants. 36:36 stretches it further: exalted is He who created all the pairs, from what the earth grows, from themselves, and from what they do not know.",
-            "bn": "ওয়া মিন কুল্লি শাইয়িন খালাকনা যাওজাইন। ইবনে কাসীর 'জোড়া'-কে ব্যাপক অর্থে পড়েন — আসমান ও যমীন, রাত ও দিন, সূর্য ও চাঁদ, স্থল ও সমুদ্র, আলো ও অন্ধকার, ঈমান ও কুফর, মৃত্যু ও জীবন, জান্নাত ও জাহান্নাম — এর সঙ্গে প্রাণী ও উদ্ভিদের জোড়াও। 36:36 আয়াত একে আরও প্রসারিত করে: পবিত্র তিনি, যিনি সব জোড়া সৃষ্টি করেছেন — যমীন যা উৎপন্ন করে তা থেকে, তাদের নিজেদের থেকে, আর তারা যা জানে না তা থেকেও।"
+            "bn": "ওয়া মিন কুল্লি শাইয়িন খালাকনা যাওজাইন। ইবনে কাসীর 'জোড়া' কথাটিকে অনেক ব্যাপক অর্থে নিয়েছেন: আসমান ও যমীন, রাত ও দিন, সূর্য ও চাঁদ, স্থল ও সমুদ্র, আলো ও অন্ধকার, ঈমান ও কুফর, মৃত্যু ও জীবন, জান্নাত ও জাহান্নাম। সঙ্গে প্রাণী ও উদ্ভিদের জোড়া তো আছেই। ৩৬:৩৬ আয়াত একে আরও বিস্তৃত করে: পবিত্র তিনি, যিনি সব জোড়া সৃষ্টি করেছেন, যমীন যা উৎপন্ন করে তা থেকে, তাদের নিজেদের মধ্য থেকে, আর তারা যা জানে না তা থেকেও।"
           },
           {
             "en": "Then the purpose clause: la'allakum tadhakkarun, that you may remember. Ibn Kathir spells out what is to be remembered — that the Creator is One, without a partner. The argument is quiet and it is finished. Everything you are able to inspect arrives in twos and is incomplete without its counterpart; the One who made them in twos is the only item in the account that is paired with nothing.",
-            "bn": "এরপর উদ্দেশ্যবাচক বাক্যাংশ: লা'আল্লাকুম তাযাক্কারূন — যাতে তোমরা স্মরণ কর। ইবনে কাসীর খোলাসা করে বলেন কী স্মরণ করতে হবে — স্রষ্টা এক, তাঁর কোনো শরিক নেই। যুক্তিটি নিচু স্বরের, আর তা সম্পূর্ণ। তুমি যা কিছু পরীক্ষা করে দেখতে পারো তার সবই আসে জোড়ায়, আর নিজের জুড়ি ছাড়া তা অসম্পূর্ণ; যিনি এগুলোকে জোড়ায় বানিয়েছেন, গোটা হিসাবের মধ্যে কেবল তিনিই এমন, যাঁর কোনো জুড়ি নেই।"
+            "bn": "এরপর আসে উদ্দেশ্যটি: লা'আল্লাকুম তাযাক্কারূন, যাতে তোমরা স্মরণ কর। কী স্মরণ করতে হবে, ইবনে কাসীর তা খুলে বলেছেন: স্রষ্টা এক, তাঁর কোনো শরিক নেই। যুক্তিটা শান্ত, উচ্চকণ্ঠ নয়, অথচ এতে আর কিছু যোগ করার নেই। আপনি যা কিছু যাচাই করে দেখতে পারেন, সবই আসে জোড়ায় জোড়ায়, আর নিজের জুড়ি ছাড়া কোনোটিই পূর্ণ নয়। যিনি এদের জোড়ায় বানিয়েছেন, পুরো হিসাবে কেবল তিনিই এমন, যাঁর কোনো জুড়ি নেই।"
           }
         ]
       },
       {
         "h": {
           "en": "So Flee",
-          "bn": "অতএব দৌড়াও"
+          "bn": "অতএব পালিয়ে এসো"
         },
         "p": [
           {
             "en": "The conclusion is not left to the reader to find. 51:50 follows at once: fa-firru ila Allah, so flee to Allah; indeed I am to you from Him a clear warner. Ibn Kathir glosses that fleeing as taking shelter with Him and entrusting your affairs to Him, and 51:51 completes it — do not set up another god along with Allah. 2:22 ends its own list of sky and earth on the same command.",
-            "bn": "সিদ্ধান্তটি পাঠকের খুঁজে নেওয়ার জন্য ফেলে রাখা হয়নি। সঙ্গে সঙ্গেই আসে 51:50 আয়াত: ফাফিররূ ইলাল্লাহ — অতএব আল্লাহর দিকে দৌড়াও; নিশ্চয়ই আমি তোমাদের জন্য তাঁর পক্ষ থেকে স্পষ্ট সতর্ককারী। ইবনে কাসীর এই দৌড়ানোর ব্যাখ্যা করেন তাঁর কাছে আশ্রয় নেওয়া এবং সব বিষয় তাঁর হাতে সঁপে দেওয়া হিসেবে; আর 51:51 আয়াত তা পূর্ণ করে — আল্লাহর সঙ্গে অন্য কোনো ইলাহ দাঁড় করিয়ো না। 2:22 আয়াতও আসমান-যমীনের নিজের তালিকাটি একই নির্দেশে শেষ করে।"
+            "bn": "উপসংহারটা পাঠককে নিজে খুঁজে নিতে হয় না। ঠিক পরেই আসে ৫১:৫০ আয়াত: ফাফিররূ ইলাল্লাহ, অতএব আল্লাহর দিকে পালিয়ে এসো; নিশ্চয়ই আমি তাঁর পক্ষ থেকে তোমাদের জন্য স্পষ্ট সতর্ককারী। ইবনে কাসীর এই পালিয়ে আসার ব্যাখ্যা করেছেন এভাবে: তাঁর কাছে আশ্রয় নেওয়া এবং নিজের সব বিষয় তাঁর হাতে সঁপে দেওয়া। আর ৫১:৫১ আয়াত কথাটি পূর্ণ করে: আল্লাহর সঙ্গে আর কোনো ইলাহ দাঁড় করিয়ো না। ২:২২ আয়াতও আসমান আর যমীনের কথা বলার পর ঠিক এই নির্দেশেই শেষ হয়েছে।"
           },
           {
             "en": "Fleeing is ordinarily movement away from a danger and towards a refuge, and here both ends of the movement are the same One. That is the practical shape of these three verses. They are not offered as material for wonder that leaves a reader where it found him. They are the reasons given for a decision, and the decision named is to run out of every other shelter and into His.",
-            "bn": "দৌড়ে পালানো সাধারণত বিপদ থেকে দূরে সরে আশ্রয়ের দিকে যাওয়া, আর এখানে চলাচলের দুই প্রান্তেই একই সত্তা। এই তিনটি আয়াতের ব্যবহারিক রূপ এটিই। এগুলো এমন বিস্ময়ের উপকরণ হিসেবে দেওয়া হয়নি, যা পাঠককে যেখানে পেয়েছিল সেখানেই রেখে দেয়। এগুলো একটি সিদ্ধান্তের পক্ষে দেওয়া কারণ, আর সিদ্ধান্তটির নাম বলা আছে: অন্য সব আশ্রয় ছেড়ে তাঁরই আশ্রয়ে ছুটে যাওয়া।"
+            "bn": "পালানো বলতে সাধারণত বোঝায় বিপদ থেকে সরে গিয়ে কোনো আশ্রয়ের দিকে যাওয়া। এখানে যাঁর কাছ থেকে পালাতে হয় আর যাঁর কাছে পালাতে হয়, তিনি একই সত্তা। এই তিন আয়াতের বাস্তব শিক্ষা এটাই। এগুলো নিছক বিস্ময় জাগানোর জন্য আসেনি, যা পড়ে পাঠক যেমন ছিলেন তেমনই থেকে যান। এগুলো একটি সিদ্ধান্তের পক্ষে দেওয়া যুক্তি, আর সিদ্ধান্তটি স্পষ্ট করেই বলা আছে: অন্য সব আশ্রয় ছেড়ে বেরিয়ে তাঁরই আশ্রয়ে ছুটে যাওয়া।"
           }
         ]
       }
@@ -1169,11 +1169,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The command arrives as the correction of a possible misreading. The verse before it, 51:54, tells the Prophet ﷺ to turn away from those who obstinately refuse, and clears him of blame. If the passage ended there, withdrawal might look like the whole policy. 51:55 immediately reopens the work: and remind, for indeed the reminder benefits the believers. Turning from the mocker never cancels the reminding, because the reminder was never measured by the mocker's response.",
-            "bn": "নির্দেশটি আসে একটি সম্ভাব্য ভুল পাঠের সংশোধন হয়ে। ঠিক আগের আয়াত 51:54 নবী ﷺ-কে বলে একগুঁয়ে অস্বীকারকারীদের থেকে মুখ ফিরিয়ে নিতে, এবং তাঁকে দায়মুক্ত ঘোষণা করে। অনুচ্ছেদ সেখানেই শেষ হলে সরে আসাটাই পুরো নীতি বলে মনে হতে পারত। 51:55 সাথে সাথে কাজটি আবার খুলে দেয়: আর স্মরণ করিয়ে দাও, কারণ স্মরণিকা মুমিনদের উপকারে আসে। উপহাসকারী থেকে মুখ ফেরানো কখনোই স্মরণ করানো বাতিল করে না, কারণ স্মরণিকার মাপকাঠি কোনোদিন উপহাসকারীর সাড়া ছিল না।"
+            "bn": "নির্দেশটি আসে একটি সম্ভাব্য ভুল বোঝার সংশোধন হিসেবে। ঠিক আগের আয়াত ৫১:৫৪ নবী ﷺ-কে বলছে, যারা জেদ ধরে অস্বীকার করে তাদের থেকে মুখ ফিরিয়ে নিতে, আর জানিয়ে দিচ্ছে যে এতে তাঁর কোনো দোষ নেই। অংশটি যদি সেখানেই শেষ হতো, মনে হতে পারত সরে আসাই বুঝি পুরো নীতি। কিন্তু ৫১:৫৫ সঙ্গে সঙ্গে কাজটি আবার চালু করে দেয়: আর স্মরণ করিয়ে দাও, কেননা স্মরণ করিয়ে দেওয়া মুমিনদের উপকারে আসে। উপহাসকারী থেকে মুখ ফেরালেও স্মরণ করানো কখনো বন্ধ হয় না; কারণ উপহাসকারী কী সাড়া দিল, তা দিয়ে কোনোদিনই স্মরণ করানোর মূল্য মাপা হয়নি।"
           },
           {
             "en": "The mufassirun pause on whom the reminder profits: the believers — including those who already know. Knowledge sits in the heart like embers; reminding stirs it back to flame. This is why the Quran repeats itself, why the Friday sermon returns weekly, and why a believer can hear a truth learned in childhood and feel it land as if new. The benefit is not new information but the renewed presence of old truth.",
-            "bn": "মুফাসসিরগণ থামেন এই প্রশ্নে — স্মরণিকা কার উপকারে আসে: মুমিনদের — যারা আগে থেকেই জানে তাদেরও। জ্ঞান অন্তরে থাকে জ্বলন্ত কয়লার মতো; স্মরণ করানো তাকে নেড়ে আবার শিখায় ফেরায়। এ কারণেই কুরআন নিজের কথা ফিরিয়ে বলে, জুমার খুতবা প্রতি সপ্তাহে ফিরে আসে, আর একজন মুমিন শৈশবে শেখা সত্য শুনেও অনুভব করে যেন তা নতুন করে নামল। উপকারটি নতুন তথ্য নয়, বরং পুরনো সত্যের নবায়িত উপস্থিতি।"
+            "bn": "স্মরণ করানোয় কার উপকার হয়, মুফাসসিরগণ এখানে একটু থামেন। উত্তর: মুমিনদের, যারা আগে থেকেই জানে তাদেরও। জ্ঞান অন্তরে থাকে ছাইচাপা আগুনের মতো; স্মরণ করানো সেটাকে খুঁচিয়ে আবার জ্বালিয়ে দেয়। এ কারণেই কুরআন একই কথা বারবার বলে, জুমার খুতবা প্রতি সপ্তাহে ফিরে আসে, আর শৈশবে শেখা কোনো সত্য আবার শুনে একজন মুমিনের মনে হয়, যেন কথাটা নতুন করে মনে গেঁথে গেল। উপকারটা নতুন কোনো তথ্য নয়; পুরনো সত্যটাই আবার নতুন করে সামনে এসে দাঁড়ায়।"
           }
         ]
       },
@@ -1185,11 +1185,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then comes one of the most quoted sentences in the Quran: wa ma khalaqtu al-jinna wal-insa illa li-ya'budun — I did not create the jinn and mankind except to worship Me. Arabic reaches its strongest exclusivity through negation followed by exception: first everything is denied, then one thing alone is restored. Whatever other purposes creatures invent for themselves, the Maker has stated His, and He states it in the first person.",
-            "bn": "তারপর আসে কুরআনের সবচেয়ে বেশি উদ্ধৃত বাক্যগুলোর একটি: ওয়া মা খালাকতুল-জিন্না ওয়াল-ইনসা ইল্লা লিইয়া'বুদূন — আমি জিন ও মানুষকে সৃষ্টি করিনি আমার ইবাদত ছাড়া অন্য কোনো উদ্দেশ্যে। আরবি তার প্রবলতম একচ্ছত্রতায় পৌঁছায় অস্বীকৃতির পর ব্যতিক্রম দিয়ে: প্রথমে সবকিছু নাকচ হয়, তারপর একটিমাত্র জিনিস ফিরিয়ে আনা হয়। সৃষ্টিরা নিজেদের জন্য আর যত উদ্দেশ্যই বানাক, নির্মাতা তাঁরটি বলে দিয়েছেন — এবং বলেছেন উত্তম পুরুষে, নিজের জবানে।"
+            "bn": "তারপর আসে কুরআনের সবচেয়ে বেশি উদ্ধৃত বাক্যগুলোর একটি: ওয়া মা খালাকতুল-জিন্না ওয়াল-ইনসা ইল্লা লিইয়া'বুদূন, আমি জিন ও মানুষকে সৃষ্টি করিনি, কেবল এজন্য ছাড়া যে তারা আমার ইবাদত করবে। আরবিতে কোনো কিছুকে একমাত্র বলে সবচেয়ে জোর দিয়ে বলার উপায় হলো আগে না-বাচক কথা, তারপর ব্যতিক্রম: প্রথমে সবকিছু নাকচ, তারপর কেবল একটি জিনিস ফিরিয়ে আনা। সৃষ্টিরা নিজেদের জন্য আর যত উদ্দেশ্যই বানিয়ে নিক, স্রষ্টা নিজের উদ্দেশ্য জানিয়ে দিয়েছেন, আর জানিয়েছেন নিজের জবানে, 'আমি' বলে।"
           },
           {
             "en": "The commentators are careful with the word worship. 'Ibadah in their usage is not ritual alone but the whole posture of a life — obedience, love, humility, gratitude, and the rituals that carry them. The prayer five times a day is worship; so, when done for Allah and within His bounds, are honest work, kept promises and kindness. The verse does not shrink life into the mosque; it stretches the mosque's meaning over life.",
-            "bn": "ইবাদত শব্দটি নিয়ে মুফাসসিরগণ সতর্ক। তাঁদের ব্যবহারে 'ইবাদাহ কেবল আনুষ্ঠানিকতা নয়, বরং একটি জীবনের সামগ্রিক ভঙ্গি — আনুগত্য, ভালোবাসা, বিনয়, কৃতজ্ঞতা, আর সেগুলো বহনকারী আনুষ্ঠানিক আমল। দিনে পাঁচবারের নামায ইবাদত; তেমনি — আল্লাহর জন্য ও তাঁর সীমার ভেতরে করা হলে — সৎ কাজ, রক্ষা করা প্রতিশ্রুতি আর সদয়তাও ইবাদত। আয়াতটি জীবনকে মসজিদে সংকুচিত করে না; মসজিদের অর্থকে জীবনের উপর প্রসারিত করে।"
+            "bn": "ইবাদত শব্দটি নিয়ে মুফাসসিরগণ খুব সতর্ক। তাঁদের কাছে ইবাদত শুধু আনুষ্ঠানিক আমল নয়, বরং গোটা জীবনের ধরন: আনুগত্য, ভালোবাসা, বিনয়, কৃতজ্ঞতা, আর সেগুলোকে ধারণ করে যে আনুষ্ঠানিক আমল। দিনে পাঁচ ওয়াক্ত নামাজ ইবাদত; তেমনি সৎভাবে কাজ করা, কথা রাখা আর মানুষের প্রতি দয়াও ইবাদত, যদি তা আল্লাহর জন্য ও তাঁর দেওয়া সীমার ভেতরে করা হয়। আয়াতটি জীবনকে মসজিদের ভেতরে গুটিয়ে আনে না; বরং মসজিদের অর্থকে ছড়িয়ে দেয় গোটা জীবনে।"
           }
         ]
       },
@@ -1201,11 +1201,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next verses close a misunderstanding before it can form. 51:57 says: I seek no provision from them, nor do I want them to feed Me. And 51:58 answers: indeed Allah is ar-Razzaq, the Provider, possessor of firm strength. Worship adds nothing to Allah, and its absence takes nothing from Him. The arrangement is the reverse of every human hierarchy: the One who is served is the One who provides, and the servants are the only beneficiaries of their service.",
-            "bn": "পরের আয়াতগুলো একটি ভুল বোঝাবুঝি তৈরি হওয়ার আগেই তা বন্ধ করে দেয়। 51:57 বলে: আমি তাদের কাছে কোনো রিযিক চাই না, আর চাই না যে তারা আমাকে খাওয়াবে। আর 51:58 জবাব দেয়: নিশ্চয়ই আল্লাহই আর-রাযযাক — মহান রিযিকদাতা, প্রবল শক্তির অধিকারী। ইবাদত আল্লাহর কিছুই বাড়ায় না, তার অনুপস্থিতিও তাঁর কিছু কমায় না। বিন্যাসটি প্রতিটি মানবীয় স্তরবিন্যাসের উল্টো: যাঁর সেবা করা হয় তিনিই রিযিক দেন, আর সেবার একমাত্র উপকারভোগী সেবকরাই।"
+            "bn": "পরের আয়াতগুলো একটা ভুল ধারণা মাথায় আসার আগেই তার পথ বন্ধ করে দেয়। ৫১:৫৭ আয়াতে আল্লাহ বলেন: আমি তাদের কাছে কোনো রিযিক চাই না, আর এটাও চাই না যে তারা আমাকে খাওয়াবে। ৫১:৫৮ তার জবাব দেয়: নিশ্চয়ই আল্লাহই আর-রাযযাক, রিযিকদাতা, প্রবল ও দৃঢ় শক্তির অধিকারী। ইবাদত আল্লাহর কিছুই বাড়ায় না, ইবাদত না করলেও তাঁর কিছু কমে না। মানুষের সমাজে উঁচু-নিচুর যে নিয়ম চলে, এখানে ব্যাপারটা ঠিক তার উল্টো: যাঁর ইবাদত করা হয়, রিযিক দেন তিনিই; আর ইবাদতের লাভ যায় কেবল বান্দাদের ঘরে।"
           },
           {
             "en": "As-Sa'di draws the tender inversion out of the sequence: He created them to worship Him, and then He undertakes to provide for them while they do it. The servant's job description does not include supplying his own existence. This is why the surah swore earlier, in 51:22-23, that your provision is in heaven, and that this is as true as your own speech. Worship performed in a panic about sustenance has misread both verses at once.",
-            "bn": "আস-সা'দী এই ক্রম থেকে কোমল উল্টোযাত্রাটি টেনে বের করেন: তিনি তাদের সৃষ্টি করেছেন তাঁর ইবাদতের জন্য, আর তারা তা করতে থাকা অবস্থায় তাদের রিযিকের দায়িত্ব তিনিই নিয়েছেন। বান্দার কাজের বিবরণে নিজের অস্তিত্বের জোগান দেওয়া নেই। এ কারণেই সূরাটি আগে, 51:22-23 আয়াতে, শপথ করেছিল — তোমাদের রিযিক আসমানে, আর এ কথা তেমনই সত্য যেমন সত্য তোমাদের নিজেদের কথা বলা। রিযিকের দুশ্চিন্তায় আতঙ্কিত হয়ে করা ইবাদত দুটি আয়াতকেই একসাথে ভুল পড়েছে।"
+            "bn": "আস-সা'দী এই ক্রম থেকে একটি মমতাভরা উল্টো হিসাব বের করে আনেন: আল্লাহ তাদের সৃষ্টি করেছেন তাঁর ইবাদতের জন্য, তারপর তারা যখন ইবাদতে থাকে, তখন তাদের রিযিকের দায়িত্বও তিনি নিজেই নিয়েছেন। নিজের বেঁচে থাকার জোগান দেওয়া বান্দার দায়িত্বের তালিকায় নেই। এ কারণেই সূরাটি আগে ৫১:২২-২৩ আয়াতে কসম করে বলেছিল: তোমাদের রিযিক আসমানে, আর এ কথা তেমনই সত্য, যেমন সত্য তোমাদের কথা বলা। রিযিকের দুশ্চিন্তায় অস্থির হয়ে যে ইবাদত করা হয়, তা দুটি আয়াতকেই একসঙ্গে ভুল বুঝেছে।"
           }
         ]
       },
@@ -1217,7 +1217,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Other verses frame the same purpose from other angles. 2:21 calls mankind to worship the Lord who created them and those before them, so that they may attain taqwa. 36:61 recalls the covenant: worship Me — this is a straight path. Purpose and path are the same thing seen twice: worship is what we were made for and also the road that keeps a life from wandering. A thing worked against its design suffers for it, and the verse lets us name why a life without worship feels unanchored.",
-            "bn": "অন্য আয়াতগুলো একই উদ্দেশ্যকে অন্য কোণ থেকে ফ্রেমে বাঁধে। 2:21 মানুষকে ডাকে সেই রবের ইবাদতে, যিনি তাদের ও তাদের পূর্ববর্তীদের সৃষ্টি করেছেন — যেন তারা তাকওয়া অর্জন করে। 36:61 অঙ্গীকারটি মনে করিয়ে দেয়: আমার ইবাদত করো — এটিই সরল পথ। উদ্দেশ্য আর পথ আসলে একই জিনিস দুবার দেখা: ইবাদত সেটিই যার জন্য আমরা নির্মিত, আবার সেই রাস্তাও যা একটি জীবনকে পথ হারানো থেকে বাঁচায়। কোনো জিনিস তার নকশার বিরুদ্ধে খাটালে সে-ই ভোগে; আর আয়াতটি আমাদের সেই কারণের নাম দিতে দেয় — ইবাদতহীন জীবন কেন নোঙরহীন লাগে।"
+            "bn": "অন্য আয়াতগুলো একই উদ্দেশ্যকে ভিন্ন ভিন্ন দিক থেকে দেখায়। ২:২১ আয়াত মানুষকে ডাকে সেই রবের ইবাদতের দিকে, যিনি তাদের এবং তাদের পূর্ববর্তীদের সৃষ্টি করেছেন, যাতে তারা তাকওয়া অর্জন করে। ৩৬:৬১ আয়াত সেই অঙ্গীকার মনে করিয়ে দেয়: আমার ইবাদত করো, এটাই সরল পথ। উদ্দেশ্য আর পথ আসলে একই জিনিস, শুধু দুবার দেখা: ইবাদতের জন্যই আমাদের সৃষ্টি, আবার ইবাদতই সেই রাস্তা, যা জীবনকে পথ হারাতে দেয় না। কোনো জিনিসকে তার গড়নের উল্টো কাজে খাটালে সেটারই ক্ষতি হয়। এই আয়াত আমাদের বুঝিয়ে দেয়, ইবাদতহীন জীবন কেন নোঙরহীন নৌকার মতো লাগে।"
           }
         ]
       },
@@ -1229,7 +1229,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari records the Prophet's ﷺ words: actions are only by intentions, and every person has only what he intended. Read beside 51:56, the hadith widens the gate of worship: the same hours of work, study or child-raising can be folded into the purpose of creation when they are done for Allah and within His limits. But the scholars keep the order straight — intention ennobles the permitted; it does not replace the prescribed. No sincere career substitutes for the prayer.",
-            "bn": "বুখারী নবী ﷺ-এর বাণী লিপিবদ্ধ করেন: আমল তো নিয়ত দিয়েই, আর প্রত্যেকে তা-ই পায় যার সে নিয়ত করেছে। 51:56 আয়াতের পাশে রেখে পড়লে হাদীসটি ইবাদতের দরজা প্রশস্ত করে: কাজ, পড়াশোনা বা সন্তান লালনের একই ঘণ্টাগুলো সৃষ্টির উদ্দেশ্যের ভেতরে ভাঁজ হয়ে ঢুকে যেতে পারে — যখন তা আল্লাহর জন্য এবং তাঁর সীমার ভেতরে করা হয়। কিন্তু আলিমগণ ক্রমটি সোজা রাখেন — নিয়ত বৈধকে মহিমান্বিত করে; নির্ধারিত ফরযের বিকল্প হয় না। কোনো আন্তরিক পেশাই নামাযের জায়গা নেয় না।"
+            "bn": "বুখারী নবী ﷺ-এর এই বাণী বর্ণনা করেছেন: সব আমল নিয়তের ওপর নির্ভরশীল, আর প্রত্যেকে তা-ই পাবে যার সে নিয়ত করেছে। ৫১:৫৬ আয়াতের পাশে রেখে পড়লে হাদিসটি ইবাদতের দরজা আরও চওড়া করে দেয়: কাজ, পড়াশোনা বা সন্তান লালন-পালনে কাটানো সেই একই সময়ও সৃষ্টির উদ্দেশ্যের অংশ হয়ে যেতে পারে, যদি তা আল্লাহর জন্য এবং তাঁর দেওয়া সীমার ভেতরে করা হয়। তবে আলিমগণ ক্রমটা ঠিক রাখেন: নিয়ত বৈধ কাজকে মর্যাদা দেয়, কিন্তু নির্ধারিত ফরজের জায়গা নেয় না। কোনো আন্তরিক পেশাই নামাজের বিকল্প নয়।"
           }
         ]
       },
@@ -1241,11 +1241,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The lived form of these two verses is a pair of habits. First, receive reminders without offense: when a verse, a sermon or a friend repeats what you already know, 51:55 has answered the objection in advance — benefit was promised precisely to those who know. Second, run the day backward through 51:56 each night: which hours folded into the purpose, and which ran loose beside it. Not to manufacture guilt, but to aim tomorrow.",
-            "bn": "এই দুই আয়াতের যাপিত রূপ এক জোড়া অভ্যাস। প্রথমত, স্মরণিকা গ্রহণ করুন অসন্তুষ্ট না হয়ে: কোনো আয়াত, খুতবা বা বন্ধু যখন আপনার জানা কথাই আবার বলে, 51:55 আপত্তিটির জবাব আগেই দিয়ে রেখেছে — উপকারের প্রতিশ্রুতি তো তাদের জন্যই যারা জানে। দ্বিতীয়ত, প্রতি রাতে দিনটিকে 51:56 আয়াতের ভেতর দিয়ে উল্টো চালিয়ে দেখুন: কোন ঘণ্টাগুলো উদ্দেশ্যের ভাঁজে ঢুকল, আর কোনগুলো তার পাশে আলগা হয়ে গড়াল। অপরাধবোধ বানানোর জন্য নয়, আগামীকালের নিশানা ঠিক করার জন্য।"
+            "bn": "এই দুই আয়াত জীবনে নামিয়ে আনার উপায় দুটি অভ্যাস। প্রথমত, কেউ মনে করিয়ে দিলে মনে কষ্ট নেবেন না। কোনো আয়াত, খুতবা বা বন্ধু যখন আপনার জানা কথাই আবার বলে, ৫১:৫৫ আগেই সেই আপত্তির জবাব দিয়ে রেখেছে: উপকারের ওয়াদা তো ঠিক তাদের জন্যই, যারা জানে। দ্বিতীয়ত, প্রতি রাতে ৫১:৫৬ আয়াতকে সামনে রেখে দিনটা পেছন দিক থেকে একবার মিলিয়ে দেখুন: কোন সময়গুলো উদ্দেশ্যের সঙ্গে মিশে গেল, আর কোনগুলো তার পাশ দিয়ে এলোমেলো গড়িয়ে গেল। অপরাধবোধ তৈরির জন্য নয়, আগামীকালের লক্ষ্য ঠিক করার জন্য।"
           },
           {
             "en": "The verse also quietly reassigns worth. If the purpose of existence is worship, then the scale of a life is not output, audience or accumulation, but the degree to which it answered its Maker. That measure is available equally to the famous and the unknown, the strong and the ill. Whoever worships has hit the target of their creation, whatever else the world records; whoever does not has missed it, whatever else the world applauds.",
-            "bn": "আয়াতটি নীরবে মূল্যের হিসাবও নতুন করে বসায়। অস্তিত্বের উদ্দেশ্য যদি ইবাদত হয়, তবে একটি জীবনের মাপকাঠি তার উৎপাদন, দর্শক বা সঞ্চয় নয়, বরং সে তার নির্মাতাকে কতটা সাড়া দিল সেটাই। এই মাপকাঠি বিখ্যাত ও অখ্যাত, সবল ও অসুস্থ — সবার জন্য সমানভাবে খোলা। যে ইবাদত করে সে তার সৃষ্টির নিশানায় লেগেছে — দুনিয়া আর যা-ই লিখুক; আর যে করে না সে তা ফসকেছে — দুনিয়া আর যত করতালিই দিক।"
+            "bn": "আয়াতটি নীরবে মূল্যের মাপকাঠিও বদলে দেয়। বেঁচে থাকার উদ্দেশ্যই যদি ইবাদত হয়, তবে একটি জীবনের ওজন তার উৎপাদন, শ্রোতা-দর্শক বা সঞ্চয় দিয়ে মাপা যায় না; মাপতে হয় এ দিয়ে যে, সে তার স্রষ্টার ডাকে কতটা সাড়া দিল। এই মাপকাঠি সবার জন্য সমান: বিখ্যাত-অখ্যাত, সবল-অসুস্থ, সবাই এখানে এক কাতারে। যে ইবাদত করে, সে তার সৃষ্টির লক্ষ্যে পৌঁছে গেছে, দুনিয়া তার নামে আর যা-ই লিখুক। আর যে করে না, সে লক্ষ্য হারিয়েছে, দুনিয়া তাকে যত হাততালিই দিক।"
           }
         ]
       }
