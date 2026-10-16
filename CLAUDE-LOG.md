@@ -43,7 +43,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Shard 4 DONE v986 (8/8 + spelling, 124 swaps; zann = যান্ন). Open EN (4): 4:78 s4.p1 says of 3:165 "they are told to say it is from yourselves" (the Prophet is told to say it to them); 4:109 s5.p2 "What has no substitute is an advocate" ambiguous; 4:165 s3.p1 glosses "loving excuse" as giving every chance to excuse themselves (hadith 'udhr = leaving no excuse by warning first); 4:1 s7.p0 "If my family knew that Allah was watching" (likely "if I kept in mind"); 4:36 s0.p0 "a single preposition" though bi- repeats.
 - Shard 6 DONE v987. FIXED 6:152 EN+BN: Tirmidhi 3070 narrator is Abdullah ibn Mas'ud (via Alqama), not Ibn Abbas (verified hadith.js; Tirmidhi: hasan gharib; Albani/Shakir: da'if isnad). Open EN (6): 6:93 s0.p0 reads as one man both denying and claiming revelation.
 - TRAP (spelling pass): reviewers sometimes write য় decomposed (য + U+09BC nukta); a plain split/join of নামায turned আমলনামায়/ওসিয়তনামায় into নামাজ় (5 hits in 16/17/18/6, restored as precomposed য় U+09DF). The pass must skip matches followed by U+09BC: new RegExp(a+"(?!\u09bc)","g"). Check: grep -c 'জ়' js/tadabbur-articles/*.js should be 0.
-- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 8/8, 6: 8/8, 20: 6/6
+- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 8/8, 6: 8/8, 20: 6/6, 33: 1/3
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
