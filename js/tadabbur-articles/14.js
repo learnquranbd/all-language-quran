@@ -561,7 +561,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other half of the work is weeding: refusing to pass on the unrooted word — the rumour, the mockery, the confident falsehood. Such speech costs nothing to repeat and nothing to fell, but it can crush whatever it lands on. Whoever keeps the tongue for words with roots is building, in the language of 14:27 itself, the very firmness by which Allah steadies His servant in this world and after death.",
-            "bn": "কাজের অন্য অর্ধেক হলো আগাছা পরিষ্কার: শিকড়হীন কথা এগিয়ে দিতে অস্বীকার করা — গুজব, বিদ্রূপ, আত্মবিশ্বাসী মিথ্যা। এমন কথা পুনরাবৃত্তি করতেও খরচ নেই, ভেঙে পড়তেও না — কিন্তু যার ওপর গিয়ে পড়ে তাকে তা পিষে দিতে পারে। যে জিহ্বাকে শিকড়ওয়ালা কথার জন্য তুলে রাখে, সে — 14:27 আয়াতের নিজের ভাষায় — সেই দৃঢ়তাই গড়ে তুলছে, যা দিয়ে আল্লাহ তাঁর বান্দাকে এই দুনিয়ায় এবং মৃত্যুর পরে অবিচল রাখেন।"
+            "bn": "কাজের বাকি অর্ধেক হলো আগাছা তোলা: শিকড়হীন কথা আর কারও কাছে না ছড়ানো। গুজব, ঠাট্টা-বিদ্রূপ, জোর গলায় বলা মিথ্যা, এসবই সেই আগাছা। এমন কথা মুখে মুখে ছড়াতে কোনো খরচ নেই, উপড়ে ফেলতেও না; অথচ যার ওপর গিয়ে পড়ে, তাকে পিষে দিতে পারে। যে নিজের জিহ্বাকে কেবল শিকড়ওয়ালা কথার জন্য রাখে, সে ১৪:২৭ আয়াতের ভাষাতেই সেই দৃঢ়তা গড়ে তুলছে, যা দিয়ে আল্লাহ তাঁর বান্দাকে দুনিয়ায় আর মৃত্যুর পরে অবিচল রাখেন।"
           }
         ]
       }
@@ -572,16 +572,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Sum of a List of Gifts",
-          "bn": "উপহারের তালিকার যোগফল"
+          "bn": "নিয়ামতের তালিকা আর তার যোগফল"
         },
         "p": [
           {
             "en": "This verse concludes an inventory. In 14:32-33 Allah recounts what He has set to work for mankind: He created the heavens and the earth, sent down water from the sky and brought out fruits as provision, subjected the ships to run upon the sea by His command, the rivers, the sun and the moon persistent in their courses, and the night and the day. Each item is something no human hand built and no human bill ever paid for.",
-            "bn": "এই আয়াতটি একটি তালিকার উপসংহার। 14:32-33 আয়াতে আল্লাহ বর্ণনা করেন মানুষের জন্য তিনি কী কী নিয়োজিত করেছেন: তিনি আসমান ও যমীন সৃষ্টি করেছেন, আকাশ থেকে পানি নামিয়ে রিযিক হিসেবে ফলমূল বের করেছেন, তাঁর হুকুমে সমুদ্রে চলার জন্য নৌযানকে অধীন করেছেন, নদীগুলোকে, নিজ নিজ কক্ষপথে অবিরাম চলা সূর্য ও চাঁদকে, আর রাত ও দিনকে অধীন করেছেন। এর প্রতিটিই এমন জিনিস, যা কোনো মানুষের হাত বানায়নি এবং যার জন্য কোনো মানুষের বিল কোনোদিন শোধ হয়নি।"
+            "bn": "এ আয়াত একটি তালিকার শেষ টানে। ১৪:৩২-৩৩ আয়াতে আল্লাহ গুনিয়ে বলেন, মানুষের কাজে তিনি কী কী লাগিয়ে দিয়েছেন: আসমান ও যমীন সৃষ্টি করেছেন, আকাশ থেকে পানি নামিয়ে তা দিয়ে রিযিক হিসেবে ফলমূল বের করেছেন, নিজের হুকুমে সাগরে চলার জন্য নৌযানকে বশ করে দিয়েছেন; বশ করে দিয়েছেন নদীগুলোকে, নিজ নিজ পথে অবিরাম চলা সূর্য ও চাঁদকে, আর রাত ও দিনকে। এর একটিও কোনো মানুষের হাতে গড়া নয়, আর কোনোটির দাম কোনো মানুষ কোনোদিন শোধ করেনি।"
           },
           {
             "en": "Then comes the summary: wa atakum min kulli ma sa'altumuh, and He gave you from all that you asked of Him. The verb atakum is in the past tense — the giving has already happened, before any thanks were considered. Reading the list and the summary together makes the verse's method plain: it does not argue for gratitude in the abstract, it walks the reader through the warehouse first and then asks them to consider the ledger.",
-            "bn": "তারপর আসে সারকথা: ওয়া আতাকুম মিন কুল্লি মা সাআলতুমূহ — আর তোমরা তাঁর কাছে যা চেয়েছ তার সবকিছু থেকেই তিনি তোমাদের দিয়েছেন। আতাকুম ক্রিয়াটি অতীতকালের — দেওয়ার কাজটি আগেই ঘটে গেছে, কৃতজ্ঞতার কথা ভাবার আগেই। তালিকা ও সারকথা একসঙ্গে পড়লে আয়াতের পদ্ধতিটি স্পষ্ট হয়: এটি বিমূর্তভাবে কৃতজ্ঞতার পক্ষে যুক্তি দেয় না; আগে পাঠককে গুদামঘরের ভেতর দিয়ে হাঁটিয়ে আনে, তারপর হিসাবের খাতাটি বিবেচনা করতে বলে।"
+            "bn": "তারপর আসে সারকথা: ওয়া আতাকুম মিন কুল্লি মা সাআলতুমূহ, আর তোমরা তাঁর কাছে যা চেয়েছ, তার সবকিছু থেকেই তিনি তোমাদের দিয়েছেন। 'আতাকুম' ক্রিয়াটি অতীতকালে: দেওয়া হয়ে গেছে আগেই, শুকরিয়ার কথা ভাবারও আগে। তালিকা আর সারকথা একসঙ্গে পড়লে আয়াতের ধরনটা পরিষ্কার হয়। আয়াত শুকরিয়ার পক্ষে কোনো তাত্ত্বিক যুক্তি দেয় না। আগে পাঠককে গোটা ভাণ্ডারটা ঘুরিয়ে দেখায়, তারপর বলে, এবার হিসাবের খাতাটা ভেবে দেখুন।"
           }
         ]
       },
@@ -593,11 +593,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators pause on min kulli ma sa'altumuh, from all that you asked of Him. Taken one way, it means every category of thing humans have requested has been drawn upon for you. But they also point out that most of what sustains us was never requested at all. No one asked for lungs before drawing a first breath; no one petitioned for the sun. Allah gave in answer to asking, long before asking, and gave what we would never have known to ask.",
-            "bn": "মুফাসসিরগণ থামেন 'মিন কুল্লি মা সাআলতুমূহ' — তোমরা তাঁর কাছে যা চেয়েছ তার সবকিছু থেকে — এই অংশে। এক অর্থে এর মানে: মানুষ যত শ্রেণির জিনিস চেয়েছে, তার প্রতিটি থেকেই তোমাদের দেওয়া হয়েছে। কিন্তু তাঁরা এ-ও লক্ষ করেন, আমাদের বাঁচিয়ে রাখে এমন অধিকাংশ জিনিস কখনো চাওয়াই হয়নি। প্রথম নিঃশ্বাস নেওয়ার আগে কেউ ফুসফুস চায়নি; সূর্যের জন্য কেউ আবেদন করেনি। আল্লাহ চাওয়ার জবাবে, চাওয়ার বহু আগে, আর এমন সব জিনিস দিয়েছেন যা চাইতে হয় তা-ও আমরা জানতাম না।"
+            "bn": "'মিন কুল্লি মা সাআলতুমূহ', তোমরা তাঁর কাছে যা চেয়েছ তার সবকিছু থেকে: এই কথাটায় এসে মুফাসসিরগণ থামেন। এক অর্থে এর মানে, মানুষ যত রকমের জিনিস চেয়েছে, তার প্রতিটি থেকেই তোমাদের দেওয়া হয়েছে। কিন্তু তাঁরা এটাও দেখান যে, যা কিছু আমাদের বাঁচিয়ে রাখে, তার বেশিরভাগ কেউ কোনোদিন চায়ইনি। প্রথম নিঃশ্বাস নেওয়ার আগে কেউ ফুসফুস চায়নি; সূর্যের জন্য কেউ দরখাস্ত করেনি। আল্লাহ চাওয়ার জবাবে দিয়েছেন, চাওয়ার অনেক আগেও দিয়েছেন, আর এমন জিনিসও দিয়েছেন, যা চাইতে হয় বলে আমরা জানতামই না।"
           },
           {
             "en": "That widening changes how a person prays. If the record shows that the unasked gifts outnumber the asked ones, then asking is not the engine of provision — generosity is. We do not extract blessings from a reluctant giver by the force of our requests; we name a few needs to a Lord who has been supplying thousands of unnamed ones all along. Du'a remains commanded and beloved, riding on a giving that never waited for it.",
-            "bn": "এই প্রসারতা মানুষের দুআর ধরন বদলে দেয়। হিসাব যদি দেখায় যে না-চাওয়া দানগুলো চাওয়া দানের চেয়ে বেশি, তবে চাওয়া রিযিকের ইঞ্জিন নয় — ইঞ্জিন হলো দানশীলতা। আমরা অনুরোধের জোরে কোনো অনিচ্ছুক দাতার কাছ থেকে নিয়ামত আদায় করি না; বরং এমন এক রবের কাছে গুটিকয় প্রয়োজনের নাম বলি, যিনি এতকাল ধরে হাজারো নাম-না-জানা প্রয়োজন মিটিয়ে আসছেন। দুআ আদিষ্ট ও প্রিয়ই থাকে — এমন এক দানের ওপর ভর করে, যে দান কখনো দুআর অপেক্ষায় থাকেনি।"
+            "bn": "অর্থের এই বিস্তার মানুষের দোয়ার ধরন বদলে দেয়। হিসাব যদি বলে, না-চাওয়া দান চাওয়া দানের চেয়ে বেশি, তাহলে রিযিক আসে চাওয়ার জোরে নয়, আসে দাতার দানশীলতায়। আমরা অনুরোধের চাপে কোনো অনিচ্ছুক দাতার হাত থেকে নিয়ামত ছিনিয়ে আনি না। আমরা তো এমন এক রবের কাছে গুটিকয় প্রয়োজনের কথা বলি, যিনি নাম-না-জানা হাজারো প্রয়োজন এতকাল ধরে মিটিয়ে আসছেন। তবু দোয়া আল্লাহর হুকুম, তাঁর প্রিয় আমল। দোয়া চলে এমন এক দানের ওপর ভর করে, যে দান কখনো দোয়ার অপেক্ষায় বসে থাকেনি।"
           }
         ]
       },
@@ -609,11 +609,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the famous clause: wa in ta'uddu ni'mata Allahi la tuhsuha, and if you should count the favour of Allah, you could not enumerate it. The verb tuhsuha comes from ihsa', which means exact, exhaustive enumeration — not a rough tally but a complete audit. And the thing being counted is named in the singular, ni'mah, favour: the commentators observe that even a single blessing resists the audit, because each one unfolds into others.",
-            "bn": "তারপর বিখ্যাত বাক্যাংশটি: ওয়া ইন তাউদ্দূ নি'মাতাল্লাহি লা তুহসূহা — আর তোমরা আল্লাহর নিয়ামত গণনা করলে তার সংখ্যা নির্ণয় করতে পারবে না। তুহসূহা ক্রিয়াটি এসেছে ইহসা থেকে, যার অর্থ নির্ভুল, পূর্ণাঙ্গ গণনা — মোটামুটি হিসাব নয়, সম্পূর্ণ নিরীক্ষা। আর যা গোনা হচ্ছে তার নাম এসেছে একবচনে — নি'মাহ, নিয়ামত: মুফাসসিরগণ লক্ষ করেন, একটিমাত্র নিয়ামতও এই নিরীক্ষায় ধরা দেয় না, কারণ প্রতিটি নিয়ামত খুলে গেলে আরও নিয়ামত বেরিয়ে আসে।"
+            "bn": "তারপর আসে বিখ্যাত বাক্যটি: ওয়া ইন তাউদ্দূ নি'মাতাল্লাহি লা তুহসূহা, আর তোমরা যদি আল্লাহর নিয়ামত গুনতে চাও, গুনে শেষ করতে পারবে না। 'তুহসূহা' এসেছে 'ইহসা' থেকে। ইহসা মানে আন্দাজে মোটামুটি গোনা নয়, একটা একটা করে নিখুঁত, পুরো হিসাব করা। আর যা গোনা হচ্ছে, তার নাম এসেছে একবচনে: নি'মাহ, নিয়ামত। মুফাসসিরগণ বলেন, একটিমাত্র নিয়ামতও পুরো হিসাবে ধরা দেয় না, কারণ প্রতিটি নিয়ামত খুললেই ভেতর থেকে আরও নিয়ামত বেরিয়ে আসে।"
           },
           {
             "en": "Test the claim on anything small. Count what one working eye involves: the tear film, the lens, the nerve, the brain's processing, the light itself, and the safety of every day on which nothing struck it. Each item on that list opens its own list. The verse is not exaggerating for effect; it is stating an arithmetic fact about a sum with no bottom. The honest accountant closes the books and converts the audit into thanks.",
-            "bn": "দাবিটি ছোট যেকোনো কিছুর ওপর যাচাই করুন। একটি সচল চোখে কী কী জড়িত তা গুনে দেখুন: অশ্রুর আস্তরণ, লেন্স, স্নায়ু, মস্তিষ্কের প্রক্রিয়াকরণ, খোদ আলো, আর সেই প্রতিটি দিনের নিরাপত্তা যেদিন কিছুই তাতে আঘাত করেনি। ওই তালিকার প্রতিটি জিনিস আবার নিজের একটি তালিকা খুলে দেয়। আয়াতটি প্রভাব ফেলার জন্য অতিরঞ্জন করছে না; এটি এমন এক যোগফলের পাটিগণিতীয় সত্য বলছে, যার কোনো তলা নেই। সৎ হিসাবরক্ষক তাই খাতা বন্ধ করে নিরীক্ষাকে শুকরিয়ায় বদলে নেয়।"
+            "bn": "যেকোনো ছোট জিনিস দিয়ে কথাটা যাচাই করে দেখুন। একটি সুস্থ চোখের পেছনে কী কী আছে, গুনে দেখুন: চোখের পানির পাতলা আস্তরণ, লেন্স, স্নায়ু, মস্তিষ্কের কাজ, খোদ আলো, আর সেই প্রতিটি দিনের নিরাপত্তা, যেদিন চোখে কোনো আঘাত লাগেনি। এই তালিকার প্রতিটি জিনিস খুললে আবার নতুন তালিকা। আয়াত কথাটা বাড়িয়ে বলছে না। এ এক সোজা হিসাবের সত্য: এমন এক যোগফল, যার কোনো তল নেই। তাই সৎ হিসাবরক্ষক খাতা বন্ধ করেন, আর পুরো হিসাবটাকে শুকরিয়ায় বদলে নেন।"
           }
         ]
       },
@@ -625,11 +625,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes with a diagnosis: inna al-insana la-zalumun kaffar, indeed mankind is persistently unjust, deeply ungrateful. Both words are intensive forms in Arabic — zalum and kaffar are patterns that signal repetition and excess, not an occasional slip. The injustice named here, the commentators explain, includes putting blessings to wrong use and crediting them to the wrong source; the ingratitude is the settled habit of noticing what is missing while consuming what is present.",
-            "bn": "আয়াতটি শেষ হয় একটি রোগনির্ণয়ে: ইন্নাল-ইনসানা লা-যালূমুন কাফফার — নিশ্চয়ই মানুষ বড়ই জালিম, ভীষণ অকৃতজ্ঞ। দুটি শব্দই আরবিতে আধিক্যবাচক রূপ — যালূম ও কাফফার এমন গঠন, যা পুনরাবৃত্তি ও মাত্রাছাড়ানোর ইঙ্গিত দেয়, কালেভদ্রে একটি ভুলের নয়। মুফাসসিরগণ ব্যাখ্যা করেন, এখানে যে জুলুমের কথা, তার মধ্যে আছে নিয়ামতের অপব্যবহার এবং তা ভুল উৎসের নামে চালানো; আর অকৃতজ্ঞতা হলো সেই বদ্ধমূল অভ্যাস — যা আছে তা ভোগ করতে করতে যা নেই তা-ই কেবল চোখে পড়া।"
+            "bn": "আয়াত শেষ হয় মানুষের রোগটা ধরিয়ে দিয়ে: ইন্নাল-ইনসানা লা-যালূমুন কাফফার, নিশ্চয়ই মানুষ বড়ই জালিম, ভীষণ অকৃতজ্ঞ। দুটি শব্দই আরবিতে আধিক্য বোঝানোর রূপ। যালূম আর কাফফার এমন গঠন, যা বারবার করা আর মাত্রা ছাড়ানো বোঝায়; মাঝেমধ্যে একটু-আধটু ভুল নয়। মুফাসসিরগণ ব্যাখ্যা করেন, এখানে যে জুলুমের কথা, তার মধ্যে আছে নিয়ামতকে ভুল কাজে লাগানো আর ভুল উৎসের নামে চালিয়ে দেওয়া। আর অকৃতজ্ঞতা হলো সেই পাকা অভ্যাস: যা আছে তা ভোগ করতে করতেও চোখে পড়ে শুধু যা নেই।"
           },
           {
             "en": "The Quran contains a sister clause. In 16:18 the same words appear — if you count the favour of Allah, you cannot enumerate it — but the ending differs: there the verse concludes that Allah is Forgiving, Merciful. The commentators set the two endings side by side. This verse names what we are; that verse names what He is. Faced with an uncountable debt held by an uncounting debtor, His response is not collection but forgiveness — which is itself one more favour that escaped our audit.",
-            "bn": "কুরআনে এর একটি সহোদরা বাক্য আছে। 16:18 আয়াতে একই কথাগুলো আসে — আল্লাহর নিয়ামত গণনা করলে তোমরা তার সংখ্যা নির্ণয় করতে পারবে না — কিন্তু সমাপ্তি ভিন্ন: সেখানে আয়াতের উপসংহার, আল্লাহ ক্ষমাশীল, পরম দয়ালু। মুফাসসিরগণ দুটি সমাপ্তিকে পাশাপাশি রাখেন। এই আয়াত বলে আমরা কেমন; ওই আয়াত বলে তিনি কেমন। গণনায় অক্ষম এক দেনাদারের কাঁধে অগণনীয় ঋণ — তার জবাবে তিনি আদায় নন, ক্ষমা বেছে নেন; আর সেটিও তো আরেকটি নিয়ামত, যা আমাদের নিরীক্ষার বাইরে থেকে গিয়েছিল।"
+            "bn": "কুরআনে এ বাক্যের একটি জোড়া আছে। ১৬:১৮ আয়াতে হুবহু একই কথা আসে: আল্লাহর নিয়ামত গুনতে চাইলে তোমরা গুনে শেষ করতে পারবে না। কিন্তু শেষটা আলাদা। সেখানে আয়াত শেষ হয় এই কথায়: আল্লাহ ক্ষমাশীল, পরম দয়ালু। মুফাসসিরগণ দুটি শেষকে পাশাপাশি রাখেন। এ আয়াত বলে আমরা কেমন; ও আয়াত বলে তিনি কেমন। দেনাদার গুনতেই পারে না, অথচ তার ঘাড়ে অগণিত ঋণ। তার জবাবে আল্লাহ পাওনা আদায় করেন না, মাফ করে দেন। আর এই মাফও তো আরেকটি নিয়ামত, যা আমাদের হিসাব থেকে বাদ পড়ে গিয়েছিল।"
           }
         ]
       },
@@ -641,11 +641,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The same surah has already stated what gratitude does. In 14:7 your Lord proclaimed: if you are grateful, I will surely increase you, but if you deny, indeed My punishment is severe. Set beside this verse, the two form a hinge. The favours cannot be counted, and mankind tends to thanklessness — yet the door out of that condition is not to finish the count, which is impossible, but to thank, which multiplies the very thing being counted.",
-            "bn": "একই সূরা আগেই বলে দিয়েছে কৃতজ্ঞতা কী করে। 14:7 আয়াতে তোমাদের রব ঘোষণা করেছেন: তোমরা কৃতজ্ঞ হলে আমি অবশ্যই তোমাদের বাড়িয়ে দেব, আর অস্বীকার করলে নিশ্চয়ই আমার শাস্তি কঠিন। এই আয়াতের পাশে রাখলে দুটি মিলে একটি কবজা তৈরি করে। নিয়ামত গোনা যায় না, আর মানুষের ঝোঁক অকৃতজ্ঞতার দিকে — অথচ সেই অবস্থা থেকে বেরোনোর দরজা গণনা শেষ করা নয়, তা তো অসম্ভব; দরজা হলো শুকরিয়া, যা খোদ গণনার বিষয়বস্তুকেই বহুগুণ করে।"
+            "bn": "শুকরিয়া কী করে, সে কথা এই সূরা আগেই বলে দিয়েছে। ১৪:৭ আয়াতে তোমাদের রব ঘোষণা করেছেন: তোমরা কৃতজ্ঞ হলে আমি অবশ্যই তোমাদের আরও বাড়িয়ে দেব, আর যদি অস্বীকার করো, তবে নিশ্চয়ই আমার শাস্তি বড় কঠিন। এ আয়াতের পাশে রাখলে দুটি আয়াত দরজার কবজার মতো একে অন্যের সঙ্গে জুড়ে যায়। নিয়ামত গোনা যায় না, আর মানুষের ঝোঁক অকৃতজ্ঞতার দিকে। তবু এ অবস্থা থেকে বেরোনোর দরজা গোনা শেষ করা নয়, সেটা তো অসম্ভব। দরজা হলো শুকরিয়া, আর শুকরিয়া যা গোনা হচ্ছে সেটাকেই বহুগুণ বাড়িয়ে দেয়।"
           },
           {
             "en": "The Prophet ﷺ modelled what thanking an uncountable Giver looks like. Al-Bukhari narrates from al-Mughirah ibn Shu'bah (RA) that the Prophet ﷺ would stand in night prayer until his feet swelled, and when asked why he did this when his past and future sins had been forgiven, he answered: should I not be a grateful servant? Gratitude, in that answer, is not payment towards a balance. It is a relationship that grows warmer the more clearly the debt is seen.",
-            "bn": "অগণনীয় দাতাকে কীভাবে শুকরিয়া জানাতে হয়, নবী ﷺ তার নমুনা দেখিয়েছেন। বুখারী মুগীরা ইবনে শু'বা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ রাতের নামাযে এত দীর্ঘ দাঁড়াতেন যে তাঁর দুই পা ফুলে যেত; জিজ্ঞেস করা হলো, আপনার আগের-পরের গুনাহ তো মাফ হয়ে গেছে, তবু কেন — তিনি উত্তর দিলেন: আমি কি কৃতজ্ঞ বান্দা হব না? সেই উত্তরে কৃতজ্ঞতা কোনো হিসাব মেটানোর কিস্তি নয়। এটি এমন এক সম্পর্ক, ঋণ যত স্পষ্ট দেখা যায় যা তত উষ্ণ হয়।"
+            "bn": "অগণিত নিয়ামতের দাতাকে কীভাবে শুকরিয়া জানাতে হয়, নবী ﷺ নিজে তা করে দেখিয়েছেন। বুখারী মুগীরা ইবনে শু'বা (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ রাতের নামাজে এত দীর্ঘ সময় দাঁড়িয়ে থাকতেন যে তাঁর পা ফুলে যেত। কেউ জিজ্ঞেস করল, আপনার আগের-পরের সব গুনাহ তো মাফ হয়ে গেছে, তবু কেন এমন করেন? তিনি বললেন: আমি কি কৃতজ্ঞ বান্দা হব না? এই উত্তরে শুকরিয়া কোনো দেনা শোধের কিস্তি নয়। এ এক সম্পর্ক: ঋণটা যত পরিষ্কার চোখে পড়ে, সম্পর্ক তত উষ্ণ হয়।"
           }
         ]
       },
@@ -657,11 +657,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse says the count cannot be finished; it never says the count should not be started. The classical teachers of the heart prescribed exactly this exercise, because the attempt itself is the cure. List ten blessings tonight — specific ones, with names and dates — and the listing will run into the same wall the verse describes: every item splits into more. A person who hits that wall regularly finds complaint harder to sustain, because the inventory keeps interrupting it.",
-            "bn": "আয়াতটি বলে গণনা শেষ করা যাবে না; এ কথা কখনো বলে না যে গণনা শুরু করা উচিত নয়। অন্তরের প্রাচীন শিক্ষকগণ ঠিক এই অনুশীলনটিই বাতলে দিয়েছেন, কারণ চেষ্টাটাই ওষুধ। আজ রাতে দশটি নিয়ামতের তালিকা করুন — সুনির্দিষ্টগুলো, নাম-তারিখসহ — দেখবেন তালিকাটি আয়াতে বর্ণিত সেই দেয়ালেই গিয়ে ঠেকছে: প্রতিটি জিনিস ভেঙে আরও জিনিস বেরোচ্ছে। যে মানুষ নিয়মিত ওই দেয়ালে ঠেকে, তার পক্ষে অভিযোগ টিকিয়ে রাখা কঠিন হয়ে পড়ে, কারণ হিসাবের খাতা বারবার তাতে বাধা দেয়।"
+            "bn": "আয়াত বলে, গোনা শেষ হবে না; কিন্তু কোথাও বলে না যে গোনা শুরুই করা যাবে না। আত্মশুদ্ধির পুরোনো উস্তাদরা ঠিক এই অনুশীলনটাই করতে বলতেন, কারণ চেষ্টাটাই ওষুধ। আজ রাতে দশটি নিয়ামতের তালিকা করুন। গড়পড়তা কথা নয়, নির্দিষ্ট করে, নাম আর তারিখসহ। দেখবেন, তালিকাটা আয়াতে বলা সেই দেয়ালেই গিয়ে ঠেকছে: প্রতিটি জিনিস ভাঙলে আরও জিনিস বেরোচ্ছে। যে নিয়মিত এই দেয়ালে ঠেকে, তার পক্ষে অভিযোগ ধরে রাখা কঠিন হয়ে যায়, কারণ নিয়ামতের হিসাব বারবার মাঝখানে এসে পড়ে।"
           },
           {
             "en": "Gratitude then wants three outlets, as the scholars describe it: the heart's acknowledgement that every gift traces back to Allah, the tongue's praise, and the limbs' use of each blessing in ways its Giver approves. Eyes given free are thanked by what they read and refuse to read; wealth given unasked is thanked at the point of spending. The verse's closing words about injustice and ingratitude stop being our description the moment the counting, the thanking and the using begin.",
-            "bn": "এরপর কৃতজ্ঞতা তিনটি পথ খোঁজে, আলিমগণ যেভাবে বর্ণনা করেছেন: অন্তরের স্বীকৃতি যে প্রতিটি দান আল্লাহর কাছ থেকেই এসেছে, জিহ্বার প্রশংসা, আর অঙ্গ-প্রত্যঙ্গ দিয়ে প্রতিটি নিয়ামতকে তার দাতার পছন্দের পথে ব্যবহার। বিনামূল্যে পাওয়া চোখের শুকরিয়া হয় সে কী পড়ে আর কী পড়তে অস্বীকার করে তা দিয়ে; না চাইতে পাওয়া সম্পদের শুকরিয়া হয় খরচের মুহূর্তে। গণনা, শুকরিয়া আর সদ্ব্যবহার শুরু হওয়ামাত্র জুলুম ও অকৃতজ্ঞতা নিয়ে আয়াতের শেষ কথাগুলো আর আমাদের বর্ণনা থাকে না।"
+            "bn": "আলিমগণ বলেন, এরপর শুকরিয়া প্রকাশের তিনটি পথ খোঁজে। অন্তর মেনে নেয় যে প্রতিটি দান আল্লাহর কাছ থেকেই এসেছে; জিহ্বা তাঁর প্রশংসা করে; আর অঙ্গ-প্রত্যঙ্গ প্রতিটি নিয়ামতকে এমনভাবে কাজে লাগায়, যা দাতা পছন্দ করেন। বিনা দামে পাওয়া চোখের শুকরিয়া হয় সে কী পড়ে আর কী পড়তে রাজি হয় না, তা দিয়ে। না চাইতে পাওয়া সম্পদের শুকরিয়া হয় খরচ করার মুহূর্তে। গোনা, শুকরিয়া আর সঠিক ব্যবহার শুরু হওয়ামাত্র আয়াতের শেষের জুলুম আর অকৃতজ্ঞতার কথা আর আমাদের পরিচয় থাকে না।"
           }
         ]
       }
@@ -672,12 +672,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Close of a Long Prayer",
-          "bn": "দীর্ঘ প্রার্থনার সমাপ্তি"
+          "bn": "দীর্ঘ এক দোয়ার শেষ কথা"
         },
         "p": [
           {
             "en": "These two verses end a passage of Ibrahim's (AS) speech that opens at 14:35, where he asks that this city be made secure and that he and his sons be kept from worshipping idols. Along the way, 14:37 has him settling some of his offspring in an uncultivated valley by the Sacred House liyuqimu as-salah, so that they would establish prayer.",
-            "bn": "এই দুটি আয়াত ইবরাহীম (আঃ)-এর সেই বক্তব্যের সমাপ্তি টানে, যা শুরু হয় 14:35-এ — সেখানে তিনি চান এই নগরীকে নিরাপদ করা হোক এবং তিনি ও তাঁর সন্তানেরা মূর্তিপূজা থেকে রক্ষা পান। মাঝপথে 14:37-এ তিনি তাঁর বংশধরদের একাংশকে সম্মানিত ঘরের পাশে শস্যহীন উপত্যকায় বসিয়ে দেন লিইউকীমুস সালাহ — যাতে তারা নামায কায়েম করে।"
+            "bn": "ইবরাহীম (আঃ)-এর যে দীর্ঘ কথামালা ১৪:৩৫ থেকে শুরু, এই দুটি আয়াতে তা শেষ হয়। শুরুতেই তিনি চান, এই নগরীকে নিরাপদ করা হোক, আর তিনি ও তাঁর সন্তানেরা যেন মূর্তিপূজা থেকে রক্ষা পান। মাঝে ১৪:৩৭-এ দেখা যায়, তিনি তাঁর বংশধরদের একাংশকে সম্মানিত ঘরের পাশে এক অনাবাদি উপত্যকায় রেখে আসছেন, লিইউকীমুস সালাহ, যাতে তারা নামাজ কায়েম করে।"
           },
           {
             "en": "Just before the closing petitions comes praise rather than a request. In 14:39 he says: praise to Allah, who granted me Isma'il and Ishaq in old age; indeed my Lord is the Hearer of supplication. So the two verses that follow are spoken by a man who has already been answered once, at an age when the answer looked impossible. He does not stop asking after the gift arrives.",
@@ -688,16 +688,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Make Me One Who Establishes Prayer",
-          "bn": "আমাকে নামায প্রতিষ্ঠাকারী বানাও"
+          "bn": "আমাকে নামাজ কায়েমকারী বানিয়ে দিন"
         },
         "p": [
           {
             "en": "Rabbi ij'alni muqima as-salah. He does not ask to pray; he asks to be made muqim as-salah, an active participle naming a settled kind of person rather than a single act. The difference is the difference between managing a prayer today and being someone through whom prayer keeps standing. He is asking for an identity, and asking for it from the only One who can install it.",
-            "bn": "রাব্বিজ'আলনী মুকীমাস সালাহ। তিনি নামায পড়ার সুযোগ চান না; তিনি চান তাঁকে বানানো হোক মুকীমুস সালাহ — এটি একটি কর্তৃবাচক বিশেষণ, যা কোনো একক কাজ নয়, বরং একটি স্থায়ী ধরনের মানুষকে নির্দেশ করে। পার্থক্যটা হলো আজ একটি নামায সামলে নেওয়া, আর এমন একজন হওয়া যার মধ্য দিয়ে নামায দাঁড়িয়ে থাকে — এই দুইয়ের পার্থক্য। তিনি চাইছেন একটি পরিচয়, আর চাইছেন সেই একজনের কাছেই, যিনি তা বসিয়ে দিতে পারেন।"
+            "bn": "রাব্বিজ'আলনী মুকীমাস সালাহ। তিনি শুধু নামাজ পড়ার সুযোগ চাইছেন না; চাইছেন, তাঁকে যেন মুকীমুস সালাহ বানানো হয়। শব্দটি কর্তাবাচক রূপ: একবারের কোনো কাজ বোঝায় না, বোঝায় স্থায়ী এক ধরনের মানুষকে। পার্থক্যটা এমন: আজ কোনোমতে এক ওয়াক্ত নামাজ সেরে নেওয়া এক জিনিস, আর এমন মানুষ হয়ে যাওয়া, যাঁর হাত ধরে নামাজ কায়েম থাকে, আরেক জিনিস। তিনি চাইছেন একটি পরিচয়, আর চাইছেন একমাত্র তাঁর কাছেই, যিনি সেই পরিচয় গেঁথে দিতে পারেন।"
           },
           {
             "en": "It is worth sitting with the fact that a prophet asks this at the end of his life. He had already left his people, faced a fire, migrated, and settled his family beside the House for the sake of prayer. None of that is offered here as a qualification. The request assumes that steadiness in worship is granted and re-granted, never banked, however long a record of it a person has.",
-            "bn": "একটু থেমে ভাবার মতো বিষয় এই যে, জীবনের শেষপ্রান্তে এসে একজন নবী এটিই চাইছেন। তিনি ইতিমধ্যেই স্বজাতি ছেড়েছেন, আগুনের মুখোমুখি হয়েছেন, হিজরত করেছেন এবং নামাযের জন্যই পরিবারকে সেই ঘরের পাশে বসিয়েছেন। এর কোনোটিকেই এখানে যোগ্যতা হিসেবে পেশ করা হয়নি। আবেদনটি ধরে নেয় যে, ইবাদতে অবিচলতা বারবার দান করা হয়, কখনো জমা করে রাখা যায় না — মানুষের অতীত রেকর্ড যত দীর্ঘই হোক।"
+            "bn": "একটু থেমে ভাবার মতো কথা: জীবনের শেষ প্রান্তে এসে একজন নবী এটাই চাইছেন। ততদিনে তিনি নিজের কওম ছেড়ে এসেছেন, আগুনের মুখোমুখি হয়েছেন, হিজরত করেছেন, আর নামাজের জন্যই পরিবারকে ওই ঘরের পাশে রেখে এসেছেন। অথচ এখানে তিনি এর কোনোটিকেই নিজের যোগ্যতা হিসেবে তুলে ধরেন না। দোয়াটির ভেতরেই এই বোধ আছে যে, ইবাদতে অবিচল থাকা আল্লাহ বারবার নতুন করে দান করেন; একে কখনো জমিয়ে রাখা যায় না, কারও অতীত আমলের খাতা যত লম্বাই হোক।"
           }
         ]
       },
@@ -713,23 +713,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the request is shaped by what he already knew. He does not claim his line; he asks for a portion of it, and for the one thing he most wants continued. The same instinct appears at 2:128, where he and Isma'il (AS) ask that a submitting community be raised from their offspring. A father's prayer here is not for comfort but for worship.",
-            "bn": "কাজেই আবেদনটির আকার গড়ে দিয়েছে তাঁর আগে থেকে জানা কথাটিই। তিনি নিজের বংশকে দাবি করেন না; তার একটি অংশ চান — আর চান সেই একটি জিনিসই, যার ধারাবাহিকতা তিনি সবচেয়ে বেশি চান। একই প্রবণতা দেখা যায় 2:128-এ, যেখানে তিনি ও ইসমাঈল (আঃ) চান তাঁদের বংশ থেকে একটি আত্মসমর্পণকারী জাতি উঠুক। এখানে এক পিতার দোয়া আরামের জন্য নয়, ইবাদতের জন্য।"
+            "bn": "তাই আগে থেকে যা জানতেন, সে অনুযায়ীই তিনি দোয়াটি সাজিয়েছেন। পুরো বংশের ওপর দাবি তোলেন না; চান তার একটি অংশ, আর চান সেই একটি জিনিস, যা তিনি সবচেয়ে বেশি টিকে থাকতে দেখতে চান। একই টান দেখা যায় ২:১২৮-এ, যেখানে তিনি ও ইসমাঈল (আঃ) চান, তাঁদের বংশ থেকে যেন আল্লাহর অনুগত এক উম্মত গড়ে ওঠে। এখানে এক বাবার দোয়া আরাম-আয়েশের জন্য নয়, ইবাদতের জন্য।"
           }
         ]
       },
       {
         "h": {
           "en": "Accept My Supplication",
-          "bn": "আমার দোয়া কবুল করো"
+          "bn": "আমার দোয়া কবুল করুন"
         },
         "p": [
           {
             "en": "Then the address shifts. Up to this point he has said rabbi, my Lord; now he says rabbana, our Lord, and adds wa taqabbal du'a, and accept my supplication. That clause appears nowhere else in the Quran. Having asked for things, he asks that the asking itself be received — a petition about petitions, placed last so that everything before it is covered by it.",
-            "bn": "এরপর সম্বোধন বদলে যায়। এতক্ষণ তিনি বলেছেন রাব্বি — হে আমার প্রতিপালক; এখন বলেন রাব্বানা — হে আমাদের প্রতিপালক, এবং যোগ করেন ওয়া তাকাব্বাল দুআ — আর আমার দোয়া কবুল করো। এই বাক্যাংশটি কুরআনে আর কোথাও নেই। বিভিন্ন জিনিস চাওয়ার পর তিনি চান চাওয়াটাই যেন গৃহীত হয় — চাওয়া নিয়ে একটি চাওয়া, যা সবার শেষে রাখা হয়েছে, যাতে তার আগের সবকিছু এর আওতায় এসে যায়।"
+            "bn": "এরপর সম্বোধন বদলে যায়। এতক্ষণ তিনি বলছিলেন রাব্বি, হে আমার রব; এখন বলেন রাব্বানা, হে আমাদের রব। সঙ্গে যোগ করেন ওয়া তাকাব্বাল দুআ, আর আমার দোয়া কবুল করুন। এই বাক্যটি কুরআনে আর কোথাও নেই। এতগুলো জিনিস চাওয়ার পর তিনি চান, চাওয়াটাই যেন কবুল হয়। এ যেন দোয়ার জন্য দোয়া, আর সেটি রাখা হয়েছে সবার শেষে, যাতে আগের সব চাওয়া এর আওতায় এসে যায়।"
           },
           {
             "en": "Across these two verses there are three imperatives: make me, and accept, and forgive. That is a small number for a prayer that reaches so far, and the smallness is instructive. Ibrahim (AS) does not list circumstances or name outcomes. He asks to be made a certain kind of servant, asks that the asking be received, and asks for pardon — and stops.",
-            "bn": "এই দুই আয়াতে আদেশবাচক ক্রিয়া আছে তিনটি: আমাকে বানাও, কবুল করো, আর ক্ষমা করো। এত দূর পর্যন্ত পৌঁছানো একটি দোয়ার জন্য সংখ্যাটি ছোট, আর এই ছোট হওয়াটাই শিক্ষণীয়। ইবরাহীম (আঃ) পরিস্থিতির তালিকা দেন না, ফলাফলেরও নাম নেন না। তিনি চান তাঁকে একধরনের বান্দা বানানো হোক, চান চাওয়াটি গৃহীত হোক, আর চান ক্ষমা — তারপর থেমে যান।"
+            "bn": "এই দুই আয়াতে আদেশসূচক ক্রিয়া মাত্র তিনটি: আমাকে বানিয়ে দিন, কবুল করুন, আর ক্ষমা করুন। যে দোয়া এত দূর পর্যন্ত ছড়িয়ে যায়, তার জন্য সংখ্যাটা খুবই কম, আর এই কম হওয়াটাই শিক্ষা। ইবরাহীম (আঃ) পরিস্থিতির ফিরিস্তি দেন না, কী ফল চান তা-ও নাম ধরে বলেন না। তিনি চান তাঁকে যেন বিশেষ এক ধরনের বান্দা বানানো হয়, চান তাঁর চাওয়া যেন কবুল হয়, আর চান মাফ। ব্যস, এখানেই থামেন।"
           }
         ]
       },
@@ -741,7 +741,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In 14:41 the circle widens in one breath: forgive me, and my parents, and the believers. The order is worth noticing. He begins with himself, which is the honest place to begin, moves to the two people he owes most, and ends with everyone who shares his faith, most of whom had not yet been born when he said it.",
-            "bn": "14:41-এ বৃত্তটি এক নিঃশ্বাসে প্রশস্ত হয়: আমাকে ক্ষমা করো, আর আমার পিতামাতাকে, আর মুমিনদেরকে। ক্রমটি লক্ষ করার মতো। তিনি শুরু করেন নিজেকে দিয়ে — শুরু করার সৎ জায়গাটি এখানেই; তারপর যান সেই দুজনের কাছে যাঁদের কাছে তাঁর ঋণ সবচেয়ে বেশি; আর শেষ করেন তাঁর দ্বীনে শরিক সকলকে দিয়ে, যাঁদের অধিকাংশই তখনও জন্মায়নি।"
+            "bn": "১৪:৪১-এ এক নিঃশ্বাসে বৃত্তটা বড় হয়ে যায়: আমাকে ক্ষমা করুন, আমার পিতামাতাকে, আর মুমিনদের। ক্রমটা খেয়াল করার মতো। তিনি শুরু করেন নিজেকে দিয়ে, আর সৎভাবে শুরু করতে হলে সেখান থেকেই করতে হয়। তারপর আসেন সেই দুজনের কথায়, যাঁদের কাছে তাঁর ঋণ সবচেয়ে বেশি। শেষ করেন তাঁর ঈমানের সব শরিককে দিয়ে, যাঁদের বেশিরভাগ তখনো জন্মই নেননি।"
           },
           {
             "en": "The mention of his parents raises a question the Quran itself answers. 9:114 states that Ibrahim's (AS) seeking forgiveness for his father was only because of a promise he had made him, and that when it became clear to him that his father was an enemy to Allah, he disassociated from him. 60:4 then marks that one saying as the sole exception in a pattern otherwise given to us to follow.",
@@ -757,11 +757,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The last words fix a time: yawma yaqumu al-hisab, the Day the account is established. The verb is the same root used for standing something upright, the root behind muqim as-salah at the start of 14:40. Prayer is what he asks to have standing now; the reckoning is what will be made to stand then. The prayer opens and closes on the same image.",
-            "bn": "শেষ কথাগুলো একটি সময় নির্ধারণ করে দেয়: ইয়াওমা ইয়াকূমুল হিসাব — যেদিন হিসাব কায়েম হবে। ক্রিয়াপদটির মূল সেই একই, যা কোনো কিছু খাড়া করে দাঁড় করানো বোঝায় — 14:40-এর শুরুতে মুকীমুস সালাহ শব্দের পেছনেও এই মূলটিই আছে। নামায হলো সেটিই, যা তিনি এখন দাঁড়িয়ে থাকতে চান; আর হিসাব হলো সেটি, যা তখন দাঁড় করানো হবে। দোয়াটি শুরু ও শেষ হয় একই চিত্রকল্পে।"
+            "bn": "শেষ কথাগুলো একটি সময় বেঁধে দেয়: ইয়াওমা ইয়াকূমুল হিসাব, যেদিন হিসাব কায়েম হবে। এ ক্রিয়ার মূল ধাতু সেটাই, যা দিয়ে কোনো কিছু সোজা করে দাঁড় করানো বোঝায়। ১৪:৪০-এর শুরুতে 'মুকীমুস সালাহ' শব্দের পেছনেও এই ধাতু। নামাজকে তিনি এখন দাঁড় করিয়ে রাখতে চান; আর হিসাবকে সেদিন দাঁড় করানো হবে। দোয়াটি একই ছবি দিয়ে শুরু হয়, একই ছবিতে শেষ হয়।"
           },
           {
             "en": "Lived, the passage gives a shape to du'a that is easy to copy and hard to exhaust. Ask to be made a person of prayer rather than for a good week of it; name your children in the same sentence; carry your parents in it; then widen it to believers you will never meet. Ibrahim (AS) asked for continuity, and the surah records the words he used.",
-            "bn": "বাস্তব জীবনে অংশটি দোয়ার এমন একটি কাঠামো দেয়, যা অনুকরণ করা সহজ আর ফুরিয়ে ফেলা কঠিন। ভালো একটি সপ্তাহ নয়, নামাযের মানুষ হওয়াটাই চান; একই বাক্যে সন্তানদের নাম আনুন; তাতে পিতামাতাকে বহন করুন; তারপর তা প্রসারিত করুন সেই মুমিনদের পর্যন্ত, যাঁদের সঙ্গে আপনার কখনো দেখা হবে না। ইবরাহীম (আঃ) চেয়েছিলেন ধারাবাহিকতা, আর সূরাটি তাঁর ব্যবহৃত শব্দগুলোই লিখে রেখেছে।"
+            "bn": "জীবনে নামালে এ অংশটি দোয়ার এমন একটি ছাঁচ দেয়, যা অনুসরণ করা সহজ, অথচ কখনো ফুরোয় না। ভালো একটা সপ্তাহের নামাজ নয়, নামাজি মানুষ হওয়াটাই চান। একই বাক্যে সন্তানদের নাম নিন; পিতামাতাকেও সেই দোয়ায় রাখুন; তারপর দোয়াটা ছড়িয়ে দিন সেই মুমিনদের পর্যন্ত, যাঁদের সঙ্গে কোনোদিন আপনার দেখা হবে না। ইবরাহীম (আঃ) ধারাবাহিকতা চেয়েছিলেন, আর সূরাটি তাঁর বলা শব্দগুলোই লিখে রেখেছে।"
           }
         ]
       }
