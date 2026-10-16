@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ya ayyuha al-muddaththir: two Arabic words, a call and a description. Ma'arif al-Qur'an derives al-muddaththir from dithar, a thick, warm over-garment such as a cloak or mantle, which a person wears in winter over his other clothes against the cold. Al-Qurtubi explains the form: it means one who has wrapped himself in his clothes, covered himself with them and slept. Its root shape is al-mutadaththir, and the ta merged into the dal because the two letters are close. He adds that Ubayy recited it in that original form.",
-            "bn": "ইয়া আইয়ুহাল মুদ্দাসসির: আরবিতে দুটি শব্দ, একটি ডাক আর একটি বিশেষণ। মাআরিফুল কুরআন শব্দটির মূল খুঁজে পায় দিসার-এ। দিসার হলো মোটা, গরম উপরের পোশাক, চাদর বা আলখাল্লার মতো, শীতে ঠান্ডা ঠেকাতে মানুষ যা অন্য কাপড়ের উপরে জড়ায়। কুরতুবী শব্দের গড়নটা বুঝিয়ে দেন। মুদ্দাসসির সে, যে কাপড়ে নিজেকে জড়িয়েছে, ঢেকে নিয়েছে, তারপর শুয়ে পড়েছে। আসল রূপ ছিল মুতাদাসসির। তা আর দাল উচ্চারণে কাছাকাছি বলে তা দালের ভেতরে মিশে গেছে। কুরতুবী আরও জানান, উবাই শব্দটি সেই আসল রূপেই পড়তেন।"
+            "bn": "ইয়া আইয়ুহাল মুদ্দাসসির: আরবিতে দুটি শব্দ: একটা ডাক, একটা বিশেষণ। মাআরিফুল কুরআন শব্দটির মূল খুঁজে পায় দিসার-এ। দিসার হলো মোটা, গরম উপরের পোশাক, যেমন চাদর বা আলখাল্লা। শীতের দিনে ঠান্ডা ঠেকাতে মানুষ অন্য কাপড়ের উপর এটা জড়িয়ে নেয়। কুরতুবী শব্দের গড়নটা বুঝিয়ে দেন। মুদ্দাসসির সে, যে কাপড়ে নিজেকে জড়িয়েছে, ঢেকে নিয়েছে, তারপর শুয়ে পড়েছে। আসল রূপ ছিল মুতাদাসসির। তা আর দাল হরফ দুটি উচ্চারণে কাছাকাছি, তাই তা হরফটি দালের মধ্যে মিশে গেছে। কুরতুবী আরও জানান, উবাই শব্দটি সেই আসল রূপেই পড়তেন।"
           },
           {
             "en": "At-Tabari's own gloss runs the same way: O you who wrap yourself in your clothes when you sleep. He records that the Prophet ﷺ was addressed so while wrapped in a qatifa, a thick-piled blanket, and cites Ibrahim saying of this verse: he was wrapped in a qatifa. The Muyassar, which explains 74:1 to 74:7 as one passage, renders the call as: O you who are covered with your clothes, rise from your bed. On its surface that is the whole verse: a man, a covering, and a voice that names him by it.",
-            "bn": "তাবারীর নিজের ব্যাখ্যাও একই দিকে যায়: হে সেই ব্যক্তি, যে ঘুমানোর সময় কাপড়ে নিজেকে জড়িয়ে নেয়। তিনি উল্লেখ করেন, নবী ﷺ-কে এই সম্বোধন করা হয়েছিল যখন তিনি একটি কাতীফা, মানে পুরু রোঁয়াওয়ালা কম্বলে জড়ানো ছিলেন। এ আয়াত প্রসঙ্গে ইবরাহীমের কথাও তিনি আনেন: তিনি কাতীফায় জড়ানো ছিলেন। মুয়াসসার ৭৪:১ থেকে ৭৪:৭ পর্যন্ত এক সঙ্গে ব্যাখ্যা করে, আর ডাকটিকে এভাবে বলে: হে কাপড়ে ঢাকা মানুষ, বিছানা ছেড়ে ওঠো। বাইরে থেকে দেখলে আয়াতে এটুকুই আছে। একজন মানুষ, একটি আবরণ, আর একটি কণ্ঠ, যা তাঁকে সেই আবরণের নামেই ডাকছে।"
+            "bn": "তাবারীর নিজের ব্যাখ্যাও একই দিকে যায়: হে সেই ব্যক্তি, যে ঘুমানোর সময় কাপড়ে নিজেকে জড়িয়ে নেয়। তিনি উল্লেখ করেন, নবী ﷺ তখন কাতীফা, মানে পুরু রোঁয়াওয়ালা কম্বলে জড়ানো ছিলেন, আর সে অবস্থাতেই তাঁকে এভাবে ডাকা হয়। এ আয়াত প্রসঙ্গে ইবরাহীমের কথাও তিনি আনেন: তিনি কাতীফায় জড়ানো ছিলেন। মুয়াসসার ৭৪:১ থেকে ৭৪:৭ পর্যন্ত এক সঙ্গে ব্যাখ্যা করে, আর ডাকটিকে এভাবে বলে: হে কাপড়ে ঢাকা মানুষ, বিছানা ছেড়ে ওঠো। বাইরে থেকে দেখলে আয়াতে এটুকুই আছে। একজন মানুষ, তাঁর গায়ের আবরণ, আর এক কণ্ঠ, যে তাঁকে সেই আবরণের নামেই ডাকছে।"
           }
         ]
       },
@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi then records an objection from Ibn al-Arabi: this is a far-fetched figure of speech, because he had not yet become a prophet. At-Tabari lays the two views side by side and, in his discussion of this verse, does not rule between them. So the readings stand as they were given. The literal cloak is held by Ibn Abbas and Qatada as at-Tabari reports them; the cloak of the mission is held by Ikrima, with Ibn al-Arabi's objection on record against it.",
-            "bn": "এরপর কুরতুবী ইবনুল আরাবীর একটি আপত্তি উল্লেখ করেন। তাঁর মতে এটি দূরের রূপক, কারণ তখনো তিনি নবী হননি। তাবারী দুটি মত পাশাপাশি রাখেন। এ আয়াতের আলোচনায় তিনি কোনোটির পক্ষে রায় দেননি। তাই ব্যাখ্যাগুলো যেমন এসেছে তেমনই থাকুক। তাবারীর বর্ণনায় ইবন আব্বাস আর কাতাদা বাহ্যিক চাদরের পক্ষে। ইকরিমা রিসালাতের চাদরের পক্ষে, আর তাঁর বিপক্ষে ইবনুল আরাবীর আপত্তিও লিপিবদ্ধ আছে।"
+            "bn": "এরপর কুরতুবী ইবনুল আরাবীর একটি আপত্তি উল্লেখ করেন। তাঁর মতে এটা দূরকল্পিত রূপক, কারণ তখনো তিনি নবী হননি। তাবারী দুটি মত পাশাপাশি রাখেন। এ আয়াতের আলোচনায় তিনি কোনোটির পক্ষে রায় দেননি। তাই ব্যাখ্যাগুলো যেমন এসেছে তেমনই থাকুক। তাবারীর বর্ণনায় ইবন আব্বাস আর কাতাদা বাহ্যিক চাদরের পক্ষে। রিসালাতের চাদরের পক্ষে ইকরিমা, আর এ মতের বিপক্ষে ইবনুল আরাবীর আপত্তিও লিপিবদ্ধ আছে।"
           }
         ]
       },
@@ -65,7 +65,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir calls this context al-mahfuz, the preserved one. Notice how closely the verse fits the moment. The Prophet ﷺ asked to be wrapped, and the first word of the revelation that came to him named him as the one wrapped. Abu Salama's gloss on rujz belongs to 74:5, and the closing line belongs to what came after: revelation, in the Arabic wording, grew warm and came in succession. The verse is the hinge between a silence and that steady flow.",
-            "bn": "ইবন কাসীর এই প্রেক্ষাপটকে বলেন মাহফুয, মানে সংরক্ষিত ও নির্ভরযোগ্য বর্ণনা। মুহূর্তটার সঙ্গে আয়াত কতটা মিলে যায়, খেয়াল করুন। নবী ﷺ চেয়েছিলেন তাঁকে জড়িয়ে দেওয়া হোক। আর তখন যে ওহি এল, তার প্রথম শব্দই তাঁকে ডাকল জড়ানো মানুষ বলে। রুজয নিয়ে আবু সালামার ব্যাখ্যা ৭৪:৫ আয়াতের বিষয়। শেষ বাক্যটি পরের সময়ের কথা। আরবি শব্দে ওহি তখন উষ্ণ হয়ে ওঠে, একটার পর একটা আসতে থাকে। এ আয়াত তাই এক নীরবতা আর সেই অবিরাম ধারার মাঝখানের সেতু।"
+            "bn": "ইবন কাসীর এই প্রেক্ষাপটকে বলেন মাহফুয, মানে সংরক্ষিত বর্ণনা। মুহূর্তটার সঙ্গে আয়াত কতটা মিলে যায়, খেয়াল করুন। নবী ﷺ চেয়েছিলেন তাঁকে জড়িয়ে দেওয়া হোক। আর তখন যে ওহি এল, তার প্রথম শব্দই তাঁকে ডাকল জড়ানো মানুষ বলে। রুজয নিয়ে আবু সালামার ব্যাখ্যা ৭৪:৫ আয়াতের বিষয়। শেষ বাক্যটি পরের সময়ের কথা। আরবি শব্দে ওহি তখন উষ্ণ হয়ে ওঠে, একটার পর একটা আসতে থাকে। এ আয়াত তাই এক নীরবতা আর সেই অবিরাম ধারার মাঝখানের সেতু।"
           }
         ]
       },
@@ -169,19 +169,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi glosses dharni as da'ni, let Me be, and reads man khalaqtu as the one whom I created, with the object pronoun understood rather than spoken. That small gap matters, because the last word, wahidan, alone, is a description of state, and whose state it describes, the created man's or the Creator's, is where the commentators part ways. It also helps to hear the verse in its place. Four verses earlier the Prophet ﷺ was told, wa-li-rabbika fa-sbir, for your Lord be patient (74:7). Here is someone that patience would be needed for.",
-            "bn": "কুরতুবী যারনী শব্দের অর্থ করেন দা'নী, আমাকে থাকতে দাও। আর মান খালাকতু মানে, যাকে আমি সৃষ্টি করেছি। এখানে কর্মবাচক সর্বনামটি উচ্চারিত হয়নি, উহ্য রয়ে গেছে। এই ছোট ফাঁকটুকুর গুরুত্ব আছে। কারণ শেষ শব্দ ওয়াহীদা, অর্থাৎ একা, একটি অবস্থার বর্ণনা। সে অবস্থা কার, সৃষ্ট মানুষটির নাকি স্রষ্টার, সেখানেই তাফসীরকারদের পথ আলাদা হয়। আয়াতটিকে তার জায়গায় রেখে শোনাও দরকার। চারটি আয়াত আগে নবী ﷺ-কে বলা হয়েছিল, ওয়ালি রাব্বিকা ফাসবির, তোমার রবের জন্য ধৈর্য ধরো (৭৪:৭)। এখানে সেই মানুষটি, যার সামনে ওই ধৈর্যের দরকার পড়বে।"
+            "bn": "কুরতুবী যারনী শব্দের অর্থ করেন দা'নী, আমাকে থাকতে দাও। আর মান খালাকতু মানে, যাকে আমি সৃষ্টি করেছি। এখানে 'তাকে' শব্দটি মুখে বলা হয়নি, উহ্য রয়ে গেছে। এই ছোট ফাঁকটুকুর গুরুত্ব আছে। কারণ শেষ শব্দ ওয়াহীদা, অর্থাৎ একা, একটি অবস্থার বর্ণনা। সে অবস্থা কার, সৃষ্ট মানুষটির নাকি স্রষ্টার, সেখানেই তাফসীরকারদের পথ আলাদা হয়। আয়াতটিকে তার জায়গায় রেখে শোনাও দরকার। চারটি আয়াত আগে নবী ﷺ-কে বলা হয়েছিল, ওয়ালি রাব্বিকা ফাসবির, তোমার রবের জন্য ধৈর্য ধরো (৭৪:৭)। এখানে সেই মানুষটি, যার সামনে ওই ধৈর্যের দরকার পড়বে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Threat, and a Handing Over",
-          "bn": "হুমকি, আবার দায়ভার তুলে নেওয়া"
+          "bn": "হুমকি, আবার ভার সঁপে দেওয়া"
         },
         "p": [
           {
             "en": "Who is dharni spoken to, and what does it do? Al-Qurtubi calls it a word of wa'id and tahdid, a promise of punishment and a threat. Ibn Kathir opens his comment the same way: Allah speaks here threatening this wicked man, whom He had favoured with the blessings of this world, who was ungrateful for them, met them with denial of His signs and invented lies against those signs. On this reading the sentence faces the man, and its force lies in who has taken up the matter. He will now deal with Allah directly.",
-            "bn": "যারনী কাকে বলা হচ্ছে, আর কথাটা কী কাজ করে? কুরতুবী একে বলেন ওয়াঈদ ও তাহদীদের শব্দ, অর্থাৎ শাস্তির ঘোষণা আর হুমকি। ইবন কাসীরও তাঁর ব্যাখ্যা শুরু করেন একইভাবে। আল্লাহ এখানে এই দুরাচারকে হুমকি দিচ্ছেন। তাকে তিনি দুনিয়ার নিয়ামত দিয়েছিলেন, অথচ সে সেই নিয়ামতের নাশুকরি করেছে, আল্লাহর আয়াত অস্বীকার করে তার জবাব দিয়েছে, আর সেই আয়াত নিয়ে মিথ্যা রটিয়েছে। এ পাঠে বাক্যটির মুখ লোকটির দিকে। এর জোর এখানেই যে বিষয়টা কে হাতে নিলেন। এখন থেকে তার মোকাবিলা সরাসরি আল্লাহর সঙ্গে।"
+            "bn": "যারনী কাকে বলা হচ্ছে, আর কথাটা কী কাজ করে? কুরতুবী একে বলেন ওয়াঈদ ও তাহদীদের শব্দ, অর্থাৎ শাস্তির ঘোষণা আর হুমকি। ইবন কাসীরও তাঁর ব্যাখ্যা শুরু করেন একইভাবে। আল্লাহ এখানে এই দুরাচারকে হুমকি দিচ্ছেন। তাকে তিনি দুনিয়ার নিয়ামত দিয়েছিলেন, অথচ সে নিয়ামতের নাশুকরি করেছে, তার জবাবে আল্লাহর আয়াত অস্বীকার করেছে, আর সেই আয়াত নিয়ে মিথ্যা রটিয়েছে। এ পাঠে বাক্যটি লোকটির দিকে ফেরানো। এর জোর এখানে: বিষয়টা কে নিজের হাতে নিলেন। এখন থেকে তার মোকাবিলা সরাসরি আল্লাহর সঙ্গে।"
           },
           {
             "en": "At-Tabari hears the same words as addressed to the Prophet ﷺ, and paraphrases them as a handing over: kil, ya Muhammad, entrust to Me, O Muhammad, the affair of the one I created alone in his mother's womb. Al-Muyassar likewise begins, let Me be, O Messenger, with the one I created. Al-Qurtubi records a further reading from a group who take wahidan to refer to Allah, one sense of which is: leave Me alone with him, for I will take vengeance on him for you, sufficing you in place of anyone else who might avenge you.",
@@ -201,7 +201,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names no one. Every commentary fetched for it names the same man: al-Walid ibn al-Mughira, whom at-Tabari, al-Qurtubi, al-Baghawi and the English Ibn Kathir all call al-Makhzumi, of the clan of Makhzum. Al-Qurtubi states it as the position of the commentators as a body. As-Sa'di says these verses came down about al-Walid, the opponent of the truth who came out openly in war and hostility against Allah and His Messenger. Al-Muyassar says the one intended by this threat is al-Walid, and the English Ibn Kathir adds that he was one of the chiefs of Quraysh.",
-            "bn": "আয়াতে কারও নাম নেই। কিন্তু এ আয়াতের জন্য যত তাফসীর আনা হয়েছে, সবগুলো একই মানুষের নাম বলে: ওয়ালীদ ইবনুল মুগীরা। তাবারী, কুরতুবী, বাগাভী আর ইংরেজি ইবন কাসীর তাঁকে মাখযূমী বলেন, অর্থাৎ মাখযূম গোত্রের লোক। কুরতুবী এটাকে মুফাসসিরদের সম্মিলিত মত হিসেবে তুলে ধরেন। সা'দী বলেন, এ আয়াতগুলো নাজিল হয়েছে ওয়ালীদ সম্পর্কে, যে ছিল সত্যের বিরোধী, আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে খোলাখুলি যুদ্ধ আর শত্রুতায় নেমেছিল। মুয়াসসার বলে, এই হুমকির লক্ষ্য ওয়ালীদ। ইংরেজি ইবন কাসীর যোগ করেন, সে ছিল কুরাইশের নেতাদের একজন।"
+            "bn": "আয়াতে কারও নাম নেই। কিন্তু এ আয়াতের জন্য যত তাফসীর আনা হয়েছে, সবগুলো একই মানুষের নাম বলে: ওয়ালীদ ইবনুল মুগীরা। তাবারী, কুরতুবী, বাগাভী আর ইংরেজি ইবন কাসীর তাকে মাখযূমী বলেন, অর্থাৎ মাখযূম গোত্রের লোক। কুরতুবী এটাকে মুফাসসিরদের সম্মিলিত মত হিসেবে তুলে ধরেন। সা'দী বলেন, এ আয়াতগুলো নাজিল হয়েছে ওয়ালীদ সম্পর্কে, যে ছিল সত্যের বিরোধী, আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে খোলাখুলি যুদ্ধ আর শত্রুতায় নেমেছিল। মুয়াসসার বলে, এই হুমকির লক্ষ্য ওয়ালীদ। ইংরেজি ইবন কাসীর যোগ করেন, সে ছিল কুরাইশের নেতাদের একজন।"
           },
           {
             "en": "At-Tabari introduces the identification with dhukira, it has been mentioned, and then gives his reports. Mujahid, Qatada, Ibn Zayd and ad-Dahhak each name al-Walid, Ibn Zayd for the whole passage from this verse to I will burn him in Saqar (74:26). None of the fetched sources gives a different name, so there is no rival identification to keep. Al-Qurtubi adds why one man is singled out when all people are created as he was: because he stood apart in denying the favour he received and in harming the Messenger ﷺ.",
@@ -221,7 +221,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The English Ibn Kathir gives a longer story, as one of the narrations, from al-'Awfi from Ibn 'Abbas: al-Walid visited Abu Bakr and asked about the Qur'an, spoke well of it to Quraysh, and was then shamed by Abu Jahl into taking it back. So Allah revealed from this verse to it spares nothing and leaves nothing (74:28). What he said in the end belongs to 74:18 to 74:25. Ibn Kathir does not grade this chain. No fetched commentary attaches a narration from the hadith collections to this verse, so none is quoted here.",
-            "bn": "ইংরেজি ইবন কাসীর একটি দীর্ঘ কাহিনি আনেন, কয়েকটি বর্ণনার একটি হিসেবে, আওফী থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে। ওয়ালীদ আবু বকর (রাঃ)-এর কাছে গিয়ে কুরআন সম্পর্কে জানতে চায়। তারপর কুরাইশের কাছে ফিরে কুরআনের প্রশংসা করে। পরে আবু জাহলের খোঁচায় লজ্জা পেয়ে সে কথা ফিরিয়ে নেয়। তখন আল্লাহ এ আয়াত থেকে 'তা কিছুই বাকি রাখে না, কিছুই ছাড়ে না' (৭৪:২৮) পর্যন্ত নাজিল করেন। শেষে সে কী বলেছিল, সে আলোচনা ৭৪:১৮ থেকে ৭৪:২৫ আয়াতের। ইবন কাসীর এ সনদেরও মান বলেননি। আনা কোনো তাফসীর এ আয়াতের সঙ্গে হাদীসগ্রন্থের কোনো বর্ণনা জোড়েনি, তাই এখানে কোনো হাদীস উদ্ধৃত হলো না।"
+            "bn": "ইংরেজি ইবন কাসীর কয়েকটি বর্ণনার একটি হিসেবে আরও দীর্ঘ এক কাহিনি আনেন, আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে। ওয়ালীদ আবু বকর (রাঃ)-এর কাছে গিয়ে কুরআন সম্পর্কে জানতে চায়। তারপর কুরাইশের কাছে ফিরে কুরআনের প্রশংসা করে। পরে আবু জাহলের খোঁচায় লজ্জা পেয়ে সে কথা ফিরিয়ে নেয়। তখন আল্লাহ এ আয়াত থেকে 'তা কিছুই বাকি রাখে না, কিছুই ছাড়ে না' (৭৪:২৮) পর্যন্ত নাজিল করেন। শেষে সে কী বলেছিল, সে আলোচনা ৭৪:১৮ থেকে ৭৪:২৫ আয়াতের। ইবন কাসীর এ সনদেরও মান বলেননি। আনা কোনো তাফসীর এ আয়াতের সঙ্গে হাদিসগ্রন্থের কোনো বর্ণনা জোড়েনি, তাই এখানে কোনো হাদিস উদ্ধৃত হলো না।"
           }
         ]
       },
@@ -237,18 +237,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir frames the verse as Allah counting His favours against the man: he came out of his mother's womb alone, without wealth or child, and then Allah provided for him. Al-Baghawi and al-Muyassar both say wahidan faridan, alone and single, with no wealth and no child. As-Sa'di widens the emptiness: alone, without wealth, without family, without anything else, and then I did not cease to make him grow and to raise him. The gifts themselves, wealth spread wide and sons at his side, are the next three verses (74:12 to 74:14).",
-            "bn": "ইবন কাসীর আয়াতটিকে দেখেন এভাবে: আল্লাহ লোকটির সামনে নিজের দেওয়া নিয়ামতগুলো গুনে দেখাচ্ছেন। সে মায়ের পেট থেকে বেরিয়েছিল একা, সম্পদ বা সন্তান ছাড়া, তারপর আল্লাহ তাকে রিজিক দিয়েছেন। বাগাভী আর মুয়াসসার দুজনেই বলেন ওয়াহীদান ফারীদা, একা ও নিঃসঙ্গ, না সম্পদ, না সন্তান। সা'দী শূন্যতার পরিধি আরও বাড়ান: একা, সম্পদ নেই, পরিবার নেই, আর কিছুই নেই। তারপর আমি তাকে ক্রমাগত বাড়িয়ে তুলেছি, লালন করেছি। দানগুলোর কথা, বিস্তৃত সম্পদ আর পাশে থাকা ছেলেরা, আসে পরের তিনটি আয়াতে (৭৪:১২ থেকে ৭৪:১৪)।"
+            "bn": "ইবন কাসীর আয়াতটিকে দেখেন এভাবে: আল্লাহ লোকটির সামনে নিজের দেওয়া নিয়ামতগুলো গুনে দেখাচ্ছেন। সে মায়ের পেট থেকে বেরিয়েছিল একা, সম্পদ বা সন্তান ছাড়া, তারপর আল্লাহ তাকে রিজিক দিয়েছেন। বাগাভী আর মুয়াসসার দুজনেই বলেন ওয়াহীদান ফারীদা, একা ও নিঃসঙ্গ, না সম্পদ, না সন্তান। সা'দী শূন্যতার পরিধি আরও বাড়ান: একা, সম্পদ নেই, পরিবার নেই, আর কিছুই নেই। তারপর আমি তাকে ক্রমাগত বাড়িয়ে তুলেছি, লালন করেছি। দানগুলোর কথা আসছে পরের তিনটি আয়াতে (৭৪:১২ থেকে ৭৪:১৪): বিস্তৃত সম্পদ, আর পাশে থাকা ছেলেরা।"
           },
           {
             "en": "One line in at-Tabari keeps this reading from becoming a fact about one man only. Mujahid, in a second report, says the verse came down about al-Walid, and then adds: wa-kadhalika al-khalqu kulluhum, and so are all of creation. Al-Qurtubi makes the same point: people were all created as he was. The description in wahidan fits every reader of the verse. What singles out its subject is what he did with what came after. The verse invites a reader to set his own possessions against the morning he was born and see how much of them is a gift.",
-            "bn": "তাবারীর একটি লাইন এই অর্থকে শুধু এক ব্যক্তির ঘটনা হয়ে থাকতে দেয় না। আরেক বর্ণনায় মুজাহিদ বলেন, আয়াতটি ওয়ালীদ সম্পর্কে নাজিল হয়েছে। তারপর যোগ করেন: ওয়া কাযালিকাল খালকু কুল্লুহুম, আর সব সৃষ্টিই এমন। কুরতুবীও একই কথা বলেন: সব মানুষ তার মতো করেই সৃষ্টি হয়েছে। ওয়াহীদা শব্দের এই বর্ণনা আয়াতের প্রত্যেক পাঠকের বেলায় খাটে। আয়াতের লক্ষ্য যে মানুষটি, তাকে আলাদা করেছে পরে পাওয়া জিনিস নিয়ে তার আচরণ। আয়াতটি পাঠককে ডাকে নিজের সম্পদকে জন্মের সেই দিনের পাশে রেখে দেখতে, তার কতটা দান।"
+            "bn": "তাবারীর একটি লাইন এই অর্থকে শুধু এক ব্যক্তির ঘটনা হয়ে থাকতে দেয় না। আরেক বর্ণনায় মুজাহিদ বলেন, আয়াতটি ওয়ালীদ সম্পর্কে নাজিল হয়েছে। তারপর যোগ করেন: ওয়া কাযালিকাল খালকু কুল্লুহুম, আর সব সৃষ্টিই এমন। কুরতুবীও একই কথা বলেন: সব মানুষ তার মতো করেই সৃষ্টি হয়েছে। ওয়াহীদা শব্দের এই বর্ণনা আয়াতের প্রত্যেক পাঠকের বেলায় খাটে। আয়াতের লক্ষ্য যে মানুষটি, তাকে আলাদা করেছে পরে পাওয়া জিনিস নিয়ে তার আচরণ। আয়াতটি পাঠককে ডাকে: জন্মের সেই সকালের পাশে নিজের সম্পদ রেখে দেখুন, এর কতটা আসলে দান।"
           }
         ]
       },
       {
         "h": {
           "en": "Alone Belongs to the Creator",
-          "bn": "একক যখন স্রষ্টা নিজে"
+          "bn": "যখন 'একা' স্রষ্টার বিশেষণ"
         },
         "p": [
           {
@@ -281,7 +281,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes one man of the Prophet's own time, and what the text says of him. It licenses nothing against any living person or community, and it gives no one the right to name a modern al-Walid and pass sentence on him. The verse itself keeps that role for Allah: leave Me with him. A reader who takes up the judgement has stepped into a place that, on at-Tabari's reading, even the Prophet ﷺ was told to leave to Allah.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর সমকালের একজন মানুষের বর্ণনা দেয়, আর তার সম্পর্কে পাঠ্যে যা আছে, শুধু তা-ই বলে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আজকের কাউকে ওয়ালীদ বলে চিহ্নিত করে তার উপর রায় দেওয়ার অধিকারও কাউকে দেয় না। সে ভার আয়াত নিজেই আল্লাহর জন্য রেখে দিয়েছে: তাকে আমার হাতে ছেড়ে দাও। যে পাঠক নিজে বিচারকের আসনে বসে, সে এমন জায়গায় গিয়ে দাঁড়ায়, তাবারীর পাঠ অনুযায়ী যে জায়গা স্বয়ং নবী ﷺ-কেও আল্লাহর হাতে ছেড়ে দিতে বলা হয়েছিল।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর সমকালের একজন মানুষের বর্ণনা দেয়, আর তার সম্পর্কে পাঠ্যে যা আছে, শুধু তা-ই বলে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আজকের কাউকে ওয়ালীদ বলে চিহ্নিত করে তার উপর রায় দেওয়ার অধিকারও কাউকে দেয় না। সে ভার আয়াত নিজেই আল্লাহর জন্য রেখে দিয়েছে: তাকে আমার হাতে ছেড়ে দাও। যে পাঠক নিজেই বিচারকের আসনে বসে, সে এমন জায়গায় পা রাখে, যা তাবারীর পাঠে স্বয়ং নবী ﷺ-কেও আল্লাহর হাতে ছেড়ে দিতে বলা হয়েছিল।"
           },
           {
             "en": "Where the commentators widen the verse, they widen it to a kind of conduct. As-Sa'di says Allah censured this man as He censured no other, and that this is the recompense of everyone who opposes the truth and casts it aside: disgrace in this world, and the punishment of the Hereafter is more disgraceful still. Al-Muyassar closes with the same sentence. Ma'arif al-Qur'an says the weight of his punishment will match the weight of his sins. Each is a warning about a deed, not a label for a people.",
@@ -329,7 +329,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Wa mahhadtu lahu tamhida: and I smoothed things for him, a thorough smoothing. The verb is followed by its own verbal noun, which in Arabic presses the meaning home. Ibn Kathir reads it as making it possible for him to amass wealth, luxuries and more; the Muyassar as easing his means of living. Al-Baghawi lists the same three, wealth, children and tamhid, as the things he hoped to see increased. The verse that names the third gift is also the last verse before the hope.",
-            "bn": "ওয়া মাহহাদতু লাহু তামহীদা: আর আমি তার জন্য সবকিছু মসৃণ করে দিয়েছি, পুরোপুরি মসৃণ। ক্রিয়ার পরে একই ধাতুর ক্রিয়াবিশেষ্য এসেছে, আরবিতে এভাবে অর্থটায় জোর পড়ে। ইবন কাসীরের ব্যাখ্যায় এর মানে, তার জন্য সম্পদ, বিলাস আর আরও অনেক কিছু জমানো সম্ভব করে দেওয়া। মুয়াসসারের ব্যাখ্যায়, তার জীবিকার উপায় সহজ করে দেওয়া। বাগাভী এই তিনটিকেই, অর্থাৎ সম্পদ, সন্তান আর তামহীদ, সেই জিনিস হিসেবে গোনেন যা সে আরও বাড়ুক বলে আশা করত। তৃতীয় দানের আয়াতটিই আশার আগের শেষ আয়াত।"
+            "bn": "ওয়া মাহহাদতু লাহু তামহীদা: আর আমি তার জন্য সবকিছু মসৃণ করে দিয়েছি, পুরোপুরি মসৃণ। ক্রিয়ার পরে একই ধাতুর ক্রিয়াবিশেষ্য এসেছে, আরবিতে এভাবে অর্থটায় জোর পড়ে। ইবন কাসীরের ব্যাখ্যায় এর মানে, তার জন্য সম্পদ, বিলাস আর আরও অনেক কিছু জমানো সম্ভব করে দেওয়া। মুয়াসসারের ব্যাখ্যায়, তার জীবিকার উপায় সহজ করে দেওয়া। বাগাভী এই তিনটিই গোনেন: সম্পদ, সন্তান আর তামহীদ। এগুলোই সে আরও বাড়ুক বলে আশা করত। তৃতীয় দানের আয়াতটিই আশার আগের শেষ আয়াত।"
           }
         ]
       },
@@ -361,7 +361,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the fault lies somewhere other than in hoping. The Muyassar places it in a short clause, wa qad kafara bi, while he has disbelieved in Me, and al-Qurtubi in the phrase with his ingratitude for the blessings. Ibrahim's hope rose from a life turned towards his Lord, and the mercy of 7:56 is near to those who do good. This hope rose out of wealth while its owner stood against the signs. The verb is the same; the footing is opposite.",
-            "bn": "তাহলে দোষটা আশার মধ্যে নয়, অন্য কোথাও। মুয়াসসার সেটা রাখে এক ছোট বাক্যাংশে: ওয়া কাদ কাফারা বী, অথচ সে আমাকে অস্বীকার করেছে। কুরতুবী রাখেন এই কথায়: নিয়ামতের প্রতি তার না-শুকরির সঙ্গে। ইবরাহীম (আঃ)-এর আশা জন্মেছিল এমন জীবন থেকে, যা রবের দিকে ফেরানো ছিল। ৭:৫৬ আয়াতের রহমতও সৎকর্মশীলদের কাছে। আর এ আশা জন্মেছে সম্পদের ভেতর থেকে, যখন তার মালিক নিদর্শনের বিরুদ্ধে দাঁড়িয়ে। ক্রিয়াটা একই, কিন্তু দাঁড়ানোর জায়গা একেবারে উল্টো।"
+            "bn": "তাহলে দোষটা আশার মধ্যে নয়, অন্য কোথাও। মুয়াসসার সেটা রাখে এক ছোট বাক্যাংশে: ওয়া কাদ কাফারা বী, অথচ সে আমাকে অস্বীকার করেছে। কুরতুবী রাখেন এই কথায়: নিয়ামতের প্রতি তার না-শুকরির সঙ্গে। ইবরাহীম (আঃ)-এর আশা জন্মেছিল এমন জীবন থেকে, যা রবের দিকে ফেরানো ছিল। ৭:৫৬ আয়াতের রহমতও সৎকর্মশীলদের কাছে। আর এ আশা জন্মেছে সম্পদের ভেতর থেকে, অথচ তার মালিক তখন নিদর্শনের বিরুদ্ধে দাঁড়িয়ে ছিল। ক্রিয়াটা একই, কিন্তু দাঁড়ানোর জায়গা একেবারে উল্টো।"
           }
         ]
       },
@@ -429,7 +429,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes what the text describes: one man, whom the sources name, who met three great gifts with obstinacy towards the signs and still expected more. It licenses nothing against any living person or community. It gives no warrant to look at the wealthy, the well-placed or the father of many sons today and read this verse onto them. Allah speaks of the wealth, the sons and the ease as His own giving, and Ma'arif al-Qur'an calls sons at hand a blessing.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত সেটুকুই বর্ণনা করে, যা তাতে আছে: একজন মানুষ, সূত্রগুলো যার নাম বলে দেয়, যে তিনটি বড় দানের জবাব দিয়েছে নিদর্শনের প্রতি একগুঁয়েমি দিয়ে, তবু আরও আশা করেছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের কোনো ধনী, প্রভাবশালী বা অনেক ছেলের বাবার দিকে তাকিয়ে এ আয়াত তার গায়ে চাপানোর অধিকারও কাউকে দেয় না। সম্পদ, ছেলেরা আর সচ্ছলতাকে আল্লাহ নিজের দান বলেছেন, আর মাআরিফুল কুরআন কাছে থাকা সন্তানকে নিয়ামতই বলে।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত শুধু তা-ই বর্ণনা করে, যা তাতে আছে। একজন মানুষ, সূত্রগুলো যার নাম বলে দেয়। তিনটি বড় দানের জবাব সে দিয়েছে নিদর্শনের প্রতি একগুঁয়েমি দিয়ে, তবু আরও আশা করেছে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের কোনো ধনী, প্রভাবশালী বা অনেক ছেলের বাবার দিকে তাকিয়ে এ আয়াত তার গায়ে চাপানোর অধিকারও কাউকে দেয় না। সম্পদ, ছেলেরা আর সচ্ছলতাকে আল্লাহ নিজের দান বলেছেন, আর মাআরিফুল কুরআন কাছে থাকা সন্তানকে নিয়ামতই বলে।"
           },
           {
             "en": "Read that way, the verse becomes a mirror rather than a pointer. Every reader holds some list of what Allah has given, and every reader hopes for more, which 7:56 commands. The question the verse leaves is what the hope stands on. Ibrahim (AS) hoped with his face towards his Lord; this man hoped with his back to the signs. Before asking for more, it is worth counting the list once, naming its Giver, and asking what each gift was for.",
@@ -449,7 +449,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Thumma adbara wa-stakbara: then he turned his back, and he was arrogant. The verse is three Arabic words, and it is the last link in a chain of thumma, then, that runs through 74:20, 74:21 and 74:22. He looked, he frowned and scowled, and now he turns and lifts himself up. In 74:24 the word changes. Fa-qala, so he said: the next step is speech, and the speech is the verdict he finally pronounced on the Quran. This verse is the hinge between the face and the tongue.",
-            "bn": "সুম্মা আদবারা ওয়াসতাকবারা: তারপর সে পিঠ ফেরাল আর অহংকার করল। আরবিতে মাত্র তিনটি শব্দ। ৭৪:২০, ৭৪:২১ আর ৭৪:২২ আয়াত জুড়ে 'সুম্মা' অর্থাৎ 'তারপর' দিয়ে যে শিকল গাঁথা, এ আয়াত তার শেষ কড়া। সে তাকাল, ভ্রু কুঁচকাল, মুখ কালো করল। এবার সে ঘুরে দাঁড়াল আর নিজেকে উঁচুতে তুলল। ৭৪:২৪ আয়াতে এসে শব্দটা বদলে যায়। 'ফাকালা', অতঃপর সে বলল। পরের ধাপ কথা, আর সেই কথাই কুরআন সম্পর্কে তার শেষ রায়। চেহারা আর জিহ্বার মাঝখানের কবজা হলো এই আয়াত।"
+            "bn": "সুম্মা আদবারা ওয়াসতাকবারা: তারপর সে পিঠ ফেরাল আর অহংকার করল। আরবিতে মাত্র তিনটি শব্দ। ৭৪:২০, ৭৪:২১ আর ৭৪:২২ আয়াত জুড়ে 'সুম্মা' অর্থাৎ 'তারপর' দিয়ে যে শিকল গাঁথা, এ আয়াত তার শেষ কড়া। সে তাকাল, ভ্রু কুঁচকাল, মুখ কালো করল। এবার সে ঘুরে দাঁড়াল আর নিজেকে উঁচুতে তুলল। ৭৪:২৪ আয়াতে এসে শব্দটা বদলে যায়। 'ফাকালা', অতঃপর সে বলল। পরের ধাপ কথা, আর সেই কথাই কুরআন সম্পর্কে তার শেষ রায়। চেহারা আর জিভের মাঝখানের জোড় এই আয়াত।"
           },
           {
             "en": "The commentators fetched for this passage name the man as al-Walid ibn al-Mughira al-Makhzumi; who he was, and what he was given, belong to 74:11 and the verses after it. This article stays with one moment in his story: the turn. It asks what he turned from, what the arrogance was, how the commentators read the two verbs, and what the reports say happened around them. The verdict of 74:24 and 74:25 appears only as the place the turn led, not as a subject of its own.",
@@ -481,15 +481,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names no object. It does not say what he turned from or what he was too proud for; the commentators supply it. Ibn Kathir writes that he was turned away from the truth, wa-raja'a al-qahqara, and went back walking backwards, mustakbiran 'an al-inqiyad li-l-Quran, too proud to yield to the Quran. Al-qahqara is retreat without turning round, the face still turned to what is being left. The image fits the verses before it: he had looked straight at the thing, and then gave ground.",
-            "bn": "আয়াতে কোনো কর্ম নেই। সে কী থেকে ফিরল, কিসের ব্যাপারে অহংকার করল, আয়াত তা বলে না। এই ফাঁকটা পূরণ করেন তাফসীরকারেরা। ইবন কাসীর লেখেন, তাকে সত্য থেকে ফিরিয়ে দেওয়া হলো, আর সে 'রাজা'আল কাহকারা', উল্টো পায়ে পিছিয়ে গেল, কুরআনের কাছে নত হওয়াকে অহংকারে প্রত্যাখ্যান করে। 'কাহকারা' মানে মুখ না ঘুরিয়ে পেছন দিকে হাঁটা। যেটা ছেড়ে যাচ্ছে, মুখ তখনো সেদিকেই। আগের আয়াতগুলোর সঙ্গে ছবিটা মিলে যায়। জিনিসটার দিকে সে সোজাসুজি তাকিয়েছিল, তারপর পিছু হটল।"
+            "bn": "সে কী থেকে ফিরল, কিসের ব্যাপারে অহংকার করল, আয়াত তা বলে না। এই ফাঁকটা পূরণ করেন তাফসীরকারেরা। ইবন কাসীর লেখেন, তাকে সত্য থেকে ফিরিয়ে দেওয়া হলো, আর সে 'রাজা'আল কাহকারা', উল্টো পায়ে পিছিয়ে গেল, কুরআনের কাছে নত হওয়াকে অহংকারে প্রত্যাখ্যান করে। 'কাহকারা' মানে মুখ না ঘুরিয়ে পেছন দিকে হাঁটা। যেটা ছেড়ে যাচ্ছে, মুখ তখনো সেদিকেই। আগের আয়াতগুলোর সঙ্গে ছবিটা মিলে যায়। জিনিসটার দিকে সে সোজাসুজি তাকিয়েছিল, তারপর পিছু হটল।"
           },
           {
             "en": "At-Tabari's comment on the verse, which the edition fetched here carries under 74:24, gives two objects, each verb receiving its own. Thumma walla 'an al-iman wa-t-tasdiq bima anzala Allah min kitabihi: he turned away from faith and from affirming what Allah had sent down of His Book. Wa-stakbara 'an al-iqrar bi-l-haqq: and he was too proud to acknowledge the truth. So the turning is from belief and the pride is against admission. The Muyassar keeps both together: he went back turning away from the truth, and held himself above admitting it.",
-            "bn": "এ আয়াতে তাবারীর ব্যাখ্যা, যা আমাদের খোলা সংস্করণে ৭৪:২৪ আয়াতের অধীনে এসেছে, দুই ক্রিয়ার জন্য দুটি কর্ম ঠিক করে দেয়। প্রথমটি: সে ঈমান থেকে মুখ ফেরাল, আর আল্লাহ তাঁর কিতাবে যা নাযিল করেছেন তাকে সত্য বলে মানা থেকেও। দ্বিতীয়টি: সত্যকে স্বীকার করতে সে অহংকার করল। ফলে ফেরাটা বিশ্বাস থেকে, আর অহংকারটা স্বীকারোক্তির বিরুদ্ধে। মুয়াসসার দুটোকে একসঙ্গে রাখে: সে সত্য থেকে মুখ ঘুরিয়ে ফিরে গেল, আর তা স্বীকার করাকে নিজের মর্যাদার নিচে ভাবল।"
+            "bn": "এ আয়াতে তাবারীর ব্যাখ্যা আমাদের খোলা সংস্করণে এসেছে ৭৪:২৪ আয়াতের অধীনে। সেখানে তিনি দুই ক্রিয়ার জন্য আলাদা আলাদা লক্ষ্য বলে দেন। প্রথমটি: সে ঈমান থেকে মুখ ফেরাল, আর আল্লাহ তাঁর কিতাবে যা নাজিল করেছেন তাকে সত্য বলে মানা থেকেও। দ্বিতীয়টি: সত্যকে স্বীকার করতে সে অহংকার করল। ফলে ফেরাটা বিশ্বাস থেকে, আর অহংকারটা স্বীকার করার বিরুদ্ধে। মুয়াসসার দুটোকে একসঙ্গে রাখে: সে সত্য থেকে মুখ ঘুরিয়ে ফিরে গেল, আর তা স্বীকার করাকে নিজের মর্যাদার নিচে ভাবল।"
           },
           {
             "en": "Put side by side, the objects differ in wording but point the same way: the truth, in Ibn Kathir and the Muyassar; faith and affirming the revealed Book, in at-Tabari; yielding to the Quran, again in Ibn Kathir. None of them describes an argument he failed to follow. In every gloss he turns from the truth itself, and the Muyassar's phrase, too proud to admit it, speaks of a man who was in a position to admit it. That is why the verse needs no object. The turning is the whole act.",
-            "bn": "পাশাপাশি রাখলে দেখা যায়, শব্দে কর্মগুলো আলাদা, কিন্তু দিক একটাই। ইবন কাসীর ও মুয়াসসারে তা সত্য। তাবারীতে ঈমান আর নাযিল হওয়া কিতাবকে সত্য বলে মানা। ইবন কাসীরে আবার কুরআনের কাছে নত হওয়া। কেউই এমন কোনো যুক্তির কথা বলেন না, যা তার বোধে আসেনি। প্রতিটি ব্যাখ্যায় সে ফিরছে খোদ সত্য থেকে। আর মুয়াসসারের কথা, স্বীকার করতে অহংকার, এমন লোকের কথা বলে, যার স্বীকার করার মতো অবস্থা ছিল। এ কারণেই আয়াতের কোনো কর্মের দরকার পড়ে না। ফিরে যাওয়াটাই পুরো কাজ।"
+            "bn": "পাশাপাশি রাখলে দেখা যায়, ভাষা আলাদা হলেও সবার ইশারা একই দিকে। ইবন কাসীর ও মুয়াসসারে সেটা সত্য। তাবারীতে ঈমান আর নাজিল হওয়া কিতাবকে সত্য বলে মানা। ইবন কাসীরে আবার কুরআনের কাছে নত হওয়া। কেউই বলেন না যে কোনো যুক্তি সে বুঝতে পারেনি। প্রতিটি ব্যাখ্যায় সে ফিরছে খোদ সত্য থেকে। আর মুয়াসসারের কথা, স্বীকার করতে অহংকার, এমন লোকের কথা বলে, যার স্বীকার করার মতো অবস্থা ছিল। এ কারণেই সে কী থেকে ফিরল, আয়াতে তা আলাদা করে বলার দরকার পড়ে না। ফিরে যাওয়াটাই পুরো কাজ।"
           }
         ]
       },
@@ -537,7 +537,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari, under 74:24, gives a longer account in the words of Ibn Zayd. He told his people he would probe the man for them that night, found the Prophet ﷺ standing in prayer and reciting, and came back saying he had heard speech sweet, fresh and fruitful that takes hold of hearts. They said poetry; he denied it, saying nobody knew poetry better than he did. They said soothsaying; he denied that too. They said ancient magic, copied down. He said: I do not know; if it is anything, perhaps it is magic handed down.",
-            "bn": "তাবারী ৭৪:২৪ আয়াতের অধীনে ইবন যায়দের ভাষায় আরও দীর্ঘ এক বর্ণনা দেন। সে লোকদের বলল, আজ রাতে আমি এই লোককে যাচাই করে আসব। গিয়ে দেখল, নবী ﷺ দাঁড়িয়ে নামাজ পড়ছেন আর তিলাওয়াত করছেন। ফিরে এসে বলল, আমি এমন কথা শুনেছি যা মিষ্ট, সতেজ, ফলবান, যা হৃদয়কে আঁকড়ে ধরে। তারা বলল, কবিতা। সে মানল না: কবিতা আমার চেয়ে ভালো কেউ চেনে না। তারা বলল, গণকের কথা। সেটাও মানল না। তারা বলল, পূর্বপুরুষদের জাদু, লিখে নেওয়া। সে বলল, জানি না। যদি কিছু হয়েই থাকে, তবে হয়তো চলে আসা জাদু।"
+            "bn": "তাবারী ৭৪:২৪ আয়াতের অধীনে ইবন যায়দের ভাষায় আরও দীর্ঘ এক বর্ণনা দেন। সে লোকদের বলল, আজ রাতে আমি এই লোককে যাচাই করে আসব। গিয়ে দেখল, নবী ﷺ দাঁড়িয়ে নামাজ পড়ছেন আর তিলাওয়াত করছেন। ফিরে এসে বলল, আমি এমন কথা শুনেছি যা মিষ্ট, সতেজ, ফলবান, যা হৃদয়কে আঁকড়ে ধরে। তারা বলল, কবিতা। সে মানল না: কবিতা আমার চেয়ে ভালো কেউ চেনে না। তারা বলল, গণকের কথা। সেটাও মানল না। তারা বলল, পূর্বপুরুষদের জাদু, লিখে নেওয়া। সে বলল, জানি না। যদি কিছু হয়েই থাকে, তবে হয়তো আগে থেকে চলে আসা জাদু।"
           },
           {
             "en": "Al-Qurtubi, under 74:18, tells a fuller story without a chain. When the opening of Surah Ghafir was revealed, he heard it recited and praised it; the Quraysh said he had gone over, and Abu Jahl went to him with a taunt: that he visited the Prophet ﷺ and Abu Bakr for a share of their food. Al-Qurtubi's words are ghadiba wa-takabbar: he grew angry and proud. Then he asked them whether they had ever seen the man mad, a poet, a liar or a soothsayer, and each time they said no. So, they asked, what is he?",
