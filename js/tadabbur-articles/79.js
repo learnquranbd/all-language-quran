@@ -416,7 +416,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Hadith Attached",
-          "bn": "কোনো হাদীস জোড়া নেই"
+          "bn": "কোনো হাদিস জোড়া নেই"
         },
         "p": [
           {
@@ -544,7 +544,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Hadith Here, No Verdict",
-          "bn": "হাদীস নেই, রায়ও নেই"
+          "bn": "হাদিস নেই, রায়ও নেই"
         },
         "p": [
           {
@@ -785,7 +785,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi gives the most on aghtasha itself. It means He made the night dark. It is said ghatisha al-layl, the night grew dark, and aghtashahu Allah, Allah darkened it, just as Arabic has zalima al-layl and azlamahu Allah. He adds that aghtasha can also be said of the night by itself, the night grew dark, while aghtashahu Allah keeps Allah as the doer of the darkening. So the verb in the verse is the form that names Allah as its subject.",
-            "bn": "আগতাশা শব্দটি নিয়ে সবচেয়ে বেশি কথা বলেন কুরতুবী। এর অর্থ, তিনি রাতকে অন্ধকার করেছেন। আরবিতে বলা হয় গাতিশাল লাইল, রাত আঁধার হলো, আর আগতাশাহুল্লাহ, আল্লাহ তাকে আঁধার করলেন। ঠিক যেমন বলা হয় যালিমাল লাইল আর আযলামাহুল্লাহ। তিনি আরও বলেন, আগতাশা শব্দটি রাতের নিজের বেলাতেও বলা যায়, রাত নিজেই আঁধার হলো। কিন্তু আগতাশাহুল্লাহ বললে আঁধার করার কাজটা আল্লাহর। আয়াতের ক্রিয়াটি এই দ্বিতীয় রূপের, যেখানে কর্তা আল্লাহ।"
+            "bn": "আগতাশা শব্দটি নিয়ে সবচেয়ে বেশি কথা বলেন কুরতুবী। এর অর্থ, তিনি রাতকে অন্ধকার করেছেন। আরবিতে বলা হয় গাতিশাল লাইল, রাত আঁধার হলো, আর আগতাশাহুল্লাহ, আল্লাহ তাকে আঁধার করলেন। ঠিক যেমন বলা হয় জালিমাল লাইল আর আযলামাহুল্লাহ। তিনি আরও বলেন, আগতাশা শব্দটি রাতের নিজের বেলাতেও বলা যায়, রাত নিজেই আঁধার হলো। কিন্তু আগতাশাহুল্লাহ বললে আঁধার করার কাজটা আল্লাহর। আয়াতের ক্রিয়াটি এই দ্বিতীয় রূপের, যেখানে কর্তা আল্লাহ।"
           },
           {
             "en": "The root carries more than night. Al-Qurtubi says al-ghatash and al-ghabash both mean darkness, a pairing al-Baghawi also gives in the same words. A man who is aghtash is blind, or close to it, and a woman ghatsha'. A night can be layla ghatsha', a dark night, and a desert falat ghatsha, an expanse where nobody finds the way. The word, in other words, is not only about the absence of light but about what that absence does to whoever cannot see.",
