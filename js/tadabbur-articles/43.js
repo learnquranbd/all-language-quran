@@ -541,7 +541,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qalu inna bima ursiltum bihi kafirun. At-Tabari glosses kafirun as jahidun munkirun, deniers who reject, and he notes that the people answered as the nations before them, who belied their messengers, had answered their prophets. Set the reply beside the question and the gap is plain. Asked to compare, they do not compare. They offer no counter-claim that the message is worse, or that the fathers' way is better guided. The reply works not on what was brought but on the fact that it was brought at all.",
-            "bn": "কালু ইন্না বিমা উরসিলতুম বিহি কাফিরুন। তাবারী কাফিরুন শব্দের অর্থ করেন জাহিদুন মুনকিরুন, অর্থাৎ অস্বীকারকারী, প্রত্যাখ্যানকারী। তিনি আরও বলেন, এরা জবাব দিয়েছিল ঠিক তাদের পূর্ববর্তী সেই জাতিগুলোর মতো, যারা রাসূলদের মিথ্যা বলেছিল আর নিজেদের নবীদের এ কথাই বলেছিল। প্রশ্ন আর জবাব পাশাপাশি রাখলে ফাঁকটা চোখে পড়ে। তুলনা করতে বলা হয়েছিল, তারা তুলনা করে না। বার্তাটা খারাপ, বা বাপ-দাদার পথ বেশি সঠিক, এমন পাল্টা দাবিও তোলে না। জবাবটা আনা জিনিসের উপর নয়, কিছু যে আনা হয়েছে সেই ঘটনার উপরই চাপানো।"
+            "bn": "কালু ইন্না বিমা উরসিলতুম বিহি কাফিরুন। তাবারী কাফিরুন শব্দের অর্থ করেন জাহিদুন মুনকিরুন, অর্থাৎ অস্বীকারকারী, প্রত্যাখ্যানকারী। তিনি আরও বলেন, এরা জবাব দিয়েছিল ঠিক আগের সেই জাতিগুলোর মতো, যারা রাসূলদের মিথ্যা বলেছিল আর নিজেদের নবীদের এ কথাই বলেছিল। প্রশ্ন আর জবাব পাশাপাশি রাখলে ফাঁকটা চোখে পড়ে। তুলনা করতে বলা হয়েছিল, তারা তুলনা করে না। বার্তাটা খারাপ, বা বাপ-দাদার পথ বেশি সঠিক, এমন পাল্টা দাবিও তোলে না। কী আনা হয়েছে, জবাবটা তা নিয়ে নয়। আপত্তি এখানেই যে আদৌ কিছু আনা হয়েছে।"
           },
           {
             "en": "The verb ursiltum is plural, you were sent, though one speaker has asked. Al-Qurtubi explains it on his own reading: the address is to the Prophet ﷺ while the wording is plural, because belying him is belying everyone besides him. He paraphrases the object accordingly as everything the messengers were sent with. The refusal, on this account, is not aimed at one man's manner or one man's message. It reaches past him to the whole line of those sent before him, whose message he carried.",
@@ -577,7 +577,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Qur'an records this reply, almost to the letter, more than once. At 34:34 the affluent of every town a warner entered say, inna bima ursiltum bihi kafirun. At 41:14 it is the answer of 'Ad and Thamud, named in 41:13, to the messengers who came to them. At 14:9 the people of Nuh (AS), 'Ad, Thamud and those after them say, inna kafarna bima ursiltum bihi. The abridged English Ibn Kathir, on this passage, says that their hearts and their words are similar.",
-            "bn": "এই জবাব কুরআনে প্রায় হুবহু একাধিকবার এসেছে। ৩৪:৩৪ আয়াতে যে জনপদেই সতর্ককারী গেছেন, সেখানকার বিত্তশালীরা বলেছে: ইন্না বিমা উরসিলতুম বিহি কাফিরুন। ৪১:১৪ আয়াতে এ জবাব আদ ও সামুদের, যাদের নাম এসেছে ৪১:১৩ আয়াতে, তাদের কাছে আসা রাসূলদের প্রতি। ১৪:৯ আয়াতে নূহ (আঃ)-এর কওম, আদ, সামুদ ও তাদের পরবর্তীরা বলে: ইন্না কাফারনা বিমা উরসিলতুম বিহি। এই অংশের আলোচনায় সংক্ষিপ্ত ইংরেজি ইবন কাসীর বলেন, তাদের অন্তর আর তাদের কথা একই রকম।"
+            "bn": "এই জবাব কুরআনে প্রায় হুবহু একাধিকবার এসেছে। ৩৪:৩৪ আয়াতে যে জনপদেই সতর্ককারী গেছেন, সেখানকার বিত্তশালীরা বলেছে: ইন্না বিমা উরসিলতুম বিহি কাফিরুন। ৪১:১৪ আয়াতে নিজেদের কাছে আসা রাসূলদের এ জবাবই দিয়েছে আদ ও সামুদ; তাদের নাম এসেছে ৪১:১৩ আয়াতে। ১৪:৯ আয়াতে নূহ (আঃ)-এর কওম, আদ, সামুদ ও তাদের পরবর্তীরা বলে: ইন্না কাফারনা বিমা উরসিলতুম বিহি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই অংশে বলে, তাদের অন্তর আর তাদের কথা একই রকম।"
           },
           {
             "en": "The surah then shows the same sentence arriving in Makkah. After a passage on Ibrahim (AS), who told his father and his people, I am free of what you worship (43:26), the Qur'an says the truth and a clear messenger came to these people too (43:29). When it came, they said, this is magic, and indeed we are disbelievers in it (43:30): wa-inna bihi kafirun. Before that turn comes 43:25, So We took retribution from them, which this article leaves as the passage's close.",
@@ -613,11 +613,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is a reply, and the objection it replies to is quoted a line earlier. In 43:31 they said: why was this Quran not sent down upon a great man from one of the two cities? Greatness, in that sentence, means wealth and standing. Their complaint was not about the message but about the messenger's bank balance and clan.",
-            "bn": "এই আয়াতটি একটি জবাব, আর যে আপত্তির জবাব তা এক লাইন আগেই উদ্ধৃত। 43:31 আয়াতে তারা বলেছিল: এই কুরআন দুই জনপদের কোনো গণ্যমান্য ব্যক্তির উপর কেন নাযিল হলো না? সেই বাক্যে 'গণ্যমান্য' মানে সম্পদ ও প্রতিপত্তি। তাদের অভিযোগ বার্তা নিয়ে ছিল না, ছিল বার্তাবাহকের সম্পদ ও বংশমর্যাদা নিয়ে।"
+            "bn": "আয়াতটি আসলে একটা জবাব। কোন আপত্তির জবাব, তা আছে ঠিক আগের আয়াতে। ৪৩:৩১ আয়াতে তারা বলেছিল: এই কুরআন দুই জনপদের কোনো বড় মানুষের উপর নাজিল হলো না কেন? এখানে বড় মানে ধনসম্পদ আর প্রভাব-প্রতিপত্তিতে বড়। তাদের আপত্তি বার্তা নিয়ে ছিল না। আপত্তি ছিল বার্তাবাহকের টাকাপয়সা আর বংশ নিয়ে।"
           },
           {
             "en": "So the answer opens: a-hum yaqsimuna rahmata rabbik — do they distribute the mercy of your Lord? The mufassirun read that mercy as prophethood itself, which is what the objection was about. The verse is therefore not a general lecture on wealth. It is an answer to people who thought the appointment of a prophet should follow the same rankings they used among themselves.",
-            "bn": "তাই জবাব শুরু হয় এভাবে: আহুম ইয়াক্‌সিমূনা রাহমাতা রাব্বিক — তোমার প্রতিপালকের রহমত কি তারা বণ্টন করে? মুফাসসিরগণ এখানে 'রহমত' বলতে নবুয়তকেই বোঝেন, কারণ আপত্তিটি ছিল সেটি নিয়েই। অর্থাৎ আয়াতটি সম্পদ নিয়ে সাধারণ কোনো বক্তৃতা নয়। এটি সেই মানুষদের জবাব যারা ভেবেছিল, নবী নিয়োগও তাদের নিজেদের ব্যবহৃত মর্যাদাক্রম মেনেই হওয়া উচিত।"
+            "bn": "তাই জবাব শুরু হয় এভাবে: আহুম ইয়াক্‌সিমূনা রাহমাতা রাব্বিক, তোমার প্রতিপালকের রহমত কি তারা বণ্টন করে? মুফাসসিরগণ এখানে রহমত বলতে নবুয়তকেই বোঝেন, আপত্তিটাও ছিল এ নিয়েই। তাই আয়াতটি সম্পদ নিয়ে কোনো সাধারণ ওয়াজ নয়। এ জবাব তাদের, যারা ভেবেছিল, নিজেদের মধ্যে যে মাপে তারা মানুষকে উঁচু-নিচু করে, নবী বাছাইও সে মাপেই হওয়া উচিত।"
           }
         ]
       },
@@ -629,11 +629,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nahnu qasamna baynahum ma'ishatahum. The pronoun nahnu is placed in front of the verb, which in Arabic restricts the doing to the one named: We, and no one else, apportioned it. And the thing apportioned is deliberately modest. Not thrones or empires — ma'ishah, from 'aysh, living: the daily means a person lives on, the trade and the wage and the harvest.",
-            "bn": "নাহনু কাসামনা বাইনাহুম মা'ঈশাতাহুম। সর্বনাম 'নাহনু' বসানো হয়েছে ক্রিয়ার আগে, যা আরবিতে কাজটিকে কেবল উল্লিখিত সত্তার মধ্যেই সীমাবদ্ধ করে: আমিই, অন্য কেউ নয়, তা বণ্টন করেছি। আর যা বণ্টিত হয়েছে তা ইচ্ছাকৃতভাবেই সাধারণ। সিংহাসন বা সাম্রাজ্য নয় — 'মা'ঈশাহ', যা এসেছে ''আইশ' অর্থাৎ জীবনযাপন থেকে: মানুষ যা দিয়ে দিন চালায়, তার ব্যবসা, মজুরি ও ফসল।"
+            "bn": "নাহনু কাসামনা বাইনাহুম মা'ঈশাতাহুম। এখানে নাহনু সর্বনামটি বসেছে ক্রিয়ার আগে। আরবিতে এভাবে আগে বসালে কাজটা কেবল তাঁর বলে নির্দিষ্ট হয়ে যায়, যাঁর নাম নেওয়া হলো: আমিই বণ্টন করেছি, আর কেউ নয়। আর যা বণ্টন করা হয়েছে, তা ইচ্ছা করেই সাদামাটা একটা জিনিস। সিংহাসন বা সাম্রাজ্য নয়, মা'ঈশাহ। শব্দটা এসেছে আইশ থেকে, যার মানে বেঁচে থাকা। অর্থাৎ যা দিয়ে মানুষ দিন চালায়: ব্যবসা, মজুরি, ফসল।"
           },
           {
             "en": "The argument runs from the smaller case to the larger. You did not set your own livelihood; the work available to you, the household you were born into, the health you woke up with, none of that was assigned by you. If the lesser distribution was never in your hands, the appointment of a prophet certainly is not. The objectors were auditing a ledger they had no signature on.",
-            "bn": "যুক্তিটি চলে ছোট দৃষ্টান্ত থেকে বড়টির দিকে। নিজের জীবিকা আপনি নিজে ঠিক করেননি; যে কাজ আপনার নাগালে আছে, যে পরিবারে আপনার জন্ম, যে স্বাস্থ্য নিয়ে আপনি ঘুম থেকে উঠেছেন — কোনোটিই আপনার নির্ধারণ করা নয়। ছোট বণ্টনটিই যদি কখনো আপনার হাতে না থাকে, তবে নবী নিয়োগ তো নিশ্চয়ই নয়। আপত্তিকারীরা এমন এক খতিয়ান যাচাই করছিল যেখানে তাদের সইয়ের কোনো জায়গা নেই।"
+            "bn": "যুক্তিটা এগোয় ছোট থেকে বড়ের দিকে। নিজের জীবিকা আপনি নিজে ঠিক করেননি। আপনার হাতের কাছে যে কাজ আছে, যে পরিবারে আপনি জন্মেছেন, যে স্বাস্থ্য নিয়ে আজ ঘুম থেকে উঠেছেন, এর কোনোটাই আপনার ঠিক করে নেওয়া নয়। ছোট বণ্টনটাই যখন কখনো আপনার হাতে ছিল না, নবী বাছাই তো আরও নয়। আপত্তিকারীরা এমন এক খাতার হিসাব মেলাতে বসেছিল, যে খাতায় তাদের কোনো সই নেই।"
           }
         ]
       },
@@ -645,11 +645,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa rafa'na ba'dahum fawqa ba'din darajat — and We raised some of them above others in degrees. The two terms are ba'd and ba'd, some and some: indefinite, unnamed, and stated in both directions. Nobody is identified as the permanently upper party. The elevation is described as darajat within ma'ishah in the life of this world, which the verse has already bounded as belonging to this world only.",
-            "bn": "ওয়া রাফা'না বা'দাহুম ফাওকা বা'দিন দারাজাত — আর মর্যাদায় আমি এককে অন্যের উপরে উন্নীত করেছি। এখানে দুই পক্ষই 'বা'দ' ও 'বা'দ', অর্থাৎ কেউ ও কেউ: অনির্দিষ্ট, নামহীন, এবং উভয় দিক থেকেই বলা। কাউকেই চিরস্থায়ী উঁচু পক্ষ হিসেবে চিহ্নিত করা হয়নি। এই উন্নীতকরণকে বলা হয়েছে পার্থিব জীবনের 'মা'ঈশাহ'-এর ভেতরকার 'দারাজাত', আর আয়াতটি আগেই তার সীমা টেনে দিয়েছে এই দুনিয়ার মধ্যে।"
+            "bn": "ওয়া রাফা'না বা'দাহুম ফাওকা বা'দিন দারাজাত: আর আমি তাদের কাউকে কারও উপর মর্যাদায় উঁচু করেছি। দুই পক্ষের নামই এখানে বা'দ আর বা'দ, অর্থাৎ কেউ আর কেউ। কারও নাম নেই, কেউ নির্দিষ্ট নয়, আর কথাটা দুই দিক থেকেই খাটে। চিরকালের জন্য উপরের দলে কাউকে রাখা হয়নি। এই উঁচু হওয়াটা দারাজাত, অর্থাৎ স্তর, আর তা দুনিয়ার জীবনের মা'ঈশাহ বা জীবিকার ভেতরেই। আয়াতটি আগেই এই জীবিকাকে দুনিয়ার গণ্ডিতে বেঁধে দিয়েছে।"
           },
           {
             "en": "Then the purpose: li-yattakhidha ba'duhum ba'dan sukhriyya. The commentators derive sukhriyy from taskhir, being put to work for another, and read the clause as mutual employment rather than one class owning another. The grammar makes it reciprocal — some of them, of some of them — so the builder needs the farmer and the farmer needs the builder. Difference is presented as the reason people cannot live alone.",
-            "bn": "তারপর উদ্দেশ্য: লিইয়াত্তাখিযা বা'দুহুম বা'দান সুখরিয়্যা। মুফাসসিরগণ 'সুখরিয়্য' শব্দটিকে 'তাসখীর' থেকে নেন, অর্থাৎ একজনকে অন্যের কাজে নিয়োজিত করা; আর বাক্যটিকে পড়েন পারস্পরিক নিয়োগ হিসেবে, এক শ্রেণির অন্য শ্রেণির উপর মালিকানা হিসেবে নয়। ব্যাকরণটিই একে পারস্পরিক করে তোলে — তাদের কেউ, তাদেরই কারও — তাই রাজমিস্ত্রির দরকার কৃষককে, আর কৃষকের দরকার রাজমিস্ত্রিকে। পার্থক্যকে উপস্থাপন করা হয়েছে এই কারণ হিসেবে যে, মানুষ একা বাঁচতে পারে না।"
+            "bn": "এরপর আসে উদ্দেশ্য: লিইয়াত্তাখিযা বা'দুহুম বা'দান সুখরিয়্যা। মুফাসসিরগণ সুখরিয়্য শব্দটিকে তাসখীর থেকে নেন, মানে একজনকে আরেকজনের কাজে লাগানো। তাই তাঁরা বাক্যটিকে পড়েন পরস্পরকে কাজে লাগানোর অর্থে, এক শ্রেণি আরেক শ্রেণির মালিক হবে, সে অর্থে নয়। ব্যাকরণই কথাটাকে দুই দিকের করে দেয়: তাদের কেউ, তাদেরই কারও। তাই রাজমিস্ত্রির কৃষককে দরকার, কৃষকেরও দরকার রাজমিস্ত্রিকে। মানুষে মানুষে তফাত আছে বলেই কেউ একা বাঁচতে পারে না; আয়াত তফাতকে এভাবেই দেখায়।"
           }
         ]
       },
@@ -661,11 +661,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "If any doubt remained that rank in provision measures worth, the next verses remove it. 43:33 says that were it not that people would become one community, He would have given those who disbelieve in the Most Merciful houses with ceilings and staircases of silver, and 43:34 adds doors and couches. 43:35 calls the whole inventory the enjoyment of worldly life, and gives the Hereafter to the righteous.",
-            "bn": "রিযিকের তারতম্য মানুষের মূল্য মাপে কি না, সে বিষয়ে কোনো সন্দেহ থাকলে পরের আয়াতগুলো তা দূর করে দেয়। 43:33 বলে, মানুষ যদি এক দলে পরিণত হওয়ার আশঙ্কা না থাকত, তবে যারা রহমানকে অস্বীকার করে তাদের ঘরের ছাদ ও সিঁড়ি তিনি রুপার করে দিতেন; আর 43:34 যোগ করে দরজা ও আসনের কথা। 43:35 গোটা তালিকাটিকে বলে পার্থিব জীবনের ভোগসামগ্রী, আর আখিরাতকে দেয় মুত্তাকীদের।"
+            "bn": "রিযিকের কমবেশি দিয়ে মানুষের দাম মাপা যায় কি না, এ নিয়ে সন্দেহ থাকলে পরের আয়াতগুলো তা মিটিয়ে দেয়। ৪৩:৩৩ আয়াত বলছে, সব মানুষ একই দলে চলে যাবে, এই আশঙ্কা না থাকলে যারা রহমানকে অস্বীকার করে, আল্লাহ তাদের ঘরের ছাদ আর সিঁড়ি রুপা দিয়ে বানিয়ে দিতেন। ৪৩:৩৪ আয়াত এর সঙ্গে যোগ করে দরজা আর আসন। ৪৩:৩৫ আয়াত গোটা তালিকাটিকে বলে দুনিয়ার জীবনের ভোগের সামগ্রী, আর আখিরাত রাখে মুত্তাকীদের জন্য।"
           },
           {
             "en": "That is a striking thing to say. Silver ceilings were withheld from the deniers only because too many people would have been drawn to disbelief by the sight of them. Wealth is thereby described as something Allah is content to hand to those furthest from Him, and holds back for a reason that has nothing to do with their merit. It cannot then be a signal of standing with Him.",
-            "bn": "কথাটি বেশ চমকপ্রদ। অস্বীকারকারীদের কাছ থেকে রুপার ছাদ কেবল এ কারণেই আটকে রাখা হয়েছে যে, তা দেখে বহু মানুষ কুফরির দিকে ঝুঁকে পড়ত। এভাবে সম্পদকে বর্ণনা করা হচ্ছে এমন বস্তু হিসেবে, যা আল্লাহ তাঁর থেকে সবচেয়ে দূরের মানুষদের হাতেও তুলে দিতে দ্বিধা করেন না, আর আটকে রাখেন এমন কারণে যার সঙ্গে তাদের যোগ্যতার কোনো সম্পর্ক নেই। কাজেই সম্পদ তাঁর কাছে মর্যাদার চিহ্ন হতে পারে না।"
+            "bn": "কথাটা চমকে দেওয়ার মতো। অস্বীকারকারীদের রুপার ছাদ দেওয়া হয়নি শুধু একটা কারণে: তা দেখে অনেক মানুষ কুফরির দিকে ঝুঁকে পড়ত। এতে বোঝা যায়, সম্পদ এমন জিনিস, যা আল্লাহ তাঁর থেকে সবচেয়ে দূরের মানুষদের হাতেও তুলে দিতে রাজি। আর যখন আটকে রাখেন, তার কারণও তাদের যোগ্যতা নয়। তাহলে সম্পদ তাঁর কাছে কারও মর্যাদার চিহ্ন হতে পারে না।"
           }
         ]
       },
@@ -677,11 +677,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends where it began. It opened by asking whether they distribute the mercy of your Lord; it closes with wa rahmatu rabbika khayrun mimma yajma'un — and the mercy of your Lord is better than what they gather. The same phrase frames both ends, so the argument returns to its own first word after passing through livelihoods, ranks and service.",
-            "bn": "আয়াতটি শেষ হয় সেখানেই যেখানে শুরু হয়েছিল। শুরুতে প্রশ্ন ছিল, তোমার প্রতিপালকের রহমত কি তারা বণ্টন করে; আর শেষ হয় — ওয়া রাহমাতু রাব্বিকা খাইরুম মিম্মা ইয়াজমা'ঊন, তোমার প্রতিপালকের রহমত তারা যা জমা করে তার চেয়ে উত্তম। একই শব্দবন্ধ দুই প্রান্তেই কাঠামো গড়ে, ফলে জীবিকা, মর্যাদা ও সেবার আলোচনা পেরিয়ে যুক্তিটি নিজের প্রথম শব্দে ফিরে আসে।"
+            "bn": "আয়াতটি শেষ হয় ঠিক যেখানে শুরু হয়েছিল। শুরুতে প্রশ্ন ছিল, তোমার প্রতিপালকের রহমত কি তারা বণ্টন করে? শেষে আসে: ওয়া রাহমাতু রাব্বিকা খাইরুম মিম্মা ইয়াজমা'ঊন, আর তারা যা জমা করে, তোমার প্রতিপালকের রহমত তার চেয়ে উত্তম। একই কথা দুই মাথায় বসে আয়াতটাকে বেঁধে রাখে। ফলে জীবিকা, মর্যাদার স্তর আর সেবার কথা পেরিয়ে যুক্তিটা ফিরে আসে নিজের প্রথম শব্দে।"
           },
           {
             "en": "Yajma'un is a verb of heaping up, and it is what the objectors had been doing while they judged the Prophet ﷺ by his lack of it. The verse lets their standard stand for a moment and then simply outbids it. What they were gathering is real; it is also, on the verse's accounting, the lesser of the two things on the table, and the only one they cannot distribute.",
-            "bn": "'ইয়াজমা'ঊন' হলো স্তূপ করে জমানোর ক্রিয়া, আর আপত্তিকারীরা ঠিক এ কাজটিই করছিল — যখন তারা নবী ﷺ-কে বিচার করছিল তাঁর এই জিনিসের অভাব দিয়ে। আয়াতটি তাদের মানদণ্ডকে এক মুহূর্তের জন্য টিকে থাকতে দেয়, তারপর সহজেই তার চেয়ে বেশি দর হাঁকে। তারা যা জমাচ্ছিল তা বাস্তব; কিন্তু আয়াতের হিসাবে তা টেবিলে থাকা দুটি জিনিসের মধ্যে ছোটটি — আর সেটিই একমাত্র জিনিস যা তারা বণ্টন করতে পারে না।"
+            "bn": "ইয়াজমা'ঊন মানে স্তূপ করে জমানো। আপত্তিকারীরা ঠিক এ কাজটাই করছিল, আর নবী ﷺ-এর তা নেই বলে তাঁকে ছোট করে দেখছিল। আয়াতটি এক মুহূর্তের জন্য তাদের মাপকাঠিটা মেনে নেয়, তারপর সোজা তাকে ছাড়িয়ে যায়। তারা যা জমাচ্ছিল, তা মিথ্যা নয়। কিন্তু আয়াতের হিসাবে সামনে রাখা দুটো জিনিসের মধ্যে সেটাই ছোট, আর সেটাই একমাত্র জিনিস, যা তারা বণ্টন করতে পারে না।"
           }
         ]
       },
@@ -693,11 +693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read this way, the verse dismantles two habits at once. Envy loses its object, because the person above you in provision did not appoint himself there and has not been told he is preferred. And contempt loses its object too, since the person below you occupies a rank in the same temporary column, and the column was drawn by Someone else.",
-            "bn": "এভাবে পড়লে আয়াতটি একসঙ্গে দুটি অভ্যাস ভেঙে দেয়। হিংসা তার লক্ষ্য হারায়, কারণ রিযিকে আপনার উপরে থাকা মানুষটি নিজে নিজেকে সেখানে বসায়নি, আর তাকে বলাও হয়নি যে সে অগ্রাধিকারপ্রাপ্ত। আর অবজ্ঞাও তার লক্ষ্য হারায়, কারণ আপনার নিচে থাকা মানুষটির অবস্থান একই সাময়িক কলামের ভেতরে — আর কলামটি এঁকেছেন অন্য কেউ।"
+            "bn": "এভাবে পড়লে আয়াতটি একসঙ্গে দুটো অভ্যাস ভেঙে দেয়। হিংসার আর কোনো নিশানা থাকে না। কারণ রিযিকে যে আপনার উপরে, সে নিজেকে সেখানে বসায়নি, আর তাকে কেউ বলেনি যে সে বেশি প্রিয়। তুচ্ছতাচ্ছিল্যেরও কোনো নিশানা থাকে না। কারণ যে আপনার নিচে, সে-ও আছে একই অস্থায়ী তালিকার একটা ঘরে, আর সে তালিকা সাজিয়েছেন অন্য একজন।"
           },
           {
             "en": "What is left is the reason the verse gives for the differences: that people take one another into service. Needing help is written into the design, so asking for it is not a humiliation, and giving it is not a favour conferred from above. And the closing clause keeps the ranking honest by naming something that outranks every position in it.",
-            "bn": "যা অবশিষ্ট থাকে তা হলো পার্থক্যের জন্য আয়াতের দেওয়া কারণটি: মানুষ যেন পরস্পরকে কাজে লাগাতে পারে। সাহায্যের প্রয়োজন এই পরিকল্পনারই অংশ, তাই তা চাওয়া অপমান নয়, আর তা দেওয়া উপর থেকে বর্ষিত অনুগ্রহও নয়। আর শেষ বাক্যটি গোটা ক্রমটিকে সৎ রাখে, কারণ তা এমন এক জিনিসের নাম বলে যা ওই ক্রমের প্রতিটি অবস্থানের চেয়ে উঁচু।"
+            "bn": "বাকি থাকে তফাতের সেই কারণ, যা আয়াত নিজে দিয়েছে: মানুষ যেন একে অপরকে কাজে লাগায়। সাহায্যের দরকার পড়াটা এই নকশার মধ্যেই লেখা। তাই সাহায্য চাওয়া অপমানের নয়, আর সাহায্য করাও উপর থেকে করা কোনো দয়া নয়। আর আয়াতের শেষ বাক্যটা এই উঁচু-নিচুকে তার আসল মাপে রাখে, কারণ তা এমন এক জিনিসের নাম নেয়, যা এর সব অবস্থানের চেয়ে বড়।"
           }
         ]
       }
@@ -849,7 +849,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of this names anyone. The verse describes a person by what he does, and licenses nothing against any living person or community; no reader may point at another and call him the dim-eyed one or his companion a devil. Its use is inward. At-Tabari's word fits the verse well: a look without steadiness. No fetched commentary attaches a sound hadith to this verse, so this article cites none.",
-            "bn": "এর কোনোটাই কারও নাম ধরে বলা নয়। আয়াতটি একজন মানুষকে তার কাজ দিয়ে বর্ণনা করে। কোনো জীবিত ব্যক্তি বা গোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। কোনো পাঠক অন্যের দিকে আঙুল তুলে বলতে পারেন না, এ-ই সেই ঝাপসা চোখের লোক, বা তার সঙ্গী শয়তান। আয়াতটির কাজ ভেতরের দিকে। তাবারীর শব্দটি আয়াতের সঙ্গে খুব মানায়: অস্থির দৃষ্টি। এই আয়াতে কোনো সহীহ হাদীস জুড়ে দিয়েছে, এমন কিছু সংগৃহীত তাফসীরগুলোতে নেই। তাই এ লেখায় কোনো হাদীস উদ্ধৃত হয়নি।"
+            "bn": "এর কোনোটাই কারও নাম ধরে বলা নয়। আয়াতটি একজন মানুষকে তার কাজ দিয়ে বর্ণনা করে। কোনো জীবিত ব্যক্তি বা গোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। কোনো পাঠক অন্যের দিকে আঙুল তুলে বলতে পারেন না, এ-ই সেই ঝাপসা চোখের লোক, বা তার সঙ্গী শয়তান। আয়াতটির কাজ ভেতরের দিকে। তাবারীর শব্দটি আয়াতের সঙ্গে খুব মানায়: অস্থির দৃষ্টি। সংগৃহীত তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি, তাই এ লেখাতেও কোনো হাদিস উদ্ধৃত হয়নি।"
           }
         ]
       }
@@ -885,7 +885,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari's account of that call ties the scene to the verse just before it. In 43:45 the Prophet ﷺ is told to ask the messengers sent before him whether Allah ever appointed gods besides the Most Merciful to be worshipped. Then Musa (AS) appears, and the message at-Tabari gives him is exactly that answer: worship Allah alone and disown every other god. The story does not change the subject. It shows one of those earlier messengers carrying the same word.",
-            "bn": "তাবারী দাওয়াতের যে বিবরণ দেন, তা দৃশ্যটাকে ঠিক আগের আয়াতের সঙ্গে জুড়ে দেয়। ৪৩:৪৫ আয়াতে নবী ﷺ-কে বলা হয়েছে, আপনার আগে পাঠানো রাসূলদের জিজ্ঞেস করুন, আল্লাহ কি দয়াময়ের বদলে ইবাদতের জন্য অন্য কোনো ইলাহ ঠিক করেছিলেন? তারপরই আসেন মূসা (আঃ)। তাবারী তাঁর মুখে যে বার্তা দেখান, তা হুবহু সেই প্রশ্নের জবাব: শুধু আল্লাহর ইবাদত করো, আর সব উপাস্য থেকে সম্পর্ক ছিন্ন করো। কাহিনি এখানে প্রসঙ্গ বদলায় না। আগের সেই রাসূলদেরই একজনকে দেখায়, একই বাণী বয়ে নিয়ে যেতে।"
+            "bn": "তাবারী দাওয়াতের যে বিবরণ দেন, তা দৃশ্যটাকে ঠিক আগের আয়াতের সঙ্গে জুড়ে দেয়। ৪৩:৪৫ আয়াতে নবী ﷺ-কে বলা হয়েছে, আপনার আগে পাঠানো রাসূলদের জিজ্ঞেস করুন, আল্লাহ কি দয়াময়ের বদলে ইবাদতের জন্য অন্য কোনো ইলাহ ঠিক করেছিলেন? তারপরই আসেন মূসা (আঃ)। তাবারী তাঁর মুখে যে বার্তা দেখান, তা হুবহু সেই প্রশ্নের জবাব: শুধু আল্লাহর ইবাদত করো, আর সব উপাস্য থেকে সম্পর্ক ছিন্ন করো। কাহিনি এখানে প্রসঙ্গ বদলায় না। দেখায়, আগের সেই রাসূলদেরই একজন একই বাণী বয়ে এনেছিলেন।"
           },
           {
             "en": "Ibn Kathir, in the abridged English commentary on 43:46 to 43:50, gives names. Allah sent Musa (AS) with mighty signs, he says, such as his hand and his staff, and with other signs such as the flood, the locusts, the qummal, the frogs and the blood, and the loss of their crops and lives. He quotes 7:133 to 7:135 alongside. This article names no sign beyond his list, and the later ones belong to 43:48 onward. Here the verse needs only one fact: the signs reached the people, and laughter was their answer.",
@@ -921,7 +921,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di puts the weight elsewhere. They rejected the signs and denied them, he writes, and mocked them, zulman wa-'uluwwan, out of wrongdoing and haughtiness. Then comes the clause that matters most for reading the episode: fa-lam yakun li-qusurin bi-l-ayat, wa-'adami wuduhin fiha. It was not because of any shortfall in the signs, nor any lack of clarity in them. Ibn Kathir's Arabic uses a related word: istakbaru, they were too proud to follow. None of the three places the fault in what Musa (AS) brought.",
-            "bn": "সা'দী জোর দেন অন্য জায়গায়। তিনি লেখেন, তারা নিদর্শনগুলো প্রত্যাখ্যান করল, অস্বীকার করল আর বিদ্রূপ করল, জুলুম আর অহংকারের বশে। এরপর তিনি যে কথাটা যোগ করেন, পুরো ঘটনা বোঝার জন্য সেটাই সবচেয়ে জরুরি। এর কারণ নিদর্শনের কোনো ঘাটতি ছিল না, সেগুলোতে অস্পষ্টতাও ছিল না। ইবন কাসীরের আরবি তাফসীরেও কাছাকাছি শব্দ আছে: ইসতাকবারূ, তারা অহংকার করে মানতে চায়নি। তিনজনের কেউই মূসা (আঃ)-এর আনা জিনিসে দোষ খোঁজেননি।"
+            "bn": "সা'দী জোর দেন অন্য জায়গায়। তিনি লেখেন, তারা নিদর্শনগুলো প্রত্যাখ্যান করল, অস্বীকার করল আর বিদ্রূপ করল, জুলুম আর অহংকারের বশে। এরপর তিনি যে কথাটা যোগ করেন, পুরো ঘটনা বোঝার জন্য সেটাই সবচেয়ে জরুরি: এমনটা নিদর্শনের কোনো ঘাটতির কারণে হয়নি, সেগুলো অস্পষ্ট ছিল বলেও নয়। ইবন কাসীরের আরবি তাফসীরেও কাছাকাছি শব্দ আছে: ইসতাকবারূ, তারা অহংকার করে মানতে চায়নি। তিনজনের কেউই মূসা (আঃ)-এর আনা জিনিসে দোষ খোঁজেননি।"
           },
           {
             "en": "The two glosses sit side by side without contradicting each other. Al-Qurtubi foregrounds what the mockery did to the onlookers; as-Sa'di foregrounds the wrongdoing of those who mocked and the clarity of what they mocked. This article reports both as their readings and adds no motive of its own to the people in the story.",
@@ -973,7 +973,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes what it describes: Pharaoh and his chiefs, in one story, laughing at the signs Allah sent with Musa (AS). It licenses nothing against any living person or community. No people of today is to be equated with Pharaoh's people, and no one is entitled to point at a neighbour, a nation or a faith and give them that name. The story is set before the reader as a warning to be read inward, not as a label to fasten on others.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটা যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একটি কাহিনিতে ফেরাউন ও তার সভাসদরা আল্লাহর পাঠানো নিদর্শন নিয়ে মূসা (আঃ)-এর সামনে হাসছে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতিকে ফেরাউনের লোকদের সঙ্গে এক করে দেখা চলে না। প্রতিবেশী, কোনো জাতি বা কোনো ধর্মের দিকে আঙুল তুলে তাদের এই নাম দেওয়ার অধিকার কারও নেই। কাহিনিটা পাঠকের সামনে রাখা হয়েছে নিজের ভেতরে তাকানোর সতর্কবাণী হিসেবে, অন্যের গায়ে সাঁটার তকমা হিসেবে নয়।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটা যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একটি কাহিনিতে ফেরাউন ও তার সভাসদরা হাসছে সেই নিদর্শন নিয়ে, যা আল্লাহ মূসা (আঃ)-কে দিয়ে পাঠিয়েছিলেন। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতিকে ফেরাউনের লোকদের সঙ্গে এক করে দেখা চলে না। প্রতিবেশী, কোনো জাতি বা কোনো ধর্মের দিকে আঙুল তুলে তাদের এই নাম দেওয়ার অধিকার কারও নেই। কাহিনিটা পাঠকের সামনে রাখা হয়েছে নিজের ভেতরে তাকানোর সতর্কবাণী হিসেবে, অন্যের গায়ে সাঁটার তকমা হিসেবে নয়।"
           },
           {
             "en": "Nor does the laughter say anything against the messenger. The verse calls the signs Allah's own, at-Tabari calls them proofs of the truth of Musa's word, and as-Sa'di says the rejection came from no shortfall or unclarity in them. Musa (AS) delivered the message he was sent with, and the outcome at-Tabari points to is that Allah gave him and those who believed with him the upper hand. On hadith, none of the fetched commentaries attaches a hadith to this verse, so none is cited here.",
@@ -1025,7 +1025,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari takes aswira as the plural of siwar, the qulb, a bangle worn on the hand, and says the people of interpretation held the same. He gives two chains: from Ibn Abbas (RA), aqliba min dhahab, bangles of gold, and from Qatada the same words. Ibn Kathir, in the Arabic, calls them the ornaments placed on the hands, and names Ibn Abbas, Qatada and more than one other for it. As-Sa'di paraphrases the wish as Musa (AS) appearing adorned and handsome in jewellery and bracelets.",
-            "bn": "তাবারী আসউইরাকে সিওয়ারের বহুবচন ধরেন। সিওয়ার মানে কুলব, হাতে পরার বালা। তিনি বলেন, তাফসীরবিদরাও এ কথাই বলেছেন। দুটি সূত্রে তিনি তা আনেন: ইবন আব্বাস (রাঃ) থেকে 'আকলিবাতুম মিন যাহাব', সোনার বালা, আর কাতাদা থেকেও একই শব্দ। আরবি ইবন কাসীর বলেন, এগুলো হাতে পরানো অলংকার। এ মত তিনি ইবন আব্বাস, কাতাদা ও আরও একাধিক জনের নামে উল্লেখ করেন। সা'দী ফেরাউনের ইচ্ছাটা এভাবে খুলে বলেন: মূসা (আঃ) কেন অলংকার আর কঙ্কনে সেজেগুজে সুন্দর চেহারায় হাজির হলেন না?"
+            "bn": "তাবারী আসউইরাকে সিওয়ারের বহুবচন ধরেন। সিওয়ার মানে কুলব, হাতে পরার বালা। তিনি বলেন, তাফসীরবিদরাও এ কথাই বলেছেন। দুটি সূত্রে তিনি তা আনেন: ইবন আব্বাস (রাঃ) থেকে 'আকলিবাতুম মিন যাহাব', সোনার বালা, আর কাতাদা থেকেও একই শব্দ। ইবন কাসীর তাঁর আরবি তাফসীরে বলেন, এগুলো হাতে পরানো অলংকার। এ মত তিনি ইবন আব্বাস, কাতাদা ও আরও একাধিক জনের নামে উল্লেখ করেন। সা'দী ফেরাউনের ইচ্ছাটা এভাবে খুলে বলেন: মূসা (আঃ) কেন অলংকার আর কঙ্কনে সেজেগুজে সুন্দর চেহারায় হাজির হলেন না?"
           },
           {
             "en": "Why gold on the wrists? Al-Qurtubi answers that Pharaoh said it because it was the custom of the time and the dress of people of rank. He then reports Mujahid: when they made a man their chief, they put two bracelets on him and a collar of gold round his neck, as a mark of his leadership. Al-Baghawi reports the same from Mujahid in slightly different words, a bracelet and a collar of gold, as a sign of his chiefdom.",
@@ -1065,7 +1065,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Others give the angels a different job. Al-Qurtubi repeats Qatada's in succession and Mujahid's walking together, then adds Ibn Abbas (RA): helping him against whoever opposes him. He explains the picture as angels joined to Musa (AS) so that he grows strong by their number and directs them by his command, which would weigh more in people's hearts. As-Sa'di likewise has them helping him in his call and backing his word. Ibn Kathir, in the Arabic, has them surrounding him in his service and witnessing that he is truthful.",
-            "bn": "অন্যেরা ফেরেশতাদের ভূমিকা দেখেন ভিন্নভাবে। কুরতুবী কাতাদার 'একের পর এক' আর মুজাহিদের 'একসঙ্গে হেঁটে' উল্লেখ করে যোগ করেন ইবন আব্বাস (রাঃ)-এর মত: যারা তাঁর বিরোধিতা করে, তাদের বিরুদ্ধে তাঁকে সাহায্য করবে। ছবিটা তিনি এভাবে বোঝান: ফেরেশতারা মূসা (আঃ)-এর সঙ্গে জুড়ে থাকবে, তাদের সংখ্যায় তিনি শক্তি পাবেন, নিজের হুকুমে তাদের চালাবেন, আর তাতে মানুষের মনে ভয় বেশি জাগবে। সা'দীর ব্যাখ্যাও কাছাকাছি: তারা তাঁর দাওয়াতে সাহায্য করবে আর তাঁর কথার পক্ষে দাঁড়াবে। আরবি ইবন কাসীরে তারা তাঁকে ঘিরে থাকবে খেদমতের জন্য, আর সাক্ষ্য দেবে যে তিনি সত্যবাদী।"
+            "bn": "অন্যেরা ফেরেশতাদের ভূমিকা দেখেন ভিন্নভাবে। কুরতুবী কাতাদার 'একের পর এক' আর মুজাহিদের 'একসঙ্গে হেঁটে' উল্লেখ করে যোগ করেন ইবন আব্বাস (রাঃ)-এর মত: যারা তাঁর বিরোধিতা করে, তাদের বিরুদ্ধে তাঁকে সাহায্য করবে। ছবিটা তিনি এভাবে বোঝান: ফেরেশতারা মূসা (আঃ)-এর সঙ্গে জুড়ে থাকবে, তাদের সংখ্যায় তিনি শক্তি পাবেন, নিজের হুকুমে তাদের চালাবেন, আর তাতে মানুষের মনে এর ছাপ পড়বে আরও গভীর। সা'দীর ব্যাখ্যাও কাছাকাছি: তারা তাঁর দাওয়াতে সাহায্য করবে আর তাঁর কথার পক্ষে দাঁড়াবে। ইবন কাসীরের আরবি তাফসীরে আছে, তারা খেদমতের জন্য তাঁকে ঘিরে থাকবে, আর সাক্ষ্য দেবে যে তিনি সত্যবাদী।"
           },
           {
             "en": "Al-Baghawi joins several of these in one line: in succession, accompanying one another, testifying to his truthfulness and helping him in his affair. Al-Qurtubi also records two older views of what the angels would have been for: helpers, in the view of Muqatil, or proof of his truthfulness, in the view of al-Kalbi. So the glosses range across marching together, arriving in succession, linked to one another, serving, bearing witness and lending strength. The commentators give them side by side, and this article does not choose among them.",
