@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qad aflaha al-mu'minun: truly the believers have succeeded. The Arabic opens with qad and a past-tense verb — the success is announced as a settled fact before a single condition has been listed. Falah is the Quran's word for the full harvest: attaining what one hoped and escaping what one feared. The surah begins by handing that verdict to the believers, then spends the following verses, 23:2-9, describing who exactly was just congratulated.",
-            "bn": "'কাদ আফলাহাল মু'মিনূন' — মুমিনরা সত্যিই সফল হয়ে গেছে। আরবিতে শুরুটা 'কাদ' আর অতীত কালের ক্রিয়া দিয়ে — একটি শর্তও তালিকাভুক্ত হওয়ার আগেই সফলতাকে ঘোষণা করা হয় মীমাংসিত সত্য হিসেবে। 'ফালাহ' হলো পূর্ণ ফসলের জন্য কুরআনের শব্দ: যা আশা করা হয়েছিল তা পাওয়া, আর যা ভয় করা হয়েছিল তা থেকে রেহাই। সূরাটি শুরুতেই মুমিনদের হাতে সেই রায় তুলে দেয়, তারপর পরের আয়াতগুলোতে — 23:2-9 — বর্ণনা করে ঠিক কাদের এইমাত্র অভিনন্দন জানানো হলো।"
+            "bn": "'কাদ আফলাহাল মু'মিনূন': মুমিনরা নিশ্চয়ই সফল হয়ে গেছে। আরবিতে আয়াতটি শুরু হয় 'কাদ' আর অতীত কালের ক্রিয়া দিয়ে। অর্থাৎ একটা শর্তের কথাও বলার আগেই সফলতার ঘোষণা এসে গেছে, যেন ব্যাপারটা আগেই মীমাংসিত। 'ফালাহ' কুরআনে পুরো ফসল ঘরে তোলার শব্দ: মানুষ যা আশা করে তা পাওয়া, আর যার ভয় করে তা থেকে রেহাই পাওয়া। সূরাটি শুরুতেই এই রায় মুমিনদের হাতে তুলে দেয়। তারপর পরের আয়াতগুলোতে (২৩:২-৯) জানিয়ে দেয়, এইমাত্র ঠিক কাদের অভিনন্দন জানানো হলো।"
           },
           {
             "en": "The list that follows names traits, not credentials: humility in prayer, turning from idle talk, giving zakah, guarding chastity, keeping trusts and covenants, protecting the prayers. It ends at 23:10-11 with the inheritance: these are the heirs who will inherit Firdaws, abiding there forever. Success is thus defined at the surah's start, and 23:115 near its end asks the question that gives the definition its urgency: did you think We created you without purpose?",
-            "bn": "এরপরের তালিকাটি নাম নেয় গুণের, সনদের নয়: নামাযে বিনয়, অনর্থক কথা থেকে ফিরে থাকা, যাকাত আদায়, লজ্জাস্থানের হেফাজত, আমানত ও অঙ্গীকার রক্ষা, নামাযসমূহের সংরক্ষণ। তালিকা শেষ হয় 23:10-11 আয়াতে উত্তরাধিকার দিয়ে: এরাই সেই ওয়ারিশ, যারা ফিরদাউসের উত্তরাধিকারী হবে, সেখানে চিরকাল থাকবে। সফলতা এভাবে সংজ্ঞায়িত হয় সূরার শুরুতে, আর শেষের কাছে 23:115 করে সেই প্রশ্ন, যা সংজ্ঞাটিকে তার জরুরিত্ব দেয়: তোমরা কি ভেবেছিলে আমরা তোমাদের উদ্দেশ্যহীন সৃষ্টি করেছি?"
+            "bn": "এরপর যে তালিকা আসে, তাতে আছে গুণের কথা, সনদের নয়: নামাজে বিনয়, অনর্থক কথা থেকে দূরে থাকা, যাকাত আদায়, লজ্জাস্থানের হেফাজত, আমানত ও অঙ্গীকার রক্ষা, আর নামাজের হেফাজত। তালিকা শেষ হয় ২৩:১০-১১ আয়াতে উত্তরাধিকারের ঘোষণায়: এরাই সেই ওয়ারিশ, যারা ফিরদাউসের উত্তরাধিকারী হবে আর সেখানে চিরকাল থাকবে। এভাবে সূরা শুরুতেই সফলতার সংজ্ঞা দিয়ে দেয়। আর শেষের দিকে ২৩:১১৫ সেই প্রশ্ন তোলে, যা এই সংজ্ঞাকে জরুরি করে তোলে: তোমরা কি ভেবেছিলে, আমি তোমাদের অনর্থক সৃষ্টি করেছি?"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first trait chosen — before zakah, chastity or honesty — is alladhina hum fi salatihim khashi'un: those who in their prayer are humbly attentive. Khushu' in the language is lowness and stillness; in the prayer, the commentators describe it as the heart standing present before Allah and the limbs going quiet in sympathy. It is placed first because it is the interior of the deed the whole religion is built around: prayer as meeting, not as motion.",
-            "bn": "প্রথম যে গুণটি বাছাই করা হয়েছে — যাকাত, চারিত্রিক পবিত্রতা বা সততারও আগে — তা হলো 'আল্লাযীনা হুম ফী সালাতিহিম খাশিউন': যারা নিজেদের নামাযে বিনম্র-মনোযোগী। ভাষায় 'খুশু' মানে অবনত হওয়া ও স্থির হওয়া; নামাযে মুফাসসিরগণ একে বর্ণনা করেন — হৃদয় আল্লাহর সামনে উপস্থিত হয়ে দাঁড়ায়, আর অঙ্গ-প্রত্যঙ্গ তার সহমর্মিতায় শান্ত হয়ে আসে। এটিকে প্রথমে রাখা হয়েছে কারণ পুরো দ্বীন যে আমলকে ঘিরে গড়া, এ হলো তার অন্দরমহল: নামায মানে সাক্ষাৎ, নড়াচড়া নয়।"
+            "bn": "আয়াত সবার আগে যে গুণের কথা বলে, যাকাত, চারিত্রিক পবিত্রতা বা সততারও আগে, তা হলো 'আল্লাযীনা হুম ফী সালাতিহিম খাশিউন': যারা নিজেদের নামাজে বিনয়ী ও মনোযোগী। আভিধানিক অর্থে 'খুশু' মানে নত হওয়া, স্থির হওয়া। নামাজের বেলায় মুফাসসিরগণ বলেন, হৃদয় আল্লাহর সামনে হাজির হয়ে দাঁড়ায়, আর তার সঙ্গে তাল মিলিয়ে অঙ্গপ্রত্যঙ্গও শান্ত হয়ে আসে। একে প্রথমে রাখার কারণ: গোটা দ্বীন যে আমলকে ঘিরে গড়া, খুশু সেই আমলের ভেতরের প্রাণ। নামাজ মানে সাক্ষাৎ, শুধু ওঠাবসা নয়।"
           },
           {
             "en": "The wording repays attention: fi salatihim, in their prayer — khushu' is located inside the act, a state to be entered; and salatihim, their prayer, hints at ownership, for a thing is guarded when it is felt as one's own. Al-Bukhari relates from Anas (RA) that the Prophet ﷺ sternly warned people who lift their gaze to the sky during prayer — even the eyes are gathered in. The body is taught to stand still so that the heart can.",
-            "bn": "শব্দবিন্যাসটি মনোযোগের প্রতিদান দেয়: 'ফী সালাতিহিম' — তাদের নামাযের ভেতরে — খুশুর অবস্থান কাজটির অভ্যন্তরে, এ এমন এক অবস্থা যাতে প্রবেশ করতে হয়; আর 'সালাতিহিম' — তাদের নামায — মালিকানার ইঙ্গিত দেয়, কারণ কোনো জিনিস তখনই পাহারা পায় যখন তা নিজের বলে অনুভূত হয়। বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ নামাযে আকাশের দিকে দৃষ্টি তোলা লোকদের কঠোরভাবে সতর্ক করেছেন — এমনকি চোখদুটোকেও গুটিয়ে আনা হয়। দেহকে স্থির দাঁড়াতে শেখানো হয়, যাতে হৃদয় স্থির হতে পারে।"
+            "bn": "শব্দগুলো খেয়াল করার মতো। 'ফী সালাতিহিম' মানে তাদের নামাজের ভেতরে: খুশুর জায়গা আমলটির ভেতরেই, এ এমন এক অবস্থা যার ভেতরে ঢুকতে হয়। আবার 'সালাতিহিম', তাদের নামাজ, কথাটায় মালিকানার ইঙ্গিত আছে। মানুষ কোনো জিনিস তখনই আগলে রাখে, যখন তাকে নিজের বলে মনে করে। বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন, নামাজে যারা আকাশের দিকে চোখ তোলে, নবী ﷺ তাদের কঠোরভাবে সতর্ক করেছেন। চোখকেও গুটিয়ে আনতে হয়। দেহকে স্থির দাঁড়াতে শেখানো হয়, যেন হৃদয়ও স্থির হতে পারে।"
           }
         ]
       },
@@ -53,7 +53,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir observes that the passage opens with the prayer's khushu' at 23:2 and closes with its guarding at 23:9 — beginning and ending the portrait of success with salah. The bracket carries a teaching: quality first, constancy last, and everything else — speech, wealth, chastity, trust — held between them. A life framed by prayer at both edges is what the surah means by a believer; the traits in the middle are what such framing produces.",
-            "bn": "ইবনে কাসীর লক্ষ করেন, অনুচ্ছেদটি খোলে 23:2 আয়াতে নামাযের খুশু দিয়ে, আর বন্ধ হয় 23:9 আয়াতে তার হেফাজত দিয়ে — সফলতার প্রতিকৃতির শুরু ও শেষ দুটোই সালাত দিয়ে। এই বন্ধনী একটি শিক্ষা বহন করে: আগে মান, শেষে নিয়মানুবর্তিতা, আর বাকি সব — কথা, সম্পদ, চারিত্রিক পবিত্রতা, আমানত — এ দুয়ের মাঝে ধরা। দুই কিনারায় নামাযে বাঁধাই করা একটি জীবন — সূরাটি 'মুমিন' বলতে এটিই বোঝায়; মাঝের গুণগুলো সেই বাঁধাইয়েরই ফসল।"
+            "bn": "ইবনে কাসীর লক্ষ করেছেন, এই আয়াতগুচ্ছ শুরু হয় ২৩:২ আয়াতে নামাজের খুশু দিয়ে, আর শেষ হয় ২৩:৯ আয়াতে নামাজের হেফাজত দিয়ে। সফলতার ছবিটার শুরু আর শেষ, দুটোই সালাত। এই দুই প্রান্তের মধ্যে একটা শিক্ষা আছে: আগে মান, শেষে নিয়মিত থাকা, আর বাকি সব (কথা, সম্পদ, চারিত্রিক পবিত্রতা, আমানত) এই দুয়ের মাঝখানে। যে জীবনের দুই প্রান্তই নামাজে বাঁধা, সূরাটি 'মুমিন' বলতে সেই জীবনকেই বোঝায়। মাঝের গুণগুলো সেই বাঁধনেরই ফসল।"
           }
         ]
       },
@@ -65,11 +65,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second trait: wa-alladhina hum 'ani al-laghwi mu'ridun — those who turn away from laghw. Laghw is whatever carries no benefit: idle talk, vain disputes, entertainment that leaves nothing behind, and at its worst, falsehood. The word is a participle, mu'ridun, ones turning aside — not fighting laghw, not policing it in others, simply withdrawing their attention from it. 25:72 shows the same gait: when they pass by laghw, they pass with dignity.",
-            "bn": "দ্বিতীয় গুণ: 'ওয়াল্লাযীনা হুম আনিল-লাগবি মু'রিদূন' — যারা লাগও থেকে মুখ ফিরিয়ে থাকে। 'লাগও' হলো যা কিছু কোনো উপকার বহন করে না: অনর্থক কথা, বৃথা তর্ক, যে বিনোদন পেছনে কিছুই রেখে যায় না, আর তার নিকৃষ্টতম রূপে — মিথ্যা। শব্দটি একটি কর্তৃবাচক বিশেষণ-পদ (ইসম ফা'ইল) — 'মু'রিদূন', পাশ কাটিয়ে চলা মানুষ — লাগওয়ের সঙ্গে লড়াই নয়, অন্যদের মধ্যে তার পাহারাদারিও নয়, স্রেফ তা থেকে নিজেদের মনোযোগ তুলে নেওয়া। 25:72 একই চলন দেখায়: তারা যখন লাগওয়ের পাশ দিয়ে যায়, মর্যাদার সঙ্গে পেরিয়ে যায়।"
+            "bn": "দ্বিতীয় গুণ: 'ওয়াল্লাযীনা হুম আনিল-লাগবি মু'রিদূন', যারা লাগও থেকে মুখ ফিরিয়ে রাখে। যাতে কোনো উপকার নেই, তা-ই লাগও: অনর্থক কথা, বৃথা তর্ক, এমন বিনোদন যা শেষে কিছুই রেখে যায় না, আর সবচেয়ে খারাপ রূপে মিথ্যা। 'মু'রিদূন' শব্দটি ইসমে ফা'ইল, মানে যারা পাশ কাটিয়ে চলে। তারা লাগওয়ের সঙ্গে লড়াই করে না, অন্যের লাগও পাহারাও দেয় না, শুধু নিজেদের মনোযোগটা সেখান থেকে তুলে নেয়। ২৫:৭২ একই চালচলনের কথা বলে: লাগওয়ের পাশ দিয়ে যাওয়ার সময় তারা মর্যাদার সঙ্গে পেরিয়ে যায়।"
           },
           {
             "en": "28:55 adds the words of such people: when they hear laghw they turn from it and say, to us our deeds and to you yours — peace be upon you; we do not seek the ignorant. The commentators note the connection between this trait and the first: a heart soaked in idle speech arrives at prayer still buzzing with it. Guarding the tongue and ears between prayers is how khushu' inside the prayer is provisioned; the two traits are one economy of attention.",
-            "bn": "28:55 এমন মানুষদের কথাগুলোও যোগ করে: তারা লাগও শুনলে তা থেকে মুখ ফিরিয়ে নেয় এবং বলে — আমাদের আমল আমাদের, তোমাদের আমল তোমাদের; তোমাদের প্রতি সালাম, আমরা অজ্ঞদের সঙ্গ চাই না। মুফাসসিরগণ এই গুণ ও প্রথম গুণের সংযোগটি লক্ষ করেন: অনর্থক কথায় ভেজা হৃদয় নামাযে পৌঁছেও তার গুঞ্জন নিয়ে হাজির হয়। নামাযগুলোর মাঝের সময়ে জিহ্বা ও কান পাহারা দেওয়াই হলো নামাযের ভেতরের খুশুর রসদ জোগানো; গুণ দুটি আসলে মনোযোগের একটিই অর্থনীতি।"
+            "bn": "২৮:৫৫ আয়াতে এমন মানুষদের মুখের কথাও আছে: লাগও শুনলে তারা মুখ ফিরিয়ে নেয় আর বলে, আমাদের আমল আমাদের, তোমাদের আমল তোমাদের; তোমাদের প্রতি সালাম, আমরা অজ্ঞদের সঙ্গ চাই না। মুফাসসিরগণ এই গুণের সঙ্গে প্রথম গুণের যোগসূত্র দেখিয়েছেন: যে হৃদয় অনর্থক কথায় ডুবে থাকে, নামাজে এসেও তার ভেতরে সেই গুঞ্জন চলতে থাকে। দুই নামাজের মাঝের সময়টায় জিহ্বা আর কান সামলে রাখলেই নামাজের ভেতরের খুশুর রসদ জমে। গুণ দুটো আসলে একই মনোযোগের জমা-খরচের হিসাব।"
           }
         ]
       },
@@ -81,23 +81,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The definition cuts against the market's. Nothing in 23:1-11 mentions accumulating wealth, status, safety or length of days; the failed and the flourishing are distinguished by the quality of worship and the discipline of speech and appetite. The Quran prices the alternatives elsewhere too: 87:14-15 — he has succeeded who purifies himself, remembers his Lord's name and prays; 91:9-10 — he succeeds who purifies the soul, and he fails who buries it. Falah is consistently an inward transaction with outward fruit.",
-            "bn": "সংজ্ঞাটি বাজারের সংজ্ঞার বিপরীতে কাটে। 23:1-11 আয়াতের কোথাও সম্পদ জমানো, মর্যাদা, নিরাপত্তা বা আয়ুর দৈর্ঘ্যের উল্লেখ নেই; ব্যর্থ আর সফলের পার্থক্য করা হয়েছে ইবাদতের মান এবং কথা ও প্রবৃত্তির শৃঙ্খলা দিয়ে। কুরআন অন্যত্রও বিকল্পগুলোর দাম বেঁধে দেয়: 87:14-15 — সে-ই সফল হয়েছে, যে নিজেকে পরিশুদ্ধ করেছে, তার রবের নাম স্মরণ করেছে এবং নামায পড়েছে; 91:9-10 — সে-ই সফল, যে আত্মাকে পরিশুদ্ধ করে, আর সে-ই ব্যর্থ, যে তাকে কলুষে ঢেকে দেয়। 'ফালাহ' ধারাবাহিকভাবেই এক ভেতরের লেনদেন, যার ফল বাইরে ফলে।"
+            "bn": "বাজার সফলতা বলতে যা বোঝে, এই সংজ্ঞা তার উল্টো। ২৩:১-১১ আয়াতের কোথাও সম্পদ জমানো, পদমর্যাদা, নিরাপত্তা বা দীর্ঘ আয়ুর কথা নেই। কে ব্যর্থ আর কে সফল, তা ঠিক হয় ইবাদতের মান দিয়ে, আর কথা ও প্রবৃত্তি কতটা সংযত, তা দিয়ে। কুরআন অন্য জায়গাতেও এই দুই পথের দাম বলে দিয়েছে। ৮৭:১৪-১৫: সে-ই সফল, যে নিজেকে পরিশুদ্ধ করেছে, তার রবের নাম স্মরণ করেছে আর নামাজ পড়েছে। ৯১:৯-১০: সে-ই সফল, যে আত্মাকে পরিশুদ্ধ করে, আর সে-ই ব্যর্থ, যে তাকে কলুষে ঢেকে দেয়। কুরআনে 'ফালাহ' সবসময় ভেতরের এক লেনদেন, যার ফল দেখা যায় বাইরে।"
           }
         ]
       },
       {
         "h": {
           "en": "Entering the Description",
-          "bn": "বর্ণনাটির ভেতরে ঢোকা"
+          "bn": "বর্ণনার ভেতরে নিজেকে আনা"
         },
         "p": [
           {
             "en": "The practical door is the first trait, taken concretely. Khushu' responds to preparation: arriving before the iqamah rather than during it, knowing the meaning of what is recited, and remembering that the prayer may be one's last — the Prophet ﷺ advised a man, in what Ibn Majah relates, to pray the prayer of one bidding farewell. None of this is exotic; all of it is scheduling and attention, which is why the verse can fairly ask it of everyone.",
-            "bn": "ব্যবহারিক দরজাটি হলো প্রথম গুণ — বাস্তবভাবে ধরা। খুশু প্রস্তুতিতে সাড়া দেয়: ইকামতের সময় নয়, তার আগে পৌঁছানো; যা তিলাওয়াত হচ্ছে তার অর্থ জানা; আর মনে রাখা যে এই নামাযই শেষ নামায হতে পারে — নবী ﷺ এক ব্যক্তিকে উপদেশ দিয়েছিলেন — ইবনে মাজাহ যা বর্ণনা করেন — বিদায়ী মানুষের নামাযের মতো নামায পড়তে। এর কোনোটিই দুর্লভ কিছু নয়; সবটাই সময় ব্যবস্থাপনা আর মনোযোগ — আর এ কারণেই আয়াতটি ন্যায্যভাবে সবার কাছে তা চাইতে পারে।"
+            "bn": "শুরু করার সহজ দরজা প্রথম গুণটিই, তবে বাস্তবভাবে ধরে। খুশু আসে প্রস্তুতি থেকে: ইকামতের সময় নয়, তার আগেই পৌঁছে যাওয়া; যা তিলাওয়াত হচ্ছে তার অর্থ জানা; আর মনে রাখা যে এই নামাজই হয়তো জীবনের শেষ নামাজ। ইবনে মাজাহর বর্ণনায় আছে, নবী ﷺ এক ব্যক্তিকে উপদেশ দিয়েছিলেন, বিদায় নিচ্ছে এমন মানুষের মতো নামাজ পড়তে। এর কোনোটাই অসাধ্য কিছু নয়। সবটাই সময়ের হিসাব আর মনোযোগের ব্যাপার, তাই আয়াতটি ন্যায্যভাবেই সবার কাছে এটা চাইতে পারে।"
           },
           {
             "en": "Then the second trait, also concretely: an audit of inputs. What a person scrolls, overhears and repeats is not neutral; the verse treats attention as capital that success requires spending well. Turning away — mu'ridun — is undramatic: closing the feed, leaving the pointless argument, letting a rumour die at one's own ear. Done for Allah, these small withdrawals are listed in the Quran among the traits of the people who inherit Firdaws, which is a remarkable exchange rate.",
-            "bn": "তারপর দ্বিতীয় গুণ, সেটিও বাস্তবভাবে: যা ঢোকে তার হিসাব-নিরীক্ষা। মানুষ যা স্ক্রল করে, কানে তোলে আর মুখে ফেরায়, তা নিরপেক্ষ নয়; আয়াতটি মনোযোগকে গণ্য করে এমন পুঁজি হিসেবে, সফলতার জন্য যা ভালোভাবে খরচ করা জরুরি। মুখ ফিরিয়ে নেওয়া — 'মু'রিদূন' — নাটকীয় কিছু নয়: ফিডটি বন্ধ করা, অর্থহীন তর্ক ছেড়ে আসা, গুজবকে নিজের কানেই মরতে দেওয়া। আল্লাহর জন্য করা হলে এই ছোট ছোট সরে আসাগুলোই কুরআনে তালিকাভুক্ত হয় ফিরদাউসের উত্তরাধিকারীদের গুণাবলির মধ্যে — যা এক অসাধারণ বিনিময়-হার।"
+            "bn": "তারপর দ্বিতীয় গুণ, সেটাও বাস্তবভাবে: ভেতরে কী ঢুকছে তার হিসাব নেওয়া। মানুষ যা স্ক্রল করে, যা কানে আসে আর যা মুখে আওড়ায়, তার কোনোটাই নিরপেক্ষ নয়। আয়াতটির চোখে মনোযোগ এক পুঁজি, আর সফল হতে হলে সেই পুঁজি ঠিক জায়গায় খরচ করতে হয়। মুখ ফিরিয়ে নেওয়া, মানে 'মু'রিদূন' হওয়া, নাটকীয় কিছু নয়: ফিড বন্ধ করা, অর্থহীন তর্ক থেকে উঠে আসা, গুজবটা নিজের কানেই থামিয়ে দেওয়া। আল্লাহর জন্য করলে এই ছোট ছোট সরে আসাগুলোকেই কুরআন ফিরদাউসের উত্তরাধিকারীদের গুণের তালিকায় রেখেছে। বিনিময়টা সত্যিই অবাক করার মতো।"
           }
         ]
       }
@@ -117,7 +117,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the line is drawn: illā ʿalā azwājihim aw mā malakat aymānuhum (23:6), except with their wives or those their right hands possess. At-Tabari glosses ʿalā azwājihim as the wives whom Allah made lawful to men through marriage, and the closing fa-innahum ghayru malūmīn as this: such a man is not rebuked, not blamed, and bears no sin he could be faulted for. So the exception is not a hole cut in the guarding. It is the place where the guarding rightly comes to rest.",
-            "bn": "এরপর টানা হয় সীমারেখা: ইল্লা আলা আযওয়াজিহিম আও মা মালাকাত আইমানুহুম (২৩:৬), নিজেদের স্ত্রী কিংবা তাদের ডান হাত যাদের মালিক, তারা ছাড়া। তাবারী আলা আযওয়াজিহিম-এর ব্যাখ্যা দেন সেই স্ত্রীরা হিসেবে যাদের আল্লাহ বিয়ের মাধ্যমে পুরুষদের জন্য হালাল করেছেন, আর শেষাংশ ফাইন্নাহুম গাইরু মালূমীন-এর অর্থ করেন এভাবে: এমন লোককে ভর্ৎসনা করা হয় না, নিন্দা করা হয় না, আর এতে এমন কোনো গুনাহ নেই যার জন্য তাকে দোষ দেওয়া যায়। তাই এই ব্যতিক্রম হেফাজতে কাটা কোনো ফাঁক নয়। এ সেই জায়গা যেখানে হেফাজত যথাযথভাবে থিতু হয়।"
+            "bn": "এরপর সীমারেখা টানা হয়: ইল্লা আলা আযওয়াজিহিম আও মা মালাকাত আইমানুহুম (২৩:৬), নিজেদের স্ত্রী কিংবা তাদের ডান হাত যাদের মালিক, তারা ছাড়া। তাবারী বলেন, আলা আযওয়াজিহিম মানে সেই স্ত্রীরা, বিয়ের মাধ্যমে আল্লাহ যাদের পুরুষদের জন্য হালাল করেছেন। আর শেষাংশ ফাইন্নাহুম গাইরু মালূমীন-এর অর্থ: এমন লোককে তিরস্কার করা হয় না, দোষ দেওয়া হয় না, এতে তার এমন কোনো গুনাহ নেই যার জন্য তাকে ধরা যায়। তাই এই ব্যতিক্রম হেফাজতের গায়ে কাটা কোনো ফুটো নয়। এখানেই হেফাজত তার ন্যায্য ঠিকানায় এসে থামে।"
           }
         ]
       },
@@ -145,11 +145,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The phrase mā malakat aymānuhum, those whom the right hands possess, the commentators on this verse read plainly. At-Tabari, as-Sa'di and al-Muyassar each gloss it as the imāʾ, the bondwomen of that era's legal order, adding that no blame attaches because Allah had made this lawful within that setting. Ibn Kathir names them the captives held as such. It is history being reported by the mufassirūn, the law of a world that was, not a practice the verse sets out to commend. The reading runs uniform across them, and none reaches past the plain sense of the words to make the clause say more than its own age did.",
-            "bn": "মা মালাকাত আইমানুহুম, অর্থাৎ ডান হাত যাদের মালিক, এই আয়াতের তাফসীরকারেরা সোজাভাবেই পড়েন। তাবারী, সা'দী ও মুয়াসসার প্রত্যেকে একে ব্যাখ্যা করেন সেকালের আইনি ব্যবস্থার দাসীদের হিসেবে, আর বলেন যে এতে কোনো নিন্দা নেই, কারণ আল্লাহ সেই পরিসরে তা হালাল করেছিলেন। ইবন কাসীর তাদের বলেন এভাবে ধরে রাখা বন্দিদের। এ তাফসীরকারদের বর্ণিত ইতিহাস, এক বিগত জগতের আইন, আয়াত যা সুপারিশ করতে নামেনি এমন কোনো প্রথা নয়। তাদের সবার পড়াই অভিন্ন, আর কেউ শব্দের সোজা অর্থ ছাড়িয়ে বাক্যাংশটিকে তার নিজের যুগের চেয়ে বেশি কিছু বলাতে যায় না।"
+            "bn": "মা মালাকাত আইমানুহুম, অর্থাৎ ডান হাত যাদের মালিক: এই আয়াতের তাফসীরকারেরা কথাটা সোজা অর্থেই নেন। তাবারী, সা'দী ও মুয়াসসার প্রত্যেকেই বলেন, এরা সেকালের আইনি ব্যবস্থার দাসী, আর যোগ করেন যে এতে কোনো নিন্দা নেই, কারণ সেই প্রেক্ষাপটে আল্লাহ তা হালাল করেছিলেন। ইবন কাসীর তাদের বলেন সেভাবে আটক বন্দি। এ হলো তাফসীরকারদের জানানো ইতিহাস, বিগত এক জগতের আইন; আয়াত এ প্রথার প্রশংসা করতে নামেনি। সবার ব্যাখ্যা একই রকম, আর কেউই শব্দের সোজা অর্থ ছাড়িয়ে বাক্যাংশটির মুখে তার নিজের যুগের চেয়ে বেশি কিছু বসান না।"
           },
           {
             "en": "This must be said plainly, in both languages. The classical commentators are describing an institution of their time's law; they are not issuing a licence for ours. The verse states what the sources state and licenses nothing against any living person or community. The slavery those societies knew is gone, and the passage never rested its weight there. Its weight rests on the guarding, on holding desire inside lawful bounds, in whatever age a believer happens to read it. To celebrate it misreads the text, and to rail at it misreads it too; the sober course is to report the scholars' scope and turn back to restraint.",
-            "bn": "কথাটা দুই ভাষাতেই স্পষ্ট করে বলা দরকার। ক্লাসিক্যাল তাফসীরকারেরা তাঁদের কালের আইনের এক প্রতিষ্ঠানের বর্ণনা দিচ্ছেন, আমাদের কালের জন্য কোনো অনুমতি জারি করছেন না। আয়াত যা উৎসে আছে তা-ই বলে, আর কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। সেসব সমাজ যে দাসপ্রথা জানত তা আজ নেই, আর এ অংশ কখনো সেখানে তার ভার রাখেনি। তার ভার রাখা আছে হেফাজতের উপরে, যে-কোনো যুগে বান্দা এ পড়ুক না কেন, কামনাকে বৈধ সীমার ভেতরে ধরে রাখার উপরে। একে উদযাপন করা যেমন আয়াতকে ভুল পড়া, তেমনি আয়াতের বিরুদ্ধে গর্জানোও ভুল পড়া; ধীরস্থির পথ হলো শুধু আলেমদের দেওয়া পরিধিটুকু জানিয়ে ভারটা সংযমের দিকে ফিরিয়ে আনা।"
+            "bn": "কথাটা দুই ভাষাতেই স্পষ্ট করে বলা দরকার। ক্লাসিক্যাল তাফসীরকারেরা তাঁদের যুগের আইনের একটা প্রতিষ্ঠানের বর্ণনা দিচ্ছেন; আমাদের যুগের জন্য কোনো অনুমতি জারি করছেন না। উৎসগুলো যা বলে, এখানে কেবল তা-ই বলা হচ্ছে; কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ কিছুরই অনুমতি দেয় না। সেসব সমাজের দাসপ্রথা আজ আর নেই, আর এ অংশের ভার কখনো সেখানে ছিল না। এর ভার হেফাজতের উপর: মু'মিন যে যুগেই এ আয়াত পড়ুক, কামনাকে বৈধ সীমার ভেতরে ধরে রাখা। একে নিয়ে উল্লাস করা যেমন আয়াতের ভুল পাঠ, এর বিরুদ্ধে গলা চড়ানোও তেমনি ভুল পাঠ। সংযত পথ হলো আলেমরা যতটুকু বলেছেন ততটুকু জানানো, তারপর সংযমের শিক্ষায় ফিরে আসা।"
           },
           {
             "en": "Al-Qurtubi records how hedged the clause always was. By the agreement of the jurists, he reports, a woman may not take her own male slave in this way; the address is to men, and she does not enter the verse. He notes too that ownership dissolves a prior marriage rather than divorcing it, so the categories never blur. The detail earns its place only to show how bound to its own legal world this clause has been from the very start. In his hands the whole discussion stays technical and time-bound, a matter of a vanished law, never a charter a reader today could reach for.",
@@ -208,7 +208,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Counted Among the Saved",
-          "bn": "সফলদের কাতারে গণিত"
+          "bn": "সফলদের কাতারে গোনা"
         },
         "p": [
           {
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is why the exception closes not with a shrug but with fa-innahum ghayru malūmīn, they are not blamed. In a sūrah that opens by declaring the believers already successful (23:1), freedom from blame is itself a quiet praise. The man who keeps desire in its lawful place has nothing he must answer for. He is not merely tolerated at the edge of the community. He is counted in, among the very people the chapter has just called the successful. Not to be blamed, in a sūrah built on praise, is to be quietly named among the winners, and the guarded believer wears that verdict.",
-            "bn": "এ কারণেই ব্যতিক্রম শেষ হয় কাঁধ ঝাঁকিয়ে নয়, বরং ফাইন্নাহুম গাইরু মালূমীন দিয়ে, তারা নিন্দিত নয়। যে সূরা শুরুই হয় মু'মিনদের সফলকাম ঘোষণা দিয়ে (২৩:১), সেখানে নিন্দা থেকে মুক্তি নিজেই এক নীরব প্রশংসা। যে কামনাকে তার বৈধ জায়গায় রাখে, তার জবাব দেওয়ার কিছু নেই। তাকে সমাজের কিনারে কেবল সহ্য করা হয় না। তাকে গোনা হয় ভেতরে, ঠিক সেই মানুষদের মধ্যে যাদের অধ্যায় খানিক আগেই সফলকাম বলেছে। প্রশংসার উপর গড়া সূরায় নিন্দামুক্ত থাকা মানে বিজয়ীদের কাতারে চুপচাপ নাম ওঠা, আর হেফাজতকারী মু'মিন সেই রায়টিই বহন করে।"
+            "bn": "এ কারণেই ব্যতিক্রমটি দায়সারাভাবে শেষ হয় না, শেষ হয় ফাইন্নাহুম গাইরু মালূমীন দিয়ে: তারা নিন্দিত নয়। যে সূরা শুরুই হয় মু'মিনদের সফলকাম ঘোষণা দিয়ে (২৩:১), সেখানে নিন্দা থেকে মুক্তি নিজেই এক নীরব প্রশংসা। যে কামনাকে তার বৈধ জায়গায় রাখে, তার জবাবদিহির কিছু নেই। সমাজের কিনারে তাকে কোনোমতে সহ্য করা হয় না। তাকে ভেতরেই গোনা হয়, ঠিক সেই মানুষদের দলে, যাদের সূরাটি এইমাত্র সফলকাম বলেছে। প্রশংসার উপর গড়া সূরায় নিন্দামুক্ত থাকা মানে চুপচাপ বিজয়ীদের তালিকায় নাম ওঠা, আর হেফাজতকারী মু'মিন সেই রায়টিই বহন করে।"
           }
         ]
       },
@@ -249,11 +249,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse continues an argument begun two verses earlier. 23:12 states that man was created from an extract of clay, and 23:13 that he was then placed as a drop in a secure lodging. 23:14 carries the chain forward with linked verbs, each stage named and the next made out of it. The grammar is worth noticing before the content.",
-            "bn": "আয়াতটি দুই আয়াত আগে শুরু হওয়া একটি যুক্তির ধারাবাহিকতা। 23:12 বলে, মানুষকে সৃষ্টি করা হয়েছে মাটির নির্যাস থেকে; আর 23:13 বলে, এরপর তাকে শুক্রবিন্দু রূপে এক সুরক্ষিত আধারে স্থাপন করা হয়েছে। 23:14 সেই শৃঙ্খলটিকে পরস্পরযুক্ত ক্রিয়াপদ দিয়ে এগিয়ে নেয় — প্রতিটি স্তরের নাম বলা হয় এবং পরেরটি তা থেকেই বানানো হয়। বিষয়বস্তুর আগে ব্যাকরণটিই লক্ষ করার মতো।"
+            "bn": "দুই আয়াত আগে যে যুক্তি শুরু হয়েছিল, এ আয়াত সেটাকেই এগিয়ে নেয়। ২৩:১২ বলে, মানুষকে সৃষ্টি করা হয়েছে মাটির নির্যাস থেকে; ২৩:১৩ বলে, তারপর তাকে শুক্রবিন্দু হিসেবে এক নিরাপদ আধারে রাখা হয়েছে। ২৩:১৪ একের পর এক ক্রিয়াপদ জুড়ে সেই ধারাকে আরও সামনে নেয়: প্রতিটি স্তরের নাম আসে, আর পরের স্তরটি গড়া হয় আগেরটি থেকেই। বিষয়বস্তুর আগে ব্যাকরণটাই খেয়াল করার মতো।"
           },
           {
             "en": "Every verb in the chain has the same subject, and it is We. Nothing in the sentence develops, becomes or emerges of itself. Even in the last clause, where a genuinely new kind of thing appears, the verb is ansha'nahu, We produced him. A reader accustomed to describing his own beginnings in the passive voice is handed a sentence in which each step has an agent, and the agent never changes.",
-            "bn": "এই শৃঙ্খলের প্রতিটি ক্রিয়াপদের কর্তা একই, আর তা হলো 'আমি'। বাক্যটির কোথাও কিছু নিজে থেকে বিকশিত হয় না, হয়ে ওঠে না, বেরিয়ে আসে না। এমনকি শেষ বাক্যাংশেও, যেখানে সত্যিকারের নতুন ধরনের এক সত্তা আবির্ভূত হয়, ক্রিয়াপদটি 'আনশা'নাহু' — আমি তাকে সৃজন করেছি। যে পাঠক নিজের সূচনা বর্ণনা করতে অভ্যস্ত কর্মবাচ্যে, তার হাতে এমন এক বাক্য তুলে দেওয়া হয় যার প্রতিটি ধাপের একজন কর্তা আছে, এবং সেই কর্তা কখনো বদলায় না।"
+            "bn": "এই ধারার প্রতিটি ক্রিয়াপদের কর্তা একজনই: 'আমি'। বাক্যের কোথাও কোনো কিছু নিজে নিজে বিকশিত হয় না, হয়ে ওঠে না, বেরিয়ে আসে না। শেষ অংশে যেখানে সত্যিই নতুন ধরনের এক সত্তা দেখা দেয়, সেখানেও ক্রিয়াপদটি 'আনশা'নাহু', আমি তাকে সৃজন করেছি। যে পাঠক নিজের সূচনার কথা কর্মবাচ্যে বলে অভ্যস্ত, তার হাতে আসে এমন এক বাক্য, যার প্রতিটি ধাপের একজন কর্তা আছেন, আর সেই কর্তা কখনো বদলান না।"
           }
         ]
       },
@@ -269,7 +269,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Both readings agree on the essential thing: this is a change of kind, not another change of size. Something that was being shaped becomes someone who can be addressed. 32:9 says as much in its own words — He proportioned him and breathed into him of His spirit, and made for you hearing and sight and hearts. The faculties named there are exactly the ones by which a person is later held responsible.",
-            "bn": "দুটি পাঠই মূল বিষয়ে একমত: এটি ধরনের পরিবর্তন, আকারের আরেকটি পরিবর্তন নয়। যাকে গড়া হচ্ছিল, সে এমন একজন হয়ে ওঠে যাকে সম্বোধন করা যায়। 32:9 নিজের ভাষায় একই কথা বলে — তিনি তাকে সুঠাম করলেন এবং তাতে নিজের পক্ষ থেকে রূহ ফুঁকে দিলেন, আর তোমাদের জন্য শ্রবণ, দৃষ্টি ও হৃদয় দিলেন। সেখানে যেসব শক্তির নাম নেওয়া হয়েছে, ঠিক সেগুলোর ভিত্তিতেই পরে মানুষকে দায়বদ্ধ করা হয়।"
+            "bn": "দুই ব্যাখ্যাই মূল কথায় একমত: এ বদল আকারের আরেকটা বদল নয়, ধরনেরই বদল। যাকে এতক্ষণ গড়া হচ্ছিল, সে এখন এমন একজন, যাকে সম্বোধন করা যায়। ৩২:৯ নিজের ভাষায় একই কথা বলে: তিনি তাকে সুঠাম করলেন, তাতে নিজের পক্ষ থেকে রূহ ফুঁকে দিলেন, আর তোমাদের দিলেন শ্রবণশক্তি, দৃষ্টি ও অন্তর। সেখানে যে শক্তিগুলোর নাম এসেছে, ঠিক সেগুলোর জন্যই পরে মানুষকে জবাবদিহি করতে হয়।"
           }
         ]
       },
@@ -281,11 +281,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The chain runs straight on. 23:15 says that after that you are certainly to die, and 23:16 that on the Day of Resurrection you will certainly be raised. Ibn Kathir reads the three verses as one movement: created from nothing, then death, then a creation anew. Whoever accepted the first two steps because he has watched them happen has been walked into the third by the same conjunction that carried him through the first.",
-            "bn": "শৃঙ্খলটি সোজা এগিয়ে যায়। 23:15 বলে, এরপর তোমরা অবশ্যই মরবে; আর 23:16 বলে, কিয়ামতের দিন তোমাদের অবশ্যই পুনরুত্থিত করা হবে। ইবনে কাসীর এই তিন আয়াতকে একটি গতিধারা হিসেবে পড়েন: শূন্য থেকে সৃষ্টি, তারপর মৃত্যু, তারপর নতুন করে সৃষ্টি। যে ব্যক্তি প্রথম দুই ধাপ মেনে নিয়েছে কারণ সে সেগুলো ঘটতে দেখেছে, তাকে তৃতীয় ধাপে নিয়ে যাওয়া হয়েছে সেই একই সংযোজক শব্দ দিয়ে যা তাকে প্রথম ধাপ পার করিয়েছিল।"
+            "bn": "ধারাটি সোজা সামনে এগোয়। ২৩:১৫ বলে, এরপর তোমরা অবশ্যই মারা যাবে; ২৩:১৬ বলে, কিয়ামতের দিন তোমাদের অবশ্যই আবার ওঠানো হবে। ইবনে কাসীর এই তিন আয়াতকে একটানা এক ধারা হিসেবে পড়েন: শূন্য থেকে সৃষ্টি, তারপর মৃত্যু, তারপর নতুন করে সৃষ্টি। প্রথম দুই ধাপ মানুষ মেনে নেয়, কারণ সেগুলো ঘটতে সে নিজের চোখে দেখেছে। যে সংযোজক শব্দ তাকে প্রথম ধাপ পার করিয়েছিল, সেই শব্দই তাকে হাঁটিয়ে তৃতীয় ধাপে এনে দাঁড় করায়।"
           },
           {
             "en": "The Quran makes that inference explicit elsewhere. 36:78 has a man ask who will give life to bones once they are disintegrated, and 36:79 answers that the One who produced them the first time will. 30:27 says He begins creation then repeats it, and that is easier for Him. 50:15 asks whether We were wearied by the first creation, and observes that they are in confusion about a new one.",
-            "bn": "কুরআন অন্যত্র এই সিদ্ধান্তটি স্পষ্ট করে বলে দেয়। 36:78-এ এক ব্যক্তি জিজ্ঞেস করে, হাড় যখন গলে যাবে তখন কে তাতে প্রাণ দেবে; আর 36:79 জবাব দেয়, যিনি প্রথমবার তা সৃষ্টি করেছেন তিনিই দেবেন। 30:27 বলে, তিনিই সৃষ্টির সূচনা করেন, তারপর তার পুনরাবৃত্তি করেন, আর তা তাঁর জন্য আরও সহজ। 50:15 জিজ্ঞেস করে, প্রথম সৃষ্টিতে কি আমি ক্লান্ত হয়েছিলাম — আর লক্ষ করে যে তারা নতুন সৃষ্টির ব্যাপারে বিভ্রান্তিতে আছে।"
+            "bn": "কুরআন অন্য জায়গায় এই সিদ্ধান্ত সরাসরি বলে দিয়েছে। ৩৬:৭৮-এ এক লোক প্রশ্ন করে, হাড় পচে-গলে যাওয়ার পর কে তাতে প্রাণ দেবে? ৩৬:৭৯ জবাব দেয়: যিনি প্রথমবার তা সৃষ্টি করেছেন, তিনিই দেবেন। ৩০:২৭ বলে, তিনিই সৃষ্টির সূচনা করেন, তারপর আবার তা করেন, আর সেটা তাঁর জন্য আরও সহজ। ৫০:১৫ প্রশ্ন করে, প্রথম সৃষ্টিতে কি আমি ক্লান্ত হয়ে পড়েছিলাম? আসলে নতুন সৃষ্টি নিয়েই তারা সংশয়ে পড়ে আছে।"
           }
         ]
       },
@@ -297,7 +297,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the verse breaks off and praises: fatabaraka Allahu ahsanu al-khaliqin. The verb tabaraka is built on the root of barakah, good that is abundant and does not run out, and in the Quran it is said only of Allah or of His name. It is not a wish that someone be blessed. It is a statement that such good belongs to Him, offered here as the natural end of the description just given.",
-            "bn": "এরপর আয়াতটি বর্ণনা থামিয়ে প্রশংসায় ফেটে পড়ে: ফাতাবারাকাল্লাহু আহসানুল খালিকীন। 'তাবারাকা' ক্রিয়াপদটি গড়া হয়েছে 'বারাকাহ' শব্দমূল থেকে — এমন কল্যাণ যা প্রচুর এবং যা ফুরায় না; আর কুরআনে এটি কেবল আল্লাহ বা তাঁর নামের ক্ষেত্রেই ব্যবহৃত হয়েছে। এটি কারও জন্য বরকতের দোয়া নয়। এটি একটি ঘোষণা যে এই কল্যাণ তাঁরই — আর এখানে তা পেশ করা হয়েছে এইমাত্র দেওয়া বর্ণনার স্বাভাবিক পরিণতি হিসেবে।"
+            "bn": "এরপর আয়াত বর্ণনা থামিয়ে প্রশংসায় ফেটে পড়ে: ফাতাবারাকাল্লাহু আহসানুল খালিকীন। 'তাবারাকা' ক্রিয়াপদের মূল 'বারাকাহ', অর্থাৎ এমন কল্যাণ যা প্রচুর আর যা কখনো ফুরায় না। কুরআনে এ শব্দ কেবল আল্লাহ বা তাঁর নামের বেলাতেই এসেছে। এ কারও জন্য বরকতের দোয়া নয়; এ এক ঘোষণা যে এমন কল্যাণ তাঁরই। আর এইমাত্র যে বর্ণনা এল, তার স্বাভাবিক সমাপ্তি হিসেবেই ঘোষণাটি এখানে আসে।"
           },
           {
             "en": "This exact form with its connecting fa occurs in one other verse. 40:64 describes Allah making the earth a place of settlement and the sky a structure, then says that He formed you and perfected your forms and provided you with good things, before closing on fatabaraka Allahu rabbu al-alamin. In both places the praise arrives immediately after the shaping of a human being. Worship, not analysis, is the response the Quran models to this subject.",
@@ -317,7 +317,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the superlative works by contrast inside a single word used at two levels. What people call making is the arranging of material that was handed to them; what is meant by al-Khaliq is bringing the material into being and then shaping it. The verse has just walked through a shaping performed on material nobody supplied, and only after that does it name the One who did it the best of creators.",
-            "bn": "তাই এই শ্রেষ্ঠত্ববাচক প্রয়োগটি কাজ করে একটি শব্দের দুই স্তরের ব্যবহারের বৈসাদৃশ্যের মধ্য দিয়ে। মানুষ যাকে বানানো বলে, তা হলো তার হাতে তুলে দেওয়া উপকরণ সাজানো; আর 'আল-খালিক' বলতে বোঝায় উপকরণটিকে অস্তিত্বে আনা, তারপর তাকে আকৃতি দেওয়া। আয়াতটি এইমাত্র এমন এক আকৃতিদানের ভেতর দিয়ে হেঁটে এল যার উপকরণ কেউ সরবরাহ করেনি — আর কেবল তার পরেই যিনি এটি করলেন তাঁকে সর্বোত্তম স্রষ্টা বলে ডাকা হলো।"
+            "bn": "তাই এখানে 'সর্বোত্তম' কথাটার জোর আসে তুলনা থেকে: একই শব্দ দুই স্তরে ব্যবহৃত হচ্ছে। মানুষ যাকে 'বানানো' বলে, তা আসলে হাতে পাওয়া উপকরণ সাজানো। আর 'আল-খালিক' বলতে বোঝায় উপকরণকেই অস্তিত্বে আনা, তারপর তাকে আকৃতি দেওয়া। আয়াতটি এইমাত্র এমন এক গড়ার বর্ণনা দিয়ে এল, যার উপকরণ কেউ জোগান দেয়নি। আর কেবল তার পরেই, যিনি এ কাজ করেছেন, তাঁকে ডাকা হলো সর্বোত্তম স্রষ্টা নামে।"
           }
         ]
       },
@@ -329,7 +329,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lived, this is a discipline of attention rather than of study. Say the last four words of the verse when a child is born, when a body recovers, when a hand does what it was told to do. The verse does not ask its reader to explain anything. It asks him to draw the conclusion it has already drawn: that the One who did this once is neither wearied nor finished, and the raising is His to do.",
-            "bn": "জীবনে প্রয়োগের দিক থেকে এটি পড়াশোনার নয়, মনোযোগের একটি অনুশীলন। শিশু জন্মালে, কোনো শরীর সুস্থ হয়ে উঠলে, কিংবা হাত যা করতে বলা হয়েছে তা করলে — আয়াতটির শেষ চারটি শব্দ বলুন। আয়াতটি তার পাঠকের কাছে কোনো ব্যাখ্যা চায় না। এটি চায় সে যেন সেই সিদ্ধান্তটিই টানে যা আয়াতটি ইতিমধ্যেই টেনেছে: যিনি একবার এটি করেছেন তিনি ক্লান্তও নন, শেষও করেননি, আর পুনরুত্থান করা তাঁরই কাজ।"
+            "bn": "জীবনে এর চর্চা মানে পড়াশোনা নয়, মনোযোগ। শিশু জন্মালে, অসুস্থ শরীর সেরে উঠলে, হাত যা করতে বলা হলো ঠিক তা-ই করলে, আয়াতটির শেষ চারটি শব্দ বলুন। আয়াতটি পাঠকের কাছে কোনো ব্যাখ্যা চায় না। চায় শুধু, আয়াত নিজে যে সিদ্ধান্তে পৌঁছেছে, পাঠকও সেখানে পৌঁছাক: যিনি একবার এ কাজ করেছেন, তিনি ক্লান্তও হননি, তাঁর কাজ ফুরিয়েও যায়নি; আবার জীবিত করে ওঠানো তাঁরই কাজ।"
           }
         ]
       }
@@ -349,7 +349,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Earlier the same sūrah turned the reader inward, to the making of the human body as its own sign (23:14). Here the signs turn outward, to the world that keeps a person alive: water, orchards, this tree, the cattle that follow in 23:21. Ibn Kathir, reading 23:18 through 23:22 together, lists them as one unbroken chain of favours — rain in due measure, gardens brought forth, oil and relish, milk and meat and carriage. The verse about the olive is one link in that chain, not a stray remark.",
-            "bn": "এই সূরার আগের অংশ পাঠকের চোখ ঘুরিয়েছিল ভেতরের দিকে, মানুষের দেহ গড়ার মধ্যেই ছিল এক নিদর্শন (২৩:১৪)। এখানে নিদর্শনগুলো মুখ ফেরায় বাইরের দিকে, যে জগৎ মানুষকে বাঁচিয়ে রাখে তার দিকে, পানি, বাগান, এই গাছ, আর পরে ২৩:২১ আয়াতের গবাদি পশু। ইবন কাসীর ২৩:১৮ থেকে ২৩:২২ একসাথে পড়ে এগুলোকে সাজান নিয়ামতের এক অবিচ্ছিন্ন শৃঙ্খল হিসেবে, মেপে নামানো বৃষ্টি, গজিয়ে তোলা বাগান, তেল আর রসদ, দুধ, গোশত ও বাহন। যায়তুনের আয়াতটি সেই শৃঙ্খলের একটি কড়া, বিচ্ছিন্ন কোনো মন্তব্য নয়।"
+            "bn": "এই সূরার আগের অংশ পাঠকের চোখ ফিরিয়েছিল ভেতরের দিকে: মানুষের দেহ গড়াটাই ছিল এক নিদর্শন (২৩:১৪)। এখানে নিদর্শনগুলো মুখ ফেরায় বাইরের দিকে, যে জগৎ মানুষকে বাঁচিয়ে রাখে তার দিকে: পানি, বাগান, এই গাছ, আর পরে ২৩:২১ আয়াতের গবাদি পশু। ইবন কাসীর ২৩:১৮ থেকে ২৩:২২ একসাথে পড়ে এগুলোকে সাজান নিয়ামতের এক অবিচ্ছিন্ন শৃঙ্খল হিসেবে: মেপে নামানো বৃষ্টি, গজিয়ে তোলা বাগান, তেল আর ব্যঞ্জন, দুধ, গোশত ও বাহন। যায়তুনের আয়াতটি সেই শৃঙ্খলের একটি কড়া, বিচ্ছিন্ন কোনো মন্তব্য নয়।"
           }
         ]
       },
@@ -365,7 +365,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "al-Qurtubi and al-Baghawi both pass on a saying of Muqatil: the mountain was singled out for the olive because the first olive grew from it. Both add a further report that the olive was the first tree to grow on earth after the Flood. Neither commentator builds a ruling on this; each sets it down only as something said. What is firm is the point these reports circle around: to the eye of the tradition this is no ordinary crop, but a tree old enough to feel like a beginning.",
-            "bn": "কুরতুবী ও বাগাভী দুজনেই মুকাতিলের একটি কথা বর্ণনা করেন, তূরকে যায়তুনের জন্য আলাদা করা হয়েছে কারণ প্রথম যায়তুন এখান থেকেই গজিয়েছিল। দুজনেই আরেকটি বর্ণনা যোগ করেন, মহাপ্লাবনের পর দুনিয়ায় সবার আগে যে গাছ গজিয়েছিল তা এই যায়তুন। কোনো তাফসীরকারই এর উপর কোনো বিধান দাঁড় করান না, কেবল একটি জনশ্রুতি হিসেবেই তা তুলে ধরেন। যা নিশ্চিত তা হলো এই বর্ণনাগুলোর ঘিরে থাকা কথাটি, ঐতিহ্যের চোখে এ কোনো সাধারণ ফসল নয়, বরং এমন এক গাছ যা যেন কোনো সূচনার মতোই পুরনো।"
+            "bn": "কুরতুবী ও বাগাভী দুজনেই মুকাতিলের একটি কথা বর্ণনা করেন: তূরকে যায়তুনের জন্য আলাদা করে বলা হয়েছে, কারণ প্রথম যায়তুন গাছ এখানেই গজিয়েছিল। দুজনেই আরেকটি বর্ণনাও যোগ করেন: মহাপ্লাবনের পর দুনিয়ায় সবার আগে যে গাছ গজায়, তা এই যায়তুন। দুজনের কেউই এর উপর কোনো বিধান দাঁড় করান না; কেবল 'এমন বলা হয়' বলে উল্লেখ করেন। তবে এই বর্ণনাগুলো যে কথাকে ঘিরে ঘোরে, সেটা নিশ্চিত: ঐতিহ্যের চোখে এ সাধারণ কোনো ফসল নয়, বরং এত পুরনো এক গাছ যে তাকে দেখলে যেন শুরুর কথা মনে পড়ে।"
           }
         ]
       },
@@ -417,27 +417,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Mujahid glosses bi'l-duhn as with its fruit, and Ibn Abbas is plainer still: the oil meant is olive oil, which is eaten and rubbed on the body. Ma'arif al-Qur'an gathers the uses the fruit was known for — the oil massaged into the skin, burned in lamps to give light, and poured over food as a dressing. One pressing of one fruit yields a balm, a lamp and a meal. The Muyassar keeps to the plain sense: from it oil is pressed, to anoint with and to eat.",
-            "bn": "মুজাহিদ 'বিদ্দুহন'-এর ব্যাখ্যা দেন 'তার ফলসহ', আর ইবন আব্বাস আরও সোজা, এখানে তেল মানে যায়তুনের তেল, যা খাওয়া হয় আর গায়ে মাখা হয়। মাআরিফুল কুরআন এই ফলের যেসব ব্যবহার পরিচিত ছিল তা একসাথে আনে, গায়ে মাখার তেল, বাতিতে জ্বেলে আলো পাওয়া, আর খাবারের উপর ঢেলে রসদ হিসেবে নেওয়া। একটিমাত্র ফলের একবার নিংড়ানোতেই মেলে মলম, বাতি আর খাবার। মুয়াসসার সাদামাটা অর্থেই থামে, এ থেকে তেল নিংড়ানো হয়, মাখার জন্য আর খাওয়ার জন্য।"
+            "bn": "মুজাহিদ 'বিদ্দুহন'-এর ব্যাখ্যা দেন 'তার ফলসহ', আর ইবন আব্বাস আরও সোজা করে বলেন: এখানে তেল মানে যায়তুনের তেল, যা খাওয়া হয় আর গায়ে মাখা হয়। মাআরিফুল কুরআন এই ফলের পরিচিত ব্যবহারগুলো একসাথে তুলে ধরে: গায়ে মালিশ করার তেল, বাতিতে জ্বেলে আলো পাওয়া, আর খাবারের উপর ঢেলে ব্যঞ্জন হিসেবে খাওয়া। একই ফলের একবার নিংড়ানোতেই মেলে মলম, বাতি আর খাবার। মুয়াসসার সাদামাটা অর্থেই থাকে: এ থেকে তেল নিংড়ানো হয়, মাখার জন্য আর খাওয়ার জন্য।"
           }
         ]
       },
       {
         "h": {
           "en": "Dye or Something to Dip",
-          "bn": "রং না ডুবিয়ে খাওয়ার জিনিস"
+          "bn": "রং, নাকি ডুবিয়ে খাওয়ার ব্যঞ্জন"
         },
         "p": [
           {
             "en": "Then comes wa-ṣibghin li'l-ākilīn, and a ṣibgh for those who eat, and here the word opens two ways at once. Its root sense, al-Qurtubi explains, is a dye — what a garment is coloured with. But the same word names a relish, a thing bread is dipped into, and al-Qurtubi draws the bridge between the two: bread dipped in the oil is, as it were, coloured by it, so the condiment borrows the name of the dye. The verse holds both pictures without forcing a choice between them.",
-            "bn": "তারপর আসে 'ওয়া সিবগিন লিল-আকিলীন', আর ভক্ষণকারীদের জন্য এক 'সিবগ', আর এখানে শব্দটি একসাথে দুইদিকে খোলে। কুরতুবী বলেন, এর মূল অর্থ 'রং', যা দিয়ে কাপড় রাঙানো হয়। কিন্তু একই শব্দ বোঝায় এমন রসদ, যাতে রুটি ডুবিয়ে খাওয়া হয়, আর কুরতুবী দুইয়ের মাঝে সেতু টানেন, তেলে ডোবানো রুটি যেন সেই তেলে রেঙে যায়, তাই রসদটি ধার করে রঙের নামটাই। আয়াত জোর করে কোনোটি বেছে না নিয়ে দুটি ছবিই ধরে রাখে।"
+            "bn": "তারপর আসে 'ওয়া সিবগিন লিল-আকিলীন', আর আহারকারীদের জন্য 'সিবগ'। এখানে শব্দটি একসাথে দুই দিকে খোলে। কুরতুবী বলেন, এর মূল অর্থ রং, যা দিয়ে কাপড় রাঙানো হয়। কিন্তু একই শব্দে বোঝায় ব্যঞ্জনও, যাতে রুটি ডুবিয়ে খাওয়া হয়। কুরতুবী দুইয়ের মাঝে সেতুও বেঁধে দেন: তেলে ডোবানো রুটি যেন সেই তেলে রেঙে ওঠে, তাই ব্যঞ্জনটি রঙের নামটাই ধার করে নেয়। আয়াত জোর করে কোনো একটি বেছে নেয় না, দুটি ছবিই ধরে রাখে।"
           },
           {
             "en": "Read as a relish, the word is glossed idām, a condiment. Ibn Kathir, following Qatadah, reads ṣibgh as exactly that. at-Tabari pictures the eaters dipping their bread in the oil — yaṣṭabighūna bihi — and Ibn Zayd, whom he cites, says this olive is a ṣibgh for those who eat, a thing they take as idām and dip into. as-Sa'di sums it up: in the fruit is oil, used to light a lamp and taken as a relish by those who eat. The plain, daily act of dipping bread is where the word finally lands.",
-            "bn": "রসদ হিসেবে পড়লে শব্দটির ব্যাখ্যা 'ইদাম', মানে খাবারের সঙ্গী কিছু। ইবন কাসীর কাতাদার অনুসরণে 'সিবগ'-কে ঠিক তা-ই ধরেন। তাবারী ছবিটা আঁকেন, ভক্ষণকারীরা তাদের রুটি তেলে ডুবিয়ে নিচ্ছে, 'ইয়াসতাবিগূনা বিহি', আর তাঁর উদ্ধৃত ইবন যায়দ বলেন, এই যায়তুন ভক্ষণকারীদের জন্য এক 'সিবগ', যা তারা ইদাম হিসেবে নেয় আর তাতে ডুবিয়ে খায়। সাদী গুটিয়ে বলেন, ফলের ভেতরে আছে তেল, যা দিয়ে বাতি জ্বালানো হয় আর ভক্ষণকারীরা রসদ হিসেবে নেয়। রুটি ডুবিয়ে খাওয়ার সাদামাটা রোজকার কাজেই শব্দটি শেষমেশ এসে থামে।"
+            "bn": "ব্যঞ্জন অর্থে পড়লে শব্দটির ব্যাখ্যা 'ইদাম', অর্থাৎ রুটির সঙ্গে খাওয়ার জিনিস। ইবন কাসীর কাতাদার অনুসরণে 'সিবগ'-কে ঠিক এ অর্থেই নেন। তাবারী ছবিটা আঁকেন এভাবে: যারা খায়, তারা রুটি তেলে ডুবিয়ে নিচ্ছে, 'ইয়াসতাবিগূনা বিহি'। তাঁর উদ্ধৃত ইবন যায়দ বলেন, এই যায়তুন আহারকারীদের জন্য 'সিবগ', যা তারা ইদাম হিসেবে নেয় আর তাতে ডুবিয়ে খায়। সাদী এক কথায় গুটিয়ে আনেন: ফলের ভেতরে আছে তেল, যা দিয়ে বাতি জ্বলে আর আহারকারীরা ব্যঞ্জন হিসেবে খায়। রুটি ডুবিয়ে খাওয়ার সাদামাটা রোজকার কাজেই শব্দটি শেষমেশ এসে থামে।"
           },
           {
             "en": "Muqatil, cited by al-Qurtubi and al-Baghawi, divides the two gifts cleanly: the adm, the thing eaten with bread, is the olive itself, and the duhn is its oil. On his reading God has placed in this one tree both a food and a fuel — the fruit to eat and the oil to press. Whether ṣibgh is heard as dye or as relish, the drift is the same: the verse is counting a mercy that reaches the table, the lamp and the body from a single root.",
-            "bn": "কুরতুবী ও বাগাভীর উদ্ধৃত মুকাতিল দুটি দানকে পরিষ্কার আলাদা করেন, 'আদম', অর্থাৎ রুটির সঙ্গে খাওয়ার জিনিস, তা হলো যায়তুন ফল নিজেই, আর 'দুহন' হলো তার তেল। তাঁর পাঠ ধরলে আল্লাহ এই একটি গাছেই রেখেছেন খাবার আর জ্বালানি, দুটোই, খাওয়ার ফল আর নিংড়ানোর তেল। 'সিবগ' রং অর্থেই শোনা হোক বা রসদ অর্থে, ঝোঁকটা একই, আয়াত এমন এক রহমত গুনছে যা একটিমাত্র শিকড় থেকে পৌঁছে যায় পাতে, বাতিতে আর শরীরে।"
+            "bn": "কুরতুবী ও বাগাভীর উদ্ধৃত মুকাতিল দুটি দানকে পরিষ্কার আলাদা করেন: 'আদম', অর্থাৎ রুটির সঙ্গে খাওয়ার জিনিস, হলো যায়তুন ফল নিজেই, আর 'দুহন' হলো তার তেল। তাঁর ব্যাখ্যা ধরলে আল্লাহ এই একটি গাছেই রেখেছেন খাবার আর জ্বালানি দুটোই: খাওয়ার ফল আর নিংড়ানোর তেল। 'সিবগ'-কে রং অর্থে বুঝুন বা ব্যঞ্জন অর্থে, মূল কথা একই: আয়াত এমন এক রহমতের হিসাব দিচ্ছে, যা একটিমাত্র শিকড় থেকে পৌঁছে যায় খাবারের পাতে, বাতিতে আর শরীরে।"
           }
         ]
       },
@@ -449,11 +449,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Because ṣibgh was heard as idām, the commentators reach for what the Prophet ﷺ said about condiments. al-Qurtubi records a sound report, in Ṣaḥīḥ Muslim from Jābir ibn ʿAbdillāh (RA): the Prophet ﷺ asked his household for a condiment, was told there was only vinegar, called for it and ate, saying, 'What a good condiment is vinegar, what a good condiment is vinegar.' It is a word about idām in general, not revealed about this verse, but it lights up the same humble table the olive is set on.",
-            "bn": "যেহেতু 'সিবগ' 'ইদাম' অর্থে শোনা হয়েছে, তাফসীরকারেরা টেনে আনেন খাবারের সঙ্গী নিয়ে নবী ﷺ-এর কথা। কুরতুবী একটি সহীহ বর্ণনা উদ্ধৃত করেন, সহীহ মুসলিমে জাবির ইবন আবদিল্লাহ (রাঃ) থেকে, নবী ﷺ তাঁর ঘরের লোকের কাছে খাবারের সঙ্গী কিছু চাইলেন, জানানো হলো ঘরে সিরকা ছাড়া কিছু নেই, তিনি তা আনালেন আর খেতে খেতে বললেন, 'সিরকা কত উত্তম ইদাম, সিরকা কত উত্তম ইদাম।' এ কথা ইদাম নিয়ে সাধারণভাবে বলা, এই আয়াত ঘিরে নাযিল হয়নি, তবু যে সাদামাটা দস্তরখানে যায়তুন সাজানো, এ কথা সেটিকেই আলোকিত করে।"
+            "bn": "'সিবগ' যেহেতু 'ইদাম' অর্থে বোঝা হয়েছে, তাফসীরকারেরা খাবারের সঙ্গী নিয়ে নবী ﷺ-এর কথাও টেনে আনেন। কুরতুবী সহীহ মুসলিম থেকে জাবির ইবন আবদিল্লাহ (রাঃ)-এর একটি সহীহ বর্ণনা উল্লেখ করেন: নবী ﷺ ঘরের লোকদের কাছে রুটির সঙ্গে খাওয়ার মতো কিছু চাইলেন। জানানো হলো, সিরকা ছাড়া কিছু নেই। তিনি সেটাই আনালেন, খেলেন আর বললেন, 'সিরকা কত উত্তম ইদাম, সিরকা কত উত্তম ইদাম।' কথাটি সাধারণভাবে ইদাম নিয়ে, এই আয়াত উপলক্ষে নাজিল হয়নি। তবু যায়তুন যে সাদামাটা দস্তরখানে রাখা, এ কথা সেটিকেই আলোকিত করে।"
           },
           {
             "en": "There is a narration closer to the olive itself, and honesty requires care with it. Ibn Kathir and al-Qurtubi both cite a report from ʿUmar (RA) that the Prophet ﷺ said, 'Eat olive oil and anoint with it, for it is from a blessed tree,' carried by at-Tirmidhi and Ibn Mājah. But at-Tirmidhi grades it himself: it is known only through ʿAbd ar-Razzāq, who was inconsistent — muḍṭarib — in narrating it, sometimes tracing it to ʿUmar and sometimes not. So the fitting olive-hadith carries a known weakness, and it is not leaned on here as sound.",
-            "bn": "যায়তুনের আরও কাছের একটি বর্ণনা আছে, আর সততা দাবি করে সেটির ব্যাপারে সতর্কতা। ইবন কাসীর ও কুরতুবী দুজনেই উমর (রাঃ) থেকে একটি বর্ণনা উদ্ধৃত করেন যে নবী ﷺ বলেছেন, 'তোমরা যায়তুনের তেল খাও আর তা গায়ে মাখো, কেননা তা এক বরকতময় গাছ থেকে আসে,' যা এনেছেন তিরমিযী ও ইবন মাজাহ। কিন্তু তিরমিযী নিজেই এর মান বলে দেন, এটি জানা যায় কেবল আবদুর রাযযাকের সূত্রে, যিনি এ বর্ণনায় ছিলেন অস্থির, 'মুদতারিব', কখনো উমর পর্যন্ত টেনেছেন, কখনো টানেননি। তাই যায়তুনের সঙ্গে সবচেয়ে মানানসই হাদীসটিতেই আছে জানা দুর্বলতা, আর একে এখানে সহীহ ধরে ভরসা করা হয়নি।"
+            "bn": "যায়তুনের আরও কাছাকাছি একটি বর্ণনা আছে, তবে সততার খাতিরে সেটা সাবধানে বলতে হবে। ইবন কাসীর ও কুরতুবী দুজনেই উমর (রাঃ) থেকে একটি বর্ণনা উদ্ধৃত করেন যে নবী ﷺ বলেছেন, 'তোমরা যায়তুনের তেল খাও আর তা গায়ে মাখো, কেননা তা এক বরকতময় গাছ থেকে আসে।' এটি এনেছেন তিরমিযী ও ইবন মাজাহ। কিন্তু তিরমিযী নিজেই এর মান জানিয়ে দেন: এটি কেবল আবদুর রাযযাকের সূত্রে জানা যায়, আর তিনি এ বর্ণনায় স্থির ছিলেন না ('মুদতারিব'); কখনো একে উমর পর্যন্ত পৌঁছিয়েছেন, কখনো পৌঁছাননি। তাই যায়তুন প্রসঙ্গে সবচেয়ে মানানসই হাদিসটিরই জানা দুর্বলতা আছে, আর এখানে একে সহীহ ধরে এর উপর ভর দেওয়া হয়নি।"
           }
         ]
       },
@@ -465,11 +465,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Step back and the verse's work is clear. It is one entry in a ledger of provision — heaven, measured rain, orchard, olive, cattle — and its job is to make an ordinary thing visible again. Oil for the lamp, a fruit for the plate, a relish for the bread: gifts so constant that a person stops seeing them. The passage names them one by one precisely because familiarity has worn them smooth. To read the verse well is to look at the oil in the kitchen and remember that it was grown.",
-            "bn": "একটু পিছিয়ে দাঁড়ালে আয়াতের কাজটা পরিষ্কার হয়। এ নিয়ামতের খতিয়ানের একটি এন্ট্রি, আকাশ, মেপে নামানো বৃষ্টি, বাগান, যায়তুন, গবাদি পশু, আর এর কাজ হলো একটা সাদামাটা জিনিসকে আবার চোখে পড়ার মতো করে তোলা। বাতির তেল, পাতের ফল, রুটির রসদ, এমন নিয়ামত যা এত নিয়মিত যে মানুষ আর তা খেয়ালই করে না। আয়াত এগুলোকে একে একে নাম ধরে বলে ঠিক এই কারণেই যে চেনা হতে হতে এগুলো ফিকে হয়ে গেছে। আয়াতটা ঠিকভাবে পড়া মানে রান্নাঘরের তেলের দিকে তাকিয়ে মনে করা যে তা ফলানো হয়েছিল।"
+            "bn": "একটু দূরে দাঁড়িয়ে দেখলে আয়াতের কাজটা পরিষ্কার হয়। নিয়ামতের খতিয়ানে এ একটি লাইন: আকাশ, মেপে নামানো বৃষ্টি, বাগান, যায়তুন, গবাদি পশু। আর এর কাজ হলো একটা সাদামাটা জিনিসকে আবার চোখের সামনে আনা। বাতির তেল, পাতের ফল, রুটির ব্যঞ্জন: এসব নিয়ামত এত নিয়মিত যে মানুষ আর এগুলো খেয়ালই করে না। চেনা হতে হতে এগুলো চোখে ফিকে হয়ে গেছে, ঠিক এ কারণেই আয়াত এগুলোকে একে একে নাম ধরে বলে। আয়াতটা ঠিকভাবে পড়া মানে রান্নাঘরের তেলের দিকে তাকিয়ে মনে করা যে এই তেলও একদিন গাছে ফলেছিল।"
           },
           {
             "en": "What response does the passage ask? Right after the olive, 23:21 turns to the cattle and calls them a lesson, ʿibrah, something to be read and learned from. The whole run of signs is bending the reader toward gratitude — not a feeling summoned on command, but the simple recognition that what sustains you was made and given. The olive asks little and gives light, food and relish together. The least a person can offer back is to notice, and to thank the One who set such a tree growing on a blessed hill.",
-            "bn": "আয়াতগুলো কী জবাব চায়? যায়তুনের ঠিক পরেই ২৩:২১ আয়াত গবাদি পশুর কথায় ফেরে আর তাদের বলে 'ইবরাত', এমন এক শিক্ষণীয় দৃষ্টান্ত যা পড়ে শেখার মতো। গোটা নিদর্শনের সারিটাই পাঠককে বাঁকিয়ে নিচ্ছে শুকরিয়ার দিকে, হুকুম দিয়ে ডেকে আনা কোনো অনুভূতি নয়, বরং এই সোজা স্বীকৃতি যে আপনাকে যা বাঁচিয়ে রাখছে তা বানানো হয়েছে আর দেওয়া হয়েছে। যায়তুন চায় সামান্য, আর একসাথে দেয় আলো, খাবার আর রসদ। বিনিময়ে মানুষের অন্তত এটুকু দেওয়ার আছে যে সে খেয়াল করবে, আর শুকর করবে সেই সত্তার, যিনি এমন একটি গাছ ফলিয়েছেন এক বরকতময় টিলায়।"
+            "bn": "আয়াতগুলো আমাদের কাছে কী সাড়া চায়? যায়তুনের ঠিক পরেই ২৩:২১ আয়াত গবাদি পশুর কথা বলে, আর তাদের বলে 'ইবরাত', অর্থাৎ শিক্ষা, যা দেখে পড়ে শিখতে হয়। নিদর্শনের গোটা সারিটাই পাঠককে শুকরিয়ার দিকে নিয়ে যাচ্ছে। এ শুকরিয়া হুকুম করে জাগানো কোনো অনুভূতি নয়, বরং সোজা এই স্বীকৃতি যে যা আপনাকে বাঁচিয়ে রাখে, তা কেউ বানিয়েছেন আর আপনাকে দিয়েছেন। যায়তুন চায় সামান্য, আর একসাথে দেয় আলো, খাবার আর ব্যঞ্জন। বিনিময়ে মানুষ অন্তত এটুকু করতে পারে: খেয়াল করা, আর সেই সত্তার শুকরিয়া আদায় করা, যিনি এক বরকতময় টিলায় এমন একটি গাছ গজিয়ে দিয়েছেন।"
           }
         ]
       }
@@ -485,11 +485,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse just before this one is a prayer: My Lord, help me, for they have denied me (23:26). Ibn Kathir sets it beside Nuh's cry elsewhere, that he was overcome and asked for help (54:10), and then shows what the help turned out to be. God did not strike them down on the spot. He answered, So We revealed to him: build the ship. as-Sa'di reads the ship as a means and a cause of rescue, put in place before destruction's causes arrived. The plea for victory was granted, but granted as a long task laid on the one who prayed.",
-            "bn": "এ আয়াতের ঠিক আগের আয়াতটি এক প্রার্থনা: হে আমার রব, আমাকে সাহায্য করো, কারণ তারা আমাকে মিথ্যাবাদী বলছে (২৩:২৬)। ইবন কাসীর এর পাশে রাখেন নূহ (আঃ)-এর অন্যত্র বর্ণিত সেই কান্না, যেখানে তিনি পরাভূত হয়ে আল্লাহর কাছে সাহায্য চান (৫৪:১০)। তারপর তিনি দেখান, সাহায্যটা আসলে কী হয়ে দাঁড়াল। আল্লাহ অস্বীকারকারীদের সঙ্গে সঙ্গে ধ্বংস করেননি। তিনি উত্তর দিলেন, আমি তার কাছে ওয়াহী পাঠালাম: নৌকা বানাও। সা'দী নৌকাটিকে দেখেন উদ্ধারের এক উপায় ও উপকরণ হিসেবে, যা ধ্বংসের কারণগুলো আসার আগেই ঠিক করে রাখা হলো। বিজয়ের আবেদন মঞ্জুর হলো, তবে মঞ্জুর হলো একটা দীর্ঘ কাজ হয়ে, আর সে কাজ চাপল যিনি দোয়া করেছিলেন তাঁরই কাঁধে।"
+            "bn": "এর ঠিক আগের আয়াতটি একটি দোয়া: হে আমার রব, আমাকে সাহায্য করুন, কারণ তারা আমাকে মিথ্যাবাদী বলছে (২৩:২৬)। ইবন কাসীর এর পাশে রাখেন অন্য জায়গায় বর্ণিত নূহ (আঃ)-এর সেই আর্তি, যেখানে তিনি পরাভূত হয়ে সাহায্য চান (৫৪:১০)। তারপর তিনি দেখান, সাহায্যটা আসলে কী রূপে এল। আল্লাহ তাদের তখনই ধ্বংস করে দেননি। তিনি জবাব দিলেন: অতঃপর আমি তার কাছে ওহি পাঠালাম, নৌকা বানাও। সা'দী নৌকাটিকে দেখেন উদ্ধারের উপায় ও উপকরণ হিসেবে, যা ধ্বংসের কারণগুলো আসার আগেই প্রস্তুত করে রাখা হলো। বিজয়ের দোয়া কবুল হলো, তবে কবুল হলো দীর্ঘ এক কাজ হয়ে, আর সে কাজের ভার পড়ল দোয়াকারীর নিজের কাঁধেই।"
           },
           {
             "en": "al-Qurtubi glosses the opening words, So We revealed to him, as We sent down messengers to him from the sky carrying the instruction to build. The command itself is bare and practical: make the ship. There is no argument here, no further debate with the eminent men who had mocked him. The season for reasoning had closed with his prayer; now came obedience with tools in hand. A prophet who had preached across a very long lifetime was told to stop speaking and start building, and the surah moves with him from the pulpit to the timber, from the word urged to the work commanded.",
-            "bn": "কুরতুবী শুরুর কথাগুলো, আমি তার কাছে ওয়াহী পাঠালাম, ব্যাখ্যা করেন এভাবে: আমি আসমান থেকে তার কাছে দূত পাঠালাম, যারা বানানোর নির্দেশ নিয়ে এলো। নির্দেশটা নিজেই খুব সাদাসিধা আর কাজের কথা: নৌকা বানাও। এখানে কোনো তর্ক নেই, তাঁকে নিয়ে যারা ঠাট্টা করেছিল সেই প্রধানদের সঙ্গে আর কোনো বিতর্ক নেই। যুক্তি দেওয়ার সময়টা তাঁর দোয়ার সঙ্গেই শেষ হয়ে গেছে। এবার এলো হাতে হাতিয়ার নিয়ে আনুগত্য। বহু দীর্ঘ জীবন ধরে যে নবী তাবলিগ করে গেছেন, তাঁকে বলা হলো কথা থামিয়ে কাজ শুরু করতে। সুরাটিও তাঁর সঙ্গে সরে আসে মিম্বার থেকে কাঠের কাছে, তাগিদের বাণী থেকে নির্দেশিত কাজে।"
+            "bn": "কুরতুবী শুরুর কথাটা, 'আমি তার কাছে ওহি পাঠালাম', ব্যাখ্যা করেন এভাবে: আমি আসমান থেকে তার কাছে দূত পাঠালাম, যারা বানানোর নির্দেশ নিয়ে এল। নির্দেশটা একেবারে সাদাসিধা আর কাজের: নৌকা বানাও। এখানে কোনো যুক্তিতর্ক নেই, যে সর্দাররা তাঁকে ঠাট্টা করেছিল তাদের সঙ্গে আর কোনো বিতর্কও নেই। যুক্তি দেওয়ার পালা তাঁর দোয়ার সঙ্গেই শেষ। এবার হাতিয়ার হাতে আনুগত্যের পালা। যে নবী সুদীর্ঘ জীবন ধরে দাওয়াত দিয়ে গেছেন, তাঁকে বলা হলো কথা থামিয়ে কাজ শুরু করতে। সূরাটিও তাঁর সঙ্গে মিম্বার ছেড়ে কাঠের কাছে আসে, তাগিদের কথা থেকে হুকুম করা কাজে।"
           }
         ]
       },
@@ -517,7 +517,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The command adds wa-wahyina, and by Our revelation. at-Tabari explains this clause as and by Our teaching you how to make it. The ship was not left to Nuh's own invention. Its design came down as revelation, plank and measure and shape, the same way the message itself had come down to him. al-Muyassar reads the words as by Our command to you and by Our aid. So the ark was in truth built twice over by revelation: revelation ordered the work into being, and revelation taught the craft that carried it out. The prophet supplied the labouring hands; every scrap of the knowledge was given to him.",
-            "bn": "নির্দেশে যোগ হয় ওয়াওয়াহইনা, আমার ওয়াহী অনুযায়ী। তাবারী এই অংশের ব্যাখ্যা করেন এভাবে: আর আমি তোমাকে বানানোর কৌশল শিখিয়ে। নৌকাটি নূহ (আঃ)-এর নিজের বুদ্ধির উপর ছেড়ে দেওয়া হয়নি। এর নকশা নেমে এলো ওয়াহী হয়ে, তক্তা, মাপ আর গড়ন সবই, ঠিক যেভাবে বাণীটাও তাঁর কাছে নেমে এসেছিল। মুয়াসসার কথাগুলোর অর্থ করেন আমার নির্দেশে ও আমার সাহায্যে। তাই নৌকাটি আসলে দুবার গড়া হলো ওয়াহী দিয়ে: ওয়াহী কাজটাকে হুকুম করল, আর ওয়াহীই সেই কৌশল শেখাল যা দিয়ে কাজটা হলো। নবী দিলেন খাটুনির হাত দুটি, আর জ্ঞানের প্রতিটি টুকরো তাঁকে দান করা হলো।"
+            "bn": "নির্দেশে যোগ হয় ওয়াওয়াহইনা, আমার ওহি অনুযায়ী। তাবারী এ অংশের ব্যাখ্যা করেন: আর আমি তোমাকে যেভাবে বানাতে শিখিয়ে দিই সেভাবে। নৌকাটি নূহ (আঃ)-এর নিজের উদ্ভাবনের উপর ছেড়ে দেওয়া হয়নি। এর নকশা নেমে এল ওহি হয়ে, তক্তা, মাপ আর গড়ন সবই, ঠিক যেভাবে বাণীটাও তাঁর কাছে নেমে এসেছিল। মুয়াসসার কথাগুলোর অর্থ করেন: আমার নির্দেশে ও আমার সাহায্যে। তাই আসলে নৌকাটি দুই দিক থেকেই ওহির গড়া: ওহি কাজটার হুকুম দিল, আবার ওহিই শেখাল কাজটা করার কৌশল। নবী দিলেন খাটুনির দুই হাত; জ্ঞানের প্রতিটি কণা তাঁকে দান করা হয়েছিল।"
           },
           {
             "en": "His people had already dismissed him as a man seized by madness, someone to wait out for a while (23:25). Now that same man measures timber to a plan he could never have reasoned his own way to. Obedience of this kind asks a person to act on an instruction whose sense will only appear later. Nuh could not yet see the flood; he could see only the wood in his hands and the command still ringing in his ear. The believer often builds exactly like this, doing the next commanded thing faithfully without yet seeing the water that will one day make full sense of it.",
