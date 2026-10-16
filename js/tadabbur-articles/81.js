@@ -549,11 +549,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A word on sources. None of the eight tafsirs fetched for this verse attaches to it a hadith with a collector's reference, so none is quoted here. At-Tabari's chain to Maymun ibn Mihran reports an explanation of the words, not a saying of the Prophet ﷺ. Al-Qurtubi records, under the words it is said, an account of an occasion of revelation, without a chain or a named collection; it could not be confirmed on a hadith page, so this article does not use it. What can be stated is its placement: al-Qurtubi and al-Baghawi set it inside the answer to the oath.",
-            "bn": "উৎস সম্পর্কে একটি কথা। এ আয়াতের জন্য সংগ্রহ করা আটটি তাফসীরের কোনোটিই এর সঙ্গে কোনো সংকলকের সূত্রসহ হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি। মাইমূন ইবন মিহরান পর্যন্ত তাবারীর বর্ণনাসূত্র শব্দগুলোর একটি ব্যাখ্যা জানায়, নবী ﷺ-এর কোনো বাণী নয়। কুরতুবী 'বলা হয়' কথাটি দিয়ে নাযিলের প্রেক্ষাপট সম্পর্কে একটি বিবরণ উল্লেখ করেন, যার কোনো সনদ বা নির্দিষ্ট সংকলনের নাম নেই। কোনো হাদীসের পাতায় তা যাচাই করা যায়নি, তাই এ লেখায় তা ব্যবহার করা হয়নি। যা বলা যায় তা হলো আয়াতটির অবস্থান: কুরতুবী ও বাগাভী একে শপথের জবাবের ভেতরে রাখেন।"
+            "bn": "উৎস নিয়ে একটি কথা। এ আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে সংকলকের সূত্রসহ কোনো হাদিস জুড়ে দেয়নি। তাই এখানে কোনো হাদিস উদ্ধৃত করা হয়নি। মাইমূন ইবন মিহরান পর্যন্ত তাবারীর যে সনদ, তাতে আছে শব্দগুলোর ব্যাখ্যা, নবী ﷺ-এর কোনো বাণী নয়। কুরতুবী 'বলা হয়' কথাটি দিয়ে আয়াতটি নাজিলের একটি প্রেক্ষাপট উল্লেখ করেছেন, কিন্তু তার কোনো সনদ নেই, কোনো সংকলনের নামও নেই। কোনো হাদিসের পাতায় তা মিলিয়ে দেখা যায়নি, তাই এ লেখায় তা নেওয়া হয়নি। নিশ্চিত করে যা বলা যায়, তা হলো আয়াতটির অবস্থান: কুরতুবী ও বাগাভী একে শপথের জবাবের ভেতরে রেখেছেন।"
           },
           {
             "en": "The verse answers what was said of the Prophet ﷺ by those who rejected him in his own time, whom the tafsirs name as the people of Makkah and his enemies who denied his message. It describes what the text describes and licenses nothing against any living person or community. Nor does it speak about people who live with illness of the mind. In the tafsirs read here the word majnun is weighed only as a charge made to discredit a message, and none of them turns the verse towards the sick. Using it as an insult would repeat the very move it answers.",
-            "bn": "আয়াতটি জবাব দেয় সেই কথার, যা নবী ﷺ সম্পর্কে তাঁর নিজের যুগে তাঁকে প্রত্যাখ্যানকারীরা বলেছিল। তাফসীরগুলো তাদের পরিচয় দেয় মক্কাবাসী হিসেবে, আর তাঁর রিসালাত অস্বীকারকারী শত্রু হিসেবে। আয়াতটি কেবল সেটুকুই বর্ণনা করে যা পাঠে আছে, আর আজকের কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। মনের অসুখ নিয়ে যাঁরা বেঁচে আছেন, তাঁদের সম্পর্কেও আয়াতটি কিছু বলে না। এখানে পড়া তাফসীরগুলোতে মাজনূন শব্দটি মাপা হয়েছে কেবল একটি বাণীকে হেয় করার জন্য তোলা অভিযোগ হিসেবে, আর কোনো তাফসীরই আয়াতটিকে অসুস্থ মানুষের দিকে ঘোরায়নি। একে গালি হিসেবে ব্যবহার করা মানে ঠিক সেই কাজটিরই পুনরাবৃত্তি, যার জবাব আয়াতটি দিয়েছে।"
+            "bn": "আয়াতটি জবাব দিচ্ছে সেই কথার, যা নবী ﷺ-এর নিজের যুগে তাঁকে অস্বীকারকারীরা তাঁর সম্পর্কে বলত। তাফসীরগুলো তাদের চিনিয়ে দিয়েছে মক্কার লোকজন আর তাঁর রিসালাত অস্বীকারকারী শত্রু বলে। আয়াতের ভাষায় যা আছে, আয়াত কেবল সেটুকুই বলে। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো ছাড়পত্র দেয় না। মনের অসুখ নিয়ে যাঁরা জীবন কাটাচ্ছেন, তাঁদের নিয়েও আয়াতটি কিছু বলে না। এখানে পড়া তাফসীরগুলোতে 'মাজনূন' শব্দটিকে দেখা হয়েছে কেবল একটা অভিযোগ হিসেবে, যা তোলা হয়েছিল বাণীটিকে হেয় করতে। কোনো তাফসীরই আয়াতটিকে অসুস্থ মানুষের দিকে ঘুরিয়ে দেয়নি। শব্দটিকে গালি হিসেবে ব্যবহার করা মানে ঠিক সেই কাজটিই আবার করা, যার জবাব আয়াতটি দিয়েছে।"
           }
         ]
       },
@@ -565,11 +565,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse concerns the Prophet ﷺ, and nobody today stands in his place. Yet the move the commentators describe is easy to recognise. As at-Tabari and al-Baghawi lay it out, the charge did its work without touching the content: if the speaker is raving, and his words are his own, nothing he says needs an answer. The verse's reply does not argue first. It points back to what the hearers already knew, your companion, and as-Sa'di's three praises, intellect, judgment and truthful speech, are qualities that are seen by living beside a person, not proved from a distance.",
-            "bn": "আয়াতটি নবী ﷺ-কে নিয়ে, আর আজ কেউ তাঁর জায়গায় দাঁড়িয়ে নেই। তবু তাফসীরকারেরা যে কৌশলের বর্ণনা দেন, তা চিনতে কষ্ট হয় না। তাবারী ও বাগাভীর বর্ণনায় অভিযোগটি বিষয়বস্তু না ছুঁয়েই কাজ সেরেছিল: বক্তা যদি প্রলাপ বকেন, আর কথাগুলো যদি তাঁর নিজের হয়, তবে তাঁর কোনো কথার জবাব দেওয়ার দরকার নেই। আয়াতের জবাব প্রথমেই তর্কে যায় না। শ্রোতারা যা আগে থেকেই জানত, সেদিকে ফিরিয়ে দেয়: তোমাদের সঙ্গী। আর সা'দীর তিনটি প্রশংসা, বুদ্ধি, বিবেচনা আর সত্যবাদিতা, এমন গুণ যা কারও পাশে জীবন কাটালে চোখে পড়ে, দূর থেকে প্রমাণ করতে হয় না।"
+            "bn": "আয়াতটি নবী ﷺ-কে নিয়ে, আর আজ কেউ তাঁর জায়গায় দাঁড়িয়ে নেই। তবু তাফসীরকারেরা যে কৌশলের কথা বলেন, সেটা চিনতে কষ্ট হয় না। তাবারী ও বাগাভী যেভাবে বুঝিয়েছেন, অভিযোগটি বক্তব্যে হাত না দিয়েই কাজ সেরে ফেলেছিল: বক্তা যদি প্রলাপ বকেন, আর কথাগুলো যদি তাঁর নিজেরই বানানো হয়, তাহলে তাঁর কোনো কথার জবাব দেওয়ার দরকারই পড়ে না। আয়াতের জবাব শুরুতেই তর্কে নামে না। শ্রোতারা যা আগে থেকেই জানত, সেদিকে ফিরিয়ে দেয়: 'তোমাদের সঙ্গী'। সা'দী এখানে তিনটি প্রশংসার কথা বলেন: বুদ্ধি, বিবেচনা আর সত্য কথা। এগুলো এমন গুণ, যা কারও পাশে থেকে জীবন কাটালে চোখে পড়ে, দূর থেকে প্রমাণ করতে হয় না।"
           },
           {
             "en": "That gives a reader something to practise. When a message unsettles me, I can notice whether I am weighing it or reaching for a word that lets me stop listening to the person who brought it. When someone I know well is belittled with a label, I can say what years beside them have shown me. And I can keep the words I use about people who are unwell, in mind or in body, from becoming insults in my mouth. The surah's own next question, two verses on in 81:26, asks where its hearers are going once the labels are answered.",
-            "bn": "পাঠকের জন্য এখানে অনুশীলনের কিছু আছে। কোনো বার্তা আমাকে অস্বস্তিতে ফেললে খেয়াল করতে পারি, আমি কি তা মেপে দেখছি, নাকি এমন একটা শব্দ খুঁজছি যা বাহকের কথা শোনা বন্ধ করার সুযোগ দেবে। আমার ভালো করে চেনা কাউকে যখন কোনো তকমা দিয়ে ছোট করা হয়, তখন তাঁর পাশে কাটানো বছরগুলো আমাকে যা দেখিয়েছে, তা বলতে পারি। আর মনের বা শরীরের অসুখে যাঁরা ভুগছেন, তাঁদের সম্পর্কে ব্যবহার করা শব্দগুলোকে নিজের মুখে গালি হয়ে উঠতে না দিতে পারি। দুটি আয়াত পরে, ৮১:২৬ আয়াতে, সূরাটির পরের প্রশ্ন: তকমাগুলোর জবাব হয়ে গেলে শ্রোতারা কোথায় চলেছে?"
+            "bn": "পাঠকের জন্য এখানে অনুশীলন করার মতো কিছু আছে। কোনো বার্তা আমাকে অস্বস্তিতে ফেললে আমি খেয়াল করতে পারি: আমি কি কথাটা ওজন করে দেখছি, নাকি এমন একটা শব্দ খুঁজছি, যেটা বললেই যিনি বার্তা নিয়ে এসেছেন তাঁর কথা আর শুনতে হয় না? আমার খুব চেনা কাউকে কোনো তকমা দিয়ে ছোট করা হলে, তাঁর পাশে কাটানো বছরগুলো আমাকে যা দেখিয়েছে, আমি সেটা বলতে পারি। আর মনে বা শরীরে যাঁরা অসুস্থ, তাঁদের নিয়ে যে শব্দগুলো বলি, সেগুলো যেন আমার মুখে গালি হয়ে না ওঠে, সে খেয়াল রাখতে পারি। দুটি আয়াত পরে, ৮১:২৬-এ, সূরাটি নিজেই পরের প্রশ্নটি করে: তকমাগুলোর জবাব হয়ে গেলে শ্রোতারা এখন কোথায় চলেছে?"
           }
         ]
       }
@@ -585,11 +585,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic is two words: fa-ayna tadhhabun. The first is the connective fa, and so, written joined to ayna, where; the second is a verb in the second-person plural, are you going. There is no noun, no object and no destination named anywhere in it. A question that short can only work if everything it depends on has already been said, and in this surah all of it has.",
-            "bn": "আরবিতে এটি দুটি শব্দ: 'ফাআইনা তাযহাবূন'। প্রথমটি সংযোজক 'ফা' — অর্থাৎ 'কাজেই' — যা 'আইনা' অর্থাৎ 'কোথায়'-এর সঙ্গে জুড়ে লেখা; দ্বিতীয়টি মধ্যম পুরুষ বহুবচনের ক্রিয়াপদ, 'তোমরা চলেছ'। এর কোথাও কোনো বিশেষ্য নেই, কোনো কর্ম নেই, কোনো গন্তব্যের নামও নেই। এত ছোট প্রশ্ন তখনই কাজ করতে পারে যখন এটি যার উপর দাঁড়িয়ে সেসব আগেই বলা হয়ে গেছে — আর এই সূরায় সেসব বলা হয়েছে।"
+            "bn": "আরবিতে কথাটি মাত্র দুটি শব্দ: 'ফাআইনা তাযহাবূন'। প্রথম শব্দে আছে সংযোজক 'ফা', মানে 'তাহলে', যা 'আইনা' (কোথায়) শব্দের সঙ্গে জুড়ে লেখা। দ্বিতীয়টি ক্রিয়াপদ, অনেকজনকে সামনাসামনি সম্বোধন করে: 'তোমরা চলেছ'। এর কোথাও কোনো বিশেষ্য নেই, কর্ম নেই, কোনো গন্তব্যের নামও নেই। এত ছোট প্রশ্ন তখনই কাজ করে, যখন তার পেছনের সব কথা আগেই বলা হয়ে গেছে। আর এই সূরায় তা সবই বলা হয়েছে।"
           },
           {
             "en": "The verb is worth weighing. Dhahaba is to go, to depart, plain motion, and the question is built on it rather than on believing or thinking. It does not ask what you hold to be true. It asks which way you are moving, which is a different question and often has a different answer, since people routinely walk in a direction they would not defend if they were asked to describe it aloud.",
-            "bn": "ক্রিয়াপদটি ভেবে দেখার মতো। 'যাহাবা' মানে যাওয়া, রওনা হওয়া — নিছক চলা; আর প্রশ্নটি গড়া হয়েছে সেই চলার উপর, বিশ্বাস বা চিন্তার উপর নয়। এটি জিজ্ঞেস করে না, তুমি কী সত্য বলে মানো। এটি জিজ্ঞেস করে, তুমি কোন দিকে চলছ — যা আলাদা প্রশ্ন এবং প্রায়ই এর উত্তরও আলাদা; কারণ মানুষ নিয়মিতভাবেই এমন দিকে হাঁটে, মুখে বর্ণনা করতে বললে যে দিকটির পক্ষে সে দাঁড়াত না।"
+            "bn": "ক্রিয়াপদটি নিয়ে একটু ভাবার আছে। 'যাহাবা' মানে যাওয়া, রওনা হওয়া, নিছক চলা। প্রশ্নটি দাঁড়িয়ে আছে এই চলার ওপর, বিশ্বাস বা চিন্তার ওপর নয়। এটা জিজ্ঞেস করে না, তুমি কী সত্য বলে মানো। জিজ্ঞেস করে, তুমি কোন দিকে চলেছ। দুটো আলাদা প্রশ্ন, আর প্রায়ই এদের উত্তরও আলাদা। কারণ মানুষ হরহামেশাই এমন দিকে হাঁটে, যে দিকের কথা মুখে খুলে বলতে বললে সে নিজেও তার পক্ষে দাঁড়াত না।"
           }
         ]
       },
@@ -601,11 +601,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah has been building for twenty-five verses. It opens with a run of clauses describing the world coming apart — the sun wound up, the stars falling, the mountains moved, the seas set ablaze, the pages spread open — and closes that stretch in 81:14 with a soul knowing what it has brought. Then come oaths on the retreating stars, the night as it closes in and the dawn as it breathes.",
-            "bn": "সূরাটি পঁচিশ আয়াত ধরে গড়ে উঠছিল। এটি শুরু হয় একের পর এক বাক্যে জগৎ ভেঙে পড়ার বর্ণনা দিয়ে — সূর্য গুটিয়ে যাওয়া, তারা খসে পড়া, পাহাড় সরে যাওয়া, সমুদ্র উত্তাল হয়ে ওঠা, আমলনামা খুলে ধরা — আর সেই ধারা শেষ হয় 81:14-এ, যেখানে প্রত্যেক প্রাণ জেনে যাবে সে কী নিয়ে এসেছে। তারপর আসে শপথ: পিছিয়ে যাওয়া তারকারাজির, ঘনিয়ে আসা রাতের এবং শ্বাস নেওয়া ভোরের।"
+            "bn": "পঁচিশ আয়াত ধরে সূরাটি ধাপে ধাপে এখানে এসে পৌঁছেছে। শুরুতে একের পর এক বাক্যে জগৎ ভেঙে পড়ার ছবি: সূর্য গুটিয়ে নেওয়া হবে, তারা খসে পড়বে, পাহাড় সরিয়ে দেওয়া হবে, সমুদ্রে আগুন জ্বলে উঠবে, আমলনামা খুলে ধরা হবে। এই ধারা শেষ হয় ৮১:১৪-এ, যেখানে প্রত্যেক প্রাণ জেনে যাবে সে কী নিয়ে এসেছে। তারপর আসে শপথ: পিছিয়ে যাওয়া তারকারাজির, ঘনিয়ে আসা রাতের আর শ্বাস নেওয়া ভোরের।"
           },
           {
             "en": "What the oaths introduce is a defence. 81:19-21 describe the one who brings the message as a noble messenger, possessed of power, secure in rank with the Owner of the Throne, obeyed there and trustworthy. Then the charges are answered one at a time: 81:22 says your companion is not mad, 81:23 says he has already seen him on the clear horizon, 81:24 says he is not stingy with the unseen, and 81:25 says this is not the speech of an accursed devil.",
-            "bn": "সেই শপথগুলো যা উপস্থাপন করে তা হলো একটি প্রতিরক্ষা। 81:19-21 বাণীবাহককে বর্ণনা করে এক সম্মানিত বার্তাবাহক হিসেবে — শক্তিধর, আরশের মালিকের কাছে সুপ্রতিষ্ঠিত, সেখানে আনুগত্যপ্রাপ্ত ও বিশ্বস্ত। এরপর অভিযোগগুলোর জবাব আসে একটি একটি করে: 81:22 বলে তোমাদের সঙ্গী পাগল নয়, 81:23 বলে তিনি তাঁকে সুস্পষ্ট দিগন্তে দেখেছেন, 81:24 বলে তিনি গায়েবের ব্যাপারে কৃপণ নন, আর 81:25 বলে এটি কোনো অভিশপ্ত শয়তানের কথা নয়।"
+            "bn": "শপথগুলোর পর যা আসে, তা হলো বাণীবাহকের পক্ষে সাফাই। ৮১:১৯-২১ তাঁর পরিচয় দেয়: তিনি সম্মানিত বার্তাবাহক, শক্তিশালী, আরশের মালিকের কাছে মর্যাদায় সুপ্রতিষ্ঠিত, সেখানে তাঁর আনুগত্য করা হয়, আর তিনি বিশ্বস্ত। এরপর একে একে অভিযোগগুলোর জবাব: ৮১:২২ বলে, তোমাদের সঙ্গী পাগল নন; ৮১:২৩ বলে, তিনি তো তাঁকে স্পষ্ট দিগন্তে দেখেছেন; ৮১:২৪ বলে, গায়েবের ব্যাপারে তিনি কৃপণ নন; আর ৮১:২৫ বলে, এটা কোনো অভিশপ্ত শয়তানের কথা নয়।"
           }
         ]
       },
@@ -617,7 +617,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "With the objections gone, the question follows as a consequence, and that is the work the fa is doing. Nothing has been left for a listener to hold on to, so where is he going? The mufassirun read the phrase as the ordinary Arabic said to a traveller who has stepped off the road: which way are you taking, now that the road has been pointed out to you? It is not a request for information. Nobody who asks it expects to be told a place name, and no answer is recorded in the surah.",
-            "bn": "আপত্তিগুলো সরে যাওয়ার পর প্রশ্নটি আসে একটি পরিণতি হিসেবে — 'ফা' শব্দটি ঠিক এই কাজটিই করছে। শ্রোতার আঁকড়ে ধরার মতো কিছুই আর অবশিষ্ট নেই, তাহলে সে চলেছে কোথায়? মুফাসসিরগণ বাক্যটিকে পড়েন সেই সাধারণ আরবি কথার মতো, যা বলা হয় পথ থেকে সরে যাওয়া পথিককে: পথ তো তোমাকে দেখিয়ে দেওয়া হলো, এখন তুমি কোন দিকে যাচ্ছ? এটি কোনো তথ্য জানতে চাওয়া প্রশ্ন নয়। যে এ প্রশ্ন করে সে কোনো জায়গার নাম শোনার আশা করে না, আর সূরাতেও কোনো উত্তর লিপিবদ্ধ নেই।"
+            "bn": "আপত্তিগুলো সরে যাওয়ার পর প্রশ্নটি আসে তারই ফল হিসেবে। 'ফা' শব্দটি ঠিক এই কাজটিই করছে। শ্রোতার আঁকড়ে ধরার মতো আর কিছুই রইল না, তাহলে সে চলেছে কোথায়? মুফাসসিরগণ বলেন, এ হলো আরবদের সেই চেনা কথা, যা পথ ছেড়ে অন্যদিকে চলে যাওয়া পথিককে বলা হয়: পথ তো তোমাকে দেখিয়ে দেওয়া হলো, এখন কোন দিকে যাচ্ছ? এটা কিছু জানতে চাওয়ার প্রশ্ন নয়। যে এ প্রশ্ন করে, সে কোনো জায়গার নাম শোনার আশা করে না। সূরাতেও কারও কোনো উত্তর লেখা নেই।"
           }
         ]
       },
@@ -629,7 +629,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran does not leave its own question hanging. 81:27 answers in the negative direction first: this is nothing but a reminder to the worlds. 81:28 then names who the road is open to, whoever among you wills to go straight. And 81:29 closes any boast about that willing: you do not will unless Allah, Lord of the worlds, wills. Question, road, permission and the limit of the human will, inside three verses.",
-            "bn": "কুরআন নিজের প্রশ্নটি ঝুলিয়ে রাখে না। 81:27 প্রথমে নেতিবাচক দিক থেকে উত্তর দেয়: এটি বিশ্ববাসীর জন্য উপদেশ ছাড়া কিছুই নয়। এরপর 81:28 জানায় পথটি কার জন্য খোলা — তোমাদের মধ্যে যে সোজা পথে চলতে চায় তার জন্য। আর 81:29 সেই চাওয়া নিয়ে কোনো অহংকারের পথ বন্ধ করে দেয়: বিশ্বজগতের প্রতিপালক আল্লাহ না চাইলে তোমরা চাইতেও পারো না। প্রশ্ন, পথ, অনুমতি আর মানুষের ইচ্ছার সীমা — সবই তিন আয়াতের ভেতরে।"
+            "bn": "কুরআন নিজের প্রশ্ন ঝুলিয়ে রাখে না। ৮১:২৭ প্রথমে না-বাচক দিক থেকে উত্তর দেয়: এ তো বিশ্ববাসীর জন্য উপদেশ ছাড়া আর কিছু নয়। তারপর ৮১:২৮ জানায়, পথটি কার জন্য খোলা: তোমাদের মধ্যে যে সোজা পথে চলতে চায়, তার জন্য। আর ৮১:২৯ সেই চাওয়া নিয়ে বড়াই করার পথ বন্ধ করে দেয়: বিশ্বজগতের প্রতিপালক আল্লাহ না চাইলে তোমরা চাইতেও পারো না। প্রশ্ন, পথ, অনুমতি আর মানুষের ইচ্ছার সীমা, সবই এই তিন আয়াতের ভেতরে।"
           }
         ]
       },
@@ -641,7 +641,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Notice the two numbers. The question is plural, where are you all going, while the answer in 81:28 narrows to liman sha'a minkum, for whoever among you wills. A crowd is asked and an individual answers. That is usually how it works. Drift is collective, absorbed from whoever happens to be walking alongside you, whereas the turn is made alone and has to be made by somebody with a name.",
-            "bn": "সংখ্যা দুটি লক্ষ করুন। প্রশ্নটি বহুবচনে — তোমরা সবাই কোথায় চলেছ; অথচ 81:28-এর উত্তর সংকুচিত হয়ে আসে 'লিমান শাআ মিনকুম'-এ — তোমাদের মধ্যে যে চায় তার জন্য। প্রশ্ন করা হয় ভিড়কে, উত্তর দেয় একজন। সাধারণত এভাবেই ঘটে। ভেসে যাওয়া সমষ্টিগত — পাশে যারা হাঁটছে তাদের কাছ থেকেই তা শুষে নেওয়া হয়; কিন্তু মোড় ফেরাটা একা করতে হয়, আর তা করতে হয় নাম আছে এমন কাউকে।"
+            "bn": "একবচন আর বহুবচনের তফাতটা লক্ষ করুন। প্রশ্নটি বহুবচনে: তোমরা সবাই কোথায় চলেছ? অথচ ৮১:২৮-এর উত্তর ছোট হয়ে আসে 'লিমান শাআ মিনকুম'-এ, অর্থাৎ তোমাদের মধ্যে যে চায়, তার জন্য। প্রশ্ন করা হয় ভিড়কে, উত্তর দেয় একজন। সাধারণত এমনই হয়। ভেসে চলাটা হয় দল বেঁধে; পাশে যে-ই হাঁটুক, তার কাছ থেকেই মানুষ তা পেয়ে যায়। কিন্তু মোড় ঘোরাতে হয় একা, আর সেটা করতে হয় নাম-পরিচয় আছে এমন একজন মানুষকে।"
           }
         ]
       },
@@ -653,7 +653,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As a practice the verse works as a stopping device rather than a doctrine. It is short enough to be recalled in the middle of an action, and it asks for a destination rather than a defence. Much of what fills a life has a direction that was never chosen — inherited, drifted into, or agreed to by not objecting. The verse does not accuse anyone of choosing badly; it asks whether the direction was chosen at all. Two verses on, it supplies the reason the question is worth stopping for: 81:28 says the straight road stands open to whoever among you wills.",
-            "bn": "অনুশীলন হিসেবে আয়াতটি কোনো মতবাদের মতো নয়, বরং থামিয়ে দেওয়ার একটি উপায়ের মতো কাজ করে। এটি এত ছোট যে কাজের মাঝপথেই মনে পড়ে যায়, আর এটি সাফাই নয়, গন্তব্য জানতে চায়। জীবনের যা কিছু দিয়ে ভরা থাকে, তার অনেকটারই দিক কখনো বেছে নেওয়া হয়নি — তা উত্তরাধিকারে পাওয়া, ভেসে ভেসে এসে পড়া, কিংবা সে সময় আপত্তি না করেই মেনে নেওয়া। আয়াতটি কাউকে ভুল বেছে নেওয়ার দায়ে অভিযুক্ত করে না; এটি জিজ্ঞেস করে, দিকটি আদৌ বেছে নেওয়া হয়েছিল কি না। আর দুই আয়াত পরেই এটি জানিয়ে দেয়, প্রশ্নটির জন্য থামা কেন সার্থক — কারণ 81:28 বলে, তোমাদের মধ্যে যে চায় তার জন্য সোজা পথটি খোলাই আছে।"
+            "bn": "অনুশীলনের দিক থেকে আয়াতটি কোনো মতবাদ নয়, বরং থামিয়ে দেওয়ার একটা উপায়। এত ছোট যে কাজের মাঝখানেও মনে পড়ে যায়। আর এটি সাফাই চায় না, গন্তব্য জানতে চায়। জীবন যা কিছু দিয়ে ভরে থাকে, তার অনেকটারই দিক কখনো বেছে নেওয়া হয়নি: কিছু উত্তরাধিকারে পাওয়া, কিছুতে ভেসে ভেসে এসে পড়া, কিছু আপত্তি না করেই মেনে নেওয়া। আয়াতটি কাউকে ভুল বাছাইয়ের দায়ে অভিযুক্ত করে না; জানতে চায়, দিকটা আদৌ বেছে নেওয়া হয়েছিল কি না। আর দুই আয়াত পরেই জানিয়ে দেয়, কেন এই প্রশ্নে থামা সার্থক: ৮১:২৮ বলছে, তোমাদের মধ্যে যে চায়, তার জন্য সোজা পথ খোলাই আছে।"
           }
         ]
       }
