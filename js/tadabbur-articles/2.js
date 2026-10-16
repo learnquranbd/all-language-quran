@@ -3833,7 +3833,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The qibla passage closed at 2:150, and 2:174 to 2:176 have just rebuked those who conceal what Allah sent down of the Book and sell it for a small price. Then this verse opens by denying that righteousness is a matter of turning your face east or west. Ibn Kathir reads that opening as looking straight back at the change of qibla, since facing a direction carries no birr in itself and only obedience does, and he quotes Abu al-Aliyah that the Jews faced west for their qibla and the Christians east.",
-            "bn": "কিবলার অংশটা শেষ হয়েছে 2:150 আয়াতে, আর 2:174 থেকে 2:176 আয়াত সবে ধমক দিয়েছে তাদের, যারা আল্লাহর নাযিল করা কিতাব গোপন করে আর তুচ্ছ দামে বেচে দেয়। এরপর এই আয়াত শুরুই হয় এ কথা অস্বীকার করে যে নেকি মানে পূর্ব বা পশ্চিমে মুখ ফেরানো। ইবনে কাসীর এই শুরুটাকে পড়েন কিবলা বদলের দিকেই সোজা তাকানো হিসেবে, কারণ কোনো দিকে মুখ করায় নিজে থেকে কোনো নেকি নেই, নেকি আছে কেবল আনুগত্যে। প্রমাণে তিনি আবুল আলিয়ার কথা আনেন যে ইহুদিরা কিবলা করত পশ্চিমকে আর নাসারারা পূর্বকে।"
+            "bn": "কিবলার অংশটা শেষ হয়েছে 2:150 আয়াতে। তারপর 2:174 থেকে 2:176 আয়াত সবে ধমক দিয়েছে তাদের, যারা আল্লাহর নাজিল করা কিতাব গোপন করে আর তুচ্ছ দামে বেচে দেয়। এরপর এই আয়াত শুরুই হয় এই কথা দিয়ে: পূর্ব বা পশ্চিমে মুখ ফেরানোতে নেকি নেই। ইবনে কাসীরের মতে এই শুরুটা সরাসরি কিবলা বদলের দিকেই ইঙ্গিত করে, কারণ কোনো দিকে মুখ করায় নিজে থেকে কোনো নেকি নেই, নেকি আছে কেবল আল্লাহর হুকুম মানায়। প্রমাণে তিনি আবুল আলিয়ার কথা আনেন: ইহুদিরা কিবলা করত পশ্চিমকে, আর নাসারারা পূর্বকে।"
           },
           {
             "en": "What comes after it is law. 2:178 gives legal retribution, 2:180 the bequest at death, and from there the surah moves on to fasting and to hajj. So the verse stands in the doorway of al-Baqarah's long legal section, and it is a definition rather than a ruling. Ibn Kathir opens his comment on it by saying that it contains great wisdoms and encompasses rulings and correct beliefs. The surah is stating what all the rulings are for, immediately before it begins issuing them.",
@@ -3844,12 +3844,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Birr Defined by a Person",
-          "bn": "নেকির সংজ্ঞা একজন মানুষ"
+          "bn": "মানুষ দিয়ে নেকির সংজ্ঞা"
         },
         "p": [
           {
             "en": "Birr, from the root b-r-r, is wide goodness: the word used for kindness to parents and for conduct that reaches other people well. But the verse's most striking move is not in the lexicon. It does not say that righteousness is that you believe; it says that righteousness is the one who believes. The definition is a person rather than an act, which is why the list that follows can run through belief, money, prayer, promises and patience without ever changing its subject.",
-            "bn": "‘বির’ এসেছে ব-র-র মূল থেকে, চওড়া কল্যাণ; মা-বাবার সাথে সদাচরণ আর মানুষের কাছে ভালোভাবে পৌঁছানো আচরণ বোঝাতে এ শব্দই ব্যবহার হয়। তবে আয়াতের সবচেয়ে চমকপ্রদ চালটা অভিধানে নেই। আয়াত বলে না যে নেকি হলো তোমরা ঈমান আনো; বলে, নেকি হলো সেই মানুষ, যে ঈমান আনে। সংজ্ঞাটা কোনো কাজ নয়, একজন মানুষ। সেজন্যই পরের তালিকাটা ঈমান, টাকা, নামায, দেওয়া কথা আর সবরের ভেতর দিয়ে চলে যেতে পারে, অথচ বিষয় একবারও বদলায় না।"
+            "bn": "‘বির’ শব্দের মূল ব-র-র, অর্থ ব্যাপক কল্যাণ। মা-বাবার সাথে সদ্ব্যবহার আর মানুষের সাথে সুন্দর আচরণ, দুটো বোঝাতেই এ শব্দ আসে। তবে আয়াতের সবচেয়ে চমকপ্রদ দিকটা অভিধানে নেই। আয়াত বলে না যে নেকি হলো তোমরা ঈমান আনো; বলে, নেকি হলো সেই মানুষ, যে ঈমান আনে। সংজ্ঞাটা কোনো কাজ নয়, একজন মানুষ। সেজন্যই পরের তালিকাটা ঈমান, টাকা, নামাজ, দেওয়া কথা আর সবর পেরিয়ে যায়, অথচ কার কথা হচ্ছে তা একবারও বদলায় না।"
           },
           {
             "en": "Ath-Thawri, quoted by Ibn Kathir, recited the clause that righteousness is the one who believes in Allah and said that what follows are the kinds of birr; Ibn Kathir comments that he spoke the truth. Notice then what the verse counts. Five objects of belief are named: Allah, the Last Day, the angels, the Book, the prophets. And the patience at the end is given three settings, poverty, hardship, and the time of fighting, which Ibn Kathir glosses as the battlefield while facing the enemy.",
@@ -3865,7 +3865,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The clause wa ata al-mala 'ala hubbihi turns on a single pronoun. Hubbihi is love of it, or love of Him, and the Arabic carries more than one possible antecedent. Al-Qurtubi lists three: the wealth, so that it is given while still loved; Allah, so that it is given out of love for Him; and the giving itself. At-Tabari, Ibn Kathir and as-Sa'di prefer the first. Ibn Kathir glosses the clause as giving money away while desiring it and loving it, and as-Sa'di reads it the same way, adding that love of wealth is in every person.",
-            "bn": "‘ওয়া আতাল মালা আলা হুব্বিহি’ অংশটি ঘোরে একটিমাত্র সর্বনামের ওপর। ‘হুব্বিহি’ মানে হতে পারে ‘তার’ ভালোবাসা, আবার ‘তাঁর’ ভালোবাসাও; আরবি একাধিক সম্ভাবনা বয়ে রাখে। কুরতুবি তিনটি সম্ভাবনার কথা বলেন: সম্পদ, অর্থাৎ ভালোবাসা থাকতে থাকতেই তা দিয়ে দেওয়া; আল্লাহ, অর্থাৎ তাঁর ভালোবাসায় দেওয়া; আর খোদ দেওয়ার কাজটি। তাবারি, ইবনে কাসীর আর সাদি প্রথমটিকেই বেছে নেন। ইবনে কাসীর এর ব্যাখ্যা করেন এভাবে, টাকা তখনো চাওয়া আর ভালোবাসা অবস্থাতেই দিয়ে দেওয়া; সাদিও একইভাবে পড়েন আর যোগ করেন, সম্পদের প্রতি ভালোবাসা প্রতিটি মানুষের ভেতরেই আছে।"
+            "bn": "‘ওয়া আতাল মালা আলা হুব্বিহি’ অংশটির অর্থ ঝুলে আছে একটিমাত্র সর্বনামের ওপর। ‘হুব্বিহি’ মানে হতে পারে ‘তার’ ভালোবাসা, আবার ‘তাঁর’ ভালোবাসাও; আরবিতে সর্বনামটি একাধিক দিকে ফিরতে পারে। কুরতুবি তিনটি সম্ভাবনার কথা বলেন: সম্পদ, অর্থাৎ ভালোবাসা থাকতে থাকতেই তা দিয়ে দেওয়া; আল্লাহ, অর্থাৎ তাঁর ভালোবাসায় দেওয়া; আর খোদ দেওয়ার কাজটি। তাবারি, ইবনে কাসীর আর সাদি প্রথমটিকেই বেছে নেন। ইবনে কাসীরের ব্যাখ্যা: মনে টাকার চাহিদা আর মায়া থাকা অবস্থাতেই তা দিয়ে দেওয়া। সাদিও একইভাবে পড়েন, আর যোগ করেন, সম্পদের প্রতি ভালোবাসা প্রত্যেক মানুষের ভেতরেই আছে।"
           },
           {
             "en": "The app's two translations part company at this clause, and a reader is better off knowing why. The English renders it in spite of love for it, following the reading those three commentators prefer. The Bengali renders it for the love of Allah, which is the second of al-Qurtubi's three. Neither is a mistake, and neither is a private opinion; both are readings the tafsir tradition records for the same pronoun. In practice they meet, since wealth handed over for love of Allah is wealth handed over while it is still loved.",
@@ -3885,11 +3885,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "To the clause about wealth Ibn Kathir attaches a narration found in the two Sahihs from Abu Hurayrah (RA). In al-Bukhari's wording the Prophet ﷺ was asked which charity is greatest in reward and answered: that you give charity while you are healthy and covetous, fearing poverty and hoping for wealth (al-Bukhari 1419). The hadith puts a clock on the verse's clause. Wealth is loved while you are well and still afraid of being poor, and that is exactly when the giving is worth most.",
-            "bn": "সম্পদের অংশটির সাথে ইবনে কাসীর জুড়ে দেন দুই সহিহে থাকা আবু হুরায়রা (রাঃ)-এর বর্ণনা। বুখারির ভাষায় নবী ﷺ-কে জিজ্ঞেস করা হয়েছিল কোন সদকার সওয়াব সবচেয়ে বড়, তিনি বললেন: তুমি সদকা করবে এমন সময়ে যখন তুমি সুস্থ আর সম্পদের প্রতি কৃপণ, দারিদ্র্যের ভয় করো আর ধনী হওয়ার আশা রাখো (বুখারি ১৪১৯)। হাদিসটি আয়াতের কথাটির গায়ে ঘড়ি বেঁধে দেয়। সম্পদ তখনই ভালোবাসার, যখন আপনি ভালো আছেন আর গরিব হওয়ার ভয় এখনো আছে; দেওয়ার দাম ঠিক তখনই সবচেয়ে বেশি।"
+            "bn": "সম্পদের অংশটির সাথে ইবনে কাসীর জুড়ে দেন আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা, যা দুই সহিহেই আছে। বুখারির ভাষায়, নবী ﷺ-কে জিজ্ঞেস করা হয়েছিল কোন সদকার সওয়াব সবচেয়ে বেশি। তিনি বললেন: সুস্থ অবস্থায়, সম্পদের লোভ থাকা অবস্থায় সদকা করা, যখন তুমি অভাবের ভয় করো আর ধনী হওয়ার আশা রাখো (বুখারি ১৪১৯)। হাদিসটি আয়াতের কথাটিকে একটা নির্দিষ্ট সময়ের সাথে বেঁধে দেয়। আপনি যখন সুস্থ আর গরিব হওয়ার ভয় এখনো মনে আছে, সম্পদ তখনই সবচেয়ে প্রিয়; আর দেওয়ার দামও ঠিক তখনই সবচেয়ে বেশি।"
           },
           {
             "en": "To the clause about promises he attaches another, also from Abu Hurayrah (RA). The signs of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is entrusted he betrays (al-Bukhari 33). Ibn Kathir introduces it by saying that the opposite of fulfilling a covenant is hypocrisy. That is why a kept promise stands in this list beside prayer and zakah. It is not being placed there as good manners; it is one of the marks by which faith is told apart from an imitation of faith.",
-            "bn": "দেওয়া কথার অংশটির সাথে তিনি জুড়ে দেন আরেকটি বর্ণনা, সেটিও আবু হুরায়রা (রাঃ)-এর সূত্রে। মুনাফিকের আলামত তিনটি: কথা বললে মিথ্যা বলে, ওয়াদা করলে ভঙ্গ করে, আর আমানত রাখা হলে খেয়ানত করে (বুখারি ৩৩)। ইবনে কাসীর বর্ণনাটি আনার আগে বলেন, অঙ্গীকার রক্ষার উল্টো জিনিসটাই মুনাফিকি। সেজন্যই রাখা কথা এই তালিকায় নামায আর যাকাতের পাশে দাঁড়ায়। একে ওখানে বসানো হয়নি ভদ্রতা হিসেবে; এ সেই আলামতগুলোর একটি, যা দিয়ে ঈমানকে ঈমানের নকল থেকে আলাদা করা যায়।"
+            "bn": "দেওয়া কথার অংশটির সাথে তিনি জুড়ে দেন আরেকটি বর্ণনা, সেটিও আবু হুরায়রা (রাঃ)-এর সূত্রে। মুনাফিকের আলামত তিনটি: কথা বললে মিথ্যা বলে, ওয়াদা করলে ভঙ্গ করে, আর আমানত রাখা হলে খেয়ানত করে (বুখারি ৩৩)। বর্ণনাটি আনার আগে ইবনে কাসীর বলেন, অঙ্গীকার রক্ষার উল্টো জিনিসটাই মুনাফিকি। সেজন্যই কথা রাখা এই তালিকায় নামাজ আর যাকাতের পাশে জায়গা পেয়েছে। এটা নিছক ভদ্রতা হিসেবে এখানে আসেনি। এটা সেই আলামতগুলোর একটি, যা দিয়ে খাঁটি ঈমানকে নকল ঈমান থেকে আলাদা করে চেনা যায়।"
           }
         ]
       },
@@ -3901,7 +3901,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "3:92 states the same principle without any list: you will never attain birr until you spend from what you love. 59:9 raises it a step, describing the Ansar who gave the Muhajirun preference over themselves although they were in privation, and adding that whoever is protected from the stinginess of his own soul is among the successful. Between the two, our verse holds the middle rung, since it asks for what is loved rather than for what is needed.",
-            "bn": "3:92 আয়াত কোনো তালিকা ছাড়াই একই নীতি বলে দেয়: যা ভালোবাসো তা থেকে খরচ না করা পর্যন্ত তোমরা নেকি পাবে না। 59:9 আয়াত এক ধাপ ওপরে ওঠে, বলে সেই আনসারদের কথা, যাঁরা নিজেরা অভাবে থেকেও মুহাজিরদের নিজেদের ওপর প্রাধান্য দিয়েছিলেন; সাথে যোগ করে, যাকে নিজের মনের কার্পণ্য থেকে বাঁচানো হয়েছে সে-ই সফল। দুটোর মাঝখানের ধাপটিতে দাঁড়িয়ে আছে আমাদের আয়াত, কারণ সে চায় যা ভালোবাসা, যা একেবারে দরকার তা নয়।"
+            "bn": "3:92 আয়াত কোনো তালিকা ছাড়াই একই নীতি বলে দেয়: যা ভালোবাসো তা থেকে খরচ না করা পর্যন্ত তোমরা নেকি পাবে না। 59:9 আয়াত এক ধাপ ওপরে ওঠে। সেখানে সেই আনসারদের কথা, যাঁরা নিজেরা অভাবে থেকেও মুহাজিরদের নিজেদের ওপর প্রাধান্য দিয়েছিলেন; সাথে যোগ করে, যাকে নিজের মনের কার্পণ্য থেকে বাঁচানো হয়েছে সে-ই সফল। এ দুইয়ের মাঝের ধাপে আছে আমাদের আয়াত, কারণ সে চায় প্রিয় জিনিস থেকে দেওয়া, একেবারে প্রয়োজনের জিনিস থেকে নয়।"
           },
           {
             "en": "4:36 lists nearly the same recipients as a command to this ummah, adding the near and the far neighbour, the companion at your side, and those in your charge, and it closes by saying that Allah does not love the proud and boastful, which is how the app's Bengali renders the phrase; its English there reads self-deluding and boastful. 13:20 isolates the covenant clause on its own: those who fulfil the covenant of Allah and do not break the contract. And 22:37 states in another setting what our verse opens with, that neither the meat of the sacrifices nor their blood reaches Allah, but the taqwa from you does.",
@@ -3912,16 +3912,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "How the List Is Kept",
-          "bn": "তালিকাটা যেভাবে রক্ষা হয়"
+          "bn": "তালিকাটা যেভাবে মেনে চলা যায়"
         },
         "p": [
           {
             "en": "The verse resists being kept in the abstract, because it names people rather than causes. Take it in order across a week. Belief first: read the five things named and ask which of them last changed a decision you made. Then wealth: find an actual name for each category instead of a heading, a relative who is struggling, one orphan, one person who asked you and was put off. Give while it is inconvenient, which is the condition the verse and the hadith both attach to it.",
-            "bn": "আয়াতটিকে ভাসাভাসা রাখা যায় না, কারণ সে খাতের নাম নেয় না, মানুষের নাম নেয়। এক সপ্তাহ ধরে ক্রম মেনে ধরুন। আগে ঈমান: নাম নেওয়া পাঁচটি বিষয় পড়ুন আর জিজ্ঞেস করুন, এর কোনটি শেষবার আপনার কোনো সিদ্ধান্ত বদলে দিয়েছিল। তারপর সম্পদ: প্রতিটি খাতের জন্য শিরোনাম নয়, একটা করে সত্যিকারের নাম খুঁজে বের করুন; টানাটানিতে থাকা একজন আত্মীয়, একজন ইয়াতিম, এমন একজন যে চেয়েছিল আর যাকে আপনি ঘুরিয়ে দিয়েছিলেন। দিন এমন সময়ে যখন দেওয়াটা অসুবিধার, কারণ আয়াত আর হাদিস দুটোই এই শর্তই জুড়ে দিয়েছে।"
+            "bn": "আয়াতটিকে শুধু তত্ত্বের মধ্যে আটকে রাখা যায় না, কারণ সে খাতের নাম নেয় না, মানুষের নাম নেয়। এক সপ্তাহ ধরে একে একে ধরুন। আগে ঈমান: নাম নেওয়া পাঁচটি বিষয় পড়ুন আর নিজেকে জিজ্ঞেস করুন, এর কোনটি শেষবার আপনার কোনো সিদ্ধান্ত বদলে দিয়েছিল। তারপর সম্পদ: প্রতিটি খাতের জন্য শুধু শিরোনাম নয়, একটা করে সত্যিকারের নাম খুঁজে বের করুন। টানাটানিতে থাকা একজন আত্মীয়, একজন ইয়াতিম, এমন একজন যে চেয়েছিল আর আপনি ঘুরিয়ে দিয়েছিলেন। দিন এমন সময়ে, যখন দিতে কষ্ট হয়, কারণ আয়াত আর হাদিস দুটোই এই শর্ত জুড়ে দিয়েছে।"
           },
           {
             "en": "Then the two fixed duties, prayer and zakah, which are the parts most people already keep, and then the two that quietly go missing: a promise and patience. Write down what you promised this month and to whom, and clear the list. And notice which of the three patiences is actually yours to practise now, narrow money, illness or grief, or the moment when danger arrives, because the verse only calls anyone truthful after the whole of it has been counted together.",
-            "bn": "তারপর বাঁধা দুই দায়িত্ব, নামায আর যাকাত; এ দুটো বেশিরভাগ মানুষ এমনিতেই রাখেন। তারপর যে দুটো চুপচাপ হারিয়ে যায়, দেওয়া কথা আর সবর। এ মাসে কাকে কী কথা দিয়েছেন লিখে ফেলুন, আর তালিকাটা শেষ করুন। আর খেয়াল করুন, তিন রকম সবরের কোনটি এখন সত্যিই আপনার পালা, টাকার টানাটানি, অসুখ বা শোক, নাকি বিপদ এসে দাঁড়ানোর মুহূর্ত। কারণ পুরোটা একসাথে গোনা শেষ না হওয়া পর্যন্ত আয়াত কাউকে সত্যবাদী বলে না।"
+            "bn": "তারপর বাঁধা দুই ফরজ, নামাজ আর যাকাত; এ দুটো বেশিরভাগ মানুষ এমনিতেই পালন করেন। তারপর সেই দুটো, যা চুপচাপ হারিয়ে যায়: দেওয়া কথা আর সবর। এ মাসে কাকে কী কথা দিয়েছেন লিখে ফেলুন, তারপর একে একে সব কথা রাখুন। আর খেয়াল করুন, তিন রকম সবরের কোনটি এখন সত্যিই আপনার সামনে: টাকার টানাটানি, অসুখ বা শোক, নাকি বিপদ এসে দাঁড়ানোর মুহূর্ত। কারণ পুরো তালিকা একসাথে গোনা শেষ হওয়ার পরই আয়াত কাউকে সত্যবাদী বলে।"
           }
         ]
       },
@@ -3933,11 +3933,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a description rather than a request, so the supplication has to be built out of it. This one is composed here and is not narrated: O Allah, do not let my religion stop at the direction I face. Give me belief in You, in the Last Day, in Your angels, Your Book and Your prophets that travels as far as my hands. Loosen my grip on wealth while I still love it, and put the relative, the orphan, the needy, the traveller and the one who asks into my week.",
-            "bn": "আয়াতটি আবেদন নয়, বর্ণনা; তাই দোয়াটি এর ভেতর থেকে গড়ে নিতে হয়। নিচেরটি এখানে রচিত, কোনো বর্ণনা নয়: হে আল্লাহ, আমার দ্বীন যেন মুখ ফেরানোর দিকেই থেমে না যায়। আপনার ওপর, শেষ দিনের ওপর, আপনার ফেরেশতা, কিতাব আর নবীদের ওপর আমাকে এমন ঈমান দিন, যা আমার হাত পর্যন্ত পৌঁছায়। সম্পদের ওপর আমার মুঠো আলগা করে দিন যখন তা এখনো আমার প্রিয়, আর আত্মীয়, ইয়াতিম, মিসকিন, মুসাফির আর যে চায় তাকে আমার সপ্তাহের ভেতরে এনে দিন।"
+            "bn": "আয়াতটি কোনো আবেদন নয়, বর্ণনা; তাই দোয়াটি এর ভেতর থেকে গড়ে নিতে হয়। নিচের দোয়াটি এখানে বানানো, কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, আমার দ্বীন যেন শুধু কোন দিকে মুখ করি, সেখানেই থেমে না যায়। আপনার ওপর, শেষ দিনের ওপর, আপনার ফেরেশতা, কিতাব আর নবীদের ওপর আমাকে এমন ঈমান দিন, যা আমার হাত পর্যন্ত পৌঁছায়। সম্পদ যখন এখনো আমার প্রিয়, তখনই তার ওপর আমার মুঠো আলগা করে দিন। আর আত্মীয়, ইয়াতিম, মিসকিন, মুসাফির আর যে চায়, তাদের আমার সপ্তাহের ভেতরে এনে দিন।"
           },
           {
             "en": "And the close: keep me in prayer and in zakah, make me a man whose promise can be relied upon, and give me patience in poverty, in pain and at the moment fear arrives. When the counting is done, write me among those this verse calls truthful. A shorter request sits well beside it, and the Quran supplies it in 2:201, which asks for good in this world, good in the Hereafter, and protection from the punishment of the Fire.",
-            "bn": "আর শেষটা: আমাকে নামাযে আর যাকাতে ধরে রাখুন, এমন মানুষ বানান যার কথার ওপর ভরসা করা যায়, আর সবর দিন অভাবে, কষ্টে আর ভয় এসে দাঁড়ানোর মুহূর্তে। গোনা শেষ হলে এই আয়াত যাদের সত্যবাদী বলে, আমাকে তাদের মধ্যে লিখুন। এর পাশে ছোট আবেদনও ভালো বসে, আর কুরআন তা দিয়ে রেখেছে 2:201 আয়াতে, যেখানে চাওয়া হয় দুনিয়ায় কল্যাণ, আখিরাতে কল্যাণ আর জাহান্নামের শাস্তি থেকে রক্ষা।"
+            "bn": "আর শেষে: আমাকে নামাজে আর যাকাতে অটল রাখুন, এমন মানুষ বানান যার কথার ওপর ভরসা করা যায়, আর সবর দিন অভাবে, কষ্টে আর ভয় এসে দাঁড়ানোর মুহূর্তে। গোনা শেষ হলে এই আয়াত যাদের সত্যবাদী বলে, আমাকে তাদের মধ্যে লিখে নিন। এর সাথে ছোট একটি দোয়াও খুব মানায়, আর কুরআন নিজেই তা দিয়ে রেখেছে 2:201 আয়াতে: সেখানে চাওয়া হয় দুনিয়ায় কল্যাণ, আখিরাতে কল্যাণ আর জাহান্নামের শাস্তি থেকে রক্ষা।"
           }
         ]
       },
@@ -3949,7 +3949,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse begins by refusing to let religion be a direction. Which part of mine is still a direction, something I face rather than something I do, and what would it cost me to convert it into an action this week? The wealth clause asks for giving while the wealth is loved. When did I last give something away that I actually wanted to keep, and what did I tell myself afterwards about why that was enough?",
-            "bn": "আয়াত শুরুই হয় দ্বীনকে নিছক একটা দিক হতে না দিয়ে। আমার দ্বীনের কোন অংশটা এখনো দিক, অর্থাৎ যেদিকে আমি মুখ করি, করি না? আর এ সপ্তাহে সেটাকে কাজে বদলাতে গেলে আমার কী খরচ হতো? সম্পদের কথাটি চায় ভালোবাসা থাকতে থাকতেই দিয়ে দেওয়া। শেষ কবে আমি এমন কিছু দিয়ে দিয়েছি, যা আসলে রেখে দিতে চেয়েছিলাম? আর পরে নিজেকে কী বুঝিয়েছি যে ওটুকুই যথেষ্ট?"
+            "bn": "আয়াত শুরুই হয় এ কথা দিয়ে যে, দ্বীন নিছক একটা দিক নয়। আমার দ্বীনের কোন অংশটা এখনো শুধু একটা দিক হয়ে আছে, যেদিকে আমি মুখ ফেরাই, কিন্তু যা আমি করি না? এ সপ্তাহে সেটাকে কাজে বদলাতে গেলে আমার কী খরচ হবে? সম্পদের কথাটি চায়, ভালোবাসা থাকতে থাকতেই দিয়ে দেওয়া। শেষ কবে আমি এমন কিছু দিয়েছি, যা আসলে রেখে দিতে চেয়েছিলাম? আর পরে নিজেকে কী বুঝিয়েছি যে ওটুকুই যথেষ্ট?"
           },
           {
             "en": "A kept promise stands here between zakah and patience. What did I promise, to whom, and how long ago, and is there anyone still waiting on a word of mine? Three patiences are named, and one of them is usually the one I am being asked for at any given time. Which is it now? And if the verse were used to describe me, at which item in the list would an honest reader stop and look up?",
@@ -3969,7 +3969,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then set the exercise the verse itself sets. Have each student write the list down and mark the items they can evidence from the past month, from what happened rather than from what they intended. Nobody's sheet comes back full, and that is the lesson rather than a failure of the class. It is also why the verse ends by calling those who keep it the truthful, since the list tests whether what a person says about his faith matches what his week contains.",
-            "bn": "তারপর আয়াত নিজে যে অনুশীলনটা দেয়, সেটাই দিন। প্রত্যেক ছাত্রকে তালিকাটা লিখতে বলুন, আর গত এক মাসে যেগুলোর প্রমাণ সে দিতে পারে সেগুলোতে দাগ দিতে বলুন; ইচ্ছা থেকে নয়, যা ঘটেছে তা থেকে। কারও কাগজই ভরে ফেরত আসে না, আর সেটাই শিক্ষা, ক্লাসের ব্যর্থতা নয়। এ কারণেই আয়াত শেষ হয় এদের সত্যবাদী বলে, কারণ তালিকাটা যাচাই করে মানুষ নিজের ঈমান নিয়ে যা বলে আর তার সপ্তাহে যা থাকে, দুটো মেলে কি না।"
+            "bn": "তারপর আয়াত নিজে যে অনুশীলনটা দেয়, সেটাই দিন। প্রত্যেক ছাত্রকে তালিকাটা লিখতে বলুন, আর গত এক মাসে যেগুলোর প্রমাণ সে দিতে পারে সেগুলোতে দাগ দিতে বলুন; যা করতে চেয়েছিল তা দিয়ে নয়, যা সত্যিই ঘটেছে তা দিয়ে। কারও কাগজই পুরো দাগ নিয়ে ফেরে না, আর এটাই আসল শিক্ষা, ক্লাসের ব্যর্থতা নয়। আয়াত যে এই মানুষদের সত্যবাদী বলে শেষ হয়, তারও কারণ এটাই: তালিকাটা যাচাই করে, মানুষ নিজের ঈমান নিয়ে যা বলে আর তার সপ্তাহে যা ঘটে, দুটো মেলে কি না।"
           }
         ]
       }
@@ -3985,27 +3985,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse uses the vocabulary of decree: kutiba alaykumus-siyam, fasting has been written upon you. In this same stretch of Surah al-Baqarah the identical verb prescribes just retribution in 2:178 and the bequest in 2:180. Fasting arrives with that weight — not a recommendation for the devout, but legislation for the whole community, addressed as you who believe. It was made obligatory in Madinah, in the second year after the hijrah.",
-            "bn": "আয়াতটি ফরমানের ভাষা ব্যবহার করে: কুতিবা আলাইকুমুস সিয়াম — তোমাদের ওপর রোযা লিখে দেওয়া হয়েছে। সূরা আল-বাকারার এই একই অংশে একই ক্রিয়াপদ 2:178-এ কিসাস এবং 2:180-এ অসিয়ত ফরয করেছে। রোযা সেই ওজন নিয়েই আসে — ধার্মিকদের জন্য পরামর্শ নয়, বরং গোটা সম্প্রদায়ের জন্য বিধান, যাদের সম্বোধন করা হয়েছে 'হে ঈমানদারগণ' বলে। এটি ফরয হয়েছিল মদীনায়, হিজরতের দ্বিতীয় বছরে।"
+            "bn": "আয়াতের ভাষা ফরমানের ভাষা: কুতিবা আলাইকুমুস সিয়াম, তোমাদের ওপর রোযা লিখে দেওয়া হয়েছে। সূরা বাকারার এই অংশেই একই ক্রিয়া দিয়ে ২:১৭৮ আয়াতে কিসাস আর ২:১৮০ আয়াতে অসিয়ত ফরয করা হয়েছে। রোযাও আসে সেই ওজন নিয়ে। এটা দ্বীনদার কিছু মানুষের জন্য পরামর্শ নয়, গোটা উম্মতের জন্য আইন, আর সম্বোধনটাও সবাইকে: ‘হে ঈমানদারগণ’। রোযা ফরয হয় মদীনায়, হিজরতের দ্বিতীয় বছরে।"
           },
           {
             "en": "Then comes a clause that changes the mood of the command: kama kutiba alal-ladhina min qablikum, as it was written upon those before you. Communities before this ummah were also given fasting in some form; the Quran does not detail their forms, and the differing reports the commentators relate about them settle nothing. The point of the comparison is companionship in discipline: restraining the self for Allah's sake is not an innovation but an old, shared road.",
-            "bn": "এরপর আসে এমন এক বাক্যাংশ, যা আদেশের আবহ বদলে দেয়: কামা কুতিবা আলাল্লাযীনা মিন কাবলিকুম — যেমন লেখা হয়েছিল তোমাদের আগের লোকদের ওপর। এই উম্মতের আগের সম্প্রদায়গুলোকেও কোনো না কোনো রূপে রোযা দেওয়া হয়েছিল; কুরআন তাদের রূপগুলোর বিস্তারিত দেয়নি, আর মুফাসসিরগণ যে বিবরণগুলো এনেছেন সেগুলোও পরস্পর ভিন্ন — কোনোটিই চূড়ান্ত নয়। তুলনাটির মূল কথা হলো অনুশীলনে সঙ্গ: আল্লাহর জন্য নিজেকে সংযত করা কোনো নতুন উদ্ভাবন নয় — এক পুরোনো, ভাগাভাগি করা পথ।"
+            "bn": "এরপর আসে এমন একটি কথা, যা হুকুমের সুরটাই বদলে দেয়: কামা কুতিবা আলাল্লাযীনা মিন কাবলিকুম, যেমন লেখা হয়েছিল তোমাদের আগের লোকদের ওপর। এই উম্মতের আগের জাতিগুলোকেও কোনো না কোনোভাবে রোযা দেওয়া হয়েছিল। সে রোযা কেমন ছিল, কুরআন তা খুলে বলেনি। মুফাসসিররা যেসব বর্ণনা আনেন, সেগুলোও একটা আরেকটার সাথে মেলে না, তাই তা দিয়ে কিছু নিশ্চিত হয় না। তুলনাটার আসল কথা হলো, এই সাধনায় আপনি একা নন। আল্লাহর জন্য নিজেকে সামলে রাখা নতুন কিছু নয়; এ বহু পুরোনো পথ, যে পথে সবাই একসাথে হেঁটেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Purpose Clause",
-          "bn": "উদ্দেশ্যের বাক্যাংশ"
+          "bn": "রোযা কীসের জন্য"
         },
         "p": [
           {
             "en": "The verse ends by telling us what fasting is for: la'allakum tattaqun, that you may attain taqwa. Taqwa is guarding — placing something between yourself and what harms you. The training logic is plain. A person who can refuse permitted food, drink and marital relations from dawn to sunset, for no reason except that Allah said so, is building exactly the muscle needed to refuse what Allah forbade in the other eleven months.",
-            "bn": "আয়াত শেষ হয় রোযার উদ্দেশ্য জানিয়ে: লাআল্লাকুম তাত্তাকুন — যেন তোমরা তাকওয়া অর্জন করো। তাকওয়া মানে সুরক্ষা — নিজের ও ক্ষতিকর জিনিসের মাঝে কিছু একটা রাখা। প্রশিক্ষণের যুক্তিটি সরল। যে মানুষ ভোর থেকে সূর্যাস্ত পর্যন্ত হালাল খাবার, পানীয় ও দাম্পত্য সম্পর্ক ফিরিয়ে দিতে পারে — কেবল আল্লাহ বলেছেন বলে — সে ঠিক সেই পেশিই গড়ছে, যা বাকি এগারো মাসে আল্লাহর নিষিদ্ধ জিনিস ফিরিয়ে দিতে লাগবে।"
+            "bn": "আয়াত শেষ হয় রোযা কীসের জন্য তা জানিয়ে: লাআল্লাকুম তাত্তাকুন, যাতে তোমরা তাকওয়া অর্জন করো। তাকওয়া মানে বাঁচিয়ে চলা: নিজের আর ক্ষতিকর জিনিসের মাঝখানে একটা আড়াল রাখা। প্রশিক্ষণের হিসাবটা সোজা। ভোর থেকে সূর্যাস্ত পর্যন্ত যে মানুষ হালাল খাবার, পানীয় আর স্ত্রী-সঙ্গ ছেড়ে থাকতে পারে, শুধু আল্লাহ বলেছেন বলে, সে ঠিক সেই পেশিটাই গড়ে তুলছে, যা দিয়ে বাকি এগারো মাস আল্লাহর হারাম করা জিনিস থেকে দূরে থাকা যায়।"
           },
           {
             "en": "The commentators add a second mechanism: fasting narrows the routes of appetite. Hunger quietens the demands of the self, and with them much of what leads to sin. So the fast is aimed at the interior; the empty stomach is the instrument, not the achievement. A fast measured only in hours endured has been read at the level of the husk. The verse itself states the target, and the target is taqwa.",
-            "bn": "মুফাসসিরগণ দ্বিতীয় একটি প্রক্রিয়ার কথা যোগ করেন: রোযা প্রবৃত্তির পথগুলো সংকীর্ণ করে দেয়। ক্ষুধা নফসের দাবিগুলোকে শান্ত করে, আর সেই সঙ্গে গুনাহের দিকে টানে এমন অনেক কিছুকেও। তাই রোযার নিশানা অন্তর; খালি পেট হলো যন্ত্র, অর্জন নয়। যে রোযা কেবল সহ্য করা ঘণ্টা দিয়ে মাপা হয়, তা খোসার স্তরেই পড়া হয়েছে। আয়াত নিজেই লক্ষ্য বলে দিয়েছে — লক্ষ্য তাকওয়া।"
+            "bn": "মুফাসসিররা আরেকটি দিক যোগ করেন: রোযা প্রবৃত্তির রাস্তাগুলো সরু করে দেয়। ক্ষুধা নফসের চাহিদাকে শান্ত করে, আর তার সাথে দমে যায় গুনাহের দিকে টেনে নেওয়া অনেক কিছুই। তাই রোযার আসল নিশানা অন্তর। খালি পেট হলো উপায়, অর্জন নয়। যে রোযা শুধু কত ঘণ্টা কষ্ট সইলাম তা দিয়ে মাপা হয়, সে রোযার খোসাটুকুই ধরা হয়েছে। আয়াত নিজেই লক্ষ্যটা বলে দিয়েছে, আর সে লক্ষ্য তাকওয়া।"
           }
         ]
       },
@@ -4017,11 +4017,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The legislation unfolds across the passage. 2:184 speaks of numbered days and records concessions; 2:185 then names the month and gives the reason for its choice: Ramadan, in which the Quran was sent down as guidance for mankind. The month of fasting is the month of revelation — the discipline of the body is tied to the arrival of the Book, as if an emptier vessel were being prepared to carry it.",
-            "bn": "বিধানটি ধাপে ধাপে খোলে। 2:184 বলে গোনা কয়েকটি দিনের কথা এবং ছাড়ের বিধান লিপিবদ্ধ করে; এরপর 2:185 মাসটির নাম নেয় এবং তা বেছে নেওয়ার কারণ জানায়: রমযান, যাতে মানবজাতির হিদায়াত হিসেবে কুরআন নাযিল হয়েছে। রোযার মাসই ওহীর মাস — দেহের সংযমকে বাঁধা হয়েছে কিতাব আগমনের সঙ্গে, যেন একটি অপেক্ষাকৃত খালি পাত্রকে তা বহনের জন্য প্রস্তুত করা হচ্ছে।"
+            "bn": "বিধানটা পুরো অংশ জুড়ে ধাপে ধাপে খোলে। ২:১৮৪ আয়াত বলে গোনা কয়েকটি দিনের কথা, আর ছাড়ের বিধান দেয়। তারপর ২:১৮৫ আয়াত মাসটির নাম নেয়, আর কেন এই মাস, তাও জানায়: রমজান, যে মাসে মানুষের হিদায়াতের জন্য কুরআন নাজিল হয়েছে। রোযার মাসই ওহির মাস। শরীরের সংযমকে বেঁধে দেওয়া হয়েছে কিতাব আসার সাথে, যেন কিতাব ধারণের জন্য পাত্রটাকে একটু খালি করে তৈরি করা হচ্ছে।"
           },
           {
             "en": "The same verse insists twice on gentleness: whoever is ill or travelling may make up the days later, for Allah intends ease for you, and does not intend hardship for you. The command that trains restraint is itself restrained. Any presentation of fasting as competitive severity has left the text; the Lawgiver built the exemptions into the founding verses themselves, in the same breath as the obligation.",
-            "bn": "একই আয়াত দু'বার কোমলতার ওপর জোর দেয়: যে অসুস্থ বা সফরে আছে, সে পরে দিনগুলো পূরণ করবে — কারণ আল্লাহ তোমাদের জন্য সহজ চান, কঠিন চান না। যে আদেশ সংযম শেখায়, সেই আদেশ নিজেই সংযত। রোযাকে প্রতিযোগিতামূলক কঠোরতা হিসেবে দেখানো মানেই মূল পাঠ থেকে সরে যাওয়া; বিধানদাতা ছাড়গুলো ভিত্তি-আয়াতের ভেতরেই রেখেছেন — ফরয করার সেই একই নিঃশ্বাসে।"
+            "bn": "একই আয়াত দুবার কোমলতার কথা মনে করিয়ে দেয়: কেউ অসুস্থ হলে বা সফরে থাকলে পরে দিনগুলো পূরণ করে নেবে, কারণ আল্লাহ তোমাদের জন্য সহজ চান, কঠিন চান না। যে হুকুম সংযম শেখায়, সে হুকুম নিজেও সংযত। রোযাকে কে কত কঠোর হতে পারে তার প্রতিযোগিতা বানালে মূল পাঠ থেকেই সরে যাওয়া হয়। বিধানদাতা ছাড়গুলো রেখেছেন একেবারে গোড়ার আয়াতগুলোতেই, ফরয করার কথার সাথে একই নিঃশ্বাসে।"
           }
         ]
       },
@@ -4033,11 +4033,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Between the fasting legislation of 2:183-185 and the night regulations of 2:187 sits 2:186: when My servants ask you about Me, I am near; I answer the call of the caller when he calls. Commentators have long noticed the placement, and also what is missing from the verse: the usual instruction say does not appear between Allah and the asker. In the middle of hunger and rules stands the most intimate sentence of nearness in the surah.",
-            "bn": "2:183-185-এর রোযার বিধান আর 2:187-এর রাতের নিয়মকানুনের মাঝখানে বসে আছে 2:186: আমার বান্দারা যখন আমার সম্পর্কে তোমাকে জিজ্ঞেস করে — আমি তো নিকটেই; আহ্বানকারী যখন ডাকে, আমি তার ডাকে সাড়া দিই। মুফাসসিরগণ বহুকাল ধরে এই অবস্থানটি লক্ষ করেছেন, আর লক্ষ করেছেন আয়াতে কী নেই: আল্লাহ ও প্রশ্নকারীর মাঝে প্রচলিত 'বলো' নির্দেশটিই এখানে অনুপস্থিত। ক্ষুধা আর নিয়মের মাঝখানে দাঁড়িয়ে আছে সূরার সবচেয়ে অন্তরঙ্গ নৈকট্যের বাক্য।"
+            "bn": "রোযার বিধান (২:১৮৩-১৮৫) আর রাতের নিয়মকানুন (২:১৮৭), এই দুইয়ের মাঝখানে বসে আছে ২:১৮৬: আমার বান্দারা যখন তোমাকে আমার সম্পর্কে জিজ্ঞেস করে, তখন আমি তো কাছেই; যে ডাকে, সে যখন ডাকে, আমি তার ডাকে সাড়া দিই। মুফাসসিররা অনেক আগেই এই জায়গাটা খেয়াল করেছেন। আয়াতে কী নেই, সেটাও খেয়াল করেছেন: আল্লাহ আর প্রশ্নকারীর মাঝে সাধারণত যে ‘বলো’ থাকে, এখানে তা নেই। ক্ষুধা আর নিয়মকানুনের ঠিক মাঝখানে দাঁড়িয়ে আছে এই সূরায় আল্লাহর নৈকট্যের সবচেয়ে আপন কথাটি।"
           },
           {
             "en": "The arrangement teaches what the month is for. Fasting empties; du'a fills. A person weakened by the day's abstention is, precisely then, addressed by I am near. Whoever keeps Ramadan as a diet with rituals has missed the door the text itself placed mid-passage: the fasting person is being positioned, day after day, as a caller whom Allah has announced in advance that He answers.",
-            "bn": "এই বিন্যাসই শেখায় মাসটি কীসের জন্য। রোযা খালি করে; দোয়া পূর্ণ করে। দিনের সংযমে দুর্বল হয়ে পড়া মানুষটিকে ঠিক তখনই সম্বোধন করা হয়: আমি তো নিকটেই। যে রমযানকে কিছু আচারসহ ডায়েট বানিয়ে রাখে, সে মূল পাঠের মাঝখানে বসানো দরজাটিই হারিয়েছে: রোযাদারকে দিনের পর দিন এমন এক আহ্বানকারীর জায়গায় দাঁড় করানো হচ্ছে, যার ডাকে সাড়া দেওয়ার কথা আল্লাহ আগেই ঘোষণা করে রেখেছেন।"
+            "bn": "এই সাজানোটাই শেখায়, মাসটা কীসের জন্য। রোযা খালি করে, দোয়া ভরিয়ে দেয়। সারা দিন না খেয়ে দুর্বল মানুষটিকে ঠিক তখনই শোনানো হয়: আমি তো কাছেই। যে রমজানকে কিছু আনুষ্ঠানিকতা মেশানো ডায়েট বানিয়ে ফেলে, সে হারিয়ে ফেলে সেই দরজা, যা আয়াতগুলোর ঠিক মাঝখানে বসানো। দিনের পর দিন রোযাদারকে এমন জায়গায় দাঁড় করানো হচ্ছে, যেখানে সে ডাকবে, আর আল্লাহ আগেই ঘোষণা দিয়ে রেখেছেন যে তিনি সাড়া দেবেন।"
           }
         ]
       },
@@ -4049,11 +4049,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Prophet ﷺ tied the fast to behaviour in words al-Bukhari preserves: whoever does not give up false speech and acting upon it, Allah has no need of his giving up his food and his drink. And in the agreed-upon hadith, fasting is a shield, and the fasting person is told not to answer abuse in kind but to say: I am fasting. The fast extends from the stomach to the tongue and the temper.",
-            "bn": "নবী ﷺ রোযাকে আচরণের সঙ্গে বেঁধেছেন এমন কথায়, যা ইমাম বুখারী সংরক্ষণ করেছেন: যে মিথ্যা কথা ও সে অনুযায়ী আমল ছাড়ল না, তার খাবার ও পানীয় ছাড়ায় আল্লাহর কোনো প্রয়োজন নেই। আর বুখারী-মুসলিমে একমত হাদীসে রোযা এক ঢাল, এবং রোযাদারকে বলা হয়েছে গালাগালির জবাব একইভাবে না দিয়ে বলতে: আমি রোযাদার। রোযা পেট থেকে বিস্তৃত হয় জিভ ও মেজাজ পর্যন্ত।"
+            "bn": "নবী ﷺ রোযাকে আচরণের সাথে বেঁধে দিয়েছেন। ইমাম বুখারী তাঁর কথাটি সংরক্ষণ করেছেন: যে মিথ্যা কথা আর সে অনুযায়ী কাজ ছাড়ল না, তার খাবার-পানীয় ছেড়ে দেওয়ায় আল্লাহর কোনো প্রয়োজন নেই। আর বুখারী ও মুসলিম দুজনেই যে হাদিস এনেছেন, তাতে আছে: রোযা ঢাল। রোযাদারকে কেউ গালি দিলে সে যেন পাল্টা গালি না দেয়, বরং বলে: আমি রোযাদার। রোযা তাই পেট ছাড়িয়ে পৌঁছে যায় জিভ আর মেজাজ পর্যন্ত।"
           },
           {
             "en": "So the honest yearly measure is the one the verse itself installs: la'allakum tattaqun. Did the month leave more guarding behind — over speech, over earnings, over the eyes — than it found? The verse's opening comfort still stands: believers before us walked this same road, and it was written for them as it was written for us, because the goal at its end, taqwa, has never changed.",
-            "bn": "তাই বছরের সৎ মাপকাঠি সেটিই, যা আয়াত নিজে বসিয়ে দিয়েছে: লাআল্লাকুম তাত্তাকুন। মাসটি কি যাওয়ার সময় আগের চেয়ে বেশি সুরক্ষা রেখে গেল — কথায়, উপার্জনে, দৃষ্টিতে? আয়াতের শুরুর সান্ত্বনাটি এখনো দাঁড়িয়ে: আমাদের আগের মুমিনরাও এই একই পথে হেঁটেছেন, তাদের ওপরও লেখা হয়েছিল যেমন আমাদের ওপর লেখা হয়েছে — কারণ পথের শেষের লক্ষ্যটি, তাকওয়া, কখনো বদলায়নি।"
+            "bn": "তাই প্রতি বছর নিজেকে সৎভাবে মাপার মাপকাঠি সেটাই, যা আয়াত নিজে বসিয়ে দিয়েছে: লাআল্লাকুম তাত্তাকুন। মাসটা যাওয়ার সময় কি আসার সময়ের চেয়ে বেশি সাবধানতা রেখে গেল? কথায়, উপার্জনে, চোখের দৃষ্টিতে? আয়াতের শুরুর সান্ত্বনাটা এখনো আছে: আমাদের আগের মুমিনরাও এই পথে হেঁটেছেন। তাঁদের ওপরও রোযা লেখা হয়েছিল, যেমন লেখা হয়েছে আমাদের ওপর, কারণ পথের শেষের লক্ষ্য তাকওয়া কখনো বদলায়নি।"
           }
         ]
       }
@@ -4069,27 +4069,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse begins with a question being reported: and when My servants ask you about Me. Elsewhere in the Quran, when people put a question to the Prophet ﷺ, the answer opens with qul, say to them. Here that word is absent. The reply comes straight back: fa inni qarib, then indeed I am near. The commentators note the omission and read it as part of the meaning rather than a stylistic accident.",
-            "bn": "আয়াতটি শুরু হয় একটি প্রশ্নের বর্ণনা দিয়ে: আর যখন আমার বান্দারা আপনাকে আমার সম্পর্কে জিজ্ঞেস করে। কুরআনের অন্যত্র যখন মানুষ নবী ﷺ-কে কোনো প্রশ্ন করে, উত্তর শুরু হয় 'কুল' দিয়ে — অর্থাৎ 'বলে দিন'। এখানে সেই শব্দটি নেই। জবাব সরাসরি ফিরে আসে: ফা-ইন্নী কারীব — নিশ্চয়ই আমি নিকটেই আছি। মুফাসসিরগণ এই অনুপস্থিতি লক্ষ করেন এবং একে ভাষার আকস্মিকতা নয়, বরং অর্থেরই অংশ হিসেবে পড়েন।"
+            "bn": "আয়াত শুরু হয় একটি প্রশ্নের কথা জানিয়ে: আর যখন আমার বান্দারা আপনাকে আমার সম্পর্কে জিজ্ঞেস করে। কুরআনের অন্য জায়গায় মানুষ নবী ﷺ-কে কিছু জিজ্ঞেস করলে জবাব শুরু হয় ‘কুল’ দিয়ে, মানে ‘আপনি বলে দিন’। এখানে সে শব্দটি নেই। জবাব আসে সরাসরি: ফা-ইন্নী কারীব, আমি তো কাছেই আছি। মুফাসসিররা এই না-থাকাটা লক্ষ করেছেন, আর একে ভাষার কোনো আকস্মিক ভঙ্গি না ধরে অর্থেরই অংশ হিসেবে পড়েছেন।"
           },
           {
             "en": "Two more details carry weight. Allah calls them 'ibadi, My servants, a term of belonging, before saying anything about their request. And He describes Himself as qarib, near, using an adjective rather than a verb, so nearness is stated as a permanent quality and not as something that happens when we call. The response clause follows: ujibu da'wata ad-da'i idha da'ani, I answer the call of the caller when he calls Me.",
-            "bn": "আরও দুটি বিষয় গুরুত্ব বহন করে। আল্লাহ প্রথমে তাদের বলেন 'ইবাদী' — আমার বান্দারা, যা সম্পর্ক ও আপনত্বের পরিভাষা — তাদের আবেদন সম্পর্কে কিছু বলার আগেই। আর তিনি নিজেকে বর্ণনা করেন 'কারীব' বলে, যা ক্রিয়াপদ নয়, বিশেষণ; ফলে নৈকট্য এখানে একটি স্থায়ী গুণ হিসেবে ঘোষিত, আমরা ডাকলে তবেই ঘটে এমন কিছু নয়। এরপর আসে সাড়া দেওয়ার বাক্য: উজীবু দা'ওয়াতাদ্‌ দা'ই ইযা দা'আন — আহ্বানকারী যখন আমাকে ডাকে, আমি তার ডাকে সাড়া দিই।"
+            "bn": "আরও দুটো খুঁটিনাটি বড় অর্থ বহন করে। তাদের চাওয়ার কথা কিছু বলার আগেই আল্লাহ তাদের ডাকেন ‘ইবাদী’, আমার বান্দারা। শব্দটাতেই আছে আপনত্ব: তারা তাঁরই লোক। আর তিনি নিজের পরিচয় দেন ‘কারীব’, কাছে, বলে। এটা ক্রিয়া নয়, বিশেষণ। তাই নৈকট্য এখানে তাঁর স্থায়ী গুণ, আমরা ডাকলে তবেই ঘটে এমন কিছু নয়। এরপর আসে সাড়া দেওয়ার কথা: উজীবু দা'ওয়াতাদ্‌ দা'ই ইযা দা'আন, যে ডাকে, সে যখন আমাকে ডাকে, আমি তার ডাকে সাড়া দিই।"
           }
         ]
       },
       {
         "h": {
           "en": "Placed Inside Ramadan",
-          "bn": "রমযানের ভেতরে স্থাপিত"
+          "bn": "রমজানের মাঝখানে বসানো"
         },
         "p": [
           {
             "en": "The setting is unmistakable. Verse 2:185 has just described Ramadan as the month in which the Quran was sent down and given the concession for the traveller and the ill. Verse 2:187 goes on to the rules of the nights of fasting. Between these two sits a verse about nearness and supplication, with nothing on its surface about fasting at all. The commentators treat this placement as the point: du'a belongs to the month.",
-            "bn": "প্রেক্ষাপটটি অস্পষ্ট নয়। ঠিক আগের আয়াত 2:185 রমযানকে বর্ণনা করেছে সেই মাস হিসেবে যাতে কুরআন নাযিল হয়েছে, এবং মুসাফির ও অসুস্থের জন্য ছাড় দিয়েছে। পরের আয়াত 2:187 রোযার রাতগুলোর বিধানে চলে যায়। এই দুইয়ের মাঝখানে বসে আছে নৈকট্য ও দোয়া সম্পর্কে একটি আয়াত, যার উপরিভাগে রোযার কোনো উল্লেখই নেই। মুফাসসিরগণ এই অবস্থানটিকেই মূল বার্তা হিসেবে দেখেন: দোয়া এই মাসেরই অঙ্গ।"
+            "bn": "প্রেক্ষাপটটা ভুল বোঝার উপায় নেই। ঠিক আগের আয়াত ২:১৮৫ রমজানকে বলেছে সেই মাস, যে মাসে কুরআন নাজিল হয়েছে, আর মুসাফির ও অসুস্থকে ছাড় দিয়েছে। পরের আয়াত ২:১৮৭ চলে যায় রোযার রাতগুলোর বিধানে। এই দুইয়ের মাঝখানে বসে আছে নৈকট্য আর দোয়ার একটি আয়াত, যার শব্দে রোযার কোনো উল্লেখই নেই। মুফাসসিররা এই বসানোটাকেই আসল কথা বলে দেখেন: দোয়া এই মাসেরই অংশ।"
           },
           {
             "en": "Several reports in the tafsir literature describe companions or a bedouin asking whether their Lord is near, so that they might whisper to Him, or far, so that they should call out. These reports vary in strength and are relayed through different chains, so it is safer to say that the verse answers a real and recurring human question than to fix it to one incident. Its wording is general and speaks to anyone who has wondered how far away God is.",
-            "bn": "তাফসীরের সাহিত্যে একাধিক বর্ণনায় এসেছে যে কিছু সাহাবী কিংবা এক বেদুইন জিজ্ঞেস করেছিলেন — আমাদের রব কি নিকটে, যাতে আমরা ফিসফিস করে বলি; নাকি দূরে, যাতে আমরা উচ্চস্বরে ডাকি? এই বর্ণনাগুলোর সনদ ও মান ভিন্ন ভিন্ন, তাই একে কোনো একটি ঘটনার সঙ্গে বেঁধে ফেলার চেয়ে বলা নিরাপদ যে আয়াতটি মানুষের এক বাস্তব ও বারবার ফিরে আসা প্রশ্নের জবাব দেয়। এর ভাষা সাধারণ, আর তা সেই সবার সঙ্গে কথা বলে যারা কখনো ভেবেছে — আল্লাহ ঠিক কতটা দূরে।"
+            "bn": "তাফসীরের কিতাবে কয়েকটি বর্ণনা আছে: কিছু সাহাবী, কিংবা এক বেদুইন, জানতে চেয়েছিলেন, আমাদের রব কি কাছে, তাহলে চুপিচুপি ডাকব; নাকি দূরে, তাহলে জোরে ডাকব? বর্ণনাগুলোর সনদ সমান মজবুত নয়, এসেছেও ভিন্ন ভিন্ন সূত্রে। তাই আয়াতটিকে কোনো একটি ঘটনায় বেঁধে না ফেলে এটুকু বলাই নিরাপদ: মানুষের মনে সত্যিই যে প্রশ্ন জাগে, বারবার জাগে, আয়াতটি তারই জবাব। এর ভাষা সবার জন্য খোলা। আল্লাহ কত দূরে, এ কথা যে কখনো ভেবেছে, আয়াতটি তার সাথেই কথা বলে।"
           }
         ]
       },
@@ -4101,11 +4101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse promises a response, and the commentators are careful not to flatten that into getting whatever is asked. A hadith in the Musnad of Ahmad, with a similar report in at-Tirmidhi, describes three possible outcomes for a supplication made without sin or severing of kinship: it is given, or it is stored for the hereafter, or an equivalent harm is turned away. On that reading no du'a is wasted, though not every du'a arrives in the shape it was posted.",
-            "bn": "আয়াতটি সাড়ার প্রতিশ্রুতি দেয়, আর মুফাসসিরগণ সতর্ক থাকেন যেন একে 'যা চাওয়া হয় তা-ই পাওয়া' অর্থে সংকুচিত না করা হয়। মুসনাদে আহমাদে বর্ণিত — এবং তিরমিযীতে কাছাকাছি ভাষায় আসা — একটি হাদীসে বলা হয়েছে, পাপ বা আত্মীয়তা ছিন্ন করার উদ্দেশ্য ছাড়া করা দোয়ার তিনটি সম্ভাব্য পরিণতি: তা দেওয়া হয়, কিংবা আখিরাতের জন্য জমা রাখা হয়, কিংবা সমপরিমাণ কোনো ক্ষতি সরিয়ে দেওয়া হয়। এই পাঠ অনুযায়ী কোনো দোয়াই বৃথা যায় না, যদিও প্রতিটি দোয়া ঠিক যে আকারে পাঠানো হয়েছিল সেই আকারে ফিরে আসে না।"
+            "bn": "আয়াত সাড়া দেওয়ার প্রতিশ্রুতি দেয়, আর মুফাসসিররা সাবধান থাকেন, যেন একে ‘যা চাইব তা-ই পাব’ বানিয়ে ছোট করে ফেলা না হয়। মুসনাদে আহমাদের একটি হাদিসে (তিরমিযীতেও কাছাকাছি বর্ণনা আছে) এসেছে: যে দোয়ায় গুনাহ বা আত্মীয়তা ছিন্ন করার কিছু নেই, তার তিনটি পরিণতির একটি ঘটে। হয় চাওয়া জিনিসটা দেওয়া হয়, নয়তো আখিরাতের জন্য জমা রাখা হয়, নয়তো সমান কোনো বিপদ সরিয়ে দেওয়া হয়। এভাবে দেখলে কোনো দোয়াই বৃথা যায় না, যদিও সব দোয়া ঠিক যে রূপে চাওয়া হয়েছিল, সেই রূপে ফেরে না।"
           },
           {
             "en": "The verse then turns the direction around: falyastajibu li walyu'minu bi, so let them respond to Me and believe in Me, that they may be rightly guided. The same verb used for Allah answering the servant is now used for the servant answering Allah. Asking and obeying are placed on one continuum. The commentators generally read this as a condition of quality rather than eligibility: the more responsive the servant, the more the relationship works in both directions.",
-            "bn": "এরপর আয়াতটি দিক ঘুরিয়ে দেয়: ফাল-ইয়াস্তাজীবূ লী ওয়াল-ইউ'মিনূ বী — অতএব তারা আমার ডাকে সাড়া দিক ও আমার প্রতি ঈমান আনুক, যাতে তারা সঠিক পথ পায়। আল্লাহর সাড়া দেওয়ার জন্য যে ক্রিয়াপদ ব্যবহৃত হয়েছে, বান্দার সাড়া দেওয়ার জন্যও এখন সেই একই ক্রিয়াপদ। চাওয়া ও মানা একই ধারাবাহিকতায় বসানো হয়েছে। মুফাসসিরগণ সাধারণত একে যোগ্যতার শর্ত নয়, বরং গুণমানের শর্ত হিসেবে পড়েন: বান্দা যত বেশি সাড়া দেয়, সম্পর্কটি ততই দুই দিক থেকেই কাজ করে।"
+            "bn": "এরপর আয়াত দিকটা উল্টে দেয়: ফাল-ইয়াস্তাজীবূ লী ওয়াল-ইউ'মিনূ বী, অতএব তারাও আমার ডাকে সাড়া দিক আর আমার ওপর ঈমান আনুক, যাতে তারা সঠিক পথ পায়। আল্লাহ বান্দার ডাকে সাড়া দেন, এ কথা বলতে যে ক্রিয়া এসেছে, বান্দা আল্লাহর ডাকে সাড়া দেবে, এ কথাতেও এসেছে সেই একই ক্রিয়া। চাওয়া আর মানা তাই একই সুতোয় গাঁথা। মুফাসসিররা সাধারণত একে দোয়া কবুলের যোগ্যতার শর্ত হিসেবে পড়েন না, পড়েন সম্পর্কের মানের শর্ত হিসেবে: বান্দা যত বেশি সাড়া দেয়, সম্পর্কটা তত বেশি দুই দিক থেকে সচল থাকে।"
           }
         ]
       },
@@ -4117,11 +4117,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Prophet ﷺ called du'a the very substance of worship, in a report transmitted by at-Tirmidhi. His own supplications, preserved in large numbers, are marked by a few consistent habits: praising Allah before asking, sending salawat, using His names appropriate to the request, and asking for the small along with the great. A report in at-Tirmidhi, though of debated strength, has him teaching that a servant should ask Allah even for the strap of his sandal when it breaks.",
-            "bn": "তিরমিযীতে বর্ণিত এক হাদীসে নবী ﷺ দোয়াকে ইবাদতের মূল সারবস্তু বলেছেন। তাঁর নিজের দোয়াগুলো বিপুল সংখ্যায় সংরক্ষিত, আর সেগুলোতে কয়েকটি ধারাবাহিক অভ্যাস স্পষ্ট: চাওয়ার আগে আল্লাহর প্রশংসা করা, দরূদ পাঠ করা, আবেদনের সঙ্গে মানানসই তাঁর নামগুলো ব্যবহার করা, আর বড় জিনিসের পাশাপাশি ছোট জিনিসও চাওয়া। তিরমিযীর একটি বর্ণনায় — যার সনদের মান নিয়ে মতভেদ আছে — এসেছে, তিনি শিখিয়েছেন: বান্দা যেন জুতার ফিতা ছিঁড়ে গেলেও তা আল্লাহর কাছেই চায়।"
+            "bn": "তিরমিযীর এক বর্ণনায় নবী ﷺ দোয়াকে বলেছেন ইবাদতের আসল সার। তাঁর নিজের অনেক দোয়া সংরক্ষিত আছে, আর সেগুলোতে কয়েকটি অভ্যাস বারবার দেখা যায়: চাওয়ার আগে আল্লাহর প্রশংসা করা, দরূদ পড়া, যা চাইছেন তার সাথে মিলিয়ে আল্লাহর নাম ধরে ডাকা, আর বড় জিনিসের সাথে ছোট জিনিসও চাওয়া। তিরমিযীর আরেকটি বর্ণনা, যার সনদ নিয়ে মতভেদ রয়েছে, বলছে তিনি শিখিয়েছেন: জুতার ফিতা ছিঁড়ে গেলে বান্দা যেন সেটাও আল্লাহর কাছেই চায়।"
           },
           {
             "en": "Certain times were emphasised in his practice. Al-Bukhari and Muslim record that Allah descends, in a manner befitting Him, in the last third of the night and calls out who is asking of Me that I may give him. Other reports single out the moment of prostration, the time between the adhan and the iqamah, and the last hour of Friday. None of these makes du'a exclusive to a slot; they mark hours when hearts are usually more awake.",
-            "bn": "তাঁর আমলে কিছু সময়কে বিশেষভাবে গুরুত্ব দেওয়া হয়েছে। বুখারী ও মুসলিমে বর্ণিত আছে, রাতের শেষ তৃতীয়াংশে আল্লাহ তাঁর শানের উপযোগী পদ্ধতিতে অবতরণ করেন এবং ডেকে বলেন — কে আছে আমার কাছে চাইবে, আমি তাকে দেব? অন্যান্য বর্ণনায় বিশেষভাবে উল্লেখ আছে সিজদার মুহূর্ত, আযান ও ইকামতের মধ্যবর্তী সময় এবং জুমার দিনের শেষ প্রহর। এর কোনোটিই দোয়াকে নির্দিষ্ট সময়ে সীমাবদ্ধ করে না; বরং এগুলো সেই সময়গুলো চিহ্নিত করে যখন হৃদয় সাধারণত বেশি জাগ্রত থাকে।"
+            "bn": "তাঁর আমলে কিছু সময়ের বিশেষ গুরুত্ব ছিল। বুখারী ও মুসলিমে আছে, রাতের শেষ তৃতীয়াংশে আল্লাহ তাঁর শান অনুযায়ী নেমে আসেন আর ডেকে বলেন: কে আছে আমার কাছে চাইবে, আমি তাকে দেব? অন্য বর্ণনায় আলাদা করে এসেছে সিজদার মুহূর্ত, আজান আর ইকামতের মাঝের সময়, আর জুমার দিনের শেষ প্রহর। এর কোনোটিই দোয়াকে কোনো নির্দিষ্ট সময়ে আটকে দেয় না। এগুলো শুধু সেই সময়গুলো চিনিয়ে দেয়, যখন মন সাধারণত বেশি জেগে থাকে।"
           }
         ]
       },
@@ -4133,27 +4133,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The hardest part of this verse is living in the gap between asking and receiving. The Prophet ﷺ addressed that gap directly, warning in a report in al-Bukhari and Muslim that a servant's supplication is answered so long as he is not hasty, and explaining haste as saying I called and I called and was not answered, and then giving up. The failure named there is abandoning the asking, not the delay itself.",
-            "bn": "এই আয়াতের সবচেয়ে কঠিন দিকটি হলো চাওয়া ও পাওয়ার মাঝখানের ফাঁকটুকুতে বেঁচে থাকা। নবী ﷺ সেই ফাঁকটির কথা সরাসরি বলেছেন। বুখারী ও মুসলিমে বর্ণিত এক হাদীসে তিনি সতর্ক করেন যে বান্দার দোয়া কবুল হতে থাকে যতক্ষণ না সে তাড়াহুড়া করে; আর তাড়াহুড়ার ব্যাখ্যায় বলেন — 'আমি ডাকলাম, ডাকলাম, সাড়া পেলাম না' বলে সে চাওয়া ছেড়ে দেয়। এখানে যে ব্যর্থতাটি চিহ্নিত করা হয়েছে তা দেরি নয়, বরং চাওয়া ছেড়ে দেওয়া।"
+            "bn": "এই আয়াতের সবচেয়ে কঠিন দিক হলো চাওয়া আর পাওয়ার মাঝের ফাঁকটুকুতে দিন কাটানো। নবী ﷺ সরাসরি এই ফাঁকের কথা বলেছেন। বুখারী ও মুসলিমের এক হাদিসে তিনি সতর্ক করেছেন: বান্দার দোয়া কবুল হতে থাকে, যতক্ষণ না সে তাড়াহুড়া করে। তাড়াহুড়ার ব্যাখ্যা দিয়েছেন এভাবে: সে বলে, ‘আমি ডাকলাম, ডাকলাম, সাড়া পেলাম না’, তারপর চাওয়াই ছেড়ে দেয়। তাহলে এখানে দোষ দেরির নয়, দোষ চাওয়া ছেড়ে দেওয়ার।"
           },
           {
             "en": "It is worth saying plainly what the verse does not say. It does not promise that a specific illness will lift, that a marriage will be restored, or that a result will land on a date we choose. It promises nearness and a hearing. For many people in long waits, that distinction is what makes the verse survivable: they are not being ignored, and the file is not closed, even when nothing visible has moved for a very long time.",
-            "bn": "আয়াতটি যা বলেনি, তা স্পষ্ট করে বলা দরকার। এটি প্রতিশ্রুতি দেয়নি যে কোনো নির্দিষ্ট রোগ সেরে যাবে, কোনো বিচ্ছিন্ন সংসার জোড়া লাগবে, কিংবা আমাদের বেছে নেওয়া তারিখে ফলাফল এসে হাজির হবে। এটি প্রতিশ্রুতি দেয় নৈকট্যের ও শোনার। দীর্ঘ অপেক্ষায় থাকা বহু মানুষের জন্য এই পার্থক্যটুকুই আয়াতটিকে বহনযোগ্য করে তোলে: তাদের উপেক্ষা করা হচ্ছে না, আর ফাইলটি বন্ধ হয়ে যায়নি — এমনকি যখন বহুদিন ধরে দৃশ্যমান কিছুই নড়েনি।"
+            "bn": "আয়াত কী বলেনি, সেটাও সোজাসুজি বলা দরকার। আয়াত কথা দেয়নি যে নির্দিষ্ট কোনো রোগ সেরে যাবে, ভাঙা সংসার জোড়া লাগবে, কিংবা আমাদের পছন্দের তারিখে ফল এসে হাজির হবে। কথা দিয়েছে নৈকট্যের, আর শোনার। যাঁরা দীর্ঘ অপেক্ষায় আছেন, তাঁদের অনেকের কাছে এই পার্থক্যটুকুই আয়াতটিকে সয়ে নেওয়ার মতো করে তোলে। কেউ তাঁদের উপেক্ষা করছে না, ফাইলও বন্ধ হয়ে যায়নি, যদিও বহুদিন ধরে চোখে পড়ার মতো কিছুই নড়েনি।"
           }
         ]
       },
       {
         "h": {
           "en": "Making It a Habit",
-          "bn": "একে অভ্যাসে পরিণত করা"
+          "bn": "দোয়াকে অভ্যাস বানানো"
         },
         "p": [
           {
             "en": "In practice, the people who keep asking tend to be the ones who made asking small and specific. A short list carried in the head or the phone, three or four items named plainly in one's own language, revisited after a prayer rather than in a special session. Du'a in the mother tongue outside of prayer is agreed upon by the scholars, and honesty in wording usually does more for presence of heart than eloquence.",
-            "bn": "বাস্তবে যারা চাওয়া চালিয়ে যেতে পারে, তারা সাধারণত চাওয়াটিকে ছোট ও সুনির্দিষ্ট করে নিয়েছে। মাথায় বা ফোনে রাখা একটি ছোট তালিকা, নিজের ভাষায় স্পষ্ট করে বলা তিন-চারটি বিষয়, আর আলাদা কোনো আয়োজন নয় — নামাযের পরই একবার তা ফিরে দেখা। নামাযের বাইরে মাতৃভাষায় দোয়া করার বৈধতায় আলিমগণ একমত, আর শব্দের সৌন্দর্যের চেয়ে শব্দের সততাই সাধারণত হৃদয়ের উপস্থিতি বেশি বাড়ায়।"
+            "bn": "বাস্তবে দেখা যায়, যাঁরা চাওয়া ধরে রাখতে পারেন, তাঁরা সাধারণত চাওয়াটাকে ছোট আর নির্দিষ্ট করে নিয়েছেন। মাথায় বা ফোনে রাখা ছোট একটা তালিকা, নিজের ভাষায় সোজা করে লেখা তিন-চারটি বিষয়। আলাদা কোনো আয়োজন করে নয়, নামাজের পর একবার করে সেগুলো আবার চেয়ে নেওয়া। নামাজের বাইরে মাতৃভাষায় দোয়া করা যায়, এ ব্যাপারে আলেমরা একমত। আর শব্দের কারুকাজের চেয়ে শব্দের সততাই সাধারণত মনকে বেশি হাজির রাখে।"
           },
           {
             "en": "The verse also quietly changes what asking is for. If nearness is the permanent fact and the response is guaranteed in some form, then du'a stops being a lottery ticket and becomes the way a servant stays in contact with the One in charge of the outcome. People who pray this way report that the asking itself steadies them, well before anything in the situation has changed.",
-            "bn": "আয়াতটি নিঃশব্দে বদলে দেয় চাওয়ার উদ্দেশ্যও। যদি নৈকট্যই স্থায়ী সত্য হয় এবং সাড়া কোনো না কোনো রূপে নিশ্চিত হয়, তবে দোয়া আর লটারির টিকিট থাকে না; বরং তা হয়ে ওঠে সেই পথ, যা দিয়ে বান্দা পরিণামের মালিকের সঙ্গে যোগাযোগ ধরে রাখে। যারা এভাবে দোয়া করেন, তাঁরা বলেন যে চাওয়াটাই তাঁদের স্থির করে দেয় — পরিস্থিতির কিছু বদলানোর অনেক আগেই।"
+            "bn": "আয়াতটি নীরবে আরেকটা জিনিস বদলে দেয়: চাওয়ার উদ্দেশ্য। নৈকট্য যদি স্থায়ী সত্য হয়, আর সাড়া যদি কোনো না কোনো রূপে নিশ্চিত হয়, তাহলে দোয়া আর লটারির টিকিট থাকে না। দোয়া হয়ে যায় সেই পথ, যা দিয়ে বান্দা ফলাফলের মালিকের সাথে যোগাযোগ ধরে রাখে। যাঁরা এভাবে দোয়া করেন, তাঁরা বলেন, পরিস্থিতির কিছু বদলানোর অনেক আগেই চাওয়াটাই তাঁদের মনকে স্থির করে দেয়।"
           }
         ]
       }
@@ -4213,7 +4213,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same commentator gathers more than one reading of the phrase tilka 'asharatun kamilah, those are ten complete, which follows three days of fasting during hajj and seven on returning home. The sum is obvious, so why state it? One reading is that it is emphasis, the way an Arab says he saw a thing with his own eyes. Another is that it assures the pilgrim that the ten days fully stand in for the animal he could not find. Both readings leave the one who fasts with nothing lacking.",
-            "bn": "হজের সময় তিন দিন আর বাড়ি ফিরে সাত দিন রোজার পর আয়াত বলে, তিলকা আশারাতুন কামিলাহ, এই হলো পূর্ণ দশ দিন। এই বাক্যের একাধিক ব্যাখ্যা ইবনে কাসীর একসঙ্গে এনেছেন। যোগফল তো স্পষ্ট, তাহলে বলার দরকার কী? এক ব্যাখ্যায় এটা জোর দেওয়ার জন্য, যেমন আরবরা বলে, আমি নিজের চোখে দেখেছি। আরেক ব্যাখ্যায় এটা হাজিকে আশ্বাস দেয় যে যে পশু তিনি জোগাড় করতে পারেননি, দশ দিনের রোজা তার জায়গা পুরোপুরি পূরণ করে। দুই ব্যাখ্যাতেই রোজাদারের কোনো ঘাটতি থাকে না।"
+            "bn": "হজের সময় তিন দিন আর বাড়ি ফিরে সাত দিন রোজার পর আয়াত বলে, তিলকা আশারাতুন কামিলাহ, এই হলো পূর্ণ দশ দিন। এই বাক্যের একাধিক ব্যাখ্যা ইবনে কাসীর একসঙ্গে এনেছেন। যোগফল তো স্পষ্ট, তাহলে বলার দরকার কী? এক ব্যাখ্যায় এটা জোর দেওয়ার জন্য, যেমন আরবরা বলে, আমি নিজের চোখে দেখেছি। আরেক ব্যাখ্যায় এটা হাজির জন্য আশ্বাস: যে পশু তিনি জোগাড় করতে পারেননি, দশ দিনের রোজা তার জায়গা পুরোপুরি পূরণ করে। দুই ব্যাখ্যাতেই রোজাদারের কোনো ঘাটতি থাকে না।"
           }
         ]
       },
@@ -4313,11 +4313,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse sits inside the passage on the rites of pilgrimage. After the command to remember Allah when the rites are done, 2:200 describes one kind of person: among the people is he who says, our Lord, give us in this world — and he has no share in the Hereafter. Then this verse presents the contrast: and among them is he who says, our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
-            "bn": "আয়াতটি বসে আছে হজের আহকাম-সংক্রান্ত অনুচ্ছেদের ভেতরে। আহকাম শেষ হলে আল্লাহকে স্মরণের নির্দেশের পর, 2:200 এক শ্রেণির মানুষের বর্ণনা দেয়: মানুষের মধ্যে কেউ বলে — হে আমাদের রব, আমাদের দুনিয়াতেই দিন; আখিরাতে তার কোনো অংশ নেই। তারপর এই আয়াত বৈপরীত্যটি তুলে ধরে: আর তাদের মধ্যে কেউ বলে — হে আমাদের রব, আমাদের দুনিয়ায় কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন, আর আমাদের আগুনের শাস্তি থেকে রক্ষা করুন।"
+            "bn": "আয়াতটি হজের বিধানের অংশের ভেতরে। হজের কাজ শেষ হলে আল্লাহর জিকির করার হুকুমের পর ২:২০০ আয়াত এক ধরনের মানুষের কথা বলে: মানুষের মধ্যে কেউ বলে, হে আমাদের রব, আমাদের দুনিয়াতেই দিন। আখিরাতে তার কোনো অংশ নেই। তারপর এই আয়াত উল্টো ছবিটা দেখায়: আর তাদের মধ্যে কেউ বলে, হে আমাদের রব, আমাদের দুনিয়ায় কল্যাণ দিন, আখিরাতেও কল্যাণ দিন, আর আমাদের আগুনের শাস্তি থেকে বাঁচান।"
           },
           {
             "en": "The difference between the two askers is not that one prays and the other does not — both are shown praying, at the same holy site, to the same Lord. The difference is the horizon of the request. One vocabulary ends at this world; the other spans both lives and adds a plea for safety. The verse after, 2:202, gives the verdict: those people will have a portion of what they earned, and Allah is swift in account.",
-            "bn": "দুই প্রার্থনাকারীর পার্থক্য এটা নয় যে একজন দোয়া করে আর অন্যজন করে না — দুজনকেই দেখানো হয়েছে দোয়ারত অবস্থায়, একই পবিত্র স্থানে, একই রবের কাছে। পার্থক্যটা চাওয়ার দিগন্তে। একজনের শব্দভান্ডার এই দুনিয়াতেই শেষ; অন্যজনেরটা দুই জীবন জুড়ে বিস্তৃত, সঙ্গে নিরাপত্তার আরজিও। পরের আয়াত, 2:202, রায় দেয়: তারা যা অর্জন করেছে তার অংশ তারা পাবে, আর আল্লাহ হিসাব গ্রহণে দ্রুত।"
+            "bn": "দুজনের তফাত এটা নয় যে একজন দোয়া করে আর অন্যজন করে না। দুজনকেই দেখানো হয়েছে দোয়া করতে, একই পবিত্র জায়গায়, একই রবের কাছে। তফাতটা হলো চাওয়া কতদূর পর্যন্ত যায়। একজনের চাওয়া এই দুনিয়াতেই শেষ। অন্যজনের চাওয়া দুই জীবন জুড়ে, সাথে বিপদ থেকে বাঁচার আরজিও। পরের আয়াত, ২:২০২, রায় জানিয়ে দেয়: তারা যা অর্জন করেছে, তার অংশ তারা পাবে, আর আল্লাহ দ্রুত হিসাব নেন।"
           }
         ]
       },
@@ -4329,11 +4329,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The prayer's key word, hasanah, is deliberately broad — a good thing, unspecified. The commentators fill in examples without closing the list: in this world, well-being, a righteous spouse, beneficial knowledge, lawful provision; in the Hereafter, Paradise and what leads to it, with some noting that the ultimate hasanah there is Allah's pleasure. The openness is the craft of the du'a. It asks for the category of good and leaves the selection to the One who knows what is good for us.",
-            "bn": "দোয়াটির মূল শব্দ 'হাসানা' ইচ্ছাকৃতভাবেই ব্যাপক — কোনো কল্যাণ, অনির্দিষ্ট। মুফাসসিরগণ তালিকা বন্ধ না করেই উদাহরণ ভরে দেন: দুনিয়ায় — সুস্থতা, নেককার জীবনসঙ্গী, উপকারী জ্ঞান, হালাল রিযিক; আখিরাতে — জান্নাত ও যা তার দিকে নিয়ে যায়; কেউ কেউ বলেন, সেখানকার চূড়ান্ত হাসানা আল্লাহর সন্তুষ্টি। এই খোলা রাখাটাই দোয়াটির কারিগরি। এটি কল্যাণের শ্রেণিটি চায়, আর বাছাইয়ের ভার ছেড়ে দেয় তাঁর ওপর — আমাদের জন্য কোনটা ভালো, যিনি তা জানেন।"
+            "bn": "দোয়াটির মূল শব্দ ‘হাসানা’ ইচ্ছা করেই ব্যাপক রাখা হয়েছে: কোনো একটা কল্যাণ, নির্দিষ্ট করে বলা নয়। মুফাসসিররা উদাহরণ দেন, তবে তালিকা বন্ধ করেন না। দুনিয়ায় সুস্থতা, নেককার জীবনসঙ্গী, উপকারী ইলম, হালাল রিযিক। আখিরাতে জান্নাত আর যা জান্নাতের দিকে নিয়ে যায়। কেউ কেউ বলেন, সেখানে সবচেয়ে বড় হাসানা হলো আল্লাহর সন্তুষ্টি। এই খোলা রাখাটাই দোয়াটির মুনশিয়ানা। দোয়াটি কল্যাণ চায়, কিন্তু কোন কল্যাণ, তা বাছাইয়ের ভার ছেড়ে দেয় তাঁর ওপর, যিনি জানেন আমাদের জন্য কোনটা ভালো।"
           },
           {
             "en": "Note also what the prayer does not do. It does not renounce the world — it asks for good in it, in harmony with the counsel given to Qarun in 28:77 not to forget one's share. And it does not assume that worldly good automatically continues into the next life; the second clause has to be asked for separately. The grammar itself teaches that the two goods are distinct requests with one Giver.",
-            "bn": "দোয়াটি কী করে না, সেটাও লক্ষণীয়। এটি দুনিয়া বর্জন করে না — বরং দুনিয়ার মধ্যেই কল্যাণ চায়; যেমন 28:77 আয়াতে কারুনকে দেওয়া উপদেশে নিজের অংশ না ভোলার কথা আছে, তারই সঙ্গে সঙ্গতি রেখে। আবার এটি ধরেও নেয় না যে দুনিয়ার কল্যাণ আপনাআপনি পরের জীবনে গড়াবে; দ্বিতীয় অংশটুকু আলাদা করে চাইতে হয়। ব্যাকরণটিই শিখিয়ে দেয় — কল্যাণ দুটি ভিন্ন ভিন্ন চাওয়া, কিন্তু দাতা একজনই।"
+            "bn": "দোয়াটি কী করে না, সেটাও খেয়াল করুন। দুনিয়াকে ত্যাগ করে না, বরং দুনিয়াতেও কল্যাণ চায়। 28:77 আয়াতে কারুনকে যে উপদেশ দেওয়া হয়েছিল, দুনিয়া থেকে নিজের অংশ ভুলে যেয়ো না, এটা তার সাথে মিলে যায়। আবার দোয়াটি এটাও ধরে নেয় না যে দুনিয়ার কল্যাণ আপনা থেকেই আখিরাতে গড়িয়ে যাবে। দ্বিতীয় অংশটা আলাদা করে চাইতে হয়। বাক্যের গঠনই শিখিয়ে দেয়, দুই কল্যাণ দুটো আলাদা চাওয়া, অথচ দাতা একজনই।"
           }
         ]
       },
@@ -4345,11 +4345,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The du'a could have stopped at two symmetrical requests, but it adds: and protect us from the punishment of the Fire. The addition concedes something humbling — that receiving good in both worlds does not by itself guarantee safety, and that the Fire is a real destination requiring a specific plea. Comfort in this life can even become material for heedlessness; the third clause is insurance against the success of the first.",
-            "bn": "দোয়াটি দুটি সুষম চাওয়াতেই থামতে পারত, কিন্তু যোগ করে: আর আমাদের আগুনের শাস্তি থেকে রক্ষা করুন। এই সংযোজন এক বিনয়ী স্বীকারোক্তি বহন করে — দুই জগতে কল্যাণ পাওয়াটাই নিরাপত্তার নিশ্চয়তা নয়, আর জাহান্নাম এমন এক বাস্তব গন্তব্য যার জন্য সুনির্দিষ্ট আরজি লাগে। এ জীবনের স্বাচ্ছন্দ্য এমনকি গাফিলতির উপকরণও হয়ে উঠতে পারে; তৃতীয় অংশটি প্রথম অংশের সাফল্যের বিরুদ্ধেই এক বিমা।"
+            "bn": "দোয়াটি দুটো সমান মাপের চাওয়াতেই থেমে যেতে পারত, কিন্তু সাথে যোগ করে: আর আমাদের আগুনের শাস্তি থেকে বাঁচান। এই বাড়তি কথাটুকু বিনয়ের সাথে একটা সত্য মেনে নেয়। দুই জগতে কল্যাণ পেলেই নিরাপত্তা নিশ্চিত হয়ে যায় না, আর জাহান্নাম সত্যিকারের এক ঠিকানা, যা থেকে বাঁচতে আলাদা করে আরজি করতে হয়। দুনিয়ার আরাম এমনকি গাফিলতির কারণও হয়ে উঠতে পারে। তৃতীয় অংশটা তাই প্রথম অংশের সাফল্যেরই বিপদ থেকে রক্ষাকবচ।"
           },
           {
             "en": "Ordering matters too. The prayer moves from the near to the far to the ultimate: today's needs, the eternal home, and deliverance from ruin. A person who repeats it attentively rehearses a complete worldview several times a day — engaged with this world, aimed at the next, and never presuming immunity from loss. Few sentences carry that much orientation in so few words.",
-            "bn": "ক্রমটাও অর্থবহ। দোয়াটি এগোয় নিকট থেকে দূরে, তারপর চূড়ান্তে: আজকের প্রয়োজন, চিরস্থায়ী আবাস, আর ধ্বংস থেকে মুক্তি। যে ব্যক্তি মনোযোগ দিয়ে এটি বারবার পড়ে, সে দিনে কয়েকবার একটি পূর্ণাঙ্গ জীবনদৃষ্টির মহড়া দেয় — দুনিয়ায় সক্রিয়, আখিরাতমুখী, আর ক্ষতি থেকে নিরাপদ ভাবার দুঃসাহসহীন। এত কম শব্দে এতটা দিকনির্দেশ বহন করা বাক্য বিরল।"
+            "bn": "ক্রমটাও গুরুত্বপূর্ণ। দোয়াটা কাছ থেকে দূরে যায়, তারপর একেবারে শেষ গন্তব্যে: আজকের প্রয়োজন, চিরকালের ঘর, আর ধ্বংস থেকে মুক্তি। যে মন দিয়ে দোয়াটা বারবার পড়ে, সে দিনে কয়েকবার একটা পূর্ণ জীবনদৃষ্টি ঝালিয়ে নেয়: দুনিয়ার কাজে লেগে থাকা, নজর আখিরাতের দিকে, আর কখনো এমন না ভাবা যে আমার কোনো ক্ষতি হতে পারে না। এত কম কথায় এতখানি দিশা দেয়, এমন বাক্য খুব কমই আছে।"
           }
         ]
       },
@@ -4361,18 +4361,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Anas ibn Malik (RA) reported that the most frequent supplication of the Prophet ﷺ was this very prayer: our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire. The report is agreed upon in al-Bukhari and Muslim. Of everything he ﷺ could have made his daily refrain, he chose the du'a of balance — which is itself a commentary on what a well-aimed life asks for.",
-            "bn": "আনাস ইবনে মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ-এর সবচেয়ে বেশি পড়া দোয়া ছিল এটিই: হে আমাদের রব, আমাদের দুনিয়ায় কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন, আর আমাদের আগুনের শাস্তি থেকে রক্ষা করুন। বর্ণনাটি বুখারী ও মুসলিমে ঐকমত্যে এসেছে। যা কিছু তিনি ﷺ তাঁর দৈনন্দিন আওড়ানো বাক্য বানাতে পারতেন, তার মধ্যে তিনি বেছে নিলেন ভারসাম্যের দোয়াটি — যা নিজেই এক ভাষ্য: সুনিশানা জীবন আসলে কী চায়।"
+            "bn": "আনাস ইবনে মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ সবচেয়ে বেশি যে দোয়া করতেন, তা এটিই: হে আমাদের রব, আমাদের দুনিয়ায় কল্যাণ দিন, আখিরাতেও কল্যাণ দিন, আর আমাদের আগুনের শাস্তি থেকে বাঁচান। হাদিসটি বুখারী ও মুসলিম দুজনেই এনেছেন। তিনি ﷺ যেকোনো দোয়াকেই রোজকার মুখের দোয়া বানাতে পারতেন, তবু বেছে নিলেন ভারসাম্যের এই দোয়া। এ বাছাইটাই বলে দেয়, ঠিক লক্ষ্যে চলা জীবন আসলে কী চায়।"
           },
           {
             "en": "Muslim also narrates through Anas (RA) that the Prophet ﷺ visited a Muslim who had grown as frail as a chick, because he had asked Allah to advance his Hereafter punishment into this world. The Prophet ﷺ told him he could not bear that, and asked: why did you not say — and taught him this du'a. Then he prayed it for him and Allah cured him. The story fixes the prayer's character: it is the correction of extreme asking.",
-            "bn": "মুসলিম আরও বর্ণনা করেন আনাস (রাঃ)-এর সূত্রে: নবী ﷺ এমন এক মুসলিমকে দেখতে গেলেন, যে পাখির ছানার মতো দুর্বল হয়ে গিয়েছিল — কারণ সে আল্লাহর কাছে চেয়েছিল, তার আখিরাতের শাস্তি যেন দুনিয়াতেই এগিয়ে দেওয়া হয়। নবী ﷺ তাকে বললেন, সে তা বইতে পারবে না, এবং জিজ্ঞেস করলেন: তুমি কেন বললে না — এরপর তাকে এই দোয়াটি শেখালেন। তারপর তিনি তার জন্য তা পড়লেন এবং আল্লাহ তাকে সুস্থ করে দিলেন। ঘটনাটি দোয়াটির চরিত্র স্থির করে দেয়: এটি বাড়াবাড়ি চাওয়ার সংশোধন।"
+            "bn": "মুসলিম আনাস (রাঃ) থেকে আরও বর্ণনা করেছেন: নবী ﷺ এক মুসলিমকে দেখতে গেলেন, যে দুর্বল হয়ে পাখির ছানার মতো হয়ে গিয়েছিল। কারণ সে আল্লাহর কাছে চেয়েছিল, আখিরাতে তার যে শাস্তি হওয়ার কথা, তা যেন দুনিয়াতেই দিয়ে দেওয়া হয়। নবী ﷺ বললেন, তুমি তা সইতে পারবে না। তারপর বললেন, তুমি কেন এভাবে বললে না, আর তাকে এই দোয়াটি শিখিয়ে দিলেন। এরপর তিনি তার জন্য এই দোয়া করলেন, আর আল্লাহ তাকে সুস্থ করে দিলেন। ঘটনাটি দোয়াটির স্বভাব চিনিয়ে দেয়: এটি বাড়াবাড়ি রকমের চাওয়াকে শুধরে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Carrying the Balance",
-          "bn": "ভারসাম্য বহন করা"
+          "bn": "ভারসাম্য ধরে রাখা"
         },
         "p": [
           {

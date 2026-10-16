@@ -23,7 +23,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN: 2:97-98 s3.p2 says 2:98 answers "in the first person"; the verse names Allah in the third person (BN says আল্লাহর নিজের পক্ষ থেকে).
 - Open EN: 2:113-114 s5.p0 "almost never that specific" reads as "never starts that sweeping" (BN says ঢালাও).
 - Open EN: 2:132-133 s4.p1 "Two prophets turn the command into a request": the second example is Fir'awn's magicians (7:126), not a prophet.
-- Progress (shard: packets done): 2: 7/12
+- Progress (shard: packets done): 2: 8/12
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
