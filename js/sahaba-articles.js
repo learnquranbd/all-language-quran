@@ -840,8 +840,8 @@ var SAHABA_ARTICLES = {
         h: { en: "Before the Message", bn: "বার্তা আসার আগে" },
         p: [
           {
-            en: "His name was Abdullah ibn Abi Quhafah, of the clan of Banu Taym, and he traded in cloth on a modest scale but stood high in the esteem of Makkah. Quraysh counted him their finest genealogist, a man who knew the descent and character of every household in the valley, and they brought their disputes to him. The historians record that he never drank wine in the age of ignorance and never bowed to an idol.",
-            bn: "তাঁর নাম ছিল আবদুল্লাহ ইবনে আবি কুহাফা, বনু তাইম গোত্রের সন্তান। তিনি কাপড়ের ছোট আকারের ব্যবসা করতেন, কিন্তু মক্কার সমাজে তাঁর মর্যাদা ছিল উঁচু। কুরাইশ তাঁকে গণ্য করত তাদের শ্রেষ্ঠ বংশতত্ত্ববিদ হিসেবে—উপত্যকার প্রতিটি ঘরের বংশ ও চরিত্র তাঁর জানা ছিল, তাই বিবাদের মীমাংসা নিয়ে লোকে তাঁর কাছেই আসত। ঐতিহাসিকগণ লিখেছেন, জাহিলি যুগেও তিনি কখনো মদ স্পর্শ করেননি, কোনো মূর্তির সামনে মাথা নত করেননি।",
+            en: "His name was Abdullah ibn Abi Quhafah, of the clan of Banu Taym, and he was a cloth merchant of some means who stood high in the esteem of Makkah. Quraysh counted him their finest genealogist, a man who knew the descent and character of every household in the valley, and they brought their disputes to him. The historians record that he never drank wine in the age of ignorance and never bowed to an idol.",
+            bn: "তাঁর নাম ছিল আবদুল্লাহ ইবনে আবি কুহাফা, বনু তাইম গোত্রের সন্তান। তিনি ছিলেন সচ্ছল কাপড় ব্যবসায়ী, আর মক্কার সমাজে তাঁর মর্যাদা ছিল উঁচু। কুরাইশ তাঁকে গণ্য করত তাদের শ্রেষ্ঠ বংশতত্ত্ববিদ হিসেবে—উপত্যকার প্রতিটি ঘরের বংশ ও চরিত্র তাঁর জানা ছিল, তাই বিবাদের মীমাংসা নিয়ে লোকে তাঁর কাছেই আসত। ঐতিহাসিকগণ লিখেছেন, জাহিলি যুগেও তিনি কখনো মদ স্পর্শ করেননি, কোনো মূর্তির সামনে মাথা নত করেননি।",
           },
           {
             en: "He was slightly younger than Muhammad ﷺ and had known him closely long before the revelation began. That prior knowledge explains what followed. Others weighed the claim; Abu Bakr (RA) weighed the man who made it. Told that his friend said an angel had come to him in the cave of Hira, he answered that if Muhammad ﷺ had said it then it was true, and entered Islam without asking for a sign.",
@@ -870,8 +870,8 @@ var SAHABA_ARTICLES = {
             bn: "নির্যাতনের সবচেয়ে ভারী বোঝা যখন সেই মানুষদের ওপর পড়ল যাদের রক্ষা করার মতো কোনো গোত্র ছিল না, তখন তিনি নিজের অর্থ দিয়ে তার জবাব দিলেন। বিলাল ইবনে রাবাহ, আমির ইবনে ফুহাইরা এবং ঈমানের কারণে নির্যাতিত কয়েকজন দাসীকে তিনি কিনে মুক্ত করে দেন। তাঁর পিতা আপত্তি করলেন—দুর্বলদের পেছনে অর্থ নষ্ট হচ্ছে, শক্তিশালীদের মুক্ত করলে তারা তোমাকে রক্ষা করত। তিনি উত্তর দিলেন, আমি কেবল আল্লাহর কাছে যা আছে তা-ই চাই।",
           },
           {
-            en: "The Quran praises the freeing of a neck as the steep ascent most people decline to climb in 90:12-13, and the commentators have long read the closing verses of Surah al-Layl, 92:17-21, as describing this man: the one who gives his wealth to purify himself, owing no favour that must be repaid, seeking only his Lord's face. He entered Islam a wealthy trader and reached Madinah with very little left.",
-            bn: "কুরআন 90:12-13-এ দাসমুক্তিকে সেই কঠিন গিরিপথ বলেছে যা অধিকাংশ মানুষ পাড়ি দিতে চায় না; আর মুফাসসিরগণ দীর্ঘকাল ধরে সূরা আল-লাইলের শেষ আয়াতগুলোকে—92:17-21—ঠিক এই মানুষটিরই বর্ণনা হিসেবে পড়েছেন: যে নিজেকে পবিত্র করতে সম্পদ দান করে, যার ওপর কারো কোনো প্রতিদানযোগ্য অনুগ্রহ নেই, যে কেবল তার প্রতিপালকের সন্তুষ্টি চায়। তিনি ইসলামে এসেছিলেন সম্পদশালী ব্যবসায়ী হিসেবে, আর মদিনায় পৌঁছেছিলেন প্রায় শূন্য হাতে।",
+            en: "The Quran praises the freeing of a neck as the steep ascent most people decline to climb in 90:12-13, and the commentators have long read the closing verses of Surah al-Layl, 92:17-21, as describing this man: the one who gives his wealth to purify himself, owing no favour that must be repaid, seeking only his Lord's face. He entered Islam a trader of means; the Prophet ﷺ later said that no one had done more for him with companionship and wealth than Abu Bakr (Bukhari 3904), and the biographers relate that little of that wealth remained by the time he reached Madinah.",
+            bn: "কুরআন 90:12-13-এ দাসমুক্তিকে সেই কঠিন গিরিপথ বলেছে যা অধিকাংশ মানুষ পাড়ি দিতে চায় না; আর মুফাসসিরগণ দীর্ঘকাল ধরে সূরা আল-লাইলের শেষ আয়াতগুলোকে—92:17-21—ঠিক এই মানুষটিরই বর্ণনা হিসেবে পড়েছেন: যে নিজেকে পবিত্র করতে সম্পদ দান করে, যার ওপর কারো কোনো প্রতিদানযোগ্য অনুগ্রহ নেই, যে কেবল তার প্রতিপালকের সন্তুষ্টি চায়। তিনি ইসলামে এসেছিলেন সচ্ছল ব্যবসায়ী হিসেবে; পরে নবীজি ﷺ বলেছেন, সাহচর্য ও সম্পদ দিয়ে আবু বকরের চেয়ে বেশি অনুগ্রহ আর কেউ তাঁর প্রতি করেনি (বুখারি ৩৯০৪)। জীবনীকারগণ বর্ণনা করেন, মদিনায় পৌঁছাতে পৌঁছাতে সেই সম্পদের সামান্যই অবশিষ্ট ছিল।",
           },
         ],
       },
@@ -995,8 +995,8 @@ var SAHABA_ARTICLES = {
             bn: "ফজরের নামাজে ইমামতিরত অবস্থায় তাঁকে ছুরিকাঘাত করে আবু লুলুআ নামের এক দাস কারিগর, যে কয়েক দিন আগেই তাঁর কাছে একটি অভিযোগ নিয়ে এসেছিল। মরণাহত অবস্থায় তিনি সরাসরি কোনো উত্তরসূরির নাম ঘোষণা করতে অস্বীকার করেন; বরং জীবিত সাহাবিদের মধ্য থেকে ছয়জনকে নিযুক্ত করেন, যাঁরা তিন দিনের মধ্যে নিজেদের ভেতর থেকে একজনকে বেছে নেবেন—আর নিজের পুত্রকে প্রার্থী হতে নিষেধ করে দেন।",
           },
           {
-            en: "He sent his son to ask Aishah (RA) for permission to be buried beside the Prophet ﷺ and Abu Bakr (RA), instructing him to present it as a request and not as the demand of a caliph, and to bring him back to the common graveyard if she declined. She agreed. He died in the year twenty-three after the Hijra, leaving a state that spanned three empires' territory and a household that owned almost nothing.",
-            bn: "তিনি পুত্রকে পাঠালেন আয়িশা (রাঃ)-এর কাছে, নবীজি ﷺ ও আবু বকর (রাঃ)-এর পাশে দাফনের অনুমতি চাইতে—নির্দেশ দিলেন যেন তা খলিফার দাবি হিসেবে নয়, একজন প্রার্থীর অনুরোধ হিসেবে পেশ করা হয়, আর তিনি রাজি না হলে যেন সাধারণ কবরস্থানেই তাঁকে নেওয়া হয়। তিনি অনুমতি দিলেন। হিজরি তেইশ সালে তিনি ইন্তেকাল করেন, রেখে যান তিনটি সাম্রাজ্যের ভূখণ্ডজুড়ে বিস্তৃত এক রাষ্ট্র আর এমন এক ঘর যার প্রায় কিছুই ছিল না।",
+            en: "He sent his son to ask Aishah (RA) for permission to be buried beside the Prophet ﷺ and Abu Bakr (RA), instructing him to present it as a request and not as the demand of a caliph, and to bring him back to the common graveyard if she declined. She agreed. He died in the year twenty-three after the Hijra, leaving a state that held lands taken from two empires, the Byzantine and the Persian, and a household that owned almost nothing.",
+            bn: "তিনি পুত্রকে পাঠালেন আয়িশা (রাঃ)-এর কাছে, নবীজি ﷺ ও আবু বকর (রাঃ)-এর পাশে দাফনের অনুমতি চাইতে—নির্দেশ দিলেন যেন তা খলিফার দাবি হিসেবে নয়, একজন প্রার্থীর অনুরোধ হিসেবে পেশ করা হয়, আর তিনি রাজি না হলে যেন সাধারণ কবরস্থানেই তাঁকে নেওয়া হয়। তিনি অনুমতি দিলেন। হিজরি তেইশ সালে তিনি ইন্তেকাল করেন, রেখে যান রোম ও পারস্য, এই দুই সাম্রাজ্যের হাত থেকে আসা ভূখণ্ডজুড়ে বিস্তৃত এক রাষ্ট্র আর এমন এক ঘর যার প্রায় কিছুই ছিল না।",
           },
         ],
       },
@@ -1731,8 +1731,8 @@ var SAHABA_ARTICLES = {
             bn: "নবীজি ﷺ চারজনের নাম নিয়ে বলেছিলেন, তাঁদের কাছ থেকে কুরআন শেখো—আর শুরু করেছিলেন ইবনে উম্মে আবদ, অর্থাৎ আবদুল্লাহ ইবনে মাসউদকে দিয়ে। তাঁর ﷺ থেকে এও বর্ণিত যে, যে ব্যক্তি কুরআনকে নাজিলের সময়কার সজীবতায় পড়তে চায়, সে যেন ইবনে উম্মে আবদের কিরাআতে পড়ে। ইবনে মাসউদ বলতেন, এমন কোনো আয়াত নেই যার নাজিলের স্থান ও কারণ তাঁর জানা নেই—আর যাঁরা তাঁকে চিনতেন, কেউ তা অস্বীকার করেননি।",
           },
           {
-            en: "One day the Prophet ﷺ asked him to recite. He said, shall I recite to you when it was revealed to you? The Prophet ﷺ answered that he loved to hear it from another. So he read from Surah an-Nisa until he reached 4:41 — how will it be when We bring from every nation a witness, and bring you against these as a witness — and the Prophet ﷺ said, that is enough. Abdullah looked up and found his eyes overflowing.",
-            bn: "একদিন নবীজি ﷺ তাঁকে তিলাওয়াত করতে বললেন। তিনি বললেন, আপনার ওপরই যা নাজিল হয়েছে, তা আমি আপনাকে শোনাব? নবীজি ﷺ বললেন, অন্যের কণ্ঠে শুনতে তাঁর ভালো লাগে। তিনি সুরা নিসা পড়তে থাকলেন, যতক্ষণ না পৌঁছালেন 4:41-এ—তখন কী অবস্থা হবে, যখন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী আনব এবং আপনাকে আনব তাদের ওপর সাক্ষীরূপে। নবীজি ﷺ বললেন, যথেষ্ট। আবদুল্লাহ তাকিয়ে দেখলেন, তাঁর দুই চোখ অশ্রুতে ভেসে যাচ্ছে।",
+            en: "One day the Prophet ﷺ asked him to recite. He said, shall I recite to you when it was revealed to you? The Prophet ﷺ answered that he loved to hear it from another. So he read from Surah an-Nisa until he reached 4:41 — how will it be when We bring from every nation a witness, and bring you against these as a witness — and the Prophet ﷺ said, that is enough. Abdullah looked up and saw that the Prophet's ﷺ eyes were overflowing with tears.",
+            bn: "একদিন নবীজি ﷺ তাঁকে তিলাওয়াত করতে বললেন। তিনি বললেন, আপনার ওপরই যা নাজিল হয়েছে, তা আমি আপনাকে শোনাব? নবীজি ﷺ বললেন, অন্যের কণ্ঠে শুনতে তাঁর ভালো লাগে। তিনি সুরা নিসা পড়তে থাকলেন, যতক্ষণ না পৌঁছালেন 4:41-এ—তখন কী অবস্থা হবে, যখন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী আনব এবং আপনাকে আনব তাদের ওপর সাক্ষীরূপে। নবীজি ﷺ বললেন, যথেষ্ট। আবদুল্লাহ তাকিয়ে দেখলেন, নবীজি ﷺ-এর দুই চোখ অশ্রুতে ভেসে যাচ্ছে।",
           },
         ],
       },
@@ -3503,8 +3503,8 @@ var SAHABA_ARTICLES = {
         h: { en: "A Poet Among the Naqibs", bn: "নকিবদের মাঝে এক কবি" },
         p: [
           {
-            en: "Abdullah ibn Rawahah (RA) of the Khazraj was one of the naqibs appointed at al-Aqabah, and he was a poet in a culture where poetry was the press, the archive and the weapon all at once. He put his verse in the service of the revelation from the beginning, and he fought at Badr and the battles after it. The Prophet ﷺ trusted him with responsibility beyond words: he was among those left in charge of Madinah during campaigns, and he was sent to Khaybar each year on a task that tested honesty more than courage.",
-            bn: "খাযরাজের আবদুল্লাহ ইবনে রাওয়াহা (রাঃ) ছিলেন আকাবায় নিযুক্ত নকিবদের একজন, আর ছিলেন কবি, এমন এক সমাজে যেখানে কবিতাই একসঙ্গে সংবাদমাধ্যম, দলিলখানা আর অস্ত্র। শুরু থেকেই তিনি নিজের পদ্যকে ওহির খেদমতে লাগিয়ে দেন। লড়েছেন বদরে, তারপরের যুদ্ধগুলোতেও। নবীজি ﷺ তাঁকে কথার বাইরের দায়িত্বও দিয়েছেন: অভিযানের সময় মদিনার দেখভালে যাঁদের রেখে যাওয়া হতো, তিনি তাঁদের একজন ছিলেন। আর প্রতি বছর তাঁকে পাঠানো হতো খায়বারে — এমন এক কাজে, যা সাহসের চেয়ে বেশি পরীক্ষা নেয় সততার।",
+            en: "Abdullah ibn Rawahah (RA) of the Khazraj was one of the naqibs appointed at al-Aqabah, and he was a poet in a culture where poetry was the press, the archive and the weapon all at once. He put his verse in the service of the revelation from the beginning, and he fought at Badr and the battles after it. The Prophet ﷺ trusted him with responsibility beyond words: he was among those left in charge of Madinah during campaigns, and after Khaybar fell he was sent there at harvest time, in the short span before his own death, on a task that tested honesty more than courage.",
+            bn: "খাযরাজের আবদুল্লাহ ইবনে রাওয়াহা (রাঃ) ছিলেন আকাবায় নিযুক্ত নকিবদের একজন, আর ছিলেন কবি, এমন এক সমাজে যেখানে কবিতাই একসঙ্গে সংবাদমাধ্যম, দলিলখানা আর অস্ত্র। শুরু থেকেই তিনি নিজের পদ্যকে ওহির খেদমতে লাগিয়ে দেন। লড়েছেন বদরে, তারপরের যুদ্ধগুলোতেও। নবীজি ﷺ তাঁকে কথার বাইরের দায়িত্বও দিয়েছেন: অভিযানের সময় মদিনার দেখভালে যাঁদের রেখে যাওয়া হতো, তিনি তাঁদের একজন ছিলেন। আর খায়বার বিজয়ের পর, তাঁর নিজের শাহাদাতের আগের অল্প সময়টুকুতে, ফসলের মৌসুমে তাঁকে পাঠানো হয়েছিল খায়বারে — এমন এক কাজে, যা সাহসের চেয়ে বেশি পরীক্ষা নেয় সততার।",
           },
           {
             en: "The task was estimating the date harvest of Khaybar so that the agreed half-share could be divided. The people of Khaybar gathered ornaments and offered them to him to lighten the estimate. His answer is preserved in the reports: by Allah, you are among the most hateful of Allah's creation to me, and that will not lead me to deal unjustly with you. What you offered is bribery, and we do not eat it. They said, by this the heavens and the earth stand.",
@@ -3589,8 +3589,8 @@ var SAHABA_ARTICLES = {
             bn: "নবীজি ﷺ মসজিদের ভেতরে হাসসানের জন্য একটা মিম্বার বসানোর ব্যবস্থা করলেন। তিনি তাতে দাঁড়িয়ে রাসূলুল্লাহ ﷺ-এর ওপর হামলাগুলোর জবাব দিতেন কবিতায়। জামে তিরমিজি ২৮৪৬-এ ঘটনাটার সঙ্গে নবীজি ﷺ-এর কথাটাও আছে: হাসসান যতক্ষণ তাঁর রাসূলের পক্ষে লড়ে, আল্লাহ ততক্ষণ তাকে রুহুল কুদুস দিয়ে সাহায্য করেন। নামাজের ঘর জায়গা করে দিল কবিতাকে, কারণ সেই কবিতাটাই ছিল প্রতিরক্ষা।",
           },
           {
-            en: "His duel with Abu Sufyan's verse produced his most quoted lines: you lampooned Muhammad, and I answered on his behalf, and with Allah is the reward for that; my father and his father and my honour are a shield for the honour of Muhammad. The claim in the couplet is the job description itself. Everything he had, lineage included, was put in front of the Prophet ﷺ as cover.",
-            bn: "আবু সুফিয়ানের কবিতার সঙ্গে লড়াইয়েই জন্ম নিল তাঁর সবচেয়ে বেশি উদ্ধৃত পঙক্তিগুলো: তুমি মুহাম্মদের নিন্দা করেছ, আমি তাঁর হয়ে জবাব দিয়েছি, আর এর প্রতিদান আল্লাহর কাছে; আমার বাবা, তাঁর বাবা, আমার মান-সম্মান — সবই মুহাম্মদের সম্মানের ঢাল। এই দুই পঙক্তির দাবিটাই আসলে তাঁর কাজের বিবরণ। বংশমর্যাদাসহ তাঁর যা কিছু ছিল, সব তিনি নবীজি ﷺ-এর সামনে ঢাল করে ধরেছিলেন।",
+            en: "His duel with the verse of Abu Sufyan ibn al-Harith, the Prophet's ﷺ cousin who lampooned him before accepting Islam, produced his most quoted lines: you lampooned Muhammad, and I answered on his behalf, and with Allah is the reward for that; my father and his father and my honour are a shield for the honour of Muhammad. The claim in the couplet is the job description itself. Everything he had, lineage included, was put in front of the Prophet ﷺ as cover.",
+            bn: "নবীজি ﷺ-এর চাচাতো ভাই আবু সুফিয়ান ইবনুল হারিস ইসলাম গ্রহণের আগে তাঁর নিন্দা করে কবিতা লিখতেন। তাঁর কবিতার সঙ্গে লড়াইয়েই জন্ম নিল তাঁর সবচেয়ে বেশি উদ্ধৃত পঙক্তিগুলো: তুমি মুহাম্মদের নিন্দা করেছ, আমি তাঁর হয়ে জবাব দিয়েছি, আর এর প্রতিদান আল্লাহর কাছে; আমার বাবা, তাঁর বাবা, আমার মান-সম্মান — সবই মুহাম্মদের সম্মানের ঢাল। এই দুই পঙক্তির দাবিটাই আসলে তাঁর কাজের বিবরণ। বংশমর্যাদাসহ তাঁর যা কিছু ছিল, সব তিনি নবীজি ﷺ-এর সামনে ঢাল করে ধরেছিলেন।",
           },
         ],
       },
@@ -6009,11 +6009,11 @@ var SAHABA_ARTICLES = {
         h: { en: "Settling in Syria", bn: "সিরিয়ায় থিতু হওয়া" },
         p: [
           {
-            en: "After the Prophet's ﷺ death, as the Companions dispersed across the new lands, Abu Umamah settled in Syria and made his home in Hims. He was not a governor there, nor a commander; he was a fixture of the mosque. His days were worship and his gatherings were transmission, and around him formed circles of the Tabi'un, the generation who never saw the Prophet ﷺ and were hungry for anyone who had.",
+            en: "After the Prophet's ﷺ death, as the Companions dispersed across the new lands, Abu Umamah settled in Syria and made his home in Homs. He was not a governor there, nor a commander; he was a fixture of the mosque. His days were worship and his gatherings were transmission, and around him formed circles of the Tabi'un, the generation who never saw the Prophet ﷺ and were hungry for anyone who had.",
             bn: "নবীজি ﷺ-এর ইন্তেকালের পর সাহাবিরা যখন বিজিত ভূখণ্ডগুলোতে ছড়িয়ে পড়লেন, আবু উমামা থিতু হলেন সিরিয়ায়, ঘর বাঁধলেন হিমসে। সেখানে তিনি শাসনকর্তাও নন, সেনাপতিও নন; মসজিদেরই একজন হয়ে গেলেন। দিন কাটত ইবাদতে, মজলিস কাটত হাদিস পৌঁছে দেওয়ায়। তাঁকে ঘিরে জমে উঠল তাবিয়িদের হালকা। এ সেই প্রজন্ম, যারা নবীজি ﷺ-কে চোখে দেখেনি, আর দেখেছেন এমন যে-কাউকে পেলে আঁকড়ে ধরত।",
           },
           {
-            en: "Through those circles he transmitted around 250 hadith, an immense inheritance for a man of a small tribe with no worldly rank. The scholars of Syria in the next generations trace line after line of their knowledge back to the teaching mats of Hims. What Kufa owed to Ibn Mas'ud (RA) and Basra to its settlers, the towns of northern Syria owed in real measure to Abu Umamah's decades of patient repetition.",
+            en: "Through those circles he transmitted around 250 hadith, an immense inheritance for a man of a small tribe with no worldly rank. The scholars of Syria in the next generations trace line after line of their knowledge back to the teaching mats of Homs. What Kufa owed to Ibn Mas'ud (RA) and Basra to its settlers, the towns of northern Syria owed in real measure to Abu Umamah's decades of patient repetition.",
             bn: "ওই হালকাগুলো দিয়েই তিনি প্রায় ২৫০টি হাদিস পৌঁছে দিয়ে গেছেন। দুনিয়ার পদমর্যাদাহীন, ছোট গোত্রের এক মানুষের জন্য বিরাট উত্তরাধিকার। পরের প্রজন্মগুলোতে সিরিয়ার আলিমরা তাঁদের ইলমের সনদ ধরে পেছাতে পেছাতে বারবার পৌঁছে যান হিমসের সেই দরসের চাটাইয়ে। কুফা যেমন ঋণী ইবনে মাসউদ (রাঃ)-এর কাছে, বসরা যেমন তার প্রথম বাসিন্দাদের কাছে, উত্তর সিরিয়ার শহরগুলো তেমনি সত্যিকারের ঋণী আবু উমামার দশকের পর দশক ধৈর্যভরা তালিমের কাছে।",
           },
         ],
@@ -6022,7 +6022,7 @@ var SAHABA_ARTICLES = {
         h: { en: "The Last in the Land", bn: "সে ভূমির শেষজন" },
         p: [
           {
-            en: "Allah gave Abu Umamah length of days. Year after year the Companions of Syria passed away, until seekers of knowledge realised that the old man of Hims was the last of the Prophet's ﷺ Companions left alive in the entire land. He died around 86 AH, and with him Syria's living link to the Prophet's ﷺ own face and voice was closed. Whoever in that land wanted an eyewitness after him would find only the students of the eyewitness.",
+            en: "Allah gave Abu Umamah length of days. Year after year the Companions of Syria passed away, until seekers of knowledge realised that the old man of Homs was the last of the Prophet's ﷺ Companions left alive in the entire land. He died around 86 AH, and with him Syria's living link to the Prophet's ﷺ own face and voice was closed. Whoever in that land wanted an eyewitness after him would find only the students of the eyewitness.",
             bn: "আল্লাহ আবু উমামাকে দীর্ঘ হায়াত দিলেন। বছরের পর বছর সিরিয়ার সাহাবিরা একে একে বিদায় নিতে লাগলেন। একসময় ইলমের তালিবরা টের পেল, হিমসের এই বৃদ্ধই গোটা ভূখণ্ডে বেঁচে থাকা নবীজি ﷺ-এর শেষ সাহাবি। প্রায় ৮৬ হিজরিতে তিনি ইন্তেকাল করেন। তাঁর সঙ্গে সঙ্গে বন্ধ হয়ে গেল নবীজি ﷺ-এর চেহারা আর কণ্ঠের সঙ্গে সিরিয়ার জীবন্ত যোগসূত্র। এরপর সে ভূমিতে প্রত্যক্ষদর্শী খুঁজলে মিলবে শুধু প্রত্যক্ষদর্শীর ছাত্ররা।",
           },
           {
@@ -6226,14 +6226,14 @@ var SAHABA_ARTICLES = {
         ],
       },
       {
-        h: { en: "Teacher in Hims", bn: "হিমসের শিক্ষক" },
+        h: { en: "Teacher in Homs", bn: "হিমসের শিক্ষক" },
         p: [
           {
-            en: "After the Prophet's ﷺ death, Irbad settled in Hims in Syria, in the same current of Companions that carried knowledge into the newly opened land. There the man of the Suffah finally had a roof, and he used it the way he had used the bench: as a place where seekers could find him. The Tabi'un of Syria came to him for the farewell counsel from the mouth of the man who had heard it.",
+            en: "After the Prophet's ﷺ death, Irbad settled in Homs in Syria, in the same current of Companions that carried knowledge into the newly opened land. There the man of the Suffah finally had a roof, and he used it the way he had used the bench: as a place where seekers could find him. The Tabi'un of Syria came to him for the farewell counsel from the mouth of the man who had heard it.",
             bn: "নবীজি ﷺ-এর ইন্তেকালের পর ইরবাদ থিতু হন সিরিয়ার হিমসে; সাহাবিদের যে স্রোত নতুন খোলা ভূখণ্ডে ইলম বয়ে নিয়ে গিয়েছিল, তারই একজন হয়ে। সুফফার মানুষটি অবশেষে মাথার ওপর ছাদ পেলেন, আর সেটা কাজে লাগালেন ঠিক সেই চত্বরটার মতো করেই। এমন এক ঠিকানা, যেখানে এলে তালিবরা তাঁকে পাবে। বিদায়ী অসিয়তের হাদিস যাঁর নিজের কানে শোনা, তাঁর মুখ থেকেই তা নিতে সিরিয়ার তাবিয়িরা ছুটে আসত তাঁর কাছে।",
           },
           {
-            en: "He would tell his students that he was among those about whom 9:92 was revealed, the tearful men with nothing to spend, and then give them the sermon of the trembling hearts. The pairing was his curriculum: sincerity when you have nothing, adherence when the ummah divides. He lived long into the era of the disagreement the Prophet ﷺ had foretold, and died in Hims around 75 AH, still pointing at the rope.",
+            en: "He would tell his students that he was among those about whom 9:92 was revealed, the tearful men with nothing to spend, and then give them the sermon of the trembling hearts. The pairing was his curriculum: sincerity when you have nothing, adherence when the ummah divides. He lived long into the era of the disagreement the Prophet ﷺ had foretold, and died in Homs around 75 AH, still pointing at the rope.",
             bn: "ছাত্রদের তিনি বলতেন, ৯:৯২ আয়াত যাদের ব্যাপারে নেমেছিল, খরচ করার কিছু না পেয়ে কেঁদে ফেরা সেই মানুষদের একজন তিনিও। তারপর শোনাতেন হৃদয় কাঁপানো সেই খুতবা। এই জোড়াটাই ছিল তাঁর পাঠ্যসূচি: হাতে কিছু না থাকলে আন্তরিকতা, উম্মাহ ভাগ হয়ে গেলে সুন্নাহ আঁকড়ে থাকা। নবীজি ﷺ যে মতভেদের আগাম খবর দিয়েছিলেন, সেই যুগের অনেকটা গভীর পর্যন্ত তিনি বেঁচে ছিলেন। প্রায় ৭৫ হিজরিতে হিমসে ইন্তেকাল করেন, শেষ পর্যন্ত আঙুল তুলে দেখিয়ে গেছেন সেই রশিটাই।",
           },
         ],
