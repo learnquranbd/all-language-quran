@@ -16,12 +16,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Book With a Stated Job",
-          "bn": "কাজ ঘোষিত এক কিতাব"
+          "bn": "যে কিতাব নিজের কাজ জানিয়ে দেয়"
         },
         "p": [
           {
             "en": "Surah Ibrahim opens with the disconnected letters, then a single indefinite noun: kitabun, a Book — We have sent it down to you. What follows is a purpose clause, and that clause is the reason the Book is being mentioned at all. Many openings describe the revelation; this one assigns it a task, and states the task as a verb of movement performed upon people. The reader is told in the first line what the rest of the surah is for.",
-            "bn": "সূরা ইবরাহীম শুরু হয় বিচ্ছিন্ন হরফ দিয়ে, তারপর একটি অনির্দিষ্ট বিশেষ্য: 'কিতাবুন' — একটি কিতাব, যা আমি তোমার প্রতি নাযিল করেছি। এরপর আসে উদ্দেশ্যবাচক অংশ, আর সেই অংশটির কারণেই কিতাবের উল্লেখ। অনেক সূরার সূচনা ওহীর পরিচয় দেয়; এটি ওহীকে একটি কাজ দিয়ে দেয়, আর সেই কাজকে প্রকাশ করে মানুষের ওপর সম্পন্ন হওয়া এক গতিশীল ক্রিয়াপদ দিয়ে। প্রথম লাইনেই পাঠক জেনে যায়, বাকি সূরাটি কীসের জন্য।"
+            "bn": "সূরা ইবরাহীম শুরু হয় বিচ্ছিন্ন হরফ দিয়ে। তারপর আসে শুধু একটি অনির্দিষ্ট বিশেষ্য: 'কিতাবুন', এক কিতাব, যা আমি তোমার প্রতি নাজিল করেছি। এর পরেই আছে উদ্দেশ্য জানানো একটি বাক্যাংশ, আর কিতাবের কথা তোলাই হয়েছে সেটার জন্য। অনেক সূরা শুরুতে ওহির পরিচয় দেয়। এই সূরা ওহিকে একটা কাজ বুঝিয়ে দেয়, আর কাজটা বলে গতির একটি ক্রিয়া দিয়ে, যা ঘটে মানুষের ওপর। প্রথম লাইনেই পাঠক জেনে যান, বাকি সূরাটা কীসের জন্য।"
           }
         ]
       },
@@ -33,7 +33,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Li-tukhrija an-nas: so that you may bring mankind out. The verb is one of extraction, and it assumes a starting position. Nobody in this sentence is standing on neutral ground waiting to be improved; they are inside something and are to be taken out of it. That is a different picture from adding information to a person. It is nearer to what 6:122 describes — one who was dead and was given life, and given a light by which to walk among people.",
-            "bn": "'লিতুখরিজান্‌নাস' — যাতে তুমি মানুষকে বের করে আনতে পারো। ক্রিয়াপদটি বের করে আনার, আর তা একটি শুরুর অবস্থান ধরে নেয়। এই বাক্যে কেউ নিরপেক্ষ জায়গায় দাঁড়িয়ে উন্নতির অপেক্ষা করছে না; তারা কোনো কিছুর ভেতরে আছে এবং সেখান থেকে তাদের বের করে আনতে হবে। এটি কারও ভেতরে তথ্য যোগ করার ছবি নয়। এটি বরং 6:122-এর বর্ণনার কাছাকাছি — যে ছিল মৃত, তারপর তাকে জীবন দেওয়া হলো এবং এমন এক আলো দেওয়া হলো যা নিয়ে সে মানুষের মধ্যে চলাফেরা করে।"
+            "bn": "'লিতুখরিজান্‌নাস': যাতে তুমি মানুষকে বের করে আনো। ক্রিয়াটি টেনে বের করার, আর এ ক্রিয়া ধরে নেয়, মানুষ শুরুতে কোথাও একটা আছে। এ বাক্যে কেউ নিরপেক্ষ জায়গায় দাঁড়িয়ে নিজের উন্নতির অপেক্ষা করছে না। তারা কিছু একটার ভেতরে আছে, সেখান থেকে তাদের বের করে আনতে হবে। কারও মাথায় নতুন তথ্য ঢোকানোর ছবি এটা নয়। এটা বরং ৬:১২২-এর বর্ণনার কাছাকাছি: যে ছিল মৃত, আল্লাহ তাকে জীবন দিলেন, আর দিলেন এমন আলো, যা নিয়ে সে মানুষের মাঝে চলাফেরা করে।"
           }
         ]
       },
@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic is not symmetrical, and the commentators have long made the point: zulumat is plural, darknesses, while nur is singular. The asymmetry holds across the whole Book — the plural of nur does not occur in the Quran at all. And the verse's own last words keep the singular running: the light is then identified as a sirat, one road. Confusion, appetite, ideology and habit each supply a darkness of their own; the exit is described in the singular every time.",
-            "bn": "আরবি এখানে প্রতিসম নয়, আর মুফাসসিরগণ বহুকাল ধরেই বিষয়টি উল্লেখ করে আসছেন: 'যুলুমাত' বহুবচন — অর্থাৎ অন্ধকারসমূহ, আর 'নূর' একবচন। এই অসমতা গোটা কিতাবজুড়েই বজায় থাকে — কুরআনে 'নূর'-এর বহুবচন একবারও আসেনি। আর আয়াতের শেষ শব্দগুলো সেই একবচনকেই টেনে নিয়ে যায়: আলোকে এরপর চিহ্নিত করা হয় 'সিরাত' বলে, অর্থাৎ একটিমাত্র পথ। বিভ্রান্তি, প্রবৃত্তি, মতবাদ আর অভ্যাস — প্রত্যেকেই নিজের মতো একেকটি অন্ধকার জোগায়; কিন্তু বেরিয়ে আসার পথটির বর্ণনা প্রতিবারই একবচনে।"
+            "bn": "আরবি এখানে দুই দিক সমান রাখেনি, আর মুফাসসিররা বহু আগে থেকেই সেটা দেখিয়ে আসছেন: 'যুলুমাত' বহুবচন, অর্থাৎ অনেকগুলো অন্ধকার; আর 'নূর' একবচন। পুরো কুরআনেই এই অমিল বজায় আছে, 'নূর'-এর বহুবচন কুরআনে একবারও আসেনি। আয়াতের শেষ শব্দগুলোও একবচনই ধরে রাখে: আয়াত এরপর সেই আলোকেই বলে 'সিরাত', একটিমাত্র পথ। বিভ্রান্তি, প্রবৃত্তি, মতবাদ, অভ্যাস, প্রত্যেকটি নিজের নিজের অন্ধকার নিয়ে আসে। কিন্তু বেরোনোর পথের কথা প্রতিবারই আসে একবচনে।"
           }
         ]
       },
@@ -57,11 +57,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Here the bringing out is ascribed to the Prophet ﷺ. Elsewhere it is ascribed to Allah — 2:257 says He brings the believers out of the darknesses into the light, 33:43 attaches it to His blessing and that of the angels, and 5:16 to guidance given by this Book. The clause that reconciles them sits inside this verse: bi-idhni rabbihim, by the permission of their Lord. The messenger performs the act and does not own the power inside it.",
-            "bn": "এখানে বের করে আনার কাজটি নবী ﷺ-এর প্রতি আরোপ করা হয়েছে। অন্যত্র তা আরোপ করা হয়েছে আল্লাহর প্রতি — 2:257 বলে, তিনিই মুমিনদের অন্ধকারসমূহ থেকে আলোর দিকে বের করে আনেন; 33:43 একে যুক্ত করে তাঁর ও ফেরেশতাদের রহমতের সঙ্গে; আর 5:16 যুক্ত করে এই কিতাবের মাধ্যমে দেওয়া হিদায়াতের সঙ্গে। যে অংশটি এগুলোকে মিলিয়ে দেয় তা এই আয়াতেই আছে: 'বিইযনি রাব্বিহিম' — তাদের প্রতিপালকের অনুমতিক্রমে। রাসূল কাজটি সম্পাদন করেন, কিন্তু তার ভেতরের শক্তির মালিক তিনি নন।"
+            "bn": "এখানে কুরআন বের করে আনার কাজটি নবী ﷺ-এর সঙ্গে জুড়েছে। অন্য জায়গায় জুড়েছে আল্লাহর সঙ্গে: ২:২৫৭ বলে, তিনিই মুমিনদের অন্ধকার থেকে আলোর দিকে বের করে আনেন; ৩৩:৪৩ একে যুক্ত করে তাঁর ও ফেরেশতাদের রহমতের সঙ্গে; আর ৫:১৬ যুক্ত করে এই কিতাবের দেওয়া হিদায়াতের সঙ্গে। দুটো কথা কীভাবে মেলে, তার উত্তর এই আয়াতেই আছে: 'বিইযনি রাব্বিহিম', তাদের প্রতিপালকের অনুমতিতে। রাসূল কাজটি করেন, কিন্তু সেই কাজের ভেতরের শক্তির মালিক তিনি নন।"
           },
           {
             "en": "Notice whose Lord is named. It does not say by the permission of your Lord, addressing the one who carries the Book; it says their Lord, the Lord of the people being brought out. The permission is attached to them. Anyone who teaches, corrects or invites can take two things from that. He is doing real work, since the verb has been handed to him. And he is not the one who decides whether it lands, which is a relief and a discipline at the same time.",
-            "bn": "লক্ষ করুন, কার প্রতিপালকের কথা বলা হয়েছে। বলা হয়নি 'তোমার প্রতিপালকের অনুমতিক্রমে', যা কিতাব বহনকারীকে সম্বোধন করত; বলা হয়েছে 'তাদের প্রতিপালক', অর্থাৎ যাদের বের করে আনা হচ্ছে তাদের প্রতিপালক। অনুমতিটি তাদের সঙ্গেই যুক্ত। যিনি শেখান, সংশোধন করেন বা দাওয়াত দেন, তিনি এখান থেকে দুটি জিনিস নিতে পারেন। তিনি সত্যিকারের কাজ করছেন, কারণ ক্রিয়াপদটি তাঁর হাতেই দেওয়া হয়েছে। আর তা কার্যকর হবে কি না, সেই সিদ্ধান্ত তাঁর নয় — যা একই সঙ্গে স্বস্তি এবং সংযম।"
+            "bn": "লক্ষ করুন, কার প্রতিপালকের নাম এসেছে। আয়াত বলেনি 'তোমার প্রতিপালকের অনুমতিতে', যা হতো কিতাব বহনকারীকে সম্বোধন। বলেছে 'তাদের প্রতিপালক', অর্থাৎ যাদের বের করে আনা হচ্ছে, তাদের প্রতিপালক। অনুমতিটা তাদের সঙ্গেই জুড়ে আছে। যিনি শেখান, ভুল শুধরে দেন বা দাওয়াত দেন, তিনি এখান থেকে দুটি কথা নিতে পারেন। এক, তিনি সত্যিকারের কাজ করছেন, কারণ ক্রিয়াটি তাঁর হাতেই তুলে দেওয়া হয়েছে। দুই, কাজটা ফল দেবে কি না, সে ফয়সালা তাঁর নয়। এ কথায় স্বস্তিও আছে, নিজেকে সংযত রাখার শিক্ষাও আছে।"
           }
         ]
       },
@@ -73,23 +73,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends by naming the destination twice over: to the path of al-'Aziz, al-Hamid. Might that cannot be overcome, and praiseworthiness that deserves everything said of it. The pairing matters, because power without the second name would be tyranny and praise without the first would be sentiment. And the sentence does not stop at the surah's opening verse: 14:2 continues in apposition — Allah, to whom belongs whatever is in the heavens and whatever is on the earth.",
-            "bn": "আয়াত শেষ হয় গন্তব্যের নাম দুবার করে দিয়ে: 'আল-আযীয' ও 'আল-হামীদ'-এর পথের দিকে। এমন পরাক্রম যাকে পরাস্ত করা যায় না, আর এমন প্রশংসার যোগ্যতা যা তাঁর সম্পর্কে বলা সব কথারই দাবিদার। এই জোড়াটি গুরুত্বপূর্ণ, কারণ দ্বিতীয় নামটি ছাড়া ক্ষমতা হতো স্বেচ্ছাচার, আর প্রথমটি ছাড়া প্রশংসা হতো নিছক আবেগ। আর বাক্যটি সূরার প্রথম আয়াতে এসে থামে না: 14:2 একই বাক্যের ব্যাখ্যা হিসেবে চলতে থাকে — আল্লাহ, আসমানসমূহে ও যমীনে যা কিছু আছে সবই যাঁর।"
+            "bn": "আয়াত শেষ হয় গন্তব্যকে দুই নামে চিনিয়ে দিয়ে: 'আল-আযীয' ও 'আল-হামীদ'-এর পথের দিকে। এমন পরাক্রম, যাকে কেউ হারাতে পারে না; আর এমন প্রশংসার যোগ্যতা, যাঁর সম্পর্কে বলা প্রতিটি প্রশংসা তাঁর প্রাপ্য। জোড়াটা গুরুত্বপূর্ণ। দ্বিতীয় নামটি না থাকলে ক্ষমতা হতো স্বেচ্ছাচার, আর প্রথমটি না থাকলে প্রশংসা হতো নিছক আবেগ। বাক্যটা সূরার প্রথম আয়াতে এসেই থামে না। ১৪:২ একই বাক্য টেনে নিয়ে আগের নামের ব্যাখ্যা দেয়: আল্লাহ, আসমানে যা কিছু আছে আর যমীনে যা কিছু আছে, সবই যাঁর।"
           }
         ]
       },
       {
         "h": {
           "en": "Reading a Book Sent to Move You",
-          "bn": "যে কিতাব নড়াতে এসেছে, তা পড়া"
+          "bn": "যে কিতাব বের করে আনতে এসেছে, তাকে যেভাবে পড়বেন"
         },
         "p": [
           {
             "en": "Taken at its word, this verse sets an expectation for how the Quran is opened. It is not first of all an object of admiration, a source of quotations or a text to have opinions about; it announces itself as the instrument of an extraction. The honest way to read it is therefore to arrive with a particular darkness named — a confusion, a grudge, a habit, a fear — and to read looking for the way out of that one.",
-            "bn": "কথাটি আক্ষরিকভাবে নিলে এই আয়াত ঠিক করে দেয়, কুরআন কীভাবে খোলা উচিত। এটি সবার আগে মুগ্ধ হয়ে দেখার বস্তু নয়, উদ্ধৃতির ভাণ্ডার নয়, কিংবা এমন কোনো পাঠ নয় যা নিয়ে মতামত দেওয়া যায়; এটি নিজেকে ঘোষণা করে বের করে আনার যন্ত্র হিসেবে। তাই সৎভাবে পড়ার উপায় হলো নির্দিষ্ট একটি অন্ধকারের নাম নিয়ে আসা — কোনো বিভ্রান্তি, কোনো ক্ষোভ, কোনো অভ্যাস, কোনো ভয় — আর সেই একটি থেকে বেরোনোর পথ খুঁজতে খুঁজতে পড়া।"
+            "bn": "আয়াতের কথা অক্ষরে অক্ষরে মানলে, কুরআন কীভাবে খুলতে হবে, এই আয়াত তা ঠিক করে দেয়। কুরআন সবার আগে মুগ্ধ হয়ে দেখার জিনিস নয়, উদ্ধৃতির ভাণ্ডারও নয়, কিংবা মতামত দেওয়ার মতো কোনো লেখাও নয়। কুরআন নিজের পরিচয় দেয় বের করে আনার হাতিয়ার হিসেবে। তাই সৎভাবে পড়ার উপায় হলো, নির্দিষ্ট একটা অন্ধকারের নাম মনে নিয়ে বসা: কোনো বিভ্রান্তি, কোনো ক্ষোভ, কোনো অভ্যাস, কোনো ভয়। তারপর পড়তে পড়তে খোঁজা, ঠিক সেই অন্ধকার থেকে বেরোনোর পথ কোথায়।"
           },
           {
             "en": "And the plural keeps the work open-ended. A person is not brought out once and finished. Every stage of a life has its own darkness, and the surah shows the task being handed down: 14:5 sends Musa (AS) with the same instruction, to bring his people out of the darknesses into the light. Whoever teaches a child a surah, or sits with someone in the dark stretch of his life and reads to him, has taken up a share of the verb in this verse.",
-            "bn": "আর বহুবচনটি কাজটিকে চিরকালের জন্য খোলা রাখে। মানুষকে একবার বের করে এনে কাজ শেষ হয়ে যায় না। জীবনের প্রতিটি পর্বের নিজস্ব অন্ধকার আছে, আর সূরাটি দেখায় যে এই দায়িত্ব হাতে হাতে চলে আসছে: 14:5-এ মূসা (আঃ)-কে পাঠানো হয় একই নির্দেশ দিয়ে, যেন তিনি তাঁর সম্প্রদায়কে অন্ধকারসমূহ থেকে আলোর দিকে বের করে আনেন। যিনি কোনো শিশুকে একটি সূরা শেখান, কিংবা জীবনের অন্ধকার সময়ে কারও পাশে বসে তাকে পড়ে শোনান, তিনি এই আয়াতের ক্রিয়াপদটির একটি অংশ নিজের কাঁধে তুলে নিয়েছেন।"
+            "bn": "আর বহুবচনটা কাজটাকে কখনো শেষ হতে দেয় না। মানুষকে একবার বের করে আনলেই কাজ ফুরিয়ে যায় না। জীবনের প্রতিটি পর্বের নিজের অন্ধকার আছে। সূরাটি দেখায়, এই দায়িত্ব হাত থেকে হাতে চলে এসেছে: ১৪:৫-এ আল্লাহ মূসা (আঃ)-কে একই নির্দেশ দিয়ে পাঠান, যেন তিনি তাঁর কওমকে নানা অন্ধকার থেকে আলোর দিকে বের করে আনেন। যিনি কোনো শিশুকে একটা সূরা শেখান, কিংবা কারও জীবনের অন্ধকার সময়ে পাশে বসে তাকে পড়ে শোনান, তিনি এই আয়াতের ক্রিয়াটির একটা অংশ নিজের কাঁধে তুলে নিয়েছেন।"
           }
         ]
       }
@@ -105,27 +105,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens wa idh ta'adhdhana rabbukum, and when your Lord proclaimed. Ta'adhdhana is not the ordinary verb for saying. It comes from the root that gives adhan, the call announced aloud so that a whole town hears it. What follows is therefore public, formal and put on record — a declaration rather than an aside, and the Arabic tells you so before you reach the content.",
-            "bn": "আয়াত শুরু হয় ওয়া ইয্ তা’আয্‌যানা রাব্বুকুম দিয়ে — আর যখন তোমাদের রব ঘোষণা করলেন। তা’আয্‌যানা সাধারণ ‘বলা’ ক্রিয়া নয়। এটি এসেছে সেই ধাতু থেকে যা থেকে আযান — উচ্চস্বরে ঘোষিত সেই ডাক যা গোটা জনপদ শোনে। তাই এরপর যা আসে তা প্রকাশ্য, আনুষ্ঠানিক ও লিপিবদ্ধ — পাশ কাটানো মন্তব্য নয়, বরং ঘোষণা; আর বিষয়বস্তুতে পৌঁছার আগেই আরবি তা জানিয়ে দেয়।"
+            "bn": "আয়াতের শুরু: ওয়া ইয্ তা’আয্‌যানা রাব্বুকুম, আর যখন তোমাদের রব ঘোষণা করলেন। তা’আয্‌যানা সাধারণ ‘বলা’ ক্রিয়া নয়। শব্দটা এসেছে সেই ধাতু থেকে, যা থেকে এসেছে আযান: উঁচু গলায় দেওয়া সেই ডাক, যা গোটা জনপদ শোনে। তাই এরপর যা আসছে তা প্রকাশ্য, আনুষ্ঠানিক, দলিলে লিখে রাখার মতো কথা। পাশ কাটিয়ে বলা মন্তব্য নয়, ঘোষণা। আর মূল কথায় পৌঁছানোর আগেই আরবি শব্দটি তা জানিয়ে দেয়।"
           },
           {
             "en": "Then the content: la'in shakartum la'azidannakum. Both halves carry the emphatic lam, and the verb ends in the doubled nun of confirmation. This is the construction Arabic uses for a sworn undertaking; the plainest English that keeps its weight is if you are grateful, I shall most certainly increase you. Nothing about the promise is left provisional except the condition attached to it.",
-            "bn": "এরপর বিষয়বস্তু: লা’ইন শাকারতুম লা’আযীদান্নাকুম। দুই অংশেই আছে জোরদার লাম, আর ক্রিয়ার শেষে দ্বিত্ব নূন। আরবি এই গঠনটি ব্যবহার করে শপথসদৃশ অঙ্গীকারে; এর ভার ধরে রাখে এমন সহজতম অনুবাদ হলো, যদি তোমরা কৃতজ্ঞ হও, আমি অবশ্যই অবশ্যই তোমাদের বাড়িয়ে দেব। প্রতিশ্রুতির কিছুই অনিশ্চিত রাখা হয়নি, কেবল তার সাথে যুক্ত শর্তটি ছাড়া।"
+            "bn": "এরপর মূল কথা: লা’ইন শাকারতুম লা’আযীদান্নাকুম। দুই অংশেই আছে জোর দেওয়ার লাম, আর ক্রিয়ার শেষে আছে তাগিদের দ্বিত্ব নূন। শপথ করে দেওয়া অঙ্গীকারের জন্য আরবি এই গঠনই ব্যবহার করে। এর ভার ধরে রেখে সবচেয়ে সহজ করে বললে: যদি তোমরা কৃতজ্ঞ হও, আমি অবশ্যই অবশ্যই তোমাদের বাড়িয়ে দেব। প্রতিশ্রুতিতে শুধু জুড়ে দেওয়া শর্তটুকুই শর্ত, বাকি কিছুই অনিশ্চিত নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Object Left Open",
-          "bn": "যে বস্তুটি অনুক্ত"
+          "bn": "কীসে বাড়াবেন, বলা নেই"
         },
         "p": [
           {
             "en": "Read the promise again and notice what is missing. I shall increase you — in what? The Arabic gives no object. It does not say increase you in wealth, or in health, or in years. The commentators dwell on this omission: an unnamed object is an unlimited one, so the increase may come in provision, in strength, in knowledge, in ease of worship, in contentment with what is already there.",
-            "bn": "প্রতিশ্রুতিটি আবার পড়ুন, আর লক্ষ্য করুন কী অনুপস্থিত। আমি তোমাদের বাড়িয়ে দেব — কীসে? আরবি কোনো কর্ম দেয়নি। বলা হয়নি সম্পদে বাড়িয়ে দেব, বা স্বাস্থ্যে, বা আয়ুতে। মুফাসসিরগণ এই অনুক্ততার ওপরই থামেন: যে কর্মের নাম বলা হয়নি তা অসীম; তাই বৃদ্ধি আসতে পারে রিজিকে, শক্তিতে, জ্ঞানে, ইবাদতের সহজতায়, কিংবা যা ইতিমধ্যেই আছে তাতেই তৃপ্তিতে।"
+            "bn": "প্রতিশ্রুতিটা আবার পড়ুন, আর খেয়াল করুন কী নেই। আমি তোমাদের বাড়িয়ে দেব। কীসে? আরবিতে এর কোনো কর্ম নেই। আয়াত বলেনি সম্পদে বাড়াব, বা স্বাস্থ্যে, বা আয়ুতে। মুফাসসিররা এই না-বলার ওপর অনেকক্ষণ থেমেছেন: যে কর্মের নাম নেই, তার সীমাও নেই। তাই বাড়তি আসতে পারে রিজিকে, শক্তিতে, জ্ঞানে, ইবাদতের সহজতায়, কিংবা যা আছে তাতেই তৃপ্ত থাকায়।"
           },
           {
             "en": "This matters, because the verse is often quoted as though it promised more money to the thankful. It promises more, and leaves the currency to the Giver. A person whose income does not change but who stops resenting it has received exactly what was promised. Shukr in the Quran is not a mood; it is recognition of where a thing came from, expressed by the tongue, the heart and the use made of the gift.",
-            "bn": "কথাটি জরুরি, কারণ আয়াতটি প্রায়ই এমনভাবে উদ্ধৃত হয় যেন এটি কৃতজ্ঞদের বেশি অর্থের প্রতিশ্রুতি দিচ্ছে। এটি বেশি কিছুর প্রতিশ্রুতি দেয় বটে, তবে মুদ্রাটি কী হবে তা দাতার হাতেই রেখে দেয়। যার আয় বদলায়নি অথচ যে তা নিয়ে আর বিরক্ত নয়, সে ঠিক তা-ই পেয়েছে যা প্রতিশ্রুত ছিল। কুরআনে শুকর কোনো মেজাজ নয়; এটি স্বীকৃতি যে জিনিসটি কোথা থেকে এসেছে — যা প্রকাশ পায় জিহ্বায়, হৃদয়ে, আর দানটির ব্যবহারে।"
+            "bn": "কথাটা জরুরি, কারণ আয়াতটি প্রায়ই এমনভাবে উদ্ধৃত হয়, যেন কৃতজ্ঞ হলেই বেশি টাকা মিলবে। প্রতিশ্রুতি আছে বাড়িয়ে দেওয়ার, কিন্তু কোন মুদ্রায় দেবেন, তা দাতা নিজের হাতে রেখেছেন। যার আয় বদলায়নি, অথচ সেই আয় নিয়ে মনে আর ক্ষোভ নেই, সে ঠিক সেটাই পেয়েছে যার প্রতিশ্রুতি ছিল। কুরআনে শুকর কোনো মেজাজ নয়। শুকর মানে চিনে নেওয়া, জিনিসটা কোথা থেকে এসেছে। সেই চেনা প্রকাশ পায় মুখে, অন্তরে, আর দানটাকে কাজে লাগানোর ধরনে।"
           }
         ]
       },
@@ -137,27 +137,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half changes shape: wa la'in kafartum inna adhabi lashadid. If you are ungrateful, indeed My punishment is severe. Read the grammar closely. For gratitude, Allah says I shall increase you — first person, direct, with the servant as the object. For ingratitude, He does not say I shall punish you; He states that His punishment is severe. The threat is stated as an attribute, at one remove.",
-            "bn": "দ্বিতীয়ার্ধের গড়ন বদলে যায়: ওয়া লা’ইন কাফারতুম ইন্না ‘আযাবী লাশাদীদ। যদি তোমরা অকৃতজ্ঞ হও, নিশ্চয়ই আমার শাস্তি কঠিন। ব্যাকরণটি মনোযোগ দিয়ে পড়ুন। কৃতজ্ঞতার ক্ষেত্রে আল্লাহ বলেন, আমি তোমাদের বাড়িয়ে দেব — উত্তম পুরুষে, সরাসরি, বান্দাকে কর্ম করে। অকৃতজ্ঞতার ক্ষেত্রে তিনি বলেন না, আমি তোমাদের শাস্তি দেব; তিনি বলেন যে তাঁর শাস্তি কঠিন। হুমকিটি একটি গুণ হিসেবে বলা হয়েছে, এক ধাপ দূরত্ব রেখে।"
+            "bn": "দ্বিতীয়ার্ধে গড়ন বদলে যায়: ওয়া লা’ইন কাফারতুম ইন্না ‘আযাবী লাশাদীদ। যদি তোমরা অকৃতজ্ঞ হও, নিশ্চয়ই আমার শাস্তি কঠিন। ব্যাকরণটা মন দিয়ে দেখুন। কৃতজ্ঞতার বেলায় আল্লাহ বলেন, আমি তোমাদের বাড়িয়ে দেব। তিনি নিজে 'আমি' বলে সরাসরি কথা বলছেন, আর যাকে বাড়াবেন সে বান্দা নিজেই। অকৃতজ্ঞতার বেলায় তিনি বলেন না, আমি তোমাদের শাস্তি দেব। তিনি বলেন, তাঁর শাস্তি কঠিন। হুমকিটা এসেছে তাঁর একটি গুণের বর্ণনা হিসেবে, এক ধাপ দূরত্ব রেখে।"
           },
           {
             "en": "The verb chosen for ingratitude is worth holding on to as well: kafartum, from the root k-f-r, whose base meaning is to cover. Ingratitude in Arabic is a covering over of a blessing so that it is no longer visible as one. That is why kufr can mean both disbelief and thanklessness — they are the same act performed on different objects. Later in the surah, 14:34 says that if you tried to count the favour of Allah you could not enumerate it.",
-            "bn": "অকৃতজ্ঞতার জন্য বেছে নেওয়া ক্রিয়াটিও ধরে রাখার মতো: কাফারতুম, ক-ফ-র ধাতু থেকে, যার মূল অর্থ ঢেকে ফেলা। আরবিতে অকৃতজ্ঞতা মানে নিয়ামতকে এমনভাবে ঢেকে ফেলা যে তা আর নিয়ামত বলে চোখে পড়ে না। এ কারণেই কুফর শব্দটি অবিশ্বাস ও অকৃতজ্ঞতা দুটোই বোঝাতে পারে — ভিন্ন বস্তুর ওপর একই কাজ। সূরার পরের দিকে 14:34 বলে, আল্লাহর নিয়ামত গুনতে চাইলে তোমরা তা গুনে শেষ করতে পারবে না।"
+            "bn": "অকৃতজ্ঞতার জন্য বেছে নেওয়া ক্রিয়াটিও মনে রাখার মতো: কাফারতুম, ক-ফ-র ধাতু থেকে, যার মূল অর্থ ঢেকে ফেলা। আরবিতে অকৃতজ্ঞতা মানে নিয়ামতকে এমনভাবে ঢেকে ফেলা, যাতে তা আর নিয়ামত বলে চোখে না পড়ে। এ কারণেই কুফর শব্দে অবিশ্বাসও বোঝায়, অকৃতজ্ঞতাও। কাজ একটাই, শুধু যা ঢাকা হচ্ছে তা আলাদা। সূরার পরের দিকে ১৪:৩৪ বলে, আল্লাহর নিয়ামত গুনতে চাইলে তোমরা তা গুনে শেষ করতে পারবে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Spoken to a Rescued People",
-          "bn": "উদ্ধারপ্রাপ্ত এক জাতিকে বলা"
+          "bn": "সদ্য রক্ষা পাওয়া এক কওমের প্রতি"
         },
         "p": [
           {
             "en": "The declaration is not floating free. It sits inside the speech of Musa (AS) to his people. 14:5 records that Musa was sent with signs and told to bring his people out of darkness into light and to remind them of the days of Allah. 14:6 then names a specific day: remember when He saved you from the people of Pharaoh, who were inflicting the worst punishment on you.",
-            "bn": "ঘোষণাটি শূন্যে ভাসছে না। এটি বসে আছে মূসা (আঃ)-এর নিজ জাতির প্রতি বক্তব্যের ভেতরে। 14:5 জানায় যে মূসাকে নিদর্শনসহ পাঠানো হয়েছিল, আর বলা হয়েছিল তাঁর জাতিকে অন্ধকার থেকে আলোর দিকে বের করে আনতে এবং তাদের আল্লাহর দিনগুলোর কথা স্মরণ করিয়ে দিতে। এরপর 14:6 একটি নির্দিষ্ট দিনের নাম বলে: স্মরণ করো যখন তিনি তোমাদের ফিরআউনের লোকদের হাত থেকে রক্ষা করেছিলেন, যারা তোমাদের নিকৃষ্টতম শাস্তি দিচ্ছিল।"
+            "bn": "ঘোষণাটা শূন্যে ঝুলে নেই। এটা আছে নিজের কওমের প্রতি মূসা (আঃ)-এর ভাষণের ভেতরে। ১৪:৫ জানায়, আল্লাহ মূসাকে নিদর্শন দিয়ে পাঠিয়েছিলেন, আর বলেছিলেন তাঁর কওমকে অন্ধকার থেকে আলোর দিকে বের করে আনতে এবং তাদের আল্লাহর দিনগুলোর কথা মনে করিয়ে দিতে। এরপর ১৪:৬ একটি নির্দিষ্ট দিনের কথা বলে: স্মরণ করো, যখন তিনি তোমাদের ফেরাউনের লোকদের হাত থেকে রক্ষা করেছিলেন, যারা তোমাদের সবচেয়ে নিকৃষ্ট শাস্তি দিচ্ছিল।"
           },
           {
             "en": "So gratitude is taught here to people who had just been given something enormous and specific. That is the context the verse asks to be read in: not an abstract principle but the right response to a deliverance one has actually lived through. And 14:8 closes the door on any misunderstanding — Musa says, if you and everyone on earth are ungrateful, Allah is Free of need, Praiseworthy. The increase is entirely for the grateful. Nothing is added to Allah by it.",
-            "bn": "অর্থাৎ এখানে কৃতজ্ঞতা শেখানো হচ্ছে এমন মানুষদের, যাদের সবেমাত্র বিশাল ও নির্দিষ্ট কিছু দেওয়া হয়েছে। আয়াতটি এই প্রেক্ষাপটেই পড়তে বলে: কোনো বিমূর্ত নীতি নয়, বরং নিজে ভোগ করা এক উদ্ধারের যথাযথ জবাব। আর 14:8 যেকোনো ভুল বোঝাবুঝির দরজা বন্ধ করে দেয় — মূসা বলেন, তোমরা এবং পৃথিবীর সবাই যদি অকৃতজ্ঞ হও, আল্লাহ অভাবমুক্ত, প্রশংসিত। বৃদ্ধিটি পুরোপুরি কৃতজ্ঞদেরই জন্য। এতে আল্লাহর কিছুই বাড়ে না।"
+            "bn": "অর্থাৎ এখানে কৃতজ্ঞতা শেখানো হচ্ছে এমন মানুষদের, যারা সবেমাত্র বিরাট আর সুনির্দিষ্ট একটা কিছু পেয়েছে। আয়াতটি এই প্রেক্ষাপটেই পড়তে বলে। এটা কোনো বিমূর্ত নীতিকথা নয়, নিজের জীবনে দেখা এক মুক্তির সঠিক জবাব। আর ১৪:৮ সব ভুল বোঝাবুঝির পথ বন্ধ করে দেয়। মূসা বলেন, তোমরা আর দুনিয়ার সবাই মিলে যদি অকৃতজ্ঞ হও, তবু আল্লাহ অভাবমুক্ত, প্রশংসিত। বাড়তিটা পুরোটাই কৃতজ্ঞদের জন্য। এতে আল্লাহর কিছুই বাড়ে না।"
           }
         ]
       },
@@ -169,27 +169,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Sunnah gives this verse concrete form. Sahih al-Bukhari and Sahih Muslim record that the Prophet ﷺ would stand in prayer at night until his feet swelled, and when asked why, when his sins were forgiven, he answered: shall I not be a grateful servant? Gratitude there is not a feeling produced after a gift but a form of worship offered because of one.",
-            "bn": "সুন্নাহ এই আয়াতকে বাস্তব রূপ দেয়। সহীহ বুখারী ও সহীহ মুসলিমে আছে, নবী ﷺ রাতে এত দীর্ঘ নামাজে দাঁড়াতেন যে তাঁর পা ফুলে যেত; জিজ্ঞেস করা হলো, তাঁর গুনাহ তো ক্ষমা করা হয়েছে, তবু কেন? তিনি উত্তর দেন: আমি কি একজন কৃতজ্ঞ বান্দা হব না? সেখানে কৃতজ্ঞতা কোনো দান পাওয়ার পরের অনুভূতি নয়, বরং সেই দানের কারণেই পেশ করা ইবাদত।"
+            "bn": "সুন্নাহ এই আয়াতকে চোখে দেখার মতো রূপ দেয়। সহীহ বুখারী ও সহীহ মুসলিমে আছে, নবী ﷺ রাতে নামাজে এত দীর্ঘ সময় দাঁড়িয়ে থাকতেন যে তাঁর পা ফুলে যেত। তাঁকে জিজ্ঞেস করা হলো, আল্লাহ তো আপনার গুনাহ মাফ করে দিয়েছেন, তবু কেন? তিনি বললেন: আমি কি একজন কৃতজ্ঞ বান্দা হব না? এখানে কৃতজ্ঞতা কিছু পাওয়ার পরে জাগা কোনো অনুভূতি নয়, বরং সেই পাওয়ার কারণে আদায় করা ইবাদত।"
           },
           {
             "en": "There is also a short du'a the Prophet ﷺ taught Mu'adh ibn Jabal (RA), telling him he loved him and instructing him not to leave it after any prayer: Allahumma a'inni ala dhikrika wa shukrika wa husni ibadatik — O Allah, help me to remember You, to thank You, and to worship You well. It is preserved in the Sunan collections and graded sound, and it makes the point that shukr itself is something we need help to do.",
-            "bn": "নবী ﷺ মু‘আয ইবনে জাবাল (রাঃ)-কে একটি ছোট দোয়াও শিখিয়েছিলেন, তাঁকে বলে যে তিনি তাঁকে ভালোবাসেন, আর নির্দেশ দেন যেন প্রতিটি নামাজের পর এটি না ছাড়েন: আল্লাহুম্মা আ‘ইন্নী ‘আলা যিকরিকা ওয়া শুকরিকা ওয়া হুসনি ‘ইবাদাতিক — হে আল্লাহ, আপনাকে স্মরণ করতে, আপনার শুকরিয়া আদায় করতে ও উত্তমরূপে আপনার ইবাদত করতে আমাকে সাহায্য করুন। এটি সুনান-গ্রন্থগুলোতে সংরক্ষিত ও নির্ভরযোগ্য, আর এটি বুঝিয়ে দেয় যে শুকর নিজেই এমন কিছু যা করতে আমাদের সাহায্য দরকার।"
+            "bn": "নবী ﷺ মু‘আয ইবনে জাবাল (রাঃ)-কে বলেছিলেন যে তিনি তাঁকে ভালোবাসেন। তারপর তাঁকে একটি ছোট দোয়া শিখিয়ে দিয়ে বলেছিলেন, কোনো নামাজের পরেই যেন তিনি এটা না ছাড়েন: আল্লাহুম্মা আ‘ইন্নী ‘আলা যিকরিকা ওয়া শুকরিকা ওয়া হুসনি ‘ইবাদাতিক। হে আল্লাহ, আপনাকে স্মরণ করতে, আপনার শুকরিয়া আদায় করতে আর সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। দোয়াটি সুনান গ্রন্থগুলোতে আছে, আর বর্ণনাটি নির্ভরযোগ্য বলে গণ্য। দোয়াটি মনে করিয়ে দেয়, শুকর আদায় করতেও আমাদের সাহায্য লাগে।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "আজ যেভাবে এটি জীবনে আসে"
+          "bn": "জীবনে এর চর্চা"
         },
         "p": [
           {
             "en": "The practical difficulty with gratitude is that blessings become invisible by being constant. Nobody thanks Allah for a working knee until it stops working. The verb kafara, to cover, describes that process exactly, and the remedy is simply to make the blessing visible again: name one thing out loud each day, and prefer the ones you have never named — eyesight, a functioning household, a name that is not feared.",
-            "bn": "কৃতজ্ঞতার বাস্তব সমস্যা হলো, নিয়ামত ধারাবাহিক হওয়ার কারণেই অদৃশ্য হয়ে যায়। হাঁটু কাজ করা বন্ধ না করা পর্যন্ত কেউ সচল হাঁটুর জন্য আল্লাহর শুকরিয়া করে না। কাফারা অর্থাৎ ঢেকে ফেলা ক্রিয়াটি ঠিক এই প্রক্রিয়াটিই বর্ণনা করে, আর প্রতিকার সহজ — নিয়ামতকে আবার দৃশ্যমান করা: প্রতিদিন একটি জিনিসের নাম উচ্চারণ করুন, আর সেগুলোকেই বেছে নিন যেগুলোর নাম আপনি কখনো নেননি — দৃষ্টিশক্তি, চলমান একটি সংসার, এমন একটি নাম যাকে কেউ ভয় পায় না।"
+            "bn": "কৃতজ্ঞতার আসল মুশকিল হলো, নিয়ামত সব সময় থাকে বলেই একসময় আর চোখে পড়ে না। হাঁটু ঠিকঠাক চলছে বলে কেউ আল্লাহর শুকরিয়া করে না, যতক্ষণ না হাঁটু বিগড়ে যায়। কাফারা, অর্থাৎ ঢেকে ফেলা, ক্রিয়াটি ঠিক এই ব্যাপারটাই বোঝায়। প্রতিকারও সহজ: নিয়ামতকে আবার চোখের সামনে আনা। প্রতিদিন একটা নিয়ামতের নাম মুখে উচ্চারণ করুন। আর বেছে নিন সেগুলো, যেগুলোর নাম আপনি কখনো নেননি: চোখের দৃষ্টি, ভালোভাবে চলা একটা সংসার, এমন একটা নাম, যা শুনে কেউ ভয় পায় না।"
           },
           {
             "en": "The fuller form is to thank with the thing itself. Wealth is thanked by spending some of it, knowledge by teaching it, health by using it in something worth doing, time by not wasting it on what leaves nothing behind. And gratitude is most useful precisely where it is least natural: in a narrow month, in illness, after a loss. That is where the promise of increase stops being decoration and starts doing work.",
-            "bn": "পূর্ণতর রূপ হলো জিনিসটি দিয়েই শুকরিয়া করা। সম্পদের শুকরিয়া তার কিছু খরচ করে, জ্ঞানের শুকরিয়া তা শিখিয়ে, স্বাস্থ্যের শুকরিয়া তা মূল্যবান কাজে লাগিয়ে, সময়ের শুকরিয়া তা এমন কিছুতে নষ্ট না করে যা কিছুই রেখে যায় না। আর কৃতজ্ঞতা সবচেয়ে বেশি কাজে লাগে ঠিক সেখানেই যেখানে তা সবচেয়ে কম স্বাভাবিক: টানাটানির মাসে, অসুস্থতায়, ক্ষতির পরে। সেখানেই বৃদ্ধির প্রতিশ্রুতি আর অলংকার থাকে না, কাজ করতে শুরু করে।"
+            "bn": "এর পূর্ণ রূপ হলো, জিনিসটা দিয়েই তার শুকরিয়া আদায় করা। সম্পদের শুকরিয়া তার কিছুটা খরচ করে, জ্ঞানের শুকরিয়া তা অন্যকে শিখিয়ে, সুস্থতার শুকরিয়া তা কোনো ভালো কাজে লাগিয়ে, আর সময়ের শুকরিয়া তা এমন কাজে নষ্ট না করে, যা পেছনে কিছুই রেখে যায় না। কৃতজ্ঞতা সবচেয়ে বেশি কাজে আসে ঠিক সেখানেই, যেখানে কৃতজ্ঞ হওয়া সবচেয়ে কঠিন: টানাটানির মাসে, অসুখে, কিছু হারানোর পরে। সেখানেই বাড়িয়ে দেওয়ার প্রতিশ্রুতি আর শুধু শুনতে ভালো লাগার কথা থাকে না, সত্যিই কাজে লাগতে শুরু করে।"
           }
         ]
       }
@@ -297,7 +297,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari gives two senses of al-zalimin. They are those who wronged themselves, bringing Allah's punishment on themselves by their disbelief. It may also be, he says, that they were called wrongdoers for worshipping idols and gods that may not be worshipped: putting worship where it does not belong is a wrong, and they were named for it. As-Sa'di adds only that the destruction came by various kinds of punishment. What follows the destruction, the promise in 14:14 to settle the believers in the land after them, is that verse's own subject.",
-            "bn": "তাবারী আয-যালিমীন শব্দের দুটি অর্থ দেন। তারা নিজেদের উপর যুলম করেছে, কুফরের কারণে নিজেদের উপর আল্লাহর শাস্তি অবধারিত করেছে। আবার এমনও হতে পারে, তাঁর মতে, মূর্তি আর উপাস্যদের পূজা করার কারণেই তাদের যালিম বলা হয়েছে, যাদের ইবাদত বৈধ নয়। ইবাদতকে তার জায়গার বাইরে রাখাই যুলম, আর সে নামেই তাদের ডাকা হয়েছে। সা'দী শুধু যোগ করেন, ধ্বংস এসেছিল নানা রকম শাস্তির মাধ্যমে। ধ্বংসের পরে কী, অর্থাৎ ১৪:১৪ আয়াতে মু'মিনদের তাদের পরে দেশে বসবাস করানোর প্রতিশ্রুতি, সেটা ওই আয়াতেরই আলোচ্য বিষয়।"
+            "bn": "তাবারী আয-যালিমীন শব্দের দুটি অর্থ দেন। তারা নিজেদের উপর যুলম করেছে, কুফরের কারণে নিজেদের উপর আল্লাহর শাস্তি অবধারিত করেছে। আবার তাঁর মতে এমনও হতে পারে যে তাদের যালিম বলা হয়েছে মূর্তি আর এমন সব উপাস্যের পূজা করার কারণে, যাদের ইবাদত করা বৈধ নয়। ইবাদতকে তার জায়গার বাইরে রাখাই যুলম, আর সে নামেই তাদের ডাকা হয়েছে। সা'দী শুধু যোগ করেন, ধ্বংস এসেছিল নানা রকম শাস্তির মাধ্যমে। ধ্বংসের পরে কী, অর্থাৎ ১৪:১৪ আয়াতে মু'মিনদের তাদের পরে দেশে বসবাস করানোর প্রতিশ্রুতি, সেটা ওই আয়াতেরই আলোচ্য বিষয়।"
           }
         ]
       },
@@ -488,32 +488,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question That Draws a Picture",
-          "bn": "একটি প্রশ্ন যা ছবি আঁকে"
+          "bn": "প্রশ্ন দিয়ে আঁকা ছবি"
         },
         "p": [
           {
             "en": "The passage begins with a question: have you not seen how Allah sets forth a parable? A good word is like a good tree — its root firm, its branches in the sky, giving its fruit all the time by the permission of its Lord. Surah Ibrahim keeps returning to what messengers say and what their peoples say back to them, so a parable about words sits at the surah's own centre of gravity. Speech, it insists, is not passing air; it is a living thing that either has roots or does not.",
-            "bn": "অনুচ্ছেদটি শুরু হয় একটি প্রশ্ন দিয়ে: তুমি কি দেখোনি আল্লাহ কীভাবে উপমা পেশ করেন? সৎ বাণী এক ভালো গাছের মতো — তার শিকড় দৃঢ়, তার শাখা আকাশে, তার প্রভুর অনুমতিতে সব সময় ফল দেয়। সূরা ইবরাহীম বারবার ফিরে আসে রাসূলগণ কী বলেন আর তাঁদের জাতিরা পাল্টা কী বলে সেই প্রসঙ্গে; তাই বাণী নিয়ে একটি উপমা সূরাটির নিজস্ব ভরকেন্দ্রেই বসে আছে। এর জোর দাবি: কথা উড়ে যাওয়া বাতাস নয়; কথা এক জীবন্ত জিনিস — হয় তার শিকড় আছে, নয়তো নেই।"
+            "bn": "অংশটি শুরু হয় একটা প্রশ্ন দিয়ে: তুমি কি দেখোনি, আল্লাহ কেমন উপমা দিয়েছেন? উত্তম কথা একটি উত্তম গাছের মতো। তার শিকড় মজবুত, শাখা আকাশে, আর রবের অনুমতিতে সে সব সময় ফল দেয়। সূরা ইবরাহীম বারবার একই প্রসঙ্গে ফিরে আসে: রাসূলরা কী বলেন, আর তাঁদের কওম জবাবে কী বলে। তাই কথা নিয়ে একটি উপমা বসে আছে সূরাটির একেবারে কেন্দ্রে। সূরাটি জোর দিয়ে বলে, কথা উড়ে যাওয়া বাতাস নয়। কথা জীবন্ত জিনিস: হয় তার শিকড় আছে, নয়তো নেই।"
           },
           {
             "en": "Each phrase carries weight. Asluha thabit — thabit is an active participle, describing a root that goes on holding, not an act that happens once and passes. Far'uha fis-sama' — its branch is in the sky, so the tree is fed from what falls from above as well as from what lies below. And the fruit comes kulla hin, at every time, yet only bi-idhni rabbiha, by the permission of its Lord: the usefulness is constant, but it is never self-made.",
-            "bn": "প্রতিটি শব্দগুচ্ছ ওজন বহন করে। আসলুহা সাবিত — সাবিত একটি কর্তৃবাচক বিশেষণপদ (ইসমুল ফাইল), যা বর্ণনা করে এমন শিকড় যা ধরে রাখতেই থাকে; এটি একবার ঘটে চলে যাওয়া কোনো কাজ নয়। ফারউহা ফিস-সামা — তার শাখা আকাশে, তাই গাছটি নিচে যা আছে তার পাশাপাশি উপর থেকে যা নামে তা থেকেও পুষ্টি পায়। আর ফল আসে কুল্লা হীন, প্রতিটি সময়ে, তবু কেবল বি-ইযনি রাব্বিহা, তার প্রভুর অনুমতিতে: উপকার অবিরাম, কিন্তু তা কখনোই স্বয়ংসৃষ্ট নয়।"
+            "bn": "প্রতিটি শব্দের আলাদা ওজন আছে। আসলুহা সাবিত: সাবিত হলো ইসমুল ফাইল, অর্থাৎ কর্তাবাচক রূপ। তাই শব্দটি এমন শিকড়ের কথা বলে, যা ধরে রেখেই চলেছে; একবার ঘটে শেষ হয়ে যাওয়া কোনো কাজের কথা নয়। ফারউহা ফিস-সামা: তার শাখা আকাশে। তাই গাছটি পুষ্টি পায় নিচের মাটি থেকেও, ওপর থেকে যা নামে তা থেকেও। আর ফল আসে কুল্লা হীন, সব সময়, তবু কেবল বি-ইযনি রাব্বিহা, তার রবের অনুমতিতে। উপকার কখনো থামে না, কিন্তু তা কখনো নিজে নিজে তৈরি হয় না।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Good Word Is",
-          "bn": "সৎ বাণীটি কী"
+          "bn": "উত্তম কথা কোনটি"
         },
         "p": [
           {
             "en": "The early commentators, as al-Tabari and Ibn Kathir relate, read the good word first of all as the word of tawhid — la ilaha illallah — and the good tree as the believer, or as the date palm. Al-Bukhari narrates from Ibn Umar (RA) that the Prophet ﷺ once asked his companions about a tree whose leaves do not fall and which is like the Muslim; the people's minds went to the trees of the desert, and then he told them, \"It is the date palm.\"",
-            "bn": "প্রাথমিক যুগের মুফাসসিরগণ — আত-তাবারী ও ইবনে কাসীর যেমন বর্ণনা করেন — সৎ বাণীকে সর্বপ্রথম পড়েছেন তাওহীদের কালিমা হিসেবে — লা ইলাহা ইল্লাল্লাহ — আর ভালো গাছটিকে মুমিন হিসেবে, অথবা খেজুর গাছ হিসেবে। আল-বুখারী ইবনে উমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ একবার সাহাবীদের এমন এক গাছের কথা জিজ্ঞেস করলেন যার পাতা ঝরে না এবং যা মুসলিমের মতো; লোকদের মন চলে গেল মরুভূমির গাছগুলোর দিকে, তারপর তিনি তাদের বললেন, \"সেটি খেজুর গাছ।\""
+            "bn": "আত-তাবারী ও ইবনে কাসীরের বর্ণনা অনুযায়ী, প্রথম যুগের মুফাসসিররা উত্তম কথা বলতে সবার আগে বুঝেছেন তাওহীদের কালিমা, লা ইলাহা ইল্লাল্লাহ। আর উত্তম গাছ বলতে বুঝেছেন মুমিনকে, কিংবা খেজুর গাছকে। আল-বুখারী ইবনে উমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ একবার সাহাবীদের এমন এক গাছের কথা জিজ্ঞেস করলেন, যার পাতা ঝরে না এবং যা মুসলিমের মতো। সবার মন চলে গেল মরুভূমির নানা গাছের দিকে। তারপর তিনি বললেন, \"সেটা খেজুর গাছ।\""
           },
           {
             "en": "The parable widens naturally from there. Every truthful, wholesome word — the testimony of faith, dhikr, honest counsel, kind and healing speech — shares the same shape: hidden roots in a sound heart, a visible reach upward, and fruit that other people eat season after season. The one who plants such a word rarely sees how far its benefit travels, just as a tree does not watch who gathers from its branches or where the seeds of its fruit are carried.",
-            "bn": "সেখান থেকে উপমাটি স্বাভাবিকভাবে প্রশস্ত হয়। প্রতিটি সত্য, কল্যাণময় কথা — ঈমানের সাক্ষ্য, যিকর, সৎ পরামর্শ, সদয় ও উপশমকারী কথা — একই আকৃতি বহন করে: সুস্থ অন্তরে লুকানো শিকড়, ঊর্ধ্বমুখী দৃশ্যমান বিস্তার, আর এমন ফল যা অন্য মানুষেরা মৌসুমের পর মৌসুম খেতে থাকে। এমন কথা যে রোপণ করে সে কদাচিৎ দেখতে পায় তার উপকার কত দূর পৌঁছায় — যেমন একটি গাছও দেখে না কে তার ডাল থেকে ফল কুড়ায় বা তার ফলের বীজ কোথায় বাহিত হয়।"
+            "bn": "উপমাটি সেখান থেকে স্বাভাবিকভাবেই আরও বড় হয়ে যায়। প্রতিটি সত্য ও কল্যাণের কথার গড়ন একই রকম: ঈমানের সাক্ষ্য, জিকির, সৎ পরামর্শ, দরদ আর সান্ত্বনার কথা। এর শিকড় লুকিয়ে থাকে সুস্থ অন্তরে, এর বিস্তার চোখে পড়ে ওপরের দিকে, আর এর ফল অন্য মানুষ খেতে থাকে মৌসুমের পর মৌসুম। এমন কথা যিনি বোনেন, তিনি খুব কমই দেখতে পান এর উপকার কত দূর গেল। গাছও তো দেখে না, কে তার ডাল থেকে ফল পাড়ল, বা তার ফলের বীজ কোথায় গিয়ে পড়ল।"
           }
         ]
       },
@@ -525,11 +525,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The contrast in 14:26 is exact: a bad word is like a bad tree, uprooted from above the surface of the earth, having no stability. The verb ijtuththat is passive — the tree did not simply fall, it was torn out — and min fawqil-ard adds that even what showed above ground is gone. The Quran does not name this tree, and the parable does not need it named: everything that defines it is already said in the fact that nothing anchors it.",
-            "bn": "14:26 আয়াতের বৈপরীত্য নিখুঁত: মন্দ বাণী এক মন্দ গাছের মতো, ভূপৃষ্ঠের ওপর থেকে উপড়ে ফেলা, যার কোনো স্থিতি নেই। ক্রিয়াপদ ইজতুস্‌সাত কর্মবাচ্যে — গাছটি এমনি পড়ে যায়নি, তাকে ছিঁড়ে তোলা হয়েছে — আর মিন ফাওকিল-আরদ যোগ করে যে মাটির ওপরে যা দেখা যেত তাও আর নেই। কুরআন এই গাছের নাম বলে না, আর উপমার তা বলার দরকারও নেই: যা কিছু একে সংজ্ঞায়িত করে তার সবটাই বলা হয়ে গেছে এই একটি তথ্যে — কোনো কিছুই একে ধরে রাখে না।"
+            "bn": "১৪:২৬ আয়াতের বৈপরীত্যটা একেবারে মাপা: মন্দ কথা একটি মন্দ গাছের মতো, যাকে মাটির ওপর থেকে উপড়ে ফেলা হয়েছে, যার কোনো স্থিরতা নেই। ক্রিয়াটি, ইজতুসসাত, কর্মবাচ্যে। গাছটি এমনি পড়ে যায়নি, তাকে টেনে ছিঁড়ে তোলা হয়েছে। আর মিন ফাওকিল-আরদ বলে দেয়, মাটির ওপরে যা দেখা যেত, তাও আর নেই। কুরআন এ গাছের নাম বলে না, উপমার জন্য নামের দরকারও নেই। গাছটিকে চেনাতে যা লাগে, তার সবই বলা হয়ে গেছে একটি কথায়: কোনো কিছুই তাকে ধরে রাখে না।"
           },
           {
             "en": "Falsehood can look leafy for a season. Shirk had its temples, slander travels fast, and a fashionable lie can shade a whole generation. The parable concedes the appearance and denies the root: ma laha min qarar — it has no place of settling. When the wind of trial arrives, the good tree bends and holds because it is held from below; the other is already lying on the surface of a ground it never truly entered.",
-            "bn": "মিথ্যা এক মৌসুমের জন্য পাতাভরা দেখাতে পারে। শিরকের ছিল মন্দির, অপবাদ ছড়ায় দ্রুত, আর একটি হাল-ফ্যাশনের মিথ্যা গোটা এক প্রজন্মকে ছায়া দিতে পারে। উপমাটি এই বাহ্যিক চেহারা মেনে নেয়, কিন্তু শিকড় অস্বীকার করে: মা লাহা মিন কারার — তার থিতু হওয়ার কোনো জায়গা নেই। পরীক্ষার ঝড় যখন আসে, ভালো গাছ নুয়ে পড়েও টিকে থাকে, কারণ নিচ থেকে কিছু তাকে ধরে রেখেছে; অন্যটি ততক্ষণে সেই মাটির ওপরে শুয়ে আছে, যার ভেতরে সে আসলে কখনো ঢোকেইনি।"
+            "bn": "মিথ্যাও কিছুদিন পাতায় ভরা দেখাতে পারে। শিরকেরও মন্দির ছিল, অপবাদ দ্রুত ছড়ায়, আর চলতি হাওয়ার একটা মিথ্যা গোটা একটা প্রজন্মকে ছায়ায় ঢেকে রাখতে পারে। উপমাটি এই বাইরের চেহারা মেনে নেয়, কিন্তু শিকড়ের কথা মানে না: মা লাহা মিন কারার, তার থিতু হওয়ার কোনো জায়গা নেই। পরীক্ষার ঝড় এলে উত্তম গাছ নুয়ে পড়ে, তবু টিকে থাকে, কারণ নিচ থেকে কিছু একটা তাকে ধরে রেখেছে। আর অন্যটি ততক্ষণে মাটির ওপর পড়ে আছে, যে মাটির ভেতরে সে কখনো সত্যিই ঢোকেনি।"
           }
         ]
       },
@@ -541,23 +541,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse that follows completes the parable's promise: in 14:27 Allah keeps firm those who believe, with the firm word, in the life of this world and in the Hereafter. Al-Bukhari narrates from al-Bara' ibn 'Azib (RA) that the Prophet ﷺ explained this steadying to include the questioning in the grave, when the believer testifies that there is no god but Allah and that Muhammad ﷺ is His messenger — and that this is what the verse means.",
-            "bn": "পরের আয়াতটি উপমার প্রতিশ্রুতি সম্পূর্ণ করে: 14:27 আয়াতে আল্লাহ মুমিনদের সুদৃঢ় বাণী দিয়ে দৃঢ়পদ রাখেন — দুনিয়ার জীবনে এবং আখিরাতে। আল-বুখারী আল-বারা ইবনে আযিব (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ ব্যাখ্যা করেছেন এই দৃঢ়পদ রাখা কবরের প্রশ্নোত্তরকেও অন্তর্ভুক্ত করে — যখন মুমিন সাক্ষ্য দেয় যে আল্লাহ ছাড়া কোনো ইলাহ নেই এবং মুহাম্মাদ ﷺ তাঁর রাসূল — আর এটিই এই আয়াতের অর্থ।"
+            "bn": "পরের আয়াত উপমার প্রতিশ্রুতিটা পূর্ণ করে। ১৪:২৭ আয়াতে আল্লাহ মুমিনদের সুদৃঢ় বাণী দিয়ে অবিচল রাখেন, দুনিয়ার জীবনেও, আখিরাতেও। আল-বুখারী আল-বারা ইবনে আযিব (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বুঝিয়ে দিয়েছেন যে এই অবিচল রাখার মধ্যে কবরের সওয়াল-জবাবও পড়ে, যখন মুমিন সাক্ষ্য দেয়, আল্লাহ ছাড়া কোনো ইলাহ নেই এবং মুহাম্মাদ ﷺ তাঁর রাসূল। তিনি এও বলেছেন, এটাই এই আয়াতের অর্থ।"
           },
           {
             "en": "This is the parable's deepest layer. The word planted in this life is the same word by which its speaker stands when everything else has been taken away — wealth, family, even the tongue's own strength. A tree with a firm root survives the changing seasons because what holds it is out of the weather's reach; a heart rooted in tawhid survives the one question that no one can rehearse for, except by having lived its answer.",
-            "bn": "এটিই উপমার গভীরতম স্তর। এই জীবনে রোপণ করা বাণীটিই সেই বাণী, যার ওপর ভর করে তার বক্তা দাঁড়িয়ে থাকে যখন বাকি সবকিছু কেড়ে নেওয়া হয়েছে — সম্পদ, পরিবার, এমনকি জিহ্বার নিজের শক্তিটুকুও। দৃঢ় শিকড়ের গাছ ঋতুবদল পার হয়ে টিকে থাকে, কারণ যা তাকে ধরে রাখে তা আবহাওয়ার নাগালের বাইরে; তেমনি তাওহীদে শিকড় গাড়া হৃদয় পার হয়ে যায় সেই একটি প্রশ্ন, যার মহড়া কেউ দিতে পারে না — উত্তরটি যাপন করা ছাড়া।"
+            "bn": "এটাই উপমার সবচেয়ে গভীর স্তর। এ জীবনে যে কথা বোনা হয়, সেই কথাতেই ভর করে বক্তা দাঁড়িয়ে থাকে, যখন বাকি সব কেড়ে নেওয়া হয়েছে: সম্পদ, পরিবার, এমনকি জিহ্বার নিজের জোরটুকুও। মজবুত শিকড়ের গাছ ঋতুর পর ঋতু টিকে থাকে, কারণ যা তাকে ধরে রেখেছে, আবহাওয়া তার নাগাল পায় না। তাওহীদে শিকড় গাড়া অন্তরও তেমনি পার হয়ে যায় সেই একটি প্রশ্ন, যার মহড়া কেউ দিতে পারে না। একমাত্র প্রস্তুতি হলো, জীবনভর উত্তরটা নিয়েই বাঁচা।"
           }
         ]
       },
       {
         "h": {
           "en": "Planting and Weeding",
-          "bn": "রোপণ ও আগাছা পরিষ্কার"
+          "bn": "বীজ বোনা, আগাছা তোলা"
         },
         "p": [
           {
             "en": "Lived plainly, the parable becomes a daily audit of speech. Words of dhikr, teaching, truthful witness and gentle counsel are seeds with long lives; a believer can plant them in a child, a class, a conversation, a message, and the fruit keeps returning kulla hin — long after the words have been forgotten by the one who said them. The surah's own model is Ibrahim (AS), whose prayer in 14:40 asks that the establishing of prayer continue in his descendants after him.",
-            "bn": "সাদামাটাভাবে যাপন করলে উপমাটি হয়ে ওঠে কথার এক দৈনিক হিসাব-নিরীক্ষা। যিকরের কথা, শিক্ষাদান, সত্য সাক্ষ্য ও কোমল পরামর্শ — এগুলো দীর্ঘজীবী বীজ; একজন মুমিন সেগুলো রোপণ করতে পারে একটি শিশুতে, একটি ক্লাসে, একটি কথোপকথনে, একটি বার্তায়, আর ফল ফিরে আসতে থাকে কুল্লা হীন — বক্তা নিজে কথাগুলো ভুলে যাওয়ার বহু পরেও। সূরাটির নিজের আদর্শ ইবরাহীম (আঃ), যাঁর দোয়া 14:40 আয়াতে চায় — নামায কায়েম করা যেন তাঁর পরে তাঁর বংশধরদের মধ্যেও চলতে থাকে।"
+            "bn": "সহজ করে জীবনে নামালে উপমাটি হয়ে যায় প্রতিদিন নিজের কথার হিসাব নেওয়া। জিকির, শেখানো, সত্য সাক্ষ্য আর নরম সুরে দেওয়া পরামর্শ, এসব কথা দীর্ঘজীবী বীজ। মুমিন এ বীজ বুনতে পারেন কোনো শিশুর মনে, কোনো ক্লাসে, কোনো আলাপে, কোনো বার্তায়। আর তার ফল ফিরে ফিরে আসে কুল্লা হীন, সব সময়, যিনি বলেছিলেন তিনি নিজে কথাগুলো ভুলে যাওয়ার অনেক পরেও। সূরাটির নিজের আদর্শ ইবরাহীম (আঃ)। ১৪:৪০ আয়াতে তাঁর দোয়া, তাঁর পরে তাঁর বংশধরদের মধ্যেও যেন নামাজ কায়েম থাকে।"
           },
           {
             "en": "The other half of the work is weeding: refusing to pass on the unrooted word — the rumour, the mockery, the confident falsehood. Such speech costs nothing to repeat and nothing to fell, but it can crush whatever it lands on. Whoever keeps the tongue for words with roots is building, in the language of 14:27 itself, the very firmness by which Allah steadies His servant in this world and after death.",
