@@ -12,7 +12,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## Usage at last check (2026-10-16, PAUSED by user "continue tomorrow, new session"): BUDGET [claude-max] 5h 76% (resets Sat 17 Oct, 00:10) | 7d 54% (resets Mon 19 Oct, 16:00) | data 0 min old | context 82%. Next: RESUME block below (Bengali Tadabbur review, 38 shards left). v981-v999 committed, NOT pushed/deployed.
+## Usage at last check (2026-10-16, PAUSED by user "continue tomorrow, new session"): BUDGET [claude-max] 5h 76% (resets Sat 17 Oct, 00:10) | 7d 54% (resets Mon 19 Oct, 16:00) | data 0 min old | context 82%. Next: RESUME block below (Bengali Tadabbur review, 38 shards left). v981-v999 pushed and deployed (live lq-v999, 2026-10-16).
 
 ## RESUME HERE (2026-10-16 pause): Bengali review of Tadabbur articles, 76 of 114 shards done (v999)
 - Left (shard/packets, 78 packets): 101/1 105/1 106/1 108/1 109/1 111/1 113/1 114/1 37/8 38/5 43/4 44/3 48/2 52/3 54/3 56/4 64/1 68/3 69/3 70/2 71/2 72/2 74/3 75/2 77/2 78/2 79/3 80/2 82/1 83/2 85/1 86/1 88/1 90/1 94/1 95/1 97/1 99/1. (88 and 90 are already extracted, not reviewed; re-extract is fine.)
