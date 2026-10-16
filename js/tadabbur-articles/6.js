@@ -1129,7 +1129,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi handles the obvious question, which is how a prophet can be said not to know the unseen when the Quran reports things no man could have known. The distinction the commentators draw is between knowing of oneself and being informed, and 72:26-27 states it: He is the Knower of the unseen and does not disclose His unseen to anyone except a messenger whom He has approved. And the three denials are a list rather than a summary because each of them answers a separate demand that had actually been made of him.",
-            "bn": "কুরতুবী সামলান স্পষ্ট প্রশ্নটিই, নবী গায়েব জানেন না বলা হয় কীভাবে, যেখানে কুরআন এমন সব খবর দেয় যা কোনো মানুষের জানার কথা নয়। মুফাসসিররা যে পার্থক্য টানেন তা নিজে থেকে জানা আর জানিয়ে দেওয়া হওয়ার মধ্যে, আর ৭২:২৬ ও ৭২:২৭ আয়াত কথাটা বলেই দেয়: তিনিই গায়েবের জ্ঞানী, আর তিনি তাঁর গায়েবের জ্ঞান কারও কাছে প্রকাশ করেন না, তাঁর মনোনীত রসূল ছাড়া। আর তিনটি অস্বীকার গুটিয়ে না বলে একটার পর একটা সাজিয়ে বলা হয়েছে এ কারণেই যে প্রত্যেকটি তাঁর কাছে সত্যিই করা আলাদা একেকটি দাবির জবাব।"
+            "bn": "স্বাভাবিকভাবে যে প্রশ্নটা মনে আসে, কুরতুবী তার জবাব দেন: কুরআন তো এমন সব খবর দেয় যা কোনো মানুষের জানার কথা নয়, তাহলে নবী গায়েব জানেন না, এ কথা কীভাবে বলা যায়? মুফাসসিররা এখানে দুটো জিনিস আলাদা করেন: নিজে থেকে জানা, আর আল্লাহ জানিয়ে দিলে জানা। ৭২:২৬ ও ৭২:২৭ আয়াত কথাটা বলেই দেয়: তিনিই গায়েব জানেন, আর তাঁর পছন্দ করা রাসূল ছাড়া কারও কাছে তিনি তাঁর গায়েব প্রকাশ করেন না। আর তিনটি অস্বীকার একসঙ্গে গুটিয়ে না বলে আলাদা আলাদা করে বলা হয়েছে, কারণ প্রত্যেকটি তাঁর কাছে সত্যিই তোলা একেকটি আলাদা দাবির জবাব।"
           }
         ]
       },
@@ -1173,7 +1173,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "7:188 gives the argument from self-interest: had he known the unseen he would have secured much good and no harm would have reached him, which anyone watching his life could check. 17:93 gives the shortest form of the whole reply, exalted is my Lord, was I ever anything but a human messenger. 27:65 states the rule without exception, that none in the heavens and the earth knows the unseen except Allah. Each of them removes a different way of misunderstanding what a prophet is.",
-            "bn": "৭:১৮৮ আয়াত যুক্তিটা দেয় স্বার্থের দিক থেকে: তিনি গায়েব জানলে অনেক কল্যাণ গুছিয়ে নিতেন আর কোনো অকল্যাণ তাঁর কাছে পৌঁছাত না, আর তাঁর জীবন যে দেখেছে সে-ই এটি মিলিয়ে নিতে পারত। ১৭:৯৩ আয়াত গোটা জবাবের সবচেয়ে ছোট রূপ দেয়, আমার রব মহান, আমি একজন মানুষ রসূল ছাড়া কি কখনো কিছু ছিলাম। ২৭:৬৫ আয়াত নিয়মটি বলে ব্যতিক্রম ছাড়া, আসমান ও যমীনে আল্লাহ ছাড়া কেউ গায়েব জানে না। প্রত্যেকটি আয়াত নবী মানে কী, তা ভুল বোঝার একেকটি পথ বন্ধ করে দেয়।"
+            "bn": "৭:১৮৮ আয়াত যুক্তিটা দেয় নিজের লাভ-ক্ষতির দিক থেকে: তিনি গায়েব জানলে অনেক কল্যাণ গুছিয়ে নিতেন আর কোনো অকল্যাণ তাঁকে ছুঁতে পারত না। তাঁর জীবন যে-ই দেখেছে, সে-ই এটা মিলিয়ে নিতে পারত। ১৭:৯৩ আয়াতে পুরো জবাবটা সবচেয়ে ছোট আকারে: আমার রব পবিত্র! আমি কি একজন মানুষ, একজন রাসূল ছাড়া আর কিছু? ২৭:৬৫ আয়াত নিয়মটা বলে কোনো ব্যতিক্রম না রেখে: আসমান ও যমীনে আল্লাহ ছাড়া কেউ গায়েব জানে না। প্রত্যেকটি আয়াত নবী কী, তা ভুল বোঝার একেকটি পথ বন্ধ করে দেয়।"
           },
           {
             "en": "6:59, later in this surah, says that the keys of the unseen are with Allah and none knows them but He, which is the positive statement of what 6:50 denies. And the closing question here has its answer drawn out at 6:122, where the one who was dead and was given life and a light to walk by among people is set against the one in darkness who never comes out. The blind and the seeing in our verse are not two levels of intelligence. They are two positions with respect to revelation.",
@@ -1241,11 +1241,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse belongs to a passage about a specific kind of pressure. Muslim relates from Sa'd ibn Abi Waqqas (RA) that he was one of a small group of poor Muslims around the Prophet ﷺ whom the leading men of Quraysh wanted removed from his gathering before they would sit in it. The answer came in 6:52 as a prohibition: do not send away those who call upon their Lord morning and evening seeking His countenance.",
-            "bn": "এই আয়াতটি এমন একটি অনুচ্ছেদের অংশ যা একধরনের নির্দিষ্ট চাপ নিয়ে কথা বলে। মুসলিম সা'দ ইবনে আবী ওয়াক্কাস (রাঃ) থেকে বর্ণনা করেন যে, তিনি নবী ﷺ-এর আশপাশের সেই ছোট দরিদ্র মুসলিম দলটির একজন ছিলেন, যাদের কুরাইশের নেতারা মজলিস থেকে সরানোর দাবি করেছিল — নইলে তারা সেখানে বসবে না। জবাব আসে 6:52 আয়াতে একটি নিষেধাজ্ঞা হিসেবে: যারা সকাল-সন্ধ্যায় তাদের প্রতিপালকের সন্তুষ্টি চেয়ে তাঁকে ডাকে, তাদের দূরে সরিয়ে দিও না।"
+            "bn": "আয়াতটি যে অংশের, তার বিষয় এক বিশেষ ধরনের চাপ। ইমাম মুসলিম সা'দ ইবনে আবী ওয়াক্কাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ-এর আশপাশে থাকা গরিব মুসলিমদের ছোট একটি দলে তিনিও ছিলেন। কুরাইশের নেতারা চাইত, এদের মজলিস থেকে সরিয়ে দেওয়া হোক, তবেই তারা সেখানে এসে বসবে। জবাব এল ৬:৫২ আয়াতে, সরাসরি নিষেধ হয়ে: যারা সকাল-সন্ধ্যা নিজেদের রবের সন্তুষ্টি চেয়ে তাঁকে ডাকে, তাদের তাড়িয়ে দিয়ো না।"
           },
           {
             "en": "Then 6:53 explains that some are tried through others, so that the comfortable ask whether these are the ones Allah has favoured among us. Our verse is the positive half of the same answer. It is not enough that the poor believers are not driven off. When they come, the Prophet ﷺ is instructed to speak first, and to speak peace: say, peace be upon you. The men whose presence was treated as a problem are met with a greeting.",
-            "bn": "এরপর 6:53 ব্যাখ্যা করে যে, কাউকে কারও মাধ্যমে পরীক্ষা করা হয়, যাতে সচ্ছল লোকেরা বলে — আমাদের মধ্যে এদেরকেই কি আল্লাহ অনুগ্রহ করেছেন? আমাদের আয়াতটি সেই একই জবাবের ইতিবাচক অর্ধেক। দরিদ্র মুমিনদের কেবল না তাড়ানোই যথেষ্ট নয়। তারা যখন আসে, নবী ﷺ-কে নির্দেশ দেওয়া হয় আগে কথা বলতে, আর শান্তির কথা বলতে: বলো, তোমাদের প্রতি সালাম। যাদের উপস্থিতিকে সমস্যা হিসেবে দেখা হচ্ছিল, তাদের সঙ্গে দেখা হয় অভিবাদন দিয়ে।"
+            "bn": "এরপর ৬:৫৩ আয়াত জানায়, আল্লাহ কিছু মানুষকে অন্যদের দিয়ে পরীক্ষা করেন, যাতে সচ্ছল লোকেরা বলে: আমাদের মধ্যে কি এদেরকেই আল্লাহ অনুগ্রহ করলেন? আমাদের আয়াত সেই একই জবাবের ইতিবাচক দিক। গরিব মুমিনদের তাড়িয়ে না দিলেই দায় শেষ হয় না। তারা এলে নবী ﷺ-কে হুকুম দেওয়া হয়েছে আগে নিজে কথা বলতে, আর সে কথা হবে শান্তির: বলো, তোমাদের প্রতি সালাম। যাদের উপস্থিতিকেই সমস্যা ভাবা হচ্ছিল, তাদের বরণ করা হলো সালাম দিয়ে।"
           }
         ]
       },
@@ -1257,11 +1257,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The heart of the verse is kataba rabbukum ala nafsihi ar-rahmah — your Lord has written mercy upon Himself. Kataba is the ordinary verb for writing, and by extension for prescribing something as binding. The statement occurs twice in the Quran, here and earlier in the same surah at 6:12, where it reads kataba ala nafsihi ar-rahmah without rabbukum; and nowhere else does Allah say that He has written something upon Himself. No one imposed this. It is an obligation He placed on His own side of the relationship.",
-            "bn": "আয়াতের কেন্দ্র হলো 'কাতাবা রাব্বুকুম আলা নাফসিহির রাহমাহ' — তোমাদের প্রতিপালক নিজের ওপর রহমত লিখে নিয়েছেন। 'কাতাবা' হলো লেখার সাধারণ ক্রিয়াপদ, আর সেখান থেকে কোনো কিছুকে অবধারিত করে দেওয়ার অর্থে ব্যবহৃত হয়। কথাটি কুরআনে দুবার আসে — এখানে, আর এই সূরারই আগের অংশে 6:12 আয়াতে, যেখানে তা আসে 'কাতাবা আলা নাফসিহির রাহমাহ' রূপে, 'রাব্বুকুম' ছাড়া; আর অন্য কোথাও আল্লাহ বলেননি যে তিনি নিজের ওপর কিছু লিখে নিয়েছেন। কেউ এটি তাঁর ওপর চাপায়নি। এটি এমন এক দায়, যা তিনি সম্পর্কের নিজের দিকটিতে নিজেই রেখেছেন।"
+            "bn": "আয়াতের প্রাণ এই কথাটি: কাতাবা রাব্বুকুম আলা নাফসিহির রাহমাহ, তোমাদের রব নিজের ওপর রহমত লিখে নিয়েছেন। কাতাবা লেখার সাধারণ ক্রিয়া; সেখান থেকে এর মানে দাঁড়ায় কোনো কিছুকে অবশ্যপালনীয় করে দেওয়া। কথাটি কুরআনে আসে দুবার। একবার এখানে, আরেকবার এই সূরারই আগে ৬:১২ আয়াতে, সেখানে রাব্বুকুম ছাড়া, শুধু কাতাবা আলা নাফসিহির রাহমাহ। এ ছাড়া আর কোথাও আল্লাহ বলেননি যে তিনি নিজের ওপর কিছু লিখে নিয়েছেন। কেউ তাঁর ওপর এটা চাপিয়ে দেয়নি। সম্পর্কের নিজের দিকে এ দায় তিনি নিজেই নিয়েছেন।"
           },
           {
             "en": "Al-Bukhari relates from Abu Hurayrah (RA) that when Allah decreed the creation He wrote in a Book with Him above the Throne that His mercy prevails over His wrath. The hadith uses the same verb the verse uses. Ibn Kathir brings the two together at this point, and the effect is to make mercy something recorded rather than something hoped for. It is not a mood that Allah may or may not be in when a servant arrives.",
-            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন যে, আল্লাহ যখন সৃষ্টির ফয়সালা করলেন, তখন তিনি আরশের ওপর তাঁর কাছে রক্ষিত এক কিতাবে লিখলেন যে তাঁর রহমত তাঁর ক্রোধকে ছাপিয়ে যায়। হাদীসটি সেই একই ক্রিয়াপদ ব্যবহার করে যা আয়াতটি ব্যবহার করেছে। ইবনে কাসীর এখানে দুটিকে পাশাপাশি আনেন, আর তার ফল হলো — রহমত আশা করার মতো কিছু নয়, লিপিবদ্ধ করা কিছু। বান্দা যখন এসে দাঁড়ায় তখন আল্লাহ কোন মেজাজে আছেন, রহমত সেই মেজাজ নয়।"
+            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, আল্লাহ যখন সৃষ্টির ফয়সালা করলেন, তখন আরশের ওপর তাঁর কাছে রাখা এক কিতাবে লিখে দিলেন যে তাঁর রহমত তাঁর গজবকে ছাপিয়ে যায়। হাদিসটিতেও আয়াতের সেই একই ক্রিয়া, লেখা। ইবনে কাসীর এখানে দুটিকে পাশাপাশি রাখেন। ফলে রহমত আর শুধু আশার বিষয় থাকে না, হয়ে যায় লিখে রাখা বিষয়। রহমত এমন কোনো মেজাজ নয়, বান্দা এসে দাঁড়ালে আল্লাহ যে মেজাজে থাকতেও পারেন, না-ও পারেন।"
           }
         ]
       },
@@ -1273,7 +1273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two occurrences of the phrase are not identical, and the difference is worth noticing. At 6:12 the passage is an argument with those who deny: whose is whatever is in the heavens and the earth? Say, Allah's. He has written mercy upon Himself. Here at 6:54 the same statement is addressed to believers who have just walked in, and the word used is rabbukum, your Lord. The same fact is stated once as evidence against denial and once as a welcome.",
-            "bn": "বাক্যাংশটির দুটি উপস্থিতি হুবহু এক নয়, আর পার্থক্যটি লক্ষ করার মতো। 6:12 আয়াতে অনুচ্ছেদটি অস্বীকারকারীদের সঙ্গে একটি যুক্তিতর্ক: আসমান ও যমীনে যা কিছু আছে তা কার? বলো, আল্লাহর। তিনি নিজের ওপর রহমত লিখে নিয়েছেন। আর এখানে 6:54 আয়াতে একই কথা বলা হচ্ছে সদ্য এসে দাঁড়ানো মুমিনদের উদ্দেশে, আর ব্যবহৃত শব্দটি 'রাব্বুকুম' — তোমাদের রব। একই সত্য একবার অস্বীকারের বিরুদ্ধে প্রমাণ হিসেবে, আরেকবার অভ্যর্থনা হিসেবে বলা হয়েছে।"
+            "bn": "দুই জায়গার কথাটি হুবহু এক নয়, আর পার্থক্যটা খেয়াল করার মতো। ৬:১২ আয়াতের প্রসঙ্গ অস্বীকারকারীদের সঙ্গে যুক্তিতর্ক: আসমান ও যমীনে যা কিছু আছে তা কার? বলো, আল্লাহর। তিনি নিজের ওপর রহমত লিখে নিয়েছেন। আর এখানে ৬:৫৪ আয়াতে একই কথা বলা হচ্ছে সেই মুমিনদের, যারা সবে এসে পৌঁছেছে, আর শব্দটি রাব্বুকুম, তোমাদের রব। একই সত্য একবার এসেছে অস্বীকারের জবাবে প্রমাণ হয়ে, আরেকবার স্বাগত জানানোর ভাষা হয়ে।"
           }
         ]
       },
@@ -1285,11 +1285,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The terms follow: whoever among you does wrong bi-jahalatin, out of ignorance, then repents after that and puts things right. The obvious reading restricts the promise to people who did not know the ruling, which would exclude nearly everyone. The commentators do not read it that way. The reported view from the early authorities, which Ibn Kathir carries, is that anyone who disobeys Allah is acting in jahalah at that moment, whether or not he could recite the ruling from memory.",
-            "bn": "এরপর শর্তগুলো আসে: তোমাদের মধ্যে যে 'বিজাহালাতিন' — অজ্ঞতাবশত — অন্যায় করে, তারপর তওবা করে ও নিজেকে সংশোধন করে। বাহ্যিক পাঠ প্রতিশ্রুতিটিকে কেবল তাদের মধ্যে সীমাবদ্ধ করে যারা বিধানটি জানত না, আর তাতে প্রায় সবাই বাদ পড়ে যায়। মুফাসসিরগণ এভাবে পড়েন না। প্রাচীনদের কাছ থেকে বর্ণিত এবং ইবনে কাসীরের বহন করা মতটি হলো, যে-ই আল্লাহর অবাধ্য হয় সে সেই মুহূর্তে জাহালাতের মধ্যেই আছে — সে বিধানটি মুখস্থ বলতে পারুক বা না পারুক।"
+            "bn": "এরপর আসে শর্ত: তোমাদের মধ্যে কেউ যদি বিজাহালাতিন, অর্থাৎ অজ্ঞতাবশত, অন্যায় করে, তারপর তওবা করে আর নিজেকে শুধরে নেয়। ওপর ওপর পড়লে মনে হয়, প্রতিশ্রুতিটা শুধু তাদের জন্য, যারা বিধানটা জানত না। তাহলে তো প্রায় সবাই বাদ পড়ে যায়। মুফাসসিররা এভাবে পড়েন না। সালাফ থেকে বর্ণিত যে মত ইবনে কাসীর উল্লেখ করেছেন, তা হলো: যে-ই আল্লাহর নাফরমানি করে, সে ওই মুহূর্তে জাহালাতের মধ্যেই থাকে, বিধানটা সে মুখস্থ বলতে পারুক বা না পারুক।"
           },
           {
             "en": "The same phrase governs the promise in 4:17, where repentance accepted by Allah is said to be for those who do wrong in ignorance and then repent soon after. Read together, the two verses describe the ordinary sinner, not a rare category of the genuinely uninformed. Something in every act of disobedience is a failure of knowledge — a moment in which what is true about Allah stopped being present to the person doing it.",
-            "bn": "একই বাক্যাংশ 4:17 আয়াতের প্রতিশ্রুতিকেও নিয়ন্ত্রণ করে, যেখানে বলা হয়েছে আল্লাহর কাছে গৃহীত তওবা তাদেরই জন্য যারা অজ্ঞতাবশত অন্যায় করে, তারপর অল্প সময়ের মধ্যেই তওবা করে। একসঙ্গে পড়লে আয়াত দুটি সাধারণ পাপীকেই বর্ণনা করে, প্রকৃত অজ্ঞদের কোনো বিরল শ্রেণিকে নয়। প্রতিটি অবাধ্যতার ভেতরেই কিছু একটা জ্ঞানের ব্যর্থতা — এমন একটি মুহূর্ত যখন আল্লাহ সম্পর্কে যা সত্য তা কর্মকারীর সামনে আর উপস্থিত থাকে না।"
+            "bn": "৪:১৭ আয়াতের প্রতিশ্রুতিও এই একই শব্দের ওপর দাঁড়িয়ে। সেখানে বলা হয়েছে, আল্লাহ যাদের তওবা কবুল করেন তারা হলো যারা অজ্ঞতাবশত অন্যায় করে, তারপর দেরি না করে তওবা করে। দুটি আয়াত মিলিয়ে পড়লে বোঝা যায়, এখানে সাধারণ গুনাহগারের কথাই বলা হচ্ছে, সত্যিই কিছু না জানা বিরল কোনো দলের কথা নয়। প্রতিটি নাফরমানির ভেতরেই কোথাও জ্ঞানের একটা ঘাটতি থাকে। সেই মুহূর্তে আল্লাহ সম্পর্কে যা সত্য, তা মানুষটির মনে আর জেগে থাকে না।"
           }
         ]
       },
@@ -1301,11 +1301,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two verbs are required, not one: taba, he turned back, and aslaha, he put right. Islah is repair work. It is the difference between regretting a broken thing and mending it — returning what was taken, correcting what was said, changing the arrangement that made the wrong easy. A promise attached only to remorse would leave the damage standing. This one attaches to remorse and to the repair that follows it.",
-            "bn": "দুটি ক্রিয়াপদ দরকার, একটি নয়: 'তাবা' — সে ফিরে এলো, আর 'আসলাহা' — সে সংশোধন করল। ইসলাহ মানে মেরামতের কাজ। ভাঙা জিনিসের জন্য আফসোস করা আর সেটিকে জোড়া লাগানো — এ দুইয়ের পার্থক্যই এটি: যা নেওয়া হয়েছিল তা ফিরিয়ে দেওয়া, যা বলা হয়েছিল তা শুধরে নেওয়া, যে বন্দোবস্ত অন্যায়টিকে সহজ করেছিল তা বদলে ফেলা। কেবল অনুশোচনার সঙ্গে যুক্ত প্রতিশ্রুতি ক্ষতিটিকে দাঁড়িয়েই থাকতে দিত। এই প্রতিশ্রুতি অনুশোচনার সঙ্গে এবং তার পরের মেরামতের সঙ্গে যুক্ত।"
+            "bn": "শর্তে ক্রিয়া একটি নয়, দুটি: তাবা, সে ফিরে এল; আর আসলাহা, সে শুধরে নিল। ইসলাহ মানে মেরামত। ভাঙা জিনিসের জন্য আফসোস করা এক কথা, আর সেটা জোড়া লাগানো আরেক কথা। জোড়া লাগানো মানে যা নেওয়া হয়েছিল তা ফিরিয়ে দেওয়া, যা বলা হয়েছিল তা শুধরে নেওয়া, যে ব্যবস্থার কারণে অন্যায়টা সহজ হয়েছিল তা বদলে ফেলা। প্রতিশ্রুতি যদি শুধু অনুতাপের সঙ্গে বাঁধা থাকত, ক্ষতিটা যেমন ছিল তেমনই থেকে যেত। এই প্রতিশ্রুতি বাঁধা অনুতাপের সঙ্গেও, তার পরের মেরামতের সঙ্গেও।"
           },
           {
             "en": "The closing names are Ghafur and Rahim, and the same pair closes 4:110 for whoever does a wrong or wrongs himself and then seeks Allah's forgiveness. Notice the order of the whole verse, because it is a template for receiving people. Peace first. Then the fact about Allah that makes return possible. Only then the terms. Most of us reverse it — we state the terms, withhold the peace, and expect the person to argue his way back in.",
-            "bn": "শেষের নাম দুটি হলো গাফূর ও রাহীম, আর একই জোড়া 4:110 আয়াতও শেষ করে — যে অন্যায় করে কিংবা নিজের প্রতি জুলুম করে, তারপর আল্লাহর কাছে ক্ষমা চায়, তার জন্য। গোটা আয়াতের ক্রমটি লক্ষ করুন, কারণ এটি মানুষকে গ্রহণ করার একটি নমুনা। আগে সালাম। তারপর আল্লাহ সম্পর্কে সেই সত্য, যা ফিরে আসাকে সম্ভব করে। তারপরই কেবল শর্ত। আমরা বেশিরভাগ সময় ক্রমটি উল্টে দিই — শর্ত জানাই, সালামটুকু আটকে রাখি, আর আশা করি মানুষটি তর্ক করে নিজের জায়গায় ফিরে আসবে।"
+            "bn": "আয়াত শেষ হয় দুটি নামে, গাফূর ও রাহীম। এই একই জোড়া দিয়ে শেষ হয় ৪:১১০ আয়াতও, যেখানে কথা হচ্ছে তার সম্পর্কে, যে কোনো অন্যায় করে বা নিজের ওপর জুলুম করে, তারপর আল্লাহর কাছে মাফ চায়। পুরো আয়াতের ক্রমটা খেয়াল করুন, কারণ মানুষকে কীভাবে বরণ করে নিতে হয়, এ তারই নমুনা। আগে সালাম। তারপর আল্লাহ সম্পর্কে সেই সত্য, যার জোরে ফিরে আসা সম্ভব। শর্ত আসে সবার শেষে। আমরা বেশির ভাগ সময় উল্টোটা করি। আগে শর্ত শোনাই, সালামটা আটকে রাখি, আর আশা করি মানুষটা তর্ক করে করে নিজের জায়গা ফিরে পাবে।"
           }
         ]
       }
@@ -1321,27 +1321,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with possession placed first: wa 'indahu — and with Him — are the mafatih of the unseen; none knows them but He. Putting 'indahu before the subject is Arabic's way of restriction: with Him, and with no one else. Mafatih is a plural the commentators read in two ways — as keys, the plural of miftah, or as treasuries, the plural of maftah. At-Tabari relates the reading of treasuries; on either reading, access belongs to Allah alone.",
-            "bn": "আয়াতটি শুরু হয় মালিকানাকে আগে বসিয়ে: ওয়া ইনদাহু — আর তাঁরই কাছে — আছে গায়েবের মাফাতিহ; তিনি ছাড়া কেউ তা জানে না। বাক্যের শুরুতে ইনদাহু বসানো আরবিতে সীমাবদ্ধকরণের রীতি: তাঁরই কাছে, আর কারও কাছে নয়। মাফাতিহ এমন এক বহুবচন, যা মুফাসসিরগণ দুইভাবে পড়েন — চাবি অর্থে, মিফতাহ-এর বহুবচন; অথবা ভান্ডার অর্থে, মাফতাহ-এর বহুবচন। আত-তাবারী ভান্ডার পাঠটি বর্ণনা করেন; যেভাবেই পড়া হোক, প্রবেশাধিকার একমাত্র আল্লাহরই।"
+            "bn": "আয়াতের শুরুতেই মালিকানার কথা: ওয়া ইনদাহু, আর তাঁরই কাছে আছে গায়েবের মাফাতিহ; তিনি ছাড়া কেউ তা জানে না। ইনদাহু কথাটা আগে বসিয়ে আরবি সীমা বেঁধে দেয়: তাঁরই কাছে, আর কারও কাছে নয়। মাফাতিহ বহুবচন, আর মুফাসসিররা একে দুইভাবে বোঝেন। মিফতাহ-এর বহুবচন ধরলে মানে চাবি, মাফতাহ-এর বহুবচন ধরলে মানে ভান্ডার। আত-তাবারী ভান্ডার অর্থের বর্ণনাটি উল্লেখ করেন। যে অর্থেই নিন, খোলার অধিকার একমাত্র আল্লাহর।"
           },
           {
             "en": "Ghayb is everything screened from creatures: the future, the inward, the appointed ends. The verse does not say that Allah merely knows more of it than we do; it says the store itself is with Him, and its opening is His act alone. Every later clause of the verse — land and sea, the leaf, the grain, the moist and the dry — descends from this single opening claim of exclusive ownership.",
-            "bn": "গায়েব হলো সৃষ্টির চোখ থেকে আড়াল করা সবকিছু: ভবিষ্যৎ, অন্তরের ভেতরটা, নির্ধারিত পরিণতিগুলো। আয়াতটি এ কথা বলে না যে আল্লাহ কেবল আমাদের চেয়ে বেশি জানেন; বলে, ভান্ডারটিই তাঁর কাছে, আর তার খোলাও একমাত্র তাঁরই কাজ। আয়াতের পরের প্রতিটি বাক্যাংশ — স্থল ও সমুদ্র, পাতা, শস্যদানা, আর্দ্র ও শুষ্ক — নেমে আসে একচ্ছত্র মালিকানার এই প্রথম দাবিটি থেকেই।"
+            "bn": "গায়েব মানে সৃষ্টির কাছ থেকে আড়াল করা সবকিছু: ভবিষ্যৎ, মনের ভেতরের খবর, প্রত্যেকের নির্ধারিত মেয়াদ। আয়াত এ কথা বলছে না যে আল্লাহ শুধু আমাদের চেয়ে বেশি জানেন। বলছে, ভান্ডারটাই তাঁর কাছে, আর তা খোলেন কেবল তিনিই। আয়াতের পরে যা যা আসে, স্থল ও সাগর, পাতা, শস্যদানা, ভেজা ও শুকনো, সবই শুরুর এই একটি দাবি থেকে নেমে এসেছে: মালিকানা একমাত্র তাঁর।"
           }
         ]
       },
       {
         "h": {
           "en": "Five Named in the Sunnah",
-          "bn": "সুন্নাহয় নাম করা পাঁচটি"
+          "bn": "সুন্নাহয় যে পাঁচটির নাম এসেছে"
         },
         "p": [
           {
             "en": "Al-Bukhari relates from Ibn Umar (RA) that the Prophet ﷺ said the keys of the unseen are five, which none knows but Allah, and they are the five of 31:34 — knowledge of the Hour, the sending down of the rain, what the wombs contain, what any soul will earn tomorrow, and in what land any soul will die. Count them and they are exactly five, each one a matter that people in every age have tried and failed to secure in advance.",
-            "bn": "আল-বুখারী ইবনে উমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, গায়েবের চাবি পাঁচটি, আল্লাহ ছাড়া কেউ তা জানে না — আর সেগুলো 31:34 আয়াতের পাঁচটি বিষয়: কিয়ামতের জ্ঞান, বৃষ্টি বর্ষণ, গর্ভে যা আছে, কোনো প্রাণ আগামীকাল কী অর্জন করবে, আর কোনো প্রাণ কোন ভূমিতে মারা যাবে। গুনে দেখুন — ঠিক পাঁচটি, আর প্রতিটিই এমন বিষয় যা প্রতিটি যুগের মানুষ আগেভাগে নিশ্চিত করতে চেষ্টা করেছে এবং ব্যর্থ হয়েছে।"
+            "bn": "ইমাম বুখারী ইবনে উমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: গায়েবের চাবি পাঁচটি, আল্লাহ ছাড়া কেউ সেগুলো জানে না। সেগুলো ৩১:৩৪ আয়াতের পাঁচটি বিষয়: কিয়ামতের জ্ঞান, বৃষ্টি বর্ষণ, গর্ভে যা আছে, কে আগামীকাল কী উপার্জন করবে, আর কে কোন মাটিতে মারা যাবে। গুনে দেখুন, ঠিক পাঁচটি। প্রতিটিই এমন বিষয়, যা সব যুগের মানুষ আগেভাগে হাতের মুঠোয় আনতে চেয়েছে, আর পারেনি।"
           },
           {
             "en": "The list is practical, not abstract. Weather is forecast and still surprises; medicine images the womb and still cannot say what the child will become in character or destiny; no analyst knows tomorrow's earnings, and no traveller his place of death. The hadith turns the verse into a mirror held up to human planning: our instruments reach far, and the keys still hang where they always did.",
-            "bn": "তালিকাটি বিমূর্ত নয়, একেবারে ব্যবহারিক। আবহাওয়ার পূর্বাভাস হয়, তবু তা চমকে দেয়; চিকিৎসাবিজ্ঞান গর্ভের ছবি তোলে, তবু বলতে পারে না শিশুটি চরিত্রে বা পরিণতিতে কী হবে; কোনো বিশ্লেষক আগামীকালের উপার্জন জানে না, কোনো মুসাফির জানে না তার মৃত্যুর স্থান। হাদীসটি আয়াতটিকে মানুষের পরিকল্পনার সামনে ধরা এক আয়নায় পরিণত করে: আমাদের যন্ত্রপাতি বহুদূর পৌঁছায়, অথচ চাবিগুলো ঝুলছে ঠিক আগের জায়গাতেই।"
+            "bn": "তালিকাটা তত্ত্বের নয়, একেবারে রোজকার জীবনের। আবহাওয়ার পূর্বাভাস দেওয়া হয়, তবু আবহাওয়া চমকে দেয়। চিকিৎসকরা গর্ভের ছবি তোলেন, তবু বলতে পারেন না শিশুটির স্বভাব কেমন হবে, ভাগ্যে কী আছে। কোনো বিশ্লেষক জানে না আগামীকাল কত আয় হবে, কোনো মুসাফির জানে না কোথায় তার মৃত্যু। হাদিসটি আয়াতকে মানুষের সব পরিকল্পনার সামনে আয়নার মতো ধরে: আমাদের যন্ত্রপাতি বহুদূর পৌঁছায়, অথচ চাবিগুলো ঝুলছে ঠিক আগের জায়গাতেই।"
           }
         ]
       },
@@ -1353,11 +1353,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the verse walks downward in scale. He knows what is in the land and the sea — the two halves of the visible world. Not a leaf falls but He knows it: one leaf, in the moment of its fall, out of all the forests of the earth. Nor a grain in the darknesses of the earth — buried and unseen, with darkness named in the plural: of soil, of depth, of night. Nor anything moist or dry. The commentators note the movement from the vast to the minute: whoever holds the smallest holds everything between.",
-            "bn": "এরপর আয়াতটি মাপের সিঁড়ি বেয়ে নিচে নামে। স্থলে ও সমুদ্রে যা আছে তিনি জানেন — দৃশ্যমান জগতের দুই অর্ধেক। এমন কোনো পাতা ঝরে না যা তিনি জানেন না: পৃথিবীর সব অরণ্যের মধ্য থেকে একটিমাত্র পাতা, তার ঝরে পড়ার মুহূর্তে। মাটির অন্ধকারগুলোর ভেতরের কোনো শস্যদানাও নয় — প্রোথিত ও অদৃশ্য, আর অন্ধকার এখানে বহুবচনে: মাটির, গভীরতার, রাতের। আর্দ্র বা শুষ্ক কোনো কিছুও নয়। মুফাসসিরগণ বিশাল থেকে সূক্ষ্মের দিকে এই যাত্রা লক্ষ করেন: যিনি ক্ষুদ্রতমটি ধরে রাখেন, মাঝের সবকিছুই তাঁর ধরা।"
+            "bn": "এরপর আয়াত বড় থেকে ধাপে ধাপে ছোটর দিকে নামে। স্থলে আর সাগরে যা আছে, তিনি জানেন; দৃশ্যমান জগতের দুই অর্ধেক এই দুটোই। এমন কোনো পাতা ঝরে না, যা তিনি জানেন না। পৃথিবীর সব বনের সব পাতার মধ্যে একটি পাতা, ঠিক যে মুহূর্তে সেটি ঝরে। মাটির অন্ধকারে চাপা পড়া কোনো শস্যদানাও তাঁর অজানা নয়। দানাটি মাটিতে পোঁতা, চোখের আড়ালে, আর অন্ধকার শব্দটা এখানে বহুবচনে: মাটির অন্ধকার, গভীরতার অন্ধকার, রাতের অন্ধকার। ভেজা বা শুকনো কোনো কিছুই তাঁর অজানা নয়। মুফাসসিররা বিশাল থেকে ক্ষুদ্রের দিকে এই নেমে আসাটা লক্ষ করেছেন: যিনি ক্ষুদ্রতমটিও ধরে রাখেন, মাঝের সবকিছু তাঁর হাতেই।"
           },
           {
             "en": "The pairs are chosen to leave nothing out. Land and sea, falling and buried, moist and dry — each pair names two edges and thereby everything between them. What the sentence removes is the idea of a forgotten corner: a place, a moment, or a thing too small to matter. 10:61 states the same in units of weight — not an atom's weight in the earth or in the heaven escapes your Lord, nor smaller than that nor greater.",
-            "bn": "জোড়াগুলো এমনভাবে বাছাই করা যেন কিছুই বাদ না পড়ে। স্থল ও সমুদ্র, ঝরে পড়া ও প্রোথিত, আর্দ্র ও শুষ্ক — প্রতিটি জোড়া দুটি প্রান্তের নাম নেয়, আর তাতে মাঝের সবকিছু ধরা পড়ে। বাক্যটি যে ধারণা মুছে দেয় তা হলো ভুলে যাওয়া কোনো কোণের ধারণা: এমন কোনো স্থান, মুহূর্ত বা বস্তু, যা এত ছোট যে ধর্তব্য নয়। 10:61 আয়াত একই কথা ওজনের এককে বলে — আসমানে বা যমীনে অণু পরিমাণ কিছুও তোমার রবের অগোচরে থাকে না, তার চেয়ে ছোটও না, বড়ও না।"
+            "bn": "জোড়াগুলো এমনভাবে বাছা, যাতে কিছুই বাদ না পড়ে। স্থল ও সাগর, ঝরে পড়া ও মাটিচাপা, ভেজা ও শুকনো: প্রতিটি জোড়া দুই প্রান্তের নাম বলে, আর তাতেই মাঝের সবকিছু ধরা পড়ে। বাক্যটি মন থেকে মুছে দেয় ভুলে যাওয়া কোনো কোণের ধারণা, এমন কোনো জায়গা, মুহূর্ত বা জিনিস, যা এত ছোট যে হিসাবেই আসে না। ১০:৬১ আয়াত একই কথা বলে ওজনের মাপে: আসমানে বা যমীনে অণু পরিমাণ কিছুও তোমার রবের অগোচরে থাকে না, তার চেয়ে ছোটও না, বড়ও না।"
           }
         ]
       },
@@ -1369,11 +1369,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse gathers every clause into one place: illa fi kitabin mubin, except that it is in a clear record. The commentators identify this with al-Lawh al-Mahfuz, the Preserved Tablet. 6:38 in the same surah says that nothing has been neglected in the Book, and when Pharaoh asked Musa (AS) about the former generations, the answer in 20:52 was that their knowledge is with my Lord in a record; my Lord neither errs nor forgets. Knowledge written is knowledge that cannot slip.",
-            "bn": "আয়াতটি প্রতিটি বাক্যাংশকে এক জায়গায় জমা করে: ইল্লা ফী কিতাবিম মুবীন — সবই আছে এক সুস্পষ্ট কিতাবে। মুফাসসিরগণ একে লাওহে মাহফুয — সংরক্ষিত ফলক — বলে চিহ্নিত করেন। একই সূরার 6:38 আয়াতে বলা হয়েছে, কিতাবে কোনো কিছুই অবহেলায় বাদ পড়েনি; আর ফেরাউন যখন মূসা (আঃ)-কে আগের প্রজন্মগুলোর কথা জিজ্ঞেস করে, 20:52 আয়াতে উত্তর ছিল — তাদের জ্ঞান আমার রবের কাছে এক কিতাবে আছে; আমার রব ভুলও করেন না, বিস্মৃতও হন না। লিখিত জ্ঞান এমন জ্ঞান, যা হাতছাড়া হতে পারে না।"
+            "bn": "আয়াত সব কথা এক জায়গায় এনে জড়ো করে: ইল্লা ফী কিতাবিম মুবীন, সবই আছে এক সুস্পষ্ট কিতাবে। মুফাসসিররা বলেন, এ হলো লাওহে মাহফুয, সংরক্ষিত ফলক। এই সূরারই ৬:৩৮ আয়াত বলে, কিতাবে কোনো কিছুই বাদ রাখা হয়নি। আর ফেরাউন যখন মূসা (আঃ)-কে আগের যুগের মানুষদের কথা জিজ্ঞেস করল, ২০:৫২ আয়াতে তাঁর জবাব ছিল: তাদের জ্ঞান আমার রবের কাছে এক কিতাবে আছে; আমার রব ভুলও করেন না, ভুলেও যান না। যে জ্ঞান লেখা থাকে, তা হাত ফসকে যায় না।"
           },
           {
             "en": "The record matters because it turns knowledge into accountability and care. A falling leaf is not merely observed; it is kept. The same registry that misses no grain will miss no wrong suffered in secret and no good done unseen. What overwhelms the mind as infinite detail is, for the servant, a guarantee: nothing offered to Allah is ever mislaid.",
-            "bn": "এই কিতাবটি গুরুত্বপূর্ণ, কারণ এটি জ্ঞানকে জবাবদিহি ও তত্ত্বাবধানে পরিণত করে। ঝরে পড়া পাতাটি কেবল দেখা হয় না; তা সংরক্ষিত হয়। যে নিবন্ধন-খাতা একটি শস্যদানাও হারায় না, তা গোপনে সয়ে যাওয়া কোনো অন্যায়ও হারাবে না, অদেখায় করা কোনো ভালো কাজও হারাবে না। যা অসীম খুঁটিনাটি হয়ে মনকে অভিভূত করে, বান্দার জন্য তা-ই এক নিশ্চয়তা: আল্লাহর উদ্দেশে নিবেদিত কোনো কিছু কখনো খোয়া যায় না।"
+            "bn": "কিতাবের কথাটা জরুরি, কারণ এতে জ্ঞান শুধু জানা থাকে না, হয়ে ওঠে জবাবদিহি আর যত্ন। ঝরে পড়া পাতাটা শুধু দেখা হয় না, লিখে রাখা হয়। যে খাতা থেকে একটা শস্যদানাও বাদ পড়ে না, সেখান থেকে বাদ পড়বে না গোপনে সয়ে যাওয়া কোনো জুলুম, কিংবা কারও চোখে না পড়া কোনো নেক আমল। অগণিত খুঁটিনাটির কথা ভাবলে মাথা ঘুরে যায়, কিন্তু বান্দার জন্য সেটাই ভরসা: আল্লাহর জন্য করা কোনো কিছুই কখনো হারায় না।"
           }
         ]
       },
@@ -1385,7 +1385,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "27:65 makes the rule explicit — say: none in the heavens and the earth knows the unseen except Allah. Every claim to read the future, whether by stars, omens, or fortune-tellers, collides with this verse and with that one. Even the Prophet ﷺ was commanded in 6:50 to say that he does not possess the treasuries of Allah and does not know the unseen; he conveys what is revealed to him. Revelation is Allah sharing what He wills — it is not a rival key.",
-            "bn": "27:65 আয়াত নিয়মটি স্পষ্ট করে দেয় — বলুন: আসমানসমূহ ও যমীনে আল্লাহ ছাড়া কেউ গায়েব জানে না। ভবিষ্যৎ পড়ার প্রতিটি দাবি — তারা দেখে হোক, লক্ষণ দেখে হোক, বা গণকের মাধ্যমে — এই আয়াত ও ওই আয়াত দুটোর সঙ্গেই সংঘর্ষে পড়ে। এমনকি নবী ﷺ-কেও 6:50 আয়াতে বলতে আদেশ করা হয়েছে যে আল্লাহর ভান্ডার তাঁর কাছে নেই এবং তিনি গায়েব জানেন না; তাঁর কাছে যা ওহী করা হয় তিনি তা-ই পৌঁছে দেন। ওহী হলো আল্লাহ যা চান তা জানিয়ে দেওয়া — এটি কোনো প্রতিদ্বন্দ্বী চাবি নয়।"
+            "bn": "২৭:৬৫ আয়াত নিয়মটা খোলাখুলি বলে দেয়: বলুন, আসমান ও যমীনে আল্লাহ ছাড়া কেউ গায়েব জানে না। নক্ষত্র দেখে হোক, শুভ-অশুভ লক্ষণ দেখে হোক, কিংবা গণকের কাছে গিয়ে হোক, ভবিষ্যৎ জানার যেকোনো দাবি এই দুই আয়াতের সঙ্গেই সরাসরি সাংঘর্ষিক। এমনকি নবী ﷺ-কেও ৬:৫০ আয়াতে বলতে হুকুম করা হয়েছে যে আল্লাহর ভান্ডার তাঁর কাছে নেই, আর তিনি গায়েব জানেন না; তাঁর কাছে যা ওহি আসে, তিনি তা-ই পৌঁছে দেন। ওহি মানে আল্লাহ যতটুকু চান ততটুকু জানিয়ে দেওয়া। এটা আল্লাহর চাবির পাশাপাশি আরেকটা চাবি নয়।"
           }
         ]
       },
@@ -1397,11 +1397,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "For conduct, the verse teaches muraqabah — living watched. The deed no colleague sees, the browsing no one audits, the kindness never announced: all of it is with the One who counts leaves. That awareness restrains in private, exactly where reputation cannot reach. Sincerity grows in the same soil: work for the One whose record of your life is the only complete one, and the applause of every smaller audience loses its grip.",
-            "bn": "আচরণের দিক থেকে আয়াতটি শেখায় মুরাকাবা — দেখা হচ্ছে জেনে জীবনযাপন। যে কাজ কোনো সহকর্মী দেখে না, যে ব্রাউজিং কেউ যাচাই করে না, যে সদাচরণ কখনো ঘোষণা করা হয় না — সবই আছে তাঁর কাছে, যিনি পাতাও গণনা করেন। এই সচেতনতা সংযত করে ঠিক নির্জনে — যেখানে সুনামের হাত পৌঁছায় না। একই মাটিতে জন্মায় ইখলাস: তাঁর জন্য কাজ করুন, আপনার জীবনের একমাত্র পূর্ণাঙ্গ নথি যাঁর কাছে; তখন প্রতিটি ছোট দর্শকমহলের করতালি তার দখল হারায়।"
+            "bn": "আমলের দিক থেকে আয়াতটি শেখায় মুরাকাবা, মানে এই বোধ নিয়ে বাঁচা যে আমাকে দেখা হচ্ছে। যে কাজ কোনো সহকর্মী দেখে না, যে ব্রাউজিংয়ের খোঁজ কেউ নেয় না, যে উপকারের কথা কাউকে বলা হয়নি, সবই আছে তাঁর কাছে, যিনি গাছের পাতাও গুনে রাখেন। এই বোধ মানুষকে সামলে রাখে নির্জনে, ঠিক সেখানে যেখানে সুনামের ভাবনা পৌঁছায় না। ইখলাসও জন্মায় এই মাটিতেই। কাজ করুন তাঁর জন্য, যাঁর কাছেই আছে আপনার জীবনের একমাত্র পূর্ণ হিসাব। তখন ছোট ছোট সব দর্শকের হাততালি আর আপনাকে টানতে পারবে না।"
           },
           {
             "en": "For the heart, the same verse is a cure for anxious guessing. The keys of tomorrow are not lost; they are held — by the One who also knows every leaf of your circumstances. The truth this verse states is double-edged, and honestly so: total knowledge unsettles the one hiding something and steadies the one entrusting something. Which of the two it becomes for a reader is decided not by the verse, but by the life brought to it.",
-            "bn": "হৃদয়ের দিক থেকে একই আয়াত উদ্বিগ্ন অনুমানের নিরাময়। আগামীকালের চাবিগুলো হারিয়ে যায়নি; সেগুলো ধরা আছে — তাঁরই হাতে, যিনি আপনার পরিস্থিতির প্রতিটি পাতাও জানেন। আয়াতটি যে সত্য ঘোষণা করে তা দুই দিকেই ধার রাখে, আর সততার সঙ্গেই: পূর্ণ জ্ঞান তাকে অস্থির করে যে কিছু লুকাচ্ছে, আর তাকে স্থির করে যে কিছু সঁপে দিচ্ছে। পাঠকের জন্য এটি দুটির কোনটি হবে, তা আয়াত ঠিক করে না — ঠিক করে আয়াতের সামনে আনা জীবনটাই।"
+            "bn": "অন্তরের জন্য এই একই আয়াত দুশ্চিন্তায় ভরা আন্দাজের ওষুধ। আগামীকালের চাবি হারিয়ে যায়নি, তা আছে তাঁর হাতে, যিনি আপনার অবস্থার প্রতিটি পাতাও জানেন। আয়াতের এই সত্যের দুই দিকেই ধার, আর আয়াত তা লুকায়নি। সব জানেন এমন কেউ আছেন, এ কথা অস্থির করে তাকে, যে কিছু লুকাচ্ছে; আর স্থির করে তাকে, যে কিছু তাঁর হাতে সঁপে দিচ্ছে। পাঠকের কাছে আয়াতটা কোনটা হয়ে দাঁড়াবে, তা আয়াত ঠিক করে না। ঠিক করে সেই জীবন, যা নিয়ে সে আয়াতের সামনে আসে।"
           }
         ]
       }
@@ -1417,7 +1417,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-An'am is Makkan, and this stretch of it is one long argument with people who deny the message. 6:63 asks who rescues them from the darknesses of land and sea, 6:64 answers that it is Allah, and 6:65 warns of punishment from above them and from under their feet. Then 6:66 states the problem plainly: your people have denied it while it is the truth. 6:67 adds that every tiding has its settled time. What follows does not answer the denial with a new proof. It tells the Prophet ﷺ what to do about the talk itself.",
-            "bn": "সূরা আল-আনআম মাক্কী, আর এর এই অংশটা অস্বীকারকারীদের সঙ্গে দীর্ঘ এক বাদানুবাদ। ৬:৬৩ আয়াত প্রশ্ন করে, জল-স্থলের অন্ধকার থেকে কে তোমাদের উদ্ধার করে। ৬:৬৪ আয়াত জবাব দেয়, আল্লাহই করেন। ৬:৬৫ আয়াত সতর্ক করে উপর থেকে বা পায়ের নিচ থেকে আসা আযাবের কথা বলে। এরপর ৬:৬৬ আয়াত সমস্যাটা সোজা করে বলে দেয়, তোমার কওম একে মিথ্যা বলছে অথচ এটাই সত্য। ৬:৬৭ আয়াত যোগ করে, প্রতিটি সংবাদের একটা নির্ধারিত সময় আছে। এরপর যা আসে তা নতুন কোনো দলিল নয়। কথাবার্তাটা নিয়ে নবী ﷺ কী করবেন, সেটাই বলা হয়।"
+            "bn": "সূরা আল-আনআম মক্কী, আর এর এই অংশটা অস্বীকারকারীদের সঙ্গে দীর্ঘ এক বাদানুবাদ। ৬:৬৩ আয়াত প্রশ্ন করে, জল-স্থলের অন্ধকার থেকে কে তোমাদের উদ্ধার করে। ৬:৬৪ আয়াত জবাব দেয়, আল্লাহই করেন। ৬:৬৫ আয়াত সাবধান করে দেয়, আযাব আসতে পারে মাথার ওপর থেকে, পায়ের নিচ থেকেও। এরপর ৬:৬৬ আয়াত সমস্যাটা সোজা করে বলে দেয়, তোমার কওম একে মিথ্যা বলছে অথচ এটাই সত্য। ৬:৬৭ আয়াত যোগ করে, প্রতিটি সংবাদের একটা নির্ধারিত সময় আছে। এরপর যা আসে তা নতুন কোনো দলিল নয়। কথাবার্তাটা নিয়ে নবী ﷺ কী করবেন, সেটাই বলা হয়।"
           },
           {
             "en": "The command is bounded on both sides. It begins when you see them wading into talk about Our verses, and it lifts when they enter some other conversation. Then 6:69 removes a misunderstanding the command could easily create, and 6:70 widens it: leave those who have taken their religion as amusement and diversion, and remind by the Quran. The order of these three verses is itself the argument: withdrawal, then the limit of what you answer for, then the reminder you still owe, then the warning that a soul can be ruined by what it earned.",
@@ -1529,7 +1529,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then there is the honest clause. Most people never decide to join mockery. They drift, laugh once, and stay because leaving now would look like a statement. The verse plans for exactly that and puts the whole weight on the moment of remembering. So the habit worth building is not vigilance, which fails, but speed: when it occurs to you where you are sitting, move then, before the thought has been negotiated down into a few more minutes.",
-            "bn": "এরপর আছে সবচেয়ে সৎ শর্তটা। বেশির ভাগ মানুষ ঠিক করে ঠাট্টায় যোগ দেয় না। ভাসতে ভাসতে ঢুকে যায়, একবার হেসে ফেলে, আর থেকে যায়, কারণ এখন উঠে গেলে সেটাকে একটা বিবৃতির মতো দেখাবে। আয়াত ঠিক এই অবস্থাটার হিসাব রাখে, আর পুরো ভারটা রাখে মনে পড়ার মুহূর্তের উপর। তাই যে অভ্যাসটা গড়া দরকার তা সারাক্ষণ সতর্ক থাকা নয়, ওটা ভেঙে যায়; দরকার দ্রুততা। কোথায় বসে আছেন মনে পড়ামাত্র উঠে পড়ুন, ভাবনাটা দরকষাকষি করে আর কয়েক মিনিটে নেমে আসার আগেই।"
+            "bn": "এরপর আছে সবচেয়ে সৎ শর্তটা। বেশির ভাগ মানুষ ঠিক করে ঠাট্টায় যোগ দেয় না। ভাসতে ভাসতে ঢুকে যায়, একবার হেসে ফেলে, আর থেকে যায়, কারণ এখন উঠে গেলে সেটাকে একটা বিবৃতির মতো দেখাবে। আয়াত ঠিক এই অবস্থাটার হিসাব রাখে, আর পুরো ভারটা রাখে মনে পড়ার মুহূর্তের উপর। তাই যে অভ্যাসটা গড়া দরকার তা সারাক্ষণ সতর্ক থাকা নয়, ওটা টেকে না; দরকার দ্রুততা। কোথায় বসে আছেন মনে পড়ামাত্র উঠে পড়ুন, মন দরকষাকষি করে সেটাকে 'আর কয়েক মিনিট'-এ নামিয়ে আনার আগেই।"
           }
         ]
       },
@@ -1577,11 +1577,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-An'am is Makkan, and by this point the surah has been putting words in the mouth of the Prophet ﷺ for a whole stretch. 6:71 has him ask whether they should call on what neither benefits nor harms them and be turned back on their heels after Allah has guided them. 6:72 finishes the commanded speech: we were ordered to submit to the Lord of the worlds, to establish prayer and to fear Him, and He is the One to whom you will be gathered. Only then does 6:73 say who that Lord is.",
-            "bn": "সূরা আল-আনআম মাক্কী, আর এই জায়গায় এসে সূরাটি বেশ কিছুক্ষণ ধরে নবী ﷺ-এর মুখে কথা তুলে দিচ্ছে। ৬:৭১ আয়াতে তিনি জিজ্ঞেস করছেন, আল্লাহকে ছেড়ে এমন কিছুকে কি ডাকব যা উপকারও করে না, ক্ষতিও করে না, আর আল্লাহ পথ দেখানোর পর কি পেছনে ফিরে যাব। ৬:৭২ আয়াত সেই আদিষ্ট কথাটা শেষ করে: আমাদের আদেশ দেওয়া হয়েছে বিশ্বপ্রতিপালকের কাছে আত্মসমর্পণ করতে, নামায কায়েম করতে আর তাঁকে ভয় করতে; তাঁর কাছেই তোমাদের জড়ো করা হবে। এর পরেই ৬:৭৩ আয়াত বলে সেই প্রতিপালক কে।"
+            "bn": "সূরা আল-আনআম মক্কী। এই জায়গায় এসে সূরাটি বেশ কিছুক্ষণ ধরে নবী ﷺ-এর মুখে কথা তুলে দিচ্ছে। ৬:৭১ আয়াতে তিনি জিজ্ঞেস করছেন, আল্লাহকে ছেড়ে এমন কিছুকে কি ডাকব যা উপকারও করে না, ক্ষতিও করে না, আর আল্লাহ পথ দেখানোর পর কি পেছনে ফিরে যাব? ৬:৭২ আয়াতে তাঁকে বলতে বলা কথাগুলো শেষ হয়: আমাদের হুকুম দেওয়া হয়েছে বিশ্বজগতের রবের কাছে আত্মসমর্পণ করতে, নামাজ কায়েম করতে আর তাঁকে ভয় করতে; তাঁর কাছেই তোমাদের জড়ো করা হবে। এর পরেই ৬:৭৩ আয়াত বলে, সেই রব কে।"
           },
           {
             "en": "So the verse is a seam. It closes the commanded speech with a description of the One being submitted to, and it opens what comes next, because 6:74 turns to Ibrahim (AS) and his father, and 6:75 says that the realm of the heavens and the earth was shown to him so that he would be among the certain. The description in our verse is the very thing he reaches at 6:79, when he turns his face to the One who created the heavens and the earth.",
-            "bn": "তাই আয়াতটি একটা সংযোগস্থল। এটি একদিকে আদিষ্ট কথাটা শেষ করে, যাঁর কাছে আত্মসমর্পণ করা হচ্ছে তাঁর পরিচয় দিয়ে; অন্যদিকে পরের অংশটা খুলে দেয়। কারণ ৬:৭৪ আয়াত চলে যায় ইবরাহীম (আঃ) ও তাঁর পিতার প্রসঙ্গে, আর ৬:৭৫ আয়াত বলে, আসমান ও যমীনের রাজত্ব তাঁকে দেখানো হয়েছিল যাতে তিনি দৃঢ় বিশ্বাসীদের একজন হন। আমাদের আয়াতে যে পরিচয়, ৬:৭৯ আয়াতে ইবরাহীম (আঃ) ঠিক সেখানেই পৌঁছান, যখন তিনি মুখ ফেরান আসমান-যমীনের স্রষ্টার দিকে।"
+            "bn": "তাই আয়াতটি দুই অংশের জোড়া। একদিকে বলতে বলা কথাগুলো শেষ করে, যাঁর কাছে আত্মসমর্পণ, তাঁর পরিচয় দিয়ে; অন্যদিকে পরের অংশটা খুলে দেয়। কারণ ৬:৭৪ আয়াত চলে যায় ইবরাহীম (আঃ) ও তাঁর পিতার প্রসঙ্গে, আর ৬:৭৫ আয়াত বলে, আসমান ও যমীনের রাজত্ব তাঁকে দেখানো হয়েছিল, যাতে তিনি দৃঢ় বিশ্বাসীদের একজন হন। আমাদের আয়াতে যে পরিচয়, ৬:৭৯ আয়াতে ইবরাহীম (আঃ) ঠিক সেখানেই পৌঁছান, যখন তিনি মুখ ফেরান আসমান-যমীনের স্রষ্টার দিকে।"
           }
         ]
       },
