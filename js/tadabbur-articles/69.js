@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Whose words these are is disputed. At-Tabari gives the report as Ibn 'Abbas's own saying; al-Qurtubi gives it, by the same chain from Sufyan ath-Thawri through Shahr ibn Hawshab, as the words of the Messenger of Allah ﷺ. Neither grades it, so it is not presented here as a confirmed hadith. Ibn Kathir does attach a narration from the Two Sahihs, which al-Bukhari records as number 1035: the Prophet ﷺ said, \"I was granted victory with As-Saba and the nation of 'Ad was destroyed by Ad-Dabur (westerly wind).\" It is weighed under 41:16. No fetched commentary gives an occasion of revelation.",
-            "bn": "কথাগুলো কার, তা নিয়ে মতভেদ আছে। তাবারী বর্ণনাটি এনেছেন ইবন আব্বাস (রাঃ)-এর নিজের উক্তি হিসেবে। কুরতুবী সুফিয়ান সাওরী থেকে শাহর ইবন হাওশাব হয়ে একই সূত্রে এটাকে আনেন রাসূলুল্লাহ ﷺ-এর বাণী হিসেবে। কেউই এর মান বলেননি, তাই এখানে একে নিশ্চিত হাদীস হিসেবে পেশ করা হচ্ছে না। তবে ইবন কাসীর দুই সহীহ থেকে একটি বর্ণনা যুক্ত করেন, যা বুখারী ১০৩৫ নম্বরে এনেছেন: নবী ﷺ বলেছেন, \"আমাকে সাহায্য করা হয়েছে সাবা, অর্থাৎ পূবালি বাতাস দিয়ে, আর ‘আদ জাতিকে ধ্বংস করা হয়েছে দাবূর, অর্থাৎ পশ্চিমা বাতাস দিয়ে।\" এর আলোচনা ৪১:১৬ আয়াতে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াত দুটির শানে নুযূল দেয় না।"
+            "bn": "কথাগুলো কার, তা নিয়ে মতভেদ আছে। তাবারী বর্ণনাটি এনেছেন ইবন আব্বাস (রাঃ)-এর নিজের উক্তি হিসেবে। কুরতুবী সুফিয়ান সাওরী থেকে শাহর ইবন হাওশাব হয়ে একই সূত্রে এটাকে আনেন রাসূলুল্লাহ ﷺ-এর বাণী হিসেবে। কেউই এর মান বলেননি, তাই এখানে একে নিশ্চিত হাদিস হিসেবে পেশ করা হচ্ছে না। তবে ইবন কাসীর দুই সহীহ থেকে একটি বর্ণনা যুক্ত করেন, যা বুখারী ১০৩৫ নম্বরে এনেছেন: নবী ﷺ বলেছেন, \"আমাকে সাহায্য করা হয়েছে সাবা, অর্থাৎ পূবালি বাতাস দিয়ে, আর ‘আদ জাতিকে ধ্বংস করা হয়েছে দাবূর, অর্থাৎ পশ্চিমা বাতাস দিয়ে।\" এর আলোচনা ৪১:১৬ আয়াতে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াত দুটির শানে নুযূল দেয় না।"
           }
         ]
       },
@@ -165,7 +165,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di reads the turn as deliberate. Once the surah has told what Allah did in this world, how He repaid and hastened the penalty there, and how He saved the messengers and those who followed them, this verse becomes, in his words, a prelude to the recompense of the Hereafter, when deeds are paid back in full on the Day of Resurrection. He then sets out the terrifying events that come before that Day, and the first of them is the blowing of the Horn. The stories just told were not the whole account; this is where the rest of it begins.",
-            "bn": "সা'দীর চোখে এই মোড় পরিকল্পিত। দুনিয়াতে আল্লাহ কী করেছেন, সেখানে কীভাবে প্রতিফল দিয়েছেন আর শাস্তি তাড়াতাড়ি এনেছেন, আর কীভাবে রসূলদের ও তাঁদের অনুসারীদের রক্ষা করেছেন, সূরাটি তা বলে শেষ করেছে। তাঁর ভাষায়, এবার এই আয়াত আখিরাতের প্রতিফলের ভূমিকা, যেদিন কিয়ামতের দিনে আমলের পুরো বদলা চুকিয়ে দেওয়া হবে। এরপর তিনি সেই দিনের আগের ভয়াবহ ঘটনাগুলো গুনিয়ে যান, আর তার প্রথমটিই সিঙ্গায় ফুঁ। এইমাত্র যে কাহিনিগুলো শোনা হলো, সেগুলোই পুরো হিসাব নয়। বাকিটা শুরু হচ্ছে এখান থেকে।"
+            "bn": "সা'দীর চোখে এই মোড় পরিকল্পিত। দুনিয়াতে আল্লাহ কী করেছেন, সেখানে কীভাবে প্রতিফল দিয়েছেন আর শাস্তি তাড়াতাড়ি এনেছেন, আর কীভাবে রাসূলদের ও তাঁদের অনুসারীদের রক্ষা করেছেন, সূরাটি তা বলে শেষ করেছে। তাঁর ভাষায়, এবার এই আয়াত আখিরাতের প্রতিফলের ভূমিকা, যেদিন কিয়ামতের দিনে আমলের পুরো বদলা চুকিয়ে দেওয়া হবে। এরপর তিনি সেই দিনের আগের ভয়াবহ ঘটনাগুলো গুনিয়ে যান, আর তার প্রথমটিই সিঙ্গায় ফুঁ। এইমাত্র যে কাহিনিগুলো শোনা হলো, সেগুলোই পুরো হিসাব নয়। বাকিটা শুরু হচ্ছে এখান থেকে।"
           }
         ]
       },
@@ -461,7 +461,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi's comment on this verse is a long narrated description, and it needs a caution first. The passage fetched for this verse begins partway through, with the words and if the man was a head in evil, so the narrator and the chain do not appear in it. It is reported here as something al-Qurtubi carries, not as a hadith, and nothing else in this article rests on it. It describes one kind of man: a leader in evil who called people to it, commanded it and gathered many followers.",
-            "bn": "এ আয়াতে কুরতুবীর আলোচনা একটি দীর্ঘ বর্ণনা। তবে আগে একটা সতর্কতা দরকার। এ আয়াতে তাঁর তাফসীরের যে অংশটুকু সামনে আছে, তা শুরু হয়েছে মাঝপথ থেকে, এই কথায়: 'আর লোকটি যদি মন্দের নেতা হয়'। ফলে বর্ণনাকারী কে, সনদ কী, তা এতে নেই। তাই এখানে এটিকে হাদীস হিসেবে নয়, কুরতুবী যা উদ্ধৃত করেছেন সেভাবেই রাখা হল। এ প্রবন্ধের আর কোনো কথা এর উপর দাঁড়িয়ে নেই। বর্ণনাটি এক বিশেষ ধরনের মানুষের। সে ছিল মন্দের নেতা, মানুষকে সেদিকে ডাকত, তার হুকুম দিত, আর তার পেছনে জুটেছিল অনেক অনুসারী।"
+            "bn": "এ আয়াতে কুরতুবীর আলোচনা একটি দীর্ঘ বর্ণনা। তবে আগে একটা সতর্কতা দরকার। এ আয়াতে তাঁর তাফসীরের যে অংশটুকু সামনে আছে, তা শুরু হয়েছে মাঝপথ থেকে, এই কথায়: 'আর লোকটি যদি মন্দের নেতা হয়'। ফলে বর্ণনাকারী কে, সনদ কী, তা এতে নেই। তাই এখানে এটিকে হাদিস হিসেবে নয়, কুরতুবী যা উদ্ধৃত করেছেন সেভাবেই রাখা হল। এ প্রবন্ধের আর কোনো কথা এর উপর দাঁড়িয়ে নেই। বর্ণনাটি এক বিশেষ ধরনের মানুষের। সে ছিল মন্দের নেতা, মানুষকে সেদিকে ডাকত, তার হুকুম দিত, আর তার পেছনে জুটেছিল অনেক অনুসারী।"
           },
           {
             "en": "He is called by his own name and his father's name, and comes forward to his reckoning. A black book with black writing is brought out for him, his good deeds on the inside and his evil deeds on the outside. He reads the good deeds first and thinks he will be saved, until at the end he finds: these are your good deeds, and they have been turned back on you. His face darkens and he despairs of any good. He turns the book over to the evil deeds, and at their end he finds: these are your evil deeds, doubled against you.",
@@ -501,7 +501,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No hadith is attached to this verse in the tafsirs fetched for it. Ibn Kathir's abridgement, which treats 69:25 to 69:34 as a block, cites narrations only under the later verses of that block, not under this verse, so none is reported here. Nor does any of these sources give an occasion of revelation for the verse. What they give is enough: the record named as a record of deeds, the left hand described and explained, and the wish glossed as regret, sorrow and the dread of what the record announces.",
-            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তাতে আয়াতটির সঙ্গে যুক্ত কোনো হাদীস নেই। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ ৬৯:২৫ থেকে ৬৯:৩৪ পর্যন্ত একসঙ্গে আলোচনা করে। সেখানে বর্ণনাগুলো এসেছে ওই অংশের পরের আয়াতগুলোর অধীনে, এ আয়াতের অধীনে নয়। তাই এখানে কোনোটিই উল্লেখ করা হল না। এ সূত্রগুলোর কোনোটি আয়াতটির শানে নুযূলও উল্লেখ করে না। তারা যা দেয়, তাই যথেষ্ট। আমলনামা মানে আমলের খাতা। বাম হাতে দেওয়ার বর্ণনা আর কারণ। আর ইচ্ছাটার ব্যাখ্যা: অনুতাপ, আফসোস, আর খাতাটা যে খবর দেয় তার ভয়।"
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তাতে আয়াতটির সঙ্গে যুক্ত কোনো হাদিস নেই। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ ৬৯:২৫ থেকে ৬৯:৩৪ পর্যন্ত একসঙ্গে আলোচনা করে। সেখানে বর্ণনাগুলো এসেছে ওই অংশের পরের আয়াতগুলোর অধীনে, এ আয়াতের অধীনে নয়। তাই এখানে কোনোটিই উল্লেখ করা হল না। এ সূত্রগুলোর কোনোটি আয়াতটির শানে নুযূলও উল্লেখ করে না। তারা যা দেয়, তাই যথেষ্ট। আমলনামা মানে আমলের খাতা। বাম হাতে দেওয়ার বর্ণনা আর কারণ। আর ইচ্ছাটার ব্যাখ্যা: অনুতাপ, আফসোস, আর খাতাটা যে খবর দেয় তার ভয়।"
           }
         ]
       },
@@ -653,7 +653,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No hadith is attached to 69:31 in the tafsirs fetched for it. Ibn Kathir's abridgement, which covers 69:25 to 69:34 together, cites a hadith from Imam Ahmad and at-Tirmidhi under the chain of 69:32, and a last instruction of the Prophet ﷺ under 69:33 and 69:34. Neither is about this verse, so neither is quoted here. None of these sources gives an occasion of revelation, and none cites a parallel verse for this one. What remains is the gloss itself, and for three words it is enough.",
-            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোতে ৬৯:৩১-এর সঙ্গে কোনো হাদীস জোড়া নেই। ইবন কাসীরের সংক্ষিপ্ত তাফসীর ৬৯:২৫ থেকে ৬৯:৩৪ একসাথে আলোচনা করে। সেখানে ইমাম আহমাদ ও তিরমিযীর একটি হাদীস এসেছে ৬৯:৩২ আয়াতের শিকলের প্রসঙ্গে, আর নবী ﷺ-এর শেষ সময়ের একটি নির্দেশ এসেছে ৬৯:৩৩ ও ৬৯:৩৪ আয়াতের প্রসঙ্গে। কোনোটিই এ আয়াত নিয়ে নয়, তাই এখানে উদ্ধৃত হলো না। এ উৎসগুলোর কোনোটি শানে নুযূল দেয়নি, এ আয়াতের সঙ্গে মেলানোর মতো অন্য কোনো আয়াতও উল্লেখ করেনি। বাকি থাকে শব্দের ব্যাখ্যাটুকু, আর তিনটি শব্দের জন্য তা-ই যথেষ্ট।"
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোতে ৬৯:৩১-এর সঙ্গে কোনো হাদিস জোড়া নেই। ইবন কাসীরের সংক্ষিপ্ত তাফসীর ৬৯:২৫ থেকে ৬৯:৩৪ একসাথে আলোচনা করে। সেখানে ইমাম আহমাদ ও তিরমিযীর একটি হাদিস এসেছে ৬৯:৩২ আয়াতের শিকলের প্রসঙ্গে, আর নবী ﷺ-এর শেষ সময়ের একটি নির্দেশ এসেছে ৬৯:৩৩ ও ৬৯:৩৪ আয়াতের প্রসঙ্গে। কোনোটিই এ আয়াত নিয়ে নয়, তাই এখানে উদ্ধৃত হলো না। এ উৎসগুলোর কোনোটি শানে নুযূল দেয়নি, এ আয়াতের সঙ্গে মেলানোর মতো অন্য কোনো আয়াতও উল্লেখ করেনি। বাকি থাকে শব্দের ব্যাখ্যাটুকু, আর তিনটি শব্দের জন্য তা-ই যথেষ্ট।"
           }
         ]
       },
@@ -761,7 +761,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di reads the word through intercession. His hamim is the person who yashfa'u lahu li-yanjuwa min 'adhab Allah aw yafuza bi-thawab Allah: who would intercede for him so that he might be saved from Allah's punishment or win Allah's reward. Then he quotes two verses with no comment and no numbers; the numbers here are this article's. The first is 34:23: and intercession does not benefit with Him except for one whom He permits. The second is 40:18: for the wrongdoers there will be no devoted friend and no intercessor who is obeyed. The second uses the very word, min hamimin.",
-            "bn": "সা'দী শব্দটিকে পড়েন সুপারিশের দিক থেকে। তাঁর মতে হামীম সে, যে ইয়াশফাউ লাহু লিইয়ানজুওয়া মিন আযাবিল্লাহি আও ইয়াফূযা বিসাওয়াবিল্লাহ। অর্থাৎ যে তার জন্য সুপারিশ করত, যাতে সে আল্লাহর আযাব থেকে বাঁচে, কিংবা আল্লাহর প্রতিদান লাভ করে। তারপর তিনি কোনো মন্তব্য ও নম্বর ছাড়া দুটি আয়াত উদ্ধৃত করেন; নম্বর দুটি এই লেখার নিজের। প্রথমটি ৩৪:২৩: তাঁর কাছে সুপারিশ কোনো কাজে আসে না, তবে তিনি যাকে অনুমতি দেন, এমন একজনের কথা আলাদা। দ্বিতীয়টি ৪০:১৮: যালিমদের জন্য কোনো অন্তরঙ্গ বন্ধু থাকবে না, এমন কোনো সুপারিশকারীও না যার কথা মানা হয়। দ্বিতীয় আয়াতে ঠিক এই শব্দটিই আছে: মিন হামীম।"
+            "bn": "সা'দী শব্দটিকে পড়েন সুপারিশের দিক থেকে। তাঁর মতে হামীম সে, যে ইয়াশফাউ লাহু লিইয়ানজুওয়া মিন আযাবিল্লাহি আও ইয়াফূযা বিসাওয়াবিল্লাহ। অর্থাৎ যে তার জন্য সুপারিশ করত, যাতে সে আল্লাহর আযাব থেকে বাঁচে, কিংবা আল্লাহর প্রতিদান লাভ করে। তারপর তিনি কোনো মন্তব্য ও নম্বর ছাড়া দুটি আয়াত উদ্ধৃত করেন; নম্বর দুটি এই লেখার নিজের। প্রথমটি ৩৪:২৩: তাঁর কাছে সুপারিশ কোনো কাজে আসে না, তবে তিনি যাকে অনুমতি দেন, এমন একজনের কথা আলাদা। দ্বিতীয়টি ৪০:১৮: জালিমদের জন্য কোনো অন্তরঙ্গ বন্ধু থাকবে না, এমন কোনো সুপারিশকারীও না যার কথা মানা হয়। দ্বিতীয় আয়াতে ঠিক এই শব্দটিই আছে: মিন হামীম।"
           },
           {
             "en": "Set beside our verse, the two quotations do different work. 40:18 repeats the denial in the same vocabulary and adds the intercessor beside it, which is also the pairing Ibn Kathir makes in his paraphrase. 34:23 states the rule behind the denial: intercession with Allah depends on His permission. As-Sa'di leaves the connection there, and so does this article. Neither verse is taken further than he takes it, and no claim is made here about who is or is not permitted.",
@@ -785,7 +785,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No hadith is attached to this verse in the tafsirs fetched for it. The reports Ibn Kathir carries in this passage, from Ibn Abbas through several chains and from Qatada, ar-Rabi' and ad-Dahhak, all concern ghislin, so they belong to the next verse and are not reported here. Nor does any of these sources give an occasion of revelation for 69:35. For five words, what they give is enough: the Day, the place, and the hamim explained.",
-            "bn": "এ আয়াতের যেসব তাফসীর আনা হয়েছে, তার কোনোটিতে আয়াতের সঙ্গে কোনো হাদীস যুক্ত নেই। এ অংশে ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে, আর কাতাদা, রাবী ও দাহহাক থেকে যেসব বর্ণনা এনেছেন, সবই গিসলীন নিয়ে। সেগুলো তাই পরের আয়াতের বিষয়, এখানে আনা হয়নি। ৬৯:৩৫ আয়াতের কোনো শানে নুযূলও এসব তাফসীরে নেই। পাঁচ শব্দের জন্য তারা যা দিয়েছে তা-ই যথেষ্ট: দিনের নাম, জায়গার নাম, আর হামীমের ব্যাখ্যা।"
+            "bn": "এ আয়াতের যেসব তাফসীর আনা হয়েছে, তার কোনোটিতে আয়াতের সঙ্গে কোনো হাদিস যুক্ত নেই। এ অংশে ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে, আর কাতাদা, রাবী ও দাহহাক থেকে যেসব বর্ণনা এনেছেন, সবই গিসলীন নিয়ে। সেগুলো তাই পরের আয়াতের বিষয়, এখানে আনা হয়নি। ৬৯:৩৫ আয়াতের কোনো শানে নুযূলও এসব তাফসীরে নেই। পাঁচ শব্দের জন্য তারা যা দিয়েছে তা-ই যথেষ্ট: দিনের নাম, জায়গার নাম, আর হামীমের ব্যাখ্যা।"
           }
         ]
       },
@@ -797,7 +797,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes what it describes: a man on the Day of Resurrection, already seized and chained in 69:30 to 69:32, who has no hamim there. It licenses nothing against any living person or any community. It does not let anyone say of a neighbour, a relative or a people that they will be friendless in the Hereafter, and this article says it of nobody. The Muyassar's hadha al-kafir and the wrongdoers of 40:18 name a condition of that Day, not a label to fasten on anyone now.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কিয়ামতের দিনের এক মানুষ, ৬৯:৩০ থেকে ৬৯:৩২ আয়াতে যাকে ধরে শিকলে বাঁধা হয়েছে, সেখানে তার কোনো হামীম নেই। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতি সম্পর্কে আখিরাতে তারা বন্ধুহীন থাকবে, এমন কথা বলার সুযোগ এ আয়াত কাউকে দেয় না। এ লেখাও কারও সম্পর্কে তা বলে না। মুয়াসসারের হাযাল কাফির আর ৪০:১৮ আয়াতের যালিমরা সেই দিনের এক অবস্থার নাম। আজ কারও গায়ে লাগিয়ে দেওয়ার মতো তকমা নয়।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কিয়ামতের দিনের এক মানুষ, ৬৯:৩০ থেকে ৬৯:৩২ আয়াতে যাকে ধরে শিকলে বাঁধা হয়েছে, সেখানে তার কোনো হামীম নেই। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতি সম্পর্কে আখিরাতে তারা বন্ধুহীন থাকবে, এমন কথা বলার সুযোগ এ আয়াত কাউকে দেয় না। এ লেখাও কারও সম্পর্কে তা বলে না। মুয়াসসারের হাযাল কাফির আর ৪০:১৮ আয়াতের জালিমরা সেই দিনের এক অবস্থার নাম। আজ কারও গায়ে লাগিয়ে দেওয়ার মতো তকমা নয়।"
           },
           {
             "en": "Nor does the verse teach that kinship and friendship are worthless. The commentators define the hamim by what a relative or friend does: defending, rescuing, feeling tender, interceding. Those are the ordinary works of family and friendship, and the glosses take them seriously. Their point, as they read the verse, is that on that Day and in that place none of it reaches this man. What a reader takes from that is a question about their own reliance and their own record, not a judgement on anyone else's.",
@@ -837,18 +837,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di widens the oath further: everything creatures see and everything they do not see falls within it, and he adds that even Allah's own holy Self enters it. What the oath affirms, in his words, is the truthfulness of the Messenger in what he brought of this Qur'an, and that the noble Messenger conveyed it from Allah. Ibn Kathir reads it the same way, as an oath that the Qur'an is Allah's speech, His inspiration and His revelation to His servant and Messenger.",
-            "bn": "সা'দী কসমটাকে আরও বিস্তৃত করেন। সৃষ্টি যা দেখে আর যা দেখে না, সবই এর ভেতরে পড়ে। তিনি যোগ করেন, আল্লাহর পবিত্র সত্তাও এর অন্তর্ভুক্ত। তাঁর ভাষায়, কসমটি যে কথা প্রতিষ্ঠা করে তা হলো, এই কুরআন নিয়ে রসূল যা এনেছেন তাতে তিনি সত্যবাদী, আর সম্মানিত রসূল তা আল্লাহর কাছ থেকে পৌঁছে দিয়েছেন। ইবন কাসীরও একই দিকে যান। তাঁর কাছে এটি এই মর্মে কসম যে কুরআন আল্লাহর কালাম, তাঁর ওহি, তাঁর বান্দা ও রসূলের উপর তাঁর নাযিল করা বাণী।"
+            "bn": "সা'দী কসমটাকে আরও বিস্তৃত করেন। সৃষ্টি যা দেখে আর যা দেখে না, সবই এর ভেতরে পড়ে। তিনি যোগ করেন, আল্লাহর পবিত্র সত্তাও এর অন্তর্ভুক্ত। তাঁর ভাষায়, কসমটি যে কথা প্রতিষ্ঠা করে তা হলো, এই কুরআন নিয়ে রাসূল যা এনেছেন তাতে তিনি সত্যবাদী, আর সম্মানিত রাসূল তা আল্লাহর কাছ থেকে পৌঁছে দিয়েছেন। ইবন কাসীরও একই দিকে যান। তাঁর কাছে এটি এই মর্মে কসম যে কুরআন আল্লাহর কালাম, তাঁর ওহি, তাঁর বান্দা ও রাসূলের উপর তাঁর নাজিল করা বাণী।"
           },
           {
             "en": "The answer to the oath comes at 69:40: innahu la-qawlu rasulin karim, it is the word of a noble Messenger. Then our verse sets the Qur'an apart from what the deniers called it: wa ma huwa bi-qawli sha'ir; qalilan ma tu'minun, and it is not the word of a poet; little is what you believe. Seven Arabic words, split by a pause mark into a denial and a reproach. The Muyassar reads 69:38 to 69:43 as one statement and adds the words as you claim after the poet.",
-            "bn": "কসমের জবাব আসে ৬৯:৪০ আয়াতে: ইন্নাহূ লাকাওলু রসূলিন কারীম, নিশ্চয়ই এটি এক সম্মানিত রসূলের বাণী। তারপর আমাদের আয়াতটি কুরআনকে আলাদা করে সেই নাম থেকে, যে নাম অস্বীকারকারীরা দিয়েছিল: ওয়ামা হুয়া বিকাওলি শা'ইর, কালীলাম মা তু'মিনূন। এটি কোনো কবির কথা নয়, তোমরা অল্পই বিশ্বাস করো। আরবিতে সাতটি শব্দ, মাঝখানে একটি থামার চিহ্ন। এক ভাগে অস্বীকার, অন্য ভাগে ভর্ৎসনা। মুয়াসসার ৬৯:৩৮ থেকে ৬৯:৪৩ পর্যন্ত এক বক্তব্য হিসেবে পড়ে, আর কবির কথার পর জুড়ে দেয়: যেমনটা তোমরা দাবি করো।"
+            "bn": "কসমের জবাব আসে ৬৯:৪০ আয়াতে: ইন্নাহূ লাকাওলু রাসূলিন কারীম, নিশ্চয়ই এটি এক সম্মানিত রাসূলের বাণী। তারপর আমাদের আয়াতটি কুরআনকে আলাদা করে সেই নাম থেকে, যে নাম অস্বীকারকারীরা দিয়েছিল: ওয়ামা হুয়া বিকাওলি শা'ইর, কালীলাম মা তু'মিনূন। এটি কোনো কবির কথা নয়, তোমরা অল্পই বিশ্বাস করো। আরবিতে সাতটি শব্দ, মাঝখানে একটি থামার চিহ্ন। এক ভাগে অস্বীকার, অন্য ভাগে ভর্ৎসনা। মুয়াসসার ৬৯:৩৮ থেকে ৬৯:৪৩ পর্যন্ত এক বক্তব্য হিসেবে পড়ে, আর কবির কথার পর জুড়ে দেয়: যেমনটা তোমরা দাবি করো।"
           }
         ]
       },
       {
         "h": {
           "en": "A Messenger, Angelic or Human",
-          "bn": "ফেরেশতা রসূল, নাকি মানুষ রসূল"
+          "bn": "ফেরেশতা রাসূল, নাকি মানুষ রাসূল"
         },
         "p": [
           {
@@ -857,11 +857,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari takes the second side: it is Muhammad ﷺ, who recites it to them. Al-Baghawi reads qawl here as recitation, the recitation of a noble Messenger, and names Muhammad ﷺ. Ibn Kathir names Muhammad ﷺ for this verse and Jibril for the matching words in at-Takwir, and his comment on 69:41 explains why both are possible: Allah attributes the word once to the angelic messenger and once to the human one, because each conveys from Allah what He entrusted to him of His revelation and speech.",
-            "bn": "তাবারী দ্বিতীয় মত নেন: তিনি মুহাম্মাদ ﷺ, যিনি তাদের কাছে এটি তিলাওয়াত করেন। বাগাভী এখানে কাওল শব্দের অর্থ করেন তিলাওয়াত, অর্থাৎ এক সম্মানিত রসূলের পাঠ, আর নাম নেন মুহাম্মাদ ﷺ-এর। ইবন কাসীর এ আয়াতে মুহাম্মাদ ﷺ-কে বোঝেন, আর সূরা তাকভীরের একই শব্দগুলোতে জিবরীল (আঃ)-কে। দুটোই কেন সম্ভব, ৬৯:৪১ আয়াতের ব্যাখ্যায় তিনি তা বলে দেন। আল্লাহ বাণীটিকে কোথাও ফেরেশতা রসূলের দিকে, কোথাও মানুষ রসূলের দিকে সম্পর্কিত করেছেন। কারণ দুজনই আল্লাহর অর্পিত ওহি ও কালাম তাঁর পক্ষ থেকে পৌঁছে দেন।"
+            "bn": "তাবারী দ্বিতীয় মত নেন: তিনি মুহাম্মাদ ﷺ, যিনি তাদের কাছে এটি তিলাওয়াত করেন। বাগাভী এখানে কাওল শব্দের অর্থ করেন তিলাওয়াত, অর্থাৎ এক সম্মানিত রাসূলের পাঠ, আর নাম নেন মুহাম্মাদ ﷺ-এর। ইবন কাসীর এ আয়াতে মুহাম্মাদ ﷺ-কে বোঝেন, আর সূরা তাকভীরের একই শব্দগুলোতে জিবরীল (আঃ)-কে। দুটোই কেন সম্ভব, ৬৯:৪১ আয়াতের ব্যাখ্যায় তিনি তা বলে দেন। আল্লাহ বাণীটিকে কোথাও ফেরেশতা রাসূলের দিকে, কোথাও মানুষ রাসূলের দিকে সম্পর্কিত করেছেন। কারণ দুজনই আল্লাহর অর্পিত ওহি ও কালাম তাঁর পক্ষ থেকে পৌঁছে দেন।"
           },
           {
             "en": "On one point the commentators fetched here do not differ: word of a messenger does not mean the messenger composed it. For al-Qurtubi the Qur'an is not the Messenger's own speech but the speech of Allah, and it is attributed to him because he recites it, conveys it and acts on it, as one says, this is the saying of Malik. The Muyassar puts it as the speech of Allah, recited by a Messenger of great honour and merit.",
-            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, একটি বিষয়ে তাদের মধ্যে কোনো মতভেদ নেই: রসূলের বাণী মানে রসূল নিজে এটি রচনা করেছেন, তা নয়। কুরতুবীর মতে কুরআন রসূলের নিজের কথা নয়, আল্লাহর কালাম। রসূলের দিকে একে সম্পর্কিত করা হয়েছে, কারণ তিনি তা পাঠ করেন, পৌঁছে দেন এবং সে অনুযায়ী আমল করেন। ঠিক যেমন আমরা বলি, এটা মালিকের কথা। মুয়াসসার বলে, এটি আল্লাহর কালাম, যা পাঠ করেন অত্যন্ত সম্মানিত ও মর্যাদাবান এক রসূল।"
+            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, একটি বিষয়ে তাদের মধ্যে কোনো মতভেদ নেই: রাসূলের বাণী মানে রাসূল নিজে এটি রচনা করেছেন, তা নয়। কুরতুবীর মতে কুরআন রাসূলের নিজের কথা নয়, আল্লাহর কালাম। রাসূলের দিকে একে সম্পর্কিত করা হয়েছে, কারণ তিনি তা পাঠ করেন, পৌঁছে দেন এবং সে অনুযায়ী আমল করেন। ঠিক যেমন আমরা বলি, এটা মালিকের কথা। মুয়াসসার বলে, এটি আল্লাহর কালাম, যা পাঠ করেন অত্যন্ত সম্মানিত ও মর্যাদাবান এক রাসূল।"
           }
         ]
       },
@@ -881,7 +881,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di frames the verse as a defence: Allah cleared His Messenger of what his enemies threw at him, that he was a poet or a sorcerer. The Muyassar adds as you claim, which marks the poet charge as the deniers' own word. The verse does not quote them. It answers them, and the commentators supply the setting the answer assumes. At-Tabari names the addressees as the polytheists of Quraysh, who heard the Qur'an recited by the Messenger ﷺ and called it poetry.",
-            "bn": "সা'দী আয়াতটিকে দেখেন এক জবাব হিসেবে: শত্রুরা আল্লাহর রসূলের উপর যে অপবাদ ছুড়েছিল, যে তিনি কবি বা জাদুকর, আল্লাহ তাঁকে তা থেকে মুক্ত ঘোষণা করেছেন। মুয়াসসার জুড়ে দেয় 'যেমনটা তোমরা দাবি করো', অর্থাৎ কবি বলার অভিযোগটা অস্বীকারকারীদের নিজেদের কথা। আয়াত তাদের কথা উদ্ধৃত করে না, জবাব দেয়। জবাবের পেছনের পরিস্থিতিটা তাফসীরকারেরা পূরণ করেন। তাবারীর মতে সম্বোধিত লোকেরা কুরাইশের মুশরিক। তারা রসূল ﷺ-এর মুখে কুরআন তিলাওয়াত শুনত আর একে কবিতা বলত।"
+            "bn": "সা'দী আয়াতটিকে দেখেন এক জবাব হিসেবে: শত্রুরা আল্লাহর রাসূলের উপর যে অপবাদ ছুড়েছিল, যে তিনি কবি বা জাদুকর, আল্লাহ তাঁকে তা থেকে মুক্ত ঘোষণা করেছেন। মুয়াসসার জুড়ে দেয় 'যেমনটা তোমরা দাবি করো', অর্থাৎ কবি বলার অভিযোগটা অস্বীকারকারীদের নিজেদের কথা। আয়াত তাদের কথা উদ্ধৃত করে না, জবাব দেয়। জবাবের পেছনের পরিস্থিতিটা তাফসীরকারেরা পূরণ করেন। তাবারীর মতে সম্বোধিত লোকেরা কুরাইশের মুশরিক। তারা রাসূল ﷺ-এর মুখে কুরআন তিলাওয়াত শুনত আর একে কবিতা বলত।"
           }
         ]
       },
@@ -929,7 +929,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di explains what produced the charge, in terms that match the two verbs closing 69:41 and 69:42. What drove them to it, he says, was their lack of belief and of reflection. Had they believed and reflected, they would have known what benefits them and what harms them. Among that, they would have looked at the condition of Muhammad ﷺ and watched his qualities and his character, and seen something like the sun, showing them that he is truly the Messenger of Allah.",
-            "bn": "অভিযোগটা জন্ম নিল কোথা থেকে, সা'দী তা ব্যাখ্যা করেন। তাঁর ব্যাখ্যা মিলে যায় সেই দুই ক্রিয়ার সঙ্গে, যা দিয়ে ৬৯:৪১ ও ৬৯:৪২ শেষ হয়। তাঁর মতে তাদের এ পথে ঠেলে দিয়েছিল ঈমানের অভাব আর উপদেশ গ্রহণের অভাব। তারা যদি বিশ্বাস করত, ভেবে দেখত, তবে বুঝত কী তাদের উপকার করে আর কী ক্ষতি। তখন তারা মুহাম্মাদ ﷺ-এর অবস্থা দেখত, তাঁর গুণ আর চরিত্র মন দিয়ে লক্ষ করত। আর দেখতে পেত সূর্যের মতো স্পষ্ট এক বিষয়, যা বলে দেয় তিনি সত্যিই আল্লাহর রসূল।"
+            "bn": "অভিযোগটা জন্ম নিল কোথা থেকে, সা'দী তা ব্যাখ্যা করেন। তাঁর ব্যাখ্যা মিলে যায় সেই দুই ক্রিয়ার সঙ্গে, যা দিয়ে ৬৯:৪১ ও ৬৯:৪২ শেষ হয়। তাঁর মতে তাদের এ পথে ঠেলে দিয়েছিল ঈমানের অভাব আর উপদেশ গ্রহণের অভাব। তারা যদি বিশ্বাস করত, ভেবে দেখত, তবে বুঝত কী তাদের উপকার করে আর কী ক্ষতি। তখন তারা মুহাম্মাদ ﷺ-এর অবস্থা দেখত, তাঁর গুণ আর চরিত্র মন দিয়ে লক্ষ করত। আর দেখতে পেত সূর্যের মতো স্পষ্ট এক বিষয়, যা বলে দেয় তিনি সত্যিই আল্লাহর রাসূল।"
           },
           {
             "en": "His point turns the verse's reproach into an explanation. On his reading, the little belief named at the end of the verse is what produced the charge named at its start: a heart that had believed would have looked, and looking would have settled the matter. The Muyassar closes the passage with what the Qur'an is: it is the speech of the Lord of the worlds, which He sent down on His Messenger Muhammad ﷺ. The companion charge of the soothsayer in 69:42 belongs to its own verse and is left there.",
@@ -949,7 +949,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Arabic of 81:19 matches 69:40 word for word, innahu la-qawlu rasulin karim, and in both places a run of denials follows. What is denied differs: there a madman and a devil, here a poet and a soothsayer. On narrations, none of the commentaries fetched for this verse attaches a hadith or an occasion of revelation to it, and Ibn Kathir's comment on 69:38 to 69:43 cites none, so no hadith is quoted in this article.",
-            "bn": "৮১:১৯ আয়াতের আরবি হুবহু ৬৯:৪০ আয়াতের মতো, ইন্নাহূ লাকাওলু রসূলিন কারীম। দুই জায়গাতেই এরপর একের পর এক অস্বীকার আসে। তফাত শুধু কী অস্বীকার করা হচ্ছে তাতে। সেখানে পাগল আর শয়তান, এখানে কবি আর গণক। বর্ণনার কথা বললে, এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি। ৬৯:৩৮ থেকে ৬৯:৪৩ আয়াতের ব্যাখ্যায় ইবন কাসীরও কোনো হাদীস আনেননি। তাই এ লেখায় কোনো হাদীস উদ্ধৃত করা হয়নি।"
+            "bn": "৮১:১৯ আয়াতের আরবি হুবহু ৬৯:৪০ আয়াতের মতো, ইন্নাহূ লাকাওলু রাসূলিন কারীম। দুই জায়গাতেই এরপর একের পর এক অস্বীকার আসে। তফাত শুধু কী অস্বীকার করা হচ্ছে তাতে। সেখানে পাগল আর শয়তান, এখানে কবি আর গণক। বর্ণনার কথা বললে, এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদিস বা শানে নুযূল যুক্ত করেনি। ৬৯:৩৮ থেকে ৬৯:৪৩ আয়াতের ব্যাখ্যায় ইবন কাসীরও কোনো হাদিস আনেননি। তাই এ লেখায় কোনো হাদিস উদ্ধৃত করা হয়নি।"
           }
         ]
       },
@@ -961,7 +961,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The you of tu'minun is, in at-Tabari's words, the polytheists of Quraysh, the people who heard the Messenger ﷺ recite and called him a poet. The verse describes what it describes: a charge made then and Allah's answer to it. It licenses nothing against any living person or community. It names no one today as a denier, and it gives no reader a word to throw at a neighbour who believes differently. Its subject is the Qur'an itself and where that word comes from.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারীর ভাষায় তু'মিনূন-এর 'তোমরা' হলো কুরাইশের মুশরিকরা, যারা রসূল ﷺ-এর তিলাওয়াত শুনে তাঁকে কবি বলেছিল। আয়াতটি যা বর্ণনা করে, ঠিক তা-ই বর্ণনা করে: তখনকার একটি অভিযোগ আর তার উপর আল্লাহর জবাব। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কাউকে সে অস্বীকারকারী বলে চিহ্নিত করে না। ভিন্ন বিশ্বাসের প্রতিবেশীর দিকে ছুড়ে মারার মতো কোনো কথাও পাঠকের হাতে তুলে দেয় না। এর বিষয় কুরআন নিজে, আর এই বাণী কোথা থেকে আসে।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারীর ভাষায় তু'মিনূন-এর 'তোমরা' হলো কুরাইশের মুশরিকরা, যারা রাসূল ﷺ-এর তিলাওয়াত শুনে তাঁকে কবি বলেছিল। আয়াতটি যা বর্ণনা করে, ঠিক তা-ই বর্ণনা করে: তখনকার একটি অভিযোগ আর তার উপর আল্লাহর জবাব। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কাউকে সে অস্বীকারকারী বলে চিহ্নিত করে না। ভিন্ন বিশ্বাসের প্রতিবেশীর দিকে ছুড়ে মারার মতো কোনো কথাও পাঠকের হাতে তুলে দেয় না। এর বিষয় কুরআন নিজে, আর এই বাণী কোথা থেকে আসে।"
           },
           {
             "en": "What the verse can do for a reader now is narrower and harder. Al-Qurtubi's little was a belief that stopped at the Creator: they would say Allah when asked who created them, and on his gloss that was the whole of it. A reader can hold the correct label, revelation from the Lord of the worlds, as 69:43 calls it, and yet let that belief stay small, admired in recitation and left out of the day. The verse's reproach was aimed at others first, but every reader can apply its measure to their own belief.",
