@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi widens the list to sixteen sayings. Beside the river and the pool, he records prophethood and the Book, from 'Ikrima; the Qur'an, from al-Hasan; Islam; the easing of the Qur'an and the lightening of the laws; the great number of companions and followers, from Abu Bakr ibn 'Ayyash and Yaman ibn Ri'ab; preferring others over oneself; the raising of his mention, which he relays from al-Mawardi; intercession; the testimony of faith; understanding of the religion; and the five prayers.",
-            "bn": "কুরতুবী তালিকাটা বাড়িয়ে ষোলোটি মতে নিয়ে যান। নহর আর হাওযের পাশাপাশি তিনি লিখেছেন: ইকরিমা থেকে নবুওয়াত ও কিতাব, হাসান থেকে কুরআন, ইসলাম, কুরআনকে সহজ করা ও শরীয়তের বিধান হালকা করা, আবু বাকর ইবন আইয়াশ ও ইয়ামান ইবন রিআব থেকে সাহাবি ও অনুসারীর আধিক্য। আরও আছে নিজের উপর অন্যকে প্রাধান্য দেওয়া, মাওয়ার্দীর সূত্রে তাঁর আলোচনাকে সমুন্নত করা, শাফাআত, কালিমায়ে তাওহীদ, দ্বীনের গভীর বুঝ আর পাঁচ ওয়াক্ত নামাজ।"
+            "bn": "কুরতুবী তালিকাটা বাড়িয়ে ষোলোটি মতে নিয়ে যান। নহর আর হাওযের পাশাপাশি তিনি লিখেছেন: ইকরিমা থেকে নবুওয়াত ও কিতাব, হাসান থেকে কুরআন, ইসলাম, কুরআনকে সহজ করা ও শরীয়তের বিধান হালকা করা, আবু বাকর ইবন আইয়াশ ও ইয়ামান ইবন রিআব থেকে সাহাবি ও অনুসারীর আধিক্য। আরও আছে নিজের উপর অন্যকে প্রাধান্য দেওয়া, মাওয়ার্দীর সূত্রে তাঁর আলোচনাকে সমুন্নত করা, শাফাআত, কালিমায়ে তাওহিদ, দ্বীনের গভীর বুঝ আর পাঁচ ওয়াক্ত নামাজ।"
           }
         ]
       },
@@ -97,7 +97,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other side answered in the same spirit. At-Tabari and Ibn Kathir both record that Muharib ibn Dithar asked 'Ata' ibn as-Sa'ib what Sa'id ibn Jubayr said about al-Kawthar. Told that Sa'id reported Ibn 'Abbas as saying abundant good, Muharib replied: he spoke the truth, by Allah, it is abundant good. But Ibn 'Umar told us, he went on, that when the verse came down the Prophet ﷺ said al-Kawthar is a river in Paradise, its banks of gold, running over pearls and rubies.",
-            "bn": "অপর পক্ষও জবাব দিয়েছে একই মেজাজে। তাবারী ও ইবন কাসীর দুজনেই লিপিবদ্ধ করেন, মুহারিব ইবন দিসার আতা ইবনুস সাইবকে জিজ্ঞেস করলেন, কাওসার সম্পর্কে সাঈদ ইবন জুবাইর কী বলেন? আতা জানালেন, সাঈদ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে এর অর্থ অফুরন্ত কল্যাণ। মুহারিব বললেন: আল্লাহর কসম, তিনি সত্য বলেছেন, এটা অফুরন্ত কল্যাণই। তবে ইবন উমর (রাঃ) আমাদের বলেছেন, আয়াতটি নাযিল হলে নবী ﷺ বললেন, কাওসার জান্নাতের একটি নহর, যার দুই তীর সোনার, আর তা বয়ে চলে মুক্তা ও ইয়াকুতের উপর দিয়ে।"
+            "bn": "অপর পক্ষও জবাব দিয়েছে একই মেজাজে। তাবারী ও ইবন কাসীর দুজনেই লিপিবদ্ধ করেন, মুহারিব ইবন দিসার আতা ইবনুস সাইবকে জিজ্ঞেস করলেন, কাওসার সম্পর্কে সাঈদ ইবন জুবাইর কী বলেন? আতা জানালেন, সাঈদ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে এর অর্থ অফুরন্ত কল্যাণ। মুহারিব বললেন: আল্লাহর কসম, তিনি সত্য বলেছেন, এটা অফুরন্ত কল্যাণই। তবে ইবন উমর (রাঃ) আমাদের বলেছেন, আয়াতটি নাজিল হলে নবী ﷺ বললেন, কাওসার জান্নাতের একটি নহর, যার দুই তীর সোনার, আর তা বয়ে চলে মুক্তা ও ইয়াকুতের উপর দিয়ে।"
           }
         ]
       },
