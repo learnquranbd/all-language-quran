@@ -1201,43 +1201,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sanurihim ayatina — We will show them Our signs — in the horizons and within themselves, until it becomes clear to them that it is the truth. The verb is future and continuous: not signs already sealed in a completed list, but a showing that goes on. Every generation, the verse promises, will be shown enough — in the world it explores and the self it inhabits — for the truth of the revelation to stand clear.",
-            "bn": "সানুরীহিম আয়াতিনা — আমি তাদের আমার নিদর্শনগুলো দেখাব — দিগন্তসমূহে এবং তাদের নিজেদের মধ্যে, যতক্ষণ না তাদের কাছে স্পষ্ট হয় যে এটিই সত্য। ক্রিয়াটি ভবিষ্যৎ ও চলমান: সম্পূর্ণ হয়ে যাওয়া কোনো তালিকায় সিলমোহর পড়া নিদর্শন নয়, বরং এমন এক দেখানো যা চলতেই থাকে। আয়াতের প্রতিশ্রুতি: প্রতিটি প্রজন্মকে যথেষ্ট দেখানো হবে — যে জগৎ সে অনুসন্ধান করে আর যে সত্তায় সে বাস করে, দুটিতেই — যাতে ওহীর সত্যতা স্পষ্ট দাঁড়িয়ে যায়।"
+            "bn": "সানুরীহিম আয়াতিনা: আমি তাদের আমার নিদর্শনগুলো দেখাব দিগন্তে দিগন্তে আর তাদের নিজেদের মধ্যে, যতক্ষণ না তাদের কাছে স্পষ্ট হয়ে যায় যে এটিই সত্য। ক্রিয়াটি ভবিষ্যৎ কালের, আর তা চলতেই থাকে। মানে নিদর্শনগুলো কোনো শেষ হয়ে যাওয়া তালিকায় সিলমোহর করে রাখা নয়, দেখানোর কাজ চলছেই। আয়াতের প্রতিশ্রুতি হলো, প্রতিটি প্রজন্মকে যথেষ্ট দেখানো হবে: বাইরের যে জগৎ সে ঘুরে দেখে তাতে, আর নিজের ভেতরের সত্তায়ও। ফলে ওহির সত্যতা পরিষ্কার হয়ে দাঁড়াবে।"
           },
           {
             "en": "The pronoun in that it is the truth points, the commentators say, to the Quran and the message it carries. The verse thus makes a bold wager: reality itself, honestly examined at any depth, will keep agreeing with the Book. Signs do not replace revelation and revelation does not fear signs; each points at the other, and the showing continues until the seeing is complete.",
-            "bn": "এটিই সত্য — এই বাক্যের সর্বনামটি, মুফাসসিরগণ বলেন, নির্দেশ করে কুরআন ও তার বহন করা বার্তাকে। আয়াতটি তাই এক সাহসী বাজি রাখে: বাস্তবতা নিজে, যে গভীরতাতেই সততার সঙ্গে পরীক্ষা করা হোক, কিতাবের সঙ্গে একমত হতেই থাকবে। নিদর্শন ওহীর জায়গা নেয় না, ওহীও নিদর্শনকে ভয় পায় না; প্রত্যেকে অন্যটির দিকে ইশারা করে, আর দেখা সম্পূর্ণ না হওয়া পর্যন্ত দেখানো চলতে থাকে।"
+            "bn": "'এটিই সত্য' কথায় 'এটি' বলতে কুরআন আর তার বয়ে আনা বার্তাকে বোঝানো হয়েছে, মুফাসসিরগণ এমনই বলেন। আয়াতটি তাই যেন এক সাহসী বাজি ধরে: বাস্তব জগৎকে যত গভীরে গিয়েই সততার সঙ্গে যাচাই করা হোক, তা কিতাবের সঙ্গে মিলতেই থাকবে। নিদর্শন ওহির জায়গা নেয় না, ওহিও নিদর্শনকে ভয় পায় না। একটি আরেকটির দিকে ইশারা করে। আর দেখা পূর্ণ না হওয়া পর্যন্ত দেখানো চলতেই থাকে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Horizons",
-          "bn": "দিগন্তসমূহে নিদর্শন"
+          "bn": "দিগন্তের নিদর্শন"
         },
         "p": [
           {
             "en": "Al-afaq, the horizons, was read two ways by the mufassirun, and both readings stand. Some took it as the regions of the earth — the early hearers would live to see the message reach lands they could not name, itself a sign that this word was not an ordinary word. Others took it as the horizons in the plainest sense: the sky and its order, the alternation that 2:164 and 3:190 keep pointing at from their own angles.",
-            "bn": "আল-আফাক — দিগন্তসমূহ — মুফাসসিরগণ দুইভাবে পড়েছেন, এবং দুটি পাঠই টিকে থাকে। কেউ কেউ একে নিয়েছেন পৃথিবীর অঞ্চলসমূহ অর্থে — প্রথম শ্রোতারা বেঁচে থেকেই দেখবে এই বার্তা এমন সব ভূখণ্ডে পৌঁছেছে যাদের নামও তারা জানত না, যা নিজেই এক নিদর্শন যে এই বাণী সাধারণ বাণী নয়। অন্যরা নিয়েছেন সরলতম অর্থে দিগন্ত: আকাশ ও তার শৃঙ্খলা — যে আবর্তনের দিকে 2:164 ও 3:190 নিজ নিজ কোণ থেকে বারবার ইশারা করে।"
+            "bn": "আল-আফাক মানে দিগন্তসমূহ। মুফাসসিরগণ শব্দটি দুইভাবে বুঝেছেন, আর দুটো ব্যাখ্যাই টিকে আছে। কেউ কেউ এর অর্থ নিয়েছেন পৃথিবীর নানা অঞ্চল। প্রথম যুগের শ্রোতারা বেঁচে থাকতেই দেখবেন, এ বার্তা পৌঁছে গেছে এমন সব দেশে, যাদের নামও তাঁরা জানতেন না। এটাই এক নিদর্শন যে এ বাণী সাধারণ কোনো কথা নয়। অন্যরা দিগন্তকে নিয়েছেন সবচেয়ে সরল অর্থে: আকাশ আর তার নিয়মশৃঙ্খলা, সেই পালাবদল, যার দিকে ২:১৬৪ আর ৩:১৯০ নিজ নিজ দিক থেকে বারবার ইশারা করে।"
           },
           {
             "en": "On either reading the instruction to the reader is the same: look outward, and look as one expecting evidence. The Quran repeatedly commands the looking — 10:101 says, observe what is in the heavens and the earth — and treats the cosmos not as scenery but as speech: ayat, signs, the very word used for the Book's own verses. Scholars have long put it this way: creation and revelation are two books of one Author, each vouching for the other.",
-            "bn": "যে পাঠই নিন, পাঠকের প্রতি নির্দেশ একই: বাইরে তাকান, এবং তাকান প্রমাণের প্রত্যাশী হয়ে। কুরআন বারবার তাকানোর আদেশ দেয় — 10:101 বলে, দেখো আসমান ও যমীনে কী আছে — আর মহাজগৎকে গণ্য করে দৃশ্যপট নয়, বাণী হিসেবে: আয়াত, নিদর্শন — ঠিক সেই শব্দ যা কিতাবের নিজের বাক্যগুলোর জন্যও ব্যবহৃত। আলিমগণ বহুদিন ধরেই কথাটি এভাবে বলেছেন: সৃষ্টি ও ওহী এক লেখকেরই দুই কিতাব — প্রত্যেকে অন্যটির সাক্ষ্য দেয়।"
+            "bn": "যে ব্যাখ্যাই নিন, পাঠকের প্রতি নির্দেশ একটাই: বাইরে তাকান, আর তাকান প্রমাণ পাওয়ার আশা নিয়ে। কুরআন বারবার তাকাতে বলে। ১০:১০১ বলে: দেখো, আসমান ও জমিনে কী আছে। কুরআন মহাবিশ্বকে নিছক দৃশ্য হিসেবে দেখে না, দেখে কথা হিসেবে। তাই একে বলে আয়াত, নিদর্শন। কিতাবের নিজের বাক্যগুলোকেও ঠিক এই নামেই ডাকা হয়। আলিমরা বহু আগে থেকেই কথাটা এভাবে বলে আসছেন: সৃষ্টি আর ওহি একই রচয়িতার দুটি কিতাব, একটি আরেকটির সাক্ষ্য দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "And Within Themselves",
-          "bn": "এবং নিজেদের মধ্যে"
+          "bn": "আর নিজেদের ভেতরে"
         },
         "p": [
           {
             "en": "Wa fi anfusihim — and within their own selves. The commentators point to the body's construction, from a drop to hearing, sight and reasoning; to the sustenance and turning of hearts; and to what a person witnesses of Allah's dealings in his own life. 51:20-21 issues the same double summons: on the earth are signs for the certain, and within yourselves — do you not see?",
-            "bn": "ওয়া ফী আনফুসিহিম — এবং তাদের নিজেদের মধ্যে। মুফাসসিরগণ ইঙ্গিত করেন দেহের নির্মাণের দিকে — এক বিন্দু থেকে শ্রবণ, দৃষ্টি ও বিবেক পর্যন্ত; হৃদয়ের রিযিক ও তার মোড় ফেরার দিকে; আর নিজের জীবনে আল্লাহর কার্যধারার যা কিছু মানুষ প্রত্যক্ষ করে তার দিকে। 51:20-21 একই দ্বৈত আহ্বান জারি করে: যমীনে নিদর্শন আছে দৃঢ় বিশ্বাসীদের জন্য, আর তোমাদের নিজেদের মধ্যেও — তোমরা কি দেখো না?"
+            "bn": "ওয়া ফী আনফুসিহিম: আর তাদের নিজেদের ভেতরে। মুফাসসিরগণ কয়েকটি দিক দেখান। দেহের গঠন: এক ফোঁটা থেকে শুরু করে শোনা, দেখা আর বুদ্ধি পর্যন্ত। অন্তরের খোরাক আর অন্তরের পালাবদল। আর নিজের জীবনে আল্লাহ তার সঙ্গে যা যা করেছেন, তার যতটুকু মানুষ নিজের চোখে দেখে। ৫১:২০-২১ একই সঙ্গে দুই দিকে ডাকে: দৃঢ় বিশ্বাসীদের জন্য জমিনে নিদর্শন আছে, আর তোমাদের নিজেদের মধ্যেও। তোমরা কি দেখো না?"
           },
           {
             "en": "The inward sign has a special force the outward lacks: you cannot dismiss it as someone else's report. Whoever has watched their own heart shift from despair to tranquillity after du'a, or traced how they were carried through what should have broken them, has been shown a sign in the first person. The self is the one witness no sceptic can claim was somewhere else.",
-            "bn": "অন্তর্গত নিদর্শনের এমন এক জোর আছে যা বাইরেরটির নেই: একে অন্য কারও প্রতিবেদন বলে উড়িয়ে দেওয়া যায় না। যে নিজের হৃদয়কে দোয়ার পরে হতাশা থেকে প্রশান্তিতে সরে যেতে দেখেছে, কিংবা খুঁজে দেখেছে কীভাবে তাকে পার করিয়ে নেওয়া হয়েছে এমন কিছুর ভেতর দিয়ে যা তাকে ভেঙে ফেলার কথা ছিল — তাকে নিদর্শন দেখানো হয়েছে একেবারে নিজের জবানে। নিজ সত্তা এমন এক সাক্ষী, কোনো সংশয়বাদী যার সম্পর্কে বলতে পারে না যে সে অন্য কোথাও ছিল।"
+            "bn": "ভেতরের নিদর্শনের এমন এক জোর আছে, যা বাইরেরটার নেই: একে অন্যের মুখে শোনা খবর বলে উড়িয়ে দেওয়া যায় না। দোয়ার পরে যে নিজের হৃদয়কে হতাশা থেকে প্রশান্তিতে ফিরতে দেখেছে, কিংবা পেছন ফিরে বুঝেছে, যা তাকে ভেঙে ফেলার কথা ছিল তার ভেতর দিয়ে কীভাবে তাকে পার করিয়ে আনা হয়েছে, সে নিদর্শন দেখেছে নিজের জীবনেই। নিজের সত্তা এমন এক সাক্ষী, যার ব্যাপারে কোনো সংশয়বাদী বলতে পারে না যে সে তখন অন্য কোথাও ছিল।"
           }
         ]
       },
@@ -1249,11 +1249,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Hatta yatabayyana lahum — until it becomes clear to them. Clarity, in the Quran's account, arrives cumulatively: sign upon sign, outer and inner agreeing, until denial requires more effort than acceptance. This is how 2:164 works, piling the heavens, the rain, the ships and the winds into one verse for a people who reason, and how 3:190-191 describes the thinkers whom the alternation of night and day leads to: our Lord, You did not create this in vain.",
-            "bn": "হাত্তা ইয়াতাবাইয়ানা লাহুম — যতক্ষণ না তাদের কাছে স্পষ্ট হয়। কুরআনের বিবরণে স্পষ্টতা আসে স্তরে স্তরে: নিদর্শনের ওপর নিদর্শন, বাহির ও ভেতর একমত হতে হতে, যতক্ষণ না অস্বীকারে গ্রহণের চেয়ে বেশি পরিশ্রম লাগে। 2:164 এভাবেই কাজ করে — আসমান, বৃষ্টি, জাহাজ আর বাতাসকে এক আয়াতে স্তূপ করে, বোঝে এমন জাতির জন্য; আর 3:190-191 বর্ণনা করে সেই চিন্তাশীলদের, রাত-দিনের আবর্তন যাদের পৌঁছে দেয় এই কথায়: আমাদের রব, আপনি এসব অনর্থক সৃষ্টি করেননি।"
+            "bn": "হাত্তা ইয়াতাবাইয়ানা লাহুম: যতক্ষণ না তাদের কাছে স্পষ্ট হয়ে যায়। কুরআনের বর্ণনায় স্পষ্টতা আসে ধাপে ধাপে, জমতে জমতে। নিদর্শনের ওপর নিদর্শন আসে, বাইরের আর ভেতরের সাক্ষ্য মিলে যায়। শেষে অস্বীকার করতেই মেনে নেওয়ার চেয়ে বেশি কষ্ট লাগে। ২:১৬৪ ঠিক এভাবেই কাজ করে: যারা বুদ্ধি খাটায় তাদের জন্য আসমান, বৃষ্টি, জাহাজ আর বাতাসকে এক আয়াতে জড়ো করে। ৩:১৯০-১৯১ আয়াতেও আছে সেই চিন্তাশীলদের কথা, রাত-দিনের পালাবদল যাদের এই কথায় পৌঁছে দেয়: হে আমাদের রব, আপনি এসব অনর্থক সৃষ্টি করেননি।"
           },
           {
             "en": "Note what the verse does not promise: that signs will force belief. Clarity can be shown and still refused; the Quran describes people who saw and turned away. The promise is about the evidence, not the verdict — Allah undertakes that the case will be made plain, and leaves the response where He always leaves it, with the one who has been shown.",
-            "bn": "লক্ষ করুন আয়াতটি কী প্রতিশ্রুতি দেয় না: নিদর্শন ঈমান জোর করে আদায় করবে — এমন নয়। স্পষ্টতা দেখানো হতে পারে, তবু প্রত্যাখ্যাত হতে পারে; কুরআন এমন মানুষদের বর্ণনা দেয় যারা দেখেও মুখ ফিরিয়েছে। প্রতিশ্রুতিটি প্রমাণ নিয়ে, রায় নিয়ে নয় — আল্লাহ দায়িত্ব নেন যে মামলাটি সুস্পষ্ট করা হবে, আর জবাবটুকু রেখে দেন যেখানে তিনি সবসময় রাখেন: যাকে দেখানো হয়েছে, তার হাতে।"
+            "bn": "লক্ষ করুন, আয়াতটি কী প্রতিশ্রুতি দেয় না। নিদর্শন জোর করে কাউকে ঈমান আনাবে, এমন কথা এখানে নেই। স্পষ্ট করে দেখানোর পরও মানুষ তা ফিরিয়ে দিতে পারে। কুরআন এমন লোকদের কথা বলে, যারা দেখেও মুখ ফিরিয়ে নিয়েছে। প্রতিশ্রুতিটা প্রমাণ নিয়ে, রায় নিয়ে নয়। আল্লাহ দায়িত্ব নেন যে বিষয়টি পরিষ্কার করে তুলে ধরা হবে। আর সাড়া দেওয়ার ভার তিনি রেখে দেন সেখানেই, যেখানে সব সময় রাখেন: যাকে দেখানো হয়েছে, তার হাতে।"
           }
         ]
       },
@@ -1265,11 +1265,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes above the whole argument: is it not sufficient concerning your Lord that He is, over all things, a Witness? After horizons and selves, the final ground of certainty is not an object but a presence. He does not merely leave traces to be deciphered; He witnesses everything, including the deciphering, including the doubter mid-doubt. For hearts far along the road, this is the deepest proof: knowing themselves seen.",
-            "bn": "আয়াতটি শেষ হয় পুরো যুক্তির ঊর্ধ্বে উঠে: আপনার রবের ব্যাপারে কি এটুকু যথেষ্ট নয় যে তিনি সবকিছুর ওপর সাক্ষী? দিগন্ত ও নিজ সত্তার পরে নিশ্চয়তার চূড়ান্ত ভিত্তি কোনো বস্তু নয়, এক উপস্থিতি। তিনি কেবল পাঠোদ্ধারের জন্য চিহ্ন রেখে যান না; তিনি সবকিছু প্রত্যক্ষ করেন — পাঠোদ্ধারটিসহ, সংশয়ের মাঝখানে থাকা সংশয়ীসহ। পথের অনেকটা এগিয়ে যাওয়া হৃদয়ের কাছে এটিই গভীরতম প্রমাণ: নিজেকে দেখা-হচ্ছে জানা।"
+            "bn": "আয়াতটি শেষ হয় গোটা যুক্তির ওপরে উঠে: আপনার রবের ব্যাপারে এটুকু কি যথেষ্ট নয় যে তিনি সবকিছুর সাক্ষী? দিগন্ত আর নিজের সত্তার পর নিশ্চয়তার শেষ ভিত্তি কোনো বস্তু নয়, এক উপস্থিতি। তিনি শুধু চিহ্ন রেখে যান না, যা পড়ে বুঝে নিতে হবে। তিনি সবকিছু দেখছেন: চিহ্ন পড়ার চেষ্টাটাও, আর সন্দেহের মাঝপথে থাকা সন্দেহকারীকেও। পথে অনেক দূর এগিয়ে যাওয়া অন্তরের কাছে এটাই সবচেয়ে গভীর প্রমাণ: তিনি আমাকে দেখছেন, এ কথা জানা।"
           },
           {
             "en": "The commentators hear in the closing question a gentle relocation of the whole search. Signs are for our benefit, not His need; He was never absent for evidence to establish. So the reflective reader holds both: study the signs gratefully, and remember that the One they point to is nearer than the pointing, a Witness over the very heart that is weighing Him.",
-            "bn": "সমাপ্তির প্রশ্নটিতে মুফাসসিরগণ শোনেন গোটা অনুসন্ধানের এক কোমল স্থানবদল। নিদর্শন আমাদের উপকারের জন্য, তাঁর প্রয়োজনে নয়; তিনি কখনো অনুপস্থিত ছিলেন না যে প্রমাণ দিয়ে তাঁকে প্রতিষ্ঠা করতে হবে। তাই চিন্তাশীল পাঠক দুটিই ধরে রাখে: কৃতজ্ঞতার সঙ্গে নিদর্শন অধ্যয়ন করে, আর মনে রাখে — সেগুলো যাঁর দিকে ইশারা করে তিনি ইশারার চেয়েও নিকটে, সেই হৃদয়টিরও সাক্ষী, যে হৃদয় তাঁকে ওজন করছে।"
+            "bn": "মুফাসসিরদের মতে শেষের প্রশ্নটি পুরো খোঁজাখুঁজির জায়গাটাই আলতো করে বদলে দেয়। নিদর্শন আমাদের উপকারের জন্য, তাঁর কোনো প্রয়োজনে নয়। তিনি কখনো অনুপস্থিত ছিলেন না যে প্রমাণ দিয়ে তাঁকে সাব্যস্ত করতে হবে। তাই চিন্তাশীল পাঠক দুটোই ধরে রাখেন। কৃতজ্ঞ মনে নিদর্শন নিয়ে ভাবেন, আর মনে রাখেন: সেগুলো যাঁর দিকে ইশারা করে, তিনি সেই ইশারার চেয়েও কাছে। যে অন্তর তাঁকে মেপে দেখছে, সেই অন্তরেরও তিনি সাক্ষী।"
           }
         ]
       },
@@ -1281,11 +1281,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse turns observation into worship. Walk under the night sky deliberately; learn one thing about how your own hand or eye works; watch a season turn — and each time, complete the loop the Quran commands, from the wonder to its Maker. Without the loop, wonder decays into mere information; with it, an ordinary walk becomes what 3:191 describes, remembrance standing, sitting and lying down.",
-            "bn": "আয়াতটি পর্যবেক্ষণকে ইবাদতে পরিণত করে। ইচ্ছা করেই রাতের আকাশের নিচে হাঁটুন; নিজের হাত বা চোখ কীভাবে কাজ করে তার একটি বিষয় শিখুন; একটি ঋতুর মোড় ফেরা দেখুন — আর প্রতিবার কুরআনের আদেশ করা বৃত্তটি সম্পূর্ণ করুন: বিস্ময় থেকে বিস্ময়ের নির্মাতা পর্যন্ত। বৃত্তটি ছাড়া বিস্ময় ক্ষয়ে যায় নিছক তথ্যে; বৃত্তটিসহ একটি সাধারণ হাঁটাও হয়ে ওঠে যা 3:191 বর্ণনা করে — দাঁড়িয়ে, বসে ও শুয়ে স্মরণ।"
+            "bn": "আয়াতটি দেখাকে ইবাদতে পরিণত করে। মন দিয়ে রাতের আকাশের নিচে হাঁটুন। নিজের হাত বা চোখ কীভাবে কাজ করে, তার একটা বিষয় জেনে নিন। একটা ঋতু বদলাতে দেখুন। আর প্রতিবার কুরআনের নির্দেশমতো চক্রটা পূর্ণ করুন: বিস্ময় থেকে বিস্ময়ের স্রষ্টা পর্যন্ত পৌঁছান। চক্র পূর্ণ না হলে বিস্ময় ক্ষয়ে গিয়ে নিছক তথ্য হয়ে থাকে। পূর্ণ হলে সাধারণ একটা হাঁটাও হয়ে ওঠে ৩:১৯১ আয়াতের সেই জিকির: দাঁড়িয়ে, বসে ও শুয়ে আল্লাহর স্মরণ।"
           },
           {
             "en": "And keep the promise's tense in mind during dry seasons of faith. We will show them is Allah's undertaking, not yours; your part is to stay honest and keep looking. Certainty in the Quran is not a possession seized once but a clarity that grows as the showing continues — in the horizons, in yourself, until the truth stands where doubt used to live.",
-            "bn": "আর ঈমানের শুষ্ক মৌসুমে প্রতিশ্রুতির কালটি মনে রাখুন। আমি তাদের দেখাব — এ দায়িত্ব আল্লাহর, আপনার নয়; আপনার অংশ সৎ থাকা আর তাকিয়ে যাওয়া। কুরআনে নিশ্চয়তা একবারে দখল করা কোনো সম্পত্তি নয়, বরং এমন এক স্পষ্টতা যা দেখানো চলতে থাকার সঙ্গে সঙ্গে বাড়ে — দিগন্তে, নিজের মধ্যে — যতক্ষণ না সত্য গিয়ে দাঁড়ায় ঠিক সেখানে, যেখানে আগে সংশয় বাস করত।"
+            "bn": "ঈমানের শুকনো মৌসুমে প্রতিশ্রুতির কালটা মনে রাখুন। 'আমি তাদের দেখাব': এ দায়িত্ব আল্লাহর, আপনার নয়। আপনার কাজ সৎ থাকা আর তাকিয়ে থাকা। কুরআনে নিশ্চয়তা এমন কোনো সম্পদ নয়, যা একবার হাতে পেলেই হলো। এ এক স্পষ্টতা, যা দেখানো চলতে থাকার সঙ্গে সঙ্গে বাড়ে, দিগন্তে আর আপনার নিজের ভেতরে। শেষে সত্য এসে দাঁড়ায় ঠিক সেখানে, যেখানে আগে সংশয়ের বাস ছিল।"
           }
         ]
       }
