@@ -38,21 +38,33 @@ const WelcomeModal = {
     return String(s == null ? '' : s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   },
 
-  /** Each card maps to a real module the reader can open. */
+  /**
+   * Each card maps to a real module the reader can open. `h` reuses the
+   * module's own title key so the card reads exactly like the sidebar; `act`
+   * opens a view inside a tab (Letter practice) or a Learn sub-module (Kids).
+   */
   features() {
     return [
       { emoji: '📖', k: 'wm_f_read', tab: 'reading',     fbH: 'Read in your language',   fbB: 'The full Quran with translation in 15 languages, side by side with the Arabic.' },
       { emoji: '🔤', k: 'wm_f_word', tab: 'wordbyword',     fbH: 'Word by word',            fbB: 'Tap any word for its meaning, root and grammatical role.' },
       { emoji: '🎧', k: 'wm_f_listen', tab: 'audio',   fbH: 'Listen and follow',       fbB: 'Recitation audio with the verse highlighted as it is read.' },
       { emoji: '🎨', k: 'wm_f_tajweed', tab: 'tajweedreading',  fbH: 'Tajweed in colour',       fbB: 'Recitation rules marked in the text, with lessons and practice drills.' },
+      { emoji: '🔠', k: 'wm_f_letters', h: 'tj_nav_letters', tab: 'tajweedlearn', act: 'letters', fbH: 'Letter practice', fbB: 'Pick a letter to see the 50 most common Quran words with it (tap to hear) and the ayahs where it comes most.' },
+      { emoji: '🧒', k: 'wm_f_kids', h: 'learn_kids_title', tab: 'learn', act: 'module:kids', fbH: 'Kids: Learn to Read Quran', fbB: 'Letters, sounds and first Quran words for children, with games and audio.' },
       { emoji: '🧠', k: 'wm_f_memorize', tab: 'memorize', fbH: 'Memorise and test',       fbB: 'Hifz tools, hidden-word practice and quizzes that track what you have learned.' },
+      { emoji: '📅', k: 'wm_f_khatmah', h: 'khatmah_title', tab: 'khatmah', fbH: 'Khatmah Plan', fbB: 'Plan a full reading of the Quran in 7 to 60 days, or at your own pace, and tick off each day.' },
       { emoji: '🔗', k: 'wm_f_mutash', tab: 'mutashabihat',   fbH: 'Mutashabihat',            fbB: 'Near-identical verses set side by side, with the differing words highlighted.' },
       { emoji: '🗂️', k: 'wm_f_vocab', tab: 'learn',    fbH: 'Quranic vocabulary',      fbB: 'The words that recur most, grouped by theme, with spaced-repetition practice.' },
       { emoji: '📝', k: 'wm_f_arabic', tab: 'quranicarabic',   fbH: 'Quranic Arabic course',   fbB: 'Grammar from the alphabet upward — 74 lessons, iʿrāb exercises and a glossary.' },
-      { emoji: '🕌', k: 'wm_f_seerah', tab: 'seerah',   fbH: 'Seerah',                  fbB: 'The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.' },
-      { emoji: '🌟', k: 'wm_f_prophets', tab: 'prophets', fbH: 'Prophets & Messengers',   fbB: 'All 25 named in the Quran, with their stories and every verse that mentions them.' },
+      { emoji: '✨', k: 'wm_f_names', h: 'learn_names_title', tab: 'names', fbH: '99 Names of Allah', fbB: 'Every name with its meaning and audio, memorisation sets and a quiz.' },
+      { emoji: '🤲', k: 'wm_f_duas', h: 'qduas_title', tab: 'quran-duas', fbH: 'Quranic Duas', fbB: '89 duas from the Quran, word by word, with tap-to-hear audio.' },
+      { emoji: '🌅', k: 'wm_f_nuzul', h: 'nuzul_title', tab: 'nuzul', fbH: 'Revelation Context (Asbāb an-Nuzūl)', fbB: 'The order in which the surahs were revealed, and the recorded occasions behind their verses.' },
       { emoji: '💭', k: 'wm_f_tadabbur', tab: 'tadabbur', fbH: 'Tadabbur — reflect',      fbB: 'Every reflection-worthy verse with a note to ponder, and 299 of them with a full-length article.' },
       { emoji: '🕊️', k: 'wm_f_hope', tab: 'hope',     fbH: 'Hope & Character',        fbB: 'Verses of mercy for anyone who thinks they have gone too far — and the character the Qur’an asks for next.' },
+      { emoji: '🕌', k: 'wm_f_seerah', tab: 'seerah',   fbH: 'Seerah',                  fbB: 'The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.' },
+      { emoji: '🌟', k: 'wm_f_prophets', tab: 'prophets', fbH: 'Prophets & Messengers',   fbB: 'All 25 named in the Quran, with their stories and every verse that mentions them.' },
+      { emoji: '🤝', k: 'wm_f_sahaba', h: 'sahaba_title', tab: 'sahaba', fbH: 'Companions (Sahaba)', fbB: '127 Companions of the Prophet ﷺ, each with a full-length article.' },
+      { emoji: '📍', k: 'wm_f_places', h: 'places_title', tab: 'places', fbH: 'Places in the Quran', fbB: '53 places on a map, with 12 journeys drawn as routes.' },
     ];
   },
 
@@ -65,11 +77,11 @@ const WelcomeModal = {
      * tappable and does nothing is the kind of dead control this app has had
      * before, and readers who tap "Tadabbur" expect to land there. */
     const cards = this.features().map((f) => `
-      <button type="button" data-wm-tab="${this.esc(f.tab || '')}"
+      <button type="button" data-wm-tab="${this.esc(f.tab || '')}" data-wm-act="${this.esc(f.act || '')}"
         class="text-start flex gap-2.5 items-start p-2.5 rounded-xl bg-gray-50 dark:bg-gray-700/40 border border-gray-200 dark:border-gray-700 hover:border-primary/60 hover:bg-primary/5 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
         <span class="text-xl leading-none shrink-0" aria-hidden="true">${f.emoji}</span>
         <div class="min-w-0">
-          <p class="text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.tt(f.k + '_h', f.fbH))}</p>
+          <p class="text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.tt(f.h || (f.k + '_h'), f.fbH))}</p>
           <p class="text-xs text-gray-600 dark:text-gray-300 leading-snug mt-0.5" dir="auto">${this.esc(this.tt(f.k + '_b', f.fbB))}</p>
         </div>
       </button>`).join('');
@@ -80,7 +92,7 @@ const WelcomeModal = {
     this.overlay.innerHTML = `
       <div role="dialog" aria-modal="true" aria-labelledby="wm-title" tabindex="-1"
            dir="${rtl ? 'rtl' : 'ltr'}"
-           class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-2xl max-h-[90vh] flex flex-col focus:outline-none">
+           class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-6xl max-h-[90vh] flex flex-col focus:outline-none">
         <div class="flex items-start gap-2 px-5 pt-5 pb-3">
           <div class="flex-1 min-w-0">
             <h2 id="wm-title" class="text-lg font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.tt('wm_title', 'Welcome'))}</h2>
@@ -89,7 +101,7 @@ const WelcomeModal = {
           <button id="wm-x" aria-label="${this.esc(this.tt('close', 'Close'))}"
                   class="p-2 -m-1 rounded-lg leading-none text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
-        <div class="flex-1 overflow-y-auto px-5 grid grid-cols-1 sm:grid-cols-2 gap-2">${cards}</div>
+        <div class="flex-1 overflow-y-auto px-5 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2">${cards}</div>
         <div class="px-5 py-4 mt-1 border-t border-gray-200 dark:border-gray-700">
           <p class="text-xs text-gray-500 dark:text-gray-400 mb-3" dir="auto"><span aria-hidden="true">📴</span> ${this.esc(this.tt('wm_offline', 'Everything works offline once loaded — install it to your home screen and read without a connection.'))}</p>
           <button id="wm-go" class="w-full px-4 py-2.5 rounded-lg bg-primary text-white text-sm font-semibold hover:bg-primary/90">${this.esc(this.tt('wm_start', 'Start reading'))}</button>
@@ -103,8 +115,12 @@ const WelcomeModal = {
       const card = e.target.closest('[data-wm-tab]');
       if (!card) return;
       const tab = card.getAttribute('data-wm-tab');
+      const act = card.getAttribute('data-wm-act') || '';
       this.close();
       try {
+        const nav = (typeof appNav !== 'undefined') ? appNav : null;
+        if (act === 'letters' && nav) { nav.openLetterPractice(); return; }
+        if (act.indexOf('module:') === 0 && nav) { nav.openLearnModule(act.slice(7)); return; }
         const ts = (typeof tabSystem !== 'undefined') ? tabSystem : null;
         if (tab && ts && ts.switchTab && document.getElementById('tab-' + tab)) ts.switchTab(tab);
       } catch (_) { /* the modal is closed either way */ }
