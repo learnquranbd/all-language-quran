@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah opens with the letters Ha-Mim, of which Ma'arif al-Qur'an says only Allah knows the meaning. Then comes an oath, wal-kitabi-l-mubin: by the clear Book. At-Tabari calls it an oath from God by this Book which He sent down to His Prophet ﷺ. Ma'arif al-Qur'an notes that when Allah swears by something, the oath is usually an argument for the statement that follows, and that swearing by the Qur'an points to the Qur'an, as a miracle, being its own proof of coming from God.",
-            "bn": "সূরার শুরু হা-মীম হরফ দুটি দিয়ে। মাআরিফুল কুরআন বলে, এর অর্থ আল্লাহই জানেন। তারপর আসে শপথ: ওয়াল কিতাবিল মুবীন, সুস্পষ্ট কিতাবের কসম। তাবারীর ভাষায় এটি আল্লাহর শপথ, সেই কিতাবের নামে যা তিনি তাঁর নবী ﷺ-এর উপর নাযিল করেছেন। মাআরিফুল কুরআনের পর্যবেক্ষণ হলো, আল্লাহ কোনো কিছুর কসম খেলে সাধারণত সেটাই পরের কথার পক্ষে দলিল হয়ে দাঁড়ায়। কুরআনের কসম খাওয়ার মধ্যে ইঙ্গিত আছে যে কুরআন মুজিযা হিসেবে নিজেই প্রমাণ করে, এটি আল্লাহর কিতাব।"
+            "bn": "সূরার শুরু হা-মীম হরফ দুটি দিয়ে। মাআরিফুল কুরআন বলে, এর অর্থ আল্লাহই জানেন। তারপর আসে শপথ: ওয়াল কিতাবিল মুবীন, সুস্পষ্ট কিতাবের কসম। তাবারী বলেন, এ হলো আল্লাহর শপথ, সেই কিতাবের নামে, যা তিনি তাঁর নবী ﷺ-এর উপর নাজিল করেছেন। মাআরিফুল কুরআন আরও বলে, আল্লাহ কোনো কিছুর কসম খেলে সাধারণত সেই কসমই পরের কথার পক্ষে দলিল হয়ে দাঁড়ায়। তাই কুরআনের কসম খাওয়ার মধ্যে ইঙ্গিত আছে: কুরআন নিজেই মুজিযা, আল্লাহর কাছ থেকে আসার প্রমাণ সে নিজেই।"
           },
           {
             "en": "As-Sa'di puts it in one phrase: an oath by the Qur'an upon the Qur'an. On 43:3 he names the verse hadha al-muqsam 'alayh, the very thing sworn to. Al-Qurtubi agrees on the answer and adds a detail: wal-kitabi-l-mubin is a second oath, and God may swear by whatever He wills, while the answer is inna ja'alnahu. So on both readings the oath by the Book is answered by a statement about the Book: that God made it an Arabic Qur'an, so that its hearers might understand.",
@@ -29,7 +29,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi then records Ibn al-Anbari, who ties the question to recitation. Whoever takes Ha-Mim as the oath's answer, as in the saying nazala wallahi, it has come down, by God, pauses after al-kitabi-l-mubin; whoever takes inna ja'alnahu as the answer reads straight on into it. Al-Qurtubi also reports, as it was said, that al-kitab may be a generic noun for every book sent to the prophets, as if God swore by all of them that He made the Qur'an Arabic.",
-            "bn": "এরপর কুরতুবী ইবনুল আনবারীর মত উদ্ধৃত করেন, যিনি প্রশ্নটাকে তিলাওয়াতের সঙ্গে জুড়ে দেন। কেউ যদি হা-মীমকেই কসমের জবাব ধরে, যেমন বলা হয় নাযালা ওয়াল্লাহি, আল্লাহর কসম, নাযিল হয়েছে, তাহলে সে আল-কিতাবিল মুবীনে থামবে। আর যে ইন্না জাআলনাহুকে জবাব ধরে, সে না থেমে সোজা জবাবে চলে যাবে। কুরতুবী 'বলা হয়েছে' কথাটি দিয়ে আরেকটি মতও আনেন: এখানে আল-কিতাব হয়তো নবীদের কাছে পাঠানো সব কিতাবের জাতিবাচক নাম। যেন আল্লাহ সবগুলোর কসম খেয়ে বলছেন, কুরআনকে তিনি আরবী করেছেন।"
+            "bn": "এরপর কুরতুবী ইবনুল আনবারীর মত আনেন। তিনি প্রশ্নটাকে তিলাওয়াতের সঙ্গে জুড়ে দেন। কেউ যদি হা-মীমকেই কসমের জবাব ধরে, যেমন বলা হয় নাযালা ওয়াল্লাহি, আল্লাহর কসম, নাজিল হয়েছে, তাহলে সে আল-কিতাবিল মুবীনে থামবে। আর যে ইন্না জাআলনাহুকে জবাব ধরে, সে না থেমে সোজা জবাবে চলে যাবে। কুরতুবী 'বলা হয়েছে' বলে আরেকটি মতও আনেন: এখানে আল-কিতাব হয়তো নবীদের কাছে পাঠানো সব কিতাবের জাতিবাচক নাম। যেন আল্লাহ সবগুলোর কসম খেয়ে বলছেন, কুরআনকে তিনি আরবী করেছেন।"
           }
         ]
       },
@@ -41,7 +41,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators read mubin, clear, in several directions. Ibn Kathir reads it as plain and evident in both meaning and wording, and gives a reason: it came down in the language of the Arabs, which he calls the most eloquent of languages for people addressing each other. Al-Qurtubi says the Book is called clear because God made His rulings and obligations clear in it. Al-Baghawi says it made the way of guidance distinct from the way of misguidance, and made clear what the community needs of the Shari'a.",
-            "bn": "মুবীন, অর্থাৎ সুস্পষ্ট, শব্দটিকে তাফসীরকারেরা কয়েক দিক থেকে পড়েন। ইবন কাসীরের মতে কিতাবটি অর্থে আর শব্দে দুই দিকেই পরিষ্কার ও প্রকাশ্য। কারণও তিনি বলেন: এটি নাযিল হয়েছে আরবদের ভাষায়, যাকে তিনি মানুষের পারস্পরিক কথাবার্তার জন্য সবচেয়ে প্রাঞ্জল ভাষা বলে অভিহিত করেন। কুরতুবী বলেন, আল্লাহ এতে তাঁর বিধান ও ফরজসমূহ খুলে বলেছেন, তাই একে মুবীন বলা হয়। বাগাভীর কথায়, এ কিতাব হিদায়াতের পথকে গোমরাহির পথ থেকে আলাদা করে দেখিয়েছে, আর উম্মাহর শরীয়তের যা দরকার তা স্পষ্ট করেছে।"
+            "bn": "মুবীন, অর্থাৎ সুস্পষ্ট, শব্দটিকে তাফসীরকারেরা কয়েক দিক থেকে পড়েন। ইবন কাসীরের মতে কিতাবটি অর্থে আর শব্দে দুই দিকেই পরিষ্কার ও প্রকাশ্য। কারণও তিনি বলেন: এটি নাজিল হয়েছে আরবদের ভাষায়, আর তাঁর মতে মানুষে মানুষে কথা বলার জন্য এটিই সবচেয়ে প্রাঞ্জল ভাষা। কুরতুবী বলেন, আল্লাহ এতে তাঁর বিধান ও ফরজসমূহ খুলে বলেছেন, তাই একে মুবীন বলা হয়। বাগাভীর কথায়, এ কিতাব হিদায়াতের পথকে গোমরাহির পথ থেকে আলাদা করে দেখিয়েছে, আর শরীয়তের যা কিছু উম্মাহর দরকার, তা স্পষ্ট করেছে।"
           },
           {
             "en": "As-Sa'di draws a point from what the word leaves out. God left the word clear unrestricted, without naming what it makes clear, to show that it makes clear everything the servants need in this world, in religion and in the Hereafter. At-Tabari ties the clarity to the reader: clear for whoever ponders its lessons and admonitions, in its guidance and its proofs that it is true, sent down from the Wise, the Praiseworthy, neither invented by Muhammad ﷺ nor forged by anyone.",
@@ -85,11 +85,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gives a reason he credits to Sufyan ath-Thawri and others: every prophet's book was sent down in the tongue of his own people. Beside it he records another, from Muqatil: because the tongue of the people of heaven is Arabic. He records both and, in the text fetched, does not weigh them. Muqatil's statement is reported here as his. No fetched commentary gives evidence for it, and this article does not adopt it.",
-            "bn": "কুরতুবী একটি যুক্তি দেন, যা তিনি সুফিয়ান সাওরী ও অন্যদের নামে উল্লেখ করেন: প্রত্যেক নবীর কিতাব নাযিল হয়েছে তাঁর নিজের কওমের ভাষায়। পাশাপাশি তিনি মুকাতিলের আরেকটি কথা লেখেন: কারণ আসমানবাসীদের ভাষা আরবী। দুটো মতই তিনি লিখে রাখেন। যে অংশটুকু দেখা হয়েছে, তাতে কোনোটিকে ভারী বা হালকা করেননি। মুকাতিলের কথাটি এখানে তাঁর নিজের কথা হিসেবেই আনা হলো। দেখা কোনো তাফসীরে এর পক্ষে প্রমাণ দেওয়া নেই, আর এ লেখা কথাটি গ্রহণও করছে না।"
+            "bn": "কুরতুবী সুফিয়ান সাওরী ও অন্যদের সূত্রে একটি কারণ বলেন: প্রত্যেক নবীর কিতাব নাজিল হয়েছে তাঁর নিজের কওমের ভাষায়। পাশাপাশি তিনি মুকাতিলের আরেকটি কথাও লেখেন: কারণ আসমানবাসীদের ভাষা আরবী। দুটো মতই তিনি উল্লেখ করেন, তবে যে অংশটুকু দেখা হয়েছে, তাতে কোনোটিকে প্রাধান্য দেননি। মুকাতিলের কথাটি এখানে তাঁর নিজের কথা হিসেবেই আনা হলো। দেখা কোনো তাফসীরে এর পক্ষে প্রমাণ নেই, আর এ লেখা কথাটি গ্রহণও করছে না।"
           },
           {
             "en": "Ibn Kathir and as-Sa'di speak of the language itself. Ibn Kathir glosses Arabic as the Arabs' language, eloquent and clear, and on 43:2 calls it the most eloquent of languages for communication among people. As-Sa'di says the Qur'an was made in the most eloquent, clearest and plainest of languages, and that this is part of its clarity. These are the judgements of those two scholars, in their own words. The verse states its own reason at its end.",
-            "bn": "ইবন কাসীর আর সা'দী কথা বলেন ভাষাটি নিয়েই। ইবন কাসীর 'আরাবিয়্যান' শব্দের ব্যাখ্যা করেন আরবদের ভাষায়, প্রাঞ্জল ও পরিষ্কারভাবে। ৪৩:২ আয়াতে তিনি একে মানুষের পারস্পরিক কথাবার্তার জন্য সবচেয়ে প্রাঞ্জল ভাষা বলেন। সা'দীর মতে কুরআনকে বানানো হয়েছে সবচেয়ে প্রাঞ্জল, সবচেয়ে পরিষ্কার আর সবচেয়ে সুস্পষ্ট ভাষায়, আর এটাও তার স্পষ্টতার অংশ। এগুলো ওই দুই আলিমের মূল্যায়ন, তাঁদের নিজেদের ভাষায় বলা। আয়াত নিজে যে কারণ বলে, তা আছে একেবারে শেষে।"
+            "bn": "ইবন কাসীর আর সা'দী কথা বলেন ভাষাটি নিয়েই। ইবন কাসীরের ব্যাখ্যায় 'আরাবিয়্যান' মানে আরবদের ভাষায়, যা প্রাঞ্জল ও পরিষ্কার। ৪৩:২ আয়াতের ব্যাখ্যায় তিনি একে মানুষের পারস্পরিক কথাবার্তার জন্য সবচেয়ে প্রাঞ্জল ভাষা বলেন। সা'দীর মতে কুরআনকে বানানো হয়েছে সবচেয়ে প্রাঞ্জল, সবচেয়ে পরিষ্কার আর সবচেয়ে সুস্পষ্ট ভাষায়, আর এটাও তার স্পষ্টতার অংশ। এগুলো ওই দুই আলিমের মূল্যায়ন, তাঁদের নিজেদের ভাষায় বলা। আয়াত নিজে যে কারণ বলে, তা আছে একেবারে শেষে।"
           }
         ]
       },
@@ -128,7 +128,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Held High, Not Withdrawn",
-          "bn": "উচ্চ মর্যাদা, প্রত্যাহার নয়"
+          "bn": "সমুন্নত, তবু তুলে নেওয়া হয়নি"
         },
         "p": [
           {
@@ -137,7 +137,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then 43:5 asks: shall We turn the Reminder away from you because you are a people who go beyond bounds? The abridged English Ibn Kathir records Qatada: had this Qur'an been taken away when the first generations of this community rejected it, they would have been ruined, but God in His mercy kept sending it and calling them to it for twenty years, or as long as He willed. Ibn Kathir calls this very good. The clarity of 43:3 was not withdrawn when its first hearers turned from it.",
-            "bn": "তারপর ৪৩:৫ আয়াতের প্রশ্ন: তোমরা সীমালঙ্ঘনকারী জাতি বলে কি আমি তোমাদের থেকে উপদেশবাণী সরিয়ে নেব? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে কাতাদার কথা আছে। এ উম্মাহর প্রথম প্রজন্ম যখন কুরআন প্রত্যাখ্যান করেছিল, তখন যদি তা তুলে নেওয়া হতো, তারা ধ্বংস হয়ে যেত। কিন্তু আল্লাহ রহমত করে কুরআন পাঠাতে থাকলেন, ২০ বছর ধরে, কিংবা যতদিন তিনি চেয়েছেন, ততদিন তাদের এর দিকে ডাকতে থাকলেন। ইবন কাসীর কথাটিকে খুব ভালো বলেছেন। প্রথম শ্রোতারা মুখ ফিরিয়ে নিলেও ৪৩:৩ আয়াতের স্পষ্টতা ফিরিয়ে নেওয়া হয়নি।"
+            "bn": "তারপর ৪৩:৫ আয়াতের প্রশ্ন: তোমরা সীমালঙ্ঘনকারী জাতি বলে কি আমি তোমাদের থেকে উপদেশবাণী সরিয়ে নেব? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে কাতাদার কথা আছে। এ উম্মাহর প্রথম প্রজন্ম যখন কুরআন প্রত্যাখ্যান করেছিল, তখন যদি তা তুলে নেওয়া হতো, তারা ধ্বংস হয়ে যেত। কিন্তু আল্লাহ রহমত করে কুরআন পাঠাতেই থাকলেন, আর ২০ বছর, কিংবা তিনি যতদিন চেয়েছেন, ততদিন তাদের এর দিকে ডেকে গেলেন। ইবন কাসীর কথাটিকে খুব ভালো বলেছেন। প্রথম শ্রোতারা মুখ ফিরিয়ে নিলেও ৪৩:৩ আয়াতের স্পষ্টতা ফিরিয়ে নেওয়া হয়নি।"
           },
           {
             "en": "The verses after that, 43:6 to 43:8, speak of earlier peoples who mocked their prophets and were destroyed. Said plainly: those verses describe what the text describes, and license nothing against any living person or community. What the passage asks of its reader runs the other way: to notice that the Reminder kept coming, and to ask whether it is being received now.",
@@ -153,11 +153,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Gathered up, the commentaries put almost everything on the Book's side. It is sworn by. It is called clear, in wording and meaning, in rulings, in guidance, in all that the servants need. It was sent down, named, spoken and made plain, in the tongue of its first hearers. What the verse leaves on the other side is a single verb in the second person: ta'qilun, you understand. The oath affirms the Book, and the Book's purpose is then stated in terms of the reader.",
-            "bn": "সব তাফসীর একসঙ্গে রাখলে দেখা যায়, প্রায় সবকিছুই কিতাবের দিকে। এর কসম খাওয়া হয়েছে। একে স্পষ্ট বলা হয়েছে: শব্দে ও অর্থে, বিধানে, হিদায়াতে, বান্দাদের দরকারি সবকিছুতে। একে নাযিল করা হয়েছে, নাম দেওয়া হয়েছে, বলা হয়েছে, স্পষ্ট করা হয়েছে, প্রথম শ্রোতাদের নিজেদের ভাষায়। অপর দিকে আয়াত রেখে যায় কেবল একটি ক্রিয়া, যা সরাসরি শ্রোতাকে বলা: তা'কিলূন, তোমরা বোঝো। শপথ কিতাবকে প্রতিষ্ঠিত করে, আর কিতাবের উদ্দেশ্য বলা হয় পাঠকের ভাষায়।"
+            "bn": "সব তাফসীর একসঙ্গে রাখলে দেখা যায়, প্রায় সবকিছুই কিতাবের দিকে। এর কসম খাওয়া হয়েছে। একে স্পষ্ট বলা হয়েছে: শব্দে ও অর্থে, বিধানে, হিদায়াতে, বান্দাদের দরকারি সবকিছুতে। একে নাজিল করা হয়েছে, নাম দেওয়া হয়েছে, বলা হয়েছে, স্পষ্ট করা হয়েছে, প্রথম শ্রোতাদের নিজেদের ভাষায়। অপর দিকে আয়াত রেখে যায় কেবল একটি ক্রিয়া, যা সরাসরি শ্রোতাকে বলা: তা'কিলূন, তোমরা বোঝো। শপথ কিতাবের সত্যতা নিশ্চিত করে, আর কিতাবের উদ্দেশ্য বলা হয় পাঠককে ঘিরে।"
           },
           {
             "en": "Each gloss names a step a reader can actually take. As-Sa'di's words and meanings ask for learning what the recited words say. The pondering of Ibn Kathir and the Muyassar asks for slowing down. At-Tabari's admonitions ask for letting a verse correct something. Ma'arif's line between counsel and law asks for humility: taking counsel directly, and taking rulings from those qualified to derive them. Ibn Zayd's reflection is open to anyone the Book reaches. The verse was made clear; the understanding is left to be done.",
-            "bn": "প্রতিটি ব্যাখ্যায় এমন একটা ধাপের কথা আছে, যা পাঠক সত্যিই নিতে পারেন। সা'দীর শব্দ ও অর্থের কথা চায়, যা তিলাওয়াত করি তার মানে শিখে নিতে। ইবন কাসীর আর মুয়াসসারের গভীর চিন্তার কথা চায় গতি কমাতে। তাবারীর উপদেশের কথা চায়, একটা আয়াত যেন ভেতরের কিছু শুধরে দিতে পারে। উপদেশ আর বিধানের মধ্যে মাআরিফুল কুরআনের পার্থক্য চায় বিনয়: উপদেশ সরাসরি নেওয়া, আর বিধান নেওয়া যোগ্য আলিমদের কাছ থেকে। ইবন যায়দের চিন্তার দাবি খোলা আছে তাদের সবার জন্য, যাদের কাছে কিতাব পৌঁছায়। আয়াতটি স্পষ্ট করা হয়েছে, বোঝার কাজটা রয়ে গেছে।"
+            "bn": "প্রতিটি ব্যাখ্যা এমন একটা কাজ দেখায়, যা পাঠক সত্যিই করতে পারেন। সা'দী শব্দ ও অর্থের কথা বলেন। তার দাবি: যা তিলাওয়াত করি, তার মানে শিখে নেওয়া। ইবন কাসীর আর মুয়াসসার গভীর চিন্তার কথা বলেন। তার দাবি: থেমে থেমে ধীরে পড়া। তাবারী উপদেশের কথা বলেন। তার দাবি: একটা আয়াতকে ভেতরের কিছু শুধরে দেওয়ার সুযোগ দেওয়া। মাআরিফুল কুরআন উপদেশ আর বিধানের মধ্যে যে সীমা টানে, তার দাবি বিনয়: উপদেশ সরাসরি নেওয়া, আর বিধান নেওয়া যোগ্য আলিমদের কাছ থেকে। ইবন যায়দের চিন্তার কথা খোলা আছে সবার জন্য, কিতাব যার কাছেই পৌঁছায়। আয়াতটিকে স্পষ্ট করা হয়েছে, বোঝার কাজটা এখনো বাকি।"
           }
         ]
       }
@@ -177,7 +177,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari reads bi-qadar as according to the measure of your need, and he gives the measure two edges. Allah did not make the rain like the flood, which would be a punishment like that sent down on the people of Nuh (AS); nor did He make it so slight that plants and crops could not grow from it. He made it ghayth, relieving rain, a life for dead ground. Ibn Kathir's gloss is practical: as much as suffices your crops, your fruits and your drinking, for yourselves and your livestock.",
-            "bn": "তাবারী বিকাদারের অর্থ করেন: তোমাদের প্রয়োজনের মাপে। এই মাপের দুটি সীমা তিনি দেখান। আল্লাহ বৃষ্টিকে প্লাবনের মতো করেননি, তাহলে তা হতো নূহ (আঃ)-এর জাতির উপর নামানো শাস্তির মতো এক আযাব। আবার এত অল্পও করেননি যে তাতে গাছপালা আর ফসল গজাতে পারে না। তিনি তাকে বানিয়েছেন গাইস, স্বস্তির বৃষ্টি, মরা মাটির প্রাণ। ইবন কাসীরের ব্যাখ্যা একেবারে কাজের কথা: যতটুকু তোমাদের ফসল, ফলমূল আর পানের জন্য যথেষ্ট, তোমাদের নিজেদের জন্য আর তোমাদের গবাদি পশুর জন্য।"
+            "bn": "তাবারী বিকাদারের অর্থ করেন: তোমাদের প্রয়োজনের মাপে। এই মাপের দুটি সীমা তিনি দেখান। আল্লাহ বৃষ্টিকে প্লাবনের মতো করেননি, করলে তা হতো আযাব, যেমন আযাব নেমেছিল নূহ (আঃ)-এর জাতির উপর। আবার এত অল্পও করেননি যে তাতে গাছপালা আর ফসল গজাতে না পারে। তিনি তাকে বানিয়েছেন গাইস, স্বস্তির বৃষ্টি, মরা মাটির প্রাণ। ইবন কাসীরের ব্যাখ্যা একেবারে কাজের কথা: যতটুকু তোমাদের ফসল, ফলমূল আর পানের জন্য যথেষ্ট, তোমাদের নিজেদের জন্য আর তোমাদের গবাদি পশুর জন্য।"
           },
           {
             "en": "As-Sa'di puts it as a balance. The rain neither increases nor decreases, and it comes in the measure of need: it does not fall short so that it brings no benefit, and it does not exceed so that it harms people and lands. Rather, he says, Allah relieved His servants with it and rescued the lands from hardship, and for that reason the verse goes straight on to the land revived.",
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So four of the commentators read here reach for the flood, and three of them name Nuh's people. The water that revives a field and the water that ended a people are a single substance; what differs is the measure. That turns a remark about weather into a reminder that a blessing is held at its level by the One who sends it.",
-            "bn": "অর্থাৎ এখানে পড়া তাফসীরকারদের চারজন প্লাবনের কথা টানেন, আর তাঁদের তিনজন নূহের জাতির নাম নেন। যে পানি মাঠকে বাঁচায় আর যে পানি একটি জাতিকে শেষ করে দিয়েছিল, দুটো একই জিনিস। তফাত কেবল মাপে। এতে আবহাওয়ার একটা সাধারণ কথা হয়ে ওঠে এক স্মরণ: নিয়ামত তার ঠিক জায়গায় টিকে থাকে, কারণ যিনি পাঠান তিনিই তাকে ধরে রাখেন।"
+            "bn": "অর্থাৎ এখানে পড়া তাফসীরকারদের চারজন প্লাবনের কথা টানেন, আর তাঁদের তিনজন নূহের জাতির নাম নেন। যে পানি মাঠকে বাঁচায় আর যে পানি একটি জাতিকে শেষ করে দিয়েছিল, দুটো একই জিনিস। তফাত কেবল মাপে। ফলে আবহাওয়ার একটা সাধারণ কথা হয়ে ওঠে স্মরণ: নিয়ামত তার মাপে থাকে, কারণ যিনি তা পাঠান, তিনিই তাকে সেই মাপে ধরে রাখেন।"
           },
           {
             "en": "One thing must be said plainly. The commentators recall what the Qur'an narrates of Nuh's people, and the verse describes only what its text describes. It licenses nothing against any living person or community: no verdict on those struck by a flood or a drought today, and no reading of someone else's disaster as their punishment. The lesson the glosses draw is turned towards the reader, who receives the measured rain, and it asks only that the reader recognise who does the measuring.",
@@ -229,7 +229,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kadhalika tukhrajun: thus will you be brought forth. Ibn Kathir names the move directly: by the reviving of the earth, Allah draws attention to the reviving of bodies on the Day of Return, after their death. At-Tabari spells out the comparison. As We brought out plants and crops with this water from this dead land after its drought and dry years, so you, O people, will be brought out after you have perished and become dust in the earth.",
-            "bn": "কাযালিকা তুখরাজূন: এভাবেই তোমাদের বের করা হবে। ইবন কাসীর সরাসরি বলে দেন আয়াত কোন দিকে নিয়ে যাচ্ছে। ভূমিকে জীবিত করার কথা বলে আল্লাহ মনোযোগ টানছেন ফিরে যাওয়ার দিনে মৃত্যুর পর দেহগুলোকে জীবিত করার দিকে। তাবারী তুলনাটা খুলে বলেন। খরা আর অনাবৃষ্টির পর এই মৃত ভূমি থেকে আমি যেমন এই পানি দিয়ে গাছপালা আর ফসল বের করেছি, হে মানুষ, তোমাদেরও তেমনি বের করা হবে, তোমরা নিঃশেষ হয়ে মাটিতে ধুলো হয়ে যাওয়ার পর।"
+            "bn": "কাযালিকা তুখরাজূন: এভাবেই তোমাদের বের করা হবে। ইবন কাসীর সরাসরি বলে দেন আয়াত কোন দিকে নিয়ে যাচ্ছে। ভূমিকে জীবিত করার কথা দিয়ে আল্লাহ মনোযোগ টানছেন দেহগুলোকে জীবিত করার দিকে: মৃত্যুর পর, প্রত্যাবর্তনের দিনে। তাবারী তুলনাটা খুলে বলেন। খরা আর অনাবৃষ্টির পর এই মৃত ভূমি থেকে আমি যেমন এই পানি দিয়ে গাছপালা আর ফসল বের করেছি, হে মানুষ, তোমাদেরও তেমনি বের করা হবে, তোমরা নিঃশেষ হয়ে মাটিতে ধুলো হয়ে যাওয়ার পর।"
           },
           {
             "en": "At-Tabari's wording carries a further detail: you will be brought out by water that He sends down onto the earth to give you life after your death, alive in the form you had before you died. He then cites Qatada through his chain: as Allah gave life to this dead land with this water, so will you be raised on the Day of Resurrection. Al-Muyassar and al-Baghawi both add from your graves, and al-Muyassar adds after your perishing.",
@@ -313,7 +313,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same holds for the road. A ship, a car, an animal under a rider: each is a convenience until one asks where it came from. At-Tabari's pairing of all things and the Ma'arif's account of man-made vehicles both lead back to the same Maker, the One who measured the rain. They ask the reader, at the next shower or the next journey, to remember who sends the one and who made the other possible.",
-            "bn": "পথের বেলাতেও একই কথা। জাহাজ, গাড়ি, আরোহী পিঠে নিয়ে চলা পশু, প্রতিটিই কেবল সুবিধা, যতক্ষণ না কেউ জিজ্ঞেস করে এগুলো এল কোথা থেকে। সব কিছুকে জোড়া করার কথা, যা তাবারী বলেন, আর মানুষের তৈরি যানবাহনের কথা, যা মাআরিফুল কুরআন বলে, দুটোই ফিরে যায় একই স্রষ্টার কাছে, যিনি বৃষ্টি মেপেছেন। পরের বৃষ্টিতে, পরের সফরে, পাঠককে শুধু মনে করতে বলে: বৃষ্টি কে পাঠান, আর পথে চলা কে সম্ভব করেছেন।"
+            "bn": "পথের বেলাতেও একই কথা। জাহাজ, গাড়ি, পিঠে আরোহী নিয়ে চলা পশু, সবই নিছক সুবিধা, যতক্ষণ না কেউ জিজ্ঞেস করে, এগুলো এল কোথা থেকে। তাবারী বলেন সব কিছুকে জোড়ায় জোড়ায় সৃষ্টির কথা, মাআরিফুল কুরআন বলে মানুষের তৈরি যানবাহনের কথা। দুটোই ফিরে যায় একই স্রষ্টার কাছে, যিনি বৃষ্টি মেপে দিয়েছেন। পাঠকের কাছে এদের চাওয়া শুধু এটুকু: পরের বৃষ্টিতে, পরের সফরে মনে রাখা, বৃষ্টি কে পাঠান আর সফর কে সম্ভব করেছেন।"
           }
         ]
       }
@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qatada, in at-Tabari's chain, places the saying: the idolaters of Quraysh said that, we found our fathers upon a religion. Al-Qurtubi relates from Muqatil that the verse came down about several named leaders of Quraysh; the report reaches us without a chain in the text, so the names are left aside here. The next verse, 43:23, widens the frame: every town that received a warner heard its affluent say the same words. Al-Qurtubi reads that as consolation for the Prophet ﷺ, and the abridged English Ibn Kathir remarks that their hearts and their words are alike, citing 51:52 and 51:53.",
-            "bn": "তাবারীর সনদে কাতাদা কথাটার স্থান নির্দেশ করেন: কুরাইশের মুশরিকরা বলেছিল, বাপদাদাদের আমরা এক দ্বীনের উপর পেয়েছি। কুরতুবী মুকাতিল থেকে বর্ণনা করেন, আয়াতটি কুরাইশের কয়েকজন নামধারী নেতার বিষয়ে নাযিল হয়েছিল। বর্ণনাটি এখানে সনদ ছাড়া এসেছে, তাই নামগুলো বাদ রাখা হলো। পরের আয়াত ৪৩:২৩ পরিসর বড় করে: যে জনপদেই সতর্ককারী গেছেন, সেখানকার সচ্ছল লোকেরা একই কথা বলেছে। কুরতুবী একে নবী ﷺ-এর জন্য সান্ত্বনা হিসেবে পড়েন। সংক্ষিপ্ত ইংরেজি ইবন কাসীর মন্তব্য করে, তাদের অন্তর আর কথা একই রকম, এবং দলিল হিসেবে আনে ৫১:৫২ ও ৫১:৫৩ আয়াত।"
+            "bn": "তাবারীর সনদে কাতাদা জানান, কথাটা কাদের: কুরাইশের মুশরিকরা বলেছিল, বাপদাদাদের আমরা এক দ্বীনের উপর পেয়েছি। কুরতুবী মুকাতিল থেকে বর্ণনা করেন, আয়াতটি কুরাইশের কয়েকজন নেতার বিষয়ে নাজিল হয়েছিল, আর তাঁদের নামও তিনি বলেন। কুরতুবীর লেখায় বর্ণনাটির কোনো সনদ নেই, তাই নামগুলো এখানে বাদ রাখা হলো। পরের আয়াত ৪৩:২৩ পরিসর বড় করে: যে জনপদেই সতর্ককারী গেছেন, সেখানকার সচ্ছল লোকেরা একই কথা বলেছে। কুরতুবী একে নবী ﷺ-এর জন্য সান্ত্বনা হিসেবে পড়েন। সংক্ষিপ্ত ইংরেজি ইবন কাসীর মন্তব্য করে, তাদের অন্তর আর কথা একই রকম, এবং দলিল হিসেবে আনে ৫১:৫২ ও ৫১:৫৩ আয়াত।"
           },
           {
             "en": "None of the fetched commentators attaches a hadith to this verse, so none is cited here. One thing must also be said plainly. The verse reports what certain idolaters said when they turned away from a messenger, and it records the Qur'an's judgement on that saying. It licenses nothing against any living person or community. It names no group of today as the forefather-followers, and no reader may use it to put that label on a family, a people or a school. Its question is turned on the one who reads it.",
@@ -501,7 +501,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di reads the question as spoken by every messenger. His words: for this reason every messenger says to whoever opposed him with this false doubt, and he quotes the question. On this reading the verse continues the story opened in 43:23, where Allah says He sent no warner into any town before the Prophet except that its affluent answered with their fathers. The warner of that verse is the speaker, and the reply belongs to every such warner in every such town.",
-            "bn": "সা'দীর মতে প্রশ্নটি প্রত্যেক রাসূলের মুখের কথা। তাঁর ভাষায়: এ কারণেই প্রত্যেক রাসূল, যে-ই এই বাতিল সংশয় নিয়ে তাঁর বিরোধিতা করেছে, তাকে বলেন। এরপর তিনি প্রশ্নটি উদ্ধৃত করেন। এভাবে পড়লে আয়াতটি ৪৩:২৩ আয়াতে শুরু হওয়া কাহিনিরই ধারাবাহিকতা। সেখানে আল্লাহ বলছেন, নবীর আগে তিনি যে জনপদেই সতর্ককারী পাঠিয়েছেন, সেখানকার বিত্তশালীরা বাপ-দাদার দোহাই দিয়ে জবাব দিয়েছে। জবাব দিচ্ছেন সেই আয়াতের সতর্ককারীই। আর এ জবাব প্রতিটি জনপদে প্রত্যেক সতর্ককারীর।"
+            "bn": "সা'দীর মতে প্রশ্নটি প্রত্যেক রাসূলের মুখের কথা। তাঁর ভাষায়: এ কারণেই যে-ই এই বাতিল সংশয় নিয়ে রাসূলের বিরোধিতা করেছে, প্রত্যেক রাসূল তাকে বলেন। এরপর তিনি প্রশ্নটি উদ্ধৃত করেন। এভাবে পড়লে আয়াতটি ৪৩:২৩ আয়াতে শুরু হওয়া কাহিনিরই ধারাবাহিকতা। সেখানে আল্লাহ বলছেন, নবীর আগে তিনি যে জনপদেই সতর্ককারী পাঠিয়েছেন, সেখানকার বিত্তশালীরা বাপ-দাদার দোহাই দিয়ে জবাব দিয়েছে। কথাটা বলছেন সেই আয়াতের সতর্ককারী, আর প্রতিটি জনপদে প্রত্যেক সতর্ককারীর জবাবই এই।"
           },
           {
             "en": "Other commentators read the command qul and hear the Prophet ﷺ. At-Tabari: Allah says to His Prophet Muhammad, Say, O Muhammad, to these idolaters of your people who say, we found our fathers on a way. Ibn Kathir, in the Arabic and the abridged English alike: Say, O Muhammad, to these idolaters. Al-Qurtubi: say, O Muhammad, to your people, and he adds that the address is to the Prophet ﷺ. Al-Baghawi quotes az-Zajjaj: say to them, O Muhammad, will you follow what you found your fathers upon, even if I bring you something more guiding?",
@@ -509,7 +509,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Muyassar holds both together: Muhammad ﷺ and the messengers who came before him said this to whoever opposed him with that false doubt. The difference stays a difference here, and the article takes no side. At-Tabari narrows the gap from his own side. Though he hears the Prophet ﷺ, he says the people answered him as the nations before them answered their prophets. On either reading, then, the exchange is one exchange, repeated wherever a warner met the argument from the fathers.",
-            "bn": "মুয়াসসার দুটোকে একসঙ্গে রাখে: মুহাম্মাদ ﷺ এবং তাঁর আগের রাসূলগণ, যে-ই এই বাতিল সংশয় নিয়ে বিরোধিতা করেছে, তাকে এ কথা বলেছেন। ভিন্নমতটা এখানে ভিন্নমত হিসেবেই থাকছে, এ লেখা কোনো পক্ষ নিচ্ছে না। তাবারী নিজের দিক থেকে দূরত্বটা কমিয়ে আনেন। কথাটা তিনি নবী ﷺ-এর মুখে শুনলেও বলেন, লোকেরা তাঁকে সেই জবাবই দিয়েছিল, যা তাদের আগের জাতিগুলো নিজেদের নবীদের দিয়েছিল। তাই যেভাবেই পড়া হোক, এ কথোপকথন একটিই। যেখানেই কোনো সতর্ককারী বাপ-দাদার দোহাইয়ের মুখোমুখি হয়েছেন, সেখানেই তার পুনরাবৃত্তি।"
+            "bn": "মুয়াসসার দুটোকে একসঙ্গে রাখে: যে-ই এই বাতিল সংশয় নিয়ে বিরোধিতা করেছে, তাকে মুহাম্মাদ ﷺ এ কথা বলেছেন, তাঁর আগের রাসূলগণও বলেছেন। ভিন্নমতটা এখানে ভিন্নমত হিসেবেই থাকছে, এ লেখা কোনো পক্ষ নিচ্ছে না। তাবারী নিজের দিক থেকে দূরত্বটা কমিয়ে আনেন। কথাটা তিনি নবী ﷺ-এর মুখে শুনলেও বলেন, লোকেরা তাঁকে সেই জবাবই দিয়েছিল, যা তাদের আগের জাতিগুলো নিজেদের নবীদের দিয়েছিল। তাই যেভাবেই পড়া হোক, এ কথোপকথন একটিই। যেখানেই কোনো সতর্ককারী বাপ-দাদার দোহাইয়ের মুখোমুখি হয়েছেন, সেখানেই তার পুনরাবৃত্তি।"
           }
         ]
       },
