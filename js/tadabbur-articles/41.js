@@ -741,7 +741,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa man ahsanu qawlan — and who is better in speech? The Arabic is a question of the kind that expects no answer, because none is available: nobody is. The whole verse is thirteen words in Arabic, and it spends them naming who the question is about. What is being ranked here is not eloquence, not volume, not winning an argument. It is the best kind of speech there is, and the Quran defines it by what surrounds the speaking rather than by the speaking itself.",
-            "bn": "ওয়া মান আহসানু ক্বাওলান — কথায় কে বেশি উত্তম? আরবিতে এটি এমন এক প্রশ্ন যা কোনো উত্তর প্রত্যাশা করে না, কারণ উত্তর নেই: কেউ নয়। পুরো আয়াতটি আরবিতে তেরোটি শব্দের, আর সেই শব্দগুলো খরচ হয় প্রশ্নটি কাকে নিয়ে তা বলতে গিয়ে। এখানে যার মান নির্ধারণ হচ্ছে তা বাগ্মিতা নয়, উচ্চস্বর নয়, তর্কে জেতাও নয়। এটি সর্বোত্তম ধরনের কথা, আর কুরআন তার সংজ্ঞা দেয় কথা বলাটিকে ঘিরে যা থাকে তা দিয়ে — কথা বলাটিকে দিয়ে নয়।"
+            "bn": "ওয়া মান আহসানু ক্বাওলান: কথায় কে বেশি উত্তম? আরবিতে এ এমন প্রশ্ন, যার উত্তর কেউ আশা করে না, কারণ উত্তর দেওয়ার মতো কেউ নেই। কেউই নয়। গোটা আয়াতটি আরবিতে তেরো শব্দের, আর সেই শব্দগুলো খরচ হয়েছে প্রশ্নটা কাকে নিয়ে, তা বলতে। এখানে মাপা হচ্ছে না বাকপটুতা, গলার জোর বা তর্কে জেতা। মাপা হচ্ছে সবচেয়ে উত্তম কথা। আর কুরআন সেই কথার পরিচয় দেয় কথাটা দিয়ে নয়, কথার চারপাশে যা থাকে তা দিয়ে।"
           }
         ]
       },
@@ -753,11 +753,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The description has three parts, and they are easy to collapse into one. He calls to Allah — da'a ila Allah. He works righteousness — wa 'amila salihan. And he says, indeed I am of the Muslims — wa qala innani mina al-muslimin. Speech, action, and an owned identity. Remove any of the three and the verse no longer describes the person: a caller whose life contradicts him, or a good man who never invites anyone, or someone doing both while keeping his allegiance quiet.",
-            "bn": "বর্ণনাটির তিনটি অংশ, আর এগুলোকে এক করে ফেলা খুব সহজ। সে আল্লাহর দিকে ডাকে — দা'আ ইলাল্লাহ। সে সৎকর্ম করে — ওয়া 'আমিলা সালিহা। আর সে বলে, নিশ্চয় আমি মুসলিমদের একজন — ওয়া ক্বালা ইন্নানী মিনাল মুসলিমীন। কথা, কাজ, আর নিজের বলে স্বীকার করা পরিচয়। এই তিনটির যেকোনো একটি সরিয়ে নিলে আয়াতটি আর সেই মানুষটির বর্ণনা থাকে না: এমন আহ্বানকারী যার জীবন তার কথাকে মিথ্যা প্রমাণ করে, কিংবা এমন ভালো মানুষ যে কাউকে কখনো ডাকে না, কিংবা এমন কেউ যে দুটোই করে অথচ নিজের পরিচয়টি চুপ করে রাখে।"
+            "bn": "বর্ণনাটির তিনটি অংশ, আর তিনটিকে এক করে ফেলা খুব সহজ। সে আল্লাহর দিকে ডাকে: দা'আ ইলাল্লাহ। সে নেক আমল করে: ওয়া 'আমিলা সালিহা। আর সে বলে, আমি অবশ্যই মুসলিমদের একজন: ওয়া ক্বালা ইন্নানী মিনাল মুসলিমীন। কথা, কাজ, আর নিজের পরিচয় মুখে স্বীকার করা। তিনটির যেকোনো একটি বাদ দিলে আয়াতটি আর সেই মানুষের কথা বলে না। তখন সে হয় এমন দাঈ, যার জীবন তার কথার উল্টো; কিংবা এমন ভালো মানুষ, যে কাউকে কখনো ডাকে না; কিংবা এমন কেউ, যে দুটোই করে, কিন্তু নিজের পরিচয়টা চেপে রাখে।"
           },
           {
             "en": "The middle clause does the most work, because it is the one the Quran elsewhere presses hardest. 61:2-3 asks the believers why they say what they do not do, and calls it greatly hateful in the sight of Allah. 2:44 asks whether they order righteousness of people and forget themselves while they recite the Scripture. The verse does not require the caller to be perfect, which no caller has ever been. It requires that he be standing inside the thing he is calling people to.",
-            "bn": "মাঝের অংশটিই সবচেয়ে বেশি কাজ করে, কারণ কুরআন অন্যত্র এটির ওপরই সবচেয়ে জোর দেয়। 61:2-3 আয়াতে মুমিনদের জিজ্ঞেস করা হয়, তারা কেন এমন কথা বলে যা তারা করে না, আর একে বলা হয় আল্লাহর কাছে অত্যন্ত অপছন্দনীয়। 2:44 আয়াতে জিজ্ঞেস করা হয়, তারা কি মানুষকে সৎকাজের নির্দেশ দেয় আর নিজেদের ভুলে যায়, অথচ কিতাব পাঠ করে? আয়াতটি আহ্বানকারীর নিখুঁত হওয়া দাবি করে না — কোনো আহ্বানকারীই কখনো নিখুঁত ছিল না। এটি দাবি করে, সে যেন যেদিকে ডাকছে সেই জিনিসটির ভেতরে দাঁড়িয়ে থাকে।"
+            "bn": "মাঝের অংশটির ভার সবচেয়ে বেশি, কারণ কুরআন অন্য জায়গায় এ কথাটাতেই সবচেয়ে বেশি জোর দেয়। ৬১:২-৩ আয়াতে আল্লাহ মুমিনদের জিজ্ঞেস করেন, যা করো না তা কেন বলো? আর জানিয়ে দেন, আল্লাহর কাছে এটা ভীষণ অপছন্দের। ২:৪৪ আয়াতের প্রশ্ন: তোমরা মানুষকে নেক কাজের হুকুম দাও আর নিজেদের ভুলে যাও, অথচ কিতাব তিলাওয়াত করো? আয়াতটি দাঈর কাছে নিখুঁত হওয়া চায় না। কোনো দাঈ কখনো নিখুঁত ছিল না। চায় শুধু এটুকু: মানুষকে সে যেদিকে ডাকছে, নিজেও যেন তার ভেতরেই দাঁড়িয়ে থাকে।"
           }
         ]
       },
@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators give more than one answer and do not treat them as rivals. Some read it of the Prophet ﷺ first, since he is the caller the surah is addressing. Ibn Kathir records a statement of Aisha (RA) reading it of the mu'adhdhin, who calls people to Allah and then prays what he called them to. Ibn Kathir also cites al-Hasan al-Basri saying of this verse that such a person is the beloved of Allah and the most beloved of the people of the earth to Allah. Most take the wording as general, since it is phrased as a class and not as a name.",
-            "bn": "মুফাসসিরগণ একাধিক উত্তর দেন এবং সেগুলোকে পরস্পরবিরোধী মনে করেন না। কেউ কেউ প্রথমেই এটিকে নবী ﷺ-এর ক্ষেত্রে পড়েন, কারণ সূরাটি যাঁকে সম্বোধন করছে তিনিই সেই আহ্বানকারী। ইবনে কাসীর আয়িশা (রাঃ)-এর একটি উক্তি উল্লেখ করেন যেখানে তিনি এটিকে মুয়াযযিনের ক্ষেত্রে পড়েন — যে দিনে পাঁচবার মানুষকে আল্লাহর দিকে ডাকে, তারপর গিয়ে সেই নামাযটিই আদায় করে যার দিকে সে ডেকেছিল। ইবনে কাসীর হাসান আল-বসরীর কথাও উদ্ধৃত করেন, যিনি এই আয়াত সম্পর্কে বলেন যে এমন ব্যক্তিই আল্লাহর প্রিয়পাত্র, আর যমীনের মানুষদের মধ্যে আল্লাহর কাছে সবচেয়ে প্রিয়। অধিকাংশই শব্দগুলোকে সাধারণ অর্থে নেন, কারণ এটি কোনো নাম নয়, একটি শ্রেণি হিসেবে বলা হয়েছে।"
+            "bn": "মুফাসসিররা একাধিক উত্তর দেন, তবে সেগুলোকে একে অপরের বিরোধী মনে করেন না। কেউ কেউ প্রথমে নবী ﷺ-কে বোঝেন, কারণ সূরাটি যাঁকে সম্বোধন করছে, সেই দাঈ তো তিনিই। ইবনে কাসীর আয়িশা (রাঃ)-এর একটি কথা উল্লেখ করেছেন। তাঁর মতে এখানে মুয়াজ্জিনের কথা বলা হয়েছে, যিনি মানুষকে আল্লাহর দিকে ডাকেন, তারপর নিজেও সেই নামাজ আদায় করেন, যার দিকে ডেকেছিলেন। ইবনে কাসীর হাসান বসরীর কথাও এনেছেন। এ আয়াত সম্পর্কে তিনি বলেছেন, এমন মানুষই আল্লাহর প্রিয়, আর পৃথিবীর মানুষের মধ্যে আল্লাহর কাছে সবচেয়ে প্রিয়। তবে বেশির ভাগ মুফাসসির আয়াতটিকে সাধারণ অর্থে নেন, কারণ এখানে কারও নাম নেই, আছে এক ধরনের মানুষের বর্ণনা।"
           }
         ]
       },
@@ -781,31 +781,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Fussilat is Makkan, and the years it belongs to were years in which calling to Allah earned mockery rather than standing. The verses just before it, 41:30-32, promise that those who say our Lord is Allah and then hold steady will have the angels descend upon them with the words do not fear and do not grieve. Then this verse lifts the caller to the top of all speech. And the verse immediately after it, 41:34, supplies the manner: repel with what is better, and the one you were at enmity with becomes like a warm friend.",
-            "bn": "সূরা ফুসসিলাত মক্কী, আর যে বছরগুলোর সঙ্গে এটি জড়িত সেগুলোতে আল্লাহর দিকে ডাকলে মর্যাদা নয়, উপহাসই জুটত। ঠিক আগের আয়াতগুলো, 41:30-32, প্রতিশ্রুতি দেয় যে যারা বলে 'আমাদের প্রতিপালক আল্লাহ' এবং তারপর অবিচল থাকে, তাদের কাছে ফেরেশতারা নেমে আসে এই কথা নিয়ে — ভয় করো না, দুঃখ করো না। এরপর আলোচ্য আয়াতটি আহ্বানকারীকে সব কথার শীর্ষে তুলে দেয়। আর ঠিক পরের আয়াত, 41:34, জোগায় পদ্ধতি: যা উৎকৃষ্ট তা দিয়ে প্রতিহত করো, তখন যার সঙ্গে শত্রুতা ছিল সে হয়ে যায় অন্তরঙ্গ বন্ধুর মতো।"
+            "bn": "সূরা ফুসসিলাত মক্কী। সেই বছরগুলোতে আল্লাহর দিকে ডাকলে সম্মান মিলত না, মিলত উপহাস। ঠিক আগের আয়াতগুলোতে, ৪১:৩০-৩২, প্রতিশ্রুতি আছে: যারা বলে, আমাদের রব আল্লাহ, তারপর তাতে অটল থাকে, তাদের কাছে ফেরেশতারা নেমে আসে আর বলে, ভয় পেয়ো না, দুঃখ কোরো না। এরপর এই আয়াত দাঈকে সব কথার ওপরে তুলে দেয়। আর ঠিক পরের আয়াত, ৪১:৩৪, বলে দেয় ডাকার ধরন: যা উত্তম তা দিয়ে প্রতিহত করো, তাহলে যার সঙ্গে শত্রুতা ছিল, সে হয়ে যাবে অন্তরঙ্গ বন্ধুর মতো।"
           }
         ]
       },
       {
         "h": {
           "en": "How, Not Just Whether",
-          "bn": "শুধু কি নয়, কীভাবেও"
+          "bn": "শুধু ডাকা নয়, ডাকার ধরনও"
         },
         "p": [
           {
             "en": "The Quran is specific about method elsewhere as well. 16:125 says to invite to the way of your Lord with wisdom and good instruction, and to argue with them in the way that is best. 12:108 has the Prophet ﷺ say that this is his way, that he invites to Allah upon insight, he and those who follow him. Read together with this verse, the three passages say that calling is a competence and not a temperament: it has content, it has manners, and it has evidence standing behind it.",
-            "bn": "পদ্ধতির ব্যাপারে কুরআন অন্যত্রও সুনির্দিষ্ট। 16:125 আয়াতে বলা হয়, প্রজ্ঞা ও সুন্দর উপদেশ দিয়ে তোমার প্রতিপালকের পথের দিকে ডাকো, আর তাদের সঙ্গে বিতর্ক করো সর্বোত্তম পন্থায়। 12:108 আয়াতে নবী ﷺ বলেন, এটিই তাঁর পথ — তিনি ও যারা তাঁর অনুসরণ করে, তাঁরা জ্ঞানদৃষ্টির ওপর দাঁড়িয়ে আল্লাহর দিকে ডাকেন। আলোচ্য আয়াতের সঙ্গে মিলিয়ে পড়লে এই তিনটি অংশ বলে, আহ্বান করা একটি দক্ষতা, নিছক স্বভাব নয়: এর বিষয়বস্তু আছে, আদব আছে, আর পেছনে দাঁড়ানো দলিল আছে।"
+            "bn": "পদ্ধতির ব্যাপারে কুরআন অন্য জায়গাতেও স্পষ্ট কথা বলে। ১৬:১২৫ আয়াতে আছে: হিকমত আর সুন্দর উপদেশ দিয়ে তোমার রবের পথে ডাকো, আর তাদের সঙ্গে তর্ক করো সবচেয়ে উত্তম পন্থায়। ১২:১০৮ আয়াতে আল্লাহ নবী ﷺ-কে বলতে বলেন: এটাই আমার পথ, আমি আর আমার অনুসারীরা জেনে-বুঝে, স্পষ্ট দৃষ্টি নিয়ে আল্লাহর দিকে ডাকি। এ আয়াতের সঙ্গে মিলিয়ে পড়লে তিনটি অংশ একটা কথাই বলে: দাওয়াত শিখে নেওয়ার মতো একটা যোগ্যতা, শুধু মেজাজের ব্যাপার নয়। এর বিষয়বস্তু আছে, আদব আছে, আর পেছনে দলিল আছে।"
           }
         ]
       },
       {
         "h": {
           "en": "In Your Own Circle",
-          "bn": "নিজের পরিসরে"
+          "bn": "নিজের চারপাশে"
         },
         "p": [
           {
             "en": "What makes this verse usable is that it mentions no pulpit, no title and no following. Muslim relates from Abu Hurayrah (RA) that whoever calls to guidance has a reward like the rewards of those who follow him, without that diminishing their own rewards in the least. That covers a parent, a colleague, a message sent to one person. And the third clause has a modern edge: innani mina al-muslimin is said aloud, in the first person, by someone who is not quietly editing his religion out of his introduction.",
-            "bn": "এই আয়াতটিকে ব্যবহারযোগ্য করে তোলে এই যে, এতে কোনো মিম্বরের কথা নেই, কোনো উপাধির কথা নেই, কোনো অনুসারীদলের কথাও নেই। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, যে হিদায়াতের দিকে ডাকে সে তার অনুসারীদের সমপরিমাণ প্রতিদান পায়, অথচ তাতে তাদের প্রতিদান বিন্দুমাত্র কমে না। এর আওতায় পড়ে একজন অভিভাবক, একজন সহকর্মী, একজন মানুষকে পাঠানো একটি বার্তা। আর তৃতীয় অংশটির একটি আধুনিক ধার আছে: 'ইন্নানী মিনাল মুসলিমীন' কথাটি উচ্চারিত হয় সরবে, উত্তম পুরুষে — এমন কারও মুখে যে নিজের পরিচয় দেওয়ার সময় চুপিসারে নিজের দ্বীনটুকু বাদ দিয়ে দেয় না।"
+            "bn": "এ আয়াত রোজকার জীবনে কাজে লাগানো যায়, কারণ এতে মিম্বরের কথা নেই, পদবির কথা নেই, অনুসারীর দলের কথাও নেই। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: যে হিদায়াতের দিকে ডাকে, তার অনুসারীরা যত সওয়াব পায়, সে-ও তত সওয়াব পায়, আর তাতে তাদের সওয়াব একটুও কমে না। এর মধ্যে পড়েন মা-বাবা, সহকর্মী, এমনকি একজন মানুষকে পাঠানো একটি মেসেজও। আর তৃতীয় অংশটি আজকের দিনে আরও ধারালো। ইন্নানী মিনাল মুসলিমীন কথাটি বলা হয় জোরে, 'আমি' বলে, নিজের মুখে। বলেন এমন মানুষ, যিনি নিজের পরিচয় দিতে গিয়ে চুপিচুপি দ্বীনের কথাটা বাদ দেন না।"
           }
         ]
       }
@@ -821,11 +821,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Fussilat was revealed in Makkah, in years when calling to Allah earned mockery and harm. The verse just before this one, 41:33, asks: who is better in speech than one who calls to Allah, does righteousness and says, I am of the Muslims? Then comes this verse, and the placement is the point. It is addressed first to the caller, telling him how to answer the hostility his calling will certainly attract.",
-            "bn": "সূরা ফুসসিলাত মক্কায় নাযিল হয় — এমন বছরগুলোতে, যখন আল্লাহর দিকে ডাকার পুরস্কার ছিল উপহাস ও নির্যাতন। ঠিক আগের আয়াত, 41:33, প্রশ্ন করে: কথায় তার চেয়ে উত্তম কে, যে আল্লাহর দিকে ডাকে, সৎকাজ করে এবং বলে — আমি মুসলিমদের একজন? তারপর আসে এই আয়াত, আর এই অবস্থানই মূল কথা। এটি প্রথমত সেই আহ্বানকারীকে সম্বোধন করে — তার ডাক যে শত্রুতা অবশ্যই টেনে আনবে, তার জবাব কীভাবে দিতে হবে তা শিখিয়ে।"
+            "bn": "সূরা ফুসসিলাত নাজিল হয়েছে মক্কায়, সেই বছরগুলোতে, যখন আল্লাহর দিকে ডাকলে জুটত উপহাস আর নির্যাতন। ঠিক আগের আয়াত, ৪১:৩৩, প্রশ্ন করে: কথায় তার চেয়ে উত্তম কে, যে আল্লাহর দিকে ডাকে, নেক আমল করে আর বলে, আমি মুসলিমদের একজন? এরপরই এই আয়াত, আর এর অবস্থানটাই আসল কথা। আয়াতটি প্রথমে সেই দাঈকেই বলছে, তার দাওয়াতের কারণে যে শত্রুতা আসবেই, তার জবাব সে কীভাবে দেবে।"
           },
           {
             "en": "That context saves the verse from being read as soft advice for easy days. It was given to people who were being insulted for their faith, and it told them their conduct under insult was part of the call itself. An argument can be won and a listener lost; the verse aims at winning the person, not the exchange.",
-            "bn": "এই প্রেক্ষাপটই আয়াতটিকে সহজ দিনের নরম উপদেশ হিসেবে পড়া থেকে বাঁচায়। এটি দেওয়া হয়েছিল তাদের, যারা ঈমানের কারণে অপমানিত হচ্ছিল; আর এটি তাদের বলেছিল — অপমানের মুখে তাদের আচরণটাও দাওয়াতেরই অংশ। তর্কে জেতা যায়, অথচ শ্রোতাকে হারানো যায়; আয়াতটির লক্ষ্য মানুষটিকে জেতা, বাক্যবিনিময়টি নয়।"
+            "bn": "এই প্রেক্ষাপট জানা থাকলে আয়াতটিকে আর সুখের দিনের নরম উপদেশ ভাবার উপায় থাকে না। আয়াতটি নাজিল হয়েছিল এমন মানুষদের জন্য, ঈমানের কারণে যাদের অপমান সইতে হচ্ছিল। তাদের বলা হয়েছিল, অপমানের মুখে তারা কেমন আচরণ করে, সেটাও দাওয়াতেরই অংশ। তর্কে জিতেও শ্রোতাকে হারিয়ে ফেলা যায়। আয়াতের লক্ষ্য মানুষটির মন জয় করা, তর্কে জেতা নয়।"
           }
         ]
       },
@@ -837,11 +837,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a flat statement: the good deed and the evil deed are not equal. That sounds obvious until its consequence lands — if they are not equal, then answering evil with equal evil is trading down, choosing the lesser currency. The command that follows raises the bar further: repel with that which is ahsan, better. Not merely with good, but with the better response available — patience where anger is deserved, a greeting where a slight was given.",
-            "bn": "আয়াতটি শুরু হয় এক সরাসরি ঘোষণায়: ভালো কাজ আর মন্দ কাজ সমান নয়। কথাটা সাধারণ শোনায়, যতক্ষণ না এর পরিণতিটা ধরা পড়ে — সমান না হলে, মন্দের জবাব সমান মন্দ দিয়ে দেওয়া মানে নিচু মুদ্রায় নেমে যাওয়া। এরপরের আদেশ মানদণ্ড আরও ওঠায়: প্রতিহত করো তা দিয়ে যা 'আহসান' — উত্তম। কেবল ভালো দিয়ে নয়, বরং সম্ভাব্য উত্তম জবাবটি দিয়ে — যেখানে রাগ প্রাপ্য সেখানে ধৈর্য, যেখানে খোঁচা দেওয়া হয়েছে সেখানে সালাম।"
+            "bn": "আয়াতটি শুরু হয় সোজা একটি ঘোষণা দিয়ে: ভালো কাজ আর মন্দ কাজ সমান নয়। কথাটা খুব জানা মনে হয়, যতক্ষণ না এর ফলটা চোখে পড়ে। দুটো যদি সমান না হয়, তাহলে মন্দের জবাবে সমান মন্দ ফিরিয়ে দেওয়া মানে নিজেকে নিচে নামানো, দামি মুদ্রা ফেলে সস্তা মুদ্রা বেছে নেওয়া। পরের হুকুমটা মাপকাঠি আরও উঁচু করে: প্রতিহত করো যা আহসান, অর্থাৎ উত্তম, তা দিয়ে। শুধু ভালো দিয়ে নয়, হাতের কাছে যে জবাব সবচেয়ে উত্তম, তা দিয়ে। যেখানে রাগ করাটা ন্যায্য, সেখানে সবর। যেখানে খোঁচা খেয়েছেন, সেখানে সালাম।"
           },
           {
             "en": "The same instruction appears in 23:96, repel evil with that which is best, and in 13:22 the people of the final home are described as those who repel evil with good. Repetition across surahs marks this as method, not a one-off counsel. The Quran treats the gracious response as a tool that does work in the world — idfa, repel, is a verb of pushing something back, not of passively absorbing it.",
-            "bn": "একই নির্দেশ 23:96 আয়াতে আছে — মন্দকে প্রতিহত করো তা দিয়ে যা সর্বোত্তম; আর 13:22 আয়াতে শেষ আবাসের অধিকারীদের পরিচয় দেওয়া হয়েছে — তারা মন্দকে ভালো দিয়ে প্রতিহত করে। একাধিক সূরায় এই পুনরাবৃত্তি বুঝিয়ে দেয়, এটি একটি পদ্ধতি — একবারের উপদেশ নয়। কুরআন অনুগ্রহপূর্ণ জবাবকে দেখে এমন এক হাতিয়ার হিসেবে যা দুনিয়ায় সত্যিই কাজ করে — 'ইদফা', প্রতিহত করো, শব্দটি কিছু ঠেলে ফেরানোর ক্রিয়া, নীরবে সয়ে যাওয়ার নয়।"
+            "bn": "একই নির্দেশ আছে ২৩:৯৬ আয়াতে: যা সবচেয়ে উত্তম, তা দিয়ে মন্দকে প্রতিহত করো। আর ১৩:২২ আয়াতে আখিরাতের ঘরের অধিকারীদের পরিচয় দিতে গিয়ে কুরআন বলে, তারা ভালো দিয়ে মন্দকে প্রতিহত করে। নানা সূরায় একই কথা ফিরে আসা বুঝিয়ে দেয়, এটা একটা পদ্ধতি, একবারের উপদেশ নয়। কুরআনের চোখে সুন্দর জবাব এমন এক হাতিয়ার, যা দুনিয়ায় সত্যিই কাজ করে। ইদফা, অর্থাৎ প্রতিহত করো, শব্দটা কিছু ঠেলে সরিয়ে দেওয়ার ক্রিয়া, চুপচাপ সয়ে নেওয়ার নয়।"
           }
         ]
       },
@@ -853,11 +853,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the verse states the result: the one between whom and you is enmity will become as though he were a waliyy hamim, a devoted, warm friend. Hamim carries heat — the friend whose concern for you is warm to the touch, not polite distance. The little word kaanna, as though, is honest: the transformation can feel almost unbelievable, yet it happens. Hostility is often a fire waiting for fuel, and a better response starves it.",
-            "bn": "এরপর আয়াতটি ফল ঘোষণা করে: তোমার ও যার মধ্যে শত্রুতা, সে হয়ে যাবে যেন এক 'ওয়ালিইয়ুন হামীম' — নিবেদিতপ্রাণ, উষ্ণ বন্ধু। 'হামীম' শব্দে তাপ আছে — সেই বন্ধু, তোমার জন্য যার উদ্বেগ ছুঁলে উষ্ণ লাগে; ভদ্র দূরত্ব নয়। ছোট্ট শব্দ 'কাআন্না' — যেন — সৎ স্বীকারোক্তি: এই রূপান্তর প্রায় অবিশ্বাস্য মনে হতে পারে, তবু তা ঘটে। শত্রুতা প্রায়ই জ্বালানির অপেক্ষায় থাকা আগুন, আর উত্তম জবাব সেই জ্বালানি বন্ধ করে দেয়।"
+            "bn": "এরপর আয়াতটি ফল জানিয়ে দেয়: তোমার আর যার মধ্যে শত্রুতা, সে হয়ে যাবে যেন 'ওয়ালিইয়ুন হামীম', অর্থাৎ দরদি, অন্তরঙ্গ বন্ধু। 'হামীম' শব্দে উত্তাপ আছে। এ সেই বন্ধু, আপনার জন্য যার দরদ ছুঁয়ে অনুভব করা যায়, যে ভদ্রতার দূরত্ব রেখে চলে না। ছোট্ট শব্দ 'কাআন্না', অর্থাৎ যেন, এখানে সৎ স্বীকারোক্তি। এ বদল প্রায় অবিশ্বাস্য মনে হতে পারে, তবু তা ঘটে। শত্রুতা অনেক সময় এমন আগুন, যা জ্বালানির অপেক্ষায় থাকে। উত্তম জবাব সেই জ্বালানিই বন্ধ করে দেয়।"
           },
           {
             "en": "Ibn Kathir and others record from the early commentators the plain reading of how this works: when a man wrongs you and you meet him with pardon and good, his own nature testifies against him, and the wrongdoer is turned. The verse does not promise that every enemy converts to friendship; it describes what the better response is capable of, and history and ordinary life both supply the examples.",
-            "bn": "ইবনে কাসীর ও অন্যরা প্রাথমিক মুফাসসিরদের থেকে এর কার্যপ্রণালীর সরল পাঠটি লিপিবদ্ধ করেছেন: কেউ তোমার ওপর অন্যায় করলে তুমি যখন তাকে ক্ষমা ও কল্যাণ দিয়ে বরণ করো, তখন তার নিজের স্বভাবই তার বিরুদ্ধে সাক্ষ্য দেয়, আর অন্যায়কারী ফিরে আসে। আয়াতটি প্রতিশ্রুতি দেয় না যে প্রতিটি শত্রুই বন্ধুতে পরিণত হবে; এটি বর্ণনা করে উত্তম জবাব কী করতে সক্ষম — আর ইতিহাস ও দৈনন্দিন জীবন, দুটোই তার উদাহরণ জোগায়।"
+            "bn": "এটা কীভাবে কাজ করে, তার সহজ ব্যাখ্যা ইবনে কাসীর ও অন্যরা আগের যুগের মুফাসসিরদের থেকে বর্ণনা করেছেন। কেউ আপনার ওপর অন্যায় করল, আর আপনি তাকে ক্ষমা করলেন, তার সঙ্গে ভালো ব্যবহার করলেন। তখন তার নিজের স্বভাবই তার বিরুদ্ধে সাক্ষ্য দেয়, আর অন্যায়কারী ফিরে আসে। আয়াতটি এ কথা দেয় না যে প্রত্যেক শত্রুই বন্ধু হয়ে যাবে। আয়াত দেখায়, উত্তম জবাব কী করতে পারে। ইতিহাসে আর রোজকার জীবনে, দুই জায়গাতেই এর উদাহরণ আছে।"
           }
         ]
       },
@@ -869,11 +869,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next verse, 41:35, immediately manages expectations: none is granted this quality except those who are patient, and none is granted it except the owner of a great portion. The Quran itself certifies the difficulty. Answering a wound with something better runs against instinct, and the verse calls the capacity a grant — yulaqqaha, something a person is given to receive — and its holder someone with hazz azim, a great share of good.",
-            "bn": "পরের আয়াত, 41:35, সঙ্গে সঙ্গেই প্রত্যাশা ঠিক করে দেয়: এই গুণ কেবল তাদেরই দেওয়া হয় যারা ধৈর্যশীল, আর কেবল তাকেই দেওয়া হয় যে মহাভাগ্যের অধিকারী। কুরআন নিজেই কাজটির কাঠিন্য প্রত্যয়ন করে। আঘাতের জবাব উত্তম কিছু দিয়ে দেওয়া প্রবৃত্তির বিপরীতে চলে; আর আয়াতটি এই সামর্থ্যকে বলে এক দান — 'ইউলাক্কাহা', যা গ্রহণের জন্য মানুষকে দেওয়া হয় — এবং এর ধারককে বলে 'হাযযিন আযীম'-এর মালিক, কল্যাণের এক বিরাট অংশের অধিকারী।"
+            "bn": "পরের আয়াত, ৪১:৩৫, সঙ্গে সঙ্গে প্রত্যাশাটা ঠিক জায়গায় রাখে: এ গুণ কেবল তারাই পায়, যারা সবর করে, আর কেবল সে-ই পায়, যে মহাভাগ্যবান। কাজটা যে কঠিন, কুরআন নিজেই তা স্বীকার করে। আঘাতের জবাবে উত্তম কিছু দেওয়া মানুষের স্বভাবের উল্টো। তাই আয়াতটি এই ক্ষমতাকে বলে একটা দান। 'ইউলাক্কাহা' মানে, এ জিনিস মানুষের হাতে তুলে দেওয়া হয়, আর সে তা গ্রহণ করে। আর যে এটা পায়, তাকে আয়াত বলে 'হাযযিন আযীম'-এর অধিকারী, অর্থাৎ কল্যাণের বিরাট অংশ যার ভাগে পড়েছে।"
           },
           {
             "en": "Then 41:36 adds the final piece: if a provocation from Shaytan provokes you, seek refuge in Allah. The sequence is a complete anatomy of the angry moment. The insult arrives; the instinct to strike back is named as the devil's nudge, not as justice; and the remedy is not gritted teeth but isti'adhah, stepping out of the exchange and into Allah's protection. The three verses together are a training program, not a slogan.",
-            "bn": "এরপর 41:36 শেষ টুকরোটি যোগ করে: শয়তানের পক্ষ থেকে কোনো প্ররোচনা তোমাকে উসকে দিলে আল্লাহর আশ্রয় চাও। এই ধারাবাহিকতা রাগের মুহূর্তের এক পূর্ণাঙ্গ ব্যবচ্ছেদ। অপমান আসে; পাল্টা আঘাতের প্রবৃত্তিকে চিহ্নিত করা হয় শয়তানের ঠেলা হিসেবে — ন্যায়বিচার হিসেবে নয়; আর প্রতিকার দাঁত কামড়ে সহ্য করা নয়, বরং 'ইস্তিআযা' — বাক্যবিনিময় থেকে বেরিয়ে আল্লাহর আশ্রয়ে ঢুকে পড়া। তিনটি আয়াত মিলে একটি প্রশিক্ষণ কর্মসূচি, কোনো স্লোগান নয়।"
+            "bn": "এরপর ৪১:৩৬ শেষ অংশটি জুড়ে দেয়: শয়তানের পক্ষ থেকে কোনো কুমন্ত্রণা যদি তোমাকে উসকে দেয়, আল্লাহর আশ্রয় চাও। এই ধারাবাহিকতায় রাগের মুহূর্তটার পুরো ছবি ধরা পড়ে। অপমান আসে। পাল্টা আঘাত করার তাড়নাকে আয়াত বলে শয়তানের খোঁচা, ন্যায়বিচার নয়। আর তার প্রতিকার দাঁতে দাঁত চেপে সহ্য করা নয়, বরং 'ইস্তিআযা': কথা কাটাকাটি থেকে বেরিয়ে এসে আল্লাহর আশ্রয়ে ঢুকে পড়া। তিন আয়াত মিলে এক পূর্ণ প্রশিক্ষণ, কোনো স্লোগান নয়।"
           }
         ]
       },
@@ -885,11 +885,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse becomes real in small collisions: the curt message, the relative who needles, the colleague who takes credit. Practice starts below heroism — replying to sarcasm with plain courtesy, returning a greeting with a better one as 4:86 teaches, praying quietly for the person who irritates you most. Each repetition weakens the reflex the verse calls Shaytan's provocation and strengthens the grant it calls patience.",
-            "bn": "আয়াতটি বাস্তব হয়ে ওঠে ছোট ছোট সংঘর্ষে: রুক্ষ বার্তা, খোঁচা দেওয়া আত্মীয়, কৃতিত্ব নিয়ে নেওয়া সহকর্মী। অনুশীলন শুরু হয় বীরত্বের অনেক নিচ থেকে — শ্লেষের জবাবে সাদাসিধা ভদ্রতা, সালামের জবাব আরও উত্তমভাবে ফেরানো যেমন 4:86 শেখায়, যে মানুষটি সবচেয়ে বিরক্ত করে তার জন্য নীরবে দোয়া করা। প্রতিটি পুনরাবৃত্তি সেই প্রতিবর্ত ক্রিয়াকে দুর্বল করে যাকে আয়াত বলে শয়তানের প্ররোচনা, আর সেই দানকে মজবুত করে যাকে বলে ধৈর্য।"
+            "bn": "আয়াতটি সত্যি হয়ে ওঠে ছোট ছোট ঠোকাঠুকিতে: কাটা-কাটা একটা মেসেজ, খোঁচা দিয়ে কথা বলা আত্মীয়, কৃতিত্ব নিজের নামে নিয়ে নেওয়া সহকর্মী। অনুশীলন শুরু হয় বড় বীরত্বের অনেক নিচ থেকে। বাঁকা কথার জবাবে সাদামাটা ভদ্রতা। ৪:৮৬ আয়াত যেমন শেখায়, সালামের জবাব আরও সুন্দর করে দেওয়া। যে মানুষটা আপনাকে সবচেয়ে বেশি বিরক্ত করে, চুপিচুপি তার জন্য দোয়া করা। প্রতিবার এমন করলে ঝট করে জ্বলে ওঠার সেই ঝোঁক দুর্বল হয়, যাকে আয়াত বলে শয়তানের উসকানি। আর মজবুত হয় সেই দান, যাকে বলে সবর।"
           },
           {
             "en": "One caution keeps the practice honest: the verse is about personal graciousness, not about abandoning justice or enabling oppression; the Quran elsewhere affirms the right of the wronged. What it removes is retaliation as a habit of the tongue and heart in daily dealings. The believer who masters that exchange rate — paying in better coin than was received — walks around with the great portion 41:35 describes, and some former enemies as proof.",
-            "bn": "একটি সতর্কতা অনুশীলনটিকে সৎ রাখে: আয়াতটি ব্যক্তিগত মহানুভবতা নিয়ে — ন্যায়বিচার ছেড়ে দেওয়া বা জুলুমকে প্রশ্রয় দেওয়া নিয়ে নয়; কুরআন অন্যত্র মজলুমের অধিকার স্বীকার করেছে। এটি যা সরায় তা হলো দৈনন্দিন লেনদেনে জিহ্বা ও হৃদয়ের অভ্যাস হয়ে ওঠা প্রতিশোধ। যে মুমিন এই বিনিময় হার আয়ত্ত করে — যা পেয়েছে তার চেয়ে উত্তম মুদ্রায় শোধ করা — সে চলাফেরা করে 41:35 বর্ণিত সেই মহাভাগ্য নিয়ে, আর প্রমাণ হিসেবে সঙ্গে থাকে কিছু সাবেক শত্রু।"
+            "bn": "একটা সতর্কতা মনে রাখলে অনুশীলনটা ঠিক পথে থাকে। আয়াতটি ব্যক্তিগত উদারতার কথা বলে, ইনসাফ ছেড়ে দেওয়া বা জুলুমকে প্রশ্রয় দেওয়ার কথা বলে না। মজলুমের হক কুরআন অন্য জায়গায় স্পষ্ট করেই স্বীকার করেছে। আয়াত যা দূর করতে চায়, তা হলো রোজকার লেনদেনে মুখে আর মনে বদলা নেওয়ার অভ্যাস। যে মুমিন এই লেনদেনটা রপ্ত করে, যা পেয়েছে তার চেয়ে ভালো মুদ্রায় শোধ করে, সে ৪১:৩৫-এর সেই মহাভাগ্য নিয়ে চলে। আর প্রমাণ হিসেবে তার সঙ্গে থাকে কয়েকজন সাবেক শত্রু।"
           }
         ]
       }
