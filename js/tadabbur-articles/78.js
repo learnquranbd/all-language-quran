@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Naba, revealed in Makkah, opens with a question: 'amma yatasa'alun, about what are they asking one another? It does not wait for a reply. 78:2 answers, 'an an-naba' al-'azim, about the great news, and 78:3 completes the answer in four Arabic words: alladhi hum fihi mukhtalifun, the one over which they are in disagreement. The verse is therefore not a fresh statement. It is the description that tells the hearer which great news is meant: the one already dividing the very people who are asking about it.",
-            "bn": "সূরা আন-নাবা মক্কায় নাযিল হয়েছে, আর তার শুরু একটা প্রশ্ন দিয়ে: আম্মা ইয়াতাসাআলূন, তারা একে অন্যকে কী নিয়ে জিজ্ঞেস করছে? জবাবের জন্য অপেক্ষা করতে হয় না। ৭৮:২ বলে দেয়, আনিন নাবায়িল আযীম, মহাসংবাদ নিয়ে। আর ৭৮:৩ আরবি চারটি শব্দে জবাবটা পূর্ণ করে: আল্লাযী হুম ফীহি মুখতালিফূন, যে বিষয়ে তাদের মধ্যে মতভেদ। তাই আয়াতটি নতুন কোনো ঘোষণা নয়। শ্রোতা যেন বুঝতে পারে কোন মহাসংবাদের কথা হচ্ছে, এ তারই পরিচয়। সেই সংবাদ, যা প্রশ্নকারীদের নিজেদেরকেই ইতিমধ্যে ভাগ করে ফেলেছে।"
+            "bn": "সূরা আন-নাবা মক্কায় নাজিল হয়েছে, আর এর শুরু একটা প্রশ্ন দিয়ে: আম্মা ইয়াতাসাআলূন, তারা একে অন্যকে কী নিয়ে জিজ্ঞেস করছে? জবাবের জন্য অপেক্ষা করতে হয় না। ৭৮:২ বলে দেয়, আনিন নাবায়িল আযীম, মহাসংবাদ নিয়ে। আর ৭৮:৩ আরবি চারটি শব্দে জবাবটা পূর্ণ করে: আল্লাযী হুম ফীহি মুখতালিফূন, যে বিষয়ে তাদের মধ্যে মতভেদ। তাই আয়াতটি নতুন কোনো ঘোষণা নয়। এ হলো সংবাদটির পরিচয়, যাতে শ্রোতা চিনতে পারে কোন মহাসংবাদের কথা হচ্ছে: যে সংবাদ নিয়ে প্রশ্নকারীরা নিজেরাই আগে থেকে দুই ভাগ হয়ে আছে।"
           },
           {
             "en": "What follows is a warning given twice, in 78:4 and 78:5: kalla sa-ya'lamun, no, they are going to know, then the same words again after thumma, then. Ibn Kathir calls it a severe threat and a direct warning, and reads 78:6 onward as Allah setting out His power as proof that He can do whatever He wills concerning the Hereafter. So 78:3 sits at a hinge. It names the dispute, and everything after it answers the dispute: first a warning, then evidence taken from the earth, the mountains, human pairs and sleep.",
-            "bn": "এরপর ৭৮:৪ ও ৭৮:৫ আয়াতে দুবার সতর্কবাণী: কাল্লা সাইয়া'লামূন, কক্ষনো না, তারা শীঘ্রই জানবে। তারপর ছুম্মা, অর্থাৎ আবার, জুড়ে দিয়ে একই কথা। ইবন কাসীর একে বলেন কঠোর হুমকি ও সরাসরি সতর্কবার্তা। ৭৮:৬ থেকে পরের আয়াতগুলোকে তিনি পড়েন আল্লাহর কুদরতের বর্ণনা হিসেবে, যা প্রমাণ করে আখিরাতের ব্যাপারে তিনি যা চান তা-ই করতে পারেন। ফলে ৭৮:৩ দাঁড়িয়ে আছে একটা কবজার জায়গায়। এ আয়াত বিবাদটার নাম বলে দেয়, আর এর পরের সবকিছু সেই বিবাদের জবাব। প্রথমে সতর্কবাণী, তারপর প্রমাণ: যমীন, পাহাড়, জোড়ায় জোড়ায় মানুষ আর ঘুম।"
+            "bn": "এরপর ৭৮:৪ ও ৭৮:৫ আয়াতে দুবার সতর্কবাণী: কাল্লা সাইয়া'লামূন, কক্ষনো না, তারা শীঘ্রই জানবে। দ্বিতীয়বার একই কথা আসে ছুম্মা, অর্থাৎ 'তারপর', শব্দটি জুড়ে। ইবন কাসীর একে বলেন কঠোর হুমকি ও সরাসরি সতর্কবার্তা। ৭৮:৬ থেকে পরের আয়াতগুলোকে তিনি পড়েন আল্লাহর কুদরতের বর্ণনা হিসেবে, যা প্রমাণ করে আখিরাতের ব্যাপারে তিনি যা চান তা-ই করতে পারেন। তাই ৭৮:৩ আয়াতটি দুই অংশের সংযোগস্থলে দাঁড়িয়ে। এ আয়াত বিবাদটার নাম বলে দেয়, আর এর পরের সবকিছু সেই বিবাদের জবাব। প্রথমে সতর্কবাণী, তারপর প্রমাণ: যমীন, পাহাড়, জোড়ায় জোড়ায় মানুষ আর ঘুম।"
           }
         ]
       },
@@ -37,7 +37,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an notes that naba' means news, but not every piece of news is a naba'; the word is kept for momentous news of a great event. Ibn Kathir, in his Arabic, glosses an-naba' al-'azim as al-khabar al-ha'il al-mufzi' al-bahir: the dreadful, alarming, overwhelming report. The adjective 'azim, great, then adds to that weight. Whatever the news turns out to be, both commentators agree on how heavy it is. This is not idle talk passed around a town; it is the kind of report that changes everything for whoever believes it.",
-            "bn": "মাআরিফুল কুরআন বলে, নাবা মানে সংবাদ, তবে সব সংবাদ নাবা নয়। শব্দটা রাখা হয় কোনো বড় ঘটনার গুরুতর সংবাদের জন্য। ইবন কাসীর তাঁর আরবি তাফসীরে আন-নাবাউল আযীমের ব্যাখ্যা দেন আল-খাবারুল হায়িলুল মুফযিউল বাহির বলে: ভয়ংকর, আতঙ্ক জাগানো, অভিভূত করে দেওয়া খবর। তার ওপর বিশেষণ আযীম, মহা, ভারটা আরও বাড়িয়ে দেয়। সংবাদটা শেষ পর্যন্ত যা-ই হোক, এর ওজন নিয়ে দুই তাফসীরকারই একমত। শহরের অলস গালগল্প এটা নয়। এ এমন খবর, যে বিশ্বাস করে তার জীবনের সবকিছুই বদলে দেয়।"
+            "bn": "মাআরিফুল কুরআন বলে, নাবা মানে সংবাদ, তবে সব সংবাদ নাবা নয়। শব্দটা রাখা হয় কোনো বড় ঘটনার গুরুতর সংবাদের জন্য। ইবন কাসীর তাঁর আরবি তাফসীরে আন-নাবাউল আযীমের ব্যাখ্যা দেন আল-খাবারুল হায়িলুল মুফযিউল বাহির বলে: ভয়ংকর, আতঙ্ক জাগানো, অভিভূত করে দেওয়া খবর। তার ওপর বিশেষণ আযীম, মহা, ভারটা আরও বাড়িয়ে দেয়। সংবাদটা শেষ পর্যন্ত যা-ই হোক, এর ওজন নিয়ে দুই তাফসীরকারই একমত। শহরের অলস গালগল্প এটা নয়। এ এমন খবর, যে বিশ্বাস করে, তার জীবনের সবকিছু বদলে যায়।"
           },
           {
             "en": "Mukhtalifun is a participle from the root kh-l-f, here carrying the sense of differing and taking opposite sides. At-Tabari glosses the clause with a verb of becoming: the thing over which they became two parties, one party affirming it and one party denying it. Al-Qurtubi gives the mutual sense: yukhalifu fihi ba'duhum ba'dan, some of them oppose others over it, so that one affirms and another denies. The relative word alladhi ties the whole verse back to the news, so that the news is identified by the quarrel that has gathered around it.",
@@ -53,15 +53,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators do not agree on what the great news is, and at-Tabari, on 78:2, opens the question with the words: the people of interpretation differed. One group said the Qur'an, and he reports it from Mujahid. Al-Qurtubi, on 78:3, reports the same from Ibn Abbas (RA) through Abu Salih, and gives the proof text 38:67 and 38:68: say, it is great news from which you turn away. The Qur'an, he says, is naba', report and story, and a report of great standing. Al-Baghawi says this is the view of Mujahid and of most commentators.",
-            "bn": "মহাসংবাদ বলতে কী বোঝানো হয়েছে, সে বিষয়ে তাফসীরকারেরা একমত নন। তাবারী ৭৮:২ আয়াতে প্রশ্নটা শুরুই করেন এ কথা বলে: ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন। একদল বলেছেন, এ হলো কুরআন। তাবারী মতটি বর্ণনা করেন মুজাহিদ থেকে। কুরতুবী ৭৮:৩ আয়াতে একই কথা আনেন ইবন আব্বাস (রাঃ) থেকে, আবু সালিহের সূত্রে। প্রমাণ হিসেবে তিনি দেখান ৩৮:৬৭ ও ৩৮:৬৮: বলো, এ এক মহাসংবাদ, যা থেকে তোমরা মুখ ফিরিয়ে নিচ্ছ। তাঁর কথায়, কুরআন নিজেই নাবা, খবর আর কাহিনি, আর তা অতি মর্যাদাপূর্ণ খবর। বাগাভী বলেন, এটি মুজাহিদ এবং অধিকাংশ তাফসীরকারের মত।"
+            "bn": "মহাসংবাদ বলতে কী বোঝানো হয়েছে, সে বিষয়ে তাফসীরকারেরা একমত নন। তাবারী ৭৮:২-এর তাফসীরে প্রশ্নটা শুরুই করেন এ কথা বলে: ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন। একদল বলেছেন, এ হলো কুরআন। তাবারী মতটি বর্ণনা করেন মুজাহিদ থেকে। কুরতুবী ৭৮:৩-এর তাফসীরে একই কথা আনেন ইবন আব্বাস (রাঃ) থেকে, আবু সালিহের সূত্রে। প্রমাণ হিসেবে তিনি দেখান ৩৮:৬৭ ও ৩৮:৬৮: বলো, এ এক মহাসংবাদ, যা থেকে তোমরা মুখ ফিরিয়ে নিচ্ছ। তাঁর কথায়, কুরআন নিজেই নাবা, খবর আর কাহিনি, আর তা অতি মর্যাদাপূর্ণ খবর। বাগাভী বলেন, এটি মুজাহিদ এবং অধিকাংশ তাফসীরকারের মত।"
           },
           {
             "en": "A second group said the resurrection after death. At-Tabari reports it from Qatada by two chains, and from Ibn Zayd in the form Yawm al-Qiyama, the Day of Resurrection. Ibn Kathir's Arabic names Qatada and Ibn Zayd for the resurrection and Mujahid for the Qur'an, side by side, and does not rank them there. His abridged English and Ma'arif al-Qur'an both take the news to be the Day of Judgement. Al-Qurtubi then adds a third view under qila, it was said: the matter of the Prophet ﷺ, with no name attached to it.",
-            "bn": "আরেক দল বলেছেন, এ হলো মৃত্যুর পরের পুনরুত্থান। তাবারী মতটি কাতাদা থেকে দুটি সনদে বর্ণনা করেন, আর ইবন যায়দ থেকে আনেন ইয়াওমুল কিয়ামাহ, কিয়ামতের দিন, এই শব্দে। ইবন কাসীর আরবি তাফসীরে পাশাপাশি দুটো মতই রাখেন: পুনরুত্থানের পক্ষে কাতাদা ও ইবন যায়দ, কুরআনের পক্ষে মুজাহিদ। সেখানে তিনি কোনোটিকে অগ্রাধিকার দেন না। তবে তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ এবং মাআরিফুল কুরআন দুটোই সংবাদটিকে বিচার দিবস বলে ধরেছে। কুরতুবী এরপর 'কীলা', অর্থাৎ বলা হয়েছে, শব্দ দিয়ে তৃতীয় একটি মত আনেন: নবী ﷺ-এর বিষয়। এ মতের সঙ্গে কারও নাম জোড়া নেই।"
+            "bn": "আরেক দল বলেছেন, এ হলো মৃত্যুর পরের পুনরুত্থান। তাবারী মতটি কাতাদা থেকে দুটি সনদে বর্ণনা করেন, আর ইবন যায়দ থেকে আনেন এই শব্দে: ইয়াওমুল কিয়ামাহ, কিয়ামতের দিন। ইবন কাসীর আরবি তাফসীরে পাশাপাশি দুটো মতই রাখেন: পুনরুত্থানের পক্ষে কাতাদা ও ইবন যায়দ, কুরআনের পক্ষে মুজাহিদ। সেখানে তিনি কোনোটিকে অগ্রাধিকার দেন না। তবে তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ এবং মাআরিফুল কুরআন দুটোই সংবাদটিকে বিচার দিবস বলে ধরেছে। কুরতুবী এরপর 'কীলা', অর্থাৎ বলা হয়েছে, শব্দ দিয়ে তৃতীয় একটি মত আনেন: নবী ﷺ-এর বিষয়। এ মতের সঙ্গে কারও নাম জোড়া নেই।"
           },
           {
             "en": "Al-Muyassar joins the first two: the great news is the Qur'an, which brings word of the resurrection that the disbelievers of Quraysh doubted and denied. At-Tabari lists both groups with their chains and states no preference between them. Al-Qurtubi also preserves a different report, from ad-Dahhak from Ibn Abbas (RA): that the Jews asked the Prophet ﷺ about many things, and Allah informed him of their disagreement. None of these readings is set aside here. The verse itself names the news by its effect, and every reading keeps that effect: people split over it.",
-            "bn": "মুয়াসসার প্রথম দুটো মতকে এক জায়গায় আনে: মহাসংবাদ হলো কুরআন, যা সেই পুনরুত্থানের খবর দেয়, যাতে কুরাইশের কাফিররা সন্দেহ করেছিল এবং যাকে তারা মিথ্যা বলেছিল। তাবারী সনদসহ দুই দলের মতই তুলে ধরেন, কোনোটির পক্ষে নিজের রায় দেন না। কুরতুবী আরেকটি ভিন্ন বর্ণনাও রেখে দেন, দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে: ইহুদিরা নবী ﷺ-কে অনেক বিষয়ে প্রশ্ন করেছিল, আর আল্লাহ তাঁকে তাদের মতভেদের খবর জানিয়ে দেন। এখানে কোনো মতকেই বাদ দেওয়া হচ্ছে না। আয়াত নিজেই সংবাদটাকে চিনিয়েছে তার ফল দিয়ে, আর প্রতিটি ব্যাখ্যাতেই সেই ফল অটুট: মানুষ এ নিয়ে ভাগ হয়ে গেছে।"
+            "bn": "মুয়াসসার প্রথম দুটো মতকে এক করে: মহাসংবাদ হলো কুরআন, আর কুরআন খবর দেয় পুনরুত্থানের। কুরাইশের কাফিররা এই পুনরুত্থান নিয়েই সন্দেহ করত, একে মিথ্যা বলত। তাবারী সনদসহ দুই দলের মতই তুলে ধরেন, কোনোটির পক্ষে নিজের রায় দেন না। কুরতুবী আরেকটি ভিন্ন বর্ণনাও রেখে দেন, দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে: ইহুদিরা নবী ﷺ-কে অনেক বিষয়ে প্রশ্ন করেছিল, আর আল্লাহ তাঁকে তাদের মতভেদের খবর জানিয়ে দেন। এখানে কোনো মতকেই বাদ দেওয়া হচ্ছে না। আয়াত নিজেই সংবাদটাকে চিনিয়েছে তার ফল দিয়ে, আর প্রতিটি ব্যাখ্যাতেই সেই ফল অটুট: মানুষ এ নিয়ে ভাগ হয়ে গেছে।"
           }
         ]
       },
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Another strand places the differing among those who did not believe. Ibn Zayd, in at-Tabari on 78:2, has them say: this is the day you claim we and our fathers will live again; and they are in disagreement over it, not believing in it. As-Sa'di describes a dispute that grew long and a disagreement that spread by way of takdhib and istib'ad, denial and dismissing it as far-fetched. Al-Muyassar pairs doubt and denial in one sentence. Ma'arif al-Qur'an reports that some commentators saw the asking as half mockery and half doubt.",
-            "bn": "আরেকটি ধারা মতভেদকে রাখে যারা বিশ্বাস করেনি তাদের ভেতরেই। তাবারী ৭৮:২ আয়াতে ইবন যায়দের যে কথা আনেন, তাতে তারা বলে: এই সেই দিন, যেদিন নাকি তোমাদের দাবি অনুযায়ী আমরা আর আমাদের বাপদাদারা আবার জীবিত হব। তারা এ নিয়ে মতভেদে আছে, আর তাতে বিশ্বাস করে না। সা'দী বলেন, বিবাদটা দীর্ঘ হয়েছিল, আর মতভেদ ছড়িয়ে পড়েছিল তাকযীব ও ইস্তিব'আদের পথে, অর্থাৎ মিথ্যা বলা আর অসম্ভব ভেবে উড়িয়ে দেওয়া। মুয়াসসার একটি বাক্যেই সন্দেহ আর অস্বীকার পাশাপাশি রাখে। মাআরিফুল কুরআন জানায়, কিছু তাফসীরকারের মতে তাদের প্রশ্নটা ছিল অর্ধেক ঠাট্টা, অর্ধেক সন্দেহ।"
+            "bn": "আরেকটি ধারার মতে, মতভেদটা ছিল অবিশ্বাসীদের নিজেদের মধ্যেই। ৭৮:২-এর তাফসীরে তাবারী ইবন যায়দের যে কথা আনেন, তাতে তারা বলে: এই সেই দিন, যেদিন নাকি তোমাদের দাবি অনুযায়ী আমরা আর আমাদের বাপদাদারা আবার জীবিত হব। তারা এ নিয়ে মতভেদে আছে, আর তাতে বিশ্বাস করে না। সা'দী বলেন, বিবাদটা দীর্ঘ হয়েছিল, আর মতভেদ ছড়িয়ে পড়েছিল তাকযীব ও ইস্তিব'আদের পথে, অর্থাৎ মিথ্যা বলা আর অসম্ভব ভেবে উড়িয়ে দেওয়া। মুয়াসসার একটি বাক্যেই সন্দেহ আর অস্বীকার পাশাপাশি রাখে। মাআরিফুল কুরআন জানায়, কিছু তাফসীরকারের মতে তাদের প্রশ্নটা ছিল অর্ধেক ঠাট্টা, অর্ধেক সন্দেহ।"
           },
           {
             "en": "These are two different claims, and they are kept apart here with the names of those who hold them. The identification of the questioners with Quraysh or with the people of Makkah comes from al-Muyassar, from Ma'arif al-Qur'an and from the scholars of Arabic whom at-Tabari cites. The verse describes what those listeners did with the news in their own time. It licenses nothing against any living person or community, and it hands no reader a label to fix on anyone today, whether a neighbour, a relative or a whole people.",
@@ -93,7 +93,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries consulted here attaches a sound hadith to 78:3. Ma'arif al-Qur'an relates from Ibn Abbas (RA), without giving a chain, that when the revelation began the pagan Arabs would sit in circles discussing and criticising it, above all its talk of resurrection and judgement, which they held to be impossible. That describes the setting, offered as a report. It is not treated here as an established occasion of revelation, and al-Qurtubi's report from ad-Dahhak, mentioned above, stands beside it as one more view.",
-            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৭৮:৩ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। মাআরিফুল কুরআন সনদ উল্লেখ না করে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে: ওহী নাযিল শুরু হলে মুশরিক আরবরা গোল হয়ে বসে তা নিয়ে আলোচনা আর সমালোচনা করত। বিশেষ করে পুনরুত্থান আর বিচারের কথা তাদের কাছে অসম্ভব মনে হতো। এ বর্ণনা পরিবেশের একটা ছবি দেয়, একটা খবর হিসেবেই। এখানে একে নাযিলের প্রতিষ্ঠিত প্রেক্ষাপট বলে ধরা হচ্ছে না। আগে উল্লেখ করা দাহহাকের সূত্রে কুরতুবীর বর্ণনাও এর পাশে আরেকটি মত হিসেবেই থাকছে।"
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৭৮:৩ আয়াতের সঙ্গে কোনো সহীহ হাদিস জুড়ে দেয়নি। মাআরিফুল কুরআন সনদ উল্লেখ না করে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে: ওহি নাজিল শুরু হলে মুশরিক আরবরা গোল হয়ে বসে তা নিয়ে আলোচনা আর সমালোচনা করত। বিশেষ করে পুনরুত্থান আর বিচারের কথা তাদের কাছে অসম্ভব মনে হতো। এ বর্ণনা তখনকার পরিবেশের একটা ছবি দেয়, তবে শুধু খবর হিসেবেই। এখানে একে প্রমাণিত শানে নুযূল বলে ধরা হচ্ছে না। আগে উল্লেখ করা দাহহাকের সূত্রে কুরতুবীর বর্ণনাও এর পাশে আরেকটি মত হিসেবেই থাকছে।"
           },
           {
             "en": "There is a general narration about the surah, not attached to this verse. At-Tirmidhi narrates from Ibn Abbas (RA): Abu Bakr (RA) said, 'O Messenger of Allah! You have become grey.' He said: 'I have gone grey from Hud, al-Waqi'ah, al-Mursalat, 'Amma yatasa'alun and Idha ash-shamsu kuwwirat.' At-Tirmidhi grades it hasan gharib, saying it is known from Ibn Abbas only by this route, and he notes other versions of it, one of them mursal. It speaks of the surah as a whole, a surah that opens on this dispute.",
@@ -113,7 +113,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "51:8 and 51:9 tell the deniers they are in qawl mukhtalif, differing speech, and that whoever is turned from it has been turned away. 27:66 traces their knowledge of the Hereafter running out, then doubt, then blindness, a sequence close to al-Muyassar's pairing of doubt with denial. 39:46 carries the question to its final court: You will judge between Your servants concerning that over which they used to differ. And within an-Naba itself, 78:17 names the Day of Decision as an appointed time, the date the dispute was always heading towards.",
-            "bn": "৫১:৮ ও ৫১:৯ আয়াত অস্বীকারকারীদের বলে, তোমরা কাওলিম মুখতালিফ, পরস্পরবিরোধী কথার মধ্যে আছ। আর এ থেকে যে ফিরে যায়, তাকে আসলে ফিরিয়ে দেওয়া হয়েছে। ২৭:৬৬ আয়াত দেখায়, আখিরাত নিয়ে তাদের জ্ঞান ফুরিয়ে গেছে, তারপর এসেছে সন্দেহ, তারপর অন্ধত্ব। মুয়াসসার সন্দেহ আর অস্বীকারকে যেভাবে পাশাপাশি রেখেছে, এ ধাপগুলো তার কাছাকাছি। ৩৯:৪৬ প্রশ্নটাকে শেষ আদালতে নিয়ে যায়: তুমিই তোমার বান্দাদের মধ্যে ফয়সালা করবে, যে বিষয়ে তারা মতভেদ করত। আর আন-নাবা সূরাতেই ৭৮:১৭ আয়াত বিচারের দিনকে বলে নির্ধারিত সময়। বিবাদটা শুরু থেকেই সেই তারিখের দিকে এগোচ্ছিল।"
+            "bn": "৫১:৮ ও ৫১:৯ আয়াত অস্বীকারকারীদের বলে, তোমরা কাওলিম মুখতালিফ, পরস্পরবিরোধী কথার মধ্যে আছ। আর এ থেকে যে ফিরে যায়, তাকে আসলে ফিরিয়ে দেওয়া হয়েছে। ২৭:৬৬ আয়াত দেখায়, আখিরাত নিয়ে তাদের জ্ঞান ফুরিয়ে গেছে, তারপর এসেছে সন্দেহ, তারপর অন্ধত্ব। মুয়াসসার সন্দেহ আর অস্বীকারকে যেভাবে পাশাপাশি রেখেছে, এ ধাপগুলো তার কাছাকাছি। ৩৯:৪৬ প্রশ্নটাকে শেষ আদালতে নিয়ে যায়: আপনিই আপনার বান্দাদের মধ্যে ফয়সালা করবেন, যে বিষয়ে তারা মতভেদ করত। আর আন-নাবা সূরাতেই ৭৮:১৭ আয়াত বিচারের দিনকে বলে নির্ধারিত সময়। বিবাদটা শুরু থেকেই সেই তারিখের দিকে এগোচ্ছিল।"
           }
         ]
       },
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse also describes a kind of talk. They were asking one another, and as-Sa'di calls it a dispute that grew long. Talk about the Hereafter can become a substitute for preparing for it: debates about signs, timetables and details, with no change in prayer, debts or speech. A practical week might look like this. Settle one debt or one wrong you owe someone. Pray one prayer as a person who will be raised and asked about it. And when the subject comes up among friends, close the conversation with something to do rather than something to argue over.",
-            "bn": "আয়াতটি এক ধরনের আলাপেরও ছবি আঁকে। তারা একে অন্যকে জিজ্ঞেস করছিল, আর সা'দী বলেন, সে বিবাদ দীর্ঘ হয়ে গিয়েছিল। আখিরাত নিয়ে কথা বলাটা কখনো কখনো তার প্রস্তুতির বদলি হয়ে দাঁড়ায়। আলামত, সময়সূচি আর খুঁটিনাটি নিয়ে বিতর্ক চলে, অথচ নামায, দেনা বা মুখের কথায় কোনো বদল আসে না। একটা বাস্তব সপ্তাহ হতে পারে এরকম। কারও কাছে একটা দেনা বা একটা অন্যায়ের দায় থাকলে তা মিটিয়ে দিন। এক ওয়াক্ত নামায পড়ুন এমন মানুষ হিসেবে, যাকে আবার ওঠানো হবে আর এ নামায সম্পর্কে জিজ্ঞেস করা হবে। আর বন্ধুদের মধ্যে প্রসঙ্গটা উঠলে আলাপ শেষ করুন করণীয় কিছু দিয়ে, তর্কের নতুন বিষয় দিয়ে নয়।"
+            "bn": "আয়াতটি এক ধরনের আলাপেরও ছবি আঁকে। তারা একে অন্যকে জিজ্ঞেস করছিল, আর সা'দী বলেন, সে বিবাদ দীর্ঘ হয়ে গিয়েছিল। আখিরাত নিয়ে কথা বলাটাই কখনো কখনো আখিরাতের প্রস্তুতির জায়গা দখল করে নেয়। আলামত, সময়সূচি আর খুঁটিনাটি নিয়ে বিতর্ক চলে, অথচ নামাজ, দেনা বা মুখের কথায় কোনো বদল আসে না। একটা বাস্তব সপ্তাহ হতে পারে এরকম। কারও কাছে একটা দেনা বা একটা অন্যায়ের দায় থাকলে তা মিটিয়ে দিন। এক ওয়াক্ত নামাজ এমনভাবে পড়ুন, যেন জানেন, আপনাকে আবার ওঠানো হবে আর এই নামাজ সম্পর্কে জিজ্ঞেস করা হবে। আর বন্ধুদের মধ্যে প্রসঙ্গটা উঠলে আলাপ শেষ করুন করণীয় কিছু দিয়ে, তর্কের নতুন বিষয় দিয়ে নয়।"
           }
         ]
       },
@@ -141,11 +141,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim narrates that Abu Salama ibn Abd ar-Rahman asked A'isha (RA) how the Prophet ﷺ opened his prayer when he rose at night. She said he would open it with: 'O Allah, Lord of Jibril, Mika'il and Israfil, Originator of the heavens and the earth, Knower of the unseen and the seen, You judge between Your servants in what they used to differ over. Guide me, by Your leave, to the truth in what has been differed over, for You guide whom You will to a straight path.' It is not attached to 78:3, but it turns the verse's word for differing into a request.",
-            "bn": "মুসলিম বর্ণনা করেন, আবু সালামা ইবন আবদির রহমান আয়িশা (রাঃ)-কে জিজ্ঞেস করেছিলেন, রাতে উঠে নবী ﷺ কী দিয়ে নামায শুরু করতেন। তিনি বললেন, তিনি শুরু করতেন এভাবে: 'হে আল্লাহ, জিবরীল, মীকাঈল ও ইসরাফীলের রব, আসমান ও যমীনের স্রষ্টা, গায়েব ও প্রকাশ্যের জ্ঞানী! তোমার বান্দারা যে বিষয়ে মতভেদ করত, তুমিই তার ফয়সালা করো। যে সত্য নিয়ে মতভেদ হয়েছে, তোমার অনুমতিতে আমাকে সেদিকে পথ দেখাও। নিশ্চয়ই তুমি যাকে চাও সরল পথে পরিচালিত করো।' এ দুআ ৭৮:৩ আয়াতের সঙ্গে জোড়া নয়। তবে আয়াতে মতভেদের যে শব্দ, এ দুআ সেটাকেই একটা প্রার্থনায় বদলে দেয়।"
+            "bn": "মুসলিম বর্ণনা করেন, আবু সালামা ইবন আবদির রহমান আয়িশা (রাঃ)-কে জিজ্ঞেস করেছিলেন, নবী ﷺ রাতে উঠে কী দিয়ে নামাজ শুরু করতেন। উত্তরে তিনি বলেন, এই দুআ দিয়ে: 'হে আল্লাহ, জিবরীল, মীকাঈল ও ইসরাফীলের রব, আসমান ও যমীনের স্রষ্টা, গায়েব ও প্রকাশ্যের জ্ঞানী! আপনার বান্দারা যে বিষয়ে মতভেদ করত, আপনিই তার ফয়সালা করেন। যে সত্য নিয়ে মতভেদ হয়েছে, আপনার অনুমতিতে আমাকে সেদিকে পথ দেখান। নিশ্চয়ই আপনি যাকে চান, সরল পথে পরিচালিত করেন।' এ দুআ ৭৮:৩ আয়াতের সঙ্গে জোড়া নয়। তবে আয়াতে মতভেদের যে শব্দ, এ দুআ সেটাকেই একটা প্রার্থনায় বদলে দেয়।"
           },
           {
             "en": "Some questions to carry from the verse. What part of the great news do I affirm in words while my week argues the other side? When I hear people quarrel over the truth, does their quarrel become my excuse for standing aside? Do I come to the Qur'an expecting news meant for me, or a subject to have views about? And if Qatada is right that no one disputes the death they have seen, what would I change if I held what follows it with the same certainty?",
-            "bn": "আয়াত থেকে সঙ্গে নেওয়ার মতো কয়েকটি প্রশ্ন। মহাসংবাদের কোন অংশ আমি মুখে স্বীকার করি, অথচ আমার পুরো সপ্তাহ উল্টো পক্ষের হয়ে কথা বলে? সত্য নিয়ে মানুষকে ঝগড়া করতে শুনলে কি সেই ঝগড়াই আমার দূরে সরে থাকার অজুহাত হয়ে যায়? কুরআনের কাছে আমি কি যাই আমার জন্য পাঠানো খবরের আশায়, নাকি মতামত দেওয়ার মতো একটা বিষয় হিসেবে? আর কাতাদার কথাই যদি ঠিক হয় যে চোখে দেখা মৃত্যু নিয়ে কেউ তর্ক করে না, তবে তার পরের অংশকেও একই নিশ্চয়তায় ধরলে আমি কী বদলাতাম?"
+            "bn": "আয়াত থেকে সঙ্গে নেওয়ার মতো কয়েকটি প্রশ্ন। মহাসংবাদের কোন অংশ আমি মুখে স্বীকার করি, অথচ সপ্তাহজুড়ে আমার কাজকর্ম বলে উল্টো কথা? সত্য নিয়ে মানুষকে ঝগড়া করতে শুনলে কি সেই ঝগড়াই আমার দূরে সরে থাকার অজুহাত হয়ে যায়? কুরআনের কাছে আমি কি যাই আমার জন্য পাঠানো খবরের আশায়, নাকি মতামত দেওয়ার মতো একটা বিষয় হিসেবে? আর কাতাদার কথাই যদি ঠিক হয় যে চোখে দেখা মৃত্যু নিয়ে কেউ তর্ক করে না, তবে তার পরের অংশকেও একই নিশ্চয়তায় ধরলে আমি কী বদলাতাম?"
           }
         ]
       }
@@ -161,27 +161,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Naba opens on a dispute. 78:1 asks about what they are questioning one another, and 78:2-3 answer: about the great news, the one they are divided over. 78:4-5 then warn twice in nearly the same words — no, they are going to know. After that the surah stops arguing and starts listing. 78:6 begins it: have We not made the earth a resting place?",
-            "bn": "সূরা আন-নাবা শুরু হয় একটি বিতর্ক দিয়ে। 78:1 জিজ্ঞেস করে, তারা একে অপরকে কী বিষয়ে প্রশ্ন করছে; আর 78:2-3 জবাব দেয় — সেই মহাসংবাদ সম্পর্কে, যা নিয়ে তারা মতভেদে লিপ্ত। এরপর 78:4-5 প্রায় একই শব্দে দুইবার সতর্ক করে — না, তারা শীঘ্রই জেনে যাবে। এর পরেই সূরাটি তর্ক থামিয়ে তালিকা শুরু করে। 78:6 দিয়ে তার সূচনা: আমি কি যমীনকে বিছানা বানাইনি?"
+            "bn": "সূরা আন-নাবার শুরু একটা বিতর্ক দিয়ে। ৭৮:১ জিজ্ঞেস করে, তারা একে অন্যকে কী নিয়ে প্রশ্ন করছে? ৭৮:২-৩ জবাব দেয়: সেই মহাসংবাদ নিয়ে, যা নিয়ে তারা মতভেদে জড়িয়ে আছে। এরপর ৭৮:৪-৫ প্রায় একই শব্দে দুবার সতর্ক করে: কক্ষনো না, তারা শীঘ্রই জেনে যাবে। এর পরেই সূরাটি তর্ক থামিয়ে তালিকা শুরু করে। শুরুটা ৭৮:৬ দিয়ে: আমি কি যমীনকে বিছানা বানাইনি?"
           },
           {
             "en": "The grammar of that opening matters. It is not a claim but a question, and a question of the kind that forces the hearer to concede. Nobody hearing it in Makkah could answer no. Every item that follows is drawn from what the deniers already grant, so the surah builds its case for the Day out of materials its opponents themselves supplied and never disputed.",
-            "bn": "ওই সূচনার ব্যাকরণটি গুরুত্বপূর্ণ। এটি কোনো দাবি নয়, প্রশ্ন — আর এমন ধরনের প্রশ্ন যা শ্রোতাকে স্বীকার করতে বাধ্য করে। মক্কায় যারা এটি শুনেছিল, তাদের কেউই 'না' বলতে পারত না। এরপর যা যা আসে তার প্রতিটিই অস্বীকারকারীরা নিজেরাই মেনে নেয় এমন বিষয় থেকে নেওয়া। ফলে সূরাটি কিয়ামতের পক্ষে তার যুক্তি গড়ে তোলে বিরোধীদেরই সরবরাহ করা উপাদান দিয়ে, যা নিয়ে তাদের কোনো আপত্তি নেই।"
+            "bn": "সূচনার ব্যাকরণটা খেয়াল করার মতো। এটা দাবি নয়, প্রশ্ন। আর প্রশ্নটা এমন, যা শুনে শ্রোতাকে মেনে নিতেই হয়। মক্কায় যে-ই এটা শুনেছে, তার পক্ষে 'না' বলা সম্ভব ছিল না। এরপরের প্রতিটি বিষয় নেওয়া হয়েছে এমন জিনিস থেকে, যা অস্বীকারকারীরা আগে থেকেই মানে। এভাবে সূরাটি কিয়ামতের পক্ষে যুক্তি দাঁড় করায় বিরোধীদের নিজেদের জোগানো উপকরণ দিয়েই, যা নিয়ে তারা কখনো আপত্তি তোলেনি।"
           }
         ]
       },
       {
         "h": {
           "en": "Where the Sleep Sits",
-          "bn": "ঘুম কোথায় বসে আছে"
+          "bn": "তালিকায় ঘুমের জায়গা"
         },
         "p": [
           {
             "en": "The run does not stop until 78:16. Nine makings are named in it: the earth as a bed, the mountains as stakes, you yourselves in pairs, your sleep, the night, the day, seven firm structures above you, a blazing lamp, and water poured down from the rain clouds — after which 78:15 and 78:16 say what that water brings up, grain, vegetation and thick gardens.",
-            "bn": "এই ধারা থামে না 78:16-এর আগে। এর ভেতরে নয়টি সৃষ্টি বা বিন্যাসের কথা আসে: যমীনকে শয্যা করা, পাহাড়কে কীলক করা, তোমাদেরকে জোড়ায় জোড়ায় সৃষ্টি করা, তোমাদের ঘুম, রাত, দিন, তোমাদের ওপরে সাতটি সুদৃঢ় আকাশ, একটি উজ্জ্বল প্রদীপ, আর মেঘ থেকে বর্ষিত পানি — এরপর 78:15 ও 78:16 বলে সেই পানি কী উৎপন্ন করে: শস্য, উদ্ভিদ আর ঘন উদ্যান।"
+            "bn": "এই ধারা চলে ৭৮:১৬ পর্যন্ত। এর মধ্যে নয়টি সৃষ্টির কথা আছে: যমীনকে বিছানা করা, পাহাড়কে খুঁটি করা, তোমাদের জোড়ায় জোড়ায় সৃষ্টি করা, তোমাদের ঘুম, রাত, দিন, তোমাদের ওপরে সাতটি সুদৃঢ় কাঠামো, জ্বলন্ত এক প্রদীপ, আর বৃষ্টিভরা মেঘ থেকে ঝরানো পানি। এরপর ৭৮:১৫ ও ৭৮:১৬ বলে, সেই পানি কী ফলায়: শস্য, উদ্ভিদ আর ঘন বাগান।"
           },
           {
             "en": "Four of those clauses open with wa ja'alna, and We made, and 78:9 is the first of them: wa ja'alna nawmakum subata, three words. It arrives fourth on the list, directly after the making of human beings in pairs and directly before the night and the day. The surah has just turned from ground and rock to the addressee himself, and sleep is the first item on the list that happens to him rather than describing what he is.",
-            "bn": "এর মধ্যে চারটি বাক্য শুরু হয় 'ওয়া জা'আলনা' — এবং আমি বানিয়েছি — দিয়ে, আর 78:9 তার প্রথমটি: ওয়া জা'আলনা নাওমাকুম সুবাতা, তিনটি শব্দ। তালিকায় এর অবস্থান চতুর্থ, ঠিক মানুষকে জোড়ায় জোড়ায় সৃষ্টি করার কথার পরে এবং ঠিক রাত ও দিনের কথার আগে। সূরাটি এইমাত্র মাটি ও পাথর থেকে সরে এসে সম্বোধিত মানুষটির কাছে পৌঁছেছে, আর তালিকার মধ্যে ঘুমই প্রথম বিষয় যা তার সঙ্গে ঘটে — সে কী, তা বলে না।"
+            "bn": "এর মধ্যে চারটি বাক্যের শুরু 'ওয়া জা'আলনা' দিয়ে, মানে 'আর আমি বানিয়েছি'। এর প্রথমটি ৭৮:৯: ওয়া জা'আলনা নাওমাকুম সুবাতা, তিনটি শব্দ। তালিকায় এর জায়গা চতুর্থ। ঠিক আগে মানুষকে জোড়ায় জোড়ায় সৃষ্টির কথা, ঠিক পরে রাত ও দিন। মাটি আর পাথরের কথা শেষ করে সূরাটি সবে সম্বোধিত মানুষটির দিকে ফিরেছে। তালিকায় ঘুমই প্রথম বিষয়, যা তার সঙ্গে ঘটে; আগেরটি শুধু বলেছিল সে কী।"
           }
         ]
       },
@@ -193,27 +193,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The translation you will read renders subat as rest, and that is one of two senses the commentators give. The other lies in the root, which carries cutting off and ceasing; on that reading sleep is named for the halt it imposes rather than the comfort it delivers. Classical works keep both — the stilling of movement so that the day's fatigue lifts, and the severing of activity that makes rest possible in the first place.",
-            "bn": "আপনি যে অনুবাদ পড়বেন সেখানে 'সুবাত'-এর অর্থ করা হয়েছে বিশ্রাম, আর মুফাসসিরগণ যে দুটি অর্থ দেন এটি তার একটি। অন্যটি লুকিয়ে আছে ধাতুতে, যা বহন করে ছিন্ন করা ও থেমে যাওয়ার অর্থ; সেই পাঠে ঘুমের নামকরণ হয়েছে সে যে থামিয়ে দেয় সেই কারণে, যে আরাম দেয় সেই কারণে নয়। শাস্ত্রীয় তাফসিরগুলো দুটোই রাখে — চলাচল স্তব্ধ হওয়া যাতে দিনের ক্লান্তি কেটে যায়, আর কাজের ধারাবাহিকতা ছিন্ন হওয়া যাতে বিশ্রাম আদৌ সম্ভব হয়।"
+            "bn": "আপনি যে অনুবাদ পড়বেন, সেখানে সুবাত-এর অর্থ করা হয়েছে বিশ্রাম। মুফাসসিররা এ শব্দের দুটি অর্থ দেন, এটি তার একটি। অন্য অর্থটি আছে শব্দের ধাতুতে, যার মানে কেটে দেওয়া ও থেমে যাওয়া। এই অর্থে ঘুমের নাম হয়েছে সে যে বিরতি এনে দেয় তার জন্য, যে আরাম দেয় তার জন্য নয়। পুরোনো তাফসীরগুলো দুটো অর্থই রাখে। এক, নড়াচড়া থেমে যায়, তাতে দিনের ক্লান্তি দূর হয়। দুই, কাজের ধারা কেটে যায়, আর সে কারণেই বিশ্রাম আদৌ সম্ভব হয়।"
           },
           {
             "en": "Then the possessive: nawmakum, your sleep. Everything else on this list is out there — ground, rock, sky, sun, cloud. This one is inside the person addressed, and it is the only item he undergoes rather than uses. Even the pairs of 78:8 describe what he is. Sleep is done to him nightly on a schedule he did not set, and the verse counts it among the same evidences as the seven heavens.",
-            "bn": "এরপর সম্বন্ধপদটি: 'নাওমাকুম' — তোমাদের ঘুম। এই তালিকার বাকি সবকিছু বাইরের — মাটি, পাথর, আকাশ, সূর্য, মেঘ। এটি একটিই যা সম্বোধিত মানুষটির ভেতরে, আর এটিই একমাত্র বিষয় যা সে ব্যবহার করে না, বরং যার ভেতর দিয়ে তাকে যেতে হয়। এমনকি 78:8-এর জোড়ার কথাটিও বলে সে কী, তা নয় যে তার সঙ্গে কী ঘটে। ঘুম তার ওপর প্রতি রাতে ঘটানো হয় এমন এক সময়সূচিতে যা সে ঠিক করেনি, আর আয়াতটি একে সাত আসমানের সমান নিদর্শনের কাতারে গোনে।"
+            "bn": "এরপর 'তোমাদের' শব্দটি: নাওমাকুম, তোমাদের ঘুম। তালিকার বাকি সবকিছু বাইরের: মাটি, পাথর, আকাশ, সূর্য, মেঘ। শুধু এটিই সম্বোধিত মানুষটির ভেতরে। আর একমাত্র এটিকেই সে ব্যবহার করে না, বরং এর ভেতর দিয়ে তাকে যেতে হয়। এমনকি ৭৮:৮-এর জোড়ার কথাও শুধু বলে, সে কী। ঘুম প্রতি রাতে তার ওপর নেমে আসে এমন এক সময়সূচিতে, যা সে নিজে ঠিক করেনি। আর আয়াতটি একে সাত আসমানের সঙ্গে একই নিদর্শনের কাতারে গোনে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Favour Received While Absent",
-          "bn": "অনুপস্থিত থেকে পাওয়া নিয়ামত"
+          "bn": "নিজের অজান্তে পাওয়া নিয়ামত"
         },
         "p": [
           {
             "en": "That is the strange thing about this particular item. Everything else on the list can be inspected. A man can walk the earth, climb the mountain, watch the lamp cross the sky, stand in the rain. The one favour he cannot observe is the one performed on him while he is not there to see it. He lies down worn out and gets up repaired, and he was present for no part of the repair.",
-            "bn": "এই নির্দিষ্ট বিষয়টিতেই অদ্ভুত ব্যাপারটি লুকিয়ে। তালিকার বাকি সবকিছু পরীক্ষা করে দেখা যায়। মানুষ যমীনে হাঁটতে পারে, পাহাড়ে উঠতে পারে, আকাশ পেরিয়ে যাওয়া প্রদীপকে দেখতে পারে, বৃষ্টিতে দাঁড়াতে পারে। যে একটি নিয়ামত সে দেখতে পারে না, সেটি তার ওপরই সম্পন্ন হয় — এমন সময়ে, যখন সে তা দেখার জন্য সেখানে থাকে না। সে ক্লান্ত হয়ে শোয় আর সুস্থ হয়ে ওঠে, অথচ সেই মেরামতের কোনো অংশেই সে উপস্থিত ছিল না।"
+            "bn": "এ বিষয়টির অদ্ভুত দিক এখানেই। তালিকার বাকি সবকিছু নিজে যাচাই করে দেখা যায়। মানুষ যমীনে হাঁটতে পারে, পাহাড়ে উঠতে পারে, প্রদীপটিকে আকাশ পাড়ি দিতে দেখতে পারে, বৃষ্টিতে দাঁড়াতে পারে। শুধু একটি নিয়ামত সে দেখতে পায় না। সেটা তার ওপরই করা হয়, কিন্তু এমন সময়ে, যখন দেখার জন্য সে সেখানে থাকে না। সে ক্লান্ত হয়ে শুয়ে পড়ে, আর ওঠে ঝরঝরে হয়ে। অথচ এই মেরামতের কোনো মুহূর্তেই সে হাজির ছিল না।"
           },
           {
             "en": "30:23 says the same thing in the plainest possible terms: and of His signs is your sleep by night and day, and your seeking of His bounty. Sleep is filed there under ayat, signs, next to the working hours it makes possible. An-Naba never uses the word sign, but it does the same work — it lays a nightly, universal, involuntary event beside the mountains and asks for one conclusion from both.",
-            "bn": "30:23 কথাটি একেবারে সরল ভাষায় বলে দেয়: আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে রাতে ও দিনে তোমাদের ঘুম এবং তাঁর অনুগ্রহ সন্ধান করা। সেখানে ঘুমকে রাখা হয়েছে 'আয়াত' বা নিদর্শনের তালিকায়, ঠিক সেই কর্মঘণ্টার পাশেই যা ঘুম সম্ভব করে তোলে। সূরা আন-নাবা 'নিদর্শন' শব্দটি একবারও ব্যবহার করে না, কিন্তু কাজটি একই করে — প্রতি রাতের, সর্বজনীন ও নিজের ইচ্ছার বাইরের একটি ঘটনাকে পাহাড়ের পাশে রেখে দুটো থেকেই একই সিদ্ধান্তে পৌঁছাতে বলে।"
+            "bn": "৩০:২৩ একই কথা বলে একেবারে সোজা ভাষায়: আর তাঁর নিদর্শনগুলোর মধ্যে আছে রাতে ও দিনে তোমাদের ঘুম, আর তাঁর অনুগ্রহ খোঁজা। সেখানে ঘুম পড়েছে আয়াত, অর্থাৎ নিদর্শনের তালিকায়, আর তার পাশেই কাজের সময়, যা ঘুমের কারণেই সম্ভব হয়। সূরা আন-নাবা 'নিদর্শন' শব্দটি একবারও বলে না, কিন্তু কাজ করে একই। প্রতি রাতে সবার জীবনে ঘটে, অথচ কারও ইচ্ছায় ঘটে না, এমন একটি ঘটনাকে সূরাটি পাহাড়ের পাশে রাখে, আর দুটো থেকে একটিই সিদ্ধান্ত টানতে বলে।"
           }
         ]
       },
@@ -225,7 +225,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "78:17 states the conclusion the whole run was built for: indeed the Day of Decision is an appointed time. The list was never decoration. A Lord who beds the earth and pegs it, who pairs you, stops you every night and starts you again, who raises seven firm structures overhead and pours water out of a cloud is not a Lord for whom the reckoning presents a difficulty.",
-            "bn": "78:17 সেই সিদ্ধান্তটি উচ্চারণ করে, যার জন্যই গোটা ধারাটি গড়ে তোলা হয়েছিল: নিশ্চয়ই ফয়সালার দিন এক নির্ধারিত সময়। তালিকাটি কখনোই কেবল অলংকার ছিল না। যে প্রতিপালক যমীনকে বিছিয়ে দেন ও কীলক দিয়ে গেঁথে দেন, তোমাদের জোড়ায় জোড়ায় বানান, প্রতি রাতে থামিয়ে দেন আবার চালু করেন, মাথার ওপর সাতটি সুদৃঢ় কাঠামো তোলেন এবং মেঘ থেকে পানি ঢেলে দেন — তাঁর জন্য হিসাব-নিকাশ কোনো কঠিন কাজ নয়।"
+            "bn": "৭৮:১৭ সেই সিদ্ধান্তটি বলে দেয়, যার জন্য গোটা ধারাটি সাজানো হয়েছিল: নিশ্চয়ই ফয়সালার দিন এক নির্ধারিত সময়। তালিকাটি কখনোই নিছক সাজসজ্জা ছিল না। যে রব যমীনকে বিছিয়ে দেন আর খুঁটি গেঁথে স্থির রাখেন, তোমাদের জোড়ায় জোড়ায় বানান, প্রতি রাতে থামিয়ে দিয়ে আবার চালু করেন, মাথার ওপর সাতটি সুদৃঢ় কাঠামো তোলেন, আর মেঘ থেকে পানি ঢালেন, তাঁর কাছে হিসাব নেওয়া কোনো কঠিন কাজ নয়।"
           }
         ]
       },
@@ -237,7 +237,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari narrates from al-Bara ibn Azib (RA) that the Prophet ﷺ taught him words to say on going to bed, in which he entrusts himself to Allah and affirms the Book He sent down and the Prophet He sent, and told him that if he died that night he would die upon the fitrah. The instruction treats the bed as a threshold rather than a habit, and 78:9 supplies the reason for taking it that way.",
-            "bn": "বুখারী বারা ইবনে আযিব (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ তাঁকে বিছানায় যাওয়ার সময় বলার জন্য কিছু বাক্য শিখিয়েছিলেন, যেখানে তিনি নিজেকে আল্লাহর হাতে সোপর্দ করেন এবং অবতীর্ণ কিতাব ও প্রেরিত নবীর স্বীকৃতি দেন; আর নবী ﷺ তাঁকে বলেন, সেই রাতে মৃত্যু হলে তিনি ফিতরাতের ওপর মারা যাবেন। এই শিক্ষা বিছানাকে নিছক অভ্যাস নয়, বরং একটি চৌকাঠ হিসেবে দেখে; আর কেন এভাবে দেখতে হবে তার কারণটি জোগায় 78:9।"
+            "bn": "বুখারী বর্ণনা করেন, নবী ﷺ বারা ইবনে আযিব (রাঃ)-কে বিছানায় যাওয়ার সময় পড়ার জন্য কিছু কথা শিখিয়েছিলেন। এতে তিনি নিজেকে আল্লাহর হাতে সঁপে দেন, আর আল্লাহর নাজিল করা কিতাব ও পাঠানো নবীর ওপর ঈমানের ঘোষণা দেন। নবী ﷺ তাঁকে আরও বলেন, সে রাতে মারা গেলে তিনি ফিতরাতের ওপর মারা যাবেন। এই শিক্ষা বিছানাকে নিছক অভ্যাস হিসেবে দেখে না, দেখে একটা দোরগোড়া হিসেবে। আর কেন এভাবে দেখতে হবে, তার কারণ জোগায় ৭৮:৯।"
           }
         ]
       }
@@ -429,7 +429,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fa-ta'tuna: and so you come. The fa ties the coming to the blowing: the Horn sounds, and the arrival follows. The verb speaks to the listeners directly: the same 'you' addressed through the surah's list of favours is now told where it is heading. Al-Baghawi's whole comment fills in the picture: crowds upon crowds, from every place, for the reckoning.",
-            "bn": "ফাতা'তূনা: তারপর তোমরা আসবে। 'ফা' অক্ষরটি আসাকে ফুঁকের সঙ্গে জুড়ে দেয়। শিঙ্গা বাজবে, তার পরেই আগমন। ক্রিয়াটি সরাসরি শ্রোতাদের সম্বোধন করে। নিয়ামতের তালিকা জুড়ে সূরা যে 'তোমাদের' সঙ্গে কথা বলে আসছে, এবার তাদেরই জানানো হচ্ছে, কোথায় যাচ্ছ। বাগাভীর পুরো মন্তব্য এক লাইনের, আর তাতেই ছবিটা পূর্ণ হয়: দলের পর দল, সব জায়গা থেকে, হিসাবের জন্য।"
+            "bn": "ফাতা'তূনা: তারপর তোমরা আসবে। 'ফা' অক্ষরটি আসাকে ফুঁকের সঙ্গে জুড়ে দেয়। শিঙ্গা বাজবে, তার পরেই আগমন। ক্রিয়াটি সরাসরি শ্রোতাদের সম্বোধন করে। নিয়ামতের তালিকা জুড়ে সূরা যে 'তোমাদের' সঙ্গে কথা বলে আসছে, এবার তাদেরই জানানো হচ্ছে, তারা কোথায় চলেছে। বাগাভীর পুরো মন্তব্য এক লাইনের, আর তাতেই ছবিটা পূর্ণ হয়: দলের পর দল, সব জায়গা থেকে, হিসাবের জন্য।"
           },
           {
             "en": "Ma'arif al-Qur'an notes that other verses indicate the trumpet will be blown twice. At the first blowing the whole world comes to an end. At the second, the people of the whole world, earlier generations and later ones alike, are raised and come in multitudes and droves. Ibn Kathir, on the verse before, adds that the appointed time can be neither lengthened nor shortened, and that none knows it but Allah, citing 11:104: And We delay it only for a term fixed.",
@@ -473,7 +473,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This ties the verse back to the surah's opening. The surah began with people questioning each other about the great news over which they differ, the subject of 78:3. On at-Tabari's reading, that disagreement ends in a sorting: each people arrives with the messenger who brought it the news. The arrival does not invent new groups; it gathers those already formed in the life before. The verse itself says nothing yet about the outcome for any crowd.",
-            "bn": "এতে আয়াতটি সূরার শুরুর সঙ্গে জুড়ে যায়। সূরা শুরু হয়েছিল লোকদের পরস্পরকে জিজ্ঞাসাবাদ দিয়ে, সেই মহাসংবাদ নিয়ে, যা নিয়ে তারা মতভেদ করে। ৭৮:৩ আয়াতের আলোচনা সেটাই। তাবারীর ব্যাখ্যায় সেই মতভেদের শেষ হয় বাছাইয়ে। প্রত্যেক জাতি আসে সেই রাসূলের সঙ্গে, যিনি তাদের কাছে সংবাদটা এনেছিলেন। সেদিনের আগমন নতুন দল বানায় না। দুনিয়ার জীবনে যে দল আগেই তৈরি হয়ে গেছে, তাদেরই একত্র করে। কোন ভিড়ের পরিণাম কী, আয়াতটি নিজে এখনো তা বলে না।"
+            "bn": "এতে আয়াতটি সূরার শুরুর সঙ্গে জুড়ে যায়। সূরার শুরুতে লোকেরা একে অন্যকে প্রশ্ন করছিল সেই মহাসংবাদ নিয়ে, যা নিয়ে তারা মতভেদ করে। ৭৮:৩ আয়াতের বিষয় সেটাই। তাবারীর ব্যাখ্যায় সেই মতভেদের শেষ হয় বাছাইয়ে। প্রত্যেক জাতি আসে সেই রাসূলের সঙ্গে, যিনি তাদের কাছে সংবাদটা এনেছিলেন। সেদিনের আগমন নতুন দল বানায় না। দুনিয়ার জীবনে যে দল আগেই তৈরি হয়ে গেছে, তাদেরই একত্র করে। কোন ভিড়ের পরিণাম কী, আয়াতটি নিজে এখনো তা বলে না।"
           },
           {
             "en": "Ma'arif al-Qur'an approaches the groups from another angle. It reports that some scholars divide the crowds of the gathering according to their deeds and character, and it concludes that the various narrations about the groups do not conflict and may all be true. It mentions one narration describing three groups and others describing ten kinds, without grading them. This article does not build on those narrations. The grouping by messenger is the one the fetched tafsirs tie to the verse's own wording.",
