@@ -1621,23 +1621,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The word ṭayyibāt carries both senses at once — wholesome and lawful. As-Sa'di stresses that these favours are beyond counting; a servant could not tally them if he tried. That is the setup for the rebuke to come. A person surrounded on every side by good he did not make, and could not make, is being quietly asked a question before the verse even asks it aloud: where did all of this come from, and to whom is the thanks owed?",
-            "bn": "তাইয়িবাত শব্দটা একসাথে দুই অর্থই বহন করে, উপকারী আর হালাল। সাদী জোর দিয়ে বলেন, এসব নিয়ামত গোনার বাইরে, বান্দা চেষ্টা করলেও গুনে শেষ করতে পারবে না। এটাই সামনের ভর্ৎসনার প্রস্তুতি। যে মানুষটাকে চারদিক থেকে এমন সব ভালো ঘিরে আছে, যা সে নিজে বানায়নি আর বানাতেও পারত না, আয়াত মুখে জিজ্ঞেস করার আগেই তাকে চুপচাপ একটা প্রশ্ন করে বসে আছে। এসব কোথা থেকে এলো, আর শুকরিয়াটা কার প্রাপ্য?"
+            "bn": "তাইয়িবাত শব্দটা একসাথে দুই অর্থই বহন করে: উপকারী আর হালাল। সাদী জোর দিয়ে বলেন, এসব নিয়ামত গুনে শেষ করা যায় না; বান্দা চেষ্টা করলেও পারবে না। সামনের ভর্ৎসনার জমি এভাবেই তৈরি হয়। চারদিক থেকে যাকে এমন সব ভালো ঘিরে রেখেছে, যা সে নিজে বানায়নি, বানাতেও পারত না, আয়াত মুখ ফুটে জিজ্ঞেস করার আগেই তার সামনে নিঃশব্দে একটা প্রশ্ন দাঁড়িয়ে যায়: এসব কোথা থেকে এলো, আর শুকরিয়াটা কার প্রাপ্য?"
           }
         ]
       },
       {
         "h": {
           "en": "Falsehood Trusted, Favour Denied",
-          "bn": "বাতিলে ভরসা, নিয়ামতে অস্বীকার"
+          "bn": "বাতিলে ভরসা, নিয়ামত অস্বীকার"
         },
         "p": [
           {
             "en": "The verse ends with two clauses that turn from gift to indictment: a-fa-bi-l-bāṭili yuʾminūn — is it in falsehood that they believe? — wa-bi-niʿmati-Llāhi hum yakfurūn — and the favour of Allah they deny? Ibn ʿAbbās, as al-Qurtubi reports, takes al-bāṭil here as the idols. As-Sa'di widens it to everything worshipped besides Allah: a thing that was nothing, that Allah brought into being, that cannot create or provide or manage a single affair. To trust that over the Giver, he says, is the plainest folly.",
-            "bn": "আয়াত শেষ হয় দুটি অংশ দিয়ে, যা দান থেকে ঘুরে ভর্ৎসনায় পৌঁছায়। আফাবিল বাতিলি ইউমিনূন, তবে কি তারা বাতিলে বিশ্বাস করে, ওয়া বিনিমাতিল্লাহি হুম ইয়াকফুরূন, আর আল্লাহর নিয়ামতকে অস্বীকার করে? কুরতুবীর বর্ণনায় ইবন আব্বাস এখানে বাতিল বলতে মূর্তিগুলোকে বোঝেন। সাদী একে আরও প্রসারিত করেন আল্লাহ ছাড়া উপাসিত সব কিছুতে। এমন জিনিস যা কিছুই ছিল না, আল্লাহ যাকে অস্তিত্বে এনেছেন, যা কিছু সৃষ্টি করতে, রিযিক দিতে বা কোনো একটা কাজ চালাতে পারে না। দাতাকে ছেড়ে ওই জিনিসে ভরসা করা, তিনি বলেন, নিখাদ বোকামি।"
+            "bn": "আয়াতের শেষে দুটি বাক্য, যেখানে দানের কথা ঘুরে যায় অভিযোগে। আফাবিল বাতিলি ইউমিনূন: তবে কি তারা বাতিলে বিশ্বাস করে? ওয়া বিনিমাতিল্লাহি হুম ইয়াকফুরূন: আর আল্লাহর নিয়ামতকে অস্বীকার করে? কুরতুবীর বর্ণনায় ইবন আব্বাস এখানে বাতিল বলতে মূর্তিগুলোকে বুঝিয়েছেন। সাদী একে আরও ছড়িয়ে দেন: আল্লাহ ছাড়া যা কিছুর ইবাদত করা হয়, সবই এর মধ্যে পড়ে। সেগুলো একসময় কিছুই ছিল না, আল্লাহই সেগুলোকে অস্তিত্বে এনেছেন। সেগুলো কিছু সৃষ্টি করতে পারে না, রিযিক দিতে পারে না, একটা কাজও সামলাতে পারে না। সাদী বলেন, দাতাকে ছেড়ে এমন জিনিসে ভরসা করা নিখাদ বোকামি।"
           },
           {
             "en": "The denial is sharper than mere ignorance. Ibn Kathir explains kufr bi-n-niʿmah as concealing the blessings Allah has given and crediting them to another. Al-Baghawi notes the deniers even forbade themselves lawful things — the baḥīrah and sāʾibah among their cattle — as if the Giver's gifts were theirs to ration in a false god's name. As-Sa'di calls using a favour to disobey its Giver the darkest of wrongs. The two clauses set belief and gratitude side by side and show the deniers failing at both at once.",
-            "bn": "এই অস্বীকার নিছক অজ্ঞতার চেয়ে ধারালো। ইবন কাসীর কুফর বিন নিয়ামতের ব্যাখ্যা দেন, আল্লাহর দেওয়া নিয়ামত ঢেকে রেখে সেটার কৃতিত্ব অন্যকে দেওয়া। বাগাভী তুলে ধরেন, অস্বীকারকারীরা তো নিজেদের উপর হালাল জিনিসও হারাম করে নিত, তাদের গবাদি পশুর মধ্যে বাহীরা আর সাইবা, যেন দাতার দান তাদেরই হাতে, মিথ্যা মাবুদের নামে ভাগ-বাঁটোয়ারা করার। সাদী নিয়ামত দিয়ে তার দাতার নাফরমানি করাকে বলেন সবচেয়ে অন্ধকার জুলুম। দুটি অংশ ঈমান আর শুকরিয়াকে পাশাপাশি রাখে, আর দেখায় অস্বীকারকারীরা একসাথে দুটোতেই ব্যর্থ।"
+            "bn": "এই অস্বীকার নিছক না-জানার চেয়েও গুরুতর। ইবন কাসীর কুফর বিন নিয়ামতের ব্যাখ্যা দেন এভাবে: আল্লাহর দেওয়া নিয়ামত চেপে যাওয়া আর তার কৃতিত্ব অন্য কাউকে দেওয়া। বাগাভী দেখান, অস্বীকারকারীরা নিজেদের ওপর হালাল জিনিসও হারাম করে নিত, যেমন গবাদি পশুর মধ্যে বাহীরা আর সাইবা। যেন দাতার দান ভাগ করে দেওয়ার মালিক তারাই, তাও আবার এক মিথ্যা মাবুদের নামে। সাদী বলেন, নিয়ামত দিয়েই নিয়ামতদাতার নাফরমানি করা সবচেয়ে অন্ধকার জুলুম। বাক্য দুটি ঈমান আর শুকরিয়াকে পাশাপাশি রাখে, আর দেখায় অস্বীকারকারীরা একসাথে দুটোতেই ব্যর্থ।"
           }
         ]
       },
@@ -1649,11 +1649,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This closing rebuke needs a plain word around it. It is aimed at a specific target: people who received spouse, children and sustenance from Allah and then handed their trust and worship to what is baseless. The verse describes that denial and condemns it; it licenses nothing against any living person or community, and it is no warrant to treat a neighbour, a relative or a stranger as one of the 'deniers' it names. Its work is a mirror held up to the reader's own gratitude, not a charge to level at anyone else.",
-            "bn": "এই শেষ ভর্ৎসনাটার চারপাশে একটা সোজা কথা বলা দরকার। এর নিশানা নির্দিষ্ট, সেই মানুষগুলো যারা আল্লাহর কাছ থেকে স্ত্রী, সন্তান আর রিযিক পেয়ে তারপর নিজেদের ভরসা আর ইবাদত তুলে দিল ভিত্তিহীন জিনিসের হাতে। আয়াত সেই অস্বীকারের বর্ণনা দেয় আর তার নিন্দা করে। জীবিত কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এটা কিছুরই অনুমতি দেয় না, আর কোনো প্রতিবেশী, আত্মীয় বা অচেনা কাউকে আয়াতে বলা 'অস্বীকারকারী' বানিয়ে দেওয়ার কোনো ছাড়পত্রও এটা নয়। এর কাজ পাঠকের নিজের শুকরিয়ার সামনে ধরা একটা আয়না, অন্য কারো দিকে ছোঁড়া অভিযোগ নয়।"
+            "bn": "শেষের এই ভর্ৎসনা নিয়ে একটা কথা সোজাসুজি বলে রাখা দরকার। এর নিশানা নির্দিষ্ট: সেই মানুষেরা, যারা আল্লাহর কাছ থেকে স্ত্রী, সন্তান আর রিযিক পেয়েও নিজেদের ভরসা আর ইবাদত তুলে দিয়েছিল ভিত্তিহীন জিনিসের হাতে। আয়াত সেই অস্বীকারের বর্ণনা দেয়, তার নিন্দা করে। কিন্তু জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এতে নেই। প্রতিবেশী, আত্মীয় বা অচেনা কাউকে আয়াতের সেই 'অস্বীকারকারী' বলে দাগিয়ে দেওয়ার ছাড়পত্রও এটা নয়। আয়াতটা পাঠকের নিজের শুকরিয়ার সামনে ধরা একটা আয়না, অন্য কারো দিকে ছোঁড়া অভিযোগ নয়।"
           },
           {
             "en": "One narration is worth placing carefully. Ibn Kathir cites a sound report that on the Day of Resurrection Allah will remind the servant of His favours — 'Did I not give you a spouse? Did I not honour you?' — but he names no collection or number for it, and it is a general reminder of blessings rather than a comment on this verse's wording. So it belongs here only as an echo, not a proof-text. The verse stands on its own: count the favours in your own house, and let the counting settle who deserves the thanks.",
-            "bn": "একটা বর্ণনা সাবধানে জায়গা দেওয়ার মতো। ইবন কাসীর একটা সহীহ বর্ণনা আনেন যে কিয়ামতের দিন আল্লাহ বান্দাকে তাঁর নিয়ামতগুলো মনে করিয়ে দেবেন, 'আমি কি তোমাকে সঙ্গী দিইনি? আমি কি তোমাকে সম্মান দিইনি?' তবে তিনি এর কোনো সংকলন বা নম্বর দেন না, আর এটা এই আয়াতের শব্দ নিয়ে মন্তব্য নয়, বরং নিয়ামতের একটা সাধারণ স্মরণ। তাই এটা এখানে জায়গা পায় শুধু একটা প্রতিধ্বনি হিসেবে, দলিল হিসেবে নয়। আয়াত নিজের পায়েই দাঁড়ানো। নিজের ঘরের নিয়ামতগুলো গুনুন, আর সেই গোনাই ঠিক করে দিক শুকরিয়া কার প্রাপ্য।"
+            "bn": "একটা বর্ণনা এখানে সাবধানে রাখতে হয়। ইবন কাসীর একটি সহীহ বর্ণনা আনেন: কিয়ামতের দিন আল্লাহ বান্দাকে তাঁর নিয়ামতগুলো মনে করিয়ে দেবেন, 'আমি কি তোমাকে সঙ্গী দিইনি? আমি কি তোমাকে সম্মান দিইনি?' তবে তিনি এর কোনো সংকলন বা নম্বর উল্লেখ করেননি। তাছাড়া এটা নিয়ামতের একটা সাধারণ স্মরণ, এই আয়াতের শব্দ নিয়ে কোনো মন্তব্য নয়। তাই এখানে এর জায়গা কেবল প্রতিধ্বনি হিসেবে, দলিল হিসেবে নয়। আয়াত নিজের জোরেই দাঁড়িয়ে আছে। নিজের ঘরের নিয়ামতগুলো গুনুন, আর সেই গোনাই ঠিক করে দিক শুকরিয়া কার প্রাপ্য।"
           }
         ]
       }
@@ -1669,11 +1669,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nahl runs through gift after gift, and this verse is where the list turns inward. Around it are cattle and rain and ships; in the verses that follow, 16:79 points to birds held up in the sky, 16:80 to homes and to tents made from hides, 16:81 to shade and to garments. But immediately before it stands 16:77, which says that the unseen of the heavens and the earth belongs to Allah, and that the matter of the Hour is no more than the blink of an eye.",
-            "bn": "সূরা আন-নাহল একের পর এক নিয়ামতের কথা বলে যায়, আর এই আয়াতেই তালিকাটি ভেতরের দিকে মোড় নেয়। এর চারপাশে গবাদি পশু, বৃষ্টি ও নৌযান; পরের আয়াতগুলোতে 16:79 আয়াত দেখায় আকাশে ধরে রাখা পাখিদের, 16:80 আয়াত দেখায় ঘরবাড়ি ও চামড়ার তৈরি তাঁবু, আর 16:81 আয়াত ছায়া ও পোশাক। কিন্তু ঠিক এর আগে দাঁড়িয়ে আছে 16:77, যা বলে আসমানসমূহ ও যমীনের গায়েব আল্লাহরই, আর কিয়ামতের ব্যাপারটি চোখের পলকের চেয়ে বেশি কিছু নয়।"
+            "bn": "সূরা আন-নাহল একের পর এক নিয়ামতের কথা বলে চলে, আর এই আয়াতে এসে তালিকাটা মানুষের ভেতরের দিকে ফেরে। চারপাশে আছে গবাদি পশু, বৃষ্টি আর নৌযানের কথা। পরের আয়াতগুলোতে 16:79 দেখায় আকাশে ভাসিয়ে রাখা পাখি, 16:80 ঘরবাড়ি আর চামড়ার তাঁবু, 16:81 ছায়া আর পোশাক। কিন্তু ঠিক আগে আছে 16:77। সেখানে বলা হয়েছে, আসমানসমূহ ও যমীনের গায়েব আল্লাহরই, আর কিয়ামতের ব্যাপারটা চোখের পলকের বেশি কিছু নয়।"
           },
           {
             "en": "So the verse about what Allah knows and we do not is followed at once by a verse about how our own knowing began. That sequence sets the tone. The gift being named here is not comfort or wealth but the equipment by which a human being learns anything at all — and it is introduced by reminding him that there was a day when he had none of it.",
-            "bn": "অর্থাৎ আল্লাহ যা জানেন আর আমরা যা জানি না — সেই আয়াতের পরপরই আসে আমাদের নিজেদের জানা কীভাবে শুরু হয়েছিল সেই আয়াত। এই ক্রমটিই সুরটা বেঁধে দেয়। এখানে যে নিয়ামতের নাম নেওয়া হচ্ছে তা আরাম বা সম্পদ নয়, বরং সেই সরঞ্জাম যা দিয়ে মানুষ আদৌ কিছু শেখে — আর তার পরিচয় দেওয়া হচ্ছে এই কথা মনে করিয়ে দিয়ে যে একদিন তার এর কিছুই ছিল না।"
+            "bn": "তাই আল্লাহ যা জানেন আর আমরা জানি না, সেই আয়াতের ঠিক পরেই আসে এই আয়াত: আমাদের নিজেদের জানা কীভাবে শুরু হলো। এই পরম্পরাই সুরটা বেঁধে দেয়। এখানে যে নিয়ামতের কথা, তা আরাম বা সম্পদ নয়। তা সেই সরঞ্জাম, যা দিয়ে মানুষ আদৌ কিছু শেখে। আর সেই নিয়ামতের কথা শুরু হয় মানুষকে এটা মনে করিয়ে দিয়ে যে, একদিন তার এর কিছুই ছিল না।"
           }
         ]
       },
@@ -1685,7 +1685,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "La ta'lamuna shay'an — you did not know a thing. The Arabic is blunt and admits no qualification. Every skill, every language, every conviction a person now holds arrived after that moment and was received from outside. Earlier in the same surah, 16:70 closes the same circle at the other end: some are returned to the feeblest age so that, after having known, they know nothing. Knowledge is on loan, and both ends of the loan are described in one surah.",
-            "bn": "লা তা'লামূনা শাইআন — তোমরা কিছুই জানতে না। আরবিটা নির্মম, কোনো শর্ত মানে না। মানুষ এখন যে দক্ষতা, যে ভাষা, যে বিশ্বাস ধরে আছে, তার সবই এসেছে ওই মুহূর্তের পরে এবং বাইরে থেকে পাওয়া। একই সূরার আগের দিকে, 16:70 আয়াত অন্য প্রান্তে এসে বৃত্তটি বন্ধ করে দেয়: কাউকে কাউকে ফিরিয়ে নেওয়া হয় সবচেয়ে দুর্বল বয়সে, ফলে জানার পরেও সে আর কিছুই জানে না। জ্ঞান ধার দেওয়া জিনিস, আর ধারের দুই প্রান্তই একই সূরায় বর্ণিত হয়েছে।"
+            "bn": "লা তা'লামূনা শাইআন: তোমরা কিছুই জানতে না। আরবি কথাটা একেবারে সোজাসাপ্টা, এতে কোনো 'তবে' বা 'কিন্তু' নেই। মানুষ আজ যত দক্ষতা, যত ভাষা, যত বিশ্বাস ধরে আছে, সবই এসেছে সেই মুহূর্তের পরে, আর সবই বাইরে থেকে পাওয়া। একই সূরায় আগে 16:70 আয়াত বৃত্তটা অন্য মাথায় গিয়ে বন্ধ করে: কাউকে কাউকে ফিরিয়ে নেওয়া হয় সবচেয়ে দুর্বল বয়সে, যাতে জানার পরেও সে আর কিছুই না জানে। জ্ঞান আসলে ধার পাওয়া জিনিস, আর এই ধারের দুই মাথাই একই সূরায় বলা আছে।"
           }
         ]
       },
@@ -1697,11 +1697,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A detail of the Arabic that survives no translation: as-sam', hearing, is singular, while al-absar, sights, and al-af'idah, hearts, are both plural. Grammarians explain that sam' here is a verbal noun of the kind that does not take a plural. Whatever the explanation, the pattern is fixed: every verse that pairs sam' with al-absar and al-af'idah keeps it. The reader who notices is looking at the sentence rather than through it.",
-            "bn": "আরবির একটি খুঁটিনাটি যা কোনো অনুবাদে টেকে না: আস-সাম' অর্থাৎ শ্রবণ এখানে একবচন, অথচ আল-আবসার অর্থাৎ দৃষ্টিসমূহ এবং আল-আফইদাহ অর্থাৎ হৃদয়সমূহ — দুটিই বহুবচন। ব্যাকরণবিদরা ব্যাখ্যা করেন, এখানে সাম' এমন এক ক্রিয়াবাচক বিশেষ্য যা বহুবচন নেয় না। ব্যাখ্যা যা-ই হোক, গঠনটি নির্দিষ্ট: যে আয়াতেই সাম' শব্দের সঙ্গে আল-আবসার ও আল-আফইদাহ জোড়া বাঁধে, সেখানেই তা বজায় থাকে। যে পাঠক এটি লক্ষ করেন, তিনি বাক্যটির ভেতর দিয়ে না তাকিয়ে বাক্যটির দিকে তাকাচ্ছেন।"
+            "bn": "আরবির একটা খুঁটিনাটি কোনো অনুবাদেই ধরা পড়ে না। আস-সাম' মানে শ্রবণ, শব্দটি একবচন। অথচ আল-আবসার (দৃষ্টিসমূহ) আর আল-আফইদাহ (হৃদয়সমূহ) দুটোই বহুবচন। ব্যাকরণবিদরা বলেন, সাম' এখানে মাসদার, অর্থাৎ ক্রিয়াবাচক বিশেষ্য, আর এ জাতের শব্দের বহুবচন হয় না। ব্যাখ্যা যা-ই হোক, ধাঁচটা বাঁধা: যে আয়াতেই সাম'-এর সঙ্গে আল-আবসার আর আল-আফইদাহ একসাথে এসেছে, সেখানেই এটা বজায় আছে। যে পাঠক এটা খেয়াল করেন, তিনি শুধু অর্থ নিয়ে এগিয়ে যান না, বাক্যটাকেও খুঁটিয়ে দেখেন।"
           },
           {
             "en": "Af'idah is the plural of fu'ad, and the translation you are reading glosses it as hearts in the sense of intellect. That is how the mufassirun take it: not the organ and not sentiment, but the faculty that receives what the senses bring in and makes a judgement of it. The list therefore ends where the information ends up, and the two outward doors are named before the room they open into.",
-            "bn": "আফইদাহ হলো ফুআদ শব্দের বহুবচন, আর আপনি যে অনুবাদ পড়ছেন সেখানে একে বোঝা হয়েছে অন্তর অর্থে, অর্থাৎ বোধশক্তি। মুফাসসিরগণও এভাবেই নেন: অঙ্গ নয়, আবেগও নয়, বরং সেই শক্তি যা ইন্দ্রিয়ের আনা জিনিস গ্রহণ করে এবং তা নিয়ে সিদ্ধান্তে পৌঁছায়। ফলে তালিকাটি শেষ হয় সেখানেই যেখানে তথ্য গিয়ে পৌঁছায়, আর বাইরের দুটি দরজার নাম নেওয়া হয় সেই ঘরটির আগে যেখানে সেগুলো খোলে।"
+            "bn": "আফইদাহ হলো ফুআদ শব্দের বহুবচন। আপনি যে অনুবাদ পড়ছেন, সেখানে এর অর্থ করা হয়েছে অন্তর, তবে বোধশক্তি অর্থে। মুফাসসিরগণও এভাবেই বোঝেন: শরীরের অঙ্গটা নয়, আবেগও নয়, বরং সেই শক্তি, যা ইন্দ্রিয়ের এনে দেওয়া খবর গ্রহণ করে আর তা নিয়ে সিদ্ধান্ত নেয়। তাই তালিকাটা শেষ হয় ঠিক সেখানে, যেখানে সব খবর গিয়ে জমা হয়। বাইরের দুটি দরজার নাম আগে, তারপর সেই ঘরের, যেখানে দরজা দুটো খোলে।"
           }
         ]
       },
@@ -1713,11 +1713,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Hearing, then sight, then hearts. The Quran keeps that sequence wherever it lists the three: 23:78, 32:9, 67:23 and 46:26 all read it in the same order. Commentators have offered reasons for the sequence and they do not agree on one, so it is honest to leave their explanations aside and simply note the constancy. What is not in dispute is the shape it produces, from the outward inward, ending at the faculty that answers for the rest.",
-            "bn": "শ্রবণ, তারপর দৃষ্টি, তারপর অন্তর। কুরআন যেখানেই এই তিনটির তালিকা করে সেখানেই এই ক্রম বজায় রাখে: 23:78, 32:9, 67:23 এবং 46:26 — সবগুলোতেই একই ক্রম। মুফাসসিরগণ এই ক্রমের নানা কারণ পেশ করেছেন এবং একটিতে একমত হননি, তাই তাঁদের ব্যাখ্যাগুলো সরিয়ে রেখে কেবল ধারাবাহিকতাটুকু লক্ষ করাই সৎ। যা নিয়ে মতভেদ নেই তা হলো এতে যে আকৃতি তৈরি হয়: বাইরে থেকে ভেতরে, আর শেষ হয় সেই শক্তিতে যা বাকিদের জবাবদিহি করে।"
+            "bn": "শ্রবণ, তারপর দৃষ্টি, তারপর অন্তর। কুরআন যেখানেই এই তিনটির কথা একসাথে বলে, সেখানেই এই ক্রম রাখে। 23:78, 32:9, 67:23 আর 46:26, সবখানে একই ক্রম। মুফাসসিরগণ এর নানা কারণ বলেছেন, কিন্তু কোনো একটিতে একমত হননি। তাই সততার দাবি হলো তাঁদের ব্যাখ্যাগুলো পাশে সরিয়ে রেখে শুধু এটুকু খেয়াল করা যে ক্রমটা কখনো বদলায় না। তবে এ থেকে যে ছবিটা দাঁড়ায়, তা নিয়ে কোনো মতভেদ নেই: বাইরে থেকে ভেতরে, আর শেষে সেই শক্তি, বাকি দুটোর জবাবদিহি যার ঘাড়ে।"
           },
           {
             "en": "46:26 is the sobering member of that set. It describes a people better established than the Makkans, given hearing and sight and hearts, whose hearing and sight and hearts availed them nothing at all because they went on rejecting the signs of Allah. The faculties are a gift; they are not a guarantee. Equipment can be complete and still return nothing, and the verse names the reason as refusal rather than incapacity.",
-            "bn": "46:26 আয়াতটি এই তালিকার সবচেয়ে ভাবিয়ে তোলা সদস্য। এটি বর্ণনা করে এমন এক জাতির, যাদের মক্কাবাসীদের চেয়েও মজবুতভাবে প্রতিষ্ঠিত করা হয়েছিল এবং যাদের কান, চোখ ও অন্তর দেওয়া হয়েছিল, অথচ তাদের কান, চোখ ও অন্তর তাদের কোনোই কাজে আসেনি, কারণ তারা আল্লাহর নিদর্শন অস্বীকার করে যাচ্ছিল। এই শক্তিগুলো দান; এগুলো নিশ্চয়তা নয়। সরঞ্জাম পূর্ণ থাকা সত্ত্বেও কিছুই না ফেরাতে পারে, আর আয়াতটি এর কারণ বলে অক্ষমতা নয়, অস্বীকার।"
+            "bn": "এই আয়াতগুলোর মধ্যে 46:26 সবচেয়ে বেশি ভাবায়। সেখানে এমন এক জাতির কথা, যাদের মক্কাবাসীদের চেয়েও মজবুত প্রতিষ্ঠা দেওয়া হয়েছিল, দেওয়া হয়েছিল কান, চোখ আর অন্তর। অথচ সেই কান, চোখ আর অন্তর তাদের কোনো কাজেই আসেনি, কারণ তারা আল্লাহর নিদর্শনগুলো অস্বীকার করেই চলছিল। এই শক্তিগুলো দান, কোনো নিশ্চয়তা নয়। সরঞ্জাম পুরোপুরি থাকার পরও কোনো ফল না-ও আসতে পারে। আর আয়াতটি এর কারণ বলে অক্ষমতা নয়, অস্বীকার।"
           }
         ]
       },
@@ -1729,7 +1729,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The ending deserves a close look, because three near-identical verses end differently. 23:78, 32:9 and 67:23 each name the same three faculties and then close with the same reproach: little are you grateful. 16:78 closes instead with la'allakum tashkurun, that perhaps you would be grateful. Same gift, same three items, and a hopeful ending rather than an accusing one. One states the purpose of the gift; the others state our record with it.",
-            "bn": "শেষ অংশটি ভালো করে দেখা দরকার, কারণ প্রায় একই রকম তিনটি আয়াত ভিন্নভাবে শেষ হয়। 23:78, 32:9 এবং 67:23 — প্রতিটিতেই একই তিনটি শক্তির নাম আছে, আর প্রতিটিই শেষ হয় একই তিরস্কারে: তোমরা কৃতজ্ঞতা অল্পই করো। কিন্তু 16:78 শেষ হয় লা'আল্লাকুম তাশকুরূন দিয়ে — যাতে তোমরা কৃতজ্ঞ হও। একই দান, একই তিনটি জিনিস, আর অভিযোগের বদলে আশার সমাপ্তি। একটি বলে দানটির উদ্দেশ্য কী; বাকিগুলো বলে সেই দান নিয়ে আমাদের ইতিহাস কেমন।"
+            "bn": "শেষ অংশটা ভালো করে দেখার মতো, কারণ প্রায় একই রকম তিনটি আয়াত ভিন্নভাবে শেষ হয়। 23:78, 32:9 আর 67:23, প্রতিটিতে একই তিনটি শক্তির নাম, আর প্রতিটির শেষে একই তিরস্কার: তোমরা খুব কমই শোকর করো। কিন্তু 16:78 শেষ হয় লা'আল্লাকুম তাশকুরূন দিয়ে: যাতে তোমরা শোকর করো। একই দান, একই তিনটি জিনিস, অথচ শেষটা অভিযোগের নয়, আশার। একটি বলে দানের উদ্দেশ্য কী, আর বাকিগুলো বলে সেই দান নিয়ে আমাদের খাতায় কী লেখা আছে।"
           }
         ]
       },
@@ -1741,7 +1741,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Shukr of a faculty, as the scholars put it, is chiefly a matter of use. Hearing is thanked by what it is turned towards and what it refuses to carry; sight by where it is allowed to rest; the fu'ad by what it is given to think about when nothing is demanding it. Stated that way the verse becomes a daily audit rather than a sentiment, and the audit is short: what did these three do today.",
-            "bn": "কোনো শক্তির শোকর, আলিমগণ যেভাবে বলেন, মূলত তার ব্যবহারের ব্যাপার। শ্রবণের শোকর হয় তাকে কোন দিকে ফেরানো হলো আর কী বহন করতে সে অস্বীকার করল তা দিয়ে; দৃষ্টির শোকর হয় তাকে কোথায় থিতু হতে দেওয়া হলো তা দিয়ে; আর ফুআদের শোকর হয় কিছুই যখন তাকে টানছে না তখন তাকে কী নিয়ে ভাবতে দেওয়া হলো তা দিয়ে। এভাবে বললে আয়াতটি অনুভূতি না থেকে দৈনিক এক হিসাবনিকাশে পরিণত হয়, আর হিসাবটি ছোট: আজ এই তিনটি কী করল।"
+            "bn": "আলিমগণ বলেন, কোনো শক্তির শোকর মূলত তাকে ঠিকভাবে কাজে লাগানো। কানের শোকর হলো, আপনি তাকে কোন দিকে ফেরান, আর কোন কথা বয়ে বেড়াতে সে রাজি হয় না। চোখের শোকর হলো, তাকে আপনি কোথায় থামতে দেন। আর ফুআদের শোকর হলো, যখন কিছুই তাকে টানছে না, তখন তাকে আপনি কী নিয়ে ভাবতে দেন। এভাবে দেখলে আয়াতটা আর নিছক আবেগের কথা থাকে না, হয়ে যায় রোজকার হিসাব। আর হিসাবটা ছোট: আজ এই তিনটি কী করল?"
           }
         ]
       }
@@ -1757,7 +1757,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens the way a list of favours does, saying twice that Allah made for you. First comes the settled house: wa'llahu jaʿala lakum min buyutikum sakanan, and Allah made for you, from your houses, a place of rest. Then comes a dwelling of a wholly different kind, buyutan from the hides of the grazing animals, tents light enough to fold and carry. At-Tabari reads the first as houses of stone and clay and the second as tents of hide, wool and fur. One verse, two roofs: the one you return to and the one you take with you.",
-            "bn": "আয়াতটি শুরু হয় নিয়ামতের ফিরিস্তির মতো করে, দুবার বলে যে আল্লাহ তোমাদের জন্য বানিয়েছেন। প্রথমে আসে বসতঘরের কথা: ওয়াল্লাহু জাআলা লাকুম মিন বুয়ূতিকুম সাকানা, আল্লাহ তোমাদের ঘরগুলোকে তোমাদের জন্য আরামের জায়গা করেছেন। এরপর আসে একেবারে ভিন্ন ধরনের আরেকটি ঘর, পশুর চামড়া থেকে বানানো তাঁবু, যা গুটিয়ে বয়ে নেওয়ার মতো হালকা। তাবারী প্রথমটিকে পড়েন পাথর ও মাটির ঘর হিসেবে, আর দ্বিতীয়টিকে চামড়া, পশম আর লোমের তাঁবু হিসেবে। এক আয়াত, দুই ছাদ: একটিতে আপনি ফিরে আসেন, অন্যটি সঙ্গে নিয়ে যান।"
+            "bn": "আয়াতটি শুরু হয় নিয়ামতের ফিরিস্তির মতো করে, দুবার বলে যে আল্লাহ তোমাদের জন্য বানিয়েছেন। প্রথমে আসে বসতঘরের কথা: ওয়াল্লাহু জাআলা লাকুম মিন বুয়ূতিকুম সাকানা, আল্লাহ তোমাদের ঘরগুলোকে তোমাদের জন্য আরামের জায়গা করেছেন। এরপর আসে একেবারে অন্য রকম আরেকটি ঘর: পশুর চামড়ায় বানানো তাঁবু, যা গুটিয়ে বয়ে নেওয়ার মতো হালকা। তাবারীর ব্যাখ্যায় প্রথমটি পাথর আর মাটির ঘর, দ্বিতীয়টি চামড়া, পশম আর লোমের তাঁবু। এক আয়াত, দুই ছাদ: একটিতে আপনি ফিরে আসেন, অন্যটি সঙ্গে নিয়ে যান।"
           },
           {
             "en": "The order matters. Al-Qurtubi notes that the verse mentions first the houses of the towns, meant for long residence, and then the houses of moving and travelling. The settled home is the base a life is run from; the tent is what keeps a roof overhead once that base is left behind. Neither is treated as ordinary. Both are counted into the running tally of favours that this passage of Surah an-Nahl keeps adding to, and the reader is meant to notice each of them before it is ever named a gift outright.",
@@ -1781,7 +1781,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif presses the point against its own age. Vast sums are spent on the surface finish of houses, it says, yet few of them return any peace to the heart; the very additions meant to impress often drive the calm away. It ties the verse to another use of the same word, litaskunu ilayha in 30:21, where marriage too is made for rest. The dweller of a modest hut who finds ease of body and heart, it concludes, is better housed than the owner of a restless palace.",
-            "bn": "মাআরিফুল কুরআন নিজের যুগের বিরুদ্ধেই কথাটা চেপে ধরে। ঘরের বাইরের চাকচিক্যে বিপুল খরচ হয়, অথচ তার খুব কমই মনে প্রশান্তি ফেরায়; বরং যে বাড়তি জিনিস চমক দিতে জোড়া হয়, সেগুলোই প্রায়ই শান্তিটা তাড়িয়ে দেয়। সে আয়াতটিকে একই শব্দের আরেক ব্যবহারের সঙ্গে মেলায়, ৩০:২১ আয়াতের লিতাসকুনূ ইলাইহা, যেখানে বিয়েও বানানো হয়েছে প্রশান্তির জন্য। সামান্য কুঁড়েঘরের বাসিন্দা যদি শরীর আর মনের আরাম পায়, তবে সে এক অস্থির প্রাসাদের মালিকের চেয়ে ভালো ঠাঁইয়ে আছে।"
+            "bn": "মাআরিফুল কুরআন কথাটা নিজের যুগের দিকেই ঘুরিয়ে দেয়। সেখানে বলা হয়েছে, ঘরের বাইরের চাকচিক্যে বিপুল টাকা খরচ হয়, অথচ খুব কম ঘরই মনে প্রশান্তি দেয়। বরং চমক দেখানোর জন্য যা কিছু জোড়া হয়, প্রায়ই সেগুলোই শান্তি তাড়িয়ে দেয়। মাআরিফ আয়াতটিকে একই শব্দের আরেক ব্যবহারের সঙ্গে মেলায়: ৩০:২১ আয়াতের লিতাসকুনূ ইলাইহা, যেখানে বিয়েও রাখা হয়েছে প্রশান্তির জন্য। শেষে বলে, ছোট্ট কুঁড়েঘরে থেকে যে শরীর আর মনের আরাম পায়, সে অস্থির প্রাসাদের মালিকের চেয়ে ভালো ঘরে আছে।"
           }
         ]
       },
@@ -1793,15 +1793,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second dwelling is stranger and more mobile. Min juludi al-anʿam buyutan: from the hides of the grazing animals, tents. At-Tabari lists them as tents of hide and the felt tents of hair, wool and fur, and al-Baghawi names them khiyam, qibab and fasatit, the various tents and domes of the desert. These are houses that do not stay put. Their whole point is that they come down, roll up, and travel on the back of the same animal that grew the cloth they are made from.",
-            "bn": "দ্বিতীয় ঘরটি আরও অদ্ভুত আর নড়নশীল। মিন জুলূদিল আনআমি বুয়ূতা: পশুর চামড়া থেকে ঘর, মানে তাঁবু। তাবারী এগুলোকে বলেন চামড়ার তাঁবু আর পশম-লোমের পশমি তাঁবু, আর বাগভী নাম দেন খাইমা, কুব্বা আর ফাসাতীত, মরুভূমির নানা তাঁবু আর গম্বুজ। এসব ঘর এক জায়গায় থাকে না। এদের গোটা কথাই এই যে, এরা খুলে যায়, গুটিয়ে যায়, আর যে পশুর গায়ের কাপড়ে এরা তৈরি সেই পশুরই পিঠে চেপে সরে যায়।"
+            "bn": "দ্বিতীয় ঘরটি আরও অন্য রকম, আর তা এক জায়গায় বাঁধা নয়। মিন জুলূদিল আনআমি বুয়ূতা: পশুর চামড়া থেকে ঘর, মানে তাঁবু। তাবারী এর মধ্যে ধরেন চামড়ার তাঁবু, আর চুল, পশম ও লোমে বানানো তাঁবু। বাগভী এগুলোর নাম বলেন খাইমা, কুব্বা আর ফাসাতীত, মরুভূমির নানা রকম তাঁবু আর গম্বুজ। এসব ঘর এক জায়গায় থাকে না। এদের আসল সুবিধাই এই: খুলে নামানো যায়, গুটিয়ে নেওয়া যায়, আর যে পশুর গা থেকে এর কাপড় এসেছে, সেই পশুরই পিঠে চড়ে অন্য জায়গায় চলে যায়।"
           },
           {
             "en": "The verse fixes them to two days: tastakhiffunaha yawma ẓaʿnikum wa-yawma iqamatikum, which you find light on the day of your journeying and the day of your encampment. Ẓaʿn, al-Qurtubi explains, is the desert-dweller's travel in search of pasture, moving from place to place. The Muyassar catches both ends of the ease: the tent is light to load when you strike camp and light to pitch when you halt. At-Tabari reads tastakhiffunaha as finding its carrying and transport light.",
-            "bn": "আয়াত এদের বেঁধে দেয় দুটি দিনের সঙ্গে: তাসতাখিফ্‌ফূনাহা ইয়াওমা জাʿনিকুম ওয়া ইয়াওমা ইকামাতিকুম, তোমাদের সফরের দিনে আর অবস্থানের দিনে যা তোমরা হালকা পাও। কুরতুবী বলেন, জাʿন মানে মরুবাসীর চারণভূমির খোঁজে এক জায়গা থেকে আরেক জায়গায় সরে যাওয়া। মুয়াসসার আরামের দুই মাথাই ধরে: তাঁবু গোটাতে গেলে বইতে হালকা, আর থামলে খাটাতেও হালকা। তাবারী তাসতাখিফ্‌ফূনাহা পড়েন এর বহন আর নাড়াচাড়া হালকা লাগা হিসেবে।"
+            "bn": "আয়াত এগুলোকে দুটি দিনের সঙ্গে জুড়ে দেয়: তাসতাখিফ্‌ফূনাহা ইয়াওমা জাʿনিকুম ওয়া ইয়াওমা ইকামাতিকুম, সফরের দিনে আর অবস্থানের দিনে যেগুলো তোমরা হালকা পাও। কুরতুবী বলেন, জাʿন মানে চারণভূমির খোঁজে মরুবাসীর এক জায়গা থেকে আরেক জায়গায় সরে যাওয়া। মুয়াসসার আরামের দুই দিকই ধরে: যাত্রার সময় তাঁবু গুটিয়ে তুলতে হালকা, আর থামলে খাটাতেও হালকা। তাবারীর ব্যাখ্যায় তাসতাখিফ্‌ফূনাহা মানে, এগুলো বয়ে নেওয়া আর এক জায়গা থেকে আরেক জায়গায় সরানো তোমাদের কাছে হালকা লাগে।"
           },
           {
             "en": "Al-Qurtubi records a reading of ẓaʿn with the ʿayn either voweled or silent, both current in speech, and preserves a scene from Ibn al-ʿArabi, who notes that hide-tents were common in those lands though rare in his own, where tents were made of linen and wool instead. The detail is not decoration. It shows the verse addressing people in the terms of their own lives, naming the shelter they actually pitched, so that the favour would land as a favour they already knew.",
-            "bn": "কুরতুবী জাʿন শব্দের একটা কিরাআত টুকে রাখেন, যেখানে আইন হরফে হারাকত থাকে বা থাকে না, দুটোই কথায় চালু। তিনি ইবনুল আরাবীর একটা দৃশ্যও ধরে রাখেন, যিনি বলেন সেসব অঞ্চলে চামড়ার তাঁবু ছিল সাধারণ, যদিও তাঁর নিজের দেশে তা বিরল, সেখানে তাঁবু বানানো হতো সুতা আর পশম দিয়ে। কথাটা নিছক সাজানো নয়। এতে বোঝা যায় আয়াত মানুষকে তাদের নিজেদের জীবনের ভাষায় সম্বোধন করছে, তারা আসলে যে ছাউনি খাটাত তারই নাম নিচ্ছে, যাতে নিয়ামতটা চেনা নিয়ামত হয়েই এসে পড়ে।"
+            "bn": "কুরতুবী উল্লেখ করেন, জাʿন শব্দটি আইন হরফে হারাকত দিয়েও পড়া হয়, সাকিন দিয়েও, আর মুখের ভাষায় দুটোই চালু। তিনি ইবনুল আরাবীর একটা পর্যবেক্ষণও তুলে রাখেন: ওই অঞ্চলে চামড়ার তাঁবু ছিল সাধারণ, অথচ তাঁর নিজের দেশে তা বিরল, সেখানে তাঁবু বানানো হতো মসিনার কাপড় আর পশম দিয়ে। এই খুঁটিনাটি নিছক সাজসজ্জা নয়। এতে বোঝা যায়, আয়াত মানুষের সঙ্গে কথা বলছে তাদের নিজেদের জীবনের ভাষায়, তারা আসলে যে ছাউনি খাটাত তারই নাম নিয়ে, যাতে নিয়ামতটা তাদের চেনা নিয়ামত হয়েই মনে লাগে।"
           }
         ]
       },
@@ -1813,22 +1813,22 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the verse turns to what the animals yield: wa-min aṣwafiha wa-awbariha wa-ashʿariha, and from their wool and their fur and their hair. The commentators are exact about which word belongs to which animal. Ibn Kathir assigns aṣwaf to sheep, awbar to camels, and ashʿar to goats, with the pronoun referring back to the grazing animals as a whole. Al-Baghawi gives the same mapping, the wool of sheep, the fur of camels, the hair of goats, and the abridged Ibn Kathir in English says exactly this too.",
-            "bn": "এরপর আয়াত ফেরে পশুরা যা দেয় তার দিকে: ওয়া মিন আসওয়াফিহা ওয়া আওবারিহা ওয়া আশআরিহা, আর তাদের পশম, লোম আর চুল থেকে। তাফসীরকারেরা কোন শব্দ কোন পশুর, সে ব্যাপারে নিখুঁত। ইবন কাসীর আসওয়াফ দেন ভেড়াকে, আওবার উটকে, আর আশআর ছাগলকে; সর্বনামটি ফেরে গোটা গবাদি পশুর দিকে। বাগভী একই বণ্টন দেন, ভেড়ার পশম, উটের লোম, ছাগলের চুল, আর সংক্ষিপ্ত ইবন কাসীরের ইংরেজি অনুবাদও ঠিক তা-ই বলে।"
+            "bn": "এরপর আয়াত ফেরে পশুরা যা দেয় তার দিকে: ওয়া মিন আসওয়াফিহা ওয়া আওবারিহা ওয়া আশআরিহা, আর তাদের পশম, লোম আর চুল থেকে। কোন শব্দ কোন পশুর, তা নিয়ে তাফসীরকারেরা একেবারে নিখুঁত। ইবন কাসীরের মতে আসওয়াফ ভেড়ার, আওবার উটের, আর আশআর ছাগলের; আর সর্বনামটি ফেরে গোটা গবাদি পশুর দিকে। বাগভীও একই ভাগ করেন: ভেড়ার পশম, উটের লোম, ছাগলের চুল। সংক্ষিপ্ত ইবন কাসীরের ইংরেজি অনুবাদও ঠিক এ কথাই বলে।"
           },
           {
             "en": "Al-Qurtubi, in his third question on the verse, reads it as a grant of permission: Allah allowed benefit from the wool of sheep, the fur of camels and the hair of goats, just as He allowed the greater thing, their slaughter and the eating of their meat. Three animals, three fibres, and a settled licence to spin, weave and wear them. What looks like a passing list is, on his reading, the Qur'an authorising an entire domestic economy of cloth.",
-            "bn": "কুরতুবী আয়াতের তৃতীয় মাসআলায় একে পড়েন অনুমতির দান হিসেবে: আল্লাহ ভেড়ার পশম, উটের লোম আর ছাগলের চুল থেকে উপকার নেওয়ার অনুমতি দিয়েছেন, যেমন তিনি এর চেয়ে বড় জিনিসের অনুমতি দিয়েছেন, অর্থাৎ এদের জবাই আর গোশত খাওয়া। তিনটি পশু, তিনটি আঁশ, আর তা কাটা, বোনা ও পরার একটা পাকা অনুমতি। যা দেখতে চলতি একটা তালিকা, কুরতুবীর পড়ায় তা কাপড়ের গোটা এক ঘরোয়া অর্থনীতিকে কুরআনের অনুমোদন।"
+            "bn": "আয়াত নিয়ে কুরতুবীর তৃতীয় মাসআলায় তিনি একে অনুমতি হিসেবে দেখেন: আল্লাহ ভেড়ার পশম, উটের লোম আর ছাগলের চুল থেকে উপকার নেওয়া জায়েয করেছেন, ঠিক যেমন এর চেয়ে বড় জিনিসটাও জায়েয করেছেন, অর্থাৎ এদের জবাই করা আর গোশত খাওয়া। তিনটি পশু, তিন রকম আঁশ, আর সেগুলো দিয়ে সুতা কাটা, কাপড় বোনা ও পরার পাকা অনুমতি। দেখে যা মনে হয় চলতি পথে বলা একটা তালিকা, কুরতুবীর ব্যাখ্যায় তা আসলে কাপড়কে ঘিরে গোটা এক ঘরোয়া অর্থনীতির প্রতি কুরআনের অনুমোদন।"
           },
           {
             "en": "Al-Qurtubi also asks why cotton and linen go unmentioned, and answers that they were not the materials of the Arabs being addressed; the verse counts the favours they actually knew and speaks to them in what they understood. He compares it to the Qur'an naming hail from the sky while passing over snow, which was not part of their climate. Anything that serves the same use, he adds, enters the same blessing. The list is an example, not a limit.",
-            "bn": "কুরতুবী এ প্রশ্নও তোলেন, তুলা আর মসিনা কেন বাদ পড়ল, আর জবাব দেন যে সেগুলো সম্বোধিত আরবদের উপকরণ ছিল না; আয়াত তারা আসলে যা চিনত সেই নিয়ামতই গোনে আর তাদের বোঝার ভাষায় কথা বলে। তিনি একে মেলান কুরআনের আকাশ থেকে শিলাবৃষ্টির নাম নেওয়ার সঙ্গে, যেখানে বরফের কথা বাদ, কারণ তা তাদের জলবায়ুর অংশ ছিল না। যা একই কাজে লাগে, তিনি যোগ করেন, তা একই নিয়ামতে ঢোকে। তালিকাটা উদাহরণ, সীমা নয়।"
+            "bn": "কুরতুবী এ প্রশ্নও তোলেন: তুলা আর মসিনার কথা কেন নেই? তাঁর জবাব, যে আরবদের সঙ্গে কথা বলা হচ্ছিল, তাদের কাছে এগুলো চলতি উপকরণ ছিল না। আয়াত তাদের সত্যিই চেনা নিয়ামতগুলোই গোনে, আর তাদের বোঝার ভাষায় কথা বলে। তিনি এর তুলনা দেন কুরআনে আকাশ থেকে শিলা নামার উল্লেখের সঙ্গে, যেখানে তুষারের কথা নেই, কারণ তুষার তাদের আবহাওয়ার অংশ ছিল না। তিনি আরও বলেন, যা কিছু একই কাজে লাগে, তা-ও এই একই নিয়ামতের মধ্যে পড়ে। তালিকাটা উদাহরণ, সীমারেখা নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "What Athath Holds",
-          "bn": "আছাছ যা ধরে"
+          "bn": "আছাছ শব্দে কী কী পড়ে"
         },
         "p": [
           {
@@ -1837,11 +1837,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir lays the same three views side by side, wealth, articles of use, clothing, and then rules that the correct view is broader than any one of them: from wool and hair a person makes carpets, garments and much else, keeps some as wealth and turns some to trade, so athath takes in all of it. Al-Qurtubi collects the lexicographers to the same effect, from Abu Zayd's household goods to al-Khalil's derivation from abundance, ending where Ibn ʿAbbas began, at wealth.",
-            "bn": "ইবন কাসীর একই তিনটি মত পাশাপাশি রাখেন, সম্পদ, ব্যবহার্য জিনিস, কাপড়, তারপর রায় দেন যে সঠিক মত এদের যেকোনো একটার চেয়ে ব্যাপক: পশম আর চুল থেকে মানুষ বানায় গালিচা, পোশাক আর আরও অনেক কিছু, কিছু রাখে সম্পদ হিসেবে আর কিছু খাটায় ব্যবসায়, তাই আছাছ এ সবকেই ধরে। কুরতুবী অভিধানবিদদের একই দিকে জড়ো করেন, আবু যায়দের ঘরের সামগ্রী থেকে খলীলের প্রাচুর্য থেকে নেওয়া ব্যুৎপত্তি পর্যন্ত, আর শেষে সেখানেই ফেরেন যেখানে ইবন আব্বাস (রাঃ) শুরু করেছিলেন, সম্পদে।"
+            "bn": "ইবন কাসীর একই তিনটি মত পাশাপাশি রাখেন: সম্পদ, ব্যবহারের জিনিস, কাপড়। তারপর রায় দেন, সঠিক মত এর যেকোনো একটির চেয়ে ব্যাপক। পশম আর চুল দিয়ে মানুষ গালিচা, পোশাক আর আরও অনেক কিছু বানায়, কিছু রেখে দেয় সম্পদ হিসেবে, কিছু খাটায় ব্যবসায়। তাই আছাছ এই সবকিছুকেই ধরে। কুরতুবী অভিধানবিদদের মতগুলো এনে একই কথায় পৌঁছান। আবু যায়দের কাছে এর অর্থ ঘরের সামগ্রী, খলীল শব্দটিকে নেন প্রাচুর্য থেকে। আর শেষে কুরতুবী ফেরেন সেখানেই, যেখান থেকে ইবন আব্বাস (রাঃ) শুরু করেছিলেন: সম্পদ।"
           },
           {
             "en": "This is worth pausing on, because the disagreement is not a defect to be tidied away. Each reading is right about part of the word, and Ibn Kathir's ruling keeps them all rather than choosing between them. The verse hands you cloth that becomes a floor to sit on, a coat to wear, a good to sell, and a store of value all at once. Naming it athath refuses to shrink the gift down to a single use.",
-            "bn": "এখানে থামার মানে আছে, কারণ মতভেদটা এমন কোনো খুঁত নয় যাকে গুছিয়ে সরিয়ে দিতে হবে। প্রতিটি পড়া শব্দটির এক-একটা দিক নিয়ে ঠিক, আর ইবন কাসীরের রায় কোনোটাকে বাদ না দিয়ে সবগুলোকেই রাখে। আয়াত আপনার হাতে এমন কাপড় তুলে দেয় যা একসঙ্গে বসার জন্য মেঝে, গায়ে দেওয়ার জন্য পোশাক, বেচার জন্য পণ্য, আর জমিয়ে রাখার মতো সম্পদ। একে আছাছ নাম দেওয়ার মধ্য দিয়ে দানটাকে একটামাত্র কাজে ছোট করে ফেলা হয় না।"
+            "bn": "এখানে একটু থামা দরকার, কারণ এই মতভেদ এমন কোনো খুঁত নয়, যা ঝেড়েমুছে সরিয়ে ফেলতে হবে। প্রতিটি ব্যাখ্যাই শব্দটার কোনো না কোনো দিক ঠিক ধরেছে। আর ইবন কাসীরের রায় এদের মধ্যে একটাকে বেছে না নিয়ে সবগুলোকেই রেখে দেয়। আয়াত আপনার হাতে এমন কাপড় তুলে দেয়, যা একসঙ্গে পেতে বসার গালিচা, গায়ের পোশাক, বেচার পণ্য আর জমিয়ে রাখার সম্পদ। একে আছাছ বলে আয়াত দানটাকে একটিমাত্র কাজে ছোট হয়ে যেতে দেয় না।"
           }
         ]
       },
@@ -1853,11 +1853,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The clause closes with ila ḥin, for a time, and the fetched commentaries offer more than one sense of that time. At-Tabari, on the strength of Mujahid, reads it as until death, a provision to be lived on until one's appointed term; Ibn Kathir and the Muyassar read ḥin as an appointed, known term without tying it to death alone. Al-Baghawi records two readings together: until death, and until the things themselves wear out.",
-            "bn": "খণ্ডটি শেষ হয় ইলা হীন দিয়ে, কিছুকালের জন্য, আর যে তাফসীরগুলো তোলা হয়েছে সেগুলো এই কালের একাধিক অর্থ দেয়। তাবারী মুজাহিদের সূত্রে একে পড়েন মৃত্যু পর্যন্ত, নিজের নির্দিষ্ট আয়ু অবধি ভোগ করার মতো রিজিক হিসেবে; ইবন কাসীর আর মুয়াসসার হীন-কে পড়েন একটা নির্দিষ্ট, জানা মেয়াদ হিসেবে, শুধু মৃত্যুর সঙ্গে বেঁধে না দিয়ে। বাগভী দুটি পড়া একসঙ্গে টুকে রাখেন: মৃত্যু পর্যন্ত, আর জিনিসগুলো নিজেরাই জীর্ণ হয়ে যাওয়া পর্যন্ত।"
+            "bn": "আয়াতের এই অংশ শেষ হয় ইলা হীন দিয়ে, মানে কিছুকালের জন্য। এখানে যেসব তাফসীর সামনে আছে, সেগুলোতে এই 'কাল'-এর একাধিক অর্থ পাওয়া যায়। তাবারী মুজাহিদের বরাতে বলেন, এর অর্থ মৃত্যু পর্যন্ত, অর্থাৎ নির্ধারিত আয়ু অবধি ভোগ করার রিজিক। ইবন কাসীর আর মুয়াসসার হীন বলতে বোঝেন একটা নির্দিষ্ট, জানা মেয়াদ, শুধু মৃত্যুর সঙ্গে বেঁধে না দিয়ে। বাগভী দুটি মতই একসঙ্গে উল্লেখ করেন: মৃত্যু পর্যন্ত, আর জিনিসগুলো নিজেরাই জীর্ণ হয়ে যাওয়া পর্যন্ত।"
           },
           {
             "en": "Al-Qurtubi draws the two threads into one: ḥin here is an unspecified time that differs for each person, ended either by his own death or by the perishing of the very things that were his furnishing. Whichever way it is read, the word sets a limit. The tent frays, the cloth wears through, the owner is carried out before both, and the verse says as much in its own closing breath, so that the comfort is enjoyed without being mistaken for something that lasts.",
-            "bn": "কুরতুবী দুই সুতোকে এক করে টানেন: এখানে হীন এমন এক অনির্দিষ্ট কাল, যা প্রতিটি মানুষের বেলায় আলাদা, শেষ হয় হয় তার নিজের মৃত্যুতে, নয়তো যে জিনিসগুলো তার আসবাব ছিল সেগুলোর জীর্ণ হয়ে যাওয়ায়। যেভাবেই পড়া হোক, শব্দটা একটা সীমা টেনে দেয়। তাঁবু ছিঁড়ে যায়, কাপড় ক্ষয়ে যায়, আর মালিককে দুটোরই আগে বয়ে নিয়ে যাওয়া হয়। আয়াত নিজের শেষ নিঃশ্বাসেই কথাটা বলে দেয়, যাতে আরামটা ভোগ করা যায় অথচ চিরস্থায়ী কিছু ভেবে ভুল না হয়।"
+            "bn": "কুরতুবী দুই মতকে এক সুতোয় গাঁথেন: এখানে হীন মানে এক অনির্দিষ্ট সময়, যা প্রত্যেক মানুষের বেলায় আলাদা। সেটা শেষ হয় তার নিজের মৃত্যুতে, কিংবা যে জিনিসগুলো তার আসবাব ছিল সেগুলো নষ্ট হয়ে গেলে। যেভাবেই পড়া হোক, শব্দটা একটা সীমা টেনে দেয়। তাঁবু ছিঁড়ে যায়, কাপড় ক্ষয়ে যায়, আর এ দুটোর আগেই মালিকের খাটিয়া কাঁধে ওঠে। আয়াত তার শেষ কথাতেই এটা বলে দেয়, যাতে আরামটা উপভোগ করা যায়, অথচ তাকে চিরস্থায়ী কিছু ভেবে ভুল না হয়।"
           }
         ]
       },
@@ -1869,11 +1869,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Because the verse grants the use of hide, wool and hair, the jurists read a ruling out of it. Ma'arif al-Qur'an takes min juludi al-anʿam and aṣwafiha wa-awbariha wa-ashʿariha as proof that everything of an animal's hide, wool and hair is lawful to use, without the meat itself needing to be lawful; wool and hair carry no impurity from the animal's death and need no special treatment, which it reports as the position of Abu Hanifa. Swine, it notes, stays excepted.",
-            "bn": "আয়াত যেহেতু চামড়া, পশম আর লোম ব্যবহারের অনুমতি দেয়, ফকীহরা এ থেকে একটা বিধান বের করেন। মাআরিফুল কুরআন মিন জুলূদিল আনআম আর আসওয়াফিহা ওয়া আওবারিহা ওয়া আশআরিহা-কে দলিল ধরে যে পশুর চামড়া, পশম আর লোমের সবকিছু ব্যবহার করা হালাল, গোশত হালাল হওয়া লাগে না; পশম আর লোমে পশুর মৃত্যুর কোনো নাপাকি লাগে না আর আলাদা কোনো শোধনও লাগে না, যা সে আবু হানিফার অভিমত হিসেবে জানায়। শূকর, সে বলে, এর বাইরেই থাকে।"
+            "bn": "আয়াত যেহেতু চামড়া, পশম আর লোম ব্যবহারের অনুমতি দেয়, ফকীহরা এ থেকে একটা বিধান বের করেছেন। মাআরিফুল কুরআন মিন জুলূদিল আনআম আর আসওয়াফিহা ওয়া আওবারিহা ওয়া আশআরিহা-কে দলিল হিসেবে নিয়ে বলে, পশুর চামড়া, পশম আর লোম সবই ব্যবহার করা হালাল, পশুর গোশত হালাল হওয়া জরুরি নয়। পশু মরে গেলেও পশম আর লোম নাপাক হয় না, আলাদা করে পাক করারও দরকার পড়ে না। মাআরিফ জানায়, এটাই আবু হানিফার মত। তবে শূকর এর বাইরে, সে কথাও সেখানে বলা আছে।"
           },
           {
             "en": "On the theme itself, the home, the tent, the gift of shelter, the tafsir fetched for this verse attaches no sound Prophetic report; the narrations al-Qurtubi cites here concern the fiqh of hide and wool, not the dwelling the verse celebrates. Rather than force an unrelated hadith into the space, the honest reading leaves it empty. The verse does its own work: it names the shelters, it names their source, and it asks only that they be recognised for what they are.",
-            "bn": "আর মূল বিষয়টা, মানে ঘর, তাঁবু আর আশ্রয়ের দান নিয়ে, এ আয়াতের জন্য তোলা তাফসীরে কোনো সহীহ নববী বর্ণনা যুক্ত নেই; কুরতুবী এখানে যে বর্ণনাগুলো আনেন সেগুলো চামড়া আর পশমের ফিকহ নিয়ে, আয়াত যে ঠাঁইয়ের কথা উদযাপন করছে তা নিয়ে নয়। অসংশ্লিষ্ট কোনো হাদীস জোর করে এই জায়গায় বসানোর চেয়ে সৎ পড়া হলো জায়গাটা খালিই রাখা। আয়াত নিজের কাজ নিজেই করে: সে ছাউনির নাম নেয়, তাদের উৎসের নাম নেয়, আর শুধু চায় যেন এগুলোকে যা তা বলেই চেনা হয়।"
+            "bn": "আয়াতের মূল বিষয় নিয়ে, অর্থাৎ ঘর, তাঁবু আর আশ্রয়ের দান নিয়ে, এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে সেগুলোতে কোনো সহীহ হাদিস আসেনি। কুরতুবী এখানে যে বর্ণনাগুলো আনেন, সেগুলো চামড়া আর পশমের ফিকহ নিয়ে, আয়াত যে ঘরের গুণগান করছে তা নিয়ে নয়। অপ্রাসঙ্গিক কোনো হাদিস জোর করে এখানে বসানোর চেয়ে জায়গাটা খালি রাখাই সৎ পথ। আয়াত নিজের কাজ নিজেই করে: ছাউনিগুলোর নাম নেয়, সেগুলো কোথা থেকে এলো তা বলে, আর শুধু চায়, এগুলো আসলে যা, সেভাবেই যেন চেনা হয়।"
           }
         ]
       },
@@ -1885,7 +1885,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di gathers the whole verse under one heading: Allah is reminding His servants of His favours and calling them to give thanks and acknowledge them. He walks through the same items, the settled house that shields you and your children and your goods from heat and cold, the light tent for the road, the cloth off the animals, and ends by naming all of it as things Allah subjected to human making and use. The reading is not information; it is a summons.",
-            "bn": "সা'দী গোটা আয়াতকে এক শিরোনামে জড়ো করেন: আল্লাহ তাঁর বান্দাদের তাঁর নিয়ামতের কথা মনে করিয়ে দিচ্ছেন আর তাদের ডাকছেন শোকর করতে ও নিয়ামত স্বীকার করতে। তিনি একই জিনিসগুলোর ভেতর দিয়ে হাঁটেন, বসতঘর যা আপনাকে, আপনার সন্তান আর আপনার জিনিসপত্রকে গরম-ঠান্ডা থেকে আড়াল করে, পথের জন্য হালকা তাঁবু, পশুর গায়ের কাপড়, আর শেষে এ সবকেই নাম দেন এমন জিনিস হিসেবে যা আল্লাহ মানুষের বানানো আর ব্যবহারের জন্য অধীন করে দিয়েছেন। এ পড়া নিছক তথ্য নয়, এ এক ডাক।"
+            "bn": "সা'দী গোটা আয়াতকে এক কথায় বেঁধে দেন: আল্লাহ তাঁর বান্দাদের নিজের নিয়ামতের কথা মনে করিয়ে দিচ্ছেন, আর ডাকছেন যেন তারা শোকর করে, নিয়ামতগুলো স্বীকার করে। তিনি একে একে সেই জিনিসগুলোর কথাই বলেন: বসতঘর, যা আপনাকে, আপনার সন্তানদের আর আপনার জিনিসপত্রকে গরম-ঠান্ডা থেকে বাঁচায়; পথের জন্য হালকা তাঁবু; পশুর গা থেকে পাওয়া কাপড়। শেষে বলেন, এ সবই আল্লাহ মানুষের হাতে বানানো আর ব্যবহারের জন্য অধীন করে দিয়েছেন। এই পাঠ নিছক তথ্য নয়, এ এক ডাক।"
           },
           {
             "en": "That turns the verse toward the person reading it now. A roof, a folded shelter for the road, clothing off the back of a flock, each is easy to hold as a thing owned and hard to hold as a thing given. The verse insists on the second. To live beneath the gift is to let the ordinary comfort of a home register as mercy, and to answer, in the only fitting currency, with thanks and with a hand held open to those still without shelter.",
@@ -1905,11 +1905,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is built with an architecture you can hold in one hand: three commands, three prohibitions. Allah commands justice, ihsan, and giving to relatives; He forbids fahsha, munkar, and baghy. Then it closes by naming its own genre: ya'izukum la'allakum tadhakkarun — He admonishes you that you may be reminded. Not new information, the ending implies, but a reminder of what sound human nature already recognises and what daily life steadily wears away.",
-            "bn": "আয়াতটির গঠন এমন, যা এক হাতে ধরা যায়: তিনটি আদেশ, তিনটি নিষেধ। আল্লাহ আদেশ করেন ইনসাফ, ইহসান ও আত্মীয়দের দেওয়ার; নিষেধ করেন ফাহশা, মুনকার ও বাগীর। তারপর নিজের ধরনটি বলে দিয়ে শেষ হয়: ইয়াইযুকুম লাআল্লাকুম তাযাক্কারুন — তিনি তোমাদের উপদেশ দেন, যেন তোমরা স্মরণ করো। শেষাংশের ইঙ্গিত: এ নতুন তথ্য নয়, বরং তার স্মরণ, যা সুস্থ মানবপ্রকৃতি আগে থেকেই চেনে আর দৈনন্দিন জীবন ক্রমাগত ক্ষইয়ে ফেলে।"
+            "bn": "আয়াতটির গড়ন এত গোছানো যে এক হাতের মুঠোয় ধরা যায়: তিনটি আদেশ, তিনটি নিষেধ। আল্লাহ আদেশ করেন ইনসাফ, ইহসান আর আত্মীয়দের দান করার; নিষেধ করেন ফাহশা, মুনকার আর বাগী। শেষে আয়াত নিজেই বলে দেয় এটা কী ধরনের কথা: ইয়াইযুকুম লাআল্লাকুম তাযাক্কারুন, তিনি তোমাদের উপদেশ দেন, যাতে তোমরা মনে রাখো। শেষের কথাটা বুঝিয়ে দেয়, এ কোনো নতুন খবর নয়, বরং মনে করিয়ে দেওয়া। সুস্থ মানবপ্রকৃতি এসব আগে থেকেই চেনে, আর রোজকার জীবন ধীরে ধীরে তা ক্ষইয়ে দেয়।"
           },
           {
             "en": "Abdullah ibn Mas'ud (RA) called this the most comprehensive verse in the Quran for good and for evil. His judgement has been ratified by centuries of practice: across the Muslim world this verse is recited at the close of the Friday khutbah, so that whole congregations hear the whole of public and private morality, compressed to a sentence, week after week. Familiarity is the risk; the verse deserves to be heard slowly.",
-            "bn": "আবদুল্লাহ ইবনে মাসউদ (রাঃ) একে বলেছেন ভালো ও মন্দ বিষয়ে কুরআনের সবচেয়ে ব্যাপক আয়াত। শতাব্দীর পর শতাব্দীর আমল তাঁর এই রায়কে সিলমোহর দিয়েছে: গোটা মুসলিম বিশ্বে জুমার খুতবার শেষে এই আয়াতটি পড়া হয়, ফলে পুরো জামাত সপ্তাহের পর সপ্তাহ শোনে প্রকাশ্য ও ব্যক্তিগত নৈতিকতার সবটুকু — এক বাক্যে সংকুচিত। ঝুঁকিটা হলো অতিপরিচিতি; আয়াতটি ধীরে শোনার দাবি রাখে।"
+            "bn": "আবদুল্লাহ ইবনে মাসউদ (রাঃ) বলেছেন, ভালো আর মন্দের ব্যাপারে এটি কুরআনের সবচেয়ে ব্যাপক আয়াত। শত শত বছরের আমল তাঁর কথায় সিলমোহর দিয়েছে। গোটা মুসলিম বিশ্বে জুমার খুতবার শেষে এই আয়াত পড়া হয়। ফলে সপ্তাহের পর সপ্তাহ পুরো জামাত এক বাক্যে শুনে নেয় প্রকাশ্য আর ব্যক্তিগত জীবনের গোটা নৈতিকতা। বিপদ হলো, বারবার শুনতে শুনতে কানে সয়ে যায়। আয়াতটি ধীরে, মন দিয়ে শোনার মতো।"
           }
         ]
       },
@@ -1921,11 +1921,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Adl is giving each party its due — in judgement, weight, speech and dealing. It is the floor beneath society, and other verses guard it fiercely: 4:58 commands judging between people with justice, and 4:135 demands it even against oneself. But the verse does not stop at the floor. It commands ihsan as well: excellence, doing more than is owed — forgiving where retaliation was allowed, giving where withholding was lawful, adding beauty where correctness would have sufficed.",
-            "bn": "আদল মানে প্রত্যেক পক্ষকে তার প্রাপ্য দেওয়া — বিচারে, ওজনে, কথায় ও লেনদেনে। এটি সমাজের নিচের মেঝে, আর অন্য আয়াতগুলো একে কঠোরভাবে পাহারা দেয়: 4:58 মানুষের মধ্যে ইনসাফের সঙ্গে বিচার করতে আদেশ করে, আর 4:135 তা দাবি করে এমনকি নিজের বিরুদ্ধেও। কিন্তু আয়াতটি মেঝেতে থামে না। সে ইহসানেরও আদেশ দেয়: উৎকর্ষ, প্রাপ্যের চেয়ে বেশি করা — প্রতিশোধ বৈধ হলেও ক্ষমা করা, না দেওয়া বৈধ হলেও দেওয়া, শুদ্ধতাই যথেষ্ট হতো সেখানে সৌন্দর্য যোগ করা।"
+            "bn": "আদল মানে প্রত্যেককে তার প্রাপ্য দেওয়া: বিচারে, মাপে, কথায় আর লেনদেনে। এটা সমাজের ভিত, আর অন্য আয়াতগুলো এই ভিত কড়াভাবে পাহারা দেয়। 4:58 মানুষের মধ্যে ইনসাফের সঙ্গে বিচার করতে বলে, আর 4:135 ইনসাফ চায় নিজের বিরুদ্ধে গেলেও। কিন্তু আয়াতটি ভিতেই থেমে থাকে না। সঙ্গে ইহসানেরও আদেশ দেয়: সুন্দরভাবে করা, পাওনার চেয়ে বেশি দেওয়া। যেখানে বদলা নেওয়া জায়েয ছিল, সেখানে মাফ করে দেওয়া; যেখানে না দিলেও চলত, সেখানে দেওয়া; যেখানে ঠিকঠাক করাই যথেষ্ট ছিল, সেখানে সৌন্দর্য যোগ করা।"
           },
           {
             "en": "Then, from inside the wide field of ihsan, one duty is pulled out and named: giving to relatives. The commentators note the logic of the emphasis. Kin are the people easiest to wrong and hardest to escape; rights against us concentrate there, and so does our capacity for coldness. A person can be publicly generous and privately estranged; the verse blocks that arrangement by naming the relatives explicitly.",
-            "bn": "এরপর ইহসানের বিস্তৃত ময়দানের ভেতর থেকে একটি দায়িত্বকে টেনে বের করে নাম ধরে বলা হয়: আত্মীয়দের দেওয়া। মুফাসসিরগণ এই জোরের যুক্তিটি লক্ষ করেন। আত্মীয়রাই সেই মানুষ, যাদের প্রতি অন্যায় করা সবচেয়ে সহজ আর যাদের এড়ানো সবচেয়ে কঠিন; আমাদের ওপর হকও সেখানে জমা হয়, আমাদের শীতলতার ক্ষমতাও। মানুষ প্রকাশ্যে দানশীল হয়েও ঘরের ভেতরে বিচ্ছিন্ন থাকতে পারে; আয়াত আত্মীয়দের স্পষ্ট নাম নিয়ে সেই বন্দোবস্তটি আটকে দেয়।"
+            "bn": "এরপর ইহসানের বিশাল পরিসর থেকে একটি দায়িত্ব আলাদা করে নাম ধরে বলা হয়: আত্মীয়দের দেওয়া। মুফাসসিরগণ এই জোর দেওয়ার কারণ দেখান। আত্মীয়দের প্রতিই অন্যায় করা সবচেয়ে সহজ, আবার তাদের এড়িয়ে চলাও সবচেয়ে কঠিন। আমাদের ওপর সবচেয়ে বেশি হক তাদেরই, আর আমাদের শীতল আচরণও সবচেয়ে বেশি তাদের ওপরই পড়ে। কেউ বাইরে দানশীল হয়েও ঘরে আপনজনদের থেকে দূরে থাকতে পারে। আয়াত আত্মীয়দের সরাসরি নাম নিয়ে সেই পথ বন্ধ করে দেয়।"
           }
         ]
       },
@@ -1937,11 +1937,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The forbidden triad also climbs. Fahsha is the shameless — conduct whose ugliness is felt before it is argued, with unlawful sexuality at its centre. Munkar is wider: whatever revealed law and sound nature together reject, done openly. Baghy is aggression — overstepping against people, their blood, property or honour, including the arrogance of oppression. Commentators observe that the list moves outward: from private corruption, to public wrong, to harm that lands directly on others.",
-            "bn": "নিষিদ্ধ ত্রয়ীও ধাপে ধাপে ওঠে। ফাহশা হলো নির্লজ্জতা — এমন আচরণ, যার কদর্যতা যুক্তির আগেই অনুভূত হয়; এর কেন্দ্রে অবৈধ যৌনতা। মুনকার আরও বিস্তৃত: প্রকাশ্যে করা এমন সবকিছু, যা ওহীর বিধান ও সুস্থ প্রকৃতি একসঙ্গে প্রত্যাখ্যান করে। বাগী হলো আগ্রাসন — মানুষের ওপর, তাদের রক্ত, সম্পদ বা সম্মানের ওপর সীমালঙ্ঘন, জুলুমের অহংকারসহ। মুফাসসিরগণ লক্ষ করেন, তালিকাটি ভেতর থেকে বাইরে এগোয়: ব্যক্তিগত কলুষতা থেকে প্রকাশ্য অন্যায়ে, সেখান থেকে সরাসরি অন্যের ওপর পড়া ক্ষতিতে।"
+            "bn": "নিষেধের তিনটিও ধাপে ধাপে বাড়ে। ফাহশা হলো নির্লজ্জতা: এমন আচরণ, যার কদর্যতা যুক্তি দিয়ে বোঝানোর আগেই মন টের পায়, আর এর কেন্দ্রে আছে অবৈধ যৌনতা। মুনকার আরও ব্যাপক: প্রকাশ্যে করা এমন সব কাজ, যা ওহির বিধান আর সুস্থ প্রকৃতি দুটোই প্রত্যাখ্যান করে। বাগী হলো সীমালঙ্ঘন: মানুষের ওপর, তাদের জান, মাল বা ইজ্জতের ওপর বাড়াবাড়ি, জুলুমের অহংকারসহ। মুফাসসিরগণ লক্ষ করেন, তালিকাটা ভেতর থেকে বাইরের দিকে যায়: ব্যক্তিগত নোংরামি থেকে প্রকাশ্য অন্যায়ে, তারপর এমন ক্ষতিতে, যা সরাসরি অন্যের ওপর গিয়ে পড়ে।"
           },
           {
             "en": "Setting the two triads side by side shows the method of the religion. It does not only prohibit; each vice faces a commanded opposite. Justice starves baghy, since oppression is exactly the refusal of others' due. Ihsan crowds out munkar, because a life occupied with doing more good than required has little room left for open wrong. And giving to relatives strengthens the near circle in which character is actually formed.",
-            "bn": "দুই ত্রয়ীকে পাশাপাশি রাখলে দ্বীনের পদ্ধতিটি দেখা যায়। সে কেবল নিষেধ করে না; প্রতিটি মন্দের মুখোমুখি রাখা হয়েছে একটি আদিষ্ট বিপরীতকে। ইনসাফ বাগীকে না খাইয়ে মারে, কারণ জুলুম তো অন্যের প্রাপ্য অস্বীকারেরই নাম। ইহসান মুনকারকে জায়গাছাড়া করে, কারণ প্রয়োজনের চেয়ে বেশি ভালো কাজে ব্যস্ত জীবনে প্রকাশ্য অন্যায়ের জায়গা কমই থাকে। আর আত্মীয়দের দেওয়া মজবুত করে সেই নিকট বৃত্তকে, যেখানে চরিত্র আসলে গড়ে ওঠে।"
+            "bn": "আদেশের তিনটি আর নিষেধের তিনটি পাশাপাশি রাখলে দ্বীনের পদ্ধতিটা চোখে পড়ে। দ্বীন শুধু নিষেধ করেই থামে না; প্রতিটি মন্দের উল্টো দিকে একটি করে আদেশ দাঁড় করিয়ে দেয়। ইনসাফ বাগীকে না খাইয়ে মারে, কারণ জুলুম মানেই অন্যের প্রাপ্য না দেওয়া। ইহসান মুনকারকে কোণঠাসা করে, কারণ যে জীবন প্রয়োজনের চেয়ে বেশি ভালো কাজে ব্যস্ত, সেখানে প্রকাশ্য অন্যায়ের জায়গা থাকে সামান্যই। আর আত্মীয়দের দেওয়া মজবুত করে কাছের মানুষদের সেই বৃত্ত, যেখানে আসলে চরিত্র গড়ে ওঠে।"
           }
         ]
       },
@@ -1953,11 +1953,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nahl has spent its length listing benefactions — rain, cattle, honey, the sea — and asking who could have given them. By 16:90 the argument turns from what Allah gives to what He asks. The very next verse, 16:91, commands keeping covenants once made, extending the same integrity from conduct to promises. Gratitude for the gifts and obedience in the commands are presented as one continuous response to the same Giver.",
-            "bn": "সূরা আন-নাহল তার দৈর্ঘ্য জুড়ে নিয়ামতের তালিকা করেছে — বৃষ্টি, গবাদি পশু, মধু, সমুদ্র — আর প্রশ্ন করেছে, এসব কে দিতে পারত। 16:90-এ এসে যুক্তিটি ঘুরে যায় — আল্লাহ কী দেন থেকে তিনি কী চান-এ। ঠিক পরের আয়াত 16:91 আদেশ করে কৃত অঙ্গীকার রক্ষা করতে — একই সততাকে আচরণ থেকে প্রতিশ্রুতিতে প্রসারিত করে। নিয়ামতের কৃতজ্ঞতা আর আদেশের আনুগত্য — দুটিকে উপস্থাপন করা হয়েছে একই দাতার প্রতি এক অবিচ্ছিন্ন সাড়া হিসেবে।"
+            "bn": "সূরা আন-নাহল এতক্ষণ নিয়ামতের তালিকা দিয়ে এসেছে: বৃষ্টি, গবাদি পশু, মধু, সমুদ্র। আর প্রশ্ন করেছে, এসব আর কে দিতে পারত? 16:90-এ এসে কথার মোড় ঘোরে: আল্লাহ কী দেন, তা থেকে তিনি কী চান, সেদিকে। ঠিক পরের আয়াত 16:91 আদেশ দেয়, অঙ্গীকার করলে তা রক্ষা করতে। আচরণের সেই সততাই এখানে ওয়াদা রক্ষা পর্যন্ত গড়ায়। নিয়ামতের শোকর আর আদেশের আনুগত্য, সূরা দুটোকে দেখায় একই দাতার প্রতি একটানা সাড়া হিসেবে।"
           },
           {
             "en": "The pairing with 5:8 is also worth carrying: there, believers are told not to let hatred of a people push them away from justice. Between them the two verses seal both exits. 16:90 commands justice as a standing order; 5:8 blocks the loophole of the enemy, as 4:135 blocks the loophole of the self and the family. There is no one left, friend or foe, toward whom injustice remains an option.",
-            "bn": "5:8-এর সঙ্গে জোড়টিও সঙ্গে রাখার মতো: সেখানে মুমিনদের বলা হয়েছে, কোনো জাতির প্রতি বিদ্বেষ যেন তাদের ইনসাফ থেকে সরিয়ে না দেয়। এই দুই আয়াত মিলে দুটো পালানোর পথই বন্ধ করে। 16:90 ইনসাফকে স্থায়ী আদেশ বানায়; 5:8 শত্রুর ফাঁকটি বন্ধ করে, যেমন 4:135 বন্ধ করে নিজের ও পরিবারের ফাঁক। বন্ধু হোক বা শত্রু — এমন কেউ বাকি থাকে না, যার প্রতি অবিচার আর কোনো বিকল্প হিসেবে টেকে।"
+            "bn": "5:8 আয়াতের সঙ্গে মিলিয়ে পড়াটাও মনে রাখার মতো। সেখানে মুমিনদের বলা হয়েছে, কোনো জাতির প্রতি বিদ্বেষ যেন তাদের ইনসাফ থেকে সরিয়ে না দেয়। দুই আয়াত মিলে দুটো ফাঁকই বন্ধ করে দেয়। 16:90 ইনসাফকে স্থায়ী হুকুম বানায়; 5:8 বন্ধ করে শত্রুর বেলায় ছাড় নেওয়ার ফাঁক, যেমন 4:135 বন্ধ করে নিজের আর পরিবারের বেলায় ছাড় নেওয়ার ফাঁক। বন্ধু হোক বা শত্রু, এমন কেউ আর বাকি থাকে না, যার প্রতি অবিচার করার সুযোগ আছে।"
           }
         ]
       },
@@ -1969,11 +1969,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Because the verse is a compass, its use is directional: locate yourself on it. Of the three commands — justice, excellence, giving to kin — one is usually the neglected one for a given person in a given season; of the three prohibitions, one is usually the live temptation. The verse rewards that specific self-audit far more than it rewards admiration. Hearing it weekly was meant to produce exactly this repeated, uncomfortable, useful check.",
-            "bn": "আয়াতটি যেহেতু একটি কম্পাস, এর ব্যবহারও দিকনির্ণয়ের: নিজেকে এর ওপর খুঁজে বের করুন। তিন আদেশের মধ্যে — ইনসাফ, উৎকর্ষ, আত্মীয়দের দেওয়া — নির্দিষ্ট মানুষের নির্দিষ্ট মৌসুমে সাধারণত একটি থাকে অবহেলিত; তিন নিষেধের মধ্যে একটি থাকে জীবন্ত প্রলোভন। মুগ্ধতার চেয়ে এই সুনির্দিষ্ট আত্মপরীক্ষাকেই আয়াত অনেক বেশি প্রতিদান দেয়। সাপ্তাহিক শোনার উদ্দেশ্যই ছিল ঠিক এই বারবার করা, অস্বস্তিকর, কাজের যাচাই।"
+            "bn": "আয়াতটি যেন একটা কম্পাস, তাই এর কাজ দিক দেখানো: এর ওপর নিজের অবস্থানটা খুঁজে নিন। তিনটি আদেশের মধ্যে, অর্থাৎ ইনসাফ, ইহসান আর আত্মীয়দের দেওয়ার মধ্যে, জীবনের কোনো এক পর্বে কারো কাছে সাধারণত একটি অবহেলায় পড়ে থাকে। আর তিনটি নিষেধের মধ্যে একটি তখন সত্যিকারের প্রলোভন হয়ে থাকে। আয়াতকে শুধু মুগ্ধ হয়ে প্রশংসা করার চেয়ে এভাবে নিজেকে খুঁটিয়ে দেখাতেই লাভ অনেক বেশি। প্রতি সপ্তাহে এটা শোনানোর উদ্দেশ্যও ছিল ঠিক এটাই: বারবার, অস্বস্তিকর, কিন্তু কাজের একটা যাচাই।"
           },
           {
             "en": "And the closing word sets the tone for how to hold it: ya'izukum, He admonishes you — the address of a counsellor who wants good for the one addressed, not a prosecutor building a case. The verse asks to be remembered, la'allakum tadhakkarun, because everything in it was already written into sound nature. Obedience here has the feel of coming back to something, not of being conscripted into something.",
-            "bn": "আর শেষ শব্দটি ঠিক করে দেয় একে কীভাবে ধরতে হবে: ইয়াইযুকুম — তিনি তোমাদের উপদেশ দেন; এ এমন উপদেষ্টার সম্বোধন, যিনি শ্রোতার কল্যাণ চান — মামলা সাজানো কৌঁসুলির নয়। আয়াত চায় তাকে স্মরণ করা হোক — লাআল্লাকুম তাযাক্কারুন — কারণ এর সবকিছু সুস্থ প্রকৃতিতে আগে থেকেই লেখা ছিল। এখানে আনুগত্যের অনুভূতি কোনো কিছুতে জোর করে ভর্তি হওয়ার নয় — কোনো কিছুর কাছে ফিরে আসার।"
+            "bn": "আর শেষ শব্দটিই বলে দেয় আয়াতটাকে কীভাবে নিতে হবে। ইয়াইযুকুম, তিনি তোমাদের উপদেশ দেন। এ এমন এক হিতৈষীর কথা, যিনি শ্রোতার ভালো চান; মামলা সাজাতে বসা কোনো উকিলের কথা নয়। আয়াত চায় তাকে মনে রাখা হোক, লাআল্লাকুম তাযাক্কারুন, কারণ এর সবকিছু সুস্থ প্রকৃতিতে আগে থেকেই লেখা আছে। তাই এখানে আনুগত্য মানে জোর করে কোথাও ভর্তি হওয়া নয়, বরং চেনা কোনো জায়গায় ফিরে আসা।"
           }
         ]
       }
@@ -1984,7 +1984,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Trade Already Running",
-          "bn": "একটি চলমান লেনদেন"
+          "bn": "চলমান এক লেনদেন"
         },
         "p": [
           {
@@ -1993,7 +1993,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Arabic verb yanfadu is in the present tense: what is with you is not something that will one day run out, it is running out now, continuously, as you hold it. Money is being spent, health is being used, positions are being aged out of. Against that steady leak the verse sets a single word for what is with Allah: baq, remaining. The comparison is not between two treasures but between a draining vessel and one that cannot drain.",
-            "bn": "আরবি ক্রিয়াপদ 'ইয়ানফাদু' বর্তমান কালের: তোমাদের কাছে যা আছে তা একদিন ফুরাবে — ব্যাপারটা শুধু তা নয়; তা এখনই ফুরাচ্ছে, অবিরাম, তোমার হাতে থাকা অবস্থাতেই। টাকা খরচ হচ্ছে, স্বাস্থ্য ক্ষয় হচ্ছে, পদ-মর্যাদা বয়সের সঙ্গে হাতছাড়া হচ্ছে। এই অবিরাম ক্ষরণের বিপরীতে আয়াতটি আল্লাহর কাছে যা আছে তার জন্য একটিমাত্র শব্দ রাখে: 'বাক' — অবশিষ্ট, স্থায়ী। তুলনাটি দুটি ধনভাণ্ডারের মধ্যে নয়, বরং একটি ফুটো পাত্র আর এমন এক পাত্রের মধ্যে যা কখনো খালি হয় না।"
+            "bn": "আরবি ক্রিয়া 'ইয়ানফাদু' বর্তমান কালের। অর্থাৎ 'তোমাদের কাছে যা আছে' তা একদিন ফুরাবে, ব্যাপারটা শুধু এমন নয়; তা এখনই ফুরাচ্ছে, অবিরাম, হাতে থাকতে থাকতেই। টাকা খরচ হচ্ছে, স্বাস্থ্য ক্ষয়ে যাচ্ছে, পদ-পদবি বয়সের সঙ্গে হাতছাড়া হচ্ছে। এই অবিরাম চুইয়ে পড়ার বিপরীতে আল্লাহর কাছে যা আছে, তার জন্য আয়াত একটিমাত্র শব্দ রাখে: 'বাক', যা থেকে যায়। তুলনাটা দুটি ধনভাণ্ডারের মধ্যে নয়, বরং একটা ফুটো পাত্র আর এমন এক পাত্রের মধ্যে, যা কখনো খালি হয় না।"
           }
         ]
       },
@@ -2005,11 +2005,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The reward clause in 16:96 is precise: We will surely pay those who were patient their reward according to the best of what they used to do. The commentators pause on that phrase, bi-ahsani ma kanu ya'malun. A person's record holds deeds of mixed quality — some prayed with presence, some rushed. The promise is that the best of the work sets the standard by which the whole is repaid. No employer settles accounts this way; the generosity is in the wording itself.",
-            "bn": "16:96 আয়াতের প্রতিদানের বাক্যটি সুনির্দিষ্ট: যারা ধৈর্য ধরেছে, আমি অবশ্যই তাদের প্রতিদান দেব তাদের সর্বোত্তম কাজ অনুসারে। মুফাসসিরগণ এই বাক্যাংশে থামেন — 'বি-আহসানি মা কানূ ইয়া'মালূন'। মানুষের আমলনামায় মিশ্র মানের কাজ থাকে — কোনো নামায পূর্ণ মনোযোগে পড়া, কোনোটি তাড়াহুড়োয়। প্রতিশ্রুতি হলো: কাজের সেরা অংশটিই সেই মানদণ্ড ঠিক করে দেয়, যে হারে পুরোটার প্রতিদান দেওয়া হয়। কোনো নিয়োগকর্তা এভাবে হিসাব মেটায় না; উদারতা শব্দচয়নের ভেতরেই।"
+            "bn": "16:96 আয়াতে প্রতিদানের কথাটা খুব নির্দিষ্ট: যারা ধৈর্য ধরেছে, আমি অবশ্যই তাদের প্রতিদান দেব তাদের সবচেয়ে ভালো আমল অনুযায়ী। মুফাসসিরগণ এই অংশে এসে থামেন: 'বি-আহসানি মা কানূ ইয়া'মালূন'। মানুষের আমলনামায় নানা মানের কাজ থাকে। কোনো নামাজ পড়া হয়েছে পুরো মনোযোগে, কোনোটা তাড়াহুড়োয়। ওয়াদা হলো, সবচেয়ে ভালো কাজটাই মাপকাঠি ঠিক করবে, আর সেই হারে পুরোটার প্রতিদান দেওয়া হবে। কোনো মালিক এভাবে হিসাব মেটায় না; এই উদারতা আয়াতের শব্দেই লুকিয়ে আছে।"
           },
           {
             "en": "Notice also who is being paid: those who were patient. Patience is named because holding on to what is with Allah requires letting the visible, countable price slip past. The person who kept a covenant when breaking it paid well, or stayed honest when a lie was cheaper, has watched something run out of their hands. The verse says that what they were actually holding did not run out at all; it changed accounts.",
-            "bn": "আরও লক্ষ করুন, প্রতিদান কাদের দেওয়া হচ্ছে: যারা ধৈর্য ধরেছে। ধৈর্যের নাম নেওয়া হয়েছে কারণ আল্লাহর কাছে যা আছে তা আঁকড়ে ধরতে হলে চোখে-দেখা, গোনা-যায় এমন মূল্যকে হাতছাড়া হতে দিতে হয়। যে মানুষ অঙ্গীকার রক্ষা করেছে যখন তা ভাঙলে ভালো দাম মিলত, বা সৎ থেকেছে যখন মিথ্যা ছিল সস্তা — সে নিজের হাত থেকে কিছু ফুরিয়ে যেতে দেখেছে। আয়াত বলে, সে আসলে যা ধরে রেখেছিল তা মোটেও ফুরায়নি; তা শুধু হিসাবের খাতা বদলেছে।"
+            "bn": "আরও লক্ষ করুন, প্রতিদান কারা পাচ্ছে: যারা ধৈর্য ধরেছে। ধৈর্যের কথা আসে, কারণ আল্লাহর কাছে যা আছে তা আঁকড়ে ধরতে হলে চোখের সামনের, গুনে দেখা যায় এমন দাম হাতছাড়া হতে দিতে হয়। অঙ্গীকার ভাঙলে ভালো দাম মিলত, তবু যে তা রক্ষা করেছে; মিথ্যা বলা সস্তা ছিল, তবু যে সৎ থেকেছে, সে নিজের হাত থেকে কিছু একটা ফুরিয়ে যেতে দেখেছে। আয়াত বলে, সে আসলে যা ধরে রেখেছিল, তা মোটেও ফুরায়নি; শুধু হিসাবের খাতা বদলেছে।"
           }
         ]
       },
@@ -2021,7 +2021,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then 16:97 widens the promise to its full breadth: whoever does righteousness, male or female, while being a believer. The explicit mention of both sexes is not decoration. The commentators note that it closes off any suspicion that the reward economy of the previous verse belongs to one class of servant. Two conditions stand, and only two: the work must be righteous, and the worker must be a believer, since faith is what gives a deed its direction and its worth.",
-            "bn": "এরপর 16:97 প্রতিশ্রুতিটিকে তার পূর্ণ বিস্তারে ছড়িয়ে দেয়: যে-ই সৎকর্ম করে, পুরুষ হোক বা নারী, মুমিন অবস্থায়। উভয় লিঙ্গের স্পষ্ট উল্লেখ কোনো অলংকার নয়। মুফাসসিরগণ লক্ষ করেন, এটি এই সন্দেহের পথ বন্ধ করে দেয় যে আগের আয়াতের প্রতিদানের অর্থনীতি কেবল এক শ্রেণির বান্দার জন্য। শর্ত দাঁড়ায় দুটি, কেবল দুটিই: কাজটি হতে হবে সৎ, আর কর্মীকে হতে হবে মুমিন — কারণ ঈমানই কাজকে তার অভিমুখ ও মূল্য দেয়।"
+            "bn": "এরপর 16:97 ওয়াদাটাকে পুরোপুরি ছড়িয়ে দেয়: পুরুষ হোক বা নারী, যে-ই মুমিন অবস্থায় সৎকর্ম করে। দুই লিঙ্গের কথা আলাদা করে বলা নিছক অলংকার নয়। মুফাসসিরগণ বলেন, এতে এই সন্দেহের পথ বন্ধ হয়ে যায় যে আগের আয়াতের প্রতিদানের ব্যবস্থা শুধু এক শ্রেণির বান্দার জন্য। শর্ত দুটি, কেবল দুটিই: কাজটা হতে হবে নেক, আর যে করছে তাকে হতে হবে মুমিন। কারণ ঈমানই কাজকে তার দিশা আর মূল্য দেয়।"
           },
           {
             "en": "The same pairing appears in 4:124, where whoever does righteous deeds, male or female, while a believer, enters the Garden and is not wronged even the groove of a date stone. The Quran repeats this structure often enough that it cannot be incidental. Where reward is being promised, women are named alongside men in the very grammar of the sentence, before any jurist or reformer arrives to argue the point.",
@@ -2037,23 +2037,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The promise itself comes doubled with emphasis in the Arabic: fa-la-nuhyiyannahu hayatan tayyibah, then We will surely give him a good life. Ibn Kathir gathers the explanations of the early authorities — lawful provision according to some, contentment according to others, the sweetness of obedience according to others still — and rules that the good life includes all of these together. It is not a promise of wealth. It is a promise that the inside of the life will be well.",
-            "bn": "প্রতিশ্রুতিটি আরবিতে দ্বিগুণ জোর নিয়ে আসে: 'ফালানুহয়িয়ান্নাহু হায়াতান তাইয়িবাহ' — তাহলে আমি অবশ্যই তাকে এক উত্তম জীবন দান করব। ইবনে কাসীর প্রাচীন ইমামদের ব্যাখ্যাগুলো একত্র করেন — কারও মতে হালাল রিযিক, কারও মতে অল্পে তুষ্টি, আবার কারও মতে আনুগত্যের স্বাদ — এবং সিদ্ধান্ত দেন যে উত্তম জীবন এই সবকিছুকে একসঙ্গে ধারণ করে। এটি সম্পদের প্রতিশ্রুতি নয়। এটি এই প্রতিশ্রুতি যে জীবনের ভেতরটা ভালো থাকবে।"
+            "bn": "ওয়াদাটা আরবিতে দ্বিগুণ জোর দিয়ে এসেছে: 'ফালানুহয়িয়ান্নাহু হায়াতান তাইয়িবাহ', তাহলে আমি অবশ্যই তাকে উত্তম জীবন দান করব। ইবনে কাসীর পূর্বসূরি ইমামদের ব্যাখ্যাগুলো একত্র করেন। কারও মতে এর মানে হালাল রিযিক, কারও মতে অল্পে তুষ্টি, আবার কারও মতে আনুগত্যের স্বাদ। তারপর তিনি সিদ্ধান্ত দেন, উত্তম জীবনে এর সবই একসঙ্গে আছে। এটা ধনসম্পদের ওয়াদা নয়। এটা এই ওয়াদা যে জীবনের ভেতরটা ভালো থাকবে।"
           },
           {
             "en": "The verse then repeats the wage clause of 16:96 word for word: their reward by the best of what they used to do. So the righteous believer is paid twice, once here in the currency of a good life, once there at the best-deed rate. Compare 28:60, where whatever you have been given is the enjoyment of this life, and what is with Allah is better and more lasting. The two payments are not in competition; one is pocket money, one is the estate.",
-            "bn": "আয়াতটি এরপর 16:96 আয়াতের মজুরির বাক্যটি হুবহু আবার বলে: তাদের সর্বোত্তম কাজ অনুসারে তাদের প্রতিদান। সুতরাং সৎকর্মশীল মুমিনকে দুবার দেওয়া হয় — একবার এখানে, উত্তম জীবনের মুদ্রায়; একবার সেখানে, সর্বোত্তম-আমলের হারে। তুলনা করুন 28:60 আয়াতের সঙ্গে: তোমাদের যা দেওয়া হয়েছে তা দুনিয়ার জীবনের ভোগসামগ্রী, আর আল্লাহর কাছে যা আছে তা উত্তম ও স্থায়ী। এই দুই প্রাপ্তি পরস্পরের প্রতিদ্বন্দ্বী নয়; একটি হাতখরচ, অন্যটি উত্তরাধিকার।"
+            "bn": "এরপর আয়াত 16:96-এর প্রতিদানের কথাটা হুবহু আবার বলে: তাদের সবচেয়ে ভালো আমল অনুযায়ী তাদের প্রতিদান। তাহলে নেককার মুমিন দুবার পায়: একবার এখানে, উত্তম জীবনের মুদ্রায়; আরেকবার সেখানে, সবচেয়ে ভালো আমলের হারে। 28:60 আয়াতের সঙ্গে মিলিয়ে দেখুন: তোমাদের যা দেওয়া হয়েছে, তা দুনিয়ার জীবনের ভোগের সামগ্রী, আর আল্লাহর কাছে যা আছে, তা উত্তম ও স্থায়ী। এই দুই প্রাপ্তির মধ্যে কোনো রেষারেষি নেই; একটা হাতখরচ, অন্যটা আসল সম্পত্তি।"
           }
         ]
       },
       {
         "h": {
           "en": "Living the Exchange",
-          "bn": "এই বিনিময় যাপন করা"
+          "bn": "জীবনে এই বিনিময়"
         },
         "p": [
           {
             "en": "The practical test of this verse arrives at specific moments: the contract that could be quietly bent, the hour that could go to display rather than duty, the charity that competes with a purchase. At each such fork the two columns of 16:96 are actually on the table — one thing that will deplete, one that will remain. Naming the fork in those exact terms, while standing at it, is what the mufassirun mean by living with the Hereafter in view.",
-            "bn": "এই আয়াতের ব্যবহারিক পরীক্ষা আসে নির্দিষ্ট মুহূর্তে: যে চুক্তি চুপিসারে বাঁকানো যেত, যে ঘণ্টা কর্তব্যের বদলে লোকদেখানোয় যেতে পারত, যে দান কোনো কেনাকাটার সঙ্গে প্রতিযোগিতায় নেমেছে। এমন প্রতিটি দোরাহায় 16:96 আয়াতের দুটি ঘরই আসলে সামনে থাকে — একটি জিনিস যা ফুরিয়ে যাবে, একটি যা থেকে যাবে। দোরাহায় দাঁড়িয়ে ঠিক এই ভাষায় তাকে চিনে নেওয়াই মুফাসসিরদের ভাষায় আখিরাতকে চোখে রেখে বাঁচা।"
+            "bn": "এই আয়াতের আসল পরীক্ষা আসে কিছু নির্দিষ্ট মুহূর্তে: যে চুক্তি চুপচাপ একটু বাঁকিয়ে নেওয়া যেত; যে সময়টা দায়িত্বে না দিয়ে লোক দেখানোয় দেওয়া যেত; যে দানের টাকায় কিছু কেনাও যেত। এমন প্রতিটি মোড়ে 16:96-এর দুটি ঘরই সত্যিই সামনে থাকে: একটা জিনিস, যা ফুরিয়ে যাবে; আরেকটা, যা থেকে যাবে। মোড়ে দাঁড়িয়েই ঠিক এই ভাষায় ব্যাপারটা চিনে নেওয়া, মুফাসসিরগণ একেই বলেন আখিরাতকে চোখের সামনে রেখে বাঁচা।"
           },
           {
             "en": "And 18:46 gives the same accounting a second wording: wealth and children are the adornment of this worldly life, but the enduring righteous deeds are better with your Lord for reward and better for hope. Adornment is not condemned there, only priced. The believer this passage builds is not someone who owns nothing, but someone who knows which of their holdings is currently evaporating and which one, with Allah, is quietly compounding.",
@@ -2068,7 +2068,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Set Beside the Sent-Down Book",
-          "bn": "নাযিলকৃত কিতাবের পাশেই"
+          "bn": "নাজিল হওয়া কিতাবের পাশে"
         },
         "p": [
           {
@@ -2077,23 +2077,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an sets the verse in its run. The verses just before it pressed the fulfilling of the covenant with Allah and the worth of living righteously — whoever works good, believing, is promised a good life (16:97). What makes a person neglect such commands, it says, is Satanic prompting. So a verse now teaches the seeking of protection against Satan, the accursed, something needed at the start of every good deed, though it is named here alongside the recitation in particular.",
-            "bn": "মাআরিফুল কুরআন আয়াতটিকে তার ধারাবাহিকতায় বসায়। ঠিক আগের আয়াতগুলো আল্লাহর সঙ্গে কৃত অঙ্গীকার রক্ষা আর সৎভাবে বাঁচার মূল্যের কথা জোর দিয়ে বলেছে। যে ঈমান নিয়ে ভালো কাজ করে, তাকে উত্তম জীবনের ওয়াদা দেওয়া হয়েছে (১৬:৯৭)। এমন আদেশ মানুষ কেন অবহেলা করে, তার কারণ শয়তানের প্ররোচনা। তাই এখন একটি আয়াত শেখাচ্ছে অভিশপ্ত শয়তান থেকে আশ্রয় নেওয়া, যা দরকার প্রতিটি ভালো কাজের শুরুতেই, যদিও এখানে তা বিশেষভাবে তিলাওয়াতের সঙ্গেই বলা হয়েছে।"
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে তার ধারাবাহিকতায় বসায়। ঠিক আগের আয়াতগুলো আল্লাহর সঙ্গে করা অঙ্গীকার রক্ষা আর সৎভাবে বাঁচার মূল্যের কথা জোর দিয়ে বলেছে। যে ঈমান নিয়ে ভালো কাজ করে, তাকে উত্তম জীবনের ওয়াদা দেওয়া হয়েছে (১৬:৯৭)। মাআরিফ বলে, মানুষ এমন আদেশ অবহেলা করে শয়তানের প্ররোচনায়। তাই এবার একটি আয়াত শেখাচ্ছে অভিশপ্ত শয়তান থেকে আশ্রয় চাওয়া। এটা দরকার প্রতিটি ভালো কাজের শুরুতেই, যদিও এখানে বিশেষ করে তিলাওয়াতের সঙ্গে বলা হয়েছে।"
           }
         ]
       },
       {
         "h": {
           "en": "When You Take Up Reciting",
-          "bn": "যখন পড়তে হাত দাও"
+          "bn": "পড়া শুরুর মুহূর্তে"
         },
         "p": [
           {
             "en": "The words run, literally, so when you have recited the Qur'an, seek refuge — as if the seeking came after. At-Tabari reports that some Arabic grammarians read it exactly so, as speech whose order is inverted, meaning: when you have sought refuge, then recite. He rejects their reasoning. Were it so, he argues, then whoever sought refuge from Satan would be bound to recite, which nobody claims. The plain sense is that this is telling and urging, not a binding order.",
-            "bn": "আয়াতের শব্দগুলো আক্ষরিকভাবে দাঁড়ায়: তুমি যখন কুরআন পড়ে ফেলবে, তখন আশ্রয় চাও, যেন আশ্রয় চাওয়াটা পরে। তাবারী জানান, কিছু আরবি ব্যাকরণবিদ ঠিক এভাবেই পড়েছেন, এমন কথা হিসেবে যার ক্রম উল্টে দেওয়া, অর্থ: তুমি যখন আশ্রয় চেয়ে নেবে, তারপর পড়ো। তাবারী তাঁদের যুক্তি নাকচ করেন। এমন হলে, তিনি বলেন, শয়তান থেকে আশ্রয় চাইলেই কাউকে পড়তে বাধ্য থাকতে হতো, যা কেউই বলে না। সোজা অর্থ হলো, এটি জানানো আর উৎসাহ দেওয়া, বাধ্যতামূলক হুকুম নয়।"
+            "bn": "আক্ষরিক অর্থে আয়াতের শব্দগুলো এমন: তুমি যখন কুরআন পড়ে ফেলো, তখন আশ্রয় চাও। যেন আশ্রয় চাওয়াটা পড়ার পরে। তাবারী জানান, কিছু আরবি ব্যাকরণবিদ ঠিক এভাবেই বুঝেছেন, তবে তাঁদের মতে বাক্যের ক্রম এখানে উল্টানো; আসল অর্থ: আগে আশ্রয় চাও, তারপর পড়ো। তাবারী তাঁদের যুক্তি মানেননি। তাঁর কথা, তা-ই যদি হতো, তবে শয়তান থেকে আশ্রয় চাইলেই পড়া বাধ্যতামূলক হয়ে যেত, অথচ এমন কথা কেউ বলে না। সোজা অর্থ হলো, এখানে শেখানো আর উৎসাহ দেওয়া হচ্ছে, বাধ্যতামূলক হুকুম দেওয়া হচ্ছে না।"
           },
           {
             "en": "So the commentators gloss the opening as when you intend to recite, not when you have finished. Al-Baghawi lines it up with another verse of the same shape — when you rise to prayer, wash your faces (5:6) — where the washing plainly precedes the prayer. Al-Muyassar, as-Sa'di and Ibn Kathir all read it the same way: when you want to read something of the Qur'an. The if-clause fixes the occasion, not the sequence, and the occasion is the moment you are about to begin.",
-            "bn": "তাই তাফসীরকারেরা আয়াতের শুরুকে ব্যাখ্যা করেন এভাবে: যখন তুমি পড়তে চাও, শেষ করার পর নয়। বাগভী একই গড়নের আরেক আয়াতের সঙ্গে মিলিয়ে দেখান, যখন তোমরা নামাযে দাঁড়াও, তখন মুখ ধুয়ে নাও (৫:৬), যেখানে ধোয়াটা স্পষ্টতই নামাযের আগে। মুয়াসসার, সা'দী আর ইবন কাসীর সবাই একইভাবে পড়েন: যখন তুমি কুরআনের কিছু পড়তে চাও। শর্তের অংশটি উপলক্ষটা ঠিক করে দেয়, ক্রম নয়, আর সেই উপলক্ষ হলো শুরু করার ঠিক আগের মুহূর্ত।"
+            "bn": "তাই তাফসীরকারেরা আয়াতের শুরুর অর্থ করেন: যখন তুমি পড়তে চাও; পড়া শেষ হলে নয়। বাগভী একই গড়নের আরেকটি আয়াতের সঙ্গে মিলিয়ে দেখান: যখন তোমরা নামাজে দাঁড়াও, তখন মুখ ধুয়ে নাও (৫:৬)। সেখানে ধোয়াটা যে নামাজের আগে, তা তো স্পষ্ট। মুয়াসসার, সা'দী আর ইবন কাসীর সবাই একইভাবে বুঝেছেন: যখন তুমি কুরআনের কিছু পড়তে চাও। 'যখন' দিয়ে শুরু হওয়া অংশটি কাজের উপলক্ষ ঠিক করে, ক্রম নয়; আর সেই উপলক্ষ হলো পড়া শুরু করার ঠিক আগের মুহূর্ত।"
           }
         ]
       },
@@ -2105,7 +2105,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Yet the plain order did shape a real dispute. Al-Qurtubi records that some of the early Muslims sought refuge after reciting, taking the surface of the verse as their proof, much as another verse says: when you have finished the prayer, remember Allah. He answers that such phrasing need not fix an order — when you speak, be just, or when you enter iḥrām, bathe, which means before it. In every case the meaning is when you intend the thing. So too, he holds, with seeking refuge.",
-            "bn": "তবু এই সোজা ক্রম সত্যিকারের একটা মতভেদ তৈরি করেছে। কুরতুবী উল্লেখ করেন, পূর্ববর্তী কিছু মুসলিম পড়ার পরে আশ্রয় চাইতেন, আয়াতের উপরের অর্থটাকেই দলিল ধরে, যেমন আরেক আয়াত বলে: নামায শেষ করলে আল্লাহকে স্মরণ করো। তিনি জবাব দেন, এমন ভঙ্গি ক্রম ঠিক করে দেয় না। যেমন যখন কথা বলবে, ন্যায্য হয়ো, কিংবা ইহরাম বাঁধলে গোসল করো, মানে তার আগে। প্রতিটি ক্ষেত্রেই অর্থ হলো যখন তুমি কাজটা করতে চাও। আশ্রয় চাওয়ার বেলাতেও তা-ই, তিনি বলেন।"
+            "bn": "তবু শব্দের এই সোজা ক্রম নিয়ে সত্যিই একটা মতভেদ তৈরি হয়েছিল। কুরতুবী উল্লেখ করেন, প্রথম যুগের কিছু মুসলিম তিলাওয়াতের পরে আশ্রয় চাইতেন। দলিল হিসেবে তাঁরা আয়াতের বাহ্যিক অর্থটাই ধরেছিলেন, যেমন আরেক আয়াতে আছে: নামাজ শেষ করলে আল্লাহর জিকির করো। কুরতুবী জবাব দেন, এমন বাক্য দিয়ে ক্রম ঠিক হয়ে যায় না। যেমন বলা হয়, যখন কথা বলবে, ন্যায্য কথা বলো; কিংবা ইহরাম বাঁধলে গোসল করো, যার মানে ইহরামের আগে গোসল। প্রতিটি ক্ষেত্রেই অর্থ হলো, যখন কাজটা করতে চাও। কুরতুবীর মতে আশ্রয় চাওয়ার বেলাতেও তা-ই।"
           },
           {
             "en": "Ibn Kathir names the sides. Seeking refuge after the recitation was held by the reciter Ḥamza and by Abu Ḥātim as-Sijistānī, and an-Nawawi relays the like from Abu Hurayra, Muhammad ibn Sirin and Ibrahim an-Nakha'i, all of them arguing from this very verse. Against them stands the majority — al-Baghawi says most of the scholars — who hold that refuge is sought before beginning. Ibn Kathir judges the first view, seeking it before, to be the sound position.",
@@ -2129,7 +2129,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What of a hadith fixed to this verse? The narration the commentators point toward is Abu Sa'id al-Khudri's account of how the Prophet ﷺ would open the night prayer, seeking refuge in Allah from the accursed Satan and then reciting. But the collectors flag it: at-Tirmidhi reports that Ahmad said this hadith is not authentic and that its chain was criticised, and Abu Dawud notes a slip in it. Since its grading is not sound, no hadith is rested on here; the command stands on the verse.",
-            "bn": "এই আয়াতের সঙ্গে বাঁধা কোনো হাদীস আছে কি? তাফসীরকারেরা যে বর্ণনার দিকে ইশারা করেন তা আবু সাঈদ খুদরীর বর্ণনা, নবী ﷺ কীভাবে রাতের নামায শুরু করতেন, বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চেয়ে তারপর তিলাওয়াত করতেন। কিন্তু সংকলকেরা এতে দাগ দিয়েছেন। তিরমিযী জানান, আহমাদ বলেছেন এই হাদীস সহীহ নয় আর এর সনদ নিয়ে কথা উঠেছে, আবু দাউদও এতে একটি ভুলের কথা বলেন। যেহেতু এর মান সহীহ নয়, এখানে কোনো হাদীসের উপর ভর দেওয়া হয়নি। হুকুমটি দাঁড়িয়ে আছে আয়াতের উপরেই।"
+            "bn": "এই আয়াতের সঙ্গে জোড়া কোনো হাদিস কি আছে? তাফসীরকারেরা যে বর্ণনার দিকে ইশারা করেন, তা আবু সাঈদ খুদরী (রাঃ)-এর বর্ণনা: নবী ﷺ রাতের নামাজ শুরু করতেন বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চেয়ে, তারপর তিলাওয়াত করতেন। কিন্তু হাদিস-সংকলকেরা এ নিয়ে সতর্ক করেছেন। তিরমিযী জানান, আহমাদ বলেছেন এই হাদিস সহীহ নয় এবং এর সনদ নিয়ে আপত্তি আছে; আবু দাউদও এতে একটি ভুলের কথা বলেছেন। এর মান যেহেতু সহীহ নয়, তাই এখানে কোনো হাদিসের ওপর ভর করা হয়নি। হুকুমটি দাঁড়িয়ে আছে আয়াতের ওপরেই।"
           }
         ]
       },
@@ -2141,7 +2141,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di gives the reason with feeling. When you intend to read the Book of Allah — the noblest and greatest of books, in which lies the health of hearts and much knowledge — Satan is never keener on the servant than when he sets out on something excellent. He works to turn the reader away from the aims and meanings of what he reads. The road to safety from his harm, says as-Sa'di, is to take shelter with Allah and seek His protection from that harm.",
-            "bn": "সা'দী কারণটা অনুভব দিয়ে বলেন। আপনি যখন আল্লাহর কিতাব পড়তে চান, যা সবচেয়ে সম্মানিত ও শ্রেষ্ঠ কিতাব, যার মধ্যে অন্তরের সুস্থতা আর বিপুল জ্ঞান, তখন শয়তান বান্দার উপর সবচেয়ে বেশি আগ্রহী হয় যখন সে কোনো উত্তম কাজে নামে। সে চেষ্টা করে পাঠককে যা পড়ছে তার উদ্দেশ্য ও অর্থ থেকে সরিয়ে দিতে। তার ক্ষতি থেকে বাঁচার পথ, সা'দী বলেন, আল্লাহর কাছে আশ্রয় নেওয়া আর সেই ক্ষতি থেকে তাঁর হেফাজত চাওয়া।"
+            "bn": "সা'দী কারণটা বলেন দরদ দিয়ে। আপনি যখন আল্লাহর কিতাব পড়তে চান, যা সবচেয়ে সম্মানিত, সবচেয়ে মহান কিতাব, যাতে আছে অন্তরের আরোগ্য আর অগাধ জ্ঞান, তখন মনে রাখবেন: বান্দা যখন কোনো উত্তম কাজে হাত দেয়, শয়তান তখনকার মতো এত বেশি তার পেছনে আর কখনো লাগে না। সে চেষ্টা করে, পাঠক যা পড়ছে তার উদ্দেশ্য আর অর্থ থেকে তাকে সরিয়ে দিতে। সা'দী বলেন, তার ক্ষতি থেকে বাঁচার পথ হলো আল্লাহর কাছে আশ্রয় নেওয়া আর সেই ক্ষতি থেকে তাঁর হেফাজত চাওয়া।"
           },
           {
             "en": "Ibn Kathir puts the purpose sharply: refuge is sought at the start of reading so the recitation is not muddled and confused for the reader, and so nothing bars him from reflection and thought. Ma'arif al-Qur'an adds a fine point. Recitation is so unique that Satan flees from it; and precisely because of that, the danger is that he steals into the recitation itself — a reader may fall short in its manners, or read it emptied of the deliberation, submission and humility that are its soul.",
