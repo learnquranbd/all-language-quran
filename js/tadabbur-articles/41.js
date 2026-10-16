@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi then reports what the setting out consists of, and gives it under three names. Qatada said the verses were set out by making clear what is lawful from what is unlawful, and obedience to God from disobedience. Al-Hasan said: by the promise and the threat, al-wa'd wa al-wa'id. Sufyan said: by reward and punishment, al-thawab wa al-'iqab. Al-Qurtubi lists the three statements in sequence and does not choose among them, and they are kept that way here. Each saying is brief, a few words naming what is being told apart from what.",
-            "bn": "এরপর কুরতুবী জানান, খুলে বলাটা আসলে কোন কোন বিষয়ে। কথাটা তিনি আনেন তিনজনের নামে। কাতাদা বলেছেন, আয়াতগুলো খুলে বলা হয়েছে হালালকে হারাম থেকে, আর আল্লাহর আনুগত্যকে তাঁর নাফরমানি থেকে আলাদা করে দেখিয়ে। হাসান বলেছেন: ওয়াদা আর হুঁশিয়ারি দিয়ে, আল-ওয়া'দ ওয়াল-ওয়াঈদ। সুফিয়ান বলেছেন: সওয়াব আর শাস্তি দিয়ে, আস-সাওয়াব ওয়াল-ইকাব। কুরতুবী তিনটি কথা পরপর সাজিয়ে দেন, কোনোটিকে বেছে নেন না। এখানেও সেভাবেই রাখা হলো। প্রতিটি কথাই ছোট, অল্প কয়েকটি শব্দে বলা, কোনটাকে কোনটা থেকে আলাদা করা হলো।"
+            "bn": "এরপর কুরতুবী জানান, খুলে বলাটা আসলে কোন কোন বিষয়ে। কথাটা তিনি আনেন তিনজনের নামে। কাতাদা বলেছেন, আয়াতগুলো খুলে বলা হয়েছে হালালকে হারাম থেকে, আর আল্লাহর আনুগত্যকে তাঁর নাফরমানি থেকে আলাদা করে দেখিয়ে। হাসান বলেছেন: ওয়াদা আর হুঁশিয়ারি দিয়ে, আল-ওয়া'দ ওয়াল-ওয়াঈদ। সুফিয়ান বলেছেন: সওয়াব আর শাস্তি দিয়ে, আস-সাওয়াব ওয়াল-ইকাব। কুরতুবী তিনটি কথা পরপর সাজিয়ে দেন, কোনোটিকে বেছে নেন না। এখানেও সেভাবেই রাখা হলো। প্রতিটি কথাই ছোট: অল্প কয়েকটি শব্দে বলে দেওয়া, কোন জিনিসকে কোন জিনিস থেকে আলাদা করা হচ্ছে।"
           },
           {
             "en": "Placed side by side, the three statements share a shape. Each names a pair of opposites, and each makes the setting out a matter of drawing a line between them. Qatada's line runs through conduct, what may be done and what may not. Al-Hasan's runs through what God has said He will do, in promise and in warning. Sufyan's runs through the outcome, what is gained and what is suffered. A reader who keeps all three in view holds the verses to a demanding standard of clarity.",
-            "bn": "তিনটি কথা পাশাপাশি রাখলে একটা মিল চোখে পড়ে। প্রতিটিতে আছে বিপরীত দুই জিনিসের জোড়া, আর প্রতিটিতেই খুলে বলা মানে দুয়ের মাঝখানে রেখা টেনে দেওয়া। কাতাদার রেখা আমলের ভেতর দিয়ে যায়: কী করা যায়, কী যায় না। হাসানের রেখা যায় আল্লাহ নিজে যা করবেন বলে জানিয়েছেন তার ভেতর দিয়ে, ওয়াদায় ও হুঁশিয়ারিতে। সুফিয়ানের রেখা যায় পরিণামের ভেতর দিয়ে: কী মিলবে, কী ভুগতে হবে। তিনটিকে একসঙ্গে চোখের সামনে রাখলে আয়াতগুলোর স্পষ্টতার মাপকাঠি অনেক উঁচুতে ওঠে।"
+            "bn": "তিনটি কথা পাশাপাশি রাখলে একটা মিল চোখে পড়ে। প্রতিটিতে আছে বিপরীত দুই জিনিসের জোড়া, আর প্রতিটিতেই খুলে বলা মানে দুয়ের মাঝখানে রেখা টেনে দেওয়া। কাতাদার রেখা আমলের ভেতর দিয়ে যায়: কী করা যায়, কী যায় না। হাসানের রেখা যায় আল্লাহ নিজে যা করবেন বলে জানিয়েছেন তার ভেতর দিয়ে, ওয়াদায় ও হুঁশিয়ারিতে। সুফিয়ানের রেখা যায় পরিণামের ভেতর দিয়ে: কী মিলবে, কী ভুগতে হবে। যে পাঠক তিনটিকেই একসঙ্গে মনে রাখেন, তিনি আয়াতগুলোর স্পষ্টতাকে মাপেন খুব উঁচু মাপকাঠিতে।"
           }
         ]
       },
@@ -69,7 +69,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di opens his comment by saying that God here praises the Book for the completeness of its clarity. He reads fussilat as every kind of thing being set apart on its own, 'ala hidatihi. That, he says, carries with it full clarity, a separating of each thing from the next, and tamyiz al-haqa'iq, the telling apart of realities. His gloss is wider than the three pairs. It speaks of things generally being given their own place, and of realities that the reader can then see distinctly.",
-            "bn": "সা'দী তাঁর ব্যাখ্যা শুরু করেন এ কথা দিয়ে যে, আল্লাহ এখানে কিতাবের প্রশংসা করছেন তার স্পষ্টতার পূর্ণতার জন্য। ফুসসিলাত-এর অর্থ তিনি করেন: প্রতিটি জিনিসকে তার ধরন অনুযায়ী আলাদা করে নিজ জায়গায় রাখা হয়েছে, আলা হিদাতিহি। তাঁর মতে এর মধ্যেই আছে পূর্ণ স্পষ্টতা, প্রতিটি জিনিসকে অন্যটি থেকে আলাদা করা, আর তামঈযুল হাকাইক, অর্থাৎ বাস্তবতাগুলোকে একটা থেকে আরেকটা চিনিয়ে দেওয়া। তাঁর ব্যাখ্যা ওই তিনটি জোড়ার চেয়ে প্রশস্ত। এখানে সাধারণভাবে সব জিনিসের নিজ জায়গা পাওয়ার কথা, আর এমন বাস্তবতার কথা যা পাঠক তখন আলাদা করে দেখতে পায়।"
+            "bn": "সা'দী শুরুতেই বলেন, আল্লাহ এখানে কিতাবের প্রশংসা করছেন, কারণ এর স্পষ্টতা পূর্ণাঙ্গ। ফুসসিলাত-এর অর্থ তিনি করেন: প্রতিটি জিনিসকে তার ধরন অনুযায়ী আলাদা করে নিজ জায়গায় রাখা হয়েছে, আলা হিদাতিহি। তাঁর মতে এর মধ্যেই আছে পূর্ণ স্পষ্টতা, প্রতিটি জিনিসকে অন্যটি থেকে আলাদা করা, আর তামঈযুল হাকাইক, অর্থাৎ বাস্তবতাগুলোকে একটা থেকে আরেকটা চিনিয়ে দেওয়া। তাঁর ব্যাখ্যা ওই তিন জোড়ার চেয়ে প্রশস্ত। এতে আছে সব জিনিসকে যার যার জায়গা দেওয়ার কথা, আর এমন বাস্তবতার কথা, যেগুলো পাঠক তখন আলাদা আলাদা করে দেখতে পান।"
           },
           {
             "en": "Al-Qurtubi also notes that the verb has been read in another way, and he gives two meanings for that reading. Either the verses divide between truth and falsehood, or they are set apart from one another by their differing meanings. He takes the second from the ordinary use of fasala for someone who moves away from a town. The fetched text does not name who recited it so, and it is not pursued further here. Al-Qurtubi gives both meanings without preferring either. Both stay close to the main gloss: clarity reached by separation.",
@@ -85,7 +85,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qur'anan 'arabiyyan: an Arabic Qur'an. Ibn Kathir reads it as Arabic wording, clear and plain, and draws the two halves of the verse together: its meanings are set out in detail, and its words are clear and free of confusion. He adds that it is inimitable in both its wording and its meaning. He cites a later verse of this surah, 41:42: falsehood does not come to it from before it or from behind it, a revelation from the Wise, the Praiseworthy. On his reading, the Arabic and the clarity belong together.",
-            "bn": "কুরআনান আরাবিয়্যান: আরবী কুরআন। ইবন কাসীরের ব্যাখ্যায় এর মানে আরবী শব্দে, পরিষ্কার ও সুস্পষ্ট। আয়াতের দুই অংশকে তিনি এক সুতোয় গাঁথেন। এর অর্থগুলো বিস্তারিত খুলে বলা, আর এর শব্দগুলো পরিষ্কার, কোনো জটিলতা নেই। তিনি আরও বলেন, শব্দে ও অর্থে, দুদিক থেকেই এ কিতাব অতুলনীয়, এর নজির কেউ আনতে পারে না। তিনি উদ্ধৃত করেন এ সূরারই পরের এক আয়াত, ৪১:৪২: বাতিল এর কাছে আসতে পারে না সামনে থেকেও না, পেছন থেকেও না। এ বাণী নাযিল হয়েছে প্রজ্ঞাময়, প্রশংসিতের পক্ষ থেকে। তাঁর পাঠে আরবী ভাষা আর স্পষ্টতা একসঙ্গে চলে।"
+            "bn": "কুরআনান আরাবিয়্যান: আরবী কুরআন। ইবন কাসীরের ব্যাখ্যায় এর মানে: আরবী শব্দমালা, পরিষ্কার ও সুস্পষ্ট। আয়াতের দুই অংশকে তিনি এক সুতোয় গাঁথেন: এর অর্থগুলো বিস্তারিত খুলে বলা, আর এর শব্দগুলো পরিষ্কার, কোনো জটিলতা নেই। তিনি আরও বলেন, শব্দে ও অর্থে, দুদিক থেকেই এ কিতাব অতুলনীয়, এর নজির কেউ আনতে পারে না। তিনি উদ্ধৃত করেন এ সূরারই পরের এক আয়াত, ৪১:৪২: বাতিল এর কাছে আসতে পারে না, সামনে থেকেও না, পেছন থেকেও না। এ বাণী নাজিল হয়েছে প্রজ্ঞাময়, প্রশংসিতের পক্ষ থেকে। তাঁর পাঠে আরবী ভাষা আর স্পষ্টতা একসঙ্গে চলে।"
           },
           {
             "en": "As-Sa'di describes the Arabic as al-lugha al-fusha, the most eloquent speech, and calls Arabic the most complete of languages. The Muyassar adds a word about the reader's side: an Arabic Qur'an whose understanding has been made easy, muyassaran fahmuhu. The commentators thus join the language to the clarity. The verses were set out, and they were set out in a tongue whose words, on Ibn Kathir's reading, carry no confusion, so that what is distinguished in meaning is also plain in expression.",
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Each of those senses asks something of the person who opens the Qur'an. Knowing the tongue asks for effort with the language. Being grounded in knowledge asks for patience and for the company of those who have it. Wanting the meaning to become as clear as the wording, in as-Sa'di's phrase, asks for slow reading. Intending to ponder, in Ma'arif's phrase, asks for a turned heart. The verse holds out the Book as already clear. What it waits for is the reader who comes in order to know.",
-            "bn": "জানার এসব অর্থের প্রতিটিই কুরআন খোলা মানুষটার কাছে কিছু না কিছু চায়। ভাষা জানার অর্থ চায় ভাষার পেছনে খাটুনি। জ্ঞানে দৃঢ় হওয়ার অর্থ চায় ধৈর্য, আর যাঁদের সে জ্ঞান আছে তাঁদের সাহচর্য। সা'দীর কথামতো শব্দের মতো অর্থও স্পষ্ট হোক, এ চাওয়া দাবি করে ধীরে পড়া। মাআরিফুলের কথামতো ভেবে দেখার নিয়ত দাবি করে কুরআনের দিকে ফেরানো একটা মন। আয়াত কিতাবকে সামনে রাখে আগে থেকেই স্পষ্ট অবস্থায়। সে অপেক্ষা করে এমন পাঠকের জন্য, যে আসে জানার জন্য।"
+            "bn": "জানার এই প্রতিটি অর্থই কুরআন হাতে নেওয়া মানুষটির কাছে কিছু না কিছু চায়। ভাষা জানতে হলে ভাষার পেছনে খাটতে হয়। জ্ঞানে দৃঢ় হতে হলে চাই ধৈর্য, আর যাঁদের সে জ্ঞান আছে তাঁদের সঙ্গ। সা'দীর কথামতো শব্দের মতো অর্থও স্পষ্ট হোক, এমন চাওয়া থাকলে পড়তে হয় ধীরে। মাআরিফের কথামতো ভেবে দেখার নিয়ত থাকলে চাই এমন একটা মন, যা কুরআনের দিকে ফিরেছে। আয়াত কিতাবকে সামনে রাখে আগে থেকেই স্পষ্ট অবস্থায়। অপেক্ষা শুধু এমন পাঠকের, যিনি আসেন জানার জন্য।"
           }
         ]
       }
@@ -165,7 +165,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verb qada carries the weight here. Al-Qurtubi glosses it as He completed them and finished them, and adds a second reading, it is said: He made them firm and well wrought. For that sense he cites a line of the poet Abu Dhu'ayb al-Hudhali about two coats of mail that Dawud (AS) had qada, finished with skill. Al-Baghawi has He completed them and finished their creation. At-Tabari says He finished creating them as seven heavens, and the Muyassar speaks of the creation and proportioning of the seven heavens.",
-            "bn": "এখানে মূল ভার বহন করছে কাদা ক্রিয়াটি। কুরতুবী এর অর্থ করেন: তিনি সেগুলো পূর্ণ করলেন, কাজ শেষ করলেন। 'বলা হয়' কথাটি দিয়ে তিনি দ্বিতীয় একটি অর্থও আনেন: তিনি সেগুলোকে মজবুত ও নিখুঁত করে গড়লেন। এই অর্থের সমর্থনে তিনি কবি আবু যুয়াইব আল-হুযালীর একটি পঙক্তি উদ্ধৃত করেন। সেখানে দুটি বর্মের কথা আছে, যা দাউদ (আঃ) দক্ষ হাতে তৈরি করে শেষ করেছিলেন, কবি সেখানে কাদা শব্দই ব্যবহার করেছেন। বাগাভী বলেন, তিনি সেগুলো পূর্ণ করলেন এবং সৃষ্টির কাজ শেষ করলেন। তাবারীর ভাষায়, তিনি সাতটি আসমানরূপে সেগুলোর সৃষ্টি সমাপ্ত করলেন। মুয়াসসার বলে, সাতটি আসমানের সৃষ্টি ও বিন্যাসের কাজ তিনি সম্পন্ন করলেন।"
+            "bn": "এখানে আসল কথাটা কাদা ক্রিয়ার মধ্যে। কুরতুবী এর অর্থ করেন: তিনি সেগুলো পূর্ণ করলেন, কাজ শেষ করলেন। 'বলা হয়' কথাটি দিয়ে তিনি দ্বিতীয় একটি অর্থও আনেন: তিনি সেগুলোকে মজবুত ও নিখুঁত করে গড়লেন। এই অর্থের সমর্থনে তিনি কবি আবু যুয়াইব আল-হুযালীর একটি পঙক্তি উদ্ধৃত করেন। পঙক্তিটি দুটি বর্ম নিয়ে, যেগুলো দাউদ (আঃ) দক্ষ হাতে বানিয়ে শেষ করেছিলেন। সে কাজ বোঝাতে কবি কাদা শব্দটিই ব্যবহার করেছেন। বাগাভী বলেন, তিনি সেগুলো পূর্ণ করলেন এবং সৃষ্টির কাজ শেষ করলেন। তাবারীর ভাষায়, তিনি সাতটি আসমানরূপে সেগুলোর সৃষ্টি সমাপ্ত করলেন। মুয়াসসার বলে, সাতটি আসমানের সৃষ্টি ও বিন্যাসের কাজ তিনি সম্পন্ন করলেন।"
           }
         ]
       },
@@ -201,14 +201,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That restraint is worth keeping. The verse does not ask the reader to time the stars or to map its days onto anything else. It asks the reader to notice that He who could have spoken everything into being at once chose order, stages and completion. The word qada already says it: the work was brought to its end and made firm. A believer who learns this about the heavens may learn patience with the stages of smaller things, where Allah also measures and does not hurry.",
-            "bn": "এই সংযমটুকু ধরে রাখার মতো। আয়াতটি পাঠককে তারার সময় মাপতে বলে না, এর দিনগুলোকে অন্য কোনো কিছুর সঙ্গে মিলিয়ে দেখতেও বলে না। আয়াত শুধু দেখাতে চায়: যিনি চাইলে এক কথায় সবকিছু অস্তিত্বে আনতে পারতেন, তিনি বেছে নিয়েছেন শৃঙ্খলা, ধাপ আর পূর্ণতা। কাদা শব্দটাই তা বলে দেয়, কাজ শেষ পর্যন্ত পৌঁছানো হয়েছে, মজবুত করা হয়েছে। আসমান সম্পর্কে এ কথা যে মুমিন শেখে, ছোটখাটো বিষয়ের ধাপগুলোতেও সে ধৈর্য শিখতে পারে। সেখানেও আল্লাহ মেপে চলেন, তাড়াহুড়ো করেন না।"
+            "bn": "এই সংযমটুকু ধরে রাখার মতো। আয়াতটি পাঠককে তারার সময় মাপতে বলে না, এর দিনগুলোকে অন্য কোনো কিছুর সঙ্গে মিলিয়ে দেখতেও বলে না। আয়াত শুধু দেখাতে চায়: যিনি চাইলে এক কথায় সবকিছু অস্তিত্বে আনতে পারতেন, তিনি বেছে নিয়েছেন শৃঙ্খলা, ধাপ আর পূর্ণতা। কাদা শব্দটাই তা বলে দেয়: কাজটি শেষ পর্যন্ত নেওয়া হয়েছে, মজবুত করে গড়া হয়েছে। আসমানের ব্যাপারে এ শিক্ষা যে মুমিন পায়, সে ছোটখাটো বিষয়ের ধাপগুলোতেও ধৈর্য ধরতে শিখতে পারে। সেখানেও আল্লাহ মেপে চলেন, তাড়াহুড়ো করেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "Narrations With Their Caveats",
-          "bn": "সতর্কবাণীসহ বর্ণনাগুলো"
+          "bn": "আপত্তিসহ বর্ণনাগুলো"
         },
         "p": [
           {
@@ -229,7 +229,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa awha fi kulli sama'in amraha: and He inspired in each heaven its command. The commentators give several glosses, and the fetched texts leave them side by side. The first reads amr as command. At-Tabari reports from Mujahid that it means what Allah commanded and willed. Al-Baghawi reports from Muqatil that He made known to each heaven what He willed of command and prohibition. As-Sa'di explains it as the command and management fitting each heaven, required by the wisdom of the Wisest of judges.",
-            "bn": "ওয়া আওহা ফী কুল্লি সামাইন আমরাহা: আর প্রত্যেক আসমানে তিনি তার হুকুম ওহীর মাধ্যমে জানিয়ে দিলেন। তাফসীরকারেরা এর কয়েকটি ব্যাখ্যা দেন, আর আমাদের দেখা তাফসীরগুলো সেগুলোকে পাশাপাশিই রেখে দেয়। প্রথম ব্যাখ্যায় আমর মানে আদেশ। তাবারী মুজাহিদ থেকে বর্ণনা করেন: আল্লাহ যা আদেশ করেছেন আর যা চেয়েছেন। বাগাভী মুকাতিল থেকে আনেন: প্রত্যেক আসমানকে তিনি তাঁর ইচ্ছামতো আদেশ ও নিষেধ জানিয়ে দিলেন। সা'দীর ব্যাখ্যায় এ হল প্রত্যেক আসমানের উপযোগী হুকুম ও পরিচালনা, যা সবচেয়ে বড় বিচারকের হিকমত দাবি করেছে।"
+            "bn": "ওয়া আওহা ফী কুল্লি সামাইন আমরাহা: আর প্রত্যেক আসমানে তিনি তার হুকুম ওহির মাধ্যমে জানিয়ে দিলেন। তাফসীরকারেরা এর কয়েকটি ব্যাখ্যা দেন, আর আমাদের দেখা তাফসীরগুলো সেগুলোকে পাশাপাশিই রেখে দেয়। প্রথম ব্যাখ্যায় আমর মানে আদেশ। তাবারী মুজাহিদ থেকে বর্ণনা করেন: আল্লাহ যা আদেশ করেছেন আর যা চেয়েছেন। বাগাভী মুকাতিল থেকে আনেন: প্রত্যেক আসমানকে তিনি তাঁর ইচ্ছামতো আদেশ ও নিষেধ জানিয়ে দিলেন। সা'দীর ব্যাখ্যায় এ হলো প্রত্যেক আসমানের উপযোগী হুকুম ও পরিচালনা, শ্রেষ্ঠ বিচারকের হিকমত যা দাবি করে।"
           },
           {
             "en": "A second gloss reads it as what He placed in each heaven. As-Suddi, in at-Tabari, says He created in each heaven its creatures from among the angels, and what is in it of seas and mountains of hail, and what is not known. Al-Baghawi gives the same from 'Ata' from Ibn 'Abbas (RA). Qatadah says He created in it its sun, moon and stars and what sets it right. Ibn Kathir says He arranged in each heaven what it needs of angels and of things known only to Him. At-Tabari's own summary: He placed in each heaven what He willed to create.",
@@ -273,7 +273,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di frames it as an apparent conflict, adding that the Book of Allah has no contradiction in it. He gives the answer of many of the early generations: the creation of the earth and its form came before the heavens, as here, while its spreading, explained in 79:31 as bringing out its water and pasture, came after, as in Surat an-Nazi'at. He notes that the verse there says He spread it after that, and not that He created it after that.",
-            "bn": "সা'দী একে বলেন বাহ্যিক বিরোধ, আর সঙ্গে যোগ করেন যে আল্লাহর কিতাবে কোনো বিরোধ নেই। তিনি সালাফের অনেকের জবাব উল্লেখ করেন: যমীনের সৃষ্টি ও তার আকৃতি আসমানের আগে, যেমন এখানে বলা হয়েছে। আর তাকে বিস্তৃত করা, যা ৭৯:৩১ আয়াতে ব্যাখ্যা করা হয়েছে পানি ও চারণভূমি বের করা দিয়ে, তা হয়েছে পরে, যেমন সূরা নাযি'আতে আছে। তিনি খেয়াল করিয়ে দেন, সেখানে বলা হয়েছে এরপর তিনি তা বিস্তৃত করলেন, এ কথা বলা হয়নি যে এরপর তিনি তা সৃষ্টি করলেন।"
+            "bn": "সা'দী একে বলেন বাহ্যিক বিরোধ, আর সঙ্গে যোগ করেন যে আল্লাহর কিতাবে কোনো বিরোধ নেই। তিনি সালাফের অনেকের জবাব উল্লেখ করেন: যমীনের সৃষ্টি ও তার আকৃতি আসমানের আগে, যেমন এখানে বলা হয়েছে। আর যমীনকে বিস্তৃত করা হয়েছে পরে, যেমন সূরা নাযি'আতে আছে। ৭৯:৩১ আয়াত এই বিস্তারের ব্যাখ্যা দেয়: তা থেকে পানি ও চারণভূমি বের করা। তিনি খেয়াল করিয়ে দেন, সেখানে বলা হয়েছে এরপর তিনি তা বিস্তৃত করলেন, এ কথা বলা হয়নি যে এরপর তিনি তা সৃষ্টি করলেন।"
           },
           {
             "en": "Ibn Kathir says the earth came first as a foundation comes before a roof, and cites 2:29. He then gives the answer of Ibn 'Abbas (RA), which he says al-Bukhari recorded in his Sahih, to a man troubled by these verses: the earth in two days, then the heavens in two, then the spreading of the earth in two more, so the earth and what is in it took four days. This is a Companion's explanation, not a saying of the Prophet ﷺ. The article reports these answers as theirs and adds none of its own.",
@@ -385,7 +385,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Read the glosses again and the same qualifier is there. As-Suddi says ill-omened for them, 'alayhim. Qatada says ill-omened upon the people. Al-Muyassar writes days ill-omened for them, and Ibn Kathir a day that was ill-omened for them. The phrase speaks of what those days were to 'Ad, with the wind sent upon them, and gives no ground for marking a weekday or a date as unlucky. Ma'arif refers the wider question, whether anything can be ill-omened by its nature, to its author's Ahkam al-Qur'an, which was not consulted here.",
-            "bn": "অর্থগুলো আবার পড়ুন, একই শর্ত সেখানেও পাবেন। সুদ্দী বলেন: তাদের জন্য অশুভ, ‘আলাইহিম। কাতাদা বলেন: সেই জাতির জন্য অশুভ। মুয়াসসার লেখে: তাদের জন্য অশুভ দিন। ইবন কাসীর লেখেন: এমন দিন, যা তাদের জন্য অশুভ ছিল। কথাটা তাই ‘আদের কাছে সেই দিনগুলো কী ছিল, তা নিয়ে, যখন তাদের উপর বাতাস পাঠানো হয়েছিল। সপ্তাহের কোনো বার বা কোনো তারিখকে অশুভ ধরার ভিত্তি এখানে নেই। কোনো কিছু স্বভাবগতভাবে অশুভ হতে পারে কি না, এই বড় প্রশ্নের জন্য মাআরিফ লেখকের আহকামুল কুরআনের কথা বলে। সেটি এখানে দেখা হয়নি।"
+            "bn": "অর্থগুলো আবার পড়ুন, দেখবেন সবগুলোতে একই কথা জুড়ে আছে: তাদের জন্য। সুদ্দী বলেন: তাদের জন্য অশুভ, ‘আলাইহিম। কাতাদা বলেন: সেই জাতির জন্য অশুভ। মুয়াসসার লেখে: তাদের জন্য অশুভ দিন। ইবন কাসীর লেখেন: এমন দিন, যা তাদের জন্য অশুভ ছিল। অর্থাৎ কথাটা ‘আদকে নিয়ে: তাদের উপর যখন বাতাস পাঠানো হলো, সেই দিনগুলো তাদের জন্য কী ছিল। সপ্তাহের কোনো বার বা কোনো তারিখকে অশুভ ধরার ভিত্তি এখানে নেই। কোনো কিছু স্বভাবগতভাবেই অশুভ হতে পারে কি না, এই বড় প্রশ্নের জন্য মাআরিফ পাঠককে পাঠায় লেখকের নিজের বই আহকামুল কুরআনে। সে বই এখানে দেখা হয়নি।"
           },
           {
             "en": "How long the wind lasted, this verse does not say. Ibn Kathir and as-Sa'di both bring in 69:7, sakhkharaha 'alayhim sab'a layalin wa thamaniyata ayyamin husuma: He imposed it on them for seven nights and eight days in succession. As-Sa'di quotes the rest of that verse, the people lying felled as though they were hollow trunks of palm trees, and adds that it destroyed them until nothing of them could be seen but their dwellings. Al-Baghawi and al-Qurtubi report from ad-Dahhak that Allah had held back the rain from them for three years, while the winds kept blowing without rain.",
@@ -425,7 +425,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The narration sets two winds in one breath, one bringing help and one bringing ruin. The verse supplies what the narration leaves out: the cold, the roar, the force and the days. In neither text is the wind chance weather, for the verse says arsalna, We sent it. Neither text, though, gives the reader a key for reading the winds of today, and the last section turns to that.",
-            "bn": "বর্ণনাটি এক নিঃশ্বাসে দুটি বাতাসের কথা বলে। একটি এনেছিল সাহায্য, অন্যটি ধ্বংস। বর্ণনায় যা নেই, আয়াত তা জানায়: ঠান্ডা, গর্জন, প্রচণ্ডতা আর সেই দিনগুলো। কোনো পাঠেই বাতাসটা আকস্মিক আবহাওয়া নয়। আয়াত বলছে আরসালনা, আমি পাঠিয়েছি। তবু আজকের বাতাস দেখে কিছু পড়ে নেওয়ার চাবি এ দুটির কোনোটিই পাঠকের হাতে দেয় না। শেষ অংশ সেই কথাতেই।"
+            "bn": "বর্ণনাটি এক নিঃশ্বাসে দুটি বাতাসের কথা বলে। একটি এনেছিল সাহায্য, অন্যটি ধ্বংস। বর্ণনায় যা নেই, আয়াত তা জানায়: ঠান্ডা, গর্জন, প্রচণ্ডতা আর সেই দিনগুলো। বর্ণনা হোক বা আয়াত, কোথাও বাতাসটা নিছক আকস্মিক আবহাওয়া নয়, কারণ আয়াত বলছে আরসালনা, আমি পাঠিয়েছি। তবু আজকের বাতাস দেখে কিছু পড়ে নেওয়ার চাবি এ দুটির কোনোটিই পাঠকের হাতে দেয় না। শেষ অংশে সেই কথা।"
           }
         ]
       },
@@ -441,7 +441,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the verse leaves the reader is a mirror. 'Ad trusted their strength, and Ibn Kathir saw the punishment come in the kind of that strength. Whatever we lean on, health, wealth, numbers or cleverness, is held on loan. The verse also weighs two disgraces and calls the second greater: being shamed before people in this life, and being disgraced in the Hereafter with no helper. A reader who fears the second more, and checks the heart for the quiet question who is stronger than me, has taken the verse where it points.",
-            "bn": "পাঠকের জন্য আয়াত রেখে যায় একটি আয়না। ‘আদ ভরসা করেছিল নিজেদের শক্তির উপর, আর ইবন কাসীর দেখেছেন শাস্তি এসেছে সেই শক্তিরই জাতে। আমরা যার উপর ভর দিই, স্বাস্থ্য, সম্পদ, লোকবল বা বুদ্ধি, সবই ধার করা। আয়াত দুটি লাঞ্ছনাকে পাশাপাশি মাপে, আর দ্বিতীয়টিকে বলে বড়। একটি দুনিয়াতে মানুষের সামনে অপদস্থ হওয়া। অন্যটি আখিরাতে, যেখানে কোনো সাহায্যকারী নেই। যে পাঠক দ্বিতীয়টিকে বেশি ভয় করেন, আর নিজের মনে খোঁজেন সেই চুপচাপ প্রশ্নটা, আমার চেয়ে শক্তিশালী কে, তিনি আয়াতকে নিয়ে গেছেন সেখানেই, যেদিকে আয়াত ইঙ্গিত করে।"
+            "bn": "পাঠকের জন্য আয়াত রেখে যায় একটি আয়না। ‘আদ ভরসা করেছিল নিজেদের শক্তির উপর, আর ইবন কাসীর দেখেছেন শাস্তি এসেছে সেই শক্তিরই জাতে। আমরা যার উপর ভর দিই, স্বাস্থ্য, সম্পদ, লোকবল বা বুদ্ধি, সবই ধার করা। আয়াত দুটি লাঞ্ছনাকে পাশাপাশি মাপে, আর দ্বিতীয়টিকে বলে বড়। একটি দুনিয়াতে মানুষের সামনে অপদস্থ হওয়া। অন্যটি আখিরাতে, যেখানে কোনো সাহায্যকারী নেই। যে পাঠক দ্বিতীয়টিকেই বেশি ভয় করেন, আর নিজের মনে খুঁজে দেখেন চুপিচুপি সেই প্রশ্নটা জাগছে কি না, আমার চেয়ে শক্তিশালী কে, তিনিই আয়াতের ইশারা ধরতে পেরেছেন।"
           }
         ]
       }
@@ -468,7 +468,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Whose Voice Is This?",
-          "bn": "কথাটা কার মুখে"
+          "bn": "কথাটা কার মুখে?"
         },
         "p": [
           {
@@ -477,7 +477,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi leaves the speaker open. It is possible, he says, that these are the words of the limbs to their owners, and it is possible that they are the words of Allah, or of the angels. The grammar allows all three, since the verse simply says 'you'. So Ibn Kathir names the limbs, while al-Qurtubi allows three speakers without choosing. The difference changes the tone more than the content: the same charge, spoken either by the body that was used or from above it.",
-            "bn": "কুরতুবী বক্তার প্রশ্ন খোলা রাখেন। তাঁর কথায়, হতে পারে এগুলো অঙ্গপ্রত্যঙ্গের কথা, তাদের মালিকদের উদ্দেশে। আবার হতে পারে আল্লাহর কথা, কিংবা ফেরেশতাদের। আয়াত শুধু 'তোমরা' বলে, তাই ভাষার দিক থেকে তিনটিই চলে। ইবন কাসীর তাই নির্দিষ্ট করে অঙ্গপ্রত্যঙ্গের নাম বলেন, আর কুরতুবী কোনোটি বেছে না নিয়ে তিন বক্তারই সুযোগ রাখেন। এই মতভেদে বিষয় বদলায় না, বদলায় সুর। অভিযোগ একটাই। হয় তা আসছে সেই শরীর থেকে, যাকে কাজে লাগানো হয়েছিল, নয়তো তার উপর থেকে।"
+            "bn": "কুরতুবী বক্তার প্রশ্ন খোলা রাখেন। তাঁর কথায়, হতে পারে এগুলো অঙ্গপ্রত্যঙ্গের কথা, তাদের মালিকদের উদ্দেশে। আবার হতে পারে আল্লাহর কথা, কিংবা ফেরেশতাদের। আয়াত শুধু 'তোমরা' বলে, তাই ভাষার দিক থেকে তিনটিই চলে। মোটকথা, ইবন কাসীর বক্তা হিসেবে অঙ্গপ্রত্যঙ্গের নাম বলেন, আর কুরতুবী কোনোটি বেছে না নিয়ে তিন বক্তারই সুযোগ রাখেন। এই মতভেদে বিষয় বদলায় না, বদলায় সুর। অভিযোগ একটাই। হয় তা আসছে সেই শরীর থেকে, যাকে কাজে লাগানো হয়েছিল, নয়তো তার উপর থেকে।"
           }
         ]
       },
@@ -504,7 +504,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Can Anyone Hide From Himself?",
-          "bn": "নিজের কাছ থেকে কি লুকানো যায়"
+          "bn": "নিজের কাছ থেকে কি লুকানো যায়?"
         },
         "p": [
           {
@@ -529,7 +529,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir puts it as a belief about extent: you did not believe that He knows all of your deeds. The word kathiran carries that. The thought was not that Allah knows nothing, but that a large part escapes Him. Al-Qurtubi adds what followed: so you argued over it, until your limbs testified against you with your deeds. Ma'arif al-Qur'an calls the assumption false against an evident matter, since any intelligent person could see that He who created him and gave him hearing and sight will know his deeds. What the thought led to is the next verse's subject.",
-            "bn": "ইবন কাসীর একে দেখেন আল্লাহর জ্ঞানের পরিধি নিয়ে এক বিশ্বাস হিসেবে: তোমরা বিশ্বাস করতে না যে তিনি তোমাদের সব কাজ জানেন। কাসীরান শব্দটাই এ কথা বহন করে। ধারণাটা এমন ছিল না যে আল্লাহ কিছুই জানেন না। ধারণা ছিল, অনেকটাই তাঁর অগোচরে থেকে যায়। কুরতুবী এর পরের ঘটনাও জুড়ে দেন: তাই তোমরা এ নিয়ে তর্ক করলে, শেষে তোমাদের অঙ্গই তোমাদের কাজের সাক্ষ্য দিল। মাআরিফুল কুরআন বলে, এ ধারণা স্পষ্ট সত্যের বিপরীত। যিনি তাকে সৃষ্টি করলেন, শোনার আর দেখার শক্তি দিলেন, তিনি তার কাজ জানবেন না, এটা যেকোনো বুদ্ধিমান মানুষই বুঝত। ধারণাটা তাদের কোথায় নিল, সেটা পরের আয়াতের বিষয়।"
+            "bn": "ইবন কাসীর একে দেখেন আল্লাহর জ্ঞানের পরিধি নিয়ে এক বিশ্বাস হিসেবে: তোমরা বিশ্বাস করতে না যে তিনি তোমাদের সব কাজ জানেন। কাসীরান শব্দটাই এ কথা বহন করে। ধারণাটা এমন ছিল না যে আল্লাহ কিছুই জানেন না। ধারণা ছিল, অনেকটাই তাঁর অগোচরে থেকে যায়। কুরতুবী এর পরের ঘটনাও জুড়ে দেন: তাই তোমরা এ নিয়ে তর্ক করলে, শেষে তোমাদের অঙ্গই তোমাদের কাজের সাক্ষ্য দিল। মাআরিফুল কুরআন বলে, এ ধারণা মিথ্যা, একটা সুস্পষ্ট বিষয়ের বিপরীত। যিনি মানুষকে সৃষ্টি করেছেন, শোনার আর দেখার শক্তি দিয়েছেন, তিনি যে তার কাজ জানবেন, যেকোনো বুদ্ধিমান মানুষই তা বুঝতে পারে। ধারণাটা তাদের কোথায় নিল, সেটা পরের আয়াতের বিষয়।"
           }
         ]
       },
