@@ -26,7 +26,8 @@ const KIDS_BEST_KEYS = {
   firstletter: 'kidsFirstLetterBest',
   countstars: 'kidsCountStarsBest',
   digitmatch: 'kidsDigitMatchBest',
-  meaningmatch: 'kidsMeaningMatchBest'
+  meaningmatch: 'kidsMeaningMatchBest',
+  soundpair: 'kidsSoundPairBest'
 };
 
 // How many dots (i'jam) each of the 28 letters carries — pure letter fact,
@@ -65,6 +66,11 @@ const KIDS_EXTRA_QUIZ_L10N = {
     title:  { en: 'Number Reader', bn: 'সংখ্যা পড়া', zh: '数字阅读', ja: '数字リーダー', ar: 'قارئ الأرقام', ur: 'عدد خواں', hi: 'अंक पढ़ने वाला', id: 'Pembaca Angka', es: 'Lector de números', fr: 'Lecteur de nombres', ru: 'Читаем числа', de: 'Zahlen-Leser', tr: 'Sayı Okuyucu', fa: 'عددخوان', ms: 'Pembaca Nombor' },
     desc:   { en: 'Read the Arabic number word, pick its digit', bn: 'আরবি সংখ্যার শব্দ পড়ে অঙ্কটি বাছাই করো', zh: '读阿拉伯语数词，选出数字', ja: 'アラビア語の数の言葉を読んで数字を選ぼう', ar: 'اقرأ اسم العدد واختر رقمه', ur: 'عربی عدد کا لفظ پڑھو اور ہندسہ چنو', hi: 'अरबी अंक का शब्द पढ़ो, उसका अंक चुनो', id: 'Baca nama bilangan dalam bahasa Arab, pilih angkanya', es: 'Lee el número árabe escrito en palabras y elige su cifra', fr: 'Lisez le nombre écrit en arabe, choisissez son chiffre', ru: 'Прочитай арабское слово-число и выбери его цифру', de: 'Lies das arabische Zahlwort, wähle die passende Ziffer', tr: 'Arapça sayı adını oku, rakamını seç', fa: 'نام عدد عربی را بخوانید و رقمش را انتخاب کنید', ms: 'Baca perkataan nombor dalam bahasa Arab, pilih angkanya' },
     prompt: { en: 'Which digit is this number?', bn: 'এই সংখ্যাটি কোন অঙ্ক?', zh: '这个数词是哪个数字？', ja: 'この数はどの数字？', ar: 'أي رقم هذا العدد؟', ur: 'یہ کون سا ہندسہ ہے؟', hi: 'यह कौन-सा अंक है?', id: 'Bilangan ini angka berapa?', es: '¿Qué cifra es este número?', fr: 'Quel chiffre correspond à ce nombre ?', ru: 'Какая цифра обозначает это число?', de: 'Welche Ziffer ist diese Zahl?', tr: 'Bu sayı hangi rakam?', fa: 'این عدد کدام رقم است؟', ms: 'Angka manakah nombor ini?' }
+  },
+  soundpair: {
+    title:  { en: "Sound Twins", bn: "আওয়াজের যমজ", zh: "声音双胞胎", ja: "音のふたご", ar: "توأم الأصوات", ur: "آوازوں کے جڑواں", hi: "आवाज़ के जुड़वाँ", id: "Kembar Bunyi", es: "Sonidos gemelos", fr: "Sons jumeaux", ru: "Звуки-близнецы", de: "Klang-Zwillinge", tr: "Ses İkizleri", fa: "صداهای دوقلو", ms: "Bunyi Kembar" },
+    desc:   { en: "Hear a Quran word and pick it from two look-alikes", bn: "কুরআনের একটা শব্দ শুনে প্রায় একই রকম দুটো শব্দ থেকে সেটা বেছে নাও", zh: "听一个《古兰经》词语，从两个相似的词中选出它", ja: "クルアーンの言葉を聞いて、よく似た2つから選ぼう", ar: "استمع إلى كلمة من القرآن واخترها من كلمتين متشابهتين", ur: "قرآن کا ایک لفظ سنو اور ملتے جلتے دو لفظوں میں سے اسے چنو", hi: "क़ुरआन का एक शब्द सुनो और मिलते-जुलते दो शब्दों में से उसे चुनो", id: "Dengarkan kata Al-Qur'an, lalu pilih dari dua kata yang mirip", es: "Escucha una palabra del Corán y elígela entre dos parecidas", fr: "Écoute un mot du Coran et choisis-le parmi deux mots qui se ressemblent", ru: "Послушай слово из Корана и выбери его из двух похожих", de: "Hör ein Wort aus dem Koran und wähle es aus zwei ähnlichen aus", tr: "Kur'an'dan bir kelime dinle ve iki benzer kelime arasından onu seç", fa: "یک واژهٔ قرآن را بشنوید و آن را از میان دو واژهٔ شبیه انتخاب کنید", ms: "Dengar perkataan al-Quran dan pilih daripada dua perkataan yang hampir sama" },
+    prompt: { en: "Which word did you hear?", bn: "কোন শব্দটা শুনলে?", zh: "你听到的是哪个词？", ja: "どの言葉が聞こえた？", ar: "أي كلمة سمعت؟", ur: "تم نے کون سا لفظ سنا؟", hi: "तुमने कौन-सा शब्द सुना?", id: "Kata mana yang kamu dengar?", es: "¿Qué palabra escuchaste?", fr: "Quel mot as-tu entendu ?", ru: "Какое слово прозвучало?", de: "Welches Wort hast du gehört?", tr: "Hangi kelimeyi duydun?", fa: "کدام واژه را شنیدید؟", ms: "Perkataan mana yang kamu dengar?" }
   },
   meaningmatch: {
     title:  { en: 'Meaning Match', bn: 'অর্থ মেলাও', zh: '词义配对', ja: '意味マッチ', ar: 'طابِق المعنى', ur: 'مطلب ملاؤ', hi: 'मतलब मिलाओ', id: 'Cocokkan Makna', es: 'Empareja el significado', fr: 'Associer le sens', ru: 'Найди значение', de: 'Bedeutungen zuordnen', tr: 'Anlam Eşleştir', fa: 'جورکردن معنا', ms: 'Padankan Makna' },
@@ -1488,6 +1494,7 @@ class KidsQaida {
       { mode: 'firstletter', emoji: '🥇', grad: 'from-yellow-100 to-amber-200 dark:from-yellow-900/40 dark:to-amber-900/40', title: this.kqx('firstletter', 'title', lang), desc: this.kqx('firstletter', 'desc', lang) },
       { mode: 'countstars',  emoji: '🌟', grad: 'from-lime-100 to-emerald-200 dark:from-lime-900/40 dark:to-emerald-900/40', title: this.kqx('countstars', 'title', lang),  desc: this.kqx('countstars', 'desc', lang) },
       { mode: 'digitmatch',  emoji: '🔟', grad: 'from-sky-100 to-cyan-200 dark:from-sky-900/40 dark:to-cyan-900/40',         title: this.kqx('digitmatch', 'title', lang),  desc: this.kqx('digitmatch', 'desc', lang) },
+      { mode: 'soundpair',   emoji: '👯', grad: 'from-rose-100 to-sky-200 dark:from-rose-900/40 dark:to-sky-900/40',         title: this.kqx('soundpair', 'title', lang),   desc: this.kqx('soundpair', 'desc', lang) },
       { mode: 'meaningmatch', emoji: '💡', grad: 'from-violet-100 to-fuchsia-200 dark:from-violet-900/40 dark:to-fuchsia-900/40', title: this.kqx('meaningmatch', 'title', lang), desc: this.kqx('meaningmatch', 'desc', lang) }
     ];
   }
@@ -1539,6 +1546,13 @@ class KidsQaida {
         prompt = `
           <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3">${t('quiz_which_translit', lang)}</p>
           <div class="ayah-arabic !text-6xl !leading-tight" dir="rtl">${cur.promptArabic}</div>`;
+        break;
+      case 'soundpair':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('soundpair', 'prompt', lang)}</p>
+          <button data-kids-quiz-replay
+                  class="px-6 py-4 rounded-2xl bg-gradient-to-br from-rose-500 to-sky-500 text-white
+                         text-lg font-bold shadow hover:scale-105 transition-all">🔊 ${t('hear_again', lang)}</button>`;
         break;
       case 'listenword':
         prompt = `
@@ -1854,6 +1868,16 @@ class KidsQaida {
   }
 
   startQuiz(mode) {
+    // Sound Twins needs the minimal pairs from data/letter-practice first
+    if (mode === 'soundpair' && !this._kidsPairs) {
+      if (typeof LetterPracticeRules === 'undefined') return;
+      LetterPracticeRules.load().then(d => {
+        this._kidsPairs = [];
+        (d.pairs || []).forEach(([x, y, items]) => items.forEach(it => this._kidsPairs.push({ x, y, it })));
+        if (this._kidsPairs.length) this.startQuiz(mode);
+      }).catch(() => {});
+      return;
+    }
     this.clearAdvanceTimer();
     this.quiz = {
       mode: mode,
@@ -2084,6 +2108,29 @@ class KidsQaida {
       };
     }
 
+    // soundpair "Sound Twins": hear a real recitation of one word of a Quranic
+    // minimal pair (أَلِيمٌ / عَلِيمٌ) and pick it; the swapped letters are coloured.
+    if (mode === 'soundpair' && this._kidsPairs && this._kidsPairs.length) {
+      const { x, y, it } = this._kidsPairs[Math.floor(Math.random() * this._kidsPairs.length)];
+      const pad = n => String(n).padStart(3, '0');
+      const url = r => { const [s, a, i] = r.split(':'); return `https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3`; };
+      const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+      const hl = (w, k, color) => LetterPracticeRules.analyse(w).map(c => c.key === k
+        ? `<span style="color:${color}">${esc(c.text)}</span>` : esc(c.text)).join('');
+      const options = this.shuffleInPlace([
+        { arabic: hl(it[0], x, '#E11D48'), r: it[1] },
+        { arabic: hl(it[3], y, '#2563EB'), r: it[4] }
+      ]);
+      const correctIndex = Math.floor(Math.random() * 2);
+      return {
+        mode, options, correctIndex,
+        optionType: 'word',
+        autoSpeak: null,
+        autoPlayUrl: url(options[correctIndex].r),
+        rewardAudio: null
+      };
+    }
+
     // firstletter: see a Qaida word, pick the letter it starts with
     if (mode === 'firstletter') {
       const word = QAIDA_WORDS[Math.floor(Math.random() * QAIDA_WORDS.length)];
@@ -2182,6 +2229,15 @@ class KidsQaida {
     if (q.current && q.current.autoSpeak) {
       this.speakArabic(q.current.autoSpeak, q.mode === 'listenword' ? 0.7 : 0.9);
     }
+    if (q.current && q.current.autoPlayUrl) this.playUrl(q.current.autoPlayUrl);
+  }
+
+  /** Play a recitation clip (Sound Twins), stopping any word clip already playing. */
+  playUrl(url) {
+    try { if (this._wordTapAudio) this._wordTapAudio.pause(); } catch (e) { /* ignore */ }
+    const a = new Audio(url);
+    this._wordTapAudio = a;
+    a.play().catch(() => {});
   }
 
   pickAnswer(index) {
@@ -2441,6 +2497,7 @@ class KidsQaida {
       if (this.quiz && this.quiz.current && this.quiz.current.autoSpeak) {
         this.speakArabic(this.quiz.current.autoSpeak, this.quiz.mode === 'listenword' ? 0.7 : 0.9);
       }
+      if (this.quiz && this.quiz.current && this.quiz.current.autoPlayUrl) this.playUrl(this.quiz.current.autoPlayUrl);
       return;
     }
 

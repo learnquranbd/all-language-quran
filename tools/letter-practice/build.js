@@ -13,6 +13,10 @@
  *          (ties: the shorter ayah first).
  *   dense: the 10 ayahs of at least 4 words where the letter makes up the
  *          largest share of the pronounced letters (short drill ayahs).
+ * harakat: per letter, the 6 most frequent spellings with the letter carrying
+ *        fatha / kasra / damma / sukun / shadda.
+ * qalqalah: for ق ط ب ج د, the 8 most frequent ayah-final words ending in it.
+ * ra: the 6 most frequent words for each heavy/light ra rule (see raCat).
  * pairs: for each confusable pair (LETTER_CONFUSABLE), up to 6 minimal pairs:
  *        two Quranic words that are spelt alike except that one pronounced
  *        letter is swapped (أَلِيمٌ / عَلِيمٌ). Ranked by the rarer word's count.
@@ -129,8 +133,90 @@ for (const [x, y] of LETTER_CONFUSABLE) {
   if (top.length) pairs.push([x, y, top]);
 }
 
+// Per-spelling stats for the vowel, qalqalah and ra drills. Exact spelling,
+// because the state of a word's last letter is its case ending.
+const spell = {};   // w -> { n, r }
+for (const ref of Object.keys(WORDS)) {
+  WORDS[ref].forEach((w, i) => {
+    const sp = spell[w] || (spell[w] = { n: 0, r: ref + ':' + (i + 1) });
+    sp.n++;
+  });
+}
+const topOf = (pred, k = 6) => Object.entries(spell).filter(([w]) => pred(w))
+  .sort((a, b) => b[1].n - a[1].n).slice(0, k)
+  .map(([w, v]) => { refsForGloss.add(v.r); return [w, v.r, v.n]; });
+
+// harakat: the letter carrying each vowel (tanween excluded: it adds a nun sound).
+const STATE = {
+  fatha: (m) => m.indexOf('\u064E') >= 0 && m.indexOf('\u0651') < 0,
+  kasra: (m) => m.indexOf('\u0650') >= 0 && m.indexOf('\u0651') < 0,
+  damma: (m) => m.indexOf('\u064F') >= 0 && m.indexOf('\u0651') < 0,
+  sukun: (m) => m.indexOf('\u0652') >= 0,
+  shadda: (m) => m.indexOf('\u0651') >= 0
+};
+const harakat = {};
+for (const k of keys) {
+  if (k === 'ا') continue;
+  harakat[k] = {};
+  for (const st of Object.keys(STATE)) {
+    // A shadda on a word's first letter only comes from idgham with the word before
+    // (تَسْتَطِع عَّلَيْهِ), so it is not a shadda of the word itself.
+    harakat[k][st] = topOf((w) => R.analyse(w).some((c, i) => c.key === k && STATE[st](c.marks) && !(st === 'shadda' && i === 0)));
+  }
+}
+
+// Major qalqalah: ayah-final words whose very last letter is ق ط ب ج د (it takes
+// sukun when you stop there). Not with tanween fath (مُرْتَفَقًا is read -qā at a
+// stop) and not when a long vowel follows (ٱلْأَشْقَىٰ). r points at the ayah's last word.
+const qalqalah = {};
+for (const k of 'قطبجد') {
+  const ends = {};
+  for (const ref of Object.keys(WORDS)) {
+    const ws = WORDS[ref], w = ws[ws.length - 1];
+    const cl = R.analyse(w);
+    const last = cl[cl.length - 1];
+    if (last.key !== k || last.marks.indexOf('\u064B') >= 0) continue;
+    const e = ends[w] || (ends[w] = { n: 0, r: ref + ':' + ws.length });
+    e.n++;
+  }
+  qalqalah[k] = Object.entries(ends).sort((a, b) => b[1].n - a[1].n).slice(0, 8)
+    .map(([w, v]) => { refsForGloss.add(v.r); return [w, v.r, v.n]; });
+}
+
+/**
+ * Heavy / light ra when reading on (not stopping). One category per ra:
+ *   h_vowel  ra with fatha or damma          l_vowel  ra with kasra
+ *   h_after  sukun after fatha or damma      l_after  sukun after kasra
+ *   h_wasl   sukun after hamzat al-wasl (ٱرْجِعِى)
+ *   h_istila sukun after kasra, then a heavy letter in the word (قِرْطَاس)
+ * Skipped: imala (مَجْر۪ىٰهَا), and a heavy letter carrying kasra after it
+ * (فِرْقٍ, where both readings are allowed). Words with more than one ra are
+ * left out so the highlighted ra is unambiguous.
+ */
+const raCat = (cl, i) => {
+  const m = cl[i].marks;
+  if (m.indexOf('\u06EA') >= 0) return '';
+  if (/[\u064E\u064B\u064F\u064C]/.test(m)) return 'h_vowel';
+  if (/[\u0650\u064D]/.test(m)) return 'l_vowel';
+  if (m.indexOf('\u0652') < 0 || !i) return '';
+  const prev = cl[i - 1], next = cl[i + 1];
+  if (prev.base === 'ٱ') return 'h_wasl';
+  if (/[\u064E\u064F]/.test(prev.marks)) return 'h_after';
+  if (prev.marks.indexOf('\u0650') < 0) return '';
+  if (next && 'خصضغطقظ'.indexOf(next.base) >= 0) return /[\u0650\u064D]/.test(next.marks) ? '' : 'h_istila';
+  return 'l_after';
+};
+const ra = {};
+for (const cat of ['h_vowel', 'h_after', 'h_wasl', 'h_istila', 'l_vowel', 'l_after']) {
+  ra[cat] = topOf((w) => {
+    const cl = R.analyse(w);
+    const ras = cl.map((c, i) => (c.key === 'ر' ? i : -1)).filter((i) => i >= 0);
+    return ras.length === 1 && raCat(cl, ras[0]) === cat;
+  });
+}
+
 fs.mkdirSync(OUT, { recursive: true });
-fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs }));
+fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs, harakat, qalqalah, ra }));
 
 for (const lang of GLOSS_LANGS) {
   const wbw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/wbw', lang + '.json'), 'utf8'));

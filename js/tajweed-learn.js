@@ -625,12 +625,13 @@ class TajweedLearn {
   showOccurrences(btn) {
     const w = { w: btn.getAttribute('data-lp-occw'), r: btn.getAttribute('data-lp-occr') };
     const key = btn.getAttribute('data-lp-occk');
+    const exact = btn.hasAttribute('data-lp-occx');
     if (!w.w || typeof ayahTimeline === 'undefined' || typeof LetterPracticeRules === 'undefined') return;
     const label = btn.innerHTML;
     btn.innerHTML = '…';
     const lang = this.language;
     const gloss = this.lpGlossOf(w.r);
-    LetterPracticeRules.occurrences(w.w, key).then(o => {
+    LetterPracticeRules.occurrences(w.w, key, exact).then(o => {
       btn.innerHTML = label;
       const num = n => Number(n).toLocaleString(lang === 'bn' ? 'bn-BD' : (lang || 'en'));
       const sub = this.tt('tj_lp_occ_sub', "{n} times in {a} ayahs. Tap an ayah's number to study it word by word.")
@@ -775,6 +776,100 @@ class TajweedLearn {
       <div class="mb-6"></div>`;
   }
 
+  /** Compact word chip for the drills: tap = word audio; 📖 ×N = every ayah with this exact spelling. */
+  lpChip(w, r, n, key, color, pred) {
+    const occTitle = this.esc(this.tt('tj_lp_occ_btn', 'See every ayah with this word'));
+    return `
+      <div class="relative">
+        <button data-ayah-audio="${this.lpWordAudio(r)}" title="${r}" class="w-full h-full flex flex-col items-center rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1">
+          <span class="absolute top-1.5 start-1.5 text-[10px] text-gray-400">🔊</span>
+          <span class="ayah-arabic !text-xl !leading-[2.1] mt-3" dir="rtl">${this.lpHighlight(w, key, color, pred)}</span>
+          <span class="text-[10px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-1" dir="auto">${this.esc(this.lpGlossOf(r))}</span>
+        </button>
+        <button data-lp-occw="${this.esc(w)}" data-lp-occr="${r}" data-lp-occk="${key}" data-lp-occx title="${occTitle}" aria-label="${occTitle}"
+          class="absolute top-1 end-1 text-[10px] font-medium px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${n}</button>
+      </div>`;
+  }
+
+  /** The letter with fatha / kasra / damma / sukun / shadda, in real Quran words. */
+  lpHarakatHtml(key, color) {
+    const H = this.lpData && this.lpData.harakat && this.lpData.harakat[key];
+    if (!H) return '';
+    const ST = [
+      ['fatha', 'Fatha', '\u064E', m => m.indexOf('\u064E') >= 0 && m.indexOf('\u0651') < 0],
+      ['kasra', 'Kasra', '\u0650', m => m.indexOf('\u0650') >= 0 && m.indexOf('\u0651') < 0],
+      ['damma', 'Damma', '\u064F', m => m.indexOf('\u064F') >= 0 && m.indexOf('\u0651') < 0],
+      ['sukun', 'Sukun', '\u0652', m => m.indexOf('\u0652') >= 0],
+      ['shadda', 'Shadda', '\u0651\u064E', m => m.indexOf('\u0651') >= 0]
+    ];
+    const base = key === 'ء' ? 'ء' : key;
+    const rows = ST.filter(([st]) => H[st] && H[st].length).map(([st, name, mark, test]) => `
+      <div class="flex flex-col sm:flex-row gap-2 sm:items-center">
+        <div class="flex items-center gap-2 sm:w-28 shrink-0">
+          <span class="ayah-arabic !text-3xl !leading-[1.8] w-10 text-center" style="color:${color}" dir="rtl">${base}${mark}</span>
+          <span class="text-xs font-semibold text-gray-600 dark:text-gray-300">${name}</span>
+        </div>
+        <div dir="rtl" class="flex-1 grid grid-cols-3 md:grid-cols-6 gap-1.5">
+          ${H[st].map(([w, r, n]) => this.lpChip(w, r, n, key, color, c => test(c.marks))).join('')}
+        </div>
+      </div>`).join('');
+    return `
+      <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">${this.tt('tj_hk_title', 'The letter with each vowel')}</h3>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_hk_hint', 'Real Quran words with the letter carrying each vowel. Tap a word to hear it.')}</p>
+      <div class="rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 p-3 space-y-3 mb-6">${rows}</div>`;
+  }
+
+  /** ق ط ب ج د: minor qalqalah (sukun inside a word) and major (stopping at an ayah's end). */
+  lpQalqalahHtml(key, color) {
+    const Q = this.lpData && this.lpData.qalqalah && this.lpData.qalqalah[key];
+    const H = this.lpData && this.lpData.harakat && this.lpData.harakat[key];
+    if (!Q) return '';
+    const sukun = c => c.marks.indexOf('\u0652') >= 0;
+    const minor = ((H && H.sukun) || []).map(([w, r, n]) => this.lpChip(w, r, n, key, color, sukun)).join('');
+    const major = Q.map(([w, r]) => {
+      const ayah = r.split(':').slice(0, 2).join(':');
+      return `
+        <div class="relative">
+          <button data-ayah-audio="${this.lpWordAudio(r)}" title="${r}" class="w-full h-full flex flex-col items-center rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1">
+            <span class="absolute top-1.5 start-1.5 text-[10px] text-gray-400">🔊</span>
+            <span class="ayah-arabic !text-xl !leading-[2.1] mt-3" dir="rtl">${this.lpHighlight(w, key, color, (c, i, cl) => i === cl.length - 1)}</span>
+            <span class="text-[10px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-1" dir="auto">${this.esc(this.lpGlossOf(r))}</span>
+          </button>
+          <button data-ayah-ref="${ayah}" title="${this.tt('tj_open_verse')}" class="absolute top-1 end-1 text-[10px] font-mono px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">${ayah}</button>
+        </div>`;
+    }).join('');
+    const row = (label, chips) => `
+      <p class="text-xs font-semibold text-gray-600 dark:text-gray-300 mb-1.5">${label}</p>
+      <div dir="rtl" class="grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 gap-1.5 mb-3">${chips}</div>`;
+    return `
+      <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-2">${this.tt('tj_qq_title', 'Qalqalah practice')}</h3>
+      <div class="rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 p-3 mb-6">
+        ${minor ? row(this.tt('tj_qq_sughra', 'With sukun inside a word: a light bounce (minor qalqalah)'), minor) : ''}
+        ${row(this.tt('tj_qq_kubra', 'Stopping at the end of an ayah: a stronger bounce (major qalqalah)'), major)}
+      </div>`;
+  }
+
+  /** ر only: which ra is heavy and which is light, one row per rule. */
+  lpRaHtml(key) {
+    const RA = key === 'ر' && this.lpData && this.lpData.ra;
+    if (!RA) return '';
+    const isRa = c => c.key === 'ر';
+    const col = (title, cls, color, cats) => `
+      <div class="rounded-xl border ${cls} p-3">
+        <p class="text-sm font-bold mb-2" style="color:${color}">${title}</p>
+        ${cats.filter(c => RA[c] && RA[c].length).map(c => `
+          <p class="text-xs text-gray-600 dark:text-gray-300 mb-1">${this.tt('tj_ra_' + c, c)}</p>
+          <div dir="rtl" class="grid grid-cols-3 gap-1.5 mb-3">${RA[c].map(([w, r, n]) => this.lpChip(w, r, n, 'ر', color, isRa)).join('')}</div>`).join('')}
+      </div>`;
+    return `
+      <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">${this.tt('tj_ra_title', 'Heavy or light ra')}</h3>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_ra_hint', 'How ra sounds when you read on without stopping. Tap a word to hear it.')}</p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        ${col(this.tt('tj_ra_heavy', 'Heavy (tafkhim)'), 'border-rose-200 dark:border-rose-500/30', '#E11D48', ['h_vowel', 'h_after', 'h_wasl', 'h_istila'])}
+        ${col(this.tt('tj_ra_light', 'Light (tarqiq)'), 'border-sky-200 dark:border-sky-500/30', '#0284C7', ['l_vowel', 'l_after'])}
+      </div>`;
+  }
+
   /** The makhraj point of a letter (consonant و / ي use their lip / tongue point, not al-jawf). */
   lpMakhraj(key) {
     if (typeof MAKHARIJ_ZONES === 'undefined') return null;
@@ -789,8 +884,8 @@ class TajweedLearn {
   }
 
   /** Arabic text with every pronounced occurrence of `key` coloured. */
-  lpHighlight(text, key, color) {
-    return text.split(' ').map(w => LetterPracticeRules.analyse(w).map(c => c.key === key
+  lpHighlight(text, key, color, pred) {
+    return text.split(' ').map(w => LetterPracticeRules.analyse(w).map((c, i, cl) => c.key === key && (!pred || pred(c, i, cl))
       ? `<span style="color:${color};font-weight:700">${this.esc(c.text)}</span>`
       : this.esc(c.text)).join('')).join(' ');
   }
@@ -894,6 +989,9 @@ class TajweedLearn {
         <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_lp_words_hint', 'Tap a word to hear it. The number is how often the word occurs in the Quran.')}</p>
         <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-2 mb-6">${words}</div>
 
+        ${this.lpRaHtml(sel.key)}
+        ${this.lpQalqalahHtml(sel.key, color)}
+        ${this.lpHarakatHtml(sel.key, color)}
         ${this.lpPairsHtml(sel.key)}
 
         <div class="flex flex-wrap items-center gap-2 mb-1">
