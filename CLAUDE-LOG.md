@@ -32,7 +32,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN: 3:190-191 s2.p1 sums up 3:192 as "shame at the fate of wrongdoers"; the verse is the disgrace of whoever is put in the Fire.
 - Shard 3 DONE v982 (8/8 + spelling pass). Reviewers moved duas to address Allah as আপনি only in strings they rewrote; untouched dua strings in 3 may still say তুমি (mixed). Bengali-only notes kept: 3:18-19 s1.p1 (Ahsanul Bayan), 3:123-126 s1.p0.
 - USER DECISION: ~975 EN article paragraphs (nearly every js/tadabbur-articles shard) leak the drafting process: "None of the commentaries fetched for this verse...", "the tafsir page fetched", "these fetched commentators", 17:80 s4.p0 "The note behind this article". Proposed: fetched -> consulted (skip "far-fetched") + same rule in tools/wip/round11/BRIEF.md. Not done.
-- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 4/6
+- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 5/6
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows

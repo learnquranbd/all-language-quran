@@ -2173,27 +2173,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who is ar-rajim, the one you seek refuge from? Al-Muyassar glosses the word as the one driven away from the mercy of Allah. This is the sense the Saheeh International rendering keeps when it calls him the expelled from His mercy. The Bengali of the mushaf reaches for a neighbouring shade and names him the accursed. Both hold the same picture: a creature cast out from nearness to his Lord, and it is from such a one, not from an equal, that the reader takes shelter.",
-            "bn": "রজীম কে, অর্থাৎ যার থেকে আপনি আশ্রয় চান? মুয়াসসার শব্দটির অর্থ করেন আল্লাহর রহমত থেকে বিতাড়িত সেই সত্তা। সহীহ ইন্টারন্যাশনালের অনুবাদ এ অর্থই ধরে রাখে যখন তাকে বলে তাঁর রহমত থেকে বহিষ্কৃত। মুসহাফের বাংলা কাছাকাছি এক রং বেছে নেয় আর তাকে বলে অভিশপ্ত। দুটিই একই ছবি ধরে: এমন এক সৃষ্টি যাকে তার রবের নৈকট্য থেকে ছুঁড়ে ফেলা হয়েছে। এমন কারও থেকেই পাঠক আশ্রয় নেয়, কোনো সমকক্ষের থেকে নয়।"
+            "bn": "রজীম কে, যার থেকে আপনি আশ্রয় চাইছেন? মুয়াসসার শব্দটির অর্থ করেন: আল্লাহর রহমত থেকে বিতাড়িত। সহীহ ইন্টারন্যাশনালও এই অর্থই রেখেছে, তাকে বলেছে তাঁর রহমত থেকে বহিষ্কৃত। মুসহাফের বাংলা অনুবাদ কাছাকাছি আরেকটি অর্থ নিয়েছে, তাকে বলেছে অভিশপ্ত। দুটোতেই ছবিটা এক: এমন এক সৃষ্টি, যাকে তার রবের নৈকট্য থেকে ছুঁড়ে ফেলা হয়েছে। পাঠক আশ্রয় নেয় এমন কারও থেকেই, কোনো সমকক্ষের থেকে নয়।"
           },
           {
             "en": "The wording the verse asks for is settled: a'udhu billahi min ash-shaytan ir-rajim, I seek refuge in Allah from Satan, the driven-out. Al-Baghawi catches what the act really is — seeking refuge in Allah, he says, is holding fast to Him. It is not a warding charm muttered at the air but a grip taken on the only sure handhold. As-Sa'di would have the reciter say it while pondering its meaning, his heart leaning on Allah to turn the enemy away.",
-            "bn": "আয়াত যে শব্দ চায় তা নির্ধারিত: আঊযু বিল্লাহি মিনাশ শায়তানির রাজীম, আমি বিতাড়িত শয়তান থেকে আল্লাহর কাছে আশ্রয় চাই। বাগভী ধরিয়ে দেন কাজটা আসলে কী। আল্লাহর কাছে আশ্রয় নেওয়া মানে, তিনি বলেন, তাঁকে শক্ত করে আঁকড়ে ধরা। এ শূন্যে বিড়বিড় করা কোনো রক্ষাকবচ নয়, বরং একমাত্র নিশ্চিত অবলম্বনটাকে চেপে ধরা। সা'দী চান পাঠক কথাটা বলুক তার অর্থ নিয়ে ভাবতে ভাবতে, মন হেলিয়ে আল্লাহর উপর, যেন তিনি শত্রুকে সরিয়ে দেন।"
+            "bn": "কী বলতে হবে, তা ঠিক করে দেওয়া আছে: আঊযু বিল্লাহি মিনাশ শায়তানির রাজীম, আমি বিতাড়িত শয়তান থেকে আল্লাহর কাছে আশ্রয় চাই। কাজটা আসলে কী, বাগভী তা ধরিয়ে দেন: আল্লাহর কাছে আশ্রয় চাওয়া মানে তাঁকে শক্ত করে আঁকড়ে ধরা। এটা বাতাসে বিড়বিড় করা কোনো রক্ষাকবচ নয়; একমাত্র নিশ্চিত অবলম্বনকে মুঠোয় চেপে ধরা। সা'দী চান, পাঠক কথাটা বলবে এর অর্থ ভাবতে ভাবতে, মনটা আল্লাহর উপর ভর দিয়ে, যেন তিনি শত্রুকে দূরে সরিয়ে দেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Saying It and Meaning It",
-          "bn": "বলা এবং অর্থ বোঝা"
+          "bn": "মুখে বলা, মন থেকে বলা"
         },
         "p": [
           {
             "en": "As-Sa'di ends on the strongest means of all: that the reciter clothe himself in faith and reliance on Allah, striving to push back the whisperings and bad thoughts as he reads. Ma'arif al-Qur'an turns the teaching into practice. Said once at the outset, the refuge covers all you go on to recite in that sitting; you need not repeat it before each passage. But if you break off for some worldly errand and then return, you begin again with the refuge and the name of Allah.",
-            "bn": "সা'দী শেষ করেন সবচেয়ে শক্ত অবলম্বনে: পাঠক নিজেকে ঢেকে নিক ঈমান আর আল্লাহর উপর ভরসায়, পড়তে পড়তে কুমন্ত্রণা আর মন্দ ভাবনা ঠেলে সরাতে সরাতে। মাআরিফুল কুরআন শিক্ষাটাকে কাজে নামিয়ে আনে। শুরুতে একবার বলে নিলে সেই আশ্রয় ওই বৈঠকে আপনি যা কিছু পড়বেন তার সবটাই ঢেকে রাখে। প্রতিটি অংশের আগে আবার বলার দরকার নেই। তবে দুনিয়ার কোনো কাজে থেমে গিয়ে আবার ফিরে এলে, আশ্রয় আর আল্লাহর নাম দিয়ে আপনি নতুন করে শুরু করেন।"
+            "bn": "সা'দী শেষ করেন সবচেয়ে কার্যকর উপায়ের কথা বলে: পাঠক ঈমান আর আল্লাহর উপর ভরসাকে নিজের পোশাক বানিয়ে নেবে, আর পড়তে পড়তে ওয়াসওয়াসা ও মন্দ চিন্তা ঠেলে সরানোর চেষ্টা করবে। মাআরিফুল কুরআন শিক্ষাটাকে আমলে নামিয়ে আনে। শুরুতে একবার বলে নিলে সেই আশ্রয় ওই বৈঠকে আপনি যা কিছু পড়বেন তার সবটাই ঢেকে রাখে; প্রতিটি অংশের আগে আবার বলার দরকার নেই। তবে দুনিয়ার কোনো কাজে থেমে গিয়ে আবার ফিরে এলে, আবার আশ্রয় চেয়ে আর আল্লাহর নাম নিয়ে নতুন করে শুরু করবেন।"
           },
           {
             "en": "Two more limits sharpen it. Saying the refuge is for the Qur'an; before another book one says only the name of Allah. And within the prayer the jurists differ — Abu Hanifa has it in the first unit alone, ash-Shafi'i commends it at the head of each. Strip all this back and one habit remains for the reader: before the words of your Lord reach your tongue, admit what you cannot manage alone, and ask the One who can to stand between you and the enemy you never see.",
-            "bn": "আরও দুটি সীমা একে ধারালো করে। আশ্রয়ের বাক্যটা কুরআনের জন্য। অন্য কোনো বই পড়ার আগে মানুষ কেবল আল্লাহর নাম বলে। আর নামাযের ভেতরে ফকীহগণ ভিন্ন মত রাখেন, আবু হানিফা একে রাখেন কেবল প্রথম রাকাতে, আর শাফিয়ী প্রতিটি রাকাতের শুরুতে তা পছন্দনীয় বলেন। এসব সরিয়ে রাখলে পাঠকের জন্য একটা অভ্যাসই থেকে যায়: আপনার রবের কথা আপনার জিহ্বায় পৌঁছার আগে, একা যা সামলাতে পারেন না তা মেনে নিন, আর তাঁকে বলুন যিনি পারেন, তিনি যেন আপনার আর সেই না-দেখা শত্রুর মাঝে দাঁড়ান।"
+            "bn": "আরও দুটি সীমা বিষয়টা আরও পরিষ্কার করে। আশ্রয় চাওয়ার এই বাক্য কুরআনের জন্য; অন্য কোনো বই পড়ার আগে শুধু আল্লাহর নাম নেওয়া হয়। আর নামাজের ভেতরে ফকীহদের মত ভিন্ন: আবু হানিফার মতে এটা কেবল প্রথম রাকাতে, আর শাফিয়ী প্রতি রাকাতের শুরুতেই পড়া পছন্দ করেন। এসব সরিয়ে রাখলে পাঠকের জন্য একটা অভ্যাসই থেকে যায়: আপনার রবের কালাম জিহ্বায় আসার আগে মেনে নিন, একা আপনি সামলাতে পারবেন না। আর যিনি পারেন, তাঁর কাছে চান, তিনি যেন আপনার আর সেই না-দেখা শত্রুর মাঝে দাঁড়ান।"
           }
         ]
       }
@@ -2209,7 +2209,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse holds two sentences that must be read together. Its main clause condemns whoever disbelieves in Allah after his belief and opens his breast to disbelief — the willing apostate, upon whom is wrath from Allah and a great punishment. Set inside it, before the condemnation lands, is a carved-out exception: except whoever is forced while his heart is secure in faith. at-Tabari notes the grammarians disputed which \"man\" governs the sentence, but agrees the wrath falls on whoever chose, not on whoever was compelled.",
-            "bn": "আয়াতটিতে দুটি রায় আছে, যেগুলো একসঙ্গে পড়তে হয়। মূল বাক্যটি নিন্দা করে তাকে, যে ঈমান আনার পর আল্লাহকে অস্বীকার করে আর কুফরির জন্য বুক খুলে দেয়। এ হলো স্বেচ্ছায় ফিরে যাওয়া মানুষ, যার উপর আল্লাহর গযব আর মহা শাস্তি। নিন্দাটা পড়ার আগেই এর ভেতরে খোদাই করা আছে এক ব্যতিক্রম: তবে তার জন্য নয় যাকে বাধ্য করা হয় অথচ তার দিল ঈমানের উপর অবিচল থাকে। তাবারী জানান, ব্যাকরণবিদেরা তর্ক করেছেন কোন \"মান\" শব্দটি বাক্য পরিচালনা করছে, তবু সবাই মানেন গযব পড়ে সেই লোকের উপর যে বেছে নিয়েছে, বাধ্য হওয়া লোকের উপর নয়।"
+            "bn": "আয়াতে দুটি বাক্য আছে, যেগুলো একসঙ্গে পড়তে হয়। মূল বাক্যটি নিন্দা করে তাকে, যে ঈমান আনার পর আল্লাহকে অস্বীকার করে আর কুফরির জন্য বুক খুলে দেয়। এ হলো স্বেচ্ছায় দ্বীন ছেড়ে যাওয়া মানুষ, যার উপর আল্লাহর গযব আর মহা শাস্তি। কিন্তু নিন্দা নেমে আসার আগেই এর ভেতরে আলাদা করে রাখা আছে একটি ব্যতিক্রম: তবে সে নয়, যাকে বাধ্য করা হয়েছে অথচ তার দিল ঈমানে অবিচল। তাবারী জানান, কোন \"মান\" গোটা বাক্যের কর্তা, তা নিয়ে ব্যাকরণবিদেরা তর্ক করেছেন; তবু তিনিও মানেন, গযব পড়ে তার উপর যে নিজে বেছে নিয়েছে, যাকে বাধ্য করা হয়েছে তার উপর নয়।"
           },
           {
             "en": "So the weight of the verse rests on a contrast, not a blanket. as-Sa'di describes the condemned party as one who went blind after sight and returned to misguidance after guidance, expanding his breast to disbelief, pleased and at rest in it. Ibn Kathir reads the exception as the man who utters words of disbelief with his tongue, forced by beating and abuse, while his heart refuses what he says and stays at peace with faith in Allah and His Messenger. Two men, the same words, opposite hearts.",
@@ -2301,7 +2301,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The proof for the harder road is a sound report. al-Qurtubi adduces the hadith of Khabbab ibn al-Aratt, recorded by al-Bukhari in his Sahih: the Companions complained to the Prophet, who answered that among the nations before them a man would be laid in a pit and sawn in two, or combed with iron combs down to the bone, yet that would not turn him from his religion. The Prophet described this in praise of their patience — men who did not even feign disbelief to fend off the torture. That, al-Qurtubi says, is the argument of those who preferred endurance over the concession.",
-            "bn": "কঠিন পথের পক্ষে দলিল একটি সহীহ বর্ণনা। কুরতুবী খাব্বাব ইবন আল-আরাত (রাঃ)-এর হাদীসটি আনেন, যা বুখারী তাঁর সহীহ-তে বর্ণনা করেছেন: সাহাবিরা নবী ﷺ-এর কাছে অভিযোগ করলেন, আর তিনি জবাব দিলেন যে তাঁদের আগের জাতিগুলোতে কোনো মানুষকে গর্তে শুইয়ে করাত দিয়ে দুই টুকরো করা হতো, কিংবা লোহার চিরুনি দিয়ে হাড় পর্যন্ত আঁচড়ানো হতো, তবু তা তাকে তার দ্বীন থেকে ফেরাত না। নবী ﷺ এ কথা বলেছিলেন তাঁদের ধৈর্যের প্রশংসায়, যাঁরা নির্যাতন ঠেকাতে মিথ্যা কুফরিও দেখাননি। কুরতুবী বলেন, এটিই সেই দলিল যাঁরা ছাড়ের চেয়ে সহ্যকে বেছে নিয়েছেন তাঁদের।"
+            "bn": "কঠিন পথের পক্ষে দলিল একটি সহীহ বর্ণনা। কুরতুবী খাব্বাব ইবন আল-আরাত (রাঃ)-এর হাদিসটি আনেন, যা বুখারী তাঁর সহীহ-তে বর্ণনা করেছেন: সাহাবিরা নবী ﷺ-এর কাছে অভিযোগ করলেন, আর তিনি জবাবে বললেন, তাঁদের আগের জাতিগুলোতে কোনো মানুষকে গর্তে শুইয়ে করাত দিয়ে দুই টুকরো করা হতো, কিংবা লোহার চিরুনি দিয়ে হাড় পর্যন্ত আঁচড়ানো হতো, তবু তা তাকে তার দ্বীন থেকে ফেরাতে পারত না। নবী ﷺ এ কথা বলেছিলেন তাঁদের ধৈর্যের প্রশংসায়, যাঁরা নির্যাতন ঠেকাতে মুখে মিথ্যা কুফরিও দেখাননি। কুরতুবী বলেন, যাঁরা ছাড়ের চেয়ে সহ্য করাকে উত্তম বলেছেন, এটিই তাঁদের দলিল।"
           }
         ]
       },
@@ -2333,11 +2333,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes what the text describes — a willing apostate who welcomed disbelief, and a compelled believer who is excused — and it licenses nothing against any living person or community. It hands no one a verdict of unbelief to pass on another. To open one's breast to disbelief is a matter of the inner state, which the reports place with Allah alone; al-Qurtubi says outright that no one has power over that opening but Him. No reader is given a scale to weigh another's heart.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে তা-ই বলে, স্বেচ্ছায় ফিরে যাওয়া এক মানুষ যে কুফরিকে স্বাগত জানাল, আর বাধ্য করা এক মুমিন যাকে মাফ করা হলো, আর এটি কোনো জীবিত ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। কাউকে এটি অন্যের উপর কুফরির রায় দেওয়ার অধিকার দেয় না। কুফরির জন্য বুক খুলে দেওয়া ভেতরের অবস্থার ব্যাপার, যা বর্ণনাগুলো একমাত্র আল্লাহর হাতে রাখে; কুরতুবী স্পষ্ট বলেন, এই খুলে দেওয়ার উপর তিনি ছাড়া কারও ক্ষমতা নেই। কোনো পাঠকের হাতে অন্যের দিল মাপার দাঁড়িপাল্লা তুলে দেওয়া হয়নি।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত কেবল সেটুকুই বলে, যা তার শব্দে আছে: স্বেচ্ছায় দ্বীন ছেড়ে যাওয়া এক মানুষ, যে কুফরিকে স্বাগত জানাল; আর বাধ্য হওয়া এক মুমিন, যাকে মাফ করা হলো। জীবিত কোনো ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অন্যকে কাফির বলে রায় দেওয়ার অধিকারও এটি কাউকে দেয় না। কুফরির জন্য বুক খুলে দেওয়া ভেতরের ব্যাপার, আর বর্ণনাগুলো তা একমাত্র আল্লাহর হাতে রাখে; কুরতুবী স্পষ্টই বলেন, এই খুলে দেওয়ার উপর তিনি ছাড়া কারও ক্ষমতা নেই। অন্যের দিল মাপার দাঁড়িপাল্লা কোনো পাঠকের হাতে দেওয়া হয়নি।"
           },
           {
             "en": "What the verse does hand the reader is a mirror. The heart at peace with faith under pressure is honoured; the breast opened willingly to wrong is warned. Neither the martyrdom of the steadfast nor the excuse of the compelled is a weapon to raise against the living; both are an examination of one's own inner state. The question it leaves is the one the Prophet asked ʿAmmar, turned inward: under whatever pressure, how do I find my own heart?",
-            "bn": "আয়াত পাঠকের হাতে যা তুলে দেয়, তা একটি আয়না। চাপের মুখে ঈমানে স্থির দিল সম্মানিত; স্বেচ্ছায় অন্যায়ের দিকে খুলে দেওয়া বুক সতর্কীকৃত। অটল মানুষের শাহাদাত কিংবা বাধ্য মানুষের ছাড়, কোনোটাই জীবিতদের বিরুদ্ধে তোলার অস্ত্র নয়; দুটোই নিজের ভেতরের হালের এক পরীক্ষা। আয়াত যে প্রশ্নটা রেখে যায়, তা নবী ﷺ আম্মারকে যা জিজ্ঞেস করেছিলেন সেটাই, নিজের দিকে ফেরানো: যে চাপই আসুক, আমি আমার নিজের দিল কেমন পাই?"
+            "bn": "আয়াত পাঠকের হাতে যা তুলে দেয়, তা একটা আয়না। চাপের মুখেও যে দিল ঈমানে স্থির থাকে, তার জন্য সম্মান; যে বুক স্বেচ্ছায় অন্যায়ের জন্য খুলে যায়, তার জন্য সতর্কবাণী। অটল মানুষের শাহাদাত কিংবা বাধ্য মানুষের ছাড়, কোনোটাই জীবিতদের বিরুদ্ধে তোলার অস্ত্র নয়; দুটোই নিজের ভেতরটা যাচাইয়ের উপলক্ষ। আয়াত শেষে যে প্রশ্ন রেখে যায়, সেটা নবী ﷺ আম্মারকে করা প্রশ্নটাই, শুধু এবার নিজের দিকে ফেরানো: চাপ যেমনই হোক, আমি আমার দিলকে কেমন পাই?"
           }
         ]
       }
@@ -2353,11 +2353,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The command does not arrive out of nowhere. 16:112 sets up a parable: a town that was secure and at ease, its provision reaching it in plenty from every side, which then denied the favours of Allah — so He made it taste the enveloping garment of hunger and fear. 16:113 adds that a messenger from among themselves had come to them and been called a liar. Only after those two verses does our instruction begin.",
-            "bn": "এই নির্দেশ হঠাৎ করে আসেনি। 16:112 একটি উপমা দাঁড় করায়: একটি জনপদ যা ছিল নিরাপদ ও নিশ্চিন্ত, চারদিক থেকে প্রাচুর্যের সঙ্গে যার রিযিক পৌঁছাত — অথচ তারা আল্লাহর নিয়ামত অস্বীকার করল, ফলে তিনি তাদের ক্ষুধা ও ভয়ের আবরণ আস্বাদন করালেন। 16:113 যোগ করে, তাদেরই মধ্য থেকে একজন রাসূল তাদের কাছে এসেছিলেন এবং তারা তাঁকে মিথ্যাবাদী বলেছিল। এই দুই আয়াতের পরই আমাদের নির্দেশটি শুরু হয়।"
+            "bn": "এই নির্দেশ হঠাৎ করে আসেনি। ১৬:১১২ আগে একটি উপমা দেয়: এক জনপদ ছিল নিরাপদ, নিশ্চিন্ত; চারদিক থেকে প্রচুর রিযিক আসত। তারপর তারা আল্লাহর নিয়ামত অস্বীকার করল, ফলে তিনি তাদের ক্ষুধা আর ভয়ের এমন পোশাকের স্বাদ চাখালেন, যা তাদের ঘিরে ফেলল। ১৬:১১৩ জানায়, তাদেরই মধ্য থেকে তাদের কাছে একজন রাসূল এসেছিলেন, আর তারা তাঁকে মিথ্যাবাদী বলেছিল। এই দুই আয়াতের পরেই আমাদের নির্দেশ শুরু।"
           },
           {
             "en": "So eat — the Arabic opens with fa, the particle of consequence, tying the instruction to the story just told. That town had food and denied the Giver; you have food, so eat it and thank Him for it. Ibn Kathir titles the passage by the two things the verse joins, the command to eat lawful provision and the command to give thanks. The surah shows what ingratitude cost a settled people, then puts the same provision back in the reader's hands.",
-            "bn": "তাই খাও — আরবি শুরু হয় 'ফা' দিয়ে, ফলাফল বোঝানোর অব্যয়, যা নির্দেশটিকে সদ্য বলা কাহিনির সঙ্গে বেঁধে দেয়। সেই জনপদের খাবার ছিল, আর তারা দাতাকে অস্বীকার করেছিল; তোমার খাবার আছে, তাই তা খাও এবং তার জন্য তাঁর শুকরিয়া আদায় করো। ইবনে কাসীর অংশটির শিরোনাম দেন সেই দুই বিষয় দিয়ে যা আয়াতটি জুড়েছে — হালাল রিযিক খাওয়ার নির্দেশ আর কৃতজ্ঞতার নির্দেশ। সূরাটি দেখায় অকৃতজ্ঞতা এক সুস্থিত জাতির কী দাম নিয়েছিল, তারপর সেই একই রিযিক পাঠকের হাতে ফিরিয়ে দেয়।"
+            "bn": "তাই খাও। আরবিতে বাক্যটা শুরু হয় 'ফা' দিয়ে, যা আগের কথার ফল বোঝায়; এতে নির্দেশটি এইমাত্র বলা কাহিনির সঙ্গে বাঁধা পড়ে। সেই জনপদের খাবার ছিল, তবু তারা দাতাকে অস্বীকার করেছিল। আপনারও খাবার আছে, তাই খান, আর এর জন্য তাঁর শুকরিয়া আদায় করুন। আয়াতটি যে দুটি বিষয় জুড়েছে, ইবনে কাসীর সেই দুটি দিয়েই অংশটির শিরোনাম দেন: হালাল রিযিক খাওয়ার নির্দেশ আর শুকরিয়ার নির্দেশ। সূরাটি দেখায়, নাশোকরির জন্য এক থিতু জনপদকে কত দাম দিতে হয়েছিল; তারপর সেই একই রিযিক আবার তুলে দেয় পাঠকের হাতে।"
           }
         ]
       },
@@ -2369,11 +2369,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two adjectives follow the provision, with no wa between them: halalan tayyiban. Halal comes from a root meaning to untie or release, the opposite of what is bound and withheld. Tayyib means wholesome, clean, agreeable to the one who takes it. So one word names the legal status of the food and the other names its quality, and the verse asks for both at once. A thing can satisfy one description while failing the second.",
-            "bn": "রিযিকের পরে আসে দুটি বিশেষণ, তাদের মাঝে কোনো 'ওয়া' নেই: হালালান তাইয়িবান। 'হালাল' এসেছে এমন ধাতু থেকে যার অর্থ গিঁট খোলা বা মুক্ত করা — যা বাঁধা ও আটকানো, তার বিপরীত। 'তাইয়িব' মানে পবিত্র, স্বাস্থ্যকর, গ্রহণকারীর জন্য উপযোগী। অর্থাৎ একটি শব্দ খাদ্যের শরীয়তি অবস্থা বলে, অন্যটি বলে তার গুণ; আর আয়াতটি একসঙ্গে দুটোই চায়। কোনো জিনিস একটি বর্ণনায় উত্তীর্ণ হয়েও অন্যটিতে ব্যর্থ হতে পারে।"
+            "bn": "রিযিকের পরে আসে দুটি বিশেষণ, মাঝে কোনো 'ওয়া' নেই: হালালান তাইয়িবান। 'হালাল' এসেছে এমন ধাতু থেকে, যার অর্থ গিঁট খোলা বা ছেড়ে দেওয়া; যা বাঁধা ও আটকে রাখা, তার উল্টো। 'তাইয়িব' মানে পবিত্র, স্বাস্থ্যকর, যে খায় তার জন্য উপযোগী। অর্থাৎ একটি শব্দ বলে খাবারটি শরীয়তে কেমন, অন্যটি বলে খাবারটি নিজে কেমন; আর আয়াত একসঙ্গে দুটোই চায়। কোনো জিনিস এক শর্ত পূরণ করেও অন্যটিতে আটকে যেতে পারে।"
           },
           {
             "en": "The same pair travels through the Quran and lands differently each time. 2:168 addresses mankind at large: eat of what is on the earth lawful and good, and do not follow the footsteps of Shaytan. 5:88 is nearly word for word with our verse but closes on taqwa instead — and fear Allah, in whom you are believers. And 2:172 tells the believers to eat of the good things provided and closes on the same condition, if it is Him you worship, though its thanks are owed to Allah rather than for the favour of Allah.",
-            "bn": "একই জোড়া কুরআনে ঘুরে বেড়ায় এবং প্রতিবার ভিন্নভাবে এসে থামে। 2:168 সমগ্র মানবজাতিকে সম্বোধন করে: পৃথিবীতে যা হালাল ও পবিত্র তা খাও, আর শয়তানের পদাঙ্ক অনুসরণ করো না। 5:88 প্রায় শব্দে শব্দে আমাদের আয়াতের মতো, কিন্তু শেষ হয় তাকওয়া দিয়ে — আর সেই আল্লাহকে ভয় করো যাঁর প্রতি তোমরা ঈমান এনেছ। আর 2:172 মুমিনদের বলে পবিত্র রিযিক থেকে খেতে, এবং শেষ হয় একই শর্ত দিয়ে — যদি তোমরা তাঁরই ইবাদত করে থাক — যদিও সেখানে শুকরিয়া আল্লাহর উদ্দেশে, তাঁর নিয়ামতের জন্য নয়।"
+            "bn": "এই জোড়া কুরআনের আরও কয়েক জায়গায় আসে, আর প্রতিবার শেষ হয় ভিন্ন কথায়। ২:১৬৮ গোটা মানবজাতিকে ডেকে বলে: পৃথিবীতে যা হালাল ও পবিত্র তা খাও, আর শয়তানের পদাঙ্ক অনুসরণ করো না। ৫:৮৮ প্রায় হুবহু আমাদের আয়াতের মতো, কিন্তু শেষ হয় তাকওয়া দিয়ে: আর সেই আল্লাহকে ভয় করো, যাঁর প্রতি তোমরা ঈমান এনেছ। আর ২:১৭২ মুমিনদের বলে তাদের দেওয়া পবিত্র রিযিক থেকে খেতে, শেষে একই শর্ত: যদি তোমরা তাঁরই ইবাদত করো। তবে সেখানে শুকরিয়া সরাসরি আল্লাহর প্রতি, আল্লাহর নিয়ামতের জন্য নয়।"
           }
         ]
       },
@@ -2385,11 +2385,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse carries two imperatives joined by wa: fakulu, eat, and washkuru, be grateful. Neither is decoration for the other. Gratitude is not a devotional extra bolted onto a meal that would otherwise be neutral; it is the second half of one instruction, so an unthanked meal has completed only half of what was asked. And the object of the thanking is not the food but ni'mat Allah, the favour of Allah. The eye is moved off the plate.",
-            "bn": "আয়াতটি 'ওয়া' দিয়ে যুক্ত দুটি নির্দেশ বহন করে: ফাকুলূ — খাও, আর ওয়াশকুরূ — শুকরিয়া আদায় করো। একটি অন্যটির অলংকার নয়। কৃতজ্ঞতা এমন কোনো বাড়তি ইবাদত নয় যা এক নিরপেক্ষ খাবারের সঙ্গে জুড়ে দেওয়া হয়েছে; এটি একটিমাত্র নির্দেশের দ্বিতীয় অর্ধেক, তাই শুকরিয়াবিহীন খাবার যা চাওয়া হয়েছিল তার অর্ধেকই পূরণ করেছে। আর শুকরিয়ার লক্ষ্য খাবার নয়, বরং নিয়ামাতুল্লাহ, আল্লাহর অনুগ্রহ। দৃষ্টি প্লেট থেকে সরিয়ে নেওয়া হয়।"
+            "bn": "আয়াতে দুটি নির্দেশ, 'ওয়া' দিয়ে জোড়া: ফাকুলূ, খাও; আর ওয়াশকুরূ, শুকরিয়া আদায় করো। একটি অন্যটির সাজসজ্জা নয়। শুকরিয়া এমন কোনো বাড়তি ইবাদত নয়, যা এমনিতে সাধারণ একটা খাবারের সঙ্গে জুড়ে দেওয়া হয়েছে। এটা একই নির্দেশের দ্বিতীয় অর্ধেক। তাই শুকরিয়া ছাড়া খাওয়া মানে যা বলা হয়েছিল তার অর্ধেকটাই পালন করা। আর শুকরিয়ার বিষয় খাবার নয়, বরং নিয়ামাতুল্লাহ, আল্লাহর নিয়ামত। দৃষ্টি প্লেট থেকে সরে যায়।"
           },
           {
             "en": "Then the condition: in kuntum iyyahu ta'budun, if it is Him you worship. The pronoun iyyahu is placed before its verb, and Arabic uses that order to restrict — Him and no other. So the closing clause turns the whole verse into a question about the object of worship, and gratitude is what the question measures. Ibn Kathir states the link plainly: He is the Giver and Originator of every favour, and He alone deserves to be worshipped, having no partner.",
-            "bn": "এরপর আসে শর্ত: ইন কুনতুম ইয়্যাহু তা'বুদূন — যদি তোমরা তাঁরই ইবাদত করে থাক। সর্বনাম 'ইয়্যাহু' ক্রিয়ার আগে বসেছে, আর আরবিতে এই বিন্যাস সীমাবদ্ধ করার জন্য ব্যবহৃত হয় — তিনিই, অন্য কেউ নয়। ফলে শেষ বাক্যাংশটি গোটা আয়াতটিকে বানিয়ে তোলে একটি প্রশ্ন: ইবাদতের লক্ষ্য কে? আর সেই প্রশ্নের মাপকাঠি হলো কৃতজ্ঞতা। ইবনে কাসীর সম্পর্কটি স্পষ্ট করে বলেন: তিনিই প্রতিটি নিয়ামতের দাতা ও উদ্ভাবক, আর একমাত্র তিনিই ইবাদতের যোগ্য, তাঁর কোনো শরিক নেই।"
+            "bn": "তারপর শর্ত: ইন কুনতুম ইয়্যাহু তা'বুদূন, যদি তোমরা তাঁরই ইবাদত করো। সর্বনাম 'ইয়্যাহু' বসেছে ক্রিয়ার আগে, আর আরবিতে এই ক্রম সীমা টানে: শুধু তিনিই, আর কেউ নয়। ফলে শেষ অংশটি গোটা আয়াতকে একটা প্রশ্নে বদলে দেয়: ইবাদত আসলে কার? আর সেই প্রশ্নের মাপকাঠি শুকরিয়া। ইবনে কাসীর সম্পর্কটা সোজাসুজি বলেন: প্রতিটি নিয়ামতের দাতা ও স্রষ্টা তিনিই, আর ইবাদত পাওয়ার যোগ্যও একমাত্র তিনিই, তাঁর কোনো শরিক নেই।"
           }
         ]
       },
@@ -2401,27 +2401,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "16:115 comes next and names what is forbidden: carrion, blood, the flesh of swine, and what has been dedicated to other than Allah — with a concession for whoever is compelled by necessity, neither desiring it nor transgressing. The list opens with innama, He has only forbidden, a restrictive particle: the prohibitions are few, named, and closed. The order across the two verses is deliberate. Permission is stated first and broadly; prohibition comes second and stays narrow.",
-            "bn": "এরপর আসে 16:115, যা নাম ধরে বলে কী হারাম: মৃত জীব, রক্ত, শূকরের মাংস, আর যার উপর আল্লাহ ছাড়া অন্যের নাম নেওয়া হয়েছে — সঙ্গে ছাড় রয়েছে তার জন্য যে নিরুপায় হয়ে বাধ্য হয়, ইচ্ছাকৃত অবাধ্যতা বা সীমালঙ্ঘন ছাড়া। তালিকাটি শুরু হয় 'ইন্নামা' দিয়ে — 'তিনি কেবল হারাম করেছেন' — একটি সীমাবদ্ধকারী অব্যয়: নিষেধগুলো সংখ্যায় অল্প, নাম ধরে বলা, এবং আবদ্ধ। দুই আয়াতের এই ক্রম উদ্দেশ্যপ্রণোদিত। অনুমতি আগে ও প্রশস্তভাবে; নিষেধ পরে এবং সংকীর্ণই থাকে।"
+            "bn": "এরপর ১৬:১১৫ নাম ধরে বলে কী কী হারাম: মৃত জীব, রক্ত, শূকরের মাংস, আর যা আল্লাহ ছাড়া অন্য কারও নামে উৎসর্গ করা হয়েছে। সঙ্গে ছাড়ও আছে তার জন্য, যে নিরুপায় হয়ে পড়ে, তবে লোভ করে নয়, সীমা ছাড়িয়েও নয়। তালিকা শুরু হয় 'ইন্নামা' দিয়ে, অর্থাৎ 'তিনি কেবল হারাম করেছেন'। এটি সীমা টানার অব্যয়: নিষেধ অল্প কয়েকটি, নাম ধরে বলা, তালিকা বন্ধ। দুই আয়াতের এই ক্রম ভেবেচিন্তেই সাজানো। অনুমতি আসে আগে, খোলামেলাভাবে; নিষেধ আসে পরে, আর তা সরুই থাকে।"
           },
           {
             "en": "16:116 then forbids something else: do not say, of what your tongues assert falsely, this is lawful and this is unlawful, inventing lies about Allah. Ibn Kathir applies it to anyone who declares lawful what Allah forbade, or forbids what He permitted, because it suits his own opinion. And 16:121 holds up Ibrahim (AS) in a single phrase — shakiran li-an'umih, grateful for His favours. In a passage about who may forbid what, the pattern raised is a grateful man.",
-            "bn": "এরপর 16:116 আরেকটি জিনিস নিষেধ করে: তোমাদের জিহ্বা মিথ্যা যা বলে সে অনুযায়ী বলো না — 'এটা হালাল, ওটা হারাম' — আল্লাহর প্রতি মিথ্যা আরোপ করার জন্য। ইবনে কাসীর এটি প্রয়োগ করেন এমন প্রত্যেকের উপর যে নিজের মতের সুবিধার্থে আল্লাহর হারামকে হালাল বলে বা তাঁর হালালকে হারাম বলে। আর 16:121 ইবরাহীম (আঃ)-কে সামনে আনে একটিমাত্র বাক্যাংশে — শাকিরান লি-আন'উমিহ, তাঁর নিয়ামতসমূহের জন্য কৃতজ্ঞ। কে কী নিষেধ করতে পারে, এই আলোচনায় আদর্শ হিসেবে দাঁড় করানো হয় একজন কৃতজ্ঞ মানুষকে।"
+            "bn": "তারপর ১৬:১১৬ আরেকটি জিনিস নিষেধ করে: তোমাদের জিহ্বা মিথ্যা বানিয়ে বলে বলেই বলো না যে এটা হালাল আর ওটা হারাম, আল্লাহর নামে মিথ্যা রটানোর জন্য। ইবনে কাসীর এটি খাটান এমন প্রত্যেকের উপর, যে নিজের মতের সঙ্গে মেলে বলে আল্লাহর হারামকে হালাল বলে, বা তাঁর হালালকে হারাম বলে। আর ১৬:১২১ ইবরাহীম (আঃ)-কে তুলে ধরে ছোট্ট একটি কথায়: শাকিরান লি-আন'উমিহ, তাঁর নিয়ামতের প্রতি কৃতজ্ঞ। কে কী হারাম করতে পারে, এই আলোচনার মাঝে যাঁকে আদর্শ হিসেবে দাঁড় করানো হলো, তিনি একজন কৃতজ্ঞ মানুষ।"
           }
         ]
       },
       {
         "h": {
           "en": "Where the Verse Is Practised",
-          "bn": "আয়াতটি যেখানে অনুশীলিত হয়"
+          "bn": "আয়াতের আমল যেখানে"
         },
         "p": [
           {
             "en": "Muslim narrates from Anas ibn Malik (RA) that the Prophet ﷺ said Allah is pleased with the servant who eats a meal and praises Him for it, or drinks a drink and praises Him for it. The pleasure described is out of all proportion to the act; a sentence spoken after a meal is close to the cheapest thing a person can do. The verse takes the most ordinary act in a day and makes it where worship is proved.",
-            "bn": "ইমাম মুসলিম আনাস ইবনে মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহ সেই বান্দার প্রতি সন্তুষ্ট হন যে খাবার খেয়ে তাঁর প্রশংসা করে, বা পানীয় পান করে তাঁর প্রশংসা করে। বর্ণিত এই সন্তুষ্টি কাজটির তুলনায় বহু বড়; খাওয়ার পর একটি বাক্য বলা মানুষের পক্ষে প্রায় সবচেয়ে সহজ কাজ। আয়াতটি দিনের সবচেয়ে সাধারণ কাজটিকে নেয় এবং সেটিকেই বানায় সেই জায়গা যেখানে ইবাদতের প্রমাণ মেলে।"
+            "bn": "ইমাম মুসলিম আনাস ইবনে মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহ সেই বান্দার প্রতি সন্তুষ্ট হন, যে কিছু খেয়ে তাঁর প্রশংসা করে, কিংবা কিছু পান করে তাঁর প্রশংসা করে। কাজটার তুলনায় এই সন্তুষ্টি অনেক অনেক বড়; খাওয়ার পর একটা বাক্য বলা মানুষের পক্ষে প্রায় সবচেয়ে সহজ কাজ। দিনের সবচেয়ে সাধারণ কাজটিকেই আয়াত বানিয়ে দেয় ইবাদত প্রমাণের জায়গা।"
           },
           {
             "en": "Two practical halves follow the verse's two adjectives. Halal is a question about where the food came from — the earning as much as the meat, since money that arrives wrongly does not become clean by being spent on something permitted. Tayyib is a question about what the food does to a body you were lent. And the thanks needs saying aloud sometimes, because gratitude kept entirely silent slides quickly into the assumption that the meal was always going to be there.",
-            "bn": "আয়াতের দুই বিশেষণ থেকে বেরিয়ে আসে দুটি ব্যবহারিক দিক। 'হালাল' প্রশ্ন করে খাবারটি কোথা থেকে এসেছে — মাংসের মতোই উপার্জনও, কারণ অন্যায়ভাবে আসা অর্থ বৈধ কিছুতে খরচ করলেই পবিত্র হয়ে যায় না। 'তাইয়িব' প্রশ্ন করে সেই খাবার আপনার ধার পাওয়া শরীরের সঙ্গে কী করছে। আর শুকরিয়া মাঝে মাঝে মুখে উচ্চারণ করা দরকার, কারণ সম্পূর্ণ নীরব কৃতজ্ঞতা দ্রুতই এই ধারণায় গড়িয়ে যায় যে খাবারটি তো এমনিতেই থাকার কথা ছিল।"
+            "bn": "আয়াতের দুই বিশেষণ থেকে আসে দুটি বাস্তব দিক। 'হালাল' জানতে চায় খাবারটা কোথা থেকে এল: শুধু মাংস নয়, উপার্জনও; কারণ অন্যায়ভাবে আসা টাকা হালাল কিছুতে খরচ করলেই পবিত্র হয়ে যায় না। 'তাইয়িব' জানতে চায়, যে শরীর আপনাকে আমানত হিসেবে দেওয়া হয়েছে, খাবারটা তার কী করছে। আর শুকরিয়া মাঝে মাঝে মুখেও বলা দরকার। কারণ একেবারে নীরব কৃতজ্ঞতা খুব তাড়াতাড়ি এই ধারণায় গড়িয়ে যায় যে খাবার তো এমনিতেই থাকার কথা।"
           }
         ]
       }
@@ -2461,7 +2461,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Whichever reading is taken, the sense holds. Al-Muyassar renders it: do not say, of the lie your tongues describe, this is lawful for what Allah forbade and this is unlawful for what Allah made lawful. As-Sa'di strips it to the bone: do not forbid and permit out of your own selves. The offence named here is not holding a private opinion; it is issuing that opinion as though it were law, and hanging it on the One who never said it.",
-            "bn": "যে পড়াই নেওয়া হোক, অর্থ একই থাকে। মুয়াসসার এভাবে খোলেন: তোমাদের জিহবা যে মিথ্যা বর্ণনা করে তা নিয়ে বলো না, আল্লাহ যা হারাম করেছেন সেটাকে হালাল আর তিনি যা হালাল করেছেন সেটাকে হারাম। সাদী কথাটাকে একদম হাড়ে নিয়ে আসেন: নিজেদের পক্ষ থেকে হারাম আর হালাল করো না। এখানে দোষ ব্যক্তিগত কোনো মত রাখা নয়, দোষ হলো সেই মতকে যেন হুকুম, তেমনভাবে জারি করা, আর যিনি তা কখনো বলেননি তাঁর ঘাড়ে চাপানো।"
+            "bn": "যে পড়াই নেওয়া হোক, অর্থ একই থাকে। মুয়াসসার এভাবে খুলে বলেন: তোমাদের জিহবা যে মিথ্যা বানিয়ে বলে, তার ভিত্তিতে আল্লাহর হারাম করা জিনিসকে হালাল আর তাঁর হালাল করা জিনিসকে হারাম বলো না। সাদী একেবারে মূল কথায় নামিয়ে আনেন: নিজেদের মন থেকে হারাম-হালাল করো না। এখানে দোষটা ব্যক্তিগত মত রাখা নয়। দোষ হলো সেই মতকে হুকুমের মতো জারি করা, তারপর তা চাপিয়ে দেওয়া এমন একজনের ঘাড়ে, যিনি কখনো তা বলেননি।"
           }
         ]
       },
@@ -2493,11 +2493,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse gives the purpose of the whole habit in one clause: to invent a lie about Allah. Al-Muyassar spells out how the lie works, by ascribing the permitting and the forbidding to Him. Al-Baghawi carries it a step further: the fabrication is that you go on to say Allah commanded us this. So the sin is not simply a wrong rule about food. It is a false report about God, a claim that He spoke where He stayed silent.",
-            "bn": "গোটা অভ্যাসটার উদ্দেশ্য আয়াত এক টুকরো বাক্যে দিয়ে দেয়: আল্লাহর নামে মিথ্যা রটানোর জন্য। মুয়াসসার খুলে বলেন মিথ্যাটা কীভাবে কাজ করে, হালাল করা আর হারাম করাকে তাঁর দিকে সম্পর্কিত করে। বাগভী এক ধাপ এগিয়ে বলেন, মিথ্যাটা হলো তোমরা এরপর বলে বসো, আল্লাহ আমাদের এই আদেশ দিয়েছেন। তাই গুনাহটা কেবল খাবার নিয়ে একটা ভুল হুকুম নয়। এটি আল্লাহকে নিয়ে মিথ্যা খবর, তিনি চুপ থাকা জায়গায় কথা বলেছেন বলে দাবি করা।"
+            "bn": "গোটা অভ্যাসটার উদ্দেশ্য আয়াত এক বাক্যাংশেই বলে দেয়: আল্লাহর নামে মিথ্যা রটানোর জন্য। মিথ্যাটা কীভাবে কাজ করে, মুয়াসসার তা খুলে বলেন: হালাল আর হারাম করাকে তাঁর নামে চালিয়ে দিয়ে। বাগভী আরও এক ধাপ এগিয়ে বলেন, মিথ্যাটা হলো এরপর তোমাদের এ কথা বলা যে আল্লাহ আমাদের এ আদেশ দিয়েছেন। তাই গুনাহটা শুধু খাবার নিয়ে ভুল একটা হুকুম নয়। এটা আল্লাহকে নিয়ে মিথ্যা খবর: তিনি যেখানে চুপ ছিলেন, সেখানে তিনি কথা বলেছেন বলে দাবি করা।"
           },
           {
             "en": "This deserves its full weight. To forbid in Allah's name is to bind His servants with a chain He never forged, and to permit in His name is to open a door He never opened. As-Sa'di gathers three words for the one act: it is a lie, a fabrication, and false speech against Him. The gravity the verse rests on is exactly here. Not a mistaken menu, but words put into the mouth of the One who made the tongue that speaks them.",
-            "bn": "এর পূর্ণ ওজনটা দেওয়া দরকার। আল্লাহর নামে হারাম করা মানে তাঁর বান্দাদের এমন শিকলে বাঁধা যা তিনি কখনো গড়েননি, আর তাঁর নামে হালাল করা মানে এমন দরজা খুলে দেওয়া যা তিনি কখনো খোলেননি। সাদী এই একটি কাজের জন্য তিনটি শব্দ জড়ো করেন: এ মিথ্যা, এ অপবাদ, আর এ তাঁর নামে বানিয়ে বলা কথা। আয়াতটা যে গুরুত্বের উপর দাঁড়িয়ে, তা ঠিক এখানেই। ভুল খাদ্যতালিকা নয়, বরং যিনি বলার জিহবাটাই বানিয়েছেন তাঁর মুখে কথা বসিয়ে দেওয়া।"
+            "bn": "কথাটার ভার পুরোপুরি বোঝা দরকার। আল্লাহর নামে হারাম করা মানে তাঁর বান্দাদের এমন শিকলে বাঁধা, যা তিনি কখনো গড়েননি; আর তাঁর নামে হালাল করা মানে এমন দরজা খুলে দেওয়া, যা তিনি কখনো খোলেননি। সাদী এই একটি কাজের জন্য তিনটি শব্দ জড়ো করেন: এ মিথ্যা, এ অপবাদ, আর এ তাঁর নামে বানিয়ে বলা কথা। আয়াতের সব গুরুত্ব ঠিক এখানেই। ভুল খাদ্যতালিকা নয়, বরং যিনি জিহবাটাই বানিয়েছেন, তাঁর মুখে কথা বসিয়ে দেওয়া।"
           }
         ]
       },
@@ -2513,7 +2513,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir widens the door so that no age can think itself exempt. The warning, he says, takes in everyone who brings a practice into the religion with no support from the revealed law, or makes lawful what Allah forbade, or forbids what Allah permitted, on nothing more than his own opinion and craving. The fault is not a particular menu of camels; it is the posture of legislating by desire, and that posture outlives the pagans who first struck it.",
-            "bn": "ইবন কাসীর দরজাটা এতটাই চওড়া করেন যে কোনো যুগ নিজেকে ছাড় পাওয়া ভাবতে না পারে। এ সতর্কবাণী, তিনি বলেন, তাকে ধরে যে দ্বীনে এমন কিছু আনে যার শরীয়তে কোনো ভিত্তি নেই, কিংবা আল্লাহ যা হারাম করেছেন তা হালাল করে, অথবা তিনি যা হালাল করেছেন তা হারাম করে, শুধু নিজের মত আর খায়েশের জোরে। দোষ কোনো উটের নির্দিষ্ট তালিকা নয়; দোষ হলো খেয়াল দিয়ে হুকুম চালানোর ভঙ্গি, আর সেই ভঙ্গি প্রথম যে মুশরিকরা ধরেছিল তাদের ছাড়িয়ে টিকে থাকে।"
+            "bn": "ইবন কাসীর কথাটা এতটা চওড়া করে বলেন যে কোনো যুগই নিজেকে এর বাইরে ভাবতে পারে না। এ সতর্কবাণী, তিনি বলেন, তাদের সবাইকে ধরে, যারা দ্বীনে এমন কিছু আনে যার শরীয়তে কোনো ভিত্তি নেই, কিংবা আল্লাহ যা হারাম করেছেন তা হালাল করে, অথবা তিনি যা হালাল করেছেন তা হারাম করে, শুধু নিজের মত আর খায়েশের জোরে। দোষ উটের কোনো নির্দিষ্ট তালিকায় নয়; দোষ হলো খেয়াল দিয়ে হুকুম চালানোর ভঙ্গিতে। যে মুশরিকরা প্রথম এ ভঙ্গি ধরেছিল, তারা চলে গেছে, কিন্তু ভঙ্গিটা রয়ে গেছে।"
           }
         ]
       },
@@ -2536,32 +2536,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "It Names No Living Person",
-          "bn": "জীবিত কারও নাম নয়"
+          "bn": "এতে জীবিত কারও নাম নেই"
         },
         "p": [
           {
             "en": "This has to be said plainly, in both readings of the verse. What it condemns is a habit, the fabricating of rulings in Allah's name. It passes no verdict on any living person or community, and it licenses nothing against anyone alive. The pagans it describes are described, and nothing here is a warrant to brand a present neighbour, a group or a scholar a liar against Allah. The verse is first a mirror for the reader's own tongue, not a charge to hand across the room.",
-            "bn": "এ কথাটা দুই পড়াতেই সোজাসুজি বলা দরকার। আয়াত যা নিন্দা করে তা একটা অভ্যাস, আল্লাহর নামে হুকুম বানিয়ে বলা। এটি জীবিত কোনো ব্যক্তি বা জনগোষ্ঠীর উপর কোনো রায় দেয় না, আর জীবিত কারও বিরুদ্ধে কিছুরই অনুমতি দেয় না। যে মুশরিকদের কথা এতে বলা হয়েছে, তাদের কথা বলা হয়েছে মাত্র, আর এখানকার কিছুই আজকের কোনো প্রতিবেশী, কোনো দল বা কোনো আলিমকে আল্লাহর নামে মিথ্যাবাদী বলে দাগিয়ে দেওয়ার সনদ নয়। আয়াতটি আগে পাঠকের নিজের জিহবার জন্য আয়না, ঘরের ওপাশে ছুড়ে দেওয়ার অভিযোগ নয়।"
+            "bn": "এ কথাটা দুই পড়াতেই সোজাসুজি বলা দরকার। আয়াত যা নিন্দা করে তা একটা অভ্যাস: আল্লাহর নামে হুকুম বানিয়ে বলা। জীবিত কোনো ব্যক্তি বা জনগোষ্ঠীর উপর এটি কোনো রায় দেয় না, আর জীবিত কারও বিরুদ্ধে কিছুরই অনুমতি দেয় না। যে মুশরিকদের কথা এতে আছে, তাদের কেবল বর্ণনা করা হয়েছে। আজকের কোনো প্রতিবেশী, কোনো দল বা কোনো আলিমকে আল্লাহর নামে মিথ্যাবাদী বলে দাগিয়ে দেওয়ার সনদ এখানে কিছুই নেই। আয়াতটি আগে পাঠকের নিজের জিহবার জন্য আয়না, অন্যের দিকে ছুড়ে দেওয়ার অভিযোগ নয়।"
           },
           {
             "en": "Ibn Kathir's wide reading cuts toward the self before it reaches anyone else. If the warning truly reaches everyone who declares things lawful or unlawful by whim, the safest place to lay it is my own speech: the quick ruling I toss into an argument, the verdict I repeat without knowing where it came from. To turn the verse into a weapon against a named group is to miss the very people it was sent to correct, whose first name on the list is my own.",
-            "bn": "ইবন কাসীরের চওড়া পড়াটা অন্য কারও কাছে পৌঁছানোর আগে নিজের দিকেই কাটে। এ সতর্কবাণী যদি সত্যিই তাকে ধরে যে খেয়ালমতো জিনিসকে হালাল বা হারাম বলে, তবে এটা রাখার সবচেয়ে নিরাপদ জায়গা আমার নিজের কথা: তর্কের মধ্যে ছুড়ে দেওয়া ঝটপট হুকুম, কোথা থেকে এল না জেনে আউড়ে যাওয়া রায়। আয়াতটাকে কোনো নির্দিষ্ট দলের বিরুদ্ধে অস্ত্র বানানো মানে ঠিক সেই লোকদেরই এড়িয়ে যাওয়া যাদের শোধরাতে এটি এসেছে, যে তালিকার প্রথম নামটা আমার নিজের।"
+            "bn": "ইবন কাসীরের এই চওড়া ব্যাখ্যার ধার অন্য কারও আগে নিজের দিকেই আসে। যারা খেয়ালমতো জিনিসকে হালাল বা হারাম বলে, সতর্কবাণী যদি সত্যিই তাদের সবাইকে ধরে, তবে এটা রাখার সবচেয়ে নিরাপদ জায়গা আমার নিজের কথা: তর্কের মাঝে ছুড়ে দেওয়া ঝটপট হুকুম, কোথা থেকে এল না জেনেই আউড়ে যাওয়া রায়। আয়াতটাকে কোনো নির্দিষ্ট দলের বিরুদ্ধে অস্ত্র বানানো মানে যাদের শোধরাতে এটি এসেছে, ঠিক তাদেরই হারিয়ে ফেলা; আর সেই তালিকায় প্রথম নামটা আমার নিজের।"
           }
         ]
       },
       {
         "h": {
           "en": "Why They Never Succeed",
-          "bn": "কেন তাদের সফলতা নেই"
+          "bn": "কেন তারা কখনো সফল হয় না"
         },
         "p": [
           {
             "en": "The verse closes on the fabricators: those who invent falsehood about Allah will not succeed. Ibn Kathir reads the failure as reaching them in this world and the next alike. Al-Baghawi glosses will not succeed as they will not be saved from Allah's punishment. The verse does not claim such people gain nothing at all in their day; it claims that whatever they gain never rises to the level of success. What looks like winning, with the ruling accepted and the tongue believed, is counted a loss.",
-            "bn": "আয়াত শেষ হয় মিথ্যা-রটনাকারীদের উপর: যারা আল্লাহর নামে মিথ্যা উদ্ভাবন করে, তারা সফল হবে না। ইবন কাসীর এই ব্যর্থতাকে পড়েন দুনিয়া ও আখিরাত দুই জায়গাতেই তাদের নাগাল পাওয়া হিসেবে। বাগভী 'সফল হবে না'-এর ব্যাখ্যায় বলেন, তারা আল্লাহর শাস্তি থেকে রেহাই পাবে না। আয়াতটি এ কথা বলে না যে এমন লোকেরা তাদের দিনে কিছুই পায় না; বরং বলে, যা-ই তারা পায় তা কখনো সফলতার স্তরে ওঠে না। যাকে জেতা মনে হয়, হুকুম মেনে নেওয়া হলো আর জিহবা বিশ্বাস পেল, তা হিসাবের খাতায় হার।"
+            "bn": "আয়াত শেষ হয় মিথ্যা রটনাকারীদের কথা বলে: যারা আল্লাহর নামে মিথ্যা বানায়, তারা সফল হবে না। ইবন কাসীরের মতে এ ব্যর্থতা তাদের ধরবে দুনিয়াতেও, আখিরাতেও। বাগভী 'সফল হবে না'-এর ব্যাখ্যায় বলেন, তারা আল্লাহর শাস্তি থেকে রেহাই পাবে না। আয়াত এ কথা বলে না যে এমন লোকেরা দুনিয়ার জীবনে কিছুই পায় না; বলে, তারা যা-ই পাক, তা কখনো সফলতার স্তরে ওঠে না। লোকে হুকুম মেনে নিল, মুখের কথা বিশ্বাস করল, দেখে মনে হয় জিতে গেছে; অথচ হিসাবের খাতায় সেটা হার।"
           },
           {
             "en": "As-Sa'di adds that Allah will surely expose their disgrace. For the reader the warning turns practical. Real success is tied to truthfulness before Allah, and a religion spoken from the self forfeits it at the root. So when the ruling is not clear to me, the honest I do not know is safer than a confident verdict I cannot trace back to Him. To withhold a label I have not earned is not weakness in the faith; it is the very reverence this verse is teaching.",
-            "bn": "সাদী যোগ করেন, আল্লাহ অবশ্যই তাদের অপমান প্রকাশ করে দেবেন। পাঠকের জন্য সতর্কবাণীটা তখন হয়ে ওঠে হাতে-কলমের। সত্যিকারের সফলতা আল্লাহর সামনে সত্যবাদিতার সঙ্গে বাঁধা, আর নিজের পক্ষ থেকে বলা দ্বীন সেটা গোড়াতেই হারায়। তাই যখন হুকুম আমার কাছে স্পষ্ট নয়, তখন সৎভাবে 'আমি জানি না' বলা তাঁর কাছে ফিরিয়ে দিতে না পারা আত্মবিশ্বাসী রায়ের চেয়ে নিরাপদ। যে তকমা আমি অর্জন করিনি তা মুখে না আনা দ্বীনে দুর্বলতা নয়; এটাই সেই সমীহ, আয়াতটি যা শেখাচ্ছে।"
+            "bn": "সাদী যোগ করেন, আল্লাহ অবশ্যই তাদের অপমান প্রকাশ করে দেবেন। পাঠকের জন্য সতর্কবাণীটা এখানে বাস্তব হয়ে ওঠে। আসল সফলতা আল্লাহর সামনে সত্যবাদিতার সঙ্গে বাঁধা, আর নিজের মন থেকে বলা দ্বীন সেটা গোড়াতেই হারায়। তাই কোনো হুকুম যখন আমার কাছে স্পষ্ট নয়, তখন সোজাসুজি 'আমি জানি না' বলাই নিরাপদ, এমন জোরালো রায়ের চেয়ে, যার সূত্র আমি তাঁর কাছ পর্যন্ত দেখাতে পারি না। যে তকমা দেওয়ার যোগ্যতা আমি অর্জন করিনি, তা থেকে বিরত থাকা দ্বীনের দুর্বলতা নয়; আয়াতটি ঠিক এই সমীহই শেখাচ্ছে।"
           }
         ]
       }
@@ -2577,11 +2577,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The instruction sits inside the surah's closing movement. 16:124 says the Sabbath was appointed only for those who differed over it, and leaves the judgment to the Day of Resurrection. Then comes this verse on how to call. 16:126 limits retaliation to the equivalent of what was suffered. 16:127 tells the Prophet ﷺ to be patient, not to grieve over them, and not to be in distress at what they plot. 16:128 closes: Allah is with those who fear Him and the doers of good.",
-            "bn": "নির্দেশটি বসে আছে সূরার সমাপ্তি-ধারার ভেতরে। 16:124 বলে, শনিবার পালন কেবল তাদের উপরই দেওয়া হয়েছিল যারা এ নিয়ে মতভেদ করেছিল, আর তার ফয়সালা ছেড়ে দেয় কিয়ামতের দিনের উপর। এরপর আসে আহ্বানের পদ্ধতি নিয়ে এই আয়াত। 16:126 প্রতিশোধকে যতটুকু ক্ষতি হয়েছে ততটুকুতেই সীমিত করে। 16:127 নবী ﷺ-কে বলে ধৈর্য ধরতে, তাদের জন্য শোক না করতে, আর তাদের ষড়যন্ত্রে সংকুচিত না হতে। 16:128 শেষ করে: আল্লাহ তাদের সঙ্গে আছেন যারা তাঁকে ভয় করে এবং যারা সৎকর্মশীল।"
+            "bn": "এই নির্দেশ এসেছে সূরার শেষ অংশে। ১৬:১২৪ বলে, শনিবারের বিধান কেবল তাদের উপরই দেওয়া হয়েছিল যারা এ নিয়ে মতভেদ করেছিল, আর এর ফয়সালা রেখে দেয় কিয়ামতের দিনের জন্য। তারপর এই আয়াত: কীভাবে দাওয়াত দিতে হবে। ১৬:১২৬ প্রতিশোধকে বেঁধে দেয় যতটুকু কষ্ট পাওয়া হয়েছে ততটুকুতে। ১৬:১২৭ নবী ﷺ-কে বলে ধৈর্য ধরতে, তাদের জন্য দুঃখ না করতে, আর তাদের চক্রান্তে মন ছোট না করতে। ১৬:১২৮ দিয়ে শেষ: আল্লাহ তাদের সঙ্গে আছেন যারা তাঁকে ভয় করে এবং যারা সৎকর্মশীল।"
           },
           {
             "en": "Read in that order the passage narrows steadily: how to speak to everyone, what to do when they strike back, what to do inside your own chest, and finally who is standing beside you while you do it. The method verse comes first because everything after it assumes the caller has already been told how to behave. Someone who has not settled his manner will not survive the three verses that follow.",
-            "bn": "এই ক্রমে পড়লে অংশটি ধাপে ধাপে সরু হয়ে আসে: সবার সঙ্গে কীভাবে কথা বলতে হবে, তারা পাল্টা আঘাত করলে কী করতে হবে, নিজের বুকের ভেতরে কী করতে হবে, আর সবশেষে এসব করার সময় কে আপনার পাশে দাঁড়িয়ে আছেন। পদ্ধতির আয়াতটি আগে আসে, কারণ এর পরের সবকিছু ধরে নেয় যে আহ্বানকারীকে আচরণের কথা আগেই বলে দেওয়া হয়েছে। যে নিজের ভঙ্গি স্থির করেনি, সে পরের তিন আয়াত টিকে পার হতে পারবে না।"
+            "bn": "এই ক্রমে পড়লে অংশটি ধাপে ধাপে সরু হয়ে আসে: সবার সঙ্গে কীভাবে কথা বলবেন, তারা পাল্টা আঘাত করলে কী করবেন, নিজের বুকের ভেতর কী করবেন, আর সবশেষে, এসব করার সময় কে আপনার পাশে দাঁড়িয়ে আছেন। পদ্ধতির আয়াত আগে আসে, কারণ পরের সব কথাই ধরে নেয় যে দাওয়াতদানকারী কেমন আচরণ করবেন, তা তাঁকে আগেই বলে দেওয়া হয়েছে। নিজের আচরণ যে আগে ঠিক করে নেয়নি, পরের তিন আয়াতের পরীক্ষায় সে টিকতে পারবে না।"
           }
         ]
       },
@@ -2593,59 +2593,59 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ud'u ila sabili rabbika — call to the way of your Lord, His way and not the caller's, which quietly removes the caller's opinions and reputation from the invitation. Then three modes are named and no more. Bil-hikmah, with wisdom. Wal-maw'izatil-hasanah, and good admonition. Wa jadilhum billati hiya ahsan, and dispute with them by that which is best. The first two attach to the verb of calling by a single prefixed bi, so they are the instruments of the invitation itself.",
-            "bn": "উদ্‌উ ইলা সাবীলি রাব্বিকা — তোমার রবের পথের দিকে আহ্বান করো; তাঁর পথ, আহ্বানকারীর পথ নয় — এতেই নীরবে আহ্বানকারীর নিজস্ব মত ও সুনাম দাওয়াত থেকে সরে যায়। এরপর তিনটি পন্থার নাম বলা হয়, এর বেশি নয়। বিল-হিকমাহ — প্রজ্ঞা দিয়ে। ওয়াল-মাওইযাতিল-হাসানাহ — আর উত্তম উপদেশ দিয়ে। ওয়া জাদিলহুম বিল্লাতী হিয়া আহসান — আর তাদের সঙ্গে বিতর্ক করো সর্বোত্তম পন্থায়। প্রথম দুটি আহ্বানের ক্রিয়ার সঙ্গে যুক্ত একটিমাত্র উপসর্গ 'বি' দিয়ে, অর্থাৎ সেগুলো দাওয়াতেরই হাতিয়ার।"
+            "bn": "উদ্‌উ ইলা সাবীলি রাব্বিকা: তোমার রবের পথের দিকে ডাকো। পথটা তাঁর, যে ডাকছে তার নয়; এতেই চুপচাপ দাওয়াত থেকে সরে যায় দাওয়াতদানকারীর নিজের মত আর নামডাক। তারপর তিনটি পন্থার নাম আসে, এর বেশি নয়। বিল-হিকমাহ, হিকমতের সঙ্গে। ওয়াল-মাওইযাতিল-হাসানাহ, আর সুন্দর উপদেশ দিয়ে। ওয়া জাদিলহুম বিল্লাতী হিয়া আহসান, আর তাদের সঙ্গে বিতর্ক করো সবচেয়ে উত্তম পন্থায়। প্রথম দুটি একটিমাত্র 'বি' দিয়ে ডাকার ক্রিয়ার সঙ্গে জোড়া, তাই এ দুটো দাওয়াতেরই হাতিয়ার।"
           },
           {
             "en": "The third carries its own imperative and its own object, because disputing is a different situation: it begins only when the other side pushes back. The adjectives do not repeat either. The admonition is qualified as hasanah, good; the disputation by ahsan, that which is better or best. The easier task gets the ordinary standard and the harder one the higher. Nothing here licenses a fourth mode kept in reserve for opponents judged to have earned it.",
-            "bn": "তৃতীয়টির নিজস্ব নির্দেশবাচক ক্রিয়া ও নিজস্ব কর্ম আছে, কারণ বিতর্ক আলাদা এক পরিস্থিতি: তা শুরুই হয় তখন, যখন অপর পক্ষ পাল্টা চাপ দেয়। বিশেষণগুলোও পুনরাবৃত্তি করে না। উপদেশকে গুণান্বিত করা হয়েছে 'হাসানাহ' — উত্তম দিয়ে; আর বিতর্ককে 'আহসান' — যা উত্তমতর বা সর্বোত্তম, তা দিয়ে। সহজ কাজটি পায় সাধারণ মান, কঠিন কাজটি পায় উঁচু মান। এখানে এমন চতুর্থ কোনো পন্থার অনুমতি নেই, যা 'উপযুক্ত' প্রতিপক্ষের জন্য জমা রাখা যায়।"
+            "bn": "তৃতীয়টির নিজের আলাদা আদেশ-ক্রিয়া আর আলাদা কর্ম আছে, কারণ বিতর্কের পরিস্থিতিটাই আলাদা: তা শুরু হয় কেবল তখন, যখন অপর পক্ষ পাল্টা চাপ দেয়। বিশেষণও একই থাকে না। উপদেশের বিশেষণ 'হাসানাহ', উত্তম; বিতর্কের বিশেষণ 'আহসান', আরও উত্তম বা সর্বোত্তম। সহজ কাজের জন্য সাধারণ মান, কঠিন কাজের জন্য উঁচু মান। 'উপযুক্ত' বিবেচিত প্রতিপক্ষের জন্য জমিয়ে রাখা চতুর্থ কোনো পন্থার অনুমতি এখানে নেই।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Three Words Carry",
-          "bn": "তিনটি শব্দ যা বহন করে"
+          "bn": "তিন শব্দের ভেতরের কথা"
         },
         "p": [
           {
             "en": "Ibn Kathir cites Ibn Jarir at-Tabari for hikmah: it is what was revealed to the Prophet ﷺ of the Book and the Sunnah. Others gloss the word as knowledge joined to right action, or as putting a thing in its proper place. Maw'izah works on the will rather than the intellect, and Ibn Kathir explains the good admonition here as exhortation and the accounts of earlier peoples in the Quran, told in order to warn.",
-            "bn": "'হিকমাহ'-এর ব্যাখ্যায় ইবনে কাসীর ইবনে জারীর আত-তাবারীকে উদ্ধৃত করেন: এটি হলো নবী ﷺ-এর প্রতি কিতাব ও সুন্নাহ থেকে যা নাযিল হয়েছে। অন্যরা শব্দটির অর্থ করেন সঠিক আমলের সঙ্গে যুক্ত জ্ঞান, কিংবা প্রতিটি জিনিসকে তার যথাযথ জায়গায় রাখা। 'মাওইযা' কাজ করে বুদ্ধির চেয়ে ইচ্ছাশক্তির উপর; আর ইবনে কাসীর এখানে উত্তম উপদেশের ব্যাখ্যা করেন নসিহত এবং কুরআনে বর্ণিত পূর্ববর্তী জাতিগুলোর ঘটনা হিসেবে, যা সতর্ক করার জন্য শোনানো হয়।"
+            "bn": "'হিকমাহ'-র ব্যাখ্যায় ইবনে কাসীর ইবনে জারীর আত-তাবারীর কথা আনেন: নবী ﷺ-এর উপর কিতাব ও সুন্নাহর যা নাজিল হয়েছে, সেটাই হিকমাহ। অন্যরা এর অর্থ করেন জ্ঞান আর তার সঙ্গে সঠিক আমল, কিংবা প্রতিটি জিনিসকে তার ঠিক জায়গায় রাখা। 'মাওইযা' কাজ করে বুদ্ধির চেয়ে বেশি মনের ইচ্ছার উপর। ইবনে কাসীর এখানে সুন্দর উপদেশ বলতে বোঝান নসিহত, আর কুরআনে বলা আগের জাতিগুলোর ঘটনা, যা শোনানো হয় সতর্ক করার জন্য।"
           },
           {
             "en": "For the third mode Ibn Kathir writes that if any of them want to debate and argue, let that be in the best manner, with kindness, gentleness and good speech — and he sets 29:46 beside it, do not argue with the People of the Scripture except by that which is best. He also cites the instruction given to Musa (AS) and Harun (AS) in 20:44: speak to him a gentle word, that perhaps he may be reminded or fear. That command concerned Fir'awn.",
-            "bn": "তৃতীয় পন্থা সম্পর্কে ইবনে কাসীর লেখেন, তাদের কেউ যদি বাদানুবাদ ও তর্ক করতে চায়, তবে তা হোক সর্বোত্তম পন্থায় — কোমলতা, নম্রতা ও সুন্দর কথার সঙ্গে; আর তিনি এর পাশে রাখেন 29:46, আহলে কিতাবের সঙ্গে বিতর্ক করো না, কেবল যা সর্বোত্তম সেই পন্থা ছাড়া। তিনি আরও উদ্ধৃত করেন মূসা (আঃ) ও হারূন (আঃ)-কে দেওয়া 20:44-এর নির্দেশ: তার সঙ্গে নরম কথা বলো, হয়তো সে উপদেশ গ্রহণ করবে বা ভয় করবে। সেই নির্দেশ ছিল ফিরআউন প্রসঙ্গে।"
+            "bn": "তৃতীয় পন্থা নিয়ে ইবনে কাসীর লেখেন: তাদের কেউ যদি বিতর্ক ও তর্কাতর্কি করতে চায়, তবে তা হোক সবচেয়ে সুন্দর পন্থায়, কোমলতা, নম্রতা আর ভালো কথার সঙ্গে। এর পাশে তিনি রাখেন ২৯:৪৬: আহলে কিতাবের সঙ্গে বিতর্ক করো না, সর্বোত্তম পন্থা ছাড়া। তিনি মূসা (আঃ) ও হারূন (আঃ)-কে দেওয়া ২০:৪৪-এর নির্দেশও আনেন: তার সঙ্গে নরম কথা বলো, হয়তো সে উপদেশ নেবে বা ভয় পাবে। সেই নির্দেশ ছিল ফেরাউনের ব্যাপারে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Clause That Explains the Method",
-          "bn": "যে বাক্যাংশ পদ্ধতিটি ব্যাখ্যা করে"
+          "bn": "যে বাক্য পদ্ধতির কারণ বলে"
         },
         "p": [
           {
             "en": "The verse does not stop at method. Inna rabbaka huwa a'lamu bi-man dalla 'an sabilihi wa huwa a'lamu bil-muhtadin — indeed your Lord is most knowing of who has strayed from His way, and most knowing of the guided. The word sabil appears twice in the verse, at the opening and here, and the second time it is His way that people stray from. The caller and the strayer are measured against one road, and neither of them owns it.",
-            "bn": "আয়াতটি পদ্ধতিতেই থেমে থাকে না। ইন্না রাব্বাকা হুওয়া আ'লামু বিমান দাল্লা 'আন সাবীলিহি ওয়া হুওয়া আ'লামু বিল-মুহতাদীন — নিশ্চয়ই তোমার রবই সবচেয়ে ভালো জানেন কে তাঁর পথ থেকে বিচ্যুত হয়েছে, আর তিনিই সবচেয়ে ভালো জানেন কারা হেদায়েতপ্রাপ্ত। 'সাবীল' শব্দটি আয়াতে দুইবার আসে — শুরুতে আর এখানে; দ্বিতীয়বার এটি তাঁরই পথ, যা থেকে মানুষ বিচ্যুত হয়। আহ্বানকারী ও বিচ্যুত ব্যক্তি — দুজনকেই মাপা হচ্ছে একই পথের বিপরীতে, আর সেই পথের মালিক তাদের কেউ নয়।"
+            "bn": "আয়াত শুধু পদ্ধতি বলেই থামে না। ইন্না রাব্বাকা হুওয়া আ'লামু বিমান দাল্লা 'আন সাবীলিহি ওয়া হুওয়া আ'লামু বিল-মুহতাদীন: নিশ্চয়ই তোমার রবই সবচেয়ে ভালো জানেন কে তাঁর পথ থেকে সরে গেছে, আর তিনিই সবচেয়ে ভালো জানেন কারা হেদায়েতের উপর আছে। 'সাবীল' শব্দটি আয়াতে দুবার এসেছে, শুরুতে আর এখানে। দ্বিতীয়বারও সেটা তাঁরই পথ, যা থেকে মানুষ সরে যায়। দাওয়াতদানকারী আর পথহারা মানুষ, দুজনকেই মাপা হচ্ছে একই পথে, আর সেই পথের মালিক তাদের কেউ নয়।"
           },
           {
             "en": "Ibn Kathir draws the consequence: call them to Allah, but do not exhaust yourself with regret over those who go astray, for guiding them is not your task — and he cites 28:56, you do not guide whom you love. The reason clause is therefore a release rather than a threat. If the verdict on who is guided belonged to the caller, harshness might at least be rational. Since it does not, all that is left in his hands is the manner.",
-            "bn": "ইবনে কাসীর এর সিদ্ধান্ত টানেন: তাদের আল্লাহর দিকে ডাকো, কিন্তু যারা পথভ্রষ্ট হয় তাদের নিয়ে আফসোসে নিজেকে নিঃশেষ করো না, কারণ তাদের হেদায়েত দেওয়া তোমার দায়িত্ব নয় — আর তিনি উদ্ধৃত করেন 28:56, তুমি যাকে ভালোবাস তাকে হেদায়েত দিতে পার না। তাই কারণ-বাক্যাংশটি হুমকি নয়, মুক্তি। কে হেদায়েতপ্রাপ্ত সেই রায় যদি আহ্বানকারীর হাতে থাকত, কঠোরতা অন্তত যুক্তিসংগত হতে পারত। যেহেতু তা তার হাতে নেই, তার হাতে থাকে কেবল ভঙ্গিটুকু।"
+            "bn": "ইবনে কাসীর এখান থেকে ফল টানেন: তাদের আল্লাহর দিকে ডাকো, কিন্তু যারা পথ হারায় তাদের জন্য আফসোস করে নিজেকে শেষ করে দিয়ো না; তাদের হেদায়েত দেওয়া তোমার কাজ নয়। এর সঙ্গে তিনি আনেন ২৮:৫৬: তুমি যাকে ভালোবাসো, তাকে হেদায়েত দিতে পারো না। তাই কারণ-বাক্যটি হুমকি নয়, বরং ভার থেকে মুক্তি। কে হেদায়েত পেল, সেই রায় যদি দাওয়াতদানকারীর হাতে থাকত, তবে কঠোরতার অন্তত একটা যুক্তি থাকত। কিন্তু তা তার হাতে নেই; তার হাতে আছে শুধু আচরণটুকু।"
           }
         ]
       },
       {
         "h": {
           "en": "Where It Is Hardest",
-          "bn": "যেখানে এটি সবচেয়ে কঠিন"
+          "bn": "যেখানে কাজটা সবচেয়ে কঠিন"
         },
         "p": [
           {
             "en": "The place this verse is tested now is an argument with an audience. Written exchanges reward the sharp reply, keep it permanently, and let strangers score it — three conditions that make billati hiya ahsan feel like losing. But the verse never assigned the caller a result to win. 3:159 states the cost of the alternative from the other end: had the Prophet ﷺ been rude and hard of heart, they would have dispersed from around him.",
-            "bn": "আজকের দিনে এই আয়াত সবচেয়ে বেশি পরীক্ষিত হয় দর্শকসমেত তর্কে। লিখিত বাহাস তীক্ষ্ণ জবাবকে পুরস্কৃত করে, তা স্থায়ীভাবে জমা রাখে, আর অচেনা লোকদের নম্বর দিতে দেয় — এই তিন শর্ত মিলে 'বিল্লাতী হিয়া আহসান'-কে পরাজয়ের মতো অনুভব করায়। কিন্তু আয়াতটি আহ্বানকারীকে জেতার মতো কোনো ফলাফল দেয়ইনি। 3:159 বিকল্পটির মূল্য অন্য প্রান্ত থেকে বলে দেয়: নবী ﷺ যদি রূঢ় ও কঠোরহৃদয় হতেন, তারা তাঁর চারপাশ থেকে সরে যেত।"
+            "bn": "আজ এই আয়াতের আসল পরীক্ষা হয় লোকজনের সামনে চলা তর্কে। লেখা বাহাসে ধারালো জবাবেরই কদর, সে জবাব চিরকাল থেকে যায়, আর অচেনা লোকেরা তাতে নম্বর দেয়। এই তিন কারণে 'বিল্লাতী হিয়া আহসান' মনে হয় হেরে যাওয়ার মতো। কিন্তু আয়াত তো দাওয়াতদানকারীকে জেতার কোনো লক্ষ্য দেয়ইনি। উল্টো দিক থেকে বিকল্পের দাম জানিয়ে দেয় ৩:১৫৯: নবী ﷺ যদি রূঢ় ও কঠিন হৃদয়ের হতেন, তারা তাঁর চারপাশ থেকে সরে যেত।"
           },
           {
             "en": "Practically the verse sorts a conversation into its parts before it starts. What is being invited to — His way, which means checking that the content is the Book and the Sunnah rather than a personal preference. Who is listening — which decides between wisdom and admonition. And what to do once it turns into a dispute, which the verse answers with a single comparative: better. Whether the person is persuaded is the one part that was never assigned to you at all.",
-            "bn": "ব্যবহারিকভাবে আয়াতটি কথোপকথন শুরুর আগেই তাকে ভাগে ভাগে সাজিয়ে দেয়। কীসের দিকে ডাকা হচ্ছে — তাঁর পথ; অর্থাৎ যাচাই করা যে বিষয়বস্তু ব্যক্তিগত পছন্দ নয়, বরং কিতাব ও সুন্নাহ। কে শুনছে — এটিই ঠিক করে প্রজ্ঞা না উপদেশ। আর তা যখন বিতর্কে গড়ায় তখন কী করতে হবে — এর উত্তর আয়াত দেয় একটিমাত্র তুলনামূলক শব্দে: উত্তমতর। সে ব্যক্তি বুঝবে কি না, সেটুকুই একমাত্র অংশ যা কখনোই আপনার দায়িত্বে দেওয়া হয়নি।"
+            "bn": "বাস্তবে আয়াতটি কথা শুরুর আগেই আলোচনাকে কয়েক ভাগে সাজিয়ে দেয়। কীসের দিকে ডাকছেন? তাঁর পথের দিকে; অর্থাৎ যাচাই করে নিন, যা বলছেন তা কিতাব ও সুন্নাহ, নিজের পছন্দ নয়। কে শুনছে? এটাই ঠিক করে, হিকমত লাগবে না উপদেশ। আর কথা বিতর্কে গড়ালে কী করবেন? আয়াত উত্তর দেয় একটিমাত্র তুলনাবাচক শব্দে: আরও উত্তম। মানুষটি মানবে কি না, শুধু এই অংশটাই কখনো আপনার দায়িত্বে দেওয়া হয়নি।"
           }
         ]
       }
@@ -2661,11 +2661,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nahl has a hundred and twenty-eight verses, so this is the second of its last three, not its closing note. The three work as one movement. In 16:125 comes the instruction to call to the way of your Lord with wisdom and good instruction and to argue in the way that is best. In 16:126 comes the limit on retaliation: if you punish, punish with the equivalent of what you suffered, and if you are patient, that is better for the patient.",
-            "bn": "সূরা আন-নাহলের আয়াত সংখ্যা একশত আটাশ, তাই এটি তার শেষ তিন আয়াতের দ্বিতীয়টি — শেষ কথা নয়। তিনটি একসঙ্গে একটি ধারা হিসেবে কাজ করে। 16:125 আয়াতে আসে নির্দেশ: হিকমত ও সদুপদেশ দিয়ে তোমার প্রতিপালকের পথে ডাকো, আর তর্ক করো সর্বোত্তম পন্থায়। 16:126 আয়াতে আসে প্রতিশোধের সীমা: যদি শাস্তি দাও, তবে যতটুকু কষ্ট পেয়েছ ততটুকুই দাও; আর যদি ধৈর্য ধরো, তা ধৈর্যশীলদের জন্যই উত্তম।"
+            "bn": "সূরা আন-নাহলে আয়াত একশো আটাশটি, তাই এটি শেষ তিন আয়াতের দ্বিতীয়টি, সূরার শেষ কথা নয়। তিনটি আয়াত মিলে একটাই ধারা। ১৬:১২৫-এ নির্দেশ আসে: হিকমত আর সুন্দর উপদেশ দিয়ে তোমার রবের পথে ডাকো, আর তর্ক করো সবচেয়ে উত্তম পন্থায়। ১৬:১২৬-এ আসে প্রতিশোধের সীমা: যদি শাস্তি দাও, তবে যতটুকু কষ্ট পেয়েছ ঠিক ততটুকুই দাও; আর যদি সবর করো, তবে ধৈর্যশীলদের জন্য সেটাই উত্তম।"
           },
           {
             "en": "Our verse then turns from the community to the one carrying the burden of the call, and 16:128 closes with the ground under all of it: indeed Allah is with those who are mindful of Him and those who do good. Read in that order the passage narrows steadily — from how to speak to everyone, to what to do when they hit back, to what to do inside your own chest, and finally to who is standing with you while you do it.",
-            "bn": "এরপর আমাদের আয়াতটি সম্প্রদায় থেকে মুখ ফিরিয়ে সেই ব্যক্তির দিকে আসে যিনি দাওয়াতের বোঝা বইছেন; আর 16:128 শেষ করে গোটা বিষয়টির ভিত্তি দিয়ে: নিশ্চয়ই আল্লাহ তাদের সঙ্গে আছেন যারা তাকওয়া অবলম্বন করে এবং যারা সৎকর্মশীল। এই ক্রমে পড়লে অনুচ্ছেদটি ক্রমাগত সরু হয়ে আসে — সবার সঙ্গে কীভাবে কথা বলতে হবে, তারা পাল্টা আঘাত করলে কী করতে হবে, নিজের বুকের ভেতরে কী করতে হবে, আর শেষে — এসব করার সময় কে আপনার সঙ্গে দাঁড়িয়ে আছেন।"
+            "bn": "এরপর আমাদের আয়াত গোটা সম্প্রদায় থেকে সরে আসে সেই একজনের দিকে, যিনি দাওয়াতের বোঝা বইছেন। আর ১৬:১২৮ শেষ করে সবকিছুর ভিত্তির কথা বলে: নিশ্চয়ই আল্লাহ তাদের সঙ্গে আছেন যারা তাকওয়া অবলম্বন করে এবং যারা সৎকর্মশীল। এই ক্রমে পড়লে অংশটা ধাপে ধাপে সরু হয়ে আসে: সবার সঙ্গে কীভাবে কথা বলবেন, তারা পাল্টা আঘাত করলে কী করবেন, নিজের বুকের ভেতর কী করবেন, আর শেষে, এসব করার সময় কে আপনার পাশে আছেন।"
           }
         ]
       },
@@ -2677,7 +2677,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tirmidhi records, and al-Wahidi and Ibn Kathir repeat, that the verse before this one came down at Uhud when the Prophet ﷺ stood over the mutilated body of his uncle Hamzah (RA) and spoke of answering in kind, and that he then chose patience and forbade mutilation. The chain of that report has been questioned, so it is fairer to present it as the commentators' account than as an established occasion of revelation. Surah an-Nahl is Makkan in the main, and these closing verses are widely held to belong to the Madinan period.",
-            "bn": "আত-তিরমিযী লিপিবদ্ধ করেন, আর আল-ওয়াহিদী ও ইবনে কাসীর তা পুনরাবৃত্তি করেন যে, এর আগের আয়াতটি উহুদে নাযিল হয়েছিল, যখন নবী ﷺ তাঁর চাচা হামযা (রাঃ)-এর অঙ্গবিকৃত দেহের পাশে দাঁড়িয়ে সমানভাবে জবাব দেওয়ার কথা বলেছিলেন, আর তারপর তিনি ধৈর্য বেছে নেন ও অঙ্গবিকৃতি নিষেধ করেন। এই বর্ণনার সনদ নিয়ে প্রশ্ন তোলা হয়েছে, তাই একে প্রতিষ্ঠিত শানে নুযূল না বলে মুফাসসিরদের বিবরণ হিসেবে উপস্থাপন করাই ন্যায়সংগত। সূরা আন-নাহল মূলত মক্কী, আর এই শেষ আয়াতগুলোকে ব্যাপকভাবে মাদানী পর্বের বলে ধরা হয়।"
+            "bn": "আত-তিরমিযী বর্ণনা করেছেন, আর আল-ওয়াহিদী ও ইবনে কাসীরও তা এনেছেন: এর আগের আয়াতটি নাজিল হয়েছিল উহুদে, যখন নবী ﷺ তাঁর চাচা হামযা (রাঃ)-এর বিকৃত করা লাশের পাশে দাঁড়িয়ে পাল্টা একই রকম জবাব দেওয়ার কথা বলেছিলেন। তারপর তিনি সবর বেছে নেন এবং লাশ বিকৃত করা নিষেধ করেন। এই বর্ণনার সনদ নিয়ে প্রশ্ন আছে, তাই একে নিশ্চিত শানে নুযূল না বলে মুফাসসিরদের বিবরণ হিসেবে পেশ করাই ইনসাফ। সূরা আন-নাহল মূলত মক্কী, তবে শেষের এই আয়াতগুলোকে অনেকেই মাদানী যুগের বলে মনে করেন।"
           }
         ]
       },
@@ -2689,11 +2689,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with one command and then immediately qualifies it: wasbir, be patient, wa ma sabruka illa billah, and your patience is not except through Allah. That qualifier uses the strongest restriction Arabic has, a negation followed by an exception, which shuts every other possibility out. Nothing softer would do the job. The sentence does not say Allah helps with patience; it says there is no patience of yours that is not through Him.",
-            "bn": "আয়াতটি শুরু হয় একটি আদেশ দিয়ে, আর সঙ্গে সঙ্গেই তাতে শর্ত জুড়ে দেয়: 'ওয়াসবির' — ধৈর্য ধরো, 'ওয়া মা সাবরুকা ইল্লা বিল্লাহ' — আর তোমার ধৈর্য আল্লাহর মাধ্যম ছাড়া নয়। এই শর্তটি আরবির সবচেয়ে শক্ত সীমাবদ্ধকরণ ব্যবহার করে — অস্বীকৃতির পর ব্যতিক্রম — যা অন্য সব সম্ভাবনা বন্ধ করে দেয়। এর চেয়ে নরম কিছুতে কাজ হতো না। বাক্যটি বলে না যে আল্লাহ ধৈর্যে সাহায্য করেন; এটি বলে, তোমার এমন কোনো ধৈর্যই নেই যা তাঁর মাধ্যমে নয়।"
+            "bn": "আয়াত শুরু হয় একটি আদেশ দিয়ে, আর সঙ্গে সঙ্গেই তাতে একটা শর্ত জুড়ে দেয়: 'ওয়াসবির', ধৈর্য ধরো; 'ওয়া মা সাবরুকা ইল্লা বিল্লাহ', আর তোমার ধৈর্য কেবল আল্লাহর মাধ্যমেই। এই শর্তে আরবির সবচেয়ে জোরালো সীমা-টানা গঠনটি এসেছে: আগে না-বাচক, তারপর ব্যতিক্রম। এতে অন্য সব সম্ভাবনা বন্ধ হয়ে যায়। এর চেয়ে নরম কিছুতে কাজ হতো না। বাক্যটি বলে না যে আল্লাহ ধৈর্য ধরতে সাহায্য করেন; বলে, তোমার এমন কোনো ধৈর্যই নেই, যা তাঁর মাধ্যমে আসে না।"
           },
           {
             "en": "As-Sa'di draws the practical conclusion, that a person who tries to endure on his own reserves is drawing on an account that was never his. This is why the same Quran that commands patience so often also has believers asking for it, as in 2:250 where an outnumbered army asks their Lord for patience before facing Goliath. The command and the request are not in tension. The command tells you what is required; the clause tells you where to get it.",
-            "bn": "আস-সা'দী ব্যবহারিক সিদ্ধান্তটি টানেন: যে মানুষ নিজের সঞ্চয় থেকে সহ্য করতে চায়, সে এমন একটি হিসাব থেকে তুলছে যা কখনো তার ছিল না। এ কারণেই যে কুরআন এত বারবার ধৈর্যের আদেশ দেয়, সেখানেই মুমিনদের ধৈর্য চাইতেও দেখা যায় — যেমন 2:250 আয়াতে সংখ্যায় কম একটি বাহিনী জ্বালুতের মুখোমুখি হওয়ার আগে তাদের প্রতিপালকের কাছে ধৈর্য চায়। আদেশ ও চাওয়ার মধ্যে কোনো টানাপোড়েন নেই। আদেশ বলে কী দরকার; বাক্যাংশটি বলে তা কোথা থেকে পেতে হবে।"
+            "bn": "আস-সা'দী এর বাস্তব শিক্ষাটা টানেন: যে মানুষ নিজের জমানো শক্তি দিয়ে সহ্য করতে চায়, সে এমন হিসাব থেকে তুলছে যা কখনো তার ছিলই না। এ কারণেই যে কুরআন বারবার ধৈর্যের আদেশ দেয়, সেই কুরআনেই মুমিনদের প্রায়ই ধৈর্য চাইতে দেখা যায়। যেমন ২:২৫০-এ সংখ্যায় কম এক বাহিনী জালুতের মুখোমুখি হওয়ার আগে তাদের রবের কাছে ধৈর্য চায়। আদেশ আর চাওয়ার মধ্যে কোনো বিরোধ নেই। আদেশ বলে কী লাগবে; বাক্যাংশটি বলে তা কোথা থেকে পাবেন।"
           }
         ]
       },
@@ -2705,18 +2705,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "After the command come two prohibitions, so three instructions in all. Do not grieve over them: the grief named here is not grief for oneself but for the people who are refusing, which is the particular sorrow of anyone who has invited someone to something good and been turned down. Then, do not be in dayq over what they plot. Dayq is narrowness, the physical sense of a chest with no room in it.",
-            "bn": "আদেশের পরে আসে দুটি নিষেধ, অর্থাৎ মোট তিনটি নির্দেশ। তাদের জন্য দুঃখ করো না: এখানে যে দুঃখের কথা, তা নিজের জন্য নয়, বরং যারা প্রত্যাখ্যান করছে তাদের জন্য — যে কেউ কাউকে ভালো কিছুর দিকে ডেকে প্রত্যাখ্যাত হয়েছে, তারই সেই বিশেষ বেদনা। তারপর, তারা যে ষড়যন্ত্র করে তাতে 'দাইক্ব'-এর মধ্যে থেকো না। 'দাইক্ব' মানে সংকীর্ণতা — বুকের ভেতরে জায়গা না থাকার শারীরিক অনুভূতি।"
+            "bn": "আদেশের পরে আসে দুটি নিষেধ, সব মিলিয়ে তিনটি নির্দেশ। তাদের জন্য দুঃখ করো না: এখানে দুঃখটা নিজের জন্য নয়, যারা মুখ ফিরিয়ে নিচ্ছে তাদের জন্য। কাউকে ভালো কিছুর দিকে ডেকে প্রত্যাখ্যাত হলে মানুষ ঠিক এই বেদনাই পায়। তারপর: তারা যে চক্রান্ত করে, তাতে 'দাইক্ব'-এ থেকো না। 'দাইক্ব' মানে সংকীর্ণতা, বুকের ভেতর একটুও জায়গা না থাকার শারীরিক অনুভূতি।"
           },
           {
             "en": "The same root describes the Prophet ﷺ in 15:97, where Allah says He knows that his breast is constrained by what they say. That is worth putting beside this verse. The constriction is not denied or treated as a fault; it is acknowledged by the One who sees it, and then the instruction is given anyway. The verb here is also in a shortened form, la taku rather than the full la takun, which the grammarians note as a lighter, closer way of speaking.",
-            "bn": "একই ধাতুমূল 15:97 আয়াতে নবী ﷺ-এর বর্ণনায় আসে, যেখানে আল্লাহ বলেন তিনি জানেন যে তারা যা বলে তাতে তাঁর মন সংকুচিত হয়। এটি এই আয়াতের পাশে রাখার মতো। সংকোচনটিকে অস্বীকার করা হয় না, দোষ হিসেবেও ধরা হয় না; যিনি তা দেখেন তিনিই তা স্বীকার করেন, আর তারপরও নির্দেশটি দেওয়া হয়। এখানে ক্রিয়াপদটিও সংক্ষিপ্ত রূপে — পূর্ণ 'লা তাকুন' নয়, 'লা তাকু' — যা ব্যাকরণবিদরা হালকা ও ঘনিষ্ঠতর বলার ভঙ্গি হিসেবে উল্লেখ করেন।"
+            "bn": "একই ধাতু ১৫:৯৭-এ এসেছে নবী ﷺ-এর বর্ণনায়, যেখানে আল্লাহ বলেন, তিনি জানেন তাদের কথায় তাঁর বুক সংকুচিত হয়। এই আয়াতের পাশে এটা রেখে দেখার মতো। সংকোচটাকে অস্বীকার করা হয়নি, দোষ হিসেবেও ধরা হয়নি; যিনি তা দেখেন তিনি নিজেই তা স্বীকার করেছেন, আর তারপরও নির্দেশটা দিয়েছেন। এখানে ক্রিয়াটাও ছোট রূপে এসেছে: পূর্ণ 'লা তাকুন' নয়, 'লা তাকু'। ব্যাকরণবিদেরা বলেন, এটা কথা বলার হালকা ও আরও কাছের ভঙ্গি।"
           }
         ]
       },
       {
         "h": {
           "en": "The Ground It Rests On",
-          "bn": "যে ভিত্তির ওপর এটি দাঁড়ানো"
+          "bn": "যার উপর সবকিছু দাঁড়িয়ে"
         },
         "p": [
           {
