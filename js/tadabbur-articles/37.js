@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah as-Saffat opens with three oaths in two words each: by those ranged in ranks, by those who drive, by those who recite a reminder. Ibn Kathir, in his abridged English commentary, reports from Ibn Mas'ud that all three are the angels, and lists Ibn 'Abbas, Masruq, Sa'id ibn Jubayr, 'Ikrima, Mujahid, as-Suddi, Qatada and ar-Rabi' ibn Anas as holding the same view. Then 37:4 delivers what the oaths were sworn for: inna ilahakum la-wahid, indeed your God is One.",
-            "bn": "সূরা আস-সাফফাত শুরু হয় তিনটি শপথ দিয়ে, প্রতিটি দুই শব্দের। শপথ সারিবদ্ধদের, শপথ যারা হাঁকিয়ে নেয় তাদের, শপথ যারা উপদেশ পাঠ করে তাদের। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করে, তিনটিই ফেরেশতা। একই মত হিসেবে তিনি নাম দেন ইবন আব্বাস (রাঃ), মাসরূক, সাঈদ ইবন জুবাইর, ইকরিমা, মুজাহিদ, সুদ্দী, কাতাদা ও রাবী ইবন আনাসের। এরপর ৩৭:৪ আয়াত জানিয়ে দেয় শপথগুলো কীসের জন্য: ইন্না ইলাহাকুম লা-ওয়াহিদ, নিশ্চয় তোমাদের ইলাহ একজন।"
+            "bn": "সূরা আস-সাফফাত শুরু হয় তিনটি শপথ দিয়ে, প্রতিটি মাত্র দুই শব্দের। শপথ সারিবদ্ধদের, শপথ যারা হাঁকিয়ে নেয় তাদের, শপথ যারা উপদেশ পাঠ করে তাদের। ইবন কাসীর তাঁর সংক্ষিপ্ত ইংরেজি তাফসীরে ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন, তিনটিই ফেরেশতা। একই মত যাঁদের, তাঁদের নামও তিনি উল্লেখ করেন: ইবন আব্বাস (রাঃ), মাসরূক, সাঈদ ইবন জুবাইর, ইকরিমা, মুজাহিদ, সুদ্দী, কাতাদা ও রাবী ইবন আনাস। এরপর ৩৭:৪ আয়াত জানিয়ে দেয় শপথগুলো কীসের জন্য: ইন্না ইলাহাকুম লা-ওয়াহিদ, নিশ্চয় তোমাদের ইলাহ একজন।"
           },
           {
             "en": "Ibn Kathir names that sentence plainly as al-muqsam 'alayh, the thing sworn to: that there is no god but He. At-Tabari carries the same reading from Qatada, who said the oath fell on this, that your God is One, and then recited 37:5 straight after it. So 37:5 is not a new subject. The oaths have just landed on the word One, and this verse stays with that word and opens it out, telling the listener which One is meant and how He can be known.",
-            "bn": "ইবন কাসীর বাক্যটিকে সরাসরি বলেন আল-মুকসাম আলাইহ, যে কথার উপর শপথ করা হয়েছে: তিনি ছাড়া কোনো ইলাহ নেই। তাবারী একই পাঠ আনেন কাতাদা থেকে। কাতাদা বলেন, শপথ পড়েছে এই কথার উপর যে তোমাদের ইলাহ একজন, তারপর ঠিক পরেই তিনি ৩৭:৫ আয়াত পাঠ করেন। তাই ৩৭:৫ নতুন কোনো প্রসঙ্গ নয়। শপথগুলো সবে 'এক' শব্দে এসে থেমেছে। এ আয়াত সেই শব্দেই থাকে আর তাকে খুলে দেখায়, কোন একজনের কথা বলা হচ্ছে আর তাঁকে কীভাবে চেনা যায়।"
+            "bn": "ইবন কাসীর বাক্যটির নাম সরাসরি বলে দেন: আল-মুকসাম আলাইহ, অর্থাৎ যে কথার উপর শপথ। সে কথা হলো, তিনি ছাড়া কোনো ইলাহ নেই। তাবারী কাতাদা থেকে একই ব্যাখ্যা আনেন। কাতাদা বলেন, শপথ করা হয়েছে এই কথার উপর: তোমাদের ইলাহ একজন। তারপর ঠিক পরেই তিনি ৩৭:৫ আয়াত পাঠ করেন। তাই ৩৭:৫ নতুন কোনো প্রসঙ্গ নয়। শপথগুলো সবে 'এক' শব্দে এসে থেমেছে। এ আয়াত সেই শব্দেই থেকে তাকে খুলে দেখায়: কোন একজনের কথা বলা হচ্ছে, আর তাঁকে কীভাবে চেনা যায়।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari reads the verse as a definition. He is One, the creator of the seven heavens and of the creatures between them, the owner of all of it and the one who keeps it standing. Then he draws the conclusion the verse is built for: worship is fit only for the one who has this description, so do not worship another, and do not set beside Him in worship what neither harms nor benefits, creates nothing and ends nothing. The description is the argument.",
-            "bn": "তাবারী আয়াতটিকে পড়েন একটি সংজ্ঞা হিসেবে। তিনি একজন, সাতটি আসমানের স্রষ্টা, আর এর মাঝে যত সৃষ্টি আছে তাদেরও স্রষ্টা। সবকিছুর মালিক তিনি, সবকিছু টিকিয়ে রাখেনও তিনি। তারপর তাবারী সেই সিদ্ধান্ত টানেন, যার জন্য আয়াতটি সাজানো: যাঁর এই গুণ, ইবাদত কেবল তাঁরই জন্য মানায়। তাই অন্য কারও ইবাদত কোরো না। যা ক্ষতিও করতে পারে না, উপকারও না, কিছু সৃষ্টি করে না, কিছু বিলীনও করে না, তাকে তাঁর ইবাদতে শরিক কোরো না। এখানে গুণের বর্ণনাটাই যুক্তি।"
+            "bn": "তাবারীর কাছে আয়াতটি যেন একটা সংজ্ঞা। তিনি একজন, সাত আসমানের স্রষ্টা, আর এর মাঝে যত সৃষ্টি আছে তাদেরও স্রষ্টা। সবকিছুর মালিক তিনি, সবকিছু টিকিয়েও রাখেন তিনি। তারপর তাবারী সেই সিদ্ধান্তে পৌঁছান, যার জন্য আয়াতটি সাজানো: যাঁর এই গুণ, ইবাদত কেবল তাঁরই প্রাপ্য। তাই অন্য কারও ইবাদত করা যাবে না। যা ক্ষতিও করতে পারে না, উপকারও না, কিছু সৃষ্টি করে না, কিছু শেষও করে না, তাকে তাঁর ইবাদতে শরিক করা যাবে না। এখানে গুণের বর্ণনাটাই যুক্তি।"
           },
           {
             "en": "A small grammatical aside belongs here, because it says the same thing from another side. At-Tabari records that grammarians differed on why Rabb stands in the nominative, whether as a fresh predicate or as a restatement of wahid, and he prefers the second: Lord of the heavens explains what One means; al-Qurtubi adds that al-Akhfash recorded an accusative reading, taken as a description of the subject of inna. Whichever parsing one follows, the sense holds: the Lord of the heavens is what One means.",
-            "bn": "এখানে ব্যাকরণের ছোট্ট একটা কথা আসে, কারণ তা একই কথা অন্য দিক থেকে বলে। তাবারী জানান, রব্ব শব্দটি কেন পেশযুক্ত, তা নিয়ে ব্যাকরণবিদদের মতভেদ আছে। কারও মতে এটি নতুন বিধেয়, কারও মতে 'ওয়াহিদ' শব্দেরই পুনরুক্তি। তাবারী দ্বিতীয়টিকে অগ্রাধিকার দেন: আসমানের রব কথাটি 'এক' শব্দের ব্যাখ্যা। কুরতুবী যোগ করেন, আখফাশ যবরযুক্ত একটি পাঠ উল্লেখ করেছেন, যা 'ইন্না'-এর উদ্দেশ্যের বিশেষণ হিসেবে ধরা হয়। যে বিশ্লেষণই নিন, অর্থ একই থাকে: আসমানের রব, এটাই 'এক'-এর মানে।"
+            "bn": "এখানে ব্যাকরণের ছোট একটা কথা বলে রাখা ভালো, কারণ সেটাও অন্য দিক থেকে একই কথা বলে। তাবারী জানান, রব্ব শব্দটি কেন পেশযুক্ত, তা নিয়ে ব্যাকরণবিদদের মতভেদ আছে। কারও মতে এটি নতুন বিধেয়, কারও মতে 'ওয়াহিদ' শব্দেরই পুনরুক্তি। তাবারী দ্বিতীয় মতটিকে প্রাধান্য দেন: আসমানের রব কথাটি 'এক' শব্দের ব্যাখ্যা। কুরতুবী যোগ করেন, আখফাশ যবরযুক্ত একটি পাঠও উল্লেখ করেছেন, যেখানে শব্দটিকে 'ইন্না'-এর উদ্দেশ্যের বিশেষণ ধরা হয়। যে বিশ্লেষণই নিন, অর্থ একই থাকে: আসমানের রব, এটাই 'এক'-এর মানে।"
           }
         ]
       },
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di names the method. He is the creator of these things, their provider and their manager, and just as He has no partner in His lordship over them, He has no partner in His right to be worshipped. Allah often establishes the oneness of worship through the oneness of lordship, he notes, because the first points to the second. And the idolaters in worship had already conceded the lordship, so the verse holds them to what they admitted against what they denied.",
-            "bn": "সা'দী পদ্ধতিটার নাম দেন। তিনিই এসবের স্রষ্টা, রিযিকদাতা ও পরিচালক। এগুলোর রুবূবিয়্যাতে যেমন তাঁর কোনো শরিক নেই, তেমনি উলূহিয়্যাতেও কোনো শরিক নেই। সা'দী লক্ষ করেন, আল্লাহ প্রায়ই রুবূবিয়্যাতের তাওহীদ দিয়ে ইবাদতের তাওহীদ প্রতিষ্ঠা করেন, কারণ প্রথমটি দ্বিতীয়টির দিকে ইঙ্গিত করে। যারা ইবাদতে শিরক করত, তারাও রুবূবিয়্যাত মেনে নিয়েছিল। তাই আয়াত তাদের স্বীকার করা কথা দিয়েই অস্বীকার করা কথার জবাব আদায় করে।"
+            "bn": "সা'দী পদ্ধতিটা খুলে বলেন। তিনিই এসবের স্রষ্টা, রিযিকদাতা ও পরিচালক। এগুলোর রুবূবিয়্যাতে যেমন তাঁর কোনো শরিক নেই, তেমনি ইবাদত পাওয়ার হকেও তাঁর কোনো শরিক নেই। সা'দী লক্ষ করেন, আল্লাহ প্রায়ই রুবূবিয়্যাতের তাওহীদ দিয়ে ইবাদতের তাওহীদ প্রতিষ্ঠা করেন, কারণ প্রথমটি দ্বিতীয়টির দিকে ইঙ্গিত করে। যারা ইবাদতে শিরক করত, তারাও রুবূবিয়্যাত মেনে নিয়েছিল। তাই আয়াতটি তাদের মেনে নেওয়া কথা দিয়েই তাদের অস্বীকারের জবাব দেয়।"
           },
           {
             "en": "Ma'arif al-Qur'an puts it as a conclusion about ownership: a Being who created and sustains such a range of creation has to be the One most deserving of it, and the whole universe is a positive proof of His existence and oneness. The verse does not argue by abstraction. It points at things the listener can see every day, the sky overhead, the ground underfoot, and the space between, and asks who else could be meant.",
@@ -81,7 +81,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir widens the frame beyond the sun. Lord of the sunrises means the sovereign who directs creation by subjecting what is in it, the fixed stars and the moving planets that appear from the east and set in the west. Al-Baghawi records one more view, introduced with it is said: every place the sun has shone upon is a sunrise, as if the verse meant Lord of everything the sun rises and sets upon. These are offered side by side, and none of the commentators here rules the others out.",
-            "bn": "ইবন কাসীর ছবিটা সূর্যের বাইরেও ছড়িয়ে দেন। উদয়স্থলের রব মানে সেই অধিপতি, যিনি সৃষ্টির সবকিছুকে বশে রেখে পরিচালনা করেন: স্থির তারা আর চলমান গ্রহ, যারা পূর্বে দেখা দেয়, পশ্চিমে ডোবে। বাগাভী 'বলা হয়' দিয়ে আরও একটি মত আনেন: সূর্য যেখানেই আলো ফেলেছে, সেটাই একটি উদয়স্থল। যেন আয়াতের মানে, সূর্য যা কিছুর উপর ওঠে আর ডোবে, তার সবকিছুর রব। মতগুলো পাশাপাশি রাখা আছে, এখানকার কোনো তাফসীরকার অন্যদেরটা বাতিল করেননি।"
+            "bn": "ইবন কাসীর ছবিটা সূর্যের বাইরেও ছড়িয়ে দেন। উদয়স্থলের রব মানে সেই অধিপতি, যিনি সৃষ্টির সবকিছুকে বশে রেখে পরিচালনা করেন: স্থির তারা আর চলমান গ্রহ, যারা পূর্বে দেখা দেয়, পশ্চিমে ডোবে। বাগাভী 'বলা হয়' দিয়ে আরও একটি মত আনেন: সূর্য যেখানেই আলো ফেলেছে, সেটাই একটি উদয়স্থল। যেন আয়াতের মানে, সূর্য যা কিছুর উপর ওঠে আর ডোবে, তার সবকিছুর রব। মতগুলো পাশাপাশি এসেছে। এখানকার কোনো তাফসীরকার অন্যদের মত বাতিল করেননি।"
           }
         ]
       },
@@ -93,7 +93,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names the risings and leaves the settings unsaid. At-Tabari, Ibn Kathir and al-Qurtubi all explain the silence the same way: the risings point to the settings, so mentioning one is enough. Ibn Kathir notes that the pair is stated outright in 70:40, Lord of the risings and the settings. Al-Qurtubi compares it to 16:81, garments that protect you from the heat, where the cold is understood, and adds that the risings are named because rising comes before setting.",
-            "bn": "আয়াত উদয়স্থলের কথা বলে, অস্তস্থলের কথা বলে না। তাবারী, ইবন কাসীর ও কুরতুবী এই নীরবতার একই ব্যাখ্যা দেন: উদয়স্থলই অস্তস্থলের দিকে ইঙ্গিত করে, তাই একটির উল্লেখই যথেষ্ট। ইবন কাসীর দেখান, ৭০:৪০ আয়াতে জোড়াটা স্পষ্ট করেই আছে: উদয়স্থল ও অস্তস্থলগুলোর রব। কুরতুবী তুলনা টানেন ১৬:৮১ আয়াতের সঙ্গে, যেখানে পোশাক গরম থেকে বাঁচায় বলা হয়েছে আর শীতের কথা বুঝে নিতে হয়। তিনি আরও বলেন, উদয়ের কথা আগে এসেছে কারণ উদয় অস্তের আগে ঘটে।"
+            "bn": "আয়াত উদয়স্থলের কথা বলে, অস্তস্থলের কথা বলে না। তাবারী, ইবন কাসীর ও কুরতুবী এই নীরবতার একই ব্যাখ্যা দেন: উদয়স্থলই অস্তস্থলের দিকে ইঙ্গিত করে, তাই একটির উল্লেখই যথেষ্ট। ইবন কাসীর দেখান, ৭০:৪০ আয়াতে জোড়াটা স্পষ্ট করেই আছে: উদয়স্থল ও অস্তস্থলগুলোর রব। কুরতুবী তুলনা টানেন ১৬:৮১ আয়াতের সঙ্গে। সেখানে বলা হয়েছে পোশাক গরম থেকে বাঁচায়, শীতের কথা বুঝে নিতে হয়। তিনি আরও বলেন, উদয়স্থলের নামই নেওয়া হয়েছে, কারণ উদয় অস্তের আগে ঘটে।"
           },
           {
             "en": "Al-Baghawi raises the obvious question. The Qur'an says Lord of the east and the west in 73:9, Lord of the two easts and the two wests in 55:17, and Lord of the risings and the settings in 70:40. How do these fit together? His answer: the singular means the direction, east as one side and west as the other; the dual means the rising of winter and the rising of summer, with their two settings; and the plural means the daily risings across the year.",
@@ -113,15 +113,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi carries a report from Ibn 'Abbas with a different number. Allah created for the sun 365 apertures at its rising and as many at its setting, by the count of the days of the solar year. It rises each day from one and sets in one, and does not rise from that aperture again until the same day of the next year. And it never rises except reluctantly, saying: My Lord, do not make me rise upon Your servants, for I see them disobeying You.",
-            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন, যাতে সংখ্যাটা আলাদা। আল্লাহ সূর্যের জন্য উদয়ের দিকে ৩৬৫টি ফোকর বানিয়েছেন, অস্তের দিকেও ততগুলো, সৌর বছরের দিনের সংখ্যা অনুযায়ী। প্রতিদিন সূর্য একটি থেকে ওঠে, একটিতে ডোবে। পরের বছরের সেই দিন না আসা পর্যন্ত ওই ফোকর দিয়ে আর ওঠে না। আর সে কখনো খুশি মনে ওঠে না। বলে: হে রব, আমাকে তোমার বান্দাদের উপর উদিত কোরো না, আমি তো দেখি তারা তোমার নাফরমানি করে।"
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন, যাতে সংখ্যাটা আলাদা। আল্লাহ সূর্যের জন্য উদয়ের দিকে ৩৬৫টি ফোকর বানিয়েছেন, অস্তের দিকেও ততগুলো, সৌর বছরের দিনের সংখ্যা অনুযায়ী। প্রতিদিন সূর্য একটি দিয়ে ওঠে, একটিতে ডোবে। পরের বছরের সেই দিন না আসা পর্যন্ত ওই ফোকর দিয়ে আর ওঠে না। আর সে ওঠে সবসময় অনিচ্ছা নিয়ে, বলে: হে আমার রব, আমাকে আপনার বান্দাদের উপর উদিত করবেন না, আমি তো দেখি তারা আপনার নাফরমানি করে।"
           },
           {
             "en": "Al-Qurtubi says Abu 'Umar mentioned this in at-Tamhid and Ibn al-Anbari in ar-Radd, through 'Ikrima, and the chain runs into a longer narration. 'Ikrima asked Ibn 'Abbas about the poet Umayya ibn Abi as-Salt, of whom the Prophet ﷺ is reported to have said that his poetry believed and his heart disbelieved, and about a line of his on the sun. Ibn 'Abbas answered that no sun ever rose until seventy thousand angels prodded it, saying rise, rise, while it said: I will not rise upon a people who worship me instead of Allah.",
-            "bn": "কুরতুবী বলেন, আবূ উমার আত-তামহীদ গ্রন্থে আর ইবনুল আম্বারী আর-রাদ্দ গ্রন্থে এটি উল্লেখ করেছেন, ইকরিমার সূত্রে। সেই সূত্র গিয়ে মেশে আরও লম্বা এক বর্ণনায়। ইকরিমা ইবন আব্বাস (রাঃ)-কে কবি উমাইয়া ইবন আবিস সালত সম্পর্কে জিজ্ঞেস করেন। তাঁর ব্যাপারে নবী ﷺ বলেছেন বলে বর্ণিত আছে, তার কবিতা ঈমান এনেছিল, অন্তর কুফরি করেছিল। প্রশ্ন ছিল সূর্য নিয়ে তার এক পঙক্তি ঘিরে। ইবন আব্বাস (রাঃ) বলেন, সত্তর হাজার ফেরেশতা খোঁচা না দেওয়া পর্যন্ত কোনো দিন সূর্য ওঠেনি। তারা বলে, ওঠো, ওঠো। আর সূর্য বলে, যে জাতি আল্লাহকে ছেড়ে আমার উপাসনা করে, তাদের উপর আমি উঠব না।"
+            "bn": "কুরতুবী বলেন, আবূ উমার আত-তামহীদ গ্রন্থে আর ইবনুল আম্বারী আর-রাদ্দ গ্রন্থে এটি উল্লেখ করেছেন, ইকরিমার সূত্রে। সেই সূত্র গিয়ে মেশে আরও লম্বা এক বর্ণনায়। ইকরিমা ইবন আব্বাস (রাঃ)-কে কবি উমাইয়া ইবন আবিস সালত সম্পর্কে জিজ্ঞেস করেন। তার সম্পর্কে নবী ﷺ বলেছেন বলে বর্ণিত আছে, তার কবিতা ঈমান এনেছিল, কিন্তু অন্তর কুফরি করেছিল। প্রশ্ন ছিল সূর্য নিয়ে লেখা তার এক পঙক্তি সম্পর্কেও। ইবন আব্বাস (রাঃ) বলেন, সত্তর হাজার ফেরেশতা খোঁচা না দেওয়া পর্যন্ত কোনো দিন সূর্য ওঠেনি। তারা বলে, ওঠো, ওঠো। আর সূর্য বলে, যে জাতি আল্লাহকে ছেড়ে আমার উপাসনা করে, তাদের উপর আমি উঠব না।"
           },
           {
             "en": "In the same narration an angel comes and the sun sets out to give light to the children of Adam; a devil comes wanting to stop it from rising, and it rises between his two horns, and Allah burns him beneath it. This is al-Qurtubi's narration, through 'Ikrima from Ibn 'Abbas as recorded in those two named books, and al-Qurtubi gives it no grading. Its count of 365 stands beside as-Suddi's 360 in at-Tabari; each is reported as its own source gives it.",
-            "bn": "একই বর্ণনায় আছে, একজন ফেরেশতা আসেন, আর সূর্য আদমসন্তানদের আলো দিতে রওনা হয়। এক শয়তান আসে তাকে উঠতে বাধা দিতে। সূর্য ওঠে তার দুই শিংয়ের মাঝ দিয়ে, আর আল্লাহ তাকে সূর্যের নিচে পুড়িয়ে দেন। এটি কুরতুবীর আনা বর্ণনা, ইকরিমার মাধ্যমে ইবন আব্বাস (রাঃ) থেকে, ওই দুটি নামধারী গ্রন্থের বরাতে। কুরতুবী এর কোনো মান নির্ণয় করেননি। এর ৩৬৫ সংখ্যাটি তাবারীতে সুদ্দীর ৩৬০-এর পাশে থাকে। প্রত্যেকটি তার নিজ সূত্রে যেভাবে এসেছে, সেভাবেই উল্লেখ করা হলো।"
+            "bn": "একই বর্ণনায় আছে, একজন ফেরেশতা আসেন, আর সূর্য আদমসন্তানদের আলো দিতে রওনা হয়। এক শয়তান আসে তাকে উঠতে বাধা দিতে। সূর্য ওঠে তার দুই শিংয়ের মাঝ দিয়ে, আর আল্লাহ তাকে সূর্যের নিচে পুড়িয়ে দেন। বর্ণনাটি কুরতুবীর আনা, ইকরিমার মাধ্যমে ইবন আব্বাস (রাঃ) থেকে, ওপরে নাম বলা ওই দুই গ্রন্থের বরাতে। কুরতুবী এর কোনো মান উল্লেখ করেননি। এর ৩৬৫ সংখ্যাটি থাকে তাবারীতে সুদ্দীর ৩৬০-এর পাশে। যে সূত্রে যেটা যেভাবে এসেছে, সেভাবেই তুলে ধরা হলো।"
           }
         ]
       },
@@ -141,23 +141,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Read alongside the verse, the narration and the hadith keep the sun in its place. It is a creature that rises and sets under its Lord, not a lord itself, and the verse has just named who the Lord of its risings is. The narration's sun that refuses to rise upon those who worship it names an ancient practice, sun-worship, in general terms. It describes what the text describes and licenses nothing against any living person or community.",
-            "bn": "আয়াতের পাশে রাখলে বর্ণনাটি আর হাদীসটি সূর্যকে তার জায়গায় রাখে। সূর্য এক সৃষ্টি, রবের হুকুমে ওঠে আর ডোবে, নিজে কোনো রব নয়। আর তার উদয়স্থলগুলোর রব কে, আয়াত তা এইমাত্র বলে দিয়েছে। বর্ণনায় যে সূর্য তার উপাসকদের উপর উঠতে চায় না, সে ইঙ্গিত দেয় প্রাচীন এক প্রথার দিকে, সূর্যপূজা, সাধারণভাবে। পাঠে যা আছে, এ কথা কেবল সেটুকুই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ থেকে মেলে না।"
+            "bn": "আয়াতের সঙ্গে মিলিয়ে পড়লে বর্ণনা আর হাদিস দুটোই সূর্যকে তার আসল জায়গায় রাখে। সূর্য একটা সৃষ্টি, রবের হুকুমে ওঠে আর ডোবে, নিজে কোনো রব নয়। আর তার উদয়স্থলগুলোর রব কে, আয়াত তা এইমাত্র বলে দিয়েছে। বর্ণনার সূর্য তার উপাসকদের উপর উঠতে চায় না। এতে সাধারণভাবে প্রাচীন একটা প্রথার কথা আসে, সূর্যপূজা। পাঠে যা আছে, এ কথা শুধু সেটুকুই বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ থেকে মেলে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Living Under Every Dawn",
-          "bn": "প্রতিটি ভোরের নিচে জীবন"
+          "bn": "প্রতি ভোরের জীবন"
         },
         "p": [
           {
             "en": "The order of the passage is worth keeping in view. Oaths by the angels lead to One, and One is defined by lordship over the heavens, the earth, the space between them and every point where the sun comes up. The next verses, 37:6 to 37:10, turn to the nearest heaven and its stars, and they will have their own place. This verse stays at the horizon, with the plain, daily fact of a sunrise and the claim that it has a Lord.",
-            "bn": "অংশটির ক্রম মনে রাখার মতো। ফেরেশতাদের নামে শপথ পৌঁছায় 'এক'-এ, আর সেই 'এক'-কে চেনানো হয় রুবূবিয়্যাত দিয়ে: আসমান, যমীন, এ দুয়ের মাঝের পরিসর আর সূর্য ওঠার প্রতিটি বিন্দুর উপর। পরের আয়াতগুলো, ৩৭:৬ থেকে ৩৭:১০, নিকটতম আসমান আর তার তারকারাজির দিকে যায়, সেগুলোর আলোচনা তাদের নিজ জায়গায় হবে। এ আয়াত থাকে দিগন্তে, সূর্যোদয়ের সাদামাটা প্রতিদিনের ঘটনার কাছে, আর এই দাবির কাছে যে তারও একজন রব আছেন।"
+            "bn": "অংশটির ক্রম মনে রাখার মতো। ফেরেশতাদের নামে শপথ এসে পৌঁছায় 'এক'-এ। আর সেই 'এক'-কে চেনানো হয় তাঁর রুবূবিয়্যাত দিয়ে: তিনি আসমান, যমীন, এ দুয়ের মাঝের পরিসর আর সূর্য ওঠার প্রতিটি বিন্দুর রব। পরের আয়াতগুলো, ৩৭:৬ থেকে ৩৭:১০, যায় নিকটতম আসমান আর তার তারকারাজির দিকে। সেগুলোর আলোচনা হবে নিজ নিজ জায়গায়। এ আয়াত থেমে থাকে দিগন্তে। সামনে রাখে প্রতিদিনের সাদামাটা সূর্যোদয়, আর এই দাবি যে তারও একজন রব আছেন।"
           },
           {
             "en": "That is where the verse meets an ordinary morning. The sun's rising place shifts, and the commentators counted those shifts in different ways, but every reading agrees that each rising is managed. As-Sa'di's point applies to the reader as much as to the first audience: whoever already grants that Allah runs the sky has granted the premise. What remains is to let the conclusion reach worship, so that the One who appoints each dawn is the only One the day is lived for.",
-            "bn": "এখানেই আয়াতটি সাধারণ একটা সকালের সঙ্গে মেলে। সূর্যের ওঠার জায়গা সরে যায়, তাফসীরকারেরা সেই সরে যাওয়া নানাভাবে গুনেছেন। কিন্তু প্রতিটি ব্যাখ্যা একমত, প্রতিটি উদয় পরিচালিত। সা'দীর কথাটি প্রথম শ্রোতাদের মতো আজকের পাঠকের উপরও খাটে। আকাশ আল্লাহই চালান, এটা যে মেনে নিয়েছে, সে মূল কথাটা মেনে নিয়েছে। বাকি থাকে সিদ্ধান্তটাকে ইবাদত পর্যন্ত পৌঁছে দেওয়া, যাতে যিনি প্রতিটি ভোর ঠিক করেন, দিনটা কেবল তাঁর জন্যই কাটে।"
+            "bn": "এখানেই আয়াতটি সাধারণ একটা সকালের সঙ্গে মেলে। সূর্যের ওঠার জায়গা সরে যায়, তাফসীরকারেরা সেই সরে যাওয়া নানাভাবে গুনেছেন। কিন্তু সব ব্যাখ্যাই একমত, প্রতিটি উদয় তাঁরই পরিচালনায় হয়। সা'দীর কথাটি প্রথম শ্রোতাদের মতো আজকের পাঠকের উপরও খাটে। আকাশ আল্লাহই চালান, এটা যে মেনে নিয়েছে, যুক্তির ভিত্তিটা সে মেনেই নিয়েছে। বাকি থাকে সিদ্ধান্তটাকে ইবাদত পর্যন্ত পৌঁছে দেওয়া, যাতে যিনি প্রতিটি ভোর ঠিক করেন, দিনটা কেবল তাঁর জন্যই কাটে।"
           }
         ]
       }
@@ -189,7 +189,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Am man khalaqna, or those whom We have created: the verse leaves the second party unnamed, and the commentators fill it in differently. At-Tabari reports from Mujahid: the heavens, the earth and the mountains. Al-Qurtubi gives Mujahid's list with the seas added. Al-Baghawi gives the same three as his main reading without naming anyone. At-Tabari's own paraphrase is wider: those whose creation We have recounted, the angels, the devils, the heavens and the earth. Ibn Kathir likewise takes in the heavens, the earth and what lies between them, the angels, the devils and the mighty creatures.",
-            "bn": "আম মান খালাকনা, নাকি আমি যাদের সৃষ্টি করেছি তারা: দ্বিতীয় পক্ষের নাম আয়াতে নেই, তাফসীরকারেরা তা পূরণ করেছেন ভিন্ন ভিন্নভাবে। তাবারী মুজাহিদ থেকে বর্ণনা করেন: আসমান, যমীন ও পাহাড়। কুরতুবী মুজাহিদের তালিকায় সাগরও যোগ করে উল্লেখ করেন। বাগাভী কারও নাম না নিয়ে এই তিনটিকেই মূল ব্যাখ্যা হিসেবে আনেন। তাবারীর নিজের ব্যাখ্যা আরও বিস্তৃত: যাদের সৃষ্টির কথা আমি গুনে গুনে বলেছি, অর্থাৎ ফেরেশতা, শয়তান, আসমান ও যমীন। ইবন কাসীরও এর মধ্যে ধরেন আসমান, যমীন আর দুয়ের মাঝে যা আছে: ফেরেশতা, শয়তান আর বিশাল সব সৃষ্টি।"
+            "bn": "আম মান খালাকনা, নাকি আমি যাদের সৃষ্টি করেছি তারা: দ্বিতীয় পক্ষের নাম আয়াতে নেই, তাফসীরকারেরা তা পূরণ করেছেন ভিন্ন ভিন্নভাবে। তাবারী মুজাহিদ থেকে বর্ণনা করেন: আসমান, যমীন ও পাহাড়। কুরতুবীর বর্ণনায় মুজাহিদের তালিকায় সাগরও আছে। বাগাভী কারও নাম না নিয়ে এই তিনটিকেই মূল ব্যাখ্যা হিসেবে আনেন। তাবারীর নিজের ব্যাখ্যা আরও বিস্তৃত: যাদের সৃষ্টির কথা আমি গুনে গুনে বলেছি, অর্থাৎ ফেরেশতা, শয়তান, আসমান ও যমীন। ইবন কাসীরও এর মধ্যে ধরেন আসমান, যমীন, দুয়ের মাঝে যা আছে, ফেরেশতা, শয়তান আর বিশাল সব সৃষ্টি।"
           },
           {
             "en": "Ad-Dahhak, in at-Tabari's report, ties the question straight back to 37:5, Lord of the heavens and the earth and what is between them, and paraphrases it as: are they harder to create, or the heavens and the earth? The heavens and the earth are harder to create than they are. Al-Qurtubi records a narrower reading from Sa'id ibn Jubayr: the angels. The surrounding verses give each view something to hold. 37:5 names the heavens and the earth; 37:6 to 37:10 speak of the sky, the stars and the devils driven back from it.",
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two other verses stand behind this one in the commentaries. Qatada, in at-Tabari's report, links it to 40:57, which says that the creation of the heavens and the earth is greater than the creation of mankind. Al-Baghawi cites 40:57 as well, and adds 79:27, which puts a similar question directly to its hearers: are you harder to create, or the sky? Al-Qurtubi names both as parallels. Each is a separate verse with its own setting, and they are named here only as witnesses that the Qur'an returns to this comparison more than once.",
-            "bn": "তাফসীরগুলোতে এ আয়াতের পেছনে আরও দুটি আয়াত দাঁড়িয়ে আছে। তাবারীর বর্ণনায় কাতাদা একে ৪০:৫৭ আয়াতের সঙ্গে মেলান, যেখানে বলা হয়েছে, আসমান ও যমীনের সৃষ্টি মানুষের সৃষ্টির চেয়ে বড়। বাগাভীও ৪০:৫৭ উল্লেখ করেন, সঙ্গে আনেন ৭৯:২৭, যেখানে শ্রোতাদের সরাসরি প্রায় একই প্রশ্ন করা হয়েছে: তোমাদের সৃষ্টি কঠিন, নাকি আকাশের? কুরতুবীও দুটিকে সমান্তরাল আয়াত হিসেবে উল্লেখ করেন। প্রতিটির নিজস্ব প্রেক্ষাপট আছে। এখানে সেগুলোর নাম আসছে শুধু এটুকু দেখাতে যে কুরআন এই তুলনায় বারবার ফিরে আসে।"
+            "bn": "তাফসীরগুলোতে এ আয়াতের সঙ্গে আরও দুটি আয়াতের কথা আসে। তাবারীর বর্ণনায় কাতাদা একে ৪০:৫৭ আয়াতের সঙ্গে মেলান, যেখানে বলা হয়েছে, আসমান ও যমীনের সৃষ্টি মানুষের সৃষ্টির চেয়ে বড়। বাগাভীও ৪০:৫৭ উল্লেখ করেন, সঙ্গে আনেন ৭৯:২৭, যেখানে শ্রোতাদের সরাসরি প্রায় একই প্রশ্ন করা হয়েছে: তোমাদের সৃষ্টি কঠিন, নাকি আকাশের? কুরতুবীও দুটিকে সমান্তরাল আয়াত হিসেবে উল্লেখ করেন। প্রতিটি আলাদা আয়াত, প্রতিটির নিজস্ব প্রেক্ষাপট আছে। এখানে সেগুলোর নাম আসছে শুধু এটুকু দেখাতে যে কুরআন এই তুলনায় বারবার ফিরে আসে।"
           }
         ]
       },
@@ -209,7 +209,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Baghawi records a second reading, introduced with qila, it has been said: man khalaqna means the bygone nations, al-umam al-khaliya. His reason is grammatical. The pronoun man is used of beings who reason, so it fits peoples more naturally than mountains. On this reading the question runs: these people are no more firmly made than the nations before them, and We destroyed those for their sins, so what makes these safe from punishment? Al-Qurtubi reports the same view from another commentator, who adds that those nations perished though they were stronger in build than the Meccans.",
-            "bn": "বাগাভী 'কীলা', অর্থাৎ 'বলা হয়েছে', কথাটি দিয়ে দ্বিতীয় আরেকটি ব্যাখ্যা আনেন: 'মান খালাকনা' মানে অতীতের জাতিগুলো, আল-উমাম আল-খালিয়া। তাঁর যুক্তি ব্যাকরণের। 'মান' শব্দটি বিবেকবান সত্তার জন্য ব্যবহৃত হয়, তাই পাহাড়ের চেয়ে মানুষের জাতির সঙ্গেই তা বেশি মানায়। এ ব্যাখ্যায় প্রশ্নটা দাঁড়ায়: এরা তো আগের জাতিগুলোর চেয়ে বেশি মজবুত করে গড়া নয়। ওদের আমি গুনাহের কারণে ধ্বংস করেছি। তাহলে আযাব থেকে এদের নিরাপদ রাখছে কী? কুরতুবীও অন্য এক তাফসীরকারের সূত্রে এই মত আনেন। তিনি যোগ করেন, সেই জাতিগুলো মক্কাবাসীর চেয়ে শক্তপোক্ত হয়েও ধ্বংস হয়েছিল।"
+            "bn": "বাগাভী 'কীলা', অর্থাৎ 'বলা হয়েছে', কথাটি দিয়ে আরেকটি ব্যাখ্যা আনেন: 'মান খালাকনা' মানে অতীতের জাতিগুলো, আল-উমাম আল-খালিয়া। তাঁর যুক্তি ব্যাকরণের। 'মান' শব্দটি বিবেকবান সত্তার জন্য ব্যবহৃত হয়, তাই পাহাড়ের চেয়ে মানুষের জাতির সঙ্গেই তা বেশি মানায়। এ ব্যাখ্যায় প্রশ্নটা দাঁড়ায়: এরা তো আগের জাতিগুলোর চেয়ে বেশি মজবুত করে গড়া নয়। ওদের আমি গুনাহের কারণে ধ্বংস করেছি। তাহলে আযাব থেকে এদের নিরাপদ রাখছে কী? কুরতুবীও অন্য এক তাফসীরকারের সূত্রে এই মত আনেন। তিনি যোগ করেন, সেই জাতিগুলো মক্কাবাসীর চেয়ে শক্তপোক্ত হয়েও ধ্বংস হয়েছিল।"
           },
           {
             "en": "This is a minority reading beside the majority's heavens and earth. Al-Baghawi leads with the heavens and the earth and sets this view after it, and it shifts the question from a proof of power toward a warning. Both are kept here. On this reading the verse speaks of peoples whose account is already closed. It describes what the text describes and licenses nothing against any living person or community; it does not make anyone today a judge of which people will be destroyed next.",
@@ -257,11 +257,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Not every gloss runs that way. Al-Baghawi closes his note with a different report: Mujahid and ad-Dahhak said lazib means muntin, foul-smelling. Al-Qurtubi records the same from the same two names, and beside it a further view from as-Suddi and al-Kalbi, that lazib means khalis, pure. So the reports carried under the names of Mujahid and ad-Dahhak differ from one commentator to the next. Ibn Kathir has them saying good, clinging clay; al-Baghawi and al-Qurtubi have them saying foul-smelling. The texts fetched do not settle which report is sounder, and this article does not try.",
-            "bn": "সব ব্যাখ্যা অবশ্য এক দিকে যায় না। বাগাভী তাঁর আলোচনা শেষ করেন ভিন্ন এক বর্ণনা দিয়ে: মুজাহিদ ও দাহহাক বলেছেন, 'লাযিব' মানে 'মুনতিন', অর্থাৎ দুর্গন্ধময়। কুরতুবীও এই দুজনের নামেই একই কথা আনেন। পাশাপাশি তিনি সুদ্দী ও কালবীর আরেকটি মত উল্লেখ করেন: 'লাযিব' মানে 'খালিস', খাঁটি। তাহলে মুজাহিদ ও দাহহাকের নামে যা বর্ণিত, তা এক তাফসীর থেকে আরেক তাফসীরে আলাদা। ইবন কাসীরের বর্ণনায় তাঁরা বলেছেন ভালো, আঠালো মাটি। বাগাভী ও কুরতুবীর বর্ণনায় দুর্গন্ধময়। কোন বর্ণনা বেশি মজবুত, হাতের তাফসীরগুলো তা মীমাংসা করে না। এ আলোচনাও সে চেষ্টা করবে না।"
+            "bn": "সব ব্যাখ্যা অবশ্য এক দিকে যায় না। বাগাভী তাঁর আলোচনা শেষ করেন ভিন্ন এক বর্ণনা দিয়ে: মুজাহিদ ও দাহহাক বলেছেন, 'লাযিব' মানে 'মুনতিন', অর্থাৎ দুর্গন্ধময়। কুরতুবীও এই দুজনের নামেই একই কথা আনেন। পাশাপাশি তিনি সুদ্দী ও কালবীর আরেকটি মত উল্লেখ করেন: 'লাযিব' মানে 'খালিস', খাঁটি। তাহলে মুজাহিদ ও দাহহাকের নামে যা বর্ণিত, তা এক তাফসীর থেকে আরেক তাফসীরে আলাদা। ইবন কাসীরের বর্ণনায় তাঁরা বলেছেন ভালো, আঠালো মাটি। বাগাভী ও কুরতুবীর বর্ণনায় দুর্গন্ধময়। কোন বর্ণনা বেশি মজবুত, হাতে থাকা তাফসীরগুলো তা মীমাংসা করে না। এ লেখাও সে চেষ্টা করবে না।"
           },
           {
             "en": "As-Sa'di glosses the word in yet another direction: qawi shadid, strong and firm. He sets beside it 15:26, where man is created from sounding clay of altered black mud, as a parallel description of the same material; that verse has its own context and is not opened here. The range runs from clinging, to firm, to pure, to foul. What every gloss shares is that the material is earth wetted with water. Ibn Kathir draws the point from that: Allah goes on to make clear that they were created from something weak.",
-            "bn": "সা'দী শব্দটিকে নিয়ে যান আরেক দিকে: 'কাবিয়্যুন শাদীদ', অর্থাৎ শক্ত ও মজবুত। এর পাশে তিনি রাখেন ১৫:২৬ আয়াত, যেখানে মানুষকে সৃষ্টি করা হয়েছে পরিবর্তিত কালো কাদার শুকনো, ঠনঠনে মাটি থেকে। একই উপাদানের আরেক বর্ণনা হিসেবে তিনি আয়াতটি আনেন। সে আয়াতের নিজস্ব প্রেক্ষাপট আছে, এখানে তা খোলা হচ্ছে না। অর্থের পরিসর তাহলে আঠালো থেকে শক্ত, খাঁটি থেকে দুর্গন্ধময় পর্যন্ত বিস্তৃত। তবে সব ব্যাখ্যাতেই উপাদানটা পানিতে ভেজা মাটি। ইবন কাসীর সেখান থেকেই মূল কথাটা টানেন: আল্লাহ এরপর স্পষ্ট করে দেন যে তাদের সৃষ্টি করা হয়েছে দুর্বল এক জিনিস থেকে।"
+            "bn": "সা'দী শব্দটিকে নিয়ে যান আরেক দিকে: 'কাবিয়্যুন শাদীদ', অর্থাৎ শক্ত ও মজবুত। এর পাশে তিনি রাখেন ১৫:২৬ আয়াত, যেখানে বলা হয়েছে মানুষকে সৃষ্টি করা হয়েছে পরিবর্তিত কালো কাদার শুকনো, ঠনঠনে মাটি থেকে। একই উপাদানের আরেক বর্ণনা হিসেবে তিনি আয়াতটি আনেন। সে আয়াতের নিজস্ব প্রেক্ষাপট আছে, এখানে তা খোলা হচ্ছে না। তাহলে অর্থ ছড়িয়ে আছে আঠালো, শক্ত আর খাঁটি থেকে দুর্গন্ধময় পর্যন্ত। তবে সব ব্যাখ্যাতেই উপাদানটা পানিতে ভেজা মাটি। ইবন কাসীর সেখান থেকেই মূল কথাটা টানেন: আল্লাহ এরপর স্পষ্ট করে দেন যে তাদের সৃষ্টি করা হয়েছে দুর্বল এক জিনিস থেকে।"
           }
         ]
       },
@@ -273,7 +273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are them in We created them? Al-Muyassar reads it as their father Adam (AS): We created their father Adam from sticky clay. Ma'arif al-Qur'an allows both: either it means that Adam (AS) was made of clay, or it may mean every human being. It explains the second with a chain. A person is formed from a drop, the drop from blood, blood from food, and food, in whatever form, goes back to plants, which grow from clay and water. On that view clay and water lie at the root of every human life, generation after generation.",
-            "bn": "'আমি তাদের সৃষ্টি করেছি', এখানে 'তাদের' বলতে কাদের বোঝানো হয়েছে? মুয়াসসার পড়ে তাদের পিতা আদম (আঃ) হিসেবে: আমি তাদের পিতা আদমকে আঠালো মাটি থেকে সৃষ্টি করেছি। মাআরিফুল কুরআন দুটোরই সুযোগ রাখে। হতে পারে এর অর্থ আদম (আঃ)-কে মাটি থেকে বানানো হয়েছে, আবার হতে পারে প্রতিটি মানুষ। দ্বিতীয় অর্থটা সে বোঝায় একটা শিকল দিয়ে। মানুষ তৈরি হয় শুক্রবিন্দু থেকে, শুক্রবিন্দু রক্ত থেকে, রক্ত খাবার থেকে। আর খাবার যে রূপেই আসুক, তার উৎস উদ্ভিদ, যা জন্মায় মাটি আর পানি থেকে। এ দৃষ্টিতে প্রজন্মের পর প্রজন্ম প্রতিটি মানুষের গোড়ায় আছে মাটি আর পানি।"
+            "bn": "'আমি তাদের সৃষ্টি করেছি', এখানে 'তাদের' বলতে কাদের বোঝানো হয়েছে? মুয়াসসারের মতে তাদের পিতা আদম (আঃ): আমি তাদের পিতা আদমকে আঠালো মাটি থেকে সৃষ্টি করেছি। মাআরিফুল কুরআন দুটোরই সুযোগ রাখে। হতে পারে এর অর্থ আদম (আঃ)-কে মাটি থেকে বানানো হয়েছে, আবার হতে পারে প্রতিটি মানুষ। দ্বিতীয় অর্থটা সে ধাপে ধাপে বোঝায়। মানুষ তৈরি হয় শুক্রবিন্দু থেকে, শুক্রবিন্দু রক্ত থেকে, রক্ত খাবার থেকে। আর খাবার যে রূপেই আসুক, তার উৎস উদ্ভিদ, যা জন্মায় মাটি আর পানি থেকে। এ দৃষ্টিতে প্রজন্মের পর প্রজন্ম প্রতিটি মানুষের গোড়ায় আছে মাটি আর পানি।"
           },
           {
             "en": "At-Tabari, explaining why the clay is called lazib, remarks in passing that the son of Adam is created from earth, water, fire and air. Either reading serves the argument. If the first man came from clay, his children came from him; if each child is clay by way of food, the point arrives without a detour. Ma'arif adds that the verse does not spell its argument out at length. It was thought enough to hint at it, with a single sentence about clay, and to leave the listener to finish the thought.",
@@ -289,7 +289,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di draws the logic out in steps. He reads the first half of the question as being about their re-creation: is bringing them into being after death the harder, heavier work, or the creatures just described? They must admit that the creation of the heavens and the earth is greater than the creation of people, and having admitted it, they are bound to admit the raising of the dead. Then he goes closer to home. If they turned to themselves and thought, they would find their first beginning from clinging clay harder to conceive than being made again after death.",
-            "bn": "সা'দী যুক্তিটা ধাপে ধাপে খোলেন। প্রশ্নের প্রথম অংশকে তিনি পড়েন তাদের পুনঃসৃষ্টির প্রসঙ্গে: মৃত্যুর পর তাদের আবার অস্তিত্বে আনা কি বেশি কঠিন ও কষ্টসাধ্য, নাকি এইমাত্র বলা সৃষ্টিগুলো? তাদের মানতেই হবে, আসমান ও যমীনের সৃষ্টি মানুষের সৃষ্টির চেয়ে বড়। আর তা মানলে পুনরুত্থানও মানতে তারা বাধ্য। এরপর তিনি আরও কাছের কথায় আসেন। তারা যদি নিজেদের দিকে ফিরে একটু ভাবত, তাহলে বুঝত, আঠালো মাটি থেকে প্রথমবার সৃষ্ট হওয়া কল্পনা করা মৃত্যুর পর আবার সৃষ্ট হওয়ার চেয়ে কঠিন।"
+            "bn": "সা'দী যুক্তিটা ধাপে ধাপে খোলেন। প্রশ্নের প্রথম অংশকে তিনি পড়েন তাদের পুনঃসৃষ্টির প্রসঙ্গে: মৃত্যুর পর তাদের আবার অস্তিত্বে আনা কি বেশি কঠিন ও কষ্টসাধ্য, নাকি এইমাত্র বলা সৃষ্টিগুলো? তাদের মানতেই হবে, আসমান ও যমীনের সৃষ্টি মানুষের সৃষ্টির চেয়ে বড়। আর তা মানলে পুনরুত্থানও মানতে তারা বাধ্য। এরপর তিনি আরও কাছের কথায় আসেন। তারা যদি নিজেদের দিকে ফিরে একটু ভাবত, তাহলে বুঝত, মৃত্যুর পর আবার সৃষ্টি হওয়ার চেয়ে আঠালো মাটি থেকে প্রথমবার সৃষ্টি হওয়াটাই কল্পনা করা বেশি কঠিন।"
           },
           {
             "en": "That, as-Sa'di says, is why the verse closes on the clay. Ma'arif al-Qur'an makes the same case from the other side. If the deniers recognise that Allah, by His boundless power, created such great things as the angels, the moon, the stars, the sun and the meteors, how could it be hard for Him to let a weak creature die and then bring it to life once more? The way they were first fashioned from sticky clay, it says, is the way they will be given life again after they have turned to dust.",
@@ -297,7 +297,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none is quoted here. The verses that follow turn to how this question was received, and they belong to their own discussion. What this one leaves with the reader is a habit of reasoning: set what you doubt beside what you already accept, and see which is the larger claim. The sky overhead and the clay underfoot both answer the same question, and the reader does not have to travel anywhere to see either of them.",
-            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি। পরের আয়াতগুলো দেখায় প্রশ্নটার জবাবে তারা কেমন আচরণ করেছিল। সেগুলোর আলোচনা আলাদা। এ আয়াত পাঠকের হাতে তুলে দেয় চিন্তার একটা অভ্যাস। যে বিষয়ে আপনার সন্দেহ, সেটাকে রাখুন যা আপনি আগেই মেনে নিয়েছেন তার পাশে, তারপর দেখুন কোন দাবিটা বড়। মাথার উপরের আকাশ আর পায়ের নিচের মাটি, দুটোই একই প্রশ্নের উত্তর দেয়। আর তা দেখতে কোথাও যেতে হয় না।"
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি। তাই এখানেও কোনো হাদিস আনা হয়নি। পরের আয়াতগুলো দেখায় প্রশ্নটার জবাবে তারা কেমন আচরণ করেছিল, সেগুলোর আলোচনা আলাদা। এ আয়াত পাঠকের হাতে তুলে দেয় চিন্তার একটা অভ্যাস। যে বিষয়ে আপনার সন্দেহ, সেটাকে আগে থেকে মেনে নেওয়া বিষয়ের পাশে রাখুন, তারপর দেখুন কোন দাবিটা বড়। মাথার উপরের আকাশ আর পায়ের নিচের মাটি, দুটোই একই প্রশ্নের উত্তর দেয়। আর তা দেখতে কোথাও যেতে হয় না।"
           }
         ]
       }
@@ -308,7 +308,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Deniers Finally Speak",
-          "bn": "অস্বীকারকারীদের নিজের মুখে"
+          "bn": "অস্বীকারকারীরা এবার মুখ খোলে"
         },
         "p": [
           {
@@ -321,7 +321,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir reads 37:11 to 37:19 together under the heading of the certainty of life after death. He reports from Ibn Mas'ud that the deniers admitted the heavens, the earth and the other mighty creatures were harder to create than they were. His question follows naturally: if that is so, why do they deny the resurrection, when they see things greater than what they deny? That unanswered why is the background against which this verse is meant to be heard.",
-            "bn": "ইবন কাসীর ৩৭:১১ থেকে ৩৭:১৯ একসঙ্গে পড়েন, শিরোনাম দেন মৃত্যুর পরের জীবনের নিশ্চয়তা। ইবন মাসঊদ (রাঃ) থেকে তিনি বর্ণনা করেন, অস্বীকারকারীরা নিজেরাই মেনে নিয়েছিল যে আসমান, যমীন আর অন্যান্য বিশাল সৃষ্টি বানানো তাদের নিজেদের চেয়ে কঠিন। তাঁর প্রশ্নটা তাই স্বাভাবিকভাবেই আসে: তা-ই যদি হয়, যারা অস্বীকার করা জিনিসটার চেয়ে বড় জিনিস চোখের সামনে দেখছে, তারা পুনরুত্থান অস্বীকার করে কেন? উত্তরহীন এই 'কেন'-র পটভূমিতেই আয়াতটি শুনতে হবে।"
+            "bn": "ইবন কাসীর ৩৭:১১ থেকে ৩৭:১৯ একসঙ্গে পড়েন, শিরোনাম দেন: মৃত্যুর পরের জীবনের নিশ্চয়তা। ইবন মাসঊদ (রাঃ) থেকে তিনি বর্ণনা করেন, অস্বীকারকারীরা নিজেরাই মেনে নিয়েছিল যে আসমান, যমীন আর অন্যান্য বিশাল সৃষ্টি বানানো তাদের নিজেদের চেয়ে কঠিন। তাই তাঁর প্রশ্নটা আসে স্বাভাবিকভাবেই: তা-ই যদি হয়, তবে পুনরুত্থান তারা অস্বীকার করে কেন? যা অস্বীকার করছে, তার চেয়ে বড় জিনিস তো তারা চোখের সামনেই দেখছে। উত্তরহীন এই 'কেন'-র পটভূমিতেই আয়াতটি শুনতে হবে।"
           }
         ]
       },
@@ -333,11 +333,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an comments on 37:15 to 37:18 together, and it spends its space on the verse just before it. The sign of 37:14, it argues, means a miracle the deniers actually saw, not a rational argument and not a verse of the Qur'an. Its reason lies in 37:15: they said this was nothing but open magic, and calling an argument magic makes no sense. Besides, it notes, verses of the Qur'an are heard, while the text says they saw the sign.",
-            "bn": "মাআরিফুল কুরআন ৩৭:১৫ থেকে ৩৭:১৮ একসঙ্গে আলোচনা করেছে, আর তার পুরো জায়গাটা খরচ করেছে ঠিক আগের আয়াতের উপর। তার মতে ৩৭:১৪-এর নিদর্শন মানে মুজিযা, যা অস্বীকারকারীরা নিজের চোখে দেখেছিল। এটা কোনো যুক্তি-প্রমাণ নয়, কুরআনের আয়াতও নয়। কারণ হিসেবে সে দেখায় ৩৭:১৫: তারা বলেছিল এ স্পষ্ট যাদু ছাড়া কিছু নয়। কোনো যুক্তিকে যাদু বলার কোনো মানে হয় না। তা ছাড়া কুরআনের আয়াত তো শোনা হয়, অথচ এখানে বলা হয়েছে তারা নিদর্শনটা দেখেছিল।"
+            "bn": "মাআরিফুল কুরআন ৩৭:১৫ থেকে ৩৭:১৮ একসঙ্গে আলোচনা করেছে, তবে প্রায় পুরো আলোচনাটাই ঠিক আগের আয়াত নিয়ে। তার মতে ৩৭:১৪-এর নিদর্শন মানে মুজিযা, যা অস্বীকারকারীরা নিজের চোখে দেখেছিল। এটা কোনো যুক্তি-প্রমাণ নয়, কুরআনের আয়াতও নয়। কারণ হিসেবে সে দেখায় ৩৭:১৫: তারা বলেছিল এ স্পষ্ট যাদু ছাড়া কিছু নয়। কোনো যুক্তিকে যাদু বলার কোনো মানে হয় না। তা ছাড়া কুরআনের আয়াত তো শোনা হয়, অথচ এখানে বলা হয়েছে তারা নিদর্শনটা দেখেছিল।"
           },
           {
             "en": "Read with that in mind, the sequence is striking. People shown a sign with their own eyes filed it under magic, and then, in the next breath, declared the rising after death absurd. What they saw, they explained away; what they were told, they ruled out. In the same passage Ibn Kathir quotes Qatadah on 37:12: Muhammad was astounded by the mockery of the misguided ones among the sons of Adam. This verse is that mockery, set down in their own words.",
-            "bn": "এ কথা মাথায় রেখে পড়লে ধারাবাহিকতাটা চোখে পড়ার মতো। যারা নিজের চোখে নিদর্শন দেখল, তারা সেটাকে যাদুর খাতায় তুলে দিল। পরের নিঃশ্বাসেই মৃত্যুর পর আবার উঠানোকে বলে দিল হাস্যকর। যা দেখেছে, তার একটা ব্যাখ্যা বানিয়ে নিয়েছে। যা শুনেছে, তা সরাসরি বাতিল করেছে। একই আলোচনায় ইবন কাসীর ৩৭:১২ প্রসঙ্গে কাতাদার কথা আনেন: আদম সন্তানদের মধ্যে যারা পথভ্রষ্ট, তাদের বিদ্রূপ দেখে মুহাম্মাদ ﷺ বিস্মিত হয়েছিলেন। এ আয়াত সেই বিদ্রূপ, তাদের নিজেদের ভাষায়।"
+            "bn": "এ কথা মাথায় রেখে পড়লে ধারাবাহিকতাটা চোখে পড়ার মতো। যারা নিজের চোখে নিদর্শন দেখল, তারা সেটাকে যাদুর খাতায় তুলে দিল। পরক্ষণেই মৃত্যুর পর আবার উঠানোকে বলে দিল হাস্যকর। যা দেখেছে, তা একটা ব্যাখ্যা দিয়ে উড়িয়ে দিয়েছে। যা শুনেছে, তা সরাসরি বাতিল করেছে। একই আলোচনায় ইবন কাসীর ৩৭:১২ প্রসঙ্গে কাতাদার কথা আনেন: আদম সন্তানদের মধ্যে যারা পথভ্রষ্ট, তাদের বিদ্রূপ দেখে মুহাম্মাদ ﷺ বিস্মিত হয়েছিলেন। এ আয়াত সেই বিদ্রূপ, তাদের নিজেদের ভাষায়।"
           }
         ]
       },
@@ -365,7 +365,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi restates the verse in three plain words, a-nub'athu idha mitna, are we to be raised when we have died, and then names the kind of question it is: istifham inkar minhum wa sukhriya, a question of denial from them, and of mockery. A question of denial is a question whose speaker has already settled the answer and words it as a question only to make the opposite sound absurd. Here the settled answer is no, and the question mark carries the sneer.",
-            "bn": "কুরতুবী আয়াতটিকে সহজ করে বলেন, মাত্র তিনটি শব্দে, আ-নুবআসু ইযা মিতনা: মরে গেলে কি আমাদের উঠানো হবে? তারপর প্রশ্নটার ধরন চিনিয়ে দেন: ইসতিফহামু ইনকারিন মিনহুম ওয়া সুখরিয়্যা, তাদের দিক থেকে অস্বীকারের প্রশ্ন, সঙ্গে বিদ্রূপ। অস্বীকারের প্রশ্ন সেটাই, যার উত্তর বক্তা আগেই ঠিক করে রেখেছে। প্রশ্নের রূপ দেয় শুধু উল্টো কথাটাকে হাস্যকর দেখাতে। এখানে আগে থেকে ঠিক করা উত্তরটা হলো না, আর প্রশ্নবোধক সুরটাই বহন করছে তাচ্ছিল্য।"
+            "bn": "কুরতুবী আয়াতটিকে সহজ করে বলেন, মাত্র তিনটি শব্দে, আ-নুবআসু ইযা মিতনা: মরে গেলে কি আমাদের উঠানো হবে? তারপর প্রশ্নটার ধরন চিনিয়ে দেন: ইসতিফহামু ইনকারিন মিনহুম ওয়া সুখরিয়্যা, তাদের দিক থেকে অস্বীকারের প্রশ্ন, সঙ্গে বিদ্রূপ। অস্বীকারের প্রশ্ন সেটাই, যার উত্তর বক্তা আগেই ঠিক করে রেখেছে। প্রশ্নের রূপ দেয় শুধু উল্টো কথাটাকে হাস্যকর দেখাতে। এখানে আগে থেকে ঠিক করা উত্তরটা হলো 'না', আর তাচ্ছিল্যটা লুকিয়ে আছে প্রশ্নের সুরেই।"
           },
           {
             "en": "That distinction matters for every reader, because the two can sound alike. The fault this verse records is not the act of asking. It is a question that has shut its own door before anyone could answer it, so that the asker has nothing left to learn from the reply. Al-Baghawi's entry, in the text fetched for this verse, quotes the verse and adds nothing to it. Al-Qurtubi's two words, denial and mockery, are enough to set its tone.",
@@ -381,7 +381,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir describes their state with two verbs: yastab'iduna dhalika wa yukadhdhibuna bihi, they deem it far-fetched and they call it a lie. His English abridgement puts it plainly: they thought this was unlikely to happen, and they did not believe it. As-Sa'di uses the same pair of ideas for the way they spoke: they said it istib'adan wa inkaran, deeming it remote and denying it. Two commentators, two wordings, one diagnosis, and it comes in two steps.",
-            "bn": "ইবন কাসীর তাদের অবস্থা বোঝান দুটি ক্রিয়া দিয়ে: ইয়াসতাবইদূনা যালিকা ওয়া ইউকাযযিবূনা বিহি, তারা একে অসম্ভব রকম দূরের মনে করে, আর মিথ্যা বলে উড়িয়ে দেয়। তাঁর ইংরেজি সংক্ষেপ সোজা ভাষায় বলে: তারা ভেবেছিল এমনটা ঘটার সম্ভাবনা নেই, আর তারা তা বিশ্বাস করেনি। সা'দীও তাদের কথা বলার ধরন বোঝাতে একই জোড়া ভাবনা আনেন: তারা বলেছিল ইসতিবআদান ওয়া ইনকারান, দূরের ভেবে আর অস্বীকার করে। দুজন মুফাসসির, দুই রকম শব্দ, কিন্তু রোগ একটাই, আর তা আসে দুই ধাপে।"
+            "bn": "ইবন কাসীর তাদের অবস্থা বোঝান দুটি ক্রিয়া দিয়ে: ইয়াসতাবইদূনা যালিকা ওয়া ইউকাযযিবূনা বিহি, তারা একে অসম্ভব রকম দূরের মনে করে, আর মিথ্যা বলে উড়িয়ে দেয়। তাঁর ইংরেজি সংক্ষেপ সোজা ভাষায় বলে: তারা ভেবেছিল এমনটা ঘটার সম্ভাবনা নেই, আর তারা তা বিশ্বাস করেনি। সা'দীও তাদের কথা বলার ধরন বোঝাতে একই জোড়া ভাবনা আনেন: তারা বলেছিল ইসতিবআদান ওয়া ইনকারান, দূরের ভেবে আর অস্বীকার করে। দুজন মুফাসসির, দুই রকম শব্দ, কিন্তু দুজনের ধরা দোষ একটাই, আর তা আসে দুই ধাপে।"
           },
           {
             "en": "The first step is worth slowing down for. Istib'ad comes from the root b-'-d, distance. To deem a thing far is not yet to prove it false; it is to feel that it lies too far from anything we have seen. Another surah puts the same feeling into the deniers' mouths: at 50:3 they say, when we have died and become dust, that is a far return, raj'un ba'id. The objection is a sense of distance, and a sense of distance is not evidence.",
@@ -405,7 +405,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Put plainly, the reasoning ran like this. No human being can gather scattered dust and rebuild a body around old bones; therefore it cannot be done. The hidden step is the assumption that what a person cannot do, no one can. As-Sa'di's wording exposes the gap by placing the two sides next to each other: on one side the Lord of the earth and the heavens, on the other a creature lacking in every way. An analogy between them is broken before it begins.",
-            "bn": "সহজ করে বললে তাদের যুক্তিটা ছিল এরকম: কোনো মানুষ ছড়িয়ে পড়া মাটি জড়ো করে পুরনো হাড়ের চারপাশে আবার দেহ গড়তে পারে না, কাজেই এটা হওয়া সম্ভব নয়। মাঝখানে একটা ধাপ চুপচাপ লুকিয়ে আছে। ধরে নেওয়া হয়েছে, মানুষ যা পারে না তা কেউই পারে না। সা'দীর ভাষা দুই পক্ষকে পাশাপাশি দাঁড় করিয়ে ফাঁকটা উন্মোচন করে দেয়। একদিকে যমীন ও আসমানের রব, অন্যদিকে এমন এক সৃষ্টি যার সব দিকেই ঘাটতি। এ দুয়ের মধ্যে তুলনা শুরু হওয়ার আগেই ভেঙে পড়ে।"
+            "bn": "সহজ করে বললে তাদের যুক্তিটা ছিল এরকম: কোনো মানুষ ছড়িয়ে পড়া মাটি জড়ো করে পুরনো হাড়ের চারপাশে আবার দেহ গড়তে পারে না, কাজেই এটা হওয়া সম্ভব নয়। মাঝখানে একটা ধাপ চুপচাপ লুকিয়ে আছে। ধরে নেওয়া হয়েছে, মানুষ যা পারে না তা কেউই পারে না। সা'দীর ভাষা দুই পক্ষকে পাশাপাশি দাঁড় করিয়ে ফাঁকটা ধরিয়ে দেয়। একদিকে যমীন ও আসমানের রব, অন্যদিকে এমন এক সৃষ্টি যার সব দিকেই ঘাটতি। এ দুয়ের মধ্যে তুলনা শুরু হওয়ার আগেই ভেঙে পড়ে।"
           },
           {
             "en": "This is where 37:11 stands silently behind the verse. That verse had already posed the comparison that would have corrected their measurement, and the dust they now name as the end of the story is close kin to what 37:11 named as its beginning. Their reply here does not engage it. The premise was offered; the mockery ignores it. As-Sa'di's word 'ajab fits: the astonishing thing is not that they had a question, but that creatures took their own limits as the measure of their Creator.",
@@ -465,7 +465,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an places the passage in the surah's movement. Having shown the possibility and the proof of the Hereafter, Allah now describes events of the Resurrection, and this first verse gives the manner in which the dead will rise. The pronoun hiya, it, is left for the reader to fill. Al-Baghawi fills it: it is the matter of the raising, or of the Resurrection. Read with him, the sentence is almost blunt. The whole affair the deniers found too large to believe comes down, in the end, to a single sound.",
-            "bn": "মাআরিফুল কুরআন অংশটিকে সূরার গতিপথের মধ্যে বসিয়ে দেখায়। আখিরাত যে সম্ভব এবং তার প্রমাণ কী, তা দেখানোর পর আল্লাহ এখন কিয়ামতের কিছু ঘটনার বিবরণ দিচ্ছেন। আর এই প্রথম আয়াত বলছে, মৃতরা কীভাবে উঠবে। 'হিয়া' মানে 'সেটা', কিন্তু 'সেটা' কী, আয়াত তা খুলে বলে না। বাগাভী শূন্যস্থানটা পূরণ করেন: সেটা হলো পুনরুত্থানের ব্যাপার, অথবা কিয়ামতের। তাঁর ব্যাখ্যায় বাক্যটা প্রায় সোজাসাপটা শোনায়। যে বিষয়কে অস্বীকারকারীরা বিশ্বাসের পক্ষে অনেক বড় মনে করেছিল, শেষ পর্যন্ত তা গিয়ে দাঁড়ায় একটিমাত্র আওয়াজে।"
+            "bn": "মাআরিফুল কুরআন অংশটিকে সূরার গতিপথের মধ্যে বসিয়ে দেখায়। আখিরাত যে সম্ভব এবং তার প্রমাণ কী, তা দেখানোর পর আল্লাহ এখন কিয়ামতের কিছু ঘটনার বিবরণ দিচ্ছেন। আর এই প্রথম আয়াত বলছে, মৃতরা কীভাবে উঠবে। 'হিয়া' মানে 'সেটা', কিন্তু 'সেটা' কী, আয়াত তা খুলে বলে না। বাগাভী শূন্যস্থানটা পূরণ করেন: সেটা হলো পুনরুত্থানের ব্যাপার, অথবা কিয়ামতের। তাঁর ব্যাখ্যায় বাক্যটা প্রায় সোজাসাপটা শোনায়। যে ব্যাপারটাকে অস্বীকারকারীরা এত বড় ভেবেছিল যে বিশ্বাসই করেনি, শেষ পর্যন্ত তা গিয়ে দাঁড়ায় একটিমাত্র আওয়াজে।"
           }
         ]
       },
@@ -540,7 +540,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Raised as They Were Made",
-          "bn": "যেমন প্রথমবার গড়া"
+          "bn": "যেভাবে প্রথম গড়া, সেভাবেই ওঠানো"
         },
         "p": [
           {
