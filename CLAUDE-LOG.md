@@ -19,6 +19,7 @@ the state, kept short on purpose. Full history of earlier rounds:
   TADABBUR_ARTICLES@<surah> (extract js/tadabbur-articles/<s>.js TADABBUR_ARTICLES@<s> 100). Order by hits:
   2 3 17 16 18 21 4 6 20 33 39 7 10 14 ... One agent per 100-pair packet, sequential; apply --write + test +
   commit after EVERY packet (local commit = saved state). Bump/push/deploy at the end of each shard.
+- Parallel recipe: review all packets at once, then tools/bn-review/tad-steps.sh <s> 1 <N>, node tools/bn-review/tad-spell.js <s>, test, bump.
 - At shard end: normalise spellings across the shard (হাদীস→হাদিস, নামায→নামাজ, নাযিল→নাজিল, ওহী→ওহি, রোযা→রোজা, ফরয→ফরজ, রমযান→রমজান; rewritten strings already use them).
 - Open EN: 2:97-98 s3.p2 says 2:98 answers "in the first person"; the verse names Allah in the third person (BN says আল্লাহর নিজের পক্ষ থেকে).
 - Open EN: 2:113-114 s5.p0 "almost never that specific" reads as "never starts that sweeping" (BN says ঢালাও).
