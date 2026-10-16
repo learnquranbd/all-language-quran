@@ -568,7 +568,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Between Two Statements of Scale",
-          "bn": "মাপ সম্পর্কে দুই কথার মাঝখানে"
+          "bn": "দুই বিশালতার মাঝখানে"
         },
         "p": [
           {
@@ -577,7 +577,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the verse is framed by scale on both sides. Before it, a Lord who owns everything and needs nothing from anyone. After it, a resurrection of every human being who has ever lived, which costs Him no more than raising one. The ink and the pens sit between those two, and they are not decoration. They are the reason the two neighbours are true: a Speaker whose words cannot be exhausted is not a Speaker who can run short of power.",
-            "bn": "অর্থাৎ আয়াতটির দুই পাশেই বিশালতার কথা। আগে, এমন এক প্রভু যিনি সবকিছুর মালিক এবং কারও কাছে কিছুর মুখাপেক্ষী নন। পরে, যত মানুষ কখনো বেঁচেছে সবার পুনরুত্থান, যা তাঁর জন্য একজনকে ওঠানোর চেয়ে বেশি কিছু নয়। কালি ও কলম এই দুইয়ের মাঝখানে বসে আছে, আর তা কোনো অলংকার নয়। বরং দুই পাশের কথা দুটি কেন সত্য, এটিই তার কারণ: যাঁর কথা ফুরায় না, তাঁর শক্তিও ফুরানোর নয়।"
+            "bn": "তাহলে আয়াতটির দুই পাশেই বিশালতার কথা। আগে আছেন এমন এক রব, যিনি সবকিছুর মালিক, কারও কাছে তাঁর কিছুই চাওয়ার নেই। পরে আছে দুনিয়ায় আসা প্রত্যেক মানুষের পুনরুত্থান, আর তাঁর কাছে সেটা একজনকে ওঠানোর চেয়ে কঠিন কিছু নয়। কালি আর কলমের ছবিটা এই দুইয়ের মাঝখানে বসানো, এবং সেটা নিছক সাজসজ্জা নয়। দুই পাশের কথা দুটি সত্য হওয়ার কারণ এটিই: যাঁর কথা কখনো ফুরায় না, তাঁর শক্তিও কখনো কম পড়ে না।"
           }
         ]
       },
@@ -589,11 +589,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read the Arabic slowly, because this picture is easy to garble. If all the trees on the earth were pens, and the sea — yamudduhu min ba'dihi sab'atu abhur — were supplied after it by seven more seas, the words of Allah would still not run out. The seven are not the total. They are reinforcements that arrive after the first sea has been used up. The verb yamuddu comes from the root of madad, the fresh supply sent to an army already in the field.",
-            "bn": "আরবিটা ধীরে পড়ুন, কারণ এই ছবিটা গুলিয়ে ফেলা খুব সহজ। যমীনের সব গাছ যদি কলম হতো, আর সমুদ্র — ইয়ামুদ্দুহু মিন বা'দিহি সাব'আতু আবহুর — এরপর আরও সাতটি সমুদ্র দিয়ে যোগান পেত, তবুও আল্লাহর কথা ফুরাত না। সাতটিই মোট সংখ্যা নয়। প্রথম সমুদ্র নিঃশেষ হয়ে যাওয়ার পর সেগুলো আসে সাহায্য হিসেবে। ইয়ামুদ্দু ক্রিয়াটি এসেছে মাদাদ শব্দের ধাতু থেকে — যুদ্ধক্ষেত্রে থাকা বাহিনীর কাছে পাঠানো নতুন রসদ।"
+            "bn": "আরবিটা ধীরে পড়ুন, কারণ এই ছবিটা গুলিয়ে ফেলা খুব সহজ। যমীনের সব গাছ যদি কলম হতো, আর সমুদ্রের পরে আরও সাতটি সমুদ্র এসে তাতে যোগান দিত (ইয়ামুদ্দুহু মিন বা'দিহি সাব'আতু আবহুর), তবুও আল্লাহর কথা ফুরাত না। সাতটি মোট সংখ্যা নয়। প্রথম সমুদ্র ফুরিয়ে যাওয়ার পর এগুলো আসে বাড়তি রসদ হয়ে। ইয়ামুদ্দু ক্রিয়াটি এসেছে মাদাদ শব্দের ধাতু থেকে। মাদাদ মানে ময়দানে থাকা বাহিনীর কাছে পাঠানো নতুন রসদ।"
           },
           {
             "en": "One more detail the translation has to supply. The word for ink is not in this verse at all; the rendering you will read puts it in brackets, because pens without ink make no sense. And the closing verb is flat rather than hypothetical: ma nafidat, they did not run out. Then two names seal the sentence, al-'Aziz and al-Hakim, Exalted in Might and Wise. Endlessness on its own would be merely large. Endless and wise is a different claim altogether.",
-            "bn": "আরও একটি খুঁটিনাটি, যা অনুবাদককে নিজে থেকে জুড়ে দিতে হয়। 'কালি' শব্দটি এই আয়াতে নেই-ই; আপনি যে অনুবাদ পড়বেন সেখানে এটি বন্ধনীর ভেতরে দেওয়া, কারণ কালি ছাড়া কলমের কোনো মানে হয় না। আর শেষ ক্রিয়াপদটি সম্ভাবনার নয়, সরাসরি: মা নাফিদাত — সেগুলো ফুরায়নি। তারপর দুটি নাম বাক্যটিকে সিলমোহর করে দেয়, আল-আযীয ও আল-হাকীম — মহাপরাক্রমশালী ও মহাপ্রজ্ঞাময়। কেবল অফুরন্ত হওয়া মানে কেবল বিশাল হওয়া। অফুরন্ত এবং প্রজ্ঞাময় হওয়া সম্পূর্ণ অন্য কথা।"
+            "bn": "আরও একটা খুঁটিনাটি অনুবাদে নিজে থেকে যোগ করতে হয়। 'কালি' শব্দটি এই আয়াতে নেই-ই। অনুবাদে আপনি শব্দটি পাবেন বন্ধনীর ভেতরে, কারণ কালি ছাড়া কলমের কোনো মানে হয় না। আর শেষ ক্রিয়াটি 'যদি হতো' ধাঁচের নয়, একেবারে সোজা: মা নাফিদাত, সেগুলো ফুরায়নি। এরপর দুটি নাম দিয়ে বাক্যটি শেষ হয়: আল-আযীয ও আল-হাকীম, মহাপরাক্রমশালী ও প্রজ্ঞাময়। শুধু অফুরন্ত হলে তা কেবল বিশালতার কথা। অফুরন্ত এবং প্রজ্ঞাময়, এটা একেবারে অন্য দাবি।"
           }
         ]
       },
@@ -605,11 +605,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "18:109 reaches the same conclusion from the opposite direction, and it is worth seeing how the two differ. There the Prophet ﷺ is told to say it: if the sea were midad, ink, for the words of my Lord, the sea would run out before the words of my Lord ran out, even if We brought the like of it as madad, supplement. Notice that midad and madad come from one root — the ink and the reinforcement are the same word differently vowelled.",
-            "bn": "18:109 আয়াত একই সিদ্ধান্তে পৌঁছায় ঠিক উল্টো দিক থেকে, আর দুটির পার্থক্য দেখে নেওয়া দরকার। সেখানে নবী ﷺ-কে বলতে বলা হয়েছে: আমার প্রতিপালকের কথার জন্য সমুদ্র যদি মিদাদ অর্থাৎ কালি হয়ে যেত, তবে আমার প্রতিপালকের কথা ফুরানোর আগেই সমুদ্র ফুরিয়ে যেত, আমি এর মতো আরেকটি মাদাদ অর্থাৎ সহায়ক যোগান নিয়ে এলেও। লক্ষ করুন, মিদাদ ও মাদাদ একই ধাতু থেকে — কালি আর রসদ একই শব্দ, কেবল স্বর আলাদা।"
+            "bn": "১৮:১০৯ আয়াত একই সিদ্ধান্তে পৌঁছায় উল্টো দিক থেকে, আর দুটির পার্থক্যটা খেয়াল করার মতো। সেখানে আল্লাহ নবী ﷺ-কে বলতে বলছেন: আমার প্রতিপালকের কথা লেখার জন্য সমুদ্র যদি মিদাদ, মানে কালি হতো, তবে আমার প্রতিপালকের কথা ফুরানোর আগেই সমুদ্র ফুরিয়ে যেত, আমি এর মতো আরেকটি সমুদ্র মাদাদ, মানে বাড়তি যোগান হিসেবে নিয়ে এলেও। লক্ষ করুন, মিদাদ আর মাদাদ একই ধাতু থেকে এসেছে। কালি আর রসদ আসলে একই শব্দ, শুধু স্বরচিহ্ন আলাদা।"
           },
           {
             "en": "The differences are real ones. 18:109 has one sea and one supplement; 31:27 has every tree as a pen and seven seas in reserve. 18:109 says the sea would be exhausted; 31:27 says the words would not be. One measures what fails, the other measures what does not. Reading them side by side is more useful than treating either as the verse about ink, and it keeps the seven seas of 31:27 from wandering into a verse that never mentions them.",
-            "bn": "পার্থক্যগুলো বাস্তব। 18:109 আয়াতে একটি সমুদ্র ও একটি বাড়তি যোগান; 31:27 আয়াতে প্রতিটি গাছ কলম আর সাতটি সমুদ্র রিজার্ভে। 18:109 বলে সমুদ্র নিঃশেষ হয়ে যেত; 31:27 বলে কথা ফুরাত না। একটি মাপে যা ফুরিয়ে যায়, অন্যটি মাপে যা ফুরায় না। দুটিকে পাশাপাশি পড়া যেকোনো একটিকে 'কালির আয়াত' বানিয়ে ফেলার চেয়ে ভালো, আর এতে 31:27 আয়াতের সাত সমুদ্র এমন এক আয়াতে গিয়ে ঢোকে না যেখানে তাদের কথাই নেই।"
+            "bn": "পার্থক্যগুলো সত্যিকারের। ১৮:১০৯ আয়াতে একটি সমুদ্র আর একটি বাড়তি যোগান; ৩১:২৭ আয়াতে প্রতিটি গাছ কলম, আর পেছনে মজুত আরও সাতটি সমুদ্র। ১৮:১০৯ বলে, সমুদ্র ফুরিয়ে যেত; ৩১:২৭ বলে, কথা ফুরাত না। একটি মাপে কী ফুরিয়ে যায়, অন্যটি মাপে কী ফুরায় না। কোনো একটিকে 'কালির আয়াত' বানিয়ে ফেলার চেয়ে দুটিকে পাশাপাশি পড়া বেশি কাজের। তাতে ৩১:২৭ আয়াতের সাত সমুদ্র এমন আয়াতে গিয়ে ঢোকে না, যেখানে তাদের কোনো উল্লেখই নেই।"
           }
         ]
       },
@@ -621,11 +621,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators do not read kalimat Allah as a countable stock of sentences. They take it of His knowledge, His wisdom, His decrees and His speech — everything He has said and everything He could say about a creation that is itself past counting. On that reading the verse is not really about writing materials. It is about the distance between what could ever be recorded and what there is to record.",
-            "bn": "মুফাসসিরগণ কালিমাতুল্লাহকে গোনা যায় এমন কতগুলো বাক্যের ভাণ্ডার হিসেবে পড়েন না। তাঁরা এর অর্থ নেন তাঁর জ্ঞান, তাঁর হিকমত, তাঁর ফয়সালা ও তাঁর বাণী — এমন এক সৃষ্টিজগৎ সম্পর্কে তিনি যা বলেছেন এবং যা বলতে পারেন, আর সেই সৃষ্টিজগৎ নিজেই গোনার বাইরে। এভাবে পড়লে আয়াতটি আসলে লেখার সরঞ্জাম নিয়ে নয়। এটি কখনো যতটুকু লিপিবদ্ধ করা সম্ভব আর লিপিবদ্ধ করার মতো যা আছে — এই দুইয়ের দূরত্ব নিয়ে।"
+            "bn": "মুফাসসিরগণ কালিমাতুল্লাহ বলতে গুনে শেষ করা যায় এমন কিছু বাক্যের মজুত বোঝেন না। তাঁদের মতে এর মানে তাঁর জ্ঞান, তাঁর হিকমত, তাঁর ফয়সালা ও তাঁর বাণী। অর্থাৎ তিনি যা বলেছেন এবং যা বলতে পারেন সবই, আর যে সৃষ্টিজগৎ নিয়ে সে কথা, সেটাই তো গুনে শেষ করা যায় না। এভাবে পড়লে আয়াতটি আসলে লেখার সরঞ্জাম নিয়ে নয়। এর বিষয় একটা ফারাক: কোনো দিন যতটুকু লিখে রাখা সম্ভব, আর লিখে রাখার মতো যা আছে, এই দুইয়ের ফারাক।"
           },
           {
             "en": "The seven, they generally add, is not a ceiling. Arabic uses seven and seventy for abundance rather than for an exact tally, and in any case the argument does not depend on the figure: if seven more seas change nothing, seven hundred change nothing either. That is why the verse never bothers to raise the number. It has already shown that the quantity of ink was never the variable in the sentence.",
-            "bn": "সাত সংখ্যাটি কোনো সীমা নয় — এ কথা তাঁরা সাধারণভাবে যোগ করেন। আরবিতে সাত ও সত্তর দিয়ে নির্দিষ্ট গণনা নয়, বরং আধিক্য বোঝানো হয়; আর যুক্তিটি সংখ্যার ওপর নির্ভরও করে না: আরও সাতটি সমুদ্রে যদি কিছু না বদলায়, সাতশোতেও বদলাবে না। এ কারণেই আয়াতটি সংখ্যা বাড়ানোর কষ্টটুকু করে না। কালির পরিমাণ যে এই বাক্যের চলক ছিলই না, তা সে আগেই দেখিয়ে দিয়েছে।"
+            "bn": "তাঁরা সাধারণত এ কথাও যোগ করেন যে সাত কোনো শেষ সীমা নয়। আরবরা সাত আর সত্তর বলে প্রাচুর্য বোঝাতে, গুনে বলা নির্দিষ্ট সংখ্যা হিসেবে নয়। তা ছাড়া যুক্তিটা সংখ্যার ওপর নির্ভরও করে না: আরও সাতটি সমুদ্রে যদি কিছুই না বদলায়, সাতশোতেও বদলাবে না। এ কারণেই আয়াতটি সংখ্যা বাড়ানোর দিকে যায়ই না। কালির পরিমাণ যে এখানে কখনো আসল প্রশ্ন ছিল না, সেটা সে আগেই দেখিয়ে দিয়েছে।"
           }
         ]
       },
@@ -637,7 +637,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What the verse changes is a reader's posture. The Quran can be finished; its meanings cannot. Anyone who has come back to a familiar verse after a hard year and found in it something that was not there before has met this ayah in practice. It also puts a limit on a particular kind of confidence — the feeling that one has now covered the religion. Whoever says that has measured one sea and forgotten the seven standing behind it.",
-            "bn": "আয়াতটি বদলে দেয় পাঠকের ভঙ্গিটাকে। কুরআন শেষ করা যায়; তার অর্থ শেষ করা যায় না। কঠিন একটা বছর পার করে চেনা একটি আয়াতে ফিরে এসে যিনি সেখানে আগে না-থাকা কিছু পেয়েছেন, তিনি এই আয়াতটিকে বাস্তবে পেয়েছেন। এটি একধরনের আত্মবিশ্বাসেরও সীমা টেনে দেয় — এই বোধ যে দ্বীনটা এখন জানা হয়ে গেছে। যিনি এ কথা বলেন, তিনি একটি সমুদ্র মেপেছেন আর তার পেছনে দাঁড়ানো সাতটিকে ভুলে গেছেন।"
+            "bn": "আয়াতটি বদলে দেয় পাঠকের মনোভাব। কুরআন খতম করা যায়, কিন্তু তার অর্থ কখনো শেষ হয় না। কঠিন একটা বছর পার করে কোনো চেনা আয়াতে ফিরে গিয়ে যিনি সেখানে এমন কিছু পেয়েছেন যা আগে ছিল না, তিনি এই আয়াতকে নিজের জীবনেই দেখেছেন। এক ধরনের আত্মবিশ্বাসেও আয়াতটি লাগাম টানে: 'দ্বীন তো আমার জানা হয়ে গেছে', এই ভাব। যিনি এমন কথা বলেন, তিনি একটি সমুদ্র মেপেছেন, আর তার পেছনে দাঁড়ানো সাতটির কথা ভুলে গেছেন।"
           }
         ]
       }
@@ -648,16 +648,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where Luqman Closes",
-          "bn": "যেখানে লুকমান শেষ হয়"
+          "bn": "সূরা লুকমান যেখানে শেষ হয়"
         },
         "p": [
           {
             "en": "The verse just before this one, 31:33, warns every person of a Day when no father will help his son and no son his father. Then Luqman seals itself with this list of five. At-Tabari reads the two together: you are told to fear your Lord and to fear that Day because it is surely coming, yet the knowledge of when it comes rests with your Lord, and it will reach you only by surprise. The surah ends not with one more threat but with a map of what you were never given to know.",
-            "bn": "ঠিক এর আগের আয়াত, ৩১:৩৩, প্রতিটি মানুষকে সতর্ক করে সেই দিনের ব্যাপারে, যেদিন পিতা সন্তানের কোনো কাজে আসবে না, সন্তানও পিতার নয়। এরপর লুকমান সূরা নিজেকে সিল করে দেয় এই পাঁচটি জিনিসের তালিকা দিয়ে। তাবারী দুটি আয়াত একসঙ্গে পড়েন। আপনাকে বলা হচ্ছে রবকে ভয় করতে, আর সেই দিনকে ভয় করতে, কারণ তা আসবেই। অথচ কখন আসবে সে জ্ঞান রয়েছে কেবল আপনার রবের কাছে, আর তা আসবে হঠাৎ করেই। সূরাটি শেষ হয় আরেকটা হুমকি দিয়ে নয়, বরং যা আপনাকে কখনো জানতে দেওয়া হয়নি তার একটা মানচিত্র দিয়ে।"
+            "bn": "ঠিক আগের আয়াত, ৩১:৩৩, প্রত্যেক মানুষকে সেই দিনের ব্যাপারে সাবধান করে, যেদিন পিতা সন্তানের কোনো কাজে আসবে না, সন্তানও পিতার নয়। এরপর এই পাঁচটি বিষয়ের তালিকা দিয়ে সূরা লুকমান শেষ হয়। তাবারী দুটি আয়াত একসঙ্গে পড়েন। আপনাকে বলা হচ্ছে আপনার রবকে ভয় করতে, সেই দিনকেও ভয় করতে, কারণ সে দিন আসবেই। অথচ কখন আসবে, সে জ্ঞান কেবল আপনার রবের কাছে, আর তা আসবে হঠাৎ করেই। সূরাটি শেষ হয় আরেকটা হুমকি দিয়ে নয়, বরং যা আপনাকে কখনো জানতে দেওয়া হয়নি, তার একটা মানচিত্র দিয়ে।"
           },
           {
             "en": "Across its length Luqman has pointed to signs a person can read: night folding into day, ships carried on the sea, a pen that cannot run out of His words. The closing verse turns to the other side of the line, to what no reading reaches at all. Having shown how much of His order lies open to sight, the surah ends by naming five things shut to it. The same Lord who filled the world with legible signs kept five pages for Himself.",
-            "bn": "পুরো সূরা জুড়ে লুকমান এমন নিদর্শনের দিকে আঙুল তুলেছে যা মানুষ পড়তে পারে: রাত গড়িয়ে দিনে ঢুকছে, নৌযান সমুদ্রে ভেসে চলছে, এমন এক কলম যা তাঁর বাণী লিখে কখনো ফুরোবে না। শেষ আয়াতটি ঘুরে দাঁড়ায় সীমানার অন্য পাশে, যেখানে কোনো পড়া পৌঁছায় না। তাঁর ব্যবস্থাপনার কতটা চোখের সামনে খোলা, তা দেখিয়ে দিয়ে সূরাটি শেষ হয় পাঁচটি জিনিসের নাম নিয়ে, যেগুলো সেই চোখের কাছে বন্ধ। এর প্রভাব ভয় ধরিয়ে দেওয়ার নয়, বরং নম্র করে দেওয়ার। যে রব জগৎকে পড়ার মতো নিদর্শনে ভরে দিয়েছেন, তিনিই পাঁচটি পাতা নিজের কাছে রেখে দিয়েছেন।"
+            "bn": "গোটা সূরা জুড়ে লুকমান এমন সব নিদর্শন দেখিয়েছে, যা মানুষ পড়ে বুঝতে পারে: রাত ঢুকে যাচ্ছে দিনের ভেতর, সমুদ্রে ভেসে চলেছে জাহাজ, আর এমন কলম যা তাঁর কথা লিখে কখনো শেষ করতে পারে না। শেষ আয়াতটি তাকায় সীমারেখার ওপারে, যেখানে কোনো পড়াই পৌঁছায় না। তাঁর সৃষ্টিব্যবস্থার কতখানি চোখের সামনে খোলা, তা দেখানোর পর সূরাটি শেষ হয় এমন পাঁচটি জিনিসের নাম দিয়ে, যা চোখের কাছে বন্ধ। যে রব জগৎকে পড়ার মতো নিদর্শনে ভরে দিয়েছেন, তিনিই পাঁচটি পাতা নিজের কাছে রেখে দিয়েছেন।"
           }
         ]
       },
@@ -669,15 +669,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Commentators call these five the keys of the unseen. Ma'arif al-Qur'an links the verse to 6:59, where Allah says the keys of the unseen are with Him and none knows them but He, and explains that a key, miftah, is what opens a lock. The five are the openings through which hidden knowledge would be unlocked, and all five stay in one hand. Nothing in the created order turns in these locks. The knowledge does not leak out to an angel brought near or to a sage below him.",
-            "bn": "তাফসীরকারেরা এই পাঁচটিকে বলেন গায়েবের চাবি। মাআরিফুল কুরআন আয়াতটিকে জুড়ে দেয় ৬:৫৯ আয়াতের সঙ্গে, যেখানে আল্লাহ বলছেন গায়েবের চাবি তাঁরই কাছে, তিনি ছাড়া কেউ তা জানে না। আর বইটি বুঝিয়ে দেয়, চাবি বা মিফতাহ হলো যা তালা খোলে। এই পাঁচটি হলো সেই খোলার মুখ, যা দিয়ে লুকানো জ্ঞানের তালা খুলবে। অথচ পাঁচটিই রয়ে গেছে একই হাতে। সৃষ্টির কোনো কিছু এই তালাগুলো ঘোরাতে পারে না। সেই জ্ঞান চুইয়ে পড়ে না কোনো নৈকট্যপ্রাপ্ত ফেরেশতার কাছে, না তার নিচের কোনো জ্ঞানীর কাছে।"
+            "bn": "তাফসীরকারেরা এই পাঁচটিকে বলেন গায়েবের চাবি। মাআরিফুল কুরআন আয়াতটিকে মিলিয়ে পড়ে ৬:৫৯ আয়াতের সঙ্গে, যেখানে আল্লাহ বলছেন, গায়েবের চাবি তাঁরই কাছে, তিনি ছাড়া কেউ তা জানে না। বইটি বুঝিয়ে দেয়, চাবি বা মিফতাহ হলো যা দিয়ে তালা খোলা হয়। লুকানো জ্ঞানের তালা খোলার পথ এই পাঁচটি, আর পাঁচটিই রয়েছে একই হাতে। সৃষ্টিজগতের কেউ এই তালায় চাবি ঘোরাতে পারে না। এ জ্ঞান চুইয়েও পৌঁছায় না, না নৈকট্যপ্রাপ্ত কোনো ফেরেশতার কাছে, না তাঁর চেয়ে নিচের কোনো জ্ঞানীর কাছে।"
           },
           {
             "en": "At-Tabari records from Mujahid that these very five are the keys of the unseen named in 6:59. Ma'arif al-Qur'an notices why these five, of all unseen things, are singled out: they are exactly what people most itch to know — the end of the world, the coming rain, the child, the fortune of tomorrow, the hour of death — and exactly what astrologers and fortune-tellers claim to deliver. To name them here is a quiet refusal of every such claim.",
-            "bn": "তাবারী মুজাহিদ থেকে বর্ণনা করেন যে এই পাঁচটিই হলো ৬:৫৯ আয়াতে উল্লিখিত গায়েবের চাবি। মাআরিফুল কুরআন খেয়াল করিয়ে দেয়, গায়েবের সব জিনিসের মধ্যে এই পাঁচটিকেই আলাদা করে কেন বলা হলো। এগুলোই মানুষ সবচেয়ে বেশি জানতে চায়: দুনিয়ার শেষ, আসছে বৃষ্টি, গর্ভের সন্তান, আগামীকালের ভাগ্য, মৃত্যুর ঘণ্টা। আর এগুলোই জ্যোতিষী আর ভবিষ্যৎ-বক্তারা বলে দেওয়ার দাবি করে। এখানে এগুলোর নাম নেওয়া তাই এমন প্রতিটি দাবিকে চুপচাপ নাকচ করে দেওয়া।"
+            "bn": "তাবারী মুজাহিদ থেকে বর্ণনা করেন, ৬:৫৯ আয়াতে যে গায়েবের চাবির কথা আছে, তা এই পাঁচটিই। মাআরিফুল কুরআন খেয়াল করিয়ে দেয়, গায়েবের এত জিনিসের মধ্যে এই পাঁচটিকেই কেন আলাদা করে বলা হলো। মানুষ সবচেয়ে বেশি জানতে চায় ঠিক এগুলোই: দুনিয়া কবে শেষ হবে, বৃষ্টি কবে আসবে, গর্ভের সন্তান কেমন হবে, কাল ভাগ্যে কী আছে, মৃত্যু কখন আসবে। আর জ্যোতিষী ও গণকেরা ঠিক এগুলোই বলে দেওয়ার দাবি করে। তাই এখানে এগুলোর নাম নেওয়া মানে এমন প্রতিটি দাবিকে নিঃশব্দে নাকচ করে দেওয়া।"
           },
           {
             "en": "As-Sa'di frames it from the other direction. Allah's knowledge, he says, encompasses the seen and the unseen, the outward and the inward, and He does disclose much of the hidden to His servants. But these five He folded away from every creature: no sent prophet knows them, no angel brought near, let alone anyone below them. The point is not that knowledge is scarce, but that these particular five were sealed on purpose.",
-            "bn": "সা'দী বিষয়টা দেখেন উল্টো দিক থেকে। তিনি বলেন, আল্লাহর জ্ঞান ঘিরে রেখেছে দৃশ্য ও অদৃশ্য, বাহির ও ভেতর সবকিছু, আর তিনি বান্দাদের অনেক গায়েবি জিনিস জানিয়েও দেন। কিন্তু এই পাঁচটি তিনি গুটিয়ে রেখেছেন প্রতিটি সৃষ্টির কাছ থেকে। কোনো প্রেরিত নবী এগুলো জানেন না, কোনো নৈকট্যপ্রাপ্ত ফেরেশতাও নয়, তাদের নিচের কারও তো প্রশ্নই আসে না। কথাটা এই নয় যে জ্ঞান কম। কথাটা হলো, এই নির্দিষ্ট পাঁচটি ইচ্ছে করেই সিল করে দেওয়া হয়েছে, আর এই সিল করার হিকমত তাঁরই।"
+            "bn": "সা'দী বিষয়টা দেখেন উল্টো দিক থেকে। তিনি বলেন, আল্লাহর জ্ঞান দৃশ্য-অদৃশ্য, বাহির-ভেতর সবকিছু ঘিরে আছে, আর তিনি বান্দাদের গায়েবের অনেক কিছু জানিয়েও দেন। কিন্তু এই পাঁচটি তিনি সব সৃষ্টির কাছ থেকে গুটিয়ে রেখেছেন। কোনো প্রেরিত নবী এগুলো জানেন না, নৈকট্যপ্রাপ্ত কোনো ফেরেশতাও না, তাঁদের নিচের কারও তো প্রশ্নই ওঠে না। কথাটা এই নয় যে জ্ঞান দুর্লভ। কথা হলো, এই পাঁচটিকে তিনি ইচ্ছে করেই সিল করে রেখেছেন।"
           }
         ]
       },
@@ -689,15 +689,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is built in two halves. The first three are put positively: with Him is the knowledge of the Hour, He sends down the rain, He knows what is in the wombs. The last two are put as flat denials: no soul knows what it will earn tomorrow, no soul knows in what land it will die. Ma'arif al-Qur'an reads the shift as deliberate: the last two touch a person directly, where he might think his future within reach, so each is shut with an explicit no.",
-            "bn": "আয়াতটি গড়া হয়েছে দুই অর্ধে। প্রথম তিনটি বলা হয়েছে ইতিবাচকভাবে: কিয়ামতের জ্ঞান তাঁরই কাছে, তিনিই বৃষ্টি নামান, তিনিই জানেন গর্ভে কী আছে। শেষ দুটি বলা হয়েছে সরাসরি অস্বীকারের ভাষায়: কেউ জানে না আগামীকাল সে কী অর্জন করবে, কেউ জানে না কোন মাটিতে সে মরবে। মাআরিফুল কুরআন এই বদলটাকে উদ্দেশ্যমূলক বলে পড়ে। শেষ দুটি মানুষকে সরাসরি ছুঁয়ে যায়, যেখানে কেউ ভেবে বসতে পারে নিজের ভবিষ্যৎ বুঝি হাতের নাগালে। তাই প্রতিটি বন্ধ করা হয়েছে স্পষ্ট একটা না দিয়ে।"
+            "bn": "আয়াতটির দুটি ভাগ। প্রথম তিনটি কথা হ্যাঁ-বাচক: কিয়ামতের জ্ঞান তাঁরই কাছে, তিনিই বৃষ্টি নামান, তিনিই জানেন গর্ভে কী আছে। শেষ দুটি সরাসরি না-বাচক: কেউ জানে না আগামীকাল সে কী অর্জন করবে, কেউ জানে না কোন মাটিতে তার মৃত্যু হবে। মাআরিফুল কুরআনের মতে এই বদল ইচ্ছাকৃত। শেষ দুটি বিষয় মানুষকে সরাসরি ছোঁয়, আর এখানেই সে ভেবে বসতে পারে, নিজের ভবিষ্যৎ বুঝি তার নাগালে। তাই দুটিকেই বন্ধ করা হয়েছে স্পষ্ট 'না' দিয়ে।"
           },
           {
             "en": "The weight sits on two small words. The Hour's knowledge is ʿinda-hu, with Him — the phrase lodges it in His keeping and nobody else's. At-Tabari glosses each clause the same way: the Hour, none knows it but He; the rain, none can send it down but He; the wombs, their contents known to Him alone. The grammar is not decoration; it fences the knowledge inside the divine, with no gate left for a gifted human to slip through.",
-            "bn": "ভার চেপে আছে দুটি ছোট্ট শব্দের উপর। কিয়ামতের জ্ঞান ইনদাহু, মানে তাঁরই কাছে। কথাটা জ্ঞানটাকে গচ্ছিত রাখে তাঁর কাছে, আর কারও কাছে নয়। তাবারী প্রতিটি অংশ একইভাবে ব্যাখ্যা করেন: কিয়ামত, তিনি ছাড়া কেউ জানে না; বৃষ্টি, তিনি ছাড়া কেউ নামাতে পারে না; গর্ভ, তার ভেতরের খবর কেবল তিনিই জানেন। এই ব্যাকরণ সাজসজ্জা নয়। এটি জ্ঞানটাকে ঐশী সীমানার ভেতরে বেড়া দিয়ে ঘিরে রাখে, আর সেই বেড়ায় কোনো ফাঁক রাখে না যেখান দিয়ে কোনো প্রতিভাবান মানুষ গলে ঢুকতে পারে।"
+            "bn": "আসল জোরটা দুটি ছোট শব্দে। কিয়ামতের জ্ঞান 'ইনদাহু', তাঁরই কাছে। এই শব্দবন্ধ জ্ঞানটাকে রেখে দেয় তাঁর জিম্মায়, আর কারও কাছে নয়। তাবারী প্রতিটি অংশ একইভাবে ব্যাখ্যা করেন: কিয়ামত, তিনি ছাড়া কেউ জানে না; বৃষ্টি, তিনি ছাড়া কেউ নামাতে পারে না; গর্ভ, তার ভেতরে কী আছে কেবল তিনিই জানেন। এই ব্যাকরণ সাজসজ্জা নয়। এটি জ্ঞানটাকে আল্লাহর সীমানার ভেতরে বেড়া দিয়ে ঘিরে রাখে, আর এমন কোনো ফটক খোলা রাখে না যা দিয়ে কোনো প্রতিভাবান মানুষ ঢুকে পড়তে পারে।"
           },
           {
             "en": "Then the refrain: mā tadrī nafs, no soul perceives. Ma'arif al-Qur'an dwells on the last clause, where only the place of death is named, not its time. The place, it notes, a person might at least guess from where he lives; the time lies in a future not yet here. If he cannot know even the place, which exists somewhere on earth already, he plainly cannot know the time, which does not. The weaker denial carries the stronger within it.",
-            "bn": "তারপর সেই পুনরাবৃত্তি: মা তাদরী নাফস, কোনো প্রাণ জানে না। মাআরিফুল কুরআন থেমে থাকে শেষ অংশে, যেখানে কেবল মৃত্যুর স্থানের কথা আছে, সময়ের নয়। বইটি বলে, স্থান অন্তত এমন কিছু যা মানুষ তার বসবাসের জায়গা দেখে আন্দাজ করতে পারে। আর সময় লুকিয়ে আছে এমন এক ভবিষ্যতে যা এখনো আসেইনি। মানুষ যদি স্থানটুকুও না জানতে পারে, যা পৃথিবীর কোথাও না কোথাও এখনই আছে, তবে সময় যা এখনো নেই তা সে জানবে কী করে। দুর্বল অস্বীকারটি নিজের ভেতরেই শক্ত অস্বীকারটিকে বহন করে।"
+            "bn": "তারপর বারবার ফিরে আসা কথাটি: মা তাদরী নাফস, কোনো প্রাণ জানে না। মাআরিফুল কুরআন বিশেষভাবে থামে শেষ অংশে, যেখানে কেবল মৃত্যুর জায়গার কথা আছে, সময়ের কথা নেই। বইটি বলে, জায়গাটা মানুষ অন্তত নিজের বসবাসের এলাকা দেখে আন্দাজ করতে পারে। কিন্তু সময়টা এমন এক ভবিষ্যতে, যা এখনো আসেইনি। জায়গাটা পৃথিবীর কোথাও না কোথাও এখনই আছে, তবু মানুষ যদি সেটুকুও জানতে না পারে, তবে যে সময় এখনো আসেনি, তা সে জানবে কী করে? হালকা 'না'-এর ভেতরেই লুকিয়ে আছে আরও জোরালো 'না'।"
           }
         ]
       },
@@ -709,35 +709,35 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Take the third key carefully, because it is the one a modern reader presses on. What is in the wombs, the commentators say, is far more than the body's sex. Ibn Kathir lists it: male or female, wretched or blessed, its colour, its whole making. As-Sa'di adds the picture carried in the hadith tradition: the angel set over the womb asks his Lord whether it is male or female, and then Allah decrees what He wills. The womb's secret, on their reading, is a whole destiny being written, not a single physical fact.",
-            "bn": "তৃতীয় চাবিটি সাবধানে ধরুন, কারণ আধুনিক পাঠক এখানেই চাপ দেন। তাফসীরকারেরা বলেন, গর্ভে যা আছে তা শরীরের নারী-পুরুষ হওয়ার চেয়ে অনেক বড়। ইবন কাসীর তালিকা দেন: ছেলে না মেয়ে, হতভাগা না সৌভাগ্যবান, তার গায়ের রং, তার গোটা গড়ন। সা'দী হাদীসের ধারায় চলে আসা ছবিটি যোগ করেন: গর্ভের উপর নিযুক্ত ফেরেশতা রবকে জিজ্ঞেস করেন এটি ছেলে না মেয়ে, এরপর আল্লাহ যা চান তা-ই ফয়সালা করেন। তাঁদের পাঠে গর্ভের গোপন কথা হলো একটা গোটা ভাগ্য লেখা হওয়া, কোনো একটামাত্র শারীরিক তথ্য নয়।"
+            "bn": "তৃতীয় চাবিটি সাবধানে বুঝুন, কারণ আধুনিক পাঠকের প্রশ্ন এখানেই সবচেয়ে বেশি। তাফসীরকারেরা বলেন, গর্ভে কী আছে, সে প্রশ্ন শুধু ছেলে না মেয়ে, তার চেয়ে অনেক বড়। ইবন কাসীর তালিকা দেন: ছেলে না মেয়ে, হতভাগা না সৌভাগ্যবান, গায়ের রং কেমন, গোটা গড়ন কেমন। সা'দী এর সঙ্গে যোগ করেন হাদিসে আসা ছবিটি: গর্ভের দায়িত্বে থাকা ফেরেশতা তাঁর রবকে জিজ্ঞেস করেন, ছেলে না মেয়ে, তারপর আল্লাহ যা চান তা-ই ফয়সালা করেন। তাঁদের ব্যাখ্যায় গর্ভের রহস্য মানে একটা গোটা তাকদির লেখা হওয়া, শুধু একটা শারীরিক তথ্য নয়।"
           },
           {
             "en": "Set beside that, the common objection: a scan now shows a baby's sex, so hasn't the verse been overtaken? Al-Qurtubi, centuries before ultrasound, had already met the shape of this. He granted that long experience may reveal some signs of whether a pregnancy is male or female. But experience, he said, can differ and the usual pattern break; when it does, the knowledge is seen to rest with Allah alone. A reliable reading of present form was never what the verse placed beyond us.",
-            "bn": "এর পাশে রাখুন চেনা আপত্তিটি: স্ক্যান তো এখন সন্তানের নারী-পুরুষ দেখিয়ে দেয়, তাহলে আয়াত কি পেছনে পড়ে যায়নি? আলট্রাসাউন্ডের বহু শতাব্দী আগেই কুরতুবী এই আপত্তির আদল ধরে ফেলেছিলেন। তিনি মেনে নেন যে দীর্ঘ অভিজ্ঞতায় গর্ভের সন্তান ছেলে না মেয়ে, সে বিষয়ে কিছু কিছু জানা যেতে পারে। কিন্তু তিনি বলেন, অভিজ্ঞতা এদিক-ওদিক হতে পারে, চেনা নিয়মও ভেঙে যেতে পারে। আর তখন দেখা যায়, জ্ঞানটা থেকে যায় কেবল আল্লাহর কাছেই। বর্তমান গড়নের একটা নিশ্চিত পাঠ কখনোই সেই জিনিস ছিল না যা আয়াত আমাদের নাগালের বাইরে রেখেছে।"
+            "bn": "এবার এর পাশে রাখুন পরিচিত আপত্তিটি: স্ক্যানে এখন তো দেখা যায় সন্তান ছেলে না মেয়ে, তাহলে আয়াতের কথা কি পুরোনো হয়ে যায়নি? আলট্রাসাউন্ডের বহু শতাব্দী আগেই কুরতুবী এ ধরনের প্রশ্নের মুখোমুখি হয়েছিলেন। তিনি মেনে নেন, দীর্ঘ অভিজ্ঞতা থেকে গর্ভের সন্তান ছেলে না মেয়ে, তার কিছু আলামত বোঝা যেতে পারে। কিন্তু তিনি বলেন, অভিজ্ঞতা সব সময় এক রকম হয় না, চেনা নিয়মও ভেঙে যেতে পারে। আর তখনই বোঝা যায়, এ জ্ঞান কেবল আল্লাহর কাছে। শরীরে এখন যা গড়ে উঠেছে, তা নির্ভরযোগ্যভাবে দেখতে পাওয়াকে আয়াতটি কখনো আমাদের নাগালের বাইরে বলেনি।"
           },
           {
             "en": "Ma'arif al-Qur'an draws the line exactly here. The knowledge withheld, it explains, is the total knowledge that takes in everything created and its every condition; knowledge reached through a physical cause is closer to news than to the unseen. A scan reads a cause already present in the body. It does not read what Allah has decreed, nor the child's blessedness or its end. The verse was never a claim that the sex could not be glimpsed. It was a claim about Who alone holds the whole, and on that reading nothing in it has aged.",
-            "bn": "মাআরিফুল কুরআন ঠিক এখানেই রেখাটা টেনে দেয়। বইটি বোঝায়, যে জ্ঞান আটকে রাখা হয়েছে তা হলো সেই পূর্ণ জ্ঞান, যা সৃষ্ট প্রতিটি জিনিস আর তার প্রতিটি অবস্থা ধরে রাখে। আর কোনো বাহ্যিক কারণের মধ্য দিয়ে পাওয়া জ্ঞান আলাদা জিনিস, যা গায়েবের চেয়ে বরং খবরের কাছাকাছি। স্ক্যান শরীরে আগে থেকেই হাজির একটা কারণ পড়ে। তা পড়ে না আল্লাহ কী ফয়সালা করেছেন, না সন্তানের সৌভাগ্য, না তার পরিণতি। আয়াত কখনোই দাবি করেনি যে লিঙ্গটুকু আভাসে ধরা যাবে না। এটি দাবি করেছে, গোটা জিনিসটা কেবল কে ধরে রাখেন তা নিয়ে। সেই পাঠে এর কিছুই পুরোনো হয়ে যায়নি।"
+            "bn": "মাআরিফুল কুরআন ঠিক এখানেই রেখা টেনে দেয়। বইটি বোঝায়, যে জ্ঞান আড়ালে রাখা হয়েছে তা হলো পূর্ণ জ্ঞান, যা সৃষ্টির প্রতিটি জিনিস আর তার প্রতিটি অবস্থাকে ঘিরে রাখে। আর কোনো বাহ্যিক কারণের মাধ্যমে যে জ্ঞান পাওয়া যায়, তা গায়েবের চেয়ে বরং খবরের কাছাকাছি। স্ক্যান পড়ে শরীরে আগে থেকেই থাকা একটা কারণ। আল্লাহ কী ফয়সালা করেছেন, তা সে পড়তে পারে না, পারে না সন্তানের সৌভাগ্য বা তার শেষ পরিণতি পড়তে। আয়াত কখনো দাবি করেনি যে ছেলে না মেয়ে, তার আভাসও পাওয়া যাবে না। আয়াতের দাবি হলো, পুরো জ্ঞান কেবল একজনের হাতে। এভাবে পড়লে আয়াতের কোনো কথাই পুরোনো হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "The Hadith Of Five",
-          "bn": "পাঁচের হাদীস"
+          "bn": "পাঁচ বিষয়ের হাদিস"
         },
         "p": [
           {
             "en": "The verse has a hadith fastened to it. Al-Bukhari records from Ibn ʿUmar that the Messenger of Allah ﷺ said: \"Keys of the unseen are five which nobody knows but Allah: nobody knows what will happen tomorrow; nobody knows what is in the womb; nobody knows what he will gain tomorrow; nobody knows at what place he will die; and nobody knows when it will rain.\" Being in Ṣaḥīḥ al-Bukhari, it belongs to the soundest collection and is graded sahih. The saying simply lays the verse's five out from the Prophet's own mouth.",
-            "bn": "আয়াতটির সঙ্গে একটি হাদীস গাঁথা আছে। বুখারী ইবন উমর থেকে বর্ণনা করেন যে রাসূলুল্লাহ ﷺ বলেছেন: \"গায়েবের চাবি পাঁচটি, আল্লাহ ছাড়া কেউ তা জানে না: আগামীকাল কী হবে কেউ জানে না; গর্ভে কী আছে কেউ জানে না; কেউ জানে না আগামীকাল সে কী অর্জন করবে; কেউ জানে না কোন জায়গায় সে মরবে; আর কখন বৃষ্টি হবে তা কেউ জানে না।\" এটি সহীহ বুখারীতে থাকায় সবচেয়ে বিশুদ্ধ সংকলনের অন্তর্ভুক্ত এবং সহীহ হিসেবে গণ্য। হাদীসটি কেবল আয়াতের পাঁচটিকে নবী ﷺ-এর নিজ মুখে সাজিয়ে দেয়।"
+            "bn": "আয়াতটির সঙ্গে একটি হাদিস জুড়ে আছে। বুখারী ইবন উমর থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"গায়েবের চাবি পাঁচটি, আল্লাহ ছাড়া কেউ তা জানে না: আগামীকাল কী হবে কেউ জানে না; গর্ভে কী আছে কেউ জানে না; আগামীকাল সে কী অর্জন করবে কেউ জানে না; কোন জায়গায় সে মারা যাবে কেউ জানে না; আর কখন বৃষ্টি হবে তা কেউ জানে না।\" হাদিসটি সহীহ বুখারীতে আছে, যা সবচেয়ে নির্ভরযোগ্য হাদিসগ্রন্থ, তাই এর মান সহীহ। হাদিসটি আয়াতের পাঁচটি বিষয়কেই নবী ﷺ-এর নিজ মুখে সাজিয়ে বলে দেয়।"
           },
           {
             "en": "The same five surface in the famous hadith of Jibril. When he came in the form of a man and asked when the Hour would be, the Prophet ﷺ answered, \"The one asked about it is no more knowing than the one asking,\" and then recited these signs. Ibn Kathir notes that it is recorded by al-Bukhari and by Muslim. The teacher of the religion is set level with its student: even the Messenger ﷺ, taught by revelation, was not handed this.",
-            "bn": "একই পাঁচটি ভেসে ওঠে জিবরীলের বিখ্যাত হাদীসে। তিনি মানুষের রূপে এসে যখন জিজ্ঞেস করেন কিয়ামত কবে, নবী ﷺ জবাব দেন, \"যাকে জিজ্ঞেস করা হচ্ছে সে প্রশ্নকারীর চেয়ে বেশি জানে না,\" এরপর তিনি এই নিদর্শনগুলো পড়েন। ইবন কাসীর উল্লেখ করেন যে এটি বর্ণনা করেছেন বুখারী এবং মুসলিম। যিনি দ্বীন শেখাচ্ছেন তাঁকে বসানো হলো যিনি শিখছেন তাঁর সমান স্তরে। এমনকি রাসূল ﷺ, যাঁকে ওহীর মাধ্যমে শেখানো হয়েছে, তাঁকেও এটি দেওয়া হয়নি।"
+            "bn": "এই পাঁচটিই আবার আসে জিবরীলের বিখ্যাত হাদিসে। তিনি মানুষের রূপে এসে জিজ্ঞেস করেন, কিয়ামত কবে হবে। নবী ﷺ জবাব দেন, \"যাকে জিজ্ঞেস করা হচ্ছে, সে প্রশ্নকারীর চেয়ে বেশি জানে না।\" তারপর তিনি এই নিদর্শনগুলো তিলাওয়াত করেন। ইবন কাসীর উল্লেখ করেন, হাদিসটি বুখারী ও মুসলিম দুজনেই বর্ণনা করেছেন। দ্বীনের শিক্ষক আর ছাত্র এখানে এক কাতারে দাঁড়িয়ে যান। এমনকি রাসূল ﷺ, যাঁকে ওহির মাধ্যমে শেখানো হয়েছে, তাঁকেও এ জ্ঞান দেওয়া হয়নি।"
           },
           {
             "en": "At-Tabari gathers several of these reports. From Ibn Masʿud he records: everything was given to your Prophet ﷺ except the knowledge of these five. The line is striking for what it concedes — the Prophet ﷺ was given vast knowledge of the unseen by revelation — and for the fence it keeps: these five alone were held back. The hadiths do not soften the verse; they underline it, shutting the door on anyone claiming for a human what was withheld from the best of them.",
-            "bn": "তাবারী এমন কয়েকটি বর্ণনা একত্র করেন। ইবন মাসউদ থেকে তিনি উদ্ধৃত করেন: তোমাদের নবী ﷺ-কে সবকিছুই দেওয়া হয়েছে, কেবল এই পাঁচটির জ্ঞান ছাড়া। কথাটা চমকে দেওয়ার মতো, কারণ এ যা মেনে নেয়: নবী ﷺ-কে ওহীর মাধ্যমে গায়েবের বিশাল জ্ঞান দেওয়া হয়েছিল। আবার এ যে বেড়াটা রাখে তাও চমকে দেয়: কেবল এই পাঁচটিই আটকে রাখা হলো। হাদীসগুলো আয়াতকে নরম করে না। বরং দাগ টেনে দেয়, আর বন্ধ করে দেয় সেই দরজা, যে কেউ মানুষের জন্য তা দাবি করতে চায় যা তাঁদের সেরা জনকেও দেওয়া হয়নি।"
+            "bn": "তাবারী এমন কয়েকটি বর্ণনা একত্র করেছেন। ইবন মাসউদ থেকে তিনি বর্ণনা করেন: তোমাদের নবী ﷺ-কে সবকিছুই দেওয়া হয়েছে, কেবল এই পাঁচটির জ্ঞান ছাড়া। কথাটা দুই দিক থেকে চমকে দেয়। একদিকে এটি মেনে নেয়, নবী ﷺ-কে ওহির মাধ্যমে গায়েবের বিশাল জ্ঞান দেওয়া হয়েছিল। অন্যদিকে বেড়াটাও ঠিক রাখে: শুধু এই পাঁচটিই আটকে রাখা হয়েছে। হাদিসগুলো আয়াতের কথা নরম করে না, বরং আরও জোর দেয়। মানুষের মধ্যে যিনি সর্বশ্রেষ্ঠ, তাঁকেও যা দেওয়া হয়নি, কোনো মানুষের জন্য তা দাবি করার দরজা এগুলো বন্ধ করে দেয়।"
           }
         ]
       },
@@ -749,15 +749,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No soul knows what it will earn tomorrow. At-Tabari glosses it plainly: no living soul knows what it will do in the day to come, whether good or evil. He records ʿAisha's sharp word on it — whoever tells you he knows what is in tomorrow has lied — and her reciting this very clause as her proof. Tomorrow is not hidden from us by distance; for every soul it is simply not given, and whoever sells certainty about it sells a lie.",
-            "bn": "কোনো প্রাণ জানে না আগামীকাল সে কী অর্জন করবে। তাবারী সোজা কথায় ব্যাখ্যা করেন: কোনো জীবিত প্রাণ জানে না আসছে দিনে সে কী করবে, ভালো হোক বা মন্দ। তিনি এ নিয়ে আয়েশা (রাঃ)-এর কড়া কথাটি তুলে ধরেন, যে তোমাকে বলে সে আগামীকালের খবর জানে সে মিথ্যা বলেছে। আর তিনি নিজের দলিল হিসেবে এই অংশটিই পড়ে শোনান। আগামীকাল নিছক দূরত্বের কারণে আমাদের থেকে লুকানো নয়। প্রতিটি প্রাণের জন্য তা কেবল দেওয়াই হয়নি, আর যে এ নিয়ে নিশ্চয়তা বিক্রি করে সে মিথ্যা বিক্রি করে।"
+            "bn": "কোনো প্রাণ জানে না আগামীকাল সে কী অর্জন করবে। তাবারী সোজা কথায় ব্যাখ্যা করেন: কোনো জীবিত প্রাণ জানে না, আসছে দিনে সে কী করবে, ভালো না মন্দ। এ বিষয়ে তিনি আয়েশা (রাঃ)-এর কড়া কথাটি উল্লেখ করেন, যিনি দলিল হিসেবে এই অংশটিই তিলাওয়াত করে বলেছিলেন: যে তোমাকে বলে সে আগামীকালের খবর জানে, সে মিথ্যা বলেছে। আগামীকাল দূরে বলে আমাদের কাছ থেকে লুকানো, ব্যাপারটা তা নয়। কোনো প্রাণকেই তা জানতে দেওয়া হয়নি। তাই যে এ নিয়ে নিশ্চয়তা বেচে, সে আসলে মিথ্যা বেচে।"
           },
           {
             "en": "Nor does any soul know in what land it will die. Ibn Kathir reads it as the resting place no one is shown — whether on land or at sea, on a plain or in the mountains. He cites a report that when Allah wills to take a servant's soul in a certain land, He gives him some need that draws him there. Al-Qurtubi carries the same sense through Ibn Majah. The place is fixed in the decree and hidden from the very one it waits for.",
-            "bn": "আর কোনো প্রাণ জানে না কোন মাটিতে সে মরবে। ইবন কাসীর একে পড়েন সেই শেষ শয্যা হিসেবে যা কাউকে দেখানো হয় না, স্থলে হোক বা সমুদ্রে, সমতলে হোক বা পাহাড়ে। তিনি একটা বর্ণনা উদ্ধৃত করেন যে আল্লাহ যখন কোনো বান্দার প্রাণ কোনো নির্দিষ্ট ভূমিতে নিতে চান, তখন তিনি তাকে এমন কোনো প্রয়োজন দিয়ে দেন যা তাকে সেদিকে টেনে নেয়। কুরতুবী ইবন মাজাহর সূত্রে একই অর্থ বহন করেন। স্থানটি ফয়সালায় পাকা করা, অথচ যার জন্য তা অপেক্ষা করছে তার কাছেই লুকানো।"
+            "bn": "আর কোনো প্রাণ জানে না কোন মাটিতে তার মৃত্যু হবে। ইবন কাসীরের ব্যাখ্যায় এটি সেই শেষ ঠিকানা, যা কাউকে দেখানো হয় না: স্থলে না সাগরে, সমতলে না পাহাড়ে। তিনি একটি বর্ণনা উল্লেখ করেন: আল্লাহ যখন কোনো বান্দার জান কোনো নির্দিষ্ট ভূমিতে কবজ করতে চান, তখন তার এমন কোনো প্রয়োজন তৈরি করে দেন, যা তাকে সেখানে টেনে নিয়ে যায়। কুরতুবী ইবন মাজাহর বর্ণনা দিয়ে একই কথা বলেন। জায়গাটা তাকদিরে আগেই ঠিক করা, অথচ যার জন্য সে জায়গা অপেক্ষা করছে, তার কাছেই তা গোপন।"
           },
           {
             "en": "Qatadah, cited by both at-Tabari and Ibn Kathir, ties the list together: these are matters Allah kept for Himself, disclosed to no angel brought near and no sent prophet. No one knows the year or the month of the Hour, or whether it comes by night or by day; no one knows the hour the rain will fall. The verse binds the farthest thing, the end of the world, to the nearest, your own last breath, and sets them both in one sealed hand.",
-            "bn": "কাতাদা, তাবারী ও ইবন কাসীর দুজনেই যাঁকে উদ্ধৃত করেন, তালিকাটিকে একসুতোয় বাঁধেন: এগুলো এমন বিষয় যা আল্লাহ নিজের জন্য রেখে দিয়েছেন, কোনো নৈকট্যপ্রাপ্ত ফেরেশতা বা প্রেরিত নবীকেও জানাননি। কেউ জানে না কিয়ামতের বছর বা মাস, রাতে আসবে না দিনে তাও নয়। কেউ জানে না কখন বৃষ্টি নামবে। আয়াত সবচেয়ে দূরের জিনিসটাকে, দুনিয়ার শেষ, বেঁধে দেয় সবচেয়ে কাছের জিনিসের সঙ্গে, আপনার নিজের শেষ নিঃশ্বাস, আর দুটিকেই রাখে একই সিল-করা হাতে।"
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই কাতাদার একটি কথা উদ্ধৃত করেন, যা পুরো তালিকাটিকে এক সুতোয় গেঁথে দেয়: এগুলো এমন বিষয়, যা আল্লাহ নিজের জন্য রেখে দিয়েছেন, নৈকট্যপ্রাপ্ত কোনো ফেরেশতা বা প্রেরিত কোনো নবীকেও জানাননি। কিয়ামত কোন বছর বা কোন মাসে হবে, রাতে আসবে না দিনে, কেউ জানে না। বৃষ্টি কোন সময়ে নামবে, তাও কেউ জানে না। সবচেয়ে দূরের ব্যাপার দুনিয়ার শেষ, আর সবচেয়ে কাছের ব্যাপার আপনার নিজের শেষ নিঃশ্বাস। আয়াতটি এ দুটিকে একসঙ্গে বেঁধে একই সিল-করা হাতে রেখে দেয়।"
           }
         ]
       },
@@ -769,11 +769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi draws the practical edge. He reports Ibn ʿAbbas: these five none knows but Allah, not an angel brought near nor a prophet sent, and whoever claims to know any of them has denied the Qur'an, for he contradicts it. Yet the prophets, Ibn ʿAbbas adds, do know much of the unseen when Allah informs them. The target of the verse is the soothsayer, the astrologer, the man who claims to call down rain by the stars.",
-            "bn": "কুরতুবী এর বাস্তব ধারটা বের করে আনেন। তিনি ইবন আব্বাস থেকে বর্ণনা করেন: এই পাঁচটি আল্লাহ ছাড়া কেউ জানে না, কোনো নৈকট্যপ্রাপ্ত ফেরেশতাও নয়, কোনো প্রেরিত নবীও নয়। আর যে এগুলোর কোনোটা জানার দাবি করে সে কুরআনকে অস্বীকার করল, কারণ সে কুরআনের বিরুদ্ধে গেল। তবে ইবন আব্বাস যোগ করেন, নবীরা গায়েবের অনেক কিছুই জানেন, যখন আল্লাহ তাঁদের জানান। আয়াতের লক্ষ্য হলো গণক, জ্যোতিষী, আর সেই লোক যে তারা দেখে বৃষ্টি নামানোর দাবি করে।"
+            "bn": "কুরতুবী এর বাস্তব দিকটা সামনে আনেন। তিনি ইবন আব্বাস থেকে বর্ণনা করেন: এই পাঁচটি আল্লাহ ছাড়া কেউ জানে না, নৈকট্যপ্রাপ্ত কোনো ফেরেশতাও না, প্রেরিত কোনো নবীও না। আর যে এগুলোর কোনোটি জানার দাবি করে, সে কুরআনকে অস্বীকার করল, কারণ সে কুরআনের বিরোধিতা করছে। তবে ইবন আব্বাস যোগ করেন, আল্লাহ জানালে নবীরা গায়েবের অনেক কিছুই জানেন। আয়াতের নিশানা হলো গণক, জ্যোতিষী, আর সেই লোক যে নক্ষত্রের হিসাব দিয়ে বৃষ্টি নামানোর দাবি করে।"
           },
           {
             "en": "Ma'arif al-Qur'an answers the obvious question: what of the saint whose foretelling came true, or the astrologer who now and then hits the mark? Neither breaches the verse. The knowledge it reserves is knowledge without any medium, whole and absolute; what reaches a servant by inspiration is partial and fallible, and what an astrologer offers, it notes, scarcely yields one truth in ten lies. A lucky fragment is not the knowledge of the unseen. The whole of it stays where the verse puts it.",
-            "bn": "মাআরিফুল কুরআন সহজ প্রশ্নটির জবাব দেয়: যে ওলির ভবিষ্যদ্বাণী সত্য হয়ে গেল, বা যে জ্যোতিষী মাঝেমধ্যে লক্ষ্যে লাগিয়ে ফেলে, তাদের বেলায় কী? কেউই আয়াত ভাঙে না। আয়াত যে জ্ঞান নিজের জন্য রাখে তা কোনো মাধ্যম ছাড়া, পূর্ণ ও চূড়ান্ত জ্ঞান। আর যা ইলহামের মাধ্যমে বান্দার কাছে পৌঁছায় তা আংশিক ও ভুলের সম্ভাবনাভরা। বইটি বলে, জ্যোতিষী যা দেয় তা দশটি মিথ্যায় একটি সত্যও সবে ছোঁয়। ভাগ্যক্রমে মিলে যাওয়া টুকরো গায়েবের জ্ঞান নয়। গোটা জিনিসটা থেকে যায় আয়াত যেখানে রাখে ঠিক সেখানেই।"
+            "bn": "মাআরিফুল কুরআন স্বাভাবিক প্রশ্নটির জবাবও দেয়: যে ওলির ভবিষ্যদ্বাণী সত্য হয়েছে, কিংবা যে জ্যোতিষীর কথা মাঝেমধ্যে মিলে যায়, তাদের বেলায় কী? কেউই আয়াতের কথা ভাঙে না। আয়াত যে জ্ঞান আল্লাহর জন্য নির্দিষ্ট রাখে, তা কোনো মাধ্যম ছাড়া, পূর্ণ ও নিরঙ্কুশ জ্ঞান। ইলহামের মাধ্যমে বান্দার কাছে যা পৌঁছায় তা আংশিক, তাতে ভুলও হতে পারে। আর বইটি বলে, জ্যোতিষীর দশটা মিথ্যার মধ্যে একটা সত্য মেলে কি না সন্দেহ। কাকতালীয়ভাবে মিলে যাওয়া এক টুকরো কথা গায়েবের জ্ঞান নয়। পুরো জ্ঞান রয়ে যায় সেখানেই, যেখানে আয়াত তা রেখেছে।"
           }
         ]
       },
@@ -785,11 +785,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di ends his comment on a note worth keeping. Of His complete wisdom, he says, Allah hid the knowledge of these five from His servants, for in the hiding lie benefits plain to anyone who reflects. A person who knew the day of his death would despair or stall; another who knew tomorrow's gain would stop trusting and gamble. Not knowing keeps the heart working — hoping, fearing, depending — in a way that certainty would quietly kill.",
-            "bn": "সা'দী নিজের আলোচনা শেষ করেন এমন একটা কথায় যা ধরে রাখার মতো। তিনি বলেন, তাঁর পূর্ণ হিকমতে আল্লাহ এই পাঁচটির জ্ঞান বান্দাদের কাছ থেকে লুকিয়ে রেখেছেন, কারণ এই লুকিয়ে রাখার মধ্যে এমন কল্যাণ আছে যা চিন্তাশীল যে কারও কাছে স্পষ্ট। একটু ভাবুন। যে মানুষ নিজের মৃত্যুর দিন জানত, সে হয় হতাশ হয়ে পড়ত, নয়তো গড়িমসি করত। যে আগামীকালের লাভ জানত, সে ভরসা ছেড়ে জুয়া ধরত। না-জানা হৃদয়কে সচল রাখে, আশায়, ভয়ে, নির্ভরতায়, যেভাবে নিশ্চয়তা তা চুপচাপ মেরে ফেলত।"
+            "bn": "সা'দী তাঁর আলোচনা শেষ করেন এমন একটি কথায়, যা মনে রাখার মতো। তিনি বলেন, আল্লাহ তাঁর পূর্ণ হিকমতের কারণে এই পাঁচটির জ্ঞান বান্দাদের কাছ থেকে গোপন রেখেছেন, কারণ এই গোপন রাখার মধ্যে এমন কল্যাণ আছে, যা একটু চিন্তা করলেই যে কেউ বুঝতে পারে। যে মানুষ নিজের মৃত্যুর দিন জানত, সে হয় হতাশ হয়ে পড়ত, নয়তো হাত গুটিয়ে বসে থাকত। যে আগামীকালের লাভ জানত, সে তাওয়াক্কুল ছেড়ে জুয়ায় নামত। না-জানা হৃদয়কে সচল রাখে: আশায়, ভয়ে, নির্ভরতায়। নিশ্চয়তা এলে এসব চুপচাপ মরে যেত।"
           },
           {
             "en": "That is why the list follows the warning of 31:33 so closely. A verse earlier, mankind was told not to let the worldly life delude it, nor the Deceiver deceive it about Allah. Delusion feeds on a felt certainty about tomorrow, the quiet assumption that there will be time. These five unknowns starve it. You cannot safely bank on a day you were never promised, in a place you were never shown, for an earning you cannot foresee. The surah closes by handing the reader, in place of knowledge, the humility to live without it.",
-            "bn": "এ কারণেই তালিকাটি ৩১:৩৩ আয়াতের সতর্কবাণীর এত কাছ ঘেঁষে আসে। এক আয়াত আগে মানুষকে বলা হয়েছিল, পার্থিব জীবন যেন তাকে ধোঁকায় না ফেলে, আর প্রধান প্রতারক যেন তাকে আল্লাহ সম্পর্কে না ভোলায়। ধোঁকা বেঁচে থাকে আগামীকাল নিয়ে একটা অনুভূত নিশ্চয়তায়, এই চুপচাপ ধরে নেওয়ায় যে সময় থাকবেই। এই পাঁচটি না-জানা সেই ধোঁকাকে অনাহারে রাখে। যে দিনের কথা আপনাকে কখনো দেওয়া হয়নি, যে জায়গা আপনাকে কখনো দেখানো হয়নি, যে অর্জন আপনি আগেভাগে দেখতে পান না, তার উপর নিশ্চিন্তে ভরসা করা যায় না। সূরাটি শেষ হয় পাঠকের হাতে জ্ঞানের বদলে তুলে দিয়ে সেই নম্রতা, যা দিয়ে জ্ঞান ছাড়াই বেঁচে থাকা যায়।"
+            "bn": "এ কারণেই তালিকাটি ৩১:৩৩ আয়াতের সতর্কবাণীর এত কাছে এসেছে। ঠিক আগের আয়াতে মানুষকে বলা হয়েছে, দুনিয়ার জীবন যেন তাকে ধোঁকায় না ফেলে, আর সেই মহাপ্রতারক যেন আল্লাহর ব্যাপারে তাকে প্রতারিত না করে। ধোঁকার খোরাক হলো আগামীকাল নিয়ে মনের ভেতরের একটা নিশ্চয়তা, চুপচাপ ধরে নেওয়া যে সময় তো আছেই। এই পাঁচটি না-জানা সেই খোরাক বন্ধ করে দেয়। যে দিনের কোনো প্রতিশ্রুতি আপনাকে দেওয়া হয়নি, যে জায়গা আপনাকে দেখানো হয়নি, যে উপার্জন আপনি আগে থেকে দেখতে পান না, তার ওপর নিশ্চিন্তে ভরসা করা চলে না। সূরাটি শেষ হয় পাঠকের হাতে জ্ঞানের বদলে এমন বিনয় তুলে দিয়ে, যা নিয়ে জ্ঞান ছাড়াই বাঁচা যায়।"
           }
         ]
       }
