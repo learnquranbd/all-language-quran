@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di describes the design of the whole surah in a single sentence. Allah opened this noble surah with His name ar-Rahman, which points to the breadth of His mercy. Then He mentioned what shows that mercy and its effect: the favours He has brought to His servants in their religion, in their worldly life and in the Hereafter. After every kind of favour, as-Sa'di adds, the surah alerts the two weighty races, jinn and mankind, to give Him thanks, asking: which of the favours of your Lord will you two deny?",
-            "bn": "গোটা সূরার নকশা সা'দী এক বাক্যে বলে দেন। আল্লাহ এই মহিমান্বিত সূরা শুরু করেছেন তাঁর নাম আর-রাহমান দিয়ে, যে নাম তাঁর রহমতের প্রশস্ততার দিকে ইঙ্গিত করে। এরপর তিনি উল্লেখ করেছেন সেই সব জিনিস, যা ওই রহমত আর তার ফল দেখিয়ে দেয়: দ্বীনের, দুনিয়ার আর আখিরাতের যত নিয়ামত তিনি বান্দাদের কাছে পৌঁছে দিয়েছেন। সা'দী আরও বলেন, প্রতিটি ধরনের নিয়ামতের পর সূরাটি দুই ভারী সৃষ্টি, জিন ও মানুষকে, শুকরিয়ার দিকে সজাগ করে প্রশ্ন তোলে: তোমরা দুজন তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে?"
+            "bn": "সা'দী গোটা সূরার নকশা এক বাক্যে বলে দেন। আল্লাহ এই মহান সূরা শুরু করেছেন তাঁর আর-রাহমান নাম দিয়ে। এ নাম জানিয়ে দেয়, তাঁর রহমত কত প্রশস্ত। এরপর তিনি সেসব কথা বলেছেন, যাতে সেই রহমত আর তার ফল চোখে পড়ে: দ্বীন, দুনিয়া আর আখিরাতে বান্দাদের তিনি যত নিয়ামত দিয়েছেন। সা'দী আরও বলেন, প্রতিটি ধরনের নিয়ামতের পর সূরাটি জিন ও মানুষ, এই দুই ভারী জাতিকে শুকরিয়ার কথা মনে করিয়ে দেয় আর প্রশ্ন করে: তোমরা দুজন তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে?"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The words as-Sa'di chooses for the name are worth reading slowly. Ar-Rahman, he writes, is the name that points to the breadth of His mercy, the generality of His ihsan, the abundance of His goodness and the width of His bounty. He sets the four phrases side by side: mercy that is broad, kindness that reaches all, goodness given in large measure, favour without narrow limits. Ma'arif al-Qur'an renders the name as the All-Merciful. On the word itself the fetched commentaries say no more than this, and this article adds nothing to them.",
-            "bn": "নামটির জন্য সা'দী যে শব্দগুলো বেছে নিয়েছেন, সেগুলো ধীরে পড়ার মতো। তিনি লেখেন, আর-রাহমান সেই নাম, যা নির্দেশ করে তাঁর রহমতের প্রশস্ততা, তাঁর ইহসানের ব্যাপকতা, তাঁর কল্যাণের প্রাচুর্য আর তাঁর অনুগ্রহের বিস্তার। চারটি কথা তিনি পাশাপাশি রাখেন। রহমত, যা প্রশস্ত। দয়া, যা সবার কাছে পৌঁছায়। কল্যাণ, যা দেওয়া হয় অঢেল পরিমাণে। অনুগ্রহ, যার কোনো সংকীর্ণ সীমা নেই। মাআরিফুল কুরআন নামটির অনুবাদ করে সর্বদয়াময়। শব্দটি নিয়ে যে তাফসীরগুলো আনা হয়েছে, সেগুলো এর বেশি কিছু বলে না, আর এ লেখাও তার সঙ্গে নিজের থেকে কিছু যোগ করে না।"
+            "bn": "নামটির জন্য সা'দী যে শব্দগুলো বেছে নিয়েছেন, সেগুলো ধীরে পড়ার মতো। তিনি লেখেন, আর-রাহমান নামটি জানিয়ে দেয় তাঁর রহমত কত প্রশস্ত, তাঁর ইহসান কত ব্যাপক, তাঁর কল্যাণ কত অঢেল আর তাঁর অনুগ্রহ কত বিস্তৃত। চারটি কথা তিনি পাশাপাশি রাখেন: প্রশস্ত রহমত, সবার কাছে পৌঁছে যাওয়া দয়া, অঢেল পরিমাণে দেওয়া কল্যাণ, আর এমন অনুগ্রহ যার কোনো সংকীর্ণ সীমা নেই। মাআরিফুল কুরআন নামটির অনুবাদ করে সর্বদয়াময়। শব্দটি নিয়ে আনা তাফসীরগুলো এর বেশি কিছু বলে না, আর এ লেখাও নিজের থেকে কিছু যোগ করছে না।"
           },
           {
             "en": "At-Tabari explains the name by what it does in the passage, and his paraphrase speaks to the reader directly: ar-Rahman, O people, out of His mercy towards you, taught you the Qur'an. By that He favoured you, since through it He showed you what pleases your Lord and made known to you what angers Him, so that you would obey Him, earn His abundant reward and be saved from His painful punishment. Ibn Kathir opens his comment on the same note: here Allah tells of His favour and His mercy towards His creation.",
-            "bn": "তাবারী নামটির ব্যাখ্যা দেন এ অংশে নামটি কী করছে তা দিয়ে, আর তাঁর ব্যাখ্যা সরাসরি পাঠককে সম্বোধন করে: হে মানুষ, আর-রাহমান তোমাদের প্রতি তাঁর রহমতের কারণে তোমাদের কুরআন শিখিয়েছেন। এর মাধ্যমে তিনি তোমাদের উপর অনুগ্রহ করেছেন। কারণ কুরআন দিয়েই তিনি দেখিয়ে দিয়েছেন কিসে তোমাদের রব সন্তুষ্ট হন, আর জানিয়ে দিয়েছেন কিসে তিনি অসন্তুষ্ট হন। উদ্দেশ্য, তোমরা যেন তাঁর আনুগত্য করো, তাঁর বিপুল সওয়াবের যোগ্য হও আর তাঁর কষ্টদায়ক শাস্তি থেকে বাঁচো। ইবন কাসীরও তাঁর আলোচনা শুরু করেন একই সুরে: এখানে আল্লাহ তাঁর সৃষ্টির প্রতি নিজের অনুগ্রহ আর রহমতের খবর দিচ্ছেন।"
+            "bn": "তাবারী নামটি বোঝান এ অংশে নামটি কী কাজ করছে তা দেখিয়ে। তাঁর ব্যাখ্যা সরাসরি পাঠকের সঙ্গে কথা বলে: হে মানুষ, আর-রাহমান তোমাদের প্রতি রহমত করে তোমাদের কুরআন শিখিয়েছেন। এভাবে তিনি তোমাদের উপর অনুগ্রহ করেছেন। কারণ কুরআন দিয়েই তিনি দেখিয়ে দিয়েছেন কিসে তোমাদের রব সন্তুষ্ট হন, আর জানিয়ে দিয়েছেন কিসে তিনি অসন্তুষ্ট হন, যাতে তোমরা তাঁর আনুগত্য করো, তাঁর বিপুল সওয়াব লাভ করো আর তাঁর যন্ত্রণাদায়ক শাস্তি থেকে বাঁচো। ইবন কাসীরও তাঁর আলোচনা শুরু করেন একই সুরে: এখানে আল্লাহ তাঁর সৃষ্টির প্রতি নিজের অনুগ্রহ আর রহমতের খবর দিচ্ছেন।"
           }
         ]
       },
@@ -69,11 +69,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Baghawi's note on the verse is short, and it records two reports, each introduced with qila, it is said. In the first, it was revealed when they said: and what is ar-Rahman? Those words are found in 25:60, where people told to prostrate to ar-Rahman answer with that very question. In the second, it is a reply to the people of Makkah when they said: it is only a human being who teaches him, words the Qur'an itself quotes in 16:103. Al-Baghawi gives both and does not choose between them.",
-            "bn": "আয়াতটি নিয়ে বাগাভীর আলোচনা ছোট। তাতে তিনি দুটি বর্ণনা আনেন, দুটোই কীলা, অর্থাৎ বলা হয়, শব্দ দিয়ে শুরু। প্রথম বর্ণনায়, এটি নাজিল হয়েছিল যখন তারা বলেছিল: আর-রাহমান আবার কী? কথাটা আছে ২৫:৬০ আয়াতে। সেখানে আর-রাহমানকে সিজদা করতে বলা হলে লোকেরা ঠিক এই প্রশ্ন দিয়েই জবাব দেয়। দ্বিতীয় বর্ণনায়, এটি মক্কাবাসীর সেই কথার জবাব, যখন তারা বলেছিল: তাকে তো একজন মানুষই শেখায়। কুরআন নিজেই কথাটা উদ্ধৃত করেছে ১৬:১০৩ আয়াতে। বাগাভী দুটোই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+            "bn": "আয়াতটি নিয়ে বাগাভীর আলোচনা ছোট। তাতে তিনি দুটি বর্ণনা আনেন, দুটোরই শুরুতে আছে কীলা, অর্থাৎ বলা হয়। প্রথম বর্ণনা মতে, আয়াতটি নাজিল হয় যখন তারা বলেছিল: আর-রাহমান আবার কী? কথাটা আছে ২৫:৬০ আয়াতে। সেখানে লোকদের আর-রাহমানকে সিজদা করতে বলা হলে তারা ঠিক এই প্রশ্ন দিয়েই জবাব দেয়। দ্বিতীয় বর্ণনা মতে, আয়াতটি মক্কাবাসীর একটি কথার জবাব। তারা বলেছিল: তাকে তো একজন মানুষই শেখায়। কুরআন নিজেই কথাটা উদ্ধৃত করেছে ১৬:১০৩ আয়াতে। বাগাভী দুটোই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
           },
           {
             "en": "Set beside at-Tabari and al-Muyassar, these reports give the opening word a second shape. Read with those two, ar-Rahman begins a sentence that 55:2 completes. Read with al-Baghawi's reports, the name also stands as an answer: to a question about who ar-Rahman is, or to a claim about who was teaching the Prophet ﷺ. The sources place the two framings side by side without a verdict, and al-Baghawi marks both of his reports with it is said. This article leaves the matter where they leave it and chooses neither.",
-            "bn": "তাবারী আর মুয়াসসারের পাশে রাখলে এই বর্ণনাগুলো প্রথম শব্দটিকে আরেকটি রূপ দেয়। ওই দুজনের সঙ্গে পড়লে আর-রাহমান এমন এক বাক্যের শুরু, যা ৫৫:২ আয়াতে পূর্ণ হয়। বাগাভীর বর্ণনার সঙ্গে পড়লে নামটি একটি জবাবও বটে। জবাব হয় এই প্রশ্নের যে আর-রাহমান কে, নয়তো এই দাবির যে নবী ﷺ-কে কে শেখাচ্ছে। উৎসগুলো দুটি ব্যাখ্যা পাশাপাশি রাখে, কোনো রায় দেয় না। বাগাভী নিজেও দুটো বর্ণনার গায়েই লিখে রেখেছেন, বলা হয়। তাঁরা বিষয়টা যেখানে রেখেছেন, এ লেখাও সেখানেই রাখছে, কোনোটিকে বেছে নিচ্ছে না।"
+            "bn": "তাবারী আর মুয়াসসারের পাশে রাখলে এই বর্ণনাগুলো প্রথম শব্দটিকে আরেকটি চেহারা দেয়। ওই দুজনের সঙ্গে পড়লে আর-রাহমান একটি বাক্যের শুরু, যা ৫৫:২ আয়াতে গিয়ে পূর্ণ হয়। বাগাভীর বর্ণনার সঙ্গে পড়লে নামটি একটি জবাবও বটে: হয় আর-রাহমান কে, সেই প্রশ্নের জবাব; নয়তো নবী ﷺ-কে কে শেখাচ্ছে, সে বিষয়ে তোলা দাবির জবাব। উৎসগুলো দুটি ব্যাখ্যা পাশাপাশি রাখে, কোনো রায় দেয় না। বাগাভী নিজেও দুটো বর্ণনার সঙ্গেই 'বলা হয়' কথাটি জুড়ে দিয়েছেন। তাঁরা বিষয়টা যেখানে রেখেছেন, এ লেখাও সেখানেই রাখছে, কোনোটিকে বেছে নিচ্ছে না।"
           }
         ]
       },
@@ -133,15 +133,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi adds a hadith to the same argument, and Ibn Kathir and Ma'arif al-Qur'an cite it too. At-Tirmidhi records (3291) from Jabir (RA): The Messenger of Allah ﷺ came out to his Companions, and recited Surat ar-Rahman from its beginning to its end for them, and they were silent. So he said: I recited it to the jinn on the Night of the Jinn, and they had a better response to it than you did. Each time I came to Allah's saying, which of your Lord's favours do you deny, they said: We do not deny any of Your favours, our Lord, and Yours is praise.",
-            "bn": "একই যুক্তির পক্ষে কুরতুবী একটি হাদীস যোগ করেন, ইবন কাসীর আর মাআরিফুল কুরআনও হাদীসটি উল্লেখ করে। তিরমিযী (৩২৯১) জাবির (রাঃ) থেকে বর্ণনা করেন: রাসূলুল্লাহ ﷺ তাঁর সাহাবিদের কাছে বেরিয়ে এলেন এবং শুরু থেকে শেষ পর্যন্ত সূরা আর-রাহমান তাঁদের পড়ে শোনালেন। তাঁরা চুপ করে রইলেন। তখন তিনি বললেন: জিনদের রাতে আমি এটি জিনদের পড়ে শুনিয়েছিলাম, তারা তোমাদের চেয়ে সুন্দর সাড়া দিয়েছিল। যখনই আমি আল্লাহর এই বাণীতে পৌঁছাতাম, তোমাদের রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে, তারা বলত: হে আমাদের রব, তোমার কোনো নিয়ামতই আমরা অস্বীকার করি না, সব প্রশংসা তোমারই।"
+            "bn": "একই যুক্তির পক্ষে কুরতুবী একটি হাদিস আনেন, ইবন কাসীর আর মাআরিফুল কুরআনও হাদিসটি উল্লেখ করেছে। তিরমিযী (৩২৯১) জাবির (রাঃ) থেকে বর্ণনা করেন: রাসূলুল্লাহ ﷺ তাঁর সাহাবিদের কাছে বেরিয়ে এলেন এবং শুরু থেকে শেষ পর্যন্ত সূরা আর-রাহমান তাঁদের পড়ে শোনালেন। তাঁরা চুপ করে রইলেন। তখন তিনি বললেন: জিনদের রাতে আমি এটি জিনদের পড়ে শুনিয়েছিলাম, তারা তোমাদের চেয়ে সুন্দর সাড়া দিয়েছিল। যখনই আমি আল্লাহর এই বাণীতে পৌঁছাতাম, তোমাদের রবের কোন কোন নিয়ামত তোমরা অস্বীকার করবে, তারা বলত: হে আমাদের রব, আপনার কোনো নিয়ামতই আমরা অস্বীকার করি না, সব প্রশংসা আপনারই।"
           },
           {
             "en": "At-Tirmidhi calls the hadith gharib and says he knows it only through a single chain, from Zuhayr ibn Muhammad. He adds Ahmad ibn Hanbal's remark that the Zuhayr known in Syria seems not to be the one narrated from in Iraq, because of the munkar reports told from him, and al-Bukhari's that the people of Syria narrate munkar reports from Zuhayr. That is the collector's own grading, and it is not raised here. Al-Qurtubi uses the hadith as further sign that the surah is Makkan, and Ma'arif al-Qur'an explains why: the Night of the Jinn took place in Makkah.",
-            "bn": "তিরমিযী হাদীসটিকে গরীব বলেন। তাঁর কথায়, এটি তিনি কেবল একটি সূত্রে জানেন, যুহাইর ইবন মুহাম্মাদ থেকে। সঙ্গে তিনি আহমাদ ইবন হাম্বলের মন্তব্য যোগ করেন: শামে যে যুহাইরকে পাওয়া যায়, তিনি যেন ইরাকে যাঁর থেকে বর্ণনা করা হয় সেই লোক নন, কারণ তাঁর নামে মুনকার বর্ণনা চলে। বুখারীর মন্তব্যও আনেন যে শামের লোকেরা যুহাইর থেকে মুনকার বর্ণনা করে। এটাই সংকলকের নিজের দেওয়া মান, এখানে তা বাড়িয়ে বলা হচ্ছে না। কুরতুবী হাদীসটিকে সূরাটি মক্কি হওয়ার আরেকটি ইঙ্গিত হিসেবে নেন। মাআরিফুল কুরআন কারণটা বলে দেয়: জিনদের রাতের ঘটনা ঘটেছিল মক্কায়।"
+            "bn": "তিরমিযী হাদিসটিকে গরীব বলেছেন। তিনি জানান, এটি তিনি কেবল একটি সূত্রেই জানেন, যুহাইর ইবন মুহাম্মাদ থেকে। সঙ্গে আহমাদ ইবন হাম্বলের মন্তব্য আনেন: শামে যে যুহাইরকে চেনা যায়, মনে হয় তিনি সেই যুহাইর নন, ইরাকে যাঁর থেকে বর্ণনা নেওয়া হয়; কারণ তাঁর নামে মুনকার বর্ণনা পাওয়া যায়। বুখারীর মন্তব্যও আনেন: শামের লোকেরা যুহাইর থেকে মুনকার বর্ণনা করে। এটাই সংকলকের নিজের দেওয়া মান, এখানে তা বাড়িয়ে বলা হচ্ছে না। কুরতুবী হাদিসটিকে সূরাটি মক্কী হওয়ার আরেকটি ইঙ্গিত হিসেবে নেন। মাআরিফুল কুরআন কারণটা বলে দেয়: জিনদের রাতের ঘটনা ঘটেছিল মক্কায়।"
           },
           {
             "en": "The refrain the jinn answered, first heard in 55:13, has its own article, and this one does not repeat it. Al-Qurtubi also relates, with it is narrated and no source named, a saying through 'Ali that everything has a bride and the bride of the Qur'an is Surat ar-Rahman. Ibn Kathir gives a second report of the jinn's answer from Ibn 'Umar, through at-Tabari's chain. Neither was confirmed in a graded collection for this article, so neither is relied on here, and the article rests its one hadith on at-Tirmidhi alone.",
-            "bn": "জিনেরা যে বারবার ফিরে আসা প্রশ্নের জবাব দিয়েছিল, তা প্রথম আসে ৫৫:১৩ আয়াতে। সে আয়াতের আলাদা লেখা আছে, এখানে তার পুনরাবৃত্তি করা হচ্ছে না। কুরতুবী রুউইয়া, অর্থাৎ বর্ণিত আছে, বলে এবং কোনো উৎসের নাম না নিয়ে আলী থেকে একটি কথা আনেন: প্রতিটি জিনিসের একটি দুলহান আছে, আর কুরআনের দুলহান সূরা আর-রাহমান। ইবন কাসীর তাবারীর সনদে ইবন উমার থেকে জিনদের জবাব নিয়ে দ্বিতীয় একটি বর্ণনা আনেন। এ লেখার জন্য কোনো মানযুক্ত সংকলনে এর কোনোটিই নিশ্চিত করা যায়নি। তাই এখানে এগুলোর উপর ভর করা হচ্ছে না। এ লেখার একমাত্র হাদীস তিরমিযীর বর্ণনাটিই।"
+            "bn": "জিনেরা যে বারবার ফিরে আসা প্রশ্নের জবাব দিয়েছিল, তা প্রথম আসে ৫৫:১৩ আয়াতে। সে আয়াত নিয়ে আলাদা লেখা আছে, তাই এখানে আর বলা হচ্ছে না। কুরতুবী রুউইয়া, অর্থাৎ বর্ণিত আছে, বলে কোনো উৎসের নাম না নিয়ে আলী থেকে একটি কথা আনেন: প্রত্যেক জিনিসের একটি কনে আছে, আর কুরআনের কনে সূরা আর-রাহমান। ইবন কাসীর তাবারীর সনদে ইবন উমার থেকে জিনদের জবাব নিয়ে দ্বিতীয় একটি বর্ণনা আনেন। এ লেখার জন্য মান যাচাই করা কোনো হাদিস-সংকলনে এ দুটোর কোনোটিই মেলানো যায়নি। তাই এখানে এগুলোর উপর ভর করা হচ্ছে না। এ লেখার একমাত্র হাদিস তিরমিযীর বর্ণনাটিই।"
           }
         ]
       },
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn 'Uyaynah, quoted by both al-Qurtubi and al-Baghawi, divides the verse between two organs: al-iqamah bil-yad, wal-qist bil-qalb. The establishing is by the hand, and the justice is by the heart. The hand can level a needle while the heart is already leaning, and the reverse also happens, an intention to be fair carried out with a careless hand. His sentence asks for both together. As-Sa'di's limit, justice as far as capacity reaches, keeps this from becoming a demand for a precision no human hand possesses.",
-            "bn": "ইবন উয়াইনার কথা কুরতুবী ও বাগাভী দুজনেই এনেছেন। তিনি আয়াতটিকে দুটি অঙ্গের মাঝে ভাগ করে দেন: আল-ইকামাতু বিল ইয়াদ, ওয়াল কিসতু বিল কালব। প্রতিষ্ঠা হয় হাত দিয়ে, আর ইনসাফ হয় অন্তর দিয়ে। এমন হয় যে হাত কাঁটা সমান করে দিচ্ছে, অথচ অন্তর আগেই এক দিকে ঝুঁকে আছে। উল্টোটাও ঘটে: নিয়ত ইনসাফেরই, কিন্তু হাত অসাবধান। তাঁর বাক্য দুটোকেই একসঙ্গে চায়। সা'দীর সীমারেখা, যতদূর সামর্থ্য পৌঁছায় ততদূর ন্যায়, এ দাবিকে এমন নিখুঁততার দাবিতে পরিণত হতে দেয় না যা কোনো মানুষের হাতের নেই।"
+            "bn": "ইবন উয়াইনার কথা কুরতুবী ও বাগাভী দুজনেই এনেছেন। তিনি আয়াতটিকে দুটি অঙ্গের মাঝে ভাগ করে দেন: আল-ইকামাতু বিল ইয়াদ, ওয়াল কিসতু বিল কালব। প্রতিষ্ঠা হয় হাত দিয়ে, আর ইনসাফ হয় অন্তর দিয়ে। এমন হয় যে হাত কাঁটা সমান করে দিচ্ছে, অথচ অন্তর আগেই এক দিকে ঝুঁকে আছে। উল্টোটাও ঘটে: নিয়ত ইনসাফেরই, কিন্তু হাত অসাবধান। তাঁর বাক্য দুটোকেই একসঙ্গে চায়। সা'দীর বেঁধে দেওয়া সীমা, অর্থাৎ যতদূর সামর্থ্য পৌঁছায় ততদূর ন্যায়, এ দাবিকে মানুষের সাধ্যের বাইরে যেতে দেয় না। এমন নিখুঁত মাপ চাওয়া হচ্ছে না, যা কোনো মানুষের হাতে সম্ভব নয়।"
           }
         ]
       },
@@ -285,7 +285,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse's nearest neighbours deserve only a pointer here, since each has its own weight. 55:8, that you not transgress within the balance, is the purpose that 55:9 turns into practice, and the root of its verb, tagha, is the overstepping of a bound. 55:10, the earth laid out for the creatures, resumes the list of favours once the command is given. Ibn Kathir reads al-anam there, through Ibn Abbas, Mujahid, Qatadah and Ibn Zayd, as the creatures. The command to weigh justly sits between the sky and the ground that feeds everyone.",
-            "bn": "আয়াতটির সবচেয়ে কাছের প্রতিবেশীদের দিকে এখানে শুধু ইশারা করাই যথেষ্ট, কারণ প্রত্যেকটির নিজস্ব ভার আছে। ৫৫:৮ আয়াত, যাতে তোমরা মানদণ্ডে সীমা না ছাড়াও, সেই উদ্দেশ্য যাকে ৫৫:৯ আয়াত কাজে নামিয়ে আনে। এর ক্রিয়ার ধাতু তাগা, যার অর্থ সীমা ছাড়িয়ে যাওয়া। ৫৫:১০ আয়াত, সৃষ্টিকুলের জন্য বিছানো জমিন, হুকুমের পরে আবার নিয়ামতের তালিকায় ফিরে যায়। ইবন কাসীর ইবন আব্বাস, মুজাহিদ, কাতাদা ও ইবন যায়দের সূত্রে সেখানে আল-আনাম শব্দের অর্থ বলেন সৃষ্টিকুল। ন্যায়ের সঙ্গে ওজনের হুকুম তাই দাঁড়িয়ে আছে আকাশ আর সেই জমিনের মাঝে, যা সবাইকে খাওয়ায়।"
+            "bn": "আয়াতটির সবচেয়ে কাছের প্রতিবেশীদের দিকে এখানে শুধু ইশারা করাই যথেষ্ট, কারণ প্রত্যেকটির নিজস্ব ভার আছে। ৫৫:৮ আয়াত বলে, যাতে তোমরা মানদণ্ডে সীমা না ছাড়াও। এটাই সেই উদ্দেশ্য, ৫৫:৯ আয়াত যাকে হাতে-কলমে কাজে নামিয়ে আনে। ওই আয়াতের ক্রিয়ার ধাতু তাগা, যার অর্থ সীমা ছাড়িয়ে যাওয়া। ৫৫:১০ আয়াতে আছে সৃষ্টিকুলের জন্য বিছানো জমিনের কথা। হুকুম দেওয়ার পর সেখানে আবার নিয়ামতের তালিকা শুরু হয়। ইবন কাসীর ইবন আব্বাস, মুজাহিদ, কাতাদা ও ইবন যায়দের সূত্রে সেখানে আল-আনাম শব্দের অর্থ বলেন সৃষ্টিকুল। ন্যায়ের সঙ্গে ওজনের হুকুম তাই দাঁড়িয়ে আছে আকাশ আর সেই জমিনের মাঝে, যা সবাইকে খাওয়ায়।"
           }
         ]
       },
@@ -317,27 +317,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Few sentences in the Quran repeat like this one: fa-bi-ayyi ala'i rabbikuma tukadhdhiban — then which of the favors of your Lord will you two deny? It sounds thirty-one times in Surah ar-Rahman, and its first sounding is here at 55:13 itself. A surah built on repetition is doing something deliberate: the question returns after nearly every gift and scene the surah displays, pinning each one down before the listener can let it slide past unexamined.",
-            "bn": "কুরআনে এই বাক্যটির মতো পুনরাবৃত্তি খুব কম বাক্যেরই আছে: ফাবিআইয়ি আলাই রাব্বিকুমা তুকাযযিবান — সুতরাং তোমরা উভয়ে তোমাদের রবের কোন কোন অনুগ্রহ অস্বীকার করবে? এটি সূরা আর-রাহমানে একত্রিশ বার ধ্বনিত হয়, আর তার প্রথম ধ্বনি এখানে — 55:13 আয়াতে। পুনরাবৃত্তির উপর গড়া একটি সূরা সজ্ঞানেই কিছু করছে: সূরাটি যত দান ও দৃশ্য মেলে ধরে, প্রায় প্রতিটির পরেই প্রশ্নটি ফিরে আসে — প্রতিটি দানকে গেঁথে ধরে, শ্রোতা তাকে অযাচাই গলে যেতে দেওয়ার আগেই।"
+            "bn": "কুরআনে এই বাক্যটির মতো এত বার ফিরে আসা বাক্য খুব কমই আছে: ফাবিআইয়ি আলাই রাব্বিকুমা তুকাযযিবান, অতএব তোমরা উভয়ে তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে? সূরা আর-রাহমানে বাক্যটি একত্রিশ বার এসেছে, আর প্রথমবার এসেছে এখানেই, ৫৫:১৩ আয়াতে। সূরা যখন পুনরাবৃত্তির উপর দাঁড়ায়, তার পেছনে একটা উদ্দেশ্য থাকে। সূরাটি যত দান আর যত দৃশ্য সামনে মেলে ধরে, প্রায় প্রতিটির পরেই প্রশ্নটি ফিরে আসে। শ্রোতা কোনো দানকে না ভেবে পাশ কাটিয়ে যাওয়ার আগেই প্রশ্নটি তাকে সেখানে আটকে দেয়।"
           },
           {
             "en": "The surah's very name sets the question's tone. It opens with a single name of Allah standing alone as a complete verse: ar-Rahman, the All-Merciful — the surah of favors is signed by mercy before a single favor is listed. So the recurring question is not an interrogation by a prosecutor but a reminder from a Giver; the commentators note that mercy is the fountain from which everything the surah lists flows, from the Quran itself to the fruit of the earth.",
-            "bn": "সূরাটির নামই প্রশ্নের সুর বেঁধে দেয়। এটি খোলে আল্লাহর একটিমাত্র নাম দিয়ে, যা একাই একটি পূর্ণ আয়াত: আর-রাহমান — পরম করুণাময় — অনুগ্রহের সূরাটিতে একটিও অনুগ্রহ তালিকাভুক্ত হওয়ার আগে করুণার সই পড়ে যায়। তাই ফিরে-আসা প্রশ্নটি কোনো অভিযোক্তার জেরা নয়, বরং এক দাতার স্মরণিকা; মুফাসসিরগণ লক্ষ করেন, করুণাই সেই ফোয়ারা, যা থেকে সূরাটির তালিকার সবকিছু প্রবাহিত — খোদ কুরআন থেকে শুরু করে যমীনের ফল পর্যন্ত।"
+            "bn": "সূরার নামই প্রশ্নটির সুর বেঁধে দেয়। সূরা শুরু হয় আল্লাহর একটিমাত্র নাম দিয়ে, যা একাই একটি পূর্ণ আয়াত: আর-রাহমান, পরম দয়াময়। নিয়ামতের এই সূরায় একটি নিয়ামতের কথা আসার আগেই রহমতের সই পড়ে যায়। তাই বারবার ফিরে আসা প্রশ্নটি কোনো অভিযোগকারীর জেরা নয়, দাতার পক্ষ থেকে মনে করিয়ে দেওয়া। মুফাসসিররা বলেন, রহমতই সেই ঝরনা, যেখান থেকে সূরার তালিকার সবকিছু বয়ে আসে, খোদ কুরআন থেকে শুরু করে জমিনের ফল পর্যন্ত।"
           }
         ]
       },
       {
         "h": {
           "en": "Before the First Asking",
-          "bn": "প্রথম জিজ্ঞাসার আগে"
+          "bn": "প্রথম প্রশ্নের আগে"
         },
         "p": [
           {
             "en": "The first twelve verses stack the gifts the question will ask about. 55:1-4 tell it: ar-Rahman taught the Quran, created man, taught him bayan — clear expression. The commentators pause on the order of mention: the teaching of the Quran is named before the creation of man, as if to say the reason preceded the creature. Then 55:5-12 follow: the sun and the moon by precise reckoning, the star and the tree prostrating, the sky raised and the balance set, the earth laid out with fruit, palms, husked grain and fragrant herbs.",
-            "bn": "প্রথম বারোটি আয়াত সেই দানগুলো স্তূপ করে, যেগুলোর কথা প্রশ্নটি জিজ্ঞেস করবে। 55:1-4 বলে: আর-রাহমান কুরআন শিখিয়েছেন, মানুষ সৃষ্টি করেছেন, তাকে শিখিয়েছেন বায়ান — স্পষ্ট প্রকাশ। মুফাসসিরগণ উল্লেখের ক্রমে থামেন: কুরআন শেখানোর কথা এসেছে মানুষ সৃষ্টির আগে — যেন বলা হচ্ছে, উদ্দেশ্যটি ছিল সৃষ্টিরও আগে। তারপর 55:5-12 আসে: সূর্য ও চাঁদ নিখুঁত হিসাবে, তারকা ও গাছ সিজদারত, আকাশ সমুন্নত ও দাঁড়িপাল্লা স্থাপিত, আর যমীন বিছানো — ফলে, খেজুরগাছে, খোসাযুক্ত শস্যদানায় ও সুগন্ধি লতাপাতায়।"
+            "bn": "প্রথম বারোটি আয়াত একের পর এক সেই দানগুলো সাজিয়ে রাখে, যেগুলো নিয়ে প্রশ্নটি করা হবে। ৫৫:১-৪ বলে: আর-রাহমান কুরআন শিখিয়েছেন, মানুষ সৃষ্টি করেছেন, তাকে শিখিয়েছেন বায়ান, অর্থাৎ মনের কথা স্পষ্ট করে বলা। মুফাসসিররা উল্লেখের ক্রমটি লক্ষ করেন। মানুষ সৃষ্টির কথার আগে এসেছে কুরআন শেখানোর কথা, যেন বলা হচ্ছে, সৃষ্টির উদ্দেশ্য সৃষ্টিরও আগে এসেছে। তারপর আসে ৫৫:৫-১২: নিখুঁত হিসাবে চলা সূর্য ও চাঁদ, সিজদায় নত তারকা ও গাছ, উঁচু করা আকাশ আর স্থাপিত দাঁড়িপাল্লা, আর ফল, খেজুরগাছ, খোসাওয়ালা শস্য ও সুগন্ধি লতাপাতায় ভরা বিছানো জমিন।"
           },
           {
             "en": "Then the question falls for the first time. Everything just listed is either unpurchasable or unnoticed: no one bills us for the sun's punctuality, and no one thanks anyone for grain husks or fragrance. The refrain's placement teaches its method — favors are easiest to deny not by argument but by inattention, and the question is aimed less at the tongue that would deny than at the attention that already has.",
-            "bn": "তারপর প্রথমবারের মতো প্রশ্নটি নামে। এইমাত্র তালিকাভুক্ত সবকিছুই হয় কেনা যায় না, নয় নজরেই পড়ে না: সূর্যের সময়ানুবর্তিতার জন্য কেউ আমাদের বিল পাঠায় না, আর শস্যের খোসা বা সুগন্ধের জন্য কেউ কাউকে ধন্যবাদও দেয় না। ধুয়াটির অবস্থানই তার পদ্ধতি শেখায় — অনুগ্রহ অস্বীকারের সবচেয়ে সহজ পথ যুক্তি নয়, অমনোযোগ; আর প্রশ্নটির নিশানা যে-জিহ্বা অস্বীকার করবে তার চেয়ে বেশি সেই মনোযোগ, যা ইতিমধ্যেই অস্বীকার করে বসে আছে।"
+            "bn": "এরপর প্রশ্নটি প্রথমবার আসে। এইমাত্র যা কিছুর কথা বলা হলো, তার সবই হয় টাকায় কেনা যায় না, নয়তো চোখেই পড়ে না। সূর্য ঠিক সময়ে ওঠে বলে কেউ আমাদের কাছে বিল পাঠায় না, আবার শস্যের খোসা বা সুগন্ধের জন্য কেউ কাউকে ধন্যবাদও দেয় না। প্রশ্নটি কোথায় বসানো হয়েছে, তা থেকেই এর পদ্ধতি বোঝা যায়। নিয়ামত অস্বীকার করার সবচেয়ে সহজ পথ তর্ক নয়, বেখেয়াল। তাই প্রশ্নটির নিশানা অস্বীকার করতে উদ্যত জিহ্বা যতটা, তার চেয়ে বেশি সেই মন, যা বেখেয়াল হয়ে আগেই অস্বীকার করে বসে আছে।"
           }
         ]
       },
@@ -349,7 +349,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The grammar is dual throughout: rabbikuma, the Lord of you two; tukadhdhiban, will you two deny. The two addressed are the jinn and mankind, whom the surah later calls out by name in 55:33 — O company of jinn and mankind — and in 55:31 names as the two weighty races, ath-thaqalan. Both orders of creation receive the same gifts, stand before the same reckoning, and are asked the same question, favor by favor, as equals in accountability.",
-            "bn": "ব্যাকরণ পুরোটা জুড়েই দ্বিবচনে: রাব্বিকুমা — তোমাদের দুইয়ের রব; তুকাযযিবান — তোমরা দুইজন কি অস্বীকার করবে। সম্বোধিত দুইজন হলো জিন ও মানুষ — সূরাটি পরে 55:33 আয়াতে নাম ধরে তাদের ডাকে — হে জিন ও মানুষের দল — আর 55:31 আয়াতে তাদের নাম দেয় দুই ভারী জাতি — আস-সাকালান। সৃষ্টির উভয় স্তরই একই দান পায়, একই হিসাবের সামনে দাঁড়ায়, আর জবাবদিহিতে সমান হয়ে অনুগ্রহের পর অনুগ্রহ ধরে একই প্রশ্নের মুখোমুখি হয়।"
+            "bn": "বাক্যটির ব্যাকরণ পুরোটাই দ্বিবচনে: রাব্বিকুমা, তোমাদের দুই দলের রব; তুকাযযিবান, তোমরা দুই দল অস্বীকার করবে। এই দুই দল হলো জিন ও মানুষ। সূরাটি পরে ৫৫:৩৩ আয়াতে নাম ধরে তাদের ডাকে: হে জিন ও মানুষের দল। আর ৫৫:৩১ আয়াতে তাদের বলে আস-সাকালান, দুই ভারী জাতি। সৃষ্টির এই দুই শ্রেণি একই দান পায়, একই হিসাবের সামনে দাঁড়ায়। জবাবদিহিতে দুই দলই সমান, তাই নিয়ামতের পর নিয়ামত ধরে দুই দলকেই একই প্রশ্ন করা হয়।"
           }
         ]
       },
@@ -361,19 +361,19 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Tukadhdhiban is from takdhib, to declare false. How does one call a favor a lie? The commentators answer: by attributing it elsewhere — to luck, to one's own cleverness, to no one; by using it against the Giver; by letting familiarity file it under the ordinary. Denial of blessings rarely announces itself as unbelief; it lives quietly as ingratitude. The refrain makes every listed gift a question requiring an answer, and silence itself becomes an answer.",
-            "bn": "তুকাযযিবান এসেছে তাকযীব থেকে — মিথ্যা ঘোষণা করা। একটি অনুগ্রহকে মিথ্যা বলে কীভাবে? মুফাসসিরগণ উত্তর দেন: তাকে অন্য খাতে লিখে — ভাগ্যের নামে, নিজের চাতুর্যের নামে, কারও নামেই না লিখে; তাকে দাতার বিরুদ্ধেই ব্যবহার করে; অভ্যস্ততাকে তাকে সাধারণের খোপে ফেলতে দিয়ে। নিয়ামত অস্বীকার খুব কমই নিজেকে কুফর বলে ঘোষণা করে; সে চুপচাপ বেঁচে থাকে অকৃতজ্ঞতা হয়ে। ধুয়াটি তালিকার প্রতিটি দানকে বানায় জবাব-দাবি-করা প্রশ্ন, আর তখন নীরবতাও একটা জবাব হয়ে দাঁড়ায়।"
+            "bn": "তুকাযযিবান শব্দটি এসেছে তাকযীব থেকে, যার অর্থ মিথ্যা বলে উড়িয়ে দেওয়া। কোনো নিয়ামতকে মানুষ মিথ্যা বলে কীভাবে? মুফাসসিররা জবাব দেন। এক, নিয়ামতটা অন্য কারও নামে লিখে দিয়ে: ভাগ্যের নামে, নিজের বুদ্ধির নামে, কিংবা কারও নামেই নয়। দুই, নিয়ামত দিয়েই দাতার বিরুদ্ধে কাজ করে। তিন, দেখতে দেখতে অভ্যস্ত হয়ে সেটাকে মামুলি ব্যাপার ভেবে বসে। নিয়ামতের অস্বীকার খুব কমই কুফরি হয়ে সামনে আসে। সে চুপচাপ বেঁচে থাকে নাশুকরি হয়ে। ধুয়াটি তালিকার প্রতিটি দানকে এমন প্রশ্ন বানিয়ে দেয়, যার জবাব দিতেই হবে। তখন চুপ করে থাকাও একটা জবাব হয়ে দাঁড়ায়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Jinn Answered Better",
-          "bn": "জিনেরা উত্তম জবাব দিয়েছিল"
+          "bn": "জিনদের জবাব ছিল আরও সুন্দর"
         },
         "p": [
           {
             "en": "At-Tirmidhi records from Jabir (RA) — in a report he himself calls gharib — that the Prophet ﷺ recited Surah ar-Rahman to his companions, and they were silent. He told them that the jinn had been better in response than they were: each time he recited fa-bi-ayyi ala'i rabbikuma tukadhdhiban, the jinn said — none of Your favors, our Lord, do we deny; Yours is the praise. The refrain, in other words, expects a reply. It is not rhetoric to be admired but a question to be answered, aloud.",
-            "bn": "আত-তিরমিযী জাবির (রাঃ) থেকে বর্ণনা করেন — যে বর্ণনাকে তিনি নিজেই \"গরীব\" বলেছেন — নবী ﷺ সাহাবীদের সূরা আর-রাহমান পড়ে শোনালেন, আর তাঁরা নীরব রইলেন। তিনি তাঁদের বললেন, জিনেরা জবাবে তাঁদের চেয়ে উত্তম ছিল: যতবার তিনি পড়েছেন ফাবিআইয়ি আলাই রাব্বিকুমা তুকাযযিবান, জিনেরা বলেছে — হে আমাদের রব, আপনার কোনো নিয়ামতই আমরা অস্বীকার করি না; সমস্ত প্রশংসা আপনারই। অর্থাৎ ধুয়াটি একটি জবাব প্রত্যাশা করে। এটি মুগ্ধ হয়ে শোনার অলঙ্কার নয়, বরং সরবে উত্তর দেওয়ার প্রশ্ন।"
+            "bn": "তিরমিযী জাবির (রাঃ) থেকে একটি বর্ণনা আনেন, যাকে তিনি নিজেই গরীব, অর্থাৎ একক সূত্রে বর্ণিত বলেছেন। নবী ﷺ সাহাবিদের সূরা আর-রাহমান পড়ে শোনালেন, আর তাঁরা চুপ করে রইলেন। তিনি তাঁদের বললেন, জবাব দেওয়ায় জিনেরা তাঁদের চেয়ে ভালো ছিল। যতবার তিনি পড়েছেন ফাবিআইয়ি আলাই রাব্বিকুমা তুকাযযিবান, জিনেরা বলেছে: হে আমাদের রব, আপনার কোনো নিয়ামতই আমরা অস্বীকার করি না, সব প্রশংসা আপনারই। অর্থাৎ ধুয়াটি জবাব চায়। এটি শুধু মুগ্ধ হয়ে শোনার মতো অলংকার নয়, মুখে জবাব দেওয়ার মতো প্রশ্ন।"
           }
         ]
       },
@@ -385,11 +385,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The refrain does not only follow pleasant verses. It sounds after 55:35, which threatens a flame of fire and smoke against which there is no defense, and after the scenes of judgment that follow. The commentators draw the lesson: the warning itself is a favor — a hazard marked in advance is a mercy to travelers — and deliverance from what is described is a favor greater still. Even justice, for those who will stand safe on its right side, belongs on the list of ala'.",
-            "bn": "ধুয়াটি কেবল প্রীতিকর আয়াতের পরে আসে না। এটি ধ্বনিত হয় 55:35 আয়াতের পরেও, যা হুমকি দেয় আগুনের শিখা ও ধোঁয়ার — যার বিরুদ্ধে কোনো প্রতিরক্ষা নেই — এবং তার পরের বিচার-দৃশ্যগুলোর পরেও। মুফাসসিরগণ শিক্ষাটি টেনে বের করেন: সতর্কবাণী নিজেই এক অনুগ্রহ — আগে থেকে চিহ্নিত বিপদ পথিকদের জন্য রহমত — আর যা বর্ণিত হলো তা থেকে মুক্তি আরও বড় অনুগ্রহ। এমনকি ন্যায়বিচারও — যারা তার নিরাপদ পাশে দাঁড়াবে তাদের জন্য — আলা'-এর তালিকাতেই পড়ে।"
+            "bn": "ধুয়াটি শুধু আনন্দের আয়াতের পরেই আসে না। ৫৫:৩৫ আয়াতে আগুনের শিখা আর ধোঁয়ার হুমকি আছে, যা কেউ ঠেকাতে পারবে না। প্রশ্নটি সেই আয়াতের পরেও আসে, তার পরের বিচারের দৃশ্যগুলোর পরেও। মুফাসসিররা এখান থেকে শিক্ষা টানেন: সতর্ক করাটাই একটা নিয়ামত। পথের বিপদ আগে থেকে চিহ্নিত করে রাখা পথিকের জন্য রহমত। আর যার বর্ণনা এল, তা থেকে রক্ষা পাওয়া আরও বড় নিয়ামত। এমনকি ন্যায়বিচারও আলা', অর্থাৎ নিয়ামতের তালিকায় পড়ে, তাদের জন্য যারা সেদিন তার নিরাপদ দিকে দাঁড়াবে।"
           },
           {
             "en": "The lived form of the verse is the trained pause. In recitation, answer the refrain as the jinn did. Outside recitation, borrow its method: after the meal, the recovery, the safe arrival, the ordinary Tuesday, let the question sound once — which of the favors of your Lord would you deny? — and answer it. 16:18 concedes that we cannot count His favors; ar-Rahman never asks us to finish counting them, only to stop denying them, one at a time.",
-            "bn": "আয়াতটির যাপিত রূপ হলো অনুশীলিত বিরতি। তিলাওয়াতের সময় ধুয়াটির জবাব দিন, যেমন জিনেরা দিয়েছিল। তিলাওয়াতের বাইরে এর পদ্ধতিটি ধার করুন: খাওয়ার পরে, রোগমুক্তির পরে, নিরাপদে পৌঁছানোর পরে, সাদামাটা এক মঙ্গলবারের পরে — প্রশ্নটিকে একবার বাজতে দিন — তোমার রবের কোন কোন অনুগ্রহ তুমি অস্বীকার করবে? — এবং জবাব দিন। 16:18 স্বীকার করে, আমরা তাঁর নিয়ামত গুনে শেষ করতে পারব না; আর-রাহমান কখনো গুনে শেষ করতে বলে না — বলে কেবল অস্বীকার করা থামাতে, একটির পর একটি করে।"
+            "bn": "জীবনে এ আয়াতের আমল হলো অভ্যাস করে একটু থামা। তিলাওয়াতের সময় জিনদের মতো ধুয়াটির জবাব দিন। তিলাওয়াতের বাইরে এর পদ্ধতিটা কাজে লাগান। খাওয়ার পরে, অসুখ সেরে ওঠার পরে, নিরাপদে পৌঁছানোর পরে, এমনকি সাদামাটা কোনো মঙ্গলবারেও মনে মনে একবার প্রশ্নটি তুলুন: তোমার রবের কোন কোন অনুগ্রহ তুমি অস্বীকার করবে? তারপর তার জবাব দিন। ১৬:১৮ আয়াত মেনে নেয়, আমরা তাঁর নিয়ামত গুনে শেষ করতে পারব না। সূরা আর-রাহমানও আমাদের গুনে শেষ করতে বলে না। শুধু বলে অস্বীকার করা থামাতে, একটা একটা করে।"
           }
         ]
       }
@@ -521,7 +521,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The difference among the commentators is also a lesson in adab. At-Tabari chose a view and gave his reason; Ibn Kathir declined it and gave his. Both books are still read side by side, centuries later, and both preserve the views they did not take. When a study circle meets two readings of a verse, it can do what these books do: name each view with those who held it, state the reason given for it, and leave the other reading standing with respect.",
-            "bn": "মুফাসসিরদের এই মতভেদ আদবেরও একটা শিক্ষা। তাবারী একটি মত বেছে নিয়েছেন, কারণও বলেছেন। ইবন কাসীর তা গ্রহণ করেননি, তিনিও নিজের কারণ বলেছেন। শত শত বছর পরেও দুটো বই পাশাপাশি পড়া হয়, আর দুটো বই-ই যে মত তারা নেয়নি সেগুলোকেও সংরক্ষণ করেছে। কোনো পাঠচক্র যখন একটা আয়াতের দুই রকম পাঠের মুখোমুখি হয়, তখন এই বইগুলোর মতো করেই চলতে পারে। প্রতিটি মত তার ধারকদের নামসহ বলুন, তার পক্ষের যুক্তিটা বলুন, আর অন্য পাঠটিকে সম্মানের সঙ্গে দাঁড়িয়ে থাকতে দিন।"
+            "bn": "মুফাসসিরদের এই মতভেদ আদবেরও একটা শিক্ষা। তাবারী একটি মত বেছে নিয়েছেন, কারণও বলেছেন। ইবন কাসীর তা গ্রহণ করেননি, তিনিও নিজের কারণ বলেছেন। শত শত বছর পরেও দুটো বই পাশাপাশি পড়া হয়। আর যে মত তাঁরা নেননি, দুটো বইয়েই সেগুলোও যত্ন করে রাখা আছে। কোনো পাঠচক্র যখন একটা আয়াতের দুই রকম পাঠের মুখোমুখি হয়, তখন এই বইগুলোর মতো করেই চলতে পারে: প্রতিটি মত যাঁরা ধরেছেন তাঁদের নামসহ বলা, তার পক্ষের যুক্তিটা বলা, আর অন্য পাঠটিকে সম্মানের সঙ্গে থাকতে দেওয়া।"
           }
         ]
       },
@@ -553,7 +553,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kullu man alayha fan — everyone upon it is passing away. The pronoun in alayha, upon it, has no noun standing beside it; the commentators refer it back to the earth, which the surah had laid out for the creatures earlier, at 55:10 in its opening list. The word for those upon it is man, who, the Arabic for beings with reason rather than things. The wider case is stated elsewhere: 28:88 says everything will perish except His Face.",
-            "bn": "কুল্লু মান আলাইহা ফান — এর উপর যারা আছে সবাই বিলীয়মান। 'আলাইহা' অর্থাৎ 'এর উপর' — এই সর্বনামটির পাশে কোনো বিশেষ্য নেই; মুফাসসিরগণ একে ফিরিয়ে দেন যমীনের দিকে, যাকে সূরাটি আগেই তার সূচনা-তালিকায়, 55:10 আয়াতে, প্রাণীকুলের জন্য বিছিয়ে দিয়েছে। যারা এর উপর আছে তাদের বোঝাতে শব্দটি 'মান' — 'যারা' — আরবিতে যা বস্তু নয়, বুদ্ধিমান সত্তাদের জন্য ব্যবহৃত হয়। আরও ব্যাপক কথাটি বলা হয়েছে অন্যত্র: 28:88 আয়াত বলে, তাঁর চেহারা ছাড়া সবকিছুই ধ্বংসশীল।"
+            "bn": "কুল্লু মান আলাইহা ফান: এর উপর যারা আছে, সবাই বিলীন হয়ে যাবে। আলাইহা, অর্থাৎ এর উপর, শব্দের সর্বনামটির পাশে কোনো বিশেষ্য নেই। মুফাসসিররা একে জমিনের দিকে ফিরিয়ে দেন। সূরাটি শুরুর তালিকায়, ৫৫:১০ আয়াতে, এই জমিনকেই সৃষ্টিকুলের জন্য বিছিয়ে দেওয়ার কথা বলেছে। এর উপর যারা আছে, তাদের বোঝাতে শব্দটি হলো মান, অর্থাৎ যারা। আরবিতে এ শব্দ বস্তুর জন্য নয়, বিবেকবান সত্তার জন্য ব্যবহৃত হয়। আরও ব্যাপক কথাটি এসেছে অন্য জায়গায়: ২৮:৮৮ আয়াত বলে, তাঁর চেহারা ছাড়া সবকিছুই ধ্বংস হবে।"
           }
         ]
       },
