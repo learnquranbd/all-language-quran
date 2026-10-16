@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari takes the side of both oaths and argues for it. The authorities are agreed, he says, that 75:1 is an oath, so 75:2, built the same way, is an oath too, unless some proof shows that one is an oath and the other a plain statement. He adds that every reciter reads this verse with la standing apart from uqsimu, and he rejects as impermissible the reading of the first verse with the lam joined to the verb. Al-Baghawi likewise calls the view that He swore by both the sound one.",
-            "bn": "তাবারী দুই কসমের পক্ষেই দাঁড়ান, আর তার পক্ষে যুক্তিও দেন। তাঁর কথা, ৭৫:১ যে কসম, তাতে প্রামাণ্য আলিমরা একমত। তাহলে একই গড়নের ৭৫:২-ও কসম, যতক্ষণ না কোনো দলিল দেখায় যে একটি কসম আর অন্যটি নিছক বিবরণ। তিনি আরও বলেন, সব কারীই এ আয়াতে লা-কে উকসিমু থেকে আলাদা করে পড়েন। প্রথম আয়াতে লাম-কে ক্রিয়ার সঙ্গে জুড়ে পড়ার কিরাআতকে তিনি অগ্রহণযোগ্য বলে বাতিল করেন। বাগাভীও বলেন, দুটিরই কসম করা হয়েছে, এ মতটিই সঠিক।"
+            "bn": "তাবারী দুই কসমের পক্ষেই দাঁড়ান, আর তার পক্ষে যুক্তিও দেন। তাঁর কথা, ৭৫:১ যে কসম, তাতে প্রামাণ্য আলিমরা একমত। তাহলে একই গড়নের ৭৫:২-ও কসম, যতক্ষণ না কোনো দলিল দেখায় যে একটি কসম আর অন্যটি নিছক বিবরণ। তিনি আরও বলেন, সব কারীই এ আয়াতে লা-কে উকসিমু থেকে আলাদা করে পড়েন। প্রথম আয়াতে লাম-কে ক্রিয়ার সঙ্গে জুড়ে পড়ার কিরাআতকে তিনি অগ্রহণযোগ্য বলে বাতিল করেন। বাগাভীও বলেন, আল্লাহ দুটিরই কসম করেছেন, এ মতটিই সঠিক।"
           }
         ]
       },
@@ -81,7 +81,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gives Mujahid's line in a fuller shape: it blames itself for an evil deed, asking why it did it, and for a good deed, asking why it did not do more. Al-Farra' widens the circle to everyone. In al-Qurtubi's and al-Baghawi's reports, he said there is no soul, righteous or wicked, that does not blame itself. The one who did well blames itself for not doing more; the one who did wrong blames itself for not having held back. The blame is the same word; what it looks back on differs.",
-            "bn": "কুরতুবী মুজাহিদের কথাটা আরও খুলে বলেন। মন্দ কাজের জন্য এ মন নিজেকে দোষ দেয়, কেন করলাম। ভালো কাজের জন্যও দোষ দেয়, কেন আরও বেশি করলাম না। ফাররা বৃত্তটাকে বড় করে সবাইকে ভেতরে নিয়ে আসেন। কুরতুবী ও বাগাভীর বর্ণনায় তিনি বলেছেন, নেককার হোক বা বদকার, এমন কোনো মন নেই যে নিজেকে দোষ দেয় না। যে ভালো করেছে, সে নিজেকে দোষে আরও বেশি না করার জন্য। যে মন্দ করেছে, সে দোষে নিজেকে সামলে না রাখার জন্য। দোষারোপ একই, শুধু পেছনে ফিরে কী দেখছে, সেটা আলাদা।"
+            "bn": "কুরতুবী মুজাহিদের কথাটা আরও খুলে বলেন। মন্দ কাজের জন্য এ মন নিজেকে দোষ দেয়, কেন করলাম। ভালো কাজের জন্যও দোষ দেয়, কেন আরও বেশি করলাম না। ফাররা বৃত্তটাকে বড় করে সবাইকে ভেতরে নিয়ে আসেন। কুরতুবী ও বাগাভীর বর্ণনায় তিনি বলেছেন, নেককার হোক বা বদকার, এমন কোনো মন নেই যে নিজেকে দোষ দেয় না। যে ভালো করেছে, সে নিজেকে দোষ দেয়, কেন আরও বেশি করেনি। যে মন্দ করেছে, সে নিজেকে দোষ দেয়, কেন নিজেকে সামলে রাখেনি। দোষারোপ একই, শুধু পেছনে ফিরে সে কী দেখছে, সেটা আলাদা।"
           }
         ]
       },
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari closes his survey with a judgement. These sayings, he writes, though their wording differs, are close in meaning, and the sense most like the apparent text of the revelation is that it blames its owner over good and evil and regrets what has passed. Ibn Kathir ends his Arabic entry with the same verdict, quoted from at-Tabari. The verdict is theirs. The believer's daily self-reproach, the blame every soul will feel on the Day, and the denier's late regret all stay in the record, each with its names.",
-            "bn": "তাবারী তাঁর পর্যালোচনা শেষ করেন এক রায় দিয়ে। তিনি লেখেন, এসব কথার শব্দ আলাদা হলেও অর্থে কাছাকাছি। আর অবতীর্ণ বাণীর বাহ্যিক অর্থের সঙ্গে সবচেয়ে মেলে এই অর্থ: এ মন ভালো-মন্দ দুয়ের জন্যই মালিককে দোষ দেয়, আর যা চলে গেছে তার জন্য অনুতপ্ত হয়। ইবন কাসীরও তাঁর আরবি তাফসীরে তাবারীর এই রায় উদ্ধৃত করে আলোচনা শেষ করেন। রায়টা তাঁদের। মুমিনের প্রতিদিনের আত্মসমালোচনা, সেদিন প্রতিটি মনের নিজেকে দোষ দেওয়া, আর অবিশ্বাসীর দেরিতে আসা আফসোস, তিনটিই যার যার নামসহ রেকর্ডে থেকে যায়।"
+            "bn": "তাবারী তাঁর পর্যালোচনা শেষ করেন এক রায় দিয়ে। তিনি লেখেন, এসব কথার শব্দ আলাদা হলেও অর্থ কাছাকাছি। আর নাজিল হওয়া আয়াতের বাহ্যিক অর্থের সঙ্গে সবচেয়ে বেশি মেলে এই অর্থ: এ মন ভালো-মন্দ দুয়ের জন্যই মালিককে দোষ দেয়, আর যা চলে গেছে তার জন্য অনুতপ্ত হয়। ইবন কাসীরও তাঁর আরবি তাফসীরে তাবারীর এই রায় উদ্ধৃত করে আলোচনা শেষ করেন। রায়টা তাঁদের। মুমিনের প্রতিদিনের আত্মসমালোচনা, সেদিন প্রতিটি মনের নিজেকে দোষ দেওয়া, আর অবিশ্বাসীর দেরিতে আসা আফসোস, তিনটি ব্যাখ্যাই যার যার বর্ণনাকারীর নামসহ সংরক্ষিত থাকে।"
           },
           {
             "en": "The verses that follow give the oath its target. Man thinks his bones will not be gathered (75:3); Allah is able even to shape his fingertips again (75:4); yet man wants to go on in wrongdoing ahead of him (75:5) and asks when the Day will be (75:6). Later in the surah, 75:14 says that man will be a witness over himself. None of the tafsirs fetched for this verse attaches a hadith to it, and al-Hasan's words above are his own, not a hadith of the Prophet ﷺ.",
@@ -140,16 +140,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Later Map of the Self",
-          "bn": "নফসের পরবর্তীকালের নকশা"
+          "bn": "পরের যুগে আঁকা নফসের নকশা"
         },
         "p": [
           {
             "en": "Ma'arif al-Qur'an adds a scheme it credits to Sufi terminology. The noble Sufis, it says, describe three stages of the self. First is an-nafs al-ammara, the self that urges evil, with 12:53 as proof. Second is an-nafs al-lawwama, reached by doing good and by discipline and striving: aware of its flaws, regretting them, not yet cut off from them. Third is an-nafs al-mutma'inna, the self at peace, the Qur'an's own word at 89:27. This is Ma'arif's report of the Sufis; none of the other commentaries fetched here gives it.",
-            "bn": "মাআরিফুল কুরআন এখানে একটি নকশা যোগ করে, আর সেটাকে সুফিদের পরিভাষা বলেই পরিচয় দেয়। তার বর্ণনায় সম্মানিত সুফিরা নফসের তিনটি স্তরের কথা বলেন। প্রথম স্তর আন-নাফসুল আম্মারা, যে মন মন্দের দিকে ঠেলে, প্রমাণ ১২:৫৩। দ্বিতীয় স্তর আন-নাফসুল লাওয়ামা। নেক আমল আর রিয়াযত-মুজাহাদার মধ্য দিয়ে মন এখানে পৌঁছায়। নিজের ত্রুটি সে চেনে, তার জন্য আফসোস করে, তবে মন্দ থেকে পুরোপুরি মুক্ত হয়নি। তৃতীয় স্তর আন-নাফসুল মুতমাইন্না, প্রশান্ত মন, শব্দটি কুরআনেরই, ৮৯:২৭ আয়াতে। এ নকশা মাআরিফের বর্ণিত সুফিদের কথা। এখানে দেখা অন্য কোনো তাফসীর এটি দেয়নি।"
+            "bn": "মাআরিফুল কুরআন এখানে একটি নকশা যোগ করে, আর সেটাকে সুফিদের পরিভাষা বলেই পরিচয় দেয়। তার বর্ণনায় সম্মানিত সুফিরা নফসের তিনটি স্তরের কথা বলেন। প্রথম স্তর আন-নাফসুল আম্মারা, যে মন মন্দের দিকে ঠেলে, প্রমাণ ১২:৫৩। দ্বিতীয় স্তর আন-নাফসুল লাওয়ামা। নেক আমল আর রিয়াযত-মুজাহাদার মধ্য দিয়ে মন এখানে পৌঁছায়। নিজের ত্রুটি সে চেনে, তার জন্য আফসোস করে, তবে সেগুলো থেকে এখনো পুরোপুরি মুক্ত হয়নি। তৃতীয় স্তর আন-নাফসুল মুতমাইন্না, প্রশান্ত মন, শব্দটি কুরআনেরই, ৮৯:২৭ আয়াতে। এটি মাআরিফুল কুরআনের মুখে সুফিদের কথা। এখানে দেখা অন্য কোনো তাফসীরে এ নকশা নেই।"
           },
           {
             "en": "Across every reading the soul in this verse is a soul that looks back at itself. What the commentators separate is the timing and the fruit. Al-Hasan's believer asks what he meant while there is still time to mean better. Muqatil's soul asks too, but in the next life, where the asking can only grieve. Mujahid and al-Farra' show that even good deeds leave room for the question why not more. Set between the Day and the doubter of 75:3, the verse puts the reader's own conscience on the stand.",
-            "bn": "যে ব্যাখ্যাই ধরি, এ আয়াতের মন এমন মন, যে পেছন ফিরে নিজের দিকে তাকায়। তাফসীরকারেরা যেখানে আলাদা করেন, তা হলো সময় আর ফল। হাসানের মুমিন নিজেকে জিজ্ঞেস করে, কী চেয়েছিলাম, যখন আরও ভালো নিয়ত করার সময় তখনো হাতে আছে। মুকাতিলের মনও প্রশ্ন করে, তবে আখিরাতে, যেখানে প্রশ্ন শুধু হা-হুতাশই বাড়ায়। মুজাহিদ ও ফাররা দেখান, নেক আমলের পরেও প্রশ্ন থাকে: আরও কেন করলাম না? ক্বিয়ামত দিবস আর ৭৫:৩ আয়াতের সন্দেহকারীর মাঝখানে বসানো এ আয়াত পাঠকের নিজের বিবেককেই সাক্ষীর কাঠগড়ায় দাঁড় করায়।"
+            "bn": "যে ব্যাখ্যাই ধরি, এ আয়াতের মন এমন মন, যে পেছন ফিরে নিজের দিকে তাকায়। তাফসীরকারদের তফাত দুই জায়গায়: কখন তাকায়, আর তাতে কী ফল হয়। হাসানের মুমিন নিজেকে জিজ্ঞেস করে, কী চেয়েছিলাম? তখনো তার হাতে সময় আছে নিয়তটা শুধরে নেওয়ার। মুকাতিলের মনও প্রশ্ন করে, তবে আখিরাতে, যেখানে প্রশ্ন শুধু হা-হুতাশই বাড়ায়। মুজাহিদ ও ফাররা দেখান, নেক আমলের পরেও প্রশ্ন থাকে: আরও কেন করলাম না? ক্বিয়ামত দিবস আর ৭৫:৩ আয়াতের সন্দেহকারীর মাঝখানে বসানো এ আয়াত পাঠকের নিজের বিবেককেই কাঠগড়ায় দাঁড় করায়।"
           }
         ]
       }
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir, in the abridged English, treats the question as denial, a rejection of the Day's very existence rather than a wish to learn its hour. Whatever the motive, the reply refuses the terms on which it was asked. No year is named and no count of days is given. Instead the asker is shown what will happen to the very faculty with which he looked at the world and doubted. His question was about time; the answer is about him, and about his own eyes.",
-            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য এ প্রশ্নকে বলে অস্বীকারের প্রশ্ন। দিনটার সময় জানার ইচ্ছা নয়, দিনটার অস্তিত্বকেই নাকচ করা। উদ্দেশ্য যা-ই হোক, জবাব প্রশ্নের শর্ত মেনে নেয় না। কোনো সালের নাম আসে না, দিনের কোনো হিসাবও না। তার বদলে প্রশ্নকারীকে দেখানো হয়, যে ইন্দ্রিয় দিয়ে সে দুনিয়ার দিকে তাকিয়ে সন্দেহ করত, তার কী দশা হবে। তার প্রশ্ন ছিল সময় নিয়ে। জবাবটা তাকে নিয়ে, তার নিজের চোখ নিয়ে।"
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য এ প্রশ্নকে বলে অস্বীকারের প্রশ্ন। দিনটার সময় জানার ইচ্ছা নয়, দিনটার অস্তিত্বকেই নাকচ করা। উদ্দেশ্য যা-ই হোক, প্রশ্নটা যে ছকে করা হয়েছিল, জবাব সে ছকে ধরা দেয় না। কোনো সালের নাম আসে না, দিনের কোনো হিসাবও না। তার বদলে প্রশ্নকারীকে দেখানো হয়, যে চোখ দিয়ে সে দুনিয়ার দিকে তাকিয়ে সন্দেহ করত, সেই চোখের কী দশা হবে। তার প্রশ্ন ছিল সময় নিয়ে। জবাবটা তাকে নিয়ে, তার নিজের চোখ নিয়ে।"
           }
         ]
       },
@@ -181,11 +181,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb was read in two ways. Al-Qurtubi reports that Nafi', and Aban transmitting from Asim, read baraqa, with a fatha on the ra, while the rest read bariqa, with a kasra. Al-Baghawi gives the same division by place: the people of Madinah read baraqa and the others bariqa, and he adds that the two are simply two dialectal forms of the word. The written text is identical either way. What differs is a single short vowel, and with it a shade of the picture.",
-            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়েছে। কুরতুবী জানান, নাফি' এবং আসিম থেকে বর্ণনাকারী আবান পড়েছেন বারাকা, অর্থাৎ 'রা' অক্ষরে যবর দিয়ে। বাকিরা পড়েছেন বারিকা, যের দিয়ে। বাগাভী একই ভাগ দেখান অঞ্চল ধরে: মদীনাবাসীরা পড়েন বারাকা, অন্যরা বারিকা। তিনি যোগ করেন, এ দুটি আসলে শব্দটির দুই ভাষারূপ। লেখায় শব্দ হুবহু এক। তফাত কেবল একটি হ্রস্ব স্বরে, আর তার সঙ্গে ছবিটার রঙে সামান্য বদল।"
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়েছে। কুরতুবী জানান, নাফি' এবং আসিম থেকে বর্ণনাকারী আবান পড়েছেন বারাকা, অর্থাৎ 'রা' অক্ষরে যবর দিয়ে। বাকিরা পড়েছেন বারিকা, যের দিয়ে। বাগাভী একই ভাগ দেখান অঞ্চল ধরে: মদীনাবাসীরা পড়েন বারাকা, অন্যরা বারিকা। তিনি যোগ করেন, এ দুটি আসলে একই শব্দের দুই আঞ্চলিক রূপ। লেখায় শব্দ হুবহু এক। তফাত কেবল একটি হ্রস্ব স্বরে, আর তাতে ছবিটার রঙে সামান্য বদল আসে।"
           },
           {
             "en": "Ibn Kathir begins from the other side. He cites Abu Amr ibn al-Ala on bariqa with the kasra, glossed as hara, to be bewildered, and then notes that others read it with the fatha, which he says is close in meaning to the first. Al-Qurtubi also records the same note of convergence: it has been said that the kasra and the fatha are two dialects with a single meaning. The commentators record a real variation in reading without treating it as a quarrel, and each reading adds its own shade to the same scene.",
-            "bn": "ইবন কাসীর শুরু করেন উল্টো দিক থেকে। তিনি আবু আমর ইবনুল আলার কথা আনেন: যের দিয়ে বারিকা, মানে হা-রা, দিশেহারা হয়ে যাওয়া। তারপর বলেন, অন্যরা যবর দিয়ে পড়েছেন, আর অর্থে তা প্রথমটির কাছাকাছি। কুরতুবীও এই মিলের কথা উল্লেখ করেন: বলা হয়েছে, যের আর যবর দুই ভাষারূপ, অর্থ একই। তাফসীরকারেরা তাই কিরাআতের সত্যিকারের ভিন্নতা লিখে রাখেন, কিন্তু তাকে বিবাদ বানান না। প্রতিটি কিরাআত একই দৃশ্যে নিজের একটা রং যোগ করে।"
+            "bn": "ইবন কাসীর শুরু করেন উল্টো দিক থেকে। তিনি আবু আমর ইবনুল আলার কথা আনেন: যের দিয়ে বারিকা, মানে হা-রা, দিশেহারা হয়ে যাওয়া। তারপর বলেন, অন্যরা যবর দিয়ে পড়েছেন, আর অর্থে তা প্রথমটির কাছাকাছি। কুরতুবীও এই মিলের কথা উল্লেখ করেন: কেউ কেউ বলেছেন, যের আর যবর দুই আঞ্চলিক রূপ, অর্থ একই। তাফসীরকারেরা তাই কিরাআতের সত্যিকারের ভিন্নতা লিখে রাখেন, কিন্তু তাকে বিবাদ বানান না। প্রতিটি কিরাআত একই দৃশ্যে নিজের একটা রং যোগ করে।"
           }
         ]
       },
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Take the kasra reading first. Al-Qurtubi gives its sense as tahayyara fa-lam yatrif, it was bewildered and did not blink, a gloss he credits to Abu Amr, al-Zajjaj and others. Al-Farra and al-Khalil, as he quotes them, define bariqa as to be terrified, stunned and bewildered, and he adds that the Arabs say of a man struck dumb with confusion, qad bariqa fa-huwa bariq. Al-Baghawi quotes the same pair of philologists: bariqa means alarmed and bewildered at the wonders the person sees.",
-            "bn": "প্রথমে যেরওয়ালা কিরাআত। কুরতুবী এর অর্থ দেন তাহাইয়ারা ফালাম ইয়াতরিফ: দিশেহারা হয়ে গেল, পলক পড়ল না। এ ব্যাখ্যা তিনি আবু আমর, যাজ্জাজ ও অন্যদের বলে উল্লেখ করেন। তাঁর উদ্ধৃতিতে ফাররা ও খলীল বারিকার সংজ্ঞা দেন এভাবে: ভয় পাওয়া, হতবাক হওয়া, দিশা হারানো। কুরতুবী আরও জানান, বিভ্রান্তিতে বোবা হয়ে যাওয়া মানুষকে আরবরা বলে, কাদ বারিকা ফাহুয়া বারিক। বাগাভীও এই দুই ভাষাবিদের কথা আনেন: বারিকা মানে যে আশ্চর্য জিনিস চোখে পড়ে, তাতে আতঙ্কিত ও দিশেহারা হওয়া।"
+            "bn": "প্রথমে যেরওয়ালা কিরাআত। কুরতুবী এর অর্থ দেন তাহাইয়ারা ফালাম ইয়াতরিফ: দিশেহারা হয়ে গেল, পলক পড়ল না। এ ব্যাখ্যা তিনি আবু আমর, যাজ্জাজ ও অন্যদের নামে আনেন। তাঁর উদ্ধৃতিতে ফাররা ও খলীল বারিকার সংজ্ঞা দেন এভাবে: ভয় পাওয়া, হতবাক হওয়া, দিশা হারানো। কুরতুবী আরও জানান, বিভ্রান্তিতে বোবা হয়ে যাওয়া মানুষকে আরবরা বলে, কাদ বারিকা ফাহুয়া বারিক। বাগাভীও এই দুই ভাষাবিদের কথা আনেন: বারিকা মানে যে আশ্চর্য জিনিস চোখে পড়ে, তাতে আতঙ্কিত ও দিশেহারা হওয়া।"
           },
           {
             "en": "Al-Qurtubi supports this with poetry. He cites Dhu al-Rumma: were Mayy to show herself unveiled to the eyes of Luqman the Wise, he would almost bariqa, almost be stunned out of his composure. From al-Farra he quotes a line urging a wounded man not to bariqa at the number of his wounds, which al-Qurtubi explains as do not panic. In both lines the word names a person overwhelmed by what is in front of him. The trouble is not that the eye cannot see; it is that it sees too much.",
@@ -205,7 +205,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir draws the picture out with another verse. Abu Amr's sense, he says, resembles la yartaddu ilayhim tarfuhum, their gaze does not return to them, in 14:43: they look this way and that in fright, and their sight cannot settle on anything because of the severity of the terror. Al-Muyassar puts the whole of it in a line: the sight is bewildered and stunned, in fright at what it sees of the horrors of the Day of Resurrection. The eye keeps moving, but it finds nowhere to stop.",
-            "bn": "ইবন কাসীর আরেকটি আয়াত দিয়ে ছবিটা আরও খুলে দেন। তিনি বলেন, আবু আমরের অর্থ ১৪:৪৩ আয়াতের লা ইয়ারতাদ্দু ইলাইহিম তারফুহুম, তাদের দৃষ্টি তাদের দিকে ফিরে আসবে না, কথাটির মতো। ভয়ে তারা এদিক-ওদিক তাকাবে, আতঙ্কের তীব্রতায় কোনো কিছুর উপর তাদের চোখ স্থির হবে না। মুয়াসসার পুরো কথাটা এক লাইনে বলে: কিয়ামতের বিভীষিকা দেখে ভয়ে দৃষ্টি দিশেহারা ও হতবাক হয়ে যাবে। চোখ নড়তেই থাকে, কিন্তু থামার কোনো জায়গা পায় না।"
+            "bn": "ইবন কাসীর আরেকটি আয়াত দিয়ে ছবিটা আরও খুলে দেন। তিনি বলেন, আবু আমরের এ অর্থ ১৪:৪৩ আয়াতের সঙ্গে মেলে: লা ইয়ারতাদ্দু ইলাইহিম তারফুহুম, তাদের দৃষ্টি তাদের দিকে ফিরে আসবে না। ভয়ে তারা এদিক-ওদিক তাকাবে, আতঙ্কের তীব্রতায় কোনো কিছুর উপর তাদের চোখ স্থির হবে না। মুয়াসসার পুরো কথাটা এক লাইনে বলে: কিয়ামতের বিভীষিকা দেখে ভয়ে দৃষ্টি দিশেহারা ও হতবাক হয়ে যাবে। চোখ নড়তেই থাকে, কিন্তু থামার কোনো জায়গা পায় না।"
           }
         ]
       },
@@ -225,7 +225,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Notice what both readings share. Al-Qurtubi glosses the kasra as bewildered and not blinking, and the fatha as glinting from a stare in which you see no blink. Qatadah and Muqatil use the same phrase, la yatrif, and so does as-Sa'di. The blink is the smallest rest the eye has, a fraction of a second in which it may close on what it sees. In this scene even that is gone. Whether the eye roams or locks in place, it has lost the power to look away.",
-            "bn": "খেয়াল করুন, দুই কিরাআতের মধ্যে মিলটা কোথায়। কুরতুবী যেরের অর্থ করেন দিশেহারা ও পলকহীন, আর যবরের অর্থ এমন স্থির দৃষ্টির ঝিলিক যাতে পলক পড়তে দেখা যায় না। কাতাদা ও মুকাতিলও একই কথা বলেন, লা ইয়াতরিফ, সা'দীও তাই। পলক চোখের সবচেয়ে ছোট বিশ্রাম। মুহূর্তের এক ভগ্নাংশ, যখন চোখ সামনের জিনিসের উপর বন্ধ হতে পারে। এ দৃশ্যে সেটুকুও নেই। চোখ ঘুরে বেড়াক বা আটকে থাকুক, অন্যদিকে তাকানোর ক্ষমতা সে হারিয়ে ফেলেছে।"
+            "bn": "খেয়াল করুন, দুই কিরাআতের মধ্যে মিলটা কোথায়। কুরতুবী যেরের অর্থ করেন দিশেহারা ও পলকহীন, আর যবরের অর্থ এমন স্থির দৃষ্টির ঝিলিক যাতে পলক পড়তে দেখা যায় না। কাতাদা ও মুকাতিলও একই কথা বলেন, লা ইয়াতরিফ, সা'দীও তাই। পলক চোখের সবচেয়ে ছোট বিশ্রাম। চোখের পলকটুকুর জন্য সামনের দৃশ্যের উপর চোখ একটু বুজে আসে। এ দৃশ্যে সেটুকুও নেই। চোখ ঘুরে বেড়াক বা আটকে থাকুক, অন্যদিকে তাকানোর ক্ষমতা সে হারিয়ে ফেলেছে।"
           }
         ]
       },
@@ -241,7 +241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other works read the verse with the Day in view. As-Sa'di opens with idha kanat al-qiyamah, when the Resurrection comes; Ibn Kathir says the eyes will be dazzled, humbled, bewildered and abased on the Day of Resurrection; al-Muyassar and Ma'arif al-Qur'an both speak of its horrors and its scenes. The verses that follow, about the moon and the sun in 75:8 and 75:9, belong to that larger scene, and this article leaves them for their own place. Both placements are on record, and both are left standing here.",
-            "bn": "বাকি তাফসীরগুলো আয়াতটি পড়ে কিয়ামতের দিনকে সামনে রেখে। সা'দী শুরুই করেন ইযা কানাতিল কিয়ামাহ, যখন কিয়ামত আসবে, এই কথায়। ইবন কাসীর বলেন, কিয়ামতের দিন চোখ ধাঁধিয়ে যাবে, অবনত হবে, দিশা হারাবে, লাঞ্ছিত হবে। মুয়াসসার আর মাআরিফুল কুরআন দুটিই সেদিনের বিভীষিকা ও দৃশ্যের কথা বলে। পরের আয়াত দুটি, ৭৫:৮ ও ৭৫:৯, চাঁদ ও সূর্যের কথা বলে। সেগুলো এই বড় দৃশ্যেরই অংশ, তবে এ লেখা সেগুলোকে তাদের নিজের জায়গার জন্য রেখে দেয়। দুটি মতই লিপিবদ্ধ আছে, আর এখানে দুটিকেই রেখে দেওয়া হলো।"
+            "bn": "বাকি তাফসীরগুলো আয়াতটি পড়ে কিয়ামতের দিনকে সামনে রেখে। সা'দী শুরুই করেন ইযা কানাতিল কিয়ামাহ, যখন কিয়ামত আসবে, এই কথায়। ইবন কাসীর বলেন, কিয়ামতের দিন চোখ ধাঁধিয়ে যাবে, অবনত হবে, দিশা হারাবে, লাঞ্ছিত হবে। মুয়াসসার আর মাআরিফুল কুরআন দুটিই সেদিনের বিভীষিকা ও দৃশ্যের কথা বলে। পরের আয়াত দুটি, ৭৫:৮ ও ৭৫:৯, চাঁদ ও সূর্যের কথা বলে। সেগুলো এই বড় দৃশ্যেরই অংশ, তবে সেগুলোর আলোচনা হবে নিজ নিজ জায়গায়। দুটি মতই বর্ণিত আছে, আর এখানেও দুটিই রইল।"
           },
           {
             "en": "For a reader, the two placements do not compete so much as nest inside each other. If the moment is at death, it comes to each person alone and on no announced day, which is nearer than any answer to when. If it is at the Rising, it comes to everyone together, and no one is excused from it. Either way, the man who asked to be told the hour has been given something more useful than a date: a reason not to wait any longer.",
@@ -257,11 +257,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "There is a fitting turn in this. The man of 75:6 asked with his tongue; he is answered through his eyes. He looked at the world and saw nothing in it that pointed beyond it, and the words of Qatadah and Muqatil fix on exactly that: the wonders he used to deny. The faculty he trusted to judge what was real becomes the faculty that can no longer look away, or can no longer settle. Whichever reading is followed, sight stops being something he directs and becomes something that happens to him.",
-            "bn": "এখানে একটা মানানসই মোড় আছে। ৭৫:৬ আয়াতের লোকটি প্রশ্ন করেছিল জিভ দিয়ে, জবাব পায় চোখ দিয়ে। দুনিয়ার দিকে সে তাকিয়েছিল, কিন্তু এর ওপারের দিকে ইশারা করে এমন কিছু তাতে দেখেনি। কাতাদা ও মুকাতিলের কথাও ঠিক সেখানেই আঙুল রাখে: যেসব আশ্চর্য বিষয় সে অস্বীকার করত। কোনটা সত্য, তা যাচাই করতে যে ইন্দ্রিয়ের উপর সে ভরসা করত, সেটাই হয়ে যায় এমন ইন্দ্রিয়, যা আর চোখ ফেরাতে পারে না, কিংবা আর স্থির হতে পারে না। যে কিরাআতই ধরা হোক, দৃষ্টি আর তার চালানোর জিনিস থাকে না। দৃষ্টি তখন তার উপর ঘটে যাওয়া এক অবস্থা।"
+            "bn": "এখানে একটা মানানসই মোড় আছে। ৭৫:৬ আয়াতের লোকটি প্রশ্ন করেছিল জিভ দিয়ে, জবাব পায় চোখ দিয়ে। দুনিয়ার দিকে সে তাকিয়েছিল, কিন্তু এর ওপারের দিকে ইশারা করে এমন কিছু তাতে দেখেনি। কাতাদা ও মুকাতিলের কথাও ঠিক সেখানেই আঙুল রাখে: যেসব আশ্চর্য বিষয় সে অস্বীকার করত। কোনটা সত্য, তা যাচাই করতে যে চোখের উপর সে ভরসা করত, সেই চোখই আর অন্যদিকে ফিরতে পারে না, কিংবা কোথাও স্থির হতে পারে না। যে কিরাআতই ধরা হোক, দৃষ্টি তখন আর তার হুকুমে চলে না। দৃষ্টি তখন তার উপর ঘটে যাওয়া এক অবস্থা।"
           },
           {
             "en": "At-Tabari, in a report on 75:6 that runs back to Qatadah, includes a saying attributed to Umar ibn al-Khattab: whoever is asked about the Day of Resurrection, let him recite this surah. It is a Companion's saying, not a hadith of the Prophet ﷺ, and at-Tabari gives it no grading. None of the commentaries consulted for this verse attaches a sound prophetic hadith to 75:7 itself, so this article cites none. By Umar's counsel, the surah is its own reply to the question.",
-            "bn": "৭৫:৬ আয়াতের আলোচনায় তাবারী কাতাদা পর্যন্ত পৌঁছানো এক বর্ণনায় উমর ইবনুল খাত্তাব (রাঃ)-এর নামে একটি কথা আনেন: কিয়ামত সম্পর্কে যাকে জিজ্ঞেস করা হয়, সে যেন এই সূরা পড়ে শোনায়। এটা একজন সাহাবীর কথা, নবী ﷺ-এর হাদীস নয়, আর তাবারী এর কোনো মান নির্ধারণ করেননি। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই ৭৫:৭ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস জোড়েনি, তাই এ লেখাও কোনো হাদীস উদ্ধৃত করছে না। উমর (রাঃ)-এর পরামর্শ অনুযায়ী, প্রশ্নের জবাব এই সূরা নিজেই।"
+            "bn": "৭৫:৬ আয়াতের আলোচনায় তাবারী কাতাদা পর্যন্ত পৌঁছানো এক বর্ণনায় উমর ইবনুল খাত্তাব (রাঃ)-এর নামে একটি কথা আনেন: কিয়ামত সম্পর্কে যাকে জিজ্ঞেস করা হয়, সে যেন এই সূরা পড়ে শোনায়। এটা একজন সাহাবীর কথা, নবী ﷺ-এর হাদিস নয়, আর তাবারী এর কোনো মান নির্ধারণ করেননি। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই ৭৫:৭ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদিস জুড়ে দেয়নি, তাই এ লেখাও কোনো হাদিস উদ্ধৃত করছে না। উমর (রাঃ)-এর পরামর্শ অনুযায়ী, প্রশ্নের জবাব এই সূরা নিজেই।"
           }
         ]
       },
@@ -273,7 +273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A plain word is needed here. The verse describes what it describes: the sight of the human being of 75:5 and 75:6, at the moment of death or on the Day, and al-Kalbi in al-Baghawi narrows it to the eyes of disbelievers before Hell. It licenses nothing against any living person or community. It hands nobody the right to name who will stare in terror and who will be spared, or to read that terror into a neighbour's face. The verse speaks to its reader about its reader.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: ৭৫:৫ ও ৭৫:৬ আয়াতের মানুষটির দৃষ্টি, মৃত্যুর মুহূর্তে কিংবা কিয়ামতের দিনে। বাগাভীর উদ্ধৃতিতে কালবী একে আরও সীমিত করে জাহান্নামের সামনে কাফিরদের চোখের কথা বলেন। কিন্তু কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কে আতঙ্কে চেয়ে থাকবে আর কে রেহাই পাবে, তা ঠিক করে দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। প্রতিবেশীর চেহারায় সেই আতঙ্ক খুঁজে বেড়ানোরও না। আয়াতটি পাঠকের সঙ্গে কথা বলে পাঠকেরই ব্যাপারে।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: ৭৫:৫ ও ৭৫:৬ আয়াতের মানুষটির দৃষ্টি, মৃত্যুর মুহূর্তে কিংবা কিয়ামতের দিনে। বাগাভীর উদ্ধৃতিতে কালবী একে আরও সীমিত করে জাহান্নামের সামনে কাফিরদের চোখের কথা বলেন। কিন্তু কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কে আতঙ্কে চেয়ে থাকবে আর কে রেহাই পাবে, তা ঠিক করে দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। প্রতিবেশীর চেহারায় সেই আতঙ্ক খুঁজে বেড়ানোরও না। আয়াতটি পাঠককে তার নিজের কথাই শোনায়।"
           },
           {
             "en": "That is how the passage frames it too. Its subject throughout is al-insan, the human being, not a named people, and its questions are put to whoever hears them. Read this way, the dazzled sight is less a portrait of others than a mirror. The asker who says when may be any of us, at the moment we push a duty into an undated later. The verse does not ask us to identify him in someone else; it asks whether, in some corner of our own life, we have become him.",
@@ -329,7 +329,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "One answer is that the letter intensifies. Al-Qurtubi reports people who call it the ha of exaggeration, the ending heard in dahiya, 'allama and rawiya, words for someone very shrewd, very learned or a great transmitter, and he names this the view of Abu 'Ubayd. Al-Baghawi gives the same and calls this ending the proof of the reading witness. At-Tabari lists it without a name, comparing rawiya and 'allama. On this reading man is not merely a witness over himself. He is a sharp and thorough one.",
-            "bn": "একটি জবাব হলো, হরফটি অর্থে জোর আনে। কুরতুবী এমন লোকদের কথা বলেন যারা একে বলেন 'মুবালাগার হা', অর্থাৎ আধিক্য বোঝানোর হরফ। দাহিয়া, আল্লামা, রাবিয়া শব্দের শেষে এটাই শোনা যায়, যার মানে খুব চতুর, খুব জ্ঞানী, বড় বর্ণনাকারী। কুরতুবী একে আবু উবাইদের মত বলে উল্লেখ করেন। বাগাভীও একই কথা বলেন, আর এই হরফকেই 'সাক্ষী' অর্থের দলিল বলেন। তাবারী কারও নাম না নিয়ে মতটি উল্লেখ করেন, রাবিয়া ও আল্লামার সঙ্গে তুলনা টেনে। এ পাঠে মানুষ নিজের উপর শুধু সাক্ষী নয়। সে তীক্ষ্ণ চোখের, পুরোপুরি ওয়াকিফহাল সাক্ষী।"
+            "bn": "একটি জবাব হলো, হরফটি অর্থে জোর আনে। কুরতুবী কিছু লোকের মত আনেন, যাঁরা একে বলেন 'মুবালাগার হা', অর্থাৎ আধিক্য বোঝানোর হরফ। দাহিয়া, আল্লামা, রাবিয়া শব্দের শেষে এটাই শোনা যায়, যার মানে খুব চতুর, খুব জ্ঞানী, বড় বর্ণনাকারী। কুরতুবী একে আবু উবাইদের মত বলে উল্লেখ করেন। বাগাভীও একই কথা বলেন, আর এই হরফকেই 'সাক্ষী' অর্থের দলিল বলেন। তাবারী কারও নাম না নিয়ে মতটি উল্লেখ করেন, রাবিয়া ও আল্লামার সঙ্গে তুলনা টেনে। এ পাঠে মানুষ নিজের উপর শুধু সাক্ষী নয়। সে তীক্ষ্ণ চোখের, পুরোপুরি ওয়াকিফহাল সাক্ষী।"
           },
           {
             "en": "A second answer is grammatical. Al-Akhfash, in al-Qurtubi, says the verse makes man himself the basira, as you might tell someone, you are a proof against yourself; at-Tabari gives the same comparison from some Basran grammarians. A third answer, which al-Qurtubi credits to al-Qutabi and others and al-Baghawi also gives, is that al-insan here means his limbs, so the ending fits them. A fourth supplies a hidden noun, 'ayn basira, a seeing eye, and al-Qurtubi quotes a line of poetry recited by al-Farra': as though over the man of sense there were a seeing eye.",
@@ -385,7 +385,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then, in the English rendering at quranx.com, 'his mouth would be sealed and it would be said to his thighs, to his flesh and to his bones to speak', and they speak of his deeds. The hadith gives the reason: 'it would be done so that he should not be able to make any excuse for himself.' It ends by naming him a hypocrite with whom Allah is displeased. The hadith describes what Allah does with that man on that Day. It gives nobody licence to call any living person a hypocrite.",
-            "bn": "এরপর তার মুখে মোহর মেরে দেওয়া হয়। তার উরু, তার গোশত আর তার হাড়কে বলা হয়: কথা বলো। তখন সেগুলো তার আমলের কথা বলে দেয়। হাদীসটি কারণও জানিয়ে দেয়: এমন করা হবে যাতে সে নিজের পক্ষে কোনো অজুহাত দাঁড় করাতে না পারে। শেষে বলা হয়েছে, সে মুনাফিক, আর তার উপর আল্লাহ অসন্তুষ্ট। হাদীসটি সেদিন ওই ব্যক্তির সঙ্গে আল্লাহ কী করবেন, তার বর্ণনা। আজ বেঁচে থাকা কোনো মানুষকে মুনাফিক বলে দাগানোর অনুমতি এটি কাউকে দেয় না।"
+            "bn": "এরপর, কুরআনএক্স ওয়েবসাইটের ইংরেজি অনুবাদের ভাষায়, তার মুখে মোহর মেরে দেওয়া হবে, আর তার উরু, তার গোশত ও তার হাড়কে বলা হবে: কথা বলো। তখন সেগুলো তার আমলের কথা বলে দেবে। হাদিসটি কারণও জানিয়ে দেয়: এমন করা হবে যাতে সে নিজের পক্ষে কোনো অজুহাত দাঁড় করাতে না পারে। শেষে বলা হয়েছে, সে মুনাফিক, আর তার উপর আল্লাহ অসন্তুষ্ট। হাদিসটি সেদিন ওই ব্যক্তির সঙ্গে আল্লাহ কী করবেন, তার বর্ণনা। আজ বেঁচে থাকা কোনো মানুষকে মুনাফিক বলে দেওয়ার অনুমতি এটি কাউকে দেয় না।"
           }
         ]
       },
@@ -401,7 +401,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Qatada then adds a saying introduced with kana yuqal, it used to be said: that in the Injil it is written, son of Adam, you see the speck in your brother's eye and do not see the beam in your own. At-Tabari's chain has a trunk lying across the eye; Ibn Kathir's has a log. Neither presents it as a hadith, and it is not offered here as one. The commentators carried it because it fits the verse: an eye that is sharp when it looks outward and blind when it looks within.",
-            "bn": "কাতাদা এরপর একটি কথা যোগ করেন, 'কানা ইউকাল', অর্থাৎ বলা হতো, এই ভূমিকা দিয়ে: ইঞ্জিলে লেখা আছে, হে আদম সন্তান, তুমি ভাইয়ের চোখের কুটোটা দেখো, অথচ নিজের চোখের কড়িকাঠটা দেখো না। তাবারীর সূত্রে আছে চোখে আড়াআড়ি পড়ে থাকা গাছের গুঁড়ি। ইবন কাসীরের সূত্রে আছে কাঠের টুকরো। কেউই একে হাদীস হিসেবে পেশ করেননি, এখানেও তা হাদীস হিসেবে আনা হচ্ছে না। তাফসীরকারেরা কথাটা বয়ে এনেছেন কারণ আয়াতের সঙ্গে মেলে: যে চোখ বাইরে তাকালে ধারালো, ভেতরে তাকালে অন্ধ।"
+            "bn": "এরপর কাতাদা একটি কথা যোগ করেন, শুরু করেন 'কানা ইউকাল', অর্থাৎ 'বলা হতো' দিয়ে: ইঞ্জিলে লেখা আছে, হে আদম সন্তান, তুমি ভাইয়ের চোখের কুটোটা দেখো, অথচ নিজের চোখের কড়িকাঠটা দেখো না। তাবারীর সূত্রে আছে চোখে আড়াআড়ি পড়ে থাকা গাছের গুঁড়ি। ইবন কাসীরের সূত্রে আছে কাঠের টুকরো। কেউই একে হাদিস হিসেবে পেশ করেননি, এখানেও তা হাদিস হিসেবে আনা হচ্ছে না। তাফসীরকারেরা কথাটা এনেছেন, কারণ এটি আয়াতের সঙ্গে মিলে যায়: যে চোখ বাইরে তাকালে ধারালো, ভেতরে তাকালে অন্ধ।"
           }
         ]
       },
@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A few small practices follow. When a fault of mine comes to light, let the plain sentence come before the explanation: I did this. When someone else's fault comes to mind, ask first whether the same thing lives in me. At the end of the day, let the hands, eyes and feet give a short account of where they went and what they did, and take what they report to Allah in istighfar. An admission made now, in private, costs far less than a witness who speaks later without being asked.",
-            "bn": "এখান থেকে কয়েকটা ছোট অভ্যাস বেরিয়ে আসে। নিজের কোনো দোষ ধরা পড়লে ব্যাখ্যার আগে সোজা কথাটা বলুন: কাজটা আমি করেছি। অন্যের দোষ মনে এলে আগে নিজেকে জিজ্ঞেস করুন, একই জিনিস আমার মধ্যেও আছে কি না। দিনের শেষে হাত, চোখ আর পাকে সংক্ষেপে হিসাব দিতে দিন, কোথায় গেছে, কী করেছে। তারা যা জানায়, তা নিয়ে ইস্তিগফারে আল্লাহর কাছে ফিরুন। এখন নিভৃতে করা স্বীকারোক্তির দাম অনেক কম। পরে না চাইতেই যে সাক্ষী মুখ খুলবে, তার দাম অনেক বেশি।"
+            "bn": "এখান থেকে কয়েকটা ছোট অভ্যাস বেরিয়ে আসে। নিজের কোনো দোষ ধরা পড়লে ব্যাখ্যার আগে সোজা কথাটা বলুন: কাজটা আমি করেছি। অন্যের দোষ মনে এলে আগে নিজেকে জিজ্ঞেস করুন, একই জিনিস আমার মধ্যেও আছে কি না। দিনের শেষে হাত, চোখ আর পা-কে সংক্ষেপে হিসাব দিতে দিন, কোথায় গেছে, কী করেছে। তারা যা জানায়, তা নিয়ে ইস্তিগফারে আল্লাহর কাছে ফিরুন। এখন নিভৃতে দোষ স্বীকার করার খেসারত অনেক কম। পরে না চাইতেই যে সাক্ষী মুখ খুলবে, তার খেসারত অনেক বেশি।"
           }
         ]
       }
@@ -473,7 +473,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi records two other ways of hearing it. He cites Ibn 'Abbas, without a chain, as saying the kalla means that Abu Jahl does not believe in the Qur'an's interpretation and its explanation, which hooks the word to bayanahu, its explanation, at the end of 75:19. Then, under qila, it is said, he gives a second sense: kalla, they do not pray and do not give zakat, meaning the disbelievers of Makkah. The fetched texts let these stand beside the main reading without ranking them.",
-            "bn": "কুরতুবী আরও দুটি পাঠ উল্লেখ করেন। সনদ ছাড়া তিনি ইবন আব্বাস (রাঃ)-এর বরাতে আনেন: কাল্লার অর্থ, আবু জাহল কুরআনের তাফসীর আর তার বয়ানে ঈমান আনে না। এতে শব্দটি জুড়ে যায় ৭৫:১৯-এর শেষ শব্দ বায়ানাহু, অর্থাৎ তার ব্যাখ্যার সঙ্গে। তারপর 'বলা হয়' বলে তিনি দ্বিতীয় অর্থ দেন: কাল্লা, তারা নামাজ পড়ে না, যাকাতও দেয় না। এখানে উদ্দেশ্য মক্কার কাফিররা। আনা পাঠগুলো এই দুটিকে মূল পাঠের পাশে রেখে দেয়, কোনোটিকে এগিয়ে রাখে না।"
+            "bn": "কুরতুবী কাল্লা বোঝার আরও দুটি ধরন উল্লেখ করেন। সনদ ছাড়া তিনি ইবন আব্বাস (রাঃ)-এর বরাতে আনেন: কাল্লার অর্থ, আবু জাহল কুরআনের তাফসীর আর তার বয়ানে ঈমান আনে না। এতে শব্দটি জুড়ে যায় ৭৫:১৯-এর শেষ শব্দ বায়ানাহু, অর্থাৎ তার ব্যাখ্যার সঙ্গে। তারপর 'কীল', অর্থাৎ 'বলা হয়' বলে তিনি দ্বিতীয় অর্থ দেন: কাল্লা, তারা নামাজ পড়ে না, যাকাতও দেয় না। এখানে উদ্দেশ্য মক্কার কাফিররা। যেসব তাফসীর দেখা হয়েছে, সেগুলো এ দুটি মতকে মূল ব্যাখ্যার পাশেই রেখে দেয়, কোনোটিকে এগিয়ে রাখে না।"
           }
         ]
       },
@@ -485,7 +485,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The you in tuhibbuna is read with different breadth. Al-Qurtubi names it outright: rather you love, O disbelievers of the people of Makkah, the immediate. Al-Baghawi, on the following verse, also says the meaning is the disbelievers of Makkah, and the Muyassar addresses the company of idolaters. On this line the verse speaks to a particular audience in Makkah who denied the raising and were confronted with it.",
-            "bn": "তুহিব্বূনা শব্দের 'তোমরা' কতদূর বিস্তৃত, তা নিয়ে পাঠে পার্থক্য আছে। কুরতুবী সরাসরি নাম বলেন: বরং হে মক্কাবাসী কাফিররা, তোমরা তাড়াতাড়ি পাওয়ার জিনিস ভালোবাসো। পরের আয়াতের আলোচনায় বাগাভীও বলেন, উদ্দেশ্য মক্কার কাফিররা। আর মুয়াসসার সম্বোধন করে মুশরিকদের দলকে। এই ধারায় আয়াতটি মক্কার এক নির্দিষ্ট শ্রোতার উদ্দেশে, যারা পুনরুত্থান অস্বীকার করত আর সে কথার মুখোমুখি হয়েছিল।"
+            "bn": "তুহিব্বূনা শব্দের 'তোমরা' বলতে কতজনকে বোঝানো হয়েছে, তা একেক তাফসীরে একেক রকম। কুরতুবী সরাসরি নাম বলেন: বরং হে মক্কাবাসী কাফিররা, তোমরা তাড়াতাড়ি পাওয়ার জিনিস ভালোবাসো। পরের আয়াতের আলোচনায় বাগাভীও বলেন, উদ্দেশ্য মক্কার কাফিররা। আর মুয়াসসার সম্বোধন করে মুশরিকদের দলকে। এই ধারায় আয়াতটি মক্কার এক নির্দিষ্ট শ্রোতার উদ্দেশে, যারা পুনরুত্থান অস্বীকার করত আর সে কথার মুখোমুখি হয়েছিল।"
           },
           {
             "en": "At-Tabari words it more broadly. Allah, he says, is speaking to His servants who are addressed by this Qur'an and who prefer the adornment of worldly life to the Hereafter, and he puts the rebuttal in the form O people. As-Sa'di grounds the verse in a trait of the human being as such: the pleasures of this world are immediate, and man is passionately fond of the immediate. These are differences of scope, not contradictions; the texts leave both in place, and so does this article.",
@@ -512,7 +512,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Near Now, Lasting Later",
-          "bn": "এখনকার কাছের, পরের স্থায়ী"
+          "bn": "এখন হাতের কাছে, পরে চিরস্থায়ী"
         },
         "p": [
           {
@@ -537,7 +537,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It would be easy to hear this verse as a condemnation of ordinary life: of earning, eating, family and rest. The fetched commentators do not read it that way. The words they reach for are ithar, preferring, and tark, leaving. At-Tabari speaks of preferring this world's desires to the Hereafter; as-Sa'di of preferring it to the Hereafter so that you leave the work for it. The fault named is a ranking turned upside down, and the abandonment that follows.",
-            "bn": "আয়াতটি শুনে মনে হতে পারে, সাধারণ জীবনটাই এখানে নিন্দিত: রোজগার, খাওয়া-পরা, পরিবার, বিশ্রাম। আনা তাফসীরগুলো এভাবে পড়ে না। তাঁরা যে শব্দগুলো বেছে নেন তা হলো ঈসার, অর্থাৎ প্রাধান্য দেওয়া, আর তরক, অর্থাৎ ছেড়ে দেওয়া। তাবারী বলেন দুনিয়ার কামনাকে আখিরাতের উপর প্রাধান্য দেওয়ার কথা। সা'দী বলেন দুনিয়াকে আখিরাতের উপর রাখা, ফলে আখিরাতের আমল ছেড়ে দেওয়ার কথা। দোষটা হলো উল্টে যাওয়া অগ্রাধিকার, আর তার পরে আসা পরিত্যাগ।"
+            "bn": "আয়াতটি শুনে মনে হতে পারে, সাধারণ জীবনটাই এখানে নিন্দিত: রোজগার, খাওয়া-পরা, পরিবার, বিশ্রাম। যেসব তাফসীর দেখা হয়েছে, সেগুলো আয়াতটিকে এভাবে পড়ে না। তাঁরা যে শব্দগুলো বেছে নেন তা হলো ঈসার, অর্থাৎ প্রাধান্য দেওয়া, আর তরক, অর্থাৎ ছেড়ে দেওয়া। তাবারী বলেন দুনিয়ার কামনাকে আখিরাতের উপর প্রাধান্য দেওয়ার কথা। সা'দী বলেন দুনিয়াকে আখিরাতের উপর রাখা, ফলে আখিরাতের আমল ছেড়ে দেওয়ার কথা। দোষ হলো অগ্রাধিকার উল্টে ফেলা, তারপর আখিরাতকে ছেড়ে দেওয়া।"
           },
           {
             "en": "Ibn Kathir's word is similar: their only concern, their himma, is the present world. That is a description of a heart with nothing beyond the near, not of a person who also enjoys the near. As-Sa'di's phrase as if you had not been created for it locates the error exactly: treating this abode as the place of settled dwelling. The verse al-Qurtubi sets beside this one, 76:27, speaks in the same terms: they love the immediate and leave behind them a heavy Day.",
