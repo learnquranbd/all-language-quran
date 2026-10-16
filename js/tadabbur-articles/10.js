@@ -1153,7 +1153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What follows is brought only as the same disclaimer in his own mouth; the collection places it under 26:214. Sahih al-Bukhari 2753, from Abu Hurayra (RA): when the verse Warn your nearest kinsmen was revealed, Allah's Messenger ﷺ got up and said, O people of Quraish, buy yourselves as I cannot save you from Allah's Punishment; O Bani Abd Manaf, I cannot save you from Allah's Punishment; O Safiya, the Aunt of Allah's Messenger, I cannot save you from Allah's Punishment; O Fatima bint Muhammad, ask me anything from my wealth, but I cannot save you from Allah's Punishment.",
-            "bn": "নিচের বর্ণনাটা আনা হচ্ছে কেবল এই কারণে যে এ একই অস্বীকৃতি তাঁর নিজের মুখে; সংকলনে এটি বসে আছে ২৬:২১৪-এর নিচে। সহীহ বুখারী ২৭৫৩, আবূ হুরাইরা (রাঃ) থেকে: যখন নাযিল হলো তোমার নিকটাত্মীয়দের সতর্ক করো, তখন আল্লাহর রসূল ﷺ দাঁড়িয়ে বললেন, হে কুরাইশের লোকেরা, নিজেদের কিনে নাও, আল্লাহর শাস্তি থেকে আমি তোমাদের বাঁচাতে পারব না; হে বনূ আবদে মানাফ, আল্লাহর শাস্তি থেকে আমি তোমাদের বাঁচাতে পারব না; হে সাফিয়্যা, আল্লাহর রসূলের ফুফু, আল্লাহর শাস্তি থেকে আমি তোমাকে বাঁচাতে পারব না; হে ফাতিমা বিনতে মুহাম্মাদ, আমার সম্পদ থেকে যা চাও চেয়ে নাও, কিন্তু আল্লাহর শাস্তি থেকে আমি তোমাকে বাঁচাতে পারব না।"
+            "bn": "এরপরের বর্ণনাটা আনা হলো শুধু এই কারণে যে, এতে একই অস্বীকৃতি শোনা যায় তাঁর নিজের মুখে; সংকলনে এটি রাখা আছে ২৬:২১৪-এর অধীনে। সহীহ বুখারী ২৭৫৩, আবূ হুরাইরা (রাঃ) থেকে: যখন নাজিল হলো তোমার নিকটাত্মীয়দের সতর্ক করো, তখন আল্লাহর রসূল ﷺ দাঁড়িয়ে বললেন, হে কুরাইশের লোকেরা, নিজেদের কিনে নাও, আল্লাহর শাস্তি থেকে আমি তোমাদের বাঁচাতে পারব না; হে বনূ আবদে মানাফ, আল্লাহর শাস্তি থেকে আমি তোমাদের বাঁচাতে পারব না; হে সাফিয়্যা, আল্লাহর রসূলের ফুফু, আল্লাহর শাস্তি থেকে আমি তোমাকে বাঁচাতে পারব না; হে ফাতিমা বিনতে মুহাম্মাদ, আমার সম্পদ থেকে যা চাও চেয়ে নাও, কিন্তু আল্লাহর শাস্তি থেকে আমি তোমাকে বাঁচাতে পারব না।"
           },
           {
             "en": "The verse denies him power over his own harm and benefit; the narration shows him denying it out loud over his clan, his aunt, his daughter. As-Sa'di draws the balancing half at 7:188. Whoever comes to him ﷺ to obtain a benefit or push away a harm has misread him, since nothing of that is in his hand; and yet his benefit to people surpassed that of fathers and mothers, because he urged them towards every good.",
@@ -1236,48 +1236,48 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Addressed to All People",
-          "bn": "সব মানুষের প্রতি সম্বোধন"
+          "bn": "সব মানুষের উদ্দেশে"
         },
         "p": [
           {
             "en": "Surah Yunus circles one dispute: the people of Makkah demanded a different Quran, or that this one be changed, and the surah answers by describing what the Quran actually is. At this point the address widens beyond the disputers: ya ayyuhan-nas, O mankind. What follows is not an argument but an announcement of goods received — there has come to you an admonition from your Lord, a healing for what is in the breasts, and guidance and mercy for the believers.",
-            "bn": "সূরা ইউনুস একটি বিতর্ককে ঘিরে ঘোরে: মক্কার লোকেরা দাবি করেছিল ভিন্ন এক কুরআন, নয়তো এটিকেই বদলে দেওয়া হোক; আর সূরাটি উত্তর দেয় কুরআন আসলে কী তা বর্ণনা করে। এই জায়গায় এসে সম্বোধন বিতর্ককারীদের ছাড়িয়ে প্রশস্ত হয়: 'ইয়া আইয়ুহান-নাস' — হে মানবজাতি। এরপর যা আসে তা কোনো যুক্তি নয়, বরং পৌঁছে যাওয়া নিয়ামতের ঘোষণা — তোমাদের কাছে এসেছে তোমাদের রবের পক্ষ থেকে উপদেশ, বক্ষে যা আছে তার নিরাময়, আর মুমিনদের জন্য হিদায়াত ও রহমত।"
+            "bn": "সূরা ইউনুসের কেন্দ্রে একটা বিতর্ক। মক্কার লোকেরা দাবি তুলেছিল, অন্য একটা কুরআন আনো, নয়তো এটাকেই বদলে দাও। সূরাটি জবাব দেয় কুরআন আসলে কী, সেটা দেখিয়ে। এই জায়গায় এসে ডাকটা তর্ককারীদের ছাড়িয়ে সবার দিকে ছড়িয়ে পড়ে: ইয়া আইয়ুহান-নাস, হে মানবজাতি। এরপর যা আসে তা কোনো যুক্তি নয়, হাতে পৌঁছে যাওয়া নিয়ামতের ঘোষণা: তোমাদের কাছে তোমাদের রবের পক্ষ থেকে এসেছে উপদেশ, অন্তরে যা আছে তার নিরাময়, আর মুমিনদের জন্য হিদায়াত ও রহমত।"
           },
           {
             "en": "The phrase min rabbikum, from your Lord, carries the tone. What has arrived is not a book from a lawgiver to subjects but provision from the One who has been raising and sustaining you all along; rabb is the word of nurture. A summons from a ruler and a parcel from a caretaker are opened with different hands. The verse insists the Quran is the second kind of arrival, whatever its critics were calling it.",
-            "bn": "'মিন রাব্বিকুম' — তোমাদের রবের পক্ষ থেকে — বাক্যাংশটিই সুরটা ঠিক করে দেয়। যা এসে পৌঁছেছে তা কোনো বিধানদাতার পক্ষ থেকে প্রজাদের প্রতি পাঠানো বই নয়, বরং তাঁর পাঠানো রসদ, যিনি এতদিন ধরে তোমাদের লালন ও প্রতিপালন করে আসছেন; 'রব' শব্দটিই পরিচর্যার শব্দ। শাসকের তলব আর অভিভাবকের পাঠানো উপহার — দুটি মানুষ খোলে ভিন্ন হাতে। আয়াতটি জোর দিয়ে বলে, কুরআন দ্বিতীয় ধরনের আগমন — সমালোচকেরা একে যা-ই বলুক।"
+            "bn": "মিন রাব্বিকুম, তোমাদের রবের পক্ষ থেকে: এই কথাটুকুই পুরো সুর বেঁধে দেয়। যা এসেছে তা কোনো আইনদাতার পক্ষ থেকে প্রজাদের কাছে পাঠানো বই নয়। এ সেই সত্তার পাঠানো রসদ, যিনি শুরু থেকেই মানুষকে লালন-পালন করে আসছেন; রব শব্দটাই প্রতিপালনের শব্দ। শাসকের তলবনামা আর অভিভাবকের পাঠানো উপহার মানুষ একই মন নিয়ে খোলে না। আয়াত জোর দিয়ে বলে, কুরআন এই দ্বিতীয় ধরনের জিনিস, সমালোচকেরা একে যে নামেই ডাকুক।"
           }
         ]
       },
       {
         "h": {
           "en": "Four Gifts in Order",
-          "bn": "ক্রমানুসারে চারটি দান"
+          "bn": "পরপর চারটি দান"
         },
         "p": [
           {
             "en": "The verse names four things: maw'izah, admonition; shifa' lima fis-sudur, healing for what is in the breasts; huda, guidance; rahmah, mercy. Commentators including as-Sa'di read the sequence as a course of treatment. Admonition confronts and warns, the way a physician names the disease. Healing then works on the inner faculties the disease had corrupted. Guidance sets the recovered patient walking on the right road, and mercy is the flourishing at the road's end.",
-            "bn": "আয়াতটি চারটি জিনিসের নাম নেয়: 'মাওইযা' — উপদেশ; 'শিফাউল লিমা ফিস-সুদূর' — বক্ষে যা আছে তার নিরাময়; 'হুদা' — হিদায়াত; 'রহমাহ' — রহমত। আস-সা'দীসহ মুফাসসিরগণ এই ক্রমকে পড়েন একটি চিকিৎসা-পদ্ধতি হিসেবে। উপদেশ মুখোমুখি দাঁড় করায় ও সতর্ক করে — যেমন চিকিৎসক রোগের নাম বলেন। নিরাময় এরপর কাজ করে সেই ভেতরের শক্তিগুলোর ওপর, রোগ যেগুলোকে নষ্ট করেছিল। হিদায়াত সুস্থ রোগীকে সঠিক পথে হাঁটতে নামিয়ে দেয়, আর রহমত সেই পথের শেষের সমৃদ্ধি।"
+            "bn": "আয়াতে চারটি জিনিসের নাম আছে: মাওইযা, উপদেশ; শিফাউল লিমা ফিস-সুদূর, অন্তরে যা আছে তার নিরাময়; হুদা, হিদায়াত; রহমাহ, রহমত। আস-সা'দীসহ মুফাসসিররা এই ক্রমটাকে দেখেন চিকিৎসার ধাপ হিসেবে। উপদেশ মানুষকে মুখোমুখি দাঁড় করায়, সতর্ক করে, যেমন ডাক্তার আগে রোগের নামটা বলে দেন। তারপর নিরাময় কাজ করে ভেতরের সেই শক্তিগুলোর উপর, রোগ যেগুলোকে নষ্ট করে দিয়েছিল। হিদায়াত সেরে ওঠা রোগীকে সঠিক পথে হাঁটিয়ে নেয়, আর রহমত হলো সেই পথের শেষে ভরে ওঠা জীবন।"
           },
           {
             "en": "The distribution of the gifts is equally deliberate. The admonition is announced to all mankind, but the verse ends lil-mu'minin, for the believers — guidance and mercy reach the ones who accept the treatment. Medicine on the shelf heals nobody. The Quran's benefit, the verse implies, is not automatic in a house where the book is present; it is conditional on the patient actually taking what was sent.",
-            "bn": "দানগুলোর বণ্টনও সমান পরিকল্পিত। উপদেশ ঘোষিত হয়েছে গোটা মানবজাতির উদ্দেশে, কিন্তু আয়াত শেষ হয় 'লিল-মুমিনীন' — মুমিনদের জন্য; হিদায়াত ও রহমত তাদের কাছেই পৌঁছায়, যারা চিকিৎসাটি গ্রহণ করে। তাকের ওপর রাখা ওষুধ কাউকে সারায় না। আয়াতের ইঙ্গিত: যে ঘরে কিতাবটি আছে সেখানে এর উপকার আপনাআপনি আসে না; শর্ত হলো — রোগীকে সত্যিই খেতে হবে যা পাঠানো হয়েছে।"
+            "bn": "দানগুলো কার কাছে পৌঁছায়, সেটাও ভেবেচিন্তে সাজানো। উপদেশের ঘোষণা গোটা মানবজাতির জন্য, কিন্তু আয়াত শেষ হয় লিল-মুমিনীন দিয়ে, মুমিনদের জন্য। হিদায়াত আর রহমত পৌঁছায় তাদের কাছে, যারা চিকিৎসাটা নেয়। তাকে তুলে রাখা ওষুধ কাউকে সারায় না। আয়াতের ইঙ্গিত হলো, ঘরে কুরআন থাকলেই তার উপকার আপনাআপনি আসে না। শর্ত একটাই: যা পাঠানো হয়েছে, রোগীকে তা সত্যিই খেতে হবে।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Breasts Carry",
-          "bn": "বক্ষ যা বহন করে"
+          "bn": "অন্তর যা বয়ে বেড়ায়"
         },
         "p": [
           {
             "en": "The healing is located precisely: lima fis-sudur, for what is in the breasts. The mufassirun name the diseases that live there — doubt about the truth, hypocrisy, envy, and the restless attachment to desires. As-Sa'di sums the classes into two: shubuhat, the confusions that sicken conviction, and shahawat, the appetites that sicken the will. The Quran treats the first with clear proofs and the second by making the Hereafter vivid and the world's price honest.",
-            "bn": "নিরাময়ের ঠিকানা সুনির্দিষ্ট: 'লিমা ফিস-সুদূর' — বক্ষে যা আছে তার জন্য। মুফাসসিরগণ সেখানে বাস করা ব্যাধিগুলোর নাম নেন — সত্য নিয়ে সন্দেহ, নিফাক, হিংসা, আর কামনার অস্থির আসক্তি। আস-সা'দী শ্রেণিগুলোকে দুই ভাগে গুছিয়ে আনেন: 'শুবুহাত' — যে বিভ্রান্তিগুলো প্রত্যয়কে রোগগ্রস্ত করে, আর 'শাহাওয়াত' — যে প্রবৃত্তিগুলো ইচ্ছাশক্তিকে রোগগ্রস্ত করে। কুরআন প্রথমটির চিকিৎসা করে স্পষ্ট প্রমাণ দিয়ে, আর দ্বিতীয়টির — আখিরাতকে জীবন্ত করে আর দুনিয়ার দাম সততার সঙ্গে জানিয়ে।"
+            "bn": "নিরাময়ের জায়গাটা আয়াত ঠিকঠাক বলে দেয়: লিমা ফিস-সুদূর, অন্তরে যা আছে তার জন্য। মুফাসসিররা সেখানে বাসা বাঁধা রোগগুলোর নাম বলেন: সত্য নিয়ে সন্দেহ, নিফাক, হিংসা, আর কামনা-বাসনার পেছনে অস্থির ছুটে চলা। আস-সা'দী এগুলোকে দুই ভাগে গুছিয়ে আনেন। শুবুহাত, যে সংশয় ইয়াকীনকে অসুস্থ করে; আর শাহাওয়াত, যে লোভ-লালসা ইচ্ছাশক্তিকে অসুস্থ করে। প্রথমটার চিকিৎসা কুরআন করে স্পষ্ট দলিল দিয়ে। দ্বিতীয়টার চিকিৎসা করে আখিরাতকে চোখের সামনে জীবন্ত করে তুলে, আর দুনিয়ার আসল দাম খোলাখুলি জানিয়ে দিয়ে।"
           },
           {
             "en": "The claim recurs in 17:82, We send down of the Quran that which is healing and mercy for the believers, though it increases the wrongdoers only in loss. The same rain grows the garden and floods the ruin; the difference is in the ground. Reading these two verses together guards against a superstition and a despair alike — the Quran is not a charm that works regardless of the heart, nor a text too lofty to reach one.",
-            "bn": "দাবিটি আবার আসে 17:82 আয়াতে: আমি কুরআনে এমন কিছু নাযিল করি যা মুমিনদের জন্য নিরাময় ও রহমত, যদিও তা জালিমদের ক্ষতিই কেবল বাড়ায়। একই বৃষ্টি বাগান ফলায় আর ধ্বংসস্তূপ ভাসায়; পার্থক্য মাটিতে। এই দুটি আয়াত মিলিয়ে পড়া একইসঙ্গে একটি কুসংস্কার ও একটি হতাশা থেকে বাঁচায় — কুরআন এমন কোনো কবচ নয় যা হৃদয়ের অবস্থা নির্বিশেষে কাজ করে, আবার এমন উঁচু কোনো গ্রন্থও নয় যা কারও নাগালে পৌঁছায় না।"
+            "bn": "একই দাবি আবার এসেছে ১৭:৮২ আয়াতে: আমি কুরআনে এমন কিছু নাজিল করি যা মুমিনদের জন্য নিরাময় ও রহমত, কিন্তু জালিমদের তা কেবল ক্ষতিই বাড়ায়। একই বৃষ্টিতে বাগান ফলে ওঠে, আবার ভাঙা ভিটা ভেসে যায়; তফাতটা মাটিতে। দুই আয়াত মিলিয়ে পড়লে কুসংস্কার থেকেও বাঁচা যায়, হতাশা থেকেও। কুরআন এমন তাবিজ নয় যে অন্তরের অবস্থা যা-ই হোক, কাজ করে যাবে। আবার এত উঁচু কিতাবও নয় যে কোনো অন্তরের নাগাল পাবে না।"
           }
         ]
       },
@@ -1289,27 +1289,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next verse presses the point into economics. In 10:58, say: in the bounty of Allah and in His mercy — in that let them rejoice; it is better than what they gather. Early commentators read the bounty and the mercy here as Islam and the Quran. The verse thus stages a comparison people rarely make out loud: on one side everything a lifetime can accumulate, on the other the revelation lying on the shelf, and it ranks the second higher.",
-            "bn": "পরের আয়াতটি কথাটিকে অর্থনীতির ভাষায় চেপে ধরে। 10:58 আয়াতে: বলো, আল্লাহর অনুগ্রহে ও তাঁর রহমতে — এতেই তারা আনন্দিত হোক; তারা যা জমা করে এর চেয়ে এটি উত্তম। প্রাচীন মুফাসসিরগণ এখানকার অনুগ্রহ ও রহমতকে পড়েছেন ইসলাম ও কুরআন অর্থে। আয়াতটি এভাবে এমন এক তুলনা মঞ্চে তোলে, যা মানুষ কমই মুখ ফুটে করে: এক পাশে গোটা জীবনে যা জমানো যায় তার সবটা, অন্য পাশে তাকের ওপর পড়ে থাকা ওহী — এবং দ্বিতীয়টিকে সে উপরে স্থান দেয়।"
+            "bn": "পরের আয়াত কথাটাকে টেনে আনে লাভ-লোকসানের হিসাবে। ১০:৫৮: বলো, আল্লাহর অনুগ্রহ আর তাঁর রহমত নিয়েই তারা আনন্দ করুক; তারা যা জমায় তার চেয়ে এটা উত্তম। আগের যুগের মুফাসসিররা এখানে অনুগ্রহ আর রহমত বলতে বুঝেছেন ইসলাম আর কুরআন। এভাবে আয়াতটি এমন একটা তুলনা সামনে আনে, যা মানুষ মুখ ফুটে খুব কমই করে। এক পাল্লায় সারা জীবনে যা কিছু জমানো যায়, অন্য পাল্লায় তাকে পড়ে থাকা ওহি। আর আয়াত দ্বিতীয়টাকেই উপরে রাখে।"
           },
           {
             "en": "Rejoicing is commanded, which is worth noticing. Gratitude for the Quran is not meant to stay at solemn respect; it is meant to reach the register of joy that people otherwise reserve for windfalls. A believer who would celebrate an inheritance but has never once felt lucky about owning revelation has, by the measure of 10:58, priced the two backwards.",
-            "bn": "আনন্দ করার আদেশ দেওয়া হয়েছে — এটি লক্ষ করার মতো। কুরআনের জন্য কৃতজ্ঞতা কেবল গম্ভীর সম্মানে থেমে থাকার কথা নয়; তার পৌঁছানোর কথা সেই আনন্দের স্তরে, যা মানুষ সাধারণত অপ্রত্যাশিত প্রাপ্তির জন্য তুলে রাখে। যে মুমিন উত্তরাধিকার পেলে উৎসব করত, অথচ ওহীর মালিক হওয়ায় একবারও নিজেকে ভাগ্যবান ভাবেনি — 10:58 আয়াতের মাপকাঠিতে সে দুটির দাম উল্টো করে ধরেছে।"
+            "bn": "আয়াত এখানে আনন্দ করার হুকুম দিচ্ছে, এটা খেয়াল করার মতো। কুরআনের জন্য শুকরিয়া শুধু গম্ভীর সম্মানে আটকে থাকার কথা নয়। তাকে পৌঁছাতে হবে সেই খুশিতে, যা মানুষ সাধারণত হঠাৎ পাওয়া সৌভাগ্যের জন্য তুলে রাখে। যে মুমিন উত্তরাধিকার পেলে উৎসব করত, অথচ ওহি হাতে পেয়ে একবারও নিজেকে ভাগ্যবান মনে করেনি, ১০:৫৮-এর মাপে সে দুটোর দাম উল্টো ধরেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Taking the Cure",
-          "bn": "নিরাময় গ্রহণ করা"
+          "bn": "ওষুধটা সেবন করা"
         },
         "p": [
           {
             "en": "The lived form of this verse is a change in how one approaches the book. A person reads differently when reading for a condition: the anxious reader watching for verses on decree and provision, the doubting reader for the arguments, the hardened reader for the passages that describe hearts like his own. The note behind this article says it directly — when we come to it as a cure, we discover it was sent for exactly what ails us.",
-            "bn": "এই আয়াতের যাপিত রূপ হলো কিতাবটির কাছে যাওয়ার ভঙ্গিতে একটি পরিবর্তন। নিজের অসুখ সামনে রেখে পড়লে মানুষ অন্যভাবে পড়ে: উদ্বিগ্ন পাঠক খোঁজে তাকদীর ও রিযিকের আয়াত, সন্দেহগ্রস্ত পাঠক খোঁজে যুক্তিগুলো, কঠিন-হৃদয় পাঠক খোঁজে সেই অংশগুলো, যা তার নিজের মতো হৃদয়ের বর্ণনা দেয়। এই লেখার পেছনের নোটটি সরাসরিই বলে — নিরাময় হিসেবে এর কাছে গেলে আমরা আবিষ্কার করি, এটি পাঠানো হয়েছিল ঠিক আমাদের অসুখের জন্যই।"
+            "bn": "এই আয়াত জীবনে নামলে বদলে যায় কিতাবটার কাছে যাওয়ার ধরন। নিজের অসুখটা মাথায় রেখে পড়লে মানুষ অন্যভাবে পড়ে। দুশ্চিন্তায় থাকা পাঠক খোঁজে তাকদীর আর রিযিকের আয়াত, সন্দেহে ভোগা পাঠক খোঁজে দলিলগুলো, আর যার অন্তর শক্ত হয়ে গেছে সে খোঁজে সেই অংশগুলো, যেখানে তার মতোই অন্তরের বর্ণনা আছে। এই লেখার পেছনের নোটটা কথাটা সরাসরি বলে: আমরা যখন ওষুধ হিসেবে এর কাছে যাই, তখন টের পাই, ঠিক আমাদের অসুখের জন্যই এটা পাঠানো হয়েছিল।"
           },
           {
             "en": "Treatment also implies dosage and regularity. No one expects medicine taken once a year, on an occasion, to hold a chronic condition at bay. A small daily portion read with the question what is this saying to my present state does more of the verse's work than a long recitation performed while the mind is elsewhere. The four gifts are already in the book; the reader's part is to keep the appointment.",
-            "bn": "চিকিৎসা মানেই মাত্রা ও নিয়মানুবর্তিতা। বছরে একবার, কোনো উপলক্ষে খাওয়া ওষুধ দীর্ঘস্থায়ী রোগ ঠেকিয়ে রাখবে — এমনটা কেউ আশা করে না। 'এটি আমার বর্তমান অবস্থাকে কী বলছে' — এই প্রশ্ন নিয়ে পড়া ছোট্ট দৈনিক অংশ, মন অন্যত্র রেখে করা দীর্ঘ তিলাওয়াতের চেয়ে আয়াতটির কাজ বেশি করে। চারটি দান কিতাবে আগে থেকেই আছে; পাঠকের কাজ কেবল সাক্ষাতের সময়টা রক্ষা করা।"
+            "bn": "চিকিৎসা মানেই মাত্রা আর নিয়ম। বছরে একবার কোনো উপলক্ষে খাওয়া ওষুধ পুরোনো রোগ ঠেকিয়ে রাখবে, এমনটা কেউ আশা করে না। মন অন্য কোথাও রেখে লম্বা তিলাওয়াতের চেয়ে প্রতিদিন অল্প একটু পড়া আয়াতটার কাজ বেশি করে, যদি সঙ্গে থাকে এই প্রশ্ন: এটা আমার এখনকার অবস্থাকে কী বলছে? চারটি দান কিতাবে আগে থেকেই আছে। পাঠকের কাজ শুধু নিয়ম করে হাজির হওয়া।"
           }
         ]
       }
@@ -1325,43 +1325,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Unquestionably, the awliya of Allah — no fear will be upon them, nor will they grieve. The word wali carries closeness and alliance, and around it whole mythologies have grown: sainthood as a special caste, marked by wonders and reached by secrets. So 10:63 immediately defines the term and closes the mythology: those who believed and used to fear Allah. Faith and taqwa — the definition contains nothing else.",
-            "bn": "জেনে রাখো, আল্লাহর আওলিয়া — তাদের কোনো ভয় নেই, তারা দুঃখিতও হবে না। ওয়ালী শব্দটি বহন করে নৈকট্য ও মৈত্রী, আর একে ঘিরে গড়ে উঠেছে আস্ত সব কল্পকথা: বিশেষ এক শ্রেণি হিসেবে বুযুর্গি, যার চিহ্ন অলৌকিকতা আর পথ গোপন রহস্য। তাই 10:63 সঙ্গে সঙ্গেই শব্দটির সংজ্ঞা দিয়ে কল্পকথার দরজা বন্ধ করে: যারা ঈমান এনেছে এবং তাকওয়া অবলম্বন করত। ঈমান ও তাকওয়া — সংজ্ঞায় এছাড়া আর কিছুই নেই।"
+            "bn": "জেনে রাখো, আল্লাহর আওলিয়াদের কোনো ভয় নেই, তারা দুঃখও পাবে না। ওয়ালী শব্দে আছে নৈকট্য আর বন্ধুত্বের ভাব। এই শব্দকে ঘিরে গড়ে উঠেছে আস্ত সব কল্পকাহিনি: বুযুর্গি যেন আলাদা এক জাত, যার চিহ্ন অলৌকিক কাণ্ড আর যার পথ গোপন রহস্য। তাই ১০:৬৩ সঙ্গে সঙ্গে শব্দটার সংজ্ঞা দিয়ে কল্পকাহিনির দরজা বন্ধ করে দেয়: যারা ঈমান এনেছে আর তাকওয়া অবলম্বন করত। ঈমান আর তাকওয়া, সংজ্ঞায় এর বাইরে আর কিছু নেই।"
           },
           {
             "en": "The definition is the most quoted thing the mufassirun say here, because it makes walaya open. No lineage is named, no order, no initiation, no miracle. Whoever believes and is mindful of Allah has a share of His alliance in exact proportion to those two qualities — and whoever claims the rank without them has only the claim.",
-            "bn": "মুফাসসিরগণ এখানে যা বলেন তার মধ্যে এই সংজ্ঞাটিই সবচেয়ে বেশি উদ্ধৃত, কারণ এটি ওয়ালায়াকে সবার জন্য খোলা করে দেয়। কোনো বংশের নাম নেই, কোনো তরিকা নেই, কোনো দীক্ষা নেই, কোনো কারামত নেই। যে ঈমান আনে ও আল্লাহ-সচেতন থাকে, ঠিক সেই দুই গুণের অনুপাতেই তার তাঁর মৈত্রীর অংশ আছে — আর যে গুণ দুটি ছাড়া পদটি দাবি করে, তার আছে কেবল দাবিটাই।"
+            "bn": "এখানে মুফাসসিরদের সবচেয়ে বেশি উদ্ধৃত কথা এই সংজ্ঞাটাই, কারণ এতে ওয়ালায়ার দরজা সবার জন্য খুলে যায়। কোনো বংশের নাম নেই, কোনো তরিকা নেই, কোনো দীক্ষা নেই, কোনো কারামত নেই। যে ঈমান আনে আর আল্লাহকে ভয় করে চলে, আল্লাহর বন্ধুত্বে তার ভাগ ঠিক ততটুকু, যতটুকু এই দুই গুণ তার মধ্যে আছে। আর যে এই দুই গুণ ছাড়াই পদটা দাবি করে, তার হাতে আছে শুধু দাবিটুকুই।"
           }
         ]
       },
       {
         "h": {
           "en": "No Fear, No Grief",
-          "bn": "নেই ভয়, নেই দুঃখ"
+          "bn": "ভয়ও নেই, দুঃখও নেই"
         },
         "p": [
           {
             "en": "The commentators observe the pair's precision: khawf, fear, faces what may come; huzn, grief, faces what has passed. Between them they cover every direction from which sorrow enters a life. The verse does not promise that Allah's allies feel nothing — the prophets themselves knew fear and sadness — but that neither will settle on them as a final state, and that on the Day it matters most, both are lifted entirely.",
-            "bn": "মুফাসসিরগণ জোড়াটির সূক্ষ্মতা লক্ষ করেন: খাওফ — ভয় — মুখ করে থাকে যা আসতে পারে তার দিকে; হুযন — দুঃখ — যা চলে গেছে তার দিকে। দুয়ে মিলে জীবনে বেদনা ঢোকার প্রতিটি দিক ঢেকে ফেলে। আয়াতটি প্রতিশ্রুতি দেয় না যে আল্লাহর বন্ধুরা কিছুই অনুভব করেন না — নবীরাও (আঃ) ভয় ও বিষণ্নতা জেনেছেন — বরং এই যে, কোনোটিই তাদের ওপর চূড়ান্ত অবস্থা হয়ে বসবে না, আর যে দিনটিতে সবচেয়ে বেশি দরকার, সেদিন দুটিই সম্পূর্ণ তুলে নেওয়া হবে।"
+            "bn": "মুফাসসিররা জোড়াটার সূক্ষ্মতা খেয়াল করেন। খাওফ, ভয়, তাকিয়ে থাকে সামনে যা আসতে পারে তার দিকে; হুযন, দুঃখ, তাকিয়ে থাকে যা চলে গেছে তার দিকে। দুটো মিলে জীবনে কষ্ট ঢোকার সব দিকই ঢেকে ফেলে। আয়াত এমন কথা দিচ্ছে না যে আল্লাহর বন্ধুরা কিছুই অনুভব করেন না; নবীরাও (আঃ) ভয় আর দুঃখ চিনেছেন। কথা দিচ্ছে এটুকু: কোনোটাই তাঁদের উপর শেষ অবস্থা হয়ে চেপে বসবে না, আর যেদিন সবচেয়ে বেশি দরকার, সেদিন দুটোই পুরোপুরি তুলে নেওয়া হবে।"
           },
           {
             "en": "Their security has an unusual source. It does not come from wealth, walls or numbers, but from the two inward qualities of 10:63, and that is why it cannot be confiscated. Everything the world secures, the world can also seize; what faith and taqwa secure sits beyond reach, which is the whole advantage of being allied to the One whom nothing escapes and nothing defeats.",
-            "bn": "তাদের নিরাপত্তার উৎসটি অস্বাভাবিক। তা আসে না সম্পদ, প্রাচীর বা সংখ্যা থেকে — আসে 10:63 আয়াতের দুটি অন্তর্গত গুণ থেকে। সে জন্যই তা বাজেয়াপ্ত করা যায় না। দুনিয়া যা কিছু নিরাপদ করে, দুনিয়া তা কেড়েও নিতে পারে; ঈমান ও তাকওয়া যা নিরাপদ করে তা নাগালের বাইরে — আর এটিই সেই সত্তার মিত্র হওয়ার পুরো সুবিধা, যাঁর থেকে কিছুই পালায় না এবং যাঁকে কিছুই পরাজিত করে না।"
+            "bn": "তাঁদের নিরাপত্তার উৎসটা অন্যরকম। তা সম্পদ, দেয়াল বা লোকবল থেকে আসে না; আসে ১০:৬৩-এর দুই ভেতরের গুণ থেকে। সে কারণেই কেউ তা কেড়ে নিতে পারে না। দুনিয়া যা কিছু দিয়ে নিরাপত্তা দেয়, দুনিয়া তা কেড়েও নিতে পারে। ঈমান আর তাকওয়া যে নিরাপত্তা দেয়, তা নাগালের বাইরে। যাঁর হাত থেকে কিছুই ফসকায় না, যাঁকে কিছুই হারাতে পারে না, তাঁর মিত্র হওয়ার পুরো লাভটা এখানেই।"
           }
         ]
       },
       {
         "h": {
           "en": "Good News in Both Lives",
-          "bn": "উভয় জীবনে সুসংবাদ"
+          "bn": "দুই জীবনেই সুসংবাদ"
         },
         "p": [
           {
             "en": "For them is good news in the life of this world and in the Hereafter. The Prophet ﷺ explained the worldly share: the righteous dream a Muslim sees or that is seen about him — related in the sound collections as what remains of the tidings of prophethood. Muslim also relates that when a man does good and people praise him for it, that is the immediate glad tidings of the believer.",
-            "bn": "তাদের জন্য সুসংবাদ দুনিয়ার জীবনে ও আখিরাতে। দুনিয়ার অংশটির ব্যাখ্যা নবী ﷺ নিজে দিয়েছেন: সেই ভালো স্বপ্ন যা একজন মুসলিম দেখে বা তার সম্পর্কে দেখা হয় — বিশুদ্ধ সংকলনগুলোতে বর্ণিত, নবুওয়াতের সুসংবাদসমূহের যা অবশিষ্ট আছে তা হিসেবে। মুসলিম আরও বর্ণনা করেন: মানুষ যখন ভালো কাজ করে এবং লোকে তার জন্য তার প্রশংসা করে, তা মুমিনের আগাম সুসংবাদ।"
+            "bn": "তাদের জন্য সুসংবাদ দুনিয়ার জীবনে আর আখিরাতে। দুনিয়ার ভাগটা নবী ﷺ নিজেই ব্যাখ্যা করেছেন: ভালো স্বপ্ন, যা কোনো মুসলিম নিজে দেখে বা তার ব্যাপারে অন্য কেউ দেখে। নির্ভরযোগ্য হাদিসগ্রন্থগুলোতে এসেছে, নবুওয়াতের সুসংবাদের মধ্যে এটুকুই বাকি আছে। মুসলিম আরও বর্ণনা করেন, কেউ ভালো কাজ করলে আর লোকে সে জন্য তার প্রশংসা করলে, সেটা মুমিনের আগাম সুসংবাদ।"
           },
           {
             "en": "The commentators add the third and greatest instalment: the tidings the angels bring at death, described in 41:30 — those who said our Lord is Allah and stood firm, upon them the angels descend: do not fear and do not grieve, and receive the good news of the Garden you were promised. The same two words, fear and grief, cancelled at the exact moment humans dread most.",
-            "bn": "মুফাসসিরগণ যোগ করেন তৃতীয় ও সর্বশ্রেষ্ঠ কিস্তিটি: মৃত্যুর সময় ফেরেশতাদের আনা সুসংবাদ, যার বর্ণনা 41:30 আয়াতে — যারা বলেছে আমাদের রব আল্লাহ, তারপর অবিচল থেকেছে, তাদের ওপর ফেরেশতারা নেমে আসে: ভয় কোরো না, দুঃখও কোরো না, আর সেই জান্নাতের সুসংবাদ নাও যার প্রতিশ্রুতি তোমাদের দেওয়া হয়েছিল। সেই একই দুটি শব্দ — ভয় ও দুঃখ — বাতিল হয়ে যায় ঠিক সেই মুহূর্তে, মানুষ যাকে সবচেয়ে বেশি ভয় পায়।"
+            "bn": "মুফাসসিররা এর সঙ্গে যোগ করেন তৃতীয় এবং সবচেয়ে বড় কিস্তি: মৃত্যুর সময় ফেরেশতারা যে সুসংবাদ নিয়ে আসেন। ৪১:৩০ আয়াতে তার বর্ণনা: যারা বলেছে আমাদের রব আল্লাহ, তারপর অবিচল থেকেছে, তাদের কাছে ফেরেশতারা নেমে আসে: ভয় কোরো না, দুঃখও কোরো না, আর সেই জান্নাতের সুসংবাদ নাও, যার ওয়াদা তোমাদের দেওয়া হয়েছিল। সেই একই দুই শব্দ, ভয় আর দুঃখ, মুছে দেওয়া হয় ঠিক সেই মুহূর্তে, যেটাকে মানুষ সবচেয়ে বেশি ভয় পায়।"
           }
         ]
       },
@@ -1373,11 +1373,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the guarantee: no change is there in the words of Allah — that is the great attainment. Promises fail for two reasons, deceit or inability, and both are impossible for Him. The verse fixes the promise's reliability to His own nature: His words do not change because He does not change His word, as 50:29 says — the word will not be altered with Me.",
-            "bn": "তারপর নিশ্চয়তা: আল্লাহর বাণীসমূহে কোনো পরিবর্তন নেই — এটিই মহাসাফল্য। প্রতিশ্রুতি ভাঙে দুটি কারণে — প্রতারণা অথবা অক্ষমতা — এবং দুটিই তাঁর ক্ষেত্রে অসম্ভব। আয়াতটি প্রতিশ্রুতির নির্ভরযোগ্যতাকে বেঁধে দেয় তাঁর নিজের সত্তার সঙ্গে: তাঁর বাণী বদলায় না, কারণ তিনি নিজের কথা বদলান না — যেমন 50:29 বলে: আমার কাছে কথা রদবদল হয় না।"
+            "bn": "তারপর নিশ্চয়তা: আল্লাহর কথার কোনো রদবদল নেই, এটাই মহাসাফল্য। ওয়াদা ভাঙে দুই কারণে, হয় প্রতারণা, নয় অক্ষমতা; আর তাঁর বেলায় দুটোই অসম্ভব। আয়াত ওয়াদার ভরসাকে বেঁধে দেয় তাঁর নিজের সত্তার সঙ্গে। তাঁর বাণী বদলায় না, কারণ তিনি নিজের কথা বদলান না। যেমন ৫০:২৯ বলে: আমার কাছে কথার রদবদল হয় না।"
           },
           {
             "en": "Al-fawz al-'azim, the great attainment, is the Quran's settled name for the best possible outcome. Attaching it here teaches proportion: the triumph is not the dream, nor the people's praise, but the standing itself — to be someone Allah calls His ally, guarded from fear and grief by a promise that cannot be revised in either world.",
-            "bn": "আল-ফাওযুল আযীম — মহাসাফল্য — সর্বোত্তম সম্ভাব্য পরিণতির জন্য কুরআনের নির্ধারিত নাম। এখানে তা যুক্ত করা শেখায় অনুপাতবোধ: বিজয় স্বপ্নটি নয়, লোকের প্রশংসাও নয়, বরং মর্যাদাটিই — এমন কেউ হওয়া যাকে আল্লাহ নিজের মিত্র বলেন, এমন এক প্রতিশ্রুতিতে ভয় ও দুঃখ থেকে সুরক্ষিত, যা দুই জগতের কোনোটিতেই সংশোধিত হতে পারে না।"
+            "bn": "আল-ফাওযুল আযীম, মহাসাফল্য: সবচেয়ে ভালো পরিণতির জন্য কুরআনের বাঁধা নাম। এখানে নামটা জুড়ে দিয়ে আয়াত মাপ বুঝতে শেখায়। আসল জয় স্বপ্নটা নয়, লোকের প্রশংসাও নয়; জয় হলো মর্যাদাটাই। আল্লাহ যাকে নিজের বন্ধু বলেন, এমন একজন হওয়া; আর এমন এক ওয়াদায় ভয় আর দুঃখ থেকে নিরাপদ থাকা, যা দুনিয়া বা আখিরাত কোথাও বদলানো যায় না।"
           }
         ]
       },
@@ -1389,27 +1389,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari relates the hadith qudsi that maps the road: whoever shows enmity to a wali of Mine, I have declared war upon him; My servant draws near to Me with nothing more beloved to Me than what I have made obligatory upon him, and he keeps drawing near with voluntary acts until I love him. The order is the point — the obligations first, then the extras, and love at the end of a long ordinary road.",
-            "bn": "আল-বুখারী সেই হাদীসে কুদসী বর্ণনা করেন যা পথের মানচিত্র এঁকে দেয়: যে আমার কোনো ওয়ালীর সঙ্গে শত্রুতা করে, আমি তার বিরুদ্ধে যুদ্ধ ঘোষণা করলাম; আমার বান্দা আমার নৈকট্য লাভ করে এমন কিছু দিয়ে নয় যা আমার কাছে তার ওপর ফরয করা বিষয়ের চেয়ে প্রিয়তর, আর সে নফল আমল দিয়ে নৈকট্য বাড়াতেই থাকে যতক্ষণ না আমি তাকে ভালোবাসি। ক্রমটিই মূল কথা — আগে ফরযগুলো, তারপর অতিরিক্ত, আর ভালোবাসা এক দীর্ঘ সাদামাটা পথের শেষে।"
+            "bn": "আল-বুখারী সেই হাদিসে কুদসি বর্ণনা করেন, যা এ পথের নকশা এঁকে দেয়: যে আমার কোনো ওয়ালীর সঙ্গে শত্রুতা করে, আমি তার বিরুদ্ধে যুদ্ধ ঘোষণা করলাম। আমার বান্দা যা দিয়ে আমার নৈকট্য লাভ করে, তার মধ্যে আমার কাছে সবচেয়ে প্রিয় হলো যা আমি তার উপর ফরজ করেছি। আর নফল আমল দিয়ে সে আমার আরও কাছে আসতেই থাকে, শেষে আমি তাকে ভালোবাসি। আসল কথা এই ক্রমটাই: আগে ফরজ, তারপর নফল, আর ভালোবাসা এক লম্বা, সাদামাটা পথের শেষে।"
           },
           {
             "en": "Nothing in that road is exotic. Prayers on time, honest earnings, dues paid, then the gentle accumulation of voluntary prayer, fasting, charity and remembrance. The hadith continues that when Allah loves the servant, He is the hearing with which he hears and the seeing with which he sees, and if he asks, He gives him — the lived meaning of having Allah as one's wali.",
-            "bn": "এই পথের কোনো কিছুই অলৌকিক নয়। সময়মতো নামায, হালাল উপার্জন, প্রাপ্য আদায় — তারপর নফল নামায, রোযা, সদকা ও যিকিরের ধীর সঞ্চয়। হাদীসটি আরও বলে: আল্লাহ যখন বান্দাকে ভালোবাসেন, তিনি হয়ে যান সেই শ্রবণ যা দিয়ে সে শোনে, সেই দৃষ্টি যা দিয়ে সে দেখে, আর সে চাইলে তিনি তাকে দেন — আল্লাহকে নিজের ওয়ালী হিসেবে পাওয়ার জীবন্ত অর্থ এটিই।"
+            "bn": "এই পথে অদ্ভুত কিছুই নেই। সময়মতো নামাজ, হালাল রুজি, পাওনা মিটিয়ে দেওয়া; তারপর ধীরে ধীরে নফল নামাজ, রোজা, সদকা আর জিকির জমতে থাকা। হাদিসটি আরও বলে, আল্লাহ যখন বান্দাকে ভালোবাসেন, তখন তিনি হয়ে যান তার শ্রবণশক্তি, যা দিয়ে সে শোনে, আর তার দৃষ্টিশক্তি, যা দিয়ে সে দেখে; আর সে কিছু চাইলে তিনি তাকে দেন। আল্লাহকে নিজের ওয়ালী হিসেবে পাওয়ার জীবন্ত অর্থ এটাই।"
           }
         ]
       },
       {
         "h": {
           "en": "Measuring by the Right Scale",
-          "bn": "সঠিক মানদণ্ডে মাপা"
+          "bn": "ঠিক দাঁড়িপাল্লায় মাপা"
         },
         "p": [
           {
             "en": "These verses re-calibrate two judgments. About others: rank in Allah's sight tracks faith and taqwa, not fame, wealth or titles — so the unnoticed woman of consistent prayer may outrank the celebrated. About ourselves: anxiety about the future and grief over the past are, among much else, signals showing where our security is currently invested, and in what.",
-            "bn": "এই আয়াতগুলো দুটি বিচারকে নতুন করে মাপে। অন্যদের সম্পর্কে: আল্লাহর কাছে মর্যাদা চলে ঈমান ও তাকওয়ার পথ ধরে — খ্যাতি, সম্পদ বা উপাধির পথে নয় — তাই নিয়মিত নামাযের সেই অনালোচিত নারী বিখ্যাতজনকে ছাড়িয়ে যেতে পারেন। নিজেদের সম্পর্কে: ভবিষ্যতের দুশ্চিন্তা আর অতীতের দুঃখ, আরও অনেক কিছুর সঙ্গে, সংকেত দেয় আমাদের নিরাপত্তা এই মুহূর্তে কোথায় বিনিয়োগ করা — আর কীসে।"
+            "bn": "এই আয়াতগুলো দুটো বিচারের মাপকাঠি নতুন করে ঠিক করে দেয়। অন্যদের বেলায়: আল্লাহর কাছে মর্যাদা চলে ঈমান আর তাকওয়া অনুযায়ী, খ্যাতি, সম্পদ বা পদবি অনুযায়ী নয়। তাই নিয়মিত নামাজ পড়া কোনো অচেনা নারী নামকরা মানুষকেও ছাড়িয়ে যেতে পারেন। নিজের বেলায়: ভবিষ্যৎ নিয়ে দুশ্চিন্তা আর অতীত নিয়ে দুঃখ আরও অনেক কিছুর পাশাপাশি একটা সংকেতও দেয়। আমাদের নিরাপত্তা এই মুহূর্তে কোথায় আর কীসে খাটানো আছে, তা ধরিয়ে দেয়।"
           },
           {
             "en": "The response the passage invites is to move the investment. Strengthen the two qualifying qualities — belief, examined and fed; taqwa, practiced in small daily refusals — and the promised freedoms follow at their own pace, in this life as tranquillity and in the next completely. That is the trade 10:64 calls the great attainment, offered without change to anyone willing to be His ally on His terms.",
-            "bn": "অংশটি যে সাড়ার আমন্ত্রণ জানায় তা হলো বিনিয়োগটাই সরিয়ে নেওয়া। যোগ্যতা নির্ধারণকারী দুই গুণকে মজবুত করুন — ঈমান, যাচাই করা ও পুষ্ট করা; তাকওয়া, ছোট ছোট দৈনিক প্রত্যাখ্যানে চর্চিত — আর প্রতিশ্রুত মুক্তিগুলো আসবে নিজেদের গতিতে: এই জীবনে প্রশান্তি হয়ে, পরের জীবনে সম্পূর্ণরূপে। এই বিনিময়কেই 10:64 বলে মহাসাফল্য — অপরিবর্তিতভাবে দেওয়া প্রত্যেককে, যে তাঁর শর্তে তাঁর মিত্র হতে রাজি।"
+            "bn": "এই অংশ যে সাড়া চায় তা হলো, বিনিয়োগটা সরিয়ে আনা। যে দুই গুণ দিয়ে যোগ্যতা ঠিক হয়, সেগুলো মজবুত করুন: ঈমানকে যাচাই করে আর খোরাক দিয়ে; তাকওয়াকে প্রতিদিনের ছোট ছোট না বলার মধ্য দিয়ে। তাহলে প্রতিশ্রুত মুক্তি আসবে নিজের গতিতে, এই জীবনে প্রশান্তি হয়ে, আর পরের জীবনে পুরোপুরি। এই লেনদেনকেই ১০:৬৪ বলে মহাসাফল্য। কোনো রদবদল ছাড়াই এ প্রস্তাব খোলা প্রত্যেকের জন্য, যে তাঁর শর্তে তাঁর মিত্র হতে রাজি।"
           }
         ]
       }
