@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Definition After a Dispute",
-          "bn": "বিরোধের পরে একটি সংজ্ঞা"
+          "bn": "বিবাদের পর মুমিনের পরিচয়"
         },
         "p": [
           {
             "en": "Surah al-Anfal opens with a question about property: they ask you about the spoils, 8:1 — the disagreement after Badr about who would have what. The answer given first is not a distribution formula but a reorientation: the spoils belong to Allah and the Messenger, so have taqwa, repair what is between you, and obey. Then 8:2-4 lift the discussion another level entirely: before who gets what, the passage defines who the believers are.",
-            "bn": "সূরা আল-আনফাল শুরু হয় সম্পদ নিয়ে একটি প্রশ্ন দিয়ে: তারা তোমাকে গনীমত সম্পর্কে জিজ্ঞেস করে — 8:1 — বদরের পরের সেই মতবিরোধ, কে কী পাবে তা নিয়ে। প্রথম যে উত্তর দেওয়া হয় তা বণ্টনের কোনো সূত্র নয়, বরং মুখ ঘুরিয়ে দেওয়া: গনীমত আল্লাহ ও রাসূলের, অতএব তাকওয়া অবলম্বন করো, নিজেদের পারস্পরিক সম্পর্ক ঠিক করো, এবং আনুগত্য করো। তারপর 8:2-4 আলোচনাকে সম্পূর্ণ অন্য এক স্তরে তুলে নেয়: কে কী পাবে তার আগে, অনুচ্ছেদটি সংজ্ঞায়িত করে মুমিন কারা।"
+            "bn": "সূরা আনফাল শুরু হয় সম্পদ নিয়ে এক প্রশ্ন দিয়ে: তারা তোমাকে গনীমত সম্পর্কে জিজ্ঞেস করে (৮:১)। প্রশ্নটা বদরের পরের সেই মতবিরোধ নিয়ে, কে কী পাবে। প্রথম জবাবে বণ্টনের কোনো হিসাব দেওয়া হয় না, বরং দৃষ্টিটাই ঘুরিয়ে দেওয়া হয়: গনীমত আল্লাহ ও রাসূলের; অতএব তাকওয়া অবলম্বন করো, নিজেদের সম্পর্ক ঠিক করে নাও, আর আনুগত্য করো। এরপর ৮:২-৪ আলোচনাকে একেবারে অন্য উচ্চতায় তুলে নেয়। কে কী পাবে, তার আগে আয়াতগুলো বলে দেয় মুমিন আসলে কারা।"
           },
           {
             "en": "The placement is a comment in itself. A community fresh from a miracle could still fall into a quarrel over gains; the corrective is a portrait of faith in which wealth appears only at the end, and then as something given away. Innama al-mu'minun — the believers are only — is a restricting construction. The commentators explain it as describing faith when it is true and complete: not a decoration for an elite, but the working condition the word mu'min is meant to name, as the passage's own ending — those are the believers in truth — confirms.",
-            "bn": "অবস্থানটিই একটি মন্তব্য। সদ্য মুজিযা দেখে আসা একটি সম্প্রদায়ও লাভের ভাগ নিয়ে বিবাদে পড়তে পারে; তার সংশোধনী হলো ঈমানের এমন এক প্রতিকৃতি, যেখানে সম্পদ আসে কেবল শেষে — এবং তখনো বিলিয়ে দেওয়া জিনিস হিসেবে। 'ইন্নামাল মু'মিনূন' — মুমিন তো কেবল তারাই — একটি সীমাবদ্ধকারী গঠন। মুফাসসিরগণ ব্যাখ্যা করেন, এটি ঈমানের বর্ণনা যখন তা সত্য ও পরিপূর্ণ: কোনো অভিজাত দলের অলংকার নয়, বরং 'মুমিন' শব্দটি যে কার্যকর অবস্থা বোঝাতে চায় সেটিই — যেমন অনুচ্ছেদের নিজের সমাপ্তি — তারাই প্রকৃত মুমিন — নিশ্চিত করে।"
+            "bn": "আয়াতগুলো কোথায় বসানো, সেটাই একটা কথা বলে দেয়। সদ্য মুজিযা দেখে আসা জামাতও গনীমতের ভাগ নিয়ে ঝগড়ায় জড়িয়ে পড়তে পারে। তার প্রতিকার হিসেবে আসে ঈমানের এমন এক ছবি, যেখানে সম্পদের কথা আসে একেবারে শেষে, তাও বিলিয়ে দেওয়ার জিনিস হিসেবে। 'ইন্নামাল মু'মিনূন', মুমিন তো কেবল তারাই: বাক্যের গঠনটাই সীমা টেনে দেয়। মুফাসসিরগণ বলেন, এখানে ঈমানের বর্ণনা দেওয়া হচ্ছে তার সত্য ও পূর্ণ অবস্থায়। এটা কোনো বাছাই করা দলের অলংকার নয়; 'মুমিন' শব্দটি দিয়ে যে জীবন্ত, কাজের অবস্থা বোঝানো হয়, এটা সেটাই। আয়াতগুলোর নিজের শেষ কথাই তা নিশ্চিত করে: তারাই প্রকৃত মুমিন।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Three inner marks come first. When Allah is mentioned, their hearts wajilat — tremble, feel awe. When His verses are recited to them, zadat-hum imanan, it increases them in faith. And upon their Lord they rely. The order runs from reflex to growth to rest: the mention stirs, the recitation builds, and the built trust settles its weight on Allah rather than on means. All three are movements of the heart, invisible from outside, and the passage puts them before any visible deed.",
-            "bn": "প্রথমে আসে তিনটি ভেতরের চিহ্ন। আল্লাহকে স্মরণ করা হলে তাদের হৃদয় 'ওয়াজিলাত' — কেঁপে ওঠে, ভয়ভক্তি অনুভব করে। তাঁর আয়াতগুলো তাদের কাছে তিলাওয়াত করা হলে — 'যাদাতহুম ঈমানা' — তা তাদের ঈমান বাড়িয়ে দেয়। আর তারা তাদের রবের ওপরই ভরসা করে। ক্রমটি চলে প্রতিবর্ত থেকে বৃদ্ধিতে, বৃদ্ধি থেকে প্রশান্তিতে: স্মরণ নাড়া দেয়, তিলাওয়াত গড়ে তোলে, আর গড়ে ওঠা আস্থা তার ভার রাখে আল্লাহর ওপর — উপায়-উপকরণের ওপর নয়। তিনটিই হৃদয়ের সঞ্চালন, বাইরে থেকে অদৃশ্য — আর অনুচ্ছেদটি এগুলোকে রাখে যেকোনো দৃশ্যমান আমলের আগে।"
+            "bn": "প্রথমে আসে ভেতরের তিনটি চিহ্ন। আল্লাহর কথা উঠলে তাদের হৃদয় 'ওয়াজিলাত', অর্থাৎ কেঁপে ওঠে, ভয় আর ভক্তিতে ভরে যায়। তাঁর আয়াত তাদের সামনে তিলাওয়াত করা হলে 'যাদাতহুম ঈমানা', তা তাদের ঈমান বাড়িয়ে দেয়। আর তারা তাদের রবের ওপরই ভরসা করে। ক্রমটা খেয়াল করুন: প্রথমে আপনাআপনি সাড়া, তারপর বৃদ্ধি, তারপর স্থিরতা। আল্লাহর উল্লেখ নাড়া দেয়, তিলাওয়াত ঈমান গড়ে তোলে, আর গড়ে ওঠা সেই আস্থা নিজের পুরো ভার রাখে আল্লাহর ওপর, উপায়-উপকরণের ওপর নয়। তিনটিই হৃদয়ের নড়াচড়া, বাইরে থেকে দেখা যায় না। অথচ আয়াত এগুলোকে রেখেছে চোখে দেখা যেকোনো আমলের আগে।"
           },
           {
             "en": "The trembling is not terror as an end in itself; 22:35 pairs the same word with patience and prayer, and 39:23 completes the arc — skins shiver at the recitation, then skins and hearts soften to the remembrance of Allah. Awe that only frightens has stopped halfway; the Quranic sequence passes through fear into tenderness and obedience. A heart that hears the mention of Allah and moves — that is the pulse the verse is checking for.",
-            "bn": "এই কেঁপে ওঠা নিজেই লক্ষ্য এমন কোনো আতঙ্ক নয়; 22:35 একই শব্দকে জুড়ে দেয় ধৈর্য ও নামাযের সঙ্গে, আর 39:23 বৃত্তটি সম্পূর্ণ করে — তিলাওয়াতে চামড়া শিউরে ওঠে, তারপর চামড়া ও হৃদয় নরম হয়ে আসে আল্লাহর স্মরণে। যে ভয়ভক্তি কেবল ভয়ই দেখায়, সে মাঝপথে থেমে গেছে; কুরআনী ধারাক্রম ভয়ের ভেতর দিয়ে পৌঁছায় কোমলতা ও আনুগত্যে। যে হৃদয় আল্লাহর উল্লেখ শুনে নড়ে ওঠে — সেই স্পন্দনটিই আয়াত পরীক্ষা করছে।"
+            "bn": "এই কেঁপে ওঠা শুধু ভয় পাওয়ার জন্য ভয় নয়। ২২:৩৫ একই শব্দকে ধৈর্য আর নামাজের সঙ্গে জুড়ে দেয়, আর ৩৯:২৩ পুরো পথটা দেখিয়ে দেয়: তিলাওয়াত শুনে গায়ের চামড়া শিউরে ওঠে, তারপর চামড়া আর হৃদয় দুটোই নরম হয়ে আসে আল্লাহর জিকিরে। যে ভয় কেবল ভয়ই পাইয়ে দেয়, সে মাঝপথে থেমে গেছে। কুরআনের পথ ভয়ের ভেতর দিয়ে গিয়ে পৌঁছায় কোমলতা আর আনুগত্যে। আল্লাহর নাম শুনে যে হৃদয় নড়ে ওঠে, আয়াত ঠিক সেই স্পন্দনটাই খুঁজছে।"
           }
         ]
       },
@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Zadat-hum imanan became a proof-text in creed: the scholars of the Sunnah cite it, with 9:124 — when a surah is sent down, some ask which of you it increased in faith — to establish that iman rises with obedience and falls with sin. It is also a diagnostic the ordinary reader can run. The verse assumes exposure to recitation and measures its yield; hearing that leaves the level unchanged is a symptom the definition is designed to catch.",
-            "bn": "'যাদাতহুম ঈমানা' আকীদার একটি দলিল হয়ে উঠেছে: আহলুস সুন্নাহর আলিমগণ এটি উদ্ধৃত করেন — সঙ্গে 9:124 — যখন কোনো সূরা নাযিল হয়, কেউ কেউ জিজ্ঞেস করে এটি তোমাদের কার ঈমান বাড়াল — প্রমাণ করতে যে ঈমান আনুগত্যে বাড়ে আর পাপে কমে। এটি একটি রোগনির্ণয়ও বটে, যা সাধারণ পাঠক নিজে চালাতে পারে। আয়াতটি ধরে নেয় তিলাওয়াতের সংস্পর্শ আছে, আর মাপে তার ফলন; যে শোনা স্তরটিকে অপরিবর্তিত রেখে যায়, তা এমন এক উপসর্গ, সংজ্ঞাটি যা ধরার জন্যই তৈরি।"
+            "bn": "'যাদাতহুম ঈমানা' আকীদার একটি দলিল হয়ে উঠেছে। আহলুস সুন্নাহর আলিমগণ এ আয়াতের সঙ্গে ৯:১২৪ মিলিয়ে উদ্ধৃত করেন (সেখানে আছে, কোনো সূরা নাজিল হলে কেউ কেউ জিজ্ঞেস করে, এটা তোমাদের কার ঈমান বাড়াল?), আর দেখান যে ঈমান আনুগত্যে বাড়ে, গুনাহে কমে। আবার সাধারণ পাঠকও এ আয়াত দিয়ে নিজেকে যাচাই করতে পারেন। আয়াত ধরে নেয়, আপনি তিলাওয়াত শুনছেন; তারপর দেখে তাতে কী ফল হলো। শোনার পরও ঈমান যদি যেখানে ছিল সেখানেই থেকে যায়, সেটাই সেই লক্ষণ, যা ধরার জন্য এ সংজ্ঞা।"
           },
           {
             "en": "Tawakkul completes the inner triad, and its position teaches. It comes after the verses have done their work: reliance is not a mood summoned in crisis but the settled outcome of a heart repeatedly stirred and grown. And it guards the other two from distortion — awe without reliance curdles into dread; growth without reliance inflates into self-trust. Leaning the whole weight on the Lord keeps the trembling hopeful and the increase humble.",
-            "bn": "তাওয়াক্কুল ভেতরের ত্রয়ী সম্পূর্ণ করে, আর তার অবস্থানটিও শেখায়। এটি আসে আয়াতগুলো তাদের কাজ করে ফেলার পরে: ভরসা সংকটের মুহূর্তে ডেকে আনা কোনো মেজাজ নয়, বরং বারবার নাড়া খাওয়া ও বেড়ে ওঠা হৃদয়ের থিতু ফলাফল। আর এটি বাকি দুটিকে বিকৃতি থেকে রক্ষা করে — ভরসাহীন ভয়ভক্তি জমে ওঠে আতঙ্কে; ভরসাহীন বৃদ্ধি ফুলে ওঠে আত্মবিশ্বাসের অহংকারে। পুরো ভার রবের ওপর হেলান দেওয়াই কাঁপুনিকে রাখে আশাবাদী, আর বৃদ্ধিকে রাখে বিনয়ী।"
+            "bn": "ভেতরের তিনটি চিহ্ন পূর্ণ হয় তাওয়াক্কুলে, আর এর জায়গাটাও কিছু শেখায়। তাওয়াক্কুল আসে আয়াতগুলো নিজের কাজ সেরে ফেলার পরে। অর্থাৎ ভরসা বিপদের মুহূর্তে হঠাৎ ডেকে আনা কোনো মেজাজ নয়; বারবার নাড়া খেয়ে বেড়ে ওঠা হৃদয়ের থিতু হওয়া ফল। আবার তাওয়াক্কুলই বাকি দুটিকে বিগড়ে যেতে দেয় না। ভরসা ছাড়া ভয় জমে গিয়ে আতঙ্ক হয়ে যায়; ভরসা ছাড়া ঈমানের বৃদ্ধি ফুলে উঠে নিজের ওপর ভরসায় পরিণত হয়। পুরো ভার রবের ওপর ছেড়ে দিলে কাঁপুনিতে আশা থাকে, আর বৃদ্ধিতে থাকে বিনয়।"
           }
         ]
       },
@@ -69,11 +69,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the two visible marks: they establish the prayer, and they spend out of what We have provided them. The mufassirun note that the pairing recurs across the Quran — 2:3 introduces the God-conscious with the very same two — because they represent the two directions of practice: the right of Allah, worshipped on time, and the right of creation, met from one's wealth. The phrasing of the second carries its own argument: what We have provided them — givers are passing on, not giving up.",
-            "bn": "তারপর দৃশ্যমান দুটি চিহ্ন: তারা নামায কায়েম করে, এবং আমরা তাদের যা রিযিক দিয়েছি তা থেকে ব্যয় করে। মুফাসসিরগণ লক্ষ করেন, জোড়টি কুরআনজুড়ে ফিরে ফিরে আসে — 2:3 মুত্তাকীদের পরিচয় করায় ঠিক এই দুটি দিয়েই — কারণ এরা চর্চার দুই অভিমুখের প্রতিনিধি: আল্লাহর হক, সময়মতো ইবাদতের মাধ্যমে; আর সৃষ্টির হক, নিজের সম্পদ থেকে মেটানো। দ্বিতীয়টির শব্দবিন্যাস নিজের যুক্তি নিজেই বহন করে: 'আমরা তাদের যা রিযিক দিয়েছি' — দাতারা হাতবদল করছে মাত্র, হারাচ্ছে না।"
+            "bn": "এরপর চোখে দেখা যায় এমন দুটি চিহ্ন: তারা নামাজ কায়েম করে, আর আমরা তাদের যে রিযিক দিয়েছি তা থেকে খরচ করে। মুফাসসিরগণ লক্ষ করেন, এ জোড়াটি কুরআনে বারবার ফিরে আসে; ২:৩ মুত্তাকীদের পরিচয় দেয় ঠিক এই দুটি দিয়েই। কারণ এ দুটি আমলের দুই দিক: আল্লাহর হক, যা সময়মতো ইবাদতে আদায় হয়; আর সৃষ্টির হক, যা নিজের সম্পদ থেকে আদায় হয়। দ্বিতীয়টির ভাষাতেই যুক্তিটা আছে: 'আমরা তাদের যে রিযিক দিয়েছি'। যে দান করে, সে আসলে অন্যের কাছে পৌঁছে দিচ্ছে মাত্র, নিজের কিছু খোয়াচ্ছে না।"
           },
           {
             "en": "The five marks together refuse two truncations. Inner faith without prayer and giving is a claim without evidence; prayer and giving without the responsive heart is a shell — 49:14 records desert Arabs told to say we have submitted rather than we believe, for faith had not yet entered their hearts. The believer of 8:2-4 is verified at both layers, secret and seen, and neither layer can stand in for the other.",
-            "bn": "পাঁচটি চিহ্ন একসঙ্গে দুটি খণ্ডিতকরণ প্রত্যাখ্যান করে। নামায ও দানবিহীন ভেতরের ঈমান প্রমাণহীন দাবি; আর সাড়া দেওয়া হৃদয়বিহীন নামায ও দান একটি খোলস — 49:14 লিপিবদ্ধ করে মরুর বেদুইনদের কথা, যাদের বলা হয়েছিল 'আমরা ঈমান এনেছি' নয়, বলো 'আমরা আত্মসমর্পণ করেছি' — কারণ ঈমান তখনো তাদের হৃদয়ে ঢোকেনি। 8:2-4 আয়াতের মুমিন যাচাইকৃত দুই স্তরেই — গোপন ও দৃশ্যমান — আর কোনো স্তরই অন্যটির বদলি হতে পারে না।"
+            "bn": "পাঁচটি চিহ্ন একসঙ্গে দুই রকম অসম্পূর্ণতাকে নাকচ করে দেয়। নামাজ আর দান ছাড়া ভেতরের ঈমান প্রমাণহীন দাবি মাত্র। আবার সাড়া দেওয়া হৃদয় ছাড়া নামাজ আর দান শুধু খোলস। ৪৯:১৪ আয়াতে আছে মরুবাসী বেদুইনদের কথা, যাদের বলা হয়েছিল: 'আমরা ঈমান এনেছি' বলো না, বরং বলো 'আমরা আত্মসমর্পণ করেছি', কারণ ঈমান তখনো তাদের হৃদয়ে প্রবেশ করেনি। ৮:২-৪ আয়াতের মুমিন দুই স্তরেই উত্তীর্ণ, গোপনেও, প্রকাশ্যেও। আর এক স্তর কখনো অন্য স্তরের জায়গা নিতে পারে না।"
           }
         ]
       },
@@ -85,23 +85,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ula'ika humu al-mu'minuna haqqan — those are the believers in truth. Then three rewards, each answering the life described: darajat, ranks with their Lord, for people who ranked Him above everything; maghfirah, forgiveness, for people whose awe never let them feel finished; and rizqun karim, a noble provision, for people who kept handing their provision on. The rewards are not a list but a mirror: what the five marks planted, the three promises harvest.",
-            "bn": "'উলায়িকা হুমুল মু'মিনূনা হাক্কা' — তারাই প্রকৃত মুমিন। তারপর তিনটি প্রতিদান, প্রতিটি বর্ণিত জীবনটির জবাব: 'দারাজাত' — তাদের রবের কাছে মর্যাদার স্তর — তাদের জন্য, যারা তাঁকে সবকিছুর ওপরে স্থান দিয়েছিল; 'মাগফিরাহ' — ক্ষমা — তাদের জন্য, যাদের ভয়ভক্তি কখনো তাদের 'সম্পন্ন' বোধ করতে দেয়নি; আর 'রিযকুন কারীম' — সম্মানজনক রিযিক — তাদের জন্য, যারা নিজেদের রিযিক হাতবদল করে যেতে থাকল। প্রতিদানগুলো কোনো তালিকা নয়, আয়না: পাঁচ চিহ্ন যা রোপণ করেছিল, তিন প্রতিশ্রুতি তা-ই কাটে।"
+            "bn": "'উলায়িকা হুমুল মু'মিনূনা হাক্কা': তারাই প্রকৃত মুমিন। এরপর তিনটি প্রতিদান, আর প্রতিটিই ওপরে বর্ণিত জীবনের জবাব। 'দারাজাত', রবের কাছে উঁচু মর্যাদা, তাদের জন্য যারা তাঁকে সবকিছুর ওপরে রেখেছিল। 'মাগফিরাহ', ক্ষমা, তাদের জন্য যাদের ভয় তাদের কখনো ভাবতে দেয়নি যে কাজ শেষ হয়ে গেছে। আর 'রিযকুন কারীম', সম্মানজনক রিযিক, তাদের জন্য যারা নিজেদের রিযিক অন্যের হাতে তুলে দিয়েই গেছে। প্রতিদানগুলো নিছক তালিকা নয়, আয়না: পাঁচ চিহ্ন যা বুনেছিল, তিন প্রতিশ্রুতি সেটাই ঘরে তোলে।"
           }
         ]
       },
       {
         "h": {
           "en": "Running the Check",
-          "bn": "যাচাইটি চালানো"
+          "bn": "নিজেকে যাচাই করা"
         },
         "p": [
           {
             "en": "The passage invites self-measurement: which of these marks is weakest in me? The test is honest because its inputs are ordinary — the next mention of Allah heard, the next page recited, the next prayer time, the next payment due. Each is a probe returning a reading. And no mark is repaired by anxiety about it; each is repaired by its own practice — more attentive listening for the heart, punctuality for the prayer, a first small regular gift for the hand.",
-            "bn": "অনুচ্ছেদটি আত্মপরিমাপের আমন্ত্রণ জানায়: এই চিহ্নগুলোর কোনটি আমার মধ্যে সবচেয়ে দুর্বল? পরীক্ষাটি সৎ, কারণ এর উপকরণগুলো নিত্যদিনের — পরের বার আল্লাহর উল্লেখ শোনা, পরের পাতা তিলাওয়াত, পরের নামাযের ওয়াক্ত, পরের দেয় দান। প্রতিটিই একটি শলাকা, যা একটি পাঠ ফেরত দেয়। আর কোনো চিহ্নই তা নিয়ে দুশ্চিন্তায় মেরামত হয় না; প্রতিটি মেরামত হয় তার নিজের চর্চায় — হৃদয়ের জন্য আরও মনোযোগী শোনা, নামাযের জন্য সময়ানুবর্তিতা, হাতের জন্য প্রথম ছোট্ট নিয়মিত দান।"
+            "bn": "এ আয়াতগুলো নিজেকে মেপে দেখার দাওয়াত দেয়: এ চিহ্নগুলোর কোনটি আমার মধ্যে সবচেয়ে দুর্বল? পরীক্ষাটা খাঁটি, কারণ এর উপকরণগুলো প্রতিদিনের জিনিস: পরের বার আল্লাহর নাম শোনা, পরের পৃষ্ঠার তিলাওয়াত, পরের নামাজের ওয়াক্ত, পরের যে দান দেওয়ার সময় আসে। প্রতিটিই যেন একেকটা মাপকাঠি, যা আপনার অবস্থা জানিয়ে দেয়। আর কোনো চিহ্নই দুশ্চিন্তা করে ঠিক হয় না; প্রতিটি ঠিক হয় তার নিজের আমল দিয়ে: হৃদয়ের জন্য আরও মন দিয়ে শোনা, নামাজের জন্য সময় মেনে চলা, হাতের জন্য প্রথম ছোট্ট একটা নিয়মিত দান।"
           },
           {
             "en": "Begin where the verse begins. The inner marks lead, so the first repair is exposure: unhurried recitation, listened to as address rather than as background. Al-Bukhari relates that the Prophet ﷺ asked Ibn Mas'ud (RA) to recite the Quran to him, saying he loved to hear it from another, and at 4:41 his eyes flowed. A heart trained to be recited to is the root; the prayer, the giving and the reliance of 8:2-4 grow out of that listening.",
-            "bn": "শুরু করুন যেখানে আয়াত শুরু করে। ভেতরের চিহ্নগুলো আগে, তাই প্রথম মেরামত হলো সংস্পর্শ: তাড়াহুড়োহীন তিলাওয়াত — পটভূমির শব্দ নয়, সম্বোধন হিসেবে শোনা। বুখারী বর্ণনা করেন, নবী ﷺ ইবনে মাসউদ (রাঃ)-কে তাঁকে কুরআন পড়ে শোনাতে বলেছিলেন — বলেছিলেন, অন্যের কাছ থেকে শুনতে তিনি ভালোবাসেন — এবং 4:41 আয়াতে পৌঁছালে তাঁর দুচোখ বেয়ে অশ্রু নামে। যে হৃদয়কে তিলাওয়াত শোনানোর অভ্যাস করানো হয়েছে, সেটিই শিকড়; 8:2-4 আয়াতের নামায, দান ও ভরসা গজিয়ে ওঠে সেই শোনা থেকেই।"
+            "bn": "আয়াত যেখান থেকে শুরু করেছে, আপনিও সেখান থেকেই শুরু করুন। ভেতরের চিহ্নগুলো আগে, তাই প্রথম কাজ হলো নিয়মিত কুরআনের সামনে বসা: ধীরেসুস্থে তিলাওয়াত, আর তা শোনা পেছনের আওয়াজ হিসেবে নয়, নিজেকে বলা কথা হিসেবে। বুখারী বর্ণনা করেন, নবী ﷺ ইবনে মাসউদ (রাঃ)-কে কুরআন পড়ে শোনাতে বললেন, আর বললেন, অন্যের মুখে শুনতে তাঁর ভালো লাগে। ৪:৪১ আয়াতে পৌঁছাতেই তাঁর দুচোখ বেয়ে অশ্রু ঝরতে লাগল। যে হৃদয় তিলাওয়াত শুনতে অভ্যস্ত, সেটাই শিকড়। ৮:২-৪ আয়াতের নামাজ, দান আর ভরসা সেই শোনা থেকেই গজিয়ে ওঠে।"
           }
         ]
       }
@@ -221,7 +221,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The rain did several jobs at once, and the verse names them in order: it washed them, it took the evil of Satan from them, it bound their hearts, and it steadied their feet. One small mercy can be carrying four loads. That is worth turning into a habit at the end of a hard day: not a general thanks, but a list of what actually held you up, named one by one the way the verse names its four purposes.",
-            "bn": "বৃষ্টি একসাথে কয়েকটা কাজ করেছে, আর আয়াত সেগুলো ক্রমে নাম ধরে বলে: তাদের ধুয়ে দিল, শয়তানের কুপ্রভাব সরিয়ে দিল, দিল বেঁধে দিল আর পা মজবুত করল। ছোট একটা রহমত চারটে বোঝা একসাথে বইতে পারে। কঠিন কোনো দিনের শেষে এটাকে অভ্যাসে বদলে নেওয়া যায়: গোটাগুটি শুকরিয়া নয়, বরং আজ সত্যিই কী আপনাকে ধরে রেখেছিল তার তালিকা, আয়াত যেভাবে চারটি উদ্দেশ্য নাম ধরে বলে সেভাবে একটা একটা করে।"
+            "bn": "বৃষ্টি একসাথে কয়েকটা কাজ করেছে, আর আয়াত সেগুলো ক্রমে নাম ধরে বলে: তাদের ধুয়ে দিল, শয়তানের কুপ্রভাব সরিয়ে দিল, দিল বেঁধে দিল আর পা মজবুত করল। ছোট একটা রহমত চারটে বোঝা একসাথে বইতে পারে। কঠিন কোনো দিনের শেষে এটাকে অভ্যাসে বদলে নেওয়া যায়: ঢালাও শুকরিয়া নয়, বরং আজ সত্যিই কী আপনাকে ধরে রেখেছিল তার তালিকা, আয়াত যেভাবে চারটি উদ্দেশ্য নাম ধরে বলে সেভাবে একটা একটা করে।"
           },
           {
             "en": "The clause about the whisper is the most practical of the four. Some of what presses on a believer in a hard season is not a fact at all but a suggestion, and at Badr the suggestion attacked their standing with Allah: you claim to be His allies and here you are, praying in this state. The answer was not a debate. It was water, a wash, and a prayer at dawn. When a whisper goes for your standing, purify yourself and pray, and do not argue with it.",
@@ -293,7 +293,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The word that fixes the situation is zahfan. al-Qurtubi traces it: az-zahf is drawing near little by little, and its original sense is dragging oneself along on the ground, after which anyone walking in war toward another came to be called zahif. At-tazahuf is two sides approaching each other. at-Tabari glosses the word the same way, as some of you advancing toward others, and defines at-tazahuf as drawing close and coming near.",
-            "bn": "যে শব্দটি অবস্থা ঠিক করে দেয় সেটি যাহফান। কুরতুবী তার শিকড় দেখান: যাহফ মানে অল্প অল্প করে এগিয়ে আসা, আর মূল অর্থ মাটিতে নিজেকে টেনে টেনে চলা; এরপর থেকে যুদ্ধে একজনের দিকে হেঁটে আসা যে কাউকেই যাহিফ বলা হতে থাকে। তাযাহুফ মানে দুই পক্ষের পরস্পরের দিকে এগোনো। তাবারীও শব্দটির একই ব্যাখ্যা দেন, তোমাদের কেউ কারও দিকে এগিয়ে আসা, আর তাযাহুফের অর্থ বলেন কাছে আসা ও নিকটবর্তী হওয়া।"
+            "bn": "পরিস্থিতিটা যে শব্দ নির্দিষ্ট করে দেয়, তা হলো যাহফান। কুরতুবী শব্দটির শিকড় দেখান: যাহফ মানে অল্প অল্প করে এগিয়ে আসা, আর মূল অর্থ মাটিতে নিজেকে টেনে টেনে চলা; পরে যুদ্ধে প্রতিপক্ষের দিকে যে-ই হেঁটে এগোয়, তাকেই যাহিফ বলা হতে থাকে। তাযাহুফ মানে দুই পক্ষের পরস্পরের দিকে এগোনো। তাবারীও শব্দটির একই ব্যাখ্যা দেন, তোমাদের কেউ কারও দিকে এগিয়ে আসা, আর তাযাহুফের অর্থ বলেন কাছে আসা ও নিকটবর্তী হওয়া।"
           },
           {
             "en": "So the word narrows the verse to a moment. This is not any meeting with people who disbelieve; it is the point at which two lines are closing on one another. al-Qurtubi's own paraphrase makes it plain: when you have drawn near and come within sight of each other, do not flee from them and do not give them your backs. Take the word away and the prohibition would float free of the situation it was given for.",
@@ -301,7 +301,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The object of the prohibition is chosen as carefully. al-Qurtubi quotes Ibn Atiyyah, who notes that al-adbar is the plural of dubur and that naming the back in this verse is eloquently placed, because the word is ugly for the one who flees and carries blame against him. The Quran does not merely say do not flee. It names the part of a man that would be presented, which is why the phrase still stings when it is read aloud.",
-            "bn": "নিষেধের কর্মটিও সমান সতর্কতায় বাছা। কুরতুবী ইবনু আতিয়্যার কথা তুলে আনেন, যিনি বলেন আল-আদবার হল দুবুর শব্দের বহুবচন, আর এ আয়াতে পিঠের নাম নেওয়াটা ভাষার দিক থেকে ঠিক জায়গায় বসেছে; কারণ শব্দটা পলাতকের জন্য কুৎসিত আর তার প্রতি ভর্ৎসনা বহন করে। কুরআন কেবল বলে না যে পালাবে না। সে মানুষের শরীরের সেই অংশটার নাম নেয়, যা দেখানো হবে; আর তাই উচ্চস্বরে পড়লে কথাটা এখনো বেঁধে।"
+            "bn": "নিষেধে কোন শব্দ বসবে, তাও সমান যত্নে বাছা। কুরতুবী ইবনু আতিয়্যার কথা তুলে আনেন। তিনি বলেন, আল-আদবার হলো দুবুর শব্দের বহুবচন, আর এ আয়াতে পিঠের নাম নেওয়াটা ভাষার দিক থেকে একেবারে মোক্ষম জায়গায় বসেছে; কারণ শব্দটা পলাতকের জন্য লজ্জার, আর তাতে তার প্রতি তিরস্কার মিশে আছে। কুরআন শুধু 'পালিও না' বলে থেমে যায় না। পালানোর সময় মানুষ শরীরের যে অংশটা শত্রুর দিকে ফিরিয়ে দেয়, সেটারই নাম নেয়। তাই জোরে পড়লে কথাটা আজও গায়ে বিঁধে।"
           }
         ]
       },
@@ -349,15 +349,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fifty verses on, in the same surah, the numbers are set. 8:65 gives the first standard: twenty steadfast among you will overcome two hundred, and a hundred will overcome a thousand of those who disbelieve, because they are a people who do not understand. That is a ratio of ten to one, and it is stated as an instruction to urge the believers rather than as a description of what any group happens to feel capable of.",
-            "bn": "একই সূরায় আরও পঞ্চাশ আয়াত এগিয়ে গিয়ে সংখ্যাগুলো ঠিক করে দেওয়া হয়। ৮:৬৫ প্রথম মাপটা দেয়: তোমাদের মধ্যে কুড়িজন অবিচল থাকলে তারা দুইশ জনের উপর জয়ী হবে, আর একশ জন জয়ী হবে কাফিরদের এক হাজারের উপর, কারণ তারা এমন সম্প্রদায় যারা বোঝে না। অনুপাতটা দশে এক, আর কথাটা বলা হয়েছে মু'মিনদের উৎসাহ দেওয়ার নির্দেশ হিসেবে, কোনো দল নিজেকে কতটা সক্ষম মনে করে তার বর্ণনা হিসেবে নয়।"
+            "bn": "একই সূরায় আরও পঞ্চাশ আয়াত পরে সংখ্যাগুলো ঠিক করে দেওয়া হয়। ৮:৬৫ প্রথম মাপটা দেয়: তোমাদের মধ্যে কুড়িজন অবিচল থাকলে তারা দুইশ জনের উপর জয়ী হবে, আর একশ জন জয়ী হবে কাফিরদের এক হাজারের উপর, কারণ তারা এমন সম্প্রদায় যারা বোঝে না। অর্থাৎ একজনের বিপরীতে দশজন। আর কথাটা এসেছে মু'মিনদের উৎসাহ দেওয়ার নির্দেশ হিসেবে, কোনো দল নিজেকে কতটা সক্ষম মনে করে তার বর্ণনা হিসেবে নয়।"
           },
           {
             "en": "8:66 then lowers it. Now Allah has lightened it for you, and He knows that among you is weakness; so a hundred steadfast will overcome two hundred, and a thousand will overcome two thousand by the permission of Allah, and Allah is with the steadfast. al-Qurtubi calls this the verse of weakness, and it is the condition he attaches to 8:15. The prohibition on turning back is read against a stated ratio, not against any odds whatever.",
-            "bn": "এরপর ৮:৬৬ সেটা নামিয়ে আনে। এখন আল্লাহ তোমাদের ভার হালকা করেছেন, আর তিনি জানেন তোমাদের মধ্যে দুর্বলতা আছে; তাই একশ জন অবিচল থাকলে তারা দুইশ জনের উপর জয়ী হবে, আর এক হাজার আল্লাহর অনুমতিতে দুই হাজারের উপর জয়ী হবে; আর আল্লাহ অবিচলদের সাথেই আছেন। কুরতুবী এ আয়াতকে দুর্বলতার আয়াত বলেন, আর এটাই সেই শর্ত যা তিনি ৮:১৫ আয়াতের সাথে জুড়ে দেন। পিঠ ফেরানোর নিষেধ পড়া হয় একটা বলে দেওয়া অনুপাতের বিপরীতে, যেকোনো বৈষম্যের বিপরীতে নয়।"
+            "bn": "এরপর ৮:৬৬ সেটা নামিয়ে আনে। এখন আল্লাহ তোমাদের ভার হালকা করেছেন, আর তিনি জানেন তোমাদের মধ্যে দুর্বলতা আছে; তাই একশ জন অবিচল থাকলে তারা দুইশ জনের উপর জয়ী হবে, আর এক হাজার আল্লাহর অনুমতিতে দুই হাজারের উপর জয়ী হবে; আর আল্লাহ অবিচলদের সাথেই আছেন। কুরতুবী এ আয়াতকে দুর্বলতার আয়াত বলেন, আর এটাই সেই শর্ত যা তিনি ৮:১৫ আয়াতের সাথে জুড়ে দেন। তাই পিঠ না ফেরানোর নিষেধটা একটা বলে দেওয়া অনুপাতের সাথে বাঁধা; শত্রু যত বেশিই হোক তবু দাঁড়িয়ে থাকতে হবে, এমন নয়।"
           },
           {
             "en": "From that al-Qurtubi derives the working rule. Whoever flees from two is a fleer from the zahf; whoever flees from three is not, and the threat does not fall on him. On the view of the majority it is not lawful for a hundred to flee except from more than two hundred, and wherever more than two stand against one Muslim, withdrawal is permitted, though patience is better. He also records a minority, among them Ibn al-Majishun in al-Wadihah, who weigh equipment and strength rather than headcount alone.",
-            "bn": "এ থেকেই কুরতুবী কাজের নিয়মটা বের করেন। যে দুইজনের সামনে থেকে পালায় সে যাহফ থেকে পলাতক; যে তিনজনের সামনে থেকে পালায় সে নয়, আর তার উপর ধমকিটা পড়ে না। অধিকাংশের মতে একশ জনের পালানো বৈধ নয়, কেবল দুইশর বেশি সংখ্যার সামনে থেকে ছাড়া; আর একজন মুসলিমের বিপরীতে দুইয়ের বেশি দাঁড়ালে সরে আসা জায়েয, যদিও ধৈর্যই উত্তম। তিনি সংখ্যালঘু এক মতও লিখে রাখেন, যাঁদের মধ্যে আল-ওয়াদিহায় ইবনুল মাজিশূন; তাঁরা কেবল মাথা গোনার বদলে সরঞ্জাম আর শক্তির হিসাবও ধরেন।"
+            "bn": "এ থেকেই কুরতুবী কাজের নিয়মটা বের করেন। যে দুইজনের সামনে থেকে পালায় সে যাহফ থেকে পলাতক; যে তিনজনের সামনে থেকে পালায় সে নয়, আর তার উপর ধমকিটা পড়ে না। অধিকাংশের মতে একশ জনের পালানো বৈধ নয়, কেবল দুইশর বেশি সংখ্যার সামনে থেকে ছাড়া; আর একজন মুসলিমের বিপরীতে দুইয়ের বেশি দাঁড়ালে সরে আসা জায়েয, যদিও ধৈর্যই উত্তম। তিনি অল্প কয়েকজনের একটি মতও লিখে রাখেন; তাঁদের একজন ইবনুল মাজিশূন, আল-ওয়াদিহা গ্রন্থে। তাঁরা কেবল মাথা না গুনে সরঞ্জাম আর শক্তিও হিসাবে ধরেন।"
           }
         ]
       },
@@ -373,7 +373,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What does carry across is the thing the verse protects: the trust of a man who is standing where he agreed to stand, and who knows that others are counting on his standing there. as-Sa'di reads the prohibition as a command to a courage that comes from faith, and to seeking out the means that strengthen hearts and bodies, since standing firm is help given to the religion of Allah. 8:46 in this same surah shows the mechanism from the other end, quarrelling first and courage leaving afterwards, so unity and patience and discipline arrive as one package rather than three separate virtues.",
-            "bn": "যা সবসময়ের জন্য থেকে যায় তা হল আয়াত যা পাহারা দিচ্ছে: যে মানুষ দাঁড়াতে রাজি হয়েছিল সেখানেই দাঁড়িয়ে আছে তার আমানতদারি, আর সে জানে তার ওই দাঁড়িয়ে থাকার উপর আরও অনেকে ভরসা করছে। সা'দী এ নিষেধকে পড়েন ঈমান থেকে আসা সাহসের হুকুম হিসেবে, আর দিল ও শরীর মজবুত করে এমন উপায় খুঁজে নেওয়ার হুকুম হিসেবে; কারণ অবিচল থাকাটাই আল্লাহর দীনের সাহায্য। একই সূরার ৮:৪৬ আয়াত ব্যাপারটা অন্য প্রান্ত থেকে দেখায়, প্রথমে ঝগড়া আর তারপর সাহস চলে যাওয়া। ফলে ঐক্য, ধৈর্য আর শৃঙ্খলা তিনটি আলাদা গুণ হিসেবে আসে না, একসাথেই আসে।"
+            "bn": "সাধারণ পাঠকের জীবনেও যা খাটে, তা হলো সেই জিনিস যাকে এ আয়াত পাহারা দেয়: আমানত। একজন মানুষ যেখানে দাঁড়াবে বলে কথা দিয়েছিল, সেখানেই দাঁড়িয়ে আছে, আর জানে অন্যরা তার সেখানে থাকার উপর ভরসা করে আছে। সা'দী এ নিষেধকে পড়েন ঈমান থেকে আসা সাহসের হুকুম হিসেবে, আর দিল ও শরীর মজবুত করে এমন উপায় খুঁজে নেওয়ার হুকুম হিসেবে; কারণ অবিচল থাকাটাই আল্লাহর দীনের সাহায্য। একই সূরার ৮:৪৬ আয়াত ব্যাপারটা অন্য প্রান্ত থেকে দেখায়: আগে ঝগড়া, তারপর সাহস চলে যাওয়া। ফলে ঐক্য, ধৈর্য আর শৃঙ্খলা তিনটি আলাদা গুণ হিসেবে আসে না, একসাথেই আসে।"
           },
           {
             "en": "And notice that the two exceptions in 8:16 are not escapes. Swerving as a manoeuvre for the fighting, and moving to join another company: both of them leave a man facing the same fight, and both of them are about getting back into it. Where stepping back is allowed at all, it is a step toward the work and not away from it. A pause to regroup and a departure are two different acts, whatever a man tells himself.",
@@ -384,7 +384,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Du'a Against Turning Back",
-          "bn": "পিঠ না ফেরানোর প্রার্থনা"
+          "bn": "পিঠ না ফেরানোর দোয়া"
         },
         "p": [
           {
@@ -393,7 +393,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A supplication in this verse's own vocabulary, offered as words of your own and not as a narration, would run: O Allah, do not let me show my back to what You have put in front of me, and do not let me leave a place You stood me in. Make me firm where I am, and if I must move, let it be toward the work and not away from it. Allah is with the steadfast, as 8:66 ends.",
-            "bn": "এ আয়াতের নিজের শব্দভাণ্ডার দিয়ে গড়া একটা দোয়া, নিজের কথা হিসেবেই, কোনো বর্ণনা হিসেবে নয়, এমন দাঁড়াতে পারে: হে আল্লাহ, আপনি আমার সামনে যা রেখেছেন তার দিকে আমাকে পিঠ দেখাতে দেবেন না, আর আপনি যে জায়গায় আমাকে দাঁড় করিয়েছেন সে জায়গা ছাড়তে দেবেন না। যেখানে আছি সেখানেই আমাকে মজবুত রাখুন, আর সরতে হলে যেন কাজের দিকেই সরি, কাজ ছেড়ে নয়। ৮:৬৬ আয়াত যেভাবে শেষ হয়, আল্লাহ অবিচলদের সাথেই আছেন।"
+            "bn": "এ আয়াতের শব্দ দিয়েই একটা দোয়া করা যায়। বলবেন নিজের কথা হিসেবে, কোনো বর্ণিত দোয়া হিসেবে নয়: হে আল্লাহ, আপনি আমার সামনে যা রেখেছেন, তার দিকে আমাকে পিঠ দেখাতে দেবেন না; আর আপনি যেখানে আমাকে দাঁড় করিয়েছেন, সে জায়গা ছাড়তে দেবেন না। যেখানে আছি সেখানেই আমাকে মজবুত রাখুন; আর সরতে হলে যেন কাজের দিকেই সরি, কাজ ছেড়ে নয়। ৮:৬৬ আয়াত যেমন শেষ হয়: আল্লাহ অবিচলদের সাথেই আছেন।"
           }
         ]
       },
@@ -409,7 +409,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This verse comes with named exceptions rather than none at all. What does that tell you about how commands are given to people whom Allah knows to be weak, and does 8:66 change how you hear the demand in 8:15? And when you next read a ruling of the Quran that you are not in a position to be asked to carry out, what will you do with it?",
-            "bn": "এ আয়াতের সাথে ব্যতিক্রম বলে দেওয়া হয়েছে, একটাও রাখা হয়নি এমন নয়। আল্লাহ যাদের দুর্বলতা জানেন, তাদের কীভাবে হুকুম দেওয়া হয়, এ থেকে আপনি কী বুঝলেন? আর ৮:৬৬ আয়াত কি ৮:১৫ আয়াতের দাবিটা আপনার কানে বদলে দেয়? এরপর কুরআনের এমন কোনো হুকুম পড়লে, যা পালন করার অবস্থাতেই আপনি নেই, তা নিয়ে আপনি কী করবেন?"
+            "bn": "এ আয়াতে ব্যতিক্রম একেবারে নেই, তা নয়; দুটো ব্যতিক্রম নাম ধরে বলে দেওয়া আছে। আল্লাহ যাদের দুর্বলতা জানেন, তাদের তিনি কীভাবে হুকুম দেন, এ থেকে আপনি কী বোঝেন? ৮:৬৬ আয়াত পড়ার পর ৮:১৫ আয়াতের দাবিটা কি আপনার কানে অন্যভাবে বাজে? আর এরপর কুরআনের এমন কোনো হুকুম পড়লে, যা পালন করার অবস্থাতেই আপনি নেই, তা নিয়ে কী করবেন?"
           }
         ]
       }
@@ -429,7 +429,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The occasion is established and it is unusual, because the verse answers a prayer that the losing side had made. Ibn Kathir traces it through az-Zuhri from Abdullah ibn Tha'laba ibn Su'ayr: on the day of Badr Abu Jahl said, O Allah, whichever of us severed the ties of the womb and brought what is not known, destroy him this day. As-Suddi adds an earlier scene. Before leaving Makkah the idolaters held the coverings of the Ka'ba and asked Allah to give victory to the mightier of the two armies.",
-            "bn": "এ আয়াতের শানে নুযূল প্রতিষ্ঠিত, আর ব্যাপারটা অন্যরকম, কারণ আয়াতটি জবাব দিচ্ছে পরাজিত পক্ষেরই এক দোয়ার। ইবনু কাসীর এর সূত্র টানেন যুহরী থেকে, আবদুল্লাহ ইবনু সা'লাবা ইবনু সুআইর থেকে: বদরের দিন আবূ জাহল বলেছিল, হে আল্লাহ, আমাদের মধ্যে যে আত্মীয়তার বন্ধন ছিঁড়েছে আর অচেনা জিনিস নিয়ে এসেছে, আজ তাকেই ধ্বংস করুন। সুদ্দী এর আগের আরেকটি দৃশ্য যোগ করেন। মক্কা ছাড়ার আগে মুশরিকরা কা'বার গিলাফ ধরে আল্লাহর কাছে চেয়েছিল, দুই বাহিনীর মধ্যে যেটি বেশি শক্তিশালী আর দুই দলের মধ্যে যেটি বেশি সম্মানিত, তাকেই জয় দিন।"
+            "bn": "এ আয়াতের শানে নুযূল প্রমাণিত, আর ব্যাপারটা একটু অন্যরকম: আয়াতটি জবাব দিচ্ছে পরাজিত পক্ষেরই করা এক দোয়ার। ইবনু কাসীর এর সূত্র টানেন যুহরী থেকে, আবদুল্লাহ ইবনু সা'লাবা ইবনু সুআইর থেকে: বদরের দিন আবূ জাহল বলেছিল, হে আল্লাহ, আমাদের মধ্যে যে আত্মীয়তার বন্ধন ছিঁড়েছে আর অচেনা জিনিস নিয়ে এসেছে, আজ তাকেই ধ্বংস করুন। সুদ্দী এর আগের আরেকটি দৃশ্য যোগ করেন। মক্কা ছাড়ার আগে মুশরিকরা কা'বার গিলাফ ধরে আল্লাহর কাছে চেয়েছিল, দুই বাহিনীর মধ্যে যেটি বেশি শক্তিশালী, তাকেই জয় দিন।"
           },
           {
             "en": "Al-Qurtubi records both accounts and declines to choose between them, writing that there is no contradiction, since they may have done both. That is the state of the evidence and this article leaves it there. What matters for reading the verse is the shape of what they asked for. It was not a request for their own side to win. It was a request for judgment, staked on the confidence that the other man was the wrongdoer and that heaven would say so.",
@@ -485,7 +485,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The four tafsirs consulted for this verse attach no saying of the Prophet ﷺ to it, and that is worth stating rather than filling with something borrowed. What they do attach is a report about a man's speech. Ibn Kathir names the chain, Ibn Ishaq and others through az-Zuhri from Abdullah ibn Tha'laba ibn Su'ayr, and then says where it is collected: Imam Ahmad recorded it in his Musnad, an-Nasa'i in the tafsir section of his Sunan, and al-Hakim brought it in the Mustadrak.",
-            "bn": "এ আয়াতের জন্য দেখা চারটি তাফসীরের কোনোটি এ আয়াতের সঙ্গে নবীর ﷺ কোনো বাণী জুড়ে দেয় না। কথাটা বলে দেওয়াই ভালো, বাইরে থেকে কিছু এনে জায়গা ভরাটের চেয়ে। তারা যা জোড়েন তা একজন মানুষের কথার বর্ণনা। ইবনু কাসীর সনদটি বলে দেন, ইবনু ইসহাক ও অন্যরা যুহরী থেকে, আবদুল্লাহ ইবনু সা'লাবা ইবনু সুআইর থেকে। তারপর কোথায় এটি সংকলিত তাও বলেন: ইমাম আহমাদ নিজের মুসনাদে, নাসাঈ নিজের সুনানের তাফসীর অংশে, আর হাকিম তাঁর মুসতাদরাকে।"
+            "bn": "এ আয়াতের জন্য যে চারটি তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবীর ﷺ কোনো বাণী জুড়ে দেয়নি। বাইরে থেকে কিছু ধার করে ফাঁক ভরানোর চেয়ে কথাটা খোলাখুলি বলে দেওয়াই ভালো। তাঁরা যা জুড়ে দেন, তা একজন মানুষের কথার বর্ণনা। ইবনু কাসীর সনদটি বলে দেন: ইবনু ইসহাক ও অন্যরা যুহরী থেকে, আবদুল্লাহ ইবনু সা'লাবা ইবনু সুআইর থেকে। তারপর জানান কোথায় এটি সংকলিত: ইমাম আহমাদ তাঁর মুসনাদে, নাসাঈ তাঁর সুনানের তাফসীর অংশে, আর হাকিম তাঁর মুসতাদরাকে।"
           },
           {
             "en": "Al-Hakim's verdict is worth quoting as his own and not as anyone else's: sahih by the criteria of the two Shaykhs, though the two of them did not record it. That second half is the part a reader should keep, because it says exactly where the report stands. It is in neither Sahih, it is graded by a later collector, and what it preserves is not a ruling or a promise but the sentence a man shouted in a battle line. The weight of the verse does not rest on it.",
@@ -501,15 +501,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "8:32 belongs beside this verse and the commentators put it there. It records another of their prayers: O Allah, if this should be the truth from You, then rain down upon us stones from the sky. Set next to our verse it turns an incident into a habit, a settled readiness to dare Allah to close the matter. 8:36 shows the same confidence spent in another currency, wealth poured out to turn people from the way of Allah, and ending in regret.",
-            "bn": "৮:৩২ আয়াত এ আয়াতের পাশেই বসে, আর মুফাসসিরগণ সেখানেই বসিয়েছেন। ওটি তাদের আরেকটি দোয়া লিখে রাখে: হে আল্লাহ, এটা যদি তোমার কাছ থেকে আসা সত্য হয়, তবে আমাদের উপর আসমান থেকে পাথর বর্ষণ কর। আমাদের আয়াতের পাশে রাখলে এটা একটা ঘটনাকে স্বভাবে বদলে দেয়, আল্লাহকে চ্যালেঞ্জ করে বিষয়টা মিটিয়ে ফেলতে বলার এক পাকা অভ্যাসে। ৮:৩৬ আয়াত সেই একই আত্মবিশ্বাস দেখায় অন্য মুদ্রায় খরচ হতে, আল্লাহর পথ থেকে লোক ফেরাতে ঢালা সম্পদ, যার শেষ আফসোসে।"
+            "bn": "৮:৩২ আয়াতের জায়গা এ আয়াতের পাশেই, আর মুফাসসিরগণ সেখানেই রেখেছেন। সেখানে তাদের আরেকটি দোয়ার কথা আছে: হে আল্লাহ, এটা যদি আপনার কাছ থেকে আসা সত্য হয়, তবে আমাদের উপর আসমান থেকে পাথর বর্ষণ করুন। আমাদের আয়াতের পাশে রাখলে বোঝা যায়, এটা একবারের ঘটনা ছিল না, ছিল তাদের স্বভাব: আল্লাহকে চ্যালেঞ্জ করে বিষয়টা মিটিয়ে ফেলতে বলার পাকা অভ্যাস। ৮:৩৬ আয়াত দেখায়, সেই একই আত্মবিশ্বাস তারা অন্যভাবেও খরচ করেছে: আল্লাহর পথ থেকে মানুষ ফেরাতে সম্পদ ঢেলেছে, আর শেষে পেয়েছে আফসোস।"
           },
           {
             "en": "17:8 carries the same clause almost word for word, spoken about the Children of Israel: but if you return, We will return. That makes the sentence a standing rule rather than a threat aimed at Quraysh alone. 9:25 is the sharpest of the sisters, because it turns the warning toward the believers themselves: on the day of Hunayn your great numbers pleased you, and they did not avail you at all. The verb about availing is the one our verse uses.",
-            "bn": "১৭:৮ আয়াত প্রায় হুবহু একই কথা বহন করে, তবে বলা হয়েছে বানী ইসরাঈল সম্পর্কে: তোমরা যদি আবার কর, আমিও আবার করব। এতে বাক্যটি কুরাইশের দিকে ছোঁড়া কোনো হুমকি না থেকে দাঁড়িয়ে যাওয়া নিয়মে পরিণত হয়। বোনদের মধ্যে সবচেয়ে ধারালো ৯:২৫ আয়াত, কারণ ওটি হুঁশিয়ারিটা মু'মিনদের নিজেদের দিকেই ঘুরিয়ে দেয়: হুনায়নের দিন তোমাদের সংখ্যাধিক্য তোমাদের মাতোয়ারা করেছিল, আর তা তোমাদের কোনো কাজেই আসেনি। কাজে আসা নিয়ে যে ক্রিয়া, আমাদের আয়াতও সেটাই ব্যবহার করে।"
+            "bn": "১৭:৮ আয়াতে প্রায় হুবহু একই কথা আছে, তবে বলা হয়েছে বানী ইসরাঈল সম্পর্কে: তোমরা যদি আবার কর, আমিও আবার করব। ফলে বাক্যটি শুধু কুরাইশকে লক্ষ্য করে দেওয়া হুমকি থাকে না, হয়ে যায় একটা স্থায়ী নিয়ম। এ ধরনের আয়াতগুলোর মধ্যে সবচেয়ে ধারালো ৯:২৫, কারণ সেখানে হুঁশিয়ারিটা মু'মিনদের নিজেদের দিকেই ঘুরে যায়: হুনায়নের দিন তোমাদের সংখ্যাধিক্য তোমাদের মুগ্ধ করেছিল, অথচ তা তোমাদের কোনো কাজেই আসেনি। 'কাজে আসা' বোঝাতে সেখানে যে ক্রিয়া, আমাদের আয়াতেও সেটাই।"
           },
           {
             "en": "8:12 supplies the closing clause from the other side, where Allah tells the angels I am with you, so strengthen those who have believed; al-Qurtubi's reading with a fatha ties our clause into that neighbourhood. 3:13 stands a little further off and looks back at the same field, calling the two armies a sign for those with eyes, one fighting in the cause of Allah and the other of disbelievers, with the count looking one way and the outcome going the other.",
-            "bn": "৮:১২ আয়াত শেষ অংশটাকে অন্য দিক থেকে ধরিয়ে দেয়। সেখানে আল্লাহ ফেরেশতাদের বলেন, আমি তোমাদের সঙ্গে আছি, সুতরাং মু'মিনদের দৃঢ় রাখ। কুরতুবীর যবরসহ পাঠ আমাদের অংশটিকে ওই পাড়ার সঙ্গেই বেঁধে দেয়। ৩:১৩ আয়াত একটু দূরে দাঁড়িয়ে একই মাঠের দিকে ফিরে তাকায়, আর দুই বাহিনীকে বলে চোখ আছে যাদের তাদের জন্য নিদর্শন, এক দল লড়ছে আল্লাহর পথে আর অন্য দল কুফরের পথে, যেখানে সংখ্যা এক কথা বলে আর ফলাফল যায় উল্টো দিকে।"
+            "bn": "৮:১২ আয়াত শেষ অংশটাকে অন্য দিক থেকে পূর্ণ করে। সেখানে আল্লাহ ফেরেশতাদের বলেন, আমি তোমাদের সঙ্গে আছি, সুতরাং মু'মিনদের দৃঢ় রাখ। কুরতুবীর যবরসহ পাঠ আমাদের অংশটিকে আশপাশের ওই আয়াতগুলোর সঙ্গেই বেঁধে দেয়। ৩:১৩ আয়াত একটু দূরে দাঁড়িয়ে একই রণক্ষেত্রের দিকে ফিরে তাকায়। সেখানে দুই বাহিনীকে বলা হয়েছে চোখওয়ালাদের জন্য নিদর্শন: এক দল লড়ছে আল্লাহর পথে, অন্য দল কাফির। সংখ্যা দেখে মনে হয় এক রকম, আর ফল হয় উল্টো।"
           }
         ]
       },
@@ -525,7 +525,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second is the door standing in the middle of the verse. And if you desist, it is best for you, spoken to men who had just been beaten in the field, and worded as their benefit rather than as terms handed to a loser. The Quran does not close the account here. It names an exit and recommends it in the same breath as the warning. Anyone carrying a grievance against people who tried to harm them has a model in that clause.",
-            "bn": "দ্বিতীয়টি আয়াতের মাঝখানে দাঁড়িয়ে থাকা দরজা। আর যদি তোমরা বিরত হও, তবে তা তোমাদের জন্যই ভালো। কথাটা বলা হচ্ছে সদ্য মাঠে মার খাওয়া লোকদের, আর বলা হচ্ছে তাদের লাভ হিসেবে, পরাজিতের হাতে ধরিয়ে দেওয়া শর্ত হিসেবে নয়। কুরআন এখানে হিসাব বন্ধ করে দেয় না। হুঁশিয়ারির সঙ্গে একই শ্বাসে সে বেরিয়ে আসার পথ দেখায় আর সেটারই পরামর্শ দেয়। যারা তার ক্ষতি করতে চেয়েছিল তাদের বিরুদ্ধে মনে ক্ষোভ পুষে রাখা যে কারও জন্য এ অংশে একটা নমুনা আছে, আর সেটা দেখতে যতটা সহজ লাগে, করতে ততটা নয়।"
+            "bn": "দ্বিতীয়টি আয়াতের মাঝখানে দাঁড়িয়ে থাকা দরজা। আর যদি তোমরা বিরত হও, তবে তা তোমাদের জন্যই ভালো। কথাটা বলা হচ্ছে সদ্য মাঠে মার খাওয়া লোকদের, আর বলা হচ্ছে তাদের লাভ হিসেবে, পরাজিতের হাতে ধরিয়ে দেওয়া শর্ত হিসেবে নয়। কুরআন এখানে হিসাব বন্ধ করে দেয় না। হুঁশিয়ারির সঙ্গে একই শ্বাসে সে বেরিয়ে আসার পথ দেখায় আর সেটারই পরামর্শ দেয়। যারা ক্ষতি করতে চেয়েছিল, তাদের বিরুদ্ধে মনে ক্ষোভ পুষে রাখা যে কারও জন্য এ অংশে একটা নমুনা আছে।"
           },
           {
             "en": "The third comes from as-Sa'di and it changes how the last clause is heard. Whoever has Allah with him is the one given victory, he writes, even if he is weak and few in number; then he adds that this accompaniment is according to the deeds of faith the believers actually carry out. So when an enemy prevails over them at some times, that is from their own shortcoming and not a failure in the promise. Read that way the clause is a standard to be met rather than a guarantee to be held.",
