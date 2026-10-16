@@ -2197,23 +2197,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two things in the verse move it. Belief in Allah and the Last Day is named before the reckoning of the spending, so a man who cannot feel his giving as nearness is usually short on the hereafter rather than on generosity. And these men wanted somebody's du'a over what they handed over. Naming the amount before the month begins rather than at the end, giving part of it where nobody whose opinion matters will hear, and then refusing to revisit the figure, are the ordinary forms of the same reckoning.",
-            "bn": "আয়াতের ভেতরে ২ জিনিস এই হিসাব নাড়ায়। খরচের হিসাবের আগে বলা হয়েছে আল্লাহ ও শেষ দিনে ঈমানের কথা। তাই যে মানুষ নিজের দানকে নৈকট্য বলে অনুভব করতে পারে না, তার ঘাটতি সাধারণত দানশীলতায় নয়, আখিরাতে। আর এই লোকেরা নিজেদের দেওয়া জিনিসের উপর কারও দু'আ চেয়েছিল। মাস শেষ হওয়ার পরে নয়, মাস শুরুর আগে অঙ্কটা ঠিক করে ফেলা, তার কিছু অংশ এমন জায়গায় দেওয়া যেখানে আপনার কাছে দামি কেউ শুনবে না, আর দেওয়ার পর অঙ্কটা নিয়ে আর ফিরে না তাকানো, এই একই হিসাবের সাধারণ চেহারা।"
+            "bn": "আয়াতের দুটি কথা এই হিসাবকে নাড়া দেয়। খরচের হিসাবের আগেই আয়াত আল্লাহ ও শেষ দিনের উপর ঈমানের কথা বলেছে। তাই কেউ যদি নিজের দানকে আল্লাহর নৈকট্য হিসেবে অনুভব করতে না পারে, তার ঘাটতি সাধারণত দানশীলতায় নয়, আখিরাতের বিশ্বাসে। আর এই লোকেরা চেয়েছিল, তাদের দেওয়া জিনিসের উপর কেউ দু'আ করুক। মাস শেষে নয়, মাস শুরুর আগেই অঙ্কটা ঠিক করে ফেলা; তার কিছু অংশ এমনভাবে দেওয়া, যাতে যাদের মতামত আপনার কাছে দামি তাদের কেউ টের না পায়; আর দেওয়ার পর অঙ্কটা নিয়ে আর ফিরে না ভাবা: এগুলোই এই একই হিসাবের রোজকার চেহারা।"
           }
         ]
       },
       {
         "h": {
           "en": "Asking Him to Confirm It",
-          "bn": "আপনার দানের উপর দু'আ"
+          "bn": "কবুলের জন্য তাঁর কাছে চাওয়া"
         },
         "p": [
           {
             "en": "The verse is a statement rather than a supplication, but what it confirms is exactly what a giver wants confirmed, and the Quran supplies the asking. 2:127 has Ibrahim (AS) and Ismail (AS) raising the foundations of the House and saying, our Lord, accept from us, indeed You are the Hearing, the Knowing. It is the shortest request a person can make over work his own hands have already finished, and it asks for the one thing no amount of effort can secure by itself.",
-            "bn": "আয়াতটি দু'আ নয়, ঘোষণা। তবু যে জিনিসটা সে কবুল বলে জানিয়ে দেয়, দাতা ঠিক সেটাই চায়, আর চাওয়ার ভাষাটাও কুরআন দিয়ে দিয়েছে। ২:১২৭ আয়াতে ইবরাহীম (আঃ) আর ইসমাঈল (আঃ) কাবার ভিত তুলতে তুলতে বলছেন, হে আমাদের রব, আমাদের পক্ষ থেকে কবুল করো, নিশ্চয়ই তুমি সর্বশ্রোতা ও সর্বজ্ঞ। নিজের হাতে শেষ করা কাজের উপর এর চেয়ে ছোট আবেদন আর নেই, আর এতে চাওয়া হচ্ছে সেই একটি জিনিস, যা কেবল পরিশ্রম দিয়ে কেউ নিশ্চিত করতে পারে না।"
+            "bn": "আয়াতটি দু'আ নয়, ঘোষণা। তবু আয়াত যে কথাটা নিশ্চিত করে দেয়, একজন দাতা ঠিক সেটাই নিশ্চিত হতে চান। আর চাওয়ার ভাষাটা কুরআনই শিখিয়ে দিয়েছে। ২:১২৭ আয়াতে ইবরাহীম (আঃ) আর ইসমাঈল (আঃ) কাবার ভিত তুলছেন আর বলছেন: হে আমাদের রব, আমাদের পক্ষ থেকে কবুল করুন, নিশ্চয়ই আপনি সব শোনেন, সব জানেন। নিজের হাতে শেষ করা কাজের উপর মানুষ এর চেয়ে ছোট আবেদন করতে পারে না। আর এতে চাওয়া হয় সেই একটি জিনিস, যা শুধু খেটে কেউ নিশ্চিত করতে পারে না।"
           },
           {
             "en": "A supplication in the verse's own words can be added, claiming no more than that: O Allah, make what leaves my hand a nearness to You and not a loss against me, and admit me into Your mercy. It is assembled from qurubat, from the fine of the verse before, and from this verse's closing clause, and it is not a Sunnah du'a. The invocations these men wanted came from the Prophet ﷺ himself, and 9:103 names who was commanded to give them; a reader's part is to ask upright people to pray for him.",
-            "bn": "আয়াতের নিজের শব্দ দিয়ে একটা দু'আ বানিয়ে নেওয়া যায়, আর তার দাবি এর বেশি কিছু নয়। হে আল্লাহ, আমার হাত থেকে যা বেরোয় তাকে তোমার নৈকট্য বানাও, আমার বিরুদ্ধে জরিমানা বানিও না, আর আমাকে তোমার রহমতের ভেতরে ঢুকিয়ে নাও। এটি গড়া হয়েছে কুরুবাত থেকে, আগের আয়াতের জরিমানা থেকে আর এই আয়াতের শেষ বাক্য থেকে, আর এটি সুন্নাহর দু'আ নয়। এই লোকেরা যে দু'আ চেয়েছিল তা ছিল নবীর ﷺ নিজের দু'আ, আর ৯:১০৩ আয়াত বলে দেয় সেটা দেওয়ার হুকুম কাকে হয়েছিল। পাঠকের জন্য যা থাকে তা হল নেককার মানুষদের কাছে দু'আ চাওয়া।"
+            "bn": "আয়াতের নিজের শব্দ দিয়ে একটা দু'আ বানিয়ে নেওয়া যায়, তবে এর বেশি কোনো দাবি তার নেই: হে আল্লাহ, আমার হাত থেকে যা যায় তাকে আপনার নৈকট্যের উপায় বানিয়ে দিন, আমার বিরুদ্ধে জরিমানা বানাবেন না, আর আমাকে আপনার রহমতের ভেতরে প্রবেশ করান। শব্দগুলো নেওয়া হয়েছে কুরুবাত থেকে, আগের আয়াতের জরিমানা থেকে আর এই আয়াতের শেষ বাক্য থেকে। এটি সুন্নাহর কোনো দু'আ নয়। এই লোকেরা যে দু'আ চেয়েছিল, তা করতেন নবী ﷺ নিজে; আর সেই দু'আ করার হুকুম কাকে দেওয়া হয়েছিল, ৯:১০৩ আয়াত তা বলে দিয়েছে। পাঠকের কাজ হলো নেককার মানুষদের কাছে নিজের জন্য দু'আ চাওয়া।"
           }
         ]
       },
@@ -2225,11 +2225,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "When something leaves my hand this week, which of the two verses is describing me, and could I tell the difference from the inside? The verse names belief in the Last Day before it names the spending, so how much of my own giving is arranged so that somebody in this world will notice it? And these men wanted a du'a said over what they gave: whose du'a would I want, and have I ever actually asked for it?",
-            "bn": "এই সপ্তাহে যখন আমার হাত থেকে কিছু বেরিয়ে যাবে, এই ২ আয়াতের কোনটা তখন আমার কথা বলছে, আর ভেতর থেকে আমি কি তফাতটা ধরতে পারব? আয়াত খরচের কথা বলার আগে শেষ দিনে ঈমানের কথা বলে, তাহলে আমার দান কতটা এমনভাবে সাজানো যাতে দুনিয়ার কেউ তা দেখে ফেলে? আর এই লোকেরা নিজেদের দানের উপর দু'আ চেয়েছিল, আমি কার দু'আ চাইব, আর কখনো কি সত্যিই কারও কাছে চেয়েছি?"
+            "bn": "এই সপ্তাহে যখন আমার হাত থেকে কিছু যাবে, দুই আয়াতের কোনটা তখন আমার কথা বলবে? আর ভেতর থেকে আমি কি তফাতটা টের পাব? আয়াত খরচের কথার আগে শেষ দিনের উপর ঈমানের কথা বলেছে। তাহলে আমার দানের কতটা এমনভাবে সাজানো, যাতে দুনিয়ার কারও চোখে পড়ে? আর এই লোকেরা নিজেদের দানের উপর দু'আ চেয়েছিল। আমি কার দু'আ চাইতাম, আর সত্যিই কি কখনো চেয়েছি?"
           },
           {
             "en": "Two more. Allah confirmed their accounting out loud instead of leaving it to them, so which part of my own accounting am I quietly hoping He will confirm, and what part would I rather He did not look at? And the blame in the verses just before fell on leaving His commands rather than on where anybody happened to live: what am I putting down to my circumstances that really belongs to my own choices?",
-            "bn": "আরও ২টি প্রশ্ন। তাদের হিসাবটা আল্লাহ তাদের হাতে ছেড়ে না দিয়ে নিজে মুখে কবুল বলে জানিয়ে দিলেন। তাহলে আমার হিসাবের কোন অংশটা তিনি কবুল করবেন বলে আমি চুপচাপ আশা করি, আর কোন অংশটার দিকে তিনি না তাকালেই আমি খুশি হতাম? আর ঠিক আগের আয়াতগুলোর দোষারোপ পড়েছিল আল্লাহর হুকুম ছেড়ে দেওয়ার উপর, কেউ কোথায় থাকে তার উপর নয়। আমি কোন জিনিসটা পরিস্থিতির ঘাড়ে চাপাই, যা আসলে আমার নিজের বাছাই?"
+            "bn": "আরও দুটি প্রশ্ন। আল্লাহ তাদের হিসাবটা তাদের উপর ছেড়ে দেননি, নিজেই প্রকাশ্যে কবুলের কথা জানিয়ে দিয়েছেন। তাহলে আমার হিসাবের কোন অংশটা তিনি কবুল করবেন বলে আমি মনে মনে আশা করি, আর কোন অংশের দিকে তিনি না তাকালেই আমি খুশি হতাম? আর ঠিক আগের আয়াতগুলোতে দোষ পড়েছিল আল্লাহর হুকুম ছেড়ে দেওয়ার উপর, কে কোথায় থাকে তার উপর নয়। আমি কোন জিনিসটা পরিস্থিতির ঘাড়ে চাপাই, যা আসলে আমার নিজেরই বাছাই?"
           }
         ]
       }
@@ -2240,48 +2240,48 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Command After Repentance",
-          "bn": "তাওবার পরে একটি নির্দেশ"
+          "bn": "তওবার পরেই হুকুম"
         },
         "p": [
           {
             "en": "The verse stands near the end of a passage in Surah at-Tawbah about people whose record was mixed. In 9:102 the Quran describes those who confessed their sins, having mixed a righteous deed with a bad one. In 9:103 the Prophet ﷺ is told to take charity from their wealth to purify and cleanse them. In 9:104 they are assured that Allah Himself accepts repentance from His servants. Then comes this verse, opening with a single imperative: say, work.",
-            "bn": "আয়াতটি সূরা আত-তাওবার এমন এক অনুচ্ছেদের শেষ দিকে অবস্থিত, যেখানে মিশ্র আমলনামার মানুষদের কথা বলা হয়েছে। 9:102 আয়াতে কুরআন তাদের বর্ণনা দেয় যারা নিজেদের গুনাহ স্বীকার করেছিল — তারা সৎকাজের সঙ্গে মন্দ কাজ মিশিয়ে ফেলেছিল। 9:103 আয়াতে নবী ﷺ-কে বলা হয় তাদের সম্পদ থেকে সদাকাহ নিতে, যা তাদের পবিত্র ও পরিশুদ্ধ করবে। 9:104 আয়াতে তাদের আশ্বস্ত করা হয় যে আল্লাহ নিজেই তাঁর বান্দাদের তাওবা কবুল করেন। এরপর আসে এই আয়াত, যার শুরুতেই একটি একক আদেশ: বলুন, কাজ করো।"
+            "bn": "আয়াতটি সূরা আত-তাওবার এমন এক অংশের শেষ দিকে, যেখানে কথা চলছে মিশ্র আমলের মানুষদের নিয়ে। ৯:১০২ আয়াতে কুরআন বলছে তাদের কথা, যারা নিজেদের গুনাহ স্বীকার করেছিল; তারা ভালো আমলের সঙ্গে মন্দ আমল মিশিয়ে ফেলেছিল। ৯:১০৩ আয়াতে নবী ﷺ-কে বলা হয়েছে তাদের সম্পদ থেকে সদকা নিতে, যা তাদের পবিত্র ও পরিশুদ্ধ করবে। ৯:১০৪ আয়াত তাদের আশ্বাস দেয়, আল্লাহ নিজেই তাঁর বান্দাদের তওবা কবুল করেন। তারপর আসে এই আয়াত, শুরুতেই একটিমাত্র হুকুম: বলুন, কাজ করো।"
           },
           {
             "en": "The order matters. Repentance in this passage is not left as a mood; it is followed immediately by a command to act. The mufassirun read the sequence as a map for anyone returning to Allah after failure: confess, give, and then get up and work. A person who has slipped is not told to sit still and grieve without end. The proof that the return was real is the deed that comes after it, and the verse hurries the repentant straight into that deed.",
-            "bn": "এই ক্রমটি গুরুত্বপূর্ণ। এই অনুচ্ছেদে তাওবাকে কেবল একটি মনের অবস্থা হিসেবে ছেড়ে দেওয়া হয়নি; এর ঠিক পরেই আসে কাজের নির্দেশ। মুফাসসিরগণ এই ধারাবাহিকতাকে ব্যর্থতার পর আল্লাহর দিকে ফিরে আসা প্রত্যেক মানুষের জন্য একটি মানচিত্র হিসেবে পড়েন: স্বীকার করো, দান করো, তারপর উঠে দাঁড়াও ও কাজ করো। যে পা পিছলে পড়েছে, তাকে অনন্তকাল বসে শোক করতে বলা হয়নি। ফিরে আসা যে সত্যি ছিল তার প্রমাণ হলো এর পরের আমল, আর আয়াতটি তাওবাকারীকে দ্রুত সেই আমলের দিকেই ঠেলে দেয়।"
+            "bn": "ক্রমটা গুরুত্বপূর্ণ। এখানে তওবাকে শুধু মনের একটা অবস্থা হিসেবে ফেলে রাখা হয়নি; ঠিক পরেই এসেছে কাজের হুকুম। মুফাসসিরগণ এই ধারাকে পড়েন পথের নকশা হিসেবে, ব্যর্থ হয়ে যে-ই আল্লাহর দিকে ফেরে তার জন্য: স্বীকার করো, দান করো, তারপর উঠে দাঁড়িয়ে কাজে লাগো। যার পা পিছলে গেছে, তাকে বলা হয়নি চুপচাপ বসে অন্তহীন শোক করতে। ফেরাটা যে খাঁটি ছিল, তার প্রমাণ পরের আমল। আর আয়াতটি তওবাকারীকে দেরি না করে সোজা সেই আমলের দিকেই পাঠিয়ে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Three Who Will See",
-          "bn": "তিনজন যাঁরা দেখবেন"
+          "bn": "যে তিনজন দেখবেন"
         },
         "p": [
           {
             "en": "The wording is precise. I'malu is an imperative verb in the plural: work, all of you. Then fa-sayara Allahu 'amalakum, so Allah will surely see your work — a future-tense verb whose sa- prefix carries assurance, not mere possibility. Two more witnesses are then named after Him: His Messenger ﷺ and the believers. Three audiences in all, listed in descending rank, and the seeing is promised before the deed is even finished.",
-            "bn": "শব্দচয়ন এখানে সুনির্দিষ্ট। ই'মালূ একটি বহুবচন আদেশসূচক ক্রিয়া: তোমরা সবাই কাজ করো। তারপর ফাসাইয়ারাল্লাহু 'আমালাকুম — আল্লাহ অবশ্যই তোমাদের কাজ দেখবেন — একটি ভবিষ্যৎকালের ক্রিয়া, যার সা- উপসর্গ নিছক সম্ভাবনা নয়, নিশ্চয়তা বহন করে। এরপর তাঁর পরে আরও দুইজন সাক্ষীর নাম আসে: তাঁর রাসূল ﷺ এবং মুমিনগণ। মোট তিনটি দর্শক, মর্যাদার ক্রমানুসারে সাজানো, আর কাজ শেষ হওয়ার আগেই দেখার প্রতিশ্রুতি দেওয়া হয়ে গেছে।"
+            "bn": "শব্দগুলো খুব মাপা। ই'মালূ বহুবচনে আদেশের ক্রিয়া: তোমরা সবাই কাজ করো। তারপর ফাসাইয়ারাল্লাহু 'আমালাকুম, আল্লাহ অবশ্যই তোমাদের কাজ দেখবেন। ক্রিয়াটি ভবিষ্যৎকালের, আর এর সা- উপসর্গ নিছক সম্ভাবনা নয়, নিশ্চয়তা বোঝায়। এরপর তাঁর পরে আরও দুই সাক্ষীর নাম আসে: তাঁর রাসূল ﷺ আর মুমিনরা। সব মিলিয়ে তিন দর্শক, মর্যাদার ক্রমে সাজানো। আর কাজ শেষ হওয়ার আগেই দেখার কথা দেওয়া হয়ে গেছে।"
           },
           {
             "en": "The commentators take the mention of the Messenger ﷺ and the believers as encouragement and warning at once. A deed done well earns the recognition of the truthful in this world, and a deed done badly forfeits it. What the verse rules out completely is the fantasy of a deed that lands nowhere — an effort unseen, a wrong unnoticed, a kindness wasted. Nothing sincere is lost, and nothing shameful is as private as it feels.",
-            "bn": "মুফাসসিরগণ রাসূল ﷺ ও মুমিনদের উল্লেখকে একইসঙ্গে উৎসাহ ও সতর্কবার্তা হিসেবে নেন। ভালোভাবে করা কাজ দুনিয়াতেই সত্যবাদীদের স্বীকৃতি অর্জন করে, আর মন্দভাবে করা কাজ তা হারায়। আয়াতটি যে কল্পনাকে সম্পূর্ণ বাতিল করে দেয় তা হলো এমন কোনো কাজের ধারণা, যা কোথাও পৌঁছায় না — এমন চেষ্টা যা কেউ দেখেনি, এমন অন্যায় যা কারও চোখে পড়েনি, এমন দয়া যা বৃথা গেছে। কোনো আন্তরিক কাজ হারায় না, আর কোনো লজ্জাজনক কাজ ততটা গোপন নয় যতটা মনে হয়।"
+            "bn": "মুফাসসিরগণ রাসূল ﷺ ও মুমিনদের উল্লেখকে একই সঙ্গে উৎসাহ আর সতর্কবার্তা হিসেবে নেন। যত্ন করে করা কাজ দুনিয়াতেই সত্যবাদীদের স্বীকৃতি পায়, আর খারাপভাবে করা কাজ সেটা হারায়। আয়াতটি একটা কল্পনাকে পুরোপুরি বাতিল করে দেয়: এমন কাজ, যা কোথাও গিয়ে পৌঁছায় না। কেউ দেখল না এমন চেষ্টা, কারও চোখে পড়ল না এমন অন্যায়, বৃথা গেল এমন দয়া, এর কোনোটাই হয় না। আন্তরিক কোনো কাজ হারিয়ে যায় না, আর লজ্জার কোনো কাজ ততটা গোপন নয়, যতটা মনে হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Returned to the Knower",
-          "bn": "জ্ঞাতার কাছে প্রত্যাবর্তন"
+          "bn": "যিনি সব জানেন, তাঁর কাছে ফেরা"
         },
         "p": [
           {
             "en": "The second half turns to the next world: and you will be returned to the Knower of the unseen and the seen, and He will inform you of what you used to do. 'Alim here is an active participle, naming knowledge as His standing attribute rather than an act He sometimes performs. Al-ghayb and ash-shahadah divide all reality between them — what is hidden from every eye and what is out in the open — leaving no third category for anything to hide in.",
-            "bn": "দ্বিতীয় অংশ আখিরাতের দিকে মোড় নেয়: আর তোমাদের ফিরিয়ে নেওয়া হবে অদৃশ্য ও দৃশ্যের জ্ঞাতার কাছে, তখন তিনি তোমাদের জানিয়ে দেবেন তোমরা যা করতে। 'আলিম এখানে একটি কর্তৃবাচক বিশেষণ (ইসমে ফাইল), যা জ্ঞানকে তাঁর স্থায়ী গুণ হিসেবে চিহ্নিত করে — এমন কোনো কাজ হিসেবে নয় যা তিনি কখনো কখনো করেন। আল-গায়ব ও আশ-শাহাদাহ মিলে সমগ্র বাস্তবতাকে ভাগ করে নেয় — যা প্রতিটি চোখ থেকে লুকানো আর যা প্রকাশ্যে আছে — লুকোনোর জন্য তৃতীয় কোনো শ্রেণি অবশিষ্ট থাকে না।"
+            "bn": "দ্বিতীয় অংশ আখিরাতের দিকে মোড় নেয়: আর তোমাদের ফিরিয়ে নেওয়া হবে তাঁর কাছে, যিনি গোপন ও প্রকাশ্য সব জানেন, তখন তিনি তোমাদের জানিয়ে দেবেন তোমরা কী করতে। এখানে 'আলিম শব্দটি কর্তৃবাচক বিশেষ্য (ইসমে ফা'ইল)। এতে বোঝায়, জ্ঞান তাঁর স্থায়ী গুণ, মাঝে মাঝে করা কোনো কাজ নয়। আল-গায়ব আর আশ-শাহাদাহ গোটা বাস্তবতাকে দুই ভাগে ভাগ করে নেয়: যা সব চোখের আড়ালে, আর যা খোলাখুলি সামনে। লুকানোর জন্য তৃতীয় কোনো জায়গা বাকি থাকে না।"
           },
           {
             "en": "The verb yunabbi'ukum promises detailed news, not a vague summary. The Quran describes that day elsewhere with the same exactness: in 18:49 the wrongdoers look into the record and ask what kind of book this is that leaves out nothing small or great, and 99:7-8 promises that whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it. The informing is not for Allah's benefit, who already knew, but for ours, who kept forgetting.",
-            "bn": "ইউনাব্বিউকুম ক্রিয়াটি বিস্তারিত সংবাদের প্রতিশ্রুতি দেয়, অস্পষ্ট সারাংশের নয়। কুরআন অন্যত্র সেই দিনকে একই সূক্ষ্মতায় বর্ণনা করে: 18:49 আয়াতে জালিমরা আমলনামায় তাকিয়ে জিজ্ঞেস করে, এ কেমন কিতাব যা ছোট-বড় কিছুই বাদ দেয়নি; আর 99:7-8 আয়াতে প্রতিশ্রুতি আছে, যে অণু পরিমাণ ভালো করবে সে তা দেখবে, আর যে অণু পরিমাণ মন্দ করবে সেও তা দেখবে। এই জানানো আল্লাহর প্রয়োজনে নয় — তিনি তো আগেই জানতেন — বরং আমাদের জন্য, যারা বারবার ভুলে যেতাম।"
+            "bn": "ইউনাব্বিউকুম ক্রিয়াটি বিস্তারিত খবরের কথা দেয়, ঝাপসা সারাংশের নয়। কুরআন অন্য জায়গাতেও সেই দিনের কথা একই খুঁটিনাটিসহ বলে। ১৮:৪৯ আয়াতে জালিমরা আমলনামায় চোখ রেখে বলে ওঠে, এ কেমন কিতাব, ছোট-বড় কিছুই বাদ দেয়নি! আর ৯৯:৭-৮ আয়াতের ওয়াদা: কেউ অণু পরিমাণ ভালো করলে তা দেখবে, আর অণু পরিমাণ মন্দ করলে তাও দেখবে। এই জানানো আল্লাহর দরকারে নয়, তিনি তো আগেই জানতেন। জানানো আমাদের জন্য, যারা বারবার ভুলে যেতাম।"
           }
         ]
       },
@@ -2293,11 +2293,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Notice what the verse asks to be judged: 'amal, work, not appearance or announcement. The Quran keeps returning to this measure. In 67:2 Allah says He created death and life to test which of you is best in deed — ahsanu 'amalan, best, not most. Quality has two parts the scholars name again and again: sincerity in the intention and soundness in the doing. A large deed done for show and a sound deed done carelessly both fail one half of the test.",
-            "bn": "লক্ষ করুন, আয়াতটি কীসের বিচার চায়: 'আমাল — কাজ — চেহারা বা ঘোষণা নয়। কুরআন বারবার এই মাপকাঠিতে ফিরে আসে। 67:2 আয়াতে আল্লাহ বলেন, তিনি মৃত্যু ও জীবন সৃষ্টি করেছেন পরীক্ষা করতে — তোমাদের মধ্যে কে আমলে সর্বোত্তম: আহসানু 'আমালান — সর্বোত্তম, সর্বাধিক নয়। আলিমগণ বারবার এই মানের দুটি অংশের কথা বলেন: নিয়তের ইখলাস এবং কাজের শুদ্ধতা। লোক দেখানোর জন্য করা বিশাল কাজ আর অযত্নে করা শুদ্ধ কাজ — দুটোই পরীক্ষার একটি করে অর্ধেকে ফেল করে।"
+            "bn": "লক্ষ করুন, আয়াতটি কীসের বিচার করতে বলছে: 'আমাল, অর্থাৎ কাজ; চেহারা বা ঘোষণা নয়। কুরআন বারবার এই মাপকাঠিতে ফিরে আসে। ৬৭:২ আয়াতে আল্লাহ বলেন, তিনি মৃত্যু ও জীবন সৃষ্টি করেছেন তোমাদের পরীক্ষা করার জন্য, কে আমলে সবচেয়ে ভালো। আহসানু 'আমালান: সবচেয়ে ভালো, সবচেয়ে বেশি নয়। আলিমগণ বারবার মানের দুটি দিকের কথা বলেন: নিয়তে ইখলাস আর কাজে শুদ্ধতা। লোক দেখানোর জন্য করা বড় কাজ আর অযত্নে করা ভালো কাজ, দুটোই পরীক্ষার অর্ধেকে ফেল করে।"
           },
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) that the Prophet ﷺ said Allah does not look at your forms and your wealth, but He looks at your hearts and your deeds. Read beside this verse, the hadith closes the last loophole: the watching promised here is not the watching of a market, which prizes what glitters. The Seer being described looks straight past the packaging to the intention underneath it and the effort inside it.",
-            "bn": "মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহ তোমাদের আকৃতি ও সম্পদের দিকে তাকান না, বরং তিনি তাকান তোমাদের অন্তর ও আমলের দিকে। এই আয়াতের পাশে রেখে পড়লে হাদীসটি শেষ ফাঁকটুকুও বন্ধ করে দেয়: এখানে যে দেখার প্রতিশ্রুতি, তা বাজারের দেখা নয় — বাজার তো চকচকে জিনিসেরই কদর করে। যে দ্রষ্টার বর্ণনা এখানে এসেছে, তিনি মোড়ক পেরিয়ে সরাসরি তাকান তার নিচের নিয়ত আর ভেতরের শ্রমের দিকে।"
+            "bn": "ইমাম মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: আল্লাহ তোমাদের চেহারা ও সম্পদের দিকে তাকান না, তিনি তাকান তোমাদের অন্তর ও আমলের দিকে। এই আয়াতের পাশে রেখে পড়লে হাদিসটি শেষ ফাঁকটুকুও বন্ধ করে দেয়। এখানে যে দেখার কথা, তা বাজারের দেখা নয়; বাজার তো চকচকে জিনিসেরই কদর করে। যিনি দেখছেন, তিনি মোড়ক পেরিয়ে সোজা তাকান ভেতরের নিয়ত আর পরিশ্রমের দিকে।"
           }
         ]
       },
@@ -2309,11 +2309,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is the working man's version of a definition the Prophet ﷺ gave elsewhere. In the long hadith of Jibril (AS), recorded by Muslim from Umar (RA), ihsan is defined as worshipping Allah as though you see Him, for if you do not see Him, He surely sees you. The verse extends that awareness from the prayer mat to the workbench: employment, teaching, housework and emails are all 'amal, watched by the same three audiences.",
-            "bn": "এই আয়াতটি সেই সংজ্ঞারই কর্মজীবী সংস্করণ, যা নবী ﷺ অন্যত্র দিয়েছেন। জিবরীল (আঃ)-এর দীর্ঘ হাদীসে — যা মুসলিম উমর (রাঃ) থেকে বর্ণনা করেছেন — ইহসানের সংজ্ঞা দেওয়া হয়েছে: আল্লাহর ইবাদত এমনভাবে করা যেন তুমি তাঁকে দেখছ; আর তুমি তাঁকে না দেখলেও তিনি তো তোমাকে দেখছেন। আয়াতটি সেই সচেতনতাকে জায়নামায থেকে কাজের টেবিল পর্যন্ত বিস্তৃত করে: চাকরি, শিক্ষকতা, ঘরের কাজ, চিঠিপত্র — সবই 'আমাল, আর একই তিন দর্শক সেসব দেখছেন।"
+            "bn": "নবী ﷺ অন্য জায়গায় একটি সংজ্ঞা দিয়েছেন; এই আয়াত যেন খেটে খাওয়া মানুষের জন্য তারই রূপ। জিবরীল (আঃ)-এর দীর্ঘ হাদিসে, যা মুসলিম উমর (রাঃ) থেকে বর্ণনা করেছেন, ইহসানের সংজ্ঞা এসেছে এভাবে: আল্লাহর ইবাদত করো এমনভাবে, যেন তুমি তাঁকে দেখছ; আর তুমি তাঁকে না দেখলেও তিনি তো তোমাকে দেখছেন। আয়াতটি এই সচেতনতাকে জায়নামাজ থেকে কাজের টেবিল পর্যন্ত টেনে নেয়। চাকরি, শিক্ষকতা, ঘরের কাজ, ইমেইল, সবই 'আমাল, আর একই তিন দর্শক সবই দেখছেন।"
           },
           {
             "en": "The practical difference shows up in the parts of work nobody checks. The corner that could be cut, the measurement no client will verify, the effort a supervisor will never notice — these are precisely where working for the One who sees separates itself from working for the ones who pay. The verse does not promise that people will applaud sound work. It promises something sturdier: that the work will be seen by Allah first, and reported back in full.",
-            "bn": "ব্যবহারিক পার্থক্যটা ধরা পড়ে কাজের সেই অংশগুলোতে, যেগুলো কেউ যাচাই করে না। যে কোণটা কেটে ফেলা যেত, যে মাপ কোনো গ্রাহক মিলিয়ে দেখবে না, যে পরিশ্রম কোনো তত্ত্বাবধায়কের চোখেই পড়বে না — ঠিক এখানেই যিনি দেখেন তাঁর জন্য কাজ করা আলাদা হয়ে যায় যারা বেতন দেয় তাদের জন্য কাজ করা থেকে। আয়াতটি প্রতিশ্রুতি দেয় না যে মানুষ ভালো কাজে হাততালি দেবে। এটি আরও মজবুত কিছুর প্রতিশ্রুতি দেয়: কাজটি সবার আগে আল্লাহ দেখবেন, এবং পূর্ণাঙ্গভাবে তা জানিয়ে দেওয়া হবে।"
+            "bn": "আসল তফাতটা ধরা পড়ে কাজের সেই অংশগুলোতে, যেগুলো কেউ যাচাই করে না। যেখানে ফাঁকি দেওয়া যেত, যে মাপ কোনো খদ্দের মিলিয়ে দেখবে না, যে খাটুনি কোনো তদারককারীর চোখে পড়বে না, ঠিক সেখানেই দুই রকম কাজ আলাদা হয়ে যায়: যিনি দেখেন তাঁর জন্য কাজ, আর যারা বেতন দেয় তাদের জন্য কাজ। আয়াত এমন কথা দেয় না যে মানুষ ভালো কাজে হাততালি দেবে। এর চেয়ে মজবুত কথা দেয়: কাজটা সবার আগে আল্লাহ দেখবেন, আর পুরোটাই আবার আপনাকে জানিয়ে দেওয়া হবে।"
           }
         ]
       },
@@ -2325,11 +2325,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Heard alone, this verse could sound like surveillance. But its placement after verses of accepted repentance and purifying charity gives it a warmer register: it is addressed to people who have just been forgiven and are being shown what to do next. Being watched by One who wants your success is not being watched by a fault-hunting inspector. The gaze described here is the gaze that also sent the rain and accepts the repentance.",
-            "bn": "আলাদা করে শুনলে এই আয়াতকে নজরদারির মতো শোনাতে পারে। কিন্তু কবুল হওয়া তাওবা ও পরিশুদ্ধকারী সদাকাহর আয়াতগুলোর পরে এর অবস্থান একে উষ্ণতর সুর দেয়: এটি তাদের উদ্দেশে বলা, যারা এইমাত্র ক্ষমা পেয়েছে এবং যাদের দেখানো হচ্ছে এরপর কী করতে হবে। যিনি আপনার সাফল্য চান তাঁর দেখা কোনো দোষ-শিকারি পরিদর্শকের দেখা নয়। এখানে যে দৃষ্টির বর্ণনা, সে দৃষ্টিই তো বৃষ্টি পাঠায় এবং তাওবা কবুল করে।"
+            "bn": "আলাদা করে শুনলে আয়াতটিকে নজরদারির মতো মনে হতে পারে। কিন্তু এর আগেই আছে তওবা কবুলের আর পবিত্র করার সদকার আয়াত, আর এই জায়গাটাই এর সুরকে উষ্ণ করে দেয়। কথাটা বলা হচ্ছে এমন মানুষদের, যাদের এইমাত্র মাফ করা হয়েছে, আর এখন দেখিয়ে দেওয়া হচ্ছে এরপর কী করতে হবে। যিনি আপনার সফলতা চান, তাঁর দেখা আর দোষ খুঁজে বেড়ানো কোনো পরিদর্শকের দেখা এক নয়। এখানে যে দৃষ্টির কথা, সেই দৃষ্টিই তো বৃষ্টি পাঠায়, সেই দৃষ্টিই তওবা কবুল করে।"
           },
           {
             "en": "So the verse lends work weight without loading it with dread. A task done today is not a disposable thing that vanishes when the customer leaves; it is an entry in a record that will be read back to its author by the Knower of the unseen and the seen. That thought makes small work meaningful and shoddy work uncomfortable — which is exactly the pair of effects a working believer needs before starting the day.",
-            "bn": "তাই আয়াতটি কাজে ওজন যোগ করে, কিন্তু আতঙ্ক চাপিয়ে দেয় না। আজ করা একটি কাজ ফেলনা কিছু নয়, যা ক্রেতা চলে গেলে মিলিয়ে যায়; এটি এমন এক নথির ভুক্তি, যা অদৃশ্য ও দৃশ্যের জ্ঞাতা তার লেখকের কাছে পড়ে শোনাবেন। এই ভাবনা ছোট কাজকে অর্থবহ করে আর ফাঁকিবাজি কাজকে অস্বস্তিকর করে — দিন শুরু করার আগে একজন কর্মজীবী মুমিনের ঠিক এই জোড়া প্রভাবই দরকার।"
+            "bn": "তাই আয়াতটি কাজকে ওজন দেয়, কিন্তু ভয়ে ভারী করে না। আজকের একটা কাজ ফেলনা জিনিস নয় যে খদ্দের চলে গেলেই মিলিয়ে যাবে। কাজটা আমলনামায় লেখা হয়ে থাকে, আর যিনি গোপন ও প্রকাশ্য সব জানেন, তিনি একদিন তা কর্তাকে পড়ে শোনাবেন। এই ভাবনা ছোট কাজকেও অর্থবহ করে, আর ফাঁকি দেওয়া কাজকে অস্বস্তিকর। দিন শুরুর আগে একজন কর্মজীবী মুমিনের ঠিক এই দুটো জিনিসই দরকার।"
           }
         ]
       }
@@ -2356,7 +2356,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Sale in Past Tense",
-          "bn": "অতীত কালে সম্পন্ন ক্রয়"
+          "bn": "কেনা হয়ে গেছে, অতীত কালে"
         },
         "p": [
           {
@@ -2453,7 +2453,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the question that follows it: and who is truer to his covenant than Allah. As-Sa'di reads the command after it as addressed to people already holding up their end, so rejoice, O believers who are fulfilling what Allah promised you, in your sale that you contracted. And he draws a second purpose out of the wording, that you rejoice at it and that some of you give the good tidings to others and urge one another on. The gladness is meant to travel.",
-            "bn": "এরপর আসে তার পরের প্রশ্নটি: আর আল্লাহর চেয়ে বেশি নিজের অঙ্গীকার পূরণকারী কে। সা'দী এর পরের হুকুমটিকে পড়েন এমন লোকদের উদ্দেশে বলা কথা হিসেবে যাঁরা ইতিমধ্যেই নিজেদের দিকটা রক্ষা করছেন, কাজেই আনন্দিত হও, হে সেই মু'মিনগণ যাঁরা আল্লাহ তোমাদের যা ওয়াদা করেছেন তা পূরণ করছ, তোমাদের সম্পন্ন করা সওদার জন্য। আর তিনি শব্দগুলোর ভেতর থেকে দ্বিতীয় একটি উদ্দেশ্যও বের করেন, যাতে তোমরা এতে খুশি হও আর যাতে তোমাদের একজন অন্যজনকে সুসংবাদ দেয় আর একজন অন্যজনকে উৎসাহ দেয়। এ আনন্দ ছড়িয়ে পড়ারই জন্য।"
+            "bn": "এরপর আসে প্রশ্ন: আর আল্লাহর চেয়ে বেশি অঙ্গীকার রক্ষাকারী কে? সা'দী এর পরের হুকুমটিকে পড়েন তাদের উদ্দেশে বলা কথা হিসেবে, যারা ইতিমধ্যেই নিজেদের দিকটা পালন করছে: কাজেই হে মু'মিনগণ, আল্লাহ তোমাদের যে ওয়াদা দিয়েছেন তা যারা পূরণ করছ, তোমরা যে সওদা করেছ তা নিয়ে আনন্দিত হও। আর তিনি শব্দগুলো থেকে দ্বিতীয় একটি উদ্দেশ্যও বের করেন: তোমরা যেন এতে খুশি হও, আর একে অন্যকে সুসংবাদ দাও, একে অন্যকে উৎসাহ দাও। এ আনন্দ ছড়িয়ে দেওয়ার জন্যই।"
           }
         ]
       },
@@ -2469,7 +2469,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "66:5 carries the same participle the third section weighed, listed among the qualities of women better than the ones being addressed, which is where Ibn Kathir goes for his reading of it. And 9:100 stands earlier in this same surah, promising the forerunners of the Muhajireen and the Ansar gardens beneath which rivers flow and calling that the great attainment, the very phrase 9:111 ends on. The surah pays the same wage twice, once to the first-comers and once to anyone who closes this sale.",
-            "bn": "৬৬:৫ আয়াত সেই একই শব্দটি বহন করে যেটি তৃতীয় অংশে ওজন করা হয়েছে, আর সেটি আসে যাদের সম্বোধন করা হচ্ছে তাদের চেয়ে উত্তম নারীদের গুণাবলির তালিকায়; ইবনু কাসীর নিজের পাঠের জন্য ওখানেই যান। আর ৯:১০০ আয়াত দাঁড়িয়ে আছে এই একই সূরার আগের দিকে, যা মুহাজির আর আনসারদের অগ্রগামীদের ওয়াদা দেয় জান্নাতের, যার নিচে দিয়ে নদী বয়ে যায়, আর সেটাকেই বলে মহাসফলতা; আর এ কথাটিতেই ৯:১১১ আয়াত শেষ হয়। সূরা একই মজুরি দেয় দুবার, একবার প্রথমে আসা লোকদের, আর একবার যে কেউ এ সওদাটা সম্পন্ন করে তাকে।"
+            "bn": "তৃতীয় অংশে যে শব্দটি নিয়ে আলোচনা হয়েছে, সেটিই আছে ৬৬:৫ আয়াতে, যাদের সম্বোধন করা হচ্ছে তাদের চেয়ে উত্তম নারীদের গুণের তালিকায়; ইবনু কাসীর এই শব্দের ব্যাখ্যায় সেখানেই যান। আর এই সূরারই আগের দিকে ৯:১০০ আয়াত মুহাজির ও আনসারদের অগ্রগামীদের এমন জান্নাতের ওয়াদা দেয়, যার নিচ দিয়ে নদী বয়ে যায়, আর একে বলে মহাসাফল্য। ৯:১১১ আয়াতও ঠিক এই কথাতেই শেষ হয়। সূরা একই মজুরি দুবার দেয়: একবার প্রথম দিকের লোকদের, আর একবার যে-ই এ সওদা সম্পন্ন করে তাকে।"
           }
         ]
       },
@@ -2501,11 +2501,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The later sections of Surah at-Tawbah revolve around the campaign to Tabuk: the muster in severe heat, those who stayed behind, and the excuses offered afterwards. In 9:117 Allah declares that He has turned in mercy to the Prophet ﷺ and to the Muhajirun and Ansar who followed him in the hour of hardship. In 9:118 He turns to three men who were left behind, until the earth, vast as it is, closed in on them.",
-            "bn": "সূরা আত-তাওবাহর শেষ দিকের অংশগুলো আবর্তিত হয় তাবুক অভিযান ঘিরে: প্রচণ্ড গরমে সমরসজ্জা, যারা পেছনে রয়ে গেল, আর পরে পেশ করা অজুহাতগুলো। 9:117 আয়াতে আল্লাহ ঘোষণা করেন, তিনি রহমতের সঙ্গে ফিরেছেন নবী ﷺ-এর দিকে এবং সেই মুহাজির ও আনসারদের দিকে, যারা কঠিন সময়ে তাঁর অনুসরণ করেছিল। 9:118 আয়াতে তিনি ফেরেন সেই তিনজনের দিকে, যাদের পেছনে ফেলে রাখা হয়েছিল — যতক্ষণ না জমিন, এত বিশাল হয়েও, তাদের জন্য সংকুচিত হয়ে এলো।"
+            "bn": "সূরা আত-তাওবাহর শেষ দিকের অংশগুলো ঘুরেছে তাবুক অভিযানকে ঘিরে: প্রচণ্ড গরমে সেনা জমায়েত, যারা পেছনে থেকে গেল তারা, আর পরে দেখানো নানা অজুহাত। ৯:১১৭ আয়াতে আল্লাহ ঘোষণা করেন, তিনি রহমতের সঙ্গে ফিরেছেন নবী ﷺ-এর দিকে, আর সেই মুহাজির ও আনসারদের দিকে, যারা কঠিন সময়ে তাঁর অনুসরণ করেছিলেন। ৯:১১৮ আয়াতে তিনি ফেরেন সেই তিনজনের দিকে, যারা পেছনে পড়ে ছিলেন। অবস্থা এমন হয়েছিল যে এত বিশাল পৃথিবীও তাদের জন্য সংকীর্ণ হয়ে গিয়েছিল।"
           },
           {
             "en": "Then comes 9:119, a single line addressed to all who believe: fear Allah and be with the truthful. Placed there, it reads as the distilled lesson of the whole episode. The surah has just shown what became of those who lied their way out of hardship, and what became of those who told the truth into it. The command is the story's moral, issued as law.",
-            "bn": "তারপর আসে 9:119 আয়াত — সব মুমিনের উদ্দেশে একটিমাত্র পঙক্তি: আল্লাহকে ভয় করো এবং সত্যবাদীদের সঙ্গে থাকো। ওই জায়গায় বসে এটি পড়ায় গোটা ঘটনার নির্যাস-শিক্ষার মতো। সূরাটি সবে দেখিয়েছে, মিথ্যা বলে কষ্ট থেকে বেরিয়ে যাওয়াদের পরিণতি কী হলো, আর কষ্টের মধ্যে ঢুকেও সত্য বলাদের পরিণতিই বা কী। আদেশটি সেই কাহিনিরই নীতিকথা — বিধান আকারে জারি করা।"
+            "bn": "তারপর আসে ৯:১১৯, সব মুমিনের উদ্দেশে একটিমাত্র বাক্য: আল্লাহকে ভয় করো এবং সত্যবাদীদের সঙ্গে থাকো। ওই জায়গায় বসে আয়াতটি গোটা ঘটনার সারকথার মতো শোনায়। সূরাটি সবে দেখিয়েছে, মিথ্যা বলে যারা কষ্ট এড়িয়ে গেল তাদের কী হলো, আর সত্য বলে যারা কষ্ট মাথা পেতে নিল তাদের কী হলো। হুকুমটি এই কাহিনিরই শিক্ষা, যা বিধান হয়ে এসেছে।"
           }
         ]
       },
@@ -2517,11 +2517,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ka'b ibn Malik (RA) told his own story, and it is narrated in both Bukhari and Muslim. He had missed the expedition with no excuse — never before, he said, had he been stronger or wealthier — and he simply delayed until the army was gone. When the Prophet ﷺ returned, eighty-odd men came with false excuses and were accepted outwardly. Ka'b knew he could talk his way out, and chose instead to say plainly that he had no excuse.",
-            "bn": "কা'ব ইবনে মালিক (রাঃ) নিজের ঘটনা নিজেই বলেছেন, আর তা বুখারী ও মুসলিম উভয় গ্রন্থে বর্ণিত। কোনো অজুহাত ছাড়াই তিনি অভিযানে যাননি — তাঁর ভাষায়, এর আগে কখনো তিনি এত সবল ও এত সচ্ছল ছিলেন না — কেবল দেরি করতে করতে সেনাদল চলে গেল। নবী ﷺ ফিরে এলে আশির কিছু বেশি লোক মিথ্যা অজুহাত নিয়ে এলো এবং বাহ্যিকভাবে তা গৃহীতও হলো। কা'ব জানতেন, কথা সাজিয়ে তিনিও পার পেয়ে যেতে পারেন; তার বদলে সোজাসুজি বললেন — তাঁর কোনো অজুহাত নেই।"
+            "bn": "কা'ব ইবনে মালিক (রাঃ) নিজের ঘটনা নিজেই বলেছেন, আর তা বুখারী ও মুসলিম দুই গ্রন্থেই বর্ণিত। কোনো ওজর ছাড়াই তিনি অভিযানে যাননি। তাঁর নিজের কথা, এর আগে কখনো তিনি এত সবল ও এত সচ্ছল ছিলেন না; শুধু আজ-কাল করতে করতেই সেনাদল চলে গেল। নবী ﷺ ফিরে এলে আশির কিছু বেশি লোক মিথ্যা অজুহাত নিয়ে হাজির হলো, আর বাহ্যিকভাবে তাদের অজুহাত মেনে নেওয়া হলো। কা'ব জানতেন, কথা সাজিয়ে তিনিও পার পেয়ে যেতে পারেন। তা না করে তিনি সোজাসুজি বললেন, তাঁর কোনো ওজর নেই।"
           },
           {
             "en": "The Prophet ﷺ said: as for this man, he has spoken the truth. Then came the hard part: the Muslims were instructed not to speak to Ka'b and his two companions. The boycott lasted fifty nights, and after forty of them he was ordered to keep away from his wife as well. In the middle of it a letter arrived from the king of Ghassan, inviting him to defect to comfort — he burned it, calling it part of the trial.",
-            "bn": "নবী ﷺ বললেন: এই লোকটি, সে সত্য বলেছে। তারপর এলো কঠিন অংশ: মুসলিমদের নির্দেশ দেওয়া হলো কা'ব ও তাঁর দুই সঙ্গীর সঙ্গে কথা না বলতে। এই বর্জন চলল পঞ্চাশ রাত, আর তার চল্লিশ রাত পার হলে আদেশ এলো স্ত্রীর থেকেও দূরে থাকার। এরই মাঝে গাসসানের রাজার কাছ থেকে একটি চিঠি এলো — আরামের জীবনে পক্ষত্যাগের আমন্ত্রণ। তিনি সেটি পুড়িয়ে ফেললেন, আর বললেন — এটিও পরীক্ষারই অংশ।"
+            "bn": "নবী ﷺ বললেন: এই লোকটি সত্য বলেছে। তারপর এলো কঠিন সময়। মুসলিমদের বলে দেওয়া হলো, কা'ব ও তাঁর দুই সঙ্গীর সঙ্গে কেউ কথা বলবে না। এই বয়কট চলল পঞ্চাশ রাত। চল্লিশ রাত পার হওয়ার পর তাঁকে স্ত্রীর কাছ থেকেও দূরে থাকার হুকুম দেওয়া হলো। এরই মাঝে গাসসানের রাজার কাছ থেকে চিঠি এলো, দল ছেড়ে তার কাছে আরামে থাকার দাওয়াত। কা'ব চিঠিটা পুড়িয়ে ফেললেন, আর বললেন, এটাও পরীক্ষারই অংশ।"
           }
         ]
       },
@@ -2533,11 +2533,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Relief came as revelation: 9:118 announced that Allah had turned to the three, and people rushed to congratulate them. Ka'b (RA) came to the Prophet ﷺ, whose face was bright with joy, and offered to give away his wealth in charity out of gratitude — he was told to keep some of it. And he made a vow recorded in the same narration: that he would speak nothing but truth for the rest of his life.",
-            "bn": "মুক্তি এলো ওহী হয়ে: 9:118 আয়াত ঘোষণা করল, আল্লাহ ওই তিনজনের দিকে ফিরেছেন, আর মানুষ ছুটে এলো তাঁদের অভিনন্দন জানাতে। কা'ব (রাঃ) নবী ﷺ-এর কাছে এলেন — আনন্দে তাঁর চেহারা উজ্জ্বল — এবং কৃতজ্ঞতায় নিজের সম্পদ সদাকাহ করে দিতে চাইলেন; তাঁকে বলা হলো এর কিছুটা নিজের জন্য রাখতে। আর সেই একই বর্ণনায় লিপিবদ্ধ তাঁর একটি প্রতিজ্ঞা: বাকি জীবন তিনি সত্য ছাড়া কিছুই বলবেন না।"
+            "bn": "মুক্তি এলো ওহি হয়ে। ৯:১১৮ আয়াত ঘোষণা করল, আল্লাহ ওই তিনজনের দিকে ফিরেছেন, আর লোকজন ছুটে এলো তাঁদের মোবারকবাদ জানাতে। কা'ব (রাঃ) নবী ﷺ-এর কাছে এলেন; আনন্দে নবীজির চেহারা তখন ঝলমল করছিল। কৃতজ্ঞতায় কা'ব নিজের সম্পদ সদকা করে দিতে চাইলেন; তাঁকে বলা হলো কিছুটা নিজের কাছে রাখতে। আর একই বর্ণনায় আছে তাঁর একটি প্রতিজ্ঞা: বাকি জীবন তিনি সত্য ছাড়া কিছু বলবেন না।"
           },
           {
             "en": "Ka'b himself drew the connection that the verse then fixed as law: Allah saved him by truthfulness, while the men who swore false oaths were left to their fate. When 9:119 commands believers to be with the truthful, its first hearers knew which faces it pointed to — three men whose honesty had cost them fifty nights of isolation and then bought them a place in the Quran forever.",
-            "bn": "কা'ব নিজেই সেই যোগসূত্রটি টেনেছিলেন, যা আয়াত পরে বিধান করে দিল: সত্যবাদিতাই তাঁকে বাঁচিয়েছে, আর যারা মিথ্যা শপথ করেছিল তাদের ছেড়ে দেওয়া হয়েছে তাদের পরিণতির হাতে। 9:119 আয়াত যখন মুমিনদের সত্যবাদীদের সঙ্গে থাকার আদেশ দেয়, প্রথম শ্রোতারা জানতেন এটি কোন মুখগুলোর দিকে ইশারা করছে — তিনজন মানুষ, যাদের সততার মূল্য ছিল পঞ্চাশ রাতের একঘরে জীবন, আর তারপর সেই সততাই তাঁদের চিরকালের জন্য কুরআনে জায়গা কিনে দিল।"
+            "bn": "কা'ব নিজেই যোগসূত্রটা টেনেছিলেন, আর আয়াত পরে সেটাকেই বিধান করে দিল: আল্লাহ তাঁকে বাঁচিয়েছেন সত্যের কারণে, আর যারা মিথ্যা কসম খেয়েছিল, তাদের ছেড়ে দেওয়া হয়েছে তাদের পরিণতির হাতে। ৯:১১৯ আয়াত যখন মুমিনদের সত্যবাদীদের সঙ্গে থাকতে বলে, প্রথম শ্রোতারা জানতেন কাদের দিকে ইশারা। সেই তিনজন, সততার জন্য যাঁদের পঞ্চাশ রাত একঘরে থাকতে হয়েছিল, আর সেই সততাই তাঁদের জন্য কুরআনে চিরকালের জায়গা কিনে দিল।"
           }
         ]
       },
@@ -2549,23 +2549,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The wording repays attention: kunu ma'a as-sadiqin — be with the truthful, not merely be truthful. Sidq in Arabic is wider than accurate speech; the mufassirun describe truthfulness of intention, of promise and of action, an alignment between inside and outside. And the command is framed as company because character travels between people. The verse legislates our surroundings: taqwa in its first half, and in its second the human environment that keeps taqwa alive.",
-            "bn": "শব্দচয়নটি মনোযোগের দাবি রাখে: কূনূ মা'আস-সাদিকীন — সত্যবাদীদের সঙ্গে থাকো, শুধু সত্যবাদী হও নয়। আরবিতে সিদক নির্ভুল কথার চেয়ে ব্যাপক; মুফাসসিরগণ বলেন নিয়তের, প্রতিশ্রুতির ও কাজের সত্যবাদিতার কথা — ভেতর ও বাইরের মিল। আর আদেশটি সঙ্গের ভাষায় সাজানো, কারণ চরিত্র মানুষ থেকে মানুষে সঞ্চারিত হয়। আয়াতটি আমাদের পরিবেশেরই বিধান দেয়: প্রথম অংশে তাকওয়া, আর দ্বিতীয় অংশে সেই মানব-পরিবেশ, যা তাকওয়াকে বাঁচিয়ে রাখে।"
+            "bn": "শব্দগুলো খেয়াল করার মতো: কূনূ মা'আস-সাদিকীন, সত্যবাদীদের সঙ্গে থাকো; শুধু সত্যবাদী হও বলা হয়নি। আরবিতে সিদক মানে শুধু নির্ভুল কথা নয়, এর পরিধি আরও বড়। মুফাসসিরগণ নিয়তের সত্যতা, ওয়াদার সত্যতা আর কাজের সত্যতার কথা বলেন, অর্থাৎ ভেতর আর বাইরের মিল। আর হুকুমটা এসেছে সঙ্গের ভাষায়, কারণ চরিত্র এক মানুষ থেকে আরেক মানুষে ছড়ায়। আয়াতটি আমাদের চারপাশের জন্যও বিধান দেয়: প্রথম অংশে তাকওয়া, আর দ্বিতীয় অংশে সেই সঙ্গ, যা তাকওয়াকে বাঁচিয়ে রাখে।"
           }
         ]
       },
       {
         "h": {
           "en": "Where Truthfulness Leads",
-          "bn": "সত্যবাদিতা যেখানে নেয়"
+          "bn": "সত্য কোথায় নিয়ে যায়"
         },
         "p": [
           {
             "en": "A hadith found in both Bukhari and Muslim, from Ibn Mas'ud (RA), maps the road: truthfulness guides to righteousness, and righteousness guides to Paradise, and a man keeps speaking truth until he is written before Allah as a siddiq. Lying guides to wickedness, and wickedness to the Fire, and a man keeps lying until he is written as a liar. Habits of speech, repeated, become a recorded identity — which is what happened, in opposite directions, at Tabuk.",
-            "bn": "বুখারী ও মুসলিম উভয় গ্রন্থে ইবনে মাসউদ (রাঃ) থেকে বর্ণিত একটি হাদীস পথরেখাটি এঁকে দেয়: সত্যবাদিতা নেকির পথ দেখায়, আর নেকি পথ দেখায় জান্নাতের; মানুষ সত্য বলতে বলতে অবশেষে আল্লাহর কাছে সিদ্দীক হিসেবে লিখিত হয়। মিথ্যা পথ দেখায় পাপাচারের, আর পাপাচার জাহান্নামের; মানুষ মিথ্যা বলতে বলতে মিথ্যাবাদী হিসেবে লিখিত হয়। কথার অভ্যাস, বারবার ফিরে এসে, একটি লিপিবদ্ধ পরিচয়ে পরিণত হয় — তাবুকে ঠিক তা-ই ঘটেছিল, দুই বিপরীত দিকে।"
+            "bn": "বুখারী ও মুসলিম দুই গ্রন্থেই ইবনে মাসউদ (রাঃ) থেকে বর্ণিত একটি হাদিস পথটা এঁকে দেয়: সত্য নেকির পথ দেখায়, আর নেকি জান্নাতের পথ দেখায়; মানুষ সত্য বলতে বলতে একসময় আল্লাহর কাছে সিদ্দীক বলে লেখা হয়ে যায়। মিথ্যা পাপাচারের পথ দেখায়, আর পাপাচার জাহান্নামের; মানুষ মিথ্যা বলতে বলতে একসময় মিথ্যুক বলে লেখা হয়ে যায়। কথার অভ্যাস বারবার ঘটতে ঘটতে লিখিত পরিচয় হয়ে দাঁড়ায়। তাবুকে ঠিক এটাই ঘটেছিল, দুই উল্টো দিকে।"
           },
           {
             "en": "Elsewhere the Quran keeps the same pairing. In 33:35 the truthful men and truthful women stand in the list of those for whom forgiveness and a great reward are prepared, and the description of true piety in 2:177 ends by naming those who are truthful and those who have taqwa side by side — the same two qualities 9:119 binds together.",
-            "bn": "কুরআন অন্যত্রও এই জোড়াটি ধরে রাখে। 33:35 আয়াতে সত্যবাদী পুরুষ ও সত্যবাদী নারীরা দাঁড়িয়ে আছেন তাদের তালিকায়, যাদের জন্য ক্ষমা ও মহাপুরস্কার প্রস্তুত রাখা হয়েছে; আর 2:177 আয়াতে প্রকৃত পুণ্যের বর্ণনা শেষ হয় সত্যবাদী ও মুত্তাকীদের পাশাপাশি নাম নিয়ে — সেই একই দুটি গুণ, যা 9:119 আয়াত একসঙ্গে বেঁধে দিয়েছে।"
+            "bn": "কুরআন অন্য জায়গাতেও এই জোড়া ধরে রাখে। ৩৩:৩৫ আয়াতে সত্যবাদী পুরুষ ও সত্যবাদী নারীরা আছেন তাদের তালিকায়, যাদের জন্য মাগফিরাত আর মহাপুরস্কার তৈরি রাখা হয়েছে। আর ২:১৭৭ আয়াতে প্রকৃত নেকির বর্ণনা শেষ হয় সত্যবাদী আর মুত্তাকীদের পাশাপাশি উল্লেখ করে। এই দুটো গুণকেই ৯:১১৯ আয়াত একসঙ্গে বেঁধেছে।"
           }
         ]
       },
@@ -2577,11 +2577,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse gives a practical instrument: audit the company. Not a purge of every imperfect friend, but an honest look at which rooms make truth easier and which make it embarrassing. A circle where exaggeration is the price of belonging will collect that fee from your religion. The believer is told to place himself where sidq is normal, so that on the day honesty becomes expensive, he is not paying alone.",
-            "bn": "আয়াতটি একটি ব্যবহারিক যন্ত্র দেয়: সঙ্গের হিসাব নেওয়া। প্রতিটি অপূর্ণ বন্ধুকে ছেঁটে ফেলা নয়, বরং সৎ চোখে দেখা — কোন ঘরগুলোতে সত্য বলা সহজ, আর কোনগুলোতে তা বিব্রতকর। যে বৃত্তে অতিরঞ্জনই অন্তর্ভুক্তির মাশুল, সে বৃত্ত সেই মাশুল আদায় করবে আপনার দ্বীন থেকে। মুমিনকে বলা হয়েছে নিজেকে সেখানে রাখতে, যেখানে সিদকই স্বাভাবিক — যাতে যেদিন সততা দামি হয়ে ওঠে, সেদিন সে একা মূল্য না দেয়।"
+            "bn": "আয়াতটি হাতে একটা কাজের উপায় দেয়: নিজের সঙ্গীদের হিসাব নিন। প্রতিটি অপূর্ণ বন্ধুকে ছেঁটে ফেলা নয়; বরং খোলা চোখে দেখা, কোন ঘরে সত্য বলা সহজ, আর কোন ঘরে সত্য বললে লজ্জায় পড়তে হয়। যে আড্ডায় জায়গা পেতে হলে বাড়িয়ে বলতে হয়, সেই আড্ডা এই মাশুলটা আদায় করবে আপনার দ্বীন থেকে। মুমিনকে বলা হয়েছে নিজেকে এমন জায়গায় রাখতে, যেখানে সিদকই স্বাভাবিক। তাহলে যেদিন সত্যের দাম চড়া হবে, সেদিন তাকে একা সেই দাম দিতে হবে না।"
           },
           {
             "en": "Ka'b's (RA) story also warns against a subtler escape: he could have joined the liars and been accepted outwardly, as they were. The verse closes that route by making truthfulness communal. Tell the costly truth, and then stand near people who do the same — because fifty nights of consequence are survivable in the company of the truthful, while acceptance won by a lie was the fate the surah spends its length lamenting.",
-            "bn": "কা'ব (রাঃ)-এর ঘটনা আরও সূক্ষ্ম একটি পালাবার পথ সম্পর্কেও সতর্ক করে: তিনি মিথ্যাবাদীদের দলে ভিড়ে যেতে পারতেন এবং তাদের মতোই বাহ্যিক গ্রহণযোগ্যতা পেতেন। আয়াতটি সত্যবাদিতাকে সমষ্টিগত করে সেই রাস্তা বন্ধ করে দেয়। দামি সত্যটি বলুন, তারপর তাদের কাছাকাছি দাঁড়ান যারা একই কাজ করে — কারণ সত্যবাদীদের সঙ্গে থাকলে পঞ্চাশ রাতের পরিণতিও পার হওয়া যায়; আর মিথ্যা দিয়ে কেনা গ্রহণযোগ্যতা — সেটিই সেই পরিণতি, যার শোক সূরাটি তার দৈর্ঘ্যজুড়ে করে গেছে।"
+            "bn": "কা'ব (রাঃ)-এর ঘটনা আরও সূক্ষ্ম এক পালানোর পথ সম্পর্কেও সাবধান করে। তিনি মিথ্যাবাদীদের দলে ভিড়ে যেতে পারতেন, আর তাদের মতো তাঁকেও বাহ্যিকভাবে মেনে নেওয়া হতো। আয়াতটি সত্যকে সবার মিলিত দায়িত্ব বানিয়ে সেই পথ বন্ধ করে দেয়। দামি সত্যটা বলুন, তারপর এমন মানুষদের পাশে দাঁড়ান যারা একই কাজ করে। কারণ সত্যবাদীদের সঙ্গে থাকলে পঞ্চাশ রাতের কষ্টও পার করা যায়। আর মিথ্যা বলে পাওয়া স্বীকৃতিই সেই পরিণতি, যার জন্য সূরাটি এত দীর্ঘ জুড়ে আক্ষেপ করে গেছে।"
           }
         ]
       }
