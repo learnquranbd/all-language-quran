@@ -168,7 +168,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Deeds, Claims and the Oneness",
-          "bn": "আমল, দাবি ও তাওহীদের সাক্ষ্য"
+          "bn": "আমল, দাবি ও তাওহিদের সাক্ষ্য"
         },
         "p": [
           {
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Who the him refers to in the next verbs of 48:9 is a separate question. Ibn Kathir glosses tu'azziruhu as you honour him, from Ibn 'Abbas (RA) and others; Ma'arif al-Qur'an records that commentators differ over whether the first two pronouns refer to Allah or to the Messenger ﷺ, while the pronoun of glorifying refers to Allah alone. That belongs to 48:9 and is left there. None of the commentaries fetched for this verse attaches a hadith to it, and the reports Ibn Kathir gives nearby concern the pledge in 48:10.",
-            "bn": "৪৮:৯ আয়াতের পরের ক্রিয়াগুলোতে 'তাঁকে' বলতে কাকে বোঝানো হয়েছে, সেটা আলাদা প্রশ্ন। ইবন কাসীর ইবন আব্বাস (রাঃ) ও আরও কয়েকজনের সূত্রে তুআযযিরূহুর অর্থ বলেন, তাঁকে সম্মান করো। মাআরিফুল কুরআন জানায়, প্রথম দুটি সর্বনাম আল্লাহকে বোঝায় নাকি রাসূল ﷺ-কে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। তবে পবিত্রতা ঘোষণার সর্বনামটি শুধু আল্লাহকেই বোঝায়। আলোচনাটি ৪৮:৯ আয়াতের, তাই সেখানেই রইল। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। কাছাকাছি ইবন কাসীর যে বর্ণনাগুলো আনেন, সেগুলো ৪৮:১০ আয়াতের বাইআত নিয়ে।"
+            "bn": "৪৮:৯ আয়াতের পরের ক্রিয়াগুলোতে 'তাঁকে' বলতে কাকে বোঝানো হয়েছে, সেটা আলাদা প্রশ্ন। ইবন কাসীর ইবন আব্বাস (রাঃ) ও আরও কয়েকজনের সূত্রে তুআযযিরূহুর অর্থ বলেন, তাঁকে সম্মান করো। মাআরিফুল কুরআন জানায়, প্রথম দুটি সর্বনাম আল্লাহকে বোঝায় নাকি রাসূল ﷺ-কে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। তবে পবিত্রতা ঘোষণার সর্বনামটি শুধু আল্লাহকেই বোঝায়। আলোচনাটি ৪৮:৯ আয়াতের, তাই সেখানেই রইল। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদিস জুড়ে দেয়নি। কাছাকাছি ইবন কাসীর যে বর্ণনাগুলো আনেন, সেগুলো ৪৮:১০ আয়াতের বাইআত নিয়ে।"
           }
         ]
       },
@@ -321,7 +321,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi quotes Jabir from Sahih Muslim, and at-Tabari carries the same report by his own chain. In Sahih Muslim (1856), Jabir (RA) said: 'We were 1,400 on the day of al-Hudaybiya. We pledged allegiance to him while 'Umar was holding his hand beneath the tree, and it was a samura.' And he said: 'We pledged to him that we would not flee, and we did not pledge to him unto death.' It is in Muslim's Sahih. No commentator here settles which account of the terms is right, and this article does not either.",
-            "bn": "কুরতুবী জাবিরের বর্ণনাটি সহীহ মুসলিম থেকে উদ্ধৃত করেন, আর তাবারী একই বর্ণনা আনেন নিজের সনদে। সহীহ মুসলিমে (নং ১৮৫৬) জাবির (রাঃ) বলেন: 'হুদায়বিয়ার দিন আমরা ছিলাম ১,৪০০ জন। আমরা তাঁর হাতে বাই'আত করলাম, উমর তখন গাছের নিচে তাঁর হাত ধরে ছিলেন। গাছটা ছিল একটা সামুরা।' তিনি আরও বলেন: 'আমরা তাঁর কাছে বাই'আত করেছিলাম যে পালাব না। মৃত্যুর উপর বাই'আত করিনি।' হাদীসটি ইমাম মুসলিমের সহীহ গ্রন্থে আছে। শর্ত নিয়ে কোন বর্ণনাটি ঠিক, এখানে কোনো তাফসীরকার তা মীমাংসা করেননি, এ লেখাও করছে না।"
+            "bn": "কুরতুবী জাবিরের বর্ণনাটি সহীহ মুসলিম থেকে উদ্ধৃত করেন, আর তাবারী একই বর্ণনা আনেন নিজের সনদে। সহীহ মুসলিমে (নং ১৮৫৬) জাবির (রাঃ) বলেন: 'হুদায়বিয়ার দিন আমরা ছিলাম ১,৪০০ জন। আমরা তাঁর হাতে বাই'আত করলাম, উমর তখন গাছের নিচে তাঁর হাত ধরে ছিলেন। গাছটা ছিল একটা সামুরা।' তিনি আরও বলেন: 'আমরা তাঁর কাছে বাই'আত করেছিলাম যে পালাব না। মৃত্যুর উপর বাই'আত করিনি।' হাদিসটি ইমাম মুসলিমের সহীহ গ্রন্থে আছে। শর্ত নিয়ে কোন বর্ণনাটি ঠিক, এখানে কোনো তাফসীরকার তা মীমাংসা করেননি, এ লেখাও করছে না।"
           }
         ]
       },
@@ -353,7 +353,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Tariq ibn 'Abd ar-Rahman said: 'I set out for Hajj and passed by people praying. I said: what is this mosque? They said: this is the tree where the Messenger of Allah ﷺ took the Pledge of Ridwan. So I went to Sa'id ibn al-Musayyib and told him, and Sa'id said: my father told me he was among those who pledged to the Messenger of Allah ﷺ under the tree. He said: when we went out the following year, we had forgotten it and could not find it. Then Sa'id said: the Companions of Muhammad ﷺ did not know it, and you know it, so you are the more knowing.'",
-            "bn": "তারিক ইবন আবদুর রহমান বলেন: 'আমি হজে রওনা হলাম। পথে কিছু লোককে নামায পড়তে দেখলাম। জিজ্ঞেস করলাম, এটা কোন মসজিদ? তারা বলল, এ সেই গাছ, যেখানে আল্লাহর রাসূল ﷺ বাই'আতুর রিদওয়ান নিয়েছিলেন। আমি সাঈদ ইবনুল মুসাইয়িবের কাছে গিয়ে তাঁকে জানালাম। সাঈদ বললেন, আমার বাবা আমাকে বলেছেন, তিনি গাছের নিচে আল্লাহর রাসূল ﷺ-এর হাতে বাই'আতকারীদের একজন ছিলেন। তিনি বলেছেন, পরের বছর যখন আমরা বের হলাম, গাছটা ভুলে গিয়েছিলাম, আর খুঁজে পাইনি। তারপর সাঈদ বললেন, মুহাম্মাদ ﷺ-এর সাহাবীরা তা জানতেন না, আর তোমরা জানো। তাহলে তোমরাই বেশি জানো!'"
+            "bn": "তারিক ইবন আবদুর রহমান বলেন: 'আমি হজে রওনা হলাম। পথে কিছু লোককে নামাজ পড়তে দেখলাম। জিজ্ঞেস করলাম, এটা কোন মসজিদ? তারা বলল, এ সেই গাছ, যেখানে আল্লাহর রাসূল ﷺ বাই'আতুর রিদওয়ান নিয়েছিলেন। আমি সাঈদ ইবনুল মুসাইয়িবের কাছে গিয়ে তাঁকে জানালাম। সাঈদ বললেন, আমার বাবা আমাকে বলেছেন, তিনি গাছের নিচে আল্লাহর রাসূল ﷺ-এর হাতে বাই'আতকারীদের একজন ছিলেন। তিনি বলেছেন, পরের বছর যখন আমরা বের হলাম, গাছটা ভুলে গিয়েছিলাম, আর খুঁজে পাইনি। তারপর সাঈদ বললেন, মুহাম্মাদ ﷺ-এর সাহাবীরা তা জানতেন না, আর তোমরা জানো। তাহলে তোমরাই বেশি জানো!'"
           },
           {
             "en": "Other reports tell the tree's fate differently. At-Tabari has one from Bukayr ibn al-Ashajj, under the words they claimed, that 'Umar (RA) passed the place after the tree had gone; people disputed where it had stood, and he told them to move on. In that report the samura had gone, taken by a flood or by something else. Al-Baghawi gives the 'Umar report as narrated. Ma'arif al-Qur'an says it is reported that 'Umar had the tree cut down, fearing later people might worship it. The accounts differ and are left as they stand.",
@@ -396,16 +396,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Narrations on Those Who Pledged",
-          "bn": "বাই'আতকারীদের নিয়ে দুটি হাদীস"
+          "bn": "বাই'আতকারীদের নিয়ে দুটি হাদিস"
         },
         "p": [
           {
             "en": "Two narrations the commentators attach speak of those who pledged. Al-Baghawi brings the first through al-Bukhari's own chain, and Ma'arif al-Qur'an cites it. In Sahih al-Bukhari (4154), Jabir (RA) said: 'The Messenger of Allah ﷺ said to us on the day of al-Hudaybiya: You are the best of the people of the earth. And we were 1,400. If I could see today, I would show you the place of the tree.' Al-Bukhari includes it in his Sahih. Ma'arif al-Qur'an cites the second from Muslim, al-Baghawi brings it from Jabir by another chain, and al-Qurtubi states its sense.",
-            "bn": "তাফসীরকারদের আনা দুটি বর্ণনা বাই'আতকারীদের কথা বলে। প্রথমটি বাগাভী আনেন খোদ বুখারীর সনদে, মাআরিফুল কুরআনও এটি উল্লেখ করে। সহীহ বুখারীতে (নং ৪১৫৪) জাবির (রাঃ) বলেন: 'হুদায়বিয়ার দিন আল্লাহর রাসূল ﷺ আমাদের বললেন: তোমরা পৃথিবীবাসীদের মধ্যে শ্রেষ্ঠ। আমরা তখন ছিলাম ১,৪০০ জন। আজ যদি আমি দেখতে পেতাম, তোমাদের গাছটার জায়গা দেখিয়ে দিতাম।' ইমাম বুখারী হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন। দ্বিতীয়টি মাআরিফুল কুরআন উল্লেখ করে মুসলিম থেকে, বাগাভী আনেন জাবির থেকে ভিন্ন এক সনদে, আর কুরতুবী তার মর্ম বলেন।"
+            "bn": "তাফসীরকারদের আনা দুটি বর্ণনা বাই'আতকারীদের কথা বলে। প্রথমটি বাগাভী আনেন খোদ বুখারীর সনদে, মাআরিফুল কুরআনও এটি উল্লেখ করে। সহীহ বুখারীতে (নং ৪১৫৪) জাবির (রাঃ) বলেন: 'হুদায়বিয়ার দিন আল্লাহর রাসূল ﷺ আমাদের বললেন: তোমরা পৃথিবীবাসীদের মধ্যে শ্রেষ্ঠ। আমরা তখন ছিলাম ১,৪০০ জন। আজ যদি আমি দেখতে পেতাম, তোমাদের গাছটার জায়গা দেখিয়ে দিতাম।' ইমাম বুখারী হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন। দ্বিতীয়টি মাআরিফুল কুরআন উল্লেখ করে মুসলিম থেকে, বাগাভী আনেন জাবির থেকে ভিন্ন এক সনদে, আর কুরতুবী তার মর্ম বলেন।"
           },
           {
             "en": "In Sahih Muslim (2496), Umm Mubashshir (RA) heard the Prophet ﷺ say in Hafsa's presence: 'None of the people of the tree, those who pledged beneath it, will enter the Fire, if Allah wills.' She said: 'Yes indeed, O Messenger of Allah,' and he rebuked her. Hafsa said: 'And there is none of you but will come to it' (19:71). The Prophet ﷺ said: 'Allah, Mighty and Majestic, has said: Then We will save those who were mindful, and leave the wrongdoers in it on their knees' (19:72). Muslim includes it in his Sahih.",
-            "bn": "সহীহ মুসলিমে (নং ২৪৯৬) উম্মে মুবাশশির (রাঃ) বলেন, তিনি হাফসার উপস্থিতিতে নবী ﷺ-কে বলতে শুনেছেন: 'গাছওয়ালাদের মধ্যে, যারা তার নিচে বাই'আত করেছে, তাদের কেউ ইনশাআল্লাহ জাহান্নামে প্রবেশ করবে না।' তিনি বললেন, 'অবশ্যই করবে, হে আল্লাহর রাসূল।' নবী ﷺ তাঁকে ধমক দিলেন। হাফসা বললেন: 'তোমাদের প্রত্যেককেই তার কাছে পৌঁছাতে হবে' (১৯:৭১)। নবী ﷺ বললেন: 'আল্লাহ তা'আলা বলেছেন: তারপর আমি মুত্তাকীদের রক্ষা করব, আর জালিমদের সেখানে নতজানু অবস্থায় ফেলে রাখব' (১৯:৭২)। ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন।"
+            "bn": "সহীহ মুসলিমে (নং ২৪৯৬) উম্মে মুবাশশির (রাঃ) বলেন, তিনি হাফসার উপস্থিতিতে নবী ﷺ-কে বলতে শুনেছেন: 'গাছওয়ালাদের মধ্যে, যারা তার নিচে বাই'আত করেছে, তাদের কেউ ইনশাআল্লাহ জাহান্নামে প্রবেশ করবে না।' তিনি বললেন, 'অবশ্যই করবে, হে আল্লাহর রাসূল।' নবী ﷺ তাঁকে ধমক দিলেন। হাফসা বললেন: 'তোমাদের প্রত্যেককেই তার কাছে পৌঁছাতে হবে' (১৯:৭১)। নবী ﷺ বললেন: 'আল্লাহ তা'আলা বলেছেন: তারপর আমি মুত্তাকীদের রক্ষা করব, আর জালিমদের সেখানে নতজানু অবস্থায় ফেলে রাখব' (১৯:৭২)। ইমাম মুসলিম হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন।"
           }
         ]
       }
@@ -445,7 +445,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir attaches here a saying of the Prophet ﷺ that he places in the Sahih. Its wording in Sahih Muslim (2586a), from an-Nu'man ibn Bashir, reads: The likeness of the believers in their mutual love, mercy and sympathy is the likeness of the body: when one part of it aches, the rest of the body joins it in sleeplessness and fever. Muslim recorded it in his Sahih, the collection he limited to narrations he judged sound.",
-            "bn": "ইবন কাসীর এখানে নবী ﷺ-এর একটি বাণী জুড়ে দেন এবং বলেন, এটি সহীহ গ্রন্থে আছে। সহীহ মুসলিমে (২৫৮৬ক) নুমান ইবন বাশীর (রাঃ) থেকে এর ভাষ্য এমন: পারস্পরিক ভালোবাসা, দয়া আর সহমর্মিতায় মুমিনদের উদাহরণ একটি দেহের মতো। দেহের একটি অঙ্গ ব্যথা পেলে গোটা দেহ নির্ঘুম রাত আর জ্বরে তার সঙ্গী হয়। ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন, যে গ্রন্থে তিনি শুধু সেসব বর্ণনা রেখেছেন যা তাঁর বিচারে বিশুদ্ধ।"
+            "bn": "ইবন কাসীর এখানে নবী ﷺ-এর একটি বাণী জুড়ে দেন এবং বলেন, এটি সহীহ গ্রন্থে আছে। সহীহ মুসলিমে (২৫৮৬ক) নুমান ইবন বাশীর (রাঃ) থেকে এর ভাষ্য এমন: পারস্পরিক ভালোবাসা, দয়া আর সহমর্মিতায় মুমিনদের উদাহরণ একটি দেহের মতো। দেহের একটি অঙ্গ ব্যথা পেলে গোটা দেহ নির্ঘুম রাত আর জ্বরে তার সঙ্গী হয়। ইমাম মুসলিম হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন, যে গ্রন্থে তিনি শুধু সেসব বর্ণনা রেখেছেন যা তাঁর বিচারে বিশুদ্ধ।"
           }
         ]
       },
@@ -497,7 +497,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari himself judged that Allah tied the mark to no single time, so it holds for both: in this world the trace of Islam, its humility, guidance and bearing; in the next, brightness of face and limbs from ablution and whiteness of faces from prostration. A line often heard here, whoever prays much at night has a fair face by day, is cited by Ma'arif al-Qur'an and al-Qurtubi from Ibn Majah as the Prophet's ﷺ. Ibn Kathir says the sound view is that it stops short of him, and al-Qurtubi quotes Ibn al-'Arabi that it entered the hadith by mistake. It is not used here as a hadith.",
-            "bn": "তাবারী নিজে সিদ্ধান্ত দেন, আল্লাহ এই চিহ্নকে কোনো এক সময়ের সঙ্গে বেঁধে দেননি, তাই দুটোই এর অন্তর্ভুক্ত। দুনিয়ায় এটা ইসলামের ছাপ: তার বিনয়, সঠিক পথ আর চালচলন। আখিরাতে অজুর প্রভাবে মুখ আর হাত-পায়ের উজ্জ্বলতা, আর সিজদার প্রভাবে মুখের শুভ্রতা। এখানে একটা কথা প্রায়ই শোনা যায়: রাতে যে বেশি নামাজ পড়ে, দিনে তার চেহারা সুন্দর হয়। মাআরিফুল কুরআন আর কুরতুবী একে ইবন মাজাহর সূত্রে নবী ﷺ-এর বাণী হিসেবে আনেন। কিন্তু ইবন কাসীর বলেন, সঠিক মত হলো এটা নবী ﷺ পর্যন্ত পৌঁছায় না। আর কুরতুবী ইবনুল আরাবীর কথা আনেন যে এটা ভুলক্রমে হাদীসে ঢুকে গেছে। তাই এখানে একে হাদীস হিসেবে ব্যবহার করা হয়নি।"
+            "bn": "তাবারী নিজে সিদ্ধান্ত দেন, আল্লাহ এই চিহ্নকে কোনো এক সময়ের সঙ্গে বেঁধে দেননি, তাই দুটোই এর অন্তর্ভুক্ত। দুনিয়ায় এটা ইসলামের ছাপ: তার বিনয়, সঠিক পথ আর চালচলন। আখিরাতে অজুর প্রভাবে মুখ আর হাত-পায়ের উজ্জ্বলতা, আর সিজদার প্রভাবে মুখের শুভ্রতা। এখানে একটা কথা প্রায়ই শোনা যায়: রাতে যে বেশি নামাজ পড়ে, দিনে তার চেহারা সুন্দর হয়। মাআরিফুল কুরআন আর কুরতুবী একে ইবন মাজাহর সূত্রে নবী ﷺ-এর বাণী হিসেবে আনেন। কিন্তু ইবন কাসীর বলেন, সঠিক মত হলো এটা নবী ﷺ পর্যন্ত পৌঁছায় না। আর কুরতুবী ইবনুল আরাবীর কথা আনেন যে এটা ভুলক্রমে হাদিসে ঢুকে গেছে। তাই এখানে একে হাদিস হিসেবে ব্যবহার করা হয়নি।"
           }
         ]
       },
