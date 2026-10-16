@@ -26,7 +26,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN: 2:186 s2.p1 calls ujibu and yastajibu "the same verb": same root, different forms (IV vs X).
 - Open EN: 2:240-242 s2.p1 "Yet Al-Bukhari records from Mujahid himself" follows the paragraph keeping the verse in force; the "Yet" only contrasts with the previous paragraph (Mujahid among those who held it abrogated).
 - Shard 2 DONE v981 (12/12 packets + spelling pass: হাদিস নামাজ নাজিল ওহি রোজা ফরজ রমজান, 136 swaps). 2:177 s1.p1 / s2.p2 have Bengali-only notes on the app's BN translation (deliberate, kept).
-- Progress (shard: packets done): 2: 12/12, 3: 4/8
+- Progress (shard: packets done): 2: 12/12, 3: 5/8
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
