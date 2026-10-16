@@ -625,11 +625,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ulaika lahum jannatu adn: those will have gardens of perpetual residence. At-Tabari reads jannat adn as gardens of lasting stay in the next life, and al-Qurtubi adds that adn means to settle and stay put, from a root used of a camel that will not leave good pasture; the same root names a mine, where people stay through summer and winter. Al-Qurtubi even calls this garden the heart of Paradise, with the rest of the gardens ringed around it. The word 'those' points straight back to the believers of the verse before, whose reward Allah promised not to waste.",
-            "bn": "উলাইকা লাহুম জান্নাতু আদন: তাদের জন্য আছে স্থায়ী জান্নাত। তাবারী জান্নাতু আদনকে বোঝেন আখিরাতে চিরস্থায়ী বসবাসের বাগান হিসেবে। কুরতুবী যোগ করেন, আদন মানে থিতু হওয়া, না নড়া। শব্দটির মূল ব্যবহার হয় সেই উটের বেলায় যে ভালো চারণভূমি ছেড়ে যায় না। এই মূল থেকেই আসে খনির নাম, যেখানে মানুষ গ্রীষ্ম-শীত জুড়ে থেকে যায়। কুরতুবী তো একে বলেন জান্নাতের কেন্দ্র, আর বাকি বাগানগুলো তাকে ঘিরে আছে। 'তাদের' শব্দটা সোজা আগের আয়াতের মুমিনদের দিকেই ইশারা করে, যাদের প্রতিদান আল্লাহ নষ্ট না করার কথা দিয়েছেন।"
+            "bn": "উলাইকা লাহুম জান্নাতু আদন: তাদের জন্য আছে স্থায়ী জান্নাত। তাবারীর মতে জান্নাতু আদন হলো আখিরাতে চিরকাল থাকার বাগান। কুরতুবী যোগ করেন, আদন মানে থিতু হয়ে থাকা, না নড়া। এই ধাতু ব্যবহার হয় সেই উটের বেলায়, যে ভালো চারণভূমি ছেড়ে কোথাও যায় না। একই ধাতু থেকে এসেছে খনির নাম, কারণ খনিতে মানুষ গ্রীষ্ম-শীত পড়ে থাকে। কুরতুবী তো একে জান্নাতের কেন্দ্রই বলেন, বাকি বাগানগুলো এর চারপাশ ঘিরে। 'তাদের' শব্দটা সোজা আগের আয়াতের মুমিনদের দিকে ইশারা করে, যাদের প্রতিদান নষ্ট না করার কথা আল্লাহ দিয়েছেন।"
           },
           {
             "en": "Tajri min tahtihimu al-anhar: rivers flow beneath them. Ibn Kathir and the Muyassar both gloss the phrase as flowing beneath their chambers and dwellings, not merely somewhere below. Ibn Kathir sets it against Pharaoh's boast in 43:51, that the rivers of Egypt ran beneath him; the believer is given for keeps what the tyrant claimed for a season. As-Sa'di pictures trees so many they shade whoever is under them, and rivers so many they run beneath those trees and lofty houses. The scene is not a distant view but a place you live inside.",
-            "bn": "তাজরি মিন তাহতিহিমুল আনহার: তাদের নিচ দিয়ে বয়ে চলে ঝর্ণা। ইবন কাসীর আর মুয়াসসার দুজনেই একে বোঝেন তাদের কক্ষ ও বাসস্থানের নিচ দিয়ে বয়ে চলা হিসেবে, শুধু নিচের কোথাও নয়। ইবন কাসীর একে দাঁড় করান ৪৩:৫১ আয়াতে ফিরআউনের গর্বের বিপরীতে, যেখানে সে বলেছিল মিসরের নদী তার নিচ দিয়ে বয়ে যায়। অত্যাচারী যা কিছুদিনের জন্য দাবি করেছিল, মুমিনকে তা দেওয়া হয় চিরকালের জন্য। সাদি আঁকেন এমন ঘন গাছপালা যা নিচে থাকা সবাইকে ছায়া দেয়, আর এত ঝর্ণা যে তা সেই গাছ আর উঁচু ঘরগুলোর নিচ দিয়ে বয়ে যায়। এ কোনো দূরের দৃশ্য নয়, এ এমন এক জায়গা যার ভেতরে আপনি থাকেন।"
+            "bn": "তাজরি মিন তাহতিহিমুল আনহার: তাদের নিচ দিয়ে বয়ে চলে নহর। ইবন কাসীর আর মুয়াসসার দুজনেই বলেন, নহর বইবে তাদের কক্ষ আর ঘরবাড়ির নিচ দিয়ে, শুধু নিচে কোথাও নয়। ইবন কাসীর এর পাশে রাখেন ৪৩:৫১ আয়াতে ফেরাউনের অহংকারী দাবি: মিসরের নদীগুলো তার নিচ দিয়ে বয়ে যায়। জালিম যা কিছুদিনের জন্য নিজের বলে দাবি করেছিল, মুমিন তা পায় চিরকালের জন্য। সাদির ছবিতে গাছ এত ঘন যে নিচে যে-ই থাকে, ছায়া পায়; আর নহর এত বেশি যে সেই গাছ আর উঁচু ঘরগুলোর নিচ দিয়ে বয়ে চলে। এ দূর থেকে দেখার দৃশ্য নয়, এ এমন জায়গা যার ভেতরে আপনি থাকবেন।"
           }
         ]
       },
@@ -668,16 +668,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Reclining, Not Restless",
-          "bn": "হেলান দেওয়া, অস্থির নয়"
+          "bn": "হেলান দিয়ে নিশ্চিন্ত"
         },
         "p": [
           {
             "en": "Muttakiina fiha ala al-araik: reclining therein on couches. Ibn Kathir says the word muttakiin carries two readings, lying down or sitting with the legs folded, and he judges the second closer to what is meant here. The araik, he explains, are the plural of arika, a bed set under a canopy; at-Tabari and al-Qurtubi give the same, a couch within curtained drapes, and al-Qurtubi cites Ibn Abbas that they are beds of gold studded with pearl and ruby with the canopy over them. Qatada, through Abd al-Razzaq, reads the very word araik as those canopies.",
-            "bn": "মুত্তাকিইনা ফিহা আলাল আরাইক: সেখানে তারা আসনে হেলান দিয়ে থাকবে। ইবন কাসীর বলেন, মুত্তাকিইন শব্দে দুটি পাঠ আছে, শুয়ে থাকা অথবা পা গুটিয়ে বসা; আর এখানে যা বোঝানো হচ্ছে তার কাছাকাছি তিনি ধরেন দ্বিতীয়টিকে। আরাইক, তিনি বুঝিয়ে দেন, আরিকা শব্দের বহুবচন, পর্দাঘেরা ছাউনির নিচে পাতা আসন। তাবারী আর কুরতুবীও একই কথা বলেন, পর্দার ভেতরে রাখা আসন। কুরতুবী ইবন আব্বাসের বরাতে বলেন, এগুলো সোনার আসন, মুক্তা আর ইয়াকুতে খচিত, উপরে ছাউনি টানানো। কাতাদা আবদুর রাযযাকের সূত্রে আরাইক শব্দটাকেই পড়েন সেই ছাউনি হিসেবে।"
+            "bn": "মুত্তাকিইনা ফিহা আলাল আরাইক: সেখানে তারা আসনে হেলান দিয়ে থাকবে। ইবন কাসীর বলেন, মুত্তাকিইন শব্দের দুটি ব্যাখ্যা আছে: শুয়ে থাকা, অথবা পা গুটিয়ে বসা। তাঁর মতে এখানে দ্বিতীয়টিই বেশি খাটে। তিনি বুঝিয়ে দেন, আরাইক হলো আরিকা শব্দের বহুবচন, মানে ছাউনির নিচে পাতা আসন। তাবারী আর কুরতুবীও একই কথা বলেন: পর্দাঘেরা জায়গায় রাখা আসন। কুরতুবী ইবন আব্বাসের বরাতে বলেন, এগুলো সোনার আসন, মুক্তা আর ইয়াকুতে খচিত, মাথার উপর ছাউনি টানানো। আর আবদুর রাযযাকের সূত্রে কাতাদা বলেন, আরাইক শব্দের মানেই ওই ছাউনিগুলো।"
           },
           {
             "en": "As-Sa'di reads the posture, not just the furniture. A couch, he says, is not even called an arika until it is dressed and made fine, and to lean upon it points to complete rest, the passing of fatigue, and servants moving about with whatever the soul desires. To sit propped and at ease is the body of someone who has arrived and has nothing left to guard against. That is the note the verse strikes here: not the striving of the earlier verses, where the Prophet is told to hold himself patient with the poor who call on their Lord, but the settled ease that the striving was for.",
-            "bn": "সাদি কেবল আসবাব নয়, বসার ভঙ্গিটাও পড়েন। তিনি বলেন, একটা আসনকে আরিকা বলাই হয় না যতক্ষণ না তা সাজানো আর সুন্দর করা হয়। আর তাতে হেলান দেওয়া ইশারা করে পূর্ণ প্রশান্তির দিকে, ক্লান্তি ও অবসাদের চলে যাওয়ার দিকে, আর মন যা চায় তা নিয়ে খাদিমদের ছোটাছুটির দিকে। ঠেস দিয়ে নিশ্চিন্তে বসা সেই মানুষের ভঙ্গি, যে পৌঁছে গেছে আর যার আর কিছু পাহারা দেওয়ার নেই। আয়াত এখানে সেই সুরটাই ধরায়। আগের আয়াতগুলোর সেই সংগ্রাম নয়, যেখানে নবী ﷺ-কে বলা হয়েছিল রবকে ডাকা গরিবদের সঙ্গে ধৈর্য ধরে থাকতে, বরং সেই থিতু প্রশান্তি, যার জন্যই ছিল সংগ্রামটা।"
+            "bn": "সাদি কেবল আসবাব নয়, বসার ভঙ্গিটাও পড়েন। তিনি বলেন, আসন সাজিয়ে-গুছিয়ে সুন্দর না করা পর্যন্ত তাকে আরিকা বলাই হয় না। আর তাতে হেলান দেওয়া মানে পুরো আরাম, ক্লান্তি আর অবসাদ দূর হয়ে যাওয়া, আর মন যা চায় তা নিয়ে খাদিমদের আসা-যাওয়া। এভাবে ঠেস দিয়ে নিশ্চিন্তে বসে সেই মানুষ, যে পৌঁছে গেছে, যার আর কোনো কিছু থেকে সতর্ক থাকার দরকার নেই। এখানে আয়াতের সুর এটাই। আগের আয়াতগুলোর সেই সাধনা নয়, যেখানে নবী ﷺ-কে বলা হয়েছিল রবকে ডাকা গরিবদের সঙ্গে ধৈর্য ধরে থাকতে। বরং সেই থিতু প্রশান্তি, যার জন্যই ছিল এত সাধনা।"
           }
         ]
       },
@@ -689,11 +689,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Under the word yuhallawna, al-Qurtubi reaches for a sound report about that same adorning. Muslim records, in his Sahih (hadith 250), that Abu Hazim stood behind Abu Huraira as he made ablution and saw him extend the washing of his arm up to the armpit. Asked about it, Abu Huraira said he had heard his beloved Prophet say, 'In the believer, the adornment will reach as far as the ablution reaches.' Being in Sahih Muslim, the report is graded sound; its wording is his and is quoted here whole.",
-            "bn": "ইউহাল্লাওনা শব্দের নিচে কুরতুবী সেই অলংকরণ নিয়েই একটি সহীহ বর্ণনা টেনে আনেন। মুসলিম তাঁর সহীহতে (হাদীস ২৫০) বর্ণনা করেন, আবু হাযিম আবু হুরায়রা (রাঃ)-এর পেছনে দাঁড়িয়ে ছিলেন যখন তিনি অজু করছিলেন, আর দেখলেন তিনি হাত ধোয়া বাড়িয়ে নিচ্ছেন বগল পর্যন্ত। এ নিয়ে জিজ্ঞেস করা হলে আবু হুরায়রা (রাঃ) বললেন, তিনি তাঁর প্রিয় নবী ﷺ-কে বলতে শুনেছেন, 'মুমিনের অলংকার সেখানেই পৌঁছবে যেখানে অজুর পানি পৌঁছয়।' সহীহ মুসলিমে থাকায় বর্ণনাটি সহীহ বলে গণ্য; এর শব্দগুলো তাঁরই, আর এখানে তা পুরোটা উদ্ধৃত।"
+            "bn": "ইউহাল্লাওনা শব্দের ব্যাখ্যায় কুরতুবী ঠিক এই অলংকার নিয়ে একটি সহীহ বর্ণনা আনেন। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (হাদিস ২৫০) বর্ণনা করেন: আবু হুরায়রা (রাঃ) অজু করছিলেন, আবু হাযিম তাঁর পেছনে দাঁড়িয়ে। তিনি দেখলেন, আবু হুরায়রা হাত ধোয়া টেনে নিচ্ছেন বগল পর্যন্ত। জিজ্ঞেস করা হলে আবু হুরায়রা (রাঃ) বললেন, তিনি তাঁর প্রিয় নবী ﷺ-কে বলতে শুনেছেন, 'মুমিনের অলংকার সেখানেই পৌঁছবে যেখানে অজুর পানি পৌঁছয়।' সহীহ মুসলিমে থাকায় বর্ণনাটি সহীহ বলে গণ্য। শব্দগুলো তাঁরই, এখানে পুরোটা তুলে দেওয়া হলো।"
           },
           {
             "en": "The report ties the gold of the verse to a wet act done before dawn. The bracelets of 18:31 are not won by wishing for them; a companion lengthened his wudu because he had heard where the ornament would one day sit. It also fits what as-Sa'di drew from the open verb: the adornment is promised to believing men and women alike, though gold and silk are held back from men in this life. The wrist that will wear gold is the wrist that is washed for prayer now.",
-            "bn": "বর্ণনাটি আয়াতের সোনাকে বেঁধে দেয় ভোরের আগে করা এক ভেজা কাজের সঙ্গে। ১৮:৩১ আয়াতের কংকণ কেবল কামনা করে পাওয়া যায় না; একজন সাহাবি অজু লম্বা করেছিলেন কারণ তিনি শুনেছিলেন অলংকার একদিন কোথায় বসবে। এটা সাদির খোলা ক্রিয়া থেকে টানা কথাটার সঙ্গেও মেলে: এই অলংকার মুমিন নারী-পুরুষ উভয়ের জন্যই ওয়াদা করা, যদিও দুনিয়ায় পুরুষের জন্য সোনা আর রেশম আটকানো। যে কব্জি সোনা পরবে, সেই কব্জিই এখন নামাজের জন্য ধোয়া হয়।"
+            "bn": "বর্ণনাটি আয়াতের সোনাকে জুড়ে দেয় ভোর হওয়ার আগে পানিতে ভেজা একটা আমলের সঙ্গে। ১৮:৩১ আয়াতের কংকণ শুধু মনে মনে চাইলেই মেলে না। একজন সাহাবি অজু লম্বা করেছিলেন, কারণ তিনি শুনেছিলেন অলংকার একদিন কোথায় গিয়ে বসবে। খোলা ক্রিয়াটি থেকে সাদি যে কথা বের করেছিলেন, তার সঙ্গেও এটা মেলে: এই অলংকারের ওয়াদা মুমিন নারী-পুরুষ সবার জন্য, যদিও দুনিয়ায় পুরুষের জন্য সোনা আর রেশম নিষেধ। যে কব্জি একদিন সোনা পরবে, সেই কব্জিই আজ নামাজের জন্য ধোয়া হয়।"
           }
         ]
       },
@@ -705,11 +705,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an meets an honest objection head on. Ornaments and gold do not suit men here, and the law of this world forbids a man even a gold ring or a gold watch-chain, and forbids him silk clothing too. So why are the men of the Garden decked in bracelets and silk? Its answer is that what counts as beauty is set by custom, and custom differs from land to land and age to age: what one place prizes another finds ugly, and what one century admires the next may scorn. Beauty is not a fixed law of matter.",
-            "bn": "মাআরিফুল কুরআন একটা সৎ আপত্তির মুখোমুখি হয় সরাসরি। অলংকার আর সোনা এখানে পুরুষকে মানায় না, আর দুনিয়ার আইন পুরুষের জন্য এমনকি সোনার আংটি বা সোনার ঘড়ির চেইনও নিষেধ করে, রেশমি পোশাকও নিষেধ করে। তাহলে জান্নাতের পুরুষদের কেন কংকণ আর রেশমে সাজানো হবে? এর জবাব হলো, কোনটা সৌন্দর্য তা ঠিক করে দেয় প্রচলন, আর প্রচলন দেশভেদে যুগভেদে বদলায়। এক জায়গা যা মূল্য দেয়, আরেক জায়গা তাকে কুৎসিত মনে করে; এক শতক যা পছন্দ করে, পরের শতক তাকে হয়তো তুচ্ছ ভাবে। সৌন্দর্য বস্তুর কোনো বাঁধা নিয়ম নয়।"
+            "bn": "মাআরিফুল কুরআন একটা ন্যায্য আপত্তির সরাসরি মোকাবিলা করে। অলংকার আর সোনা এ দুনিয়ায় পুরুষকে মানায় না। দুনিয়ার বিধান পুরুষের জন্য সোনার আংটি, এমনকি সোনার ঘড়ির চেইনও নিষেধ করেছে, রেশমি পোশাকও। তাহলে জান্নাতের পুরুষদের কেন কংকণ আর রেশমে সাজানো হবে? জবাব হলো, কোনটা সুন্দর, তা ঠিক করে প্রচলন; আর প্রচলন দেশে দেশে, যুগে যুগে আলাদা। এক দেশ যা দামি মনে করে, আরেক দেশ তাকে কুৎসিত ভাবে; এক শতক যা পছন্দ করে, পরের শতক হয়তো তাকে তুচ্ছ করে। সৌন্দর্য বস্তুর কোনো বাঁধাধরা নিয়ম নয়।"
           },
           {
             "en": "The deeper answer, Ma'arif says, is that the next life is a separate order of existence altogether, not to be measured by the rules and analogies of the world we know. In Paradise, ornament and silk are established as beauty for men, and nobody there finds it strange. The prohibition that binds a man now is a law of this world, not a verdict on the thing itself. This keeps the reward from being pulled down to the level of a luxury catalogue: it is not this world's finery scaled up, but a different world's ordinary.",
-            "bn": "আরও গভীর জবাব, মাআরিফ বলে, হলো এই যে আখিরাত পুরোপুরি আলাদা এক অস্তিত্বের ব্যবস্থা, আমাদের চেনা দুনিয়ার নিয়ম আর উপমা দিয়ে যাকে মাপা যায় না। জান্নাতে অলংকার আর রেশম পুরুষের জন্য সৌন্দর্য হিসেবেই প্রতিষ্ঠিত, আর সেখানে কারও কাছে তা অদ্ভুত লাগে না। যে নিষেধ এখন পুরুষকে বাঁধে, তা দুনিয়ার আইন, জিনিসটার নিজের উপর কোনো রায় নয়। এটা পুরস্কারকে বিলাসদ্রব্যের তালিকার স্তরে নামতে দেয় না। এ দুনিয়ার জৌলুসকে বড় করে দেখানো নয়, বরং আরেক জগতের সাধারণ জিনিস।"
+            "bn": "মাআরিফের মতে আরও গভীর জবাব হলো, আখিরাত পুরোপুরি আলাদা এক জগৎ। আমাদের চেনা দুনিয়ার নিয়ম আর উপমা দিয়ে তাকে মাপা যায় না। জান্নাতে অলংকার আর রেশমই পুরুষের সৌন্দর্য, সেখানে কারও কাছে তা অদ্ভুত লাগে না। যে নিষেধ আজ পুরুষকে বেঁধে রাখে, তা এ দুনিয়ার বিধান, জিনিসটা নিজে খারাপ বলে কোনো রায় নয়। এতে পুরস্কারটা বিলাসী পণ্যের তালিকার স্তরে নেমে আসে না। এ দুনিয়ার জৌলুসেরই বড় সংস্করণ নয়, এ আরেক জগতের সাধারণ জিনিস।"
           }
         ]
       },
@@ -721,11 +721,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nima al-thawabu wa hasunat murtafaqa: excellent is the reward, and good is the resting place. Ibn Kathir reads this as the deliberate answer to the fire two verses back, where the same closing shape ran bisa al-sharabu wa saat murtafaqa, wretched is the drink and evil is the resting place. The one word murtafaqa, the place where one settles and takes ease, is set down twice: once evil, once good. Ibn Kathir points to the same paired contrast of Paradise and Hell in 25:66 and 25:76 of Surat al-Furqan, where each is closed with its own verdict on the place of rest.",
-            "bn": "নিমাস সাওয়াবু ওয়া হাসুনাত মুরতাফাকা: কতই না উত্তম পুরস্কার, আর কতই না উত্তম ঠাঁই। ইবন কাসীর একে পড়েন দুই আয়াত আগের আগুনের জবাব হিসেবে, যেখানে ঠিক এই শেষ গড়নেই এসেছিল বিসাশ শারাবু ওয়া সাআত মুরতাফাকা, কতই না নিকৃষ্ট পানীয়, আর কতই না খারাপ ঠাঁই। মুরতাফাকা শব্দটাই, মানে যেখানে মানুষ থিতু হয় আর আরাম নেয়, বসানো হয়েছে দুবার: একবার খারাপ, একবার ভালো। ইবন কাসীর একই জোড়া বিপরীত ইশারা করেন সূরা ফুরকানের ২৫:৬৬ ও ২৫:৭৬ আয়াতে, যেখানে জান্নাত আর জাহান্নাম প্রতিটি শেষ হয় নিজের ঠাঁই নিয়ে নিজের রায়ে।"
+            "bn": "নিমাস সাওয়াবু ওয়া হাসুনাত মুরতাফাকা: কতই না উত্তম পুরস্কার, আর কতই না উত্তম ঠাঁই। ইবন কাসীর একে পড়েন দুই আয়াত আগের আগুনের জবাব হিসেবে। সেখানেও ঠিক এই গড়নে শেষ হয়েছিল: বিসাশ শারাবু ওয়া সাআত মুরতাফাকা, কতই না নিকৃষ্ট পানীয়, আর কতই না খারাপ ঠাঁই। মুরতাফাকা মানে যেখানে মানুষ থিতু হয়, আরাম করে। এই একটা শব্দই বসানো হয়েছে দুবার: একবার মন্দ, একবার ভালো। ইবন কাসীর একই রকম জোড়া বৈপরীত্য দেখান সূরা ফুরকানের ২৫:৬৬ ও ২৫:৭৬ আয়াতে। সেখানেও জাহান্নাম আর জান্নাত, দুটোর বর্ণনাই শেষ হয় থাকার জায়গা নিয়ে নিজ নিজ রায়ে।"
           },
           {
             "en": "At-Tabari notices the grammar. The verb hasunat is feminine because it points to the araik, the couches just named. He adds that nima and bisa are placed in speech to carry praise or blame, not to report an action, which is why Arabic keeps them the same with a feminine subject or a plural one. The point is not a technicality: the fire's verse and the garden's verse are built as mirror images, syllable for syllable, so that the ear hears the choice of 18:29, believe or disbelieve, resolve into two facing ends.",
-            "bn": "তাবারী ব্যাকরণটা খেয়াল করেন। হাসুনাত ক্রিয়াটি স্ত্রীবাচক, কারণ তা ইশারা করে আরাইকের দিকে, এইমাত্র নাম নেওয়া আসনগুলোর দিকে। তিনি যোগ করেন, নিমা আর বিসা কথায় বসানো হয় প্রশংসা বা নিন্দা বহন করতে, কোনো কাজ জানাতে নয়। এ জন্যই আরবি এদের স্ত্রীবাচক কর্তার সঙ্গে বা বহুবচন কর্তার সঙ্গে একই রাখে। কথাটা কোনো নিছক নিয়মের কথা নয়। আগুনের আয়াত আর জান্নাতের আয়াত গড়া হয়েছে একে অপরের আয়না করে, অক্ষরে অক্ষরে, যাতে কান শুনতে পায় ১৮:২৯ আয়াতের সেই বাছাই, ঈমান আনা কি অস্বীকার করা, মিলিয়ে যাচ্ছে মুখোমুখি দুই পরিণতিতে।"
+            "bn": "তাবারী ব্যাকরণটা খেয়াল করেন। হাসুনাত ক্রিয়াটি স্ত্রীলিঙ্গ, কারণ তা ইশারা করে আরাইকের দিকে, মানে এইমাত্র যে আসনগুলোর কথা এল। তিনি যোগ করেন, নিমা আর বিসা কথায় আসে প্রশংসা বা নিন্দা বোঝাতে, কোনো কাজের খবর দিতে নয়। এ জন্যই কর্তা স্ত্রীলিঙ্গ হোক বা বহুবচন, আরবিতে এ শব্দ দুটো বদলায় না। এটা নিছক ব্যাকরণের খুঁটিনাটি নয়। আগুনের আয়াত আর জান্নাতের আয়াত গড়া হয়েছে একে অপরের আয়নার মতো, ধ্বনিতে ধ্বনিতে মিলিয়ে, যাতে কানে ধরা পড়ে: ১৮:২৯ আয়াতের বাছাই, ঈমান না কুফর, গিয়ে ঠেকছে মুখোমুখি দুই পরিণতিতে।"
           }
         ]
       },
@@ -737,11 +737,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is worth keeping this reward apart from the adornment named elsewhere in the surah. In 18:46, wealth and children are called the adornment of the worldly life, and in 18:45 that life is likened to green growth the wind soon scatters. The green silk here is the opposite case. It is not the zina of a life that fades but the reward of the next, and as-Sa'di dwells on this: the least of Paradise's people would travel his kingdom two thousand years and never reach the end of what he was given, and even then the bliss keeps increasing in its beauty and never settles into sameness.",
-            "bn": "এই পুরস্কারকে সূরার অন্য জায়গায় নাম নেওয়া শোভা থেকে আলাদা রাখা দরকার। ১৮:৪৬ আয়াতে সম্পদ আর সন্তানকে বলা হয়েছে দুনিয়ার জীবনের শোভা, আর ১৮:৪৫ আয়াতে সে জীবনকে তুলনা করা হয়েছে সবুজ ফসলের সঙ্গে, যাকে বাতাস অচিরেই উড়িয়ে নেয়। এখানকার সবুজ রেশম তার উল্টো। এ মিলিয়ে যাওয়া জীবনের শোভা নয়, এ আখিরাতের পুরস্কার। সাদি এ নিয়ে থামেন: জান্নাতের সবচেয়ে নিচু মানুষটিও তার রাজত্বে দুই হাজার বছর ঘুরবে আর যা পেয়েছে তার শেষ পাবে না, আর তখনও সেই নিয়ামত সৌন্দর্যে বেড়েই চলবে, কখনো একঘেয়ে হয়ে থামবে না।"
+            "bn": "এই পুরস্কারকে সূরার অন্য জায়গায় বলা শোভা থেকে আলাদা করে দেখা দরকার। ১৮:৪৬ আয়াতে সম্পদ আর সন্তানকে বলা হয়েছে দুনিয়ার জীবনের শোভা, আর ১৮:৪৫ আয়াতে সেই জীবনকে তুলনা করা হয়েছে সবুজ গাছপালার সঙ্গে, বাতাস যাকে অল্প দিনেই উড়িয়ে নেয়। এখানকার সবুজ রেশম ঠিক উল্টো। এ ক্ষণস্থায়ী জীবনের শোভা নয়, আখিরাতের পুরস্কার। সাদি এ কথাটা বিস্তারিত বলেন: জান্নাতের সবচেয়ে নিচের স্তরের মানুষটিও নিজের রাজত্বে দুই হাজার বছর ঘুরে বেড়াবে, তবু যা পেয়েছে তার শেষ খুঁজে পাবে না। তারপরও সেই নিয়ামতের সৌন্দর্য বেড়েই চলবে, কখনো একঘেয়ে হয়ে থেমে যাবে না।"
           },
           {
             "en": "The verse ends on the couch and the settled ease, and then the surah turns. The next verse opens a parable of two men, one given two gardens of grapevines and the other not, and that story belongs to itself. Here the reward has been laid out in full: the residence, the rivers, the gold, the silk, the couch, and the one word that answers the fire. The invitation of these verses is not to admire the furniture but to read the closing line as a question. Two verses end with the same music and opposite meaning, and each reader is spending today writing toward one of them.",
-            "bn": "আয়াত শেষ হয় আসন আর থিতু প্রশান্তিতে, তারপর সূরা মোড় নেয়। পরের আয়াত খোলে দুই ব্যক্তির উপমা দিয়ে, যাদের একজনকে দেওয়া হয়েছিল আঙুরের দুই বাগান আর অন্যজনকে নয়, আর সে কাহিনি তার নিজের। এখানে পুরস্কার পুরোটা মেলে ধরা হয়েছে: বসবাস, ঝর্ণা, সোনা, রেশম, আসন, আর সেই একটি শব্দ যা আগুনের জবাব দেয়। এই আয়াতগুলোর ডাক আসবাব দেখে মুগ্ধ হওয়ার নয়, বরং শেষ লাইনটাকে একটা প্রশ্ন হিসেবে পড়ার। দুই আয়াত শেষ হয় একই সুরে অথচ উল্টো অর্থে, আর প্রতিটি পাঠক আজকের দিনটা খরচ করছে এদের কোনো একটির দিকে লিখতে লিখতে।"
+            "bn": "আয়াত শেষ হয় আসন আর থিতু প্রশান্তিতে, তারপর সূরা মোড় নেয়। পরের আয়াতে শুরু হয় দুই ব্যক্তির উপমা: একজনকে দেওয়া হয়েছিল আঙুরের দুটি বাগান, অন্যজনকে নয়। সে কাহিনি আলাদা, তার কথা তার জায়গায়। এখানে পুরস্কারের পুরো ছবিটা মেলে ধরা হয়েছে: স্থায়ী নিবাস, নহর, সোনা, রেশম, আসন, আর সেই একটি শব্দ, যা আগুনের জবাব দেয়। এই আয়াতগুলো আসবাব দেখে মুগ্ধ হতে ডাকে না, ডাকে শেষ লাইনটাকে একটা প্রশ্ন হিসেবে পড়তে। দুটি আয়াত শেষ হয় একই সুরে, অথচ উল্টো অর্থে। আর প্রত্যেক পাঠক আজকের দিনটা দিয়ে এ দুটির কোনো একটির দিকেই নিজের গল্প লিখে চলেছেন।"
           }
         ]
       }
@@ -757,7 +757,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Allah tells His Prophet ﷺ to set before the people the example of two men (18:32). To one He gave two gardens of grapevines ringed with palms and sown with crops between them; each garden yielded its fruit in full and a river ran through them (18:33). The man had abundance, and abundance did the quiet work it so often does. This is a mathal, a coined example, and its two figures are not real neighbours to be named and judged; they are types the listener is meant to weigh himself against.",
-            "bn": "আল্লাহ তাঁর নবী ﷺ-কে বলছেন মানুষের সামনে দুই ব্যক্তির উপমা তুলে ধরতে (১৮:৩২)। একজনকে তিনি দিয়েছিলেন আঙুরের দুই বাগান, চারপাশে খেজুরগাছ আর মাঝখানে শষ্যক্ষেত; দুই বাগানই পুরোপুরি ফল দিত, আর তার ভেতর দিয়ে বইত ঝর্ণাধারা (১৮:৩৩)। লোকটির ছিল প্রাচুর্য, আর প্রাচুর্য যা করে থাকে চুপচাপ সেই কাজটাই করল। এ এক মাসাল, গড়ে তোলা দৃষ্টান্ত। এর দুই চরিত্র বাস্তব কোনো প্রতিবেশী নয় যাদের নাম ধরে বিচার করতে হবে; এরা এমন দুই ধরন, যাদের সঙ্গে শ্রোতা নিজেকে মিলিয়ে দেখবে।"
+            "bn": "আল্লাহ তাঁর নবী ﷺ-কে বলছেন মানুষের সামনে দুই ব্যক্তির উপমা তুলে ধরতে (১৮:৩২)। একজনকে তিনি দিয়েছিলেন আঙুরের দুটি বাগান, চারপাশ খেজুরগাছে ঘেরা, মাঝখানে শস্যখেত। দুই বাগানই পুরো ফল দিত, আর মাঝ দিয়ে বয়ে যেত একটি নহর (১৮:৩৩)। লোকটির ছিল প্রাচুর্য, আর প্রাচুর্য প্রায়ই চুপচাপ যা করে, তা-ই করল। এ এক মাসাল, মানে গড়ে তোলা দৃষ্টান্ত। এর দুই চরিত্র বাস্তবের কোনো প্রতিবেশী নয় যে নাম ধরে তাদের বিচার করতে হবে; এরা দুই ধরনের মানুষ, যাদের সঙ্গে শ্রোতা নিজেকে মিলিয়ে দেখবে।"
           },
           {
             "en": "So he said to his companion, in the middle of talking with him, 'I am greater than you in wealth and mightier in men' (18:34). He entered his garden wronging his own soul and said he did not think it would ever perish (18:35). Then he went further: 'I do not think the Hour will come, and even if I am returned to my Lord I will surely find something better than this' (18:36). Wealth had grown into a settled certainty that nothing would end and no reckoning waited.",
@@ -777,7 +777,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "'His companion said to him, while he was conversing with him' (18:37). At-Tabari identifies this speaker as the companion who was less than the rich man in wealth and children, the same believer of 18:34, and glosses 'while conversing with him' simply as addressing and speaking to him. The reply is not shouted across a distance; it is one side of a conversation already under way, an answer given face to face to a man who has just declared himself untouchable.",
-            "bn": "‘তার সাথী তাকে বলল, কথা চালিয়ে যেতে যেতেই’ (১৮:৩৭)। তাবারী এই বক্তাকে চেনান সেই সাথী হিসেবে, যে ধনে-সন্তানে ধনী লোকটির চেয়ে কম ছিল, ১৮:৩৪-এর সেই বিশ্বাসীই। আর ‘কথা চালিয়ে যেতে যেতে’ কথাটার অর্থ তিনি সোজা করেই দেন: তাকে সম্বোধন করে, তার সঙ্গে কথা বলতে বলতে। এ জবাব দূর থেকে চেঁচিয়ে বলা নয়। এ এক চলমান আলাপেরই একটা দিক, নিজেকে অটুট ঘোষণা করা লোকটির মুখোমুখি দাঁড়িয়ে দেওয়া উত্তর।"
+            "bn": "‘তার সাথী তাকে বলল, কথা চালিয়ে যেতে যেতেই’ (১৮:৩৭)। তাবারী জানান, এই বক্তা সেই সাথী, ধনে-সন্তানে যে ধনী লোকটির চেয়ে কম ছিল, ১৮:৩৪-এর সেই মুমিনই। আর ‘কথা চালিয়ে যেতে যেতে’ কথাটার মানে তিনি সোজাসুজি বলেন: তাকে উদ্দেশ করে, তার সঙ্গে কথা বলতে বলতে। এ জবাব দূর থেকে চেঁচিয়ে বলা নয়। চলতি আলাপেই এক পক্ষের কথা, মুখোমুখি দেওয়া উত্তর, এমন লোককে, যে এইমাত্র ঘোষণা দিয়েছে তাকে কিছুই ছুঁতে পারবে না।"
           },
           {
             "en": "Al-Qurtubi notes that the commentators disputed the believer's name, some saying Yahudha and some Tamlikha, and he does not settle it. The Qur'an itself leaves him unnamed, and that is fitting: the point is not who he was but what he said. What matters is that a man with less in his hands saw more clearly, and that the poorer in vines was still able to remember how a person is made.",
@@ -793,15 +793,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The reply opens as a question that is really a charge: 'Have you disbelieved in Him who created you...?' (18:37). Ibn Kathir calls this a denunciation, and reads the believer as admonishing and rebuking his companion for the disbelief he had fallen into and the conceit that had deceived him. The Arabic verb akfarta is not a neutral 'do you doubt'; it names what the man's easy certainty amounts to when it is followed all the way to its end.",
-            "bn": "জবাবটা শুরু হয় এমন এক প্রশ্ন দিয়ে, যা আসলে এক অভিযোগ: ‘তুমি কি তাঁকে অস্বীকার করছ, যিনি তোমাকে সৃষ্টি করেছেন...?’ (১৮:৩৭)। ইবন কাসীর একে বলেন ধিক্কার, আর বিশ্বাসী লোকটিকে পড়েন এমন একজন হিসেবে, যে তার সাথীকে তিরস্কার করছে সেই কুফরের জন্য যাতে সে পড়েছিল, আর যে দম্ভ তাকে ধোঁকা দিয়েছিল তার জন্য। আরবি শব্দ ‘আকাফারতা’ নিছক ‘তুমি কি সন্দেহ করছ’ নয়; লোকটির সহজ নিশ্চয়তা শেষ পর্যন্ত টেনে নিলে যা দাঁড়ায়, শব্দটা তারই নাম দেয়।"
+            "bn": "জবাবটা শুরু হয় একটা প্রশ্ন দিয়ে, যা আসলে অভিযোগ: ‘তুমি কি তাঁকে অস্বীকার করছ, যিনি তোমাকে সৃষ্টি করেছেন...?’ (১৮:৩৭)। ইবন কাসীর একে বলেন ধিক্কার। তাঁর পাঠে মুমিন সাথী লোকটিকে উপদেশ দিচ্ছেন, ধমকও দিচ্ছেন, কারণ সে কুফরে পড়ে গেছে আর দম্ভ তাকে ধোঁকা দিয়েছে। আরবি ক্রিয়া ‘আকাফারতা’ নিরীহ কোনো ‘তুমি কি সন্দেহ করছ’ নয়। লোকটির সহজ নিশ্চয়তাকে শেষ পর্যন্ত টেনে নিলে যা দাঁড়ায়, শব্দটা সোজা তারই নাম ধরে।"
           },
           {
             "en": "What exactly had he denied? Ibn Kathir frames it as juhud, an outright denial of the very Lord who created him. At-Tabari and al-Muyassar tie it more narrowly to the man's words in 18:36: he doubted the Hour and doubted he would be raised, so the rebuke is aimed at that denial of being brought back as a new creation after he has become dust and bone. As-Sa'di gathers both, calling it a denial of God's blessing joined to a claim that no resurrection waits.",
-            "bn": "সে ঠিক কী অস্বীকার করেছিল? ইবন কাসীর একে বলেন জুহূদ, যিনি তাকে সৃষ্টি করেছেন সেই রবেরই খোলা অস্বীকার। তাবারী আর মুয়াসসার একে আরও সরু করে বাঁধেন ১৮:৩৬-এ বলা লোকটির কথার সঙ্গে: সে কিয়ামাতে সন্দেহ করেছিল, আর সন্দেহ করেছিল তাকে আবার ওঠানো হবে কি না। তাই ধমকটা লক্ষ্য করছে সেই অস্বীকারকেই, মাটি আর হাড় হয়ে যাওয়ার পর নতুন সৃষ্টি হয়ে ফিরে আসার অস্বীকার। সাদী দুটোকেই এক করে ধরেন: আল্লাহর নিয়ামত অস্বীকার, সঙ্গে জুড়ে এই দাবি যে কোনো পুনরুত্থান নেই।"
+            "bn": "সে ঠিক কী অস্বীকার করেছিল? ইবন কাসীর একে বলেন জুহূদ: যে রব তাকে সৃষ্টি করেছেন, সরাসরি তাঁকেই অস্বীকার। তাবারী আর মুয়াসসার একে আরও নির্দিষ্ট করে জুড়ে দেন ১৮:৩৬-এ বলা লোকটির কথার সঙ্গে। সে কিয়ামত নিয়ে সন্দেহ করেছিল, সন্দেহ করেছিল তাকে আবার ওঠানো হবে কি না। তাই ধমকের নিশানা ঠিক এই অস্বীকার: মাটি আর হাড় হয়ে যাওয়ার পর নতুন করে সৃষ্টি হয়ে ফিরে আসাকে অস্বীকার। সাদী দুটোকেই একসঙ্গে ধরেন: আল্লাহর নিয়ামত অস্বীকার, তার সঙ্গে এই দাবি যে কোনো পুনরুত্থান নেই।"
           },
           {
             "en": "So the charge has two faces the commentators keep together. One is ingratitude: as-Sa'di stresses that this is a man denying the very blessing that made him. The other is denial of the Hour, which is where 18:36 had left him. The believer does not separate the two, because in the man they are one movement: a heart so full of what it owns that it forgets the Giver and doubts it will ever answer for anything. That is the disbelief the question names.",
-            "bn": "তাই অভিযোগের দুটি মুখ, যা তাফসীরকারেরা একসঙ্গেই রাখেন। একটি হলো অকৃতজ্ঞতা: সাদী জোর দিয়ে বলেন, এ এমন এক মানুষ যে তাকে-গড়া নিয়ামতকেই অস্বীকার করছে। অন্যটি কিয়ামাতের অস্বীকার, ১৮:৩৬ যেখানে তাকে রেখে গিয়েছিল। বিশ্বাসী সাথী দুটোকে আলাদা করেন না, কারণ লোকটির ভেতরে এ দুটো এক চলাফেরা। মন এত ভরে গেছে নিজের মালিকানায় যে দাতাকে ভুলে গেছে, আর সন্দেহ করছে কোনোদিন কোনো কিছুর জবাব দিতে হবে কি না। এই কুফরের দিকেই প্রশ্নটা আঙুল তোলে।"
+            "bn": "তাই অভিযোগের দুটি দিক, তাফসীরকারেরা যা একসঙ্গেই রাখেন। একটি অকৃতজ্ঞতা: সাদী জোর দিয়ে বলেন, যে নিয়ামত তাকে গড়েছে, লোকটি সেই নিয়ামতকেই অস্বীকার করছে। অন্যটি কিয়ামতের অস্বীকার, ১৮:৩৬ আয়াত তাকে যেখানে রেখে গিয়েছিল। মুমিন সাথী দুটোকে আলাদা করেন না, কারণ লোকটির ভেতরে এ দুটো একই টান। নিজের মালিকানায় মন এত ভরে গেছে যে দাতাকেই ভুলে গেছে, আর সন্দেহ করছে, কোনোদিন কোনো কিছুর জবাব দিতে হবে কি না। প্রশ্নটা এই কুফরেরই নাম ধরে ডাকে।"
           }
         ]
       },
@@ -829,11 +829,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "'...then from a sperm-drop' (18:37). At-Tabari reads this as the second stage in the individual man: after Adam (AS) from dust, God originated you from the nutfa of the man and the woman. Al-Muyassar says the same, the drop of the two parents. Ibn Kathir's phrase for it is starker still, an extract of despised water. The verse moves from the dust of the species to the fluid of one person's own conception, and neither material is anything a man would choose to boast from.",
-            "bn": "‘...তারপর এক শুক্রবিন্দু থেকে’ (১৮:৩৭)। তাবারী একে পড়েন ব্যক্তি-মানুষের দ্বিতীয় ধাপ হিসেবে: মাটি থেকে আদম (আঃ)-এর পর, আল্লাহ তোমাকে সৃষ্টি করেছেন পুরুষ ও নারীর শুক্রবিন্দু থেকে। মুয়াসসারও একই কথা বলেন, দুই পিতা-মাতার ফোঁটা। ইবন কাসীরের ভাষা আরও কড়া, তুচ্ছ পানির নির্যাস। আয়াত এগোয় জাতির মাটি থেকে একজন মানুষের নিজের গর্ভধারণের তরলে, আর এর কোনো উপাদানই এমন নয় যা থেকে কেউ গর্ব করতে চাইবে।"
+            "bn": "‘...তারপর এক শুক্রবিন্দু থেকে’ (১৮:৩৭)। তাবারী একে পড়েন প্রত্যেক মানুষের নিজের দ্বিতীয় ধাপ হিসেবে: মাটি থেকে আদম (আঃ)-এর সৃষ্টির পর আল্লাহ তোমাকে বানিয়েছেন নারী-পুরুষের শুক্রবিন্দু থেকে। মুয়াসসারও একই কথা বলেন: মা-বাবা দুজনের ফোঁটা। ইবন কাসীরের ভাষা আরও কড়া: তুচ্ছ পানির নির্যাস। আয়াত এগোয় গোটা মানবজাতির মাটি থেকে মায়ের গর্ভে একজন মানুষের শুরুর সেই তরলে। এর কোনো উপাদান নিয়েই কেউ গর্ব করতে চাইবে না।"
           },
           {
             "en": "There is a deliberate descent in the two words. Dust and a drop are both humble, and set beside two rivered gardens they are almost nothing. Ma'arif al-Qur'an keeps the reader on this ground: worldly wealth is handed out by God to believer and disbeliever alike, even to snakes and scorpions and beasts, so it never marks a man as favoured. The drop he came from tells the truer story of his standing than the fruit he now counts ever could.",
-            "bn": "দুই শব্দের ভেতরে একটা ইচ্ছাকৃত নেমে যাওয়া আছে। মাটি আর ফোঁটা দুটোই তুচ্ছ, আর দুই ঝর্ণা-ভেজা বাগানের পাশে রাখলে প্রায় কিছুই নয়। মাআরিফুল কুরআন পাঠককে এই জমিনেই ধরে রাখে: দুনিয়ার সম্পদ আল্লাহ মুমিন-কাফির নির্বিশেষে বিলিয়ে দেন, এমনকি সাপ-বিছা আর পশুকেও; তাই তা কখনো কাউকে প্রিয়পাত্র বলে দাগিয়ে দেয় না। যে ফোঁটা থেকে সে এসেছে, তার মর্যাদার আসল গল্পটা সেই ফোঁটাই বলে, আজ সে যে ফল গুনছে তা নয়।"
+            "bn": "শব্দ দুটো জেনেবুঝেই নিচের দিকে নামে। মাটি আর ফোঁটা, দুটোই সামান্য; নহর-বওয়া দুই বাগানের পাশে রাখলে প্রায় কিছুই না। মাআরিফুল কুরআন পাঠককে এই মাটিতেই দাঁড় করিয়ে রাখে: দুনিয়ার সম্পদ আল্লাহ মুমিন-কাফির সবাইকে দেন, এমনকি সাপ-বিছা আর পশুকেও; তাই সম্পদ কখনো কাউকে আল্লাহর প্রিয় বলে চিহ্নিত করে না। আজ যে ফল সে গুনছে, তার চেয়ে অনেক সত্যি করে তার আসল অবস্থান বলে দেয় সেই ফোঁটা, যা থেকে সে এসেছে।"
           }
         ]
       },
@@ -845,7 +845,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "'...then proportioned you a man' (18:37). At-Tabari and al-Baghawi read sawwaka rajulan as God balancing you into a sound, upright human being, a male and not a female. Al-Qurtubi adds the same sense: made you even in stature and form, whole in your limbs. What began as dust and a drop is now a person who can walk into a garden, look about him, and imagine he owns the world.",
-            "bn": "‘...তারপর তোমাকে মানুষ করে ঠিকঠাক গড়েছেন’ (১৮:৩৭)। তাবারী ও বাগাভী ‘সাওওয়াকা রাজুলা’ পড়েন এভাবে: আল্লাহ তোমাকে সুঠাম, সোজা এক মানুষে ভারসাম্য দিয়েছেন, নারী নয়, পুরুষ করে। কুরতুবীও একই অর্থ যোগ করেন: গড়ন আর অবয়বে সমান, অঙ্গপ্রত্যঙ্গে পূর্ণ করে বানিয়েছেন। যা শুরু হয়েছিল মাটি আর এক ফোঁটা হিসেবে, তা এখন এমন এক মানুষ, যে বাগানে ঢুকে চারপাশে চোখ বুলিয়ে ভাবতে পারে গোটা দুনিয়া তারই।"
+            "bn": "‘...তারপর তোমাকে মানুষ করে ঠিকঠাক গড়েছেন’ (১৮:৩৭)। তাবারী ও বাগাভীর মতে ‘সাওওয়াকা রাজুলা’ মানে, আল্লাহ তোমাকে মাপমতো গড়ে সুস্থ, সোজা মানুষ বানিয়েছেন, নারী নয়, পুরুষ করে। কুরতুবীও একই অর্থ বলেন: গড়নে-চেহারায় সুঠাম, অঙ্গপ্রত্যঙ্গে পূর্ণ করে বানিয়েছেন। যার শুরু মাটি আর এক ফোঁটা থেকে, সে এখন এমন এক মানুষ, যে বাগানে ঢুকে চারপাশে চোখ বুলিয়ে ভাবতে পারে গোটা দুনিয়াই তার।"
           },
           {
             "en": "As-Sa'di draws the argument out furthest. He reads the whole sequence as God moving the man from stage to stage: the favour of being brought into existence, then of being kept in it, blessing upon blessing, until He proportioned him a man complete in body and mind. And, as-Sa'di adds, it was by this same grace that the means of the man's wealth were made easy for him. His gardens did not come by his own strength; they came, like his very self, as a gift.",
@@ -853,7 +853,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is why the origin is the answer to the boast. The man had said he was greater in wealth and mightier in men, as if he had built himself. The verse walks him back through the only true account of his making, in which he supplied nothing. As-Sa'di's conclusion is blunt: after all this, it does not befit you to disbelieve in the One who made you, to deny His gift, and to claim there is no resurrection to come.",
-            "bn": "এ কারণেই তার শুরুটাই তার গর্বের জবাব। লোকটা বলেছিল সে ধনে বড়, জনবলে শক্তিশালী, যেন সে নিজেকে নিজে বানিয়েছে। আয়াত তাকে হাঁটিয়ে ফিরিয়ে নেয় তার গড়ে ওঠার একমাত্র সত্য বিবরণে, যেখানে সে কিছুই জোগায়নি। সাদীর সিদ্ধান্ত সাফ: এতকিছুর পর তোমাকে-গড়া সেই সত্তাকে অস্বীকার করা, তাঁর দান অস্বীকার করা, আর কোনো পুনরুত্থান নেই বলে দাবি করা তোমাকে মানায় না।"
+            "bn": "এ কারণেই তার শুরুটাই তার গর্বের জবাব। লোকটা বলেছিল সে ধনে বড়, জনবলে শক্তিশালী, যেন নিজেকে সে নিজেই বানিয়েছে। আয়াত তাকে ধাপে ধাপে ফিরিয়ে নিয়ে যায় তার সৃষ্টির একমাত্র সত্য বিবরণে, যেখানে তার নিজের কোনো অবদান নেই। সাদীর সিদ্ধান্ত সাফ: এত কিছুর পর যিনি তোমাকে গড়েছেন তাঁকে অস্বীকার করা, তাঁর দান অস্বীকার করা, আর পুনরুত্থান বলে কিছু নেই বলে দাবি করা তোমাকে মানায় না।"
           }
         ]
       },
@@ -865,11 +865,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The creation sequence is also an argument about the Hour the man had doubted. Al-Qurtubi puts it sharply: what the man readily admits, that he was made from dust and a drop, is a more wondrous thing than the resurrection he denies. Al-Muyassar draws the same lesson from the exchange, that the One who was able to begin the creation is able to bring it back. At-Tabari reads the whole question as aimed at exactly this: can you deny that He who made you will remake you after you decay?",
-            "bn": "এই সৃষ্টি-ধারা লোকটির সন্দেহ-করা কিয়ামাত নিয়েও এক যুক্তি। কুরতুবী কথাটা ধারালোভাবে বলেন: লোকটা যা সহজেই মানছে, মাটি আর ফোঁটা থেকে তার তৈরি হওয়া, তা তো সেই পুনরুত্থানের চেয়ে বেশি বিস্ময়কর, যা সে অস্বীকার করছে। মুয়াসসার এই কথোপকথন থেকে একই শিক্ষা টানেন, যিনি সৃষ্টি শুরু করতে পেরেছেন, তিনি তা আবার ফিরিয়ে আনতেও পারেন। তাবারী গোটা প্রশ্নটাকেই এই দিকে লক্ষ্য করা হিসেবে পড়েন: যিনি তোমাকে বানিয়েছেন, ক্ষয়ে যাওয়ার পর তিনি তোমাকে আবার বানাবেন, এ কি তুমি অস্বীকার করতে পারো?"
+            "bn": "সৃষ্টির এই ধাপগুলো সেই কিয়ামত নিয়েও একটা যুক্তি, যাতে লোকটা সন্দেহ করেছিল। কুরতুবী কথাটা ধারালোভাবে বলেন: মাটি আর ফোঁটা থেকে নিজের তৈরি হওয়াটা লোকটা সহজেই মেনে নেয়, অথচ এটা সেই পুনরুত্থানের চেয়েও বেশি বিস্ময়কর, যা সে অস্বীকার করছে। মুয়াসসারও এই কথোপকথন থেকে একই শিক্ষা নেন: যিনি প্রথমবার সৃষ্টি করতে পেরেছেন, তিনি আবারও তা ফিরিয়ে আনতে পারেন। তাবারীর মতে গোটা প্রশ্নটার নিশানাই এটা: যিনি তোমাকে বানিয়েছেন, পচে-গলে যাওয়ার পর তিনি তোমাকে আবার বানাবেন, তুমি কি তা অস্বীকার করতে পারো?"
           },
           {
             "en": "The logic is quiet but complete. A man who accepts the harder act has no ground to deny the easier one. He has watched a species raised from soil and a person assembled from a drop; a second making, on this reasoning, asks less, not more. This is why the believer answers a boast about wealth with a lesson about wombs and dust. The doubt of the Hour and the pride in the gardens share one root, and a single fact pulls up both.",
-            "bn": "যুক্তিটা নীরব, তবু পূর্ণ। যে মানুষ কঠিনতর কাজটা মেনে নেয়, সহজতরটা অস্বীকার করার জমি তার থাকে না। সে তো দেখেছে মাটি থেকে একটা জাতকে ওঠানো, আর এক ফোঁটা থেকে একটা মানুষ জোড়া লাগানো; এই হিসাবে দ্বিতীয়বার গড়া বেশি নয়, বরং কম চায়। এ জন্যই বিশ্বাসী সাথী সম্পদের গর্বের জবাব দেন গর্ভ আর মাটির পাঠ দিয়ে। কিয়ামাতের সন্দেহ আর বাগানের অহংকার, দুইয়েরই শিকড় এক, আর একটা সত্যই দুটোকে উপড়ে তোলে।"
+            "bn": "যুক্তিটা নীরব, তবু পূর্ণ। যে কঠিন কাজটা মেনে নেয়, সহজটাকে অস্বীকার করার কোনো ভিত্তি তার থাকে না। সে তো দেখেছে মাটি থেকে গোটা মানবজাতিকে দাঁড় করানো, এক ফোঁটা থেকে একজন মানুষকে গড়ে তোলা। এই যুক্তিতে দ্বিতীয়বার গড়া বেশি কিছু চায় না, বরং কম চায়। এ জন্যই মুমিন সাথী সম্পদের গর্বের জবাব দেন মাতৃগর্ভ আর মাটির কথা দিয়ে। কিয়ামতে সন্দেহ আর বাগানের অহংকার, দুটোর শিকড় এক, আর একটা সত্যই দুটোকে উপড়ে ফেলে।"
           }
         ]
       },
@@ -881,15 +881,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Underneath the man's certainty lay a simple error, and Ma'arif al-Qur'an names it. The rich man reasoned that his fortune must mean God was pleased with him, and that any life to come would only add to it. The believer's reply cuts the tie between wealth and favour. Worldly benefit reaches the sinful and the disbelieving as readily as the righteous; it is no certificate of approval. Standing before God turns on faith and deeds, not on the size of a man's harvest.",
-            "bn": "লোকটির নিশ্চয়তার তলায় ছিল এক সরল ভুল, আর মাআরিফুল কুরআন সেটার নাম ধরে দেয়। ধনী লোকটা ভেবেছিল, তার সম্পদ মানেই আল্লাহ তার প্রতি খুশি, আর পরকাল বলে কিছু থাকলে সেখানে কেবল আরও যোগ হবে। বিশ্বাসী সাথীর জবাব সম্পদ আর সন্তুষ্টির মধ্যেকার সুতোটাই কেটে দেয়। দুনিয়ার সুবিধা পাপী আর কাফিরের কাছেও নেককারের মতোই পৌঁছায়; এ কোনো সন্তুষ্টির সনদ নয়। আল্লাহর সামনে দাঁড়ানোটা নির্ভর করে ঈমান আর আমলের ওপর, মানুষের ফসলের পরিমাণের ওপর নয়।"
+            "bn": "লোকটির নিশ্চয়তার তলায় ছিল একটা সরল ভুল, আর মাআরিফুল কুরআন সেটা ধরিয়ে দেয়। ধনী লোকটা ভেবেছিল, তার সম্পদ মানেই আল্লাহ তার প্রতি খুশি, আর পরকাল বলে কিছু থাকলে সেখানে কেবল আরও যোগ হবে। মুমিন সাথীর জবাব সম্পদ আর আল্লাহর সন্তুষ্টির মাঝের সুতোটাই কেটে দেয়। দুনিয়ার সুযোগ-সুবিধা গুনাহগার আর কাফিরের কাছেও নেককারের মতোই পৌঁছায়; এটা আল্লাহর খুশির কোনো সনদ নয়। আল্লাহর কাছে কার কী মর্যাদা, তা নির্ভর করে ঈমান আর আমলের ওপর, কার ফসল কত বেশি তার ওপর নয়।"
           },
           {
             "en": "It is worth saying plainly what this parable is and is not. It describes a coined example, a type of the proud and heedless heart, set down so that the listener can search for that heart in himself. It passes no verdict on any living person and licenses nothing against anyone rich, nor against any real neighbour or community. The arrogant man of the story is a mirror to look into, not a label to pin on someone else. That is the only use the verse invites.",
-            "bn": "এই উপমা কী আর কী নয়, তা সোজাসুজি বলা দরকার। এটা এক গড়ে-তোলা দৃষ্টান্ত, অহংকারী আর উদাসীন মনের একটা ধরন, রাখা হয়েছে যাতে শ্রোতা সেই মনটাকে নিজের ভেতরে খুঁজে দেখে। এ কোনো জীবিত মানুষের ওপর রায় দেয় না, আর কোনো ধনী মানুষ, কোনো বাস্তব প্রতিবেশী বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। কাহিনির অহংকারী লোকটা এক আয়না, তাকিয়ে দেখার জন্য; অন্য কারও গায়ে সাঁটার লেবেল নয়। আয়াত কেবল এই ব্যবহারটুকুই ডেকে আনে।"
+            "bn": "এই উপমা কী আর কী নয়, তা সোজাসুজি বলা দরকার। এটা এক গড়ে তোলা দৃষ্টান্ত, অহংকারী আর গাফেল মনের একটা নমুনা। রাখা হয়েছে, যাতে শ্রোতা সেই মনটাকে নিজের ভেতরে খুঁজে দেখে। এটা কোনো জীবিত মানুষের ওপর রায় দেয় না। কোনো ধনী মানুষ, কোনো বাস্তব প্রতিবেশী বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতিও দেয় না। কাহিনির অহংকারী লোকটা একটা আয়না, যাতে নিজের মুখ দেখতে হয়; অন্যের গায়ে সাঁটার লেবেল নয়। আয়াত এর এই একটাই ব্যবহার চায়।"
           },
           {
             "en": "No sound hadith attaches directly to this verse. The narrations the commentators cite here, the treasure of Paradise in 'no power except with Allah' and the counsel to say 'what Allah wills', belong to the phrases of 18:39 and are best left to their own place. What 18:37 leaves the reader is smaller and harder: a memory. Before the gardens, before the wealth and the men, there was dust and a drop, and Someone who shaped them into you. Hold that, and arrogance has nowhere left to stand.",
-            "bn": "এই আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস জোড়া নেই। তাফসীরকারেরা এখানে যে বর্ণনাগুলো আনেন, ‘আল্লাহ ছাড়া কোনো শক্তি নেই’ কথাটির জান্নাতের গুপ্তধন আর ‘আল্লাহ যা চেয়েছেন’ বলার উপদেশ, সেগুলো ১৮:৩৯-এর বাক্যাংশের সঙ্গে জড়িত, আর সেগুলো তাদের নিজ জায়গাতেই থাক। ১৮:৩৭ পাঠকের হাতে যা রেখে যায়, তা ছোট আর কঠিন: একটা স্মৃতি। বাগানের আগে, সম্পদ আর জনবলের আগে ছিল মাটি আর এক ফোঁটা, আর ছিলেন এমন কেউ যিনি সেগুলো দিয়ে তোমাকে গড়েছেন। এটা ধরে রাখো, অহংকারের দাঁড়ানোর আর কোনো জায়গা থাকে না।"
+            "bn": "এই আয়াতের সঙ্গে সরাসরি জোড়া কোনো সহীহ হাদিস নেই। তাফসীরকারেরা এখানে দুটি বর্ণনা আনেন: ‘আল্লাহ ছাড়া কোনো শক্তি নেই’ বাক্যটি জান্নাতের গুপ্তধন, আর ‘আল্লাহ যা চেয়েছেন’ বলার উপদেশ। দুটোই ১৮:৩৯ আয়াতের বাক্যের সঙ্গে জড়িত, তাই সেগুলো সেখানেই থাক। ১৮:৩৭ পাঠকের হাতে যা রেখে যায়, তা ছোট, কিন্তু কঠিন: একটা স্মৃতি। বাগানের আগে, সম্পদ আর জনবলের আগে ছিল মাটি আর এক ফোঁটা, আর ছিলেন এমন একজন, যিনি সেগুলো দিয়ে আপনাকে গড়েছেন। এ কথা মনে ধরে রাখুন, অহংকার আর দাঁড়ানোর জায়গা পাবে না।"
           }
         ]
       }
@@ -900,16 +900,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Between a Verdict and an Adornment",
-          "bn": "একটি রায় ও একটি শোভার মাঝখানে"
+          "bn": "এক রায় আর এক শোভার মাঝখানে"
         },
         "p": [
           {
             "en": "The parable arrives at a precise point. 18:32-44 tells of a man with two gardens who was certain his estate would never perish, and the account ends at 18:44 with the verdict that there the authority belongs to Allah, the Truth, who is best in reward and best in outcome. This verse comes directly after that verdict, and 18:46 comes directly after this one to name wealth and children as the adornment of the life of this world.",
-            "bn": "উপমাটি আসে একটি সুনির্দিষ্ট জায়গায়। 18:32-44 বলে দুটি বাগানের মালিক এক ব্যক্তির কথা, যে নিশ্চিত ছিল তার সম্পত্তি কখনো ধ্বংস হবে না; আর বর্ণনাটি শেষ হয় 18:44-এ এই রায় দিয়ে যে সেখানে যাবতীয় কর্তৃত্ব সত্যিকার আল্লাহরই, যিনি পুরস্কারে শ্রেষ্ঠ এবং পরিণামেও শ্রেষ্ঠ। আমাদের এই আয়াতটি আসে সেই রায়ের ঠিক পরেই, আর এর ঠিক পরেই আসে 18:46, যা ধন-সম্পদ ও সন্তানকে দুনিয়ার জীবনের শোভা বলে নাম দেয়।"
+            "bn": "উপমাটি এসেছে একেবারে মাপা জায়গায়। ১৮:৩২-৪৪ আয়াতে আছে দুই বাগানের মালিক এক লোকের কথা, যে নিশ্চিত ছিল তার সম্পত্তি কোনোদিন ধ্বংস হবে না। কাহিনি শেষ হয় ১৮:৪৪-এ এই রায়ে: সেখানে সব কর্তৃত্ব সত্য আল্লাহর, প্রতিদানেও তিনি শ্রেষ্ঠ, পরিণামেও শ্রেষ্ঠ। আমাদের আয়াত আসে ঠিক সেই রায়ের পরে। আর এর ঠিক পরেই আসে ১৮:৪৬, যেখানে সম্পদ আর সন্তানকে বলা হয়েছে দুনিয়ার জীবনের শোভা।"
           },
           {
             "en": "The order is a widening. First one man and one ruined estate; then the whole of worldly life compressed into a single image; then the two things people actually build their lives around. The parable is not dropped into the surah as general pessimism. It generalises a case the reader has just watched close, and hands its result straight to the verse that follows, which is where the alternative is finally named.",
-            "bn": "এই ক্রম একটি ক্রমপ্রসারণ। প্রথমে একজন মানুষ ও একটি ধ্বংস হওয়া সম্পত্তি; তারপর গোটা পার্থিব জীবন একটিমাত্র চিত্রে সংকুচিত; তারপর সেই দুটি জিনিস যেগুলোকে ঘিরে মানুষ আসলে জীবন গড়ে। উপমাটি সূরায় সাধারণ হতাশা হিসেবে ছুড়ে দেওয়া হয়নি। এটি সাধারণীকরণ করে এমন একটি ঘটনাকে যার সমাপ্তি পাঠক সদ্য দেখেছে, আর তার ফলাফল সরাসরি তুলে দেয় পরের আয়াতের হাতে — যেখানে অবশেষে বিকল্পটির নাম বলা হয়।"
+            "bn": "ক্রমটা ধাপে ধাপে বড় হয়। প্রথমে একজন মানুষ আর তার ধ্বংস হওয়া সম্পত্তি। তারপর গোটা দুনিয়ার জীবন, একটিমাত্র ছবিতে গুটিয়ে আনা। তারপর সেই দুটি জিনিস, যাকে ঘিরে মানুষ সত্যিই জীবন সাজায়। উপমাটি সূরায় নিছক হতাশার কথা হিসেবে আসেনি। পাঠক এইমাত্র কাছ থেকে যে ঘটনা দেখল, উপমাটি সেটাকেই সবার জন্য সাধারণ করে, তারপর তার ফল সোজা তুলে দেয় পরের আয়াতের হাতে। সেখানেই অবশেষে বলা হয়, এর বদলে কী।"
           }
         ]
       },
@@ -921,11 +921,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wadrib lahum — the verse opens with an imperative to the Prophet ﷺ, and daraba mathalan is the Quran's own idiom for setting up a similitude. Then the image runs in three stages. Kama'in anzalnahu minas-sama, like water We sent down from the sky — the noun is ma', water, which most renderings carry over as rain. Fakhtalata bihi nabatul-ard, so the vegetation of the earth mingled with it. Then fa-asbaha hashiman tadhruhur-riyah — it became hashim, dry and broken, which the winds scatter.",
-            "bn": "ওয়াদরিব লাহুম — আয়াতটি শুরু হয় নবী ﷺ-কে দেওয়া একটি নির্দেশ দিয়ে; আর 'দারাবা মাসালান' উপমা দাঁড় করানোর জন্য কুরআনের নিজস্ব বাগ্‌ধারা। এরপর চিত্রটি চলে তিন ধাপে। কামা-ইন আনযালনাহু মিনাস-সামা — সেই পানির মতো যা আমি আকাশ থেকে নামিয়েছি; শব্দটি 'মা' — পানি, যদিও অধিকাংশ অনুবাদে তা 'বৃষ্টি' হয়ে আসে। ফাখতালাতা বিহি নাবাতুল-আরদ — এরপর যমীনের উদ্ভিদ তার সঙ্গে মিশে গেল। তারপর ফা-আসবাহা হাশীমান তাযরূহুর-রিয়াহ — তা হয়ে গেল 'হাশীম', শুকনো ও ভাঙা, যাকে বাতাস উড়িয়ে নিয়ে যায়।"
+            "bn": "ওয়াদরিব লাহুম: আয়াত শুরু হয় নবী ﷺ-কে দেওয়া এক আদেশ দিয়ে। 'দারাবা মাসালান' হলো উপমা দাঁড় করানোর জন্য কুরআনের নিজস্ব বাগ্‌ধারা। এরপর ছবিটা এগোয় তিন ধাপে। কামা-ইন আনযালনাহু মিনাস-সামা: যেমন পানি, যা আমি আকাশ থেকে নামিয়েছি। শব্দটা 'মা', মানে পানি; বেশির ভাগ অনুবাদে এটা 'বৃষ্টি' হয়ে আসে। ফাখতালাতা বিহি নাবাতুল-আরদ: তারপর তার সঙ্গে মিশে গেল মাটির উদ্ভিদ। তারপর ফা-আসবাহা হাশীমান তাযরূহুর-রিয়াহ: তা হয়ে গেল 'হাশীম', শুকনো, ভাঙাচোরা, যাকে বাতাস উড়িয়ে নেয়।"
           },
           {
             "en": "Ibn Kathir explains the mingling as the water mixing with the seeds in the ground so that they grow and turn out well. Hashim comes from a root for crushing something brittle; he glosses it as withered up, and tadhruhu as the winds tossing it right and left. And asbaha literally means it entered upon the morning. The collapse is given no season and no number of years. It is dated to the following morning.",
-            "bn": "ইবনে কাসীর 'মিশে যাওয়া'-র ব্যাখ্যা করেন এভাবে: পানি মাটির ভেতরের বীজের সঙ্গে মিশে যায়, ফলে সেগুলো গজিয়ে ওঠে ও ভালোভাবে বেড়ে ওঠে। 'হাশীম' এসেছে এমন ধাতু থেকে যার অর্থ ভঙ্গুর কিছু গুঁড়িয়ে দেওয়া; তিনি এর অর্থ করেন শুকিয়ে যাওয়া, আর 'তাযরূহু'-এর অর্থ করেন বাতাসের ডানে-বাঁয়ে ছুড়ে ফেলা। আর 'আসবাহা'-র আক্ষরিক অর্থ, সকালে উপনীত হলো। ধ্বংসের জন্য কোনো ঋতু বা বছরের সংখ্যা বেঁধে দেওয়া হয়নি। তার তারিখ পরদিন সকাল।"
+            "bn": "ইবনে কাসীর 'মিশে যাওয়া'-র ব্যাখ্যা করেন এভাবে: পানি মাটির ভেতরের বীজের সঙ্গে মেশে, ফলে বীজ গজায়, চারা সুন্দর হয়ে বেড়ে ওঠে। 'হাশীম' শব্দের ধাতুর মানে ভঙ্গুর কিছু গুঁড়িয়ে ফেলা; তিনি এর অর্থ করেন শুকিয়ে যাওয়া, আর 'তাযরূহু' মানে বাতাস তাকে ডানে-বাঁয়ে ছুড়ে ফেলে। আর 'আসবাহা'-র আক্ষরিক অর্থ, সকালে পৌঁছল। ধ্বংসের জন্য কোনো মৌসুম বা বছরের হিসাব দেওয়া হয়নি। তার দিন-তারিখ একটাই: পরের দিন সকাল।"
           }
         ]
       },
@@ -937,7 +937,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two particles carry the sequence, and both are fa: fakhtalata and fa-asbaha. In Arabic fa means immediate succession, unlike thumma, which allows a gap. So the parable is told in the tense of speed. Set it beside 57:20, which tells the same story using thumma twice — then it dries, and you see it turned yellow, then it becomes hutam. There the eye is allowed to watch the yellowing; here the green is chaff by morning.",
-            "bn": "ধারাবাহিকতাটি বহন করে দুটি অব্যয়, আর দুটিই 'ফা': ফাখতালাতা এবং ফা-আসবাহা। আরবিতে 'ফা' মানে অব্যবহিত অনুক্রম — 'সুম্মা'-র মতো নয়, যা ফাঁক খুলে দেয়। তাই উপমাটি বলা হয়েছে দ্রুততার কালে। এর পাশে রাখুন 57:20, যা একই কাহিনি বলে দুইবার 'সুম্মা' ব্যবহার করে — তারপর তা শুকিয়ে যায়, আর তুমি তা হলুদ হয়ে যেতে দেখো, তারপর তা হয়ে যায় 'হুতাম'। সেখানে চোখকে হলুদ হওয়া দেখার সুযোগ দেওয়া হয়; এখানে সবুজ সকালেই খড়কুটো।"
+            "bn": "ঘটনাগুলো জুড়ে রেখেছে দুটি অব্যয়, দুটিই 'ফা': ফাখতালাতা আর ফা-আসবাহা। আরবিতে 'ফা' মানে সঙ্গে সঙ্গে পরের ঘটনা; 'সুম্মা' এমন নয়, তাতে মাঝখানে সময়ের ফাঁক থাকতে পারে। তাই গোটা উপমাটাই বলা হয়েছে দ্রুত লয়ে। এর পাশে রাখুন ৫৭:২০, যেখানে একই কাহিনি বলা হয়েছে দুবার 'সুম্মা' দিয়ে: তারপর তা শুকিয়ে যায়, আর তুমি দেখো তা হলুদ হয়ে গেছে, তারপর তা হয়ে যায় 'হুতাম'। সেখানে চোখকে হলুদ হতে দেখার সময় দেওয়া হয়; এখানে সবুজ সকাল হতেই খড়কুটো।"
           },
           {
             "en": "Ibn Kathir sets this verse beside three others: 10:24, where the earth takes on its adornment and its people suppose they have power over it before the command comes by night or by day; 39:21, where crops of varying colours dry and yellow and become debris; and 57:20. He also quotes the words Muslim narrates from Abu Sa'id al-Khudri (RA), that this world is sweet and green, and that Allah has appointed you successors in it to see how you will act.",
@@ -953,11 +953,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa kanallahu 'ala kulli shay'in muqtadira — and Allah is ever, over all things, Perfect in Ability. Muqtadir is an intensive form built on the same root as qadir. The parable could have ended on the chaff and left a taste of futility behind it. Instead it ends on power, and Ibn Kathir's gloss on the clause is blunt: He has the power to do this and that — to send the water down, and to dry up what it raised.",
-            "bn": "ওয়া কানাল্লাহু 'আলা কুল্লি শাই'ইন মুক্তাদিরা — আর আল্লাহ সবকিছুর উপর পূর্ণ ক্ষমতাবান। 'মুক্তাদির' গঠিত হয়েছে 'কাদির'-এর একই ধাতু থেকে, তবে এটি জোরদার রূপ। উপমাটি খড়কুটোতেই শেষ হতে পারত এবং পেছনে রেখে যেতে পারত নিরর্থকতার স্বাদ। তার বদলে তা শেষ হয় ক্ষমতার কথায়; আর এই বাক্যাংশ নিয়ে ইবনে কাসীরের ব্যাখ্যা সরাসরি: এটি করার ক্ষমতাও তাঁর, ওটি করারও — পানি নামিয়ে দেওয়ার, আর যা উঠেছিল তা শুকিয়ে দেওয়ার।"
+            "bn": "ওয়া কানাল্লাহু 'আলা কুল্লি শাই'ইন মুক্তাদিরা: আর আল্লাহ সবকিছুর উপর পূর্ণ ক্ষমতাবান। 'মুক্তাদির' শব্দটি 'কাদির'-এর ধাতু থেকেই, তবে আরও জোরালো রূপ। উপমাটি খড়কুটোতেই থেমে যেতে পারত, পেছনে রেখে যেত সব বৃথা হওয়ার স্বাদ। তা না করে শেষ হয় ক্ষমতার কথায়। এই অংশের ব্যাখ্যায় ইবনে কাসীর সোজাসাপ্টা: এটা করার ক্ষমতাও তাঁর, ওটা করারও। পানি নামানোর ক্ষমতা, আর সেই পানিতে যা গজিয়েছিল তা শুকিয়ে দেওয়ার ক্ষমতাও।"
           },
           {
             "en": "That closing name also turns the parable toward resurrection, which is what the Quran usually does with dead and living earth. 35:9 says that He drives the clouds to a dead land and gives life by them to the earth after its lifelessness, and then states plainly: thus is the resurrection. Read with that ending in view, the scattering of the chaff is not the last event in the account. It is a demonstration by the One who is able to gather it again.",
-            "bn": "শেষের এই নামটি উপমাটিকে পুনরুত্থানের দিকেও ঘুরিয়ে দেয় — মৃত ও জীবিত যমীন নিয়ে কুরআন সাধারণত এটিই করে। 35:9 বলে, তিনি মেঘকে মৃত ভূখণ্ডের দিকে চালিয়ে নেন এবং তা দিয়ে যমীনকে তার মৃত্যুর পর জীবিত করেন; তারপর স্পষ্ট করে বলে: এভাবেই পুনরুত্থান। এই সমাপ্তি সামনে রেখে পড়লে খড়কুটোর উড়ে যাওয়াই হিসাবের শেষ ঘটনা নয়। তা এমন এক সত্তার প্রদর্শনী, যিনি তা আবার একত্র করতেও সক্ষম।"
+            "bn": "শেষের এই নাম উপমাটিকে পুনরুত্থানের দিকেও ঘুরিয়ে দেয়। মরা মাটি আর জেগে ওঠা মাটির কথা এলে কুরআন সাধারণত তা-ই করে। ৩৫:৯ আয়াতে আছে, তিনি মেঘ চালিয়ে নেন মরা ভূমির দিকে, তারপর তা দিয়ে মাটিকে জীবিত করেন তার মৃত্যুর পর; তারপর সোজা বলা হয়েছে: পুনরুত্থানও এমনই। এই সমাপ্তি মাথায় রেখে পড়লে বোঝা যায়, খড়কুটো উড়ে যাওয়াই কাহিনির শেষ ঘটনা নয়। যিনি আবার সব জড়ো করতে পারেন, এ তাঁরই দেখানো এক নমুনা।"
           }
         ]
       },
@@ -969,11 +969,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not tell anyone to stop planting. Water is sent down, growth is real, and the greenness in the parable is never called an illusion — what is corrected is the estimate of how long it lasts. Anyone past a certain age has already watched one full cycle complete: a job, a house, a circle of friends, a body that used to work differently. The parable asks you to treat that memory as evidence rather than as an unlucky exception.",
-            "bn": "আয়াতটি কাউকে চাষ বন্ধ করতে বলে না। পানি নামানো হয়, বৃদ্ধি বাস্তব, আর উপমার সবুজকে কখনো ভ্রান্তি বলা হয়নি — সংশোধন করা হয় একটি হিসাব: তা কতদিন টেকে। একটি বয়স পেরোনো যে কেউ ইতোমধ্যেই একটি পূর্ণ চক্র শেষ হতে দেখেছে: একটি চাকরি, একটি বাড়ি, বন্ধুদের একটি বৃত্ত, এমন একটি শরীর যা আগে অন্যভাবে চলত। উপমাটি চায়, আপনি সেই স্মৃতিকে দুর্ভাগ্যজনক ব্যতিক্রম হিসেবে নয়, প্রমাণ হিসেবে পড়ুন।"
+            "bn": "আয়াত কাউকে চাষাবাদ ছেড়ে দিতে বলে না। পানি সত্যিই নামে, ফসল সত্যিই বাড়ে, আর উপমার সবুজকে কোথাও ভ্রম বলা হয়নি। শুধরে দেওয়া হয়েছে একটা হিসাব: এই সবুজ কত দিন থাকে। একটা বয়স পেরোলে প্রত্যেকেই একটা পুরো চক্র শেষ হতে দেখে ফেলেছে: কোনো চাকরি, কোনো বাড়ি, বন্ধুমহল, কিংবা নিজের শরীর, যা আগে অন্যভাবে চলত। উপমাটি চায়, সেই স্মৃতিকে আপনি কপালের দোষে ঘটা ব্যতিক্রম না ভেবে প্রমাণ হিসেবে ধরুন।"
           },
           {
             "en": "What follows in practice is priced attention. The green is worth enjoying and not worth building on, which 18:46 says next in the language of reward and hope. And the closing name is where a person actually stands when something of his is scattered: not in front of a random wind, but before the One who is Perfect in Ability, who sent the water down in the first place and is not diminished by either half of the cycle.",
-            "bn": "এর ব্যবহারিক ফল হলো মনোযোগের সঠিক মূল্য নির্ধারণ। সবুজ উপভোগের যোগ্য, কিন্তু তার উপর গড়ে তোলার যোগ্য নয় — পরের আয়াত 18:46 এ কথাটিই বলে পুরস্কার ও আকাঙ্ক্ষার ভাষায়। আর শেষের নামটিই সেই জায়গা, যেখানে মানুষ প্রকৃতপক্ষে দাঁড়িয়ে থাকে যখন তার কিছু উড়ে যায়: কোনো এলোমেলো বাতাসের সামনে নয়, বরং সেই পূর্ণ ক্ষমতাবান সত্তার সামনে, যিনি প্রথমে পানিটি নামিয়েছিলেন এবং যিনি এই চক্রের কোনো অর্ধেকেই কমে যান না।"
+            "bn": "বাস্তবে এর ফল হলো, কোন জিনিসে কতটা মন দেবেন, তার ঠিক দাম কষা। সবুজ উপভোগ করার মতো, কিন্তু তার ওপর ভিত গড়ার মতো নয়। পরের আয়াত ১৮:৪৬ ঠিক এ কথাই বলে, প্রতিদান আর আশার ভাষায়। আর নিজের কিছু উড়ে গেলে মানুষ আসলে কোথায় দাঁড়িয়ে থাকে, শেষের নামটিই তা বলে দেয়: কোনো এলোমেলো বাতাসের সামনে নয়, বরং সেই পূর্ণ ক্ষমতাবানের সামনে, যিনি পানিটা প্রথমে নামিয়েছিলেন, আর চক্রের কোনো অর্ধেকেই যাঁর কিছু কমে না।"
           }
         ]
       }
@@ -984,48 +984,48 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Adornment, Named Honestly",
-          "bn": "অলঙ্কার, সৎ নামে ডাকা"
+          "bn": "অলঙ্কারকে অলঙ্কারই বলা"
         },
         "p": [
           {
             "en": "Wealth and children are the adornment of the life of this world. The verse does not call them evils, distractions or illusions; it calls them zinah, adornment, and adornment is real. The Quran uses the same word in 18:7 for everything on the earth: We have made what is on it an adornment for it, to test which of them is best in deed. Beauty is admitted from the start; the question the word raises is one of function. Decoration beautifies a building — it does not hold the building up.",
-            "bn": "ধন-সম্পদ ও সন্তান-সন্ততি দুনিয়ার জীবনের অলঙ্কার। আয়াতটি এগুলোকে অনিষ্ট, বিভ্রান্তি বা মরীচিকা বলে না; বলে যীনাহ — অলঙ্কার — আর অলঙ্কার বাস্তব জিনিস। কুরআন একই শব্দ ব্যবহার করেছে 18:7 আয়াতে পৃথিবীর বুকের সবকিছুর জন্য: এর ওপর যা আছে আমি তা এর অলঙ্কার বানিয়েছি — পরীক্ষা করতে, কর্মে কে তাদের মধ্যে শ্রেষ্ঠ। সৌন্দর্য গোড়া থেকেই স্বীকৃত; শব্দটি যে প্রশ্ন তোলে তা ভূমিকার প্রশ্ন। কারুকাজ দালানকে সুন্দর করে — দালানটিকে সে ধরে রাখে না।"
+            "bn": "ধন-সম্পদ আর সন্তান দুনিয়ার জীবনের অলঙ্কার। আয়াত এগুলোকে মন্দ বলে না, মন ভোলানোর জিনিস বা মরীচিকাও বলে না। বলে যীনাহ, মানে অলঙ্কার; আর অলঙ্কার সত্যিকারের জিনিস। ১৮:৭ আয়াতে কুরআন পৃথিবীর সবকিছুর জন্য এই শব্দই ব্যবহার করেছে: পৃথিবীর ওপর যা কিছু আছে, আমি তা তার অলঙ্কার বানিয়েছি, যাতে পরীক্ষা করি, আমলে তাদের মধ্যে কে শ্রেষ্ঠ। সৌন্দর্যকে শুরু থেকেই মেনে নেওয়া হয়েছে। শব্দটা প্রশ্ন তোলে তার কাজ নিয়ে: কারুকাজ দালানকে সুন্দর করে, কিন্তু দালানটাকে ধরে রাখে না।"
           },
           {
             "en": "Placement gives the verse its force. It comes soon after the parable of 18:32-44, where a man with two gardens boasted that he was greater in wealth and men, declared that his estate would never perish — and ended wringing his hands over its ruins. And immediately after our verse, 18:47 shows the Day when the mountains are set moving and the earth is left level and bare. Between a garden that perished and mountains that will, the verse asks what actually remains.",
-            "bn": "অবস্থানই আয়াতটিকে তার জোর দেয়। এটি আসে 18:32-44 আয়াতের উপমার অল্প পরেই, যেখানে দুই বাগানের মালিক গর্ব করেছিল যে সম্পদে ও লোকবলে সে বড়, ঘোষণা করেছিল তার এই সম্পত্তি কখনো ধ্বংস হবে না — আর শেষ করেছিল তার ধ্বংসস্তূপের ওপর দুহাত মোচড়াতে মোচড়াতে। আর আমাদের আয়াতটির ঠিক পরেই 18:47 দেখায় সেই দিন, যেদিন পাহাড়গুলোকে চলমান করা হবে আর পৃথিবী পড়ে থাকবে সমতল, অনাবৃত। যে বাগান ধ্বংস হলো আর যে পাহাড় হবে — এই দুইয়ের মাঝখানে দাঁড়িয়ে আয়াতটি জিজ্ঞেস করে: আসলে টিকে থাকে কী।"
+            "bn": "আয়াতটির জোর আসে তার জায়গা থেকে। এর অল্প আগেই ১৮:৩২-৪৪ আয়াতের উপমা: দুই বাগানের মালিক গর্ব করেছিল, ধনে আর জনবলে সে বড়; ঘোষণা দিয়েছিল তার এই সম্পত্তি কোনোদিন ধ্বংস হবে না। শেষে সেই ধ্বংসস্তূপের সামনে সে আফসোসে হাত কচলাচ্ছিল। আর আমাদের আয়াতের ঠিক পরেই ১৮:৪৭ দেখায় সেই দিন, যেদিন পাহাড়গুলোকে চলমান করা হবে আর পৃথিবী পড়ে থাকবে খোলা সমতল ময়দান হয়ে। একটা বাগান ধ্বংস হয়ে গেছে, পাহাড়ও একদিন হবে। এ দুইয়ের মাঝখানে দাঁড়িয়ে আয়াত জিজ্ঞেস করে: আসলে টিকে থাকে কী?"
           }
         ]
       },
       {
         "h": {
           "en": "The Enduring Good Deeds",
-          "bn": "স্থায়ী সৎকর্মসমূহ"
+          "bn": "যে নেক আমল টিকে থাকে"
         },
         "p": [
           {
             "en": "Against the adornment stands al-baqiyat as-salihat, the enduring righteous deeds — better with your Lord in reward, and better as ground for hope. Al-Tabari records early authorities who identified them with the phrases of dhikr — subhanallah, alhamdulillah, la ilaha illallah, Allahu akbar — and he concludes that the description rightly covers every righteous deed whose reward endures. The two readings agree in substance: dhikr is the readiest member of a class that also includes prayer, charity, and every act that outlives its own hour.",
-            "bn": "অলঙ্কারের মুখোমুখি দাঁড়িয়ে আল-বাকিয়াতুস-সালিহাত — স্থায়ী সৎকর্মসমূহ — তোমার প্রভুর কাছে প্রতিদানে উত্তম, আর আশার ভিত্তি হিসেবেও উত্তম। আত-তাবারী প্রাথমিক যুগের সেই ইমামদের বক্তব্য লিপিবদ্ধ করেছেন, যাঁরা এগুলোকে চিহ্নিত করেছেন যিকরের বাক্যগুলো দিয়ে — সুবহানাল্লাহ, আলহামদুলিল্লাহ, লা ইলাহা ইল্লাল্লাহ, আল্লাহু আকবার — আর তিনি সিদ্ধান্তে পৌঁছেছেন: বর্ণনাটি যথার্থভাবে ঢেকে নেয় এমন প্রতিটি সৎকর্মকে, যার প্রতিদান স্থায়ী। দুটি পাঠ মর্মে একমত: যিকর সেই শ্রেণির সবচেয়ে হাতের-কাছের সদস্য, যে শ্রেণিতে আরও আছে নামায, দান, এবং নিজের প্রহরকে ছাড়িয়ে বেঁচে থাকা প্রতিটি কাজ।"
+            "bn": "অলঙ্কারের উল্টো দিকে দাঁড়িয়ে আছে আল-বাকিয়াতুস-সালিহাত, মানে স্থায়ী নেক আমল: তোমার রবের কাছে প্রতিদানে উত্তম, আশার ভিত হিসেবেও উত্তম। তাবারী প্রথম যুগের আলিমদের মত লিখে রেখেছেন, যাঁরা এগুলো বলতে জিকিরের বাক্যগুলো বুঝেছেন: সুবহানাল্লাহ, আলহামদুলিল্লাহ, লা ইলাহা ইল্লাল্লাহ, আল্লাহু আকবার। আর তাঁর সিদ্ধান্ত, যে নেক আমলের প্রতিদান টিকে থাকে, এ বর্ণনা ঠিকভাবেই তার সবটাকে ধরে। দুই মত আসলে এক জায়গায় মেলে। এই শ্রেণির সবচেয়ে হাতের কাছের আমল জিকির, আর এই শ্রেণিতেই আছে নামাজ, দান-সদকা, আর এমন প্রতিটি কাজ, যা নিজের মুহূর্ত পেরিয়েও বেঁচে থাকে।"
           },
           {
             "en": "The grammar of the comparison is exact. Wealth and children are not called bad; the enduring deeds are called khayr, better — better thawaban, in reward, and better amalan, as a thing on which to pin hope. Hope is the telling word. People quietly rest their futures on portfolios and on heirs; the verse relocates hope to deposits that cannot be inherited away from their owner, devalued by any market, or buried alongside the one who earned them.",
-            "bn": "তুলনাটির ব্যাকরণ নিখুঁত। ধন-সম্পদ ও সন্তানদের মন্দ বলা হয়নি; স্থায়ী কর্মগুলোকে বলা হয়েছে খাইর — উত্তম: সাওয়াবান, প্রতিদানে উত্তম, আর আমালান — আশা বাঁধার বস্তু হিসেবে উত্তম। আশা-ই এখানে তাৎপর্যময় শব্দ। মানুষ নীরবে নিজের ভবিষ্যৎ রেখে দেয় বিনিয়োগ-খাতায় আর উত্তরাধিকারীদের হাতে; আয়াতটি আশাকে সরিয়ে রাখে এমন আমানতে — যা মালিকের হাতছাড়া হয়ে কারও উত্তরাধিকারে যায় না, কোনো বাজারে যার দর পড়ে না, আর উপার্জনকারীর সঙ্গে যা কবরে চাপা পড়ে না।"
+            "bn": "তুলনার ব্যাকরণটা নিখুঁত। সম্পদ আর সন্তানকে মন্দ বলা হয়নি। স্থায়ী আমলগুলোকে বলা হয়েছে খাইর, উত্তম: সাওয়াবান, প্রতিদানে উত্তম; আর আমালান, আশা বাঁধার জিনিস হিসেবে উত্তম। আসল শব্দটা এই আশা। মানুষ চুপচাপ নিজের ভবিষ্যৎ বেঁধে রাখে বিনিয়োগ আর উত্তরাধিকারীদের ওপর। আয়াত আশাকে সরিয়ে রাখে এমন সঞ্চয়ে, যা মালিকের হাত থেকে উত্তরাধিকারে চলে যায় না, কোনো বাজারে যার দাম পড়ে না, আর যে কামিয়েছে তার সঙ্গে কবরে চাপা পড়ে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Why Deeds Endure",
-          "bn": "কর্ম কেন টিকে থাকে"
+          "bn": "আমল কেন টিকে থাকে"
         },
         "p": [
           {
             "en": "16:96 states the rule beneath this verse: what is with you runs out, and what is with Allah remains. Wealth is spent, devalued and inherited; children — the dearer adornment — grow into accountable selves of their own, and no parent carries a child's record, nor a child a parent's. But a deed done for Allah crosses the line of death intact. The same phrase returns in 19:76 with the same verdict: the enduring good deeds are better with your Lord in reward and better in final return.",
-            "bn": "16:96 আয়াতে এই আয়াতের নিচের নিয়মটি বলা আছে: তোমাদের কাছে যা আছে তা ফুরিয়ে যায়, আর আল্লাহর কাছে যা আছে তা থেকে যায়। সম্পদ খরচ হয়, দর হারায়, উত্তরাধিকারে চলে যায়; সন্তানেরা — অধিক প্রিয় অলঙ্কারটি — বেড়ে উঠে নিজেরাই জবাবদিহিমুখী সত্তা হয়ে যায়; কোনো মা-বাবা সন্তানের আমলনামা বহন করে না, কোনো সন্তানও মা-বাবার। কিন্তু আল্লাহর জন্য করা কাজ মৃত্যুর সীমারেখা পার হয় অক্ষত অবস্থায়। একই শব্দবন্ধ 19:76 আয়াতে ফিরে আসে একই রায় নিয়ে: স্থায়ী সৎকর্মগুলো তোমার প্রভুর কাছে প্রতিদানে উত্তম, আর চূড়ান্ত প্রাপ্তিতেও উত্তম।"
+            "bn": "এই আয়াতের নিচের নিয়মটা বলা আছে ১৬:৯৬ আয়াতে: তোমাদের কাছে যা আছে তা ফুরিয়ে যায়, আর আল্লাহর কাছে যা আছে তা থেকে যায়। সম্পদ খরচ হয়, দাম হারায়, উত্তরাধিকারে অন্যের হাতে যায়। সন্তান, যে অলঙ্কার আরও প্রিয়, বড় হয়ে নিজেই নিজের হিসাবের জন্য দায়ী মানুষ হয়ে ওঠে। মা-বাবা সন্তানের আমলনামা বয়ে বেড়ান না, সন্তানও মা-বাবার নয়। কিন্তু আল্লাহর জন্য করা আমল মৃত্যুর সীমা পার হয়ে যায় অক্ষত। ১৯:৭৬ আয়াতে একই কথা ফিরে আসে একই রায় নিয়ে: স্থায়ী নেক আমল তোমার রবের কাছে প্রতিদানে উত্তম, শেষ পরিণামেও উত্তম।"
           },
           {
             "en": "The Prophet ﷺ pointed to the lightest members of this class. Al-Bukhari narrates: two phrases, light on the tongue, heavy on the scale, beloved to the Most Merciful — subhanallahi wa bihamdihi, subhanallahil-'azim. The contrast with adornment could hardly be sharper: the world's glitter is heavy to gather and weightless on the scale, while these words cost a single breath and go on weighing.",
-            "bn": "নবী ﷺ এই শ্রেণির সবচেয়ে হালকা সদস্যদের দেখিয়ে দিয়েছেন। আল-বুখারী বর্ণনা করেন: দুটি বাক্য — জিহ্বায় হালকা, পাল্লায় ভারী, পরম দয়াময়ের কাছে প্রিয় — সুবহানাল্লাহি ওয়া বিহামদিহি, সুবহানাল্লাহিল-আযীম। অলঙ্কারের সঙ্গে বৈপরীত্য এর চেয়ে তীক্ষ্ণ আর হয় না: দুনিয়ার ঝলমলে জিনিস জোগাড় করা ভারী, অথচ পাল্লায় ভরশূন্য; আর এই শব্দগুলোর দাম একটিমাত্র নিঃশ্বাস — কিন্তু সেগুলোর ওজন চলতেই থাকে।"
+            "bn": "নবী ﷺ এই শ্রেণির সবচেয়ে হালকা আমলগুলো দেখিয়ে দিয়েছেন। বুখারীর বর্ণনায় আছে, দুটি বাক্য জিহ্বায় হালকা, পাল্লায় ভারী, পরম দয়াময়ের কাছে প্রিয়। বাক্য দুটি হলো সুবহানাল্লাহি ওয়া বিহামদিহি, সুবহানাল্লাহিল-আযীম। অলঙ্কারের সঙ্গে এর চেয়ে বড় বৈপরীত্য আর হয় না। দুনিয়ার চাকচিক্য জোগাড় করতে কত খাটুনি, অথচ পাল্লায় তার কোনো ওজন নেই। আর এই বাক্যগুলোর দাম মাত্র একটা নিঃশ্বাস, অথচ পাল্লায় তাদের ওজন থেকেই যায়।"
           }
         ]
       },
@@ -1037,27 +1037,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Kahf is built around trials, and wealth is one of them. Just before this passage, in 18:28 the Prophet ﷺ is told to keep himself patient alongside those who call on their Lord morning and evening, and not to let his eyes pass beyond them out of desire for the adornment of worldly life — the same word, zinah, again. The surah's remedy for the money-trial begins with company: sit with people whose wealth is remembrance.",
-            "bn": "সূরা আল-কাহফ গড়ে উঠেছে পরীক্ষাগুলো ঘিরে, আর সম্পদ তারই একটি। এই অনুচ্ছেদের ঠিক আগে, 18:28 আয়াতে নবী ﷺ-কে বলা হয়েছে — যারা সকাল-সন্ধ্যায় তাদের প্রভুকে ডাকে তাদের সঙ্গে নিজেকে ধৈর্যের সাথে ধরে রাখতে, আর দুনিয়ার জীবনের অলঙ্কারের লোভে চোখ যেন তাদের ছাড়িয়ে না যায় — সেই একই শব্দ, যীনাহ, আবারও। সম্পদের পরীক্ষার জন্য সূরাটির প্রতিকার শুরু হয় সঙ্গ দিয়ে: এমন মানুষদের সাথে বসো, যাদের ধন হলো স্মরণ।"
+            "bn": "সূরা কাহফ সাজানো হয়েছে কয়েকটি পরীক্ষাকে ঘিরে, সম্পদ তার একটি। এই অংশের ঠিক আগে ১৮:২৮ আয়াতে নবী ﷺ-কে বলা হয়েছে, যারা সকাল-সন্ধ্যা তাদের রবকে ডাকে, ধৈর্য ধরে নিজেকে তাদের সঙ্গে রাখতে; দুনিয়ার জীবনের অলঙ্কারের লোভে তাঁর চোখ যেন তাদের ছেড়ে অন্য দিকে না যায়। এখানেও সেই একই শব্দ, যীনাহ। সম্পদের পরীক্ষায় সূরাটির দাওয়াই শুরু হয় সঙ্গ দিয়ে: এমন মানুষের সঙ্গে বসুন, যাদের সম্পদ হলো জিকির।"
           },
           {
             "en": "3:14 lists what has been beautified for people — women and sons, heaped-up treasures of gold and silver, branded horses, cattle and tilth — and then says that with Allah is the best of returns. The Quran never pretends these things are unattractive; it out-bids them. 18:46 belongs to that same method: it grants the beauty of what you hold, then names something better in the only two currencies that survive the audit, reward and hope.",
-            "bn": "3:14 আয়াতে তালিকা দেওয়া আছে মানুষের জন্য যা কিছু সুশোভিত করা হয়েছে — নারী ও পুত্রসন্তান, স্তূপীকৃত সোনা-রুপার ভান্ডার, চিহ্নিত ঘোড়া, গবাদিপশু ও ক্ষেত-খামার — তারপর বলা হয়েছে: আল্লাহর কাছেই আছে উত্তম প্রত্যাবর্তনস্থল। কুরআন কখনো ভান করে না যে এসব আকর্ষণীয় নয়; বরং সে এগুলোর চেয়ে বড় দর হাঁকে। 18:46 সেই একই পদ্ধতির অন্তর্গত: তোমার হাতে যা আছে তার সৌন্দর্য মেনে নেয়, তারপর নাম করে এর চেয়ে উত্তম কিছুর — কেবল যে দুটি মুদ্রা শেষ হিসাব পার হয়ে টেকে সেই দুটিতে: প্রতিদান আর আশা।"
+            "bn": "৩:১৪ আয়াতে মানুষের চোখে যা কিছু সুন্দর করে দেওয়া হয়েছে তার তালিকা আছে: নারী, পুত্রসন্তান, স্তূপ করা সোনা-রুপা, চিহ্নিত ঘোড়া, গবাদিপশু আর খেত-খামার। তারপর বলা হয়েছে, উত্তম ঠিকানা আল্লাহরই কাছে। কুরআন কখনো ভান করে না যে এসব আকর্ষণীয় নয়; বরং এগুলোর চেয়ে বড় দর হাঁকে। ১৮:৪৬ একই পথে চলে। আপনার হাতে যা আছে তার সৌন্দর্য মেনে নেয়, তারপর এর চেয়ে উত্তম কিছুর নাম বলে, সেই দুই মুদ্রায়, যা শেষ হিসাবের পরেও টিকে থাকে: প্রতিদান আর আশা।"
           }
         ]
       },
       {
         "h": {
           "en": "Converting the Decoration",
-          "bn": "অলঙ্কারকে রূপান্তর করা"
+          "bn": "অলঙ্কারকে আমলে বদলে নেওয়া"
         },
         "p": [
           {
             "en": "The verse is not an order to renounce; it is an order to rank — and ranked rightly, the adornment itself can be converted. Al-Bukhari narrates that a man's spending on his family, done seeking Allah's reward, is counted for him as charity. And Muslim narrates that when a person dies, his deeds end except three: ongoing charity, knowledge that benefits, and a righteous child who prays for him. Wealth and children, the two adornments of this verse, both appear there — transformed into enduring deeds.",
-            "bn": "আয়াতটি ত্যাগের আদেশ নয়; ক্রম নির্ধারণের আদেশ — আর ঠিকভাবে ক্রম সাজালে অলঙ্কার নিজেই রূপান্তরযোগ্য। আল-বুখারী বর্ণনা করেন, আল্লাহর প্রতিদানের আশায় করা হলে পরিবারের জন্য একজন মানুষের খরচও তার জন্য দান হিসেবে গণ্য হয়। আর মুসলিম বর্ণনা করেন, মানুষ মারা গেলে তার আমল বন্ধ হয়ে যায়, তিনটি ছাড়া: চলমান দান, উপকারে আসা জ্ঞান, আর নেককার সন্তান যে তার জন্য দোয়া করে। এই আয়াতের দুই অলঙ্কার — সম্পদ ও সন্তান — দুটিই সেখানে হাজির: স্থায়ী কর্মে রূপান্তরিত হয়ে।"
+            "bn": "আয়াতটি সব ছেড়ে দেওয়ার হুকুম নয়, ঠিকভাবে সাজানোর হুকুম। আর ঠিকভাবে সাজালে অলঙ্কার নিজেই বদলে যেতে পারে। বুখারী বর্ণনা করেন, আল্লাহর কাছে প্রতিদানের আশায় কেউ পরিবারের জন্য খরচ করলে তা তার জন্য সদকা হিসেবে গণ্য হয়। আর মুসলিম বর্ণনা করেন, মানুষ মারা গেলে তার আমল বন্ধ হয়ে যায়, তিনটি ছাড়া: সদকায়ে জারিয়া, উপকারী ইলম, আর নেক সন্তান, যে তার জন্য দোয়া করে। এই আয়াতের দুই অলঙ্কার, সম্পদ আর সন্তান, দুটোই সেখানে আছে, স্থায়ী আমলে বদলে গিয়ে।"
           },
           {
             "en": "So the daily practice this verse asks for is a transfer: keep converting the decoration into the durable. Close some minutes of each day with the phrases of dhikr the early commentators named; attach intention to the month's spending; teach a child something that will keep speaking after you have stopped. Then enjoy the adornment with a free heart — decoration is most pleasant, in a house or in a life, exactly when nothing essential has been made to rest on it.",
-            "bn": "তাহলে এই আয়াত যে দৈনিক অনুশীলন চায় তা এক স্থানান্তর: সাজসজ্জাকে টেকসইয়ে রূপান্তর করতে থাকো। দিনের কিছু মিনিট শেষ করুন প্রাথমিক যুগের মুফাসসিরদের নাম-করা যিকরের বাক্যগুলো দিয়ে; মাসের খরচের সঙ্গে নিয়ত জুড়ে দিন; একটি শিশুকে এমন কিছু শেখান, আপনার থেমে যাওয়ার পরেও যা কথা বলে যাবে। তারপর মুক্ত হৃদয়ে অলঙ্কার উপভোগ করুন — ঘরে হোক বা জীবনে, কারুকাজ সবচেয়ে মধুর ঠিক তখনই, যখন অত্যাবশ্যক কোনো কিছুকে তার ওপর ভর দিয়ে দাঁড় করানো হয়নি।"
+            "bn": "তাই এই আয়াত রোজকার যে অভ্যাস চায়, তা এক ধরনের স্থানান্তর: সাজসজ্জাকে বারবার টেকসই জিনিসে বদলে নিতে থাকুন। প্রতিদিন কয়েক মিনিট শেষ করুন সেই জিকিরগুলো দিয়ে, প্রথম যুগের মুফাসসিররা যেগুলোর কথা বলেছেন। মাসের খরচের সঙ্গে নিয়ত জুড়ে দিন। কোনো শিশুকে এমন কিছু শেখান, আপনি থেমে যাওয়ার পরেও যা কথা বলে যাবে। তারপর মুক্ত মনে অলঙ্কার উপভোগ করুন। ঘরে হোক বা জীবনে, কারুকাজ সবচেয়ে মধুর ঠিক তখনই, যখন জরুরি কোনো কিছুকে তার ওপর ভর দিয়ে দাঁড় করানো হয়নি।"
           }
         ]
       }
@@ -1077,7 +1077,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir reads the whole verse as a rebuke. God warns the children of Adam of the enmity of Iblis toward them and toward their father before them, and reproaches those who follow him against the very Creator who made them from nothing and sustains them by His kindness. The bow the angels made, Ibn Kathir adds, was a prostration of honour and respect, not of worship. What al-Kahf then presses is why a creature would honour Iblis and defy the One so owed.",
-            "bn": "ইবন কাসীর গোটা আয়াতটিকেই এক ভর্ৎসনা হিসেবে পড়েন। আল্লাহ আদম-সন্তানদের সতর্ক করছেন তাদের প্রতি ও তাদের আগে তাদের পিতার প্রতি ইবলিসের শত্রুতা নিয়ে, আর তিরস্কার করছেন তাদের, যারা নিজের স্রষ্টার বিরুদ্ধে গিয়ে তার অনুসরণ করে। সেই স্রষ্টা শূন্য থেকে তাদের গড়েছেন আর দয়া করে লালন করছেন। ইবন কাসীর যোগ করেন, ফেরেশতাদের সিজদা ছিল সম্মান ও মর্যাদার, ইবাদতের নয়। কাহফ তখন যা সামনে আনে তা হলো : কেন কোনো সৃষ্টি ইবলিসকে সম্মান দেবে আর যাঁর কাছে সে একমাত্র ঋণী তাঁকেই অমান্য করবে।"
+            "bn": "ইবন কাসীর গোটা আয়াতটিকেই এক ভর্ৎসনা হিসেবে পড়েন। আল্লাহ আদম-সন্তানদের সতর্ক করছেন, ইবলিস তাদের শত্রু, যেমন শত্রু ছিল তাদের আগে তাদের পিতার। আর তিরস্কার করছেন তাদের, যারা নিজের স্রষ্টার বিরুদ্ধে গিয়ে ইবলিসের অনুসরণ করে, অথচ সেই স্রষ্টা তাদের শূন্য থেকে গড়েছেন আর দয়া করে টিকিয়ে রেখেছেন। ইবন কাসীর যোগ করেন, ফেরেশতাদের সিজদা ছিল সম্মান ও মর্যাদার, ইবাদতের নয়। কাহফ এরপর যে প্রশ্নটা চেপে ধরে তা হলো: যাঁর কাছে সে এত ঋণী, তাঁকে অমান্য করে কোনো সৃষ্টি কেন ইবলিসকে সম্মান দেবে?"
           }
         ]
       },
@@ -1093,11 +1093,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other side runs through Ibn Abbas. In reports he transmits, Iblis belonged to a clan of angels called 'the jinn,' created from the fire of the scorching wind among the angels, and he was a keeper of the Garden; Ibn Abbas even argues that had he not been of the angels, he would not have been included in the command to prostrate. At-Tabari gathers a further gloss: some said he was called 'of the jinn' because such beings conceal themselves from human sight, and some because he guarded the Garden and was named after it.",
-            "bn": "অন্য পক্ষটি এসেছে ইবন আব্বাসের সূত্রে। তাঁর বর্ণনায়, ইবলিস ছিল ফেরেশতাদের এমন এক গোত্রের, যাদের বলা হতো 'জ্বীন', যারা ফেরেশতাদের মধ্যে সৃষ্টি হয়েছিল প্রখর লু-হাওয়ার আগুন থেকে; আর সে ছিল জান্নাতের এক রক্ষক। ইবন আব্বাস তো যুক্তি দেন, সে ফেরেশতাদের না হলে সিজদার হুকুমের ভেতর তাকে ধরাই হতো না। তাবারী আরও একটি ব্যাখ্যা জড়ো করেন : কেউ বলেন তাকে 'জ্বীন' বলা হয়েছে কারণ এ ধরনের সত্তা মানুষের চোখ থেকে নিজেকে আড়াল করে, আর কেউ বলেন সে জান্নাতের রক্ষক ছিল বলে তার নামেই এই নিসবত।"
+            "bn": "অন্য মতটি এসেছে ইবন আব্বাসের সূত্রে। তাঁর বর্ণনায়, ইবলিস ছিল ফেরেশতাদের এমন এক গোত্রের, যাদের বলা হতো 'জ্বীন'; ফেরেশতাদের মধ্যে তারা সৃষ্টি হয়েছিল প্রখর লু-হাওয়ার আগুন থেকে, আর সে ছিল জান্নাতের এক রক্ষক। ইবন আব্বাস তো যুক্তি দেন, সে ফেরেশতাদের একজন না হলে সিজদার হুকুমের ভেতর তাকে ধরাই হতো না। তাবারী আরও একটি ব্যাখ্যা আনেন: কেউ বলেন, তাকে 'জ্বীন' বলা হয়েছে, কারণ এ ধরনের সত্তা মানুষের চোখ থেকে আড়ালে থাকে; আর কেউ বলেন, সে জান্নাতের পাহারাদার ছিল, তাই জান্নাতের নামেই তার এই নাম।"
           },
           {
             "en": "At-Tabari lines these views up without ruling between them, and Ibn Kathir sounds a caution: many of the fuller stories, that Iblis was a noble angel named Azazil, or that he ruled the lowest heaven, come from Israelite lore passed on only to be examined, and the Qur'an stands in no need of them. So the honest report is a disagreement left standing. What the verse fixes is not his species but his choice.",
-            "bn": "তাবারী মতগুলো পাশাপাশি সাজিয়ে দেন, কোনটি সঠিক তা বলেন না; আর ইবন কাসীর একটা সতর্কবাণী শোনান। বড় বড় কাহিনির অনেকটাই, যেমন ইবলিস ছিল আজাজিল নামের এক মহান ফেরেশতা, কিংবা সে সর্বনিম্ন আসমানের শাসক ছিল, এসব এসেছে ইসরাইলি বর্ণনা থেকে, যা কেবল যাচাইয়ের জন্যই বলা হয়; কুরআনের এসবের কোনো দরকার নেই। তাই খাঁটি রিপোর্ট হলো, মতভেদটা মতভেদ হিসেবেই থাক। আয়াত যা নিশ্চিত করে তা তার প্রজাতি নয়, তার পছন্দ।"
+            "bn": "তাবারী মতগুলো পাশাপাশি সাজিয়ে দেন, কোনটি ঠিক তা বলে দেন না। আর ইবন কাসীর সতর্ক করেন: বড় বড় কাহিনির অনেকগুলো, যেমন ইবলিস ছিল আজাজিল নামের এক সম্মানিত ফেরেশতা, কিংবা সে সবচেয়ে নিচের আসমান শাসন করত, এসেছে ইসরাইলি বর্ণনা থেকে। এসব কেবল যাচাই করে দেখার জন্য বলা হয়, আর কুরআনের এগুলোর কোনো প্রয়োজন নেই। তাই সৎভাবে বলতে গেলে, মতভেদটা মতভেদ হিসেবেই থেকে যায়। আয়াত তার জাত নিশ্চিত করে না, নিশ্চিত করে তার বেছে নেওয়া পথ।"
           }
         ]
       },
