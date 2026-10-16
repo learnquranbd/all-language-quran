@@ -1641,18 +1641,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari also records from Abdullah ibn Abi Awfa (RA) that a man set out his goods in the market and swore by Allah that he had been offered for them what he had not been offered, to draw a Muslim buyer in, and the verse came down. Sound reports can give a verse more than one occasion, and neither report narrows this one to a single community. Both are about what a person does with an oath when money is on the table.",
-            "bn": "বুখারি আবদুল্লাহ ইবনে আবি আওফা (রাঃ) থেকেও বর্ণনা করেছেন: এক লোক বাজারে মাল সাজিয়ে আল্লাহর কসম খেয়ে বলল, এর জন্য তাকে এত দাম দিতে চাওয়া হয়েছে, অথচ কেউ তা চায়নি। উদ্দেশ্য ছিল একজন মুসলিম ক্রেতাকে ফাঁদে ফেলা। তখন আয়াতটি নাযিল হয়। একটি আয়াতের একাধিক শানে নুযুল সহিহ বর্ণনায় আসতে পারে। দুটি বর্ণনার কোনোটিই আয়াতটিকে এক সম্প্রদায়ে সীমাবদ্ধ করে না। দুটিই এ নিয়ে যে টাকার প্রশ্ন সামনে এলে মানুষ কসমের সঙ্গে কী আচরণ করে।"
+            "bn": "বুখারি আবদুল্লাহ ইবনে আবি আওফা (রাঃ) থেকেও বর্ণনা করেছেন: এক লোক বাজারে মাল সাজিয়ে আল্লাহর কসম খেয়ে বলল, এর জন্য তাকে এত দাম দিতে চাওয়া হয়েছে, অথচ কেউ তা দিতে চায়নি। উদ্দেশ্য ছিল কোনো মুসলিম ক্রেতাকে ফাঁদে ফেলা। তখন আয়াতটি নাজিল হয়। সহিহ বর্ণনায় একই আয়াতের একাধিক শানে নুযুল আসতে পারে, আর এই দুই বর্ণনার কোনোটিই আয়াতটিকে কোনো এক সম্প্রদায়ের মধ্যে আটকে দেয় না। দুটিরই কথা একটাই: টাকাপয়সার প্রশ্ন সামনে এলে মানুষ নিজের কসম নিয়ে কী করে।"
           },
           {
             "en": "Sahih Muslim records from Abu Dharr (RA) that the Prophet ﷺ said there are three whom Allah will not speak to on the Day of Resurrection, nor look at, nor purify, and theirs is a painful punishment. The Prophet ﷺ said it three times, and Abu Dharr said: they have failed and lost; who are they, O Messenger of Allah? The Prophet ﷺ answered: the one who lets his garment trail, the one who reminds people of what he gave, and the one who sells his goods by a false oath. The hadith speaks in the verse's own denials.",
-            "bn": "সহিহ মুসলিমে আবু যর (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: তিন ধরনের মানুষের সঙ্গে আল্লাহ কিয়ামতের দিন কথা বলবেন না, তাদের দিকে তাকাবেন না, তাদের পবিত্রও করবেন না, আর তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি। নবী ﷺ কথাটা তিনবার বললেন। আবু যর বললেন, তারা ব্যর্থ হলো, ক্ষতিগ্রস্ত হলো; ইয়া রাসূলাল্লাহ, তারা কারা? নবী ﷺ বললেন: যে কাপড় ঝুলিয়ে টেনে চলে, যে দান করে খোঁটা দেয়, আর যে মিথ্যা কসম খেয়ে নিজের মাল বিক্রি করে। হাদিসটি কথা বলে আয়াতেরই অস্বীকারগুলোর ভাষায়।"
+            "bn": "সহিহ মুসলিমে আবু যর (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: তিন ধরনের মানুষের সঙ্গে আল্লাহ কিয়ামতের দিন কথা বলবেন না, তাদের দিকে তাকাবেন না, তাদের পবিত্রও করবেন না, আর তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি। নবী ﷺ কথাটা তিনবার বললেন। আবু যর বললেন, তারা ব্যর্থ হলো, ক্ষতিগ্রস্ত হলো; ইয়া রাসূলাল্লাহ, তারা কারা? নবী ﷺ বললেন: যে কাপড় ঝুলিয়ে টেনে চলে, যে দান করে খোঁটা দেয়, আর যে মিথ্যা কসম খেয়ে নিজের মাল বিক্রি করে। হাদিসটি বলছে আয়াতেরই ভাষায়: কথা বলবেন না, তাকাবেন না, পবিত্র করবেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "Verses That Keep the Same Word",
-          "bn": "একই কথা রাখে যে আয়াতগুলো"
+          "bn": "একই কথার আরও আয়াত"
         },
         "p": [
           {
@@ -1673,11 +1673,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The market man in Ibn Abi Awfa's report has modern relatives: the seller who invents a higher offer to push a buyer, the listing that says barely used, the review written by the shop. None of them may swear aloud, but a sworn claim is the sharpest form of the same trade. The practice the verse asks for is simple to state and costly to keep: say about your goods only what is true, even when a small lie would close the sale today.",
-            "bn": "ইবনে আবি আওফার বর্ণনার সেই বিক্রেতার আজকের দিনেও আত্মীয় আছে। কেউ ক্রেতাকে চাপ দিতে বানিয়ে বলে, আরেকজন আরও বেশি দিতে চেয়েছিল। কেউ বিজ্ঞাপনে লেখে প্রায় নতুন। কেউ নিজের দোকানের রিভিউ নিজেই লেখে। এদের কেউ হয়তো মুখে কসম খায় না, কিন্তু কসম খেয়ে বলা দাবি একই কারবারের সবচেয়ে ধারালো রূপ। আয়াত যে আমল চায় তা বলা সহজ, রাখা কঠিন: নিজের মাল সম্পর্কে শুধু সত্যটাই বলুন, একটা ছোট মিথ্যায় আজকের বিক্রিটা পাকা হয়ে গেলেও।"
+            "bn": "ইবনে আবি আওফার বর্ণনার সেই বিক্রেতার মতো লোক আজও কম নেই। কেউ ক্রেতাকে চাপ দিতে বানিয়ে বলে, আরেকজন আরও বেশি দিতে চেয়েছিল। কেউ বিজ্ঞাপনে লেখে প্রায় নতুন। কেউ নিজের দোকানের রিভিউ নিজেই লেখে। এদের কেউ হয়তো মুখে কসম খায় না, কিন্তু কসম খেয়ে বলা দাবি একই কারবারের সবচেয়ে ধারালো রূপ। আয়াত যে আমল চায় তা বলা সহজ, রাখা কঠিন: নিজের মাল সম্পর্কে শুধু সত্যটাই বলুন, একটা ছোট মিথ্যায় আজকের বিক্রিটা পাকা হয়ে গেলেও।"
           },
           {
             "en": "Al-Ash'ath's dispute shows the other place oaths live: courts, inheritance quarrels, workplace complaints, signed statements. The Prophet ﷺ let a case rest on an oath when there were no witnesses, which means a false oath can actually win. That is exactly why the warning is so heavy. A believer signs no document and gives no statement he knows to be false, and in a family dispute he would rather lose a share of land than meet his Lord with it.",
-            "bn": "আশআস (রাঃ)-এর বিবাদ দেখায়, কসমের আরেক ঠিকানা কোথায়: আদালত, মিরাসের ঝগড়া, অফিসের অভিযোগ, সই করা জবানবন্দি। সাক্ষী না থাকলে নবী ﷺ ফয়সালা কসমের ওপর ছেড়ে দিয়েছিলেন। এর মানে মিথ্যা কসমে সত্যিই মামলা জেতা যায়। ঠিক এই কারণেই সতর্কবাণী এত ভারী। মুমিন জেনেশুনে মিথ্যা কোনো কাগজে সই করেন না, মিথ্যা জবানবন্দি দেন না। পারিবারিক বিবাদে এক টুকরো জমি হারানো তাঁর কাছে সহজ, সেই জমি নিয়ে রবের সামনে দাঁড়ানোর চেয়ে।"
+            "bn": "আশআস (রাঃ)-এর বিবাদ দেখায়, কসমের আরেক ঠিকানা কোথায়: আদালত, মিরাসের ঝগড়া, অফিসের অভিযোগ, সই করা জবানবন্দি। সাক্ষী না থাকলে নবী ﷺ ফয়সালা কসমের ওপর ছেড়ে দিয়েছিলেন। এর মানে মিথ্যা কসমে সত্যিই মামলা জেতা যায়। ঠিক এই কারণেই সতর্কবাণী এত ভারী। মুমিন জেনেশুনে মিথ্যা কোনো কাগজে সই করেন না, মিথ্যা জবানবন্দি দেন না। পারিবারিক বিবাদে সেই জমি নিয়ে রবের সামনে দাঁড়ানোর চেয়ে জমির ভাগটা হারানোই তাঁর কাছে ভালো।"
           },
           {
             "en": "And the claim of 3:75 has to be refused at home. Ibn Abbas (RA) did not let Muslims excuse themselves with an exception for outsiders, and neither may we: a non-Muslim colleague, a customer we will never see again, the state, a large company. Keep one standard of honesty for everyone. Promises to Allah belong here too, the vow made in a hard hour and the resolve made after a sin, because the verse names the covenant of Allah before it names oaths to people.",
@@ -1688,16 +1688,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Asking for Taqwa and Enough",
-          "bn": "তাকওয়া আর যথেষ্টতার দোয়া"
+          "bn": "তাকওয়া আর অভাবমুক্তির দোয়া"
         },
         "p": [
           {
             "en": "Sahih Muslim records from Abdullah ibn Mas'ud (RA) that the Prophet ﷺ used to say: O Allah, I ask You for guidance, taqwa, chastity and sufficiency. It is not a supplication the commentators attach to this verse, but it asks for exactly what the verse's two people differ in. Taqwa is the word of 3:76, and sufficiency is what makes a small price stop looking large.",
-            "bn": "সহিহ মুসলিমে আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলতেন: হে আল্লাহ, আমি তোমার কাছে হেদায়েত, তাকওয়া, পবিত্রতা আর অভাবমুক্তি চাই। মুফাসসিররা এই দোয়াকে এই আয়াতের সঙ্গে জুড়ে দেননি। তবু আয়াতের দুই ধরনের মানুষের তফাত যে জিনিসগুলোয়, দোয়াটি ঠিক সেগুলোই চায়। তাকওয়া ৩:৭৬ আয়াতেরই শব্দ। আর মন অভাবমুক্ত হলে সামান্য দাম আর বড় দেখায় না।"
+            "bn": "সহিহ মুসলিমে আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলতেন: হে আল্লাহ, আমি আপনার কাছে হেদায়েত, তাকওয়া, পবিত্রতা আর অভাবমুক্তি চাই। মুফাসসিররা এই দোয়াকে এই আয়াতের সঙ্গে জুড়ে দেননি। তবু আয়াতের দুই ধরনের মানুষের তফাত যেসব জিনিসে, দোয়াটি ঠিক সেগুলোই চায়। তাকওয়া ৩:৭৬ আয়াতেরই শব্দ। আর মন অভাবমুক্ত হলে সামান্য দাম আর বড় দেখায় না।"
           },
           {
             "en": "Alongside it, a supplication in the vocabulary of 3:76-77, offered as such and not as a transmitted wording: O Allah, make me of those who fulfil their commitment and fear You, whom You love. Do not let me sell Your covenant or my word for any price. Do not withhold from me Your speech, Your look and Your purifying on the Day of Resurrection, and protect me from a painful punishment.",
-            "bn": "এর পাশাপাশি ৩:৭৬-৭৭ আয়াতের শব্দে সাজানো একটি দোয়া, এটি বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আমাকে তাদের মধ্যে রাখো, যারা ওয়াদা পূরণ করে আর তোমাকে ভয় করে, যাদের তুমি ভালোবাসো। কোনো দামেই যেন তোমার অঙ্গীকার বা আমার কথা বেচে না দিই। কিয়ামতের দিন তোমার কথা, তোমার দৃষ্টি আর তোমার পবিত্র করা থেকে আমাকে বঞ্চিত কোরো না। আর যন্ত্রণাদায়ক শাস্তি থেকে আমাকে রক্ষা করো।"
+            "bn": "এর পাশাপাশি ৩:৭৬-৭৭ আয়াতের শব্দ দিয়ে সাজানো একটি দোয়া। এটি কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, আমাকে তাদের দলে রাখুন, যারা ওয়াদা পূরণ করে আর আপনাকে ভয় করে, যাদের আপনি ভালোবাসেন। কোনো দামেই যেন আপনার অঙ্গীকার বা আমার কথা বেচে না দিই। কিয়ামতের দিন আপনার কথা, আপনার দৃষ্টি আর আপনার পবিত্র করা থেকে আমাকে বঞ্চিত করবেন না। আর যন্ত্রণাদায়ক শাস্তি থেকে আমাকে রক্ষা করুন।"
           }
         ]
       },
@@ -1709,11 +1709,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Is there anyone I treat as fair game, a stranger, a large company, someone of another faith, in a way I would never treat my own family? When I last said something is true, I promise, or wallahi, did I need the oath because the plain statement would not have been believed? What small price has pulled at me this month, and did I notice how small it was?",
-            "bn": "এমন কেউ কি আছে, যার সঙ্গে ঠকানোকে আমি দোষের মনে করি না, অচেনা লোক, বড় কোম্পানি, অন্য ধর্মের কেউ, অথচ নিজের পরিবারের সঙ্গে কখনো এমন করতাম না? শেষবার যখন বলেছি সত্যি বলছি বা ওয়াল্লাহি, তখন কি কসমটা লেগেছিল কারণ সাদা কথায় কেউ বিশ্বাস করত না? এই মাসে কোন সামান্য দাম আমাকে টেনেছে, আর আমি কি খেয়াল করেছি সেটা কত সামান্য ছিল?"
+            "bn": "অচেনা লোক, বড় কোম্পানি, অন্য ধর্মের কেউ: এমন কাউকে কি আমি ঠকানো দোষের মনে করি না, অথচ নিজের পরিবারের সঙ্গে কখনো এমন করতাম না? শেষবার যখন বলেছি সত্যি বলছি বা ওয়াল্লাহি, তখন কি কসমটা লেগেছিল কারণ সাদা কথায় কেউ বিশ্বাস করত না? এই মাসে কোন সামান্য দাম আমাকে টেনেছে, আর আমি কি খেয়াল করেছি সেটা কত সামান্য ছিল?"
           },
           {
             "en": "Is there a promise I made to Allah in a difficult hour that I have not kept since the hour passed? If I stood on the Day of Resurrection and Allah did not look at me, which of my deals today would have been worth it? And what would it take for me to be among those of whom 3:76 says simply that Allah loves them?",
-            "bn": "কঠিন সময়ে আল্লাহকে এমন কোনো ওয়াদা কি দিয়েছিলাম, সময় পার হওয়ার পর যা আর রাখিনি? কিয়ামতের দিন দাঁড়িয়ে যদি দেখি আল্লাহ আমার দিকে তাকাচ্ছেন না, তবে আজকের কোন লেনদেনটা তার যোগ্য ছিল? আর ৩:৭৬ আয়াত যাদের সম্পর্কে সোজা বলে যে আল্লাহ তাদের ভালোবাসেন, তাদের একজন হতে আমাকে কী করতে হবে?"
+            "bn": "কঠিন সময়ে আল্লাহকে এমন কোনো ওয়াদা কি দিয়েছিলাম, যা সময়টা পার হওয়ার পর আর রাখিনি? কিয়ামতের দিন দাঁড়িয়ে যদি দেখি আল্লাহ আমার দিকে তাকাচ্ছেন না, তখন আজকের কোন লেনদেনটাকে লাভের মনে হবে? আর ৩:৭৬ আয়াত যাদের সম্পর্কে সোজা বলে দেয় যে আল্লাহ তাদের ভালোবাসেন, তাদের একজন হতে আমাকে কী করতে হবে?"
           }
         ]
       }
@@ -1729,7 +1729,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Al Imran is Madinan, and here it is still addressing the People of the Book. Just before, 3:79 says that no human being to whom Allah gives the Scripture and prophethood would then tell people to be his servants rather than Allah's, and 3:80 adds that he would never order them to take the angels and the prophets as lords. Having said what no prophet would ever ask, the Quran turns in 3:81 to what every prophet was asked, opening with wa idh, and when, to call a scene to mind.",
-            "bn": "সূরা আলে ইমরান মাদানি সূরা, আর এখানেও কথা চলছে আহলে কিতাবকে উদ্দেশ করে। ঠিক আগে ৩:৭৯ আয়াত বলে, আল্লাহ যে মানুষকে কিতাব আর নবুওয়াত দেন, সে কখনো লোকদের বলবে না যে আল্লাহকে ছেড়ে আমার বান্দা হয়ে যাও। ৩:৮০ আয়াত যোগ করে, সে কখনো তোমাদের ফেরেশতা আর নবীদের রব বানাতে হুকুম দেবে না। কোনো নবী কী কখনো চাইবেন না, তা বলার পর ৩:৮১ আয়াতে কুরআন ফেরে সেই কথায়, যা প্রত্যেক নবীর কাছে চাওয়া হয়েছিল। শুরু হয় ওয়া ইয, অর্থাৎ স্মরণ করো সেই সময়ের কথা, এই শব্দে।"
+            "bn": "সূরা আলে ইমরান মাদানী সূরা, আর এখানেও কথা চলছে আহলে কিতাবকে উদ্দেশ করে। ঠিক আগে ৩:৭৯ আয়াত বলে, আল্লাহ যে মানুষকে কিতাব আর নবুওয়াত দেন, সে কখনো লোকদের বলবে না যে আল্লাহকে ছেড়ে আমার বান্দা হয়ে যাও। ৩:৮০ আয়াত যোগ করে, সে কখনো তোমাদের ফেরেশতা আর নবীদের রব বানাতে হুকুম দেবে না। কোনো নবী যা কখনো চাইবেন না, তা বলার পর ৩:৮১ আয়াতে কুরআন আসে সেই কথায়, যা প্রত্যেক নবীর কাছে চাওয়া হয়েছিল। আয়াতটি শুরু হয় ওয়া ইয দিয়ে, অর্থাৎ আর স্মরণ করো যখন, যেন একটি দৃশ্য চোখের সামনে ভেসে ওঠে।"
           },
           {
             "en": "3:82 closes the scene: whoever turns away after that, they are the defiantly disobedient. The verses after it carry the covenant forward to its followers. 3:83 asks whether it is other than the religion of Allah they desire, and 3:84 gives the believers the words of their answer, faith in what was sent to Ibrahim, Musa, Isa and the prophets, without distinction between any of them. Ibn Kathir gives no separate occasion of revelation for 3:81-82; their setting is the surah's long address.",
@@ -1745,7 +1745,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mithaq comes from the root w-th-q, to bind something fast, and the covenant in this verse is one Allah takes, akhadha, as a binding is taken from someone. Its terms are conditional: whatever I have given you of Scripture and wisdom, and then there comes to you a messenger confirming what is with you. The phrase musaddiqun li-ma ma'akum is the same one 2:41 uses when the Children of Israel are told to believe in what was sent down confirming what is with them.",
-            "bn": "মিসাক শব্দের মূল ওয়াও-সা-ক্বাফ, যার অর্থ কিছু শক্ত করে বাঁধা। আয়াতের অঙ্গীকার আল্লাহ গ্রহণ করেন, আখাযা, যেভাবে কারও কাছ থেকে বাঁধন নেওয়া হয়। শর্তগুলো এমন: আমি তোমাদের কিতাব আর হিকমত যা-ই দিয়েছি, তারপর যদি তোমাদের কাছে এমন রাসূল আসেন, যিনি তোমাদের কাছে যা আছে তার সত্যায়ন করেন। মুসাদ্দিকুল লিমা মাআকুম কথাটি ২:৪১ আয়াতেও আছে, যেখানে বনি ইসরাইলকে বলা হয়, তোমাদের কাছে যা আছে তার সত্যায়নকারী হিসেবে যা নাযিল হয়েছে তার ওপর ঈমান আনো।"
+            "bn": "মিসাক শব্দের মূল ওয়াও-সা-ক্বাফ, যার অর্থ কিছু শক্ত করে বাঁধা। এই আয়াতের অঙ্গীকার আল্লাহ গ্রহণ করেন, আখাযা, যেভাবে কারও কাছ থেকে পাকা কথা আদায় করা হয়। এর শর্ত আছে: আমি তোমাদের কিতাব আর হিকমত যা-ই দিয়েছি, তারপর যদি তোমাদের কাছে এমন রাসূল আসেন, যিনি তোমাদের কাছে যা আছে তার সত্যায়ন করেন। মুসাদ্দিকুল লিমা মাআকুম কথাটি ২:৪১ আয়াতেও আছে, যেখানে বনি ইসরাইলকে বলা হয়, তোমাদের কাছে যা আছে তার সত্যায়নকারী হিসেবে যা নাজিল হয়েছে তার ওপর ঈমান আনো।"
           },
           {
             "en": "The obligation is la-tu'minunna bihi wa la-tansurunnah. Each verb carries the lam of oath and the heavy nun of emphasis, so the sense is: you shall surely believe in him, and you shall surely support him. Belief alone is not the whole of it. Nusrah, standing with him, is named alongside it with the same force. Then Allah asks a question, a-aqrartum, have you acknowledged? Iqrar is from q-r-r, to make a thing settle and stay fixed, and the prophets answer with the same word: aqrarna, we have acknowledged.",
@@ -1753,7 +1753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Between question and answer stands isri, My isr. Ibn Kathir reports from Ibn Abbas, Mujahid, ar-Rabi', Qatadah and as-Suddi that it means My covenant, and from Ibn Ishaq that it is the responsibility of My covenant which you took on. The same word is the burden asked away in 2:286 and the burden lifted in 7:157. A covenant, in this vocabulary, is something that weighs on the one who carries it. The scene ends with Allah saying: then bear witness, and I am with you among the witnesses.",
-            "bn": "প্রশ্ন আর জবাবের মাঝখানে আছে ইসরি, আমার ইসর। ইবনে কাসীর ইবনে আব্বাস, মুজাহিদ, রাবি, কাতাদা ও সুদ্দি থেকে বর্ণনা করেন, এর অর্থ আমার অঙ্গীকার। আর ইবনে ইসহাক থেকে, আমার যে অঙ্গীকারের দায় তোমরা কাঁধে নিলে। একই শব্দ ২:২৮৬ আয়াতে সেই ভার, যা চাপিয়ে না দিতে দোয়া করা হয়, আর ৭:১৫৭ আয়াতে সেই ভার, যা নামিয়ে দেওয়া হয়। এই ভাষায় অঙ্গীকার এমন জিনিস, যা বহনকারীর কাঁধে ওজন হয়ে থাকে। দৃশ্য শেষ হয় আল্লাহর কথায়: তাহলে সাক্ষী থাকো, আর আমিও তোমাদের সঙ্গে সাক্ষীদের একজন।"
+            "bn": "প্রশ্ন আর জবাবের মাঝখানে আছে ইসরি, আমার ইসর। ইবনে কাসীর ইবনে আব্বাস, মুজাহিদ, রাবি, কাতাদা ও সুদ্দি থেকে বর্ণনা করেন, এর অর্থ আমার অঙ্গীকার। আর ইবনে ইসহাক থেকে বর্ণনা করেন, এর অর্থ আমার অঙ্গীকারের সেই দায়, যা তোমরা কাঁধে নিয়েছ। একই শব্দ ২:২৮৬ আয়াতে সেই ভার, যা চাপিয়ে না দিতে দোয়া করা হয়, আর ৭:১৫৭ আয়াতে সেই ভার, যা নামিয়ে দেওয়া হয়। এই ভাষায় অঙ্গীকার এমন জিনিস, যা বহনকারীর কাঁধে ওজন হয়ে থাকে। দৃশ্য শেষ হয় আল্লাহর কথায়: তাহলে সাক্ষী থাকো, আর আমিও তোমাদের সঙ্গে সাক্ষীদের একজন।"
           }
         ]
       },
@@ -1780,16 +1780,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Night the Line Met",
-          "bn": "যে রাতে ধারাটি মিলিত হলো"
+          "bn": "যে রাতে নবীদের ধারা এক হলো"
         },
         "p": [
           {
             "en": "No sound hadith narrates the scene of the covenant itself. Two narrations show what keeping it looked like. Sahih Muslim records from Abu Hurayrah (RA) that on the night of the Isra' the Prophet ﷺ saw himself among a group of the prophets, and that when the time for prayer came, he led them. The prophets who had been bound to believe in and support him stood behind him, and that is the relationship 3:81 describes, made visible in a single prayer.",
-            "bn": "অঙ্গীকারের দৃশ্যটি নিয়ে কোনো সহিহ হাদিস নেই। তবে দুটি বর্ণনা দেখায়, অঙ্গীকার রক্ষা দেখতে কেমন। সহিহ মুসলিমে আবু হুরাইরা (রাঃ) থেকে বর্ণিত, ইসরার রাতে নবী ﷺ নিজেকে নবীদের একটি দলের মধ্যে দেখলেন। নামাজের সময় হলে নবী ﷺ তাঁদের ইমামতি করলেন। যে নবীরা তাঁর ওপর ঈমান আনতে আর তাঁকে সাহায্য করতে অঙ্গীকারবদ্ধ ছিলেন, তাঁরা দাঁড়ালেন তাঁর পেছনে। ৩:৮১ আয়াত যে সম্পর্কের কথা বলে, একটিমাত্র নামাজে তা চোখের সামনে এসে দাঁড়াল।"
+            "bn": "অঙ্গীকারের দৃশ্যটি নিয়ে কোনো সহিহ হাদিস নেই। তবে দুটি বর্ণনায় দেখা যায়, অঙ্গীকার রক্ষা বাস্তবে কেমন ছিল। সহিহ মুসলিমে আবু হুরাইরা (রাঃ) থেকে বর্ণিত, ইসরার রাতে নবী ﷺ নিজেকে নবীদের একটি দলের মধ্যে দেখলেন। নামাজের সময় হলে নবী ﷺ তাঁদের ইমামতি করলেন। যে নবীরা তাঁর ওপর ঈমান আনতে আর তাঁকে সাহায্য করতে অঙ্গীকারবদ্ধ ছিলেন, তাঁরা দাঁড়ালেন তাঁর পেছনে। ৩:৮১ আয়াত যে সম্পর্কের কথা বলে, একটিমাত্র নামাজে তা চোখের সামনে এসে দাঁড়াল।"
           },
           {
             "en": "Sahih al-Bukhari carries the ascent through the heavens, where he met prophets in heaven after heaven. Most of them welcomed him as a righteous brother and a righteous prophet; Adam and Ibrahim (AS) welcomed him as a righteous son. Nobody in that account guards a place against the newcomer. Each greets the messenger who came confirming what was with them, and that welcome is, in effect, the answer, we have acknowledged, given again in person.",
-            "bn": "সহিহ বুখারিতে আছে আসমানে আরোহণের বর্ণনা, যেখানে এক আসমানের পর আরেক আসমানে তিনি নবীদের সাক্ষাৎ পান। বেশির ভাগ নবী তাঁকে স্বাগত জানান নেককার ভাই আর নেককার নবী বলে। আদম ও ইবরাহীম (আঃ) স্বাগত জানান নেককার পুত্র বলে। সেই বর্ণনায় কেউ নতুন আগন্তুকের সামনে নিজের জায়গা আগলে দাঁড়ান না। প্রত্যেকেই বরণ করেন সেই রাসূলকে, যিনি তাঁদের কাছে থাকা জিনিসের সত্যায়ন করতে এসেছেন। সেই অভ্যর্থনাই যেন আকরারনা, আমরা স্বীকার করলাম, এই জবাবের সামনাসামনি পুনরাবৃত্তি।"
+            "bn": "সহিহ বুখারিতে আছে আসমানে আরোহণের বর্ণনা: এক আসমানের পর আরেক আসমানে তিনি নবীদের সাক্ষাৎ পান। বেশির ভাগ নবী তাঁকে স্বাগত জানান নেককার ভাই আর নেককার নবী বলে। আদম ও ইবরাহীম (আঃ) স্বাগত জানান নেককার পুত্র বলে। সেই বর্ণনায় কেউ নবাগতের সামনে নিজের জায়গা আগলে দাঁড়ান না। প্রত্যেকেই বরণ করেন সেই রাসূলকে, যিনি তাঁদের কাছে যা ছিল তার সত্যায়ন করতে এসেছেন। সেই অভ্যর্থনা যেন সামনাসামনি আবার দেওয়া সেই জবাব: আকরারনা, আমরা স্বীকার করলাম।"
           }
         ]
       },
@@ -1821,27 +1821,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second is how truth is received. The prophets were bound to support a messenger who was not from their own following. For us that means accepting a correction that confirms what Allah revealed even when it comes from a younger colleague, another mosque, or a group we do not belong to. And it means support, not only agreement: la-tansurunnah asks for help with hands and time, not a nod from a distance.",
-            "bn": "দ্বিতীয় আমল সত্যকে গ্রহণ করার ধরনে। নবীরা এমন রাসূলকে সাহায্য করতে অঙ্গীকারবদ্ধ ছিলেন, যিনি তাঁদের নিজেদের অনুসারীদের ভেতর থেকে আসেননি। আমাদের জন্য এর মানে, আল্লাহর নাযিল করা কথার সঙ্গে মেলে এমন সংশোধন মেনে নেওয়া, তা বয়সে ছোট সহকর্মী, অন্য মসজিদ বা যে দলের আমরা নই, তাদের কাছ থেকে এলেও। আর এর মানে সাহায্য করা, শুধু একমত হওয়া নয়। লাতানসুরুন্নাহ চায় হাত আর সময় দিয়ে পাশে দাঁড়ানো, দূর থেকে মাথা নাড়া নয়।"
+            "bn": "দ্বিতীয় আমল সত্যকে গ্রহণ করার ধরনে। নবীরা এমন রাসূলকে সাহায্য করতে অঙ্গীকারবদ্ধ ছিলেন, যিনি তাঁদের নিজেদের অনুসারীদের ভেতর থেকে আসেননি। আমাদের জন্য এর মানে: কেউ যদি আমাদের ভুল শুধরে দেয় আর তার কথা আল্লাহর নাজিল করা কথার সঙ্গে মেলে, তবে তা মেনে নেওয়া। কথাটা বয়সে ছোট কোনো সহকর্মী, অন্য মসজিদের কেউ বা অন্য দলের কেউ বললেও। আর এর মানে সাহায্য করা, শুধু একমত হওয়া নয়। লাতানসুরুন্নাহ চায় হাত আর সময় দিয়ে পাশে দাঁড়ানো, দূর থেকে মাথা নাড়া নয়।"
           },
           {
             "en": "The third is the weight of saying yes. Before you acknowledge anything, a contract, a pledge to a community, the vows of a marriage, remember that iqrar was followed by bear witness, and that Allah counts Himself among the witnesses. 3:82 does not condemn those who never agreed. It condemns turning away after that, which is why a believer is slow to promise and slower still to walk away from a promise once made.",
-            "bn": "তৃতীয় আমল হ্যাঁ বলার ভার বোঝা। কোনো কিছু স্বীকার করার আগে, চুক্তি হোক, কোনো জামাতের কাছে অঙ্গীকার হোক বা বিয়ের প্রতিশ্রুতি, মনে রাখুন ইকরারের পরই এসেছিল সাক্ষী থাকো, আর আল্লাহ নিজেকে সাক্ষীদের একজন বলেছেন। ৩:৮২ আয়াত তাদের নিন্দা করে না, যারা কখনো রাজিই হয়নি। নিন্দা করে রাজি হওয়ার পর মুখ ফেরানোর। তাই মুমিন ওয়াদা করতে ধীর, আর ওয়াদা করে সরে যেতে আরও বেশি ধীর।"
+            "bn": "তৃতীয় আমল হ্যাঁ বলার ভার বোঝা। কোনো কিছু স্বীকার করার আগে, তা চুক্তি হোক, কোনো জামাতের কাছে অঙ্গীকার হোক বা বিয়ের প্রতিশ্রুতি, মনে রাখুন: ইকরারের ঠিক পরেই এসেছিল সাক্ষী থাকার হুকুম, আর আল্লাহ নিজেকে সাক্ষীদের একজন বলেছেন। যারা কখনো রাজিই হয়নি, ৩:৮২ আয়াত তাদের নিন্দা করে না। নিন্দা করে রাজি হওয়ার পর মুখ ফিরিয়ে নেওয়াকে। তাই মুমিন ভেবেচিন্তে ওয়াদা করেন, আর একবার ওয়াদা করলে তা থেকে সরে যেতে আরও বেশি দ্বিধা করেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Write Us Among the Witnesses",
-          "bn": "আমাদের সাক্ষীদের দলে লিখে নাও"
+          "bn": "আমাদের সাক্ষীদের দলে লিখে নিন"
         },
         "p": [
           {
             "en": "The Quran itself supplies the supplication, from the followers of a prophet who kept this covenant. When Isa (AS) asked who would be his supporters for Allah, 3:52 records the disciples answering that they were the supporters of Allah, and 3:53 continues their prayer: Our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses. Their word ansar is from the root of la-tansurunnah, and their closing request answers Allah's I am with you among the witnesses.",
-            "bn": "দোয়াটি কুরআনই দিয়ে দেয়, এমন এক নবীর অনুসারীদের মুখে, যিনি এই অঙ্গীকার রক্ষা করেছেন। ঈসা (আঃ) যখন জিজ্ঞেস করলেন আল্লাহর পথে কারা তাঁর সাহায্যকারী, ৩:৫২ আয়াত জানায় হাওয়ারিরা বলেছিলেন, আমরাই আল্লাহর সাহায্যকারী। ৩:৫৩ আয়াতে তাঁদের দোয়া: হে আমাদের রব, তুমি যা নাযিল করেছ তার ওপর আমরা ঈমান এনেছি, আর রাসূলের অনুসরণ করেছি, তাই আমাদের সাক্ষীদের দলে লিখে নাও। তাঁদের আনসার শব্দটি লাতানসুরুন্নাহর মূল থেকেই। আর তাঁদের শেষ চাওয়াটি জবাব দেয় আল্লাহর সেই কথার, আমিও তোমাদের সঙ্গে সাক্ষীদের একজন।"
+            "bn": "দোয়াটি কুরআনই দিয়ে দেয়, এমন এক নবীর অনুসারীদের মুখে, যিনি এই অঙ্গীকার রক্ষা করেছেন। ঈসা (আঃ) যখন জিজ্ঞেস করলেন আল্লাহর পথে কারা তাঁর সাহায্যকারী, ৩:৫২ আয়াত জানায় হাওয়ারিরা বলেছিলেন, আমরাই আল্লাহর সাহায্যকারী। ৩:৫৩ আয়াতে তাঁদের দোয়া: হে আমাদের রব, আপনি যা নাজিল করেছেন তার ওপর আমরা ঈমান এনেছি, আর রাসূলের অনুসরণ করেছি, তাই আমাদের সাক্ষীদের দলে লিখে নিন। তাঁদের আনসার শব্দটি লাতানসুরুন্নাহর মূল থেকেই। আর তাঁদের শেষ চাওয়াটি জবাব দেয় আল্লাহর সেই কথার, আমিও তোমাদের সঙ্গে সাক্ষীদের একজন।"
           },
           {
             "en": "Alongside it, a short supplication in the vocabulary of 3:81-82, offered as such and not as a transmitted wording: O Allah, I acknowledge Your covenant and take on its weight. Make me one who believes in Your messengers and supports what they brought, and do not let me turn away after I have acknowledged. Be my witness, and You suffice as a witness.",
-            "bn": "এর পাশাপাশি ৩:৮১-৮২ আয়াতের শব্দে সাজানো একটি ছোট দোয়া, এটি বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আমি তোমার অঙ্গীকার স্বীকার করছি, আর তার ভার কাঁধে নিচ্ছি। আমাকে এমন বানাও, যে তোমার রাসূলদের ওপর ঈমান রাখে আর তাঁরা যা এনেছেন তার পাশে দাঁড়ায়। স্বীকার করার পর আমাকে মুখ ফেরাতে দিয়ো না। তুমি আমার সাক্ষী থাকো, সাক্ষী হিসেবে তুমিই যথেষ্ট।"
+            "bn": "এর পাশাপাশি ৩:৮১-৮২ আয়াতের শব্দ দিয়ে সাজানো একটি ছোট দোয়া। এটি কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, আমি আপনার অঙ্গীকার স্বীকার করছি, আর তার ভার কাঁধে নিচ্ছি। আমাকে তাদের একজন বানান, যারা আপনার রাসূলদের ওপর ঈমান রাখে আর তাঁরা যা এনেছেন তার পাশে দাঁড়ায়। স্বীকার করার পর আমাকে মুখ ফিরিয়ে নিতে দেবেন না। আপনি আমার সাক্ষী থাকুন, সাক্ষী হিসেবে আপনিই যথেষ্ট।"
           }
         ]
       },
@@ -1857,7 +1857,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "If Allah is among the witnesses to what I have agreed to, what have I said yes to that I am now quietly walking away from? And when I say the names of the prophets, Musa, Isa, Ibrahim (AS), do I say them as a man speaks of brothers of his own Prophet ﷺ, or as a man speaks of strangers?",
-            "bn": "আমি যা মেনে নিয়েছি তার সাক্ষী যদি আল্লাহ হন, তবে কোন হ্যাঁ থেকে আমি এখন চুপচাপ সরে যাচ্ছি? আর যখন নবীদের নাম নিই, মূসা, ঈসা, ইবরাহীম (আঃ), তখন কি সেভাবে নিই যেভাবে কেউ নিজের নবী ﷺ-এর ভাইদের কথা বলে, নাকি যেভাবে অচেনা মানুষের কথা বলে?"
+            "bn": "আমি যা মেনে নিয়েছি তার সাক্ষী যদি আল্লাহ হন, তবে কোন কথায় হ্যাঁ বলে আমি এখন চুপচাপ সরে যাচ্ছি? আর যখন নবীদের নাম নিই, মূসা, ঈসা, ইবরাহীম (আঃ), তখন কি সেভাবে নিই যেভাবে কেউ নিজের নবী ﷺ-এর ভাইদের কথা বলে, নাকি যেভাবে অচেনা মানুষের কথা বলে?"
           }
         ]
       }
@@ -1873,11 +1873,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "These three verses follow directly on the covenant of the prophets in 3:81-82, where Allah bound every prophet to believe in and support the messenger who came confirming what was with them. 3:83 opens with a-fa-ghayra din Allah yabghun, and its fa ties it to that scene: so, after all this, is it other than the religion of Allah they desire? It adds that everything in the heavens and the earth has submitted to Him, willingly or by compulsion, and that to Him they will be returned.",
-            "bn": "এই তিনটি আয়াত সরাসরি আসে ৩:৮১-৮২ আয়াতে নবীদের অঙ্গীকারের পরে। সেখানে আল্লাহ প্রত্যেক নবীকে বেঁধে দিয়েছিলেন, তাঁদের কাছে যা আছে তার সত্যায়ন করতে যে রাসূল আসবেন, তাঁর ওপর ঈমান আনতে ও তাঁকে সাহায্য করতে। ৩:৮৩ আয়াত শুরু হয় আফাগাইরা দীনিল্লাহি ইয়াবগুন দিয়ে, আর এর ফা অক্ষরটি আয়াতকে ওই দৃশ্যের সঙ্গে জুড়ে দেয়: এত কিছুর পরেও কি তারা আল্লাহর দ্বীন ছাড়া অন্য কিছু চায়? আয়াত যোগ করে, আসমান আর জমিনে যা কিছু আছে সবই ইচ্ছায় বা অনিচ্ছায় তাঁর কাছে আত্মসমর্পণ করেছে, আর তাঁর কাছেই সবাই ফিরবে।"
+            "bn": "এই তিনটি আয়াত আসে ৩:৮১-৮২ আয়াতে নবীদের অঙ্গীকারের ঠিক পরে। সেখানে আল্লাহ প্রত্যেক নবীর কাছ থেকে অঙ্গীকার নিয়েছিলেন: তাঁদের কাছে যা আছে তার সত্যায়ন করতে যে রাসূল আসবেন, তাঁরা তাঁর ওপর ঈমান আনবেন আর তাঁকে সাহায্য করবেন। ৩:৮৩ আয়াত শুরু হয় আফাগাইরা দীনিল্লাহি ইয়াবগুন দিয়ে, আর এর ফা অক্ষরটি আয়াতকে ওই দৃশ্যের সঙ্গে জুড়ে দেয়: এত কিছুর পরেও কি তারা আল্লাহর দ্বীন ছাড়া অন্য কিছু চায়? আয়াত আরও বলে, আসমান আর জমিনে যা কিছু আছে সবই ইচ্ছায় বা অনিচ্ছায় তাঁর কাছে আত্মসমর্পণ করেছে, আর তাঁর কাছেই সবাই ফিরবে।"
           },
           {
             "en": "3:84 then gives the Prophet ﷺ the words of the believers' answer: we have believed in Allah and in what was revealed to us and to Ibrahim, Isma'il, Ishaq, Ya'qub and the Descendants, and in what was given to Musa, Isa and the prophets from their Lord, making no distinction between any of them, and to Him we are Muslims. Only after the question and the answer does 3:85 give its verdict. The next verse, 3:86, turns to those who disbelieve after believing, and 3:89 keeps the door open for those who repent and put right.",
-            "bn": "এরপর ৩:৮৪ আয়াত নবী ﷺ-কে মুমিনদের জবাবের ভাষা শিখিয়ে দেয়: আমরা ঈমান এনেছি আল্লাহর ওপর, আর যা নাযিল হয়েছে আমাদের ওপর, ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকুব ও তাঁদের বংশধরদের ওপর, আর মূসা, ঈসা ও নবীদের তাঁদের রবের পক্ষ থেকে যা দেওয়া হয়েছে তার ওপর। তাঁদের কারও মধ্যে আমরা পার্থক্য করি না, আর আমরা তাঁরই কাছে আত্মসমর্পিত। প্রশ্ন আর জবাবের পরেই কেবল ৩:৮৫ আয়াত রায় দেয়। পরের আয়াত ৩:৮৬ কথা বলে ঈমানের পর কুফরিতে ফিরে যাওয়াদের নিয়ে, আর ৩:৮৯ আয়াত খোলা রাখে তাদের জন্য দরজা, যারা তওবা করে নিজেদের শুধরে নেয়।"
+            "bn": "এরপর ৩:৮৪ আয়াত নবী ﷺ-কে মুমিনদের জবাবের ভাষা শিখিয়ে দেয়: আমরা ঈমান এনেছি আল্লাহর ওপর, আর যা নাজিল হয়েছে আমাদের ওপর, ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকুব ও তাঁদের বংশধরদের ওপর, আর মূসা, ঈসা ও নবীদের তাঁদের রবের পক্ষ থেকে যা দেওয়া হয়েছে তার ওপর। তাঁদের কারও মধ্যে আমরা পার্থক্য করি না, আর আমরা তাঁরই কাছে আত্মসমর্পিত। প্রশ্ন আর জবাব দুটোই আসার পর তবেই ৩:৮৫ আয়াত রায় দেয়। পরের আয়াত ৩:৮৬ কথা বলে তাদের নিয়ে, যারা ঈমান আনার পর কুফরি করে। আর যারা তওবা করে নিজেদের শুধরে নেয়, ৩:৮৯ আয়াত তাদের জন্য দরজা খোলা রাখে।"
           }
         ]
       },
@@ -1889,11 +1889,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two verbs frame the passage from the same root, b-gh-y, to seek or desire. 3:83 asks what they yabghun, desire, and 3:85 speaks of whoever yabtaghi, seeks, a religion other than Islam. The passage treats religion as something a person goes looking for, and it asks what the search is really aimed at. Between those two verbs stand everything in creation that has already submitted and a community declaring that it believes in every prophet.",
-            "bn": "অংশটির দুই প্রান্তে একই মূলের দুটি ক্রিয়া, বা-গাইন-ইয়া, অর্থ খোঁজা বা চাওয়া। ৩:৮৩ আয়াত জিজ্ঞেস করে তারা কী ইয়াবগুন, অর্থাৎ চায়। আর ৩:৮৫ আয়াত বলে তার কথা, যে ইসলাম ছাড়া অন্য দ্বীন ইয়াবতাগি, অর্থাৎ খোঁজে। অংশটি দ্বীনকে দেখে এমন জিনিস হিসেবে, যার খোঁজে মানুষ বের হয়। আর প্রশ্ন করে, সেই খোঁজ আসলে কীসের দিকে। দুই ক্রিয়ার মাঝখানে দাঁড়িয়ে আছে আত্মসমর্পিত গোটা সৃষ্টি, আর একটি জামাত, যারা ঘোষণা দিচ্ছে সব নবীর ওপর ঈমানের।"
+            "bn": "অংশটির দুই প্রান্তে একই মূলের দুটি ক্রিয়া, বা-গাইন-ইয়া, অর্থ খোঁজা বা চাওয়া। ৩:৮৩ আয়াত জিজ্ঞেস করে তারা কী ইয়াবগুন, অর্থাৎ চায়। আর ৩:৮৫ আয়াত বলে তার কথা, যে ইসলাম ছাড়া অন্য দ্বীন ইয়াবতাগি, অর্থাৎ খোঁজে। অংশটি দ্বীনকে দেখে এমন জিনিস হিসেবে, যার খোঁজে মানুষ বের হয়। আর প্রশ্ন করে, সেই খোঁজ আসলে কীসের দিকে। দুই ক্রিয়ার মাঝখানে আছে আত্মসমর্পিত গোটা সৃষ্টি, আর একদল মানুষ, যারা ঘোষণা দিচ্ছে: আমরা সব নবীর ওপর ঈমান রাখি।"
           },
           {
             "en": "A second root runs through all three verses, s-l-m. In 3:83 everything in the heavens and the earth aslama, has submitted, to Him, tau'an wa karhan, willingly or by compulsion. In 3:84 the believers say nahnu lahu muslimun, to Him we are Muslims. In 3:85 the word is al-islam. Read in sequence, the Islam of 3:85 is not the submission creation gives willingly or by compulsion, which 3:83 describes; it is the willing submission 3:84 puts into the believers' mouths, the submission of those who believe in all the prophets.",
-            "bn": "তিনটি আয়াতজুড়ে চলে আরেকটি মূল, সিন-লাম-মিম। ৩:৮৩ আয়াতে আসমান-জমিনের সবকিছু তাঁর কাছে আসলামা, আত্মসমর্পণ করেছে, তাওআন ওয়া কারহান, ইচ্ছায় বা অনিচ্ছায়। ৩:৮৪ আয়াতে মুমিনরা বলে নাহনু লাহু মুসলিমুন, আমরা তাঁরই কাছে আত্মসমর্পিত। ৩:৮৫ আয়াতের শব্দ আল-ইসলাম। ক্রম ধরে পড়লে ৩:৮৫ আয়াতের ইসলাম গোটা সৃষ্টির সেই আত্মসমর্পণ নয়, যা ৩:৮৩ আয়াতের ভাষায় ইচ্ছায় বা অনিচ্ছায় ঘটে; এটি সেই খুশিমনের আত্মসমর্পণ, যা ৩:৮৪ আয়াত মুমিনদের মুখে তুলে দেয়, সব নবীর ওপর ঈমান আনা মানুষদের আত্মসমর্পণ।"
+            "bn": "তিনটি আয়াতজুড়ে চলে আরেকটি মূল, সিন-লাম-মিম। ৩:৮৩ আয়াতে আসমান-জমিনের সবকিছু তাঁর কাছে আসলামা, আত্মসমর্পণ করেছে, তাওআন ওয়া কারহান, ইচ্ছায় বা অনিচ্ছায়। ৩:৮৪ আয়াতে মুমিনরা বলে নাহনু লাহু মুসলিমুন, আমরা তাঁরই কাছে আত্মসমর্পিত। ৩:৮৫ আয়াতের শব্দ আল-ইসলাম। ক্রম ধরে পড়লে বোঝা যায়, ৩:৮৫ আয়াতের ইসলাম গোটা সৃষ্টির সেই আত্মসমর্পণ নয়, যা ৩:৮৩ আয়াতের ভাষায় ইচ্ছায় বা অনিচ্ছায় ঘটে। এ হলো খুশিমনের সেই আত্মসমর্পণ, যা ৩:৮৪ আয়াত মুমিনদের মুখে তুলে দেয়: সব নবীর ওপর ঈমান আনা মানুষদের আত্মসমর্পণ।"
           },
           {
             "en": "The verdict uses lan, the particle that negates the future with emphasis: fa-lan yuqbala minhu, it will never be accepted from him. The verse ends wa huwa fi al-akhirati min al-khasirin, and in the Hereafter he will be among the losers. Ar-Raghib explains khusr and khusran as a loss in one's capital. The image fits a verse about seeking: a person spends a whole life's capital on a search, and the loss is that what he brings back is not accepted.",
@@ -1913,11 +1913,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On 3:84 Ibn Kathir says the believers believe in every prophet Allah sent and every Book He revealed and disbelieve in none of them, and he glosses the Descendants as the tribes that came from the twelve sons of Ya'qub (AS). On 3:85 he explains other than Islam as other than what Allah has legislated, and he supports it with the hadith given below. In his reading, then, the verdict concerns the religion itself: whether a person follows what Allah has legislated or seeks another way.",
-            "bn": "৩:৮৪ আয়াতে ইবনে কাসীর বলেন, মুমিনরা আল্লাহর পাঠানো প্রত্যেক নবী আর নাযিল করা প্রত্যেক কিতাবের ওপর ঈমান রাখে, কোনোটিকেই অস্বীকার করে না। আসবাত বা বংশধরদের ব্যাখ্যায় তিনি বলেন, ইয়াকুব (আঃ)-এর বারো ছেলে থেকে আসা গোত্রগুলো। ৩:৮৫ আয়াতে ইসলাম ছাড়া অন্য কিছুর ব্যাখ্যা তিনি করেন, আল্লাহ যা বিধান করেছেন তার বাইরের কিছু। এর সমর্থনে তিনি নিচের হাদিসটি আনেন। তাঁর পাঠে তাই রায়টি দ্বীন নিয়েই: মানুষ আল্লাহর বিধান মেনে চলে, নাকি অন্য পথ খোঁজে।"
+            "bn": "৩:৮৪ আয়াতের ব্যাখ্যায় ইবনে কাসীর বলেন, মুমিনরা আল্লাহর পাঠানো প্রত্যেক নবী আর তাঁর নাজিল করা প্রত্যেক কিতাবের ওপর ঈমান রাখে, কোনোটিকেই অস্বীকার করে না। আসবাত বা বংশধরদের ব্যাখ্যায় তিনি বলেন, এরা ইয়াকুব (আঃ)-এর বারো ছেলে থেকে আসা গোত্রগুলো। ৩:৮৫ আয়াতে ইসলাম ছাড়া অন্য দ্বীনের অর্থ তিনি করেন: আল্লাহ যে বিধান দিয়েছেন, তার বাইরের কিছু। এর সমর্থনে তিনি নিচের হাদিসটি আনেন। তাঁর পাঠে তাই রায়টি দ্বীন নিয়েই: মানুষ আল্লাহর দেওয়া বিধান মেনে চলে, নাকি অন্য পথ খোঁজে।"
           },
           {
             "en": "At 2:62, which promises reward to those among the believers, Jews, Christians and Sabians who believed in Allah and the Last Day and did good, Ibn Kathir reports from Ali ibn Abi Talhah that Ibn Abbas (RA) said Allah revealed 3:85 after it. Ibn Kathir explains the statement: no way and no deed is accepted from anyone unless it agrees with the law of Muhammad ﷺ after Allah sent him; before that, everyone who followed the messenger of his own time was on guidance and salvation.",
-            "bn": "২:৬২ আয়াত প্রতিদানের ওয়াদা দেয় মুমিন, ইহুদি, খ্রিস্টান ও সাবিঈদের মধ্যে তাদের, যারা আল্লাহ ও শেষ দিবসে ঈমান এনেছে আর নেক আমল করেছে। সেখানে ইবনে কাসীর আলি ইবনে আবি তালহার সূত্রে ইবনে আব্বাস (রাঃ)-এর কথা আনেন, এর পরে আল্লাহ ৩:৮৫ আয়াত নাযিল করেন। ইবনে কাসীর কথাটির ব্যাখ্যা দেন এভাবে: আল্লাহ মুহাম্মাদ ﷺ-কে পাঠানোর পর কারও কোনো পথ বা আমল কবুল হবে না, যদি না তা তাঁর শরিয়তের সঙ্গে মেলে। তার আগে যে-ই নিজের যুগের রাসূলের অনুসরণ করেছে, সে ছিল হেদায়েত আর মুক্তির পথে।"
+            "bn": "২:৬২ আয়াতে মুমিন, ইহুদি, খ্রিস্টান ও সাবিঈদের মধ্যে যারা আল্লাহ ও শেষ দিবসে ঈমান এনেছে আর নেক আমল করেছে, তাদের প্রতিদানের ওয়াদা আছে। সেই আয়াতের আলোচনায় ইবনে কাসীর আলি ইবনে আবি তালহার সূত্রে ইবনে আব্বাস (রাঃ)-এর কথা আনেন: এর পরে আল্লাহ ৩:৮৫ আয়াত নাজিল করেন। ইবনে কাসীর কথাটির ব্যাখ্যা দেন এভাবে: আল্লাহ মুহাম্মাদ ﷺ-কে পাঠানোর পর কারও কোনো পথ বা আমল কবুল হবে না, যদি না তা তাঁর শরিয়তের সঙ্গে মেলে। তার আগে যে-ই নিজের যুগের রাসূলের অনুসরণ করেছে, সে ছিল হেদায়েত আর মুক্তির পথে।"
           }
         ]
       },
@@ -1933,7 +1933,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A second narration explains how 3:84 and 3:85 fit together. Al-Bukhari records from Abu Hurayrah (RA) that the Prophet ﷺ said the prophets are brothers of one father, their mothers are different and their religion is one. The religion every prophet brought was one submission; the laws given to each differed, as 5:48 says. That is why the believers can name Musa and Isa (AS) with honour in 3:84 and still hear, one verse later, that only Islam is accepted.",
-            "bn": "দ্বিতীয় একটি বর্ণনা বুঝিয়ে দেয়, ৩:৮৪ আর ৩:৮৫ আয়াত কীভাবে একসঙ্গে খাপ খায়। বুখারি আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: নবীরা এক পিতার সন্তান ভাই, তাঁদের মা ভিন্ন ভিন্ন, আর তাঁদের দ্বীন একটাই। প্রত্যেক নবী যে দ্বীন এনেছেন তা একই আত্মসমর্পণ। আলাদা ছিল প্রত্যেককে দেওয়া শরিয়ত, যেমন ৫:৪৮ আয়াত বলে। এ কারণেই মুমিনরা ৩:৮৪ আয়াতে মূসা ও ঈসা (আঃ)-এর নাম সম্মানের সঙ্গে নিতে পারে, আর এক আয়াত পরেই শুনতে পারে যে শুধু ইসলামই কবুল হয়।"
+            "bn": "দ্বিতীয় একটি বর্ণনা বুঝিয়ে দেয়, ৩:৮৪ আর ৩:৮৫ আয়াত কীভাবে একসঙ্গে মেলে। বুখারি আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: নবীরা এক পিতার সন্তান, পরস্পর ভাই; তাঁদের মা আলাদা, আর দ্বীন একটাই। সব নবী একই দ্বীন এনেছেন: আল্লাহর কাছে আত্মসমর্পণ। আলাদা ছিল প্রত্যেককে দেওয়া শরিয়ত, যেমন ৫:৪৮ আয়াত বলে। এ কারণেই মুমিনরা ৩:৮৪ আয়াতে মূসা ও ঈসা (আঃ)-এর নাম সম্মানের সঙ্গে নিতে পারে, আর এক আয়াত পরেই শুনতে পারে যে শুধু ইসলামই কবুল হয়।"
           }
         ]
       },
@@ -1965,7 +1965,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "3:85 speaks of seeking, so check what you seek. Take one act of worship you do every day and learn how the Prophet ﷺ did it, so that your prayer, your dhikr and your fasting match what was brought rather than what was merely inherited or invented. The hadith of Aisha (RA) is not a warning only for others. It is a reason to learn the Sunnah of the things you already do.",
-            "bn": "৩:৮৫ আয়াত খোঁজার কথা বলে, তাই দেখে নিন আপনি কী খুঁজছেন। প্রতিদিন করেন এমন একটি ইবাদত বেছে নিন, আর শিখুন নবী ﷺ সেটা কীভাবে করতেন। যাতে আপনার নামাজ, জিকির আর রোজা মেলে তাঁর আনা দ্বীনের সঙ্গে, শুধু বাপ-দাদার কাছ থেকে পাওয়া বা কারও বানানো রীতির সঙ্গে নয়। আয়েশা (রাঃ)-এর হাদিস শুধু অন্যদের জন্য সতর্কবাণী নয়। নিজে যা আগে থেকেই করছেন, তার সুন্নাহ শেখার কারণও এটাই।"
+            "bn": "৩:৮৫ আয়াত খোঁজার কথা বলে, তাই দেখে নিন আপনি কী খুঁজছেন। প্রতিদিন করেন এমন একটি ইবাদত বেছে নিন, আর শিখুন নবী ﷺ সেটা কীভাবে করতেন, যাতে আপনার নামাজ, জিকির আর রোজা মেলে তাঁর আনা দ্বীনের সঙ্গে, শুধু বাপ-দাদার কাছ থেকে পাওয়া বা কারও বানানো রীতির সঙ্গে নয়। আয়েশা (রাঃ)-এর হাদিস শুধু অন্যদের জন্য সতর্কবাণী নয়। নিজে যা আগে থেকেই করছেন, তার সুন্নাহ শেখার কারণও এটাই।"
           },
           {
             "en": "With neighbours and colleagues of other faiths, let 3:84 shape your speech as much as 3:85 shapes your belief. Speak of Musa and Isa (AS) with honour, because you believe in what was given to them. Quote 3:85 inside its passage, never as a slogan pulled out to wound. And leave the final reckoning of any individual where 3:83 puts it: to Him they will be returned, and 17:15 reminds us that He punishes no one before a messenger has come.",
@@ -1981,27 +1981,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran gives the supplication in the mouth of a prophet. At 12:101 Yusuf (AS), after the long road of his life has come to rest, addresses his Lord as Creator of the heavens and the earth and his Protector in this world and the Hereafter, and asks: cause me to die a Muslim and join me with the righteous. Our verse ends with the losers in the Hereafter; his prayer asks for the opposite end, from the root the passage has used three times.",
-            "bn": "দোয়াটি কুরআন দিয়েছে একজন নবীর মুখে। ১২:১০১ আয়াতে ইউসুফ (আঃ), জীবনের দীর্ঘ পথ পাড়ি দেওয়ার পর, তাঁর রবকে ডাকেন আসমান-জমিনের স্রষ্টা আর দুনিয়া ও আখিরাতে তাঁর অভিভাবক বলে। তারপর চান: আমাকে মুসলিম অবস্থায় মৃত্যু দাও, আর নেককারদের সঙ্গে মিলিয়ে দাও। আমাদের আয়াত শেষ হয় আখিরাতের ক্ষতিগ্রস্তদের কথায়। তাঁর দোয়া চায় ঠিক উল্টো পরিণতি, সেই মূলের শব্দেই, যা এই অংশ তিনবার ব্যবহার করেছে।"
+            "bn": "দোয়াটি কুরআন দিয়েছে একজন নবীর মুখে। ১২:১০১ আয়াতে ইউসুফ (আঃ) জীবনের দীর্ঘ পথ পাড়ি দেওয়ার পর রবকে ডাকেন আসমান-জমিনের স্রষ্টা আর দুনিয়া ও আখিরাতে নিজের অভিভাবক বলে। তারপর চান: আমাকে মুসলিম অবস্থায় মৃত্যু দিন, আর নেককারদের সঙ্গে মিলিয়ে দিন। আমাদের আয়াত শেষ হয় আখিরাতের ক্ষতিগ্রস্তদের কথায়। তাঁর দোয়া চায় ঠিক উল্টো পরিণতি, আর তা সেই মূলের শব্দেই, যা এই অংশে তিনবার এসেছে।"
           },
           {
             "en": "Alongside it, a short supplication in the vocabulary of 3:83-85, offered as such and not as a transmitted wording: O Allah, to You belongs the submission of all that is in the heavens and the earth. Make my submission willing, in heart and body. I believe in what You revealed to all Your prophets and I make no distinction between them. Accept from me what I bring, and do not make me among the losers in the Hereafter.",
-            "bn": "এর পাশাপাশি ৩:৮৩-৮৫ আয়াতের শব্দে সাজানো একটি ছোট দোয়া, এটি বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আসমান-জমিনের সবকিছুর আত্মসমর্পণ তোমারই জন্য। আমার আত্মসমর্পণকে খুশিমনের করে দাও, মন আর শরীর দুটো দিয়েই। তোমার সব নবীর ওপর তুমি যা নাযিল করেছ তাতে আমি ঈমান রাখি, তাঁদের মধ্যে পার্থক্য করি না। আমি যা নিয়ে আসি তা কবুল করো, আর আখিরাতে আমাকে ক্ষতিগ্রস্তদের একজন বানিয়ো না।"
+            "bn": "এর পাশাপাশি ৩:৮৩-৮৫ আয়াতের শব্দ দিয়ে সাজানো একটি ছোট দোয়া। এটি কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, আসমান-জমিনের সবকিছুর আত্মসমর্পণ আপনারই জন্য। আমার আত্মসমর্পণকে খুশিমনের করে দিন, মন আর শরীর দুটো দিয়েই। আপনার সব নবীর ওপর আপনি যা নাজিল করেছেন, তাতে আমি ঈমান রাখি, তাঁদের মধ্যে পার্থক্য করি না। আমি যা নিয়ে আসি তা কবুল করুন, আর আখিরাতে আমাকে ক্ষতিগ্রস্তদের একজন বানাবেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "Questions on the Search",
-          "bn": "খোঁজ নিয়ে কিছু প্রশ্ন"
+          "bn": "এই খোঁজ নিয়ে কিছু প্রশ্ন"
         },
         "p": [
           {
             "en": "When I say I am a Muslim, do I mean a name I was given or a submission I choose each day? Where does my life submit to Allah only because it has no choice, and what would it take to make that submission willing? Is there an act of worship I do out of habit whose source I have never checked against what the Prophet ﷺ brought?",
-            "bn": "যখন বলি আমি মুসলিম, তখন কি পাওয়া একটা নামের কথা বলি, নাকি প্রতিদিন বেছে নেওয়া এক আত্মসমর্পণের কথা? আমার জীবনের কোথায় আল্লাহর কাছে মাথা নোয়ানো শুধু উপায় নেই বলে, আর সেটাকে খুশিমনের করতে কী লাগবে? এমন কোনো ইবাদত কি করি অভ্যাসবশে, যার উৎস নবী ﷺ-এর আনা দ্বীনের সঙ্গে মিলিয়ে কখনো দেখিনি?"
+            "bn": "যখন বলি আমি মুসলিম, তখন কি শুধু পেয়ে যাওয়া একটা নাম বোঝাই, নাকি এমন আত্মসমর্পণ, যা প্রতিদিন নিজে বেছে নিই? আমার জীবনের কোন কোন জায়গায় আল্লাহর কাছে মাথা নোয়াই শুধু উপায় নেই বলে, আর সেটাকে খুশিমনের করতে কী লাগবে? এমন কোনো ইবাদত কি করি অভ্যাসবশে, যার উৎস নবী ﷺ-এর আনা দ্বীনের সঙ্গে মিলিয়ে কখনো দেখিনি?"
           },
           {
             "en": "Do I speak of the prophets of the Jews and the Christians as prophets I believe in, or as figures who belong to someone else? If my life's capital were counted on the Day I return to Him, what would I have spent it seeking, and would I be glad to have it accepted as it is?",
-            "bn": "ইহুদি আর খ্রিস্টানদের নবীদের কথা কি আমি বলি এমন নবী হিসেবে, যাঁদের ওপর আমার ঈমান আছে, নাকি অন্য কারও মানুষ হিসেবে? যেদিন তাঁর কাছে ফিরব, সেদিন যদি আমার জীবনের পুঁজির হিসাব হয়, দেখা যাবে আমি তা কী খুঁজতে খরচ করেছি? আর যেমন আছে তেমনভাবে কবুল হলে কি আমি খুশি হব?"
+            "bn": "ইহুদি আর খ্রিস্টানদের নবীদের কথা কি আমি বলি এমন নবী হিসেবে, যাঁদের ওপর আমার ঈমান আছে, নাকি এমনভাবে, যেন তাঁরা অন্যদের লোক? যেদিন তাঁর কাছে ফিরব, সেদিন যদি আমার জীবনের পুঁজির হিসাব হয়, দেখা যাবে আমি তা খরচ করেছি কীসের খোঁজে? আর যেমন আছে তেমনই যদি তা কবুল হয়, তাতে কি আমি খুশি হব?"
           }
         ]
       }
@@ -2017,11 +2017,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lan tanalu al-birra hatta tunfiqu mimma tuhibbun. Lan is the strongest negation Arabic has for the future, so the verse does not say it is difficult to reach birr without this; it says it will not happen. Birr is the broad word for goodness that the Quran uses for the whole of righteousness, and it is the same root used for good treatment of parents. The verse then attaches a single condition to it.",
-            "bn": "'লান তানালুল বিররা হাত্তা তুনফিকূ মিম্মা তুহিব্বূন'। 'লান' হলো ভবিষ্যতের জন্য আরবির সবচেয়ে জোরালো নেতিবাচক শব্দ, তাই আয়াতটি বলছে না যে এটি ছাড়া বিরর-এ পৌঁছানো কঠিন; বলছে, তা ঘটবেই না। 'বিরর' হলো কল্যাণের সেই ব্যাপক শব্দ যা কুরআন গোটা পুণ্যের অর্থে ব্যবহার করে, আর পিতামাতার সাথে সদাচরণের জন্যও একই ধাতু ব্যবহৃত হয়। এরপর আয়াতটি তার সাথে একটিমাত্র শর্ত জুড়ে দেয়।"
+            "bn": "লান তানালুল বিররা হাত্তা তুনফিকূ মিম্মা তুহিব্বূন। ভবিষ্যৎ নিয়ে না বলার জন্য আরবিতে লান-এর চেয়ে জোরালো শব্দ নেই। তাই আয়াতটি বলছে না যে এটা ছাড়া বিরর-এ পৌঁছানো কঠিন; বলছে, পৌঁছানো যাবেই না। বিরর হলো কল্যাণের ব্যাপক শব্দ, কুরআন যা দিয়ে গোটা নেকির কথা বলে। বাবা-মায়ের সঙ্গে সদাচরণের কথাও আসে এই একই মূল থেকে। এরপর আয়াতটি এর সঙ্গে একটিমাত্র শর্ত জুড়ে দেয়।"
           },
           {
             "en": "The condition is precise: mimma tuhibbun, from what you love. Min here is partitive, meaning a portion of it, not the whole of it. So the demand is not that a person strip himself of everything he values; it is that the category he gives from must be the category he loves. 2:177 makes the same requirement part of its definition of birr, listing those who give wealth in spite of love for it, and 76:8 says the same of feeding others.",
-            "bn": "শর্তটি সুনির্দিষ্ট: 'মিম্মা তুহিব্বূন' — তোমরা যা ভালোবাসো তা থেকে। এখানে 'মিন' অংশবাচক, অর্থাৎ তার একটি অংশ, পুরোটা নয়। তাই দাবিটি এই নয় যে মানুষ তার মূল্যবান সবকিছু থেকে নিজেকে খালি করে ফেলবে; দাবি হলো, সে যে শ্রেণির জিনিস থেকে দেবে সেটি হতে হবে তার প্রিয় শ্রেণিরই। 2:177 আয়াত বিরর-এর সংজ্ঞার মধ্যেই একই শর্ত রাখে, যেখানে তাদের কথা আছে যারা সম্পদের প্রতি ভালোবাসা সত্ত্বেও তা দান করে; আর 76:8 আয়াত খাদ্য খাওয়ানোর ক্ষেত্রেও একই কথা বলে।"
+            "bn": "শর্তটি একেবারে নির্দিষ্ট: মিম্মা তুহিব্বূন, তোমরা যা ভালোবাসো তা থেকে। এখানে মিন অংশবাচক, অর্থাৎ তার একটা অংশ, পুরোটা নয়। তাই দাবি এই নয় যে মানুষ তার কাছে দামি সবকিছু বিলিয়ে নিজেকে নিঃস্ব করে ফেলবে। দাবি হলো, যে ধরনের জিনিস থেকে সে দেবে, তা হতে হবে তার প্রিয় ধরনেরই। ২:১৭৭ আয়াত বিরর-এর সংজ্ঞার মধ্যেই এই শর্ত রেখেছে: সেখানে তাদের কথা আছে, যারা সম্পদের প্রতি ভালোবাসা থাকা সত্ত্বেও তা দান করে। আর ৭৬:৮ আয়াত খাবার খাওয়ানোর ব্যাপারেও একই কথা বলে।"
           }
         ]
       },
@@ -2033,7 +2033,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse immediately before it, 3:91, describes those who die in disbelief and says that the earth filled with gold would not be accepted from one of them as a ransom. Then comes this verse, telling believers that they will not reach birr until they spend from what they love. An entire planet of gold buys nothing in one line; a beloved thing given away buys everything in the next. In the standard division of the Quran, the third juz ends here.",
-            "bn": "ঠিক আগের আয়াত 3:91 তাদের বর্ণনা দেয় যারা কুফরির ওপর মারা যায়, আর বলে যে তাদের কারও কাছ থেকে পৃথিবীভরা স্বর্ণও মুক্তিপণ হিসেবে গ্রহণ করা হবে না। তারপর আসে এই আয়াত, যা মুমিনদের বলে যে তারা প্রিয় জিনিস থেকে ব্যয় না করা পর্যন্ত বিরর-এ পৌঁছাবে না। এক লাইনে গোটা এক গ্রহভরা স্বর্ণ কিছুই কেনে না; পরের লাইনে একটি প্রিয় জিনিস দিয়ে দেওয়া সবকিছু কিনে ফেলে। কুরআনের প্রচলিত বিভাজনে তৃতীয় পারা এখানেই শেষ হয়।"
+            "bn": "ঠিক আগের আয়াত ৩:৯১ বলে তাদের কথা, যারা কুফরি অবস্থায় মারা যায়: তাদের কারও কাছ থেকে পৃথিবীভরা সোনাও মুক্তিপণ হিসেবে কবুল হবে না। তারপর আসে এই আয়াত, যা মুমিনদের বলে, প্রিয় জিনিস থেকে খরচ না করা পর্যন্ত তারা বিরর-এ পৌঁছাতে পারবে না। এক লাইনে গোটা পৃথিবীভরা সোনা দিয়েও কিছু কেনা যায় না; পরের লাইনেই একটা প্রিয় জিনিস দিয়ে দিলে সবকিছু পাওয়া যায়। কুরআনের প্রচলিত ভাগে তৃতীয় পারা এখানেই শেষ।"
           }
         ]
       },
@@ -2045,11 +2045,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari and Muslim both relate from Anas (RA) that Abu Talha (RA) was the wealthiest of the Ansar of Madinah in palm groves, and that the property dearest to him was Bayruha, which faced the mosque; the Prophet ﷺ used to enter it and drink from its good water. When this verse came down, Abu Talha came to the Prophet ﷺ and said that the dearest of his wealth to him was Bayruha, that it was charity for Allah, and that he hoped for its righteousness and its store with Allah.",
-            "bn": "ইমাম বুখারী ও ইমাম মুসলিম উভয়েই আনাস (রাঃ) থেকে বর্ণনা করেন যে খেজুরবাগানের দিক থেকে আবু তালহা (রাঃ) ছিলেন মদীনার আনসারদের মধ্যে সবচেয়ে ধনী, আর তাঁর কাছে সবচেয়ে প্রিয় সম্পত্তি ছিল বাইরুহা, যা মসজিদের মুখোমুখি ছিল; নবী ﷺ সেখানে ঢুকতেন এবং তার সুস্বাদু পানি পান করতেন। এই আয়াত নাযিল হলে আবু তালহা নবী ﷺ-এর কাছে এসে বললেন, তাঁর সম্পদের মধ্যে সবচেয়ে প্রিয় বাইরুহা, তা আল্লাহর জন্য সদকা, আর তিনি আল্লাহর কাছে তার পুণ্য ও সঞ্চয় প্রত্যাশা করেন।"
+            "bn": "ইমাম বুখারী ও ইমাম মুসলিম দুজনেই আনাস (রাঃ) থেকে বর্ণনা করেন: মদীনার আনসারদের মধ্যে খেজুরবাগানের দিক থেকে আবু তালহা (রাঃ) ছিলেন সবচেয়ে ধনী। তাঁর সবচেয়ে প্রিয় সম্পত্তি ছিল বাইরুহা, মসজিদের ঠিক মুখোমুখি। নবী ﷺ সেখানে যেতেন আর তার মিষ্টি পানি পান করতেন। এই আয়াত নাজিল হলে আবু তালহা নবী ﷺ-এর কাছে এসে বললেন, আমার সম্পদের মধ্যে সবচেয়ে প্রিয় বাইরুহা। এটা আল্লাহর জন্য সদকা। আমি এর কল্যাণ আশা করি, আর আশা করি আল্লাহর কাছে এটা আমার জন্য জমা থাকবে।"
           },
           {
             "en": "He asked the Prophet ﷺ to place it wherever Allah showed him. The Prophet ﷺ said that this was profitable wealth, and directed him to give it to his nearest relatives; Abu Talha divided it among his relatives and his cousins. Two things in the narration are easy to miss. He gave the property he actually used and enjoyed, not a spare one — and the reward went straight back into his own family, which the Prophet ﷺ chose for him rather than leaving to sentiment.",
-            "bn": "তিনি নবী ﷺ-কে বললেন, আল্লাহ তাঁকে যেখানে দেখান সেখানেই যেন তা ব্যয় করেন। নবী ﷺ বললেন, এ তো লাভজনক সম্পদ; আর তিনি তাঁকে নির্দেশ দিলেন তা নিকটাত্মীয়দের দিয়ে দিতে; আবু তালহা তা তাঁর আত্মীয় ও চাচাতো ভাইদের মধ্যে ভাগ করে দিলেন। বর্ণনাটির দুটি জিনিস সহজেই চোখ এড়িয়ে যায়। তিনি সেই সম্পত্তিই দিলেন যা তিনি সত্যিই ব্যবহার করতেন ও উপভোগ করতেন, বাড়তি কোনোটি নয় — আর প্রতিদানটি সোজা তাঁর নিজের পরিবারেই ফিরে গেল, যা নবী ﷺ তাঁর জন্য বেছে দিলেন, আবেগের ওপর ছেড়ে দিলেন না।"
+            "bn": "তিনি নবী ﷺ-কে বললেন, আল্লাহ আপনাকে যেখানে দেখান, সেখানেই এটা কাজে লাগান। নবী ﷺ বললেন, এ তো লাভজনক সম্পদ। তারপর তাঁকে বললেন নিকটাত্মীয়দের দিয়ে দিতে। আবু তালহা তা নিজের আত্মীয় আর চাচাতো ভাইদের মধ্যে ভাগ করে দিলেন। বর্ণনাটির দুটি দিক সহজে চোখ এড়িয়ে যায়। তিনি দিলেন সেই সম্পত্তি, যা তিনি নিজে সত্যিই ব্যবহার করতেন, উপভোগ করতেন; বাড়তি পড়ে থাকা কোনোটা নয়। আর দানের সুফল সোজা গেল তাঁর নিজের পরিবারেই। এটা নবী ﷺ নিজে তাঁর জন্য বেছে দিয়েছিলেন, আবেগের হাতে ছেড়ে দেননি।"
           }
         ]
       },
@@ -2061,7 +2061,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Because min means a portion, the verse never asks anyone to empty his hands. 17:29 warns against the hand stretched wide open until its owner sits blamed and stripped, and 2:267 forbids the opposite error of picking out the defective to give away, something you would not accept yourself except with your eyes shut. Read together, the three verses set a floor and a ceiling: give from the good, give from what you love, and do not ruin yourself doing it.",
-            "bn": "যেহেতু 'মিন' মানে একটি অংশ, আয়াতটি কাউকে কখনোই হাত খালি করে ফেলতে বলে না। 17:29 আয়াত সতর্ক করে সেই হাত সম্পর্কে যা এতটাই মেলে ধরা হয় যে তার মালিক তিরস্কৃত ও নিঃস্ব হয়ে বসে থাকে; আর 2:267 আয়াত নিষেধ করে উল্টো ভুলটি — দান করার জন্য নিকৃষ্ট জিনিস বেছে নেওয়া, যা আপনি নিজেই চোখ বন্ধ না করে গ্রহণ করতেন না। তিনটি আয়াত একসাথে পড়লে একটি মেঝে ও একটি ছাদ তৈরি হয়: উত্তম থেকে দাও, প্রিয় থেকে দাও, আর তা করতে গিয়ে নিজেকে ধ্বংস কোরো না।"
+            "bn": "মিন মানে যেহেতু একটা অংশ, আয়াতটি কাউকে কখনো হাত খালি করে ফেলতে বলে না। ১৭:২৯ আয়াত সতর্ক করে হাত এতটা খুলে দেওয়া থেকে, যাতে শেষে মানুষ নিন্দিত আর নিঃস্ব হয়ে বসে থাকে। আর ২:২৬৭ আয়াত নিষেধ করে উল্টো ভুলটা: দান করার জন্য খারাপ জিনিস বেছে নেওয়া, যা আপনাকে দেওয়া হলে আপনি নিজেও চোখ বুজে ছাড়া নিতেন না। তিনটি আয়াত একসঙ্গে পড়লে একটা নিচের সীমা আর একটা ওপরের সীমা পাওয়া যায়: ভালো জিনিস থেকে দিন, প্রিয় জিনিস থেকে দিন, আর দিতে গিয়ে নিজেকে শেষ করে ফেলবেন না।"
           }
         ]
       },
@@ -2073,7 +2073,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The closing clause covers whatever you spend of anything at all: indeed, Allah is Knowing of it. That is not a decorative ending. Two people can hand over the same sum, one from a surplus he will not miss and one from something he had to talk himself into letting go, and no ledger on earth can tell the two apart. This clause says the difference is registered. It is also the only reassurance the giver needs, since 2:264 has already ruled out reminding anyone of what you gave.",
-            "bn": "সমাপ্তি বাক্যটি আপনি যা-ই ব্যয় করুন তার সবকিছুকে ঢেকে নেয়: নিশ্চয়ই আল্লাহ সে বিষয়ে অবগত। এটি নিছক অলংকার নয়। দুজন মানুষ একই পরিমাণ অর্থ তুলে দিতে পারে — একজন এমন উদ্বৃত্ত থেকে যার অভাব সে টেরই পাবে না, আর একজন এমন কিছু থেকে যা ছাড়তে নিজেকে বোঝাতে হয়েছে — আর পৃথিবীর কোনো হিসাবের খাতা দুটিকে আলাদা করতে পারবে না। এই বাক্যটি বলছে, পার্থক্যটি লিপিবদ্ধ হচ্ছে। দাতার জন্য এটিই একমাত্র প্রয়োজনীয় আশ্বাস, কারণ 2:264 আয়াত আগেই দানের খোঁটা দেওয়াকে নাকচ করে দিয়েছে।"
+            "bn": "আয়াতের শেষ বাক্যটি আপনার যেকোনো খরচকে ঘিরে রাখে, তা যা-ই হোক: নিশ্চয়ই আল্লাহ সে বিষয়ে ভালোভাবে জানেন। এটা নিছক সুন্দর করে শেষ করা নয়। দুজন মানুষ একই পরিমাণ টাকা দিতে পারে। একজন দেয় বাড়তি টাকা থেকে, যার অভাব সে টেরই পাবে না। আরেকজন দেয় এমন কিছু থেকে, যা ছাড়তে নিজের মনকে বোঝাতে হয়েছে। দুনিয়ার কোনো হিসাবের খাতা এই দুজনকে আলাদা করতে পারবে না। আয়াতের এই বাক্য বলছে, তফাতটা লেখা থাকছে। দাতার জন্য এটুকু আশ্বাসই যথেষ্ট, কারণ ২:২৬৪ আয়াত আগেই কাউকে দানের খোঁটা দেওয়ার পথ বন্ধ করে দিয়েছে।"
           }
         ]
       },
@@ -2085,7 +2085,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The question the verse asks is answerable in a minute. Not what can you afford, but what would you rather not give: the good hours of a weekend, the item you keep for guests, the savings marked for a plan you are attached to. Abu Talha's answer was a garden he drank from. The verse does not tell anyone which one it is, because each person already knows, and knowing is what makes the giving count.",
-            "bn": "আয়াতটি যে প্রশ্ন করে তার উত্তর এক মিনিটেই দেওয়া যায়। প্রশ্নটি এই নয় যে আপনি কতটা দিতে সক্ষম, বরং এই যে কোনটি দিতে আপনার সবচেয়ে বেশি আপত্তি: ছুটির দিনের সবচেয়ে ভালো ঘণ্টাগুলো, অতিথিদের জন্য তুলে রাখা জিনিসটি, কোনো প্রিয় পরিকল্পনার জন্য সরিয়ে রাখা সঞ্চয়। আবু তালহার উত্তর ছিল সেই বাগান যার পানি তিনি পান করতেন। আয়াতটি কাউকে বলে দেয় না কোনটি তার — কারণ প্রত্যেকেই তা আগে থেকেই জানে, আর এই জানাটিই দানকে গণনায় তোলে।"
+            "bn": "আয়াতটি যে প্রশ্ন তোলে, তার উত্তর এক মিনিটেই দেওয়া যায়। প্রশ্নটা এই নয় যে আপনি কতটা দিতে পারেন, বরং কোনটা দিতে আপনার মন চায় না: ছুটির দিনের সবচেয়ে ভালো সময়টুকু, মেহমানদের জন্য তুলে রাখা জিনিসটা, মনের মতো কোনো পরিকল্পনার জন্য জমানো টাকা। আবু তালহার উত্তর ছিল সেই বাগান, যার পানি তিনি নিজে পান করতেন। আয়াতটি কাউকে বলে দেয় না সেটা কোনটা, কারণ প্রত্যেকে আগে থেকেই জানে। আর এই জানা থেকেই দানটা আসল দান হয়ে ওঠে।"
           }
         ]
       }
@@ -2101,11 +2101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "O you who believe, fear Allah as He deserves to be feared — haqqa tuqatihi. The early authorities gloss the phrase: that He be obeyed and not disobeyed, remembered and not forgotten, thanked and not denied. The standard is deliberately absolute; it names what Allah deserves rather than what we manage. And it addresses believers, because taqwa is not the entry requirement of faith but its lifelong work.",
-            "bn": "হে ঈমানদারগণ, আল্লাহকে ভয় করো যেমন ভয় করা তাঁর প্রাপ্য — হাক্কা তুকাতিহি। প্রাথমিক যুগের ইমামগণ বাক্যটির ব্যাখ্যা দেন: তাঁর আনুগত্য করা হবে, অবাধ্যতা নয়; তাঁকে স্মরণ করা হবে, ভোলা নয়; তাঁর শোকর করা হবে, অস্বীকার নয়। মানদণ্ডটি ইচ্ছাকৃতভাবেই চূড়ান্ত; এটি নাম নেয় আল্লাহর প্রাপ্যের, আমাদের সাধ্যের নয়। আর সম্বোধন মুমিনদের, কারণ তাকওয়া ঈমানে প্রবেশের শর্ত নয় — ঈমানের আজীবনের কাজ।"
+            "bn": "হে ঈমানদারগণ, আল্লাহকে ভয় করো, যেমন ভয় করা তাঁর প্রাপ্য: হাক্কা তুকাতিহি। প্রথম যুগের আলিমরা কথাটির ব্যাখ্যা দেন এভাবে: তাঁর আনুগত্য করা হবে, নাফরমানি নয়; তাঁকে স্মরণ করা হবে, ভুলে যাওয়া নয়; তাঁর শোকর করা হবে, না-শোকরি নয়। মাপকাঠিটা ইচ্ছা করেই চূড়ান্ত: এখানে বলা হয়েছে আল্লাহর কী প্রাপ্য, আমরা কতটুকু পারি তা নয়। আর কথাটা বলা হয়েছে মুমিনদের, কারণ তাকওয়া ঈমানে ঢোকার শর্ত নয়; এটা ঈমানের সারা জীবনের কাজ।"
           },
           {
             "en": "The scholars discuss how this absolute standard sits with 64:16 — fear Allah as much as you are able. Some early authorities held that the later verse explains the first: Allah does not demand the impossible; He points the effort. What He deserves names the direction; what you can bear sets the pace. The believer keeps the full standard in view precisely so that his best effort keeps climbing toward it, never settling early.",
-            "bn": "এই চূড়ান্ত মানদণ্ড 64:16 আয়াতের সঙ্গে — সাধ্যমতো আল্লাহকে ভয় করো — কীভাবে মেলে, আলিমগণ তা আলোচনা করেছেন। কোনো কোনো প্রাথমিক ইমাম বলেছেন, পরের আয়াতটি প্রথমটির ব্যাখ্যা: আল্লাহ অসম্ভব দাবি করেন না; তিনি প্রচেষ্টার লক্ষ্য দেখিয়ে দেন। তাঁর প্রাপ্য নির্ধারণ করে দিক; আপনার সাধ্য নির্ধারণ করে গতি। মুমিন পূর্ণ মানদণ্ডটি চোখের সামনে রাখে ঠিক এ জন্যই — যেন তার সর্বোচ্চ চেষ্টা সেদিকে উঠতেই থাকে, আগে থেকে থেমে না যায়।"
+            "bn": "এই চূড়ান্ত মাপকাঠি ৬৪:১৬ আয়াতের সঙ্গে কীভাবে মেলে, আলিমরা তা নিয়ে আলোচনা করেছেন। সেখানে বলা হয়েছে: যতটা পারো আল্লাহকে ভয় করো। প্রথম যুগের কোনো কোনো আলিম বলেছেন, পরের আয়াতটি প্রথমটির ব্যাখ্যা। আল্লাহ অসম্ভব কিছু চান না; তিনি চেষ্টার লক্ষ্য দেখিয়ে দেন। তাঁর প্রাপ্য ঠিক করে দেয় কোন দিকে যেতে হবে, আর আপনার সাধ্য ঠিক করে কত দ্রুত। মুমিন পূর্ণ মাপকাঠিটা চোখের সামনে রাখেন ঠিক এ জন্যই, যাতে তাঁর সর্বোচ্চ চেষ্টা সেদিকে উঠতেই থাকে, আগেভাগে থেমে না যায়।"
           }
         ]
       },
@@ -2117,11 +2117,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "And do not die except as Muslims. No one chooses the hour of death, so the command cannot be about the moment itself; the commentators read it as a command about the whole life that leads there. Remain in the state you would be willing to die in. Whoever holds to Islam in every ordinary day has obeyed the verse, because death then finds him where the verse requires him to be.",
-            "bn": "আর মুসলিম না হয়ে মৃত্যুবরণ কোরো না। মৃত্যুর ক্ষণ কেউ বেছে নেয় না, তাই আদেশটি সেই মুহূর্তটি নিয়ে হতে পারে না; মুফাসসিরগণ একে পড়েন সেখানে পৌঁছানো গোটা জীবনের আদেশ হিসেবে। সেই অবস্থায় থাকো, যে অবস্থায় মরতে তুমি রাজি। যে প্রতিটি সাধারণ দিনে ইসলাম আঁকড়ে থাকে, সে আয়াতটি মান্য করেছে — কারণ মৃত্যু তখন তাকে সেখানেই পায়, আয়াত তাকে যেখানে থাকতে বলেছে।"
+            "bn": "আর মুসলিম না হয়ে মৃত্যুবরণ কোরো না। মৃত্যুর সময় কেউ বেছে নিতে পারে না, তাই হুকুমটা শুধু ওই মুহূর্তের জন্য হতে পারে না। মুফাসসিররা একে পড়েন সেখানে পৌঁছানোর আগের গোটা জীবনের হুকুম হিসেবে: যে অবস্থায় মরতে রাজি আছেন, সেই অবস্থাতেই থাকুন। যে প্রতিটি সাধারণ দিনে ইসলাম আঁকড়ে থাকে, সে আয়াতটি মেনেছে, কারণ মৃত্যু তখন তাকে সেখানেই পায়, যেখানে আয়াত তাকে থাকতে বলেছে।"
           },
           {
             "en": "The two commands of 3:102 belong together. Taqwa is the daily discipline; dying upon Islam is the destination it protects. A person who postpones obedience is gambling on a schedule he has never once controlled. The verse quietly removes the gamble: since the end may come at any time, the only guaranteed way to die as a Muslim is to live as one continuously.",
-            "bn": "3:102 আয়াতের দুই আদেশ একসঙ্গেই থাকে। তাকওয়া প্রতিদিনের অনুশীলন; ইসলামের ওপর মৃত্যু সেই গন্তব্য যা এই অনুশীলন রক্ষা করে। যে আনুগত্য পিছিয়ে দেয়, সে বাজি ধরছে এমন এক সময়সূচির ওপর যা সে একবারও নিয়ন্ত্রণ করেনি। আয়াতটি নীরবে বাজিটাই তুলে নেয়: শেষ যেহেতু যেকোনো সময় আসতে পারে, মুসলিম হয়ে মরার একমাত্র নিশ্চিত উপায় — নিরবচ্ছিন্নভাবে মুসলিম হয়ে বাঁচা।"
+            "bn": "৩:১০২ আয়াতের দুই হুকুম একসঙ্গে চলে। তাকওয়া প্রতিদিনের সাধনা; ইসলামের ওপর মৃত্যু সেই গন্তব্য, যা এই সাধনা আগলে রাখে। যে আনুগত্য পরে করবে বলে ফেলে রাখে, সে বাজি ধরছে এমন এক সময়সূচির ওপর, যার ওপর তার কোনোদিন হাত ছিল না। আয়াতটি চুপচাপ বাজিটাই সরিয়ে দেয়: শেষ সময় যেকোনো মুহূর্তে আসতে পারে, তাই মুসলিম হয়ে মরার একমাত্র নিশ্চিত পথ হলো সব সময় মুসলিম হয়ে বেঁচে থাকা।"
           }
         ]
       },
@@ -2133,11 +2133,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then 3:103: and hold firmly, all together, to the rope of Allah, and do not become divided. The commentators explain the rope as the covenant of Allah, His religion, and above all the Quran; the explanations differ in wording and meet in substance, since the Quran is where the covenant and the religion are held. A rope is what you grip when you cannot stand on your own — the image assumes a fall is possible.",
-            "bn": "তারপর 3:103: আর তোমরা সবাই মিলে আল্লাহর রজ্জু দৃঢ়ভাবে ধরো এবং বিভক্ত হয়ো না। মুফাসসিরগণ রজ্জুর ব্যাখ্যা করেন আল্লাহর অঙ্গীকার, তাঁর দ্বীন, আর সর্বোপরি কুরআন হিসেবে; ব্যাখ্যাগুলো শব্দে ভিন্ন হলেও মর্মে মিলে যায়, কারণ অঙ্গীকার ও দ্বীন ধরা থাকে কুরআনেই। রজ্জু সেটিই যা মানুষ আঁকড়ে ধরে যখন নিজের পায়ে দাঁড়াতে পারে না — চিত্রটিই ধরে নেয় যে পড়ে যাওয়া সম্ভব।"
+            "bn": "তারপর ৩:১০৩: আর তোমরা সবাই মিলে আল্লাহর রজ্জু শক্ত করে ধরো, আর বিভক্ত হয়ো না। মুফাসসিররা রজ্জুর ব্যাখ্যা করেন আল্লাহর অঙ্গীকার, তাঁর দ্বীন, আর সবার ওপরে কুরআন বলে। ব্যাখ্যাগুলোর শব্দ আলাদা, মর্ম এক, কারণ অঙ্গীকার আর দ্বীন দুটোই ধরা আছে কুরআনে। রজ্জু মানুষ তখনই আঁকড়ে ধরে, যখন নিজের পায়ে দাঁড়াতে পারে না। অর্থাৎ ছবিটা ধরেই নিচ্ছে, পড়ে যাওয়া সম্ভব।"
           },
           {
             "en": "The command has two parts that must not be separated: hold firmly, and do so all together, jami'an. It is possible to grip the religion in a way that shreds the community — every faction certain, every bond cut. The verse rules that out by grammar: the holding it commands is collective, one rope and many hands, and letting go of each other is treated as a way of letting go of it.",
-            "bn": "আদেশটির দুটি অংশ, যাদের আলাদা করা চলবে না: দৃঢ়ভাবে ধরো, এবং সবাই মিলে ধরো — জামীআন। দ্বীনকে এমনভাবে আঁকড়ে ধরাও সম্ভব যাতে জামাত ছিন্নভিন্ন হয়ে যায় — প্রতিটি দল নিশ্চিত, প্রতিটি বন্ধন কাটা। আয়াতটি ব্যাকরণ দিয়েই তা নাকচ করে: যে ধরা এটি আদেশ করে তা সম্মিলিত — এক রজ্জু, বহু হাত — আর পরস্পরকে ছেড়ে দেওয়াকে গণ্য করা হয় রজ্জুটিকেই ছেড়ে দেওয়ার এক রূপ হিসেবে।"
+            "bn": "হুকুমটার দুটো অংশ, যা আলাদা করা চলবে না: শক্ত করে ধরো, আর সবাই মিলে ধরো, জামীআন। দ্বীনকে এমনভাবেও আঁকড়ে ধরা যায়, যাতে মুসলিমরা টুকরো টুকরো হয়ে যায়। প্রতিটি দল নিজের ব্যাপারে নিশ্চিত, আর সব বন্ধন ছিন্ন। আয়াতটি ব্যাকরণ দিয়েই এ পথ বন্ধ করে দেয়। এখানে যে ধরার হুকুম, তা সম্মিলিত: রজ্জু একটাই, হাত অনেক। আর একে অন্যকে ছেড়ে দেওয়াও রজ্জুটাকেই ছেড়ে দেওয়ার একটা রূপ।"
           }
         ]
       },
@@ -2149,11 +2149,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the reminder: remember Allah's favour upon you, when you were enemies and He joined your hearts, and you became, by His favour, brothers. The first hearers were the Aws and the Khazraj of Madinah, tribes with generations of raids and a devastating war behind them; the books of sira relate how easily old verses of boasting could stir the old rage even after Islam. The Quran calls what replaced that rage a favour — ni'mah — not an achievement.",
-            "bn": "তারপর সেই স্মরণ: তোমাদের ওপর আল্লাহর অনুগ্রহ মনে করো — তোমরা ছিলে পরস্পরের শত্রু, তিনি তোমাদের হৃদয়গুলো জুড়ে দিলেন, আর তাঁর অনুগ্রহে তোমরা ভাই হয়ে গেলে। প্রথম শ্রোতারা ছিল মদীনার আউস ও খাযরাজ — প্রজন্মের পর প্রজন্মের হানাহানি আর এক বিধ্বংসী যুদ্ধ যাদের পেছনে; সীরাতের কিতাবসমূহ বর্ণনা করে, ইসলামের পরেও গর্বের পুরোনো কবিতা কত সহজে পুরোনো ক্রোধ জাগিয়ে তুলতে পারত। সেই ক্রোধের জায়গায় যা এলো, কুরআন তাকে বলে অনুগ্রহ — নিয়ামত — কোনো অর্জন নয়।"
+            "bn": "তারপর মনে করিয়ে দেওয়া: তোমাদের ওপর আল্লাহর অনুগ্রহ স্মরণ করো, যখন তোমরা ছিলে পরস্পরের শত্রু, তারপর তিনি তোমাদের অন্তর জুড়ে দিলেন, আর তাঁর অনুগ্রহে তোমরা ভাই ভাই হয়ে গেলে। প্রথম শ্রোতা ছিল মদীনার আউস ও খাযরাজ গোত্র। প্রজন্মের পর প্রজন্ম ধরে হানাহানি আর এক ভয়াবহ যুদ্ধ ছিল তাদের পেছনে। সীরাতের কিতাবে আছে, ইসলাম আসার পরেও গর্বের পুরোনো কবিতা কত সহজে পুরোনো আক্রোশ জাগিয়ে তুলতে পারত। সেই আক্রোশের জায়গায় যা এল, কুরআন তাকে বলে অনুগ্রহ, নিয়ামত; কোনো অর্জন নয়।"
           },
           {
             "en": "And He saved you when you were on the edge of a pit of the Fire. The image is exact: not in the pit, but on its rim, one step from falling. 8:63 adds that if you had spent all that is in the earth, you could not have joined their hearts, but Allah joined them. Reconciliation on that scale is presented as something only He does — which is why unity, once given, must be guarded like the gift it is.",
-            "bn": "আর তিনি তোমাদের বাঁচালেন যখন তোমরা ছিলে আগুনের গর্তের কিনারায়। চিত্রটি নিখুঁত: গর্তের ভেতরে নয়, তার কিনারায় — পতন থেকে এক পা দূরে। 8:63 যোগ করে: পৃথিবীর সবকিছু ব্যয় করলেও তুমি তাদের হৃদয়গুলো জুড়তে পারতে না, কিন্তু আল্লাহ তাদের জুড়ে দিয়েছেন। এই মাপের মিলনকে উপস্থাপন করা হয়েছে এমন কিছু হিসেবে যা কেবল তিনিই করেন — সে জন্যই ঐক্য, একবার দেওয়া হলে, রক্ষা করতে হয় ঠিক যেমন উপহার রক্ষা করা হয়।"
+            "bn": "আর তিনি তোমাদের বাঁচিয়েছেন, যখন তোমরা ছিলে আগুনের গর্তের কিনারায়। ছবিটা একদম নিখুঁত: গর্তের ভেতরে নয়, কিনারায়, পড়ে যাওয়া থেকে এক পা দূরে। ৮:৬৩ আয়াত যোগ করে: পৃথিবীর সবকিছু খরচ করলেও তুমি তাদের অন্তর জুড়তে পারতে না, কিন্তু আল্লাহ জুড়ে দিয়েছেন। কুরআন বলছে, এত বড় মিলন কেবল তিনিই ঘটাতে পারেন। তাই ঐক্য একবার পেলে তা আগলে রাখতে হয় উপহারের মতো, কারণ এটা উপহারই।"
           }
         ]
       },
@@ -2165,11 +2165,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two verses later, 3:105 turns the favour into a warning: do not be like those who became divided and differed after the clear proofs had come to them. Division, in this passage, is not a management problem; it is a religious failure with a history — communities before us split after knowledge, not before it. Knowledge without the rope becomes a weapon factions use on each other.",
-            "bn": "দুই আয়াত পরে 3:105 অনুগ্রহটিকে সতর্কবাণীতে ফেরায়: তাদের মতো হয়ো না, যারা স্পষ্ট প্রমাণ আসার পর বিভক্ত হয়েছে ও মতভেদ করেছে। এই অংশে বিভক্তি কোনো ব্যবস্থাপনার সমস্যা নয়; এটি এক দ্বীনি ব্যর্থতা, যার ইতিহাস আছে — আমাদের আগের জাতিগুলো ভাগ হয়েছে জ্ঞান আসার পরে, আগে নয়। রজ্জুবিহীন জ্ঞান হয়ে ওঠে সেই অস্ত্র, যা দলগুলো পরস্পরের ওপর চালায়।"
+            "bn": "দুই আয়াত পরে ৩:১০৫ অনুগ্রহের কথাকে সতর্কবাণীতে বদলে দেয়: তাদের মতো হয়ো না, যারা স্পষ্ট প্রমাণ আসার পরও বিভক্ত হয়েছে আর মতভেদ করেছে। এই অংশে বিভক্তি কোনো ব্যবস্থাপনার সমস্যা নয়। এটা দ্বীনের ব্যর্থতা, আর এর ইতিহাস আছে: আমাদের আগের জাতিগুলো ভাগ হয়েছে জ্ঞান আসার পরে, আগে নয়। রজ্জু ছাড়া জ্ঞান হয়ে ওঠে অস্ত্র, যা দলগুলো একে অন্যের বিরুদ্ধে চালায়।"
           },
           {
             "en": "This is why 49:10 gives believers their standing rule — the believers are but brothers, so make peace between your brothers. The Prophet ﷺ himself included 3:102 in the sermon of need he taught his companions, recited to this day at marriages. The unity these verses command is tested not at gatherings but in disagreements, when holding the rope together means staying in the room with a brother who is wrong.",
-            "bn": "এ জন্যই 49:10 মুমিনদের স্থায়ী নিয়মটি দেয় — মুমিনরা তো ভাই ভাই, সুতরাং তোমাদের ভাইদের মধ্যে মীমাংসা করে দাও। নবী ﷺ নিজে 3:102 আয়াতটিকে অন্তর্ভুক্ত করেছেন সাহাবীদের শেখানো প্রয়োজনের খুতবায়, যা আজও বিবাহে পঠিত হয়। এই আয়াতগুলোর আদেশ করা ঐক্যের পরীক্ষা হয় সমাবেশে নয়, মতবিরোধে — যখন একসঙ্গে রজ্জু ধরে থাকা মানে ভুল করা ভাইটির সঙ্গে একই ঘরে থেকে যাওয়া।"
+            "bn": "এ জন্যই ৪৯:১০ আয়াত মুমিনদের স্থায়ী নিয়ম বলে দেয়: মুমিনরা তো পরস্পর ভাই ভাই, তাই তোমাদের ভাইদের মধ্যে মীমাংসা করে দাও। নবী ﷺ নিজে সাহাবীদের যে খুতবাতুল হাজাহ শিখিয়েছিলেন, তাতে ৩:১০২ আয়াত রেখেছেন। আজও বিয়েতে এই খুতবা পড়া হয়। এই আয়াতগুলো যে ঐক্যের হুকুম দেয়, তার পরীক্ষা হয় সমাবেশে নয়, মতবিরোধের সময়। তখন একসঙ্গে রজ্জু ধরে থাকার মানে, ভুল করছে এমন ভাইয়ের সঙ্গেও একই ঘরে থেকে যাওয়া।"
           }
         ]
       },
