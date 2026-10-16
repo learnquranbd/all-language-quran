@@ -5465,55 +5465,55 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The clause that follows is the one people carry home with them: preserving them both does not weary Him. The verb carries the sense of being burdened by a heavy task. The verse then closes with al-'Aliyy al-'Azim, the Most High, the Most Great. Notice the order of the whole: majesty, then knowledge, then care, then the assurance that the care costs Him nothing at all. The reader is left feeling very small and entirely safe.",
-            "bn": "এরপরের বাক্যটিই মানুষ সবচেয়ে বেশি সঙ্গে নিয়ে ফেরে: এ দুটির রক্ষণাবেক্ষণ তাঁকে ক্লান্ত করে না। ক্রিয়াপদটি ভারী কাজের বোঝা বয়ে ক্লান্ত হওয়ার অর্থ বহন করে। আয়াত শেষ হয় আল-আলিয়্য ও আল-আযীম নামে — সর্বোচ্চ ও মহান। পুরো আয়াতের ক্রমটি লক্ষ করুন: মহিমা, তারপর জ্ঞান, তারপর রক্ষণাবেক্ষণ, আর শেষে এই আশ্বাস যে সেই রক্ষণাবেক্ষণে তাঁর কোনো ক্লান্তি নেই। পাঠক নিজেকে খুব ছোট, অথচ সম্পূর্ণ নিরাপদ বোধ করে।"
+            "bn": "এর পরের বাক্যটিই মানুষ মনে গেঁথে নিয়ে যায়: এ দুটির হেফাজত তাঁকে ক্লান্ত করে না। এখানকার ক্রিয়াপদে আছে ভারী বোঝা বইতে গিয়ে হাঁপিয়ে পড়ার ভাব। আয়াত শেষ হয় আল-আলিয়্য ও আল-আযীম নামে: তিনি সর্বোচ্চ, তিনি মহান। পুরো আয়াতের ক্রমটা খেয়াল করুন: প্রথমে মহিমা, তারপর জ্ঞান, তারপর হেফাজত, আর শেষে এই আশ্বাস যে এই হেফাজতে তাঁর কোনো কষ্টই হয় না। পড়া শেষে পাঠক নিজেকে খুব ছোট মনে করেন, আবার পুরোপুরি নিরাপদও বোধ করেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Where the Verse Sits",
-          "bn": "আয়াতটি কোথায় বসে আছে"
+          "bn": "আয়াতটির অবস্থান"
         },
         "p": [
           {
             "en": "No sound report fixes a particular occasion of revelation for this verse; like most of Surah al-Baqarah it is general, and it is honest to say so rather than invent an incident. Its placement, however, is clearly deliberate. The verse just before it, 2:254, tells the believers to spend from what they have been given before a day arrives in which there is no bargaining, no friendship and no intercession.",
-            "bn": "এই আয়াতের জন্য নির্দিষ্ট কোনো শানে নুযূল সহীহ সূত্রে প্রমাণিত নয়; সূরা আল-বাকারার অধিকাংশ অংশের মতো এটিও সাধারণ নির্দেশনা — কোনো ঘটনা বানিয়ে বলার চেয়ে কথাটি সরাসরি বলাই সৎ। তবে আয়াতটির অবস্থান স্পষ্টতই উদ্দেশ্যপ্রণোদিত। ঠিক আগের আয়াত 2:254-এ মুমিনদের বলা হয়েছে, তাদের যা দেওয়া হয়েছে তা থেকে ব্যয় করতে — এমন এক দিন আসার আগে, যেদিন কোনো বেচাকেনা থাকবে না, কোনো বন্ধুত্ব থাকবে না, কোনো সুপারিশও থাকবে না।"
+            "bn": "এই আয়াতের নির্দিষ্ট কোনো শানে নুযূল সহীহ সূত্রে প্রমাণিত নয়। সূরা আল-বাকারার বেশির ভাগ আয়াতের মতো এটিও সাধারণ। কোনো ঘটনা বানিয়ে বলার চেয়ে এ কথা খোলাখুলি স্বীকার করাই সততা। তবে আয়াতটিকে যে ভেবেচিন্তে এখানে রাখা হয়েছে, তা স্পষ্ট। ঠিক আগের আয়াত ২:২৫৪ মুমিনদের বলে, তাদের যা দেওয়া হয়েছে তা থেকে খরচ করতে, সেই দিন আসার আগেই, যেদিন বেচাকেনা থাকবে না, বন্ধুত্ব থাকবে না, সুপারিশও থাকবে না।"
           },
           {
             "en": "Ayat al-Kursi then explains why that day works that way: because intercession belongs to His permission alone. The verse after it, 2:256, states that there is no compulsion in religion, since guidance has become clear from error. Placed side by side, the three verses move from what we owe, to who Allah is, to how faith must be entered. Reciting Ayat al-Kursi with its neighbours in view stops it drifting free as an isolated formula.",
-            "bn": "আয়াতুল কুরসী এরপর ব্যাখ্যা করে সেই দিনটি কেন এমন: কারণ সুপারিশ কেবল তাঁর অনুমতির অধীন। এর পরের আয়াত 2:256 বলে, দ্বীনের ব্যাপারে কোনো জবরদস্তি নেই, কারণ হিদায়াত ভ্রান্তি থেকে স্পষ্ট হয়ে গেছে। পাশাপাশি রাখলে তিনটি আয়াত এগিয়ে যায় — আমাদের দায়িত্ব থেকে আল্লাহ কে সেই পরিচয়ে, আর সেখান থেকে ঈমান কীভাবে গ্রহণ করতে হয় সেই কথায়। প্রতিবেশী আয়াতগুলো সামনে রেখে পড়লে আয়াতুল কুরসী কেবল একটি বিচ্ছিন্ন বাক্যবন্ধ হয়ে ভেসে থাকে না।"
+            "bn": "এরপর আয়াতুল কুরসী জানায়, সেই দিনটি কেন এমন হবে: সুপারিশ চলবে কেবল তাঁর অনুমতিতে। পরের আয়াত ২:২৫৬ বলে, দ্বীনের ব্যাপারে কোনো জবরদস্তি নেই, কারণ হিদায়াত গোমরাহি থেকে আলাদা হয়ে স্পষ্ট হয়ে গেছে। তিনটি আয়াত পাশাপাশি রাখলে দেখা যায় কথাটা ধাপে ধাপে এগোচ্ছে: আমাদের দায়িত্ব কী, আল্লাহ কে, আর ঈমানে প্রবেশ করতে হয় কীভাবে। আগে-পরের আয়াতগুলো মাথায় রেখে পড়লে আয়াতুল কুরসী আর শুধু আলাদা করে মুখস্থ করা একটা বাক্য হয়ে থাকে না।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Was Used",
-          "bn": "এই আয়াতের ব্যবহার"
+          "bn": "আয়াতটির আমল"
         },
         "p": [
           {
             "en": "Muslim narrates that the Prophet ﷺ asked Ubayy ibn Ka'b (RA) which verse of the Book of Allah he held to be greatest, and when Ubayy answered with Ayat al-Kursi the Prophet ﷺ struck him on the chest and congratulated him on his knowledge. The verse is not called greatest for its length. It is greatest because from beginning to end it has one subject and one only, which is Allah Himself.",
-            "bn": "মুসলিম বর্ণনা করেন, নবী ﷺ উবাই ইবনে কা'ব (রাঃ)-কে জিজ্ঞেস করেন, আল্লাহর কিতাবের কোন আয়াতটি তাঁর কাছে সবচেয়ে মহান। উবাই যখন আয়াতুল কুরসীর কথা বলেন, নবী ﷺ তাঁর বুকে মৃদু আঘাত করে তাঁকে এই জ্ঞানের জন্য অভিনন্দন জানান। আয়াতটিকে দৈর্ঘ্যের কারণে মহান বলা হয়নি। এটি মহান, কারণ শুরু থেকে শেষ পর্যন্ত এর বিষয়বস্তু একটিই — স্বয়ং আল্লাহ।"
+            "bn": "ইমাম মুসলিম বর্ণনা করেছেন, নবী ﷺ উবাই ইবনে কা'ব (রাঃ)-কে জিজ্ঞেস করলেন, আল্লাহর কিতাবের কোন আয়াতটি তাঁর মতে সবচেয়ে মহান। উবাই আয়াতুল কুরসীর কথা বললে নবী ﷺ তাঁর বুকে চাপড় দিয়ে এই জ্ঞানের জন্য তাঁকে মোবারকবাদ জানালেন। আয়াতটি লম্বা বলে মহান নয়। মহান এ কারণে যে শুরু থেকে শেষ পর্যন্ত এর বিষয় একটাই, আর তা হলো স্বয়ং আল্লাহ।"
           },
           {
             "en": "Al-Bukhari relates the account of Abu Hurayrah (RA), left to guard the zakat stores of Ramadan, who caught a thief on three successive nights; on the last the thief bought his release by teaching him that whoever recites Ayat al-Kursi before sleeping has a guardian from Allah with him until morning, and the Prophet ﷺ confirmed that the words were true even though the one who spoke them was a devil. Reciting it after each obligatory prayer is reported from the Prophet ﷺ in the collection of an-Nasa'i.",
-            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ)-এর ঘটনাটি বর্ণনা করেন, যেখানে তাঁকে রমযানের যাকাতের সম্পদ পাহারার দায়িত্ব দেওয়া হয়েছিল এবং তিনি টানা তিন রাত এক চোরকে ধরেন; শেষ রাতে চোরটি নিজের মুক্তির বিনিময়ে তাঁকে শেখায় যে ঘুমানোর আগে আয়াতুল কুরসী পড়লে সকাল পর্যন্ত আল্লাহর পক্ষ থেকে একজন রক্ষক থাকবে। নবী ﷺ নিশ্চিত করেন, কথাটি সত্য হলেও বক্তা ছিল একটি শয়তান। প্রতিটি ফরয নামাযের পর এটি পাঠ করার কথা নবী ﷺ থেকে নাসাঈর সংকলনে বর্ণিত হয়েছে।"
+            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ)-এর একটি ঘটনা বর্ণনা করেছেন। রমজানের যাকাতের মাল পাহারার দায়িত্ব ছিল তাঁর ওপর। পরপর তিন রাত তিনি এক চোরকে ধরেন। শেষ রাতে চোরটি ছাড়া পাওয়ার বিনিময়ে তাঁকে শিখিয়ে দেয়: ঘুমানোর আগে কেউ আয়াতুল কুরসী পড়লে সকাল পর্যন্ত আল্লাহর পক্ষ থেকে একজন পাহারাদার তার সঙ্গে থাকে। নবী ﷺ জানালেন, কথাটা সত্যি, যদিও যে বলেছে সে এক শয়তান। প্রতিটি ফরজ নামাজের পর আয়াতুল কুরসী পড়ার কথাও নবী ﷺ থেকে বর্ণিত আছে, ইমাম নাসাঈর সংকলনে।"
           }
         ]
       },
       {
         "h": {
           "en": "Carrying It Through the Day",
-          "bn": "দিনভর এটি বহন করা"
+          "bn": "দিনভর আয়াতটি সঙ্গে রাখা"
         },
         "p": [
           {
             "en": "The practical shape of this verse is small and repeatable: after every obligatory prayer, and again before sleep. What changes with practice is not the count but the attention. Read the clauses as statements about reality rather than as sounds to complete — He does not sleep, He is not wearied, He knows what lies ahead of you — and the verse begins to work on the particular worry that made you reach for it.",
-            "bn": "এই আয়াতের ব্যবহারিক রূপটি ছোট ও পুনরাবৃত্তিযোগ্য: প্রতিটি ফরয নামাযের পর, আর ঘুমানোর আগে। অভ্যাসের সঙ্গে যা বদলায় তা সংখ্যা নয়, মনোযোগ। বাক্যগুলোকে কেবল শেষ করার মতো শব্দ হিসেবে নয়, বাস্তবতা সম্পর্কে বিবৃতি হিসেবে পড়ুন — তিনি ঘুমান না, তিনি ক্লান্ত হন না, আপনার সামনে যা আছে তিনি তা জানেন — তখনই আয়াতটি সেই নির্দিষ্ট দুশ্চিন্তার ওপর কাজ শুরু করে, যার কারণে আপনি এটি ধরেছিলেন।"
+            "bn": "এই আয়াতের আমল ছোট, আর বারবার করা যায়: প্রতিটি ফরজ নামাজের পর, আবার ঘুমানোর আগে। নিয়মিত পড়তে পড়তে যা বদলায় তা সংখ্যা নয়, মনোযোগ। বাক্যগুলোকে শুধু উচ্চারণ করে শেষ করার মতো শব্দ ভাববেন না। এগুলো বাস্তবতার খবর: তিনি ঘুমান না, তিনি ক্লান্ত হন না, আপনার সামনে কী আছে তিনি জানেন। এভাবে পড়লে যে দুশ্চিন্তা আপনাকে আয়াতটির কাছে টেনে এনেছিল, আয়াতটি ঠিক সেই দুশ্চিন্তার ওপরই কাজ শুরু করে।"
           },
           {
             "en": "It also disciplines hope. If nothing is guaranteed by any intercessor except by His permission, then contacts, reputations and favours are not where safety actually lies. And if He is never wearied by preserving the heavens and the earth, the matter you are carrying is not too much to hand over to Him tonight. Anxiety loses weight, not because the problem became smaller, but because the One in charge of it has been described accurately.",
-            "bn": "এটি আশাকেও শৃঙ্খলায় আনে। যদি তাঁর অনুমতি ছাড়া কোনো সুপারিশকারীই কিছু নিশ্চিত করতে না পারে, তবে পরিচিতি, সুনাম বা পক্ষপাত — এগুলোর কোনোটাই প্রকৃত নিরাপত্তার জায়গা নয়। আর আসমান-যমীনের রক্ষণাবেক্ষণ যদি তাঁকে ক্লান্ত না করে, তবে আজ রাতে আপনি যে বোঝাটি বইছেন, তা তাঁর হাতে তুলে দেওয়ার জন্য বেশি বড় নয়। দুশ্চিন্তার ওজন কমে — সমস্যা ছোট হয়ে গেছে বলে নয়, বরং যিনি সেটির দায়িত্বে আছেন তাঁকে যথাযথভাবে চেনা হয়েছে বলে।"
+            "bn": "আয়াতটি আশাকেও ঠিক জায়গায় রাখে। তাঁর অনুমতি ছাড়া কোনো সুপারিশকারী যদি কিছুই নিশ্চিত করতে না পারে, তাহলে চেনাজানা লোক, সুনাম বা কারও খাতির, এসবের মধ্যে আসল নিরাপত্তা নেই। আর আসমান-যমীনের হেফাজত যদি তাঁকে কখনো ক্লান্ত না করে, তাহলে আপনি যে বোঝা বয়ে বেড়াচ্ছেন, আজ রাতে তা তাঁর হাতে সঁপে দেওয়ার পক্ষে মোটেই বেশি ভারী নয়। দুশ্চিন্তা হালকা হয়ে আসে। সমস্যা ছোট হয়েছে বলে নয়, বরং যাঁর হাতে এর ভার, তাঁকে ঠিকঠাক চেনা গেছে বলে।"
           }
         ]
       }
@@ -5529,11 +5529,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Allah is the wali of those who believe; He brings them out of the darknesses into the light. And those who disbelieve — their patrons are the taghut, who bring them out of the light into the darknesses. The verse is built as a mirror: the same verb of bringing out, the same two destinations, opposite directions. Everyone in it is moving; no one is standing still. The only question the verse leaves open is which way you are being led.",
-            "bn": "আল্লাহ মুমিনদের ওয়ালী; তিনি তাদের অন্ধকারসমূহ থেকে আলোয় বের করে আনেন। আর যারা কুফর করে — তাদের অভিভাবক তাগূত, যারা তাদের আলো থেকে অন্ধকারসমূহে বের করে নেয়। আয়াতটি আয়নার মতো গড়া: বের করে আনার একই ক্রিয়া, একই দুই গন্তব্য, বিপরীত দুই দিক। এর ভেতরের প্রত্যেকে চলমান; কেউ স্থির দাঁড়িয়ে নেই। আয়াতটি কেবল একটি প্রশ্নই খোলা রাখে: আপনাকে কোন দিকে নিয়ে যাওয়া হচ্ছে।"
+            "bn": "আল্লাহ মুমিনদের ওয়ালী। তিনি তাদের অন্ধকারগুলো থেকে বের করে আলোর দিকে আনেন। আর যারা কুফরি করে, তাদের অভিভাবক তাগূত। তারা ওদের আলো থেকে বের করে অন্ধকারগুলোর দিকে নিয়ে যায়। আয়াতটি গড়া আয়নার মতো: বের করে আনার একই ক্রিয়া, একই দুই গন্তব্য, শুধু দিক উল্টো। আয়াতের প্রত্যেকেই চলছে, কেউ থেমে দাঁড়িয়ে নেই। আয়াতটি একটি প্রশ্নই খোলা রাখে: আপনাকে কোন দিকে নিয়ে যাওয়া হচ্ছে?"
           },
           {
             "en": "Wali is a rich word: ally, protector, guardian, the one who takes charge of your affairs and stands closest to you. When Allah names Himself wali of the believers, He is not describing a feeling but a working relationship — guidance given, protection extended, affairs managed by One who neither sleeps, as 2:255 has just said, nor is ever absent.",
-            "bn": "ওয়ালী শব্দটি সমৃদ্ধ: মিত্র, রক্ষক, অভিভাবক — যিনি আপনার বিষয়গুলোর দায়িত্ব নেন এবং আপনার সবচেয়ে কাছে দাঁড়ান। আল্লাহ যখন নিজেকে মুমিনদের ওয়ালী বলেন, তিনি কোনো অনুভূতির বর্ণনা দিচ্ছেন না, বরং এক কার্যকর সম্পর্কের: হিদায়াত দেওয়া হয়, সুরক্ষা প্রসারিত হয়, বিষয়াদি পরিচালনা করেন এমন এক সত্তা — যিনি ঘুমান না, যেমন 2:255 এইমাত্র বলেছে, এবং কখনো অনুপস্থিতও নন।"
+            "bn": "ওয়ালী শব্দটির অর্থ অনেক গভীর: বন্ধু, রক্ষক, অভিভাবক, যিনি আপনার সব বিষয়ের দায়িত্ব নেন আর থাকেন আপনার সবচেয়ে কাছে। আল্লাহ যখন নিজেকে মুমিনদের ওয়ালী বলেন, তখন তিনি কোনো অনুভূতির কথা বলছেন না। বলছেন এমন এক সম্পর্কের কথা, যা কাজে দেখা যায়: তিনি পথ দেখান, রক্ষা করেন, সব বিষয় সামলান। আর যিনি সামলান তিনি ঘুমান না, যেমন ২:২৫৫ এইমাত্র বলেছে, কখনো অনুপস্থিতও থাকেন না।"
           }
         ]
       },
@@ -5545,11 +5545,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not stand alone. 2:255 has just described the God whose Kursi extends over the heavens and the earth. 2:256 then declares there is no compulsion in religion, for guidance has become clear from error, and promises that whoever rejects the taghut and believes in Allah has grasped the firmest handle, which never breaks. 2:257 completes the movement: it shows what happens after the hand closes on the handle — or refuses it.",
-            "bn": "আয়াতটি একা দাঁড়িয়ে নেই। 2:255 এইমাত্র সেই আল্লাহর বর্ণনা দিয়েছে যাঁর কুরসী আসমান-যমীন পরিব্যাপ্ত। এরপর 2:256 ঘোষণা করে দ্বীনে কোনো জবরদস্তি নেই, কারণ হিদায়াত ভ্রান্তি থেকে স্পষ্ট হয়ে গেছে, আর প্রতিশ্রুতি দেয়: যে তাগূতকে প্রত্যাখ্যান করে আল্লাহর প্রতি ঈমান আনে, সে ধরেছে সেই মজবুত হাতল যা কখনো ভাঙে না। 2:257 গতিটি সম্পূর্ণ করে: দেখায় হাত হাতলটি আঁকড়ে ধরার পরে — কিংবা প্রত্যাখ্যান করার পরে — কী ঘটে।"
+            "bn": "আয়াতটি একা দাঁড়িয়ে নেই। ২:২৫৫ এইমাত্র সেই আল্লাহর পরিচয় দিয়েছে, যাঁর কুরসী আসমান-যমীন জুড়ে বিস্তৃত। এরপর ২:২৫৬ ঘোষণা করে, দ্বীনে কোনো জবরদস্তি নেই, কারণ হিদায়াত গোমরাহি থেকে স্পষ্ট হয়ে গেছে। সেই আয়াত ওয়াদাও দেয়: যে তাগূতকে অস্বীকার করে আল্লাহর ওপর ঈমান আনে, সে এমন মজবুত হাতল আঁকড়ে ধরেছে, যা কখনো ভাঙে না। ২:২৫৭ কথাটা পূর্ণ করে। হাত সেই হাতল আঁকড়ে ধরলে কী ঘটে, আর ধরতে অস্বীকার করলে কী ঘটে, এই আয়াত তা দেখায়।"
           },
           {
             "en": "Read as a sequence, the three verses answer three questions in order. Who is Allah? The Living, the Sustainer, as 2:255 declares. How is faith entered? Freely, by a clear choice, as 2:256 rules. What does the choice deliver? A guardian, and a lifelong movement toward light, as 2:257 promises. The commentators read the passage as one lesson in three steps rather than three isolated sayings.",
-            "bn": "ধারাবাহিকভাবে পড়লে তিনটি আয়াত পরপর তিনটি প্রশ্নের উত্তর দেয়। আল্লাহ কে? চিরঞ্জীব, সর্বসত্তার ধারক — যেমন 2:255 ঘোষণা করে। ঈমানে প্রবেশ কীভাবে? স্বাধীনভাবে, স্পষ্ট এক সিদ্ধান্তে — যেমন 2:256 বিধান দেয়। সেই সিদ্ধান্ত কী এনে দেয়? একজন অভিভাবক, আর আলোর দিকে আজীবনের এক যাত্রা — যেমন 2:257 প্রতিশ্রুতি দেয়। মুফাসসিরগণ অংশটিকে তিনটি বিচ্ছিন্ন উক্তি নয়, তিন ধাপের এক শিক্ষা হিসেবে পড়েন।"
+            "bn": "পরপর পড়লে তিনটি আয়াত ক্রমানুসারে তিনটি প্রশ্নের জবাব দেয়। আল্লাহ কে? চিরঞ্জীব, সবকিছুর ধারক, যেমনটা ২:২৫৫ ঘোষণা করে। ঈমানে প্রবেশ করতে হয় কীভাবে? স্বাধীনভাবে, স্পষ্ট বুঝে বেছে নিয়ে, যেমনটা ২:২৫৬-এর বিধান। এই বেছে নেওয়া কী এনে দেয়? একজন অভিভাবক, আর সারা জীবন আলোর দিকে এগিয়ে চলা, যেমনটা ২:২৫৭-এর ওয়াদা। মুফাসসিরগণ এই অংশটিকে তিনটি বিচ্ছিন্ন উক্তি হিসেবে নয়, তিন ধাপের একটি শিক্ষা হিসেবেই পড়েন।"
           }
         ]
       },
@@ -5561,11 +5561,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic is precise: zulumat, darknesses, always plural in this idiom; nur, light, singular. The commentators draw the meaning out: falsehood is many — sects, superstitions, desires, ideologies, each a darkness of its own — while truth is one road. 6:153 states it as a command: this is My path, straight, so follow it, and do not follow the other ways, for they will scatter you from His way.",
-            "bn": "আরবিটি সূক্ষ্ম: যুলুমাত — অন্ধকারসমূহ — এই প্রয়োগে সবসময় বহুবচন; নূর — আলো — একবচন। মুফাসসিরগণ অর্থটি টেনে বের করেন: বাতিল অনেক — দল, কুসংস্কার, প্রবৃত্তি, মতবাদ, প্রতিটি নিজস্ব এক অন্ধকার — অথচ সত্য একটিই পথ। 6:153 একে আদেশ আকারে বলে: এই আমার পথ, সরল; সুতরাং এরই অনুসরণ করো, অন্য পথগুলোর অনুসরণ কোরো না, কারণ সেগুলো তোমাদের তাঁর পথ থেকে বিচ্ছিন্ন করে দেবে।"
+            "bn": "আরবি শব্দ দুটি খুব হিসাব করে বসানো। যুলুমাত মানে অন্ধকার, তবে এই বাগধারায় শব্দটি সবসময় বহুবচন। নূর মানে আলো, আর তা একবচন। মুফাসসিরগণ এর তাৎপর্য বের করেছেন: বাতিল অনেক রকম। দল-উপদল, কুসংস্কার, প্রবৃত্তি, নানা মতবাদ, প্রতিটিই আলাদা এক অন্ধকার। অথচ সত্যের পথ একটাই। ৬:১৫৩ আয়াত এ কথাই বলে আদেশের সুরে: এটাই আমার সরল পথ, তোমরা এরই অনুসরণ করো, অন্য পথগুলোর অনুসরণ কোরো না, কারণ সেগুলো তোমাদের তাঁর পথ থেকে বিচ্ছিন্ন করে দেবে।"
           },
           {
             "en": "Darkness in the Quran's usage is not only ignorance of doctrine. It is every state in which a person cannot see where they are going: confusion about what matters, blindness to consequences, a conscience dimmed by habit. Light, correspondingly, is not information but sight — the ability to see the world, the self and the road ahead as they actually are.",
-            "bn": "কুরআনের ব্যবহারে অন্ধকার কেবল আকীদার অজ্ঞতা নয়। এটি সেই প্রতিটি অবস্থা, যাতে মানুষ দেখতে পায় না সে কোথায় যাচ্ছে: কোনটি গুরুত্বপূর্ণ তা নিয়ে বিভ্রান্তি, পরিণতির প্রতি অন্ধতা, অভ্যাসে নিষ্প্রভ হয়ে আসা বিবেক। আলোও সেই অনুপাতে কেবল তথ্য নয়, দৃষ্টি — জগৎ, নিজ সত্তা ও সামনের পথকে যেমন তারা আসলে আছে তেমন দেখতে পারার ক্ষমতা।"
+            "bn": "কুরআনের ভাষায় অন্ধকার মানে শুধু আকীদা না জানা নয়। মানুষ যে অবস্থায় দেখতে পায় না সে কোথায় চলেছে, তার সবই অন্ধকার: কোনটা জরুরি তা নিয়ে দিশেহারা হওয়া, পরিণতির দিকে চোখ বন্ধ রাখা, অভ্যাসের চাপে বিবেক ঝাপসা হয়ে যাওয়া। তেমনি আলো মানে শুধু তথ্য নয়, দেখতে পাওয়ার ক্ষমতা: দুনিয়া, নিজেকে আর সামনের পথকে আসলে যেমন, ঠিক তেমন করে দেখতে পারা।"
           }
         ]
       },
@@ -5577,11 +5577,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Taghut, from a root meaning to overflow all bounds, is the Quran's name for whatever is served or obeyed in place of Allah — idols, tyrants, soothsayers, and in every age its newer forms. The scholars' definitions vary in wording and agree in substance: anything that takes for itself, or is given, what belongs to Allah alone. Such patrons come in the plural where the true wali is one, and the verse's grammar carries exactly that contrast.",
-            "bn": "তাগূত — সীমা ছাড়িয়ে উপচে পড়া অর্থের ধাতু থেকে — আল্লাহর জায়গায় যার সেবা বা আনুগত্য করা হয় তার কুরআনি নাম: মূর্তি, স্বৈরাচারী, গণক, আর প্রতিটি যুগে এর নতুন নতুন রূপ। আলিমদের সংজ্ঞা শব্দে ভিন্ন হলেও মর্মে একমত: যা নিজের জন্য নিয়ে নেয়, বা যাকে দিয়ে দেওয়া হয়, কেবল আল্লাহর প্রাপ্য বিষয়গুলো। এমন অভিভাবক আসে বহুবচনে, অথচ প্রকৃত ওয়ালী এক — আর আয়াতের ব্যাকরণ ঠিক এই বৈপরীত্যই বহন করে।"
+            "bn": "তাগূত শব্দের মূল অর্থ সব সীমা ছাড়িয়ে উপচে পড়া। আল্লাহর বদলে যার ইবাদত বা আনুগত্য করা হয়, কুরআন তাকেই তাগূত বলে: মূর্তি, জালিম শাসক, গণক, আর প্রতিটি যুগে তার নতুন নতুন রূপ। আলিমদের সংজ্ঞার ভাষা আলাদা হলেও মূল কথায় তাঁরা একমত: যা কেবল আল্লাহর প্রাপ্য, তা যে নিজে নিয়ে নেয় কিংবা যাকে তা দিয়ে দেওয়া হয়, সে-ই তাগূত। আয়াতে এমন অভিভাবকদের কথা এসেছে বহুবচনে, অথচ প্রকৃত ওয়ালী একজন। আয়াতের ব্যাকরণে ঠিক এই বৈপরীত্যটাই ধরা আছে।"
           },
           {
             "en": "Their direction of pull is the verse's sharpest point: out of the light into the darknesses. The commentators explain that the light was available to them — the clear proofs of 2:256, the sound nature every person is created upon — and their false patrons turn them away from it. No one begins in neutral. Turning from light that has reached you is itself a movement into the dark.",
-            "bn": "তাদের টানের দিকটিই আয়াতের তীক্ষ্ণতম কথা: আলো থেকে অন্ধকারসমূহের দিকে। মুফাসসিরগণ ব্যাখ্যা করেন, আলো তাদের নাগালে ছিল — 2:256 আয়াতের স্পষ্ট প্রমাণসমূহ, আর যে বিশুদ্ধ স্বভাবের ওপর প্রতিটি মানুষ সৃষ্ট — এবং তাদের মিথ্যা অভিভাবকরা তাদের সেখান থেকে ফিরিয়ে নেয়। কেউ নিরপেক্ষ অবস্থান থেকে শুরু করে না। যে আলো আপনার কাছে পৌঁছেছে তা থেকে মুখ ফেরানোই অন্ধকারের দিকে এক চলা।"
+            "bn": "তারা কোন দিকে টানে, সেটাই আয়াতের সবচেয়ে তীক্ষ্ণ কথা: আলো থেকে অন্ধকারগুলোর দিকে। মুফাসসিরগণ ব্যাখ্যা করেন, আলো তাদের হাতের নাগালেই ছিল। ছিল ২:২৫৬ আয়াতের স্পষ্ট প্রমাণ, ছিল সেই সুস্থ ফিতরাত, যার ওপর প্রতিটি মানুষকে সৃষ্টি করা হয়। তাদের মিথ্যা অভিভাবকরাই তাদের সেখান থেকে ফিরিয়ে নেয়। কেউই নিরপেক্ষ জায়গা থেকে শুরু করে না। যে আলো আপনার কাছে পৌঁছে গেছে, তা থেকে মুখ ফিরিয়ে নেওয়াটাই অন্ধকারের দিকে এগিয়ে যাওয়া।"
           }
         ]
       },
@@ -5593,11 +5593,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Bringing out of darknesses into light is one of the Quran's steady descriptions of what Allah does for believers. 5:16 says He guides by the Quran those who pursue His pleasure into the ways of peace and brings them out of darknesses into light by His permission. 14:1 gives the Book that very purpose, and 65:11 attaches it to the Messenger reciting clear verses. 33:43 adds that He and His angels send blessings on the believers to bring them out of darknesses into light.",
-            "bn": "অন্ধকারসমূহ থেকে আলোয় বের করে আনা — মুমিনদের জন্য আল্লাহ যা করেন তার এক স্থায়ী কুরআনি বর্ণনা। 5:16 বলে, যারা তাঁর সন্তুষ্টির অনুসরণ করে তিনি কুরআনের মাধ্যমে তাদের শান্তির পথগুলোতে চালান এবং নিজ অনুমতিতে অন্ধকারসমূহ থেকে আলোয় বের করে আনেন। 14:1 কিতাবকে ঠিক এই উদ্দেশ্যই দেয়, আর 65:11 এটি যুক্ত করে স্পষ্ট আয়াত তিলাওয়াতকারী রাসূলের সঙ্গে। 33:43 যোগ করে: তিনি ও তাঁর ফেরেশতারা মুমিনদের ওপর রহমত বর্ষণ করেন তাদের অন্ধকারসমূহ থেকে আলোয় বের করে আনতে।"
+            "bn": "অন্ধকারগুলো থেকে আলোয় বের করে আনা: মুমিনদের জন্য আল্লাহ কী করেন, কুরআন বারবার এভাবেই তা বর্ণনা করে। ৫:১৬ আয়াত বলে, যারা তাঁর সন্তুষ্টির পথে চলে, তিনি কুরআন দিয়ে তাদের শান্তির পথে চালান, আর নিজ অনুমতিতে অন্ধকার থেকে আলোয় বের করে আনেন। ১৪:১ আয়াতে কিতাব নাজিলের উদ্দেশ্যই এটা বলা হয়েছে, আর ৬৫:১১ আয়াত একে যুক্ত করে সেই রাসূলের সঙ্গে, যিনি স্পষ্ট আয়াত তিলাওয়াত করে শোনান। ৩৩:৪৩ আয়াত যোগ করে: তিনি ও তাঁর ফেরেশতারা মুমিনদের ওপর রহমত পাঠান, যেন তাদের অন্ধকার থেকে আলোয় বের করে আনেন।"
           },
           {
             "en": "Gather the passages and the instruments of the bringing-out appear: the Book, the Messenger ﷺ, and Allah's own mercy and blessing. The believer is not asked to generate light; he is asked to stay attached to the sources of it. Detach from revelation, and the verse's other current — the pull of the many darknesses — does not stop running.",
-            "bn": "অংশগুলো একত্র করলে বের করে আনার উপকরণগুলো ফুটে ওঠে: কিতাব, রাসূল ﷺ, আর আল্লাহর নিজের রহমত ও বরকত। মুমিনকে আলো উৎপাদন করতে বলা হয়নি; বলা হয়েছে আলোর উৎসগুলোর সঙ্গে যুক্ত থাকতে। ওহী থেকে বিচ্ছিন্ন হোন — আয়াতের অন্য স্রোত, বহু অন্ধকারের টান, তখনো বইতে থাকবে।"
+            "bn": "এই আয়াতগুলো একসঙ্গে রাখলে বোঝা যায়, কী কী দিয়ে বের করে আনা হয়: কিতাব, রাসূল ﷺ, আর আল্লাহর নিজের রহমত ও বরকত। মুমিনকে নিজে আলো তৈরি করতে বলা হয়নি। তাকে বলা হয়েছে আলোর এই উৎসগুলোর সঙ্গে লেগে থাকতে। ওহি থেকে দূরে সরে গেলে আয়াতের অন্য স্রোতটা, মানে নানা অন্ধকারের টান, থেমে থাকে না।"
           }
         ]
       },
@@ -5609,11 +5609,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse invites a plain audit. Everyone has patrons in practice: voices obeyed, sources trusted, company kept, feeds followed. The test it offers is directional — after a season under this influence, do I see more clearly or less? Am I closer to prayer, honesty and remembrance, or further? Movement toward light and movement toward darkness both happen gradually, which is why the audit has to be deliberate.",
-            "bn": "আয়াতটি এক সরল যাচাইয়ের আমন্ত্রণ জানায়। কার্যত প্রত্যেকেরই অভিভাবক আছে: যে কণ্ঠের আনুগত্য করা হয়, যে উৎসে ভরসা রাখা হয়, যে সঙ্গ রাখা হয়, যা নিয়মিত দেখা-শোনা হয়। এর দেওয়া পরীক্ষাটি দিকনির্ণায়ক — এই প্রভাবের অধীনে একটা সময় কাটানোর পর আমি কি আগের চেয়ে স্পষ্ট দেখি, নাকি কম? নামায, সততা ও স্মরণের কাছাকাছি এসেছি, নাকি দূরে গেছি? আলোর দিকে চলা আর অন্ধকারের দিকে চলা দুটিই ঘটে ধীরে ধীরে — তাই যাচাইটি হতে হয় সচেতনভাবে।"
+            "bn": "আয়াতটি নিজেকে সোজাসুজি যাচাই করে দেখার ডাক দেয়। বাস্তবে প্রত্যেকেরই কিছু অভিভাবক আছে: যাদের কথা মেনে চলি, যাদের কথায় ভরসা করি, যাদের সঙ্গে ওঠাবসা করি, অনলাইনে যাদের নিয়মিত দেখি-শুনি। আয়াতের পরীক্ষাটা দিক নিয়ে: এই প্রভাবের মধ্যে কিছুদিন কাটানোর পর আমি কি আগের চেয়ে পরিষ্কার দেখি, নাকি ঝাপসা? নামাজ, সততা আর জিকিরের কাছে এসেছি, নাকি দূরে সরে গেছি? আলোর দিকে চলা আর অন্ধকারের দিকে চলা, দুটোই ঘটে ধীরে ধীরে। তাই যাচাইটা করতে হয় জেনে-বুঝে।"
           },
           {
             "en": "And the promise is personal. Taking Allah as wali is not a mood but a set of acts: obeying Him when it costs, consulting His Book before other counsel, asking Him first. Whoever does this has His word that the direction of their life is out of every darkness — confusion, sin, despair — and into light, and that the Guardian managing the journey never hands it off.",
-            "bn": "আর প্রতিশ্রুতিটি ব্যক্তিগত। আল্লাহকে ওয়ালী হিসেবে গ্রহণ করা কোনো মেজাজ নয়, কতগুলো কাজ: মূল্য দিতে হলেও তাঁর আনুগত্য, অন্য পরামর্শের আগে তাঁর কিতাবের শরণ, সবার আগে তাঁর কাছে চাওয়া। যে এমন করে, তার জন্য তাঁর কথা রইল: তার জীবনের অভিমুখ প্রতিটি অন্ধকার থেকে — বিভ্রান্তি, গুনাহ, হতাশা — আলোর দিকে; আর এই যাত্রার পরিচালক অভিভাবক কখনো দায়িত্ব অন্য হাতে তুলে দেন না।"
+            "bn": "আর ওয়াদাটা আপনার নিজের জন্য। আল্লাহকে ওয়ালী হিসেবে গ্রহণ করা কোনো মেজাজের ব্যাপার নয়, কিছু নির্দিষ্ট কাজ: দাম দিতে হলেও তাঁর হুকুম মানা, অন্যের পরামর্শ নেওয়ার আগে তাঁর কিতাব দেখা, সবার আগে তাঁর কাছেই চাওয়া। যে এমন করে, তার জন্য আল্লাহর ওয়াদা আছে: তার জীবন চলবে প্রতিটি অন্ধকার থেকে আলোর দিকে, সেটা দিশেহারা অবস্থা হোক, গুনাহ হোক বা হতাশা। আর এই যাত্রা যিনি পরিচালনা করেন, সেই অভিভাবক কখনো দায়িত্বটা অন্য কারও হাতে ছেড়ে দেন না।"
           }
         ]
       }
@@ -5624,16 +5624,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Seed in the Spending Passage",
-          "bn": "ব্যয়ের অনুচ্ছেদে একটি বীজ"
+          "bn": "দানের আলোচনায় একটি বীজ"
         },
         "p": [
           {
             "en": "The verse opens a sustained passage on spending that continues through 2:274 without a break. Earlier, in 2:254 the believers were told to spend from what they had been given before a day arrives with no bargaining and no friendship; now the Quran turns from warning to invitation. The example of those who spend their wealth in the way of Allah is like a grain that grows seven ears, in every ear a hundred grains. The image is drawn from farming, the most familiar economy its first hearers knew.",
-            "bn": "আয়াতটি ব্যয় বিষয়ে এক দীর্ঘ অনুচ্ছেদের সূচনা করে, যা বিরতিহীনভাবে 2:274 পর্যন্ত চলে। এর আগে 2:254 আয়াতে মুমিনদের বলা হয়েছিল এমন এক দিন আসার আগে ব্যয় করতে, যেদিন কোনো বেচাকেনা থাকবে না, কোনো বন্ধুত্বও না; এখন কুরআন সতর্কবার্তা থেকে আমন্ত্রণে ফেরে। যারা আল্লাহর পথে নিজেদের সম্পদ ব্যয় করে তাদের উপমা একটি দানার মতো, যা থেকে সাতটি শীষ গজায়, প্রতিটি শীষে একশত দানা। চিত্রটি নেওয়া হয়েছে কৃষি থেকে — এর প্রথম শ্রোতারা যে অর্থনীতিকে সবচেয়ে ভালো চিনত।"
+            "bn": "এই আয়াত দিয়েই দান নিয়ে একটানা আলোচনা শুরু হয়, যা কোনো বিরতি ছাড়া চলে ২:২৭৪ পর্যন্ত। এর আগে ২:২৫৪ আয়াতে মুমিনদের বলা হয়েছিল, তাদের যা দেওয়া হয়েছে তা থেকে খরচ করতে, সেই দিন আসার আগেই, যেদিন কোনো বেচাকেনা থাকবে না, কোনো বন্ধুত্বও না। এবার কুরআন সতর্ক করা থেকে সরে দাওয়াতের সুরে কথা বলে। যারা আল্লাহর পথে নিজেদের সম্পদ খরচ করে, তাদের উপমা একটি শস্যদানার মতো, যা থেকে সাতটি শীষ গজায়, আর প্রতিটি শীষে থাকে একশো দানা। ছবিটা নেওয়া হয়েছে চাষাবাদ থেকে, যা ছিল প্রথম শ্রোতাদের সবচেয়ে চেনা জীবিকা।"
           },
           {
             "en": "The choice of picture matters. A merchant's profit returns to him alone; a seed becomes food for others, and its growth is slow, hidden, and entirely dependent on what Allah sends of rain and sun. The verb is anbatat — the grain itself \"produced\" seven ears — yet every listener knew that no grain grows itself. From the first line, then, giving is placed inside a world where increase is Allah's work, not the giver's, and where the visible loss of burying a seed is simply what sowing looks like.",
-            "bn": "ছবিটির নির্বাচন অর্থবহ। ব্যবসায়ীর মুনাফা কেবল তার নিজের কাছে ফেরে; কিন্তু একটি বীজ অন্যদের খাদ্য হয়ে ওঠে, আর তার বৃদ্ধি ধীর, অদৃশ্য এবং আল্লাহ যে বৃষ্টি ও রোদ পাঠান তার ওপর সম্পূর্ণ নির্ভরশীল। ক্রিয়াপদটি হলো আনবাতাত — দানাটি নিজেই সাতটি শীষ \"উৎপন্ন করল\" — অথচ প্রত্যেক শ্রোতা জানত, কোনো দানা নিজে নিজে গজায় না। তাই প্রথম পঙ্‌ক্তি থেকেই দানকে এমন এক জগতে বসানো হয়েছে যেখানে বৃদ্ধি আল্লাহর কাজ, দাতার নয়, আর বীজ পুঁতে ফেলার দৃশ্যমান ক্ষতিটাই আসলে বপনের স্বাভাবিক চেহারা।"
+            "bn": "ছবিটা বেছে নেওয়ার পেছনে কারণ আছে। ব্যবসায়ীর লাভ ফেরে শুধু তার নিজের কাছে। কিন্তু বীজ অন্যের মুখের খাবার হয়। তার বেড়ে ওঠা ধীর, চোখের আড়ালে, আর পুরোপুরি নির্ভর করে আল্লাহ কতটা বৃষ্টি আর রোদ পাঠান তার ওপর। ক্রিয়াপদটি 'আনবাতাত', অর্থাৎ দানাটি নিজেই সাতটি শীষ 'গজাল'। অথচ প্রত্যেক শ্রোতাই জানত, কোনো দানা নিজে নিজে গজায় না। তাই প্রথম লাইন থেকেই আয়াত দানকে বসিয়ে দেয় এমন এক জগতে, যেখানে বাড়ানো আল্লাহর কাজ, দাতার নয়। বীজ মাটিতে চাপা দিলে যে আপাত ক্ষতি চোখে পড়ে, সেটাই আসলে বোনার স্বাভাবিক চেহারা।"
           }
         ]
       },
@@ -5645,11 +5645,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The arithmetic is stated so that it can be done: seven ears with a hundred grains in each is seven hundred grains from a single seed. Ibn Kathir places beside the verse a report that Muslim narrates from Abu Mas'ud al-Ansari (RA): a man brought a haltered she-camel and said, \"This is in the way of Allah,\" and the Prophet ﷺ told him that on the Day of Resurrection he would have seven hundred she-camels, all of them haltered. The parable was not poetry alone; it was applied as a real rate.",
-            "bn": "হিসাবটি এমনভাবে বলা হয়েছে যেন তা কষে দেখা যায়: প্রতিটিতে একশত দানাসহ সাতটি শীষ মানে একটিমাত্র বীজ থেকে সাতশত দানা। ইবনে কাসীর আয়াতটির পাশে সেই বর্ণনাটি রাখেন যা মুসলিম আবু মাসউদ আল-আনসারী (রাঃ) থেকে বর্ণনা করেন: এক ব্যক্তি লাগামসহ একটি উটনী এনে বলল, \"এটি আল্লাহর পথে,\" আর নবী ﷺ তাকে বললেন, কিয়ামতের দিন সে পাবে সাতশত উটনী, সবগুলোই লাগামসহ। উপমাটি কেবল কাব্য ছিল না; একে বাস্তব হার হিসেবেই প্রয়োগ করা হয়েছিল।"
+            "bn": "হিসাবটা এমনভাবে বলা, যেন হাতে-কলমে কষে দেখা যায়: সাতটি শীষ, প্রতিটিতে একশো দানা, অর্থাৎ একটি বীজ থেকে সাতশো দানা। ইবনে কাসীর আয়াতটির পাশে একটি বর্ণনা রাখেন, যা ইমাম মুসলিম আবু মাসউদ আল-আনসারী (রাঃ) থেকে বর্ণনা করেছেন: এক ব্যক্তি লাগাম পরানো একটি উটনী এনে বলল, \"এটা আল্লাহর পথে।\" নবী ﷺ তাকে বললেন, কিয়ামতের দিন সে সাতশো উটনী পাবে, যার প্রত্যেকটির লাগাম পরানো থাকবে। অর্থাৎ উপমাটা শুধু কাব্য ছিল না, সত্যিকারের হার হিসেবেই একে ধরা হয়েছিল।"
           },
           {
             "en": "Then the verse refuses to close the ledger: and Allah multiplies for whom He wills. Seven hundred is a floor for this door of deeds, not a ceiling, and what lies beyond it is left to His will — tied, as-Sa'di explains, to the giver's faith and sincerity and to the benefit the gift actually brings. The verse ends with two names, al-Wasi' al-'Alim: His giving is vast enough to afford all of this, and He knows exactly who gave what, from what, and why.",
-            "bn": "এরপর আয়াতটি খাতা বন্ধ করতে অস্বীকার করে: আর আল্লাহ যাকে চান তার জন্য বহুগুণ বাড়িয়ে দেন। সাতশত এই আমলের দরজার নিচের সীমা, উপরের সীমা নয়, আর এর ঊর্ধ্বে যা আছে তা তাঁর ইচ্ছার হাতে ছেড়ে দেওয়া হয়েছে — আস-সা'দী ব্যাখ্যা করেন, তা যুক্ত দাতার ঈমান ও আন্তরিকতার সঙ্গে এবং দানটি বাস্তবে যে উপকার আনে তার সঙ্গে। আয়াত শেষ হয় দুটি নামে, আল-ওয়াসি' আল-'আলীম: তাঁর দান এত প্রশস্ত যে এই সবকিছু দেওয়া তাঁর পক্ষে সহজ, আর তিনি ঠিকঠিক জানেন কে কী দিল, কোথা থেকে দিল, কেন দিল।"
+            "bn": "এরপর আয়াত হিসাবের খাতা বন্ধ করে না: আর আল্লাহ যাকে চান, তার জন্য বহুগুণ বাড়িয়ে দেন। এই আমলের ক্ষেত্রে সাতশো হলো সর্বনিম্ন, সর্বোচ্চ নয়। এর ওপরে কতটা, তা তাঁর ইচ্ছার ওপর ছেড়ে দেওয়া। আস-সা'দী ব্যাখ্যা করেন, এটা নির্ভর করে দাতার ঈমান ও ইখলাসের ওপর, আর দানটা বাস্তবে কতটা উপকারে এল তার ওপর। আয়াত শেষ হয় দুটি নামে, আল-ওয়াসি' আল-'আলীম। তাঁর দান এত প্রশস্ত যে এ সবকিছু দেওয়া তাঁর জন্য কিছুই নয়, আর তিনি ঠিক ঠিক জানেন কে কী দিল, কোথা থেকে দিল, কেন দিল।"
           }
         ]
       },
@@ -5661,43 +5661,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What follows shows that the harvest can be lost after the sowing. In 2:262 those who spend and do not follow their gift with reminders of favour or with injury are promised their reward with their Lord, with no fear and no grief. In 2:264 charity followed by reminders and hurt is likened to rain falling on a smooth stone carrying a little soil — the downpour leaves it bare and hard. Spending plants the seed, but pride and cruelty afterwards can strip the whole field.",
-            "bn": "এরপরের আয়াতগুলো দেখায়, বপনের পরেও ফসল হারিয়ে যেতে পারে। 2:262 আয়াতে যারা ব্যয় করে এবং দানের পেছনে খোঁটা বা কষ্ট দেওয়া জুড়ে দেয় না, তাদের প্রতিশ্রুতি দেওয়া হয়েছে তাদের প্রভুর কাছে প্রতিদান, কোনো ভয় নেই, কোনো দুঃখও নেই। 2:264 আয়াতে খোঁটা ও কষ্ট দেওয়ায় অনুসৃত দানকে তুলনা করা হয়েছে সামান্য মাটি জমা মসৃণ পাথরের ওপর বৃষ্টির সঙ্গে — প্রবল বর্ষণ সেটিকে ন্যাড়া ও শক্ত করে রেখে যায়। ব্যয় বীজ রোপণ করে, কিন্তু পরবর্তী অহংকার ও নিষ্ঠুরতা গোটা ক্ষেত উজাড় করে দিতে পারে।"
+            "bn": "পরের আয়াতগুলো দেখায়, বীজ বোনার পরেও ফসল হাতছাড়া হতে পারে। ২:২৬২ আয়াতে বলা হয়েছে, যারা খরচ করে আর দানের পরে খোঁটা দেয় না, কষ্টও দেয় না, তাদের প্রতিদান তাদের রবের কাছে আছে, তাদের কোনো ভয় নেই, কোনো দুঃখও নেই। ২:২৬৪ আয়াত খোঁটা আর কষ্ট দেওয়া দানকে তুলনা করে সামান্য মাটি জমা মসৃণ পাথরের ওপর পড়া বৃষ্টির সঙ্গে: মুষলধারে বর্ষণ পাথরটাকে ন্যাড়া আর শক্ত করে রেখে যায়। খরচ করলে বীজ বোনা হয়, কিন্তু পরে অহংকার আর নিষ্ঠুরতা গোটা ক্ষেতটাই উজাড় করে দিতে পারে।"
           },
           {
             "en": "The passage then gives the opposite picture. In 2:265 those who spend seeking Allah's pleasure and the steadying of their own souls are like a garden on high ground: heavy rain doubles its fruit, and even a drizzle is enough for it. And in 2:271 both open and secret giving are honoured, with quiet giving to the poor called better for the giver. Read together, the passage teaches not only that we should give, but how a gift keeps its value once given.",
-            "bn": "অনুচ্ছেদটি এরপর বিপরীত ছবিটি দেয়। 2:265 আয়াতে যারা আল্লাহর সন্তুষ্টি ও নিজেদের আত্মার দৃঢ়তার খোঁজে ব্যয় করে, তারা উঁচু ভূমির এক বাগানের মতো: ভারী বৃষ্টি তার ফল দ্বিগুণ করে, আর গুঁড়িগুঁড়ি বৃষ্টিও তার জন্য যথেষ্ট। আর 2:271 আয়াতে প্রকাশ্য ও গোপন দুই দানই সম্মানিত, তবে গরিবকে নীরবে দেওয়া দাতার জন্য উত্তম বলা হয়েছে। একসাথে পড়লে অনুচ্ছেদটি শুধু এটুকু শেখায় না যে আমাদের দেওয়া উচিত, বরং এটাও শেখায় — দেওয়ার পরে একটি দান কীভাবে তার মূল্য ধরে রাখে।"
+            "bn": "এরপর আলোচনাটা উল্টো ছবিটা দেখায়। ২:২৬৫ আয়াতে বলা হয়েছে, যারা আল্লাহর সন্তুষ্টি চেয়ে আর নিজেদের মনকে মজবুত করতে খরচ করে, তারা উঁচু জমির এক বাগানের মতো: ভারী বৃষ্টি হলে তার ফল দ্বিগুণ হয়, আর গুঁড়ি গুঁড়ি বৃষ্টিই তার জন্য যথেষ্ট। ২:২৭১ আয়াতে প্রকাশ্য ও গোপন দুই দানেরই মর্যাদা দেওয়া হয়েছে, তবে গরিবকে চুপচাপ দেওয়াকে দাতার জন্য বেশি ভালো বলা হয়েছে। সব মিলিয়ে পড়লে এই আলোচনা শুধু এটুকু শেখায় না যে আমাদের দান করা উচিত। শেখায়, দেওয়ার পরেও দান কীভাবে তার মূল্য ধরে রাখে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Wider Economy of Giving",
-          "bn": "দানের বৃহত্তর অর্থনীতি"
+          "bn": "দানের বড় হিসাব"
         },
         "p": [
           {
             "en": "Other verses use the same daring language about the same act. In 2:245 spending is called a goodly loan to Allah, which He multiplies many times over; in 34:39 He promises that whatever you spend, He will replace it. The general rule for good deeds appears in 6:160 — whoever brings a good deed shall have ten times its like — while charity in this verse reaches seven hundred, which tells us how highly this particular deed ranks.",
-            "bn": "অন্য আয়াতগুলোও একই কাজ নিয়ে একই সাহসী ভাষা ব্যবহার করে। 2:245 আয়াতে ব্যয়কে বলা হয়েছে আল্লাহকে দেওয়া উত্তম ঋণ, যা তিনি বহুগুণে বাড়িয়ে দেন; 34:39 আয়াতে তিনি প্রতিশ্রুতি দেন, তোমরা যা-ই ব্যয় করবে তিনি তার বিনিময় দেবেন। নেক আমলের সাধারণ নিয়মটি আছে 6:160 আয়াতে — যে একটি সৎকাজ আনবে সে পাবে তার দশ গুণ — অথচ এই আয়াতে দান পৌঁছে যায় সাতশতে, যা বলে দেয় এই বিশেষ আমলটির মর্যাদা কত উঁচুতে।"
+            "bn": "অন্য আয়াতগুলোও এই একই আমল নিয়ে একই রকম সাহসী ভাষা ব্যবহার করে। ২:২৪৫ আয়াতে খরচ করাকে বলা হয়েছে আল্লাহকে উত্তম ঋণ দেওয়া, যা তিনি বহুগুণ বাড়িয়ে দেন। ৩৪:৩৯ আয়াতে তিনি ওয়াদা করেন, তোমরা যা-ই খরচ করো, তিনি তার বিনিময় দেবেন। নেক আমলের সাধারণ নিয়মটা আছে ৬:১৬০ আয়াতে: কেউ একটি নেকি নিয়ে এলে তার দশ গুণ পাবে। অথচ এই আয়াতে দানের প্রতিদান গিয়ে ঠেকে সাতশোতে। এ থেকেই বোঝা যায়, এই আমলটির মর্যাদা কত উঁচু।"
           },
           {
             "en": "The Prophet ﷺ said, in a hadith that Muslim narrates, that charity does not diminish wealth. And al-Bukhari narrates that two angels descend every morning, one praying, \"O Allah, give the one who spends a replacement,\" and the other, \"O Allah, give the one who withholds ruin.\" The seed-picture of 2:261 makes the same claim as an image: what has left the hand has not left the ledger, and the only spending that is truly gone is the spending that never happened.",
-            "bn": "নবী ﷺ বলেছেন — হাদীসটি মুসলিম বর্ণনা করেন — দান সম্পদ কমায় না। আর আল-বুখারী বর্ণনা করেন, প্রতিদিন সকালে দুজন ফেরেশতা নেমে আসেন; একজন দোয়া করেন, \"হে আল্লাহ, ব্যয়কারীকে বিনিময় দিন,\" আর অন্যজন, \"হে আল্লাহ, কৃপণকে ধ্বংস দিন।\" 2:261 আয়াতের বীজ-চিত্র একই দাবিকে ছবিতে রূপ দেয়: যা হাত থেকে গেছে তা হিসাবের খাতা থেকে যায়নি, আর প্রকৃত অর্থে হারিয়ে যাওয়া ব্যয় কেবল সেটাই — যে ব্যয় কখনো করাই হয়নি।"
+            "bn": "ইমাম মুসলিমের বর্ণিত হাদিসে নবী ﷺ বলেছেন, দান সম্পদ কমায় না। আর ইমাম বুখারী বর্ণনা করেছেন, প্রতিদিন সকালে দুজন ফেরেশতা নামেন। একজন দোয়া করেন, \"হে আল্লাহ, যে খরচ করে তাকে বিনিময় দিন,\" আর অন্যজন বলেন, \"হে আল্লাহ, যে আটকে রাখে তাকে ধ্বংস দিন।\" ২:২৬১ আয়াতের বীজের ছবি একই কথা বলে উপমার ভাষায়: যা হাত থেকে চলে গেছে, তা হিসাবের খাতা থেকে মুছে যায়নি। সত্যিকারের হারানো খরচ কেবল সেটাই, যা কখনো করাই হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "Living the Parable",
-          "bn": "উপমাটি যাপন করা"
+          "bn": "উপমাটা জীবনে আনা"
         },
         "p": [
           {
             "en": "A farmer does not grieve when the seed leaves his hand and disappears under the soil; he calls that day the beginning of the crop, not the loss of the grain. The verse asks the giver to feel the same way at the exact moment of parting with money, which is precisely the moment giving hurts. It also frees the small giver: a single grain is a tiny thing, and it is exactly the tiny thing that the parable chooses to magnify seven hundredfold.",
-            "bn": "কৃষক দুঃখ করে না যখন বীজ তার হাত ছেড়ে মাটির নিচে অদৃশ্য হয়; সে ওই দিনটিকে বলে ফসলের শুরু, দানা হারানো নয়। আয়াতটি দাতাকে ঠিক সেই অনুভূতিটিই চায় টাকা হাতছাড়া করার মুহূর্তে — যা কিনা ঠিক সেই মুহূর্ত যখন দান করা কষ্ট দেয়। এটি ছোট দাতাকেও মুক্ত করে: একটিমাত্র দানা অতি ক্ষুদ্র জিনিস, আর ঠিক সেই ক্ষুদ্র জিনিসটিকেই উপমাটি সাতশত গুণে বড় করে দেখায়।"
+            "bn": "বীজ হাত থেকে ছেড়ে মাটির নিচে হারিয়ে গেলে কৃষক দুঃখ করে না। সে ওই দিনটাকে বলে ফসলের শুরু, দানা হারানোর দিন নয়। আয়াতটি দাতার কাছে ঠিক এই অনুভূতিই চায়, টাকা হাতছাড়া করার সেই মুহূর্তে, যখন দান করতে সবচেয়ে বেশি কষ্ট লাগে। আয়াতটি ছোট দাতাকেও সংকোচ থেকে মুক্তি দেয়। একটি দানা খুবই সামান্য জিনিস, আর উপমাটি ঠিক সেই সামান্য জিনিসটিকেই সাতশো গুণ বাড়িয়ে দেখায়।"
           },
           {
             "en": "The open clause — Allah multiplies for whom He wills — turns attention from the amount to the giver. Two people may give the same coin and sow very different harvests. So the practical work of this verse is inward and outward at once: find something to give today, keep it free of reminders and of show, and let the mathematics of seven ears and a hundred grains, together with whatever lies beyond them, remain what the verse leaves it — Allah's own business.",
-            "bn": "খোলা বাক্যাংশটি — আল্লাহ যাকে চান তার জন্য বহুগুণ বাড়িয়ে দেন — মনোযোগকে অঙ্ক থেকে দাতার দিকে ফেরায়। দুজন মানুষ একই মুদ্রা দান করে খুব ভিন্ন ফসল বুনতে পারে। তাই এই আয়াতের ব্যবহারিক কাজ একই সঙ্গে ভেতরের ও বাইরের: আজ দেওয়ার মতো কিছু খুঁজে নিন, তাকে খোঁটা ও লোকদেখানো থেকে মুক্ত রাখুন, আর সাত শীষ ও একশত দানার গণিতকে — এবং তার ঊর্ধ্বে যা কিছু আছে তাকে — সেখানেই থাকতে দিন যেখানে আয়াত রেখেছে: আল্লাহর নিজের এখতিয়ারে।"
+            "bn": "আয়াতের খোলা অংশটি, আল্লাহ যাকে চান তার জন্য বহুগুণ বাড়িয়ে দেন, মনোযোগ সরিয়ে নেয় পরিমাণ থেকে দাতার দিকে। দুজন মানুষ একই মুদ্রা দান করে একেবারে আলাদা ফসল বুনতে পারে। তাই এই আয়াতের আমল একই সঙ্গে ভেতরের আর বাইরের। আজ দেওয়ার মতো কিছু খুঁজে নিন। সেটাকে খোঁটা আর লোক দেখানো থেকে মুক্ত রাখুন। আর সাত শীষ ও একশো দানার হিসাব, তার ওপরে যা কিছু আছে তা-সহ, আয়াত যেখানে রেখেছে সেখানেই থাকতে দিন: সেটা আল্লাহর নিজের ব্যাপার।"
           }
         ]
       }
@@ -5773,7 +5773,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other half of the verse, spending to be seen by people, has its own warning in a hadith that Muslim records from Abu Hurayrah (RA) about the first people to be judged on the Day of Resurrection. Among them is a man to whom Allah gave wealth of every kind. He is asked what he did with it and says he spent in every path in which Allah loves spending. He is told that he lied: he gave so that it would be said he is generous, and it was said. Then he is dragged on his face into the Fire.",
-            "bn": "আয়াতের অন্য অংশ, মানুষকে দেখানোর জন্য খরচ, তার আলাদা সতর্কবার্তা আছে একটি হাদিসে। ইমাম মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, কিয়ামতের দিন সবার আগে যাদের বিচার হবে তাদের মধ্যে আছে এক ব্যক্তি, যাকে আল্লাহ সব রকমের সম্পদ দিয়েছিলেন। তাকে জিজ্ঞেস করা হবে, সে সম্পদ দিয়ে কী করেছে। সে বলবে, আল্লাহ যে যে পথে খরচ ভালোবাসেন তার প্রতিটিতে খরচ করেছে। তাকে বলা হবে, তুমি মিথ্যা বলেছ, তুমি দিয়েছিলে যাতে লোকে বলে লোকটা দানশীল, আর তা বলা হয়ে গেছে। তারপর তাকে উপুড় করে টেনে আগুনে ফেলা হবে।"
+            "bn": "আয়াতের বাকি অর্ধেক, মানুষকে দেখানোর জন্য খরচ করা, তা নিয়ে আলাদা সতর্কবার্তা আছে একটি হাদিসে। ইমাম মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, কিয়ামতের দিন সবার আগে যাদের বিচার হবে তাদের মধ্যে আছে এক ব্যক্তি, যাকে আল্লাহ সব রকমের সম্পদ দিয়েছিলেন। তাকে জিজ্ঞেস করা হবে, সে সম্পদ দিয়ে কী করেছে। সে বলবে, আল্লাহ যে যে পথে খরচ ভালোবাসেন তার প্রতিটিতে খরচ করেছে। তাকে বলা হবে, তুমি মিথ্যা বলেছ, তুমি দিয়েছিলে যাতে লোকে বলে লোকটা দানশীল, আর তা বলা হয়ে গেছে। তারপর তাকে উপুড় করে টেনে আগুনে ফেলা হবে।"
           }
         ]
       },
@@ -5837,7 +5837,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Which of my past gifts would I be ashamed for the person who received it to hear me mention? When I help someone, what do I quietly expect in return: thanks, loyalty, deference, a reputation? If I knew for certain that nobody would ever learn what I gave this year, would the amount change? Have I ever made someone stand, wait, explain or be photographed as the price of what I gave them?",
-            "bn": "আমার আগের কোন দানের কথা আমি মুখে আনলে গ্রহীতা শুনে ফেললে আমার লজ্জা লাগবে? কাউকে সাহায্য করলে বিনিময়ে চুপচাপ কী আশা করি: ধন্যবাদ, আনুগত্য, সমীহ, নাকি সুনাম? যদি নিশ্চিত জানতাম, এ বছর কী দিয়েছি তা কেউ কোনো দিন জানবে না, তাহলে কি পরিমাণটা বদলে যেত? কাউকে কি কখনো দাঁড় করিয়ে রেখে, অপেক্ষা করিয়ে, কৈফিয়ত চেয়ে বা ছবি তুলে আমার দানের দাম আদায় করেছি?"
+            "bn": "আমার আগের কোন দানের কথা মুখে আনতে আমার লজ্জা লাগবে, যদি গ্রহীতা তা শুনে ফেলে? কাউকে সাহায্য করলে বিনিময়ে চুপচাপ কী আশা করি: ধন্যবাদ, আনুগত্য, সমীহ, নাকি সুনাম? যদি নিশ্চিত জানতাম, এ বছর কী দিয়েছি তা কেউ কোনো দিন জানবে না, তাহলে কি পরিমাণটা বদলে যেত? কাউকে কি কখনো দাঁড় করিয়ে রেখে, অপেক্ষা করিয়ে, কৈফিয়ত চেয়ে বা ছবি তুলে আমার দানের দাম আদায় করেছি?"
           },
           {
             "en": "Is the ground of my heart soil, or stone under a thin layer of soil, and what did the last heavy rain in my life reveal about it? When I cannot give without resentment, do I at least offer the kind word and the pardon that 2:263 calls better? And is there a gift I have already spoiled with reminders, for which I should now ask Allah's forgiveness and the pardon of the one I hurt?",
