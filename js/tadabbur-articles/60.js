@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir names the story behind the opening of al-Mumtahanah: the account of Hatib ibn Abi Balta'ah (RA), one of the early Emigrants and a man who fought at Badr. He had children and wealth in Makkah but was not of Quraysh by descent. When the Messenger of Allah ﷺ resolved to march on Makkah after its people broke the treaty, he ordered the Muslims to prepare and prayed: O Allah, keep our news hidden from them.",
-            "bn": "সূরা মুমতাহিনার শুরুর পেছনের ঘটনাটি কার, ইবন কাসীর নাম ধরে বলেন: এটি হাতিব ইবনে আবি বালতাআ (রাঃ)-এর ঘটনা। তিনি প্রথম দিকের মুহাজিরদের একজন, বদরের যুদ্ধেও ছিলেন। মক্কায় তাঁর সন্তান ও সম্পদ ছিল, কিন্তু বংশে তিনি কুরাইশ ছিলেন না। মক্কাবাসী চুক্তি ভঙ্গ করার পর রাসূলুল্লাহ ﷺ যখন মক্কা অভিযানের সিদ্ধান্ত নিলেন, মুসলিমদের প্রস্তুত হতে বললেন। আর দোয়া করলেন: হে আল্লাহ, আমাদের খবর তাদের কাছ থেকে গোপন রাখুন।"
+            "bn": "ইবন কাসীর সূরা মুমতাহিনার শুরুর পেছনের ঘটনাটি নাম ধরেই বলেছেন: হাতিব ইবনে আবি বালতাআ (রাঃ)-এর ঘটনা। তিনি প্রথম দিকের মুহাজিরদের একজন, বদরের যুদ্ধেও ছিলেন। মক্কায় তাঁর সন্তান ও সম্পদ ছিল, কিন্তু বংশে তিনি কুরাইশ ছিলেন না। মক্কাবাসী চুক্তি ভঙ্গ করার পর রাসূলুল্লাহ ﷺ মক্কা অভিযানের সিদ্ধান্ত নিলেন। তিনি মুসলিমদের প্রস্তুত হতে বললেন, আর দোয়া করলেন: হে আল্লাহ, আমাদের খবর তাদের কাছ থেকে গোপন রাখুন।"
           },
           {
             "en": "Hatib wrote to the people of Makkah telling them what the Prophet ﷺ intended, and sent the letter with a woman. His aim, Ibn Kathir says, was to have a favour owed to him there, so that they would keep his family safe, and Allah informed His Messenger in answer to that prayer. The reports differ on the woman. In Ibn Ishaq's account, which at-Tabari carries, one narrator made her a woman of Muzaynah and another named her Sarah, a freedwoman of one of the Banu Abd al-Muttalib; al-Qurtubi and al-Baghawi call her Sarah.",
@@ -169,11 +169,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Mumtahanah opens in 60:1 by forbidding the believers to take the enemies of Allah as allies, and it keeps that register: 60:4 holds up Ibrahim (AS) and those with him as an example of open disassociation from their own people. Then 60:7 turns and offers hope, that perhaps Allah will place affection between you and those you have treated as enemies. Severity and hope are both already on the page when 60:8 arrives immediately after that promise.",
-            "bn": "সূরা আল-মুমতাহিনা শুরু হয় 60:1 দিয়ে, যেখানে মুমিনদের নিষেধ করা হয় আল্লাহর শত্রুদের বন্ধুরূপে গ্রহণ করতে; আর সূরাটি সেই কঠোর সুর ধরে রাখে — 60:4-এ ইবরাহীম (আঃ) ও তাঁর সঙ্গীদের তুলে ধরা হয় নিজের জাতি থেকে প্রকাশ্যে বিচ্ছিন্ন হওয়ার আদর্শ হিসেবে। এরপর 60:7 মোড় ঘুরিয়ে আশার কথা বলে: হয়তো আল্লাহ তোমাদের ও যাদের সঙ্গে তোমাদের শত্রুতা, তাদের মধ্যে ভালোবাসা সৃষ্টি করে দেবেন। কঠোরতা ও আশা — দুটোই পাতায় উপস্থিত, আর ঠিক সেই প্রতিশ্রুতির পরেই আসে 60:8।"
+            "bn": "সূরা মুমতাহিনা শুরুই হয় নিষেধ দিয়ে: ৬০:১ মুমিনদের আল্লাহর শত্রুদের বন্ধু বানাতে নিষেধ করে। সূরাটি সেই কঠোর সুরেই এগোয়। ৬০:৪ ইবরাহীম (আঃ) ও তাঁর সঙ্গীদের আদর্শ হিসেবে সামনে আনে, যাঁরা নিজেদের জাতির সঙ্গে প্রকাশ্যে সম্পর্ক ছিন্ন করেছিলেন। তারপর ৬০:৭ মোড় ঘুরিয়ে আশার কথা শোনায়: হয়তো আল্লাহ তোমাদের আর যাদের সঙ্গে তোমাদের শত্রুতা, তাদের মাঝে ভালোবাসা তৈরি করে দেবেন। কাজেই ঠিক সেই প্রতিশ্রুতির পরে যখন ৬০:৮ আসে, কঠোরতা আর আশা দুটোই তখন পাতায় হাজির।"
           },
           {
             "en": "The wording is not a fresh command. It is a negated prohibition: la yanhakumu Allahu, Allah does not forbid you. A sentence built that way answers a question somebody was already asking. Believers who had just been told to cut their alliances with a hostile Makkah needed to know how far the cutting ran, and whether ordinary decency toward peaceable relatives and neighbours had now become a fault. This verse clears them, and it names exactly whom it clears.",
-            "bn": "আয়াতটির গঠন কোনো নতুন আদেশ নয়। এটি একটি নেতিবাচক নিষেধাজ্ঞা: লা ইয়ানহাকুমুল্লাহু — আল্লাহ তোমাদের নিষেধ করেন না। এভাবে গড়া বাক্য এমন প্রশ্নের উত্তর দেয় যা কেউ ইতিমধ্যেই করছিল। যেসব মুমিনকে সবেমাত্র বলা হয়েছে শত্রুভাবাপন্ন মক্কার সঙ্গে বন্ধুত্ব ছিন্ন করতে, তাঁদের জানা দরকার ছিল এই ছিন্নতা কত দূর যায় — শান্তিপ্রিয় আত্মীয় ও প্রতিবেশীর সঙ্গে সাধারণ শিষ্টাচারও কি এখন অপরাধ? আয়াতটি তাঁদের নিষ্কৃতি দেয়, এবং কাদের দেয় তা স্পষ্ট করে বলে দেয়।"
+            "bn": "আয়াতটি নতুন কোনো আদেশ নয়। এখানে বলা হচ্ছে, নিষেধ নেই: লা ইয়ানহাকুমুল্লাহু, আল্লাহ তোমাদের নিষেধ করেন না। এভাবে গড়া বাক্য এমন এক প্রশ্নের জবাব দেয়, যা মানুষ আগে থেকেই করছিল। মুমিনদের সবে বলা হয়েছে, শত্রু মক্কার সঙ্গে মৈত্রী ছিন্ন করতে হবে। তাঁদের জানা দরকার ছিল, এই ছিন্ন করা কত দূর যাবে। শান্তিপ্রিয় আত্মীয় আর প্রতিবেশীর সঙ্গে সাধারণ ভদ্রতাও কি এখন দোষ হয়ে গেল? আয়াতটি তাঁদের দায়মুক্ত করে, আর ঠিক কাদের ব্যাপারে দায়মুক্ত করে, তা-ও স্পষ্ট বলে দেয়।"
           }
         ]
       },
@@ -185,11 +185,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two things are permitted, and the Arabic names them with two different vocabularies. Tabarruhum comes from birr, the warm word the Quran uses for what is owed to parents: 19:14 describes Yahya (AS) as barran toward his parents, and in 19:32 Isa (AS) says the same of himself toward his mother. Wa tuqsitu ilayhim comes from qist, the cold word of weights, shares and verdicts. Warmth and measurement are cleared in a single breath.",
-            "bn": "দুটি জিনিসের অনুমতি দেওয়া হয়েছে, আর আরবি সে দুটিকে নাম দেয় দুই ভিন্ন শব্দভাণ্ডার থেকে। 'তাবার্রূহুম' এসেছে বির্র থেকে — কুরআন যে উষ্ণ শব্দটি পিতামাতার হক বোঝাতে ব্যবহার করে: 19:14-এ ইয়াহইয়া (আঃ)-কে বলা হয়েছে পিতামাতার প্রতি 'বাররান', আর 19:32-এ ঈসা (আঃ) নিজের মায়ের প্রতি নিজের সম্পর্কে একই কথা বলেন। আর 'ওয়া তুক্‌সিতূ ইলাইহিম' এসেছে কিস্‌ত থেকে — ওজন, ভাগ ও রায়ের শীতল শব্দ। উষ্ণতা ও পরিমাপ, দুটোরই অনুমতি এক নিঃশ্বাসে।"
+            "bn": "দুটি জিনিসের অনুমতি দেওয়া হয়েছে, আর আরবিতে দুটির নাম এসেছে দুই আলাদা শব্দ-জগৎ থেকে। 'তাবার্রূহুম' এসেছে বির্র থেকে। এটি উষ্ণ শব্দ, বাবা-মায়ের হক বোঝাতে কুরআন এ শব্দই ব্যবহার করে। ১৯:১৪ ইয়াহইয়া (আঃ)-কে বলে বাবা-মায়ের প্রতি 'বাররান', আর ১৯:৩২-এ ঈসা (আঃ) মায়ের প্রতি নিজের সম্পর্কে একই কথা বলেন। 'ওয়া তুক্‌সিতূ ইলাইহিম' এসেছে কিস্‌ত থেকে। এটি ওজন, ভাগ-বাটোয়ারা আর রায়ের শীতল শব্দ। উষ্ণতা আর মাপজোখ, দুটোরই অনুমতি এক নিঃশ্বাসে।"
           },
           {
             "en": "That root has a striking property. In its plain form it means to deviate and act crookedly: the jinn in 72:14 divide themselves into the Muslims among them and al-qasitun, and 72:15 says the qasitun are firewood for Hell. The fourth form used here, aqsata, reverses the sense into giving people their due. The verse uses that fourth form twice, in the verb tuqsitu and again in the closing word, al-muqsitin, those who act justly.",
-            "bn": "এই মূলধাতুটির একটি লক্ষণীয় বৈশিষ্ট্য আছে। সাধারণ রূপে এর অর্থ বাঁকা পথে যাওয়া ও অন্যায় করা: 72:14-এ জিনেরা নিজেদের ভাগ করে বলে, আমাদের মধ্যে মুসলিমও আছে, আর আছে 'আল-কাসিতূন'; আর 72:15 বলে, সেই কাসিতূনরা জাহান্নামের ইন্ধন। কিন্তু এখানে ব্যবহৃত চতুর্থ বাব 'আক্‌সাতা' অর্থ উল্টে দিয়ে দাঁড় করায় — মানুষকে তার প্রাপ্য দেওয়া। আয়াতটি এই চতুর্থ রূপ দুবার ব্যবহার করে: ক্রিয়াপদ 'তুক্‌সিতূ'-তে, আর শেষ শব্দ 'আল-মুক্‌সিতীন'-এ — যারা ন্যায়বিচার করে।"
+            "bn": "এই ধাতুর একটা চোখে পড়ার মতো বৈশিষ্ট্য আছে। এর সাধারণ রূপের অর্থ বেঁকে যাওয়া, অন্যায় করা। ৭২:১৪-এ জিনেরা নিজেদের দুই ভাগ করে: আমাদের কেউ মুসলিম, আর কেউ 'আল-কাসিতূন'। ৭২:১৫ বলে, সেই কাসিতূনরা জাহান্নামের জ্বালানি। কিন্তু এখানে যে চতুর্থ রূপ 'আক্‌সাতা' এসেছে, তা অর্থটাকে উল্টে দেয়: মানুষকে তার প্রাপ্য বুঝিয়ে দেওয়া। আয়াতে এই চতুর্থ রূপ এসেছে দুবার: ক্রিয়া 'তুক্‌সিতূ'-তে, আর শেষ শব্দ 'আল-মুক্‌সিতীন'-এ, অর্থাৎ যারা ন্যায় করে।"
           }
         ]
       },
@@ -201,11 +201,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse must be read with the one that follows it. 60:9 comes immediately after and uses the restrictive innama: Allah only forbids you, concerning those who fought you over religion, drove you from your homes and backed your expulsion, that you take them as allies. Read as a pair, the two verses sort people by conduct rather than by creed, and what 60:9 forbids is one specific thing, tawalli, alliance and patronage, not decency and not fairness.",
-            "bn": "আয়াতটি পড়তে হবে তার পরের আয়াতের সঙ্গে মিলিয়ে। ঠিক পরেই আসা 60:9 ব্যবহার করে সীমাবদ্ধকারী শব্দ 'ইন্নামা': আল্লাহ কেবল তাদের ব্যাপারেই নিষেধ করেন — যারা দীনের কারণে তোমাদের সঙ্গে যুদ্ধ করেছে, তোমাদের ঘর থেকে বের করেছে ও বের করায় সাহায্য করেছে — তাদের বন্ধুরূপে গ্রহণ করতে। জোড়া হিসেবে পড়লে দুই আয়াত মানুষকে ভাগ করে আচরণ দিয়ে, বিশ্বাস দিয়ে নয়; আর 60:9 নিষেধ করে একটি নির্দিষ্ট জিনিস — 'তাওয়াল্লী', অর্থাৎ মৈত্রী ও পৃষ্ঠপোষকতা — সদাচরণ বা ন্যায়বিচার নয়।"
+            "bn": "আয়াতটি পরের আয়াতের সঙ্গে মিলিয়েই পড়তে হবে। ঠিক পরের আয়াত ৬০:৯ সীমা টানার শব্দ 'ইন্নামা' দিয়ে বলে: আল্লাহ শুধু নিষেধ করেন তাদের বন্ধু বানাতে, যারা দ্বীনের কারণে তোমাদের সঙ্গে যুদ্ধ করেছে, তোমাদের ঘর থেকে বের করে দিয়েছে আর বের করে দিতে সাহায্য করেছে। দুটো আয়াত একসঙ্গে পড়লে দেখা যায়, মানুষকে ভাগ করা হচ্ছে আচরণ দেখে, বিশ্বাস দেখে নয়। আর ৬০:৯ যা নিষেধ করে, তা একটাই নির্দিষ্ট জিনিস: 'তাওয়াল্লী', মানে মৈত্রী ও পৃষ্ঠপোষকতা। ভদ্র ব্যবহার বা ন্যায় আচরণ নিষেধ নয়।"
           },
           {
             "en": "So the permission is neither unqualified nor narrow. It is bounded by a description the verse states for itself: those who did not fight you over religion and did not expel you. Some early commentators held that a later command to fight overrode this verse; at-Tabari reads it as standing and general. Either way the Quran keeps the principle elsewhere, since 5:8 forbids letting hatred of a people push you away from justice at all.",
-            "bn": "কাজেই অনুমতিটি না শর্তহীন, না সংকীর্ণ। এর সীমা টেনে দিয়েছে আয়াতের নিজেরই বর্ণনা: যারা দীনের কারণে তোমাদের সঙ্গে যুদ্ধ করেনি এবং তোমাদের বের করে দেয়নি। প্রাচীন কিছু মুফাসসির মনে করতেন, পরবর্তী যুদ্ধের নির্দেশ এই আয়াতকে রহিত করেছে; ইমাম তাবারী একে বহাল ও সাধারণ হিসেবেই পড়েন। যেভাবেই দেখা হোক, কুরআন নীতিটি অন্যত্রও ধরে রাখে — 5:8 নিষেধ করে কোনো জাতির প্রতি বিদ্বেষ যেন তোমাদের ন্যায়বিচার থেকে একটুও সরিয়ে না দেয়।"
+            "bn": "তাই অনুমতিটা শর্তহীনও নয়, সংকীর্ণও নয়। এর সীমা আয়াত নিজেই বলে দিয়েছে: যারা দ্বীনের কারণে তোমাদের সঙ্গে যুদ্ধ করেনি আর তোমাদের ঘর থেকে বের করে দেয়নি। আগের যুগের কিছু মুফাসসির মনে করতেন, পরে আসা যুদ্ধের নির্দেশ এই আয়াতকে রহিত করে দিয়েছে। তাবারী অবশ্য আয়াতটিকে বহাল ও সাধারণ বলেই পড়েন। যেভাবেই দেখুন, কুরআন অন্য জায়গাতেও নীতিটা ধরে রেখেছে। ৫:৮ নিষেধ করে, কোনো জাতির প্রতি বিদ্বেষ যেন তোমাদের ন্যায় থেকে একটুও সরিয়ে না দেয়।"
           }
         ]
       },
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari and Muslim narrate from Asma bint Abi Bakr (RA) that her mother came to her while still a polytheist, during the period of the treaty, and Asma asked the Prophet ﷺ whether she should keep ties with her. He told her to keep ties with her mother. The mufassirun regularly set this report beside our verse, and it is the verse in miniature: one named person, one real relationship, and the answer yes.",
-            "bn": "ইমাম বুখারী ও ইমাম মুসলিম আসমা বিনতে আবু বকর (রাঃ) থেকে বর্ণনা করেন যে সন্ধির সময়কালে তাঁর মা — তখনো মুশরিক — তাঁর কাছে আসেন, আর আসমা নবী ﷺ-কে জিজ্ঞেস করেন, তিনি কি তাঁর সঙ্গে আত্মীয়তার সম্পর্ক রাখবেন। নবী ﷺ তাঁকে মায়ের সঙ্গে সম্পর্ক বজায় রাখতে বলেন। মুফাসসিরগণ নিয়মিতভাবে এই বর্ণনাটি এই আয়াতের পাশে রাখেন, আর এটি যেন আয়াতটিরই ক্ষুদ্র সংস্করণ: একজন নির্দিষ্ট মানুষ, একটি বাস্তব সম্পর্ক, আর উত্তর — হ্যাঁ।"
+            "bn": "বুখারী ও মুসলিম আসমা বিনতে আবু বকর (রাঃ) থেকে বর্ণনা করেন: সন্ধির সময়ে তাঁর মা তাঁর কাছে এলেন, তিনি তখনো মুশরিক। আসমা নবী ﷺ-কে জিজ্ঞেস করলেন, মায়ের সঙ্গে কি সম্পর্ক রাখবেন? নবী ﷺ তাঁকে মায়ের সঙ্গে সম্পর্ক রাখতে বললেন। মুফাসসিররা প্রায়ই এই বর্ণনাটি এই আয়াতের পাশে রাখেন। বর্ণনাটি যেন ছোট্ট আকারে পুরো আয়াতটাই: নির্দিষ্ট একজন মানুষ, সত্যিকারের একটি সম্পর্ক, আর উত্তর হলো, হ্যাঁ।"
           }
         ]
       },
@@ -229,23 +229,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends on a clause the Quran repeats. Inna Allaha yuhibbu al-muqsitin also closes 5:42, where the Prophet ﷺ is told that if he judges between them he must judge with justice, and it closes 49:9, on reconciling two warring parties of believers. Three settings — a courtroom, a quarrel inside the community, and dealings with outsiders — and one identical ending. The love is attached to the conduct, not to the standing of whoever receives it.",
-            "bn": "আয়াতটি শেষ হয় এমন এক বাক্যাংশে যা কুরআন একাধিকবার বলে। 'ইন্নাল্লাহা ইউহিব্বুল মুক্‌সিতীন' 5:42-এর শেষেও আছে, যেখানে নবী ﷺ-কে বলা হয়েছে তিনি যদি তাদের মধ্যে বিচার করেন তবে ন্যায়ের সঙ্গেই করবেন; আর তা শেষ করে 49:9-কেও, যা মুমিনদের দুই বিবদমান দলের মধ্যে মীমাংসার কথা বলে। তিনটি প্রেক্ষাপট — আদালত, সম্প্রদায়ের ভেতরের ঝগড়া, আর বাইরের মানুষের সঙ্গে লেনদেন — আর শেষটি একই। ভালোবাসা যুক্ত আচরণের সঙ্গে, যে তা পাচ্ছে তার মর্যাদার সঙ্গে নয়।"
+            "bn": "আয়াতটি শেষ হয় এমন একটি বাক্যে, যা কুরআনে একাধিকবার এসেছে। 'ইন্নাল্লাহা ইউহিব্বুল মুক্‌সিতীন' ৫:৪২-এর শেষেও আছে। সেখানে নবী ﷺ-কে বলা হয়েছে, তিনি যদি তাদের মধ্যে বিচার করেন, তবে যেন ন্যায়ের সঙ্গেই করেন। ৪৯:৯-ও শেষ হয় এই বাক্যে, সেখানে কথা হচ্ছে মুমিনদের দুই বিবদমান দলের মধ্যে মীমাংসা নিয়ে। প্রেক্ষাপট তিনটি: আদালত, মুসলিমদের নিজেদের ভেতরের ঝগড়া, আর বাইরের মানুষের সঙ্গে লেনদেন। অথচ শেষ কথা হুবহু এক। ভালোবাসা জুড়ে আছে আচরণের সঙ্গে; যে এই আচরণ পায়, তার মর্যাদার সঙ্গে নয়।"
           },
           {
             "en": "Muslim narrates from Abdullah ibn Amr (RA) that the Prophet ﷺ said those who are just will be with Allah upon pulpits of light: those who are just in their judgement, with their families, and in what they are given charge of. Notice where the hadith places justice. It is not confined to a bench. It follows a person home, and the household is listed alongside the courtroom as somewhere the same quality is either practised or dropped.",
-            "bn": "ইমাম মুসলিম আবদুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: ন্যায়পরায়ণরা আল্লাহর কাছে নূরের মিম্বরের উপর থাকবে — যারা তাদের বিচারে, তাদের পরিবারে এবং যা তাদের দায়িত্বে দেওয়া হয়েছে তাতে ন্যায় করে। লক্ষ করুন হাদীসটি ন্যায়বিচারকে কোথায় রাখে। এটি কেবল বিচারাসনে সীমাবদ্ধ নয়। এটি মানুষের সঙ্গে ঘর পর্যন্ত যায়, আর পরিবারকে আদালতের পাশেই রাখা হয় — একই গুণ সেখানেও হয় পালিত হয়, নয়তো পরিত্যক্ত হয়।"
+            "bn": "মুসলিম আবদুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: ন্যায়পরায়ণরা আল্লাহর কাছে নূরের মিম্বরে থাকবে; তারা, যারা বিচারে, নিজের পরিবারে আর যে দায়িত্ব তাদের হাতে দেওয়া হয়েছে তাতে ন্যায় করে। খেয়াল করুন, হাদিসটি ন্যায়কে কোথায় রাখে। তা শুধু বিচারকের আসনে আটকে নেই। মানুষ ঘরে ফিরলে ন্যায়ও তার সঙ্গে ঘরে যায়। আদালতের পাশেই পরিবারের নাম এসেছে: এই একই গুণ সেখানেও হয় চর্চা হয়, নয়তো বাদ পড়ে যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Where It Bites Now",
-          "bn": "আজ এটি কোথায় লাগে"
+          "bn": "আজ কোথায় এসে লাগে"
         },
         "p": [
           {
             "en": "Few readers will ever sign a treaty, but this verse's test is easy to run. Take someone whose beliefs you hold to be false and who has never harmed you: a neighbour, a colleague, a landlord, a relative who left the religion. The verse says two things about them. You are cleared to be warm, and you are bound to be exact, because the qist that governs wages, receipts, inheritance shares and testimony does not shift with the other party's faith.",
-            "bn": "খুব কম পাঠকই কখনো কোনো সন্ধিপত্রে সই করবেন, তবু এই আয়াতের পরীক্ষাটি সহজেই চালানো যায়। এমন কাউকে ভাবুন যার বিশ্বাসকে আপনি ভুল মনে করেন, অথচ যে কখনো আপনার ক্ষতি করেনি: একজন প্রতিবেশী, একজন সহকর্মী, বাড়িওয়ালা, কিংবা দীন ছেড়ে যাওয়া কোনো আত্মীয়। আয়াতটি তাদের সম্পর্কে দুটি কথা বলে। উষ্ণ হওয়ার অনুমতি আপনার আছে, আর নির্ভুল হওয়া আপনার দায়িত্ব — কারণ মজুরি, রসিদ, উত্তরাধিকারের ভাগ ও সাক্ষ্য যে কিস্‌ত দিয়ে চলে, তা অপর পক্ষের ধর্ম দেখে বদলায় না।"
+            "bn": "খুব কম পাঠকই জীবনে কখনো সন্ধিপত্রে সই করবেন। তবে এই আয়াতের পরীক্ষাটা সহজেই নিজের উপর চালানো যায়। এমন একজনের কথা ভাবুন, যার বিশ্বাসকে আপনি ভুল মনে করেন, অথচ সে কখনো আপনার ক্ষতি করেনি: প্রতিবেশী, সহকর্মী, বাড়িওয়ালা, কিংবা দ্বীন ছেড়ে যাওয়া কোনো আত্মীয়। আয়াতটি তাদের ব্যাপারে দুটি কথা বলে। তাদের সঙ্গে আন্তরিক হওয়ার অনুমতি আপনার আছে। আর তাদের হক কড়ায়-গণ্ডায় বুঝিয়ে দেওয়া আপনার দায়িত্ব। কারণ মজুরি, রসিদ, উত্তরাধিকারের ভাগ আর সাক্ষ্য যে কিস্‌ত দিয়ে চলে, অন্য পক্ষের ধর্ম দেখে তা বদলায় না।"
           }
         ]
       }
