@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Al Imran is Madinan, and it opens on who Allah is before it turns to any argument. 3:2 names Him the Ever-Living, the Self-Sustaining; 3:3 and 3:4 say He sent down the Book confirming what came before it, as He had sent the Torah and the Gospel. 3:5 then says that nothing in the earth or in the heaven is hidden from Allah, and our verse follows directly: it is He who forms you in the wombs however He wills. After it, 3:7 returns to the Book, with its precise and its unspecific verses.",
-            "bn": "সূরা আলে ইমরান মাদানি সূরা। কোনো বিতর্কে যাওয়ার আগে সূরাটি শুরু হয় আল্লাহ কে, সেই পরিচয় দিয়ে। ৩:২ আয়াত তাঁকে বলে চিরঞ্জীব, সবকিছুর ধারক। ৩:৩ ও ৩:৪ আয়াত বলে, তিনি আগের কিতাবের সত্যায়নকারী হিসেবে এই কিতাব নাজিল করেছেন, যেমন আগে নাজিল করেছিলেন তাওরাত ও ইঞ্জিল। এরপর ৩:৫ আয়াত বলে, যমীনে বা আসমানে কোনো কিছুই আল্লাহর কাছে গোপন নয়। আর ঠিক তার পরেই আমাদের আয়াত: তিনিই গর্ভে তোমাদের আকৃতি দেন যেভাবে ইচ্ছা করেন। এর পরে ৩:৭ আয়াত আবার কিতাবের কথায় ফেরে, তার সুস্পষ্ট আর অস্পষ্ট আয়াতগুলোর কথায়।"
+            "bn": "সূরা আলে ইমরান মাদানী সূরা। কোনো বিতর্কে যাওয়ার আগে সূরাটি শুরু হয় আল্লাহর পরিচয় দিয়ে। ৩:২ আয়াত তাঁকে বলে চিরঞ্জীব, সবকিছুর ধারক। ৩:৩ ও ৩:৪ আয়াত বলে, তিনি এই কিতাব নাজিল করেছেন আগের কিতাবগুলোর সত্যায়নকারী হিসেবে, যেমন আগে নাজিল করেছিলেন তাওরাত ও ইঞ্জিল। এরপর ৩:৫ আয়াত বলে, যমীনে বা আসমানে কোনো কিছুই আল্লাহর কাছে গোপন নয়। ঠিক তার পরেই আমাদের আয়াত: তিনিই গর্ভে তোমাদের আকৃতি দেন, যেভাবে ইচ্ছা করেন। এর পরে ৩:৭ আয়াত আবার কিতাবের কথায় ফেরে, তার সুস্পষ্ট আর অস্পষ্ট আয়াতগুলোর কথায়।"
           },
           {
             "en": "Ibn Ishaq relates that the opening of this surah, a little over eighty verses, came down concerning the Christian delegation from Najran, who came to Madinah and argued with the Prophet ﷺ about Isa (AS). The commentators who follow that report hear in 3:5 and 3:6 a pointed pair of statements, and their reading is taken up below. Even without the occasion, the order of the two verses teaches something: first the knowledge from which nothing is hidden, then the forming of each human being in the one place no human eye could reach.",
@@ -37,15 +37,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Yusawwirukum is from the root s-w-r, which gives surah in the sense of a form or image. The same root gives al-Musawwir, the Fashioner, in 59:24, the name that comes after the Creator and the Producer. Where a word for creating would say that you were brought into being, this word says that you were given a particular shape. The verb is in the present tense, so the forming is described as something He goes on doing, in every womb and in every generation, not as a single act finished long ago.",
-            "bn": "‘ইউসাওয়িরুকুম’ এসেছে স-ও-র মূল থেকে। এই মূল থেকেই ‘সূরাত’, মানে আকৃতি বা চেহারা। একই মূল থেকে এসেছে ‘আল-মুসাওয়ির’, আকৃতিদাতা, ৫৯:২৪ আয়াতে স্রষ্টা আর উদ্ভাবকের পরে যে নামটি আসে। সৃষ্টির শব্দ হলে বোঝাত আপনাকে অস্তিত্বে আনা হয়েছে। এই শব্দ বলছে, আপনাকে একটা নির্দিষ্ট গড়ন দেওয়া হয়েছে। ক্রিয়াটি বর্তমান কালের। তাই আকৃতি দেওয়াকে দেখানো হয়েছে এমন কাজ হিসেবে যা তিনি করেই চলেছেন, প্রতিটি গর্ভে, প্রতিটি প্রজন্মে। বহু আগে একবার সেরে ফেলা কোনো কাজ হিসেবে নয়।"
+            "bn": "‘ইউসাওয়িরুকুম’ এসেছে স-ও-র মূল থেকে। এই মূল থেকেই ‘সূরাত’, মানে আকৃতি বা চেহারা। আল্লাহর নাম ‘আল-মুসাওয়ির’, আকৃতিদাতা, এসেছে এই মূল থেকেই। ৫৯:২৪ আয়াতে নামটি আসে স্রষ্টা আর উদ্ভাবকের পরে। সৃষ্টির কোনো শব্দ হলে বলত, আপনাকে অস্তিত্বে আনা হয়েছে। এই শব্দ বলছে, আপনাকে একটা নির্দিষ্ট গড়ন দেওয়া হয়েছে। ক্রিয়াটি বর্তমান কালের। অর্থাৎ আকৃতি দেওয়া এমন কাজ, যা তিনি করেই চলেছেন, প্রতিটি গর্ভে, প্রতিটি প্রজন্মে। বহু আগে একবার সেরে ফেলা কাজ নয়।"
           },
           {
             "en": "Al-arham is the plural of rahim, the womb, from the root r-h-m, the root of rahmah, mercy. The lexicographers list both under that one root, and an Arabic ear hears the kinship without being told. Then comes kayfa yasha', however He wills. The phrase places the decision about each person's form with the One who wills, not with chance, and not with the parents who wait without any power over what they will be given.",
-            "bn": "‘আল-আরহাম’ হলো ‘রাহিম’ শব্দের বহুবচন, যার অর্থ গর্ভ। মূল র-হ-ম, রহমত শব্দেরও মূল এটাই। অভিধানবিদরা দুটো শব্দকে একই মূলের নিচে রাখেন, আর আরবি জানা কান কেউ না বলে দিলেও আত্মীয়তাটা শুনতে পায়। তারপর আসে ‘কাইফা ইয়াশা’, যেভাবে তিনি ইচ্ছা করেন। এই কথাটি প্রত্যেক মানুষের আকৃতির সিদ্ধান্ত রেখে দেয় তাঁর হাতে, যিনি ইচ্ছা করেন। সিদ্ধান্তটা কোনো আকস্মিকতার নয়। অপেক্ষায় থাকা বাবা-মায়েরও নয়, কী পাবেন সে ব্যাপারে যাঁদের কোনো ক্ষমতা নেই।"
+            "bn": "‘আল-আরহাম’ হলো ‘রাহিম’ শব্দের বহুবচন, যার অর্থ গর্ভ। মূল র-হ-ম, রহমত শব্দেরও মূল এটাই। অভিধানবিদরা দুটো শব্দকে একই মূলের নিচে রাখেন। আর আরবি কানকে কাউকে বলে দিতে হয় না, সে নিজেই আত্মীয়তাটা টের পায়। তারপর আসে ‘কাইফা ইয়াশা’, যেভাবে তিনি ইচ্ছা করেন। কথাটি জানিয়ে দেয়, কার কী আকৃতি হবে, সে সিদ্ধান্ত তাঁর, যিনি ইচ্ছা করেন। এ সিদ্ধান্ত আকস্মিক কিছুর হাতে নয়। অপেক্ষায় থাকা বাবা-মায়ের হাতেও নয়; কী পাবেন, তাতে তাঁদের কোনো হাত নেই।"
           },
           {
             "en": "The verse ends with a sentence that does not describe the womb at all: la ilaha illa huwa al-'Aziz al-Hakim, there is no deity except Him, the Exalted in Might, the Wise. The movement is from an act to a conclusion. Because He alone forms, He alone is to be worshipped. The two closing names can be heard against what was just said: might, to shape without anyone able to prevent it, and wisdom, in the particular shape that each person is given.",
-            "bn": "আয়াত শেষ হয় এমন একটি বাক্যে, যা গর্ভের বর্ণনাই দেয় না: ‘লা ইলাহা ইল্লা হুয়াল আযীযুল হাকীম’, তিনি ছাড়া কোনো ইলাহ নেই, তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়। কথা এগোয় একটা কাজ থেকে একটা উপসংহারে। আকৃতি যেহেতু একমাত্র তিনিই দেন, ইবাদতও একমাত্র তাঁরই প্রাপ্য। শেষের দুটি নাম সদ্য বলা কথার পাশে রেখে শোনা যায়। পরাক্রম, কারণ তিনি গড়েন আর কেউ বাধা দিতে পারে না। প্রজ্ঞা, কারণ প্রত্যেককে যে বিশেষ গড়ন দেওয়া হয়, তার ভেতরেই তা আছে।"
+            "bn": "আয়াতের শেষ বাক্যে গর্ভের কোনো বর্ণনাই নেই: ‘লা ইলাহা ইল্লা হুয়াল আযীযুল হাকীম’, তিনি ছাড়া কোনো ইলাহ নেই, তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়। কথা এগোয় একটা কাজ থেকে একটা সিদ্ধান্তে। আকৃতি যেহেতু একমাত্র তিনিই দেন, ইবাদতও একমাত্র তাঁরই প্রাপ্য। শেষের নাম দুটি একটু আগের কথার সঙ্গে মিলিয়ে শোনা যায়। পরাক্রম, কারণ তিনি গড়েন আর কেউ বাধা দিতে পারে না। প্রজ্ঞা, কারণ প্রত্যেককে তিনি যে আলাদা গড়ন দেন, তাতেই তা দেখা যায়।"
           }
         ]
       },
@@ -61,7 +61,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari brings the same reading from Muhammad ibn Ja'far ibn az-Zubayr, in the line of reports that tie the surah's opening to Najran. Isa (AS) was among those formed in the wombs, the report says, and the delegation did not dispute this, just as the rest of the children of Adam were formed; so how could he be a god, having been in that place? The argument is built on a fact both sides accepted, not on a claim the other side rejected, which is why the verse can state it without further proof.",
-            "bn": "আত-তাবারী একই ব্যাখ্যা আনেন মুহাম্মাদ ইবনে জা'ফর ইবনুয যুবাইর থেকে, সেই বর্ণনাধারায় যা সূরার শুরুকে নাজরানের সঙ্গে যুক্ত করে। বর্ণনায় বলা হয়েছে, ঈসা (আঃ)-ও গর্ভে আকৃতি পাওয়াদের একজন ছিলেন, আর প্রতিনিধিদল এ কথা অস্বীকার করত না। আদমসন্তানদের বাকি সবার মতোই তাঁকে গড়া হয়েছিল। তাহলে যিনি সেই অবস্থার ভেতর দিয়ে এসেছেন, তিনি কীভাবে ইলাহ হন? যুক্তিটা দাঁড়িয়ে আছে এমন এক সত্যের ওপর যা দুই পক্ষই মানত। অপর পক্ষ মানে না এমন কোনো দাবির ওপর নয়। এ কারণেই আয়াত আর কোনো প্রমাণ না দিয়ে কথাটা বলে দিতে পারে।"
+            "bn": "আত-তাবারীও একই ব্যাখ্যা আনেন মুহাম্মাদ ইবনে জা'ফর ইবনুয যুবাইর থেকে। সূরার শুরুকে নাজরানের সঙ্গে যুক্ত করে যেসব বর্ণনা, এটি সেগুলোরই একটি। বর্ণনাটি বলে, আদমসন্তানদের বাকি সবার মতো ঈসা (আঃ)-ও গর্ভে আকৃতি পেয়েছিলেন, আর প্রতিনিধিদলও এ কথা অস্বীকার করত না। তাহলে যিনি ওই জায়গায় ছিলেন, তিনি ইলাহ হন কী করে? যুক্তিটা দাঁড়িয়ে আছে এমন এক সত্যের ওপর, যা দুই পক্ষই মানত। অপর পক্ষ মানে না, এমন কোনো দাবির ওপর নয়। তাই আয়াত বাড়তি কোনো প্রমাণ ছাড়াই কথাটা বলে দিতে পারে।"
           },
           {
             "en": "As-Sa'di reads 3:5 and 3:6 together as one statement about knowledge. The knowledge that takes in everything, open and hidden, includes the unborn child in the womb, which no created eye reaches. And He does not only know it; He directs it with the gentlest care and measures it out, forming it complete or lacking, fair or plain, male or female. On this reading the verse is not about power alone. The One who knows the hidden place is the One who works in it.",
@@ -81,7 +81,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The hadith adds what the verse leaves unsaid. The forming is not only of a body. Before the child has done anything, its provision and its term are written and its deeds are known. That removes no responsibility, and the same narration goes on to warn that a person may act for a long time in one direction and then what was written overtakes him. What it removes is the illusion that anyone arranged his own beginning, or can be sure of his own end.",
-            "bn": "আয়াত যা খুলে বলেনি, হাদিসটি তা যোগ করে। গড়া হচ্ছে শুধু একটা শরীর নয়। শিশুটি কিছু করার আগেই তার রিজিক আর আয়ু লেখা হয়ে যায়, তার আমলও জানা থাকে। এতে কারও দায় কমে না। একই বর্ণনা সামনে গিয়ে সতর্ক করে, মানুষ দীর্ঘদিন এক দিকে আমল করে যেতে পারে, তারপর যা লেখা ছিল তা তাকে ধরে ফেলে। হাদিসটি যা ভেঙে দেয় তা হলো এই ভ্রম যে, কেউ নিজের শুরুটা নিজে সাজিয়েছে, কিংবা নিজের শেষটা নিয়ে নিশ্চিত থাকতে পারে।"
+            "bn": "আয়াত যা খুলে বলেনি, হাদিসটি তা যোগ করে। গড়া হচ্ছে শুধু একটা শরীর নয়। শিশুটি কিছু করার আগেই তার রিজিক আর আয়ু লেখা হয়ে যায়, তার আমলও জানা থাকে। এতে কারও দায় কমে না। একই বর্ণনা সামনে গিয়ে সতর্ক করে, মানুষ দীর্ঘদিন এক দিকে আমল করে যেতে পারে, তারপর যা লেখা ছিল তা তাকে ধরে ফেলে। হাদিসটি ভাঙে অন্য একটা ভুল ধারণা: কেউ নিজের শুরুটা নিজে সাজিয়েছে, কিংবা নিজের শেষ নিয়ে নিশ্চিত থাকতে পারে।"
           }
         ]
       },
@@ -93,7 +93,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "39:6 describes the same forming from within: creation after creation, within three darknesses, and, like our verse, it moves straight from the womb to there is no deity except Him, then asks how you are turned away. 82:7-8 speaks to the single person: He created you, proportioned you and balanced you, and in whatever form He willed He assembled you. 40:64 and 64:3 both say that He formed you and perfected your forms, the first beside the good things He provides, the second beside the final return to Him.",
-            "bn": "৩৯:৬ আয়াত একই গড়ার কথা বলে ভেতর থেকে দেখে: পর্যায়ের পর পর্যায়ে, তিন অন্ধকারের ভেতরে। আর আমাদের আয়াতের মতোই গর্ভের কথা থেকে সরাসরি চলে যায় এই কথায় যে তিনি ছাড়া কোনো ইলাহ নেই, তারপর জিজ্ঞেস করে, তোমাদের কোন্ দিকে ফিরিয়ে নেওয়া হচ্ছে? ৮২:৭-৮ আয়াত কথা বলে একজন একজন মানুষের সঙ্গে: তিনি তোমাকে সৃষ্টি করেছেন, সুঠাম করেছেন, ভারসাম্যপূর্ণ করেছেন, আর যে আকৃতিতে চেয়েছেন সেভাবে গঠন করেছেন। ৪০:৬৪ ও ৬৪:৩ দুটি আয়াতই বলে, তিনি তোমাদের আকৃতি দিয়েছেন, আর সেই আকৃতিকে সুন্দর করেছেন। প্রথমটিতে এ কথার পাশে আছে পবিত্র রিজিকের কথা, দ্বিতীয়টিতে তাঁর কাছে শেষ ফিরে যাওয়ার কথা।"
+            "bn": "৩৯:৬ আয়াত একই গড়ার ছবি দেখায় ভেতর থেকে: পর্যায়ের পর পর্যায়ে, তিন অন্ধকারের ভেতরে। আমাদের আয়াতের মতো এটিও গর্ভের কথা থেকে সোজা চলে যায় ‘তিনি ছাড়া কোনো ইলাহ নেই’ কথায়, তারপর প্রশ্ন করে, তোমাদের কোন্ দিকে ফিরিয়ে নেওয়া হচ্ছে? ৮২:৭-৮ আয়াত কথা বলে প্রত্যেক মানুষের সঙ্গে আলাদা করে: তিনি তোমাকে সৃষ্টি করেছেন, সুঠাম করেছেন, ভারসাম্যপূর্ণ করেছেন, আর যে আকৃতিতে চেয়েছেন সেভাবে গঠন করেছেন। ৪০:৬৪ ও ৬৪:৩ দুটি আয়াতই বলে, তিনি তোমাদের আকৃতি দিয়েছেন, আর সেই আকৃতিকে সুন্দর করেছেন। প্রথমটিতে এ কথার পাশে আছে পবিত্র রিজিকের কথা, দ্বিতীয়টিতে তাঁর কাছে শেষ ফিরে যাওয়ার কথা।"
           },
           {
             "en": "23:14 lists the stages, from the clinging clot to the lump to bones clothed with flesh, and then another creation, and it ends: so blessed is Allah, the best of creators. 53:32 draws a moral from the same fact. He was most knowing of you when you were fetuses in your mothers' wombs, so do not claim yourselves to be pure. The One who saw you before anyone else did is not impressed by what you now say about yourself.",
@@ -109,11 +109,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first place this verse is lived is in front of a mirror. Someone who takes it seriously treats his face, height and build as the decision of the Wise, neither a flaw to resent nor a trophy to display. That does not forbid caring for the body; it changes the tone of the looking. Comparison with other people loses its edge when both faces were shaped by the same Lord, each however He willed.",
-            "bn": "এই আয়াত যাপনের প্রথম জায়গা আয়নার সামনে। যে একে গুরুত্ব দেয়, সে নিজের চেহারা, উচ্চতা, গড়নকে দেখে প্রজ্ঞাময়ের সিদ্ধান্ত হিসেবে। এমন কোনো খুঁত হিসেবে নয় যা নিয়ে ক্ষোভ পুষতে হবে। আবার এমন কোনো ট্রফি হিসেবেও নয় যা দেখিয়ে বেড়াতে হবে। শরীরের যত্ন নেওয়া এতে নিষেধ হয় না। বদলে যায় তাকানোর সুরটা। দুটি চেহারাই যখন একই রব গড়েছেন, যেভাবে যাকে চেয়েছেন, তখন অন্যের সঙ্গে তুলনার ধারটা ভোঁতা হয়ে যায়।"
+            "bn": "এই আয়াত জীবনে প্রথম ধরা দেয় আয়নার সামনে। যে আয়াতটিকে গুরুত্ব দেয়, সে নিজের চেহারা, উচ্চতা, গড়নকে দেখে প্রজ্ঞাময়ের সিদ্ধান্ত হিসেবে। এটা ক্ষোভ পুষে রাখার মতো খুঁতও নয়, দেখিয়ে বেড়ানোর মতো পুরস্কারও নয়। এর মানে এই নয় যে শরীরের যত্ন নেওয়া নিষেধ। বদলায় তাকানোর ভঙ্গিটা। দুটি চেহারাই যখন একই রব গড়েছেন, যাকে যেভাবে চেয়েছেন, তখন অন্যের সঙ্গে তুলনার ধার কমে যায়।"
           },
           {
             "en": "The second place is in how we receive children and other people. Parents waiting for a child, and families given a child with a disability, live inside this verse. The form was not an accident, and the child is not a mistake. To mock anyone's body is to mock a decision Allah made. And for someone carrying a hard limit of his own, the verse names the Exalted in Might and the Wise over that limit, which is a ground for patience rather than bitterness.",
-            "bn": "দ্বিতীয় জায়গা হলো সন্তানকে আর অন্য মানুষকে আমরা কীভাবে গ্রহণ করি। যে বাবা-মা সন্তানের অপেক্ষায় আছেন, যে পরিবার প্রতিবন্ধী সন্তান পেয়েছে, তাঁরা এই আয়াতের ভেতরেই বাস করছেন। আকৃতিটা দুর্ঘটনা নয়, শিশুটিও কোনো ভুল নয়। কারও শরীর নিয়ে ঠাট্টা করা মানে আল্লাহর নেওয়া একটা সিদ্ধান্ত নিয়ে ঠাট্টা করা। আর যে নিজে কোনো কঠিন সীমাবদ্ধতা বয়ে বেড়াচ্ছে, আয়াত সেই সীমাবদ্ধতার ওপরে মহাপরাক্রমশালী ও প্রজ্ঞাময়ের নাম রেখে দেয়। এটা তিক্ততার নয়, সবরের ভিত।"
+            "bn": "দ্বিতীয় জায়গা হলো সন্তানকে আর অন্য মানুষকে আমরা কীভাবে গ্রহণ করি। যে বাবা-মা সন্তানের অপেক্ষায় আছেন, যে পরিবার প্রতিবন্ধী সন্তান পেয়েছে, এই আয়াত তাঁদের জীবনেরই কথা। আকৃতিটা দুর্ঘটনা নয়, শিশুটিও কোনো ভুল নয়। কারও শরীর নিয়ে ঠাট্টা করা মানে আল্লাহর নেওয়া একটা সিদ্ধান্ত নিয়ে ঠাট্টা করা। আর যে নিজে কোনো কঠিন সীমাবদ্ধতা বয়ে বেড়াচ্ছে, আয়াত তাকে মনে করিয়ে দেয়, সেই সীমাবদ্ধতার পেছনেও আছেন মহাপরাক্রমশালী ও প্রজ্ঞাময়। এটা তিক্ত হওয়ার নয়, সবর করার ভিত।"
           }
         ]
       },
@@ -125,7 +125,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Sunnah gives a du'a for prostration that uses this verse's own root. Muslim records from Ali (RA), describing the Prophet's ﷺ prayer, that in sujud he would say: O Allah, to You I have prostrated, in You I have believed, and to You I have submitted; my face has prostrated to the One who created it and formed it, and opened its hearing and its sight; blessed is Allah, the best of creators. The word for formed it, sawwarahu, comes from the same root as yusawwirukum.",
-            "bn": "সুন্নাহতে সিজদার এমন একটি দোয়া আছে, যাতে এই আয়াতেরই মূল শব্দ আছে। মুসলিম আলী (রাঃ) থেকে নবী ﷺ-এর নামাজের বিবরণে বর্ণনা করেন, সিজদায় তিনি বলতেন: হে আল্লাহ, আপনার জন্যই সিজদা করেছি, আপনার ওপরই ঈমান এনেছি, আপনার কাছেই আত্মসমর্পণ করেছি। আমার চেহারা সিজদা করেছে তাঁকে, যিনি একে সৃষ্টি করেছেন, আকৃতি দিয়েছেন, আর এর কান ও চোখ খুলে দিয়েছেন। সর্বোত্তম স্রষ্টা আল্লাহ বরকতময়। ‘আকৃতি দিয়েছেন’ বোঝাতে এখানে শব্দ ‘সাওয়ারাহু’, আমাদের আয়াতের ‘ইউসাওয়িরুকুম’-এর মূল থেকেই।"
+            "bn": "সুন্নাহতে সিজদার একটি দোয়া আছে, যাতে এই আয়াতের শব্দমূলটিই এসেছে। মুসলিম আলী (রাঃ) থেকে নবী ﷺ-এর নামাজের বিবরণে বর্ণনা করেন, সিজদায় তিনি বলতেন: হে আল্লাহ, আপনার জন্যই সিজদা করেছি, আপনার ওপরই ঈমান এনেছি, আপনার কাছেই আত্মসমর্পণ করেছি। আমার চেহারা সিজদা করেছে তাঁকে, যিনি একে সৃষ্টি করেছেন, আকৃতি দিয়েছেন, আর এর কান ও চোখ খুলে দিয়েছেন। সর্বোত্তম স্রষ্টা আল্লাহ বরকতময়। ‘আকৃতি দিয়েছেন’ বোঝাতে এখানে শব্দ ‘সাওয়ারাহু’, আমাদের আয়াতের ‘ইউসাওয়িরুকুম’-এর মূল থেকেই।"
           },
           {
             "en": "The placing of the words teaches as much as the words. A face that was formed in a womb it could never see is pressed to the ground before the One who formed it, and the du'a ends on the same words that close 23:14. You can say it in your own sujud, in Arabic, and let it carry the meaning of this verse each time your forehead touches the ground.",
@@ -161,7 +161,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Whose body have I spoken about carelessly, as though its shape were a joke rather than a decision Allah made? And when I run into a limit I was born with, can I name the Exalted in Might and the Wise over it, and carry it with patience instead of resentment? Which child in my care needs to hear from me, this week, that the way they were made was not a mistake?",
-            "bn": "কার শরীর নিয়ে আমি অবহেলায় কথা বলেছি, যেন তার গড়নটা একটা ঠাট্টার বিষয়, আল্লাহর নেওয়া সিদ্ধান্ত নয়? আর জন্ম থেকে পাওয়া কোনো সীমাবদ্ধতার সামনে পড়লে আমি কি তার ওপরে মহাপরাক্রমশালী ও প্রজ্ঞাময়ের নাম রাখতে পারি? ক্ষোভ নিয়ে নয়, সবর নিয়ে কি সেটা বহন করতে পারি? আমার দেখাশোনায় থাকা কোন শিশুর এই সপ্তাহেই আমার মুখ থেকে শোনা দরকার যে, তাকে যেভাবে গড়া হয়েছে তাতে কোনো ভুল নেই?"
+            "bn": "কার শরীর নিয়ে আমি অবহেলায় কথা বলেছি, যেন তার গড়নটা একটা ঠাট্টার বিষয়, আল্লাহর নেওয়া সিদ্ধান্ত নয়? আর জন্ম থেকে পাওয়া কোনো সীমাবদ্ধতার সামনে পড়লে আমি কি মনে রাখতে পারি যে এর পেছনেও আছেন মহাপরাক্রমশালী ও প্রজ্ঞাময়? ক্ষোভ নিয়ে নয়, সবর নিয়ে কি সেটা বহন করতে পারি? আমার দেখাশোনায় থাকা কোন শিশুর এই সপ্তাহেই আমার মুখ থেকে শোনা দরকার যে, তাকে যেভাবে গড়া হয়েছে তাতে কোনো ভুল নেই?"
           }
         ]
       }
@@ -172,16 +172,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "After the Verse of Firm Roots",
-          "bn": "দৃঢ়মূল জ্ঞানের আয়াতের পরে"
+          "bn": "জ্ঞানে দৃঢ়দের আয়াতের পরে"
         },
         "p": [
           {
             "en": "This prayer does not float free; it answers the verse directly before it. In 3:7 the Book is divided into muhkam verses, clear and decisive, and mutashabih verses that resemble one another, and two kinds of readers are described: those in whose hearts is zaygh, a swerving, who chase the ambiguous seeking discord, and those firmly rooted in knowledge who say, we believe in it, all of it is from our Lord. Verse 3:8 is the prayer of that second group, placed on their tongues by revelation itself.",
-            "bn": "এই দোয়াটি শূন্যে ভাসমান নয়; এটি ঠিক আগের আয়াতের জবাব। 3:7 আয়াতে কিতাবকে ভাগ করা হয়েছে মুহকাম আয়াতে — যা স্পষ্ট ও চূড়ান্ত — এবং মুতাশাবিহ আয়াতে, যেগুলো পরস্পরের সদৃশ; আর দুই ধরনের পাঠকের বর্ণনা এসেছে: যাদের অন্তরে আছে যায়গ — এক ধরনের বক্রতা — তারা ফিতনা খুঁজতে অস্পষ্ট আয়াতের পেছনে ছোটে; আর যারা জ্ঞানে দৃঢ়মূল, তারা বলে, আমরা এতে ঈমান এনেছি, সবই আমাদের রবের পক্ষ থেকে। আয়াত 3:8 সেই দ্বিতীয় দলের দোয়া, যা ওহী নিজেই তাদের জবানে তুলে দিয়েছে।"
+            "bn": "এই দোয়া বিচ্ছিন্ন কোনো দোয়া নয়; এটি ঠিক আগের আয়াতের জবাব। ৩:৭ আয়াত কিতাবের আয়াতগুলোকে দুই ভাগ করে। মুহকাম আয়াত, যেগুলো স্পষ্ট ও চূড়ান্ত। আর মুতাশাবিহ আয়াত, যেগুলো একটা আরেকটার মতো। তারপর দুই ধরনের পাঠকের কথা বলে। একদলের অন্তরে আছে ‘যায়গ’, অর্থাৎ বক্রতা; তারা ফিতনার খোঁজে অস্পষ্ট আয়াতের পেছনে ছোটে। আরেক দল জ্ঞানে দৃঢ়; তারা বলে, আমরা এতে ঈমান এনেছি, সবই আমাদের রবের পক্ষ থেকে। ৩:৮ আয়াত সেই দ্বিতীয় দলের দোয়া। ওহি নিজেই এ দোয়া তাদের মুখে তুলে দিয়েছে।"
           },
           {
             "en": "The wording of the prayer picks up the very root the previous verse used for the diseased heart. La tuzigh qulubana, do not let our hearts swerve, echoes fi qulubihim zaygh, in their hearts is a swerving, from 3:7 itself. Having just been shown the portrait of hearts that tilt toward ambiguity, the believers immediately ask to be protected from that same tilt. The next verse, 3:9, keeps the horizon in view: our Lord, surely You will gather mankind for a Day about which there is no doubt.",
-            "bn": "দোয়ার শব্দচয়ন সেই একই মূল ধাতু তুলে নেয়, যা আগের আয়াতে ব্যাধিগ্রস্ত অন্তরের জন্য ব্যবহৃত হয়েছিল। লা তুযিগ কুলূবানা — আমাদের অন্তরগুলোকে বাঁকতে দেবেন না — এটি 3:7 আয়াতের ফী কুলূবিহিম যায়গ — তাদের অন্তরে বক্রতা আছে — এই কথারই প্রতিধ্বনি। অস্পষ্টতার দিকে হেলে পড়া অন্তরের চিত্র দেখানো মাত্রই মুমিনরা সেই একই হেলে পড়া থেকে সুরক্ষা চেয়ে বসে। পরের আয়াত 3:9 দিগন্তটিকে সামনে রাখে: হে আমাদের রব, নিশ্চয়ই আপনি মানুষকে এমন এক দিনে সমবেত করবেন, যাতে কোনো সন্দেহ নেই।"
+            "bn": "আগের আয়াত রোগাক্রান্ত অন্তরের কথা বলতে যে শব্দমূল ব্যবহার করেছে, দোয়াটি ঠিক সেই মূলই তুলে নেয়। ‘লা তুযিগ কুলূবানা’, আমাদের অন্তরগুলোকে বাঁকা হতে দেবেন না। এ যেন ৩:৭ আয়াতেরই ‘ফী কুলূবিহিম যায়গ’-এর প্রতিধ্বনি, যার মানে, তাদের অন্তরে আছে বক্রতা। অস্পষ্টের দিকে হেলে পড়া অন্তরের ছবি দেখার সঙ্গে সঙ্গেই মুমিনরা ঠিক সেই হেলে পড়া থেকে বাঁচার দোয়া করে। পরের আয়াত ৩:৯ শেষ গন্তব্যটা চোখের সামনে রাখে: হে আমাদের রব, নিশ্চয়ই আপনি মানুষকে এমন এক দিনে একত্র করবেন, যাতে কোনো সন্দেহ নেই।"
           }
         ]
       },
@@ -193,11 +193,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ba'da idh hadaytana, after You have guided us, concedes two things at once: that guidance was His act, not our achievement, and that having received it does not secure it. Then comes a request for more than protection: wa hab lana min ladunka rahmah, grant us mercy from Your own presence. Min ladunka, from what is with You, asks for something unearned, drawn from His treasury rather than from our deserving. The young men of the cave asked with the same words in 18:10 as well.",
-            "bn": "বা'দা ইয হাদাইতানা — আপনি আমাদের হেদায়েত দেওয়ার পর — একসাথে দুটি কথা স্বীকার করে: হেদায়েত ছিল তাঁরই কাজ, আমাদের অর্জন নয়; আর তা পেয়ে যাওয়া মানেই তা নিরাপদ হয়ে যাওয়া নয়। এরপর আসে সুরক্ষার চেয়েও বেশি কিছুর আবেদন: ওয়া হাব লানা মিন লাদুনকা রাহমাহ — আপনার নিজের সন্নিধি থেকে আমাদের রহমত দান করুন। মিন লাদুনকা — আপনার কাছে যা আছে তা থেকে — এমন কিছু চায় যা অনার্জিত, যা আমাদের প্রাপ্যতা থেকে নয় বরং তাঁর ভান্ডার থেকে আসে। গুহার যুবকরাও 18:10 আয়াতে একই শব্দে চেয়েছিল।"
+            "bn": "‘বা'দা ইয হাদাইতানা’, আপনি আমাদের হেদায়েত দেওয়ার পর। এই কথাটুকু একসঙ্গে দুটি জিনিস মেনে নেয়। হেদায়েত তাঁরই কাজ, আমাদের অর্জন নয়। আর হেদায়েত পেয়ে গেলেই তা নিরাপদ হয়ে যায় না। এরপর দোয়াটি হেফাজতের চেয়েও বেশি কিছু চায়: ‘ওয়া হাব লানা মিন লাদুনকা রাহমাহ’, আপনার নিজের কাছ থেকে আমাদের রহমত দান করুন। ‘মিন লাদুনকা’ মানে আপনার কাছে যা আছে তা থেকে। অর্থাৎ এমন কিছু চাওয়া, যা আমরা অর্জন করিনি; যা আসে আমাদের যোগ্যতা থেকে নয়, তাঁর ভান্ডার থেকে। গুহার যুবকরাও ১৮:১০ আয়াতে একই শব্দে দোয়া করেছিল।"
           },
           {
             "en": "The prayer closes by naming Allah al-Wahhab, the Bestower, the One who gives gift after gift without compensation and without being diminished. The commentators observe that a request is strengthened by the name that matches it: the one asking for an unearned gift calls on the One whose way is unearned giving. Nothing in the sentence bargains. It does not promise works in exchange; it simply describes the Giver accurately and holds out its hands.",
-            "bn": "দোয়াটি শেষ হয় আল্লাহকে আল-ওয়াহহাব নামে ডেকে — মহাদাতা, যিনি কোনো বিনিময় ছাড়াই এবং নিজে বিন্দুমাত্র না কমে উপহারের পর উপহার দিয়ে যান। মুফাসসিরগণ লক্ষ করেন, আবেদনের সাথে মিলে যাওয়া নাম আবেদনকে শক্তিশালী করে: যে অনার্জিত দান চাইছে, সে তাঁকেই ডাকছে যাঁর রীতিই হলো অনার্জিত দান। বাক্যটির কোথাও কোনো দর-কষাকষি নেই। এটি বিনিময়ে আমলের প্রতিশ্রুতি দেয় না; কেবল দাতাকে যথাযথভাবে বর্ণনা করে দুই হাত পেতে দেয়।"
+            "bn": "দোয়াটি শেষ হয় আল্লাহকে ‘আল-ওয়াহহাব’ নামে ডেকে। ওয়াহহাব মানে মহাদাতা, যিনি কোনো বিনিময় ছাড়াই দানের পর দান দিয়ে যান, আর তাতে তাঁর কিছুই কমে না। মুফাসসিরগণ বলেন, চাওয়ার সঙ্গে মানানসই নাম ধরে ডাকলে চাওয়াটা জোরালো হয়। যে বিনা যোগ্যতায় দান চাইছে, সে ডাকছে তাঁকে, বিনা বিনিময়ে দেওয়াই যাঁর রীতি। বাক্যের কোথাও কোনো দর-কষাকষি নেই। বদলে আমলের কোনো প্রতিশ্রুতি দেয় না। শুধু দাতার সঠিক পরিচয় দিয়ে ডাকে, তারপর দুই হাত পেতে দেয়।"
           }
         ]
       },
@@ -209,27 +209,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic word for heart, qalb, shares its root with taqallub, turning over, and the scholars have long heard in the name a description: the heart is the organ that turns. Al-Bukhari records that the Prophet ﷺ would frequently swear by the words: no, by the Turner of hearts. At-Tirmidhi records his frequent supplication: O Turner of hearts, make my heart firm upon Your religion. The man whose guidance was most secure asked most often for firmness.",
-            "bn": "অন্তরের আরবি শব্দ কালব-এর মূল ধাতু তাকাল্লুব — উল্টে যাওয়া — এর সাথে অভিন্ন, আর আলিমগণ বহুকাল ধরে এই নামের মধ্যেই একটি বর্ণনা শুনে এসেছেন: অন্তর সেই অঙ্গ যা ঘুরে যায়। বুখারী বর্ণনা করেন, নবী ﷺ প্রায়ই এই শব্দে শপথ করতেন: না, অন্তরসমূহের পরিবর্তনকারীর শপথ। তিরমিযী তাঁর বহুল-পঠিত দোয়াটি বর্ণনা করেন: হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে আপনার দ্বীনের উপর দৃঢ় রাখুন। যাঁর হেদায়েত ছিল সবচেয়ে সুরক্ষিত, তিনিই দৃঢ়তার জন্য সবচেয়ে বেশি চেয়েছেন।"
+            "bn": "অন্তরের আরবি শব্দ ‘কালব’। এর মূল আর ‘তাকাল্লুব’ শব্দের মূল একই; তাকাল্লুব মানে উল্টে-পাল্টে যাওয়া। আলিমগণ বহু আগে থেকেই এই নামের মধ্যে অন্তরের একটা পরিচয় শুনেছেন: অন্তর এমন অঙ্গ, যা ঘুরে যায়। বুখারী বর্ণনা করেন, নবী ﷺ প্রায়ই এই কথায় কসম খেতেন: না, অন্তরসমূহের পরিবর্তনকারীর কসম। তিরমিযী তাঁর একটি দোয়া বর্ণনা করেন, যা তিনি প্রায়ই করতেন: হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে আপনার দ্বীনের ওপর অটল রাখুন। যাঁর হেদায়েত ছিল সবচেয়ে নিরাপদ, অটল থাকার দোয়া সবচেয়ে বেশি করতেন তিনিই।"
           },
           {
             "en": "That fact reorders our assumptions. If the Prophet ﷺ pleaded for steadiness, then steadiness is not a certificate issued once but a state maintained from above, and the person who feels safely past the possibility of swerving has misread how hearts work. The verse assumes believers who know their own instability, which is why it is a prayer and not a boast. Asking is itself the posture of the firmly rooted.",
-            "bn": "এই সত্য আমাদের ধারণাগুলোকে নতুন করে সাজায়। নবী ﷺ যদি অবিচলতার জন্য মিনতি করে থাকেন, তবে অবিচলতা একবার ইস্যু করা কোনো সনদ নয়, বরং উপর থেকে রক্ষণাবেক্ষণ করা একটি অবস্থা; আর যে ব্যক্তি নিজেকে বাঁক নেওয়ার সম্ভাবনার ঊর্ধ্বে নিরাপদ ভাবে, সে অন্তর কীভাবে কাজ করে তা ভুল পড়েছে। আয়াতটি এমন মুমিনদের ধরে নেয় যারা নিজেদের অস্থিরতা জানে — এ কারণেই এটি দোয়া, অহংকার নয়। চাওয়াটাই দৃঢ়মূলদের ভঙ্গি।"
+            "bn": "এই সত্য আমাদের অনেক ধারণা নতুন করে সাজাতে বলে। নবী ﷺ নিজে যদি অবিচল থাকার জন্য এভাবে মিনতি করে থাকেন, তবে অবিচলতা একবার হাতে পাওয়া কোনো সনদ নয়। এটা এমন অবস্থা, যা ওপর থেকে প্রতিনিয়ত ধরে রাখা হয়। যে ভাবে, বাঁকা হয়ে যাওয়ার ভয় তার আর নেই, অন্তর কীভাবে চলে সেটাই সে ভুল বুঝেছে। আয়াতটি ধরে নেয়, মুমিনরা নিজেদের অস্থিরতা জানে। এ কারণেই এটা দোয়া, বড়াই নয়। চাওয়াটাই জ্ঞানে দৃঢ়দের ভঙ্গি।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Commentators Draw",
-          "bn": "মুফাসসিরগণ যা আহরণ করেন"
+          "bn": "মুফাসসিরগণ যা বের করেন"
         },
         "p": [
           {
             "en": "As-Sa'di reads the verse as proof that remaining guided is a continuing mercy, renewed from Allah moment by moment, not a possession transferred once into our keeping. The Quran says elsewhere, in 8:24, that Allah comes in between a man and his heart, and in 14:27 that Allah keeps firm those who believe with the firm word, in this life and in the Hereafter. Firmness has a source, and the verse teaches us to apply to the source directly.",
-            "bn": "আস-সা'দী আয়াতটিকে এই প্রমাণ হিসেবে পড়েন যে হেদায়েতের উপর টিকে থাকা এক চলমান রহমত, যা আল্লাহর পক্ষ থেকে মুহূর্তে মুহূর্তে নবায়ন হয় — একবার আমাদের জিম্মায় হস্তান্তরিত কোনো সম্পত্তি নয়। কুরআন অন্যত্র বলে, 8:24 আয়াতে, আল্লাহ মানুষ ও তার অন্তরের মাঝখানে অন্তরায় হন; আর 14:27 আয়াতে, আল্লাহ মুমিনদের সুদৃঢ় বাণী দিয়ে দুনিয়ার জীবনে ও আখিরাতে অবিচল রাখেন। দৃঢ়তার একটি উৎস আছে, আর আয়াতটি আমাদের শেখায় সরাসরি সেই উৎসের কাছেই আবেদন করতে।"
+            "bn": "আস-সা'দীর মতে আয়াতটি প্রমাণ করে, হেদায়েতের ওপর টিকে থাকা এক চলমান রহমত। আল্লাহ মুহূর্তে মুহূর্তে তা নতুন করে দেন। এটা এমন সম্পদ নয়, যা একবার আমাদের জিম্মায় তুলে দেওয়া হয়েছে। কুরআন অন্য জায়গায়, ৮:২৪ আয়াতে, বলে, আল্লাহ মানুষ ও তার অন্তরের মাঝে অন্তরায় হন। আর ১৪:২৭ আয়াতে বলে, যারা ঈমান এনেছে, আল্লাহ তাদের দৃঢ় বাণী দিয়ে দুনিয়ার জীবনে ও আখিরাতে অবিচল রাখেন। দৃঢ়তার একটা উৎস আছে। আয়াতটি শেখায়, চাইতে হবে সরাসরি সেই উৎসের কাছেই।"
           },
           {
             "en": "Ibn Kathir sets the prayer against its foil: those who chase the ambiguous are seeking fitnah, while the rooted ask to be kept from deviation. The difference between the two groups is not intelligence but intention and dependence. One group interrogates the Book to unsettle; the other submits to it and then, knowing their own hearts, asks the Author to hold them steady. The verse locates safety not in cleverness but in asking.",
-            "bn": "ইবনে কাসীর দোয়াটিকে তার বিপরীত চিত্রের পাশে রাখেন: যারা অস্পষ্টের পেছনে ছোটে তারা ফিতনা খুঁজছে, আর দৃঢ়মূলরা চাইছে বিচ্যুতি থেকে রক্ষা। দুই দলের পার্থক্য বুদ্ধিমত্তায় নয়, নিয়তে ও নির্ভরতায়। এক দল কিতাবকে জেরা করে অস্থিরতা ছড়াতে; অন্য দল তার কাছে আত্মসমর্পণ করে এবং নিজেদের অন্তরকে চেনে বলেই এর প্রেরককে বলে তাদের স্থির রাখতে। আয়াতটি নিরাপত্তাকে চতুরতায় নয়, চাওয়ার মধ্যে খুঁজে পায়।"
+            "bn": "ইবনে কাসীর দোয়াটিকে রাখেন তার উল্টো ছবির পাশে। যারা অস্পষ্টের পেছনে ছোটে, তারা ফিতনা খোঁজে। আর যারা জ্ঞানে দৃঢ়, তারা চায় বিপথে যাওয়া থেকে বাঁচতে। দুই দলের পার্থক্য বুদ্ধিতে নয়, নিয়তে আর ভরসায়। একদল কিতাবকে জেরা করে মানুষকে টলিয়ে দিতে। আরেক দল কিতাবের সামনে মাথা নত করে। তারপর নিজের অন্তরকে চেনে বলেই, কিতাব যিনি নাজিল করেছেন, তাঁর কাছে স্থির থাকার দোয়া করে। আয়াতটির কাছে নিরাপত্তা চালাকিতে নয়, চাওয়ার মধ্যে।"
           }
         ]
       },
@@ -241,7 +241,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Al Imran returns to this register at its close, where 3:191-194 record believers who reflect on creation and then plead: our Lord, forgive us our sins and take our souls with the righteous. The soldiers of Talut prayed in the same shape in 2:250, asking for patience to be poured over them before the battle began. In each case the request is for something inward — steadiness, patience, forgiveness — asked of the only One who governs inward things.",
-            "bn": "সূরা আলে ইমরান তার শেষভাগে আবার এই সুরে ফেরে, যেখানে 3:191-194 এমন মুমিনদের কথা লিপিবদ্ধ করে যারা সৃষ্টি নিয়ে চিন্তা করে তারপর মিনতি করে: হে আমাদের রব, আমাদের গুনাহ ক্ষমা করুন এবং নেককারদের সাথে আমাদের মৃত্যু দিন। তালূতের সৈনিকরাও 2:250 আয়াতে একই ধাঁচে দোয়া করেছিল — যুদ্ধ শুরুর আগে তাদের উপর ধৈর্য ঢেলে দেওয়ার আবেদন। প্রতিটি ক্ষেত্রেই চাওয়া হচ্ছে অন্তর্গত কিছু — অবিচলতা, ধৈর্য, ক্ষমা — আর চাওয়া হচ্ছে একমাত্র তাঁর কাছে, যিনি অন্তর্গত বিষয়গুলোর নিয়ন্তা।"
+            "bn": "সূরা আলে ইমরান শেষভাগে এসে আবার এই সুরে ফেরে। ৩:১৯১-১৯৪ আয়াতে আছে এমন মুমিনদের কথা, যারা সৃষ্টি নিয়ে চিন্তা করে, তারপর মিনতি করে: হে আমাদের রব, আমাদের গুনাহ মাফ করুন, আর নেককারদের সঙ্গে আমাদের মৃত্যু দিন। তালূতের সৈন্যরাও ২:২৫০ আয়াতে একই ধাঁচে দোয়া করেছিল। যুদ্ধ শুরুর আগে তারা চেয়েছিল, তাদের ওপর যেন সবর ঢেলে দেওয়া হয়। প্রতিটি দোয়াতেই চাওয়া হচ্ছে ভেতরের কিছু: অবিচলতা, সবর, মাগফিরাত। আর চাওয়া হচ্ছে একমাত্র তাঁর কাছে, ভেতরের সবকিছু যাঁর হাতে।"
           }
         ]
       },
@@ -253,11 +253,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The lived form of this verse is simple: pray it, in Arabic or in your own tongue, at fixed points — after the obligatory prayers, on waking, before decisions that could bend you. Then watch for small swerves early: the prayer skipped without regret, the content that feeds doubt consumed without any appetite for the answer. Swerving rarely announces itself; it accumulates.",
-            "bn": "এই আয়াতের যাপিত রূপটি সরল: এটি দোয়া হিসেবে পড়ুন, আরবিতে বা নিজের ভাষায়, নির্দিষ্ট কিছু মুহূর্তে — ফরয নামাযের পর, ঘুম থেকে উঠে, এমন সিদ্ধান্তের আগে যা আপনাকে বাঁকিয়ে দিতে পারে। তারপর ছোট ছোট বাঁকগুলোর দিকে আগেভাগে নজর রাখুন: অনুশোচনা ছাড়াই ছেড়ে দেওয়া নামায, জবাব জানার কোনো আগ্রহ ছাড়াই গেলা সন্দেহ-উসকানো বিষয়বস্তু। বাঁক খুব কমই নিজের ঘোষণা দেয়; তা জমতে থাকে।"
+            "bn": "এই আয়াতকে জীবনে আনার পথ সহজ। নির্দিষ্ট কিছু সময়ে দোয়াটি পড়ুন, আরবিতে বা নিজের ভাষায়: ফরজ নামাজের পরে, ঘুম থেকে উঠে, আর এমন কোনো সিদ্ধান্তের আগে, যা আপনাকে বাঁকা পথে নিতে পারে। তারপর ছোট ছোট বাঁকের দিকে শুরু থেকেই নজর রাখুন। যেমন, নামাজ ছেড়ে দিলেন, অথচ মনে কোনো আফসোস হলো না। কিংবা সন্দেহ উসকে দেয় এমন জিনিস দেখেই চলেছেন, অথচ জবাব জানার কোনো আগ্রহ নেই। বাঁক সাধারণত ঘোষণা দিয়ে আসে না; একটু একটু করে জমে।"
           },
           {
             "en": "And when you notice steadiness in yourself — a temptation that lost its pull, a habit of worship that took root — the verse trains you to file it correctly: as a gift from the Bestower, not a personal trait. Gratitude for firmness and fear of losing it belong together, and both are folded into this one sentence. The believer says it, means it, and says it again tomorrow.",
-            "bn": "আর যখন নিজের মধ্যে অবিচলতা টের পান — কোনো প্রলোভন যার টান হারিয়ে গেছে, কোনো ইবাদতের অভ্যাস যা শিকড় গেড়েছে — আয়াতটি আপনাকে তা সঠিক খাতায় লিখতে শেখায়: মহাদাতার দান হিসেবে, ব্যক্তিগত গুণ হিসেবে নয়। দৃঢ়তার জন্য কৃতজ্ঞতা আর তা হারানোর ভয় একসাথে থাকে, আর দুটোই এই একটি বাক্যে ভাঁজ করা আছে। মুমিন এটি বলে, অন্তর থেকে বলে, এবং আগামীকাল আবার বলে।"
+            "bn": "আর যখন নিজের মধ্যে অবিচলতা টের পান, যেমন কোনো লোভ আর আগের মতো টানে না, বা কোনো ইবাদত অভ্যাস হয়ে শিকড় গেড়েছে, তখন আয়াতটি শেখায় একে ঠিক খাতায় তুলতে। এটা মহাদাতার দান, আপনার ব্যক্তিগত গুণ নয়। অটল থাকার জন্য শুকরিয়া আর তা হারানোর ভয় একসঙ্গেই থাকে, আর দুটোই এই একটি বাক্যে গাঁথা। মুমিন এটি বলে, মন থেকে বলে, আর কাল আবার বলে।"
           }
         ]
       }
@@ -293,7 +293,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage opens with zuyyina, it has been made beautiful, in the passive, and the one who beautifies is not named. What is beautified is hubb ash-shahawat, the love of desired things. The verse does not only say that the objects were made attractive; it says that the love of them was. Az-Zamakhshari observes that the things listed are called shahawat, desires, as if they were nothing but the craving itself, a way of stressing how strongly the heart is drawn to them.",
-            "bn": "অংশটি শুরু হয় ‘যুইয়িনা’ দিয়ে, সুশোভিত করা হয়েছে, কর্মবাচ্যে। কে সুশোভিত করেছে, তার নাম বলা হয়নি। কী সুশোভিত করা হয়েছে? ‘হুব্বুশ শাহাওয়াত’, কাম্য জিনিসগুলোর ভালোবাসা। আয়াত শুধু বলে না যে জিনিসগুলো আকর্ষণীয় করা হয়েছে। বলে, সেগুলোর প্রতি ভালোবাসাটাকেই সুন্দর করে দেখানো হয়েছে। আয-যামাখশারী লক্ষ করেন, তালিকার জিনিসগুলোকেই বলা হয়েছে ‘শাহাওয়াত’, অর্থাৎ কামনা। যেন এগুলো কামনা ছাড়া আর কিছুই নয়। এভাবে বোঝানো হয়েছে, অন্তর এগুলোর দিকে কত জোরে টানে।"
+            "bn": "অংশটি শুরু হয় ‘যুইয়িনা’ দিয়ে, সুশোভিত করা হয়েছে, কর্মবাচ্যে। কে সুশোভিত করেছে, তার নাম বলা হয়নি। কী সুশোভিত করা হয়েছে? ‘হুব্বুশ শাহাওয়াত’, কাম্য জিনিসগুলোর ভালোবাসা। আয়াত শুধু বলে না যে জিনিসগুলো আকর্ষণীয় করা হয়েছে। বলে, সেগুলোর প্রতি ভালোবাসাটাকেই সুন্দর করে দেখানো হয়েছে। আয-যামাখশারী লক্ষ করেন, তালিকার জিনিসগুলোকেই বলা হয়েছে ‘শাহাওয়াত’, অর্থাৎ কামনা। যেন এগুলো কামনা ছাড়া আর কিছুই নয়। এতে বোঝা যায়, অন্তর এগুলোর দিকে কত তীব্রভাবে ঝুঁকে পড়ে।"
           },
           {
             "en": "The list is concrete. An-nisa' and al-banin, women and sons; al-qanatir al-muqantarah, heaps upon heaps, a noun and its adjective from one root so that the heap seems to grow as it is heard; of gold and silver; al-khayl al-musawwamah, horses that the commentators explain as branded, or grazing freely, or of fine appearance; cattle; and harth, tilled land. It is the estate of a wealthy man of that society, named item by item, and without contempt.",
@@ -349,7 +349,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari records from Abu Sa'id al-Khudri (RA) that Allah will ask the people of Paradise whether they are content, and when they say they are, He will ask whether He should not give them something better than that. He will then tell them that He causes His approval to descend upon them and will never be displeased with them after it. That is the ridwan of 3:15 seen from inside the Garden. Everything on the first list can be lost; this gift is promised never to be withdrawn.",
-            "bn": "বুখারী আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, আল্লাহ জান্নাতবাসীদের জিজ্ঞেস করবেন তারা সন্তুষ্ট কি না। তারা যখন বলবে তারা সন্তুষ্ট, তিনি জিজ্ঞেস করবেন, তোমাদের কি এর চেয়ে উত্তম কিছু দেব না? তারপর জানাবেন, তিনি তাদের ওপর নিজের সন্তুষ্টি নাজিল করছেন, আর এরপর আর কখনো তাদের ওপর অসন্তুষ্ট হবেন না। জান্নাতের ভেতর থেকে দেখা ৩:১৫ আয়াতের রিদওয়ান এটাই। প্রথম তালিকার সবকিছুই হারিয়ে যেতে পারে। এই উপহারের ব্যাপারে প্রতিশ্রুতি, এটা কোনোদিন ফিরিয়ে নেওয়া হবে না।"
+            "bn": "বুখারী আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, আল্লাহ জান্নাতবাসীদের জিজ্ঞেস করবেন তারা সন্তুষ্ট কি না। তারা যখন বলবে তারা সন্তুষ্ট, তিনি জিজ্ঞেস করবেন, তোমাদের কি এর চেয়ে উত্তম কিছু দেব না? তারপর জানাবেন, তিনি তাদের ওপর নিজের সন্তুষ্টি নাজিল করছেন, আর এরপর আর কখনো তাদের ওপর অসন্তুষ্ট হবেন না। জান্নাতের ভেতর থেকে দেখা ৩:১৫ আয়াতের রিদওয়ান এটাই। প্রথম তালিকার সবকিছুই হারিয়ে যেতে পারে। আর এই উপহারের ব্যাপারে কথা দেওয়া আছে, এটা কোনোদিন ফিরিয়ে নেওয়া হবে না।"
           }
         ]
       },
@@ -377,7 +377,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is lived first by honest naming. Ask which item on its list has the strongest pull on you this year: a marriage you hope for, a child's future, savings, a vehicle you are proud of, or land. Naming it does not make it sinful. It makes it visible, and what is visible can be ranked. The verse's own method is to grant the beauty first and then state the size.",
-            "bn": "এই আয়াত যাপনের প্রথম ধাপ হলো সৎভাবে নাম দেওয়া। নিজেকে জিজ্ঞেস করুন, এ বছর তালিকার কোন জিনিসটা আপনাকে সবচেয়ে বেশি টানছে। হতে পারে প্রত্যাশিত একটা বিয়ে, সন্তানের ভবিষ্যৎ, সঞ্চয়, গর্বের একটা গাড়ি, কিংবা জমি। নাম দিলেই সেটা গুনাহ হয়ে যায় না। বরং চোখের সামনে আসে, আর যা চোখের সামনে থাকে তাকে তার জায়গায় বসানো যায়। আয়াতের নিজের পদ্ধতিও এটাই: আগে সৌন্দর্যটা স্বীকার করা, তারপর তার মাপটা বলে দেওয়া।"
+            "bn": "আয়াতটি জীবনে আনার প্রথম ধাপ: সততার সঙ্গে টানটার নাম বলা। নিজেকে জিজ্ঞেস করুন, এ বছর তালিকার কোন জিনিসটা আপনাকে সবচেয়ে বেশি টানছে। হতে পারে প্রত্যাশিত একটা বিয়ে, সন্তানের ভবিষ্যৎ, সঞ্চয়, গর্বের একটা গাড়ি, কিংবা জমি। নাম বললেই সেটা গুনাহ হয়ে যায় না। বরং চোখের সামনে আসে, আর যা চোখের সামনে থাকে তাকে তার জায়গায় বসানো যায়। আয়াতের নিজের পদ্ধতিও এটাই: আগে সৌন্দর্যটা স্বীকার করা, তারপর তার মাপটা বলে দেওয়া।"
           },
           {
             "en": "Then comes the practice of the better offer. When a choice sets something on the list against the approval of Allah, a prayer time against a deal, a lawful limit against a gain, recall the question of 3:15 and give yourself its answer. And look at 3:17 for what the people who chose better did with their nights: they sought forgiveness before dawn. A few minutes before Fajr are a small and concrete place to begin.",
@@ -469,7 +469,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari explains al-Islam as submission to Allah with humility and obedience. On the second half of the verse he relays differing views on which community is meant, the Jews or the Christians, and the verse's own words, those who were given the Scripture, can cover whoever received a Book and divided over it. He reads baghy as envy and the wish to dominate one another, which is why the verse places the division after the proof arrived and not before.",
-            "bn": "আত-তাবারী ‘আল-ইসলাম’ শব্দের ব্যাখ্যা করেন বিনয় ও আনুগত্যের সঙ্গে আল্লাহর কাছে আত্মসমর্পণ হিসেবে। আয়াতের দ্বিতীয় অর্ধেকে কোন সম্প্রদায়ের কথা বলা হয়েছে, এ নিয়ে তিনি ভিন্ন ভিন্ন মত উল্লেখ করেন: ইহুদি নাকি খ্রিস্টান। আয়াতের নিজের শব্দ, যাদের কিতাব দেওয়া হয়েছিল, এমন যে কাউকেই ধরতে পারে, যে কিতাব পেয়ে তা নিয়ে ভাগ হয়ে গেছে। ‘বাগই’ শব্দকে তিনি পড়েন হিংসা আর একে অন্যের ওপর কর্তৃত্বের আকাঙ্ক্ষা হিসেবে। এ কারণেই আয়াত বিভক্তিকে রেখেছে প্রমাণ আসার পরে, আগে নয়।"
+            "bn": "আত-তাবারী ‘আল-ইসলাম’ শব্দের ব্যাখ্যা করেন বিনয় ও আনুগত্যের সঙ্গে আল্লাহর কাছে আত্মসমর্পণ হিসেবে। আয়াতের দ্বিতীয় অর্ধেকে কোন সম্প্রদায়ের কথা, ইহুদি নাকি খ্রিস্টান, এ নিয়ে তিনি ভিন্ন ভিন্ন মত উল্লেখ করেন। তবে আয়াতের নিজের ভাষা, ‘যাদের কিতাব দেওয়া হয়েছিল’, তাদের সবাইকেই বোঝাতে পারে, যারা কিতাব পেয়ে তা নিয়ে ভাগ হয়ে গেছে। ‘বাগই’ শব্দকে তিনি পড়েন হিংসা আর একে অন্যের ওপর কর্তৃত্বের আকাঙ্ক্ষা হিসেবে। এ কারণেই আয়াত বিভক্তিকে রেখেছে প্রমাণ আসার পরে, আগে নয়।"
           },
           {
             "en": "One of the canonical readings, that of al-Kisa'i, recites the opening of 3:19 as anna ad-dina rather than inna ad-dina. On that reading the clause is grammatically joined to the testimony of 3:18: Allah testifies that there is no deity except Him, and that the religion with Allah is Islam. The other readers begin 3:19 as a fresh statement. Both are recited, and between them the two verses can be heard as a single testimony and as a testimony followed by what it requires.",
@@ -489,7 +489,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A second narration explains how one religion runs through many prophets. Al-Bukhari records from Abu Hurayrah (RA) that the Prophet ﷺ said he is the closest of people to Isa son of Maryam (AS), and that the prophets are brothers of one father, their mothers different and their religion one. The laws differed from one messenger to the next, and the submission did not. That is why Ibn Kathir can say that in every age Islam meant following the messenger of that age.",
-            "bn": "দ্বিতীয় হাদিসটি ব্যাখ্যা করে, এক দ্বীন কীভাবে বহু নবীর ভেতর দিয়ে বয়ে গেছে। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, মারইয়ামের পুত্র ঈসা (আঃ)-এর সবচেয়ে কাছের মানুষ তিনি। আর নবীরা এক পিতার সন্তান ভাই, তাঁদের মা ভিন্ন ভিন্ন, আর তাঁদের দ্বীন এক। এক রাসূল থেকে আরেক রাসূলে শরিয়ত বদলেছে, আত্মসমর্পণ বদলায়নি। এ কারণেই ইবনে কাসীর বলতে পারেন, প্রত্যেক যুগে ইসলাম মানে ছিল সেই যুগের রাসূলের অনুসরণ।"
+            "bn": "দ্বিতীয় হাদিসটি ব্যাখ্যা করে, এক দ্বীন কীভাবে বহু নবীর ভেতর দিয়ে বয়ে গেছে। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, মারইয়ামের পুত্র ঈসা (আঃ)-এর সবচেয়ে কাছের মানুষ তিনি। আর নবীরা পরস্পর বৈমাত্রেয় ভাই: তাঁদের মা ভিন্ন ভিন্ন, কিন্তু দ্বীন এক। এক রাসূল থেকে আরেক রাসূলে শরিয়ত বদলেছে, আত্মসমর্পণ বদলায়নি। এ কারণেই ইবনে কাসীর বলতে পারেন, প্রত্যেক যুগে ইসলাম মানে ছিল সেই যুগের রাসূলের অনুসরণ।"
           }
         ]
       },
@@ -521,7 +521,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second half of 3:19 is a warning to people with knowledge, which includes anyone who has studied even a little. When a disagreement with another believer grows heated, ask honestly whether the heat comes from evidence or from wanting to be over the other person. Say what you hold and why, and give up the pleasure of winning. The verse places the ruin of communities that had Scripture not in ignorance but in rivalry after knowledge.",
-            "bn": "৩:১৯ আয়াতের দ্বিতীয় অর্ধেক জ্ঞানওয়ালাদের জন্য সতর্কবাণী, আর যে সামান্যও পড়াশোনা করেছে সে-ও এর মধ্যে পড়ে। অন্য কোনো মুমিনের সঙ্গে মতভেদ যখন উত্তপ্ত হয়ে ওঠে, সৎভাবে নিজেকে জিজ্ঞেস করুন, উত্তাপটা দলিল থেকে আসছে, নাকি অন্যজনের ওপরে থাকার ইচ্ছা থেকে। আপনি কী মনে করেন আর কেন, সেটা বলুন। জিতে যাওয়ার মজাটা ছেড়ে দিন। কিতাব পাওয়া জাতিগুলোর সর্বনাশ আয়াত খুঁজে পায় অজ্ঞতায় নয়, জ্ঞান আসার পরের রেষারেষিতে।"
+            "bn": "৩:১৯ আয়াতের দ্বিতীয় অর্ধেক জ্ঞানওয়ালাদের জন্য সতর্কবাণী, আর যে সামান্যও পড়াশোনা করেছে সে-ও এর মধ্যে পড়ে। অন্য কোনো মুমিনের সঙ্গে মতভেদ যখন উত্তপ্ত হয়ে ওঠে, সৎভাবে নিজেকে জিজ্ঞেস করুন, উত্তাপটা দলিল থেকে আসছে, নাকি অন্যজনের ওপরে থাকার ইচ্ছা থেকে। আপনি কী মনে করেন আর কেন, সেটা বলুন। জিতে যাওয়ার মজাটা ছেড়ে দিন। আয়াতের কথায়, কিতাব পাওয়া জাতিগুলো ধ্বংস হয়েছে অজ্ঞতার কারণে নয়, জ্ঞান আসার পরের রেষারেষিতে।"
           },
           {
             "en": "And qa'iman bil-qist gives a daily measure. The One you testify to maintains justice, so a testimony to Him that sits comfortably beside injustice in your own dealings contradicts itself. Check the small places first: a wage paid late, a word shaded in your own favour, a relative treated unfairly in a division of property or of attention. Setting those right is part of what the testimony asks.",
@@ -541,7 +541,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "12:101 supplies the ending such a life asks for. Yusuf (AS), at the height of his authority in Egypt and reunited with his family, prays: tawaffani musliman wa alhiqni bis-salihin, cause me to die a Muslim and join me with the righteous. Said together, the two supplications ask to be counted among the witnesses now, and to be found in submission at the end, which is exactly the path that runs from 3:18 into 3:19.",
-            "bn": "১২:১০১ আয়াত দেয় এমন জীবনের কাঙ্ক্ষিত সমাপ্তির দোয়া। ইউসুফ (আঃ), যখন তাঁর হাতে ক্ষমতা আর পরিবার আবার তাঁর কাছে, তখন দোয়া করেন: ‘তাওয়াফফানী মুসলিমাও ওয়া আলহিকনী বিস সালিহীন’, আমাকে মুসলিম অবস্থায় মৃত্যু দিন আর নেককারদের সঙ্গে মিলিয়ে দিন। দুটো দোয়া একসঙ্গে পড়লে চাওয়া হয় এখন সাক্ষীদের মধ্যে গণ্য হওয়া, আর শেষে আত্মসমর্পিত অবস্থায় পাওয়া যাওয়া। ৩:১৮ থেকে ৩:১৯ আয়াতে যাওয়ার পথটাও ঠিক এটাই।"
+            "bn": "১২:১০১ আয়াতে আছে এমন জীবনের উপযুক্ত সমাপ্তির দোয়া। ইউসুফ (আঃ) তখন মিসরে ক্ষমতার শীর্ষে, পরিবারকেও আবার কাছে ফিরে পেয়েছেন। সে সময় তিনি দোয়া করেন: ‘তাওয়াফফানী মুসলিমাও ওয়া আলহিকনী বিস সালিহীন’, আমাকে মুসলিম অবস্থায় মৃত্যু দিন আর নেককারদের সঙ্গে মিলিয়ে দিন। দুটো দোয়া একসঙ্গে পড়লে দুটি জিনিস চাওয়া হয়: এখনই সাক্ষীদের মধ্যে গণ্য হওয়া, আর শেষ সময়ে আত্মসমর্পণের ওপর থাকা। ৩:১৮ থেকে ৩:১৯-এ যাওয়ার পথও ঠিক এটাই।"
           }
         ]
       },
