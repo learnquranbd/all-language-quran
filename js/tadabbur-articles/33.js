@@ -561,7 +561,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di adds that the strain reached the point where the Prophet withdrew from his wives for a time. Yet the Qur'an does not freeze the moment as a quarrel. Allah willed, as-Sa'di puts it, to make the matter easy for His Messenger, to raise the rank of his wives, and to remove from them anything that would lessen their reward. What began as a request about the world was lifted, by revelation, into an invitation to the highest station a woman could hold.",
-            "bn": "সা'দী আরও বলেন, চাপ এমন জায়গায় পৌঁছেছিল যে নবী ﷺ কিছু সময়ের জন্য স্ত্রীদের থেকে আলাদা থাকেন। তবু কুরআন মুহূর্তটাকে ঝগড়া হিসেবে থামিয়ে রাখে না। সা'দীর ভাষায়, আল্লাহ চাইলেন তাঁর রসূলের জন্য বিষয়টা সহজ করে দিতে, তাঁর স্ত্রীদের মর্যাদা উঁচু করতে, আর তাঁদের থেকে এমন সবকিছু সরিয়ে দিতে যা তাঁদের প্রতিদান কমিয়ে দেয়। দুনিয়া নিয়ে যে আবদার দিয়ে শুরু, ওহি তাকে তুলে নিল এক নারীর পাওয়া সর্বোচ্চ মর্যাদার আহ্বানে।"
+            "bn": "সা'দী আরও বলেন, টানাপোড়েন এতদূর গড়িয়েছিল যে নবী ﷺ কিছুদিনের জন্য স্ত্রীদের থেকে আলাদা থাকেন। তবু কুরআন ঘটনাটাকে একটা ঝগড়া হিসেবে আটকে রাখে না। সা'দীর ভাষায়, আল্লাহ চাইলেন তাঁর রাসূলের জন্য ব্যাপারটা সহজ করে দিতে, তাঁর স্ত্রীদের মর্যাদা বাড়াতে, আর যা কিছু তাঁদের প্রতিদান কমিয়ে দিতে পারে, তা তাঁদের থেকে দূর করে দিতে। শুরুটা ছিল দুনিয়ার কিছু চাওয়া দিয়ে; ওহি সেটাকে তুলে নিয়ে গেল এক দাওয়াতে, একজন নারী যত উঁচু মর্যাদা পেতে পারেন, সেই মর্যাদার দিকে।"
           }
         ]
       },
@@ -573,11 +573,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir frames the command plainly: Allah ordered His Messenger to let his wives choose between parting from him, to seek elsewhere the world they wanted, and patience with the narrowness of his home, for which a great reward awaited them with Allah. The verse does not demand that they stay. It honours them with a decision. To be given a true choice, with both outcomes laid out honestly, is itself a mark of respect, and here the one offering it is the Messenger of Allah.",
-            "bn": "ইবন কাসীর আদেশটা সোজাসুজি বুঝিয়ে দেন: আল্লাহ তাঁর রসূলকে বললেন স্ত্রীদের বেছে নিতে দিতে—তাঁর কাছ থেকে সরে গিয়ে অন্যত্র কাঙ্ক্ষিত দুনিয়া খোঁজা, নাকি তাঁর ঘরের টানাটানিতে ধৈর্য ধরা, যার বিনিময়ে আল্লাহর কাছে অপেক্ষা করছে মহা প্রতিদান। আয়াত তাঁদের থেকে থেকে যাওয়ার দাবি করে না। এটি তাঁদের সম্মান দেয় একটি সিদ্ধান্ত দিয়ে। দুই পরিণাম সৎভাবে সামনে রেখে সত্যিকারের একটি পছন্দ দেওয়া নিজেই এক সম্মান, আর এখানে যিনি তা দিচ্ছেন তিনি আল্লাহর রসূল।"
+            "bn": "ইবন কাসীর আদেশটা সোজা ভাষায় বুঝিয়ে দেন। আল্লাহ তাঁর রাসূলকে আদেশ দিলেন স্ত্রীদের দুটির একটি বেছে নেওয়ার সুযোগ দিতে: তাঁকে ছেড়ে গিয়ে অন্য কোথাও নিজেদের কাঙ্ক্ষিত দুনিয়া খোঁজা, অথবা তাঁর ঘরের টানাটানিতে সবর করা, যার জন্য আল্লাহর কাছে তাঁদের অপেক্ষায় আছে মহা প্রতিদান। আয়াত তাঁদের থেকে যেতে বাধ্য করে না। বরং সিদ্ধান্তের ভার তাঁদের হাতে দিয়ে তাঁদের সম্মান করে। দুই দিকের পরিণাম সততার সঙ্গে সামনে রেখে সত্যিকারের বাছাইয়ের সুযোগ দেওয়াটাই এক সম্মান। আর এখানে সেই সুযোগ দিচ্ছেন স্বয়ং আল্লাহর রাসূল।"
           },
           {
             "en": "The worldly side is named here: the life of this world and its adornment, az-zina, the finery and ease a home can hold. The other side is named in 33:29: Allah, His Messenger, and the home of the Hereafter, with a great reward prepared for the doers of good. The pairing is deliberate. The world is set not against poverty but against Allah Himself, so the wives are not asked to choose hardship for its own sake, but to choose what hardship is worth.",
-            "bn": "একটি দিক এখানেই নাম ধরে বলা: দুনিয়ার জীবন আর তার শোভা, আয-যীনাহ, ঘর যে সাজসজ্জা আর আরাম ধরে রাখতে পারে। অন্য দিকটি বলা হয়েছে ৩৩:২৯ আয়াতে: আল্লাহ, তাঁর রসূল আর পরকালের গৃহ, সঙ্গে সৎকর্মশীলদের জন্য প্রস্তুত মহা পুরস্কার। জোড়াটা ইচ্ছাকৃত। দুনিয়াকে দারিদ্র্যের বিপরীতে নয়, বসানো হয়েছে স্বয়ং আল্লাহর বিপরীতে। তাই স্ত্রীদের কষ্টকে কষ্টের জন্য বেছে নিতে বলা হচ্ছে না, বরং বেছে নিতে বলা হচ্ছে কষ্টটা কীসের জন্য মূল্যবান।"
+            "bn": "দুনিয়ার দিকটা এই আয়াতেই নাম ধরে বলা আছে: দুনিয়ার জীবন আর তার শোভা, আয-যীনাহ, অর্থাৎ একটা ঘরে যত সাজসজ্জা আর আরাম থাকতে পারে। অন্য দিকটা আসে ৩৩:২৯ আয়াতে: আল্লাহ, তাঁর রাসূল আর আখিরাতের ঘর, সঙ্গে সৎকর্মশীলদের জন্য তৈরি রাখা মহা প্রতিদান। এই জোড়া ইচ্ছা করেই বাঁধা। দুনিয়াকে দাঁড় করানো হয়েছে দারিদ্র্যের মুখোমুখি নয়, স্বয়ং আল্লাহর মুখোমুখি। তাই স্ত্রীদের কষ্টের জন্যই কষ্ট বেছে নিতে বলা হচ্ছে না; বলা হচ্ছে সেটাই বেছে নিতে, যার জন্য কষ্ট সওয়া সার্থক।"
           }
         ]
       },
@@ -589,11 +589,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Umattiʿkunna, 'I will provide for you,' names a specific thing. At-Tabari explains it as the muta'ah, the parting gift Allah made a due upon men for women they divorce, and he reads it through 2:236, where provision is set 'upon the wealthy according to his means and upon the straitened according to his means.' Al-Baghawi says the same in a word: this is the muta'ah of divorce. The release, if chosen, would not leave a woman empty-handed; it carried a settlement that Allah Himself had legislated.",
-            "bn": "উমাত্তি'কুন্না, 'তোমাদের ভোগসামগ্রী দিয়ে দেব,' একটি নির্দিষ্ট জিনিসের নাম। তাবারী একে বলেন মুতআহ, অর্থাৎ তালাকের সময় নারীদের জন্য আল্লাহ পুরুষদের ওপর যে বিদায়-উপহার ওয়াজিব করেছেন। তিনি এটিকে পড়েন ২:২৩৬ আয়াতের আলোকে, যেখানে ভোগসামগ্রী নির্ধারিত 'সচ্ছলের ওপর তার সাধ্যমতো আর অসচ্ছলের ওপর তার সাধ্যমতো।' বাগভী এক কথায় একই কথাই বলেন: এ হলো তালাকের মুতআহ। বিদায় যদি বেছে নেওয়াও হতো, তা কোনো নারীকে খালি হাতে ছাড়ত না; সঙ্গে থাকত আল্লাহর আইনে বাঁধা এক ব্যবস্থা।"
+            "bn": "উমাত্তি'কুন্না, 'তোমাদের ভোগসামগ্রী দিয়ে দেব', কথাটি একটি নির্দিষ্ট জিনিস বোঝায়। তাবারী বলেন, এ হলো মুতআহ: তালাক দেওয়া স্ত্রীকে বিদায়ের সময় যে উপহার দেওয়া আল্লাহ পুরুষের ওপর ওয়াজিব করেছেন। তিনি একে বোঝেন ২:২৩৬ আয়াতের আলোকে, যেখানে এই ভোগসামগ্রী ঠিক করা হয়েছে 'সচ্ছলের ওপর তার সাধ্যমতো আর অসচ্ছলের ওপর তার সাধ্যমতো।' বাগভী এক কথায় একই কথা বলেন: এটা তালাকের মুতআহ। তাই কেউ বিদায় বেছে নিলেও খালি হাতে যেতেন না; সঙ্গে থাকত আল্লাহর নিজের দেওয়া বিধানে ঠিক করা পাওনা।"
           },
           {
             "en": "At-Tabari then reads wa-usarrihkunna, 'and I will release you,' through the law of parting Allah taught in 65:1: 'When you divorce women, divorce them for their waiting period.' The verb is not a man losing his temper and sending a woman away. It is a release ordered and shaped by revelation, with its timing, its waiting period, and its rights all observed. Even the ending of a marriage, in this telling, is an act of worship bounded by Allah's instruction, not a private storm.",
-            "bn": "এরপর তাবারী 'ওয়া উসাররিহকুন্না,' অর্থাৎ 'আর তোমাদের বিদায় দেব,' পড়েন ৬৫:১ আয়াতে আল্লাহর শেখানো বিদায়ের বিধানের আলোকে: 'তোমরা যখন নারীদের তালাক দাও, তাদের ইদ্দতের হিসাব রেখে তালাক দাও।' এ ক্রিয়া কোনো পুরুষের মেজাজ হারিয়ে নারীকে তাড়িয়ে দেওয়া নয়। এ এমন বিদায় যা ওহি দিয়ে নির্ধারিত আর গড়া, যার সময়, ইদ্দত আর সব হক মেনে চলা হয়। এ বর্ণনায় বিয়ের অবসানও আল্লাহর নির্দেশে বাঁধা এক ইবাদত, কোনো একান্ত ঝড় নয়।"
+            "bn": "এরপর তাবারী 'ওয়া উসাররিহকুন্না', অর্থাৎ 'আর তোমাদের বিদায় দেব', কথাটি বোঝেন ৬৫:১ আয়াতে আল্লাহর শেখানো বিচ্ছেদের বিধান দিয়ে: 'তোমরা যখন নারীদের তালাক দাও, তাদের ইদ্দতের হিসাব রেখে তালাক দাও।' এখানে ক্রিয়াটি এমন কোনো পুরুষের ছবি নয়, যে রাগের মাথায় স্ত্রীকে বের করে দেয়। এ বিদায়ের হুকুম এসেছে ওহি থেকে, তার রূপও ওহিই ঠিক করে দিয়েছে: কখন হবে, ইদ্দত কীভাবে, কার কী হক, সবকিছু মেনে। এই ব্যাখ্যায় বিয়ে ভাঙাও আল্লাহর নির্দেশে বাঁধা এক ইবাদত, মনের ঝড়ে নেওয়া কোনো ব্যক্তিগত সিদ্ধান্ত নয়।"
           }
         ]
       },
@@ -605,11 +605,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sarahan jamilan, 'a gracious release,' is the phrase the verse lingers on. Al-Qurtubi defines it as a release along the sunnah, with no harm and no withholding of what is owed to her. Al-Muyassar renders it 'I will part from you without harm or injury.' As-Sa'di adds the inner tone: without anger or abuse, but with an open heart and a settled mind, before matters ever reach what is unbecoming. The parting is not merely permitted; it is required to be kind.",
-            "bn": "সারাহান জামীলান, 'সুন্দর বিদায়,' এ কথাটির ওপরই আয়াত থমকে দাঁড়ায়। কুরতুবী একে বলেন সুন্নাহ-মাফিক বিদায়, যাতে কোনো ক্ষতি নেই আর তার প্রাপ্য কিছু আটকে রাখা নেই। মুয়াসসার অনুবাদ করে: 'কোনো ক্ষতি বা কষ্ট ছাড়াই তোমাদের থেকে আলাদা হব।' সা'দী ভেতরের সুরটা যোগ করেন: রাগ বা গালমন্দ ছাড়া, বরং খোলা মন আর শান্ত চিত্তে, অবস্থা অশোভন কিছুতে পৌঁছানোর আগেই। বিদায় কেবল অনুমোদিত নয়; তা দয়ালু হওয়া চাই।"
+            "bn": "সারাহান জামীলান, 'সুন্দর বিদায়': আয়াত এই কথাটির ওপর বিশেষ করে থামে। কুরতুবী বলেন, এ হলো সুন্নাহ মোতাবেক বিদায়, যাতে স্ত্রীর কোনো ক্ষতি করা হয় না, তার পাওনাও আটকে রাখা হয় না। মুয়াসসার অর্থ করে: 'কোনো ক্ষতি বা কষ্ট না দিয়ে তোমাদের থেকে আলাদা হব।' সা'দী ভেতরের সুরটাও ধরিয়ে দেন: রাগ বা গালমন্দ ছাড়া, খোলা মনে আর ঠান্ডা মাথায়, ব্যাপারটা অশোভন কিছুতে গড়ানোর আগেই। অর্থাৎ বিদায় শুধু জায়েজ নয়, সে বিদায় সদয় হওয়াও জরুরি।"
           },
           {
             "en": "There is a quiet teaching here that reaches far beyond this household. Ma'arif al-Qur'an draws from the verse that when a husband and wife cannot find ease together, the fitting path is to give her the choice to stay content or to leave with honour, sent off graciously and with a gift, as the sunnah directs. Islam does not pretend every marriage will hold. What it insists on is that if a bond is loosed, it be loosed with dignity, and never turned into a weapon.",
-            "bn": "এখানে একটি নীরব শিক্ষা আছে, যা এ পরিবারের সীমা ছাড়িয়ে অনেক দূর যায়। মাআরিফুল কুরআন আয়াত থেকে টেনে আনে যে স্বামী-স্ত্রী যখন একসঙ্গে স্বস্তি খুঁজে পান না, তখন উপযুক্ত পথ হলো তাঁকে বেছে নিতে দেওয়া—বর্তমান অবস্থায় সন্তুষ্ট থেকে যাওয়া, নাকি সম্মানের সঙ্গে বিদায় নেওয়া, সুন্নাহ মোতাবেক উপহারসহ সৌজন্যে। ইসলাম ভান করে না যে প্রতিটি বিয়ে টিকে যাবে। সে যা জোর দিয়ে বলে তা হলো, বাঁধন খুললে তা যেন মর্যাদার সঙ্গে খোলা হয়, কখনো যেন অস্ত্রে পরিণত না হয়।"
+            "bn": "এখানে একটা চুপচাপ শিক্ষা আছে, যা এই এক পরিবারের গণ্ডি ছাড়িয়ে বহু দূর পৌঁছায়। মাআরিফুল কুরআন আয়াত থেকে এই শিক্ষা বের করে: স্বামী-স্ত্রী যখন একসঙ্গে শান্তি পান না, তখন সঠিক পথ হলো স্ত্রীকে বেছে নিতে দেওয়া। চাইলে তিনি সন্তুষ্ট মনে থেকে যাবেন, নয়তো সম্মানের সঙ্গে বিদায় নেবেন, আর সুন্নাহর নির্দেশমতো তাঁকে বিদায় দেওয়া হবে সৌজন্য আর উপহারসহ। ইসলাম এমন ভান করে না যে প্রতিটি বিয়ে টিকে থাকবে। তার জোর এক জায়গায়: বাঁধন যদি খুলতেই হয়, তবে মর্যাদার সঙ্গে খুলতে হবে, কখনো তাকে অস্ত্র বানানো চলবে না।"
           }
         ]
       },
@@ -621,11 +621,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi records that the scholars read the nature of this choice in two ways. On the first, held by Aisha, Mujahid, Ikrimah and others, the wives were given a choice between remaining in the marriage and being released, and they chose to remain. On the second, reported from al-Hasan and Qatada, they were offered only the choice between the world and the Hereafter, to be kept or let go, with no power of divorce placed in their hands. Al-Qurtubi himself judges the first the stronger.",
-            "bn": "কুরতুবী জানান, এ পছন্দের স্বরূপ আলিমরা দুইভাবে পড়েছেন। প্রথম মত, যা আয়িশা, মুজাহিদ, ইকরিমা ও অন্যরা ধরেন: স্ত্রীদের বেছে নিতে দেওয়া হয়েছিল বিয়েতে থেকে যাওয়া আর বিদায় নেওয়ার মধ্যে, আর তাঁরা থেকে যাওয়াই বেছে নেন। দ্বিতীয় মত, হাসান ও কাতাদা থেকে বর্ণিত: তাঁদের সামনে কেবল দুনিয়া আর আখিরাতের পছন্দ রাখা হয়েছিল, রেখে দেওয়া বা ছেড়ে দেওয়া, তালাকের কোনো ক্ষমতা তাঁদের হাতে দেওয়া হয়নি। কুরতুবী নিজে প্রথম মতটিকেই অধিক সহীহ বলেন।"
+            "bn": "কুরতুবী জানান, এই বাছাইয়ের ধরন আলিমরা দুইভাবে বুঝেছেন। প্রথম মতটি আয়িশা, মুজাহিদ, ইকরিমা ও আরও অনেকের: স্ত্রীদের সুযোগ দেওয়া হয়েছিল বিয়েতে থেকে যাওয়া আর বিদায় নেওয়ার মধ্যে একটি বেছে নেওয়ার, আর তাঁরা থেকে যাওয়াই বেছে নেন। দ্বিতীয় মতটি হাসান ও কাতাদা থেকে বর্ণিত: তাঁদের সামনে রাখা হয়েছিল কেবল দুনিয়া আর আখিরাতের মধ্যে বাছাই, যার ভিত্তিতে তাঁদের রাখা হবে বা ছেড়ে দেওয়া হবে; তালাকের কোনো ক্ষমতা তাঁদের হাতে দেওয়া হয়নি। কুরতুবী নিজে প্রথম মতটিকেই বেশি শক্তিশালী মনে করেন।"
           },
           {
             "en": "The difference is not idle. Aisha said that the Messenger of Allah gave them the choice and they chose him, and he did not count it as a divorce; al-Bukhari and Muslim both record this. Al-Qurtubi reasons that the instruction to consult her parents cannot have been about preferring the Hereafter over the world, for no believer needs counsel to choose Allah. It must have concerned the parting itself. The wives, choosing him, lost nothing of their marriage; the choice only proved where their hearts lay.",
-            "bn": "পার্থক্যটা অকারণ নয়। আয়িশা বলেছেন, আল্লাহর রসূল তাঁদের বেছে নেওয়ার সুযোগ দিলেন আর তাঁরা তাঁকেই বেছে নিলেন, এতে তিনি কোনো তালাক গণ্য করলেন না; বুখারী ও মুসলিম দুইই তা বর্ণনা করেন। কুরতুবী যুক্তি দেন, বাবা-মায়ের পরামর্শ নিতে বলাটা দুনিয়ার ওপর আখিরাতকে বেছে নেওয়া নিয়ে হতে পারে না, কারণ আল্লাহকে বেছে নিতে কোনো মু'মিনের পরামর্শ লাগে না। তা নিশ্চয় বিদায়ের বিষয়েই ছিল। স্ত্রীরা তাঁকে বেছে নিয়ে বিয়ের কিছুই হারাননি; পছন্দটা শুধু দেখিয়ে দিল তাঁদের অন্তর কোথায়।"
+            "bn": "এই মতভেদ নিছক কথার কথা নয়। আয়িশা বলেছেন, আল্লাহর রাসূল তাঁদের বাছাইয়ের সুযোগ দিয়েছিলেন, তাঁরা তাঁকেই বেছে নিয়েছিলেন, আর তিনি একে তালাক হিসেবে গণ্য করেননি; বুখারী ও মুসলিম দুজনেই এটি বর্ণনা করেছেন। কুরতুবীর যুক্তি: বাবা-মায়ের পরামর্শ নিতে বলাটা দুনিয়ার বদলে আখিরাত বেছে নেওয়ার ব্যাপারে হতে পারে না, কারণ আল্লাহকে বেছে নিতে কোনো মু'মিনের কারও পরামর্শ লাগে না। কাজেই কথাটা নিশ্চয়ই বিচ্ছেদ নিয়েই ছিল। স্ত্রীরা তাঁকে বেছে নিয়ে নিজেদের বিয়ের কিছুই হারাননি; এই বাছাই শুধু দেখিয়ে দিল তাঁদের মন কোথায় বাঁধা।"
           }
         ]
       },
@@ -637,31 +637,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The soundest report of what happened comes from Aisha herself, and al-Bukhari preserves it with a short chain. When the command came, the Prophet did not gather his wives for a verdict. He went to each in turn, and he began with Aisha, telling her first not to rush, as a kindness, since he knew which way her parents would guide her. Here is how she remembered that morning, in the wording recorded by al-Bukhari.",
-            "bn": "যা ঘটেছিল তার সবচেয়ে সহীহ বর্ণনা আসে স্বয়ং আয়িশার কাছ থেকে, আর বুখারী তা সংরক্ষণ করেন সংক্ষিপ্ত সনদে। আদেশ আসার পর নবী ﷺ রায় নেওয়ার জন্য স্ত্রীদের একসঙ্গে ডাকেননি। তিনি একে একে প্রত্যেকের কাছে গেলেন, আর শুরু করলেন আয়িশাকে দিয়ে, দয়া করে তাঁকে আগেই বললেন তাড়াহুড়ো না করতে, কারণ তিনি জানতেন তাঁর বাবা-মা কোন পথে পরামর্শ দেবেন। সেই সকালটা তিনি কীভাবে মনে রেখেছেন, তা বুখারীর বর্ণিত ভাষায় এই।"
+            "bn": "যা ঘটেছিল তার সবচেয়ে সহীহ বর্ণনা এসেছে স্বয়ং আয়িশার মুখ থেকে, আর বুখারী তা সংরক্ষণ করেছেন সংক্ষিপ্ত সনদে। আদেশ আসার পর নবী ﷺ রায় শোনার জন্য স্ত্রীদের একসঙ্গে ডাকেননি। তিনি একে একে প্রত্যেকের কাছে গেলেন, শুরু করলেন আয়িশাকে দিয়ে। মমতা থেকেই তাঁকে আগে বলে নিলেন তাড়াহুড়ো না করতে, কারণ তিনি জানতেন তাঁর বাবা-মা তাঁকে কোন দিকে পরামর্শ দেবেন। সেই সকালের কথা আয়িশা যেভাবে মনে রেখেছিলেন, বুখারীর বর্ণনার ভাষায় তা এই:"
           },
           {
             "en": "She said: 'Allah's Messenger came to me when Allah ordered him to give option to his wives. So Allah's Messenger started with me, saying: I am going to mention to you something, but you should not hasten to give your reply unless you consult your parents. He knew that my parents would not order me to leave him. Then he said: Allah says, O Prophet, say to your wives. On that I said to him: Then why should I consult my parents? Verily, I seek Allah, His Apostle and the Home of the Hereafter.'",
-            "bn": "তিনি বলেন: 'আল্লাহর রসূল আমার কাছে এলেন যখন আল্লাহ তাঁকে স্ত্রীদের সুযোগ দিতে আদেশ করলেন। আল্লাহর রসূল আমাকে দিয়েই শুরু করলেন, বললেন: আমি তোমাকে একটি কথা জানাব, তবে বাবা-মায়ের সঙ্গে পরামর্শ না করা পর্যন্ত জবাব দিতে তাড়াহুড়ো কোরো না। তিনি জানতেন আমার বাবা-মা আমাকে তাঁকে ছেড়ে যেতে বলবেন না। তারপর তিনি বললেন: আল্লাহ বলেন, হে নবী, তোমার স্ত্রীদের বলে দাও। তখন আমি তাঁকে বললাম: এ বিষয়ে আমি কেন বাবা-মায়ের পরামর্শ নেব? আমি তো চাই আল্লাহ, তাঁর রসূল আর পরকালের গৃহ।'"
+            "bn": "তিনি বলেন: 'আল্লাহ যখন তাঁর রাসূলকে স্ত্রীদের এখতিয়ার দেওয়ার আদেশ দিলেন, তখন আল্লাহর রাসূল আমার কাছে এলেন। তিনি আমাকে দিয়েই শুরু করলেন, বললেন: তোমাকে একটা কথা বলব, তবে বাবা-মায়ের সঙ্গে পরামর্শ না করে জবাব দিতে তাড়াহুড়ো কোরো না। তিনি জানতেন, আমার বাবা-মা কখনো আমাকে তাঁকে ছেড়ে যেতে বলবেন না। তারপর তিনি বললেন: আল্লাহ বলছেন, হে নবী, তোমার স্ত্রীদের বলে দাও। তখন আমি তাঁকে বললাম: এ ব্যাপারে আমি আবার বাবা-মায়ের পরামর্শ নেব কেন? আমি তো আল্লাহ, তাঁর রাসূল আর আখিরাতের ঘরই চাই।'"
           },
           {
             "en": "Her answer was immediate, and it set the pattern. The same report adds that all of the Prophet's wives then did as Aisha had done, each choosing Allah and His Messenger. This hadith stands in Sahih al-Bukhari and is recorded by Muslim as well. In another sound narration the Prophet told Aisha that Allah had not sent him to be harsh, but as a gentle teacher who makes things easy. The choice honoured them, and the manner of asking honoured them too.",
-            "bn": "তাঁর জবাব এল সঙ্গে সঙ্গে, আর তা-ই গড়ে দিল ধারা। একই বর্ণনায় যোগ আছে, নবী ﷺ-এর স্ত্রীরা সবাই এরপর আয়িশার মতোই করলেন, প্রত্যেকে বেছে নিলেন আল্লাহ ও তাঁর রসূলকে। এ হাদীস সহীহ বুখারীতে আছে, আর মুসলিমও তা বর্ণনা করেন। আরেক সহীহ বর্ণনায় নবী ﷺ আয়িশাকে বলেন, আল্লাহ তাঁকে কঠোর করে পাঠাননি, পাঠিয়েছেন একজন কোমল শিক্ষক করে, যিনি সহজ করে দেন। পছন্দ তাঁদের সম্মান দিল, আর জিজ্ঞেস করার ধরনও তাঁদের সম্মান দিল।"
+            "bn": "আয়িশার জবাব এল সঙ্গে সঙ্গে, আর সেটাই হয়ে গেল সবার পথ। একই বর্ণনায় আছে, এরপর নবী ﷺ-এর সব স্ত্রী আয়িশার মতোই করলেন; প্রত্যেকে আল্লাহ ও তাঁর রাসূলকেই বেছে নিলেন। এ হাদিস সহীহ বুখারীতে আছে, মুসলিমও এটি বর্ণনা করেছেন। আরেকটি সহীহ বর্ণনায় নবী ﷺ আয়িশাকে বলেন, আল্লাহ তাঁকে কঠোর করে পাঠাননি; পাঠিয়েছেন কোমল শিক্ষক করে, যিনি সবকিছু সহজ করে দেন। বাছাইয়ের সুযোগটা যেমন তাঁদের সম্মান করেছিল, জিজ্ঞেস করার ধরনটাও তেমনি।"
           }
         ]
       },
       {
         "h": {
           "en": "Honour, Not a Template",
-          "bn": "সম্মান, কোনো নিয়ম নয়"
+          "bn": "সম্মান, কোনো ছাঁচ নয়"
         },
         "p": [
           {
             "en": "This passage must be read with care, and said plainly: it describes the household of the Prophet at a unique moment, under direct revelation, and it licenses nothing against anyone living. It is not a script a man may wave at his wife, nor a verse to belittle women who ask for their needs, nor a club against the Prophet's family, whom Allah Himself purified and whom every believer is bound to honour. The wives who asked were the Mothers of the Believers, and the asking was no sin.",
-            "bn": "এ আলোচনা পড়তে হবে যত্নের সঙ্গে, আর একটি কথা সোজাসুজি বলা দরকার। এটি নবী ﷺ-এর পরিবারের এক অনন্য মুহূর্তের বর্ণনা, সরাসরি ওহির অধীনে, আর এটি কোনো জীবিত মানুষের বিরুদ্ধে কিছুই বৈধ করে না। এটি এমন কোনো ছক নয় যা কোনো পুরুষ স্ত্রীর দিকে ছুড়ে দিতে পারে, নিজের প্রয়োজন চাওয়া নারীদের ছোট করার আয়াত নয়, আর নবী-পরিবারের বিরুদ্ধে কোনো হাতিয়ার নয়—যাঁদের আল্লাহ নিজেই পবিত্র করেছেন আর যাঁদের সম্মান করা প্রতিটি মু'মিনের কর্তব্য। যাঁরা চেয়েছিলেন তাঁরা উম্মুল মু'মিনীন, আর চাওয়াটা কোনো গুনাহ ছিল না।"
+            "bn": "এই অংশ পড়তে হবে সাবধানে, আর একটা কথা পরিষ্কার করে বলে রাখা দরকার। এখানে নবী ﷺ-এর পরিবারের এক অনন্য সময়ের বর্ণনা, যখন সরাসরি ওহি নাজিল হচ্ছিল। আজ বেঁচে থাকা কারও বিরুদ্ধে এ আয়াত কিছুই বৈধ করে না। এটা এমন কোনো ছক নয়, যা কোনো পুরুষ স্ত্রীর মুখের সামনে নেড়ে দেখাবে। নিজের প্রয়োজনের কথা মুখে আনেন যে নারীরা, তাঁদের ছোট করার জন্যও এ আয়াত নয়। নবী-পরিবারের বিরুদ্ধে লাঠি হিসেবেও নয়, যাঁদের আল্লাহ নিজে পবিত্র করেছেন আর যাঁদের সম্মান করা প্রতিটি মু'মিনের কর্তব্য। যাঁরা চেয়েছিলেন, তাঁরা উম্মুল মু'মিনীন; আর তাঁদের চাওয়াটা কোনো গুনাহ ছিল না।"
           },
           {
             "en": "What it does leave us is a mirror and a measure. The quiet question put to that household is put, in softer form, to every heart: when the world offers its adornment on easy terms, what is it worth beside Allah, His Messenger, and the home of the Hereafter? And when something must be let go, a job, a friendship, a marriage, the verse sets the manner: release it graciously, with no harm and no bitterness. To choose the higher thing, and to part from the lesser with dignity, is the whole of what these words teach.",
-            "bn": "যা এটি আমাদের দিয়ে যায় তা হলো একটি আয়না আর একটি মাপকাঠি। সেই পরিবারকে করা নীরব প্রশ্নটা, আরও কোমল রূপে, প্রতিটি অন্তরকেই করা হয়: দুনিয়া যখন সহজ শর্তে তার শোভা সাধে, আল্লাহ, তাঁর রসূল আর পরকালের গৃহের পাশে তার দাম কত? আর যখন কিছু ছাড়তেই হয়, কোনো চাকরি, কোনো বন্ধুত্ব, কোনো বিয়ে, আয়াত ধরনটা ঠিক করে দেয়: ছাড়ো সৌজন্যে, কোনো ক্ষতি আর তিক্ততা ছাড়া। উঁচু জিনিসটা বেছে নেওয়া আর নিচেরটা থেকে মর্যাদার সঙ্গে সরে আসা—এই দুই মিলেই এই আয়াতের পুরো শিক্ষা।"
+            "bn": "আমাদের জন্য এ আয়াত রেখে যায় একটা আয়না আর একটা মাপকাঠি। ওই পরিবারকে যে নীরব প্রশ্ন করা হয়েছিল, একটু নরম করে সেই প্রশ্ন প্রতিটি অন্তরকেই করা হয়: দুনিয়া যখন সহজ শর্তে তার শোভা সামনে এনে ধরে, আল্লাহ, তাঁর রাসূল আর আখিরাতের ঘরের পাশে তার দাম কতটুকু? আর যখন কিছু ছাড়তেই হয়, হোক তা চাকরি, বন্ধুত্ব বা বিয়ে, আয়াত শিখিয়ে দেয় কীভাবে ছাড়তে হয়: সুন্দরভাবে ছাড়ুন, কারও ক্ষতি না করে, মনে তিক্ততা না রেখে। উঁচুটাকে বেছে নেওয়া আর নিচুটা থেকে মর্যাদার সঙ্গে সরে আসা, এই দুটিই এ আয়াতের পুরো শিক্ষা।"
           }
         ]
       }
@@ -677,11 +677,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is one of the verses whose occasion of revelation is well attested. Umm Salamah (RA), a wife of the Prophet ﷺ, asked why women were not mentioned in the Quran as men were. The report is preserved in the collections of Ahmad and an-Nasa'i, and at-Tirmidhi records the same question from Umm 'Imarah al-Ansariyyah (RA), and this verse came down in reply — naming men and women explicitly, ten times over, in a single sentence.",
-            "bn": "এটি সেই আয়াতগুলোর একটি যার শানে নুযূল সুপ্রমাণিত। নবী ﷺ-এর স্ত্রী উম্মে সালামা (রাঃ) জিজ্ঞেস করেছিলেন, পুরুষদের মতো নারীদের কথা কুরআনে কেন উল্লেখ করা হয় না। বর্ণনাটি আহমাদ ও নাসাঈর সংকলনে সংরক্ষিত, আর তিরমিযীতে একই প্রশ্ন এসেছে উম্মে 'ইমারা আনসারিয়া (রাঃ)-এর সূত্রে; জবাবে এই আয়াতটি নাযিল হয় — একটি বাক্যেই দশবার করে পুরুষ ও নারীর নাম স্পষ্টভাবে উল্লেখ করে।"
+            "bn": "যেসব আয়াতের শানে নুযূল সুপ্রমাণিত, এটি তার একটি। নবী ﷺ-এর স্ত্রী উম্মে সালামা (রাঃ) জিজ্ঞেস করেছিলেন, কুরআনে পুরুষদের কথা যেভাবে আসে, নারীদের কথা সেভাবে আসে না কেন। বর্ণনাটি আহমাদ ও নাসাঈর সংকলনে আছে; তিরমিযী একই প্রশ্ন বর্ণনা করেছেন উম্মে 'ইমারা আনসারিয়া (রাঃ)-এর সূত্রে। জবাবে এই আয়াত নাজিল হয়, আর একটি বাক্যের ভেতরেই দশবার পুরুষ ও নারীর নাম আলাদা করে উল্লেখ করে।"
           },
           {
             "en": "That detail changes how the verse should be heard. Its repetitive structure is not accidental style; the doubling is the answer. Arabic can address a mixed group with the masculine plural alone, and the Quran often does. Here it deliberately does not, and the reason recorded is a question a woman asked out loud and had answered from above.",
-            "bn": "এই তথ্যটি আয়াতটি কীভাবে শোনা উচিত তা বদলে দেয়। এর পুনরাবৃত্ত গঠন কোনো আকস্মিক রচনাশৈলী নয়; জোড়া করে বলাটাই জবাব। আরবি মিশ্র শ্রোতাদের কেবল পুংলিঙ্গ বহুবচন দিয়েই সম্বোধন করতে পারে, আর কুরআন প্রায়ই তা করে। এখানে ইচ্ছাকৃতভাবে তা করা হয়নি, আর এর যে কারণ লিপিবদ্ধ আছে তা হলো এক নারীর উচ্চারিত প্রশ্ন, যার জবাব এসেছিল ওপর থেকে।"
+            "bn": "এই তথ্য জানলে আয়াতটা অন্যভাবে কানে বাজে। এর বারবার ফিরে আসা গঠন নিছক লেখার ঢং নয়; জোড়ায় জোড়ায় বলাটাই আসলে জবাব। আরবিতে নারী-পুরুষ মেশানো দলকে শুধু পুংলিঙ্গ বহুবচন দিয়েই সম্বোধন করা যায়, আর কুরআন প্রায়ই তাই করে। এখানে ইচ্ছা করেই তা করা হয়নি। কারণ হিসেবে বর্ণনায় আছে এক নারীর মুখ ফুটে করা একটি প্রশ্ন, যার জবাব এসেছিল আসমান থেকে।"
           }
         ]
       },
@@ -693,11 +693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verses just before it, 33:28-34, address the wives of the Prophet ﷺ directly and no one else: the choice offered between the world and Allah and His Messenger, the reminder that they are not like any other women, and the instruction to remember what is recited in their houses of the verses of Allah and wisdom. Then, without transition, the address opens out to every believing man and woman on earth.",
-            "bn": "ঠিক আগের আয়াতগুলো, 33:28-34, সরাসরি নবী ﷺ-এর স্ত্রীদেরই সম্বোধন করে, অন্য কাউকে নয়: দুনিয়া আর আল্লাহ ও তাঁর রাসূলের মধ্যে দেওয়া বেছে নেওয়ার সুযোগ, এই স্মরণ যে তাঁরা অন্য কোনো নারীর মতো নন, আর নির্দেশ যে তাঁদের ঘরে আল্লাহর যেসব আয়াত ও হিকমত পাঠ করা হয় তা যেন স্মরণে রাখেন। এরপর, কোনো সেতু ছাড়াই, সম্বোধন খুলে যায় পৃথিবীর প্রতিটি মুমিন পুরুষ ও নারীর দিকে।"
+            "bn": "ঠিক আগের আয়াতগুলো, 33:28-34, সরাসরি শুধু নবী ﷺ-এর স্ত্রীদের সম্বোধন করে: দুনিয়া আর আল্লাহ ও তাঁর রাসূলের মধ্যে বেছে নেওয়ার সুযোগ, তাঁরা যে অন্য কোনো নারীর মতো নন সেই কথা মনে করিয়ে দেওয়া, আর তাঁদের ঘরে আল্লাহর যে আয়াত ও হিকমত তিলাওয়াত হয় তা মনে রাখার নির্দেশ। তারপর কোনো ভূমিকা ছাড়াই সম্বোধন ছড়িয়ে পড়ে দুনিয়ার প্রতিটি মুমিন পুরুষ ও নারীর দিকে।"
           },
           {
             "en": "The verse that follows keeps the same breadth: 33:36 states that no believing man or woman has a choice in a matter once Allah and His Messenger have decided it. Al-Ahzab is a surah about the Battle of the Trench, about the Prophet's household, and about a community reordering its family law; in the middle of all that, the standard of worth is stated in terms that have nothing to do with rank, lineage or sex.",
-            "bn": "পরের আয়াতটিও একই প্রশস্ততা ধরে রাখে: 33:36 বলে, আল্লাহ ও তাঁর রাসূল কোনো বিষয়ে ফয়সালা করে দিলে কোনো মুমিন পুরুষ বা মুমিন নারীর সে বিষয়ে বেছে নেওয়ার অধিকার থাকে না। আল-আহযাব খন্দকের যুদ্ধ, নবী ﷺ-এর পরিবার, আর পারিবারিক বিধান নতুন করে সাজানো এক সমাজ নিয়ে লেখা সূরা; এই সবকিছুর মাঝখানে মূল্যের মাপকাঠি এমন ভাষায় বলা হলো যার সাথে পদমর্যাদা, বংশ বা লিঙ্গের কোনো সম্পর্ক নেই।"
+            "bn": "পরের আয়াতও একই ব্যাপ্তি ধরে রাখে: 33:36 বলে, আল্লাহ ও তাঁর রাসূল কোনো বিষয়ে ফয়সালা দিয়ে দিলে সে ব্যাপারে কোনো মুমিন পুরুষ বা মুমিন নারীর নিজের পছন্দের আর সুযোগ থাকে না। আল-আহযাব সূরার বিষয় খন্দকের যুদ্ধ, নবী ﷺ-এর পরিবার, আর এমন এক সমাজ যে নিজের পারিবারিক বিধান নতুন করে সাজাচ্ছে। এত কিছুর মাঝখানে মানুষের মূল্য মাপার মানদণ্ড বলা হলো এমন ভাষায়, যার সঙ্গে পদমর্যাদা, বংশ বা নারী-পুরুষ হওয়ার কোনো সম্পর্ক নেই।"
           }
         ]
       },
@@ -709,11 +709,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The list begins al-muslimin wal-muslimat, then al-mu'minin wal-mu'minat. The order is not arbitrary. Islam is the outward act of submission; iman is the inward assent, and the commentators consistently read the pair in that order, matching the way the two are distinguished in the well-known hadith of Jibril recorded in the two Sahihs. You enter by the door of islam; iman is what fills the house.",
-            "bn": "তালিকা শুরু হয় আল-মুসলিমীন ওয়াল-মুসলিমাত দিয়ে, তারপর আল-মু’মিনীন ওয়াল-মু’মিনাত। ক্রমটি এলোমেলো নয়। ইসলাম হলো আত্মসমর্পণের বাহ্যিক কাজ; ঈমান হলো ভেতরের স্বীকৃতি, আর মুফাসসিরগণ ধারাবাহিকভাবে এই ক্রমেই জোড়াটি পড়েন — যেভাবে দুই সহীহ গ্রন্থে সংরক্ষিত জিবরীলের বিখ্যাত হাদীসে দুটিকে আলাদা করা হয়েছে। ইসলামের দরজা দিয়ে প্রবেশ; আর ঈমানই ঘরটি ভরে তোলে।"
+            "bn": "তালিকা শুরু হয় আল-মুসলিমীন ওয়াল-মুসলিমাত দিয়ে, তারপর আল-মু’মিনীন ওয়াল-মু’মিনাত। এই ক্রম এলোমেলো নয়। ইসলাম হলো বাইরের আত্মসমর্পণ, ঈমান অন্তরের সায়। মুফাসসিরগণ বরাবর জোড়াটি এই ক্রমেই বোঝেন, ঠিক যেভাবে দুই সহীহ গ্রন্থে সংরক্ষিত জিবরীলের প্রসিদ্ধ হাদিসে দুটিকে আলাদা করা হয়েছে। ইসলামের দরজা দিয়ে ঘরে ঢোকা যায়; ঘরটা ভরে তোলে ঈমান।"
           },
           {
             "en": "Then al-qanitin, from qunut, sustained and willing obedience rather than a single act. Then as-sadiqin, the truthful — sidq covers truth in speech, in promise and in intention. Then as-sabirin, those who hold on: sabr in Arabic is restraint, staying at a post rather than merely enduring quietly. Each of the five is a practice that can be measured over time, not a status a person is born into.",
-            "bn": "এরপর আল-ক্বানিতীন, ক্বুনূত থেকে — অর্থাৎ একবারের কোনো কাজ নয়, বরং স্থায়ী ও স্বেচ্ছাপ্রণোদিত আনুগত্য। এরপর আস-সাদিকীন, সত্যবাদীরা — সিদক কথায়, প্রতিশ্রুতিতে ও নিয়তে সত্যকে ধারণ করে। এরপর আস-সাবিরীন, যারা ধরে থাকে: আরবিতে সবর মানে সংযম, নিজের জায়গায় অটল থাকা — কেবল নীরবে সহ্য করা নয়। এই পাঁচটির প্রতিটিই এমন চর্চা যা সময়ের সাথে মাপা যায়, জন্মসূত্রে পাওয়া কোনো পরিচয় নয়।"
+            "bn": "এরপর আল-ক্বানিতীন, শব্দটি ক্বুনূত থেকে; অর্থাৎ একবারের কোনো কাজ নয়, দীর্ঘ সময় ধরে মন থেকে মেনে চলা। এরপর আস-সাদিকীন, সত্যবাদীরা; সিদক মানে কথায়, ওয়াদায় আর নিয়তে সত্য থাকা। এরপর আস-সাবিরীন, যারা টিকে থাকে: আরবিতে সবর মানে নিজেকে সংযত রাখা, নিজের জায়গা আঁকড়ে থাকা, কেবল চুপচাপ সয়ে যাওয়া নয়। এই পাঁচটির প্রত্যেকটি এমন আমল, যা সময়ের সঙ্গে মাপা যায়; জন্মসূত্রে পাওয়া কোনো মর্যাদা নয়।"
           }
         ]
       },
@@ -725,11 +725,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The list continues al-khashi'in, the humble — khushu' again, the lowering of the self before Allah. Then al-mutasaddiqin, those who give sadaqah, and as-sa'imin, those who fast: two practices with bodies attached, one costing money and the other appetite. Then al-hafizina furujahum, those who guard their chastity, where the masculine carries the explicit object and the feminine follows it without repetition, as Arabic allows.",
-            "bn": "তালিকা চলতে থাকে আল-খাশি‘ঈন দিয়ে, অর্থাৎ বিনীতরা — আবারও খুশূ‘, আল্লাহর সামনে নিজেকে নত করা। এরপর আল-মুতাসাদ্দিকীন, যারা সদকা দেয়, আর আস-সাইমীন, যারা রোজা রাখে: দুটি চর্চা যার সাথে দেহ জড়িত — একটির খরচ অর্থ, অন্যটির খরচ ক্ষুধা। এরপর আল-হাফিযীনা ফুরূজাহুম, যারা নিজেদের সতীত্ব রক্ষা করে; এখানে পুংলিঙ্গ রূপটিই কর্মটি স্পষ্ট করে বহন করে, আর স্ত্রীলিঙ্গ রূপ পুনরাবৃত্তি ছাড়াই তা অনুসরণ করে — আরবি যেমন অনুমতি দেয়।"
+            "bn": "তালিকা এগোয় আল-খাশি‘ঈন দিয়ে, অর্থাৎ বিনয়ী মানুষেরা; আবারও সেই খুশূ‘, আল্লাহর সামনে নিজেকে নিচু করা। এরপর আল-মুতাসাদ্দিকীন, যারা সদকা দেয়, আর আস-সাইমীন, যারা রোজা রাখে। দুটি আমলই শরীরের সঙ্গে জড়িত: একটির মূল্য দিতে হয় টাকায়, অন্যটির খিদেয়। এরপর আল-হাফিযীনা ফুরূজাহুম, যারা নিজেদের সতীত্ব রক্ষা করে। এখানে কর্মপদটি স্পষ্ট বলা আছে কেবল পুংলিঙ্গ রূপের সঙ্গে; স্ত্রীলিঙ্গ রূপ তা আর না বলে পেছনে পেছনে আসে, আরবিতে যার সুযোগ আছে।"
           },
           {
             "en": "The tenth pair is the only one given a qualifier: adh-dhakirina Allaha kathiran wadh-dhakirat, those who remember Allah much, and the women who do so. Kathiran, abundantly, is attached to no other item in the list. Sahih Muslim preserves a narration in which the Prophet ﷺ says the mufarridun have gone ahead, and identifies them using this very phrase — those who remember Allah much, men and women.",
-            "bn": "দশম জোড়াটিই একমাত্র, যার সাথে একটি বিশেষণ যুক্ত: আয্‌যাকিরীনাল্লাহা কাসীরাও ওয়ায্‌যাকিরাত, যারা আল্লাহকে বেশি বেশি স্মরণ করে, আর সেই নারীরাও। কাসীরান অর্থাৎ প্রচুর পরিমাণে — তালিকার আর কোনো বিষয়ের সাথে এটি যুক্ত নয়। সহীহ মুসলিমে সংরক্ষিত এক বর্ণনায় নবী ﷺ বলেন, মুফাররিদূনরা এগিয়ে গেছে, আর তাঁদের পরিচয় দেন ঠিক এই বাক্যাংশ দিয়েই — যারা আল্লাহকে বেশি বেশি স্মরণ করে, পুরুষ ও নারী।"
+            "bn": "দশম জোড়াটিই একমাত্র, যার সঙ্গে একটি বিশেষণ জুড়ে আছে: আয্‌যাকিরীনাল্লাহা কাসীরাও ওয়ায্‌যাকিরাত, যারা আল্লাহকে বেশি বেশি স্মরণ করে, আর যে নারীরা স্মরণ করে। কাসীরান মানে প্রচুর; তালিকার আর কোনো গুণের সঙ্গে এ শব্দ নেই। সহীহ মুসলিমের এক বর্ণনায় নবী ﷺ বলেন, মুফাররিদূন এগিয়ে গেছে। তারপর তাদের পরিচয় দেন ঠিক এই কথাতেই: আল্লাহকে বেশি বেশি স্মরণকারী পুরুষ ও নারী।"
           }
         ]
       },
@@ -741,27 +741,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators note that every item on the list is an action or a settled disposition, and that not one of them depends on wealth, health, freedom, learning or public role. That is the point about equality the verse actually makes: not that men and women have identical duties in law, but that the road to forgiveness and reward is open on identical terms, and that terms are set by what a person does.",
-            "bn": "মুফাসসিরগণ লক্ষ্য করেন যে তালিকার প্রতিটি বিষয়ই হয় একটি কাজ, নয় একটি স্থিতিশীল স্বভাব; আর এর একটিও সম্পদ, স্বাস্থ্য, স্বাধীনতা, শিক্ষা বা প্রকাশ্য ভূমিকার ওপর নির্ভর করে না। সমতা নিয়ে আয়াতটি আসলে এই কথাই বলে: পুরুষ ও নারীর আইনগত দায়িত্ব অভিন্ন — তা নয়; বরং ক্ষমা ও পুরস্কারের পথ অভিন্ন শর্তে খোলা, আর শর্ত নির্ধারিত হয় মানুষ কী করে তা দিয়ে।"
+            "bn": "মুফাসসিরগণ লক্ষ করেন, তালিকার প্রতিটি গুণই হয় কোনো আমল, নয়তো মনের স্থায়ী অভ্যাস। এর একটিও সম্পদ, স্বাস্থ্য, স্বাধীনতা, পড়াশোনা বা সমাজে কোনো পদের ওপর নির্ভর করে না। সমতা নিয়ে আয়াতটি আসলে এই কথাই বলে। শরীয়তে নারী ও পুরুষের দায়িত্ব হুবহু এক, এমন নয়। বরং মাগফিরাত আর প্রতিদানের পথ দুজনের জন্য একই শর্তে খোলা, আর সেই শর্ত ঠিক হয় মানুষ কী আমল করে তা দিয়ে।"
           },
           {
             "en": "The same principle is stated across the Quran in other words. 3:195 declares that Allah does not let the work of any worker among you be lost, male or female. 16:97 promises a good life and a better reward to whoever does righteousness, male or female, while a believer. And 4:124 says the same again. The commentators treat 33:35 as the fullest of these statements because it does not summarise; it enumerates.",
-            "bn": "একই নীতি কুরআনের নানা জায়গায় ভিন্ন ভাষায় বলা হয়েছে। 3:195 ঘোষণা করে, আল্লাহ তোমাদের কোনো কর্মীর কর্ম বিনষ্ট করেন না, পুরুষ হোক বা নারী। 16:97 প্রতিশ্রুতি দেয় উত্তম জীবন ও উত্তম প্রতিদানের, যে-ই সৎকর্ম করে — পুরুষ হোক বা নারী — মুমিন অবস্থায়। আর 4:124 আবার একই কথা বলে। মুফাসসিরগণ 33:35 আয়াতকে এসবের মধ্যে পূর্ণতম মনে করেন, কারণ এটি সংক্ষেপে বলে না; এটি গুনে গুনে বলে।"
+            "bn": "কুরআনের নানা জায়গায় একই নীতি ভিন্ন ভাষায় এসেছে। 3:195 ঘোষণা করে, তোমাদের কোনো আমলকারীর আমল আল্লাহ নষ্ট করেন না, পুরুষ হোক বা নারী। 16:97 উত্তম জীবন আর আরও ভালো প্রতিদানের ওয়াদা দেয় তাকে, যে মুমিন অবস্থায় নেক আমল করে, পুরুষ হোক বা নারী। আর 4:124 আবার সেই একই কথা বলে। মুফাসসিরগণ এসবের মধ্যে 33:35 আয়াতকে সবচেয়ে পূর্ণাঙ্গ মনে করেন, কারণ এ আয়াত সংক্ষেপে সারে না; গুনে গুনে প্রতিটি গুণ বলে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "আজ যেভাবে এটি জীবনে আসে"
+          "bn": "জীবনে কীভাবে মানা যায়"
         },
         "p": [
           {
             "en": "Read as a checklist, the verse is unusually usable. Nine of the ten can be attempted this week by almost anyone: submitting in something you have been resisting, obeying in one specific matter, telling an inconvenient truth, holding your position under provocation, praying one prayer with attention, giving a small amount that you will notice, fasting one day, guarding the eyes as well as the body, and remembering Allah while doing something else entirely.",
-            "bn": "তালিকা হিসেবে পড়লে আয়াতটি অস্বাভাবিক রকম ব্যবহারযোগ্য। দশটির নয়টিই এই সপ্তাহেই প্রায় যে কেউ চেষ্টা করতে পারে: যে বিষয়ে আপনি বাধা দিয়ে আসছেন তাতে আত্মসমর্পণ, নির্দিষ্ট একটি বিষয়ে আনুগত্য, অস্বস্তিকর একটি সত্য বলা, উসকানির মুখেও নিজের জায়গায় অটল থাকা, একটি নামাজ মনোযোগসহ পড়া, এমন সামান্য কিছু দান করা যা টের পাওয়া যায়, একদিন রোজা রাখা, দেহের সাথে চোখেরও হেফাজত করা, আর সম্পূর্ণ অন্য কাজ করতে করতেও আল্লাহকে স্মরণ করা।"
+            "bn": "করণীয়ের তালিকা হিসেবে পড়লে আয়াতটি আশ্চর্য রকম কাজের। দশটির নয়টিই প্রায় যে কেউ এই সপ্তাহেই চেষ্টা করে দেখতে পারেন: যে ব্যাপারে এতদিন মন সায় দেয়নি সেখানে মাথা নোয়ানো, নির্দিষ্ট একটি বিষয়ে আনুগত্য, অস্বস্তিকর একটা সত্য কথা বলা, কেউ উসকানি দিলেও নিজের জায়গায় অটল থাকা, এক ওয়াক্ত নামাজ মন দিয়ে পড়া, এমন পরিমাণ দান করা যা গায়ে লাগে, একদিন রোজা রাখা, শরীরের সঙ্গে চোখেরও হেফাজত করা, আর সম্পূর্ণ অন্য কাজে ব্যস্ত থাকতে থাকতেও আল্লাহকে স্মরণ করা।"
           },
           {
             "en": "The last of these is the one most available to people whose lives leave little room. Dhikr requires no schedule, no clothing, no company and no quiet room. That is worth saying in a verse revealed because a woman noticed she was not being named, since much of the work that fills a life — a household, care of the sick, a long shift — has no witnesses. The verse names both the worker and the wage.",
-            "bn": "এর শেষটিই সবচেয়ে সহজলভ্য তাদের জন্য, যাদের জীবনে ফাঁক খুব কম। যিকিরের জন্য সময়সূচি লাগে না, পোশাক লাগে না, সঙ্গী লাগে না, নিরিবিলি ঘরও লাগে না। এমন একটি আয়াতের প্রসঙ্গে কথাটি বলার মতো, যা নাযিল হয়েছিল কারণ এক নারী লক্ষ্য করেছিলেন তাঁর নাম নেওয়া হচ্ছে না — কেননা জীবন ভরে রাখা কাজের অনেকটাই, যেমন সংসার, রোগীর সেবা, দীর্ঘ এক শিফট, কোনো সাক্ষী রেখে যায় না। আয়াতটি কর্মীরও নাম বলে, মজুরিরও।"
+            "bn": "শেষটিই তাদের জন্য সবচেয়ে সহজ, যাদের জীবনে অবসর খুব কম। জিকিরের জন্য সময়সূচি লাগে না, বিশেষ পোশাক লাগে না, সঙ্গী লাগে না, নিরিবিলি ঘরও লাগে না। কথাটা বিশেষ করে বলার মতো, কারণ এ আয়াত নাজিল হয়েছিল এক নারী লক্ষ করেছিলেন বলে যে তাঁর নাম আসছে না। জীবনের অনেক কাজই তো এমন, যার কোনো সাক্ষী থাকে না: সংসার সামলানো, অসুস্থের সেবা, দীর্ঘ শিফটের চাকরি। আয়াতটি কর্মীর নামও বলে, তার মজুরির কথাও বলে।"
           }
         ]
       }
@@ -777,27 +777,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "These two verses carry two commands. O you who believe, remember Allah with much remembrance, and glorify Him morning and evening. They arrive in Surah al-Ahzab, a surah of siege, treaties and household legislation — the most crowded of circumstances — a few verses after 33:35, whose list of praiseworthy qualities in men and women ends with the men who remember Allah much and the women who remember, for whom forgiveness and an immense reward are prepared.",
-            "bn": "এই দুটি আয়াত দুটি নির্দেশ বহন করে। হে মুমিনগণ, তোমরা আল্লাহকে অধিক পরিমাণে স্মরণ করো, এবং সকাল-সন্ধ্যায় তাঁর পবিত্রতা ঘোষণা করো। এগুলো এসেছে সূরা আল-আহযাবে — অবরোধ, চুক্তি ও পারিবারিক বিধানের এক সূরায়, সবচেয়ে ব্যস্ত পরিস্থিতির মধ্যে — 33:35 আয়াতের কয়েক আয়াত পরে, যেখানে নারী-পুরুষের প্রশংসনীয় গুণের তালিকা শেষ হয়েছে আল্লাহকে অধিক স্মরণকারী পুরুষ ও স্মরণকারী নারীদের দিয়ে, যাদের জন্য প্রস্তুত রাখা হয়েছে ক্ষমা ও মহাপুরস্কার।"
+            "bn": "এই দুই আয়াতে দুটি নির্দেশ: হে মুমিনগণ, তোমরা আল্লাহকে বেশি বেশি স্মরণ করো, আর সকাল-সন্ধ্যা তাঁর পবিত্রতা ঘোষণা করো। আয়াত দুটি এসেছে সূরা আল-আহযাবে, যে সূরায় অবরোধ, চুক্তি আর পারিবারিক বিধানের কথা; অর্থাৎ জীবনের সবচেয়ে ব্যস্ত পরিস্থিতির মাঝখানে। এর কয়েক আয়াত আগে 33:35, যেখানে নারী-পুরুষের প্রশংসনীয় গুণের তালিকা শেষ হয়েছে আল্লাহকে বেশি বেশি স্মরণকারী পুরুষ ও স্মরণকারী নারীদের দিয়ে, যাদের জন্য তৈরি রাখা হয়েছে মাগফিরাত আর মহা প্রতিদান।"
           },
           {
             "en": "The placement teaches before the words do. Remembrance is not commanded from a hermitage; it is commanded to people mid-battle and mid-marriage, in the same breath as laws about debts of loyalty and family life. The Quran evidently does not consider a crowded life an excuse for a silent heart. It considers a crowded life the exact place where remembrance earns its adjective: much.",
-            "bn": "শব্দের আগে অবস্থানটিই শিক্ষা দেয়। যিকিরের আদেশ কোনো নির্জন সাধনগুহা থেকে আসেনি; এসেছে যুদ্ধের মাঝখানে ও সংসারের মাঝখানে থাকা মানুষদের প্রতি — আনুগত্যের দায় ও পারিবারিক জীবনের বিধানের সঙ্গে একই নিঃশ্বাসে। কুরআন স্পষ্টতই ব্যস্ত জীবনকে নীরব হৃদয়ের অজুহাত মনে করে না। বরং ব্যস্ত জীবনকেই মনে করে সেই জায়গা, যেখানে যিকির তার বিশেষণটি অর্জন করে: অধিক।"
+            "bn": "শব্দ কিছু বলার আগেই আয়াতের অবস্থান শিক্ষা দেয়। জিকিরের আদেশ কোনো নির্জন আস্তানার মানুষকে দেওয়া হয়নি। দেওয়া হয়েছে যুদ্ধের মাঝখানে আর সংসারের মাঝখানে থাকা মানুষদের, আনুগত্যের দায় আর পারিবারিক জীবনের বিধানের সঙ্গে একই নিঃশ্বাসে। বোঝাই যায়, কুরআন ব্যস্ত জীবনকে নীরব অন্তরের অজুহাত মনে করে না। বরং ব্যস্ত জীবনই সেই জায়গা, যেখানে জিকির তার বিশেষণটি অর্জন করে: অধিক।"
           }
         ]
       },
       {
         "h": {
           "en": "Much, With No Ceiling",
-          "bn": "অধিক — কোনো ঊর্ধ্বসীমা নেই"
+          "bn": "অধিক, যার কোনো সীমা নেই"
         },
         "p": [
           {
             "en": "The grammar of the first command doubles its own emphasis. Udhkuru is an imperative verb; dhikran kathiran adds the cognate noun with an adjective — remember with much remembering. Arabic uses this construction to intensify, and the Quran here attaches the intensity to quantity: the target is abundance itself. No number is given, no threshold after which a believer has remembered enough. The command is open-ended by design, and the design is the point.",
-            "bn": "প্রথম নির্দেশের ব্যাকরণ তার নিজের জোরকে দ্বিগুণ করে। উযকুরূ একটি আদেশসূচক ক্রিয়া; যিকরান কাসীরান তার সঙ্গে যোগ করে সমধাতুজ বিশেষ্য ও একটি বিশেষণ — স্মরণ করো অধিক স্মরণে। আরবি এই গঠন ব্যবহার করে জোর বাড়াতে, আর কুরআন এখানে সেই জোর জুড়ে দিয়েছে পরিমাণের সঙ্গে: লক্ষ্যটাই হলো প্রাচুর্য। কোনো সংখ্যা দেওয়া হয়নি, এমন কোনো সীমা নেই যার পরে একজন মুমিনের স্মরণ যথেষ্ট হয়ে যায়। নির্দেশটি ইচ্ছাকৃতভাবেই খোলা প্রান্তের, আর সেই নকশাটাই আসল কথা।"
+            "bn": "প্রথম নির্দেশের ব্যাকরণেই জোর দ্বিগুণ। উযকুরূ আদেশসূচক ক্রিয়া; তার সঙ্গে যিকরান কাসীরান যোগ করে একই ধাতুর বিশেষ্য আর একটি বিশেষণ: স্মরণ করো, বেশি বেশি স্মরণ। আরবিতে জোর বাড়াতে এই গঠন ব্যবহার হয়, আর কুরআন এখানে সেই জোর বেঁধে দিয়েছে পরিমাণের সঙ্গে: লক্ষ্যই হলো প্রাচুর্য। কোনো সংখ্যা বলা হয়নি, এমন কোনো সীমা নেই যা পেরোলে বলা যাবে মুমিনের স্মরণ যথেষ্ট হয়েছে। নির্দেশটা ইচ্ছা করেই খোলা রাখা হয়েছে, আর এই খোলা রাখাটাই আসল কথা।"
           },
           {
             "en": "A remark related from Ibn Abbas (RA), which Ibn Kathir quotes under this verse, states the uniqueness plainly: every duty Allah imposed has a known limit, and its people are excused in valid circumstances — except remembrance, for which He set no limit, and no one has an excuse for abandoning it short of losing his mind. The traveller shortens prayer and the sick pray sitting, but no situation exists in which dhikr becomes impossible, because a heart travels light.",
-            "bn": "ইবনে আব্বাস (রাঃ) থেকে বর্ণিত একটি উক্তি, যা ইবনে কাসীর এই আয়াতের আলোচনায় উদ্ধৃত করেছেন, এই অনন্যতাকে সরাসরি বলে দেয়: আল্লাহ যত দায়িত্ব ফরয করেছেন তার প্রতিটির একটি জানা সীমা আছে, এবং বৈধ অবস্থায় তার পালনকারীরা অব্যাহতি পায় — কেবল যিকির ছাড়া; এর কোনো সীমা তিনি রাখেননি, আর বুদ্ধি হারানো ছাড়া এটি ছেড়ে দেওয়ার কোনো ওজরও কারও নেই। মুসাফির নামায কসর করে, অসুস্থ ব্যক্তি বসে পড়ে; কিন্তু এমন কোনো অবস্থা নেই যেখানে যিকির অসম্ভব হয়ে যায়, কারণ হৃদয় চলে হালকা বোঝা নিয়ে।"
+            "bn": "ইবনে আব্বাস (রাঃ) থেকে বর্ণিত একটি উক্তি, যা ইবনে কাসীর এই আয়াতের আলোচনায় এনেছেন, এই বিশেষত্ব সোজাসুজি বলে দেয়: আল্লাহ যত ফরজ দিয়েছেন, প্রত্যেকটির একটা নির্দিষ্ট সীমা আছে, আর সংগত ওজর থাকলে মানুষ তা থেকে ছাড় পায়। ব্যতিক্রম কেবল জিকির। এর কোনো সীমা তিনি বেঁধে দেননি, আর পাগল হয়ে যাওয়া ছাড়া এটা ছেড়ে দেওয়ার কোনো ওজর কারও নেই। মুসাফির নামাজ কসর করে, অসুস্থ মানুষ বসে নামাজ পড়ে; কিন্তু এমন কোনো অবস্থা নেই যখন জিকির অসম্ভব, কারণ অন্তরের সফরে কোনো বোঝা লাগে না।"
           }
         ]
       },
@@ -809,11 +809,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second command narrows from quantity to schedule: sabbihu, glorify Him, bukratan wa asilan — in the early morning and as the day declines. Tasbih is the specific remembrance that declares Allah free of every imperfection, and the two times named are the day's hinges, when night turns into day and day leans back towards night. The same frame appears in 20:130, where glorification before the rising of the sun and before its setting is commanded to the Prophet ﷺ.",
-            "bn": "দ্বিতীয় নির্দেশটি পরিমাণ থেকে সময়সূচিতে নেমে আসে: সাব্বিহূ — তাঁর পবিত্রতা ঘোষণা করো — বুকরাতান ওয়া আসীলা: ভোরবেলায় এবং দিন যখন হেলে পড়ে। তাসবীহ সেই সুনির্দিষ্ট যিকির, যা আল্লাহকে প্রতিটি অসম্পূর্ণতা থেকে মুক্ত ঘোষণা করে; আর নাম নেওয়া দুটি সময় হলো দিনের দুই কবজা — যখন রাত দিনে পরিণত হয় আর দিন হেলে পড়ে রাতের দিকে। একই কাঠামো 20:130 আয়াতেও আছে, যেখানে নবী ﷺ-কে সূর্যোদয়ের আগে ও সূর্যাস্তের আগে তাসবীহর আদেশ দেওয়া হয়েছে।"
+            "bn": "দ্বিতীয় নির্দেশ পরিমাণ থেকে সময়ের দিকে আসে: সাব্বিহূ, তাঁর পবিত্রতা ঘোষণা করো, বুকরাতান ওয়া আসীলা, ভোরে আর দিন যখন ঢলে পড়ে। তাসবীহ হলো সেই বিশেষ জিকির, যা ঘোষণা করে আল্লাহ সব ত্রুটি থেকে পবিত্র। আর যে দুটি সময়ের নাম এসেছে, সেগুলো দিনের দুই কবজা: যখন রাত দিনে গড়ায়, আর দিন আবার রাতের দিকে হেলে পড়ে। একই কাঠামো আছে 20:130 আয়াতে, যেখানে নবী ﷺ-কে সূর্য ওঠার আগে আর ডোবার আগে তাসবীহ পড়ার আদেশ দেওয়া হয়েছে।"
           },
           {
             "en": "The pairing of the two commands is practical wisdom. An open-ended obligation with no anchor tends to evaporate; an anchored routine with no aspiration tends to shrink. So the verses give both: remember much, without ceiling, and glorify at these two fixed posts, without fail. The morning and evening remembrances fence the day at both ends, and whatever falls between them has been claimed in advance for Allah.",
-            "bn": "দুটি নির্দেশের এই জোড় এক ব্যবহারিক প্রজ্ঞা। নোঙরবিহীন খোলা দায়িত্ব সাধারণত উবে যায়; আকাঙ্ক্ষাবিহীন বাঁধা রুটিন সাধারণত সংকুচিত হয়। তাই আয়াত দুটি দুটোই দেয়: স্মরণ করো অধিক, কোনো ঊর্ধ্বসীমা ছাড়া, আর পবিত্রতা ঘোষণা করো এই দুটি নির্দিষ্ট চৌকিতে, ব্যতিক্রম ছাড়া। সকাল-সন্ধ্যার যিকির দিনটিকে দুই প্রান্ত থেকে ঘিরে দেয়, আর মাঝখানে যা কিছু পড়ে তা আগেভাগেই আল্লাহর জন্য দাবি করা হয়ে গেছে।"
+            "bn": "দুটি নির্দেশ একসঙ্গে দেওয়ার মধ্যে আছে বাস্তব প্রজ্ঞা। যে খোলা দায়িত্বের কোনো নোঙর নেই, তা সাধারণত হারিয়ে যায়; আর যে বাঁধা রুটিনের পেছনে বড় কোনো আকাঙ্ক্ষা নেই, তা ধীরে ধীরে ছোট হয়ে আসে। তাই আয়াত দুটি দুটোই দেয়: বেশি বেশি স্মরণ করো, কোনো সীমা ছাড়া; আর এই দুই নির্দিষ্ট সময়ে তাসবীহ পড়ো, কোনো দিন বাদ না দিয়ে। সকাল-সন্ধ্যার জিকির দিনটাকে দুই মাথা থেকে ঘিরে রাখে, আর মাঝখানে যা কিছু আসে, তা আগেভাগেই আল্লাহর নামে লেখা হয়ে যায়।"
           }
         ]
       },
@@ -825,11 +825,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators keep the definition of dhikr wide. It includes the tongue's formulas — tasbih, tahmid, takbir, tahlil, recitation of the Quran and du'a — but also the heart's silent awareness of Allah while the hands work, and the deliberate remembering of His commands at the moment of temptation. A trader who recalls Allah at the instant an easy deception offers itself is performing remembrance of a high order, which is why 62:10 commands those dispersing for trade to seek Allah's bounty and remember Him much.",
-            "bn": "মুফাসসিরগণ যিকিরের সংজ্ঞা প্রশস্ত রাখেন। এর মধ্যে আছে জিহ্বার বাক্যগুলো — তাসবীহ, তাহমীদ, তাকবীর, তাহলীল, কুরআন তিলাওয়াত ও দুআ — কিন্তু আরও আছে হাত কাজে ব্যস্ত থাকা অবস্থায় অন্তরের নীরব আল্লাহ-সচেতনতা, আর প্রলোভনের মুহূর্তে তাঁর আদেশ ইচ্ছাকৃতভাবে মনে করা। যে ব্যবসায়ী সহজ একটি প্রতারণার সুযোগ সামনে আসামাত্র আল্লাহকে স্মরণ করে, সে উঁচু স্তরের যিকির করছে — এজন্যই 62:10 আয়াতে বাণিজ্যে ছড়িয়ে পড়া মানুষদের আদেশ দেওয়া হয়েছে আল্লাহর অনুগ্রহ খুঁজতে এবং তাঁকে অধিক স্মরণ করতে।"
+            "bn": "মুফাসসিরগণ জিকিরের সংজ্ঞা প্রশস্ত রাখেন। এর মধ্যে আছে মুখের নির্দিষ্ট বাক্যগুলো: তাসবীহ, তাহমীদ, তাকবীর, তাহলীল, কুরআন তিলাওয়াত আর দুআ। আবার হাত যখন কাজে ব্যস্ত, তখন অন্তরে নীরবে আল্লাহকে মনে রাখাও জিকির। প্রলোভনের মুহূর্তে জেনেবুঝে তাঁর হুকুম মনে করাও জিকির। সহজে ঠকানোর সুযোগ সামনে আসামাত্র যে ব্যবসায়ী আল্লাহকে মনে করে, সে উঁচু স্তরের জিকির করছে। এজন্যই 62:10 আয়াতে ব্যবসার জন্য ছড়িয়ে পড়া মানুষদের আদেশ দেওয়া হয়েছে আল্লাহর অনুগ্রহ তালাশ করতে আর তাঁকে বেশি বেশি স্মরণ করতে।"
           },
           {
             "en": "The Quran also names the postures: in 3:191 the people of understanding remember Allah standing, sitting and lying on their sides. Those three positions cover essentially every state a body passes through in a day. The command to remember much is therefore not a demand for more free time; it is a demand that the time already passing — commuting, cooking, waiting, resting — be threaded with remembrance instead of running empty.",
-            "bn": "কুরআন দেহভঙ্গিগুলোরও নাম নেয়: 3:191 আয়াতে বুদ্ধিমানেরা আল্লাহকে স্মরণ করে দাঁড়িয়ে, বসে ও কাত হয়ে শুয়ে। এই তিনটি অবস্থান কার্যত সেই প্রতিটি অবস্থাকে ধারণ করে, যার ভেতর দিয়ে একটি শরীর দিনে যায়। অতএব অধিক স্মরণের নির্দেশ বাড়তি অবসরের দাবি নয়; এটি এই দাবি যে এমনিতেই বয়ে যাওয়া সময়গুলো — যাতায়াত, রান্না, অপেক্ষা, বিশ্রাম — খালি না কেটে যিকিরের সুতোয় গাঁথা হোক।"
+            "bn": "কুরআন দেহের অবস্থাগুলোরও নাম বলে: 3:191 আয়াতে বোধসম্পন্ন মানুষেরা আল্লাহকে স্মরণ করে দাঁড়িয়ে, বসে আর কাত হয়ে শুয়ে। দিনে শরীর যত অবস্থায় থাকে, মোটামুটি সবই এই তিনটির মধ্যে পড়ে। তাই বেশি বেশি স্মরণের আদেশ বাড়তি অবসরের দাবি নয়। দাবিটা হলো, যে সময় এমনিতেই কেটে যাচ্ছে, যাতায়াতে, রান্নায়, অপেক্ষায়, বিশ্রামে, তা যেন খালি না কেটে জিকিরে গাঁথা থাকে।"
           }
         ]
       },
@@ -841,11 +841,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) that the Prophet ﷺ said: the mufarridun have gone ahead. When asked who they were, he answered: the men who remember Allah much and the women who remember. The image is of a race in which a quiet category of people has already pulled clear of the field — not by extra wealth or extraordinary deeds, but by keeping their hearts and tongues occupied while everyone else's ran idle.",
-            "bn": "মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: মুফাররিদূনরা এগিয়ে গেছে। জিজ্ঞেস করা হলো, তারা কারা; তিনি উত্তর দিলেন: আল্লাহকে অধিক স্মরণকারী পুরুষ ও স্মরণকারী নারীরা। ছবিটি এক দৌড়ের — যেখানে একদল নীরব মানুষ ইতিমধ্যেই বাকি সবাইকে পেছনে ফেলে গেছে; বাড়তি সম্পদে নয়, অসাধারণ কীর্তিতেও নয়, বরং এভাবে যে অন্য সবার অন্তর-জিহ্বা যখন অলস ঘুরছিল, তাদেরগুলো তখন ব্যস্ত ছিল।"
+            "bn": "মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: মুফাররিদূন এগিয়ে গেছে। জিজ্ঞেস করা হলো, তারা কারা? তিনি বললেন: আল্লাহকে বেশি বেশি স্মরণকারী পুরুষ আর স্মরণকারী নারীরা। ছবিটা একটা দৌড়ের, যেখানে চুপচাপ একদল মানুষ এরই মধ্যে বাকি সবাইকে অনেক পেছনে ফেলে দিয়েছে। বাড়তি সম্পদ বা অসাধারণ কোনো কীর্তি দিয়ে নয়; অন্যদের অন্তর আর জিহ্বা যখন অলস পড়ে ছিল, তখনো তারা নিজেদের অন্তর আর জিহ্বা ব্যস্ত রেখেছিল বলে।"
           },
           {
             "en": "Al-Bukhari narrates from Abu Musa al-Ash'ari (RA) that the Prophet ﷺ said: the likeness of the one who remembers his Lord and the one who does not remember his Lord is the likeness of the living and the dead. The comparison is physiological, not poetic decoration. A heart cut off from remembrance still beats, but the verse's own audience knew the difference between a body that breathes and a person who is alive to the One who made them.",
-            "bn": "বুখারী আবু মূসা আল-আশআরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে তার রবকে স্মরণ করে আর যে তার রবকে স্মরণ করে না — তাদের উপমা জীবিত ও মৃতের উপমা। তুলনাটি শারীরবৃত্তীয়, কাব্যিক অলংকার নয়। যিকির থেকে বিচ্ছিন্ন হৃদয়ও স্পন্দিত হয়, কিন্তু আয়াতের নিজস্ব শ্রোতারা জানতেন — নিঃশ্বাস নেওয়া একটি শরীর, আর যিনি তাকে বানিয়েছেন তাঁর প্রতি জাগ্রত একজন মানুষ — এ দুয়ের পার্থক্য কোথায়।"
+            "bn": "বুখারী আবু মূসা আল-আশআরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে তার রবকে স্মরণ করে আর যে তার রবকে স্মরণ করে না, তাদের উপমা জীবিত আর মৃতের মতো। তুলনাটা জীবন-মৃত্যুর বাস্তব তুলনা, কবিতার সাজ নয়। জিকির থেকে বিচ্ছিন্ন হৃদয়ও ধুকধুক করে চলে; কিন্তু যারা প্রথম এ কথা শুনেছিলেন, তাঁরা জানতেন নিঃশ্বাস নেওয়া একটা শরীর আর যিনি তাকে সৃষ্টি করেছেন তাঁর প্রতি জেগে থাকা একজন মানুষের মধ্যে তফাত কোথায়।"
           }
         ]
       },
@@ -857,11 +857,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Practice begins where the verses point: fix the two posts first. The morning remembrances after Fajr and the evening ones as the day declines take minutes, and their regularity matters more than their length. Then let dhikr colonise the day's dead time — the phrases of tasbih need no ablution, no direction, no mat. What the verses forbid, in effect, is the assumption that remembrance must wait for the right setting. It was commanded to people under siege.",
-            "bn": "অনুশীলন শুরু হয় আয়াত দুটি যেখানে ইশারা করে সেখান থেকে: আগে দুটি চৌকি পাকা করুন। ফজরের পরের সকালকার যিকির আর দিন হেলে পড়ার সন্ধ্যাকালীন যিকির লাগে কয়েক মিনিট, আর সেগুলোর দৈর্ঘ্যের চেয়ে নিয়মিততাই বেশি গুরুত্বপূর্ণ। তারপর যিকিরকে দখল করতে দিন দিনের মৃত সময়গুলো — তাসবীহর বাক্যগুলোর জন্য অযু লাগে না, কিবলা লাগে না, জায়নামাযও লাগে না। আয়াত দুটি কার্যত যা নিষেধ করে তা হলো এই ধারণা যে যিকিরের জন্য উপযুক্ত পরিবেশের অপেক্ষা করতে হবে। এর আদেশ তো দেওয়া হয়েছিল অবরুদ্ধ মানুষদের।"
+            "bn": "আমল শুরু হয় সেখান থেকে, যেদিকে আয়াত দুটি ইশারা করে: আগে দুটি খুঁটি পাকা করুন। ফজরের পর সকালের জিকির আর দিন ঢলে পড়লে সন্ধ্যার জিকির, দুটো মিলিয়ে কয়েক মিনিটের ব্যাপার; কত লম্বা তার চেয়ে বড় কথা, নিয়মিত হচ্ছে কি না। তারপর দিনের ফাঁকা সময়গুলো জিকির দখল করে নিক। তাসবীহর বাক্যের জন্য অজু লাগে না, কিবলা লাগে না, জায়নামাজও লাগে না। আয়াত দুটি আসলে যে ধারণাটা নাকচ করে দেয় তা হলো, জিকিরের জন্য উপযুক্ত পরিবেশের অপেক্ষা করতে হবে। এই আদেশ তো দেওয়া হয়েছিল অবরোধে ঘেরা মানুষদের।"
           },
           {
             "en": "The return on this practice is stated in 13:28 — those who believe and whose hearts find rest in the remembrance of Allah — unquestionably, in the remembrance of Allah do hearts find rest. A heart that remembers Allah often stays anchored no matter what the day brings, because its point of reference sits outside the day's weather. The news changes, the diagnosis arrives, the market falls; the One being remembered morning and evening does not.",
-            "bn": "এই অনুশীলনের প্রতিদান বলা আছে 13:28 আয়াতে: যারা ঈমান আনে এবং আল্লাহর স্মরণে যাদের অন্তর প্রশান্ত হয় — জেনে রাখো, আল্লাহর স্মরণেই অন্তরসমূহ প্রশান্তি পায়। যে হৃদয় আল্লাহকে প্রায়ই স্মরণ করে, দিন যা-ই আনুক তা নোঙর করা থাকে, কারণ তার নির্ভরবিন্দু দিনের আবহাওয়ার বাইরে অবস্থিত। খবর বদলায়, রোগনির্ণয়ের রিপোর্ট আসে, বাজার পড়ে যায়; কিন্তু সকাল-সন্ধ্যায় যাঁকে স্মরণ করা হচ্ছে, তিনি বদলান না।"
+            "bn": "এই আমলের ফল বলা আছে 13:28 আয়াতে: যারা ঈমান আনে আর আল্লাহর স্মরণে যাদের অন্তর প্রশান্ত হয়; জেনে রাখো, আল্লাহর স্মরণেই অন্তর প্রশান্তি পায়। যে অন্তর প্রায়ই আল্লাহকে স্মরণ করে, দিন যা-ই নিয়ে আসুক, সে নোঙর ফেলে স্থির থাকে, কারণ তার ভরসার জায়গা দিনের আবহাওয়ার বাইরে। খবর বদলায়, রোগ ধরা পড়ার খবর আসে, বাজার পড়ে যায়; কিন্তু সকাল-সন্ধ্যা যাঁকে স্মরণ করা হয়, তিনি বদলান না।"
           }
         ]
       }
@@ -920,7 +920,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Whose Witness Is He?",
-          "bn": "তিনি কার সাক্ষী"
+          "bn": "তিনি কার সাক্ষী?"
         },
         "p": [
           {
@@ -949,7 +949,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Neither office cancels the other. Hope without warning turns careless; warning without hope turns to despair. The believer is meant to live between them — carried forward by the promise, kept honest by the caution. That the glad tidings is named first, here and in the Torah description, tilts the balance gently toward mercy, without letting go of the warning that makes the mercy worth seeking.",
-            "bn": "কোনো দায়িত্ব অন্যটিকে বাতিল করে না। সতর্কতা ছাড়া আশা মানুষকে বেপরোয়া করে; আশা ছাড়া সতর্কতা নিয়ে যায় নিরাশার দিকে। ঈমানদারের থাকার কথা এ দুইয়ের মাঝখানে। প্রতিশ্রুতি তাকে সামনে টানে, আর সতর্কতা তাকে সৎ রাখে। সুসংবাদকে যে প্রথমে নাম দেওয়া হলো, এখানে আর তাওরাতের বর্ণনায়ও, তা ভারসাম্যকে আলতো করে রহমতের দিকে হেলিয়ে দেয়, অথচ সেই সতর্কতাকে ছাড়ে না যা রহমতকে খোঁজার মতো করে তোলে।"
+            "bn": "কোনো দায়িত্ব অন্যটিকে বাতিল করে না। সতর্কতা ছাড়া আশা মানুষকে বেপরোয়া করে; আশা ছাড়া সতর্কতা নিয়ে যায় নিরাশার দিকে। ঈমানদারের থাকার কথা এ দুইয়ের মাঝখানে। প্রতিশ্রুতি তাকে সামনে টানে, আর সতর্কতা তাকে সৎ রাখে। এখানে আর তাওরাতের বর্ণনাতেও সুসংবাদের কথা আগে এসেছে। এতে পাল্লা আলতো করে রহমতের দিকে ঝোঁকে, তবু সেই সতর্কতা ছেড়ে দেওয়া হয় না, যার কারণেই রহমত খোঁজার মতো জিনিস হয়ে ওঠে।"
           }
         ]
       },
@@ -1001,7 +1001,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For the one who follows him, the three offices are a steadying. In a surah of siege and strain, the believer is told that he walks behind a witness who sees his days, a bearer of glad tidings who points to mercy worth reaching for, and a warner whose caution is itself a kindness. To take all three to heart is to live watched, hopeful, and awake — which is exactly what a season of trial asks of a believer.",
-            "bn": "যে তাঁকে অনুসরণ করে, তার জন্য এই তিন দায়িত্ব এক ভরসা। ঘেরাও আর টানাপোড়েনের সূরায় ঈমানদারকে বলা হচ্ছে, সে এমন একজনের পেছনে হাঁটে যিনি তার দিনগুলো দেখেন এমন এক সাক্ষী, যিনি এমন এক সুসংবাদদাতা যে খুঁজে পাওয়ার মতো রহমতের দিকে ইশারা করেন, আর যিনি এমন এক সতর্ককারী যাঁর সতর্কতাই দয়া। তিনটিকেই অন্তরে নেওয়া মানে বাঁচা দেখা-অবস্থায়, আশায় আর জেগে থেকে। সংকটের মৌসুম ঈমানদারের কাছে ঠিক এটাই চায়।"
+            "bn": "যে তাঁকে অনুসরণ করে, তার জন্য এই তিন দায়িত্ব এক ভরসা। ঘেরাও আর টানাপোড়েনের এই সূরায় ঈমানদারকে জানানো হচ্ছে, সে কার পেছনে হাঁটছে: এমন এক সাক্ষী, যিনি তার দিনগুলো দেখেন; এমন এক সুসংবাদদাতা, যিনি দেখিয়ে দেন কোন রহমতের জন্য চেষ্টা করা সার্থক; আর এমন এক সতর্ককারী, যাঁর সতর্ক করাটাই দয়া। তিনটিকেই অন্তরে নেওয়ার মানে, কেউ দেখছেন জেনে বাঁচা, বুকে আশা রাখা আর সজাগ থাকা। পরীক্ষার মৌসুমে ঈমানদারের কাছে ঠিক এটাই চাওয়া হয়।"
           }
         ]
       }
@@ -1053,7 +1053,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's examples show the direction the law actually moved: Safiyyah bint Huyayy, taken among the captives of Khaybar, he set free and made her freedom her bridal gift, and Juwayriyah bint al-Harith he likewise freed and then married. The whole weight of the Qur'an falls on chastity and dignity, and here the movement runs toward liberation and lawful marriage. So the clause needs stating plainly: it describes a law of its own age and licenses nothing against any living person, is no warrant for cruelty or seizure, and its trajectory ran toward the freeing of slaves the Qur'an urges as worship.",
-            "bn": "ইবন কাসীরের উদাহরণগুলো দেখিয়ে দেয়, বিধান আসলে কোন দিকে এগিয়েছে: খায়বারের বন্দিদের মধ্য থেকে পাওয়া সাফিয়্যা বিনতে হুয়াই-কে তিনি মুক্ত করে তাঁর মুক্তিকেই দেনমোহর বানান, আর জুওয়াইরিয়া বিনতে হারিসকেও একইভাবে মুক্ত করে তারপর বিয়ে করেন। কুরআনের গোটা ভার পড়ে সতীত্ব ও মর্যাদার ওপর, আর এখানে গতিটা চলে মুক্তি ও বৈধ বিবাহের দিকে। তাই ধারাটি সোজাসুজি বলা দরকার: এটি তার নিজের যুগের এক বিধানের বর্ণনা, কোনো জীবিত মানুষের বিরুদ্ধে কিছুর অনুমতি নয়, নিষ্ঠুরতা বা কাউকে ধরে নেওয়ার ছাড়পত্রও নয়; এর গতিপথ ছিল দাসমুক্তির দিকে, যাকে কুরআন ইবাদত বলে উৎসাহ দেয়।"
+            "bn": "ইবন কাসীরের উদাহরণগুলো দেখিয়ে দেয়, বিধান আসলে কোন দিকে এগিয়েছে: খায়বারের বন্দিদের মধ্য থেকে পাওয়া সাফিয়্যা বিনতে হুয়াই-কে তিনি মুক্ত করে তাঁর মুক্তিকেই দেনমোহর বানান, আর জুওয়াইরিয়া বিনতে হারিসকেও একইভাবে মুক্ত করে তারপর বিয়ে করেন। কুরআনের গোটা ভার পড়ে সতীত্ব ও মর্যাদার ওপর, আর এখানে গতিটা চলে মুক্তি ও বৈধ বিয়ের দিকে। তাই ধারাটি নিয়ে একটা কথা পরিষ্কার বলে রাখা দরকার। এটি নিজের যুগের এক বিধানের বর্ণনা। আজ বেঁচে থাকা কারও বিরুদ্ধে এটি কিছুই বৈধ করে না, নিষ্ঠুরতা বা কাউকে ধরে নিয়ে যাওয়ার ছাড়পত্রও এটি নয়। এর গতিপথ ছিল দাসমুক্তির দিকে, যাকে কুরআন ইবাদত হিসেবে উৎসাহ দেয়।"
           }
         ]
       },
@@ -1089,7 +1089,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di draws the same line from the words themselves. Khalisatan laka, he says, means that the permission of marriage by gift is the Prophet's ﷺ alone; the believers may not marry a woman merely because she has offered herself. So even here, inside a privilege, the verse keeps the believers' ordinary law in view. The honour widens his path where theirs stays fixed, and the text is at pains to keep the two from blurring into each other.",
-            "bn": "সা'দী শব্দগুলো থেকেই একই সীমারেখা টানেন। তিনি বলেন, খালিসাতান লাকা মানে হিবার মাধ্যমে বিয়ের অনুমতি কেবল নবী ﷺ-এরই; কোনো নারী নিজেকে নিবেদন করেছে বলেই মুমিনরা তাকে বিয়ে করতে পারে না। তাই এই বিশেষ অধিকারের ভেতরেও আয়াত মুমিনদের সাধারণ বিধানকে চোখের সামনে রাখে। সম্মান তাঁর পথ প্রশস্ত করে, যেখানে তাদের পথ নির্ধারিতই থাকে; আর বক্তব্য যত্ন নেয় যেন দুটি পথ একে অপরের সঙ্গে ঘুলিয়ে না যায়।"
+            "bn": "সা'দী শব্দগুলো থেকেই একই সীমারেখা টানেন। তিনি বলেন, খালিসাতান লাকা মানে হিবার মাধ্যমে বিয়ের অনুমতি কেবল নবী ﷺ-এরই; কোনো নারী নিজেকে নিবেদন করেছে বলেই মুমিনরা তাকে বিয়ে করতে পারে না। তাই এই বিশেষ অধিকারের ভেতরেও আয়াত মুমিনদের সাধারণ বিধানকে চোখের সামনে রাখে। সম্মান তাঁর পথ প্রশস্ত করে, যেখানে তাদের পথ যেমন ছিল তেমনই থাকে। আর আয়াতের ভাষা বিশেষভাবে খেয়াল রাখে, যাতে দুটি পথ মিশে এক না হয়ে যায়।"
           }
         ]
       },
