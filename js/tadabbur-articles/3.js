@@ -553,11 +553,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "When I say there is no deity except Allah, do I say it as a claim of my own, or as my place in a testimony already given? Has what I have learned made me gentler, or has it handed me a new way to feel above others? In my last hard disagreement with another believer, was I following the evidence, or was I trying to win?",
-            "bn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, এ কথা আমি কীভাবে বলি? নিজের একটা দাবি হিসেবে, নাকি আগে থেকে দেওয়া এক সাক্ষ্যে নিজের জায়গা হিসেবে? যা শিখেছি তা কি আমাকে নরম করেছে, নাকি অন্যদের চেয়ে নিজেকে বড় ভাবার নতুন একটা উপায় হাতে তুলে দিয়েছে? অন্য কোনো মুমিনের সঙ্গে আমার শেষ কঠিন মতভেদে আমি কি দলিলের পেছনে ছিলাম, নাকি জিততে চাইছিলাম?"
+            "bn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, এ কথা আমি কীভাবে বলি? নিজের একটা দাবি হিসেবে, নাকি আগেই দেওয়া এক সাক্ষ্যে নিজের জায়গা নিয়ে? যা শিখেছি তাতে কি আমি নরম হয়েছি, নাকি অন্যদের চেয়ে নিজেকে বড় ভাবার নতুন একটা উপায় পেয়ে গেছি? শেষবার অন্য কোনো মুমিনের সঙ্গে যখন কঠিন মতভেদ হলো, আমি কি দলিল মেনে চলছিলাম, নাকি জিততে চাইছিলাম?"
           },
           {
             "en": "Is my Islam a name I carry, or a submission that shows in what I did today? Where in my dealings have I let injustice sit next to a testimony to the One who maintains justice? And if my life were taken today, would I be found in the state Yusuf (AS) asked to be found in when he prayed to die a Muslim?",
-            "bn": "আমার ইসলাম কি কেবল একটা নাম যা আমি বয়ে বেড়াই, নাকি এমন আত্মসমর্পণ যা আজকের কাজে দেখা গেছে? আমার লেনদেনের কোন জায়গায় আমি অবিচারকে বসতে দিয়েছি ইনসাফ ধরে রাখা সত্তার পক্ষে দেওয়া সাক্ষ্যের ঠিক পাশে? আর আজই যদি আমার জীবন নিয়ে নেওয়া হয়, ইউসুফ (আঃ) মুসলিম অবস্থায় মৃত্যুর যে দোয়া করেছিলেন, আমাকে কি সেই অবস্থায় পাওয়া যাবে?"
+            "bn": "আমার ইসলাম কি শুধু বয়ে বেড়ানো একটা নাম, নাকি এমন আত্মসমর্পণ, যা আজকের কাজে দেখা গেছে? যিনি ইনসাফ কায়েম রাখেন, আমি তাঁর পক্ষে সাক্ষ্য দিই; অথচ লেনদেনের কোন জায়গায় সেই সাক্ষ্যের ঠিক পাশেই অন্যায়কে বসে থাকতে দিয়েছি? আর আজই যদি আমার মৃত্যু আসে, ইউসুফ (আঃ) মুসলিম হয়ে মৃত্যুর যে দোয়া করেছিলেন, আমাকে কি সেই অবস্থায় পাওয়া যাবে?"
           }
         ]
       }
@@ -568,16 +568,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Du'a You Are Told to Say",
-          "bn": "যে দোয়া বলতে বলা হয়েছে"
+          "bn": "যে দোয়া আপনাকে পড়তে বলা হয়েছে"
         },
         "p": [
           {
             "en": "The passage begins with qul, say. That single word changes its status. This is not a description of Allah that a reader may admire; it is a script placed in the mouth, words the believer is instructed to use. Then Allahumma, the vocative form Arabic reserves for addressing Allah — not ya Allah but Allahumma, a heavier and more formal call. The verse is teaching not only what to believe about sovereignty but how to speak to its Owner.",
-            "bn": "অংশটি শুরু হয় কুল দিয়ে — বলো। এই একটি শব্দই এর মর্যাদা বদলে দেয়। এটি আল্লাহ সম্পর্কে এমন কোনো বর্ণনা নয় যা পাঠক কেবল প্রশংসা করবে; এটি মুখে তুলে দেওয়া একটি পাঠ, যে শব্দগুলো ব্যবহার করতে মুমিনকে নির্দেশ দেওয়া হয়েছে। এরপর আল্লাহুম্মা, আরবি যে সম্বোধনরূপটি কেবল আল্লাহর জন্যই রাখে — ইয়া আল্লাহ নয়, আল্লাহুম্মা, ভারী ও অধিকতর আনুষ্ঠানিক ডাক। আয়াত কেবল রাজত্ব সম্পর্কে কী বিশ্বাস করতে হবে তা শেখায় না, তার মালিকের সাথে কীভাবে কথা বলতে হবে তাও শেখায়।"
+            "bn": "অংশটি শুরু হয় কুল দিয়ে, মানে বলুন। এই একটি শব্দেই এর মর্যাদা বদলে যায়। এটা আল্লাহর এমন কোনো বর্ণনা নয়, যা পাঠক শুধু পড়ে মুগ্ধ হবেন। এ হলো মুখে তুলে দেওয়া কথা, যে কথাগুলো বলতে মুমিনকে হুকুম করা হয়েছে। এরপর আসে আল্লাহুম্মা। আরবিতে ডাকার এই রূপটি কেবল আল্লাহর জন্যই রাখা। ইয়া আল্লাহ নয়, আল্লাহুম্মা: আরও ভারী, আরও আনুষ্ঠানিক ডাক। আয়াতটি শুধু রাজত্ব নিয়ে কী বিশ্বাস করতে হবে তা শেখায় না, রাজত্বের মালিকের সঙ্গে কীভাবে কথা বলতে হয় তাও শেখায়।"
           },
           {
             "en": "Malik al-mulk is the title given: Owner of all dominion. Malik is the possessor, mulk is kingship or dominion itself, so the phrase means the One who owns kingship — not a king among kings but the Owner of the very thing kings hold. Everything a ruler has, he has on loan from the One being addressed. That is established before a single request is made.",
-            "bn": "মালিকুল-মুলক — এই উপাধিটিই দেওয়া হয়েছে: সমস্ত রাজত্বের মালিক। মালিক অর্থ অধিকারী, আর মুলক অর্থ রাজত্ব নিজেই; তাই বাক্যাংশটির অর্থ, যিনি রাজত্বেরই মালিক — বাদশাহদের মধ্যে একজন বাদশাহ নন, বরং বাদশাহরা যা ধরে আছে তারই মালিক। শাসকের যা কিছু আছে, সবই যাঁকে সম্বোধন করা হচ্ছে তাঁর কাছ থেকে ধার নেওয়া। একটিও আবেদন করার আগেই এটি স্থির করে দেওয়া হয়।"
+            "bn": "এখানে আল্লাহকে যে উপাধিতে ডাকা হয়েছে তা হলো মালিকুল-মুলক: সমস্ত রাজত্বের মালিক। মালিক মানে অধিকারী, আর মুলক মানে রাজত্ব বা ক্ষমতা নিজেই। তাই কথাটির অর্থ, যিনি রাজত্বেরই মালিক। তিনি বাদশাহদের মধ্যে একজন বাদশাহ নন; বাদশাহরা যা হাতে ধরে আছে, তিনি তারই মালিক। কোনো শাসকের যা কিছু আছে, সবই তিনি ধার হিসেবে পেয়েছেন তাঁর কাছ থেকে, যাঁকে এখানে ডাকা হচ্ছে। কিছু চাওয়ার আগেই এ কথা পাকা হয়ে যায়।"
           }
         ]
       },
@@ -589,27 +589,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Four movements follow in two pairs. Tu'ti al-mulka man tasha', You give dominion to whom You will; wa tanzi'u al-mulka mimman tasha', and You tear dominion away from whom You will. Nazaa is not a gentle taking. It is the verb for pulling something out by force, the way a stake is wrenched from the ground. The Arabic does not pretend that the fall of the powerful is quiet.",
-            "bn": "এরপর আসে দুই জোড়ায় চারটি গতি। তু’তিল-মুলকা মান তাশা, তুমি যাকে ইচ্ছা রাজত্ব দাও; ওয়া তানযি‘উল-মুলকা মিম্মান তাশা, আর যার কাছ থেকে ইচ্ছা রাজত্ব ছিনিয়ে নাও। নাযা‘আ কোনো কোমল নেওয়া নয়। এটি সেই ক্রিয়া যা বোঝায় জোর করে কিছু উপড়ে ফেলা, যেভাবে মাটি থেকে খুঁটি টেনে তোলা হয়। ক্ষমতাবানের পতন যে নিঃশব্দ, আরবি তা দাবি করে না।"
+            "bn": "এরপর দুই জোড়ায় আসে চারটি কথা। তু’তিল-মুলকা মান তাশা: আপনি যাকে চান রাজত্ব দেন; ওয়া তানযি‘উল-মুলকা মিম্মান তাশা: আর যার কাছ থেকে চান রাজত্ব ছিনিয়ে নেন। নাযা‘আ মানে কোমলভাবে নেওয়া নয়। এই ক্রিয়ার মানে জোর করে কিছু উপড়ে ফেলা, যেভাবে মাটি থেকে খুঁটি টেনে তোলা হয়। ক্ষমতাবানের পতন যে নিঃশব্দে ঘটে, আরবি এমন ভান করে না।"
           },
           {
             "en": "Then the pair that touches ordinary people: wa tu'izzu man tasha' wa tudhillu man tasha'. You give izzah to whom You will and dhillah to whom You will. Izzah is honour with strength in it — dignity that cannot be taken; dhillah is the state of being lowered. Four times the phrase man tasha', whomever You will, is repeated. The repetition removes any suggestion of a rule that could be worked out and exploited.",
-            "bn": "এরপর সেই জোড়া যা সাধারণ মানুষকে স্পর্শ করে: ওয়া তু‘ইয্যু মান তাশা ওয়া তুযিল্লু মান তাশা। তুমি যাকে ইচ্ছা ইয্‌যত দাও, আর যাকে ইচ্ছা যিল্লতি দাও। ইয্‌যত হলো শক্তিমিশ্রিত সম্মান — এমন মর্যাদা যা কেড়ে নেওয়া যায় না; আর যিল্লতি হলো নিচু করে দেওয়া অবস্থা। চারবার পুনরাবৃত্ত হলো মান তাশা — যাকে তুমি ইচ্ছা করো। এই পুনরাবৃত্তি এমন কোনো নিয়মের ইঙ্গিত মুছে দেয় যা হিসাব করে বের করে কাজে লাগানো যেত।"
+            "bn": "এরপর আসে সেই জোড়া, যা সাধারণ মানুষের জীবনকেও ছুঁয়ে যায়: ওয়া তু‘ইয্যু মান তাশা ওয়া তুযিল্লু মান তাশা। আপনি যাকে চান ইয্‌যত দেন, যাকে চান যিল্লত দেন। ইয্‌যত হলো এমন সম্মান, যার ভেতরে শক্তি আছে, যে মর্যাদা কেউ কেড়ে নিতে পারে না। আর যিল্লত হলো নিচে নামিয়ে দেওয়া অবস্থা। মান তাশা, অর্থাৎ যাকে আপনি চান, কথাটি চারবার এসেছে। এই পুনরাবৃত্তির ফলে এমন কোনো নিয়মের ধারণা আর টেকে না, যা হিসাব কষে বের করে নিজের সুবিধায় কাজে লাগানো যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "In Your Hand Is the Good",
-          "bn": "কল্যাণ তোমারই হাতে"
+          "bn": "কল্যাণ আপনারই হাতে"
         },
         "p": [
           {
             "en": "After four verbs, two of which describe removal and humbling, comes biyadika al-khayr — in Your hand is the good. Only good is ascribed. The commentators note this carefully: although the pairs include tearing away and abasing, the address does not attribute evil to Allah, and they take it as a lesson in the adab, the etiquette, of how He is spoken to and spoken of.",
-            "bn": "চারটি ক্রিয়ার পরে, যার দুটি ছিনিয়ে নেওয়া ও নিচু করার কথা বলে, আসে বিয়াদিকাল-খায়র — কল্যাণ তোমারই হাতে। কেবল কল্যাণকেই আরোপ করা হলো। মুফাসসিরগণ বিষয়টি বিশেষভাবে লক্ষ্য করেন: যদিও জোড়াগুলোর মধ্যে ছিনিয়ে নেওয়া ও অপদস্থ করা আছে, সম্বোধনটি আল্লাহর প্রতি অকল্যাণ আরোপ করে না; আর তাঁরা একে আদব-এর শিক্ষা হিসেবে নেন, অর্থাৎ তাঁর সাথে ও তাঁকে নিয়ে কীভাবে কথা বলতে হয় তার শিষ্টাচার।"
+            "bn": "চারটি ক্রিয়ার দুটি বলে ছিনিয়ে নেওয়া আর নিচু করার কথা। এর পরেই আসে বিয়াদিকাল-খায়র: কল্যাণ আপনারই হাতে। আল্লাহর সঙ্গে এখানে শুধু কল্যাণকেই জোড়া হয়েছে। মুফাসসিরগণ বিষয়টি খুব যত্ন করে লক্ষ করেছেন। জোড়াগুলোতে ছিনিয়ে নেওয়া আর অপদস্থ করার কথা থাকলেও এই সম্বোধনে অকল্যাণকে আল্লাহর সঙ্গে যুক্ত করা হয়নি। তাঁরা একে আদবের শিক্ষা হিসেবে নেন: আল্লাহকে ডেকে কীভাবে কথা বলতে হয়, আর তাঁর সম্পর্কে কীভাবে বলতে হয়।"
           },
           {
             "en": "There is a second lesson underneath the etiquette. Losing rank, losing money, being brought low — from inside, none of these feels like khayr. The verse insists that the hand they come from holds only good, which shifts the question from what happened to what it is for. The clause closes innaka ala kulli shay'in qadir, You are over all things capable, sealing the address with power so that the confidence has something to rest on.",
-            "bn": "এই শিষ্টাচারের নিচে আরেকটি শিক্ষা আছে। মর্যাদা হারানো, অর্থ হারানো, নিচে নেমে যাওয়া — ভেতর থেকে এর কোনোটিই খায়র বলে মনে হয় না। আয়াত জোর দিয়ে বলে, যে হাত থেকে এগুলো আসে সেই হাতে কেবল কল্যাণই আছে; ফলে প্রশ্নটি ‘কী ঘটল’ থেকে সরে গিয়ে ‘কীসের জন্য ঘটল’ হয়ে যায়। বাক্যাংশটি শেষ হয় ইন্নাকা ‘আলা কুল্লি শাইয়িন কাদীর দিয়ে — তুমি সবকিছুর ওপর ক্ষমতাবান; ক্ষমতার ঘোষণা দিয়ে সম্বোধন সিলমোহর করা হয়, যাতে আস্থার দাঁড়ানোর জায়গা থাকে।"
+            "bn": "এই আদবের নিচে আরেকটি শিক্ষা আছে। পদ হারানো, টাকা হারানো, নিচে নেমে যাওয়া: ভেতর থেকে এর কোনোটিকেই খায়র বলে মনে হয় না। আয়াত জোর দিয়ে বলে, এগুলো যে হাত থেকে আসে, সেই হাতে শুধু কল্যাণই আছে। ফলে প্রশ্নটা আর থাকে না কী ঘটল; প্রশ্ন হয়ে দাঁড়ায়, এটা কীসের জন্য। এই অংশ শেষ হয় ইন্নাকা ‘আলা কুল্লি শাইয়িন কাদীর দিয়ে: আপনি সবকিছুর ওপর ক্ষমতাবান। ক্ষমতার এই ঘোষণা দিয়ে সম্বোধনটি শেষ হয়, যাতে ভরসা দাঁড়ানোর মতো একটা জায়গা পায়।"
           }
         ]
       },
@@ -621,43 +621,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In 3:27 the same power is shown at a scale nobody disputes. Tuliju al-layla fin-nahar wa tuliju an-nahara fil-layl — You make the night enter into the day and the day enter into the night. Walaja means to slip inside gradually. This is not a switch being thrown; it is the slow lengthening of one at the expense of the other across a year, a change so gradual that no one can name the day it happened.",
-            "bn": "3:27 আয়াতে একই ক্ষমতা দেখানো হয় এমন মাপে যা নিয়ে কারো বিতর্ক নেই। তূলিজুল-লাইলা ফিন-নাহার ওয়া তূলিজুন-নাহারা ফিল-লাইল — তুমি রাতকে দিনে প্রবেশ করাও, আর দিনকে রাতে প্রবেশ করাও। ওয়ালাজা মানে ধীরে ধীরে ভেতরে ঢুকে পড়া। এটি সুইচ টিপে দেওয়া নয়; এটি সারা বছর ধরে একটির খরচে অন্যটির ধীর দীর্ঘায়ন — এমন ধীর পরিবর্তন যে কেউ বলতে পারে না কোন দিন তা ঘটল।"
+            "bn": "৩:২৭ আয়াতে একই ক্ষমতা দেখানো হয় এমন বড় পরিসরে, যা নিয়ে কারও দ্বিমত নেই। তূলিজুল-লাইলা ফিন-নাহার ওয়া তূলিজুন-নাহারা ফিল-লাইল: আপনি রাতকে দিনের ভেতর ঢুকিয়ে দেন, আর দিনকে রাতের ভেতর। ওয়ালাজা মানে ধীরে ধীরে ভেতরে ঢুকে পড়া। এ সুইচ টিপে দেওয়ার মতো হঠাৎ বদল নয়। সারা বছর ধরে একটি একটু একটু করে লম্বা হয়, আর অন্যটি ছোট হয়। বদলটা এত ধীরে আসে যে কেউ বলতে পারে না, ঠিক কোন দিন তা ঘটল।"
           },
           {
             "en": "Then: wa tukhriju al-hayya min al-mayyit wa tukhriju al-mayyita min al-hayy, You bring the living out of the dead and the dead out of the living — the same statement Allah makes of Himself in 6:95, where it is set beside the splitting of the seed. And the passage ends wa tarzuqu man tasha'u bighayri hisab, You provide for whom You will without reckoning. Bighayri hisab is not merely generosity; it means the provision is not audited by anything we would recognise as a scale.",
-            "bn": "এরপর: ওয়া তুখরিজুল-হাইয়া মিনাল-মাইয়িতি ওয়া তুখরিজুল-মাইয়িতা মিনাল-হাইয়, তুমি মৃত থেকে জীবিতকে বের করো আর জীবিত থেকে মৃতকে — একই কথা আল্লাহ নিজের সম্পর্কে বলেন 6:95 আয়াতে, যেখানে তা বীজ বিদীর্ণ করার পাশে রাখা হয়েছে। আর অংশটি শেষ হয় ওয়া তারযুকু মান তাশাউ বিগাইরি হিসাব দিয়ে — তুমি যাকে ইচ্ছা বেহিসাব রিজিক দাও। বিগাইরি হিসাব কেবল উদারতা নয়; এর মানে সেই রিজিক আমাদের চেনা কোনো মাপকাঠিতে যাচাই হয় না।"
+            "bn": "এরপর: ওয়া তুখরিজুল-হাইয়া মিনাল-মাইয়িতি ওয়া তুখরিজুল-মাইয়িতা মিনাল-হাইয়, আপনি মৃত থেকে জীবিতকে বের করেন, আর জীবিত থেকে মৃতকে। ৬:৯৫ আয়াতে আল্লাহ নিজের সম্পর্কে ঠিক এ কথাই বলেছেন, আর সেখানে কথাটি এসেছে বীজ ফাটানোর কথার পাশে। অংশটি শেষ হয় ওয়া তারযুকু মান তাশাউ বিগাইরি হিসাব দিয়ে: আপনি যাকে চান বেহিসাব রিজিক দেন। বিগাইরি হিসাব শুধু উদারতার কথা নয়। এর মানে, এই রিজিক এমন কোনো মাপকাঠিতে মাপা হয় না, যাকে আমরা মাপকাঠি বলে চিনি।"
           }
         ]
       },
       {
         "h": {
           "en": "Where It Sits, and Why",
-          "bn": "কোথায় বসেছে, আর কেন"
+          "bn": "কোথায় এর জায়গা, আর কেন"
         },
         "p": [
           {
             "en": "The verses fall in a passage of Ali Imran addressed to a community negotiating its place among stronger neighbours. Just before, 3:25 pictures the day when every soul is paid in full for what it earned. Just after, 3:28 warns believers against taking disbelievers as allies in preference to believers. Between a reminder of final accounting and a caution about alliances stands a declaration that honour is not in the gift of anyone whose favour might be sought.",
-            "bn": "আয়াতগুলো আলে ইমরানের এমন এক অংশে পড়ে যা এমন এক সমাজকে সম্বোধন করছে, যে নিজের চেয়ে শক্তিশালী প্রতিবেশীদের মাঝে নিজের অবস্থান নিয়ে দর-কষাকষি করছে। ঠিক আগে, 3:25 সেই দিনের ছবি আঁকে যেদিন প্রত্যেককে তার উপার্জনের পূর্ণ প্রতিদান দেওয়া হবে। ঠিক পরে, 3:28 মুমিনদের সতর্ক করে মুমিনদের বাদ দিয়ে অবিশ্বাসীদের অভিভাবক বানানো থেকে। চূড়ান্ত হিসাবের স্মরণ আর মৈত্রীর সতর্কবার্তার মাঝখানে দাঁড়িয়ে আছে এই ঘোষণা যে, সম্মান তাদের দানের বিষয় নয় যাদের অনুগ্রহ চাওয়া হচ্ছে।"
+            "bn": "আয়াতগুলো আলে ইমরানের এমন এক অংশে, যেখানে কথা বলা হচ্ছে এমন এক সমাজের সঙ্গে, যারা নিজেদের চেয়ে শক্তিশালী প্রতিবেশীদের মাঝে নিজেদের জায়গা করে নেওয়ার চেষ্টা করছিল। ঠিক আগে ৩:২৫ আয়াত সেই দিনের ছবি আঁকে, যেদিন প্রত্যেকে নিজের কামাইয়ের পুরো প্রতিদান পাবে। ঠিক পরে ৩:২৮ আয়াত মুমিনদের সতর্ক করে, তারা যেন মুমিনদের বাদ দিয়ে কাফিরদের বন্ধু হিসেবে না নেয়। শেষ হিসাবের কথা আর মিত্রতা নিয়ে সতর্কবার্তার মাঝখানে দাঁড়িয়ে আছে এই ঘোষণা: মানুষ যাদের অনুগ্রহের আশা করে, সম্মান দেওয়ার মালিক তারা কেউ নয়।"
           },
           {
             "en": "That reading is confirmed elsewhere: 63:8 states that izzah belongs to Allah, to His Messenger and to the believers. No sound report fixes a specific occasion of revelation for 3:26-27, and the commentators do not need one; the verses read as a general instruction in how a believer is to understand power. The majority treat them as a du'a in form as well as content, since the passage is framed as direct address from beginning to end.",
-            "bn": "এই পাঠ অন্যত্রও নিশ্চিত হয়: 63:8 বলে, ইয্‌যত আল্লাহর, তাঁর রাসূলের ও মুমিনদের। 3:26-27 আয়াতের জন্য কোনো সহীহ বর্ণনা নির্দিষ্ট শানে নুযূল নির্ধারণ করে না, আর মুফাসসিরদের তার প্রয়োজনও নেই; আয়াতগুলো পড়া হয় ক্ষমতাকে মুমিন কীভাবে বুঝবে তার সাধারণ নির্দেশনা হিসেবে। অধিকাংশই এগুলোকে বিষয়বস্তুর পাশাপাশি রূপেও দোয়া হিসেবেই দেখেন, কারণ গোটা অংশটিই শুরু থেকে শেষ পর্যন্ত সরাসরি সম্বোধনে গাঁথা।"
+            "bn": "অন্য আয়াতও এই বোঝাকে সমর্থন করে: ৬৩:৮ আয়াত বলে, ইয্‌যত আল্লাহর, তাঁর রাসূলের আর মুমিনদের। ৩:২৬-২৭ আয়াতের নির্দিষ্ট কোনো শানে নুযুল সহিহ বর্ণনায় পাওয়া যায় না, আর মুফাসসিরদের তার দরকারও পড়ে না। ক্ষমতাকে একজন মুমিন কীভাবে বুঝবে, আয়াতগুলো তারই সাধারণ শিক্ষা। বেশিরভাগ মুফাসসির এগুলোকে বিষয়ে যেমন, গঠনেও তেমনি দোয়া হিসেবে দেখেন, কারণ পুরো অংশটিই শুরু থেকে শেষ পর্যন্ত আল্লাহকে সরাসরি ডেকে বলা।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "আজ যেভাবে এটি জীবনে আসে"
+          "bn": "জীবনে যেভাবে আসে"
         },
         "p": [
           {
             "en": "Because it opens with qul, this is one of the passages most naturally taken up as a personal du'a — memorised, said after prayer, said before a decision that depends on someone else's approval. Reciting it is a way of putting a name to the fear underneath a request. Most anxiety about work, money and standing is anxiety about who holds these things, and the verse answers that question before you ask for anything.",
-            "bn": "কুল দিয়ে শুরু হওয়ায় এটি সেই অংশগুলোর একটি যা সবচেয়ে স্বাভাবিকভাবেই ব্যক্তিগত দোয়া হিসেবে গ্রহণ করা হয় — মুখস্থ করা, নামাজের পরে বলা, এমন কোনো সিদ্ধান্তের আগে বলা যা অন্য কারও অনুমোদনের ওপর নির্ভর করে। এটি পাঠ করা আসলে আবেদনের নিচে লুকিয়ে থাকা ভয়টির নাম ধরে ডাকার একটি উপায়। কাজ, অর্থ ও মর্যাদা নিয়ে বেশিরভাগ উদ্বেগ আসলে এই উদ্বেগ যে এগুলো কার হাতে; আর আয়াত কিছু চাওয়ার আগেই সেই প্রশ্নের জবাব দিয়ে দেয়।"
+            "bn": "শুরুটা কুল দিয়ে, তাই ব্যক্তিগত দোয়া হিসেবে মানুষ সবচেয়ে সহজে যে অংশগুলো আপন করে নেয়, এটি তার একটি। মানুষ এটি মুখস্থ করে, নামাজের পরে পড়ে, আর এমন কোনো সিদ্ধান্তের আগে পড়ে, যা অন্য কারও সম্মতির ওপর নির্ভর করে। এটি পড়লে কোনো চাওয়ার নিচে লুকিয়ে থাকা ভয়টার নাম ধরা যায়। কাজ, টাকা আর মানসম্মান নিয়ে আমাদের বেশিরভাগ দুশ্চিন্তার গোড়ায় একটাই প্রশ্ন: এগুলো কার হাতে? আপনি কিছু চাওয়ার আগেই আয়াতটি সেই প্রশ্নের জবাব দিয়ে দেয়।"
           },
           {
             "en": "It also works in both directions of fortune. In a rise it is a check: what was given can be wrenched away, and the pairing is stated in one breath. In a fall it is a rope: the same hand holds both, and only good is in it. Practically, that means less negotiating with people over what is not theirs to grant, and less bitterness at those who seem to have been given more. Their portion came from where yours does.",
-            "bn": "ভাগ্যের দুই দিকেই এটি কাজ করে। উত্থানে এটি লাগাম: যা দেওয়া হয়েছে তা ছিনিয়েও নেওয়া যায়, আর জোড়াটি এক নিঃশ্বাসেই বলা হয়েছে। পতনে এটি দড়ি: একই হাত দুটোই ধরে আছে, আর সেই হাতে কেবল কল্যাণ। বাস্তবে এর মানে, যা দেওয়া মানুষের এখতিয়ারেই নেই তা নিয়ে মানুষের সাথে কম দর-কষাকষি, আর যাদের বেশি দেওয়া হয়েছে বলে মনে হয় তাদের প্রতি কম তিক্ততা। তাদের ভাগও সেখান থেকেই এসেছে যেখান থেকে তোমারটি আসে।"
+            "bn": "ভাগ্যের ওঠা-নামা, দুই দিকেই এটি কাজে আসে। উত্থানের সময় এটি লাগাম টেনে ধরে: যা দেওয়া হয়েছে তা ছিনিয়েও নেওয়া যায়, আর দুটি কথা এক নিঃশ্বাসেই বলা হয়েছে। পতনের সময় এটি আঁকড়ে ধরার দড়ি: একই হাত দুটোই ধরে আছে, আর সেই হাতে শুধু কল্যাণ। বাস্তবে এর মানে, যা দেওয়ার এখতিয়ার মানুষের নেই, তা নিয়ে মানুষের সঙ্গে দর-কষাকষি কমে যায়। আর যাদের বেশি দেওয়া হয়েছে বলে মনে হয়, তাদের প্রতি তিক্ততাও কমে। তাদের ভাগ এসেছে সেখান থেকেই, যেখান থেকে আপনারটা আসে।"
           }
         ]
       }
@@ -668,16 +668,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Claim Put to the Test",
-          "bn": "একটি দাবির পরীক্ষা"
+          "bn": "দাবির পরীক্ষা"
         },
         "p": [
           {
             "en": "Surah Al Imran came down in Madinah, in years of long argument with communities who insisted that they loved Allah and stood near to Him. Into that argument drops a short verse with the force of a rule. It opens with qul, Say — a command to the Prophet ﷺ to announce it aloud: if you love Allah, then follow me, and Allah will love you. A claim of loving Allah costs nothing to make; this verse quietly attaches a price to it.",
-            "bn": "সূরা আলে ইমরান নাযিল হয় মদীনায়, এমন সব সম্প্রদায়ের সঙ্গে দীর্ঘ বিতর্কের বছরগুলোতে, যারা জোর দিয়ে বলত যে তারা আল্লাহকে ভালোবাসে এবং তাঁর নিকটে আছে। সেই বিতর্কের মধ্যে নেমে আসে একটি ছোট আয়াত, যার শক্তি একটি বিধানের মতো। এটি শুরু হয় 'কুল' — বলুন — দিয়ে; নবী ﷺ-কে প্রকাশ্যে ঘোষণার নির্দেশ: তোমরা যদি আল্লাহকে ভালোবাসো, তবে আমাকে অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন। আল্লাহকে ভালোবাসার দাবি করতে কিছুই খরচ হয় না; এই আয়াত নীরবে সেই দাবির সঙ্গে একটি মূল্য জুড়ে দেয়।"
+            "bn": "সূরা আলে ইমরান নাজিল হয়েছে মদিনায়, এমন কিছু সম্প্রদায়ের সঙ্গে দীর্ঘ বিতর্কের বছরগুলোতে, যারা জোর দিয়ে বলত, তারা আল্লাহকে ভালোবাসে, তাঁর কাছের মানুষ। সেই বিতর্কের মাঝে নেমে আসে ছোট্ট একটি আয়াত, যার ওজন বিধানের মতো। শুরু হয় কুল দিয়ে, অর্থাৎ বলুন। নবী ﷺ-কে হুকুম করা হচ্ছে প্রকাশ্যে ঘোষণা দিতে: তোমরা যদি আল্লাহকে ভালোবাসো, তবে আমার অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন। আল্লাহকে ভালোবাসার দাবি করতে কোনো খরচ নেই। এই আয়াত চুপচাপ সেই দাবির গায়ে একটা দাম বেঁধে দেয়।"
           },
           {
             "en": "Ibn Kathir relates from al-Hasan al-Basri that people claimed to love Allah, so Allah tested them by this verse. Ibn Kathir then adds his own famous judgment: this noble verse rules against everyone who claims to love Allah yet does not walk the way of Muhammad ﷺ. The test is not there to shame anyone. It is there to rescue love from remaining a mood, and to turn it into something that can actually be lived.",
-            "bn": "ইবনে কাসীর হাসান আল-বাসরী থেকে বর্ণনা করেন যে মানুষ আল্লাহকে ভালোবাসার দাবি করেছিল, তাই আল্লাহ এই আয়াত দিয়ে তাদের পরীক্ষা করলেন। এরপর ইবনে কাসীর নিজের বিখ্যাত রায়টি যোগ করেন: এই মহিমান্বিত আয়াত তার বিরুদ্ধে ফয়সালা দেয়, যে আল্লাহকে ভালোবাসার দাবি করে অথচ মুহাম্মাদ ﷺ-এর পথে চলে না। পরীক্ষাটি কাউকে লজ্জা দেওয়ার জন্য নয়। এটি আছে ভালোবাসাকে নিছক একটি অনুভূতির স্তরে পড়ে থাকা থেকে উদ্ধার করতে, আর তাকে এমন কিছুতে পরিণত করতে যা সত্যিই যাপন করা যায়।"
+            "bn": "ইবনে কাসীর হাসান আল-বাসরী থেকে বর্ণনা করেন: কিছু মানুষ আল্লাহকে ভালোবাসার দাবি করেছিল, তাই আল্লাহ এই আয়াত দিয়ে তাদের পরীক্ষা নিলেন। এরপর ইবনে কাসীর নিজের সেই বিখ্যাত মন্তব্য যোগ করেন: যে আল্লাহকে ভালোবাসার দাবি করে অথচ মুহাম্মাদ ﷺ-এর পথে চলে না, এই মহান আয়াত তার বিরুদ্ধে রায় দেয়। এই পরীক্ষা কাউকে লজ্জা দেওয়ার জন্য নয়। ভালোবাসা যেন শুধু মনের একটা ভাব হয়ে পড়ে না থাকে, যেন জীবনে সত্যিই তার চর্চা করা যায়, সেজন্যই এই পরীক্ষা।"
           }
         ]
       },
@@ -689,71 +689,71 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The hinge of the verse is a single imperative verb: fattabi'uni, then follow me. The response, yuhbibkumu Allah, Allah will love you, is cast in the form Arabic uses for a result that follows directly from obeying a command. Notice also who loves whom. The sentence begins with your claimed love for Allah and answers with something greater — Allah's love for you. The commentators pause here: being loved by Him is a higher station than merely loving.",
-            "bn": "আয়াতটির কব্জা একটি আদেশসূচক ক্রিয়াপদ: 'ফাত্তাবিউনী' — তবে আমাকে অনুসরণ করো। এর জবাব 'ইউহবিবকুমুল্লাহ' — আল্লাহ তোমাদের ভালোবাসবেন — আরবিতে সেই গঠনে বসানো, যা কোনো আদেশ পালনের সরাসরি ফল বোঝাতে ব্যবহৃত হয়। আরও লক্ষ করুন, কে কাকে ভালোবাসে। বাক্যটি শুরু হয় আল্লাহর প্রতি আপনার দাবিকৃত ভালোবাসা দিয়ে, আর উত্তর দেয় আরও বড় কিছু দিয়ে — আপনার প্রতি আল্লাহর ভালোবাসা। মুফাসসিরগণ এখানে থামেন: তাঁর ভালোবাসা পাওয়া কেবল ভালোবাসার চেয়ে উঁচু মর্যাদা।"
+            "bn": "পুরো আয়াত ঘুরছে একটি আদেশসূচক ক্রিয়াকে ঘিরে: ফাত্তাবিউনী, তবে আমার অনুসরণ করো। এর জবাব ইউহবিবকুমুল্লাহ, আল্লাহ তোমাদের ভালোবাসবেন। আরবিতে এটি এমন রূপে এসেছে, যা হুকুম মানার সরাসরি ফল বোঝায়। এবার লক্ষ করুন, কে কাকে ভালোবাসছে। বাক্য শুরু হয় আল্লাহর প্রতি আপনার দাবি করা ভালোবাসা দিয়ে, আর জবাবে আসে তার চেয়ে বড় কিছু: আপনার প্রতি আল্লাহর ভালোবাসা। মুফাসসিরগণ এখানে থেমে বলেন: শুধু ভালোবাসার চেয়ে আল্লাহর ভালোবাসা পাওয়া অনেক উঁচু মর্যাদা।"
           },
           {
             "en": "Forgiveness is stitched to the promise: wa yaghfir lakum dhunubakum, and He will forgive you your sins. Then the verse closes with two names in their intensive forms, Ghafur and Rahim — vastly forgiving, constantly merciful. The order matters. The one who sets out to follow the Prophet ﷺ will still stumble, and the verse anticipates that before it happens. The path being described is for people who fail and return, not for people who never fall.",
-            "bn": "প্রতিশ্রুতির সঙ্গে ক্ষমা সেলাই করে দেওয়া হয়েছে: 'ওয়া ইয়াগফির লাকুম যুনূবাকুম' — আর তিনি তোমাদের গুনাহ ক্ষমা করবেন। এরপর আয়াত শেষ হয় তীব্রতাবোধক গঠনের দুটি নামে — গাফূর ও রাহীম — অপার ক্ষমাশীল, নিরন্তর দয়ালু। এই ক্রমটি অর্থবহ। যে নবী ﷺ-কে অনুসরণে নামে, সে-ও হোঁচট খাবে, আর আয়াতটি তা ঘটার আগেই সেই কথা ধরে রাখে। এখানে যে পথের বর্ণনা, তা তাদের জন্য যারা ব্যর্থ হয়ে ফিরে আসে — তাদের জন্য নয় যারা কখনো পড়েই না।"
+            "bn": "প্রতিশ্রুতির সঙ্গেই গাঁথা আছে মাগফিরাত: ওয়া ইয়াগফির লাকুম যুনূবাকুম, আর তিনি তোমাদের গুনাহ মাফ করে দেবেন। এরপর আয়াত শেষ হয় দুটি নামে, যা আরবিতে আধিক্য বোঝানোর রূপে এসেছে: গাফূর ও রাহীম, অসীম ক্ষমাশীল, সবসময় দয়ালু। এই ক্রমের একটা অর্থ আছে। যে নবী ﷺ-কে অনুসরণ করতে শুরু করে, সে-ও হোঁচট খাবে, আর আয়াত তা ঘটার আগেই সে কথা মাথায় রেখেছে। এখানে যে পথের কথা, তা এমন মানুষদের জন্য, যারা ভুল করে আবার ফিরে আসে। যারা কখনো পড়ে না, তাদের জন্য নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Why Following, Not Feeling",
-          "bn": "অনুভূতি নয়, অনুসরণ কেন"
+          "bn": "কেন অনুভূতি নয়, অনুসরণ"
         },
         "p": [
           {
             "en": "The Quran consistently measures love by conduct. In 2:165 the believers are described as ashaddu hubban lillah, most intense in love for Allah, in a verse contrasting them with people who give created things the devotion He is owed. In 9:24 the Prophet ﷺ is told to warn those whose families, wealth, trade and homes are dearer to them than Allah, His Messenger and striving in His cause. In each place love is weighed by what a person actually prefers when interests collide.",
-            "bn": "কুরআন ধারাবাহিকভাবে ভালোবাসাকে আচরণ দিয়ে মাপে। 2:165 আয়াতে মুমিনদের বর্ণনা করা হয়েছে 'আশাদ্দু হুব্বাল লিল্লাহ' — আল্লাহর প্রতি প্রগাঢ়তম ভালোবাসার অধিকারী — এমন এক আয়াতে যা তাদের বিপরীতে রাখে সেই লোকদের, যারা আল্লাহর প্রাপ্য নিষ্ঠা সৃষ্টিকে দিয়ে দেয়। 9:24 আয়াতে নবী ﷺ-কে বলা হয়েছে তাদের সতর্ক করতে, যাদের কাছে পরিবার, সম্পদ, ব্যবসা ও বাসস্থান আল্লাহ, তাঁর রাসূল ও তাঁর পথে সংগ্রামের চেয়ে প্রিয়। প্রতিটি জায়গায় ভালোবাসা মাপা হয় এই দিয়ে যে স্বার্থের সংঘাতে মানুষ আসলে কোনটিকে প্রাধান্য দেয়।"
+            "bn": "কুরআন বারবার ভালোবাসাকে মাপে আচরণ দিয়ে। ২:১৬৫ আয়াতে মুমিনদের বলা হয়েছে আশাদ্দু হুব্বাল লিল্লাহ, আল্লাহকে তারা সবচেয়ে বেশি ভালোবাসে। আয়াতটি তাদের তুলনা করে সেই লোকদের সঙ্গে, যারা আল্লাহর প্রাপ্য ভক্তি সৃষ্টিকে দিয়ে দেয়। ৯:২৪ আয়াতে নবী ﷺ-কে বলা হয়েছে তাদের সতর্ক করতে, যাদের কাছে পরিবার, সম্পদ, ব্যবসা আর ঘরবাড়ি আল্লাহ, তাঁর রাসূল আর তাঁর পথে সংগ্রামের চেয়ে বেশি প্রিয়। প্রতিটি জায়গায় ভালোবাসার ওজন হয় একটি জিনিস দিয়ে: স্বার্থে স্বার্থে টক্কর লাগলে মানুষ আসলে কোনটাকে বেছে নেয়।"
           },
           {
             "en": "The Prophet ﷺ set the same standard for love of himself. Al-Bukhari narrates from Anas (RA) that he said: none of you believes until I am dearer to him than his father, his child and all of mankind. That is not a demand for emotion manufactured on command; it is a description of what happens when a person grasps who the Messenger ﷺ is and what reached them through him. Love of that kind naturally issues in following.",
-            "bn": "নিজের প্রতি ভালোবাসার জন্যও নবী ﷺ একই মানদণ্ড রেখেছেন। বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন, তিনি বলেছেন: তোমাদের কেউ মুমিন হবে না, যতক্ষণ না আমি তার কাছে তার পিতা, তার সন্তান ও সমস্ত মানুষের চেয়ে প্রিয় হই। এটি হুকুম করে আবেগ তৈরির দাবি নয়; এটি সেই অবস্থার বর্ণনা, যা ঘটে যখন কেউ উপলব্ধি করে রাসূল ﷺ কে এবং তাঁর মাধ্যমে তার কাছে কী পৌঁছেছে। এমন ভালোবাসা স্বাভাবিকভাবেই অনুসরণে গড়ায়।"
+            "bn": "নিজের প্রতি ভালোবাসার বেলাতেও নবী ﷺ একই মানদণ্ড রেখেছেন। বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন, তিনি বলেছেন: তোমাদের কেউ মুমিন হবে না, যতক্ষণ না আমি তার কাছে তার বাবা, তার সন্তান ও সব মানুষের চেয়ে বেশি প্রিয় হই। এ কথা হুকুম দিয়ে আবেগ বানিয়ে নেওয়ার দাবি নয়। কেউ যখন বুঝতে পারে রাসূল ﷺ কে, আর তাঁর মাধ্যমে তার কাছে কী পৌঁছেছে, তখন ভেতরে যা ঘটে, এ তারই বর্ণনা। এমন ভালোবাসা নিজে থেকেই অনুসরণে গিয়ে দাঁড়ায়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Next Verse Closes the Loop",
-          "bn": "পরের আয়াত বৃত্তটি পূর্ণ করে"
+          "bn": "পরের আয়াতে কথাটা পূর্ণ হয়"
         },
         "p": [
           {
             "en": "The verse that follows, 3:32, commands: say, obey Allah and the Messenger — and then warns that if they turn away, Allah does not love the disbelievers. Read together, the pair leaves no gap for a love that refuses obedience. The first verse states the positive law, that following brings Allah's love; the second states its shadow, that turning away forfeits it. Between them, love has been moved from the realm of words into the realm of decisions.",
-            "bn": "পরবর্তী আয়াত 3:32 নির্দেশ দেয়: বলুন, আল্লাহ ও রাসূলের আনুগত্য করো — তারপর সতর্ক করে যে তারা মুখ ফিরিয়ে নিলে আল্লাহ কাফিরদের ভালোবাসেন না। একসঙ্গে পড়লে এই জোড়া এমন কোনো ভালোবাসার জায়গা রাখে না, যা আনুগত্য অস্বীকার করে। প্রথম আয়াতটি ইতিবাচক বিধান বলে — অনুসরণ আল্লাহর ভালোবাসা আনে; দ্বিতীয়টি বলে তার ছায়া — মুখ ফেরালে তা হারায়। এ দুয়ের মাঝে ভালোবাসা কথার জগৎ থেকে সিদ্ধান্তের জগতে সরে এসেছে।"
+            "bn": "পরের আয়াত, ৩:৩২, হুকুম দেয়: বলুন, তোমরা আল্লাহ ও রাসূলের আনুগত্য করো। তারপর সতর্ক করে, তারা যদি মুখ ফিরিয়ে নেয়, তবে আল্লাহ কাফিরদের ভালোবাসেন না। দুটি আয়াত একসঙ্গে পড়লে এমন ভালোবাসার আর কোনো জায়গা থাকে না, যা আনুগত্য মানতে রাজি নয়। প্রথম আয়াত বলে মূল নিয়মটি: অনুসরণ করলে আল্লাহর ভালোবাসা মেলে। দ্বিতীয়টি বলে তার উল্টো পিঠ: মুখ ফেরালে তা হারাতে হয়। এই দুইয়ের মাঝখানে ভালোবাসা মুখের কথার জগৎ থেকে উঠে এসেছে সিদ্ধান্তের জগতে।"
           }
         ]
       },
       {
         "h": {
           "en": "What Following Looks Like",
-          "bn": "অনুসরণ দেখতে কেমন"
+          "bn": "অনুসরণ মানে কী"
         },
         "p": [
           {
             "en": "Ittiba', following, is not imitation of dress alone or admiration from a distance. The commentators describe it as taking the Prophet ﷺ as the pattern in worship, dealings and character — praying as he prayed, trading honestly as he demanded, restraining the tongue as he taught. It also has a guarding edge: whoever truly follows does not add to the religion acts of devotion he never sanctioned. Sincerity aims the deed at Allah; conformity to the Sunnah gives the deed its correct shape.",
-            "bn": "ইত্তিবা — অনুসরণ — কেবল পোশাকের অনুকরণ বা দূর থেকে মুগ্ধতা নয়। মুফাসসিরগণ এর বর্ণনা দেন এভাবে: ইবাদতে, লেনদেনে ও চরিত্রে নবী ﷺ-কে আদর্শ হিসেবে গ্রহণ করা — তিনি যেভাবে নামায পড়েছেন সেভাবে পড়া, তিনি যেমন দাবি করেছেন তেমন সততায় ব্যবসা করা, তিনি যেমন শিখিয়েছেন তেমনভাবে জিহ্বা সংযত রাখা। এর একটি রক্ষাকারী ধারও আছে: যে সত্যিকার অনুসরণ করে, সে দ্বীনে এমন ইবাদত যোগ করে না যা তিনি কখনো অনুমোদন করেননি। ইখলাস আমলকে আল্লাহর দিকে তাক করে; সুন্নাহর অনুসরণ আমলকে দেয় তার সঠিক আকৃতি।"
+            "bn": "ইত্তিবা, অর্থাৎ অনুসরণ, শুধু পোশাকের অনুকরণ নয়, দূর থেকে মুগ্ধ হয়ে থাকাও নয়। মুফাসসিরগণ এর ব্যাখ্যা দেন এভাবে: ইবাদতে, লেনদেনে আর চরিত্রে নবী ﷺ-কে আদর্শ হিসেবে নেওয়া। তিনি যেভাবে নামাজ পড়েছেন, সেভাবে পড়া; তিনি যেমন সততার দাবি করেছেন, তেমন সততায় ব্যবসা করা; তিনি যেমন শিখিয়েছেন, তেমন করে জিহ্বা সামলে রাখা। এর একটা পাহারার দিকও আছে: যে সত্যিই অনুসরণ করে, সে দ্বীনে এমন কোনো ইবাদত যোগ করে না, যার অনুমোদন তিনি কখনো দেননি। ইখলাস আমলকে আল্লাহর দিকে ফেরায়; সুন্নাহর সঙ্গে মিল আমলকে দেয় তার সঠিক রূপ।"
           },
           {
             "en": "This is why the scholars kept returning to this verse whenever devotion drifted into invention. The question it teaches us to ask is disarmingly concrete: is this act, this habit, this stance something the Prophet ﷺ did, commanded or approved? The verse does not ask how warm the feeling behind the act was. It asks whose footsteps the act is walking in, and it promises that the footsteps of the Messenger ﷺ lead to being loved by Allah.",
-            "bn": "এ কারণেই আলিমগণ বারবার এই আয়াতে ফিরে এসেছেন, যখনই ভক্তি নতুন উদ্ভাবনের দিকে ভেসে গেছে। আয়াতটি আমাদের যে প্রশ্ন করতে শেখায় তা অবাক করা রকমের বাস্তব: এই কাজ, এই অভ্যাস, এই অবস্থান — এটি কি নবী ﷺ করেছেন, আদেশ করেছেন বা অনুমোদন করেছেন? আয়াতটি জিজ্ঞেস করে না কাজের পেছনের অনুভূতি কতটা উষ্ণ ছিল। এটি জিজ্ঞেস করে কাজটি কার পদাঙ্ক ধরে হাঁটছে, আর প্রতিশ্রুতি দেয় যে রাসূল ﷺ-এর পদাঙ্ক আল্লাহর ভালোবাসা পাওয়ার দিকে নিয়ে যায়।"
+            "bn": "এ কারণেই যখনই ইবাদতের আবেগ নতুন উদ্ভাবনের দিকে গড়িয়েছে, আলিমগণ বারবার এই আয়াতে ফিরে এসেছেন। আয়াতটি যে প্রশ্ন করতে শেখায়, তা চমকে দেওয়ার মতো সোজা: এই কাজ, এই অভ্যাস, এই অবস্থান, এটা কি নবী ﷺ করেছেন, হুকুম করেছেন বা অনুমোদন দিয়েছেন? কাজের পেছনের অনুভূতি কতটা উষ্ণ ছিল, আয়াত তা জিজ্ঞেস করে না। জিজ্ঞেস করে, কাজটি কার পায়ের ছাপ ধরে চলছে। আর প্রতিশ্রুতি দেয়, রাসূল ﷺ-এর পায়ের ছাপ ধরে চললে আল্লাহর ভালোবাসা পাওয়া যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Living the Verse",
-          "bn": "আয়াতটি যাপন করা"
+          "bn": "জীবনে আয়াতটি"
         },
         "p": [
           {
             "en": "The practical entry point is small: choose one Sunnah you currently neglect — the manner of eating, the words before sleeping, the two rak'ahs before Fajr — and adopt it deliberately because he ﷺ did it. Done with that intention, an ordinary habit becomes an act of love with a promise attached. Then let the verse audit you gently over time: when my preference and his teaching part ways, which one do I actually follow?",
-            "bn": "বাস্তবে শুরু করার জায়গাটি ছোট: এমন একটি সুন্নাহ বেছে নিন যা আপনি এখন অবহেলা করছেন — খাওয়ার আদব, ঘুমের আগের বাক্যগুলো, ফজরের আগের দুই রাকাত — আর তা সচেতনভাবে গ্রহণ করুন এই কারণে যে তিনি ﷺ তা করতেন। এই নিয়তে করলে একটি সাধারণ অভ্যাস হয়ে ওঠে প্রতিশ্রুতিযুক্ত এক ভালোবাসার আমল। তারপর আয়াতটিকে ধীরে ধীরে নিজের হিসাব নিতে দিন: আমার পছন্দ আর তাঁর শিক্ষা যখন আলাদা পথে যায়, আমি আসলে কোনটি অনুসরণ করি?"
+            "bn": "শুরুটা ছোট করেই করা যায়। এমন একটি সুন্নাহ বেছে নিন, যা আপনি এখন অবহেলা করছেন: খাওয়ার আদব, ঘুমানোর আগের দোয়া, ফজরের আগের দুই রাকাত। তারপর সেটা ভেবেচিন্তে ধরুন, শুধু এই কারণে যে তিনি ﷺ তা করতেন। এই নিয়তে করলে সাধারণ একটা অভ্যাসও হয়ে ওঠে ভালোবাসার আমল, যার সঙ্গে প্রতিশ্রুতি জুড়ে আছে। তারপর সময় নিয়ে আয়াতটিকে কোমলভাবে আপনার হিসাব নিতে দিন: আমার পছন্দ আর তাঁর শিক্ষা যখন দুই দিকে যায়, আমি আসলে কোনটা মানি?"
           },
           {
             "en": "And hold on to the direction the promise flows. The verse does not leave you straining to produce love for a distant Lord; it shows you a road at whose end Allah loves you, forgives you and is named to you as Ghafur and Rahim. Every step of following is met from the other side. Few sentences in the Quran offer an exchange this generous for something this concrete, and it stands open to whoever begins today.",
-            "bn": "আর প্রতিশ্রুতি কোন দিকে প্রবাহিত তা ধরে রাখুন। আয়াতটি আপনাকে দূরের কোনো প্রভুর জন্য ভালোবাসা তৈরির টানাপোড়েনে ফেলে রাখে না; এটি এমন এক পথ দেখায় যার শেষে আল্লাহ আপনাকে ভালোবাসেন, ক্ষমা করেন এবং নিজেকে পরিচয় দেন গাফূর ও রাহীম নামে। অনুসরণের প্রতিটি পদক্ষেপের জবাব আসে অন্য প্রান্ত থেকে। এত বাস্তব কিছুর বিনিময়ে এত উদার লেনদেনের প্রস্তাব কুরআনে খুব কম বাক্যেই আছে, আর যে আজ শুরু করে তার জন্য তা খোলা।"
+            "bn": "আর মনে রাখুন, প্রতিশ্রুতি কোন দিকে বইছে। আয়াতটি আপনাকে দূরের এক রবের জন্য জোর করে ভালোবাসা জাগানোর কষ্টে ফেলে রাখে না। বরং এমন এক পথ দেখায়, যার শেষে আল্লাহ আপনাকে ভালোবাসেন, মাফ করেন, আর নিজেকে আপনার কাছে পরিচয় দেন গাফূর ও রাহীম নামে। অনুসরণের প্রতিটি কদমের জবাব আসে ওপাশ থেকে। এত বাস্তব একটা কিছুর বিনিময়ে এত উদার লেনদেন কুরআনের খুব কম বাক্যেই আছে। যে আজ শুরু করবে, তার জন্য এর দরজা খোলা।"
           }
         ]
       }
@@ -773,7 +773,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the prayer of 3:38 is not offered in a vacuum. It is offered on the spot where he had just been shown, repeatedly and without explanation, that provision does not depend on the usual channels. The verse ties his asking to that seeing with a single adverb, and the commentators read hunalika as covering the moment as well as the place: seeing that, he prayed then.",
-            "bn": "কাজেই 3:38-এর দোয়া শূন্যে ভেসে থাকা কোনো প্রার্থনা নয়। এটি করা হয় ঠিক সেই জায়গায় দাঁড়িয়ে, যেখানে তাঁকে বারবার এবং কোনো ব্যাখ্যা ছাড়াই দেখানো হয়েছিল যে রিযিক চেনা পথের ওপর নির্ভর করে না। আয়াতটি একটিমাত্র ক্রিয়াবিশেষণ দিয়ে তাঁর চাওয়াকে সেই দেখার সঙ্গে বেঁধে দেয়; আর মুফাসসিরগণ হুনালিকা-কে স্থানের পাশাপাশি মুহূর্ত অর্থেও পড়েন: তা দেখেই তিনি তখন দোয়া করলেন।"
+            "bn": "তাই ৩:৩৮-এর দোয়া হঠাৎ শূন্য থেকে আসেনি। তিনি দোয়া করেছেন ঠিক সেই জায়গায়, যেখানে তাঁকে বারবার, কোনো ব্যাখ্যা ছাড়াই দেখানো হয়েছিল যে রিজিক চেনা পথের ওপর নির্ভর করে না। আয়াতটি মাত্র একটি শব্দে তাঁর চাওয়াকে সেই দেখার সঙ্গে বেঁধে দেয়। মুফাসসিরগণ হুনালিকা শব্দে জায়গার পাশাপাশি সময়ও বোঝেন: এ দৃশ্য দেখেই তিনি তখন দোয়া করলেন।"
           }
         ]
       },
@@ -785,11 +785,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir relates that what Zakariyya (AS) found with Maryam was fruit out of its season — the fruits of summer in winter and of winter in summer. That detail is why the sight moved him rather than merely pleasing him. He was not watching generosity; he was watching the ordinary rules of when a thing can arrive being set aside in a corner of the sanctuary he served in.",
-            "bn": "ইবনে কাসীর বর্ণনা করেন, যাকারিয়া (আঃ) মারইয়ামের কাছে যা পেতেন তা ছিল অসময়ের ফল — শীতে গ্রীষ্মের ফল আর গ্রীষ্মে শীতের ফল। এই বিশদটুকুর কারণেই দৃশ্যটি তাঁকে কেবল খুশি করেনি, নাড়া দিয়েছিল। তিনি দেখছিলেন না নিছক দানশীলতা; তিনি দেখছিলেন — কোন জিনিস কখন আসতে পারে, সেই চেনা নিয়মটিই সরিয়ে রাখা হচ্ছে সেই ইবাদতগৃহেরই এক কোণে, যেখানে তিনি খিদমত করতেন।"
+            "bn": "ইবনে কাসীর বর্ণনা করেন, যাকারিয়া (আঃ) মারইয়ামের কাছে যা পেতেন তা ছিল অসময়ের ফল: শীতকালে গরমের ফল, আর গরমকালে শীতের ফল। এই খুঁটিনাটির কারণেই দৃশ্যটি তাঁকে শুধু খুশি করেনি, ভেতর থেকে নাড়া দিয়েছিল। তিনি নিছক দানশীলতা দেখছিলেন না। তিনি দেখছিলেন, কোন জিনিস কখন আসতে পারে, সেই চেনা নিয়মটাই সরিয়ে রাখা হয়েছে, তাও যে ইবাদতখানায় তিনি খিদমত করতেন, তারই এক কোণে।"
           },
           {
             "en": "His own situation is stated in his own words two verses later. In 3:40 he says he has reached old age and his wife is barren. A man in that position had every reason to treat what he saw as belonging to someone else's story. Instead he drew the general rule out of the particular case, and applied for its benefit himself.",
-            "bn": "তাঁর নিজের অবস্থার কথা তাঁরই মুখে আসে দুই আয়াত পরে। 3:40-এ তিনি বলেন, তিনি বার্ধক্যে পৌঁছেছেন এবং তাঁর স্ত্রী বন্ধ্যা। এমন অবস্থায় থাকা একজন মানুষের কাছে যথেষ্ট কারণ ছিল যা দেখলেন তাকে অন্য কারও গল্পের অংশ ভেবে সরে যাওয়ার। তার বদলে তিনি বিশেষ ঘটনাটি থেকে সাধারণ নিয়মটি বের করে আনলেন, আর নিজের জন্যই তার সুফল প্রার্থনা করলেন।"
+            "bn": "নিজের অবস্থার কথা তিনি নিজেই বলেছেন, দুই আয়াত পরে। ৩:৪০ আয়াতে তিনি বলেন, তিনি বার্ধক্যে পৌঁছে গেছেন আর তাঁর স্ত্রী বন্ধ্যা। এমন অবস্থার একজন মানুষ সহজেই ভাবতে পারতেন, যা দেখছেন তা অন্য কারও গল্প, তাঁর নয়। কিন্তু তিনি এই বিশেষ ঘটনা থেকে সাধারণ নিয়মটি বের করে আনলেন, আর নিজের জন্যই তার সুফল চাইলেন।"
           }
         ]
       },
@@ -801,23 +801,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Hab li min ladunka dhurriyyatan tayyibah. Two qualifiers sit on this request and neither is about size. Min ladunka names the source: from what is with You. Tayyibah names the kind: wholesome, pure, good — the same adjective the Quran uses of speech, of food and of a life. He specifies quality and leaves everything else, including number and sex, unmentioned.",
-            "bn": "হাব লী মিন লাদুনকা যুররিয়্যাতান তাইয়িবাহ। এই আবেদনের ওপর দুটি বিশেষণ বসে আছে, আর কোনোটিই পরিমাণ নিয়ে নয়। মিন লাদুনকা উৎসের নাম বলে: তোমার কাছে যা আছে তা থেকে। তাইয়িবাহ ধরনটির নাম বলে: পবিত্র, বিশুদ্ধ, উত্তম — কুরআন এই একই বিশেষণ ব্যবহার করে কথার জন্য, খাদ্যের জন্য এবং জীবনের জন্য। তিনি গুণ নির্দিষ্ট করে দেন, আর আরবিতে সংখ্যা বা লিঙ্গ কিছুই উল্লেখ করেন না।"
+            "bn": "হাব লী মিন লাদুনকা যুররিয়্যাতান তাইয়িবাহ। এই চাওয়ার সঙ্গে দুটি কথা জুড়ে আছে, আর কোনোটিই পরিমাণ নিয়ে নয়। মিন লাদুনকা বলে উৎসের কথা: আপনার কাছে যা আছে তা থেকে। তাইয়িবাহ বলে ধরনের কথা: পবিত্র, খাঁটি, উত্তম। কুরআন এই একই বিশেষণ ব্যবহার করে কথার বেলায়, খাবারের বেলায় আর জীবনের বেলায়। তিনি গুণটি নির্দিষ্ট করে দেন, আর বাকি সব, সংখ্যা বা ছেলে না মেয়ে, কিছুই বলেন না।"
           },
           {
             "en": "The word dhurriyyah is worth weighing too. It means offspring in the sense of a line continuing, not simply a child in the house. Zakariyya (AS) was a servant of the sanctuary with no one to carry the work on, and what he asks for is a good continuation. Ibn Kathir glosses tayyibah plainly as righteous offspring, which is the only kind of continuation worth having.",
-            "bn": "যুররিয়্যাহ শব্দটিও ওজন করার মতো। এর অর্থ সন্তান — তবে বংশধারার ধারাবাহিকতা অর্থে, নিছক ঘরের একটি শিশু অর্থে নয়। যাকারিয়া (আঃ) ছিলেন ইবাদতগৃহের একজন খাদিম, যাঁর কাজটি এগিয়ে নেওয়ার কেউ ছিল না; আর তিনি চান একটি উত্তম ধারাবাহিকতা। ইবনে কাসীর তাইয়িবাহ-এর অর্থ সরাসরিই করেন সৎকর্মশীল সন্তান — আর কেবল এমন ধারাবাহিকতারই মূল্য আছে।"
+            "bn": "যুররিয়্যাহ শব্দটিও ভেবে দেখার মতো। এর মানে সন্তান, তবে বংশধারা চলতে থাকার অর্থে; শুধু ঘরে একটি শিশু থাকার অর্থে নয়। যাকারিয়া (আঃ) ছিলেন ইবাদতখানার খাদিম, তাঁর কাজ এগিয়ে নেওয়ার কেউ ছিল না। তিনি চাইছেন একজন উত্তম উত্তরসূরি। ইবনে কাসীর তাইয়িবাহ-র অর্থ সোজাসুজি করেছেন নেককার সন্তান। আর এমন উত্তরসূরি ছাড়া অন্য কোনো ধারাবাহিকতার আসলে কোনো মূল্য নেই।"
           }
         ]
       },
       {
         "h": {
           "en": "Hearer of Supplication",
-          "bn": "দোয়া শ্রবণকারী"
+          "bn": "যিনি দোয়া শোনেন"
         },
         "p": [
           {
             "en": "The prayer closes on a reason: innaka Sami'u ad-du'a, indeed You are the Hearer of supplication. This is not a claim that this particular request will be granted. It is a participle describing what Allah always is, offered as the ground on which any request can be made at all. The asking rests on a permanent attribute rather than on a private expectation.",
-            "bn": "দোয়াটি শেষ হয় একটি কারণ দিয়ে: ইন্নাকা সামীউদ দুআ — নিশ্চয় তুমি দোয়া শ্রবণকারী। এটি এই দাবি নয় যে এই নির্দিষ্ট চাওয়াটি মঞ্জুর হবে। এটি একটি কর্তৃবাচক বিশেষণ, যা বলে আল্লাহ সর্বদা কী — আর তা পেশ করা হয় সেই ভিত্তি হিসেবে, যার ওপর দাঁড়িয়ে আদৌ কিছু চাওয়া যায়। চাওয়াটি দাঁড়িয়ে আছে একটি স্থায়ী গুণের ওপর, কোনো ব্যক্তিগত প্রত্যাশার ওপর নয়।"
+            "bn": "দোয়াটি শেষ হয় একটি কারণ দিয়ে: ইন্নাকা সামীউদ দুআ, নিশ্চয় আপনি দোয়া শোনেন। এ কথার মানে এই নয় যে এই নির্দিষ্ট চাওয়াটি পূরণ হবেই। সামী শব্দটির গঠনই বলে দেয়, এটি আল্লাহর সবসময়ের গুণ। সেই গুণকেই ভিত্তি হিসেবে সামনে রাখা হয়েছে, যার ওপর দাঁড়িয়ে আদৌ কিছু চাওয়া যায়। চাওয়াটা দাঁড়িয়ে আছে আল্লাহর এক স্থায়ী গুণের ওপর, নিজের মনের কোনো আশার ওপর নয়।"
           },
           {
             "en": "The phrase Sami' ad-du'a occurs in exactly two verses of the Quran. The other is 14:39, where Ibrahim (AS) uses it after Isma'il and Ishaq had been given to him in old age. One prophet says it before the answer comes and one says it after. The description does not change with the outcome, which is precisely why it can be leaned on beforehand.",
@@ -828,16 +828,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Answer Arrives Mid-Prayer",
-          "bn": "নামাযের মধ্যেই উত্তর"
+          "bn": "নামাজের মাঝেই জবাব এল"
         },
         "p": [
           {
             "en": "3:39 gives the response, and its setting is exact: the angels called him while he was standing praying in the mihrab. He was not waiting for a reply somewhere else; he was in the middle of worship in the same chamber. The news is of Yahya, described as confirming a word from Allah, honourable, chaste, and a prophet from among the righteous.",
-            "bn": "3:39 উত্তরটি দেয়, আর তার পরিবেশ একেবারে নির্দিষ্ট: ফেরেশতারা তাঁকে ডাকলেন যখন তিনি মিহরাবে দাঁড়িয়ে নামায পড়ছিলেন। তিনি অন্য কোথাও বসে জবাবের অপেক্ষা করছিলেন না; তিনি ছিলেন সেই একই কক্ষে, ইবাদতের মাঝখানে। সুসংবাদটি ইয়াহইয়াকে নিয়ে — যাঁর বর্ণনা দেওয়া হয়েছে আল্লাহর পক্ষ থেকে আসা এক কালিমার সত্যায়নকারী, সম্মানিত, সংযমী, আর সৎকর্মশীলদের মধ্য থেকে একজন নবী হিসেবে।"
+            "bn": "৩:৩৯ আয়াতে আসে জবাব, আর তার সময় ও জায়গা একেবারে নির্দিষ্ট: তিনি মিহরাবে দাঁড়িয়ে নামাজ পড়ছিলেন, তখনই ফেরেশতারা তাঁকে ডাকলেন। জবাবের আশায় তিনি অন্য কোথাও বসে ছিলেন না; সেই একই কক্ষে তিনি ছিলেন ইবাদতের মাঝখানে। সুসংবাদটি ইয়াহইয়াকে নিয়ে। আয়াত তাঁর পরিচয় দেয় এভাবে: তিনি আল্লাহর পক্ষ থেকে আসা এক কালিমার সত্যায়ন করবেন, হবেন সম্মানিত, সংযমী, আর নেককারদের মধ্য থেকে একজন নবী।"
           },
           {
             "en": "Then in 3:40 comes a very human sentence from the man who had just prayed: my Lord, how will I have a boy, when old age has reached me and my wife is barren? The answer given is not an explanation but a correction of scale: kadhalika, such is Allah; He does what He wills. The obstacle is not denied. It is simply placed in a smaller category.",
-            "bn": "এরপর 3:40-এ যিনি সবে দোয়া করলেন, তাঁর মুখ থেকেই আসে খুব মানবিক একটি বাক্য: হে আমার প্রতিপালক, আমার ছেলে হবে কীভাবে, আমি তো বার্ধক্যে পৌঁছেছি আর আমার স্ত্রী বন্ধ্যা? যে উত্তর আসে তা ব্যাখ্যা নয়, বরং মাপকাঠির সংশোধন: কাযালিকা — আল্লাহ এমনই; তিনি যা ইচ্ছা করেন তা-ই করেন। বাধাটিকে অস্বীকার করা হয় না। কেবল তাকে একটি ছোট শ্রেণিতে বসিয়ে দেওয়া হয়।"
+            "bn": "এরপর ৩:৪০ আয়াতে, যিনি সবে দোয়া করলেন, তাঁর মুখেই আসে খুব মানবিক একটি কথা: হে আমার রব, আমার ছেলে হবে কীভাবে, আমি তো বার্ধক্যে পৌঁছে গেছি, আর আমার স্ত্রী বন্ধ্যা? জবাবে কোনো ব্যাখ্যা আসে না; আসে মাপটা ঠিক করে দেওয়া: কাযালিকা, আল্লাহ এমনই, তিনি যা চান তা-ই করেন। বাধাটা অস্বীকার করা হয় না। শুধু বুঝিয়ে দেওয়া হয়, আল্লাহর সামনে বাধাটা আসলে কত ছোট।"
           }
         ]
       },
@@ -849,11 +849,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In 3:41 he asks for a sign and is given one: you will not speak to the people for three days except by gesture. Alongside it comes an instruction in the same breath — and remember your Lord much, and glorify Him in the evening and the morning. The tongue that could not be used for conversation was left entirely available for dhikr.",
-            "bn": "3:41-এ তিনি একটি নিদর্শন চান এবং তা দেওয়া হয়: তিন দিন তুমি ইশারা ছাড়া মানুষের সঙ্গে কথা বলতে পারবে না। এর সঙ্গেই একই নিঃশ্বাসে আসে একটি নির্দেশ — আর তোমার প্রতিপালককে অধিক স্মরণ করো, এবং সকাল-সন্ধ্যায় তাঁর পবিত্রতা ঘোষণা করো। যে জিহ্বা কথাবার্তার জন্য ব্যবহার করা যাচ্ছিল না, তা পুরোপুরি খোলা রইল যিকরের জন্য।"
+            "bn": "৩:৪১ আয়াতে তিনি একটি নিদর্শন চান, আর তা দেওয়া হয়: তিন দিন তুমি ইশারা ছাড়া মানুষের সঙ্গে কথা বলতে পারবে না। সঙ্গে সঙ্গে, একই নিঃশ্বাসে আসে এক হুকুম: আর তোমার রবকে বেশি বেশি স্মরণ করো, সকাল-সন্ধ্যা তাঁর তাসবিহ পড়ো। যে জিহ্বা দিয়ে মানুষের সঙ্গে কথা বলা যাচ্ছিল না, তা পুরোপুরি খালি রইল জিকিরের জন্য।"
           },
           {
             "en": "The passage leaves a usable pattern. When you see Allah's generosity land on somebody else, treat it as evidence about the Giver rather than as a verdict about yourself. Ask for the quality of what you want and not the quantity. Ground the request in something true about Allah instead of in your own case. Then keep worshipping in the place you asked from.",
-            "bn": "অংশটি একটি ব্যবহারযোগ্য কাঠামো রেখে যায়। আল্লাহর দান যখন অন্য কারও ওপর নামতে দেখেন, তখন তাকে নিজের সম্পর্কে রায় না ভেবে দাতার সম্পর্কে প্রমাণ হিসেবে নিন। যা চান তার পরিমাণ নয়, গুণটি চান। আবেদনটি নিজের অবস্থার ওপর নয়, আল্লাহ সম্পর্কে সত্য কোনো কথার ওপর দাঁড় করান। তারপর যে জায়গা থেকে চেয়েছিলেন, সেখানেই ইবাদত চালিয়ে যান।"
+            "bn": "এই অংশ থেকে কাজে লাগানোর মতো একটা ধারা পাওয়া যায়। আল্লাহর দান অন্য কারও ওপর এসে পড়তে দেখলে সেটাকে নিজের সম্পর্কে রায় ভাববেন না; দাতা সম্পর্কে প্রমাণ হিসেবে নিন। যা চান, তার পরিমাণ নয়, গুণটা চান। চাওয়াটা নিজের অবস্থার ওপর দাঁড় করাবেন না, দাঁড় করান আল্লাহ সম্পর্কে কোনো সত্য কথার ওপর। তারপর যেখানে দাঁড়িয়ে চেয়েছিলেন, সেখানেই ইবাদত চালিয়ে যান।"
           }
         ]
       }
@@ -936,7 +936,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where He Is Named Again",
-          "bn": "আরও যেখানে তাঁর নাম"
+          "bn": "আর যেখানে তাঁর নাম এসেছে"
         },
         "p": [
           {
@@ -973,11 +973,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse holds no supplication of its own, so what follows is a du'a composed in its vocabulary, not a transmitted one: O Allah, give us standing with You in this world and the Hereafter, place us among those You bring near, and let every honour we carry be one You have given. It borrows wajih and muqarrabin and asks for nothing the verse did not name. Make it as your own words, and never pass it on as a narration.",
-            "bn": "আয়াতে নিজস্ব কোনো দোয়া নেই। তাই নিচের দোয়াটি আয়াতের শব্দ থেকে বানানো, কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, দুনিয়া ও আখিরাতে আমাদের তোমার কাছে মর্যাদা দাও, যাদের তুমি কাছে টেনে নাও আমাদের তাদের মধ্যে রাখো, আর আমাদের প্রতিটি সম্মান যেন তোমারই দেওয়া হয়। এতে ওয়াজীহ আর মুকাররাবীন শব্দ দুটি ধার নেওয়া হয়েছে, আয়াতে নেই এমন কিছু চাওয়া হয়নি। নিজের দোয়া হিসেবেই করুন, কখনো হাদিস বা বর্ণনা বলে চালাবেন না।"
+            "bn": "আয়াতে নিজস্ব কোনো দোয়া নেই। তাই নিচের দোয়াটি আয়াতের শব্দ থেকে বানানো, কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, দুনিয়া ও আখিরাতে আপনার কাছে আমাদের মর্যাদা দিন, যাদের আপনি কাছে টেনে নেন আমাদের তাদের মধ্যে রাখুন, আর আমাদের প্রতিটি সম্মান যেন আপনারই দেওয়া হয়। এতে ওয়াজীহ আর মুকাররাবীন শব্দ দুটি ধার নেওয়া হয়েছে, আয়াতে নেই এমন কিছু চাওয়া হয়নি। নিজের দোয়া হিসেবেই করুন, কখনো হাদিস বা বর্ণনা বলে চালাবেন না।"
           },
           {
             "en": "The same passage does hold a Quranic supplication, a few verses earlier. When Maryam was born, her mother said in 3:36: I seek refuge for her in You, and for her descendants, from Satan, the expelled. That prayer named her descendants, and the son announced in 3:45 is hers. A parent can make the same request over a child today, in the verse's words, asking protection for the child and for everyone who comes after.",
-            "bn": "তবে এই অংশেই, কয়েক আয়াত আগে, কুরআনের একটি দোয়া আছে। মারইয়ামের জন্মের পর তাঁর মা ৩:৩৬ আয়াতে বলেছিলেন: আমি তাকে আর তার বংশধরদের বিতাড়িত শয়তান থেকে তোমার আশ্রয়ে সঁপে দিলাম। সেই দোয়ায় তাঁর বংশধরদের কথা ছিল, আর ৩:৪৫ আয়াতে যে ছেলের সুসংবাদ, তিনি মারইয়ামেরই সন্তান। আজও একজন বাবা বা মা নিজের সন্তানের জন্য আয়াতের কথায় একই দোয়া করতে পারেন, সন্তান আর তার পরে যারা আসবে তাদের সবার জন্য আশ্রয় চেয়ে।"
+            "bn": "তবে এই অংশেই, কয়েক আয়াত আগে, কুরআনের একটি দোয়া আছে। মারইয়ামের জন্মের পর তাঁর মা ৩:৩৬ আয়াতে বলেছিলেন: আমি তাকে আর তার বংশধরদের বিতাড়িত শয়তান থেকে আপনার আশ্রয়ে সঁপে দিলাম। সেই দোয়ায় তাঁর বংশধরদের কথা ছিল, আর ৩:৪৫ আয়াতে যে ছেলের সুসংবাদ, তিনি মারইয়ামেরই সন্তান। আজও একজন বাবা বা মা নিজের সন্তানের জন্য আয়াতের কথায় একই দোয়া করতে পারেন, সন্তান আর তার পরে যারা আসবে তাদের সবার জন্য আশ্রয় চেয়ে।"
           }
         ]
       },
@@ -1013,7 +1013,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "3:50-51 carry his words on: he has come confirming the Torah that was before him and making lawful some of what had been forbidden to them, and he closes on this: Allah is my Lord and your Lord, so worship Him; that is the straight path. So the signs of 3:49 sit between two statements of servanthood, a messenger at the start and a worshipper of his Lord at the end. No separate occasion of revelation is reported for the verse; it belongs to the account that 3:62 will call the true narration.",
-            "bn": "৩:৫০-৫১ আয়াতে তাঁর কথা চলতে থাকে: তিনি এসেছেন আগের তাওরাতকে সত্যায়ন করতে, আর তাদের জন্য হারাম করা কিছু জিনিস হালাল করে দিতে। শেষ করেন এই কথায়: আল্লাহ আমার রব, তোমাদেরও রব, অতএব তাঁর ইবাদত করো, এটাই সরল পথ। ফলে ৩:৪৯ আয়াতের নিদর্শনগুলো দাঁড়িয়ে আছে দাসত্বের দুটি ঘোষণার মাঝখানে। শুরুতে তিনি রসূল, শেষে তিনি নিজের রবের ইবাদতকারী। এই আয়াতের আলাদা কোনো শানে নুযুল বর্ণিত নেই। এটি সেই বর্ণনার অংশ, যাকে ৩:৬২ আয়াত বলবে সত্য বৃত্তান্ত।"
+            "bn": "৩:৫০-৫১ আয়াতে তাঁর কথা চলতে থাকে: তিনি এসেছেন আগের তাওরাতকে সত্যায়ন করতে, আর তাদের জন্য হারাম করা কিছু জিনিস হালাল করে দিতে। শেষ করেন এই কথায়: আল্লাহ আমার রব, তোমাদেরও রব, অতএব তাঁর ইবাদত করো, এটাই সরল পথ। ফলে ৩:৪৯ আয়াতের নিদর্শনগুলো দাঁড়িয়ে আছে বন্দেগির দুটি ঘোষণার মাঝখানে। শুরুতে তিনি রসূল, শেষে তিনি নিজের রবের ইবাদতকারী। এই আয়াতের আলাদা কোনো শানে নুযুল বর্ণিত নেই। এটি সেই বর্ণনার অংশ, যাকে ৩:৬২ আয়াত বলবে সত্য বৃত্তান্ত।"
           }
         ]
       },
