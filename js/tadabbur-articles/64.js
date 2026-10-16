@@ -137,7 +137,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so the article offers neither. Nor does any of them, in the text read here, tie al-masir by number to the verses later in the surah, so no such link is drawn here. What the verses that follow say about knowledge and about earlier peoples belongs to those verses, and is left for them.",
-            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও দেয়নি। তাই এ প্রবন্ধেও এর কোনোটি নেই। এখানে পড়া লেখাগুলোর কোনোটি আল-মাসীরকে সূরার পরের কোনো আয়াতের সঙ্গে নম্বর ধরে যুক্তও করেনি, তাই এখানেও সে যোগসূত্র টানা হচ্ছে না। পরের আয়াতগুলো জ্ঞান আর আগের জাতিদের সম্পর্কে যা বলে, তা সেই আয়াতগুলোরই বিষয়, তাদের জন্যই রেখে দেওয়া হলো।"
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি, কোনো শানে নুযূলও দেয়নি। তাই এ প্রবন্ধেও এর কোনোটি নেই। এখানে পড়া লেখাগুলোর কোনোটি আল-মাসীরকে সূরার পরের কোনো আয়াতের সঙ্গে নম্বর ধরে যুক্তও করেনি, তাই এখানেও সে যোগসূত্র টানা হচ্ছে না। পরের আয়াতগুলো জ্ঞান আর আগের জাতিদের সম্পর্কে যা বলে, তা সেই আয়াতগুলোরই বিষয়, তাদের জন্যই রেখে দেওয়া হলো।"
           }
         ]
       },
