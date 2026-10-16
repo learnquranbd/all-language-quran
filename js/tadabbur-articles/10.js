@@ -557,7 +557,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir and al-Jalalayn draw the line somewhere else. For them the idolaters are held at a marked place and set apart from where the believers stand, and Ibn Kathir brings 36:59, 30:14 and 30:43 for it, adding that it happens when the Lord comes for the decisive judgement. Maududi, in Tafhim al-Qur'an, rejects the severing reading outright as opposed to Arabic usage: the word means We will distinguish them from each other, the idolaters and their deities set face to face until each knows the truth about the other. The two readings stand unreconciled.",
-            "bn": "ইবনু কাসীর আর জালালাইন দাগটা অন্য জায়গায় টানেন। তাঁদের কাছে মুশরিকদের নির্দিষ্ট এক জায়গায় আটকে রাখা হবে, মু'মিনরা যেখানে দাঁড়াবে তার থেকে আলাদা করে। ইবনু কাসীর এর সঙ্গে ৩৬:৫৯, ৩০:১৪ আর ৩০:৪৩ আয়াত আনেন, আর বলেন এটি ঘটবে যখন রব ফয়সালার জন্য আসবেন। মওদূদী তাফহীমুল কুরআনে সম্পর্ক ছেঁড়ার ব্যাখ্যাটা সোজা বাতিল করেন, বলেন তা আরবি ব্যবহারের বিরুদ্ধে; শব্দের মানে আমরা তাদের একে অন্য থেকে চিনিয়ে দেব, মুশরিক আর তাদের মা'বুদদের মুখোমুখি দাঁড় করানো হবে যতক্ষণ না একজন অন্যজনের আসল রূপ জেনে যায়। দুটি ব্যাখ্যার মিল হয়নি।"
+            "bn": "ইবনু কাসীর আর জালালাইন দাগটা টানেন অন্য জায়গায়। তাঁদের মতে মুশরিকদের একটা নির্দিষ্ট জায়গায় আটকে রাখা হবে, মু'মিনরা যেখানে দাঁড়াবে তার থেকে আলাদা করে। ইবনু কাসীর এর পক্ষে ৩৬:৫৯, ৩০:১৪ আর ৩০:৪৩ আয়াত আনেন, আর বলেন, এটা ঘটবে যখন রব চূড়ান্ত ফয়সালার জন্য আসবেন। মওদূদী তাফহীমুল কুরআনে সম্পর্ক ছেঁড়ার ব্যাখ্যাটা সোজা বাতিল করে দেন; তাঁর মতে এটা আরবি ভাষার ব্যবহারের সঙ্গে মেলে না। তাঁর কাছে শব্দটার মানে, আমরা তাদের একে অন্যের থেকে আলাদা করে দেব। মুশরিক আর তাদের মা'বুদদের মুখোমুখি দাঁড় করানো হবে, যতক্ষণ না একে অন্যের আসল রূপ জেনে যায়। দুই ব্যাখ্যার মীমাংসা হয়নি।"
           }
         ]
       },
@@ -569,7 +569,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are the partners that speak? Al-Qurtubi lists three answers and chooses none: the angels, or the devils, or the idols, which Allah makes speak so that this exchange can take place. He explains why the question matters. The idolaters pressed a charge against the devils they had obeyed and the idols they had worshipped, that these had ordered them to do it, saying we did not worship you until you commanded us. Tanwir al-Miqbas puts the same charge in their mouths and has the idols answer that they commanded nothing.",
-            "bn": "যে শরীকরা কথা বলছে, তারা কে? কুরতুবী তিনটি জবাব সাজিয়ে রাখেন, কোনোটিকে বেছে নেন না, ফেরেশতা, নয়তো শয়তানরা, নয়তো মূর্তিগুলো, যাদের আল্লাহ কথা বলিয়ে দেবেন যাতে এই কথাবার্তা হতে পারে। প্রশ্নটা কেন জরুরি তাও তিনি বলেন। মুশরিকরা যে শয়তানদের কথা মেনেছিল আর যে মূর্তিগুলোর পূজা করেছিল, তাদের বিরুদ্ধেই অভিযোগ তুলবে, এরাই আমাদের হুকুম দিয়েছিল; তারা বলবে, তোমরা হুকুম না দিলে আমরা তোমাদের পূজা করতাম না। তানবীরুল মিক্‌বাস একই অভিযোগ তাদের মুখে বসায়, আর মূর্তিরা জবাব দেয় যে তারা কোনো হুকুমই দেয়নি।"
+            "bn": "যে শরীকরা কথা বলছে, তারা কারা? কুরতুবী তিনটি জবাব দেন, কোনোটিকেই বেছে নেন না: ফেরেশতা, নয়তো শয়তান, নয়তো মূর্তি; আল্লাহ এদের কথা বলাবেন, যাতে এই কথাবার্তাটা হতে পারে। প্রশ্নটা কেন জরুরি, তাও তিনি বলেন। মুশরিকরা যে শয়তানদের কথা মেনেছিল আর যে মূর্তিগুলোর পূজা করেছিল, তাদের বিরুদ্ধেই অভিযোগ তুলবে: এরাই আমাদের এ কাজের হুকুম দিয়েছিল। তারা বলবে, তোমরা হুকুম না দিলে আমরা তোমাদের পূজা করতাম না। তানবীরুল মিক্‌বাসও একই অভিযোগ তাদের মুখে দেয়, আর মূর্তিরা জবাব দেয়, তারা কোনো হুকুমই দেয়নি।"
           },
           {
             "en": "At-Tabari preserves the exchange itself in two reports. Mujahid describes an hour of severity on that Day in which the gods they used to worship are set up before them and it is said, these are the ones you worshipped besides Allah; the gods answer, by Allah we did not hear, we did not see, we did not understand, and we did not know that you were worshipping us. Ibn Zayd supplies the worshippers' reply, yes indeed, we used to worship you, and then the partners swear the oath of 10:29.",
@@ -577,23 +577,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Is the denial honest? Al-Baghawi hears it narrower than it looks: you were not worshipping us at our bidding. As-Sa'di gives the partners a motive that clears Allah rather than themselves, for we declare Allah free of having any partner or equal. Al-Qurtubi raises the possibility of a lie: if the partners are the devils, they may speak in sheer bewilderment, or lie and scheme for a way out, and such a thing may still happen on that Day. So the same four words may be simple truth from stone and a last manoeuvre from a devil.",
-            "bn": "এই অস্বীকার কি সত্যি? বাগাবী কথাটা দেখতে যতটা চওড়া, তার চেয়ে সংকীর্ণ করে শোনেন, আমাদের বলায় তো তোমরা আমাদের ইবাদত করতে না। সা'দী শরীকদের যে কারণটা দেন, তা নিজেদের নয়, আল্লাহকেই নিষ্কলুষ করে, কারণ আমরা আল্লাহকে শরীক ও সমকক্ষ থেকে পবিত্র মানি। কুরতুবী মিথ্যার সম্ভাবনাটাও তোলেন, শরীকরা যদি শয়তান হয়, তবে তারা হতভম্ব হয়ে কথাটা বলতে পারে, কিংবা বাঁচার ফন্দি করে মিথ্যা বলতে পারে, আর সেদিনও এমনটা ঘটা অসম্ভব নয়। ফলে একই চারটি শব্দ পাথরের মুখে হতে পারে সরল সত্য, আর শয়তানের মুখে শেষ চাল।"
+            "bn": "এই অস্বীকার কি সত্যি? বাগাবীর কাছে কথাটার পরিধি যতটা মনে হয়, তার চেয়ে ছোট: তোমরা আমাদের কথায় আমাদের ইবাদত করতে না। সা'দী শরীকদের মুখে এমন এক কারণ দেন, যা তাদের নিজেদের নির্দোষ প্রমাণ করে না, আল্লাহকে দোষমুক্ত করে: আমরা আল্লাহকে সব শরীক ও সমকক্ষ থেকে পবিত্র ঘোষণা করি। কুরতুবী মিথ্যার সম্ভাবনাও তোলেন। শরীকরা যদি শয়তান হয়, তবে হয়তো তারা একেবারে হতভম্ব হয়ে কথাটা বলছে, কিংবা বাঁচার ফন্দি এঁটে মিথ্যা বলছে; সেদিনও এমনটা ঘটতে পারে। তাই একই চারটি শব্দ পাথরের মুখে সরল সত্য, আর শয়তানের মুখে শেষ চাল হতে পারে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Same Denial Elsewhere",
-          "bn": "এই অস্বীকার আরও যেখানে"
+          "bn": "অন্য জায়গাতেও একই অস্বীকার"
         },
         "p": [
           {
             "en": "Ibn Kathir gathers the sisters himself. 19:82 says they will deny their worship of them and will be against them opponents. 2:166 has those who were followed disassociate themselves from those who followed, all of them seeing the punishment while the ties between them are cut off. 46:5-6 puts the two ends together: those invoked are unaware of the invocation now, and when the people are gathered they will be enemies to them and deniers of their worship. Three places, one sentence.",
-            "bn": "বোনের মতো আয়াতগুলো ইবনু কাসীর নিজেই জড়ো করেছেন। ১৯:৮২ আয়াত বলছে, তারা এদের ইবাদত অস্বীকার করবে আর এদের বিরুদ্ধ পক্ষ হয়ে দাঁড়াবে। ২:১৬৬ আয়াতে যাদের অনুসরণ করা হয়েছিল তারা অনুসরণকারীদের থেকে সম্পর্ক ছেড়ে দেয়, সবাই শাস্তি দেখতে পায়, আর তাদের মধ্যের বাঁধনগুলো কেটে যায়। ৪৬:৫-৬ আয়াত দুই মাথা একসঙ্গে ধরে, যাদের ডাকা হয় তারা এখনই এই ডাকের খবর রাখে না, আর যখন মানুষ একত্র করা হবে তখন তারা এদের শত্রু হয়ে যাবে আর এদের ইবাদত অস্বীকার করবে। তিন জায়গা, কথা একটাই।"
+            "bn": "এর সমগোত্রীয় আয়াতগুলো ইবনু কাসীর নিজেই এক জায়গায় এনেছেন। ১৯:৮২ আয়াত বলছে, তারা এদের ইবাদত অস্বীকার করবে আর এদের বিরুদ্ধ পক্ষ হয়ে দাঁড়াবে। ২:১৬৬ আয়াতে যাদের অনুসরণ করা হয়েছিল, তারা অনুসারীদের সঙ্গে সব সম্পর্ক অস্বীকার করে; সবাই তখন শাস্তি চোখের সামনে দেখছে, আর তাদের মধ্যের সব বাঁধন ছিঁড়ে গেছে। ৪৬:৫-৬ আয়াত দুই মাথা একসঙ্গে ধরে: যাদের ডাকা হয়, তারা এখনই এই ডাকের খবর রাখে না; আর যখন মানুষকে একত্র করা হবে, তখন তারা এদের শত্রু হয়ে যাবে আর এদের ইবাদত অস্বীকার করবে। তিন জায়গা, কথা একটাই।"
           },
           {
             "en": "Two more sharpen it. In 16:86 the idolaters point at their partners and say, our Lord, these are our partners whom we used to invoke besides You, and the answer thrown back at them is that they are liars. 35:14 states the case before the Day arrives at all: if you invoke them they do not hear, and if they heard they would not respond, and on the Day of Resurrection they will deny your association. The denial is not news. It was published in advance.",
-            "bn": "আরও দুটি আয়াত কথাটা আরও ধারালো করে। ১৬:৮৬ আয়াতে মুশরিকরা নিজেদের শরীকদের দেখিয়ে বলে, হে আমাদের রব, এরাই তো আমাদের সেই শরীক যাদের আমরা আপনাকে ছাড়া ডাকতাম; জবাবে তাদের মুখের উপর বলা হয়, তোমরা মিথ্যাবাদী। ৩৫:১৪ আয়াত সেই দিন আসার অনেক আগেই বিষয়টা পরিষ্কার করে দেয়, তাদের ডাকলে তারা শোনে না, শুনলেও জবাব দিত না, আর কিয়ামতের দিন তারা তোমাদের এই শরীক করাটাই অস্বীকার করবে। তাই অস্বীকারটা নতুন খবর নয়। আগেই জানিয়ে রাখা হয়েছে।"
+            "bn": "আরও দুটি আয়াত কথাটায় শান দেয়। ১৬:৮৬ আয়াতে মুশরিকরা নিজেদের শরীকদের দেখিয়ে বলে, হে আমাদের রব, এরাই তো আমাদের সেই শরীক, আপনাকে ছাড়া যাদের আমরা ডাকতাম; জবাবে তাদের মুখের উপর বলা হয়, তোমরা মিথ্যাবাদী। ৩৫:১৪ আয়াত সেই দিন আসার আগেই বিষয়টা পরিষ্কার করে দেয়: তাদের ডাকলে তারা শোনে না, শুনলেও জবাব দিত না, আর কিয়ামতের দিন তারা তোমাদের এই শরীক করাটাই অস্বীকার করবে। তাই অস্বীকারটা নতুন খবর নয়। আগেভাগেই তা ঘোষণা করে রাখা হয়েছে।"
           }
         ]
       },
@@ -605,11 +605,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries fetched for this verse attaches a prophetic narration to it. Ibn Kathir quotes one line, that on the Day of Resurrection we will be on a mound above the people, without naming a collection, and no number for it could be confirmed here, so nothing is built on it. What is confirmable stands in Sahih al-Bukhari, and it is brought here as a general principle rather than as a narration the commentators tie to this verse.",
-            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবীজি ﷺ এর কোনো হাদীস জোড়ে না। ইবনু কাসীর একটি বাক্য উদ্ধৃত করেন, কিয়ামতের দিন আমরা থাকব মানুষের উপরে উঁচু এক টিলায়, তবে কোনো কিতাবের নাম তিনি বলেন না, আর এখানে এর কোনো নম্বরও নিশ্চিত করা যায়নি; তাই এর উপর কিছু দাঁড় করানো হয়নি। যেটা নিশ্চিত করা গেছে তা সহীহ বুখারীতে আছে, আর তা এখানে আনা হচ্ছে সাধারণ নীতি হিসেবে, এই আয়াতের সঙ্গে মুফাসসিরদের জোড়া কোনো হাদীস হিসেবে নয়।"
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয় না। ইবনু কাসীর একটি বাক্য উদ্ধৃত করেন, কিয়ামতের দিন আমরা থাকব মানুষের উপরে উঁচু এক টিলায়। তবে কোনো কিতাবের নাম তিনি বলেন না, আর এখানে এর কোনো নম্বরও নিশ্চিত করা যায়নি; তাই এর উপর কিছু দাঁড় করানো হয়নি। যা নিশ্চিত করা গেছে, তা আছে সহীহ বুখারীতে। সেটা এখানে আনা হচ্ছে সাধারণ নীতি হিসেবে, মুফাসসিররা এই আয়াতের সঙ্গে জুড়েছেন এমন হাদিস হিসেবে নয়।"
           },
           {
             "en": "Bukhari 4581, from Abu Sa'id al-Khudri (RA): a call-maker will announce, let every nation follow that which they used to worship. Bukhari 806, from Abu Hurayrah (RA), reports the same order and then the answer of this nation, we shall stay in this place until our Lord comes to us. The posture in both is the posture our verse commands. One group is told to stay where it is and loses everything it stood with; the other stays where it is and waits for the One it worshipped.",
-            "bn": "বুখারী ৪৫৮১, আবু সাঈদ খুদরী (রাঃ)-এর সূত্রে, এক ঘোষক ঘোষণা দেবে, প্রত্যেক জাতি তার মা'বুদের পিছনে চলুক, দুনিয়ায় যাকে তারা ইবাদত করত। বুখারী ৮০৬, আবু হুরায়রা (রাঃ)-এর সূত্রে, একই হুকুমের কথা বলে, আর তারপর এই উম্মতের জবাবটাও দেয়, আমরা এই জায়গাতেই থাকব যতক্ষণ না আমাদের রব আমাদের কাছে আসেন। দুই হাদীসের ভঙ্গিটাই আমাদের আয়াতের হুকুমের ভঙ্গি। এক দলকে বলা হয় জায়গায় দাঁড়িয়ে থাকতে, আর তারা সঙ্গে নিয়ে দাঁড়ানো সব কিছু হারায়; আরেক দল জায়গাতেই থাকে, আর যাঁর ইবাদত করত তাঁরই অপেক্ষা করে।"
+            "bn": "বুখারী ৪৫৮১, আবু সাঈদ খুদরী (রাঃ)-এর সূত্রে: এক ঘোষক ঘোষণা দেবে, যে যার ইবাদত করত, প্রত্যেক জাতি তার পিছনে চলুক। বুখারী ৮০৬, আবু হুরায়রা (রাঃ)-এর সূত্রে, একই হুকুমের কথা বলে, তারপর এই উম্মতের জবাবটাও জানায়: আমাদের রব আমাদের কাছে না আসা পর্যন্ত আমরা এই জায়গাতেই থাকব। দুই হাদিসেই অবস্থাটা ঠিক তেমন, আমাদের আয়াত যার হুকুম দিচ্ছে। এক দলকে বলা হয়, নিজের জায়গায় থাকো, আর যাদের পাশে তারা দাঁড়িয়েছিল তাদের সবাইকে তারা হারায়। আরেক দল নিজের জায়গাতেই থাকে, আর যাঁর ইবাদত করত তাঁরই অপেক্ষা করে।"
           }
         ]
       },
@@ -621,7 +621,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse describes the people the text describes, those who set partners beside Allah and the things they set up. It passes no sentence on any living person or community and hands nobody a verdict to carry out. Its use is inward. 10:18 had already recorded the claim in their own words, these are our intercessors with Allah, and this verse calls those intercessors forward to answer for themselves. Anything leaned on in that way is asked the same question.",
-            "bn": "আয়াত যাদের কথা বলছে, তাদেরই কথা বলছে, যারা আল্লাহর পাশে শরীক দাঁড় করিয়েছিল আর যাদের দাঁড় করিয়েছিল। আজকের কোনো মানুষ বা কোনো জনগোষ্ঠীর উপর এটি রায় দেয় না, কারো হাতে কোনো ফয়সালা তুলেও দেয় না। এর কাজ ভেতরের দিকে। ১০:১৮ আয়াতে তাদের নিজের মুখের দাবিটা আগেই লেখা হয়েছে, এরাই আল্লাহর কাছে আমাদের সুপারিশকারী, আর এই আয়াত সেই সুপারিশকারীদেরই সামনে ডেকে নিজেদের জবাব দিতে বলে। এভাবে যার উপর ভর দেওয়া হয়, তাকেই এই প্রশ্নটা করা হয়।"
+            "bn": "আয়াত যাদের কথা বলছে, তাদেরই কথা বলছে: যারা আল্লাহর পাশে শরীক দাঁড় করিয়েছিল, আর যাদের দাঁড় করিয়েছিল। আজকের কোনো মানুষ বা জনগোষ্ঠীর উপর আয়াত কোনো রায় দেয় না, কারো হাতে কোনো ফয়সালা তুলেও দেয় না। এর কাজ ভেতরের দিকে। ১০:১৮ আয়াতে তাদের নিজের মুখের দাবিটা আগেই লেখা আছে, এরাই আল্লাহর কাছে আমাদের সুপারিশকারী। আর এই আয়াত সেই সুপারিশকারীদেরই সামনে ডেকে আনে, নিজেদের জবাব নিজেরা দিতে। এভাবে যার উপরই ভর দেওয়া হয়, তাকে এই একই প্রশ্নের সামনে দাঁড়াতে হয়।"
           },
           {
             "en": "As-Sa'di's sentence is the one to sit with: the purest love was spent on these partners in the world, and on that Day the allegiance turns over into hatred and severe enmity. So the test is not whether a person owns an idol. It is what he actually expects to speak for him when nothing else will, a reputation, a lineage, a teacher's name, money, a movement, and whether he has quietly asked it for what only Allah gives. What cannot answer for me then is not worth leaning on now.",
@@ -637,7 +637,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Four to sit with. What do I expect to intercede for me, and have I ever checked whether it has any standing to? When I am frightened, whose name reaches my mouth first? If everything I lean on were stood in front of me and asked whether it had ever told me to lean on it, what would it say? And which of my attachments would go cold on that Day, the way as-Sa'di says these did?",
-            "bn": "চারটি প্রশ্ন নিয়ে বসুন। আমার হয়ে সুপারিশ করবে বলে কার দিকে তাকিয়ে আছি, আর কখনো যাচাই করেছি কি তার সেই মর্যাদা আছে কি না? ভয় পেলে সবার আগে কার নাম মুখে আসে? আমি যার উপর ভর দিই, তাকে যদি সামনে দাঁড় করিয়ে জিজ্ঞেস করা হয়, সে কখনো আমাকে ভর দিতে বলেছিল কি না, সে কী বলবে? আর সা'দী যেভাবে বলেছেন, আমার কোন টানটা সেই দিন ঠান্ডা হয়ে যাবে?"
+            "bn": "চারটি প্রশ্ন নিয়ে বসুন। আমার হয়ে সুপারিশ করবে বলে কার দিকে তাকিয়ে আছি, আর কখনো কি যাচাই করে দেখেছি, সুপারিশ করার মতো মর্যাদা তার আছে কি না? ভয় পেলে সবার আগে কার নাম মুখে আসে? আমি যার উপর ভর দিই, তাকে যদি সামনে দাঁড় করিয়ে জিজ্ঞেস করা হয়, সে কখনো আমাকে তার উপর ভর দিতে বলেছিল কি না, সে কী বলবে? আর সা'দী যেমন বলেছেন, আমার কোন টানটা সেই দিন ঠান্ডা হয়ে যাবে?"
           },
           {
             "en": "One more, from the command itself. Makanakum means stay where you are until you see what is done with you, as al-Muyassar fills it in. If that were said to me today, and the place I had to stand in were the place my own choices had built, where exactly would I be standing, and who would be standing beside me?",
@@ -665,7 +665,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What comes after keeps the same thread. 10:33 says the word of your Lord has come into effect upon those who defiantly disobeyed, that they will not believe; then 10:34 and 10:35 put the question again, about who begins creation and repeats it and who guides to the truth. None of the eight commentaries fetched for this verse reports an occasion of revelation for it, so its place inside that cross-examination is the context to read it in.",
-            "bn": "পরের আয়াতগুলোও একই সুতো ধরে চলে। ১০:৩৩ বলে, যারা নাফরমানি করেছে তাদের ব্যাপারে আপনার রবের কথা সত্য হয়ে গেছে, তারা ঈমান আনবে না। এরপর ১০:৩৪ আর ১০:৩৫ আয়াতে প্রশ্নটা আবার আসে, কে সৃষ্টি শুরু করেন আর তার পুনরাবৃত্তি ঘটান, আর কে সত্যের পথ দেখান। এই আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিতেই নাযিলের কোনো ঘটনা বলা হয়নি। তাই এই জেরার ভেতরে আয়াতের জায়গাটাই তার প্রসঙ্গ।"
+            "bn": "পরের আয়াতগুলোও একই সুতো ধরে চলে। ১০:৩৩ বলে, যারা নাফরমানি করেছে তাদের ব্যাপারে আপনার রবের কথা সত্য হয়ে গেছে, তারা ঈমান আনবে না। এরপর ১০:৩৪ আর ১০:৩৫ আয়াতে প্রশ্নটা আবার আসে: কে সৃষ্টি শুরু করেন আর আবার তা ফিরিয়ে আনেন, আর কে সত্যের পথ দেখান? এই আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিতেই এর নাজিলের কোনো উপলক্ষ পাওয়া যায় না। তাই আয়াতটা পড়তে হবে এই জেরার ভেতরে তার অবস্থান থেকেই।"
           }
         ]
       },
@@ -677,7 +677,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Counted in the text of surah Yunus, and leaving out the two pause marks printed in the line, the verse is eleven words. It falls into three clauses, each of them opening with the connective fa. Four words give the verdict, fa-dhalikumu Allahu rabbukumu al-haqq. Five put a question that has only one answer, fa-madha ba'da al-haqqi illa ad-dalal. Two close it, fa-anna tusrafun. The whole verse is a consequence drawn three times over from something the hearers had just conceded.",
-            "bn": "সূরা ইউনুসের মূল পাঠে গুনলে, আর লাইনে ছাপা দুটি ওয়াকফ চিহ্ন বাদ দিলে, আয়াতটি ১১ শব্দের। ভাগ হয়েছে ৩ বাক্যে, আর প্রতিটি শুরু হয়েছে ফা দিয়ে। ৪ শব্দে রায়, ফাযালিকুমুল্লাহু রব্বুকুমুল হক্ক। ৫ শব্দে এমন প্রশ্ন যার জবাব একটাই, ফামাযা বা'দাল হক্কি ইল্লাদ দালাল। ২ শব্দে শেষ, ফাআন্না তুসরাফূন। পুরো আয়াতটাই শ্রোতারা সদ্য যা স্বীকার করেছে তা থেকে ৩ বার টানা সিদ্ধান্ত।"
+            "bn": "সূরা ইউনুসের মূল পাঠে গুনলে, আর লাইনে ছাপা দুটি ওয়াকফ চিহ্ন বাদ দিলে, আয়াতটি ১১ শব্দের। ভাগ হয়েছে ৩ বাক্যে, আর প্রতিটি শুরু হয়েছে ফা দিয়ে। ৪ শব্দে রায়, ফাযালিকুমুল্লাহু রব্বুকুমুল হক্ক। ৫ শব্দে এমন প্রশ্ন যার জবাব একটাই, ফামাযা বা'দাল হক্কি ইল্লাদ দালাল। ২ শব্দে শেষ, ফাআন্না তুসরাফূন। শ্রোতারা এইমাত্র যা মেনে নিয়েছে, পুরো আয়াত সেখান থেকেই ৩ বার সিদ্ধান্ত টেনে আনে।"
           },
           {
             "en": "Fa-dhalikum is the far demonstrative with the plural you fastened onto it: that, all of you, is Allah. Both at-Tabari and al-Qurtubi paraphrase it with the near demonstrative instead, hadha, this One who does these things is your Lord, which shows how tightly the word is meant to point back at the four questions. As-Sa'di reads the same word as gathering up a description: fa-dhalikum, the One who has described Himself with what He has just described Himself with.",
@@ -697,11 +697,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi's first question adds the entitlement: your Lord, al-haqq, means the One to whom godhood is due and who warrants being worshipped; and if that is so, setting anyone beside Him is misguidance and not truth. As-Sa'di piles the description up: the One worshipped and praised, who raises all creation on His blessings, alone in creating and arranging everything, from whom every favour the servants hold comes.",
-            "bn": "কুরতুবী তাঁর প্রথম মাসআলায় হকের প্রশ্নটা যোগ করেন। তোমাদের রব, তিনিই হক্ক, অর্থাৎ ইলাহ হওয়ার অধিকার তাঁরই আর ইবাদত পাওয়ার যোগ্য তিনিই। তা যদি হয়, তবে তাঁর পাশে আর কাউকে বসানো গুমরাহি, হক নয়। সাদী বর্ণনার পাহাড় জমান, তিনিই ইবাদত পান আর প্রশংসা পান, সব সৃষ্টিকে তিনিই নিআমত দিয়ে গড়ে তোলেন, সৃষ্টি আর পরিচালনায় একমাত্র তিনিই, বান্দার হাতে যত নিআমত সব তাঁর কাছ থেকেই।"
+            "bn": "কুরতুবী তাঁর প্রথম মাসআলায় এর সঙ্গে হকদার হওয়ার কথাটা যোগ করেন। তোমাদের রব, তিনিই হক্ক, অর্থাৎ ইলাহ হওয়ার অধিকার তাঁরই, আর ইবাদত পাওয়ার যোগ্য তিনিই। তা-ই যদি হয়, তবে তাঁর পাশে আর কাউকে বসানো গুমরাহি, হক নয়। সাদী বর্ণনার পাহাড় জমান: তিনিই ইবাদত পান আর প্রশংসা পান, সব সৃষ্টিকে তিনিই নিআমত দিয়ে গড়ে তোলেন, সৃষ্টি আর পরিচালনায় একমাত্র তিনিই, বান্দার হাতে যত নিআমত, সব তাঁর কাছ থেকেই।"
           },
           {
             "en": "His third question takes the word the other way, as a name of Allah, and defines it as the necessarily existent, from haqqa ash-shay', the thing was established and became due. The description is Allah's in reality, he argues, because His being is from Himself, with no non-existence before it or after it, while everything else so named came after non-existence. He quotes Labid's line, that all apart from Allah is batil, and points to 28:88. The two readings are not rivals; one commentator holds both.",
-            "bn": "তৃতীয় মাসআলায় কুরতুবী শব্দটা অন্যভাবে নেন, আল্লাহর নাম হিসেবে, আর অর্থ করেন, যাঁর অস্তিত্ব অবশ্যম্ভাবী; শব্দটির মূল হক্কাশ শাইউ, অর্থাৎ জিনিসটা প্রতিষ্ঠিত হল আর অবধারিত হয়ে গেল। তাঁর যুক্তি, এই বিশেষণ প্রকৃত অর্থে আল্লাহরই, কারণ তাঁর অস্তিত্ব তাঁর নিজের থেকেই, আগেও অনস্তিত্ব নেই পরেও নেই; এই নামে ডাকা হয় এমন বাকি সবের আগে অনস্তিত্ব ছিল। তিনি লাবীদের সেই পঙক্তি টানেন, আল্লাহ ছাড়া সবই বাতিল, আর ২৮:৮৮ আয়াতের দিকে ইশারা করেন। দুটি পাঠ পরস্পরের প্রতিদ্বন্দ্বী নয়; একজন মুফাসসিরই দুটোই ধরেন।"
+            "bn": "তৃতীয় মাসআলায় কুরতুবী শব্দটা অন্যভাবে নেন, আল্লাহর নাম হিসেবে, আর অর্থ করেন: যাঁর অস্তিত্ব অবশ্যম্ভাবী। শব্দটির মূল হক্কাশ শাইউ, অর্থাৎ জিনিসটা প্রতিষ্ঠিত হল আর অবধারিত হয়ে গেল। তাঁর যুক্তি, এই বিশেষণ প্রকৃত অর্থে আল্লাহরই, কারণ তাঁর অস্তিত্ব তাঁর নিজের থেকেই; তার আগেও অনস্তিত্ব নেই, পরেও নেই। আর এই নামে যাদের ডাকা হয়, বাকি সবাই অনস্তিত্ব থেকেই অস্তিত্বে এসেছে। তিনি লাবীদের সেই পঙক্তি টানেন, আল্লাহ ছাড়া সবই বাতিল, আর ২৮:৮৮ আয়াতের দিকে ইশারা করেন। দুটি পাঠে কোনো বিরোধ নেই; একই মুফাসসির দুটোই মানেন।"
           }
         ]
       },
@@ -713,11 +713,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi notes first that the dha in madha is sila, a filler joined to ma, so the sense is just what is after; al-Jalalayn adds that the interrogative is meant as an affirmative, there being nothing after the truth but error. At-Tabari reads the clause as a flat alternative, what thing other than the truth is there except misguidance, glossing misguidance as al-jawr an qasd as-sabil, swerving off the road you meant to take. For al-Qurtubi too the reality of dalal is going away from the truth, taken from losing a road and turning off its track.",
-            "bn": "কুরতুবী প্রথমে ধরিয়ে দেন, মাযা-র ভেতরের যা হল সিলা, মা-র সঙ্গে জোড়া বাড়তি অংশ, তাই অর্থ দাঁড়ায় শুধু, এরপরে কী আছে; আর জালালাইন যোগ করেন, প্রশ্নটা আসলে জোর দিয়ে বলা, হকের পরে গুমরাহি ছাড়া কিছুই নেই। তাবারী বাক্যটাকে নেন সাদাসিধে দুই ভাগ হিসেবে, হক ছাড়া আর কী থাকে গুমরাহি ছাড়া; গুমরাহির অর্থ তিনি করেন আল-জাওর আন কাসদিস সাবীল, অর্থাৎ যে পথে যেতে চেয়েছিলেন সেই পথ থেকে সরে যাওয়া। কুরতুবীর কাছেও গুমরাহি মানে হক থেকে সরে যাওয়া, শব্দটা এসেছে পথ হারানো থেকে, পথের রেখা ছেড়ে দেওয়া থেকে।"
+            "bn": "কুরতুবী প্রথমে ধরিয়ে দেন, মাযা-র ভেতরের যা হল সিলা, মা-র সঙ্গে জোড়া বাড়তি অংশ। তাই অর্থ দাঁড়ায় শুধু: এরপরে কী আছে? জালালাইন যোগ করেন, প্রশ্নটা আসলে জোর দিয়ে বলা কথা: হকের পরে গুমরাহি ছাড়া কিছুই নেই। তাবারী বাক্যটাকে নেন সোজা দুই বিকল্প হিসেবে: হক ছাড়া এমন কী আছে, যা গুমরাহি নয়? গুমরাহির অর্থ তিনি করেন আল-জাওর আন কাসদিস সাবীল, অর্থাৎ যে পথে যেতে চেয়েছিলেন, সেই পথ থেকে সরে যাওয়া। কুরতুবীর কাছেও গুমরাহি মানে হক থেকে সরে যাওয়া; শব্দটা এসেছে পথ হারানো আর পথের রেখা ছেড়ে দেওয়া থেকে।"
           },
           {
             "en": "Al-Qurtubi's second question draws a boundary. His scholars ruled from this verse, he reports, that there is no third rank between truth and falsehood in the matter of Allah's oneness, nor in the questions of usul, where truth lies on a single side. The branches are otherwise: he cites 5:48, to each of you We prescribed a law and a method, with the Prophet's ﷺ words that the halal is clear and the haram is clear and between them are doubtful matters, confirmed in Sahih al-Bukhari 2051 from an-Nu'man ibn Bashir (RA).",
-            "bn": "কুরতুবী তাঁর দ্বিতীয় মাসআলায় সীমানা টেনে দেন। তিনি বলেন, আমাদের আলিমরা বলেছেন, এই আয়াত রায় দিয়ে দিয়েছে যে আল্লাহর একত্বের প্রশ্নে হক আর বাতিলের মাঝখানে তৃতীয় কোনো স্তর নেই, আর উসূলের প্রশ্নগুলোতেও নেই, সেখানে হক থাকে কেবল এক দিকেই। শাখা-মাসআলা এমন নয়। এর জন্য তিনি টানেন ৫:৪৮, তোমাদের প্রত্যেকের জন্য আমি শরীয়ত আর পথ নির্ধারণ করেছি; সঙ্গে নবীর ﷺ কথা, হালাল স্পষ্ট আর হারাম স্পষ্ট, আর এ দুয়ের মাঝে আছে সন্দেহজনক বিষয়। এই শব্দগুলো সহীহ বুখারীর ২০৫১ নম্বরে নুমান ইবনু বাশীর (রাঃ)-এর সূত্রে পাওয়া যায়।"
+            "bn": "কুরতুবী তাঁর দ্বিতীয় মাসআলায় সীমানা টেনে দেন। তিনি জানান, তাঁর আলিমরা এই আয়াত থেকে সিদ্ধান্ত নিয়েছেন যে আল্লাহর একত্বের প্রশ্নে হক আর বাতিলের মাঝখানে তৃতীয় কোনো স্তর নেই, উসূলের প্রশ্নগুলোতেও নেই; সেখানে হক থাকে কেবল এক দিকেই। শাখা-মাসআলা এমন নয়। এর জন্য তিনি টানেন ৫:৪৮, তোমাদের প্রত্যেকের জন্য আমি শরীয়ত আর পথ নির্ধারণ করেছি; সঙ্গে নবীর ﷺ কথা, হালাল স্পষ্ট আর হারাম স্পষ্ট, আর এ দুয়ের মাঝে আছে সন্দেহজনক বিষয়। এই কথাগুলো সহীহ বুখারীর ২০৫১ নম্বরে নুমান ইবনু বাশীর (রাঃ)-এর সূত্রে পাওয়া যায়।"
           },
           {
             "en": "Ma'arif al-Qur'an reaches the same limit, adding that in questions settled by ijtihad the majority hold the other position cannot be called straying. Al-Qurtubi also records a wider use of the clause and then refuses it. Some earlier scholars took it to cover deeds, so that the forbidden is misguidance and the permitted is guidance; Malik, asked about chess and dice, answered with this very clause, and az-Zuhri called such play part of the batil. Al-Qurtubi's own verdict is the narrower reading, because what stands before it in 10:31 is provision and lordship.",
@@ -728,20 +728,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Turned, Not Turning",
-          "bn": "ঘুরছেন না, ঘোরানো হচ্ছে"
+          "bn": "নিজে ঘুরছে না, ঘোরানো হচ্ছে"
         },
         "p": [
           {
             "en": "Now the two words at the end. At-Tabari expands them into a question with a sting: to which direction away from guidance and the truth are you turned, and which road other than those two are you walking, while you admit that what you are turned from is the truth? Al-Baghawi gives it briefly, where are you turned away from His worship while you confess Him. Ibn Kathir adds what makes it worse, that you know He is the Lord who created everything.",
-            "bn": "এবার শেষের দুটি শব্দ। তাবারী এগুলো খুলে এমন প্রশ্নে দাঁড় করান যার ভেতরে কাঁটা আছে, হিদায়াত আর হক থেকে সরে কোন দিকে তোমাদের ঘোরানো হচ্ছে, আর এ দুটো ছেড়ে কোন পথে তোমরা হাঁটছ, অথচ তোমরা নিজেরাই মানছ যে যা থেকে তোমাদের ঘোরানো হচ্ছে সেটাই হক? বাগভী কথাটা ছোট করেই বলেন, তাঁর ইবাদত থেকে সরে কোথায় তোমাদের নিয়ে যাওয়া হচ্ছে, অথচ তাঁকে তো তোমরা স্বীকার করছ। ইবনু কাসীর যোগ করেন যে কথাটা দোষ আরো বাড়ায়, তোমরা জানো তিনিই সেই রব যিনি সব সৃষ্টি করেছেন।"
+            "bn": "এবার শেষের দুটি শব্দ। তাবারী এগুলো খুলে এমন এক প্রশ্ন বানান, যার ভেতরে কাঁটা আছে: হিদায়াত আর হক থেকে সরে কোন দিকে তোমাদের ঘোরানো হচ্ছে, এ দুটো ছেড়ে কোন পথে তোমরা হাঁটছ, অথচ নিজেরাই মানছ যে যা থেকে তোমাদের ঘোরানো হচ্ছে, সেটাই হক? বাগভী কথাটা ছোট করে বলেন: তাঁর ইবাদত থেকে সরিয়ে কোথায় তোমাদের নেওয়া হচ্ছে, অথচ তাঁকে তো তোমরা স্বীকার করছ। ইবনু কাসীর এমন কথা যোগ করেন, যা দোষটাকে আরো ভারী করে: তোমরা তো জানো, তিনিই সেই রব যিনি সব কিছু সৃষ্টি করেছেন।"
           },
           {
             "en": "Al-Qurtubi's closing line makes the hearer the agent of the turning: how do you turn your minds away, to the worship of something that does not provide, does not give life and does not cause death. Al-Jalalayn reads the turning as away from faith itself, and adds the aggravation, after the proofs had been established. Tanwir al-Miqbas goes somewhere else again, glossing the clause as, from where do you invent lies about Allah.",
-            "bn": "কুরতুবী শেষ লাইনে ঘোরানোর কাজটা শ্রোতার হাতেই দেন, তোমরা নিজেদের বুদ্ধি কোন দিকে ঘুরিয়ে নিচ্ছ, এমন কিছুর ইবাদতের দিকে যা রিযক দেয় না, জীবন দেয় না, মৃত্যুও দেয় না। জালালাইন ঘোরানোটাকে নেন ঈমান থেকেই সরে যাওয়া অর্থে, আর সঙ্গে যোগ করেন অপরাধ বাড়ানো কথাটা, দলিল প্রতিষ্ঠিত হওয়ার পরেও। তানবীরুল মিকবাস আবার অন্য দিকে যায়, বাক্যটির অর্থ করে, আল্লাহর নামে মিথ্যা তোমরা কোথা থেকে বানাচ্ছ।"
+            "bn": "কুরতুবী শেষ লাইনে ঘোরানোর কাজটা শ্রোতার হাতেই দেন: তোমরা নিজেদের বুদ্ধি কোন দিকে ঘুরিয়ে নিচ্ছ, এমন কিছুর ইবাদতের দিকে যা রিযক দেয় না, জীবন দেয় না, মৃত্যুও দেয় না? জালালাইন ঘোরানোটাকে নেন খোদ ঈমান থেকে সরে যাওয়া অর্থে, আর দোষটাকে আরো ভারী করে যোগ করেন: দলিল কায়েম হয়ে যাওয়ার পরেও। তানবীরুল মিকবাস আবার অন্য দিকে যায়; বাক্যটির অর্থ করে, আল্লাহর নামে মিথ্যা তোমরা কোথা থেকে বানাচ্ছ?"
           },
           {
             "en": "Maududi, in Tafhim al-Qur'an, presses the passive voice instead. The questions are put to ordinary people, he says, so they are not asked whither are you turning away but whither are you being turned away, and the passive shows somebody must have been turning them. The Qur'an keeps back the names of the misguiders wherever it asks this, he adds, so that their followers weigh the matter coolly instead of rallying to a criticised leader. The earlier reading has the hearer turning his own mind; Maududi has him moved by hands he has not named.",
-            "bn": "মওদূদী তাফহীমুল কুরআনে বরং কর্মবাচ্যের উপরেই চাপ দেন। তাঁর কথা, প্রশ্নগুলো সাধারণ মানুষকে করা হচ্ছে, তাই বলা হয়নি তোমরা কোথায় ঘুরে যাচ্ছ, বলা হয়েছে তোমাদের কোথায় ঘুরিয়ে নেওয়া হচ্ছে; আর এই কর্মবাচ্যই দেখায়, কেউ ছিল যে তাদের ঘুরিয়ে নিচ্ছিল। তিনি ধরিয়ে দেন, কুরআন যেখানেই এই প্রশ্ন করে সেখানেই পথভ্রষ্ট করা লোকদের নাম চেপে রাখে, যাতে তাদের অনুসারীরা মাথা ঠান্ডা রেখে ভাবতে পারে, নেতার পক্ষে দল বাঁধতে না বসে। তাই আগের পাঠে সম্বোধিত ব্যক্তি নিজের মন ঘুরিয়ে নিচ্ছে, আর মওদূদীর পাঠে তাকে সরাচ্ছে এমন হাত যার নাম সে নেয়নি।"
+            "bn": "মওদূদী তাফহীমুল কুরআনে বরং কর্মবাচ্যের উপরেই জোর দেন। তাঁর কথা, প্রশ্নগুলো করা হচ্ছে সাধারণ মানুষকে। তাই বলা হয়নি, তোমরা কোথায় ঘুরে যাচ্ছ; বলা হয়েছে, তোমাদের কোথায় ঘুরিয়ে নেওয়া হচ্ছে। আর এই কর্মবাচ্যই দেখায়, নিশ্চয়ই কেউ তাদের ঘুরিয়ে নিচ্ছিল। তিনি আরো বলেন, কুরআন যেখানেই এই প্রশ্ন করে, সেখানেই পথভ্রষ্টকারীদের নাম চেপে রাখে, যাতে তাদের অনুসারীরা মাথা ঠান্ডা রেখে ভাবতে পারে, সমালোচিত নেতার পক্ষে দল বেঁধে না দাঁড়ায়। আগের পাঠে শ্রোতা নিজেই নিজের মন ঘুরিয়ে নিচ্ছে; মওদূদীর পাঠে তাকে সরাচ্ছে এমন সব হাত, যাদের নাম বলা হয়নি।"
           }
         ]
       },
@@ -753,7 +753,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi is the only commentary fetched here that brings a narration to this word. He says it is established from A'ishah (RA) that the Prophet ﷺ, rising to pray in the depth of the night, would say Allahumma laka al-hamd, a du'a containing, You are al-Haqq and Your promise is the truth. That wording stands in Sahih al-Bukhari 1120, from Ibn Abbas (RA), so the attribution is left as al-Qurtubi's. The other narrations on his page belong to his digression about play, and nothing here is built on them.",
-            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার মধ্যে কেবল কুরতুবীই এই শব্দের সঙ্গে হাদীস আনেন। তিনি বলেন, আয়িশা (রাঃ)-এর সূত্রে প্রমাণিত আছে, নবী ﷺ রাতের গভীরে নামাযে দাঁড়িয়ে বলতেন, আল্লাহুম্মা লাকাল হামদ, আর সেই দুআর ভেতরে আছে, আপনিই হক্ক আর আপনার ওয়াদা হক্ক। এই শব্দগুলো সহীহ বুখারীর ১১২০ নম্বরে আছে, তবে সেখানে বর্ণনাকারী ইবনু আব্বাস (রাঃ); তাই সম্পর্কিত করাটা কুরতুবীর কথা হিসেবেই রাখা হল। তাঁর পাতায় আর যে হাদীসগুলো আছে সেগুলো খেলা নিয়ে তাঁর প্রসঙ্গান্তরের অংশ, এখানে তার উপর কিছু দাঁড় করানো হয়নি।"
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার মধ্যে কেবল কুরতুবীই এই শব্দের সঙ্গে হাদিস আনেন। তিনি বলেন, আয়িশা (রাঃ)-এর সূত্রে প্রমাণিত আছে, নবী ﷺ গভীর রাতে নামাজে দাঁড়িয়ে বলতেন, আল্লাহুম্মা লাকাল হামদ; সেই দুআর ভেতরে আছে, আপনিই হক্ক আর আপনার ওয়াদা হক্ক। এই শব্দগুলো সহীহ বুখারীর ১১২০ নম্বরে আছে, তবে সেখানে বর্ণনাকারী ইবনু আব্বাস (রাঃ)। তাই আয়িশা (রাঃ)-এর নামে জোড়াটা কুরতুবীর কথা হিসেবেই রেখে দেওয়া হল। তাঁর পাতার বাকি হাদিসগুলো খেলা নিয়ে তাঁর প্রসঙ্গান্তরের অংশ; এখানে সেগুলোর উপর কিছু দাঁড় করানো হয়নি।"
           },
           {
             "en": "Part of it, from Bukhari 1120: O Allah, all the praises are for You, You are the Holder of the Heavens and the Earth and whatever is in them; and the praise runs on until, You are the Truth and Your Promise is the truth, and to meet You is true, Your Word is the truth, and Paradise is true and Hell is true and all the Prophets are true, and Muhammad ﷺ is true, and the Day of Resurrection is true. The du'a begins where the verse begins.",
@@ -785,11 +785,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse speaks about the people it speaks about, those who granted everything in 10:31 and worshipped beside Him anyway. It passes sentence on nobody alive and hands nobody a verdict to carry out. Its work is inward, and Ibn Kathir's framing is what makes it reach: the admission itself was the evidence against them. Whoever concedes that his provision and his senses are from Allah stands where the question is asked.",
-            "bn": "আয়াত যাদের কথা বলছে তাদেরই কথা বলছে, যারা ১০:৩১ আয়াতে সব মেনে নিয়েও তাঁর পাশে অন্যের ইবাদত করত। বেঁচে থাকা কারো ব্যাপারে এটি কোনো রায় দেয় না, কারো হাতে কোনো ফয়সালা তুলে দেয় না। এর কাজ ভেতরের দিকে, আর ইবনু কাসীরের ধরাটাই একে আমাদের কাছে নিয়ে আসে, স্বীকারোক্তিটাই ছিল তাদের বিরুদ্ধে দলিল। রিযক আর নিজের কান-চোখ আল্লাহর দেওয়া, এটা যিনি মানেন, প্রশ্নটা তাঁর সামনেই রাখা হচ্ছে।"
+            "bn": "আয়াত যাদের কথা বলছে, তাদেরই কথা বলছে: যারা ১০:৩১ আয়াতে সব মেনে নিয়েও তাঁর পাশে অন্যের ইবাদত করত। বেঁচে থাকা কারো ব্যাপারে আয়াত কোনো রায় দেয় না, কারো হাতে কোনো ফয়সালাও তুলে দেয় না। এর কাজ ভেতরের দিকে। আর ইবনু কাসীর যেভাবে কথাটা ধরেছেন, সেটাই আয়াতটাকে আমাদের পর্যন্ত টেনে আনে: স্বীকারোক্তিটাই ছিল তাদের বিরুদ্ধে দলিল। রিযক আর নিজের কান-চোখ আল্লাহর দেওয়া, এটা যিনি মানেন, প্রশ্নটা তাঁর সামনেই রাখা হচ্ছে।"
           },
           {
             "en": "So the test is small and can be run today. Find a place where a settled conviction and a standing habit do not match, and refuse the comfort of calling that gap a middle position, because the verse says there is none. Then, reading the passive Maududi's way, name the agents: whose opinion settled a matter you never checked, whose approval decided what you bought. A turn you can name is a turn you can refuse.",
-            "bn": "তাই পরীক্ষাটা ছোট, আজই চালানো যায়। এমন জায়গা খুঁজুন যেখানে পাকা বিশ্বাস আর চালু অভ্যাস মেলে না; আর সেই ফাঁককে মাঝামাঝি অবস্থান বলে আরাম খোঁজা বন্ধ করুন, কারণ আয়াত বলছে মাঝামাঝি কিছু নেই। এরপর মওদূদীর পাঠে কর্মবাচ্যটা ধরে নাম ধরে ধরুন কারা সরাচ্ছে। কার মতামতে আপনি না যাচাই করেই একটা বিষয় মেনে নিয়েছেন, কার সন্তুষ্টি দেখে ঠিক করেছেন কী কিনবেন। যে মোড়ের নাম আপনি বলতে পারেন, সেই মোড় আপনি ফিরিয়েও দিতে পারেন।"
+            "bn": "তাই পরীক্ষাটা ছোট, আজই করে দেখা যায়। এমন একটা জায়গা খুঁজুন, যেখানে আপনার পাকা বিশ্বাস আর রোজকার অভ্যাস মেলে না। সেই ফাঁকটাকে মাঝামাঝি অবস্থান বলে নিজেকে সান্ত্বনা দেবেন না, কারণ আয়াত বলছে মাঝামাঝি বলে কিছু নেই। তারপর মওদূদীর মতো কর্মবাচ্যটা খেয়াল করুন, আর যারা ঘোরাচ্ছে তাদের নাম বলুন: কার মতামতে আপনি যাচাই না করেই একটা বিষয় মেনে নিয়েছেন, কার পছন্দ দেখে ঠিক করেছেন কী কিনবেন। যে টানের নাম আপনি বলতে পারেন, তাকে না-ও বলতে পারেন।"
           }
         ]
       },
@@ -801,7 +801,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse addresses people, not Allah, so it is not itself a supplication; but the confession inside it can be prayed. What follows is composed here from the verse's own vocabulary and is not a narrated du'a: You are Allah, my Lord, the Truth; after Your truth there is nothing but going astray; keep me from being turned away from what I have already admitted, and let nothing turn me that I cannot name.",
-            "bn": "আয়াত মানুষকে সম্বোধন করছে, আল্লাহকে নয়, তাই এটি নিজে কোনো দুআ নয়; তবে এর ভেতরের স্বীকারোক্তিটা দুআ হিসেবে বলা যায়। নিচের কথাগুলো আয়াতের শব্দ থেকেই এখানে সাজিয়ে লেখা হয়েছে, এগুলো বর্ণিত কোনো দুআ নয়। আপনিই আল্লাহ, আমার রব, আপনিই হক্ক; আপনার হকের পরে গুমরাহি ছাড়া কিছু নেই; যা আমি মেনে নিয়েছি তা থেকে আমাকে ঘুরিয়ে দিতে দেবেন না, আর নাম না জানা কোনো কিছু যেন আমাকে না ঘোরায়।"
+            "bn": "আয়াত মানুষকে সম্বোধন করছে, আল্লাহকে নয়, তাই এটি নিজে কোনো দুআ নয়; তবে এর ভেতরের স্বীকারোক্তিটা দুআ হিসেবে বলা যায়। নিচের কথাগুলো আয়াতের শব্দ থেকেই এখানে সাজানো; এগুলো বর্ণিত কোনো দুআ নয়। আপনিই আল্লাহ, আমার রব, আপনিই হক্ক; আপনার হকের পরে গুমরাহি ছাড়া কিছু নেই। যা আমি আগেই মেনে নিয়েছি, তা থেকে আমাকে ঘুরে যেতে দেবেন না; আর যার নাম আমি জানি না, এমন কিছু যেন আমাকে ঘোরাতে না পারে।"
           },
           {
             "en": "Four to carry. The answer is already in my mouth, so where in the week does my life stop agreeing with it? What actually turns me, and could I name it out loud if somebody asked? Since there is no third place between truth and error, which habit have I parked in a middle that does not exist? And if He owns my hearing and my sight, what did I spend them on since yesterday?",
@@ -849,7 +849,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second clause changes the negative particle. Not lam ya'tihim, it did not come to them, but lamma ya'tihim, it has not come yet, the arrival still expected. As-Sa'di reads it exactly that way, glossing the phrase with ila'l-an, until now. And ta'wil is built on the root of ya'ulu, to come back to, to end up at. Both at-Tabari and al-Baghawi gloss the noun with that very verb: ma ya'ulu ilayhi, what the matter comes back to in the end.",
-            "bn": "দ্বিতীয় বাক্যে নেতিবাচক হরফটা বদলে যায়। লাম ইয়াতিহিম নয়, অর্থাৎ তাদের কাছে আসেনি নয়; বলা হচ্ছে লাম্মা ইয়াতিহিম, এখনো আসেনি, আসার অপেক্ষাটা টিকে আছে। সা'দী ঠিক এভাবেই পড়েন, কথাটার সঙ্গে জুড়ে দেন ইলাল-আন, অর্থাৎ এখন পর্যন্ত। আর তাবীল শব্দের মূল হল ইয়াউলু, কোনো কিছুতে ফিরে যাওয়া, শেষে গিয়ে ঠেকা। তাবারী আর বাগাভী দুজনেই এই ক্রিয়াটা দিয়েই শব্দটার ব্যাখ্যা দেন: মা ইয়াউলু ইলাইহি, শেষে ব্যাপারটা যেখানে গিয়ে ঠেকে।"
+            "bn": "দ্বিতীয় বাক্যে না-বাচক হরফটা বদলে যায়। লাম ইয়াতিহিম, অর্থাৎ তাদের কাছে আসেনি, তা নয়; বলা হয়েছে লাম্মা ইয়াতিহিম, অর্থাৎ এখনো আসেনি, আসার অপেক্ষা এখনো আছে। সা'দী ঠিক এভাবেই পড়েন, কথাটার ব্যাখ্যায় জুড়ে দেন ইলাল-আন, অর্থাৎ এখন পর্যন্ত। আর তাবীল শব্দের মূল হল ইয়াউলু, কোনো কিছুতে ফিরে যাওয়া, শেষে গিয়ে ঠেকা। তাবারী আর বাগাভী দুজনেই এই ক্রিয়াটা দিয়েই শব্দটার ব্যাখ্যা দেন: মা ইয়াউলু ইলাইহি, শেষে ব্যাপারটা যেখানে গিয়ে ঠেকে।"
           }
         ]
       },
@@ -865,7 +865,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Jalalayn puts it briefly: the consequence of the threats made therein. Tanwir al-Miqbas says the same. Al-Muyassar and a report from ad-Dahhak that al-Qurtubi carries widen it: what they denied is the raising, the reckoning, the Garden and the Fire, and what has not reached them is the reality the Book promised. This app's two translations sit on opposite sides of the word: the English says whose interpretation has not yet come to them, the Bengali says whose outcome has not yet arrived.",
-            "bn": "জালালাইন সংক্ষেপে বলে: এতে যে ভয় দেখানো হয়েছে, তারই পরিণাম। তানভীরুল মিক্বাসও একই কথা বলে। মুয়াসসার আর কুরতুবীর বহন করা দাহহাকের বর্ণনা কথাটা আরো চওড়া করে। তাতে তারা যা মিথ্যা বলেছিল সেটা পুনরুত্থান, হিসাব, জান্নাত আর জাহান্নাম; আর যা তাদের কাছে এসে পৌঁছায়নি সেটা হল কিতাবের প্রতিশ্রুত বাস্তবতা। এই অ্যাপের দুই অনুবাদ শব্দটার দুই পাশে দাঁড়িয়ে আছে: ইংরেজিতে বলা হয়েছে যার ব্যাখ্যা এখনো তাদের কাছে আসেনি, বাংলায় বলা হয়েছে যার পরিণাম ফল এখনও উপস্থিত হয়নি।"
+            "bn": "জালালাইন সংক্ষেপে বলে: এতে যে ভয় দেখানো হয়েছে, তারই পরিণাম। তানভীরুল মিক্বাসও একই কথা বলে। মুয়াসসার আর কুরতুবীর উদ্ধৃত দাহহাকের একটি বর্ণনা কথাটা আরো চওড়া করে। তাদের মতে তারা যা মিথ্যা বলেছিল, তা হল পুনরুত্থান, হিসাব, জান্নাত আর জাহান্নাম; আর যা তাদের কাছে এসে পৌঁছায়নি, তা হল কিতাবের প্রতিশ্রুত বাস্তবতা। এই অ্যাপের দুই অনুবাদ শব্দটার দুই পাশে দাঁড়িয়ে আছে: ইংরেজিতে বলা হয়েছে যার ব্যাখ্যা এখনো তাদের কাছে আসেনি, বাংলায় বলা হয়েছে যার পরিণাম ফল এখনও উপস্থিত হয়নি।"
           },
           {
             "en": "Ibn Kathir reads the clause the other way, and the difference is worth keeping as a difference. For him what had not reached them is the Book's own content: they had not attained the guidance and the religion of truth in it, up to the moment they denied it out of ignorance and folly. Al-Qurtubi's gloss on the first clause runs alongside it: they denied while ignorant of the Qur'an's meanings and its tafsir. Read the first way, the sentence is a delayed punishment; read the second, it is a meaning never let in.",
@@ -885,27 +885,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi then records an exchange. Al-Husayn ibn al-Fadl was asked whether the saying whoever is ignorant of a thing becomes its enemy is in the Qur'an. He answered yes, in two places, and named them: this verse, and the closing words of 46:11, where those not guided by the Book say this is an ancient falsehood. The pairing is exact. Ignorance of a thing is not neutral in either verse; it hardens into hostility towards the thing not known.",
-            "bn": "কুরতুবী এরপর যে কথাবার্তাটা তুলে রাখেন, সেটাও এখানে কাজে লাগে। হুসাইন ইবনুল ফাদলকে জিজ্ঞেস করা হয়েছিল, যে যা জানে না তার শত্রু হয়ে যায় এই কথাটা কুরআনে পাওয়া যায় কি না। তিনি বলেছিলেন হ্যাঁ, দুই জায়গায়; আর জায়গা দুটোর নামও বলেছিলেন: এই আয়াত, আর ৪৬:১১ আয়াতের শেষ কথাগুলো, যেখানে যারা কিতাব দিয়ে পথ পায়নি তারা বলে, এটা এক পুরনো মিথ্যে। মিলটা হুবহু। দুই আয়াতেই না জানা নিরপেক্ষ থাকে না, শত্রুতায় জমে যায়।"
+            "bn": "কুরতুবী এরপর একটা কথোপকথন উল্লেখ করেন। হুসাইন ইবনুল ফাদলকে জিজ্ঞেস করা হয়েছিল, মানুষ যা জানে না তার শত্রু হয়ে যায়, এই কথাটা কি কুরআনে আছে? তিনি বলেছিলেন, হ্যাঁ, দুই জায়গায়; আর জায়গা দুটোর নামও বলেছিলেন: এই আয়াত, আর ৪৬:১১ আয়াতের শেষ কথাগুলো, যেখানে কিতাব থেকে যারা হিদায়াত পায়নি তারা বলে, এটা তো এক পুরনো মিথ্যা। মিলটা হুবহু। দুই আয়াতেই না জানাটা নিরপেক্ষ থাকে না; যা জানা নেই, তার প্রতি শত্রুতায় জমাট বাঁধে।"
           },
           {
             "en": "As-Sa'di turns the same lesson into a discipline for anyone: in this is proof of taking care in matters, and that a person should not rush to accept or reject a thing before he has encompassed it in knowledge. Note that he makes acceptance as culpable as rejection. Maududi, in Tafhim al-Qur'an, presses the other half: they had no proof the Book was forged and no knowledge that its reports were false, yet challenged it like men who had researched it thoroughly.",
-            "bn": "সা'দী একই শিক্ষা সবার জন্য নিয়মে পরিণত করেন: এতে দলিল আছে যে কোনো ব্যাপারে থেমে যাচাই করা দরকার, আর জ্ঞানের ঘেরে আনার আগে কোনো কিছু মেনে নিতে বা নাকচ করতে তাড়াহুড়ো করা উচিত নয়। খেয়াল করুন, তিনি মেনে নেওয়াকেও নাকচ করার মতোই দায়ী করছেন। মাওদূদী তাফহীমুল কুরআনে অন্য পিঠটা চেপে ধরেন: কিতাব যে রচিত, তার কোনো প্রমাণ তাদের ছিল না; এর খবরগুলো মিথ্যা, সে জ্ঞানও ছিল না। তবু তারা চ্যালেঞ্জ করছিল এমন ভঙ্গিতে, যেন বিষয়টা তারা ভালোভাবে গবেষণা করে এসেছে।"
+            "bn": "সা'দী একই শিক্ষাকে সবার জন্য একটা নিয়ম বানিয়ে দেন: এতে দলিল আছে যে কোনো ব্যাপারে থেমে যাচাই করা দরকার, আর জ্ঞানের ঘেরে আনার আগে কোনো কিছু মেনে নিতে বা নাকচ করতে তাড়াহুড়ো করা উচিত নয়। খেয়াল করুন, তিনি মেনে নেওয়াকেও নাকচ করার মতোই দোষের বলছেন। মওদূদী তাফহীমুল কুরআনে অন্য দিকটা চেপে ধরেন: কিতাবটা যে বানানো, তার কোনো প্রমাণ তাদের হাতে ছিল না; এর খবরগুলো যে মিথ্যা, সে জ্ঞানও ছিল না। তবু তারা এমনভাবে চ্যালেঞ্জ করছিল, যেন বিষয়টা খুঁটিয়ে গবেষণা করে এসেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Miracles, and This Revelation",
-          "bn": "মু'জিযা আর এই ওয়াহী"
+          "bn": "মু'জিযা আর এই ওহি"
         },
         "p": [
           {
             "en": "None of the commentaries fetched for 10:39 attaches a prophetic narration to this verse itself. At-Tabari, al-Qurtubi, as-Sa'di and al-Baghawi argue it from the words and the fate of earlier nations; the authorities al-Qurtubi names here, ad-Dahhak and al-Husayn ibn al-Fadl, are not Companions. Ibn Kathir does bring a hadith a few lines earlier in the same block, under the challenge of 10:38, and it is worth hearing here for what it says about how conviction arrives.",
-            "bn": "১০:৩৯ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটাই এই আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয় না। তাবারী, কুরতুবী, সা'দী আর বাগাভী কথাটা প্রমাণ করেন শব্দ থেকে আর আগের জাতিগুলোর পরিণতি থেকে। কুরতুবী এখানে নাম ধরে যাঁদের কথা আনেন, দাহহাক আর হুসাইন ইবনুল ফাদল, তাঁরা সাহাবী ছিলেন না। ইবনু কাসীর একই আলোচনার কয়েক লাইন আগে, ১০:৩৮ আয়াতের চ্যালেঞ্জের নিচে, হাদীস আনেন। বিশ্বাস কীভাবে আসে সেটা নিয়ে হাদীসটা যা বলে, তার জন্যই আমাদের আয়াতের পাশে এটা শোনার মতো।"
+            "bn": "১০:৩৯ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটাই এই আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয় না। তাবারী, কুরতুবী, সা'দী আর বাগাভী কথাটা প্রমাণ করেন শব্দ থেকে আর আগের জাতিগুলোর পরিণতি থেকে। কুরতুবী এখানে নাম ধরে যাঁদের কথা আনেন, দাহহাক আর হুসাইন ইবনুল ফাদল, তাঁরা সাহাবী ছিলেন না। তবে ইবনু কাসীর একই আলোচনার কয়েক লাইন আগে, ১০:৩৮ আয়াতের চ্যালেঞ্জের নিচে, একটা হাদিস আনেন। মানুষের মনে বিশ্বাস কীভাবে আসে, সে বিষয়ে হাদিসটা যা বলে, সেজন্যই এখানে এটা শোনা দরকার।"
           },
           {
             "en": "The wording is Sahih al-Bukhari 4981, from Abu Hurayra (RA). The Prophet ﷺ said: Every Prophet was given miracles because of which people believed, but what I have been given is Divine Inspiration which Allah has revealed to me. So I hope that my followers will outnumber the followers of the other Prophets on the Day of Resurrection. Ibn Kathir's point is that the sign given with this Book is the Book itself, so refusing to read it carefully is refusing the evidence.",
-            "bn": "শব্দগুলো সহীহ বুখারীর ৪৯৮১ নম্বর হাদীসের, আবূ হুরায়রা (রাঃ)-এর সূত্রে। নবী ﷺ বলেছেন: প্রত্যেক নবীকে এমন মু'জিযা দেওয়া হয়েছে যা দেখে মানুষ ঈমান এনেছে; আর আমাকে যা দেওয়া হয়েছে তা হল ওয়াহী, আল্লাহ আমার কাছে তা পাঠিয়েছেন। তাই আমি আশা করি কিয়ামতের দিন আমার অনুসারীর সংখ্যাই সবচেয়ে বেশি হবে। ইবনু কাসীর এটা এনে যা বলতে চান তা হল, এই কিতাবের সঙ্গে যে নিদর্শন দেওয়া হয়েছে সেটা কিতাব নিজেই। তাই মন দিয়ে পড়তে রাজি না হওয়া মানে প্রমাণটাকেই ফিরিয়ে দেওয়া।"
+            "bn": "শব্দগুলো সহীহ বুখারীর ৪৯৮১ নম্বর হাদিসের, আবূ হুরায়রা (রাঃ)-এর সূত্রে। নবী ﷺ বলেছেন: প্রত্যেক নবীকে এমন মু'জিযা দেওয়া হয়েছে, যা দেখে মানুষ ঈমান এনেছে; আর আমাকে যা দেওয়া হয়েছে, তা হল ওহি, যা আল্লাহ আমার কাছে নাজিল করেছেন। তাই আমি আশা করি, কিয়ামতের দিন অন্য নবীদের চেয়ে আমার অনুসারী বেশি হবে। ইবনু কাসীর এটা এনে বোঝাতে চান, এই কিতাবের সঙ্গে যে নিদর্শন দেওয়া হয়েছে, তা কিতাব নিজেই। তাই মন দিয়ে পড়তে রাজি না হওয়া মানে প্রমাণটাকেই ফিরিয়ে দেওয়া।"
           }
         ]
       },
@@ -921,7 +921,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "27:84 turns the diagnosis into a question put to the deniers on the Day, in the verse's own vocabulary: did you deny My signs while you encompassed them not in knowledge? 17:36 gives the command that would have prevented it, do not pursue what you have no knowledge of, and names what will be questioned: the hearing, the sight and the heart. 38:88 closes the loop with the same not-yet as our verse: you will surely know its news after a time.",
-            "bn": "২৭:৮৪ আয়াত এই দোষটাকেই কিয়ামতের দিন অস্বীকারকারীদের সামনে প্রশ্ন বানিয়ে রাখে, আর প্রশ্নের ভাষা আমাদের আয়াতেরই: তোমরা কি আমার নিদর্শনকে মিথ্যা বলেছিলে, অথচ তা জ্ঞানের ঘেরে আনতে পারনি? ১৭:৩৬ আয়াত সেই হুকুম দেয় যা মানলে এর কিছুই ঘটত না, যে বিষয়ে জ্ঞান নেই তার পিছনে ছুটবে না। তারপর নাম ধরে বলে দেয় কী নিয়ে জিজ্ঞেস করা হবে: কান, চোখ আর অন্তর। ৩৮:৮৮ আয়াত আমাদের আয়াতের সেই এখনো নয় দিয়েই বৃত্তটা বন্ধ করে: কিছুকাল পরেই এর সংবাদ তোমরা জানতে পারবে।"
+            "bn": "২৭:৮৪ আয়াত এই দোষটাকেই কিয়ামতের দিন অস্বীকারকারীদের সামনে প্রশ্ন বানিয়ে রাখে, আর প্রশ্নের ভাষা আমাদের আয়াতেরই: তোমরা কি আমার নিদর্শনকে মিথ্যা বলেছিলে, অথচ তা জ্ঞানের ঘেরে আনতে পারনি? ১৭:৩৬ আয়াত সেই হুকুম দেয়, যা মানলে এর কিছুই ঘটত না: যে বিষয়ে জ্ঞান নেই, তার পিছনে ছুটবে না। তারপর নাম ধরে বলে দেয়, কী নিয়ে জিজ্ঞেস করা হবে: কান, চোখ আর অন্তর। ৩৮:৮৮ আয়াত আমাদের আয়াতের মতোই এখনো-না-আসার সুরে বৃত্তটা পূর্ণ করে: কিছুকাল পরেই এর খবর তোমরা অবশ্যই জানতে পারবে।"
           }
         ]
       },
@@ -937,23 +937,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The habit the verse catches is cheap and everywhere. A ruling is dismissed on the strength of a screenshot; a hadith is rejected because of how someone summarised it; a verse is decided against without being read in its passage. As-Sa'di's rule cuts both ways, so a claim swallowed in a second is the same fault as a verse refused in a second. Al-Qurtubi's remedy is the nearest to hand: they should have asked. Take the questions you have been leaving unasked to somebody qualified, and read a hard verse with its neighbours and a tafsir before holding a view.",
-            "bn": "আয়াত যে অভ্যাসটা ধরে ফেলে, সেটা সস্তা আর সর্বত্র। স্ক্রিনশট দেখেই মাসআলা উড়িয়ে দেওয়া হয়; কেউ কীভাবে সারাংশ করেছে তা শুনেই হাদীস নাকচ হয়; আয়াতটা তার পাশের আয়াতগুলোর সঙ্গে না পড়েই তার বিরুদ্ধে সিদ্ধান্ত হয়ে যায়। সা'দীর নিয়ম দুই দিকেই কাটে। ফরোয়ার্ড হয়ে আসা কথা এক নিমেষে মেনে নেওয়া আর আয়াত এক নিমেষে নাকচ করা, দোষ একই। কুরতুবীর বলা উপায়টা হাতের কাছেই: তাদের জিজ্ঞেস করা উচিত ছিল। যে প্রশ্নগুলো না জিজ্ঞেস করে বয়ে চলেছেন, সেগুলো যোগ্য কারো কাছে নিয়ে যান। আর যে আয়াত কঠিন লাগে, মত তৈরি করার আগে সেটা পাশের আয়াত আর তাফসীর নিয়ে পড়ুন।"
+            "bn": "আয়াত যে অভ্যাসটা ধরে ফেলে, তা সস্তা আর সবখানে ছড়ানো। একটা স্ক্রিনশট দেখেই মাসআলা উড়িয়ে দেওয়া হয়; কে কীভাবে সারাংশ করেছে তা শুনেই হাদিস নাকচ হয়ে যায়; আশপাশের আয়াতের সঙ্গে না পড়েই একটা আয়াতের বিরুদ্ধে রায় দেওয়া হয়। সা'দীর নিয়ম দুই দিকেই খাটে: এক নিমেষে কোনো দাবি গিলে ফেলা আর এক নিমেষে আয়াত নাকচ করা, দোষ একই। কুরতুবীর বলা উপায়টা হাতের কাছেই: তাদের জিজ্ঞেস করা উচিত ছিল। যে প্রশ্নগুলো জিজ্ঞেস না করে ফেলে রেখেছেন, সেগুলো যোগ্য কারো কাছে নিয়ে যান। আর যে আয়াত কঠিন লাগে, মত তৈরি করার আগে সেটা পাশের আয়াত আর তাফসীর মিলিয়ে পড়ুন।"
           }
         ]
       },
       {
         "h": {
           "en": "Asking Not to Rush",
-          "bn": "তাড়াহুড়ো থেকে বাঁচার চাওয়া"
+          "bn": "তাড়াহুড়ো না করার দুআ"
         },
         "p": [
           {
             "en": "The commentaries attach no narrated supplication to this verse, so what follows is composed here from its own words and offered as that, not as a Sunnah text. O Allah, do not let me rule on what I have not encompassed in knowledge. Keep me from denying what I have not troubled to learn, and from accepting what I have not troubled to check. Let the meaning of Your Book reach me before its outcome does.",
-            "bn": "তাফসীরগুলো এই আয়াতের সঙ্গে বর্ণিত কোনো দু'আ জুড়ে দেয় না। তাই নিচের কথাগুলো আয়াতের নিজের শব্দ থেকে এখানেই বানানো, আর সেটা বলেই দেওয়া হচ্ছে; এটা সুন্নাহর কোনো পাঠ নয়। হে আল্লাহ, যা আমি জ্ঞানের ঘেরে আনতে পারিনি, তার উপর আমাকে রায় দিতে দেবেন না। যা শেখার কষ্ট আমি করিনি, তা অস্বীকার করা থেকে আমাকে বাঁচান; আর যা যাচাই করার কষ্ট আমি করিনি, তা মেনে নেওয়া থেকেও বাঁচান। আপনার কিতাবের অর্থ আমার কাছে পৌঁছাক তার পরিণাম পৌঁছানোর আগেই।"
+            "bn": "তাফসীরগুলো এই আয়াতের সঙ্গে বর্ণিত কোনো দুআ জুড়ে দেয় না। তাই নিচের কথাগুলো আয়াতের নিজের শব্দ থেকে এখানেই সাজানো, আর সেভাবেই পেশ করা হচ্ছে, সুন্নাহর কোনো পাঠ হিসেবে নয়। হে আল্লাহ, যা আমি জ্ঞানের ঘেরে আনতে পারিনি, তার উপর আমাকে রায় দিতে দেবেন না। যা শেখার কষ্ট আমি করিনি, তা অস্বীকার করা থেকে আমাকে বাঁচান; আর যা যাচাই করার কষ্ট আমি করিনি, তা মেনে নেওয়া থেকেও বাঁচান। আপনার কিতাবের পরিণাম আমার কাছে পৌঁছানোর আগেই তার অর্থ যেন আমার কাছে পৌঁছায়।"
           },
           {
             "en": "A shorter form can be taken straight from 17:36, whose command is the positive of this verse's charge, and asked as help to keep it: my Lord, hold me back from pursuing what I have no knowledge of, and guard my hearing, my sight and my heart, since I will be questioned about all of them. That is the verse turned into a request in its own vocabulary, marked as that rather than reported as a narration.",
-            "bn": "আরো ছোট রূপ সোজা ১৭:৩৬ আয়াত থেকেই নেওয়া যায়, যার হুকুম এই আয়াতের অভিযোগের উল্টো পিঠ; সেটা মেনে চলার তাওফীক চেয়েই চাওয়া: হে আমার রব, যে বিষয়ে আমার জ্ঞান নেই তার পিছনে ছোটা থেকে আমাকে আটকে দিন, আর আমার কান, চোখ আর অন্তর হেফাজত করুন; কারণ এসবের হিসাব আমাকে দিতে হবে। এটা আয়াতকেই তার নিজের ভাষায় চাওয়ায় বদলে নেওয়া, আর সেটা বলে দিয়েই করা হচ্ছে, বর্ণিত হাদীস হিসেবে নয়।"
+            "bn": "আরো ছোট একটা রূপ সরাসরি ১৭:৩৬ আয়াত থেকে নেওয়া যায়। ওই আয়াতের হুকুম এই আয়াতের অভিযোগেরই উল্টো পিঠ, তাই সেটা মেনে চলার জন্য সাহায্য চাওয়া যায়: হে আমার রব, যে বিষয়ে আমার জ্ঞান নেই, তার পিছনে ছোটা থেকে আমাকে আটকে রাখুন, আর আমার কান, চোখ আর অন্তর হেফাজত করুন; কারণ এর প্রতিটির ব্যাপারে আমাকে জিজ্ঞেস করা হবে। এভাবে আয়াতকেই তার নিজের শব্দে দুআ বানানো হল, আর সেটা জানিয়েই দেওয়া হচ্ছে; এটা বর্ণিত কোনো হাদিস নয়।"
           }
         ]
       },
@@ -969,7 +969,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di ends his comment with a warning aimed at the living: let these beware of continuing in their denial, lest what befell the nations that denied befall them. He does not say it happened to them; he says beware. That is the shape of the verse's last clause too. The looking is at a closed history, and its point is that your own account is still open, and that the not-yet in this verse is time you were given.",
-            "bn": "সা'দী তাঁর আলোচনা শেষ করেন জীবিতদের উদ্দেশে সতর্কবাণী দিয়ে: এরা যেন সাবধান হয়, অস্বীকারে লেগে থাকলে অস্বীকারকারী জাতিগুলোর উপর যা নেমেছিল তা এদের উপরেও নামতে পারে। তিনি বলছেন না যে ঘটে গেছে; বলছেন সাবধান হও। আয়াতের শেষ বাক্যটার ধরনও ঠিক এমন। দেখার জায়গাটা বন্ধ হয়ে যাওয়া ইতিহাস, আর দেখার মানে হল আপনার নিজের হিসাব এখনো খোলা আছে; এই আয়াতের সেই এখনো নয় আসলে আপনাকে দেওয়া সময়।"
+            "bn": "সা'দী তাঁর আলোচনা শেষ করেন জীবিতদের উদ্দেশে সতর্কবাণী দিয়ে: এরা যেন সাবধান হয়, অস্বীকারে লেগে থাকলে অস্বীকারকারী জাতিগুলোর উপর যা নেমেছিল, তা এদের উপরেও নামতে পারে। তিনি বলছেন না যে তা ঘটে গেছে; বলছেন, সাবধান হও। আয়াতের শেষ বাক্যটার ধরনও ঠিক এমন। যে ইতিহাসের দিকে তাকাতে বলা হচ্ছে, তা শেষ হয়ে গেছে; আর তাকানোর উদ্দেশ্য হল, আপনার নিজের হিসাব এখনো খোলা। এই আয়াতের এখনো-না-আসা সময়টুকু আসলে আপনাকেই দেওয়া সময়।"
           }
         ]
       }
@@ -980,28 +980,28 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Question It Answers",
-          "bn": "যে প্রশ্নের উত্তর এটি"
+          "bn": "যে প্রশ্নের জবাব এই আয়াত"
         },
         "p": [
           {
             "en": "The verse arrives as an answer to a difficulty the two verses before it create. In 10:42 the Prophet ﷺ is told that among them are those who listen to you, but can you make the deaf hear, even though they will not use reason? 10:43 repeats the shape for sight: among them are those who look at you, but can you guide the blind, even though they will not see? A listener might fairly ask how the deaf and the blind are to be held answerable.",
-            "bn": "আয়াতটি আসে তার আগের দুটি আয়াতের তৈরি করা একটি সমস্যার উত্তর হিসেবে। 10:42 আয়াতে নবী ﷺ-কে বলা হয়, তাদের মধ্যে এমন কেউ আছে যে তোমার কথা শোনে — কিন্তু তুমি কি বধিরকে শোনাতে পারবে, তারা না বুঝলেও? 10:43 একই কাঠামো দৃষ্টির ক্ষেত্রে ফিরিয়ে আনে: তাদের মধ্যে এমন কেউ আছে যে তোমার দিকে তাকায় — কিন্তু তুমি কি অন্ধকে পথ দেখাতে পারবে, তারা না দেখলেও? একজন শ্রোতা ন্যায্যভাবেই জিজ্ঞেস করতে পারেন, বধির ও অন্ধকে কীভাবে জবাবদিহির আওতায় আনা যায়।"
+            "bn": "আগের দুই আয়াত একটা খটকা তৈরি করে, আর এই আয়াত আসে তারই জবাব হয়ে। ১০:৪২ আয়াতে নবী ﷺ-কে বলা হয়, তাদের মধ্যে কেউ কেউ তোমার কথা কান পেতে শোনে; কিন্তু তুমি কি বধিরকে শোনাতে পারবে, তারা বুদ্ধি না খাটালেও? ১০:৪৩ আয়াত একই ছাঁচে চোখের কথা বলে: তাদের মধ্যে কেউ কেউ তোমার দিকে তাকায়; কিন্তু তুমি কি অন্ধকে পথ দেখাতে পারবে, তারা না দেখলেও? শ্রোতা তখন ন্যায্যভাবেই জিজ্ঞেস করতে পারেন, বধির আর অন্ধকে দায়ী করা হবে কীভাবে?"
           },
           {
             "en": "10:44 answers without softening anything. Allah does not wrong the people at all; rather, the people wrong themselves. The deafness described is not an affliction that arrived from outside, and the two earlier verses had each attached a clause saying so: they will not use reason, they will not see. Faculties in working order are being declined. 10:45 then closes the passage on the Day they are gathered, feeling they had stayed no longer than an hour.",
-            "bn": "10:44 কিছুই নরম না করে উত্তর দেয়। আল্লাহ মানুষের প্রতি বিন্দুমাত্র যুলম করেন না; বরং মানুষ নিজেরাই নিজেদের প্রতি যুলম করে। বর্ণিত বধিরতা বাইরে থেকে আসা কোনো বিপদ নয়, আর আগের দুই আয়াতের প্রত্যেকটিতেই সে কথা বলা একটি বাক্যাংশ যুক্ত ছিল: তারা বুদ্ধি খাটাবে না, তারা দেখবে না। সচল ইন্দ্রিয়গুলোকেই প্রত্যাখ্যান করা হচ্ছে। এরপর 10:45 অংশটি শেষ করে সেই দিনের কথা দিয়ে, যেদিন তাদের একত্র করা হবে এবং মনে হবে তারা এক ঘণ্টার বেশি অবস্থান করেনি।"
+            "bn": "১০:৪৪ আয়াত কিছুই নরম না করে জবাব দেয়: আল্লাহ মানুষের প্রতি একটুও জুলুম করেন না; বরং মানুষ নিজেরাই নিজেদের প্রতি জুলুম করে। এখানে যে বধিরতার কথা, তা বাইরে থেকে আসা কোনো বিপদ নয়। আগের দুই আয়াতেই সে কথা বলে দেওয়া একটি করে অংশ জোড়া ছিল: তারা বুদ্ধি খাটাবে না, তারা দেখবে না। কান-চোখ ঠিকঠাক কাজ করছে, তবু তারা সেগুলো কাজে লাগাতে রাজি নয়। এরপর ১০:৪৫ আয়াত এই অংশটা শেষ করে সেই দিনের কথা বলে, যেদিন তাদের একত্র করা হবে, আর তাদের মনে হবে, তারা এক ঘণ্টার বেশি থাকেনি।"
           }
         ]
       },
       {
         "h": {
           "en": "Not by the Smallest Amount",
-          "bn": "সামান্যতম পরিমাণেও নয়"
+          "bn": "এক বিন্দুও নয়"
         },
         "p": [
           {
             "en": "Shay'an is the word that closes the first half, and it is doing exact work. An indefinite noun placed inside a negation produces total generality in Arabic: not a thing, not in the least, not by any amount however small. So the clause is not the broad assurance that Allah's justice is reliable. It rules out the smallest possible instance. 4:40 states the same guarantee with a different measure, that He does not wrong by the weight of an atom.",
-            "bn": "'শাইআন' শব্দটি প্রথম অর্ধেকটি শেষ করে, আর তা নিখুঁত একটি কাজ করছে। আরবিতে নেতিবাচক বাক্যের ভেতরে বসানো অনির্দিষ্ট বিশেষ্য সম্পূর্ণ ব্যাপকতা তৈরি করে: কোনো কিছুই নয়, বিন্দুমাত্র নয়, যত ছোট পরিমাণই হোক তাতেও নয়। কাজেই বাক্যটি এই ঢালাও আশ্বাস নয় যে আল্লাহর ন্যায়বিচার নির্ভরযোগ্য। এটি সম্ভাব্য ক্ষুদ্রতম দৃষ্টান্তটিকেও বাতিল করে দেয়। 4:40 একই নিশ্চয়তা ভিন্ন এক মাপকাঠিতে বলে — তিনি অণু পরিমাণও যুলম করেন না।"
+            "bn": "প্রথম অর্ধেক শেষ হয় 'শাইআন' শব্দে, আর শব্দটা এখানে মাপা কাজ করছে। আরবিতে না-বাচক বাক্যের ভেতরে অনির্দিষ্ট বিশেষ্য বসলে অর্থ পুরোপুরি ব্যাপক হয়ে যায়: কিছুই না, একটুও না, যত সামান্যই হোক, তাও না। তাই বাক্যটা কেবল এই সাধারণ আশ্বাস নয় যে আল্লাহর ইনসাফে ভরসা করা যায়। ছোট থেকে ছোট জুলুমের সম্ভাবনাটুকুও এটা নাকচ করে দেয়। ৪:৪০ আয়াত একই নিশ্চয়তা দেয় অন্য মাপে: তিনি অণু পরিমাণও জুলুম করেন না।"
           }
         ]
       },
@@ -1013,39 +1013,39 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then wa lakinna, which is not simply and. It is the particle of correction, withdrawing the impression the first clause might have left and redirecting it. The sentence also repeats an-nas, the people, on purpose: they are the object of the verb in the first half and its subject in the second. And the closing clause puts anfusahum, themselves, in front of the verb, a fronting Arabic uses for restriction. It is themselves, specifically, that they are wronging.",
-            "bn": "এরপর আসে 'ওয়া লাকিন্না', যা নিছক 'এবং' নয়। এটি সংশোধনের অব্যয় — প্রথম বাক্যাংশ যে ধারণা রেখে যেতে পারত তা প্রত্যাহার করে নিয়ে দিক বদলে দেয়। বাক্যটি ইচ্ছাকৃতভাবে 'আন-নাস' অর্থাৎ 'মানুষ' শব্দটিও দুবার আনে: প্রথম অর্ধেকে তারা ক্রিয়ার কর্ম, দ্বিতীয় অর্ধেকে তারাই কর্তা। আর শেষ বাক্যাংশে 'আনফুসাহুম' অর্থাৎ 'নিজেদেরকে' শব্দটি ক্রিয়ার আগে বসানো হয়েছে — আরবিতে এই অগ্রবর্তন সীমাবদ্ধতা বোঝাতে ব্যবহৃত হয়। তারা যুলম করছে নিজেদের প্রতিই, বিশেষভাবে।"
+            "bn": "এরপর আসে 'ওয়া লাকিন্না', যা নিছক 'আর' নয়। এটা সংশোধনের অব্যয়: প্রথম অংশ শুনে মনে যে ধারণা তৈরি হতে পারত, সেটা ফিরিয়ে নিয়ে কথার মোড় ঘুরিয়ে দেয়। বাক্যটি 'আন-নাস', মানে 'মানুষ', শব্দটাও ইচ্ছা করেই দুবার আনে: প্রথম অর্ধেকে মানুষ ক্রিয়ার কর্ম, দ্বিতীয় অর্ধেকে তারাই কর্তা। আর শেষ অংশে 'আনফুসাহুম', মানে 'নিজেদের', শব্দটা ক্রিয়ার আগে বসানো; আরবিতে কথাকে নির্দিষ্ট করতে এভাবে আগে আনা হয়। অর্থাৎ তারা জুলুম করছে ঠিক নিজেদেরই প্রতি।"
           }
         ]
       },
       {
         "h": {
           "en": "What Zulm Is",
-          "bn": "যুলম কী"
+          "bn": "জুলুম কী"
         },
         "p": [
           {
             "en": "The lexicographers define zulm as putting a thing somewhere other than its own place. That is why one word covers injustice, oppression and idolatry alike: each is something set down where it does not belong, a right in the wrong hands, a worship given to the wrong object, a life spent on the wrong claim. Muslim relates the hadith qudsi from Abu Dharr (RA) in which Allah says: O My servants, I have forbidden zulm upon Myself and have made it forbidden among you, so do not wrong one another.",
-            "bn": "অভিধানবিদগণ যুলমের সংজ্ঞা দেন এভাবে: কোনো জিনিসকে তার নিজের জায়গা ছাড়া অন্য কোথাও রাখা। এ কারণেই একটিমাত্র শব্দ অবিচার, নিপীড়ন ও শিরক — সবই ধারণ করে: প্রতিটিই এমন কিছু যা ভুল জায়গায় রাখা হয়েছে — ভুল হাতে একটি অধিকার, ভুল বস্তুতে দেওয়া ইবাদত, ভুল দাবির পেছনে ব্যয় করা একটি জীবন। মুসলিম আবু যর (রাঃ) থেকে হাদীসে কুদসীটি বর্ণনা করেন, যাতে আল্লাহ বলেন: হে আমার বান্দারা, আমি যুলমকে নিজের ওপর হারাম করেছি এবং তোমাদের মধ্যেও তা হারাম করেছি, কাজেই তোমরা একে অপরের প্রতি যুলম করো না।"
+            "bn": "অভিধানবিদরা জুলুমের সংজ্ঞা দেন এভাবে: কোনো জিনিসকে তার নিজের জায়গা ছেড়ে অন্য জায়গায় রাখা। এ কারণেই এক শব্দেই অবিচার, অত্যাচার আর শিরক সবই ধরা পড়ে। প্রতিটিতেই কোনো কিছু রাখা হয়েছে ভুল জায়গায়: হক চলে গেছে ভুল হাতে, ইবাদত গেছে ভুল সত্তার কাছে, জীবন খরচ হয়েছে ভুল দাবির পিছনে। মুসলিম আবু যর (রাঃ) থেকে একটি হাদিসে কুদসী বর্ণনা করেছেন, যেখানে আল্লাহ বলেন: হে আমার বান্দারা, আমি নিজের উপর জুলুম হারাম করেছি, আর তোমাদের মধ্যেও তা হারাম করেছি; তাই তোমরা একে অপরের উপর জুলুম কোরো না।"
           },
           {
             "en": "The hadith and the verse make two matching statements in the same order. First, that the possibility of injustice from Allah is closed; not merely restrained, but forbidden by Him upon Himself. Second, that the injustice actually in circulation is ours: the verse says people wrong themselves, and the hadith adds that they wrong one another. Nothing in either text denies that people wrong each other. What is denied is that any of it originates above.",
-            "bn": "হাদীস ও আয়াত মিলে যাওয়া দুটি কথা একই ক্রমে বলে। প্রথমত, আল্লাহর পক্ষ থেকে অবিচারের সম্ভাবনার দরজা বন্ধ — কেবল সংযত নয়, বরং তিনি নিজেই তা নিজের ওপর হারাম করেছেন। দ্বিতীয়ত, বাস্তবে যে অবিচার চলছে তা আমাদেরই: আয়াত বলে মানুষ নিজেদের প্রতিই যুলম করে, আর হাদীস যোগ করে যে তারা একে অপরের প্রতিও তা করে। কোনো পাঠই এ কথা অস্বীকার করে না যে মানুষ একে অপরের প্রতি অন্যায় করে। যা অস্বীকার করা হয় তা হলো — এর কোনো কিছুরই উৎস ওপর থেকে নয়।"
+            "bn": "হাদিস আর আয়াত একই ক্রমে দুটি মিলে যাওয়া কথা বলে। প্রথম কথা: আল্লাহর পক্ষ থেকে অবিচারের সম্ভাবনাই বন্ধ। তিনি কেবল নিজেকে সংযত রাখেন তা নয়, নিজেই নিজের উপর তা হারাম করেছেন। দ্বিতীয় কথা: দুনিয়ায় আসলে যে অবিচার চলছে, তা আমাদের। আয়াত বলে, মানুষ নিজেদের প্রতি জুলুম করে; হাদিস যোগ করে, তারা একে অপরের প্রতিও জুলুম করে। মানুষ যে একে অপরের উপর অন্যায় করে, দুটোর কোনোটিই তা অস্বীকার করে না। দুটোই অস্বীকার করে কেবল এটুকু: এর কোনোটার উৎসই উপর থেকে নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Refrain Across the Book",
-          "bn": "কিতাবজুড়ে একটি ধুয়া"
+          "bn": "কিতাবজুড়ে এক ধুয়া"
         },
         "p": [
           {
             "en": "The second half of this verse is close to a refrain. 2:57 says of the Children of Israel, given shade and manna and quails, that they did not wrong Us but were wronging themselves. 9:70 says it of the destroyed nations after listing them by name, 16:33 of people waiting for the angels to come, 29:40 after cataloguing the storm and the blast and the swallowing earth and the drowning, and 30:9 of a people stronger than the Makkans who had built more than they had.",
-            "bn": "এই আয়াতের দ্বিতীয় অর্ধেকটি প্রায় একটি ধুয়ার মতো। 2:57 বনী ইসরাঈল সম্পর্কে বলে — যাদের ছায়া, মান্না ও সালওয়া দেওয়া হয়েছিল — তারা আমার প্রতি যুলম করেনি, বরং নিজেদের প্রতিই যুলম করেছিল। 9:70 কথাটি বলে ধ্বংসপ্রাপ্ত জাতিগুলোর নাম ধরে ধরে উল্লেখ করার পর, 16:33 বলে তাদের সম্পর্কে যারা ফেরেশতাদের আসার অপেক্ষায় আছে, 29:40 বলে ঝটিকা, বজ্রধ্বনি, ভূগর্ভে প্রোথিত হওয়া ও ডুবে যাওয়ার তালিকা দেওয়ার পর, আর 30:9 বলে এমন এক জাতি সম্পর্কে যারা মক্কাবাসীদের চেয়ে শক্তিশালী ছিল এবং তাদের চেয়ে বেশি আবাদ করেছিল।"
+            "bn": "এই আয়াতের দ্বিতীয় অর্ধেকটা গানের ধুয়ার মতো বারবার ফিরে আসে। ২:৫৭ আয়াতে বনী ইসরাঈলের কথা: তাদের ছায়া দেওয়া হয়েছিল, মান্না আর সালওয়া দেওয়া হয়েছিল; তারা আমার প্রতি জুলুম করেনি, বরং নিজেদের প্রতিই জুলুম করছিল। ৯:৭০ আয়াত ধ্বংস হওয়া জাতিগুলোর নাম একে একে বলার পর একই কথা বলে। ১৬:৩৩ বলে তাদের সম্পর্কে, যারা ফেরেশতাদের আসার অপেক্ষায় আছে। ২৯:৪০ বলে ঝড়, বিকট আওয়াজ, মাটিতে ধসিয়ে দেওয়া আর ডুবিয়ে মারার তালিকা দেওয়ার পর। আর ৩০:৯ বলে এমন এক জাতির কথা, যারা মক্কাবাসীদের চেয়ে শক্তিশালী ছিল, আর তাদের চেয়ে বেশি আবাদ করেছিল।"
           },
           {
             "en": "Set together, those verses show what the clause is for. It is attached to verdicts, to the moment a community's account is closed and the reader is tempted to ask whether the punishment was fair. The Quran does not argue the case afresh each time. It repeats one sentence, and the sentence assigns the cause to the party that had the faculties, the messengers and the time.",
-            "bn": "একসঙ্গে রাখলে আয়াতগুলো দেখিয়ে দেয় বাক্যাংশটি কী কাজে লাগে। এটি যুক্ত হয় রায়ের সঙ্গে — সেই মুহূর্তে, যখন কোনো জাতির হিসাব চুকে যায় এবং পাঠকের মনে প্রশ্ন জাগতে চায় যে শাস্তিটি ন্যায্য ছিল কি না। কুরআন প্রতিবার নতুন করে যুক্তি সাজায় না। সে একটিমাত্র বাক্য পুনরাবৃত্তি করে, আর সেই বাক্য কারণটি চাপিয়ে দেয় সেই পক্ষের ওপর, যার কাছে ইন্দ্রিয় ছিল, রাসূলগণ এসেছিলেন এবং সময়ও ছিল।"
+            "bn": "আয়াতগুলো পাশাপাশি রাখলে বোঝা যায়, এই কথাটা কী কাজে আসে। কথাটা জোড়া থাকে রায়ের সঙ্গে, ঠিক সেই মুহূর্তে যখন কোনো জাতির হিসাব চুকে যায়, আর পাঠকের মনে প্রশ্ন জাগে, শাস্তিটা কি ন্যায্য ছিল? কুরআন প্রতিবার নতুন করে যুক্তি সাজায় না। একটা বাক্যই বারবার বলে, আর সেই বাক্য দায়টা চাপায় সেই পক্ষের ঘাড়ে, যাদের কান-চোখ-বুদ্ধি ছিল, যাদের কাছে রাসূল এসেছিলেন, যাদের হাতে সময়ও ছিল।"
           }
         ]
       },
@@ -1057,11 +1057,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran also puts the phrase in the mouths of its best people. In 28:16 Musa (AS), after a blow that killed a man, says: my Lord, indeed I have wronged myself, so forgive me; and He forgave him, in the same verse. Nothing in that sentence blames the Egyptian, the Israelite, the crowd or the hour. Self-wronging named accurately turns out to be the opening move of repentance rather than an act of self-punishment.",
-            "bn": "কুরআন কথাটি তার শ্রেষ্ঠ মানুষদের মুখেও বসিয়ে দেয়। 28:16 আয়াতে মূসা (আঃ), যে আঘাতে একজন মানুষ মারা গিয়েছিল তার পর, বলেন: হে আমার প্রতিপালক, আমি নিজের প্রতি যুলম করেছি, কাজেই আমাকে ক্ষমা করুন — আর একই আয়াতেই তিনি তাঁকে ক্ষমা করে দেন। এই বাক্যে মিসরীয়, ইসরাঈলী, ভিড় কিংবা সময় — কারও ওপরই দোষ চাপানো হয়নি। নিজের প্রতি যুলমকে সঠিকভাবে নাম দেওয়াটা দেখা যাচ্ছে আত্মনির্যাতন নয়, বরং তাওবার প্রথম পদক্ষেপ।"
+            "bn": "কুরআন এই কথাটা তার শ্রেষ্ঠ মানুষদের মুখেও দিয়েছে। ২৮:১৬ আয়াতে মূসা (আঃ)-এর এক আঘাতে একজন লোক মারা যায়, তারপর তিনি বলেন: হে আমার রব, আমি নিজের প্রতি জুলুম করেছি, আপনি আমাকে মাফ করে দিন। আর একই আয়াতেই আল্লাহ তাঁকে মাফ করে দেন। এই কথায় মিসরীয় লোকটি, ইসরাঈলী লোকটি, ভিড় বা সময়, কারো ঘাড়েই দোষ চাপানো হয়নি। নিজের প্রতি জুলুমকে ঠিক নামে ডাকা তাই নিজেকে শাস্তি দেওয়া নয়; এটাই তওবার প্রথম ধাপ।"
           },
           {
             "en": "Read as a discipline, this verse redirects an instinct. When something goes badly the mind reaches for a cause outside itself: the timing, the people, the decree. 10:44 does not deny that others do wrong, and it is not a rule for assigning blame to victims. It removes exactly one candidate from the list, permanently and entirely, and what is left is a question a believer can act on, because the only conduct in the account that he controls is his own.",
-            "bn": "সাধনা হিসেবে পড়লে এই আয়াত একটি সহজাত প্রবণতাকে ঘুরিয়ে দেয়। কিছু খারাপ হলে মন কারণ খোঁজে নিজের বাইরে: সময়, মানুষজন, তাকদীর। 10:44 এ কথা অস্বীকার করে না যে অন্যরা অন্যায় করে, আর এটি ক্ষতিগ্রস্তের ঘাড়ে দোষ চাপানোর নিয়মও নয়। এটি তালিকা থেকে ঠিক একটি সম্ভাবনাকে স্থায়ীভাবে ও সম্পূর্ণভাবে সরিয়ে দেয়; আর যা অবশিষ্ট থাকে তা এমন এক প্রশ্ন যা নিয়ে মুমিন কাজ করতে পারে, কারণ এই হিসাবের ভেতরে একমাত্র যে আচরণটি তার নিয়ন্ত্রণে, সেটি তার নিজেরই।"
+            "bn": "নিজেকে গড়ার শিক্ষা হিসেবে পড়লে আয়াতটা মনের এক সহজাত টানকে অন্য দিকে ঘুরিয়ে দেয়। কিছু খারাপ হলে মন কারণ খোঁজে নিজের বাইরে: সময়, মানুষজন, তাকদীর। ১০:৪৪ আয়াত এটা অস্বীকার করে না যে অন্যরা অন্যায় করে; আবার মজলুমের ঘাড়ে দোষ চাপানোর নিয়মও এটা নয়। আয়াতটা তালিকা থেকে ঠিক একটা নাম চিরতরে, পুরোপুরি কেটে দেয়। তখন যা বাকি থাকে, তা এমন এক প্রশ্ন, যা নিয়ে মুমিন কাজ করতে পারে; কারণ এই হিসাবে তার নিজের হাতে আছে কেবল তার নিজের আচরণ।"
           }
         ]
       }
@@ -1077,7 +1077,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Yunus is Makkan, and this verse answers inside a running argument. 10:45 pictures the Day they are gathered, feeling they had stayed no longer than an hour of the day. 10:46 tells the Prophet ﷺ that whether he is shown part of what they are promised or taken in death first, their return is to Allah. 10:47 lays the rule down: every nation has a messenger, and when he comes it is judged between them in justice.",
-            "bn": "সূরা ইউনুস মক্কী, আর এই আয়াত জবাব দিচ্ছে চলতি এক তর্কের ভেতরে। ১০:৪৫ সেই দিনের ছবি আঁকে, যেদিন তাদের জড়ো করা হবে আর মনে হবে দিনের এক ঘণ্টার বেশি তারা থাকেইনি। ১০:৪৬ নবী ﷺ-কে বলছে, তাদের যে ওয়াদা দেওয়া হচ্ছে তার কিছুটা তাঁকে দেখানো হোক কিংবা তার আগেই তাঁকে তুলে নেওয়া হোক, ফেরা তাদের আল্লাহর কাছেই। ১০:৪৭ নিয়মটা বসিয়ে দেয়: প্রত্যেক জাতির জন্য রসূল আছে, আর রসূল এলে ইনসাফের সঙ্গে তাদের মধ্যে ফয়সালা হয়ে যায়।"
+            "bn": "সূরা ইউনুস মক্কী, আর এই আয়াত এসেছে চলমান এক তর্কের মাঝখানে, জবাব হয়ে। ১০:৪৫ সেই দিনের ছবি আঁকে, যেদিন তাদের জড়ো করা হবে আর মনে হবে, দিনের এক ঘণ্টার বেশি তারা থাকেইনি। ১০:৪৬ নবী ﷺ-কে বলছে, তাদের যে ওয়াদা দেওয়া হচ্ছে তার কিছুটা তাঁকে দেখানো হোক কিংবা তার আগেই তাঁকে তুলে নেওয়া হোক, ফেরা তাদের আল্লাহর কাছেই। ১০:৪৭ নিয়মটা বসিয়ে দেয়: প্রত্যেক জাতির জন্য রাসূল আছে, আর রাসূল এলে ইনসাফের সঙ্গে তাদের মধ্যে ফয়সালা হয়ে যায়।"
           },
           {
             "en": "Then 10:48 puts the taunt into their mouths: when is this promise, if you should be truthful? At-Tabari says these are the mushriks of the Prophet's own people, and that what they mean is the standing of the Hour. Al-Qurtubi names them the disbelievers of Makkah and traces the question to excessive denial and to wanting the punishment brought forward. No occasion of revelation is established for 10:49; the tafsir page fetched carries nothing from al-Wahidi, so the placement is what there is to go on.",
