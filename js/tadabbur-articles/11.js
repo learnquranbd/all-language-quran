@@ -273,7 +273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the seven commentaries fetched attaches a saying of the Prophet ﷺ to this verse. What at-Tabari brings is not a hadith. Through Ibn Jurayj from Mujahid he records that Allah said to His Prophet, perhaps you are leaving some of what is revealed to you, meaning that you should do in it what you were commanded and call to it as you were sent. Mujahid also gives the objectors' own words: we see no wealth with him.",
-            "bn": "যে সাতটি তাফসীর দেখা হয়েছে তার একটিও এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয় না। তাবারী যা আনেন তা হাদীস নয়। ইবনে জুরাইজের সূত্রে মুজাহিদ থেকে তিনি লিখে রাখেন, আল্লাহ তাঁর নবীকে বলেছেন, তোমার কাছে যা ওয়াহী হয় তার কিছু অংশ হয়তো তুমি ছেড়ে রাখছ; অর্থাৎ তাতে যা করতে বলা হয়েছে তা করা, আর যেভাবে পাঠানো হয়েছে সেভাবে সেদিকে ডাকা। মুজাহিদ আপত্তিকারীদের নিজেদের কথাও তুলে ধরেন, ওর সঙ্গে তো কোনো মাল দেখি না।"
+            "bn": "যে সাতটি তাফসীর দেখা হয়েছে তার একটিও এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয় না। তাবারী যা আনেন তা হাদিস নয়। ইবনে জুরাইজের সূত্রে মুজাহিদ থেকে তিনি লিখে রাখেন, আল্লাহ তাঁর নবীকে বলেছেন, তোমার কাছে যা ওয়াহী হয় তার কিছু অংশ হয়তো তুমি ছেড়ে রাখছ; অর্থাৎ তাতে যা করতে বলা হয়েছে তা করা, আর যেভাবে পাঠানো হয়েছে সেভাবে সেদিকে ডাকা। মুজাহিদ আপত্তিকারীদের নিজেদের কথাও তুলে ধরেন, ওর সঙ্গে তো কোনো মাল দেখি না।"
           },
           {
             "en": "One narration in this territory belongs to another verse. Al-Qurtubi brings 5:67 in here, the command to announce what was sent down. In Sahih al-Bukhari 4612, in the Book of Tafsir, Aisha (RA) said: whoever tells that Muhammad concealed part of what was revealed to him is a liar, for Allah says, O Apostle, proclaim the Message sent down to you from your Lord. It carries no grading beyond the collection al-Bukhari placed it in, and it attaches to 5:67, not 11:12.",
@@ -289,7 +289,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir reads the verse by setting another passage beside it. 25:7 has them asking what sort of messenger eats food and walks in the markets, and why an angel was not sent down to be a warner with him. 25:8 carries on: or a treasure presented to him, or a garden he could eat from, closing with the wrongdoers calling him a man affected by magic. The demand in Surah Hud is that same demand.",
-            "bn": "ইবনে কাসীর আয়াতটি পড়েন পাশে আরেকটি অংশ বসিয়ে। ২৫:৭ আয়াতে তারা জিজ্ঞেস করে, এ কেমন রাসূল, খাবার খায় আর হাটবাজারে ঘোরে, তার সঙ্গে সতর্ককারী হয়ে থাকার জন্য কোনো ফেরেশতা নামানো হল না কেন। ২৫:৮ আয়াত টেনে নেয় আরও, কিংবা তাকে ধনভান্ডার দেওয়া হয় না কেন, অথবা এমন বাগান, যা থেকে সে খেতে পারত; শেষ হয় যালিমদের কথায়, তোমরা তো এক যাদুগ্রস্ত লোকের পেছনেই চলছ। সূরা হূদের দাবিটা সেই একই দাবি।"
+            "bn": "ইবনে কাসীর আয়াতটি পড়েন পাশে আরেকটি অংশ বসিয়ে। ২৫:৭ আয়াতে তারা জিজ্ঞেস করে, এ কেমন রাসূল, খাবার খায় আর হাটবাজারে ঘোরে, তার সঙ্গে সতর্ককারী হয়ে থাকার জন্য কোনো ফেরেশতা নামানো হল না কেন। ২৫:৮ আয়াত টেনে নেয় আরও, কিংবা তাকে ধনভান্ডার দেওয়া হয় না কেন, অথবা এমন বাগান, যা থেকে সে খেতে পারত; শেষ হয় জালিমদের কথায়, তোমরা তো এক যাদুগ্রস্ত লোকের পেছনেই চলছ। সূরা হূদের দাবিটা সেই একই দাবি।"
           },
           {
             "en": "His second parallel goes to the other half of our verse. 15:97 states as knowledge what Surah Hud puts as a question: We already know that your breast is constrained by what they say. In his Arabic commentary Ibn Kathir carries the passage on, and the next two verses are the prescription. 15:98 tells him to exalt his Lord with praise and be among those who prostrate; 15:99 tells him to worship his Lord until the certainty comes.",
@@ -381,7 +381,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In the text of Surah Hud the verse runs to 23 Arabic words, with two pause marks printed in the line and not counted among them. One small preposition carries the structure, and it appears four times. First 'ala Allah, against Allah, where the lie is fastened. Then 'ala rabbihim, before their Lord, where the liars are made to stand. Then 'ala rabbihim again, against their Lord, in the witnesses' mouths. Then 'ala az-zalimin, upon the wrongdoers.",
-            "bn": "সূরা হূদের পাঠে আয়াতটি ২৩টি আরবি শব্দের, আর লাইনে ছাপা দুটি ওয়াকফ চিহ্ন এই গোনার বাইরে। গোটা কাঠামোটা ধরে রেখেছে ছোট্ট একটা অব্যয়, আর তা এসেছে চারটি জায়গায়। প্রথমে আলা আল্লাহ, আল্লাহর বিরুদ্ধে, যেখানে মিথ্যাটা সেঁটে দেওয়া হচ্ছে। তারপর আলা রাব্বিহিম, তাদের রবের সামনে, যেখানে মিথ্যুকদের দাঁড় করানো হচ্ছে। তারপর আবার আলা রাব্বিহিম, তাদের রবের বিরুদ্ধে, এবার সাক্ষীদের মুখে। শেষে আলাজ-জালিমীন, যালিমদের উপর।"
+            "bn": "সূরা হূদের পাঠে আয়াতটি ২৩টি আরবি শব্দের, আর লাইনে ছাপা দুটি ওয়াকফ চিহ্ন এই গোনার বাইরে। গোটা কাঠামোটা ধরে রেখেছে ছোট্ট একটা অব্যয়, আর তা এসেছে চারটি জায়গায়। প্রথমে আলা আল্লাহ, আল্লাহর বিরুদ্ধে, যেখানে মিথ্যাটা সেঁটে দেওয়া হচ্ছে। তারপর আলা রাব্বিহিম, তাদের রবের সামনে, যেখানে মিথ্যুকদের দাঁড় করানো হচ্ছে। তারপর আবার আলা রাব্বিহিম, তাদের রবের বিরুদ্ধে, এবার সাক্ষীদের মুখে। শেষে আলাজ-জালিমীন, জালিমদের উপর।"
           },
           {
             "en": "The naming shifts across those four. The crime is committed against Allah, the name of the Divinity. Presentation and testimony both say rabbihim, their Lord, who owned them and provided for them, so the offence reads as betrayal of a relationship rather than an error about a stranger. At-Tabari glosses the presentation plainly: they are presented before their Lord on the Day of Resurrection, and He questions them about what they did. Al-Qurtubi compresses it: He takes account of them for their deeds.",
@@ -425,7 +425,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari's wording, hadith 4685: The Believer will be brought near his Lord till his Lord covers him with His screen and makes him confess his sins. Allah will ask him, do you know that you did such-and-such sin? He will say twice, yes, I do. Then Allah will say, I concealed it in the world and I forgive it for you today. Then the record of his good deeds will be folded up. As for the others, or the disbelievers, it will be announced publicly before the witnesses: these are ones who lied against their Lord.",
-            "bn": "বুখারীর ভাষায়, হাদীস ৪৬৮৫: মুমিনকে তার রবের কাছে এনে নিকটবর্তী করা হবে, এমনকি তার রব তাকে নিজের পর্দায় ঢেকে নেবেন আর তাকে দিয়ে তার গুনাহগুলো স্বীকার করাবেন। আল্লাহ জিজ্ঞেস করবেন, তুমি কি জান অমুক গুনাহটা তুমি করেছ? সে দুবার বলবে, হ্যাঁ, জানি। তখন আল্লাহ বলবেন, দুনিয়ায় আমি তা ঢেকে রেখেছিলাম, আর আজ আমি তা তোমার জন্য মাফ করে দিলাম। এরপর তার নেকির খাতা গুটিয়ে দেওয়া হবে। আর অন্যদের, অর্থাৎ কাফিরদের ব্যাপারে সাক্ষীদের সামনে প্রকাশ্যে ঘোষণা করা হবে: এরাই তারা যারা তাদের রবের বিরুদ্ধে মিথ্যা বলেছিল।"
+            "bn": "বুখারীর ভাষায়, হাদিস ৪৬৮৫: মুমিনকে তার রবের কাছে এনে নিকটবর্তী করা হবে, এমনকি তার রব তাকে নিজের পর্দায় ঢেকে নেবেন আর তাকে দিয়ে তার গুনাহগুলো স্বীকার করাবেন। আল্লাহ জিজ্ঞেস করবেন, তুমি কি জান অমুক গুনাহটা তুমি করেছ? সে দুবার বলবে, হ্যাঁ, জানি। তখন আল্লাহ বলবেন, দুনিয়ায় আমি তা ঢেকে রেখেছিলাম, আর আজ আমি তা তোমার জন্য মাফ করে দিলাম। এরপর তার নেকির খাতা গুটিয়ে দেওয়া হবে। আর অন্যদের, অর্থাৎ কাফিরদের ব্যাপারে সাক্ষীদের সামনে প্রকাশ্যে ঘোষণা করা হবে: এরাই তারা যারা তাদের রবের বিরুদ্ধে মিথ্যা বলেছিল।"
           },
           {
             "en": "Al-Bukhari gives no grading of his own. Two things in that report bear on the verse. The believer's reckoning is private, screened from the people while his sins are named; the public announcement carries this verse's own last words. At-Tabari's version reads 'ala ru'us al-ashhad, over the heads of the witnesses, where the verse's noun comes back; al-Qurtubi and al-Baghawi report 'ala ru'us al-khala'iq, over the heads of all creation. A hadith often tied to this verse in popular teaching, the banner raised for a treacherous man, is attached to it by no commentary read here, so it is left out.",
@@ -441,11 +441,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The last clause is Allah's own speech, not the witnesses'. At-Tabari reads it as the anger of Allah upon the transgressors who disbelieved in their Lord. Al-Qurtubi unpacks la'nah as His distance, His displeasure and His removal from His mercy, falling on those who put worship somewhere other than its place. As-Sa'di goes furthest on its duration: a curse that does not cut off, because their wrongdoing had become a description fixed to them, admitting no lightening.",
-            "bn": "শেষ বাক্যটি আল্লাহর নিজের কথা, সাক্ষীদের নয়। তাবারী এর অর্থ করেন, যারা নিজেদের রবকে অস্বীকার করেছে সেই সীমালঙ্ঘনকারীদের উপর আল্লাহর গজব। কুরতুবী লানত শব্দটি খুলে বলেন: তাঁর দূরে সরিয়ে দেওয়া, তাঁর অসন্তুষ্টি, আর তাঁর রহমত থেকে বের করে দেওয়া। আর তা নামে তাদের উপর যারা ইবাদতকে তার জায়গার বাইরে বসিয়েছে। সা'দী এর স্থায়িত্ব নিয়ে সবচেয়ে জোরালো কথাটি বলেন: এমন লানত যা আর কাটে না, কারণ তাদের যুলুম তাদের সঙ্গে লেগে থাকা পরিচয় হয়ে গিয়েছিল, যাতে হালকা করার সুযোগ নেই।"
+            "bn": "শেষ বাক্যটি আল্লাহর নিজের কথা, সাক্ষীদের নয়। তাবারী এর অর্থ করেন, যারা নিজেদের রবকে অস্বীকার করেছে সেই সীমালঙ্ঘনকারীদের উপর আল্লাহর গজব। কুরতুবী লানত শব্দটি খুলে বলেন: তাঁর দূরে সরিয়ে দেওয়া, তাঁর অসন্তুষ্টি, আর তাঁর রহমত থেকে বের করে দেওয়া। আর তা নামে তাদের উপর যারা ইবাদতকে তার জায়গার বাইরে বসিয়েছে। সা'দী এর স্থায়িত্ব নিয়ে সবচেয়ে জোরালো কথাটি বলেন: এমন লানত যা আর কাটে না, কারণ তাদের জুলুম তাদের সঙ্গে লেগে থাকা পরিচয় হয়ে গিয়েছিল, যাতে হালকা করার সুযোগ নেই।"
           },
           {
             "en": "That reasoning is also the reason for a caution. The verse describes a scene: people presented, testified against, and cursed on the Day of Resurrection by the One who judges. It gives nobody a licence to pronounce that sentence on a living person or community. As-Sa'di's condition, that the wrongdoing has become an inseparable description, is exactly what no living person can see in another, since anyone still breathing may yet turn. The clause names a class to be feared, not a label to hand out.",
-            "bn": "এই যুক্তিটাই আবার একটা সাবধানবাণীর কারণ। আয়াত একটি দৃশ্য দেখাচ্ছে: কিয়ামতের দিন মানুষকে হাজির করা হচ্ছে, তাদের বিরুদ্ধে সাক্ষ্য দেওয়া হচ্ছে, আর যিনি ফায়সালা করেন তিনি তাদের উপর লানত দিচ্ছেন। জীবিত কোনো মানুষ বা জীবিত কোনো জাতির উপর এই রায় পড়ে শোনানোর অনুমতি এ আয়াত কাউকে দেয় না। সা'দী যে শর্তটি দিয়েছেন, যুলুম তাদের সঙ্গে লেগে থাকা পরিচয় হয়ে যাওয়া, সেটিই তো এক মানুষ আরেক মানুষের ভেতর দেখতে পায় না; যার নিঃশ্বাস এখনো চলছে সে যেকোনো সময় ফিরে আসতে পারে। বাক্যটি এমন দলের নাম বলছে যাতে পড়ার ভয় করতে হয়, অন্যের গায়ে সাঁটার লেবেল সেটি নয়।"
+            "bn": "এই যুক্তিটাই আবার একটা সাবধানবাণীর কারণ। আয়াত একটি দৃশ্য দেখাচ্ছে: কিয়ামতের দিন মানুষকে হাজির করা হচ্ছে, তাদের বিরুদ্ধে সাক্ষ্য দেওয়া হচ্ছে, আর যিনি ফায়সালা করেন তিনি তাদের উপর লানত দিচ্ছেন। জীবিত কোনো মানুষ বা জীবিত কোনো জাতির উপর এই রায় পড়ে শোনানোর অনুমতি এ আয়াত কাউকে দেয় না। সা'দী যে শর্তটি দিয়েছেন, জুলুম তাদের সঙ্গে লেগে থাকা পরিচয় হয়ে যাওয়া, সেটিই তো এক মানুষ আরেক মানুষের ভেতর দেখতে পায় না; যার নিঃশ্বাস এখনো চলছে সে যেকোনো সময় ফিরে আসতে পারে। বাক্যটি এমন দলের নাম বলছে যাতে পড়ার ভয় করতে হয়, অন্যের গায়ে সাঁটার লেবেল সেটি নয়।"
           }
         ]
       },
@@ -461,7 +461,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Three more verses belong beside it. 10:17 asks the identical question, who is more unjust than one who invents a lie about Allah or denies His signs, and answers that the criminals do not succeed. 6:93 asks it and then follows the same men to the pangs of death rather than to the Day of Judgment. 7:44 puts this verse's closing clause into an announcer's mouth between the people of Paradise and the people of the Fire.",
-            "bn": "আরও তিনটি আয়াত এর পাশে বসে। ১০:১৭ আয়াত হুবহু একই প্রশ্ন করে, যে আল্লাহর নামে মিথ্যা রচনা করে বা তাঁর নিদর্শন অস্বীকার করে তার চেয়ে বড় যালিম কে; আর জবাব দেয়, অপরাধীরা সফল হয় না। ৬:৯৩ আয়াত একই প্রশ্ন তুলে সেই লোকদের পিছু নেয় কিয়ামত পর্যন্ত নয়, মৃত্যুযন্ত্রণা পর্যন্ত। আর ৭:৪৪ আয়াত আমাদের আয়াতের শেষ কথাটাই এক ঘোষণাকারীর মুখে বসিয়ে দেয়, জান্নাতবাসী আর জাহান্নামবাসীদের মাঝখানে।"
+            "bn": "আরও তিনটি আয়াত এর পাশে বসে। ১০:১৭ আয়াত হুবহু একই প্রশ্ন করে, যে আল্লাহর নামে মিথ্যা রচনা করে বা তাঁর নিদর্শন অস্বীকার করে তার চেয়ে বড় জালিম কে; আর জবাব দেয়, অপরাধীরা সফল হয় না। ৬:৯৩ আয়াত একই প্রশ্ন তুলে সেই লোকদের পিছু নেয় কিয়ামত পর্যন্ত নয়, মৃত্যুযন্ত্রণা পর্যন্ত। আর ৭:৪৪ আয়াত আমাদের আয়াতের শেষ কথাটাই এক ঘোষণাকারীর মুখে বসিয়ে দেয়, জান্নাতবাসী আর জাহান্নামবাসীদের মাঝখানে।"
           }
         ]
       },
@@ -473,7 +473,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The hadith turns the verse into something you can act on this week. The believer is not exposed, he is covered, and Allah's words make the covering on that Day continuous with covering practised now. So the practice is concealment. The fault you learned about a colleague, the thing a relative did years ago, the screenshot that would win tonight's argument: every exposure you decline rehearses the treatment you are asking to receive.",
-            "bn": "হাদীসটি আয়াতটাকে এমন জায়গায় নামিয়ে আনে যেখান থেকে এই সপ্তাহেই কাজ শুরু করা যায়। মুমিনকে ফাঁস করা হয় না, তাকে ঢেকে দেওয়া হয়। আর আল্লাহর কথাগুলো সেদিনের ঢেকে দেওয়াটাকে এই দুনিয়ার ঢেকে রাখার সঙ্গেই জুড়ে দেয়। কাজেই আমলটা হল ঢেকে রাখা। সহকর্মীর যে দোষটা আপনি জেনে ফেলেছেন, আত্মীয়ের বহু বছর আগের যে কাজটা, আজ রাতের তর্কে জিতিয়ে দিতে পারত যে স্ক্রিনশট, এসবের প্রতিটি ফাঁস না করা আসলে সেই ব্যবহারেরই মহড়া যা আপনি নিজের জন্য চাইছেন।"
+            "bn": "হাদিসটি আয়াতটাকে এমন জায়গায় নামিয়ে আনে যেখান থেকে এই সপ্তাহেই কাজ শুরু করা যায়। মুমিনকে ফাঁস করা হয় না, তাকে ঢেকে দেওয়া হয়। আর আল্লাহর কথাগুলো সেদিনের ঢেকে দেওয়াটাকে এই দুনিয়ার ঢেকে রাখার সঙ্গেই জুড়ে দেয়। কাজেই আমলটা হল ঢেকে রাখা। সহকর্মীর যে দোষটা আপনি জেনে ফেলেছেন, আত্মীয়ের বহু বছর আগের যে কাজটা, আজ রাতের তর্কে জিতিয়ে দিতে পারত যে স্ক্রিনশট, এসবের প্রতিটি ফাঁস না করা আসলে সেই ব্যবহারেরই মহড়া যা আপনি নিজের জন্য চাইছেন।"
           },
           {
             "en": "The other half is the review itself. Yu'radun is passive and it is coming: an examination you did not schedule and cannot decline. People who know a review is coming keep their records differently, so keep yours. At the end of a day, take one sentence you said about Allah and ask where you got it. Take one thing you said about a person and ask whether you would have said it with them standing there.",
@@ -489,11 +489,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse carries no supplication, so what follows is shaped from its vocabulary and offered as that, not as transmitted wording. My Lord, on the day I am presented before You, cover me as You cover Your believing servant, and do not read my name out among those who lied against their Lord. My Lord, hold my tongue from any sentence about You that You did not say, and do not let wrongdoing become the description I am known by.",
-            "bn": "আয়াতটির নিজের কোনো দোয়া নেই। নিচের কথাগুলো আয়াতের শব্দ থেকেই গড়া, আর এভাবেই বলা উচিত, বর্ণিত কোনো দোয়া হিসেবে নয়। হে আমার রব, যেদিন আমাকে আপনার সামনে হাজির করা হবে, সেদিন আমাকে ঢেকে নেবেন যেভাবে আপনি আপনার মুমিন বান্দাকে ঢেকে নেন; যারা তাদের রবের বিরুদ্ধে মিথ্যা বলেছিল তাদের ভেতর আমার নাম যেন পড়া না হয়। হে আমার রব, আপনাকে নিয়ে যে কথা আপনি বলেননি তা থেকে আমার জিভ আটকে রাখুন, আর যুলুম যেন আমার পরিচয় হয়ে না দাঁড়ায়।"
+            "bn": "আয়াতটির নিজের কোনো দোয়া নেই। নিচের কথাগুলো আয়াতের শব্দ থেকেই গড়া, আর এভাবেই বলা উচিত, বর্ণিত কোনো দোয়া হিসেবে নয়। হে আমার রব, যেদিন আমাকে আপনার সামনে হাজির করা হবে, সেদিন আমাকে ঢেকে নেবেন যেভাবে আপনি আপনার মুমিন বান্দাকে ঢেকে নেন; যারা তাদের রবের বিরুদ্ধে মিথ্যা বলেছিল তাদের ভেতর আমার নাম যেন পড়া না হয়। হে আমার রব, আপনাকে নিয়ে যে কথা আপনি বলেননি তা থেকে আমার জিভ আটকে রাখুন, আর জুলুম যেন আমার পরিচয় হয়ে না দাঁড়ায়।"
           },
           {
             "en": "A second thing to ask comes from the verse just before. 11:17 describes the man standing on a clear evidence from his Lord with a witness from Him following it. Ask to be found on that side of the pair, so that the witnesses that Day speak for you and not against you. The Qur'an supplies the wording in 3:53, the prayer of the disciples of Isa (AS): our Lord, we have believed in what You revealed and followed the messenger, so register us among the witnesses.",
-            "bn": "চাওয়ার মতো দ্বিতীয় জিনিসটি আসে ঠিক আগের আয়াত থেকে। ১১:১৭ আয়াত সেই মানুষের কথা বলে, যে দাঁড়িয়ে আছে তার রবের পক্ষ থেকে আসা স্পষ্ট প্রমাণের উপর, আর তাঁর পক্ষ থেকে একজন সাক্ষী তার পেছনে আসছে। চেয়ে নিন যেন জোড়াটার ওই দিকেই আপনাকে পাওয়া যায়, যাতে সেদিনের সাক্ষীরা আপনার পক্ষে কথা বলেন, বিপক্ষে নয়। শব্দগুলো কুরআন দিয়ে দিয়েছে ৩:৫৩ আয়াতে, ঈসা (আঃ)-এর হাওয়ারীদের দোয়ায়: হে আমাদের রব, আপনি যা নাযিল করেছেন আমরা তাতে ঈমান এনেছি আর রাসূলের অনুসরণ করেছি; কাজেই আমাদের সাক্ষীদের তালিকায় লিখে নিন।"
+            "bn": "চাওয়ার মতো দ্বিতীয় জিনিসটি আসে ঠিক আগের আয়াত থেকে। ১১:১৭ আয়াত সেই মানুষের কথা বলে, যে দাঁড়িয়ে আছে তার রবের পক্ষ থেকে আসা স্পষ্ট প্রমাণের উপর, আর তাঁর পক্ষ থেকে একজন সাক্ষী তার পেছনে আসছে। চেয়ে নিন যেন জোড়াটার ওই দিকেই আপনাকে পাওয়া যায়, যাতে সেদিনের সাক্ষীরা আপনার পক্ষে কথা বলেন, বিপক্ষে নয়। শব্দগুলো কুরআন দিয়ে দিয়েছে ৩:৫৩ আয়াতে, ঈসা (আঃ)-এর হাওয়ারীদের দোয়ায়: হে আমাদের রব, আপনি যা নাজিল করেছেন আমরা তাতে ঈমান এনেছি আর রাসূলের অনুসরণ করেছি; কাজেই আমাদের সাক্ষীদের তালিকায় লিখে নিন।"
           }
         ]
       },
@@ -588,7 +588,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Hadith Attached Here",
-          "bn": "আয়াতের সঙ্গে হাদীস নেই"
+          "bn": "আয়াতের সঙ্গে হাদিস নেই"
         },
         "p": [
           {
@@ -597,7 +597,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A sound narration belongs here as a general principle, not as commentary on this verse. Sahih al-Bukhari 79 records from Abu Musa (RA) that the Prophet ﷺ said the example of guidance and knowledge with which Allah has sent him is like abundant rain falling on the earth. Part of the ground absorbed the water and brought forth vegetation in abundance; part was hard and held the water, so people drank, watered their animals and irrigated; and part was barren, which neither held water nor grew anything.",
-            "bn": "সাধারণ নীতি হিসেবে একটি সহীহ হাদীস এখানে আনা যায়, এই আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারী ৭৯, আবু মূসা (রাঃ) থেকে, নবী ﷺ বলেছেন: আল্লাহ আমাকে যে হেদায়াত ও ইলম দিয়ে পাঠিয়েছেন তার দৃষ্টান্ত ভূমিতে পড়া প্রচুর বৃষ্টির মতো। ভূমির কিছু অংশ পানি টেনে নিল আর প্রচুর ঘাস ও গাছপালা জন্মাল। কিছু অংশ ছিল শক্ত, যা পানি ধরে রাখল, আর তাতে মানুষ পান করল, পশুকে পান করাল ও খেতে সেচ দিল। আর কিছু অংশ ছিল অনুর্বর, যা পানিও ধরল না, কিছু জন্মালও না।"
+            "bn": "সাধারণ নীতি হিসেবে একটি সহীহ হাদিস এখানে আনা যায়, এই আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারী ৭৯, আবু মূসা (রাঃ) থেকে, নবী ﷺ বলেছেন: আল্লাহ আমাকে যে হেদায়াত ও ইলম দিয়ে পাঠিয়েছেন তার দৃষ্টান্ত ভূমিতে পড়া প্রচুর বৃষ্টির মতো। ভূমির কিছু অংশ পানি টেনে নিল আর প্রচুর ঘাস ও গাছপালা জন্মাল। কিছু অংশ ছিল শক্ত, যা পানি ধরে রাখল, আর তাতে মানুষ পান করল, পশুকে পান করাল ও খেতে সেচ দিল। আর কিছু অংশ ছিল অনুর্বর, যা পানিও ধরল না, কিছু জন্মালও না।"
           }
         ]
       },
@@ -729,7 +729,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an draws the doctrine out of the second denial: the unseen is Allah's alone, and though He informs whichever messenger He wills as much as He wills, a prophet is not on that account called a knower of the unseen. On the third the readings separate. Al-Baghawi says it answers their words in 11:27, we see you only as a man like ourselves. At-Tabari says the claim would have made him a liar. As-Sa'di reads it as refusing any rank above his own.",
-            "bn": "মাআরিফুল কুরআন দ্বিতীয় অস্বীকার থেকে আকীদার কথাটা টেনে আনে: গায়েবের জ্ঞান একমাত্র আল্লাহর। তিনি তাঁর রসূলদের যাকে যতটুকু ইচ্ছা জানান, তবু তাতে নবীকে গায়েবের জ্ঞানী বলা চলে না। তৃতীয় অস্বীকার নিয়ে পাঠগুলো আলাদা হয়ে যায়। বাগাভী বলেন, এটি ১১:২৭ আয়াতে বলা তাদের কথারই জবাব, আমরা তোমাকে আমাদের মতোই মানুষ দেখছি। তাবারী বলেন, এমন দাবি করলে তিনি মিথ্যাবাদীই হতেন। সাদী পড়েন অন্যভাবে, আল্লাহ তাঁকে যে মর্যাদায় রেখেছেন তার উপরে কোনো মর্যাদা তিনি দাবি করছেন না।"
+            "bn": "মাআরিফুল কুরআন দ্বিতীয় অস্বীকার থেকে আকীদার কথাটা টেনে আনে: গায়েবের জ্ঞান একমাত্র আল্লাহর। তিনি তাঁর রাসূলদের যাকে যতটুকু ইচ্ছা জানান, তবু তাতে নবীকে গায়েবের জ্ঞানী বলা চলে না। তৃতীয় অস্বীকার নিয়ে পাঠগুলো আলাদা হয়ে যায়। বাগাভী বলেন, এটি ১১:২৭ আয়াতে বলা তাদের কথারই জবাব, আমরা তোমাকে আমাদের মতোই মানুষ দেখছি। তাবারী বলেন, এমন দাবি করলে তিনি মিথ্যাবাদীই হতেন। সাদী পড়েন অন্যভাবে, আল্লাহ তাঁকে যে মর্যাদায় রেখেছেন তার উপরে কোনো মর্যাদা তিনি দাবি করছেন না।"
           }
         ]
       },
@@ -756,7 +756,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Nothing Prophetic Is Attached",
-          "bn": "কোনো হাদীস এখানে জোড়া নেই"
+          "bn": "কোনো হাদিস এখানে জোড়া নেই"
         },
         "p": [
           {
@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "One more narration, offered as a general principle and not as a comment here, since no tafsir fetched attaches it to this verse. Sahih Muslim 2564a reports from Abu Hurayrah (RA) that the Prophet ﷺ said: a Muslim is the brother of a Muslim; he neither oppresses him nor humiliates him nor looks down upon him. Piety is here, and he pointed to his chest three times. The next report in that collection, 2564b, adds that Allah looks to your hearts.",
-            "bn": "আরও একটি বর্ণনা, তবে সাধারণ নীতি হিসেবে, এই আয়াতের ব্যাখ্যা হিসেবে নয়, কারণ দেখা কোনো তাফসীরই একে এই আয়াতের সঙ্গে জোড়েনি। সহীহ মুসলিম ২৫৬৪ক-তে আবু হুরাইরা (রাঃ) থেকে এসেছে, নবী ﷺ বলেছেন, মুসলিম মুসলিমের ভাই। সে তার উপর যুলুম করে না, তাকে অসহায় ছেড়ে দেয় না, তাকে তুচ্ছও মনে করে না। তাকওয়া এখানে, এই বলে তিনি নিজের বুকের দিকে তিনবার ইশারা করেন। ওই সংকলনেরই পরের বর্ণনা ২৫৬৪খ যোগ করে, আল্লাহ দেখেন তোমাদের অন্তর।"
+            "bn": "আরও একটি বর্ণনা, তবে সাধারণ নীতি হিসেবে, এই আয়াতের ব্যাখ্যা হিসেবে নয়, কারণ দেখা কোনো তাফসীরই একে এই আয়াতের সঙ্গে জোড়েনি। সহীহ মুসলিম ২৫৬৪ক-তে আবু হুরাইরা (রাঃ) থেকে এসেছে, নবী ﷺ বলেছেন, মুসলিম মুসলিমের ভাই। সে তার উপর জুলুম করে না, তাকে অসহায় ছেড়ে দেয় না, তাকে তুচ্ছও মনে করে না। তাকওয়া এখানে, এই বলে তিনি নিজের বুকের দিকে তিনবার ইশারা করেন। ওই সংকলনেরই পরের বর্ণনা ২৫৬৪খ যোগ করে, আল্লাহ দেখেন তোমাদের অন্তর।"
           }
         ]
       },
@@ -969,7 +969,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the seven commentaries fetched on this verse attaches a saying of the Prophet ﷺ to it. What at-Tabari brings are reports from Companions and those after them, Ibn Abbas (RA), Ali (RA), Ikrimah, Mujahid, Qatadah, al-Hasan, ad-Dahhak and ash-Sha'bi, and a commentator's gloss is not a narration. Al-Qurtubi's count of eight in the ship is introduced with the words it has come in the report, with no chain behind it. So one sound narration is offered instead as a general principle, not as a comment on this verse.",
-            "bn": "এ আয়াতের উপর যে সাতটি তাফসীর দেখা হয়েছে, তার একটিও এর সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয় না। তাবারী যা আনেন তা সাহাবী আর তাঁদের পরবর্তীদের বক্তব্য: ইবনে আব্বাস (রাঃ), আলী (রাঃ), ইকরিমা, মুজাহিদ, কাতাদা, হাসান, দাহহাক ও শা'বী। মুফাসসিরের ব্যাখ্যা হাদীস নয়। নৌকায় ৮ জনের যে সংখ্যা কুরতুবী দেন, তিনি সেটি শুরু করেন 'বর্ণনায় এসেছে' বলে, পেছনে কোনো সনদ নেই। কাজেই তার বদলে একটি সহীহ বর্ণনা আনা হচ্ছে সাধারণ নীতি হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়।"
+            "bn": "এ আয়াতের উপর যে সাতটি তাফসীর দেখা হয়েছে, তার একটিও এর সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয় না। তাবারী যা আনেন তা সাহাবী আর তাঁদের পরবর্তীদের বক্তব্য: ইবনে আব্বাস (রাঃ), আলী (রাঃ), ইকরিমা, মুজাহিদ, কাতাদা, হাসান, দাহহাক ও শা'বী। মুফাসসিরের ব্যাখ্যা হাদিস নয়। নৌকায় ৮ জনের যে সংখ্যা কুরতুবী দেন, তিনি সেটি শুরু করেন 'বর্ণনায় এসেছে' বলে, পেছনে কোনো সনদ নেই। কাজেই তার বদলে একটি সহীহ বর্ণনা আনা হচ্ছে সাধারণ নীতি হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়।"
           },
           {
             "en": "Sahih al-Bukhari 5752 reports from Ibn Abbas (RA) that the Prophet ﷺ came out to them one day and said: some nations were displayed before me. A prophet would pass in front of me with one man, and another with two men, and another with a group of people, and another with nobody with him. The narration runs on to the crowd filling the horizon and the seventy thousand who enter without reckoning. Al-Bukhari placed it in his Sahih and attached no separate grading. It says nothing about this verse.",
@@ -1256,7 +1256,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Narrations Brought From Outside",
-          "bn": "বাইরে থেকে আনা দুই হাদীস"
+          "bn": "বাইরে থেকে আনা দুই হাদিস"
         },
         "p": [
           {
@@ -1285,7 +1285,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Three more stand near. 5:116 has Isa (AS) tell his Lord plainly that You know what is within myself and I do not know what is within Yourself, which is the same boundary drawn from the other side. 28:16 compresses the whole transaction into a line: Musa (AS) says my Lord, indeed I have wronged myself, so forgive me, and He forgave him. 2:286 puts the same pair of requests into the mouth of a whole community, pardon us, forgive us, have mercy upon us.",
-            "bn": "আরও তিনটি আয়াত কাছাকাছি দাঁড়ায়। ৫:১১৬ আয়াতে ঈসা (আঃ) রবকে সোজাসুজি বলেন, আমার ভেতরে কী আছে আপনি জানেন, আর আপনার ভেতরে কী আছে আমি জানি না; সীমারেখাটা এখানে উল্টো দিক থেকে টানা। ২৮:১৬ আয়াতে গোটা লেনদেন এক লাইনে ধরা: মূসা (আঃ) বলেন, হে আমার রব, আমি নিজের উপর যুলুম করেছি, আমাকে মাফ করুন, আর আল্লাহ তাঁকে মাফ করে দিলেন। ২:২৮৬ আয়াত এই দুই চাওয়াকেই গোটা উম্মতের মুখে বসিয়ে দেয়, আমাদের রেহাই দিন, আমাদের মাফ করুন, আমাদের উপর দয়া করুন।"
+            "bn": "আরও তিনটি আয়াত কাছাকাছি দাঁড়ায়। ৫:১১৬ আয়াতে ঈসা (আঃ) রবকে সোজাসুজি বলেন, আমার ভেতরে কী আছে আপনি জানেন, আর আপনার ভেতরে কী আছে আমি জানি না; সীমারেখাটা এখানে উল্টো দিক থেকে টানা। ২৮:১৬ আয়াতে গোটা লেনদেন এক লাইনে ধরা: মূসা (আঃ) বলেন, হে আমার রব, আমি নিজের উপর জুলুম করেছি, আমাকে মাফ করুন, আর আল্লাহ তাঁকে মাফ করে দিলেন। ২:২৮৬ আয়াত এই দুই চাওয়াকেই গোটা উম্মতের মুখে বসিয়ে দেয়, আমাদের রেহাই দিন, আমাদের মাফ করুন, আমাদের উপর দয়া করুন।"
           }
         ]
       },
@@ -1600,16 +1600,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Hadith Through One Word",
-          "bn": "একটি শব্দ ধরে আসা হাদীস"
+          "bn": "একটি শব্দ ধরে আসা হাদিস"
         },
         "p": [
           {
             "en": "None of the tafsirs fetched for this verse attaches a prophetic narration to its message. At-Tabari, al-Qurtubi, Ibn Kathir in Arabic and in the abridged English, al-Baghawi, as-Sa'di, al-Muyassar and Ma'arif al-Qur'an comment without one. The narration that does arrive comes sideways, through a single word. Al-Qurtubi, having read wa-sta'marakum through Mujahid's a'mara, says the verse yields a proof for the 'umra, the grant of a dwelling for the lifetime of the person given it, and brings the Sunnah on it.",
-            "bn": "এই আয়াতের জন্য দেখা তাফসীরগুলোর একটিও এর মূল কথার সঙ্গে নবীর ﷺ কোনো হাদীস জুড়ে দেয় না। তাবারী, কুরতুবী, আরবি ও সংক্ষিপ্ত ইংরেজি সংস্করণে ইবনু কাসীর, বাগাভী, সা'দী, মুয়াসসার আর মাআরিফুল কুরআন, সবাই হাদীস ছাড়াই আলোচনা সারেন। যে বর্ণনাটা শেষমেশ আসে, তা আসে পাশ দিয়ে, একটি শব্দ ধরে। মুজাহিদের আ'মারা অর্থে ওয়াসতা'মারাকুম পড়ার পর কুরতুবী বলেন, আয়াত থেকে উমরার দলিল মেলে, অর্থাৎ যাকে দেওয়া হয় তার জীবনকালের জন্য বাসস্থান দান, আর তারপর তিনি এ বিষয়ে সুন্নাহ আনেন।"
+            "bn": "এই আয়াতের জন্য দেখা তাফসীরগুলোর একটিও এর মূল কথার সঙ্গে নবীর ﷺ কোনো হাদিস জুড়ে দেয় না। তাবারী, কুরতুবী, আরবি ও সংক্ষিপ্ত ইংরেজি সংস্করণে ইবনু কাসীর, বাগাভী, সা'দী, মুয়াসসার আর মাআরিফুল কুরআন, সবাই হাদিস ছাড়াই আলোচনা সারেন। যে বর্ণনাটা শেষমেশ আসে, তা আসে পাশ দিয়ে, একটি শব্দ ধরে। মুজাহিদের আ'মারা অর্থে ওয়াসতা'মারাকুম পড়ার পর কুরতুবী বলেন, আয়াত থেকে উমরার দলিল মেলে, অর্থাৎ যাকে দেওয়া হয় তার জীবনকালের জন্য বাসস্থান দান, আর তারপর তিনি এ বিষয়ে সুন্নাহ আনেন।"
           },
           {
             "en": "Al-Bukhari records from Jabir (RA): the Prophet ﷺ gave the verdict that 'Umra is for the one to whom it is presented. That is hadith 2625 in the Dar-us-Salam numbering of Sahih al-Bukhari; the report beside it, 2626, has Abu Hurayrah (RA) narrating that the Prophet ﷺ said 'Umra is permissible. Al-Qurtubi lists three positions among the jurists on what such a grant transfers, and says the Quran's sense runs with the second. The bearing here is the picture, not the ruling.",
-            "bn": "বুখারী জাবির (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ ফয়সালা দিয়েছেন, উমরা সেই একজনেরই যাকে তা দেওয়া হয়েছে। সহীহ বুখারীর দারুস সালাম গণনায় এটি হাদীস ২৬২৫, আর তার পাশের বর্ণনা ২৬২৬ নম্বরে আবূ হুরায়রা (রাঃ) বলেন, নবী ﷺ বলেছেন, উমরা জায়েয। কুরতুবী ফকীহদের তিনটি মত তুলে ধরেন, এই দান আসলে কী হস্তান্তর করে তা নিয়ে, আর বলেন কুরআনের অর্থ চলে তাঁদের দ্বিতীয় মতের সঙ্গে। আমাদের আয়াতের জন্য জরুরি ছবিটা, ফতোয়াটা নয়।"
+            "bn": "বুখারী জাবির (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ ফয়সালা দিয়েছেন, উমরা সেই একজনেরই যাকে তা দেওয়া হয়েছে। সহীহ বুখারীর দারুস সালাম গণনায় এটি হাদিস ২৬২৫, আর তার পাশের বর্ণনা ২৬২৬ নম্বরে আবূ হুরায়রা (রাঃ) বলেন, নবী ﷺ বলেছেন, উমরা জায়েয। কুরতুবী ফকীহদের তিনটি মত তুলে ধরেন, এই দান আসলে কী হস্তান্তর করে তা নিয়ে, আর বলেন কুরআনের অর্থ চলে তাঁদের দ্বিতীয় মতের সঙ্গে। আমাদের আয়াতের জন্য জরুরি ছবিটা, ফতোয়াটা নয়।"
           }
         ]
       },
@@ -1765,7 +1765,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Prophet ﷺ was at the site itself, with an army, and what he told them was to weep or stay out. Not to gloat, not to draw a lesson about somebody else, not to treat the place as a sight worth seeing. The reason is inside the hadith: lest the like of what struck them should strike you. The only person the story is evidence about is the one reading it. If a verse like this leaves a reader thinking mainly of a group he already disliked, the traffic of the lesson has been reversed.",
-            "bn": "নবী ﷺ নিজে জায়গাটিতে ছিলেন, সঙ্গে গোটা এক বাহিনী, আর তাঁর কথা ছিল হয় কাঁদো, নয়তো ঢুকো না। উল্লাস করার জন্য নয়, অন্য কারো সম্পর্কে শিক্ষা টানার জন্য নয়, দেখার মতো জায়গা ভেবে ঘুরে আসার জন্যও নয়। কারণটা হাদীসের ভেতরেই আছে, তাদের যা হয়েছিল তোমাদেরও তা হয়ে যেতে পারে। এই ঘটনা একমাত্র যার ব্যাপারে সাক্ষ্য দেয়, সে হল যে পড়ছে সেই মানুষটাই। এমন আয়াত পড়ে কারো মাথায় যদি মূলত আগে থেকে অপছন্দ করা কোনো দলের কথা ঘোরে, তাহলে শিক্ষার মুখ উল্টো দিকে ঘুরে গেছে।"
+            "bn": "নবী ﷺ নিজে জায়গাটিতে ছিলেন, সঙ্গে গোটা এক বাহিনী, আর তাঁর কথা ছিল হয় কাঁদো, নয়তো ঢুকো না। উল্লাস করার জন্য নয়, অন্য কারো সম্পর্কে শিক্ষা টানার জন্য নয়, দেখার মতো জায়গা ভেবে ঘুরে আসার জন্যও নয়। কারণটা হাদিসের ভেতরেই আছে, তাদের যা হয়েছিল তোমাদেরও তা হয়ে যেতে পারে। এই ঘটনা একমাত্র যার ব্যাপারে সাক্ষ্য দেয়, সে হল যে পড়ছে সেই মানুষটাই। এমন আয়াত পড়ে কারো মাথায় যদি মূলত আগে থেকে অপছন্দ করা কোনো দলের কথা ঘোরে, তাহলে শিক্ষার মুখ উল্টো দিকে ঘুরে গেছে।"
           }
         ]
       },
@@ -2061,11 +2061,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir, commenting on 11:80 and 11:81 together, brings a hadith of Abu Hurayrah (RA) that Sahih al-Bukhari carries. Its wording there is this: May Allah bestow His Mercy on Lot; he wished if he could betake himself to some powerful support; and if I were to remain in prison for the period Joseph had remained, I would surely respond to the call; and we shall have more right to be in doubt than Abraham. That is Bukhari 4694.",
-            "bn": "ইবনু কাসীর ১১:৮০ আর ১১:৮১ আয়াত একসঙ্গে ব্যাখ্যা করতে গিয়ে আবূ হুরায়রা (রাঃ)-এর হাদীস আনেন, যা সহীহ বুখারীতে রয়েছে। সেখানকার শব্দ এই, আল্লাহ লূতের উপর রহম করুন, তিনি চেয়েছিলেন কোনো মজবুত আশ্রয়ে আশ্রয় নিতে; ইউসুফ যতদিন কারাগারে ছিলেন আমি ততদিন থাকলে ডাক শুনেই সাড়া দিতাম; আর সন্দেহের ব্যাপারে ইবরাহীমের চেয়ে আমাদেরই বেশি হক। এটি বুখারী ৪৬৯৪।"
+            "bn": "ইবনু কাসীর ১১:৮০ আর ১১:৮১ আয়াত একসঙ্গে ব্যাখ্যা করতে গিয়ে আবূ হুরায়রা (রাঃ)-এর হাদিস আনেন, যা সহীহ বুখারীতে রয়েছে। সেখানকার শব্দ এই, আল্লাহ লূতের উপর রহম করুন, তিনি চেয়েছিলেন কোনো মজবুত আশ্রয়ে আশ্রয় নিতে; ইউসুফ যতদিন কারাগারে ছিলেন আমি ততদিন থাকলে ডাক শুনেই সাড়া দিতাম; আর সন্দেহের ব্যাপারে ইবরাহীমের চেয়ে আমাদেরই বেশি হক। এটি বুখারী ৪৬৯৪।"
           },
           {
             "en": "Ibn Kathir's own citation carries an extra clause, that Allah sent no prophet after him except amidst an influential family among his people. That clause is not in the Bukhari wording fetched here, so it is left out. The narration belongs to 11:80, the wish the angels then correct: Lut (AS) was reaching for a clan he did not have, and the words of the Prophet ﷺ honour the wish. Our verse is the correction, and the support was already standing in the room.",
-            "bn": "ইবনু কাসীর নিজে হাদীসটি আনার সময় একটি বাড়তি বাক্যও আনেন, তাঁর পরে আল্লাহ এমন কোনো নবী পাঠাননি যিনি নিজের কওমের ভেতর প্রভাবশালী পরিবারে ছিলেন না। বুখারীর যে শব্দ এখানে যাচাই করা হয়েছে তাতে ওই বাক্যটি নেই, তাই সেটি বাদ রাখা হল। হাদীসটি ১১:৮০ আয়াতের সঙ্গেই যুক্ত, সেই আক্ষেপের সঙ্গে যা ফেরেশতারা এরপর শুধরে দেন। লূত (আঃ) এমন গোষ্ঠীর দিকে হাত বাড়াচ্ছিলেন যা তাঁর ছিল না, আর নবী ﷺ-এর কথা সেই আকাঙ্ক্ষাকে সম্মান জানায়। আমাদের আয়াতটিই সংশোধন, আশ্রয় তো ঘরের ভেতরেই দাঁড়িয়ে ছিল।"
+            "bn": "ইবনু কাসীর নিজে হাদিসটি আনার সময় একটি বাড়তি বাক্যও আনেন, তাঁর পরে আল্লাহ এমন কোনো নবী পাঠাননি যিনি নিজের কওমের ভেতর প্রভাবশালী পরিবারে ছিলেন না। বুখারীর যে শব্দ এখানে যাচাই করা হয়েছে তাতে ওই বাক্যটি নেই, তাই সেটি বাদ রাখা হল। হাদিসটি ১১:৮০ আয়াতের সঙ্গেই যুক্ত, সেই আক্ষেপের সঙ্গে যা ফেরেশতারা এরপর শুধরে দেন। লূত (আঃ) এমন গোষ্ঠীর দিকে হাত বাড়াচ্ছিলেন যা তাঁর ছিল না, আর নবী ﷺ-এর কথা সেই আকাঙ্ক্ষাকে সম্মান জানায়। আমাদের আয়াতটিই সংশোধন, আশ্রয় তো ঘরের ভেতরেই দাঁড়িয়ে ছিল।"
           }
         ]
       },
@@ -2209,7 +2209,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No tafsir fetched for this verse attaches a sound prophetic hadith to the overturning, and none is supplied. Al-Qurtubi also draws a legal inference here and refers it to his comment on al-A'raf, where he records that the scholars differed over what is due while agreeing on the prohibition. Ibn Kathir's abridgement cites a report on the same question whose wording and grading could not be confirmed here, so it is not quoted. Such rulings belong to qualified scholars and courts, not to readers.",
-            "bn": "এই আয়াতের জন্য আনা কোনো তাফসীরই জনপদ উল্টে দেওয়ার সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদীস জুড়ে দেয়নি, তাই এখানেও কোনো হাদীস দেওয়া হলো না। কুরতুবী এখানে একটি ফিকহি সিদ্ধান্তও টানেন, আর বিষয়টি পাঠিয়ে দেন সূরা আরাফে তাঁর আলোচনার দিকে। সেখানে তিনি লিখেছেন, কাজটি হারাম হওয়ার ব্যাপারে একমত হওয়ার পরও এর শাস্তি কী হবে তা নিয়ে আলিমদের মতভেদ আছে। ইবনু কাসীরের সংক্ষিপ্ত সংস্করণ একই প্রশ্নে একটি বর্ণনা আনে, যার শব্দ ও মান এখানে নিশ্চিত করা যায়নি, তাই তা উদ্ধৃত হলো না। এ ধরনের বিধান দেওয়া যোগ্য আলিম ও আদালতের কাজ, পাঠকের নয়।"
+            "bn": "এই আয়াতের জন্য আনা কোনো তাফসীরই জনপদ উল্টে দেওয়ার সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদিস জুড়ে দেয়নি, তাই এখানেও কোনো হাদিস দেওয়া হলো না। কুরতুবী এখানে একটি ফিকহি সিদ্ধান্তও টানেন, আর বিষয়টি পাঠিয়ে দেন সূরা আরাফে তাঁর আলোচনার দিকে। সেখানে তিনি লিখেছেন, কাজটি হারাম হওয়ার ব্যাপারে একমত হওয়ার পরও এর শাস্তি কী হবে তা নিয়ে আলিমদের মতভেদ আছে। ইবনু কাসীরের সংক্ষিপ্ত সংস্করণ একই প্রশ্নে একটি বর্ণনা আনে, যার শব্দ ও মান এখানে নিশ্চিত করা যায়নি, তাই তা উদ্ধৃত হলো না। এ ধরনের বিধান দেওয়া যোগ্য আলিম ও আদালতের কাজ, পাঠকের নয়।"
           }
         ]
       },
@@ -2597,7 +2597,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No commentary fetched for 11:94 attaches a hadith to it. Al-Qurtubi attaches one to the identical phrase at 11:58, citing al-Bukhari and Muslim, so it is brought here on his authority and as belonging to the formula rather than to this verse. The wording is al-Bukhari's alone, from the page fetched: Sahih al-Bukhari 6463, from Abu Hurayrah (RA). It stands in al-Bukhari's Sahih, and no further grading is claimed here.",
-            "bn": "১১:৯৪ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি। তবে কুরতুবী হুবহু একই বাক্যাংশের সঙ্গে, ১১:৫৮ আয়াতে, একটি হাদীস জুড়েছেন এবং সূত্র দিয়েছেন বুখারী ও মুসলিম। তাই হাদীসটি এখানে আনা হচ্ছে তাঁর উপর ভর করে, বাক্যাংশটির সঙ্গে যুক্ত হিসেবে, এই আয়াতের সঙ্গে নয়। শব্দগুলো কেবল বুখারীর, দেখা পাতা থেকে নেওয়া: সহীহ বুখারী ৬৪৬৩, আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। হাদীসটি বুখারীর সহীহ গ্রন্থে আছে; এর বাইরে আলাদা কোনো মান এখানে দাবি করা হচ্ছে না।"
+            "bn": "১১:৯৪ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদিস জোড়েনি। তবে কুরতুবী হুবহু একই বাক্যাংশের সঙ্গে, ১১:৫৮ আয়াতে, একটি হাদিস জুড়েছেন এবং সূত্র দিয়েছেন বুখারী ও মুসলিম। তাই হাদিসটি এখানে আনা হচ্ছে তাঁর উপর ভর করে, বাক্যাংশটির সঙ্গে যুক্ত হিসেবে, এই আয়াতের সঙ্গে নয়। শব্দগুলো কেবল বুখারীর, দেখা পাতা থেকে নেওয়া: সহীহ বুখারী ৬৪৬৩, আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। হাদিসটি বুখারীর সহীহ গ্রন্থে আছে; এর বাইরে আলাদা কোনো মান এখানে দাবি করা হচ্ছে না।"
           },
           {
             "en": "Allah's Messenger ﷺ said: The deeds of anyone of you will not save you (from the (Hell) Fire). They said: Even you (will not be saved by your deeds), O Allah's Messenger? He said: No, even I (will not be saved) unless and until Allah bestows His Mercy on me. Therefore, do good deeds properly, sincerely and moderately, and worship Allah in the forenoon and in the afternoon and during a part of the night, and always adopt a middle, moderate, regular course whereby you will reach your target (Paradise).",
@@ -2605,7 +2605,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Behind the first sentence is lan yunajjiya ahadan minkum 'amaluhu, and yunajjiya is the same second form of n-j-w as najjayna. The exception closes on yataghammadaniya Allahu bi-rahmatin, Allah covers me with mercy, the verse's own word. So the Prophet ﷺ answered his Companions in this verse's vocabulary: deliverance, with mercy as its only door. Nor does the hadith end in waiting. It ends in steady work, morning, evening and part of the night. Deeds are not the price, and they are not optional either.",
-            "bn": "প্রথম বাক্যটির আরবি হলো লান ইউনাজ্জিয়া আহাদাম মিনকুম আমালুহু, আর ইউনাজ্জিয়া হলো ন-জ-ও ধাতুর সেই দ্বিতীয় ক্রিয়ারূপই, যা থেকে নাজ্জাইনা। ব্যতিক্রমের অংশটি শেষ হয় ইয়াতাগাম্মাদানিয়াল্লাহু বিরাহমাতিন দিয়ে, আল্লাহ আমাকে রহমতে ঢেকে নেন; আয়াতের শব্দটিই এখানে। অর্থাৎ নবী ﷺ সাহাবিদের জবাব দিলেন এই আয়াতেরই ভাষায়: নাজাত, আর তার একমাত্র দরজা রহমত। তবে হাদীসটি অপেক্ষায় গিয়ে থামে না। থামে নিয়মিত কাজে, সকালে, বিকেলে, রাতের কিছু অংশে। আমল দাম নয়, আবার ইচ্ছে হলে ছেড়ে দেওয়ার জিনিসও নয়।"
+            "bn": "প্রথম বাক্যটির আরবি হলো লান ইউনাজ্জিয়া আহাদাম মিনকুম আমালুহু, আর ইউনাজ্জিয়া হলো ন-জ-ও ধাতুর সেই দ্বিতীয় ক্রিয়ারূপই, যা থেকে নাজ্জাইনা। ব্যতিক্রমের অংশটি শেষ হয় ইয়াতাগাম্মাদানিয়াল্লাহু বিরাহমাতিন দিয়ে, আল্লাহ আমাকে রহমতে ঢেকে নেন; আয়াতের শব্দটিই এখানে। অর্থাৎ নবী ﷺ সাহাবিদের জবাব দিলেন এই আয়াতেরই ভাষায়: নাজাত, আর তার একমাত্র দরজা রহমত। তবে হাদিসটি অপেক্ষায় গিয়ে থামে না। থামে নিয়মিত কাজে, সকালে, বিকেলে, রাতের কিছু অংশে। আমল দাম নয়, আবার ইচ্ছে হলে ছেড়ে দেওয়ার জিনিসও নয়।"
           }
         ]
       },
@@ -2772,12 +2772,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Narration From Elsewhere",
-          "bn": "হাদীসটি অন্য জায়গার"
+          "bn": "হাদিসটি অন্য জায়গার"
         },
         "p": [
           {
             "en": "No prophetic hadith is attached to 11:100 in any of the six commentaries fetched for it, and that is worth saying plainly rather than filling the gap quietly. At-Tabari fills the verse with reports from Ibn Abbas (RA), Qatada, Ibn Jurayj, al-A'mash and Ibn Zayd, none of it raised to the Prophet ﷺ. Al-Qurtubi gives grammar and poetry. As-Sa'di and al-Muyassar give a paraphrase. Ibn Kathir gives a single gloss and moves on.",
-            "bn": "১১:১০০ আয়াতের জন্য যে ছয়টি তাফসীর দেখা হয়েছে, তার একটিতেও আয়াতটির সঙ্গে নবীর কোনো হাদীস জোড়া নেই। কথাটা চুপচাপ ফাঁক ভরাট করার চেয়ে সোজাসুজি বলে দেওয়াই ভালো। তাবারী আয়াতটি ভরে রাখেন ইবনু আব্বাস (রাঃ), কাতাদাহ, ইবনু জুরাইজ, আ'মাশ আর ইবনু যায়দের বর্ণনা দিয়ে, যার একটি লাইনও নবী ﷺ পর্যন্ত ওঠেনি। কুরতুবী দেন ব্যাকরণ আর কবিতা। সা'দী ও মুয়াস্সার দেন সংক্ষিপ্ত ব্যাখ্যা। ইবনু কাসীর একটুকরো ব্যাখ্যা দিয়েই পরের আয়াতে চলে যান।"
+            "bn": "১১:১০০ আয়াতের জন্য যে ছয়টি তাফসীর দেখা হয়েছে, তার একটিতেও আয়াতটির সঙ্গে নবীর কোনো হাদিস জোড়া নেই। কথাটা চুপচাপ ফাঁক ভরাট করার চেয়ে সোজাসুজি বলে দেওয়াই ভালো। তাবারী আয়াতটি ভরে রাখেন ইবনু আব্বাস (রাঃ), কাতাদাহ, ইবনু জুরাইজ, আ'মাশ আর ইবনু যায়দের বর্ণনা দিয়ে, যার একটি লাইনও নবী ﷺ পর্যন্ত ওঠেনি। কুরতুবী দেন ব্যাকরণ আর কবিতা। সা'দী ও মুয়াস্সার দেন সংক্ষিপ্ত ব্যাখ্যা। ইবনু কাসীর একটুকরো ব্যাখ্যা দিয়েই পরের আয়াতে চলে যান।"
           },
           {
             "en": "The narration this module carries about standing ruins belongs at 11:67, with Thamud, where al-Bukhari's report of the march past al-Hijr sits. What can be brought here, as a general principle and not as a comment any commentator attached to this verse, is al-Bukhari 6133 from Abu Hurayra (RA), that the Prophet ﷺ said, \"A believer is not stung twice (by something) out of one and the same hole.\" Our verse offers somebody else's hole, so the first sting can be skipped.",
@@ -2793,7 +2793,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The phrase min anba', from the news of, occurs three times in Surah Hud and nowhere else. The first is 11:49, closing the account of Nuh (AS): tilka min anba'i al-ghayb nuhiha ilayka, that is from the news of the unseen which We reveal to you, adding that neither he nor his people knew it before. Our verse repeats the shape with the towns in place of the unseen, and naqussuhu, We relate it, in place of nuhiha, We reveal it.",
-            "bn": "মিন আম্বা অর্থাৎ খবরের অংশ, এই গড়নটি সূরা হূদে তিনবার আসে, সূরার আর কোথাও নয়। প্রথমটি ১১:৪৯ আয়াত, যা নূহ (আঃ)-এর বিবরণ শেষ করে, তিলকা মিন আম্বাইল গাইবি নূহীহা ইলাইকা, এ হল অদৃশ্যের খবর যা আমি তোমার কাছে ওহী করছি। সঙ্গে যোগ করা হয়, এর আগে না তিনি জানতেন, না তাঁর কওম জানত। আমাদের আয়াত একই গড়ন ফিরিয়ে আনে, অদৃশ্যের জায়গায় জনপদ, আর নূহীহা অর্থাৎ ওহী করছি তার জায়গায় নাকুস্সুহু অর্থাৎ শোনাচ্ছি।"
+            "bn": "মিন আম্বা অর্থাৎ খবরের অংশ, এই গড়নটি সূরা হূদে তিনবার আসে, সূরার আর কোথাও নয়। প্রথমটি ১১:৪৯ আয়াত, যা নূহ (আঃ)-এর বিবরণ শেষ করে, তিলকা মিন আম্বাইল গাইবি নূহীহা ইলাইকা, এ হল অদৃশ্যের খবর যা আমি তোমার কাছে ওহি করছি। সঙ্গে যোগ করা হয়, এর আগে না তিনি জানতেন, না তাঁর কওম জানত। আমাদের আয়াত একই গড়ন ফিরিয়ে আনে, অদৃশ্যের জায়গায় জনপদ, আর নূহীহা অর্থাৎ ওহি করছি তার জায়গায় নাকুস্সুহু অর্থাৎ শোনাচ্ছি।"
           },
           {
             "en": "The third is 11:120, which closes the surah: and each We relate to you from the news of the messengers is that by which We make firm your heart, and an admonition and a reminder for the believers. That states the purpose the other two leave implicit. As-Sa'di reads the same purpose into our verse: the towns are related so that he may warn by them, so that they are a sign of his messengership, and a reminder for the believers.",
@@ -2945,7 +2945,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No commentary fetched for 11:103 attaches a prophetic hadith to it; the narrations in Ibn Kathir's treatment of this stretch belong to 11:102 and 11:105. As a general narration, not tied to this verse by any commentator consulted, Sahih al-Bukhari 6527 records from Aishah (RA) that Allah's Messenger ﷺ said: \"The people will be gathered barefooted, naked, and uncircumcised.\" She said: \"O Allah's Messenger ﷺ! Will the men and the women look at each other?\" He said: \"The situation will be too hard for them to pay attention to that.\"",
-            "bn": "১১:১০৩ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি। এই অংশে ইবনু কাসীর যে হাদীসগুলো আনেন, সেগুলো ১১:১০২ ও ১১:১০৫ আয়াতের সঙ্গে সম্পর্কিত। তবে একটি সাধারণ বর্ণনা হিসেবে, যা এখানে দেখা কোনো মুফাসসির এই আয়াতের সঙ্গে জোড়েননি, সহীহ বুখারী ৬৫২৭ নম্বরে আয়েশা (রাঃ) থেকে বর্ণিত, আল্লাহর রাসূল ﷺ বলেছেন: \"মানুষকে একত্র করা হবে খালি পায়ে, বস্ত্রহীন ও খতনাবিহীন অবস্থায়।\" আয়েশা (রাঃ) বললেন: \"হে আল্লাহর রাসূল! পুরুষ আর নারীরা কি একে অপরের দিকে তাকাবে?\" তিনি বললেন: \"পরিস্থিতি এত কঠিন হবে যে সেদিকে মনোযোগ দেওয়ার অবস্থা তাদের থাকবে না।\""
+            "bn": "১১:১০৩ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয়নি। এই অংশে ইবনু কাসীর যে হাদিসগুলো আনেন, সেগুলো ১১:১০২ ও ১১:১০৫ আয়াতের সঙ্গে সম্পর্কিত। তবে একটি সাধারণ বর্ণনা হিসেবে, যা এখানে দেখা কোনো মুফাসসির এই আয়াতের সঙ্গে জোড়েননি, সহীহ বুখারী ৬৫২৭ নম্বরে আয়েশা (রাঃ) থেকে বর্ণিত, আল্লাহর রাসূল ﷺ বলেছেন: \"মানুষকে একত্র করা হবে খালি পায়ে, বস্ত্রহীন ও খতনাবিহীন অবস্থায়।\" আয়েশা (রাঃ) বললেন: \"হে আল্লাহর রাসূল! পুরুষ আর নারীরা কি একে অপরের দিকে তাকাবে?\" তিনি বললেন: \"পরিস্থিতি এত কঠিন হবে যে সেদিকে মনোযোগ দেওয়ার অবস্থা তাদের থাকবে না।\""
           }
         ]
       },
@@ -3057,7 +3057,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari's own choice is ad-Dahhak's reading, because the most common use of illa in Arabic is a true exception, and nothing in the wording points elsewhere. Al-Muyassar gives the same sense: the group Allah willed to hold back are the sinners among the people of tawhid, who stay in the Fire for a time and then come out to Paradise by His will and mercy. Al-Baghawi records ad-Dahhak's reading as well, and beside it Qatada's one line: Allah knows best what He has excepted. They are left side by side, as the commentators left them.",
-            "bn": "তাবারী নিজে দাহহাকের মতটিকেই বেছে নেন। কারণ আরবিতে ইল্লা সাধারণত খাঁটি ব্যতিক্রম বোঝায়, আর এখানে শব্দের ভেতরে অন্য অর্থের দিকে ইশারা করে এমন কিছু নেই। আল-মুয়াসসারও একই অর্থ দেয়: আল্লাহ যাদের পিছিয়ে রাখতে চেয়েছেন, তারা তাওহীদপন্থীদের মধ্যে গুনাহগাররা। তারা কিছুকাল জাহান্নামে থাকবে, তারপর আল্লাহর ইচ্ছা ও রহমতে সেখান থেকে বেরিয়ে জান্নাতে যাবে। বাগাবীও দাহহাকের মত উল্লেখ করেন, আর পাশে রাখেন কাতাদার এক লাইনের কথা: আল্লাহই ভালো জানেন তিনি কী বাদ রেখেছেন। মুফাসসিররা মতগুলো যেভাবে পাশাপাশি রেখে গেছেন, এখানেও সেভাবেই রইল।"
+            "bn": "তাবারী নিজে দাহহাকের মতটিকেই বেছে নেন। কারণ আরবিতে ইল্লা সাধারণত খাঁটি ব্যতিক্রম বোঝায়, আর এখানে শব্দের ভেতরে অন্য অর্থের দিকে ইশারা করে এমন কিছু নেই। আল-মুয়াসসারও একই অর্থ দেয়: আল্লাহ যাদের পিছিয়ে রাখতে চেয়েছেন, তারা তাওহিদপন্থীদের মধ্যে গুনাহগাররা। তারা কিছুকাল জাহান্নামে থাকবে, তারপর আল্লাহর ইচ্ছা ও রহমতে সেখান থেকে বেরিয়ে জান্নাতে যাবে। বাগাবীও দাহহাকের মত উল্লেখ করেন, আর পাশে রাখেন কাতাদার এক লাইনের কথা: আল্লাহই ভালো জানেন তিনি কী বাদ রেখেছেন। মুফাসসিররা মতগুলো যেভাবে পাশাপাশি রেখে গেছেন, এখানেও সেভাবেই রইল।"
           }
         ]
       },
@@ -3073,7 +3073,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir reads the exception and this closing together. The exception, he says, means that their lasting in bliss is not something necessary in itself; it rests on the will of Allah, so the favour over them stays His forever, and that is why they are inspired with glorification and praise as they are inspired with breath. He records ad-Dahhak and al-Hasan al-Basri that it concerns sinners of tawhid who were in the Fire and then brought out. Then, he says, the verse follows with a gift not cut off, so that nobody imagines, after the mention of His will, any break; He sealed it with permanence.",
-            "bn": "ইবনু কাসীর ব্যতিক্রম আর এই সমাপ্তিকে একসাথে পড়েন। তাঁর মতে ব্যতিক্রমের অর্থ হলো, নিয়ামতের মধ্যে তাদের চিরকাল থাকা নিজে নিজে অবধারিত কোনো ব্যাপার নয়। তা আল্লাহর ইচ্ছার উপর নির্ভর করে, তাই তাদের উপর অনুগ্রহ সবসময় তাঁরই থাকে। এজন্যই শ্বাস নেওয়ার মতো সহজে তাদের মুখে তাসবীহ আর হামদ জারি করে দেওয়া হবে। তিনি দাহহাক ও হাসান বাসরীর মতও আনেন, এটি তাওহীদপন্থী গুনাহগারদের ব্যাপারে, যারা জাহান্নামে ছিল, পরে বের করে আনা হয়েছে। তারপর, তিনি বলেন, আয়াত যোগ করেছে কেটে না নেওয়া দানের কথা। যাতে ইচ্ছার উল্লেখ শুনে কেউ ছেদ পড়ার কল্পনা না করে। আল্লাহ কথাটা শেষ করেছেন স্থায়িত্বের সীলমোহর দিয়ে।"
+            "bn": "ইবনু কাসীর ব্যতিক্রম আর এই সমাপ্তিকে একসাথে পড়েন। তাঁর মতে ব্যতিক্রমের অর্থ হলো, নিয়ামতের মধ্যে তাদের চিরকাল থাকা নিজে নিজে অবধারিত কোনো ব্যাপার নয়। তা আল্লাহর ইচ্ছার উপর নির্ভর করে, তাই তাদের উপর অনুগ্রহ সবসময় তাঁরই থাকে। এজন্যই শ্বাস নেওয়ার মতো সহজে তাদের মুখে তাসবীহ আর হামদ জারি করে দেওয়া হবে। তিনি দাহহাক ও হাসান বাসরীর মতও আনেন, এটি তাওহিদপন্থী গুনাহগারদের ব্যাপারে, যারা জাহান্নামে ছিল, পরে বের করে আনা হয়েছে। তারপর, তিনি বলেন, আয়াত যোগ করেছে কেটে না নেওয়া দানের কথা। যাতে ইচ্ছার উল্লেখ শুনে কেউ ছেদ পড়ার কল্পনা না করে। আল্লাহ কথাটা শেষ করেছেন স্থায়িত্বের সীলমোহর দিয়ে।"
           },
           {
             "en": "11:107 closes inna rabbaka fa''alun lima yurid, your Lord does what He intends, and Ibn Kathir reads it as His justice and wisdom, citing 21:23; here, he says, Allah soothes the hearts. Al-Baghawi records Ibn Zayd: Allah told us what He wills for the people of Paradise, a gift not cut off. The commentators treat the parallel exception at 11:107 on its own terms, and it is left there. As-Sa'di sums up this verse: what Allah gives them of lasting bliss is permanent and continuous, cut off at no time at all.",
@@ -3089,11 +3089,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir cites this narration here from the two Sahihs. Al-Bukhari records it from Abu Sa'id al-Khudri (RA), in these words of Allah's Messenger ﷺ: Death will be brought in the form of a black-and-white ram, and a caller will call, O people of Paradise. They will stretch their necks and look, and he will say, do you know this? They will say, yes, this is death, and all of them will have seen it. Then he will call, O people of the Fire, and they will stretch their necks and look.",
-            "bn": "ইবনু কাসীর এই আয়াতে একটি হাদীস আনেন, যা তাঁর ভাষায় দুই সহীহ গ্রন্থে আছে। বুখারী তা বর্ণনা করেছেন আবূ সাঈদ খুদরী (রাঃ) থেকে, রাসূলুল্লাহ ﷺ-এর এই কথায়: মৃত্যুকে আনা হবে সাদা-কালো মিশেলের একটি মেষের রূপে। তখন একজন ঘোষক ডাকবে, হে জান্নাতবাসীরা! তারা গলা বাড়িয়ে তাকাবে। সে বলবে, একে চেনো? তারা বলবে, হ্যাঁ, এ তো মৃত্যু। ততক্ষণে সবাই তাকে দেখে ফেলেছে। তারপর সে ডাকবে, হে জাহান্নামবাসীরা! তারাও গলা বাড়িয়ে তাকাবে।"
+            "bn": "ইবনু কাসীর এই আয়াতে একটি হাদিস আনেন, যা তাঁর ভাষায় দুই সহীহ গ্রন্থে আছে। বুখারী তা বর্ণনা করেছেন আবূ সাঈদ খুদরী (রাঃ) থেকে, রাসূলুল্লাহ ﷺ-এর এই কথায়: মৃত্যুকে আনা হবে সাদা-কালো মিশেলের একটি মেষের রূপে। তখন একজন ঘোষক ডাকবে, হে জান্নাতবাসীরা! তারা গলা বাড়িয়ে তাকাবে। সে বলবে, একে চেনো? তারা বলবে, হ্যাঁ, এ তো মৃত্যু। ততক্ষণে সবাই তাকে দেখে ফেলেছে। তারপর সে ডাকবে, হে জাহান্নামবাসীরা! তারাও গলা বাড়িয়ে তাকাবে।"
           },
           {
             "en": "He will say, do you know this? They will say, yes, this is death, and all of them will have seen it. Then it will be slaughtered, and he will say: O people of Paradise, eternity, and no death; O people of the Fire, eternity, and no death. The report ends with the Prophet ﷺ reciting 19:39, not this verse, and al-Bukhari places it with that verse; this is hadith 4730 in the numbering of the page consulted. The attachment to 11:108 is Ibn Kathir's.",
-            "bn": "সে বলবে, একে চেনো? তারা বলবে, হ্যাঁ, এ তো মৃত্যু। ততক্ষণে সবাই তাকে দেখে ফেলেছে। তারপর তাকে জবাই করা হবে, আর ঘোষক বলবে: হে জান্নাতবাসীরা, চিরস্থায়ী জীবন, আর কোনো মৃত্যু নেই। হে জাহান্নামবাসীরা, চিরস্থায়ী জীবন, আর কোনো মৃত্যু নেই। বর্ণনাটি শেষ হয় নবী ﷺ-এর ১৯:৩৯ আয়াত তিলাওয়াতে, এই আয়াত নয়, আর বুখারীও হাদীসটি রেখেছেন সেই আয়াতের অধীনে। যে পাতাটি দেখা হয়েছে, সেখানকার নম্বর অনুযায়ী এটি ৪৭৩০ নম্বর হাদীস। ১১:১০৮ আয়াতের সাথে একে যুক্ত করেছেন ইবনু কাসীর।"
+            "bn": "সে বলবে, একে চেনো? তারা বলবে, হ্যাঁ, এ তো মৃত্যু। ততক্ষণে সবাই তাকে দেখে ফেলেছে। তারপর তাকে জবাই করা হবে, আর ঘোষক বলবে: হে জান্নাতবাসীরা, চিরস্থায়ী জীবন, আর কোনো মৃত্যু নেই। হে জাহান্নামবাসীরা, চিরস্থায়ী জীবন, আর কোনো মৃত্যু নেই। বর্ণনাটি শেষ হয় নবী ﷺ-এর ১৯:৩৯ আয়াত তিলাওয়াতে, এই আয়াত নয়, আর বুখারীও হাদিসটি রেখেছেন সেই আয়াতের অধীনে। যে পাতাটি দেখা হয়েছে, সেখানকার নম্বর অনুযায়ী এটি ৪৭৩০ নম্বর হাদিস। ১১:১০৮ আয়াতের সাথে একে যুক্ত করেছেন ইবনু কাসীর।"
           },
           {
             "en": "Ibn Kathir adds a second from the Sahih. Muslim records it, hadith 2837 in the numbering consulted, from Abu Sa'id al-Khudri and Abu Hurayrah (RA), that the Prophet ﷺ said: a caller will call, it is for you to be healthy and never fall ill, to live and never die, to be young and never grow old, and to live in ease and never know misery; and that is the word of Allah in 7:43, this is Paradise you have been made to inherit. Neither narration explains the exception in this verse, and none of the commentaries fetched attaches a prophetic word to it here.",
@@ -3397,7 +3397,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari chooses: people will not cease to differ in their religions and desires, except those your Lord has mercy on, who believed in Allah and affirmed His messengers and do not differ over His oneness. His reason is the next verse, which ends with Hell being filled, so the differing meant is blameworthy; had it been about provision, punishment would not follow it. Ibn Kathir reports Ikrimah's reading, in guidance, and al-Hasan's, in provision, and calls the first the well-known correct view. Ma'arif al-Qur'an adds that jurists' ijtihad is not meant, nor contrary to mercy.",
-            "bn": "তাবারী একটি মত বেছে নেন: মানুষ তাদের দ্বীন আর প্রবৃত্তিতে মতভেদ করতেই থাকবে, তবে তারা ছাড়া যাদের উপর আপনার রব রহম করেন। তারা আল্লাহর উপর ঈমান এনেছে, তাঁর রাসূলদের সত্য বলে মেনেছে, আর তাঁর তাওহীদে মতভেদ করে না। তাঁর দলিল পরের আয়াত, যা শেষ হয় জাহান্নাম ভরে দেওয়ার ঘোষণায়। তাই এখানে নিন্দনীয় মতভেদের কথা। রিযকের তফাত হলে তার পরে শাস্তির কথা আসত না। ইবনু কাসীর ইকরিমার মত, হেদায়েতের ব্যাপারে, আর হাসানের মত, রিযকের ব্যাপারে, দুটিই উল্লেখ করে বলেন, প্রসিদ্ধ ও সঠিক মত প্রথমটি। মাআরিফুল কুরআন যোগ করে, ফকীহদের ইজতিহাদ এখানে উদ্দেশ্য নয়, রহমতের বিপরীতও নয়।"
+            "bn": "তাবারী একটি মত বেছে নেন: মানুষ তাদের দ্বীন আর প্রবৃত্তিতে মতভেদ করতেই থাকবে, তবে তারা ছাড়া যাদের উপর আপনার রব রহম করেন। তারা আল্লাহর উপর ঈমান এনেছে, তাঁর রাসূলদের সত্য বলে মেনেছে, আর তাঁর তাওহিদে মতভেদ করে না। তাঁর দলিল পরের আয়াত, যা শেষ হয় জাহান্নাম ভরে দেওয়ার ঘোষণায়। তাই এখানে নিন্দনীয় মতভেদের কথা। রিযকের তফাত হলে তার পরে শাস্তির কথা আসত না। ইবনু কাসীর ইকরিমার মত, হেদায়েতের ব্যাপারে, আর হাসানের মত, রিযকের ব্যাপারে, দুটিই উল্লেখ করে বলেন, প্রসিদ্ধ ও সঠিক মত প্রথমটি। মাআরিফুল কুরআন যোগ করে, ফকীহদের ইজতিহাদ এখানে উদ্দেশ্য নয়, রহমতের বিপরীতও নয়।"
           }
         ]
       },
@@ -3429,11 +3429,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No commentary fetched attaches a prophetic hadith to 11:118 on its own. Ibn Kathir, reading it together with 11:119, brings the report of this community splitting into 73 sects, all in the Fire but one, citing the Musnad and Sunan collections and saying that its routes strengthen one another. A collector's own grading and a single collection's wording were not confirmed on any page fetched for this article, so the report is not quoted here.",
-            "bn": "এখানে দেখা কোনো তাফসীর কেবল ১১:১১৮ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জোড়েনি। ইবনু কাসীর আয়াতটি ১১:১১৯ আয়াতের সঙ্গে মিলিয়ে পড়ে একটি বর্ণনা আনেন: এই উম্মত ৭৩ দলে ভাগ হবে, সবাই জাহান্নামে, কেবল একটি দল ছাড়া। তিনি মুসনাদ আর সুনান গ্রন্থগুলোর সূত্র দেন, আর বলেন এর বর্ণনাসূত্রগুলো একে অন্যকে শক্তি দেয়। সংকলকের নিজের দেওয়া মান আর একটিমাত্র গ্রন্থের শব্দ এই লেখার জন্য দেখা কোনো পাতায় নিশ্চিত করা যায়নি। তাই বর্ণনাটি এখানে উদ্ধৃত করা হচ্ছে না।"
+            "bn": "এখানে দেখা কোনো তাফসীর কেবল ১১:১১৮ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদিস জোড়েনি। ইবনু কাসীর আয়াতটি ১১:১১৯ আয়াতের সঙ্গে মিলিয়ে পড়ে একটি বর্ণনা আনেন: এই উম্মত ৭৩ দলে ভাগ হবে, সবাই জাহান্নামে, কেবল একটি দল ছাড়া। তিনি মুসনাদ আর সুনান গ্রন্থগুলোর সূত্র দেন, আর বলেন এর বর্ণনাসূত্রগুলো একে অন্যকে শক্তি দেয়। সংকলকের নিজের দেওয়া মান আর একটিমাত্র গ্রন্থের শব্দ এই লেখার জন্য দেখা কোনো পাতায় নিশ্চিত করা যায়নি। তাই বর্ণনাটি এখানে উদ্ধৃত করা হচ্ছে না।"
           },
           {
             "en": "A sound narration speaks to the conduct at stake, brought as a general principle, not as attached to this verse. Sahih al-Bukhari 3476, from Ibn Mas'ud (RA), in al-Bukhari's wording: I heard a person reciting a (Qur'anic) Verse in a certain way, and I had heard the Prophet ﷺ reciting the same Verse in a different way. So I took him to the Prophet ﷺ and informed him of that but I noticed the sign of disapproval on his face, and then he said, Both of you are correct, so don't differ, for the nations before you differed, so they were destroyed.",
-            "bn": "তবে একটি সহীহ বর্ণনা ঠিক সেই আচরণের কথা বলে, যে প্রশ্ন এই আয়াত তোলে। এটি আনা হচ্ছে সাধারণ মূলনীতি হিসেবে, এই আয়াতের সঙ্গে জোড়া হাদীস হিসেবে নয়। সহীহ বুখারী ৩৪৭৬, ইবনু মাসউদ (রাঃ) থেকে, বুখারীর শব্দে: আমি একজনকে একটি আয়াত এক রকমভাবে তিলাওয়াত করতে শুনলাম, অথচ নবী ﷺ-কে একই আয়াত অন্যভাবে তিলাওয়াত করতে শুনেছিলাম। আমি তাকে নবী ﷺ-এর কাছে নিয়ে গিয়ে ব্যাপারটা জানালাম, কিন্তু তাঁর চেহারায় অসন্তুষ্টির ছাপ দেখলাম। তারপর তিনি বললেন: তোমরা দুজনই ঠিক, কাজেই মতভেদ কোরো না। তোমাদের আগের জাতিগুলো মতভেদ করেছিল, ফলে তারা ধ্বংস হয়ে গেছে।"
+            "bn": "তবে একটি সহীহ বর্ণনা ঠিক সেই আচরণের কথা বলে, যে প্রশ্ন এই আয়াত তোলে। এটি আনা হচ্ছে সাধারণ মূলনীতি হিসেবে, এই আয়াতের সঙ্গে জোড়া হাদিস হিসেবে নয়। সহীহ বুখারী ৩৪৭৬, ইবনু মাসউদ (রাঃ) থেকে, বুখারীর শব্দে: আমি একজনকে একটি আয়াত এক রকমভাবে তিলাওয়াত করতে শুনলাম, অথচ নবী ﷺ-কে একই আয়াত অন্যভাবে তিলাওয়াত করতে শুনেছিলাম। আমি তাকে নবী ﷺ-এর কাছে নিয়ে গিয়ে ব্যাপারটা জানালাম, কিন্তু তাঁর চেহারায় অসন্তুষ্টির ছাপ দেখলাম। তারপর তিনি বললেন: তোমরা দুজনই ঠিক, কাজেই মতভেদ কোরো না। তোমাদের আগের জাতিগুলো মতভেদ করেছিল, ফলে তারা ধ্বংস হয়ে গেছে।"
           },
           {
             "en": "It stands in al-Bukhari's Sahih, and no further grading is claimed here. Both readings were approved in one breath, so neither brought that look to his face ﷺ. On the face of the report, what brought it was a man taking another to be judged over a difference that needed no judging. The warning points back to the nations before, the subject of the verses around ours. The hadith does not forbid holding a view. It forbids turning a difference into a quarrel.",
