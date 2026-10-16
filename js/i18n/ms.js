@@ -207,7 +207,7 @@
  "wm_f_sahaba_b": "127 sahabat Nabi ﷺ, setiap seorang dengan artikel penuh.",
  "wm_f_places_b": "53 tempat pada peta, dengan 12 perjalanan dilukis sebagai laluan.",
  "wm_f_tadabbur_h": "Tadabbur",
- "wm_f_tadabbur_b": "Setiap ayat yang wajar direnung disertai nota, dan 299 daripadanya dengan artikel penuh.",
+ "wm_f_tadabbur_b": "1,061 ayat yang wajar direnung, setiap satu dengan nota dan artikel penuh.",
  "wm_offline": "Semuanya berfungsi di luar talian setelah dimuatkan — pasang pada skrin utama dan baca tanpa sambungan.",
  "wm_start": "Mula membaca",
  "wm_reopen": "Tentang aplikasi",

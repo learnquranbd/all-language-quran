@@ -207,7 +207,7 @@
  "wm_f_sahaba_b": "127 Compagnons du Prophète ﷺ, chacun avec un article complet.",
  "wm_f_places_b": "53 lieux sur une carte, avec 12 voyages tracés en itinéraires.",
  "wm_f_tadabbur_h": "Tadabbur — méditer",
- "wm_f_tadabbur_b": "Chaque verset propice à la réflexion avec une note, et 299 d’entre eux avec un article complet.",
+ "wm_f_tadabbur_b": "1 061 versets propices à la réflexion, chacun avec une note et un article complet.",
  "wm_offline": "Tout fonctionne hors ligne une fois chargé — installez l’application et lisez sans connexion.",
  "wm_start": "Commencer la lecture",
  "wm_reopen": "À propos de l’application",

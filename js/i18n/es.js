@@ -207,7 +207,7 @@
  "wm_f_sahaba_b": "127 Compañeros del Profeta ﷺ, cada uno con un artículo completo.",
  "wm_f_places_b": "53 lugares en un mapa, con 12 viajes trazados como rutas.",
  "wm_f_tadabbur_h": "Tadabbur — reflexionar",
- "wm_f_tadabbur_b": "Cada versículo digno de reflexión con una nota, y 299 de ellos con un artículo completo.",
+ "wm_f_tadabbur_b": "1061 versículos dignos de reflexión, cada uno con una nota y un artículo completo.",
  "wm_offline": "Todo funciona sin conexión una vez cargado: instálala en tu pantalla de inicio y lee sin internet.",
  "wm_start": "Empezar a leer",
  "wm_reopen": "Acerca de la app",

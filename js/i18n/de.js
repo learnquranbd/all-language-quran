@@ -207,7 +207,7 @@
  "wm_f_sahaba_b": "127 Gefährten des Propheten ﷺ, jeder mit einem ausführlichen Artikel.",
  "wm_f_places_b": "53 Orte auf einer Karte, dazu 12 Reisen als Routen eingezeichnet.",
  "wm_f_tadabbur_h": "Tadabbur — nachdenken",
- "wm_f_tadabbur_b": "Jeder zum Nachdenken anregende Vers mit einer Notiz, und 299 davon mit einem vollständigen Artikel.",
+ "wm_f_tadabbur_b": "1.061 Verse zum Nachdenken, jeder mit einer Notiz und einem vollständigen Artikel.",
  "wm_offline": "Nach dem Laden funktioniert alles offline — installiere die App und lies ohne Verbindung.",
  "wm_start": "Lesen beginnen",
  "wm_reopen": "Über die App",

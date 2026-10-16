@@ -59,7 +59,7 @@ const WelcomeModal = {
       { emoji: '✨', k: 'wm_f_names', h: 'learn_names_title', tab: 'names', fbH: '99 Names of Allah', fbB: 'Every name with its meaning and audio, memorisation sets and a quiz.' },
       { emoji: '🤲', k: 'wm_f_duas', h: 'qduas_title', tab: 'quran-duas', fbH: 'Quranic Duas', fbB: '89 duas from the Quran, word by word, with tap-to-hear audio.' },
       { emoji: '🌅', k: 'wm_f_nuzul', h: 'nuzul_title', tab: 'nuzul', fbH: 'Revelation Context (Asbāb an-Nuzūl)', fbB: 'The order in which the surahs were revealed, and the recorded occasions behind their verses.' },
-      { emoji: '💭', k: 'wm_f_tadabbur', tab: 'tadabbur', fbH: 'Tadabbur — reflect',      fbB: 'Every reflection-worthy verse with a note to ponder, and 299 of them with a full-length article.' },
+      { emoji: '💭', k: 'wm_f_tadabbur', tab: 'tadabbur', fbH: 'Tadabbur — reflect',      fbB: '1,061 reflection-worthy verses, each with a note to ponder and a full-length article.' },
       { emoji: '🕊️', k: 'wm_f_hope', tab: 'hope',     fbH: 'Hope & Character',        fbB: 'Verses of mercy for anyone who thinks they have gone too far — and the character the Qur’an asks for next.' },
       { emoji: '🕌', k: 'wm_f_seerah', tab: 'seerah',   fbH: 'Seerah',                  fbB: 'The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.' },
       { emoji: '🌟', k: 'wm_f_prophets', tab: 'prophets', fbH: 'Prophets & Messengers',   fbB: 'All 25 named in the Quran, with their stories and every verse that mentions them.' },

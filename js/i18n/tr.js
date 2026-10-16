@@ -207,7 +207,7 @@
  "wm_f_sahaba_b": "Peygamber'in ﷺ 127 sahabisi, her biri için kapsamlı bir makale.",
  "wm_f_places_b": "Haritada 53 yer ve rota olarak çizilmiş 12 yolculuk.",
  "wm_f_tadabbur_h": "Tedebbür",
- "wm_f_tadabbur_b": "Tefekküre değer her ayet bir notla, bunlardan 299’u tam bir makaleyle.",
+ "wm_f_tadabbur_b": "Tefekküre değer 1.061 ayet; her biri bir not ve tam bir makaleyle.",
  "wm_offline": "Bir kez yüklendikten sonra her şey çevrimdışı çalışır — ana ekranınıza kurun ve bağlantısız okuyun.",
  "wm_start": "Okumaya başla",
  "wm_reopen": "Uygulama hakkında",

@@ -1632,7 +1632,7 @@ const TRANSLATIONS = {
    "wm_f_sahaba_b": "127 Companions of the Prophet ﷺ, each with a full-length article.",
    "wm_f_places_b": "53 places on a map, with 12 journeys drawn as routes.",
    "wm_f_tadabbur_h": "Tadabbur — reflect",
-   "wm_f_tadabbur_b": "Every reflection-worthy verse with a note to ponder, and 299 of them with a full-length article.",
+   "wm_f_tadabbur_b": "1,061 reflection-worthy verses, each with a note to ponder and a full-length article.",
    "wm_offline": "Everything works offline once loaded — install it to your home screen and read without a connection.",
    "wm_start": "Start reading",
    "wm_reopen": "About this app",
