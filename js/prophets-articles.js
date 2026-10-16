@@ -1708,8 +1708,8 @@ var PROPHET_ARTICLES = {
         h: { en: "The Guests", bn: "অতিথিরা" },
         p: [
           {
-            en: "The messengers went first to Ibrahim, who brought them a roasted calf and grew uneasy when they did not eat (11:69-70). They told him not to fear, gave his wife the news of Ishaq, and then said they were sent to the people of Lut. Ibrahim began to argue with them over that people, for he was forbearing and oft-returning to Allah (11:74-75).",
-            bn: "ফেরেশতারা প্রথমে আসেন ইবরাহীমের কাছে। তিনি তাঁদের জন্য একটি ভুনা বাছুর নিয়ে আসেন, আর তাঁরা না খাওয়ায় মনে মনে অস্বস্তি বোধ করেন (11:69-70)। তাঁরা তাঁকে ভয় পেতে নিষেধ করেন, তাঁর স্ত্রীকে ইসহাকের সুসংবাদ দেন, তারপর জানান, তাঁদের পাঠানো হয়েছে লূতের সম্প্রদায়ের কাছে। ইবরাহীম ওই সম্প্রদায়কে নিয়ে তাঁদের সঙ্গে তর্ক জুড়ে দেন, কারণ তিনি ছিলেন সহনশীল, বারবার আল্লাহর দিকে ফিরে আসা মানুষ (11:74-75)।",
+            en: "The messengers went first to Ibrahim, who brought them a roasted calf and grew uneasy when they did not eat (11:69-70). They told him not to fear and said they were sent to the people of Lut, and then his wife was given the news of Ishaq (11:70-71). Ibrahim began to argue with them over that people, for he was forbearing and oft-returning to Allah (11:74-75).",
+            bn: "ফেরেশতারা প্রথমে আসেন ইবরাহীমের কাছে। তিনি তাঁদের জন্য একটি ভুনা বাছুর নিয়ে আসেন, আর তাঁরা না খাওয়ায় মনে মনে অস্বস্তি বোধ করেন (11:69-70)। তাঁরা তাঁকে ভয় পেতে নিষেধ করেন, জানান যে তাঁদের পাঠানো হয়েছে লূতের সম্প্রদায়ের কাছে, তারপর তাঁর স্ত্রীকে ইসহাকের সুসংবাদ দেওয়া হয় (11:70-71)। ইবরাহীম ওই সম্প্রদায়কে নিয়ে তাঁদের সঙ্গে তর্ক জুড়ে দেন, কারণ তিনি ছিলেন সহনশীল, বারবার আল্লাহর দিকে ফিরে আসা মানুষ (11:74-75)।",
           },
           {
             en: "When the messengers came to Lut he was distressed for them and felt himself powerless, and said, this is a trying day (11:77). His people came rushing toward the house, and he offered every argument he had, ending with: is there not among you a man of reason (11:78)? The guests then told him who they were, and that his people would never reach him (11:81).",

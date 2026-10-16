@@ -718,8 +718,8 @@ var SEERAH_ARTICLES = {
             "bn": "উঠে দাঁড়িয়ে সতর্ক করার হুকুমের পর প্রায় তিন বছর দাওয়াত চলেছে চুপচাপ; সংখ্যাটা ইবনে ইসহাকের। মজলিসে কাউকে সম্বোধন করা হয়নি, কাবার সামনে কোনো ঘোষণাও দেওয়া হয়নি। নবী ﷺ কথা বলতেন এক-একজন মানুষের সঙ্গে, যাঁকে তিনি প্রস্তুত মনে করতেন। আর যাঁরা কবুল করেছেন, তাঁদের বেশির ভাগই এসেছেন চেনা-জানা মানুষের হাত ধরে। গোপন বলতে এখানে বোঝায় প্রচার না করা, লুকিয়ে থাকা নয়; ঈমানদাররা একে অন্যকে ভালোই চিনতেন।"
           },
           {
-            "en": "They met at the house of al-Arqam ibn Abi al-Arqam (RA), a young man whose home stood near Safa, and went out to the ravines outside Makkah to pray unseen. Ibn Ishaq records that one such group was interrupted and abused, and that Sa'd ibn Abi Waqqas (RA) struck a man with a camel's jawbone, the first blood shed in the matter of Islam.",
-            "bn": "তাঁরা মিলিত হতেন আরকাম ইবনে আবি আল-আরকাম (রাঃ)-এর ঘরে; তরুণ এই সাহাবির বাড়ি ছিল সাফার কাছেই। আর নামাজ পড়তে বেরিয়ে যেতেন মক্কার বাইরের গিরিখাদে, যাতে কেউ না দেখে। ইবনে ইসহাক লিখেছেন, এমনই এক দলকে একদিন বাধা দেওয়া হয় ও গালাগাল করা হয়। সাদ ইবনে আবি ওয়াক্কাস (রাঃ) তখন একজনকে উটের চোয়ালের হাড় দিয়ে আঘাত করেন। ইসলামের পথে এটাই প্রথম ঝরা রক্ত।"
+            "en": "By some accounts they met at the house of al-Arqam ibn Abi al-Arqam (RA), a young man whose home stood near Safa, and they went out to the ravines outside Makkah to pray unseen. Ibn Ishaq records that one such group was interrupted and abused, and that Sa'd ibn Abi Waqqas (RA) struck a man with a camel's jawbone, the first blood shed in the matter of Islam.",
+            "bn": "কোনো কোনো বর্ণনামতে তাঁরা মিলিত হতেন আরকাম ইবনে আবি আল-আরকাম (রাঃ)-এর ঘরে; তরুণ এই সাহাবির বাড়ি ছিল সাফার কাছেই। আর নামাজ পড়তে বেরিয়ে যেতেন মক্কার বাইরের গিরিখাদে, যাতে কেউ না দেখে। ইবনে ইসহাক লিখেছেন, এমনই এক দলকে একদিন বাধা দেওয়া হয় ও গালাগাল করা হয়। সাদ ইবনে আবি ওয়াক্কাস (রাঃ) তখন একজনকে উটের চোয়ালের হাড় দিয়ে আঘাত করেন। ইসলামের পথে এটাই প্রথম ঝরা রক্ত।"
           }
         ]
       },
@@ -2157,7 +2157,7 @@ var SEERAH_ARTICLES = {
   },
   "dar_arqam": { sections: [
     { h: { en: "Nowhere Left to Meet", bn: "বসার জায়গা ছিল না" }, p: [
-      { en: "By about 614 CE the message had been public for a year. The Prophet ﷺ had called Quraysh up to as-Safa and named what he was calling them to, and the city answered first with ridicule and then with hands. Makkah had no ruler, no court and no police. A man was safe because his clan would answer for him, which protected a chief's son and left a slave with nobody.", bn: "৬১৪ খ্রিস্টাব্দের কাছাকাছি সময়ে দাওয়াত প্রকাশ্য হয়েছে বছরখানেক। নবী ﷺ সাফা পাহাড়ে কুরাইশদের ডেকে খোলাখুলি বলে দিয়েছেন কীসের দিকে ডাকছেন। শহর জবাব দিল প্রথমে ঠাট্টায়, তারপর হাত তুলে। মক্কায় শাসক ছিল না, আদালত ছিল না, পাহারাও না। মানুষ বাঁচত গোত্রের জোরে, কারণ ক্ষতি হলে গোত্র হিসাব চাইবে। এই ব্যবস্থা সরদারের ছেলেকে আগলে রাখত, আর দাসের পাশে দাঁড়ানোর কেউ থাকত না।" },
+      { en: "By about 614 CE the message had been public for a year. The Prophet ﷺ had called Quraysh up to as-Safa and named what he was calling them to, and the city answered first with ridicule and then with hands. Makkah had no ruler, no court and no police. A man was safe because his clan would answer for him, which protected a chief's son and left a slave with nobody. The sources do not fix when the house of al-Arqam came into use: some accounts place the meetings there in the quiet years, others once the call had gone public.", bn: "৬১৪ খ্রিস্টাব্দের কাছাকাছি সময়ে দাওয়াত প্রকাশ্য হয়েছে বছরখানেক। নবী ﷺ সাফা পাহাড়ে কুরাইশদের ডেকে খোলাখুলি বলে দিয়েছেন কীসের দিকে ডাকছেন। শহর জবাব দিল প্রথমে ঠাট্টায়, তারপর হাত তুলে। মক্কায় শাসক ছিল না, আদালত ছিল না, পাহারাও না। মানুষ বাঁচত গোত্রের জোরে, কারণ ক্ষতি হলে গোত্র হিসাব চাইবে। এই ব্যবস্থা সরদারের ছেলেকে আগলে রাখত, আর দাসের পাশে দাঁড়ানোর কেউ থাকত না। আরকামের ঘরটি ঠিক কবে থেকে ব্যবহার হতে শুরু করে, সূত্রগুলো তা নির্দিষ্ট করে বলে না: কোনো বর্ণনা বৈঠকগুলোকে নীরব বছরগুলোতেই রাখে, কোনোটি দাওয়াত প্রকাশ্য হওয়ার পরে।" },
       { en: "A place was needed and it had to be steady. Ibn Ishaq records that the believers went out to the ravines around Makkah to pray unseen, and that one such gathering was found and abused. A ravine hides a prayer for an hour; it teaches nobody. What was needed was a room where a man could hear what had come down, learn the prayer, and say the shahadah aloud without the news reaching the sanctuary by evening.", bn: "জায়গা দরকার ছিল, আর সেটা হতে হতো পাকাপোক্ত। ইবনে ইসহাক লিখেছেন, ঈমানদাররা মক্কার আশপাশের গিরিপথে গিয়ে আড়ালে সালাত পড়তেন, আর একবার তেমন এক জমায়েত ধরা পড়ে যায়। গিরিপথ এক ঘণ্টার সালাত আড়াল করতে পারে, কাউকে শেখাতে পারে না। দরকার ছিল একটা ঘর। যেখানে বসে শোনা যাবে কী নাযিল হয়েছে, শেখা যাবে সালাতের নিয়ম, আর কালিমা মুখে বলা যাবে এমনভাবে যাতে সন্ধ্যার আগেই খবরটা কাবার চত্বরে না পৌঁছায়।" },
     ] },
     { h: { en: "A Door Nobody Watched", bn: "যে দরজায় কেউ নজর রাখেনি" }, p: [
@@ -6064,8 +6064,8 @@ var SEERAH_ARTICLES = {
         h: { en: "A Vision Made Good", bn: "স্বপ্ন যেভাবে সত্য হলো" },
         p: [
           {
-            en: "48:27 had come down on the road home from Hudaybiyyah a year earlier: you will surely enter al-Masjid al-Haram, if Allah wills, in safety, with heads shaved and hair shortened, not fearing. Every clause of it was performed in these three days. The promise came while an army walked away empty-handed, and tapping the reference now meets pledge and receipt together.",
-            bn: "৪৮:২৭ নেমেছিল এক বছর আগে, হুদায়বিয়া থেকে ফেরার পথে: আল্লাহর ইচ্ছায় তোমরা অবশ্যই মাসজিদে হারামে ঢুকবে নিরাপদে, মাথা মুণ্ডিয়ে বা চুল ছেঁটে, কোনো ভয় ছাড়া। এই তিন দিনে আয়াতের প্রতিটি কথা অক্ষরে অক্ষরে ঘটল। কথাটা দেওয়া হয়েছিল যখন বাহিনী খালি হাতে ফিরে আসছে। আজ কেউ আয়াতটিতে চাপ দিলে একসাথেই দেখবেন প্রতিশ্রুতি আর তার রসিদ।",
+            en: "48:27 had come down on the road home from Hudaybiyyah a year earlier: you will surely enter al-Masjid al-Haram, if Allah wills, in safety, with heads shaved and hair shortened, not fearing. Every clause of it was performed in these three days. The promise came while an army walked away empty-handed, and whoever reads the verse now meets pledge and receipt together.",
+            bn: "৪৮:২৭ নেমেছিল এক বছর আগে, হুদায়বিয়া থেকে ফেরার পথে: আল্লাহর ইচ্ছায় তোমরা অবশ্যই মাসজিদে হারামে ঢুকবে নিরাপদে, মাথা মুণ্ডিয়ে বা চুল ছেঁটে, কোনো ভয় ছাড়া। এই তিন দিনে আয়াতের প্রতিটি কথা অক্ষরে অক্ষরে ঘটল। কথাটা দেওয়া হয়েছিল যখন বাহিনী খালি হাতে ফিরে আসছে। আজ কেউ আয়াতটি পড়লে একসাথেই দেখবেন প্রতিশ্রুতি আর তার রসিদ।",
           },
           {
             en: "The commentators attach 2:194 to this visit, the sacred month for the sacred month, which is why the classical books also name it Umrat al-Qisas: one Dhul-Qa'dah barred, another kept. 5:2 sits beside it, warning believers not to let hatred of a people who barred them from the Sacred Mosque carry them into transgression. That is the restraint the three days demanded.",
@@ -6885,8 +6885,8 @@ var SEERAH_ARTICLES = {
             bn: "এখানে হজের আমির আবু বকর (রাঃ), আর বছরখানেকের কিছু বেশি সময় পরেই শেষ অসুখের দিনগুলোতে মদিনায় নামাজে ইমামতির হুকুম পাবেন এই মানুষটিই। মিনার গলাটি আলী (রাঃ)-এর। পরের যুগগুলো এই জোড়ার একাধিক ব্যাখ্যা দাঁড় করিয়েছে, আর এই বিবরণ সেখানে কোনো পক্ষ নেয় না।"
           },
           {
-            en: "Abu Hurayrah (RA) belongs in the picture too. He had reached Madinah while the army was away at Khaybar, so he had been a Muslim under three years when a ruling was put in his mouth to shout across a valley. The pilgrimage that season was staffed by men at every stage of their own history with the Prophet ﷺ, the earliest believers beside some of the most recent.",
-            bn: "ছবিটিতে আবু হুরাইরা (রাঃ)-এরও জায়গা আছে। খায়বারে বাহিনী থাকতে থাকতেই তিনি মদিনায় পৌঁছেছিলেন, ফলে তিন বছরও হয়নি তখন তাঁর ইসলামের বয়স। অথচ গোটা উপত্যকায় চিৎকার করে শোনানোর মতো একটি হুকুম তাঁর মুখে তুলে দেওয়া হলো। সে মৌসুমের হজ চলেছে এমন মানুষদের হাতে, নবী ﷺ-এর সঙ্গে যাঁদের পথ শুরু হয়েছে নানা সময়ে, কেউ সবার আগে, কেউ একেবারে শেষের দিকে।"
+            en: "Abu Hurayrah (RA) belongs in the picture too. He had reached Madinah while the army was away at Khaybar, so he had been with the Prophet ﷺ under three years when a ruling was put in his mouth to shout across a valley. The pilgrimage that season was staffed by men at every stage of their own history with the Prophet ﷺ, the earliest believers beside some of the most recent.",
+            bn: "ছবিটিতে আবু হুরাইরা (রাঃ)-এরও জায়গা আছে। খায়বারে বাহিনী থাকতে থাকতেই তিনি মদিনায় পৌঁছেছিলেন, ফলে নবী ﷺ-এর সাহচর্যে তখনও তাঁর তিন বছর পূর্ণ হয়নি। অথচ গোটা উপত্যকায় চিৎকার করে শোনানোর মতো একটি হুকুম তাঁর মুখে তুলে দেওয়া হলো। সে মৌসুমের হজ চলেছে এমন মানুষদের হাতে, নবী ﷺ-এর সঙ্গে যাঁদের পথ শুরু হয়েছে নানা সময়ে, কেউ সবার আগে, কেউ একেবারে শেষের দিকে।"
           }
         ]
       },
@@ -7023,7 +7023,7 @@ var SEERAH_ARTICLES = {
         h: { en: "Safar of the Eleventh Year", bn: "একাদশ সনের সফর মাস" },
         p: [
           {
-            en: "The Prophet ﷺ came back from the Farewell Pilgrimage in Dhul-Hijjah of the tenth year and spent Muharram in Madinah. In Safar of the eleventh year, 632 CE, he ordered an expedition north towards the Byzantine frontier, into the country where his freedman Zayd ibn Harithah (RA) had been killed at Mutah under three years earlier. The illness that ended his life began in the same weeks.",
+            en: "The Prophet ﷺ came back from the Farewell Pilgrimage in Dhul-Hijjah of the tenth year and spent Muharram in Madinah. In Safar of the eleventh year, 632 CE, he ordered an expedition north towards the Byzantine frontier, into the country where his freedman Zayd ibn Harithah (RA) had been killed at Mu'tah under three years earlier. The illness that ended his life began in the same weeks.",
             bn: "হিজরি দশম সনের জিলহজে বিদায় হজ থেকে ফিরে নবী ﷺ মুহাররম মাসটা মদিনাতেই কাটান। একাদশ সনের সফর মাসে, ৬৩২ খ্রিস্টাব্দে, তিনি উত্তরে রোমান সীমান্তের দিকে অভিযানের হুকুম দেন। গন্তব্য সেই এলাকা, যেখানে তিন বছরেরও কম আগে মুতার যুদ্ধে শহিদ হয়েছিলেন তাঁর আজাদ করা দাস যায়েদ ইবনে হারিসা (রাঃ)। যে অসুখে তাঁর জীবন শেষ হয়, সেটি শুরু হয় এই সপ্তাহগুলোতেই।"
           },
           {
@@ -7079,7 +7079,7 @@ var SEERAH_ARTICLES = {
             bn: "উসামা ইবনে যায়েদ (রাঃ) বড় হয়েছেন ওই ঘরের ভেতরেই। যুদ্ধে কালিমা পড়া একজন মানুষকে হত্যা করার পর তিনি কড়া তিরস্কার শুনেছিলেন; প্রিয় কোনো মানুষের প্রতি নবী ﷺ-এর যত তিরস্কার বর্ণনায় আছে, তার মধ্যে এটিই সবচেয়ে কড়া। তারুণ্যের প্রতীক হিসেবে তাঁকে বাছা হয়নি। তিনি ছিলেন এমন একজন সৈনিক, যিনি একটি বড় ভুল করেছিলেন, প্রকাশ্যে শুধরে দেওয়া হয়েছিল তাঁকে, আর তিনি সেই সংশোধন সারা জীবন বয়ে নিয়েছেন।"
           },
           {
-            en: "Zayd ibn Harithah (RA), his father, had commanded at Mutah and died there, which is why the objective was the country it was. Umar ibn al-Khattab (RA) served in the ranks under a commander young enough to be his son. Ibn Sa'd reports that as caliph he would still address Usamah as commander, because the Prophet ﷺ had died while that command stood over him.",
+            en: "Zayd ibn Harithah (RA), his father, had commanded at Mu'tah and died there, which is why the objective was the country it was. Umar ibn al-Khattab (RA) served in the ranks under a commander young enough to be his son. Ibn Sa'd reports that as caliph he would still address Usamah as commander, because the Prophet ﷺ had died while that command stood over him.",
             bn: "তাঁর বাবা যায়েদ ইবনে হারিসা (রাঃ) মুতায় বাহিনীর নেতৃত্ব দিয়ে সেখানেই শহিদ হন, আর সেজন্যই অভিযানের গন্তব্য ওই এলাকাটাই। উমর ইবনুল খাত্তাব (রাঃ) সাধারণ সৈনিক হিসেবে ছিলেন এমন এক আমিরের অধীনে, বয়সে যিনি তাঁর ছেলের মতো। ইবনে সাদ বলছেন, খলিফা হওয়ার পরও তিনি উসামাকে আমির বলেই সম্বোধন করতেন, কারণ সেই নেতৃত্ব তাঁর উপর বহাল থাকতেই নবী ﷺ ইন্তেকাল করেছিলেন।"
           }
         ]

@@ -93,6 +93,12 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN item: why-islam 16.qa.0.a "much of South and West Africa" probably means East and West Africa (EN change
   would orphan 13 translations of that string; fix with a retranslation of one string).
 
+## Article i18n wave 2 (2026-10-16, user picked "translation gaps"): IN PROGRESS
+- Remaining: id A6-A10, then es ms tr fa fr de ru zh ja (A1-A10 each). One agent per chunk x language, 8 in parallel,
+  prompt = TRANSLATE.md + STYLE-<lang>.md, parts in work/A<n>/<lang>-parts/, gate check.js A<n> <lang> CLEAN.
+- Resume: a chunk is done when work/A<n>/tr-<lang>.json passes check.js; merge with `articles.js merge <lang> --write`
+  once all 10 chunks of a language pass; flags of English errors go to a fact-checker before later languages reuse them.
+
 ## Article i18n wave (2026-10-15): ur + ar + hi DONE, committed v956 (not pushed/deployed; v952-v956 all unpushed)
 - 238 articles (Sahaba/Seerah/Prophets), 4,373 strings, 222k words per language. data/content-i18n/art-<module>/<id>/
   <lang>.json; modules' lc(o, ns) with ns 'art-<module>/<id>'. tools/content-i18n/articles.js extract | merge <lang>
