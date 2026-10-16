@@ -41,7 +41,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Fa-yakidu laka kaydan pairs the verb with its own noun, and at-Tabari notes that kaydan is there for emphasis. The small word laka, against you, is read differently: al-Baghawi calls its lam a connective, al-Qurtubi calls it emphasis. On kayd itself they agree. At-Tabari glosses it as seeking out calamities for him and standing in open enmity, and Ibn Kathir as a stratagem to bring about his ruin.",
-            "bn": "ফা-ইয়াকীদূ লাকা কাইদা। এখানে ক্রিয়ার সঙ্গে জুড়ে দেওয়া হয়েছে তারই বিশেষ্য, আর তাবারী বলেন, কাইদা শব্দটি এসেছে জোর দেওয়ার জন্য। লাকা, অর্থাৎ তোমার বিরুদ্ধে, এই ছোট্ট শব্দের লাম নিয়ে পাঠ ভিন্ন। বাগাভী একে বলেন সংযোজক, কুরতুবী বলেন জোর দেওয়ার লাম। কাইদ মানে কী, তাতে অবশ্য মতভেদ নেই। তাবারীর ব্যাখ্যায়, তার জন্য বিপদ খুঁজে বেড়ানো আর প্রকাশ্য শত্রুতায় দাঁড়ানো। ইবনে কাসীরের ব্যাখ্যায়, তাকে ধ্বংস করার ফন্দি।"
+            "bn": "ফা-ইয়াকীদূ লাকা কাইদা। ক্রিয়ার পাশেই বসেছে একই ধাতুর বিশেষ্য, আর তাবারী বলেন, কাইদা শব্দটি এসেছে জোর দেওয়ার জন্য। লাকা মানে তোমার বিরুদ্ধে। এই ছোট্ট শব্দের লাম নিয়ে দুই রকম ব্যাখ্যা আছে: বাগাভী একে বলেন সংযোগের লাম, কুরতুবী বলেন জোর দেওয়ার লাম। তবে কাইদ মানে কী, তাতে তাঁরা একমত। তাবারীর ব্যাখ্যায়, তার জন্য বিপদ খুঁজে বেড়ানো আর খোলাখুলি শত্রুতায় নামা। ইবনে কাসীরের ব্যাখ্যায়, তাকে ধ্বংস করার ফন্দি।"
           },
           {
             "en": "In 12:6 the verbs turn to Allah. Yajtabika, He will choose you: al-Qurtubi defines ijtiba' as choosing the loftiest of matters for the chosen, and cites an-Nahhas for its root in jabaytu, I gathered in, as water is gathered into a basin. Ta'wil, al-Baghawi explains, is what the end of a matter comes to; dream interpretation bears the name because events come round to what was seen. Wa-kadhalika, and thus, ties the reading to the dream: as your Lord showed you this, at-Tabari and Ibn Kathir gloss it, so will He choose you.",
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse could have ended on the brothers. It ends on Satan instead: inna ash-shaytana lil-insani 'aduwwun mubin. At-Tabari reads it as the point of the warning: beware of Satan stirring your brothers against you through envy. Al-Baghawi says Satan makes the plot look fair to them, out of his ancient enmity. As-Sa'di, in the text fetched for 12:6, says Satan never slackens, so staying away from whatever gives him a hold is the better course.",
-            "bn": "আয়াতটি ভাইদের কথা বলে শেষ হতে পারত। শেষ হয়েছে শয়তানের কথায়: ইন্নাশ শাইতানা লিল ইনসানি আদুওয়ুম মুবীন। তাবারীর কাছে এটাই সাবধানবাণীর মূল কথা: শয়তান যেন হিংসার পথ ধরে তোমার ভাইদের তোমার বিরুদ্ধে উসকে না দেয়, তার থেকে সাবধান থাকো। বাগাভী বলেন, নিজের পুরোনো শত্রুতা থেকে শয়তান চক্রান্তটাকে তাদের চোখে সুন্দর করে দেখায়। সাদী, ১২:৬ আয়াতের জন্য আনা পাঠে, বলেন শয়তান কখনো ঢিলে দেয় না। তাই যেসব পথে সে চেপে বসে, সেগুলো থেকে দূরে থাকাই উত্তম।"
+            "bn": "আয়াতটি ভাইদের কথা বলে শেষ হতে পারত। শেষ হয়েছে শয়তানের কথায়: ইন্নাশ শাইতানা লিল ইনসানি আদুওয়ুম মুবীন। তাবারীর কাছে এটাই সাবধানবাণীর মূল কথা: সাবধান থাকো, শয়তান যেন হিংসা জাগিয়ে তোমার ভাইদের তোমার বিরুদ্ধে উসকে না দেয়। বাগাভী বলেন, শয়তানের শত্রুতা বহু পুরোনো, আর সেই শত্রুতা থেকেই সে চক্রান্তটাকে তাদের চোখে সুন্দর করে দেখায়। ১২:৬ আয়াতের যে পাঠ দেখা হয়েছে, তাতে সাদী বলেন, শয়তান কখনো ঢিলে দেয় না। তাই যেসব পথে সে চেপে বসার সুযোগ পায়, সেগুলো থেকে দূরে থাকাই উত্তম।"
           },
           {
             "en": "That matters, because the surah does not leave the brothers as villains. In 12:92 Yusuf (AS) tells them there is no blame on them today. In 12:97 and 12:98 they admit they were sinners and ask their father to seek forgiveness for them, and he promises he will. In 12:100 Yusuf (AS) names the cause of the rupture in this verse's terms: after Satan had sown estrangement between me and my brothers. The father's first word and the son's last agree about the enemy.",
@@ -65,7 +65,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two further questions divide the commentators. Did Yusuf (AS) keep the dream to himself? As-Sa'di says he obeyed and hid it; al-Baghawi, on 12:6, says that when the dream reached the brothers they envied him. And were the brothers prophets? Al-Qurtubi argues from their conduct that they were not prophets at that time, rejecting a statement from Ibn Zayd in at-Tabari's book that they were. Al-Baghawi, on 12:6, says Ya'qub's children were all prophets. Both questions stay where the commentators left them.",
-            "bn": "আরও দুটি প্রশ্নে মুফাসসিরদের মত আলাদা। ইউসুফ (আঃ) কি স্বপ্নের কথা গোপন রেখেছিলেন? সাদী বলেন, তিনি বাবার কথা মেনে ভাইদের কাছ থেকে তা লুকিয়ে রেখেছিলেন। বাগাভী ১২:৬ আয়াতের আলোচনায় বলেন, স্বপ্নের খবর ভাইদের কানে পৌঁছলে তারা তাকে হিংসা করতে লাগল। দ্বিতীয় প্রশ্ন, ভাইয়েরা কি নবী ছিলেন? কুরতুবী তাদের আচরণ থেকে যুক্তি দেন যে সে সময়ে তারা নবী ছিলেন না, আর তাবারীর কিতাবে ইবনে যায়দের যে বক্তব্য আছে যে তারা নবী ছিলেন, তা নাকচ করেন। অন্যদিকে বাগাভী ১২:৬ আয়াতে ইয়াকুবের পরিবারের ব্যাখ্যায় বলেন, তাঁর সন্তানেরা সবাই নবী ছিলেন। মুফাসসিররা প্রশ্ন দুটি যেখানে রেখে গেছেন, এ লেখাও সেখানেই রাখছে।"
+            "bn": "আরও দুটি প্রশ্নে মুফাসসিরদের মত আলাদা। ইউসুফ (আঃ) কি স্বপ্নের কথা গোপন রেখেছিলেন? সাদী বলেন, তিনি বাবার কথা মেনে তা লুকিয়ে রেখেছিলেন। আর বাগাভী ১২:৬ আয়াতের আলোচনায় বলেন, স্বপ্নের খবর ভাইদের কানে পৌঁছলে তারা তাঁকে হিংসা করতে লাগল। দ্বিতীয় প্রশ্ন, ভাইয়েরা কি নবী ছিলেন? কুরতুবী তাদের আচরণ দেখে যুক্তি দেন, তখন তারা নবী ছিলেন না। তাবারীর কিতাবে ইবনে যায়দের একটি বক্তব্য আছে যে তারা নবী ছিলেন; কুরতুবী সেটি নাকচ করেন। অন্যদিকে বাগাভী ১২:৬ আয়াতের আলোচনায় বলেন, ইয়াকুবের সন্তানেরা সবাই নবী ছিলেন। মুফাসসিররা প্রশ্ন দুটি যেখানে রেখে গেছেন, এ লেখাও সেখানেই রাখছে।"
           }
         ]
       },
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What is ta'wil al-ahadith? At-Tabari explains it as knowledge of what people's accounts of their dreams come to, citing Mujahid: the reading of dreams. Ibn Kathir cites Mujahid and others to the same effect. At-Tabari also records Ibn Zayd, who called it knowledge and speech and recited 12:22 with it. Al-Qurtubi reports agreement that it means dream interpretation, then adds another reading: the accounts of nations and scriptures and the proofs of tawhid, which points to prophethood. As-Sa'di holds both: dreams, and what true accounts such as the revealed books come to.",
-            "bn": "তাবীলুল আহাদীস বলতে কী বোঝায়? তাবারী একে বোঝান এভাবে: মানুষ ঘুমে যা দেখে বর্ণনা করে, তা শেষে কোথায় গিয়ে দাঁড়ায় সেই জ্ঞান। সঙ্গে আনেন মুজাহিদের কথা, স্বপ্নের ব্যাখ্যা। ইবনে কাসীরও মুজাহিদসহ আরও কয়েকজনের বরাতে একই কথা বলেন। তাবারী ইবনে যায়দের মতও লিখে রাখেন, যিনি একে বলেছেন জ্ঞান আর কথা, আর এর সঙ্গে ১২:২২ আয়াত তিলাওয়াত করেছেন। কুরতুবী জানান, এর অর্থ স্বপ্নের ব্যাখ্যা হওয়ায় সবাই একমত। তারপর আরেকটি পাঠ যোগ করেন: জাতিসমূহের ঘটনা, আসমানি কিতাব আর তাওহীদের দলিল, যা নবুওয়াতের দিকে ইঙ্গিত করে। সাদী দুটিকেই ধরেন: স্বপ্নের ব্যাখ্যা, আর আসমানি কিতাবের মতো সত্য বাণী কোথায় গিয়ে দাঁড়ায় তার ব্যাখ্যা।"
+            "bn": "তাবীলুল আহাদীস বলতে কী বোঝায়? তাবারী বলেন, মানুষ যে স্বপ্নের কথা বলে, তা শেষে কোথায় গিয়ে দাঁড়ায়, সেই জ্ঞান। সঙ্গে আনেন মুজাহিদের কথা: স্বপ্নের ব্যাখ্যা। ইবনে কাসীরও মুজাহিদসহ আরও কয়েকজনের বরাতে একই কথা বলেন। তাবারী ইবনে যায়দের মতও লিখে রাখেন। তিনি একে বলেছেন জ্ঞান আর কথা, আর এর সঙ্গে ১২:২২ আয়াত তিলাওয়াত করেছেন। কুরতুবী জানান, এর অর্থ যে স্বপ্নের ব্যাখ্যা, এ ব্যাপারে সবাই একমত। তারপর তিনি আরেকটি অর্থ যোগ করেন: জাতিসমূহের ঘটনা, আসমানি কিতাব আর তাওহীদের দলিল, যা নবুওয়াতের দিকে ইঙ্গিত করে। সাদী দুটিকেই ধরেন: স্বপ্নের ব্যাখ্যা, আর আসমানি কিতাবের মতো সত্য বাণী কোথায় গিয়ে দাঁড়ায় তার ব্যাখ্যা।"
           },
           {
             "en": "What completes the favour? Ibn Kathir says his being sent as a messenger and receiving revelation; the Muyassar, prophethood and messengership. Al-Qurtubi gives prophethood first, then bringing his brothers to him, or rescue from every harm. As-Sa'di widens it to good in this world and the next. At-Tabari reads the family of Ya'qub as the people of Ya'qub's religion, from his offspring and others, while al-Qurtubi reports a group of commentators who took it as a promise of prophethood to all Ya'qub's sons.",
@@ -121,7 +121,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The completed favour has sisters too. 48:2 promises the Prophet ﷺ that Allah will complete His favour upon him, and 5:3 tells this ummah that today He has completed it upon them, the verb Ya'qub (AS) used of Ibrahim and Ishaq. And 93:11 tells the Prophet ﷺ to proclaim the favour of his Lord. Set beside 12:5, it marks the limit of the caution: al-Qurtubi's ruling concerns keeping a blessing from someone whose harm is feared, not hiding every blessing from everyone.",
-            "bn": "পূর্ণ নিয়ামতেরও সহোদর আয়াত আছে। ৪৮:২ আয়াতে নবী ﷺ-কে প্রতিশ্রুতি দেওয়া হয়েছে, আল্লাহ তাঁর উপর নিজের নিয়ামত পূর্ণ করবেন। ৫:৩ আয়াতে এই উম্মাহকে জানানো হয়েছে, আজ তিনি তাদের উপর তা পূর্ণ করলেন। ইবরাহীম ও ইসহাকের বেলায় ইয়াকুব (আঃ) এই ক্রিয়াটিই ব্যবহার করেছিলেন। আর ৯৩:১১ আয়াত নবী ﷺ-কে বলে তাঁর রবের নিয়ামতের কথা প্রকাশ করতে। ১২:৫ আয়াতের পাশে রাখলে এ আয়াত সাবধানতার সীমা টেনে দেয়। কুরতুবীর বিধান হলো, যার দিক থেকে ক্ষতির ভয় আছে তার কাছ থেকে নিয়ামত আড়ালে রাখা। সবার কাছ থেকে সব নিয়ামত লুকিয়ে রাখা নয়।"
+            "bn": "পূর্ণ নিয়ামতের কথা আরও কয়েকটি আয়াতে আছে। ৪৮:২ আয়াতে আল্লাহ নবী ﷺ-কে কথা দেন, তিনি তাঁর উপর নিজের নিয়ামত পূর্ণ করবেন। ৫:৩ আয়াতে তিনি এই উম্মাহকে জানান, আজ তিনি তাদের উপর তা পূর্ণ করলেন। ইবরাহীম ও ইসহাকের বেলায় ইয়াকুব (আঃ) এই ক্রিয়াটিই ব্যবহার করেছিলেন। আর ৯৩:১১ আয়াত নবী ﷺ-কে বলে তাঁর রবের নিয়ামতের কথা প্রকাশ করতে। ১২:৫ আয়াতের পাশে রাখলে এ আয়াত সাবধানতার সীমা টেনে দেয়। কুরতুবীর বিধান হলো, যার দিক থেকে ক্ষতির ভয় আছে তার কাছ থেকে নিয়ামত আড়ালে রাখা। সবার কাছ থেকে সব নিয়ামত লুকিয়ে রাখা নয়।"
           }
         ]
       },
@@ -241,7 +241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Read carefully, the principle is narrow. It says tears are not proof of truth. It does not say they are proof of a lie, and nothing in the verse makes weeping suspect in itself. The brothers' tears are exposed by what the rest of the surah reveals about that day, not by the fact that they wept. Nor did they move the father to accept the story, as 12:18 shows; his reply belongs to that verse and its article.",
-            "bn": "মনোযোগ দিয়ে পড়লে নীতিটা খুব সীমিত। এর কথা শুধু এটুকু: কান্না সত্যের প্রমাণ নয়। কান্না মিথ্যার প্রমাণ, এমন কথা এতে নেই। কাঁদাটাই সন্দেহের বিষয়, আয়াতেও এমন কোনো ইঙ্গিত নেই। ভাইদের কান্নার আসল রূপ বেরিয়ে আসে সেদিনের ব্যাপারে বাকি সূরা যা খুলে বলে তা দিয়ে, তারা কেঁদেছিল বলে নয়। আর এই কান্না দেখে বাবা গল্পটা মেনেও নেননি, ১২:১৮ আয়াতেই তা স্পষ্ট। তাঁর জবাব ওই আয়াত আর তার প্রবন্ধের বিষয়।"
+            "bn": "মনোযোগ দিয়ে পড়লে বোঝা যায়, নীতিটা খুব সীমিত। এটুকুই বলে: কান্না সত্যের প্রমাণ নয়। কান্না মিথ্যার প্রমাণ, এমন কথা এতে নেই। কাঁদাটাই সন্দেহজনক, আয়াতে এমন কোনো ইঙ্গিতও নেই। ভাইদের কান্নার আসল রূপ ধরা পড়ে, কারণ বাকি সূরা সেদিনের ঘটনা খুলে বলে দেয়; তারা কেঁদেছিল বলে নয়। আর এই কান্না দেখে বাবা তাদের গল্প মেনেও নেননি, ১২:১৮ আয়াতেই তা স্পষ্ট। তাঁর জবাব ওই আয়াত আর তার প্রবন্ধের বিষয়।"
           }
         ]
       },
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "In each of those places Allah Himself testifies to what the tears meant, and tears are His gift, which is why their use at 12:16 lands as it does. 4:108 describes those who hide from people but cannot hide from Allah, who is with them when they spend the night plotting words He does not accept. The dark hid faces from an old man at a door, and nothing from Him. And 12:58 brings the verb back: the brothers of Yusuf came and entered upon him, and he knew them while they did not know him.",
-            "bn": "ওই প্রতিটি জায়গায় কান্নার মানে কী ছিল, আল্লাহ নিজেই তার সাক্ষী। কান্না তাঁরই দেওয়া নিয়ামত, তাই ১২:১৬ আয়াতে এর ব্যবহার পাঠকের মনে এমন করে বাজে। ৪:১০৮ আয়াত বলে এমন লোকদের কথা, যারা মানুষের কাছ থেকে লুকায়, কিন্তু আল্লাহর কাছ থেকে পারে না। রাতে যখন তারা তাঁর অপছন্দের কথার পরামর্শ করে, তখনও তিনি তাদের সঙ্গে থাকেন। অন্ধকার দরজার এক বৃদ্ধের কাছ থেকে চেহারা আড়াল করেছিল, তাঁর কাছ থেকে কিছুই নয়। আর ১২:৫৮ আয়াতে একই ক্রিয়া ফিরে আসে: ইউসুফের ভাইয়েরা এল, তাঁর সামনে হাজির হলো। তিনি তাদের চিনলেন, তারা তাঁকে চিনল না।"
+            "bn": "ওই প্রতিটি জায়গায় কান্নার মানে কী ছিল, আল্লাহ নিজেই তার সাক্ষী। কান্না তাঁরই দান। তাই ১২:১৬ আয়াতে কান্নার এমন ব্যবহার পাঠকের মনে এত জোরে বাজে। ৪:১০৮ আয়াত বলে এমন লোকদের কথা, যারা মানুষের কাছ থেকে লুকায়, কিন্তু আল্লাহর কাছ থেকে লুকাতে পারে না। রাতে যখন তারা তাঁর অপছন্দের কথা নিয়ে শলাপরামর্শ করে, তখনও তিনি তাদের সঙ্গেই থাকেন। দরজায় দাঁড়ানো এক বৃদ্ধের চোখ থেকে অন্ধকার তাদের চেহারা আড়াল করেছিল, কিন্তু আল্লাহর কাছ থেকে কিছুই আড়াল করতে পারেনি। আর ১২:৫৮ আয়াতে একই ক্রিয়া ফিরে আসে: ইউসুফের ভাইয়েরা এল, তাঁর সামনে হাজির হলো। তিনি তাদের চিনলেন, তারা তাঁকে চিনল না।"
           }
         ]
       },
@@ -289,7 +289,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is about other people's tears only in the second place. First it is a mirror. Most people who have done wrong have felt the pull to arrange the setting: to explain by message rather than face to face, late rather than early, with a catch in the voice doing work the facts cannot. If a wrong is hard to admit by day, that difficulty is modesty doing its work. The honest course is to admit it anyway, in the light, looking at the person.",
-            "bn": "আয়াতটি অন্যের কান্না নিয়ে, তবে সেটা দ্বিতীয় কথা। প্রথমে এটি একটা আয়না। অন্যায় করে ফেলা প্রায় সব মানুষই পরিবেশটা সাজিয়ে নেওয়ার টান অনুভব করেছেন। সামনাসামনি না বলে মেসেজে জানানো, সময় থাকতে না বলে দেরিতে বলা, গলায় এমন কাঁপুনি আনা যা ঘটনার সত্য দিয়ে সম্ভব নয়। দিনের আলোয় অপরাধ স্বীকার করতে কষ্ট হলে বুঝতে হবে, লজ্জা তার কাজ করছে। সৎ পথ হলো তবুও স্বীকার করা, আলোয় দাঁড়িয়ে, মানুষটার চোখে চোখ রেখে।"
+            "bn": "এ আয়াত অন্যের কান্না নিয়ে, তবে সেটা পরের কথা। আগে এটা একটা আয়না। অন্যায় করার পর প্রায় সবারই মন চায় পরিবেশটা নিজের মতো সাজিয়ে নিতে: সামনাসামনি না বলে মেসেজে জানানো, সময়মতো না বলে দেরিতে বলা, গলায় এমন কাঁপুনি আনা, যা দিয়ে সেই কাজ হাসিল হয় যা আসল ঘটনা দিয়ে হতো না। দিনের আলোয় অন্যায় স্বীকার করতে কষ্ট হলে বুঝবেন, লজ্জা তার কাজ করছে। সৎ পথ হলো তবুও স্বীকার করা, আলোয় দাঁড়িয়ে, মানুষটার চোখে চোখ রেখে।"
           },
           {
             "en": "The chain in the narration can be broken at any link, and the earlier the cheaper. A small untruth told to cover a mistake at work, a missed payment or a promise broken to a child soon asks for a second to hold it up. The moment you notice that second request is the moment to stop. Say what happened, accept what follows, and ask Allah's forgiveness. The brothers' concealment ran for years before the confession of 12:97; nobody reading the surah has to wait as long.",
@@ -324,16 +324,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Shirt and a Wolf",
-          "bn": "একটি জামা ও একটি নেকড়ে"
+          "bn": "জামা আর নেকড়ে"
         },
         "p": [
           {
             "en": "The brothers come back with a story and a piece of evidence. 12:17 gives the story: we went racing and left Yusuf with our belongings, and a wolf ate him, and you would not believe us even if we were truthful. 12:18 gives the evidence, that they came with false blood upon his shirt. The Arabic is bi-damin kadhib, blood qualified by a word for lying, so that grammatically the liar is the blood itself rather than the men carrying it.",
-            "bn": "ভাইয়েরা ফিরে আসে একটি গল্প আর একটি প্রমাণ নিয়ে। 12:17 আয়াতে গল্পটি: আমরা দৌড় প্রতিযোগিতা করছিলাম আর ইউসুফকে আমাদের জিনিসপত্রের কাছে রেখে গিয়েছিলাম, তখন তাকে নেকড়ে খেয়ে ফেলল; আর আমরা সত্যবাদী হলেও আপনি আমাদের বিশ্বাস করবেন না। 12:18 আয়াতে প্রমাণটি: তারা তার জামায় মিথ্যা রক্ত মাখিয়ে নিয়ে এসেছিল। আরবি হলো বিদামিন কাযিব — রক্তকে বিশেষায়িত করা হয়েছে মিথ্যা বোঝানো একটি শব্দ দিয়ে, ফলে ব্যাকরণগতভাবে মিথ্যাবাদী রক্ত নিজেই, তা বয়ে আনা লোকগুলো নয়।"
+            "bn": "ভাইয়েরা ফিরে আসে একটা গল্প আর একটা প্রমাণ নিয়ে। গল্পটা আছে ১২:১৭ আয়াতে: আমরা দৌড়ের পাল্লা দিচ্ছিলাম, ইউসুফকে রেখে গিয়েছিলাম আমাদের জিনিসপত্রের কাছে, তখন নেকড়ে তাকে খেয়ে ফেলেছে; আর আমরা সত্য বললেও আপনি তো আমাদের বিশ্বাস করবেন না। প্রমাণটা ১২:১৮ আয়াতে: তারা তার জামায় মিথ্যা রক্ত লাগিয়ে নিয়ে এল। আরবিতে বিদামিন কাযিব। রক্তের বিশেষণ এখানে মিথ্যা বোঝানো একটি শব্দ। ফলে ব্যাকরণের দিক থেকে মিথ্যাবাদী স্বয়ং রক্ত, যারা তা বয়ে এনেছে তারা নয়।"
           },
           {
             "en": "The shirt is the object this surah keeps returning to. Here it carries blood that is not Yusuf's (AS). In 12:25-28 a different shirt, torn from the back, is read as testimony and clears him. In 12:93 he sends his own shirt to be cast over his father's face, and in 12:96 the sight returns. A garment manufactures a lie at the start of the story and delivers the truth at the end, and the same old man is on the receiving end of both.",
-            "bn": "জামাটিই সেই বস্তু, যেখানে এই সূরা বারবার ফিরে আসে। এখানে তাতে লেগে আছে এমন রক্ত যা ইউসুফ (আঃ)-এর নয়। 12:25-28 আয়াতে আরেকটি জামা, যা পেছন থেকে ছেঁড়া, সাক্ষ্য হিসেবে পড়া হয় এবং আযীযের গৃহে তাঁকে নির্দোষ প্রমাণ করে। 12:93 আয়াতে তিনি নিজের জামা পাঠান পিতার মুখমণ্ডলে রাখার জন্য, আর 12:96 আয়াতে দৃষ্টি ফিরে আসে। গল্পের শুরুতে একটি বস্ত্র দিয়ে মিথ্যা বানানো হয় আর শেষে সেই বস্ত্র দিয়েই সত্য পৌঁছে দেওয়া হয় — আর দুবারই গ্রহীতা সেই একই বৃদ্ধ পিতা।"
+            "bn": "এ সূরা বারবার একটা জিনিসের কাছে ফিরে আসে: জামা। এখানে জামায় লেগে আছে এমন রক্ত, যা ইউসুফ (আঃ)-এর নয়। ১২:২৫-২৮ আয়াতে আরেকটা জামা, পেছন থেকে ছেঁড়া। সেটাকে সাক্ষ্য হিসেবে পড়া হয়, আর তাতেই তিনি নির্দোষ প্রমাণিত হন। ১২:৯৩ আয়াতে তিনি নিজের জামা পাঠান বাবার মুখের উপর রাখার জন্য, আর ১২:৯৬ আয়াতে দৃষ্টি ফিরে আসে। কাহিনির শুরুতে একটা জামা দিয়ে মিথ্যা বানানো হয়, শেষে জামাই সত্য পৌঁছে দেয়। আর দুবারই যাঁর কাছে তা পৌঁছায়, তিনি সেই একই বৃদ্ধ বাবা।"
           }
         ]
       },
@@ -345,23 +345,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Yaqub's (AS) reply opens with bal, a particle that cancels what has just been said and substitutes something else. He does not argue about the wolf, ask for the body, or examine the cloth. He states: rather, your souls have enticed you to something. The verb sawwalat carries the sense of a matter being made attractive and easy in the mind until it is done. He describes the mechanism of the crime while declining to claim details he does not have.",
-            "bn": "ইয়াকুব (আঃ)-এর জবাব শুরু হয় 'বাল' দিয়ে — এমন এক অব্যয় যা মাত্র বলা কথাটিকে বাতিল করে অন্য কিছু বসিয়ে দেয়। তিনি নেকড়ে নিয়ে তর্ক করেন না, লাশ চেয়ে বসেন না, কাপড়টিও পরীক্ষা করেন না। তিনি বলেন: বরং, তোমাদের প্রবৃত্তি তোমাদের একটি কাজে প্ররোচিত করেছে। 'সাওওয়ালাত' ক্রিয়াটির অর্থে আছে কোনো বিষয়কে মনের ভেতরে সুন্দর ও সহজ করে তোলা, যতক্ষণ না তা করে ফেলা হয়। তিনি অপরাধটির প্রক্রিয়া বর্ণনা করেন, অথচ যেসব বিবরণ তাঁর জানা নেই সেগুলো দাবি করতে অস্বীকার করেন।"
+            "bn": "ইয়াকুব (আঃ)-এর জবাব শুরু হয় 'বাল' দিয়ে। এই ছোট্ট শব্দটি সদ্য বলা কথাকে বাতিল করে তার জায়গায় অন্য কথা বসায়। তিনি নেকড়ে নিয়ে তর্ক করেন না, লাশ দেখতে চান না, কাপড়টাও পরখ করেন না। সোজা বলেন: বরং, তোমাদের প্রবৃত্তি তোমাদের একটি কাজে প্ররোচিত করেছে। 'সাওওয়ালাত' ক্রিয়ায় এই অর্থ আছে: কোনো কাজকে মনের ভেতরে এত সুন্দর আর সহজ করে দেখানো যে শেষে তা করেই ফেলা হয়। অপরাধটা কীভাবে ঘটল, তিনি সেটুকু বলে দেন। কিন্তু যেসব খুঁটিনাটি তাঁর জানা নেই, সেগুলোর দাবি করেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "Two Words With Something Missing",
-          "bn": "দুই শব্দ, যাতে কিছু অনুক্ত"
+          "bn": "দুই শব্দ, একটি কথা উহ্য"
         },
         "p": [
           {
             "en": "Then fa-sabrun jamil, and something in it is unstated. It is a nominal phrase in the nominative with no verb, and either its subject or its predicate left unexpressed, so the grammarians fill the gap in more than one way: my course is a beautiful patience, or beautiful patience is what is fitting. The app's English chooses so patience is most fitting; the Bengali has him say that he will hold to a complete patience. Both readings live inside the Arabic, and the ellipsis is why.",
-            "bn": "এরপর আসে ফাসবরুন জামীল, আর এর ভেতরে কিছু একটা অনুক্ত রয়ে যায়। এটি কর্তৃকারকে থাকা একটি নামবাচক বাক্যাংশ, যাতে কোনো ক্রিয়া নেই এবং উদ্দেশ্য বা বিধেয়ও উহ্য; তাই ব্যাকরণবিদগণ শূন্যস্থানটি একাধিকভাবে পূরণ করেন: 'আমার পথ হলো সুন্দর ধৈর্য', কিংবা 'সুন্দর ধৈর্যই শ্রেয়'। অ্যাপের ইংরেজি অনুবাদ বেছে নেয় 'ধৈর্যই সবচেয়ে উপযুক্ত'; আর বাংলা অনুবাদে তিনি বলেন যে তিনি পুরোপুরি ধৈর্য ধারণ করবেন। দুটি পাঠই আরবির ভেতরে বাস করে, আর এই উহ্যতাই তার কারণ।"
+            "bn": "এরপর আসে ফাসবরুন জামীল, আর এর ভেতরে একটা কথা না বলা রয়ে গেছে। এখানে কোনো ক্রিয়া নেই, শব্দ দুটি পেশযুক্ত নামপদ। বাক্যের উদ্দেশ্য বা বিধেয়, কোনো একটা উহ্য। তাই ব্যাকরণবিদেরা ফাঁকটা একাধিকভাবে পূরণ করেন: 'আমার পথ সুন্দর ধৈর্য', কিংবা 'সুন্দর ধৈর্যই শ্রেয়'। অ্যাপের ইংরেজি অনুবাদ বেছে নিয়েছে 'ধৈর্যই সবচেয়ে উপযুক্ত'; আর বাংলা অনুবাদে তিনি বলেন, তিনি পুরোপুরি ধৈর্য ধরবেন। দুটি পাঠেরই জায়গা আছে আরবিতে, আর তার কারণ এই উহ্যতা।"
           },
           {
             "en": "Jamil means beautiful, and the Quran attaches it to a small family of restraints; 15:85 does it for overlooking an injury. What is unusual here is the form. 70:5 gives the same two roots as a command to the Prophet ﷺ, fasbir sabran jamila, with a verb in the imperative and the noun in the accusative. In Yaqub's (AS) mouth there is no imperative and no verb at all. It is not an instruction issued to a man, but a description a man gives of himself at the moment the blow lands.",
-            "bn": "'জামীল' মানে সুন্দর, আর কুরআন শব্দটি জুড়ে দেয় সংযমের একটি ছোট পরিবারের সঙ্গে; 15:85 আয়াতে তা জুড়ে দেওয়া হয়েছে আঘাত উপেক্ষা করার সঙ্গে। এখানে অস্বাভাবিক ব্যাপারটি হলো গঠন। 70:5 আয়াতে একই দুটি ধাতু নবী ﷺ-এর প্রতি নির্দেশ হিসেবে আসে — ফাসবির সবরান জামীলা — যেখানে ক্রিয়াটি আদেশবাচক এবং বিশেষ্যটি কর্মকারকে। ইয়াকুব (আঃ)-এর মুখে কোনো আদেশবাচক শব্দ নেই, ক্রিয়াই নেই। এটি কাউকে দেওয়া নির্দেশ নয়, বরং আঘাত নেমে আসার মুহূর্তে একজন মানুষের নিজের সম্পর্কে দেওয়া বর্ণনা।"
+            "bn": "জামীল মানে সুন্দর। সংযমের অল্প কয়েকটি রূপের সঙ্গে কুরআন শব্দটি জুড়ে দেয়, যেমন ১৫:৮৫ আয়াতে আঘাত উপেক্ষা করার সঙ্গে। এখানে ব্যতিক্রম হলো বাক্যের গঠন। ৭০:৫ আয়াতে একই দুই ধাতু এসেছে নবী ﷺ-এর প্রতি আদেশ হিসেবে: ফাসবির সবরান জামীলা। সেখানে ক্রিয়াটি আদেশসূচক, আর বিশেষ্যটি যবরযুক্ত। ইয়াকুব (আঃ)-এর মুখে কোনো আদেশ নেই, ক্রিয়াই নেই। এটা কাউকে দেওয়া হুকুম নয়। আঘাত যে মুহূর্তে নেমে আসে, সে মুহূর্তে একজন মানুষ নিজের সম্পর্কে যা বলেন, এটা তা-ই।"
           }
         ]
       },
@@ -373,7 +373,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sixty-five verses later he says it again. In 12:83, after the brothers return from Egypt without Binyamin, his reply is word for word what he said here: rather, your souls have enticed you to something, so patience is most fitting. The app's English renders the two identically because the Arabic is identical. What differs is the clause each closes on, and that difference measures the distance travelled between them.",
-            "bn": "পঁয়ষট্টি আয়াত পরে তিনি কথাটি আবার বলেন। 12:83 আয়াতে, ভাইয়েরা যখন বিনয়ামীনকে ছাড়া মিসর থেকে ফেরে, তাঁর জবাব অক্ষরে অক্ষরে এখানকার কথাটিই: বরং, তোমাদের প্রবৃত্তি তোমাদের একটি কাজে প্ররোচিত করেছে, কাজেই ধৈর্যই শ্রেয়। অ্যাপের ইংরেজি অনুবাদ দুটিকে অভিন্নভাবে দেয়, কারণ আরবিটাই অভিন্ন; বাংলা অনুবাদ দুই জায়গায় দুইভাবে দিয়েছে। পার্থক্য কেবল শেষ বাক্যাংশে — আর সেই পার্থক্যই মেপে দেয়, এই দুইয়ের মাঝখানে মানুষটি কতদূর পথ হেঁটেছেন।"
+            "bn": "পঁয়ষট্টি আয়াত পরে তিনি কথাটা আবার বলেন। ১২:৮৩ আয়াতে, ভাইয়েরা যখন বিনয়ামীনকে ছাড়া মিসর থেকে ফেরে, তাঁর জবাব হুবহু এখানকার কথাই: বরং, তোমাদের প্রবৃত্তি তোমাদের একটি কাজে প্ররোচিত করেছে, কাজেই ধৈর্যই শ্রেয়। আরবি হুবহু এক বলে অ্যাপের ইংরেজি অনুবাদও দুই জায়গায় এক রেখেছে; বাংলা অনুবাদ অবশ্য দুই জায়গায় দুইভাবে দিয়েছে। তফাত শুধু শেষ বাক্যাংশে। আর সেই তফাতই মেপে দেয়, দুই মুহূর্তের মাঝে মানুষটি কতটা পথ পেরিয়ে এসেছেন।"
           }
         ]
       },
@@ -385,11 +385,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Here the close is wallahu al-musta'anu 'ala ma tasifun. Al-musta'an is a passive participle: the One whose help is sought. And the help is sought against ma tasifun, what you describe, not against the brothers themselves. Yaqub (AS) aims his recourse at the false account rather than at the men who brought it, which is a strikingly narrow target for a father just handed his son's bloodied shirt. 12:83 turns instead to hope — perhaps Allah will bring them all to me — and closes on His being the Knowing, the Wise.",
-            "bn": "এখানে সমাপ্তি হলো ওয়াল্লাহুল মুসতাআনু আলা মা তাসিফূন। 'আল-মুসতাআন' একটি কর্মবাচ্য কৃদন্ত পদ: যাঁর কাছে সাহায্য চাওয়া হয়। আর সাহায্য চাওয়া হচ্ছে 'মা তাসিফূন'-এর বিরুদ্ধে, অর্থাৎ তোমরা যা বর্ণনা করছ তার বিরুদ্ধে — ভাইদের বিরুদ্ধে নয়। ইয়াকুব (আঃ) তাঁর আশ্রয় তাক করেন মিথ্যা বিবরণটির দিকে, তা বয়ে আনা লোকদের দিকে নয়; সদ্য ছেলের রক্তমাখা জামা হাতে পাওয়া একজন পিতার জন্য এ এক আশ্চর্য রকম সংকীর্ণ লক্ষ্য। 12:83 বরং আশার দিকে যায়: সম্ভবত আল্লাহ তাদের সবাইকে আমার কাছে এনে দেবেন — আর শেষ হয় তিনি সর্বজ্ঞ ও প্রজ্ঞাময়, এই কথা দিয়ে।"
+            "bn": "এখানে আয়াত শেষ হয় এভাবে: ওয়াল্লাহুল মুসতাআনু আলা মা তাসিফূন। আল-মুসতাআন শব্দটি কর্মবাচ্যের রূপ: যাঁর কাছে সাহায্য চাওয়া হয়। আর সাহায্য চাওয়া হচ্ছে মা তাসিফূন, অর্থাৎ তোমরা যা বর্ণনা করছ, তার মোকাবিলায়। ভাইদের বিরুদ্ধে নয়। ইয়াকুব (আঃ) আল্লাহর আশ্রয় চান মিথ্যা বিবরণটির বিরুদ্ধে, যারা তা বয়ে এনেছে তাদের বিরুদ্ধে নয়। সদ্য ছেলের রক্তমাখা জামা হাতে পাওয়া এক বাবার জন্য লক্ষ্যটা আশ্চর্য রকম সরু। ১২:৮৩ আয়াত এর বদলে আশার দিকে ফেরে: হয়তো আল্লাহ তাদের সবাইকে আমার কাছে এনে দেবেন। আর শেষ হয় এ কথায় যে তিনি সর্বজ্ঞ, প্রজ্ঞাময়।"
           },
           {
             "en": "The phrase occurs once more in the Quran, at the very end of Surah al-Anbiya. In 21:112 the Prophet ﷺ says: my Lord, judge in truth; and our Lord is the Most Merciful, the One whose help is sought against what you describe. The same words, from a man facing lies about his message rather than about his son. In both places a false description of reality is in circulation, and neither speaker can pull it back by force.",
-            "bn": "কথাটি কুরআনে আর একবার আসে, সূরা আল-আম্বিয়ার একেবারে শেষে। 21:112 আয়াতে নবী ﷺ বলেন: হে আমার প্রতিপালক, সত্য দিয়ে ফয়সালা করে দিন; আর আমাদের প্রতিপালক পরম দয়াময়, তোমরা যা বর্ণনা করছ তার বিরুদ্ধে তাঁরই কাছে সাহায্য চাওয়া হয়। একই কথা, তবে এমন একজনের মুখে যিনি নিজের সন্তান নয়, নিজের বার্তা নিয়ে মিথ্যার প্রচারণার মুখোমুখি। দুই জায়গাতেই বাস্তবতা সম্পর্কে একটি মিথ্যা বিবরণ ছড়িয়ে দেওয়া হয়েছে, আর দুই বক্তার কেউই তা জোর করে ফিরিয়ে আনতে পারেন না।"
+            "bn": "কথাটা কুরআনে আর একবার এসেছে, সূরা আল-আম্বিয়ার একেবারে শেষে। ২১:১১২ আয়াতে নবী ﷺ বলেন: হে আমার প্রতিপালক, সত্য দিয়ে ফয়সালা করে দিন; আর আমাদের প্রতিপালক পরম দয়াময়, তোমরা যা বর্ণনা করছ তার মোকাবিলায় তাঁরই কাছে সাহায্য চাওয়া হয়। একই কথা, তবে এবার এমন একজনের মুখে, যাঁকে নিয়ে মিথ্যা ছড়ানো হচ্ছে তাঁর সন্তানকে ঘিরে নয়, তাঁর বার্তাকে ঘিরে। দুই জায়গাতেই বাস্তবতার একটা মিথ্যা বিবরণ মানুষের মুখে মুখে ঘুরছে, আর দুই বক্তার কেউই জোর খাটিয়ে তা ফিরিয়ে আনতে পারেন না।"
           }
         ]
       },
@@ -401,11 +401,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari and Muslim relate from Anas (RA) that the Prophet ﷺ passed a woman weeping at a grave and told her to fear Allah and be patient. Not recognising him, she told him to go away, since he had not been afflicted as she had. When she was told who he was she came to his door, found no doorkeepers there, and said she had not known him. He said: patience is only at the first strike.",
-            "bn": "বুখারী ও মুসলিম আনাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ এক কবরের পাশে কাঁদতে থাকা এক নারীর পাশ দিয়ে যাচ্ছিলেন এবং তাকে বলেন আল্লাহকে ভয় করতে ও ধৈর্য ধরতে। তাঁকে চিনতে না পেরে নারীটি তাঁকে সরে যেতে বলে, কারণ তার মতো বিপদ তো তাঁর ঘটেনি। পরে যখন তাকে জানানো হয় তিনি কে ছিলেন, নারীটি তাঁর দরজায় আসে, সেখানে কোনো দ্বাররক্ষী পায় না, আর বলে যে সে তাঁকে চিনতে পারেনি। তিনি বলেন: ধৈর্য তো প্রথম আঘাতের মুহূর্তেই।"
+            "bn": "বুখারী ও মুসলিম আনাস (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ এক কবরের পাশে কাঁদতে থাকা এক নারীর কাছ দিয়ে যাচ্ছিলেন। তিনি তাকে আল্লাহকে ভয় করতে আর ধৈর্য ধরতে বললেন। তাঁকে চিনতে না পেরে নারীটি তাঁকে চলে যেতে বলল, কারণ তার মতো বিপদে তো তিনি পড়েননি। পরে তাকে যখন জানানো হলো তিনি কে, সে তাঁর দরজায় এল। সেখানে কোনো দারোয়ান ছিল না। সে বলল, আমি আপনাকে চিনতে পারিনি। তিনি বললেন: ধৈর্য তো প্রথম আঘাতের মুহূর্তেই।"
           },
           {
             "en": "That is the hour this verse belongs to. Yaqub (AS) is not composed because time has softened anything; the blood on the cloth is still wet. What he does has three parts and they can be copied: name the wrong accurately, without inventing a version you cannot verify; decline to prosecute it yourself; and hand the false account to Allah. The grief ran on for decades. The first response set its direction.",
-            "bn": "এই আয়াতটি সেই মুহূর্তেরই। ইয়াকুব (আঃ) সংযত এ কারণে নন যে সময় কিছু নরম করে দিয়েছে; কাপড়ের রক্ত তখনো ভেজা। সেই মুহূর্তে তিনি যা করেন তার তিনটি অংশ, আর তিনটিই অনুসরণযোগ্য: অন্যায়টির সঠিক নাম দেওয়া, এমন কোনো বিবরণ না বানিয়ে যা যাচাই করা যায় না; নিজে তার বিচার করতে না বসা; আর গোটা মিথ্যা বিবরণটি আল্লাহর হাতে তুলে দেওয়া। শোক চলেছিল দশকের পর দশক। প্রথম প্রতিক্রিয়াটিই তার দিক ঠিক করে দিয়েছিল।"
+            "bn": "এ আয়াত ঠিক সেই মুহূর্তের। সময় কিছু নরম করে দিয়েছে বলে ইয়াকুব (আঃ) শান্ত আছেন, তা নয়; কাপড়ের রক্ত তখনো ভেজা। তিনি যা করেন তার তিনটি অংশ, আর তিনটিই অনুসরণ করা যায়। এক, অন্যায়টার ঠিক নাম দেওয়া, যাচাই করা যায় না এমন কোনো কাহিনি না বানিয়ে। দুই, নিজে তার বিচার করতে না বসা। তিন, মিথ্যা বিবরণটা আল্লাহর হাতে সঁপে দেওয়া। শোক চলেছিল দশকের পর দশক। কিন্তু প্রথম সাড়াটাই তার দিক ঠিক করে দিয়েছিল।"
           }
         ]
       }
@@ -493,7 +493,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the eight commentaries fetched for 12:25 attaches a prophetic hadith to it; what they carry are reports from Companions and their students on the meaning of words. A sound narration speaks to the scene all the same, and it is brought here as a general principle, not as something the commentators tied to this verse. Al-Bukhari relates it from Abu Hurayrah (RA), and at number 660 in his Sahih the Prophet ﷺ names seven whom Allah will shade.",
-            "bn": "১২:২৫ আয়াতের জন্য যে ৮টি তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবীজির কোনো হাদীস জুড়ে দেয়নি। সেগুলোতে আছে শব্দের অর্থ নিয়ে সাহাবী ও তাবিঈদের বর্ণনা। তবু একটি সহীহ হাদীস এই দৃশ্যের সঙ্গে কথা বলে। তাকে এখানে আনা হচ্ছে সাধারণ মূলনীতি হিসেবে, তাফসীরকারেরা একে এ আয়াতের সঙ্গে জুড়ে দিয়েছেন বলে নয়। বুখারী তা আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন। তাঁর সহীহ গ্রন্থের ৬৬০ নম্বর হাদীসে নবী ﷺ ৭ ধরনের মানুষের কথা বলেছেন, যাদের আল্লাহ ছায়া দেবেন।"
+            "bn": "১২:২৫ আয়াতের জন্য যে ৮টি তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবীজির কোনো হাদিস জুড়ে দেয়নি। সেগুলোতে আছে শব্দের অর্থ নিয়ে সাহাবী ও তাবিঈদের বর্ণনা। তবু একটি সহীহ হাদিস এই দৃশ্যের সঙ্গে মিলে যায়। হাদিসটি এখানে আনা হলো সাধারণ মূলনীতি হিসেবে, তাফসীরকারেরা একে এ আয়াতের সঙ্গে জুড়েছেন বলে নয়। বুখারী তা আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন। তাঁর সহীহ গ্রন্থের ৬৬০ নম্বর হাদিসে নবী ﷺ ৭ ধরনের মানুষের কথা বলেছেন, যাদের আল্লাহ ছায়া দেবেন।"
           },
           {
             "en": "In al-Bukhari's wording, the Prophet ﷺ said: \"Allah will give shade, to seven, on the Day when there will be no shade but His. (These seven persons are) a just ruler, a youth who has been brought up in the worship of Allah (i.e. worships Allah sincerely from childhood), a man whose heart is attached to the mosques (i.e. to pray the compulsory prayers in the mosque in congregation), two persons who love each other only for Allah's sake and they meet and part in Allah's cause only,",
@@ -533,7 +533,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Notice too whose words are whose. The sentence about women's plotting in 12:28 is spoken by the husband, and the Qur'an reports it as his speech. Al-Qurtubi finds in the torn shirt a basis for reasoning from what ordinarily happens, since a shirt pulled from behind tears at the back. Ma'arif al-Qur'an, on the next verse, says such signs are weighed in judging a dispute, though signs alone do not count as sufficient proof. The listener's lesson is care with every account.",
-            "bn": "কোন কথা কার, সেটাও খেয়াল রাখা দরকার। ১২:২৮ আয়াতে নারীদের চক্রান্ত নিয়ে যে বাক্য, তা স্বামীর মুখের কথা, আর কুরআন সেটাকে তার কথা হিসেবেই উদ্ধৃত করেছে। কুরতুবী ছেঁড়া জামার মধ্যে সাধারণত যা ঘটে তা থেকে যুক্তি টানার ভিত্তি খুঁজে পান, কারণ পেছন থেকে টানা জামা পেছনেই ছেঁড়ে। মাআরিফুল কুরআন পরের আয়াতের আলোচনায় বলে, বিবাদের মীমাংসায় এমন আলামত বিবেচনায় আসে, তবে শুধু আলামতকে যথেষ্ট প্রমাণ ধরা হয় না। শ্রোতার শিক্ষা তাই প্রতিটি ভাষ্যের বেলায় সতর্কতা।"
+            "bn": "কোন কথা কার, সেটাও খেয়াল রাখা দরকার। ১২:২৮ আয়াতে নারীদের চক্রান্ত নিয়ে যে বাক্য, তা স্বামীর মুখের কথা, আর কুরআন সেটা তার কথা হিসেবেই উদ্ধৃত করেছে। ছেঁড়া জামা থেকে কুরতুবী একটা ভিত্তি পান: সাধারণত যা ঘটে, তা দিয়ে যুক্তি দাঁড় করানো যায়। পেছন থেকে টানলে জামা তো পেছনেই ছেঁড়ে। মাআরিফুল কুরআন পরের আয়াতের আলোচনায় বলে, বিবাদের মীমাংসায় এমন আলামত বিবেচনায় আসে, তবে শুধু আলামতকে যথেষ্ট প্রমাণ ধরা হয় না। তাই শ্রোতার শিক্ষা হলো, প্রতিটি বিবরণ সাবধানে যাচাই করা।"
           }
         ]
       },
