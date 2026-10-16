@@ -1673,23 +1673,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse after the prayer reads like its receipt. Al-Bukhari narrates from Ibn Mas'ud (RA) that when the Prophet ﷺ entered Makkah at the conquest, and around the House stood three hundred and sixty idols, he went among them striking them with a stick in his hand and reciting the words of 17:81 over them: truth has come and falsehood has vanished. The man who once left that city by night, hunted, was entering it as its liberator — an entrance of sidq if ever one was seen.",
-            "bn": "দোয়ার পরের আয়াতটি পড়লে মনে হয় তার প্রাপ্তিস্বীকার। বুখারী ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন: বিজয়ের দিন নবী ﷺ যখন মক্কায় প্রবেশ করলেন, আর কাবাঘরের চারপাশে দাঁড়িয়ে তিনশ ষাটটি মূর্তি, তিনি হাতের লাঠি দিয়ে সেগুলোতে আঘাত করতে করতে হাঁটলেন আর তিলাওয়াত করলেন: সত্য এসেছে আর মিথ্যা বিলুপ্ত হয়েছে — 17:81। যে মানুষটি একদিন রাতের অন্ধকারে, শিকার হয়ে, সেই শহর ছেড়েছিলেন, তিনি প্রবেশ করছেন তার মুক্তিদাতা হয়ে — 'সিদক'-এর প্রবেশ যদি কোনোদিন দেখা গিয়ে থাকে, তবে এই সেটি।"
+            "bn": "দোয়ার পরের আয়াতটি যেন সেই দোয়ারই রসিদ। বুখারী ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন: মক্কা বিজয়ের দিন নবী ﷺ যখন মক্কায় ঢুকলেন, তখন কাবাঘরের চারপাশে দাঁড়িয়ে ছিল তিনশ ষাটটি মূর্তি। তিনি হাতের লাঠি দিয়ে সেগুলোতে আঘাত করতে করতে এগোলেন, আর পড়তে লাগলেন ১৭:৮১ আয়াতের কথাগুলো: সত্য এসেছে, মিথ্যা বিলুপ্ত হয়েছে। যে মানুষটি একদিন রাতের আঁধারে তাড়া খেয়ে এই শহর ছেড়েছিলেন, আজ তিনি ঢুকছেন তার মুক্তিদাতা হয়ে। 'সিদক'-এর প্রবেশ যদি কখনো দেখা গিয়ে থাকে, তবে এটাই।"
           }
         ]
       },
       {
         "h": {
           "en": "A Du'a for Thresholds",
-          "bn": "চৌকাঠের এক দোয়া"
+          "bn": "চৌকাঠ পেরোনোর দোয়া"
         },
         "p": [
           {
             "en": "The note behind this article calls this a prayer for integrity in every transition of life, and that is exactly how it transfers. A new job, a new city, a marriage, a project, a resignation — each has an entrance and will have an exit, and the du'a covers both in advance. Asking to enter with sidq means entering without deceit about who you are and what you intend; asking to exit with sidq means leaving without betrayal, cover-up or disgrace.",
-            "bn": "এই লেখার পেছনের নোটটি একে বলে জীবনের প্রতিটি পালাবদলে সততার দোয়া — আর ঠিক সেভাবেই এটি আমাদের জীবনে স্থানান্তরিত হয়। নতুন চাকরি, নতুন শহর, বিবাহ, কোনো প্রকল্প, পদত্যাগ — প্রত্যেকটির একটি প্রবেশ আছে, আর প্রস্থানও আসবে; দোয়াটি আগেভাগেই দুটিকে ঢেকে দেয়। 'সিদক' নিয়ে প্রবেশ করতে চাওয়া মানে — তুমি কে আর কী চাও, সে বিষয়ে প্রতারণা ছাড়া ঢোকা; 'সিদক' নিয়ে বের হতে চাওয়া মানে — বিশ্বাসঘাতকতা, ধামাচাপা বা অপমান ছাড়া বিদায় নেওয়া।"
+            "bn": "এই লেখার মূল নোটটি একে বলে জীবনের প্রতিটি পালাবদলে সততার দোয়া, আর আমাদের জীবনে দোয়াটি ঠিক এভাবেই খাটে। নতুন চাকরি, নতুন শহর, বিয়ে, কোনো প্রকল্প, পদত্যাগ: প্রত্যেকটিতে ঢোকার একটা পথ আছে, বের হওয়ার সময়ও একদিন আসবে। দোয়াটি আগেভাগেই দুটোকে ঢেকে রাখে। 'সিদক' নিয়ে প্রবেশ চাওয়া মানে আপনি কে আর আপনার নিয়ত কী, তা নিয়ে কোনো ছলনা ছাড়াই ঢোকা। 'সিদক' নিয়ে বের হওয়া চাওয়া মানে বিশ্বাসঘাতকতা, ধামাচাপা বা অপমান ছাড়াই বিদায় নেওয়া।"
           },
           {
             "en": "The third clause matters for ordinary lives too. Whoever attempts anything upright soon learns that intention alone does not survive contact with institutions; one needs backing — a just superior, a sound contract, a rule that protects the honest. The verse teaches where to seek that backing first. Ask Allah for the supporting authority, then look for its worldly forms, and read whatever arrives as min ladunka, from Him, held on loan for the sake of doing things truthfully.",
-            "bn": "তৃতীয় বাক্যাংশটি সাধারণ জীবনের জন্যও জরুরি। সৎ কিছু করতে নামলেই মানুষ শেখে — প্রতিষ্ঠানের সংস্পর্শে শুধু নিয়ত টিকে থাকে না; দরকার হয় পৃষ্ঠপোষকতা — একজন ন্যায়পরায়ণ ঊর্ধ্বতন, একটি নির্ভুল চুক্তি, সৎ মানুষকে রক্ষা করে এমন একটি বিধি। আয়াতটি শেখায় সেই পৃষ্ঠপোষকতা আগে কোথায় খুঁজতে হয়। আল্লাহর কাছে সাহায্যকারী কর্তৃত্ব চাও, তারপর তার দুনিয়াবি রূপগুলো খোঁজো, আর যা-ই আসুক তাকে পড়ো 'মিন লাদুনকা' — তাঁর পক্ষ থেকে, সত্যনিষ্ঠভাবে কাজ করার খাতিরে ধার দেওয়া।"
+            "bn": "তৃতীয় অংশটি সাধারণ মানুষের জীবনেও জরুরি। সৎভাবে কিছু করতে নামলেই মানুষ টের পায়, প্রতিষ্ঠানের ধাক্কায় শুধু ভালো নিয়ত টেকে না। পেছনে একটা জোর লাগে: একজন ন্যায়পরায়ণ ঊর্ধ্বতন, একটা পরিষ্কার চুক্তি, সৎ মানুষকে রক্ষা করে এমন কোনো নিয়ম। আয়াতটি শেখায়, সেই জোর আগে কোথায় খুঁজতে হয়। আগে আল্লাহর কাছে সাহায্যকারী ক্ষমতা চান, তারপর দুনিয়ায় তার রূপগুলো খুঁজুন। আর যা-ই হাতে আসুক, তাকে দেখুন 'মিন লাদুনকা' হিসেবে: তাঁর পক্ষ থেকে, সততার সঙ্গে কাজ করার জন্য ধার হিসেবে পাওয়া।"
           }
         ]
       }
@@ -1700,32 +1700,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Healing Sent Down",
-          "bn": "অবতীর্ণ আরোগ্য"
+          "bn": "যে আরোগ্য নাজিল হয়"
         },
         "p": [
           {
             "en": "We send down of the Quran that which is a healing and a mercy for the believers — and it increases the wrongdoers in nothing but loss. The verse stands in Surah al-Isra among passages about the Quran itself: how in 17:9 it guides to that which is most upright, and how people receive it when it is recited over them. Here the Book is described not as information but as medicine — something that acts upon the person who takes it, and whose effect depends on the taking.",
-            "bn": "আমি কুরআনে এমন কিছু নাযিল করি যা মুমিনদের জন্য আরোগ্য ও রহমত — আর তা জালিমদের ক্ষতি ছাড়া কিছুই বাড়ায় না। আয়াতটি সূরা আল-ইসরায় দাঁড়িয়ে আছে খোদ কুরআন সম্পর্কিত অনুচ্ছেদগুলোর মাঝে: কীভাবে 17:9 আয়াতে এটি সর্বাধিক সরল-সঠিক পথে পরিচালিত করে, আর তিলাওয়াত করা হলে মানুষ কীভাবে তা গ্রহণ করে। এখানে কিতাবকে বর্ণনা করা হয়েছে তথ্য হিসেবে নয়, ওষুধ হিসেবে — এমন কিছু যা গ্রহণকারীর ওপর কাজ করে, এবং যার প্রভাব নির্ভর করে গ্রহণের ওপর।"
+            "bn": "আমি কুরআনে এমন কিছু নাজিল করি যা মুমিনদের জন্য আরোগ্য ও রহমত, আর তা জালিমদের শুধু ক্ষতিই বাড়ায়। সূরা আল-ইসরায় আয়াতটি আছে এমন কয়েকটি আয়াতের মাঝে, যেগুলো খোদ কুরআন নিয়ে কথা বলে: ১৭:৯ আয়াতে কুরআন কীভাবে সবচেয়ে সরল-সঠিক পথ দেখায়, আর তিলাওয়াত শুনে মানুষ কীভাবে তা গ্রহণ করে। এখানে কুরআন নিজেকে তথ্য হিসেবে নয়, ওষুধ হিসেবে পরিচয় দেয়। ওষুধ কাজ করে যে সেবন করে তার ওপর, আর তার ফল নির্ভর করে সেবনের ওপর।"
           },
           {
             "en": "The commentators pause on the small word min, \"of the Quran.\" Ibn Kathir and al-Qurtubi explain that it does not mean only a part of the Quran heals; the min identifies the kind of thing being sent down — the whole of what comes down is healing and mercy. Shifa' is a noun of cure: the verse does not say the Quran contains remedies somewhere inside it, but that what is sent down is itself the remedy.",
-            "bn": "মুফাসসিরগণ ছোট্ট শব্দ মিন — \"কুরআনের মধ্য থেকে\" — নিয়ে থামেন। ইবনে কাসীর ও আল-কুরতুবী ব্যাখ্যা করেন, এর অর্থ এই নয় যে কুরআনের কেবল একটি অংশ আরোগ্য দেয়; মিন এখানে যা নাযিল হচ্ছে তার জাত চিহ্নিত করে — যা কিছু নামে তার পুরোটাই আরোগ্য ও রহমত। শিফা একটি আরোগ্য-বাচক বিশেষ্য: আয়াতটি বলে না যে কুরআনের ভেতরে কোথাও ওষুধ রাখা আছে, বরং বলে — যা নাযিল হয় তা নিজেই ওষুধ।"
+            "bn": "মুফাসসিররা ছোট্ট শব্দ 'মিন' (কুরআনের মধ্য থেকে) নিয়ে একটু থামেন। ইবনে কাসীর ও কুরতুবী বুঝিয়ে দেন, এর মানে এই নয় যে কুরআনের শুধু একটা অংশ আরোগ্য দেয়। এখানে 'মিন' বলে দেয় কী ধরনের জিনিস নাজিল হচ্ছে: যা কিছু নাজিল হয়, তার পুরোটাই আরোগ্য ও রহমত। 'শিফা' শব্দের মানেই আরোগ্য। আয়াত বলছে না যে কুরআনের ভেতরে কোথাও কিছু ওষুধ রাখা আছে; বলছে, যা নাজিল হয় তা নিজেই ওষুধ।"
           }
         ]
       },
       {
         "h": {
           "en": "What It Heals",
-          "bn": "এটি কী সারায়"
+          "bn": "কী সারায়"
         },
         "p": [
           {
             "en": "The first healing the mufassirun name is of the heart: doubt, hypocrisy, envy, despair — the diseases that 10:57 calls \"what is in the breasts,\" in a verse that likewise pairs healing with mercy. The Quran diagnoses these conditions by name and then treats them: certainty against doubt, remembered mercy against despair, the scales of the Hereafter against greed. This medicine works by being taken slowly — recited, understood, returned to — not by being owned and left on a shelf.",
-            "bn": "মুফাসসিরগণ প্রথম যে আরোগ্যের নাম নেন তা অন্তরের: সন্দেহ, কপটতা, হিংসা, নিরাশা — যে ব্যাধিগুলোকে 10:57 আয়াতে বলা হয়েছে \"বক্ষের ভেতরে যা আছে,\" আর সে আয়াতটিও একইভাবে আরোগ্যের সঙ্গে রহমতকে জুড়ে দেয়। কুরআন এই রোগগুলোকে নাম ধরে নির্ণয় করে, তারপর চিকিৎসা করে: সন্দেহের বিপরীতে ইয়াকীন, নিরাশার বিপরীতে স্মরণ করা রহমত, লোভের বিপরীতে আখিরাতের পাল্লা। এই ওষুধ কাজ করে ধীরে ধীরে গ্রহণে — তিলাওয়াতে, বোঝায়, বারবার ফিরে আসায় — মালিকানায় নিয়ে তাকে তাকিয়ায় ফেলে রাখলে নয়।"
+            "bn": "মুফাসসিররা প্রথমে যে আরোগ্যের কথা বলেন, তা অন্তরের: সন্দেহ, মুনাফিকি, হিংসা, নিরাশা। ১০:৫৭ আয়াত এই রোগগুলোকে বলে 'অন্তরে যা আছে', আর সেখানেও আরোগ্যের সঙ্গে রহমতের কথা এসেছে। কুরআন এই রোগগুলোকে নাম ধরে চিনিয়ে দেয়, তারপর চিকিৎসা করে: সন্দেহের বিপরীতে ইয়াকীন, নিরাশার বিপরীতে রহমতের কথা মনে করা, লোভের বিপরীতে আখিরাতের পাল্লা। এ ওষুধ কাজ করে ধীরে ধীরে সেবনে: তিলাওয়াত করে, বুঝে, বারবার ফিরে এসে। কিনে তাকে তুলে রাখলে এ ওষুধ কাজ করে না।"
           },
           {
             "en": "The body is not excluded. Al-Bukhari narrates from Abu Sa'id al-Khudri (RA) that a party of companions treated a tribal chief who had been stung by a scorpion by reciting Surah al-Fatihah over him; the man recovered, and the Prophet ﷺ approved of what they had done, asking how they had known that it was a ruqyah. Recitation as treatment stands on that approval — while the verse's own first emphasis remains the cure of hearts.",
-            "bn": "দেহও বাদ পড়েনি। আল-বুখারী আবু সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণনা করেন, একদল সাহাবী বিচ্ছুর দংশনে আক্রান্ত এক গোত্রপ্রধানকে সূরা আল-ফাতিহা পড়ে চিকিৎসা করেছিলেন; লোকটি সুস্থ হয়ে ওঠে, আর নবী ﷺ তাঁদের কাজ অনুমোদন করে জিজ্ঞেস করেন — তাঁরা কীভাবে জানলেন যে এটি একটি রুকইয়া। চিকিৎসা হিসেবে তিলাওয়াত ওই অনুমোদনের ওপরই দাঁড়িয়ে — যদিও আয়াতটির নিজের প্রথম জোর থেকে যায় অন্তরের আরোগ্যে।"
+            "bn": "দেহও এর বাইরে নয়। বুখারী আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন: একদল সাহাবী বিচ্ছুর কামড় খাওয়া এক গোত্রপ্রধানের ওপর সূরা আল-ফাতিহা পড়ে চিকিৎসা করেছিলেন। লোকটি সেরে ওঠে। নবী ﷺ তাঁদের কাজ সমর্থন করেন, আর জিজ্ঞেস করেন, তাঁরা কীভাবে জানলেন যে এটা রুকইয়া। তিলাওয়াত দিয়ে চিকিৎসার ভিত্তি এই সমর্থনই। তবে আয়াতটির প্রথম জোর থাকে অন্তরের আরোগ্যের ওপরই।"
           }
         ]
       },
@@ -1737,43 +1737,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The hard clause is the second one: the same revelation increases the wrongdoers only in loss. Nothing in the medicine changes; the receiving heart does. 9:124-125 draws the same line — when a surah comes down, it increases the believers in faith, while for those in whose hearts is disease it adds filth to their filth. And 41:44 says of those who do not believe that there is deafness in their ears, as if they were being called from a far-off place.",
-            "bn": "কঠিন বাক্যাংশটি দ্বিতীয়টি: একই ওহি জালিমদের কেবল ক্ষতিই বাড়ায়। ওষুধের মধ্যে কিছুই বদলায় না; বদলায় গ্রহণকারী অন্তর। 9:124-125 আয়াতে একই রেখা টানা হয়েছে — যখন কোনো সূরা নাযিল হয়, তা মুমিনদের ঈমান বাড়িয়ে দেয়, আর যাদের অন্তরে ব্যাধি আছে তাদের কলুষের ওপর কলুষ যোগ করে। আর 41:44 আয়াতে যারা ঈমান আনে না তাদের সম্পর্কে বলা হয়েছে — তাদের কানে বধিরতা, যেন তাদের ডাকা হচ্ছে বহু দূরের কোনো জায়গা থেকে।"
+            "bn": "কঠিন অংশটি দ্বিতীয়টি: একই ওহি জালিমদের শুধু ক্ষতিই বাড়ায়। ওষুধ বদলায় না, বদলায় যে অন্তর তা গ্রহণ করে। ৯:১২৪-১২৫ আয়াতেও একই ভাগ টানা আছে: কোনো সূরা নাজিল হলে তা মুমিনদের ঈমান বাড়িয়ে দেয়, আর যাদের অন্তরে রোগ আছে, তাদের কলুষের ওপর আরও কলুষ চাপায়। আর ৪১:৪৪ আয়াতে আল্লাহ অবিশ্বাসীদের সম্পর্কে বলেন, তাদের কানে বধিরতা, যেন তাদের ডাকা হচ্ছে বহু দূরের কোনো জায়গা থেকে।"
           },
           {
             "en": "The loss is not a punishment added from outside; it is what refusing a cure does by itself. Each rejected passage hardens the habit of rejecting; each mocked warning makes the next warning easier to mock. Ibn Kathir observes that for such hearers the hearing itself becomes part of their loss — they did not remain neutral, because revelation, like rain, never leaves a soil exactly the way it found it.",
-            "bn": "এই ক্ষতি বাইরে থেকে যোগ করা কোনো শাস্তি নয়; ওষুধ প্রত্যাখ্যান করা নিজে থেকেই যা ঘটায়, এ তাই। প্রত্যাখ্যাত প্রতিটি অনুচ্ছেদ প্রত্যাখ্যানের অভ্যাসকে শক্ত করে; বিদ্রূপ করা প্রতিটি সতর্কবার্তা পরের সতর্কবার্তাকে বিদ্রূপ করা সহজ করে দেয়। ইবনে কাসীর লক্ষ করেন, এমন শ্রোতাদের জন্য শোনাটাই তাদের ক্ষতির অংশ হয়ে যায় — তারা নিরপেক্ষ থাকতে পারেনি, কারণ ওহি বৃষ্টির মতো: কোনো মাটিকে ঠিক যেমন পেয়েছিল তেমনটি রেখে যায় না।"
+            "bn": "এই ক্ষতি বাইরে থেকে চাপানো কোনো শাস্তি নয়। ওষুধ ফিরিয়ে দিলে আপনা থেকেই এমন হয়। প্রতিবার আয়াত ফিরিয়ে দিলে ফিরিয়ে দেওয়ার অভ্যাস আরও শক্ত হয়; প্রতিটি সতর্কবাণী নিয়ে ঠাট্টা করলে পরেরটা নিয়ে ঠাট্টা করা আরও সহজ হয়ে যায়। ইবনে কাসীর বলেন, এমন শ্রোতাদের বেলায় শোনাটাই তাদের ক্ষতির অংশ হয়ে যায়। তারা নিরপেক্ষ থাকতে পারেনি, কারণ ওহি বৃষ্টির মতো: কোনো মাটিকে যেমন পেয়েছিল, ঠিক তেমন রেখে যায় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Mercy Joined to Healing",
-          "bn": "আরোগ্যের সাথে যুক্ত রহমত"
+          "bn": "আরোগ্যের সঙ্গে রহমত"
         },
         "p": [
           {
             "en": "The verse pairs shifa' with rahmah, and the pairing is deliberate. A cure can be bitter; this one arrives wrapped in mercy — in a Book that consoles while it corrects, follows its threats with forgiveness, and addresses the sinner as someone being called back rather than someone cast off. Within the same Quran, 39:53 tells those who have transgressed against their own souls not to despair of the mercy of Allah. The medicine and the gentleness come from the same Lord.",
-            "bn": "আয়াতটি শিফার সঙ্গে রহমত জুড়ে দেয়, আর এই জোড়টি ইচ্ছাকৃত। ওষুধ তেতো হতে পারে; কিন্তু এই ওষুধ আসে রহমতে মোড়ানো হয়ে — এমন এক কিতাবে, যা শোধরাতে গিয়ে সান্ত্বনাও দেয়, নিজের হুঁশিয়ারির পরে ক্ষমার কথা আনে, আর পাপীকে সম্বোধন করে ছুড়ে ফেলা কেউ নয়, ফিরে ডাকা কেউ হিসেবে। একই কুরআনের ভেতরে 39:53 আয়াত নিজেদের আত্মার ওপর জুলুমকারীদের বলে — আল্লাহর রহমত থেকে নিরাশ হয়ো না। ওষুধ আর কোমলতা — দুটিই আসে একই প্রভুর কাছ থেকে।"
+            "bn": "আয়াতটি শিফার সঙ্গে রহমতকে জুড়ে দিয়েছে, আর এই জোড় ইচ্ছা করেই। ওষুধ তেতো হতে পারে, কিন্তু এই ওষুধ আসে রহমতে মুড়ে। এ এমন কিতাব, যা শুধরে দেওয়ার সময়ও সান্ত্বনা দেয়, হুঁশিয়ারির পরেই মাফের কথা শোনায়, আর গুনাহগারকে ডাকে ফিরে আসার জন্য, ছুড়ে ফেলার জন্য নয়। এই কুরআনেই ৩৯:৫৩ আয়াত নিজেদের ওপর জুলুম করে ফেলা মানুষদের বলে, আল্লাহর রহমত থেকে নিরাশ হয়ো না। ওষুধ আর কোমলতা, দুটোই আসে একই রবের কাছ থেকে।"
           },
           {
             "en": "For the believers — lil-mu'minin — restricts the benefit, not the offer. The Quran is recited to everyone; its healing settles on those who come to it believing, or at least willing to believe. That is why the Book keeps describing its own audience: guidance for the God-conscious in 2:2, warning in 36:70 for whoever is alive of heart. The door stands open to all; the verse simply states, without apology, who actually walks through it.",
-            "bn": "মুমিনদের জন্য — লিল-মুমিনীন — সীমিত করে উপকারকে, প্রস্তাবকে নয়। কুরআন সবার সামনেই তিলাওয়াত হয়; তার আরোগ্য গিয়ে বসে তাদের ওপর, যারা ঈমান নিয়ে আসে — অন্তত ঈমান আনতে রাজি হয়ে আসে। এ কারণেই কিতাবটি বারবার নিজের শ্রোতাদের বর্ণনা দেয়: 2:2 আয়াতে মুত্তাকীদের জন্য হিদায়াত, 36:70 আয়াতে সতর্কবার্তা তার জন্য যার অন্তর জীবিত। দরজা সবার জন্য খোলা; আয়াতটি কেবল কোনো রাখঢাক ছাড়াই বলে দেয় — সেই দরজা দিয়ে বাস্তবে কারা হেঁটে ঢোকে।"
+            "bn": "'মুমিনদের জন্য' (লিল-মুমিনীন) কথাটি সীমা টানে উপকারে, দাওয়াতে নয়। কুরআন সবার সামনেই তিলাওয়াত হয়, কিন্তু তার আরোগ্য পায় তারাই, যারা ঈমান নিয়ে আসে, অন্তত ঈমান আনতে রাজি হয়ে আসে। এজন্যই কিতাবটি বারবার জানিয়ে দেয় তার আসল শ্রোতা কারা: ২:২ আয়াতে মুত্তাকীদের জন্য হিদায়াত, ৩৬:৭০ আয়াতে সতর্কবাণী তাদের জন্য, যাদের অন্তর জীবিত। দরজা সবার জন্য খোলা। আয়াতটি শুধু কোনো রাখঢাক ছাড়াই বলে দেয়, সেই দরজা দিয়ে আসলে কারা ঢোকে।"
           }
         ]
       },
       {
         "h": {
           "en": "Taking the Medicine",
-          "bn": "ওষুধটি গ্রহণ করা"
+          "bn": "ওষুধ সেবন"
         },
         "p": [
           {
             "en": "The practical question the verse leaves us with is dosage. A patient does not read the label once a year; healing recitation is regular, unhurried and aimed — bringing the verses of mercy to despair, the verses of provision to money-fear, the verses of the Hereafter to grief. Many believers can name which surahs they reach for in which wounds; this verse gives that instinct its warrant, and turns a daily portion of reading into a daily course of treatment.",
-            "bn": "আয়াতটি আমাদের সামনে যে ব্যবহারিক প্রশ্ন রেখে যায় তা মাত্রার। রোগী বছরে একবার ওষুধের গায়ের লেখা পড়ে না; আরোগ্যদায়ী তিলাওয়াত নিয়মিত, তাড়াহুড়োহীন ও লক্ষ্যভেদী — নিরাশার কাছে রহমতের আয়াতগুলো নিয়ে যাওয়া, রিযিকের দুশ্চিন্তার কাছে রিযিকের আয়াত, শোকের কাছে আখিরাতের আয়াত। বহু মুমিন বলতে পারেন কোন ক্ষতে তাঁরা কোন সূরার দিকে হাত বাড়ান; এই আয়াত সেই সহজাত প্রবণতাকে তার সনদ দেয়, আর প্রতিদিনের পাঠের অংশটুকুকে বানিয়ে দেয় প্রতিদিনের চিকিৎসা।"
+            "bn": "আয়াতটি আমাদের হাতে যে ব্যবহারিক প্রশ্ন রেখে যায়, তা মাত্রার প্রশ্ন। রোগী বছরে একবার ওষুধের লেবেল পড়ে না। আরোগ্যের তিলাওয়াত হয় নিয়মিত, ধীরেসুস্থে, নির্দিষ্ট রোগ মাথায় রেখে: নিরাশার সময় রহমতের আয়াত, রিযিকের দুশ্চিন্তায় রিযিকের আয়াত, শোকে আখিরাতের আয়াত। অনেক মুমিনই বলতে পারেন, কোন ক্ষতে তাঁরা কোন সূরার কাছে যান। এই আয়াত সেই সহজাত টানকে সনদ দেয়, আর প্রতিদিনের তিলাওয়াতের অংশটুকুকে বানিয়ে দেয় প্রতিদিনের চিকিৎসা।"
           },
           {
             "en": "It also leaves a warning worth keeping. Familiarity without surrender drifts toward the second clause: to hear the Quran often while quietly exempting oneself from it is a form of the wrongdoing the verse names, and it does not leave a person where it found them. So come as a patient rather than a critic — admit the disease, take the remedy in small daily amounts, and let the Book do upon the heart what it was sent down to do.",
-            "bn": "এটি রেখে যায় একটি সতর্কবার্তাও, যা মনে রাখার মতো। আত্মসমর্পণ ছাড়া কেবল পরিচিতি ধীরে ধীরে গড়ায় দ্বিতীয় বাক্যাংশের দিকে: প্রায়ই কুরআন শোনা অথচ চুপচাপ নিজেকে তার আওতার বাইরে রাখা — এ আয়াতে বলা জুলুমেরই এক রূপ, আর তা মানুষকে যেখানে পেয়েছিল সেখানে রেখে যায় না। তাই সমালোচক নয়, রোগী হয়ে আসুন — রোগ স্বীকার করুন, ওষুধ নিন অল্প অল্প করে প্রতিদিন, আর কিতাবকে অন্তরের ওপর সেই কাজটি করতে দিন, যে কাজের জন্য তা নাযিল হয়েছে।"
+            "bn": "আয়াতটি একটি সতর্কবার্তাও রেখে যায়, যা মনে রাখা দরকার। মেনে নেওয়া ছাড়া শুধু চেনাজানা থাকলে মানুষ ধীরে ধীরে দ্বিতীয় অংশের দিকে গড়িয়ে যায়। প্রায়ই কুরআন শোনা, অথচ চুপচাপ নিজেকে তার আওতার বাইরে রাখা: এটাও সেই জুলুমেরই এক রূপ, যার কথা আয়াত বলছে। আর তা মানুষকে যেখানে পেয়েছিল, সেখানে রেখে যায় না। তাই সমালোচক হয়ে নয়, রোগী হয়ে আসুন। রোগ স্বীকার করুন, প্রতিদিন অল্প অল্প করে ওষুধ নিন, আর কিতাবকে আপনার অন্তরে সেই কাজটি করতে দিন, যে কাজের জন্য তা নাজিল হয়েছে।"
           }
         ]
       }
@@ -1789,7 +1789,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa qalu lan nu'mina laka hatta tafjura lana mina al-ardi yanbu'a: and they said, we will never believe you until you make a spring gush for us from the ground. This verse opens a list that runs to 17:93. After the spring they demand a garden of palms and grapes with rivers driven through it, then the sky brought down on them in fragments, then Allah and the angels marched out before them, then a house of gold, and finally that the Prophet climb into the sky and bring back a book they can read. Six impossible conditions, laid down one after another as the price of belief.",
-            "bn": "ওয়া কালূ লান নু'মিনা লাকা হাত্তা তাফজুরা লানা মিনাল আরদি ইয়ামবূআ: তারা বলল, যতক্ষণ না তুমি আমাদের জন্য যমীন ফুঁড়ে ঝর্ণা বের করবে, আমরা কক্ষনো তোমাকে বিশ্বাস করব না। এ আয়াত একটা তালিকার শুরু, যা চলে ১৭:৯৩ পর্যন্ত। ঝর্ণার পর তারা দাবি করে খেজুর ও আঙুরের বাগান যার ফাঁকে ফাঁকে বইবে নদী, তারপর আকাশ টুকরো হয়ে তাদের উপর পড়ুক, তারপর আল্লাহ ও ফেরেশতাদের সামনে হাজির করা হোক, তারপর সোনার ঘর, শেষে নবী ﷺ আকাশে উঠে এমন এক কিতাব নামিয়ে আনুন যা তারা পড়তে পারবে। একের পর এক ছয়টি অসম্ভব শর্ত, ঈমানের দাম হিসেবে সাজিয়ে রাখা।"
+            "bn": "ওয়া কালূ লান নু'মিনা লাকা হাত্তা তাফজুরা লানা মিনাল আরদি ইয়ামবূআ: তারা বলল, যতক্ষণ না তুমি আমাদের জন্য যমীন ফুঁড়ে ঝর্ণা বের করবে, আমরা কক্ষনো তোমাকে বিশ্বাস করব না। এ আয়াত একটা তালিকার শুরু, যা চলে ১৭:৯৩ পর্যন্ত। ঝর্ণার পর তারা দাবি করে খেজুর ও আঙুরের বাগান যার ফাঁকে ফাঁকে বইবে নদী, তারপর আকাশ টুকরো হয়ে তাদের উপর পড়ুক, তারপর আল্লাহ ও ফেরেশতাদের তাদের সামনে এনে হাজির করা হোক, তারপর সোনার ঘর, শেষে নবী ﷺ আকাশে উঠে এমন এক কিতাব নামিয়ে আনুন যা তারা পড়তে পারবে। একের পর এক ছয়টি অসম্ভব শর্ত, ঈমানের দাম হিসেবে সাজিয়ে রাখা।"
           },
           {
             "en": "The hinge of the whole speech is one small word: lan, an emphatic never. They do not say we might believe, or we will consider it; they announce in advance that faith is withheld, and only then attach a condition to it. That order matters. A person genuinely searching asks for what would settle the question and then follows the answer. These speakers have settled the question first and are now naming a price they expect will never be paid. The demands only sound like sincere requests; read with the never in front, they are a refusal wearing the costume of an inquiry.",
@@ -1841,11 +1841,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi, al-Baghawi and Ibn Kathir all carry a long account, traced through Ibn Ishaq from 'Ikrimah from Ibn 'Abbas, of an occasion behind these words. The chiefs of Quraysh — among them 'Utbah, Shaybah, Abu Sufyan, al-Walid ibn al-Mughirah, Abu Jahl and 'Abdullah ibn Abi Umayyah — gathered behind the Ka'ba after sunset and sent for the Prophet. They first offered him wealth, leadership or kingship, or a cure if he were possessed. When he refused it all, they moved to demands: shift these mountains, widen our valley, run rivers through it like those of Syria and Iraq, and raise our dead forefathers to confirm you.",
-            "bn": "কুরতুবী, বাগাভী ও ইবন কাসীর সকলেই একটি দীর্ঘ বর্ণনা আনেন, যা ইবন ইসহাক সূত্রে ইকরিমা থেকে ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছায়, এই আয়াতের এক প্রেক্ষাপট নিয়ে। কুরাইশ নেতারা, তাদের মধ্যে উতবা ও শায়বা, আবু সুফিয়ান, ওয়ালিদ ইবন মুগীরা, আবু জাহল ও আবদুল্লাহ ইবন আবি উমাইয়া, সূর্যাস্তের পর কাবার পেছনে জড়ো হয়ে নবীকে ﷺ ডেকে পাঠায়। প্রথমে তারা তাঁকে সাধে সম্পদ, নেতৃত্ব কিংবা রাজত্ব, অথবা জিন-আসর হলে চিকিৎসা। তিনি সব ফিরিয়ে দিয়ে বলেন এসবের কিছুই তিনি চান না। তখন তারা দাবিতে নামে: এই পাহাড়গুলো সরিয়ে দাও, আমাদের উপত্যকা প্রশস্ত করো, তাতে সিরিয়া ও ইরাকের নদীর মতো নদী বইয়ে দাও, আর আমাদের মৃত পূর্বপুরুষদের জীবিত করে তোমার কথা সত্য বলে সাক্ষী দেওয়াও।"
+            "bn": "কুরতুবী, বাগাভী ও ইবন কাসীর তিনজনই এই আয়াতের প্রেক্ষাপট নিয়ে একটি দীর্ঘ বর্ণনা এনেছেন। বর্ণনাটি ইবন ইসহাকের সূত্রে ইকরিমা হয়ে ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছায়। কুরাইশ নেতারা, তাদের মধ্যে উতবা ও শায়বা, আবু সুফিয়ান, ওয়ালিদ ইবন মুগীরা, আবু জাহল ও আবদুল্লাহ ইবন আবি উমাইয়া, সূর্যাস্তের পর কাবার পেছনে জড়ো হয়ে নবীকে ﷺ ডেকে পাঠায়। প্রথমে তারা তাঁকে সাধে সম্পদ, নেতৃত্ব কিংবা রাজত্ব, অথবা জিনের আসর হয়ে থাকলে চিকিৎসা। তিনি সব ফিরিয়ে দিলে তারা দাবিতে নামে: এই পাহাড়গুলো সরিয়ে দাও, আমাদের উপত্যকা প্রশস্ত করো, তাতে সিরিয়া ও ইরাকের নদীর মতো নদী বইয়ে দাও, আর আমাদের মৃত পূর্বপুরুষদের জীবিত করে তোমার কথা সত্য বলে সাক্ষী দেওয়াও।"
           },
           {
             "en": "The escalation continued: gardens and palaces of gold, an angel sent visibly to vouch for him, the sky dropped on them in pieces, and finally, from 'Abdullah ibn Abi Umayyah, that he climb a ladder to heaven and bring back a book with four angels as witnesses — adding that even then he would not believe. This report supplies the setting the verses answer, and its demand for rivers sits close to the spring of our verse. But its chain runs through an unnamed transmitter, leaving it unestablished as sound; the commentators relay it as background to the revelation, not as proof, and should be received in that spirit.",
-            "bn": "উত্তেজনা বাড়তেই থাকে: সোনার বাগান ও প্রাসাদ, তাঁর পক্ষে সাক্ষ্য দিতে দৃশ্যমান ফেরেশতা পাঠানো, আকাশ টুকরো হয়ে তাদের উপর পড়া, আর শেষে আবদুল্লাহ ইবন আবি উমাইয়ার কথা যে তিনি সিঁড়ি বেয়ে আকাশে উঠে চারজন ফেরেশতাকে সাক্ষী রেখে এক কিতাব নামিয়ে আনুন। সে আরও যোগ করে, তবুও সে বিশ্বাস করবে না। এই বর্ণনা আয়াতগুলোর জবাব যে প্রেক্ষাপটে, তা জোগায়, আর উপত্যকায় নদীর দাবি আমাদের আয়াতের ঝর্ণার কাছাকাছি। তবে এর সনদ এক অনামা রাবীর ভেতর দিয়ে যায়, তাই এটি সহীহ বর্ণনা হিসেবে প্রতিষ্ঠিত নয়। তাফসীরকারেরা একে নাযিলের পটভূমি হিসেবে আনেন, প্রমাণ হিসেবে নয়, আর ঠিক সেই দৃষ্টিতেই একে নেওয়া উচিত।"
+            "bn": "দাবি চড়তেই থাকে: সোনার বাগান ও প্রাসাদ, তাঁর পক্ষে সাক্ষ্য দিতে চোখের সামনে ফেরেশতা পাঠানো, আকাশ টুকরো টুকরো হয়ে তাদের ওপর পড়া। শেষে আবদুল্লাহ ইবন আবি উমাইয়া দাবি করে, তিনি সিঁড়ি বেয়ে আকাশে উঠে চারজন ফেরেশতাকে সাক্ষী রেখে একটা কিতাব নামিয়ে আনুন। সঙ্গে এ-ও বলে, তবুও সে বিশ্বাস করবে না। আয়াতগুলো যে পরিস্থিতির জবাব, এই বর্ণনা সেই পটভূমি জানায়, আর এতে নদীর যে দাবি, তা আমাদের আয়াতের ঝর্ণার খুব কাছাকাছি। তবে এর সনদে এক অজ্ঞাতনামা রাবী আছেন, তাই এটি সহীহ বলে প্রমাণিত নয়। তাফসীরকারেরা একে নাজিলের পটভূমি হিসেবে আনেন, দলিল হিসেবে নয়। একে সেভাবেই নেওয়া উচিত।"
           }
         ]
       },
@@ -1905,11 +1905,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The lasting lesson of the verse is about the order of the heart, not the size of the sign. These men had the Qur'an they could not rival and the standing wonders of their own valley, and they still asked for more, because the deciding had come first and the demand only followed. God's own reply, reported by Ibn Kathir, makes the point: a sign given to such a heart would not have guided it but hardened it. Evidence does not overpower a will that has set itself against the truth; it is received by a will already willing to look.",
-            "bn": "আয়াতের স্থায়ী শিক্ষা নিদর্শনের আকার নিয়ে নয়, মনের বিন্যাস নিয়ে। এই লোকদের হাতে ছিল সেই কুরআন যার সমকক্ষ তারা আনতে পারেনি, আর ছিল নিজেদের উপত্যকার চিরস্থায়ী বিস্ময়, তবুও তারা আরও চাইল, কারণ সিদ্ধান্তটা আগে এসেছিল আর দাবি এসেছিল কেবল তার পিছু পিছু। ইবন কাসীরের বর্ণনায় আল্লাহর নিজের জবাবই কথাটা স্পষ্ট করে: এমন মনকে দেওয়া নিদর্শন তাকে হেদায়েত দিত না, আরও কঠিন করত। প্রমাণ সত্যের বিরুদ্ধে দাঁড়ানো কোনো মনকে জোর করে বদলায় না; প্রমাণ কবুল করে সেই মন, যা আগে থেকেই তাকাতে রাজি।"
+            "bn": "আয়াতের স্থায়ী শিক্ষা নিদর্শন কত বড় তা নিয়ে নয়, মনের ভেতরে কোনটা আগে আসে তা নিয়ে। এই লোকদের হাতে ছিল সেই কুরআন, যার সমকক্ষ তারা আনতে পারেনি, আর ছিল নিজেদের উপত্যকার চিরচেনা বিস্ময়গুলো। তবুও তারা আরও চাইল, কারণ সিদ্ধান্ত আগেই নেওয়া হয়ে গিয়েছিল, দাবি এসেছিল শুধু তার পেছন পেছন। ইবন কাসীরের বর্ণনায় আল্লাহর নিজের জবাবই কথাটা পরিষ্কার করে দেয়: এমন অন্তরকে নিদর্শন দিলে তা হেদায়েত পেত না, বরং আরও কঠিন হয়ে যেত। যে মন সত্যের বিরুদ্ধে দাঁড়িয়ে গেছে, প্রমাণ তাকে জোর করে বদলাতে পারে না। প্রমাণকে কবুল করে সেই মন, যে আগে থেকেই দেখতে রাজি।"
           },
           {
             "en": "So the mirror the verse holds up asks a quiet question. When I tell myself I would commit if I only had one more reason, one clearer sign, one answered prayer, am I truly waiting on evidence, or have I already refused and dressed the refusal as patience? The honest test is whether I act on the truth I can already see. The people of this verse wanted the last word more than they wanted the answer. The invitation underneath their story is to want the answer, and to let it move me while the gate of mercy still stands open.",
-            "bn": "তাই আয়াত যে আয়নাটা তুলে ধরে, তা একটা চাপা প্রশ্ন করে। আমি যখন নিজেকে বলি আর একটামাত্র কারণ পেলে, আর একটু স্পষ্ট নিদর্শন পেলে, একটা কবুল হওয়া দোয়া পেলে আমি লেগে যেতাম, আমি কি সত্যিই প্রমাণের অপেক্ষায় আছি, নাকি আগেই অস্বীকার করে সেটাকে ধৈর্যের সাজ পরিয়েছি? খাঁটি পরীক্ষা হলো, যে সত্য আমি এখনই দেখতে পাই তার উপর আমি আমল করি কিনা। এই আয়াতের লোকেরা জবাবের চেয়ে শেষ কথাটাই বেশি চেয়েছিল। তাদের কাহিনির নিচের ডাকটা হলো জবাবটাকেই চাওয়া, আর রহমতের দরজা খোলা থাকতে থাকতেই তা আমাকে টলতে দেওয়া।"
+            "bn": "তাই আয়াত যে আয়না তুলে ধরে, তা চুপিচুপি একটা প্রশ্ন করে। আমি যখন নিজেকে বলি, আর একটা কারণ পেলে, আরেকটু স্পষ্ট নিদর্শন পেলে, একটা দোয়া কবুল হলেই আমি লেগে পড়তাম, তখন আমি কি সত্যিই প্রমাণের অপেক্ষায় আছি? নাকি আগেই না বলে দিয়ে সেই না-কে ধৈর্যের পোশাক পরিয়েছি? সৎ পরীক্ষা হলো, যে সত্য আমি এখনই দেখতে পাচ্ছি, তার ওপর আমল করি কি না। এই আয়াতের লোকেরা জবাবের চেয়ে শেষ কথাটা নিজেদের করে রাখতেই বেশি চেয়েছিল। তাদের কাহিনির ভেতরের ডাকটা হলো জবাবটাই চাওয়া, আর রহমতের দরজা খোলা থাকতেই সেই জবাবকে নিজেকে বদলাতে দেওয়া।"
           }
         ]
       }
@@ -1929,7 +1929,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is why Ibn Kathir opens his comment on the same note: guidance and misguidance rest in the hands of Allah, and none can put back His judgement. Whoever He guides cannot be led astray, and whoever He leaves to stray finds no one to guide him instead. Ibn Kathir ties it to a twin verse, that whom Allah guides is the rightly guided, but whom He sends astray will find no guiding friend to lead him (18:17). The line is not neutral reporting. It names the place where the outcome is settled.",
-            "bn": "এ কারণেই ইবন কাসীর একই সুরে তাঁর ব্যাখ্যা শুরু করেন: হেদায়েত ও গুমরাহি আল্লাহর হাতে, তাঁর ফয়সালা কেউ ফিরিয়ে দিতে পারে না। যাকে তিনি পথ দেখান, কেউ তাকে বিভ্রান্ত করতে পারে না, আর যাকে তিনি পথভ্রষ্ট হতে দেন, তাকে পথ দেখানোর কেউ থাকে না। ইবন কাসীর একে যুক্ত করেন এক জোড়া আয়াতের সঙ্গে, আল্লাহ যাকে পথ দেখান সে-ই পথপ্রাপ্ত, আর যাকে তিনি পথভ্রষ্ট করেন তার জন্য পথ দেখানো কোনো অভিভাবক পাওয়া যাবে না (১৮:১৭)। কথাটা নিছক খবর নয়। এটি বলে দেয় ফয়সালা কোথায় হয়।"
+            "bn": "এ কারণেই ইবন কাসীর একই সুরে তাঁর ব্যাখ্যা শুরু করেন: হেদায়েত ও গুমরাহি আল্লাহর হাতে, তাঁর ফয়সালা কেউ ফিরিয়ে দিতে পারে না। যাকে তিনি পথ দেখান, কেউ তাকে বিভ্রান্ত করতে পারে না, আর যাকে তিনি পথভ্রষ্ট হতে দেন, তাকে পথ দেখানোর কেউ থাকে না। ইবন কাসীর একে যুক্ত করেন এর যমজ এক আয়াতের সঙ্গে, আল্লাহ যাকে পথ দেখান সে-ই পথপ্রাপ্ত, আর যাকে তিনি পথভ্রষ্ট করেন তার জন্য পথ দেখানো কোনো অভিভাবক পাওয়া যাবে না (১৮:১৭)। কথাটা নিছক খবর নয়। এটি বলে দেয় ফয়সালা কোথায় হয়।"
           }
         ]
       },
@@ -1961,7 +1961,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That phrase is where the commentators locate the verse's justice, and they do not push past what the text says. To be left to oneself is already the ruin, because before God none is sufficient for himself. As-Sa'di ends his comment by insisting on the balance: Allah did not wrong them, and their straying is the recompense of a disbelief that was their own. Misguidance here meets a turning away; it is not an arbitrary sentence passed on the innocent. The commentators hold guidance-as-gift and straying-as-desert together, and leave the deeper question of decree exactly where the verse leaves it.",
-            "bn": "এই কথাটির মধ্যেই তাফসীরকারেরা আয়াতের ইনসাফ খুঁজে পান, আর তাঁরা আয়াতের কথার বাইরে যান না। নিজের হাতে ছেড়ে দেওয়া হওয়া মানেই ধ্বংস, কারণ আল্লাহর সামনে কেউ নিজের জন্য যথেষ্ট নয়। সাদী তাঁর ব্যাখ্যা শেষ করেন এই ভারসাম্যের উপর জোর দিয়ে: আল্লাহ তাদের উপর জুলুম করেননি, তাদের পথভ্রষ্টতা তাদের নিজেদেরই কুফরির প্রতিফল। এখানে গুমরাহি এক মুখ ফিরিয়ে নেওয়ার জবাব, নিরপরাধের উপর চাপানো কোনো খেয়ালি রায় নয়। তাফসীরকারেরা হেদায়েত-দান আর গুমরাহি-প্রাপ্য দুটোকে একসঙ্গে ধরে রাখেন, আর তাকদিরের গভীর প্রশ্নটা ঠিক সেখানেই রেখে দেন যেখানে আয়াত রাখে।"
+            "bn": "এই কথাটির মধ্যেই তাফসীরকারেরা আয়াতের ইনসাফ খুঁজে পান, আর আয়াত যা বলে, তার বাইরে যান না। নিজের হাতে ছেড়ে দেওয়াটাই তো ধ্বংস, কারণ আল্লাহর সামনে কেউ নিজের জন্য যথেষ্ট নয়। সাদী তাঁর ব্যাখ্যা শেষ করেন এই ভারসাম্যের ওপর জোর দিয়ে: আল্লাহ তাদের ওপর জুলুম করেননি, তাদের পথভ্রষ্টতা তাদের নিজেদেরই কুফরির প্রতিফল। এখানে গুমরাহি আসে মুখ ফিরিয়ে নেওয়ার জবাবে; নির্দোষের ওপর চাপানো খেয়ালি রায় এটা নয়। তাফসীরকারেরা দুটো কথা একসঙ্গে ধরে রাখেন: হেদায়েত আল্লাহর দান, আর গুমরাহি মানুষের প্রাপ্য। তাকদিরের গভীর প্রশ্নটা তাঁরা ঠিক সেখানেই রেখে দেন, যেখানে আয়াত রেখেছে।"
           }
         ]
       },
@@ -1973,7 +1973,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "You will never find for them protectors besides Him. At-Tabari reads the protectors here as helpers, allies who might rescue them from Allah when He wills to punish them. Ibn Kathir hears it a little differently, as protecting friends who could guide them where Allah has not, and as-Sa'di as a patron who might shield a man from Allah's punishment. The readings converge on one loss. Whatever a person leans on in place of Allah, whether ally, patron, or the power he trusted, is shown unable to reach him at the single moment it would have mattered.",
-            "bn": "তুমি কখনো তাঁকে ছাড়া তাদের জন্য কোনো অভিভাবক পাবে না। তাবারী এখানে অভিভাবক বলতে বোঝেন সাহায্যকারী, এমন সঙ্গী যারা আল্লাহ শাস্তি দিতে চাইলে তাদের বাঁচাতে পারত। ইবন কাসীর একটু ভিন্নভাবে শোনেন, রক্ষাকারী বন্ধু যারা আল্লাহ যেখানে পথ দেখাননি সেখানে পথ দেখাতে পারত, আর সাদী বোঝেন এমন পৃষ্ঠপোষক যে আল্লাহর শাস্তি থেকে মানুষকে আড়াল করতে পারত। পাঠগুলো এক জায়গায় এসে মেলে। আল্লাহর বদলে মানুষ যার উপরই ভরসা করুক, সঙ্গী হোক, পৃষ্ঠপোষক হোক, কিংবা যে শক্তির উপর আস্থা রেখেছিল, যে একটিমাত্র মুহূর্তে দরকার ছিল সেখানে কেউই তার নাগাল পায় না।"
+            "bn": "তুমি কখনো তাঁকে ছাড়া তাদের জন্য কোনো অভিভাবক পাবে না। তাবারী এখানে অভিভাবক বলতে বোঝেন সাহায্যকারী, এমন সঙ্গী যারা আল্লাহ শাস্তি দিতে চাইলে তাদের বাঁচাতে পারত। ইবন কাসীর একটু ভিন্নভাবে বোঝেন: এমন রক্ষাকারী বন্ধু, যারা আল্লাহ যাকে পথ দেখাননি তাকে পথ দেখাতে পারত। আর সাদী বোঝেন এমন পৃষ্ঠপোষক, যে আল্লাহর শাস্তি থেকে মানুষকে আড়াল করতে পারত। সব ব্যাখ্যা এসে মেলে একই ক্ষতিতে। আল্লাহর বদলে মানুষ যার ওপরই ভরসা করুক, সঙ্গী হোক, পৃষ্ঠপোষক হোক, কিংবা যে ক্ষমতায় সে আস্থা রেখেছিল, যে একটিমাত্র মুহূর্তে সত্যিই দরকার ছিল, তখন কেউই তার কাছে পৌঁছাতে পারে না।"
           },
           {
             "en": "This is aimed straight at the deniers of the passage. They had their chiefs, their gods, their standing and their wealth, and they spoke as men who were covered on every side. The verse tells them the cover is nothing. Ibn Kathir frames the whole line as Allah's account of how His rule runs through His creation, with no one able to send His judgement back. A protector who cannot protect against the only One who judges is not a protector at all, and the verse quietly strips the word down to that bare truth.",
@@ -1984,16 +1984,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Gathered Upon Their Faces",
-          "bn": "মুখের ভরে একত্রিত"
+          "bn": "মুখের ভরে হাশর"
         },
         "p": [
           {
             "en": "And We will gather them on the Day of Resurrection upon their faces. A man asked, O Prophet of Allah, will the disbeliever be gathered on his face on the Day of Resurrection? He answered, Is not the One who made him walk on his two feet in this world able to make him walk on his face on the Day of Resurrection? The subnarrator Qatada added, Yes, by the might of our Lord. Anas reported it, and al-Bukhari and Muslim recorded it, so it is sound; the commentators cite it right here to explain the verse's image.",
-            "bn": "আর ক্বিয়ামাতের দিন আমি তাদের একত্রিত করব তাদের মুখের ভরে। একজন লোক জিজ্ঞেস করল, হে আল্লাহর নবী, ক্বিয়ামাতের দিন কি কাফিরকে তার মুখের ভরে একত্রিত করা হবে? তিনি জবাব দিলেন, যিনি দুনিয়ায় তাকে দুই পায়ে চালিয়েছেন, তিনি কি ক্বিয়ামাতের দিন তাকে মুখের ভরে চালাতে সক্ষম নন? বর্ণনার এক রাবি ক্বাতাদা যোগ করেন, হ্যাঁ, আমাদের রবের ইজ্জতের কসম। আনাস (রাঃ) এটি বর্ণনা করেছেন, বুখারী ও মুসলিম এটি নথিভুক্ত করেছেন, তাই এটি সহীহ; তাফসীরকারেরা আয়াতের ছবি বোঝাতে ঠিক এখানেই এটি উল্লেখ করেন।"
+            "bn": "আর ক্বিয়ামাতের দিন আমি তাদের একত্রিত করব তাদের মুখের ভরে। একজন লোক জিজ্ঞেস করল, হে আল্লাহর নবী, ক্বিয়ামাতের দিন কি কাফিরকে তার মুখের ভরে একত্রিত করা হবে? তিনি জবাব দিলেন, যিনি দুনিয়ায় তাকে দুই পায়ে চালিয়েছেন, তিনি কি ক্বিয়ামাতের দিন তাকে মুখের ভরে চালাতে সক্ষম নন? বর্ণনার এক রাবি ক্বাতাদা যোগ করেন, হ্যাঁ, আমাদের রবের ইজ্জতের কসম। আনাস (রাঃ) এটি বর্ণনা করেছেন, বুখারী ও মুসলিম এটি সংকলন করেছেন, তাই এটি সহীহ; তাফসীরকারেরা আয়াতের ছবি বোঝাতে ঠিক এখানেই এটি উল্লেখ করেন।"
           },
           {
             "en": "How should upon their faces be pictured? Al-Qurtubi records two readings. One takes it from an Arab idiom, where coming on the face means coming in haste, so it is a hurrying of them to Hell. The other, which he calls the sound view, is that they are dragged on their faces to the Fire, as is done in this world to one meant for utter humiliation. The hadith of Anas turns him toward the second, and al-Baghawi adds that they ward off with their faces every rough rise and thorn on the way. A life that refused to bow is gathered in the very posture of being brought lowest.",
-            "bn": "মুখের ভরে কথাটা কীভাবে ছবি হিসেবে দেখা যায়? কুরতুবী দুটি পাঠ উল্লেখ করেন। একটি আরবি বাগধারা থেকে নেওয়া, যেখানে মুখের উপর আসা মানে দ্রুত আসা, অর্থাৎ তাদের জাহান্নামের দিকে দ্রুত টেনে নেওয়া। অন্যটি, যাকে তিনি সহীহ মত বলেন, তা হলো তাদের মুখের ভরে আগুনের দিকে টেনে নেওয়া হবে, যেমন দুনিয়ায় চরম লাঞ্ছনার জন্য নির্ধারিত কারও সঙ্গে করা হয়। আনাসের হাদীস তাঁকে দ্বিতীয় মতের দিকে ঝোঁকায়, আর বাগাভী যোগ করেন যে তারা পথের প্রতিটি উঁচু ঢিবি ও কাঁটা নিজেদের মুখ দিয়ে ঠেকায়। যে জীবন নত হতে চায়নি, তাকে একত্রিত করা হয় সবচেয়ে নিচু করে দেওয়ার ভঙ্গিতেই।"
+            "bn": "মুখের ভরে, এই দৃশ্যটা কীভাবে বুঝব? কুরতুবী দুটি ব্যাখ্যা উল্লেখ করেন। একটি আরবি বাগধারা থেকে: মুখের ওপর আসা মানে তাড়াহুড়ো করে আসা, অর্থাৎ তাদের দ্রুত জাহান্নামের দিকে হাঁকিয়ে নেওয়া হবে। অন্যটিকে তিনি সঠিক মত বলেন: তাদের মুখের ওপর হিঁচড়ে আগুনের দিকে টেনে নেওয়া হবে, যেমন দুনিয়ায় কাউকে চরম অপমান করতে চাইলে করা হয়। আনাসের হাদিস তাঁকে দ্বিতীয় মতের দিকে ঝোঁকায়। আর বাগাভী যোগ করেন, পথের প্রতিটি উঁচু ঢিবি আর কাঁটা তারা মুখ দিয়েই ঠেকাবে। যে জীবন কখনো মাথা নোয়াতে চায়নি, তাকে হাশরে আনা হয় সবচেয়ে নিচু হওয়ার ভঙ্গিতেই।"
           }
         ]
       },
@@ -2009,11 +2009,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The commentators give two answers and do not force one. The first is a matter of stages. They are gathered and driven to the standing in this stripped state, and their sight, hearing and speech are given back at other points, once they face the Fire itself. Al-Hasan places the blindness in the drive toward the standing, until they enter the Fire. Muqatil ties it to the moment they are told, Be despised in it and speak not to Me (23:108), after which the three faculties fall away together. On this reading the words describe a real condition at a real stage of the Day.",
-            "bn": "তাফসীরকারেরা দুটি জবাব দেন আর একটিকে জোর করে চাপান না। প্রথমটি স্তরের ব্যাপার। তাদের এই বিবস্ত্র অবস্থায় একত্রিত করে হাশরের ময়দানে নেওয়া হয়, আর তাদের দৃষ্টি, শ্রবণ ও বাক অন্য মুহূর্তে ফিরিয়ে দেওয়া হয়, যখন তারা আগুনের মুখোমুখি হয়। হাসান অন্ধত্বকে রাখেন ময়দানের দিকে হাঁকিয়ে নেওয়ার সময়ে, আগুনে প্রবেশের আগ পর্যন্ত। মুক্বাতিল একে যুক্ত করেন সেই মুহূর্তের সঙ্গে যখন তাদের বলা হয়, এতে লাঞ্ছিত হয়ে থাক আর আমার সঙ্গে কথা বোলো না (২৩:১০৮), এরপর তিনটি শক্তি একসঙ্গে চলে যায়। এ পাঠে শব্দগুলো দিনটির এক বাস্তব স্তরে এক বাস্তব অবস্থার বর্ণনা।"
+            "bn": "তাফসীরকারেরা দুটি জবাব দেন, কোনোটিকে জোর করে চাপান না। প্রথম জবাব পর্যায়ের। দৃষ্টি, শ্রবণ ও বাকশক্তি কেড়ে নেওয়া এই অবস্থাতেই তাদের জড়ো করে হাশরের ময়দানের দিকে হাঁকিয়ে নেওয়া হয়। পরে অন্য সময়ে, যখন তারা আগুনের মুখোমুখি হয়, তখন এগুলো ফিরিয়ে দেওয়া হয়। হাসান অন্ধত্বকে রাখেন ময়দানের দিকে হাঁকিয়ে নেওয়ার সময়ে, আগুনে ঢোকার আগ পর্যন্ত। মুক্বাতিল একে জোড়েন সেই মুহূর্তের সঙ্গে, যখন তাদের বলা হয়, এতে লাঞ্ছিত হয়ে থাক আর আমার সঙ্গে কথা বোলো না (২৩:১০৮); এরপর তিনটি শক্তি একসঙ্গে চলে যায়। এ ব্যাখ্যায় শব্দগুলো সেই দিনের এক বাস্তব পর্যায়ের বাস্তব অবস্থা।"
           },
           {
             "en": "The second answer reads the three words against the life that earned them. Ibn Abbas takes blind as seeing nothing that would gladden them, dumb as unable to speak a single argument in their defence, and deaf as hearing nothing of any use. Ibn Kathir joins this to the world they came from: they were blind, dumb and deaf to the truth while they lived, and are raised so on the very Day they need those faculties most. The verse keeps both readings open, and both of them indict the same refusal.",
-            "bn": "দ্বিতীয় জবাবটি তিনটি শব্দকে পড়ে সেই জীবনের সঙ্গে মিলিয়ে যা এগুলো অর্জন করেছে। ইবন আব্বাস (রাঃ) অন্ধ মানে ধরেন এমন কিছু না দেখা যা তাদের খুশি করত, বোবা মানে নিজেদের পক্ষে একটি যুক্তিও বলতে না পারা, আর বধির মানে কোনো কাজের কথা না শোনা। ইবন কাসীর একে যুক্ত করেন তাদের ফেলে আসা দুনিয়ার সঙ্গে: তারা জীবদ্দশায় সত্যের প্রতি অন্ধ, বোবা ও বধির ছিল, তাই ঠিক সেই দিনই এমন করে ওঠানো হয় যেদিন এই শক্তিগুলো তাদের সবচেয়ে বেশি দরকার। আয়াত দুটি পাঠই খোলা রাখে, আর দুটোই একই প্রত্যাখ্যানকে দোষী সাব্যস্ত করে।"
+            "bn": "দ্বিতীয় জবাব তিনটি শব্দকে মেলায় সেই জীবনের সঙ্গে, যে জীবনের কারণে তাদের এ দশা। ইবন আব্বাস (রাঃ) বলেন, অন্ধ মানে খুশি হওয়ার মতো কিছুই না দেখা, বোবা মানে নিজেদের পক্ষে একটি যুক্তিও বলতে না পারা, আর বধির মানে কাজে আসে এমন কিছুই না শোনা। ইবন কাসীর এর সঙ্গে জোড়েন তাদের ফেলে আসা দুনিয়াকে: বেঁচে থাকতে তারা সত্যের ব্যাপারে অন্ধ, বোবা ও বধির ছিল, তাই ঠিক সেই দিনই তাদের এভাবে ওঠানো হয়, যেদিন এই শক্তিগুলো তাদের সবচেয়ে বেশি দরকার। আয়াত দুটি ব্যাখ্যাই খোলা রাখে, আর দুটোই একই প্রত্যাখ্যানকে কাঠগড়ায় দাঁড় করায়।"
           }
         ]
       },
@@ -2025,7 +2025,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Their refuge is Hell; every time it subsides, We increase for them the blaze. The commentators gather on the meaning of subsides. Ibn Abbas glosses it as calms and dies down, Mujahid as goes out, Qatada as grows weak, and at-Tabari as softens and abates, quoting an old line about a lamp that now dims and now shines. The increase is then an increase of flame, heat and glowing coal. So the fire appears to fail, and each time it does, it is fed once more.",
-            "bn": "তাদের আবাস জাহান্নাম; যখনই তা নিস্তেজ হয়, আমি তাদের জন্য দহন বাড়িয়ে দিই। তাফসীরকারেরা নিস্তেজ হওয়ার অর্থে এসে মেলেন। ইবন আব্বাস (রাঃ) একে বলেন শান্ত হয়ে নিভে আসা, মুজাহিদ বলেন নিভে যাওয়া, ক্বাতাদা বলেন দুর্বল হওয়া, আর তাবারী বলেন কোমল হয়ে থিতিয়ে আসা, এক পুরনো কবিতার চরণ টেনে যেখানে প্রদীপ কখনো ম্লান হয় কখনো জ্বলে ওঠে। বাড়ানোটা তখন শিখা, তাপ আর জ্বলন্ত অঙ্গারের বৃদ্ধি। তাই আগুন যেন নিভে আসে, আর যতবার তা হয়, ততবার একে আবার জ্বালানি দেওয়া হয়।"
+            "bn": "তাদের আবাস জাহান্নাম; যখনই তা নিস্তেজ হয়, আমি তাদের জন্য দহন বাড়িয়ে দিই। তাফসীরকারেরা নিস্তেজ হওয়ার অর্থে এসে মেলেন। ইবন আব্বাস (রাঃ) একে বলেন শান্ত হয়ে নিভে আসা, মুজাহিদ বলেন নিভে যাওয়া, ক্বাতাদা বলেন দুর্বল হওয়া, আর তাবারী বলেন কোমল হয়ে থিতিয়ে আসা, এক পুরনো কবিতার চরণ টেনে যেখানে প্রদীপ কখনো ম্লান হয় কখনো জ্বলে ওঠে। আর বাড়িয়ে দেওয়া মানে শিখা, তাপ আর জ্বলন্ত অঙ্গার বাড়িয়ে দেওয়া। তাই আগুন যেন নিভে আসে, আর যতবার তা হয়, ততবার একে আবার জ্বালানি দেওয়া হয়।"
           },
           {
             "en": "But the commentators are careful that this rising and falling is no relief. As-Sa'di reads subsides as the fire making ready to go out, and the increase as its being kindled afresh upon them, so that the punishment never lets up, they are not finished off by death, and nothing of it is lightened. Al-Qurtubi and al-Baghawi say the same: the calming of the blaze brings no decrease in their pains and no easing of the punishment, for Allah has said elsewhere that it is not lightened for them (43:75). The lull is a part of the torment, not a pause in it.",
@@ -2049,7 +2049,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The commentators guard this from both sides. As-Sa'di insists Allah did not wrong these people; their straying was their own disbelief. Yet guidance and misguidance rest with Allah alone, so no observer can read another's heart or settle his case. That leaves me one task, and it is not a census of the doomed. It is to stop treating my guidance as a possession. I did not invent the light I walk by, and the verse says plainly I can be left to myself. The fitting response is to keep asking to be held on the path, and to keep eyes, tongue and ears open to the truth.",
-            "bn": "তাফসীরকারেরা দুই দিক থেকেই একে পাহারা দেন। সাদী জোর দিয়ে বলেন, আল্লাহ এই লোকদের উপর জুলুম করেননি, তাদের পথভ্রষ্টতা তাদের নিজেদের কুফরিরই ফসল। তবু হেদায়েত ও গুমরাহি একমাত্র আল্লাহর হাতে, তাই কোনো দর্শক অন্যের অন্তর পড়তে বা তার ফয়সালা করতে পারে না। এতে আমার হাতে থাকে একটাই কাজ, আর তা ধ্বংসপ্রাপ্তদের হিসাব নেওয়া নয়। তা হলো নিজের হেদায়েতকে সম্পত্তি ভাবা বন্ধ করা। যে আলোয় আমি চলি তা আমি বানাইনি, আর আয়াত সোজাসুজি বলে যে আমাকেও নিজের হাতে ছেড়ে দেওয়া হতে পারে। মানানসই জবাব সেটাই যা এই আলোচনা দেখিয়ে দেয়, পথের উপর ধরে রাখার জন্য চাইতে থাকা, আর সত্যের প্রতি নিজের চোখ, জিভ ও কান খোলা রাখা যতক্ষণ তারা সাড়া দেয়।"
+            "bn": "তাফসীরকারেরা দুই দিক থেকেই এই কথাকে আগলে রাখেন। সাদী জোর দিয়ে বলেন, আল্লাহ এই লোকদের ওপর জুলুম করেননি, তাদের পথভ্রষ্টতা তাদের নিজেদেরই কুফরি। আবার হেদায়েত ও গুমরাহি একমাত্র আল্লাহর হাতে, তাই বাইরে থেকে কেউ অন্যের অন্তর পড়তে বা তার ফয়সালা করতে পারে না। ফলে আমার হাতে থাকে একটাই কাজ, আর তা ধ্বংসপ্রাপ্তদের তালিকা বানানো নয়। কাজটা হলো নিজের হেদায়েতকে নিজের সম্পত্তি ভাবা বন্ধ করা। যে আলোয় আমি চলি, তা আমার বানানো নয়, আর আয়াত সোজাসুজি বলে, আমাকেও নিজের হাতে ছেড়ে দেওয়া হতে পারে। তাই মানানসই জবাব হলো বারবার চাওয়া, যেন আমাকে পথের ওপর ধরে রাখা হয়, আর সত্যের জন্য নিজের চোখ, জিভ ও কান খোলা রাখা।"
           }
         ]
       }
@@ -2069,7 +2069,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir hears more than old history here. To the Prophet, reciting it in Makkah before the Hijrah, it reads as glad tidings. The people of Makkah, too, were set on driving him out, as 17:76 and 17:77 record, and he too would be given the city he was pushed from. So the verse works on two levels: one about a people long ago, one about the man reciting it. Both turn on a single law. The ground can change hands, and the One who moves it is God, not whoever holds the power.",
-            "bn": "ইবন কাসীর এই বাক্যে পুরনো ইতিহাসের চেয়ে বেশি কিছু শোনেন। নবী ﷺ যখন হিজরতের আগে মক্কায় এটি তিলাওয়াত করছেন, তাঁর কাছে তা সুসংবাদ। মক্কার লোকেরাও তাঁকে বের করে দিতে উঠেপড়ে লেগেছিল, যেমন ১৭:৭৬ ও ১৭:৭৭ আয়াত বলে। আর তিনিও একদিন সেই শহর ফিরে পাবেন যেখান থেকে তাঁকে ঠেলে বের করা হয়েছিল। তাই আয়াতটি একসঙ্গে দুই স্তরে কাজ করে। একটি বহুকাল আগের এক জাতিকে নিয়ে, অন্যটি যিনি তিলাওয়াত করছেন তাঁকে নিয়ে। দুটোই একই বিধানের উপর ঘোরে। যমীনের হাতবদল হতে পারে, আর যিনি তা ঘোরান তিনি আল্লাহ, ক্ষমতা যার হাতেই থাক।"
+            "bn": "ইবন কাসীর এই বাক্যে পুরনো ইতিহাসের চেয়ে বেশি কিছু শোনেন। নবী ﷺ যখন হিজরতের আগে মক্কায় এটি তিলাওয়াত করছেন, তাঁর কাছে তা সুসংবাদ। মক্কার লোকেরাও তাঁকে বের করে দিতে উঠেপড়ে লেগেছিল, যেমন ১৭:৭৬ ও ১৭:৭৭ আয়াত বলে। আর তিনিও একদিন সেই শহর ফিরে পাবেন যেখান থেকে তাঁকে ঠেলে বের করা হয়েছিল। তাই আয়াতটি একসঙ্গে দুই স্তরে কাজ করে। একটি বহুকাল আগের এক জাতিকে নিয়ে, অন্যটি যিনি তিলাওয়াত করছেন তাঁকে নিয়ে। দুটোই একই বিধানের উপর ঘোরে। যমীনের হাতবদল হতে পারে, আর সেই হাতবদল ঘটান আল্লাহ, ক্ষমতা যার হাতেই থাক না কেন।"
           }
         ]
       },
@@ -2081,7 +2081,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators split over which land is meant. At-Tabari names it the land of Shām, and al-Muyassar reads it the same way: once Pharaoh and his troops had perished, the Children of Israel were told to settle in the land of Shām. Al-Qurtubi widens it to the land of Shām and Egypt, and al-Baghawi to Egypt and Shām, the two held together. What the bare word al-arḍ leaves open, each commentator fills from the wider Qur'anic account of where this people went once the sea had parted and closed.",
-            "bn": "কোন যমীনের কথা বলা হচ্ছে, তা নিয়ে তাফসীরকারেরা ভিন্ন মত পোষণ করেন। তাবারী একে বলেন শামের ভূমি, আর মুয়াসসারও একইভাবে পড়েন: ফিরআউন ও তার সৈন্যরা ধ্বংস হওয়ার পর বানী ইসরাঈলকে শামের ভূমিতে বসবাসের কথা বলা হলো। কুরতুবী তা বিস্তৃত করেন শাম ও মিসরের ভূমি পর্যন্ত, আর বাগাভী মিসর ও শাম, দুটিকে একসঙ্গে ধরেন। শুধু আল-আরদ শব্দটি যা খোলা রেখে দেয়, প্রতিটি তাফসীরকার তা ভরে দেন এই জাতি সমুদ্র পার হওয়ার পর কোথায় গিয়েছিল, সেই বিস্তৃত কুরআনি বিবরণ থেকে।"
+            "bn": "কোন যমীনের কথা বলা হচ্ছে, তা নিয়ে তাফসীরকারদের মত ভিন্ন। তাবারী বলেন শামের ভূমি, মুয়াসসারও তাই বলে: ফিরআউন ও তার সৈন্যরা ধ্বংস হওয়ার পর বানী ইসরাঈলকে শামের ভূমিতে বসবাস করতে বলা হলো। কুরতুবী একে শাম ও মিসর পর্যন্ত ছড়িয়ে দেন, আর বাগাভী মিসর ও শাম দুটোকেই একসঙ্গে ধরেন। শুধু আল-আরদ শব্দে জায়গাটা খোলা থেকে যায়। সাগর দুভাগ হয়ে আবার মিলে যাওয়ার পর এই জাতি কোথায় গিয়েছিল, কুরআনের সেই বড় বিবরণ থেকে প্রত্যেক তাফসীরকার ফাঁকটুকু পূরণ করেন।"
           },
           {
             "en": "Ibn Kathir takes al-arḍ more broadly still. He does not pin it to one province but reads it as the inheritance itself: God caused the people who had been made weak to inherit the land, and gave them the land of Pharaoh's people, its crops and treasures. He cites 26:59, thus We caused the Children of Israel to inherit them. For Ibn Kathir the weight is less the map than the transfer: what the tyrant guarded is handed to the very people he ground down.",
@@ -2105,7 +2105,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This reframes the gift. A land handed to the oppressed is real mercy, but the verse will not let it harden into a final home. At-Tabari glosses the closing clause as the Hour itself; al-Muyassar as the Day of Resurrection, when the dead are raised from their graves to the standing of the reckoning. So the settling that opens the verse is measured against the gathering that closes it. To dwell in the land, on the Qur'an's own terms, is to live on the road to somewhere else, never at the road's end.",
-            "bn": "এতে দানটির অর্থই বদলে যায়। নিপীড়িতের হাতে তুলে দেওয়া যমীন সত্যিকারের রহমত, তবে আয়াত তাকে চূড়ান্ত ঠিকানায় জমাট বাঁধতে দেয় না। তাবারী শেষ বাক্যাংশটিকে ব্যাখ্যা করেন খোদ কিয়ামত হিসেবে; মুয়াসসার একে বলেন পুনরুত্থানের দিন, যখন মৃতদের কবর থেকে হিসাবের ময়দানে তোলা হবে। তাই আয়াতের শুরুতে যে থিতু হওয়া, তা মাপা হয় শেষে যে জড়ো হওয়া, তার নিরিখে। যমীনে বসবাস করা, কুরআনের নিজের ভাষায়, হলো এক জায়গায় থাকা যা আরেক জায়গায় যাওয়ার পথ, পথের শেষ নয়।"
+            "bn": "এতে দানটির মানেই বদলে যায়। নিপীড়িতদের হাতে তুলে দেওয়া যমীন সত্যিকারের রহমত, তবে আয়াত সেটাকে শেষ ঠিকানা হয়ে উঠতে দেয় না। তাবারী শেষ অংশটির ব্যাখ্যা করেন খোদ কিয়ামত দিয়ে, আর মুয়াসসার বলে পুনরুত্থানের দিন, যখন মৃতদের কবর থেকে তুলে হিসাবের ময়দানে দাঁড় করানো হবে। তাই আয়াতের শুরুর বসতিকে মাপা হয় আয়াতের শেষের হাশর দিয়ে। কুরআনের নিজের শর্তে যমীনে বসবাস মানে অন্য কোথাও যাওয়ার পথে থাকা, পথের শেষে পৌঁছে যাওয়া কখনো নয়।"
           }
         ]
       },
@@ -2121,11 +2121,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A second reading is preserved, and the honest thing is to keep it as a difference rather than fold it away. Al-Qurtubi and al-Baghawi both report, on the authority of al-Kalbi, that waʿd al-ākhira here means the coming of ʿĪsā (AS) down from the sky. On that view the promise is a return within history, not only the final raising of the dead. The two commentators carry the reading without adopting it; they set it beside the Resurrection gloss and leave both standing, which is where an honest reader has to leave them too.",
-            "bn": "একটি দ্বিতীয় পাঠও সংরক্ষিত আছে, আর সৎ কাজ হলো তাকে চাপা না দিয়ে মতভেদ হিসেবেই রাখা। কুরতুবী ও বাগাভী দুজনেই কালবীর সূত্রে বর্ণনা করেন যে এখানে ওয়াদুল আখিরাহ মানে ঈসা (আঃ)-এর আসমান থেকে নেমে আসা। এই মতে ওয়াদা হলো ইতিহাসের ভেতরেই এক প্রত্যাবর্তন, কেবল শেষের পুনরুত্থান নয়। দুই তাফসীরকার পাঠটি বহন করেন, তবে গ্রহণ করেন না। তাঁরা একে পুনরুত্থানের ব্যাখ্যার পাশে রাখেন আর দুটোকেই দাঁড় করিয়ে রাখেন। সৎ পাঠককেও ঠিক সেখানেই থামতে হয়।"
+            "bn": "একটি দ্বিতীয় ব্যাখ্যাও সংরক্ষিত আছে। সততার দাবি হলো, তাকে চাপা না দিয়ে মতভেদ হিসেবেই রেখে দেওয়া। কুরতুবী ও বাগাভী দুজনেই কালবীর সূত্রে বর্ণনা করেন, এখানে ওয়াদুল আখিরাহ মানে ঈসা (আঃ)-এর আসমান থেকে নেমে আসা। এই মতে ওয়াদাটি শুধু শেষ পুনরুত্থান নয়, ইতিহাসের ভেতরেই এক প্রত্যাবর্তন। দুই তাফসীরকার মতটি উল্লেখ করেন, কিন্তু নিজেরা গ্রহণ করেন না। তাঁরা একে পুনরুত্থানের ব্যাখ্যার পাশে রেখে দেন, দুটোকেই বহাল রাখেন। সৎ পাঠককেও ঠিক সেখানেই থামতে হয়।"
           },
           {
             "en": "It is worth being exact about what these fetched commentators do not say. None of them ties this promise of the Last back to the two corruptions foretold at the opening of the sura, in 17:4 to 17:8, though a reader might expect the link. On these pages the phrase is read as the Resurrection by the majority, or as the descent of ʿĪsā (AS) by al-Kalbi, and no further than that. Where the sources fall silent, the discipline is to stop where they stop and not to supply a connection they did not themselves draw.",
-            "bn": "যা এই তাফসীরকারেরা বলেন না, সে বিষয়েও নিখুঁত থাকা দরকার। তাঁদের কেউই শেষের এই ওয়াদাকে সুরার শুরুতে ১৭:৪ থেকে ১৭:৮ আয়াতে বর্ণিত দুই ফাসাদের সঙ্গে জোড়েন না, যদিও পাঠক এমন যোগসূত্র আশা করতে পারেন। এই পাতাগুলোতে বাক্যটি বেশির ভাগের কাছে পড়া হয় পুনরুত্থান হিসেবে, বা কালবীর কাছে ঈসা (আঃ)-এর অবতরণ হিসেবে, এর বেশি নয়। যেখানে উৎস নীরব, সেখানে নিয়ম হলো তাঁরা যেখানে থামেন সেখানেই থামা, আর তাঁরা নিজে না টানা কোনো যোগসূত্র জুড়ে না দেওয়া।"
+            "bn": "এই তাফসীরকারেরা কী বলেন না, সে ব্যাপারেও নিখুঁত থাকা দরকার। সূরার শুরুতে ১৭:৪ থেকে ১৭:৮ আয়াতে যে দুই ফাসাদের ভবিষ্যদ্বাণী, তাঁদের কেউই শেষের এই ওয়াদাকে তার সঙ্গে জোড়েন না, যদিও পাঠক হয়তো এমন যোগসূত্র আশা করবেন। এখানে তাঁদের বেশির ভাগ কথাটিকে বোঝেন পুনরুত্থান, আর কালবী বোঝেন ঈসা (আঃ)-এর অবতরণ। এর বেশি কিছু নয়। উৎস যেখানে চুপ, সেখানে নিয়ম হলো তাঁরা যেখানে থেমেছেন সেখানেই থামা, আর তাঁরা নিজেরা যে যোগসূত্র টানেননি, তা জুড়ে না দেওয়া।"
           }
         ]
       },
@@ -2137,7 +2137,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends jiʾnā bikum lafīfan, We will bring you as a lafīf. At-Tabari opens the word: We gather you from your graves to the standing of the Resurrection as a lafīf, that is, intermingled, folded together, not knowing each other, none of you drawing off to his tribe and his clan. He derives it from the phrase lafaftu al-juyūsh, I folded the armies together, said when they are thrown against each other until all is mixed. Whatever is folded into something else, he adds, is lafīf with it.",
-            "bn": "আয়াত শেষ হয় জিনা বিকুম লাফীফা দিয়ে, আমি তোমাদের লাফীফ হিসেবে হাজির করব। তাবারী শব্দটি খুলে দেন: তোমাদের কবর থেকে কিয়ামতের ময়দানে জড়ো করব লাফীফ হিসেবে, অর্থাৎ মিশ্রিত, একে অন্যের উপর জড়ানো, একে অন্যকে চেনে না, তোমাদের কেউ নিজের গোত্র ও পাড়ার দিকে সরে যেতে পারে না। তিনি শব্দটির উৎস দেখান লাফাফতুল জুয়ুশ বাক্যে, আমি সৈন্যদলকে একসঙ্গে জড়িয়ে দিলাম, যা বলা হয় যখন তারা একে অন্যের সঙ্গে ধাক্কা খেয়ে সব মিশে যায়। যা কিছু অন্য কিছুর সঙ্গে জড়ানো, তিনি বলেন, তা তার সঙ্গে লাফীফ।"
+            "bn": "আয়াত শেষ হয় জিনা বিকুম লাফীফা দিয়ে, আমি তোমাদের লাফীফ হিসেবে হাজির করব। তাবারী শব্দটি খুলে দেন: তোমাদের কবর থেকে কিয়ামতের ময়দানে জড়ো করব লাফীফ হিসেবে, অর্থাৎ মিশ্রিত, একে অন্যের উপর জড়ানো, একে অন্যকে চেনে না, তোমাদের কেউ নিজের গোত্র ও বংশের দিকে সরে যেতে পারে না। তিনি শব্দটির উৎস দেখান লাফাফতুল জুয়ুশ বাক্যে, আমি সৈন্যদলকে একসঙ্গে জড়িয়ে দিলাম, যা বলা হয় যখন তারা একে অন্যের সঙ্গে ধাক্কা খেয়ে সব মিশে যায়। যা কিছু অন্য কিছুর সঙ্গে জড়ানো, তিনি বলেন, তা তার সঙ্গে লাফীফ।"
           },
           {
             "en": "Al-Qurtubi paints the same scene. They come from the graves intermingled from every place, believer mixed with disbeliever, not recognizing one another, none able to withdraw to his tribe. He then gathers the lexicographers. Al-Jawhari: al-lafīf is what has come together of people from diverse tribes. Al-Asma'i: lafīf is a plural with no singular, like the word for all. They pour out at the mustering, al-Qurtubi says, like scattered locusts, mixed and unknowing. The word itself refuses to let anyone in that crowd keep a separate label.",
@@ -2157,7 +2157,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Honesty about the sources includes their silence. None of the tafsir fetched for this verse attaches a sound hadith to 17:104 itself. Ma'arif al-Qur'an does cite a sound narration close by, from Safwan ibn al-ʿAssal, reported in Abu Dawud, an-Nasa'i, at-Tirmidhi and Ibn Majah, in which the Prophet lists nine commandments as the nine signs. But that report explains 17:101, the verse of the nine signs given to Musa (AS), not the command to dwell in the land. It is sound, and it is not on this verse. Both facts belong in the record.",
-            "bn": "উৎস নিয়ে সততার মধ্যে তাদের নীরবতাও পড়ে। এই আয়াতের জন্য আনা কোনো তাফসীরই ১৭:১০৪-এর সঙ্গে সহীহ হাদীস যুক্ত করে না। মাআরিফুল কুরআন কাছাকাছি একটি সহীহ বর্ণনা উদ্ধৃত করে, সাফওয়ান ইবন আসসাল থেকে, যা আছে আবু দাউদ, নাসাঈ, তিরমিযী ও ইবন মাজায়, যেখানে নবী ﷺ নয়টি আদেশকে ‘নয় নিদর্শন’ বলে গণনা করেন। কিন্তু সেই বর্ণনা ব্যাখ্যা করে ১৭:১০১, মূসা (আঃ)-কে দেওয়া নয় নিদর্শনের আয়াত, যমীনে বসবাসের আদেশ নয়। তা সহীহ, আর তা এই আয়াতের নয়। দুটো কথাই নথিতে থাকা দরকার।"
+            "bn": "উৎস নিয়ে সৎ থাকতে হলে তারা কোথায় চুপ, সেটাও বলতে হয়। এই আয়াতের জন্য আনা কোনো তাফসীরই ১৭:১০৪-এর সঙ্গে সহীহ হাদীস যুক্ত করে না। মাআরিফুল কুরআন কাছাকাছি একটি সহীহ বর্ণনা উদ্ধৃত করে, সাফওয়ান ইবন আসসাল থেকে, যা আছে আবু দাউদ, নাসাঈ, তিরমিযী ও ইবন মাজায়, যেখানে নবী ﷺ নয়টি আদেশকে ‘নয় নিদর্শন’ বলে গণনা করেন। কিন্তু সেই বর্ণনা ব্যাখ্যা করে ১৭:১০১, মূসা (আঃ)-কে দেওয়া নয় নিদর্শনের আয়াত, যমীনে বসবাসের আদেশ নয়। তা সহীহ, আর তা এই আয়াতের নয়। দুটো কথাই নথিতে থাকা দরকার।"
           },
           {
             "en": "For the theme that closes the verse, the gathering, one sound narration can stand beside it, though not as its commentary. Al-Bukhari records from Abu Hurayra that the Prophet said, Allah will give shade to seven on the Day when there is no shade but His. The report is sound, in Sahih al-Bukhari. It names not a land but the people the Day will shelter: the just ruler, the youth raised worshipping his Lord, the man whose heart is tied to the mosques, and the rest. It is set here as a light on the gathering, not a comment on 17:104.",
@@ -2189,7 +2189,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Bring the two halves of the verse together and a way of living appears. God grants a place to stand and, in the same sentence, names the Day it ends. That is the shape of every settled life: a home that is real, a term that is fixed, and a gathering that levels every distinction we spend our days defending. The believer who takes this in does not despise the land he is given. He holds it lightly, as a trust, knowing the lease is already written and its Grantor keeps every appointment He makes.",
-            "bn": "আয়াতের দুই অর্ধেক একসঙ্গে রাখুন, তখন একটা জীবনধারা ফুটে ওঠে। আল্লাহ দাঁড়ানোর একটা জায়গা দেন, আর একই বাক্যে সেই দিনের নাম বলে দেন যেদিন তা শেষ হবে। প্রতিটি থিতু জীবনের গড়নই এমন: একটা বাস্তব ঘর, একটা নির্ধারিত মেয়াদ, আর এক হাশর যা আমাদের সারা দিন আগলে রাখা প্রতিটি পার্থক্য সমান করে দেয়। যে মুমিন এটা বুঝে নেয়, সে তার পাওয়া যমীনকে তুচ্ছ করে না। সে তাকে হালকাভাবে ধরে, আমানত হিসেবে, জেনে যে ভাড়ার চুক্তি আগেই লেখা আর যিনি তা দিয়েছেন তিনি তাঁর প্রতিটি নির্ধারিত সময় রক্ষা করেন।"
+            "bn": "আয়াতের দুই অংশ পাশাপাশি রাখুন, একটা জীবনধারা চোখে পড়বে। আল্লাহ দাঁড়ানোর একটা জায়গা দেন, আর একই বাক্যে বলে দেন কোন দিন তা শেষ হবে। প্রতিটি থিতু জীবনের চেহারাই এমন: একটা সত্যিকারের ঘর, একটা বাঁধা মেয়াদ, আর এমন এক হাশর, যা সমান করে দেয় সেই সব ভেদাভেদ, যেগুলো আগলে রাখতে আমরা জীবন কাটিয়ে দিই। যে মুমিন এ কথা বোঝে, সে তার পাওয়া যমীনকে তুচ্ছ করে না। সে তা আলগা হাতে ধরে, আমানত হিসেবে। সে জানে, মেয়াদ আগেই লেখা হয়ে গেছে, আর যিনি দিয়েছেন, তিনি তাঁর ঠিক করা কোনো সময়ের হেরফের করেন না।"
           },
           {
             "en": "So the verse turns a question back on the reader. What am I building on ground I have only borrowed? The tribe I draw off to, the side I sort myself into, the address I defend as though it were mine forever, all of it dissolves in the lafīf, where no one is known by anything but his deeds. As-Sa'di caught the whole point: they are gathered so that every worker is repaid for his work. The wise response is to begin sending ahead now the one thing that will still be mine when the ground is not.",
@@ -2209,7 +2209,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is the second-to-last verse of its surah, and the surah frames it. 17:1 opens with subhan, glory to Him who took His servant by night. 17:111 closes with praise to Allah who has taken no son and has no partner in His dominion, and with the command to magnify Him greatly. Between an opening of glorification and a closing of glorification, this verse deals with how the words are said.",
-            "bn": "এটি তার সূরার শেষ থেকে দ্বিতীয় আয়াত, আর সূরাটি একে দুই পাশ থেকে ঘিরে রেখেছে। 17:1 শুরু হয় সুবহান দিয়ে — পবিত্র ও মহিমান্বিত তিনি, যিনি তাঁর বান্দাকে রাতে ভ্রমণ করিয়েছেন। 17:111 শেষ হয় সেই আল্লাহর প্রশংসা দিয়ে যিনি কোনো সন্তান গ্রহণ করেননি এবং যাঁর রাজত্বে কোনো অংশীদার নেই, আর শেষ হয় তাঁর শ্রেষ্ঠত্ব পূর্ণভাবে ঘোষণার নির্দেশ দিয়ে। মহিমাঘোষণা দিয়ে শুরু আর মহিমাঘোষণা দিয়ে শেষ — এ দুইয়ের মাঝখানে এই আয়াতটি বলে দেয় কথাগুলো কীভাবে বলতে হবে।"
+            "bn": "এটি সূরার শেষের আগের আয়াত, আর গোটা সূরা একে দুই দিক থেকে ঘিরে রেখেছে। ১৭:১ শুরু হয় 'সুবহান' দিয়ে: পবিত্র তিনি, যিনি তাঁর বান্দাকে রাতে ভ্রমণ করিয়েছেন। ১৭:১১১ শেষ হয় সেই আল্লাহর প্রশংসায়, যিনি কোনো সন্তান গ্রহণ করেননি, যাঁর রাজত্বে কোনো শরিক নেই; সঙ্গে আছে তাঁর বড়ত্ব পুরোপুরি ঘোষণা করার নির্দেশ। শুরুতে মহিমা, শেষেও মহিমা। এর মাঝখানে এই আয়াত শেখায়, কথাগুলো কীভাবে বলতে হয়।"
           }
         ]
       },
