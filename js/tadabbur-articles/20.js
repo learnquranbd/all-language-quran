@@ -2701,7 +2701,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The pair sits at the end of a surah preoccupied with forgetting. 20:115 says that a covenant was taken from Adam before, and he forgot, and We found no determination in him. The same word returns at the close of this very exchange, in 20:126, where the man is told that he forgot the signs and is therefore forgotten today. Between those two forgettings the whole human story, as this surah tells it, is contained.",
-            "bn": "জোড়াটি বসে আছে এমন এক সূরার শেষে যা ভুলে যাওয়া নিয়ে আচ্ছন্ন। 20:115 বলে, ইতঃপূর্বে আদমের কাছ থেকে অঙ্গীকার নেওয়া হয়েছিল, কিন্তু সে ভুলে গেল, আর আমি তার মধ্যে দৃঢ়সংকল্প পাইনি। একই শব্দ ফিরে আসে ঠিক এই কথোপকথনের শেষে, 20:126-এ, যেখানে সেই ব্যক্তিকে বলা হয় যে সে নিদর্শনগুলো ভুলে গিয়েছিল, তাই আজ তাকেই ভুলে যাওয়া হচ্ছে। এই দুই ভুলে যাওয়ার মাঝখানেই ধরা আছে গোটা মানব-কাহিনি, অন্তত এই সূরা যেভাবে তা বলে।"
+            "bn": "এই জোড়াটি এসেছে এমন এক সূরার শেষ দিকে, যার পুরোটা জুড়ে আছে ভুলে যাওয়ার কথা। ২০:১১৫ বলে, আগে আদমের কাছ থেকে অঙ্গীকার নেওয়া হয়েছিল, কিন্তু সে ভুলে গেল, আর আমি তার মধ্যে দৃঢ়সংকল্প পাইনি। এই কথোপকথনের একেবারে শেষে, ২০:১২৬-এ, একই শব্দ আবার ফিরে আসে: লোকটিকে বলা হয়, সে নিদর্শনগুলো ভুলে গিয়েছিল, তাই আজ তাকেও ভুলে যাওয়া হচ্ছে। এই সূরা মানুষের গোটা কাহিনি যেভাবে বলে, তার পুরোটাই ধরা আছে এই দুই ভুলে যাওয়ার মাঝখানে।"
           }
         ]
       },
@@ -2713,11 +2713,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa man a'rada 'an dhikri — and whoever turns away from My remembrance. A'rada is built on 'ard, the side: to give something your side instead of your face. It is not a word for denial or open rejection. A person can hold the creed intact and still be described here, because what the verb reports is a body angled elsewhere. Ibn Kathir glosses it as opposing His command and what He revealed, neglecting it, and taking guidance from something other than it.",
-            "bn": "ওয়া মান আ'রাদা 'আন যিকরী — আর যে আমার স্মরণ থেকে মুখ ফিরিয়ে নেয়। 'আ'রাদা' গড়া হয়েছে ''আরদ' থেকে, যার অর্থ পাশ: কোনো কিছুকে মুখ না দিয়ে পাশ দেখানো। এটি অস্বীকার বা প্রকাশ্য প্রত্যাখ্যানের শব্দ নয়। কেউ আকীদা অক্ষুণ্ন রেখেও এই বর্ণনার ভেতরে পড়তে পারে, কারণ ক্রিয়াপদটি যা জানায় তা হলো অন্যদিকে ঘুরে থাকা একটি শরীর। ইবনে কাসীর এর ব্যাখ্যা করেন: তাঁর আদেশ ও তাঁর নাযিলকৃত বিধানের বিরোধিতা করা, তা অবহেলা করা, আর তা ছাড়া অন্য কিছু থেকে পথনির্দেশ নেওয়া।"
+            "bn": "ওয়া মান আ'রাদা 'আন জিকরী — আর যে আমার স্মরণ থেকে মুখ ফিরিয়ে নেয়। 'আ'রাদা' শব্দের মূল ''আরদ', মানে পাশ: কোনো কিছুর দিকে মুখ না ফিরিয়ে পাশ ফিরিয়ে রাখা। শব্দটি অস্বীকার বা প্রকাশ্য প্রত্যাখ্যান বোঝায় না। কারও আকীদা পুরোপুরি ঠিক থাকলেও সে এই বর্ণনায় পড়ে যেতে পারে, কারণ ক্রিয়াটি যে ছবি আঁকে তা হলো অন্য দিকে ঘুরে থাকা একটি শরীর। ইবনে কাসীরের ব্যাখ্যায় এর মানে: তাঁর আদেশ ও তিনি যা নাজিল করেছেন তার বিরোধিতা করা, তা থেকে উদাসীন থাকা, আর তা বাদ দিয়ে অন্য কিছু থেকে পথের দিশা নেওয়া।"
           },
           {
             "en": "And dhikri is His remembrance in both of the directions the phrase allows — the Quran He sent down as a reminder, and the servant's own remembering of Him. The commentators do not treat the two as rivals, since a person who has turned from the one has already turned from the other. What the verse describes is not a single act but a direction, held long enough that it has become a way of standing.",
-            "bn": "আর 'যিকরী' শব্দটি তাঁর স্মরণ — বাক্যাংশটি যে দুই অর্থের অনুমতি দেয় তার দুটোতেই: তিনি স্মারক হিসেবে যে কুরআন নাযিল করেছেন, আর বান্দার নিজের তাঁকে স্মরণ করা। মুফাসসিরগণ এ দুটিকে প্রতিদ্বন্দ্বী হিসেবে দেখেন না, কারণ যে একটি থেকে মুখ ফিরিয়েছে সে অন্যটি থেকেও ইতোমধ্যেই ফিরিয়েছে। আয়াতটি যা বর্ণনা করে তা একটি কাজ নয়, একটি দিক — যা এত দীর্ঘ সময় ধরে রাখা হয়েছে যে তা দাঁড়ানোরই একটি ধরন হয়ে গেছে।"
+            "bn": "আর 'জিকরী' মানে তাঁর জিকির, এবং বাক্যটি দুই অর্থই ধরে রাখে: তিনি উপদেশ হিসেবে যে কুরআন নাজিল করেছেন, আর বান্দা নিজে যে তাঁকে স্মরণ করে। মুফাসসিরগণ এ দুটিকে একটি আরেকটির প্রতিদ্বন্দ্বী ভাবেন না, কারণ যে একটি থেকে মুখ ফিরিয়েছে, সে অন্যটি থেকেও আগেই ফিরে গেছে। আয়াতটি একবারের কোনো কাজের কথা বলছে না, বলছে একটি দিকের কথা। সেই দিকে মানুষ এত দিন মুখ করে থাকে যে শেষে সেটাই তার দাঁড়ানোর ধরন হয়ে যায়।"
           }
         ]
       },
@@ -2729,11 +2729,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The consequence is ma'ishatan danka. Ma'ishah is what a person lives on and how he lives, which is why translators render it both as life and as livelihood — the word carries both. Dank is narrowness and constriction, the opposite of spaciousness, and the grammarians note that it is a verbal noun pressed into service as a description, which is why it does not take the feminine ending that would ordinarily follow ma'ishah.",
-            "bn": "পরিণামটি হলো 'মাঈশাতান দানকা'। 'মাঈশাহ' মানে মানুষ যা দিয়ে বাঁচে এবং যেভাবে বাঁচে — এ কারণেই অনুবাদকেরা একে কখনো 'জীবন', কখনো 'জীবিকা' বলে অনুবাদ করেন; শব্দটি দুটোই বহন করে। 'দানক' মানে সংকীর্ণতা ও সংকোচন, প্রশস্ততার বিপরীত; আর ব্যাকরণবিদরা লক্ষ করেন যে এটি একটি ক্রিয়াবাচক বিশেষ্য যাকে বিশেষণের কাজে লাগানো হয়েছে — এ কারণেই 'মাঈশাহ'-র পরে যে স্ত্রীবাচক প্রত্যয় সাধারণত আসত, তা এখানে আসেনি।"
+            "bn": "পরিণাম হলো 'মাঈশাতান দানকা'। 'মাঈশাহ' মানে মানুষ যা দিয়ে বাঁচে, আবার যেভাবে বাঁচে। তাই অনুবাদকেরা কেউ একে 'জীবন' বলেন, কেউ 'জীবিকা'; শব্দটির মধ্যে দুটোই আছে। 'দানক' মানে সংকীর্ণতা, চেপে আসা ভাব, প্রশস্ততার উল্টো। ব্যাকরণবিদরা দেখিয়েছেন, শব্দটি আসলে ক্রিয়াবাচক বিশেষ্য, এখানে বিশেষণের কাজ করছে। এ কারণেই 'মাঈশাহ'-র পরে সাধারণত যে স্ত্রীবাচক প্রত্যয় বসার কথা, এখানে তা বসেনি।"
           },
           {
             "en": "Ibn Kathir's gloss is specific. Such a person's life will be hard in this world, with no tranquillity and no expansion of the breast; his chest will be constrained by his misguidance, and even if outwardly he wears what he likes, eats what he likes and lives where he wants, he will not be at ease, because his heart lacks certainty and he is left in agitation and doubt. The narrowness described there is not a bank balance. It is a room to breathe in.",
-            "bn": "ইবনে কাসীরের ব্যাখ্যা সুনির্দিষ্ট। এমন মানুষের জীবন এই দুনিয়ায় কঠিন হবে — কোনো প্রশান্তি নেই, বুকের কোনো প্রশস্ততা নেই; তার বক্ষ সংকুচিত থাকবে তার গোমরাহির কারণে। বাইরে থেকে সে যা খুশি পরুক, যা খুশি খাক, যেখানে খুশি থাকুক — সে স্বস্তিতে থাকবে না, কারণ তার হৃদয়ে দৃঢ় প্রত্যয় নেই এবং সে অস্থিরতা ও সংশয়ের মধ্যে পড়ে থাকে। সেখানে যে সংকীর্ণতার কথা বলা হয়েছে তা ব্যাংকের হিসাব নয়। তা হলো নিঃশ্বাস নেওয়ার মতো জায়গা।"
+            "bn": "ইবনে কাসীর এখানে স্পষ্ট করে বলেছেন। এমন মানুষের জীবন দুনিয়াতেই কঠিন হবে: মনে শান্তি থাকবে না, বুক খুলবে না; নিজের গোমরাহির কারণে তার বুক চেপে থাকবে। বাইরে সে যা খুশি পরুক, যা খুশি খাক, যেখানে ইচ্ছা থাকুক, তবু সে স্বস্তি পাবে না। কারণ তার অন্তরে দৃঢ় বিশ্বাস নেই; সে অস্থিরতা আর সন্দেহের মধ্যেই পড়ে থাকে। তাহলে এখানে যে সংকীর্ণতার কথা, তা ব্যাংকে টাকা কম থাকার সংকীর্ণতা নয়। এ হলো শ্বাস নেওয়ার জায়গা না পাওয়া।"
           }
         ]
       },
@@ -2745,11 +2745,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa nahshuruhu yawmal-qiyamati a'ma — and We will gather him on the Day of Resurrection blind. Ibn Kathir reports Mujahid, Abu Salih and as-Suddi explaining the blindness as having no argument left to offer, and Ikrimah as being blind to everything except the Fire. He sets beside it 17:97, which describes people gathered upon their faces, blind and dumb and deaf. The blindness is not an added cruelty but a shape that matches what came before it.",
-            "bn": "ওয়া নাহশুরুহু ইয়াওমাল-কিয়ামাতি আ'মা — আর কিয়ামতের দিন আমি তাকে অন্ধ অবস্থায় উঠাব। ইবনে কাসীর মুজাহিদ, আবু সালিহ ও আস-সুদ্দী থেকে বর্ণনা করেন যে এই অন্ধত্বের অর্থ কোনো যুক্তি বাকি না থাকা, আর ইকরিমা থেকে বর্ণনা করেন যে সে জাহান্নাম ছাড়া সবকিছুর ব্যাপারেই অন্ধ থাকবে। তিনি এর পাশে রাখেন 17:97, যেখানে মানুষদের উপুড় মুখে একত্র করার কথা আছে — অন্ধ, বোবা ও বধির অবস্থায়। এই অন্ধত্ব বাড়তি নিষ্ঠুরতা নয়, বরং এমন এক আকৃতি যা তার আগের ঘটনার সঙ্গে মিলে যায়।"
+            "bn": "ওয়া নাহশুরুহু ইয়াওমাল-কিয়ামাতি আ'মা — আর কিয়ামতের দিন আমি তাকে অন্ধ অবস্থায় উঠাব। ইবনে কাসীর বর্ণনা করেছেন, মুজাহিদ, আবু সালিহ ও আস-সুদ্দীর মতে এই অন্ধত্বের মানে, তার হাতে পেশ করার মতো আর কোনো যুক্তি থাকবে না; আর ইকরিমার মতে, জাহান্নাম ছাড়া আর সব কিছুর ব্যাপারে সে অন্ধ থাকবে। এর পাশে তিনি ১৭:৯৭ রেখেছেন, যেখানে মানুষদের উপুড় করে মুখের ওপর ভর দিয়ে একত্র করার কথা আছে, অন্ধ, বোবা ও বধির অবস্থায়। এই অন্ধত্ব বাড়তি কোনো নিষ্ঠুরতা নয়। আগে যা ঘটেছে, এ ঠিক তারই মাপে গড়া রূপ।"
           },
           {
             "en": "20:125 then gives the man a line of his own: my Lord, why have You raised me blind when I used to see? 20:126 answers in his own vocabulary: thus did Our signs come to you, and you forgot them; and thus are you today forgotten. 20:127 generalises the case and adds that the punishment of the Hereafter is more severe and more lasting. Stopping at our verse leaves a bare threat; read on, and the man is walked through the argument himself.",
-            "bn": "এরপর 20:125 সেই ব্যক্তিকে নিজের একটি কথা বলার সুযোগ দেয়: হে আমার রব, আমাকে কেন অন্ধ অবস্থায় উঠালেন, অথচ আমি তো দেখতে পেতাম? 20:126 জবাব দেয় তারই শব্দভাণ্ডারে: এভাবেই আমার নিদর্শনগুলো তোমার কাছে এসেছিল আর তুমি সেগুলো ভুলে গিয়েছিলে; আর এভাবেই আজ তোমাকে ভুলে যাওয়া হচ্ছে। 20:127 বিষয়টিকে সাধারণীকরণ করে এবং যোগ করে যে আখিরাতের শাস্তি আরও কঠিন ও আরও স্থায়ী। আমাদের আয়াতে থেমে গেলে থাকে নিছক এক হুমকি; পড়ে গেলে দেখা যায়, লোকটিকে যুক্তির ভেতর দিয়ে নিজেই হাঁটানো হচ্ছে।"
+            "bn": "এরপর ২০:১২৫-এ লোকটি নিজেই মুখ খোলে: হে আমার রব, আমাকে কেন অন্ধ অবস্থায় উঠালেন, অথচ আমি তো দেখতে পেতাম? ২০:১২৬ তার নিজের শব্দেই জবাব দেয়: এভাবেই আমার নিদর্শনগুলো তোমার কাছে এসেছিল আর তুমি সেগুলো ভুলে গিয়েছিলে; আর এভাবেই আজ তোমাকে ভুলে যাওয়া হচ্ছে। ২০:১২৭ কথাটিকে সবার জন্য সাধারণ করে দেয় এবং যোগ করে, আখিরাতের শাস্তি আরও কঠিন, আরও স্থায়ী। শুধু আমাদের আয়াতে থেমে গেলে হাতে থাকে কেবল একটি হুমকি। আরেকটু পড়লে দেখা যায়, লোকটিকেই ধাপে ধাপে পুরো যুক্তিটা পার করানো হচ্ছে।"
           }
         ]
       },
@@ -2761,11 +2761,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "13:28 states the same law from the other side: hearts come to rest by the remembrance of Allah. Set beside each other, the two verses show that the choice is not between remembrance and neutrality; it is between a heart that has somewhere to settle and one that has nowhere, in identical outward circumstances. That is why the constriction can arrive inside a comfortable life, and why the relief can arrive inside a hard one.",
-            "bn": "13:28 একই বিধান বলে অন্য দিক থেকে: আল্লাহর স্মরণেই হৃদয় প্রশান্তি পায়। দুটি আয়াত পাশাপাশি রাখলে দেখা যায়, নির্বাচনটি স্মরণ আর নিরপেক্ষতার মধ্যে নয়; নির্বাচনটি এমন এক হৃদয় আর অন্য এক হৃদয়ের মধ্যে — একটির থিতু হওয়ার জায়গা আছে, অন্যটির নেই, অথচ বাইরের পরিস্থিতি হুবহু এক। এ কারণেই সংকীর্ণতা আরামদায়ক জীবনের ভেতরেও আসতে পারে, আর স্বস্তি আসতে পারে কঠিন জীবনের ভেতরেও।"
+            "bn": "১৩:২৮ একই নিয়ম বলে উল্টো দিক থেকে: আল্লাহর জিকিরেই অন্তর প্রশান্তি পায়। দুটি আয়াত পাশাপাশি রাখলে বোঝা যায়, বেছে নেওয়ার প্রশ্নটা জিকির আর নিরপেক্ষ থাকার মধ্যে নয়। বাইরের অবস্থা হুবহু এক, তবু এক অন্তরের থিতু হওয়ার জায়গা আছে, আরেক অন্তরের কোথাও নেই। বেছে নিতে হয় এই দুইয়ের মধ্যে। এ কারণেই আরামের জীবনেও বুক চেপে আসতে পারে, আবার কষ্টের জীবনেও স্বস্তি নামতে পারে।"
           },
           {
             "en": "The surah supplies its own remedy a few verses later. 20:130 tells the Prophet ﷺ to be patient over what they say and to exalt his Lord with praise before the rising of the sun and before its setting, and during the hours of the night and at the ends of the day, so that he may be pleased. Remembrance there is not a mood but an appointment. The practical answer to a life gone tight is usually one fixed time reclaimed and kept.",
-            "bn": "সূরাটি নিজেই কয়েক আয়াত পরে তার প্রতিকার দেয়। 20:130 নবী ﷺ-কে বলে, তারা যা বলে তাতে ধৈর্য ধরতে এবং সূর্যোদয়ের আগে ও সূর্যাস্তের আগে, রাতের প্রহরগুলোতে ও দিনের প্রান্তভাগে তাঁর রবের প্রশংসাসহ তাঁর মহিমা ঘোষণা করতে — যাতে তিনি সন্তুষ্ট হন। সেখানে স্মরণ কোনো মেজাজ নয়, একটি নির্ধারিত সাক্ষাৎ। সংকুচিত হয়ে যাওয়া জীবনের ব্যবহারিক জবাব সাধারণত একটিই — একটি নির্দিষ্ট সময় ফিরিয়ে নেওয়া এবং তা ধরে রাখা।"
+            "bn": "সূরাটি নিজেই কয়েক আয়াত পরে এর প্রতিকার বলে দেয়। ২০:১৩০-এ আল্লাহ নবী ﷺ-কে বলছেন, তারা যা বলে তাতে ধৈর্য ধরতে, আর সূর্য ওঠার আগে ও ডোবার আগে, রাতের প্রহরগুলোতে এবং দিনের প্রান্তভাগে প্রশংসার সঙ্গে তাঁর রবের মহিমা ঘোষণা করতে, যাতে তিনি সন্তুষ্ট হতে পারেন। সেখানে জিকির মর্জির ব্যাপার নয়, ঠিক করে রাখা সময়ের ব্যাপার। জীবন যখন চেপে আসে, তখন বাস্তব জবাব সাধারণত এটুকুই: একটি নির্দিষ্ট সময় আবার ফিরিয়ে আনা, আর তা নিয়মিত ধরে রাখা।"
           }
         ]
       }
@@ -2781,11 +2781,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse closes a short run of instructions near the end of Surah Ta-Ha. 20:130 tells the Prophet ﷺ to be patient over what they say and to exalt his Lord before sunrise, before sunset, during the night and at the ends of the day. The verse immediately before ours, 20:131, then says: do not stretch your eyes toward what We have given various groups of them to enjoy, the splendour of this life, by which We test them; your Lord's provision is better and more lasting.",
-            "bn": "এই আয়াতটি সূরা ত্বা-হা-র শেষদিকের ছোট একটি নির্দেশ-ধারার সমাপ্তি টানে। 20:130 নবী ﷺ-কে বলে, তারা যা বলে তাতে ধৈর্য ধরতে এবং সূর্যোদয়ের আগে, সূর্যাস্তের আগে, রাতের বেলা ও দিনের প্রান্তগুলোয় তাঁর প্রতিপালকের মহিমা ঘোষণা করতে। এরপর আমাদের আয়াতের ঠিক আগের আয়াত 20:131 বলে: তাদের বিভিন্ন দলকে ভোগ করার জন্য আমি যা দিয়েছি সেদিকে চোখ মেলে তাকিও না, তা এই জীবনের শোভা, যা দিয়ে আমি তাদের পরীক্ষা করি; তোমার প্রতিপালকের রিযিকই উত্তম ও অধিক স্থায়ী।"
+            "bn": "সূরা ত্বা-হা-র শেষ দিকে কয়েকটি নির্দেশ পরপর এসেছে, এই আয়াতে এসে সেগুলো শেষ হয়। ২০:১৩০-এ আল্লাহ নবী ﷺ-কে বলেন, তারা যা বলে তাতে ধৈর্য ধরতে, আর সূর্য ওঠার আগে, সূর্য ডোবার আগে, রাতে এবং দিনের প্রান্তগুলোতে তাঁর রবের মহিমা ঘোষণা করতে। আমাদের আয়াতের ঠিক আগের আয়াত ২০:১৩১ বলে: তাদের বিভিন্ন দলকে ভোগের জন্য আমি যা দিয়েছি, দুনিয়ার জীবনের সেই চাকচিক্যের দিকে চোখ তুলে তাকিও না; এ দিয়ে আমি তাদের পরীক্ষা করি। তোমার রবের রিযিকই উত্তম ও বেশি স্থায়ী।"
           },
           {
             "en": "So the sequence is patience, then a warning against envying what others have been given, then this command about prayer and provision. That is one continuous argument, not three separate topics. Having just been told not to look sideways at other people's comfort, the Prophet ﷺ is told to turn inward to his own household and its prayer, and is then answered on the very anxiety that comparison feeds.",
-            "bn": "অর্থাৎ ক্রমটি হলো — ধৈর্য, তারপর অন্যদের যা দেওয়া হয়েছে তাতে ঈর্ষা না করার সতর্কতা, তারপর সালাত ও রিযিক নিয়ে এই নির্দেশ। এটি একটিই ধারাবাহিক যুক্তি, আলাদা তিনটি প্রসঙ্গ নয়। অন্যের আরাম-আয়েশের দিকে আড়চোখে না তাকাতে বলার ঠিক পরেই নবী ﷺ-কে বলা হচ্ছে নিজের ঘর ও তার সালাতের দিকে ফিরতে, আর তারপর সেই দুশ্চিন্তারই জবাব দেওয়া হচ্ছে যাকে তুলনা করাই খাওয়ায়।"
+            "bn": "তাহলে ক্রমটা এই: আগে ধৈর্য, তারপর অন্যকে যা দেওয়া হয়েছে তা দেখে ঈর্ষা না করার সতর্কবাণী, তারপর সালাত ও রিযিক নিয়ে এই আদেশ। এ তিনটি আলাদা প্রসঙ্গ নয়, একটিই টানা যুক্তি। অন্যের আরাম-আয়েশের দিকে আড়চোখে না তাকাতে বলার পরপরই আল্লাহ নবী ﷺ-কে বলছেন নিজের ঘরের দিকে, ঘরের সালাতের দিকে ফিরতে। তারপর জবাব দিচ্ছেন ঠিক সেই দুশ্চিন্তার, অন্যের সঙ্গে তুলনা করলেই যা বাড়তে থাকে।"
           }
         ]
       },
@@ -2797,11 +2797,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The wording is wa'mur ahlaka bis-salah. It is not merely pray with your family; it is order them to it. Ahl means the household, the people under your roof and in your care. The same two words appear in 19:55, where Isma'il (AS) used to enjoin prayer and zakah upon his ahl and was pleasing to his Lord. That verse sets the duty and the commendation in a single breath, which says something about the weight it carries.",
-            "bn": "শব্দবিন্যাসটি হলো ওয়ামুর আহলাকা বিস-সালাহ। এর অর্থ কেবল পরিবারের সঙ্গে নামায পড়া নয়; এর অর্থ তাদেরকে এর আদেশ দেওয়া। আহল মানে গৃহপরিজন, যারা আপনার ছাদের নিচে ও আপনার দায়িত্বে আছে। ঠিক এই দুটি শব্দই আসে 19:55 আয়াতে, যেখানে ইসমাঈল (আঃ) তাঁর আহলকে সালাত ও যাকাতের আদেশ দিতেন এবং তিনি তাঁর প্রতিপালকের কাছে সন্তুষ্টির পাত্র ছিলেন। সেই আয়াতটি দায়িত্ব ও প্রশংসাকে এক নিঃশ্বাসেই পাশাপাশি রাখে, যা এই দায়িত্বের ওজন সম্পর্কে অনেক কিছু বলে।"
+            "bn": "আয়াতের শব্দগুলো হলো: ওয়ামুর আহলাকা বিস-সালাহ। এর মানে শুধু পরিবারকে নিয়ে নামাজ পড়া নয়; বরং তাদের নামাজের আদেশ দেওয়া। আহল মানে ঘরের লোক, যারা আপনার ছাদের নিচে থাকে, যাদের দেখাশোনার ভার আপনার ওপর। ১৯:৫৫-তেও ঠিক এই দুটি শব্দ এসেছে: ইসমাঈল (আঃ) তাঁর আহলকে সালাত ও যাকাতের আদেশ দিতেন, আর তিনি ছিলেন তাঁর রবের সন্তুষ্টিভাজন। সেই আয়াত দায়িত্ব আর প্রশংসা এক নিঃশ্বাসে বলে দেয়। এতেই বোঝা যায়, এই দায়িত্ব কত ভারী।"
           },
           {
             "en": "66:6 widens the same responsibility and fixes its order: protect yourselves and your families from a Fire. Yourself first, then them. A father who commands the prayer and is not seen praying has given his household an instruction and taken away the reason to follow it. Abu Dawud narrates from Amr ibn Shu'ayb, from his father, from his grandfather, the instruction to have children pray from the age of seven, which shows the command being applied patiently and by stages rather than all at once.",
-            "bn": "66:6 একই দায়িত্বকে আরও প্রশস্ত করে এবং তার ক্রম ঠিক করে দেয়: নিজেদেরকে ও নিজেদের পরিবারকে আগুন থেকে রক্ষা কর। আগে নিজে, তারপর তারা। যে বাবা সালাতের আদেশ দেন অথচ যাঁকে নামায পড়তে দেখা যায় না, তিনি ঘরকে একটি নির্দেশ দিলেন আর তা মানার কারণটিই সরিয়ে নিলেন। আবু দাউদ আমর ইবনে শুআইব থেকে, তিনি তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেন সাত বছর বয়স থেকে শিশুদের নামায পড়তে বলার নির্দেশ, যা দেখায় এই আদেশ একসঙ্গে নয়, ধৈর্য ধরে ধাপে ধাপে প্রয়োগ করা হয়।"
+            "bn": "৬৬:৬ একই দায়িত্বকে আরও বিস্তৃত করে, আর তার ক্রমও ঠিক করে দেয়: নিজেদেরকে ও নিজেদের পরিবারকে আগুন থেকে রক্ষা কর। আগে নিজে, তারপর তারা। যে বাবা নামাজের আদেশ দেন অথচ তাঁকে কেউ নামাজ পড়তে দেখে না, তিনি ঘরের লোকদের নির্দেশ ঠিকই দিলেন, কিন্তু তা মানার কারণটাই কেড়ে নিলেন। আবু দাউদ আমর ইবনে শুআইব থেকে, তিনি তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেছেন: শিশুদের সাত বছর বয়স থেকে নামাজ পড়তে বলার নির্দেশ। এতে বোঝা যায়, এই আদেশ একবারে নয়, ধৈর্য ধরে ধাপে ধাপে পালন করানো হয়।"
           }
         ]
       },
@@ -2813,11 +2813,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next word is wastabir. Arabic could have said isbir, be patient, and the surah used that very root two verses earlier, in 20:130 above. Instead it uses a heavier form of the same root, one that adds letters and adds effort with them: brace yourself and keep bracing. Patience here is not a mood that settles on a person. It is something worked at, renewed each time it runs out.",
-            "bn": "পরের শব্দটি ওয়াসতাবির। আরবি চাইলে বলতে পারত ইসবির — ধৈর্য ধর — আর সূরাটি দুই আয়াত আগে 20:130 আয়াতেই এই ধাতুটি ব্যবহার করেছে। এর বদলে এখানে একই ধাতুর ভারী একটি রূপ এসেছে, যা অক্ষর বাড়ায় এবং তার সঙ্গে পরিশ্রমও বাড়ায়: নিজেকে শক্ত কর এবং শক্ত করেই রাখো। এখানে ধৈর্য এমন কোনো মেজাজ নয় যা মানুষের উপর এমনিতেই এসে বসে। এটি এমন কিছু যা নিয়ে খাটতে হয়, আর ফুরিয়ে গেলে বারবার নতুন করে জোগাড় করতে হয়।"
+            "bn": "পরের শব্দটি ওয়াসতাবির। আরবিতে চাইলে বলা যেত ইসবির, অর্থাৎ ধৈর্য ধরো; আর সূরাটি দুই আয়াত আগেই, ওপরে বলা ২০:১৩০-এ, এই ধাতুটিই ব্যবহার করেছে। কিন্তু এখানে এসেছে একই ধাতুর ভারী একটি রূপ। এতে অক্ষর বেড়েছে, আর তার সঙ্গে বেড়েছে খাটুনিও: নিজেকে শক্ত করো, আর শক্ত করেই রাখো। এখানে ধৈর্য এমন কোনো মেজাজ নয় যা আপনা-আপনি মানুষের ওপর এসে বসে। এর জন্য খাটতে হয়, আর ফুরিয়ে গেলে প্রতিবার নতুন করে জোগাড় করতে হয়।"
           },
           {
             "en": "Note also what the perseverance is aimed at. The wording is wastabir alayha, persevere upon it, and the pronoun goes back to the prayer, not to the family. You are not told to endure your household's resistance; you are told to keep at the prayer itself. That shifts the target usefully. The household is far more often moved by a parent who simply does not miss it than by a parent who argues about it.",
-            "bn": "কীসের উপর এই অবিচলতা, সেদিকেও লক্ষ করুন। শব্দবিন্যাসটি ওয়াসতাবির আলাইহা — তার উপর অবিচল থাকো — আর সর্বনামটি ফিরে যায় সালাতের দিকে, পরিবারের দিকে নয়। আপনাকে বলা হয়নি ঘরের লোকদের অনীহা সহ্য করতে; বলা হয়েছে সালাতটিই ধরে রাখতে। এতে লক্ষ্যবস্তুটি কাজের মতো করে বদলে যায়। যে অভিভাবক নামায কেবল কখনো ছাড়েন না, তিনি ঘরকে সাধারণত তার চেয়ে অনেক বেশি নাড়ান যিনি নামায নিয়ে তর্ক করেন।"
+            "bn": "এই অবিচলতা কীসের ওপর, সেটাও লক্ষ করুন। আয়াতে আছে ওয়াসতাবির আলাইহা, অর্থাৎ তার ওপর অবিচল থাকো; আর সর্বনামটি সালাতকে বোঝায়, পরিবারকে নয়। আপনাকে বলা হয়নি ঘরের লোকদের অনীহা সহ্য করে যেতে; বলা হয়েছে সালাতটাই ধরে রাখতে। লক্ষ্যের এই বদলটা বেশ কাজের। যে বাবা-মা নামাজ নিয়ে তর্ক করেন, তাঁদের চেয়ে যিনি চুপচাপ কখনো নামাজ ছাড়েন না, তাঁকে দেখেই ঘরের লোকেরা অনেক বেশি বদলায়।"
           }
         ]
       },
@@ -2829,11 +2829,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the verse answers an objection nobody voices out loud: I would pray more if I were not so busy earning. La nas'aluka rizqan, nahnu narzuquka. We do not ask you for provision; We provide for you. Ibn Kathir's gloss is direct — establish the prayer, and We will not burden you with the worry of your sustenance. The relationship is stated in the only order that makes sense: nothing is being extracted from you, something is being given to you.",
-            "bn": "এরপর আয়াতটি এমন এক আপত্তির জবাব দেয় যা কেউ মুখে বলে না: রুজির পেছনে এত ব্যস্ত না থাকলে আমি আরও নামায পড়তাম। লা নাসআলুকা রিযকান, নাহনু নারযুকুকা। আমি তোমার কাছে রিযিক চাই না; আমিই তোমাকে রিযিক দিই। ইবনে কাসীরের ব্যাখ্যা সরাসরি — সালাত কায়েম কর, আর আমি তোমার জীবিকার দুশ্চিন্তার বোঝা তোমার উপর চাপাব না। সম্পর্কটি এমন এক ক্রমে বলা হয়েছে যা ছাড়া অন্য কিছু অর্থবহ নয়: তোমার কাছ থেকে কিছু আদায় করা হচ্ছে না, তোমাকে কিছু দেওয়া হচ্ছে।"
+            "bn": "এরপর আয়াতটি এমন এক আপত্তির জবাব দেয়, যা কেউ মুখ ফুটে বলে না: রুজির পেছনে এত ব্যস্ত না থাকলে আরও বেশি নামাজ পড়তাম। লা নাসআলুকা রিযকান, নাহনু নারযুকুকা। আমি তোমার কাছে রিযিক চাই না; আমিই তোমাকে রিযিক দিই। ইবনে কাসীরের ব্যাখ্যা সোজাসাপ্টা: সালাত কায়েম কর, আর আমি তোমার জীবিকার দুশ্চিন্তার বোঝা তোমার উপর চাপাব না। সম্পর্কটা এখানে একমাত্র যুক্তিসংগত ক্রমেই বলা হয়েছে: তোমার কাছ থেকে কিছু আদায় করা হচ্ছে না, বরং তোমাকে দেওয়া হচ্ছে।"
           },
           {
             "en": "51:58 names Him ar-Razzaq, the Provider, possessor of strength. 65:2-3 promises that whoever fears Allah is given a way out and provided from where he did not expect. None of this cancels work; the Quran nowhere treats earning as blameworthy. What it cancels is the assumption that prayer and provision compete for the same hours, so that time given to one is taken from the other.",
-            "bn": "51:58 তাঁকে আর-রাযযাক নামে ডাকে — রিযিকদাতা, মহাশক্তির অধিকারী। 65:2-3 প্রতিশ্রুতি দেয়, যে আল্লাহকে ভয় করে তাকে উত্তরণের পথ দেওয়া হয় এবং এমন জায়গা থেকে রিযিক দেওয়া হয় যা সে ধারণাও করেনি। এর কোনোটিই পরিশ্রমকে বাতিল করে না; কুরআন কোথাও উপার্জনকে দোষণীয় বলে না। যা বাতিল হয় তা হলো এই ধারণা যে সালাত ও রিযিক একই ঘণ্টাগুলোর জন্য প্রতিযোগিতা করছে, ফলে একটিকে দেওয়া সময় অন্যটি থেকে কেটে নেওয়া হচ্ছে।"
+            "bn": "৫১:৫৮ তাঁকে আর-রাযযাক বলে ডাকে: রিযিকদাতা, প্রবল শক্তির অধিকারী। ৬৫:২-৩ ওয়াদা দেয়, যে আল্লাহকে ভয় করে, আল্লাহ তার জন্য বের হওয়ার পথ করে দেন এবং এমন জায়গা থেকে রিযিক দেন যা সে কল্পনাও করেনি। এর কোনোটিই পরিশ্রমকে বাতিল করে না; কুরআন কোথাও উপার্জনকে দোষের বলেনি। বাতিল হয় শুধু এই ধারণা যে সালাত আর রিযিক একই সময়ের ভাগ নিয়ে টানাটানি করে, তাই একটিকে সময় দিলে অন্যটির সময় কাটা পড়ে।"
           }
         ]
       },
@@ -2845,7 +2845,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends wal-aqibatu lit-taqwa. Aqibah is what comes at the end of a thing, its final upshot rather than its middle. And the outcome is assigned not to the clever or the well placed but to taqwa, the God-consciousness that keeps a person from what displeases Him. Read that as a measure and it quietly disqualifies most of the scoreboards we actually use, because it refuses to judge anything by where it currently stands.",
-            "bn": "আয়াতটি শেষ হয় ওয়াল-আকিবাতু লিত-তাকওয়া দিয়ে। আকিবাহ মানে কোনো কিছুর শেষে যা আসে, তার মাঝপথ নয় বরং শেষ পরিণতি। আর সেই পরিণাম বরাদ্দ হয়েছে চতুর বা সুবিধাজনক অবস্থানে থাকা লোকদের জন্য নয়, বরং তাকওয়ার জন্য — সেই আল্লাহভীতির জন্য যা মানুষকে তাঁর অপছন্দনীয় কাজ থেকে ফিরিয়ে রাখে। এটিকে মাপকাঠি হিসেবে পড়লে তা নীরবে আমাদের ব্যবহৃত অধিকাংশ হিসাবের খাতাকে বাতিল করে দেয়, কারণ এটি কোনো কিছুকেই তার বর্তমান অবস্থান দিয়ে বিচার করতে রাজি নয়।"
+            "bn": "আয়াতটি শেষ হয়েছে ওয়াল-আকিবাতু লিত-তাকওয়া দিয়ে। আকিবাহ মানে কোনো কিছুর শেষে যা আসে; মাঝপথের অবস্থা নয়, শেষ ফল। আর এই শেষ ফল চালাক লোকদের বা সুবিধার জায়গায় বসে থাকা লোকদের জন্য রাখা হয়নি, রাখা হয়েছে তাকওয়ার জন্য: আল্লাহর প্রতি সেই সচেতন ভয়, যা মানুষকে তাঁর অপছন্দের কাজ থেকে দূরে রাখে। একে মাপকাঠি ধরলে আমরা আসলে যেসব হিসাব দিয়ে সফলতা মাপি, তার বেশিরভাগই চুপচাপ বাতিল হয়ে যায়। কারণ এই মাপকাঠি কোনো কিছুকে তার এখনকার অবস্থান দেখে বিচার করে না।"
           }
         ]
       },
@@ -2857,7 +2857,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The practical shape of the verse is unglamorous. Fix the times in the home so that prayer is what the household organises itself around rather than what it fits in. Call people by name when the time comes, gently and every time, and accept that this is a long work. And when the rent or the fees are the thing keeping you awake, let 20:14 stand beside this verse: establish prayer for My remembrance, said to Musa (AS) before he was given anything else.",
-            "bn": "আয়াতটির ব্যবহারিক রূপ চটকদার কিছু নয়। ঘরে সময়গুলো এমনভাবে ঠিক করুন যাতে সালাতকে ঘিরেই পরিবার নিজেকে গোছায়, সালাতকে ফাঁক খুঁজে ঢোকাতে না হয়। সময় হলে নাম ধরে ডাকুন, কোমলভাবে এবং প্রতিবার, আর মেনে নিন যে এটি দীর্ঘ কাজ। আর যখন ভাড়া বা বেতনের চিন্তাই আপনার ঘুম কেড়ে নেয়, তখন এই আয়াতের পাশে 20:14 আয়াতটিকে দাঁড় করান: আমাকে স্মরণ করার জন্য সালাত কায়েম কর — মূসা (আঃ)-কে এ কথা বলা হয়েছিল তাঁকে অন্য কিছু দেওয়ার আগেই।"
+            "bn": "আয়াতটির বাস্তব রূপ মোটেও চটকদার নয়। ঘরে নামাজের সময়গুলো এমনভাবে বেঁধে দিন, যাতে পুরো সংসার সালাতকে ঘিরেই চলে; ফাঁক পেলে সালাত গুঁজে দেওয়ার ব্যাপার যেন না হয়। সময় হলে নাম ধরে ডাকুন, নরম করে, প্রতিবার। আর মেনে নিন, এ কাজ লম্বা সময়ের। যখন বাড়িভাড়া বা নানা ফি-র চিন্তায় রাতে ঘুম আসে না, তখন এই আয়াতের পাশে ২০:১৪ রাখুন: আমাকে স্মরণ করার জন্য সালাত কায়েম কর। মূসা (আঃ)-কে আর কিছু দেওয়ার আগেই আল্লাহ তাঁকে এ কথা বলেছিলেন।"
           }
         ]
       }
