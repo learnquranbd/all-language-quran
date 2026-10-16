@@ -16,7 +16,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Book and a Chest",
-          "bn": "কিতাব আর একটি বুক"
+          "bn": "কিতাব আর বুক"
         },
         "p": [
           {
@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then comes the sequence. 7:3 turns from the Prophet to everyone and commands following what came down from their Lord, taking no protectors besides Him. 7:4 and 7:5 recall towns ruined at night or during their midday rest, whose whole answer when the punishment arrived was that they had been wrongdoers. 7:6 through 7:9 promise a questioning of nations and messengers alike, and a weighing on that Day that is true. No sound report is transmitted as an occasion of revelation here, so the placement is the context, and what is settled first is not the deniers but the inside of the chest of the man who must carry this.",
-            "bn": "এরপর আসে পরপর সাজানো কথাগুলো। ৭:৩ আয়াত নবী ﷺ থেকে মুখ ফিরিয়ে সবাইকে বলে, তোমাদের রবের কাছ থেকে যা নেমেছে তারই অনুসরণ করো, তাঁকে বাদ দিয়ে আর কাউকে অভিভাবক মেনো না। ৭:৪ আর ৭:৫ আয়াত মনে করিয়ে দেয় সেই জনপদগুলোর কথা, রাতে কিংবা দুপুরের বিশ্রামের সময় যাদের উপর আযাব নেমেছিল, আর নেমে আসার পর একটা কথাই তাদের মুখে ছিল, আমরা জালিম ছিলাম। ৭:৬ থেকে ৭:৯ আয়াত জানিয়ে দেয়, জাতিগুলোকেও জিজ্ঞেস করা হবে, রাসূলদেরও, আর সেদিনের ওজন হবে ঠিক ঠিক। এই আয়াতের শানে নুযূল হিসেবে নির্ভরযোগ্য কোনো বর্ণনা আসেনি, তাই সূরার ভেতর এর অবস্থানটাই এর প্রেক্ষাপট। সতর্কবাণীর এক লম্বা সূরা শুরু হচ্ছে, আর সবার আগে যে বিষয়টা মিটিয়ে নেওয়া হচ্ছে সেটা অস্বীকারকারীরাও নয়, তর্কটাও নয়। যাঁকে এই কিতাব বইতে হবে তাঁর বুকের ভেতরটা।"
+            "bn": "এরপর আয়াতগুলোর ধারাটা দেখুন। ৭:৩ আয়াতে কথা নবী ﷺ থেকে সরে সবার দিকে যায়: তোমাদের রবের কাছ থেকে যা নাজিল হয়েছে তারই অনুসরণ করো, তাঁকে ছেড়ে আর কাউকে অভিভাবক বানিও না। ৭:৪ আর ৭:৫ আয়াত মনে করিয়ে দেয় সেই জনপদগুলোর কথা, রাতে কিংবা দুপুরের বিশ্রামের সময় যেগুলো ধ্বংস হয়ে গিয়েছিল। আযাব যখন এল, তাদের মুখে একটা কথাই ছিল: আমরা জালিম ছিলাম। ৭:৬ থেকে ৭:৯ আয়াত জানিয়ে দেয়, জাতিগুলোকেও জিজ্ঞেস করা হবে, রাসূলদেরও, আর সেদিনের ওজন হবে একদম সঠিক। এই আয়াতের শানে নুযূল হিসেবে নির্ভরযোগ্য কোনো বর্ণনা আসেনি, তাই সূরার ভেতর এর জায়গাটাই এর প্রেক্ষাপট। আর সবার আগে যে বিষয়টার মীমাংসা হচ্ছে তা অস্বীকারকারীরা নয়, বরং যাঁকে এই কিতাব বইতে হবে তাঁর বুকের ভেতরটা।"
           }
         ]
       },
@@ -41,11 +41,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two other words in the clause do quiet work. The tightness is placed fi sadrik, in your breast, not on the tongue and not in the road ahead. And its source is named: minhu, from it. What might press on him is the Book itself, before anyone has said a word against it. A command about a state, rather than about an act, is itself a promise that the state can change.",
-            "bn": "এই অংশের আরও দুইটা শব্দ চুপচাপ কাজ করে যায়। চাপটা কোথায় হবে তা ঠিক করে দেওয়া হয়, ফী সাদরিক, তোমার বুকের ভেতর। জিভে নয়, সামনের পথে নয়। আর উৎসটাও বলে দেওয়া হয়, মিনহু, এর থেকে। যা চাপ দিতে পারে সেটা কিতাবই, কেউ এর বিরুদ্ধে একটা কথা বলার আগেই। হুকুমটা কোনো কাজকে নয়, একটা অবস্থাকে সম্বোধন করে। আর অবস্থা নিয়ে হুকুম আসা মানেই এই আশ্বাস যে অবস্থাটা বদলাতে পারে।"
+            "bn": "এই অংশের আরও দুইটা শব্দ নিঃশব্দে কাজ করে যায়। চাপের জায়গাটা বলে দেওয়া আছে: ফী সাদরিক, তোমার বুকের ভেতর। জিভে নয়, সামনের পথেও নয়। আর উৎসটাও বলা আছে: মিনহু, এর থেকে। চাপ দিতে পারে খোদ কিতাবটাই, কেউ এর বিরুদ্ধে একটা কথা বলার আগেই। হুকুমটা কোনো কাজ নিয়ে নয়, একটা অবস্থা নিয়ে। আর অবস্থা নিয়ে হুকুম আসা মানেই এই আশ্বাস যে অবস্থাটা বদলাতে পারে।"
           },
           {
             "en": "Sadr, the breast, is where the Quran keeps putting this. 6:125 is the sharpest of them: whoever Allah wills to guide, He opens his breast to Islam, and whoever He wills to let go astray, He makes his breast tight and constricted, dayyiqan harajan, as though he were climbing into the sky. That verse carries both of our words together. Tightness of the chest is not a mood in this vocabulary. It is a condition with a cause, and it has an opposite.",
-            "bn": "সাদর, অর্থাৎ বুক, কুরআন বারবার এই জিনিসটা এখানেই রাখে। এদের মধ্যে সবচেয়ে ধারালো ৬:১২৫ আয়াত। আল্লাহ যাকে হেদায়াত দিতে চান তার বুক ইসলামের জন্য খুলে দেন, আর যাকে পথভ্রষ্ট হতে দিতে চান তার বুক করে দেন সংকীর্ণ ও সংকুচিত, দাইয়িকান হারাজান, যেন সে আকাশে উঠছে। আমাদের আয়াতের দুইটা শব্দই ওই আয়াতে একসাথে আছে। এই ভাষায় বুক চেপে আসা কোনো মেজাজের ব্যাপার নয়। এর কারণ আছে, আর এর উল্টোটাও আছে।"
+            "bn": "সাদর মানে বুক, আর কুরআন বারবার এই চাপের কথা বুকের সঙ্গেই জুড়ে বলে। সবচেয়ে স্পষ্ট ৬:১২৫ আয়াত: আল্লাহ যাকে হেদায়াত দিতে চান তার বুক ইসলামের জন্য খুলে দেন, আর যাকে পথভ্রষ্ট হতে দিতে চান তার বুক করে দেন সংকীর্ণ, চেপে আসা, দাইয়িকান হারাজান, যেন সে আকাশে চড়ছে। আমাদের আয়াতের দুইটা শব্দই ওই আয়াতে একসাথে আছে। কুরআনের এই ভাষায় বুক চেপে আসা নিছক মেজাজের ব্যাপার নয়। এর কারণ আছে, আর এর উল্টোটাও আছে।"
           }
         ]
       },
@@ -57,11 +57,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari gathers what the early authorities said and it falls into two lines. Mujahid glossed haraj here as shakk, doubt: let no doubt of it settle in your breast. As-Suddi and Qatadah are reported with the same reading. The other line takes the plain lexical sense. Let there be no tightness in you at carrying this and setting it before people who will call you a liar. Both are readings of the same three consonants, and named men of the first generations held each.",
-            "bn": "ইমাম তাবারী আগের যুগের মনীষীদের কথা জড়ো করেন, আর তা দুই ধারায় ভাগ হয়ে যায়। মুজাহিদ এখানে হারাজের অর্থ করেছেন শাক, অর্থাৎ সন্দেহ। এ নিয়ে যেন তোমার বুকে কোনো সন্দেহ বাসা না বাঁধে। আস-সুদ্দী ও কাতাদাহ থেকেও একই পাঠ বর্ণিত। অন্য ধারাটি শব্দের সোজা অভিধানিক অর্থই নেয়। এটা বইতে গিয়ে আর যারা তোমাকে মিথ্যাবাদী বলবে তাদের সামনে রাখতে গিয়ে তোমার ভেতরটা যেন চেপে না আসে। একই তিন হরফের দুই পাঠ, আর প্রথম যুগের নাম-জানা মানুষেরা দুইটাই ধরেছেন।"
+            "bn": "ইমাম তাবারী আগের যুগের মনীষীদের কথা জড়ো করেন, আর তা দুই ধারায় ভাগ হয়ে যায়। মুজাহিদ এখানে হারাজের অর্থ করেছেন শাক, অর্থাৎ সন্দেহ: এ নিয়ে যেন তোমার বুকে কোনো সন্দেহ বাসা না বাঁধে। আস-সুদ্দী ও কাতাদাহ থেকেও একই অর্থ বর্ণিত। অন্য ধারাটি শব্দের সোজা আভিধানিক অর্থই নেয়: এটা বইতে গিয়ে, আর যারা তোমাকে মিথ্যাবাদী বলবে তাদের সামনে এটা পেশ করতে গিয়ে তোমার ভেতরটা যেন চেপে না আসে। দুইটাই একই তিন হরফের দুই পাঠ, আর প্রথম যুগের পরিচিত মনীষীদের কেউ এটা, কেউ ওটা ধরেছেন।"
           },
           {
             "en": "Ibn Kathir records both and gives weight to the second, glossing the constriction as constriction at conveying the message. Al-Qurtubi lays out the lexical ground for that reading and treats the purpose clause as its cure. As-Sa'di takes the relief from the same place: what was given to warn and remind is a mercy, not a load. Translators divide along the same seam, which is a fair sign the Arabic holds both. Keep both, then. If haraj is doubt, the verse steadies a conviction; if it is tightness, it steadies a nerve. Where the commentators differ they differ about the feeling, never about the duty.",
-            "bn": "ইবনু কাসীর দুইটাই তুলে ধরেন, তবে ভার দেন দ্বিতীয়টির উপর, আর সংকোচনটাকে ব্যাখ্যা করেন বার্তা পৌঁছে দেওয়ার সংকোচন হিসেবে। কুরতুবী এই পাঠের অভিধানিক ভিত্তি সাজিয়ে দেন, আর আয়াতের শেষের উদ্দেশ্য-অংশটাকেই এর দাওয়াই ধরেন। সা'দীও একই জায়গা থেকে স্বস্তিটা টেনে আনেন। সতর্ক করার আর নসিহত দেওয়ার জন্য যা দেওয়া হয়েছে তা রহমত, বোঝা নয়। অনুবাদকরাও এই একই সীমানা ধরে ভাগ হয়ে গেছেন, কেউ লেখেন কষ্ট, কেউ লেখেন কুণ্ঠা। এতেই বোঝা যায় আরবি শব্দটা সত্যিই দুইটাই ধরে রাখে। তাই দুইটাই থাক। হারাজ যদি সন্দেহ হয় আয়াতটি বিশ্বাসকে শক্ত করে, আর সংকোচন হলে সাহসকে। মুফাসসিরদের মতভেদ অনুভূতি নিয়ে, দায়িত্ব নিয়ে কখনো নয়।"
+            "bn": "ইবনু কাসীর দুইটা মতই উল্লেখ করেন, তবে দ্বিতীয়টাকে প্রাধান্য দেন। তাঁর ব্যাখ্যায় এই সংকোচন হলো বার্তা পৌঁছে দিতে গিয়ে বুক চেপে আসা। কুরতুবী এই পাঠের আভিধানিক ভিত্তি সাজিয়ে দেন, আর আয়াতের শেষের উদ্দেশ্যটুকু, অর্থাৎ সতর্ক করা ও নসিহত, সেটাকেই এর দাওয়াই ধরেন। সা'দীও স্বস্তিটা নেন সেখান থেকেই: সতর্ক করা আর নসিহতের জন্য যা দেওয়া হয়েছে তা রহমত, বোঝা নয়। অনুবাদকরাও ঠিক এই জায়গায় দুই ভাগ হয়ে গেছেন, আর এতেই বোঝা যায় আরবি শব্দটা দুইটা অর্থই ধরে রাখে। তাহলে দুইটাই থাক। হারাজ যদি সন্দেহ হয়, আয়াতটি বিশ্বাসকে মজবুত করে; যদি সংকোচন হয়, মনের জোর বাড়ায়। মুফাসসিরদের মতভেদ অনুভূতি নিয়ে, দায়িত্ব নিয়ে কখনো নয়।"
           }
         ]
       },
@@ -73,11 +73,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends with two purposes built differently. The first is a verb: li-tundhira bihi, that you may warn by it. The second is a noun laid beside it: wa dhikra lil-mu'minin, and a reminder for the believers. Warning is something done to a person who has not yet accepted. A reminder is simply what the thing is, for someone who has. The same pages are an alarm in one hand and a recollection in the other, and the difference lies in the reader.",
-            "bn": "আয়াত শেষ হয় দুইটা উদ্দেশ্য দিয়ে, আর দুইটার গড়ন আলাদা। প্রথমটা ক্রিয়াপদ, লিতুনযিরা বিহি, যাতে তুমি এর দ্বারা সতর্ক করো। দ্বিতীয়টা পাশে বসানো একটা বিশেষ্য, ওয়া যিকরা লিলমুমিনীন, আর মুমিনদের জন্য নসিহত। সতর্ক করা হয় এমন কাউকে যে এখনো মানেনি। আর যে মেনে নিয়েছে তার কাছে জিনিসটা এমনিতেই নসিহত। একই পৃষ্ঠা এক হাতে বিপদসংকেত, আরেক হাতে মনে পড়ে যাওয়া। তফাতটা পাঠকের দিকে।"
+            "bn": "আয়াত শেষ হয় দুইটা উদ্দেশ্য দিয়ে, আর দুইটার গড়ন আলাদা। প্রথমটা ক্রিয়াপদ, লিতুনযিরা বিহি, যাতে তুমি এর দ্বারা সতর্ক করো। দ্বিতীয়টা পাশে বসানো একটা বিশেষ্য, ওয়া যিকরা লিলমুমিনীন, আর মুমিনদের জন্য নসিহত। সতর্ক করা হয় এমন কাউকে যে এখনো মানেনি। আর যে মেনে নিয়েছে তার কাছে জিনিসটা এমনিতেই নসিহত। একই পৃষ্ঠা একজনের হাতে বিপদের ঘণ্টা, আরেকজনের হাতে স্মরণ। তফাতটা পাঠকের মধ্যে।"
           },
           {
             "en": "6:19 uses the same construction and widens it: this Quran was revealed to me that I may warn you by it and whoever it reaches. The reach is not limited to the first hearers. And the second purpose quietly answers the first half of our verse, because a man told exactly what he is holding and exactly who it is for has been handed the two facts that shrink a task back to its real size. The pressure usually comes from knowing neither.",
-            "bn": "৬:১৯ আয়াত একই গড়ন ব্যবহার করে, আর পরিধি বাড়িয়ে দেয়। এই কুরআন আমার প্রতি নাযিল হয়েছে যাতে আমি এর দ্বারা তোমাদের সতর্ক করি, আর যাদের কাছে এটা পৌঁছাবে তাদেরও। প্রথম শ্রোতাদের মধ্যেই ব্যাপারটা আটকে নেই। আর দ্বিতীয় উদ্দেশ্যটা চুপচাপ আয়াতের প্রথম অংশের জবাব দিয়ে দেয়। যাঁকে বলে দেওয়া হয়েছে তাঁর হাতে ঠিক কী আছে আর সেটা ঠিক কাদের জন্য, তাঁর হাতে সেই দুইটা তথ্যই আছে যা কাজটাকে তার আসল মাপে নামিয়ে আনে। চাপটা সাধারণত আসে এই দুইটার কোনোটাই না জানা থেকে।"
+            "bn": "৬:১৯ আয়াত একই গড়ন ব্যবহার করে, আর পরিধিটা বাড়িয়ে দেয়: এই কুরআন আমার প্রতি নাজিল হয়েছে যাতে আমি এর দ্বারা তোমাদের সতর্ক করি, আর যাদের কাছে এটা পৌঁছাবে তাদেরও। প্রথম শ্রোতাদের মধ্যেই ব্যাপারটা আটকে নেই। আর দ্বিতীয় উদ্দেশ্যটা নিঃশব্দে আয়াতের প্রথম অংশের জবাব দিয়ে দেয়। যাঁকে স্পষ্ট বলে দেওয়া হয়েছে তাঁর হাতে কী আছে আর সেটা কাদের জন্য, তিনি এমন দুইটা কথা জেনে গেছেন যা কাজটাকে তার আসল মাপে ফিরিয়ে আনে। চাপ সাধারণত আসে এর কোনোটাই না জানা থেকে।"
           }
         ]
       },
@@ -93,27 +93,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then he told them he was a warner to them before a severe punishment. The scene carries the shape of li-tundhira: a man who is trusted, a danger that is real, and a message delivered whatever it costs among his own people. Al-Bukhari and Muslim relate from Abu Musa (RA) another picture the Prophet gave of himself, of a man who saw an army with his own eyes and ran to his people as the naked warner. Neither report is a commentary on 7:2, and both show a man who speaks anyway. A warner who waits until warning feels easy has already failed the people in the valley.",
-            "bn": "তারপর তিনি ﷺ বললেন, কঠিন আযাব আসার আগে আমি তোমাদের জন্য সতর্ককারী। দৃশ্যটার মধ্যে লিতুনযিরার আকৃতিটাই আছে। যাঁকে মানুষ বিশ্বাস করে, বিপদটা সত্যি, আর নিজের লোকদের মধ্যে যত দামই দিতে হোক খবরটা পৌঁছে দেওয়া হচ্ছে। বুখারী ও মুসলিম আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ নিজের আরেকটা ছবি দিয়েছিলেন। একজন মানুষ নিজের চোখে শত্রুবাহিনী দেখে ফেলেছে, তারপর উলঙ্গ সতর্ককারী হয়ে নিজের গোত্রের কাছে ছুটে যাচ্ছে। কোনো বর্ণনাই ৭:২ আয়াতের তাফসীর নয়, তবে দুইটাতেই এমন একজনকে দেখা যায় যিনি তবুও মুখ খোলেন। আর যে সতর্ককারী সতর্ক করতে স্বস্তি লাগার অপেক্ষা করে, উপত্যকার মানুষগুলোর হক সে আগেই নষ্ট করে ফেলেছে।"
+            "bn": "তারপর তিনি ﷺ বললেন, কঠিন আযাব আসার আগে আমি তোমাদের জন্য সতর্ককারী। এই দৃশ্যে লিতুনযিরার পুরো চেহারাটা দেখা যায়: মানুষটা বিশ্বস্ত, বিপদটা সত্যি, আর নিজের লোকদের মাঝে যত দামই দিতে হোক, খবরটা পৌঁছে দেওয়া হচ্ছে। বুখারী ও মুসলিম আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ নিজের আরেকটা ছবি দিয়েছিলেন। একজন মানুষ নিজের চোখে শত্রুবাহিনী দেখে ফেলেছে, তারপর উলঙ্গ সতর্ককারী হয়ে নিজের গোত্রের কাছে ছুটে যাচ্ছে। কোনো বর্ণনাই ৭:২ আয়াতের তাফসীর নয়, তবে দুইটাতেই এমন একজনকে দেখা যায় যিনি তবুও মুখ খোলেন। সতর্ক করাটা সহজ মনে হওয়া পর্যন্ত যে সতর্ককারী অপেক্ষা করে, উপত্যকার মানুষগুলোর প্রতি দায়িত্বে সে আগেই ব্যর্থ হয়ে গেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Verses That Sit With It",
-          "bn": "পাশে বসার মতো আয়াত"
+          "bn": "পাশাপাশি পড়ার মতো আয়াত"
         },
         "p": [
           {
             "en": "15:97 says it plainly on the Prophet's behalf: We already know that your breast is constrained by what they say. The knowing comes first and the remedy follows in 15:98, glorify your Lord with praise and be among those who prostrate. 11:12 names the same pressure and its content, their demand for a treasure or an angel, with a breast constrained because of it, and answers with the reminder that he is only a warner and Allah is Disposer of all things.",
-            "bn": "১৫:৯৭ আয়াত নবীর ﷺ পক্ষ থেকে কথাটা সোজা বলে দেয়। আমি জানি, তারা যা বলে তাতে তোমার বুক সংকুচিত হয়। জানাটা আগে আসে, তারপর ১৫:৯৮ আয়াতে আসে দাওয়াই। প্রশংসাসহ তোমার রবের পবিত্রতা ঘোষণা করো আর সিজদাকারীদের দলে থাকো। ১১:১২ আয়াত একই চাপের কথা বলে, আর চাপের কারণটাও বলে দেয়, তাদের দাবি যে ধনভাণ্ডার নামল না কেন বা ফেরেশতা এল না কেন, আর সেই কারণেই বুক সংকুচিত হওয়া। জবাবটা আসে মনে করিয়ে দিয়ে, তুমি তো শুধু সতর্ককারী, আর সব কাজের দায়িত্ব আল্লাহর।"
+            "bn": "১৫:৯৭ আয়াত নবীর ﷺ মনের অবস্থাটা সোজাসুজি বলে দেয়: আমি তো জানি, তারা যা বলে তাতে তোমার বুক সংকুচিত হয়। আগে আসে জানা, তারপর ১৫:৯৮ আয়াতে দাওয়াই: প্রশংসাসহ তোমার রবের পবিত্রতা ঘোষণা করো আর সিজদাকারীদের দলে থাকো। ১১:১২ আয়াতও একই চাপের কথা বলে, আর চাপের কারণটাও জানিয়ে দেয়: তাদের দাবি, তাঁর উপর ধনভাণ্ডার নামল না কেন, কিংবা সাথে ফেরেশতা এল না কেন। এতে তাঁর বুক সংকুচিত হয়। জবাব আসে এই কথা মনে করিয়ে দিয়ে: তুমি তো কেবল সতর্ককারী, আর সব কিছুর দায়িত্বশীল আল্লাহ।"
           },
           {
             "en": "18:6 goes past constriction to a grief that could destroy him if they will not believe, which measures the weight of it. Against that stands 94:1, did We not expand for you your breast, reported as something already done. And 22:78 uses our exact word from the other side: He has not placed upon you in the religion any haraj. The word the Prophet is told to keep out of his breast is the word Allah uses for what He kept out of the religion.",
-            "bn": "১৮:৬ আয়াত সংকোচন ছাড়িয়ে আরও এগোয়, বলে সেই দুঃখের কথা যা তাঁকে শেষ করে দিতে পারে যদি তারা ঈমান না আনে। এতেই ভারটার মাপ বোঝা যায়। এর বিপরীতে দাঁড়িয়ে আছে ৯৪:১ আয়াত, আমি কি তোমার বক্ষ প্রশস্ত করে দিইনি, আর কথাটা এসেছে হয়ে যাওয়া কাজ হিসেবে। আর ২২:৭৮ আয়াত আমাদের শব্দটাই ব্যবহার করে, তবে উল্টো দিক থেকে। দ্বীনের ভেতর তিনি তোমাদের উপর কোনো হারাজ রাখেননি। যে শব্দটা বুকে না রাখতে নবীকে ﷺ বলা হচ্ছে, সেই শব্দটাই আল্লাহ ব্যবহার করছেন দ্বীনের ভেতর থেকে যা তিনি সরিয়ে রেখেছেন তা বোঝাতে।"
+            "bn": "১৮:৬ আয়াত সংকোচন ছাড়িয়ে আরও দূরে যায়। সেখানে এমন দুঃখের কথা, তারা ঈমান না আনলে যা তাঁকে শেষ করে দিতে পারে। এ থেকেই বোঝা যায় ভারটা কত বড়। এর বিপরীতে আছে ৯৪:১ আয়াত: আমি কি তোমার বুক খুলে দিইনি? কথাটা এসেছে আগেই হয়ে যাওয়া কাজ হিসেবে। আর ২২:৭৮ আয়াত আমাদের শব্দটাই ব্যবহার করে, তবে উল্টো দিক থেকে: দ্বীনের ব্যাপারে তিনি তোমাদের উপর কোনো হারাজ রাখেননি। যে শব্দটা বুক থেকে দূরে রাখতে নবী ﷺ-কে বলা হচ্ছে, ঠিক সেই শব্দ দিয়েই আল্লাহ বলছেন দ্বীন থেকে তিনি কী দূরে রেখেছেন।"
           },
           {
             "en": "Read together, those verses say one thing. Nothing in this religion was built to crush anyone, so a crushed feeling is not evidence about the message. It is only a report about the carrier, and 6:125 says the same from its own angle by making an open chest a mark of guidance and a tight one a mark of being left to wander.",
-            "bn": "একসাথে পড়লে এই আয়াতগুলো একটা কথাই বলে। এই দ্বীনের কোনো কিছুই কাউকে পিষে ফেলার জন্য বানানো হয়নি। তাই পিষে যাওয়ার অনুভূতি বার্তাটার ব্যাপারে কোনো প্রমাণ নয়, ওটা কেবল বাহকের অবস্থার খবর। ৬:১২৫ আয়াত নিজের দিক থেকে একই কথা বলে, খোলা বুক হেদায়াতের চিহ্ন আর চেপে থাকা বুক ছেড়ে দেওয়ার চিহ্ন।"
+            "bn": "একসাথে পড়লে এই আয়াতগুলো একটা কথাই বলে। এই দ্বীনের কোনো কিছুই কাউকে পিষে ফেলার জন্য বানানো হয়নি। তাই পিষে যাওয়ার অনুভূতি বার্তাটার ব্যাপারে কোনো প্রমাণ নয়, ওটা কেবল বাহকের অবস্থার খবর। ৬:১২৫ আয়াত নিজের দিক থেকে একই কথা বলে: খোলা বুক হেদায়াতের চিহ্ন, আর চেপে থাকা বুক পথহারা অবস্থায় ছেড়ে দেওয়ার চিহ্ন।"
           }
         ]
       },
@@ -125,15 +125,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "There is a very ordinary form of this. A person believes something, is asked about it in a room where believing it is expensive, and feels his chest close. The verse does not tell him the feeling is sinful. It tells him not to let it settle in and take up residence, and it tells him that before it has happened rather than after. Pressure you were warned about is easier to carry than pressure that arrives as a surprise about your own faith.",
-            "bn": "এর একটা খুব সাধারণ চেহারা আছে। কেউ কিছু বিশ্বাস করেন, এমন একটা ঘরে তাঁকে সেটা নিয়ে প্রশ্ন করা হয় যেখানে ওটা বিশ্বাস করার দাম আছে, আর তাঁর বুকটা চেপে আসে। আয়াত তাঁকে বলছে না যে এই অনুভূতিটাই গুনাহ। বলছে, এটাকে ভেতরে বাসা বাঁধতে দিয়ো না। আর কথাটা বলছে ঘটনাটা ঘটার আগেই, পরে নয়। আগে থেকে জানা চাপ বইতে সহজ, কিন্তু নিজের ঈমান নিয়ে হঠাৎ এসে পড়া চাপ অনেক ভারী।"
+            "bn": "এর একটা খুব সাধারণ চেহারা আছে। কেউ কোনো কিছুতে বিশ্বাস রাখেন। এমন এক জায়গায় তাঁকে সে বিষয়ে প্রশ্ন করা হলো যেখানে সেই বিশ্বাসের দাম চড়া, আর তাঁর বুকটা চেপে এল। আয়াত তাঁকে বলছে না যে এই অনুভূতিটাই গুনাহ। বলছে, এটাকে ভেতরে বাসা বাঁধতে দিয়ো না। আর কথাটা বলছে ঘটনাটা ঘটার আগেই, পরে নয়। আগে থেকে জানা চাপ বইতে সহজ, কিন্তু নিজের ঈমান নিয়ে হঠাৎ এসে পড়া চাপ অনেক ভারী।"
           },
           {
             "en": "The practical test is whether the constriction has started editing. Do you leave out the verse that is hard to explain, soften the ruling that sounds severe, mention your religion only after the room has decided it likes you? 11:12 describes that exact temptation, leaving out part of what was revealed, and answers it not with a rebuke but with a job description. You are only a warner. Delivery is your share of this, and the rest of it is not.",
-            "bn": "কাজের পরীক্ষাটা হলো, সংকোচনটা কাটছাঁট শুরু করে দিয়েছে কিনা। যে আয়াতটা বোঝানো কঠিন সেটা কি বাদ দিয়ে যান? যে বিধানটা কড়া শোনায় সেটা কি নরম করে বলেন? দ্বীনের কথা কি তোলেন কেবল ঘরের লোকেরা আপনাকে পছন্দ করে ফেলার পর? ১১:১২ আয়াত ঠিক এই টানটার কথাই বলে, নাযিল হওয়া জিনিসের কিছু অংশ বাদ দিয়ে দেওয়া। আর জবাব দেয় ধমক দিয়ে নয়, কাজের সীমা বুঝিয়ে দিয়ে। তুমি তো কেবল সতর্ককারী। পৌঁছে দেওয়াটা আপনার ভাগ, বাকিটা আপনার ভাগ নয়।"
+            "bn": "হাতে-কলমে যাচাইটা হলো: সংকোচনটা কি আপনার কথা কাটছাঁট করতে শুরু করেছে? যে আয়াতটা বোঝানো কঠিন সেটা কি বাদ দিয়ে যান? যে বিধানটা কড়া শোনায় সেটা কি নরম করে বলেন? দ্বীনের কথা কি তোলেন কেবল ঘরের লোকেরা আপনাকে পছন্দ করে ফেলার পর? ১১:১২ আয়াত ঠিক এই প্রলোভনের কথাই বলে, নাজিল হওয়া কথার কিছু অংশ বাদ দিয়ে দেওয়া। আর জবাব দেয় ধমক দিয়ে নয়, দায়িত্বটা বুঝিয়ে দিয়ে: তুমি তো কেবল সতর্ককারী। পৌঁছে দেওয়াটুকু আপনার ভাগ, বাকিটা আপনার ভাগ নয়।"
           },
           {
             "en": "And keep the second audience in view. A reminder for the believers means you are a reader too, not only a carrier. Someone who opens the Book only to answer other people will find it heavy, because he is always holding it for a third party. Read a page for nobody. The verse gives these pages two jobs, and the second one is for the people who have already said yes, which includes you.",
-            "bn": "আর দ্বিতীয় শ্রোতাদের কথাও মনে রাখুন। মুমিনদের জন্য নসিহত মানে আপনি শুধু বাহক নন, আপনি পাঠকও। যিনি কিতাব খোলেন কেবল অন্যকে জবাব দেওয়ার জন্য, তাঁর কাছে সেটা ভারী লাগবেই, কারণ তিনি সবসময় তৃতীয় কারো হয়ে সেটা ধরে আছেন। কারো জন্য নয়, এমন করে এক পৃষ্ঠা পড়ুন। আয়াতটি এই পৃষ্ঠাগুলোকে দুইটা কাজ দিয়েছে, আর দ্বিতীয়টা তাদের জন্য যারা আগেই হ্যাঁ বলে ফেলেছে। সেই দলে আপনিও আছেন।"
+            "bn": "আর দ্বিতীয় শ্রোতাদের কথাও মনে রাখুন। মুমিনদের জন্য নসিহত মানে আপনি শুধু বাহক নন, আপনি পাঠকও। যিনি কিতাব খোলেন কেবল অন্যকে জবাব দেওয়ার জন্য, তাঁর কাছে সেটা ভারী লাগবেই, কারণ তিনি সবসময় তৃতীয় কারো হয়ে সেটা ধরে আছেন। অন্য কারো জন্য নয়, এমনি এক পৃষ্ঠা পড়ুন। আয়াতটি এই পৃষ্ঠাগুলোকে দুইটা কাজ দিয়েছে, আর দ্বিতীয়টা তাদের জন্য যারা আগেই হ্যাঁ বলে ফেলেছে। সেই দলে আপনিও আছেন।"
           }
         ]
       },
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's own vocabulary already contains the supplication, because the Quran hands it to another prophet in the same words. Musa (AS), sent to Pharaoh, asks in 20:25: rabbi ishrah li sadri, my Lord, open up my breast for me. He follows it in 20:26 with wa yassir li amri, and make my errand easy for me. A man given a message asked for the inside of his chest before he asked for anything outside it.",
-            "bn": "দু'আটা আয়াতের নিজের শব্দভাণ্ডারেই আছে, কারণ কুরআন একই শব্দে সেটা আরেকজন নবীর মুখে তুলে দিয়েছে। মূসা (আঃ), ফিরআউনের কাছে পাঠানোর সময়, ২০:২৫ আয়াতে বলেন, রাব্বিশরাহ লী সাদরী, হে আমার রব, আমার বুকটা খুলে দিন। এরপর ২০:২৬ আয়াতে বলেন, ওয়া ইয়াসসির লী আমরী, আর আমার কাজটা সহজ করে দিন। যাঁকে বার্তা দেওয়া হয়েছে তিনি বাইরের কিছু চাওয়ার আগে নিজের বুকের ভেতরটাই চেয়ে নিলেন।"
+            "bn": "দু'আটা এই আয়াতের শব্দের ভেতরেই আছে, কারণ কুরআন একই শব্দে তা আরেকজন নবীর মুখে দিয়েছে। মূসা (আঃ)-কে যখন ফেরাউনের কাছে পাঠানো হলো, ২০:২৫ আয়াতে তিনি বলেন: রাব্বিশরাহ লী সাদরী, হে আমার রব, আমার বুকটা খুলে দিন। এরপর ২০:২৬ আয়াতে বলেন: ওয়া ইয়াসসির লী আমরী, আর আমার কাজটা সহজ করে দিন। যাঁকে বার্তা দেওয়া হয়েছে, তিনি বাইরের কিছু চাওয়ার আগে নিজের বুকের ভেতরটাই চেয়ে নিলেন।"
           },
           {
             "en": "Keep it for any morning with something difficult in it: a conversation you have been avoiding, a correction you owe someone, a class to teach, a stand to take at work. Ask first for the chest and then for the task. A short supplication in the verse's own wording, offered as nothing more than that, can carry the rest: my Lord, this is Your Book, so let it not press upon me, and let me warn by it and be reminded by it.",
@@ -165,7 +165,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The relief in 7:2 arrives before the opposition does. What would you do this week if you stopped waiting to feel settled before you spoke? When did you last read a page of the Quran as a reminder for yourself rather than as material for an argument you expect to have? And when your chest does close, do you take it to Allah the way 20:25 does, or do you simply carry it and call that patience?",
-            "bn": "৭:২ আয়াতের সান্ত্বনাটা বিরোধিতা আসার আগেই এসে যায়। মনের জোর আসার অপেক্ষা ছেড়ে দিলে এই সপ্তাহে আপনি কী করতেন? শেষবার কবে কুরআনের এক পৃষ্ঠা পড়েছেন নিজের জন্য নসিহত হিসেবে, সামনের কোনো তর্কের রসদ হিসেবে নয়? আর বুক যখন সত্যিই চেপে আসে, ২০:২৫ আয়াত যেভাবে করে আপনি কি সেভাবে সেটা আল্লাহর কাছে নিয়ে যান, নাকি চুপচাপ বয়ে বেড়ান আর তাকেই সবর বলেন?"
+            "bn": "৭:২ আয়াতের সান্ত্বনাটা বিরোধিতা আসার আগেই এসে যায়। মন শান্ত হওয়ার অপেক্ষা না করে কথা বলতে শুরু করলে এই সপ্তাহে আপনি কী করতেন? শেষবার কবে কুরআনের এক পৃষ্ঠা পড়েছেন নিজের জন্য নসিহত হিসেবে, সামনের কোনো তর্কের রসদ হিসেবে নয়? আর বুক যখন সত্যিই চেপে আসে, ২০:২৫ আয়াত যেভাবে করে আপনি কি সেভাবে সেটা আল্লাহর কাছে নিয়ে যান, নাকি চুপচাপ বয়ে বেড়ান আর তাকেই সবর বলেন?"
           }
         ]
       }
@@ -176,7 +176,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "One Exception in a Ranked Order",
-          "bn": "সারিবদ্ধ হুকুমে একটি ব্যতিক্রম"
+          "bn": "এক সারিতে একটাই ব্যতিক্রম"
         },
         "p": [
           {
@@ -196,7 +196,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question With an Extra No",
-          "bn": "একটি বাড়তি না-সহ প্রশ্ন"
+          "bn": "প্রশ্নে একটা বাড়তি 'না'"
         },
         "p": [
           {
@@ -241,7 +241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di draws the lesson out of that pairing: he was answered with the exact opposite of what he reached for, and the sentence is shaped so that the punishment names the crime. It is not that greatness was denied him and something unrelated given instead. He is handed smallness, the precise antonym of the thing he had claimed, on the strength of the claim itself.",
-            "bn": "সা'দী এই জোড়টা থেকেই শিক্ষাটা টেনে বের করেন। যা চেয়েছিল তার ঠিক উল্টোটা তাকে ধরিয়ে দেওয়া হলো, আর রায়টা এমনভাবে গড়া যে শাস্তিই অপরাধের নাম বলে দেয়। এমন নয় যে বড়ত্ব দেওয়া হলো না আর বদলে সম্পর্কহীন কিছু দেওয়া হলো। তার দাবির জোরেই তার হাতে তুলে দেওয়া হলো ছোট হওয়া, ঠিক যে জিনিসটা সে দাবি করেছিল তার বিপরীত শব্দটি।"
+            "bn": "সা'দী এই জোড়টা থেকেই শিক্ষাটা টেনে বের করেন। সে যা চেয়েছিল, জবাবে পেল ঠিক তার উল্টোটা, আর রায়টা এমনভাবে গড়া যে শাস্তিই অপরাধের নাম বলে দেয়। এমন নয় যে বড়ত্ব দেওয়া হলো না আর বদলে সম্পর্কহীন অন্য কিছু দেওয়া হলো। তাকে দেওয়া হলো ছোট হওয়া, যা সে দাবি করেছিল ঠিক তার উল্টো, আর দেওয়া হলো ওই দাবির কারণেই।"
           },
           {
             "en": "On what he was, the texts pull in one direction. 7:11 lists him as an exception to the angels, and 18:50 states that he was of the jinn and departed from the command of his Lord. Al-Hasan al-Basri held that he was never an angel for an instant; others among the early authorities held that he belonged to a tribe of them. Ibn Kathir sets out both, and 18:50 is the verse the first group rest on.",
@@ -261,7 +261,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The two halves of that definition are the two halves of 7:12. He rejected a truth that had arrived as a command, and he looked down on the one he had been told to honour. The hadith also removes a misreading before it forms. The questioner was worried about good clothes, and the answer refused to call that arrogance. Kibr here is not a taste or a possession. It is a posture toward the truth and toward people.",
-            "bn": "এই সংজ্ঞার দুইটা অংশই ৭:১২ আয়াতের দুইটা অংশ। হুকুম হয়ে আসা একটা সত্যকে সে নাকচ করেছে, আর যাকে সম্মান করতে বলা হয়েছিল তাকে তুচ্ছ ভেবেছে। হাদীসটি একটা ভুল বোঝাবুঝি তৈরি হওয়ার আগেই সরিয়ে দেয়। প্রশ্নকারীর দুশ্চিন্তা ছিল ভালো কাপড় নিয়ে, আর জবাবে সেটাকে অহংকার বলতে সাফ অস্বীকার করা হলো। এখানে অহংকার কোনো রুচি বা সম্পদ নয়। এটা সত্যের দিকে আর মানুষের দিকে দাঁড়ানোর ভঙ্গি।"
+            "bn": "এই সংজ্ঞার দুইটা অংশই ৭:১২ আয়াতের দুইটা অংশ। হুকুম হয়ে আসা একটা সত্যকে সে নাকচ করেছে, আর যাকে সম্মান করতে বলা হয়েছিল তাকে তুচ্ছ ভেবেছে। হাদিসটি একটা ভুল বোঝাবুঝি তৈরি হওয়ার আগেই সরিয়ে দেয়। প্রশ্নকারীর দুশ্চিন্তা ছিল ভালো কাপড় নিয়ে, আর জবাবে সেটাকে অহংকার বলা হয়নি। এখানে অহংকার কোনো রুচি বা মালিকানার ব্যাপার নয়। এ হলো সত্যের প্রতি আর মানুষের প্রতি মনের একটা ভঙ্গি।"
           }
         ]
       },
@@ -297,11 +297,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The test in this verse is obedience that costs standing. The act itself was not hard. Prostration costs nothing physically. What it cost was the ranking he was carrying of himself against Adam. Every instruction that is easy to perform and hard to accept is this same test: taking a turn at work you think is below you, sitting where you were seated rather than where you feel you belong.",
-            "bn": "এই আয়াতের পরীক্ষাটা হলো এমন আনুগত্য যার দাম মর্যাদা দিয়ে দিতে হয়। কাজটা কঠিন ছিল না। সাজদাহ করতে শরীরের কোনো খরচ নেই। খরচটা ছিল আদমের সঙ্গে নিজেকে মেপে রাখা যে হিসাবটা সে বয়ে বেড়াচ্ছিল, সেটা। যে হুকুম পালন করা সহজ অথচ মেনে নেওয়া কঠিন, সেটাই এই একই পরীক্ষা। নিজের মর্যাদার নিচে মনে হয় এমন কাজের পালা নেওয়া, কিংবা যেখানে বসার কথা মনে হয় সেখানে না বসে যেখানে বসতে দেওয়া হয়েছে সেখানেই বসা।"
+            "bn": "এই আয়াতের পরীক্ষা হলো এমন আনুগত্য, যার দাম দিতে হয় নিজের মর্যাদা দিয়ে। কাজটা কঠিন ছিল না; সাজদাহ করতে শরীরের কোনো কষ্ট নেই। দাম দিতে হতো অন্যখানে: আদমের তুলনায় নিজেকে সে যে উঁচুতে বসিয়ে রেখেছিল, সেই হিসাবটা ছাড়তে হতো। যে হুকুম পালন করা সহজ অথচ মেনে নেওয়া কঠিন, তার প্রতিটাই এই একই পরীক্ষা। যেমন নিজের মর্যাদার নিচে মনে হয় এমন কাজে পালা দেওয়া, কিংবা নিজের যোগ্য মনে করা জায়গায় নয়, যেখানে বসতে বলা হয়েছে সেখানেই বসা।"
           },
           {
             "en": "There is usually one person whose correction a man will not take. A younger colleague, a sibling, someone who came to practice late, someone whose past he remembers too well. The command was not simply to prostrate; it was to prostrate to Adam, and the refusal lodged in the object. Ask honestly who yours is, because the instruction you cannot obey is rarely the difficult one. It is the one that came from the wrong mouth.",
-            "bn": "সাধারণত এমন একজন থাকেই যার শোধরানো মানুষ নিতে পারে না। ছোট কোনো সহকর্মী, ভাই বা বোন, দেরিতে দ্বীনে ফেরা কেউ, কিংবা এমন কেউ যার অতীত খুব বেশি মনে আছে। হুকুম শুধু সাজদাহ করার ছিল না, ছিল আদমকে সাজদাহ করার। আর অস্বীকারটা আটকে গেল ওই কর্মপদটাতেই। সৎভাবে নিজেকে জিজ্ঞেস করুন আপনার সেই মানুষটা কে। কারণ যে হুকুম পালন করতে পারেন না সেটা সাধারণত কঠিন হুকুম নয়। সেটা ভুল মুখ থেকে আসা হুকুম।"
+            "bn": "সাধারণত এমন একজন থাকেই যার শোধরানো মানুষ নিতে পারে না। ছোট কোনো সহকর্মী, ভাই বা বোন, দেরিতে দ্বীনে ফেরা কেউ, কিংবা এমন কেউ যার অতীত খুব বেশি মনে আছে। হুকুম শুধু সাজদাহ করার ছিল না, ছিল আদমকে সাজদাহ করার। আর অস্বীকারটা আটকে ছিল ওই আদমকে কথাটাতেই। খোলা মনে নিজেকে জিজ্ঞেস করুন, আপনার সেই মানুষটা কে। কারণ যে হুকুম পালন করতে পারেন না সেটা সাধারণত কঠিন হুকুম নয়। সেটা ভুল মুখ থেকে আসা হুকুম।"
           }
         ]
       },
@@ -313,7 +313,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim records from Ali (RA) among the words the Prophet said when he opened the night prayer: guide me to the best of character, for none guides to the best of it but You, and turn away from me its evil, for none turns away its evil but You. Character is asked for there as something given rather than achieved, which is the right way to ask about a fault this deep.",
-            "bn": "মুসলিম আলী (রাঃ) থেকে বর্ণনা করেন, রাতের নামায শুরু করার সময় নবী ﷺ যে কথাগুলো বলতেন তার মধ্যে ছিল, আমাকে সবচেয়ে সুন্দর চরিত্রের পথ দেখান, আপনি ছাড়া কেউ তার সবচেয়ে সুন্দরটির পথ দেখাতে পারে না, আর তার মন্দ দিকটা আমার থেকে সরিয়ে দিন, আপনি ছাড়া কেউ তা সরাতে পারে না। এখানে চরিত্র চাওয়া হচ্ছে অর্জনের জিনিস হিসেবে নয়, দানের জিনিস হিসেবে। এত গভীর একটা রোগের জন্য চাওয়ার ধরনটা এটাই।"
+            "bn": "মুসলিম আলী (রাঃ) থেকে বর্ণনা করেন, রাতের নামাজ শুরু করার সময় নবী ﷺ যে কথাগুলো বলতেন তার মধ্যে ছিল: আমাকে সবচেয়ে সুন্দর চরিত্রের পথ দেখান, আপনি ছাড়া কেউ তার সবচেয়ে সুন্দরটির পথ দেখাতে পারে না, আর তার মন্দ দিকটা আমার থেকে সরিয়ে দিন, আপনি ছাড়া কেউ তা সরাতে পারে না। এখানে চরিত্র চাওয়া হচ্ছে অর্জনের জিনিস হিসেবে নয়, দানের জিনিস হিসেবে। এত গভীর দোষের বেলায় এভাবে চাওয়াটাই ঠিক।"
           },
           {
             "en": "Alongside it, a short supplication in the verse's own vocabulary, offered as nothing more than that and not as a transmitted text: O Allah, You command and You know what You command, so do not let me answer You with a comparison, and do not let my estimate of myself stand between me and an order of Yours. Keep me from the smallness that greatness is paid with.",
@@ -344,16 +344,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Question Before the Prayer",
-          "bn": "প্রার্থনার আগের প্রশ্ন"
+          "bn": "দোয়ার আগের প্রশ্ন"
         },
         "p": [
           {
             "en": "These words sit inside a scene, and the scene explains them. 7:19 places Adam (AS) and his wife in the Garden with a single restriction. 7:20-21 have the whisperer at work, offering a reason for the restriction and swearing that he is a sincere adviser. 7:22 has them taste the tree, their nakedness appear, and their Lord call out: did I not forbid you that tree and tell you Satan is a clear enemy to you? This verse is the answer to that question.",
-            "bn": "এই কথাগুলো একটি দৃশ্যের ভেতরে বসে আছে, আর দৃশ্যটিই এগুলোর ব্যাখ্যা। 7:19 আয়াতে আদম (আঃ) ও তাঁর স্ত্রীকে জান্নাতে রাখা হয় একটিমাত্র নিষেধসহ। 7:20-21 আয়াতে কুমন্ত্রণাদাতা কাজে নামে, নিষেধের একটি কারণ বানিয়ে দেয় আর শপথ করে বলে যে সে আন্তরিক হিতাকাঙ্ক্ষী। 7:22 আয়াতে তাঁরা গাছের স্বাদ নেন, তাঁদের লজ্জাস্থান প্রকাশ পায়, আর তাঁদের রব ডেকে বলেন: আমি কি তোমাদের ওই গাছ থেকে নিষেধ করিনি এবং বলিনি যে শয়তান তোমাদের প্রকাশ্য শত্রু? এই আয়াতটি সেই প্রশ্নের উত্তর।"
+            "bn": "এই কথাগুলো একটা ঘটনার ভেতরে বলা, আর ঘটনাটাই এগুলো বুঝিয়ে দেয়। ৭:১৯ আয়াতে আদম (আঃ) ও তাঁর স্ত্রীকে জান্নাতে রাখা হয়, নিষেধ কেবল একটাই। ৭:২০-২১ আয়াতে কুমন্ত্রণাদাতা কাজে নামে: নিষেধের পেছনে একটা কারণ দাঁড় করায়, আর কসম খেয়ে বলে সে তাঁদের হিতাকাঙ্ক্ষী। ৭:২২ আয়াতে তাঁরা গাছের ফল চেখে দেখেন, তাঁদের লজ্জাস্থান খুলে যায়, আর তাঁদের রব ডেকে বলেন: আমি কি তোমাদের ওই গাছ থেকে নিষেধ করিনি, আর বলিনি যে শয়তান তোমাদের প্রকাশ্য শত্রু? এই আয়াত সেই প্রশ্নেরই জবাব।"
           },
           {
             "en": "So it is not an unprompted supplication but a reply given under direct questioning, which is when excuses are most natural. The Quran does not name Adam's wife, here or anywhere, and there is no reason to supply a name it withheld. What it does record is that both of them spoke: the verb introducing the words is dual. Given a scene containing an obvious second party to blame and a deceiver who had genuinely deceived them, they name only themselves.",
-            "bn": "অর্থাৎ এটি আপনা থেকে করা কোনো দোয়া নয়, বরং সরাসরি জিজ্ঞাসাবাদের মুখে দেওয়া জবাব — আর তখনই অজুহাত সবচেয়ে স্বাভাবিক। কুরআন আদম (আঃ)-এর স্ত্রীর নাম নেয় না, এখানেও নয়, অন্য কোথাও নয়; কুরআন যে নামটি বলেনি তা জোগান দেওয়ার কোনো কারণ নেই। কুরআন যা লিপিবদ্ধ করে তা হলো, তাঁরা দুজনেই বলেছিলেন: কথাগুলোর সূচনাকারী ক্রিয়াপদটি দ্বিবচনে। এমন এক দৃশ্যে যেখানে দোষ চাপানোর মতো স্পষ্ট দ্বিতীয় পক্ষ আছে এবং সত্যিই প্রতারণাকারী এক প্রতারক আছে, তাঁরা কেবল নিজেদেরই নাম নেন।"
+            "bn": "তাই এটা নিজে থেকে করা কোনো দোয়া নয়। এটা সরাসরি জিজ্ঞাসার মুখে দেওয়া জবাব, আর ঠিক তখনই মানুষ সবচেয়ে সহজে অজুহাত খোঁজে। কুরআন আদম (আঃ)-এর স্ত্রীর নাম বলে না, এখানেও না, অন্য কোথাও না। কুরআন যে নাম বলেনি, সেটা বসিয়ে দেওয়ার কোনো কারণ নেই। তবে কুরআন এটুকু জানিয়ে দেয় যে কথাগুলো দুজনেই বলেছিলেন: আরবিতে যে ক্রিয়াপদ দিয়ে কথাগুলো শুরু, সেটা দুজনের কথা বোঝায়। দোষ চাপানোর মতো আরেকজন সামনেই ছিলেন, আর যে ধোঁকা দিয়েছিল সে সত্যিই ধোঁকা দিয়েছিল। তবু তাঁরা নাম নেন কেবল নিজেদের।"
           }
         ]
       },
@@ -365,11 +365,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Rabbana zalamna anfusana. Zulm is putting a thing somewhere it does not belong. What is striking is the object of the wrong: anfusana, ourselves. The command that was broken belonged to Allah, and the breach was against Him, yet the confession identifies the injured party as the one who disobeyed. Nothing is added by way of setting, cause or provocation. Three words carry the whole admission and then it stops.",
-            "bn": "রাব্বানা যালামনা আনফুসানা। জুলুম মানে কোনো জিনিসকে এমন জায়গায় রাখা যেখানে তার স্থান নয়। চমকে দেওয়ার মতো বিষয়টি হলো অন্যায়ের লক্ষ্যবস্তু: আনফুসানা — আমাদের নিজেদের। যে আদেশ ভাঙা হয়েছিল তা আল্লাহর, আর লঙ্ঘনটিও তাঁর বিরুদ্ধে; তবু স্বীকারোক্তি ক্ষতিগ্রস্ত পক্ষ হিসেবে চিহ্নিত করে সেই ব্যক্তিকেই যে অবাধ্য হয়েছে। পরিস্থিতি, কারণ বা উসকানি — কিছুই যোগ করা হয় না। তিনটি শব্দ পুরো স্বীকারোক্তিটি বহন করে, তারপর থেমে যায়।"
+            "bn": "রাব্বানা যালামনা আনফুসানা। জুলুম মানে কোনো জিনিসকে তার জায়গার বাইরে রাখা। লক্ষ করার মতো ব্যাপার হলো, জুলুমটা কার উপর: আনফুসানা, আমাদের নিজেদের উপর। ভাঙা হুকুমটা ছিল আল্লাহর, লঙ্ঘনটাও তাঁরই বিরুদ্ধে। তবু এই স্বীকারোক্তিতে ক্ষতিগ্রস্ত বলা হচ্ছে তাঁদেরকেই, যাঁরা অবাধ্য হয়েছিলেন। পরিস্থিতি, কারণ বা কারো উসকানির কথা একটাও যোগ হয়নি। তিনটি শব্দেই পুরো স্বীকারোক্তি, তারপর থেমে যাওয়া।"
           },
           {
             "en": "The build of the prayer deserves attention too: it contains no imperative verb at all. Where the believers of 23:109 say forgive us and have mercy upon us as straight commands in the mouth of a petitioner, this du'a states a fact and then a consequence — if You do not forgive us and have mercy on us, we will certainly be among the losers. The request is made by describing what happens without it. It asks by admitting.",
-            "bn": "প্রার্থনাটির গড়নও মনোযোগের দাবি রাখে: এতে কোনো আদেশসূচক ক্রিয়াপদই নেই। 23:109 আয়াতের মুমিনরা যেখানে 'আমাদের ক্ষমা করুন ও আমাদের প্রতি দয়া করুন' বলেন প্রার্থীর মুখে সরাসরি আদেশ হিসেবে, সেখানে এই দোয়া একটি সত্য বলে, তারপর একটি পরিণতি — যদি আপনি আমাদের ক্ষমা না করেন ও দয়া না করেন, আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব। চাওয়াটি করা হয় এটি না পেলে কী হবে তা বর্ণনা করে। এটি স্বীকার করে চায়।"
+            "bn": "দোয়াটির গড়নও খেয়াল করার মতো: এতে একটাও আদেশের ক্রিয়া নেই, অর্থাৎ করুন, দিন ধরনের কোনো সরাসরি অনুরোধ নেই। ২৩:১০৯ আয়াতের মুমিনরা আবেদনকারীর মতো সরাসরি চেয়ে বলেন, আমাদের ক্ষমা করুন, আমাদের প্রতি রহম করুন। আর এই দোয়া কেবল একটা সত্য বলে, তারপর তার পরিণতি: আপনি যদি আমাদের ক্ষমা না করেন আর রহম না করেন, আমরা অবশ্যই ক্ষতিগ্রস্তদের দলে চলে যাব। চাওয়াটা হয় এটুকু বলে যে, না পেলে কী হবে। স্বীকার করাটাই এখানে চাওয়া।"
           }
         ]
       },
@@ -381,11 +381,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah has already staged the alternative. In 7:12 Iblis, asked what prevented him from prostrating, answers with an argument: I am better than him, You created me from fire and created him from clay. The same reply is recorded at 38:76 in a second telling. In 7:16 he traces his own error back to his Lord. He does make one request, at 7:14, and it is for time, not for pardon.",
-            "bn": "সূরাটি বিকল্পটি আগেই মঞ্চস্থ করে রেখেছে। 7:12 আয়াতে ইবলিসকে জিজ্ঞেস করা হয় কিসে তাকে সিজদা থেকে বিরত রাখল, আর সে জবাব দেয় যুক্তি দিয়ে: আমি তার চেয়ে উত্তম, আপনি আমাকে আগুন থেকে সৃষ্টি করেছেন আর তাকে সৃষ্টি করেছেন মাটি থেকে। একই জবাব দ্বিতীয় বর্ণনায় 38:76 আয়াতে লিপিবদ্ধ। 7:16 আয়াতে সে নিজের বিভ্রান্তির দায় তার রবের দিকেই ফেরায়। সে একটি অনুরোধ করে, 7:14 আয়াতে, আর তা সময়ের জন্য — ক্ষমার জন্য নয়।"
+            "bn": "বিকল্প জবাবটা সূরা আগেই দেখিয়ে রেখেছে। ৭:১২ আয়াতে ইবলিসকে জিজ্ঞেস করা হয়, কিসে তাকে সিজদা থেকে আটকাল। সে জবাব দেয় যুক্তি দিয়ে: আমি তার চেয়ে উত্তম, আপনি আমাকে আগুন থেকে সৃষ্টি করেছেন আর তাকে মাটি থেকে। ঘটনাটা দ্বিতীয়বার বলার সময় ৩৮:৭৬ আয়াতেও এই জবাবটাই আছে। ৭:১৬ আয়াতে সে নিজের পথভ্রষ্টতার দায় চাপায় তার রবের উপর। একটা অনুরোধ সে করে বটে, ৭:১৪ আয়াতে, তবে সেটা সময় চেয়ে, ক্ষমা চেয়ে নয়।"
           },
           {
             "en": "So Surah al-A'raf places two responses to a breached command within a dozen verses of each other. One party argues, explains, reassigns the cause and asks for a reprieve. The other admits and asks for mercy. The outcome for the first is stated in 7:18 as expulsion in disgrace; the outcome for Adam (AS) is stated in 2:37 as repentance accepted. The mufassirun make that comparison the lesson of the passage. The lapse was not what separated them. The answer was.",
-            "bn": "অর্থাৎ সূরা আল-আ'রাফ ভঙ্গ করা আদেশের দুটি জবাবকে এক ডজনেরও কম আয়াতের ব্যবধানে পাশাপাশি রাখে। এক পক্ষ তর্ক করে, ব্যাখ্যা দেয়, কারণ অন্যের ঘাড়ে চাপায় এবং অবকাশ চায়। অন্য পক্ষ স্বীকার করে এবং রহমত চায়। প্রথম পক্ষের পরিণতি 7:18 আয়াতে বলা হয়েছে অপমানিত হয়ে বিতাড়ন হিসেবে; আদম (আঃ)-এর পরিণতি 2:37 আয়াতে বলা হয়েছে তাওবা কবুল হিসেবে। মুফাসসিরগণ এই তুলনাকেই অংশটির শিক্ষা হিসেবে ধরেন। ভুলটি তাঁদের আলাদা করেনি। জবাবটি করেছে।"
+            "bn": "তাই সূরা আল-আ'রাফ ভাঙা হুকুমের দুইটা জবাব এক ডজন আয়াতের মধ্যেই পাশাপাশি রেখে দেয়। এক পক্ষ তর্ক করে, ব্যাখ্যা দেয়, দোষ অন্যের ঘাড়ে চাপায়, আর সময় চায়। অন্য পক্ষ দোষ স্বীকার করে আর রহমত চায়। প্রথমজনের পরিণতি ৭:১৮ আয়াতে: লাঞ্ছিত করে বের করে দেওয়া। আদম (আঃ)-এর পরিণতি ২:৩৭ আয়াতে: তওবা কবুল। মুফাসসিরগণ এই তুলনাটাকেই এই অংশের শিক্ষা বলে ধরেন। ভুল তাঁদের আলাদা করেনি, আলাদা করেছে জবাব।"
           }
         ]
       },
@@ -397,27 +397,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "2:37 says that Adam (AS) received words from his Lord and He turned to him in forgiveness, but it does not quote them. A body of the mufassirun, reporting from Ibn Abbas (RA) and transmitted by at-Tabari and repeated by Ibn Kathir, identify those words as this very supplication. That is an attribution, and it is honest to give it as one rather than as the text of 2:37 itself. What is not in dispute is the shape of the sentence there: the words came to him.",
-            "bn": "2:37 আয়াত বলে, আদম (আঃ) তাঁর রবের কাছ থেকে কিছু বাণী পেলেন এবং তিনি তাঁর তাওবা কবুল করলেন — কিন্তু আয়াতটি সেই বাণী উদ্ধৃত করে না। একদল মুফাসসির, ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করে এবং আত-তাবারীর মাধ্যমে সংক্রমিত ও ইবনে কাসীরে পুনরাবৃত্ত হয়ে, সেই বাণীগুলোকে এই দোয়াটিই বলে চিহ্নিত করেন। এটি একটি সম্বন্ধারোপ, আর একে 2:37 আয়াতের পাঠ হিসেবে নয়, সম্বন্ধারোপ হিসেবেই বলা সৎ। যা নিয়ে মতভেদ নেই তা হলো সেখানকার বাক্যগঠন: বাণীগুলো তাঁর কাছে এসেছিল।"
+            "bn": "২:৩৭ আয়াত বলে, আদম (আঃ) তাঁর রবের কাছ থেকে কিছু বাণী পেলেন, আর আল্লাহ তাঁর তওবা কবুল করলেন। কিন্তু সেই বাণীগুলো আয়াতে উদ্ধৃত হয়নি। মুফাসসিরদের একটা দল ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করে বলেন, সেই বাণী এই দোয়াটিই। বর্ণনাটি আত-তাবারী সংকলন করেছেন, ইবনে কাসীরও তা উল্লেখ করেছেন। এটা একটা ব্যাখ্যা, ২:৩৭ আয়াতের নিজের ভাষা নয়, আর সৎ থাকতে হলে একে ব্যাখ্যা হিসেবেই বলতে হবে। তবে সেখানকার বাক্যের গড়ন নিয়ে কোনো মতভেদ নেই: বাণীগুলো তাঁর কাছে এসেছিল।"
           },
           {
             "en": "If the identification is accepted, something follows from it. The prayer that saved him was given to him. Repentance in the Quran's account is not a human achievement climbing up toward Allah; the turning is itself something granted. 20:121-122 tells the same episode in the same order — Adam disobeyed his Lord and erred, then his Lord chose him, turned to him and guided him. The choosing is mentioned after the fall, not before it.",
-            "bn": "এই চিহ্নিতকরণ মেনে নিলে তা থেকে একটি কথা বেরিয়ে আসে। যে প্রার্থনা তাঁকে রক্ষা করেছে, সেটি তাঁকে দেওয়া হয়েছিল। কুরআনের বিবরণে তাওবা কোনো মানবিক অর্জন নয় যা আল্লাহর দিকে বেয়ে ওঠে; ফিরে আসাটাই একটি দান। 20:121-122 আয়াত একই ঘটনাকে একই ক্রমে বলে — আদম তাঁর রবের অবাধ্য হলেন ও পথভ্রষ্ট হলেন, তারপর তাঁর রব তাঁকে মনোনীত করলেন, তাঁর দিকে ফিরলেন এবং তাঁকে পথ দেখালেন। মনোনয়নের কথা বলা হয়েছে পতনের পরে, আগে নয়।"
+            "bn": "এই ব্যাখ্যা মেনে নিলে একটা কথা বেরিয়ে আসে। যে দোয়া তাঁকে বাঁচিয়েছে, সেটা তাঁকে দেওয়াই হয়েছিল। কুরআনের বর্ণনায় তওবা এমন কোনো মানবিক কৃতিত্ব নয় যা নিচ থেকে বেয়ে আল্লাহর দিকে ওঠে। ফিরে আসাটাই আল্লাহর দান। ২০:১২১-১২২ আয়াত একই ঘটনা একই ক্রমে বলে: আদম তাঁর রবের অবাধ্য হলেন, ভুল পথে গেলেন, তারপর তাঁর রব তাঁকে বেছে নিলেন, তাঁর তওবা কবুল করলেন, তাঁকে পথ দেখালেন। বেছে নেওয়ার কথা এসেছে পদস্খলনের পরে, আগে নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Used",
-          "bn": "এটি কীভাবে ব্যবহার হয়"
+          "bn": "দোয়াটি যেভাবে কাজে লাগে"
         },
         "p": [
           {
             "en": "The supplication is short enough to memorise in an evening and general enough for any fault. Its shape is the instruction. Name the act. Name yourself as the one harmed by it. Ask for nothing except forgiveness and mercy. State plainly what you are without them. Every clause a person normally reaches for first — the provocation, the circumstances, the others involved — is simply absent from the model.",
-            "bn": "দোয়াটি এত ছোট যে এক সন্ধ্যায় মুখস্থ হয়ে যায়, আর এত সাধারণ যে যেকোনো অপরাধের জন্য চলে। এর গড়নটিই নির্দেশ। কাজটির নাম নিন। যে ক্ষতিগ্রস্ত হয়েছে সেই আপনাকেই চিহ্নিত করুন। ক্ষমা ও রহমত ছাড়া আর কিছু চাইবেন না। সেগুলো ছাড়া আপনি কী, তা স্পষ্ট করে বলুন। মানুষ সাধারণত প্রথমে যেসব বাক্যাংশের দিকে হাত বাড়ায় — উসকানি, পরিস্থিতি, জড়িত অন্যরা — এই আদর্শে তার কোনোটিই নেই।"
+            "bn": "দোয়াটি এত ছোট যে এক সন্ধ্যাতেই মুখস্থ হয়ে যায়, আর এত ব্যাপক যে যেকোনো ভুলের বেলায় খাটে। এর গড়নটাই শিক্ষা। কাজটার নাম নিন। ক্ষতি যে নিজেরই হয়েছে, তা স্বীকার করুন। ক্ষমা আর রহমত ছাড়া আর কিছু চাইবেন না। এ দুটো ছাড়া আপনি কী, তা সোজাসুজি বলুন। মানুষ সাধারণত সবার আগে যে কথাগুলো টেনে আনে, যেমন উসকানি, পরিস্থিতি, আর কে কে জড়িত ছিল, এই নমুনায় তার একটাও নেই।"
           },
           {
             "en": "The last word is al-khasirin, the losers, which is a commercial word, and it prices the fault honestly: without forgiveness the account comes up short. That is the register the Quran wants, rather than either dismissal or despair. 7:24 gives the sequel — they went down to the earth with a settlement and a provision for a term. The forgiveness did not cancel the consequence. It changed who they were while they lived through it.",
-            "bn": "শেষ শব্দটি আল-খাসিরীন — ক্ষতিগ্রস্তরা; শব্দটি বাণিজ্যিক, আর তা অপরাধটির দাম সৎভাবে নির্ধারণ করে: ক্ষমা ছাড়া হিসাব ঘাটতিতে দাঁড়ায়। কুরআন এই সুরটিই চায় — উড়িয়ে দেওয়াও নয়, হতাশাও নয়। 7:24 আয়াত পরবর্তী অংশ দেয় — তাঁরা পৃথিবীতে নেমে গেলেন নির্দিষ্ট সময়ের জন্য বসবাস ও জীবিকা নিয়ে। ক্ষমা পরিণামটি বাতিল করেনি। তা বদলে দিয়েছিল সেই পরিণামের ভেতর দিয়ে যাওয়ার সময় তাঁরা কেমন মানুষ ছিলেন।"
+            "bn": "শেষ শব্দ আল-খাসিরীন, ক্ষতিগ্রস্তরা। শব্দটা ব্যবসার ভাষা থেকে আসা, আর ভুলের দামটা সে ঠিকঠাক কষে দেয়: ক্ষমা না পেলে হিসাবে ঘাটতি থেকে যায়। কুরআন এই সুরটাই চায়, ভুলকে উড়িয়ে দেওয়াও নয়, হতাশ হয়ে পড়াও নয়। ৭:২৪ আয়াত জানায় এরপর কী হলো: তাঁরা পৃথিবীতে নেমে গেলেন, সেখানে নির্দিষ্ট সময় পর্যন্ত থাকার জায়গা আর জীবিকা নিয়ে। ক্ষমা পরিণামটা মুছে দেয়নি। তবে সেই পরিণামের ভেতর দিয়ে চলার সময় তাঁরা কেমন মানুষ, তা বদলে দিয়েছে।"
           }
         ]
       }
@@ -437,7 +437,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "7:26 is the gift, and 7:27 is the warning attached to it. The gift is clothing that covers what should be covered, and finery besides, and then a line that reorders the whole subject: the garment of taqwa is better. Only after clothing has been named a favour does the next verse name the one who took the first clothing away. The order is not decorative. You are warned about the thief immediately after being handed the property.",
-            "bn": "৭:২৬ আয়াত দান, আর ৭:২৭ আয়াত সেই দানের সাথে জুড়ে দেওয়া সতর্কবাণী। দানটা হলো এমন পোশাক যা ঢাকার জিনিস ঢাকে, তার সাথে সৌন্দর্যও। আর তারপর একটা কথা পুরো প্রসঙ্গটাকেই নতুন করে সাজিয়ে দেয়, তাকওয়ার পোশাকই সবচেয়ে ভালো। পোশাককে নিয়ামত বলার পরেই পরের আয়াত সেই জনের কথা বলে যে প্রথম পোশাকটা খুলে নিয়েছিল। ক্রমটা সাজানোর জন্য নয়। সম্পত্তি হাতে দেওয়ার সঙ্গে সঙ্গেই চোরের কথা বলে দেওয়া হচ্ছে।"
+            "bn": "৭:২৬ আয়াত দান, আর ৭:২৭ আয়াত সেই দানের সাথে জুড়ে দেওয়া সতর্কবাণী। দানটা হলো এমন পোশাক যা ঢাকার জিনিস ঢাকে, তার সাথে সৌন্দর্যও। তারপর একটা কথা পুরো প্রসঙ্গটাকেই নতুন করে সাজিয়ে দেয়: তাকওয়ার পোশাকই উত্তম। পোশাককে নিয়ামত বলার পরেই পরের আয়াত তার কথা বলে, যে প্রথম পোশাকটা খুলে নিয়েছিল। এই ক্রম কেবল সাজসজ্জা নয়। সম্পদ হাতে দেওয়ার সঙ্গে সঙ্গেই চোরের কথা বলে দেওয়া হচ্ছে।"
           },
           {
             "en": "The reply that Adam (AS) and his wife gave when they were questioned is at 7:23, and that verse carries its own card and article here, so it is not retold. What 7:27 takes from the episode is not the repentance but the method. It reaches back into the story only for the part that is still operating, and it names it as something the reader is standing inside rather than reading about.",
@@ -453,7 +453,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "La yaftinannakum ash-shaytan. On the surface this forbids Shaytan rather than the reader: let him absolutely not put you to trial. The emphatic nun makes it categorical. Al-Qurtubi notes the form and reads it as a prohibition aimed at the one listening. You cannot obey a command given to your enemy. What you can do is refuse to be the opening he comes in through.",
-            "bn": "লা ইয়াফতিনান্নাকুমুশ শাইত্বান। উপর থেকে দেখলে নিষেধটা পাঠককে নয়, শয়তানকে করা হচ্ছে, সে যেন কিছুতেই তোমাদের ফিতনায় ফেলতে না পারে। জোর দেওয়ার নূন কথাটাকে চূড়ান্ত করে দেয়। কুরতুবী এই গড়নটা তুলে ধরেন, আর একে শ্রোতার উদ্দেশেই নিষেধ বলে পড়েন। শত্রুকে দেওয়া হুকুম আপনি পালন করতে পারেন না। আপনি যা পারেন তা হলো, সেই ফাঁকটা হতে অস্বীকার করা যে ফাঁক দিয়ে সে ঢোকে।"
+            "bn": "লা ইয়াফতিনান্নাকুমুশ শাইত্বান। উপর থেকে দেখলে নিষেধটা পাঠককে নয়, শয়তানকে করা হচ্ছে: সে যেন কিছুতেই তোমাদের ফিতনায় ফেলতে না পারে। জোর দেওয়ার নূন কথাটাকে চূড়ান্ত করে দেয়। কুরতুবী এই গড়নটা তুলে ধরেন, আর একে শ্রোতার উদ্দেশেই নিষেধ বলে পড়েন। শত্রুকে দেওয়া হুকুম আপনি পালন করতে পারেন না। আপনি যা পারেন তা হলো, নিজেকে সেই ফাঁক হতে না দেওয়া, যেখান দিয়ে সে ঢোকে।"
           },
           {
             "en": "Fitnah comes from f-t-n, and its first use is the assaying of gold, putting the metal in fire so that what is not gold burns away. From there it carries trial, and from trial it carries seduction into ruin. The word chosen here is not one for deceiving or misleading in general. It is the word for putting something in a fire to find out what it is really made of.",
@@ -473,11 +473,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Innahu yarakum huwa wa qabiluhu min haythu la tarawnahum. Ibn Kathir reads it as exactly what it says, a warning that this enemy sees you from a position you cannot look back from, and he draws the practical conclusion at once: take refuge with the One who sees him while he does not see Him. The verse hands over a disadvantage and, in the same breath, the direction to look for cover.",
-            "bn": "ইন্নাহু ইয়ারাকুম হুয়া ওয়া কাবীলুহু মিন হাইসু লা তারাওনাহুম। ইবনু কাসীর একে যা বলা হয়েছে ঠিক তাই ধরেন, এই শত্রু এমন এক জায়গা থেকে তোমাদের দেখে যেখানে তোমাদের চোখ ফিরিয়ে দেওয়ার উপায় নেই। আর সঙ্গে সঙ্গেই কাজের কথাটা টেনে আনেন, আশ্রয় নাও তাঁর কাছে যিনি তাকে দেখেন অথচ সে তাঁকে দেখে না। আয়াতটি একদিকে দুর্বলতাটা ধরিয়ে দেয়, আর একই নিঃশ্বাসে আড়াল কোন দিকে তাও দেখিয়ে দেয়।"
+            "bn": "ইন্নাহু ইয়ারাকুম হুয়া ওয়া কাবীলুহু মিন হাইসু লা তারাওনাহুম। ইবনু কাসীর একে ঠিক যা বলা হয়েছে তা-ই ধরেন: এই শত্রু তোমাদের এমন জায়গা থেকে দেখে, যেদিকে তোমরা পাল্টা তাকাতে পারো না। আর সঙ্গে সঙ্গেই কাজের কথাটা টেনে আনেন: আশ্রয় নাও তাঁর কাছে, যিনি তাকে দেখেন অথচ সে তাঁকে দেখে না। আয়াতটি একদিকে দুর্বলতাটা ধরিয়ে দেয়, আর একই নিঃশ্বাসে আড়াল কোন দিকে তাও দেখিয়ে দেয়।"
           },
           {
             "en": "Is the invisibility absolute? Al-Qurtubi discusses it and the answer the reports give is narrower. The jinn are not seen in their own form, yet they appear in others, as one sound narration shows plainly. So what the verse establishes is an asymmetry of vantage, not a claim that they can never be encountered. The difference matters, because an absolute claim breeds a kind of dread the rest of the Quran spends its time dismantling.",
-            "bn": "এই না-দেখাটা কি একেবারে চূড়ান্ত? কুরতুবী বিষয়টা আলোচনা করেন, আর বর্ণনাগুলো যে জবাব দেয় তা আরও সীমিত। জিনদের নিজেদের আকৃতিতে দেখা যায় না, তবে তারা অন্য আকৃতিতে সামনে আসে, একটি সহীহ বর্ণনা তা খোলাখুলি দেখিয়ে দেয়। তাই আয়াত যা প্রতিষ্ঠা করে তা হলো দেখার সুবিধার অসমতা, এই দাবি নয় যে তাদের সঙ্গে কখনো দেখা হতেই পারে না। তফাতটা জরুরি, কারণ চূড়ান্ত দাবি এমন এক আতঙ্ক জন্ম দেয় যা ভাঙতেই কুরআন বাকি সময়টা ব্যয় করে।"
+            "bn": "এই না-দেখাটা কি একেবারে চূড়ান্ত? কুরতুবী বিষয়টা আলোচনা করেন, আর বর্ণনাগুলো যে জবাব দেয় তা আরও সীমিত। জিনদের নিজেদের আকৃতিতে দেখা যায় না, তবে তারা অন্য আকৃতিতে সামনে আসে; একটি সহীহ বর্ণনা তা খোলাখুলি দেখিয়ে দেয়। তাই আয়াত যা বলে তা হলো, দেখার সুবিধাটা একতরফা। এমন দাবি নয় যে তাদের সঙ্গে কখনো দেখাই হতে পারে না। তফাতটা জরুরি, কারণ চূড়ান্ত দাবি এমন এক আতঙ্ক তৈরি করে, যা দূর করতেই বাকি কুরআন বারবার কাজ করে।"
           }
         ]
       },
@@ -509,7 +509,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari relates from Abu Hurayrah (RA) that he was set to guard the collected zakah of Ramadan and caught someone taking from it on three nights. The third time the thief bought his release by teaching him a verse: recite Ayat al-Kursi when you go to your bed and a guardian from Allah will stay with you, and no devil will come near you until morning.",
-            "bn": "বুখারী আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রমাযানের জমা করা যাকাতের পাহারায় তাঁকে রাখা হয়েছিল, আর তিন রাত ধরে তিনি একজনকে তা থেকে নিতে গিয়ে ধরে ফেলেন। তৃতীয় রাতে চোরটি একটি আয়াত শিখিয়ে দিয়ে ছাড়া পায়, বিছানায় যাওয়ার সময় আয়াতুল কুরসী পড়বে, তাহলে আল্লাহর পক্ষ থেকে একজন রক্ষক তোমার সঙ্গে থাকবে, আর সকাল পর্যন্ত কোনো শয়তান তোমার কাছে আসবে না।"
+            "bn": "বুখারী আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রমজানের জমা করা যাকাত পাহারা দেওয়ার দায়িত্ব তাঁকে দেওয়া হয়েছিল, আর তিন রাতই তিনি একজনকে সেখান থেকে চুরি করার সময় ধরে ফেলেন। তৃতীয় রাতে চোরটি একটি আয়াত শিখিয়ে দিয়ে ছাড়া পায়: বিছানায় যাওয়ার সময় আয়াতুল কুরসী পড়বে, তাহলে আল্লাহর পক্ষ থেকে একজন রক্ষক তোমার সঙ্গে থাকবে, আর সকাল পর্যন্ত কোনো শয়তান তোমার কাছে আসবে না।"
           },
           {
             "en": "The Prophet told him that the thief had spoken the truth to him though he was a liar, and that he had been speaking to a devil. Two things come out of the report at once. The tribe of 7:27 can put on a shape and be caught by an ordinary man, and the protection offered against them is a recitation any Muslim already has. Neither fact leaves room for helplessness.",
