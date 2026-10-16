@@ -1649,7 +1649,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir labels each of the two clauses in a single line. And for whoever brings it a camel-load: this belongs to the chapter of ju'ala. And I stand surety for it: this belongs to the chapter of daman and kafala, guarantee and suretyship. Al-Qurtubi reports that some scholars find two proofs in the verse. The first is that ju'l is allowed, permitted out of need, so that it tolerates an unknown element that would not be tolerated elsewhere: if a man says whoever does such a thing shall have such a reward, it is valid.",
-            "bn": "ইবন কাসীর দুটি অংশকে এক লাইনে এক লাইনে চিহ্নিত করেন। যে এনে দেবে তার জন্য এক উট-বোঝাই: এটি জুআলার অধ্যায়ের বিষয়। আর আমি এর জামিন: এটি দামান ও কাফালার, অর্থাৎ দায় নেওয়া ও জামিন হওয়ার অধ্যায়ের বিষয়। কুরতুবী জানান, কিছু আলেম এ আয়াতে দুটি দলিল খুঁজে পান। প্রথমটি হলো জু'ল বা কাজের বিনিময়ে পুরস্কার ঘোষণা বৈধ। প্রয়োজনের খাতিরে এর অনুমতি দেওয়া হয়েছে, তাই এতে এমন কিছু অনিশ্চয়তা চলে, যা অন্য চুক্তিতে চলে না। কেউ যদি বলে, যে এ কাজটা করবে সে এত পাবে, তবে তা শুদ্ধ।"
+            "bn": "ইবন কাসীর এক লাইনেই দুটি অংশের পরিচয় দিয়ে দেন। যে এনে দেবে তার জন্য এক উট-বোঝাই: এটি জুআলার অধ্যায়ের বিষয়। আর আমি এর জামিন: এটি দামান ও কাফালার, অর্থাৎ দায় নেওয়া ও জামিন হওয়ার অধ্যায়ের বিষয়। কুরতুবী জানান, কিছু আলেম এ আয়াতে দুটি দলিল খুঁজে পান। প্রথমটি হলো জু'ল বা কাজের বিনিময়ে পুরস্কার ঘোষণা বৈধ। প্রয়োজনের খাতিরে এর অনুমতি দেওয়া হয়েছে, তাই এতে এমন কিছু অনিশ্চয়তা চলে, যা অন্য চুক্তিতে চলে না। কেউ যদি বলে, যে এ কাজটা করবে সে এত পাবে, তবে তা শুদ্ধ।"
           },
           {
             "en": "Al-Qurtubi sets out how ju'ala differs from hire. In ju'ala a single side is known and the other unknown, out of necessity, while in ijara both the wage and the work are fixed. Either party may withdraw, except that the offerer may not once the worker has begun. The parties need not meet, as this verse shows, and he says al-Shafi'i held all of this. His own school goes further: a man who returns a runaway slave without any offer is owed a customary wage. Al-Qurtubi notes that al-Shafi'i differed with them here.",
@@ -1869,11 +1869,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "By this point in Surah Yusuf, Yaqub (AS) has lost twice. Yusuf (AS) was taken from him years earlier by his brothers' scheme, and now Binyamin has been detained in Egypt, with a third son remaining behind out of shame. When the old man turns away and mourns Yusuf afresh, his sons rebuke him in 12:85 — by Allah, you will not cease remembering Yusuf until you waste away or perish. His answer, in 12:86, is the sentence this article is about.",
-            "bn": "সূরা ইউসুফের এই পর্যায়ে ইয়াকুব (আঃ) দুবার হারিয়েছেন। ইউসুফ (আঃ)-কে বহু বছর আগে তাঁর ভাইদের চক্রান্তে তাঁর কাছ থেকে নিয়ে যাওয়া হয়েছে, আর এখন বিনয়ামীন মিসরে আটক, লজ্জায় আরেক ছেলে সেখানেই রয়ে গেছে। বৃদ্ধ পিতা যখন মুখ ফিরিয়ে ইউসুফের জন্য নতুন করে শোক করেন, তাঁর ছেলেরা 12:85 আয়াতে তাঁকে ভর্ৎসনা করে: আল্লাহর কসম, আপনি ইউসুফকে স্মরণ করা থামাবেন না, যতক্ষণ না ক্ষয়ে যান কিংবা মরে যান। তাঁর উত্তর, 12:86 আয়াতে — সেই বাক্যটিই এই লেখার বিষয়।"
+            "bn": "সূরা ইউসুফের এই জায়গায় পৌঁছে ইয়াকুব (আঃ) দুবার হারিয়েছেন। বহু বছর আগে ভাইদের চক্রান্তে ইউসুফ (আঃ)-কে তাঁর কাছ থেকে কেড়ে নেওয়া হয়েছিল। এখন বিনয়ামীন মিসরে আটক, আর লজ্জায় আরেক ছেলেও সেখানে থেকে গেছে। বৃদ্ধ পিতা যখন মুখ ফিরিয়ে নিয়ে ইউসুফের জন্য নতুন করে শোক করেন, ১২:৮৫ আয়াতে ছেলেরা তাঁকে তিরস্কার করে: আল্লাহর কসম, আপনি তো ইউসুফকে মনে করতেই থাকবেন, যতক্ষণ না একেবারে ক্ষয়ে যান বা মারা যান। তাঁর জবাব আসে ১২:৮৬ আয়াতে। সেই বাক্যটিই এ লেখার বিষয়।"
           },
           {
             "en": "I complain of my anguish and my grief only to Allah, and I know from Allah what you do not know. The reply does not deny the grief, does not perform composure for the audience, and does not apologize for decades of sorrow. It states where the sorrow is being delivered. His sons see a man talking to himself about a lost boy; he corrects the address: this conversation has never been with you.",
-            "bn": "আমি আমার দুঃসহ বেদনা ও আমার শোকের অভিযোগ কেবল আল্লাহর কাছেই করি, আর আমি আল্লাহর পক্ষ থেকে এমন কিছু জানি যা তোমরা জানো না। উত্তরটি শোককে অস্বীকার করে না, দর্শকদের সামনে ধৈর্যের অভিনয়ও করে না, দশকের পর দশকের দুঃখের জন্য ক্ষমাও চায় না। এটি জানিয়ে দেয় দুঃখটি কোথায় পৌঁছে দেওয়া হচ্ছে। ছেলেরা দেখছে এক বৃদ্ধ হারানো ছেলের কথা আপনমনে বলছেন; তিনি ঠিকানাটি শুধরে দেন: এই কথোপকথন কখনোই তোমাদের সঙ্গে ছিল না।"
+            "bn": "আমি আমার দুঃসহ বেদনা আর শোকের অভিযোগ কেবল আল্লাহর কাছেই করি, আর আল্লাহর কাছ থেকে আমি এমন কিছু জানি, যা তোমরা জানো না। এ জবাবে শোককে অস্বীকার করা নেই। লোক দেখানো ধৈর্যের ভানও নেই, দশকের পর দশক ধরে দুঃখ করার জন্য কোনো কৈফিয়তও নেই। আছে শুধু এটুকু: দুঃখটা তিনি কার কাছে পৌঁছে দিচ্ছেন। ছেলেরা দেখছে, এক বৃদ্ধ হারানো ছেলেকে নিয়ে আপনমনে কথা বলছেন। তিনি শুধরে দেন, তাঁর কথা কার উদ্দেশে: এ আলাপ কখনো তোমাদের সঙ্গে ছিলই না।"
           }
         ]
       },
@@ -1885,11 +1885,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse uses two words for sorrow. Huzn is grief in general. Bathth, the word placed first, is explained by the commentators, Qurtubi and Ibn Kathir among them, as anguish so severe that its carrier cannot keep it contained — it spreads and shows. That is a precise self-diagnosis. Yaqub (AS) is saying: the sorrow you can see on me is the kind that cannot be hidden, and even that overflow I am directing to Allah, not to men.",
-            "bn": "আয়াতটি দুঃখের জন্য দুটি শব্দ ব্যবহার করে। 'হুযন' সাধারণ অর্থে শোক। আর প্রথমে বসানো শব্দ 'বাসস'-এর ব্যাখ্যায় মুফাসসিরগণ — কুরতুবী ও ইবনে কাসীর তাঁদের অন্যতম — বলেন: এমন তীব্র বেদনা যা তার বাহক চেপে রাখতে পারে না — তা ছড়িয়ে পড়ে, দেখা দিয়ে ফেলে। এ এক নিখুঁত আত্মনির্ণয়। ইয়াকুব (আঃ) বলছেন: আমার ওপর যে দুঃখ তোমরা দেখছ তা সেই জাতের, যা লুকানো যায় না; আর সেই উপচে পড়াটুকুও আমি পাঠাচ্ছি আল্লাহর দিকে, মানুষের দিকে নয়।"
+            "bn": "দুঃখ বোঝাতে আয়াতে দুটি শব্দ এসেছে। 'হুযন' সাধারণ শোক। আর আগে বসানো শব্দটি 'বাসস'। কুরতুবী, ইবনে কাসীরসহ মুফাসসিররা এর ব্যাখ্যা করেন এমন তীব্র বেদনা হিসেবে, যা মানুষ ভেতরে চেপে রাখতে পারে না। তা ছড়িয়ে পড়ে, বাইরে ফুটে ওঠে। এ হলো নিজের অবস্থার একেবারে নিখুঁত বিবরণ। ইয়াকুব (আঃ) যেন বলছেন: আমার মধ্যে যে দুঃখ তোমরা দেখছ, তা লুকানোর মতো নয়। আর উপচে পড়া সেই দুঃখটুকুও আমি মানুষের কাছে নয়, আল্লাহর কাছেই পাঠাচ্ছি।"
           },
           {
             "en": "This resolves a question believers quietly carry: whether weeping and hurting break patience. Earlier in the surah, at 12:18, Yaqub (AS) had named his course sabrun jamil, a beautiful patience. The commentators explain beautiful patience as patience without complaint to creation. Complaint to the Creator is another matter entirely — it is worship. The eyes may weep and the heart may ache; patience is breached by the address on the complaint, not by the tears.",
-            "bn": "এটি সেই প্রশ্নের মীমাংসা করে, যা মুমিনরা চুপচাপ বয়ে বেড়ায়: কান্না ও কষ্ট পাওয়া কি ধৈর্য ভেঙে দেয়? সূরার আগের দিকে, 12:18 আয়াতে, ইয়াকুব (আঃ) নিজের পথের নাম দিয়েছিলেন 'সাবরুন জামীল' — সুন্দর ধৈর্য। মুফাসসিরগণ সুন্দর ধৈর্যের ব্যাখ্যা করেন: সৃষ্টির কাছে অভিযোগহীন ধৈর্য। আর স্রষ্টার কাছে অভিযোগ সম্পূর্ণ ভিন্ন জিনিস — তা ইবাদত। চোখ কাঁদতে পারে, হৃদয় ব্যথায় টনটন করতে পারে; ধৈর্য ভাঙে অভিযোগের ঠিকানায়, অশ্রুতে নয়।"
+            "bn": "মুমিনদের মনে একটা প্রশ্ন চুপচাপ থেকে যায়: কাঁদলে আর কষ্ট পেলে কি সবর ভেঙে যায়? এ আয়াত সেই প্রশ্নের জবাব দেয়। সূরার আগের দিকে, ১২:১৮ আয়াতে, ইয়াকুব (আঃ) নিজের পথের নাম দিয়েছিলেন 'সাবরুন জামীল', সুন্দর সবর। মুফাসসিররা এর ব্যাখ্যা করেন: সৃষ্টির কাছে কোনো অভিযোগ না করে সবর করা। স্রষ্টার কাছে অভিযোগ একেবারে আলাদা ব্যাপার, সেটা ইবাদত। চোখ কাঁদতে পারে, বুক ব্যথায় ভারী হতে পারে। সবর ভাঙে অভিযোগটা কার কাছে গেল তা দিয়ে, চোখের পানি দিয়ে নয়।"
           }
         ]
       },
@@ -1901,7 +1901,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "I know from Allah what you do not know. Ibn Kathir relates that Yaqub (AS) held to the hope that the dream Yusuf (AS) had reported at the beginning of the story, in 12:4 — eleven stars and the sun and the moon prostrating to him — was true and had yet to be fulfilled. His hope was not temperament. It was inference from something Allah had shown, held onto across decades in which every visible fact argued against it.",
-            "bn": "আমি আল্লাহর পক্ষ থেকে এমন কিছু জানি যা তোমরা জানো না। ইবনে কাসীর বর্ণনা করেন, ইয়াকুব (আঃ) এই আশা আঁকড়ে ছিলেন যে গল্পের শুরুতে, 12:4 আয়াতে, ইউসুফ (আঃ) যে স্বপ্নের কথা জানিয়েছিলেন — এগারোটি নক্ষত্র এবং সূর্য ও চাঁদ তাঁকে সিজদা করছে — তা সত্য এবং তা পূর্ণ হওয়া তখনো বাকি। তাঁর আশা কোনো মেজাজের ব্যাপার ছিল না। তা ছিল আল্লাহর দেখানো কোনো কিছু থেকে টানা সিদ্ধান্ত — দশকের পর দশক ধরে ধরে রাখা, যখন চোখে দেখা প্রতিটি তথ্য তার বিপক্ষে সাক্ষ্য দিচ্ছিল।"
+            "bn": "আমি আল্লাহর কাছ থেকে এমন কিছু জানি, যা তোমরা জানো না। ইবনে কাসীর বর্ণনা করেন, কাহিনির শুরুতে, ১২:৪ আয়াতে, ইউসুফ (আঃ) একটি স্বপ্নের কথা বলেছিলেন: এগারোটি তারা আর সূর্য ও চাঁদ তাঁকে সিজদা করছে। ইয়াকুব (আঃ) এই আশা আঁকড়ে ছিলেন যে স্বপ্নটি সত্য, আর তা পূরণ হওয়া তখনো বাকি। আশাবাদী মেজাজ থেকে তাঁর এ আশা আসেনি। আল্লাহ যা দেখিয়েছিলেন, তা থেকেই তিনি এ সিদ্ধান্তে পৌঁছেছিলেন। আর দশকের পর দশক সে আশা ধরে রেখেছিলেন, যদিও চোখের সামনের সব কিছুই বলছিল উল্টো কথা।"
           }
         ]
       },
@@ -1913,27 +1913,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then 12:87 turns the grief into instructions: O my sons, go and inquire about Yusuf and his brother, and do not despair of the rawh of Allah; none despairs of the rawh of Allah except the disbelieving people. Rawh carries the sense of relief, a breath of ease after constriction. The man his sons feared would waste away is the one issuing search orders. Hope anchored in Allah does not sit by the window; it dispatches people to Egypt.",
-            "bn": "এরপর 12:87 শোককে নির্দেশে বদলে দেয়: হে আমার ছেলেরা, যাও, ইউসুফ ও তার ভাইয়ের খোঁজ নাও, আর আল্লাহর 'রাওহ' থেকে নিরাশ হয়ো না; কাফির সম্প্রদায় ছাড়া কেউ আল্লাহর রাওহ থেকে নিরাশ হয় না। 'রাওহ' শব্দে আছে স্বস্তির অর্থ — সংকীর্ণতার পরে এক দমকা মুক্ত বাতাস। যে মানুষটির ক্ষয়ে যাওয়ার আশঙ্কা করছিল তাঁর ছেলেরা, তিনিই এখন তল্লাশির নির্দেশ দিচ্ছেন। আল্লাহতে নোঙর করা আশা জানালার পাশে বসে থাকে না; সে মানুষ পাঠায় মিসরে।"
+            "bn": "এরপর ১২:৮৭ আয়াতে শোক রূপ নেয় নির্দেশে: হে আমার ছেলেরা, যাও, ইউসুফ ও তার ভাইয়ের খোঁজ নাও, আর আল্লাহর 'রাওহ' থেকে নিরাশ হয়ো না। কাফির সম্প্রদায় ছাড়া কেউ আল্লাহর রাওহ থেকে নিরাশ হয় না। 'রাওহ' শব্দে আছে স্বস্তির ভাব, দম আটকে আসা অবস্থার পর এক ঝলক খোলা হাওয়া। ছেলেরা যাঁর ক্ষয়ে যাওয়ার ভয় করছিল, তিনিই এখন খোঁজে লোক পাঠাচ্ছেন। আল্লাহর উপর ভর করা আশা জানালার ধারে বসে থাকে না, মানুষকে মিসরে পাঠায়।"
           },
           {
             "en": "The closing clause grades despair with startling severity: it is the mark of the disbelieving people. The same judgement appears in 15:56, where Ibrahim (AS) asks who despairs of the mercy of his Lord except those astray. The logic is doctrinal, not rhetorical. Despair is a claim about Allah — that His power has met its limit or His mercy its end — and both claims contradict what a believer knows of Him. Sadness is human; hopelessness is a creed error.",
-            "bn": "শেষ বাক্যাংশটি নৈরাশ্যকে চমকে দেওয়া কঠোরতায় শ্রেণিবদ্ধ করে: তা কাফির সম্প্রদায়ের চিহ্ন। একই রায় 15:56 আয়াতেও আছে, যেখানে ইবরাহীম (আঃ) প্রশ্ন করেন: পথভ্রষ্টরা ছাড়া কে তার রবের রহমত থেকে নিরাশ হয়? যুক্তিটি আকীদাগত, অলংকার নয়। নৈরাশ্য আসলে আল্লাহ সম্পর্কে একটি দাবি — তাঁর ক্ষমতা তার সীমায় পৌঁছে গেছে, নয়তো তাঁর রহমত ফুরিয়ে গেছে — আর দুটি দাবিই মুমিন তাঁর সম্পর্কে যা জানে তার বিরোধী। দুঃখ মানবীয়; আশাহীনতা আকীদার ভুল।"
+            "bn": "শেষ বাক্যটি নিরাশার বিচার করে চমকে দেওয়ার মতো কঠোরভাবে: নিরাশা কাফির সম্প্রদায়ের আলামত। একই রায় আছে ১৫:৫৬ আয়াতে, যেখানে ইবরাহীম (আঃ) প্রশ্ন করেন: পথভ্রষ্টরা ছাড়া কে তার রবের রহমত থেকে নিরাশ হয়? এ শুধু কথার জোর বাড়ানো নয়, এর পেছনে আছে আকীদা। নিরাশ হওয়া মানে আল্লাহ সম্পর্কে একটা দাবি করা: তাঁর ক্ষমতা সীমায় এসে ঠেকেছে, কিংবা তাঁর রহমত ফুরিয়ে গেছে। মুমিন আল্লাহকে যেভাবে চেনে, দুটো দাবিই তার উল্টো। দুঃখ পাওয়া মানুষের স্বভাব। কিন্তু আশা ছেড়ে দেওয়া আকীদার ভুল।"
           }
         ]
       },
       {
         "h": {
           "en": "Carrying Sorrow Correctly",
-          "bn": "শোক সঠিকভাবে বহন করা"
+          "bn": "শোক বহনের সঠিক উপায়"
         },
         "p": [
           {
             "en": "The note behind this article draws the lesson in one line: grief and hope can live in the same heart when both are anchored in God. The anchoring is practical. When sorrow rises, the first draft of it can be given to Allah in private complaint before any of it is posted, vented or performed — Yaqub's (AS) order of address, restored. What people then see is the residue, the bathth that cannot be hidden, and that residue carries no bitterness toward anyone.",
-            "bn": "এই লেখার পেছনের নোটটি শিক্ষাটি এক লাইনে টেনে দেয়: শোক ও আশা একই হৃদয়ে বাস করতে পারে, যখন দুটিই আল্লাহতে নোঙর করা থাকে। এই নোঙর করা একেবারে ব্যবহারিক। দুঃখ যখন জেগে ওঠে, তার প্রথম খসড়াটি নির্জন অভিযোগে আল্লাহকে দেওয়া যায় — কোথাও প্রকাশ, উগরে দেওয়া বা প্রদর্শনের আগে; ইয়াকুব (আঃ)-এর ঠিকানার ক্রমটিই পুনঃস্থাপিত। মানুষ এরপর যা দেখে তা কেবল অবশেষ — সেই 'বাসস' যা লুকানো যায় না — আর সেই অবশেষে কারও প্রতি কোনো তিক্ততা থাকে না।"
+            "bn": "এ লেখার পেছনের নোটটি শিক্ষাটা এক লাইনে বলে দেয়: শোক আর আশা একই হৃদয়ে থাকতে পারে, যদি দুটোই আল্লাহর সঙ্গে বাঁধা থাকে। এই বাঁধন একেবারে হাতে-কলমের ব্যাপার। দুঃখ যখন উথলে ওঠে, কোথাও পোস্ট করা, কারও কাছে উগরে দেওয়া বা লোক দেখানোর আগেই তার প্রথম কথাগুলো একান্তে আল্লাহর কাছে অভিযোগ করে বলা যায়। এভাবেই ফিরে আসে ইয়াকুব (আঃ)-এর ক্রম, কার কাছে আগে বলতে হয়। মানুষ এরপর যা দেখে, তা শুধু বাকি থাকা অংশটুকু, সেই 'বাসস' যা লুকানো যায় না। আর তাতে কারও প্রতি কোনো তিক্ততা থাকে না।"
           },
           {
             "en": "The other half is Yaqub's (AS) verb: go and inquire. Whatever loss is being mourned — a person, a health, a livelihood — hope in Allah takes the form of the next concrete step, taken while the outcome is still invisible. The surah rewards his method on both counts: the searchers he dispatched while grieving are the very caravan that returns with Yusuf's (AS) shirt, and the eyes that had whitened with sorrow see again.",
-            "bn": "অন্য অর্ধেকটি ইয়াকুব (আঃ)-এর ক্রিয়াপদ: যাও, খোঁজ নাও। যে ক্ষতির জন্যই শোক হোক — একজন মানুষ, স্বাস্থ্য, জীবিকা — আল্লাহতে আশা রূপ নেয় পরবর্তী বাস্তব পদক্ষেপে, যা নেওয়া হয় ফলাফল তখনো অদৃশ্য থাকা অবস্থায়। সূরাটি তাঁর পদ্ধতিকে দুই দিক থেকেই পুরস্কৃত করে: শোকের মধ্যেই তিনি যে সন্ধানীদের পাঠিয়েছিলেন, সেই কাফেলাই ফিরে আসে ইউসুফ (আঃ)-এর জামা নিয়ে, আর শোকে সাদা হয়ে যাওয়া চোখ দুটি আবার দেখতে পায়।"
+            "bn": "বাকি অর্ধেকটা হলো ইয়াকুব (আঃ)-এর নির্দেশ: যাও, খোঁজ নাও। শোক যে হারানোর জন্যই হোক, কোনো মানুষ, শরীরের সুস্থতা বা রুজি-রোজগার, আল্লাহর উপর আশা তখন রূপ নেয় পরের বাস্তব পদক্ষেপে। ফল তখনো চোখে দেখা যায় না, তবু পা বাড়াতে হয়। সূরাটি তাঁর এই পথকে দুই দিক থেকেই পুরস্কৃত করে। শোকের মধ্যেই তিনি যাদের খোঁজে পাঠিয়েছিলেন, সেই কাফেলাই ফিরে আসে ইউসুফ (আঃ)-এর জামা নিয়ে। আর দুঃখে সাদা হয়ে যাওয়া চোখ দুটি আবার দেখতে পায়।"
           }
         ]
       }
@@ -1953,11 +1953,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir, in his Arabic tafsir, hears amazement in the question. The interrogative, he says, shows how great the thing seemed to them: they had been coming to him for two years and more without knowing him, while he knew them all along and kept himself hidden. The abridged English Ibn Kathir, which treats 12:89 to 12:92 as one group, says the same of this verse and adds, with the words it appears, and Allah knows best, that he revealed himself only then by Allah's command, as he had hidden himself earlier by Allah's command.",
-            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে এ প্রশ্নের ভেতর বিস্ময় শুনতে পান। তাঁর মতে প্রশ্নের ধরনটাই বলে দেয়, ব্যাপারটা তাদের কাছে কত বড় ঠেকেছিল। দুই বছরের বেশি সময় ধরে তারা তাঁর কাছে আসা-যাওয়া করেছে, অথচ চিনতে পারেনি। আর তিনি শুরু থেকেই তাদের চিনতেন, কিন্তু নিজের পরিচয় গোপন রেখেছিলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১২:৮৯ থেকে ১২:৯২ পর্যন্ত আয়াতগুলো একসঙ্গে আলোচনা করে। সেখানেও এ আয়াত সম্পর্কে একই কথা আছে। সঙ্গে 'আল্লাহই ভালো জানেন' বলে যোগ করা হয়েছে: তিনি এখন পরিচয় দিলেন আল্লাহর হুকুমে, যেমন আগে আল্লাহর হুকুমেই তা গোপন রেখেছিলেন।"
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে এ প্রশ্নের ভেতর বিস্ময় শুনতে পান। তাঁর মতে প্রশ্নের ধরনটাই বলে দেয়, ব্যাপারটা তাদের কাছে কত বড় ঠেকেছিল। দুই বছরের বেশি সময় ধরে তারা তাঁর কাছে আসা-যাওয়া করেছে, অথচ চিনতে পারেনি। আর তিনি শুরু থেকেই তাদের চিনতেন, কিন্তু নিজের পরিচয় গোপন রেখেছিলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১২:৮৯ থেকে ১২:৯২ পর্যন্ত আয়াতগুলো একসঙ্গে আলোচনা করে। সেখানেও এ আয়াত সম্পর্কে একই কথা আছে, সঙ্গে এটুকু যোগ: বাহ্যত মনে হয়, আর আল্লাহই ভালো জানেন, তিনি এতদিন পরে এখনই পরিচয় দিলেন আল্লাহর হুকুমে, যেমন আগে আল্লাহর হুকুমেই তা গোপন রেখেছিলেন।"
           },
           {
             "en": "The same passage sets the moment in a larger pattern: when the affliction grew hardest, Allah sent relief, as He said in 94:5 and 94:6, with hardship comes ease. In 12:87 Ya'qub (AS) had sent his sons out with the words do not despair of Allah's relief. They came pleading about hunger, and found a brother they had long counted as lost.",
-            "bn": "একই আলোচনা মুহূর্তটিকে একটা বড় নিয়মের ভেতরে বসায়: বিপদ যখন সবচেয়ে কঠিন হলো, আল্লাহ তখন মুক্তি পাঠালেন, যেমন তিনি ৯৪:৫ ও ৯৪:৬ আয়াতে বলেছেন, নিশ্চয়ই কষ্টের সঙ্গে আছে স্বস্তি। ১২:৮৭ আয়াতে ইয়াকুব (আঃ) ছেলেদের পাঠিয়েছিলেন এই বলে: আল্লাহর রহমত থেকে নিরাশ হয়ো না। তারা এসেছিল ক্ষুধার কথা জানাতে, আর পেল এমন এক ভাইকে, যাকে তারা বহুদিন হারানো বলেই ধরে নিয়েছিল।"
+            "bn": "একই আলোচনা মুহূর্তটিকে একটা বড় নিয়মের ভেতরে বসায়: বিপদ যখন সবচেয়ে কঠিন হলো, আল্লাহ তখন স্বস্তি পাঠালেন, যেমন তিনি ৯৪:৫ ও ৯৪:৬ আয়াতে বলেছেন, নিশ্চয়ই কষ্টের সঙ্গে আছে স্বস্তি। ১২:৮৭ আয়াতে ইয়াকুব (আঃ) ছেলেদের পাঠিয়েছিলেন এই বলে: আল্লাহর দেওয়া স্বস্তি থেকে নিরাশ হয়ো না। তারা এসেছিল ক্ষুধার কথা জানাতে, আর পেল এমন এক ভাইকে, যাকে তারা বহুদিন হারানো বলেই ধরে নিয়েছিল।"
           }
         ]
       },
@@ -1977,7 +1977,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi also relates from Ibn 'Abbas a letter from Ya'qub (AS) to the ruler of Egypt, whose reading moved Yusuf (AS) to tears and to disclosure. These reports are ungraded here and do not agree among themselves, so this article asserts none of them. What is certain is the Qur'an's own sequence: his question, their question, his answer.",
-            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরও আনেন মিসরের শাসকের কাছে ইয়াকুব (আঃ)-এর লেখা এক চিঠির কথা। তাঁর বর্ণনায় চিঠিটা পড়ে ইউসুফ (আঃ) কেঁদে ফেলেন আর গোপন কথা প্রকাশ করে দেন। এখানে এসব বর্ণনার কোনো মান উল্লেখ নেই, আর সেগুলো পরস্পরের সঙ্গে মেলেও না। তাই এ লেখা কোনোটিকেই নিশ্চিত বলে দাবি করে না। নিশ্চিত কেবল কুরআনের নিজের ধারা: তাঁর প্রশ্ন, তাদের প্রশ্ন, তারপর তাঁর উত্তর।"
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরও আনেন মিসরের শাসকের কাছে ইয়াকুব (আঃ)-এর লেখা এক চিঠির কথা। তাঁর বর্ণনায় চিঠিটা পড়ে ইউসুফ (আঃ) কেঁদে ফেলেন আর নিজের পরিচয় প্রকাশ করে দেন। এখানে এসব বর্ণনার কোনো মান উল্লেখ নেই, আর সেগুলো পরস্পরের সঙ্গে মেলেও না। তাই এ লেখা কোনোটিকেই নিশ্চিত বলে দাবি করে না। নিশ্চিত কেবল কুরআনের নিজের ধারা: তাঁর প্রশ্ন, তাদের প্রশ্ন, তারপর তাঁর উত্তর।"
           }
         ]
       },
