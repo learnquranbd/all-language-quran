@@ -4929,15 +4929,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir explains keeping with what is right and releasing with good treatment this way: after one or two divorces the husband may take his wife back during her waiting period, intending to set things right and to treat her well, or he may leave her until the waiting period ends and let her go kindly, without wronging her of any of her rights and without harming her. On the verse's next clause he says a husband may not pressure his wife or make her life hard so that she gives back the dower and gifts to escape.",
-            "bn": "ন্যায্যভাবে রাখা আর সদ্ব্যবহারের সঙ্গে ছাড়ার ব্যাখ্যা ইবনে কাসীর দিয়েছেন এভাবে: এক বা দুই তালাকের পর স্বামী ইদ্দতের মধ্যে স্ত্রীকে ফিরিয়ে নিতে পারে, সম্পর্ক ঠিক করা আর তার সঙ্গে ভালো ব্যবহারের নিয়তে। কিংবা ইদ্দত শেষ হওয়া পর্যন্ত তাকে ছেড়ে রেখে ভালোভাবে বিদায় দিতে পারে, তার কোনো হক থেকে তাকে বঞ্চিত না করে, তার কোনো ক্ষতি না করে। আয়াতের পরের অংশ প্রসঙ্গে তিনি বলেন, স্ত্রী যাতে মুক্তি পেতে মোহর আর উপহার ফিরিয়ে দেয়, সে জন্য স্বামী তাকে চাপ দিতে বা তার জীবন কঠিন করে তুলতে পারে না।"
+            "bn": "ন্যায্যভাবে রেখে দেওয়া আর সদ্ব্যবহার করে ছেড়ে দেওয়া, এ দুটোর ব্যাখ্যায় ইবনে কাসীর বলেন: এক বা দুই তালাকের পর স্বামী ইদ্দতের মধ্যে স্ত্রীকে ফিরিয়ে নিতে পারে, যদি তার নিয়ত থাকে সম্পর্ক ঠিক করার আর স্ত্রীর সঙ্গে ভালো ব্যবহার করার। কিংবা ইদ্দত শেষ হওয়া পর্যন্ত তাকে ছেড়ে রেখে ভালোভাবে বিদায় দিতে পারে, তার কোনো হক না মেরে, তার কোনো ক্ষতি না করে। আয়াতের পরের অংশ নিয়ে তিনি বলেন, স্বামী স্ত্রীকে চাপ দিয়ে বা তার জীবন কঠিন করে তুলে এমন অবস্থায় ফেলতে পারে না, যাতে মুক্তি পেতে সে মোহর আর উপহার ফিরিয়ে দেয়।"
           },
           {
             "en": "He then ties the exception to a situation in which the wife has come to dislike living with her husband and fears she cannot fulfil his rights. In that case she may give back what she received in order to be released, and he may accept it. This release in return for a payment is known as khul'. Ibn Kathir's explanation stays close to the verse's own words, and he brings the report about the wife of Thabit ibn Qays (RA), given in the next section, as its example.",
-            "bn": "এরপর তিনি ব্যতিক্রমটিকে বাঁধেন এমন অবস্থার সঙ্গে, যেখানে স্ত্রী স্বামীর সঙ্গে সংসার করাটা অপছন্দ করতে শুরু করেছে, আর আশঙ্কা করছে যে স্বামীর হক আদায় করতে পারবে না। তখন মুক্তি পেতে সে যা পেয়েছিল তা ফেরত দিতে পারে, আর স্বামী তা গ্রহণ করতে পারে। বিনিময় দিয়ে এভাবে মুক্তি পাওয়াকে বলে খুলা। ইবনে কাসীরের ব্যাখ্যা আয়াতের নিজের শব্দের কাছাকাছি থাকে, আর উদাহরণ হিসেবে তিনি সাবিত ইবনে কায়স (রাঃ)-এর স্ত্রীর ঘটনা আনেন, যা পরের অংশে আসছে।"
+            "bn": "এরপর তিনি বলেন, ব্যতিক্রমটি সেই অবস্থার জন্য, যখন স্বামীর সঙ্গে সংসার করা স্ত্রীর কাছে অপছন্দের হয়ে গেছে, আর সে আশঙ্কা করছে যে স্বামীর হক আদায় করতে পারবে না। তখন মুক্তি পেতে সে যা পেয়েছিল তা ফেরত দিতে পারে, আর স্বামী তা নিতে পারে। বিনিময় দিয়ে এভাবে মুক্তি পাওয়াকে বলে খুলা। ইবনে কাসীরের ব্যাখ্যা আয়াতের শব্দ থেকে বেশি দূরে যায় না। উদাহরণ হিসেবে তিনি আনেন সাবিত ইবনে কায়স (রাঃ)-এর স্ত্রীর ঘটনা, যা পরের অংশে আসছে।"
           },
           {
             "en": "Al-Qurtubi, whose commentary treats the legal side of the verse at length, records differences among the scholars over details this page does not settle: whether a husband may accept more than he originally gave, and whether khul' counts as one of the divorces or is a separation of another kind. Among the views recorded on the second question is one reported from Ibn Abbas (RA), that it is not counted as a divorce. Those questions belong with a qualified scholar. The verse's own stress falls on something every reader can act on: the limits.",
-            "bn": "কুরতুবী, যাঁর তাফসীরে আয়াতের আইনি দিক দীর্ঘ আলোচনা পেয়েছে, এমন কিছু খুঁটিনাটিতে আলেমদের মতভেদ উল্লেখ করেছেন, যার মীমাংসা এই লেখা করছে না। যেমন, স্বামী শুরুতে যা দিয়েছিল তার চেয়ে বেশি নিতে পারে কি না, আর খুলা তালাকগুলোর একটি হিসেবে গণ্য হয় নাকি অন্য ধরনের বিচ্ছেদ। দ্বিতীয় প্রশ্নে উল্লেখ করা মতগুলোর মধ্যে ইবনে আব্বাস (রাঃ) থেকে বর্ণিত একটি মত আছে যে খুলা তালাক হিসেবে গণ্য হয় না। এসব প্রশ্নের জবাব যোগ্য আলেমের কাছ থেকে নিতে হবে। আয়াতের নিজের জোর পড়েছে এমন জিনিসে, যা প্রত্যেক পাঠক মানতে পারেন: আল্লাহর সীমা।"
+            "bn": "কুরতুবীর তাফসীরে আয়াতের ফিকহি দিক নিয়ে লম্বা আলোচনা আছে। তিনি কিছু খুঁটিনাটিতে আলেমদের মতভেদ উল্লেখ করেছেন, যার মীমাংসা এই লেখা করবে না। যেমন, স্বামী শুরুতে যা দিয়েছিল তার চেয়ে বেশি নিতে পারে কি না, আর খুলা তালাকগুলোর একটি বলে গণ্য হবে, নাকি এটি অন্য ধরনের বিচ্ছেদ। দ্বিতীয় প্রশ্নে যেসব মত এসেছে, তার একটি ইবনে আব্বাস (রাঃ) থেকে বর্ণিত: খুলা তালাক হিসেবে গণ্য হয় না। এসব প্রশ্নের জবাব যোগ্য আলেমের কাছ থেকে নিতে হবে। আয়াত নিজে জোর দিয়েছে এমন এক জিনিসে, যা প্রত্যেক পাঠক মেনে চলতে পারেন: আল্লাহর সীমা।"
           }
         ]
       },
@@ -4953,7 +4953,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The report shows the verse's balance at work. The woman is not asked to invent a fault in her husband, and she does not; she speaks honestly about her own heart. Her husband does not lose what he gave to a marriage that she, not he, is asking to end, because the garden returns to him. In the narration the Prophet ﷺ lectures neither of them. He applies what the verse allows, in a single divorce, and both leave with their dignity. Al-Bukhari's narration does not name her, and this page follows it.",
-            "bn": "হাদীসটিতে আয়াতের ভারসাম্য কাজ করতে দেখা যায়। স্ত্রীকে স্বামীর কোনো দোষ বানিয়ে বলতে বলা হয়নি, আর তিনি তা বলেনওনি। তিনি সৎভাবে নিজের মনের কথাই বলেছেন। যে বিয়ে স্বামী নয়, স্ত্রী শেষ করতে চাইছেন, সেখানে স্বামী নিজের দেওয়া জিনিস হারান না, কারণ বাগান তাঁর কাছে ফিরে যায়। বর্ণনায় দেখা যায়, নবী ﷺ দুজনের কারও ওপরই উপদেশের বোঝা চাপাননি। আয়াত যা অনুমতি দেয়, এক তালাকের মাধ্যমে তিনি তা-ই কার্যকর করেছেন, আর দুজনেই মর্যাদা নিয়ে বিদায় নিয়েছেন। বুখারীর এই বর্ণনায় স্ত্রীর নাম নেই, এই লেখাও তাই নাম নিচ্ছে না।"
+            "bn": "এই হাদিসে আয়াতের ভারসাম্যটা হাতে-কলমে দেখা যায়। স্ত্রীকে স্বামীর কোনো দোষ বানিয়ে বলতে বলা হয়নি, তিনি তা বলেনওনি। তিনি সৎভাবে নিজের মনের কথাই বলেছেন। বিয়েটা শেষ করতে চাইছেন স্ত্রী, স্বামী নন। তাই স্বামী নিজের দেওয়া জিনিস হারান না, বাগান তাঁর কাছে ফিরে যায়। বর্ণনায় দেখা যায়, নবী ﷺ দুজনের কাউকেই উপদেশ শোনাতে বসেননি। আয়াত যা অনুমতি দেয়, এক তালাকের মাধ্যমে তিনি তা-ই কার্যকর করেছেন, আর দুজনেই মর্যাদা নিয়ে বিদায় নিয়েছেন। বুখারীর এই বর্ণনায় স্ত্রীর নাম নেই, তাই এই লেখাও তাঁর নাম নিচ্ছে না।"
           }
         ]
       },
@@ -4965,7 +4965,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "2:231 repeats the verse's two choices and names what lies outside them: do not keep women, intending harm, to transgress against them, and do not take the verses of Allah in jest. 4:35 goes a step earlier, before any divorce is pronounced: if you fear a breach between the two, send an arbitrator from his people and an arbitrator from her people, and if they both desire reconciliation, Allah will bring it about. The Quran's first counsel to a failing marriage is repair.",
-            "bn": "২:২৩১ আয়াত এই আয়াতের দুই পথের কথা আবার বলে, আর নাম নেয় তার বাইরে যা পড়ে: ক্ষতি করার উদ্দেশ্যে, বাড়াবাড়ি করতে নারীদের আটকে রেখো না, আর আল্লাহর আয়াতকে ঠাট্টার বিষয় বানিয়ো না। ৪:৩৫ আয়াত আরও এক ধাপ আগের কথা বলে, তালাকের আগেই: দুজনের মধ্যে ফাটলের আশঙ্কা হলে স্বামীর পরিবার থেকে একজন আর স্ত্রীর পরিবার থেকে একজন সালিস পাঠাও। তারা দুজন মীমাংসা চাইলে আল্লাহ মিল ঘটিয়ে দেবেন। ভাঙতে থাকা সংসারের জন্য কুরআনের প্রথম পরামর্শ হলো মেরামত।"
+            "bn": "২:২৩১ আয়াত এই দুই পথের কথা আবার বলে, আর এর বাইরে কী পড়ে তা-ও স্পষ্ট করে দেয়: কষ্ট দেওয়ার উদ্দেশ্যে, বাড়াবাড়ি করার জন্য নারীদের আটকে রেখো না, আর আল্লাহর আয়াতকে ঠাট্টার বিষয় বানিয়ো না। ৪:৩৫ আয়াত আরও এক ধাপ আগের কথা বলে, তালাক দেওয়ার আগেরও: দুজনের মধ্যে ফাটল ধরার আশঙ্কা হলে স্বামীর পরিবার থেকে একজন আর স্ত্রীর পরিবার থেকে একজন সালিস পাঠাও। তারা দুজন মীমাংসা চাইলে আল্লাহ মিল ঘটিয়ে দেবেন। ভাঙতে বসা সংসারের জন্য কুরআনের প্রথম পরামর্শ হলো জোড়া লাগানো।"
           },
           {
             "en": "4:20-21 guard what this verse protects: if you want to replace one wife with another and have given one of them a great amount, take nothing back of it, for how could you take it after you have gone in unto each other and they have taken from you a solemn covenant? 65:1-2, in the surah named for divorce, return to the limits of Allah and to the same pair of choices, retaining on acceptable terms or parting on acceptable terms. And 4:130 promises that if the two separate, Allah will enrich each of them from His abundance.",
@@ -4981,15 +4981,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Most readers of this verse are not in the middle of a divorce, but many will stand near one, as a spouse, a parent, a sibling or a friend asked for advice. The verse asks each of them to keep the conversation inside two words. Is what is being proposed ma'ruf, right and recognisable as right? And if the marriage is ending, is it ending with ihsan? Threats over the children, withholding what is owed and public humiliation fall outside both words, whichever side begins them.",
-            "bn": "এই আয়াতের বেশির ভাগ পাঠক নিজে তালাকের মাঝখানে নেই, কিন্তু অনেকেই কারও না কারও তালাকের কাছাকাছি দাঁড়াবেন: স্বামী বা স্ত্রী হিসেবে, বাবা-মা, ভাই-বোন, কিংবা পরামর্শ চাওয়া বন্ধু হিসেবে। আয়াত তাঁদের প্রত্যেককে বলে, আলাপটা দুটো শব্দের ভেতরে রাখুন। যা প্রস্তাব করা হচ্ছে তা কি মা'রুফ, ন্যায্য আর সবার চোখে ন্যায্য? আর সংসার যদি ভাঙতেই থাকে, তা কি ইহসানের সঙ্গে ভাঙছে? সন্তানদের নিয়ে হুমকি, প্রাপ্য আটকে রাখা, লোকের সামনে অপমান, এগুলো দুই শব্দেরই বাইরে, যে পক্ষই শুরু করুক।"
+            "bn": "এই আয়াতের বেশির ভাগ পাঠক নিজে তালাকের মাঝখানে নেই। তবে অনেকেই কারও না কারও তালাকের কাছাকাছি থাকবেন: স্বামী বা স্ত্রী হিসেবে, বাবা-মা বা ভাই-বোন হিসেবে, কিংবা এমন বন্ধু হিসেবে, যাঁর কাছে কেউ পরামর্শ চেয়েছে। আয়াত তাঁদের প্রত্যেককে বলে, আলাপটা দুটো শব্দের ভেতরে রাখুন। যা প্রস্তাব করা হচ্ছে, তা কি মা'রুফ, মানে ন্যায্য, আর সবার চোখেও ন্যায্য? আর সংসার যদি ভাঙতেই থাকে, তা কি ইহসানের সঙ্গে ভাঙছে? সন্তানদের নিয়ে হুমকি, প্রাপ্য আটকে রাখা, লোকের সামনে অপমান, এগুলো দুই শব্দেরই বাইরে, যে পক্ষই শুরু করুক।"
           },
           {
             "en": "For a couple under strain, these verses suggest an order. Bring in wise people from both families before any pronouncement, as 4:35 directs. If parting truly becomes the only road, learn its rulings from a qualified scholar rather than from anger or rumour, because the details are real and they carry consequences. And whatever is decided, protect the other person's dignity in speech afterwards. The verse calls whoever oversteps these limits a wrongdoer, and that word does not lapse once the parting is complete.",
-            "bn": "টানাপোড়েনে থাকা দম্পতির জন্য এই আয়াতগুলো একটা ক্রম দেখায়। তালাকের কোনো কথা মুখে আনার আগে দুই পরিবারের বুঝদার মানুষদের ডাকুন, যেমনটা ৪:৩৫ আয়াত বলেছে। বিচ্ছেদই যদি সত্যিই একমাত্র পথ হয়ে দাঁড়ায়, তাহলে তার বিধান রাগ বা লোকের মুখের কথা থেকে নয়, যোগ্য আলেমের কাছ থেকে জানুন, কারণ খুঁটিনাটিগুলো বাস্তব আর তার পরিণতিও বাস্তব। আর যা-ই সিদ্ধান্ত হোক, পরে কথাবার্তায় অন্যজনের মর্যাদা রক্ষা করুন। যে এই সীমা পেরিয়ে যায়, আয়াত তাকে জালিম বলে, আর বিচ্ছেদ চুকে গেলেও সেই নাম মুছে যায় না।"
+            "bn": "টানাপোড়েনে থাকা দম্পতির জন্য এই আয়াতগুলো একটা ক্রম দেখায়। তালাকের কোনো কথা মুখে আনার আগে দুই পরিবারের বুঝদার মানুষদের ডাকুন, যেমনটা ৪:৩৫ আয়াত বলেছে। বিচ্ছেদই যদি সত্যিই একমাত্র পথ হয়ে দাঁড়ায়, তাহলে এর বিধান রাগের মাথায় বা লোকের মুখে শুনে নয়, যোগ্য আলেমের কাছ থেকে জানুন। কারণ এর খুঁটিনাটি হেলাফেলার নয়, প্রতিটির পরিণতি আছে। আর যে সিদ্ধান্তই হোক, পরে কথাবার্তায় অন্যজনের মর্যাদা রক্ষা করুন। যে এই সীমা পেরিয়ে যায়, আয়াত তাকে জালিম বলে, আর বিচ্ছেদ চুকে গেলেও সেই নাম মুছে যায় না।"
           },
           {
             "en": "For the wider community, the verse means that a woman who, fearing the marriage cannot be kept within Allah's limits, seeks release by returning what she received is using a provision the Quran itself sets out, and a man who releases a wife with good treatment is obeying a command, not admitting defeat. Neither should become the subject of gossip. Families who treat every divorce as a disgrace to be hidden at any price, and families who use it as a weapon, both step outside the two words this verse sets.",
-            "bn": "বৃহত্তর সমাজের জন্য আয়াতের বার্তা হলো, যে নারী সংসারে আল্লাহর সীমা রক্ষা করা যাবে না এই আশঙ্কায় পাওয়া জিনিস ফেরত দিয়ে মুক্তি চান, তিনি এমন ব্যবস্থা ব্যবহার করছেন যা কুরআন নিজেই রেখেছে। আর যে পুরুষ সদ্ব্যবহারের সঙ্গে স্ত্রীকে বিদায় দেন, তিনি হার মানছেন না, হুকুম মানছেন। দুজনের কেউই গল্পগুজবের বিষয় হওয়া উচিত নয়। যে পরিবার প্রতিটি তালাককে যেকোনো মূল্যে লুকিয়ে রাখার মতো লজ্জা ভাবে, আর যে পরিবার একে অস্ত্র বানায়, দুপক্ষই আয়াতের বেঁধে দেওয়া দুই শব্দের বাইরে চলে যায়।"
+            "bn": "বৃহত্তর সমাজের জন্য আয়াতের শিক্ষা এই: কোনো নারী যদি আশঙ্কা করেন যে এই সংসারে আল্লাহর সীমা রক্ষা হবে না, আর তাই যা পেয়েছিলেন তা ফেরত দিয়ে মুক্তি চান, তিনি কুরআনেরই রাখা একটি ব্যবস্থা কাজে লাগাচ্ছেন। আর যে পুরুষ সদ্ব্যবহারের সঙ্গে স্ত্রীকে বিদায় দেন, তিনি হার মানছেন না, হুকুম মানছেন। এঁদের কাউকে নিয়েই কানাকানি করা ঠিক নয়। কোনো পরিবার প্রতিটি তালাককে এমন লজ্জা ভাবে, যা যেকোনো মূল্যে লুকাতে হবে। আবার কোনো পরিবার তালাককে অস্ত্র বানায়। দুপক্ষই আয়াতের বেঁধে দেওয়া দুই শব্দের বাইরে চলে যায়।"
           }
         ]
       },
@@ -5001,11 +5001,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is law rather than supplication, so the du'a here is drawn from elsewhere in the Quran. 25:74 records the prayer of the servants of the Most Merciful: our Lord, grant us from among our wives and offspring comfort to our eyes, and make us an example for the righteous. It is a prayer for a home that stays far from the hard room this verse enters, and it can be said by the married and the unmarried alike, as a request and as a reminder of what a home is for.",
-            "bn": "আয়াতটি আইন, দোয়া নয়। তাই এখানে দোয়া নেওয়া হলো কুরআনের অন্য জায়গা থেকে। ২৫:৭৪ আয়াতে আছে রহমানের বান্দাদের প্রার্থনা: হে আমাদের রব, আমাদের স্ত্রী ও সন্তানদের মধ্য থেকে আমাদের চোখ জুড়ানোর উপকরণ দিন, আর আমাদের মুত্তাকিদের জন্য আদর্শ বানিয়ে দিন। এমন ঘরের জন্য এই দোয়া, যা এই আয়াতের কঠিন ঘর থেকে দূরে থাকে। বিবাহিত ও অবিবাহিত সবাই এটা বলতে পারেন, একই সঙ্গে চাওয়া হিসেবে আর ঘর কীসের জন্য তার স্মরণ হিসেবে।"
+            "bn": "আয়াতটি বিধান, দোয়া নয়। তাই এখানকার দোয়াটি নেওয়া হলো কুরআনের অন্য জায়গা থেকে। ২৫:৭৪ আয়াতে আছে রহমানের বান্দাদের দোয়া: হে আমাদের রব, আমাদের স্ত্রী ও সন্তানদের আমাদের চোখ জুড়ানোর উপলক্ষ বানিয়ে দিন, আর আমাদের মুত্তাকিদের জন্য আদর্শ বানিয়ে দিন। এ দোয়া এমন এক ঘরের জন্য, যে ঘর এই আয়াতে বলা কঠিন অবস্থা থেকে দূরে থাকে। বিবাহিত-অবিবাহিত সবাই এটা পড়তে পারেন: আল্লাহর কাছে চাওয়া হিসেবে, আর ঘর কীসের জন্য, সেই কথা মনে করিয়ে দেওয়া হিসেবেও।"
           },
           {
             "en": "For a marriage that is struggling or has already ended, a short supplication in the verse's own vocabulary, offered as such and not as a transmitted text: O Allah, if we stay together, let us stay with what is right; if we part, let us part with good treatment; keep us both within Your limits, and let neither of us be among the wrongdoers. After a parting, the promise of 4:130 can also be asked for: O Allah, enrich each of us from Your abundance.",
-            "bn": "যে সংসার টানাপোড়েনে আছে, কিংবা ইতিমধ্যেই ভেঙে গেছে, তার জন্য আয়াতের নিজের শব্দে গড়া ছোট একটি দোয়া। এটা বানানো দোয়া, কোনো বর্ণিত পাঠ নয়: হে আল্লাহ, আমরা একসঙ্গে থাকলে যেন ন্যায্যভাবে থাকি, আলাদা হলে যেন সদ্ব্যবহারের সঙ্গে আলাদা হই। আমাদের দুজনকেই আপনার সীমার ভেতরে রাখুন, আর আমাদের কাউকে জালিমদের দলে ফেলবেন না। বিচ্ছেদের পর ৪:১৩০ আয়াতের প্রতিশ্রুতিটাও চাওয়া যায়: হে আল্লাহ, নিজের প্রাচুর্য থেকে আমাদের প্রত্যেককে অভাবমুক্ত করুন।"
+            "bn": "যে সংসার টানাপোড়েনে আছে, কিংবা ইতিমধ্যেই ভেঙে গেছে, তার জন্য আয়াতের নিজের শব্দ দিয়ে সাজানো ছোট একটি দোয়া। এটি হাদিসে বর্ণিত কোনো দোয়া নয়, সেভাবেই এটি পেশ করা হলো: হে আল্লাহ, আমরা একসঙ্গে থাকলে যেন ন্যায্যভাবে থাকি, আলাদা হলে যেন সদ্ব্যবহারের সঙ্গে আলাদা হই। আমাদের দুজনকেই আপনার সীমার ভেতরে রাখুন, আর আমাদের কাউকে জালিমদের দলে ফেলবেন না। বিচ্ছেদের পর ৪:১৩০ আয়াতের প্রতিশ্রুতিটাও চাওয়া যায়: হে আল্লাহ, নিজের প্রাচুর্য থেকে আমাদের প্রত্যেককে অভাবমুক্ত করুন।"
           }
         ]
       },
@@ -5021,7 +5021,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "When I advise a relative whose marriage is failing, do I push first toward repair, toward the limits of Allah, or toward winning? And when I hear about someone else's divorce, do my words about it stay within the limits this verse names four times, or do I add a wrong of my own to a story that was never mine to tell?",
-            "bn": "যে আত্মীয়ের সংসার ভাঙতে বসেছে, তাকে পরামর্শ দেওয়ার সময় আমি আগে কোন দিকে ঠেলি, মেরামতের দিকে, আল্লাহর সীমার দিকে, নাকি জেতার দিকে? আর অন্য কারও তালাকের খবর শুনলে, সে নিয়ে আমার কথা কি সেই সীমার ভেতরে থাকে, আরবিতে হুদুদুল্লাহ নামে যার কথা এই আয়াত চারবার বলেছে? নাকি যে গল্প বলার অধিকার আমার কখনো ছিল না, তাতে নিজের একটা জুলুম যোগ করে দিই?"
+            "bn": "যে আত্মীয়ের সংসার ভাঙতে বসেছে, তাকে পরামর্শ দেওয়ার সময় আমি আগে কোন দিকে নিয়ে যাই: জোড়া লাগানোর দিকে, আল্লাহর সীমার দিকে, নাকি জেতার দিকে? আর অন্য কারও তালাকের খবর শুনলে, সে নিয়ে আমার কথা কি সেই সীমার ভেতরে থাকে, যার কথা এই আয়াত চারবার বলেছে? নাকি যে গল্প বলার অধিকার আমার কখনো ছিল না, তাতে নিজের একটা জুলুম জুড়ে দিই?"
           }
         ]
       }
@@ -5032,32 +5032,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Prayer Verse Among Family Laws",
-          "bn": "পারিবারিক বিধানের ভেতর নামাযের আয়াত"
+          "bn": "পারিবারিক বিধানের মাঝে নামাজের আয়াত"
         },
         "p": [
           {
             "en": "The placement of this verse surprises every first-time reader. Surah al-Baqarah has been working through marriage and separation for many verses: 2:237 settles what a husband owes if he divorces before consummation with a dower already fixed. Then, without transition, comes a command about guarding the prayers. Then 2:239 continues on prayer, and only afterwards does the surah return to the rights of widows.",
-            "bn": "এই আয়াতের অবস্থান প্রথমবার পড়া প্রত্যেক পাঠককেই চমকে দেয়। সূরা আল-বাকারা তখন বহু আয়াত ধরে বিয়ে ও বিচ্ছেদের বিধান নিয়ে এগোচ্ছে: 2:237 ঠিক করে দেয়, মহর নির্ধারিত থাকা অবস্থায় স্পর্শ করার আগে তালাক দিলে স্বামীর উপর কী বর্তায়। এরপর কোনো ভূমিকা ছাড়াই আসে সালাতের হেফাজতের নির্দেশ। তারপর 2:239 সালাতের কথাই চালিয়ে যায়, আর তার পরেই কেবল সূরাটি বিধবাদের অধিকারের প্রসঙ্গে ফেরে।"
+            "bn": "প্রথমবার যিনিই পড়েন, এই আয়াতের জায়গাটা দেখে অবাক হন। সূরা আল-বাকারা তখন বহু আয়াত ধরে বিয়ে ও বিচ্ছেদের বিধান বলে চলেছে। ২:২৩৭ আয়াত ঠিক করে দেয়, মহর নির্ধারিত হওয়ার পর স্ত্রীকে স্পর্শ করার আগেই তালাক দিলে স্বামীকে কী দিতে হবে। এরপর কোনো ভূমিকা ছাড়াই আসে নামাজ হেফাজতের হুকুম। ২:২৩৯ আয়াতও নামাজের কথাই বলে, আর তারপর গিয়ে সূরাটি আবার বিধবাদের অধিকারের প্রসঙ্গে ফেরে।"
           },
           {
             "en": "The mufassirun read the placement as deliberate. A household coming apart is exactly the situation in which prayers are lost: the timings go, the mind is elsewhere, and the very worship that would steady a person is the first casualty of what is unsettling them. Dropping this command into the middle of the divorce rulings puts it where it is hardest to keep and most needed.",
-            "bn": "মুফাসসিরগণ এই অবস্থানকে উদ্দেশ্যপ্রণোদিত হিসেবেই পড়েন। ভেঙে পড়া সংসার ঠিক সেই অবস্থা যেখানে নামায হারিয়ে যায়: ওয়াক্ত ফসকে যায়, মন অন্যত্র থাকে, আর যে ইবাদত মানুষকে স্থির রাখত সেটিই তার অস্থিরতার প্রথম শিকার হয়। তালাকের বিধানগুলোর মাঝখানে এই নির্দেশটি ফেলে দেওয়া মানে একে ঠিক সেখানে বসানো, যেখানে তা রক্ষা করা সবচেয়ে কঠিন এবং সবচেয়ে বেশি দরকার।"
+            "bn": "মুফাসসিরগণ মনে করেন, আয়াতটি ভেবেচিন্তেই এখানে রাখা হয়েছে। সংসার যখন ভাঙতে থাকে, ঠিক তখনই নামাজ হারিয়ে যায়: ওয়াক্ত ছুটে যায়, মন পড়ে থাকে অন্য কোথাও। যে ইবাদত মানুষকে স্থির রাখত, অস্থিরতার প্রথম ধাক্কাটা লাগে সেখানেই। তালাকের বিধানের ঠিক মাঝখানে হুকুমটি রাখা মানে, যেখানে নামাজ ধরে রাখা সবচেয়ে কঠিন আর সবচেয়ে বেশি দরকার, ঠিক সেখানেই একে বসানো।"
           }
         ]
       },
       {
         "h": {
           "en": "Guard Them, Not Merely Perform",
-          "bn": "হেফাজত কর, নিছক আদায় নয়"
+          "bn": "শুধু আদায় নয়, হেফাজত"
         },
         "p": [
           {
             "en": "The command is hafizu, from the root of hifz, keeping and protecting, in a form that carries sustained and effortful attention. The verse does not say pray the prayers; it says guard them. Something guarded has a value that can be lost and a threat that can take it. The commentators list what is being guarded: their appointed times, their conditions of purity, their pillars and postures, and the presence of heart within them.",
-            "bn": "নির্দেশটি হাফিযূ, যা হিফয — রক্ষা করা ও আগলে রাখা — ধাতু থেকে এসেছে, এমন এক গঠনে যা টানা ও পরিশ্রমী মনোযোগের অর্থ বহন করে। আয়াতটি বলেনি নামাযগুলো পড়ো; বলেছে নামাযগুলোকে হেফাজত কর। যা হেফাজত করা হয় তার এমন একটি মূল্য থাকে যা হারানো সম্ভব, আর এমন একটি হুমকি থাকে যা তা কেড়ে নিতে পারে। মুফাসসিরগণ তালিকা করেন কী কী হেফাজত করতে হবে: তাদের নির্ধারিত সময়, পবিত্রতার শর্ত, রুকন ও অঙ্গভঙ্গি, আর তার ভেতরে হৃদয়ের উপস্থিতি।"
+            "bn": "হুকুমটি হলো 'হাফিজূ'। এর মূল 'হিফজ', মানে রক্ষা করা, আগলে রাখা। শব্দের এই গঠনে আছে টানা ও কষ্টসাধ্য মনোযোগের অর্থ। আয়াত বলেনি, নামাজ পড়ো; বলেছে, নামাজের হেফাজত করো। যে জিনিস পাহারা দিতে হয়, সেটা দামি, হারিয়েও যেতে পারে, আর তা কেড়ে নেওয়ার মতো বিপদও থাকে। কী কী হেফাজত করতে হবে, মুফাসসিরগণ তার তালিকা দিয়েছেন: নির্ধারিত ওয়াক্ত, পবিত্রতার শর্ত, রুকন ও নামাজের ভঙ্গিগুলো, আর নামাজের ভেতর দিলের উপস্থিতি।"
           },
           {
             "en": "Times come first, because 4:103 calls the prayer a decree of specified times upon the believers. And the same root returns as a mark of the successful believer, in 23:9 and again in 70:34, where those who carefully maintain their prayers are named among the saved. In both places the description is not that they pray but that they keep guard over praying, which is a different and harder claim.",
-            "bn": "সময়ই আগে আসে, কারণ 4:103 নামাযকে মুমিনদের উপর নির্দিষ্ট সময়ের বিধান বলে অভিহিত করে। আর একই ধাতু সফল মুমিনের পরিচয় হিসেবে ফিরে আসে — 23:9 এবং আবার 70:34 আয়াতে, যেখানে যারা নিজেদের নামাযের ব্যাপারে যত্নবান তাদের মুক্তিপ্রাপ্তদের মধ্যে গণ্য করা হয়। দুই জায়গাতেই বর্ণনাটি এই নয় যে তারা নামায পড়ে, বরং এই যে তারা নামাযের পাহারা দেয় — যা ভিন্ন এবং কঠিনতর একটি দাবি।"
+            "bn": "প্রথমে ওয়াক্ত, কারণ ৪:১০৩ আয়াত বলছে, নামাজ মুমিনদের ওপর নির্ধারিত সময়ে ফরজ। একই মূল শব্দ সফল মুমিনের পরিচয় হিসেবেও এসেছে, ২৩:৯ আয়াতে, আবার ৭০:৩৪ আয়াতে। সেখানে যারা যত্ন করে নামাজের হেফাজত করে, তাদের নাম এসেছে নাজাতপ্রাপ্তদের মধ্যে। দুই জায়গাতেই বলা হয়নি যে তারা নামাজ পড়ে। বলা হয়েছে, তারা নামাজকে পাহারা দিয়ে রাখে। এটা আলাদা দাবি, আর আরও কঠিন।"
           }
         ]
       },
@@ -5069,11 +5069,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then one prayer is singled out: was-salat al-wusta, and the middle prayer. Which one is meant is a genuine and old disagreement. The view of the majority is that it is Asr, and it rests on the strongest evidence: Muslim narrates from Ali (RA) that on the day of the Trench the Prophet ﷺ said the enemy had kept them from the middle prayer, the prayer of Asr, and prayed against them.",
-            "bn": "এরপর একটি নামাযকে আলাদা করে উল্লেখ করা হয়: ওয়াস-সালাতুল উসতা — আর মধ্যবর্তী সালাত। কোনটি বোঝানো হয়েছে তা নিয়ে প্রকৃত ও প্রাচীন মতভেদ আছে। অধিকাংশ আলিমের মত হলো এটি আসর, আর এই মতের পক্ষেই সবচেয়ে শক্ত দলিল: ইমাম মুসলিম আলী (রাঃ) থেকে বর্ণনা করেন যে খন্দকের দিনে নবী ﷺ বলেছিলেন, শত্রুরা তাঁদেরকে মধ্যবর্তী সালাত অর্থাৎ আসরের সালাত থেকে ব্যস্ত রেখেছে, এবং তিনি তাদের বিরুদ্ধে বদদোয়া করেছিলেন।"
+            "bn": "এরপর একটি নামাজকে আলাদা করে বলা হয়েছে: 'ওয়াস-সালাতুল উসতা', আর মধ্যবর্তী সালাত। কোনটি বোঝানো হয়েছে, তা নিয়ে সত্যিকারের ও পুরোনো মতভেদ আছে। অধিকাংশ আলেমের মতে এটি আসর, আর এ মতের দলিলই সবচেয়ে মজবুত: ইমাম মুসলিম আলী (রাঃ) থেকে বর্ণনা করেন, খন্দকের দিন নবী ﷺ বলেছিলেন, শত্রুরা আমাদের মধ্যবর্তী সালাত, অর্থাৎ আসরের সালাত থেকে আটকে রেখেছে। তারপর তিনি তাদের বিরুদ্ধে বদদোয়া করেন।"
           },
           {
             "en": "But it should be stated as the majority position and not as a settled fact, because respected early authorities held otherwise, some naming Fajr, others Zuhr, and other views besides. Some commentators suggest the wording was left short of naming the prayer outright so that a worshipper, unsure which one carries the extra emphasis, would guard all five with the same care. Whichever reading is taken, that is the practical result the verse produces.",
-            "bn": "তবে একে অধিকাংশের অবস্থান হিসেবেই বলা উচিত, চূড়ান্ত মীমাংসিত সত্য হিসেবে নয়, কারণ প্রাচীন যুগের সম্মানিত আলিমদের কেউ কেউ ভিন্ন মত রেখেছেন — কেউ ফজরের কথা বলেছেন, কেউ যোহরের, আর এর বাইরেও মত আছে। কোনো কোনো মুফাসসির মনে করেন, নামাযটির নাম সরাসরি না বলে রাখা হয়েছে যাতে মুসল্লি — কোনটির উপর বাড়তি জোর তা নিশ্চিত না জেনে — পাঁচটিকেই সমান যত্নে হেফাজত করে। যে পাঠই নেওয়া হোক, বাস্তবে আয়াতটি এই ফলই তৈরি করে।"
+            "bn": "তবে একে অধিকাংশের মত হিসেবেই বলা উচিত, চূড়ান্ত মীমাংসা হিসেবে নয়। কারণ প্রথম যুগের সম্মানিত অনেকে ভিন্ন মত দিয়েছেন: কেউ বলেছেন ফজর, কেউ যোহর, এর বাইরেও মত আছে। কোনো কোনো মুফাসসির বলেন, নামাজটির নাম সরাসরি না বলার পেছনে হয়তো এই হিকমত: কোন নামাজের ওপর বাড়তি জোর, মুসল্লি তা নিশ্চিত জানেন না, তাই পাঁচ ওয়াক্তই সমান যত্নে হেফাজত করবেন। যে ব্যাখ্যাই নেওয়া হোক, বাস্তবে আয়াতের ফল এটাই দাঁড়ায়।"
           }
         ]
       },
@@ -5085,23 +5085,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half turns from the schedule to the state: and stand before Allah qanitin. Qunut in Arabic carries obedience joined to humility and stillness, the bearing of someone who has stopped arguing. It is a description of posture and of heart at once, and it rules out standing there while everything except the prayer runs through the mind.",
-            "bn": "আয়াতের দ্বিতীয়ার্ধ সময়সূচি থেকে ফিরে আসে অবস্থার দিকে: আর আল্লাহর সামনে কানিতীন হয়ে দাঁড়াও। আরবিতে কুনূত মানে আনুগত্য, তার সঙ্গে বিনয় ও স্থিরতা — এমন মানুষের ভঙ্গি যে আর তর্ক করছে না। এটি একই সঙ্গে দেহভঙ্গি ও হৃদয়ের বর্ণনা, আর এটি বাতিল করে দেয় সেই দাঁড়ানো যেখানে নামায ছাড়া বাকি সবকিছু মনের ভেতর দিয়ে দৌড়ে যাচ্ছে।"
+            "bn": "আয়াতের দ্বিতীয় ভাগ সময়ের কথা থেকে সরে আসে মনের অবস্থার দিকে: আর আল্লাহর সামনে কানিতীন হয়ে দাঁড়াও। আরবিতে কুনূত মানে আনুগত্য, সঙ্গে বিনয় আর স্থিরতা। তর্ক থামিয়ে দেওয়া মানুষের যে ভঙ্গি, সেটাই কুনূত। এতে দেহের ভঙ্গি আর দিলের অবস্থা দুটোই আছে। তাই নামাজে দাঁড়িয়ে আছি, অথচ মাথায় নামাজ ছাড়া দুনিয়ার সব কিছু ঘুরছে, কুনূত এমন দাঁড়ানোকে মেনে নেয় না।"
           },
           {
             "en": "Muslim narrates from Zayd ibn Arqam (RA) that the Companions used to speak to one another during the prayer, a man addressing his neighbour about his own affairs, until this clause was revealed and they were ordered to be silent and forbidden from speaking. The clause therefore has a history: it cleared the prayer of ordinary conversation. What it asks for now is the same clearing, one level further in, of the conversation still running inside the head.",
-            "bn": "ইমাম মুসলিম যায়েদ ইবনে আরকাম (রাঃ) থেকে বর্ণনা করেন, সাহাবীগণ নামাযের ভেতর একে অপরের সঙ্গে কথা বলতেন — কেউ পাশের জনকে নিজের কাজের কথা বলতেন — যতক্ষণ না এই বাক্যটি নাযিল হয় এবং তাঁদেরকে চুপ থাকার আদেশ ও কথা বলার নিষেধ দেওয়া হয়। তাই বাক্যটির একটি ইতিহাস আছে: এটি নামাযকে সাধারণ কথাবার্তা থেকে খালি করেছিল। এখন এটি সেই একই খালি করার দাবি জানায়, তবে এক ধাপ ভেতরে — মাথার ভেতরে চলতে থাকা কথোপকথনটির।"
+            "bn": "ইমাম মুসলিম যায়েদ ইবনে আরকাম (রাঃ) থেকে বর্ণনা করেন, সাহাবীগণ নামাজের মধ্যে একে অপরের সঙ্গে কথা বলতেন। কেউ পাশের জনকে নিজের কাজের কথা বলতেন। তারপর এই অংশটি নাজিল হয়, আর তাঁদের চুপ থাকতে আদেশ করা হয়, কথা বলতে নিষেধ করা হয়। তাই এই বাক্যের পেছনে একটা ইতিহাস আছে: এটি নামাজ থেকে সাধারণ কথাবার্তা সরিয়ে দিয়েছিল। আজ এটি সেই একই কাজ চায়, তবে আরও এক স্তর ভেতরে: মাথার ভেতরে যে কথাবার্তা এখনো চলতে থাকে, তা থামানো।"
           }
         ]
       },
       {
         "h": {
           "en": "Not Dropped Even in Fear",
-          "bn": "ভয়ের মধ্যেও ছাড়া নয়"
+          "bn": "ভয়ের মধ্যেও বাদ পড়ে না"
         },
         "p": [
           {
             "en": "How seriously the guarding is meant becomes clear in 2:239, which follows at once: if you are in fear, then pray on foot or riding, and when you are secure, remember Allah as He taught you what you did not know. The form of the prayer bends as far as walking or on the back of an animal in the middle of danger. What it does not do is stop. A duty that survives that will survive a busy afternoon.",
-            "bn": "এই হেফাজত কতটা গুরুত্বের সঙ্গে বোঝানো হয়েছে তা স্পষ্ট হয় 2:239 আয়াতে, যা সঙ্গে সঙ্গেই আসে: যদি তোমরা ভয়ের মধ্যে থাক, তবে হেঁটে বা আরোহী অবস্থায়ই নামায পড়ো, আর যখন নিরাপদ হও তখন আল্লাহকে স্মরণ কর যেভাবে তিনি তোমাদের শিখিয়েছেন যা তোমরা জানতে না। বিপদের মধ্যে নামাযের রূপ হাঁটা অবস্থা বা পশুর পিঠ পর্যন্ত নমনীয় হয়। যা হয় না, তা হলো থেমে যাওয়া। যে কর্তব্য এটুকু টিকে যায়, তা একটি ব্যস্ত বিকেলও টিকে যাবে।"
+            "bn": "হেফাজতের হুকুমটা কতটা গুরুতর, তা বোঝা যায় ঠিক পরের আয়াত ২:২৩৯ থেকে: যদি তোমরা ভয়ের মধ্যে থাক, তবে হেঁটে বা বাহনে চড়েই নামাজ পড়ো; আর যখন নিরাপদ হও, তখন আল্লাহকে স্মরণ করো, যেভাবে তিনি তোমাদের শিখিয়েছেন যা তোমরা জানতে না। বিপদের মাঝে নামাজের ধরন এতটাই নমনীয় হয় যে হেঁটে হেঁটে বা পশুর পিঠে বসেও পড়া যায়। কিন্তু নামাজ থেমে যায় না। যে ফরজ এমন অবস্থাতেও টিকে থাকে, ব্যস্ত একটা বিকেলেও তা টিকে থাকবে।"
           }
         ]
       },
@@ -5113,7 +5113,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Guarding is mostly done before the prayer rather than in it. Know the times rather than waiting to be told them; put the phone out of reach; arrive at the mat with a minute in hand instead of at the last legal moment. Then, standing, give the opening takbir the weight of a door closing behind you. 2:45 admits the difficulty plainly, calling prayer heavy except upon the humble, which is a promise that the heaviness lifts as the humility grows.",
-            "bn": "হেফাজতের কাজটি বেশিরভাগই হয় নামাযের ভেতরে নয়, তার আগে। ওয়াক্তগুলো নিজে জানুন, কেউ মনে করিয়ে দেওয়ার অপেক্ষায় থাকবেন না; ফোনটি নাগালের বাইরে রাখুন; শেষ বৈধ মুহূর্তে নয়, হাতে এক মিনিট রেখে জায়নামাযে পৌঁছান। তারপর দাঁড়িয়ে তাকবীরে তাহরীমাকে এমন ওজন দিন যেন পেছনে একটি দরজা বন্ধ হলো। 2:45 কঠিনতাটি সরাসরি স্বীকার করে, নামাযকে বিনয়ীদের ছাড়া বাকি সবার জন্য ভারী বলে — আর এটিই প্রতিশ্রুতি যে বিনয় বাড়ার সঙ্গে সঙ্গে ভার হালকা হয়।"
+            "bn": "হেফাজতের কাজটা বেশির ভাগ হয় নামাজের আগে, ভেতরে নয়। ওয়াক্তগুলো নিজেই জেনে রাখুন, কেউ মনে করিয়ে দেবে সেই অপেক্ষায় থাকবেন না। ফোনটা হাতের নাগালের বাইরে রাখুন। ওয়াক্তের একেবারে শেষ মুহূর্তে নয়, হাতে এক মিনিট রেখে জায়নামাজে পৌঁছান। তারপর দাঁড়িয়ে তাকবীরে তাহরীমা বলুন এমনভাবে, যেন পেছনে একটা দরজা বন্ধ হয়ে গেল। ২:৪৫ আয়াত কষ্টটা সোজাসুজি স্বীকার করে: বিনয়ীরা ছাড়া অন্য সবার জন্য নামাজ ভারী। এর মধ্যেই আছে প্রতিশ্রুতি: বিনয় যত বাড়ে, ভার তত হালকা হয়।"
           }
         ]
       }
@@ -5200,7 +5200,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Verses That Hold the Same Line",
-          "bn": "একই রেখা ধরে রাখা আয়াতগুলো"
+          "bn": "একই সুরের আয়াত"
         },
         "p": [
           {
@@ -5253,7 +5253,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Is there a widow in my family, or a divorced woman, whom nobody has actually asked about her needs for the coming year? When property is divided after a death, do I speak up for the person with the least power in the room, or do I wait for someone else to do it? If I have been through a divorce myself, did I part with the provision and the grace that these verses ask for, or did I let anger keep what was owed in my hand?",
-            "bn": "আমার পরিবারে কি এমন কোনো বিধবা বা তালাকপ্রাপ্তা নারী আছেন, সামনের বছরে তাঁর কী দরকার তা কেউ আসলে জিজ্ঞেস করেনি? মৃত্যুর পর সম্পত্তি ভাগের সময় ঘরের সবচেয়ে দুর্বল মানুষটির পক্ষে কি আমি কথা বলি, নাকি অপেক্ষা করি অন্য কেউ বলবে? নিজে যদি তালাকের ভেতর দিয়ে গিয়ে থাকি, তাহলে কি এই আয়াতগুলোর চাওয়া ভরণপোষণ আর সৌজন্য দিয়ে বিদায় নিয়েছি, নাকি রাগের বশে পাওনাটা নিজের হাতেই আটকে রেখেছি?"
+            "bn": "আমার পরিবারে কি এমন কোনো বিধবা বা তালাকপ্রাপ্তা নারী আছেন, সামনের বছরটায় যাঁর কী দরকার, কেউ আসলে তাঁকে জিজ্ঞেস করেনি? মৃত্যুর পর সম্পত্তি ভাগের সময় ঘরের সবচেয়ে দুর্বল মানুষটির পক্ষে কি আমি কথা বলি, নাকি অপেক্ষা করি কখন অন্য কেউ বলবে? নিজে যদি তালাকের ভেতর দিয়ে গিয়ে থাকি, তাহলে এই আয়াতগুলো যে ভরণপোষণ আর সৌজন্য চায়, তা দিয়ে কি বিদায় নিয়েছি? নাকি রাগের বশে পাওনাটা নিজের হাতেই আটকে রেখেছি?"
           },
           {
             "en": "Do I respect the choices of someone who is grieving, or do I decide on their behalf what loyalty to the dead requires of them? And when I meet a ruling in the Quran whose details the scholars have discussed at length, do I stop at knowing that it was debated, or do I go on to ask, as 2:242 invites me to, what Allah is teaching me to understand about people through it?",
@@ -5356,7 +5356,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Others Who Asked the Same",
-          "bn": "যারা একই কথা চেয়েছিল"
+          "bn": "একই দোয়া যাঁরা করেছিলেন"
         },
         "p": [
           {
@@ -5381,7 +5381,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "When the moment itself comes, say their du'a before you step into the open: before the hospital appointment, the difficult conversation, the first day of a job you are not sure you can do. Ask for patience first, not only for the outcome. And when you hear voices, your own included, saying there is no strength for this today, answer the way the certain ones did. Do not argue from the numbers in front of you. Remind yourself that you will meet Allah, and that small companies have prevailed by His permission before.",
-            "bn": "মুহূর্তটা নিজে যখন আসে, খোলা ময়দানে পা রাখার আগে তাদের দোয়াটা পড়ুন: হাসপাতালে ডাক্তারের সামনে যাওয়ার আগে, কঠিন কোনো আলাপের আগে, এমন চাকরির প্রথম দিনে যা সামলাতে পারবেন কি না নিশ্চিত নন। আগে ধৈর্য চান, শুধু ফলাফল নয়। আর যখন কানে আসে, নিজের মনের কথাও, যে আজ এর শক্তি নেই, তখন নিশ্চিত বিশ্বাসীদের মতো জবাব দিন। সামনের সংখ্যা দিয়ে তর্ক করবেন না। নিজেকে মনে করিয়ে দিন, আল্লাহর সঙ্গে সাক্ষাৎ হবেই, আর তাঁর অনুমতিতে ছোট দল আগেও জিতেছে।"
+            "bn": "আর আসল মুহূর্তটা যখন আসে, খোলা ময়দানে পা রাখার আগে তাদের দোয়াটা পড়ুন: হাসপাতালে ডাক্তার দেখানোর আগে, কঠিন কোনো আলাপের আগে, এমন চাকরির প্রথম দিনে, যা সামলাতে পারবেন কি না নিশ্চিত নন। আগে ধৈর্য চান, শুধু ফলাফল নয়। আর যখন কেউ বলে, কিংবা আপনার নিজের মনই বলে, আজ এর শক্তি নেই, তখন নিশ্চিত বিশ্বাসীদের মতো জবাব দিন। সামনের সংখ্যা দেখে তর্ক করবেন না। নিজেকে মনে করিয়ে দিন, আল্লাহর সঙ্গে সাক্ষাৎ হবেই, আর তাঁর অনুমতিতে ছোট দল আগেও জিতেছে।"
           }
         ]
       },
@@ -5424,16 +5424,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No God But He, the Living",
-          "bn": "তিনি ছাড়া কোনো ইলাহ নেই"
+          "bn": "তিনি ছাড়া কোনো ইলাহ নেই, তিনি চিরঞ্জীব"
         },
         "p": [
           {
             "en": "The verse opens by clearing the ground: la ilaha illa Huwa, there is no god except He. Arabic negates first and affirms second, so the sentence empties the heart of every rival before it names the One who remains. Two names follow immediately, and the commentators treat them as the pillars the rest of the verse stands on: al-Hayy, the Ever-Living, whose life was never granted and will never end, and al-Qayyum, the Self-Subsisting who holds everything else in being.",
-            "bn": "আয়াতটি শুরু হয় জায়গা খালি করে দিয়ে: লা ইলাহা ইল্লা হুয়া — তিনি ছাড়া কোনো ইলাহ নেই। আরবি আগে অস্বীকার করে, পরে স্বীকার করে; ফলে বাক্যটি প্রথমে হৃদয় থেকে সব প্রতিদ্বন্দ্বী সরিয়ে দেয়, তারপর যিনি থাকেন তাঁর নাম নেয়। এরপরই আসে দুটি নাম, আর মুফাসসিরগণ এ দুটিকেই বাকি আয়াতের ভিত্তি হিসেবে দেখেন: আল-হাইয়্য — চিরঞ্জীব, যাঁর জীবন কারও দেওয়া নয় এবং যা কখনো শেষ হয় না; আর আল-কাইয়্যূম — স্বয়ংপ্রতিষ্ঠিত, যিনি অন্য সবকিছুকে ধরে রাখেন।"
+            "bn": "আয়াতটি শুরুতেই জায়গা খালি করে নেয়: 'লা ইলাহা ইল্লা হুয়া', তিনি ছাড়া কোনো ইলাহ নেই। আরবিতে আগে 'না', পরে 'হ্যাঁ'। তাই বাক্যটি প্রথমে দিল থেকে সব প্রতিদ্বন্দ্বীকে বের করে দেয়, তারপর নাম নেয় তাঁর, যিনি একাই থেকে যান। এরপরই আসে দুটি নাম। মুফাসসিরগণ বলেন, বাকি আয়াত এ দুটি নামের ওপরই দাঁড়িয়ে আছে। আল-হাইয়্য, চিরঞ্জীব: তাঁর জীবন কারও দেওয়া নয়, কখনো শেষও হবে না। আর আল-কাইয়্যূম, যিনি নিজে নিজে প্রতিষ্ঠিত এবং বাকি সবকিছুকে টিকিয়ে রাখেন।"
           },
           {
             "en": "Then comes a denial that sounds gentle and is enormous. Neither sinah nor nawm takes hold of Him: sinah is the drowsiness that arrives before sleep, nawm is sleep itself. The wording climbs from the smaller to the greater and rules out both. Every living thing we have ever met must stop and rest; the One described here does not pause, and so creation is never for a single moment left unattended while its Sustainer is not watching.",
-            "bn": "এরপর আসে এমন এক অস্বীকৃতি যা শুনতে কোমল কিন্তু অর্থে বিশাল। তাঁকে সিনাহ্‌ও স্পর্শ করে না, নাওম-ও নয়: সিনাহ্‌ হলো ঘুমের আগের তন্দ্রা, আর নাওম হলো ঘুম নিজেই। শব্দবিন্যাস ছোট থেকে বড়র দিকে উঠে যায় এবং দুটোকেই বাদ দেয়। আমরা যত প্রাণী চিনি, সবাইকে একসময় থামতে ও বিশ্রাম নিতে হয়; কিন্তু এখানে বর্ণিত সত্তা কখনো থামেন না, তাই সৃষ্টিজগৎ এক মুহূর্তের জন্যও এমন অবস্থায় পড়ে না যখন তার রক্ষক দেখছেন না।"
+            "bn": "এরপর আসে একটি 'না', যা শুনতে নরম, কিন্তু অর্থে বিশাল। তাঁকে সিনাহও স্পর্শ করে না, নাওমও না। সিনাহ হলো ঘুমের আগের তন্দ্রা, আর নাওম হলো ঘুম। কথাটা ছোট থেকে বড়র দিকে যায়, আর দুটোকেই নাকচ করে। আমরা যত প্রাণী দেখেছি, সবাইকে কোনো এক সময় থামতে হয়, বিশ্রাম নিতে হয়। কিন্তু এখানে যাঁর কথা বলা হচ্ছে, তিনি কখনো থামেন না। তাই এমন একটি মুহূর্তও আসে না, যখন সৃষ্টিজগৎ অরক্ষিত পড়ে থাকে আর এর পালনকর্তা খেয়াল রাখছেন না।"
           }
         ]
       },
@@ -5445,23 +5445,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "To Him belongs whatever is in the heavens and whatever is on the earth. The Arabic particle ma, whatever, sweeps in what we have named and catalogued and everything we have not. Then a question shaped so that it answers itself: who is there that can intercede with Him except by His permission? The people first addressed by this verse believed their idols would speak on their behalf. The sentence removes that at the root without denying that intercession exists at all.",
-            "bn": "আসমানসমূহে যা কিছু আছে আর যমীনে যা কিছু আছে, সবই তাঁর। আরবি শব্দ 'মা' — অর্থাৎ 'যা কিছু' — আমাদের নামকরা ও তালিকাভুক্ত সবকিছুকে যেমন ধরে, তেমনি ধরে যা আমরা কখনো জানিনি। তারপর আসে এমন এক প্রশ্ন যা নিজেই নিজের উত্তর দেয়: তাঁর অনুমতি ছাড়া কে তাঁর কাছে সুপারিশ করতে পারে? এই আয়াত প্রথমে যাদের উদ্দেশে নাযিল হয়, তারা বিশ্বাস করত তাদের দেবমূর্তিরা তাদের পক্ষে কথা বলবে। বাক্যটি সেই বিশ্বাসকে গোড়া থেকে সরিয়ে দেয়, অথচ সুপারিশের অস্তিত্বকে একেবারে অস্বীকার করে না।"
+            "bn": "আসমানে যা কিছু আছে আর জমিনে যা কিছু আছে, সবই তাঁর। আরবি 'মা' শব্দটির অর্থ 'যা কিছু'। আমরা যেসবের নাম দিয়েছি, তালিকা করেছি, সেগুলো তো এর ভেতরে আছেই, আর যেগুলোর নাম দিইনি, সেগুলোও আছে। তারপর এমন একটি প্রশ্ন, যার উত্তর প্রশ্নের ভেতরেই: তাঁর অনুমতি ছাড়া কে আছে যে তাঁর কাছে সুপারিশ করবে? এ আয়াত প্রথম যাদের শোনানো হয়েছিল, তারা বিশ্বাস করত তাদের মূর্তিগুলো তাদের হয়ে কথা বলবে। বাক্যটি সেই বিশ্বাসকে গোড়া থেকে উপড়ে ফেলে, তবে সুপারিশ বলে কিছুই নেই, এমন কথাও বলে না।"
           },
           {
             "en": "What is left standing is intercession by permission, granted to whom He allows. Knowledge follows: He knows what is before them and what is behind them, and they encompass nothing of His knowledge except what He wills. Read slowly, that clause describes every scholar, every specialist and every anxious planner. Whatever any of us knows is a portion that has been measured out, and it has been measured out by the One who holds the whole of it.",
-            "bn": "যা টিকে থাকে তা হলো অনুমতিসাপেক্ষ সুপারিশ — তিনি যাকে অনুমতি দেন কেবল তারই। এরপর আসে জ্ঞানের কথা: তাদের সামনে যা আছে ও পেছনে যা আছে সবই তিনি জানেন, আর তারা তাঁর জ্ঞানের কিছুই আয়ত্ত করতে পারে না, তিনি যতটুকু চান তা ছাড়া। ধীরে পড়লে বোঝা যায়, এই বাক্যটি প্রত্যেক আলিম, প্রত্যেক বিশেষজ্ঞ এবং প্রত্যেক উদ্বিগ্ন পরিকল্পনাকারীর বর্ণনা। আমরা যে যা-ই জানি, তা মেপে দেওয়া একটি অংশ — আর মেপে দিয়েছেন তিনিই, যাঁর কাছে পুরোটা আছে।"
+            "bn": "টিকে থাকে শুধু অনুমতি নিয়ে সুপারিশ, আর তা-ও কেবল তার জন্য, যাকে তিনি অনুমতি দেন। এরপর জ্ঞানের কথা: তাদের সামনে যা আছে আর পেছনে যা আছে, সব তিনি জানেন; আর তিনি যতটুকু চান, তার বাইরে তাঁর জ্ঞানের কিছুই তারা আয়ত্ত করতে পারে না। ধীরে পড়লে দেখা যায়, এই বাক্যে প্রত্যেক আলেম, প্রত্যেক বিশেষজ্ঞ, প্রত্যেক দুশ্চিন্তায় থাকা পরিকল্পনাকারীর ছবি আছে। আমরা যে যা জানি, তা মেপে দেওয়া একটা ভাগ মাত্র। আর মেপে দিয়েছেন তিনি, পুরো জ্ঞান যাঁর কাছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Kursi and the Guarding",
-          "bn": "কুরসী ও রক্ষণাবেক্ষণ"
+          "bn": "কুরসী আর হেফাজত"
         },
         "p": [
           {
             "en": "His Kursi extends over the heavens and the earth. The commentators differ over the word. A group of the early authorities relate that the Kursi is something other than the 'Arsh, the Throne, and far smaller than it; others read the word as an image of His knowledge or His sovereign command. The mainstream Sunni position is to affirm the word exactly as revealed, without asking how and without imagining a seat resembling the chair of a king.",
-            "bn": "তাঁর কুরসী আসমানসমূহ ও যমীনকে পরিব্যাপ্ত করে আছে। শব্দটি নিয়ে মুফাসসিরগণের মধ্যে মতভেদ আছে। প্রাচীন যুগের একদল বর্ণনাকারী বলেন, কুরসী আরশ থেকে আলাদা এবং তার তুলনায় বহু ছোট; আবার কেউ কেউ শব্দটিকে তাঁর জ্ঞান বা তাঁর কর্তৃত্বের রূপক হিসেবে পড়েন। আহলুস সুন্নাহর মূলধারার অবস্থান হলো: শব্দটি যেভাবে নাযিল হয়েছে ঠিক সেভাবেই স্বীকার করা, 'কীভাবে' প্রশ্ন না তোলা, এবং রাজার আসনের মতো কোনো চিত্র কল্পনা না করা।"
+            "bn": "তাঁর কুরসী আসমান ও জমিন জুড়ে বিস্তৃত। শব্দটির অর্থ নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। সালাফের একদল থেকে বর্ণিত, কুরসী আরশ থেকে আলাদা জিনিস, আর আরশের তুলনায় অনেক ছোট। অন্যরা শব্দটিকে তাঁর জ্ঞান বা তাঁর সার্বভৌম হুকুমের রূপক হিসেবে পড়েছেন। আহলুস সুন্নাহর মূলধারার অবস্থান হলো, শব্দটি যেভাবে নাজিল হয়েছে ঠিক সেভাবেই মেনে নেওয়া, 'কীভাবে' প্রশ্ন না তুলে, আর রাজার আসনের মতো কোনো আসনের কল্পনা না করে।"
           },
           {
             "en": "The clause that follows is the one people carry home with them: preserving them both does not weary Him. The verb carries the sense of being burdened by a heavy task. The verse then closes with al-'Aliyy al-'Azim, the Most High, the Most Great. Notice the order of the whole: majesty, then knowledge, then care, then the assurance that the care costs Him nothing at all. The reader is left feeling very small and entirely safe.",
