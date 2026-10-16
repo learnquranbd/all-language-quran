@@ -505,7 +505,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith directly to it, so what follows is a sound narration on the resurrection in general, not a report the mufassirūn tie to these words. Sahih al-Bukhari records that the Prophet (ﷺ) said that between the two blowings of the trumpet there is forty; when Abu Hurayra (RA) was pressed on whether this meant days, months, or years, he declined to say.",
-            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীরই সরাসরি এর সঙ্গে কোনো হাদীস জুড়ে দেয় না, তাই নিচে যা আসছে তা পুনরুত্থান নিয়ে সাধারণভাবে একটি সহীহ বর্ণনা, এ শব্দগুলোর সঙ্গে তাফসীরকারদের বেঁধে দেওয়া কোনো বর্ণনা নয়। সহীহ বুখারীতে এসেছে, নবী ﷺ বলেছেন দুই ফুঁৎকারের মাঝে চল্লিশ। আবু হুরায়রা (রাঃ)-কে যখন চাপ দেওয়া হলো এর অর্থ দিন, মাস নাকি বছর, তিনি বলতে চাইলেন না।"
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীরই সরাসরি এর সঙ্গে কোনো হাদিস জুড়ে দেয় না, তাই নিচে যা আসছে তা পুনরুত্থান নিয়ে সাধারণভাবে একটি সহীহ বর্ণনা, এ শব্দগুলোর সঙ্গে তাফসীরকারদের বেঁধে দেওয়া কোনো বর্ণনা নয়। সহীহ বুখারীতে এসেছে, নবী ﷺ বলেছেন দুই ফুঁৎকারের মাঝে চল্লিশ। আবু হুরায়রা (রাঃ)-কে যখন চাপ দেওয়া হলো এর অর্থ দিন, মাস নাকি বছর, তিনি বলতে চাইলেন না।"
           },
           {
             "en": "The narration continues: then Allah sends down water from the sky, and the dead grow as plants grow. Nothing of a person decays away except one bone, the little bone at the base of the spine, and from it the whole creation is put together again on the Day of Resurrection. Being in Bukhari's collection, it carries his grading of soundness. It fills out the bare claim of the verse with an image: the self is not scattered past recall, for the seed of it is kept.",
@@ -1092,7 +1092,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "How Prayer Restrains",
-          "bn": "নামায কীভাবে বিরত রাখে"
+          "bn": "নামাজ কীভাবে বিরত রাখে"
         },
         "p": [
           {
@@ -1156,7 +1156,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Thus, As Before",
-          "bn": "আগের ধারাতেই নাযিল"
+          "bn": "আগের ধারাতেই নাজিল"
         },
         "p": [
           {
@@ -1165,7 +1165,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That one word sets the Qur'an inside a single line of sending, not apart from it. The placement matters too. The verse before it told the believers how to speak with the People of the Book: argue in the better way, and say we believe in what was sent down to us and to you (29:46). This verse supplies the ground under that courtesy. The God who gave them their Scripture is the God who gave this one, so the shared root is real, and the new Book is the old sending carried on.",
-            "bn": "এই একটি শব্দ কুরআনকে ওহীর ধারা থেকে আলাদা করে না, বরং সেই এক ধারার ভেতরেই বসিয়ে দেয়। আয়াতের অবস্থানটাও তাৎপর্যপূর্ণ। আগের আয়াত মুমিনদের শিখিয়েছিল কিতাবধারীদের সঙ্গে কেমন করে কথা বলতে হবে, উত্তম পন্থায় আলোচনা কর, আর বল আমাদের প্রতি ও তোমাদের প্রতি যা নাযিল হয়েছে তাতে আমরা ঈমান এনেছি (২৯:৪৬)। এই আয়াত সেই শিষ্টাচারের নিচে ভিত গেঁথে দেয়। যিনি তাদের কিতাব দিয়েছেন, তিনিই এই কিতাব দিয়েছেন। তাই মিলের শিকড়টা সত্যি, আর নতুন কিতাব সেই পুরনো ধারারই ধারাবাহিকতা।"
+            "bn": "এই একটি শব্দ কুরআনকে ওহির ধারা থেকে আলাদা করে না, বরং সেই এক ধারার ভেতরেই বসিয়ে দেয়। আয়াতের অবস্থানটাও তাৎপর্যপূর্ণ। আগের আয়াত মুমিনদের শিখিয়েছিল কিতাবধারীদের সঙ্গে কেমন করে কথা বলতে হবে, উত্তম পন্থায় আলোচনা কর, আর বল আমাদের প্রতি ও তোমাদের প্রতি যা নাজিল হয়েছে তাতে আমরা ঈমান এনেছি (২৯:৪৬)। এই আয়াত সেই শিষ্টাচারের নিচে ভিত গেঁথে দেয়। যিনি তাদের কিতাব দিয়েছেন, তিনিই এই কিতাব দিয়েছেন। তাই মিলের শিকড়টা সত্যি, আর নতুন কিতাব সেই পুরনো ধারারই ধারাবাহিকতা।"
           }
         ]
       },
@@ -1185,7 +1185,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The order of the verse is worth noticing. Before it says a word about rejection, it records belief, and it records it first among people who already held a Book. Their acceptance carries a weight of testimony: those best placed to compare the new revelation with the old found that the two answered to each other. The verse lets that recognition stand at the front, as the natural response of a heart that knew Scripture and met its continuation.",
-            "bn": "আয়াতের ক্রমটা লক্ষ করার মতো। অস্বীকার নিয়ে একটি কথা বলার আগেই এটি ঈমানের কথা লিখে রাখে, আর সেই ঈমান প্রথমে লিখে রাখে এমন লোকদের মধ্যে যাদের হাতে আগে থেকেই কিতাব ছিল। তাদের গ্রহণের সঙ্গে জড়িয়ে থাকে এক সাক্ষ্যের ভার। নতুন ওহীকে পুরনোটার সঙ্গে মিলিয়ে দেখার সবচেয়ে উপযুক্ত যারা, তারাই দেখল দুটি একে অপরের সঙ্গে মেলে। আয়াত সেই চেনাকে সামনে দাঁড়াতে দেয়, কিতাব-জানা হৃদয়ের স্বাভাবিক সাড়া হিসেবে।"
+            "bn": "আয়াতের ক্রমটা লক্ষ করার মতো। অস্বীকার নিয়ে একটি কথা বলার আগেই এটি ঈমানের কথা লিখে রাখে, আর সেই ঈমান প্রথমে লিখে রাখে এমন লোকদের মধ্যে যাদের হাতে আগে থেকেই কিতাব ছিল। তাদের গ্রহণের সঙ্গে জড়িয়ে থাকে এক সাক্ষ্যের ভার। নতুন ওহিকে পুরনোটার সঙ্গে মিলিয়ে দেখার সবচেয়ে উপযুক্ত যারা, তারাই দেখল দুটি একে অপরের সঙ্গে মেলে। আয়াত সেই চেনাকে সামনে দাঁড়াতে দেয়, কিতাব-জানা হৃদয়ের স্বাভাবিক সাড়া হিসেবে।"
           }
         ]
       },
@@ -1305,7 +1305,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage just before this has the idolaters pressing a demand: why has no sign come down to him from his Lord (29:50)? The answer there is that the signs rest with Allah, and that the Messenger is only a clear warner. Then the Qur'an turns the question back on them: is it not enough for them that We sent down to you the Book, recited to them (29:51)? Ibn Kathir reads this as the Book being itself the great sign, greater than any other, that falsehood cannot reach. This verse is where that argument lands.",
-            "bn": "এ আয়াতের ঠিক আগে মুশরিকরা এক দাবি তুলছে: তার রবের কাছ থেকে কোনো নিদর্শন নাযিল হয় না কেন (২৯:৫০)? সেখানে জবাব আসে, নিদর্শন তো আল্লাহরই কাছে, আর রাসূল কেবল একজন স্পষ্ট সতর্ককারী। এরপর কুরআন প্রশ্নটা তাদের দিকেই ঘুরিয়ে দেয়: এটা কি তাদের জন্য যথেষ্ট নয় যে আমি তোমার প্রতি কিতাব নাযিল করেছি, যা তাদের সামনে পড়া হয় (২৯:৫১)? ইবন কাসীর বলছেন, কিতাবই এখানে সেই মহা নিদর্শন, সব নিদর্শনের চেয়ে বড়, যার কাছে মিথ্যা ঘেঁষতে পারে না। এই আয়াতেই এই যুক্তিটা এসে থামে।"
+            "bn": "এ আয়াতের ঠিক আগে মুশরিকরা এক দাবি তুলছে: তার রবের কাছ থেকে কোনো নিদর্শন নাজিল হয় না কেন (২৯:৫০)? সেখানে জবাব আসে, নিদর্শন তো আল্লাহরই কাছে, আর রাসূল কেবল একজন স্পষ্ট সতর্ককারী। এরপর কুরআন প্রশ্নটা তাদের দিকেই ঘুরিয়ে দেয়: এটা কি তাদের জন্য যথেষ্ট নয় যে আমি তোমার প্রতি কিতাব নাজিল করেছি, যা তাদের সামনে পড়া হয় (২৯:৫১)? ইবন কাসীর বলছেন, কিতাবই এখানে সেই মহা নিদর্শন, সব নিদর্শনের চেয়ে বড়, যার কাছে মিথ্যা ঘেঁষতে পারে না। এই আয়াতেই এই যুক্তিটা এসে থামে।"
           },
           {
             "en": "So when this verse opens with Say, the command answers people who would not accept the Book as proof and kept asking for something else. At-Tabari frames the address exactly this way: say to those of your people who deny Our signs and ask why a sign has not come down. The verse does not produce a new miracle for them. It calls a Witness instead. The matter moves from what they are willing to accept to what Allah already knows, and that shift is the whole point.",
