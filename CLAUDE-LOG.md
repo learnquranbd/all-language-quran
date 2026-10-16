@@ -12,17 +12,20 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## Usage at last check (2026-10-15, end of session): BUDGET [claude-max] 5h 11% (resets Thu 15 Oct, 21:40) | 7d 97% (resets Mon 19 Oct, 16:00). Next: Tadabbur shard 2 packet R7 (tools/bn-review/tad-step.sh 2 <n> after each).
+## Usage at last check (2026-10-16): BUDGET [claude-max] 5h 2% (resets Sat 17 Oct, 00:10) | 7d 35% (resets Mon 19 Oct, 16:00) | data 0 min old | context 10%. Next: Tadabbur shard 3 (bn.js extract js/tadabbur-articles/3.js TADABBUR_ARTICLES@3 100; packets reviewed in parallel, saved in order with tad-step.sh).
 
 ## Tadabbur articles Bengali review (2026-10-15, user: "run one by one, save after each")
 - Last Bengali module: js/tadabbur-articles/*.js, 25,527 pairs / 114 shards, 605 dash hits. bn.js now takes
   TADABBUR_ARTICLES@<surah> (extract js/tadabbur-articles/<s>.js TADABBUR_ARTICLES@<s> 100). Order by hits:
   2 3 17 16 18 21 4 6 20 33 39 7 10 14 ... One agent per 100-pair packet, sequential; apply --write + test +
   commit after EVERY packet (local commit = saved state). Bump/push/deploy at the end of each shard.
-- At shard end: normalise spellings across the shard (হাদীস→হাদিস, নামায→নামাজ, নাযিল→নাজিল; rewritten strings already use them).
+- At shard end: normalise spellings across the shard (হাদীস→হাদিস, নামায→নামাজ, নাযিল→নাজিল, ওহী→ওহি, রোযা→রোজা, ফরয→ফরজ, রমযান→রমজান; rewritten strings already use them).
 - Open EN: 2:97-98 s3.p2 says 2:98 answers "in the first person"; the verse names Allah in the third person (BN says আল্লাহর নিজের পক্ষ থেকে).
 - Open EN: 2:113-114 s5.p0 "almost never that specific" reads as "never starts that sweeping" (BN says ঢালাও).
 - Open EN: 2:132-133 s4.p1 "Two prophets turn the command into a request": the second example is Fir'awn's magicians (7:126), not a prophet.
+- Open EN: 2:186 s2.p1 calls ujibu and yastajibu "the same verb": same root, different forms (IV vs X).
+- Open EN: 2:240-242 s2.p1 "Yet Al-Bukhari records from Mujahid himself" follows the paragraph keeping the verse in force; the "Yet" only contrasts with the previous paragraph (Mujahid among those who held it abrogated).
+- Shard 2 DONE v981 (12/12 packets + spelling pass: হাদিস নামাজ নাজিল ওহি রোজা ফরজ রমজান, 136 swaps). 2:177 s1.p1 / s2.p2 have Bengali-only notes on the app's BN translation (deliberate, kept).
 - Progress (shard: packets done): 2: 12/12
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
