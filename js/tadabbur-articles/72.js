@@ -273,11 +273,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "“Those of the devils who had set out towards Tihama, went to Allah's Messenger (ﷺ) at Nakhla (a place between Mecca and Taif) while he was on his way to 'Ukaz Market. (They met him) while he was offering the Fajr prayer with his companions. When they heard the Holy Qur'an being recited (by Allah's Messenger (ﷺ)), they listened to it and said (to each other), ‘This is the thing which has intervened between you and the news of the Heavens.’",
-            "bn": "“যারা তিহামার দিকে গিয়েছিল, তারা নাখলায় রাসূলুল্লাহ ﷺ-এর কাছে এসে পৌঁছল। নাখলা মক্কা আর তায়েফের মাঝের এক জায়গা। তিনি তখন উকায বাজারের পথে, সাহাবিদের নিয়ে ফজরের নামায পড়ছিলেন। কুরআনের তিলাওয়াত কানে আসতেই তারা মন দিয়ে শুনল, তারপর একে অন্যকে বলল, ‘এটাই সেই জিনিস, যা তোমাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে।’"
+            "bn": "“যারা তিহামার দিকে গিয়েছিল, তারা নাখলায় রাসূলুল্লাহ ﷺ-এর কাছে এসে পৌঁছল। নাখলা মক্কা আর তায়েফের মাঝের এক জায়গা। তিনি তখন উকায বাজারের পথে, সাহাবিদের নিয়ে ফজরের নামাজ পড়ছিলেন। কুরআনের তিলাওয়াত কানে আসতেই তারা মন দিয়ে শুনল, তারপর একে অন্যকে বলল, ‘এটাই সেই জিনিস, যা তোমাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে।’"
           },
           {
             "en": "“Then they returned to their people and said, ‘O our people! We have really heard a wonderful recital (Qur'an). It gives guidance to the right, and we have believed therein. We shall not join in worship, anybody with our Lord.’ Then Allah revealed to His Prophet (Surat al-Jinn): ‘Say: It has been revealed to me that a group of Jinns listened (to the Qur'an).’ The statement of the Jinns was revealed to him.”",
-            "bn": "“সেখান থেকে তারা নিজেদের সম্প্রদায়ের কাছে ফিরে গিয়ে বলল, ‘হে আমাদের সম্প্রদায়! আমরা এক বিস্ময়কর কুরআন শুনেছি, যা সঠিক পথ দেখায়। আমরা তাতে ঈমান এনেছি, আমাদের রবের সঙ্গে কাউকে কখনো শরিক করব না।’ তখন আল্লাহ তাঁর নবী ﷺ-এর উপর নাযিল করলেন (সূরা জ্বিন): ‘বলুন, আমার কাছে ওহি এসেছে যে জ্বিনদের একটি দল মনোযোগ দিয়ে শুনেছে।’ তাঁর কাছে আসলে ওহি করা হয়েছিল জ্বিনদের কথাই।”"
+            "bn": "“সেখান থেকে তারা নিজেদের সম্প্রদায়ের কাছে ফিরে গিয়ে বলল, ‘হে আমাদের সম্প্রদায়! আমরা এক বিস্ময়কর কুরআন শুনেছি, যা সঠিক পথ দেখায়। আমরা তাতে ঈমান এনেছি, আমাদের রবের সঙ্গে কাউকে কখনো শরিক করব না।’ তখন আল্লাহ তাঁর নবী ﷺ-এর উপর নাজিল করলেন (সূরা জ্বিন): ‘বলুন, আমার কাছে ওহি এসেছে যে জ্বিনদের একটি দল মনোযোগ দিয়ে শুনেছে।’ তাঁর কাছে আসলে ওহি করা হয়েছিল জ্বিনদের কথাই।”"
           },
           {
             "en": "Al-Bukhari placed it in his Sahih, and that placement is his grading. Its chain runs through Sa'id ibn Jubayr, and at-Tabari, on this very verse, gives a report from Sa'id in the same vein: when the jinn were pelted they said that what had happened in the sky was for something that had happened on earth, and they searched until they saw the Prophet ﷺ leading his companions in the dawn prayer, then went back to their people as warners.",
@@ -313,7 +313,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Jinn opens with an instruction to the Prophet ﷺ: say, it has been revealed to me that a group of the jinn listened and said, we have heard an amazing Qur'an (72:1). What follows is a chain of their own statements, most of them opening with wa-anna, and that we. They say the recitation guides to the right course and that they have believed in it (72:2). Verse 12 is one link in that chain, spoken by the same group in the first person plural.",
-            "bn": "সূরা আল-জিন শুরু হয় নবী ﷺ-এর প্রতি একটি নির্দেশ দিয়ে: বলুন, আমার কাছে ওহী এসেছে যে জিনদের একটি দল মন দিয়ে শুনেছে, তারপর বলেছে, আমরা এক বিস্ময়কর কুরআন শুনেছি (৭২:১)। এরপর আসে তাদের নিজেদের কথার এক লম্বা সারি। বেশিরভাগ কথা শুরু হয় ওয়া আন্না দিয়ে, মানে আর এই যে আমরা। তারা বলে, এই তিলাওয়াত সঠিক পথ দেখায়, আর তারা তাতে ঈমান এনেছে (৭২:২)। ১২ নম্বর আয়াত সেই সারিরই একটি কড়া। বলছে সেই একই দল, বহুবচনে, নিজেদের সম্পর্কে।"
+            "bn": "সূরা আল-জিন শুরু হয় নবী ﷺ-এর প্রতি একটি নির্দেশ দিয়ে: বলুন, আমার কাছে ওহি এসেছে যে জিনদের একটি দল মন দিয়ে শুনেছে, তারপর বলেছে, আমরা এক বিস্ময়কর কুরআন শুনেছি (৭২:১)। এরপর আসে তাদের নিজেদের কথার এক লম্বা সারি। বেশিরভাগ কথা শুরু হয় ওয়া আন্না দিয়ে, মানে আর এই যে আমরা। তারা বলে, এই তিলাওয়াত সঠিক পথ দেখায়, আর তারা তাতে ঈমান এনেছে (৭২:২)। ১২ নম্বর আয়াত সেই সারিরই একটি কড়া। বলছে সেই একই দল, বহুবচনে, নিজেদের সম্পর্কে।"
           },
           {
             "en": "The verses around it set the scene without needing to be unpacked here. Just before, the jinn describe the sky as now guarded (72:8 and 72:9), admit that they do not know what is intended for those on earth (72:10), and say that they themselves are of divided ways (72:11). Just after, they say that when they heard the guidance they believed (72:13). Between that confession of division and that declaration of faith sits this sentence about Allah's power, eleven Arabic words in two balanced halves.",
@@ -321,7 +321,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The voice shapes how the verse should be heard. These are not words Allah addresses to the jinn as a threat; they are words the jinn speak about themselves, made known to the Prophet ﷺ by revelation and recited ever since. The listener overhears a creature of another kind reach a conclusion about its Creator, and is left to test that conclusion against his or her own life.",
-            "bn": "কার মুখের কথা, তা থেকেই বোঝা যায় আয়াতটি কীভাবে শুনতে হবে। এ কথা জিনদের প্রতি আল্লাহর কোনো হুমকি নয়। এ জিনদের নিজেদের সম্পর্কে নিজেদের কথা, যা ওহীর মাধ্যমে নবী ﷺ-কে জানানো হয়েছে আর তখন থেকে তিলাওয়াত হয়ে আসছে। শ্রোতা যেন আড়াল থেকে শোনে, অন্য জাতের এক সৃষ্টি তার স্রষ্টা সম্পর্কে এক সিদ্ধান্তে পৌঁছাচ্ছে। তারপর সেই সিদ্ধান্তকে নিজের জীবনের সঙ্গে মিলিয়ে দেখার দায় থেকে যায় শ্রোতার উপর।"
+            "bn": "কার মুখের কথা, তা থেকেই বোঝা যায় আয়াতটি কীভাবে শুনতে হবে। এ কথা জিনদের প্রতি আল্লাহর কোনো হুমকি নয়। এ জিনদের নিজেদের সম্পর্কে নিজেদের কথা, যা ওহির মাধ্যমে নবী ﷺ-কে জানানো হয়েছে আর তখন থেকে তিলাওয়াত হয়ে আসছে। শ্রোতা যেন আড়াল থেকে শোনে, অন্য জাতের এক সৃষ্টি তার স্রষ্টা সম্পর্কে এক সিদ্ধান্তে পৌঁছাচ্ছে। তারপর সেই সিদ্ধান্তকে নিজের জীবনের সঙ্গে মিলিয়ে দেখার দায় থেকে যায় শ্রোতার উপর।"
           }
         ]
       },
@@ -357,7 +357,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "In al-Qurtubi's and as-Sa'di's wording, then, this is certainty that was reached, not merely received. At-Tabari closes his short comment with a sentence that sums up the whole verse: they described Allah as having power over them wherever they were, haythu kanu. That phrase will return below. None of the commentaries fetched for this verse attaches a hadith to it, so none is cited here, and none of them gives an occasion of revelation for it.",
-            "bn": "কুরতুবী আর সা'দীর ভাষা তাই বলে, এই নিশ্চয়তা কারও কাছ থেকে শুধু শুনে পাওয়া নয়, ভেবে পৌঁছানো। তাবারী তাঁর সংক্ষিপ্ত মন্তব্য শেষ করেন এমন এক বাক্যে, যা পুরো আয়াতের সারকথা: তারা আল্লাহকে এমনভাবে বর্ণনা করেছে যে তারা যেখানেই থাকুক, তিনি তাদের উপর ক্ষমতাবান। এই কথাটায় নিচে আবার ফিরব। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হচ্ছে না। নাযিলের কোনো উপলক্ষও তাঁরা উল্লেখ করেননি।"
+            "bn": "কুরতুবী আর সা'দীর ভাষা তাই বলে, এই নিশ্চয়তা কারও কাছ থেকে শুধু শুনে পাওয়া নয়, ভেবে পৌঁছানো। তাবারী তাঁর সংক্ষিপ্ত মন্তব্য শেষ করেন এমন এক বাক্যে, যা পুরো আয়াতের সারকথা: তারা আল্লাহকে এমনভাবে বর্ণনা করেছে যে তারা যেখানেই থাকুক, তিনি তাদের উপর ক্ষমতাবান। এই কথাটায় নিচে আবার ফিরব। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হচ্ছে না। নাজিলের কোনো উপলক্ষও তাঁরা উল্লেখ করেননি।"
           }
         ]
       },
@@ -621,7 +621,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The exception is not a handing over of the whole. At-Tabari and al-Qurtubi both say the messenger is shown ma yasha', what He wills; the Muyassar says He acquaints them with ba'd al-ghayb, some of the unseen. Ma'arif al-Qur'an draws the line in so many words: the verse affirms total knowledge of the unseen for Allah and negates such total knowledge for anyone else. The messenger knows what he is told, when he is told it, and that is why 72:25 could say, I do not know.",
-            "bn": "ব্যতিক্রম মানে পুরো জ্ঞান তুলে দেওয়া নয়। তাবারী ও কুরতুবী দুজনেই বলেন, রসূলকে দেখানো হয় মা ইয়াশা, অর্থাৎ তিনি যতটুকু চান। মুয়াসসার বলে, তিনি তাঁদের জানান বা'দাল গাইব, অদৃশ্যের কিছু অংশ। মাআরিফুল কুরআন সীমাটা স্পষ্ট করেই টানে। আয়াতটি পূর্ণ অদৃশ্যজ্ঞান আল্লাহর জন্য সাব্যস্ত করে, আর অন্য সবার জন্য তা অস্বীকার করে। রসূল ততটুকুই জানেন, যতটুকু তাঁকে জানানো হয়, যখন জানানো হয়। এ কারণেই ৭২:২৫-এ বলা সম্ভব হয়েছে: আমি জানি না।"
+            "bn": "ব্যতিক্রম মানে পুরো জ্ঞান তুলে দেওয়া নয়। তাবারী ও কুরতুবী দুজনেই বলেন, রাসূলকে দেখানো হয় মা ইয়াশা, অর্থাৎ তিনি যতটুকু চান। মুয়াসসার বলে, তিনি তাঁদের জানান বা'দাল গাইব, অদৃশ্যের কিছু অংশ। মাআরিফুল কুরআন সীমাটা স্পষ্ট করেই টানে। আয়াতটি পূর্ণ অদৃশ্যজ্ঞান আল্লাহর জন্য সাব্যস্ত করে, আর অন্য সবার জন্য তা অস্বীকার করে। রাসূল ততটুকুই জানেন, যতটুকু তাঁকে জানানো হয়, যখন জানানো হয়। এ কারণেই ৭২:২৫-এ বলা সম্ভব হয়েছে: আমি জানি না।"
           },
           {
             "en": "Who is the messenger meant? Here the sources part ways. Al-Qurtubi reports from Sa'id ibn Jubayr that the approved messenger is Jibril (AS), then calls this remote, preferring the meaning that Allah discloses His unseen to whomever He has chosen for prophethood, as a proof of that prophethood. Ibn Kathir reads the word more widely: it includes, he says, the angelic messenger and the human messenger. The two readings are set down here side by side, without a verdict between them.",
@@ -641,7 +641,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari includes it in his Sahih, and the five keys are named in the words of 31:34. Ibn Kathir, on 72:25, notes how the Prophet ﷺ himself met the question: when he was asked about the time of the Hour, he would not answer it. The verse and the narration point the same way. The Messenger ﷺ, to whom the revelation came, was also careful to say where his knowledge stopped, and he did not fill the silence with a guess.",
-            "bn": "বুখারী হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন, আর পাঁচটি চাবির নাম এসেছে ৩১:৩৪ আয়াতের ভাষাতেই। ইবন কাসীর ৭২:২৫-এর আলোচনায় দেখান, নবী ﷺ নিজে প্রশ্নটার মুখোমুখি হতেন কীভাবে। কিয়ামতের সময় নিয়ে তাঁকে জিজ্ঞেস করা হলে তিনি তার জবাব দিতেন না। আয়াত আর হাদীস একই দিকে ইশারা করে। যাঁর কাছে ওহী আসত, সেই রসূল ﷺ নিজের জ্ঞানের সীমা কোথায়, তা বলতেও সাবধান ছিলেন। নীরবতার জায়গাটা তিনি অনুমান দিয়ে ভরাট করেননি।"
+            "bn": "বুখারী হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন, আর পাঁচটি চাবির নাম এসেছে ৩১:৩৪ আয়াতের ভাষাতেই। ইবন কাসীর ৭২:২৫-এর আলোচনায় দেখান, নবী ﷺ নিজে প্রশ্নটার মুখোমুখি হতেন কীভাবে। কিয়ামতের সময় নিয়ে তাঁকে জিজ্ঞেস করা হলে তিনি তার জবাব দিতেন না। আয়াত আর হাদিস একই দিকে ইশারা করে। যাঁর কাছে ওহি আসত, সেই রাসূল ﷺ নিজের জ্ঞানের সীমা কোথায়, তা বলতেও সাবধান ছিলেন। নীরবতার জায়গাটা তিনি অনুমান দিয়ে ভরাট করেননি।"
           }
         ]
       },
