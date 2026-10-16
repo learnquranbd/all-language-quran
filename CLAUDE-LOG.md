@@ -12,7 +12,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## Usage at last check (2026-10-16): BUDGET [claude-max] 5h 4% (resets Sat 17 Oct, 00:10) | 7d 35% (resets Mon 19 Oct, 16:00) | data 0 min old | context 13%. Next: Tadabbur shard 17 (extract, review packets in parallel, save in order with tad-step.sh, spelling pass, bump). v981+v982 NOT pushed/deployed (auto-mode classifier blocked deploy; user to run push + firebase deploy).
+## Usage at last check (2026-10-16): BUDGET [claude-max] 5h 12% (resets Sat 17 Oct, 00:10) | 7d 37% (resets Mon 19 Oct, 16:00) | data 0 min old | context 22%. Next: shards 4 + 6 in flight; then 20 33 39 7 10 14 (extract, review packets in parallel, save in order with tad-step.sh, spelling pass, bump). v981-v985 NOT pushed/deployed (auto-mode classifier blocked deploy; user to run push + firebase deploy).
 
 ## Tadabbur articles Bengali review (2026-10-15, user: "run one by one, save after each")
 - Last Bengali module: js/tadabbur-articles/*.js, 25,527 pairs / 114 shards, 605 dash hits. bn.js now takes
@@ -38,6 +38,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - PRIORITY Open EN (18): 18:2 s3.p0 says at 3:175 "Allah frightens His enemies"; in 3:175 it is Satan who frightens [you] with his allies. BN leaves the frightener unnamed.
 - Open EN (18/21): 18:99 s5.p0 "two further verses" then lists three (56:49, 56:50, 18:47); 21:105 s7.p1 says the verse "closes a surah" (7 verses before the end; BN says near its end).
 - Open EN (21): 21:7 s0.p2 "A line before, in 21:5" (two verses before); 21:47-48 s2.p1 "the first view" ambiguous (metaphor view given first); 21:25 s7.h "One Lord, One Ear" doesn't match its section.
+- Shards 18 + 21 DONE v985. Open EN (18): 18:57 s2.p1 "he left off his disbelief and his sins and did not repent" reads as gave them up (Qurtubi: left them unaddressed).
 - Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
