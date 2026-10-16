@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is a reading of a word, not a lesson in weather, and as-Sa'di does not develop it further. Still, it sets a frame worth keeping for the rest of the oath. What is sworn by here is not a rare or frightening sight. It is the commonest movement in the visible world, something a person feels on the skin many times a day without remarking on it. The oath takes the ordinary, holds it up, and asks the hearer to look at it again.",
-            "bn": "এটি একটি শব্দের ব্যাখ্যা, আবহাওয়ার পাঠ নয়। সা'দী একে আর বিস্তারিত করেননি। তবু শপথের বাকি অংশ পড়ার সময় এই কাঠামোটা মনে রাখার মতো। এখানে যার শপথ করা হচ্ছে, তা কোনো বিরল বা ভয়ংকর দৃশ্য নয়। দৃশ্যমান জগতে এর চেয়ে সাধারণ নড়াচড়া আর নেই। দিনে বহুবার মানুষের গায়ে লাগে, কেউ খেয়ালও করে না। শপথটি এই সাধারণ জিনিসকেই তুলে ধরে, আর শ্রোতাকে বলে: আরেকবার তাকিয়ে দেখো।"
+            "bn": "এ হলো একটা শব্দের ব্যাখ্যা, আবহাওয়ার পাঠ নয়। সা'দী একে আর বিস্তারিত করেননি। তবু শপথের বাকি অংশ পড়ার সময় এই দৃষ্টিটা মনে রাখার মতো। এখানে যার শপথ করা হচ্ছে, তা কোনো বিরল বা ভয়ংকর দৃশ্য নয়। দৃশ্যমান জগতে এর চেয়ে সাধারণ নড়াচড়া আর নেই। দিনে বহুবার মানুষের গায়ে লাগে, কেউ খেয়ালও করে না। শপথটি এই সাধারণ জিনিসকেই তুলে ধরে, আর শ্রোতাকে বলে: আরেকবার তাকিয়ে দেখো।"
           }
         ]
       },
@@ -97,14 +97,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This needs saying plainly. These reports describe one man's case in the first generation, judged by the caliph of that time, and al-Qurtubi presents it ungraded. They license nothing against any living person who asks about the Qur'an. No one today may punish, shame or shut out a questioner by appeal to them. What they set beside the verse is a question about the asker's aim. The same words can be asked to understand or asked to unsettle, and 'Ali's answer names the first as the way to ask.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। এ বর্ণনাগুলো প্রথম প্রজন্মের এক ব্যক্তির ঘটনা, যার বিচার করেছিলেন তখনকার খলীফা। কুরতুবী বর্ণনাটি এনেছেন মান উল্লেখ না করেই। কুরআন নিয়ে প্রশ্ন করে এমন কোনো জীবিত মানুষের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। আজ এর দোহাই দিয়ে কোনো প্রশ্নকারীকে শাস্তি দেওয়া, অপমান করা বা দূরে ঠেলে দেওয়ার অধিকার কারও নেই। এগুলো আয়াতের পাশে একটি প্রশ্নই রেখে যায়: প্রশ্নকারীর উদ্দেশ্য কী? একই কথা জিজ্ঞেস করা যায় বোঝার জন্য, আবার কাউকে টলিয়ে দেওয়ার জন্যও। আলীর জবাব প্রথম পথটিকেই প্রশ্ন করার সঠিক পথ বলে দেখিয়ে দেয়।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ বর্ণনাগুলো প্রথম প্রজন্মের এক ব্যক্তির ঘটনা, যার বিচার করেছিলেন তখনকার খলীফা। কুরতুবী বর্ণনাটি এনেছেন মান উল্লেখ না করেই। কুরআন নিয়ে প্রশ্ন করে এমন কোনো জীবিত মানুষের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। আজ এর দোহাই দিয়ে কোনো প্রশ্নকারীকে শাস্তি দেওয়া, অপমান করা বা দূরে ঠেলে দেওয়ার অধিকার কারও নেই। এগুলো আয়াতের পাশে একটি প্রশ্নই রেখে যায়: প্রশ্নকারীর উদ্দেশ্য কী? একই কথা জিজ্ঞেস করা যায় বোঝার জন্য, আবার কাউকে টলিয়ে দেওয়ার জন্যও। আলীর জবাব বলে দেয়, প্রশ্ন করার সঠিক পথ প্রথমটিই।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Reports Carry",
-          "bn": "বর্ণনাগুলো যা বহন করে"
+          "bn": "বর্ণনাগুলোতে কী আছে"
         },
         "p": [
           {
@@ -113,7 +113,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an adds a note on the source of this explanation. It says there is a hadith explaining the four in this way whose ascription to the Prophet ﷺ Ibn Kathir held weak, and that it is also reported as a saying of 'Umar and 'Ali (RA). The portion of Ibn Kathir fetched for this verse does not reach that report, so it is not quoted. No fetched tafsir attaches a hadith from the standard collections to this verse, and this article cites none.",
-            "bn": "এ ব্যাখ্যার উৎস নিয়ে মাআরিফুল কুরআন একটি কথা যোগ করে। তার ভাষায়, চারটি জিনিসের এই ব্যাখ্যা একটি হাদীসেও আছে, যা নবী ﷺ-এর কথা হিসেবে বর্ণিত হওয়াকে ইবন কাসীর দুর্বল বলেছেন। তবে উমর ও আলী (রাঃ)-এর কথা হিসেবেও এটি বর্ণিত। এ আয়াতের জন্য ইবন কাসীরের যতটুকু দেখা হয়েছে, তাতে সেই বর্ণনা নেই, তাই এখানে তা উদ্ধৃত করা হলো না। দেখা কোনো তাফসীরই এ আয়াতের সঙ্গে প্রসিদ্ধ হাদীসগ্রন্থগুলোর কোনো হাদীস যুক্ত করেনি। এ লেখাতেও কোনো হাদীস উদ্ধৃত হয়নি।"
+            "bn": "এ ব্যাখ্যার উৎস নিয়ে মাআরিফুল কুরআন একটি কথা যোগ করে। চারটি জিনিসের এই ব্যাখ্যা একটি হাদিসেও এসেছে, তবে নবী ﷺ পর্যন্ত এর সূত্রকে ইবন কাসীর দুর্বল বলেছেন। আর উমর ও আলী (রাঃ)-এর কথা হিসেবেও এটি বর্ণিত আছে। এ আয়াতের জন্য ইবন কাসীরের যতটুকু দেখা হয়েছে, তাতে সেই বর্ণনা নেই, তাই এখানে তা উদ্ধৃত করা হলো না। দেখা কোনো তাফসীরই এ আয়াতের সঙ্গে প্রসিদ্ধ হাদিসগ্রন্থের কোনো হাদিস জুড়ে দেয়নি। এ লেখাতেও কোনো হাদিস উদ্ধৃত হয়নি।"
           }
         ]
       },
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Muyassar holds oath and answer together in a single sentence: Allah swore by the winds that stir up dust, and by what follows, that what you are promised, O people, of resurrection and reckoning is a certain truth. Al-Qurtubi names the answer as 51:5. On why created things are sworn by, the sources here give only al-Qurtubi's honour and as-Sa'di's benefit and proof, and the article stops where they stop.",
-            "bn": "মুয়াসসার শপথ আর তার জবাবকে এক বাক্যেই ধরে রাখে: আল্লাহ শপথ করেছেন ধুলো ওড়ানো বাতাসের আর পরের জিনিসগুলোর, যে হে মানুষ, পুনরুত্থান ও হিসাবের যে ওয়াদা তোমাদের দেওয়া হয়েছে, তা নিশ্চিত সত্য। কুরতুবী জবাবটি চিহ্নিত করেন ৫১:৫ আয়াতে। সৃষ্টির শপথ কেন, এ প্রশ্নে এখানকার উৎসগুলো শুধু কুরতুবীর মর্যাদার কথা আর সা'দীর কল্যাণ ও প্রমাণের কথা দিয়েছে। তাঁরা যেখানে থেমেছেন, এ লেখাও সেখানে থামছে।"
+            "bn": "মুয়াসসার শপথ আর তার জবাব এক বাক্যেই ধরে রাখে: আল্লাহ ধুলো ওড়ানো বাতাসের শপথ করেছেন, পরের জিনিসগুলোরও, এই কথার উপর যে, হে মানুষ, পুনরুত্থান ও হিসাবের যে ওয়াদা তোমাদের দেওয়া হয়েছে, তা নিশ্চিত সত্য। কুরতুবী জবাবটি চিহ্নিত করেন ৫১:৫ আয়াতে। সৃষ্টির শপথ কেন, এ প্রশ্নে এখানকার উৎসগুলো শুধু দুটি কথা দিয়েছে: কুরতুবীর মর্যাদার কথা, আর সা'দীর কল্যাণ ও প্রমাণের কথা। তাঁরা যেখানে থেমেছেন, এ লেখাও সেখানে থামছে।"
           }
         ]
       },
@@ -149,7 +149,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the view is recorded, not adopted. Against it stands the reading at-Tabari reports from 'Ali, Ibn 'Abbas and Mujahid, which every other source here repeats. It is set down only so that the record of what al-Qurtubi gives is complete. A reader who meets it elsewhere will know how it was introduced: as something said, after the agreed reading.",
-            "bn": "অর্থাৎ মতটি লিখে রাখা হয়েছে, গ্রহণ করা হয়নি। এর বিপরীতে আছে সেই অর্থ, যা তাবারী আলী, ইবন আব্বাস ও মুজাহিদ থেকে বর্ণনা করেছেন, আর এখানকার বাকি সব উৎস যা দোহরায়। কুরতুবী যা দিয়েছেন, তার পূর্ণ চিত্র রাখতেই শুধু এটি উল্লেখ করা হলো। পাঠক অন্য কোথাও এ মত পেলে জানবেন, এটি এসেছিল 'বলা হয়েছে' হিসেবে, সর্বসম্মত অর্থের পরে।"
+            "bn": "অর্থাৎ মতটি লিখে রাখা হয়েছে, গ্রহণ করা হয়নি। এর বিপরীতে আছে সেই অর্থ, যা তাবারী আলী, ইবন আব্বাস ও মুজাহিদ থেকে বর্ণনা করেছেন। এখানকার বাকি সব উৎসও সেটাই বলে। কুরতুবী যা দিয়েছেন, তার পূর্ণ চিত্র রাখতেই শুধু এটি উল্লেখ করা হলো। পাঠক অন্য কোথাও এ মত পেলে জানবেন, এটি এসেছিল 'বলা হয়েছে' হিসেবে, সর্বসম্মত অর্থের পরে।"
           }
         ]
       },
@@ -161,7 +161,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nobody sees the wind. It is known by what it moves: the dust that rises, the cloth that fills, the grass that bends together. The commentators gloss the verse by the act and supply the actor, and the oath asks the hearer to read the world the same way, to notice the movement and not stop at it. As-Sa'di's soft and strong fits what anyone has felt. The air that cools a face at evening is the same air that lifts a roof in a storm.",
-            "bn": "বাতাস কেউ দেখে না। তাকে চেনা যায় সে যা নাড়ায় তা দিয়ে: ধুলো ওঠে, কাপড় ফুলে ওঠে, ঘাস একসঙ্গে নুয়ে পড়ে। মুফাসসিররা আয়াতের ব্যাখ্যা দেন কাজটা দিয়ে, তারপর যে করছে তাকে চিনিয়ে দেন। শপথটা শ্রোতাকে দুনিয়াকেও এভাবেই পড়তে বলে: নড়াচড়াটা খেয়াল করো, কিন্তু সেখানেই থেমে যেয়ো না। সা'দীর নরম আর প্রবলের কথা যে কেউ নিজের গায়ে টের পেয়েছে। সন্ধ্যায় যে হাওয়া মুখ জুড়িয়ে দেয়, ঝড়ের রাতে সেই হাওয়াই ঘরের চাল উড়িয়ে নেয়।"
+            "bn": "বাতাস কেউ দেখে না। তাকে চেনা যায় সে যা নাড়ায় তা দিয়ে: ধুলো ওঠে, কাপড় ফুলে ওঠে, ঘাস একসঙ্গে নুয়ে পড়ে। মুফাসসিররা আয়াতের ব্যাখ্যা দেন কাজটা দিয়ে, তারপর যে করছে তাকে চিনিয়ে দেন। শপথটা শ্রোতাকে দুনিয়াকেও এভাবেই পড়তে বলে: নড়াচড়াটা খেয়াল করো, কিন্তু সেখানেই থেমে যেয়ো না। সা'দীর নরম আর প্রবলের কথা যে কেউ নিজের গায়ে টের পেয়েছে। সন্ধ্যায় যে হাওয়া মুখ জুড়িয়ে দেয়, ঝড়ের সময় সেই হাওয়াই ঘরের চাল উড়িয়ে নেয়।"
           },
           {
             "en": "Two things stay with the reader. One is the oath, which in every source fetched here is set to make a promise certain, the promise that 51:5 states. The other is the scene at Kufa. The verse was asked about by someone who, by at-Tabari's report, meant to test, and the answer named a better way to ask. The surah's first words invite a person to look and to ask, and the reports attached to them require only that the looking and the asking be done in order to understand.",
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari ties the verse straight back to the ones before it: these kharrasun, whose description Allah has just given, ask when the Day of requital and reckoning will be. Ma'arif al-Qur'an, treating 51:10 to 51:16 together, explains kharrasun as the plural of kharras, someone who estimates or says things by conjecture. In this setting, it says, the word refers to stubborn disbelievers who said discordant things about the Messenger ﷺ without reason or evidence. It adds that kharrasun would not be out of place read as kadhdhabun, great liars, as those that statement condemns.",
-            "bn": "তাবারী আয়াতটিকে সরাসরি আগের আয়াতগুলোর সঙ্গে জুড়ে দেন: যাদের পরিচয় আল্লাহ এইমাত্র দিয়েছেন, সেই খাররাসূনরাই জানতে চায় প্রতিদান আর হিসাবের দিন কবে। মাআরিফুল কুরআন ৫১:১০ থেকে ৫১:১৬ পর্যন্ত আয়াত একসঙ্গে আলোচনা করে। তার ব্যাখ্যায় খাররাসূন হলো খাররাস শব্দের বহুবচন, অর্থাৎ যে আন্দাজে হিসাব কষে বা অনুমানে কথা বলে। এখানে শব্দটি সেই একগুঁয়ে কাফিরদের বোঝায়, যারা কোনো যুক্তি বা প্রমাণ ছাড়াই রাসূল ﷺ সম্পর্কে পরস্পরবিরোধী কথা বলত। মাআরিফ আরও বলে, খাররাসূনকে কাযযাবূন অর্থাৎ ডাহা মিথ্যাবাদী অর্থে নেওয়া অসংগত হবে না, ওই ঘোষণায় যাদের ধিক্কার দেওয়া হয়েছে।"
+            "bn": "তাবারী আয়াতটিকে সরাসরি আগের আয়াতগুলোর সঙ্গে জুড়ে দেন: যাদের পরিচয় আল্লাহ এইমাত্র দিয়েছেন, সেই খাররাসূনরাই জানতে চায় প্রতিদান আর হিসাবের দিন কবে। মাআরিফুল কুরআন ৫১:১০ থেকে ৫১:১৬ পর্যন্ত আয়াত একসঙ্গে আলোচনা করে। তার ব্যাখ্যায় খাররাসূন হলো খাররাস শব্দের বহুবচন, অর্থাৎ যে আন্দাজে হিসাব কষে বা অনুমানে কথা বলে। এখানে শব্দটি সেই একগুঁয়ে কাফিরদের বোঝায়, যারা কোনো যুক্তি বা প্রমাণ ছাড়াই রাসূল ﷺ সম্পর্কে পরস্পরবিরোধী কথা বলত। মাআরিফ আরও বলে, ওই ঘোষণা যাদের ধিক্কার দিয়েছে, তাদের বেলায় খাররাসূনকে কাযযাবূন, অর্থাৎ ডাহা মিথ্যাবাদী অর্থে নিলেও বেমানান হবে না।"
           },
           {
             "en": "Al-Muyassar uses that harsher word on its own account: these liars, al-kadhdhabun, ask. At-Tabari also preserves the view of Ibn Zayd, who said the askers were those who used to deny that they would be requited or raised. Al-Baghawi supplies the person they were speaking to. In his wording they say, O Muhammad, when is the Day of Recompense? The question is put to the Prophet ﷺ himself, the man who brought them the news of that Day and was mocked for it.",
@@ -205,7 +205,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The kharrasun deserve a study of their own, and this article only touches them. What matters here is the link the commentators draw between those people and this question. None of these texts treats the asking as separate from the conjecture of 51:10. The people who guessed about the Messenger ﷺ without evidence now guess about the Day, and their question carries the guess inside it. Asking when is their way of saying that they have already decided the answer is never.",
-            "bn": "খাররাসূনদের নিয়ে আলাদা আলোচনা হতে পারে, এখানে শুধু ছুঁয়ে যাওয়া হলো। এখানে যা জরুরি, তা হলো তাফসীরকারেরা ওই লোকদের সঙ্গে এই প্রশ্নের যে যোগসূত্র টানেন। এসব লেখার কোথাও প্রশ্ন করাটাকে ৫১:১০ আয়াতের আন্দাজবাজি থেকে আলাদা করে দেখা হয়নি। যারা প্রমাণ ছাড়া রাসূল ﷺ সম্পর্কে আন্দাজে কথা বলত, তারাই এখন আন্দাজ করে সেই দিন নিয়ে। তাদের প্রশ্নের ভেতরেই লুকিয়ে আছে সেই আন্দাজ। কবে, এই জিজ্ঞাসা আসলে তাদের মনের সিদ্ধান্তেরই প্রকাশ: সে দিন কখনো আসবে না।"
+            "bn": "খাররাসূনদের নিয়ে আলাদা আলোচনা হতে পারে, এখানে শুধু ছুঁয়ে যাওয়া হলো। এখানে জরুরি হলো, তাফসীরকারেরা ওই লোকদের সঙ্গে এই প্রশ্নকে কীভাবে জুড়ে দেন। এসব লেখার কোথাও প্রশ্ন করাটাকে ৫১:১০ আয়াতের আন্দাজবাজি থেকে আলাদা করে দেখা হয়নি। যারা প্রমাণ ছাড়া রাসূল ﷺ সম্পর্কে আন্দাজে কথা বলত, তারাই এখন আন্দাজ করে সেই দিন নিয়ে। তাদের প্রশ্নের ভেতরেই লুকিয়ে আছে সেই আন্দাজ। কবে, এ প্রশ্ন করে তারা আসলে জানিয়ে দেয়, মনে মনে তারা ঠিক করেই রেখেছে: সে দিন কখনো আসবে না।"
           }
         ]
       },
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Five of the Arabic commentaries fetched for this verse name the motive behind the question outright, and none of them calls it sincere. Ibn Kathir is the most direct: they say this only out of takdhib, 'inad, shakk and istib'ad, that is, denial, obstinacy, doubt and treating the Day as far-fetched. The word only carries weight. It rules out reading the verse as people who simply wanted information and were refused it. The form is a question; the substance, in his reading, is a refusal.",
-            "bn": "এ আয়াতের জন্য আনা আরবি তাফসীরগুলোর পাঁচটি প্রশ্নের পেছনের উদ্দেশ্য সরাসরি বলে দেয়, আর কোনোটিই একে আন্তরিক প্রশ্ন বলে না। ইবন কাসীর সবচেয়ে স্পষ্ট: তারা এ কথা বলে কেবল তাকযীব, ইনাদ, শাক্ক ও ইসতিবআদ থেকে। মানে অস্বীকার, হঠকারিতা, সন্দেহ, আর দিনটিকে অবাস্তব রকম দূরের মনে করা। এখানে 'কেবল' শব্দটাই ভার বহন করে। এতে এমন পাঠের সুযোগ থাকে না যে কিছু লোক নিছক জানতে চেয়েছিল আর তাদের জানানো হয়নি। তাঁর পাঠে বাইরের চেহারা প্রশ্নের, ভেতরের কথা প্রত্যাখ্যান।"
+            "bn": "এ আয়াতের যেসব আরবি তাফসীর আনা হয়েছে, তার পাঁচটিই প্রশ্নের পেছনের উদ্দেশ্য খোলাখুলি বলে দেয়। কোনোটিই একে আন্তরিক প্রশ্ন বলে না। ইবন কাসীর সবচেয়ে স্পষ্ট: তারা এ কথা বলে কেবল তাকযীব, ইনাদ, শাক্ক ও ইসতিবআদ থেকে। মানে অস্বীকার, হঠকারিতা, সন্দেহ, আর দিনটিকে অবাস্তব রকম দূরের মনে করা। এখানে আসল ভার 'কেবল' শব্দটার। এ শব্দের পর এমন পাঠের সুযোগ থাকে না যে কিছু লোক নিছক জানতে চেয়েছিল আর তাদের জানানো হয়নি। তাঁর পাঠে বাইরের চেহারা প্রশ্নের, ভেতরের কথা প্রত্যাখ্যান।"
           },
           {
             "en": "The others name the motive in their own words. Al-Qurtubi says they said it in mockery, istihza', and in doubt about the Resurrection. Al-Baghawi pairs denial with mockery. As-Sa'di says they ask by way of doubt and denial, mustab'idin, holding the thing to be remote. Al-Muyassar calls it su'al istib'ad wa-takdhib, the question of someone who thinks the matter far-fetched and gives it the lie. The vocabulary shifts from commentary to commentary, but none of them reads the asking as innocent.",
@@ -245,7 +245,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This shapes how the verse is heard. The askers were not curious about a date in the abstract. The day they named is, by its own name, a day of accounts. To ask when it comes while doubting that it will come at all is to ask when deeds will be weighed while acting as though they never will be. The irony sits in the phrase itself: they speak the word din, and the word they speak is the answer to their question.",
-            "bn": "আয়াতটা কীভাবে শোনা হবে, এ থেকে তা ঠিক হয়। প্রশ্নকারীদের কৌতূহল কোনো বিমূর্ত তারিখ নিয়ে ছিল না। যে দিনের নাম তারা নিচ্ছে, নামেই তা হিসাবনিকাশের দিন। দিনটা আদৌ আসবে কি না সন্দেহ করতে করতে কবে আসবে জিজ্ঞেস করা মানে জানতে চাওয়া, আমল কবে মাপা হবে, অথচ চলাফেরা এমন যেন কখনো মাপা হবে না। পরিহাসটা শব্দের ভেতরেই। তারা মুখে দীন শব্দ উচ্চারণ করছে, আর ওই শব্দটাই তাদের প্রশ্নের জবাব।"
+            "bn": "আয়াতটা কোন সুরে শুনতে হবে, এটাই তা ঠিক করে দেয়। প্রশ্নকারীদের কৌতূহল কোনো বিমূর্ত তারিখ নিয়ে ছিল না। যে দিনের নাম তারা নিচ্ছে, নামেই তা হিসাবনিকাশের দিন। দিনটা আদৌ আসবে কি না সন্দেহ করতে করতে কবে আসবে জিজ্ঞেস করা মানে জানতে চাওয়া, আমল কবে মাপা হবে, অথচ চলাফেরা এমন যেন কখনো মাপা হবে না। পরিহাসটা শব্দের ভেতরেই। তারা মুখে দীন শব্দ উচ্চারণ করছে, আর ওই শব্দটাই তাদের প্রশ্নের জবাব।"
           }
         ]
       },
@@ -297,7 +297,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Nor does the verse condemn questions about the Last Day as such. Ibn Kathir's word only puts the fault in the motive: they say it only out of denial, obstinacy, doubt and treating it as remote. A believer who wonders about the Day out of fear or longing is not the subject here. What the verse exposes is narrower and more searching: a question used as a shield, asked so that the answer will never have to be lived by.",
-            "bn": "শেষ দিবস নিয়ে প্রশ্ন করাকেও এ আয়াত সাধারণভাবে দোষী করে না। ইবন কাসীরের 'কেবল' শব্দটি দোষ রাখে উদ্দেশ্যের ঘাড়ে: তারা এ কথা বলে কেবল অস্বীকার, হঠকারিতা, সন্দেহ আর দিনটিকে দূরের ভাবা থেকে। যে মুমিন ভয়ে বা আকুলতায় সেই দিনের কথা ভাবেন, তিনি এখানে আলোচ্য নন। আয়াত যা ধরিয়ে দেয়, তা আরও সরু, আরও গভীরে খোঁচা দেওয়া জিনিস: ঢাল হিসেবে ব্যবহার করা প্রশ্ন, যা করা হয় যাতে জবাব অনুযায়ী কখনো জীবন চালাতে না হয়।"
+            "bn": "শেষ দিবস নিয়ে প্রশ্ন করাকেও এ আয়াত সাধারণভাবে দোষী করে না। ইবন কাসীরের 'কেবল' শব্দটি দোষ রাখে উদ্দেশ্যের ঘাড়ে: তারা এ কথা বলে কেবল অস্বীকার, হঠকারিতা, সন্দেহ আর দিনটিকে দূরের ভাবা থেকে। যে মুমিন ভয়ে বা আকুলতায় সেই দিনের কথা ভাবেন, তিনি এখানে আলোচ্য নন। আয়াত যা ধরিয়ে দেয়, তার পরিসর আরও ছোট, কিন্তু খোঁচাটা আরও গভীরে: প্রশ্নকে ঢাল বানানো, যাতে জবাব মেনে কখনো জীবন চালাতে না হয়।"
           }
         ]
       },
@@ -317,7 +317,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The righteous described a few verses later are not shown asking about the date at all. They are shown at night, sleeping little, and at dawn, seeking forgiveness. Whatever they believed about the timing of the Day, it reached their nights before it reached their tongues. That is the quiet contrast the passage sets up, and it leaves every reader with a choice between the two ways of holding the same knowledge.",
-            "bn": "কয়েক আয়াত পরে যে নেককারদের বর্ণনা আসে, তাদের তারিখ নিয়ে কোনো প্রশ্ন করতে দেখানো হয়নি। দেখানো হয়েছে রাতে, অল্প ঘুমে, আর ভোরে, ইস্তিগফাররত অবস্থায়। সেই দিনের সময় নিয়ে তাঁদের বিশ্বাস যা-ই হোক, তা তাঁদের জিভে পৌঁছানোর আগে পৌঁছে গিয়েছিল তাঁদের রাতগুলোতে। এই নীরব বৈপরীত্যই অংশটি গড়ে তোলে। আর একই জ্ঞানকে ধারণ করার দুই পথের মধ্যে বেছে নেওয়ার ভার প্রত্যেক পাঠকের হাতে রেখে যায়।"
+            "bn": "কয়েক আয়াত পরে যে নেককারদের বর্ণনা আসে, তাঁদের তারিখ নিয়ে কোনো প্রশ্ন করতে দেখা যায় না। তাঁদের দেখা যায় রাতে, অল্প ঘুমিয়ে, আর ভোরে, ইস্তিগফার করতে। সেই দিনের সময় নিয়ে তাঁদের বিশ্বাস যা-ই হোক, তা তাঁদের জিভে পৌঁছানোর আগে পৌঁছে গিয়েছিল তাঁদের রাতগুলোতে। অংশটি এভাবেই নিঃশব্দে দুই দলকে মুখোমুখি দাঁড় করায়। একই জ্ঞান দুইভাবে ধরে রাখা যায়, আর কোনটা বেছে নেবেন, সে ভার প্রত্যেক পাঠকের।"
           }
         ]
       }
@@ -369,7 +369,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are al-muttaqin? At-Tabari answers with conduct and a place: those who were mindful of Allah by obeying Him and avoiding disobedience to Him in this world. Ibn Kathir calls them the muttaqun for Allah, Mighty and Majestic, and the Muyassar says simply those who were mindful of Allah. Al-Qurtubi, setting this verse against the ones before it, names them by their faith. Having spoken of the end of the disbelievers, he says, Allah spoke of the end of the believers. His word for the people of this verse is al-mu'minin.",
-            "bn": "মুত্তাকী কারা? তাবারী জবাব দেন আমল আর জায়গা দিয়ে: যারা দুনিয়ায় আল্লাহর আনুগত্য করে আর তাঁর নাফরমানি থেকে দূরে থেকে তাঁকে ভয় করেছে। ইবন কাসীর তাদের বলেন মহান ও মহিমান্বিত আল্লাহর জন্য মুত্তাকী। মুয়াসসার শুধু বলে, যারা আল্লাহকে ভয় করেছে। কুরতুবী এ আয়াতকে আগের আয়াতগুলোর পাশে রেখে তাদের চেনান ঈমান দিয়ে। তাঁর কথায়, কাফিরদের পরিণতির কথা বলার পর আল্লাহ মুমিনদের পরিণতির কথা বললেন। এ আয়াতের মানুষদের জন্য তাঁর শব্দটি হলো আল-মু'মিনীন, মুমিনরা।"
+            "bn": "মুত্তাকী কারা? তাবারী জবাব দেন আমল আর জায়গা দিয়ে: যারা দুনিয়ায় আল্লাহর আনুগত্য করে আর তাঁর নাফরমানি থেকে দূরে থেকে তাঁকে ভয় করেছে। ইবন কাসীর বলেন, তারা মহান ও মহিমান্বিত আল্লাহর মুত্তাকী বান্দা। মুয়াসসার শুধু বলে, যারা আল্লাহকে ভয় করেছে। কুরতুবী এ আয়াতকে আগের আয়াতগুলোর পাশে রেখে তাদের চেনান ঈমান দিয়ে। তাঁর কথায়, কাফিরদের পরিণতির কথা বলার পর আল্লাহ মুমিনদের পরিণতির কথা বললেন। এ আয়াতের মানুষদের জন্য তাঁর শব্দটি হলো আল-মু'মিনীন, মুমিনরা।"
           },
           {
             "en": "As-Sa'di offers an image instead of a definition. The muttaqun, he says, are those for whom taqwa was their shi'ar and obedience to Allah their dithar. Both are words for clothing: the shi'ar is the garment worn against the body, the dithar the one worn over it. On this reading taqwa is the layer closest to the person, unseen by others, and obedience is what covers it and shows. Each needs the other. An inner awareness with nothing over it, or an outward cover with nothing beneath, would be only half dressed.",
@@ -477,27 +477,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah adh-Dhariyat opens with oaths and moves quickly to the Day that is coming. Then it describes the people who are ready for it: at 51:15 they are among gardens and springs, at 51:17 they used to sleep but little of the night, at 51:18 they sought forgiveness in the hours before dawn, and at 51:19 there was a due in their wealth for the one who asked and the one who was deprived. That is the portrait. Only then does the surah turn to the evidence.",
-            "bn": "সূরা আয-যারিয়াত শুরু হয় শপথ দিয়ে, আর দ্রুতই এগিয়ে যায় আগত সেই দিনটির দিকে। এরপর সে বর্ণনা করে সেই মানুষদের যারা তার জন্য প্রস্তুত: 51:15 আয়াতে তারা জান্নাত ও ঝর্ণাধারার মাঝে, 51:17 আয়াতে তারা রাতে সামান্যই ঘুমাত, 51:18 আয়াতে ভোরের আগের প্রহরে ক্ষমা প্রার্থনা করত, আর 51:19 আয়াতে তাদের সম্পদে ছিল প্রার্থী ও বঞ্চিতের হক। এই হলো ছবিটা। এরপরই সূরাটি ফেরে প্রমাণের দিকে।"
+            "bn": "সূরা আয-যারিয়াত শুরু হয় শপথ দিয়ে, তারপর দ্রুত চলে যায় আসন্ন সেই দিনের কথায়। এরপর সূরাটি তুলে ধরে সেই মানুষদের, যারা ওই দিনের জন্য তৈরি। ৫১:১৫ আয়াতে তারা বাগান আর ঝর্ণার মাঝে। ৫১:১৭ আয়াতে তারা রাতে অল্পই ঘুমাত। ৫১:১৮ আয়াতে ভোরের আগের প্রহরে ইস্তিগফার করত। আর ৫১:১৯ আয়াতে তাদের সম্পদে ছিল প্রার্থী ও বঞ্চিতের হক। এই হলো ছবিটা। এরপরই সূরা প্রমাণের দিকে ফেরে।"
           },
           {
             "en": "The order matters. The signs on the earth and in the self are not offered to settle an argument with a sceptic; they are placed just after a description of people who pray at night and give from their wealth. And 51:22 completes the sweep: in the heaven is your provision and whatever you are promised. Earth, then the self, then the sky. The reader is being walked around his own position and shown that there is no direction in which the evidence is absent.",
-            "bn": "ক্রমটা গুরুত্বপূর্ণ। যমীনের ও নিজের ভেতরের নিদর্শনগুলো কোনো সন্দেহবাদীর সঙ্গে তর্ক মেটানোর জন্য পেশ করা হয়নি; সেগুলো রাখা হয়েছে ঠিক সেই মানুষদের বর্ণনার পরে, যারা রাতে নামায পড়ে ও সম্পদ থেকে দেয়। আর 51:22 আয়াত বৃত্তটি পূর্ণ করে: আকাশেই রয়েছে তোমাদের রিযিক আর তোমাদের যা প্রতিশ্রুতি দেওয়া হয়েছে। যমীন, তারপর নিজ সত্তা, তারপর আকাশ। পাঠককে তার নিজের অবস্থানের চারপাশে ঘুরিয়ে দেখানো হচ্ছে যে কোনো দিকেই প্রমাণের অভাব নেই।"
+            "bn": "ক্রমটা গুরুত্বপূর্ণ। যমীনের আর নিজের ভেতরের নিদর্শনগুলো কোনো সন্দেহবাদীর সঙ্গে তর্ক মেটাতে আনা হয়নি। সেগুলো এসেছে ঠিক সেই মানুষদের বর্ণনার পরে, যারা রাতে নামাজ পড়ে আর নিজের সম্পদ থেকে দান করে। আর ৫১:২২ আয়াত চক্রটা পূর্ণ করে: আকাশে আছে তোমাদের রিযিক, আর যার ওয়াদা তোমাদের দেওয়া হয়েছে তা-ও। প্রথমে যমীন, তারপর নিজের সত্তা, তারপর আকাশ। পাঠককে যেন তার নিজের জায়গার চারপাশে ঘুরিয়ে দেখানো হচ্ছে: কোনো দিকেই প্রমাণের অভাব নেই।"
           }
         ]
       },
       {
         "h": {
           "en": "One Sentence, Two Halves",
-          "bn": "একটি বাক্য, দুটি অর্ধেক"
+          "bn": "এক বাক্যের দুই ভাগ"
         },
         "p": [
           {
             "en": "In the Arabic, 51:21 does not repeat the word for signs. It reads simply wa fi anfusikum, and in your own selves, hanging on the clause before it. Grammatically the self is not a second topic; it is a second location for the same signs. Anyone splitting these two lines into separate lessons is cutting a sentence in half. What is on the earth and what is in you are being named in one breath as the same kind of evidence.",
-            "bn": "আরবিতে 51:21 আয়াত 'নিদর্শন' শব্দটি আবার বলে না। সেখানে কেবল আছে ওয়া ফী আনফুসিকুম — আর তোমাদের নিজেদের মধ্যে — যা আগের বাক্যাংশের ওপর ঝুলে থাকে। ব্যাকরণগতভাবে নিজ সত্তা এখানে দ্বিতীয় কোনো প্রসঙ্গ নয়; এটি একই নিদর্শনের দ্বিতীয় ঠিকানা। যিনি এই দুই পঙ্‌ক্তিকে আলাদা দুটি শিক্ষায় ভাগ করেন, তিনি একটি বাক্যকে মাঝখান থেকে কাটছেন। যমীনে যা আছে আর তোমার ভেতরে যা আছে — একই নিঃশ্বাসে দুটিকে একই ধরনের প্রমাণ বলা হচ্ছে।"
+            "bn": "আরবিতে ৫১:২১ আয়াতে 'নিদর্শন' শব্দটি আর আসেনি। আছে শুধু ওয়া ফী আনফুসিকুম, আর তোমাদের নিজেদের মধ্যে। কথাটা ঝুলে আছে আগের বাক্যাংশের উপর। ব্যাকরণের দিক থেকে নিজের সত্তা এখানে নতুন কোনো প্রসঙ্গ নয়, বরং একই নিদর্শনের দ্বিতীয় ঠিকানা। এই দুই আয়াতকে যিনি আলাদা দুটি শিক্ষায় ভাগ করেন, তিনি আসলে একটা বাক্যকে মাঝখান দিয়ে কেটে ফেলেন। যমীনে যা আছে আর আপনার ভেতরে যা আছে, দুটোকে এক নিঃশ্বাসে একই ধরনের প্রমাণ বলা হচ্ছে।"
           },
           {
             "en": "The person addressed also changes. 51:20 speaks about the muqinin in the third person, those settled in certainty; 51:21 turns and addresses you directly, and ends with a question: afala tubsirun, will you not then see? The closing verb is about looking, not about proving. The complaint the verse lodges is not that the evidence is thin. It is that a man can carry the evidence around inside his own skin for seventy years and never once look at it.",
-            "bn": "সম্বোধিত ব্যক্তিও বদলে যায়। 51:20 আয়াত মুক্বিনীনদের কথা বলে তৃতীয় পুরুষে — যারা দৃঢ় প্রত্যয়ে থিতু; আর 51:21 আয়াত ঘুরে সরাসরি তোমাকেই সম্বোধন করে, এবং শেষ হয় একটি প্রশ্নে: আফালা তুবসিরূন — তবু কি তোমরা দেখবে না? শেষ ক্রিয়াপদটি দেখা নিয়ে, প্রমাণ করা নিয়ে নয়। আয়াতটির অভিযোগ এই নয় যে প্রমাণ কম। অভিযোগ হলো, একজন মানুষ সত্তর বছর ধরে নিজের চামড়ার ভেতরে প্রমাণটি বয়ে বেড়াতে পারে অথচ একবারও সেদিকে তাকায় না।"
+            "bn": "কাকে বলা হচ্ছে, সেটাও বদলে যায়। ৫১:২০ আয়াত মুক্বিনীনদের কথা বলে দূর থেকে, তাদের সম্পর্কে। এরা ইয়াকীনে অটল মানুষ। ৫১:২১ আয়াত ঘুরে সরাসরি আপনাকেই সম্বোধন করে, আর শেষ হয় এক প্রশ্নে: আফালা তুবসিরূন, তবু কি তোমরা দেখবে না? শেষ ক্রিয়াটি তাকানোর, প্রমাণ করার নয়। আয়াতের অভিযোগ এই নয় যে প্রমাণ কম। অভিযোগ হলো, মানুষ সত্তর বছর ধরে নিজের চামড়ার ভেতরে প্রমাণ বয়ে বেড়াতে পারে, অথচ একবারও সেদিকে তাকায় না।"
           }
         ]
       },
@@ -509,11 +509,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What the mufassirun draw out of anfusikum is deliberately wide: the making of the body and the fitting of each part to its use, the powers of the soul, the provision a person receives and the guidance he is offered. Their recurring observation is a simple one. A person is nearer to himself than to anything else in existence, and knows himself less carefully than he knows his own trade. The nearest sign is the one most reliably overlooked.",
-            "bn": "আনফুসিকুম শব্দ থেকে মুফাসসিরগণ যা বের করেন তা ইচ্ছাকৃতভাবেই প্রশস্ত: দেহের গঠন ও প্রতিটি অঙ্গকে তার কাজের সঙ্গে মানিয়ে দেওয়া, আত্মার শক্তিগুলো, মানুষ যে রিযিক পায় এবং যে হিদায়াত তাকে দেওয়া হয়। তাঁদের বারবার বলা পর্যবেক্ষণটি সরল। অস্তিত্বের আর সবকিছুর চেয়ে মানুষ নিজের বেশি কাছে, অথচ নিজের পেশাকে যতটা যত্ন করে জানে নিজেকে ততটা নয়। সবচেয়ে কাছের নিদর্শনটিই সবচেয়ে নিশ্চিতভাবে চোখ এড়িয়ে যায়।"
+            "bn": "আনফুসিকুম শব্দ থেকে মুফাসসিররা যা বের করেন, তার পরিসর ইচ্ছা করেই বড়: দেহের গঠন, প্রতিটি অঙ্গকে তার কাজের উপযোগী করে বানানো, আত্মার নানা শক্তি, মানুষ যে রিযিক পায়, আর যে হিদায়াত তাকে দেওয়া হয়। তাঁদের একটি কথা বারবার ফিরে আসে, আর কথাটা সরল। দুনিয়ার আর সবকিছুর চেয়ে মানুষ নিজের সবচেয়ে কাছে। অথচ নিজের পেশাকে সে যত মন দিয়ে জানে, নিজেকে তত মন দিয়ে জানে না। সবচেয়ে কাছের নিদর্শনটাই সবচেয়ে বেশি চোখ এড়িয়ে যায়।"
           },
           {
             "en": "The verse invites this looking without prescribing a method, and the safest reflections are the plainest. You did not choose to be born, or when, or to whom. You cannot command your own sleep, or make yourself forget a thing on purpose, or produce a memory that will not come. 80:24 makes the same move with something even more ordinary, telling man to look at his food. The sign is not exotic. It is the person reading this line.",
-            "bn": "আয়াতটি এই তাকানোর দাওয়াত দেয়, কিন্তু কোনো পদ্ধতি বেঁধে দেয় না; আর সবচেয়ে নিরাপদ চিন্তাগুলোই সবচেয়ে সাদামাটা। আপনি জন্ম নেওয়ার সিদ্ধান্ত নেননি, কখন জন্মাবেন তা-ও নয়, কার ঘরে তা-ও নয়। আপনি নিজের ঘুমকে হুকুম করতে পারেন না, ইচ্ছা করে কোনো কিছু ভুলে যেতে পারেন না, আর যে স্মৃতি আসছে না তাকে টেনে আনতেও পারেন না। 80:24 আয়াত আরও সাধারণ কিছু দিয়ে একই কাজ করে — মানুষকে বলে তার খাবারের দিকে তাকাতে। নিদর্শনটি দুর্লভ কিছু নয়। নিদর্শনটি এই লাইনটি যিনি পড়ছেন, তিনিই।"
+            "bn": "তাকানোর এই দাওয়াত আয়াত দেয়, কিন্তু কোনো পদ্ধতি বেঁধে দেয় না। আর সবচেয়ে নিরাপদ ভাবনাগুলোই সবচেয়ে সাদামাটা। আপনি নিজে ঠিক করেননি যে জন্ম নেবেন, কখন নেবেন, কার ঘরে নেবেন। নিজের ঘুমকে আপনি হুকুম দিতে পারেন না। ইচ্ছা করে কিছু ভুলে যেতে পারেন না, আর যে স্মৃতি মনে আসছে না তাকে টেনে আনতেও পারেন না। ৮০:২৪ আয়াত আরও সাধারণ একটা জিনিস দিয়ে একই কাজ করে: মানুষকে বলে, নিজের খাবারের দিকে তাকাও। নিদর্শনটা দূরের অচেনা কিছু নয়। নিদর্শন আপনি নিজেই, যিনি এই লাইনটা পড়ছেন।"
           }
         ]
       },
@@ -525,11 +525,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This pairing of outward and inward is not unique to Surah adh-Dhariyat. 41:53 promises that He will show them His signs in the horizons and within themselves until it becomes clear to them that it is the truth. 30:8 asks whether they do not contemplate within themselves. The Quran keeps setting the two arenas together, and it never lets the outward one stand alone. Astronomy without self-examination is exactly the kind of knowledge these verses decline to praise.",
-            "bn": "বাইরে ও ভেতরের এই জোড়া কেবল সূরা আয-যারিয়াতের নিজস্ব নয়। 41:53 আয়াত প্রতিশ্রুতি দেয় যে তিনি তাদের দেখাবেন তাঁর নিদর্শন দিগন্তে এবং তাদের নিজেদের মধ্যেও, যতক্ষণ না তাদের কাছে স্পষ্ট হয়ে যায় যে এটিই সত্য। 30:8 আয়াত জিজ্ঞেস করে, তারা কি তাদের নিজেদের মনে ভেবে দেখে না। কুরআন বারবার এই দুই ক্ষেত্রকে পাশাপাশি রাখে, আর বাইরেরটিকে কখনো একা দাঁড়াতে দেয় না। আত্মপরীক্ষা ছাড়া জ্যোতির্বিদ্যা ঠিক সেই ধরনের জ্ঞান, যার প্রশংসা এই আয়াতগুলো করে না।"
+            "bn": "বাইরে আর ভেতরের এই জোড় শুধু সূরা আয-যারিয়াতে নেই। ৪১:৫৩ আয়াতে ওয়াদা আছে: তিনি তাদের তাঁর নিদর্শন দেখাবেন দিগন্তে আর তাদের নিজেদের মধ্যে, যতক্ষণ না তাদের কাছে স্পষ্ট হয় যে এটাই সত্য। ৩০:৮ আয়াত প্রশ্ন করে, তারা কি নিজেদের মনে ভেবে দেখে না? কুরআন বারবার এই দুই ক্ষেত্রকে পাশাপাশি রাখে, আর বাইরেরটাকে কখনো একা দাঁড়াতে দেয় না। নিজেকে যাচাই না করে শুধু জ্যোতির্বিদ্যার চর্চা, এ আয়াতগুলো ঠিক এমন জ্ঞানেরই প্রশংসা করে না।"
           },
           {
             "en": "The same surah later answers the question the invitation raises. If I look into myself, what am I looking for? 51:56 states it: I did not create the jinn and mankind except to worship Me. Reading the two together closes a circle. The self is offered as proof that there is a Maker, and then told what the Maker made it for. Investigation that stops before that second point has stopped one step short.",
-            "bn": "এই দাওয়াত যে প্রশ্নটি তোলে, একই সূরা পরে তার উত্তর দেয়। নিজের ভেতরে তাকালে আমি কী খুঁজব? 51:56 আয়াত তা বলে দেয়: আমি জিন ও মানুষকে সৃষ্টি করেছি কেবল আমার ইবাদতের জন্য। দুটি একসঙ্গে পড়লে বৃত্তটি সম্পূর্ণ হয়। নিজ সত্তাকে পেশ করা হয় এই প্রমাণ হিসেবে যে একজন স্রষ্টা আছেন, আর তারপর বলে দেওয়া হয় সেই স্রষ্টা তাকে কী জন্য বানিয়েছেন। যে অনুসন্ধান দ্বিতীয় কথাটির আগেই থেমে যায়, সেটি এক ধাপ আগে থেমেছে।"
+            "bn": "এ দাওয়াত যে প্রশ্ন তোলে, একই সূরা পরে তার জবাব দেয়। নিজের ভেতরে তাকালে আমি খুঁজব কী? ৫১:৫৬ আয়াত বলে দেয়: আমি জিন ও মানুষকে সৃষ্টি করেছি শুধু এজন্য যে তারা আমার ইবাদত করবে। দুটো একসঙ্গে পড়লে বৃত্তটা পূর্ণ হয়। নিজের সত্তা প্রথমে প্রমাণ হয়ে দাঁড়ায় যে একজন স্রষ্টা আছেন। তারপর তাকে জানানো হয়, স্রষ্টা তাকে কী জন্য বানিয়েছেন। যে খোঁজ দ্বিতীয় কথাটার আগেই থেমে যায়, সে থেমেছে এক ধাপ আগে।"
           }
         ]
       },
@@ -541,7 +541,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The practical shape of these two lines is unusually small. They do not ask for study; they ask for a pause. Take one faculty, one ordinary function of your own body or your own day, and hold it in view for a minute without moving on. Certainty grows that way far more reliably than by collecting arguments, which is presumably why the verse names the muqinin first and then asks the rest of us why we are not looking.",
-            "bn": "এই দুই পঙ্‌ক্তির ব্যবহারিক রূপটি অস্বাভাবিক রকম ছোট। এগুলো পড়াশোনা চায় না; চায় একটু থামা। নিজের দেহের বা নিজের দিনের একটি শক্তি, একটি সাধারণ কাজ বেছে নিন, আর এক মিনিট সেটির দিকে তাকিয়ে থাকুন, পরের কিছুতে না গিয়ে। যুক্তি জমানোর চেয়ে এভাবেই দৃঢ় প্রত্যয় অনেক নিশ্চিতভাবে বাড়ে — সম্ভবত সে কারণেই আয়াতটি আগে মুক্বিনীনদের নাম নেয়, তারপর বাকিদের জিজ্ঞেস করে আমরা কেন তাকাচ্ছি না।"
+            "bn": "এই দুই আয়াতের বাস্তব চাওয়াটা খুবই ছোট। এগুলো পড়াশোনা চায় না, চায় একটু থামা। নিজের দেহের বা নিজের দিনের একটা শক্তি, একটা সাধারণ কাজ বেছে নিন। তারপর এক মিনিট সেটার দিকে তাকিয়ে থাকুন, অন্য কিছুতে না গিয়ে। যুক্তি জড়ো করার চেয়ে এভাবেই ইয়াকীন অনেক বেশি নিশ্চিতভাবে বাড়ে। সম্ভবত এজন্যই আয়াতটি আগে মুক্বিনীনদের নাম নেয়, তারপর আমাদের বাকিদের জিজ্ঞেস করে, আমরা কেন তাকাচ্ছি না।"
           }
         ]
       }
