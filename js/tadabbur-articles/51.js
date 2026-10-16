@@ -552,16 +552,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Place First, Then the Thing",
-          "bn": "আগে স্থান, তারপর বস্তু"
+          "bn": "আগে জায়গা, তারপর জিনিস"
         },
         "p": [
           {
             "en": "Wa fis-sama'i rizqukum wa ma tu'adun: five words in Arabic, and the order of them is the first thing to notice. The sentence does not say your provision is in the heaven; it puts the location in front and the provision after it. Arabic allows that fronting, and the grammarians read it as the emphasis falling on whatever has been moved forward. Where the provision is kept, is the news being delivered.",
-            "bn": "'ওয়া ফিস সামাই রিযকুকুম ওয়া মা তূআদূন' — আরবিতে পাঁচটি শব্দ, আর প্রথমে লক্ষ করার বিষয় তাদের ক্রম। বাক্যটি বলে না 'তোমাদের রিযক আকাশে আছে'; বরং স্থানটিকে সামনে বসায় আর রিযককে তার পরে। আরবি এই অগ্রবর্তীকরণের অনুমতি দেয়, আর ব্যাকরণবিদগণ পড়েন যে যাকে সামনে আনা হয় জোরটি তার উপরেই পড়ে। রিযক কোথায় রাখা আছে — সেটিই এখানে পরিবেশিত সংবাদ।"
+            "bn": "'ওয়া ফিস সামাই রিযকুকুম ওয়া মা তূআদূন': আরবিতে মাত্র পাঁচটি শব্দ, আর প্রথমেই খেয়াল করার মতো বিষয় হলো শব্দগুলোর ক্রম। বাক্যটি 'তোমাদের রিযিক আকাশে আছে' এভাবে সাজানো নয়। জায়গার কথা আসে আগে, রিযিকের কথা পরে। আরবিতে এভাবে আগে আনা চলে, আর ব্যাকরণবিদেরা বলেন, যাকে সামনে আনা হয় জোরটা পড়ে তার উপরেই। তাই এখানে আসল খবর হলো, রিযিক কোথায় রাখা আছে।"
           },
           {
             "en": "The verse is the third in a short sweep. 51:20 puts signs in the earth for those who are certain, 51:21 puts them in your own selves, and this verse lifts the eye once more. The person being addressed has been walked around his own position, and is now shown the one direction he cannot reach with his hands, and told that what he lives on is kept there.",
-            "bn": "আয়াতটি একটি সংক্ষিপ্ত পরিক্রমার তৃতীয়টি। 51:20 যমীনে নিদর্শন রাখে দৃঢ়বিশ্বাসীদের জন্য, 51:21 রাখে তোমাদের নিজেদের ভেতরে, আর এই আয়াত চোখটি আরও একবার তুলে দেয়। যাকে সম্বোধন করা হচ্ছে তাকে তার নিজের অবস্থানের চারপাশে ঘুরিয়ে আনা হলো, তারপর দেখানো হলো একমাত্র সেই দিকটি যেখানে তার হাত পৌঁছায় না — আর বলা হলো, সে যা খেয়ে বাঁচে তা সেখানেই রাখা।"
+            "bn": "আয়াতটি ছোট একটি ধারার তৃতীয় ধাপ। ৫১:২০ আয়াত দৃঢ় বিশ্বাসীদের জন্য নিদর্শন দেখায় যমীনে, ৫১:২১ দেখায় তোমাদের নিজেদের ভেতরে, আর এই আয়াত চোখটা আরেকবার উপরে তোলে। যাকে বলা হচ্ছে, তাকে যেন নিজের চারপাশটা ঘুরিয়ে দেখানো হলো। এবার দেখানো হচ্ছে সেই একটি দিক, যেখানে তার হাত পৌঁছায় না। আর বলা হচ্ছে, যা দিয়ে সে বেঁচে থাকে, তা সেখানেই রাখা।"
           }
         ]
       },
@@ -573,11 +573,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The oldest gloss in the commentaries takes provision in the heaven to mean rain, because rain is what produces everything a person eats. Tafsir Ahsanul Bayaan states it in exactly those terms. The Quran makes the identification itself: 45:5 lists among its signs what Allah sends down from the sky of rizq, giving life by it to the earth after its death, and 2:22 says He brought out fruits by that water as provision for you.",
-            "bn": "তাফসীরগুলোর প্রাচীনতম ব্যাখ্যাটি 'আকাশে রিযক' বলতে বোঝে বৃষ্টি, কারণ মানুষ যা কিছু খায় তার সবই বৃষ্টিই উৎপন্ন করে। তাফসীর আহসানুল বায়ান ঠিক এই ভাষাতেই কথাটি বলে। কুরআন নিজেই এই পরিচয়টি দেয়: 45:5 তার নিদর্শনগুলোর মধ্যে গণনা করে আল্লাহ আকাশ থেকে যে রিযক নামান তা, যা দিয়ে তিনি যমীনকে তার মৃত্যুর পর জীবিত করেন; আর 2:22 বলে, সেই পানি দিয়েই তিনি তোমাদের জীবিকার জন্য ফলমূল বের করেন।"
+            "bn": "তাফসীরগুলোর সবচেয়ে পুরোনো ব্যাখ্যায় আকাশের রিযিক মানে বৃষ্টি, কারণ মানুষ যা কিছু খায়, সবই জন্মায় বৃষ্টি থেকে। তাফসীর আহসানুল বায়ান ঠিক এ কথাই বলেছে। কুরআন নিজেও এই মিলটা দেখিয়ে দেয়। ৪৫:৫ আয়াতে নিদর্শনের তালিকায় আছে আল্লাহ আকাশ থেকে যে রিযিক নামান, আর তা দিয়ে যমীনকে তার মৃত্যুর পর আবার জীবিত করেন। আর ২:২২ আয়াত বলে, সেই পানি দিয়ে তিনি তোমাদের রিযিক হিসেবে ফলমূল বের করেছেন।"
           },
           {
             "en": "Read that way the verse is not making a claim about the sky as a warehouse. It is naming the point in the chain at which the whole system stops being ours. Land can be bought, seed can be sown, labour can be hired and machinery can be maintained; the one input that decides whether any of it comes to anything is released from above, on a schedule nobody down here sets or negotiates.",
-            "bn": "এভাবে পড়লে আয়াতটি আকাশকে কোনো গুদাম বলে দাবি করছে না। এটি শৃঙ্খলের সেই বিন্দুটির নাম বলছে যেখান থেকে গোটা ব্যবস্থাটি আর আমাদের থাকে না। জমি কেনা যায়, বীজ বোনা যায়, শ্রমিক নেওয়া যায়, যন্ত্রপাতি ঠিক রাখা যায়; কিন্তু এসবের কোনোটি আদৌ ফল দেবে কি না তা যে একটিমাত্র উপাদান ঠিক করে, তা উপর থেকে ছাড়া হয় — এমন এক সময়সূচিতে যা এখানকার কেউ নির্ধারণও করে না, তা নিয়ে দরও কষতে পারে না।"
+            "bn": "এভাবে পড়লে আয়াতটি আকাশকে কোনো গুদামঘর বলছে না। বরং দেখিয়ে দিচ্ছে, পুরো শিকলের ঠিক কোন জায়গায় এসে সবকিছু আমাদের হাতছাড়া হয়ে যায়। জমি কেনা যায়, বীজ বোনা যায়, মজুর খাটানো যায়, যন্ত্রপাতিও ঠিকঠাক রাখা যায়। কিন্তু এসবের কোনোটা আদৌ ফল দেবে কি না, তা ঠিক করে একটিমাত্র জিনিস। আর সেটা নামে উপর থেকে, এমন সময়ে যা এখানকার কেউ ঠিক করে না, যা নিয়ে কেউ দর কষাকষিও করতে পারে না।"
           }
         ]
       },
@@ -589,11 +589,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second line of interpretation takes the heaven as where the provision is decided rather than where it is stored. Al-Muyassar closes its comment on this verse by saying that all of it is written and decreed. 15:21 states the same in the Quran's own terms: there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.",
-            "bn": "দ্বিতীয় ব্যাখ্যাধারাটি আকাশকে বোঝে সেই জায়গা হিসেবে যেখানে রিযক নির্ধারিত হয়, যেখানে তা জমা থাকে সেই জায়গা হিসেবে নয়। তাফসীর মুয়াসসার এই আয়াতের ব্যাখ্যা শেষ করে এই কথা বলে যে এর সবটাই লেখা ও নির্ধারিত। 15:21 একই কথা বলে কুরআনের নিজের ভাষায়: এমন কোনো জিনিস নেই যার ভাণ্ডার আমার কাছে নেই, আর আমি তা নামাই কেবল এক নির্দিষ্ট পরিমাণে।"
+            "bn": "দ্বিতীয় ধারার ব্যাখ্যায় আকাশ রিযিক জমা রাখার জায়গা নয়, রিযিক ঠিক হওয়ার জায়গা। তাফসীর মুয়াসসার এ আয়াতের ব্যাখ্যা শেষ করেছে এই কথা বলে যে এর সবই লেখা আছে, সবই নির্ধারিত। ১৫:২১ আয়াত কুরআনের নিজের ভাষায় একই কথা বলে: এমন কোনো জিনিস নেই, যার ভাণ্ডার আমার কাছে নেই। আর আমি তা নামাই কেবল নির্দিষ্ট পরিমাণে।"
           },
           {
             "en": "The two readings are not rivals. Rain descends by a measure, and so does everything else. What the second reading adds is that the measure was fixed before the year began, which is the part that touches anxiety directly. A person can compete over a share whose size is still open. He cannot compete over one that has already been written down and is being released at an appointed rate.",
-            "bn": "দুটি ব্যাখ্যা পরস্পরের প্রতিদ্বন্দ্বী নয়। বৃষ্টি নামে একটি পরিমাপে, আর বাকি সবকিছুও তাই। দ্বিতীয় ব্যাখ্যাটি যা যোগ করে তা হলো, পরিমাপটি বছর শুরু হওয়ার আগেই স্থির হয়ে গেছে — আর এই অংশটিই দুশ্চিন্তায় সরাসরি হাত দেয়। যে ভাগের আকার এখনো খোলা, মানুষ তা নিয়ে প্রতিযোগিতা করতে পারে। কিন্তু যা আগেই লিখে রাখা হয়েছে এবং নির্ধারিত হারে ছাড়া হচ্ছে, তা নিয়ে প্রতিযোগিতা চলে না।"
+            "bn": "দুই ব্যাখ্যা একে অপরের প্রতিদ্বন্দ্বী নয়। বৃষ্টি নামে মেপে মেপে, আর বাকি সবকিছুও তাই। দ্বিতীয় ব্যাখ্যা যা যোগ করে তা হলো, এই মাপ ঠিক হয়ে গেছে বছর শুরুর আগেই। দুশ্চিন্তার জায়গাটায় সরাসরি হাত পড়ে এই কথাতেই। যে ভাগের পরিমাণ এখনো ঠিক হয়নি, তা নিয়ে মানুষ পাল্লা দিতে পারে। কিন্তু যে ভাগ আগেই লেখা হয়ে গেছে, আর নির্ধারিত হারে হাতে আসছে, তা নিয়ে পাল্লা দেওয়ার কিছু নেই।"
           }
         ]
       },
@@ -605,11 +605,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not stop at bread. Wa ma tu'adun, and whatever you are promised, is joined to provision by a single conjunction and located in the same place. Al-Muyassar spells out the range: good and evil, reward and punishment, all of it written and decreed. The surah had opened on that promise, with 51:5 saying that what you are promised is true and 51:6 that the recompense is to occur.",
-            "bn": "আয়াতটি রুটিতে থেমে থাকে না। 'ওয়া মা তূআদূন' — আর যার প্রতিশ্রুতি তোমাদের দেওয়া হয়েছে — একটিমাত্র সংযোজক দিয়ে রিযকের সঙ্গে জোড়া, আর একই জায়গায় স্থাপিত। তাফসীর মুয়াসসার পরিধিটি খুলে বলে: কল্যাণ ও অকল্যাণ, পুরস্কার ও শাস্তি — সবই লেখা ও নির্ধারিত। সূরাটি সেই প্রতিশ্রুতি দিয়েই শুরু হয়েছিল: 51:5 বলে তোমাদের যার প্রতিশ্রুতি দেওয়া হয়েছে তা সত্য, আর 51:6 বলে কর্মফল অবশ্যই ঘটবে।"
+            "bn": "আয়াতটি শুধু পেটের ভাতের কথা বলে থেমে যায় না। 'ওয়া মা তূআদূন', আর তোমাদের যার প্রতিশ্রুতি দেওয়া হয়েছে: একটিমাত্র 'ওয়া' কথাটিকে রিযিকের সঙ্গে জুড়ে দেয়, আর দুটোকে রাখে একই জায়গায়। তাফসীর মুয়াসসার এর পরিধি খুলে বলেছে: ভালো-মন্দ, পুরস্কার-শাস্তি, সবই লেখা আছে, সবই নির্ধারিত। সূরাটি শুরুই হয়েছিল এই প্রতিশ্রুতি দিয়ে। ৫১:৫ আয়াত বলে, তোমাদের যার প্রতিশ্রুতি দেওয়া হয়েছে তা সত্য, আর ৫১:৬ বলে, প্রতিদান অবশ্যই আসবে।"
           },
           {
             "en": "Putting the two into one sentence is the verse's real work. Most people file next month's income and the Day of Judgement in separate parts of the mind, treat one as urgent and the other as distant, and worry over them at completely different intensities. This verse says both are held by the same One, in the same place, on the same terms. Neither of them is any nearer to your control than the other.",
-            "bn": "দুটিকে একই বাক্যে রাখাই আয়াতটির আসল কাজ। বেশিরভাগ মানুষ আগামী মাসের আয় আর কিয়ামতের দিনকে মনের আলাদা আলাদা তাকে তুলে রাখে, একটিকে জরুরি ও অন্যটিকে দূরবর্তী মনে করে, আর সম্পূর্ণ ভিন্ন মাত্রায় দুশ্চিন্তা করে। এই আয়াত বলে, দুটোই একই সত্তার হাতে, একই জায়গায়, একই শর্তে। আপনার নিয়ন্ত্রণের কাছাকাছি দুটোর একটিও অন্যটির চেয়ে বেশি নয়।"
+            "bn": "দুটোকে এক বাক্যে বেঁধে দেওয়াই আয়াতটির আসল কাজ। বেশিরভাগ মানুষ আগামী মাসের আয় আর কিয়ামতের দিনকে মনের দুই আলাদা খোপে রাখে। একটাকে ভাবে জরুরি, অন্যটাকে দূরের, আর দুটো নিয়ে দুশ্চিন্তাও করে একেবারে ভিন্ন মাত্রায়। এই আয়াত বলছে, দুটোই একই সত্তার হাতে, একই জায়গায়, একই শর্তে। কোনোটাই অন্যটার চেয়ে আপনার নিয়ন্ত্রণের বেশি কাছে নয়।"
           }
         ]
       },
@@ -621,11 +621,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "51:23 comes next and it is unusually forceful: then by the Lord of the heaven and the earth, indeed it is truth, just as it is that you are speaking. The oath is sworn by the Lord of exactly the two places this passage has been touring. And the comparison chosen is not a remote certainty; it is the reader's own act of speech, going on in his mouth at the moment he doubts.",
-            "bn": "এরপর আসে 51:23, আর তা অস্বাভাবিক রকম জোরালো: আকাশ ও যমীনের প্রতিপালকের শপথ, নিশ্চয়ই এটি সত্য — ঠিক যেমন সত্য এই যে তোমরা কথা বলছ। শপথটি নেওয়া হয়েছে ঠিক সেই দুটি জায়গার প্রতিপালকের নামে, এই অংশটি যেগুলো ঘুরে দেখাচ্ছিল। আর যে তুলনাটি বেছে নেওয়া হলো তা দূরের কোনো নিশ্চয়তা নয়; তা পাঠকের নিজেরই কথা বলার কাজ, যা তার সংশয়ের মুহূর্তেই তার মুখে চলছে।"
+            "bn": "এরপর আসে ৫১:২৩, আর আয়াতটি অস্বাভাবিক রকম জোরালো: আকাশ ও যমীনের রবের শপথ, এটি অবশ্যই সত্য, ঠিক যেমন সত্য তোমাদের কথা বলা। যে দুই জায়গা এই অংশটি এতক্ষণ ঘুরিয়ে দেখাল, শপথ ঠিক সেই দুটোরই রবের নামে। তুলনাটাও দূরের কোনো নিশ্চিত সত্যের সঙ্গে নয়। তুলনা টানা হয়েছে পাঠকের নিজের মুখের কথার সঙ্গে, সন্দেহ করার মুহূর্তেও যা তাঁর মুখে চলছে।"
           },
           {
             "en": "The surah finishes the thought at 51:57-58, where Allah says He wants no provision from His creatures and names Himself ar-Razzaq, the Provider, possessed of firm strength. Between the two ends stands 51:19, where a due for the beggar and the deprived sits inside the wealth of the righteous. People who believe their portion is kept above them hold it loosely. That, and not idleness, is what this verse changes.",
-            "bn": "সূরাটি চিন্তাটি শেষ করে 51:57-58-এ, যেখানে আল্লাহ বলেন তিনি তাঁর সৃষ্টির কাছ থেকে কোনো রিযক চান না, আর নিজের নাম বলেন আর-রাযযাক — রিযকদাতা, প্রবল শক্তির অধিকারী। দুই প্রান্তের মাঝখানে দাঁড়িয়ে আছে 51:19, যেখানে সৎকর্মশীলদের সম্পদের ভেতরেই যাচ্ঞাকারী ও বঞ্চিতের একটি অধিকার বসানো। যারা বিশ্বাস করে তাদের ভাগটি উপরে রাখা আছে, তারা তা আলগা হাতে ধরে। এই আয়াত সেটিই বদলায়, অলসতা নয়।"
+            "bn": "সূরাটি এই ভাবনা শেষ করে ৫১:৫৭-৫৮ আয়াতে। সেখানে আল্লাহ বলেন, তিনি তাঁর সৃষ্টির কাছে কোনো রিযিক চান না, আর নিজের পরিচয় দেন আর-রাযযাক নামে: রিযিকদাতা, প্রবল শক্তির মালিক। এই দুই প্রান্তের মাঝখানে আছে ৫১:১৯, যেখানে নেককারদের সম্পদের ভেতরেই সাহায্যপ্রার্থী আর বঞ্চিতের হক রাখা আছে। যারা বিশ্বাস করে তাদের ভাগ উপরে রাখা আছে, তারা সেটা আলগা হাতে ধরে। এই আয়াত বদলায় এটাই, মানুষকে অলস বানায় না।"
           }
         ]
       }
@@ -753,7 +753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the record holds one voice against the identification every other source here adopts. Mujahid's view is not hidden; at-Tabari gives it a chain, and al-Qurtubi names him while rejecting it. Both give reasons, one from the story's mother and one from a verse that names the son. The article reports the dissent and the reasons as they stand. The question here is only which son 51:28 announces, and the commentaries fetched for this verse do not open any wider question from it.",
-            "bn": "তাহলে বর্ণনার ভাণ্ডারে দেখা যায়, এখানকার বাকি সব উৎস যে নাম মেনে নিয়েছে, তার বিপরীতে একটিমাত্র কণ্ঠ। মুজাহিদের মত লুকানো হয়নি। তাবারী এর সনদ দিয়েছেন, কুরতুবী নাকচ করতে গিয়েও তাঁর নাম নিয়েছেন। দুজনেই যুক্তি দিয়েছেন, একজন কাহিনির মা কে তা থেকে, অন্যজন পুত্রের নাম বলা এক আয়াত থেকে। এ লেখা ভিন্নমত আর যুক্তিগুলো যেমন আছে তেমনই তুলে ধরছে। প্রশ্ন এখানে কেবল এটুকু, ৫১:২৮ কোন পুত্রের সুসংবাদ দিচ্ছে। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সেগুলো এখান থেকে আর কোনো বড় প্রশ্ন খোলে না।"
+            "bn": "তাহলে বর্ণনায় দেখা যাচ্ছে, এখানকার বাকি সব উৎস যে পরিচয় মেনে নিয়েছে, তার বিপরীতে কেবল একটি কণ্ঠ। মুজাহিদের মত লুকানো হয়নি। তাবারী এর সনদ দিয়েছেন, কুরতুবী নাকচ করতে গিয়েও তাঁর নাম নিয়েছেন। দুজনেই যুক্তি দিয়েছেন: একজন কাহিনির মা কে ছিলেন তা থেকে, অন্যজন পুত্রের নাম বলে দেওয়া এক আয়াত থেকে। এ লেখা ভিন্নমত আর যুক্তিগুলো যেমন আছে তেমনই তুলে ধরছে। এখানে প্রশ্ন শুধু এটুকু, ৫১:২৮ কোন পুত্রের সুসংবাদ দিচ্ছে। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সেগুলো এখান থেকে আর কোনো বড় প্রশ্ন তোলে না।"
           }
         ]
       },
@@ -889,7 +889,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This must be said without hedging. The verse describes what the text describes: a past people, judged by Allah, through messengers sent for that purpose, on charges the commentators name in their own words. It licenses nothing against any living person or community. It gives no individual, crowd or state a warrant to identify a group of today with this people, to harm anyone, or to act as though the messengers' errand had passed into human hands. The angels said that they had been sent. No reader of the verse has been sent.",
-            "bn": "কথাটা কোনো দ্বিধা ছাড়াই বলা দরকার। আয়াতটি তাই বর্ণনা করে, যা পাঠ বর্ণনা করে: অতীতের এক জাতি, যাদের বিচার করেছেন আল্লাহ, সেই কাজেই পাঠানো দূতদের মাধ্যমে, এমন অভিযোগে যা তাফসীরকারেরা নিজেদের ভাষায় বলে দিয়েছেন। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের কোনো দলকে এই জাতি বলে চিহ্নিত করা, কারও ক্ষতি করা, কিংবা এমন আচরণ করা যেন দূতদের দায়িত্ব এখন মানুষের হাতে এসে গেছে, এর কোনোটার ছাড়পত্র কোনো ব্যক্তি, জনতা বা রাষ্ট্রকে আয়াতটি দেয় না। ফেরেশতারা বলেছিলেন, তাঁদের পাঠানো হয়েছে। আয়াতের কোনো পাঠককে পাঠানো হয়নি।"
+            "bn": "কথাটা কোনো দ্বিধা না রেখেই বলা দরকার। আয়াতটি শুধু তা-ই বলে, যা পাঠে আছে: অতীতের এক জাতি, যাদের বিচার করেছেন আল্লাহ, এই কাজের জন্যই পাঠানো দূতদের মাধ্যমে, এমন অভিযোগে যা তাফসীরকারেরা নিজেদের ভাষায় বলে গেছেন। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো ব্যক্তি, জনতা বা রাষ্ট্র এ আয়াতের জোরে আজকের কোনো দলকে এই জাতি বলে দাগাতে পারে না, কারও ক্ষতি করতে পারে না, কিংবা এমন আচরণ করতে পারে না যেন দূতদের সেই দায়িত্ব এখন মানুষের হাতে চলে এসেছে। ফেরেশতারা বলেছিলেন, তাঁদের পাঠানো হয়েছে। আয়াতের কোনো পাঠককে পাঠানো হয়নি।"
           },
           {
             "en": "The verse itself shows where the authority lay. Ursilna, we have been sent: even the angels did not act of themselves. The stones were marked with your Lord, as the angels tell Ibrahim (AS) in 51:34, and the believers were brought out by Him, as 51:35 says, in the words fa-akhrajna, so We brought out. A reader who takes the story as permission for his own anger has turned it upside down. What the verse asks is what 51:37 says the place was left for: a sign for those who fear the painful punishment, read first about oneself.",
@@ -1068,12 +1068,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "After the Ruins, a Building",
-          "bn": "ধ্বংসাবশেষের পর এক নির্মাণ"
+          "bn": "ধ্বংসস্তূপের পর নির্মাণ"
         },
         "p": [
           {
             "en": "The passage before these verses is a tour of wreckage. 51:41 recalls Ad and the wind that was sent against them, 51:43 recalls Thamud, and 51:46 closes the list with the people of Nuh (AS). Then the subject changes completely: and the heaven, We built it. Having shown what was pulled down over those who defied Him, the surah turns to what He has been quietly holding up over the heads of the people being addressed.",
-            "bn": "এই আয়াতগুলোর আগের অংশটি ধ্বংসাবশেষের ভেতর দিয়ে এক ভ্রমণ। 51:41 আয়াত স্মরণ করায় আদ জাতিকে ও তাদের বিরুদ্ধে পাঠানো সেই বাতাসকে, 51:43 আয়াত স্মরণ করায় সামূদকে, আর 51:46 আয়াত তালিকাটি শেষ করে নূহ (আঃ)-এর কওম দিয়ে। এরপর বিষয়টিই বদলে যায়: আর আকাশ — আমি তা নির্মাণ করেছি। যারা তাঁকে অমান্য করেছিল তাদের ওপর যা ভেঙে পড়েছিল তা দেখানোর পর সূরাটি ফেরে সেদিকে, যা তিনি নীরবে ধরে রেখেছেন যাদের সম্বোধন করা হচ্ছে তাদেরই মাথার ওপরে।"
+            "bn": "এই আয়াতগুলোর আগের অংশটা যেন ধ্বংসস্তূপের মধ্য দিয়ে হেঁটে যাওয়া। ৫১:৪১ মনে করিয়ে দেয় আদ জাতি আর তাদের উপর পাঠানো সেই বাতাসের কথা, ৫১:৪৩ সামূদের কথা, আর ৫১:৪৬ তালিকা শেষ করে নূহ (আঃ)-এর কওম দিয়ে। এরপর প্রসঙ্গ পুরোপুরি বদলে যায়: আর আকাশ, আমি তা নির্মাণ করেছি। যারা তাঁর নাফরমানি করেছিল, তাদের উপর কী ভেঙে পড়েছিল তা দেখানোর পর সূরাটি এবার তাকায় অন্য দিকে: যাদের উদ্দেশে কথা বলা হচ্ছে, তাদের মাথার উপর তিনি নীরবে কী ধরে রেখেছেন।"
           }
         ]
       },
@@ -1085,7 +1085,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa's-sama'a banaynaha bi-aydin. The verb is bana, to build, from the root that gives 2:22 its word for the sky: a bina', a built structure raised over an earth spread out as bedding. Building language carries a plan, materials in proportion, and something meant to stand. Nothing in the wording suggests a thing that merely came to be there.",
-            "bn": "ওয়াস-সামাআ বানাইনাহা বি-আইদ। ক্রিয়াপদটি 'বানা' — নির্মাণ করা; এই ধাতু থেকেই 2:22 আয়াতে আকাশের জন্য শব্দটি এসেছে: 'বিনা', অর্থাৎ নির্মিত এক কাঠামো, যা বিছানার মতো বিছিয়ে দেওয়া যমীনের ওপর তোলা হয়েছে। নির্মাণের ভাষা নিজের সঙ্গে বয়ে আনে একটি নকশা, পরিমাণমতো উপকরণ, আর টিকে থাকার উদ্দেশ্য। শব্দচয়নের কোথাও ইঙ্গিত নেই যে জিনিসটি এমনিতেই সেখানে হয়ে গেছে।"
+            "bn": "ওয়াস-সামাআ বানাইনাহা বি-আইদ। ক্রিয়াটি হলো 'বানা', নির্মাণ করা। এই ধাতু থেকেই ২:২২ আয়াতে আকাশের জন্য শব্দটা এসেছে: 'বিনা', অর্থাৎ নির্মিত কাঠামো, যা তোলা হয়েছে বিছানার মতো বিছিয়ে দেওয়া যমীনের উপর। নির্মাণের কথা বললেই তার সঙ্গে আসে একটা নকশা, মাপমতো উপকরণ, আর টিকে থাকার জন্য গড়া কিছু। শব্দগুলোর কোথাও এমন ইঙ্গিত নেই যে জিনিসটা এমনি এমনি সেখানে হয়ে গেছে।"
           },
           {
             "en": "Bi-aydin is where care is needed. It looks like a plural of yad, hand, and some renderings turn it into hands. The mufassirun read it otherwise: Ibn Abbas, Mujahid, Qatadah and ath-Thawri gloss it as bi-quwwah, with strength, and Ibn Kathir passes their reading on as the meaning. The word here is ayd, might. The clause is telling you how firmly the roof was set, not describing a limb.",
