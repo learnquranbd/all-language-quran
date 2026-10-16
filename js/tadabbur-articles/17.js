@@ -2221,11 +2221,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Say: call upon Allah or call upon ar-Rahman; ayyan ma tad'u, whichever of the two you call by, to Him belong the best names. The phrasing puts two names side by side and refuses to let a choice between them become a distinction between two objects. One Lord answers to both, and the names are not competing labels but different windows onto the same One.",
-            "bn": "বল: আল্লাহ নামে ডাকো বা রহমান নামে ডাকো; আইয়্যান মা তাদউ — এ দুইয়ের যে নামেই ডাকো, সুন্দর সব নাম তাঁরই। শব্দবিন্যাসটি দুটি নামকে পাশাপাশি রাখে এবং এ দুইয়ের মধ্যে বেছে নেওয়াকে দুটি ভিন্ন সত্তার পার্থক্য হয়ে উঠতে দেয় না। একই প্রতিপালকই দুটোতেই সাড়া দেন, আর নামগুলো প্রতিদ্বন্দ্বী পরিচয়পত্র নয়, বরং একই সত্তার দিকে খোলা ভিন্ন ভিন্ন জানালা।"
+            "bn": "বল: আল্লাহ নামে ডাকো বা রহমান নামে ডাকো; আইয়্যান মা তাদউ, এ দুইয়ের যে নামেই ডাকো, সুন্দর সব নাম তাঁরই। আয়াতটি দুটি নাম পাশাপাশি রেখেছে, কিন্তু কোন নামে ডাকা হবে সেই বাছাইকে দুই আলাদা সত্তার ভেদ হয়ে উঠতে দেয়নি। দুই নামেই সাড়া দেন একই রব। নামগুলো একে অপরের প্রতিদ্বন্দ্বী তকমা নয়; একই সত্তার দিকে খোলা ভিন্ন ভিন্ন জানালা।"
           },
           {
             "en": "The name ar-Rahman was contested in Makkah. 25:60 records exactly that: when they are told to prostrate to ar-Rahman they answer, and what is ar-Rahman, and it only increases their aversion. So this verse settles the question rather than avoiding it. The wider principle is stated in 7:180, that to Allah belong the best names, so call on Him by them, and again in 20:8, where the same phrase is attached to the declaration that there is no deity except Him.",
-            "bn": "রহমান নামটি নিয়ে মক্কায় বিরোধ ছিল। 25:60 ঠিক সেটিই লিপিবদ্ধ করে: তাদেরকে যখন রহমানের উদ্দেশ্যে সিজদা করতে বলা হয়, তারা বলে — রহমান আবার কী; আর এতে তাদের অনীহাই বাড়ে। তাই এই আয়াত প্রশ্নটি এড়িয়ে যায় না, মীমাংসা করে দেয়। বৃহত্তর নীতিটি বলা আছে 7:180 আয়াতে — সুন্দর সব নাম আল্লাহরই, কাজেই সেই নামগুলো দিয়েই তাঁকে ডাকো — আর আবার 20:8 আয়াতে, যেখানে একই বাক্যাংশ জুড়ে দেওয়া হয়েছে এই ঘোষণার সঙ্গে যে তিনি ছাড়া কোনো ইলাহ নেই।"
+            "bn": "রহমান নামটি নিয়ে মক্কায় বিতর্ক ছিল। ২৫:৬০ আয়াতে ঠিক সে কথাই আছে: তাদের যখন রহমানকে সিজদা করতে বলা হয়, তারা বলে, রহমান আবার কী? আর এতে তাদের বিমুখতা আরও বাড়ে। তাই এই আয়াত প্রশ্নটা এড়িয়ে যায় না, বরং মীমাংসা করে দেয়। মূল নীতিটা আছে ৭:১৮০ আয়াতে: সুন্দর সব নাম আল্লাহরই, তাই সেসব নামেই তাঁকে ডাকো। আবার আছে ২০:৮ আয়াতে, যেখানে একই কথা জুড়ে আছে এই ঘোষণার সঙ্গে যে তিনি ছাড়া কোনো ইলাহ নেই।"
           }
         ]
       },
@@ -2237,11 +2237,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari narrates from Ibn Abbas (RA) that this was revealed while the Prophet ﷺ was in hiding in Makkah. When he prayed with his Companions he would raise his voice with the Quran, and when the polytheists heard it they would revile the Quran, and the One who revealed it, and the one who brought it. So Allah said: do not be loud in your prayer, lest they revile, and do not be silent with it, so that your Companions cannot hear you, and seek a way between that.",
-            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন যে এটি নাযিল হয়েছিল যখন নবী ﷺ মক্কায় আত্মগোপন করে ছিলেন। তিনি যখন সাহাবীদের নিয়ে নামায পড়তেন তখন কুরআন উচ্চস্বরে পড়তেন, আর মুশরিকরা তা শুনলে কুরআনকে, যিনি তা নাযিল করেছেন তাঁকে এবং যিনি তা নিয়ে এসেছেন তাঁকে গালি দিত। তাই আল্লাহ বললেন: তোমার নামাযে স্বর উঁচু করো না, যাতে তারা গালি না দেয়, আর তা এত নিচুও করো না যে তোমার সাহাবীরা শুনতে না পান, বরং এ দুইয়ের মাঝামাঝি পথ খোঁজো।"
+            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন: নবী ﷺ তখন মক্কায় গোপনে থাকতেন, সে সময় এই আয়াত নাজিল হয়। সাহাবীদের নিয়ে নামাজ পড়ার সময় তিনি উচ্চস্বরে কুরআন পড়তেন। মুশরিকরা তা শুনলে কুরআনকে গালি দিত, যিনি তা নাজিল করেছেন তাঁকে গালি দিত, আর যিনি তা নিয়ে এসেছেন তাঁকেও। তাই আল্লাহ বললেন: তোমার নামাজে স্বর উঁচু করো না, তাহলে তারা গালি দেবে; আবার এত নিচুও করো না যে তোমার সাহাবীরা শুনতে না পান; বরং এ দুইয়ের মাঝামাঝি পথ খোঁজো।"
           },
           {
             "en": "Read with that occasion, the ruling is not a rule of etiquette invented in the abstract. It weighs two real losses against each other: recitation loud enough to provoke insult against the Book, and recitation so quiet that the people praying behind gain nothing from it. The middle is not a compromise between two goods. It is the point at which neither harm occurs.",
-            "bn": "এই শানে নুযূলের আলোকে পড়লে বিধানটি নিছক বায়বীয়ভাবে বানানো কোনো শিষ্টাচারের নিয়ম নয়। এটি দুটি বাস্তব ক্ষতিকে একে অপরের সঙ্গে ওজন করে: এমন উচ্চস্বরে তিলাওয়াত যা কিতাবের বিরুদ্ধে গালি ডেকে আনে, আর এমন নিচু স্বরে তিলাওয়াত যাতে পেছনে দাঁড়ানো মুসল্লিরা কিছুই পান না। মাঝামাঝি পথটি দুটি ভালোর মধ্যে আপস নয়। এটি সেই বিন্দু যেখানে কোনো ক্ষতিই ঘটে না।"
+            "bn": "এই শানে নুযূল মাথায় রেখে পড়লে বোঝা যায়, বিধানটি শূন্যে বসে বানানো কোনো আদবের নিয়ম নয়। এখানে দুটি বাস্তব ক্ষতিকে পাশাপাশি মেপে দেখা হচ্ছে। এক, এত জোরে তিলাওয়াত যে তা কিতাবকে গালি দেওয়ার উসকানি হয়ে দাঁড়ায়। দুই, এত আস্তে তিলাওয়াত যে পেছনের মুসল্লিরা কিছুই পান না। মাঝামাঝি পথটা দুটি ভালো জিনিসের মধ্যে আপস নয়। এটা সেই জায়গা, যেখানে কোনো ক্ষতিই হয় না।"
           }
         ]
       },
@@ -2253,23 +2253,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The closing words are wabtaghi bayna dhalika sabilan, seek between that a way. Note the verb: ibtigha is active seeking, not passive settling. The middle is not where you end up by doing nothing in particular; it is something looked for and found. The same construction, bayna dhalika, appears in 25:67 of the servants of the Most Merciful, who when they spend are neither extravagant nor stingy but hold to a course between the two.",
-            "bn": "শেষ কথাগুলো হলো ওয়াবতাগি বাইনা যালিকা সাবীলা — এ দুইয়ের মাঝে একটি পথ খোঁজো। ক্রিয়াপদটি লক্ষ করুন: ইবতিগা মানে সক্রিয়ভাবে খোঁজা, নিষ্ক্রিয়ভাবে থিতু হওয়া নয়। মাঝামাঝি জায়গাটি এমন নয় যেখানে বিশেষ কিছু না করলেই পৌঁছে যাওয়া যায়; এটি এমন কিছু যা খুঁজে বের করতে হয়। একই গঠন — বাইনা যালিকা — আসে 25:67 আয়াতে, রহমানের বান্দাদের সম্পর্কে, যারা ব্যয় করার সময় অপব্যয়ও করে না, কার্পণ্যও করে না, বরং এ দুইয়ের মাঝামাঝি পথ ধরে থাকে।"
+            "bn": "শেষ কথাগুলো হলো ওয়াবতাগি বাইনা যালিকা সাবীলা: এ দুইয়ের মাঝে একটি পথ খোঁজো। ক্রিয়াটি লক্ষ করুন। ইবতিগা মানে সক্রিয়ভাবে খুঁজে নেওয়া, চুপচাপ কোথাও থিতু হয়ে যাওয়া নয়। কিছু না করে বসে থাকলেই মাঝামাঝি জায়গায় পৌঁছানো যায় না; সেটা খুঁজে বের করতে হয়। একই গঠন, বাইনা যালিকা, এসেছে ২৫:৬৭ আয়াতে, রহমানের বান্দাদের বর্ণনায়: খরচ করার সময় তারা অপচয়ও করে না, কৃপণতাও করে না, বরং দুইয়ের মাঝামাঝি পথে থাকে।"
           },
           {
             "en": "That parallel is instructive. In both places the middle is defined by naming the two ditches, not by giving a measurement. Neither verse says how loud or how much. The believer is trusted to look at the two failures, see which one his own temperament pulls him toward, and correct in the other direction. Moderation in the Quran is a judgement exercised, not a quantity supplied.",
-            "bn": "এই মিলটি শিক্ষণীয়। দুই জায়গাতেই মাঝামাঝি পথকে চেনানো হয় দুই পাশের দুই খাদের নাম বলে, কোনো মাপ দিয়ে নয়। কোনো আয়াতই বলে না কতটা জোরে বা কতটা পরিমাণে। মুমিনের উপর ভরসা রাখা হয় যে সে দুটি ব্যর্থতার দিকে তাকিয়ে দেখবে তার নিজের স্বভাব কোনটির দিকে টানে, আর উল্টো দিকে নিজেকে শোধরাবে। কুরআনে মধ্যপন্থা হলো প্রয়োগ করা এক বিচারবোধ, মেপে দেওয়া কোনো পরিমাণ নয়।"
+            "bn": "এই মিল থেকে শেখার আছে। দুই জায়গাতেই মাঝামাঝি পথ চেনানো হয়েছে দুই পাশের দুটি খাদ দেখিয়ে, কোনো মাপ বলে দিয়ে নয়। কোনো আয়াতেই বলা নেই কতটা জোরে বা কতটা পরিমাণে। বিষয়টা মুমিনের বিবেচনায় ছেড়ে দেওয়া হয়েছে: দুটি ভুলের দিকে তাকিয়ে সে দেখবে, তার নিজের স্বভাব কোনটার দিকে টানে, তারপর উল্টো দিকে নিজেকে শুধরে নেবে। কুরআনে মধ্যপন্থা মানে বিবেচনা খাটানো, মেপে হাতে তুলে দেওয়া কোনো পরিমাণ নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Middle Protects",
-          "bn": "মধ্যপন্থা যা রক্ষা করে"
+          "bn": "মধ্যপন্থা কী আগলে রাখে"
         },
         "p": [
           {
             "en": "There is a second thing the middle guards, quieter than the first. A voice raised beyond what the listeners need has begun to perform, and a worshipper who is aware of being heard is no longer only addressing Allah. The verse does not accuse anyone of that, but by capping the volume at what is useful it removes the room in which it grows. Sincerity is protected here by a rule about sound.",
-            "bn": "মধ্যপন্থা আরও একটি জিনিস রক্ষা করে, যা প্রথমটির চেয়ে নীরব। শ্রোতাদের প্রয়োজনের চেয়ে বেশি উঁচু করা স্বর অভিনয়ে ঢুকে পড়েছে, আর যে মুসল্লি সচেতন যে তাকে শোনা হচ্ছে সে আর কেবল আল্লাহকেই সম্বোধন করছে না। আয়াতটি কারও বিরুদ্ধে এই অভিযোগ করে না, তবে স্বরকে যতটুকু কাজে লাগে ততটুকুতে বেঁধে দিয়ে সেই জায়গাটুকুই সরিয়ে দেয় যেখানে এটি বেড়ে ওঠে। এখানে ইখলাসকে রক্ষা করা হয়েছে শব্দ সম্পর্কে একটি নিয়ম দিয়ে।"
+            "bn": "মধ্যপন্থা আরও একটি জিনিস পাহারা দেয়, যা প্রথমটির মতো চোখে পড়ে না। শ্রোতাদের যতটুকু দরকার, স্বর তার চেয়ে উঁচু হলে লোক দেখানো শুরু হয়ে যায়। আর যে মুসল্লি টের পায় লোকে তাকে শুনছে, সে তখন আর শুধু আল্লাহকে ডাকছে না। আয়াতটি কাউকে এ অভিযোগ করে না। কিন্তু যতটুকু কাজে লাগে, স্বরকে ততটুকুতে বেঁধে দিয়ে এই রোগ বেড়ে ওঠার জায়গাটাই সরিয়ে দেয়। আওয়াজের একটি নিয়মই এখানে ইখলাসকে পাহারা দিচ্ছে।"
           }
         ]
       },
@@ -2281,7 +2281,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two things follow for practice. First, widen the names you use. If every du'a you make opens the same way, you are approaching Allah through one door when many stand open, and 7:180 invites you through all of them; ask the Merciful for mercy and the Generous for provision by name. Second, in the audible prayers, set the volume by whether the last row can hear, and let that, rather than your own ear, decide.",
-            "bn": "ব্যবহারিকভাবে দুটি কথা এখান থেকে আসে। প্রথমত, যে নামগুলো আপনি ব্যবহার করেন তার পরিসর বাড়ান। আপনার প্রতিটি দোয়া যদি একইভাবে শুরু হয়, তবে বহু দরজা খোলা থাকতে আপনি একটি দরজা দিয়েই আল্লাহর কাছে যাচ্ছেন, অথচ 7:180 আপনাকে সবগুলো দিয়েই ডাকে; রহমানের কাছে রহমত চান আর কারীমের কাছে রিযিক চান, নাম ধরে। দ্বিতীয়ত, সরব নামাযগুলোতে স্বর ঠিক করুন এই বিচারে যে শেষ কাতার শুনতে পাচ্ছে কি না, আর নিজের কান নয়, সেটিই সিদ্ধান্ত নিক।"
+            "bn": "আমলের জন্য এখান থেকে দুটি কথা আসে। প্রথমত, আল্লাহকে আরও বেশি নামে ডাকুন। আপনার প্রতিটি দোয়া যদি একইভাবে শুরু হয়, তাহলে বহু দরজা খোলা থাকতেও আপনি একটি দরজা দিয়েই আল্লাহর কাছে যাচ্ছেন। অথচ ৭:১৮০ আপনাকে সবগুলো দরজা দিয়েই ডাকছে। রহমানের কাছে রহমত চান, কারীমের কাছে রিযিক চান, নাম ধরে। দ্বিতীয়ত, সরব নামাজগুলোতে স্বর ঠিক করুন শেষ কাতার শুনতে পাচ্ছে কি না দেখে। নিজের কান নয়, সেটাই ঠিক করুক কতটা জোরে পড়বেন।"
           }
         ]
       }
