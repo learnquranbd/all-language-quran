@@ -72,7 +72,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Above Which, Above Whom",
-          "bn": "কার উপর, কোন উপর"
+          "bn": "কিসের উপর, কার উপর"
         },
         "p": [
           {
@@ -93,7 +93,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-l-mala'ikatu yusabbihuna bi-hamdi rabbihim: and the angels glorify with the praise of their Lord. At-Tabari explains that the angels pray in obedience to their Lord and in thanks to Him, out of awe of His majesty and greatness, and he reports Ibn 'Abbas (RA): they glorify Him from His greatness. The Muyassar says they declare Him free of what does not befit Him. As-Sa'di calls them the noble angels brought near, humbled before His greatness, lowly before His might, yielding to His lordship; they exalt Him above every deficiency and describe Him with every perfection.",
-            "bn": "ওয়াল মালাইকাতু ইউসাব্বিহূনা বিহামদি রাব্বিহিম: আর ফেরেশতারা তাঁদের রবের প্রশংসাসহ তাসবীহ পাঠ করেন। তাবারী বলেন, ফেরেশতারা রবের আনুগত্য আর তাঁর প্রতি কৃতজ্ঞতা নিয়ে সালাত আদায় করেন, তাঁর প্রতাপ ও মহত্ত্বের ভয়ে। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: তাঁর মহত্ত্বের কারণে তাঁরা তাঁর তাসবীহ করেন। মুয়াসসার বলে, যা তাঁর শানে মানায় না, তা থেকে তাঁরা তাঁকে পবিত্র ঘোষণা করেন। সা'দী তাঁদের বলেন সম্মানিত, নৈকট্যপ্রাপ্ত ফেরেশতা। তাঁরা তাঁর মহত্ত্বের সামনে নত, তাঁর পরাক্রমের সামনে বিনীত, তাঁর রুবূবিয়াত মেনে নেওয়া। সব অপূর্ণতা থেকে তাঁরা তাঁকে ঊর্ধ্বে রাখেন, আর তাঁকে বর্ণনা করেন সব পূর্ণতার গুণে।"
+            "bn": "ওয়াল মালাইকাতু ইউসাব্বিহূনা বিহামদি রাব্বিহিম: আর ফেরেশতারা তাঁদের রবের প্রশংসাসহ তাসবীহ পাঠ করেন। তাবারী বলেন, ফেরেশতারা রবের আনুগত্য আর তাঁর প্রতি কৃতজ্ঞতা নিয়ে সালাত আদায় করেন, তাঁর প্রতাপ ও মহত্ত্বের ভয়ে। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: তাঁর মহত্ত্বের কারণে তাঁরা তাঁর তাসবীহ করেন। মুয়াসসার বলে, যা তাঁর শানে মানায় না, তা থেকে তাঁরা তাঁকে পবিত্র ঘোষণা করেন। সা'দী তাঁদের বলেন সম্মানিত, নৈকট্যপ্রাপ্ত ফেরেশতা। তাঁরা তাঁর মহত্ত্বের সামনে নত, তাঁর পরাক্রমের সামনে বিনীত, তাঁর রুবূবিয়াতের কাছে অনুগত। সব অপূর্ণতা থেকে তাঁরা তাঁকে ঊর্ধ্বে রাখেন, আর তাঁকে বর্ণনা করেন সব পূর্ণতার গুণে।"
           },
           {
             "en": "Al-Qurtubi opens the word further. Tasbih is tanzih, declaring Him free of whatever may not be said of Him or befit His majesty. It was also said that the angels marvel at the boldness of the polytheists, tasbih standing where wonder would. From 'Ali (RA): their tasbih is wonder at what they see of people exposing themselves to Allah's anger. Ibn 'Abbas (RA), in al-Qurtubi's report: their tasbih is submission to what they see of Allah's greatness. As-Suddi glosses bi-hamdi rabbihim as by the command of their Lord. Al-Qurtubi lists these without ranking them.",
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-kadhalika awhayna ilayka qur'anan 'arabiyyan: and thus We have revealed to you an Arabic Qur'an. The word thus looks back. Ibn Kathir and the Muyassar read it as: just as We revealed to the prophets before you, so We have revealed to you. That picks up 42:3, where Allah reveals to you and to those before you. Al-Qurtubi reads it the same way. Al-Baghawi keeps it short: like what We have mentioned.",
-            "bn": "ওয়া কাযালিকা আওহাইনা ইলাইকা কুরআনান আরাবিয়্যা: আর এভাবেই আমি তোমার প্রতি আরবী কুরআন ওয়াহী করেছি। 'এভাবেই' শব্দটা পেছনের দিকে তাকায়। ইবন কাসীর ও মুয়াসসার এর অর্থ করেন: তোমার আগের নবীদের প্রতি যেভাবে ওয়াহী পাঠিয়েছি, সেভাবেই তোমার প্রতিও পাঠিয়েছি। এতে ৪২:৩ আয়াতের কথাটা আবার ফিরে আসে, যেখানে আল্লাহ তোমার প্রতি আর তোমার পূর্ববর্তীদের প্রতি ওয়াহী পাঠান। কুরতুবীর ব্যাখ্যাও একই রকম। বাগাভী সংক্ষেপে বলেন: যেমনটা আমি উল্লেখ করেছি।"
+            "bn": "ওয়া কাযালিকা আওহাইনা ইলাইকা কুরআনান আরাবিয়্যা: আর এভাবেই আমি তোমার কাছে আরবী কুরআন ওহি করে পাঠিয়েছি। 'এভাবেই' শব্দটা পেছনের দিকে তাকায়। ইবন কাসীর ও মুয়াসসার এর অর্থ করেন: তোমার আগের নবীদের কাছে যেভাবে ওহি পাঠিয়েছি, সেভাবেই তোমার কাছেও পাঠিয়েছি। এতে ৪২:৩ আয়াতের কথাটা আবার ফিরে আসে, যেখানে আল্লাহ তোমার কাছে আর তোমার পূর্ববর্তীদের কাছে ওহি পাঠান। কুরতুবীর ব্যাখ্যাও একই রকম। বাগাভী সংক্ষেপে বলেন: যেমনটা আমি উল্লেখ করেছি।"
           },
           {
             "en": "Why Arabic? At-Tabari answers from the audience. The people to whom the Prophet ﷺ was sent were Arabs, so the Qur'an came in their tongue, that they might understand the proofs of Allah and the reminder in it, for no messenger is sent except in the tongue of his people, to make things clear to them; that is the wording of 14:4. Al-Qurtubi gives the same reason. Ibn Kathir glosses 'arabiyyan as plain and clear, and as-Sa'di calls this clear Arabic Qur'an a favour upon the Messenger and upon people. 41:3 has already called it an Arabic Qur'an for a people who know.",
@@ -189,7 +189,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Why mother? The fetched texts give three answers. Ibn Kathir says Makkah was named the Mother of Towns because it is nobler than all other lands, for many proofs mentioned in their places. Al-Qurtubi records, under the words it is said, that it was called so because the earth was spread out from beneath it. Ma'arif al-Qur'an explains the title as origin and foundation of all habitations and cities, given because to Allah it is more distinguished than every other city and the whole earth.",
-            "bn": "জননী কেন? আনা তাফসীরগুলো তিনটি উত্তর দেয়। ইবন কাসীর বলেন, মক্কার নাম উম্মুল কুরা, কারণ অন্য সব ভূখণ্ডের চেয়ে এর মর্যাদা বেশি। এর বহু প্রমাণ আছে, যা যথাস্থানে আলোচিত হয়েছে। কুরতুবী 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন, মক্কাকে এ নাম দেওয়া হয়েছে কারণ পৃথিবীকে এর নিচ থেকে বিছিয়ে দেওয়া হয়েছিল। মাআরিফুল কুরআন উপাধিটির ব্যাখ্যা করে সব জনবসতি আর শহরের মূল ও ভিত্তি হিসেবে। এ উপাধি দেওয়া হয়েছে, কারণ আল্লাহর কাছে মক্কা অন্য সব শহর, এমনকি গোটা পৃথিবীর চেয়েও বেশি সম্মানিত।"
+            "bn": "জননী কেন? সংগৃহীত লেখাগুলোতে তিনটি উত্তর পাওয়া যায়। ইবন কাসীর বলেন, মক্কার নাম উম্মুল কুরা, কারণ অন্য সব ভূখণ্ডের চেয়ে এর মর্যাদা বেশি। এর বহু প্রমাণ আছে, যা যথাস্থানে আলোচিত হয়েছে। কুরতুবী 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন, মক্কাকে এ নাম দেওয়া হয়েছে কারণ পৃথিবীকে এর নিচ থেকে বিছিয়ে দেওয়া হয়েছিল। মাআরিফুল কুরআন উপাধিটির ব্যাখ্যা করে সব জনবসতি আর শহরের মূল ও ভিত্তি হিসেবে। এ উপাধি দেওয়া হয়েছে, কারণ আল্লাহর কাছে মক্কা অন্য সব শহর, এমনকি গোটা পৃথিবীর চেয়েও বেশি সম্মানিত।"
           },
           {
             "en": "Ibn Kathir calls one proof the most concise and the clearest. At-Tirmidhi records it in his Jami' (3925) from 'Abdullah ibn 'Adi ibn Hamra' az-Zuhri: \"I saw the Messenger of Allah ﷺ standing at Al-Hazwarah, and he said: By Allah! You are the best of Allah's earth, and the most beloved of Allah's earth to Allah, and if it were not that I was expelled from you I would not have left.\" At-Tirmidhi grades it hasan sahih gharib. Al-Hazwarah, Ibn Kathir notes, was in the market of Makkah.",
@@ -221,7 +221,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-tundhira yawm al-jam': and that you may warn of the Day of Gathering. The verb comes a second time, and its object now is a day, not a people. At-Tabari explains: you warn of the punishment of Allah on the Day He gathers His servants for the standing of the reckoning and the presentation. He records as-Suddi: the Day of Resurrection. The Muyassar likewise makes the warning be of the punishment of the Day of Gathering, which is the Day of Resurrection.",
-            "bn": "ওয়া তুনযিরা ইয়াওমাল জাম': আর যাতে তুমি একত্র হওয়ার দিন সম্পর্কে সতর্ক করো। ক্রিয়াটি দ্বিতীয়বার এসেছে, আর এবার এর লক্ষ্য কোনো জনগোষ্ঠী নয়, একটা দিন। তাবারী ব্যাখ্যা করেন: সেই দিনের আল্লাহর শাস্তি সম্পর্কে তুমি সতর্ক করবে, যেদিন তিনি তাঁর বান্দাদের হিসাব আর উপস্থাপনের জন্য দাঁড় করাতে একত্র করবেন। সুদ্দী থেকে তিনি উদ্ধৃত করেন: কিয়ামতের দিন। মুয়াসসারও সতর্কবার্তাকে সম্পর্কিত করে একত্র হওয়ার দিনের শাস্তির সঙ্গে, আর সেটা কিয়ামতের দিন।"
+            "bn": "ওয়া তুনযিরা ইয়াওমাল জাম': আর যাতে তুমি একত্র হওয়ার দিন সম্পর্কে সতর্ক করো। ক্রিয়াটি দ্বিতীয়বার এসেছে, আর এবার এর লক্ষ্য কোনো জনগোষ্ঠী নয়, একটা দিন। তাবারীর ব্যাখ্যা: যেদিন আল্লাহ হিসাব আর উপস্থাপনের জন্য তাঁর বান্দাদের দাঁড় করাতে একত্র করবেন, সেদিনের শাস্তি সম্পর্কে তুমি সতর্ক করবে। সুদ্দী থেকে তিনি উদ্ধৃত করেন: কিয়ামতের দিন। মুয়াসসারেও সতর্কবার্তাটা একত্র হওয়ার দিনের শাস্তি নিয়ে, আর সেই দিন হলো কিয়ামতের দিন।"
           },
           {
             "en": "At-Tabari also reports a reading from the grammar: the meaning is you warn them of the Day of Gathering, the people being understood and left unsaid. He compares 3:175, yukhawwifu awliya'ahu, which he takes to mean that he frightens you of his allies, where again the person frightened is not named. Al-Qurtubi supplies a preposition instead: you warn of the Day, bi-yawm al-jam'. Al-Baghawi puts both together: you warn them of the Day of Gathering, which is the Day of Resurrection.",
@@ -321,11 +321,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Shara'a lakum mina-d-din: He has laid down for you, of the religion. Ma'arif al-Qur'an marks a turn: the verses before it spoke of outward blessings, the keys of the heavens and the earth and provision, and this one names the inner, spiritual blessing. As-Sa'di goes further and calls it the greatest favour God has done His servants: that He laid down for them the best of religions, the one He laid down for the choicest of His chosen.",
-            "bn": "শারাআ লাকুম মিনাদ দীন: তিনি তোমাদের জন্য দ্বীনের বিধান দিয়েছেন। মাআরিফুল কুরআন এখানে আলোচনার একটা মোড় দেখায়। আগের আয়াতগুলোতে ছিল বাইরের নিয়ামতের কথা: আসমান-যমীনের চাবি আর রিযক। এই আয়াত বলে ভেতরের, রূহানি নিয়ামতের কথা। সা'দী আরও এগিয়ে বলেন, বান্দাদের প্রতি আল্লাহর সবচেয়ে বড় অনুগ্রহ এটাই। তিনি তাদের জন্য সেরা দ্বীন নির্ধারণ করেছেন, সেই দ্বীন, যা তিনি দিয়েছিলেন তাঁর বাছাই করা বান্দাদের মধ্যে সবচেয়ে বাছাই করাদের।"
+            "bn": "শারাআ লাকুম মিনাদ দীন: তিনি তোমাদের জন্য দ্বীনের বিধান দিয়েছেন। মাআরিফুল কুরআন এখানে আলোচনার একটা মোড় দেখায়। আগের আয়াতগুলোতে ছিল বাইরের নিয়ামতের কথা: আসমান-জমিনের চাবি আর রিযিক। এই আয়াত বলে ভেতরের, রূহানি নিয়ামতের কথা। সা'দী আরও এগিয়ে বলেন, বান্দাদের প্রতি আল্লাহর সবচেয়ে বড় অনুগ্রহ এটাই: তিনি তাদের জন্য সেরা দ্বীন নির্ধারণ করেছেন। এ সেই দ্বীন, যা তিনি দিয়েছিলেন তাঁর বাছাই করা বান্দাদের মধ্যেও সেরাদের।"
           },
           {
             "en": "The verb is a road word. Al-Qurtubi glosses shara'a as: He opened a way, made it plain and showed its paths. He then lays out the family of the root. Ash-shari' is the main road, and a house is called shari' when it stands on a through road. Al-Baghawi keeps it short: He made clear and set down for you. On this reading, the religion reaches its hearers as a way already cut, not a riddle each of them must work out alone.",
-            "bn": "ক্রিয়াটার সঙ্গে পথের সম্পর্ক। কুরতুবী শারাআর অর্থ বলেন: পথ খুলে দিয়েছেন, তা স্পষ্ট করেছেন, তার রাস্তাগুলো দেখিয়ে দিয়েছেন। তারপর তিনি ধাতুটার পরিবার মেলে ধরেন। আশ-শারি' মানে বড় রাস্তা। যে বাড়ি চলাচলের খোলা রাস্তার ধারে, তাকেও শারি' বলা হয়। বাগাভী অল্প কথায় বলেন: তোমাদের জন্য স্পষ্ট করেছেন ও নির্ধারণ করে দিয়েছেন। এই পাঠে দ্বীন শ্রোতার কাছে আসে আগে থেকে কেটে রাখা পথ হয়ে। প্রত্যেককে একা একা ধাঁধার সমাধান খুঁজতে হয় না।"
+            "bn": "ক্রিয়াটার সঙ্গে পথের সম্পর্ক। কুরতুবী শারাআর অর্থ বলেন: পথ খুলে দিয়েছেন, তা স্পষ্ট করেছেন, তার রাস্তাগুলো দেখিয়ে দিয়েছেন। তারপর তিনি একই ধাতুর অন্য শব্দগুলো দেখান। আশ-শারি' মানে বড় রাস্তা। যে বাড়ি চলাচলের খোলা রাস্তার ধারে, তাকেও শারি' বলা হয়। বাগাভী অল্প কথায় বলেন: তোমাদের জন্য স্পষ্ট করেছেন ও নির্ধারণ করে দিয়েছেন। এই পাঠে দ্বীন শ্রোতার কাছে আসে আগে থেকে কেটে রাখা পথ হয়ে। প্রত্যেককে একা একা ধাঁধার সমাধান খুঁজতে হয় না।"
           }
         ]
       },
@@ -429,7 +429,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kabura 'ala-l-mushrikina ma tad'uhum ilayh: heavy upon the mushrikin is what you call them to. At-Tabari names the audience and the content: heavy upon those of your people, O Muhammad, who associate others with God, is your call to devote worship sincerely to God, to single Him out in divinity and to disown the gods and rivals besides Him. Al-Qurtubi and al-Baghawi: tawhid and the rejection of idols. Qatada, in at-Tabari, says the witness that there is no god but God weighed on them.",
-            "bn": "কাবুরা আলাল মুশরিকীনা মা তাদ'ূহুম ইলাইহ: তুমি তাদের যেদিকে ডাকছ, তা মুশরিকদের কাছে ভারী ঠেকে। তাবারী শ্রোতাদের আর ডাকের বিষয় দুটোই চিনিয়ে দেন। হে মুহাম্মাদ, তোমার কওমের যারা আল্লাহর সঙ্গে শরিক করে, তাদের কাছে ভারী ঠেকে তোমার এই ডাক: ইবাদত খাঁটিভাবে আল্লাহর জন্য করো, উলূহিয়্যাতে তাঁকে একক মানো, আর তাঁকে ছাড়া অন্য সব উপাস্য ও সমকক্ষ থেকে সম্পর্ক ছিন্ন করো। কুরতুবী ও বাগাভী বলেন: তাওহীদ আর মূর্তি বর্জন। তাবারীর উদ্ধৃতিতে কাতাদা বলেন, লা ইলাহা ইল্লাল্লাহর সাক্ষ্য তাদের কাছে ভারী লেগেছিল।"
+            "bn": "কাবুরা আলাল মুশরিকীনা মা তাদউহুম ইলাইহ: তুমি তাদের যেদিকে ডাকছ, তা মুশরিকদের কাছে ভারী ঠেকে। তাবারী শ্রোতাদের আর ডাকের বিষয় দুটোই চিনিয়ে দেন। হে মুহাম্মাদ, তোমার কওমের যারা আল্লাহর সঙ্গে শরিক করে, তাদের কাছে ভারী ঠেকে তোমার এই ডাক: ইবাদত খাঁটিভাবে আল্লাহর জন্য করো, উলূহিয়্যাতে তাঁকে একক মানো, আর তাঁকে ছাড়া অন্য সব উপাস্য ও সমকক্ষ থেকে সম্পর্ক ছিন্ন করো। কুরতুবী ও বাগাভী বলেন: তাওহীদ আর মূর্তি বর্জন। তাবারীর উদ্ধৃতিতে কাতাদা বলেন, লা ইলাহা ইল্লাল্লাহর সাক্ষ্য তাদের কাছে ভারী লেগেছিল।"
           },
           {
             "en": "Qatada goes on: Iblis and his troops set themselves against it, and God refused anything but to carry it through and make it prevail over whoever opposed it. As-Sa'di says it was hard on them in the extreme, since they were called to devotion to God alone, and cites two verses: 39:45, when God alone is mentioned their hearts shrink, and 38:5, has he made the gods one God? Ma'arif al-Qur'an gives the reason: they followed their desires and had no intention of understanding the truth.",
@@ -473,23 +473,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is short and its subject is fixed by what surrounds it. Allah is Latif with His servants; He provides for whom He wills; and He is al-Qawiyy, al-Aziz. The sentence in the middle is about rizq, and 42:20 continues on the same theme, promising increase to whoever wants the harvest of the Hereafter and a portion only in this world to whoever wants that. So the gentleness being described is not gentleness in the abstract. It is gentleness in the distribution of what people live on.",
-            "bn": "আয়াতটি ছোট, আর এর বিষয়বস্তু নির্ধারিত হয়ে আছে চারপাশের আয়াতগুলো দিয়ে। আল্লাহ তাঁর বান্দাদের প্রতি 'লাতীফ'; তিনি যাকে ইচ্ছা রিযিক দেন; আর তিনি আল-কাউয়িয়্য, আল-আযীয। মাঝের বাক্যটি রিযিক নিয়ে, আর 42:20 আয়াত একই প্রসঙ্গ ধরে এগোয় — যে আখিরাতের ফসল চায় তাকে বৃদ্ধির প্রতিশ্রুতি, আর যে দুনিয়ার ফসল চায় তার জন্য কেবল এখানকার একটি ভাগ। সুতরাং এখানে যে কোমলতার কথা বলা হচ্ছে তা বিমূর্ত কোমলতা নয়। এটি মানুষ যা দিয়ে বেঁচে থাকে তার বণ্টনে কোমলতা।"
+            "bn": "আয়াতটি ছোট, আর এর বিষয় কী, তা ঠিক করে দেয় আশপাশের কথা। আল্লাহ তাঁর বান্দাদের প্রতি লাতীফ। তিনি যাকে ইচ্ছা রিযিক দেন। আর তিনি আল-কাউয়িয়্য, আল-আযীয। মাঝের বাক্যটি রিযিক নিয়ে। ৪২:২০ আয়াতও একই কথা ধরে এগোয়: যে আখিরাতের ফসল চায়, তার জন্য বাড়িয়ে দেওয়ার ওয়াদা, আর যে দুনিয়ার ফসল চায়, তার জন্য শুধু এখানকার একটা ভাগ। তাই এখানে যে কোমলতার কথা, তা কোনো বিমূর্ত কোমলতা নয়। মানুষ যা দিয়ে বেঁচে থাকে, তা বণ্টনের কোমলতা।"
           }
         ]
       },
       {
         "h": {
           "en": "Latif Without the Article",
-          "bn": "নির্দিষ্টতা ছাড়া লাতীফ"
+          "bn": "'আল' ছাড়া লাতীফ"
         },
         "p": [
           {
             "en": "A small grammatical detail is easy to walk past. Here the word arrives indefinite, latifun bi ibadihi, and attached directly to His servants, whereas in 6:103 and 67:14 it comes with the definite article as al-Latif, a name standing on its own. The indefinite form with the attachment reads less like a title and more like a report of how He deals with them. This verse is not defining a name; it is telling you what He is doing with people.",
-            "bn": "একটি ছোট ব্যাকরণগত খুঁটিনাটি সহজেই চোখ এড়িয়ে যায়। এখানে শব্দটি এসেছে অনির্দিষ্ট রূপে — 'লাতীফুন বি-ইবাদিহি' — এবং সরাসরি তাঁর বান্দাদের সঙ্গে যুক্ত হয়ে; অথচ 6:103 ও 67:14 আয়াতে তা এসেছে নির্দিষ্টতাবাচক 'আল' সহ 'আল-লাতীফ' রূপে, নিজের পায়ে দাঁড়ানো একটি নাম হিসেবে। বান্দাদের সঙ্গে যুক্ত অনির্দিষ্ট রূপটিকে উপাধির চেয়ে বেশি মনে হয় তাদের সঙ্গে তাঁর আচরণের বিবরণ বলে। এই আয়াত কোনো নামের সংজ্ঞা দিচ্ছে না; বলছে তিনি মানুষের সঙ্গে কী করছেন।"
+            "bn": "ব্যাকরণের ছোট্ট একটা খুঁটিনাটি সহজেই চোখ এড়িয়ে যায়। এখানে শব্দটি এসেছে অনির্দিষ্ট রূপে, লাতীফুন বি-ইবাদিহি, আর সরাসরি জুড়ে আছে তাঁর বান্দাদের সঙ্গে। অথচ ৬:১০৩ ও ৬৭:১৪ আয়াতে তা এসেছে 'আল' সহ, আল-লাতীফ রূপে, স্বতন্ত্র একটি নাম হয়ে। বান্দাদের সঙ্গে জোড়া এই অনির্দিষ্ট রূপ পড়লে উপাধি মনে হয় কম। বরং মনে হয়, তাদের সঙ্গে তিনি কেমন আচরণ করেন, তারই খবর। এ আয়াত কোনো নামের সংজ্ঞা দিচ্ছে না। আপনাকে জানাচ্ছে, মানুষের সঙ্গে তিনি কী করছেন।"
           },
           {
             "en": "The word itself carries two established senses, and translators divide over which to bring across, some giving Kind and others giving Subtle. They are not two guesses at one meaning. The lexicographers and the mufassirun treat them as two genuine faces of the same root, and the tradition holds both rather than choosing. Keeping them apart is the only way to see what each is actually claiming about Allah, so it is worth taking them one at a time.",
-            "bn": "শব্দটি নিজেই দুটি স্বীকৃত অর্থ বহন করে, আর অনুবাদকরা কোনটি আনবেন তা নিয়ে বিভক্ত — কেউ দেন 'মেহেরবান', কেউ দেন 'সূক্ষ্মদর্শী'। এ দুটি একই অর্থ নিয়ে দুটি অনুমান নয়। অভিধানকার ও মুফাসসিরগণ এ দুটিকে একই ধাতুর দুটি প্রকৃত মুখ হিসেবে দেখেন, আর ঐতিহ্য কোনো একটিকে বেছে না নিয়ে দুটিকেই ধরে রাখে। এগুলোকে আলাদা রাখাই একমাত্র উপায় যাতে বোঝা যায় প্রতিটি আসলে আল্লাহ সম্পর্কে কী দাবি করছে; তাই একটি একটি করে দেখাই ভালো।"
+            "bn": "শব্দটির দুটি প্রতিষ্ঠিত অর্থ আছে। কোনটি আনবেন, তা নিয়ে অনুবাদকরা ভাগ হয়ে যান: কেউ লেখেন 'মেহেরবান', কেউ 'সূক্ষ্মদর্শী'। এ দুটি একই অর্থের দুই রকম আন্দাজ নয়। অভিধানবিদ আর মুফাসসিররা এ দুটিকে একই ধাতুর দুটি সত্যিকারের দিক হিসেবে দেখেন। ঐতিহ্যও একটিকে বেছে নেয় না, দুটিকেই ধরে রাখে। প্রতিটি অর্থ আল্লাহ সম্পর্কে আসলে কী বলছে, তা বুঝতে হলে দুটিকে আলাদা রাখতে হবে। তাই একটা একটা করে দেখা যাক।"
           }
         ]
       },
@@ -501,7 +501,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In the first sense Latif describes the manner of His kindness: so fine in its working that the one receiving it does not see it happening, and often arriving by a route the servant would have refused if he had been asked. Yusuf (AS) names this after a lifetime of it. In 12:100 he looks back over a prison, an estrangement from his brothers and a family brought out of the desert, and says that his Lord is Latif in what He wills. He could not have said that in the pit.",
-            "bn": "প্রথম অর্থে 'লাতীফ' বর্ণনা করে তাঁর দয়ার ধরনটিকে: এর কাজ এতই সূক্ষ্ম যে যে তা পাচ্ছে সে ঘটতে দেখে না, আর তা প্রায়ই আসে এমন পথ ধরে যে পথে যেতে বান্দাকে জিজ্ঞেস করা হলে সে রাজি হতো না। ইউসুফ (আঃ) সারাজীবন এর ভেতর দিয়ে যাওয়ার পর এর নাম দেন। 12:100 আয়াতে তিনি ফিরে তাকান কারাগার, ভাইদের সঙ্গে বিচ্ছেদ আর মরু অঞ্চল থেকে পরিবারকে এনে দেওয়ার দিকে, এবং বলেন তাঁর রব যা ইচ্ছা করেন তাতে তিনি লাতীফ। কুয়োর ভেতরে দাঁড়িয়ে তিনি এ কথা বলতে পারতেন না।"
+            "bn": "প্রথম অর্থে লাতীফ বলে দেয় তাঁর দয়ার ধরন। সে দয়া এত সূক্ষ্মভাবে কাজ করে যে যে পায়, সে টেরও পায় না। অনেক সময় তা আসে এমন পথে, যে পথের কথা আগে জিজ্ঞেস করলে বান্দা রাজিই হতো না। ইউসুফ (আঃ) সারা জীবন এর ভেতর দিয়ে গিয়ে তারপর এর নাম মুখে আনেন। ১২:১০০ আয়াতে তিনি পেছনে তাকান: কারাগার, ভাইদের সঙ্গে দূরত্ব, মরুভূমি থেকে পরিবারকে নিয়ে আসা। তারপর বলেন, আমার রব যা চান, তাতে তিনি লাতীফ। কূপের ভেতরে থেকে এ কথা তিনি বলতে পারতেন না।"
           }
         ]
       },
@@ -513,11 +513,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In the second sense the root points to fineness itself, and the name describes a knowledge that reaches what is too small or too buried for anyone else to reach. Luqman uses it exactly so in 31:16, telling his son that if a deed were the weight of a mustard seed and lay inside a rock or in the heavens or in the earth, Allah would bring it out, for Allah is Latif and Aware. Nothing there is about kindness. It is about reach.",
-            "bn": "দ্বিতীয় অর্থে ধাতুটি সূক্ষ্মতার দিকেই ইঙ্গিত করে, আর নামটি বর্ণনা করে এমন এক জ্ঞান যা সেখানেও পৌঁছায় যা অন্য কারও পক্ষে পৌঁছানোর মতো নয় — অতি ক্ষুদ্র বা অতি গভীরে চাপা। লুকমান 31:16 আয়াতে ঠিক এভাবেই এটি ব্যবহার করেন, ছেলেকে বলেন যে কোনো আমল যদি সরিষার দানার সমানও হয় এবং তা থাকে পাথরের ভেতরে কিংবা আসমানে বা যমীনে, আল্লাহ তা বের করে আনবেন, কারণ আল্লাহ লাতীফ ও সব বিষয়ে অবগত। এখানে দয়ার কোনো প্রসঙ্গ নেই। এখানে প্রসঙ্গ নাগালের।"
+            "bn": "দ্বিতীয় অর্থে ধাতুটি খোদ সূক্ষ্মতাকে বোঝায়। তখন নামটি বলে এমন জ্ঞানের কথা, যা পৌঁছে যায় এত ছোট বা এত গভীরে চাপা জিনিস পর্যন্ত, যেখানে আর কেউ পৌঁছাতে পারে না। ৩১:১৬ আয়াতে লুকমান ঠিক এ অর্থেই শব্দটি ব্যবহার করেন। ছেলেকে তিনি বলেন: কোনো আমল যদি সরিষার দানার সমানও হয়, আর তা থাকে কোনো পাথরের ভেতরে, কিংবা আসমানে বা জমিনে, আল্লাহ তা বের করে আনবেন। কারণ আল্লাহ লাতীফ, সব খবর রাখেন। সেখানে দয়ার কোনো কথা নেই। কথাটা নাগালের।"
           },
           {
             "en": "As-Sa'di explains why one word holds both. The kindness works precisely because the knowledge is that fine: He alone knows where a person's benefit lies down to details the person cannot see, so He alone can arrange it without the person noticing. Read that way the two senses are not merged into a blur. They stand in a relation, one making the other possible, which is why the mufassirun cite both under this verse.",
-            "bn": "আস-সাদী ব্যাখ্যা করেন কেন একটি শব্দ দুটিকেই ধরে রাখে। দয়া ঠিক এ কারণেই কাজ করে যে জ্ঞানটি এত সূক্ষ্ম: একমাত্র তিনিই জানেন মানুষের কল্যাণ কোথায় আছে — এমন খুঁটিনাটি পর্যন্ত যা মানুষ নিজে দেখতে পায় না, তাই একমাত্র তিনিই তা সাজাতে পারেন মানুষকে টের পেতে না দিয়ে। এভাবে পড়লে অর্থ দুটি ঘুলিয়ে এক হয়ে যায় না। তারা একটি সম্পর্কের ভেতরে দাঁড়ায়, একটি অন্যটিকে সম্ভব করে তোলে, আর সে কারণেই মুফাসসিরগণ এই আয়াতের নিচে দুটিই উল্লেখ করেন।"
+            "bn": "একটি শব্দে কেন দুটি অর্থই ধরা আছে, সা'দী তা ব্যাখ্যা করেন। জ্ঞান এত সূক্ষ্ম বলেই দয়াটা কাজ করে। মানুষের কল্যাণ কোথায়, তা শুধু তিনিই জানেন, এমন খুঁটিনাটি পর্যন্ত যা মানুষ নিজে দেখতে পায় না। তাই শুধু তিনিই পারেন মানুষকে টের পেতে না দিয়ে সব গুছিয়ে দিতে। এভাবে পড়লে দুই অর্থ ঘুলিয়ে এক হয়ে যায় না। দুটির মধ্যে একটা সম্পর্ক আছে: একটি অন্যটিকে সম্ভব করে। এ কারণেই মুফাসসিররা এই আয়াতের আলোচনায় দুটিই উল্লেখ করেন।"
           }
         ]
       },
@@ -529,7 +529,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "He provides for whom He wills. Taken alone that clause can sound arbitrary, so the same surah supplies the reasoning later: 42:27 says that had Allah expanded provision for His servants they would have transgressed in the land, and that He sends it down in a measure He wills. Withholding, on this reading, is one of the operations of lutf and not an exception to it. And 35:2 puts the other half plainly, that what He grants none can withhold and what He withholds none can release.",
-            "bn": "তিনি যাকে ইচ্ছা রিযিক দেন। কেবল এটুকু নিলে বাক্যটিকে খামখেয়ালি শোনাতে পারে, তাই একই সূরা পরে যুক্তিটি সরবরাহ করে: 42:27 আয়াত বলে, আল্লাহ যদি তাঁর বান্দাদের রিযিক প্রশস্ত করে দিতেন তবে তারা যমীনে সীমালঙ্ঘন করত, আর তিনি তা নামান নির্দিষ্ট পরিমাণে, যেমন তিনি চান। এই পাঠ অনুযায়ী আটকে রাখাও 'লুতফ'-এরই একটি কাজ, তার ব্যতিক্রম নয়। আর 35:2 আয়াত অন্য অর্ধেকটি স্পষ্ট করে দেয় — তিনি যা দেন কেউ তা আটকাতে পারে না, আর তিনি যা আটকান কেউ তা ছাড়াতে পারে না।"
+            "bn": "তিনি যাকে ইচ্ছা রিযিক দেন। শুধু এটুকু শুনলে কথাটা খামখেয়ালি মনে হতে পারে। তাই একই সূরা পরে এর যুক্তিও দিয়ে দেয়। ৪২:২৭ আয়াত বলে, আল্লাহ যদি তাঁর বান্দাদের রিযিক অবারিত করে দিতেন, তারা জমিনে সীমালঙ্ঘন করত। আর তিনি যতটুকু চান, মেপে নাজিল করেন। এই পাঠে আটকে রাখাও লুতফেরই একটা রূপ, তার ব্যতিক্রম নয়। আর ৩৫:২ আয়াত বাকি অর্ধেকটা সোজাসুজি বলে দেয়: তিনি যা দেন, কেউ তা আটকাতে পারে না, আর তিনি যা আটকে রাখেন, কেউ তা ছাড়াতে পারে না।"
           }
         ]
       },
@@ -541,7 +541,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends al-Qawiyy al-Aziz, the Strong, the Mighty, and the pairing is the point. Human gentleness is often a shortage of options: we are kind because we cannot do otherwise. His is not. The One arranging your affairs so quietly that you miss it could have arranged it any other way and was not obliged to make it gentle. That closing turns the whole verse from a consolation into a guarantee.",
-            "bn": "আয়াতটি শেষ হয় আল-কাউয়িয়্য ও আল-আযীয নামে — শক্তিমান, পরাক্রমশালী; আর এই জোড়াটিই মূল কথা। মানুষের কোমলতা প্রায়ই উপায়ের অভাব: আমরা কোমল হই কারণ অন্য কিছু করার সাধ্য নেই। তাঁরটি তেমন নয়। যিনি আপনার বিষয়গুলো এত নিঃশব্দে সাজিয়ে দিচ্ছেন যে আপনি টেরই পান না, তিনি চাইলে অন্য যেকোনোভাবেই সাজাতে পারতেন এবং কোমলভাবে সাজাতে বাধ্য ছিলেন না। এই সমাপ্তিটিই গোটা আয়াতকে সান্ত্বনা থেকে নিশ্চয়তায় বদলে দেয়।"
+            "bn": "আয়াতটি শেষ হয় আল-কাউয়িয়্য, আল-আযীয দিয়ে: শক্তিমান, পরাক্রমশালী। এই জোড়াটাই আসল কথা। মানুষের কোমলতা অনেক সময় উপায় না থাকা থেকে আসে: অন্য কিছু করার সাধ্য নেই বলেই আমরা নরম হই। তাঁর কোমলতা তেমন নয়। যিনি আপনার কাজগুলো এত নিঃশব্দে গুছিয়ে দিচ্ছেন যে আপনি টেরই পান না, তিনি চাইলে অন্য যেকোনোভাবে গোছাতে পারতেন। কোমলভাবে গোছাতে তিনি বাধ্য ছিলেন না। এই শেষ কথাটাই পুরো আয়াতকে সান্ত্বনা থেকে নিশ্চয়তায় পরিণত করে।"
           },
           {
             "en": "Lived out, this verse mostly does its work backwards. What it asks is that you look at the parts of your history you did not choose and check them again for arrangement, since lutf is by definition what you did not see at the time. Then it asks for patience in the present, where the same kind of work is presumably going on unseen, and where the honest position is not that nothing is happening but that you are not in a position to see it yet.",
