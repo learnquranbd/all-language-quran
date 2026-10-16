@@ -3229,7 +3229,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Being seen is what makes constancy possible when nobody else is watching. Al-Bukhari narrates from Aisha (RA) that the deed most beloved to Allah is the one done most constantly, even if it is small. That is istiqamah in practice: a rate you can hold for years rather than a fortnight of intensity followed by collapse. Choose the smaller portion, fix it to a time in the day, and let the verse's last clause supply the audience the effort needs.",
-            "bn": "কেউ যখন দেখছে না, তখনো ধারাবাহিক থাকা সম্ভব হয় এই কারণেই যে তিনি দেখছেন। ইমাম বুখারী আয়িশা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটিই যা সবচেয়ে নিয়মিত করা হয়, তা যত অল্পই হোক। এটিই বাস্তবে ইস্তিকামাত: এমন এক গতি যা বছরের পর বছর ধরে রাখা যায় — দুই সপ্তাহের প্রবল উদ্যম আর তারপর ভেঙে পড়া নয়। ছোট অংশটিই বেছে নিন, দিনের একটি নির্দিষ্ট সময়ের সঙ্গে বেঁধে দিন, আর আয়াতের শেষ বাক্যাংশটিকে সেই দর্শক হতে দিন যার প্রয়োজন এই চেষ্টার আছে।"
+            "bn": "আর কেউ যখন দেখছে না, তখনো নিয়মিত থাকা সম্ভব হয় এ কারণেই যে তিনি দেখছেন। ইমাম বুখারী আয়িশা (রাঃ) থেকে বর্ণনা করেন: আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটাই, যা সবচেয়ে নিয়মিত করা হয়, তা অল্প হলেও। বাস্তব জীবনে ইস্তিকামাত এটাই: এমন গতি, যা বছরের পর বছর ধরে রাখা যায়। দুই সপ্তাহ খুব জোরে চলে তারপর ভেঙে পড়া নয়। পরিমাণে ছোটটাই বেছে নিন, দিনের একটা নির্দিষ্ট সময়ের সঙ্গে সেটা বেঁধে দিন। আর এই চেষ্টার যে দর্শক দরকার, আয়াতের শেষ বাক্যাংশটিই তা জুগিয়ে দিক।"
           }
         ]
       }
@@ -3245,11 +3245,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Hud walks through the wreckage of nations that refused their prophets, and near its end turns to the Prophet ﷺ with instructions for carrying such a message. In 11:112 he is commanded to stand firm as he has been ordered, without overstepping. In 11:113 the believers are warned not to lean towards those who do wrong, lest the Fire touch them. Then comes this verse: establish the prayer.",
-            "bn": "সূরা হূদ সেইসব জাতির ধ্বংসস্তূপের ভেতর দিয়ে হেঁটে যায়, যারা তাদের নবীদের প্রত্যাখ্যান করেছিল, এবং শেষ দিকে নবী ﷺ-এর দিকে ফিরে এমন বার্তা বহনের নির্দেশনা দেয়। 11:112 আয়াতে তাঁকে আদেশ করা হয় যেভাবে আদিষ্ট হয়েছেন সেভাবে অবিচল থাকতে, সীমা না ছাড়িয়ে। 11:113 আয়াতে মুমিনদের সতর্ক করা হয় জালিমদের দিকে ঝুঁকে না পড়তে, নইলে আগুন তাদের স্পর্শ করবে। তারপর আসে এই আয়াত: নামায কায়েম করো।"
+            "bn": "সূরা হূদ একে একে সেইসব জাতির ধ্বংসাবশেষের ভেতর দিয়ে নিয়ে যায়, যারা নিজেদের নবীদের মানেনি। শেষ দিকে এসে সূরাটি নবী ﷺ-এর দিকে ফেরে, আর এমন বার্তা বয়ে নেওয়ার জন্য তাঁকে কিছু নির্দেশনা দেয়। ১১:১১২ আয়াতে আল্লাহ তাঁকে আদেশ দেন, যেভাবে আদিষ্ট হয়েছেন সেভাবেই যেন অবিচল থাকেন, সীমা না ছাড়ান। ১১:১১৩ আয়াতে মুমিনদের সতর্ক করে দেন, তারা যেন জালিমদের দিকে না ঝোঁকে, নইলে আগুন তাদের ছুঁয়ে ফেলবে। তারপর আসে এই আয়াত: নামাজ কায়েম করো।"
           },
           {
             "en": "The sequence is deliberate. Standing firm and refusing to lean on wrongdoers are exhausting postures; nobody holds them on willpower alone. So the surah follows those two commands with the practice that makes them sustainable — prayer repeated across the day — and with the news that good deeds do away with misdeeds. Steadfastness is commanded, and then the fuel for steadfastness is supplied, in that order.",
-            "bn": "এই ধারাবাহিকতা ইচ্ছাকৃত। অবিচল থাকা এবং জালিমদের ওপর ভর দিতে অস্বীকার করা — দুটোই ক্লান্তিকর অবস্থান; শুধু ইচ্ছাশক্তিতে কেউ এগুলো ধরে রাখতে পারে না। তাই সূরাটি ওই দুই আদেশের পরেই আনে সেই অনুশীলন, যা এগুলোকে টেকসই করে — দিনজুড়ে বারবার ফিরে আসা নামায — আর সেই সুসংবাদ যে সৎকাজ মন্দকাজ মুছে দেয়। আগে দৃঢ়তার আদেশ, তারপর সেই দৃঢ়তার জ্বালানি — ঠিক এই ক্রমে।"
+            "bn": "এই ক্রম ভেবেচিন্তেই সাজানো। অবিচল থাকা আর জালিমদের ওপর ভর না দেওয়া, দুটোই মানুষকে ক্লান্ত করে দেয়; শুধু মনের জোরে কেউ এগুলো ধরে রাখতে পারে না। তাই সূরাটি ওই দুই আদেশের পরপরই দেয় সেই আমল, যা এগুলোকে টিকিয়ে রাখে: দিনভর বারবার ফিরে আসা নামাজ। সঙ্গে দেয় এই সুসংবাদ যে নেক কাজ মন্দ কাজকে দূর করে দেয়। আগে অবিচল থাকার আদেশ, তারপর সেই অবিচলতার জ্বালানি, ঠিক এই ক্রমে।"
           }
         ]
       },
@@ -3261,27 +3261,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names the times with two phrases. Tarafay an-nahar is a dual form: the two ends of the day. Zulafan min al-layl uses a plural noun, zulaf, the near portions of the night — stretches of night that lie close to the day. The commentators agree these phrases cover the appointed prayers but differ over the exact mapping: many place Fajr at one end of the day and Zuhr and Asr at the other, with the night portions carrying Maghrib and Isha; others place Fajr and Maghrib at the two ends and read the night portions as Isha.",
-            "bn": "আয়াতটি দুটি বাক্যাংশে সময়গুলোর নাম নেয়। তারাফাইয়িন-নাহার একটি দ্বিবচন রূপ: দিনের দুই প্রান্ত। যুলাফাম মিনাল-লাইল ব্যবহার করে একটি বহুবচন বিশেষ্য, যুলাফ — রাতের নিকটবর্তী অংশগুলো, রাতের সেই প্রহরগুলো যা দিনের কাছাকাছি থাকে। মুফাসসিরগণ একমত যে এই বাক্যাংশগুলো নির্ধারিত নামাযগুলোকে ধারণ করে, তবে সুনির্দিষ্ট বিন্যাসে তাঁদের মত ভিন্ন: অনেকে দিনের এক প্রান্তে ফজর এবং অন্য প্রান্তে যোহর ও আসর রাখেন, আর রাতের অংশগুলোতে মাগরিব ও ইশা; আবার কেউ দুই প্রান্তে ফজর ও মাগরিব রাখেন এবং রাতের অংশগুলোকে ইশা হিসেবে পড়েন।"
+            "bn": "আয়াতটি দুটি শব্দগুচ্ছে সময়গুলোর কথা বলে। তারাফাইয়িন-নাহার দ্বিবচন: দিনের দুই প্রান্ত। যুলাফাম মিনাল-লাইল-এ আছে বহুবচন বিশেষ্য যুলাফ, অর্থাৎ রাতের কাছের অংশগুলো, রাতের সেই প্রহর যা দিনের গা ঘেঁষে থাকে। মুফাসসিরগণ একমত, এই শব্দগুলো নির্ধারিত নামাজগুলোর কথাই বলছে; তবে কোন শব্দে কোন নামাজ, তা নিয়ে তাঁদের মত ভিন্ন। অনেকে দিনের এক প্রান্তে ফজর আর অন্য প্রান্তে যোহর ও আসর ধরেন, আর রাতের অংশে মাগরিব ও ইশা। আবার কেউ দুই প্রান্তে ধরেন ফজর ও মাগরিব, আর রাতের অংশ বলতে বোঝেন ইশা।"
           },
           {
             "en": "The differences do not disturb the verse's point, which lies in the shape of the schedule rather than the labels. Prayer brackets the day at both ends and reaches into the night, so that no long stretch of waking life passes without a return to Allah. Whatever a person leaned towards in the morning, by evening there is a correction; whatever the day soiled, the night begins with a washing. The timetable itself is the mercy.",
-            "bn": "এই মতভেদ আয়াতের মূল কথাকে নাড়া দেয় না, কারণ মূল কথাটি নামের তালিকায় নয়, সময়সূচির আকৃতিতে। নামায দিনটিকে দুই প্রান্ত থেকে বেঁধে রাখে এবং রাতের ভেতরেও পৌঁছে যায়, ফলে জাগ্রত জীবনের কোনো দীর্ঘ প্রহর আল্লাহর দিকে ফেরা ছাড়া কাটে না। সকালে মানুষ যেদিকেই ঝুঁকে থাকুক, সন্ধ্যার মধ্যে একটি সংশোধন আসে; দিন যা-ই ময়লা করুক, রাত শুরু হয় একটি ধোয়া দিয়ে। এই সময়সূচিটাই রহমত।"
+            "bn": "এই মতভেদে আয়াতের মূল কথায় কোনো টান পড়ে না। মূল কথাটা নামাজগুলোর নামে নয়, সময়সূচির গড়নে। নামাজ দিনটাকে দুই মাথা থেকে বেঁধে রাখে, রাতের ভেতরেও ঢুকে যায়। ফলে জেগে থাকার কোনো লম্বা সময় আল্লাহর দিকে না ফিরে কাটে না। সকালে মানুষ যেদিকেই ঝুঁকে পড়ুক, সন্ধ্যা আসতে আসতে শুধরে নেওয়ার সুযোগ আসে; দিন যত ময়লাই লাগাক, রাত শুরু হয় ধুয়ে নেওয়া দিয়ে। এই সময়সূচিটাই রহমত।"
           }
         ]
       },
       {
         "h": {
           "en": "Good Deeds Carry Away Bad",
-          "bn": "সৎকাজ মন্দকে বয়ে নিয়ে যায়"
+          "bn": "সৎকাজ মন্দকে দূর করে দেয়"
         },
         "p": [
           {
             "en": "Then the principle, stated without qualification: inna al-hasanat yudhhibna as-sayyi'at, good deeds do away with misdeeds. The verb yudhhibna means to remove, to make go away — not merely to outweigh on a scale but to erase from the page. The commentators, reading this verse alongside the rest of revelation, understand the misdeeds erased this way to be the minor ones, because in 4:31 Allah promises that if the major sins are avoided, He will remove the lesser wrongs; the major ones call for repentance itself.",
-            "bn": "তারপর আসে নীতিটি, কোনো শর্ত ছাড়াই ঘোষিত: ইন্নাল-হাসানাতি ইউযহিবনাস-সাইয়িআত — সৎকাজ মন্দকাজ দূর করে দেয়। ইউযহিবনা ক্রিয়ার অর্থ সরিয়ে দেওয়া, চলে যেতে বাধ্য করা — কেবল পাল্লায় ভারী হওয়া নয়, বরং পাতা থেকে মুছে ফেলা। মুফাসসিরগণ এই আয়াতকে বাকি ওহীর পাশে রেখে বোঝেন যে এভাবে মুছে যাওয়া গুনাহগুলো ছোট গুনাহ, কারণ 4:31 আয়াতে আল্লাহ প্রতিশ্রুতি দেন — কবীরা গুনাহ এড়িয়ে চললে তিনি ছোট ত্রুটিগুলো মিটিয়ে দেবেন; কবীরা গুনাহর জন্য প্রয়োজন খোদ তাওবা।"
+            "bn": "তারপর আসে মূলনীতিটি, কোনো শর্ত না জুড়েই: ইন্নাল-হাসানাতি ইউযহিবনাস-সাইয়িআত, নেক কাজ মন্দ কাজকে দূর করে দেয়। ইউযহিবনা ক্রিয়ার অর্থ সরিয়ে দেওয়া, বিদায় করে দেওয়া। শুধু পাল্লায় ভারী হয়ে যাওয়া নয়, খাতা থেকে একেবারে মুছে ফেলা। মুফাসসিরগণ এই আয়াতকে বাকি ওহির সঙ্গে মিলিয়ে পড়েন, আর বলেন, এভাবে যে গুনাহ মুছে যায় তা ছোট গুনাহ। কারণ ৪:৩১ আয়াতে আল্লাহ ওয়াদা করেছেন, কবীরা গুনাহ থেকে বেঁচে থাকলে তিনি ছোট ত্রুটিগুলো মিটিয়ে দেবেন। কবীরা গুনাহর জন্য তওবাই লাগে।"
           },
           {
             "en": "Notice which deed the verse has just commanded before announcing the principle: prayer. Prayer is the first and steadiest of the erasing deeds, but the wording is general — al-hasanat, the good deeds, a plural with the definite article — so charity, honesty, kindness to parents and every other act of obedience joins the same work. A believer's day is designed to be self-cleaning: the slips of the morning are being scrubbed by the deeds of the afternoon.",
-            "bn": "লক্ষ করুন, নীতিটি ঘোষণার ঠিক আগে আয়াতটি কোন কাজের আদেশ দিয়েছে: নামায। মুছে দেওয়া আমলগুলোর মধ্যে নামাযই প্রথম ও সবচেয়ে নিয়মিত, কিন্তু শব্দটি ব্যাপক — আল-হাসানাত, নির্দিষ্টতাসূচক আলিফ-লামসহ একটি বহুবচন — তাই সদাকাহ, সততা, পিতামাতার সঙ্গে সদ্ব্যবহার এবং আনুগত্যের অন্য প্রতিটি কাজও একই কাজে শামিল হয়। মুমিনের দিন এমনভাবে নকশা করা যেন তা নিজে নিজেই পরিষ্কার হয়: সকালের পদস্খলনগুলো বিকেলের আমল দিয়ে ঘষে তোলা হচ্ছে।"
+            "bn": "লক্ষ করুন, মূলনীতিটি ঘোষণার ঠিক আগে আয়াত কোন আমলের আদেশ দিয়েছে: নামাজ। গুনাহ মোছার আমলগুলোর মধ্যে নামাজই প্রথম, আর সবচেয়ে নিয়মিত। তবে শব্দটা ব্যাপক: আল-হাসানাত, আলিফ-লামসহ বহুবচন, মানে নেক কাজগুলো। তাই সদকা, সততা, মা-বাবার সঙ্গে সদ্ব্যবহার আর আনুগত্যের অন্য সব কাজও এই একই কাজে শামিল। মুমিনের দিনটা এমনভাবে সাজানো, যেন তা নিজেই নিজেকে পরিষ্কার করে নেয়: সকালের পদস্খলন বিকেলের আমলে ধুয়ে যাচ্ছে।"
           }
         ]
       },
@@ -3293,11 +3293,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari narrates from Ibn Mas'ud (RA) that a man kissed a woman, then came to the Prophet ﷺ and told him what he had done, and Allah revealed this verse. The man asked whether the ruling was for him alone, and the Prophet ﷺ answered that it was for all of his ummah. A private fall, honestly confessed, became the occasion for a mercy announced to every believer.",
-            "bn": "বুখারী ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন: এক লোক এক নারীকে চুম্বন করে ফেলে, তারপর নবী ﷺ-এর কাছে এসে যা করেছে তা জানায়, এবং আল্লাহ এই আয়াত নাযিল করেন। লোকটি জিজ্ঞেস করে, এই বিধান কি শুধু তার জন্য; নবী ﷺ উত্তর দেন, এটি তাঁর গোটা উম্মতের জন্য। একটি গোপন পদস্খলন, সততার সঙ্গে স্বীকার করা — তা-ই হয়ে গেল প্রতিটি মুমিনের জন্য ঘোষিত এক রহমতের উপলক্ষ।"
+            "bn": "বুখারী ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন: এক লোক এক নারীকে চুমু খেয়ে ফেলে। তারপর নবী ﷺ-এর কাছে এসে নিজের কাজের কথা জানায়, আর আল্লাহ এই আয়াত নাজিল করেন। লোকটি জিজ্ঞেস করল, এই বিধান কি শুধু আমার জন্য? নবী ﷺ বললেন, আমার গোটা উম্মতের জন্য। লোকটি গোপনে পা ফসকেছিল, আর সততার সঙ্গে তা স্বীকার করেছিল। সেই স্বীকারোক্তিই হয়ে গেল প্রত্যেক মুমিনের জন্য রহমত ঘোষণার উপলক্ষ।"
           },
           {
             "en": "Muslim's narration of the incident, also from Ibn Mas'ud (RA), adds detail: the man said he had obtained from a woman everything short of intercourse and asked to be judged, and Umar (RA) remarked that Allah would have kept him concealed had he concealed himself. When the Prophet ﷺ later recited the verse to him, a man asked whether it applied to him alone, and the answer there was that it was for all people. Both narrations agree: the verse came as an answer to a real, ashamed human being.",
-            "bn": "ঘটনাটির মুসলিমের বর্ণনায় — সেটিও ইবনে মাসউদ (রাঃ) থেকে — বাড়তি বিবরণ আছে: লোকটি বলেছিল, সে এক নারীর কাছ থেকে সহবাস ছাড়া সবকিছুই পেয়েছে, এবং নিজের বিচার চেয়েছিল; উমর (রাঃ) মন্তব্য করেন, সে নিজেকে গোপন রাখলে আল্লাহও তাকে গোপন রাখতেন। পরে নবী ﷺ তাকে আয়াতটি পড়ে শোনালে এক ব্যক্তি জিজ্ঞেস করে, এটি কি শুধু তার জন্য; সেখানে উত্তর ছিল — এটি সব মানুষের জন্য। দুটি বর্ণনাই একমত: আয়াতটি এসেছিল একজন বাস্তব, লজ্জিত মানুষের প্রশ্নের জবাব হয়ে।"
+            "bn": "মুসলিমও ঘটনাটি ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেছেন, তাতে আরও কিছু বিবরণ আছে। লোকটি বলেছিল, সে এক নারীর সঙ্গে সহবাস ছাড়া আর সবই করে ফেলেছে, এখন তার বিচার হোক। উমর (রাঃ) বললেন, সে নিজেকে গোপন রাখলে আল্লাহও তাকে গোপন রাখতেন। পরে নবী ﷺ তাকে আয়াতটি পড়ে শোনালে এক ব্যক্তি জিজ্ঞেস করল, এটা কি শুধু তার জন্য? সেখানে জবাব ছিল: সব মানুষের জন্য। দুটি বর্ণনাই এক কথা বলে: আয়াতটি এসেছিল সত্যিকারের এক লজ্জিত মানুষের জবাব হয়ে।"
           }
         ]
       },
@@ -3309,11 +3309,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Prophet ﷺ gave the verse's principle a picture. Al-Bukhari narrates from Abu Hurayrah (RA) that he asked his companions: if there were a river at the door of one of you in which he bathed five times every day, would any of his dirt remain? They said none would remain. He said: that is the likeness of the five prayers, by which Allah wipes away sins. The image matches the verse — washing that is frequent, scheduled and close at hand.",
-            "bn": "নবী ﷺ আয়াতের নীতিটিকে একটি ছবি দিয়েছেন। বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, তিনি সাহাবীদের জিজ্ঞেস করলেন: তোমাদের কারও দরজার সামনে যদি একটি নদী থাকত, যাতে সে প্রতিদিন পাঁচবার গোসল করে, তার শরীরে কি কোনো ময়লা বাকি থাকত? তাঁরা বললেন, কিছুই বাকি থাকত না। তিনি বললেন: এ-ই পাঁচ ওয়াক্ত নামাযের উপমা, যা দিয়ে আল্লাহ গুনাহ মুছে দেন। ছবিটি আয়াতের সঙ্গেই মেলে — এমন ধোয়া, যা ঘন ঘন, নির্ধারিত এবং হাতের নাগালে।"
+            "bn": "নবী ﷺ আয়াতের এই মূলনীতিকে একটা ছবিতে দেখিয়েছেন। বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, তিনি সাহাবীদের জিজ্ঞেস করলেন: তোমাদের কারও দরজার সামনে যদি একটা নদী থাকে, আর সে তাতে প্রতিদিন পাঁচবার গোসল করে, তার গায়ে কি কোনো ময়লা বাকি থাকবে? তাঁরা বললেন, কিছুই থাকবে না। তিনি বললেন: পাঁচ ওয়াক্ত নামাজের উদাহরণ এমনই; এর মাধ্যমে আল্লাহ গুনাহ মুছে দেন। ছবিটি আয়াতের সঙ্গে হুবহু মেলে: ঘন ঘন ধোয়া, সময় বাঁধা, আর একেবারে হাতের কাছে।"
           },
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) the same principle with its boundary attached: the five prayers, and Jumu'ah to Jumu'ah, and Ramadan to Ramadan, are expiation for what lies between them, so long as the major sins are avoided. The condition matters. The erasing promised here is real, but it is not a licence to plan tomorrow's sin against tonight's prayer; the great wrongs still demand their own repentance.",
-            "bn": "মুসলিম আবু হুরাইরা (রাঃ) থেকে একই নীতি তার সীমানাসহ বর্ণনা করেন: পাঁচ ওয়াক্ত নামায, এক জুমুআ থেকে আরেক জুমুআ, এক রমযান থেকে আরেক রমযান — মাঝের সবকিছুর কাফফারা, যতক্ষণ কবীরা গুনাহ থেকে বেঁচে থাকা হয়। এই শর্তটি গুরুত্বপূর্ণ। এখানে যে মুছে ফেলার প্রতিশ্রুতি, তা সত্য; কিন্তু আজ রাতের নামাযের ভরসায় আগামীকালের গুনাহর পরিকল্পনা করার ছাড়পত্র এটি নয় — বড় অন্যায়গুলো এখনো তাদের নিজস্ব তাওবা দাবি করে।"
+            "bn": "মুসলিম আবু হুরাইরা (রাঃ) থেকে একই মূলনীতি বর্ণনা করেছেন, সঙ্গে তার সীমাও বলে দিয়েছেন: পাঁচ ওয়াক্ত নামাজ, এক জুমুআ থেকে আরেক জুমুআ, এক রমজান থেকে আরেক রমজান, মাঝখানে যা ঘটে তার কাফফারা হয়ে যায়, যদি বান্দা কবীরা গুনাহ থেকে বেঁচে থাকে। এই শর্তটা জরুরি। এখানে গুনাহ মোছার যে ওয়াদা, তা সত্য। কিন্তু আজ রাতের নামাজের ভরসায় কালকের গুনাহর পরিকল্পনা করার অনুমতি এটা নয়। বড় গুনাহগুলোর জন্য আলাদা তওবা লাগবেই।"
           }
         ]
       },
@@ -3325,11 +3325,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes: dhalika dhikra lidh-dhakirin, that is a reminder for those who remember. The ending quietly narrows the audience. Everyone hears the verse; it works as a reminder only for those who keep it in mind at the moments that matter — when the prayer time enters and the task at hand argues for delay, or when a slip has just happened and despair suggests the day is already ruined. The remembering person answers both moments with the same verse.",
-            "bn": "আয়াতটি শেষ হয়: যালিকা যিকরা লিয-যাকিরীন — এটি স্মরণকারীদের জন্য এক উপদেশ। সমাপ্তিটি নিঃশব্দে শ্রোতার পরিসর ছোট করে আনে। আয়াতটি সবাই শোনে; কিন্তু উপদেশ হিসেবে তা কাজ করে কেবল তাদের জন্য, যারা গুরুত্বপূর্ণ মুহূর্তগুলোতে এটি মনে রাখে — যখন নামাযের ওয়াক্ত ঢুকে পড়ে আর হাতের কাজ দেরির পক্ষে যুক্তি দেয়, কিংবা যখন সবেমাত্র একটি ভুল হয়ে গেছে আর হতাশা বলে দিনটাই তো নষ্ট। স্মরণকারী মানুষ দুই মুহূর্তেরই জবাব দেয় একই আয়াত দিয়ে।"
+            "bn": "আয়াতটি শেষ হয়: যালিকা যিকরা লিয-যাকিরীন, এটা উপদেশ, যারা মনে রাখে তাদের জন্য। এই শেষ কথাটা চুপিসারে শ্রোতার গণ্ডি ছোট করে আনে। আয়াত সবাই শোনে, কিন্তু উপদেশ হিসেবে কাজ করে কেবল তাদের বেলায়, যারা আসল মুহূর্তগুলোতে কথাটা মনে রাখে। যেমন, নামাজের ওয়াক্ত হয়ে গেছে আর হাতের কাজটা বলছে, একটু পরে পড়লেও চলবে। কিংবা সবে একটা ভুল হয়ে গেছে, আর হতাশা কানে কানে বলছে, আজকের দিনটা তো নষ্টই হয়ে গেল। যে মনে রাখে, সে দুই মুহূর্তেই জবাব দেয় একই আয়াত দিয়ে।"
           },
           {
             "en": "Lived out, the verse turns a day into a rhythm rather than a straight line. A straight line, once bent by a sin, stays bent. A rhythm returns: every few hours there is another prayer, another washing, another chance to stand before Allah as someone starting again. Guilt that would otherwise harden into an identity is kept soft and temporary. Our lapses are not permanent stains so long as we keep coming back — that is the verse's promise, and its schedule.",
-            "bn": "জীবনে প্রয়োগ করলে আয়াতটি দিনকে সরলরেখা নয়, ছন্দে পরিণত করে। সরলরেখা একবার গুনাহে বেঁকে গেলে বাঁকাই থেকে যায়। ছন্দ ফিরে আসে: কয়েক ঘণ্টা পরপরই আরেকটি নামায, আরেকবার ধোয়া, নতুন করে শুরু করা মানুষ হিসেবে আল্লাহর সামনে দাঁড়ানোর আরেকটি সুযোগ। যে অপরাধবোধ নয়তো শক্ত হয়ে পরিচয় বনে যেত, তা নরম ও সাময়িক থেকে যায়। আমরা ফিরে আসতে থাকলে আমাদের ত্রুটিগুলো স্থায়ী দাগ নয় — এটিই আয়াতের প্রতিশ্রুতি, এবং তার সময়সূচি।"
+            "bn": "জীবনে মেনে চললে আয়াতটি দিনটাকে সরলরেখা না বানিয়ে ছন্দ বানিয়ে দেয়। সরলরেখা একবার গুনাহে বেঁকে গেলে বাঁকাই থেকে যায়। ছন্দ কিন্তু ফিরে আসে: কয়েক ঘণ্টা পরপর আরেক ওয়াক্ত নামাজ, আরেকবার ধুয়ে নেওয়া, নতুন করে শুরু করা মানুষ হয়ে আল্লাহর সামনে দাঁড়ানোর আরেকটা সুযোগ। যে অপরাধবোধ নইলে জমে শক্ত হয়ে মানুষের পরিচয় হয়ে যেত, তা নরম আর ক্ষণস্থায়ী থাকে। আমরা যতদিন ফিরে আসতে থাকি, ততদিন আমাদের ভুলগুলো স্থায়ী দাগ হয়ে থাকে না। এটাই আয়াতের ওয়াদা, আর এটাই তার সময়সূচি।"
           }
         ]
       }
@@ -3437,7 +3437,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "It stands in al-Bukhari's Sahih, and no further grading is claimed here. Both readings were approved in one breath, so neither brought that look to his face ﷺ. On the face of the report, what brought it was a man taking another to be judged over a difference that needed no judging. The warning points back to the nations before, the subject of the verses around ours. The hadith does not forbid holding a view. It forbids turning a difference into a quarrel.",
-            "bn": "হাদীসটি বুখারীর সহীহ গ্রন্থে আছে; এর বাইরে আলাদা কোনো মান এখানে দাবি করা হচ্ছে না। দুটি তিলাওয়াতই একসঙ্গে সঠিক বলে মেনে নেওয়া হলো, কাজেই তাঁর ﷺ চেহারার সেই ভাব কোনো তিলাওয়াতের কারণে আসেনি। বর্ণনার সোজা অর্থে, এসেছিল এজন্য যে একজন আরেকজনকে বিচারের জন্য নিয়ে এসেছিল এমন তফাতের ব্যাপারে, যার কোনো বিচার দরকার ছিল না। তারপর সতর্কবাণীটি ফিরে যায় আগের জাতিগুলোর দিকে, যারা আমাদের আয়াতের আশপাশের আয়াতগুলোর বিষয়। হাদীসটি কোনো মত রাখতে নিষেধ করে না। নিষেধ করে মতভেদকে ঝগড়ায় পরিণত করতে।"
+            "bn": "হাদিসটি বুখারীর সহীহ গ্রন্থে আছে; এর বাইরে আলাদা কোনো মান এখানে দাবি করা হচ্ছে না। দুটি তিলাওয়াতকেই এক কথায় সঠিক বলা হলো, তাই তাঁর ﷺ চেহারার সেই ভাব কোনো তিলাওয়াতের কারণে আসেনি। বর্ণনা থেকে সোজাসুজি যা বোঝা যায়: ভাবটা এসেছিল, কারণ একজন আরেকজনকে বিচারের জন্য ধরে এনেছিল এমন তফাত নিয়ে, যার বিচারের দরকারই ছিল না। তারপর সতর্কবাণীটি ফিরে যায় আগের জাতিগুলোর দিকে, আমাদের আয়াতের আশপাশের আয়াতগুলো যাদের নিয়ে। হাদিসটি কোনো মত রাখতে নিষেধ করে না। নিষেধ করে মতভেদকে ঝগড়ায় পরিণত করতে।"
           }
         ]
       },
