@@ -1089,7 +1089,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is why the verse follows the threat so closely. Fear alone would leave the listener at the seven gates with nowhere to turn. The verse turns him at once towards a path with a name, and towards a place the commentators describe only as orchards full of ripe fruit and flowing water. Each day brings small versions of the same choice: an invitation dressed up, and a command that costs something. Taqwa is chosen there, one choice at a time, long before the gardens are reached.",
-            "bn": "এ কারণেই আয়াতটি হুমকির এত কাছে এসেছে। শুধু ভয় শ্রোতাকে সাতটি দরজার সামনে দাঁড় করিয়ে রাখত, ফেরার কোনো দিক থাকত না। আয়াতটি তাকে সঙ্গে সঙ্গে ঘুরিয়ে দেয় একটি নামধারী পথের দিকে, আর এমন এক ঠিকানার দিকে, যাকে তাফসীরকারেরা কেবল পাকা ফলে ভরা বাগান আর বয়ে চলা পানি বলেই বর্ণনা করেন। প্রতিদিন এই একই বাছাইয়ের ছোট ছোট রূপ সামনে আসে: সাজিয়ে আনা কোনো আমন্ত্রণ, আর এমন কোনো হুকুম যা মানতে কিছু খরচ হয়। তাকওয়া বাছাই হয় সেখানেই, একবারে একটি সিদ্ধান্তে, বাগানে পৌঁছানোর অনেক আগে।"
+            "bn": "এ কারণেই আয়াতটি হুমকির এত কাছে এসেছে। শুধু ভয় শ্রোতাকে সাতটি দরজার সামনে দাঁড় করিয়ে রাখত, ফেরার কোনো দিক থাকত না। আয়াতটি তাকে সঙ্গে সঙ্গে ঘুরিয়ে দেয় এমন এক পথের দিকে, যার একটা নাম আছে। আর এমন এক ঠিকানার দিকে, যাকে তাফসীরকারেরা কেবল পাকা ফলে ভরা বাগান আর বয়ে চলা পানি বলেই বর্ণনা করেন। প্রতিদিন এই একই বাছাই ছোট ছোট রূপে সামনে আসে: সাজিয়ে আনা কোনো ডাক, আর এমন কোনো হুকুম যা মানতে কিছু ছাড়তে হয়। তাকওয়া বেছে নিতে হয় সেখানেই, একেকবারে একেকটি সিদ্ধান্তে, বাগানে পৌঁছানোর অনেক আগেই।"
           }
         ]
       }
@@ -1100,32 +1100,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Inform, Not Say",
-          "bn": "সংবাদ দাও, বলো নয়"
+          "bn": "শুধু বলো নয়, খবর দাও"
         },
         "p": [
           {
             "en": "The verb is nabbi', an imperative from a root whose noun is naba' — news of weight, the kind that changes what a person does next. 78:2 uses that noun for an-naba' al-'azim, the great news. The same root stands behind the word nabi. So the command is not qul, say, but nabbi': deliver this as news. Forgiveness is not left to be inferred from His conduct over time. It is dispatched, in six Arabic words, as an announcement.",
-            "bn": "ক্রিয়াপদটি নাব্বি', একটি আদেশসূচক শব্দ, যার ধাতুর বিশেষ্য নাবা' — ভারী সংবাদ, যে ধরনের খবর মানুষ এরপর কী করবে তা বদলে দেয়। 78:2 আয়াত সেই বিশেষ্যটিই ব্যবহার করে আন-নাবা'উল 'আযীম বোঝাতে — মহাসংবাদ। একই ধাতু নবী শব্দটির পেছনেও দাঁড়িয়ে আছে। কাজেই আদেশটি 'কুল' — বলো — নয়, বরং নাব্বি': এটি সংবাদ হিসেবে পৌঁছে দাও। ক্ষমাকে সময়ের সঙ্গে তাঁর আচরণ থেকে অনুমান করে নেওয়ার জন্য ফেলে রাখা হয়নি। আরবি ছয়টি শব্দে তা ঘোষণা হিসেবে পাঠিয়ে দেওয়া হয়েছে।"
+            "bn": "এখানে ক্রিয়াটি হলো নাব্বি', আদেশের রূপ। এর ধাতু থেকেই এসেছে নাবা' শব্দ: ভারী খবর, যা শুনে মানুষের পরের কাজটাই বদলে যায়। ৭৮:২ আয়াতে এই শব্দই এসেছে আন-নাবাউল আযীম, মহাসংবাদ অর্থে। নবী শব্দটিও এসেছে এই ধাতু থেকে। তাই আদেশটা 'কুল', মানে 'বলো', নয়। আদেশটা হলো নাব্বি': খবর হিসেবে পৌঁছে দাও। ক্ষমার কথা এমনভাবে ফেলে রাখা হয়নি যে বান্দাকে দিনের পর দিন তাঁর আচরণ দেখে আন্দাজ করে নিতে হবে। আরবি ছয়টি শব্দে তা পাঠানো হয়েছে স্পষ্ট ঘোষণা হিসেবে।"
           },
           {
             "en": "'Ibadi, My servants, with the possessive attached. 39:53 keeps the same possessive when it addresses those who went to excess against themselves: O My servants. The relationship word arrives before any description of the record. And here there is no description at all — no qualifier narrows who is to be told, so the announcement is to be carried to whoever is a servant, which is everyone.",
-            "bn": "'ইবাদী — আমার বান্দারা, সঙ্গে সম্বন্ধসূচক অংশটি জুড়ে দেওয়া। 39:53 আয়াতও একই সম্বন্ধ ধরে রাখে যখন তা তাদের সম্বোধন করে যারা নিজেদের ওপর বাড়াবাড়ি করেছে: হে আমার বান্দারা। সম্পর্কের শব্দটি আসে রেকর্ডের কোনো বর্ণনার আগেই। আর এখানে বর্ণনা একেবারেই নেই — কোনো বিশেষণ সংকীর্ণ করে দেয় না কাদের জানাতে হবে; কাজেই ঘোষণাটি বয়ে নিয়ে যেতে হবে যে-ই বান্দা তার কাছেই, অর্থাৎ সবার কাছে।"
+            "bn": "'ইবাদী, আমার বান্দারা। 'আমার' অংশটি শব্দের সঙ্গেই জোড়া। যারা নিজেদের ওপর বাড়াবাড়ি করেছে, তাদের ডাকতে গিয়ে ৩৯:৫৩ আয়াতও এই 'আমার' ধরে রাখে: হে আমার বান্দারা। আমলনামার কোনো কথা ওঠার আগেই আসে সম্পর্কের শব্দটি। আর এখানে আমলনামার কোনো বর্ণনাই নেই। কাকে জানাতে হবে, কোনো বিশেষণ দিয়ে তা ছোট করে দেওয়া হয়নি। তাই এ ঘোষণা পৌঁছাতে হবে বান্দা যে-ই হোক তার কাছে, অর্থাৎ সবার কাছে।"
           }
         ]
       },
       {
         "h": {
           "en": "It Is I",
-          "bn": "আমিই তিনি"
+          "bn": "আমিই, আর কেউ নয়"
         },
         "p": [
           {
             "en": "Anni ana al-ghafur ar-rahim. The emphasis is stacked three deep: the particle anna, then the standing pronoun ana, then the definite article on both names. Grammarians call a pronoun in this position a pronoun of separation, and its work is exclusivity. The sentence does not say I forgive, nor even I am forgiving. It hands over two titles with the definite article attached, which shuts every other claimant out of them.",
-            "bn": "আন্নী আনাল গাফূরুর রাহীম। জোর এখানে তিন স্তরে সাজানো: প্রথমে অব্যয় আন্না, তারপর স্বতন্ত্র সর্বনাম আনা, তারপর দুটি নামের ওপরই নির্দিষ্টতাসূচক অংশ। ব্যাকরণবিদরা এই অবস্থানের সর্বনামকে বলেন বিচ্ছেদসূচক সর্বনাম, আর তার কাজ হলো একচেটিয়াকরণ। বাক্যটি বলে না 'আমি ক্ষমা করি', এমনকি 'আমি ক্ষমাশীল'ও নয়। এটি নির্দিষ্টতাসূচক অংশসহ দুটি উপাধি তুলে দেয়, যা সেগুলো থেকে অন্য সব দাবিদারকে বের করে দেয়।"
+            "bn": "আন্নী আনাল গাফূরুর রাহীম। এখানে জোর দেওয়া হয়েছে তিন স্তরে। প্রথমে অব্যয় আন্না, তারপর আলাদা সর্বনাম আনা, তারপর দুটি নামের ওপরই নির্দিষ্টতাসূচক 'আল'। এই জায়গায় বসা সর্বনামকে ব্যাকরণবিদরা বলেন পৃথককারী সর্বনাম, আর এর কাজ হলো বিষয়টিকে একজনের জন্যই নির্দিষ্ট করে দেওয়া। বাক্যটি বলে না 'আমি ক্ষমা করি', এমনকি 'আমি ক্ষমাশীল'ও না। বাক্যটি দুটি উপাধি তুলে দেয়, আর দুটির সঙ্গেই 'আল' জোড়া। ফলে এ দুটি উপাধিতে অন্য কোনো দাবিদারের আর জায়গা থাকে না।"
           },
           {
             "en": "The lexicographers connect the root of al-Ghafur to covering: the mighfar is the helmet that covers the head. Ar-Rahim is the mercy that acts. One conceals the record, the other gives beyond it, and the difference matters. Forgiveness without mercy would leave a person merely unpunished and standing where he was. This same pair closes 39:53, and the two names are set together often enough in the Book that the mufassirun treat them as one movement rather than two favours.",
-            "bn": "অভিধানবিদরা আল-গাফূর শব্দের ধাতুকে আচ্ছাদনের সঙ্গে যুক্ত করেন: মিগফার হলো সেই শিরস্ত্রাণ যা মাথা ঢেকে রাখে। আর-রাহীম হলো সেই রহমত যা কাজ করে। একটি রেকর্ড ঢেকে দেয়, অন্যটি তার চেয়ে বেশি দেয় — আর পার্থক্যটি গুরুত্বপূর্ণ। রহমত ছাড়া ক্ষমা মানুষকে কেবল শাস্তিমুক্ত করে যেখানে ছিল সেখানেই দাঁড় করিয়ে রাখত। এই একই জোড়া 39:53 আয়াতকেও শেষ করে, আর নাম দুটি কিতাবে এত ঘনঘন একসঙ্গে বসে যে মুফাসসিরগণ এদের দুটি অনুগ্রহ নয়, একটিই গতি হিসেবে দেখেন।"
+            "bn": "অভিধানবিদরা আল-গাফূর শব্দের ধাতুকে ঢেকে দেওয়ার অর্থের সঙ্গে যুক্ত করেন। মিগফার মানে শিরস্ত্রাণ, যা মাথা ঢেকে রাখে। আর আর-রাহীম হলো সেই রহমত, যা কাজে নেমে আসে। একটি আমলনামা ঢেকে দেয়, অন্যটি তার চেয়েও বেশি দান করে। এই পার্থক্যটা গুরুত্বপূর্ণ। রহমত ছাড়া শুধু ক্ষমা হলে মানুষ কেবল শাস্তি থেকে রেহাই পেত, কিন্তু যেখানে ছিল সেখানেই দাঁড়িয়ে থাকত। এই একই জোড়া দিয়ে ৩৯:৫৩ আয়াতও শেষ হয়। কিতাবে নাম দুটি এত বেশিবার একসঙ্গে এসেছে যে মুফাসসিরগণ এদের দুটি আলাদা অনুগ্রহ হিসেবে দেখেন না, দেখেন একই দয়ার একটানা প্রবাহ হিসেবে।"
           }
         ]
       },
@@ -1137,27 +1137,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "15:50 comes immediately after, with nothing in between: and that My punishment, it is the painful punishment. It is built to the same pattern — the particle anna, the standing pronoun huwa, the definite article. The grammar of the second clause mirrors the first exactly, and that mirroring is the point. The two verses are one announcement in two halves, and neither half can be quoted as the whole of what the servants were to be told.",
-            "bn": "15:50 আয়াতটি আসে ঠিক পরেই, মাঝখানে কিছু নেই: আর আমার শাস্তি — সেটিই যন্ত্রণাদায়ক শাস্তি। এটি গড়া হয়েছে একই ছাঁচে — অব্যয় আন্না, স্বতন্ত্র সর্বনাম হুয়া, নির্দিষ্টতাসূচক অংশ। দ্বিতীয় বাক্যের ব্যাকরণ প্রথমটির হুবহু প্রতিচ্ছবি, আর সেই প্রতিফলনই আসল কথা। দুটি আয়াত মিলে এক ঘোষণার দুই অর্ধেক, আর বান্দাদের যা জানানোর কথা ছিল তার পুরোটা হিসেবে কোনো অর্ধেককেই উদ্ধৃত করা যায় না।"
+            "bn": "১৫:৫০ আয়াত আসে ঠিক এর পরেই, মাঝখানে আর কিছু নেই: আর আমার শাস্তি, সেটাই যন্ত্রণাদায়ক শাস্তি। এ আয়াতও একই ছাঁচে গড়া: অব্যয় আন্না, আলাদা সর্বনাম হুয়া, নির্দিষ্টতাসূচক অংশ। দ্বিতীয় বাক্যের ব্যাকরণ প্রথমটির হুবহু প্রতিচ্ছবি, আর আসল কথা এই মিলের মধ্যেই। দুই আয়াত মিলে একটিই ঘোষণা, তার দুই অর্ধেক। বান্দাদের যা জানানোর কথা ছিল, কোনো একটি অর্ধেককে তার পুরোটা বলে উদ্ধৃত করা চলে না।"
           },
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) that the Prophet ﷺ said: if the believer knew what punishment is with Allah, none would hope for His Paradise; and if the disbeliever knew what mercy is with Allah, none would despair of His Paradise. That hadith is the pairing of these two verses stated as psychology. Each name is entirely true. A person holding only one of them has not been given the message.",
-            "bn": "মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: মুমিন যদি জানত আল্লাহর কাছে কী শাস্তি আছে, কেউই তাঁর জান্নাতের আশা করত না; আর কাফির যদি জানত আল্লাহর কাছে কী রহমত আছে, কেউই তাঁর জান্নাত থেকে নিরাশ হতো না। এই হাদীসটি এই দুই আয়াতের জোড়টিকেই মনস্তত্ত্বের ভাষায় বলে দেয়। দুটি নামই সম্পূর্ণ সত্য। যে মানুষ কেবল একটি ধরে আছে, তাকে বার্তাটি পৌঁছে দেওয়া হয়নি।"
+            "bn": "মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহর কাছে কী শাস্তি আছে, মুমিন যদি তা জানত, তবে কেউই তাঁর জান্নাতের আশা করত না। আর আল্লাহর কাছে কী রহমত আছে, কাফির যদি তা জানত, তবে কেউই তাঁর জান্নাত থেকে নিরাশ হতো না। এই দুই আয়াতের জোড়কেই হাদিসটি বলে দেয় মানুষের মনের দিক থেকে। দুটি নামই পুরোপুরি সত্য। যে কেবল একটিকে আঁকড়ে আছে, বার্তাটি এখনো তার কাছে পৌঁছায়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "The Surah Acts It Out",
-          "bn": "সূরাটি তা অভিনয় করে দেখায়"
+          "bn": "সূরা নিজেই দেখিয়ে দেয়"
         },
         "p": [
           {
             "en": "The placement is not incidental. 15:45-48 has just shown the righteous in gardens and springs, entering in peace, their breasts cleared of any rancour, seated facing one another, untouched by fatigue and never to be removed. The two announcements follow that. Then 15:51 uses the very same verb again — inform them about the guests of Ibrahim (AS) — so the reader is handed a third thing to be told, in the same imperative.",
-            "bn": "অবস্থানটি আকস্মিক নয়। 15:45-48 আয়াতগুলো সবেমাত্র দেখিয়েছে মুত্তাকীদের বাগান ও ঝর্ণার মধ্যে, শান্তিতে প্রবেশ করছে, তাদের অন্তর থেকে বিদ্বেষ দূর করা হয়েছে, তারা মুখোমুখি আসনে বসা, কোনো ক্লান্তি তাদের স্পর্শ করে না আর সেখান থেকে কখনো বের করাও হবে না। এরপরই আসে দুটি ঘোষণা। তারপর 15:51 আয়াত সেই একই ক্রিয়াপদ আবার ব্যবহার করে — তাদের ইবরাহীম (আঃ)-এর মেহমানদের কথা জানিয়ে দাও — অর্থাৎ পাঠকের হাতে একই আদেশসূচক ভঙ্গিতে তৃতীয় একটি সংবাদ তুলে দেওয়া হয়।"
+            "bn": "আয়াতটি এ জায়গায় এমনি এমনি বসেনি। ঠিক আগে 15:45-48 আয়াতে মুত্তাকীদের দেখানো হয়েছে বাগান আর ঝর্ণার মাঝে। তারা শান্তিতে প্রবেশ করছে, তাদের অন্তর থেকে সব বিদ্বেষ মুছে দেওয়া হয়েছে, তারা মুখোমুখি আসনে বসে আছে। কোনো ক্লান্তি তাদের ছোঁয় না, সেখান থেকে তাদের কখনো বের করেও দেওয়া হবে না। এর পরেই আসে দুটি ঘোষণা। তারপর ১৫:৫১ আয়াতে আবার সেই একই ক্রিয়া: তাদের ইবরাহীম (আঃ)-এর মেহমানদের কথা জানিয়ে দাও। অর্থাৎ একই আদেশের সুরে পাঠকের হাতে তুলে দেওয়া হলো জানানোর মতো তৃতীয় আরেকটি বিষয়।"
           },
           {
             "en": "And what follows demonstrates both halves in turn. The guests bring Ibrahim (AS) glad tidings of a learned boy, and when he wonders at it in old age they tell him not to be of the despairing; his answer in 15:56 is that none despairs of the mercy of his Lord except those astray. Then in 15:58-60 the same messengers say they were sent to a criminal people, and that the family of Lot (AS) would be saved. One errand, two outcomes, in the order the two verses gave them.",
-            "bn": "আর এরপর যা আসে তা পর্যায়ক্রমে দুটি অর্ধেকই দেখিয়ে দেয়। মেহমানরা ইবরাহীম (আঃ)-কে এক জ্ঞানী পুত্রের সুসংবাদ দেন, আর বার্ধক্যে তিনি বিস্মিত হলে তাঁরা তাঁকে বলেন নিরাশদের অন্তর্ভুক্ত না হতে; 15:56 আয়াতে তাঁর জবাব — পথভ্রষ্টরা ছাড়া কেউ তার রবের রহমত থেকে নিরাশ হয় না। তারপর 15:58-60 আয়াতে সেই একই বার্তাবাহকরা বলেন, তাঁদের এক অপরাধী জাতির কাছে পাঠানো হয়েছে, আর লূত (আঃ)-এর পরিবারকে রক্ষা করা হবে। একটিই সফর, দুটি পরিণতি — আর যে ক্রমে আয়াত দুটি সেগুলো দিয়েছিল ঠিক সেই ক্রমে।"
+            "bn": "এর পরের ঘটনা দুই অর্ধেককেই একে একে দেখিয়ে দেয়। মেহমানরা ইবরাহীম (আঃ)-কে এক জ্ঞানী পুত্রের সুসংবাদ দেন। বার্ধক্যে এমন খবর শুনে তিনি অবাক হলে তাঁরা তাঁকে নিরাশদের দলে না যেতে বলেন। ১৫:৫৬ আয়াতে তাঁর জবাব: পথভ্রষ্টরা ছাড়া কেউ তার রবের রহমত থেকে নিরাশ হয় না। তারপর 15:58-60 আয়াতে সেই একই বার্তাবাহকরা বলেন, তাঁদের পাঠানো হয়েছে এক অপরাধী জাতির কাছে, আর লূত (আঃ)-এর পরিবারকে রক্ষা করা হবে। সফর একটিই, পরিণতি দুটি। আর তা এসেছে ঠিক সেই ক্রমে, যে ক্রমে আয়াত দুটি সেগুলো বলেছিল।"
           }
         ]
       },
@@ -1169,11 +1169,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse contains two positions, and most readers occupy both. Someone is commanded to inform; someone is to be informed. Anyone who teaches, who raises children, who answers a question after a lesson, or who sits with a person convinced his own case is closed has been handed the content of what to say. It is not a technique or a form of words. It is two names, with the emphasis left in place.",
-            "bn": "আয়াতটির ভেতরে দুটি অবস্থান আছে, আর অধিকাংশ পাঠকই দুটিতেই থাকে। একজনকে জানানোর আদেশ দেওয়া হয়েছে; আরেকজনকে জানানো হবে। যে শেখায়, যে সন্তান মানুষ করে, যে পাঠের শেষে কোনো প্রশ্নের উত্তর দেয়, কিংবা যে এমন মানুষের পাশে বসে যিনি নিশ্চিত যে তাঁর মামলা বন্ধ হয়ে গেছে — তাঁর হাতে কী বলতে হবে তার বিষয়বস্তু তুলে দেওয়া হয়েছে। এটি কোনো কৌশল নয়, কোনো বাঁধা বুলিও নয়। এটি দুটি নাম, তাদের জোরটুকু অক্ষত রেখে।"
+            "bn": "আয়াতটিতে দুটি ভূমিকা আছে, আর বেশির ভাগ পাঠক দুটিতেই আছেন। একজনকে আদেশ করা হয়েছে জানাতে, আরেকজনকে জানানো হবে। যিনি শিক্ষা দেন, যিনি সন্তান মানুষ করেন, যিনি দরসের পর কারও প্রশ্নের উত্তর দেন, কিংবা যিনি এমন কারও পাশে বসেন যে ধরে নিয়েছে তার ব্যাপারে সব শেষ: কী বলতে হবে, তা এঁদের সবার হাতে তুলে দেওয়া হয়েছে। এটা কোনো কৌশল নয়, মুখস্থ বুলিও নয়। এ হলো দুটি নাম, আর তাদের জোরটুকু যেমন আছে তেমনই রাখতে হবে।"
           },
           {
             "en": "Despair rarely announces itself as despair. It usually looks like avoidance: not praying because the prayer feels dishonest, not attending because of who might be there, not asking because the answer is assumed. This verse takes the assumption away, and 15:50 keeps the correction from swinging into carelessness. A servant who holds both verses at once approaches Allah expecting to be received, and does not treat that expectation as permission.",
-            "bn": "হতাশা খুব কমই নিজেকে হতাশা বলে ঘোষণা করে। সাধারণত তাকে দেখায় এড়িয়ে চলার মতো: নামায না পড়া, কারণ নামাযটাকে অসৎ মনে হয়; না যাওয়া, কারণ সেখানে কে থাকতে পারে; জিজ্ঞেস না করা, কারণ উত্তরটা ধরেই নেওয়া হয়েছে। এই আয়াত সেই ধরে নেওয়াটা সরিয়ে দেয়, আর 15:50 আয়াত সংশোধনটিকে বেপরোয়াপনার দিকে ঝুঁকে পড়তে দেয় না। যে বান্দা দুটি আয়াতই একসঙ্গে ধরে রাখে, সে গ্রহণ করা হবে এই প্রত্যাশা নিয়ে আল্লাহর কাছে আসে, আর সেই প্রত্যাশাকে অনুমতি বলে গণ্য করে না।"
+            "bn": "হতাশা খুব কমই নিজেকে হতাশা বলে পরিচয় দেয়। সাধারণত তা দেখা দেয় এড়িয়ে চলা হয়ে। নামাজ পড়া হয় না, কারণ নামাজটাকে ভণ্ডামি মনে হয়। কোথাও যাওয়া হয় না, কারণ সেখানে কার সঙ্গে দেখা হয়ে যায়। কাউকে জিজ্ঞেস করা হয় না, কারণ উত্তরটা আগেই ধরে নেওয়া। এই আয়াত সেই ধরে নেওয়াটা সরিয়ে দেয়। আর ১৫:৫০ আয়াত খেয়াল রাখে, এই সংশোধন যেন উল্টো দিকে গড়িয়ে বেপরোয়াভাবে না পৌঁছায়। যে বান্দা দুটি আয়াত একসঙ্গে ধরে রাখে, সে আল্লাহর কাছে আসে এই আশা নিয়ে যে তিনি তাকে ফিরিয়ে দেবেন না। কিন্তু সেই আশাকে সে যা খুশি করার অনুমতি বানিয়ে নেয় না।"
           }
         ]
       }
@@ -1189,11 +1189,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A few lines before the story begins, Surah al-Hijr gives the Prophet ﷺ a pair of things to announce. In 15:49 he is told to inform Allah's servants that He is the Forgiving, the Merciful, and in 15:50 that His punishment is the painful punishment. The very next verse, 15:51, opens with, and inform them about the guests of Ibrahim. The announcement is stated, and then it is illustrated.",
-            "bn": "কাহিনি শুরু হওয়ার কয়েক লাইন আগে সূরা আল-হিজর নবী ﷺ-কে দুটি জিনিস ঘোষণা করতে বলে। 15:49 আয়াতে তাঁকে বলা হয় আল্লাহর বান্দাদের জানাতে যে তিনি ক্ষমাশীল, দয়ালু; আর 15:50 আয়াতে জানাতে যে তাঁর শাস্তিই যন্ত্রণাদায়ক শাস্তি। ঠিক পরের আয়াত 15:51 শুরু হয় এভাবে — আর তাদের ইবরাহীমের অতিথিদের কথা জানাও। ঘোষণাটি দেওয়া হয়, তারপর তা দেখিয়ে দেওয়া হয়।"
+            "bn": "কাহিনি শুরুর কয়েক লাইন আগে সূরা আল-হিজর নবী ﷺ-কে দুটি কথা ঘোষণা করতে বলে। ১৫:৪৯ আয়াতে তাঁকে বলা হয় আল্লাহর বান্দাদের জানাতে যে তিনিই ক্ষমাশীল, পরম দয়ালু। আর ১৫:৫০ আয়াতে বলা হয় জানাতে যে তাঁর শাস্তিই যন্ত্রণাদায়ক শাস্তি। ঠিক পরের আয়াত ১৫:৫১ শুরু হয় এ কথায়: আর তাদের ইবরাহীমের মেহমানদের কথা জানাও। আগে ঘোষণা, তারপর তার দৃষ্টান্ত।"
           },
           {
             "en": "Both halves are illustrated in one visit. The same messengers who bring Ibrahim (AS) the news of a son bring destruction to the people of Lut (AS), as they say themselves in 15:58 and after. So Ibrahim's sentence about despair is not spoken in a vacuum. It is spoken inside a passage that has just insisted mercy and punishment are both real and both His.",
-            "bn": "একটিমাত্র সফরেই দুটি অর্ধেকই দেখানো হয়। যে ফেরেশতারা ইবরাহীম (আঃ)-এর কাছে পুত্রের সুসংবাদ আনেন, তারাই লূত (আঃ)-এর জাতির কাছে ধ্বংস নিয়ে যান, যা তারা নিজেরাই 15:58 আয়াতে ও তার পরে বলেন। তাই নিরাশা নিয়ে ইবরাহীমের বাক্যটি শূন্যতায় উচ্চারিত নয়। এটি এমন এক অনুচ্ছেদের ভেতরে উচ্চারিত, যা সবেমাত্র জোর দিয়ে বলেছে — রহমত ও শাস্তি দুটোই বাস্তব এবং দুটোই তাঁর।"
+            "bn": "একটি সফরেই দুই অর্ধেক দেখানো হয়েছে। যে ফেরেশতারা ইবরাহীম (আঃ)-এর কাছে পুত্রের সুসংবাদ নিয়ে আসেন, তাঁরাই লূত (আঃ)-এর জাতির জন্য নিয়ে যান ধ্বংস। ১৫:৫৮ আয়াতে ও তার পরে তাঁরা নিজেরাই সে কথা বলেন। তাই নিরাশা নিয়ে ইবরাহীমের কথাটি শূন্যে বলা হয়নি। বলা হয়েছে এমন এক অংশের ভেতরে, যা ঠিক আগেই জোর দিয়ে বলেছে: রহমতও সত্য, শাস্তিও সত্য, আর দুটোই তাঁর।"
           }
         ]
       },
@@ -1205,11 +1205,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The visitors enter and say peace, and he answers that he is apprehensive of them, both within 15:52 itself. In 15:53 they tell him not to fear and give him good news of a learned boy. His reply in 15:54 is the hinge: have you given me good news although old age has come upon me, then of what do you give news? They answer in 15:55 that the news is given in truth, so do not be of the despairing.",
-            "bn": "অতিথিরা ঢোকেন এবং সালাম বলেন, আর তিনি জবাবে বলেন যে তিনি তাঁদের ব্যাপারে শঙ্কিত — দুটোই 15:52 আয়াতের ভেতরেই। তাঁরা তাঁকে ভয় না পেতে বলেন এবং 15:53 আয়াতে এক জ্ঞানী পুত্রের সুসংবাদ দেন। 15:54 আয়াতে তাঁর জবাবটিই মোড় ঘোরানো জায়গা: তোমরা আমাকে সুসংবাদ দিচ্ছ যখন বার্ধক্য আমাকে স্পর্শ করেছে, তাহলে কিসের সুসংবাদ দিচ্ছ? তাঁরা 15:55 আয়াতে জবাব দেন যে সুসংবাদটি সত্য সহকারেই দেওয়া হয়েছে, কাজেই নিরাশদের অন্তর্ভুক্ত হয়ো না।"
+            "bn": "অতিথিরা ঘরে ঢুকে সালাম দেন, আর তিনি বলেন, তিনি তাঁদের নিয়ে শঙ্কিত। দুটো কথাই ১৫:৫২ আয়াতের ভেতরে। ১৫:৫৩ আয়াতে তাঁরা তাঁকে ভয় না পেতে বলেন, আর এক জ্ঞানী পুত্রের সুসংবাদ দেন। মোড় ঘোরে ১৫:৫৪ আয়াতে তাঁর জবাবে: বার্ধক্য আমাকে ছুঁয়ে ফেলার পরও তোমরা আমাকে সুসংবাদ দিচ্ছ? তাহলে কিসের সুসংবাদ দিচ্ছ? ১৫:৫৫ আয়াতে তাঁরা জবাব দেন, আমরা তোমাকে সত্য সুসংবাদই দিয়েছি, কাজেই নিরাশদের অন্তর্ভুক্ত হয়ো না।"
           },
           {
             "en": "That last phrase is the one to hold on to, because Ibrahim (AS) answers it with its own word. The angels use the participle al-qanitin, the despairing ones — from the root with the emphatic ta, not the qanitin of devout obedience in 33:35 — and he replies with the verb from the same root, yaqnatu. His answer is seven words in the Arabic, and it is a question rather than a defence: and who despairs of the mercy of his Lord except those who are astray? He does not say he was not despairing. He says that the category does not fit a person who knows his Lord.",
-            "bn": "শেষ বাক্যাংশটিই ধরে রাখার মতো, কারণ ইবরাহীম (আঃ) তার জবাব দেন সেই শব্দটি দিয়েই। ফেরেশতারা ব্যবহার করেন ইসমে ফা'ইল 'আল-ক্বানিত্বীন' — নিরাশ ব্যক্তিরা; শব্দটি ত্ব-যুক্ত ধাতু থেকে, যা 33:35 আয়াতের আনুগত্যবাচক 'আল-ক্বানিতীন' নয়; তিনি জবাব দেন একই ধাতুমূলের ক্রিয়াপদ 'ইয়াক্বনাতু' দিয়ে। তাঁর জবাবটি আরবিতে সাতটি শব্দের, আর তা আত্মপক্ষ সমর্থন নয়, একটি প্রশ্ন: পথভ্রষ্টরা ছাড়া আর কে তার প্রতিপালকের রহমত থেকে নিরাশ হয়? তিনি বলেন না যে তিনি নিরাশ ছিলেন না। তিনি বলেন, যে নিজের রবকে চেনে তার গায়ে এই শ্রেণিটি লাগে না।"
+            "bn": "এই শেষ কথাটিই মনে রাখার মতো, কারণ ইবরাহীম (আঃ) এর জবাব দেন ঠিক এই শব্দ দিয়েই। ফেরেশতারা বলেন ইসমে ফা'ইল 'আল-ক্বানিত্বীন', নিরাশ লোকেরা। শব্দটি এসেছে ভারী ত্ব-যুক্ত ধাতু থেকে। ৩৩:৩৫ আয়াতের আনুগত্যবাচক 'আল-ক্বানিতীন' এ শব্দ নয়। আর তিনি জবাব দেন একই ধাতুর ক্রিয়া 'ইয়াক্বনাতু' দিয়ে। আরবিতে তাঁর জবাব সাত শব্দের, আর তা আত্মপক্ষ সমর্থন নয়, একটি প্রশ্ন: পথভ্রষ্টরা ছাড়া আর কে তার রবের রহমত থেকে নিরাশ হয়? তিনি বলেন না যে তিনি নিরাশ হননি। তিনি বলেন, যে নিজের রবকে চেনে, তার বেলায় এ নাম খাটে না।"
           }
         ]
       },
@@ -1221,23 +1221,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is easy to misread his question in 15:54 as hesitation. The commentators, Ibn Kathir and al-Qurtubi among them, read it as astonishment at the size of the gift rather than doubt about the Giver. His own reply in 15:56 settles the matter, since a man defending himself against a charge of despair would answer differently. He does not plead his record; he states a rule about who despairs, and lets the rule speak for him.",
-            "bn": "15:54 আয়াতে তাঁর প্রশ্নটিকে দ্বিধা হিসেবে ভুল পড়া সহজ। মুফাসসিরগণ, তাঁদের মধ্যে ইবনে কাসীর ও আল-কুরতুবী, এটিকে পড়েন দাতার ব্যাপারে সংশয় হিসেবে নয়, বরং দানের বিশালতায় বিস্ময় হিসেবে। 15:56 আয়াতে তাঁর নিজের জবাবই বিষয়টি মীমাংসা করে দেয়, কারণ নিরাশার অভিযোগ থেকে আত্মরক্ষা করতে চাওয়া মানুষ অন্যভাবে জবাব দিত। তিনি নিজের রেকর্ড পেশ করেন না; তিনি কে নিরাশ হয় তার একটি নিয়ম বলে দেন, আর নিয়মটিকেই নিজের হয়ে কথা বলতে দেন।"
+            "bn": "১৫:৫৪ আয়াতে তাঁর প্রশ্নটাকে দ্বিধা ভেবে ভুল বোঝা সহজ। কিন্তু ইবনে কাসীর, আল-কুরতুবীসহ মুফাসসিরগণ একে দাতার ব্যাপারে সংশয় হিসেবে পড়েন না। তাঁদের মতে এ হলো দানের বিশালতা দেখে বিস্ময়। ১৫:৫৬ আয়াতে তাঁর নিজের জবাবই ব্যাপারটা মিটিয়ে দেয়। নিরাশার অভিযোগ থেকে নিজেকে বাঁচাতে চাইলে মানুষ অন্যভাবে জবাব দিত। তিনি নিজের অতীতের কথা তুলে ধরেন না। তিনি শুধু বলে দেন কে নিরাশ হয়, আর সেই নিয়মটিকেই তাঁর হয়ে কথা বলতে দেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Despair Named as Straying",
-          "bn": "নিরাশাকে পথভ্রষ্টতা বলা"
+          "bn": "নিরাশা মানে পথ হারানো"
         },
         "p": [
           {
             "en": "The word he uses, qunut with the emphatic ta — not the qunut of devotion recited in witr — is not ordinary sadness. It is the settled conclusion that there is no way through — the closing of a case. And the only people he allows into that category are ad-dallun, those who have gone off the road. That is a diagnosis, not an insult. Despair is treated as a navigational error: a person who has concluded that Allah's mercy has run out has misjudged where he is and what is around him.",
-            "bn": "তিনি যে শব্দটি ব্যবহার করেন, 'ক্বুনূত্ব' (ত্ব দিয়ে — বিতরের দোয়ায়ে কুনূতের 'কুনূত' নয়), তা সাধারণ দুঃখ নয়। এটি সেই স্থির সিদ্ধান্ত যে আর কোনো পথ নেই — মামলাটি বন্ধ করে দেওয়া। আর এই শ্রেণিতে তিনি কেবল 'আদ-দাল্লীন' — যারা পথ থেকে সরে গেছে — তাদেরই ঢুকতে দেন। এটি অপমান নয়, রোগনির্ণয়। নিরাশাকে দেখা হয় পথ চেনার ভুল হিসেবে: যে সিদ্ধান্তে পৌঁছেছে যে আল্লাহর রহমত ফুরিয়ে গেছে, সে ভুল হিসাব করেছে সে কোথায় আছে আর তার চারপাশে কী আছে।"
+            "bn": "তিনি যে শব্দটি ব্যবহার করেন, তা 'ক্বুনূত্ব', ভারী ত্ব দিয়ে। বিতরের দোয়ায়ে কুনূতের 'কুনূত' এ শব্দ নয়। এটা সাধারণ দুঃখও নয়। এ হলো মনের স্থির সিদ্ধান্ত যে আর কোনো পথ নেই, ব্যাপারটা চিরতরে চুকে গেছে। আর এই দলে তিনি ঢুকতে দেন কেবল 'আদ-দাল্লীন'দের, যারা পথ থেকে সরে গেছে। এটা গালি নয়, আসল সমস্যাটা ধরিয়ে দেওয়া। নিরাশাকে এখানে দেখা হয় পথ চেনার ভুল হিসেবে। যে ধরে নিয়েছে আল্লাহর রহমত ফুরিয়ে গেছে, সে ভুল বুঝেছে সে কোথায় আছে আর তার চারপাশে কী আছে।"
           },
           {
             "en": "The same judgement is passed once more, in Ya'qub's instruction to his sons at 12:87, and the same word is forbidden outright in the address to those who have gone to excess against themselves at 39:53, both of which this app treats at length in their own articles. What is distinctive here is the speaker and the situation. The other two are spoken to people already in grief or in guilt. This one is spoken by a man receiving good news, which is when the rule is easiest to state and hardest to remember later.",
-            "bn": "একই রায় আরও একবার দেওয়া হয় — 12:87 আয়াতে ইয়াকুবের পুত্রদের প্রতি নির্দেশে; আর একই শব্দটি সরাসরি নিষেধ করা হয় 39:53 আয়াতে নিজেদের ওপর বাড়াবাড়ি করা লোকদের প্রতি সম্বোধনে; এই অ্যাপ দুটিকেই আলাদা লেখায় বিস্তারিত আলোচনা করেছে। এখানে যা স্বতন্ত্র তা হলো বক্তা ও পরিস্থিতি। ওই দুটি বলা হয়েছে এমন মানুষদের, যারা ইতিমধ্যেই শোকে বা অপরাধবোধে আছে। এটি বলছেন এমন একজন, যিনি সুসংবাদ পাচ্ছেন — আর তখনই নিয়মটি বলা সবচেয়ে সহজ এবং পরে মনে রাখা সবচেয়ে কঠিন।"
+            "bn": "একই রায় আরেকবার এসেছে ১২:৮৭ আয়াতে, ছেলেদের প্রতি ইয়াকুবের উপদেশে। আর যারা নিজেদের ওপর বাড়াবাড়ি করেছে, তাদের ডেকে ৩৯:৫৩ আয়াতে এই শব্দ দিয়েই সরাসরি নিষেধ করা হয়েছে। এ অ্যাপে দুটি আয়াত নিয়েই আলাদা প্রবন্ধে বিস্তারিত আলোচনা আছে। এখানে আলাদা হলো বক্তা আর পরিস্থিতি। ওই দুটি কথা বলা হয়েছে এমন মানুষদের, যারা আগে থেকেই শোকে বা অপরাধবোধে ডুবে আছে। আর এ কথা বলছেন এমন একজন, যিনি সবে সুসংবাদ পাচ্ছেন। ঠিক তখনই নিয়মটা মুখে বলা সবচেয়ে সহজ, আর পরে মনে রাখা সবচেয়ে কঠিন।"
           }
         ]
       },
@@ -1249,11 +1249,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "That is the practical use of this verse. Despair rarely announces itself as a belief about Allah. It arrives as arithmetic — the age, the years, the diagnosis, the record — and the arithmetic is usually correct. Ibrahim (AS) does not dispute his age. He simply refuses to let the arithmetic decide what Allah will do, because the sum was never the whole of the matter.",
-            "bn": "এটিই এই আয়াতের ব্যবহারিক প্রয়োগ। নিরাশা খুব কমই আল্লাহ সম্পর্কে একটি বিশ্বাস হিসেবে নিজের পরিচয় দেয়। এটি আসে হিসাব হয়ে — বয়স, বছরগুলো, রোগনির্ণয়, অতীতের খাতা — আর হিসাবটি সাধারণত ঠিকই থাকে। ইবরাহীম (আঃ) নিজের বয়স নিয়ে তর্ক করেন না। তিনি কেবল হিসাবটিকে এই সিদ্ধান্ত নিতে দেন না যে আল্লাহ কী করবেন, কারণ যোগফলটি কখনোই গোটা ব্যাপারটি ছিল না।"
+            "bn": "এ আয়াতের কাজের দিকটা এখানেই। নিরাশা খুব কমই আল্লাহ সম্পর্কে কোনো বিশ্বাসের চেহারা নিয়ে আসে। আসে হিসাব হয়ে: বয়স, কেটে যাওয়া বছর, ডাক্তারের দেওয়া রোগের খবর, অতীতের খাতা। আর হিসাবটা সাধারণত ভুলও থাকে না। ইবরাহীম (আঃ) নিজের বয়স নিয়ে তর্ক করেন না। তিনি শুধু এই হিসাবকে ঠিক করতে দেন না আল্লাহ কী করবেন। কারণ যোগফলটাই কখনো পুরো ব্যাপার ছিল না।"
           },
           {
             "en": "So the habit worth building is to state the rule while things are calm, the way he did. Hope in Allah is not optimism about outcomes and it does not require predicting one. It is a settled position about who is in charge of them. A believer may fear, may weep, may see no route at all — and still refuse the one conclusion this verse puts outside the boundary.",
-            "bn": "তাই গড়ে তোলার মতো অভ্যাসটি হলো, তিনি যেমন করেছিলেন তেমনি শান্ত সময়েই নিয়মটি বলে রাখা। আল্লাহর ওপর আশা মানে ফলাফল নিয়ে আশাবাদ নয়, আর তা কোনো ফলাফলের ভবিষ্যদ্বাণীও দাবি করে না। এটি একটি স্থির অবস্থান — কে সেগুলোর দায়িত্বে আছেন সে সম্পর্কে। একজন মুমিন ভয় পেতে পারে, কাঁদতে পারে, কোনো পথই দেখতে না পেতে পারে — তবু এই আয়াত যে একটিমাত্র সিদ্ধান্তকে সীমার বাইরে রেখেছে, সেটি সে প্রত্যাখ্যান করে।"
+            "bn": "তাই যে অভ্যাসটা গড়ে তোলা দরকার, তা হলো শান্ত সময়েই নিয়মটা মুখে বলে রাখা, যেমন তিনি বলেছিলেন। আল্লাহর ওপর আশা মানে ফলাফল ভালো হবে এমন আশাবাদ নয়, ফলাফল আগে থেকে আন্দাজ করারও দরকার নেই। এ হলো মনের স্থির বিশ্বাস যে ফলাফলের মালিক কে। একজন মুমিন ভয় পেতে পারেন, কাঁদতে পারেন, সামনে কোনো পথই না দেখতে পারেন। তবু এই আয়াত যে একটি সিদ্ধান্তকে সীমার বাইরে রেখেছে, সেটাকে তিনি কাছে ঘেঁষতে দেন না।"
           }
         ]
       }
@@ -1345,7 +1345,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Hijr has heard a demand like this before. In 15:6 and 15:7 those who called the Messenger mad asked, law ma ta'tina bil-mala'ika, why do you not bring us the angels, if you should be among the truthful? 15:8 answered that Allah does not send down the angels except with truth, and that they would not then be reprieved. 55 verses later, angels have come down in the surah's own story, and the first thing they say of their errand is that it is the very thing a people doubted.",
-            "bn": "আল-হিজর এমন দাবি আগেও শুনেছে। ১৫:৬ ও ১৫:৭ আয়াতে যারা রাসূলকে পাগল বলেছিল, তারা বলেছিল, লাও মা তা'তীনা বিল-মালাইকা: তুমি সত্যবাদী হলে আমাদের কাছে ফেরেশতা আনছ না কেন? ১৫:৮ আয়াত জবাব দেয়, আল্লাহ যথাযথ কারণ ছাড়া ফেরেশতা পাঠান না, আর পাঠালে তারা আর অবকাশ পাবে না। ৫৫ আয়াত পরে সূরার নিজের কাহিনিতেই ফেরেশতারা নেমে এসেছেন। নিজেদের কাজের কথা বলতে গিয়ে প্রথমেই তাঁরা বলছেন, এ সেই জিনিস যা নিয়ে একটা জাতি সন্দেহ করত।"
+            "bn": "আল-হিজর এমন দাবি আগেও শুনেছে। ১৫:৬ ও ১৫:৭ আয়াতে যারা রাসূলকে পাগল বলেছিল, তারা বলেছিল, লাও মা তা'তীনা বিল-মালাইকা: তুমি সত্যবাদী হলে আমাদের কাছে ফেরেশতা আনছ না কেন? ১৫:৮ আয়াত জবাব দেয়, আল্লাহ ফেরেশতা নাজিল করেন কেবল সত্যসহ, আর তখন তারা আর অবকাশ পাবে না। ৫৫ আয়াত পরে সূরার নিজের কাহিনিতেই ফেরেশতারা নেমে এসেছেন। নিজেদের কাজের কথা বলতে গিয়ে প্রথমেই তাঁরা বলছেন, এ সেই জিনিস যা নিয়ে একটা জাতি সন্দেহ করত।"
           },
           {
             "en": "Ibn Kathir's abridged commentary draws the link openly for the next clause. On wa ataynaka bil-haqq in 15:64, and we have brought you the truth, he cites 15:8, We do not send the angels down except with the truth, and says the angels spoke in affirmation of the news they brought: that Lut (AS) would be saved and his people destroyed. That verse, the order to leave by night in 15:65 and the decree conveyed in 15:66 belong to their own pages, and are only pointed to here.",
@@ -1493,7 +1493,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Whatever the order of events, the order of the telling has an effect worth sitting with. The reader of this surah meets the city's gladness already knowing the decree of 15:66. Their rejoicing is set beside a morning they cannot see. That is no reason to gloat over them, which this page rules out below. It is a reminder that a crowd's certainty about what will please it tonight is no knowledge of what tomorrow holds, and that joy at a wrong is always joy on borrowed time.",
-            "bn": "ঘটনা যে ক্রমেই ঘটুক, বর্ণনার এই ক্রমের একটা প্রভাব আছে, যা নিয়ে একটু ভাবা দরকার। এ সূরার পাঠক শহরের উল্লাসের মুখোমুখি হন ১৫:৬৬ আয়াতের ফয়সালা আগে থেকেই জেনে। তাদের আনন্দ পাশাপাশি রাখা হয়েছে এমন এক সকালের সঙ্গে, যা তারা দেখতে পায় না। এতে তাদের নিয়ে উপহাস করার কোনো কারণ নেই, নিচে এ পাতা সে কথা স্পষ্ট করেছে। বরং মনে করিয়ে দেয়, আজ রাতে কীসে মজা মিলবে সে ব্যাপারে ভিড়ের নিশ্চয়তা আগামীকালের কোনো জ্ঞান নয়। অন্যায়ে পাওয়া আনন্দের মেয়াদ সবসময়ই ধার করা সময়ের।"
+            "bn": "ঘটনা যে ক্রমেই ঘটুক, বর্ণনার এই ক্রমের একটা প্রভাব আছে, যা নিয়ে একটু ভাবা দরকার। এ সূরার পাঠক শহরের উল্লাসের মুখোমুখি হন ১৫:৬৬ আয়াতের ফয়সালা আগে থেকেই জেনে। তাদের আনন্দ পাশাপাশি রাখা হয়েছে এমন এক সকালের সঙ্গে, যা তারা দেখতে পায় না। এতে তাদের নিয়ে উপহাস করার কোনো কারণ নেই, নিচে এ পাতা সে কথা স্পষ্ট করেছে। বরং মনে করিয়ে দেয়, আজ রাতে কীসে মজা মিলবে সে ব্যাপারে ভিড়ের নিশ্চয়তা আগামীকালের কোনো জ্ঞান নয়। আর অন্যায়ে পাওয়া আনন্দের মেয়াদ সবসময়ই ফুরিয়ে আসছে।"
           }
         ]
       },
