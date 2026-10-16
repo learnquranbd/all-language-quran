@@ -3801,11 +3801,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-An'am is closing. 6:159 has just separated the Prophet ﷺ from those who split their religion and became sects, leaving their affair to Allah. Then this verse states the rate at which deeds are repaid. Then 6:161 begins the surah's closing declaration — say, my Lord has guided me to a straight path — and 6:164 adds that no bearer of burdens bears the burden of another.",
-            "bn": "সূরা আল-আন'আম শেষের দিকে। 6:159 এইমাত্র নবী ﷺ-কে আলাদা করেছে তাদের থেকে যারা নিজেদের দ্বীনকে খণ্ডবিখণ্ড করে দলে দলে ভাগ হয়ে গেছে, আর তাদের বিষয়টি আল্লাহর হাতে ছেড়ে দিয়েছে। এরপর এই আয়াতটি বলে দেয় আমলের প্রতিদান কোন হারে দেওয়া হবে। তারপর 6:161 শুরু করে সূরার সমাপ্তি-ঘোষণা — বলো, আমার প্রতিপালক আমাকে সরল পথে পরিচালিত করেছেন — আর 6:164 যোগ করে যে কোনো বহনকারী অন্যের বোঝা বহন করবে না।"
+            "bn": "সূরা আল-আন'আম শেষ হয়ে আসছে। ঠিক আগের আয়াত ৬:১৫৯ জানিয়ে দিয়েছে, যারা নিজেদের দ্বীনকে টুকরো টুকরো করে নানা দলে ভাগ হয়ে গেছে, নবী ﷺ তাদের কেউ নন; তাদের ব্যাপার আল্লাহর হাতে। এরপর এই আয়াত বলে দেয়, আমলের প্রতিদান কোন হারে মিলবে। তারপর ৬:১৬১ থেকে শুরু হয় সূরার সমাপনী ঘোষণা: বলো, আমার রব আমাকে সরল পথ দেখিয়েছেন। আর ৬:১৬৪ যোগ করে, কোনো বোঝা বহনকারী অন্যের বোঝা বহন করবে না।"
           },
           {
             "en": "So the verse is the final piece of argument before the surah turns into a declaration. A long Makkan case that the One who creates and provides is alone entitled to worship arrives, at the end, at the question a listener actually has: what happens to what I do. The answer comes in two halves, and the second of those halves is the one this article is mostly about.",
-            "bn": "অর্থাৎ সূরাটি ঘোষণায় রূপ নেওয়ার আগে এই আয়াতটিই যুক্তির শেষ অংশ। যিনি সৃষ্টি করেন ও রিযক দেন কেবল তিনিই ইবাদতের যোগ্য — মক্কী যুগের এই দীর্ঘ যুক্তিটি শেষে এসে পৌঁছায় সেই প্রশ্নে, যা শ্রোতার মনে সত্যিই আছে: আমি যা করি তার কী হয়। জবাবটি আসে দুই অর্ধে, আর এই লেখাটির মূল আলোচনা সেই দ্বিতীয় অর্ধটি নিয়ে।"
+            "bn": "তাই সূরাটি ঘোষণায় মোড় নেওয়ার আগে এই আয়াতই যুক্তির শেষ ধাপ। মক্কী যুগের দীর্ঘ এই যুক্তি বলে আসছিল, যিনি সৃষ্টি করেন ও রিযিক দেন, ইবাদত কেবল তাঁরই প্রাপ্য। শেষে এসে সেই যুক্তি পৌঁছায় শ্রোতার মনের আসল প্রশ্নে: আমি যা করি, তার কী হবে? জবাব আসে দুই ভাগে। এই লেখার বেশিরভাগ আলোচনা দ্বিতীয় ভাগটি নিয়ে।"
           }
         ]
       },
@@ -3817,7 +3817,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Man ja'a bil-hasanah — whoever comes with a good deed. Ja'a bi is to come bringing something, so the picture is arrival carrying, rather than a file being read out about you. The same formula opens 27:89 and 28:84, and both of those complete it differently: whoever comes with a good deed will have better than it. One place names a rate; the others decline to name one and say only that what returns is better.",
-            "bn": "মান জাআ বিল-হাসানাহ — যে ব্যক্তি একটি সৎকর্ম নিয়ে আসে। 'জাআ বি' মানে কিছু নিয়ে আসা, তাই ছবিটি হলো হাতে কিছু নিয়ে উপস্থিত হওয়া, আপনার সম্পর্কে কোনো নথি পড়ে শোনানো নয়। এই একই গঠন দিয়ে শুরু হয় 27:89 ও 28:84, আর ঐ দুটি বাক্য শেষ হয় ভিন্নভাবে: যে সৎকর্ম নিয়ে আসবে তার জন্য থাকবে তার চেয়েও উত্তম কিছু। এক জায়গায় একটি হার বলা হয়েছে; অন্য জায়গাগুলোতে হার বলা হয়নি, কেবল বলা হয়েছে যা ফিরে আসে তা আরও উত্তম।"
+            "bn": "মান জাআ বিল-হাসানাহ: যে একটি নেক কাজ নিয়ে আসবে। 'জাআ বি' মানে কিছু সঙ্গে করে নিয়ে আসা। তাই ছবিটা হলো হাতে কিছু নিয়ে হাজির হওয়ার, আপনার নামে কোনো নথি পড়ে শোনানোর নয়। ২৭:৮৯ আর ২৮:৮৪ আয়াতও একই কথা দিয়ে শুরু হয়, কিন্তু দুটোই শেষ হয় অন্যভাবে: যে নেক কাজ নিয়ে আসবে, সে পাবে তার চেয়েও উত্তম কিছু। এক জায়গায় হার বলে দেওয়া হয়েছে; অন্য দুই জায়গায় কোনো হার নেই, শুধু বলা আছে, যা ফিরে আসবে তা আরও উত্তম।"
           }
         ]
       },
@@ -3829,7 +3829,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "'Ashru amthaliha, ten of its like. This is the half of the verse most often quoted, and 2:261 follows it upward: spending in the way of Allah is likened there to a grain that produces seven ears with a hundred grains in each, and the figure is then left open with and Allah multiplies for whom He wills. Ten is therefore the general floor for a good deed, not a ceiling.",
-            "bn": "'আশরু আমছালিহা — তার দশ গুণ। আয়াতের এই অর্ধেকটিই সবচেয়ে বেশি উদ্ধৃত হয়, আর 2:261 তা আরও ওপরে নিয়ে যায়: সেখানে আল্লাহর পথে ব্যয়কে তুলনা করা হয়েছে এমন এক বীজের সঙ্গে যা সাতটি শীষ উৎপন্ন করে, প্রতিটি শীষে একশত দানা; তারপর সংখ্যাটি খোলা রেখে দেওয়া হয় এই কথায় — আল্লাহ যাকে চান বাড়িয়ে দেন। কাজেই দশ হলো সৎকর্মের সাধারণ সর্বনিম্ন হার, সর্বোচ্চ সীমা নয়।"
+            "bn": "'আশরু আমছালিহা: তার দশ গুণ। আয়াতের এই অংশটাই সবচেয়ে বেশি উদ্ধৃত হয়। ২:২৬১ আয়াত হিসাবটাকে আরও ওপরে নিয়ে যায়। সেখানে আল্লাহর পথে খরচকে তুলনা করা হয়েছে এমন এক শস্যদানার সঙ্গে, যা থেকে সাতটি শীষ বের হয়, প্রতিটি শীষে একশ দানা। তারপর সংখ্যাটা খোলা রাখা হয়েছে এই কথায়: আল্লাহ যাকে চান, বহুগুণ বাড়িয়ে দেন। কাজেই নেক কাজের জন্য দশ গুণ হলো সাধারণ সর্বনিম্ন হার, সর্বোচ্চ সীমা নয়।"
           }
         ]
       },
@@ -3841,11 +3841,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Now the clause that makes this a statement about justice: wa man ja'a bis-sayyi'ati fala yujza illa mithlaha. Whoever comes with an evil deed is not recompensed except with its like. Notice the grammar beside the first half. Good is stated as a possession — fa-lahu, then for him is ten of its like. Evil is stated as a passive with a restriction: he shall not be repaid except its like. Reward is granted; punishment is fenced.",
-            "bn": "এবার সেই বাক্যাংশ, যা একে ন্যায়বিচার নিয়ে একটি বক্তব্যে পরিণত করে: ওয়া মান জাআ বিস-সাইয়্যিআতি ফালা ইউজযা ইল্লা মিছলাহা। যে মন্দ কাজ নিয়ে আসে তাকে কেবল তার সমান প্রতিফলই দেওয়া হবে। প্রথমার্ধের পাশে ব্যাকরণটি লক্ষ করুন। কল্যাণকে বলা হয়েছে অধিকার হিসেবে — 'ফালাহু', অর্থাৎ তার জন্য রয়েছে তার দশ গুণ। আর মন্দকে বলা হয়েছে সীমাসহ কর্মবাচ্যে: তাকে তার সমান ছাড়া প্রতিফল দেওয়া হবে না। পুরস্কার দেওয়া হয়; শাস্তির চারপাশে বেড়া দেওয়া হয়।"
+            "bn": "এবার সেই অংশ, যা আয়াতটিকে ন্যায়বিচারের ঘোষণা বানিয়ে দেয়: ওয়া মান জাআ বিস-সাইয়্যিআতি ফালা ইউজযা ইল্লা মিছলাহা। যে মন্দ কাজ নিয়ে আসবে, তাকে শুধু তার সমান প্রতিফলই দেওয়া হবে। প্রথম অংশের পাশে রেখে বাক্যের গঠনটা লক্ষ করুন। ভালো কাজের কথা এসেছে প্রাপ্য হিসেবে: 'ফালাহু', অর্থাৎ তার জন্য রয়েছে তার দশ গুণ। আর মন্দের কথা এসেছে কর্মবাচ্যে, সঙ্গে একটা সীমা টেনে: তাকে তার সমান ছাড়া প্রতিফল দেওয়া হবে না। পুরস্কার দেওয়া হয়; শাস্তিকে ঘিরে রাখা হয় বেড়া দিয়ে।"
           },
           {
             "en": "40:40 states it in almost identical words, and 42:40 applies the same principle to human dealings by calling the recompense for an evil an evil like it, and then immediately preferring pardon. What is excluded here is the thing human justice most reliably fails at, which is escalation. Nobody on that Day is punished beyond the weight of what he did, nobody for what he did not do, and 6:164 in this same surah rules out being punished for another.",
-            "bn": "40:40 প্রায় হুবহু একই শব্দে কথাটি বলে, আর 42:40 একই নীতি মানুষের পারস্পরিক আচরণে প্রয়োগ করে — মন্দের প্রতিফল তার সমান মন্দ — এবং সঙ্গে সঙ্গেই ক্ষমাকে অগ্রাধিকার দেয়। এখানে যা বাদ দেওয়া হচ্ছে তা হলো মানুষের বিচারব্যবস্থা যেখানে সবচেয়ে নিয়মিতভাবে ব্যর্থ হয়: বাড়াবাড়ি। সেদিন কাউকে তার কৃতকর্মের ওজনের বেশি শাস্তি দেওয়া হবে না, যা সে করেনি তার জন্যও নয়; আর এই সূরারই 6:164 অন্যের অপরাধে শাস্তি পাওয়ার সম্ভাবনাও নাকচ করে দেয়।"
+            "bn": "৪০:৪০ আয়াত প্রায় হুবহু একই শব্দে কথাটি বলে। আর ৪২:৪০ একই নীতি মানুষের লেনদেনে খাটায়: মন্দের প্রতিফল তার সমান মন্দ। তারপরই আয়াতটি ক্ষমাকে উত্তম বলে দেয়। এখানে বাদ পড়েছে ঠিক সেই জিনিস, যেখানে মানুষের বিচার সবচেয়ে বেশি ব্যর্থ হয়: বাড়াবাড়ি। সেদিন কাউকে তার কাজের ওজনের বেশি শাস্তি দেওয়া হবে না, যা সে করেনি তার জন্যও নয়। আর এই সূরারই ৬:১৬৪ আয়াত একজনের দায়ে আরেকজনের শাস্তি পাওয়ার পথও বন্ধ করে দেয়।"
           }
         ]
       },
@@ -3857,11 +3857,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari narrates from Ibn Abbas (RA), from the Prophet ﷺ reporting from his Lord, that whoever intends a good deed and does not do it has one full good deed written for him; whoever intends it and does it has ten written, up to seven hundred times and more; whoever intends an evil deed and does not do it has one full good deed written for him; and whoever intends it and does it has one evil deed written.",
-            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ তাঁর প্রতিপালকের পক্ষ থেকে বর্ণনা করেছেন: যে ব্যক্তি একটি সৎকাজের সংকল্প করে অথচ তা করে না, তার জন্য একটি পূর্ণ নেকি লেখা হয়; যে সংকল্প করে এবং করে, তার জন্য দশটি লেখা হয়, সাতশ গুণ পর্যন্ত ও তার বেশিও; যে একটি মন্দ কাজের সংকল্প করে অথচ তা করে না, তার জন্যও একটি পূর্ণ নেকি লেখা হয়; আর যে সংকল্প করে এবং তা করে, তার জন্য একটিমাত্র গুনাহ লেখা হয়।"
+            "bn": "ইমাম বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ তাঁর রবের পক্ষ থেকে জানিয়েছেন: কেউ কোনো নেক কাজের নিয়ত করল কিন্তু করল না, তার জন্য একটি পূর্ণ নেকি লেখা হয়। নিয়ত করে কাজটা করে ফেললে লেখা হয় দশটি নেকি, সাতশ গুণ পর্যন্ত, এমনকি তারও বেশি। কেউ কোনো মন্দ কাজের নিয়ত করল কিন্তু করল না, তার জন্যও একটি পূর্ণ নেকি লেখা হয়। আর নিয়ত করে মন্দ কাজটা করে ফেললে লেখা হয় মাত্র একটি গুনাহ।"
           },
           {
             "en": "Set the hadith beside the verse and the asymmetry starts earlier than the act itself. An abandoned intention to do good is credited, and an abandoned intention to do evil is credited as well. The only place a single unit is entered against a person is the evil actually carried out. The verse's ten and the hadith's ten are the same figure, and the hadith adds the stage that the verse does not describe.",
-            "bn": "হাদীসটি আয়াতের পাশে রাখলে দেখা যায়, এই অসমতা কাজের আগেই শুরু হয়ে যায়। সৎকাজের পরিত্যক্ত সংকল্পও জমা হয়, আবার মন্দ কাজের পরিত্যক্ত সংকল্পও জমা হয়। কেবল একটিমাত্র জায়গায় মানুষের বিরুদ্ধে এক একক লেখা হয় — বাস্তবে করে ফেলা মন্দ কাজটিতে। আয়াতের দশ আর হাদীসের দশ একই সংখ্যা, আর হাদীসটি যোগ করে সেই স্তরটি, যা আয়াত বর্ণনা করে না।"
+            "bn": "হাদিসটা আয়াতের পাশে রাখলে দেখা যায়, এই অসমতা শুরু হয়ে যায় কাজের আগেই। ভালো কাজের নিয়ত করে ছেড়ে দিলেও নেকি জমা হয়, মন্দ কাজের নিয়ত করে ছেড়ে দিলেও নেকি জমা হয়। মানুষের বিরুদ্ধে একটি গুনাহ লেখা হয় কেবল এক জায়গায়: মন্দ কাজটা যখন সে সত্যিই করে ফেলে। আয়াতের দশ আর হাদিসের দশ একই সংখ্যা। হাদিস শুধু সেই ধাপটা যোগ করে, যার কথা আয়াতে নেই।"
           }
         ]
       },
@@ -3873,11 +3873,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends where 2:281 ends: wa hum la yuzlamun. Zulm is described by the scholars as putting a thing somewhere it does not belong, and both halves of this verse are protected by the phrase. Multiplying the good is generosity and does not offend justice, because nobody is harmed by another's reward. Capping the evil is justice itself, and the closing clause states plainly that the cap will not be exceeded.",
-            "bn": "আয়াতটি শেষ হয় সেখানেই যেখানে 2:281 শেষ হয়: ওয়া হুম লা ইউযলামূন। আলিমগণ জুলুমের ব্যাখ্যা দেন এভাবে — কোনো জিনিসকে এমন জায়গায় রাখা যেখানে তার স্থান নয়; আর এই বাক্যাংশ আয়াতের দুই অর্ধকেই রক্ষা করে। কল্যাণকে বহুগুণ করা অনুগ্রহ, আর তা ন্যায়ের বিরুদ্ধে যায় না, কারণ অন্যের পুরস্কারে কারও ক্ষতি হয় না। মন্দের ওপর সীমা টেনে দেওয়াই ন্যায়, আর শেষ বাক্যাংশটি স্পষ্ট বলে দেয় যে সেই সীমা অতিক্রম করা হবে না।"
+            "bn": "আয়াতটি শেষ হয় ঠিক যেখানে ২:২৮১ শেষ হয়: ওয়া হুম লা ইউযলামূন। আলিমরা জুলুমের সংজ্ঞা দেন এভাবে: কোনো জিনিসকে তার জায়গার বাইরে রাখা। শেষের এই কথাটি আয়াতের দুই অংশকেই আগলে রাখে। ভালো কাজকে বহুগুণ করা আল্লাহর দয়া; তাতে ইনসাফের কোনো ক্ষতি হয় না, কারণ অন্যের পুরস্কারে কারও ক্ষতি হয় না। আর মন্দকে সীমার ভেতরে রাখাই তো ইনসাফ। শেষ বাক্যাংশ সোজাসুজি জানিয়ে দেয়, সেই সীমা কখনো পেরোনো হবে না।"
           },
           {
             "en": "Lived out, the verse cuts both ways, and people usually take only one of them. A small good is never negligible, because it is entered at ten before anything else is added to it. And a small wrong is never free, because a like-for-like repayment is still a repayment; what removes it is repentance or pardon, not its size. The generosity in this verse is real, and it is not an amnesty.",
-            "bn": "জীবনে প্রয়োগ করলে আয়াতটি দুই দিকেই কাটে, অথচ মানুষ সাধারণত একটি দিকই নেয়। ছোট কোনো ভালো কাজ কখনোই তুচ্ছ নয়, কারণ আর কিছু যোগ হওয়ার আগেই তা দশ হিসেবে লেখা হয়। আর ছোট কোনো অন্যায়ও কখনোই বিনা মূল্যের নয়, কারণ সমানে-সমান প্রতিফলও তো প্রতিফলই; তা মুছে দেয় তাওবা বা ক্ষমা, তার আকার নয়। এই আয়াতের অনুগ্রহ সত্যিকারের, কিন্তু তা সাধারণ ক্ষমার ঘোষণা নয়।"
+            "bn": "জীবনে আয়াতটির দুই দিকেই ধার, অথচ মানুষ সাধারণত একটা দিকই দেখে। ছোট নেক কাজও কখনো তুচ্ছ নয়, কারণ আর কিছু যোগ হওয়ার আগেই তা দশ গুণ লেখা হয়ে যায়। আবার ছোট অন্যায়ও কখনো এমনি এমনি পার পায় না, কারণ সমান সমান প্রতিফলও তো প্রতিফলই। তা মুছে যায় তওবা বা ক্ষমায়, ছোট হওয়ার কারণে নয়। এই আয়াতের দয়া সত্যি, কিন্তু তা ঢালাও মাফের ঘোষণা নয়।"
           }
         ]
       }
@@ -3893,27 +3893,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-An'am is a long Makkan surah with a single sustained argument: that the One who creates, provides and judges is alone entitled to worship. Near its end the argument stops being argued and becomes a declaration to be spoken. A series of verses beginning with qul, say, closes the surah, and 6:162-163 is their peak: say, my prayer, my sacrifice, my living and my dying are for Allah, Lord of the worlds; He has no partner.",
-            "bn": "সূরা আল-আন'আম একটি দীর্ঘ মাক্কী সূরা, যার একটাই ধারাবাহিক যুক্তি: যিনি সৃষ্টি করেন, রিযিক দেন ও বিচার করেন, ইবাদত পাওয়ার অধিকার কেবল তাঁরই। সূরার শেষপ্রান্তে এসে যুক্তিটি আর তর্ক থাকে না, হয়ে ওঠে উচ্চারণের ঘোষণা। 'কুল' — বলো — দিয়ে শুরু হওয়া কয়েকটি আয়াতের ধারা সূরাটি শেষ করে, আর 6:162-163 তার চূড়া: বলো, আমার নামায, আমার কুরবানী, আমার জীবন ও আমার মৃত্যু — সবই আল্লাহর জন্য, যিনি জগৎসমূহের রব; তাঁর কোনো শরীক নেই।"
+            "bn": "সূরা আল-আন'আম মক্কী যুগের দীর্ঘ এক সূরা, আর পুরো সূরা জুড়ে একটাই যুক্তি চলে: যিনি সৃষ্টি করেন, রিযিক দেন ও বিচার করেন, ইবাদত কেবল তাঁরই প্রাপ্য। শেষের দিকে এসে যুক্তিটা আর যুক্তি থাকে না, হয়ে যায় মুখে উচ্চারণ করার মতো এক ঘোষণা। 'কুল' (বলো) দিয়ে শুরু হওয়া কয়েকটি আয়াত দিয়ে সূরাটি শেষ হয়, আর ৬:১৬২-১৬৩ সেগুলোর শিখর: বলো, আমার নামাজ, আমার কুরবানী, আমার জীবন ও আমার মৃত্যু, সবই আল্লাহর জন্য, যিনি জগৎসমূহের রব; তাঁর কোনো শরীক নেই।"
           },
           {
             "en": "The speaker commanded to say it is the Prophet ﷺ, but the commentators read the command as a template handed to every believer, because the sentence describes what islam, surrender, actually is. The verse ends: with this I have been commanded, and I am the first of the Muslims — first of this community to submit, as Ibn Kathir explains, since every prophet before him (AS) submitted within his own nation.",
-            "bn": "যাঁকে এটি বলার আদেশ দেওয়া হয়েছে তিনি নবী ﷺ, কিন্তু মুফাসসিরগণ আদেশটিকে প্রত্যেক মুমিনের হাতে তুলে দেওয়া এক নমুনা হিসেবে পড়েন, কারণ বাক্যটি বর্ণনা করে ইসলাম — আত্মসমর্পণ — আসলে কী। আয়াত শেষ হয়: এরই আদেশ আমাকে দেওয়া হয়েছে, আর আমি মুসলিমদের মধ্যে প্রথম — অর্থাৎ এই উম্মতের মধ্যে প্রথম আত্মসমর্পণকারী, যেমন ইবনে কাসীর ব্যাখ্যা করেন, কেননা তাঁর আগের প্রত্যেক নবী (আঃ) নিজ নিজ জাতির মধ্যে আত্মসমর্পণ করেছিলেন।"
+            "bn": "এ কথা বলার আদেশ এসেছে নবী ﷺ-এর প্রতি। কিন্তু মুফাসসিররা আদেশটিকে প্রত্যেক মুমিনের হাতে তুলে দেওয়া এক ছাঁচ হিসেবে পড়েন, কারণ বাক্যটি বলে দেয় ইসলাম, অর্থাৎ আত্মসমর্পণ, আসলে কী। আয়াতের শেষ কথা: এরই আদেশ আমাকে দেওয়া হয়েছে, আর আমি মুসলিমদের মধ্যে প্রথম। ইবনে কাসীর ব্যাখ্যা করেন, এর মানে এই উম্মতের মধ্যে প্রথম আত্মসমর্পণকারী, কেননা তাঁর আগের প্রত্যেক নবী (আঃ) নিজ নিজ জাতির মধ্যে আত্মসমর্পণ করেছিলেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Four Things Handed Over",
-          "bn": "চারটি জিনিস সমর্পিত"
+          "bn": "সঁপে দেওয়া চারটি জিনিস"
         },
         "p": [
           {
             "en": "The verse lists four possessions and signs them all over: salati, my prayer; nusuki, my sacrifice; mahyaya, my living; mamati, my dying. The first two are acts of worship, one of the body and tongue, one of wealth and blood. The second two are not acts at all — they are the whole span inside which acts happen. The list moves outward: from a rite, to a costlier rite, to everything a person does, to the one thing a person cannot do but only undergo.",
-            "bn": "আয়াতটি চারটি সম্পদের তালিকা করে সবকটি সঁপে দেয়: 'সালাতি' — আমার নামায; 'নুসুকি' — আমার কুরবানী; 'মাহইয়ায়া' — আমার জীবন; 'মামাতি' — আমার মৃত্যু। প্রথম দুটি ইবাদত — একটি দেহ ও জিহ্বার, অন্যটি সম্পদ ও রক্তের। শেষ দুটি আদৌ কোনো কাজ নয় — সেগুলো সেই গোটা পরিসর, যার ভেতরে সব কাজ ঘটে। তালিকাটি ক্রমে বাইরের দিকে যায়: একটি রীতি থেকে আরও ব্যয়বহুল রীতিতে, সেখান থেকে মানুষের সমস্ত কর্মে, আর শেষে সেই একটি জিনিসে যা মানুষ করতে পারে না, কেবল বরণ করতে পারে।"
+            "bn": "আয়াতটি নিজের চারটি জিনিসের নাম নেয়, তারপর সবকটিই সঁপে দেয়: 'সালাতি', আমার নামাজ; 'নুসুকি', আমার কুরবানী; 'মাহইয়ায়া', আমার জীবন; 'মামাতি', আমার মৃত্যু। প্রথম দুটি ইবাদত: একটি শরীর ও জিহ্বার, অন্যটি সম্পদ ও রক্তের। শেষ দুটি কোনো কাজই নয়। এ দুটি হলো গোটা জীবনকাল, যার ভেতরে সব কাজ ঘটে। তালিকাটি ক্রমেই বড় হতে থাকে: একটি ইবাদত থেকে আরও দামি ইবাদতে, সেখান থেকে মানুষের সব কাজে, আর শেষে সেই একটি জিনিসে, যা মানুষ করতে পারে না, কেবল তার ভেতর দিয়ে যেতে হয়।"
           },
           {
             "en": "Nusuk is glossed by al-Tabari and Ibn Kathir primarily as the slaughtered offering, sacrifice made to draw near to Allah, and the pairing of prayer with sacrifice recurs in 108:2, so pray to your Lord and sacrifice. The two acts answer the two idolatries of Makkah, which prayed to idols and slaughtered for them. The verse takes both channels of devotion, the one that costs breath and the one that costs blood, and routes them to a single recipient.",
-            "bn": "'নুসুক' শব্দটিকে তাবারী ও ইবনে কাসীর প্রধানত যবেহকৃত কুরবানী অর্থে ব্যাখ্যা করেন — আল্লাহর নৈকট্যের জন্য উৎসর্গ; আর নামায ও কুরবানীর এই জোড় আবার আসে 108:2 আয়াতে — সুতরাং তোমার রবের জন্য নামায পড়ো এবং কুরবানী করো। কাজ দুটি মক্কার দুই শিরকের জবাব, যারা মূর্তির কাছে প্রার্থনা করত এবং মূর্তির নামে যবেহ করত। আয়াতটি ভক্তির দুটি প্রণালীকেই — যেটির মূল্য নিঃশ্বাস আর যেটির মূল্য রক্ত — একটিমাত্র প্রাপকের দিকে ফিরিয়ে দেয়।"
+            "bn": "'নুসুক' শব্দের অর্থ তাবারী ও ইবনে কাসীর মূলত করেছেন যবেহ করা কুরবানী, অর্থাৎ আল্লাহর নৈকট্য পেতে যে পশু উৎসর্গ করা হয়। নামাজ আর কুরবানীর এই জোড় আবার এসেছে ১০৮:২ আয়াতে: সুতরাং তোমার রবের জন্য নামাজ পড়ো এবং কুরবানী করো। এ দুটি আমল মক্কার দুই রকম শিরকের জবাব; মুশরিকরা মূর্তির কাছে প্রার্থনা করত, মূর্তির নামে যবেহও করত। আয়াতটি ইবাদতের দুটি ধারাকেই একজনেরই কাছে পাঠিয়ে দেয়: যেটিতে খরচ হয় নিঃশ্বাস, আর যেটিতে খরচ হয় রক্ত।"
           }
         ]
       },
@@ -3925,27 +3925,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "How can dying be for Allah, when no one chooses its hour? The commentators answer that what is handed over is not the event but its orientation: to remain on His religion until it comes, to hope to meet Him upon tawhid, to make even the manner of one's death — its patience, its testimony — an act of devotion. And living for Him does not mean living inside a mosque. It means the ordinary content of a life is aimed, by intention, at His pleasure.",
-            "bn": "মৃত্যু কীভাবে আল্লাহর জন্য হয়, যখন কেউ তার ক্ষণ বেছে নিতে পারে না? মুফাসসিরগণ উত্তর দেন: যা সমর্পণ করা হয় তা ঘটনাটি নয়, তার অভিমুখ — মৃত্যু আসা পর্যন্ত তাঁর দ্বীনের ওপর টিকে থাকা, তাওহীদের ওপর থেকেই তাঁর সাক্ষাতের আশা রাখা, এমনকি নিজের মৃত্যুর ধরনকেও — তার ধৈর্য, তার সাক্ষ্য — ইবাদতে পরিণত করা। আর তাঁর জন্য বাঁচার মানে মসজিদের ভেতরে বাস করা নয়। এর মানে, জীবনের সাধারণ উপকরণগুলোকে নিয়তের মাধ্যমে তাঁর সন্তুষ্টির দিকে তাক করা।"
+            "bn": "যার সময় কেউ বেছে নিতে পারে না, সেই মৃত্যু আল্লাহর জন্য হয় কীভাবে? মুফাসসিররা জবাব দেন: সঁপে দেওয়া হয় ঘটনাটি নয়, তার অভিমুখ। অর্থাৎ মৃত্যু আসা পর্যন্ত তাঁর দ্বীনের ওপর অটল থাকা, তাওহীদের ওপর থেকেই তাঁর সঙ্গে সাক্ষাতের আশা রাখা, এমনকি মৃত্যুর ধরনটাকেও, তার সবর আর তার সাক্ষ্যকে, ইবাদত বানিয়ে ফেলা। আর তাঁর জন্য বাঁচা মানে মসজিদের ভেতর বাস করা নয়। এর মানে, জীবনের সাধারণ কাজকর্মগুলো নিয়তের মাধ্যমে তাঁর সন্তুষ্টির দিকে তাক করা।"
           },
           {
             "en": "This is the same purpose 51:56 states from the other direction: I did not create jinn and mankind except to worship Me. Read together, the two verses close a circle. Creation exists for worship; the believer answers by declaring that everything inside the created span, from the first breath to the last, is offered back. What was given as a loan is returned as a gift, and nothing of the life is left outside the transaction.",
-            "bn": "এ সেই একই উদ্দেশ্য, যা 51:56 উল্টো দিক থেকে বলে: আমি জিন ও মানুষকে কেবল আমার ইবাদতের জন্যই সৃষ্টি করেছি। একসঙ্গে পড়লে আয়াত দুটি একটি বৃত্ত সম্পূর্ণ করে। সৃষ্টির অস্তিত্বই ইবাদতের জন্য; মুমিন উত্তর দেয় এই ঘোষণায় যে সৃষ্ট পরিসরের ভেতরের সবকিছু — প্রথম নিঃশ্বাস থেকে শেষ নিঃশ্বাস পর্যন্ত — ফিরিয়ে নিবেদন করা হলো। যা ঋণ হিসেবে দেওয়া হয়েছিল তা উপহার হিসেবে ফেরত যায়, আর জীবনের কোনো অংশই লেনদেনের বাইরে পড়ে থাকে না।"
+            "bn": "৫১:৫৬ আয়াত একই উদ্দেশ্যের কথা বলে, তবে উল্টো দিক থেকে: আমি জিন ও মানুষকে কেবল আমার ইবাদতের জন্যই সৃষ্টি করেছি। দুটি আয়াত একসঙ্গে পড়লে একটা বৃত্ত পূর্ণ হয়। সৃষ্টি হয়েছে ইবাদতের জন্য; মুমিন তার জবাবে ঘোষণা দেয়, এই জীবনের ভেতরে যা কিছু আছে, প্রথম নিঃশ্বাস থেকে শেষ নিঃশ্বাস পর্যন্ত, সবই তাঁকে ফিরিয়ে দিলাম। যা ঋণ হিসেবে পাওয়া, তা ফিরে যায় উপহার হয়ে। জীবনের কোনো অংশই এই লেনদেনের বাইরে পড়ে থাকে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Recited at the Start of Prayer",
-          "bn": "নামাযের শুরুতে পঠিত"
+          "bn": "নামাজ শুরুর দোয়ায়"
         },
         "p": [
           {
             "en": "These words were not left as theology on a page. Muslim narrates from Ali (RA) that the Prophet ﷺ, when he stood for prayer, would open with a supplication that includes these very phrases: my prayer, my sacrifice, my living and my dying are for Allah, Lord of the worlds, He has no partner, and with this I have been commanded. The declaration Allah taught in 6:162-163 became the doorway through which the Prophet ﷺ entered the prayer itself.",
-            "bn": "এই কথাগুলো পাতার ওপর কেবল তত্ত্ব হয়ে পড়ে থাকেনি। মুসলিম আলী (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ নামাযে দাঁড়ালে এমন এক দোয়া দিয়ে শুরু করতেন যাতে ঠিক এই বাক্যগুলোই আছে: আমার নামায, আমার কুরবানী, আমার জীবন ও আমার মৃত্যু আল্লাহর জন্য, যিনি জগৎসমূহের রব, তাঁর কোনো শরীক নেই, আর এরই আদেশ আমাকে দেওয়া হয়েছে। 6:162-163 আয়াতে আল্লাহ যে ঘোষণা শেখালেন, তা-ই হয়ে গেল সেই দরজা, যা দিয়ে নবী ﷺ স্বয়ং নামাযে প্রবেশ করতেন।"
+            "bn": "এই কথাগুলো পাতায় লেখা তত্ত্ব হয়েই থেকে যায়নি। ইমাম মুসলিম আলী (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ নামাজে দাঁড়িয়ে যে দোয়া দিয়ে শুরু করতেন, তাতে হুবহু এই বাক্যগুলো আছে: আমার নামাজ, আমার কুরবানী, আমার জীবন ও আমার মৃত্যু আল্লাহর জন্য, যিনি জগৎসমূহের রব, তাঁর কোনো শরীক নেই, আর এরই আদেশ আমাকে দেওয়া হয়েছে। ৬:১৬২-১৬৩ আয়াতে আল্লাহ যে ঘোষণা শিখিয়েছেন, সেটাই হয়ে উঠল সেই দরজা, যা দিয়ে নবী ﷺ নামাজে প্রবেশ করতেন।"
           },
           {
             "en": "That usage teaches something about the verse's weight. A sentence this total could become a slogan, spoken once and framed. Instead it was placed at the threshold of a repeated act, so that the whole-life claim is renewed each time before a few minutes of standing and bowing. The largest commitment in the religion is maintained by the smallest of intervals, and the prayer that follows becomes a sample, freshly signed, of the life being promised.",
-            "bn": "এই ব্যবহার আয়াতটির ওজন সম্পর্কে কিছু শেখায়। এত সর্বগ্রাসী একটি বাক্য স্লোগান হয়ে যেতে পারত — একবার বলে বাঁধিয়ে রাখার জিনিস। বদলে একে রাখা হলো এক পুনরাবৃত্ত আমলের চৌকাঠে, যাতে গোটা-জীবনের দাবিটি প্রতিবার নবায়ন হয় কয়েক মিনিটের দাঁড়ানো-রুকুর আগে। দ্বীনের সবচেয়ে বড় অঙ্গীকারটি রক্ষিত হয় সবচেয়ে ছোট ছোট বিরতিতে, আর এর পরের নামাযটি হয়ে ওঠে প্রতিশ্রুত জীবনের এক টাটকা-স্বাক্ষরিত নমুনা।"
+            "bn": "এই ব্যবহার থেকে আয়াতটির ওজন সম্পর্কে একটা কথা বোঝা যায়। এত পূর্ণাঙ্গ একটি বাক্য সহজেই স্লোগান হয়ে যেতে পারত: একবার বলে ফ্রেমে বাঁধিয়ে রাখার জিনিস। তা না হয়ে একে বসানো হলো বারবার করা এক আমলের দোরগোড়ায়। ফলে কয়েক মিনিট দাঁড়ানো আর রুকুর আগে প্রতিবার গোটা জীবনের দাবিটি নতুন করে ঘোষণা হয়। দ্বীনের সবচেয়ে বড় অঙ্গীকার টিকে থাকে খুব অল্প অল্প সময় পরপর নবায়নের মধ্য দিয়ে। আর এরপর যে নামাজ, তা হয়ে ওঠে ওয়াদা করা সেই জীবনের এক নমুনা, যাতে সই পড়েছে এইমাত্র।"
           }
         ]
       },
@@ -3957,11 +3957,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's demand, lived out, is less dramatic than it sounds and more constant. It does not ask for a heroic single sacrifice; it asks that the question for whom be answered the same way across categories that people usually keep separate — worship, work, family, rest, and finally death. The note this article expands puts it plainly: to say this sincerely is to hand over ownership of your life to the One who gave it.",
-            "bn": "আয়াতটির দাবি, বাস্তবে যাপন করলে, শুনতে যেমন লাগে তার চেয়ে কম নাটকীয় আর বেশি নিরবচ্ছিন্ন। এটি কোনো বীরত্বপূর্ণ একক কুরবানী চায় না; এটি চায় 'কার জন্য' প্রশ্নটির উত্তর একই হোক সেইসব খাত জুড়ে, যেগুলোকে মানুষ সাধারণত আলাদা রাখে — ইবাদত, কাজ, পরিবার, বিশ্রাম, এবং শেষে মৃত্যু। এই লেখা যে নোটটির বিস্তার, তা সরলভাবেই বলে: এ কথা আন্তরিকভাবে বলা মানে জীবনের মালিকানা তাঁর হাতে তুলে দেওয়া, যিনি তা দিয়েছিলেন।"
+            "bn": "বাস্তব জীবনে আয়াতটির দাবি যতটা নাটকীয় শোনায়, ততটা নয়; বরং তা অনেক বেশি প্রতিদিনের। এটি একবারের কোনো বীরত্বপূর্ণ কুরবানী চায় না। চায়, 'কার জন্য' প্রশ্নের উত্তর সব ক্ষেত্রে একই হোক, এমনকি যেসব ক্ষেত্র মানুষ সাধারণত আলাদা করে রাখে সেগুলোতেও: ইবাদত, কাজ, পরিবার, বিশ্রাম, আর শেষে মৃত্যু। এই লেখা যে নোটের বিস্তার, সেখানে সোজা কথায় বলা আছে: এ কথা আন্তরিকভাবে বলা মানে নিজের জীবনের মালিকানা তাঁর হাতে তুলে দেওয়া, যিনি এই জীবন দিয়েছেন।"
           },
           {
             "en": "A workable practice is to test one ordinary act each day against the verse: this meal, this commute, this hour of work — can it be aimed at Allah by intention, gratitude, or excellence, and if not, why is it in the life at all? La sharika lahu, He has no partner, then does quiet work: it rules out not only idols of stone but every rival claimant to the day, approval, fear, and habit among them.",
-            "bn": "একটি কার্যকর অভ্যাস হলো প্রতিদিন একটি সাধারণ কাজকে আয়াতটির সামনে পরীক্ষা করা: এই খাবার, এই যাতায়াত, কাজের এই ঘণ্টা — নিয়ত, কৃতজ্ঞতা বা উৎকর্ষ দিয়ে কি একে আল্লাহর দিকে তাক করা যায়? না গেলে, তা জীবনে আছেই বা কেন? 'লা শারীকা লাহু' — তাঁর কোনো শরীক নেই — তখন নীরবে কাজ করে: এটি কেবল পাথরের মূর্তিকে বাদ দেয় না, দিনের ওপর দাবি তোলা প্রতিটি প্রতিদ্বন্দ্বীকেও বাদ দেয় — মানুষের সমর্থন, ভয় আর অভ্যাস তাদের অন্যতম।"
+            "bn": "একটা কাজের অভ্যাস হতে পারে এমন: প্রতিদিন একটি সাধারণ কাজকে এই আয়াতের সামনে যাচাই করুন। এই খাবার, এই যাতায়াত, কাজের এই এক ঘণ্টা: নিয়ত, শুকরিয়া বা ইহসান দিয়ে একে কি আল্লাহর দিকে ফেরানো যায়? না গেলে, এটি জীবনে আছেই বা কেন? তখন 'লা শারীকা লাহু', তাঁর কোনো শরীক নেই, কথাটি নীরবে কাজ করে যায়। এটি শুধু পাথরের মূর্তিকেই বাতিল করে না, দিনের ওপর দাবি তোলা প্রতিটি প্রতিদ্বন্দ্বীকেও বাতিল করে, যেমন মানুষের বাহবা, ভয় আর অভ্যাস।"
           }
         ]
       }
