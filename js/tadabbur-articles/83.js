@@ -565,7 +565,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verb comes first, and it is passive: yusqawna, they are given to drink. The verse does not say that they drink; it says they are made to drink, and it leaves the one who serves them unnamed. The drink itself is described in two words only, a noun and the word that qualifies it: rahiq, and makhtum. Everything this article reports hangs on those two words, and the commentators fetched for this verse do not gloss them alike. The sections that follow set their glosses side by side and choose none of them.",
-            "bn": "বাক্যের শুরুতেই ক্রিয়া: ইউসকাওনা, তাদের পান করানো হবে। আয়াত বলছে না যে তারা পান করবে। বলছে, তাদের পান করানো হবে, আর কে পান করাবেন তাঁর নাম উহ্য রাখা হয়েছে। পানীয়ের বর্ণনায় শব্দ মাত্র দুটি: একটি বিশেষ্য, আরেকটি তার বিশেষণ। রাহীক আর মাখতূম। এ লেখার সব কথা এই দুই শব্দকে ঘিরে। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, সেগুলো শব্দ দুটির অর্থ একভাবে করেনি। সামনের অংশগুলোতে তাদের ব্যাখ্যা পাশাপাশি রাখা হলো, কোনোটিকে বেছে নেওয়া হয়নি।"
+            "bn": "বাক্যের শুরুতেই ক্রিয়া: ইউসকাওনা, তাদের পান করানো হবে। আয়াত বলছে না যে তারা পান করবে। বলছে, তাদের পান করানো হবে, আর কে পান করাবেন, আয়াত তাঁর নাম বলেনি। পানীয়ের বর্ণনায় শব্দ মাত্র দুটি: একটি বিশেষ্য, আরেকটি তার বিশেষণ। রাহীক আর মাখতূম। এ লেখার সব কথা এই দুই শব্দকে ঘিরে। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, সেগুলো শব্দ দুটির অর্থ একভাবে করেনি। সামনের অংশগুলোতে তাদের ব্যাখ্যা পাশাপাশি রাখা হলো, কোনোটিকে বেছে নেওয়া হয়নি।"
           }
         ]
       },
@@ -577,11 +577,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir glosses the verse plainly: they will be given to drink of a wine of the Garden. Then he defines the word. Ar-rahiq, he says, is one of the names of wine, and he lists those who said so: Ibn Mas'ud, Ibn 'Abbas, Mujahid, al-Hasan, Qatada and Ibn Zayd. The abridged English Ibn Kathir carries the same gloss and the same six names. For him, then, rahiq is not a vague word for something pleasant; it is a known name, and the verse uses it of the drink of Paradise.",
-            "bn": "ইবন কাসীর আয়াতের অর্থ সোজা কথায় বলেন: তাদের পান করানো হবে জান্নাতের মদ। তারপর শব্দটির সংজ্ঞা দেন। তাঁর মতে আর-রাহীক মদের নামগুলোর একটি। কারা এ কথা বলেছেন, তাও জানান: ইবন মাসঊদ (রাঃ), ইবন আব্বাস (রাঃ), মুজাহিদ, হাসান, কাতাদা ও ইবন যায়দ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও একই ব্যাখ্যা, একই ছয়টি নাম। অর্থাৎ তাঁর কাছে রাহীক ভালো কোনো কিছুর অস্পষ্ট নাম নয়। এটি পরিচিত একটি নাম, আর আয়াত সেটি ব্যবহার করেছে জান্নাতের পানীয়ের জন্য।"
+            "bn": "ইবন কাসীর আয়াতের অর্থ সোজা কথায় বলেন: তাদের পান করানো হবে জান্নাতের মদ। তারপর শব্দটির সংজ্ঞা দেন। তাঁর মতে আর-রাহীক মদের নামগুলোর একটি। কারা এ কথা বলেছেন, তাও জানান: ইবন মাসঊদ (রাঃ), ইবন আব্বাস (রাঃ), মুজাহিদ, হাসান, কাতাদা ও ইবন যায়দ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও একই ব্যাখ্যা, একই ছয়টি নাম। অর্থাৎ তাঁর কাছে রাহীক মনোরম কোনো কিছুর ঝাপসা নাম নয়। এ এক পরিচিত নাম, আর আয়াত সেটিই ব্যবহার করেছে জান্নাতের পানীয়ের জন্য।"
           },
           {
             "en": "Two more commentators keep the same sense and add a quality to it. Al-Muyassar renders the phrase as a wine that is pure, safiya. Al-Baghawi calls it a wine pure and good, safiya tayyiba, and then reports Muqatil's narrower gloss: the white wine. So three of the commentators fetched for this verse name the drink as wine and qualify it, each in his own words, by its purity. None of them, in what was fetched here, says more about its nature than that.",
-            "bn": "আরও দুজন তাফসীরকার একই অর্থ রেখে তার সঙ্গে একটি গুণ জুড়ে দেন। মুয়াসসার বাক্যাংশটির অর্থ করেছে খাঁটি মদ, খমর সাফিয়া। বাগাভী বলেন খাঁটি ও উত্তম মদ, সাফিয়া তাইয়িবা। তারপর মুকাতিলের আরও নির্দিষ্ট ব্যাখ্যা উল্লেখ করেন: সাদা মদ। তাহলে এ আয়াতের জন্য পড়া তাফসীরগুলোর তিনটি পানীয়টিকে মদ বলেছে, আর প্রত্যেকে নিজের ভাষায় তার খাঁটিত্বের কথা বলেছে। এখানে যা পড়া হয়েছে, তাতে এর বেশি কিছু তারা বলেননি।"
+            "bn": "আরও দুজন তাফসীরকার একই অর্থ রেখে তার সঙ্গে একটি গুণ জুড়ে দেন। মুয়াসসার বাক্যাংশটির অর্থ করেছে খাঁটি মদ, খমর সাফিয়া। বাগাভী বলেন খাঁটি ও উত্তম মদ, সাফিয়া তাইয়িবা। তারপর মুকাতিলের আরও নির্দিষ্ট ব্যাখ্যা উল্লেখ করেন: সাদা মদ। তাহলে এ আয়াতের জন্য পড়া তাফসীরগুলোর তিনটি পানীয়টিকে মদ বলেছে, আর প্রত্যেকে নিজের ভাষায় তার খাঁটিত্বের কথা বলেছে। এখানে যতটুকু পড়া হয়েছে, তাতে এর স্বরূপ নিয়ে তাঁরা এর বেশি কিছু বলেননি।"
           }
         ]
       },
@@ -597,11 +597,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two further glosses follow in al-Qurtubi. Al-Khalil defines rahiq as the utmost of wine and its finest. Muqatil and others describe it as wine that is aged, white, pure of adulteration and luminous. Al-Qurtubi then quotes a line by Hassan and a line by another poet in which the word rahiq appears, showing it in use in Arabic verse. As-Sa'di, briefer still, does not name wine: rahiq, he says, is among the most pleasant of drinks there can be, and the most delicious.",
-            "bn": "কুরতুবীর আলোচনায় আরও দুটি ব্যাখ্যা আসে। খলীলের সংজ্ঞায় রাহীক মানে মদের সর্বোচ্চ স্তর, তার সবচেয়ে উৎকৃষ্ট অংশ। মুকাতিল ও আরও কয়েকজন একে বর্ণনা করেন পুরোনো, সাদা, ভেজালমুক্ত আর উজ্জ্বল মদ হিসেবে। এরপর কুরতুবী হাসসানের একটি পঙ্‌ক্তি আর আরেক কবির একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে রাহীক শব্দটি আছে। আরবি কবিতায় শব্দটি কীভাবে চলত, তা এতে দেখা যায়। সা'দী আরও সংক্ষেপে বলেন, আর তিনিও মদের নাম নেন না। তাঁর মতে রাহীক এমন পানীয়, যা সম্ভাব্য সব পানীয়ের মধ্যে সবচেয়ে উত্তম ও সুস্বাদুগুলোর একটি।"
+            "bn": "কুরতুবীর আলোচনায় আরও দুটি ব্যাখ্যা আসে। খলীলের সংজ্ঞায় রাহীক মানে মদের সর্বোচ্চ স্তর, তার সবচেয়ে উৎকৃষ্ট অংশ। মুকাতিল ও আরও কয়েকজন একে বর্ণনা করেন পুরোনো, সাদা, ভেজালমুক্ত আর উজ্জ্বল মদ হিসেবে। এরপর কুরতুবী হাসসানের একটি পঙ্‌ক্তি আর আরেক কবির একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে রাহীক শব্দটি আছে। আরবি কবিতায় শব্দটি কীভাবে চলত, তা এতে দেখা যায়। সা'দী আরও সংক্ষেপে বলেন, আর তিনিও মদের নাম নেন না। তাঁর মতে পানীয় যত রকম হতে পারে, রাহীক তার মধ্যে সবচেয়ে তৃপ্তিকর আর সুস্বাদুগুলোর একটি।"
           },
           {
             "en": "Set side by side, the glosses for rahiq gather around a few ideas without collapsing into one. Some name it as wine of Paradise (Ibn Kathir and those he cites). Some stress that nothing is mixed into it (al-Akhfash and az-Zajjaj). Some call it the choicest or finest part (al-Sihah, al-Khalil). Some describe its colour and age (Muqatil). As-Sa'di speaks only of its pleasure. This article holds all of them as given and does not pick one as the meaning.",
-            "bn": "রাহীকের ব্যাখ্যাগুলো পাশাপাশি রাখলে দেখা যায়, সেগুলো কয়েকটি ধারণার চারপাশে জড়ো হয়, তবে একটিতে মিশে যায় না। কেউ একে বলেন জান্নাতের মদ: ইবন কাসীর ও তিনি যাঁদের নাম নিয়েছেন। কেউ জোর দেন এতে কিছু মেশানো নেই, এ কথায়: আখফাশ ও যাজ্জাজ। কেউ বলেন এটি সবচেয়ে বাছাই করা বা উৎকৃষ্ট অংশ: আস-সিহাহ ও খলীল। কেউ এর রং আর বয়সের বর্ণনা দেন: মুকাতিল। সা'দী শুধু এর স্বাদের কথা বলেন। এ লেখা সবগুলোকে যেমন পাওয়া গেছে তেমন রাখছে, কোনোটিকে একমাত্র অর্থ হিসেবে বেছে নিচ্ছে না।"
+            "bn": "রাহীকের ব্যাখ্যাগুলো পাশাপাশি রাখলে দেখা যায়, সেগুলো কয়েকটি ভাবনাকে ঘিরে আছে, কিন্তু সব মিলে একটি হয়ে যায় না। কেউ একে বলেন জান্নাতের মদ (ইবন কাসীর ও তিনি যাঁদের নাম নিয়েছেন)। কেউ জোর দেন, এতে কিছুই মেশানো নেই (আখফাশ ও যাজ্জাজ)। কেউ বলেন, এ হলো মদের সবচেয়ে বাছাই করা বা উৎকৃষ্ট অংশ (আস-সিহাহ ও খলীল)। কেউ এর রং আর বয়সের কথা বলেন (মুকাতিল)। সা'দী বলেন শুধু এর তৃপ্তির কথা। এ লেখা সবগুলোকে যেমন পাওয়া গেছে তেমনই রাখছে, কোনোটিকে একমাত্র অর্থ বলে বেছে নিচ্ছে না।"
           }
         ]
       },
@@ -617,7 +617,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Muyassar puts the seal on the container: the drink is a pure wine whose vessel is made fast, muhkam ina'uha. Here makhtum describes something closed securely rather than something stamped. The portions of al-Qurtubi and as-Sa'di fetched for this verse stop at the word makhtum itself, and the Arabic Ibn Kathir on this verse gives no separate gloss for it, so this article reports none from them. What the next verse says of its khitam belongs to 83:26.",
-            "bn": "মুয়াসসার সীলটি রাখে পাত্রের উপর। তার ভাষায় পানীয়টি এমন খাঁটি মদ, যার পাত্র শক্ত করে আটকানো, মুহকাম ইনাউহা। এখানে মাখতূম মানে ছাপ মারা নয়, বরং নিরাপদে বন্ধ রাখা। কুরতুবী ও সা'দীর যে অংশ এ আয়াতের জন্য পড়া হয়েছে, তা মাখতূম শব্দে এসেই থেমে গেছে। আর ইবন কাসীরের আরবি তাফসীরে এ আয়াতে শব্দটির আলাদা ব্যাখ্যা নেই। তাই তাঁদের পক্ষ থেকে এখানে কিছু বলা হলো না। এর খিতাম সম্পর্কে পরের আয়াত যা বলে, সে আলোচনা ৮৩:২৬ আয়াতের।"
+            "bn": "মুয়াসসার সীলটি রাখে পাত্রের উপর। তার ভাষায় পানীয়টি এমন খাঁটি মদ, যার পাত্র শক্ত করে আটকানো, মুহকাম ইনাউহা। এখানে মাখতূম মানে ছাপ মারা নয়, বরং নিরাপদে বন্ধ রাখা। কুরতুবী ও সা'দীর যে অংশ এ আয়াতের জন্য পড়া হয়েছে, তা মাখতূম শব্দে এসেই থেমে গেছে। আর ইবন কাসীরের আরবি তাফসীরে এ আয়াতে শব্দটির আলাদা ব্যাখ্যা নেই। তাই এ লেখায় তাঁদের কোনো ব্যাখ্যা উল্লেখ করা হলো না। এর খিতাম সম্পর্কে পরের আয়াত যা বলে, সে আলোচনা ৮৩:২৬ আয়াতের।"
           }
         ]
       },
@@ -633,11 +633,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari then gives his own preference and his reason. In the speech of the Arabs, he says, khatm has no sense except stamping and finishing, as when it is said that a man sealed the Qur'an on reaching its end. He sees no sense in stamping a seal on the drink of the people of Paradise if their drink flows as water flows in rivers and is not aged in jars that are clayed over and sealed. So he takes the word towards the end, the last of the drink. Khatm in the sense of mixing, he adds, he does not know to be heard in Arab speech.",
-            "bn": "এরপর তাবারী নিজের পছন্দ ও তার কারণ জানান। তিনি বলেন, আরবদের ভাষায় খাতম শব্দের দুটি অর্থই আছে: ছাপ মারা আর শেষ করা। যেমন কেউ কুরআনের শেষ পর্যন্ত পড়লে বলা হয়, সে কুরআন খতম করেছে। জান্নাতবাসীর পানীয় যদি নদীর পানির মতো বয়ে চলে, আর মাটি লেপে সীল আঁটা কলসিতে রেখে পুরোনো করা না হয়, তবে তাতে সীলের ছাপ মারার কোনো অর্থ তিনি দেখেন না। তাই তিনি শব্দটিকে নেন শেষ অর্থে, পানীয়ের শেষাংশ। তিনি আরও বলেন, খাতম মানে মেশানো, আরবদের কথায় এমন ব্যবহার তাঁর জানা নেই।"
+            "bn": "এরপর তাবারী নিজের পছন্দ ও তার কারণ জানান। তিনি বলেন, আরবদের ভাষায় খাতম মানে কেবল দুটি: ছাপ মারা আর শেষ করা। যেমন কেউ কুরআনের শেষ পর্যন্ত পড়লে বলা হয়, সে কুরআন খতম করেছে। জান্নাতবাসীর পানীয় যদি নদীর পানির মতো বয়ে চলে, আর মাটি লেপে সীল আঁটা কলসিতে রেখে পুরোনো করা না হয়, তবে তাতে সীলের ছাপ মারার কোনো অর্থ তিনি দেখেন না। তাই তিনি শব্দটিকে নেন শেষ অর্থে, পানীয়ের শেষাংশ। তিনি আরও বলেন, আরবরা খাতম শব্দটি মেশানো অর্থে বলেছে, এমন কথা তাঁর জানা নেই।"
           },
           {
             "en": "This is a genuine disagreement, and it is kept as such here. Al-Baghawi, with Mujahid, reads a seal left whole until the righteous break it. At-Tabari reads the word towards the drink's final draught, and argues against the literal seal. Ibn Mas'ud, in at-Tabari's chain, reads mixing, which at-Tabari does not accept. The article takes no side. What the next verse adds about the khitam, and the musk the commentators bring with it, is left for 83:26.",
-            "bn": "এটি সত্যিকারের মতভেদ, আর এখানে তা মতভেদ হিসেবেই রাখা হলো। বাগাভী, মুজাহিদের সঙ্গে মিলে, পড়েন এমন সীল যা নেককাররা ভাঙা পর্যন্ত অটুট থাকে। তাবারী শব্দটিকে নেন পানীয়ের শেষ চুমুকের দিকে, আর আক্ষরিক সীলের বিপক্ষে যুক্তি দেন। তাবারীর সূত্রে ইবন মাসঊদ (রাঃ) পড়েন মিশ্রণ, যা তাবারী গ্রহণ করেননি। এ লেখা কোনো পক্ষ নিচ্ছে না। খিতাম নিয়ে পরের আয়াত যা যোগ করে, আর তাফসীরকারেরা তার সঙ্গে যে মিশকের কথা আনেন, তা ৮৩:২৬ আয়াতের জন্য রাখা থাকল।"
+            "bn": "মতভেদটা সত্যিকারের, আর এখানে তা মতভেদ হিসেবেই রাখা হলো। বাগাভীর পাঠে, মুজাহিদের ব্যাখ্যাসহ, এটি এমন সীল, যা নেককাররা না ভাঙা পর্যন্ত অটুট থাকে। তাবারী শব্দটিকে নেন পানীয়ের শেষ চুমুকের দিকে, আর আক্ষরিক সীলের বিপক্ষে যুক্তি দেন। তাবারীর বর্ণিত সনদে ইবন মাসঊদ (রাঃ)-এর পাঠ হলো মিশ্রণ, কিন্তু তাবারী তা মানেননি। এ লেখা কোনো পক্ষ নিচ্ছে না। খিতাম নিয়ে পরের আয়াত যা যোগ করে, আর তাফসীরকারেরা তার সঙ্গে যে মিশকের কথা আনেন, তা ৮৩:২৬ আয়াতের জন্য রাখা থাকল।"
           }
         ]
       },
@@ -649,11 +649,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No sound hadith is attached to this verse in the commentaries fetched for it. Ibn Kathir does cite one narration under it, from Imam Ahmad, through 'Atiyya al-'Awfi from Abu Sa'id al-Khudri (RA), and the narrator in Ahmad's chain hesitates over its source: I think he traced it back to the Prophet ﷺ. The same narration, through 'Atiyya from Abu Sa'id, is in al-Tirmidhi, and it is given below whole, in al-Tirmidhi's wording, with his own grading after it.",
-            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোতে আয়াতটির সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই। ইবন কাসীর অবশ্য এ আয়াতের নিচে একটি বর্ণনা এনেছেন, ইমাম আহমাদ থেকে, আতিয়্যা আল-আওফীর মাধ্যমে আবূ সাঈদ খুদরী (রাঃ) থেকে। আহমাদের সনদের বর্ণনাকারী এর উৎস নিয়ে দ্বিধা প্রকাশ করেছেন: আমার ধারণা, তিনি একে নবী ﷺ পর্যন্ত পৌঁছে দিয়েছেন। একই বর্ণনা আতিয়্যার মাধ্যমে আবূ সাঈদ থেকে তিরমিযীতেও আছে। নিচে তা পুরোটা দেওয়া হলো, তিরমিযীর ভাষায়, তারপর তাঁর নিজের মূল্যায়ন।"
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তাতে আয়াতটির সঙ্গে কোনো সহীহ হাদিস যুক্ত নেই। তবে ইবন কাসীর এ আয়াতের আলোচনায় একটি বর্ণনা এনেছেন। বর্ণনাটি ইমাম আহমাদের, আতিয়্যা আল-আওফীর মাধ্যমে আবূ সাঈদ খুদরী (রাঃ) থেকে। আহমাদের সনদের এক বর্ণনাকারী এর উৎস নিয়ে দ্বিধায় ছিলেন। তিনি বলেন: আমার ধারণা, তিনি একে নবী ﷺ পর্যন্ত পৌঁছে দিয়েছেন। একই বর্ণনা আতিয়্যার মাধ্যমে আবূ সাঈদ থেকে তিরমিযীতেও আছে। নিচে তিরমিযীর ভাষায় পুরোটা দেওয়া হলো, তারপর তাঁর নিজের মূল্যায়ন।"
           },
           {
             "en": "Al-Tirmidhi (2449) records that the Messenger of Allah ﷺ said: \"Whichever believer feeds a hungry believer, Allah feeds him from the fruits of Paradise on the Day of Resurrection. Whichever believer gives drink to a thirsty believer, Allah gives him to drink from the 'sealed nectar' on the Day of Resurrection. Whichever believer clothes a naked believer, Allah clothes him from the green garments of Paradise.\" The phrase rendered sealed nectar is, in the Arabic, al-rahiq al-makhtum, the two words of this verse.",
-            "bn": "তিরমিযী (২৪৪৯) বর্ণনা করেছেন, রাসূলুল্লাহ ﷺ বলেছেন: \"যে মুমিন কোনো ক্ষুধার্ত মুমিনকে খাওয়ায়, কিয়ামতের দিন আল্লাহ তাকে জান্নাতের ফল খাওয়াবেন। যে মুমিন কোনো তৃষ্ণার্ত মুমিনকে পান করায়, কিয়ামতের দিন আল্লাহ তাকে সীল-আঁটা রাহীক পান করাবেন। আর যে মুমিন কোনো বস্ত্রহীন মুমিনকে কাপড় পরায়, আল্লাহ তাকে জান্নাতের সবুজ পোশাক পরাবেন।\" আরবিতে এখানে যে শব্দবন্ধ আছে তা আর-রাহীকুল মাখতূম, এ আয়াতেরই দুটি শব্দ।"
+            "bn": "তিরমিযী (২৪৪৯) বর্ণনা করেছেন, রাসূলুল্লাহ ﷺ বলেছেন: \"যে মুমিন কোনো ক্ষুধার্ত মুমিনকে খাওয়ায়, কিয়ামতের দিন আল্লাহ তাকে জান্নাতের ফল খাওয়াবেন। যে মুমিন কোনো তৃষ্ণার্ত মুমিনকে পান করায়, কিয়ামতের দিন আল্লাহ তাকে সীল-আঁটা রাহীক পান করাবেন। আর যে মুমিন কোনো বস্ত্রহীন মুমিনকে কাপড় পরায়, আল্লাহ তাকে জান্নাতের সবুজ পোশাক পরাবেন।\" এখানে আরবি শব্দবন্ধটি হলো আর-রাহীকুল মাখতূম, ঠিক এ আয়াতের দুটি শব্দ।"
           },
           {
             "en": "Al-Tirmidhi's grading must be reported as he gave it. He calls the hadith gharib, and he adds that it has also been narrated from 'Atiyya from Abu Sa'id as mawquf, stopping at Abu Sa'id rather than reaching the Prophet ﷺ, and that this is more correct in his view and more likely. So the collector himself prefers the version that is Abu Sa'id's own saying. The article reports the narration for that reason and builds nothing on it as a word of the Prophet ﷺ.",
@@ -664,7 +664,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Silences Around the Drink",
-          "bn": "পানীয় নিয়ে যা অনুক্ত"
+          "bn": "পানীয় নিয়ে যা বলা হয়নি"
         },
         "p": [
           {
@@ -673,7 +673,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The passage also runs on past this verse, and its later details are not taken up here. 83:26, the verse that follows, has its own words about the drink and its own call. What is mixed into the drink, and the spring it comes from, are the subject of 83:27 and 83:28. Al-Muyassar's single summary of 83:23 to 83:28 shows how closely these verses belong together, but each of them has its own words to weigh, and this article keeps to the four in front of it.",
-            "bn": "অংশটি এ আয়াতের পরেও এগিয়ে চলে, তবে পরের বিবরণগুলো এখানে ধরা হলো না। পরের আয়াত ৮৩:২৬, পানীয় নিয়ে তার নিজের কথা আছে, নিজের আহ্বানও আছে। পানীয়ে কী মেশানো হবে, আর তা কোন ঝরনা থেকে আসে, সে বিষয় ৮৩:২৭ ও ৮৩:২৮ আয়াতের। মুয়াসসার ৮৩:২৩ থেকে ৮৩:২৮ পর্যন্ত এক টানা সারসংক্ষেপ দিয়েছে। তাতে বোঝা যায় আয়াতগুলো কতটা ঘনিষ্ঠভাবে জড়ানো। তবু প্রতিটি আয়াতের নিজের শব্দ আছে, যা আলাদা করে ভাবার মতো। এ লেখা তাই সামনের চারটি শব্দেই থাকছে।"
+            "bn": "অংশটি এ আয়াতের পরেও এগিয়ে চলে, তবে পরের বিবরণগুলো এখানে ধরা হলো না। পরের আয়াত ৮৩:২৬-এ পানীয় নিয়ে নিজস্ব কথা আছে, নিজস্ব আহ্বানও আছে। পানীয়ে কী মেশানো হবে, আর তা কোন ঝরনা থেকে আসে, সে বিষয় ৮৩:২৭ ও ৮৩:২৮ আয়াতের। মুয়াসসার ৮৩:২৩ থেকে ৮৩:২৮ পর্যন্ত এক টানা সারসংক্ষেপ দিয়েছে। তাতে বোঝা যায় আয়াতগুলো কতটা ঘনিষ্ঠভাবে জড়ানো। তবু প্রতিটি আয়াতের নিজের শব্দ আছে, যা আলাদা করে ভাবার মতো। এ লেখা তাই সামনের চারটি শব্দেই থাকছে।"
           }
         ]
       },
@@ -685,11 +685,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse can be read slowly, word by word, as the commentators read it. Yusqawna: the righteous do not fetch their drink; it is brought to them. Rahiq: whichever gloss is followed, the commentators fetched here describe it by purity, by choiceness, by pleasure. Makhtum: on al-Baghawi's reading, it waits sealed until the righteous open it, untouched by any other hand. The reflection drawn here is the reader's own, not a claim of the commentators: what is waiting is being kept for someone.",
-            "bn": "আয়াতটি ধীরে ধীরে, শব্দ ধরে ধরে পড়া যায়, যেভাবে তাফসীরকারেরা পড়েছেন। ইউসকাওনা: নেককারদের নিজে গিয়ে পানীয় আনতে হবে না, তাদের কাছে এনে দেওয়া হবে। রাহীক: যে ব্যাখ্যাই মানা হোক, এখানে পড়া তাফসীরকারেরা একে বর্ণনা করেছেন খাঁটিত্ব, উৎকর্ষ আর তৃপ্তি দিয়ে। মাখতূম: বাগাভীর পাঠে এটি সীল-আঁটা অবস্থায় অপেক্ষা করে, যতক্ষণ না নেককাররা খোলে, আর অন্য কোনো হাত তা ছোঁয় না। এখান থেকে যে ভাবনা আসে তা পাঠকের নিজের, তাফসীরকারদের দাবি নয়: যা অপেক্ষা করছে, তা কারও জন্য তুলে রাখা।"
+            "bn": "আয়াতটি ধীরে ধীরে, শব্দ ধরে ধরে পড়া যায়, যেভাবে তাফসীরকারেরা পড়েছেন। ইউসকাওনা: নেককারদের নিজে গিয়ে পানীয় আনতে হবে না, তাদের কাছে এনে দেওয়া হবে। রাহীক: যে ব্যাখ্যাই ধরা হোক, এখানে যাঁদের তাফসীর পড়া হয়েছে, তাঁরা একে চিনিয়েছেন খাঁটিত্ব, বাছাই করা মান আর তৃপ্তি দিয়ে। মাখতূম: বাগাভীর পাঠে নেককাররা নিজেরা না খোলা পর্যন্ত এটি সীল-আঁটা অবস্থায় অপেক্ষা করে, অন্য কোনো হাত তা ছোঁয় না। এখান থেকে যে ভাবনা আসে তা পাঠকের নিজের, তাফসীরকারদের দাবি নয়: যা অপেক্ষা করছে, তা কারও জন্য তুলে রাখা।"
           },
           {
             "en": "The same surah warned at 83:14 that what people earned had covered their hearts like rust. Read beside that warning, this verse describes a drink with nothing mixed into it, given to those whose record the surah has just placed high. The surah does not make that comparison itself; the reader may. The practical question is simple. A gift kept sealed is kept for the people it was meant for. The verse that follows, 83:26, turns from describing the drink to asking who will strive for it.",
-            "bn": "এই সূরাই ৮৩:১৪ আয়াতে সতর্ক করেছে, মানুষের অর্জিত কাজ মরিচার মতো তাদের অন্তর ঢেকে ফেলেছে। সেই সতর্কবাণীর পাশে রেখে পড়লে এ আয়াত এমন পানীয়ের কথা বলে, যাতে কিছুই মেশানো নেই। তা দেওয়া হবে তাদের, যাদের আমলনামা সূরাটি একটু আগেই উঁচু জায়গায় রেখেছে। এ তুলনা সূরা নিজে করেনি, পাঠক করতে পারেন। আমলের প্রশ্নটা সোজা। সীল-আঁটা উপহার তোলা থাকে তাদেরই জন্য, যাদের জন্য তা রাখা হয়েছে। পরের আয়াত ৮৩:২৬ পানীয়ের বর্ণনা থেকে সরে গিয়ে জিজ্ঞেস করে, এর জন্য কারা চেষ্টা করবে।"
+            "bn": "এই সূরাই ৮৩:১৪ আয়াতে সতর্ক করেছে, মানুষ যা কামাই করেছে, তা মরিচার মতো তাদের অন্তর ঢেকে ফেলেছে। সেই সতর্কবাণীর পাশে রেখে পড়লে এ আয়াত এমন পানীয়ের কথা বলে, যাতে কিছুই মেশানো নেই। তা দেওয়া হবে তাদের, যাদের আমলনামা সূরাটি একটু আগেই উঁচু জায়গায় রেখেছে। এ তুলনা সূরা নিজে করেনি, পাঠক করতে পারেন। আমলের প্রশ্নটা সোজা। সীল-আঁটা উপহার তোলা থাকে তাদেরই জন্য, যাদের জন্য তা রাখা হয়েছে। পরের আয়াত ৮৩:২৬ পানীয়ের বর্ণনা থেকে সরে গিয়ে জিজ্ঞেস করে, এর জন্য কারা চেষ্টা করবে।"
           }
         ]
       }
@@ -765,14 +765,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second account is from Ka'b. Al-Qurtubi has it from Ibn al-Mubarak, from Muhammad ibn Bashshar, from Qatada: it was mentioned to us that Ka'b used to say, between Paradise and the Fire there are openings, kuwa; when a believer wants to look at an enemy he had in the world, he looks out through one of them. The report cites 37:55, then he looked and saw him in the midst of the Blaze, and adds that he saw the people's skulls boiling. Al-Baghawi gives Ka'b's words without a chain: when they look from Paradise at their enemies being punished, they laugh.",
-            "bn": "দ্বিতীয় বর্ণনাটি কা'বের। কুরতুবী তা আনেন ইবনুল মুবারক থেকে, তিনি মুহাম্মাদ ইবন বাশশার থেকে, তিনি কাতাদা থেকে: আমাদের জানানো হয়েছে, কা'ব বলতেন, জান্নাত আর জাহান্নামের মাঝখানে কিছু জানালা আছে। দুনিয়ায় কোনো মু’মিনের যে শত্রু ছিল, তাকে দেখতে চাইলে সে ওই জানালার কোনো একটি দিয়ে উঁকি দেয়। বর্ণনাটি ৩৭:৫৫ আয়াত উদ্ধৃত করে: অতঃপর সে উঁকি দিয়ে তাকে জাহান্নামের মাঝখানে দেখল। সঙ্গে আছে, সে দেখল লোকগুলোর মাথার খুলি টগবগ করে ফুটছে। বাগাভী কা'বের কথাটি আনেন সনদ ছাড়া: জান্নাত থেকে তারা যখন শাস্তিরত শত্রুদের দিকে উঁকি দেয়, তখন হাসে।"
+            "bn": "দ্বিতীয় বর্ণনাটি কা'বের। কুরতুবী তা আনেন ইবনুল মুবারক থেকে, তিনি মুহাম্মাদ ইবন বাশশার থেকে, তিনি কাতাদা থেকে: আমাদের জানানো হয়েছে, কা'ব বলতেন, জান্নাত আর জাহান্নামের মাঝখানে কিছু জানালা আছে। দুনিয়ায় কোনো মু’মিনের যে শত্রু ছিল, তাকে দেখতে চাইলে সে ওই জানালার কোনো একটি দিয়ে উঁকি দেয়। বর্ণনাটি ৩৭:৫৫ আয়াত উদ্ধৃত করে: অতঃপর সে উঁকি দিয়ে তাকে জাহান্নামের মাঝখানে দেখল। সঙ্গে আছে, সে দেখল লোকগুলোর মাথার খুলি টগবগ করে ফুটছে। বাগাভী কা'বের কথাটি আনেন সনদ ছাড়া: জান্নাত থেকে তারা যখন শত্রুদের শাস্তি পেতে দেখে, তখন হাসে।"
           }
         ]
       },
       {
         "h": {
           "en": "Weighing the Reports Honestly",
-          "bn": "বর্ণনাগুলোর ওজন"
+          "bn": "বর্ণনাগুলোর ন্যায্য ওজন"
         },
         "p": [
           {
@@ -781,7 +781,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No fetched commentary on this verse attaches a hadith of the Prophet ﷺ to it, and none gives an occasion of revelation for it. Whatever is reported about the mockery described in 83:29 belongs to the commentary on that verse, not to the texts read for this verse, so none of it is brought in here. The verse does not need more support than it has. Its own six words, read with the passage before it and glossed by the commentators above, carry the meaning without a story attached to them.",
-            "bn": "এ আয়াতের যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি, আর কোনোটিই এর নাযিলের কোনো প্রেক্ষাপট বলেনি। ৮৩:২৯ আয়াতে বর্ণিত বিদ্রুপ নিয়ে যা কিছু বর্ণিত আছে, তা ওই আয়াতের তাফসীরের বিষয়। এ আয়াতের জন্য পড়া লেখাগুলোতে তা নেই, তাই এখানে তার কিছুই আনা হলো না। আয়াতটির বাড়তি কোনো ভরসার দরকারও নেই। আগের আয়াতগুলোর সঙ্গে মিলিয়ে পড়লে আর মুফাসসিরদের উপরের ব্যাখ্যায় দেখলে এর নিজের ছয়টি শব্দই অর্থটা বহন করে, কোনো কাহিনি জুড়ে দেওয়া ছাড়াই।"
+            "bn": "এ আয়াতের যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয়নি, নাজিলের কোনো প্রেক্ষাপটও বলেনি। ৮৩:২৯ আয়াতে যে বিদ্রুপের কথা আছে, সে বিষয়ে যা কিছু বর্ণিত, তা ওই আয়াতের তাফসীরের আলোচনা। এ আয়াতের জন্য পড়া লেখাগুলোতে তা নেই, তাই এখানে তার কিছুই আনা হলো না। আয়াতটির বাড়তি কোনো সমর্থনের দরকারও নেই। আগের আয়াতগুলোর সঙ্গে মিলিয়ে পড়লে, আর উপরে মুফাসসিরদের ব্যাখ্যা সামনে রাখলে, এর নিজের ছয়টি শব্দই পুরো অর্থটা বহন করে। কোনো কাহিনি জুড়ে দিতে হয় না।"
           }
         ]
       },
@@ -797,7 +797,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The wording of 23:110 meets this surah directly: the same verb of laughing, with the same min before the people laughed at. And 23:111 has its own al-yawm: inni jazaytuhumu al-yawma bima sabaru, I have rewarded them today for their patience. Ibn Kathir also reads 83:33 as a rebuke before the reversal: the criminals were not sent as guardians over the believers' deeds and words, nor made responsible for them, so why make them the focus of their attention? The shipped article on 23:111 follows this thread from the other surah; here it is enough that the commentators hear the two passages together.",
-            "bn": "২৩:১১০ আয়াতের শব্দ এ সূরার সঙ্গে সরাসরি মিলে যায়। হাসির ক্রিয়াটি একই, আর যাকে নিয়ে হাসা হচ্ছে তার আগে একই 'মিন'। ২৩:১১১ আয়াতেও আছে নিজস্ব 'আল-ইয়াওম': আজ আমি তাদের ধৈর্যের প্রতিদান দিয়েছি। ইবন কাসীর ৮৩:৩৩ আয়াতকেও পড়েন এই উল্টে যাওয়ার আগের তিরস্কার হিসেবে। অপরাধীদের মু’মিনদের কাজকর্ম আর কথাবার্তার পাহারাদার করে পাঠানো হয়নি, তাদের দায়িত্বও দেওয়া হয়নি। তাহলে মু’মিনদের নিয়ে তাদের এত মাথাব্যথা কেন? ২৩:১১১ আয়াতের প্রকাশিত প্রবন্ধটি অন্য সূরার দিক থেকে এই সুতো ধরে এগোয়। এখানে এটুকু বলাই যথেষ্ট যে মুফাসসিরগণ দুটি অংশকে একসঙ্গে শোনেন।"
+            "bn": "২৩:১১০ আয়াতের শব্দ এ সূরার সঙ্গে সরাসরি মিলে যায়। হাসির ক্রিয়াটি একই, আর যাকে নিয়ে হাসা হচ্ছে তার আগে একই 'মিন'। ২৩:১১১ আয়াতেও আছে নিজস্ব 'আল-ইয়াওম': আজ আমি তাদের ধৈর্যের প্রতিদান দিয়েছি। ইবন কাসীর ৮৩:৩৩ আয়াতকেও পড়েন এই উল্টে যাওয়ার আগের তিরস্কার হিসেবে। অপরাধীদের মু’মিনদের কাজকর্ম আর কথাবার্তার পাহারাদার করে পাঠানো হয়নি, তাদের দায়িত্বও দেওয়া হয়নি। তাহলে মু’মিনদের নিয়ে তাদের এত মাথাব্যথা কেন? এ অ্যাপে ২৩:১১১ আয়াত নিয়ে যে প্রবন্ধ আছে, সেটি অন্য সূরার দিক থেকে এই সুতো ধরে এগোয়। এখানে এটুকু বলাই যথেষ্ট যে মুফাসসিরগণ দুটি অংশকে একসঙ্গে মিলিয়ে পড়েন।"
           }
         ]
       },
@@ -813,7 +813,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The surrounding verses point the same way. In 83:29 to 83:32 the laughing, the winking and the verdict that others are astray belong to the side the surah condemns, and 83:33 answers that they were never sent as guardians over the believers. A reader who used this verse to sneer at others in this life would be taking up that very posture. In the Abu Salih report too, the mocking is ascribed to Allah, and the believers' laughter happens inside the scene of the Fire, not in the streets of the world.",
-            "bn": "আশপাশের আয়াতগুলোও একই দিকে ইশারা করে। ৮৩:২৯ থেকে ৮৩:৩২ আয়াতে হাসাহাসি, চোখ টেপা, আর অন্যদের পথভ্রষ্ট বলে রায় দেওয়া সবই সেই পক্ষের কাজ, যাদের সূরাটি নিন্দা করছে। আর ৮৩:৩৩ জবাব দেয়, তাদের তো মু’মিনদের পাহারাদার করে পাঠানো হয়নি। কোনো পাঠক যদি এ আয়াতকে দুনিয়ায় অন্যদের তাচ্ছিল্য করার কাজে লাগায়, তবে সে ঠিক ওই ভঙ্গিটাই গ্রহণ করল। আবূ সালিহের বর্ণনাতেও উপহাসের কাজটি আল্লাহর। মু’মিনদের হাসি ঘটে জাহান্নামের দৃশ্যের ভেতরে, দুনিয়ার পথেঘাটে নয়।"
+            "bn": "আশপাশের আয়াতগুলোও একই দিকে ইশারা করে। ৮৩:২৯ থেকে ৮৩:৩২ আয়াতে হাসাহাসি, চোখ টেপা, আর অন্যদের পথভ্রষ্ট বলে রায় দেওয়া সবই সেই পক্ষের কাজ, যাদের সূরাটি নিন্দা করছে। আর ৮৩:৩৩ জবাব দেয়, তাদের তো মু’মিনদের পাহারাদার করে পাঠানো হয়নি। কোনো পাঠক যদি এ আয়াতকে দুনিয়ায় অন্যদের তাচ্ছিল্য করার কাজে লাগায়, তবে সে ঠিক ওই আচরণটাই নিজের করে নিল। আবূ সালিহের বর্ণনাতেও উপহাসের কাজটি আল্লাহর। মু’মিনদের হাসি ঘটে জাহান্নামের দৃশ্যের ভেতরে, দুনিয়ার পথেঘাটে নয়।"
           }
         ]
       },
@@ -825,7 +825,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an, commenting on the whole passage, reads it as comfort for the one on the receiving end. There is much solace in this verse for the righteous believers, it says: never bother about their laughter and mockery. It closes with an Urdu couplet, rendered: so long as we fear people's laughter, the people will go on laughing at us. The comfort is addressed to the person being laughed at, not to anyone hoping to laugh back. Fear of ridicule is the thing it asks the believer to put down.",
-            "bn": "মাআরিফুল কুরআন পুরো অংশটির আলোচনায় একে পড়ে বিদ্রুপের শিকার মানুষের জন্য সান্ত্বনা হিসেবে। সেখানে বলা হয়েছে, নেককার মু’মিনদের জন্য এ আয়াতে অনেক সান্ত্বনা আছে: তাদের হাসি আর ঠাট্টা নিয়ে কখনো মাথা ঘামাবেন না। শেষে আছে উর্দু একটি শের, যার অর্থ: মানুষের হাসিকে যতদিন আমরা ভয় পাব, মানুষ ততদিন আমাদের নিয়ে হাসতেই থাকবে। সান্ত্বনাটা তাই সেই মানুষের জন্য, যাকে নিয়ে হাসা হচ্ছে। পাল্টা হাসার সুযোগ খোঁজা কারও জন্য নয়। ঠাট্টার ভয়টাই মু’মিনকে নামিয়ে রাখতে বলা হচ্ছে।"
+            "bn": "মাআরিফুল কুরআন পুরো অংশটির আলোচনায় একে পড়ে বিদ্রুপের শিকার মানুষের জন্য সান্ত্বনা হিসেবে। সেখানে বলা হয়েছে, নেককার মু’মিনদের জন্য এ আয়াতে অনেক সান্ত্বনা আছে: তাদের হাসি আর ঠাট্টা নিয়ে কখনো মাথা ঘামাবেন না। শেষে আছে উর্দু একটি শের, যার অর্থ: মানুষের হাসিকে যতদিন আমরা ভয় পাব, মানুষ ততদিন আমাদের নিয়ে হাসতেই থাকবে। সান্ত্বনাটা তাই সেই মানুষের জন্য, যাকে নিয়ে হাসা হচ্ছে। পাল্টা হাসার সুযোগ যে খোঁজে, তার জন্য নয়। মু’মিনের কাছে চাওয়া একটাই: ঠাট্টার ভয়টা ঝেড়ে ফেলা।"
           },
           {
             "en": "The verses that follow complete the scene, and each has its own work: 83:35, on the couches, looking, and 83:36, have the disbelievers been repaid for what they used to do? For the reader, this verse asks something plain. Whoever is laughed at for faith, for a prayer kept or a line not crossed, may carry it with patience, since 23:111 names patience as what was rewarded. And whoever feels the pull to mock may remember which side of 83:29 that pull belongs to, and keep both tongue and glance from it.",
