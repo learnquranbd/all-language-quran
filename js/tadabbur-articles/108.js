@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi also records a second way of reading the verb. The general reading is a'taynaka, with the letter 'ayn. Al-Hasan and Talha ibn Musarrif read antaynaka, with a nun, and al-Qurtubi says Umm Salama narrated that reading from the Prophet ﷺ. It is, he explains, a dialect form of the same word for giving: antaytuhu means a'taytuhu. None of the commentaries read here comments on the verb's tense, so this article builds nothing on it.",
-            "bn": "ক্রিয়াটির আরেকটি পাঠও কুরতুবী লিপিবদ্ধ করেছেন। সাধারণ পাঠ আ'তাইনাকা, আইন অক্ষর দিয়ে। হাসান আর তালহা ইবন মুসাররিফ পড়েছেন আনতাইনাকা, নূন দিয়ে। কুরতুবী বলেন, এ পাঠ উম্মে সালামা (রাঃ) নবী ﷺ থেকে বর্ণনা করেছেন। তাঁর ব্যাখ্যায় এটা দান করা অর্থের একই শব্দের আঞ্চলিক রূপ: আনতাইতুহু মানে আ'তাইতুহু। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর ক্রিয়াটির কাল নিয়ে আলাদা করে কিছু বলেনি। তাই এই লেখাও তার উপর কোনো সিদ্ধান্ত দাঁড় করায় না।"
+            "bn": "ক্রিয়াটির আরেকটি পাঠও কুরতুবী লিখে রেখেছেন। সাধারণ পাঠ আ'তাইনাকা, আইন অক্ষর দিয়ে। হাসান আর তালহা ইবন মুসাররিফ পড়েছেন আনতাইনাকা, নূন দিয়ে। কুরতুবী বলেন, এ পাঠ উম্মে সালামা (রাঃ) নবী ﷺ থেকে বর্ণনা করেছেন। তিনি বুঝিয়ে দেন, এটি 'দেওয়া' অর্থের সেই একই শব্দের আঞ্চলিক রূপ: আনতাইতুহু মানে আ'তাইতুহু। এখানে যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই ক্রিয়াটির কাল নিয়ে কিছু বলেনি। তাই এই লেখাও এর উপর কোনো কথা দাঁড় করায় না।"
           }
         ]
       },
@@ -69,15 +69,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Others, at-Tabari continues, said al-Kawthar means abundant good. Here he names Ibn 'Abbas, by way of Sa'id ibn Jubayr; Sa'id himself; 'Ikrima; Mujahid; and Qatada. Their wordings vary. 'Ikrima is reported once as saying prophethood and the good Allah gave him, once as abundant good, the Qur'an and wisdom, and once as the good of prophethood and Islam. Mujahid is reported as saying all good, and also as saying the good of this world and the next.",
-            "bn": "তাবারী আরও বলেন, অন্যরা বলেছেন কাওসার মানে অফুরন্ত কল্যাণ। এখানে তিনি নাম নেন সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ)-এর, সাঈদের নিজের, ইকরিমার, মুজাহিদের আর কাতাদার। তাঁদের ভাষা এক নয়। ইকরিমা থেকে একবার বর্ণিত: নবুওয়াত আর আল্লাহ তাঁকে যে কল্যাণ দিয়েছেন। আরেকবার: অফুরন্ত কল্যাণ, কুরআন ও হিকমত। আরেকবার: নবুওয়াত ও ইসলামের কল্যাণ। মুজাহিদ থেকে বর্ণিত: সব কল্যাণ। আবার তাঁর কথায়: দুনিয়া ও আখিরাতের কল্যাণ।"
+            "bn": "তাবারী আরও বলেন, অন্যরা বলেছেন কাওসার মানে অফুরন্ত কল্যাণ। এ মতে তিনি যাঁদের নাম আনেন: সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ), সাঈদ নিজে, ইকরিমা, মুজাহিদ আর কাতাদা। তাঁদের ভাষা এক নয়। ইকরিমা থেকে একবার বর্ণিত: নবুওয়াত আর আল্লাহ তাঁকে যে কল্যাণ দিয়েছেন। আরেকবার: অফুরন্ত কল্যাণ, কুরআন ও হিকমত। আরেকবার: নবুওয়াত ও ইসলামের কল্যাণ। মুজাহিদ থেকে বর্ণিত: সব কল্যাণ। আবার তাঁর কথায়: দুনিয়া ও আখিরাতের কল্যাণ।"
           },
           {
             "en": "The two shortest commentaries here take this second line and fold the river into it. The Muyassar reads: We have given you, O Prophet, abundant good in this world and the next, and among it the river of al-Kawthar in Paradise, whose banks are tents of hollow pearl and whose clay is musk. As-Sa'di reads abundant good and plentiful favour, and counts within it the river called al-Kawthar that Allah gives His Prophet ﷺ on the Day of Resurrection, together with the pool.",
-            "bn": "এখানকার সবচেয়ে সংক্ষিপ্ত দুটি তাফসীর এই দ্বিতীয় মতটিই নেয়, আর নহরকে তার ভেতরে রাখে। মুয়াসসারের ভাষ্য: হে নবী, আমি তোমাকে দুনিয়া ও আখিরাতের অফুরন্ত কল্যাণ দিয়েছি। তার মধ্যে আছে জান্নাতের কাওসার নহর, যার দুই তীরে ফাঁপা মুক্তার তাঁবু, আর যার কাদা মিশকের। সা'দী বলেন অফুরন্ত কল্যাণ আর প্রচুর অনুগ্রহের কথা। তার মধ্যেই তিনি গণনা করেন কাওসার নামের নহর, যা কিয়ামতের দিন আল্লাহ তাঁর নবী ﷺ-কে দেবেন, আর সেই সঙ্গে হাওয।"
+            "bn": "এখানকার সবচেয়ে ছোট দুটি তাফসীর এই দ্বিতীয় মতটিই নেয়, আর নহরকে এর ভেতরেই ধরে। মুয়াসসারের ভাষ্য: হে নবী, আমি তোমাকে দুনিয়া ও আখিরাতের অফুরন্ত কল্যাণ দিয়েছি। তার মধ্যে আছে জান্নাতের কাওসার নহর, যার দুই তীরে ফাঁপা মুক্তার তাঁবু, আর যার মাটি মিশকের। সা'দীর ব্যাখ্যা: অফুরন্ত কল্যাণ আর প্রচুর অনুগ্রহ। এর মধ্যেই তিনি ধরেন কাওসার নামের নহরটি, যা কিয়ামতের দিন আল্লাহ তাঁর নবী ﷺ-কে দেবেন, আর সেই সঙ্গে হাওয।"
           },
           {
             "en": "Al-Qurtubi widens the list to sixteen sayings. Beside the river and the pool, he records prophethood and the Book, from 'Ikrima; the Qur'an, from al-Hasan; Islam; the easing of the Qur'an and the lightening of the laws; the great number of companions and followers, from Abu Bakr ibn 'Ayyash and Yaman ibn Ri'ab; preferring others over oneself; the raising of his mention, which he relays from al-Mawardi; intercession; the testimony of faith; understanding of the religion; and the five prayers.",
-            "bn": "কুরতুবী তালিকাটা বাড়িয়ে ষোলোটি মতে নিয়ে যান। নহর আর হাওযের পাশাপাশি তিনি লিপিবদ্ধ করেন: ইকরিমা থেকে নবুওয়াত ও কিতাব, হাসান থেকে কুরআন, ইসলাম, কুরআনকে সহজ করা ও শরীয়তের বিধান হালকা করা, আবু বাকর ইবন আইয়াশ ও ইয়ামান ইবন রিআব থেকে সাহাবি, উম্মত ও অনুসারীর আধিক্য। আরও আছে নিজের উপর অন্যকে প্রাধান্য দেওয়া, মাওয়ার্দীর সূত্রে তাঁর আলোচনাকে উঁচু করা, শাফাআত, কালিমায়ে তাওহীদ, দ্বীনের গভীর বোঝাপড়া আর পাঁচ ওয়াক্ত নামায।"
+            "bn": "কুরতুবী তালিকাটা বাড়িয়ে ষোলোটি মতে নিয়ে যান। নহর আর হাওযের পাশাপাশি তিনি লিখেছেন: ইকরিমা থেকে নবুওয়াত ও কিতাব, হাসান থেকে কুরআন, ইসলাম, কুরআনকে সহজ করা ও শরীয়তের বিধান হালকা করা, আবু বাকর ইবন আইয়াশ ও ইয়ামান ইবন রিআব থেকে সাহাবি ও অনুসারীর আধিক্য। আরও আছে নিজের উপর অন্যকে প্রাধান্য দেওয়া, মাওয়ার্দীর সূত্রে তাঁর আলোচনাকে সমুন্নত করা, শাফাআত, কালিমায়ে তাওহীদ, দ্বীনের গভীর বুঝ আর পাঁচ ওয়াক্ত নামাজ।"
           }
         ]
       },
@@ -117,7 +117,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi judges that the soundest of his sixteen sayings are the first two, the river and the pool, because each is established from the Prophet ﷺ as a text on al-Kawthar. Everything else said about it, he adds, was given to the Prophet ﷺ in addition to his pool. Ma'arif al-Qur'an reads the river and the abundant good together, and places the river itself in Paradise and the fountain on the Plain of Gathering. This article sets the readings side by side and chooses none.",
-            "bn": "কুরতুবীর রায়: তাঁর ষোলোটি মতের মধ্যে সবচেয়ে বিশুদ্ধ প্রথম দুটি, নহর আর হাওয। কারণ দুটিই কাওসার সম্পর্কে নবী ﷺ থেকে স্পষ্ট বক্তব্য হিসেবে প্রমাণিত। তিনি যোগ করেন, এর বাইরে কাওসারের ব্যাখ্যায় যা কিছু বলা হয়েছে, সবই নবী ﷺ-কে তাঁর হাওযের অতিরিক্ত হিসেবে দেওয়া হয়েছে। মাআরিফুল কুরআন নহর আর অফুরন্ত কল্যাণকে একসঙ্গে পড়ে। তার বর্ণনায় আসল নহরটি জান্নাতে, আর হাওযটি হাশরের ময়দানে। এই লেখা মতগুলো পাশাপাশি রাখে, কোনোটিকে বেছে নেয় না।"
+            "bn": "কুরতুবীর রায়: তাঁর ষোলোটি মতের মধ্যে সবচেয়ে সঠিক প্রথম দুটি, নহর আর হাওয। কারণ দুটিই কাওসার সম্পর্কে নবী ﷺ থেকে স্পষ্ট বক্তব্য হিসেবে প্রমাণিত। তিনি যোগ করেন, এর বাইরে কাওসারের ব্যাখ্যায় যা কিছু বলা হয়েছে, সবই নবী ﷺ-কে তাঁর হাওযের অতিরিক্ত হিসেবে দেওয়া হয়েছে। মাআরিফুল কুরআন নহর আর অফুরন্ত কল্যাণকে একসঙ্গে পড়ে। তার বর্ণনায় আসল নহরটি জান্নাতে, আর হাওযটি হাশরের ময়দানে। এই লেখা মতগুলো পাশাপাশি রাখে, কোনোটিকে বেছে নেয় না।"
           }
         ]
       },
@@ -141,27 +141,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "One report is left unquoted here. Ibn Kathir, al-Qurtubi, al-Baghawi and Ma'arif al-Qur'an all cite a narration in Sahih Muslim from Anas, in which the Prophet ﷺ dozed briefly among his companions, raised his head smiling, and told them a surah had just been revealed to him. Its English on the quranx page is too long to quote whole here, and it is not quoted in part. Ibn Kathir notes that many reciters took it as evidence that the surah is Madinan, and many jurists that the basmala belongs to the surah.",
-            "bn": "একটি বর্ণনা এখানে উদ্ধৃত হয়নি। ইবন কাসীর, কুরতুবী, বাগাভী আর মাআরিফুল কুরআন সবাই সহীহ মুসলিম থেকে আনাস (রাঃ)-এর একটি বর্ণনা আনেন। তাতে নবী ﷺ সাহাবিদের মাঝে অল্প সময়ের জন্য তন্দ্রাচ্ছন্ন হন, তারপর হাসিমুখে মাথা তুলে জানান, এইমাত্র তাঁর উপর একটি সূরা নাযিল হয়েছে। কুরানএক্স পাতায় এর ইংরেজি এত দীর্ঘ যে এখানকার একটি অনুচ্ছেদে পুরোটা ধরে না, আর আংশিক উদ্ধৃতি এখানে দেওয়া হয় না। ইবন কাসীর জানান, অনেক কারী একে সূরাটি মাদানী হওয়ার দলিল হিসেবে নিয়েছেন, আর অনেক ফকীহ দলিল নিয়েছেন যে বিসমিল্লাহ সূরারই অংশ।"
+            "bn": "একটি বর্ণনা এখানে উদ্ধৃত হয়নি। ইবন কাসীর, কুরতুবী, বাগাভী আর মাআরিফুল কুরআন সবাই সহীহ মুসলিম থেকে আনাস (রাঃ)-এর একটি বর্ণনা আনেন। তাতে নবী ﷺ সাহাবিদের মাঝে অল্পক্ষণের জন্য তন্দ্রাচ্ছন্ন হন, তারপর হাসিমুখে মাথা তুলে জানান, এইমাত্র তাঁর উপর একটি সূরা নাজিল হয়েছে। কুরানএক্স পাতায় এর ইংরেজি এত দীর্ঘ যে এখানে পুরোটা উদ্ধৃত করা যায় না, আর আংশিকভাবেও তা উদ্ধৃত করা হয়নি। ইবন কাসীর জানান, অনেক কারী একে সূরাটি মাদানী হওয়ার দলিল হিসেবে নিয়েছেন, আর অনেক ফকীহ দলিল নিয়েছেন যে বিসমিল্লাহ সূরারই অংশ।"
           },
           {
             "en": "Ibn Kathir also marks what is weak. A report through Haram ibn 'Uthman, in which a woman congratulates the Prophet ﷺ on being given a river called al-Kawthar, he calls weak on account of that narrator, while adding that the root of the matter is sound, and indeed mass-transmitted according to many hadith scholars, as are the reports of the pool.",
-            "bn": "দুর্বল বর্ণনাকেও ইবন কাসীর চিহ্নিত করে দেন। হারাম ইবন উসমানের সূত্রে একটি বর্ণনায় এক নারী নবী ﷺ-কে কাওসার নামের নহর পাওয়ার জন্য অভিনন্দন জানান। ওই বর্ণনাকারীর কারণে তিনি একে দুর্বল বলেন। তবে সঙ্গে যোগ করেন, মূল বিষয়টি সহীহ, বরং অনেক হাদীস-ইমামের কাছে তা মুতাওয়াতির, হাওযের হাদীসগুলোর মতোই।"
+            "bn": "দুর্বল বর্ণনাকেও ইবন কাসীর চিহ্নিত করে দেন। হারাম ইবন উসমানের সূত্রে একটি বর্ণনায় এক নারী নবী ﷺ-কে কাওসার নামের নহর পাওয়ার জন্য অভিনন্দন জানান। ওই বর্ণনাকারীর কারণে তিনি একে দুর্বল বলেন। তবে সঙ্গে যোগ করেন, মূল বিষয়টি সহীহ, বরং অনেক মুহাদ্দিসের মতে তা মুতাওয়াতির, ঠিক হাওযের হাদিসগুলোর মতো।"
           }
         ]
       },
       {
         "h": {
           "en": "Where the Surah Stands",
-          "bn": "সূরাটি কোথায় দাঁড়িয়ে"
+          "bn": "সূরাটির প্রেক্ষাপট"
         },
         "p": [
           {
             "en": "They differ even on where the surah came down. Al-Qurtubi calls it Makkan on the word of Ibn 'Abbas, al-Kalbi and Muqatil, and al-Baghawi calls it Makkan; Ibn Kathir calls it Madinan, adding that it is also said to be Makkan. The reports on its occasion differ as well, and they concern the taunt answered in 108:3. Ibn Kathir's abridgement and Ma'arif al-Qur'an name al-'As ibn Wa'il, 'Uqba ibn Abi Mu'ayt, Ka'b ibn al-Ashraf with a group of Quraysh, and Abu Lahab. This article settles none of them.",
-            "bn": "সূরাটি কোথায় নাযিল হয়েছে, তা নিয়েও তাফসীরকারদের মতভেদ আছে। কুরতুবী ইবন আব্বাস (রাঃ), কালবী ও মুকাতিলের কথার ভিত্তিতে একে মাক্কী বলেন, বাগাভীও বলেন মাক্কী। ইবন কাসীর বলেন মাদানী, সঙ্গে যোগ করেন যে মাক্কী বলেও মত আছে। নাযিলের প্রেক্ষাপট নিয়েও বর্ণনা ভিন্ন ভিন্ন, আর সেগুলো ১০৮:৩ আয়াতে জবাব দেওয়া এক বিদ্রূপকে ঘিরে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ আর মাআরিফুল কুরআন নাম নেয় আস ইবন ওয়াইল, উকবা ইবন আবী মুআইত, কুরাইশের একদল লোকসহ কা'ব ইবন আশরাফ এবং আবু লাহাবের। এই লেখা এর কোনোটির পক্ষে রায় দেয় না।"
+            "bn": "সূরাটি কোথায় নাজিল হয়েছে, তা নিয়েও মতভেদ আছে। কুরতুবী ইবন আব্বাস (রাঃ), কালবী ও মুকাতিলের কথার ভিত্তিতে একে মক্কী বলেন, বাগাভীও বলেন মক্কী। ইবন কাসীর বলেন মাদানী, সঙ্গে যোগ করেন যে মক্কী বলেও মত আছে। নাজিলের প্রেক্ষাপট নিয়েও বর্ণনা ভিন্ন ভিন্ন। সেগুলোর বিষয় এক বিদ্রূপ, যার জবাব এসেছে ১০৮:৩ আয়াতে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ আর মাআরিফুল কুরআন নাম নেয় আস ইবন ওয়াইল, উকবা ইবন আবী মুআইত, কুরাইশের একদল লোকসহ কা'ব ইবন আশরাফ এবং আবু লাহাবের। এই লেখা এর কোনোটির পক্ষে রায় দেয় না।"
           },
           {
             "en": "Those reports concern particular men of that time, and 108:3 has its own entry. What the verses say about the Prophet's opponents describes what the text describes and licenses nothing against any living person or community. The rest of the surah is named here only as context: 108:2, so pray to your Lord and sacrifice, which the abridged Ibn Kathir reads as: just as We have given you abundant good, make your prayer and your sacrifice for your Lord alone; and 108:3, which calls the Prophet's enemy al-abtar, the cut off.",
-            "bn": "ওই বর্ণনাগুলো সে যুগের নির্দিষ্ট কিছু মানুষের কথা বলে, আর ১০৮:৩ আয়াতের আলাদা আলোচনা আছে। নবী ﷺ-এর বিরোধীদের সম্পর্কে আয়াতগুলো যা বলে, তা কেবল পাঠে যা আছে তারই বর্ণনা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে তা কোনো কিছুর অনুমতি দেয় না। সূরার বাকি অংশ এখানে শুধু প্রসঙ্গ হিসেবে উল্লেখ করা হলো। ১০৮:২: কাজেই তোমার রবের উদ্দেশ্যে নামায পড়ো আর কুরবানী করো। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ এর অর্থ করে: যেমন আমি তোমাকে অফুরন্ত কল্যাণ দিয়েছি, তেমনি তোমার নামায আর কুরবানী কেবল তোমার রবের জন্য করো। আর ১০৮:৩, যা নবী ﷺ-এর শত্রুকে বলে আল-আবতার, শিকড়কাটা।"
+            "bn": "ওই বর্ণনাগুলো সে যুগের নির্দিষ্ট কিছু মানুষের কথা বলে, আর ১০৮:৩ আয়াতের আলাদা আলোচনা আছে। নবী ﷺ-এর বিরোধীদের নিয়ে আয়াতগুলো যা বলে, তা শুধু আয়াতে যাদের কথা আছে তাদেরই বর্ণনা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি তা দেয় না। সূরার বাকি অংশের উল্লেখ এখানে শুধু প্রসঙ্গ হিসেবে। ১০৮:২: কাজেই তোমার রবের উদ্দেশ্যে নামাজ পড়ো আর কুরবানী করো। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ এর অর্থ করে: যেমন আমি তোমাকে অফুরন্ত কল্যাণ দিয়েছি, তেমনি তোমার নামাজ আর কুরবানী কেবল তোমার রবের জন্য করো। আর ১০৮:৩, যা নবী ﷺ-এর শত্রুকে বলে আল-আবতার, অর্থাৎ শিকড়কাটা।"
           }
         ]
       }
