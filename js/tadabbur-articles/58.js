@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qad sami'a Allahu qawla allati tujadiluka fi zawjiha: Allah has heard the words of the woman who argues with you about her husband. The surah does not open with a command, an oath or a call to the believers. It opens with the report that a hearing has already taken place, in the past tense, introduced by qad. At-Tabari reads the sentence as Allah addressing His Prophet ﷺ directly: Allah has heard, O Muhammad, the words of the woman who was arguing with the Messenger of Allah ﷺ about her husband.",
-            "bn": "কাদ সামি‘আল্লাহু কাওলাল্লাতী তুজাদিলুকা ফী যাওজিহা: যে নারী তার স্বামীর বিষয়ে তোমার সঙ্গে বাদানুবাদ করছে, আল্লাহ তার কথা শুনেছেন। সূরাটি কোনো আদেশ, কসম বা মুমিনদের প্রতি ডাক দিয়ে শুরু হয়নি। শুরু হয়েছে এই খবর দিয়ে যে শোনা ইতিমধ্যে হয়ে গেছে। ক্রিয়াটি অতীতকালের, আগে বসেছে কাদ। তাবারী বাক্যটিকে পড়েন নবী ﷺ-এর প্রতি আল্লাহর সরাসরি সম্বোধন হিসেবে: হে মুহাম্মাদ, যে নারী তার স্বামীর ব্যাপারে আল্লাহর রাসূল ﷺ-এর সঙ্গে তর্ক করছিল, আল্লাহ তার কথা শুনেছেন।"
+            "bn": "কাদ সামি‘আল্লাহু কাওলাল্লাতী তুজাদিলুকা ফী যাওজিহা: যে নারী তার স্বামীর বিষয়ে তোমার সঙ্গে বাদানুবাদ করছে, আল্লাহ তার কথা শুনেছেন। সূরাটি কোনো আদেশ, কসম বা মুমিনদের প্রতি ডাক দিয়ে শুরু হয়নি। শুরু হয়েছে একটি খবর দিয়ে: শোনা আগেই হয়ে গেছে। ক্রিয়াটি অতীতকালের, তার আগে বসেছে কাদ। তাবারীর মতে এখানে আল্লাহ সরাসরি তাঁর নবী ﷺ-কে বলছেন: হে মুহাম্মাদ, যে নারী তার স্বামীর ব্যাপারে আল্লাহর রাসূল ﷺ-এর সঙ্গে তর্ক করছিল, আল্লাহ তার কথা শুনেছেন।"
           },
           {
             "en": "Al-Qurtubi records that the surah is Madinan in the view of all, with two exceptions he names: a report from 'Ata' that its first ten verses are Madinan and the rest Makkan, and al-Kalbi's view that only the verse on secret conversations came down in Makkah. He also notes two recitations of the opening, with the dal of qad merged into the sin and with it pronounced clearly. The rulings that follow in 58:2 to 58:4 are another verse's ground; this article stays with the hearing.",
@@ -61,7 +61,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "'A'ishah said: \"Blessed is He Whose hearing encompasses all things. I was hearing the words of Khawlah bint Tha'labah, and some of them were hidden from me, while she complained of her husband to the Messenger of Allah ﷺ, saying: 'O Messenger of Allah, he consumed my youth and I bore him child after child, until, when I grew old and my childbearing ended, he declared zihar on me. O Allah, I complain to You.' She had not left when Jibril came down with these verses.\" The opening of 58:1 follows, to and complains to Allah.",
-            "bn": "আয়িশাহ (রাঃ) বলেন: \"বরকতময় তিনি, যাঁর শ্রবণ সবকিছুকে ঘিরে আছে। আমি খাওলাহ বিনত সা‘লাবাহর কথা শুনছিলাম, কিন্তু কিছু কথা আমার কাছে অস্পষ্ট থেকে যাচ্ছিল। তিনি আল্লাহর রাসূল ﷺ-এর কাছে স্বামীর বিরুদ্ধে অভিযোগ করছিলেন আর বলছিলেন: হে আল্লাহর রাসূল, সে আমার যৌবন খেয়ে ফেলেছে, আমি তার জন্য একের পর এক সন্তান জন্ম দিয়েছি। যখন আমার বয়স বেড়ে গেল আর সন্তান হওয়া বন্ধ হলো, তখন সে আমার সঙ্গে জিহার করল। হে আল্লাহ, আমি তোমার কাছে ফরিয়াদ করছি। তিনি সেখান থেকে সরেননি, এর মধ্যেই জিবরাঈল (আঃ) এই আয়াতগুলো নিয়ে নেমে এলেন।\" এরপর ৫৮:১ আয়াতের শুরু থেকে 'আল্লাহর কাছে ফরিয়াদ জানাচ্ছে' পর্যন্ত উদ্ধৃত হয়েছে।"
+            "bn": "আয়িশাহ (রাঃ) বলেন: \"বরকতময় তিনি, যাঁর শ্রবণ সবকিছুকে ঘিরে আছে। আমি খাওলাহ বিনত সা‘লাবাহর কথা শুনছিলাম, কিন্তু কিছু কথা আমার কাছে অস্পষ্ট থেকে যাচ্ছিল। তিনি আল্লাহর রাসূল ﷺ-এর কাছে স্বামীর বিরুদ্ধে অভিযোগ করছিলেন আর বলছিলেন: হে আল্লাহর রাসূল, সে আমার যৌবন খেয়ে ফেলেছে, আমি তার জন্য একের পর এক সন্তান জন্ম দিয়েছি। যখন আমার বয়স বেড়ে গেল আর সন্তান হওয়া বন্ধ হলো, তখন সে আমার সঙ্গে জিহার করল। হে আল্লাহ, আমি আপনার কাছে ফরিয়াদ করছি। তিনি সেখান থেকে সরেননি, এর মধ্যেই জিবরাঈল (আঃ) এই আয়াতগুলো নিয়ে নেমে এলেন।\" এরপর ৫৮:১ আয়াতের শুরু থেকে 'আল্লাহর কাছে ফরিয়াদ জানাচ্ছে' পর্যন্ত উদ্ধৃত হয়েছে।"
           },
           {
             "en": "Ibn Majah recorded it without a grading of his own, and none is added here. Ibn Kathir gives a shorter wording through Imam Ahmad that does not name her: praise be to Allah, Whose hearing takes in all voices; the woman who disputed came to the Prophet ﷺ while I was in a corner of the house, not hearing what she said. He notes that al-Bukhari cites this in the Book of Tawhid without a chain, and that an-Nasa'i and Ibn Majah record it too.",
@@ -97,15 +97,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa tashtaki ila Allah: and she complains to Allah. At-Tabari explains that the woman who argued was complaining to Allah of the grief that had come upon her from her husband's zihar, and asking Him for relief. The Muyassar says she was imploring Allah to lift her distress. Al-Qurtubi adds a note on the word itself: shaka and ishtaka carry one meaning. The verse gives her two addressees in one sentence, the Prophet ﷺ with whom she argues and Allah to whom she complains.",
-            "bn": "ওয়া তাশতাকী ইলাল্লাহ: আর সে আল্লাহর কাছে ফরিয়াদ জানাচ্ছে। তাবারী ব্যাখ্যা করেন, স্বামীর জিহারের কারণে যে দুশ্চিন্তা তাঁর উপর নেমে এসেছিল, তর্ককারিণী তা আল্লাহর কাছে জানাচ্ছিলেন, আর তাঁর কাছে মুক্তির পথ চাইছিলেন। মুয়াসসার বলে, তিনি নিজের কষ্ট দূর করার জন্য আল্লাহর কাছে কাকুতি-মিনতি করছিলেন। কুরতুবী শব্দটি নিয়েও একটি কথা বলেন: শাকা আর ইশতাকা একই অর্থের। এক বাক্যেই আয়াতটি তাঁর কথার দুজন শ্রোতার উল্লেখ করে। নবী ﷺ, যাঁর সঙ্গে তিনি তর্ক করছেন, আর আল্লাহ, যাঁর কাছে তিনি ফরিয়াদ করছেন।"
+            "bn": "ওয়া তাশতাকী ইলাল্লাহ: আর সে আল্লাহর কাছে ফরিয়াদ জানাচ্ছে। তাবারী ব্যাখ্যা করেন, স্বামীর জিহারের কারণে যে দুশ্চিন্তা তাঁর উপর নেমে এসেছিল, তর্ককারিণী তা আল্লাহর কাছে জানাচ্ছিলেন, আর তাঁর কাছে মুক্তির পথ চাইছিলেন। মুয়াসসার বলে, তিনি নিজের কষ্ট দূর করার জন্য আল্লাহর কাছে কাকুতি-মিনতি করছিলেন। কুরতুবী শব্দটি নিয়েও একটি কথা বলেন: শাকা আর ইশতাকা একই অর্থের। এক বাক্যেই আয়াতটি তাঁর কথার দুজন শ্রোতার উল্লেখ করে: নবী ﷺ, যাঁর সঙ্গে তিনি তর্ক করছেন, আর আল্লাহ, যাঁর কাছে তিনি ফরিয়াদ করছেন।"
           },
           {
             "en": "The reports give her complaint in her own voice. In al-Baghawi's telling, which he gives without a chain, each time she heard the same answer she cried out that she complained to Allah of her need and her hardship, and said: I have small children; if I leave them with him they will be lost, and if I keep them with me they will go hungry. Then she raised her head to the sky: O Allah, I complain to You; O Allah, send down a ruling on the tongue of Your Prophet.",
-            "bn": "বর্ণনাগুলোতে তাঁর ফরিয়াদ এসেছে তাঁর নিজের ভাষায়। বাগাভী সনদ ছাড়াই ঘটনাটি বলেন। তাঁর বর্ণনায়, প্রতিবার একই উত্তর শুনে তিনি চিৎকার করে উঠতেন: আমার অভাব আর আমার কষ্টের কথা আমি আল্লাহর কাছে জানাই। তিনি বলতেন, আমার ছোট ছোট বাচ্চা আছে। ওদের তার কাছে রেখে দিলে ওরা হারিয়ে যাবে, আর আমার কাছে রাখলে ওরা না খেয়ে থাকবে। তারপর আকাশের দিকে মাথা তুলে বলতেন: হে আল্লাহ, আমি তোমার কাছে ফরিয়াদ করছি। হে আল্লাহ, তোমার নবীর মুখ দিয়ে বিধান নাযিল করো।"
+            "bn": "বর্ণনাগুলোতে তাঁর ফরিয়াদ এসেছে তাঁর নিজের ভাষায়। বাগাভী সনদ ছাড়াই ঘটনাটি বলেন। তাঁর বর্ণনায়, প্রতিবার একই উত্তর শুনে তিনি চিৎকার করে উঠতেন: আমার অভাব আর আমার কষ্টের কথা আমি আল্লাহর কাছে জানাই। তিনি বলতেন, আমার ছোট ছোট বাচ্চা আছে। ওদের তার কাছে রেখে দিলে ওরা হারিয়ে যাবে, আর আমার কাছে রাখলে ওরা না খেয়ে থাকবে। তারপর আকাশের দিকে মাথা তুলে বলতেন: হে আল্লাহ, আমি আপনার কাছে ফরিয়াদ করছি। হে আল্লাহ, আপনার নবীর মুখ দিয়ে বিধান নাজিল করুন।"
           },
           {
             "en": "At-Tabari's report from al-Qurazi has a similar prayer: O Allah, I complain to You today of the hardship of my state, my loneliness, and how hard parting from him is for me. Al-Qurtubi relays from al-Hasan that she asked how revelation could come on everything and be withheld on this; when he said it was as he had told her, she said: to Allah I complain, not to His Messenger. Ma'arif al-Qur'an reads the opening of the surah as an honour to this woman and a consolation: Allah was listening while she pleaded.",
-            "bn": "কুরাযী থেকে তাবারীর বর্ণনাতেও প্রায় একই দোয়া আছে: হে আল্লাহ, আজ আমি তোমার কাছে আমার কঠিন অবস্থা, আমার একাকিত্ব আর তার থেকে আলাদা হওয়ার কষ্টের কথা জানাচ্ছি। কুরতুবী হাসান থেকে বর্ণনা করেন, তিনি জানতে চেয়েছিলেন, সব বিষয়ে ওহী আসে, তবে এ বিষয়ে কেন আটকে আছে? নবী ﷺ বললেন, আমি তোমাকে যা বলেছি, বিষয়টা তা-ই। তখন তিনি বললেন: আমি আল্লাহর কাছেই ফরিয়াদ করছি, তাঁর রাসূলের কাছে নয়। মাআরিফুল কুরআন সূরার এই শুরুকে দেখে এই নারীর প্রতি সম্মান আর সান্ত্বনা হিসেবে। তিনি যখন নিজের কথা বলছিলেন, আল্লাহ তখন শুনছিলেন।"
+            "bn": "কুরাযী থেকে তাবারীর বর্ণনাতেও প্রায় একই দোয়া আছে: হে আল্লাহ, আজ আমি আপনার কাছে আমার কঠিন অবস্থা, আমার একাকিত্ব আর তার থেকে আলাদা হওয়ার কষ্টের কথা জানাচ্ছি। কুরতুবী হাসান থেকে বর্ণনা করেন, তিনি জানতে চেয়েছিলেন, সব বিষয়ে ওহি আসে, তবে এ বিষয়ে কেন আটকে আছে? নবী ﷺ বললেন, আমি তোমাকে যা বলেছি, বিষয়টা তা-ই। তখন তিনি বললেন: আমি আল্লাহর কাছেই ফরিয়াদ করছি, তাঁর রাসূলের কাছে নয়। মাআরিফুল কুরআন সূরার এই শুরুকে দেখে এই নারীর প্রতি সম্মান আর সান্ত্বনা হিসেবে। তিনি যখন নিজের কথা বলছিলেন, আল্লাহ তখন শুনছিলেন।"
           }
         ]
       },
@@ -137,7 +137,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di writes that He hears all voices at all times, however varied the needs, and sees the creeping of the black ant on the solid rock in the dark night. This, he says, tells of the perfection of His hearing and seeing and their reach over small matters and great. He then draws a further point from the verse: within it is a hint that Allah would remove her complaint and lift her trial, which is why He went on to state her ruling, and others' in general terms.",
-            "bn": "সা’দী লেখেন, সব সময় সব আওয়াজ তিনি শোনেন, প্রয়োজন যত রকমেরই হোক। অন্ধকার রাতে নিরেট পাথরের উপর কালো পিঁপড়ার হেঁটে যাওয়াও তিনি দেখেন। সা’দীর ভাষায়, এতে তাঁর শোনা ও দেখার পূর্ণতার খবর আছে, ছোট-বড় সব বিষয় যা ঘিরে রাখে। তারপর তিনি আয়াত থেকে আরেকটি কথা বের করেন: এর ভেতরেই ইঙ্গিত আছে যে আল্লাহ তাঁর ফরিয়াদের কারণ দূর করবেন, তাঁর বিপদ তুলে নেবেন। এ জন্যই এরপর তাঁর বিধান বলা হয়েছে, আর সাধারণভাবে অন্যদের বিধানও।"
+            "bn": "সা’দী লেখেন, সব সময় সব আওয়াজ তিনি শোনেন, প্রয়োজন যত রকমেরই হোক। অন্ধকার রাতে নিরেট পাথরের উপর কালো পিঁপড়ার হেঁটে যাওয়াও তিনি দেখেন। সা’দীর ভাষায়, এ থেকে বোঝা যায় তাঁর শোনা ও দেখা কত পূর্ণ, ছোট-বড় সব বিষয়েই তা পৌঁছে যায়। তারপর তিনি আয়াত থেকে আরেকটি কথা বের করেন: এর ভেতরেই ইঙ্গিত আছে যে আল্লাহ তাঁর ফরিয়াদের কারণ দূর করবেন, তাঁর বিপদ তুলে নেবেন। এ জন্যই আল্লাহ এরপর তাঁর বিধান জানিয়ে দিলেন, সাধারণভাবে অন্যদের বিধানও।"
           },
           {
             "en": "Al-Qurtubi treats the names as attributes. Hearing and seeing, he writes, are two attributes like knowledge, power, life and will, attributes of the Essence which the Creator has always possessed. He relays al-Hakim Abu 'Abdullah on as-Sami': He perceives the sounds that creatures perceive with their ears, without having an ear, meaning that no sound is hidden from Him. 'A'ishah's own opening, praise to Him Whose hearing takes in all voices, says the same in a single breath.",
@@ -173,11 +173,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Mujadilah opens at 58:1 with Allah declaring that He has heard the speech of a woman who was disputing with the Prophet ﷺ about her husband and directing her complaint to Allah, and adds that He hears the exchange between the two of them. A conversation held by two people is reported back to them in revelation before the surah has said anything else.",
-            "bn": "সূরা আল-মুজাদালাহ শুরু হয় 58:1 দিয়ে, যেখানে আল্লাহ ঘোষণা করেন যে তিনি সেই নারীর কথা শুনেছেন যিনি তাঁর স্বামীর বিষয়ে নবী ﷺ-এর সঙ্গে বাদানুবাদ করছিলেন এবং আল্লাহর কাছে অভিযোগ পেশ করছিলেন; আর যোগ করা হয় যে তিনি তাঁদের দুজনের কথোপকথনও শোনেন। সূরাটি অন্য কিছু বলার আগেই, দুজন মানুষের একটি আলাপ ওহীর মাধ্যমে তাঁদেরই কাছে ফিরিয়ে জানিয়ে দেওয়া হয়।"
+            "bn": "সূরা আল-মুজাদালাহ শুরু হয় ৫৮:১ আয়াত দিয়ে। সেখানে আল্লাহ জানান, এক নারী তাঁর স্বামীর ব্যাপারে নবী ﷺ-এর সঙ্গে তর্ক করছিলেন আর আল্লাহর কাছে ফরিয়াদ জানাচ্ছিলেন, আল্লাহ তাঁর কথা শুনেছেন। সঙ্গে এও জানান, তাঁদের দুজনের কথোপকথনও তিনি শোনেন। সূরাটি আর কিছু বলার আগেই দুজন মানুষের নিজেদের আলাপ ওহি হয়ে তাঁদের কাছেই ফিরে এল।"
           },
           {
             "en": "By the time we reach this verse the same fact has become a general law. What was granted to one woman in one difficulty is stated as the standing condition of every private conference anyone will ever hold. The surah moves from a particular case to a rule, which is the ordinary direction of Quranic legislation, and here the rule concerns who is listening.",
-            "bn": "আলোচ্য আয়াতে পৌঁছাতে পৌঁছাতে সেই একই সত্য একটি সাধারণ বিধানে পরিণত হয়। এক নারীকে এক দুর্দশায় যা দেওয়া হয়েছিল, তা এখন ঘোষিত হচ্ছে যেকোনো মানুষের যেকোনো গোপন পরামর্শের স্থায়ী অবস্থা হিসেবে। সূরাটি একটি নির্দিষ্ট ঘটনা থেকে বিধানের দিকে এগোয় — কুরআনি বিধানের এটিই স্বাভাবিক গতি — আর এখানে বিধানটি এই নিয়ে যে, শুনছেন কে।"
+            "bn": "এই আয়াতে এসে সেই একই সত্য সাধারণ নিয়ম হয়ে গেছে। বিপদের দিনে এক নারী যা পেয়েছিলেন, এখানে তা ঘোষণা হচ্ছে সব গোপন পরামর্শের স্থায়ী অবস্থা হিসেবে, যে-ই করুক, যখনই করুক। সূরাটি একটি নির্দিষ্ট ঘটনা থেকে সাধারণ বিধানের দিকে যায়। কুরআনের বিধান সাধারণত এ পথেই আসে। আর এখানে বিধানের বিষয় হলো, কে শুনছেন।"
           }
         ]
       },
@@ -189,11 +189,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens by saying that Allah knows what is in the heavens and what is on the earth, and it closes by saying that Allah is Knowing of all things. Between those two statements of knowledge sits the clause about His being with them wherever they are. The frame is not decorative; it tells the reader how the middle is to be understood.",
-            "bn": "আয়াতটি শুরু হয় এই কথা দিয়ে যে, আসমানে যা আছে আর যমীনে যা আছে আল্লাহ সব জানেন; আর শেষ হয় এই কথা দিয়ে যে, আল্লাহ সকল বিষয়ে অবগত। জ্ঞানের এই দুই ঘোষণার মাঝখানে বসে আছে সেই বাক্যটি — তারা যেখানেই থাকুক তিনি তাদের সঙ্গে আছেন। কাঠামোটি অলংকার নয়; এটিই পাঠককে জানায় মাঝের অংশটি কীভাবে বুঝতে হবে।"
+            "bn": "আয়াতটি শুরু হয় এ কথা দিয়ে যে, আসমানে ও যমীনে যা আছে, আল্লাহ সব জানেন। আর শেষ হয় এ কথায়: আল্লাহ সব বিষয়ে পূর্ণ জ্ঞান রাখেন। জ্ঞানের এই দুই কথার মাঝখানে আছে সেই বাক্য: তারা যেখানেই থাকুক, তিনি তাদের সঙ্গে আছেন। এই কাঠামো শুধু সাজসজ্জা নয়। মাঝের কথাটা কীভাবে বুঝতে হবে, কাঠামোটিই তা পাঠককে বলে দেয়।"
           },
           {
             "en": "The classical commentators are settled on the reading the frame requires: the withness here is one of knowledge, hearing and seeing, not of mixture with creation. The same construction is used at 57:4, and in both places the clause is fenced by knowledge before it and awareness after it. The verse defines its own terms, and it does so twice over.",
-            "bn": "প্রাচীন মুফাসসিরগণ কাঠামোটি যে পাঠ দাবি করে সেটিতেই স্থির: এখানে 'সঙ্গে থাকা' মানে জ্ঞান, শ্রবণ ও দর্শনের সঙ্গে থাকা, সৃষ্টির সঙ্গে মিশে যাওয়া নয়। একই গঠন ব্যবহৃত হয়েছে 57:4 আয়াতে, আর দুই জায়গাতেই বাক্যটির আগে জ্ঞান ও পরে অবগতির বেড়া দেওয়া। আয়াতটি নিজের পরিভাষা নিজেই নির্ধারণ করে দেয়, আর তা করে দুবার।"
+            "bn": "কাঠামোটি যে অর্থ দাবি করে, প্রাচীন মুফাসসিরগণ সে অর্থেই একমত: এখানে 'সঙ্গে থাকা' মানে জ্ঞানে, শোনায় ও দেখায় সঙ্গে থাকা, সৃষ্টির সঙ্গে মিশে যাওয়া নয়। ৫৭:৪ আয়াতেও একই গঠন এসেছে। দুই জায়গাতেই বাক্যটির আগে জ্ঞানের কথা, পরে অবগতির কথা, যেন দুই পাশে বেড়া। আয়াত নিজেই নিজের শব্দের অর্থ ঠিক করে দেয়, আর তা করে দুবার।"
           }
         ]
       },
@@ -205,27 +205,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Count what is actually named. The verse gives two group sizes and two positions: three, and He is their fourth; five, and He is their sixth. Then it closes both directions at once with a pair of negations — no fewer than that and no more. Two numbers are stated and every other number in existence is swept in behind them.",
-            "bn": "আসলে কী কী নাম নেওয়া হয়েছে, তা গুনে দেখুন। আয়াতটি দুটি দলের আকার ও দুটি অবস্থান দেয়: তিনজন, আর তিনি তাদের চতুর্থজন; পাঁচজন, আর তিনি তাদের ষষ্ঠজন। তারপর দুটি অস্বীকৃতি দিয়ে একসঙ্গে দুই দিকই বন্ধ করে দেয় — এর কমও নয়, বেশিও নয়। দুটি সংখ্যার নাম নেওয়া হয়, আর অস্তিত্বের বাকি সব সংখ্যা তাদের পিছু পিছু ভেতরে ঢুকে পড়ে।"
+            "bn": "আয়াতটি ঠিক কী কী উল্লেখ করেছে, গুনে দেখুন। দলের আকার দুটি, অবস্থানও দুটি: তিনজন হলে তিনি তাদের চতুর্থ, পাঁচজন হলে তিনি তাদের ষষ্ঠ। তারপর দুটি 'না' দিয়ে একসঙ্গে দুই দিকই বন্ধ করে দেয়: এর চেয়ে কমও নয়, বেশিও নয়। মুখে বলা হলো দুটি সংখ্যা, আর তাদের পেছন পেছন বাকি সব সংখ্যাই ভেতরে চলে এল।"
           },
           {
             "en": "The counting is what makes the verse concrete. A statement that Allah knows everything is easy to hold at a distance. A statement that a meeting of three has a fourth present in it is not, because it puts a number on the room you were in yesterday. The smallest group the verse names is three, so its subject is never a solitary person; it is people together.",
-            "bn": "এই গণনাই আয়াতটিকে বাস্তব করে তোলে। 'আল্লাহ সবকিছু জানেন' — এমন কথা দূর থেকে ধরে রাখা সহজ। কিন্তু 'তিনজনের বৈঠকে একজন চতুর্থ উপস্থিত থাকেন' — এ কথা দূরে রাখা যায় না, কারণ তা গতকাল আপনি যে ঘরে ছিলেন সেটির উপর একটি সংখ্যা বসিয়ে দেয়। আয়াতটি সবচেয়ে ছোট যে দলের নাম নেয় তা তিনজনের; তাই এর বিষয় কখনোই একাকী কোনো মানুষ নয় — এর বিষয় একত্র হওয়া মানুষ।"
+            "bn": "এই গোনাগুনতিই আয়াতটিকে চোখের সামনে এনে দেয়। 'আল্লাহ সবকিছু জানেন' কথাটা দূরে সরিয়ে রাখা সহজ। কিন্তু 'তিনজনের বৈঠকে চতুর্থ একজন হাজির থাকেন', এ কথা দূরে রাখা যায় না। কারণ গতকাল আপনি যে ঘরে ছিলেন, এ কথা সেই ঘরেরই মাথা গুনে দেয়। আয়াতে সবচেয়ে ছোট দলটি তিনজনের। তাই এর বিষয় কখনো একা কোনো মানুষ নয়, এর বিষয় একসঙ্গে থাকা মানুষ।"
           }
         ]
       },
       {
         "h": {
           "en": "The Only Other Verse",
-          "bn": "একমাত্র অন্য আয়াতটি"
+          "bn": "আর মাত্র একটি আয়াত"
         },
         "p": [
           {
             "en": "The words rabi'uhum and sadisuhum, their fourth and their sixth, occur in only one other place in the Quran. 18:22 has people arguing over the sleepers of the cave: they will say three, the fourth of them their dog, and they will say five, the sixth of them their dog. The counting formula is identical, down to the two numbers chosen.",
-            "bn": "'রাবি'উহুম' ও 'সাদিসুহুম' — তাদের চতুর্থজন ও তাদের ষষ্ঠজন — এই শব্দ দুটি কুরআনে আর মাত্র একটি জায়গায় এসেছে। 18:22 আয়াতে মানুষ গুহাবাসীদের সংখ্যা নিয়ে তর্ক করছে: কেউ বলবে তারা ছিল তিনজন, চতুর্থটি তাদের কুকুর; আর কেউ বলবে তারা ছিল পাঁচজন, ষষ্ঠটি তাদের কুকুর। গণনার ছাঁচটি হুবহু এক, এমনকি বেছে নেওয়া দুটি সংখ্যাও এক।"
+            "bn": "রাবি'উহুম আর সাদিসুহুম, অর্থাৎ তাদের চতুর্থ ও তাদের ষষ্ঠ, এই দুটি শব্দ কুরআনে আর মাত্র এক জায়গায় এসেছে। ১৮:২২ আয়াতে মানুষ গুহাবাসীদের সংখ্যা নিয়ে তর্ক করছে: কেউ বলবে তারা তিনজন, চতুর্থটি তাদের কুকুর; কেউ বলবে পাঁচজন, ষষ্ঠটি তাদের কুকুর। গোনার ধরন হুবহু এক, এমনকি সংখ্যা দুটিও এক।"
           },
           {
             "en": "And 18:22 labels that counting as guessing at the unseen, then tells the Prophet ﷺ to say that his Lord knows their number best. So the Quran uses the same formula twice: once for human beings speculating about a hidden matter and getting it wrong, and once for Allah stating His own presence in every hidden matter. The contrast between the two is the point.",
-            "bn": "আর 18:22 সেই গণনাকে চিহ্নিত করে অদৃশ্য বিষয়ে অনুমান হিসেবে, তারপর নবী ﷺ-কে বলতে বলে যে তাঁর প্রতিপালকই তাদের সংখ্যা সবচেয়ে ভালো জানেন। অর্থাৎ কুরআন একই ছাঁচ দুবার ব্যবহার করে: একবার মানুষের জন্য, যারা গোপন বিষয়ে অনুমান করে ভুল করে; আর একবার আল্লাহর জন্য, যিনি প্রতিটি গোপন বিষয়ে নিজের উপস্থিতি ঘোষণা করেন। এই দুইয়ের বৈসাদৃশ্যই মূল কথা।"
+            "bn": "১৮:২২ আয়াত সেই গোনাকে বলে অদৃশ্য নিয়ে আন্দাজ। তারপর নবী ﷺ-কে বলতে বলে যে তাঁর রবই তাদের সংখ্যা সবচেয়ে ভালো জানেন। তাহলে কুরআন একই ধরন দুবার ব্যবহার করেছে। একবার মানুষের বেলায়, যারা গোপন বিষয় নিয়ে আন্দাজ করে ভুল করে। আরেকবার আল্লাহর বেলায়, যিনি জানিয়ে দেন, প্রতিটি গোপন বিষয়ে তিনি নিজে উপস্থিত। দুইয়ের এই পার্থক্যটাই আসল কথা।"
           }
         ]
       },
@@ -237,11 +237,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Najwa, private conference, occurs eleven times in the Quran, and five of those are in this surah: 58:7, 58:8, 58:10, 58:12 and 58:13. This is where the Book legislates on secret talk, and its ruling is not that believers should stop holding it. 58:9 tells them that when they confer privately they must not confer about sin, aggression and disobedience to the Messenger, but about righteousness and taqwa.",
-            "bn": "'নাজওয়া' অর্থাৎ গোপন পরামর্শ কুরআনে এসেছে এগারো বার, আর তার পাঁচটিই এই সূরায়: 58:7, 58:8, 58:10, 58:12 এবং 58:13। গোপন আলাপ নিয়ে কিতাব এখানেই বিধান দেয়, আর সেই বিধান এই নয় যে মুমিনরা গোপন পরামর্শ বন্ধ করে দেবে। 58:9 তাদের বলে, যখন তারা গোপনে পরামর্শ করে তখন যেন পাপ, সীমালঙ্ঘন ও রাসূলের অবাধ্যতার পরামর্শ না করে, বরং সৎকর্ম ও তাকওয়ার পরামর্শ করে।"
+            "bn": "নাজওয়া, মানে গোপন পরামর্শ, শব্দটি কুরআনে এসেছে এগারো বার। তার পাঁচবারই এই সূরায়: ৫৮:৭, ৫৮:৮, ৫৮:১০, ৫৮:১২ আর ৫৮:১৩। গোপন আলাপ নিয়ে কুরআনের বিধান এখানেই। আর সে বিধান এটা নয় যে মুমিনরা গোপন পরামর্শ ছেড়ে দেবে। ৫৮:৯ আয়াত তাদের বলে, গোপনে পরামর্শ করলে গুনাহ, সীমালঙ্ঘন আর রাসূলের নাফরমানির পরামর্শ যেন না করে, বরং নেকি আর তাকওয়ার পরামর্শ করে।"
           },
           {
             "en": "So the fourth of every three is not there to abolish privacy. Councils, confidences and closed rooms are all left standing; what the passage regulates is their content. 58:8 shows the alternative in action, describing people forbidden from such talk who return to it and confer about sin and aggression, and who greet the Prophet ﷺ with words Allah does not use to greet him.",
-            "bn": "তাই প্রতি তিনজনের চতুর্থজন থাকার কথা গোপনীয়তা বিলুপ্ত করার জন্য নয়। পরামর্শসভা, বিশ্বাসের কথা ও বন্ধ ঘর — সবই বহাল থাকে; অংশটি নিয়ন্ত্রণ করে সেগুলোর বিষয়বস্তু। 58:8 বিকল্পটিকে কাজে দেখায়: যাদের এমন আলাপ থেকে নিষেধ করা হয়েছিল তারা আবার তাতেই ফিরে যায়, পাপ ও সীমালঙ্ঘনের পরামর্শ করে, আর নবী ﷺ-কে এমন কথায় অভিবাদন জানায় যা দিয়ে আল্লাহ তাঁকে অভিবাদন জানান না।"
+            "bn": "তাই প্রতি তিনজনের মাঝে চতুর্থজনের উপস্থিতি গোপনীয়তা তুলে দেওয়ার জন্য নয়। পরামর্শসভা, একান্ত মনের কথা, বন্ধ ঘর, সবই থাকছে। এই আয়াতগুলো ঠিক করে দেয় সেখানে কী কথা হবে। উল্টো ছবিটা দেখা যায় ৫৮:৮ আয়াতে: কিছু লোককে এমন আলাপ থেকে নিষেধ করা হয়েছিল, তবু তারা তাতেই ফিরে যায়, গুনাহ আর সীমালঙ্ঘনের পরামর্শ করে। আর নবী ﷺ-কে এমন ভাষায় অভিবাদন জানায়, যে ভাষায় আল্লাহ তাঁকে অভিবাদন জানান না।"
           }
         ]
       },
@@ -253,11 +253,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Thumma yunabbi'uhum bima 'amilu yawma al-qiyamah — then He will inform them of what they did, on the Day of Resurrection. Thumma opens a gap between the knowing and the telling, and the whole of a life fits inside that gap. 58:6, immediately before, has already said that Allah enumerated their deeds while they themselves forgot them.",
-            "bn": "ছুম্মা ইউনাব্বিউহুম বিমা 'আমিলূ ইয়াওমাল-ক্বিয়ামাহ — তারপর কিয়ামতের দিন তিনি তাদের জানিয়ে দেবেন তারা কী করেছিল। 'ছুম্মা' শব্দটি জানা ও জানানোর মাঝখানে একটি ব্যবধান খুলে দেয়, আর গোটা একটি জীবন সেই ব্যবধানের ভেতরে এঁটে যায়। ঠিক আগের আয়াত 58:6 আগেই বলেছে, আল্লাহ তাদের আমল গুনে রেখেছেন, অথচ তারা নিজেরাই তা ভুলে গেছে।"
+            "bn": "ছুম্মা ইউনাব্বিউহুম বিমা 'আমিলূ ইয়াওমাল-ক্বিয়ামাহ: তারপর কিয়ামতের দিন তিনি তাদের জানিয়ে দেবেন তারা কী করেছিল। 'ছুম্মা' শব্দটি জানা আর জানানোর মাঝে একটা ফাঁক রেখে দেয়, আর গোটা একটা জীবন সেই ফাঁকের ভেতরে ধরে যায়। ঠিক আগের আয়াত ৫৮:৬ আগেই বলেছে: আল্লাহ তাদের আমল গুনে রেখেছেন, অথচ তারা নিজেরাই তা ভুলে গেছে।"
           },
           {
             "en": "Notice the last shift: the verse began with talk and ends with deeds, what they did rather than what they said. A private conference is where things are decided before they are done, so the record of the room is filed under actions. That is where the verse becomes usable — not as a rule against whispering, but as a question about what your meetings decide.",
-            "bn": "শেষ মোড়টি লক্ষ করুন: আয়াতটি শুরু হয়েছিল কথা দিয়ে, শেষ হয় আমল দিয়ে — তারা কী বলেছিল নয়, কী করেছিল। গোপন পরামর্শ সেই জায়গা যেখানে কাজ করার আগেই সিদ্ধান্ত নেওয়া হয়, তাই সেই ঘরের নথি জমা পড়ে কাজের খাতায়। এখানেই আয়াতটি কাজে লাগে — ফিসফিসানির বিরুদ্ধে কোনো নিয়ম হিসেবে নয়, বরং এই প্রশ্ন হিসেবে যে আপনার বৈঠকগুলো কী সিদ্ধান্ত নেয়।"
+            "bn": "শেষ মোড়টা খেয়াল করুন। আয়াতটি শুরু হয়েছিল কথা দিয়ে, শেষ হয় আমল দিয়ে: তারা কী বলেছিল তা নয়, কী করেছিল তা। কোনো কাজ হওয়ার আগে তার সিদ্ধান্ত হয় গোপন বৈঠকেই। তাই সেই ঘরের হিসাব লেখা হয় আমলের খাতায়। এখানেই আয়াতটি আপনার কাজে আসে। ফিসফিসানির বিরুদ্ধে কোনো নিয়ম হিসেবে নয়, বরং একটি প্রশ্ন হিসেবে: আপনার বৈঠকগুলোতে কী সিদ্ধান্ত হয়?"
           }
         ]
       }
@@ -349,7 +349,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi mentions what is narrated from Ali only to set it aside.\"What is narrated from Ali is weak,\" he writes, \"because Allah the Exalted said fa-idh lam taf'alu, since you did not, and this indicates that nobody gave anything in charity.\" He also reads the address as aimed at those who had something to give, and draws a principle of law from the passage: it shows that a ruling may be abrogated before it has been acted upon.",
-            "bn": "আলী (রাঃ) থেকে বর্ণিত কথাটি কুরতুবী উল্লেখ করেন কেবল তা নাকচ করার জন্য।তিনি লেখেন, \"আলী (রাঃ) থেকে যা বর্ণিত, তা দুর্বল, কারণ আল্লাহ তা'আলা বলেছেন ফা-ইয লাম তাফ'আলূ, যেহেতু তোমরা করোনি। এ থেকে বোঝা যায়, কেউ কোনো কিছুই সদাকা দেয়নি।\" তাঁর মতে সম্বোধনটা তাদের প্রতি, যাদের দেওয়ার মতো কিছু ছিল। এই অংশ থেকে তিনি ফিকহের একটি মূলনীতিও বের করেন: কোনো বিধানের উপর আমল হওয়ার আগেই তা রহিত হতে পারে।"
+            "bn": "আলী (রাঃ) থেকে বর্ণিত কথাটি কুরতুবী উল্লেখ করেন কেবল তা নাকচ করার জন্য। তিনি লেখেন, \"আলী (রাঃ) থেকে যা বর্ণিত, তা দুর্বল, কারণ আল্লাহ তা'আলা বলেছেন ফা-ইয লাম তাফ'আলূ, যেহেতু তোমরা করোনি। এ থেকে বোঝা যায়, কেউ কোনো কিছুই সদাকা দেয়নি।\" তাঁর মতে সম্বোধনটা তাদের প্রতি, যাদের দেওয়ার মতো কিছু ছিল। এই অংশ থেকে তিনি ফিকহের একটি মূলনীতিও বের করেন: কোনো বিধানের উপর আমল হওয়ার আগেই তা রহিত হতে পারে।"
           },
           {
             "en": "Here the sources genuinely part. Ibn Kathir and Ma'arif al-Qur'an report that Ali acted on the verse; al-Qurtubi, on the strength of the verse's own wording, judges what is narrated from Ali weak. This article takes no side between them. One detail can be stated without taking a side: the at-Tirmidhi wording quoted above concerns the amount and the lightening of the burden, and does not itself say that Ali gave anything.",
