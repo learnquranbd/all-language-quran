@@ -545,23 +545,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The narration lights up what Musa (AS) is doing. Ma'arif calls his answer a model of prophetic dialectic: he does not camouflage his own weakness, taking up the killing first and owning it, then he speaks the plain truth about the enslavement to the tyrant's face, in a packed court, with no third man beside him to lend support. A just word before an unjust throne is here not a slogan but a scene, and the verse is its record.",
-            "bn": "এই বর্ণনা মূসা (আঃ) যা করছেন তা আলোকিত করে। মাআরিফ তাঁর জবাবকে নববী তর্কপদ্ধতির নমুনা বলে: তিনি নিজের দুর্বলতা ঢাকেন না, আগে হত্যার প্রসঙ্গ তুলে তা স্বীকার করেন, তারপর জালিমের মুখের ওপর, ভরা দরবারে, পাশে সমর্থন জোগানোর মতো তৃতীয় কোনো লোক ছাড়াই দাসত্বের বিষয়ে খাঁটি সত্য বলেন। জালিম সিংহাসনের সামনে একটা ন্যায়ের কথা এখানে কোনো স্লোগান নয়, একটা দৃশ্য, আর আয়াতটি তারই দলিল।"
+            "bn": "মূসা (আঃ) এখানে কী করছেন, বর্ণনাটা তা পরিষ্কার করে দেয়। মাআরিফ তাঁর এই জবাবকে নবীসুলভ তর্কের আদর্শ বলে। তিনি নিজের দুর্বলতা লুকান না। আগে হত্যার প্রসঙ্গটা নিজেই তোলেন আর তার দায় স্বীকার করেন। তারপর ভরা দরবারে জালিমের মুখের ওপর দাসত্বের খাঁটি সত্যটা বলে দেন, অথচ পাশে দাঁড়ানোর মতো তৃতীয় কেউ ছিল না। জালিম শাসকের সিংহাসনের সামনে হক কথা বলা এখানে কোনো স্লোগান নয়, চোখের সামনের একটা দৃশ্য। আর আয়াতটি সেই দৃশ্যেরই দলিল।"
           }
         ]
       },
       {
         "h": {
           "en": "What This Verse Withholds",
-          "bn": "যে ছাড়পত্র এ দেয় না"
+          "bn": "আয়াতটি যার অনুমতি দেয় না"
         },
         "p": [
           {
             "en": "This must be said plainly, in both languages. The verse names a real and terrible wrong: Pharaoh enslaved a whole people and killed their sons, and this article stands, as the verse does, with the enslaved and against the tyrant. But Pharaoh is a particular named tyrant of the Qur'an, and describing his crime is not a charge against anyone alive. The verse licenses nothing against any living person or community, of any origin or faith, today.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার, দুই ভাষাতেই। আয়াতটি একটা সত্যিকারের ভয়াবহ অন্যায়ের নাম নেয়: ফেরাউন গোটা একটা জাতিকে দাস বানিয়েছিল আর তাদের ছেলেদের মেরেছিল। আয়াতটি যেমন দাঁড়ায়, এই লেখাও তেমনি দাঁড়ায় দাসে পরিণত মানুষগুলোর পক্ষে আর জালিমের বিপক্ষে। কিন্তু ফেরাউন কুরআনের এক নির্দিষ্ট নামধারী জালিম, আর তার অপরাধের বর্ণনা আজ বেঁচে থাকা কারও বিরুদ্ধে কোনো অভিযোগ নয়। এ আয়াত আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, যে বংশ বা ধর্মেরই হোক, কিছুরই অনুমতি দেয় না।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার, দুই ভাষাতেই। আয়াতটি এক সত্যিকারের ভয়াবহ অন্যায়ের কথা বলে: ফেরাউন গোটা একটা জাতিকে দাস বানিয়েছিল, তাদের ছেলেদের হত্যা করেছিল। আয়াতটির মতো এই লেখাও দাঁড়িয়ে আছে দাস বানানো মানুষগুলোর পক্ষে, জালিমের বিপক্ষে। কিন্তু ফেরাউন কুরআনে নাম ধরে বলা এক নির্দিষ্ট জালিম। তার অপরাধের বর্ণনা আজ বেঁচে থাকা কারও বিরুদ্ধে অভিযোগ নয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, সে যে বংশের বা যে ধর্মেরই হোক, এ আয়াত কোনো কিছুরই অনুমতি দেয় না।"
           },
           {
             "en": "Held to its own words, the line does the opposite of arming contempt. It refuses to let a powerful man launder oppression by pointing to a single act of care; it puts the humiliated people, not the ruler's self-image, at the centre. Read as Musa (AS) spoke it, it is a warning to the strong about how they treat the weak, and a caution to the rest of us not to let a display of generosity settle a live question of justice.",
-            "bn": "নিজের কথাগুলোর মধ্যে ধরে রাখলে লাইনটা ঘৃণাকে অস্ত্র জোগানোর উল্টো কাজ করে। এটা এক ক্ষমতাবানকে জুলুম ধুয়ে ফেলতে দেয় না একটামাত্র যত্নের কাজ দেখিয়ে; এটা শাসকের নিজের ভাবমূর্তি নয়, বরং লাঞ্ছিত জাতিকে কেন্দ্রে বসায়। মূসা (আঃ) যেভাবে বলেছেন সেভাবে পড়লে এটা শক্তিশালীদের জন্য এক সতর্কবার্তা, দুর্বলের সঙ্গে তারা কেমন আচরণ করে তা নিয়ে; আর আমাদের বাকিদের জন্য এক হুঁশিয়ারি, ন্যায়ের জীবন্ত প্রশ্নকে দয়ার প্রদর্শনী দিয়ে যেন মিটতে না দিই।"
+            "bn": "আয়াতের নিজের কথার মধ্যে থেকে পড়লে দেখা যায়, এ লাইন ঘৃণাকে উসকে দেয় না, বরং উল্টোটা করে। একটামাত্র উপকারের কথা তুলে কোনো ক্ষমতাবান তার জুলুম ধুয়ে-মুছে ফেলবে, আয়াত তা হতে দেয় না। শাসকের নিজের ভাবমূর্তি নয়, অপমানিত জাতিটাই এখানে কেন্দ্রে। মূসা (আঃ) যেভাবে বলেছিলেন সেভাবে পড়লে এটা শক্তিমানদের জন্য সতর্কবাণী, দুর্বলের সঙ্গে তারা কেমন আচরণ করে সে ব্যাপারে। আর আমাদের বাকিদের জন্য হুঁশিয়ারি: দয়ার প্রদর্শনী দেখে ন্যায়বিচারের একটা জীবন্ত প্রশ্নকে যেন মিটে গেছে বলে ধরে না নিই।"
           }
         ]
       },
@@ -573,15 +573,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse hands the reader a test that outlives its setting. People with power over us often reach, just as Pharaoh did, for a past kindness the moment their conduct is questioned: after all we did for you, how can you speak? The move works by shifting the subject away from the wrong and onto the debt. Musa (AS) neither denies the kindness nor lets it govern him; he sets it back inside the frame of the wrong that produced it.",
-            "bn": "আয়াতটি পাঠকের হাতে এমন এক পরীক্ষা তুলে দেয় যা তার প্রেক্ষাপট পেরিয়ে টেকে। আমাদের ওপর যাদের ক্ষমতা আছে, তারা ফেরাউনের মতোই প্রায়ই একটা পুরনো দয়ার কথা টেনে আনে যেই তাদের আচরণ নিয়ে প্রশ্ন ওঠে: তোমার জন্য এত কিছু করার পরও তুমি মুখ খুলছ কী করে? চালটা কাজ করে অন্যায় থেকে আলোচনাটাকে সরিয়ে ঋণের দিকে নিয়ে গিয়ে। মূসা (আঃ) দয়াটা অস্বীকারও করেন না, তাকে নিজের ওপর কর্তৃত্বও করতে দেন না; তিনি সেটাকে আবার সেই অন্যায়ের কাঠামোয় বসিয়ে দেন যা তাকে জন্ম দিয়েছিল।"
+            "bn": "আয়াতটি পাঠকের হাতে এমন এক কষ্টিপাথর তুলে দেয়, যা সেই প্রেক্ষাপট পেরিয়েও কাজে লাগে। আমাদের ওপর যাদের ক্ষমতা আছে, তাদের আচরণ নিয়ে প্রশ্ন উঠলেই তারা প্রায়ই ফেরাউনের মতো পুরনো কোনো উপকারের কথা টেনে আনে: তোমার জন্য এত কিছু করলাম, আর তুমি কিনা মুখ খুলছ? চালটা কাজ করে এভাবে: আলোচনা অন্যায় থেকে সরে চলে যায় ঋণের দিকে। মূসা (আঃ) উপকারটা অস্বীকারও করেন না, আবার সেটাকে নিজের ওপর চেপে বসতেও দেন না। তিনি উপকারটাকে আবার সেই অন্যায়ের প্রেক্ষাপটে বসিয়ে দেন, যে অন্যায় থেকে তার জন্ম।"
           },
           {
             "en": "For us the discipline runs two ways. Where we owe a real debt of gratitude, we honour it, and we do not become people who hold our own gifts over others to win an argument. But where a favour, genuine or merely claimed, is being used to buy our silence about an injustice, the verse tells us to keep the injustice in full view. A gift does not settle a wrong, and a reminder of the gift is not an answer to it.",
-            "bn": "আমাদের জন্য এই অনুশীলন দুই দিকে চলে। যেখানে আমাদের ওপর সত্যিকারের কৃতজ্ঞতার ঋণ আছে, সেখানে আমরা তা মেনে চলি, আর এমন মানুষ হই না যারা তর্কে জিততে নিজেদের দান অন্যের ওপর খোঁটা হিসেবে চাপায়। কিন্তু যেখানে কোনো অনুগ্রহ, সত্যি হোক বা কেবল দাবি, কোনো অন্যায় নিয়ে আমাদের মুখ বন্ধ কেনার কাজে লাগানো হচ্ছে, সেখানে আয়াতটি বলে অন্যায়টাকে পুরোপুরি চোখের সামনে রাখতে। দান কোনো অন্যায় মেটায় না, আর সেই দানের কথা মনে করিয়ে দেওয়া তার কোনো জবাবও নয়।"
+            "bn": "আমাদের জন্য শিক্ষাটা দুই দিকের। যেখানে সত্যিই কারও কাছে আমরা কৃতজ্ঞতার ঋণী, সেখানে সেই ঋণের মর্যাদা দিই। আর তর্কে জেতার জন্য নিজের দান নিয়ে অন্যকে খোঁটা দেওয়ার মানুষ হই না। কিন্তু কোনো অনুগ্রহ, সত্যি হোক বা শুধু দাবি করা, যখন কোনো অন্যায়ের ব্যাপারে আমাদের চুপ করিয়ে রাখার দাম হিসেবে ব্যবহার হয়, তখন আয়াত বলে অন্যায়টাকে পুরোপুরি চোখের সামনে রাখতে। দান দিয়ে অন্যায় মেটে না, আর দানের কথা মনে করিয়ে দেওয়াও অন্যায়ের জবাব নয়।"
           },
           {
             "en": "Scale it up, and the same eye still serves. Comforts we enjoy sometimes rest on someone else's hidden hardship, as one child's palace rested on a nation's chains. The verse does not ask us to despise every gift, but to know where it came from, and to refuse the trade in which a visible kindness is offered so that an invisible wrong may go unspoken. Musa (AS) took the gift's true measure; the verse asks us to take ours.",
-            "bn": "মাপটা বড় করলেও একই দৃষ্টি এখনো কাজে লাগে। আমরা যে আরাম ভোগ করি তা কখনো কখনো অন্য কারও লুকানো কষ্টের ওপর দাঁড়িয়ে থাকে, যেমন একটা শিশুর প্রাসাদ দাঁড়িয়ে ছিল একটা জাতির শিকলের ওপর। আয়াতটি প্রতিটি দানকে ঘৃণা করতে বলে না, বরং জানতে বলে তা কোথা থেকে এলো, আর সেই লেনদেন প্রত্যাখ্যান করতে বলে যেখানে একটা দৃশ্যমান দয়া এজন্য দেওয়া হয় যাতে একটা অদৃশ্য অন্যায় মুখ বুজে থাকে। মূসা (আঃ) দানের আসল মাপটা নিয়েছিলেন; আয়াতটি আমাদেরও নিজেদেরটা নিতে বলে।"
+            "bn": "পরিসরটা বড় করলেও একই দৃষ্টি কাজে লাগে। আমরা যে আরাম ভোগ করি, তা কখনো কখনো অন্য কারও চোখের আড়ালের কষ্টের ওপর দাঁড়িয়ে থাকে, যেমন একটি শিশুর প্রাসাদ দাঁড়িয়ে ছিল গোটা একটা জাতির শিকলের ওপর। আয়াত প্রতিটি দানকে তুচ্ছ করতে বলে না। বলে, দানটা কোথা থেকে এলো তা জেনে নিতে। আর সেই লেনদেনে রাজি না হতে, যেখানে চোখে পড়ার মতো একটা দয়া দেখানো হয়, যাতে চোখের আড়ালের একটা অন্যায় নিয়ে কেউ মুখ না খোলে। মূসা (আঃ) দানটার আসল ওজন মেপেছিলেন; আয়াত আমাদেরও নিজেদের পাওয়া দান মেপে দেখতে বলে।"
           }
         ]
       }
@@ -621,7 +621,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "There is a reach in the word al-awwalīn, the first or earliest. Mūsā does not say merely 'your fathers'; he says the first of your fathers, sending the mind back past every remembered name to the very beginning of the line. However far a man traces his ancestry for honour, the trail ends not in a god but in a grave, and before that grave in a birth that someone else granted. Lineage, followed honestly to its source, does not crown a people. It humbles them before the One who began them.",
-            "bn": "‘আল-আউয়ালীন’ শব্দটিতে একটা বিস্তার আছে, মানে প্রথম বা সবচেয়ে আগেকার। মূসা (আঃ) শুধু ‘তোমাদের বাপ-দাদা’ বলেন না, বলেন তোমাদের বাপ-দাদাদের মধ্যে প্রথমতমদের কথা। এতে মন ছুটে যায় মনে রাখা প্রতিটি নাম পেরিয়ে বংশধারার একেবারে শুরুতে। মানুষ সম্মানের জন্য যত দূরই নিজের বংশ টেনে নিয়ে যাক, পথটা গিয়ে থামে কোনো খোদার কাছে নয়, এক কবরের কাছে। আর সেই কবরের আগে থামে এমন এক জন্মে, যা অন্য কেউ দান করেছে। বংশ সৎভাবে তার উৎস পর্যন্ত অনুসরণ করলে তা কোনো জাতিকে মুকুট পরায় না। বরং যিনি তাদের শুরু করেছেন, তাঁর সামনে তাদের নত করে।"
+            "bn": "‘আল-আউয়ালীন’ শব্দটি অনেক দূর পর্যন্ত পৌঁছায়। এর মানে প্রথম, সবচেয়ে আগের। মূসা (আঃ) শুধু ‘তোমাদের বাপ-দাদা’ বলেন না, বলেন তোমাদের আদি বাপ-দাদা। মন তখন মনে থাকা সব নাম পেরিয়ে চলে যায় বংশের একেবারে গোড়ায়। সম্মানের খোঁজে মানুষ নিজের বংশ যত দূরই টেনে নিয়ে যাক, পথ শেষ হয় কোনো খোদায় নয়, একটা কবরে। আর সেই কবরের আগে আছে একটা জন্ম, যা অন্য কারও দান। বংশকে সৎভাবে তার উৎস পর্যন্ত খুঁজলে তা কোনো জাতির মাথায় মুকুট পরায় না। বরং যিনি তাদের শুরু করেছেন, তাঁর সামনে তাদের মাথা নত করায়।"
           }
         ]
       },
@@ -633,27 +633,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi says Mūsā here added to the proof: he brought an argument the court could grasp from what they already knew. They knew they had fathers. They knew those fathers had perished. And they knew, therefore, that something must have brought them and taken them away, for people who once were not and then were must have a Cause behind their coming to be. The evidence is not imported from the sky; it is drawn from the family tree each of them could recite.",
-            "bn": "কুরতুবী বলেন, মূসা (আঃ) এখানে প্রমাণে আরও কিছু যোগ করলেন: এমন এক যুক্তি আনলেন যা দরবার তাদের জানা জিনিস থেকেই বুঝতে পারে। তারা জানত, তাদের বাপ-দাদা ছিল। তারা জানত, সেই বাপ-দাদা মরে গেছে। তাই তারা এটাও জানত যে, কেউ না কেউ তাদের এনেছে আর নিয়ে গেছে। কারণ যারা একসময় ছিল না, তারপর হলো, তাদের হয়ে ওঠার পেছনে অবশ্যই একটা কারণ থাকতে হবে। প্রমাণটা আকাশ থেকে আমদানি করা নয়। তা টেনে আনা হয়েছে সেই বংশতালিকা থেকে, যা তাদের প্রত্যেকে মুখস্থ বলতে পারত।"
+            "bn": "কুরতুবী বলেন, মূসা (আঃ) এখানে প্রমাণে আরও কিছু যোগ করলেন: এমন এক যুক্তি আনলেন যা দরবার তাদের জানা জিনিস থেকেই বুঝতে পারে। তারা জানত, তাদের বাপ-দাদা ছিল। তারা জানত, সেই বাপ-দাদা মরে গেছে। তাই তারা এটাও জানত যে, কেউ না কেউ তাদের এনেছে আর নিয়ে গেছে। কারণ যারা একসময় ছিল না, তারপর হলো, তাদের হয়ে ওঠার পেছনে অবশ্যই একটা কারণ থাকতে হবে। প্রমাণটা আকাশ থেকে আমদানি করা নয়। এসেছে সেই বংশতালিকা থেকে, যা তাদের প্রত্যেকে মুখস্থ বলতে পারত।"
           },
           {
             "en": "Al-Qurtubi presses the same line further. Those fathers came to be after having been nothing, and whatever crosses from non-existence into existence must have One who brings it across; they also stand in need of something to change and move them from state to state. This is the plain argument from origination: a made thing points beyond itself to its Maker. Pharaoh's dead forefathers are, in this reading, a standing proof against Pharaoh's own claim, written in his people's memory before Mūsā ever spoke.",
-            "bn": "কুরতুবী একই কথা আরও এগিয়ে নেন। সেই বাপ-দাদারা কিছুই ছিল না, তারপর হয়ে উঠল। আর যা অস্তিত্বহীনতা থেকে অস্তিত্বে পার হয়ে আসে, তাকে পার করানোর একজন থাকতেই হবে। তাদের এক অবস্থা থেকে আরেক অবস্থায় বদলে দেওয়ার, নাড়িয়ে দেওয়ার জন্যও কারও দরকার। এটাই সোজা কথায় সৃষ্টি হয়ে ওঠার যুক্তি: গড়া জিনিস নিজের বাইরে তার গড়নেওয়ালার দিকে ইশারা করে। এই পড়ায় ফেরাউনের মৃত বাপ-দাদারাই ফেরাউনের দাবির বিরুদ্ধে দাঁড়ানো এক প্রমাণ, যা মূসা (আঃ) মুখ খোলার আগেই তাদের জাতির স্মৃতিতে লেখা ছিল।"
+            "bn": "কুরতুবী এই যুক্তিকে আরও এগিয়ে নেন। সেই বাপ-দাদারা একসময় কিছুই ছিল না, তারপর অস্তিত্বে এলো। আর যা কিছু না-থাকা থেকে থাকায় আসে, তাকে নিয়ে আসার একজন থাকতেই হবে। তাদের এক অবস্থা থেকে আরেক অবস্থায় বদলানো আর চালানোর জন্যও কারও দরকার। সোজা কথায় এটাই সৃষ্টির যুক্তি: গড়া জিনিস নিজেকে ছাড়িয়ে তার স্রষ্টার দিকে ইশারা করে। এই ব্যাখ্যায় ফেরাউনের মৃত বাপ-দাদারাই ফেরাউনের নিজের দাবির বিরুদ্ধে এক স্থায়ী প্রমাণ। মূসা (আঃ) মুখ খোলার আগেই সেই প্রমাণ তার জাতির স্মৃতিতে লেখা ছিল।"
           },
           {
             "en": "It is worth pausing on how ordinary the evidence is. Mūsā offers no vision and no wonder here; he offers a graveyard. Every generation buries the one before it and is buried by the one after, and that unbroken handing-down of life and death is itself the signature of a Lord who neither is born nor dies. A people can inherit land, names and pride from their fathers. The one thing they cannot inherit is lordship, because their fathers did not own it either.",
-            "bn": "প্রমাণটা কত সাধারণ, সেখানে একটু থামা দরকার। মূসা (আঃ) এখানে কোনো স্বপ্ন বা বিস্ময় দেখান না, দেখান একটা কবরস্থান। প্রতিটি প্রজন্ম তার আগেরটিকে দাফন করে, আর পরেরটির হাতে দাফন হয়। জীবন আর মৃত্যুর এই অবিরাম হাতবদলই এমন এক রবের স্বাক্ষর, যিনি জন্মানও না, মরেনও না। মানুষ বাপ-দাদার কাছ থেকে জমি, নাম আর গর্ব উত্তরাধিকারে পেতে পারে। কিন্তু একটা জিনিস তারা কখনো উত্তরাধিকারে পায় না, তা হলো প্রভুত্ব। কারণ তাদের বাপ-দাদারাও তা নিজেদের বলে দাবি করতে পারত না।"
+            "bn": "প্রমাণটা যে কত সাধারণ, সেটা একটু থেমে ভাবার মতো। মূসা (আঃ) এখানে কোনো অলৌকিক দৃশ্য বা চমক দেখান না, দেখান একটা কবরস্থান। প্রতিটি প্রজন্ম তার আগেরটিকে দাফন করে, আর পরেরটির হাতে দাফন হয়। জীবন আর মৃত্যুর এই অবিরাম হাতবদলই এমন এক রবের স্বাক্ষর, যিনি জন্মানও না, মরেনও না। মানুষ বাপ-দাদার কাছ থেকে জমি, নাম আর গর্ব উত্তরাধিকারে পেতে পারে। কিন্তু একটা জিনিস তারা উত্তরাধিকারে পায় না, তা হলো প্রভুত্ব। কারণ তাদের বাপ-দাদারাও তো তার মালিক ছিল না।"
           }
         ]
       },
       {
         "h": {
           "en": "The God with Dead Fathers",
-          "bn": "মরে যাওয়া বাপ-দাদার দেবতা"
+          "bn": "যে খোদার বাপ-দাদা কবরে"
         },
         "p": [
           {
             "en": "Al-Muyassar draws out the sting that is only implied in the words. The Lord I call you to, it paraphrases, is the One who created you and created your forefathers, so how can you worship one who is himself created as you are, who has fathers that have perished as yours have? The question is aimed straight at the throne. Pharaoh set himself up as a god; yet Pharaoh was born, Pharaoh had a father, and Pharaoh's fathers were dust like any other man's.",
-            "bn": "যে খোঁচাটা শব্দের ভেতরে শুধু ইঙ্গিতে আছে, মুয়াসসার তা টেনে বের করে আনে। এর ব্যাখ্যায়, আমি তোমাদের যে রবের দিকে ডাকছি তিনিই তোমাদের আর তোমাদের বাপ-দাদাদের সৃষ্টি করেছেন। তাহলে তোমরা এমন একজনের ইবাদত করো কী করে, যে নিজেই তোমাদের মতো সৃষ্ট, যার বাপ-দাদারা তোমাদেরই মতো মরে গেছে? প্রশ্নটা সোজা সিংহাসনের দিকে তাক করা। ফেরাউন নিজেকে খোদা বানিয়ে বসেছিল। অথচ ফেরাউনের জন্ম হয়েছিল, ফেরাউনের বাপ ছিল, আর ফেরাউনের বাপ-দাদারা আর দশজন মানুষের মতোই মাটি হয়ে গেছে।"
+            "bn": "শব্দের ভেতরে যে খোঁচাটা শুধু ইঙ্গিতে আছে, মুয়াসসার তা খুলে দেখায়। তার ব্যাখ্যা মোটামুটি এই: আমি তোমাদের যে রবের দিকে ডাকছি, তিনিই তোমাদের আর তোমাদের বাপ-দাদাদের সৃষ্টি করেছেন। তাহলে তোমরা এমন একজনের ইবাদত করো কী করে, যে নিজেই তোমাদের মতো সৃষ্ট, যার বাপ-দাদারা তোমাদের বাপ-দাদার মতোই মরে গেছে? প্রশ্নটা সোজা সিংহাসনের দিকে তাক করা। ফেরাউন নিজেকে খোদা বানিয়ে বসেছিল। অথচ ফেরাউনের জন্ম হয়েছিল, ফেরাউনের বাপ ছিল, আর ফেরাউনের বাপ-দাদারা আর দশজন মানুষের মতোই মাটি হয়ে গেছে।"
           },
           {
             "en": "Here the whole confrontation tilts. A being with ancestors in the ground cannot be the ground of everything else; a lord who was once a helpless infant cannot be the Lord who was never born. Pharaoh's power over Egypt was real, but power is not lordship. He could enslave the Children of Israel and bend a kingdom to his will, yet he could not make himself uncreated, and he could not raise a single one of his own fathers from the grave to prove his claim. The god of the court had a family plot.",
@@ -661,27 +661,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is what the confession of one Lord means when it is set against a false one. It is not merely that God is greater than Pharaoh. It is that Pharaoh, forefathers and all, stands on the created side of a line he can never cross. A creature may be given a throne, an empire, even the worship of frightened men, and remain a creature to his last breath. Mūsā lets Pharaoh's own genealogy testify against that throne, and the testimony is unanswerable.",
-            "bn": "মিথ্যা এক রবের বিপরীতে দাঁড় করালে একই রবের স্বীকৃতির মানে এটাই। ব্যাপারটা শুধু এই নয় যে আল্লাহ ফেরাউনের চেয়ে বড়। ব্যাপারটা এই যে ফেরাউন, তার বাপ-দাদাসহ, এমন এক সীমার সৃষ্ট পাশে দাঁড়িয়ে, যা সে কখনো পার হতে পারবে না। কোনো সৃষ্টিকে সিংহাসন দেওয়া যেতে পারে, সাম্রাজ্য দেওয়া যেতে পারে, এমনকি ভীত মানুষের ইবাদতও পেতে পারে, তবু শেষ নিঃশ্বাস পর্যন্ত সে সৃষ্টিই থেকে যায়। মূসা (আঃ) ফেরাউনের নিজের বংশধারাকেই সেই সিংহাসনের বিরুদ্ধে সাক্ষী বানিয়ে দেন, আর সেই সাক্ষ্যের কোনো জবাব নেই।"
+            "bn": "এক মিথ্যা রবের মোকাবিলায় এক রবকে স্বীকার করার মানে এটাই। কথাটা শুধু এই নয় যে আল্লাহ ফেরাউনের চেয়ে বড়। কথাটা হলো, ফেরাউন তার বাপ-দাদাসহ দাঁড়িয়ে আছে এমন এক সীমারেখার এপারে, সৃষ্টির দিকে, যা সে কোনোদিন পার হতে পারবে না। কোনো সৃষ্টি সিংহাসন পেতে পারে, সাম্রাজ্য পেতে পারে, এমনকি ভয় পাওয়া মানুষের ইবাদতও পেতে পারে, তবু শেষ নিঃশ্বাস পর্যন্ত সে সৃষ্টিই থেকে যায়। মূসা (আঃ) ফেরাউনের নিজের বংশধারাকেই সেই সিংহাসনের বিরুদ্ধে সাক্ষী বানিয়ে দেন, আর সেই সাক্ষ্যের কোনো জবাব নেই।"
           }
         ]
       },
       {
         "h": {
           "en": "True Whether You Bow or Not",
-          "bn": "তুমি মানো বা না মানো"
+          "bn": "কেউ মাথা নোয়াক বা না নোয়াক"
         },
         "p": [
           {
             "en": "As-Sa'di catches a note the other commentators pass over. Having stated 'your Lord and the Lord of your first forefathers,' Mūsā adds nothing to soften it, whether you marvel at it or not, as-Sa'di glosses, whether you grow arrogant or you yield. The truth of God's lordship is not put to a vote of the court. It does not become more true if Pharaoh accepts it or less true if he sneers. Mūsā states the fact and leaves the response where it belongs, with those who heard it.",
-            "bn": "অন্য তাফসিরকারেরা যে সুরটা পেরিয়ে যান, সাদী তা ধরে ফেলেন। ‘তোমাদের রব আর তোমাদের পূর্ববর্তী বাপ-দাদার রব’ বলার পর মূসা (আঃ) তা নরম করতে আর কিছুই যোগ করেন না। সাদীর ভাষায়, তোমরা এতে বিস্মিত হও বা না হও, অহংকার করো বা মেনে নাও। আল্লাহর প্রভুত্বের সত্যতা দরবারের ভোটে ঠিক হয় না। ফেরাউন মানলে তা বেশি সত্য হয়ে যায় না, আর টিটকারি দিলে কম সত্য হয়ে যায় না। মূসা (আঃ) সত্যটা বলে দেন, আর জবাবটা যাদের, তাদের কাছেই ছেড়ে দেন, যারা তা শুনল।"
+            "bn": "অন্য তাফসিরকারেরা যে সুরটা পাশ কাটিয়ে যান, সাদী তা ধরে ফেলেন। ‘তোমাদের রব আর তোমাদের পূর্ববর্তী বাপ-দাদার রব’ বলার পর মূসা (আঃ) কথাটা নরম করতে আর কিছুই যোগ করেন না। সাদীর ভাষায়: তোমরা এতে অবাক হও বা না হও, অহংকার করো বা মেনে নাও। আল্লাহর প্রভুত্ব সত্য কি না, তা দরবারের ভোটে ঠিক হয় না। ফেরাউন মেনে নিলে তা বেশি সত্য হয়ে যায় না, টিটকারি দিলে কম সত্যও হয় না। মূসা (আঃ) সত্যটা বলে দেন, আর সাড়া দেওয়ার দায় ছেড়ে দেন যারা শুনল তাদের ওপর।"
           },
           {
             "en": "There is a discipline in that for anyone who carries an unwelcome truth into a hostile room. Mūsā does not raise his voice, does not flatter the court, and does not trim the claim to make it easier to swallow. He says what is so and trusts it to stand on its own weight. A truth that needs the powerful to approve it before it counts was never being treated as truth at all, only as a bid for favour.",
-            "bn": "প্রতিকূল ঘরে অপছন্দের সত্য নিয়ে ঢোকে যে কেউ, তার জন্য এতে একটা শিক্ষা আছে। মূসা (আঃ) গলা চড়ান না, দরবারকে তোষামোদ করেন না, আর গিলতে সহজ করতে দাবিটাকে ছেঁটেও ফেলেন না। যা সত্য তা তিনি বলে দেন, আর বিশ্বাস রাখেন যে তা নিজের ওজনেই দাঁড়িয়ে থাকবে। যে সত্যকে গোনায় ধরার আগে ক্ষমতাবানদের সায় লাগে, তাকে আসলে কখনো সত্য হিসেবেই দেখা হয়নি। দেখা হয়েছে তাদের অনুগ্রহ পাওয়ার একটা চেষ্টা হিসেবে।"
+            "bn": "অপ্রিয় সত্য নিয়ে যাকে বিরূপ মজলিসে যেতে হয়, তার জন্য এখানে একটা শিক্ষা আছে। মূসা (আঃ) গলা চড়ান না, দরবারের তোষামোদ করেন না, আর কথাটা সহজে গেলানোর জন্য দাবিটা ছেঁটেও ফেলেন না। যা সত্য তা-ই বলেন, আর ভরসা রাখেন, সত্য নিজের ওজনেই দাঁড়িয়ে থাকবে। যে সত্যের দাম পেতে আগে ক্ষমতাবানদের সায় লাগে, তাকে আসলে কখনো সত্য বলে ধরাই হয়নি। ধরা হয়েছে তাদের সুনজর পাওয়ার একটা চেষ্টা হিসেবে।"
           },
           {
             "en": "For the reader, that changes what courage in speech looks like. It is not volume and it is not cleverness. It is the willingness to say the true thing and then fall silent, refusing to bargain it down when the room turns cold. Mūsā had already conceded his own past fault without flinching; he could therefore state God's lordship without needing anyone's leave. The man who owns his smallness is the one who can name the truth to a king.",
-            "bn": "পাঠকের জন্য এতে কথায় সাহস মানে কী, তা বদলে যায়। সাহস মানে গলার জোর নয়, চালাকিও নয়। সাহস হলো সত্য কথাটা বলে দিয়ে চুপ করে যাওয়া, ঘর ঠান্ডা হয়ে গেলেও তা দরদাম করে কমাতে অস্বীকার করা। মূসা (আঃ) আগেই নিজের অতীত ভুল না কেঁপে মেনে নিয়েছিলেন। তাই কারও অনুমতির দরকার ছাড়াই তিনি আল্লাহর প্রভুত্ব ঘোষণা করতে পেরেছিলেন। যে মানুষ নিজের ক্ষুদ্রতা মেনে নেয়, সে-ই একজন রাজার সামনে সত্য বলতে পারে।"
+            "bn": "এতে পাঠকের কাছে কথার সাহসের মানেটাই বদলে যায়। সাহস মানে গলার জোর নয়, চালাকিও নয়। সাহস হলো সত্য কথাটা বলে চুপ হয়ে যাওয়া, আর মজলিসের মেজাজ বিগড়ে গেলেও সেই কথা নিয়ে দরদাম করে তা কমাতে রাজি না হওয়া। মূসা (আঃ) আগেই একটুও না ঘাবড়ে নিজের অতীতের ভুল মেনে নিয়েছিলেন। তাই কারও অনুমতির তোয়াক্কা না করে তিনি আল্লাহর প্রভুত্বের কথা বলতে পেরেছিলেন। যে মানুষ নিজের ক্ষুদ্রতা মেনে নেয়, সে-ই পারে বাদশাহর মুখের ওপর সত্য বলতে।"
           }
         ]
       },
@@ -693,11 +693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Maʿarif al-Qurʾan steps back to name what kind of exchange this is. A prophet's debate is not the sport it has become in other hands, where the aim is to be seen to win even while knowing oneself to be wrong. Earlier in this same scene Mūsā had openly admitted his fault in the death of the Egyptian (26:20) rather than dress it up, and had turned Pharaoh's boast of favour into a charge about the enslaved (26:22). His argument serves the truth, not his standing.",
-            "bn": "এটা কোন ধরনের বিতর্ক, মাআরিফুল কুরআন একটু পিছিয়ে গিয়ে তা চিনিয়ে দেয়। নবীর তর্ক অন্যদের হাতে যা হয়ে দাঁড়িয়েছে সেই খেলা নয়, যেখানে নিজে ভুল জেনেও জেতা দেখানোটাই লক্ষ্য। এই একই দৃশ্যের আগে মূসা (আঃ) মিসরীয়ের মৃত্যুতে নিজের ভুল খোলাখুলি স্বীকার করেছিলেন (২৬:২০), তা সাজিয়ে-গুছিয়ে ঢাকেননি। আর ফেরাউনের অনুগ্রহের বড়াইকে তিনি দাস বানানোর অভিযোগে ঘুরিয়ে দিয়েছিলেন (২৬:২২)। তাঁর যুক্তি সত্যের সেবা করে, নিজের মান বাড়ানোর নয়।"
+            "bn": "মাআরিফুল কুরআন একটু পিছিয়ে দাঁড়িয়ে চিনিয়ে দেয়, এটা কোন ধরনের বিতর্ক। অন্যদের হাতে তর্ক যে খেলায় পরিণত হয়েছে, নবীর তর্ক সে খেলা নয়: নিজে ভুল জেনেও জিতেছি দেখানোটাই যেখানে লক্ষ্য। এই দৃশ্যেরই আগের দিকে মূসা (আঃ) মিসরীয় লোকটির মৃত্যুতে নিজের ভুল খোলাখুলি স্বীকার করেছিলেন (২৬:২০), সাজিয়ে-গুছিয়ে ঢাকেননি। আর ফেরাউনের অনুগ্রহের বড়াইকে ঘুরিয়ে দিয়েছিলেন দাস বানানোর অভিযোগে (২৬:২২)। তাঁর যুক্তি সত্যের সেবা করে, নিজের মান বাড়ানোর জন্য নয়।"
           },
           {
             "en": "That is why his answer keeps returning the court to what they cannot deny. He does not demand they admire a distant heaven; he sets a mirror before them made of their own dead. A man who argues only to defeat you will reach for whatever wounds. A messenger who argues to save you keeps handing you the one fact you already carry and have refused to read. Mūsā's whole reply is an act of mercy wearing the shape of a rebuke.",
-            "bn": "এ কারণেই তাঁর জবাব বারবার দরবারকে সেই দিকে ফিরিয়ে আনে, যা তারা অস্বীকার করতে পারে না। তিনি দূরের আসমানের প্রশংসা করতে বলেন না। তিনি তাদের সামনে ধরেন এমন এক আয়না, যা গড়া তাদেরই মৃতদের দিয়ে। যে মানুষ শুধু হারানোর জন্য তর্ক করে, সে আঘাত করার মতো যা পায় তা-ই তুলে নেয়। আর যে রাসূল বাঁচানোর জন্য তর্ক করেন, তিনি বারবার তুলে ধরেন সেই একটি সত্য, যা তুমি আগে থেকেই বহন করছ অথচ পড়তে অস্বীকার করেছ। মূসা (আঃ)-এর গোটা জবাব ভর্ৎসনার চেহারায় আসলে এক দয়ার কাজ।"
+            "bn": "এ কারণেই তাঁর জবাব বারবার দরবারকে ফিরিয়ে আনে এমন কিছুর কাছে, যা তারা অস্বীকার করতে পারে না। দূরের আসমানের তারিফ করতে তিনি তাদের বলেন না। তাদের সামনে তিনি ধরেন এক আয়না, যা তাদেরই মৃতদের দিয়ে গড়া। যে লোক শুধু আপনাকে হারাতে তর্ক করে, আঘাত দেওয়ার মতো যা পায় সে তা-ই তুলে নেয়। আর যে রাসূল আপনাকে বাঁচাতে তর্ক করেন, তিনি বারবার আপনার সামনে তুলে ধরেন সেই একটি সত্য, যা আপনি আগে থেকেই বয়ে বেড়াচ্ছেন অথচ পড়ে দেখতে রাজি হননি। মূসা (আঃ)-এর গোটা জবাবটা আসলে ভর্ৎসনার চেহারায় এক দয়া।"
           }
         ]
       },
@@ -709,7 +709,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentators read for this verse tie a hadith to it, so the report that follows is offered for its theme, not as a comment on 26:26. In Sahih al-Bukhari, Abu Huraira relates that the Prophet ﷺ said, 'Every child is born with a true faith of Islam and his parents convert him to Judaism or Christianity or Magianism, as an animal delivers a perfect baby animal. Do you find it mutilated?' The recognition of one Lord, in this telling, is where a soul begins.",
-            "bn": "এই আয়াতের জন্য পড়া কোনো তাফসিরকারই এর সঙ্গে কোনো হাদিস জোড়েননি। তাই নিচের বর্ণনাটি তুলে ধরা হলো তার ভাবের জন্য, ২৬:২৬-এর ব্যাখ্যা হিসেবে নয়। সহিহ বুখারিতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন, ‘প্রতিটি শিশু ইসলামের খাঁটি ফিতরাতের ওপর জন্ম নেয়, তারপর তার বাপ-মা তাকে ইহুদি, খ্রিস্টান বা অগ্নিপূজক বানায়, যেমন একটি পশু পরিপূর্ণ বাচ্চা প্রসব করে। তোমরা কি তার মধ্যে কোনো অঙ্গহানি দেখো?’ এ বর্ণনায়, একই রবকে চেনার জায়গা থেকেই একটি প্রাণের শুরু।"
+            "bn": "এই আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতেই আয়াতের সঙ্গে কোনো হাদিস জোড়া নেই। তাই নিচের বর্ণনাটি আনা হলো বিষয়ের মিলের জন্য, ২৬:২৬-এর ব্যাখ্যা হিসেবে নয়। সহিহ বুখারিতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন, ‘প্রতিটি শিশু ইসলামের খাঁটি ফিতরাতের ওপর জন্ম নেয়, তারপর তার বাপ-মা তাকে ইহুদি, খ্রিস্টান বা অগ্নিপূজক বানায়, যেমন একটি পশু পরিপূর্ণ বাচ্চা প্রসব করে। তোমরা কি তার মধ্যে কোনো অঙ্গহানি দেখো?’ এই বর্ণনা অনুযায়ী, এক রবকে চেনা দিয়েই মানুষের আত্মার শুরু।"
           },
           {
             "en": "Set beside 26:26, the image is exact. Mūsā tells the court that the Lord is the Lord of their first forefathers; the hadith shows how those very forefathers become the ones who turn a child away from what it was born knowing. Reverence for ancestors can carry a soul home or it can bury the road. Pharaoh's people had let their fathers stand between them and their Lord. Mūsā points them past the fathers to the One the fathers themselves belonged to.",
@@ -725,7 +725,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One thing must be said plainly, in both languages. This scene records the denial of a particular tyrant in his own court and the answer God's messenger gave him; it describes what the text describes and licenses nothing against any living person or community. The verse humbles the claim to be divine; it does not authorise contempt for anyone's ancestors, heritage or nation. To honour where you come from is no sin. Pharaoh's sin was to make himself the lord that even his fathers had needed.",
-            "bn": "একটা কথা দুই ভাষাতেই সোজাসুজি বলা দরকার। এই দৃশ্য এক নির্দিষ্ট স্বৈরশাসকের নিজের দরবারে করা অস্বীকার আর আল্লাহর রাসূলের দেওয়া জবাব লিপিবদ্ধ করে। এখানে যা বর্ণিত হয়েছে আয়াত তা-ই বর্ণনা করে, কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আয়াতটি খোদা হওয়ার দাবিকে নত করে, কারও পূর্বপুরুষ, ঐতিহ্য বা জাতির প্রতি ঘৃণার অনুমতি দেয় না। কোথা থেকে এসেছ তাকে সম্মান করা কোনো গুনাহ নয়। ফেরাউনের গুনাহ ছিল নিজেকে সেই রব বানিয়ে তোলা, যাঁকে তার বাপ-দাদারও দরকার ছিল।"
+            "bn": "একটা কথা দুই ভাষাতেই সোজাসুজি বলা দরকার। এই দৃশ্যে আছে এক নির্দিষ্ট স্বৈরশাসকের নিজের দরবারে করা অস্বীকার, আর আল্লাহর রাসূল তাকে যে জবাব দিয়েছিলেন সেই কথা। আয়াত যা বলে, শুধু সেটুকুই বলে; কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। আয়াতটি খোদা হওয়ার দাবিকে মাটিতে নামিয়ে আনে, কিন্তু কারও পূর্বপুরুষ, ঐতিহ্য বা জাতিকে তুচ্ছ করার অনুমতি দেয় না। নিজের শিকড়কে সম্মান করা কোনো গুনাহ নয়। ফেরাউনের গুনাহ ছিল নিজেকে সেই রব বানিয়ে বসা, যাঁর প্রয়োজন তার বাপ-দাদারও ছিল।"
           },
           {
             "en": "The court's answer comes in the next verse. Unable to meet the proof, Pharaoh drops the argument and reaches for the slur: 'Indeed your messenger who has been sent to you is mad' (26:27). Ibn Kathir notes that when Pharaoh was beaten in the exchange he fell back on force and derision, having nothing left to say. It is the oldest reflex of a cornered power: when the point cannot be answered, discredit whoever made it. The verse stands, and so do the graves behind it.",
@@ -733,7 +733,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the verse leaves the reader where it left the court, standing among the graves of the fathers. The question it presses is not whether Pharaoh had a Lord; he plainly did, whatever he claimed. The question is the one it hands to us: under whose lordship do we actually live, once the inherited names and the borrowed pride are set aside? Everyone we come from answered to God. What is left is to decide whether we do so knowingly, or are carried past the answer as Pharaoh was.",
-            "bn": "তাই আয়াতটি পাঠককে সেখানেই রেখে যায় যেখানে দরবারকে রেখেছিল, বাপ-দাদার কবরের মাঝখানে। এটি যে প্রশ্নটা সামনে আনে তা এই নয় যে ফেরাউনের কোনো রব ছিল কি না। সে যা-ই দাবি করুক, তার রব স্পষ্টতই ছিল। আসল প্রশ্নটা সেই একটি, যা আয়াত আমাদের হাতে তুলে দেয়: উত্তরাধিকারে পাওয়া নাম আর ধার করা গর্ব সরিয়ে রাখলে আমরা আসলে কার প্রভুত্বের অধীনে বাস করি? আমরা যাদের থেকে এসেছি, তারা সবাই আল্লাহরই কাছে জবাবদিহি করত। ঠিক করার বাকি শুধু এটুকু, আমরা তা জেনেবুঝে করব, নাকি ফেরাউনের মতো জবাবটা পেরিয়ে ভেসে যাব।"
+            "bn": "তাই আয়াতটি পাঠককে সেখানেই রেখে যায়, যেখানে দরবারকে রেখে গিয়েছিল: বাপ-দাদার কবরগুলোর মাঝখানে। আয়াত যে প্রশ্নটা চেপে ধরে, তা এ নয় যে ফেরাউনের কোনো রব ছিল কি না। সে যা-ই দাবি করুক, রব তার অবশ্যই ছিল। আসল প্রশ্নটা আয়াত তুলে দেয় আমাদের হাতে: উত্তরাধিকারে পাওয়া নাম আর ধার করা গর্ব সরিয়ে রাখলে আমরা আসলে কার প্রভুত্বের অধীনে বাস করি? আমরা যাদের থেকে এসেছি, তারা সবাই আল্লাহর কাছেই জবাবদিহি করত। এখন শুধু ঠিক করার বাকি, আমরা তা জেনেবুঝে করব, নাকি ফেরাউনের মতো জবাবটা পাশ কাটিয়ে ভেসে যাব।"
           }
         ]
       }
@@ -749,7 +749,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The scene is set two verses earlier. In 26:32 Mūsā (AS) threw down his staff and it became a serpent, manifest; in 26:33 he drew out his hand and it came white for all who watched. Ibn Kathir describes the serpent as enormous in body and wide of mouth, terrifying to see, and the hand as shining like a piece of the moon. Before any of this, in 26:29, Pharaoh had already threatened prison. Ibn Kathir notes that proof had by now been established against him clearly and rationally, leaving no honest room for argument.",
-            "bn": "দৃশ্যটা সাজানো হয়েছে দুই আয়াত আগে। ২৬:৩২ আয়াতে মূসা (আঃ) নিজের লাঠি ছুঁড়ে দিলেন, আর তা হয়ে গেল স্পষ্ট এক অজগর; ২৬:৩৩ আয়াতে হাত বের করলেন, তা সবার চোখের সামনে ঝকঝকে সাদা হয়ে উঠল। ইবন কাসীর বলেন, অজগরটি ছিল বিশাল দেহের, বড় হাঁ করা মুখের, দেখতে ভয়ংকর, আর হাতটি জ্বলছিল যেন চাঁদের এক টুকরো। এর আগেই, ২৬:২৯ আয়াতে, ফেরাউন কারাগারের ভয় দেখিয়েছিল। ইবন কাসীর ধরিয়ে দেন, এতক্ষণে তার বিরুদ্ধে যুক্তি আর প্রমাণ স্পষ্ট হয়ে দাঁড়িয়ে গেছে, তর্কের সৎ কোনো জায়গা আর বাকি নেই।"
+            "bn": "দৃশ্যের শুরু দুই আয়াত আগে। ২৬:৩২ আয়াতে মূসা (আঃ) নিজের লাঠি ছুঁড়ে দিলেন, আর তা হয়ে গেল স্পষ্ট এক অজগর; ২৬:৩৩ আয়াতে হাত বের করলেন, তা সবার চোখের সামনে ঝকঝকে সাদা হয়ে উঠল। ইবন কাসীর বলেন, অজগরটি ছিল বিশাল দেহের, বড় হাঁ করা মুখের, দেখতে ভয়ংকর, আর হাতটি জ্বলছিল যেন চাঁদের এক টুকরো। এর আগেই, ২৬:২৯ আয়াতে, ফেরাউন কারাগারের ভয় দেখিয়েছিল। ইবন কাসীর ধরিয়ে দেন, এতক্ষণে তার বিরুদ্ধে যুক্তি আর প্রমাণ স্পষ্ট হয়ে দাঁড়িয়ে গেছে, তর্কের সৎ কোনো জায়গা আর বাকি নেই।"
           },
           {
             "en": "Our verse is what he reaches for next. Ibn Kathir writes that, since Pharaoh was already doomed, he hastened to stubborn denial and said to the chiefs around him that this was a well-versed sorcerer. Notice what he does not say. He does not claim the staff never moved or the hand never shone; the whole hall had watched. He does not deny that the event happened. He renames it. The thing itself stands unchallenged; only its name is changed, and with the name, its meaning changes too.",
@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That turn is itself an act. These chiefs are the court whose loyalty holds his throne, and it is to them, not to the truth of what he saw, that he speaks. The verdict is announced to the audience before the audience can weigh the sign for itself; the label is set in place while the serpent is still fresh in every eye. What looks like a comment on Mūsā (AS) is really the handling of a room. He is not asking what the sign means. He is telling his people what to call it.",
-            "bn": "এই মুখ ফেরানোটাই একটা কাজ। এই প্রধানরাই সেই দরবার, যাদের আনুগত্যে তার সিংহাসন টিকে আছে; আর সে কথা বলছে তাদেরই সঙ্গে, যা দেখল তার সত্যের সঙ্গে নয়। দর্শকরা নিজেরা নিদর্শন যাচাই করার আগেই তাদের কানে রায়টা পৌঁছে দেওয়া হলো; অজগর তখনো সবার চোখে টাটকা, এরই মধ্যে তকমাটা বসিয়ে দেওয়া হলো। যা দেখতে মূসা (আঃ)-এর নামে মন্তব্য, তা আসলে একটা ঘর সামলানো। সে জিজ্ঞেস করছে না নিদর্শনটার মানে কী। সে তার লোকদের বলে দিচ্ছে একে কী বলে ডাকতে হবে।"
+            "bn": "মুখ ফেরানোটাই একটা চাল। এই প্রধানদের আনুগত্যেই তার সিংহাসন টিকে আছে। সে কথা বলছে তাদের সঙ্গে, নিজের চোখে দেখা সত্যের সঙ্গে নয়। দরবারের লোকেরা নিজেরা নিদর্শনটা যাচাই করার আগেই তাদের কানে রায় পৌঁছে গেল; অজগরের ছবি তখনো সবার চোখে টাটকা, আর এরই মধ্যে তকমাটা বসে গেল। দেখতে মনে হয় মূসা (আঃ)-কে নিয়ে মন্তব্য, আসলে তা দরবারের মন সামলানো। সে জানতে চাইছে না নিদর্শনটার মানে কী। সে তার লোকদের বলে দিচ্ছে, একে কী নামে ডাকতে হবে।"
           }
         ]
       },
@@ -781,11 +781,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari spells out the content of the charge. On the words inna hādhā la-sāḥir, indeed this is a magician, he gives Pharaoh's meaning: Mūsā enchanted his staff, he says, until he made you see it as a serpent. The claim is precise, and that is what makes it useful. It does not deny that the court saw a serpent. It grants the sight and explains it as a trick worked upon the eyes, a thing done to them rather than a thing shown to them by God.",
-            "bn": "অভিযোগটার ভেতরে কী আছে, তাবারী তা খুলে বলেন। ইন্না হাযা লাসাহির, নিশ্চয়ই এ এক যাদুকর, এই কথার ফেরাউনি মানে তিনি ধরিয়ে দেন: মূসা তার লাঠির উপর যাদু করেছে, বলেন তিনি, যাতে তোমাদের চোখে তা অজগর হয়ে ধরা দেয়। অভিযোগটা মেপে বলা, আর এখানেই এর কাজ। দরবার যে অজগর দেখেছে, তা সে অস্বীকার করে না। দেখাটা মেনে নিয়ে সে বলে, এ চোখের উপর চালানো এক ভেলকি, আল্লাহর দেখানো কিছু নয়, বরং তাদের সঙ্গে করা এক কারসাজি।"
+            "bn": "অভিযোগের ভেতরে ঠিক কী আছে, তাবারী তা খুলে বলেন। ইন্না হাযা লাসাহির, নিশ্চয়ই এ এক যাদুকর: তাবারীর ব্যাখ্যায় ফেরাউনের কথার মানে হলো, মূসা তার লাঠিতে যাদু করেছে, যাতে তোমাদের চোখে সেটাকে অজগর মনে হয়। অভিযোগটা মেপে-জুখে বলা, আর এখানেই তার কাজের জোর। দরবার যে অজগর দেখেছে, অভিযোগটা তা অস্বীকার করে না। দেখাটা মেনে নিয়েই বলে, এ হলো চোখের ওপর চালানো এক ভেলকি, তাদের সঙ্গে করা এক কারসাজি, আল্লাহর দেখানো কোনো নিদর্শন নয়।"
           },
           {
             "en": "Ibn Kathir names the strategy in one clause. He writes that Pharaoh promoted to them the idea that this belonged to the category of magic and not to the category of miracle. Everything turns on that single sorting. The same staff, the same serpent, the same shining hand, filed now under a heading that asks nothing of anyone. A miracle would demand submission, for it points past the man to the One who sent him. Magic points back at the man, and a man can be dismissed in a way that a sign from God cannot.",
-            "bn": "ইবন কাসীর কৌশলটার নাম দেন এক বাক্যে। তিনি লেখেন, ফেরাউন তাদের কাছে চালিয়ে দিল যে এ জিনিস যাদুর গোত্রের, মুজিযার গোত্রের নয়। সব কিছু ঝুলে থাকে ওই একটামাত্র ভাগ করার উপর। একই লাঠি, একই অজগর, একই ঝলমলে হাত, এখন বসিয়ে দেওয়া হলো এমন এক শিরোনামের নিচে যা কারও কাছে কিছু চায় না। মুজিযা মাথা নত করতে বলে, কারণ তা মানুষটাকে ছাড়িয়ে সেই সত্তার দিকে ইশারা করে যিনি তাকে পাঠিয়েছেন। যাদু ইশারা করে মানুষটার দিকেই, আর একজন মানুষকে যেভাবে উড়িয়ে দেওয়া যায়, আল্লাহর নিদর্শনকে সেভাবে যায় না।"
+            "bn": "ইবন কাসীর কৌশলটার নাম দেন এক বাক্যে। তিনি লেখেন, ফেরাউন তাদের মধ্যে চালিয়ে দিল যে এ জিনিস যাদুর শ্রেণির, মুজিযার শ্রেণির নয়। সবকিছু নির্ভর করছে এই এক ভাগাভাগির ওপর। সেই একই লাঠি, একই অজগর, একই ঝলমলে হাত, এখন রাখা হলো এমন এক খাতে, যা কারও কাছে কিছুই দাবি করে না। মুজিযা মাথা নোয়াতে বলে, কারণ তা মানুষটাকে ছাড়িয়ে ইশারা করে তাঁর দিকে, যিনি তাকে পাঠিয়েছেন। যাদু ইশারা করে মানুষটার দিকেই। আর একজন মানুষকে যেভাবে উড়িয়ে দেওয়া যায়, আল্লাহর নিদর্শনকে সেভাবে যায় না।"
           }
         ]
       },
@@ -801,7 +801,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That description is not careless praise; it does work. Ordinary conjuring could be laughed off, but it could not account for a serpent that filled the hall and a hand that lit it. By making Mūsā (AS) a magician of the first rank, Pharaoh explains the sheer force of the sign without admitting where it came from: it overwhelmed you, he implies, because the man is that skilled, not because God stands behind him. The more undeniable the sign, the greater the magician has to be. The label simply grows to fit the evidence, so the evidence never has to be met.",
-            "bn": "এই বর্ণনাটা এলোমেলো প্রশংসা নয়, এর একটা কাজ আছে। সাধারণ ভেলকি হলে হেসে উড়িয়ে দেওয়া যেত, কিন্তু গোটা দরবার ভরে ফেলা অজগর আর আলো ছড়ানো হাতকে তা দিয়ে বোঝানো যায় না। মূসা (আঃ)-কে প্রথম সারির যাদুকর বানিয়ে ফেরাউন নিদর্শনের প্রচণ্ড জোরটা বুঝিয়ে দেয়, অথচ তা কোথা থেকে এল সেটা স্বীকার করে না। সে ইঙ্গিত করে, তোমরা হতভম্ব হয়েছ কারণ লোকটা এত দক্ষ, আল্লাহ পেছনে আছেন বলে নয়। নিদর্শন যত অস্বীকার-অযোগ্য, যাদুকরকে তত বড় বানাতে হয়। তকমাটা প্রমাণের মাপে বেড়ে যায়, যাতে প্রমাণের মুখোমুখি কখনো হতে না হয়।"
+            "bn": "এই বিশেষণ বেখেয়ালে দেওয়া প্রশংসা নয়, এর একটা কাজ আছে। সাধারণ ভেলকি হলে হেসে উড়িয়ে দেওয়া যেত, কিন্তু তা দিয়ে গোটা দরবার জুড়ে থাকা অজগর আর দরবার আলো করা হাতের ব্যাখ্যা হয় না। মূসা (আঃ)-কে প্রথম সারির যাদুকর বানিয়ে ফেরাউন নিদর্শনের প্রচণ্ড জোরের একটা ব্যাখ্যা দাঁড় করায়, অথচ সেটা কোথা থেকে এল তা স্বীকার করে না। তার ইঙ্গিত: তোমরা হতভম্ব হয়েছ কারণ লোকটা এত দক্ষ, আল্লাহ তার পেছনে আছেন বলে নয়। নিদর্শনকে অস্বীকার করা যত কঠিন, যাদুকরকেও তত বড় বানাতে হয়। তকমাটা প্রমাণের মাপে বাড়তে থাকে, যাতে প্রমাণের মুখোমুখি কখনো হতে না হয়।"
           }
         ]
       },
@@ -813,11 +813,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Muyassar supplies the motive the other commentators leave implicit. He writes that Pharaoh spoke to the nobles out of fear that they would believe. That is the exposed nerve. The danger was not that Mūsā (AS) might be right in some distant sense; it was that these men, having just watched the sign with their own eyes, were on the edge of being convinced. The accusation is a firewall thrown up in a hurry, meant to stop belief from spreading through the court before it could take hold in a single heart.",
-            "bn": "বাকি তাফসীরকারেরা যে কারণটা চাপা রাখেন, মুয়াসসার তা সামনে আনেন। তিনি লেখেন, ফেরাউন প্রধানদের সঙ্গে কথা বলল এই ভয়ে যে তারা ঈমান এনে ফেলবে। এখানেই তার দুর্বল জায়গা। বিপদ এ নয় যে মূসা (আঃ) দূর কোনো অর্থে ঠিক হতে পারেন; বিপদ হলো, এই লোকেরা নিজের চোখে নিদর্শন দেখে ঈমান আনার একেবারে দোরগোড়ায় এসে গেছে। অভিযোগটা তড়িঘড়ি তুলে দেওয়া এক দেয়াল, একটিমাত্র অন্তরেও জেঁকে বসার আগেই দরবারে ঈমানের ছড়িয়ে পড়া ঠেকাতে।"
+            "bn": "অন্য তাফসীরকারেরা যে উদ্দেশ্যটা মুখে আনেন না, মুয়াসসার তা খুলে বলেন। তিনি লেখেন, ফেরাউন প্রধানদের সঙ্গে কথা বলেছিল এই ভয়ে যে তারা ঈমান এনে ফেলবে। এখানেই তার কাঁচা জায়গা। মূসা (আঃ) কোনো দূরবর্তী অর্থে সঠিক হতে পারেন, বিপদটা তা নয়। বিপদ হলো, এই লোকেরা সবেমাত্র নিজের চোখে নিদর্শন দেখেছে, ঈমান আনার একেবারে কিনারায় এসে দাঁড়িয়েছে। অভিযোগটা তড়িঘড়ি তোলা এক বাঁধ। উদ্দেশ্য, ঈমান কোনো একটি অন্তরে শিকড় গাড়ার আগেই দরবারে তার ছড়িয়ে পড়া ঠেকানো।"
           },
           {
             "en": "As-Sa'di compresses the whole act into one phrase: Pharaoh said this opposing the truth and the man who brought it. Message and messenger are named together as the target. Ibn Kathir adds the next beat. Having filed the sign under magic, Pharaoh then stirred the chiefs up and incited them against Mūsā (AS), warning them, in 26:35, that the sign was a scheme to drive them from their land. The fear of losing the room is dressed up as fear for the nation, and a ruler's private threat is handed to the crowd as a public defence.",
-            "bn": "সা'দী গোটা ব্যাপারটা একটি বাক্যে গুছিয়ে দেন: ফেরাউন এ কথা বলল সত্যের আর যিনি সত্য এনেছেন তাঁর বিরোধিতা করে। কথা আর কথা-বাহক, দুজনকেই একসঙ্গে নিশানা করা হয়। ইবন কাসীর পরের ধাপটা জুড়ে দেন। নিদর্শনকে যাদুর ঘরে ফেলে ফেরাউন এবার প্রধানদের খেপিয়ে তোলে, মূসা (আঃ)-এর বিরুদ্ধে উসকে দেয়, আর ২৬:৩৫ আয়াতে ভয় দেখায় যে এ নিদর্শন আসলে তাদের দেশ থেকে বের করে দেওয়ার ফন্দি। দরবার হাতছাড়া হওয়ার ভয়কে সাজানো হয় দেশের ভয় বলে, আর শাসকের নিজের হুমকিকে জনতার হাতে তুলে দেওয়া হয় দেশরক্ষার নাম দিয়ে।"
+            "bn": "সা'দী গোটা ব্যাপারটা এক বাক্যে গুছিয়ে দেন: ফেরাউন এ কথা বলেছিল সত্যের এবং সত্য যিনি এনেছেন তাঁর বিরোধিতায়। বার্তা আর বার্তাবাহক দুজনই একসঙ্গে নিশানা। ইবন কাসীর পরের ধাপটা জুড়ে দেন। নিদর্শনকে যাদুর খাতে ফেলে ফেরাউন এবার প্রধানদের খেপিয়ে তোলে, মূসা (আঃ)-এর বিরুদ্ধে উসকে দেয়। ২৬:৩৫ আয়াতে সে ভয় দেখায়, এ নিদর্শন আসলে তাদের দেশ থেকে বের করে দেওয়ার ফন্দি। দরবার হাতছাড়া হওয়ার ভয় সাজে দেশের জন্য দুশ্চিন্তার পোশাকে, আর শাসকের ব্যক্তিগত বিপদকে জনতার সামনে হাজির করা হয় দেশরক্ষার নামে।"
           }
         ]
       },
@@ -829,7 +829,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Step back from the exchange and something turns over. The one thing in that hall that was genuinely not magic was the sign, and the one word Pharaoh pinned to it was magic. What had truly come from God was assigned the very name of the craft that sets itself up against God. Read alongside Ibn Kathir's own distinction, the point sharpens: Pharaoh took a real miracle and sorted it into the exact category that exists to explain miracles away. The truest sign in the room was called the one thing it could not be.",
-            "bn": "কথা-কাটাকাটি থেকে একটু সরে দাঁড়ালে একটা ব্যাপার উল্টে যায়। ওই দরবারে যে জিনিসটা সত্যিই যাদু ছিল না, তা হলো নিদর্শন; আর ফেরাউন তার গায়ে যে শব্দটা সেঁটে দিল, তা হলো যাদু। যা সত্যিকারভাবে আল্লাহর কাছ থেকে এসেছিল, তাকে দেওয়া হলো সেই বিদ্যার নাম যা আল্লাহর মোকাবিলায় নিজেকে দাঁড় করায়। ইবন কাসীরের নিজের ভাগটার পাশে রাখলে কথাটা আরও ধারালো হয়: ফেরাউন এক সত্যিকারের মুজিযাকে ঠিক সেই ঘরে ফেলল, যে ঘর তো মুজিযাকে উড়িয়ে দিতেই বানানো। দরবারের সবচেয়ে খাঁটি নিদর্শনকে বলা হলো এমন কিছু, যা সে কিছুতেই নয়।"
+            "bn": "কথা-কাটাকাটি থেকে একটু দূরে দাঁড়ালে ছবিটা উল্টে যায়। ওই দরবারে একটাই জিনিস ছিল যা সত্যিই যাদু নয়, সেটা হলো নিদর্শন; আর ফেরাউন ঠিক তার গায়েই সেঁটে দিল ‘যাদু’ শব্দটা। যা সত্যিই আল্লাহর কাছ থেকে এসেছিল, তাকে দেওয়া হলো সেই বিদ্যার নাম, যে বিদ্যা আল্লাহর মোকাবিলায় নিজেকে দাঁড় করায়। ইবন কাসীর নিজে যে ভাগ টেনেছেন, তার পাশে রাখলে কথাটা আরও ধারালো হয়: ফেরাউন এক সত্যিকারের মুজিযাকে ঠিক সেই খাতে ফেলল, যে খাতের কাজই হলো মুজিযাকে ব্যাখ্যা করে উড়িয়ে দেওয়া। দরবারের সবচেয়ে খাঁটি নিদর্শনকে বলা হলো ঠিক সেই জিনিস, যা সে কোনোভাবেই হতে পারে না।"
           },
           {
             "en": "That move did not die with Pharaoh. Whenever a truth arrives that would cost the hearer something to accept, the cheapest defence is not to argue the truth at all but to reassign the person who carries it. He is a fraud, an agent, a fanatic, in it for himself; and once the man is named, the message need never be weighed. It is effective precisely because it demands nothing of the audience. They keep what they have, change none of it, and walk away feeling they have answered when they have only renamed.",
@@ -845,27 +845,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it, so what follows is a general narration, not tied to 26:34, that lights up the disposition behind Pharaoh's words. Muslim records, from Ibn Mas'ud (RA), that the Prophet ﷺ said that no one with a mustard-seed's weight of pride in his heart will enter Paradise. When a man asked whether liking fine clothes and shoes was such pride, the Prophet ﷺ answered that Allah is beautiful and loves beauty, then defined what he meant: pride is disdaining the truth and holding people in contempt.",
-            "bn": "এ আয়াতের জন্য দেখা তাফসীরগুলোর একটিও এর সঙ্গে কোনো হাদীস জোড়ে না, তাই যা আসছে তা একটি সাধারণ বর্ণনা, ২৬:৩৪-এর সঙ্গে বাঁধা নয়, তবে ফেরাউনের কথার পেছনের মেজাজটা আলোয় আনে। মুসলিম ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, যার অন্তরে সরিষার দানার সমান অহংকার আছে সে জান্নাতে যাবে না। এক ব্যক্তি জিজ্ঞেস করল, সুন্দর জামা আর সুন্দর জুতা ভালো লাগা কি সেই অহংকার। নবী ﷺ বললেন, আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন; তারপর তিনি বুঝিয়ে দিলেন কোন অহংকারের কথা বলছেন: অহংকার হলো সত্যকে তুচ্ছ করা আর মানুষকে হেয় করা।"
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার একটিও এর সঙ্গে কোনো হাদিস জোড়েনি। তাই নিচের বর্ণনাটি সাধারণ, ২৬:৩৪-এর সঙ্গে বাঁধা নয়; তবে ফেরাউনের কথার পেছনের মানসিকতাটা এতে পরিষ্কার হয়। মুসলিম ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, যার অন্তরে সরিষার দানা পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি জিজ্ঞেস করল, সুন্দর জামা আর সুন্দর জুতা পছন্দ করা কি সেই অহংকার? নবী ﷺ বললেন, আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। তারপর তিনি বুঝিয়ে দিলেন কোন অহংকারের কথা বলছেন: অহংকার হলো সত্যকে তুচ্ছ করা আর মানুষকে হেয় করা।"
           },
           {
             "en": "Set that definition beside our verse and the fit is exact, though the hadith names nobody. Pharaoh had the truth in front of his eyes and disdained it; he had a people whose belief he feared and held them in contempt, moving them like counters to guard himself. The narration locates the root of the whole scene. It was not ignorance, for he had seen the sign plainly; it was pride, which cannot let a truth stand if standing would humble it. And that refusal wears ordinary clothes, in anyone who will not concede a point that costs him his standing.",
-            "bn": "এই সংজ্ঞাটা আমাদের আয়াতের পাশে রাখুন, মিলটা হুবহু, যদিও হাদীসে কারও নাম নেই। ফেরাউনের চোখের সামনে সত্য ছিল, সে তা তুচ্ছ করল; যাদের ঈমানকে সে ভয় পেত সেই লোকদের সে হেয় করল, নিজেকে বাঁচাতে তাদের ঘুঁটির মতো নাড়ল। বর্ণনাটা গোটা দৃশ্যের গোড়াটা ধরিয়ে দেয়। এ অজ্ঞতা ছিল না, কারণ নিদর্শন সে স্পষ্ট দেখেছে; এ ছিল অহংকার, যা সত্যকে সত্য থাকতে দেয় না যদি সেই সত্য তাকে নিচু করে। আর এই অস্বীকার সাধারণ পোশাকেও ঘোরে, এমন যে কারও ভেতরে যে এমন কথা মানতে চায় না, যা মানলে তার মান খোয়া যায়।"
+            "bn": "এই সংজ্ঞাটা আমাদের আয়াতের পাশে রাখুন, মিলটা হুবহু, যদিও হাদিসে কারও নাম নেই। সত্য ফেরাউনের চোখের সামনেই ছিল, আর সে তা তুচ্ছ করল। যাদের ঈমান আনার ভয় সে পাচ্ছিল, সেই লোকদের সে হেয় করল, নিজেকে বাঁচাতে দাবার ঘুঁটির মতো তাদের চালল। বর্ণনাটা গোটা দৃশ্যের শিকড় দেখিয়ে দেয়। এটা অজ্ঞতা ছিল না, কারণ নিদর্শন সে স্পষ্টই দেখেছে। এটা ছিল অহংকার, যে অহংকার কোনো সত্যকে টিকতে দেয় না, যদি সেই সত্য টিকলে তাকে নিচু হতে হয়। আর এই অস্বীকার সাধারণ মানুষের মধ্যেও দেখা যায়: যে কেউ এমন কথা মানতে চায় না, যা মানলে তার মান-মর্যাদা কমে যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Against No Living Person",
-          "bn": "কারও বিরুদ্ধে কোনো অনুমতি নয়"
+          "bn": "কোনো জীবিত মানুষের বিরুদ্ধে নয়"
         },
         "p": [
           {
             "en": "One thing must be said plainly, in both languages. Pharaoh is a named tyrant of the Qur'an, and this verse reports what he said and did in his own court. It describes his deflection; it licenses nothing against any living person or community. To read it as a warrant to brand some modern figure a Pharaoh, or to treat any people as his complicit court, is to bend the verse to a purpose it does not carry. What Allah records here is set down for reflection and warning, not handed to anyone as a charge to level against their neighbour.",
-            "bn": "একটা কথা দুই ভাষাতেই সোজাসুজি বলা দরকার। ফেরাউন কুরআনের নাম-ধরা এক অত্যাচারী, আর এ আয়াত তার নিজের দরবারে সে যা বলল আর করল তা জানায়। এটি তার এড়িয়ে যাওয়ার বর্ণনা দেয়; কোনো জীবিত ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো অনুমতি দেয় না। একে যদি কেউ আজকের কোনো ব্যক্তিকে ফেরাউন বলে দেগে দেওয়ার সনদ ধরে, কিংবা কোনো জাতিকে তার সঙ্গী দরবার বানিয়ে ফেলে, তবে সে আয়াতকে এমন এক কাজে বাঁকায় যা আয়াত বহন করে না। আল্লাহ এখানে যা লিখে রাখেন, তা চিন্তা আর সতর্কতার জন্য, প্রতিবেশীর বিরুদ্ধে অভিযোগ তোলার হাতিয়ার হিসেবে কারও হাতে দেওয়া নয়।"
+            "bn": "একটা কথা দুই ভাষাতেই সোজাসুজি বলা দরকার। ফেরাউন কুরআনে নাম ধরে বলা এক অত্যাচারী, আর এ আয়াত জানায় নিজের দরবারে সে কী বলেছিল, কী করেছিল। আয়াতটি তার কথা ঘুরিয়ে দেওয়ার বর্ণনা দেয়, কোনো জীবিত ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে কোনো অনুমতি দেয় না। কেউ যদি একে আজকের কোনো ব্যক্তিকে ফেরাউন বলে দেগে দেওয়ার সনদ ভাবে, কিংবা কোনো জাতিকে তার দোসর দরবার বলে ধরে, তবে সে আয়াতকে এমন উদ্দেশ্যে বাঁকায়, যা আয়াতের নয়। আল্লাহ এখানে যা লিখে রেখেছেন, তা চিন্তা আর সতর্কতার জন্য; প্রতিবেশীর বিরুদ্ধে অভিযোগ তোলার জন্য কারও হাতে তুলে দেওয়া হাতিয়ার নয়।"
           },
           {
             "en": "And the reflection points inward before it points anywhere else. The real danger is not spotting Pharaoh in a ruler far away; it is missing his move in oneself. Every reader has met a truth that would cost something to accept and has felt the pull to answer the person rather than the point. So the verse asks a small, hard question. When the sign is plain and accepting it would humble me, do I weigh what is true, or reach for a label that lets me keep what I hold? The staff is not thrown down for us; the choice still is.",
-            "bn": "আর এই ভাবনা বাইরে তাক করার আগে ভেতরে তাক করে। আসল বিপদ দূরের কোনো শাসকের মধ্যে ফেরাউনকে চিনে ফেলা নয়; আসল বিপদ নিজের ভেতরে তার চালটা টের না পাওয়া। প্রত্যেক পাঠকই এমন কোনো সত্যের মুখোমুখি হয়েছেন যা মানতে গেলে কিছু খোয়াতে হয়, আর টের পেয়েছেন সেই টান, কথার জবাব না দিয়ে মানুষটাকেই ধরার টান। তাই আয়াত একটা ছোট, কঠিন প্রশ্ন রাখে। নিদর্শন যখন স্পষ্ট আর তা মানলে আমাকে নিচু হতে হয়, আমি কি সত্যটা যাচাই করি, নাকি এমন এক তকমা খুঁজি যা আমাকে আমার হাতেরটা ধরে রাখতে দেয়? লাঠি আমাদের সামনে ছোঁড়া হয় না; কিন্তু বেছে নেওয়ার ভারটা এখনো আছে।"
+            "bn": "আর এই ভাবনা অন্য কোথাও যাওয়ার আগে ফেরে নিজের দিকে। আসল বিপদ দূরের কোনো শাসকের মধ্যে ফেরাউনকে খুঁজে পাওয়া নয়; আসল বিপদ নিজের ভেতরে তার চালটা টের না পাওয়া। প্রত্যেক পাঠকই কখনো না কখনো এমন সত্যের মুখোমুখি হয়েছেন, যা মানতে গেলে কিছু খোয়াতে হয়। আর টের পেয়েছেন সেই টান: কথার জবাব না দিয়ে মানুষটাকে আক্রমণ করার টান। তাই আয়াত একটা ছোট কিন্তু কঠিন প্রশ্ন রাখে। নিদর্শন যখন স্পষ্ট, আর তা মানলে আমাকে নিচু হতে হয়, তখন আমি কি সত্যটা যাচাই করি, নাকি এমন একটা তকমা খুঁজি যাতে নিজের যা আছে তা আঁকড়ে থাকতে পারি? লাঠিটা আমাদের সামনে ছোঁড়া হয় না, কিন্তু বেছে নেওয়ার পালা এখনো আমাদেরই।"
           }
         ]
       }
@@ -881,34 +881,34 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "By the time the chiefs speak in this verse, the proof has already been laid before them. Moses (AS) had thrown down his staff and it became a serpent, and drawn out his hand and it shone white before every onlooker. Ibn Kathir notes that once the proof had been established against Pharaoh clearly and rationally, he turned from argument to force, first threatening prison, then calling the sign mere magic. Rather than ask whether what he saw was from God, he put a question to the court around him: so what do you advise?",
-            "bn": "এই আয়াতে প্রধানেরা যখন মুখ খোলে, প্রমাণ ততক্ষণে তাদের সামনে হাজির হয়ে গেছে। মূসা (আঃ) লাঠি ছুঁড়ে দিয়েছিলেন, তা সাপ হয়ে গেল, হাত বের করলেন, তা প্রত্যেক দর্শকের সামনে ঝলমল করে উঠল। ইবন কাসীর বলেন, ফেরাউনের বিরুদ্ধে যখন প্রমাণ স্পষ্ট ও যুক্তিসঙ্গতভাবে দাঁড়িয়ে গেল, সে তখন তর্ক ছেড়ে জোরের পথ ধরল। প্রথমে জেলের ভয় দেখাল, তারপর নিদর্শনটাকে বলল নিছক যাদু। সে যা দেখল তা আল্লাহর পক্ষ থেকে কিনা, তা জিজ্ঞেস না করে দরবারের লোকদের কাছে প্রশ্ন রাখল : তোমরা কী পরামর্শ দাও?"
+            "bn": "এই আয়াতে প্রধানেরা যখন মুখ খোলে, প্রমাণ ততক্ষণে তাদের সামনে হাজির হয়ে গেছে। মূসা (আঃ) লাঠি ছুঁড়ে দিয়েছিলেন, তা সাপ হয়ে গেল, হাত বের করলেন, তা প্রত্যেক দর্শকের সামনে ঝলমল করে উঠল। ইবন কাসীর বলেন, ফেরাউনের বিরুদ্ধে যখন প্রমাণ স্পষ্ট ও যুক্তিসঙ্গতভাবে দাঁড়িয়ে গেল, সে তখন তর্ক ছেড়ে জোরের পথ ধরল। প্রথমে জেলের ভয় দেখাল, তারপর নিদর্শনটাকে বলল নিছক যাদু। যা দেখল তা আল্লাহর পক্ষ থেকে কি না, সে প্রশ্ন না তুলে সে দরবারের লোকদের কাছে প্রশ্ন রাখল: তোমরা কী পরামর্শ দাও?"
           },
           {
             "en": "Their reply is what this verse records. At-Tabari opens his comment by saying that Pharaoh's chiefs answered him, and their answer is not a verdict on the truth but a plan for handling it. They do not deny that the staff turned or the hand shone; they simply set about arranging the man's defeat. From this first line the shape of the whole scene is set: a threatened power will not weigh an inconvenient sign, it will organise against it.",
-            "bn": "তাদের জবাবই এই আয়াত ধরে রেখেছে। তাবারী তাঁর আলোচনা শুরু করেন এভাবে যে, ফেরাউনের প্রধানেরা তাকে জবাব দিল। আর সেই জবাব সত্যের কোনো রায় নয়, বরং সত্যকে সামলানোর একটা ছক। লাঠি যে সাপ হলো কিংবা হাত যে ঝলমল করল, তারা তা অস্বীকার করছে না। তারা কেবল লোকটিকে হারানোর ব্যবস্থা করতে লেগে গেছে। এই প্রথম বাক্য থেকেই গোটা দৃশ্যের চেহারা ঠিক হয়ে যায়। ভয় পাওয়া কর্তৃত্ব অসুবিধাজনক নিদর্শন যাচাই করে না, তার বিরুদ্ধে সংগঠিত হয়।"
+            "bn": "এই আয়াতে ধরা আছে তাদের জবাব। তাবারী তাঁর ব্যাখ্যা শুরুই করেন এই কথা দিয়ে: ফেরাউনের প্রধানেরা তাকে জবাব দিল। সেই জবাব সত্য নিয়ে কোনো রায় নয়, বরং সত্যকে সামলানোর এক ছক। লাঠি যে সাপ হলো কিংবা হাত যে ঝলমল করল, তারা তা অস্বীকার করছে না। তারা শুধু লোকটিকে হারানোর ব্যবস্থায় লেগে গেছে। এই প্রথম বাক্যেই গোটা দৃশ্যের চেহারা ঠিক হয়ে যায়। যে ক্ষমতা ভয় পেয়েছে, সে অস্বস্তিকর নিদর্শন যাচাই করে দেখে না, বরং তার বিরুদ্ধে দল বাঁধে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Word Was Delay",
-          "bn": "কথাটা ছিল অপেক্ষা"
+          "bn": "প্রথম কথা: দেরি করাও"
         },
         "p": [
           {
             "en": "The counsel begins with a single word: arjih, put him off. At-Tabari glosses it as akhkhir wa-anzir, delay him and grant him respite, and folds his brother Harun (AS) into the same holding. Ibn Kathir reads arjih plainly as delay him and his brother, and as-Sa'di likewise renders it postpone the two of them. Al-Muyassar keeps the same sense: defer the matter of Moses and Aaron. Across the commentators the first move is agreed, to stall rather than to strike.",
-            "bn": "পরামর্শ শুরু হয় একটি মাত্র শব্দ দিয়ে : আরজিহ, তাকে ঝুলিয়ে রাখো। তাবারী এর অর্থ করেন আখখির ওয়া আনযির, অর্থাৎ তাকে দেরি করাও আর অবকাশ দাও। একই আটকে রাখার মধ্যে তিনি তার ভাই হারূন (আঃ)-কেও যোগ করেন। ইবন কাসীর আরজিহ শব্দটিকে সোজা অর্থেই নেন, তাকে ও তার ভাইকে দেরি করাও। সা'দীও তেমনি অর্থ করেন, দুজনকে পিছিয়ে দাও। মুয়াসসার একই সুর রাখে, মূসা ও হারূনের বিষয়টা মুলতবি করো। তাফসীরকারদের কাছে প্রথম চালটা নিয়ে মতের মিল, আঘাত নয়, ঠেকিয়ে রাখা।"
+            "bn": "পরামর্শ শুরু হয় একটিমাত্র শব্দে: আরজিহ, তাকে ঝুলিয়ে রাখো। তাবারী এর অর্থ করেন আখখির ওয়া আনযির, অর্থাৎ তাকে দেরি করাও আর অবকাশ দাও। তাঁর ভাই হারূন (আঃ)-কেও তাবারী এই ঝুলিয়ে রাখার মধ্যে ধরেন। ইবন কাসীর আরজিহ-কে সোজা অর্থেই নেন: তাকে আর তার ভাইকে দেরি করাও। সা'দীও তেমনি বলেন, দুজনকেই পিছিয়ে দাও। মুয়াসসারেও একই অর্থ: মূসা ও হারূনের বিষয়টা মুলতবি রাখো। প্রথম চাল নিয়ে তাফসীরকারেরা একমত: আঘাত নয়, সময় নেওয়া।"
           },
           {
             "en": "Why delay at all, when Pharaoh held every power to act at once? The commentators do not spell out a motive, but the placement does. A wonder just witnessed can harden into belief if it is left to breathe; the court wants time to blunt its force before the crowd draws its own conclusion. Delay is not weakness here but calculation, the opening purchase of a plan that means to control what everyone will be allowed to see.",
-            "bn": "ফেরাউনের হাতে তো সঙ্গে সঙ্গে ব্যবস্থা নেওয়ার সব ক্ষমতা ছিল, তবু দেরি কেন? তাফসীরকারেরা কোনো কারণ খুলে বলেন না, কিন্তু আয়াতের অবস্থানই তা বুঝিয়ে দেয়। সদ্য দেখা কোনো বিস্ময়কে ছেড়ে রাখলে তা মনে বিশ্বাস হয়ে জমে যেতে পারে। ভিড় নিজে থেকে কোনো সিদ্ধান্তে পৌঁছার আগেই দরবার চায় এর ধার ভোঁতা করতে কিছুটা সময়। এখানে দেরি দুর্বলতা নয়, হিসাব। এ এমন এক ছকের শুরুর কেনাকাটা, যে ছক ঠিক করে দিতে চায় সবাই শেষ পর্যন্ত কী দেখতে পাবে।"
+            "bn": "ফেরাউনের হাতে তো তখনই ব্যবস্থা নেওয়ার সব ক্ষমতা ছিল, তবু দেরি কেন? তাফসীরকারেরা কোনো কারণ খুলে বলেন না, কিন্তু আয়াতটি কোথায় বসেছে, তা থেকেই বোঝা যায়। সদ্য দেখা কোনো বিস্ময়কে নিজের মতো থাকতে দিলে তা মনে বিশ্বাস হয়ে জমে যেতে পারে। ভিড় নিজে থেকে কোনো সিদ্ধান্তে পৌঁছানোর আগেই দরবার এর ধার ভোঁতা করার সময় চায়। দেরি এখানে দুর্বলতা নয়, হিসাব। এ এমন এক ছকের প্রথম চাল, যে ছক ঠিক করে দিতে চায় শেষ পর্যন্ত কাকে কী দেখতে দেওয়া হবে।"
           }
         ]
       },
       {
         "h": {
           "en": "Musterers Through the Cities",
-          "bn": "নগরে নগরে ঘোষক"
+          "bn": "নগরে নগরে জড়ো করার দূত"
         },
         "p": [
           {
@@ -921,7 +921,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Muyassar fills in who was sent and why: dispatch through the cities troops who muster the sorcerers, to bring you every man skilled in magic and surpassing in its knowledge. The next verse completes the errand, that they may bring you every learned, skilled magician (26:37). This is a nationwide recruitment of the best available, not a casual summons. The word hashirin itself, the musterers, carries the sense of a systematic sweep that collects people and drives them to one place.",
-            "bn": "মুয়াসসার বলে দেয় কাদের পাঠানো হলো আর কেন। নগরে নগরে এমন সৈন্য পাঠাও যারা যাদুকরদের একত্র করবে, তোমার কাছে নিয়ে আসবে প্রত্যেক দক্ষ ও যাদুবিদ্যায় পারদর্শী লোককে। পরের আয়াত কাজটা পূর্ণ করে, তারা যেন তোমার কাছে প্রত্যেক অভিজ্ঞ, দক্ষ যাদুকরকে নিয়ে আসে (২৬:৩৭)। এ কোনো এলেবেলে ডাক নয়, গোটা দেশ থেকে সেরাদের বেছে আনার আয়োজন। হাশিরীন শব্দটাই, অর্থাৎ জড়োকারীরা, বহন করে এক সাজানো তল্লাশির অর্থ, যা মানুষকে টেনে এনে একটি জায়গায় জড়ো করে।"
+            "bn": "মুয়াসসার বলে দেয় কাদের পাঠানো হলো আর কেন: নগরে নগরে এমন সৈন্য পাঠাও যারা যাদুকরদের একত্র করবে, আর তোমার কাছে নিয়ে আসবে যাদুতে দক্ষ, যাদুবিদ্যায় সবার সেরা প্রত্যেক লোককে। পরের আয়াত কাজটার বাকিটা বলে: তারা যেন তোমার কাছে প্রত্যেক অভিজ্ঞ, দক্ষ যাদুকরকে নিয়ে আসে (২৬:৩৭)। এ কোনো এলেবেলে ডাক নয়, গোটা দেশ থেকে সেরাদের বেছে আনার আয়োজন। হাশিরীন, অর্থাৎ জড়োকারীরা, শব্দটার মধ্যেই আছে পরিকল্পিত চিরুনি-অভিযানের ভাব, যা মানুষকে খুঁজে খুঁজে এক জায়গায় তাড়িয়ে আনে।"
           }
         ]
       },
@@ -933,11 +933,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read as one instruction, the counsel is a three-move plan. Postpone the accused so the moment cools; mobilise every specialist the kingdom can muster; and converge them for a public reckoning on a day the whole nation will attend. Not one clause of it engages Moses's claim. The chiefs never ask whether the staff and the hand came from God. They accept the threat as real and move straight to the mechanics of making the man lose in front of the people.",
-            "bn": "পুরোটাকে একটি নির্দেশ ধরে পড়লে পরামর্শটা দাঁড়ায় তিনটি ধাপের এক ছক। অভিযুক্তকে পিছিয়ে দাও যাতে মুহূর্তের উত্তাপ কমে, রাজ্যের জোগাড় করা যায় এমন প্রতিটি বিশেষজ্ঞকে সাজাও, আর গোটা জাতি হাজির হবে এমন এক দিনে জনসমক্ষে চূড়ান্ত মীমাংসার জন্য তাদের এক জায়গায় আনো। এর একটি ধারাও মূসার দাবির মুখোমুখি হয় না। প্রধানেরা কখনো জিজ্ঞেস করে না লাঠি আর হাত আল্লাহর পক্ষ থেকে এসেছে কিনা। তারা হুমকিকে সত্য ধরে নেয়, আর সোজা চলে যায় জনগণের সামনে লোকটিকে হারানোর কলকব্জায়।"
+            "bn": "পুরো পরামর্শটাকে একটা নির্দেশ হিসেবে পড়লে তা দাঁড়ায় তিন ধাপের এক ছকে। এক, অভিযুক্তকে পিছিয়ে দাও, যাতে মুহূর্তের উত্তাপ কমে যায়। দুই, রাজ্যের যত বিশেষজ্ঞ জোগাড় করা যায়, সবাইকে নামাও। তিন, এমন এক দিনে সবাইকে এক জায়গায় এনে প্রকাশ্যে ফয়সালা করো, যেদিন গোটা জাতি হাজির থাকবে। এর একটি কথাও মূসার দাবির মুখোমুখি হয় না। লাঠি আর হাত আল্লাহর পক্ষ থেকে কি না, প্রধানেরা সে প্রশ্ন একবারও তোলে না। হুমকিটাকে তারা সত্যি বলে ধরে নেয়, তারপর সোজা চলে যায় জনগণের সামনে লোকটিকে কীভাবে হারানো যায় তার কলকব্জায়।"
           },
           {
             "en": "This is the standing logic of a threatened establishment. When a truth cannot be answered, it can still be out-staged. Gather more expertise, arrange a bigger platform, assemble a larger crowd, and let sheer scale drown the inconvenient sign. The chiefs speak with confidence because the resources are theirs to command; the venue, the timing, the performers are all under their hand. Power that cannot refute a thing will often try instead to overwhelm it with everything it can bring to bear.",
-            "bn": "এ হলো ভয় পাওয়া কর্তৃত্বের চিরকালীন যুক্তি। যে সত্যের জবাব দেওয়া যায় না, তাকে তবু তামাশা দিয়ে ঢেকে ফেলা যায়। আরও বিশেষজ্ঞ জড়ো করো, আরও বড় মঞ্চ সাজাও, আরও বড় ভিড় জমাও, আর নিছক আয়তন দিয়েই অসুবিধাজনক নিদর্শনকে চাপা দাও। প্রধানেরা আত্মবিশ্বাসের সঙ্গে কথা বলে, কারণ সব সম্পদ তাদের হুকুমের অধীন। জায়গা, সময়, খেলোয়াড় সবই তাদের হাতের মুঠোয়। যে ক্ষমতা কোনো জিনিসকে খণ্ডন করতে পারে না, সে প্রায়ই বদলে যা কিছু হাতে আছে সব দিয়ে তাকে ডুবিয়ে দিতে চায়।"
+            "bn": "এ হলো ভয় পাওয়া কর্তৃত্বের চিরকালীন যুক্তি। যে সত্যের জবাব দেওয়া যায় না, তাকে তবু তামাশা দিয়ে ঢেকে ফেলা যায়। আরও বিশেষজ্ঞ জড়ো করো, আরও বড় মঞ্চ সাজাও, আরও বড় ভিড় জমাও, আর নিছক আয়োজনের বিশালতা দিয়েই অস্বস্তিকর নিদর্শনকে চাপা দাও। প্রধানেরা আত্মবিশ্বাসের সঙ্গে কথা বলে, কারণ সব সম্পদ তাদের হুকুমের অধীন। জায়গা, সময়, খেলোয়াড় সবই তাদের হাতের মুঠোয়। যে ক্ষমতা কোনো কিছুকে খণ্ডন করতে পারে না, সে প্রায়ই তার বদলে হাতের সবকিছু দিয়ে সেটাকে ডুবিয়ে দিতে চায়।"
           }
         ]
       },
@@ -949,11 +949,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No tafsir fetched for this verse attaches a hadith to it, so what follows is brought only for the contrast it draws, not as a comment on the verse itself. In Sahih al-Bukhari, Abu Hurayra (RA) reports that the Prophet ﷺ said Allah will give shade to seven on the Day when there is no shade but His, and the first he named was a just ruler. The wording is Bukhari's own, quoted as it stands, and the collection is reckoned sound.",
-            "bn": "এই আয়াতের জন্য আনা কোনো তাফসির এর সঙ্গে কোনো হাদিস জোড়েনি, তাই এখানে যা আসছে তা কেবল একটি বৈসাদৃশ্য বোঝাতে, আয়াতটির ব্যাখ্যা হিসেবে নয়। সহীহ বুখারীতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন, যেদিন তাঁর ছায়া ছাড়া আর কোনো ছায়া থাকবে না, সেদিন আল্লাহ ৭ জনকে তাঁর ছায়ায় স্থান দেবেন। আর সবার আগে তিনি যাঁর নাম নেন, তিনি ন্যায়পরায়ণ শাসক। শব্দগুলো বুখারীর নিজের, যেমন আছে তেমনি উদ্ধৃত, আর সংকলনটি বিশুদ্ধ বলে গণ্য।"
+            "bn": "এই আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতেই এর সঙ্গে কোনো হাদিস জোড়া নেই। তাই নিচের হাদিসটি আনা হলো শুধু বৈপরীত্যটা দেখাতে, আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারীতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন, যেদিন আল্লাহর ছায়া ছাড়া আর কোনো ছায়া থাকবে না, সেদিন তিনি ৭ জনকে তাঁর ছায়ায় স্থান দেবেন। আর এই সাতজনের মধ্যে প্রথমেই তিনি বলেন ন্যায়পরায়ণ শাসকের কথা। শব্দগুলো বুখারীর নিজের, যেমন আছে তেমনই উদ্ধৃত, আর এই সংকলন বিশুদ্ধ বলে স্বীকৃত।"
           },
           {
             "en": "Set that figure against the court in this verse. The authority here spends its power to postpone a truth and to buy a favourable verdict from a crowd; the ruler the Prophet ﷺ singles out spends his to uphold what is right, even when it costs him. The Qur'an shows one kind of leadership at work in Pharaoh's chiefs; the hadith names its opposite. A reader is meant to tell the two apart, and to know which of them is promised the shade.",
-            "bn": "সেই ছবিটা এই আয়াতের দরবারের পাশে রাখুন। এখানকার কর্তৃত্ব তার ক্ষমতা খরচ করে একটি সত্যকে পিছিয়ে দিতে আর ভিড়ের কাছ থেকে অনুকূল রায় কিনতে। আর নবী ﷺ যে শাসকের কথা আলাদা করে বলেন, তিনি নিজের ক্ষমতা খরচ করেন সঠিকটা টিকিয়ে রাখতে, তা যতই দাম নিক না কেন। কুরআন ফেরাউনের প্রধানদের মধ্যে দেখায় একরকম নেতৃত্ব, আর হাদিস নাম নেয় তার উল্টোটার। পাঠক যেন দুই ধরনকে আলাদা করে চিনতে পারে, আর জানতে পারে ছায়ার ওয়াদা কোনটির জন্য।"
+            "bn": "এবার এই ছবিটা আয়াতের দরবারের পাশে রাখুন। এখানে ক্ষমতা খরচ হচ্ছে একটি সত্যকে পিছিয়ে দিতে আর ভিড়ের কাছ থেকে পছন্দমতো রায় কিনে নিতে। আর নবী ﷺ যে শাসককে আলাদা করে উল্লেখ করেন, তিনি নিজের ক্ষমতা খরচ করেন ন্যায়কে টিকিয়ে রাখতে, তাতে নিজের ক্ষতি হলেও। কুরআন ফেরাউনের প্রধানদের মধ্যে এক ধরনের নেতৃত্ব দেখায়, আর হাদিস জানিয়ে দেয় তার উল্টোটা কী। পাঠকের কাজ দুটোকে আলাদা করে চেনা, আর জানা যে ছায়ার ওয়াদা কার জন্য।"
           }
         ]
       },
@@ -965,11 +965,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir closes the scene with the turn the chiefs never foresaw. Pharaoh did exactly as they advised, he writes, and this was what Allah had decreed would happen to them, so that all the people would be gathered in one place and the signs and proof of Allah would be made manifest before them all on a single day. The very muster designed to crush Moses became the means of assembling the nation to witness his vindication.",
-            "bn": "ইবন কাসীর দৃশ্যটা শেষ করেন সেই মোড় দিয়ে, যা প্রধানেরা কখনো আঁচ করেনি। তিনি লেখেন, ফেরাউন ঠিক তাদের পরামর্শমতোই কাজ করল, আর এটাই ছিল আল্লাহর ফয়সালা, যা তাদের ভাগ্যে ঘটার কথা ছিল। যাতে সব মানুষ একটি জায়গায় জড়ো হয়, আর একটি দিনেই সবার সামনে আল্লাহর নিদর্শন ও প্রমাণ প্রকাশ পায়। মূসাকে গুঁড়িয়ে দিতে সাজানো এই জমায়েতই হয়ে দাঁড়াল গোটা জাতিকে তাঁর সত্যতা দেখার সাক্ষী বানানোর উপায়।"
+            "bn": "দৃশ্যের শেষে ইবন কাসীর দেখান সেই মোড়, যা প্রধানেরা কল্পনাও করেনি। তিনি লেখেন, ফেরাউন ঠিক তাদের পরামর্শমতোই কাজ করল। আর এটাই ছিল তাদের ব্যাপারে আল্লাহর ফয়সালা: সব মানুষ যেন এক জায়গায় জড়ো হয়, আর একই দিনে সবার সামনে আল্লাহর নিদর্শন ও প্রমাণ প্রকাশ হয়ে পড়ে। মূসাকে গুঁড়িয়ে দেওয়ার জন্য যে জমায়েতের আয়োজন, সেটাই হয়ে দাঁড়াল গোটা জাতিকে এক জায়গায় এনে তাঁর সত্য প্রমাণিত হওয়ার সাক্ষী বানানোর উপায়।"
           },
           {
             "en": "So the gathering built to bury a sign became the assembly that saw it upheld. When the summoned magicians met what Moses brought, the outcome the court had sold as certain collapsed, and they fell down in prostration to the Lord of the worlds (26:46). The machinery of suppression had furnished the stage of its own defeat. The larger the crowd called to watch a truth be routed, the larger the witness when the truth instead prevails before every eye.",
-            "bn": "তাই নিদর্শন চাপা দিতে গড়া জমায়েতই হয়ে উঠল সেই সমাবেশ, যা নিদর্শনটিকে টিকে যেতে দেখল। ডেকে আনা যাদুকরেরা যখন মূসার আনা জিনিসের মুখোমুখি হলো, দরবার যে ফলাফল নিশ্চিত বলে বেচেছিল তা ভেঙে পড়ল, আর তারা লুটিয়ে পড়ল বিশ্বজগতের রবের উদ্দেশে সিজদায় (২৬:৪৬)। দমন-পীড়নের কলকব্জাই জোগান দিল নিজের হারের মঞ্চ। সত্যকে পরাস্ত হতে দেখতে যত বড় ভিড় ডাকা হয়, সত্য বরং সবার চোখের সামনে জিতে গেলে সাক্ষীও হয় তত বড়।"
+            "bn": "এভাবে নিদর্শনকে চাপা দিতে ডাকা জমায়েতই হয়ে উঠল সেই সমাবেশ, যা নিদর্শনটিকে সত্য প্রমাণিত হতে দেখল। ডেকে আনা যাদুকরেরা যখন মূসার আনা নিদর্শনের মুখোমুখি হলো, দরবার যে ফলাফলকে নিশ্চিত বলে প্রচার করেছিল তা ধসে পড়ল, আর তারা বিশ্বজগতের রবের উদ্দেশে সিজদায় লুটিয়ে পড়ল (২৬:৪৬)। দমনের যন্ত্রই নিজের পরাজয়ের মঞ্চ সাজিয়ে দিল। সত্যকে হারতে দেখার জন্য যত বড় ভিড় ডাকা হয়, সত্য যখন উল্টো সবার চোখের সামনে জিতে যায়, সাক্ষীও তখন তত বড় হয়।"
           }
         ]
       },
@@ -981,11 +981,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse reports the counsel of one tyrant's court, inside one story, and the Qur'an itself overturns the plan they were so sure of. It describes what it describes and licenses nothing against any living person or community. It gives no warrant to brand a present-day ruler, people or nation as Pharaoh and his chiefs, and no license to move against anyone on the strength of a resemblance to a Qur'anic villain. The scene is a record, not a permission.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনির ভেতরে একজন স্বৈরশাসকের দরবারের পরামর্শের বর্ণনা দেয়, আর তারা যে ছকে এত নিশ্চিত ছিল কুরআন নিজেই তা উল্টে দেয়। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে, আর কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আজকের কোনো শাসক, জাতি বা জনগণকে ফেরাউন ও তার প্রধানদের তকমা দেওয়ার কোনো সনদ এ দেয় না, আর কুরআনের কোনো খলনায়কের সঙ্গে মিল আছে বলে কারও বিরুদ্ধে ব্যবস্থা নেওয়ার কোনো অনুমতিও দেয় না। এ দৃশ্য এক দলিল, অনুমতি নয়।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনির ভেতরে এক স্বৈরশাসকের দরবারের পরামর্শ তুলে ধরে, আর তারা যে ছক নিয়ে এত নিশ্চিত ছিল, কুরআন নিজেই তা উল্টে দেয়। আয়াত যা বলে, শুধু সেটুকুই বলে; কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। আজকের কোনো শাসক, জাতি বা জনগণকে ফেরাউন ও তার প্রধানদের তকমা দেওয়ার সনদ এখানে নেই। কুরআনের কোনো খলনায়কের সঙ্গে মিল আছে বলে কারও বিরুদ্ধে ব্যবস্থা নেওয়ার অনুমতিও নেই। এ দৃশ্য একটি দলিল, অনুমতিপত্র নয়।"
           },
           {
             "en": "What the verse does offer is a mirror held up to the reader's own conduct. The urge to manage a truth rather than face it does not belong to Pharaoh's court alone; it stirs in anyone with something to protect. The lesson is turned inward, toward the ways I organise against a fact I would rather not accept. It is self-examination the scene asks for, and never a charge to level at someone else on the strength of an old story. Reading it any other way turns a warning meant for me into a weapon aimed outward at my neighbour.",
-            "bn": "আয়াত যা সত্যিই দেয় তা হলো পাঠকের নিজের আচরণের সামনে ধরা এক আয়না। সত্যকে মুখোমুখি হওয়ার বদলে সামলে নেওয়ার তাড়না শুধু ফেরাউনের দরবারের নয়, রক্ষা করার মতো কিছু আছে এমন যে কারও ভেতরেই তা নড়েচড়ে ওঠে। শিক্ষাটা ভেতরের দিকে ফেরানো, যে সত্য মেনে নিতে আমার আপত্তি তার বিরুদ্ধে আমি কীভাবে সংগঠিত হই সেদিকে। এ দৃশ্য চায় আত্মসমীক্ষা, পুরোনো এক কাহিনির জোরে অন্য কারও বিরুদ্ধে তোলার মতো কোনো অভিযোগ নয়। অন্যভাবে পড়লে আমার জন্য রাখা সতর্কবার্তাই বাইরের দিকে, প্রতিবেশীর দিকে তাক করা অস্ত্র হয়ে যায়।"
+            "bn": "আয়াত আসলে যা দেয়, তা হলো পাঠকের নিজের আচরণের সামনে ধরা এক আয়না। সত্যের মুখোমুখি না হয়ে তাকে সামলে নেওয়ার তাড়না শুধু ফেরাউনের দরবারের নয়। যার রক্ষা করার মতো কিছু আছে, তার ভেতরেই তা মাথা চাড়া দেয়। শিক্ষাটা তাই ভেতরের দিকে: যে সত্য মেনে নিতে আমার মন চায় না, তার বিরুদ্ধে আমি কীভাবে দল বাঁধি। এ দৃশ্য চায় আত্মসমালোচনা; পুরোনো এক কাহিনির জোরে অন্য কারও বিরুদ্ধে অভিযোগ তোলা কখনোই নয়। অন্যভাবে পড়লে আমার জন্য রাখা সতর্কবাণীই প্রতিবেশীর দিকে তাক করা অস্ত্র হয়ে যায়।"
           }
         ]
       },
@@ -1001,7 +1001,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The correction the story models is simple to say and hard to do: ask first whether the thing is true. The court never asked; it went straight to how the truth could be made to lose, and it lost anyway. A truth that is real does not need the crowd's applause to be true, and the crowd assembled to deny it can as easily come to see it. Power can stage the contest, but it cannot script which way the truth will fall.",
-            "bn": "কাহিনি যে সংশোধন শেখায় তা বলা সহজ, করা কঠিন : আগে জিজ্ঞেস করুন জিনিসটা সত্য কিনা। দরবার তা কখনো জিজ্ঞেস করেনি, সোজা চলে গিয়েছিল সত্যকে কীভাবে হারানো যায় সেদিকে, আর তবু হেরেছিল। যে সত্য সত্যিকারের, তার সত্য হতে ভিড়ের হাততালি লাগে না। আর যে ভিড় তাকে অস্বীকার করতে জড়ো হয়, সেই ভিড়ই সমান সহজে তা দেখেও ফেলতে পারে। ক্ষমতা প্রতিযোগিতার আয়োজন করতে পারে, কিন্তু সত্য কোন দিকে ঝুঁকবে তা লিখে দিতে পারে না।"
+            "bn": "কাহিনিটা যে সংশোধন শেখায়, তা বলা সহজ, করা কঠিন: আগে জিজ্ঞেস করুন, কথাটা সত্য কি না। দরবার কখনো সে প্রশ্ন করেনি। সোজা চলে গিয়েছিল সত্যকে কীভাবে হারানো যায় সেই চিন্তায়, তবু শেষে হেরেছিল। যা সত্যিই সত্য, সত্য হওয়ার জন্য তার ভিড়ের হাততালি লাগে না। আর যে ভিড় তাকে অস্বীকার করতে জড়ো হয়, সেই ভিড়ই খুব সহজে তা দেখে ফেলতে পারে। ক্ষমতা প্রতিযোগিতার আয়োজন করতে পারে, কিন্তু সত্য কোন দিকে গড়াবে, তার চিত্রনাট্য লিখতে পারে না।"
           }
         ]
       }
@@ -1021,18 +1021,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari reads bi-'izzati Fir'awn as an oath: they swore by the strength of Pharaoh, by the severity of his authority and the invincibility of his kingdom. That is what their certainty was pledged upon. And the thing they swore to, inna la-nahnu al-ghalibun, at-Tabari completes with a word the verse leaves unspoken: victors over Musa. So the sentence is a wager staked on a throne, that the throne's own men would beat the man who had come to that court carrying a sign from his Lord.",
-            "bn": "তাবারী বিইযযাতি ফিরআউনকে পড়েন কসম হিসেবে: তারা কসম কেটেছিল ফেরাউনের শক্তির, তার কর্তৃত্বের কঠোরতার আর তার রাজত্বের অজেয়তার নামে। তাদের নিশ্চয়তা এর উপরেই বাঁধা ছিল। আর কিসের উপর কসম, ইন্না লানাহনুল গালিবুন, তাবারী তা পূরণ করেন আয়াতে অনুচ্চারিত একটি শব্দে: মূসার উপর জয়ী। তাই বাক্যটা আসলে সিংহাসনের উপর রাখা এক বাজি, যে সিংহাসনের লোকেরাই হারিয়ে দেবে সেই মানুষটিকে, যিনি রবের কাছ থেকে নিদর্শন নিয়ে সেই দরবারে এসেছিলেন।"
+            "bn": "তাবারী বিইযযাতি ফিরআউনকে কসম হিসেবে পড়েন: তারা কসম কেটেছিল ফেরাউনের শক্তির নামে, তার কর্তৃত্বের দাপট আর তার রাজত্বের অজেয়তার নামে। তাদের নিশ্চয়তা বাঁধা ছিল এরই ওপর। আর কসম কেটে তারা যা বলল, ইন্না লানাহনুল গালিবুন, তাবারী তার সঙ্গে জুড়ে দেন একটি কথা, যা আয়াতে উহ্য: মূসার ওপর জয়ী। তাই বাক্যটা আসলে সিংহাসনের ওপর ধরা এক বাজি: সিংহাসনের নিজের লোকেরাই হারিয়ে দেবে সেই মানুষটিকে, যিনি নিজের রবের কাছ থেকে নিদর্শন নিয়ে ওই দরবারে এসেছিলেন।"
           },
           {
             "en": "Ibn Kathir sets the stakes of the day. The sorcerers of Egypt were the most skilled illusionists of their age, gathered from every corner of the land before a crowd whose true number is known to Allah alone. The people, he notes, followed the religion of their king; they had come hoping the magicians would win so they could keep on as they were. Into that charged arena the oath is flung, a public wager that the king's men, and the king's power, would carry the day.",
-            "bn": "ইবন কাসীর সেদিনের বাজিটা কতখানি, তা বুঝিয়ে দেন। মিসরের যাদুকররা ছিল তাদের যুগের সবচেয়ে দক্ষ ভেলকিবাজ, দেশের প্রতিটি কোণ থেকে জড়ো করা এক ভিড়ের সামনে, যাদের আসল সংখ্যা কেবল আল্লাহই জানেন। কাসীর বলেন, লোকেরা তাদের বাদশাহর দীন অনুসরণ করত; তারা এসেছিল এই আশায় যে যাদুকররা জিতলে তারা যেমন আছে তেমনই থাকতে পারবে। সেই উত্তপ্ত ময়দানেই ছুঁড়ে দেওয়া হলো কসম, প্রকাশ্যে এক বাজি যে বাদশাহর লোকেরা আর বাদশাহর শক্তিই সেদিন জিতে নেবে।"
+            "bn": "সেদিন কতটা বাজি ধরা ছিল, ইবন কাসীর তা বুঝিয়ে দেন। মিসরের যাদুকররা ছিল তাদের যুগের সবচেয়ে দক্ষ ভেলকিবাজ। দেশের প্রতিটি কোণ থেকে তাদের জড়ো করা হয়েছিল এমন এক ভিড়ের সামনে, যার আসল সংখ্যা কেবল আল্লাহই জানেন। ইবন কাসীর বলেন, লোকেরা তাদের বাদশাহর দীন মেনে চলত; তারা এসেছিল এই আশায় যে যাদুকররা জিতবে, আর তারা যেমন আছে তেমনই থাকতে পারবে। সেই উত্তপ্ত ময়দানে ছুঁড়ে দেওয়া হলো কসমটা, প্রকাশ্যে এক বাজি যে বাদশাহর লোকেরা আর বাদশাহর শক্তিই সেদিন জিতবে।"
           }
         ]
       },
       {
         "h": {
           "en": "Might Borrowed from a Man",
-          "bn": "ধার করা শক্তিতে ভরসা"
+          "bn": "এক মানুষের কাছে ধার করা শক্তি"
         },
         "p": [
           {
@@ -1069,18 +1069,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an does not leave the matter as a mere curiosity. To swear by anyone other than Allah, it says, is not allowed, because to swear by a thing is to exalt it, and that honor belongs to Allah alone. It presses the point further, citing Ruh: to swear a truthful oath by a creature is as sinful as swearing a false oath in the name of Allah. So the magicians' words were not only misplaced trust. By the reckoning of the sacred law, the oath itself was already a wrong, well before its content ever failed.",
-            "bn": "মাআরিফুল কুরআন ব্যাপারটাকে নিছক কৌতূহলের বিষয় বলে ছেড়ে দেয় না। আল্লাহ ছাড়া অন্য কারও নামে কসম কাটা জায়েয নয়, কারণ কোনো কিছুর নামে কসম কাটা মানে তাকে বড় করা, আর সেই মর্যাদা কেবল আল্লাহরই প্রাপ্য। এটি আরও এগিয়ে ‘রূহ’-এর বরাতে বলে: সৃষ্টির নামে সত্য কসম কাটাও ততটাই গুনাহের, যতটা আল্লাহর নামে মিথ্যা কসম কাটা। তাই যাদুকরদের কথা কেবল ভুল জায়গায় রাখা ভরসা ছিল না। শরিয়তের হিসাবে কসমটা নিজেই ছিল এক নাফরমানি, তার বক্তব্য ব্যর্থ হওয়ার অনেক আগেই।"
+            "bn": "মাআরিফুল কুরআন ব্যাপারটাকে নিছক কৌতূহলের বিষয় বলে ছেড়ে দেয় না। মাআরিফের কথা হলো, আল্লাহ ছাড়া অন্য কারও নামে কসম কাটা জায়েয নয়, কারণ কোনো কিছুর নামে কসম কাটা মানে তাকে বড় করা, আর সেই মর্যাদা কেবল আল্লাহর প্রাপ্য। এরপর ‘রূহ’-এর বরাতে মাআরিফ আরও এক ধাপ এগিয়ে বলে: সৃষ্টির নামে সত্য কসম কাটাও ততটাই গুনাহ, যতটা আল্লাহর নামে মিথ্যা কসম কাটা। তাই যাদুকরদের কথা শুধু ভুল জায়গায় ভরসা রাখা ছিল না। শরিয়তের হিসাবে কসমটাই ছিল একটা অন্যায়, তাদের দাবি ব্যর্থ হওয়ার অনেক আগেই।"
           },
           {
             "en": "And this is not a flaw peculiar to a pagan court. The same instinct slips into ordinary speech, which is exactly why it had to be corrected even among believers. The Qur'an reports the magicians' oath without a syllable of praise for it, and the Sunnah is explicit about where an oath may point. What felt to them like a clever way of borrowing strength was, in the plain truth of it, handing to a mortal man a weight that God alone was ever meant to carry.",
-            "bn": "আর এ দোষ কেবল কোনো মূর্তিপূজারি দরবারের একার নয়। একই স্বভাব সাধারণ কথাবার্তায়ও ঢুকে পড়ে, আর ঠিক এ কারণেই মুমিনদের ভেতরেও একে শুধরে দিতে হয়েছিল। কুরআন যাদুকরদের কসম বর্ণনা করে তার প্রশংসার একটি অক্ষরও ছাড়া, আর সুন্নাহ পরিষ্কার করে দেয় কসম কোন দিকে তাক করা যায়। তাদের কাছে যা মনে হয়েছিল শক্তি ধার করার চতুর কৌশল, তা আসলে ছিল এক নশ্বর মানুষের কাঁধে সেই ভার তুলে দেওয়া, যা বইবার কথা কেবল আল্লাহর।"
+            "bn": "আর এই দোষ শুধু কোনো মুশরিক দরবারের একার নয়। একই স্বভাব সাধারণ কথাবার্তায়ও ঢুকে পড়ে, আর ঠিক এ কারণেই মুমিনদের মধ্যেও একে শুধরে দিতে হয়েছিল। কুরআন যাদুকরদের কসমের কথা বলে, কিন্তু তার প্রশংসায় একটি শব্দও বলে না। আর সুন্নাহ পরিষ্কার জানিয়ে দেয়, কসম কার নামে কাটা যায়। তাদের কাছে যা মনে হয়েছিল শক্তি ধার করার চতুর কৌশল, আসলে তা ছিল এক নশ্বর মানুষের কাঁধে এমন ভার তুলে দেওয়া, যা বইবার কথা কেবল আল্লাহর।"
           }
         ]
       },
       {
         "h": {
           "en": "Swear by Allah or Be Silent",
-          "bn": "আল্লাহর নামেই হোক কসম"
+          "bn": "কসম আল্লাহর নামে, নইলে চুপ"
         },
         "p": [
           {
