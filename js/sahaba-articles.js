@@ -2468,7 +2468,7 @@ var SAHABA_ARTICLES = {
             bn: "একেবারে শুরুতেই তিনি ইসলাম গ্রহণ করেন এবং দুটি হিজরতই করেন—প্রথমে আবিসিনিয়ায়, পরে মদিনায়। দ্বিতীয়বার যখন যান তখন তিনি আর তরুণী নন, আর মরুপথটুকু তিনি পাড়ি দিয়েছিলেন পায়ে হেঁটে। তাঁর অবস্থানের দিক থেকে যাওয়ার কোনো বাধ্যবাধকতা তাঁর ছিল না। ঝুঁকিতে পড়ার মতো সম্পদ ছিল না, রক্ষা করার মতো গোত্রীয় সম্মানও ছিল না; তিনি গিয়েছিলেন কারণ যে ঘরের তিনি, সেই ঘরই যাচ্ছিল।",
           },
           {
-            en: "In Madinah she was among the women who went out with the army to carry water and treat the wounded, and she is named in the accounts of Uhud and Khaybar doing that work. Her son Ayman, from her first marriage, was killed at Hunayn. Her husband Zayd was killed at Mutah. She buried, in the space of a few years, most of what she had.",
+            en: "In Madinah she was among the women who went out with the army to carry water and treat the wounded, and she is named in the accounts of Uhud and Khaybar doing that work. Her son Ayman, from her first marriage, was killed at Hunayn. Her husband Zayd was killed at Mu'tah. She buried, in the space of a few years, most of what she had.",
             bn: "মদিনায় তিনি ছিলেন সেই নারীদের একজন, যাঁরা বাহিনীর সঙ্গে বেরিয়ে পানি বহন করতেন ও আহতদের সেবা করতেন; উহুদ ও খায়বারের বিবরণে এই কাজে তাঁর নাম এসেছে। প্রথম স্বামীর ঘরের পুত্র আইমান হুনাইনে শহীদ হন। স্বামী যায়েদ শহীদ হন মুতায়। কয়েক বছরের ব্যবধানে নিজের প্রায় সবটুকুই তাঁকে কবরে রেখে আসতে হয়েছিল।",
           },
         ],
@@ -3276,7 +3276,7 @@ var SAHABA_ARTICLES = {
         h: { en: "Long After Everyone Else", bn: "বাকি সবার অনেক পরে" },
         p: [
           {
-            en: "He outlived almost everyone in this story. Zayd his father had been killed at Mutah before he was grown; the Prophet ﷺ died when he was about eighteen; the caliphs he had known went one after another. He settled outside Madinah and lived quietly into the reign of Muawiyah, teaching what he had seen and declining every invitation to take part in the quarrels.",
+            en: "He outlived almost everyone in this story. Zayd his father had been killed at Mu'tah before he was grown; the Prophet ﷺ died when he was about eighteen; the caliphs he had known went one after another. He settled outside Madinah and lived quietly into the reign of Muawiyah, teaching what he had seen and declining every invitation to take part in the quarrels.",
             bn: "এই কাহিনির প্রায় সবার চেয়ে বেশি দিন তিনি বেঁচেছিলেন। তাঁর বাবা যায়েদ মুতায় শহিদ হন তাঁর বড় হওয়ার আগেই; নবীজি ﷺ ইন্তেকাল করেন যখন তাঁর বয়স আঠারোর কাছাকাছি; যেসব খলিফাকে তিনি চিনতেন, তাঁরাও একে একে চলে গেলেন। তিনি মদিনার বাইরে বসতি গড়েন আর মুআবিয়ার আমল পর্যন্ত নিরিবিলি জীবন কাটান — যা দেখেছেন তা শেখাতেন, আর বিবাদে জড়ানোর সব আমন্ত্রণ ফিরিয়ে দিতেন।",
           },
           {
@@ -3526,10 +3526,10 @@ var SAHABA_ARTICLES = {
         ],
       },
       {
-        h: { en: "Third in the Line at Mutah", bn: "মুতার সারিতে তৃতীয়" },
+        h: { en: "Third in the Line at Mu'tah", bn: "মুতার সারিতে তৃতীয়" },
         p: [
           {
-            en: "For the expedition to Mutah the Prophet ﷺ did something he had not done before: he named three commanders in order. Zayd ibn Harithah (RA) would lead; if he was struck down, then Ja'far ibn Abi Talib (RA); if he was struck down, then Abdullah ibn Rawahah. Every man marching understood what a chain of succession like that meant about the fighting ahead. The army was three thousand, and the force they met on the Byzantine frontier was many times larger.",
+            en: "For the expedition to Mu'tah the Prophet ﷺ did something he had not done before: he named three commanders in order. Zayd ibn Harithah (RA) would lead; if he was struck down, then Ja'far ibn Abi Talib (RA); if he was struck down, then Abdullah ibn Rawahah. Every man marching understood what a chain of succession like that meant about the fighting ahead. The army was three thousand, and the force they met on the Byzantine frontier was many times larger.",
             bn: "মুতার অভিযানে নবীজি ﷺ এমন একটা কাজ করলেন, যা আগে কখনো করেননি: পরপর তিনজন সেনাপতির নাম বলে দিলেন। নেতৃত্ব দেবেন যায়েদ ইবনে হারিসা (রাঃ); তিনি পড়ে গেলে জাফর ইবনে আবি তালিব (রাঃ); তিনিও পড়ে গেলে আবদুল্লাহ ইবনে রাওয়াহা। এমন উত্তরাধিকারের শিকল সামনের লড়াইটা নিয়ে কী বলে, রওনা দেওয়া প্রতিটা মানুষ তা বুঝেছিল। বাহিনী তিন হাজারের; আর বাইজেন্টাইন সীমান্তে যাদের মুখোমুখি হলো, তারা সংখ্যায় বহু গুণ।",
           },
           {
@@ -3542,7 +3542,7 @@ var SAHABA_ARTICLES = {
         h: { en: "Seen from Madinah", bn: "মদিনা থেকে দেখা" },
         p: [
           {
-            en: "Sahih al-Bukhari 4262 records that the Prophet ﷺ, in Madinah, told the people what was happening at Mutah as it happened: Zayd took the banner and was struck down, then Ja'far took it and was struck down, then Ibn Rawahah took it and was struck down, while the Prophet's ﷺ own eyes were flowing with tears, until the banner was taken by a sword among the swords of Allah, and Allah opened the way by his hand. The last was Khalid ibn al-Walid, and the army was brought home.",
+            en: "Sahih al-Bukhari 4262 records that the Prophet ﷺ, in Madinah, told the people what was happening at Mu'tah as it happened: Zayd took the banner and was struck down, then Ja'far took it and was struck down, then Ibn Rawahah took it and was struck down, while the Prophet's ﷺ own eyes were flowing with tears, until the banner was taken by a sword among the swords of Allah, and Allah opened the way by his hand. The last was Khalid ibn al-Walid, and the army was brought home.",
             bn: "সহিহ বুখারি ৪২৬২-এ আছে, মুতায় যা ঘটছিল, নবীজি ﷺ মদিনায় বসে মানুষকে তা বলে যাচ্ছিলেন ঘটার সঙ্গে সঙ্গে: যায়েদ পতাকা নিল, শহিদ হলো; তারপর জাফর নিল, সে-ও শহিদ হলো; তারপর ইবনে রাওয়াহা নিল, সে-ও শহিদ হলো — বলছেন আর নবীজি ﷺ-এর নিজের দুচোখ বেয়ে পানি ঝরছে। শেষে বললেন, পতাকা নিল আল্লাহর তরবারিগুলোর এক তরবারি, আর তার হাতেই আল্লাহ পথ খুলে দিলেন। সেই শেষজন খালিদ ইবনুল ওয়ালিদ, বাহিনীও ঘরে ফিরে এল।",
           },
           {
@@ -4106,8 +4106,8 @@ var SAHABA_ARTICLES = {
         h: { en: "A Dagger at Hunayn", bn: "হুনাইনের দিনে হাতে খঞ্জর" },
         p: [
           {
-            en: "Her faith had a soldier's edge. Anas narrates that at Uhud she was among the women hurrying water skins to the wounded, and Sahih Muslim 1809 shows her at Hunayn, pregnant, with a dagger in her hand. When Abu Talha pointed her out to the Prophet ﷺ, she explained it herself: if any idolater came near her, she would rip open his belly with it. The Prophet ﷺ heard her and laughed at the answer.",
-            bn: "তাঁর ঈমানের একটা সৈনিকের ধারও ছিল। আনাস বলেন, উহুদের দিন যেসব নারী মশক ভরে আহতদের পানি পৌঁছে দিচ্ছিলেন, মা ছিলেন তাঁদের একজন। আর সহিহ মুসলিম ১৮০৯-এ তাঁকে দেখা যায় হুনাইনের ময়দানে — অন্তঃসত্ত্বা, হাতে খঞ্জর। আবু তালহা নবীজি ﷺ-কে ব্যাপারটা দেখালে তিনি নিজেই খুলে বললেন: কোনো মুশরিক আমার কাছে ঘেঁষলে এটা দিয়ে তার পেট চিরে দেব। নবীজি ﷺ শুনে হাসলেন।",
+            en: "Her faith had a soldier's edge. Anas narrates that at Uhud she was among the women hurrying water skins to the wounded, and Sahih Muslim 1809 shows her at Hunayn with a dagger in her hand; the seerah accounts of Ibn Ishaq and Ibn Sa'd add that she was pregnant at the time. When Abu Talha pointed her out to the Prophet ﷺ, she explained it herself: if any idolater came near her, she would rip open his belly with it. The Prophet ﷺ heard her and laughed at the answer.",
+            bn: "তাঁর ঈমানের একটা সৈনিকের ধারও ছিল। আনাস বলেন, উহুদের দিন যেসব নারী মশক ভরে আহতদের পানি পৌঁছে দিচ্ছিলেন, মা ছিলেন তাঁদের একজন। আর সহিহ মুসলিম ১৮০৯-এ তাঁকে দেখা যায় হুনাইনের ময়দানে, হাতে খঞ্জর। ইবনে ইসহাক ও ইবনে সাদের সিরাত-বর্ণনায় আরও আছে, তিনি তখন অন্তঃসত্ত্বা ছিলেন। আবু তালহা নবীজি ﷺ-কে ব্যাপারটা দেখালে তিনি নিজেই খুলে বললেন: কোনো মুশরিক আমার কাছে ঘেঁষলে এটা দিয়ে তার পেট চিরে দেব। নবীজি ﷺ শুনে হাসলেন।",
           },
           {
             en: "The same narration shows how she thought: she urged the Prophet ﷺ to deal firmly with those who had fled the field, and he answered that Allah had sufficed them. She was not a woman at the edge of events who happened to be caught in them. She placed herself where the wounded and the fighting were, twice, with a plan for each. Madinah's later generations told her story alongside the men's, because it belonged there.",
@@ -5339,8 +5339,8 @@ var SAHABA_ARTICLES = {
             bn: "ইমরান ইবনে হুসাইন (রাঃ) ছিলেন খুজাআ গোত্রের মানুষ। মক্কা-মদিনার পথের ধারে ছিল এই গোত্রের বসতি, আর তাদের মন বহুদিন ধরেই নবীজি ﷺ-এর দিকে ঝুঁকে ছিল। তিনি ইসলাম গ্রহণ করেন খাইবারের বছরে, ৭ হিজরিতে; সেই একই মৌসুমে এসেছিলেন আবু হুরাইরা (রাঃ)-ও। নবীজি ﷺ-এর সোহবত পেয়েছেন মোটে চার বছরের মতো। দেরিতে আসা মানুষ যেমন করে, তিনিও তেমনি হারানো সময় পুষিয়ে নেওয়ার তাড়নায় সেই বছরগুলো কাজে লাগিয়েছেন।",
           },
           {
-            en: "In those few years he prayed behind the Prophet ﷺ, fought beside him, and stored up what he heard with a jurist's care. The biographers record that he carried a banner of Khuza'ah on the day Makkah was conquered. By the time the Prophet ﷺ died, Imran had gathered enough knowledge that two caliphs later, when Basra needed teaching, his was the name that came to Umar's (RA) mind.",
-            bn: "ওই অল্প কয়েক বছরে তিনি নবীজি ﷺ-এর পেছনে নামাজ পড়েছেন, তাঁর পাশে থেকে যুদ্ধ করেছেন, আর যা শুনেছেন তা ফকিহর যত্নে বুকে জমিয়েছেন। জীবনীকাররা লিখেছেন, মক্কা বিজয়ের দিন খুজাআর একটি পতাকা ছিল তাঁর হাতে। নবীজি ﷺ-এর ইন্তেকালের সময়েই তাঁর ইলমের ভান্ডার এমন হয়ে উঠেছিল যে পরে বসরার জন্য শিক্ষক দরকার হলে উমর (রাঃ)-এর মনে প্রথমে তাঁর নামই এসেছিল।",
+            en: "In those few years he prayed behind the Prophet ﷺ, fought beside him, and stored up what he heard with a jurist's care. The biographers record that he carried a banner of Khuza'ah on the day Makkah was conquered. By the time the Prophet ﷺ died, Imran had gathered enough knowledge that years later, under the second caliph, when Basra needed teaching, his was the name that came to Umar's (RA) mind.",
+            bn: "ওই অল্প কয়েক বছরে তিনি নবীজি ﷺ-এর পেছনে নামাজ পড়েছেন, তাঁর পাশে থেকে যুদ্ধ করেছেন, আর যা শুনেছেন তা ফকিহর যত্নে বুকে জমিয়েছেন। জীবনীকাররা লিখেছেন, মক্কা বিজয়ের দিন খুজাআর একটি পতাকা ছিল তাঁর হাতে। নবীজি ﷺ-এর ইন্তেকালের সময়েই তাঁর ইলমের ভান্ডার এমন হয়ে উঠেছিল যে কয়েক বছর পরে, দ্বিতীয় খলিফার আমলে, বসরার জন্য শিক্ষক দরকার হলে উমর (রাঃ)-এর মনে প্রথমে তাঁর নামই এসেছিল।",
           },
         ],
       },
