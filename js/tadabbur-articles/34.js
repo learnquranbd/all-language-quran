@@ -1092,68 +1092,68 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Throw That Shatters",
-          "bn": "যে আঘাত চূর্ণ করে"
+          "bn": "এক ছোঁড়াতেই চুরমার"
         },
         "p": [
           {
             "en": "The verse before ours sets the scene. In 34:48 the command is, Say, my Lord hurls the truth, He who knows every unseen thing. Ma'arif al-Qur'an pauses on the verb: qadhf means to strike by throwing, and the word is chosen to show what follows the impact. It paints truth as something heavy flung down onto something frail, which shatters on contact. So when the next verse says the truth has come, it has not drifted in. It has been thrown, by the Knower of the unseen, and it lands with force.",
-            "bn": "আমাদের আয়াতের ঠিক আগের আয়াতটি দৃশ্যটা সাজিয়ে দেয়। ৩৪:৪৮ আয়াতে নির্দেশ: বল, আমার প্রতিপালক সত্য ছুঁড়ে মারেন, যিনি প্রতিটি অদৃশ্য জানেন। মাআরিফুল কুরআন ক্রিয়াটির উপর থামে: 'কাযফ' মানে ছুঁড়ে আঘাত করা, আর শব্দটি বেছে নেওয়া হয়েছে আঘাতের পরের পরিণতি দেখাতে। এটি সত্যকে আঁকে এমন এক ভারী জিনিসরূপে, যা দুর্বল কিছুর উপর ছুঁড়ে ফেলা হয়, আর ধাক্কাতেই তা গুঁড়িয়ে যায়। তাই পরের আয়াত যখন বলে সত্য এসে গেছে, তা ভেসে আসেনি। তা ছোঁড়া হয়েছে, অদৃশ্যের জ্ঞানীর হাতে, আর তা নামে প্রবল জোরে।"
+            "bn": "দৃশ্যটা তৈরি করে দেয় আগের আয়াত। ৩৪:৪৮ আয়াতে নির্দেশ: বল, আমার প্রতিপালক সত্য ছুঁড়ে মারেন, যিনি সব অদৃশ্যের খবর জানেন। মাআরিফুল কুরআন এখানে ক্রিয়াটির দিকে বিশেষ নজর দেয়। 'কাযফ' মানে ছুঁড়ে মেরে আঘাত করা, আর এই শব্দ বাছাইয়ের কারণ, আঘাতের পর কী ঘটে তা দেখানো। ছবিটা এমন: ভারী কিছু ছুঁড়ে ফেলা হলো ভঙ্গুর কিছুর উপর, আর ছোঁয়া লাগতেই তা চুরমার হয়ে গেল। তাই পরের আয়াত যখন বলে সত্য এসে গেছে, বুঝতে হবে সত্য ভেসে ভেসে আসেনি। অদৃশ্যের জ্ঞানী নিজে তা ছুঁড়ে মেরেছেন, আর তা আছড়ে পড়েছে প্রবল জোরে।"
           },
           {
             "en": "Ibn Kathir reaches for a sister verse to make the image exact. In 21:18 Allah says, rather, We hurl the truth against falsehood so it crushes it, and at once falsehood is gone. At-Tabari records the same link through Ibn Zayd, who reads my Lord hurls the truth by that verse: God flings the truth onto the false, the false is destroyed, and the true stands. This is why the arrival in our verse is a victory already won. Truth is not pleading for room; it has struck, and falsehood is lying broken.",
-            "bn": "ছবিটা নিখুঁত করতে ইবন কাসীর এক ভগিনী আয়াতের দিকে হাত বাড়ান। ২১:১৮ আয়াতে আল্লাহ বলেন, বরং আমি সত্যকে মিথ্যার উপর ছুঁড়ে মারি, ফলে তা তাকে চূর্ণ করে দেয়, আর তক্ষুনি মিথ্যা নিশ্চিহ্ন হয়ে যায়। তাবারী ইবন যায়েদের সূত্রে একই যোগসূত্র আনেন, যিনি 'আমার প্রতিপালক সত্য ছুঁড়ে মারেন' এই কথাকে ওই আয়াত দিয়ে পড়েন: আল্লাহ মিথ্যার উপর সত্য ছোঁড়েন, মিথ্যা ধ্বংস হয়, আর সত্য টিকে থাকে। এজন্যই আমাদের আয়াতে আগমন মানে এক আগেই জিতে যাওয়া লড়াই। সত্য জায়গা ভিক্ষা করছে না। সে আঘাত হেনেছে, আর মিথ্যা পড়ে আছে ভেঙেচুরে।"
+            "bn": "ছবিটা নিখুঁত করতে ইবন কাসীর একই ধাঁচের আরেকটি আয়াত টেনে আনেন। ২১:১৮ আয়াতে আল্লাহ বলেন, বরং আমি সত্যকে মিথ্যার উপর ছুঁড়ে মারি, ফলে তা তাকে চূর্ণ করে দেয়, আর তক্ষুনি মিথ্যা নিশ্চিহ্ন হয়ে যায়। তাবারীও ইবন যায়েদের সূত্রে এই যোগটা উল্লেখ করেন। ইবন যায়েদ 'আমার প্রতিপালক সত্য ছুঁড়ে মারেন' কথাটি ওই আয়াতের আলোয় বোঝেন: আল্লাহ মিথ্যার উপর সত্য ছুঁড়ে মারেন, মিথ্যা ধ্বংস হয়ে যায়, আর সত্য টিকে থাকে। তাই আমাদের আয়াতে সত্যের আসা মানেই জয়, আর সে জয় আগেই হয়ে গেছে। সত্য জায়গা চেয়ে কাকুতি-মিনতি করছে না। আঘাত সে হেনে ফেলেছে, আর মিথ্যা ভেঙেচুরে পড়ে আছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Falsehood That Cannot Begin",
-          "bn": "যে মিথ্যা সূচনা করতে অক্ষম"
+          "bn": "যে মিথ্যা কিছু শুরুই করতে পারে না"
         },
         "p": [
           {
             "en": "One reading fixes on what falsehood is and says it is the arch-liar himself. At-Tabari explains yubdiʾ as to bring a creation into being: falsehood originates no creation at all. Who is this falsehood? The commentators he follows answer: Iblīs. Qatada reads it so through at-Tabari, al-Qurtubi and al-Baghawi alike, and al-Baghawi adds that this is also the view of Muqātil and al-Kalbī, while others say the falsehood here is the idols. On this reading the line is a flat denial of power: Iblīs, or the idol, creates nobody.",
-            "bn": "একটি পাঠ নজর দেয় মিথ্যা আসলে কী, সেদিকে, আর বলে এটি স্বয়ং সেই মহা-মিথ্যাবাদী। তাবারী 'ইউবদিউ' ব্যাখ্যা করেন সৃষ্টিকে অস্তিত্বে আনা অর্থে: মিথ্যা কোনো সৃষ্টিই সূচনা করতে পারে না। এই মিথ্যা কে? তিনি যাদের অনুসরণ করেন সেই তাফসীরকারেরা বলেন: ইবলীস। কাতাদা তাবারী, কুরতুবী আর বাগভী সকলের সূত্রেই এভাবে পড়েন, আর বাগভী যোগ করেন যে এটি মুকাতিল ও কালবীরও মত, আবার কারো মতে এখানে মিথ্যা মানে মূর্তিগুলো। এই পাঠে আয়াতটি নিছক শক্তিহীনতার ঘোষণা: ইবলীস হোক বা মূর্তি, সে কাউকে সৃষ্টি করে না।"
+            "bn": "এক পাঠের নজর মিথ্যার পরিচয়ের দিকে। এই পাঠ বলে, এখানে মিথ্যা মানে স্বয়ং সবচেয়ে বড় মিথ্যাবাদী। তাবারী 'ইউবদিউ'-র অর্থ করেন কোনো সৃষ্টিকে অস্তিত্বে আনা: মিথ্যা কোনো সৃষ্টিরই সূচনা করে না। তাহলে এই মিথ্যা কে? তাবারী যে তাফসীরকারদের অনুসরণ করেন, তাঁদের উত্তর: ইবলীস। তাবারী, কুরতুবী ও বাগভী তিনজনের কাছেই কাতাদার এই ব্যাখ্যা পাওয়া যায়। বাগভী আরও বলেন, মুকাতিল ও কালবীরও এই মত; আবার কেউ কেউ বলেন, এখানে মিথ্যা মানে মূর্তি। এই পাঠে আয়াতটি সোজাসুজি ক্ষমতা অস্বীকার করে: ইবলীস হোক বা মূর্তি, সে কাউকে সৃষ্টি করে না।"
           },
           {
             "en": "The second verb, yuʿīd, extends the denial. At-Tabari glosses it as to bring something back alive after it has perished — resurrection. Qatada's line, in at-Tabari's words, is that Iblīs creates no one and raises no one from the dead. So the two powers the verse strips away are exactly the two that belong to God alone: to originate a creature and to bring it back. Ibn Kathir reports that Qatada and as-Suddī held this Iblīs reading, then adds a careful note: true as it is, he does not think it is what the verse chiefly means here.",
-            "bn": "দ্বিতীয় ক্রিয়া 'ইউঈদু' অস্বীকারটিকে আরও বাড়ায়। তাবারী এর অর্থ করেন ধ্বংস হয়ে যাওয়ার পর কোনো কিছুকে আবার জীবিত করে আনা, অর্থাৎ পুনরুত্থান। তাবারীর ভাষায় কাতাদার কথা হলো, ইবলীস একজনকেও সৃষ্টি করে না, একজনকেও মৃত্যুর পর জীবিত করে না। তাই আয়াতটি মিথ্যার কাছ থেকে যে দুই শক্তি কেড়ে নেয়, সে দুটি ঠিক সেগুলোই যা কেবল আল্লাহরই: সৃষ্টির সূচনা করা আর তাকে ফিরিয়ে আনা। ইবন কাসীর জানান, কাতাদা ও সুদ্দী এই ইবলীস-পাঠ নিয়েছেন, তারপর সতর্ক এক মন্তব্য যোগ করেন: কথাটা সত্য হলেও, এখানে আয়াতের মুখ্য অর্থ এটি নয় বলেই তাঁর মত।"
+            "bn": "দ্বিতীয় ক্রিয়া 'ইউঈদু' এই অস্বীকারকে আরও এক ধাপ এগিয়ে নেয়। তাবারী এর অর্থ করেন, কোনো কিছু ধ্বংস হয়ে যাওয়ার পর তাকে আবার জীবিত করা, অর্থাৎ পুনরুত্থান। তাবারীর ভাষায় কাতাদার কথা হলো, ইবলীস কাউকে সৃষ্টি করে না, মৃত্যুর পর কাউকে জীবিতও করে না। তাহলে আয়াতটি মিথ্যার কাছ থেকে যে দুটি ক্ষমতা কেড়ে নেয়, ঠিক সে দুটিই কেবল আল্লাহর: কোনো সৃষ্টিকে প্রথমবার অস্তিত্বে আনা, আর তাকে আবার ফিরিয়ে আনা। ইবন কাসীর জানান, কাতাদা ও সুদ্দী এই ইবলীস-পাঠ গ্রহণ করেছেন। তারপর তিনি সাবধানে যোগ করেন: কথাটা সত্য, তবে তাঁর মতে এখানে আয়াতের মূল উদ্দেশ্য এটা নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Or Nothing Left Over",
-          "bn": "নাকি কিছুই আর বাকি নেই"
+          "bn": "অথবা, কিছুই আর বাকি নেই"
         },
         "p": [
           {
             "en": "The other reading fixes less on who falsehood is and more on what is left of it. Al-Qurtubi notes that the particle mā can be read two ways. Taken as a negation, the sentence says falsehood originates and restores nothing. Taken as a question — what thing? — it asks: now that the truth has come, what is left to falsehood that it could begin again or bring back? The answer is nothing of it remains. He likens it to 69:8, do you see any remnant of them, which means you see none.",
-            "bn": "অন্য পাঠটি মিথ্যা কে, তার চেয়ে বেশি নজর দেয় মিথ্যার আর কী বাকি আছে, সেদিকে। কুরতুবী লক্ষ করেন যে 'মা' অব্যয়টি দুই ভাবে পড়া যায়। নেতিবাচক ধরলে বাক্যটি বলে, মিথ্যা কিছুই সূচনা করে না, কিছুই ফেরায় না। প্রশ্নবোধক ধরলে, অর্থাৎ 'কী জিনিস', তখন তা জিজ্ঞেস করে: সত্য যেহেতু এসে গেছে, মিথ্যার কাছে আর কী বাকি রইল যা সে নতুন করে শুরু করবে বা ফিরিয়ে আনবে? উত্তর হলো, তার কিছুই আর অবশিষ্ট নেই। তিনি একে ৬৯:৮ আয়াতের সঙ্গে মেলান, তাদের কোনো অবশিষ্ট কি দেখতে পাও, যার মানে তুমি কিছুই দেখবে না।"
+            "bn": "অন্য পাঠের নজর মিথ্যার পরিচয়ে ততটা নয়, যতটা মিথ্যার আর কী বাকি রইল তাতে। কুরতুবী বলেন, 'মা' অব্যয়টি দুইভাবে পড়া যায়। না-বাচক ধরলে অর্থ দাঁড়ায়: মিথ্যা কিছুই শুরু করে না, কিছুই ফিরিয়েও আনে না। প্রশ্নবোধক ধরলে, অর্থাৎ 'কোন জিনিস?', বাক্যটি জিজ্ঞেস করে: সত্য তো এসে গেছে, এখন মিথ্যার আর কী বাকি আছে যা সে নতুন করে শুরু করবে বা ফিরিয়ে আনবে? উত্তর: তার কিছুই আর অবশিষ্ট নেই। তিনি এর তুলনা দেন ৬৯:৮ আয়াতের সঙ্গে: তাদের কোনো অবশিষ্ট কি দেখতে পাও? মানে, একটিও দেখতে পাবে না।"
           },
           {
             "en": "This is the sense Ibn Kathir himself prefers. After truth arrives, he writes, falsehood is left with no speech, no leadership, no word — nothing to say and no standing from which to say it. Al-Muyassar puts it plainly: falsehood has gone and its authority has crumbled, so nothing of it is left to begin or to repeat. As-Sa'di agrees, that its whole matter has collapsed and its rule is finished, so it can neither start nor return. On this reading the verse is less about the devil's limits and more about falsehood's expiry.",
-            "bn": "এই অর্থটিই ইবন কাসীর নিজে পছন্দ করেন। তিনি লেখেন, সত্য আসার পর মিথ্যার হাতে আর কোনো বক্তব্য থাকে না, নেতৃত্ব থাকে না, একটি কথাও থাকে না। বলার কিছু নেই, বলার মতো দাঁড়ানোর জায়গাও নেই। মুয়াসসার সোজা কথায় বলেন: মিথ্যা চলে গেছে, তার কর্তৃত্ব গুঁড়িয়ে গেছে, তাই তার কিছুই আর অবশিষ্ট নেই যা দিয়ে সে শুরু করবে বা পুনরাবৃত্তি করবে। সা'দীও একমত, মিথ্যার গোটা ব্যাপারটাই ধসে পড়েছে, তার শাসন শেষ, তাই সে শুরুও করতে পারে না, ফিরেও আসতে পারে না। এই পাঠে আয়াতটি শয়তানের সীমা নিয়ে কম, মিথ্যার মেয়াদ ফুরানো নিয়ে বেশি কথা বলে।"
+            "bn": "ইবন কাসীর নিজে এই অর্থটিই পছন্দ করেন। তিনি লেখেন, সত্য আসার পর মিথ্যার আর কোনো বক্তব্য থাকে না, নেতৃত্ব থাকে না, একটি কথাও থাকে না। বলার মতো কিছু নেই, বলার মতো অবস্থানও নেই। আল-মুয়াসসার সহজ করে বলে: মিথ্যা বিদায় নিয়েছে, তার দাপট ভেঙে পড়েছে, তাই শুরু করার বা আবার করার মতো তার কিছুই বাকি নেই। সা'দীও একমত: মিথ্যার পুরো ব্যাপারটাই ধসে পড়েছে, তার রাজত্ব শেষ, তাই সে শুরুও করতে পারে না, ফিরেও আসতে পারে না। এই পাঠে আয়াতের কথা শয়তানের সীমা নিয়ে ততটা নয়, যতটা মিথ্যার মেয়াদ ফুরিয়ে যাওয়া নিয়ে।"
           },
           {
             "en": "The two readings need not quarrel. One says the named falsehood — Iblīs or the idol — has no power to create or revive; the other says falsehood as such has nothing left to begin or repeat once truth lands. Ibn Kathir leans to the second and calls the first true but not the main intent; the earlier authorities he cites lean to the first. Either way the line lands in the same place: whatever falsehood is, and however little of it survives, it can make nothing and mend nothing. The verse does not soften; it only chooses where to aim.",
-            "bn": "দুই পাঠের মধ্যে বিরোধ থাকার দরকার নেই। একটি পাঠ বলে, নামধারী মিথ্যা, ইবলীস হোক বা মূর্তি, তার সৃষ্টি বা পুনরুজ্জীবনের ক্ষমতা নেই; অন্যটি বলে, সত্য নামার পর মিথ্যা বলে আর কিছুই অবশিষ্ট থাকে না যা শুরু বা পুনরাবৃত্তি করা যায়। ইবন কাসীর দ্বিতীয়টির দিকে ঝোঁকেন, প্রথমটিকে সত্য বলেন তবে মুখ্য অর্থ নয় বলেন; তিনি যাদের উদ্ধৃত করেন সেই পূর্বসূরিরা প্রথমটির দিকে ঝোঁকেন। যেভাবেই হোক, কথাটা একই জায়গায় গিয়ে দাঁড়ায়: মিথ্যা যা-ই হোক, আর তার যত অল্পই টিকে থাকুক, সে কিছুই বানাতে পারে না, কিছুই সারাতেও পারে না। আয়াতটি নরম হয় না, কেবল ঠিক করে নেয় কোথায় তাক করবে।"
+            "bn": "দুই পাঠকে মুখোমুখি দাঁড় করানোর দরকার নেই। এক পাঠ বলে, যে মিথ্যার নাম নেওয়া হয়েছে, ইবলীস হোক বা মূর্তি, তার সৃষ্টি করার বা আবার জীবিত করার ক্ষমতা নেই। অন্য পাঠ বলে, সত্য আছড়ে পড়ার পর মিথ্যার শুরু করার বা আবার করার মতো কিছুই বাকি থাকে না। ইবন কাসীর দ্বিতীয়টির দিকে ঝোঁকেন; প্রথমটিকে তিনি সত্য বলেন, তবে মূল উদ্দেশ্য বলেন না। তাঁর উদ্ধৃত পূর্বসূরিরা ঝোঁকেন প্রথমটির দিকে। যেভাবেই পড়ুন, কথা গিয়ে দাঁড়ায় একই জায়গায়: মিথ্যা যা-ই হোক, তার যত সামান্যই টিকে থাকুক, সে কিছু গড়তে পারে না, কিছু সারাতেও পারে না। আয়াতটি সুর নরম করে না, শুধু বেছে নেয় কোথায় তাক করবে।"
           }
         ]
       },
       {
         "h": {
           "en": "Beside Its Twin Verse",
-          "bn": "এর যমজ আয়াতের পাশে"
+          "bn": "যমজ আয়াতের পাশে"
         },
         "p": [
           {
             "en": "A reader will hear an echo of another verse. In 17:81 the words run, the truth has come and falsehood has vanished; falsehood was ever bound to vanish. Both verses open with the same proclamation, the truth has come, so they are often read together. But their closings differ, and the difference is the point. The twin verse in 17:81 says falsehood is gone. Our verse goes further and tells us what the gone thing can never do: it cannot begin, and it cannot bring back.",
-            "bn": "পাঠক আরেকটি আয়াতের প্রতিধ্বনি শুনবেন। ১৭:৮১ আয়াতে কথাগুলো এমন, সত্য এসে গেছে আর মিথ্যা বিলুপ্ত হয়েছে; মিথ্যা তো বিলুপ্ত হওয়ারই ছিল। দুটি আয়াতই শুরু হয় একই ঘোষণা দিয়ে, সত্য এসে গেছে, তাই এগুলো প্রায়ই একসঙ্গে পড়া হয়। কিন্তু এদের শেষাংশ আলাদা, আর সেই পার্থক্যই আসল কথা। যমজ আয়াত ১৭:৮১ বলে মিথ্যা চলে গেছে। আমাদের আয়াত আরও এক ধাপ এগিয়ে বলে দেয়, সেই চলে-যাওয়া জিনিসটা কী কখনো করতে পারবে না: সে শুরুও করতে পারে না, ফিরিয়েও আনতে পারে না।"
+            "bn": "পাঠক এখানে আরেকটি আয়াতের প্রতিধ্বনি শুনবেন। ১৭:৮১ আয়াতে আছে: সত্য এসে গেছে আর মিথ্যা বিলুপ্ত হয়েছে; মিথ্যা তো বিলুপ্ত হওয়ারই ছিল। দুটি আয়াতই শুরু হয় একই ঘোষণায়, সত্য এসে গেছে, তাই দুটিকে প্রায়ই একসঙ্গে পড়া হয়। কিন্তু দুটির শেষ অংশ আলাদা, আর আসল কথা ওই পার্থক্যেই। যমজ আয়াত ১৭:৮১ বলে, মিথ্যা চলে গেছে। আমাদের আয়াত আরও এগিয়ে যায়। যে মিথ্যা বিদায় নিয়েছে, সে কোন কাজ কোনোদিন পারবে না, তাও জানিয়ে দেয়: সে শুরু করতে পারে না, ফিরিয়েও আনতে পারে না।"
           },
           {
             "en": "Look at the pair of verbs. Yubdiʾ is the first act, to originate, to do a thing for the very first time. Yuʿīd is the repeat, to bring a thing back, to do it again after it has ended. Between them they cover every way a thing can come to be: freshly, or once more. Denying falsehood both is denying it any generative power at all. It cannot author a new lie that will stand, and it cannot resurrect an old one that truth has already buried. That is why the verse closes the matter and does not merely scold it.",
-            "bn": "ক্রিয়া দুটির দিকে তাকান। 'ইউবদিউ' হলো প্রথম কাজ, সূচনা করা, কোনো কিছু একেবারে প্রথমবার করা। 'ইউঈদু' হলো পুনরাবৃত্তি, কোনো কিছু ফিরিয়ে আনা, শেষ হয়ে যাওয়ার পর আবার করা। এই দুইয়ে মিলে যেকোনো জিনিসের অস্তিত্বে আসার সব পথ ধরা পড়ে: নতুন করে, কিংবা আরেকবার। মিথ্যার কাছ থেকে দুটোই অস্বীকার করা মানে তার কোনো সৃষ্টিক্ষমতাই না থাকা। সে এমন নতুন কোনো মিথ্যা বানাতে পারে না যা টিকবে, আর সত্য যাকে ইতিমধ্যে কবর দিয়েছে এমন পুরোনো একটিকেও জিইয়ে তুলতে পারে না। এজন্যই আয়াতটি বিষয়টা চুকিয়ে দেয়, নিছক ধমক দিয়ে ছাড়ে না।"
+            "bn": "ক্রিয়া দুটির দিকে তাকান। 'ইউবদিউ' হলো প্রথম কাজ: সূচনা করা, কোনো কিছু একেবারে প্রথমবার করা। 'ইউঈদু' হলো পুনরাবৃত্তি: কোনো কিছু ফিরিয়ে আনা, শেষ হয়ে যাওয়ার পর আবার করা। কোনো জিনিস অস্তিত্বে আসার পথ এই দুটিই: হয় নতুন করে, নয়তো আরেকবার। মিথ্যার বেলায় দুটিই অস্বীকার করা মানে, কিছু জন্ম দেওয়ার কোনো ক্ষমতাই তার নেই। সে এমন নতুন মিথ্যা বানাতে পারে না যা টিকে থাকবে। আর যে পুরোনো মিথ্যাকে সত্য আগেই কবর দিয়েছে, তাকেও আবার জাগিয়ে তুলতে পারে না। এজন্যই আয়াতটি শুধু ধমক দিয়ে থামে না, বিষয়টার ইতি টেনে দেয়।"
           }
         ]
       },
@@ -1165,11 +1165,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse was once recited as a deed, not only read. Al-Bukhari records, from ʿAbdullāh ibn Masʿūd, that when the Prophet ﷺ entered Mecca on the day of the Conquest there were 360 idols set around the Kaʿba. He began striking them with a stick in his hand, saying, The truth has come and falsehood has vanished; the truth has come, and falsehood can neither begin anything nor bring it back. The report is in Ṣaḥīḥ al-Bukhārī, so it carries his grading of soundness.",
-            "bn": "আয়াতটি একবার কেবল পঠিত নয়, কাজে রূপ নিয়েছিল। বুখারী আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণনা করেন, মক্কা বিজয়ের দিন নবী ﷺ যখন মক্কায় প্রবেশ করেন, কাবার চারপাশে ছিল ৩৬০টি মূর্তি। তিনি হাতের একটি লাঠি দিয়ে সেগুলোতে খোঁচা দিতে দিতে বলছিলেন, সত্য এসে গেছে আর মিথ্যা বিলুপ্ত হয়েছে; সত্য এসে গেছে, আর মিথ্যা নতুন করে কিছু শুরু করতে পারে না, ফিরিয়েও আনতে পারে না। বর্ণনাটি সহীহ বুখারীতে আছে, তাই তা তাঁর বিশুদ্ধতার মান বহন করে।"
+            "bn": "একদিন এই আয়াত শুধু পড়াই হয়নি, কাজে করে দেখানো হয়েছিল। বুখারী আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণনা করেন: মক্কা বিজয়ের দিন নবী ﷺ যখন মক্কায় প্রবেশ করেন, তখন কাবার চারপাশে ৩৬০টি মূর্তি বসানো ছিল। তিনি হাতের লাঠি দিয়ে সেগুলোতে খোঁচা দিতে দিতে বলছিলেন: সত্য এসে গেছে আর মিথ্যা বিলুপ্ত হয়েছে; সত্য এসে গেছে, আর মিথ্যা কিছু শুরুও করতে পারে না, ফিরিয়েও আনতে পারে না। বর্ণনাটি সহীহ বুখারীতে আছে, অর্থাৎ বুখারী নিজে একে সহীহ বলে গ্রহণ করেছেন।"
           },
           {
             "en": "Ibn Kathir traces the same report through Mujāhid, from Abū Maʿmar, from Ibn Masʿūd, and notes that al-Bukhārī, Muslim, at-Tirmidhī and an-Nasāʾī all carry it. The scene fits the words exactly. The idols were falsehood with nothing behind them, unable to create or to save, and the day they fell the Prophet ﷺ did not argue with them; he announced their end. He paired the vanishing of 17:81 with the impotence of our verse, naming at once what was finished and what it could never do again.",
-            "bn": "ইবন কাসীর একই বর্ণনা মুজাহিদ থেকে, তাঁর আবু মা'মার থেকে, তাঁর ইবন মাসউদ (রাঃ) থেকে টেনে আনেন, আর জানান যে বুখারী, মুসলিম, তিরমিযী ও নাসায়ী সকলেই এটি বর্ণনা করেছেন। দৃশ্যটি কথাগুলোর সঙ্গে হুবহু মেলে। মূর্তিগুলো ছিল এমন মিথ্যা যার পেছনে কিছুই নেই, যা সৃষ্টি করতে পারে না, বাঁচাতেও পারে না। আর যেদিন সেগুলো পড়ে গেল, নবী ﷺ সেগুলোর সঙ্গে তর্ক করেননি, তাদের শেষটা ঘোষণা করেছেন। তিনি ১৭:৮১ আয়াতের বিলুপ্তির কথা আমাদের আয়াতের অক্ষমতার সঙ্গে মিলিয়ে একই নিঃশ্বাসে বললেন, কী শেষ হলো আর তা আর কখনো কী করতে পারবে না।"
+            "bn": "ইবন কাসীর একই বর্ণনা মুজাহিদ থেকে, তিনি আবু মা'মার থেকে, তিনি ইবন মাসউদ (রাঃ) থেকে উল্লেখ করেন, আর জানান যে বুখারী, মুসলিম, তিরমিযী ও নাসায়ী সবাই এটি বর্ণনা করেছেন। দৃশ্যটি আয়াতের কথার সঙ্গে হুবহু মিলে যায়। মূর্তিগুলো ছিল এমন মিথ্যা, যার পেছনে কিছুই নেই; না পারে সৃষ্টি করতে, না পারে বাঁচাতে। যেদিন সেগুলো ভেঙে পড়ল, নবী ﷺ তাদের সঙ্গে তর্কে যাননি, শুধু তাদের সমাপ্তি ঘোষণা করেছেন। ১৭:৮১ আয়াতের বিলুপ্তির কথার সঙ্গে তিনি জুড়ে দিলেন আমাদের আয়াতের অক্ষমতার কথা। একসঙ্গেই বলে দিলেন, কোনটা শেষ হয়ে গেল, আর সেটা আর কোনোদিন কোন কাজ পারবে না।"
           }
         ]
       },
@@ -1181,11 +1181,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a word of steadiness for anyone who feels outnumbered by what is false. Falsehood can be loud, organised, well funded; none of that is the same as power to create. It can borrow time and make noise, but it cannot author a future, and it cannot raise what truth has laid to rest. Measured by what it can actually make, it makes nothing. The believer is asked to see the contest the way the verse sees it, and to stop being impressed by sheer volume.",
-            "bn": "আয়াতটি তার জন্য স্থৈর্যের বাণী, যে মনে করে মিথ্যার ভিড়ে সে একা পড়ে গেছে। মিথ্যা হতে পারে উচ্চকিত, সুসংগঠিত, বিত্তবান; এর কোনোটাই সৃষ্টি করার ক্ষমতার সমান নয়। সে সময় ধার করতে পারে, আওয়াজ তুলতে পারে, কিন্তু কোনো ভবিষ্যৎ রচনা করতে পারে না, আর সত্য যাকে শুইয়ে দিয়েছে তাকে তুলতেও পারে না। সে আসলে কী বানাতে পারে তা দিয়ে মাপলে, সে কিছুই বানায় না। মুমিনকে বলা হচ্ছে লড়াইটা সেভাবেই দেখতে যেভাবে আয়াত দেখে, আর নিছক আওয়াজ দেখে মুগ্ধ হওয়া বন্ধ করতে।"
+            "bn": "মিথ্যার পাল্লা ভারী দেখে যাঁর মনে হয় তিনি সংখ্যায় কম পড়ে গেছেন, তাঁর জন্য এ আয়াত অবিচল থাকার কথা শোনায়। মিথ্যার গলা চড়া হতে পারে, সে সুসংগঠিত হতে পারে, তার টাকার জোরও থাকতে পারে। কিন্তু এর কোনোটাই সৃষ্টি করার ক্ষমতা নয়। সে সময় ধার করতে পারে, শোরগোল তুলতে পারে, কিন্তু কোনো ভবিষ্যৎ গড়তে পারে না। আর সত্য যাকে কবরে শুইয়ে দিয়েছে, তাকে আবার দাঁড় করাতেও পারে না। আসলে সে কী বানাতে পারে, সেই হিসাবে মাপলে দেখা যায়, সে কিছুই বানায় না। মুমিনের কাছে চাওয়া হচ্ছে, আয়াত যেভাবে লড়াইটা দেখে, তিনিও যেন সেভাবে দেখেন, আর শুধু শোরগোলের জোর দেখে মুগ্ধ হওয়া ছেড়ে দেন।"
           },
           {
             "en": "So the question comes home. If falsehood has no future, why do I spend so much of mine defending it, fearing it, or borrowing from it? Every hour I build on something false is built on a thing that cannot begin or return — on rubble. Every hour I build on what has come from God is built on what has already won. The practice is simple to say and slow to live: move my weight, little by little, off what only looks strong and onto what will still be standing when the dust settles.",
-            "bn": "তাই প্রশ্নটা ঘরে ফিরে আসে। মিথ্যার যদি কোনো ভবিষ্যৎ না থাকে, তবে আমি আমার ভবিষ্যতের এত বড় অংশ কেন তাকে আগলাতে, তাকে ভয় পেতে, কিংবা তার কাছ থেকে ধার করতে খরচ করি? মিথ্যার উপর গড়া প্রতিটি মুহূর্ত এমন জিনিসের উপর গড়া, যা শুরুও করতে পারে না, ফিরেও আসতে পারে না, অর্থাৎ ধ্বংসস্তূপের উপর। আল্লাহর কাছ থেকে আসা সত্যের উপর গড়া প্রতিটি মুহূর্ত এমন কিছুর উপর গড়া, যা আগেই জিতে বসে আছে। আমলটা বলা সহজ, বাঁচা কঠিন: অল্প অল্প করে নিজের ভর সরিয়ে আনুন, যা কেবল শক্ত দেখায় তার উপর থেকে, যা ধুলো থিতিয়ে গেলেও দাঁড়িয়ে থাকবে তার উপরে।"
+            "bn": "তাই প্রশ্নটা এবার নিজের কাছে ফেরে। মিথ্যার যদি কোনো ভবিষ্যৎ না থাকে, তবে আমি কেন আমার ভবিষ্যতের এত বড় অংশ খরচ করি তাকে আগলে রাখতে, তাকে ভয় পেতে, কিংবা তার কাছে ধার নিতে? মিথ্যার উপর গড়া আমার প্রতিটি ঘণ্টা দাঁড়িয়ে আছে এমন কিছুর উপর, যা শুরুও করতে পারে না, ফিরেও আসতে পারে না; এক কথায়, ধ্বংসস্তূপের উপর। আর আল্লাহর কাছ থেকে যা এসেছে, তার উপর গড়া প্রতিটি ঘণ্টা দাঁড়িয়ে আছে এমন কিছুর উপর, যার জয় আগেই হয়ে গেছে। আমলটা মুখে বলা সহজ, জীবনে আনতে সময় লাগে: যা শুধু দেখতে শক্ত, তার উপর থেকে একটু একটু করে নিজের ভর সরিয়ে আনা, আর রাখা তার উপর, যা ধুলো থিতিয়ে গেলেও দাঁড়িয়ে থাকবে।"
           }
         ]
       }
