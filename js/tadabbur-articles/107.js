@@ -56,7 +56,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "About Their Prayer, Not In It",
-          "bn": "নামায নিয়ে, নামাযের ভেতরে নয়"
+          "bn": "নামাজ নিয়ে, নামাজের ভেতরে নয়"
         },
         "p": [
           {
