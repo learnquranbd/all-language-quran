@@ -94,6 +94,7 @@ the state, kept short on purpose. Full history of earlier rounds:
   would orphan 13 translations of that string; fix with a retranslation of one string).
 
 ## Article i18n wave 2 (2026-10-16, user picked "translation gaps"): IN PROGRESS
+- DONE: id (v971), es (v972, + consistency pass). English fixed in 3 fact-check batches (flags in work/flags-wave2.md), each followed by refresh + retr for every merged language. ms and tr in progress.
 - Remaining: id A6-A10, then es ms tr fa fr de ru zh ja (A1-A10 each). One agent per chunk x language, 8 in parallel,
   prompt = TRANSLATE.md + STYLE-<lang>.md, parts in work/A<n>/<lang>-parts/, gate check.js A<n> <lang> CLEAN.
 - Resume: a chunk is done when work/A<n>/tr-<lang>.json passes check.js; merge with `articles.js merge <lang> --write`
