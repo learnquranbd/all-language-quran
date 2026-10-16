@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Hal ataka hadithu al-ghashiya: has the news of the Overwhelming reached you? The verse has 4 Arabic words. Hal opens a question; ataka is has it come to you; hadithu is the news or account of; and al-ghashiya is that which covers over. The verse opens Surat al-Ghashiya, and the surah takes its name from this last word. Al-Qurtubi records that the surah is Makkan by the statement of all, with 26 verses; Ibn Kathir and al-Baghawi also call it Makkan.",
-            "bn": "হাল আতাকা হাদীসুল গাশিয়াহ: আচ্ছন্নকারীর খবর কি আপনার কাছে পৌঁছেছে? আরবিতে আয়াতটি মাত্র ৪ শব্দের। হাল দিয়ে প্রশ্ন শুরু হয়। আতাকা মানে তোমার কাছে এসেছে কি। হাদীসু মানে খবর বা বৃত্তান্ত। আর আল-গাশিয়াহ মানে যা ঢেকে ফেলে। এ আয়াত দিয়েই সূরা গাশিয়াহর শুরু, আর সূরার নামও এসেছে এই শেষ শব্দটি থেকে। কুরতুবী লিখেছেন, সবার মতেই সূরাটি মাক্কী, আর এর আয়াত ২৬টি। ইবন কাসীর ও বাগাভীও সূরাটির শুরুতে একে মাক্কী বলেছেন।"
+            "bn": "হাল আতাকা হাদিসুল গাশিয়াহ: আচ্ছন্নকারীর খবর কি আপনার কাছে পৌঁছেছে? আরবিতে আয়াতটি মাত্র ৪ শব্দের। হাল দিয়ে প্রশ্ন শুরু হয়। আতাকা মানে তোমার কাছে এসেছে কি। হাদিসু মানে খবর বা বৃত্তান্ত। আর আল-গাশিয়াহ মানে যা ঢেকে ফেলে। এ আয়াত দিয়েই সূরা গাশিয়াহর শুরু, আর সূরার নামও এসেছে এই শেষ শব্দটি থেকে। কুরতুবী লিখেছেন, সবার মতেই সূরাটি মাক্কী, আর এর আয়াত ২৬টি। ইবন কাসীর ও বাগাভীও সূরাটির শুরুতে একে মাক্কী বলেছেন।"
           },
           {
             "en": "The verse names something and then holds it back. Nothing inside these words says what the Overwhelming is; the listener is given a title and a question, and waits. The verse that follows, 88:2, begins to describe faces on that Day, and it has its own entry. This article stays with this verse: what the commentators fetched for this verse say about the question, about the news and about the name al-ghashiya, and why the surah was heard so often in the Prophet's prayers ﷺ.",
@@ -37,7 +37,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators do not hear the opening hal in a single way. Al-Qurtubi reports from Qutrub that hal here carries the meaning of qad, the particle that marks a thing as having truly happened, and compares hal ata 'ala al-insan in 76:1. On that reading he paraphrases: qad ja'aka ya Muhammad, the news of the Overwhelming has come to you, O Muhammad. Al-Baghawi's gloss, the shortest of the fetched texts, takes the same line: qad ataka hadithu al-qiyama, the news of the Resurrection has come to you.",
-            "bn": "শুরুর হাল শব্দটিকে তাফসীরকারেরা একভাবে শোনেননি। কুরতুবী কুতরুব থেকে বর্ণনা করেন, এখানে হাল এসেছে কাদ অর্থে। কাদ সেই শব্দ, যা বোঝায় ঘটনাটা সত্যিই ঘটে গেছে। তুলনা হিসেবে তিনি ৭৬:১ আয়াতের হাল আতা আলাল ইনসান উল্লেখ করেন। এ পাঠ ধরে তিনি অর্থ করেন: কাদ জাআকা ইয়া মুহাম্মাদ, হে মুহাম্মাদ, আচ্ছন্নকারীর খবর তোমার কাছে এসে গেছে। দেখা তাফসীরগুলোর মধ্যে বাগাভীর ব্যাখ্যা সবচেয়ে ছোট, তিনিও একই পথে যান: কাদ আতাকা হাদীসুল কিয়ামাহ, কিয়ামতের খবর তোমার কাছে এসেছে।"
+            "bn": "শুরুর হাল শব্দটিকে তাফসীরকারেরা একভাবে শোনেননি। কুরতুবী কুতরুব থেকে বর্ণনা করেন, এখানে হাল এসেছে কাদ অর্থে। কাদ সেই শব্দ, যা বোঝায় ঘটনাটা সত্যিই ঘটে গেছে। তুলনা হিসেবে তিনি ৭৬:১ আয়াতের হাল আতা আলাল ইনসান উল্লেখ করেন। এ পাঠ ধরে তিনি অর্থ করেন: কাদ জাআকা ইয়া মুহাম্মাদ, হে মুহাম্মাদ, আচ্ছন্নকারীর খবর তোমার কাছে এসে গেছে। দেখা তাফসীরগুলোর মধ্যে বাগাভীর ব্যাখ্যা সবচেয়ে ছোট, তিনিও একই পথে যান: কাদ আতাকা হাদিসুল কিয়ামাহ, কিয়ামতের খবর তোমার কাছে এসেছে।"
           },
           {
             "en": "Others keep the form of a question. The Muyassar writes: has there come to you, ayyuha ar-rasul, O Messenger, the news of the Resurrection, and leaves it a question. At-Tabari keeps the words as Allah's address to His Prophet ﷺ, hal ataka ya Muhammad, and moves straight on to what the news is. The same opening, with al-junud, the hosts, in place of al-ghashiya, stands at 85:17, and that entry sets out how the commentators heard the question there.",
@@ -52,7 +52,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Hadith as a Report",
-          "bn": "হাদীস মানে এখানে খবর"
+          "bn": "হাদিস মানে এখানে খবর"
         },
         "p": [
           {
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir opens the surah with how it was recited. He recalls, as already mentioned, the report of an-Nu'man ibn Bashir (RA) that the Messenger of Allah ﷺ used to recite al-A'la and al-Ghashiya in the 'Id prayer and on Friday. He then gives Imam Malik's report that ad-Dahhak ibn Qays asked an-Nu'man what the Prophet ﷺ recited on Friday along with Surat al-Jumu'a, and that he answered: hal ataka hadithu al-ghashiya. He names Abu Dawud, an-Nasa'i, Muslim and Ibn Majah as recording it.",
-            "bn": "ইবন কাসীর সূরাটির শুরুতেই বলেন, এটি কখন পড়া হতো। তিনি মনে করিয়ে দেন, আগেই নুমান ইবন বাশীর (রাঃ)-এর বর্ণনা এসেছে: রাসূলুল্লাহ ﷺ ঈদের সালাতে আর জুমার দিনে সূরা আ'লা ও সূরা গাশিয়াহ পড়তেন। তারপর তিনি ইমাম মালিকের বর্ণনা আনেন। দাহহাক ইবন কায়স নুমানকে জিজ্ঞেস করেছিলেন, জুমার দিনে সূরা জুমুআর সঙ্গে নবী ﷺ আর কী পড়তেন। তিনি উত্তর দিয়েছিলেন: হাল আতাকা হাদীসুল গাশিয়াহ। ইবন কাসীর জানান, আবু দাউদ, নাসাঈ, মুসলিম ও ইবন মাজাহ এটি বর্ণনা করেছেন।"
+            "bn": "ইবন কাসীর সূরাটির শুরুতেই বলেন, এটি কখন পড়া হতো। তিনি মনে করিয়ে দেন, আগেই নুমান ইবন বাশীর (রাঃ)-এর বর্ণনা এসেছে: রাসূলুল্লাহ ﷺ ঈদের সালাতে আর জুমার দিনে সূরা আ'লা ও সূরা গাশিয়াহ পড়তেন। তারপর তিনি ইমাম মালিকের বর্ণনা আনেন। দাহহাক ইবন কায়স নুমানকে জিজ্ঞেস করেছিলেন, জুমার দিনে সূরা জুমুআর সঙ্গে নবী ﷺ আর কী পড়তেন। তিনি উত্তর দিয়েছিলেন: হাল আতাকা হাদিসুল গাশিয়াহ। ইবন কাসীর জানান, আবু দাউদ, নাসাঈ, মুসলিম ও ইবন মাজাহ এটি বর্ণনা করেছেন।"
           },
           {
             "en": "Both reports stand in Sahih Muslim under the number 878, and Muslim placed them in his Sahih. In the English of 878a on the page: \"Nu'man b. Bashir reported that the Messenger of Allah (ﷺ) used to recite on two 'Ids and in Friday prayer: 'Glorify The name of Thy Lord, the Most High' (Surah lxxxvii.), and: 'Has there come to thee the news of the overwhelming event' (lxxxviii.). And when the 'Id and Jumu'a combined on a day he recited these two (surah) in both the prayers.\"",
