@@ -6096,12 +6096,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Asking for Sufficiency",
-          "bn": "যথেষ্টতার দোয়া"
+          "bn": "অভাবমুক্তির দোয়া"
         },
         "p": [
           {
             "en": "The Sunnah supplies a du'a that sits close to this verse. Muslim records from Abdullah ibn Mas'ud (RA) that the Prophet ﷺ used to say: Allahumma inni as'aluka al-huda wa at-tuqa wa al-'afafa wa al-ghina, O Allah, I ask You for guidance, piety, restraint and sufficiency. The last two words carry this verse's concern. 'Afaf is keeping one's hand back from what is not permitted, and ghina is being made free of the need that pushes a person toward what is forbidden.",
-            "bn": "সুন্নাহতে এমন একটি দোয়া আছে, যা এই আয়াতের খুব কাছাকাছি। মুসলিম আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলতেন: ‘আল্লাহুম্মা ইন্নী আসআলুকাল হুদা ওয়াত তুকা ওয়াল আফাফা ওয়াল গিনা’, হে আল্লাহ, আমি আপনার কাছে হিদায়াত, তাকওয়া, সংযম আর যথেষ্টতা চাই। শেষ দুটি শব্দেই এই আয়াতের মূল চিন্তা। ‘আফাফ’ হলো যা জায়েজ নয় তা থেকে হাত গুটিয়ে রাখা। আর ‘গিনা’ হলো সেই অভাব থেকে মুক্ত থাকা, যা মানুষকে হারামের দিকে ঠেলে দেয়।"
+            "bn": "সুন্নাহতে এমন একটি দোয়া আছে, যা এই আয়াতের খুব কাছাকাছি। মুসলিম আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলতেন: ‘আল্লাহুম্মা ইন্নী আসআলুকাল হুদা ওয়াত তুকা ওয়াল আফাফা ওয়াল গিনা’, হে আল্লাহ, আমি আপনার কাছে হিদায়াত, তাকওয়া, সংযম আর অভাবমুক্তি চাই। শেষ দুটি শব্দেই এই আয়াতের মূল চিন্তা। ‘আফাফ’ হলো যা জায়েজ নয় তা থেকে হাত গুটিয়ে রাখা। আর ‘গিনা’ হলো সেই অভাব থেকে মুক্ত থাকা, যা মানুষকে হারামের দিকে ঠেলে দেয়।"
           },
           {
             "en": "A short supplication in the verse's own vocabulary, offered here as a composed prayer and not a transmitted one: O Allah, when Your admonition reaches me, make me of those who desist; forgive what is past, and do not let me return to it. Its three clauses follow the verse's own order of maw'izah and stopping, what is past, and the warning against going back, and it can be said whenever a ruling you have long been avoiding finally reaches you.",
@@ -6137,11 +6137,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse sits inside the longest stretch of financial law in the Quran. 2:275 to 2:279 deal with riba and end by telling those who repent that they may have their principal, wronging nobody and being wronged by nobody. 2:280 requires that a debtor in hardship be given respite until ease, and adds that remitting the debt as charity is better. Then comes our verse, and after it 2:282, the longest verse in the Book, on writing debts down.",
-            "bn": "এই আয়াতটি বসে আছে কুরআনের সবচেয়ে দীর্ঘ আর্থিক বিধানের অংশের ভেতরে। 2:275 থেকে 2:279 সুদ নিয়ে আলোচনা করে এবং শেষ হয় এই কথা দিয়ে যে, যারা তাওবা করে তারা তাদের মূলধন পেতে পারে — তারা কারও ওপর জুলুম করবে না, তাদের ওপরও জুলুম করা হবে না। 2:280 দাবি করে, অভাবগ্রস্ত ঋণগ্রহীতাকে সচ্ছলতা আসা পর্যন্ত অবকাশ দিতে হবে, আর যোগ করে যে ঋণ মাফ করে দেওয়া আরও ভালো। এরপর আসে আমাদের আয়াত, আর তার পরে 2:282 — কিতাবের দীর্ঘতম আয়াত, ঋণ লিখে রাখা নিয়ে।"
+            "bn": "আয়াতটির জায়গা কুরআনের সবচেয়ে দীর্ঘ আর্থিক বিধানের মাঝখানে। ২:২৭৫ থেকে ২:২৭৯ পর্যন্ত আয়াতগুলো সুদ নিয়ে। শেষে বলা হয়েছে, যারা তওবা করে তারা নিজেদের মূলধন ফেরত পাবে; কারও ওপর জুলুম করবে না, কারও জুলুমের শিকারও হবে না। ২:২৮০ আয়াতের হুকুম, অভাবে পড়া ঋণীকে সচ্ছলতা আসা পর্যন্ত সময় দিতে হবে। সঙ্গে বলা হয়েছে, ঋণটা দান হিসেবে মাফ করে দেওয়া আরও ভালো। এরপর আমাদের আয়াত। তার পরেই ২:২৮২, কুরআনের দীর্ঘতম আয়াত, যার বিষয় ঋণ লিখে রাখা।"
           },
           {
             "en": "The placement is the first thing to notice. Between a rule about forgiving what you are owed and a rule about documenting what you lend, the Quran inserts a sentence about being returned to Allah. It does not conclude the financial passage from outside; it is planted in the middle of it, where the money is. Whatever else this verse is, it is a verse about the Day of Judgement addressed to creditors and to debtors.",
-            "bn": "প্রথমে যা লক্ষ করার তা হলো এর অবস্থান। আপনার প্রাপ্য মাফ করে দেওয়ার বিধান আর আপনার দেওয়া ঋণ লিখে রাখার বিধান — এই দুইয়ের মাঝখানে কুরআন বসিয়ে দেয় আল্লাহর কাছে ফিরিয়ে নেওয়া হওয়ার একটি বাক্য। এটি বাইরে থেকে আর্থিক অংশটির উপসংহার টানে না; বরং একেবারে তার মাঝখানে বসানো, যেখানে টাকাপয়সা আছে। এই আয়াত আর যা-ই হোক, এটি কিয়ামত দিবস নিয়ে এমন এক আয়াত যা পাওনাদার ও দেনাদারকে সম্বোধন করছে।"
+            "bn": "প্রথমে খেয়াল করার বিষয় হলো আয়াতটির জায়গা। একদিকে পাওনা মাফ করে দেওয়ার বিধান, অন্যদিকে ধার দিলে তা লিখে রাখার বিধান। এই দুইয়ের মাঝখানে কুরআন বসিয়ে দিয়েছে একটি বাক্য: সবাইকে আল্লাহর কাছে ফিরিয়ে নেওয়া হবে। আয়াতটি বাইরে দাঁড়িয়ে আর্থিক আলোচনার উপসংহার টানছে না। একেবারে তার মাঝখানে বসানো, যেখানে টাকাপয়সার কারবার। আয়াতটি আর যা-ই হোক, এটা কিয়ামতের দিনের কথা, আর কথাটা বলা হচ্ছে পাওনাদার ও দেনাদারকে উদ্দেশ করে।"
           }
         ]
       },
@@ -6153,11 +6153,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Turja'una is passive: you will be brought back, not you will return. The distinction matters because the whole passage is about parties who decide things — who lends, who waits, who forgives, who writes it down. This clause names the one appointment that nobody arranges for himself. 29:57 states it the same way, with every soul tasting death and then being returned to Him, and the Arabic there is passive too.",
-            "bn": "'তুরজাঊন' কর্মবাচ্য: তোমাদের ফিরিয়ে আনা হবে, তোমরা নিজে ফিরে যাবে না। পার্থক্যটি গুরুত্বপূর্ণ, কারণ গোটা অংশটিই এমন পক্ষদের নিয়ে যারা সিদ্ধান্ত নেয় — কে ঋণ দেবে, কে অপেক্ষা করবে, কে মাফ করবে, কে লিখে রাখবে। এই বাক্যাংশটি নাম নেয় সেই একটিমাত্র সাক্ষাতের, যার আয়োজন কেউ নিজে করে না। 29:57 একইভাবে বলে — প্রত্যেক প্রাণ মৃত্যুর স্বাদ নেবে, তারপর তাদের তাঁর দিকেই ফিরিয়ে নেওয়া হবে — এবং সেখানকার আরবিও কর্মবাচ্য।"
+            "bn": "'তুরজাঊন' শব্দটি কর্মবাচ্যে: তোমাদের ফিরিয়ে আনা হবে। তোমরা নিজেরা ফিরে যাবে, এমন নয়। পার্থক্যটা জরুরি। কারণ পুরো অংশটাই এমন লোকদের নিয়ে, যারা নিজেরা সিদ্ধান্ত নেয়: কে ধার দেবে, কে অপেক্ষা করবে, কে মাফ করবে, কে লিখে রাখবে। আর এই বাক্যাংশটি এমন এক সাক্ষাতের কথা বলে, যার সময় কেউ নিজে ঠিক করে না। ২৯:৫৭ আয়াতও কথাটা একইভাবে বলে: প্রত্যেক প্রাণ মৃত্যুর স্বাদ নেবে, তারপর তাঁরই কাছে ফিরিয়ে আনা হবে। সেখানেও আরবি ক্রিয়াটি কর্মবাচ্যে।"
           },
           {
             "en": "There is a second shift inside the sentence. It opens by addressing you in the plural — fear a Day when you will be returned — and closes speaking about them: every soul will be paid in full what it earned, and they will not be wronged. The audience gathered at the start has dispersed by the end into individual souls. A room can be addressed together. It cannot be judged together.",
-            "bn": "বাক্যটির ভেতরে দ্বিতীয় আরেকটি পরিবর্তন আছে। এটি শুরু হয় বহুবচনে 'তোমাদের' সম্বোধন করে — সেই দিনকে ভয় করো যেদিন তোমাদের ফিরিয়ে নেওয়া হবে — আর শেষ হয় 'তাদের' নিয়ে কথা বলে: প্রত্যেক প্রাণকে তার অর্জন পুরোপুরি দেওয়া হবে, আর তাদের ওপর জুলুম করা হবে না। শুরুতে জড়ো হওয়া শ্রোতারা শেষে এসে আলাদা আলাদা প্রাণে ছড়িয়ে গেছে। একটি ঘরভর্তি মানুষকে একসঙ্গে সম্বোধন করা যায়; একসঙ্গে বিচার করা যায় না।"
+            "bn": "বাক্যটির ভেতরে আরেকটা পালাবদল আছে। শুরুতে বহুবচনে সরাসরি সম্বোধন: সেই দিনকে ভয় করো, যেদিন তোমাদের ফিরিয়ে নেওয়া হবে। আর শেষে কথা হচ্ছে 'তাদের' নিয়ে: প্রত্যেক প্রাণকে তার কামাইয়ের পুরো প্রতিদান দেওয়া হবে, আর তাদের ওপর জুলুম করা হবে না। শুরুতে যারা একসঙ্গে জড়ো ছিল, শেষে এসে তারা আলাদা আলাদা প্রাণ হয়ে গেছে। ঘরভর্তি মানুষকে একসঙ্গে ডাকা যায়, কিন্তু একসঙ্গে বিচার করা যায় না।"
           }
         ]
       },
@@ -6169,7 +6169,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Tuwaffa is from the root of wafa', completing and discharging in full; it is the root behind the command to give full measure and behind tawaffa, the taking of a soul. The Quran chose a settlement word and set it inside a passage about settlements. Every clause around it involves an amount owed — the principal, the delay, the remission, the written term — and this verse says that a final account will be paid out to the last unit.",
-            "bn": "'তুওয়াফফা' এসেছে 'ওয়াফা' ধাতু থেকে, যার অর্থ পূর্ণ করা ও পুরোপুরি পরিশোধ করা; এই একই ধাতু থেকে এসেছে পুরো মাপ দেওয়ার নির্দেশ, আর 'তাওয়াফফা' — প্রাণ পূর্ণরূপে নিয়ে নেওয়া। কুরআন একটি হিসাব-নিষ্পত্তির শব্দ বেছে নিয়ে তা বসিয়েছে হিসাব-নিষ্পত্তি নিয়ে আলোচনার ভেতরে। এর চারপাশের প্রতিটি বাক্যেই কোনো না কোনো প্রাপ্য অঙ্ক আছে — মূলধন, বিলম্ব, মাফ, লিখিত মেয়াদ — আর এই আয়াত বলছে, চূড়ান্ত হিসাবটি শেষ এককটি পর্যন্ত মিটিয়ে দেওয়া হবে।"
+            "bn": "'তুওয়াফফা' এসেছে 'ওয়াফা' ধাতু থেকে, যার অর্থ পূর্ণ করা, পাওনা পুরোপুরি মিটিয়ে দেওয়া। পুরো মাপে দেওয়ার হুকুমও এই ধাতু থেকে, আবার 'তাওয়াফফা', অর্থাৎ প্রাণ কবজ করা, সেটাও। কুরআন হিসাব মেটানোর একটা শব্দ বেছে নিয়ে বসিয়েছে ঠিক হিসাব মেটানোর আলোচনার ভেতরে। চারপাশের প্রতিটি বাক্যে কোনো না কোনো পাওনার অঙ্ক আছে: মূলধন, সময় দেওয়া, মাফ করা, লিখে রাখা মেয়াদ। আর এই আয়াত বলছে, শেষ হিসাবটা মেটানো হবে কড়ায়-গণ্ডায়।"
           }
         ]
       },
@@ -6181,23 +6181,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kasabat here is neutral and covers everything a soul brings. That is worth marking, because the same surah later separates the verbs. In 2:286 the good is laha ma kasabat, hers is what she earned, and the evil is 'alayha ma iktasabat, against her is what she acquired, in a form that carries added effort. Here one verb carries both, because the point is not the difference between them but that the total is paid.",
-            "bn": "এখানে 'কাসাবাত' নিরপেক্ষ, আর তা প্রাণটি যা কিছু নিয়ে আসে সবই ধরে। এটি লক্ষ করার মতো, কারণ এই সূরাই পরে ক্রিয়াপদ দুটিকে আলাদা করে দেয়। 2:286-এ কল্যাণ সম্পর্কে বলা হয়েছে 'লাহা মা কাসাবাত' — সে যা অর্জন করেছে তা তারই; আর মন্দ সম্পর্কে 'আলাইহা মাক্‌তাসাবাত' — সে যা কামাই করেছে তা তার বিরুদ্ধে, এমন এক গঠনে যা বাড়তি প্রচেষ্টার অর্থ বহন করে। এখানে একটিই ক্রিয়াপদ দুটোকেই বহন করছে, কারণ এখানে বিষয় দুইয়ের পার্থক্য নয়, বরং পুরো অঙ্কটি পরিশোধ হওয়া।"
+            "bn": "এখানে 'কাসাবাত' নিরপেক্ষ শব্দ। প্রাণ যা কিছু নিয়ে আসে, ভালো-মন্দ সবই এর মধ্যে পড়ে। কথাটা খেয়াল রাখার মতো, কারণ এই সূরাই পরে ক্রিয়া দুটিকে আলাদা করেছে। ২:২৮৬ আয়াতে ভালোর বেলায় বলা হয়েছে 'লাহা মা কাসাবাত', সে যা অর্জন করেছে তা তারই। আর মন্দের বেলায় 'আলাইহা মাক্‌তাসাবাত', সে যা কামাই করেছে তা তার বিরুদ্ধে। দ্বিতীয় ক্রিয়াটির গঠনে বাড়তি চেষ্টার ভাব আছে। এখানে একটি ক্রিয়াই দুটোকে ধরে রেখেছে, কারণ এখানে কথা দুইয়ের পার্থক্য নিয়ে নয়। কথা হলো, পুরো অঙ্কটাই মিটিয়ে দেওয়া হবে।"
           }
         ]
       },
       {
         "h": {
           "en": "Among the Last, But Which Last",
-          "bn": "শেষ আয়াতগুলোর একটি, তবে কোনটি শেষ"
+          "bn": "শেষ দিকের আয়াত, কিন্তু সবশেষ কোনটি?"
         },
         "p": [
           {
             "en": "Reports from the early generations place this verse among the last portions of the Quran to be revealed, and some of them name a number of days that the Prophet ﷺ lived afterwards. The reports do not agree with one another. Other narrations name the verse of kalalah at 4:176 as the last revealed, and others point to 2:278 on riba or to 5:3 on the completion of the religion.",
-            "bn": "প্রাচীন যুগের বর্ণনাগুলো এই আয়াতকে কুরআনের সবশেষে নাযিল হওয়া অংশগুলোর মধ্যে রাখে, আর কোনো কোনো বর্ণনায় বলা হয় এরপর নবী ﷺ কত দিন জীবিত ছিলেন। বর্ণনাগুলো পরস্পরের সঙ্গে মেলে না। অন্য কিছু বর্ণনা 4:176-এর কালালা সংক্রান্ত আয়াতকে সবশেষে নাযিল হওয়া আয়াত বলে, আবার কিছু বর্ণনা সুদ সংক্রান্ত 2:278 বা দ্বীন পূর্ণ হওয়া সংক্রান্ত 5:3-এর দিকে ইঙ্গিত করে।"
+            "bn": "প্রথম যুগের বর্ণনায় এই আয়াতকে কুরআনের সবশেষে নাজিল হওয়া অংশগুলোর মধ্যে ধরা হয়েছে। কোনো কোনো বর্ণনায় এ কথাও আছে, এরপর নবী ﷺ কত দিন জীবিত ছিলেন। তবে বর্ণনাগুলো একটি আরেকটির সঙ্গে মেলে না। অন্য কিছু বর্ণনা বলে, সবশেষে নাজিল হয়েছে ৪:১৭৬, কালালার আয়াত। আবার কিছু বর্ণনা ইঙ্গিত করে সুদের বিষয়ে ২:২৭৮ আয়াতের দিকে, কিংবা দ্বীন পূর্ণ হওয়ার ঘোষণা ৫:৩ আয়াতের দিকে।"
           },
           {
             "en": "The honest position is that the reports differ, and that no single verse can be declared the final one on their strength. Some of the difference is a difference of question: last revealed of all, last revealed on a ruling, last revealed of a particular passage. What the reports do agree on is that this verse is late, and that what a community was left with near the end was a sentence about being returned to Allah.",
-            "bn": "সৎ অবস্থানটি হলো: বর্ণনাগুলো ভিন্ন, আর সেগুলোর ভিত্তিতে কোনো একটি আয়াতকে সর্বশেষ আয়াত বলে ঘোষণা করা যায় না। এই ভিন্নতার কিছুটা আসলে প্রশ্নের ভিন্নতা: সব মিলিয়ে সর্বশেষ, না কোনো বিধানের ব্যাপারে সর্বশেষ, না কোনো নির্দিষ্ট অংশের সর্বশেষ। বর্ণনাগুলো যে বিষয়ে একমত তা হলো, এই আয়াতটি শেষদিকের; আর একটি জাতির হাতে শেষ পর্যায়ে যা রেখে যাওয়া হলো তা আল্লাহর কাছে ফিরিয়ে নেওয়া হওয়ার একটি বাক্য।"
+            "bn": "সৎ কথা হলো, বর্ণনাগুলোতে ভিন্নতা আছে, আর সেগুলোর জোরে কোনো একটি আয়াতকে নিশ্চিতভাবে সবশেষ বলে দেওয়া যায় না। ভিন্নতার কিছুটা আসলে প্রশ্নের ভিন্নতা। কেউ বলছেন সব মিলিয়ে সবশেষ আয়াতের কথা, কেউ বিধানের আয়াতগুলোর মধ্যে সবশেষের কথা, কেউ কোনো নির্দিষ্ট অংশের সবশেষ আয়াতের কথা। তবে একটা বিষয়ে বর্ণনাগুলো একমত: আয়াতটি একেবারে শেষ দিকের। শেষ সময়ে উম্মতের হাতে যা রেখে যাওয়া হলো, তা হলো আল্লাহর কাছে ফিরিয়ে নেওয়ার একটি বাক্য।"
           }
         ]
       },
@@ -6209,11 +6209,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's closing verb has already been heard in this passage. 2:279 told those who give up riba that they may keep their capital — la tazlimuna wa la tuzlamun, wronging nobody and being wronged by nobody. Here the same root is applied to the reckoning, and turned to the third person: wa hum la yuzlamun. Justice between two traders and justice on the Day are named with one term, which is this surah's way of saying that they are the same standard at two different scales.",
-            "bn": "আয়াতের শেষ ক্রিয়াপদটি এই অংশে আগেও শোনা গেছে। 2:279 সুদ পরিত্যাগকারীদের বলেছে, তারা তাদের মূলধন রাখতে পারে — 'লা তাযলিমূনা ওয়ালা তুযলামূন', তারা কারও ওপর জুলুম করবে না, তাদের ওপরও জুলুম করা হবে না। এখানে সেই একই ধাতু প্রয়োগ করা হলো হিসাব-নিকাশের ওপর, আর তা ঘুরিয়ে দেওয়া হলো নাম-পুরুষে: 'ওয়া হুম লা ইউযলামূন'। দুই ব্যবসায়ীর মধ্যেকার ন্যায় আর কিয়ামতের দিনের ন্যায় — দুটিকেই একই শব্দে নাম দেওয়া হয়েছে, আর এভাবেই এই সূরা বলে যে এ দুটি আসলে একই মানদণ্ড, কেবল দুই মাপে।"
+            "bn": "আয়াতের শেষ ক্রিয়াটি এই অংশে আগেও একবার এসেছে। সুদ ছেড়ে দেওয়া লোকদের ২:২৭৯ আয়াত বলেছে, তারা নিজেদের মূলধন রাখতে পারবে: 'লা তাযলিমূনা ওয়ালা তুযলামূন', কারও ওপর জুলুম করবে না, কারও জুলুমের শিকারও হবে না। এখানে একই ধাতু এসেছে আখিরাতের হিসাবের প্রসঙ্গে, আর এবার কথা বলা হচ্ছে 'তাদের' নিয়ে: 'ওয়া হুম লা ইউযলামূন'। দুই ব্যবসায়ীর মধ্যেকার ইনসাফ আর কিয়ামতের দিনের ইনসাফ, দুটোর জন্যই একই শব্দ। এভাবে সূরাটি বুঝিয়ে দেয়, মাপকাঠি একটাই, শুধু পরিসর দুই রকম।"
           },
           {
             "en": "6:160 closes with this identical clause after describing how deeds are repaid, so the phrase is the Quran's standing guarantee at the ledger. What it rules out on the human side is straightforward. A debt collected harshly from someone in hardship, a term quietly altered, a document not written because trust was assumed — each of these is an entry, and the verse says the entry survives the death of both parties.",
-            "bn": "6:160-ও আমল কীভাবে প্রতিদান পাবে তা বর্ণনার পর ঠিক এই বাক্যাংশ দিয়েই শেষ হয়, অর্থাৎ কথাটি হিসাবের খাতায় কুরআনের স্থায়ী নিশ্চয়তা। মানুষের দিক থেকে এটি যা বাতিল করে তা সহজবোধ্য। অভাবগ্রস্ত কারও কাছ থেকে কঠোরভাবে আদায় করা ঋণ, নীরবে বদলে দেওয়া মেয়াদ, বিশ্বাসের দোহাই দিয়ে না-লেখা দলিল — এর প্রতিটিই একেকটি ভুক্তি, আর আয়াত বলছে সেই ভুক্তি দুই পক্ষেরই মৃত্যুর পরও টিকে থাকে।"
+            "bn": "৬:১৬০ আয়াতও আমলের প্রতিদান কীভাবে দেওয়া হবে তা বলার পর ঠিক এই বাক্যাংশ দিয়েই শেষ হয়। অর্থাৎ হিসাবের খাতায় এটি কুরআনের স্থায়ী জামিন। মানুষের দিক থেকে এর ফলে কী চলবে না, তা পরিষ্কার। অভাবে থাকা কারও কাছ থেকে কড়াভাবে আদায় করা ঋণ, চুপিচুপি বদলে দেওয়া মেয়াদ, 'বিশ্বাস তো আছেই' ভেবে না-লেখা দলিল: এর প্রতিটিই খাতার একেকটি হিসাব। আর আয়াত বলছে, দুই পক্ষ মারা যাওয়ার পরও সেই হিসাব মুছে যায় না।"
           }
         ]
       }
@@ -6229,11 +6229,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse opens the closing group of Surah al-Baqarah. Immediately before it, 2:283 finishes the long passage on debts, pledges and witnesses with a warning about the inside of a person: do not conceal testimony, for whoever conceals it, his heart is sinful. The next verse takes that verb, concealing, out of the courtroom and applies it to everything a human being keeps out of sight.",
-            "bn": "এই আয়াত দিয়েই সূরা আল-বাকারার সমাপ্তি-অংশ শুরু হয়। ঠিক এর আগে 2:283 আয়াত ঋণ, বন্ধক ও সাক্ষ্য নিয়ে দীর্ঘ আলোচনাটি শেষ করে মানুষের ভেতরটা নিয়ে এক সতর্কবাণী দিয়ে: সাক্ষ্য গোপন করো না, যে তা গোপন করে তার অন্তর পাপী। পরের আয়াতটি সেই 'গোপন করা' ক্রিয়াটিকে আদালত-কক্ষ থেকে তুলে এনে মানুষ যা কিছু দৃষ্টির আড়ালে রাখে তার সবটিতে প্রয়োগ করে।"
+            "bn": "এই আয়াত দিয়ে সূরা আল-বাকারার শেষ অংশ শুরু হয়। ঠিক আগে ২:২৮৩ আয়াত ঋণ, বন্ধক আর সাক্ষ্যের দীর্ঘ আলোচনা শেষ করেছে মানুষের ভেতরের ব্যাপারে এক সতর্কবাণী দিয়ে: সাক্ষ্য গোপন করো না; যে তা গোপন করে, তার অন্তর গুনাহগার। পরের আয়াতটি এই 'গোপন করা' ক্রিয়াটিকে আদালত থেকে বের করে আনে, আর মানুষ যা কিছু চোখের আড়ালে রাখে, তার সবকিছুর ওপর খাটায়।"
           },
           {
             "en": "The verse states ownership first — to Allah belongs whatever is in the heavens and whatever is in the earth — a clause the reader has already met in 2:255 earlier in this same surah. Then the accounting: whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then two possibilities, and the order is worth noticing: He forgives whom He wills, and He punishes whom He wills. Forgiveness is named first.",
-            "bn": "আয়াতটি আগে মালিকানার কথা বলে — আসমানসমূহে যা কিছু আছে আর যমীনে যা কিছু আছে সবই আল্লাহর — এই বাক্যাংশটির সঙ্গে পাঠকের পরিচয় এই সূরাতেই আগে 2:255 আয়াতে হয়ে গেছে। তারপর হিসাবের কথা: তোমাদের অন্তরে যা আছে তা প্রকাশ করো বা গোপন করো, আল্লাহ তার হিসাব নেবেন। তারপর দুটি সম্ভাবনা, আর ক্রমটি লক্ষ করার মতো: তিনি যাকে ইচ্ছা ক্ষমা করেন, আর যাকে ইচ্ছা শাস্তি দেন। ক্ষমার নামই আগে আসে।"
+            "bn": "আয়াতটি প্রথমে মালিকানার কথা বলে: আসমানে যা আছে আর জমিনে যা আছে, সবই আল্লাহর। এই কথাটি পাঠক এই সূরাতেই আগে ২:২৫৫ আয়াতে পেয়েছেন। তারপর হিসাবের কথা: তোমাদের মনে যা আছে, তা প্রকাশ করো বা গোপন রাখো, আল্লাহ তার হিসাব নেবেন। তারপর দুটি সম্ভাবনা, আর ক্রমটা খেয়াল করার মতো: তিনি যাকে ইচ্ছা ক্ষমা করেন, যাকে ইচ্ছা শাস্তি দেন। ক্ষমার কথাই আগে এসেছে।"
           }
         ]
       },
@@ -6245,59 +6245,59 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) that when this verse came down it weighed on the Companions. They came to the Prophet ﷺ, knelt, and said that they had been charged with duties they could carry — prayer, fasting, striving, charity — but that this verse was beyond their strength. He answered by asking whether they wished to say what the two communities of the People of the Book before them had said: we hear and we disobey.",
-            "bn": "ইমাম মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, এই আয়াত নাযিল হলে তা সাহাবীদের উপর ভারী ঠেকে। তাঁরা নবী ﷺ-এর কাছে এসে হাঁটু গেড়ে বসেন এবং বলেন, তাঁদের এমন দায়িত্ব দেওয়া হয়েছে যা তাঁরা বহন করতে পারেন — নামায, রোযা, জিহাদ, সদকা — কিন্তু এই আয়াতটি তাঁদের শক্তির বাইরে। নবী ﷺ পাল্টা প্রশ্ন করেন, তাঁরা কি তাঁদের আগের আহলে কিতাবের দুই সম্প্রদায় যা বলেছিল তা-ই বলতে চান — আমরা শুনলাম এবং অমান্য করলাম?"
+            "bn": "ইমাম মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, এই আয়াত নাজিল হলে সাহাবীদের কাছে তা খুব ভারী মনে হলো। তাঁরা নবী ﷺ-এর কাছে এসে হাঁটু গেড়ে বসলেন। বললেন, এতদিন তাঁদের এমন সব দায়িত্ব দেওয়া হয়েছে যা তাঁরা পালন করতে পারেন: নামাজ, রোজা, জিহাদ, সদকা। কিন্তু এই আয়াত তাঁদের সাধ্যের বাইরে। জবাবে নবী ﷺ জিজ্ঞেস করলেন, তোমরাও কি তোমাদের আগের দুই আহলে কিতাব সম্প্রদায়ের মতো বলতে চাও: আমরা শুনলাম এবং অমান্য করলাম?"
           },
           {
             "en": "He told them to say instead: we hear and we obey, Your forgiveness, our Lord, and to You is the destination. They said it, and the narration reports that their tongues submitted to it. What they had just been taught to say is then found word for word at the close of 2:285, which came down after. Then 2:286 came, and in this narration the answer given to each petition of that closing supplication is: Yes. A second narration in Muslim, from Ibn Abbas (RA), reports the answer as: I have done so.",
-            "bn": "তিনি তাঁদের বরং বলতে বলেন: আমরা শুনলাম এবং মানলাম; হে আমাদের প্রতিপালক, তোমার ক্ষমা চাই, আর প্রত্যাবর্তন তোমারই দিকে। তাঁরা তা বলেন, আর বর্ণনায় আছে যে তাঁদের জিহ্বা তাতে বশ মানে। তাঁদের যা বলতে শেখানো হলো, ঠিক সেই কথাগুলোই হুবহু পাওয়া যায় 2:285 আয়াতের শেষে, যা এরপর নাযিল হয়। তারপর নাযিল হয় 2:286, আর এই বর্ণনায় সেই সমাপনী দু'আর প্রতিটি আবেদনের জবাব আসে: হ্যাঁ। মুসলিমের আরেকটি বর্ণনায়, ইবনে আব্বাস (রাঃ) থেকে, জবাবটি এসেছে: আমি তা করলাম।"
+            "bn": "তিনি বললেন, বরং তোমরা বলো: আমরা শুনলাম এবং মানলাম; হে আমাদের রব, আমরা আপনার ক্ষমা চাই, আর প্রত্যাবর্তন আপনারই দিকে। সাহাবীরা তা-ই বললেন, আর বর্ণনায় আছে, তাঁদের জিহ্বা কথাগুলোর কাছে বশ মানল। তাঁদের যা বলতে শেখানো হলো, হুবহু সেই কথাগুলোই পাওয়া যায় পরে নাজিল হওয়া ২:২৮৫ আয়াতের শেষে। তারপর নাজিল হলো ২:২৮৬। এই বর্ণনা অনুযায়ী, শেষের সেই দোয়ার প্রতিটি আবেদনের জবাব ছিল: হ্যাঁ। মুসলিমের আরেক বর্ণনায় ইবনে আব্বাস (রাঃ) থেকে জবাবটি এসেছে এভাবে: আমি তা করলাম।"
           }
         ]
       },
       {
         "h": {
           "en": "Abrogated, or Explained?",
-          "bn": "রহিত, না ব্যাখ্যাকৃত?"
+          "bn": "রহিত, নাকি ব্যাখ্যা?"
         },
         "p": [
           {
             "en": "The narration in Muslim itself uses the word: Allah then abrogated it. Al-Bukhari records a Companion's statement that this verse was abrogated by what came after it. So the abrogation reading is not an invention of later scholars; it is in the reports. But it is not the only reading among the early authorities, and pretending otherwise would misrepresent the field.",
-            "bn": "মুসলিমের বর্ণনাটি নিজেই শব্দটি ব্যবহার করে: এরপর আল্লাহ তা রহিত করে দেন। ইমাম বুখারী এক সাহাবীর বক্তব্য উদ্ধৃত করেন যে এই আয়াতটি পরবর্তী আয়াত দ্বারা রহিত হয়েছে। কাজেই রহিত হওয়ার ব্যাখ্যাটি পরবর্তী যুগের আলিমদের বানানো কিছু নয়; তা বর্ণনাতেই আছে। কিন্তু প্রাচীন যুগের কর্তৃপক্ষদের মধ্যে এটিই একমাত্র ব্যাখ্যা নয়, আর অন্যরকম ভান করলে বিষয়টিকে ভুলভাবে উপস্থাপন করা হবে।"
+            "bn": "মুসলিমের বর্ণনাতেই শব্দটা আছে: তারপর আল্লাহ এটি রহিত করে দিলেন। ইমাম বুখারী এক সাহাবীর কথা এনেছেন যে, পরে নাজিল হওয়া আয়াত এই আয়াতকে রহিত করেছে। তাই রহিত হওয়ার মতটা পরের যুগের আলিমদের বানানো নয়, বর্ণনাতেই আছে। তবে প্রথম যুগের আলিমদের মধ্যে এটাই একমাত্র মত নয়। অন্যরকম দেখালে বিষয়টার ভুল ছবি দেওয়া হবে।"
           },
           {
             "en": "Ibn Kathir reports the other position as well: that nothing was lifted, and that what happened was clarification. On that reading a person is called to account for what the heart settles on and acts upon, not for the involuntary thought that crosses it and is refused. Those who hold it cite al-Bukhari's narration from Abu Hurayrah (RA) that Allah has pardoned this community for what occurs to their minds so long as they do not act on it or speak it. The difference is old, and the honest thing is to say that the scholars differ.",
-            "bn": "ইবনে কাসীর অন্য অবস্থানটিও উল্লেখ করেন: কিছুই তুলে নেওয়া হয়নি, যা ঘটেছে তা হলো ব্যাখ্যা স্পষ্ট করা। সেই পাঠ অনুযায়ী মানুষকে হিসাব দিতে হবে অন্তর যাতে স্থির হয় এবং যার উপর সে আমল করে তার জন্য, অনিচ্ছাকৃতভাবে মনে উঁকি দিয়ে প্রত্যাখ্যাত হওয়া ভাবনার জন্য নয়। এই মত যাঁরা ধরেন তাঁরা বুখারীর সেই বর্ণনাটি উল্লেখ করেন, যা আবু হুরাইরা (রাঃ) থেকে বর্ণিত — আল্লাহ এই উম্মতের মনে যা উদয় হয় তা মাফ করে দিয়েছেন, যতক্ষণ না তারা সে অনুযায়ী কাজ করে বা তা মুখে বলে। মতভেদটি পুরনো, আর সৎ কথা হলো এটাই যে আলিমগণ এখানে ভিন্নমত পোষণ করেন।"
+            "bn": "ইবনে কাসীর অন্য মতটিও উল্লেখ করেছেন: কিছুই তুলে নেওয়া হয়নি, যা হয়েছে তা হলো ব্যাখ্যা। এই মত অনুযায়ী মানুষকে হিসাব দিতে হবে সেই বিষয়ের, যার ওপর মন স্থির হয় আর যে অনুযায়ী সে কাজ করে। মনে অনিচ্ছায় যে ভাবনা উঁকি দিয়ে যায় আর সে তা ফিরিয়ে দেয়, তার হিসাব নয়। এই মতের পক্ষে যাঁরা, তাঁরা আবু হুরাইরা (রাঃ) থেকে বুখারীর বর্ণনাটি দলিল হিসেবে আনেন: আল্লাহ এই উম্মতের মনে যা উদয় হয় তা মাফ করে দিয়েছেন, যতক্ষণ না তারা সে অনুযায়ী কাজ করে বা মুখে বলে। মতভেদটা পুরোনো। সৎ কথা হলো, এখানে আলিমদের মধ্যে মতভেদ আছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Heart Is Not Exempt",
-          "bn": "অন্তর ছাড়ের বাইরে নয়"
+          "bn": "অন্তরও হিসাবের আওতায়"
         },
         "p": [
           {
             "en": "Whichever reading is taken, the inner life is not left unaccountable, because other verses say the same thing without any dispute attached. 2:225 says Allah does not take you to task for what is unintentional in your oaths, but for what your hearts have earned. 33:5 says there is no blame for an honest mistake, but there is for what your hearts intended. In both, the settled intent of the heart is the thing recorded.",
-            "bn": "যে পাঠই নেওয়া হোক, অন্তর্জীবন হিসাবের বাইরে থাকে না, কারণ অন্য আয়াতগুলো একই কথা বলে যেখানে কোনো মতভেদ জড়িত নেই। 2:225 আয়াত বলে, আল্লাহ তোমাদের অর্থহীন শপথের জন্য পাকড়াও করবেন না, কিন্তু তোমাদের অন্তর যা অর্জন করেছে তার জন্য করবেন। 33:5 আয়াত বলে, আন্তরিক ভুলের জন্য কোনো গুনাহ নেই, কিন্তু তোমাদের অন্তরের সংকল্পের জন্য আছে। উভয় ক্ষেত্রেই অন্তরের স্থির সংকল্পই লিপিবদ্ধ হওয়া জিনিসটি।"
+            "bn": "যে মতই নেওয়া হোক, মনের ভেতরের জগৎ হিসাবের বাইরে থাকে না। কারণ অন্য আয়াতগুলো কোনো মতভেদ ছাড়াই একই কথা বলে। ২:২২৫ আয়াত বলে, তোমাদের অনিচ্ছাকৃত কসমের জন্য আল্লাহ তোমাদের পাকড়াও করবেন না, কিন্তু তোমাদের অন্তর যা অর্জন করেছে তার জন্য পাকড়াও করবেন। ৩৩:৫ আয়াত বলে, ভুলবশত কিছু করলে গুনাহ নেই, কিন্তু অন্তর যা ইচ্ছা করে করেছে তার জন্য আছে। দুই জায়গাতেই যা লেখা হয়, তা অন্তরের পাকা সংকল্প।"
           },
           {
             "en": "3:29 states the knowledge side in almost the same words as this verse: whether you conceal what is in your breasts or reveal it, Allah knows it. Read together, the verses close a door that most of us leave quietly open — the assumption that the interior of a person is unpoliced territory, where motives can be kept for private use and never audited.",
-            "bn": "3:29 আয়াত জ্ঞানের দিকটি প্রায় এই আয়াতেরই শব্দে বলে: তোমরা তোমাদের অন্তরের বিষয় গোপন করো বা প্রকাশ করো, আল্লাহ তা জানেন। একসঙ্গে পড়লে আয়াতগুলো এমন একটি দরজা বন্ধ করে দেয় যা আমাদের অধিকাংশই চুপচাপ খোলা রেখে দিই — এই ধারণা যে মানুষের ভেতরটা পাহারাবিহীন এলাকা, যেখানে নিয়তগুলো ব্যক্তিগত ব্যবহারের জন্য রেখে দেওয়া যায় এবং কখনো তার নিরীক্ষা হয় না।"
+            "bn": "৩:২৯ আয়াত জানার দিকটা প্রায় এই আয়াতের ভাষাতেই বলে: তোমাদের বুকে যা আছে তা গোপন রাখো বা প্রকাশ করো, আল্লাহ তা জানেন। আয়াতগুলো একসঙ্গে পড়লে একটা দরজা বন্ধ হয়ে যায়, যেটা আমরা বেশির ভাগই চুপচাপ খোলা রেখে দিই। সেটা এই ধারণা: মানুষের ভেতরটা পাহারাহীন এলাকা, সেখানে নিয়তগুলো নিজের কাজে লুকিয়ে রাখা যায়, কেউ কখনো যাচাই করবে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Living Under It",
-          "bn": "এর নিচে বেঁচে থাকা"
+          "bn": "এই আয়াত মেনে চলা"
         },
         "p": [
           {
             "en": "The practical weight of the verse falls on motive rather than on thought. A passing resentment that arrives and is pushed away is not the target; a grudge that is fed, or a public good deed done for the look of it, is. The work it asks for is quiet and continuous: check what you actually want from an action before you do it, and again afterwards, when the reason tends to change.",
-            "bn": "আয়াতটির ব্যবহারিক ভারটি ভাবনার উপর নয়, নিয়তের উপর পড়ে। ক্ষণিকের এক বিরক্তি যা আসে আর ঠেলে সরিয়ে দেওয়া হয় — তা লক্ষ্যবস্তু নয়; কিন্তু যে বিদ্বেষকে খাইয়ে পুষে রাখা হয়, কিংবা লোক-দেখানোর জন্য করা প্রকাশ্য কোনো ভালো কাজ — সেটাই। এটি যে কাজটি চায় তা নীরব ও অবিরাম: কোনো কাজ করার আগে যাচাই করুন আপনি আসলে তা থেকে কী চাইছেন, আর কাজের পরেও আবার যাচাই করুন, যখন কারণটা বদলে যেতে থাকে।"
+            "bn": "আয়াতটির বাস্তব ভার পড়ে নিয়তের ওপর, ভাবনার ওপর নয়। ক্ষণিকের বিরক্তি মনে এল আর আপনি সরিয়ে দিলেন, সেটা আয়াতের লক্ষ্য নয়। লক্ষ্য হলো সেই বিদ্বেষ, যাকে খাইয়ে-পরিয়ে পুষে রাখা হয়, কিংবা লোক দেখানোর জন্য প্রকাশ্যে করা কোনো ভালো কাজ। এর জন্য যে আমল দরকার, তা নীরব আর নিরন্তর। কোনো কাজের আগে যাচাই করুন, এ থেকে আসলে আপনি কী চান। কাজের পরেও আবার যাচাই করুন, কারণ তখন উদ্দেশ্যটা প্রায়ই বদলে যায়।"
           },
           {
             "en": "It is worth ending where the verse ends, and where the passage it opens ends. This verse names forgiveness before punishment. The three verses it begins close with 2:286 and a supplication that was answered request by request. Being seen through, in this Book, is never presented as a reason for despair; it is presented as a reason to bring the inside into line with the outside.",
-            "bn": "আয়াতটি যেখানে শেষ হয়, আর যে অংশটি সে শুরু করেছে তা যেখানে শেষ হয় — সেখানেই থামা ভালো। এই আয়াতে শাস্তির আগে ক্ষমার নাম আসে। যে তিন আয়াতের সূচনা সে করেছে, তা শেষ হয় 2:286 আয়াতে, এমন এক দু'আয় যার প্রতিটি আবেদন কবুল হয়েছিল। এই কিতাবে ভেতর পর্যন্ত দেখে ফেলা হওয়াকে কখনোই হতাশার কারণ হিসেবে পেশ করা হয় না; পেশ করা হয় ভেতরটাকে বাইরের সঙ্গে মিলিয়ে নেওয়ার কারণ হিসেবে।"
+            "bn": "শেষ করা ভালো সেখানেই, যেখানে আয়াতটি শেষ হয়, আর যেখানে শেষ হয় এর শুরু করা অংশটি। এই আয়াত শাস্তির আগে ক্ষমার নাম নিয়েছে। যে তিন আয়াতের শুরু এখান থেকে, তা শেষ হয় ২:২৮৬ আয়াতে, এমন এক দোয়া দিয়ে যার প্রতিটি আবেদন একে একে কবুল হয়েছিল। আল্লাহ ভেতর পর্যন্ত দেখেন, এই কিতাবে কথাটা কখনো হতাশার কারণ হিসেবে আসেনি। এসেছে ভেতরটাকে বাইরের সঙ্গে মিলিয়ে নেওয়ার তাগিদ হিসেবে।"
           }
         ]
       }
@@ -6313,11 +6313,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse begins with a rule that governs the whole of the law: Allah does not burden a soul beyond its wus'. The word is worth pausing on. Wus' is not the utmost a person can manage before collapsing; it is the comfortable room a person has, the space within their capacity. The commentators point out that Allah could have used a word meaning maximum effort and did not. The obligations of Islam sit inside our range, not at its outer edge.",
-            "bn": "আয়াতটি শুরু হয় এমন এক নীতি দিয়ে যা গোটা শরীয়তকে পরিচালনা করে: আল্লাহ কোনো প্রাণকে তার 'উস'-এর বাইরে দায়িত্ব দেন না। শব্দটির ওপর একটু থামা দরকার। 'উস' মানে ভেঙে পড়ার আগমুহূর্ত পর্যন্ত সর্বোচ্চ চেষ্টা নয়; এর অর্থ মানুষের সামর্থ্যের ভেতরে যে স্বস্তির জায়গাটুকু থাকে, সেটুকু। মুফাসসিরগণ লক্ষ করেন, আল্লাহ চাইলে 'সর্বোচ্চ শক্তি' অর্থে শব্দ ব্যবহার করতে পারতেন, কিন্তু করেননি। ইসলামের দায়িত্বগুলো আমাদের সামর্থ্যের ভেতরে বসে আছে, তার শেষ প্রান্তে নয়।"
+            "bn": "আয়াতটি শুরু হয় এমন এক নীতি দিয়ে, যা পুরো শরীয়তের ওপর খাটে: আল্লাহ কোনো প্রাণের ওপর তার 'উস'-এর বাইরে বোঝা চাপান না। শব্দটির কাছে একটু থামা দরকার। 'উস' মানে ভেঙে পড়ার ঠিক আগ পর্যন্ত সর্বোচ্চ চেষ্টা নয়। এর মানে মানুষের সামর্থ্যের ভেতরে স্বস্তিতে চলার মতো জায়গাটুকু। মুফাসসিরগণ দেখিয়েছেন, আল্লাহ চাইলে 'সর্বোচ্চ চেষ্টা' বোঝায় এমন শব্দ ব্যবহার করতে পারতেন, কিন্তু করেননি। ইসলামের দায়িত্বগুলো আমাদের সামর্থ্যের ভেতরেই, তার শেষ সীমায় নয়।"
           },
           {
             "en": "The next clause turns on a small grammatical shift that the commentators regularly note. For good it says laha ma kasabat, hers is what she earned; for evil, wa 'alayha ma iktasabat, against her is what she acquired. The second verb is a form that carries added effort. Good is written down as soon as it is earned; evil is recorded as something a person had to work at. The asymmetry is not an accident of style.",
-            "bn": "পরের বাক্যটি একটি ছোট ব্যাকরণগত পরিবর্তনের ওপর দাঁড়িয়ে, যা মুফাসসিরগণ প্রায়ই উল্লেখ করেন। কল্যাণ সম্পর্কে বলা হয়েছে 'লাহা মা কাসাবাত' — সে যা অর্জন করেছে তা তারই; আর মন্দ সম্পর্কে 'ওয়া আলাইহা মাক্‌তাসাবাত' — সে যা কামাই করেছে তা তার বিরুদ্ধে। দ্বিতীয় ক্রিয়াপদটি এমন এক গঠনে, যা বাড়তি প্রচেষ্টার অর্থ বহন করে। ভালো কাজ অর্জিত হওয়ামাত্র লেখা হয়; মন্দ কাজ লেখা হয় এমন কিছু হিসেবে যার জন্য মানুষকে পরিশ্রম করতে হয়েছে। এই অসমতা কেবল ভাষার কারুকাজ নয়।"
+            "bn": "পরের বাক্যে একটি ছোট ব্যাকরণগত বদল আছে, যার কথা মুফাসসিরগণ প্রায়ই বলেন। ভালোর বেলায় বলা হয়েছে 'লাহা মা কাসাবাত', সে যা অর্জন করেছে তা তারই। মন্দের বেলায় 'ওয়া আলাইহা মাক্‌তাসাবাত', সে যা কামাই করেছে তা তার বিরুদ্ধে। দ্বিতীয় ক্রিয়াটির গঠনে বাড়তি চেষ্টার ভাব আছে। ভালো কাজ অর্জন করামাত্র লেখা হয়ে যায়। আর মন্দ কাজ লেখা হয় এমন কিছু হিসেবে, যার পেছনে মানুষকে খাটতে হয়েছে। এই অসমতা নিছক ভাষার সৌন্দর্য নয়।"
           }
         ]
       },
@@ -6329,75 +6329,75 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is one of the places where a sound occasion of revelation is preserved. Muslim narrates that when 2:284 came down, saying that Allah will call to account whatever the servants disclose or conceal within themselves, the companions found it heavy and came to the Prophet ﷺ saying that this was beyond their power. He told them not to answer as the People of the Book had answered, but to say: we hear and we obey.",
-            "bn": "এটি সেই কয়েকটি জায়গার একটি যেখানে সহীহ সূত্রে শানে নুযূল সংরক্ষিত আছে। মুসলিম বর্ণনা করেন, যখন 2:284 নাযিল হয় — অর্থাৎ বান্দারা নিজেদের ভেতরে যা প্রকাশ করে বা গোপন রাখে, আল্লাহ সবকিছুর হিসাব নেবেন — সাহাবীরা তা ভারী বোধ করেন এবং নবী ﷺ-এর কাছে এসে বলেন, এটি তাঁদের সাধ্যের বাইরে। নবী ﷺ তাঁদের বলেন, আহলে কিতাব যেভাবে জবাব দিয়েছিল সেভাবে বলো না; বরং বলো — আমরা শুনলাম এবং মানলাম।"
+            "bn": "এটি এমন এক জায়গা, যেখানে আয়াত নাজিলের প্রেক্ষাপট সহীহ সূত্রে সংরক্ষিত আছে। মুসলিম বর্ণনা করেন, ২:২৮৪ নাজিল হলো, যেখানে বলা হয়েছে বান্দারা মনের ভেতর যা প্রকাশ করে বা গোপন রাখে, আল্লাহ সবকিছুর হিসাব নেবেন। সাহাবীদের কাছে তা ভারী ঠেকল। তাঁরা নবী ﷺ-এর কাছে এসে বললেন, এটা তাঁদের সাধ্যের বাইরে। নবী ﷺ তাঁদের বললেন, আহলে কিতাব যেভাবে জবাব দিয়েছিল সেভাবে জবাব দিয়ো না; বরং বলো: আমরা শুনলাম এবং মানলাম।"
           },
           {
             "en": "When they said it and their tongues submitted to it, this verse came down and lifted what they had feared. In this narration the answer given to each request in the closing supplication is: Yes. A second narration in Muslim, from Ibn Abbas (RA), reports the answer as: I have done so. That is the emotional shape of the passage. A community expressed obedience before it received relief, and then relief arrived request by request. The verse is the last of Surah al-Baqarah, and it ends the longest surah on an answered prayer.",
-            "bn": "তাঁরা যখন তা বললেন এবং তাঁদের জিহ্বা তাতে নত হলো, তখন এই আয়াত নাযিল হয়ে তাঁদের ভয়টুকু তুলে নেয়। এই বর্ণনায় শেষাংশের দোয়ার প্রতিটি আবেদনের জবাব আসে — হ্যাঁ। মুসলিমের আরেকটি বর্ণনায়, ইবনে আব্বাস (রাঃ) থেকে, জবাবটি এসেছে — আমি তা করে দিলাম। এটিই এই অংশের আবেগগত কাঠামো। একটি জাতি স্বস্তি পাওয়ার আগেই আনুগত্য ঘোষণা করেছিল, আর তারপর স্বস্তি এসেছিল আবেদন ধরে ধরে। আয়াতটি সূরা আল-বাকারার শেষ আয়াত, আর কুরআনের দীর্ঘতম সূরাটি শেষ হয় একটি কবুল হওয়া দোয়া দিয়ে।"
+            "bn": "তাঁরা যখন তা বললেন আর তাঁদের জিহ্বা তাতে বশ মানল, তখন এই আয়াত নাজিল হয়ে তাঁদের ভয় দূর করে দিল। এই বর্ণনায় শেষের দোয়ার প্রতিটি আবেদনের জবাব এসেছে: হ্যাঁ। মুসলিমের আরেক বর্ণনায়, ইবনে আব্বাস (রাঃ) থেকে, জবাবটি এসেছে: আমি তা করলাম। পুরো অংশের আবেগটা এভাবেই সাজানো। স্বস্তি পাওয়ার আগেই সাহাবীদের জামাত আনুগত্য ঘোষণা করেছিল, তারপর স্বস্তি এল এক এক আবেদন ধরে। আয়াতটি সূরা আল-বাকারার শেষ আয়াত। কুরআনের দীর্ঘতম সূরা শেষ হয় একটি কবুল হওয়া দোয়া দিয়ে।"
           }
         ]
       },
       {
         "h": {
           "en": "Five Requests in Order",
-          "bn": "ক্রমানুসারে পাঁচটি আবেদন"
+          "bn": "পরপর পাঁচটি আবেদন"
         },
         "p": [
           {
             "en": "The supplication is carefully ordered. First, do not take us to task if we forget or fall into error, which asks for the two failures that are not deliberate. Then, do not place upon us an isr, a heavy binding burden such as was placed on those before us. Then, do not make us bear what we have no strength for. Notice that the servant asks for ease even after being told the law is already within capacity.",
-            "bn": "দোয়াটি অত্যন্ত সুবিন্যস্ত। প্রথমে: আমরা যদি ভুলে যাই বা ভুল করি, আমাদের পাকড়াও করবেন না — অর্থাৎ যে দুই ধরনের ত্রুটি ইচ্ছাকৃত নয়, সেগুলোর কথা। এরপর: আমাদের ওপর 'ইসর' চাপিয়ে দেবেন না — সেই ভারী, বাঁধনদায়ী বোঝা, যা আমাদের পূর্ববর্তীদের ওপর দেওয়া হয়েছিল। এরপর: আমাদের এমন কিছু বহন করাবেন না যার শক্তি আমাদের নেই। লক্ষ করুন, শরীয়ত সাধ্যের ভেতরেই আছে জানার পরও বান্দা স্বস্তির প্রার্থনা করছে।"
+            "bn": "দোয়াটি খুব যত্ন করে সাজানো। প্রথমে: আমরা যদি ভুলে যাই বা ভুল করে ফেলি, আমাদের পাকড়াও করবেন না। এখানে চাওয়া হচ্ছে সেই দুই ত্রুটির মাফ, যা ইচ্ছাকৃত নয়। তারপর: আমাদের ওপর 'ইসর' চাপাবেন না, অর্থাৎ এমন ভারী, বেঁধে ফেলা বোঝা, যা আমাদের আগের লোকদের ওপর চাপানো হয়েছিল। তারপর: যা বহন করার শক্তি আমাদের নেই, তা আমাদের ওপর চাপাবেন না। খেয়াল করুন, শরীয়ত আগে থেকেই সাধ্যের ভেতরে, এ কথা জানানোর পরও বান্দা সহজের জন্য দোয়া করছে।"
           },
           {
             "en": "The last three words for mercy are not repetition. 'Afw is erasure, that the offence be wiped away as though it had not happened; maghfirah comes from covering, that it be veiled from exposure; rahmah is the mercy that gives after the debt is settled. The prayer ends by naming Allah our mawla, our protector and patron, and asking for help against those who reject faith. Weakness has been turned, sentence by sentence, into a claim on His care.",
-            "bn": "শেষের তিনটি শব্দ কেবল পুনরাবৃত্তি নয়। 'আফও মানে মুছে ফেলা — অপরাধটি যেন ঘটেইনি, এমনভাবে মিটিয়ে দেওয়া; মাগফিরাত এসেছে আবরণের অর্থ থেকে — অর্থাৎ তা ঢেকে রাখা, প্রকাশ না করা; আর রহমত হলো সেই দয়া, যা দেনা মিটে যাওয়ার পরও দান করে। দোয়াটি শেষ হয় আল্লাহকে 'মাওলা' — আমাদের অভিভাবক ও পৃষ্ঠপোষক — বলে ডেকে, আর অস্বীকারকারী সম্প্রদায়ের বিরুদ্ধে সাহায্য চেয়ে। বাক্যে বাক্যে দুর্বলতাকে বদলে দেওয়া হয়েছে তাঁর যত্নের ওপর এক দাবিতে।"
+            "bn": "শেষের তিনটি শব্দ একই কথার পুনরাবৃত্তি নয়। 'আফও মানে মুছে ফেলা, যেন অপরাধটা ঘটেইনি। মাগফিরাত এসেছে ঢেকে দেওয়ার অর্থ থেকে, যেন তা প্রকাশ না পায়। আর রহমত সেই দয়া, যা দেনা মিটে যাওয়ার পরও দান করে। দোয়ার শেষে আল্লাহকে ডাকা হয় 'মাওলা' বলে, অর্থাৎ আমাদের অভিভাবক ও সহায়। আর কাফির সম্প্রদায়ের বিরুদ্ধে সাহায্য চাওয়া হয়। বাক্যে বাক্যে দুর্বলতা বদলে গেছে তাঁর যত্ন পাওয়ার দাবিতে।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Commentators Draw",
-          "bn": "মুফাসসিরগণ যা গ্রহণ করেন"
+          "bn": "মুফাসসিরগণ যা বের করেন"
         },
         "p": [
           {
             "en": "The majority of exegetes take the opening rule as a foundation of Islamic legal reasoning rather than a comforting sentiment. From it the jurists derive that inability removes obligation: the one who cannot stand prays sitting, the one who cannot fast makes up or feeds, the one under genuine compulsion is not held as the free actor is. Whole chapters of fiqh on concession and necessity rest on this single clause.",
-            "bn": "অধিকাংশ মুফাসসির আয়াতের সূচনা-নীতিটিকে কেবল সান্ত্বনার বাক্য নয়, বরং ইসলামী আইনচিন্তার একটি ভিত্তি হিসেবে গ্রহণ করেন। এখান থেকেই ফকীহগণ নীতি নেন যে অক্ষমতা দায়িত্ব রহিত করে: যে দাঁড়াতে পারে না সে বসে নামায পড়ে, যে রোযা রাখতে পারে না সে কাযা করে বা ফিদইয়া দেয়, আর যে প্রকৃত বাধ্যবাধকতার মধ্যে আছে তাকে স্বাধীন ব্যক্তির মতো ধরা হয় না। ছাড় ও প্রয়োজনের ওপর ফিকহের বহু অধ্যায় এই একটি বাক্যের ওপর দাঁড়িয়ে।"
+            "bn": "অধিকাংশ মুফাসসির আয়াতের প্রথম নীতিটিকে নিছক সান্ত্বনার কথা হিসেবে দেখেন না। তাঁদের কাছে এটি ইসলামী ফিকহের একটি ভিত্তি। এখান থেকেই ফকীহগণ নীতি বের করেছেন: অক্ষমতা থাকলে দায়িত্ব থাকে না। যে দাঁড়াতে পারে না, সে বসে নামাজ পড়ে। যে রোজা রাখতে পারে না, সে কাজা করে বা ফিদইয়া দেয়। যাকে সত্যিই জোর করে বাধ্য করা হয়েছে, তাকে স্বাধীন মানুষের মতো ধরা হয় না। ছাড় ও জরুরত নিয়ে ফিকহের পুরো পুরো অধ্যায় এই একটি বাক্যের ওপর দাঁড়িয়ে।"
           },
           {
             "en": "They also read the verse against 2:284 rather than apart from it. The earlier verse establishes that Allah knows the inner life completely; this one clarifies that He does not punish the passing thought a person neither acted on nor settled into. Knowledge is total; accountability is measured. Holding both together is what keeps a believer honest without becoming paralysed by self-inspection.",
-            "bn": "তাঁরা আয়াতটিকে 2:284 থেকে বিচ্ছিন্ন করে নয়, বরং তার পাশে রেখে পড়েন। আগের আয়াত প্রতিষ্ঠা করে যে আল্লাহ অন্তরের সবকিছু পূর্ণরূপে জানেন; আর এই আয়াত স্পষ্ট করে যে ক্ষণিকের যে ভাবনা মানুষ কাজে রূপ দেয়নি বা মনে স্থায়ী করেনি, তার জন্য তিনি শাস্তি দেন না। জ্ঞান পূর্ণ; জবাবদিহি পরিমিত। এই দুটোকে একসঙ্গে ধরে রাখলেই মুমিন সৎ থাকে, অথচ আত্মপরীক্ষার ভারে অবশ হয়ে পড়ে না।"
+            "bn": "তাঁরা আয়াতটিকে ২:২৮৪ থেকে আলাদা করে পড়েন না, পাশাপাশি রেখে পড়েন। আগের আয়াত জানিয়ে দেয়, মানুষের ভেতরের সবকিছু আল্লাহ পুরোপুরি জানেন। আর এই আয়াত পরিষ্কার করে দেয়, মনে আসা যে ভাবনা মানুষ কাজে রূপ দেয়নি, মনেও গেঁথে নেয়নি, তার জন্য তিনি শাস্তি দেন না। জ্ঞান তাঁর পূর্ণ; জবাবদিহি মেপে মেপে। দুটোকে একসঙ্গে ধরে রাখলে মুমিন সৎ থাকে, আবার নিজের ভেতর খুঁটিয়ে দেখতে দেখতে অবশও হয়ে পড়ে না।"
           }
         ]
       },
       {
         "h": {
           "en": "In the Practice of the Prophet ﷺ",
-          "bn": "নবী ﷺ-এর আমলে"
+          "bn": "নবী ﷺ-এর সুন্নাহতে"
         },
         "p": [
           {
             "en": "Al-Bukhari and Muslim both record that the Prophet ﷺ said whoever recites the last two verses of Surah al-Baqarah in a night, they will suffice him. Whatever the precise scope of that sufficiency, the practice it produced is clear: these verses became part of the believer's night, recited as protection and as the closing statement of the day. Many companions are reported to have kept them as a fixed habit before sleeping.",
-            "bn": "বুখারী ও মুসলিম উভয়েই বর্ণনা করেন, নবী ﷺ বলেছেন — যে ব্যক্তি কোনো রাতে সূরা আল-বাকারার শেষ দুই আয়াত পাঠ করবে, তা তার জন্য যথেষ্ট হবে। সেই 'যথেষ্ট' হওয়ার পরিধি যা-ই হোক, এর ফলে যে আমলটি গড়ে উঠেছে তা স্পষ্ট: এই আয়াতগুলো মুমিনের রাতের অংশ হয়ে যায় — নিরাপত্তা হিসেবে, আবার দিনের সমাপ্তি-ঘোষণা হিসেবেও। বহু সাহাবী থেকে বর্ণিত আছে, ঘুমানোর আগে তাঁরা এটিকে নিয়মিত অভ্যাসে পরিণত করেছিলেন।"
+            "bn": "বুখারী ও মুসলিম দুজনেই বর্ণনা করেন, নবী ﷺ বলেছেন: যে ব্যক্তি রাতে সূরা আল-বাকারার শেষ দুই আয়াত পড়বে, তার জন্য তা যথেষ্ট হবে। এই 'যথেষ্ট' ঠিক কতটুকু, তা যা-ই হোক, এ থেকে যে আমল গড়ে উঠেছে তা পরিষ্কার। আয়াতগুলো মুমিনের রাতের অংশ হয়ে গেছে। হেফাজতের জন্য পড়া হয়, আবার দিনের শেষ কথা হিসেবেও। বহু সাহাবী সম্পর্কে বর্ণিত আছে, ঘুমানোর আগে এগুলো পড়া তাঁদের বাঁধা অভ্যাস ছিল।"
           },
           {
             "en": "Muslim also narrates that these closing verses, together with al-Fatihah, were given to the Prophet ﷺ as two lights not given to any prophet before him. The wording matters for how a Muslim uses them. They are described as a gift and a light, not as an incantation. Recited without meaning they are still recitation; recited with meaning they are a conversation the believer has already been told was answered.",
-            "bn": "মুসলিম আরও বর্ণনা করেন যে সূরা ফাতিহা এবং এই শেষ আয়াতগুলো নবী ﷺ-কে দুটি নূর হিসেবে দেওয়া হয়েছিল, যা তাঁর আগে কোনো নবীকে দেওয়া হয়নি। শব্দচয়নটি গুরুত্বপূর্ণ, কারণ এটি ঠিক করে দেয় একজন মুসলিম এগুলো কীভাবে ব্যবহার করবে। এগুলোকে বলা হয়েছে উপহার ও আলো — কোনো মন্ত্র নয়। অর্থ না বুঝে পড়লেও তা তিলাওয়াত; কিন্তু অর্থ বুঝে পড়লে তা এমন এক কথোপকথন, যার জবাব দেওয়া হয়েছে বলে আমাদের আগেই জানানো হয়েছে।"
+            "bn": "মুসলিম আরও বর্ণনা করেন, সূরা ফাতিহা আর এই শেষ আয়াতগুলো নবী ﷺ-কে দুটি নূর হিসেবে দেওয়া হয়েছে, যা তাঁর আগে কোনো নবীকে দেওয়া হয়নি। একজন মুসলিম এগুলো কীভাবে পড়বে, তা বুঝতে শব্দগুলো জরুরি। এগুলোকে বলা হয়েছে উপহার ও নূর, কোনো মন্ত্র নয়। অর্থ না বুঝে পড়লেও তা তিলাওয়াত। কিন্তু অর্থ বুঝে পড়লে তা হয়ে ওঠে এমন এক কথোপকথন, যার জবাব মিলেছে বলে মুমিনকে আগেই জানানো হয়েছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Living With Your Limits",
-          "bn": "নিজের সীমা নিয়ে বেঁচে থাকা"
+          "bn": "নিজের সীমা জেনে চলা"
         },
         "p": [
           {
             "en": "It helps to be exact about what the opening promise covers. It says that Allah does not impose religious obligation beyond capacity. It does not promise that life will never feel overwhelming, that grief will stay manageable, or that a person will never need help, rest or treatment. Reading it as a claim that no believer can ever be crushed by circumstances turns a mercy into a burden, which is the opposite of the verse's own direction.",
-            "bn": "আয়াতের শুরুর প্রতিশ্রুতিটি ঠিক কী কভার করে, সে বিষয়ে নির্ভুল হওয়া দরকার। এটি বলছে, আল্লাহ সাধ্যের অতিরিক্ত ধর্মীয় দায়িত্ব চাপান না। এটি প্রতিশ্রুতি দিচ্ছে না যে জীবন কখনো অসহনীয় মনে হবে না, শোক সবসময় সামলানোর মতো থাকবে, কিংবা মানুষের কখনো সাহায্য, বিশ্রাম বা চিকিৎসার দরকার হবে না। একে যদি এভাবে পড়া হয় যে কোনো মুমিন কখনো পরিস্থিতির চাপে ভেঙে পড়তে পারে না, তবে একটি রহমতকে বোঝায় পরিণত করা হয় — যা আয়াতের নিজের গতিরই বিপরীত।"
+            "bn": "শুরুর প্রতিশ্রুতিটা ঠিক কতটুকু জুড়ে, তা সঠিকভাবে বোঝা দরকার। এটি বলে, আল্লাহ সাধ্যের বেশি দ্বীনি দায়িত্ব চাপান না। এটি এমন ওয়াদা করে না যে জীবন কখনো অসহ্য মনে হবে না, শোক সবসময় সামলে নেওয়া যাবে, কিংবা মানুষের কখনো সাহায্য, বিশ্রাম বা চিকিৎসা লাগবে না। কেউ যদি একে এভাবে পড়ে যে কোনো মুমিন কখনো পরিস্থিতির চাপে ভেঙে পড়তে পারে না, তাহলে রহমতকেই বোঝা বানিয়ে ফেলা হয়। অথচ আয়াতটি চলছে ঠিক উল্টো দিকে।"
           },
           {
             "en": "Used properly it does two things at once. When a duty feels impossible, it asks whether the duty is truly beyond capacity or merely beyond current habit, and the difference is usually clear on inspection. And when a person is genuinely at the end of their strength, it hands them a supplication that Allah Himself taught for exactly that moment, ending not in a complaint but in the words: You are our protector, so help us.",
-            "bn": "সঠিকভাবে ব্যবহার করলে এটি একসঙ্গে দুটি কাজ করে। যখন কোনো দায়িত্ব অসম্ভব মনে হয়, তখন এটি প্রশ্ন করে — দায়িত্বটি কি সত্যিই সাধ্যের বাইরে, নাকি কেবল বর্তমান অভ্যাসের বাইরে? একটু খতিয়ে দেখলে পার্থক্যটা সাধারণত পরিষ্কার হয়ে যায়। আর যখন কেউ সত্যিই নিজের শক্তির শেষ প্রান্তে পৌঁছে যায়, তখন এটি তার হাতে তুলে দেয় ঠিক সেই মুহূর্তের জন্য আল্লাহর শেখানো একটি দোয়া, যা অভিযোগে শেষ হয় না, শেষ হয় এই কথায় — আপনি আমাদের অভিভাবক, তাই আমাদের সাহায্য করুন।"
+            "bn": "ঠিকভাবে কাজে লাগালে আয়াতটি একসঙ্গে দুটো কাজ করে। কোনো দায়িত্ব অসম্ভব মনে হলে প্রশ্ন তোলে: দায়িত্বটা কি সত্যিই সাধ্যের বাইরে, নাকি শুধু এখনকার অভ্যাসের বাইরে? একটু খতিয়ে দেখলে পার্থক্যটা সাধারণত পরিষ্কার হয়ে যায়। আর কেউ যখন সত্যিই শক্তির শেষ সীমায় পৌঁছে যায়, তখন আয়াতটি তার হাতে তুলে দেয় ঠিক সেই মুহূর্তের জন্য আল্লাহর নিজের শেখানো একটি দোয়া। দোয়াটি অভিযোগে শেষ হয় না, শেষ হয় এই কথায়: আপনি আমাদের অভিভাবক, তাই আমাদের সাহায্য করুন।"
           }
         ]
       }
