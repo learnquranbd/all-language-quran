@@ -348,7 +348,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Al-Qurtubi mentions what is narrated from Ali only to set it aside.\"What is narrated from Ali is weak,\" he writes, \"because Allah the Exalted said fa-idh lam taf'alu, since you did not, and this indicates that nobody gave anything in charity.\" He also reads the address as aimed at those who had something to give, and draws a principle of law from the passage: it shows that a ruling may be abrogated before it has been acted upon.",
+            "en": "Al-Qurtubi mentions what is narrated from Ali only to set it aside. \"What is narrated from Ali is weak,\" he writes, \"because Allah the Exalted said fa-idh lam taf'alu, since you did not, and this indicates that nobody gave anything in charity.\" He also reads the address as aimed at those who had something to give, and draws a principle of law from the passage: it shows that a ruling may be abrogated before it has been acted upon.",
             "bn": "আলী (রাঃ) থেকে বর্ণিত কথাটি কুরতুবী উল্লেখ করেন কেবল তা নাকচ করার জন্য। তিনি লেখেন, \"আলী (রাঃ) থেকে যা বর্ণিত, তা দুর্বল, কারণ আল্লাহ তা'আলা বলেছেন ফা-ইয লাম তাফ'আলূ, যেহেতু তোমরা করোনি। এ থেকে বোঝা যায়, কেউ কোনো কিছুই সদাকা দেয়নি।\" তাঁর মতে সম্বোধনটা তাদের প্রতি, যাদের দেওয়ার মতো কিছু ছিল। এই অংশ থেকে তিনি ফিকহের একটি মূলনীতিও বের করেন: কোনো বিধানের উপর আমল হওয়ার আগেই তা রহিত হতে পারে।"
           },
           {

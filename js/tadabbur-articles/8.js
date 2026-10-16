@@ -904,7 +904,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবীর ﷺ কোনো হাদিস জুড়ে দেয়নি। তারা জুড়েছে সীরাত: বদরের পরের সেই বৈঠক, আহাবীশদের ভাড়া করা, সৈন্যদের খাওয়ানো, এক উকিয়ার ওজন। এগুলো শানে নুযূল সম্পর্কিত বর্ণনা, মুফাসসিরগণ নিজেদের উস্তাদদের কাছ থেকে পেয়েছেন। এগুলো দৃশ্যটা চোখের সামনে আনতে কাজে লাগে, কোনো বিধান ঠিক করতে নয়। আয়াতটি বুঝতে কোনো বর্ণনার দরকার নেই, আর ফাঁক ভরাতে এখানে অন্য কোথাও থেকে হাদিস ধার করেও আনা হচ্ছে না।"
           },
           {
-            "en": "One sound narration stands beside the idea without being tied to the verse, and it is offered on that footing. Sahih al-Bukhari 2887 has from Abu Hurayrah (RA) that the Prophet ﷺ said, perish the slave of the dinar and the dirham, pleased if he is given and displeased if he is not. It sits in Bukhari's chapter on fighting, which is where this verse lives too, and it names the thing the verse is describing from the inside: a man whose money has been given a master.",
+            "en": "One sound narration stands beside the idea without being tied to the verse, and it is offered on that footing. Sahih al-Bukhari 2887 has from Abu Hurayrah (RA) that the Prophet ﷺ said, perish the slave of the dinar and the dirham, pleased if he is given and displeased if he is not. It sits in Bukhari's chapter on fighting, which is where this verse lives too, and it names the thing the verse is describing from the inside: a man whose money has become his master.",
             "bn": "একটি সহীহ বর্ণনা এ ভাবনার সঙ্গে মেলে, যদিও আয়াতের সঙ্গে তা যুক্ত নয়; এখানে সেটি সেই হিসেবেই আনা হলো। সহীহ বুখারীর ২৮৮৭ নম্বর হাদিসে আবূ হুরাইরা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: ধ্বংস হোক দীনার আর দিরহামের গোলাম; তাকে দেওয়া হলে সে খুশি, না দেওয়া হলে নারাজ। হাদিসটি আছে বুখারীর জিহাদ অধ্যায়ে, আর এ আয়াতের প্রসঙ্গও সেটাই। আয়াত যে অবস্থার কথা বলছে, এ হাদিস ভেতর থেকে তার নাম দেয়: এমন মানুষ, টাকাই যার মনিব হয়ে বসেছে।"
           }
         ]
@@ -1636,8 +1636,8 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The verse gives no supplication, and it would be a misreading to take from it that this world must not be asked for at all. The prayer the Quran praises at 2:201 asks for both and keeps them in order: our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire. The Hereafter is named second and the protection last, which is the sequence our verse is correcting when it says what you wanted and what He wanted for you.",
-            "bn": "আয়াতে কোনো দোয়া নেই। তবে এ থেকে ধরে নেওয়া ভুল হবে যে দুনিয়ার কিছু চাওয়াই যাবে না। কুরআন ২:২০১ আয়াতে যে দোয়ার প্রশংসা করেছে, তাতে দুটোই চাওয়া আছে, আর ক্রমটাও ঠিক রাখা আছে: হে আমাদের রব, আমাদের দুনিয়াতে কল্যাণ দিন, আখিরাতেও কল্যাণ দিন, আর জাহান্নামের আযাব থেকে আমাদের রক্ষা করুন। আখিরাত আসে দ্বিতীয় স্থানে, আর রক্ষার কথা সবার শেষে। আমাদের আয়াত যখন বলে তোমরা কী চেয়েছিলে আর তিনি তোমাদের জন্য কী চেয়েছিলেন, তখন সে এই ক্রমটাই শুধরে দিচ্ছে।"
+            "en": "The verse gives no supplication, and it would be a misreading to take from it that this world must not be asked for at all. The prayer the Quran praises at 2:201 asks for both: our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire. The world is asked for, but the Hereafter stands beside it and the request ends on safety from the Fire. A wish that stops at the world is what our verse corrects when it sets what you wanted beside what He wanted for you.",
+            "bn": "আয়াতে কোনো দোয়া নেই। তবে এ থেকে ধরে নেওয়া ভুল হবে যে দুনিয়ার কিছু চাওয়াই যাবে না। কুরআন ২:২০১ আয়াতে যে দোয়ার প্রশংসা করেছে, তাতে দুটোই চাওয়া আছে: হে আমাদের রব, আমাদের দুনিয়াতে কল্যাণ দিন, আখিরাতেও কল্যাণ দিন, আর জাহান্নামের আযাব থেকে আমাদের রক্ষা করুন। দুনিয়া চাওয়া আছে, কিন্তু তার পাশেই আছে আখিরাত, আর চাওয়া শেষ হয় জাহান্নাম থেকে রক্ষার আরজিতে। যে চাওয়া দুনিয়াতেই থেমে যায়, আমাদের আয়াত সেটাই শুধরে দেয়, যখন পাশাপাশি বলে তোমরা কী চেয়েছিলে আর তিনি তোমাদের জন্য কী চেয়েছিলেন।"
           },
           {
             "en": "A sentence in this verse's own words can be added and claimed as no more than that: O Allah, make me want what You want for me, and do not let me take the first thing that presents itself in place of what You were preparing. That is assembled from the verse's own two clauses and from as-Sa'di's gloss on them. It is not a Sunnah du'a. The wording of 2:201 is the safer thing to memorise, and it is short enough to say at the end of every prayer.",
@@ -1683,13 +1683,13 @@ Object.assign(TADABBUR_ARTICLES, {
       },
       {
         "h": {
-          "en": "Four Verbs, Then Two",
-          "bn": "চারটি ক্রিয়া, তারপর দুটি"
+          "en": "Three Verbs, Then Two",
+          "bn": "তিনটি ক্রিয়া, তারপর দুটি"
         },
         "p": [
           {
-            "en": "The first group is given four verbs: they believed, they emigrated, and they fought with their wealth and their lives in the path of Allah. At-Tabari unpacks the second and third. Hajaru means they left their people and their kin and their houses, and that their people and kin left them; jahadu means they went to the utmost in wearing out their own selves in war against the enemies of Allah; and in the path of Allah he glosses as in the religion of Allah, which He made a road to His mercy and to safety from His punishment.",
-            "bn": "প্রথম দলের জন্য আছে চারটি ক্রিয়া: তারা ঈমান এনেছে, হিজরত করেছে, আর নিজেদের সম্পদ ও জান দিয়ে আল্লাহর পথে লড়েছে। দ্বিতীয় আর তৃতীয়টি তাবারী খুলে বলেন। হাজারূ মানে তারা নিজেদের লোকজন, আত্মীয়স্বজন আর ঘরবাড়ি ছেড়েছে, আর তাদের লোকজন ও আত্মীয়রাও তাদের ছেড়ে দিয়েছে। জাহাদূ মানে আল্লাহর শত্রুদের বিরুদ্ধে যুদ্ধে তারা নিজেদের শেষ সীমা পর্যন্ত খাটিয়ে নিঃশেষ করেছে। আর আল্লাহর পথে কথাটির ব্যাখ্যায় তিনি বলেন: আল্লাহর দীনে, যাকে তিনি বানিয়েছেন তাঁর রহমতে পৌঁছার আর তাঁর শাস্তি থেকে বাঁচার রাস্তা।"
+            "en": "The first group is given three verbs: they believed, they emigrated, and they fought with their wealth and their lives in the path of Allah. At-Tabari unpacks the second and third. Hajaru means they left their people and their kin and their houses, and that their people and kin left them; jahadu means they went to the utmost in wearing out their own selves in war against the enemies of Allah; and in the path of Allah he glosses as in the religion of Allah, which He made a road to His mercy and to safety from His punishment.",
+            "bn": "প্রথম দলের জন্য আছে তিনটি ক্রিয়া: তারা ঈমান এনেছে, হিজরত করেছে, আর নিজেদের সম্পদ ও জান দিয়ে আল্লাহর পথে লড়েছে। দ্বিতীয় আর তৃতীয়টি তাবারী খুলে বলেন। হাজারূ মানে তারা নিজেদের লোকজন, আত্মীয়স্বজন আর ঘরবাড়ি ছেড়েছে, আর তাদের লোকজন ও আত্মীয়রাও তাদের ছেড়ে দিয়েছে। জাহাদূ মানে আল্লাহর শত্রুদের বিরুদ্ধে যুদ্ধে তারা নিজেদের শেষ সীমা পর্যন্ত খাটিয়ে নিঃশেষ করেছে। আর আল্লাহর পথে কথাটির ব্যাখ্যায় তিনি বলেন: আল্লাহর দীনে, যাকে তিনি বানিয়েছেন তাঁর রহমতে পৌঁছার আর তাঁর শাস্তি থেকে বাঁচার রাস্তা।"
           },
           {
             "en": "The second group is given two verbs and no more: they sheltered and they helped. At-Tabari explains the first with the noun inside it, that they made for them a ma'wa, a place to come home to, settling them and turning rooms of their own houses into dwellings for them when their people had driven them out of their houses. The economy of it is the point. One group is described by everything it gave up, the other by two things it did, and the verse then says of both that some of them are the allies of others.",

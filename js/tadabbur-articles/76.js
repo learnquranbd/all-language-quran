@@ -288,8 +288,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "৭৬:২১ আয়াত তাদের পরায় সবুজ 'সুনদুস' ও 'ইস্তাবরাক', অর্থাৎ মিহি রেশম ও পুরু রেশম, আর সাজায় রুপার কঙ্কণে। ইবনে কাসীর লক্ষ করান, এ বর্ণনা 'আল-আবরার' তথা নেককারদের; অন্যদিকে ২২:২৩ আয়াতে আছে সোনা ও মুক্তার কঙ্কণ। অনুচ্ছেদটি শুরু থেকে শেষ পর্যন্ত নিজের সুর ধরে রাখে: রুপার পাত্র, রুপার পানপাত্র, রুপার কঙ্কণ, সবই এক সুতোয় গাঁথা।"
           },
           {
-            "en": "The last word is the one to carry away. Sa'y is effort, the work of walking and striving; mashkur is its passive participle, thanked. The people who told the poor they wanted no thanks are thanked by Allah for what they did. If you are looking for something to do with this passage, 76:8 and 76:9 are the instruction, and all the rest of it is the answer.",
-            "bn": "মনে রাখার মতো শব্দটি একেবারে শেষে। 'সা'ই' মানে চেষ্টা, হেঁটে চলা আর খেটে যাওয়ার কাজ। 'মাশকূর' কর্মবাচ্য রূপ (ইসমে মাফউল): যার শুকরিয়া জানানো হয়েছে। যারা গরিবদের বলেছিল যে তারা কোনো শুকরিয়া চায় না, তাদের কাজের জন্য আল্লাহ নিজে তাদের শুকরিয়া জানান। এই অনুচ্ছেদ থেকে কিছু আমল করতে চাইলে ৭৬:৮ আর ৭৬:৯ আয়াতই নির্দেশনা, বাকি সবটুকু তার জবাব।"
+            "en": "The last word is the one to carry away. Sa'y is effort, the work of walking and striving; mashkur, from shukr, is a passive participle: thanked. The people who told the poor they wanted no thanks are thanked by Allah for what they did. If you are looking for something to do with this passage, 76:8 and 76:9 are the instruction, and all the rest of it is the answer.",
+            "bn": "মনে রাখার মতো শব্দটি একেবারে শেষে। 'সা'ই' মানে চেষ্টা, হেঁটে চলা আর খেটে যাওয়ার কাজ। 'মাশকূর' এসেছে 'শুকর' থেকে, এটি কর্মবাচ্য রূপ (ইসমে মাফউল): যার শুকরিয়া জানানো হয়েছে। যারা গরিবদের বলেছিল যে তারা কোনো শুকরিয়া চায় না, তাদের কাজের জন্য আল্লাহ নিজে তাদের শুকরিয়া জানান। এই অনুচ্ছেদ থেকে কিছু আমল করতে চাইলে ৭৬:৮ আর ৭৬:৯ আয়াতই নির্দেশনা, বাকি সবটুকু তার জবাব।"
           }
         ]
       }

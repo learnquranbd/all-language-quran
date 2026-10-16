@@ -216,8 +216,8 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The Sunnah settles in practice what the grammar leaves open. Muslim records from Zayd ibn Arqam (RA) a supplication the Prophet ﷺ used to make, within which he said: O Allah, give my soul its taqwa and purify it, You are the best of those who purify it, You are its Guardian and its Master. Zayd added that the Prophet ﷺ used to teach them these words, and that they were now teaching them onward. Ask for the purifying, and then go and do it.",
-            "bn": "ব্যাকরণ যে প্রশ্ন খোলা রাখে, সুন্নাহ আমলের ভেতর দিয়ে তার মীমাংসা করে দেয়। ইমাম মুসলিম যায়দ ইবনে আরকাম (রাঃ) থেকে নবী ﷺ-এর একটি দোয়া বর্ণনা করেছেন। তার মধ্যে তিনি বলতেন: হে আল্লাহ, আমার নফসকে তার তাক্বওয়া দান করুন, তাকে পবিত্র করুন। যারা তাকে পবিত্র করে, আপনিই তাদের মধ্যে শ্রেষ্ঠ। আপনিই তার অভিভাবক, আপনিই তার মনিব। যায়দ (রাঃ) আরও বলেন, নবী ﷺ তাঁদের এই কথাগুলো শেখাতেন, আর এখন তাঁরা তা অন্যদের শেখাচ্ছেন। তাই পবিত্রতা আল্লাহর কাছে চেয়ে নিন, তারপর নিজে গিয়ে কাজে নামুন।"
+            "en": "The Sunnah settles in practice what the grammar leaves open. Muslim records from Zayd ibn Arqam (RA) a supplication the Prophet ﷺ used to make, within which he said: O Allah, give my soul its taqwa and purify it, You are the best of those who purify it, You are its Guardian and its Master. Zayd prefaced it: I say to you only what the Messenger of Allah ﷺ used to say; in an-Nasa'i's report (5458) he puts it: I teach you only what he used to teach us. Ask for the purifying, and then go and do it.",
+            "bn": "ব্যাকরণ যে প্রশ্ন খোলা রাখে, সুন্নাহ আমলের ভেতর দিয়ে তার মীমাংসা করে দেয়। ইমাম মুসলিম যায়দ ইবনে আরকাম (রাঃ) থেকে নবী ﷺ-এর একটি দোয়া বর্ণনা করেছেন। তার মধ্যে তিনি বলতেন: হে আল্লাহ, আমার নফসকে তার তাক্বওয়া দান করুন, তাকে পবিত্র করুন। যারা তাকে পবিত্র করে, আপনিই তাদের মধ্যে শ্রেষ্ঠ। আপনিই তার অভিভাবক, আপনিই তার মনিব। দোয়াটি বলার আগে যায়দ (রাঃ) বলেছিলেন: রাসূলুল্লাহ ﷺ যা বলতেন, আমি তোমাদের কেবল তা-ই বলি। নাসাঈর বর্ণনায় (৫৪৫৮) কথাটি এভাবে আছে: তিনি আমাদের যা শেখাতেন, আমি তোমাদের কেবল তা-ই শেখাই। তাই পবিত্রতা আল্লাহর কাছে চেয়ে নিন, তারপর নিজে গিয়ে কাজে নামুন।"
           }
         ]
       },
@@ -240,7 +240,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Because zakka means clearing and growing at once, the work has two halves and most people attempt only one. Removing is the unglamorous half: a habit dropped, a debt settled, a wrong apology actually made, an account closed. Growing is what the cleared ground is for: prayer that is not rushed, knowledge taken in steadily, wealth spent where it will not be thanked. Neither half substitutes for the other, and a field weeded but never sown is still a field with nothing on it.",
+            "en": "Because zakka means clearing and growing at once, the work has two halves and most people attempt only one. Removing is the unglamorous half: a habit dropped, a debt settled, an apology for a wrong actually made, an account closed. Growing is what the cleared ground is for: prayer that is not rushed, knowledge taken in steadily, wealth spent where it will not be thanked. Neither half substitutes for the other, and a field weeded but never sown is still a field with nothing on it.",
             "bn": "'যাক্কা' মানে একসঙ্গে পরিষ্কার করা আর বাড়িয়ে তোলা। তাই কাজটার দুটি ভাগ, আর বেশির ভাগ মানুষ চেষ্টা করে কেবল একটির। সরানোর ভাগটায় কোনো চাকচিক্য নেই: কোনো অভ্যাস ছেড়ে দেওয়া, কোনো ঋণ শোধ করা, কোনো অন্যায়ের জন্য সত্যি সত্যি মাফ চেয়ে নেওয়া, কোনো পুরোনো হিসাব চুকিয়ে ফেলা। আর বাড়ানোর জন্যই তো জমি সাফ করা: তাড়াহুড়ো ছাড়া নামাজ, ধীরে ধীরে নিয়মিত শেখা জ্ঞান, এমন জায়গায় খরচ যেখানে কেউ ধন্যবাদ দেবে না। কোনো ভাগই অন্যটির জায়গা নিতে পারে না। আগাছা সাফ হলো, কিন্তু বীজ বোনা হলো না, এমন জমি শেষ পর্যন্ত খালিই পড়ে থাকে।"
           },
           {

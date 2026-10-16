@@ -540,8 +540,8 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The verse ends with a pairing of names: innallaha 'Azizun Ghafur — Allah is Mighty, Forgiving. Each name feeds one half of the scholar's heart. Al-'Aziz, the Overpowering whom nothing escapes, is the ground of the khashyah just described; al-Ghafur, the Forgiving, keeps that awe from collapsing into terror or despair. The same balance appears in 30:22, where the diversity of human tongues and colours is called a sign for those who know — knowledge again standing between wonder and worship.",
-            "bn": "আয়াত শেষ হয় দুটি নামের জোড়ে: ইন্নাল্লাহা আযীযুন গাফূর, আল্লাহ পরাক্রমশালী, ক্ষমাশীল। একেকটি নাম আলিমের অন্তরের একেক দিককে খোরাক দেয়। আল-আযীয, সেই মহাপরাক্রমশালী যাঁর হাত থেকে কিছুই ফসকায় না, এইমাত্র বলা খাশইয়ার ভিত্তি। আর আল-গাফূর, ক্ষমাশীল, সেই সম্ভ্রমকে আতঙ্ক বা হতাশায় ভেঙে পড়তে দেন না। একই ভারসাম্য দেখা যায় ৩০:২২ আয়াতে। সেখানে মানুষের ভাষা ও রঙের বৈচিত্র্যকে বলা হয়েছে জ্ঞানীদের জন্য নিদর্শন; জ্ঞান আবারও দাঁড়িয়ে আছে বিস্ময় আর ইবাদতের মাঝখানে।"
+            "en": "The verse ends with a pairing of names: innallaha 'Azizun Ghafur — Allah is Mighty, Forgiving. Each name feeds one half of the scholar's heart. Al-'Aziz, the Overpowering whom nothing escapes, is the ground of the khashyah just described; al-Ghafur, the Forgiving, keeps that awe from collapsing into terror or despair. The same link between varied colours and knowledge appears in 30:22, where the diversity of human tongues and colours is called a sign for those who know, knowledge again standing between wonder and worship.",
+            "bn": "আয়াত শেষ হয় দুটি নামের জোড়ে: ইন্নাল্লাহা আযীযুন গাফূর, আল্লাহ পরাক্রমশালী, ক্ষমাশীল। একেকটি নাম আলিমের অন্তরের একেক দিককে খোরাক দেয়। আল-আযীয, সেই মহাপরাক্রমশালী যাঁর হাত থেকে কিছুই ফসকায় না, এইমাত্র বলা খাশইয়ার ভিত্তি। আর আল-গাফূর, ক্ষমাশীল, সেই সম্ভ্রমকে আতঙ্ক বা হতাশায় ভেঙে পড়তে দেন না। রঙের বৈচিত্র্য আর জ্ঞানের একই যোগসূত্র দেখা যায় ৩০:২২ আয়াতে। সেখানে মানুষের ভাষা ও রঙের বৈচিত্র্যকে বলা হয়েছে জ্ঞানীদের জন্য নিদর্শন; জ্ঞান আবারও দাঁড়িয়ে আছে বিস্ময় আর ইবাদতের মাঝখানে।"
           }
         ]
       },

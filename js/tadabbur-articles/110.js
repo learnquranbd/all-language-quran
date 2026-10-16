@@ -32,7 +32,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Count what the verse asks. There are two imperatives: fa-sabbih bi-hamdi rabbika, so glorify your Lord with His praise, and wastaghfirh, and seek His forgiveness. Then a statement rather than a third order: innahu kana tawwaba, indeed He has ever been ever-accepting of repentance. The first command joins two things Arabic keeps distinct — tasbih declares Him free of every defect, hamd affirms every perfection — so praise and purification of the concept arrive in one breath.",
+            "en": "Count what the verse asks. There are two imperatives: fa-sabbih bi-hamdi rabbika, so glorify your Lord with His praise, and wastaghfirh, and seek His forgiveness. Then a statement rather than a third order: innahu kana tawwaba, indeed He is ever-accepting of repentance. The first command joins two things Arabic keeps distinct — tasbih declares Him free of every defect, hamd affirms every perfection — so praise and purification of the concept arrive in one breath.",
             "bn": "আয়াতটি কী কী চায়, গুনে দেখুন। আদেশ দুটি। একটি 'ফাসাব্বিহ বিহামদি রাব্বিকা': অতএব তোমার প্রতিপালকের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করো। অন্যটি 'ওয়াস্তাগফিরহু': আর তাঁর কাছে ক্ষমা চাও। এরপর তৃতীয় কোনো আদেশ আসেনি, এসেছে একটি ঘোষণা: 'ইন্নাহু কানা তাওওয়াবা', নিশ্চয়ই তিনি সব সময়ই তওবা কবুলকারী। প্রথম আদেশটি এমন দুটি জিনিস একসঙ্গে জুড়ে দেয়, আরবি ভাষা যাদের আলাদা করে দেখে। 'তাসবীহ' ঘোষণা করে, তিনি সব ত্রুটি থেকে মুক্ত; 'হামদ' স্বীকার করে, সব পূর্ণতা তাঁরই। ফলে তাঁর প্রশংসা আর তাঁর সম্পর্কে ধারণাকে পরিশুদ্ধ করা, দুটোই হয়ে যায় এক নিঃশ্বাসে।"
           },
           {

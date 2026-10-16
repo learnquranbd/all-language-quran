@@ -176,8 +176,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "তাদের ফিসফিসানি এমন এক প্রশ্ন, যার উত্তর তারা আগেই ঠিক করে রেখেছে: না। ২১:৩ আয়াতে তারা বলে, এ কি তোমাদেরই মতো একজন মানুষ ছাড়া আর কিছু? তোমরা কি দেখেশুনে যাদুর কাছে যাবে? সন্দেহের পুরো ভার একটি শব্দের ওপর: মানুষ। মানুষ খায়, বুড়ো হয়, ক্লান্ত হয়, মারা যায়; এমন কেউ আসমানের বাণী বহন করবে কী করে? এ আয়াত ঠিক এই আপত্তিরই জবাব দেয়, আর আপত্তিটাকে একটুও হালকা করে না। মানুষ হওয়ার কথা মেনে নিয়েই দেখিয়ে দেয়, আপত্তিটা আসলে কোনো আপত্তিই ছিল না।"
           },
           {
-            "en": "Their whispered complaint is not their only demand. A line before, in 21:5, they had called the revelation tangled dreams, or invention, or poetry, and dared him to bring a sign as the earlier messengers were sent with. So a pair of things is asked at once: a wonder to compel them, and a messenger unlike themselves. This verse takes up the latter demand and turns it over, by reminding them what the earlier messengers, the very ones they invoke, actually were in their own lives.",
-            "bn": "চাপা গলার এই অভিযোগই তাদের একমাত্র দাবি নয়। এক আয়াত আগে, ২১:৫ আয়াতে, তারা ওহিকে বলেছিল এলোমেলো স্বপ্ন, কখনো বানানো কথা, কখনো কবিতা। আর তাঁকে চ্যালেঞ্জ করেছিল, আগের রাসূলরা যেমন নিদর্শন নিয়ে এসেছিলেন, তেমন একটা নিদর্শন এনে দেখাতে। তাহলে তারা একসঙ্গে দুটো জিনিস চাইছে: মানতে বাধ্য করবে এমন এক অলৌকিক ঘটনা, আর তাদের মতো নয় এমন এক রাসূল। এ আয়াত দ্বিতীয় দাবিটা হাতে নিয়ে উল্টে দেয়। তারা যে আগের রাসূলদের দোহাই দিচ্ছে, তাঁরা নিজেদের জীবনে আসলে কেমন ছিলেন, সেটাই মনে করিয়ে দেয়।"
+            "en": "Their whispered complaint is not their only demand. Two verses before, in 21:5, they had called the revelation tangled dreams, or invention, or poetry, and dared him to bring a sign as the earlier messengers were sent with. So a pair of things is asked at once: a wonder to compel them, and a messenger unlike themselves. This verse takes up the latter demand and turns it over, by reminding them what the earlier messengers, the very ones they invoke, actually were in their own lives.",
+            "bn": "চাপা গলার এই অভিযোগই তাদের একমাত্র দাবি নয়। দুই আয়াত আগে, ২১:৫ আয়াতে, তারা ওহিকে বলেছিল এলোমেলো স্বপ্ন, কখনো বানানো কথা, কখনো কবিতা। আর তাঁকে চ্যালেঞ্জ করেছিল, আগের রাসূলরা যেমন নিদর্শন নিয়ে এসেছিলেন, তেমন একটা নিদর্শন এনে দেখাতে। তাহলে তারা একসঙ্গে দুটো জিনিস চাইছে: মানতে বাধ্য করবে এমন এক অলৌকিক ঘটনা, আর তাদের মতো নয় এমন এক রাসূল। এ আয়াত দ্বিতীয় দাবিটা হাতে নিয়ে উল্টে দেয়। তারা যে আগের রাসূলদের দোহাই দিচ্ছে, তাঁরা নিজেদের জীবনে আসলে কেমন ছিলেন, সেটাই মনে করিয়ে দেয়।"
           }
         ]
       },
@@ -711,8 +711,8 @@ Object.assign(TADABBUR_ARTICLES, {
       },
       {
         "h": {
-          "en": "One Lord, One Ear",
-          "bn": "এক রব, এক কান"
+          "en": "One Call, One Answer",
+          "bn": "এক ডাক, এক জবাব"
         },
         "p": [
           {
@@ -1092,8 +1092,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "এর নিচে আরও গভীর একটা মতভেদ আছে। কুরতুবী উল্লেখ করেন যে মুজাহিদ, কাতাদা ও দাহহাক মীযানের উল্লেখকে একটা উপমা মনে করতেন, সত্যিকারের কোনো পাল্লা এখানে নেই। তাঁদের পাঠে শব্দটির অর্থ কেবল আল-আদল, অর্থাৎ ইনসাফ নিজেই। তাবারী মুজাহিদ থেকে একই কথা তাঁর নিজের ভাষায় আনেন: ইন্নামা হুওয়া মাসাল, এ কেবল একটা উপমা, ওজন করাটা যেমন সঠিক ছবি, তেমনি তা যে সত্যকে বোঝায় সেটাও সঠিক। এই মতে আয়াত কোনো বস্তু নয়, বরং একটা ইনসাফের ছবি আঁকে।"
           },
           {
-            "en": "But al-Qurtubi does not leave it there. What the reports came with, he says, and what the great body of the community holds, is the first view: a real balance, and he points to his fuller treatment in al-Tadhkirah and in his comments on al-A'raf and al-Kahf. Al-Baghawi adds from the narrations that the mizan has a tongue and two pans, and al-Qurtubi describes it with two pans, cords, a tongue and a pointer. The verse itself does not settle the shape; both readings keep the same certainty, that justice on that Day is exact.",
-            "bn": "কিন্তু কুরতুবী সেখানেই থামেন না। তিনি বলেন, বর্ণনাগুলো যা নিয়ে এসেছে আর উম্মতের বড় অংশ যা মানে, তা হলো প্রথম মতটি: সত্যিকারের একটা পাল্লা। তিনি আত-তাযকিরা এবং সূরা আরাফ ও কাহাফের আলোচনায় তাঁর বিস্তারিত বক্তব্যের দিকে ইশারা করেন। বাগাভী বর্ণনা থেকে যোগ করেন, মীযানের একটা জিহ্বা আর দুটি পাল্লা আছে, আর কুরতুবী একে বর্ণনা করেন দুই পাল্লা, দড়ি, জিহ্বা ও কাঁটাসহ। আয়াত নিজে আকৃতির মীমাংসা করে না। দুই পাঠই একই নিশ্চয়তা ধরে রাখে, সেদিনের ইনসাফ নিখুঁত।"
+            "en": "But al-Qurtubi does not leave it there. What the reports came with, he says, and what the great body of the community holds, is that the balance is real, and he points to his fuller treatment in al-Tadhkirah and in his comments on al-A'raf and al-Kahf. Al-Baghawi adds from the narrations that the mizan has a tongue and two pans, and al-Qurtubi describes it with two pans, cords, a tongue and a pointer. The verse itself does not settle the shape; both readings keep the same certainty, that justice on that Day is exact.",
+            "bn": "কিন্তু কুরতুবী সেখানেই থামেন না। তিনি বলেন, বর্ণনাগুলো যা নিয়ে এসেছে আর উম্মতের বড় অংশ যা মানে, তা হলো, পাল্লাটা সত্যিকারের। তিনি আত-তাযকিরা এবং সূরা আরাফ ও কাহাফের আলোচনায় তাঁর বিস্তারিত বক্তব্যের দিকে ইশারা করেন। বাগাভী বর্ণনা থেকে যোগ করেন, মীযানের একটা জিহ্বা আর দুটি পাল্লা আছে, আর কুরতুবী একে বর্ণনা করেন দুই পাল্লা, দড়ি, জিহ্বা ও কাঁটাসহ। আয়াত নিজে আকৃতির মীমাংসা করে না। দুই পাঠই একই নিশ্চয়তা ধরে রাখে, সেদিনের ইনসাফ নিখুঁত।"
           }
         ]
       },
@@ -2340,7 +2340,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "জমিনের একটা ব্যাখ্যা হলো, কাফির জাতিগুলোর জমিন মুসলিম উম্মাহর হাতে আসবে। এই ব্যাখ্যাকে সহজেই বিজয়ের অহংকারের দিকে টেনে নেওয়া যায়, তাই এখানে একটু সতর্ক থাকা দরকার। আয়াতটি আল্লাহর একটি ফয়সালার কথা বলে: শেষ পর্যন্ত উত্তরাধিকার কে পাবে। এটা জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি দেয় না, আর এক জাতিকে অন্য জাতির ঘরবাড়ির ওপর কোনো অধিকারও দেয় না। আয়াতে যাদের উত্তরাধিকারী বলা হয়েছে, তাদের পরিচয় সৎকর্মে, বিজয় বা বংশে নয়। যে তাফসীরকারেরা একে দুনিয়ার জমিন বুঝেছেন, তাঁরাও উত্তরাধিকারকে বেঁধেছেন আল্লাহর আনুগত্যের সঙ্গে, শক্তির সঙ্গে নয়।"
           },
           {
-            "en": "What is left for the reader is quieter than a map of the future. The line closes a sūrah crowded with people who thought power was theirs to keep, and it answers them with a sentence written before power existed. The righteous inherit — the land, the Garden, or both — because Allah wrote it, not because they seized it. So the task is not to secure the inheritance but to become the kind of servant it was written for, and to trust the record on the days the world seems to be running the other way.",
+            "en": "What is left for the reader is quieter than a map of the future. The line comes near the close of a sūrah crowded with people who thought power was theirs to keep, and it answers them with a sentence written before power existed. The righteous inherit — the land, the Garden, or both — because Allah wrote it, not because they seized it. So the task is not to secure the inheritance but to become the kind of servant it was written for, and to trust the record on the days the world seems to be running the other way.",
             "bn": "শেষে পাঠকের হাতে যা থাকে, তা ভবিষ্যতের কোনো মানচিত্র নয়, তার চেয়ে অনেক শান্ত কিছু। সূরাটি ভরা এমন সব মানুষের কথায়, যারা ভেবেছিল ক্ষমতা চিরকাল তাদের হাতেই থাকবে। এই লাইন দিয়ে সূরা তার শেষ প্রান্তে এসে তাদের জবাব দেয় এমন এক বাক্যে, যা লেখা হয়েছিল ক্ষমতার জন্মেরও আগে। সৎকর্মশীলরা উত্তরাধিকার পায়, জমিন হোক, জান্নাত হোক বা দুটোই, কারণ আল্লাহ তা লিখে রেখেছেন; তারা ছিনিয়ে নিয়েছে বলে নয়। তাই আমাদের কাজ উত্তরাধিকার দখল করা নয়, বরং সেই বান্দা হয়ে ওঠা, যাদের জন্য তা লেখা হয়েছে। আর যেদিন মনে হয় দুনিয়া উল্টো দিকে ছুটছে, সেদিনও সেই লেখার ওপর ভরসা রাখা।"
           }
         ]

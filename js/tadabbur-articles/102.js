@@ -52,8 +52,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "'হাত্তা যুরতুমুল মাকাবির': যতক্ষণ না তোমরা কবরে বেড়াতে এলে। 'হাত্তা' দেখায় এই ভুলে থাকা কোথায় গিয়ে থামে, আর দেখা যায়, থামার জায়গাটা জীবনেরই শেষ। কিন্তু আল্লাহ এখানে যে ক্রিয়াটি এনেছেন, তা বেড়াতে যাওয়ার ক্রিয়া। আর বেড়ানো মানেই সাময়িক: অতিথি আসে, কিছুক্ষণ থাকে, তারপর চলে যায়। মুফাসসিরগণ এই শব্দ থেকেই পুনরুত্থানের কথা বের করেছেন। নিজের স্থায়ী ঠিকানাকে কেউ বেড়াতে আসার জায়গা বলে না।"
           },
           {
-            "en": "There is a second edge to the image. The whole surah has been describing people who count, and the last thing they arrive at is a field of things that can be counted — graves. The counter becomes one of the entries. The race did not end because the runners chose to stop; it ended because the track did, and the two verses cover an entire lifetime between them without describing a single day of it.",
-            "bn": "ছবিটার আরেকটা দিকও আছে। গোটা সূরা জুড়ে কথা হচ্ছে এমন মানুষদের নিয়ে, যারা গোনে। আর শেষে তারা গিয়ে পৌঁছায় এমন এক মাঠে, যেখানে গোনার মতো জিনিস পড়ে আছে: কবর। যে গুনছিল, সে নিজেই এখন গোনার তালিকার একজন। দৌড় থামেনি দৌড়বিদরা থামতে চেয়েছিল বলে; থেমেছে, কারণ পথটাই ফুরিয়ে গেছে। মাত্র দুটি আয়াতে একটা গোটা জীবন ধরা পড়ে, অথচ সেই জীবনের একটি দিনেরও বর্ণনা নেই।"
+            "en": "There is a second edge to the image. These two verses describe people who count, and the last thing they arrive at is a field of things that can be counted — graves. The counter becomes one of the entries. The race did not end because the runners chose to stop; it ended because the track did, and the two verses cover an entire lifetime between them without describing a single day of it.",
+            "bn": "ছবিটার আরেকটা দিকও আছে। এই দুই আয়াতে কথা হচ্ছে এমন মানুষদের নিয়ে, যারা গোনে। আর শেষে তারা গিয়ে পৌঁছায় এমন এক মাঠে, যেখানে গোনার মতো জিনিস পড়ে আছে: কবর। যে গুনছিল, সে নিজেই এখন গোনার তালিকার একজন। দৌড় থামেনি দৌড়বিদরা থামতে চেয়েছিল বলে; থেমেছে, কারণ পথটাই ফুরিয়ে গেছে। মাত্র দুটি আয়াতে একটা গোটা জীবন ধরা পড়ে, অথচ সেই জীবনের একটি দিনেরও বর্ণনা নেই।"
           }
         ]
       },

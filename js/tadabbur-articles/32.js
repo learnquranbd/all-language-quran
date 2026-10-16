@@ -416,8 +416,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "ঠিক পরের আয়াতই সেই প্রশ্নটা করে, যার দিকে এই গোপন রাখা এগোচ্ছিল। ৩২:১৮: যে মুমিন ছিল, সে কি তার মতো, যে ফাসিক ছিল? তারা সমান নয়। এই অংশ কোন ক্রমটা বেছে নিয়েছে, খেয়াল করুন। আগে পুরস্কার লুকানো হলো, তারপর বলা হলো দুই দল সমান নয়। ফলে কোনো প্রমাণ দেখানোর আগেই তুলনার মীমাংসা হয়ে গেল। চোখের সামনে রাখা দুটো পরিণতি পাল্লায় মেপে দেখতে কাউকে বলা হচ্ছে না।"
           },
           {
-            "en": "That is also how the verse is lived. Any picture a person builds of what is waiting will be too small, because it is assembled from things eyes have already seen. So the discipline the verse trains is to stop negotiating for a described outcome and to attend instead to the tail of the sentence — what you used to do — which is the only part of the arrangement that has been placed in your hands.",
-            "bn": "আয়াতটি জীবনে এভাবেই কাজে আসে। সামনে কী অপেক্ষা করছে, তা নিয়ে মানুষ যে ছবিই আঁকুক, তা ছোট হবেই। কারণ সে ছবি জোড়া লাগানো হয় চোখের আগে দেখা জিনিস দিয়ে। তাই আয়াতটি এই শিক্ষা দেয়: বর্ণনা করা কোনো ফলাফলের জন্য দর কষাকষি থামান। বরং মন দিন বাক্যের শেষ অংশে, 'তোমরা যা করতে'। গোটা ব্যবস্থার মধ্যে শুধু এই অংশটুকুই আপনার হাতে দেওয়া হয়েছে।"
+            "en": "That is also how the verse is lived. Any picture a person builds of what is waiting will be too small, because it is assembled from things eyes have already seen. So the discipline the verse trains is to stop negotiating for a described outcome and to attend instead to the tail of the sentence, what they used to do, which is the only part of the arrangement that has been placed in your hands.",
+            "bn": "আয়াতটি জীবনে এভাবেই কাজে আসে। সামনে কী অপেক্ষা করছে, তা নিয়ে মানুষ যে ছবিই আঁকুক, তা ছোট হবেই। কারণ সে ছবি জোড়া লাগানো হয় চোখের আগে দেখা জিনিস দিয়ে। তাই আয়াতটি এই শিক্ষা দেয়: বর্ণনা করা কোনো ফলাফলের জন্য দর কষাকষি থামান। বরং মন দিন বাক্যের শেষ অংশে, 'তারা যা করত'। গোটা ব্যবস্থার মধ্যে শুধু এই অংশটুকুই আপনার হাতে দেওয়া হয়েছে।"
           }
         ]
       }
