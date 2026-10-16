@@ -635,14 +635,18 @@ class KidsQaida {
       const pad = n => String(n).padStart(3, '0');
       const hl = w => LetterPracticeRules.analyse(w).map(c => c.key === letterChar
         ? '<span class="text-rose-600 dark:text-rose-400 font-bold">' + esc(c.text) + '</span>' : esc(c.text)).join('');
-      const chips = L.words.slice(0, 8).map(w => {
+      const occTitle = esc(t('tj_lp_occ_btn', lang));
+      const chips = L.words.slice(0, 8).map((w, idx) => {
         const [s, a, i] = w.r.split(':');
         return `
-          <button data-kids-word-audio="https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3"
-                  class="kq-wordchip rounded-xl bg-white/70 dark:bg-gray-900/40 hover:bg-white dark:hover:bg-gray-900 p-2 text-center">
-            <span class="ayah-arabic !text-2xl !leading-[2] block" dir="rtl">${hl(w.w)}</span>
-            <span class="block text-[10px] text-gray-400">🔊 ×${w.n}</span>
-          </button>`;
+          <div class="relative">
+            <button data-kids-word-audio="https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3"
+                    class="kq-wordchip w-full h-full rounded-xl bg-white/70 dark:bg-gray-900/40 hover:bg-white dark:hover:bg-gray-900 p-2 pb-7 text-center">
+              <span class="ayah-arabic !text-2xl !leading-[2] block" dir="rtl">${hl(w.w)}</span>
+            </button>
+            <button data-kids-lp-occ="${letterChar}:${idx}" title="${occTitle}" aria-label="${occTitle}"
+                    class="absolute bottom-1.5 inset-x-0 mx-auto w-fit text-[11px] font-bold px-2 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${w.n}</button>
+          </div>`;
       }).join('');
       host.innerHTML = `
         <p class="text-center text-xs text-gray-500 dark:text-gray-400 mb-2">${t('kids_lp_words', lang)}</p>
@@ -653,6 +657,39 @@ class KidsQaida {
     } catch (err) {
       host.innerHTML = '';
     }
+  }
+
+  /** Open the Letters section with one letter's card expanded (link from Tajweed → Letter practice). */
+  openLetter(char) {
+    if (!QAIDA_LETTERS.some(l => l.char === char)) return;
+    this.clearAdvanceTimer();
+    this.stopSurahPlay();
+    this.section = 'letters';
+    this.quiz = null;
+    this.surahPick = null;
+    this.expandedLetter = char;
+    this.render();
+    this.loadLetterExamples(char, this.language);
+    this.loadLetterPractice(char, this.language);
+    const card = this.root.querySelector('[data-kids-letter-close]');
+    if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  /** 📖 ×N on a word chip → every ayah with that word (shared ayahTimeline overlay). */
+  showLetterWordAyahs(btn) {
+    const [ch, idx] = btn.getAttribute('data-kids-lp-occ').split(':');
+    if (typeof ayahTimeline === 'undefined' || typeof LetterPracticeRules === 'undefined') return;
+    const label = btn.innerHTML;
+    btn.innerHTML = '…';
+    LetterPracticeRules.load().then(d => {
+      const w = d.letters[ch] && d.letters[ch].words[parseInt(idx, 10)];
+      if (!w) throw new Error('no word');
+      return LetterPracticeRules.occurrences(w.w, ch).then(o => {
+        btn.innerHTML = label;
+        const sub = t('tj_lp_occ_sub', this.language).split('{n}').join(o.n).split('{a}').join(o.refs.length);
+        ayahTimeline.open({ title: w.w, titleAr: w.w, subtitle: sub, refs: o.refs, marks: o.marks });
+      });
+    }).catch(() => { btn.innerHTML = label; });
   }
 
   /** Highlight the target letter inside a diacritized word (first matching base letter). */
@@ -2245,6 +2282,9 @@ class KidsQaida {
       if (letter) this.speakArabic(letter.name);
       return;
     }
+
+    const lpOcc = e.target.closest('[data-kids-lp-occ]');
+    if (lpOcc) { this.showLetterWordAyahs(lpOcc); return; }
 
     // "More words and ayahs" → Tajweed → Letter practice on this letter
     const lpOpen = e.target.closest('[data-kids-lp-open]');

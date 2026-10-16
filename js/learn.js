@@ -18,7 +18,8 @@ const LEARN_CARDS = [
   { module: 'vocab',        emoji: '📚', grad: 'from-sky-400 to-blue-600',      title: 'learn_vocab_title',    desc: 'learn_vocab_desc',     level: 'learn_level_beginner' },
   { module: 'handwriting',  emoji: '✍️', grad: 'from-rose-400 to-pink-600',     title: 'hw_title',             desc: 'hw_subtitle',          level: 'learn_level_beginner' },
   { module: 'memorize',     emoji: '🎙️', grad: 'from-emerald-400 to-green-600', title: 'learn_memorize_title', desc: 'learn_memorize_desc',  level: 'learn_level_advanced' },
-  { module: 'tajweedlearn', emoji: '🎨', grad: 'from-cyan-400 to-teal-600',     title: 'tj_learn_title',       desc: 'tj_learn_subtitle',    level: 'learn_level_intermediate' }
+  { module: 'tajweedlearn', emoji: '🎨', grad: 'from-cyan-400 to-teal-600',     title: 'tj_learn_title',       desc: 'tj_learn_subtitle',    level: 'learn_level_intermediate' },
+  { module: 'letters',      emoji: '🔠', grad: 'from-violet-400 to-purple-600', title: 'tj_nav_letters',       desc: 'wm_f_letters_b',       level: 'learn_level_beginner' }
 ];
 
 const LEARN_LAST_MODULE_KEY = 'learnLastModule';
@@ -391,6 +392,10 @@ class LearnHub {
     this.rememberModule(module);
     if (module === 'memorize' || module === 'tajweedlearn') {
       tabSystem.switchTab(module);
+    } else if (module === 'letters') {
+      // Letter practice is a view inside the Tajweed tab
+      tabSystem.switchTab('tajweedlearn');
+      if (typeof tajweedLearn !== 'undefined' && tajweedLearn) tajweedLearn.openLetters();
     } else {
       this.showModule(module, true);
     }

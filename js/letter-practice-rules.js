@@ -123,7 +123,29 @@ var LetterPracticeRules = (function () {
     return dataP;
   }
 
-  return { analyse: analyse, count: count, wordKey: wordKey, load: load };
+  /**
+   * Every occurrence of a word-list entry: same wordKey with the letter
+   * pronounced (the rule the ×N count was built with, so the list matches it).
+   * Resolves to { n, refs: ['s:a', …] in mushaf order, each ayah once,
+   * marks: { 's:a': [1-based word positions] } } — the shape ayahTimeline takes.
+   */
+  function occurrences(word, key) {
+    var target = wordKey(word);
+    return QuranData.getQuranWords().then(function (all) {
+      var refs = [], marks = {}, n = 0;
+      Object.keys(all).forEach(function (ref) {
+        all[ref].forEach(function (w, i) {
+          if (wordKey(w) !== target || !count(w, key)) return;
+          if (!marks[ref]) { marks[ref] = []; refs.push(ref); }
+          marks[ref].push(i + 1);
+          n++;
+        });
+      });
+      return { n: n, refs: refs, marks: marks };
+    });
+  }
+
+  return { analyse: analyse, count: count, wordKey: wordKey, load: load, occurrences: occurrences };
 })();
 
 if (typeof module !== 'undefined') module.exports = { LETTER_PRACTICE_LETTERS: LETTER_PRACTICE_LETTERS, LetterPracticeRules: LetterPracticeRules };

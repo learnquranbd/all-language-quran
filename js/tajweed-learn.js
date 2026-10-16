@@ -147,6 +147,22 @@ class TajweedLearn {
       }
       const lpMode = e.target.closest('[data-lp-mode]');
       if (lpMode) { this.lpMode = lpMode.getAttribute('data-lp-mode'); this.render(); return; }
+      const lpOcc = e.target.closest('[data-lp-occ]');
+      if (lpOcc) { this.showOccurrences(lpOcc); return; }
+      const lpGoto = e.target.closest('[data-lp-goto]');
+      if (lpGoto) {
+        this.openLetters(lpGoto.getAttribute('data-lp-goto'));
+        const top = this.container.querySelector('[data-lp-letter]');
+        if (top) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        return;
+      }
+      const lpKids = e.target.closest('[data-lp-kids]');
+      if (lpKids) {
+        const nav = typeof appNav !== 'undefined' ? appNav : null;
+        if (nav) nav.openLearnModule('kids');
+        if (typeof kidsQaida !== 'undefined' && kidsQaida) kidsQaida.openLetter(lpKids.getAttribute('data-lp-kids'));
+        return;
+      }
       // Concept quiz: pick an option, submit, retake
       const qopt = e.target.closest('[data-tj-quiz-opt]');
       if (qopt) {
@@ -514,6 +530,7 @@ class TajweedLearn {
       <div class="text-center mb-4">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100">${this.tt('tj_makharij_title', 'Makharij — articulation points')}</h3>
         <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${this.tt('tj_makharij_subtitle', 'The 17 articulation points of the Arabic letters, grouped into 5 zones.')}</p>
+        <p class="text-xs text-primary mt-1">🔤 ${this.tt('tj_mx_tap', 'Tap a letter to practise it in Quran words and ayahs.')}</p>
       </div>
       <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 mb-4">
         <div dir="rtl" class="max-w-md mx-auto">
@@ -540,7 +557,10 @@ class TajweedLearn {
             <div class="space-y-1.5 ${z.key === 'lisan' ? 'lg:columns-2 lg:gap-3 lg:space-y-0' : ''}">
               ${z.points.map(p => `
                 <div class="flex items-start gap-3 rounded-lg bg-gray-50 dark:bg-gray-900/40 p-2.5 ${z.key === 'lisan' ? 'lg:break-inside-avoid lg:mb-1.5' : ''}">
-                  <span class="ayah-arabic !text-2xl !leading-normal shrink-0 px-2 rounded-md border" style="border-color:${z.color}55;color:${z.color}" dir="rtl">${p.letters}</span>
+                  <span class="shrink-0 flex gap-1" dir="rtl">${p.letters.split(' ').map(l => {
+                    const key = l.replace(/[\u0640\u0651]/g, '');
+                    return `<button data-lp-goto="${key}" title="${this.tt('tj_nav_letters', 'Letter practice')}" class="ayah-arabic !text-2xl !leading-normal px-2 rounded-md border hover:bg-gray-100 dark:hover:bg-gray-700" style="border-color:${z.color}55;color:${z.color}">${l}</button>`;
+                  }).join('')}</span>
                   <div class="min-w-0">
                     ${p.pointName ? `<span class="block ayah-arabic !text-sm !leading-snug mb-0.5 font-medium" style="color:${z.color}" dir="rtl">${p.pointName}</span>` : ''}
                     <span class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(p[lang] || this.ci(p.en))}</span>
@@ -581,6 +601,24 @@ class TajweedLearn {
       try { localStorage.setItem('tajweedLetter', letter); } catch (e) { /* ignore */ }
     }
     this.render();
+  }
+
+  /** ×N on a word card → every ayah with that word, word marked (shared ayahTimeline overlay). */
+  showOccurrences(btn) {
+    const D = this.lpData && this.lpData.letters[this.lpLetter];
+    const w = D && D.words[parseInt(btn.getAttribute('data-lp-occ'), 10)];
+    if (!w || typeof ayahTimeline === 'undefined' || typeof LetterPracticeRules === 'undefined') return;
+    const label = btn.innerHTML;
+    btn.innerHTML = '…';
+    const lang = this.language;
+    const gloss = (lang !== 'ar' && (this.lpGloss[['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi'].includes(lang) ? lang : 'en'] || {})[w.r]) || '';
+    LetterPracticeRules.occurrences(w.w, this.lpLetter).then(o => {
+      btn.innerHTML = label;
+      const num = n => Number(n).toLocaleString(lang === 'bn' ? 'bn-BD' : (lang || 'en'));
+      const sub = this.tt('tj_lp_occ_sub', "{n} times in {a} ayahs. Tap an ayah's number to study it word by word.")
+        .split('{n}').join(num(o.n)).split('{a}').join(num(o.refs.length));
+      ayahTimeline.open({ title: gloss || w.w, titleAr: w.w, subtitle: sub, refs: o.refs, marks: o.marks });
+    }).catch(() => { btn.innerHTML = label; });
   }
 
   /** The makhraj point of a letter (consonant و / ي use their lip / tongue point, not al-jawf). */
@@ -638,17 +676,21 @@ class TajweedLearn {
 
     const gloss = this.lpGloss[['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi'].includes(lang) ? lang : 'en'] || {};
     const showGloss = lang !== 'ar';
-    const words = D.words.map(w => {
+    const occTitle = this.esc(this.tt('tj_lp_occ_btn', 'See every ayah with this word'));
+    const words = D.words.map((w, idx) => {
       const [s, a, i] = w.r.split(':');
       const g = showGloss ? gloss[w.r] : '';
       return `
-        <button data-ayah-audio="https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3" title="${w.r}"
-          class="relative flex flex-col items-center rounded-lg bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1.5 text-center">
-          <span class="absolute top-1 start-1.5 text-[10px] text-gray-400">🔊</span>
-          <span class="absolute top-1 end-1.5 text-[10px] text-gray-400">×${num(w.n)}</span>
-          <span class="ayah-arabic !text-2xl !leading-[2.1] mt-2" dir="rtl">${this.lpHighlight(w.w, sel.key, color)}</span>
-          ${g ? `<span class="text-[11px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-2" dir="auto">${this.esc(g)}</span>` : ''}
-        </button>`;
+        <div class="relative">
+          <button data-ayah-audio="https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3" title="${w.r}"
+            class="w-full h-full flex flex-col items-center rounded-lg bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1.5 text-center">
+            <span class="absolute top-1.5 start-1.5 text-[10px] text-gray-400">🔊</span>
+            <span class="ayah-arabic !text-2xl !leading-[2.1] mt-3" dir="rtl">${this.lpHighlight(w.w, sel.key, color)}</span>
+            ${g ? `<span class="text-[11px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-2" dir="auto">${this.esc(g)}</span>` : ''}
+          </button>
+          <button data-lp-occ="${idx}" title="${occTitle}" aria-label="${occTitle}"
+            class="absolute top-1 end-1 text-[11px] font-medium px-1.5 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${num(w.n)}</button>
+        </div>`;
     }).join('');
 
     const dense = this.lpMode === 'dense';
@@ -682,12 +724,13 @@ class TajweedLearn {
             <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${fill('tj_lp_stats', '{n} times in the Quran, in {w} different words', { n: num(D.total), w: num(D.distinct) })}</p>
             ${mk ? `
             <div class="mt-2 flex items-start gap-2 text-sm">
-              <span class="text-xs px-2 py-0.5 rounded-full text-white shrink-0" style="background:${color}">👄 ${this.tt('tj_nav_makharij', 'Makharij')}</span>
+              <button data-tj-view="makharij" title="${this.esc(this.tt('tj_makharij_title', 'Makharij'))}" class="text-xs px-2 py-0.5 rounded-full text-white shrink-0 hover:opacity-80" style="background:${color}">👄 ${this.tt('tj_nav_makharij', 'Makharij')} ›</button>
               <div class="min-w-0">
                 ${mk.point.pointName ? `<span class="block ayah-arabic !text-sm !leading-snug font-medium" style="color:${color}" dir="rtl">${mk.point.pointName}</span>` : ''}
                 <span class="text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(mk.point[lang] || this.ci(mk.point.en))}</span>
               </div>
             </div>` : ''}
+            ${sel.key !== 'ء' ? `<button data-lp-kids="${sel.key}" class="mt-2 text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">🧒 ${this.tt('tj_lp_kids', 'Forms and name (Kids)')} ›</button>` : ''}
           </div>
         </div>
         <p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed">ℹ️ ${this.tt('tj_lp_rule', 'Only places where the letter is said with its own sound are counted. Silent letters, a lam or nun that merges into the next letter, and the long vowels و and ي are left out.')}</p>
