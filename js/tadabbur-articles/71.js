@@ -37,7 +37,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Before he names the danger, Nuh names the relation. Ya qawmi is a call with the vocative ya, and the grammatical analysis of the verse notes that the qawm carries an elided pronoun of possession: not O people, but O my people. The final ya of qawmi has dropped from the pronunciation and stayed in the meaning. A warner could have opened with you, or with the crime. This one opens by placing himself among those he is about to warn, as one of them.",
-            "bn": "বিপদের নাম নেওয়ার আগে নূহ (আঃ) সম্পর্কের নাম নেন। ইয়া কাওমি একটি সম্বোধন। আয়াতের ব্যাকরণগত বিশ্লেষণ বলে, কাওম শব্দের সঙ্গে 'আমার' অর্থের একটি সর্বনাম যুক্ত আছে, যদিও উচ্চারণে তা পড়ে গেছে। তাই অর্থ 'হে জাতি' নয়, 'হে আমার জাতি'। শেষের অক্ষরটি মুখে নেই, অর্থে আছে। কোনো সতর্ককারী চাইলে শুরু করতে পারতেন 'তোমরা' বলে, কিংবা অপরাধের তালিকা দিয়ে। ইনি শুরু করেন নিজেকে তাদেরই একজন বলে দাঁড় করিয়ে, যাদের তিনি এখন সতর্ক করতে যাচ্ছেন।"
+            "bn": "বিপদের নাম নেওয়ার আগে নূহ (আঃ) সম্পর্কের নাম নেন। ইয়া কাওমি একটা ডাক, শুরুতে আছে সম্বোধনের ইয়া। আয়াতের ব্যাকরণগত বিশ্লেষণ বলে, কাওম শব্দের সঙ্গে 'আমার' অর্থের একটা সর্বনাম লুকিয়ে আছে। তাই অর্থ 'হে জাতি' নয়, 'হে আমার জাতি'। কাওমি শব্দের শেষের ইয়া উচ্চারণ থেকে পড়ে গেছে, কিন্তু অর্থে রয়ে গেছে। কোনো সতর্ককারী চাইলে শুরু করতে পারতেন 'তোমরা' বলে, কিংবা অপরাধের কথা দিয়ে। ইনি শুরু করেন নিজেকে তাদেরই একজন হিসেবে দাঁড় করিয়ে, যাদের তিনি এখন সতর্ক করতে যাচ্ছেন।"
           },
           {
             "en": "Then comes lakum, to you or for you, placed ahead of the word nadhir. The analysis reads it simply as a preposition joined to its pronoun. At-Tabari's paraphrase keeps that direction: Nuh said to his people, I warn you of Allah's punishment, so beware of it coming down on you for your disbelief in Him. The warning has an address and a beneficiary, and they are the same people. Whatever they would later make of it, the sentence was built for them.",
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi glosses nadhir with a single word, mukhawwif: one who makes afraid, who puts fear in front of people. At-Tabari names what the fear is of: I warn you of Allah's punishment. The Muyassar adds the condition, the punishment of Allah if you disobey Him. Between the three a definition takes shape. A nadhir is not a forecaster of bad weather. He points to a specific harm, from a specific source, tied to a specific choice still open to the listener.",
-            "bn": "কুরতুবী নাযীর শব্দের অর্থ দেন এক শব্দে: মুখাওয়িফ, যিনি ভয় দেখান, মানুষের সামনে ভয়ের বিষয়টা তুলে ধরেন। ভয়টা কীসের, তাবারী তা বলে দেন: আমি তোমাদের আল্লাহর শাস্তি সম্পর্কে সতর্ক করছি। মুয়াসসার যোগ করে শর্তটা: তোমরা নাফরমানি করলে আল্লাহর শাস্তি। তিনজনের কথা মিলিয়ে একটা সংজ্ঞা দাঁড়ায়। নাযীর খারাপ আবহাওয়ার পূর্বাভাস দেওয়া কেউ নন। তিনি দেখিয়ে দেন নির্দিষ্ট এক ক্ষতি, যার উৎস নির্দিষ্ট, আর যা জড়িয়ে আছে এমন এক সিদ্ধান্তের সঙ্গে, যা শ্রোতার হাতে এখনো খোলা।"
+            "bn": "কুরতুবী নাযীর শব্দের অর্থ দেন এক শব্দে: মুখাওয়িফ, যিনি ভয় দেখান, মানুষের সামনে ভয়ের বিষয়টা তুলে ধরেন। ভয়টা কীসের, তাবারী তা বলে দেন: আমি তোমাদের আল্লাহর শাস্তি সম্পর্কে সতর্ক করছি। মুয়াসসার যোগ করে শর্তটা: তোমরা নাফরমানি করলে আল্লাহর শাস্তি। তিনজনের কথা মিলিয়ে একটা সংজ্ঞা দাঁড়ায়। নাযীর খারাপ আবহাওয়ার পূর্বাভাস দেওয়া কেউ নন। তিনি দেখিয়ে দেন নির্দিষ্ট একটা ক্ষতি, যার উৎসও নির্দিষ্ট। আর সেই ক্ষতি বাঁধা আছে এমন এক সিদ্ধান্তের সঙ্গে, যা নেওয়ার সুযোগ শ্রোতার হাতে এখনো আছে।"
           },
           {
             "en": "That last part matters. The command in 71:1 says min qabli an ya'tiyahum, before it comes to them. A warning after the event is only a report. The whole worth of nadhir lies in the gap of time it speaks into, and Ibn Kathir's abridged English makes the gap the point: warn them before it befalls them, and tell them that if they repent it will be lifted. Fear here is not the goal. It is the lamp held up so that someone can still turn.",
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other group hears an action in the word. At-Tabari: mubin, he says, means qad abantu lakum indhari, I have made my warning clear to you. Al-Qurtubi: mubin means muzhir lakum, one who makes it manifest to you. Here the clarity is something Nuh does, a labour of explaining, rather than a quality the warning simply has. Ibn Kathir's abridged English sits close to the first group: clarity of the warning, making the matter apparent and clear, though its second phrase leans toward the doing.",
-            "bn": "অন্য দল শব্দটিতে একটা কাজ শুনতে পায়। তাবারী বলেন, মুবীন মানে কাদ আবানতু লাকুম ইনযারী, আমি তোমাদের কাছে আমার সতর্কবাণী স্পষ্ট করে দিয়েছি। কুরতুবী বলেন, মুবীন মানে মুযহিরুন লাকুম, যিনি তোমাদের সামনে বিষয়টা প্রকাশ করে দেন। এখানে স্পষ্টতা এমন কিছু যা নূহ (আঃ) নিজে করেন, বুঝিয়ে বলার পরিশ্রম। সতর্কবাণীর নিজের কোনো গুণ হিসেবে নয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ প্রথম দলের কাছাকাছি: সতর্কবাণীর স্পষ্টতা। তবে তার পরের কথা, বিষয়টা প্রকাশ্য ও পরিষ্কার করে দেওয়া, কিছুটা করার দিকেই ঝোঁকে।"
+            "bn": "অন্য দল শব্দটিতে একটা কাজ শুনতে পায়। তাবারী বলেন, মুবীন মানে কাদ আবানতু লাকুম ইনযারী, আমি তোমাদের কাছে আমার সতর্কবাণী স্পষ্ট করে দিয়েছি। কুরতুবী বলেন, মুবীন মানে মুযহিরুন লাকুম, যিনি তোমাদের সামনে বিষয়টা প্রকাশ করে দেন। এই পাঠে স্পষ্টতা সতর্কবাণীর আপনা-আপনি থাকা কোনো গুণ নয়। এটা নূহ (আঃ)-এর নিজের কাজ, বুঝিয়ে বলার পরিশ্রম। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ প্রথম দলের কাছাকাছি: সতর্কবাণীর স্পষ্টতা। তবে তার পরের কথা, বিষয়টা প্রকাশ্য ও পরিষ্কার করে দেওয়া, কিছুটা করার দিকেই ঝোঁকে।"
           },
           {
             "en": "None of these writers argues against another, and nothing in the fetched texts sets the two readings in opposition, so this article picks neither. Taken together they describe two sides of one thing. A warning can be clear because its content is plain, and it can be clear because the one who gives it has worked to make it so. The verse lets mubin hold both, and the commentators, each with his own phrasing, have between them kept both in view.",
@@ -113,7 +113,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then, as-Sa'di continues, he told them and commanded them with the zubda, the cream, of what he was ordering them to do. That is where his comment hands over to 71:3, whose content the article leaves to its own place. What matters for 71:2 is the shape as-Sa'di finds in it: a warning that is not complete until the listener knows how to be safe. Read this way, fear without the third part, without the way, would fall short of a clear warning. It would only be alarm.",
-            "bn": "সা'দী আরও বলেন, এরপর তিনি তাদের জানালেন আর আদেশ দিলেন সেই কথার যুবদা বা সারাংশ দিয়ে, যা তিনি তাদের করতে বলছিলেন। এখানে এসে তাঁর ব্যাখ্যা ৭১:৩ আয়াতের হাতে চলে যায়। সে আয়াতের বিষয়বস্তু এ লেখা তার নিজের জায়গার জন্য রেখে দিচ্ছে। ৭১:২ আয়াতের জন্য গুরুত্বপূর্ণ হলো সা'দী এতে যে কাঠামো দেখেন। শ্রোতা যতক্ষণ না জানছে কীভাবে নিরাপদ থাকা যায়, ততক্ষণ সতর্কবাণী অসম্পূর্ণ। এভাবে পড়লে, তৃতীয় অংশটা, মানে পথের কথা, বাদ দিয়ে শুধু ভয় দেখানো স্পষ্ট সতর্কবাণী হয় না। হয় কেবল আতঙ্ক ছড়ানো।"
+            "bn": "সা'দী আরও বলেন, এরপর তিনি তাদের জানালেন আর আদেশ দিলেন সেই কথার যুবদা বা সারাংশ দিয়ে, যা তিনি তাদের করতে বলছিলেন। এখানে এসে তাঁর ব্যাখ্যা ৭১:৩ আয়াতের হাতে চলে যায়। সে আয়াতের বিষয়বস্তু এ লেখা তার নিজের জায়গার জন্য রেখে দিচ্ছে। ৭১:২ আয়াতের বেলায় আসল কথা হলো, সা'দী এতে কোন কাঠামো দেখেন। শ্রোতা যতক্ষণ না জানছে কীভাবে নিরাপদ থাকা যায়, ততক্ষণ সতর্কবাণী অসম্পূর্ণ। এভাবে পড়লে তৃতীয় অংশটা, মানে পথের কথা, বাদ দিয়ে শুধু ভয় দেখালে তা স্পষ্ট সতর্কবাণী হয় না। হয় কেবল আতঙ্ক ছড়ানো।"
           }
         ]
       },
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The narration speaks of Nuh's rank, not of this sentence, and it is offered here only as that. What it adds is a frame. If he was the first of the messengers sent to the people of the earth, then ya qawmi inni lakum nadhirun mubin stands near the start of the warnings that messengers have carried to the people of the earth. The article does not count Nuh's years among them, because no fetched source for this verse gives a figure.",
-            "bn": "বর্ণনাটি নূহ (আঃ)-এর মর্যাদার কথা বলে, এই বাক্যটির কথা নয়। এখানে তা কেবল সেই হিসেবেই রাখা হলো। এটুকু যোগ হয় যে, তিনি যদি পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল হয়ে থাকেন, তবে ইয়া কাওমি ইন্নী লাকুম নাযীরুম মুবীন দাঁড়িয়ে আছে পৃথিবীবাসীর কাছে রাসূলদের বয়ে আনা সতর্কবাণীগুলোর একেবারে শুরুর দিকে। তাদের মাঝে নূহ (আঃ) কত বছর কাটিয়েছিলেন, এ লেখা সে হিসাবে যাচ্ছে না। কারণ এ আয়াতের জন্য সামনে থাকা কোনো সূত্রে সংখ্যাটা নেই।"
+            "bn": "বর্ণনাটি নূহ (আঃ)-এর মর্যাদার কথা বলে, এই বাক্যটির কথা নয়। এখানে তা কেবল সেই হিসেবেই রাখা হলো। এ থেকে যা যোগ হয়, তা একটা প্রেক্ষাপট। তিনি যদি পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল হয়ে থাকেন, তবে ইয়া কাওমি ইন্নী লাকুম নাযীরুম মুবীন কথাটির জায়গা পৃথিবীবাসীর কাছে রাসূলদের বয়ে আনা সতর্কবাণীগুলোর একেবারে শুরুর দিকে। তাদের মাঝে নূহ (আঃ) কত বছর কাটিয়েছিলেন, এ লেখা সে হিসাবে যাচ্ছে না, কারণ এ আয়াতের জন্য সামনে থাকা কোনো সূত্রে সংখ্যাটা নেই।"
           },
           {
             "en": "One more thing must be said plainly. Nuh's people are a people whose end this surah goes on to narrate. The verse describes what the text describes, a warning given to them in their time, and it licenses nothing against any living person or community. It does not make any present nation, family or neighbour the people of Nuh, and it gives no one the warner's office over others. What a reader may take from it is a standard for his own warning, not a verdict on anyone else.",
@@ -165,11 +165,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a quotation, and knowing who is quoting matters. From 71:5 onward Nuh (AS) is speaking to his Lord, reporting a failed mission: I called my people night and day, and my calling only increased their flight. 71:7 adds the detail that fixes the tone: every time I called them so that You would forgive them, they put their fingers in their ears and drew their garments over themselves and persisted and grew arrogant.",
-            "bn": "আয়াতটি একটি উদ্ধৃতি, আর উদ্ধৃতিকারী কে তা জানা জরুরি। 71:5 থেকে নূহ (আঃ) তাঁর প্রতিপালকের সঙ্গে কথা বলছেন, একটি ব্যর্থ দায়িত্বের প্রতিবেদন দিচ্ছেন: আমি আমার জাতিকে রাতদিন ডেকেছি, আর আমার ডাক তাদের পলায়ন ছাড়া কিছুই বাড়ায়নি। 71:7 যোগ করে সেই বিবরণটি, যা সুরটি নির্ধারণ করে দেয়: যতবারই আমি তাদের ডেকেছি যাতে আপনি তাদের ক্ষমা করেন, ততবারই তারা কানে আঙুল দিয়েছে, কাপড় দিয়ে নিজেদের ঢেকেছে, গোঁ ধরে থেকেছে এবং অহংকারে ফুলে উঠেছে।"
+            "bn": "আয়াতটি আসলে একটি উদ্ধৃতি, আর কথাটা কে শোনাচ্ছেন সেটা জানা জরুরি। ৭১:৫ থেকে নূহ (আঃ) তাঁর রবের সঙ্গে কথা বলছেন। যে দাওয়াতে সাড়া মেলেনি, তার হিসাব দিচ্ছেন: আমি আমার জাতিকে রাতদিন ডেকেছি, কিন্তু আমার ডাক তাদের পালানোই শুধু বাড়িয়েছে। ৭১:৭ আয়াতে আসে সেই খুঁটিনাটি, যা পুরো কথার সুর বেঁধে দেয়: যতবার আমি তাদের ডেকেছি, যাতে আপনি তাদের মাফ করে দেন, ততবারই তারা কানে আঙুল দিয়েছে, কাপড়ে নিজেদের ঢেকে নিয়েছে, জেদ ধরে থেকেছে আর ভীষণ অহংকার করেছে।"
           },
           {
             "en": "Read that clause slowly. He did not call them so that they would be defeated, or humbled, or proved wrong. He called them li-taghfira lahum, so that You would forgive them. That is the stated purpose of a prophet's entire working life, given in his own words, and it explains why the message he then quotes in 71:10 is what it is. He was never trying to win an argument. He was trying to get them forgiven.",
-            "bn": "বাক্যাংশটি ধীরে পড়ুন। তিনি তাদের ডাকেননি যাতে তারা পরাজিত হয়, বা নত হয়, বা ভুল প্রমাণিত হয়। তিনি ডেকেছেন 'লি-তাগফিরা লাহুম' — যাতে আপনি তাদের ক্ষমা করেন। একজন নবীর গোটা কর্মজীবনের ঘোষিত উদ্দেশ্য এটাই, আর তা বলা হয়েছে তাঁর নিজের ভাষায়; এটিই ব্যাখ্যা করে দেয় 71:10-এ তিনি যে বার্তাটি উদ্ধৃত করেন তা কেন এমন। তিনি কখনো কোনো তর্কে জিততে চাননি। তিনি চেয়েছিলেন তাদের ক্ষমা করিয়ে নিতে।"
+            "bn": "এই অংশটা ধীরে পড়ুন। তিনি তাদের ডাকেননি তাদের হারানোর জন্য, নত করার জন্য, কিংবা ভুল প্রমাণ করার জন্য। তিনি ডেকেছেন লি-তাগফিরা লাহুম, যাতে আপনি তাদের মাফ করে দেন। একজন নবীর সারা জীবনের কাজের উদ্দেশ্য এটাই, আর তা তিনি বলছেন নিজের মুখে। এ থেকেই বোঝা যায়, ৭১:১০ আয়াতে তিনি যে বার্তা শোনান, তা কেন এমন। তর্কে জেতা তাঁর লক্ষ্য কখনো ছিল না। তিনি শুধু চেয়েছিলেন, তাদের যেন মাফ করে দেওয়া হয়।"
           }
         ]
       },
@@ -181,7 +181,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "71:8 and 71:9 catalogue what he tried. Then I called them aloud; then I announced to them publicly and confided to them in private. Public, private, day, night: the report is a list of methods, each introduced by thumma, then, as though he is running through a record of attempts. What never changes in the list is the content, and 71:10 gives it in one sentence. Nor does it open his call: 71:3 had already laid the foundation, worship Allah, fear Him and obey me, so istighfar is no substitute for tawhid but what tawhid asks for first.",
-            "bn": "71:8 ও 71:9 আয়াত তালিকা করে তিনি কী কী চেষ্টা করেছেন। এরপর আমি তাদের উচ্চস্বরে ডেকেছি; এরপর আমি তাদের কাছে প্রকাশ্যে ঘোষণা করেছি এবং গোপনে গোপনে বুঝিয়েছি। প্রকাশ্যে, গোপনে, দিনে, রাতে — প্রতিবেদনটি পদ্ধতির একটি তালিকা, প্রতিটি শুরু হয়েছে 'সুম্মা' অর্থাৎ 'এরপর' দিয়ে, যেন তিনি চেষ্টার একটি হিসাব পড়ে শোনাচ্ছেন। তালিকার কোথাও বিষয়বস্তু বদলায় না, আর 71:10 তা জানায় একটিমাত্র বাক্যে। এটি তাঁর আহ্বানের শুরুও নয়: 71:3 আগেই ভিত্তি গেঁথে দিয়েছে — আল্লাহর ইবাদত করো, তাঁকে ভয় করো, আর আমার আনুগত্য করো; কাজেই ইস্তিগফার তাওহীদের বিকল্প নয়, বরং তাওহীদ সবার আগে যা চায় তা-ই।"
+            "bn": "৭১:৮ আর ৭১:৯ আয়াতে আছে তিনি কী কী চেষ্টা করেছেন, তার তালিকা। তারপর আমি তাদের উঁচু গলায় ডেকেছি; তারপর প্রকাশ্যে ঘোষণা করেছি, আবার গোপনে একান্তে বুঝিয়েছি। প্রকাশ্যে, গোপনে, দিনে, রাতে: এই বিবরণ আসলে পদ্ধতির তালিকা। প্রতিটির শুরুতে সুম্মা, মানে তারপর, যেন তিনি একের পর এক চেষ্টার খাতা পড়ে শোনাচ্ছেন। তালিকার কোথাও যা বদলায় না, তা হলো বার্তা, আর ৭১:১০ আয়াত সেটা বলে দেয় এক বাক্যে। তবে তাঁর দাওয়াতের শুরু এখান থেকে নয়। ৭১:৩ আয়াতে ভিত্তি আগেই গাঁথা হয়েছে: আল্লাহর ইবাদত করো, তাঁকে ভয় করো, আর আমার আনুগত্য করো। কাজেই ইস্তিগফার তাওহীদের বদলি নয়। তাওহীদ সবার আগে যা চায়, ইস্তিগফার সেটাই।"
           }
         ]
       },
@@ -193,23 +193,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two verses that follow are where this passage becomes unlike most calls to repentance. 71:11 promises that He will send the sky upon you in midrar. The word is from a root used of a full udder and of milk that keeps coming; it names rain that does not arrive once and stop. 71:12 continues: and He will supply you with wealth and children, and make for you gardens, and make for you rivers.",
-            "bn": "এর পরের দুটি আয়াতেই অনুচ্ছেদটি বেশিরভাগ তওবার আহ্বান থেকে আলাদা হয়ে যায়। 71:11 প্রতিশ্রুতি দেয় যে তিনি তোমাদের উপর আকাশকে 'মিদরার' অবস্থায় পাঠাবেন। শব্দটি এসেছে এমন এক ধাতু থেকে, যা ভরা ওলান ও অবিরাম আসতে থাকা দুধের জন্য ব্যবহৃত হয়; এটি এমন বৃষ্টির নাম যা একবার এসে থেমে যায় না। 71:12 চালিয়ে যায়: আর তিনি তোমাদের সম্পদ ও সন্তান দিয়ে সাহায্য বাড়াবেন, তোমাদের জন্য বাগান বানাবেন, আর তোমাদের জন্য নদী বানাবেন।"
+            "bn": "এর পরের দুই আয়াতে এসেই এই অংশ বেশির ভাগ তওবার ডাক থেকে আলাদা হয়ে যায়। ৭১:১১ আয়াতের ওয়াদা: তিনি তোমাদের উপর আকাশ থেকে মিদরার বর্ষণ পাঠাবেন। শব্দটির ধাতু ব্যবহার হয় দুধে ভরা ওলানের বেলায়, আর এমন দুধের বেলায় যা বের হতেই থাকে। মিদরার তাই এমন বৃষ্টি, যা একবার এসে থেমে যায় না। ৭১:১২ আয়াত বলে চলে: আর তিনি তোমাদের সম্পদ ও সন্তান দিয়ে সাহায্য করবেন, তোমাদের জন্য বাগান বানাবেন, আর তোমাদের জন্য নদী বইয়ে দেবেন।"
           },
           {
             "en": "The grammar tightens the link more than a translation can. The verbs of 71:11 and 71:12 stand in the jussive as the direct answer to the imperative in 71:10, the form Arabic uses for a consequence that follows from a condition. Ask, and this happens. The verb in the second, yumdidkum, is from the root of reinforcement, the word used of supplying an army; and the phrase for you is repeated for the gardens and again for the rivers.",
-            "bn": "ব্যাকরণ সম্পর্কটিকে অনুবাদের চেয়েও বেশি আঁটসাঁট করে। 71:11 ও 71:12 আয়াতের ক্রিয়াপদগুলো জাযম অবস্থায় দাঁড়িয়ে আছে 71:10 আয়াতের নির্দেশসূচক ক্রিয়ার সরাসরি জবাব হিসেবে — আরবিতে শর্ত থেকে আসা ফলাফল বোঝাতে এই রূপই ব্যবহৃত হয়। চাও, আর এটি ঘটবে। দ্বিতীয়টির ক্রিয়াপদ 'ইউমদিদকুম' এসেছে কুমক বা সহায়তা পাঠানোর ধাতু থেকে — যে শব্দ সৈন্যদলে রসদ পাঠানোর অর্থে ব্যবহৃত হয়; আর 'তোমাদের জন্য' কথাটি বাগানের বেলায় একবার এবং নদীর বেলায় আরেকবার পুনরাবৃত্ত হয়েছে।"
+            "bn": "অনুবাদে যতটা ধরা পড়ে, ব্যাকরণ সম্পর্কটাকে তার চেয়েও শক্ত করে বাঁধে। ৭১:১১ আর ৭১:১২ আয়াতের ক্রিয়াগুলো জাযম অবস্থায় আছে, ৭১:১০ আয়াতের আদেশের সরাসরি জবাব হিসেবে। শর্ত পূরণ হলে যে ফল আসে, আরবি তা এই রূপেই বলে। চাও, তাহলে এটা হবে। দ্বিতীয় আয়াতের ক্রিয়া ইউমদিদকুম এসেছে কুমক পাঠানোর ধাতু থেকে, সেনাদলকে রসদ জোগানোর কথায় যে শব্দ ব্যবহার হয়। আর 'তোমাদের জন্য' কথাটা আসে দুবার: একবার বাগানের বেলায়, আবার নদীর বেলায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Why the Returns Are Worldly",
-          "bn": "কেন প্রতিদানগুলো দুনিয়াবী"
+          "bn": "প্রতিদানগুলো কেন দুনিয়ার"
         },
         "p": [
           {
             "en": "Nothing on that list is Paradise. Rain, money, sons, orchards, running water: these are the things his listeners already wanted, and the verse hands them the things they wanted in exchange for the one thing they were refusing. The Quran does the same elsewhere. In 11:52 Hud (AS) tells his people to ask forgiveness of their Lord and then turn to Him, and the promise attached is rain in midrar and strength added to their strength.",
-            "bn": "সেই তালিকার কোনো কিছুই জান্নাত নয়। বৃষ্টি, অর্থ, পুত্র, ফলের বাগান, বহতা পানি — এগুলো তাঁর শ্রোতারা আগে থেকেই চাইত; আর আয়াতটি তাদের চাওয়া জিনিসগুলোই তুলে দেয় সেই একটিমাত্র জিনিসের বিনিময়ে, যা তারা দিতে অস্বীকার করছিল। কুরআন অন্যত্রও একই কাজ করে। 11:52 আয়াতে হূদ (আঃ) তাঁর জাতিকে বলেন তাদের প্রতিপালকের কাছে ক্ষমা চাইতে এবং তারপর তাঁর দিকে ফিরে আসতে; আর সঙ্গে জুড়ে দেওয়া প্রতিশ্রুতি হলো 'মিদরার' বৃষ্টি এবং তাদের শক্তির সঙ্গে আরও শক্তি যোগ করা।"
+            "bn": "এই তালিকার কোনোটাই জান্নাত নয়। বৃষ্টি, টাকাপয়সা, ছেলেসন্তান, ফলের বাগান, বয়ে চলা পানি: এগুলো তাঁর শ্রোতারা আগে থেকেই চাইত। আর তারা যে একটা কাজে কিছুতেই রাজি হচ্ছিল না, তার বিনিময়ে আয়াতটি তাদের হাতে তুলে দেয় ঠিক সেই জিনিসগুলোই। কুরআন অন্য জায়গাতেও এমন করে। ১১:৫২ আয়াতে হূদ (আঃ) তাঁর জাতিকে বলেন, তোমাদের রবের কাছে ক্ষমা চাও, তারপর তাঁর দিকে ফিরে এসো। সঙ্গে জুড়ে আছে ওয়াদা: মিদরার বৃষ্টি, আর তাদের শক্তির সঙ্গে আরও শক্তি।"
           }
         ]
       },
@@ -221,23 +221,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage does not stop at the gifts, and the next line is what keeps it from becoming a transaction. 71:13 asks: what is the matter with you that you do not attribute to Allah any waqar? The word means weight, gravity, the seriousness accorded to something great. Then 71:14 supplies the evidence: and He has created you in stages. The gardens and the rivers were never the destination. They were an argument that the Giver is worth taking seriously.",
-            "bn": "অনুচ্ছেদটি উপহারগুলোতে থেমে থাকে না, আর পরের পঙক্তিটিই একে নিছক লেনদেন হয়ে ওঠা থেকে বাঁচায়। 71:13 জিজ্ঞেস করে: তোমাদের হলো কী যে তোমরা আল্লাহর জন্য কোনো 'ওয়াকার' স্বীকার করছ না? শব্দটির অর্থ ওজন, গাম্ভীর্য, মহান কিছুকে দেওয়া গুরুত্ব। এরপর 71:14 প্রমাণ জোগায়: আর তিনি তো তোমাদের সৃষ্টি করেছেন স্তরে স্তরে। বাগান আর নদী কখনোই গন্তব্য ছিল না। সেগুলো ছিল এই যুক্তি যে, দাতাকে গুরুত্বের সঙ্গে নেওয়া উচিত।"
+            "bn": "অংশটি উপহারের কথায় থেমে যায় না। পরের বাক্যটিই একে নিছক লেনদেন হয়ে যেতে দেয় না। ৭১:১৩ আয়াত প্রশ্ন করে: তোমাদের হলো কী, আল্লাহর কোনো ওয়াকারই তোমরা মানো না? ওয়াকার মানে ওজন, গাম্ভীর্য, মহান কোনো কিছুকে যে গুরুত্ব দিতে হয়। তারপর ৭১:১৪ আয়াত প্রমাণ দেয়: অথচ তিনি তোমাদের সৃষ্টি করেছেন স্তরে স্তরে। বাগান আর নদী কখনো আসল গন্তব্য ছিল না। সেগুলো ছিল যুক্তি: যিনি এসব দেন, তাঁকে গুরুত্ব দিয়ে মানা উচিত।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "কীভাবে এটি যাপন করা যায়"
+          "bn": "জীবনে কীভাবে মানা যায়"
         },
         "p": [
           {
             "en": "The practical instruction is unusually literal: when something is blocked, ask forgiveness. Not instead of the work, but alongside it, and before assuming the obstruction is external. Al-Bukhari records from Shaddad ibn Aws (RA) the words the Prophet ﷺ called the chief of istighfar, which include: I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for none forgives sins but You. Said morning and evening, that sentence does what 71:10 asks, in one breath.",
-            "bn": "ব্যবহারিক নির্দেশটি অস্বাভাবিকভাবে আক্ষরিক: কোথাও আটকে গেলে ক্ষমা চান। কাজের বদলে নয়, কাজের পাশাপাশি — আর বাধাটি বাইরের বলে ধরে নেওয়ার আগেই। ইমাম বুখারী শাদ্দাদ ইবনে আওস (রাঃ) থেকে সেই বাক্যগুলো লিপিবদ্ধ করেন, যেগুলোকে নবী ﷺ ইস্তিগফারের শ্রেষ্ঠ রূপ বলেছেন; তার মধ্যে আছে: আমি আমার উপর আপনার অনুগ্রহ স্বীকার করছি এবং আমার পাপ স্বীকার করছি, তাই আমাকে ক্ষমা করুন, কারণ আপনি ছাড়া কেউ পাপ ক্ষমা করে না। সকালে-সন্ধ্যায় বললে এই বাক্যটিই 71:10 যা চায় তা এক নিঃশ্বাসে করে দেয়।"
+            "bn": "এখানকার ব্যবহারিক শিক্ষা অস্বাভাবিক রকম সরাসরি: কোথাও আটকে গেলে ইস্তিগফার করুন। কাজ ছেড়ে দিয়ে নয়, কাজের পাশাপাশি। আর বাধাটা বাইরে থেকে এসেছে, এমন ধরে নেওয়ার আগেই। ইমাম বুখারী শাদ্দাদ ইবনে আওস (রাঃ) থেকে সেই দুআ বর্ণনা করেছেন, যাকে নবী ﷺ ইস্তিগফারের সেরা দুআ বলেছেন। তার একটি অংশ: আমার উপর আপনার নিয়ামত আমি স্বীকার করি, আর আমার গুনাহও স্বীকার করি। তাই আমাকে মাফ করে দিন, কারণ আপনি ছাড়া আর কেউ গুনাহ মাফ করে না। সকাল-সন্ধ্যায় এ দুআ পড়লে ৭১:১০ আয়াত যা চায়, তা এক নিঃশ্বাসে হয়ে যায়।"
           },
           {
             "en": "The second thing to take is the shape of the promise rather than a guarantee about your own rain. Nuh (AS) offered this to a people who refused it, and 71:25 records that they were drowned for their sins, so the passage is plainly not a mechanism. What it establishes is a direction: forgiveness sought is not a withdrawal from life but the thing that unblocks it, and the last word on the subject is not the gardens but the waqar owed to the One who grows them.",
-            "bn": "দ্বিতীয় যে জিনিসটি নেওয়ার, তা হলো প্রতিশ্রুতির আকৃতি — নিজের বৃষ্টির ব্যাপারে কোনো নিশ্চয়তা নয়। নূহ (আঃ) এটি এমন এক জাতিকে দিয়েছিলেন যারা তা প্রত্যাখ্যান করে, আর 71:25 লিপিবদ্ধ করে যে তাদের পাপের কারণেই তাদের ডুবিয়ে দেওয়া হয়েছিল; কাজেই অনুচ্ছেদটি স্পষ্টতই কোনো যান্ত্রিক ব্যবস্থা নয়। এটি যা প্রতিষ্ঠা করে তা হলো একটি দিক: ক্ষমা চাওয়া জীবন থেকে সরে যাওয়া নয়, বরং যা জীবনের আটকে থাকা জায়গাগুলো খুলে দেয়; আর এ বিষয়ে শেষ কথাটি বাগান নয়, বরং যিনি সেই বাগান ফলান তাঁর প্রাপ্য 'ওয়াকার'।"
+            "bn": "দ্বিতীয় শিক্ষা হলো প্রতিশ্রুতির ধরনটা বোঝা। নিজের বৃষ্টির কোনো নিশ্চয়তা এটা নয়। নূহ (আঃ) এ ওয়াদা শুনিয়েছিলেন এমন এক জাতিকে, যারা তা ফিরিয়ে দিয়েছিল। আর ৭১:২৫ আয়াত জানায়, তাদের গুনাহের কারণে তাদের ডুবিয়ে দেওয়া হয়েছিল। কাজেই এই অংশ স্পষ্টতই যন্ত্রের মতো বাঁধা কোনো নিয়ম নয়। এটা যা ঠিক করে দেয় তা হলো দিক। ক্ষমা চাওয়া মানে জীবন থেকে সরে যাওয়া নয়, বরং এটাই জীবনের আটকে থাকা পথ খুলে দেয়। আর এ বিষয়ে শেষ কথা বাগান নয়। শেষ কথা হলো সেই ওয়াকার, যা প্রাপ্য তাঁর, যিনি বাগান ফলান।"
           }
         ]
       }
@@ -257,7 +257,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse closes a short run in Nuh's address. In 71:13 he asks his people what is wrong with them that they do not attribute to Allah due grandeur; in 71:14 he reminds them that He created them in stages; in 71:15 he asks whether they have not seen how Allah created seven heavens in layers. This verse completes that question, and 71:17 turns back to the earth from which they were grown. The heavens and the growing are the frame here; the subject is the two lights.",
-            "bn": "নূহ (আঃ)-এর ভাষণের ছোট একটি অংশ এ আয়াতে এসে শেষ হয়। ৭১:১৩ আয়াতে তিনি লোকদের জিজ্ঞেস করেন, তোমাদের হলো কী যে আল্লাহর শ্রেষ্ঠত্ব মানো না? ৭১:১৪ আয়াতে মনে করিয়ে দেন, তিনিই তোমাদের সৃষ্টি করেছেন নানা স্তর পার করিয়ে। ৭১:১৫ আয়াতে প্রশ্ন করেন, তোমরা কি দেখো না আল্লাহ কীভাবে সাতটি আসমান স্তরে স্তরে বানিয়েছেন? এ আয়াত সেই প্রশ্নটাই পূর্ণ করে। আর ৭১:১৭ আয়াত ফিরে যায় মাটির দিকে, যেখান থেকে তাদের উদগত করা হয়েছে। আসমান আর উদগম এখানে কাঠামো মাত্র। আলোচনার বিষয় এই দুই আলো।"
+            "bn": "নূহ (আঃ)-এর ভাষণের ছোট একটি অংশ এ আয়াতে এসে শেষ হয়। ৭১:১৩ আয়াতে তিনি লোকদের জিজ্ঞেস করেন, তোমাদের হলো কী যে আল্লাহর শ্রেষ্ঠত্ব মানো না? ৭১:১৪ আয়াতে মনে করিয়ে দেন, তিনিই তোমাদের সৃষ্টি করেছেন নানা স্তর পার করিয়ে। ৭১:১৫ আয়াতে প্রশ্ন করেন, তোমরা কি দেখো না আল্লাহ কীভাবে সাতটি আসমান স্তরে স্তরে বানিয়েছেন? এ আয়াত সেই প্রশ্নটাই পূর্ণ করে। আর ৭১:১৭ আয়াত ফিরে যায় মাটির দিকে, যে মাটি থেকে তাদের গাছের মতো বাড়িয়ে তোলা হয়েছে। আসমান আর এই বেড়ে ওঠা এখানে কাঠামো মাত্র। আলোচনার বিষয় এই দুই আলো।"
           }
         ]
       },
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "One thing needs saying plainly. These are Nuh's words to his own people, who refuse him and who, in 71:25, are drowned. The verse describes what the text describes: a prophet's appeal to a particular people at a particular time. It licenses nothing against any living person or community, and it gives no one the standing to cast a present-day group as the people of Nuh. What it offers the reader is the appeal itself, made again to anyone who looks up.",
-            "bn": "একটা কথা সোজাসুজি বলা দরকার। এগুলো নূহ (আঃ)-এর নিজের সম্প্রদায়ের প্রতি তাঁর কথা। তারা তাঁকে প্রত্যাখ্যান করেছিল, আর ৭১:২৫ আয়াত জানায় তাদের ডুবিয়ে দেওয়া হয়। আয়াত শুধু তা-ই বলে যা কুরআনের বর্ণনায় আছে: নির্দিষ্ট সময়ে নির্দিষ্ট একটি সম্প্রদায়ের প্রতি একজন নবীর আহ্বান। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো দলকে নূহের কওম বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। পাঠকের জন্য এখানে আছে আহ্বানটুকু, যে উপরে তাকায় তার কাছে যা নতুন করে পৌঁছায়।"
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। এগুলো নূহ (আঃ)-এর নিজের সম্প্রদায়ের প্রতি তাঁর কথা। তারা তাঁকে প্রত্যাখ্যান করেছিল, আর ৭১:২৫ আয়াত জানায় তাদের ডুবিয়ে দেওয়া হয়। আয়াত শুধু তা-ই বলে যা কুরআনের বর্ণনায় আছে: নির্দিষ্ট সময়ে নির্দিষ্ট একটি সম্প্রদায়ের প্রতি একজন নবীর আহ্বান। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো দলকে নূহের কওম বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। পাঠকের জন্য এখানে আছে আহ্বানটুকুই। যে-ই আকাশের দিকে তাকায়, তার কাছে এ আহ্বান নতুন করে পৌঁছায়।"
           }
         ]
       },
@@ -293,7 +293,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Several answers are recorded, and the sources do not rank them. The first is a usage of Arabic. At-Tabari reports that some Basran grammarians called it a figure of speech, as one says I came to Banu Tamim having come to only some of them. Al-Qurtubi gives the same example from al-Akhfash and places the moon in the lowest heaven. Al-Baghawi attributes the lowest heaven to al-Hasan and adds a second example: a man is said to be hiding in the houses of a clan when he is in a single house.",
-            "bn": "কয়েকটি জবাব পাওয়া যায়, আর উৎসগুলো কোনোটিকে অন্যটির উপরে রাখে না। প্রথম জবাব আরবী ভাষার একটি রীতি। তাবারী জানান, বসরার কিছু ব্যাকরণবিদ একে রূপক প্রয়োগ বলেছেন, যেমন বলা হয় আমি বনু তামীমের কাছে গিয়েছিলাম, অথচ গিয়েছিল তাদের কয়েকজনের কাছে। কুরতুবী একই উদাহরণ আখফাশের সূত্রে আনেন এবং চাঁদকে রাখেন নিকটতম আসমানে। বাগাভী নিকটতম আসমানের কথা হাসানের নামে বলেন, সঙ্গে আরেকটি উদাহরণ দেন: কেউ একটিমাত্র ঘরে লুকিয়ে থাকলেও বলা হয়, সে অমুক গোত্রের ঘরগুলোতে লুকিয়ে আছে।"
+            "bn": "কয়েকটি জবাব পাওয়া যায়, আর উৎসগুলো কোনোটিকে অন্যটির উপরে রাখে না। প্রথম জবাব আরবী ভাষার একটি রীতি। তাবারী জানান, বসরার কিছু ব্যাকরণবিদ একে রূপক প্রয়োগ বলেছেন, যেমন বলা হয় আমি বনু তামীমের কাছে গিয়েছিলাম, অথচ গিয়েছি তাদের কয়েকজনের কাছে মাত্র। কুরতুবী একই উদাহরণ আখফাশের সূত্রে আনেন এবং চাঁদকে রাখেন নিকটতম আসমানে। বাগাভী নিকটতম আসমানের কথা হাসানের নামে বলেন, সঙ্গে আরেকটি উদাহরণ দেন: কেউ একটিমাত্র ঘরে লুকিয়ে থাকলেও বলা হয়, সে অমুক গোত্রের ঘরগুলোতে লুকিয়ে আছে।"
           },
           {
             "en": "Al-Qurtubi records two more lines. Ibn Kaysan, asked about the verse by an-Nahhas, gave the grammarians' answer as a rule: if He placed it in one of them, He placed it in them, as you say give me the marked garments when you marked only one. Qutrub, and al-Kalbi with him, took fi to mean ma'a, with: He created the sun and the moon along with the heavens and the earth, and al-Qurtubi notes that the leading language scholars read fi as with in a line of Imru' al-Qays.",
@@ -313,7 +313,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Baghawi reports the same from 'Abd Allah ibn 'Amr, adding that the sun's brightness and the moon's light are in the heavens, and notes that this is also narrated from Ibn 'Abbas. Al-Qurtubi gives it as the second answer Ibn Kaysan offered an-Nahhas: it is narrated that the moon's face is toward the heaven, and if it faces inward it is joined to the heavens. On this reading, in them means that the light is turned toward the heavens themselves.",
-            "bn": "বাগাভীও আব্দুল্লাহ ইবন আমর থেকে একই কথা আনেন, সঙ্গে যোগ করেন যে সূর্যের দীপ্তি আর চাঁদের আলো আসমানগুলোর ভেতরে। তিনি জানান, ইবন আব্বাস থেকেও এমন বর্ণনা আছে। কুরতুবী একে রাখেন ইবন কায়সানের দ্বিতীয় জবাব হিসেবে, যা তিনি নাহহাসকে দিয়েছিলেন: বর্ণিত আছে, চাঁদের মুখ আসমানের দিকে, আর ভেতরের দিকে মুখ থাকলে তা আসমানগুলোর সঙ্গে যুক্ত। এ ব্যাখ্যায় তাদের মধ্যে কথাটির মানে, আলোর মুখ ফেরানো আসমানগুলোর দিকেই।"
+            "bn": "বাগাভীও আব্দুল্লাহ ইবন আমর থেকে একই কথা আনেন, সঙ্গে যোগ করেন যে সূর্যের দীপ্তি আর চাঁদের আলো আসমানগুলোর ভেতরে। তিনি জানান, ইবন আব্বাস থেকেও এমন বর্ণনা আছে। কুরতুবী একে রাখেন ইবন কায়সানের দ্বিতীয় জবাব হিসেবে, যা তিনি নাহহাসকে দিয়েছিলেন: বর্ণিত আছে, চাঁদের মুখ আসমানের দিকে, আর ভেতরের দিকে মুখ থাকলে তা আসমানগুলোর সঙ্গে যুক্ত। এ ব্যাখ্যায় 'তাদের মধ্যে' কথাটির মানে, আলোর মুখ আসমানগুলোর দিকেই ফেরানো।"
           },
           {
             "en": "The reports do not all point the same way. Al-Qurtubi cites Ibn 'Abbas and Ibn 'Umar as saying the moon's face gives light to the people of the earth and its back to the people of heaven. He also cites al-Qushayri relating from Ibn 'Abbas that the sun's face is in the heavens and its back toward the earth, and adds that the reverse has been said. These are reports from the early generations, carried with their differences, and they are left here as the commentators left them.",
@@ -405,7 +405,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir frames the moment with care. Nuh, he says, reported to Allah, the All-Knowing from whom nothing is hidden, that after the clear explanation already mentioned, and a call of many kinds, sometimes by encouragement and sometimes by warning, they disobeyed him, denied him and opposed him. As-Sa'di says Nuh spoke complaining to his Lord that all this speech, admonition and reminder had not taken root in them or done them any good. Al-Qurtubi's first gloss is shorter still: he complained of them to Allah.",
-            "bn": "ইবন কাসীর মুহূর্তটা সাবধানে তুলে ধরেন। তাঁর ভাষায়, নূহ (আঃ) বিষয়টা পেশ করলেন আল্লাহর কাছে, যিনি সবজান্তা, যাঁর কাছ থেকে কিছুই আড়াল থাকে না। আগে যে স্পষ্ট বয়ানের কথা এসেছে, তারপর নানা ধরনের দাওয়াত, কখনো আশা জাগিয়ে আর কখনো ভয় দেখিয়ে। এত কিছুর পরও তারা তাঁর অবাধ্য হলো, তাঁকে মিথ্যাবাদী বলল, তাঁর বিরোধিতা করল। সা'দীর মতে নূহ (আঃ) রবের কাছে অভিযোগ করছিলেন যে এত কথা, এত নসিহত, এত স্মরণ করিয়ে দেওয়া তাদের মনে শিকড় গাড়েনি, কোনো কাজেও আসেনি। কুরতুবীর প্রথম ব্যাখ্যা আরও ছোট: তিনি আল্লাহর কাছে তাদের বিরুদ্ধে অভিযোগ করলেন।"
+            "bn": "ইবন কাসীর মুহূর্তটা সাবধানে তুলে ধরেন। তাঁর ভাষায়, নূহ (আঃ) বিষয়টা পেশ করলেন আল্লাহর কাছে, যিনি সবজান্তা, যাঁর কাছ থেকে কিছুই আড়াল থাকে না। আগে যে স্পষ্ট বয়ানের কথা এসেছে, তারপর নানাভাবে দাওয়াত দেওয়া হয়েছে, কখনো আশা জাগিয়ে, কখনো ভয় দেখিয়ে। এত কিছুর পরও তারা তাঁর অবাধ্য হলো, তাঁকে মিথ্যাবাদী বলল, তাঁর বিরোধিতা করল। সা'দীর মতে নূহ (আঃ) রবের কাছে অভিযোগ করছিলেন যে এত কথা, এত নসিহত, এত স্মরণ করিয়ে দেওয়া তাদের মনে শিকড় গাড়েনি, কোনো কাজেও আসেনি। কুরতুবীর প্রথম ব্যাখ্যা আরও ছোট: তিনি আল্লাহর কাছে তাদের বিরুদ্ধে অভিযোগ করলেন।"
           }
         ]
       },
@@ -477,14 +477,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari's judgement is that all of these are known readings, close in meaning, and whoever reads any of them is correct. Al-Qurtubi gives his own grouping: the people of Madinah and Sham, and 'Asim, read waladuhu, and the rest read wulduhu. He explains wuld as a dialect form of walad, and adds that it may also be a plural of walad, as fulk, ship, serves for one and for many. Ibn Kathir notes only that the word is read both ways and that the two are close. None of them ranks one reading above the other.",
-            "bn": "তাবারীর সিদ্ধান্ত হলো, এগুলো সবই পরিচিত কিরাআত, অর্থও কাছাকাছি, যে যেটা পড়বে সে ঠিকই পড়বে। কুরতুবী নিজের মতো করে ভাগ করেন। তাঁর বর্ণনায় মদীনা ও শামের লোকেরা এবং আসিম পড়েন ওয়ালাদুহু, বাকিরা উলদুহু। তিনি বলেন, উলদ হলো ওয়ালাদের একটি আঞ্চলিক রূপ। সঙ্গে এটাও বলেন যে শব্দটি ওয়ালাদের বহুবচনও হতে পারে, যেমন ফুলক, নৌকা, শব্দটি একটি বোঝাতেও আসে, অনেকগুলো বোঝাতেও। ইবন কাসীর শুধু উল্লেখ করেন যে শব্দটি দুইভাবেই পড়া হয়েছে এবং দুটো কাছাকাছি। তাঁদের কেউই একটি কিরাআতকে আরেকটির উপরে স্থান দেননি।"
+            "bn": "তাবারীর সিদ্ধান্ত হলো, এগুলো সবই পরিচিত কিরাআত, অর্থও কাছাকাছি, যে যেটা পড়বে সে ঠিকই পড়বে। কুরতুবী নিজের মতো করে ভাগ করেন। তাঁর বর্ণনায় মদীনা ও শামের লোকেরা এবং আসিম পড়েন ওয়ালাদুহু, বাকিরা উলদুহু। তিনি বলেন, উলদ হলো ওয়ালাদের একটি আঞ্চলিক রূপ। সঙ্গে এটাও বলেন যে শব্দটি ওয়ালাদের বহুবচনও হতে পারে, যেমন ফুলক (নৌকা) শব্দটি একটি নৌকা বোঝাতেও আসে, অনেক নৌকা বোঝাতেও। ইবন কাসীর শুধু উল্লেখ করেন যে শব্দটি দুইভাবেই পড়া হয়েছে এবং দুটো কাছাকাছি। তাঁদের কেউই একটি কিরাআতকে আরেকটির উপরে স্থান দেননি।"
           }
         ]
       },
       {
         "h": {
           "en": "Centuries Before the Complaint",
-          "bn": "অভিযোগের আগে শতাব্দীর ধৈর্য"
+          "bn": "অভিযোগের আগে শত শত বছর"
         },
         "p": [
           {
@@ -536,7 +536,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Never Leave, Said Twice",
-          "bn": "ছেড়ো না, দুবার বলা"
+          "bn": "দুবার বলা 'ছেড়ো না'"
         },
         "p": [
           {
@@ -552,7 +552,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "From Your Gods to Five",
-          "bn": "সাধারণ নিষেধ থেকে পাঁচটি নাম"
+          "bn": "'তোমাদের উপাস্য' থেকে পাঁচটি নামে"
         },
         "p": [
           {
