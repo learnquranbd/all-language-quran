@@ -9,6 +9,9 @@
  * - Structured learning path (beginner → intermediate → advanced) driven by the
  *   same learned-tracker, with per-level progress bars.
  * - Makharij view: the classical 17 articulation points in 5 zones (pure HTML/CSS).
+ * - Letter practice: per letter, the 50 most frequent Quranic words that pronounce
+ *   it (tap to hear) and the 10 ayahs where it is said most / most densely
+ *   (data/letter-practice/, built by tools/letter-practice/build.js).
  * - Inline rule-identification drill: real color-annotated verse spans, 4 options
  *   (with a persisted personal best score).
  * - Reference view: a printable colour key for every rule, plus the classical
@@ -32,7 +35,11 @@ class TajweedLearn {
     this.surah = 1;            // examples surah
     this.exLimit = 15;         // examples shown before "Show more"
     this._exReq = 0;           // loadExamples() request token (guards stale responses)
-    this.view = 'rules';       // 'rules' | 'makharij' | 'drill' | 'quiz'
+    this.view = 'rules';       // 'rules' | 'makharij' | 'letters' | 'drill' | 'quiz'
+    this.lpLetter = this.loadLetter();  // letter practice: selected letter key
+    this.lpMode = 'count';     // letter practice ayahs: 'count' | 'dense'
+    this.lpData = null;        // data/letter-practice/core.json
+    this.lpGloss = {};         // lang -> { 's:a:w': gloss }
     this.drill = null;         // null | {status} | {questions, idx, score, picked}
     this._drillReq = 0;        // startDrill() request token
     this.quizAnswers = {};     // concept quiz: question index -> chosen option index
@@ -58,6 +65,12 @@ class TajweedLearn {
   }
   saveLearned() {
     try { localStorage.setItem('tajweedLearned', JSON.stringify([...this.learned])); } catch (e) { /* ignore */ }
+  }
+  loadLetter() {
+    let k = null;
+    try { k = localStorage.getItem('tajweedLetter'); } catch (e) { /* ignore */ }
+    const list = typeof LETTER_PRACTICE_LETTERS !== 'undefined' ? LETTER_PRACTICE_LETTERS : [];
+    return list.some(l => l.key === k) ? k : (list[0] || {}).key;
   }
   loadDrillBest() {
     try {
@@ -123,6 +136,17 @@ class TajweedLearn {
       }
       const view = e.target.closest('[data-tj-view]');
       if (view) { this.view = view.getAttribute('data-tj-view'); this.render(); return; }
+      const lpLetter = e.target.closest('[data-lp-letter]');
+      if (lpLetter) {
+        this.lpLetter = lpLetter.getAttribute('data-lp-letter');
+        try { localStorage.setItem('tajweedLetter', this.lpLetter); } catch (err) { /* ignore */ }
+        this.render();
+        const panel = this.container.querySelector('#lp-panel');
+        if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        return;
+      }
+      const lpMode = e.target.closest('[data-lp-mode]');
+      if (lpMode) { this.lpMode = lpMode.getAttribute('data-lp-mode'); this.render(); return; }
       // Concept quiz: pick an option, submit, retake
       const qopt = e.target.closest('[data-tj-quiz-opt]');
       if (qopt) {
@@ -353,6 +377,7 @@ class TajweedLearn {
       ['rules', '📜', 'tj_nav_rules', 'Rules'],
       ['reference', '🗂️', 'tj_nav_reference', 'Reference'],
       ['makharij', '👄', 'tj_nav_makharij', 'Makharij'],
+      ['letters', '🔤', 'tj_nav_letters', 'Letter practice'],
       ['drill', '🎯', 'tj_nav_drill', 'Practice drill'],
       ['quiz', '❓', 'tj_nav_quiz', 'Concept quiz'],
     ].map(([v, em, key, fb]) => `
@@ -374,12 +399,14 @@ class TajweedLearn {
         </div>
         <div class="flex flex-wrap justify-center gap-2 mb-6">${pills}</div>
         ${this.view === 'makharij' ? this.makharijHtml()
+          : this.view === 'letters' ? this.lettersHtml()
           : this.view === 'drill' ? this.drillHtml()
           : this.view === 'quiz' ? this.quizHtml()
           : this.view === 'reference' ? this.referenceHtml(keys)
           : this.rulesHtml(keys)}
       </div>`;
     if (this.view === 'rules' && this.rule) this.loadExamples();
+    if (this.view === 'letters') this.loadLetterData();
   }
 
   /** Default view: practice shortcuts, learning path, rule groups (+ mistakes), resources. */
@@ -521,6 +548,152 @@ class TajweedLearn {
                 </div>`).join('')}
             </div>
           </div>`).join('')}
+      </div>`;
+  }
+
+  /** Fetch the letter-practice data (+ word glosses for the UI language) once, then re-render. */
+  loadLetterData() {
+    const lang = this.language;
+    const glossLang = ['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi'].includes(lang) ? lang : (lang === 'ar' ? null : 'en');
+    const need = [];
+    if (!this.lpData) need.push(fetch('data/letter-practice/core.json').then(r => r.json()).then(d => { this.lpData = d; }));
+    if (glossLang && !this.lpGloss[glossLang]) {
+      need.push(fetch(`data/letter-practice/gloss-${glossLang}.json`).then(r => r.json())
+        .then(d => { this.lpGloss[glossLang] = d; }).catch(() => { this.lpGloss[glossLang] = {}; }));
+    }
+    if (!need.length || this._lpLoading) return;
+    this._lpLoading = true;
+    Promise.all(need).then(() => {
+      this._lpLoading = false;
+      if (this.view === 'letters') this.render();
+    }).catch(() => {
+      this._lpLoading = false;
+      const box = this.container.querySelector('#lp-panel');
+      if (box) box.innerHTML = `<p class="text-center text-gray-400 text-sm py-6">${this.tt('tj_no_examples')}</p>`;
+    });
+  }
+
+  /** The makhraj point of a letter (consonant و / ي use their lip / tongue point, not al-jawf). */
+  lpMakhraj(key) {
+    if (typeof MAKHARIJ_ZONES === 'undefined') return null;
+    let hit = null;
+    for (const z of MAKHARIJ_ZONES) {
+      for (const p of z.points) {
+        if (!p.letters.split(' ').some(l => l.replace('\u0640', '') === key)) continue;
+        if (!hit || (hit.zone.key === 'jawf' && key !== 'ا')) hit = { zone: z, point: p };
+      }
+    }
+    return hit;
+  }
+
+  /** Arabic text with every pronounced occurrence of `key` coloured. */
+  lpHighlight(text, key, color) {
+    return text.split(' ').map(w => LetterPracticeRules.analyse(w).map(c => c.key === key
+      ? `<span style="color:${color};font-weight:700">${this.esc(c.text)}</span>`
+      : this.esc(c.text)).join('')).join(' ');
+  }
+
+  /** Letter practice: letter picker, makhraj, top words (tap to hear), top ayahs. */
+  lettersHtml() {
+    const lang = this.language;
+    const letters = typeof LETTER_PRACTICE_LETTERS !== 'undefined' ? LETTER_PRACTICE_LETTERS : [];
+    const sel = letters.find(l => l.key === this.lpLetter) || letters[0];
+    if (!sel) return '';
+    const mk = this.lpMakhraj(sel.key);
+    const color = mk ? mk.zone.color : '#10B981';
+    const fill = (key, fb, vars) => {
+      let s = this.tt(key, fb);
+      Object.keys(vars || {}).forEach(k => { s = s.split('{' + k + '}').join(vars[k]); });
+      return s;
+    };
+    const num = n => Number(n).toLocaleString(lang === 'bn' ? 'bn-BD' : (lang || 'en'));
+    const pad = n => String(n).padStart(3, '0');
+    const picker = letters.map(l => `
+      <button data-lp-letter="${l.key}" aria-pressed="${l.key === sel.key}" title="${l.translit}"
+        class="flex flex-col items-center justify-center rounded-lg border py-1.5 ${l.key === sel.key
+          ? 'bg-primary text-white border-primary'
+          : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700'}">
+        <span class="ayah-arabic !text-2xl !leading-normal" dir="rtl">${l.key}</span>
+        <span class="text-[10px] opacity-70 leading-none pb-0.5">${l.translit}</span>
+      </button>`).join('');
+    const head = `
+      <div class="text-center mb-4">
+        <h3 class="font-semibold text-gray-800 dark:text-gray-100">${this.tt('tj_lp_title', 'Letter practice')}</h3>
+        <p class="text-sm text-gray-500 dark:text-gray-400 mt-1 max-w-2xl mx-auto">${this.tt('tj_lp_subtitle', "Choose a letter, then practise its makhraj on the Quran's most frequent words that contain it and on the ayahs where it comes most often.")}</p>
+      </div>
+      <div dir="rtl" class="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-1.5 mb-4">${picker}</div>`;
+
+    const D = this.lpData && this.lpData.letters[sel.key];
+    if (!D) return head + `<div id="lp-panel"><p class="text-center text-gray-400 text-sm py-6">${this.tt('loading')}</p></div>`;
+
+    const gloss = this.lpGloss[['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi'].includes(lang) ? lang : 'en'] || {};
+    const showGloss = lang !== 'ar';
+    const words = D.words.map(w => {
+      const [s, a, i] = w.r.split(':');
+      const g = showGloss ? gloss[w.r] : '';
+      return `
+        <button data-ayah-audio="https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3" title="${w.r}"
+          class="relative flex flex-col items-center rounded-lg bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1.5 text-center">
+          <span class="absolute top-1 start-1.5 text-[10px] text-gray-400">🔊</span>
+          <span class="absolute top-1 end-1.5 text-[10px] text-gray-400">×${num(w.n)}</span>
+          <span class="ayah-arabic !text-2xl !leading-[2.1] mt-2" dir="rtl">${this.lpHighlight(w.w, sel.key, color)}</span>
+          ${g ? `<span class="text-[11px] text-gray-500 dark:text-gray-400 leading-tight line-clamp-2" dir="auto">${this.esc(g)}</span>` : ''}
+        </button>`;
+    }).join('');
+
+    const dense = this.lpMode === 'dense';
+    const rows = (dense ? D.dense : D.ayahs).map(([ref, n]) => {
+      const [s, a] = ref.split(':');
+      return `
+        <div class="rounded-lg bg-gray-50 dark:bg-gray-900/40 p-3">
+          <div class="flex items-center gap-2 mb-1">
+            <button data-ayah-ref="${ref}" title="${this.tt('tj_open_verse')}"
+                    class="text-xs font-mono text-gray-400 hover:text-primary underline decoration-dotted underline-offset-2">${ref} ⓘ</button>
+            <span class="text-xs px-1.5 rounded-full" style="background:${color}22;color:${color}">${fill('tj_lp_in_ayah', '{n}× in this ayah', { n: num(n) })}</span>
+            <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3" title="${this.tt('play')}" aria-label="${this.tt('play')}" class="ms-auto text-xs px-2.5 py-1 rounded-md bg-primary text-white hover:bg-primary/80">🔊</button>
+          </div>
+          <div class="ayah-arabic !text-2xl !leading-[2.4]" dir="rtl">${this.lpHighlight(this.lpData.ayahs[ref] || '', sel.key, color)}</div>
+        </div>`;
+    }).join('');
+    const modeBtn = (m, key, fb) => `
+      <button data-lp-mode="${m}" class="px-3 py-1.5 rounded-full text-xs font-medium ${this.lpMode === m
+        ? 'bg-primary text-white'
+        : 'bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">${this.tt(key, fb)}</button>`;
+
+    return head + `
+      <div id="lp-panel" class="scroll-mt-4">
+        <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 mb-4 flex flex-wrap items-center gap-4">
+          <span class="ayah-arabic !text-6xl !leading-[1.6] px-4 rounded-xl border-2" style="border-color:${color};color:${color}" dir="rtl">${sel.key}</span>
+          <div class="flex-1 min-w-[12rem]">
+            <div class="flex items-baseline gap-2 flex-wrap">
+              <span class="font-semibold text-lg text-gray-800 dark:text-gray-100">${sel.translit}</span>
+              <span class="ayah-arabic !text-xl !leading-none text-gray-500" dir="rtl">${sel.name}</span>
+            </div>
+            <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${fill('tj_lp_stats', '{n} times in the Quran, in {w} different words', { n: num(D.total), w: num(D.distinct) })}</p>
+            ${mk ? `
+            <div class="mt-2 flex items-start gap-2 text-sm">
+              <span class="text-xs px-2 py-0.5 rounded-full text-white shrink-0" style="background:${color}">👄 ${this.tt('tj_nav_makharij', 'Makharij')}</span>
+              <div class="min-w-0">
+                ${mk.point.pointName ? `<span class="block ayah-arabic !text-sm !leading-snug font-medium" style="color:${color}" dir="rtl">${mk.point.pointName}</span>` : ''}
+                <span class="text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(mk.point[lang] || this.ci(mk.point.en))}</span>
+              </div>
+            </div>` : ''}
+          </div>
+        </div>
+        <p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed">ℹ️ ${this.tt('tj_lp_rule', 'Only places where the letter is said with its own sound are counted. Silent letters, a lam or nun that merges into the next letter, and the long vowels و and ي are left out.')}</p>
+
+        <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">${fill('tj_lp_words', 'Top {n} words', { n: num(D.words.length) })}</h3>
+        <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_lp_words_hint', 'Tap a word to hear it. The number is how often the word occurs in the Quran.')}</p>
+        <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-2 mb-6">${words}</div>
+
+        <div class="flex flex-wrap items-center gap-2 mb-1">
+          <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 me-auto">${fill('tj_lp_ayahs', 'Top {n} ayahs', { n: num((dense ? D.dense : D.ayahs).length) })}</h3>
+          ${modeBtn('count', 'tj_lp_by_count', 'Most occurrences')}${modeBtn('dense', 'tj_lp_by_density', 'Most concentrated')}
+        </div>
+        <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${dense
+          ? this.tt('tj_lp_density_hint', 'Ayahs of 4 words or more in which this letter makes up the largest share of the letters: good short drills.')
+          : this.tt('tj_lp_count_hint', 'Ayahs in which this letter is pronounced the most times.')}</p>
+        <div class="space-y-2">${rows}</div>
       </div>`;
   }
 

@@ -23,7 +23,7 @@ const MODULES = [
   { name: 'prophets', files: ['js/prophets-data.js', 'js/prophets.js'], cls: 'ProphetsView' },
   { name: 'quranic-arabic', files: ['js/learn-quranic-arabic-data.js', 'js/learn-quranic-arabic.js'], cls: 'QuranicArabicView' },
   { name: 'tadabbur', files: ['js/ponder.js', 'js/tadabbur-data.js', 'js/tadabbur.js'], cls: 'Tadabbur', ci18n: true },
-  { name: 'tajweed-learn', files: ['js/tajweed-data.js', 'js/tajweed-learn.js'], cls: null, ci18n: true },
+  { name: 'tajweed-learn', files: ['js/tajweed-data.js', 'js/letter-practice-rules.js', 'js/tajweed-learn.js'], cls: null, ci18n: true },
   { name: 'handwriting', files: ['js/qaida-data.js', 'js/handwriting-data.js', 'js/handwriting.js'], cls: 'Handwriting', ci18n: true },
   { name: 'kids', files: ['js/qaida-data.js', 'js/learn-kids.js'], cls: null, ci18n: true },
   { name: 'surah-names', files: ['js/surah-names-data.js', 'js/surah-names.js'], cls: 'SurahNamesView', ci18n: true },
