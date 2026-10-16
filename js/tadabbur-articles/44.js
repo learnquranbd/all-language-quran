@@ -684,7 +684,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "A word of care is needed here. The verse names two parties in an event of the past: the Children of Israel, who were saved, and Pharaoh, from whom they were saved. It describes what the texts describe, a people held in humiliation in that age and a ruler and his people who held them there, and it licenses nothing against any living person or community. Nor does this article draw from it any link, for or against, to any people, religion or state of the present day. The rescue stays where the texts place it.",
+            "en": "A word of care is needed here. The verse names two parties in an event of the past: the Children of Israel, who were saved, and Pharaoh, from whom they were saved. It speaks only of what it names, a people held in humiliation in that age and a ruler and his people who held them there, and it licenses nothing against any living person or community. Nor does this article draw from it any link, for or against, to any people, religion or state of the present day. The rescue stays where the texts place it.",
             "bn": "এখানে সাবধানতার কথা বলা দরকার। আয়াতটি অতীতের এক ঘটনায় দুই পক্ষের নাম নেয়: বানী ইসরাঈল, যাদের রক্ষা করা হয়েছিল, আর ফেরাউন, যার কাছ থেকে তাদের রক্ষা করা হয়েছিল। লেখাগুলো যা বর্ণনা করে, আয়াতও তা-ই বর্ণনা করে: সেই যুগে অপমানের মধ্যে আটকে থাকা এক জনগোষ্ঠী, আর এক শাসক ও তার লোকেরা, যারা তাদের সেভাবে আটকে রেখেছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতি, ধর্ম বা রাষ্ট্রের সঙ্গে এ লেখা আয়াতটির কোনো সম্পর্কও টানে না, পক্ষেও না, বিপক্ষেও না। উদ্ধারের ঘটনা থাকে সেখানেই, যেখানে লেখাগুলো তাকে রেখেছে।"
           },
           {

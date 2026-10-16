@@ -932,8 +932,8 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Fa-ajruhu ala Allah, his reward is upon Allah. The preposition is ala, the one Arabic uses for what is due from someone, rather than inda, which would only have said with. The app's Bengali carries that sense exactly, putting the reward in Allah's charge. And the amount is never stated. Every other item in a dispute has a figure attached to it; this one is left open, which is the whole point of putting it there.",
-            "bn": "'ফা-আজরুহু আলাল্লাহ': তার প্রতিদান আল্লাহর উপর। অব্যয়টি 'আলা'; কারও উপর কোনো দায় থাকলে আরবিতে এটাই বলা হয়। 'ইনদা' বলা হয়নি, যাতে শুধু 'কাছে' বোঝাত। অ্যাপের বাংলা অনুবাদ ঠিক এই অর্থই ধরেছে, প্রতিদানকে রেখেছে আল্লাহর জিম্মায়। আর পরিমাণ কোথাও বলা নেই। বিরোধের অন্য সব হিসাবের সঙ্গে একটা অঙ্ক জুড়ে থাকে; কেবল এটাই খোলা রাখা হয়েছে, আর এখানে একে রাখার উদ্দেশ্যই সেটা।"
+            "en": "Fa-ajruhu ala Allah, his reward is upon Allah. The preposition is ala, the one Arabic uses for what is due from someone, rather than inda, which would only have said with. The phrase puts the reward squarely in Allah's charge. And the amount is never stated. Every other item in a dispute has a figure attached to it; this one is left open, which is the whole point of putting it there.",
+            "bn": "'ফা-আজরুহু আলাল্লাহ': তার প্রতিদান আল্লাহর উপর। অব্যয়টি 'আলা'; কারও উপর কোনো দায় থাকলে আরবিতে এটাই বলা হয়। 'ইনদা' বলা হয়নি, যাতে শুধু 'কাছে' বোঝাত। এভাবে প্রতিদানটা পুরোপুরি থাকে আল্লাহর জিম্মায়। আর পরিমাণ কোথাও বলা নেই। বিরোধের অন্য সব হিসাবের সঙ্গে একটা অঙ্ক জুড়ে থাকে; কেবল এটাই খোলা রাখা হয়েছে, আর এখানে একে রাখার উদ্দেশ্যই সেটা।"
           },
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) that the Prophet ﷺ said: charity does not decrease wealth, and Allah does not increase a servant through pardon except in honour, and nobody humbles himself for Allah but that Allah raises him. Ibn Kathir cites the middle clause of that hadith under this verse. The fear that pardoning will make a person look weak is answered by a report about what actually happens, not by an argument.",

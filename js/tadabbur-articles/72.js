@@ -460,8 +460,8 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Surah al-Jinn opens with the report of a company of jinn who heard the Quran, and from 72:16 onwards the surah runs a chain of clauses opening with anna, that. That if they had kept straight on the way, abundant water would have been given them. 72:17 then breaks the pattern to add a purpose and a warning: whoever turns away from the remembrance of his Lord will be put into arduous punishment. Then this one. The commentators differ over where the jinn's own report ends and the address to the Prophet ﷺ begins.",
-            "bn": "সূরা জিন শুরু হয় একদল জিনের বিবরণ দিয়ে, যারা কুরআন শুনেছিল। ৭২:১৬ থেকে সূরায় পরপর কয়েকটি বাক্য আসে, যেগুলোর শুরু 'আন্না' দিয়ে, মানে 'এই যে'। এই যে, তারা যদি সোজা পথে অবিচল থাকত, তাহলে তাদের প্রচুর পানি দেওয়া হতো। ৭২:১৭ আয়াত এই ধারা ভেঙে যোগ করে একটি উদ্দেশ্য আর একটি সতর্কবাণী: যে তার রবের জিকির থেকে মুখ ফিরিয়ে নেয়, তাকে কঠিন শাস্তিতে ঢোকানো হবে। তারপর এই আয়াত। জিনদের নিজেদের বিবরণ কোথায় শেষ আর নবী ﷺ-কে সম্বোধন কোথায় শুরু, তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে।"
+            "en": "Surah al-Jinn opens with the report of a company of jinn who heard the Quran, and from 72:1 and 72:3 the surah runs a chain of clauses opening with anna, that, which 72:16 resumes. That if they had kept straight on the way, abundant water would have been given them. 72:17 then breaks the pattern to add a purpose and a warning: whoever turns away from the remembrance of his Lord will be put into arduous punishment. Then this one. The commentators differ over where the jinn's own report ends and the address to the Prophet ﷺ begins.",
+            "bn": "সূরা জিন শুরু হয় একদল জিনের বিবরণ দিয়ে, যারা কুরআন শুনেছিল। ৭২:১ ও ৭২:৩ থেকে সূরায় পরপর কয়েকটি বাক্য আসে, যেগুলোর শুরু 'আন্না' দিয়ে, মানে 'এই যে'। ৭২:১৬ আয়াত সেই ধারায় আবার ফেরে। এই যে, তারা যদি সোজা পথে অবিচল থাকত, তাহলে তাদের প্রচুর পানি দেওয়া হতো। ৭২:১৭ আয়াত এই ধারা ভেঙে যোগ করে একটি উদ্দেশ্য আর একটি সতর্কবাণী: যে তার রবের জিকির থেকে মুখ ফিরিয়ে নেয়, তাকে কঠিন শাস্তিতে ঢোকানো হবে। তারপর এই আয়াত। জিনদের নিজেদের বিবরণ কোথায় শেষ আর নবী ﷺ-কে সম্বোধন কোথায় শুরু, তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে।"
           }
         ]
       },
@@ -636,7 +636,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries consulted for this verse attaches a hadith to it. A general narration on the same theme, not linked to 72:26 by these sources, is in Sahih al-Bukhari (4627), from 'Abdullah ibn 'Umar: Allah's Messenger ﷺ said, \"The key of the Unseen are five: Verily with Allah (Alone) is the knowledge of the Hour He sends down the rain and knows what is in the wombs. No soul knows what it will earn tomorrow, and no soul knows in what land it will die. Verily, Allah is All-Knower, All-Aware.\"",
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it. A general narration on the same theme, not linked to 72:26 by these sources, is in Sahih al-Bukhari (4627), from 'Abdullah ibn 'Umar: Allah's Messenger ﷺ said, \"The keys of the Unseen are five: Verily with Allah (Alone) is the knowledge of the Hour. He sends down the rain and knows what is in the wombs. No soul knows what it will earn tomorrow, and no soul knows in what land it will die. Verily, Allah is All-Knower, All-Aware.\"",
             "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস জোড়েনি। তবে একই বিষয়ে একটা সাধারণ বর্ণনা আছে সহীহ বুখারীতে (৪৬২৭), আবদুল্লাহ ইবন উমর (রাঃ) থেকে। এই সূত্রগুলো একে ৭২:২৬-এর সঙ্গে যুক্ত করেনি। রাসূলুল্লাহ ﷺ বলেছেন: \"অদৃশ্যের চাবি পাঁচটি: নিশ্চয়ই কিয়ামতের জ্ঞান কেবল আল্লাহর কাছে, তিনিই বৃষ্টি বর্ষণ করেন, আর জানেন গর্ভে কী আছে। কেউ জানে না আগামীকাল সে কী উপার্জন করবে, আর কেউ জানে না কোন মাটিতে তার মৃত্যু হবে। নিশ্চয়ই আল্লাহ সর্বজ্ঞ, সব খবর রাখেন।\""
           },
           {

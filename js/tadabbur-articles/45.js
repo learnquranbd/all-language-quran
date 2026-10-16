@@ -656,7 +656,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The mubtilun are a condemned group, and this needs saying plainly. The verse describes what the texts describe: those who, in the commentators' words, rejected the proofs sent to the messengers, claimed partners for Allah, argued against the truth or held to falsehoods, and the loss that meets them on the Day of Resurrection. It licenses nothing against any living person or community. It hands no reader a list of names, and this article attaches none to it.",
+            "en": "The mubtilun are a condemned group, and this needs saying plainly. The verse speaks only of what it names: those who, in the commentators' words, rejected the proofs sent to the messengers, claimed partners for Allah, argued against the truth or held to falsehoods, and the loss that meets them on the Day of Resurrection. It licenses nothing against any living person or community. It hands no reader a list of names, and this article attaches none to it.",
             "bn": "মুবতিলূন এক নিন্দিত দল, আর কথাটা সোজাসুজি বলা দরকার। তাফসীরগুলো যা বর্ণনা করে, আয়াতও তা-ই বর্ণনা করে: মুফাসসিরদের ভাষায় যারা রাসূলদের কাছে পাঠানো প্রমাণ প্রত্যাখ্যান করেছে, আল্লাহর শরিক দাবি করেছে, সত্যের বিরুদ্ধে তর্ক করেছে বা বাতিল আঁকড়ে থেকেছে, আর কিয়ামতের দিন তাদের যে ক্ষতির মুখে পড়তে হবে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো পাঠকের হাতে এ আয়াত নামের তালিকা তুলে দেয় না, আর এ লেখাও তাতে কোনো নাম জুড়ে দিচ্ছে না।"
           },
           {
