@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Call Made Quietly",
-          "bn": "নিচু স্বরে করা এক ডাক"
+          "bn": "চুপিসারে এক ডাক"
         },
         "p": [
           {
             "en": "Surah Maryam opens on disjointed letters and then on a heading. 19:2 announces a mention of the mercy of your Lord to His servant Zakariyya, so the whole episode is classified as mercy before a word of it is told. 19:3 gives the setting: when he called upon his Lord a call that was khafiyy, hidden. The commentators explain the concealment as keeping the prayer as far from an audience as possible.",
-            "bn": "সূরা মারইয়াম শুরু হয় বিচ্ছিন্ন হরফ দিয়ে, তারপর একটি শিরোনাম দিয়ে। 19:2 আয়াত ঘোষণা করে, এ হলো তাঁর বান্দা যাকারিয়্যার প্রতি তোমার প্রতিপালকের অনুগ্রহের বিবরণ — অর্থাৎ ঘটনাটির একটি শব্দও বলার আগেই পুরো ঘটনাটিকে অনুগ্রহ হিসেবে চিহ্নিত করে দেওয়া হয়। 19:3 প্রেক্ষাপটটি দেয়: যখন তিনি তাঁর প্রতিপালককে ডেকেছিলেন এক গোপন ডাকে, 'খাফিয়্য' ডাকে। মুফাসসিরগণ এই গোপনতার ব্যাখ্যা দেন — দোয়াটিকে শ্রোতাদের কাছ থেকে যতদূর সম্ভব দূরে রাখা।"
+            "bn": "সূরা মারইয়াম শুরু হয় বিচ্ছিন্ন হরফ দিয়ে, তারপর আসে একটা শিরোনাম। 19:2 জানিয়ে দেয়, এ হলো তোমার রবের রহমতের কথা, যা তিনি করেছিলেন তাঁর বান্দা যাকারিয়্যার প্রতি। অর্থাৎ ঘটনার একটি কথাও বলার আগেই আয়াত পুরো ঘটনাকে রহমত বলে চিনিয়ে দেয়। 19:3 জানায় প্রেক্ষাপট: তিনি তাঁর রবকে ডেকেছিলেন গোপন ডাকে, 'খাফিয়্য' ডাকে। মুফাসসিরগণ বলেন, এই গোপনীয়তার মানে দোয়াকে যতটা সম্ভব মানুষের কান থেকে দূরে রাখা।"
           },
           {
             "en": "That single adjective sets the register of everything that follows. 19:4 is close to the most exposed sentence a person can say about himself, that his body is failing, and it is said where nobody was meant to overhear it. It is a private inventory read out to Allah alone, and every precise image in it was composed for an audience of One.",
-            "bn": "এই একটিমাত্র বিশেষণ পরের সবকিছুর সুর বেঁধে দেয়। 19:4 প্রায় সেই সবচেয়ে অরক্ষিত বাক্য যা কোনো মানুষ নিজের সম্পর্কে বলতে পারে — যে তার দেহ ভেঙে পড়ছে; আর তা বলা হচ্ছে এমন জায়গায় যেখানে কারও শোনার কথা ছিল না। এটি কেবল আল্লাহকে শুনিয়ে পড়া এক ব্যক্তিগত হিসাব, আর এর প্রতিটি নিখুঁত চিত্রকল্প রচিত হয়েছে একজন মাত্র শ্রোতার জন্য।"
+            "bn": "এই একটি বিশেষণই পরের সবকিছুর সুর বেঁধে দেয়। 19:4-এ আছে এমন এক কথা, যা বলতে গিয়ে মানুষ নিজেকে প্রায় পুরোপুরি মেলে ধরে: তার শরীর ভেঙে পড়ছে। আর কথাটা বলা হচ্ছে এমন জায়গায়, যেখানে কারও শোনার কথা নয়। এ যেন শুধু আল্লাহকে পড়ে শোনানো নিজের এক গোপন হিসাব; এর প্রতিটি নিখুঁত ছবি সাজানো একজন মাত্র শ্রোতার জন্য।"
           }
         ]
       },
@@ -37,19 +37,19 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Rabbi inni wahana al-'azmu minni. Wahn is weakness that develops inside a thing rather than damage inflicted from outside. The noun al-'azm, bone, is singular and definite, and the mufassirun read the singular as taking in the whole frame at once instead of listing joints. They also note why bone is named: it is the pillar of the body and the hardest material in it, so if the strongest thing in a man has gone soft, no further inventory is required. Notice minni, from me: he is reporting on the one body he was given, to the One who gave it.",
-            "bn": "রাব্বি ইন্নী ওয়াহানাল আযমু মিন্নী। 'ওয়াহন' মানে এমন দুর্বলতা যা বাইরের আঘাতে নয়, বস্তুটির ভেতরেই জন্ম নেয়। 'আল-আযম' অর্থাৎ হাড় শব্দটি এখানে একবচন ও নির্দিষ্ট, আর মুফাসসিরগণ এই একবচনকে পড়েন গোটা দেহকাঠামোকে একসঙ্গে ধরার অর্থে, অঙ্গ ধরে ধরে তালিকা করার অর্থে নয়। তাঁরা এ-ও লক্ষ করেন কেন হাড়কেই নাম দেওয়া হলো: হাড় দেহের খুঁটি এবং তার সবচেয়ে কঠিন উপাদান — কাজেই মানুষের ভেতরকার সবচেয়ে শক্ত জিনিসটিই যদি নরম হয়ে যায়, তবে আর কোনো তালিকার দরকার পড়ে না। 'মিন্নী' অর্থাৎ 'আমার থেকে' কথাটিও লক্ষণীয়: তিনি তাঁকে দেওয়া একটিমাত্র দেহ সম্পর্কে সেই সত্তাকেই জানাচ্ছেন, যিনি তা দিয়েছিলেন।"
+            "bn": "রাব্বি ইন্নী ওয়াহানাল আযমু মিন্নী। 'ওয়াহন' মানে এমন দুর্বলতা, যা বাইরের আঘাতে আসে না, ভেতর থেকেই জন্মায়। 'আল-আযম' মানে হাড়; শব্দটি এখানে একবচন ও নির্দিষ্ট। মুফাসসিরগণ বলেন, এই একবচনে গোটা দেহকাঠামো একসঙ্গে ধরা হয়েছে, অঙ্গ ধরে ধরে তালিকা দেওয়া হয়নি। হাড়ের নামই কেন এল, তা-ও তাঁরা দেখান: হাড় দেহের খুঁটি, দেহের সবচেয়ে শক্ত জিনিস। মানুষের ভেতরের সবচেয়ে মজবুত জিনিসটাই যদি নরম হয়ে যায়, তবে আর কিছু গুনে দেখানোর দরকার পড়ে না। 'মিন্নী', অর্থাৎ 'আমার থেকে', কথাটিও খেয়াল করুন: তাঁকে যে একটি দেহ দেওয়া হয়েছিল, তার খবর তিনি দিচ্ছেন সেই সত্তাকেই, যিনি দেহটি দিয়েছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "A Head Set Alight",
-          "bn": "আগুন ধরে যাওয়া এক মাথা"
+          "bn": "সাদায় জ্বলে ওঠা মাথা"
         },
         "p": [
           {
             "en": "The second image is the one nobody forgets. Washta'ala ar-ra'su shayban: ishta'ala is from a root used of a fire catching and taking hold, and the verb is given to ar-ra's, the head, rather than to the white hair. Shayban follows in the accusative as a specification, so that the head has blazed up in respect of whiteness. The app's rendering gives the sense rather than the picture, saying his head has filled with white. But grey spreads exactly as fire spreads: from a point, in one direction only, at nobody's invitation, and it never runs backwards.",
-            "bn": "দ্বিতীয় চিত্রকল্পটিই কেউ ভোলে না। ওয়াশতাআলার রা'সু শাইবা — 'ইশতাআলা' এসেছে এমন এক ধাতু থেকে যা আগুন ধরে যাওয়া ও ছড়িয়ে পড়া বোঝাতে ব্যবহৃত হয়; আর ক্রিয়াটি আরোপ করা হয়েছে 'আর-রা'স' অর্থাৎ মাথার ওপর, সাদা চুলের ওপর নয়। এরপর 'শাইবান' আসে কর্মকারকে, নির্দিষ্টকরণ হিসেবে — অর্থাৎ মাথাটি জ্বলে উঠেছে সাদা হওয়ার দিক থেকে। অ্যাপের অনুবাদ ছবিটি নয়, অর্থটিই দেয় — ইংরেজিতে 'তাঁর মাথা সাদায় ভরে গেছে', বাংলায় 'বার্ধক্যে আমার মস্তক সাদা হয়ে গেছে'। কিন্তু পাক ধরা চুল ঠিক আগুনের মতোই ছড়ায়: একটি বিন্দু থেকে, কেবল এক দিকে, কারও আমন্ত্রণ ছাড়াই — আর তা একবারও পেছন দিকে ফেরে না।"
+            "bn": "দ্বিতীয় ছবিটি কেউ ভোলে না। ওয়াশতাআলার রা'সু শাইবা। 'ইশতাআলা' এসেছে এমন এক ধাতু থেকে, যা দিয়ে আগুন ধরে গিয়ে ছড়িয়ে পড়া বোঝায়। আর ক্রিয়াটি বসেছে 'আর-রা'স' অর্থাৎ মাথার সঙ্গে, সাদা চুলের সঙ্গে নয়। এরপর 'শাইবান' আসে কর্মকারকে, কোন দিক থেকে জ্বলেছে তা খুলে বলতে: মাথাটি জ্বলে উঠেছে সাদা হওয়ার দিক থেকে। অ্যাপের অনুবাদ ছবিটা নয়, অর্থটা দেয়: ইংরেজিতে 'তাঁর মাথা সাদায় ভরে গেছে', বাংলায় 'বার্ধক্যে আমার মস্তক সাদা হয়ে গেছে'। অথচ পাকা চুল ছড়ায় ঠিক আগুনের মতো: এক বিন্দু থেকে শুরু, শুধু এক দিকে, কারও ডাকের অপেক্ষা না করে, আর কখনো পেছনে ফেরে না।"
           }
         ]
       },
@@ -61,11 +61,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The third clause turns the whole verse around: wa lam akun bi-du'a'ika rabbi shaqiyya. Shaqiyy is the opposite of blessed; the root carries wretchedness and hard toil, and the Quran mostly reserves the word for the ruined in the Hereafter. Zakariyya (AS) applies it to the experience of asking: never have I been, in calling upon You, one who came away wretched. The verb is past and negated, which makes the clause a report on a lifetime of requests.",
-            "bn": "তৃতীয় বাক্যাংশটি গোটা আয়াতের মোড় ঘুরিয়ে দেয়: ওয়া লাম আকুন বিদুআইকা রাব্বি শাক্বিয়্যা। 'শাক্বিয়্য' হলো সৌভাগ্যবানের বিপরীত; ধাতুটি বহন করে দুর্ভাগ্য ও কঠিন ক্লেশের অর্থ, আর কুরআন শব্দটি বেশির ভাগ ক্ষেত্রে আখিরাতে ধ্বংসপ্রাপ্তদের জন্যই রাখে। যাকারিয়্যা (আঃ) একে প্রয়োগ করেন চাওয়ার অভিজ্ঞতার ওপর: তোমাকে ডেকে আমি কখনো এমন হইনি যে বিফল হয়ে ফিরেছি। ক্রিয়াটি অতীতকালে ও নেতিবাচক, ফলে বাক্যাংশটি হয়ে ওঠে সারা জীবনের চাওয়া নিয়ে একটি প্রতিবেদন।"
+            "bn": "তৃতীয় অংশে এসে পুরো আয়াতের মোড় ঘুরে যায়: ওয়া লাম আকুন বিদুআইকা রাব্বি শাক্বিয়্যা। 'শাক্বিয়্য' সৌভাগ্যবানের উল্টো; ধাতুটিতে আছে দুর্ভাগ্য আর কঠিন কষ্টের অর্থ। কুরআন শব্দটি বেশির ভাগ সময় রাখে আখিরাতে ধ্বংস হয়ে যাওয়া লোকদের জন্য। যাকারিয়্যা (আঃ) সেই শব্দটাই বলছেন চাওয়ার অভিজ্ঞতা নিয়ে: আপনাকে ডেকে আমি কখনো হতভাগা হয়ে ফিরিনি। ক্রিয়াটি অতীতকালের এবং না-বাচক, তাই কথাটা সারা জীবনের সব চাওয়ার একটা হিসাব।"
           },
           {
             "en": "The word occurs three times in this surah. 19:32 has Isa (AS) say he was not made a wretched tyrant, jabbaran shaqiyya. And 19:48 has Ibrahim (AS), walking away from his father, say that he will call upon his Lord and expects that he will not be, in calling upon Him, shaqiyy. Zakariyya (AS) says it of a past already lived; Ibrahim (AS) says it of a future he is walking into. Nearly the same phrasing, opposite tenses.",
-            "bn": "শব্দটি এই সূরায় তিনবার আসে। 19:32 আয়াতে ঈসা (আঃ) বলেন, তাঁকে উদ্ধত ও হতভাগ্য — 'জাব্বারান শাক্বিয়্যা' — করা হয়নি। আর 19:48 আয়াতে ইবরাহীম (আঃ), পিতার কাছ থেকে সরে যেতে যেতে, বলেন যে তিনি তাঁর প্রতিপালককে ডাকবেন এবং আশা করেন প্রতিপালককে ডেকে তিনি 'শাক্বিয়্য' হবেন না। যাকারিয়্যা (আঃ) কথাটি বলেন এমন এক অতীত সম্পর্কে যা তিনি ইতিমধ্যে কাটিয়ে এসেছেন; ইবরাহীম (আঃ) বলেন এমন এক ভবিষ্যৎ সম্পর্কে যার দিকে তিনি হাঁটছেন। বাক্যবন্ধ প্রায় একই, আর কালদুটি বিপরীত।"
+            "bn": "এই সূরায় শব্দটি তিনবার এসেছে। 19:32-এ ঈসা (আঃ) বলেন, তাঁকে উদ্ধত হতভাগা, 'জাব্বারান শাক্বিয়্যা', বানানো হয়নি। আর 19:48-এ ইবরাহীম (আঃ) পিতাকে ছেড়ে চলে যেতে যেতে বলেন, তিনি তাঁর রবকে ডাকবেন, আর আশা করেন, তাঁকে ডেকে তিনি 'শাক্বিয়্য' হবেন না। যাকারিয়্যা (আঃ) কথাটা বলেন পেছনে ফেলে আসা জীবন নিয়ে; ইবরাহীম (আঃ) বলেন সামনের যে জীবনের দিকে হাঁটছেন, তা নিয়ে। কথা প্রায় একই, কাল উল্টো।"
           }
         ]
       },
@@ -77,11 +77,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The request itself does not arrive until the following verse. 19:5 states the fear first, that he fears the successors after him and that his wife has been barren, and only then asks for an heir; 19:6 adds what the heir is for, to inherit from him and from the family of Yaqub, and to be made pleasing. So the whole of 19:4 is preface: two lines about a body and one about a history, before anything is requested.",
-            "bn": "আবেদনটি নিজেই আসে পরের আয়াতে গিয়ে। 19:5 আগে ভয়টি জানায় — তিনি তাঁর পরবর্তী স্বগোত্রীয়দের নিয়ে আশঙ্কা করছেন এবং তাঁর স্ত্রী বন্ধ্যা — আর কেবল তারপরই তিনি তাঁর কাছ থেকে একজন উত্তরাধিকারী চান; 19:6 যোগ করে সেই উত্তরাধিকারী কী জন্য — যে তাঁর ও ইয়াকুব পরিবারের উত্তরাধিকারী হবে এবং যাকে সন্তুষ্টির পাত্র করা হবে। কাজেই গোটা 19:4 আয়াতটিই ভূমিকা: একটি দেহ নিয়ে দুটি বাক্য আর একটি ইতিহাস নিয়ে একটি বাক্য, কিছু চাওয়ার আগেই।"
+            "bn": "আসল চাওয়াটা আসে পরের আয়াতে। 19:5-এ তিনি আগে ভয়ের কথা বলেন: নিজের পরে স্বজনদের নিয়ে তাঁর আশঙ্কা, আর তাঁর স্ত্রী বন্ধ্যা। কেবল তারপরই তিনি একজন উত্তরাধিকারী চান। 19:6 জানায় সেই উত্তরাধিকারী কীসের জন্য: সে তাঁর এবং ইয়াকুবের বংশের উত্তরাধিকারী হবে, আর রব যেন তাকে সন্তোষভাজন করেন। তাই 19:4 পুরোটাই ভূমিকা: দেহ নিয়ে দুটি বাক্য, নিজের ইতিহাস নিয়ে একটি, আর তখনো কিছু চাওয়াই হয়নি।"
           },
           {
             "en": "That preface leans on an unusual support. In 3:38 the same man grounds his prayer in something true about Allah, closing on innaka Sami'u ad-du'a, You are the Hearer of supplication. Here he grounds it in something true about his own history with Allah, that this door has never once failed to open. Both are sound footings, and neither is a plea of personal merit: what he leans on is still something true about Allah, reported as a record rather than named as an attribute. The second is only available to a person who has been asking long enough to have one.",
-            "bn": "এই ভূমিকা দাঁড়িয়ে আছে এক অস্বাভাবিক ভিত্তির ওপর। 3:38 আয়াতে এই একই মানুষ তাঁর দোয়াকে দাঁড় করান আল্লাহ সম্পর্কে সত্য একটি কথার ওপর, শেষ করেন ইন্নাকা সামীউদ দুআ দিয়ে — নিশ্চয় আপনি দোয়া শ্রবণকারী। এখানে তিনি তা দাঁড় করান আল্লাহর সঙ্গে নিজের ইতিহাস সম্পর্কে সত্য একটি কথার ওপর — এই নির্দিষ্ট দরজাটি কখনো একবারও না খুলে থাকেনি। দুটিই আবেদনের জন্য মজবুত ভিত্তি, আর কোনোটিই নিজের যোগ্যতার দাবি নয়: এখানেও ভর দেওয়া হচ্ছে আল্লাহ সম্পর্কে সত্য একটি কথার ওপরই — তবে গুণ হিসেবে নয়, অভিজ্ঞতার হিসাব হিসেবে। দ্বিতীয়টি কেবল তারই হাতে থাকে, যে যথেষ্ট দীর্ঘ সময় ধরে চেয়ে এসেছে বলে তার একটি রেকর্ড আছে।"
+            "bn": "এই ভূমিকা ভর দিয়েছে এক অভিনব খুঁটির ওপর। 3:38-এ এই একই মানুষ দোয়ার ভিত্তি রাখেন আল্লাহ সম্পর্কে একটি সত্য কথায়, শেষ করেন 'ইন্নাকা সামীউদ দুআ' বলে: নিশ্চয় আপনি দোয়া শোনেন। এখানে তিনি ভিত্তি রাখেন আল্লাহর সঙ্গে নিজের জীবনের একটি সত্য কথায়: এই দরজা তিনি কখনো একবারও বন্ধ পাননি। দুটোই মজবুত ভিত্তি, আর কোনোটাই নিজের যোগ্যতার দাবি নয়। এখানেও তিনি ভর দিচ্ছেন আল্লাহ সম্পর্কেই একটি সত্যের ওপর, তবে গুণের নাম ধরে নয়, অভিজ্ঞতার খাতা খুলে। দ্বিতীয় ভিত্তিটা কেবল তারই থাকে, যে এত দিন ধরে চেয়ে এসেছে যে তার একটা খাতা জমে গেছে।"
           }
         ]
       },
@@ -93,11 +93,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The answer engages the imagery directly. When the good news of Yahya comes in 19:7, Zakariyya (AS) asks in 19:8 how he can have a boy when his wife has been barren and he has reached extreme old age. The reply in 19:9 does not dispute the facts he has assembled: it is easy for Me, and I created you before, while you were nothing. The weakened bone is answered by an earlier state than weakness.",
-            "bn": "উত্তরটি সরাসরি এই চিত্রকল্পগুলোর মুখোমুখি হয়। 19:7 আয়াতে যখন ইয়াহইয়ার সুসংবাদ আসে, যাকারিয়্যা (আঃ) 19:8 আয়াতে জিজ্ঞেস করেন, তাঁর পুত্র হবে কীভাবে — তাঁর স্ত্রী তো বন্ধ্যা আর তিনি নিজে চরম বার্ধক্যে পৌঁছে গেছেন। 19:9 আয়াতের জবাব তাঁর সাজানো তথ্যগুলো নিয়ে বিতর্ক করে না: এটি আমার জন্য সহজ, আর আমি তো এর আগে তোমাকে সৃষ্টি করেছি যখন তুমি কিছুই ছিলে না। দুর্বল হয়ে যাওয়া হাড়ের জবাব আসে দুর্বলতারও আগেকার এক অবস্থা দিয়ে।"
+            "bn": "উত্তরটা সরাসরি এই ছবিগুলোর জবাব দেয়। 19:7-এ ইয়াহইয়ার সুসংবাদ এলে যাকারিয়্যা (আঃ) 19:8-এ জিজ্ঞেস করেন, কীভাবে তাঁর ছেলে হবে, যখন তাঁর স্ত্রী বন্ধ্যা আর তিনি নিজে বার্ধক্যের শেষ সীমায় পৌঁছে গেছেন। 19:9-এর জবাব তাঁর সাজানো তথ্যগুলো নিয়ে তর্ক করে না: এ আমার জন্য সহজ; আমি তো এর আগে তোমাকে সৃষ্টি করেছি, যখন তুমি কিছুই ছিলে না। দুর্বল হাড়ের জবাব আসে দুর্বলতারও আগের এক অবস্থা দিয়ে।"
           },
           {
             "en": "Which is the shape the verse leaves for anyone using it. Say the weakness in the concrete rather than the abstract: not that things are difficult, but that the bone has gone soft and the head has caught fire with white. Then, before asking, say the true thing about your own history with Him. A person who has kept no such record has nothing to lean on there, which is itself an argument for asking early and often.",
-            "bn": "যে কেউ আয়াতটি কাজে লাগাতে চাইলে এই কাঠামোটিই সে পায়। দুর্বলতার কথা বলুন বিমূর্তভাবে নয়, বাস্তব ছবিতে: 'অবস্থা কঠিন' নয়, বরং হাড় নরম হয়ে গেছে আর মাথায় সাদার আগুন ধরে গেছে। তারপর, চাওয়ার আগে, তাঁর সঙ্গে নিজের ইতিহাস সম্পর্কে সত্য কথাটি বলুন। যে মানুষ এমন কোনো রেকর্ড জমা করেনি, দোয়ার ঠিক এই জায়গায় ভর দেওয়ার মতো তার কিছুই থাকে না — আর এটিই নিজে থেকেই এই যুক্তি দেয় যে চাওয়া শুরু করতে হয় তাড়াতাড়ি এবং চাইতে হয় বারবার।"
+            "bn": "যে কেউ আয়াতটি নিজের দোয়ায় কাজে লাগাতে চায়, তার জন্য এটাই ছাঁচ। দুর্বলতার কথা বলুন বিমূর্ত ভাষায় নয়, চোখে দেখা ছবিতে: 'অবস্থা কঠিন' নয়, বরং হাড় নরম হয়ে গেছে, মাথা সাদায় জ্বলে উঠেছে। তারপর, কিছু চাওয়ার আগে, তাঁর সঙ্গে নিজের জীবনের সত্য কথাটি বলুন। যে মানুষ এমন কোনো খাতা জমায়নি, দোয়ার এই জায়গায় তার ভর দেওয়ার কিছু থাকে না। আর এ কথাই বলে দেয়, চাওয়া শুরু করতে হয় আগে আগে, আর চাইতে হয় বারবার।"
           }
         ]
       }
@@ -124,7 +124,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Not Denial but Wonder",
-          "bn": "সন্দেহ নয়, বিস্ময়"
+          "bn": "অস্বীকার নয়, বিস্ময়"
         },
         "p": [
           {
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari reaches the same place by a different road. He takes the question as Zakariyya (AS) seeking from his Lord firm knowledge of the way by which the promised child would come, and states plainly that it is not a denial from him of the reality of what Allah promised. His proof is the man's own earlier words: this is the one who had begun by asking, give me from Yourself an heir, after saying my bones have weakened. A man does not deny the very gift he just begged for.",
-            "bn": "তাবারী একই জায়গায় পৌঁছান অন্য পথ ধরে। তিনি প্রশ্নটাকে ধরেন এভাবে: যাকারিয়্যা (আঃ) রবের কাছ থেকে জেনে নিতে চাইছেন, প্রতিশ্রুত সন্তান কোন পথে আসবে। আর তিনি স্পষ্ট বলেন, আল্লাহ যা ওয়াদা করেছেন তার সত্যতা এতে অস্বীকার করা হচ্ছে না। তাঁর প্রমাণ মানুষটির নিজেরই আগের কথা। ইনিই তো শুরু করেছিলেন এই বলে, তোমার তরফ থেকে আমাকে উত্তরাধিকারী দাও, হাড় দুর্বল হয়ে যাওয়ার কথা বলার পর। যে উপহার সে এইমাত্র চেয়ে নিল, সে তা অস্বীকার করে না।"
+            "bn": "তাবারী একই জায়গায় পৌঁছান অন্য পথ ধরে। তাঁর মতে, যাকারিয়্যা (আঃ) রবের কাছে পাকা করে জেনে নিতে চাইছেন, প্রতিশ্রুত সন্তান কোন পথে আসবে। আর তিনি স্পষ্ট বলেন, যাকারিয়্যা এতে আল্লাহর ওয়াদার সত্যতা অস্বীকার করছেন না। তাঁর প্রমাণ মানুষটির নিজেরই আগের কথা। ইনিই তো শুরুতে বলেছিলেন, আমার হাড় দুর্বল হয়ে গেছে, তারপর চেয়েছিলেন, আপনার পক্ষ থেকে আমাকে একজন উত্তরাধিকারী দিন। যে দান কেউ এইমাত্র কাকুতি-মিনতি করে চেয়েছে, সেটাকেই সে অস্বীকার করে না।"
           },
           {
             "en": "At-Tabari also records a narration going back to as-Suddi in which, after the call reached him, a whisper came suggesting the voice was not from Allah. At-Tabari does not adopt this as the meaning of the verse; his own verdict, as above, is that the question asks about the manner and denies nothing. The reading to carry, shared by al-Qurtubi and Ibn Kathir, is wonder at how Allah's power will work, not any wavering in a prophet's certainty about his Lord.",
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di draws the two barriers together. The impediment to a child, he says, was present in both of them, in Zakariyya (AS) and in his wife alike. It is worth pausing on how completely the way was shut. Barrenness on her side, extreme age on his, and no ordinary means left between them by which a child arrives. The verse builds the wall high on purpose, so that what follows can be seen for what it is: a thing no natural cause can explain.",
-            "bn": "সা'দী দুই বাধাকে একসঙ্গে টেনে আনেন। সন্তান না হওয়ার কারণ, তিনি বলেন, দুজনের মধ্যেই ছিল, যাকারিয়্যা (আঃ) আর তাঁর স্ত্রী উভয়ের মধ্যে। পথটা কতটা পুরোপুরি বন্ধ ছিল, সেটার ওপর একটু থামা দরকার। একদিকে বন্ধ্যাত্ব, অন্যদিকে চরম বার্ধক্য, আর তাদের মাঝে সন্তান আসার কোনো স্বাভাবিক উপায় বাকি নেই। আয়াত ইচ্ছে করেই দেয়ালটা উঁচু করে তোলে, যেন এরপর যা আসে তা যা, সেভাবেই দেখা যায়: এমন কিছু যা কোনো স্বাভাবিক কারণে ব্যাখ্যা করা যায় না।"
+            "bn": "সা'দী দুই বাধাকে এক জায়গায় আনেন। তিনি বলেন, সন্তান না হওয়ার কারণ দুজনের মধ্যেই ছিল, যাকারিয়্যা (আঃ) আর তাঁর স্ত্রী উভয়ের মধ্যে। পথটা কতটা পুরোপুরি বন্ধ ছিল, একটু ভেবে দেখুন। একদিকে বন্ধ্যাত্ব, অন্যদিকে চরম বার্ধক্য, আর তাঁদের মাঝে সন্তান আসার কোনো স্বাভাবিক উপায় বাকি নেই। আয়াত ইচ্ছে করেই দেয়ালটা উঁচু করে তোলে, যাতে এরপর যা ঘটে তাকে তার আসল রূপে চেনা যায়: এমন কিছু, কোনো স্বাভাবিক কারণ দিয়ে যার ব্যাখ্যা চলে না।"
           }
         ]
       },
@@ -181,7 +181,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the second barrier, in a word chosen with striking force: wa qad balaghtu min al-kibar itiyya. At-Tabari explains itiyy through an image from the desert. The Arabs said of a stick that had dried out that it ata ya'tu, it withered and hardened past all suppleness. A man who has reached itiyy, at-Tabari says, has become of thinned and dried-out bone. Al-Baghawi and al-Qurtubi carry the same picture: the aged man is like the branch gone to dryness and brittleness.",
-            "bn": "এরপর দ্বিতীয় বাধা, এক অসাধারণ জোরালো শব্দে বেছে নেওয়া: ওয়া কাদ বালাগতু মিনাল কিবারি ইতিয়্যা। তাবারী ইতিয়্য বোঝান মরুভূমির এক ছবি দিয়ে। শুকিয়ে যাওয়া ডাল সম্পর্কে আরবরা বলত, তা 'আতা ইয়া'তু', অর্থাৎ নমনীয়তা হারিয়ে শুকিয়ে শক্ত হয়ে গেছে। যে মানুষ ইতিয়্যে পৌঁছেছে, তাবারী বলেন, তার হাড় সরু হয়ে শুকিয়ে গেছে। বাগাভী ও কুরতুবী সেই একই ছবি বহন করেন: বৃদ্ধ মানুষটা যেন শুকিয়ে ভঙ্গুর হয়ে যাওয়া ডাল।"
+            "bn": "এরপর দ্বিতীয় বাধা, আর সেটা আসে ভীষণ জোরালো একটি শব্দে: ওয়া কাদ বালাগতু মিনাল কিবারি ইতিয়্যা। তাবারী ইতিয়্য বোঝান মরুভূমির এক ছবি দিয়ে। শুকিয়ে যাওয়া ডাল সম্পর্কে আরবরা বলত, তা 'আতা ইয়া'তু', অর্থাৎ নমনীয়তা হারিয়ে শুকিয়ে শক্ত হয়ে গেছে। তাবারী বলেন, যে মানুষ ইতিয়্যে পৌঁছেছে, তার হাড় সরু হয়ে শুকিয়ে গেছে। বাগাভী ও কুরতুবীর কাছেও একই ছবি: বৃদ্ধ মানুষটা যেন শুকিয়ে ভঙ্গুর হয়ে যাওয়া ডাল।"
           },
           {
             "en": "The commentators bring the image down to the body. Mujahid glosses itiyy as the thinning of the bone, and Qatada reads it the same way. The Muyassar renders the whole clause as I have reached the utmost of old age and the thinning of the bone. Ibn Kathir puts it most bluntly: his bone had withered and grown thin, and there remained in him no fertility. The word does not describe a tired man. It describes a body whose capacity for fathering has physically dried up.",
@@ -189,7 +189,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gathers the senses into three: the utmost in old age, in dryness, and in withering. He cites al-Asma'i that the root is used of a thing that has dried and gone hard. Ma'arif al-Qur'an, in English, traces the word to a root meaning unresponsive or insensitive, and settles here on the dryness of the bones. Across every source the direction is the same: this is age at the very end of its road, the sap gone out of the wood.",
-            "bn": "কুরতুবী অর্থগুলো তিনটি ভাগে জড়ো করেন: বার্ধক্যের শেষ সীমা, শুষ্কতার শেষ সীমা, আর শুকিয়ে যাওয়ার শেষ সীমা। তিনি আসমাঈর সূত্রে বলেন, ধাতুটা এমন জিনিসের বেলায় ব্যবহার হয় যা শুকিয়ে শক্ত হয়ে গেছে। মাআরিফুল কুরআন ইংরেজিতে শব্দটাকে টানে এমন এক মূলে যার অর্থ সাড়াহীন বা অনুভূতিহীন, আর এখানে থিতু হয় হাড়ের শুষ্কতায়। প্রতিটি সূত্রেই দিকটা এক: এ বার্ধক্য তার পথের একেবারে শেষে, কাঠ থেকে রস শুকিয়ে গেছে।"
+            "bn": "কুরতুবী অর্থগুলো তিন ভাগে জড়ো করেন: বার্ধক্যের শেষ সীমা, শুষ্কতার শেষ সীমা, আর শুকিয়ে যাওয়ার শেষ সীমা। তিনি আসমাঈর সূত্রে বলেন, ধাতুটা এমন জিনিসের বেলায় ব্যবহার হয়, যা শুকিয়ে শক্ত হয়ে গেছে। মাআরিফুল কুরআনের ইংরেজি সংস্করণ শব্দটির মূল খুঁজে পায় এমন এক ধাতুতে, যার অর্থ সাড়াহীন বা অসাড়; আর এখানে অর্থ ধরে হাড়ের শুষ্কতা। প্রতিটি সূত্রেই দিকটা এক: এ বার্ধক্য তার পথের একেবারে শেষে, কাঠ থেকে রস শুকিয়ে গেছে।"
           }
         ]
       },
@@ -237,15 +237,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "For the believer who reads this, the verse models a way to stand. Zakariyya (AS) had asked for a child when his own words admitted his bones were weak, and when the answer came against every odd, he did not turn suspicious of it. He marvelled, and he asked, in effect, show me how. There is a lesson in praying like a man who means it, and then, when granted the thing you had no natural claim to, receiving it as a wonder rather than a problem to solve.",
-            "bn": "যে বিশ্বাসী এ আয়াত পড়ে, তার জন্য আয়াত দাঁড়ানোর একটা ধরন দেখিয়ে দেয়। যাকারিয়্যা (আঃ) সন্তান চেয়েছিলেন তখন, যখন তাঁর নিজের মুখই স্বীকার করেছিল তাঁর হাড় দুর্বল। আর জবাব যখন সব হিসাবের বিরুদ্ধে এসে গেল, তিনি তা নিয়ে সন্দিহান হননি। তিনি বিস্মিত হলেন, আর যেন বললেন, আমাকে দেখাও কীভাবে। এখানে শিক্ষা আছে: এমন মানুষের মতো দোয়া করা যে সত্যিই তা চায়, আর তারপর যে জিনিসে স্বাভাবিক কোনো দাবি ছিল না তা পেলে, সমস্যা হিসেবে নয়, বিস্ময় হিসেবে গ্রহণ করা।"
+            "bn": "যে মুমিন এ আয়াত পড়ে, আয়াত তাকে দেখিয়ে দেয় এমন মুহূর্তে কীভাবে দাঁড়াতে হয়। যাকারিয়্যা (আঃ) সন্তান চেয়েছিলেন এমন সময়, যখন তিনি নিজের মুখেই স্বীকার করছিলেন যে তাঁর হাড় দুর্বল। আর সব হিসাব উল্টে দিয়ে যখন জবাব এল, তিনি তাতে সন্দেহ করেননি। তিনি বিস্মিত হলেন, আর যেন বললেন, আমাকে দেখান, কীভাবে হবে। এখানে শিক্ষা আছে: দোয়া করুন এমন মানুষের মতো, যে সত্যিই চায়। তারপর যে জিনিস পাওয়ার স্বাভাবিক কোনো দাবি আপনার ছিল না, তা পেলে সেটাকে সমস্যা হিসেবে নয়, বিস্ময় হিসেবে গ্রহণ করুন।"
           },
           {
             "en": "There is a warning folded in as well. Because the words can be misread as doubt, they hold up a mirror to our own asking. When we pray for something and the means for it are visibly gone, do we quietly stop, deciding the door is shut for good? And when an answer arrives that we cannot account for, is our first response gratitude and amazement, or a suspicious search for the ordinary cause behind it? The verse trains the heart to keep asking and to keep marvelling.",
-            "bn": "এর ভেতরে একটা সতর্কবার্তাও ভাঁজ করা আছে। কথাগুলো যেহেতু সন্দেহ বলে ভুল পড়া যায়, তাই তা আমাদের নিজেদের চাওয়ার সামনে একটা আয়না ধরে। আমরা যখন কিছুর জন্য দোয়া করি আর তার উপায় চোখের সামনে ফুরিয়ে যায়, আমরা কি চুপচাপ থেমে যাই, ভেবে নিই দরজা চিরতরে বন্ধ? আর যে জবাবের হিসাব মেলাতে পারি না তা এলে, আমাদের প্রথম সাড়া কি কৃতজ্ঞতা আর বিস্ময়, নাকি এর পেছনের স্বাভাবিক কারণ খোঁজার সন্দেহভরা চেষ্টা? আয়াত অন্তরকে শেখায় চাইতে থাকতে আর বিস্মিত হতে থাকতে।"
+            "bn": "এর ভেতরে একটা সতর্কবার্তাও লুকিয়ে আছে। কথাগুলো যেহেতু সন্দেহ বলে ভুল পড়া যায়, তাই তা আমাদের নিজেদের চাওয়ার সামনে একটা আয়না ধরে। আমরা যখন কিছুর জন্য দোয়া করি আর তার উপায় চোখের সামনে ফুরিয়ে যায়, আমরা কি চুপচাপ থেমে যাই, ভেবে নিই দরজা চিরতরে বন্ধ? আর এমন জবাব এলে, যার হিসাব আমরা মেলাতে পারি না, আমাদের প্রথম সাড়া কি কৃতজ্ঞতা আর বিস্ময়, নাকি সন্দেহ নিয়ে এর পেছনের সাধারণ কারণ খোঁজা? আয়াত অন্তরকে শেখায় চাইতে থাকতে আর বিস্মিত হতে থাকতে।"
           },
           {
             "en": "So Zakariyya (AS) hands the how back to his Lord who promised, and waits. That is where the verse leaves him, and it is a settled place to be. The believer is not asked to see the mechanism before he trusts the outcome; he is asked to hold the promise firmly while the manner remains his Lord's business. A servant who can carry a promise he cannot yet explain has learned the very lesson this old man is teaching from the edge of the impossible.",
-            "bn": "তাই যাকারিয়্যা (আঃ) 'কীভাবে' প্রশ্নটা যিনি ওয়াদা করেছেন তাঁর হাতে ফিরিয়ে দেন, আর অপেক্ষা করেন। আয়াত তাঁকে এখানেই রেখে যায়, আর এ এক থিতু জায়গা। বিশ্বাসীকে বলা হয়নি ফলাফলে ভরসা করার আগে কৌশলটা দেখে নিতে; বলা হয়েছে প্রতিশ্রুতিটা শক্ত করে ধরে রাখতে, যখন ধরনটা থাকে রবের এখতিয়ারে। যে বান্দা এমন এক প্রতিশ্রুতি বহন করতে পারে যা সে এখনো ব্যাখ্যা করতে পারে না, সে এই বৃদ্ধ মানুষটির অসম্ভবের কিনার থেকে শেখানো শিক্ষাটাই শিখে নিয়েছে।"
+            "bn": "তাই যাকারিয়্যা (আঃ) 'কীভাবে'-র ভার ফিরিয়ে দেন ওয়াদাকারী রবের হাতে, আর অপেক্ষা করেন। আয়াত তাঁকে এখানেই রেখে যায়, আর জায়গাটা স্থির, নিশ্চিন্ত। মুমিনকে বলা হয়নি, ফলাফলে ভরসা করার আগে ভেতরের কলকবজা দেখে নিতে। বলা হয়েছে প্রতিশ্রুতিটা শক্ত করে ধরে রাখতে, আর কীভাবে হবে তা রবের হাতে ছেড়ে দিতে। যে বান্দা এমন প্রতিশ্রুতি বুকে ধরে রাখতে পারে, যার ব্যাখ্যা সে এখনো জানে না, সে সেই শিক্ষাটাই শিখে নিয়েছে, যা এই বৃদ্ধ মানুষটি অসম্ভবের কিনারে দাঁড়িয়ে শেখাচ্ছেন।"
           }
         ]
       }
@@ -261,15 +261,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The story opens with a command. At-Tabari reads it as Allah telling His Prophet Muhammad ﷺ: mention in the Book that We sent down to you in truth, Maryam the daughter of Imran, when she withdrew from her family. Al-Qurtubi gives the same address to the Prophet ﷺ and adds its purpose — make her story known to them, so they may recognise the perfection of Our power. The passage is not a stray reminiscence; it is handed to the Prophet as something to recite and pass on.",
-            "bn": "কাহিনিটা শুরু হয় এক নির্দেশ দিয়ে। তাবারী বলেন, আল্লাহ এখানে তাঁর নবী মুহাম্মদ ﷺ-কে বলছেন: যে কিতাব আমি সত্যসহ তোমার ওপর নাযিল করেছি, তাতে ইমরানের কন্যা মারইয়ামের কথা বর্ণনা কর, যখন সে তার পরিবার থেকে সরে গিয়েছিল। কুরতুবীও সম্বোধনটা নবী ﷺ-এর দিকেই ধরেন, আর এর উদ্দেশ্যও জানান: তাদের কাছে তার কাহিনি তুলে ধরো, যাতে তারা আমাদের কুদরতের পূর্ণতা বুঝতে পারে। এ কোনো এলোমেলো স্মৃতিচারণ নয়। তিলাওয়াত করে ছড়িয়ে দেওয়ার জন্যই এটি নবীর হাতে দেওয়া হয়েছে।"
+            "bn": "কাহিনিটা শুরু হয় একটি নির্দেশ দিয়ে। তাবারী বলেন, আল্লাহ এখানে তাঁর নবী মুহাম্মদ ﷺ-কে বলছেন: যে কিতাব আমি সত্যসহ তোমার ওপর নাজিল করেছি, তাতে ইমরানের কন্যা মারইয়ামের কথা বর্ণনা কর, যখন সে তার পরিবার থেকে সরে গিয়েছিল। কুরতুবীও সম্বোধনটা নবী ﷺ-এর প্রতিই ধরেন, আর এর উদ্দেশ্যও জানান: তাদের কাছে তার কাহিনি তুলে ধরো, যাতে তারা আমাদের কুদরতের পূর্ণতা বুঝতে পারে। এ কোনো এলোমেলো স্মৃতিচারণ নয়। আল্লাহ কাহিনিটা নবীর হাতে তুলে দিয়েছেন তিলাওয়াত করে অন্যদের কাছে পৌঁছে দেওয়ার জন্য।"
           },
           {
             "en": "Ibn Kathir sets the placement plainly. After the account of Zakariyya, whom Allah blessed with a pure and righteous child in old age while his wife was barren, the surah turns to Maryam, from whom Allah brought forth her son Isa with no father at all. Between the two accounts, Ibn Kathir writes, lies a real kinship and likeness, which is why the same pairing stands in Surah Al Imran, here, and in Surah al-Anbiya — set together to show His servants His power, the might of His authority, and that He is able over whatever He wills.",
-            "bn": "ইবন কাসীর অবস্থানটা সোজা করে বলেন। যাকারিয়ার কাহিনির পর, যাঁকে বার্ধক্যে আর বন্ধ্যা স্ত্রীর ঘরে আল্লাহ এক পবিত্র সৎ সন্তান দিয়েছিলেন, সূরা এবার ফেরে মারইয়ামের দিকে, যাঁর ঘরে আল্লাহ কোনো পিতা ছাড়াই এনেছিলেন পুত্র ঈসা (আঃ)-কে। দুই কাহিনির মাঝে, ইবন কাসীর লেখেন, আছে সত্যিকারের মিল ও সাদৃশ্য। এ কারণেই একই জোড়া দাঁড়িয়ে আছে সূরা আলে ইমরানে, এখানে, আর সূরা আম্বিয়ায়। বান্দাদের কাছে তাঁর কুদরত, তাঁর কর্তৃত্বের মহিমা আর এই সত্য দেখাতে যে তিনি যা চান তা-ই করতে পারেন।"
+            "bn": "কাহিনিটা কেন এখানে, ইবন কাসীর তা সোজা ভাষায় বলেন। আগে এসেছে যাকারিয়ার কথা, যাঁকে আল্লাহ বার্ধক্যে, বন্ধ্যা স্ত্রীর ঘরে, এক পবিত্র নেক সন্তান দিয়েছিলেন। এরপর সূরা ফেরে মারইয়ামের দিকে, যাঁর কোলে আল্লাহ কোনো পিতা ছাড়াই এনেছিলেন পুত্র ঈসা (আঃ)-কে। ইবন কাসীর লেখেন, দুই কাহিনির মাঝে আছে সত্যিকারের মিল ও সাদৃশ্য। এ জন্যই সূরা আলে ইমরানে, এখানে আর সূরা আম্বিয়ায় কাহিনি দুটি পাশাপাশি এসেছে, যাতে বান্দারা দেখে তাঁর কুদরত, তাঁর রাজত্বের প্রতাপ, আর এই সত্য যে তিনি যা চান তা-ই করতে পারেন।"
           },
           {
             "en": "As-Sa'di reads the arrangement as a climb. Having told the wonder of Zakariyya and Yahya, the surah moves to something more wondrous still, rising by degrees from the lesser to the greater. A child given to an aged father and a barren mother is a marvel; a child given with no father at all is a greater marvel. Both rest on the same truth as-Sa'di keeps returning to: nothing at all constrains the Lord when He wills a thing into being.",
-            "bn": "সা'দী এই সাজানোটাকে দেখেন একটা উঁচুতে ওঠা হিসেবে। যাকারিয়া ও ইয়াহইয়ার বিস্ময় বলার পর সূরা এগোয় আরও বড় বিস্ময়ের দিকে, ধাপে ধাপে ছোট থেকে বড়র দিকে। বৃদ্ধ পিতা আর বন্ধ্যা মায়ের ঘরে সন্তান আসা এক আশ্চর্য; কোনো পিতা ছাড়াই সন্তান আসা তার চেয়ে বড় আশ্চর্য। দুটোই দাঁড়িয়ে সেই একই সত্যের ওপর, যেটার কাছে সা'দী বারবার ফেরেন: যিনি কোনো কিছুকে হও বলেন, তাঁকে আটকানোর মতো কিছুই নেই।"
+            "bn": "সা'দীর চোখে এই বিন্যাস যেন সিঁড়ি বেয়ে ওঠা। যাকারিয়া ও ইয়াহইয়ার বিস্ময় বলার পর সূরা এগোয় আরও বড় বিস্ময়ের দিকে, ধাপে ধাপে ছোট থেকে বড়র দিকে। বৃদ্ধ পিতা আর বন্ধ্যা মায়ের ঘরে সন্তান আসা এক আশ্চর্য; কোনো পিতা ছাড়াই সন্তান আসা তার চেয়ে বড় আশ্চর্য। দুটোই দাঁড়িয়ে সেই একই সত্যের ওপর, যার কাছে সা'দী বারবার ফেরেন: রব যখন কোনো কিছু অস্তিত্বে আনতে চান, তাঁকে আটকানোর মতো কিছুই নেই।"
           }
         ]
       },
@@ -281,51 +281,51 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di dwells on the honour of the naming itself. Among the greatest of Maryam's merits, he writes, is that she is mentioned in this mighty Book — recited by Muslims across the east and the west of the earth, remembered there with the finest mention and the best praise. He reads it as a reward answering her excellent deed and her complete striving. Her name is not preserved by accident of history; it is set down by the choice of the Lord who was pleased with her.",
-            "bn": "সা'দী থেমে থাকেন নাম উল্লেখের সম্মানটার ওপরই। মারইয়ামের সবচেয়ে বড় ফযিলতের একটি, তিনি লেখেন, এই যে তার কথা এসেছে এই মহান কিতাবে। পৃথিবীর পুবে-পশ্চিমে মুসলিমরা এই কিতাব তিলাওয়াত করে, আর সেখানে সবচেয়ে সুন্দর উল্লেখে ও সেরা প্রশংসায় তাকে স্মরণ করে। সা'দী একে দেখেন তার উত্তম আমল আর পূর্ণ চেষ্টার প্রতিদান হিসেবে। তার নাম ইতিহাসের আকস্মিকতায় টিকে থাকেনি। যে রব তার ওপর সন্তুষ্ট ছিলেন, তাঁরই পছন্দে নামটা লেখা হয়েছে।"
+            "bn": "সা'দী বিশেষ করে থামেন নাম নেওয়ার এই সম্মানে। তিনি লেখেন, মারইয়ামের সবচেয়ে বড় ফজিলতের একটি হলো, এই মহান কিতাবে তাঁর কথা এসেছে। পৃথিবীর পুবে-পশ্চিমে মুসলিমরা এই কিতাব তিলাওয়াত করে, আর তাতে তাঁর স্মরণ আছে সবচেয়ে সুন্দর ভাষায়, সেরা প্রশংসায়। সা'দী একে দেখেন তাঁর উত্তম আমল আর পূর্ণ চেষ্টার প্রতিদান হিসেবে। তাঁর নাম ইতিহাসের কোনো আকস্মিকতায় টিকে যায়নি। যে রব তাঁর ওপর সন্তুষ্ট ছিলেন, তিনিই বেছে নিয়ে নামটা লিখে রেখেছেন।"
           },
           {
             "en": "Ibn Kathir fills in who she was. She is Maryam the daughter of Imran, of the line of Dawud, from a pure and wholesome house among the Children of Israel. Her mother had pledged her, freed for the service of the Sacred House in Jerusalem, and Allah accepted the gift. Ibn Kathir cites the words of Surah Al Imran: so her Lord accepted her with goodly acceptance and made her grow in a goodly manner (3:37). The withdrawing woman is, from the start, already dedicated.",
-            "bn": "ইবন কাসীর জানান, সে কে ছিল। সে হলো ইমরানের কন্যা মারইয়াম, দাউদ (আঃ)-এর বংশধারার, বনী ইসরাইলের এক পবিত্র ভালো ঘরের মেয়ে। তার মা তাকে উৎসর্গ করেছিলেন, বায়তুল মাকদিসের খেদমতের জন্য মুক্ত করে দিয়েছিলেন, আর আল্লাহ সে দান কবুল করলেন। ইবন কাসীর সূরা আলে ইমরানের কথা তুলে ধরেন: তার রব তাকে উত্তমভাবে কবুল করলেন আর সুন্দরভাবে বাড়িয়ে তুললেন (৩:৩৭)। যে নারী এবার সরে যাচ্ছে, সে গোড়া থেকেই নিবেদিত।"
+            "bn": "ইবন কাসীর জানান, তিনি কে ছিলেন। তিনি ইমরানের কন্যা মারইয়াম, দাউদ (আঃ)-এর বংশধর, বনী ইসরাইলের এক পবিত্র, ভালো পরিবারের মেয়ে। তাঁর মা তাঁকে মানত করেছিলেন, বায়তুল মাকদিসের খেদমতের জন্য মুক্ত করে দিয়েছিলেন, আর আল্লাহ সে দান কবুল করলেন। ইবন কাসীর সূরা আলে ইমরানের কথা তুলে ধরেন: তার রব তাকে উত্তমভাবে কবুল করলেন আর সুন্দরভাবে বাড়িয়ে তুললেন (৩:৩৭)। যে নারী এবার সরে যাচ্ছেন, তিনি গোড়া থেকেই আল্লাহর জন্য নিবেদিত।"
           },
           {
             "en": "The upbringing matters for what follows. Ibn Kathir describes Maryam as a devoted worshipper, known among the Children of Israel for remarkable worship, devotion and perseverance, raised under the care of Zakariyya, a Prophet the people turned to in their religion. At her side Zakariyya met astonishing signs — sustenance found out of its season, winter fruit in summer and summer fruit in winter, as Al Imran records. So the woman who now draws apart is no stranger to seclusion with Allah; it is the pattern of her life.",
-            "bn": "যা পরে ঘটবে, তার জন্য এই বেড়ে ওঠাটা গুরুত্বপূর্ণ। ইবন কাসীর মারইয়ামকে বর্ণনা করেন এক নিবেদিতা ইবাদতগুজার হিসেবে, যিনি বনী ইসরাইলের মধ্যে অসাধারণ ইবাদত, তাবাত্তুল আর অধ্যবসায়ের জন্য পরিচিত, আর যিনি বড় হয়েছেন যাকারিয়ার তত্ত্বাবধানে, সেই নবী, দ্বীনের ব্যাপারে লোকে যাঁর কাছে ফিরত। তার পাশে যাকারিয়া বিস্ময়কর নিদর্শন দেখতেন: অসময়ের রিযিক, শীতে গ্রীষ্মের ফল আর গ্রীষ্মে শীতের ফল, যেমন আলে ইমরান বলে। তাই যে নারী এখন আলাদা হচ্ছে, আল্লাহর সঙ্গে নিরিবিলি হওয়া তার অচেনা নয়, এ তার জীবনেরই ধারা।"
+            "bn": "সামনে যা ঘটবে, তা বুঝতে এই বেড়ে ওঠার কথা জানা দরকার। ইবন কাসীর মারইয়ামকে বর্ণনা করেন এক নিবেদিতা ইবাদতগুজার হিসেবে, যিনি বনী ইসরাইলের মধ্যে অসাধারণ ইবাদত, তাবাত্তুল আর অধ্যবসায়ের জন্য পরিচিত ছিলেন, আর বড় হয়েছিলেন যাকারিয়ার তত্ত্বাবধানে, সেই নবী, দ্বীনের ব্যাপারে লোকে যাঁর কাছে ফিরত। তাঁর কাছে গিয়ে যাকারিয়া বিস্ময়কর নিদর্শন দেখতেন: অসময়ের রিযিক, শীতে গ্রীষ্মের ফল আর গ্রীষ্মে শীতের ফল, যেমন আলে ইমরান বলে। তাই যে নারী এখন আলাদা হয়ে যাচ্ছেন, আল্লাহর সঙ্গে নিরিবিলি থাকা তাঁর অচেনা নয়; এ তাঁর জীবনেরই ধারা।"
           }
         ]
       },
       {
         "h": {
           "en": "The Verb of Casting Away",
-          "bn": "সরে যাওয়ার সেই ক্রিয়া"
+          "bn": "ছুড়ে ফেলার অর্থে এক ক্রিয়া"
         },
         "p": [
           {
             "en": "The verb carries the sense of casting away. At-Tabari explains intabadhat as a form built from an-nabdh, and an-nabdh means to throw or to cast off; so she set herself apart and drew away from her family. Ma'arif al-Qur'an traces the same root — nabadha, to throw away — and renders intibadh as withdrawing from the crowd. Al-Qurtubi glosses it as moving aside and drawing far off, and points to the Qur'an's own use of the root elsewhere: so they cast it behind their backs.",
-            "bn": "ক্রিয়াটির ভেতরে ছুড়ে ফেলার ভাব লুকিয়ে। তাবারী বোঝান, ইনতাবাযাত শব্দটা এসেছে নবয থেকে, আর নবয মানে ছুড়ে ফেলা বা দূরে সরিয়ে দেওয়া; তাই সে নিজেকে আলাদা করে পরিবার থেকে দূরে সরে গেল। মাআরিফুল কুরআন একই মূলের কথা বলে, নবাযা মানে ছুড়ে ফেলা, আর ইনতিবাযকে বোঝায় ভিড় থেকে সরে আসা হিসেবে। কুরতুবী একে অর্থ করেন সরে যাওয়া আর দূরে চলে যাওয়া, আর দেখান কুরআন নিজেই এই মূল ব্যবহার করেছে অন্য জায়গায়: তারা তা তাদের পিঠের পেছনে ছুড়ে ফেলল।"
+            "bn": "ক্রিয়াটির ভেতরে ছুড়ে ফেলার ভাব লুকিয়ে আছে। তাবারী বোঝান, ইনতাবাযাত শব্দটা এসেছে নবয থেকে, আর নবয মানে ছুড়ে ফেলা বা দূরে সরিয়ে দেওয়া; তাই তিনি নিজেকে আলাদা করে পরিবার থেকে দূরে সরে গেলেন। মাআরিফুল কুরআন একই মূলের কথা বলে, নবাযা মানে ছুড়ে ফেলা, আর ইনতিবাযকে বোঝায় ভিড় থেকে সরে আসা হিসেবে। কুরতুবী এর অর্থ করেন সরে যাওয়া আর দূরে চলে যাওয়া, আর দেখান কুরআন নিজেই অন্য জায়গায় এই মূল ব্যবহার করেছে: তারা তা তাদের পিঠের পেছনে ছুড়ে ফেলল।"
           },
           {
             "en": "On min ahliha the commentators agree. Qatadah, cited by at-Tabari, reads it as she separated herself from her family. Al-Qurtubi glosses ahliha as those who were with her, and al-Baghawi has her withdraw and seclude herself from her people. Al-Muyassar keeps the line at its plainest: she distanced herself from her family and took to a place toward the east. Every reading meets at the same fact — a deliberate, bodily drawing apart — and parts only over the reason behind it.",
-            "bn": "মিন আহলিহা নিয়ে তাফসীরকারেরা একমত। কাতাদা, তাবারীর বরাতে, একে পড়েন এভাবে: সে তার পরিবার থেকে আলাদা হয়ে গেল। কুরতুবী আহলিহার অর্থ করেন যারা তার সঙ্গে ছিল, আর বাগভীর বর্ণনায় সে তার সম্প্রদায় থেকে সরে গিয়ে নিরিবিলি হলো। মুয়াসসার কথাটা রাখেন সবচেয়ে সাদামাটাভাবে: সে তার পরিবার থেকে দূরে সরে পুব দিকের এক জায়গায় গিয়ে আশ্রয় নিল। প্রতিটি ব্যাখ্যা মেলে একই সত্যে, ইচ্ছাকৃত এক শারীরিক সরে যাওয়ায়, আর আলাদা হয় শুধু এর কারণ নিয়ে।"
+            "bn": "মিন আহলিহা নিয়ে তাফসীরকারেরা একমত। তাবারী কাতাদার কথা আনেন: তিনি তাঁর পরিবার থেকে আলাদা হয়ে গেলেন। কুরতুবী আহলিহার অর্থ করেন, যারা তাঁর সঙ্গে ছিল; আর বাগভীর বর্ণনায় তিনি নিজের সম্প্রদায় থেকে সরে গিয়ে নিরিবিলি হলেন। মুয়াসসার কথাটা রাখেন সবচেয়ে সাদামাটাভাবে: তিনি পরিবার থেকে দূরে সরে পুব দিকের এক জায়গায় গিয়ে উঠলেন। সব ব্যাখ্যাই এক জায়গায় মেলে: তিনি ইচ্ছা করে, সশরীরে সরে গিয়েছিলেন। মতভেদ শুধু এর কারণ নিয়ে।"
           }
         ]
       },
       {
         "h": {
           "en": "Why She Drew Apart",
-          "bn": "কেন সে আলাদা হলো"
+          "bn": "কেন তিনি আলাদা হলেন"
         },
         "p": [
           {
             "en": "Why she drew apart divides the commentators. As-Suddi, reported by at-Tabari and Ibn Kathir, says she went out to the side of the prayer chamber because a menses had come upon her. Al-Qurtubi frames it the same way — that she withdrew to purify herself from menstrual or postnatal bleeding — while al-Baghawi has her already purified and going out to bathe. This strand of the commentary ties the leaving to purification, a private need drawing her away from the household.",
-            "bn": "কেন সে সরে গেল, এ নিয়ে তাফসীরকারেরা ভিন্ন মত রাখেন। সুদ্দী, তাবারী আর ইবন কাসীরের বরাতে, বলেন সে মিহরাবের পাশে গিয়েছিল কারণ তার হায়েয এসেছিল। কুরতুবী একইভাবে ধরেন, সে সরে গিয়েছিল হায়েয বা নিফাসের রক্ত থেকে পবিত্র হতে; আর বাগভীর বর্ণনায় সে আগেই পবিত্র হয়েছিল, গোসল করতে বেরিয়েছিল। ব্যাখ্যার এই ধারা সরে যাওয়াটাকে জোড়ে পবিত্রতার সঙ্গে, এক ব্যক্তিগত প্রয়োজন যা তাকে ঘর থেকে টেনে সরায়।"
+            "bn": "কেন তিনি সরে গেলেন, এ নিয়ে তাফসীরকারদের মত ভিন্ন। তাবারী ও ইবন কাসীরের বর্ণনায় সুদ্দী বলেন, তিনি মিহরাবের এক পাশে গিয়েছিলেন, কারণ তাঁর হায়েয শুরু হয়েছিল। কুরতুবীও একইভাবে বলেন, তিনি হায়েয বা নিফাসের রক্ত থেকে পবিত্র হতে সরে গিয়েছিলেন; আর বাগভীর বর্ণনায় তিনি আগেই পবিত্র হয়ে গিয়েছিলেন, গোসল করতে বেরিয়েছিলেন। ব্যাখ্যার এই ধারা সরে যাওয়াকে জুড়ে দেয় পবিত্রতার সঙ্গে: একান্ত এক প্রয়োজন তাঁকে ঘর থেকে দূরে নিয়ে গিয়েছিল।"
           },
           {
             "en": "Against that stands the reading al-Qurtubi prefers. He reports another view — that she withdrew in order to worship Allah — and calls it the sound view, since Maryam was given over to the guardianship and service of the sanctuary. She drew apart from people for that, he says, entering the eastern side by the prayer niche to be alone in her devotion. Ma'arif al-Qur'an notes that al-Qurtubi gave this explanation the preference, and Nawf al-Bikali, in Ibn Kathir, has her take a dwelling to worship in.",
-            "bn": "এর বিপরীতে দাঁড়ায় সেই পাঠ, যা কুরতুবী বেশি পছন্দ করেন। তিনি আরেকটি মত আনেন, সে সরে গিয়েছিল আল্লাহর ইবাদত করতে, আর একে বলেন উত্তম মত; কারণ মারইয়াম নিবেদিত ছিলেন উপাসনালয়ের রক্ষণাবেক্ষণ ও খেদমতে। এ জন্যই সে মানুষ থেকে আলাদা হলো, বলেন কুরতুবী, আর মিহরাবের পুব পাশে ঢুকল একা ইবাদতে ডুবতে। মাআরিফুল কুরআন জানায়, কুরতুবী এই ব্যাখ্যাকেই অগ্রাধিকার দিয়েছেন, আর নওফ আল-বিকালি, ইবন কাসীরের বরাতে, বলেন সে ইবাদতের জন্য একটা আবাস বেছে নিয়েছিল।"
+            "bn": "এর বিপরীতে আছে সেই ব্যাখ্যা, যা কুরতুবী বেশি পছন্দ করেন। তিনি আরেকটি মত আনেন: মারইয়াম সরে গিয়েছিলেন আল্লাহর ইবাদত করতে। কুরতুবী একেই সঠিক মত বলেন, কারণ মারইয়াম ছিলেন ইবাদতখানার দেখাশোনা আর খেদমতে নিবেদিত। কুরতুবী বলেন, এ জন্যই তিনি মানুষ থেকে আলাদা হয়েছিলেন, আর মিহরাবের পুব পাশে ঢুকেছিলেন একান্তে ইবাদত করতে। মাআরিফুল কুরআন জানায়, কুরতুবী এই ব্যাখ্যাকেই অগ্রাধিকার দিয়েছেন; আর ইবন কাসীরের বর্ণনায় নওফ আল-বিকালি বলেন, তিনি ইবাদতের জন্য একটা আবাস বেছে নিয়েছিলেন।"
           },
           {
             "en": "The remaining reports are held side by side, not ranked. Muhammad ibn Ishaq, in Ibn Kathir, has her go out with her water jug to draw water, and al-Baghawi adds that it was a bitterly cold winter day and she sat in a sunlit spot. The commentators keep these as differing accounts, not rival verdicts, and not a single account lowers her. Whatever the reason taken, the verse shows a chaste and worshipping woman seeking her own privacy, and the honour the Qur'an gives her is left untouched.",
-            "bn": "বাকি বর্ণনাগুলো পাশাপাশি রাখা হয়, ওপর-নিচ করা হয় না। মুহাম্মদ ইবন ইসহাক, ইবন কাসীরের বরাতে, বলেন সে তার কলস নিয়ে পানি আনতে বেরিয়েছিল, আর বাগভী যোগ করেন সেদিন ছিল কনকনে শীতের দিন, সে রোদ-লাগা এক জায়গায় বসেছিল। তাফসীরকারেরা এগুলোকে রাখেন ভিন্ন ভিন্ন বর্ণনা হিসেবে, পরস্পরবিরোধী রায় হিসেবে নয়, আর একটি বর্ণনাও তাকে ছোট করে না। কারণ যা-ই ধরা হোক, আয়াত দেখায় এক সতী ও ইবাদতগুজার নারীকে, যে নিজের নিরিবিলি খুঁজছে; আর কুরআন তাকে যে সম্মান দেয়, তা অটুট থাকে।"
+            "bn": "বাকি বর্ণনাগুলো তাফসীরকারেরা পাশাপাশি রাখেন, ওপর-নিচ করেন না। ইবন কাসীরের বর্ণনায় মুহাম্মদ ইবন ইসহাক বলেন, তিনি কলস নিয়ে পানি আনতে বেরিয়েছিলেন; আর বাগভী যোগ করেন, সেদিন ছিল কনকনে শীত, তিনি রোদ পড়া এক জায়গায় বসেছিলেন। এগুলো তাঁদের কাছে ভিন্ন ভিন্ন বর্ণনা, একে অন্যের বিরুদ্ধে রায় নয়, আর একটি বর্ণনাও তাঁকে ছোট করে না। কারণ যেটাই ধরা হোক, আয়াত দেখায় এক সতী, ইবাদতগুজার নারীকে, যিনি নিজের নিরিবিলি খুঁজছেন; আর কুরআন তাঁকে যে সম্মান দেয়, তা অটুট থাকে।"
           }
         ]
       },
@@ -337,11 +337,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The place is named only as eastward. At-Tabari has her withdraw to a spot toward the rising of the sun rather than its setting, and Qatadah, whom he cites, reads it as the eastern side, and elsewhere as a far and remote place. As-Suddi sets it to the east of the prayer chamber; as-Sa'di reads it simply as toward the east from them; al-Baghawi places it within the house, on the side that faces the sunrise. The word fixes a direction, not an address.",
-            "bn": "জায়গাটা শুধু পুব দিক বলেই চিহ্নিত। তাবারীর বর্ণনায় সে সরে গিয়েছিল সূর্য ওঠার দিকে, অস্ত যাওয়ার দিকে নয়; আর কাতাদা, যাঁকে তিনি উদ্ধৃত করেন, একে পড়েন পুব পাশ হিসেবে, আবার কোথাও দূরের নির্জন জায়গা হিসেবে। সুদ্দী একে রাখেন মিহরাবের পুব দিকে; সা'দী পড়েন সরলভাবে, তাদের থেকে পুব দিকে; বাগভী রাখেন ঘরের ভেতরেই, যে পাশটা সূর্যোদয়ের দিকে ফেরানো। শব্দটা একটা দিক ঠিক করে, ঠিকানা নয়।"
+            "bn": "জায়গাটার পরিচয় শুধু এটুকু: পুব দিকে। তাবারীর বর্ণনায় তিনি সরে গিয়েছিলেন সূর্য ওঠার দিকে, অস্ত যাওয়ার দিকে নয়; আর তাবারী যাঁর কথা আনেন, সেই কাতাদা একে পড়েন পুব পাশ হিসেবে, আবার অন্য জায়গায় দূরের নির্জন জায়গা হিসেবে। সুদ্দী একে রাখেন মিহরাবের পুব দিকে; সা'দী পড়েন সরলভাবে, তাদের থেকে পুব দিকে; বাগভী রাখেন ঘরের ভেতরেই, যে পাশটা সূর্যোদয়ের দিকে ফেরানো। শব্দটা একটা দিক ঠিক করে, ঠিকানা নয়।"
           },
           {
             "en": "Al-Qurtubi pauses on the word itself. Ash-sharq, with the ra at rest, is the place where the sun rises; ash-sharaq, with the ra in motion, is the sun. He notes that the spot was singled out as the eastern spot, and reads the choice of east as carrying more than a bearing on a compass. That reading, which al-Qurtubi credits to at-Tabari, opens onto a question the next lines take up: why the east at all, and not any other quarter.",
-            "bn": "কুরতুবী থামেন শব্দটার ওপরই। শারক, রা সাকিন হলে, সে জায়গা যেখানে সূর্য ওঠে; শারাক, রা নড়লে, খোদ সূর্য। তিনি বলেন, জায়গাটাকে আলাদা করে পুবের বলা হয়েছে, আর পুব বেছে নেওয়ার মধ্যে তিনি কম্পাসের নিছক দিকনির্দেশের চেয়ে বেশি কিছু পড়েন। এই পাঠ, যা কুরতুবী তাবারীর দিকে সম্পর্কিত করেন, খুলে দেয় পরের লাইনগুলোর এক প্রশ্ন: পুব কেন, আর অন্য কোনো দিক নয় কেন।"
+            "bn": "কুরতুবী থামেন শব্দটার ওপরই। 'শারক', রা সাকিন দিয়ে, মানে যেখানে সূর্য ওঠে; 'শারাক', রা-তে যবর দিয়ে, মানে খোদ সূর্য। তিনি বলেন, জায়গাটাকে আলাদা করে পুবের জায়গা বলা হয়েছে, আর পুব বেছে নেওয়ার মধ্যে তিনি কম্পাসের নিছক দিকের চেয়ে বেশি কিছু দেখেন। এই ব্যাখ্যার কৃতিত্ব কুরতুবী দেন তাবারীকে। আর এখান থেকেই পরের প্রশ্নটা ওঠে: পুবই কেন, অন্য কোনো দিক নয় কেন?"
           }
         ]
       },
@@ -353,15 +353,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators explain the eastward choice. At-Tabari passes on that she came to a place toward the sunrise because, among her people, what lay to the east was better than what lay to the west, and the same esteem was held among the Arabs. Al-Qurtubi carries the point and credits it to at-Tabari: the spot was named eastern because they magnified the direction of the east and the quarter from which the lights rise, holding the eastern side of everything to be the more excellent.",
-            "bn": "পুব বেছে নেওয়ার ব্যাখ্যা দেন তাফসীরকারেরা। তাবারী জানান, সে সূর্যোদয়ের দিকের এক জায়গায় এসেছিল কারণ তাদের কাছে পুবে যা পড়ত তা পশ্চিমে যা পড়ত তার চেয়ে ভালো ছিল, আর একই মর্যাদা আরবদের মধ্যেও ছিল। কুরতুবী কথাটা আনেন আর তাবারীর দিকে সম্পর্কিত করেন: জায়গাটাকে পুবের বলা হয়েছে কারণ তারা পুব দিককে আর যেদিক থেকে আলো ওঠে সেই দিককে বড় করে দেখত, প্রতিটি জিনিসের পুব পাশটাকেই বেশি শ্রেষ্ঠ ধরত।"
+            "bn": "পুব কেন, তাফসীরকারেরা তার ব্যাখ্যা দেন। তাবারী জানান, তিনি সূর্যোদয়ের দিকের এক জায়গায় গিয়েছিলেন, কারণ তাঁর সম্প্রদায়ের কাছে পশ্চিমের চেয়ে পুব দিক ছিল উত্তম; আরবদের মধ্যেও পুবের একই কদর ছিল। কুরতুবীও কথাটা আনেন, আর তাবারীর নামেই আনেন: জায়গাটাকে পুবের বলা হয়েছে, কারণ তারা পুব দিককে, যেদিক থেকে আলো ওঠে সেদিককে, বড় করে দেখত; যেকোনো জিনিসের পুব পাশটাকেই বেশি মর্যাদার মনে করত।"
           },
           {
             "en": "Ibn Abbas draws a striking conclusion from the verse. He said, as at-Tabari, Ibn Kathir, al-Qurtubi and Ma'arif al-Qur'an all report, that he was the most knowing of people as to why the Christians took the east for their direction of prayer: it was because of this verse, for they took the birthplace of Isa as their qibla. Al-Qurtubi adds their own saying — that had any part of the earth been better than the east, Maryam would have laid Isa there.",
-            "bn": "আয়াত থেকে ইবন আব্বাস এক চমকপ্রদ সিদ্ধান্ত টানেন। তিনি বলেছিলেন, তাবারী, ইবন কাসীর, কুরতুবী আর মাআরিফুল কুরআন সবাই যা বর্ণনা করেন, যে খ্রিস্টানরা কেন পুবকে তাদের সালাতের দিক বানিয়েছে তা তিনিই সবচেয়ে ভালো জানেন: এ এই আয়াতের কারণেই, কারণ তারা ঈসা (আঃ)-এর জন্মস্থানকে কিবলা বানিয়েছে। কুরতুবী তাদের নিজেদের কথাটাও যোগ করেন, জমিনের কোনো অংশ যদি পুবের চেয়ে ভালো হতো, মারইয়াম সেখানেই ঈসা (আঃ)-কে রাখতেন।"
+            "bn": "আয়াত থেকে ইবন আব্বাস এক চমকপ্রদ সিদ্ধান্ত টানেন। তাবারী, ইবন কাসীর, কুরতুবী আর মাআরিফুল কুরআন সবাই তাঁর কথাটা বর্ণনা করেছেন: খ্রিস্টানরা কেন পুবকে নিজেদের সালাতের দিক বানাল, তা মানুষের মধ্যে তিনিই সবচেয়ে ভালো জানেন। কারণ এই আয়াতই; তারা ঈসা (আঃ)-এর জন্মস্থানকে কিবলা বানিয়েছে। কুরতুবী তাদের নিজেদের একটা কথাও যোগ করেন: জমিনের কোনো অংশ যদি পুবের চেয়ে ভালো হতো, মারইয়াম সেখানেই ঈসা (আঃ)-কে প্রসব করতেন।"
           },
           {
             "en": "A second report from Ibn Abbas points the same way. Carried by at-Tabari and Ibn Kathir, it says the People of the Book had been commanded to pray toward the House and to make its pilgrimage, and nothing turned them away but their reading of this verse, so they prayed toward the sunrise. Al-Baghawi traces the Christians' eastward prayer to al-Hasan. The commentaries agree on the fact and part over the exact chain, and none of it disturbs the verse's plain sense: a chosen woman withdrew eastward.",
-            "bn": "ইবন আব্বাসের দ্বিতীয় এক বর্ণনাও একই দিকে ইঙ্গিত করে। তাবারী আর ইবন কাসীরের বরাতে আসে, আহলে কিতাবকে হুকুম দেওয়া হয়েছিল বায়তুল্লাহর দিকে সালাত পড়তে আর তার হজ করতে, আর কেবল এই আয়াতের পাঠই তাদের সেখান থেকে ফিরিয়ে দিল, তাই তারা সূর্যোদয়ের দিকে সালাত পড়ল। বাগভী খ্রিস্টানদের পুবমুখী সালাতকে হাসানের দিকে সম্পর্কিত করেন। তাফসীরগুলো ঘটনাটায় একমত, আলাদা হয় শুধু সঠিক সনদ নিয়ে, আর এর কিছুই আয়াতের সরল অর্থকে টলায় না: এক মনোনীতা নারী পুব দিকে সরে গিয়েছিলেন।"
+            "bn": "ইবন আব্বাসের দ্বিতীয় একটি বর্ণনাও একই দিকে ইঙ্গিত করে। তাবারী আর ইবন কাসীরের বরাতে আসে, আহলে কিতাবকে হুকুম দেওয়া হয়েছিল বায়তুল্লাহর দিকে সালাত পড়তে আর তার হজ করতে; কেবল এই আয়াতের পাঠই তাদের সেখান থেকে ফিরিয়ে দিল, তাই তারা সূর্যোদয়ের দিকে সালাত পড়ল। বাগভী খ্রিস্টানদের পুবমুখী সালাতের কথাটা আনেন হাসানের বরাতে। ঘটনাটায় তাফসীরগুলো একমত, আলাদা শুধু সনদের খুঁটিনাটিতে। আর এর কিছুই আয়াতের সরল অর্থকে টলায় না: আল্লাহর মনোনীতা এক নারী পুব দিকে সরে গিয়েছিলেন।"
           }
         ]
       },
@@ -373,11 +373,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Every reading here rests on the early authorities. The explanations come from the Companions and the Successors — Ibn Abbas, Qatadah, as-Suddi, Nawf al-Bikali and Muhammad ibn Ishaq — carried in the commentaries of at-Tabari, Ibn Kathir, al-Qurtubi, al-Baghawi and as-Sa'di. None of these commentaries attaches a sound Prophetic report to this verse's account of her withdrawal. So the reports are given as what they are, the words of those early authorities, and nothing is added beyond what the sources hold.",
-            "bn": "এখানকার প্রতিটি পাঠ দাঁড়িয়ে আছে আদি কর্তৃপক্ষদের ওপর। ব্যাখ্যাগুলো এসেছে সাহাবা আর তাবিয়ীদের কাছ থেকে, ইবন আব্বাস, কাতাদা, সুদ্দী, নওফ আল-বিকালি আর মুহাম্মদ ইবন ইসহাক, যা বাহিত হয়েছে তাবারী, ইবন কাসীর, কুরতুবী, বাগভী আর সা'দীর তাফসীরে। এই তাফসীরগুলোর কোনোটিই তার সরে যাওয়ার এই বর্ণনার সঙ্গে কোনো সহীহ নববী হাদীস জোড়ে না। তাই বর্ণনাগুলো যেমন, তেমনই দেওয়া হলো, সেই আদি কর্তৃপক্ষদের কথা হিসেবে, আর সূত্র যা ধরে তার বাইরে কিছুই যোগ করা হলো না।"
+            "bn": "এখানকার প্রতিটি ব্যাখ্যা দাঁড়িয়ে আছে পূর্বসূরি আলেমদের কথার ওপর। ব্যাখ্যাগুলো এসেছে সাহাবা আর তাবিয়ীদের কাছ থেকে: ইবন আব্বাস, কাতাদা, সুদ্দী, নওফ আল-বিকালি আর মুহাম্মদ ইবন ইসহাক। তাঁদের কথা পাওয়া যায় তাবারী, ইবন কাসীর, কুরতুবী, বাগভী আর সা'দীর তাফসীরে। এই তাফসীরগুলোর কোনোটিই তাঁর সরে যাওয়ার এই বর্ণনার সঙ্গে কোনো সহীহ নববী হাদিস জোড়ে না। তাই আমরা বর্ণনাগুলো যেমন আছে তেমনই দিলাম, সেই পূর্বসূরিদের কথা হিসেবে; সূত্রে যা আছে, তার বাইরে কিছু যোগ করিনি।"
           },
           {
             "en": "Al-Qurtubi does record a genuine disagreement over her rank. Some, he says, held Maryam to be a prophetess; others held her not a prophetess but a woman of the highest truth and favour, among the purest of her people. He marks the first position as the more apparent and refers the full treatment back to Surah Al Imran. The difference is kept here as a difference, both sides named and no verdict pressed, for her honour stands whole on either reading.",
-            "bn": "কুরতুবী অবশ্য তার মর্যাদা নিয়ে এক সত্যিকারের মতভেদ লিপিবদ্ধ করেন। কেউ কেউ, তিনি বলেন, মারইয়ামকে নবী ধরেছেন; আবার কেউ ধরেছেন নবী নন, বরং সর্বোচ্চ সততা ও অনুগ্রহের অধিকারী এক নারী, তার সম্প্রদায়ের সবচেয়ে পবিত্রদের মধ্যে। তিনি প্রথম মতটিকে বেশি স্পষ্ট বলে চিহ্নিত করেন আর পূর্ণ আলোচনা ফিরিয়ে দেন সূরা আলে ইমরানের দিকে। মতভেদটা এখানে মতভেদ হিসেবেই রাখা হলো, দুই পক্ষের নাম নিয়ে, কোনো রায় না চাপিয়ে; কারণ যে পাঠই হোক, তার সম্মান পুরো অটুট থাকে।"
+            "bn": "তবে তাঁর মর্যাদা নিয়ে একটি সত্যিকারের মতভেদ কুরতুবী লিখে রেখেছেন। তিনি বলেন, কেউ কেউ মারইয়ামকে নবী মনে করেছেন; আবার কেউ বলেছেন, তিনি নবী নন, বরং সত্যনিষ্ঠা ও আল্লাহর অনুগ্রহে সর্বোচ্চ স্তরের এক নারী, নিজের সম্প্রদায়ের সবচেয়ে পবিত্রদের একজন। কুরতুবী প্রথম মতটিকে বেশি স্পষ্ট বলেন, আর পূর্ণ আলোচনার জন্য পাঠককে ফিরিয়ে দেন সূরা আলে ইমরানে। আমরাও মতভেদটাকে মতভেদ হিসেবেই রাখলাম: দুই পক্ষের কথাই রইল, কোনো রায় চাপাইনি। কারণ যে মতই ধরা হোক, তাঁর সম্মান পুরোপুরি অটুট।"
           }
         ]
       },
@@ -389,11 +389,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse hands us a picture before it hands us an event. A woman deliberately steps away from her people toward the east, and the Book lingers on the leaving itself. Whether she withdrew to purify herself, as as-Suddi held, or to worship, as al-Qurtubi preferred, the shape is the same: a turning aside from the crowd to be alone with her Lord. What the reader meets here is a settled habit of drawing apart for God, not a stray moment in a story.",
-            "bn": "আয়াত আমাদের হাতে একটা ঘটনা তুলে দেওয়ার আগে তুলে দেয় একটা ছবি। এক নারী ইচ্ছা করে তার লোকজন ছেড়ে পুব দিকে সরে যায়, আর কিতাব থেমে থাকে সেই সরে যাওয়াটার ওপরই। সে পবিত্র হতে সরেছিল, যেমন সুদ্দী ধরেন, নাকি ইবাদত করতে, যেমন কুরতুবী পছন্দ করেন, আকৃতি একই: ভিড় ছেড়ে সরে এসে রবের সঙ্গে একা হওয়া। পাঠক এখানে যা পায় তা আল্লাহর জন্য আলাদা হওয়ার এক থিতু অভ্যাস, কাহিনির কোনো এলোমেলো মুহূর্ত নয়।"
+            "bn": "আয়াত আমাদের হাতে ঘটনা তুলে দেওয়ার আগে তুলে দেয় একটা ছবি। এক নারী ইচ্ছা করে নিজের লোকজন ছেড়ে পুব দিকে সরে যান, আর কিতাব থেমে থাকে সেই সরে যাওয়াটার ওপরই। তিনি পবিত্র হতে সরেছিলেন, যেমন সুদ্দী বলেন, নাকি ইবাদত করতে, যেমন কুরতুবী পছন্দ করেন, ছবিটা একই: ভিড় ছেড়ে সরে এসে রবের সঙ্গে একা হওয়া। পাঠক এখানে কাহিনির কোনো এলোমেলো মুহূর্ত দেখেন না; দেখেন আল্লাহর জন্য আলাদা হওয়ার এক স্থির অভ্যাস।"
           },
           {
             "en": "As-Sa'di found her lasting reward in exactly this — that she is named in the Book Muslims recite across the east and the west. A life spent in quiet worship, unseen by any crowd, was written down where no hand could erase it. What is done in seclusion for Allah is not lost to the eye of the world; it is the very thing He chose to keep. The reader is left to weigh how much of his own worship could bear to go unwitnessed.",
-            "bn": "সা'দী তার চিরস্থায়ী প্রতিদান খুঁজে পান ঠিক এখানেই, যে তার নাম এসেছে সেই কিতাবে যা মুসলিমরা পুবে-পশ্চিমে তিলাওয়াত করে। নিরিবিলি ইবাদতে কাটানো এক জীবন, কোনো ভিড়ের চোখের আড়ালে থাকা, লেখা হয়ে গেছে এমন জায়গায় যেখান থেকে কোনো হাত তা মুছতে পারবে না। আল্লাহর জন্য নিরিবিলিতে যা করা হয় তা দুনিয়ার চোখে হারায় না; ওটাই বরং সেই জিনিস যা তিনি রেখে দিতে বেছে নিয়েছেন। পাঠক রয়ে যায় এই ভাবনায়, তার নিজের ইবাদতের কতটা চোখের আড়ালে টিকতে পারবে।"
+            "bn": "সা'দী তাঁর চিরস্থায়ী প্রতিদান খুঁজে পান ঠিক এখানেই: তাঁর নাম এসেছে সেই কিতাবে, যা মুসলিমরা পুবে-পশ্চিমে তিলাওয়াত করে। নিরিবিলি ইবাদতে কাটানো এক জীবন, কোনো ভিড়ের চোখে যা পড়েনি, লেখা হয়ে গেছে এমন জায়গায়, যেখান থেকে কোনো হাত তা মুছতে পারবে না। আল্লাহর জন্য নিরিবিলিতে যা করা হয়, তা দুনিয়ার চোখ থেকে হারিয়ে যায় না; বরং ঠিক সেটাই তিনি রেখে দিতে বেছে নিয়েছেন। পাঠকের জন্য রয়ে যায় একটা প্রশ্ন: নিজের ইবাদতের কতটুকু কারও চোখে না পড়েও টিকে থাকতে পারবে?"
           }
         ]
       }
@@ -409,11 +409,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qala innama ana rasulu rabbiki: he said, I am only the messenger of your Lord. The figure who had appeared to Maryam in the shape of a well-proportioned man, in 19:17, now speaks, and his answer to her plea in 19:18 is not a defence of himself but a naming of the One who sent him. As-Sa'di reads his words this way: when Jibril saw the alarm and fear in her, he said that his whole task and occupation was to carry out his Lord's message to her. The stranger begins by making himself small.",
-            "bn": "কালা ইন্নামা আনা রাসূলু রব্বিকি: সে বলল, আমি তো তোমার রবের বার্তাবাহক মাত্র। যে মূর্তি ১৯:১৭ আয়াতে মারইয়ামের সামনে পূর্ণ মানুষের আকৃতিতে দেখা দিয়েছিল, সে এবার মুখ খোলে। আর ১৯:১৮ আয়াতে তাঁর আকুতির জবাবে সে নিজেকে বাঁচানোর কথা বলে না, বরং জানিয়ে দেয় কে তাকে পাঠিয়েছে। সাদী তার কথার অর্থ এভাবে ধরেন: জিবরীল তাঁর মধ্যে ভয় ও শঙ্কা দেখে বলল, তার একমাত্র কাজ আর দায়িত্ব হলো তার রবের বার্তা তাঁর কাছে পৌঁছে দেওয়া। আগন্তুক শুরুই করে নিজেকে ছোট করে।"
+            "bn": "কালা ইন্নামা আনা রাসূলু রব্বিকি: সে বলল, আমি তো তোমার রবের বার্তাবাহক মাত্র। যে আগন্তুক ১৯:১৭ আয়াতে পূর্ণাঙ্গ মানুষের রূপে মারইয়ামের সামনে এসেছিল, সে এবার কথা বলে। ১৯:১৮ আয়াতে তাঁর আকুতির জবাবে সে নিজের পক্ষে সাফাই গায় না, বরং জানিয়ে দেয় কে তাকে পাঠিয়েছেন। সাদী তার কথার অর্থ এভাবে ধরেন: জিবরীল তাঁর মধ্যে ভয় ও শঙ্কা দেখে বলল, তার একমাত্র কাজ আর দায়িত্ব হলো তার রবের বার্তা তাঁর কাছে পৌঁছে দেওয়া। আগন্তুক শুরুই করে নিজেকে ছোট করে।"
           },
           {
             "en": "The particle innama does careful work here. It restricts: it says nothing but this. He is not what she fears, not a suitor and not a threat, but a messenger and no more. The abridged Ibn Kathir catches the sense in plain words, that the angel said to her, in order to remove the fear she felt within herself, that he was not what she thought but the messenger of her Lord, meaning Allah had sent him to her. His identity is entirely borrowed. He stands there as an errand, not as a man with wishes of his own.",
-            "bn": "ইন্নামা শব্দটি এখানে সূক্ষ্ম কাজ করে। এটি সীমা টেনে দেয়: বলে, এ ছাড়া আর কিছু নয়। সে তাঁর ভয়ের বস্তু নয়, প্রার্থীও নয়, বিপদও নয়, কেবল একজন বার্তাবাহক, এর বেশি কিছু নয়। সংক্ষেপিত ইবন কাসীর কথাটা সোজা কথায় ধরে: ফেরেশতা তাঁর ভেতরের ভয় দূর করার জন্য বলল, সে তাঁর ভাবনার সেই লোক নয়, বরং তাঁর রবের বার্তাবাহক, অর্থাৎ আল্লাহ তাকে তাঁর কাছে পাঠিয়েছেন। তার পরিচয়টুকু পুরোপুরি ধার করা। সে সেখানে দাঁড়িয়ে আছে একটা দায়িত্ব হয়ে, নিজের চাওয়া-পাওয়া রাখা মানুষ হয়ে নয়।"
+            "bn": "ইন্নামা শব্দটি এখানে সূক্ষ্ম কাজ করে। শব্দটি গণ্ডি টেনে দেয়: এ ছাড়া আর কিছু নয়। তিনি যা ভয় পাচ্ছেন, সে তা নয়; বিয়ের প্রস্তাব নিয়ে আসা কেউ নয়, বিপদও নয়। সে কেবল একজন বার্তাবাহক, এর বেশি কিছু নয়। সংক্ষেপিত ইবন কাসীর কথাটা সোজা ভাষায় ধরে: ফেরেশতা তাঁর মনের ভয় দূর করতে বলল, তিনি যা ভাবছেন সে তা নয়, বরং তাঁর রবের বার্তাবাহক, অর্থাৎ আল্লাহ তাকে তাঁর কাছে পাঠিয়েছেন। তার পরিচয়টুকু পুরোপুরি ধার করা। সে সেখানে দাঁড়িয়ে আছে একটা দায়িত্ব হয়ে, নিজের চাওয়া-পাওয়া আছে এমন মানুষ হয়ে নয়।"
           },
           {
             "en": "Read against the verse before it, the reply lands exactly where her fear was. She had not asked who he was; she had sought protection from him. He answers the fear underneath the question. He does not say trust me, or you have nothing to worry about from me as a man. He moves the ground entirely off himself and onto his Sender, so that whatever comes next will arrive as your Lord's word and not as a stranger's proposal. Everything that follows in the verse rests on this opening: he is a carrier, and the message is not his.",
@@ -440,12 +440,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Ways To Read",
-          "bn": "দুটি পাঠের পথ"
+          "bn": "দুই রকম পাঠ"
         },
         "p": [
           {
             "en": "The next words carry a famous difference among the reciters, and the commentators lay it out rather than hide it. At-Tabari reports that the general body of reciters of the Hijaz and Iraq, apart from Abu Amr, read li-ahaba laki, that I may give you, taken as the messenger relating his errand. Abu Amr ibn al-Ala read li-yahaba laki, that He may give you, meaning your Lord will give you the boy. Ibn Kathir names the same pair, that Abu Amr read li-yahaba and the others li-ahaba, and adds that both readings have a sound sense and each entails the other.",
-            "bn": "পরের শব্দগুলোয় কারীদের মধ্যে একটি প্রসিদ্ধ পার্থক্য আছে, আর তাফসীরকারেরা তা লুকান না, খুলে বলেন। তাবারী জানান, আবু আমর ছাড়া হিজায ও ইরাকের সাধারণ কারীগণ পড়েছেন লিআহাবা লাকি, অর্থাৎ আমি তোমাকে দিই, যেখানে বার্তাবাহক নিজের দায়িত্বের বর্ণনা দিচ্ছেন। আবু আমর ইবনুল আলা পড়েছেন লিয়াহাবা লাকি, অর্থাৎ তিনি তোমাকে দেবেন, মানে তোমার রব তোমাকে ছেলেটি দেবেন। কাসীর একই জোড়াটির নাম করেন, আবু আমর পড়েছেন লিয়াহাবা আর অন্যরা লিআহাবা, এবং যোগ করেন যে দুটি পাঠেরই অর্থ সহীহ আর একটি অন্যটিকে টেনে আনে।"
+            "bn": "পরের শব্দগুলোয় কারীদের মধ্যে একটি প্রসিদ্ধ পার্থক্য আছে, আর তাফসীরকারেরা তা লুকান না, খুলে বলেন। তাবারী জানান, আবু আমর ছাড়া হিজায ও ইরাকের অধিকাংশ কারী পড়েছেন লিআহাবা লাকি, অর্থাৎ যাতে আমি তোমাকে দিই; এখানে বার্তাবাহক নিজের দায়িত্বের কথা বলছেন। আবু আমর ইবনুল আলা পড়েছেন লিয়াহাবা লাকি, অর্থাৎ যাতে তিনি তোমাকে দেন, মানে তোমার রব তোমাকে ছেলেটি দেবেন। ইবন কাসীরও এই দুটি পাঠের কথা বলেন: আবু আমর পড়েছেন লিয়াহাবা, অন্যরা লিআহাবা। তিনি যোগ করেন, দুটি পাঠের অর্থই সঠিক, আর একটির মধ্যে অন্যটি এসে যায়।"
           },
           {
             "en": "Al-Baghawi records the same split and puts the two meanings side by side. Nafi and the people of Basra read li-yahaba, that your Lord may give you; the others read li-ahaba, ascribing the verb to the messenger. Al-Qurtubi adds that Warsh, transmitting from Nafi, read li-yahaba on the meaning Allah has sent me that He may give you. So the disagreement is real and it is textual: does the verb sit in the mouth of the angel who conveys, or does it name the Lord who bestows? Both are read, both are carried in the tradition, and neither reader is faulted by these commentators.",
@@ -453,7 +453,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari, having laid out both, states his own preference without unseating the other. He judges the correct reading to be the one the reciters of the great cities hold, li-ahaba with the alif rather than the ya, and his reason is textual: this is how it stands in the copies of the Qur'an the Muslims hold, and it is the reading of their old and their recent reciters apart from Abu Amr; he adds that it is not right to differ with what they agreed upon. This is a preference argued from the written tradition, not a charge that the other reading is wrong.",
-            "bn": "তাবারী দুটোই তুলে ধরে এরপর অন্যটিকে না সরিয়েই নিজের পছন্দ জানান। তিনি সঠিক পাঠ ধরেন সেটিকে, যা বড় শহরগুলোর কারীগণ ধরে রাখেন, ইয়া নয় বরং আলিফ দিয়ে লিআহাবা। তাঁর কারণটি পাঠভিত্তিক: মুসলিমদের হাতে থাকা কুরআনের কপিগুলোয় এভাবেই আছে, আর আবু আমর ছাড়া তাদের পুরনো ও নতুন কারীদের এটিই পাঠ। তিনি যোগ করেন, তারা যে বিষয়ে একমত হয়েছেন তার বিরোধিতা করা ঠিক নয়। এটি লিখিত ঐতিহ্য থেকে যুক্তি দিয়ে দেওয়া একটি পছন্দ, অন্য পাঠকে ভুল বলার অভিযোগ নয়।"
+            "bn": "দুটো পাঠই তুলে ধরার পর তাবারী নিজের পছন্দ জানান, তবে অন্যটিকে বাতিল না করে। তিনি সঠিক পাঠ ধরেন সেটিকে, যা বড় শহরগুলোর কারীরা পড়েন: ইয়া নয়, আলিফ দিয়ে লিআহাবা। তাঁর কারণটি লিখিত পাঠের: মুসলিমদের হাতে থাকা মুসহাফগুলোয় এভাবেই লেখা, আর আবু আমর ছাড়া আগের ও পরের সব কারীর পাঠ এটাই। তিনি যোগ করেন, তাঁরা যে বিষয়ে একমত হয়েছেন, তার বিরোধিতা করা ঠিক নয়। এ পছন্দের যুক্তি লিখিত পরম্পরা থেকে; অন্য পাঠকে তিনি ভুল বলছেন না।"
           }
         ]
       },
@@ -469,7 +469,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an explains the mechanism behind the ascription. Jibril attributed the gift of the child to himself because Allah had sent him to breathe into her collar, and this breath would be the means of her conceiving, whereas in reality this gift was by the act of Allah. So even the angel's part is instrumental, a means placed in his keeping and then withdrawn once it has served. The verb that seems to seat the giving in his hand is, on inspection, only pointing back up the chain to its source. The messenger conveys a decree; he does not author it.",
-            "bn": "মাআরিফুল কুরআন এই সম্বন্ধ ফেরানোর পেছনের কার্যপ্রণালি খুলে বলে। জিবরীল সন্তানের দান নিজের দিকে ফিরিয়েছিল কারণ আল্লাহ তাকে পাঠিয়েছিলেন তাঁর জামার ভেতর ফুঁক দিতে, আর এই ফুঁকই হতো তাঁর গর্ভধারণের মাধ্যম, অথচ প্রকৃতপক্ষে এই দান ছিল আল্লাহরই কাজ। তাই ফেরেশতার ভূমিকাটুকুও একটা উপলক্ষ মাত্র, তার হাতে রাখা একটি মাধ্যম, যা কাজ সেরে ফেলার পর তুলে নেওয়া হয়। যে ক্রিয়া দানটাকে তার হাতে বসিয়ে দেয় বলে মনে হয়, তা আসলে শিকল বেয়ে উপরের দিকে উৎসের দিকেই ইশারা করছে। বার্তাবাহক একটি সিদ্ধান্ত পৌঁছে দেয়; সে তা রচনা করে না।"
+            "bn": "জিবরীল কেন দানটা নিজের দিকে ফিরিয়েছিল, মাআরিফুল কুরআন তা খুলে বলে। আল্লাহ তাকে পাঠিয়েছিলেন মারইয়ামের জামার গলায় ফুঁ দিতে, আর এই ফুঁ-ই হতো তাঁর গর্ভধারণের মাধ্যম; অথচ আসলে এই দান ছিল আল্লাহরই কাজ। তাই ফেরেশতার ভূমিকাটুকুও একটা উপলক্ষ মাত্র, তার হাতে রাখা একটি মাধ্যম, যা কাজ শেষ হলে তুলে নেওয়া হয়। যে ক্রিয়া দেখে মনে হয় দানটা তার হাতে, তা আসলে ধাপে ধাপে ওপরের দিকে, আসল উৎসের দিকেই ইশারা করছে। বার্তাবাহক একটি ফয়সালা পৌঁছে দেয়; সে নিজে তা করে না।"
           }
         ]
       },
@@ -485,23 +485,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di reads the word as a great glad tiding, both of the boy and of his purity, and unfolds what zakaa carries: it requires his being cleansed of blameworthy traits and marked instead by praiseworthy ones. Purity here is not merely the absence of stain but the presence of good grown in its place. The same surah has already used this note. A few verses earlier, in 19:13, Yahya is given with purity from his Lord, so the reader meets a second child described by the same quality, each one made pure not by himself but by the gift that brought him.",
-            "bn": "সাদী শব্দটিকে পড়েন এক মহা সুসংবাদ হিসেবে, ছেলেটির আর তার পবিত্রতা দুটোরই। আর যাকা শব্দ কী বহন করে তা খুলে বলেন: এর জন্য দরকার তার নিন্দনীয় স্বভাব থেকে পরিচ্ছন্ন হওয়া, বদলে প্রশংসনীয় গুণে চিহ্নিত হওয়া। এখানে পবিত্রতা কেবল দাগের অনুপস্থিতি নয়, তার জায়গায় গজিয়ে ওঠা ভালোর উপস্থিতিও। এই সুরা আগেই এই সুরটি ব্যবহার করেছে। কয়েক আয়াত আগে ১৯:১৩ আয়াতে ইয়াহইয়াকে তাঁর রবের পক্ষ থেকে পবিত্রতাসহ দেওয়া হয়, তাই পাঠক একই গুণে বর্ণিত আরেকটি সন্তানের দেখা পান, যাদের প্রত্যেককে পবিত্র করেছে নিজে নয়, বরং যে দান তাকে এনেছে সেটাই।"
+            "bn": "সাদী শব্দটিকে পড়েন এক মহা সুসংবাদ হিসেবে, ছেলেটির জন্মের আর তার পবিত্রতার, দুটোরই। আর যাকা শব্দে কী আছে তা খুলে বলেন: নিন্দনীয় স্বভাব থেকে তাকে পরিচ্ছন্ন হতে হবে, আর তার জায়গায় থাকবে প্রশংসনীয় গুণ। এখানে পবিত্রতা মানে কেবল দাগ না থাকা নয়, দাগের জায়গায় ভালো কিছু গজিয়ে ওঠাও। এই সূরায় কথাটা আগেও এসেছে। কয়েক আয়াত আগে, ১৯:১৩-এ, ইয়াহইয়াকে দেওয়া হয়েছে তাঁর রবের পক্ষ থেকে পবিত্রতাসহ। ফলে পাঠক একই গুণে বর্ণিত দ্বিতীয় এক সন্তানের দেখা পান। দুজনের কেউই নিজে নিজে পবিত্র হননি; পবিত্র করেছে সেই দান, যা তাঁদের এনেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Given, Never Begotten",
-          "bn": "দান, জন্ম দেওয়া নয়"
+          "bn": "দান, কারও ঔরসজাত নয়"
         },
         "p": [
           {
             "en": "It is worth pausing on the plain shape of the sentence, because the surah will spend much of its length on exactly this. A boy is being given. The abridged Ibn Kathir frames the whole passage as Allah granting Maryam a child without a father involved, and names this child His servant and His Messenger. A gift has a Giver and a recipient, and the two are never the same. The One who bestows the boy stands on one side of the verse, and the boy who is bestowed stands on the other. The grammar itself keeps the Lord and the servant apart.",
-            "bn": "বাক্যটির সহজ গড়নটার ওপর একটু থামা দরকার, কারণ সুরাটি নিজের অনেকটা দৈর্ঘ্য ঠিক এই কথাটার ওপরই খরচ করবে। একটি ছেলে দেওয়া হচ্ছে। সংক্ষেপিত ইবন কাসীর গোটা অংশটাকে ধরে এভাবে যে আল্লাহ মারইয়ামকে পিতা ছাড়াই এক সন্তান দান করছেন, আর এই সন্তানকে বলেন তাঁর বান্দা ও তাঁর রাসূল। দানের একজন দাতা থাকে আর একজন গ্রহীতা থাকে, আর দুজন কখনো এক নয়। যিনি ছেলেটিকে দেন তিনি আয়াতের এক দিকে দাঁড়ানো, আর যে ছেলেটি দেওয়া হয় সে দাঁড়ানো অন্য দিকে। ব্যাকরণ নিজেই রব আর বান্দাকে আলাদা করে রাখে।"
+            "bn": "বাক্যটার সরল গড়নে একটু থামা দরকার, কারণ সূরার বড় একটা অংশ ঠিক এই কথাটাকে ঘিরেই। একটি ছেলে দেওয়া হচ্ছে। সংক্ষেপিত ইবন কাসীর গোটা অংশটাকে দেখে এভাবে: আল্লাহ মারইয়ামকে পিতা ছাড়াই এক সন্তান দান করছেন; আর এই সন্তানকে বলেন তাঁর বান্দা ও তাঁর রাসূল। দানের একজন দাতা থাকেন, একজন গ্রহীতা থাকে, আর দুজন কখনো এক নয়। যিনি ছেলেটিকে দেন, তিনি আয়াতের এক পাশে; যে ছেলেটিকে দেওয়া হয়, সে অন্য পাশে। ব্যাকরণ নিজেই রব আর বান্দাকে আলাদা করে রাখে।"
           },
           {
             "en": "This is why the announcement of a pure boy is quietly the surah's answer to a claim it names later, that Allah has taken a son. A son who must be given, whose purity must be granted, whose coming a messenger must announce, is by that very description a creature and not a Creator. The point can be made without heat. The verse does not argue; it simply describes a gift, and a gift received is the plainest proof that the one who receives it does not own all things. Isa is honoured here as servant and prophet, and honoured most by being placed exactly there.",
-            "bn": "এ কারণেই এক পুত-পবিত্র পুত্রের ঘোষণা চুপচাপ হয়ে ওঠে সুরাটির সেই দাবির জবাব, যে দাবির নাম সে পরে করবে, যে আল্লাহ সন্তান গ্রহণ করেছেন। যে সন্তানকে দিতে হয়, যার পবিত্রতা দান করতে হয়, যার আগমন এক বার্তাবাহককে ঘোষণা করতে হয়, সে এই বর্ণনা দিয়েই সৃষ্টি, স্রষ্টা নয়। কথাটা উত্তেজনা ছাড়াই বলা যায়। আয়াত তর্ক করে না, সে কেবল একটি দানের বর্ণনা দেয়, আর গ্রহণ করা দানই সবচেয়ে সরল প্রমাণ যে গ্রহীতা সবকিছুর মালিক নন। ঈসা (আঃ) এখানে বান্দা ও নবী হিসেবে সম্মানিত, আর সবচেয়ে বড় সম্মান তাঁকে ঠিক সেখানেই বসিয়ে রাখা।"
+            "bn": "এ জন্যই পুত-পবিত্র এক ছেলের ঘোষণা নিঃশব্দে জবাব দিয়ে রাখে এমন এক দাবির, যার কথা সূরা পরে তুলবে: আল্লাহ সন্তান গ্রহণ করেছেন। যে সন্তানকে দিতে হয়, যার পবিত্রতা দান করতে হয়, যার আসার খবর একজন বার্তাবাহককে দিতে হয়, এই বর্ণনা থেকেই বোঝা যায় তিনি সৃষ্টি, স্রষ্টা নন। কথাটা উত্তেজনা ছাড়াই বলা যায়। আয়াত তর্ক করে না, শুধু একটি দানের বর্ণনা দেয়। আর যে দান গ্রহণ করে, সে যে সবকিছুর মালিক নয়, তার সবচেয়ে সরল প্রমাণ ওই দান গ্রহণ করাই। ঈসা (আঃ) এখানে সম্মানিত বান্দা ও নবী হিসেবে, আর তাঁর সবচেয়ে বড় সম্মান ঠিক সেই জায়গাতেই থাকা।"
           }
         ]
       },
@@ -513,7 +513,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Honesty about the sources means saying what is not there. None of the tafsir works consulted for this verse attaches a sound, verse-specific hadith to the words I am only the messenger of your Lord. The commentary here is philology and creed, the reading of the verb and the meaning of purity, not a chain of narration tied to the ayah. That is a normal and acceptable outcome. Where no sound report is fixed to a verse, the honest course is to leave the slot empty rather than fill it with something that was never transmitted about these words.",
-            "bn": "সূত্রের ব্যাপারে সততা মানে যা নেই সেটাও বলা। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই 'আমি তো তোমার রবের বার্তাবাহক মাত্র' কথাটির সঙ্গে সহীহ, আয়াত-নির্দিষ্ট কোনো হাদিস জুড়ে দেয় না। এখানকার আলোচনা ভাষাতত্ত্ব ও আকীদা, ক্রিয়ার পাঠ আর পবিত্রতার অর্থ, আয়াতের সঙ্গে বাঁধা কোনো বর্ণনাসূত্র নয়। এটি স্বাভাবিক ও গ্রহণযোগ্য একটি ফল। যেখানে কোনো সহীহ বর্ণনা আয়াতের সঙ্গে বাঁধা নেই, সেখানে সৎ পথ হলো এই কথাগুলো নিয়ে যা কখনো বর্ণিত হয়নি তা দিয়ে জায়গা ভরাটের বদলে জায়গাটা খালি রাখা।"
+            "bn": "সূত্রের ব্যাপারে সততা মানে যা নেই, সেটাও বলা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই 'আমি তো তোমার রবের বার্তাবাহক মাত্র' কথাটির সঙ্গে আয়াত-নির্দিষ্ট কোনো সহীহ হাদিস জুড়ে দেয় না। এখানকার আলোচনা ভাষা আর আকীদার: ক্রিয়াটি কীভাবে পড়া হয়, পবিত্রতার অর্থ কী। আয়াতের সঙ্গে বাঁধা কোনো বর্ণনাসূত্র নয়। এমনটা হওয়া স্বাভাবিক, এতে দোষের কিছু নেই। যে আয়াতের সঙ্গে কোনো সহীহ বর্ণনা বাঁধা নেই, সেখানে সততার দাবি হলো জায়গাটা খালি রাখা; এই কথাগুলো নিয়ে যা কখনো বর্ণিতই হয়নি, তা দিয়ে ফাঁক ভরানো নয়।"
           },
           {
             "en": "One sound narration is worth naming only as a distant echo, and it must be marked as such: it is not a comment on this verse. Sahih al-Bukhari records that among those whom Allah will shade on the Day when there is no shade but His is a youth who grew up in the worship of his Lord. Al-Bukhari graded it sound. It speaks to the theme of a boy given in purity and raised toward his Lord, and no further; it was transmitted about the shade of the Judgement, not about Maryam or Jibril, and it is offered here as resonance, not as tafsir.",
@@ -524,16 +524,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Carrying What Is Lent",
-          "bn": "ধার পাওয়া বোঝা বওয়া"
+          "bn": "ধার পাওয়া আমানত বয়ে নেওয়া"
         },
         "p": [
           {
             "en": "Step back from the philology and the verse leaves the reader with a picture of a perfect servant at work. The messenger arrives, calms a frightened woman, and delivers news that will change her life, and in the whole exchange he claims nothing. He does not linger over his own dignity or the wonder of what he carries. He says who sent him, he names the gift as the Lord's, and he is gone. Whatever the reciter's tongue does with the verb, the messenger's posture is fixed: he holds the good and hands it on.",
-            "bn": "ভাষাতত্ত্ব থেকে একটু পিছিয়ে দাঁড়ালে আয়াত পাঠকের সামনে রেখে যায় কাজে লাগা এক নিখুঁত বান্দার ছবি। বার্তাবাহক আসে, ভয় পাওয়া এক নারীকে শান্ত করে, আর এমন খবর পৌঁছে দেয় যা তাঁর জীবন বদলে দেবে, অথচ গোটা আদান-প্রদানে সে কিছুই দাবি করে না। সে নিজের মর্যাদা কিংবা যা বইছে তার বিস্ময় নিয়ে থেমে থাকে না। সে জানায় কে তাকে পাঠিয়েছে, দানটাকে রবের বলে নাম করে, তারপর চলে যায়। কারীর জিহ্বা ক্রিয়া নিয়ে যা-ই করুক, বার্তাবাহকের ভঙ্গি অটল: সে ভালোটা ধরে রাখে আর পৌঁছে দেয়।"
+            "bn": "ভাষার আলোচনা থেকে একটু সরে দাঁড়ালে আয়াত পাঠকের সামনে রেখে যায় দায়িত্ব পালনরত এক নিখুঁত বান্দার ছবি। বার্তাবাহক আসে, ভয় পাওয়া এক নারীকে শান্ত করে, আর এমন খবর দেয় যা তাঁর জীবন বদলে দেবে; অথচ পুরো কথোপকথনে সে নিজের জন্য কিছুই দাবি করে না। নিজের মর্যাদা কিংবা যা বয়ে এনেছে তার বিস্ময় নিয়ে সে দাঁড়িয়ে থাকে না। সে জানায় কে তাকে পাঠিয়েছেন, দানটাকে রবের বলে জানায়, তারপর চলে যায়। ক্রিয়াটি যে পাঠেই পড়া হোক, বার্তাবাহকের ভঙ্গি একই: ভালো জিনিসটা সে হাতে নেয়, আর পৌঁছে দেয়।"
           },
           {
             "en": "There is a whole way of living folded into that posture. Almost everything good in a person's hands is lent, not owned: health, a skill, wealth, a word of comfort someone needs to hear, even the faith that lets them speak of their Lord at all. To carry these as this messenger carried his news, saying plainly whose they are and passing them on without pocketing the credit, is to imitate the manners of an angel. The reader who learns to say I am only a carrier has learned the humility the verse was quietly teaching all along.",
-            "bn": "এই ভঙ্গির ভেতর ভাঁজ করা আছে বেঁচে থাকার একটা গোটা ধরন। মানুষের হাতে থাকা ভালো জিনিসের প্রায় সবই ধার পাওয়া, নিজের নয়: স্বাস্থ্য, দক্ষতা, সম্পদ, কারও দরকারি একটি সান্ত্বনার কথা, এমনকি যে ঈমান তাকে রবের কথা বলার সুযোগ দেয় সেটাও। এই বার্তাবাহক যেভাবে তার খবর বয়েছে, সেভাবে এগুলো বওয়া, সোজা করে বলা এগুলো কার আর কৃতিত্ব পকেটে না পুরে পৌঁছে দেওয়া, এ যেন ফেরেশতার আদব নকল করা। যে পাঠক 'আমি তো কেবল একজন বাহক' বলতে শেখে, সে সেই বিনয়টাই শিখল যা আয়াত এতক্ষণ চুপচাপ শেখাচ্ছিল।"
+            "bn": "এই ভঙ্গির ভেতরেই লুকিয়ে আছে জীবন যাপনের পুরো একটা পথ। মানুষের হাতে থাকা ভালো জিনিসের প্রায় সবই ধার পাওয়া, নিজের নয়: স্বাস্থ্য, দক্ষতা, সম্পদ, কারও শোনার দরকার এমন একটা সান্ত্বনার কথা, এমনকি সেই ঈমান, যার জোরে সে রবের কথা মুখে আনতে পারে। এই বার্তাবাহক যেভাবে খবর বয়ে এনেছিল, সেভাবে এগুলো বয়ে নেওয়া, সোজা বলে দেওয়া এগুলো কার, আর কৃতিত্ব নিজের পকেটে না ভরে পৌঁছে দেওয়া, এ হলো ফেরেশতার আদব অনুসরণ করা। যে পাঠক বলতে শেখে 'আমি তো কেবল একজন বাহক', সে সেই বিনয়ই শিখে নিল, যা আয়াত এতক্ষণ চুপচাপ শেখাচ্ছিল।"
           }
         ]
       }
@@ -544,12 +544,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Palm She Was Sent To",
-          "bn": "যে গাছের কাছে পাঠানো"
+          "bn": "যে খেজুর গাছের কাছে পাঠানো হলো"
         },
         "p": [
           {
             "en": "The pains of childbirth had driven Maryam (AS) to the trunk of a palm tree, and she had cried out that she wished she had died before this day and been wholly forgotten (19:23). A voice then called to her from below, telling her not to grieve and pointing to a stream her Lord had placed beneath her (19:24). The commentators dispute whether that voice was the angel or the newborn ʿIsa (AS), and this reflection does not try to settle it. What matters here is what comes next: a command about the palm.",
-            "bn": "প্রসবের ব্যথা মারইয়াম (আঃ)-কে টেনে নিয়ে গিয়েছিল এক খেজুর গাছের কান্ডের দিকে। তিনি আর্তনাদ করে উঠেছিলেন, হায় এই দিনের আগেই যদি মরে যেতাম, মানুষের স্মৃতি থেকে একেবারে মুছে যেতাম (১৯:২৩)। তখন নিচের দিক থেকে এক ডাক এল, দুঃখ কোরো না, তোমার রব তোমার পায়ের নিচে এক নির্ঝর বইয়ে দিয়েছেন (১৯:২৪)। সেই ডাক ফেরেশতার ছিল নাকি সদ্যজাত ঈসা (আঃ)-এর, তা নিয়ে তাফসীরকারদের মতভেদ আছে, আর এই আলোচনা তা মীমাংসা করতে যায় না। এখানে জরুরি হলো এর পরে যা আসে, খেজুর গাছ নিয়ে এক আদেশ।"
+            "bn": "প্রসবের ব্যথা মারইয়াম (আঃ)-কে টেনে নিয়ে গিয়েছিল এক খেজুর গাছের কাণ্ডের কাছে। তিনি আর্তনাদ করে উঠেছিলেন, হায়, এই দিনের আগেই যদি মরে যেতাম, মানুষের মন থেকে একেবারে মুছে যেতাম (১৯:২৩)। তখন নিচের দিক থেকে এক ডাক এল: দুঃখ কোরো না, তোমার রব তোমার পায়ের নিচে একটি ঝরনা বইয়ে দিয়েছেন (১৯:২৪)। সেই ডাক ফেরেশতার ছিল নাকি সদ্যজাত ঈসা (আঃ)-এর, তা নিয়ে তাফসীরকারদের মতভেদ আছে; এই আলোচনা তা মীমাংসা করতে যায় না। এখানে দেখার বিষয় এর পরের কথা: খেজুর গাছ নিয়ে একটি আদেশ।"
           },
           {
             "en": "The order is startling in its plainness. 'And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates' (19:25). At-Tabari and al-Baghawi read the verb huzzi as simply 'move it, shake it.' Ibn Zayd glossed it that way, and al-Baghawi notes that the Arabs say hazzahu and hazza bihi, shook it, with or without the connecting particle. A woman at the very end of her strength is told not to wait for rescue but to take hold of a tree and pull it toward herself.",
