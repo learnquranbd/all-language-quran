@@ -48,12 +48,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Worn Out in the Night",
-          "bn": "রাতের নামাযে নিঃশেষ"
+          "bn": "রাতের নামাজে নিঃশেষ"
         },
         "p": [
           {
             "en": "Several of the earliest commentators read the verse against the long night prayers of the first Muslims. Mujahid, reported by both at-Tabari and Ibn Kathir, links litashqa to another verse, So recite of it what is easy (73:20), and explains: the people used to hang ropes at their chests in the prayer. They stood so long that they tied cords to hold themselves up when their legs began to give way. On this reading the Qur'an is telling the Prophet ﷺ that it never demanded such punishing exertion of him.",
-            "bn": "প্রথম যুগের কয়েকজন তাফসীরকার আয়াতটাকে পড়েন প্রথম মুসলিমদের দীর্ঘ রাতের নামাযের পটভূমিতে। মুজাহিদের বক্তব্য তাবারী আর ইবন কাসীর দুজনেই আনেন। তিনি লিতাশকাকে জুড়ে দেন আরেক আয়াতের সঙ্গে, কুরআন থেকে যতটুকু সহজ ততটুকু পড় (৭৩:২০)। আর ব্যাখ্যা করেন: লোকেরা নামাযে বুকের কাছে দড়ি ঝুলিয়ে রাখত। তারা এত দীর্ঘ সময় দাঁড়িয়ে থাকত যে পা যখন আর টানত না, নিজেকে ধরে রাখতে দড়ি বেঁধে নিত। এই পাঠে কুরআন যেন নবী ﷺ-কে বলছে, এমন কষ্টকর খাটুনি তাঁর কাছে কখনো দাবি করা হয়নি।"
+            "bn": "প্রথম যুগের কয়েকজন তাফসীরকার আয়াতটাকে পড়েন প্রথম মুসলিমদের দীর্ঘ রাতের নামাজের পটভূমিতে। মুজাহিদের বক্তব্য তাবারী আর ইবন কাসীর দুজনেই আনেন। তিনি লিতাশকাকে জুড়ে দেন আরেক আয়াতের সঙ্গে, কুরআন থেকে যতটুকু সহজ ততটুকু পড় (৭৩:২০)। আর ব্যাখ্যা করেন: লোকেরা নামাজে বুকের কাছে দড়ি ঝুলিয়ে রাখত। তারা এত দীর্ঘ সময় দাঁড়িয়ে থাকত যে পা যখন আর টানত না, নিজেকে ধরে রাখতে দড়ি বেঁধে নিত। এই পাঠে কুরআন যেন নবী ﷺ-কে বলছে, এমন কষ্টকর খাটুনি তাঁর কাছে কখনো দাবি করা হয়নি।"
           },
           {
             "en": "Ma'arif al-Qur'an fills in the picture. In the early days of Islam, it says, the Prophet ﷺ and his Companions would spend whole nights in prayer and in reciting the Qur'an, until his feet swelled from standing for such long hours, while by day he wore himself thin with worry over how to bring the light to those who refused it. The verse, it explains, came to lessen that burden: he was not required to stay awake reciting the whole night through. Afterwards, it notes, he took to resting early in the night and rising later for the tahajjud prayer.",
@@ -93,11 +93,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di widens this from the Qur'an to the whole religion. The point of the revelation and the law, he writes, was never that you should suffer by it, nor that the Sacred Law should hold a duty that crushes those bound to it and exceeds the strength of those who act. Rather the Most Merciful laid down a path that carries a person to happiness and success, and He made it easy in the extreme, smoothing every road and door of it. He made it, as-Sa'di says, food for the hearts and the souls, and a rest for the bodies.",
-            "bn": "সাদী এটাকে কুরআন থেকে বাড়িয়ে গোটা দ্বীন পর্যন্ত নিয়ে যান। তিনি লেখেন, ওহি আর শরিয়ত নাযিলের উদ্দেশ্য কখনো এটা ছিল না যে তুমি তা দিয়ে কষ্ট পাবে, কিংবা শরিয়তে এমন কোনো দায়িত্ব থাকবে যা মেনে চলা মানুষকে গুঁড়িয়ে দেয় আর আমলকারীর শক্তির বাইরে চলে যায়। বরং পরম দয়াময় এমন পথ বিছিয়ে দিয়েছেন যা মানুষকে সুখ আর সফলতার দিকে পৌঁছায়। আর তিনি একে করেছেন চরম সহজ, তার প্রতিটি পথ আর দরজা মসৃণ করে দিয়েছেন। সাদী বলেন, তিনি একে বানিয়েছেন অন্তর আর আত্মার খোরাক, আর শরীরের জন্য প্রশান্তি।"
+            "bn": "সাদী এটাকে কুরআন থেকে বাড়িয়ে গোটা দ্বীন পর্যন্ত নিয়ে যান। তিনি লেখেন, ওহি আর শরিয়ত নাজিলের উদ্দেশ্য কখনো এটা ছিল না যে তুমি তা দিয়ে কষ্ট পাবে, কিংবা শরিয়তে এমন কোনো দায়িত্ব থাকবে যা মেনে চলা মানুষকে গুঁড়িয়ে দেয় আর আমলকারীর শক্তির বাইরে চলে যায়। বরং পরম দয়াময় এমন পথ বিছিয়ে দিয়েছেন যা মানুষকে সুখ আর সফলতার দিকে পৌঁছায়। আর তিনি একে করেছেন চরম সহজ, তার প্রতিটি পথ আর দরজা মসৃণ করে দিয়েছেন। সাদী বলেন, তিনি একে বানিয়েছেন অন্তর আর আত্মার খোরাক, আর শরীরের জন্য প্রশান্তি।"
           },
           {
             "en": "Al-Muyassar states the verse's denial in a single clean line: We did not send the Qur'an down to you, O Messenger, to distress you with deeds beyond your power. That last phrase matters. The burden the verse rules out is precisely the burden a person cannot bear. And so, as-Sa'di adds, sound natures and upright minds meet this revelation with acceptance and surrender, because they recognise the good it holds for this life and the next. What truly comes from mercy does not feel, to a healthy heart, like a chain.",
-            "bn": "মুয়াসসার আয়াতের অস্বীকারটা এক পরিষ্কার লাইনে বলে: হে রাসূল, তোমার সাধ্যের বাইরের আমল দিয়ে তোমাকে ক্লেশ দিতে আমি তোমার প্রতি কুরআন নাযিল করিনি। শেষের কথাটা জরুরি। আয়াত যে বোঝা বাতিল করে, তা ঠিক সেই বোঝা যা মানুষ বইতে পারে না। আর তাই, সাদী যোগ করেন, সুস্থ স্বভাব আর সরল বিবেক এই ওহিকে গ্রহণ আর আত্মসমর্পণ দিয়ে বরণ করে, কারণ তারা চিনে নেয় এতে দুনিয়া আর আখিরাতের কী কল্যাণ আছে। যা সত্যিই রহমত থেকে আসে, সুস্থ অন্তরের কাছে তা শেকল মনে হয় না।"
+            "bn": "মুয়াসসার আয়াতের অস্বীকারটা এক পরিষ্কার লাইনে বলে: হে রাসূল, তোমার সাধ্যের বাইরের আমল দিয়ে তোমাকে ক্লেশ দিতে আমি তোমার প্রতি কুরআন নাজিল করিনি। শেষের কথাটা জরুরি। আয়াত যে বোঝা বাতিল করে, তা ঠিক সেই বোঝা যা মানুষ বইতে পারে না। আর তাই, সাদী যোগ করেন, সুস্থ স্বভাব আর সরল বিবেক এই ওহিকে গ্রহণ আর আত্মসমর্পণ দিয়ে বরণ করে, কারণ তারা চিনে নেয় এতে দুনিয়া আর আখিরাতের কী কল্যাণ আছে। যা সত্যিই রহমত থেকে আসে, সুস্থ অন্তরের কাছে তা শেকল মনে হয় না।"
           }
         ]
       },
@@ -109,7 +109,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A group of the commentators attach the verse to something the Prophet's opponents said. Ibn Kathir relates, through Juwaybir from ad-Dahhak, that when Allah sent the Qur'an down and the Prophet ﷺ and his Companions held fast to it, the idolaters of Quraysh said, This Qur'an was only sent down to Muhammad to make him wretched, and the verse came in reply. Al-Baghawi carries a like report: seeing his exertion in worship, they said the Qur'an was revealed only for his misery. Al-Qurtubi names Abu Jahl and an-Nadr ibn al-Harith saying, You are wretched, because you abandoned the religion of your fathers.",
-            "bn": "একদল তাফসীরকার আয়াতটাকে জুড়ে দেন নবীর বিরোধীদের বলা একটা কথার সঙ্গে। ইবন কাসীর জুওয়াইবির থেকে দাহহাকের সূত্রে আনেন যে, আল্লাহ যখন কুরআন নাযিল করলেন আর নবী ﷺ ও তাঁর সাহাবীরা তা আঁকড়ে ধরলেন, তখন কুরাইশের মুশরিকরা বলল, এই কুরআন তো মুহাম্মাদের উপর কেবল তাকে দুর্দশাগ্রস্ত করতেই নাযিল হয়েছে। এর জবাবেই আয়াত আসে। বাগাভী একই রকম বর্ণনা আনেন: তাঁর ইবাদতের কঠোরতা দেখে তারা বলত, কুরআন কেবল তাঁর দুর্দশার জন্য নাযিল হয়েছে। কুরতুবী নাম নেন আবু জাহল আর নাদর ইবনুল হারিসের, যারা বলত, তুমি দুর্ভাগা, কারণ তুমি তোমার বাপ-দাদার ধর্ম ছেড়ে দিয়েছ।"
+            "bn": "একদল তাফসীরকার আয়াতটাকে জুড়ে দেন নবীর বিরোধীদের বলা একটা কথার সঙ্গে। ইবন কাসীর জুওয়াইবির থেকে দাহহাকের সূত্রে আনেন যে, আল্লাহ যখন কুরআন নাজিল করলেন আর নবী ﷺ ও তাঁর সাহাবীরা তা আঁকড়ে ধরলেন, তখন কুরাইশের মুশরিকরা বলল, এই কুরআন তো মুহাম্মাদের উপর কেবল তাকে দুর্দশাগ্রস্ত করতেই নাজিল হয়েছে। এর জবাবেই আয়াত আসে। বাগাভী একই রকম বর্ণনা আনেন: তাঁর ইবাদতের কঠোরতা দেখে তারা বলত, কুরআন কেবল তাঁর দুর্দশার জন্য নাজিল হয়েছে। কুরতুবী নাম নেন আবু জাহল আর নাদর ইবনুল হারিসের, যারা বলত, তুমি দুর্ভাগা, কারণ তুমি তোমার বাপ-দাদার ধর্ম ছেড়ে দিয়েছ।"
           },
           {
             "en": "These reports are worth handling with care. Ibn Kathir's comes through ad-Dahhak, a successor and not a Companion, so it is not traced to an eyewitness and no chain-grading is offered for it; al-Baghawi introduces his with it is said and al-Qurtubi his with it is narrated, neither with a supporting chain. They are not established occasions of revelation but glosses the commentators pass on. Still, they share the one point the verse itself makes: the opponents called the faith a wretchedness, and al-Qurtubi answers that this Qur'an is the ladder to every success, while the very state those opponents were in was the true misery.",
@@ -125,11 +125,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It would be easy to misread all this as a licence for ease alone, but the same reports forbid that. The Prophet ﷺ who is told not to wear himself out is the very man who stood until his feet swelled, and Jibril's word to him was spare yourself, not stop. As-Sa'di calls the religion easy and smoothed in the extreme, yet he calls it food and striving too, never idleness. Mujahid's image is of people who prayed so long they needed ropes to stand; the verse eases the excess, it does not empty the prayer.",
-            "bn": "এসব থেকে কেবল আরাম-আয়েশের অনুমতি টেনে নেওয়া সহজ হত, কিন্তু এই বর্ণনাগুলোই তা নিষেধ করে। যে নবী ﷺ-কে বলা হচ্ছে নিজেকে ক্লান্ত না করতে, তিনিই তো পা ফুলে যাওয়া পর্যন্ত দাঁড়িয়ে থাকতেন, আর জিবরীলের কথা ছিল নিজের উপর দয়া করো, থেমে যাও নয়। সাদী দ্বীনকে বলেন চরম সহজ আর মসৃণ, তবু তাকে বলেন খোরাক আর সাধনাও, কখনো অলসতা নয়। মুজাহিদের ছবিটা এমন মানুষদের, যারা এত দীর্ঘ নামায পড়ত যে দাঁড়াতে দড়ি লাগত। আয়াত বাড়াবাড়িটা হালকা করে, নামাযটা খালি করে না।"
+            "bn": "এসব থেকে কেবল আরাম-আয়েশের অনুমতি টেনে নেওয়া সহজ হত, কিন্তু এই বর্ণনাগুলোই তা নিষেধ করে। যে নবী ﷺ-কে বলা হচ্ছে নিজেকে ক্লান্ত না করতে, তিনিই তো পা ফুলে যাওয়া পর্যন্ত দাঁড়িয়ে থাকতেন, আর জিবরীলের কথা ছিল নিজের উপর দয়া করো, থেমে যাও নয়। সাদী দ্বীনকে বলেন চরম সহজ আর মসৃণ, তবু তাকে বলেন খোরাক আর সাধনাও, কখনো অলসতা নয়। মুজাহিদের ছবিটা এমন মানুষদের, যারা এত দীর্ঘ নামাজ পড়ত যে দাঁড়াতে দড়ি লাগত। আয়াত বাড়াবাড়িটা হালকা করে, নামাজটা খালি করে না।"
           },
           {
             "en": "So the verse draws a line rather than lowering a bar. The din brings relief, not self-destruction; it forbids a person to grind himself into despair, and it forbids him just as much to make his own soul a thing he tramples. Your soul has a right over you is a limit set in both directions. It does not release anyone from real effort, from the night prayer or the daily struggle to convey the message. It refuses only the effort that turns worship into self-harm and devotion into a slow ruin.",
-            "bn": "তাই আয়াত মান নামিয়ে দেয় না, বরং একটা সীমারেখা টানে। দ্বীন স্বস্তি আনে, আত্মধ্বংস নয়। এটা মানুষকে নিরাশায় নিজেকে গুঁড়িয়ে ফেলতে যেমন নিষেধ করে, তেমনি নিজের প্রাণকে পায়ের নিচে মাড়ানো জিনিস বানাতেও ঠিক ততটাই নিষেধ করে। তোমার প্রাণের তোমার উপর হক আছে, এ কথা দুই দিকেই টানা এক সীমা। এটা কাউকে সত্যিকারের পরিশ্রম থেকে, রাতের নামায বা বার্তা পৌঁছানোর দৈনিক সংগ্রাম থেকে ছুটি দেয় না। এটা কেবল সেই খাটুনিকেই না বলে, যা ইবাদতকে আত্ম-নির্যাতনে আর ভক্তিকে ধীর সর্বনাশে বদলে দেয়।"
+            "bn": "তাই আয়াত মান নামিয়ে দেয় না, বরং একটা সীমারেখা টানে। দ্বীন স্বস্তি আনে, আত্মধ্বংস নয়। এটা মানুষকে নিরাশায় নিজেকে গুঁড়িয়ে ফেলতে যেমন নিষেধ করে, তেমনি নিজের প্রাণকে পায়ের নিচে মাড়ানো জিনিস বানাতেও ঠিক ততটাই নিষেধ করে। তোমার প্রাণের তোমার উপর হক আছে, এ কথা দুই দিকেই টানা এক সীমা। এটা কাউকে সত্যিকারের পরিশ্রম থেকে, রাতের নামাজ বা বার্তা পৌঁছানোর দৈনিক সংগ্রাম থেকে ছুটি দেয় না। এটা কেবল সেই খাটুনিকেই না বলে, যা ইবাদতকে আত্ম-নির্যাতনে আর ভক্তিকে ধীর সর্বনাশে বদলে দেয়।"
           }
         ]
       },
@@ -141,7 +141,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No sound hadith is narrated as the direct occasion of this verse. What Ibn Kathir adds is a general narration to catch its spirit. He writes that whomever Allah gives knowledge to, He wants great good for him, and cites the report of Mu'awiya in Sahih al-Bukhari (no. 71): Whomever Allah wants good for, He gives him understanding in the religion; I am only a distributor, and Allah is the giver. The wording is al-Bukhari's, and al-Bukhari graded it sound by placing it in his Sahih. It is not about this verse, yet it turns the verse's point over: the revelation is a gift, not a punishment.",
-            "bn": "এই আয়াতের সরাসরি শানে-নুযূল হিসেবে কোনো সহীহ হাদীস বর্ণিত নেই। ইবন কাসীর যা যোগ করেন তা আয়াতের ভাব ধরার জন্য আনা একটা সাধারণ বর্ণনা। তিনি লেখেন, আল্লাহ যাকে জ্ঞান দেন তার জন্য তিনি বিপুল কল্যাণ চান, আর সহীহ বুখারীতে (নং ৭১) মুয়াবিয়ার (রাঃ) বর্ণনা আনেন: আল্লাহ যার কল্যাণ চান, তাকে দ্বীনের বোঝ দান করেন; আমি তো কেবল বণ্টনকারী, দেন আল্লাহ। শব্দগুলো বুখারীর, আর বুখারী একে তাঁর সহীহতে রেখে সহীহ বলে সাব্যস্ত করেছেন। এটা এই আয়াত নিয়ে নয়, তবু আয়াতের কথাটাকে উল্টে ধরে দেখায়: এই ওহি একটা দান, শাস্তি নয়।"
+            "bn": "এই আয়াতের সরাসরি শানে-নুযূল হিসেবে কোনো সহীহ হাদিস বর্ণিত নেই। ইবন কাসীর যা যোগ করেন তা আয়াতের ভাব ধরার জন্য আনা একটা সাধারণ বর্ণনা। তিনি লেখেন, আল্লাহ যাকে জ্ঞান দেন তার জন্য তিনি বিপুল কল্যাণ চান, আর সহীহ বুখারীতে (নং ৭১) মুয়াবিয়ার (রাঃ) বর্ণনা আনেন: আল্লাহ যার কল্যাণ চান, তাকে দ্বীনের বোঝ দান করেন; আমি তো কেবল বণ্টনকারী, দেন আল্লাহ। শব্দগুলো বুখারীর, আর বুখারী একে তাঁর সহীহতে রেখে সহীহ বলে সাব্যস্ত করেছেন। এটা এই আয়াত নিয়ে নয়, তবু আয়াতের কথাটাকে উল্টে ধরে দেখায়: এই ওহি একটা দান, শাস্তি নয়।"
           },
           {
             "en": "That is the note the opening of Ta-Ha strikes. The Qur'an was not sent to break the man who first received it, nor the people who carry it after him. It came, in Qatadah's words, as mercy and light and a road. And having cleared away what the revelation is not for, the surah is now ready to say, in the very next verse, what it is for: a reminder for those who fear (20:3). The denial in this verse exists to make room for that answer, and the answer belongs to the line that follows.",
@@ -253,7 +253,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mūsā (AS) had walked toward a fire he saw on a cold night, hoping for a torch or for directions. What met him was his Lord. Ibn Kathir sets the scene from the sister verses: he was called from the right side of the valley, in the blessed spot, from the tree, and told to remove his sandals, for he stood in the sacred valley of Ṭuwā. Then 20:13 chose him and told him to listen. Our verse is the first thing that revelation says once he is listening, and it is not an order about Egypt.",
-            "bn": "শীতের রাতে মূসা (আঃ) দূরে একটা আগুন দেখে সেদিকে হাঁটছিলেন, একটু আগুন কিংবা পথের সন্ধানের আশায়। কিন্তু তাঁর সামনে এসে দাঁড়ালেন তাঁর রব। ইবন কাসীর পাশের আয়াতগুলো থেকে দৃশ্যটা তুলে ধরেন: উপত্যকার ডান পাশ থেকে, বরকতময় স্থান থেকে, গাছ থেকে তাঁকে ডাকা হলো, আর বলা হলো জুতা খুলে ফেলতে, কারণ তিনি পবিত্র তুওয়া উপত্যকায় দাঁড়িয়ে। এরপর ২০:১৩ আয়াতে তাঁকে বেছে নিয়ে শুনতে বলা হলো। শোনার পর ওহী প্রথম যা বলে তা এই আয়াত, আর তা মিসর নিয়ে কোনো হুকুম নয়।"
+            "bn": "শীতের রাতে মূসা (আঃ) দূরে একটা আগুন দেখে সেদিকে হাঁটছিলেন, একটু আগুন কিংবা পথের সন্ধানের আশায়। কিন্তু তাঁর সামনে এসে দাঁড়ালেন তাঁর রব। ইবন কাসীর পাশের আয়াতগুলো থেকে দৃশ্যটা তুলে ধরেন: উপত্যকার ডান পাশ থেকে, বরকতময় স্থান থেকে, গাছ থেকে তাঁকে ডাকা হলো, আর বলা হলো জুতা খুলে ফেলতে, কারণ তিনি পবিত্র তুওয়া উপত্যকায় দাঁড়িয়ে। এরপর ২০:১৩ আয়াতে তাঁকে বেছে নিয়ে শুনতে বলা হলো। শোনার পর ওহি প্রথম যা বলে তা এই আয়াত, আর তা মিসর নিয়ে কোনো হুকুম নয়।"
           },
           {
             "en": "What comes first is who is speaking. Ma'arif al-Qur'an reads the opening of the passage as the whole of the true faith laid out at once: listen to what is revealed points to prophethood, and worship Me points to the Oneness of Allah, and what follows points to the life to come. Before Mūsā (AS) is told a single thing to do about Pharaoh, he is told the ground he will stand on. The mission is given a foundation before it is given a plan, and the order is deliberate.",
@@ -321,18 +321,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi adds a second reading that turns the pronoun around. It may mean, he says, so that I remember you, praising you on high, taking the remembrance as Allah's remembrance of the worshipper rather than the worshipper's remembrance of Allah. He notes too that the prayer is itself called remembrance, and points to 62:9, hasten to the remembrance of Allah, where the prayer is what is meant. On this reading the prayer is not a means to remembrance; the prayer is the remembrance.",
-            "bn": "কুরতুবী দ্বিতীয় একটি পাঠ যোগ করেন যা সর্বনামটিকে উল্টে দেয়। এর অর্থ এমনও হতে পারে, তিনি বলেন, যাতে আমি তোমাকে স্মরণ করি, ঊর্ধ্বলোকে তোমার প্রশংসা করি। এখানে স্মরণটাকে ধরা হয় বান্দার প্রতি আল্লাহর স্মরণ হিসেবে, বান্দার আল্লাহকে স্মরণ হিসেবে নয়। তিনি আরও বলেন, নামায নিজেই স্মরণ নামে পরিচিত, আর ৬২:৯ আয়াতের দিকে ইশারা করেন, 'আল্লাহর স্মরণের দিকে ছুটে যাও', যেখানে নামাযকেই বোঝানো হয়েছে। এই পাঠে নামায স্মরণের মাধ্যম নয়, নামাযই স্মরণ।"
+            "bn": "কুরতুবী দ্বিতীয় একটি পাঠ যোগ করেন যা সর্বনামটিকে উল্টে দেয়। এর অর্থ এমনও হতে পারে, তিনি বলেন, যাতে আমি তোমাকে স্মরণ করি, ঊর্ধ্বলোকে তোমার প্রশংসা করি। এখানে স্মরণটাকে ধরা হয় বান্দার প্রতি আল্লাহর স্মরণ হিসেবে, বান্দার আল্লাহকে স্মরণ হিসেবে নয়। তিনি আরও বলেন, নামাজ নিজেই স্মরণ নামে পরিচিত, আর ৬২:৯ আয়াতের দিকে ইশারা করেন, 'আল্লাহর স্মরণের দিকে ছুটে যাও', যেখানে নামাজকেই বোঝানো হয়েছে। এই পাঠে নামাজ স্মরণের মাধ্যম নয়, নামাজই স্মরণ।"
           },
           {
             "en": "A third reading ties the clause to a missed prayer. At-Tabari reports it from Ibrāhīm an-Nakha'ī: establish the prayer when you remember it, that is, when you have forgotten it and it comes back to you. Ibn Kathir and al-Baghawi give the same, and al-Qurtubi says the words when you remember it prove that a prayer is not cancelled by forgetting. At-Tabari himself prefers the first reading on grammatical grounds, yet he records all three, and the verse has carried every one of them down the centuries.",
-            "bn": "তৃতীয় একটি পাঠ অংশটিকে ছুটে যাওয়া নামাযের সঙ্গে বাঁধে। তাবারী এটি ইবরাহীম আন-নাখায়ী থেকে বর্ণনা করেন: যখন নামায মনে পড়ে তখন তা কায়েম করো, অর্থাৎ ভুলে যাওয়ার পর তা যখন আবার মনে পড়ে। ইবন কাসীর ও বাগাভী একই কথা দেন, আর কুরতুবী বলেন 'যখন মনে পড়ে' কথাটি প্রমাণ করে যে ভুলে যাওয়ায় নামায বাতিল হয়ে যায় না। তাবারী নিজে ব্যাকরণের ভিত্তিতে প্রথম পাঠকেই বেশি সঠিক মনে করেন, তবু তিনি তিনটিই লিখে রাখেন, আর আয়াত শতাব্দীর পর শতাব্দী প্রতিটিকেই বয়ে এনেছে।"
+            "bn": "তৃতীয় একটি পাঠ অংশটিকে ছুটে যাওয়া নামাজের সঙ্গে বাঁধে। তাবারী এটি ইবরাহীম আন-নাখায়ী থেকে বর্ণনা করেন: যখন নামাজ মনে পড়ে তখন তা কায়েম করো, অর্থাৎ ভুলে যাওয়ার পর তা যখন আবার মনে পড়ে। ইবন কাসীর ও বাগাভী একই কথা দেন, আর কুরতুবী বলেন 'যখন মনে পড়ে' কথাটি প্রমাণ করে যে ভুলে যাওয়ায় নামাজ বাতিল হয়ে যায় না। তাবারী নিজে ব্যাকরণের ভিত্তিতে প্রথম পাঠকেই বেশি সঠিক মনে করেন, তবু তিনি তিনটিই লিখে রাখেন, আর আয়াত শতাব্দীর পর শতাব্দী প্রতিটিকেই বয়ে এনেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Prayer That Slipped",
-          "bn": "ছুটে যাওয়া নামায"
+          "bn": "ছুটে যাওয়া নামাজ"
         },
         "p": [
           {
@@ -353,7 +353,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read whole, the verse is not particular to Mūsā (AS). Ibn Kathir sets it beside 28:30, where the same call comes from the tree in the sacred valley: O Mūsā, verily I am Allah. The opening truth is the one every prophet was sent with. Ma'arif al-Qur'an makes the structure explicit: the command listen to what is revealed marks the prophethood, and worship Me marks the Oneness of Allah. The same two pillars stand under every messenger's mission, whatever people and century he was sent to.",
-            "bn": "গোটা আয়াতটা পড়লে দেখা যায় এটি শুধু মূসা (আঃ)-এর জন্য খাস নয়। ইবন কাসীর একে ২৮:৩০ আয়াতের পাশে রাখেন, যেখানে পবিত্র উপত্যকার গাছ থেকে একই ডাক আসে: হে মূসা, নিশ্চয়ই আমিই আল্লাহ। শুরুর এই সত্যই সেই সত্য যা নিয়ে প্রত্যেক নবীকে পাঠানো হয়েছে। মাআরিফুল কুরআন কাঠামোটা স্পষ্ট করে দেয়: 'যা ওহী করা হচ্ছে তা শোনো' হুকুমটি নবুওয়াতকে চিহ্নিত করে, আর 'আমার ইবাদাত করো' আল্লাহর একত্বকে। প্রত্যেক রাসূলের দায়িত্বের নিচে এই একই দুই স্তম্ভ দাঁড়িয়ে, যে জাতি ও যে যুগেই তাঁকে পাঠানো হোক।"
+            "bn": "গোটা আয়াতটা পড়লে দেখা যায় এটি শুধু মূসা (আঃ)-এর জন্য খাস নয়। ইবন কাসীর একে ২৮:৩০ আয়াতের পাশে রাখেন, যেখানে পবিত্র উপত্যকার গাছ থেকে একই ডাক আসে: হে মূসা, নিশ্চয়ই আমিই আল্লাহ। শুরুর এই সত্যই সেই সত্য যা নিয়ে প্রত্যেক নবীকে পাঠানো হয়েছে। মাআরিফুল কুরআন কাঠামোটা স্পষ্ট করে দেয়: 'যা ওহি করা হচ্ছে তা শোনো' হুকুমটি নবুওয়াতকে চিহ্নিত করে, আর 'আমার ইবাদাত করো' আল্লাহর একত্বকে। প্রত্যেক রাসূলের দায়িত্বের নিচে এই একই দুই স্তম্ভ দাঁড়িয়ে, যে জাতি ও যে যুগেই তাঁকে পাঠানো হোক।"
           },
           {
             "en": "This is why the foundation comes before the task. Mūsā (AS) is about to be sent to the most powerful man of his age with a demand that man will refuse. Before any of that, he is grounded in who his Lord is and bound to stand before Him in prayer. The order is itself the lesson. A servant is steadied first and sent second; the knowing of God and the worship of God are laid down before the work, not fitted in around it once the work has begun.",
@@ -485,7 +485,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "There is restraint in the count. At the commissioning Mūsā (AS) is handed exactly two proofs, the staff and the hand, and this verse names the hand as the second and stops there. As-Saʿdī and Ibn Kathir let 28:32 set the number: two proofs from your Lord. The equipping is sufficient rather than lavish. What Mūsā is given is what the errand requires, which is its own quiet reassurance to a man just told not to fear.",
-            "bn": "গোনার মধ্যেও এক সংযম আছে। রসূল হিসেবে দায়িত্ব দেওয়ার সময় মূসা (আঃ)-কে ঠিক দুটি প্রমাণই দেওয়া হয়, লাঠি আর হাত, আর এ আয়াত হাতকে দ্বিতীয় বলে সেখানেই থামে। সাদী ও ইবন কাসীর ২৮:৩২ আয়াতকে দিয়েই সংখ্যাটা ঠিক করেন: তোমার রবের পক্ষ থেকে দুই প্রমাণ। প্রস্তুতিটা যথেষ্ট, বাড়াবাড়ি নয়। মূসা (আঃ)-কে যা দেওয়া হয় তা কাজটার যতটুকু দরকার ততটুকুই, আর সদ্য ভয় পেও না শোনা মানুষটার কাছে এটাই এক নীরব আশ্বাস।"
+            "bn": "গোনার মধ্যেও এক সংযম আছে। রাসূল হিসেবে দায়িত্ব দেওয়ার সময় মূসা (আঃ)-কে ঠিক দুটি প্রমাণই দেওয়া হয়, লাঠি আর হাত, আর এ আয়াত হাতকে দ্বিতীয় বলে সেখানেই থামে। সাদী ও ইবন কাসীর ২৮:৩২ আয়াতকে দিয়েই সংখ্যাটা ঠিক করেন: তোমার রবের পক্ষ থেকে দুই প্রমাণ। প্রস্তুতিটা যথেষ্ট, বাড়াবাড়ি নয়। মূসা (আঃ)-কে যা দেওয়া হয় তা কাজটার যতটুকু দরকার ততটুকুই, আর সদ্য ভয় পেও না শোনা মানুষটার কাছে এটাই এক নীরব আশ্বাস।"
           }
         ]
       },
@@ -533,7 +533,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The setting is the night of Musa's (AS) commissioning. Travelling with his family, he saw a fire on the side of Mount Tur, approached it for an ember or directions, and was addressed by his Lord — chosen, taught tawhid, shown the signs of the staff and the hand. Then came the assignment, in 20:24 — go to Pharaoh, for he has transgressed. One man, a fugitive from Egypt with a killing on his record there, sent to the most powerful tyrant of his age.",
-            "bn": "প্রেক্ষাপট মূসা (আঃ)-এর দায়িত্ব পাওয়ার রাত। পরিবার নিয়ে সফরে থাকার সময় তিনি তূর পাহাড়ের পাশে আগুন দেখেন। একটু অঙ্গার বা পথের খোঁজ পাওয়ার আশায় সেদিকে এগিয়ে গেলে তাঁর রব তাঁর সঙ্গে কথা বলেন। আল্লাহ তাঁকে বেছে নেন, তাওহীদ শেখান, লাঠি আর হাতের নিদর্শন দেখান। তারপর আসে দায়িত্ব, ২০:২৪ আয়াতে: ফেরাউনের কাছে যাও, সে সীমালঙ্ঘন করেছে। একা একজন মানুষ, মিসর থেকে পালিয়ে আসা, সেখানে যাঁর নামে একটি হত্যার ঘটনা আছে, তাঁকে পাঠানো হচ্ছে যুগের সবচেয়ে ক্ষমতাধর জালিমের কাছে।"
+            "bn": "প্রেক্ষাপট মূসা (আঃ)-এর দায়িত্ব পাওয়ার রাত। পরিবার নিয়ে সফরে থাকার সময় তিনি তূর পাহাড়ের পাশে আগুন দেখেন। একটু অঙ্গার বা পথের খোঁজ পাওয়ার আশায় সেদিকে এগিয়ে গেলে তাঁর রব তাঁর সঙ্গে কথা বলেন। আল্লাহ তাঁকে বেছে নেন, তাওহিদ শেখান, লাঠি আর হাতের নিদর্শন দেখান। তারপর আসে দায়িত্ব, ২০:২৪ আয়াতে: ফেরাউনের কাছে যাও, সে সীমালঙ্ঘন করেছে। একা একজন মানুষ, মিসর থেকে পালিয়ে আসা, সেখানে যাঁর নামে একটি হত্যার ঘটনা আছে, তাঁকে পাঠানো হচ্ছে যুগের সবচেয়ে ক্ষমতাধর জালিমের কাছে।"
           },
           {
             "en": "His response is the prayer of 20:25-28 — my Lord, expand for me my chest, ease for me my task, and untie a knot from my tongue, that they may understand my speech. Notice what he does not ask for first — no army, no immunity, no plan of approach. Before any resource in the world, he asks for a change inside himself. The commentators hold this up as the model opening move for anyone handed work that feels larger than they are.",
@@ -869,7 +869,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Behind that single word futun lies a famous narration. Sa'id ibn Jubayr asked Ibn Abbas what the trials were, and Ibn Abbas answered with a long account, known as hadith al-futun, which an-Nasa'i placed in the Tafsir of his Sunan and Ibn Kathir reproduced in full. It walks through trial after trial: the danger before Musa's birth in the year of slaughter, the slaughterers arriving at Pharaoh's wife, the sister seized and suspected, the pull of Pharaoh's beard, the test of the coal and the pearl, and the killing that sent him fleeing.",
-            "bn": "ফুতূন, এই একটি শব্দের পেছনে আছে এক প্রসিদ্ধ বর্ণনা। সাঈদ ইবন জুবাইর ইবন আব্বাসকে (রাঃ) জিজ্ঞেস করেছিলেন, পরীক্ষাগুলো কী ছিল। ইবন আব্বাস জবাব দেন এক দীর্ঘ বিবরণে, যা হাদীসুল ফুতূন নামে পরিচিত। নাসাঈ এটি তাঁর সুনানের তাফসীর অংশে রেখেছেন, আর ইবন কাসীর পুরোটা তুলে দিয়েছেন। এতে একের পর এক পরীক্ষার কথা আছে: মূসার জন্মের আগে, শিশু হত্যার বছরে বিপদ; ফেরাউনের স্ত্রীর কাছে জল্লাদদের এসে পড়া; বোনকে ধরে সন্দেহ করা; ফেরাউনের দাড়ি টেনে ধরা; জ্বলন্ত অঙ্গার আর মুক্তার পরীক্ষা; আর সেই হত্যা, যার পর তাঁকে পালাতে হয়।"
+            "bn": "ফুতূন, এই একটি শব্দের পেছনে আছে এক প্রসিদ্ধ বর্ণনা। সাঈদ ইবন জুবাইর ইবন আব্বাসকে (রাঃ) জিজ্ঞেস করেছিলেন, পরীক্ষাগুলো কী ছিল। ইবন আব্বাস জবাব দেন এক দীর্ঘ বিবরণে, যা হাদিসুল ফুতূন নামে পরিচিত। নাসাঈ এটি তাঁর সুনানের তাফসীর অংশে রেখেছেন, আর ইবন কাসীর পুরোটা তুলে দিয়েছেন। এতে একের পর এক পরীক্ষার কথা আছে: মূসার জন্মের আগে, শিশু হত্যার বছরে বিপদ; ফেরাউনের স্ত্রীর কাছে জল্লাদদের এসে পড়া; বোনকে ধরে সন্দেহ করা; ফেরাউনের দাড়ি টেনে ধরা; জ্বলন্ত অঙ্গার আর মুক্তার পরীক্ষা; আর সেই হত্যা, যার পর তাঁকে পালাতে হয়।"
           },
           {
             "en": "Its status must be reported honestly. Ibn Kathir first inclined to treat the account as raised to the Prophet (peace be upon him), but he concluded that it is mawquf, the words of Ibn Abbas himself, with only a little of it marfu', and that Ibn Abbas most likely took it from what was permitted of the Isra'iliyyat, from Ka'b al-Ahbar or another. Ma'arif al-Qur'an notes the same: Ibn Jarir and Ibn Abi Hatim carry it as Ibn Abbas's own speech.",
@@ -1040,12 +1040,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Messengers, One Errand",
-          "bn": "দুই রসূল, এক দায়িত্ব"
+          "bn": "দুই রাসূল, এক দায়িত্ব"
         },
         "p": [
           {
             "en": "The command comes straight after Allah's reassurance to the two brothers, fear not, I am with you. Now the errand itself: go to him and say, we are messengers of your Lord. The Arabic rasūlā rabbika is dual, two messengers of a single Lord, Mūsā (AS) and Hārūn (AS) sent as a pair to one throne. Al-Qurtubi notes an ellipsis in the wording, so that the sense is: come to him and say that to him. The report folds the sending and the speaking into a single line, and the whole of what follows is the script the two are handed for the throne room.",
-            "bn": "আয়াতটি আসে দুই ভাইকে দেওয়া আল্লাহর আশ্বাসের ঠিক পরে: ভয় করো না, আমি তোমাদের সাথেই আছি। এবার আসল কাজ: তার কাছে যাও আর বলো, আমরা তোমার রবের রাসূল। আরবি 'রসূলা রব্বিকা' দ্বিবচন: এক রবের দুই রাসূল, মূসা (আঃ) আর হারূন (আঃ), জোড়ায় পাঠানো হয়েছে একই সিংহাসনের সামনে। কুরতুবী ধরিয়ে দেন, এখানে কিছু কথা ঊহ্য আছে; পুরো অর্থ দাঁড়ায়: তার কাছে এসো আর তাকে এ কথা বলো। বর্ণনাটি যাওয়া আর বলাকে এক লাইনে গেঁথে দেয়। এরপর যা আসে, তার পুরোটাই রাজদরবারে কী বলতে হবে, দুজনের হাতে তুলে দেওয়া সেই কথামালা।"
+            "bn": "আয়াতটি আসে দুই ভাইকে দেওয়া আল্লাহর আশ্বাসের ঠিক পরে: ভয় করো না, আমি তোমাদের সাথেই আছি। এবার আসল কাজ: তার কাছে যাও আর বলো, আমরা তোমার রবের রাসূল। আরবি 'রাসূলা রব্বিকা' দ্বিবচন: এক রবের দুই রাসূল, মূসা (আঃ) আর হারূন (আঃ), জোড়ায় পাঠানো হয়েছে একই সিংহাসনের সামনে। কুরতুবী ধরিয়ে দেন, এখানে কিছু কথা ঊহ্য আছে; পুরো অর্থ দাঁড়ায়: তার কাছে এসো আর তাকে এ কথা বলো। বর্ণনাটি যাওয়া আর বলাকে এক লাইনে গেঁথে দেয়। এরপর যা আসে, তার পুরোটাই রাজদরবারে কী বলতে হবে, দুজনের হাতে তুলে দেওয়া সেই কথামালা।"
           },
           {
             "en": "As-Sa'di reads the mission as two matters bound together: a call to surrender to God, and the release of this noble people, the Children of Israel, from the chains laid on them, so that they might be free and govern their own affairs. Ma'arif al-Qur'an draws the same point out plainly, that the prophets carry a duty both to guide people toward their salvation and to liberate them from worldly and economic bondage. The errand is at once spiritual and social, addressed to the heart and to the shackle alike, and neither half of it is allowed to drop.",
@@ -2189,11 +2189,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Both Ibn Kathir and Ma'arif al-Qur'an anchor the word to a hadith. It is recorded in Jami' at-Tirmidhi, number 2430, on the authority of Abdullah ibn Amr: a Bedouin came to the Prophet ﷺ and asked, What is the Sur? He answered, A horn that will be blown into. That is the whole report. Abu Isa at-Tirmidhi graded it hasan, adding that it is known only through the narration of Sulayman at-Taymi. This single line is the ground for reading sur as a literal horn rather than as a metaphor.",
-            "bn": "ইবন কাসীর ও মাআরিফুল কুরআন দুজনেই শব্দটিকে একটি হাদীসের সঙ্গে বাঁধেন। জামে তিরমিযীতে, ২৪৩০ নম্বরে, আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত: এক বেদুইন নবীজি ﷺ-এর কাছে এসে জিজ্ঞেস করল, সূর কী? তিনি বললেন, একটি শিঙ্গা, যাতে ফুঁ দেওয়া হবে। বর্ণনাটি এটুকুই। আবু ঈসা তিরমিযী একে হাসান বলেছেন, আর জানিয়েছেন যে এটি কেবল সুলাইমান তাইমীর সূত্রেই জানা যায়। এই একটি বাক্যই সূরকে রূপক না ধরে সত্যিকারের শিঙ্গা ধরার ভিত্তি।"
+            "bn": "ইবন কাসীর ও মাআরিফুল কুরআন দুজনেই শব্দটিকে একটি হাদিসের সঙ্গে বাঁধেন। জামে তিরমিযীতে, ২৪৩০ নম্বরে, আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত: এক বেদুইন নবীজি ﷺ-এর কাছে এসে জিজ্ঞেস করল, সূর কী? তিনি বললেন, একটি শিঙ্গা, যাতে ফুঁ দেওয়া হবে। বর্ণনাটি এটুকুই। আবু ঈসা তিরমিযী একে হাসান বলেছেন, আর জানিয়েছেন যে এটি কেবল সুলাইমান তাইমীর সূত্রেই জানা যায়। এই একটি বাক্যই সূরকে রূপক না ধরে সত্যিকারের শিঙ্গা ধরার ভিত্তি।"
           },
           {
             "en": "Ibn Kathir carries more detail, and it is worth marking what is firm and what is not. In his tafsir he relates, from Abu Hurayrah, that the Sur is a mighty horn whose span is as vast as the heavens and the earth, and that the angel Israfil is the one who blows it. He adds a narration in which the bearer of the horn has already set it to his lips, his brow bent, waiting for the command. I have not verified the gradings of these fuller reports, so the sure ground stays the Tirmidhi hadith: a horn, blown by an angel, at Allah's word.",
-            "bn": "ইবন কাসীর আরও বিবরণ আনেন, তবে কোনটা মজবুত আর কোনটা নয়, তা আলাদা করে রাখা দরকার। তাঁর তাফসীরে তিনি আবু হুরায়রা (রাঃ) থেকে আনেন যে সূর এক বিশাল শিঙ্গা, যার বেড় আসমান-জমিনের সমান, আর ইসরাফীল (আঃ)-ই তাতে ফুঁ দেবেন। সঙ্গে আরেকটি বর্ণনা আছে, যেখানে শিঙ্গাধারী তা মুখে লাগিয়ে কপাল ঝুঁকিয়ে আদেশের অপেক্ষায় আছেন। এই বাড়তি বর্ণনাগুলোর মান আমি এখানে যাচাই করিনি। তাই নিশ্চিত ভিত্তি থাকে তিরমিযীর হাদীসটাই: একটি শিঙ্গা, ফেরেশতার ফুঁক, আল্লাহর হুকুমে।"
+            "bn": "ইবন কাসীর আরও বিবরণ আনেন, তবে কোনটা মজবুত আর কোনটা নয়, তা আলাদা করে রাখা দরকার। তাঁর তাফসীরে তিনি আবু হুরায়রা (রাঃ) থেকে আনেন যে সূর এক বিশাল শিঙ্গা, যার বেড় আসমান-জমিনের সমান, আর ইসরাফীল (আঃ)-ই তাতে ফুঁ দেবেন। সঙ্গে আরেকটি বর্ণনা আছে, যেখানে শিঙ্গাধারী তা মুখে লাগিয়ে কপাল ঝুঁকিয়ে আদেশের অপেক্ষায় আছেন। এই বাড়তি বর্ণনাগুলোর মান আমি এখানে যাচাই করিনি। তাই নিশ্চিত ভিত্তি থাকে তিরমিযীর হাদিসটাই: একটি শিঙ্গা, ফেরেশতার ফুঁক, আল্লাহর হুকুমে।"
           }
         ]
       },
@@ -2412,7 +2412,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Report Fixed to It",
-          "bn": "কোনো হাদীস যুক্ত নেই"
+          "bn": "কোনো হাদিস যুক্ত নেই"
         },
         "p": [
           {
