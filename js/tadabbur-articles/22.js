@@ -1625,7 +1625,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The whole of the verse points in a single direction. The idolater fails on both counts at once, with no authority sent down and no knowledge held. The believer's answer is to succeed on both: to worship the God whose right to be worshipped revelation has established, and to hold that worship with knowledge he keeps seeking rather than assuming. Belief built this way does not fear the question, where is your proof? It has an answer, because it once went looking for a proof. That is the difference between worship that stands and worship with nothing at all beneath it.",
-            "bn": "গোটা আয়াত এক দিকেই ইশারা করে। মুশরিক একসঙ্গে দুই দিকেই ব্যর্থ, নামানো কোনো দলীল নেই আর ধরে রাখা কোনো জ্ঞানও নেই। মুমিনের জবাব হলো দুই দিকেই সফল হওয়া, সেই আল্লাহর ইবাদত করা যাঁর ইবাদত-যোগ্যতা ওহী প্রতিষ্ঠিত করেছে, আর সেই ইবাদত ধরে রাখা এমন জ্ঞান দিয়ে যা ধরে নেওয়া নয়, বরং যা খোঁজা চালিয়ে যায়। এভাবে গড়া বিশ্বাস প্রশ্নকে ভয় পায় না, তোমার প্রমাণ কই? তার জবাব আছে, কারণ সে একদিন জবাব খুঁজতে বেরিয়েছিল। ভিতওয়ালা ইবাদত আর ভিতহীন ইবাদতের ফারাক এখানেই।"
+            "bn": "গোটা আয়াতটা একটা দিকেই ইঙ্গিত করে। মুশরিক একসঙ্গে দুই জায়গাতেই ব্যর্থ: আল্লাহর নাজিল করা কোনো দলিল তার হাতে নেই, নিজের কোনো জ্ঞানও নেই। মুমিনের জবাব হলো দুই জায়গাতেই উতরে যাওয়া। সে ইবাদত করে সেই আল্লাহর, ওহি যাঁর ইবাদতের হক প্রমাণ করে দিয়েছে। আর সেই ইবাদত সে ধরে রাখে জ্ঞান দিয়ে; সে জ্ঞান সে ধরে নেয় না, বরং খুঁজতেই থাকে। এভাবে গড়ে ওঠা ঈমান 'তোমার দলিল কোথায়?' প্রশ্নটাকে ভয় পায় না। তার কাছে জবাব আছে, কারণ একদিন সে নিজেই দলিল খুঁজতে বেরিয়েছিল। মজবুত ভিতের ওপর দাঁড়ানো ইবাদত আর নিচে কিছুই নেই এমন ইবাদতের তফাত এখানেই।"
           }
         ]
       }
@@ -1636,28 +1636,28 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Stop and Listen",
-          "bn": "থামো এবং শোনো"
+          "bn": "থামুন, শুনুন"
         },
         "p": [
           {
             "en": "The parable does not slip into the argument; it interrupts it. O people, a parable is struck, so listen to it. The Quran rarely halts to demand attention before an example, and here the demand is an imperative. Its placement explains the urgency: 22:71 has just described people calling on what Allah sent down no authority for and of which they have no knowledge, and 22:72 has described their faces when His verses are recited.",
-            "bn": "উপমাটি যুক্তির ভেতরে চুপিসারে ঢোকে না; বরং যুক্তিকে থামিয়ে দেয়। হে মানুষ, একটি দৃষ্টান্ত পেশ করা হচ্ছে, মনোযোগ দিয়ে তা শোনো। কুরআন খুব কমই কোনো উদাহরণের আগে থেমে মনোযোগ দাবি করে, আর এখানে দাবিটি এসেছে আদেশের রূপে। এর অবস্থানই তাড়ার কারণ বুঝিয়ে দেয়: 22:71 এইমাত্র বর্ণনা করেছে সেই মানুষদের, যারা এমন কিছুকে ডাকে যার সমর্থনে আল্লাহ কোনো দলিল নামাননি এবং যে সম্পর্কে তাদের কোনো জ্ঞান নেই; আর 22:72 বর্ণনা করেছে তাঁর আয়াত তিলাওয়াতের সময় তাদের চেহারা।"
+            "bn": "উপমাটি যুক্তির ফাঁকে চুপচাপ ঢুকে পড়ে না, বরং যুক্তিকে থামিয়ে দেয়। হে মানুষ, একটি দৃষ্টান্ত দেওয়া হচ্ছে, মনোযোগ দিয়ে তা শোনো। কোনো উদাহরণের আগে থেমে মনোযোগ চাওয়া কুরআনে খুব কমই দেখা যায়, আর এখানে সেই চাওয়াটা এসেছে সরাসরি আদেশ হয়ে। কেন এত তাড়া, তা বোঝা যায় আয়াতটির অবস্থান থেকে। ঠিক আগে ২২:৭১ বলেছে সেই লোকদের কথা, যারা এমন কিছুকে ডাকে যার পক্ষে আল্লাহ কোনো দলিল নাজিল করেননি এবং যার ব্যাপারে তাদের কোনো জ্ঞানও নেই। আর ২২:৭২ দেখিয়েছে, তাঁর আয়াত তিলাওয়াত করা হলে তাদের চেহারা কেমন হয়ে যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Two Things They Cannot Do",
-          "bn": "দুটি কাজ যা তারা পারে না"
+          "bn": "যে দুটি কাজ তারা পারে না"
         },
         "p": [
           {
             "en": "Count what the verse actually denies them and it is two things. First, those you call on besides Allah will never create a fly, even if they gathered together for it. Second, if the fly should snatch something from them, they could not recover it back from it. The verse does not claim the false gods are inert or imaginary. It measures them against one insect, twice, and they fail on both sides.",
-            "bn": "আয়াতটি আসলে তাদের কাছ থেকে কী কী অস্বীকার করছে তা গুনলে পাওয়া যায় দুটি। এক, আল্লাহ ছাড়া তোমরা যাদের ডাকো তারা কখনোই একটি মাছি সৃষ্টি করতে পারবে না, এ জন্য সবাই একত্র হলেও নয়। দুই, মাছি যদি তাদের কাছ থেকে কিছু ছিনিয়ে নেয়, তবে তারা তার কাছ থেকে তা উদ্ধার করতে পারবে না। আয়াতটি এ দাবি করছে না যে মিথ্যা উপাস্যরা নিষ্ক্রিয় বা কাল্পনিক। এটি তাদের একটি পোকার মানদণ্ডে দুবার মেপে দেখায়, আর দুদিকেই তারা ব্যর্থ হয়।"
+            "bn": "আয়াতটি তাদের কোন কোন ক্ষমতা নাকচ করছে, গুনে দেখলে পাওয়া যায় দুটি। এক, আল্লাহ ছাড়া তোমরা যাদের ডাকো, তারা কখনো একটি মাছিও সৃষ্টি করতে পারবে না, এর জন্য সবাই একজোট হলেও না। দুই, মাছি যদি তাদের কাছ থেকে কিছু ছিনিয়ে নেয়, তারা তার কাছ থেকে সেটা উদ্ধার করতে পারবে না। আয়াতটি এ কথা বলছে না যে মিথ্যা উপাস্যরা নিষ্ক্রিয় বা কাল্পনিক। বরং একটা পোকার সঙ্গে তাদের দুবার মেপে দেখায়, আর দুবারই তারা হেরে যায়।"
           },
           {
             "en": "The order is exact. The first inability concerns making, the second concerns keeping, and the second is the more humiliating of the two. Something that cannot create might still be able to defend what it already has; these cannot. Ibn Kathir notes the setting the image assumes: the fly settles on the good and perfumed thing placed before the idol, takes what it wants, and nothing there can take it back.",
-            "bn": "ক্রমটি সুনির্দিষ্ট। প্রথম অক্ষমতা সৃষ্টি করা নিয়ে, দ্বিতীয়টি নিজের জিনিস ধরে রাখা নিয়ে; আর দ্বিতীয়টিই বেশি লজ্জাকর। যে সৃষ্টি করতে পারে না, সে অন্তত তার হাতে যা আছে তা রক্ষা করতে পারত; এরা তা-ও পারে না। ইবনে কাসীর চিত্রটির অনুমিত প্রেক্ষাপট উল্লেখ করেন: মূর্তির সামনে রাখা উত্তম ও সুগন্ধিমাখা বস্তুর ওপর মাছি বসে, যা চায় নিয়ে যায়, আর সেখানকার কোনো কিছুই তা ফিরিয়ে আনতে পারে না।"
+            "bn": "ক্রমটা মাপা। প্রথম অক্ষমতা বানানোর, দ্বিতীয়টা ধরে রাখার; আর দ্বিতীয়টাই বেশি লজ্জার। যে সৃষ্টি করতে পারে না, সে হয়তো অন্তত নিজের হাতে যা আছে তা রক্ষা করতে পারত; এরা তা-ও পারে না। ছবিটার পেছনে কোন দৃশ্য ধরা আছে, ইবনে কাসীর তা জানিয়েছেন: মূর্তির সামনে রাখা ভালো ভালো, সুগন্ধি মাখানো জিনিসের ওপর মাছি এসে বসে, যা খুশি নিয়ে যায়, আর সেখানকার কেউই তা ফেরত আনতে পারে না।"
           }
         ]
       },
@@ -1669,11 +1669,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The smallness is the argument. 2:26 states the principle openly: Allah is not shy to strike a parable of a mosquito or of what is smaller than it. A god that fails against the largest predator has at least been tested honestly. One that fails against a fly has been measured at the very bottom of the scale, and found wanting there.",
-            "bn": "ছোট হওয়াটাই এখানে যুক্তি। 2:26 নীতিটি খোলাখুলি বলে দেয়: আল্লাহ মশা বা তার চেয়েও ক্ষুদ্র কোনো কিছুর দৃষ্টান্ত দিতে লজ্জা করেন না। যে উপাস্য সবচেয়ে বড় হিংস্র প্রাণীর সামনে ব্যর্থ হয়, তাকে অন্তত সৎভাবে পরীক্ষা করা হয়েছে। যে একটি মাছির কাছে হেরে যায়, তাকে মাপা হয়েছে মাপকাঠির একেবারে নিচের প্রান্তে, আর সেখানেও সে অক্ষম প্রমাণিত হয়েছে।"
+            "bn": "ছোট হওয়াটাই এখানে আসল যুক্তি। ২:২৬ নীতিটা খোলাখুলি বলে দিয়েছে: আল্লাহ মশা কিংবা তার চেয়েও ক্ষুদ্র কিছুর উপমা দিতে লজ্জা করেন না। যে উপাস্য সবচেয়ে বড় হিংস্র প্রাণীর সামনে হার মানে, তার অন্তত একটা ন্যায্য পরীক্ষা হয়েছে। কিন্তু যে একটা মাছির কাছে হেরে যায়, তাকে মাপা হয়েছে মাপকাঠির একেবারে তলায়, আর সেখানেও সে টেকেনি।"
           },
           {
             "en": "Ibn Kathir cites in this place a report of Abu Hurayrah (RA) recorded in the two Sahihs, in which the Prophet ﷺ conveyed that Allah says: who does more wrong than one who goes to create as I create? Then let them create an ant, or let them create a grain of barley. The challenge is set at exactly the level the verse sets it, and in all the centuries since it has never been taken up.",
-            "bn": "ইবনে কাসীর এই স্থানে আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা উল্লেখ করেন, যা দুই সহীহ গ্রন্থে সংকলিত; সেখানে নবী ﷺ জানান যে আল্লাহ বলেন: তার চেয়ে বড় জালিম কে, যে আমার সৃষ্টির মতো সৃষ্টি করতে যায়? তবে তারা একটি পিঁপড়া সৃষ্টি করুক, কিংবা একটি যবের দানা সৃষ্টি করুক। চ্যালেঞ্জটি ঠিক সেই মাপেই রাখা হয়েছে যে মাপে আয়াতটি রেখেছে, আর এত শতাব্দীতেও কেউ তা গ্রহণ করেনি।"
+            "bn": "ইবনে কাসীর এখানে আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা এনেছেন, যা দুই সহীহ গ্রন্থেই আছে। তাতে নবী ﷺ জানিয়েছেন, আল্লাহ বলেন: তার চেয়ে বড় জালিম আর কে, যে আমার মতো সৃষ্টি করতে চায়? তাহলে তারা একটা পিঁপড়া সৃষ্টি করুক, কিংবা একটা যবের দানা সৃষ্টি করুক। চ্যালেঞ্জটা ঠিক সেই মাপেই রাখা, যে মাপে আয়াতটি রেখেছে। আর এত শতাব্দী পেরিয়ে গেলেও কেউ সেই চ্যালেঞ্জ নিতে এগিয়ে আসেনি।"
           }
         ]
       },
@@ -1685,11 +1685,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes on da'ufa at-talibu wal-matlub, weak are the seeker and the sought. The Arabic does not say which is which, and the commentators divide. Ibn Kathir reports Ibn Abbas (RA) reading the seeker as the idol and the sought as the fly, a reading Ibn Jarir at-Tabari preferred and which Ibn Kathir says the context supports. As-Suddi and others read the seeker as the worshipper and the sought as the object of his worship.",
-            "bn": "আয়াতটি শেষ হয় 'দ্বাউফাত-তালিবু ওয়াল-মাতলূব' দিয়ে — যে খোঁজে আর যাকে খোঁজা হয়, দুজনই দুর্বল। আরবি বলে দেয় না কে কোনটি, আর মুফাসসিরগণ এখানে দ্বিধাবিভক্ত। ইবনে কাসীর ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন যে 'তালিব' হলো মূর্তি আর 'মাতলূব' হলো মাছি; ইবনে জারীর আত-তাবারী এই পাঠটিই পছন্দ করেছেন, আর ইবনে কাসীর বলেন প্রসঙ্গও তা-ই সমর্থন করে। আস-সুদ্দী ও অন্যরা পড়েন, 'তালিব' হলো উপাসক আর 'মাতলূব' তার উপাস্য।"
+            "bn": "আয়াতটি শেষ হয়েছে 'দ্বাউফাত-তালিবু ওয়াল-মাতলূব' দিয়ে: যে খোঁজে আর যাকে খোঁজা হয়, দুজনই দুর্বল। কে খোঁজে আর কাকে খোঁজা হয়, আরবিতে তা বলা নেই, তাই এখানে মুফাসসিরদের মধ্যে মতভেদ আছে। ইবনে কাসীর ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, 'তালিব' হলো মূর্তি আর 'মাতলূব' হলো মাছি। ইবনে জারীর আত-তাবারী এই ব্যাখ্যাটাই পছন্দ করেছেন, আর ইবনে কাসীর বলেন, প্রসঙ্গও এটাকেই সমর্থন করে। আস-সুদ্দী ও অন্যদের মতে 'তালিব' হলো উপাসক, আর 'মাতলূব' তার উপাস্য।"
           },
           {
             "en": "Translators follow one reading or the other, which is why renderings of this clause differ. The two do not compete over the verdict, only over which pair of weaknesses is on display. Either the object of worship is too weak to retrieve a stolen drop, or the worshipper is too weak to have chosen well. The word matlub does not occur anywhere else in the Quran.",
-            "bn": "অনুবাদকরা কেউ এক পাঠ, কেউ অন্য পাঠ অনুসরণ করেন; এ কারণেই এই বাক্যাংশের অনুবাদগুলো আলাদা হয়। দুটি পাঠ রায় নিয়ে বিরোধ করে না, কেবল কোন জোড়ার দুর্বলতা দেখানো হচ্ছে তা নিয়েই ভিন্নমত। হয় উপাস্য এতই দুর্বল যে ছিনিয়ে নেওয়া এক বিন্দুও ফেরাতে পারে না, নয়তো উপাসক এতই দুর্বল যে ভালোভাবে বেছে নিতে পারেনি। 'মাতলূব' শব্দটি কুরআনে আর কোথাও আসেনি।"
+            "bn": "অনুবাদকেরা কেউ এক ব্যাখ্যা ধরেন, কেউ অন্যটা; তাই এই অংশের অনুবাদ একেক জায়গায় একেক রকম। রায় নিয়ে দুই ব্যাখ্যার মধ্যে কোনো বিরোধ নেই, তফাত শুধু এখানে যে কোন জুটির দুর্বলতা দেখানো হচ্ছে। হয় উপাস্য এতই দুর্বল যে ছিনিয়ে নেওয়া এক ফোঁটাও ফিরিয়ে আনতে পারে না, নয়তো উপাসক এতই দুর্বল যে ঠিকটা বেছে নিতে পারেনি। 'মাতলূব' শব্দটি কুরআনে আর কোথাও আসেনি।"
           }
         ]
       },
@@ -1701,27 +1701,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "22:74 says what the parable was for: they have not appraised Allah with the appraisal due to Him; indeed Allah is Powerful, Exalted in Might. Ibn Kathir explains it as their failure to recognise His might and power when they set beside Him what cannot even fend off a fly. The same sentence appears in 6:91 against those who said Allah revealed nothing to any human being, and again in 39:67.",
-            "bn": "22:74 বলে দেয় উপমাটি কীসের জন্য ছিল: তারা আল্লাহর যথাযোগ্য মর্যাদা দেয়নি; নিশ্চয়ই আল্লাহ শক্তিমান, মহাপরাক্রমশালী। ইবনে কাসীর এর ব্যাখ্যায় বলেন, তারা তাঁর শক্তি ও ক্ষমতা চিনতে পারেনি, তাই তাঁর পাশে এমন কিছুকে বসিয়েছে যা একটি মাছিকেও ঠেকাতে পারে না। একই বাক্য এসেছে 6:91-এ তাদের বিরুদ্ধে যারা বলেছিল আল্লাহ কোনো মানুষের ওপর কিছুই নাযিল করেননি, আর এসেছে 39:67-এও।"
+            "bn": "উপমাটা কেন দেওয়া হলো, ২২:৭৪ তা বলে দেয়: তারা আল্লাহর যথাযোগ্য কদর করেনি; নিশ্চয়ই আল্লাহ শক্তিমান, মহাপরাক্রমশালী। ইবনে কাসীর এর ব্যাখ্যা দিয়েছেন এভাবে: যা একটা মাছিকেও ঠেকাতে পারে না, তাকে যখন তারা তাঁর পাশে বসায়, তখন বোঝা যায় তারা তাঁর শক্তি ও ক্ষমতা চিনতেই পারেনি। ঠিক এই বাক্যটি ৬:৯১-এও এসেছে, তাদের ব্যাপারে যারা বলেছিল আল্লাহ কোনো মানুষের ওপর কিছুই নাজিল করেননি। আবার এসেছে ৩৯:৬৭-এ।"
           },
           {
             "en": "This reframes the whole example. What is being diagnosed is not superstition about statues; it is an estimate of Allah that has been allowed to shrink until something else could plausibly stand next to Him. Correcting it is therefore not mainly a matter of despising the idol. It is a matter of enlarging what one believes about Allah until nothing available is even a candidate for the comparison.",
-            "bn": "এতে গোটা উদাহরণটির কাঠামোই বদলে যায়। এখানে রোগ নির্ণয় করা হচ্ছে মূর্তি নিয়ে কুসংস্কারের নয়; বরং আল্লাহ সম্পর্কে এমন এক ধারণার, যা ছোট হতে হতে এমন জায়গায় পৌঁছেছে যে অন্য কিছুকে তাঁর পাশে বসানো সম্ভব মনে হয়েছে। তাই এর সংশোধন মূলত মূর্তিকে তুচ্ছ জ্ঞান করা নয়। বরং আল্লাহ সম্পর্কে নিজের ধারণাকে এতটা বড় করা, যতক্ষণ না তুলনার জন্য কোনো প্রতিদ্বন্দ্বীই আর অবশিষ্ট থাকে।"
+            "bn": "এতে পুরো উদাহরণটাই নতুন চোখে দেখা যায়। এখানে যে দোষ ধরা হচ্ছে, তা মূর্তি নিয়ে কুসংস্কার নয়। দোষটা হলো আল্লাহ সম্পর্কে এমন এক ধারণা, যাকে ছোট হতে দেওয়া হয়েছে; ছোট হতে হতে তা এমন জায়গায় পৌঁছেছে যে অন্য কিছুকেও তাঁর পাশে দাঁড় করানো যায় বলে মনে হয়। তাই এর সংশোধন মূলত মূর্তিকে তুচ্ছ করা নয়। আসল কাজ হলো আল্লাহ সম্পর্কে নিজের ধারণাকে এত বড় করা যে তুলনায় দাঁড়ানোর মতো কিছুই আর হাতের কাছে না থাকে।"
           }
         ]
       },
       {
         "h": {
           "en": "Running the Test",
-          "bn": "পরীক্ষাটি চালানো"
+          "bn": "পরীক্ষাটা করে দেখুন"
         },
         "p": [
           {
             "en": "Applied honestly, the parable is a test of fear as much as of worship. Ask what you would not risk displeasing, what you check before you check the prayer times, whose disapproval quietly reorganises a decision. Then put the verse's question to that thing: could it make a fly, and could it get one back. The answer is known before the question finishes, which is why so small a creature was chosen.",
-            "bn": "সততার সঙ্গে প্রয়োগ করলে উপমাটি ইবাদতের যতটা, ভয়েরও ততটাই পরীক্ষা। নিজেকে জিজ্ঞেস করুন: কাকে অসন্তুষ্ট করার ঝুঁকি আপনি নেন না, নামাযের সময়সূচি দেখার আগে আপনি কী দেখেন, কার অসম্মতি নিঃশব্দে আপনার সিদ্ধান্ত বদলে দেয়। এরপর সেই জিনিসটির কাছে আয়াতের প্রশ্নটি রাখুন: এটি কি একটি মাছি বানাতে পারবে, আর একটি মাছির কাছ থেকে কিছু ফেরাতে পারবে? প্রশ্ন শেষ হওয়ার আগেই উত্তর জানা হয়ে যায় — এত ক্ষুদ্র একটি প্রাণী বেছে নেওয়ার কারণ এটিই।"
+            "bn": "সৎভাবে খাটালে উপমাটা যতটা ইবাদতের পরীক্ষা, ততটাই ভয়ের। নিজেকে জিজ্ঞেস করুন: কাকে নাখোশ করার ঝুঁকি আপনি কিছুতেই নেবেন না? নামাজের সময় দেখার আগে আপনি কী দেখে নেন? কার অপছন্দ চুপচাপ আপনার সিদ্ধান্ত ঘুরিয়ে দেয়? তারপর সেই জিনিসের সামনে আয়াতের প্রশ্নটা রাখুন: সে কি একটা মাছি বানাতে পারবে? মাছির কাছ থেকে কিছু ফিরিয়ে আনতে পারবে? প্রশ্ন শেষ হওয়ার আগেই উত্তর জানা হয়ে যায়। এত ছোট একটা প্রাণী বেছে নেওয়ার কারণ এটাই।"
           },
           {
             "en": "The relief in this is real rather than rhetorical. Powers that frighten people — an employer, a market, a hostile crowd, a reputation — are placed by the verse on the losing side of a contest with an insect. Nothing in it asks a reader to pretend those powers are harmless. It asks him to price them correctly, and to keep the awe he was spending on them for the One actually owed it.",
-            "bn": "এতে যে স্বস্তি, তা কেবল কথার কথা নয়, সত্যিকারের। যেসব শক্তি মানুষকে ভয় দেখায় — চাকরিদাতা, বাজার, বৈরী জনতা, সুনাম — আয়াতটি সেগুলোকে বসিয়ে দেয় একটি পোকার সঙ্গে প্রতিযোগিতায় পরাজিত পক্ষে। আয়াতটি পাঠককে এ ভান করতে বলে না যে ওই শক্তিগুলো নিরীহ। এটি বলে সেগুলোর দাম ঠিকভাবে নির্ধারণ করতে, আর সেগুলোর পেছনে যে সম্ভ্রম ব্যয় হচ্ছিল তা জমিয়ে রাখতে তাঁরই জন্য, যিনি প্রকৃতপক্ষে তার হকদার।"
+            "bn": "এই স্বস্তি কথার কথা নয়, সত্যি। মানুষ নানা শক্তিকে ভয় পায়: চাকরিদাতা, বাজার, বিরূপ জনতা, সুনাম। আয়াতটি এদের সবাইকে বসিয়ে দেয় একটা পোকার সঙ্গে লড়াইয়ে হেরে যাওয়া পক্ষে। ওই শক্তিগুলো নিরীহ, এমন ভান করতে আয়াতটি পাঠককে বলে না। বলে তাদের ঠিক দাম কষতে, আর তাদের পেছনে যে ভয়-সম্ভ্রম খরচ হচ্ছিল, তা তুলে রাখতে সেই একজনের জন্য, যিনি সত্যিই এর হকদার।"
           }
         ]
       }
