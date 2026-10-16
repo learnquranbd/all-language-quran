@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the commentators fetched for 86:6 itself draws a scientific claim out of these four words, and this article adds none of its own. They explain a word, its grammar and whose water it is, in a line or two each, and stop. Nor does any of them attach a hadith of the Prophet ﷺ to this verse. The narrations in Ibn Kathir's grouped comment concern reciting the surah, the word tariq and the Day of 86:9, not this verse, and none is used here.",
-            "bn": "৮৬:৬ আয়াতের জন্য যে মুফাসসিরদের লেখা আনা হয়েছে, তাঁদের কেউ এই চার শব্দ থেকে কোনো বৈজ্ঞানিক দাবি বের করেন না। এ লেখাও নিজের থেকে তেমন কিছু যোগ করে না। তাঁরা এই চারটি শব্দের একটির অর্থ, তার ব্যাকরণ আর পানিটা কার, এটুকু এক-দুই লাইনে বলেন, তারপর থামেন। এ আয়াতের সঙ্গে তাঁদের কেউ নবী ﷺ-এর কোনো হাদীসও জুড়ে দেননি। ইবন কাসীরের সম্মিলিত আলোচনায় যে বর্ণনাগুলো আছে, সেগুলো সূরাটি তিলাওয়াত, তারিক শব্দটি আর ৮৬:৯ আয়াতের দিনটি নিয়ে, এ আয়াত নিয়ে নয়। তাই এখানে কোনোটাই নেওয়া হয়নি।"
+            "bn": "৮৬:৬ আয়াতের জন্য যে মুফাসসিরদের লেখা আনা হয়েছে, তাঁদের কেউ এই চার শব্দ থেকে কোনো বৈজ্ঞানিক দাবি বের করেন না। এ লেখাও নিজের থেকে তেমন কিছু যোগ করে না। তাঁরা এই চারটি শব্দের একটির অর্থ, তার ব্যাকরণ আর পানিটা কার, এটুকু এক-দুই লাইনে বলেন, তারপর থামেন। এ আয়াতের সঙ্গে তাঁদের কেউ নবী ﷺ-এর কোনো হাদিসও জুড়ে দেননি। ইবন কাসীরের সম্মিলিত আলোচনায় যে বর্ণনাগুলো আছে, সেগুলো সূরাটি তিলাওয়াত, তারিক শব্দটি আর ৮৬:৯ আয়াতের দিনটি নিয়ে, এ আয়াত নিয়ে নয়। তাই এখানে কোনোটাই নেওয়া হয়নি।"
           }
         ]
       },
@@ -245,7 +245,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "There is a lesson in the commentators' manner as well as their content. They speak of the human beginning without embarrassment and without excess. As-Sa'di needs one word. The others name the fluid, the womb and the two parents, and then turn to grammar. That is a model for speaking of the body at all: plainly, briefly and honestly, neither coarse nor evasive. The verse is Allah's own speech, recited in prayer, and nothing in it is shameful to say aloud.",
-            "bn": "মুফাসসিররা কী বলেন, তাতে যেমন শিক্ষা আছে, কীভাবে বলেন, তাতেও আছে। মানুষের শুরুর কথা তাঁরা বলেন লজ্জা ছাড়া, বাড়াবাড়িও ছাড়া। সা'দীর লেগেছে একটিমাত্র শব্দ। অন্যরা পানি, জরায়ু আর বাবা-মা দুজনের কথা বলে ব্যাকরণে চলে যান। শরীর নিয়ে কথা বলার এটাই নমুনা: সোজাসুজি, সংক্ষেপে, সততার সঙ্গে। অশালীনও নয়, এড়িয়ে যাওয়াও নয়। আয়াতটা আল্লাহর নিজের কালাম, নামাযে তিলাওয়াত হয়। এর কোনো কথাই মুখে আনতে লজ্জার নয়।"
+            "bn": "মুফাসসিররা কী বলেন, তাতে যেমন শিক্ষা আছে, কীভাবে বলেন, তাতেও আছে। মানুষের শুরুর কথা তাঁরা বলেন লজ্জা ছাড়া, বাড়াবাড়িও ছাড়া। সা'দীর লেগেছে একটিমাত্র শব্দ। অন্যরা পানি, জরায়ু আর বাবা-মা দুজনের কথা বলে ব্যাকরণে চলে যান। শরীর নিয়ে কথা বলার এটাই নমুনা: সোজাসুজি, সংক্ষেপে, সততার সঙ্গে। অশালীনও নয়, এড়িয়ে যাওয়াও নয়। আয়াতটা আল্লাহর নিজের কালাম, নামাজে তিলাওয়াত হয়। এর কোনো কথাই মুখে আনতে লজ্জার নয়।"
           },
           {
             "en": "And the verse still answers pride. Whatever a person has since made of himself, the honest answer to 'from what?' is these four words, given without ornament. The fitting response is not shame, since the Qur'an itself names this beginning, but a quieter estimate of oneself. Whoever was poured, or came in a rush he did not command, is in no position to call himself self-made. What remains is thanks to the Maker who formed him.",
@@ -357,7 +357,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tirmidhi comments on its standing himself. In the Arabic on that page he says it is gharib, known only through Hamzah az-Zayyat, that its chain is majhul, unknown, and that there is criticism concerning al-Harith. The page's English omits that verdict, and the English text of the narration runs to nearly 300 words, so it is not quoted here rather than quoted in part. It is a general narration about the Qur'an, not tied to this verse, and no fetched commentary attaches a sound hadith to 86:13.",
-            "bn": "তিরমিযী নিজেই এর মান নিয়ে মন্তব্য করেছেন। ওই পাতার আরবি পাঠে তিনি বলেন, বর্ণনাটি গরীব, হামযা আয-যাইয়াতের সূত্র ছাড়া এটি জানা যায় না। এর সনদ মাজহুল, অর্থাৎ অজ্ঞাত, আর হারিসের ব্যাপারে আপত্তি আছে। পাতার ইংরেজি অংশে এই রায় নেই। বর্ণনাটির ইংরেজি পাঠ প্রায় ৩০০ শব্দের, তাই আংশিক উদ্ধৃতি না দিয়ে এখানে তা উদ্ধৃতই করা হলো না। এটি কুরআন সম্পর্কে একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। সংগৃহীত কোনো তাফসীর ৮৬:১৩ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+            "bn": "তিরমিযী নিজেই এর মান নিয়ে মন্তব্য করেছেন। ওই পাতার আরবি পাঠে তিনি বলেন, বর্ণনাটি গরীব, হামযা আয-যাইয়াতের সূত্র ছাড়া এটি জানা যায় না। এর সনদ মাজহুল, অর্থাৎ অজ্ঞাত, আর হারিসের ব্যাপারে আপত্তি আছে। পাতার ইংরেজি অংশে এই রায় নেই। বর্ণনাটির ইংরেজি পাঠ প্রায় ৩০০ শব্দের, তাই আংশিক উদ্ধৃতি না দিয়ে এখানে তা উদ্ধৃতই করা হলো না। এটি কুরআন সম্পর্কে একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। সংগৃহীত কোনো তাফসীর ৮৬:১৩ আয়াতের সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি।"
           }
         ]
       },
