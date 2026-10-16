@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first verse of Sūrat ash-Shuʿarāʾ is written and recited as three letters standing alone: Ṭā, Sīn, Mīm. It is not a word or a sentence you can translate; it is the naming of three of the letters of the alphabet, sounded out one by one. Some 29 sūrahs of the Qur'an open this way, with letters the commentators call the ḥurūf muqaṭṭaʿāt, the disconnected letters. Ibn Kathir begins his comment on this verse by noting that the scholars have long differed over these openings, and that the difference is old and honestly held.",
-            "bn": "সূরা আশ-শুআরার প্রথম আয়াতটি লেখা ও তিলাওয়াত হয় আলাদা করে দাঁড়ানো তিনটি হরফ হিসেবে: ত্ব, সীন, মীম। এটি কোনো শব্দ বা বাক্য নয় যার অনুবাদ করা যায়, বরং বর্ণমালার তিনটি হরফের নাম, একটি একটি করে উচ্চারিত। কুরআনের ২৯টি সূরা এভাবেই শুরু হয়, যে হরফগুলোকে তাফসীরকারেরা বলেন হুরুফে মুকাত্তাআত, বিচ্ছিন্ন হরফ। ইবন কাসীর এ আয়াতের আলোচনা শুরুই করেন এ কথা বলে যে, এই সূচনাগুলো নিয়ে আলিমদের মধ্যে বহু আগে থেকেই মতভেদ আছে, আর সে মতভেদ পুরনো ও সৎভাবে ধরে রাখা।"
+            "bn": "সূরা আশ-শুআরার প্রথম আয়াতটি লেখা হয়, তিলাওয়াতও হয় আলাদা আলাদা তিনটি হরফ হিসেবে: ত্ব, সীন, মীম। এটা অনুবাদ করার মতো কোনো শব্দ বা বাক্য নয়। এ হলো বর্ণমালার তিনটি হরফের নাম, একটা একটা করে উচ্চারণ করা। কুরআনের ২৯টি সূরা এভাবে শুরু হয়েছে। তাফসীরকারেরা এই হরফগুলোকে বলেন হুরুফে মুকাত্তাআত, অর্থাৎ বিচ্ছিন্ন হরফ। ইবন কাসীর এ আয়াতের আলোচনা শুরুই করেন এই কথা বলে: এই সূচনাগুলো নিয়ে আলিমদের মতভেদ বহু পুরনো, আর সে মতভেদ সৎ নিয়তের।"
           },
           {
             "en": "Al-Muyassar, the plainest of the tafsirs, says only that the discussion of the disconnected letters was already given at the start of Sūrat al-Baqara, and moves on. That restraint is itself a lesson. The verse invites two very different responses. One reaches at once for a decoding, a hidden message under the letters. The other pauses, weighs what can honestly be known, and is willing to leave a thing with the One who sent it down. This article follows the second road, because it is the one the earliest readers of the Book walked.",
-            "bn": "তাফসীরগুলোর মধ্যে সবচেয়ে সাদামাটা মুয়াসসার শুধু বলে, বিচ্ছিন্ন হরফ নিয়ে আলোচনা সূরা বাকারার শুরুতেই দেওয়া হয়েছে, এরপর আর দাঁড়ায় না। এই সংযমটাই একটা শিক্ষা। আয়াতটি দুটি একেবারে ভিন্ন সাড়ার ডাক দেয়। একটি সঙ্গে সঙ্গে হরফের নিচে লুকানো কোনো গোপন বার্তার খোঁজে হাত বাড়ায়। অন্যটি থামে, সৎভাবে কী জানা সম্ভব তা মাপে, আর জিনিসটাকে যিনি নাজিল করেছেন তাঁর কাছে রেখে দিতে রাজি থাকে। এই লেখা দ্বিতীয় পথটাই ধরে, কারণ কিতাবের প্রথম যুগের পাঠকেরা এ পথেই হেঁটেছেন।"
+            "bn": "তাফসীরগুলোর মধ্যে সবচেয়ে সহজ-সরল মুয়াসসার শুধু এটুকু বলে: বিচ্ছিন্ন হরফ নিয়ে আলোচনা সূরা বাকারার শুরুতেই হয়ে গেছে। এরপর আর দাঁড়ায় না। এই সংযমটাই একটা শিক্ষা। আয়াতটির সামনে মানুষ দুইভাবে দাঁড়াতে পারে, আর দুটো একেবারে আলাদা। একজন সঙ্গে সঙ্গে রহস্য ভেদ করতে নামে, হরফের নিচে লুকানো কোনো গোপন বার্তা খোঁজে। আরেকজন থামে, সত্যিই কতটুকু জানা সম্ভব তা মেপে দেখে, আর যিনি নাজিল করেছেন বিষয়টা তাঁর কাছেই রেখে দিতে রাজি থাকে। এই লেখা দ্বিতীয় পথটাই ধরেছে, কারণ কিতাবের প্রথম যুগের পাঠকেরা এ পথেই হেঁটেছেন।"
           }
         ]
       },
@@ -37,15 +37,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Saʿdi states the safest position in a single sentence. On the disconnected letters at the openings of the sūrahs, he writes, the soundest course is to refrain from asserting a meaning for them without a legal proof, while holding with certainty that Allah did not send them down in vain, but for a wisdom we do not know. That is the whole of it: not that there is no meaning, but that the meaning is real and it is His. Certainty about God's purpose, and silence about its content.",
-            "bn": "সবচেয়ে নিরাপদ অবস্থানটি সাদী এক বাক্যে বলে দেন। সূরার শুরুর বিচ্ছিন্ন হরফ সম্পর্কে তিনি লেখেন, শরিয়তের দলিল ছাড়া এগুলোর অর্থ নির্ধারণ থেকে বিরত থাকাই সবচেয়ে নিরাপদ, তবে এ ব্যাপারে নিশ্চিত থাকতে হবে যে আল্লাহ এগুলো অনর্থক নাজিল করেননি, বরং এমন এক হিকমতের জন্য যা আমরা জানি না। মূল কথা এটুকুই: অর্থ নেই তা নয়, বরং অর্থ সত্যিকারের আছে আর তা তাঁরই কাছে। আল্লাহর উদ্দেশ্য নিয়ে নিশ্চয়তা, আর তার বিষয়বস্তু নিয়ে নীরবতা।"
+            "bn": "সবচেয়ে নিরাপদ অবস্থানটি সাদী এক বাক্যে বলে দেন। সূরার শুরুর বিচ্ছিন্ন হরফ সম্পর্কে তিনি লেখেন, শরিয়তের দলিল ছাড়া এগুলোর অর্থ নির্ধারণ থেকে বিরত থাকাই সবচেয়ে নিরাপদ, তবে এ ব্যাপারে নিশ্চিত থাকতে হবে যে আল্লাহ এগুলো অনর্থক নাজিল করেননি, বরং এমন এক হিকমতের জন্য যা আমরা জানি না। কথা এটুকুই: অর্থ নেই, ব্যাপারটা তা নয়; অর্থ সত্যিই আছে, আর তা আল্লাহর কাছে। আল্লাহর উদ্দেশ্য যে আছে তাতে দৃঢ় বিশ্বাস, আর সে উদ্দেশ্য কী, তা নিয়ে চুপ থাকা।"
           },
           {
             "en": "Ibn Kathir reports that this was the road of the first and greatest. He relates from al-Qurtubi that the meaning of these letters was referred back to Allah's knowledge, and not interpreted, by Abu Bakr, ʿUmar, ʿUthmān, ʿAlī and Ibn Masʿūd (may Allah be pleased with them), and that ʿĀmir ash-Shaʿbī, Sufyān ath-Thawrī and ar-Rabīʿ ibn Khuthaym said the same. Al-Baghawī adds a report through ʿIkrima from Ibn ʿAbbās that the scholars were unable to interpret these letters. Naming that company is not an excuse for laziness; it is a discipline.",
-            "bn": "ইবন কাসীর জানান, এটাই ছিল প্রথম যুগের বড় বড় মানুষের পথ। তিনি কুরতুবী থেকে বর্ণনা করেন যে এই হরফের অর্থ আল্লাহর জ্ঞানের কাছে সঁপে দিয়ে তাফসীর না করেই ছেড়ে দিয়েছেন আবু বকর, উমর, উসমান, আলী ও ইবন মাসউদ (রাঃ), আর একই কথা বলেছেন শাবী, সুফইয়ান সাওরী ও রাবী ইবন খুসাইম। বাগাভী ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে যোগ করেন যে আলিমরা এই হরফের তাফসীর করতে অক্ষম হয়েছেন। এত বড় দলের নাম নেওয়া অলসতার অজুহাত নয়, বরং একটা অনুশাসন।"
+            "bn": "ইবন কাসীর জানান, প্রথম যুগের শ্রেষ্ঠ মানুষেরা এই পথেই চলেছেন। তিনি কুরতুবী থেকে বর্ণনা করেন: আবু বকর, উমর, উসমান, আলী ও ইবন মাসউদ (রাঃ) এই হরফগুলোর তাফসীর করেননি, অর্থটা আল্লাহর জ্ঞানের ওপর ছেড়ে দিয়েছেন। শাবী, সুফইয়ান সাওরী ও রাবী ইবন খুসাইমও একই কথা বলেছেন। বাগাভী ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা যোগ করেন: আলিমরা এই হরফগুলোর তাফসীর করতে পারেননি। এত বড় বড় মানুষের নাম নেওয়া অলসতার অজুহাত নয়, এটা নিজেকে সংযত রাখার শিক্ষা।"
           },
           {
             "en": "This places the muqaṭṭaʿāt among the mutashābihāt, the verses whose full meaning is left with God. Ibn Kathir gathers the whole matter into one posture: there is no doubt Allah did not reveal these letters in vain, so they carry a meaning; if something authentic reaches us from the Messenger ﷺ about them, we say it, and if not, we stop where we stopped and say, We believe in it; all of it is from our Lord — the very words the Qur'an teaches for the ambiguous verses in 3:7.",
-            "bn": "এতে বিচ্ছিন্ন হরফ পড়ে মুতাশাবিহের কাতারে, অর্থাৎ সেসব আয়াত যাদের পূর্ণ অর্থ আল্লাহর কাছে রাখা। ইবন কাসীর গোটা বিষয়টিকে একটি অবস্থানে জড়ো করেন: সন্দেহ নেই আল্লাহ এই হরফ অনর্থক নাজিল করেননি, তাই এর অর্থ আছে। রাসূল ﷺ থেকে যদি এ ব্যাপারে বিশুদ্ধ কিছু আমাদের কাছে পৌঁছায়, আমরা তা বলি; না পৌঁছালে যেখানে থেমেছি সেখানেই থামি আর বলি, আমরা এতে ঈমান আনলাম, সবই আমাদের রবের কাছ থেকে। এ তো ঠিক সেই কথা যা কুরআন মুতাশাবিহ আয়াতের জন্য ৩:৭ আয়াতে শেখায়।"
+            "bn": "এতে বিচ্ছিন্ন হরফ পড়ে মুতাশাবিহের কাতারে, অর্থাৎ সেসব আয়াত, যেগুলোর পুরো অর্থ আল্লাহর কাছে। ইবন কাসীর পুরো বিষয়টা এক কথায় গুছিয়ে বলেন: আল্লাহ যে এই হরফ অনর্থক নাজিল করেননি তাতে সন্দেহ নেই, তাই এর অর্থ আছে। রাসূল ﷺ থেকে এ ব্যাপারে সহীহ কিছু আমাদের কাছে পৌঁছালে আমরা তা বলি; না পৌঁছালে সেখানেই থেমে যাই আর বলি, আমরা এতে ঈমান এনেছি, সবই আমাদের রবের কাছ থেকে। কুরআন ৩:৭ আয়াতে মুতাশাবিহ আয়াতের বেলায় ঠিক এই কথাই শেখায়।"
           }
         ]
       },
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Within that humility, the commentators still recorded the readings people offered, and they kept them as views, not verdicts. At-Tabari relates from Ibn ʿAbbās that Ṭā-Sīn-Mīm is an oath by which Allah swore, and that it is one of the names of Allah; and from Qatāda that it is a name among the names of the Qur'an. Al-Baghawī and al-Qurtubi carry the same two readings, and add from Mujāhid that it is a name of the sūrah. None of the three is presented as the settled meaning of the verse.",
-            "bn": "এই বিনয়ের ভেতরেও তাফসীরকারেরা মানুষের পেশ করা পাঠগুলো লিখে রেখেছেন, আর রেখেছেন মত হিসেবে, রায় হিসেবে নয়। তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে ত্ব-সীন-মীম একটি কসম যা দিয়ে আল্লাহ শপথ করেছেন, আর এটি আল্লাহর নামগুলোর একটি; আর কাতাদা থেকে বলেন যে এটি কুরআনের নামগুলোর একটি নাম। বাগাভী ও কুরতুবী একই দুটি পাঠ আনেন, আর মুজাহিদ থেকে যোগ করেন যে এটি সূরাটির নাম। তিনটির একটিকেও আয়াতের চূড়ান্ত অর্থ বলে দাঁড় করানো হয়নি।"
+            "bn": "এই বিনয় বজায় রেখেও তাফসীরকারেরা মানুষের দেওয়া ব্যাখ্যাগুলো লিখে রেখেছেন, তবে রেখেছেন মত হিসেবে, রায় হিসেবে নয়। তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, ত্ব-সীন-মীম দিয়ে আল্লাহ কসম করেছেন, আর এটি আল্লাহর নামগুলোর একটি। কাতাদা থেকে বর্ণনা করেন, এটি কুরআনের নামগুলোর একটি। বাগাভী ও কুরতুবীও এই দুই ব্যাখ্যা আনেন, আর মুজাহিদ থেকে যোগ করেন যে এটি সূরাটির নাম। এই তিনটির কোনোটিকেই আয়াতের চূড়ান্ত অর্থ বলে দাবি করা হয়নি।"
           },
           {
             "en": "Al-Qurtubi lays the range out side by side. On the oath reading he notes that Ibn ʿAbbās took the thing sworn to be the words that follow shortly after, If We willed, We could send down to them from the sky a sign (26:4). He records ar-Rabīʿ reading the letters as a reckoning of a people's term, and another view that they name a calamity that befalls a people. Where two readings genuinely differ, al-Qurtubi does not force a choice; he reports the disagreement as a disagreement and leaves it standing.",
@@ -65,27 +65,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The commentators also note that these particular letters gave a group of sūrahs a shared name. Al-Qurtubi and al-Baghawī call them the Ṭawāsīn. Az-Zamakhshari, as Ibn Kathir relays, held that the letters as names of the sūrahs is the reading most agree upon, and even cited the grammarian Sibawayh for it. Ibn Kathir himself observes that a single letter's standing for a name is not something the mind can settle on its own; it can only be known if it is transmitted, and here nothing binding was transmitted from the Messenger ﷺ.",
-            "bn": "তাফসীরকারেরা এ-ও জানান যে এই বিশেষ হরফগুলো একগুচ্ছ সূরাকে একটা মিলিত নাম দিয়েছে। কুরতুবী ও বাগাভী এগুলোকে বলেন তাওয়াসীন। ইবন কাসীরের বর্ণনায় জামাখশারী মনে করতেন, সূরার নাম হিসেবে হরফ ধরাই বেশিরভাগের কাছে গ্রহণযোগ্য পাঠ, আর এর জন্য তিনি ব্যাকরণবিদ সীবাওয়াই পর্যন্ত উদ্ধৃত করেন। ইবন কাসীর নিজে খেয়াল করান যে একটিমাত্র হরফ কোনো নামের প্রতিনিধিত্ব করছে, এটা বুদ্ধি নিজে থেকে ঠিক করতে পারে না; তা কেবল বর্ণনার মাধ্যমেই জানা যায়, আর এখানে রাসূল ﷺ থেকে বাধ্যকর কিছু বর্ণিত হয়নি।"
+            "bn": "তাফসীরকারেরা এ-ও জানান যে এই বিশেষ হরফগুলো একগুচ্ছ সূরাকে একটা মিলিত নাম দিয়েছে। কুরতুবী ও বাগাভী এগুলোকে বলেন তাওয়াসীন। ইবন কাসীরের বর্ণনায় জামাখশারী মনে করতেন, সূরার নাম হিসেবে হরফ ধরাই বেশিরভাগের কাছে গ্রহণযোগ্য পাঠ, আর এর জন্য তিনি ব্যাকরণবিদ সীবাওয়াই পর্যন্ত উদ্ধৃত করেন। ইবন কাসীর নিজে মনে করিয়ে দেন, একটা হরফ কোনো নামের জায়গায় বসেছে কি না, তা বুদ্ধি খাটিয়ে ঠিক করা যায় না। এটা জানা যায় কেবল বর্ণনা থেকে, আর এখানে রাসূল ﷺ থেকে মানতে বাধ্য করার মতো কিছু বর্ণিত হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "Letters No One Could Match",
-          "bn": "যে হরফের সমকক্ষ কেউ পারেনি"
+          "bn": "যে হরফের জুড়ি মেলেনি"
         },
         "p": [
           {
             "en": "Alongside the question of what the letters mean, the commentators asked a second question: why place them here at all? Ibn Kathir lists the answers and weighs them. Some said the letters simply mark the beginnings of sūrahs; he calls this weak, since the sūrahs are already set apart. Others said they were sounded to catch the ears of the idolaters, who had agreed to turn away from the Qur'an; he weakens this too, since most sūrahs do not open this way, and two such sūrahs are Madinan and not addressed to those idolaters.",
-            "bn": "হরফের অর্থ কী, সেই প্রশ্নের পাশাপাশি তাফসীরকারেরা দ্বিতীয় একটি প্রশ্ন করেন: এগুলো এখানে রাখা হলো কেন। ইবন কাসীর উত্তরগুলো সাজান আর মেপে দেখেন। কেউ বলেছেন হরফগুলো কেবল সূরার শুরু চিহ্নিত করে; তিনি একে দুর্বল বলেন, কারণ সূরাগুলো এমনিতেই আলাদা করা আছে। কেউ বলেছেন যেসব মুশরিক কুরআন থেকে মুখ ফিরিয়ে নিতে একে অপরকে বলাবলি করত, তাদের কান টানতেই হরফগুলো উচ্চারিত হয়েছে; এটিকেও তিনি দুর্বল করেন, কারণ বেশিরভাগ সূরা এভাবে শুরু হয় না, আর এমন দুটি সূরা মাদানী, ঐ মুশরিকদের সম্বোধন নয়।"
+            "bn": "হরফগুলোর অর্থ কী, এই প্রশ্নের পাশাপাশি তাফসীরকারেরা আরেকটা প্রশ্নও তুলেছেন: এগুলো এখানে রাখা হলো কেন? ইবন কাসীর উত্তরগুলো একে একে এনে যাচাই করেন। কেউ বলেছেন, হরফগুলো কেবল সূরার শুরু বোঝায়। তিনি একে দুর্বল বলেন, কারণ সূরাগুলো এমনিতেই আলাদা করা আছে। কেউ বলেছেন, মুশরিকরা কুরআন থেকে মুখ ফিরিয়ে রাখতে একজোট হয়েছিল, তাই তাদের কান খাড়া করাতেই এই ধ্বনিগুলো শোনানো হয়েছে। এটিকেও তিনি দুর্বল বলেন, কারণ বেশিরভাগ সূরা এভাবে শুরু হয় না, আর এমন দুটি সূরা মাদানী, যেগুলোতে ওই মুশরিকদের সম্বোধন করা হয়নি।"
           },
           {
             "en": "The reading Ibn Kathir judges strongest is the challenge, the taḥaddī. These letters are placed at the head of a sūrah to declare the inability of all creation to produce its like — and to declare it pointedly, because the Qur'an is built from these very letters, the ordinary alphabet the Arabs speak to one another. Ibn Kathir traces this reading to al-Mubarrad and a group of the verifying scholars, to al-Farrāʾ and Quṭrub, to az-Zamakhshari who defended it fully, and to Ibn Taymiyya. The material is theirs; the arrangement is beyond them.",
-            "bn": "ইবন কাসীর যে পাঠকে সবচেয়ে শক্তিশালী মনে করেন, তা হলো চ্যালেঞ্জ, তাহাদ্দী। এই হরফগুলো সূরার মাথায় রাখা হয়েছে গোটা সৃষ্টির অক্ষমতা ঘোষণা করতে, যে তারা এর মতো একটি আনতে পারবে না। আর ঘোষণাটা মোক্ষম, কারণ কুরআন গড়া এই হরফগুলো দিয়েই, সেই সাধারণ বর্ণমালা দিয়ে যা আরবরা একে অপরের সঙ্গে কথা বলতে ব্যবহার করে। ইবন কাসীর এই পাঠের সূত্র ধরেন মুবাররাদ ও একদল যাচাইকারী আলিম, ফাররা ও কুতরুব, জামাখশারী যিনি একে পুরোপুরি সমর্থন করেছেন, আর ইবন তাইমিয়া পর্যন্ত। কাঁচামাল তাদেরই, সাজানোটা তাদের নাগালের বাইরে।"
+            "bn": "ইবন কাসীরের মতে সবচেয়ে শক্তিশালী ব্যাখ্যা হলো চ্যালেঞ্জ, অর্থাৎ তাহাদ্দী। সূরার শুরুতে এই হরফগুলো রাখা হয়েছে এটা জানিয়ে দিতে যে গোটা সৃষ্টি মিলেও এর মতো কিছু আনতে পারবে না। আর এই ঘোষণা খুব মোক্ষম, কারণ কুরআন গড়া এই হরফগুলো দিয়েই, আরবরা রোজ যে সাধারণ বর্ণমালায় একে অপরের সঙ্গে কথা বলে, সেটা দিয়েই। ইবন কাসীর জানান, এই ব্যাখ্যা দিয়েছেন মুবাররাদ ও একদল মুহাক্কিক আলিম, ফাররা ও কুতরুব, জামাখশারী, যিনি জোরালোভাবে এর পক্ষে দাঁড়িয়েছেন, আর ইবন তাইমিয়া। উপকরণ তাদের হাতেই, কিন্তু সাজানোটা তাদের সাধ্যের বাইরে।"
           },
           {
             "en": "The pattern supports it. Ibn Kathir points out that every sūrah opened with these letters goes on to speak of the Qur'an, its vindication and its greatness — something known by surveying all 29 of them. So it is in Alif Lām Mīm. That is the Book, no doubt in it (2:1 and 2:2), and so it is here, where the letters are followed at once by These are the verses of the clear Book (26:2). The disconnected letters and the claim of the Book stand together: sounds you can pronounce, arranged into what you cannot equal.",
-            "bn": "ধরনটাই এর সমর্থন দেয়। ইবন কাসীর দেখান যে এই হরফ দিয়ে শুরু হওয়া প্রতিটি সূরাই এরপর কুরআনের কথা বলে, তার প্রমাণ ও মহত্ত্বের কথা বলে, আর এটা ২৯টি সূরা মিলিয়ে দেখলেই বোঝা যায়। যেমন আছে আলিফ-লাম-মীম। এই সেই কিতাব, যাতে কোনো সন্দেহ নেই (২:১ ও ২:২), আর এখানেও হরফের সঙ্গে সঙ্গেই আসে, এগুলো সুস্পষ্ট কিতাবের আয়াত (২৬:২)। বিচ্ছিন্ন হরফ আর কিতাবের দাবি পাশাপাশি দাঁড়ায়: যে ধ্বনিগুলো আপনি উচ্চারণ করতে পারেন, তা সাজানো হয়েছে এমন কিছুতে যার সমকক্ষ আপনি আনতে পারেন না।"
+            "bn": "সূরাগুলোর ধরনও এর পক্ষে কথা বলে। ইবন কাসীর দেখান, এই হরফ দিয়ে শুরু হওয়া প্রতিটি সূরাই এরপর কুরআনের কথা বলে, এর সত্যতা আর মহত্ত্বের কথা বলে। ২৯টি সূরা মিলিয়ে দেখলেই এটা বোঝা যায়। যেমন আলিফ-লাম-মীম। এই সেই কিতাব, যাতে কোনো সন্দেহ নেই (২:১ ও ২:২)। এখানেও তাই: হরফগুলোর ঠিক পরেই আসে, এগুলো সুস্পষ্ট কিতাবের আয়াত (২৬:২)। বিচ্ছিন্ন হরফ আর কিতাবের দাবি তাই পাশাপাশি দাঁড়িয়ে: ধ্বনিগুলো আপনিও উচ্চারণ করতে পারেন, কিন্তু সেগুলো দিয়ে যা গড়া হয়েছে, তার সমকক্ষ কিছু আপনি আনতে পারবেন না।"
           }
         ]
       },
@@ -97,11 +97,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One sound narration turns these same letters toward the reciter. At-Tirmidhi records from Ibn Masʿūd that the Messenger of Allah ﷺ said, Whoever recites a letter from the Book of Allah, he has a reward for it, and the reward is multiplied ten times over. I do not say that Alif-Lām-Mīm is a letter; rather Alif is a letter, Lām is a letter, and Mīm is a letter. At-Tirmidhi graded this ḥasan ṣaḥīḥ, and it names the very disconnected letters this verse is made of.",
-            "bn": "একটি বিশুদ্ধ বর্ণনা এই একই হরফগুলোকে ফিরিয়ে দেয় পাঠকের দিকে। তিরমিযী ইবন মাসউদ (রাঃ) থেকে বর্ণনা করেন যে রাসূলুল্লাহ ﷺ বলেছেন, যে ব্যক্তি আল্লাহর কিতাব থেকে একটি হরফ পড়ে তার জন্য একটি নেকি, আর সেই নেকি ১০ গুণ বাড়িয়ে দেওয়া হয়। আমি বলি না যে আলিফ-লাম-মীম একটি হরফ; বরং আলিফ একটি হরফ, লাম একটি হরফ, আর মীম একটি হরফ। তিরমিযী একে হাসান সহীহ বলেছেন, আর এতে সেই বিচ্ছিন্ন হরফগুলোরই নাম আসে যা দিয়ে এ আয়াত গড়া।"
+            "bn": "একটি সহীহ বর্ণনা এই হরফগুলোকেই তিলাওয়াতকারীর দিকে ফিরিয়ে আনে। তিরমিযী ইবন মাসউদ (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: যে আল্লাহর কিতাবের একটি হরফ পড়ে, তার জন্য একটি নেকি, আর সেই নেকি ১০ গুণ বাড়িয়ে দেওয়া হয়। আমি বলি না আলিফ-লাম-মীম একটি হরফ; বরং আলিফ একটি হরফ, লাম একটি হরফ, মীম একটি হরফ। তিরমিযী একে হাসান সহীহ বলেছেন। আর এই হাদিসে ঠিক সেই বিচ্ছিন্ন হরফগুলোরই নাম এসেছে, যা দিয়ে এ আয়াত গড়া।"
           },
           {
             "en": "The narration does not decode the meaning of the muqaṭṭaʿāt, and it should not be pressed to do so. What it does is take the letters the challenge is built from and make each one a countable good deed on the tongue of the believer. The alphabet that no one could match in composition becomes, letter by letter, a store of reward in recitation. The same three sounds that silence the challenger enrich the one who simply reads them, expecting nothing in return but the pleasure of their Lord.",
-            "bn": "বর্ণনাটি মুকাত্তাআতের অর্থ খুলে দেয় না, আর তা থেকে জোর করে অর্থ বের করাও ঠিক নয়। এটি যা করে তা হলো, যে হরফ দিয়ে চ্যালেঞ্জটা গড়া, সেগুলোর প্রতিটিকে মুমিনের জিহ্বায় একটি করে গোনা-নেকিতে বদলে দেয়। যে বর্ণমালার সাজানোর সমকক্ষ কেউ আনতে পারেনি, সেটাই হরফে হরফে তিলাওয়াতে জমে ওঠা নেকির ভাণ্ডার হয়ে যায়। যে তিনটি ধ্বনি চ্যালেঞ্জকারীকে চুপ করিয়ে দেয়, সেই তিনটিই তাকে সমৃদ্ধ করে যে বিনিময়ে কেবল রবের সন্তুষ্টির আশায় সেগুলো পড়ে যায়।"
+            "bn": "বর্ণনাটি মুকাত্তাআতের অর্থ খুলে দেয় না, আর এ থেকে সে অর্থ বের করার চেষ্টাও ঠিক নয়। এর কাজ অন্য: যে হরফগুলো দিয়ে চ্যালেঞ্জটা গড়া, তার প্রতিটিকে এটি মুমিনের মুখে একেকটি গুনে রাখা নেকি বানিয়ে দেয়। যে বর্ণমালা সাজিয়ে কেউ এর সমকক্ষ কিছু গড়তে পারেনি, তিলাওয়াতে সেই বর্ণমালাই হরফে হরফে নেকির ভাণ্ডার হয়ে ওঠে। যে তিনটি ধ্বনি চ্যালেঞ্জকারীকে চুপ করিয়ে দেয়, সেই তিনটিই সমৃদ্ধ করে সেই মানুষকে, যে বিনিময়ে আর কিছু না চেয়ে শুধু রবের সন্তুষ্টির আশায় সেগুলো পড়ে যায়।"
           }
         ]
       },
@@ -113,11 +113,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators who preserved the offered views also shut one door firmly. Ibn Kathir writes that whoever claims these letters yield knowledge of hidden durations — the timing of events, trials and battles drawn out by adding up the letters — has claimed what is not his and flown where he does not belong. He notes that the one narration used to prop up such letter-counting is weak, resting on a chain that turns on al-Kalbī, and that the report reads as proof against the method rather than for it.",
-            "bn": "যে তাফসীরকারেরা পেশ করা পাঠগুলো সংরক্ষণ করেছেন, তাঁরাই একটা দরজা শক্ত করে বন্ধ করে দেন। ইবন কাসীর লেখেন, যে দাবি করে এই হরফ থেকে গোপন মেয়াদের জ্ঞান বের হয়, হরফ যোগ করে ঘটনা, ফিতনা ও যুদ্ধের সময় বলে দেওয়া যায়, সে এমন কিছু দাবি করেছে যা তার নয় আর এমন আকাশে উড়েছে যা তার নয়। তিনি জানান, এমন হরফ-গণনার সমর্থনে যে একটিমাত্র বর্ণনা আনা হয় তা দুর্বল, তার সনদ কালবীর উপর ঘোরে, আর বর্ণনাটি পদ্ধতির পক্ষে নয় বরং তার বিরুদ্ধেই দলিল হয়ে দাঁড়ায়।"
+            "bn": "যে তাফসীরকারেরা এসব মত সংরক্ষণ করেছেন, তাঁরাই আবার একটা দরজা শক্ত করে বন্ধ করে দিয়েছেন। ইবন কাসীর লেখেন, কেউ যদি দাবি করে যে এই হরফগুলো থেকে গোপন মেয়াদের খবর জানা যায়, হরফগুলোর হিসাব যোগ করে ঘটনা, ফিতনা আর যুদ্ধের সময় বের করা যায়, তবে সে এমন কিছু দাবি করল যা তার নয়, আর উড়ল এমন আকাশে, যেখানে তার ওড়ার কথা নয়। তিনি জানান, এমন হরফ-গণনার পক্ষে যে একটিমাত্র বর্ণনা আনা হয় তা দুর্বল, এর সনদ কালবীর ওপর নির্ভর করে। তা ছাড়া বর্ণনাটি পড়লে বরং এই পদ্ধতির বিরুদ্ধেই দলিল মনে হয়।"
           },
           {
             "en": "So the road is closed by the very scholars who were most generous with the range of readings. There is a difference between recording that a Companion once read a letter as an oath, and inventing a numerology that forecasts the future from the alphabet. Some later voices even assigned each letter a place-name or a lofty word, and al-Qurtubi lists such attempts; but he lists them as sayings, not as knowledge, and the caution of as-Saʿdi and Ibn Kathir hangs over the whole page. What cannot be transmitted is not to be manufactured.",
-            "bn": "তাই যে আলিমরা পাঠের পরিসর নিয়ে সবচেয়ে উদার ছিলেন, তাঁরাই পথটা বন্ধ করেন। কোনো সাহাবি একবার এক হরফকে কসম হিসেবে পড়েছেন তা লিখে রাখা, আর বর্ণমালা থেকে ভবিষ্যৎ বলে দেওয়া গণনা বানানো, এ দুইয়ের মধ্যে ফারাক আছে। পরের যুগের কেউ কেউ এমনকি প্রতিটি হরফকে কোনো স্থাননাম বা মহিমান্বিত শব্দ ধরিয়ে দিয়েছেন, আর কুরতুবী এমন চেষ্টার তালিকাও দেন; কিন্তু দেন কথা হিসেবে, জ্ঞান হিসেবে নয়। আর গোটা পৃষ্ঠার উপর ঝুলে থাকে সাদী ও ইবন কাসীরের সতর্কতা। যা বর্ণিত হয়নি তা বানিয়ে নেওয়ার নয়।"
+            "bn": "তাই যে আলিমরা নানা মত লিখে রাখতে সবচেয়ে উদার ছিলেন, তাঁরাই এই পথটা বন্ধ করেছেন। কোনো সাহাবি একবার একটি হরফকে কসম হিসেবে পড়েছেন, এটা লিখে রাখা এক জিনিস; আর বর্ণমালা থেকে ভবিষ্যৎ গণনার সংখ্যাতত্ত্ব বানিয়ে নেওয়া সম্পূর্ণ আরেক জিনিস। পরের যুগের কেউ কেউ প্রতিটি হরফের সঙ্গে কোনো জায়গার নাম বা কোনো মহান শব্দ জুড়ে দিয়েছেন। কুরতুবী এমন চেষ্টার তালিকাও দেন, তবে দেন কথা হিসেবে, জ্ঞান হিসেবে নয়। আর গোটা আলোচনার ওপর ছায়া হয়ে থাকে সাদী ও ইবন কাসীরের সতর্কতা। যা বর্ণনায় আসেনি, তা বানিয়ে নেওয়া চলে না।"
           }
         ]
       },
@@ -129,27 +129,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The letters do not stand in isolation; they open onto a claim. Immediately after Ṭā-Sīn-Mīm comes These are the verses of the clear Book, which Ibn Kathir explains as the clear, unambiguous Book that separates truth from falsehood and guidance from misguidance. The abrupt letters and the plain claim about the Book are set next to each other on purpose. First the raw material, the alphabet held up bare; then the finished revelation that no arrangement of that alphabet by anyone else could ever rival. The door is the letters; the room is the Book.",
-            "bn": "হরফগুলো একা দাঁড়িয়ে নেই; এগুলো একটা দাবির দিকে দরজা খুলে দেয়। ত্ব-সীন-মীমের ঠিক পরেই আসে, এগুলো সুস্পষ্ট কিতাবের আয়াত, যাকে ইবন কাসীর ব্যাখ্যা করেন সেই স্পষ্ট ও দ্ব্যর্থহীন কিতাব হিসেবে যা সত্য থেকে মিথ্যা আর হেদায়েত থেকে গোমরাহি আলাদা করে দেয়। আকস্মিক হরফ আর কিতাব নিয়ে সরল দাবি পাশাপাশি রাখা হয়েছে উদ্দেশ্য করেই। প্রথমে কাঁচামাল, খালি বর্ণমালা উঁচু করে ধরা; তারপর সেই পূর্ণ ওহি যার সমকক্ষ ঐ বর্ণমালা সাজিয়ে অন্য কেউ কোনোদিন আনতে পারবে না। দরজা হলো হরফ, ঘরটা হলো কিতাব।"
+            "bn": "হরফগুলো একা দাঁড়িয়ে নেই; এগুলো একটা দাবির দরজা খুলে দেয়। ত্ব-সীন-মীমের ঠিক পরেই আসে: এগুলো সুস্পষ্ট কিতাবের আয়াত। ইবন কাসীর ব্যাখ্যা করেন, এ কিতাব স্পষ্ট, এতে কোনো অস্পষ্টতা নেই; তা সত্য থেকে মিথ্যা আর হেদায়েত থেকে গোমরাহি আলাদা করে দেয়। হঠাৎ আসা হরফ আর কিতাব নিয়ে সোজা দাবি, এ দুটোকে জেনেবুঝেই পাশাপাশি রাখা হয়েছে। প্রথমে কাঁচামাল, খালি বর্ণমালা তুলে ধরা; তারপর পূর্ণ ওহি, ওই বর্ণমালা সাজিয়ে আর কেউ যার সমকক্ষ কিছু কোনোদিন বানাতে পারবে না। হরফগুলো দরজা, কিতাব হলো ঘর।"
           },
           {
             "en": "What follows makes the point turn on God's oneness in commanding belief. The sūrah tells the Prophet ﷺ not to destroy himself with grief that they will not believe (26:3), and says that were it His will, Allah could send down a sign that would bend their necks in submission (26:4) — but, as Ibn Kathir notes, He wills belief by choice and not by force. He who owns the letters owns the guidance, gives it freely, and keeps its deepest meanings with Himself. To meet the letters is already to meet His authority over the Book.",
-            "bn": "এরপর যা আসে তা কথাটিকে ঘুরিয়ে দেয় ঈমান আদায়ের ব্যাপারে আল্লাহর একত্বের দিকে। সূরা নবী ﷺ-কে বলে, তারা ঈমান আনছে না বলে যেন তিনি দুঃখে নিজেকে শেষ করে না দেন (২৬:৩), আর বলে, তিনি চাইলে এমন নিদর্শন নাজিল করতে পারতেন যাতে তাদের ঘাড় নত হয়ে যেত (২৬:৪)। তবে ইবন কাসীর যেমন বলেন, তিনি ঈমান চান ইচ্ছায়, জোরে নয়। যিনি হরফের মালিক, তিনিই হেদায়েতের মালিক, তা অকাতরে দেন, আর এর গভীরতম অর্থ নিজের কাছেই রাখেন। হরফের মুখোমুখি হওয়া মানেই কিতাবের উপর তাঁর কর্তৃত্বের মুখোমুখি হওয়া।"
+            "bn": "এরপরের আয়াতগুলোতে কথাটা গিয়ে দাঁড়ায় এক জায়গায়: ঈমানের হুকুম দেওয়ার মালিক একমাত্র আল্লাহ। সূরাটি নবী ﷺ-কে বলে, তারা ঈমান আনছে না বলে দুঃখে যেন তিনি নিজেকে শেষ করে না দেন (২৬:৩)। আরও বলে, আল্লাহ চাইলে এমন নিদর্শন নাজিল করতে পারতেন, যার সামনে তাদের ঘাড় নত হয়ে যেত (২৬:৪)। কিন্তু ইবন কাসীর যেমন বলেন, আল্লাহ চান মানুষ ঈমান আনুক নিজের ইচ্ছায়, জোরে নয়। হরফের মালিক যিনি, হেদায়েতের মালিকও তিনি; তিনি তা অকাতরে দেন, আর এর গভীরতম অর্থগুলো নিজের কাছেই রাখেন। তাই হরফগুলোর সামনে দাঁড়ানো মানেই কিতাবের ওপর তাঁর কর্তৃত্বের সামনে দাঁড়ানো।"
           }
         ]
       },
       {
         "h": {
           "en": "Trusting What Is Withheld",
-          "bn": "যা লুকানো, তা মেনে নেওয়া"
+          "bn": "যা জানানো হয়নি, তাতে ভরসা"
         },
         "p": [
           {
             "en": "This is where the verse asks something of the reader. At the door of a whole sūrah you are handed three letters you cannot fully explain, and the healthiest response is not frustration but trust — the same trust the Companions modeled when they referred the meaning back to Allah. Not everything in revelation is a problem set for you to solve. Some of it is placed there precisely so that you learn to bow before what your Lord knows and you do not, and to be at peace with that.",
-            "bn": "এখানেই আয়াতটি পাঠকের কাছে কিছু চায়। একটা গোটা সূরার দরজায় আপনার হাতে তুলে দেওয়া হয় তিনটি হরফ যা আপনি পুরোপুরি বোঝাতে পারেন না, আর সবচেয়ে সুস্থ সাড়াটা বিরক্তি নয়, ভরসা। ঠিক সেই ভরসা যা সাহাবিরা দেখিয়েছিলেন অর্থটা আল্লাহর কাছে সঁপে দিয়ে। ওহির সবকিছু আপনার সমাধানের জন্য পাতা কোনো ধাঁধা নয়। কিছু জিনিস রাখাই হয়েছে এজন্য যাতে আপনি শিখতে পারেন রব যা জানেন আর আপনি জানেন না, তার সামনে মাথা নত করতে, আর তাতে শান্ত থাকতে।"
+            "bn": "এখানে এসে আয়াতটি পাঠকের কাছে কিছু চায়। গোটা একটা সূরার দরজায় আপনার হাতে তুলে দেওয়া হলো তিনটি হরফ, যার পুরো ব্যাখ্যা আপনি দিতে পারবেন না। এর সবচেয়ে সুস্থ জবাব বিরক্তি নয়, ভরসা। সেই ভরসা, যা সাহাবিরা দেখিয়েছিলেন অর্থটা আল্লাহর ওপর ছেড়ে দিয়ে। ওহির সবকিছু আপনার সমাধানের জন্য দেওয়া অঙ্ক নয়। কিছু জিনিস রাখা হয়েছে ঠিক এজন্য, যাতে আপনি শেখেন: আপনার রব যা জানেন আর আপনি জানেন না, তার সামনে মাথা নত করতে হয়, আর তাতেই মনকে শান্ত রাখতে হয়।"
           },
           {
             "en": "Carry it past the page. Much of a life with God has this shape: a decree whose wisdom is hidden, an answer withheld, a delay you cannot read. The muqaṭṭaʿāt train the posture the rest of it needs — certainty that there is a wisdom, patience with not yet seeing it, and worship that does not wait for the explanation to arrive. You recite Ṭā-Sīn-Mīm, you gain by every letter, and you leave the meaning where it has always safely rested, with Him who sent it down.",
-            "bn": "কথাটা পাতার বাইরে বয়ে নিন। আল্লাহর সঙ্গে কাটানো জীবনের অনেকটাই এমন: এক ফয়সালা যার হিকমত লুকানো, এক জবাব যা আটকে রাখা, এক দেরি যা আপনি পড়তে পারেন না। মুকাত্তাআত সেই মানসিকতাটাই গড়ে তোলে যা বাকি সবকিছুর জন্য দরকার, এই নিশ্চয়তা যে হিকমত আছে, না দেখার ধৈর্য, আর এমন ইবাদত যা ব্যাখ্যার জন্য বসে থাকে না। আপনি ত্ব-সীন-মীম পড়েন, প্রতিটি হরফে লাভ করেন, আর অর্থটা সেখানেই রেখে দেন যেখানে তা চিরকাল নিরাপদে ছিল, যিনি নাজিল করেছেন তাঁরই কাছে।"
+            "bn": "কথাটা বইয়ের পাতায় রেখে দেবেন না, জীবনে নিয়ে যান। আল্লাহর সঙ্গে জীবনের অনেকটাই এমন: এমন ফয়সালা, যার হিকমত চোখে পড়ে না; এমন জবাব, যা আটকে আছে; এমন দেরি, যার মানে আপনি বুঝতে পারেন না। মুকাত্তাআত সেই মনোভাব গড়ে তোলে, বাকি সবকিছুতে যা লাগে: হিকমত যে আছে তাতে দৃঢ় বিশ্বাস, এখনো দেখতে না পাওয়ায় সবর, আর এমন ইবাদত, যা ব্যাখ্যা আসার অপেক্ষায় বসে থাকে না। আপনি ত্ব-সীন-মীম পড়েন, প্রতিটি হরফে নেকি পান, আর অর্থটা রেখে দেন সেখানেই, যেখানে তা চিরকাল নিরাপদে ছিল: যিনি নাজিল করেছেন, তাঁর কাছে।"
           }
         ]
       }
@@ -165,11 +165,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-idh nādā rabbuka Mūsā: and when your Lord called Mūsā. The verb nādā is a call raised aloud across a distance, and al-Qurtubi fixes its plain sense here, that a caller addresses someone by name, so that the meaning is simply, your Lord said to him, O Mūsā. Ibn Kathir sets the scene: God informs us of what He commanded His servant, the man He spoke with directly, when He called him from the right side of the mountain, conversed with him in private, chose him and sent him. The first word of the mission is God's own voice.",
-            "bn": "ওয়া ইয যা নাদা রাব্বুকা মূসা: আর যখন তোমার রব মূসা (আঃ)-কে ডাক দিলেন। নাদা ক্রিয়াটির অর্থ দূর থেকে উঁচু স্বরে ডাকা। কুরতুবী এখানে এর সোজা মানেই ধরেন: ডাকনেওয়ালা কাউকে নাম ধরে সম্বোধন করেন, অর্থাৎ তোমার রব তাঁকে বললেন, হে মূসা। ইবন কাসীর দৃশ্যটি তুলে ধরেন: আল্লাহ জানাচ্ছেন তিনি তাঁর সেই বান্দাকে কী আদেশ দিয়েছিলেন, যাঁর সঙ্গে তিনি সরাসরি কথা বলেছেন। তূর পাহাড়ের ডান পাশ থেকে তিনি তাঁকে ডাকলেন, একান্তে কথা বললেন, বেছে নিলেন এবং পাঠালেন। এই দায়িত্বের প্রথম শব্দটাই আল্লাহর নিজের ডাক।"
+            "bn": "ওয়া ইয নাদা রাব্বুকা মূসা: আর যখন তোমার রব মূসা (আঃ)-কে ডাক দিলেন। নাদা ক্রিয়ার মানে দূর থেকে উঁচু গলায় ডাকা। কুরতুবী এখানে এর সোজা অর্থটাই নেন: কেউ কাউকে নাম ধরে ডাকছেন, অর্থাৎ তোমার রব তাঁকে বললেন, হে মূসা। ইবন কাসীর দৃশ্যটা তুলে ধরেন: আল্লাহ জানাচ্ছেন, তাঁর যে বান্দার সঙ্গে তিনি সরাসরি কথা বলেছেন, তাঁকে তিনি কী হুকুম দিয়েছিলেন। তূর পাহাড়ের ডান পাশ থেকে তিনি তাঁকে ডাকলেন, একান্তে কথা বললেন, বেছে নিলেন, তারপর পাঠালেন। এই দায়িত্বের প্রথম কথাটাই আল্লাহর নিজের ডাক।"
           },
           {
             "en": "Al-Baghawi ties the call to the moment Mūsā saw the tree and the fire, on the road with his family, when he turned aside toward a light and found himself addressed by his Lord. Notice the possessive in rabbuka, your Lord: the account is being recited to the Prophet, so that the God who called Mūsā is named as the same Lord who now speaks to him. The setting is holy ground and a private audience, yet what is handed over is not a reward. It is a task.",
-            "bn": "বাগভী এই ডাককে জুড়ে দেন সেই মুহূর্তের সঙ্গে, যখন মূসা (আঃ) পথে পরিবারসহ চলার সময় গাছ ও আগুন দেখলেন, আলোর দিকে ফিরলেন আর নিজেকে রবের সম্বোধনের সামনে পেলেন। খেয়াল করুন রাব্বুকা শব্দে সম্বন্ধপদটি, তোমার রব। ঘটনাটি শোনানো হচ্ছে নবী ﷺ-কে, যেন বলা হচ্ছে, যে আল্লাহ মূসাকে ডেকেছিলেন তিনিই এখন তোমার সঙ্গে কথা বলছেন। জায়গাটা পবিত্র ভূমি, আর সাক্ষাৎটা একান্ত, তবু যা তুলে দেওয়া হলো তা কোনো পুরস্কার নয়। তা এক দায়িত্ব।"
+            "bn": "বাগভী এই ডাককে জুড়ে দেন সেই মুহূর্তের সঙ্গে, যখন মূসা (আঃ) পরিবার নিয়ে পথে চলতে চলতে গাছ আর আগুন দেখলেন। আলোর দিকে এগিয়ে গেলেন, আর শুনলেন তাঁর রব তাঁকে ডাকছেন। রাব্বুকা শব্দটা খেয়াল করুন: তোমার রব। ঘটনাটা শোনানো হচ্ছে নবী ﷺ-কে, তাই যে আল্লাহ মূসাকে ডেকেছিলেন, তাঁকেই চেনানো হচ্ছে সেই রব হিসেবে, যিনি এখন তাঁর সঙ্গে কথা বলছেন। জায়গাটা পবিত্র ভূমি, সাক্ষাৎটা একান্ত, তবু যা হাতে তুলে দেওয়া হলো তা কোনো পুরস্কার নয়। তা এক দায়িত্ব।"
           }
         ]
       },
@@ -181,11 +181,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi pauses on the word idh, when, and reports more than one way to complete the sentence it hangs on. On one reading, which he attributes through an-Nahhas, an implied command governs it: recite to them the time when your Lord called Mūsā. The evidence he offers is the wording a few lines later in the same surah, and recite to them the account of Ibrāhīm at 26:69, where the very same verb of reciting is made explicit. The past event is thus set before a present audience to hear.",
-            "bn": "কুরতুবী ইদ শব্দটির উপর থামেন, যার মানে যখন, আর যে বাক্যের সঙ্গে এটি ঝুলে আছে তা পূরণের একটি উপায় নয়, একাধিক উপায় তিনি বর্ণনা করেন। একটি পাঠে, যা তিনি নাহহাসের সূত্রে আনেন, একটি উহ্য আদেশ একে চালায়: তাদের পড়ে শোনাও সেই সময়ের কথা, যখন তোমার রব মূসাকে ডাকলেন। এর প্রমাণ হিসেবে তিনি একই সূরার কয়েক লাইন পরের শব্দ দেখান, আর তাদের পড়ে শোনাও ইবরাহীমের বৃত্তান্ত, ২৬:৬৯ আয়াতে, যেখানে পড়ে শোনানোর ঠিক সেই ক্রিয়াটিই স্পষ্ট করে বলা হয়েছে। অতীতের ঘটনা এভাবে উপস্থিত শ্রোতার সামনে রাখা হয়।"
+            "bn": "কুরতুবী ইয শব্দটিতে এসে থামেন, যার মানে যখন। এই শব্দ যে বাক্যের অংশ, তা কীভাবে পূর্ণ হবে, এ নিয়ে তিনি একাধিক মত উল্লেখ করেন। এক মত, যা তিনি নাহহাসের সূত্রে আনেন: এখানে একটা আদেশ উহ্য আছে, তাদের পড়ে শোনাও সেই সময়ের কথা, যখন তোমার রব মূসাকে ডাকলেন। প্রমাণ হিসেবে তিনি দেখান একই সূরায় একটু পরের কথা, আর তাদের পড়ে শোনাও ইবরাহীমের বৃত্তান্ত (২৬:৬৯)। সেখানে পড়ে শোনানোর এই ক্রিয়াটাই স্পষ্ট করে বলা আছে। এভাবে অতীতের ঘটনা বর্তমানের শ্রোতাদের সামনে এনে রাখা হয়।"
           },
           {
             "en": "On a second reading al-Qurtubi supplies remember rather than recite, the same opening that stands before other prophetic accounts in the Qur'an, such as the call to remember Maryam and the servant Ibrāhīm. He does not force a choice between the two, and neither should we; the point they share is larger than the grammar that separates them. A moment sealed in the distant past is reopened as address. What God once said to Mūsā is now said, through recitation, to everyone who reads.",
-            "bn": "দ্বিতীয় পাঠে কুরতুবী পড়ে শোনাও-এর বদলে স্মরণ করো বসান, যে সূচনা কুরআনে আরও নবীর বৃত্তান্তের আগে দাঁড়িয়ে আছে, যেমন মারইয়াম আর বান্দা ইবরাহীমকে স্মরণ করার ডাক। এই দুই পাঠের মধ্যে তিনি জোর করে কোনোটা বেছে নেন না, আমাদেরও নেওয়া উচিত নয়। দুটির ভেতরের অভিন্ন কথাটা ব্যাকরণের এই ফারাকের চেয়ে বড়। বহু আগের এক সিলমোহর করা মুহূর্ত আবার খুলে দেওয়া হয় সম্বোধন হিসেবে। আল্লাহ একদা মূসাকে যা বলেছিলেন, তা এখন তিলাওয়াতের মধ্য দিয়ে প্রত্যেক পাঠকের কাছে বলা হচ্ছে।"
+            "bn": "আরেক মতে কুরতুবী পড়ে শোনাও-এর বদলে স্মরণ করো ধরে নেন। কুরআনে অন্য নবীদের বৃত্তান্তের শুরুতেও এই কথাটা আছে, যেমন মারইয়ামকে আর আল্লাহর বান্দা ইবরাহীমকে স্মরণ করার ডাক। দুই মতের মধ্যে তিনি জোর করে কোনোটা বেছে নেন না, আমাদেরও নেওয়ার দরকার নেই। দুটোর মধ্যে যে কথাটা এক, তা ব্যাকরণের এই ফারাকের চেয়ে বড়। বহু আগে যে মুহূর্ত পেরিয়ে গেছে, তা আবার জীবন্ত হয়ে ওঠে, সরাসরি সম্বোধন হয়ে। আল্লাহ একদিন মূসাকে যা বলেছিলেন, তিলাওয়াতের মাধ্যমে তা এখন বলা হচ্ছে প্রত্যেক পাঠককে।"
           }
         ]
       },
@@ -197,15 +197,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are the wrongdoing people the messenger is sent to? At-Tabari answers without hesitation: the disbelievers, the people of Pharaoh. He also notes the grammar that binds this verse to the next. The phrase the people of Pharaoh in 26:11 stands in the accusative as an explication of the wrongdoing people in 26:10, so the second naming simply spells out the first. The Qur'an withholds the name for one line, calls them by their wrong, and only then tells us exactly whose court is meant.",
-            "bn": "রাসূলকে যাদের কাছে পাঠানো হচ্ছে, সেই যালিম সম্প্রদায় কারা? তাবারী কোনো দ্বিধা ছাড়াই জবাব দেন: তারা কাফির, ফেরাউনের সম্প্রদায়। তিনি এই আয়াতকে পরের আয়াতের সঙ্গে বাঁধা ব্যাকরণের দিকেও ইশারা করেন। ২৬:১১ আয়াতের ফেরাউনের সম্প্রদায় কথাটি কর্মকারকে বসেছে ২৬:১০ আয়াতের যালিম সম্প্রদায়ের ব্যাখ্যা হিসেবে, তাই দ্বিতীয় নামটি প্রথমটিকেই খুলে বলে। কুরআন একটি লাইনের জন্য নাম চেপে রাখে, তাদের ডাকে তাদের অন্যায় দিয়ে, তারপরই বলে দেয় ঠিক কার দরবারের কথা।"
+            "bn": "রাসূলকে যাদের কাছে পাঠানো হচ্ছে, সেই যালিম সম্প্রদায় কারা? তাবারী কোনো দ্বিধা ছাড়াই জবাব দেন: কাফিররা, ফেরাউনের সম্প্রদায়। তিনি সেই ব্যাকরণের দিকেও ইশারা করেন, যা এই আয়াতকে পরের আয়াতের সঙ্গে বেঁধে রাখে। ২৬:১১ আয়াতের ফেরাউনের সম্প্রদায় কথাটি কর্মকারকে বসেছে ২৬:১০ আয়াতের যালিম সম্প্রদায়ের ব্যাখ্যা হিসেবে, তাই দ্বিতীয় নামটি প্রথমটিকেই খুলে বলে। কুরআন এক আয়াত পর্যন্ত নামটা বলে না, তাদের পরিচয় দেয় তাদের অন্যায় দিয়ে; তারপরই জানিয়ে দেয়, ঠিক কার দরবারের কথা হচ্ছে।"
           },
           {
             "en": "Al-Baghawi opens up what their wrong actually was, and it runs in two directions at once. They wronged themselves, he says, through disbelief and disobedience, refusing the God who made them. And they wronged the Children of Israel by enslaving them and subjecting them to the worst of torment. The single word ẓālimīn thus covers both a sin against heaven and a crime against a people. It is not a vague label of dislike; it names a documented refusal of God joined to a documented cruelty toward the powerless.",
-            "bn": "বাগভী খুলে বলেন তাদের অন্যায়টা আসলে কী ছিল, আর তা চলছিল দুই দিকে একসঙ্গে। তারা নিজেদের প্রতি অন্যায় করেছে কুফর আর নাফরমানির মাধ্যমে, যে আল্লাহ তাদের বানিয়েছেন তাঁকেই অস্বীকার করে। আর তারা অন্যায় করেছে বনী ইসরাঈলের প্রতি, তাদের দাস বানিয়ে আর নিকৃষ্ট আযাবে ফেলে। যালিমীন এই একটি শব্দ তাই ঢেকে রাখে আসমানের বিরুদ্ধে গুনাহ আর একটা জাতির প্রতি নিষ্ঠুরতা দুটোই। এ কোনো অস্পষ্ট অপছন্দের তকমা নয়। এ নাম দেয় আল্লাহকে অস্বীকার আর অসহায়ের প্রতি প্রমাণিত নির্দয়তার।"
+            "bn": "বাগভী খুলে বলেন, তাদের অন্যায়টা আসলে কী ছিল। সে অন্যায় চলছিল একসঙ্গে দুই দিকে। এক, তারা কুফর আর নাফরমানি করে নিজেদের ওপর জুলুম করেছে, যে আল্লাহ তাদের সৃষ্টি করেছেন তাঁকেই অস্বীকার করেছে। দুই, তারা বনী ইসরাঈলের ওপর জুলুম করেছে, তাদের দাস বানিয়ে আর সবচেয়ে নিকৃষ্ট নির্যাতনে ফেলে। তাই যালিমীন, এই একটি শব্দের মধ্যেই আছে আল্লাহর বিরুদ্ধে গুনাহ আর একটা জাতির বিরুদ্ধে অপরাধ, দুটোই। এটা অপছন্দের কোনো ঝাপসা তকমা নয়। এ শব্দ বোঝায় আল্লাহকে অস্বীকারের প্রমাণিত ইতিহাস, তার সঙ্গে অসহায় মানুষের ওপর প্রমাণিত নিষ্ঠুরতা।"
           },
           {
             "en": "As-Sa'di presses on the arrogance underneath it. These were people who exalted themselves in the land and set themselves above its inhabitants, and whose chief went so far as to claim lordship for himself. Al-Muyassar keeps the identification plain and short: the wrongdoing people are the people of Pharaoh. Between them the commentators draw one portrait, a regime that had inverted the order of things, putting a man where God belongs and putting a nation in chains, and calling the arrangement normal.",
-            "bn": "সাদী এর নিচের অহংকারটার উপর চাপ দেন। এরা এমন লোক যারা যমীনে নিজেদের বড় বানিয়েছিল, সেখানকার বাসিন্দাদের উপর নিজেদের চাপিয়ে দিয়েছিল, আর যাদের সর্দার নিজের জন্য রুবুবিয়্যাত পর্যন্ত দাবি করে বসেছিল। মুয়াসসার পরিচয়টা রাখেন সোজা আর সংক্ষিপ্ত: যালিম সম্প্রদায় মানে ফেরাউনের সম্প্রদায়। এদের নিয়ে তাফসীরকারেরা মিলে একটি ছবিই আঁকেন, এমন এক শাসনব্যবস্থা যা জিনিসের ক্রম উল্টে দিয়েছিল, আল্লাহর জায়গায় একজন মানুষকে বসিয়ে আর একটা জাতিকে শিকলে বেঁধে, তবু বলছিল এটাই স্বাভাবিক।"
+            "bn": "সাদী জোর দেন এর তলায় থাকা অহংকারের ওপর। এরা দেশে নিজেদের বড় করে দেখত, দেশের মানুষের ওপর নিজেদের চাপিয়ে রেখেছিল, আর এদের সর্দার তো নিজেকে রব বলে দাবি পর্যন্ত করে বসেছিল। মুয়াসসার পরিচয়টা দেন সোজা আর ছোট করে: যালিম সম্প্রদায় মানে ফেরাউনের সম্প্রদায়। সব মিলিয়ে তাফসীরকারেরা একটাই ছবি আঁকেন: এমন এক শাসন, যা সবকিছুর স্বাভাবিক নিয়ম উল্টে দিয়েছিল। আল্লাহর জায়গায় বসিয়েছিল একজন মানুষকে, গোটা একটা জাতিকে বেঁধেছিল শিকলে, আর বলছিল, এটাই তো স্বাভাবিক।"
           }
         ]
       },
@@ -221,23 +221,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse itself refuses that misuse. The very next line does not call down ruin on Pharaoh's people; it asks whether they will not fear God, holding the door of return open even to them. If the worst regime named in the passage is still addressed as capable of taqwā, then the reader is given no warrant to write off anyone as beyond it. To name a wrong rightly is one thing; to hate the wrongdoer past all hope of his return is another, and this verse does not teach the second.",
-            "bn": "আয়াত নিজেই এই অপব্যবহার নাকচ করে দেয়। পরের লাইনটি ফেরাউনের সম্প্রদায়ের উপর ধ্বংস ডেকে আনে না, বরং জিজ্ঞেস করে তারা কি আল্লাহকে ভয় করবে না, তাদের জন্যও ফিরে আসার দরজা খোলা রেখে। আয়াতে নাম-করা সবচেয়ে খারাপ শাসকদলকেও যদি তাকওয়ার যোগ্য ধরে সম্বোধন করা হয়, তবে পাঠক কাউকেই সংশোধনের বাইরে লিখে ফেলার অনুমতি পায় না। কোনো অন্যায়কে ঠিকভাবে নাম দেওয়া একটি কথা, আর অন্যায়কারীকে তার ফিরে আসার সব আশা ছাড়িয়ে ঘৃণা করা আরেক কথা। এই আয়াত দ্বিতীয়টি শেখায় না।"
+            "bn": "আয়াত নিজেই এমন অপব্যবহার নাকচ করে দেয়। ঠিক পরের আয়াত ফেরাউনের সম্প্রদায়ের ধ্বংস কামনা করে না; বরং প্রশ্ন করে, তারা কি আল্লাহকে ভয় করবে না? এভাবে তাদের জন্যও ফিরে আসার দরজা খোলা রাখে। এই অংশে যত শাসকের কথা এসেছে, তাদের মধ্যে সবচেয়ে নিকৃষ্টকেও যদি তাকওয়ার উপযুক্ত ধরে ডাকা হয়, তাহলে কাউকে তাকওয়ার নাগালের বাইরে বলে বাতিল করে দেওয়ার অধিকার পাঠকের নেই। অন্যায়কে ঠিক নামে ডাকা এক কথা; অন্যায়কারী আর কোনোদিন ফিরবে না ভেবে তাকে ঘৃণা করা আরেক কথা। এই আয়াত দ্বিতীয়টা শেখায় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Sent to the Throne",
-          "bn": "সিংহাসনের দিকে প্রেরণ"
+          "bn": "সিংহাসনের সামনে পাঠানো"
         },
         "p": [
           {
             "en": "As-Sa'di observes that God repeated the story of Mūsā in the Qur'an, and doubled it, more than He did for any other, because it carries great wisdoms and lessons, holding within it his dealings with wrongdoers and with believers alike. Mūsā, he adds, is the bearer of the great law and of the Torah, the best of the revealed books after the Qur'an. The man being called in this verse is no minor figure; he is the prophet whose confrontation with tyranny the Qur'an returns to again and again.",
-            "bn": "সাদী লক্ষ করেন, আল্লাহ কুরআনে মূসার কাহিনি বারবার এনেছেন, দুবার দুবার করে, আর কোনো কাহিনি এতবার আনেননি, কারণ এতে আছে মহান হিকমত আর শিক্ষা, আছে যালিম আর মুমিন উভয়ের সঙ্গে তাঁর আচরণ। মূসা, তিনি যোগ করেন, বড় শরিয়তের বাহক আর তাওরাতের ধারক, যে কিতাব কুরআনের পর সেরা। এই আয়াতে যাঁকে ডাকা হচ্ছে তিনি কোনো ছোট মানুষ নন। তিনি সেই নবী, জুলুমের সঙ্গে যাঁর সংঘর্ষে কুরআন বারবার ফিরে আসে।"
+            "bn": "সাদী লক্ষ করেন, আল্লাহ কুরআনে মূসার কাহিনি যতবার এনেছেন, যত নানা দিক থেকে ফিরিয়ে ফিরিয়ে বলেছেন, অন্য কোনো কাহিনি ততবার আনেননি। কারণ এতে আছে বড় বড় হিকমত আর শিক্ষা; আছে যালিমদের সঙ্গে আর মুমিনদের সঙ্গে তাঁর আচরণের কথা। তিনি আরও বলেন, মূসা মহান শরিয়তের বাহক, তাওরাতের ধারক, আর আসমানি কিতাবগুলোর মধ্যে কুরআনের পরেই তাওরাতের স্থান। এই আয়াতে যাঁকে ডাকা হচ্ছে, তিনি সাধারণ কেউ নন। তিনি সেই নবী, জুলুমের বিরুদ্ধে যাঁর লড়াইয়ের কথা কুরআন বারবার ফিরে ফিরে বলে।"
           },
           {
             "en": "And yet the call opens not with his rank but with his errand. Before Mūsā is told that God will be with him, before his brother is granted to him, he is simply pointed at the hardest door of his age and told to walk through it. The reassurances come, and they come quickly in the verses that follow, but they come after the assignment, not before it. The order is the lesson: the task is given first, and the comfort is given to those who accept the task.",
-            "bn": "তবু ডাকটা শুরু হয় তাঁর মর্যাদা দিয়ে নয়, তাঁর কাজ দিয়ে। মূসাকে জানানোর আগে যে আল্লাহ তাঁর সঙ্গে থাকবেন, তাঁর ভাইকে তাঁর জন্য দেওয়ার আগে, তাঁকে কেবল যুগের সবচেয়ে কঠিন দরজার দিকে দেখিয়ে বলা হয় সেটা পেরিয়ে যেতে। আশ্বাস আসে, আর পরের আয়াতগুলোতে দ্রুতই আসে, তবে তা আসে দায়িত্বের পরে, আগে নয়। এই ক্রমটাই শিক্ষা: কাজ আগে দেওয়া হয়, আর আশ্বাস দেওয়া হয় তাদের, যারা কাজটা কবুল করে।"
+            "bn": "তবু ডাকটা শুরু হয় তাঁর মর্যাদার কথা দিয়ে নয়, তাঁর কাজের কথা দিয়ে। আল্লাহ তাঁর সঙ্গে থাকবেন, এ কথা তখনো বলা হয়নি; ভাইকে সঙ্গী করে দেওয়ার কথাও তখনো আসেনি। তার আগেই তাঁকে দেখিয়ে দেওয়া হলো সে যুগের সবচেয়ে কঠিন দরজা, আর বলা হলো সেটা পেরিয়ে যেতে। আশ্বাস আসে, পরের আয়াতগুলোতে দ্রুতই আসে, কিন্তু আসে দায়িত্ব দেওয়ার পরে, আগে নয়। এই ক্রমটাই শিক্ষা: আগে কাজ দেওয়া হয়, আর সান্ত্বনা পায় তারা, যারা কাজটা কবুল করে।"
           }
         ]
       },
@@ -249,11 +249,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What is the messenger actually sent to say? Al-Muyassar draws it out from the following verse: go to the people of Pharaoh and ask them, will they not fear the punishment of God and abandon the disbelief and misguidance they are living in? The mission is announced in 26:11 as a question, not a sentence of doom. Its aim is that they turn, that they come to fear God and leave their wrong. Confrontation here is a door held open, not a trap sprung shut.",
-            "bn": "রাসূলকে আসলে কী বলতে পাঠানো হচ্ছে? মুয়াসসার তা পরের আয়াত থেকে বের করে আনেন: ফেরাউনের সম্প্রদায়ের কাছে যাও আর জিজ্ঞেস করো, তারা কি আল্লাহর শাস্তিকে ভয় করবে না, আর যে কুফর ও গুমরাহিতে তারা ডুবে আছে তা ছাড়বে না? ২৬:১১ আয়াতে মিশনটি ঘোষণা করা হয় প্রশ্ন হিসেবে, ধ্বংসের রায় হিসেবে নয়। এর লক্ষ্য তারা যেন ফিরে আসে, আল্লাহকে ভয় করতে শেখে আর নিজেদের অন্যায় ছাড়ে। এখানে মুখোমুখি হওয়া মানে খুলে রাখা এক দরজা, ফাঁদ পেতে বন্ধ করা নয়।"
+            "bn": "রাসূলকে আসলে কী বলতে পাঠানো হচ্ছে? মুয়াসসার তা পরের আয়াত থেকে বের করে আনেন: ফেরাউনের সম্প্রদায়ের কাছে যাও আর জিজ্ঞেস করো, তারা কি আল্লাহর শাস্তিকে ভয় করবে না, যে কুফর আর গোমরাহিতে তারা ডুবে আছে তা ছাড়বে না? ২৬:১১ আয়াতে এই দায়িত্ব ঘোষণা করা হয়েছে একটা প্রশ্নের আকারে, ধ্বংসের রায় হিসেবে নয়। এর লক্ষ্য তারা যেন ফিরে আসে, আল্লাহকে ভয় করতে শেখে আর নিজেদের অন্যায় ছাড়ে। এখানে মুখোমুখি হওয়া মানে দরজা খোলা রাখা, ফাঁদ পেতে আটকে ফেলা নয়।"
           },
           {
             "en": "This reframes what it means to stand against wrong at all. The goal set for Mūsā is not the humiliation of Pharaoh but the rescue of Pharaoh's soul, if he will have it, and the freeing of those he oppressed. A rebuke that wants only to win, or only to destroy, has already drifted from the pattern. The word given to the tyrant first offers him the fear of God, the one fear that could still save him, and only his refusal, not the messenger's wish, seals what comes after.",
-            "bn": "এটা অন্যায়ের বিরুদ্ধে দাঁড়ানোর মানেটাই নতুন করে সাজায়। মূসার সামনে রাখা লক্ষ্য ফেরাউনকে হেয় করা নয়, বরং সুযোগ থাকলে ফেরাউনের আত্মাকে বাঁচানো, আর সে যাদের উপর জুলুম করেছে তাদের মুক্ত করা। যে ভর্ৎসনা কেবল জিততে চায়, বা কেবল ধ্বংস করতে চায়, তা এই ধারা থেকে সরে গেছে। অত্যাচারীকে দেওয়া কথাটা আগে তাকে আল্লাহর ভয়ের দিকেই ডাকে, সেই একমাত্র ভয় যা তখনো তাকে বাঁচাতে পারত, আর তার পরের পরিণতি ঠিক করে তার অস্বীকার, রাসূলের কামনা নয়।"
+            "bn": "এতে অন্যায়ের বিরুদ্ধে দাঁড়ানোর মানেটাই বদলে যায়। মূসার সামনে লক্ষ্য ফেরাউনকে অপমান করা নয়; লক্ষ্য ফেরাউনের আত্মাকে বাঁচানো, যদি সে বাঁচতে চায়, আর তার জুলুমের শিকার মানুষগুলোকে মুক্ত করা। যে তিরস্কার শুধু জিততে চায়, বা শুধু ধ্বংস করতে চায়, তা এই আদর্শ থেকে আগেই সরে গেছে। অত্যাচারীর কাছে পাঠানো কথাটা প্রথমেই তাকে আল্লাহর ভয়ের দিকে ডাকে, সেই একমাত্র ভয়, যা তখনো তাকে বাঁচাতে পারত। এরপর যা ঘটে, তা ঠিক করে তার নিজের অস্বীকার, রাসূলের ইচ্ছা নয়।"
           }
         ]
       },
@@ -265,11 +265,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Prophet ﷺ said, as Abu Sa'id al-Khudri reported, Indeed, among the greatest types of jihad is a just statement before a tyrannical ruler. At-Tirmidhi records it and grades it, in his own words, ḥasan gharīb, sound but singular through this chain. No commentator consulted for this verse attaches this hadith to it; it is a general teaching on speaking truth to power, brought here for its plain kinship with the scene, not as an explanation of the words themselves.",
-            "bn": "নবী ﷺ বলেছেন, আবু সাঈদ খুদরী (রাঃ) যেমন বর্ণনা করেছেন, নিশ্চয় সবচেয়ে বড় জিহাদের একটি হলো অত্যাচারী শাসকের সামনে ন্যায়ের কথা বলা। তিরমিযী এটি বর্ণনা করেন আর নিজের ভাষায় একে হাসান গারীব বলেন, অর্থাৎ সহীহ তবে এই সনদে একক। এই আয়াতের জন্য দেখা কোনো তাফসীরকার হাদীসটিকে এর সঙ্গে জোড়েননি। এটি ক্ষমতার সামনে সত্য বলার এক সাধারণ শিক্ষা, দৃশ্যটির সঙ্গে স্পষ্ট মিলের কারণে এখানে আনা, আয়াতের শব্দের ব্যাখ্যা হিসেবে নয়।"
+            "bn": "আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: নিশ্চয়ই সবচেয়ে বড় জিহাদের একটি হলো অত্যাচারী শাসকের সামনে ন্যায়ের কথা বলা। তিরমিযী হাদিসটি বর্ণনা করেছেন এবং নিজেই একে হাসান গারীব বলেছেন, অর্থাৎ গ্রহণযোগ্য, তবে এই সনদে একক। এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতেই হাদিসটি আয়াতের সঙ্গে জোড়া হয়নি। এটা ক্ষমতার সামনে সত্য বলা নিয়ে একটা সাধারণ শিক্ষা। দৃশ্যটির সঙ্গে স্পষ্ট মিল আছে বলে এখানে আনা হয়েছে, আয়াতের শব্দের ব্যাখ্যা হিসেবে নয়।"
           },
           {
             "en": "Mūsā walking into Pharaoh's court is the first and greatest instance of exactly that word. He is one man, formerly a fugitive from that same court, sent to stand before absolute power and name its wrong to its face. The hadith tells the ordinary believer that even a single just sentence, spoken where it costs something, ranks among the highest struggles in God's path. The verse shows what that looks like when God Himself is the one who assigns the sentence and the one who stands behind the speaker.",
-            "bn": "ফেরাউনের দরবারে ঢুকে পড়া মূসাই ঠিক সেই কথার প্রথম আর সবচেয়ে বড় দৃষ্টান্ত। তিনি একজন মানুষ, একসময় সেই দরবার থেকেই পালিয়ে যাওয়া, তাকে পাঠানো হচ্ছে চূড়ান্ত ক্ষমতার সামনে দাঁড়িয়ে তার অন্যায় তার মুখের উপর বলতে। হাদীসটি সাধারণ মুমিনকে জানায়, যেখানে দাম দিতে হয় সেখানে বলা একটি ন্যায্য বাক্যও আল্লাহর পথে সর্বোচ্চ সংগ্রামের অন্যতম। আর আয়াত দেখায় সেটা কেমন দেখায়, যখন আল্লাহ নিজেই সেই বাক্য অর্পণকারী আর বক্তার পেছনে দাঁড়ানো সত্তা।"
+            "bn": "ফেরাউনের দরবারে মূসার ঢুকে পড়াই ঠিক এমন কথার প্রথম আর সবচেয়ে বড় দৃষ্টান্ত। তিনি একা একজন মানুষ, একসময় এই দরবার থেকেই পালিয়ে গিয়েছিলেন। এখন তাঁকে পাঠানো হচ্ছে সর্বময় ক্ষমতার সামনে দাঁড়িয়ে মুখের ওপর তার অন্যায়ের কথা বলতে। হাদিস সাধারণ মুমিনকে জানায়: যেখানে মূল্য দিতে হয়, সেখানে বলা একটি ন্যায্য কথাও আল্লাহর পথে সবচেয়ে বড় সংগ্রামগুলোর একটি। আর আয়াত দেখায়, আল্লাহ নিজেই যখন সেই কথা বলার দায়িত্ব দেন এবং বক্তার পেছনে থাকেন, তখন তা কেমন হয়।"
           }
         ]
       },
@@ -281,11 +281,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Return, finally, to who did the calling. It was rabbuka, your Lord, not Mūsā's own sense of destiny, that sent him. Al-Qurtubi's plain gloss on the call, that it means being addressed by name, matters here: Mūsā did not nominate himself to confront Pharaoh, he was named to it. This is the line between a prophet and a zealot. One is sent and knows he is sent; the other appoints himself, mistakes his anger for a summons, and carries no authority but his own certainty.",
-            "bn": "শেষে ফিরে আসুন কে ডেকেছিলেন সেই প্রশ্নে। ডেকেছিলেন রাব্বুকা, তোমার রব, মূসার নিজের কোনো নিয়তির টান নয়। কুরতুবীর সোজা ব্যাখ্যা, যে ডাক মানে নাম ধরে সম্বোধন, এখানে গুরুত্ব রাখে: মূসা নিজেকে ফেরাউনের মুখোমুখি হওয়ার জন্য মনোনীত করেননি, তাঁকে নাম ধরে ডাকা হয়েছিল। এখানেই নবী আর গোঁয়ার উদ্যমীর ফারাক। একজন প্রেরিত আর তা জানে; অন্যজন নিজেই নিজেকে বসায়, নিজের রাগকে ডাক বলে ভুল করে, আর নিজের একগুঁয়ে নিশ্চয়তা ছাড়া কোনো কর্তৃত্ব বহন করে না।"
+            "bn": "শেষে আবার দেখুন, ডেকেছিলেন কে। মূসাকে পাঠিয়েছিলেন রাব্বুকা, তোমার রব; মূসার নিজের ভাগ্যের টান নয়। কুরতুবী ডাকের যে সোজা ব্যাখ্যা দেন, নাম ধরে সম্বোধন, তা এখানে গুরুত্বপূর্ণ: ফেরাউনের মুখোমুখি হওয়ার জন্য মূসা নিজেকে মনোনীত করেননি, তাঁকে নাম ধরে এ কাজে ডাকা হয়েছিল। নবী আর অন্ধ আবেগের লোকের মধ্যে ফারাক এখানেই। একজনকে পাঠানো হয়, আর তিনি জানেন যে তাঁকে পাঠানো হয়েছে। অন্যজন নিজেকে নিজেই নিয়োগ দেয়, নিজের রাগকে আল্লাহর ডাক বলে ভুল করে, আর নিজের একগুঁয়ে নিশ্চয়তা ছাড়া তার কোনো কর্তৃত্ব নেই।"
           },
           {
             "en": "You will most likely never be sent to a throne. But you will be given errands you would rather refuse: a wrong in the family nobody will name, an injustice at work that everyone has agreed to call normal. The question this verse leaves is not whether you feel ready or safe, for Mūsā felt neither. It is whether the call is genuinely yours, and if it is, whether you will answer it as he did, aiming not to destroy the wrongdoer but to see him fear God and turn back.",
-            "bn": "আপনাকে সম্ভবত কখনো কোনো সিংহাসনের কাছে পাঠানো হবে না। তবে আপনাকে এমন কাজ দেওয়া হবে যা আপনি এড়িয়ে যেতে চাইবেন: পরিবারের এমন এক অন্যায় যার নাম কেউ নেয় না, কাজের জায়গায় এমন এক জুলুম যাকে সবাই মিলে স্বাভাবিক বলে মেনে নিয়েছে। এই আয়াত যে প্রশ্নটা রেখে যায় তা এই নয় যে আপনি প্রস্তুত বা নিরাপদ বোধ করছেন কি না, কারণ মূসা কোনোটাই করেননি। প্রশ্নটা হলো, ডাকটা কি সত্যিই আপনার, আর তা হলে আপনি কি তাঁর মতো সাড়া দেবেন, অন্যায়কারীকে ধ্বংস নয়, বরং তাকে আল্লাহর ভয়ে ফিরে আসতে দেখতে চেয়ে।"
+            "bn": "আপনাকে সম্ভবত কখনো কোনো সিংহাসনের কাছে পাঠানো হবে না। তবে আপনাকে এমন কাজ দেওয়া হবে, যা আপনি এড়িয়ে যেতে চাইবেন: পরিবারের এমন এক অন্যায়, যার কথা কেউ মুখে আনে না; কাজের জায়গায় এমন এক জুলুম, যাকে সবাই মিলে স্বাভাবিক বলে মেনে নিয়েছে। এই আয়াত যে প্রশ্ন রেখে যায়, তা এই নয় যে আপনি নিজেকে প্রস্তুত বা নিরাপদ মনে করছেন কি না; মূসাও এর কোনোটাই মনে করেননি। প্রশ্নটা হলো, ডাকটা কি সত্যিই আপনার? যদি হয়, আপনি কি তাঁর মতো সাড়া দেবেন? লক্ষ্য হবে অন্যায়কারীকে ধ্বংস করা নয়, বরং তাকে আল্লাহকে ভয় করে ফিরে আসতে দেখা।"
           }
         ]
       }
@@ -296,7 +296,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "His First Word Was Rabbi",
-          "bn": "প্রথম ডাক রাব্বি বলে"
+          "bn": "প্রথম শব্দ: রাব্বি"
         },
         "p": [
           {
@@ -316,7 +316,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Fear He Named",
-          "bn": "যে ভয় তিনি বললেন"
+          "bn": "যে ভয়ের কথা তিনি বললেন"
         },
         "p": [
           {
@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi sharpens it: the denial Mūsā (AS) fears is denial in the message and the prophethood. Al-Muyassar reads it the same way, that they would belie him in the risāla, the errand of revelation he was sent with. This is the particular fear of anyone charged with saying something true and unwelcome. It is not weakness of faith in God; it is a clear-eyed reading of the people he was being sent to, whom the previous verse has already named as wrongdoers.",
-            "bn": "কুরতুবী কথাটা আরও ধারালো করেন: মূসা (আঃ) যে মিথ্যাবাদী বলার ভয় পাচ্ছেন, তা রিসালাত ও নবুয়তের ব্যাপারে অস্বীকার। মুয়াসসারও একই পড়েন, তারা রিসালাতের ব্যাপারে তাঁকে মিথ্যাবাদী বলবে, সেই ওহির দায়িত্ব নিয়ে তিনি প্রেরিত হয়েছিলেন। সত্য অথচ অপছন্দের কথা বলার দায়িত্ব যার কাঁধে, এ তারই বিশেষ ভয়। এটা আল্লাহর উপর ঈমানের দুর্বলতা নয়, বরং যাদের কাছে তাঁকে পাঠানো হচ্ছে তাদের সাফ চোখে পড়া, আগের আয়াত যাদের যালিম বলে ডেকেছে।"
+            "bn": "কুরতুবী কথাটা আরও স্পষ্ট করেন: মূসা (আঃ) যে মিথ্যাবাদী বলার ভয় পাচ্ছেন, তা রিসালাত আর নবুয়ত অস্বীকারের ভয়। মুয়াসসারও একই অর্থ নেন: তারা রিসালাতের ব্যাপারে, অর্থাৎ যে ওহির দায়িত্ব দিয়ে তাঁকে পাঠানো হয়েছে, সে ব্যাপারে তাঁকে মিথ্যাবাদী বলবে। সত্য অথচ অপ্রিয় কথা বলার দায়িত্ব যার কাঁধে, এটা তারই বিশেষ ভয়। এটা আল্লাহর ওপর ঈমানের দুর্বলতা নয়। যাদের কাছে তাঁকে পাঠানো হচ্ছে, তাদের তিনি ঠিকঠাক চিনেছিলেন; আগের আয়াতই তো তাদের যালিম বলে দিয়েছে।"
           }
         ]
       },
@@ -337,11 +337,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It would be a grave misreading to hear these words as a prophet flinching from duty. Ma'arif al-Qur'an states the principle plainly: a request for favourable conditions to carry out an act of obedience is not the same as making excuses. Mūsā (AS) was asking God to provide resources that would help him fulfil the command, and since the aim was to obey, praying for such help cannot be counted as seeking a way out. He is not bargaining the task down; he is equipping for it.",
-            "bn": "এ কথাগুলোকে কর্তব্য থেকে পিছিয়ে যাওয়া নবীর কথা ভাবা হবে বড় ভুল পড়া। মাআরিফুল কুরআন নীতিটা সাফ বলে: আনুগত্যের কাজ সহজে করার জন্য অনুকূল অবস্থা চাওয়া আর অজুহাত বানানো এক জিনিস নয়। মূসা (আঃ) আল্লাহর কাছে এমন সহায় চাইছিলেন, যা হুকুম পালন সহজ করবে; আর লক্ষ্য যেহেতু আনুগত্য, সেই সহায় চাওয়াকে পালানোর ফন্দি বলা যায় না। তিনি কাজটা ছোট করে নিচ্ছেন না, কাজের জন্য নিজেকে তৈরি করছেন।"
+            "bn": "এ কথা শুনে যদি মনে হয়, একজন নবী দায়িত্ব থেকে পিছিয়ে যাচ্ছেন, তবে সেটা হবে আয়াতের মারাত্মক ভুল বোঝা। মাআরিফুল কুরআন নীতিটা সাফ বলে: আনুগত্যের কাজ সহজে করার জন্য অনুকূল অবস্থা চাওয়া আর অজুহাত বানানো এক জিনিস নয়। মূসা (আঃ) আল্লাহর কাছে এমন সহায় চাইছিলেন, যা হুকুম পালন সহজ করবে; আর লক্ষ্য যেহেতু আনুগত্য, সেই সহায় চাওয়াকে পালানোর ফন্দি বলা যায় না। তিনি কাজটা ছোট করে নিচ্ছেন না, কাজের জন্য নিজেকে তৈরি করছেন।"
           },
           {
             "en": "As-Saʿdi reads the same tone into the verse. He describes Mūsā (AS) as speaking iʿtidhāran, laying his situation before his Lord, mubayyinan li-ʿudhrihi, making his circumstances clear, and above all sāʾilan lahu al-maʿūna, asking Him for help to bear this heavy load. The load is real, and Mūsā names its weight honestly. Candour before God about what a task demands is not a crack in trust. It is what trust sounds like when the trust is in God and not in oneself.",
-            "bn": "সাদী আয়াতে একই সুর পড়েন। তিনি মূসা (আঃ)-কে দেখান ইতিযার হিসেবে কথা বলতে, অর্থাৎ রবের সামনে নিজের অবস্থা তুলে ধরতে, নিজের ওজর স্পষ্ট করতে, আর সবচেয়ে বড় কথা, এই ভারী বোঝা বইতে তাঁর কাছে সাহায্য চাইতে। বোঝাটা সত্যি, আর মূসা (আঃ) তার ওজন সততার সঙ্গে বলেন। কাজটা কী চায় তা নিয়ে আল্লাহর সামনে খোলাখুলি বলা ভরসার ফাটল নয়। ভরসা যখন নিজের উপর নয়, আল্লাহর উপর, তখন সেই ভরসার আওয়াজ এমনই হয়।"
+            "bn": "সাদীও আয়াতে একই সুর শোনেন। তাঁর বর্ণনায় মূসা (আঃ) কথা বলছেন ইতিযার করে, অর্থাৎ রবের সামনে নিজের অবস্থা তুলে ধরে; নিজের ওজর স্পষ্ট করে; আর সবচেয়ে বড় কথা, এই ভারী বোঝা বইতে তাঁর কাছে সাহায্য চেয়ে। বোঝাটা সত্যিই ভারী, আর মূসা (আঃ) সে ভারের কথা খোলাখুলি বলেন। কাজটা কতখানি দাবি করে, আল্লাহর সামনে সেটা অকপটে বলা ভরসায় ফাটল নয়। ভরসা যখন নিজের ওপর নয়, আল্লাহর ওপর, তখন ভরসার ভাষা এমনই হয়।"
           },
           {
             "en": "This is why the classical readings guard the verse so carefully. To call Mūsā's words an evasion would be to miss what a prophet is doing when he speaks to God this way. He is modelling reliance, not reluctance, showing that the honest naming of difficulty belongs inside worship, not outside it. The stronger a person's certainty in God, the more freely he can admit his own smallness, because he is not leaning on himself.",
@@ -357,27 +357,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next two verses spell out what he was carrying. Wa yaḍīqu ṣadrī: and my breast tightens. Wa lā yanṭaliqu lisānī: and my tongue does not run free. Al-Muyassar renders it as grief filling his chest at their denial and his tongue not moving freely with the call, so he asks that revelation be sent to his brother Hārūn (AS) to support him, to confirm what he says, and to make it plain, for Hārūn was the more fluent in speech. The request is precise and practical.",
-            "bn": "পরের দুই আয়াত খুলে বলে তিনি কী বইছিলেন। ওয়া ইয়াদীকু সাদরী: আর আমার বুক সংকুচিত হয়ে আসে। ওয়া লা ইয়ানতালিকু লিসানী: আর আমার জিহ্বা সহজে চলে না। মুয়াসসার এটাকে পড়েন এভাবে, তাদের মিথ্যা বলায় বুক দুশ্চিন্তায় ভরে ওঠে আর দাওয়াতের বেলায় জিহ্বা সহজে চলে না, তাই তিনি চান ওহি যেন তাঁর ভাই হারূন (আঃ)-এর কাছে পাঠানো হয়, যেন তিনি সহায় হন, তাঁর কথা সত্যায়ন করেন আর স্পষ্ট করে দেন, কারণ হারূন (আঃ) কথায় বেশি সাবলীল ছিলেন। চাওয়াটা নির্দিষ্ট, আর তা কাজে লাগার মতো।"
+            "bn": "পরের দুই আয়াত খুলে বলে তিনি কী বইছিলেন। ওয়া ইয়াদীকু সাদরী: আর আমার বুক সংকুচিত হয়ে আসে। ওয়া লা ইয়ানতালিকু লিসানী: আর আমার জিহ্বা সহজে চলে না। মুয়াসসারের ব্যাখ্যায়, তারা মিথ্যাবাদী বললে দুঃখে তাঁর বুক ভরে যায়, আর দাওয়াত দিতে গিয়ে জিহ্বা সহজে চলে না। তাই তিনি চান, তাঁর ভাই হারূন (আঃ)-এর কাছেও ওহি পাঠানো হোক, যেন তিনি পাশে থেকে সাহায্য করেন, তাঁর কথা সত্যায়ন করেন আর কথাটা স্পষ্ট করে বুঝিয়ে দেন; কারণ হারূন (আঃ) কথা বলায় বেশি সাবলীল ছিলেন। চাওয়াটা নির্দিষ্ট, আর পুরোপুরি বাস্তব।"
           },
           {
             "en": "Then wa lahum ʿalayya dhanbun fa-akhāfu an yaqtulūni: and they hold a charge against me, so I fear they will kill me. Al-Muyassar and Ibn Kathir both identify the matter: the death of a man of Pharaoh's people, the Copt, which was why Mūsā (AS) had earlier left Egypt. He does not conceal the outstanding danger. He lays the whole of it before God, the fear of denial, the tight chest, the halting tongue, and the threat to his life, keeping nothing hidden from the Lord he is asking.",
-            "bn": "এরপর ওয়া লাহুম আলাইয়া যানবুন ফাআখাফু আন ইয়াক্‌তুলূন: আর তাদের কাছে আমার বিরুদ্ধে এক অভিযোগ আছে, তাই আমার ভয় তারা আমাকে হত্যা করবে। মুয়াসসার ও ইবন কাসীর দুজনেই বিষয়টা চিনিয়ে দেন: ফেরাউনের সম্প্রদায়ের এক ব্যক্তির মৃত্যু, সেই কিবতী, যে কারণে মূসা (আঃ) আগে মিসর ছেড়েছিলেন। সামনে থাকা বিপদটা তিনি লুকান না। গোটা ব্যাপারটাই আল্লাহর সামনে রাখেন, মিথ্যাবাদী বলার ভয়, সংকুচিত বুক, আটকে যাওয়া জিহ্বা, আর প্রাণের হুমকি, যাঁর কাছে চাইছেন তাঁর কাছ থেকে কিছুই আড়াল করেন না।"
+            "bn": "এরপর ওয়া লাহুম আলাইয়া যানবুন ফাআখাফু আন ইয়াক্‌তুলূন: আর তাদের কাছে আমার বিরুদ্ধে এক অভিযোগ আছে, তাই আমার ভয় তারা আমাকে হত্যা করবে। মুয়াসসার ও ইবন কাসীর দুজনেই বিষয়টা চিনিয়ে দেন: ফেরাউনের সম্প্রদায়ের এক ব্যক্তির মৃত্যু, সেই কিবতী, যে কারণে মূসা (আঃ) আগে মিসর ছেড়েছিলেন। সামনে ঝুলে থাকা বিপদটা তিনি লুকান না। গোটা ব্যাপারটাই আল্লাহর সামনে মেলে ধরেন: মিথ্যাবাদী বলার ভয়, সংকুচিত বুক, আটকে যাওয়া জিহ্বা, আর প্রাণের ঝুঁকি। যাঁর কাছে চাইছেন, তাঁর কাছ থেকে কিছুই আড়াল করেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "The Answer Was Kallā",
-          "bn": "জবাব এলো কক্ষনো না"
+          "bn": "জবাব এল: কাল্লা"
         },
         "p": [
           {
             "en": "God's reply lands in a single word: qāla kallā, He said, no, certainly not. Ibn Kathir explains it as God telling Mūsā (AS) not to be afraid of anything like that. There is no reproach in it and no dismissal of the fear as foolish. The fear was reasonable; the answer is not a lecture but a refusal to let the fear stand: it will not go as you dread. Then comes the ground for that refusal.",
-            "bn": "আল্লাহর জবাব নামে একটি শব্দে: কালা কাল্লা, তিনি বললেন, না, কক্ষনো না। ইবন কাসীর এটাকে ব্যাখ্যা করেন এভাবে, আল্লাহ মূসা (আঃ)-কে বলছেন ওসবের কিছুকেই ভয় না করতে। এতে কোনো তিরস্কার নেই, ভয়কে বোকামি বলে উড়িয়ে দেওয়াও নেই। ভয়টা যুক্তিসঙ্গত ছিল; জবাবটা কোনো বক্তৃতা নয়, বরং ভয়কে টিকতে না দেওয়া: তুমি যা আশঙ্কা করছ, তেমনটা হবে না। এরপর আসে সেই জবাবের ভিত্তি।"
+            "bn": "আল্লাহর জবাব আসে এক শব্দে: কালা কাল্লা, তিনি বললেন, না, কক্ষনো না। ইবন কাসীরের ব্যাখ্যায়, আল্লাহ মূসা (আঃ)-কে বলছেন এমন কিছুর ভয় না করতে। এতে কোনো তিরস্কার নেই, ভয়টাকে বোকামি বলে উড়িয়েও দেওয়া হয়নি। ভয়টা অযৌক্তিক ছিল না। জবাবটা কোনো উপদেশের ভাষণ নয়; জবাবটা হলো ভয়কে টিকতে না দেওয়া: তুমি যা আশঙ্কা করছ, তেমনটা হবে না। এরপর আসে এই জবাবের ভিত্তি।"
           },
           {
             "en": "Faidhhabā biāyātinā innā maʿakum mustamiʿūn: go, both of you, with Our signs; We are with you, listening. Ibn Kathir glosses the companionship as God being with them by His protection, His care, His support and His help. He ties it to the promise in 28:35, that God would strengthen Mūsā's arm through his brother so that Pharaoh could not reach them. Every named fear is met by a named provision. The tongue gets Hārūn (AS); the danger gets divine protection; the dread of denial gets God's own presence.",
-            "bn": "ফায্‌হাবা বিআয়াতিনা ইন্না মাআকুম মুস্তামিউন: তোমরা দুজন আমার নিদর্শন নিয়ে যাও; আমি তোমাদের সঙ্গে আছি, শুনছি। ইবন কাসীর এই সঙ্গ থাকাকে ব্যাখ্যা করেন আল্লাহর হেফাজত, তাঁর যত্ন, তাঁর সহায়তা আর তাঁর সাহায্য দিয়ে। তিনি একে জুড়ে দেন ২৮:৩৫ আয়াতের ওয়াদার সঙ্গে, যেখানে আল্লাহ ভাইয়ের মাধ্যমে মূসা (আঃ)-এর বাহু শক্ত করার কথা বলেন, যাতে ফেরাউন তাঁদের নাগাল না পায়। প্রতিটি নাম ধরে বলা ভয়ের জবাবে নাম ধরে বলা এক ব্যবস্থা। জিহ্বার জন্য হারূন (আঃ), বিপদের জন্য আল্লাহর হেফাজত, মিথ্যাবাদী বলার আশঙ্কার জন্য স্বয়ং আল্লাহর সঙ্গ।"
+            "bn": "ফায্‌হাবা বিআয়াতিনা ইন্না মাআকুম মুস্তামিউন: তোমরা দুজন আমার নিদর্শন নিয়ে যাও; আমি তোমাদের সঙ্গে আছি, শুনছি। ইবন কাসীরের ব্যাখ্যায়, আল্লাহ তাঁদের সঙ্গে আছেন তাঁর হেফাজত, যত্ন, সহায়তা আর সাহায্য নিয়ে। তিনি একে জুড়ে দেন ২৮:৩৫ আয়াতের ওয়াদার সঙ্গে, যেখানে আল্লাহ ভাইয়ের মাধ্যমে মূসা (আঃ)-এর বাহু শক্ত করার কথা বলেন, যাতে ফেরাউন তাঁদের নাগাল না পায়। প্রতিটি ভয়ের কথা আলাদা করে বলা হয়েছিল, প্রতিটির জন্য আলাদা ব্যবস্থাও এল। জিহ্বার জন্য হারূন (আঃ), বিপদের জন্য আল্লাহর হেফাজত, মিথ্যাবাদী বলার আশঙ্কার জন্য স্বয়ং আল্লাহর সঙ্গ।"
           }
         ]
       },
@@ -393,7 +393,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The two accounts read together make the point unmistakable. In Ṭāhā, God's reassurance is innanī maʿakumā asmaʿu wa arā, I am with you both, I hear and I see. Ibn Kathir sets this line next to the listening God promises in our sūrah. A servant who names his fear and asks for help is not turned away and not scolded. He is answered, equipped, and accompanied. The pattern is God's own, repeated across two surahs so it cannot be missed.",
-            "bn": "দুই বর্ণনা একসঙ্গে পড়লে কথাটা আর অস্পষ্ট থাকে না। তা-হায় আল্লাহর আশ্বাস, ইন্নানী মাআকুমা আসমাউ ওয়া আরা, আমি তোমাদের দুজনের সঙ্গে আছি, শুনছি ও দেখছি। ইবন কাসীর এই বাক্যটা রাখেন আমাদের সূরায় আল্লাহর শোনার প্রতিশ্রুতির পাশে। যে বান্দা নিজের ভয় নাম ধরে বলে আর সাহায্য চায়, তাকে ফিরিয়ে দেওয়া হয় না, ধমকও দেওয়া হয় না। তাকে জবাব দেওয়া হয়, তৈরি করে দেওয়া হয়, আর সঙ্গ দেওয়া হয়। এ ধরনটা আল্লাহরই, দুই সূরায় বারবার বলা, যাতে চোখ এড়িয়ে না যায়।"
+            "bn": "দুই বর্ণনা একসঙ্গে পড়লে কথাটা আর অস্পষ্ট থাকে না। তা-হায় আল্লাহর আশ্বাস, ইন্নানী মাআকুমা আসমাউ ওয়া আরা, আমি তোমাদের দুজনের সঙ্গে আছি, শুনছি ও দেখছি। ইবন কাসীর এই বাক্যটা রাখেন আমাদের সূরায় আল্লাহর শোনার প্রতিশ্রুতির পাশে। যে বান্দা নিজের ভয় নাম ধরে বলে আর সাহায্য চায়, তাকে ফিরিয়ে দেওয়া হয় না, ধমকও দেওয়া হয় না। আল্লাহ তার ডাকে সাড়া দেন, প্রয়োজনীয় সবকিছু দিয়ে তাকে প্রস্তুত করেন, আর তার সঙ্গে থাকেন। এটা আল্লাহরই রীতি, দুই সূরায় একইভাবে বলা, যাতে কারও চোখ এড়িয়ে না যায়।"
           }
         ]
       },
@@ -405,7 +405,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Qur'an shows God answering Mūsā's turn toward Him with nearness, and a hadith qudsi carries the same promise to everyone who turns. Al-Bukhari records from Abū Hurayra (RA) that the Prophet ﷺ said that God says: I am as My servant thinks of Me, and I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself; if he draws near to Me a handspan, I draw near to him an arm's length; and if he comes to Me walking, I come to him running.",
-            "bn": "কুরআন দেখায় আল্লাহ মূসা (আঃ)-এর তাঁর দিকে ফেরাকে নৈকট্য দিয়ে জবাব দিচ্ছেন, আর একটি হাদীসে কুদসী একই ওয়াদা পৌঁছে দেয় প্রত্যেক ফেরা মানুষের কাছে। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন, আল্লাহ বলেন: আমার বান্দা আমার সম্পর্কে যেমন ধারণা রাখে আমি তেমন, আর সে যখন আমাকে স্মরণ করে তখন আমি তার সঙ্গে থাকি। সে যদি মনে মনে আমাকে স্মরণ করে, আমি মনে মনে তাকে স্মরণ করি; সে যদি এক বিঘত আমার দিকে এগোয়, আমি এক হাত তার দিকে এগোই; আর সে যদি হেঁটে আমার কাছে আসে, আমি দৌড়ে তার কাছে যাই।"
+            "bn": "কুরআন দেখায়, মূসা (আঃ) আল্লাহর দিকে ফিরলে আল্লাহ তাঁকে কাছে টেনে জবাব দেন। আর একটি হাদিসে কুদসী একই ওয়াদা পৌঁছে দেয় তাঁর দিকে ফেরা প্রত্যেক মানুষের কাছে। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন, আল্লাহ বলেন: আমার বান্দা আমার সম্পর্কে যেমন ধারণা রাখে আমি তেমন, আর সে যখন আমাকে স্মরণ করে তখন আমি তার সঙ্গে থাকি। সে যদি মনে মনে আমাকে স্মরণ করে, আমি মনে মনে তাকে স্মরণ করি; সে যদি এক বিঘত আমার দিকে এগোয়, আমি এক হাত তার দিকে এগোই; আর সে যদি হেঁটে আমার কাছে আসে, আমি দৌড়ে তার কাছে যাই।"
           },
           {
             "en": "The wording answers our verse almost line for line. Mūsā (AS) feared and turned to his Lord, and God said innā maʿakum, We are with you. The hadith makes that companionship the standing rule: God is with the servant the moment the servant remembers Him, and He closes the distance faster than the servant opens it. The fear that drives someone toward God is not the end of nearness. It is often its beginning, the first handspan that God answers with an arm's length.",
@@ -413,7 +413,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the believer who feels fear at the threshold of a duty is not far from God for feeling it. He is exactly where Mūsā (AS) stood, and the same nearness is on offer. The remedy the hadith prescribes is not to manufacture confidence but to remember God, for it is in that remembrance that His companionship is both promised and given.",
-            "bn": "তাই কোনো কর্তব্যের দোরগোড়ায় যে বিশ্বাসী ভয় অনুভব করে, সে ভয় পাওয়ার কারণে আল্লাহ থেকে দূরে নয়। সে ঠিক সেখানেই দাঁড়িয়ে, যেখানে মূসা (আঃ) দাঁড়িয়েছিলেন, আর সেই একই নৈকট্য তার সামনেও খোলা। হাদীসের দাওয়াই বানানো আত্মবিশ্বাস নয়, আল্লাহকে স্মরণ করা, কারণ সেই স্মরণের ভেতরেই তাঁর সঙ্গ থাকার ওয়াদা, আর সেখানেই তা পাওয়া যায়।"
+            "bn": "তাই কোনো দায়িত্বের দোরগোড়ায় দাঁড়িয়ে যে মুমিন ভয় পায়, ভয় পাওয়ার কারণে সে আল্লাহ থেকে দূরে নয়। সে ঠিক সেখানেই দাঁড়িয়ে, যেখানে মূসা (আঃ) দাঁড়িয়েছিলেন, আর সেই একই নৈকট্য তার জন্যও খোলা। হাদিস যে দাওয়াই দেয়, তা জোর করে আত্মবিশ্বাস তৈরি করা নয়; তা হলো আল্লাহর জিকির। কারণ এই জিকিরের মধ্যেই আল্লাহ সঙ্গে থাকার ওয়াদা দিয়েছেন, আর এর মধ্যেই সেই সঙ্গ মেলে।"
           }
         ]
       },
@@ -425,11 +425,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The lesson sits close to the surface. When you are called to something right and hard, and fear rises, you have Mūsā's example: do not perform a fearlessness you do not feel, and do not let the fear talk you out of the task. Name it to God plainly, and ask, as concretely as Mūsā (AS) did, for the particular help that would let you go. His fear did not disqualify him. His honesty about it opened the door to the support that carried him through.",
-            "bn": "শিক্ষাটা একদম উপরিতলে। সঠিক অথচ কঠিন কোনো কাজের ডাক এলে আর ভয় জাগলে, আপনার সামনে মূসা (আঃ)-এর নমুনা: যে নির্ভয়তা আপনি অনুভব করেন না তার অভিনয় করবেন না, আবার ভয়কে দিয়ে কাজ থেকে নিজেকে সরিয়ে নিতেও দেবেন না। আল্লাহকে সাফ বলুন, আর মূসা (আঃ)-এর মতোই নির্দিষ্ট করে চান সেই সাহায্য, যা আপনাকে এগিয়ে যেতে দেবে। তাঁর ভয় তাঁকে অযোগ্য করেনি। ভয় নিয়ে তাঁর সততাই সেই সহায়ের দরজা খুলে দিয়েছিল, যা তাঁকে পার করে নিয়ে গেছে।"
+            "bn": "শিক্ষাটা খুঁজতে দূরে যেতে হয় না। সঠিক অথচ কঠিন কোনো কাজের ডাক এলে যখন ভয় জাগে, তখন আপনার সামনে মূসা (আঃ)-এর দৃষ্টান্ত আছে। মনে যে সাহস নেই, তার ভান করবেন না; আবার ভয়ের কথা শুনে কাজটা ছেড়েও দেবেন না। আল্লাহকে খোলাখুলি বলুন, আর মূসা (আঃ)-এর মতো নির্দিষ্ট করে সেই সাহায্য চান, যা পেলে আপনি এগোতে পারবেন। ভয় তাঁকে অযোগ্য করেনি। বরং ভয়ের কথা সৎভাবে স্বীকার করাতেই সেই সাহায্যের দরজা খুলেছিল, যা তাঁকে শেষ পর্যন্ত পার করে নিয়েছে।"
           },
           {
             "en": "And notice how God met him: not with rebuke, but with kallā and I am with you. That is the answer to expect. We do not go to God with our fears to be shamed for having them; we go to be strengthened and accompanied. Whoever takes his fear to his Lord walks out of the encounter not fearless, but no longer alone.",
-            "bn": "আর খেয়াল করুন আল্লাহ তাঁকে কীভাবে জবাব দিলেন: তিরস্কারে নয়, কাল্লা আর আমি তোমাদের সঙ্গে আছি বলে। এমন জবাবেরই আশা রাখুন। আমরা ভয় নিয়ে আল্লাহর কাছে যাই না লজ্জা পেতে; যাই শক্তি আর সঙ্গ পেতে। যে নিজের ভয় রবের কাছে নিয়ে যায়, সে ওই সাক্ষাৎ থেকে বেরিয়ে আসে নির্ভয় হয়ে নয়, কিন্তু আর একা নয়।"
+            "bn": "আর খেয়াল করুন, আল্লাহ তাঁকে কীভাবে জবাব দিলেন: তিরস্কার করে নয়, বরং কাল্লা বলে, আর আমি তোমাদের সঙ্গে আছি বলে। এমন জবাবেরই আশা রাখুন। আমরা ভয় নিয়ে আল্লাহর কাছে যাই না ভয়ের জন্য লজ্জা পেতে; যাই শক্তি আর সঙ্গ পেতে। যে নিজের ভয় রবের কাছে নিয়ে যায়, সে হয়তো নির্ভয় হয়ে ফেরে না, কিন্তু আর একা থাকে না।"
           },
           {
             "en": "The surrounding verses name Pharaoh's people as wrongdoers, and the Qur'an is describing a specific tyrant and his court at a specific moment in history. It condemns that tyranny; it licenses nothing against any living person or community today. The verse's work is inward: it teaches how a servant carries fear to God, not how to look upon any neighbour.",
@@ -473,11 +473,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "al-Muyassar draws the full picture into the verse: you count that upbringing in your house a favour, while you made the Children of Israel slaves, slaughtering their sons and sparing their women. Ma'arif carries the scale the commentators keep in view, on al-Qurtubi's authority: a people held in bondage for generations, a vast multitude, kept from returning to their own land. Against all that, one boy spared is not generosity; it is the single splinter the crime happened to throw off.",
-            "bn": "মুয়াসসার পুরো ছবিটা আয়াতের ভেতরে টেনে আনে: তোমার ঘরের সেই লালনপালনকে তুমি আমার প্রতি অনুগ্রহ গণ্য করছ, অথচ তুমি বনী ইসরাঈলকে দাস বানিয়েছ, তাদের ছেলেদের জবাই করছ আর মেয়েদের বাঁচিয়ে রাখছ। মাআরিফ কুরতুবীর সূত্রে সেই বিশালতার কথা রাখে যা তাফসীরকারেরা চোখের সামনে রাখেন: প্রজন্মের পর প্রজন্ম দাসত্বে আটকে থাকা এক জাতি, বিশাল এক জনগোষ্ঠী, নিজেদের দেশে ফিরতে না পারা। এসবের বিপরীতে একটা ছেলেকে রেহাই দেওয়া দয়া নয়; ওই অপরাধেরই ছিটকে পড়া একটামাত্র টুকরো।"
+            "bn": "মুয়াসসার পুরো ছবিটা আয়াতের ভেতরে টেনে আনে: তোমার ঘরের সেই লালনপালনকে তুমি আমার প্রতি অনুগ্রহ গণ্য করছ, অথচ তুমি বনী ইসরাঈলকে দাস বানিয়েছ, তাদের ছেলেদের জবাই করছ আর মেয়েদের বাঁচিয়ে রাখছ। মাআরিফ কুরতুবীর সূত্রে তুলে ধরে অপরাধের সেই বিশালতা, যা তাফসীরকারেরা সবসময় মনে রাখেন: প্রজন্মের পর প্রজন্ম দাসত্বে আটকে থাকা এক জাতি, বিশাল এক জনগোষ্ঠী, নিজেদের দেশে ফিরতে না পারা। এসবের বিপরীতে একটা ছেলেকে রেহাই দেওয়া দয়া নয়; ওই অপরাধেরই ছিটকে পড়া একটামাত্র টুকরো।"
           },
           {
             "en": "The lexicographers behind at-Tabari and al-Baghawi note that this one act is named with several near-synonyms, 'abbada, a'bada and ista'bada, all meaning to take a person as an owned slave. The Qur'an does not soften it into service or employment. It names ownership of human beings, of the kind that lets a ruler slaughter their infants at will, and it is exactly this that Musa (AS) refuses to accept as the ground of any favour whatsoever.",
-            "bn": "তাবারী ও বাগাভীর পেছনের ভাষাবিদরা লক্ষ করেন যে এই একই কাজকে কয়েকটা কাছাকাছি শব্দে বলা হয়: আব্বাদা, আ'বাদা আর ইসতা'বাদা, সবগুলোরই মানে কাউকে মালিকানাধীন দাস বানিয়ে নেওয়া। কুরআন একে সেবা বা চাকরিতে নরম করে আনে না। এ নাম দেয় মানুষের ওপর মালিকানার, এমন মালিকানা যা একজন শাসককে ইচ্ছেমতো তাদের শিশুদের জবাই করতে দেয়। ঠিক এটাকেই মূসা (আঃ) কোনো অনুগ্রহেরই ভিত্তি হিসেবে মেনে নিতে অস্বীকার করেন।"
+            "bn": "তাবারী ও বাগাভীর পেছনের ভাষাবিদরা লক্ষ করেন যে এই একই কাজকে কয়েকটা কাছাকাছি শব্দে বলা হয়: আব্বাদা, আ'বাদা আর ইসতা'বাদা, সবগুলোরই মানে কাউকে মালিকানাধীন দাস বানিয়ে নেওয়া। কুরআন একে সেবা বা চাকরি বলে নরম করে না। সোজাসুজি বলে মানুষকে মালিকানায় নেওয়ার কথা, যে মালিকানা একজন শাসককে ইচ্ছেমতো তাদের শিশুদের জবাই করার সুযোগ দেয়। ঠিক এটাকেই মূসা (আঃ) কোনো অনুগ্রহের ভিত্তি বলে মেনে নিতে রাজি নন।"
           }
         ]
       },
@@ -489,11 +489,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Here the commentators press the causal chain. Al-Baghawi puts it in Musa's mouth: by enslaving the Children of Israel and killing their children, you left me with no family to raise me, so I was handed over to you; had you not enslaved and killed them, my own people would have reared me and never cast me into the river, so what favour do you hold over me? The palace, on this reading, was the wound's own doing.",
-            "bn": "এখানে তাফসীরকারেরা কার্যকারণের সুতোটায় চাপ দেন। বাগাভী কথাটা মূসা (আঃ)-এর মুখে বসিয়ে দেন: বনী ইসরাঈলকে দাস বানিয়ে আর তাদের সন্তানদের মেরে তুমি আমাকে লালন করার মতো কোনো পরিবার রাখোনি, তাই আমাকে তোমার হাতে তুলে দেওয়া হয়েছিল। তুমি যদি তাদের দাস না বানাতে আর না মারতে, আমার নিজের লোকেরাই আমাকে বড় করত, কখনো আমাকে নদীতে ফেলত না। তাহলে আমার ওপর তোমার অনুগ্রহটা কোথায়? এই পড়ায় প্রাসাদ ছিল সেই ক্ষতেরই নিজের হাতের কাজ।"
+            "bn": "এখানে তাফসীরকারেরা কার্যকারণের সুতোটা টেনে ধরেন। বাগাভী কথাটা মূসা (আঃ)-এর মুখে বসিয়ে দেন: বনী ইসরাঈলকে দাস বানিয়ে আর তাদের সন্তানদের মেরে তুমি আমাকে লালন করার মতো কোনো পরিবার রাখোনি, তাই আমাকে তোমার হাতে তুলে দেওয়া হয়েছিল। তুমি যদি তাদের দাস না বানাতে আর না মারতে, আমার নিজের লোকেরাই আমাকে বড় করত, কখনো আমাকে নদীতে ফেলত না। তাহলে আমার ওপর তোমার অনুগ্রহটা কোথায়? এই ব্যাখ্যায়, প্রাসাদে পৌঁছানোটাও ছিল সেই জুলুমেরই ফল।"
           },
           {
             "en": "Ad-Dahhak, in al-Qurtubi's report, reads the line as rebuke: had you not killed the Children of Israel, my own parents would have raised me, so what favour is yours, that you hold over me what you had no right to hold? Al-Qurtubi adds a second edge that several commentators sound: how do you count the upbringing a kindness when you have humiliated my people? Whoever's people are abased is himself abased. The private gift cannot be lifted clear of the public wrong.",
-            "bn": "কুরতুবীর বর্ণনায় দাহহাক লাইনটাকে ভর্ৎসনা হিসেবে পড়েন: তুমি যদি বনী ইসরাঈলকে না মারতে, আমার নিজের বাবা-মা-ই আমাকে বড় করতেন; তাহলে তোমার অনুগ্রহটা কী, যে তুমি এমন কিছুর খোঁটা দিচ্ছ যা দেওয়ার কোনো অধিকারই তোমার ছিল না? কুরতুবী আরেকটা ধার যোগ করেন যা কয়েকজন তাফসীরকার তোলেন: তুমি লালনপালনকে দয়া গণ্য করছ কী করে, যখন তুমি আমার জাতিকে অপমান করেছ? যার জাতি লাঞ্ছিত, সে নিজেও লাঞ্ছিত। ব্যক্তিগত দানকে জনসমক্ষের এই অন্যায় থেকে আলাদা করে তোলা যায় না।"
+            "bn": "কুরতুবীর বর্ণনায় দাহহাক লাইনটাকে ভর্ৎসনা হিসেবে পড়েন: তুমি যদি বনী ইসরাঈলকে না মারতে, আমার নিজের বাবা-মা-ই আমাকে বড় করতেন; তাহলে তোমার অনুগ্রহটা কী, যে তুমি এমন কিছুর খোঁটা দিচ্ছ যা দেওয়ার কোনো অধিকারই তোমার ছিল না? কুরতুবী আরেকটা ধার যোগ করেন যা কয়েকজন তাফসীরকার তোলেন: তুমি লালনপালনকে দয়া গণ্য করছ কী করে, যখন তুমি আমার জাতিকে অপমান করেছ? যার জাতি লাঞ্ছিত, সে নিজেও লাঞ্ছিত। গোটা জাতির ওপর করা অন্যায় থেকে ব্যক্তিগত দানকে আলাদা করে দেখা যায় না।"
           },
           {
             "en": "Al-Baghawi gathers a further sense that some give the line: you hold the upbringing over me and forget your own crime against the Children of Israel, the enslavement and the ugly dealings. On this reading the reminder is not merely outweighed; it is disqualified, because it rests on the very oppression it is meant to excuse. A benefit that could exist only because a wrong was done cannot then be produced as evidence of goodness.",
@@ -504,16 +504,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Conceded, or Denied?",
-          "bn": "মেনে নেওয়া, নাকি অস্বীকার"
+          "bn": "মেনে নেওয়া, নাকি অস্বীকার?"
         },
         "p": [
           {
             "en": "The commentators divide on how the retort works, and the division is worth keeping open. On one reading it is acknowledgement. As-Suddi, at-Tabari and al-Farra', in al-Qurtubi's account, take Musa (AS) to grant that the upbringing was a favour, in that Pharaoh enslaved others and left him free, yet to add at once that a favour repels nothing of his messengership. An elided clause carries it, at-Tabari notes: that is a favour, that you enslaved them and left me un-enslaved.",
-            "bn": "খোঁটাটা কীভাবে কাজ করছে, তা নিয়ে তাফসীরকারেরা ভাগ হয়ে যান, আর এই ভাগটা খোলা রাখাই ভালো। এক পড়ায় এটা স্বীকারোক্তি। কুরতুবীর বিবরণে সুদ্দী, তাবারী আর ফাররা মূসা (আঃ)-কে এভাবে বোঝেন: তিনি মেনে নিচ্ছেন যে লালনপালন একটা অনুগ্রহ ছিল, এ অর্থে যে ফেরাউন অন্যদের দাস বানিয়ে তাঁকে ছেড়ে দিয়েছিল, তবে সঙ্গে সঙ্গে বলছেন যে কোনো অনুগ্রহই তাঁর রিসালাতকে ঠেকাতে পারে না। তাবারী বলেন, একটা উহ্য বাক্য এ অর্থ বহন করে: এই সেই অনুগ্রহ, যে তুমি তাদের দাস বানিয়ে আমাকে দাস বানাওনি।"
+            "bn": "মূসার এই পাল্টা জবাব কীভাবে বুঝতে হবে, তা নিয়ে তাফসীরকারেরা দুই ভাগ হয়ে যান, আর দুটো মতই খোলা রাখা ভালো। এক পড়ায় এটা স্বীকারোক্তি। কুরতুবীর বিবরণে সুদ্দী, তাবারী আর ফাররা মূসা (আঃ)-কে এভাবে বোঝেন: তিনি মেনে নিচ্ছেন যে লালনপালন একটা অনুগ্রহ ছিল, এ অর্থে যে ফেরাউন অন্যদের দাস বানিয়ে তাঁকে ছেড়ে দিয়েছিল, তবে সঙ্গে সঙ্গে বলছেন যে কোনো অনুগ্রহই তাঁর রিসালাতকে ঠেকাতে পারে না। তাবারী বলেন, একটা উহ্য বাক্য এ অর্থ বহন করে: এই সেই অনুগ্রহ, যে তুমি তাদের দাস বানিয়ে আমাকে দাস বানাওনি।"
           },
           {
             "en": "On the other reading it is denial. Qatada, in both at-Tabari and al-Qurtubi, hears a question with the force of refusal: do you hold it over me as a favour that you took a people as slaves? It is no favour at all. Al-Akhfash and al-Farra' would supply a dropped interrogative alif, reading is that a favour?; an-Nahhas rejected that grammar, since dropping the questioning hamza with no am to mark it is, he held, not allowed. At-Tabari records both grammatical readings of that you enslaved, one tying it to the boast and one setting it in apposition to the favour itself.",
-            "bn": "অন্য পড়ায় এটা অস্বীকার। তাবারী আর কুরতুবী দুজনের বর্ণনাতেই কাতাদা এতে প্রত্যাখ্যানের ঝোঁকসহ একটা প্রশ্ন শোনেন: একটা জাতিকে দাস বানিয়েছ বলে কি তুমি আমার ওপর অনুগ্রহের খোঁটা দিচ্ছ? এ তো অনুগ্রহই নয়। আখফাশ আর ফাররা এখানে একটা লোপ পাওয়া প্রশ্নবোধক আলিফ ধরে নেন, পড়েন এটা কি অনুগ্রহ। নাহহাস সেই ব্যাকরণ নাকচ করেন, কারণ আম দিয়ে চিহ্নিত না করে প্রশ্নের হামযা লোপ করা তাঁর মতে জায়েজ নয়। যে তুমি দাস বানিয়েছ অংশটির দুই রকম ব্যাকরণগত পড়াই তাবারী নথিভুক্ত করেন, একটা তাকে খোঁটার সঙ্গে বাঁধে, আরেকটা তাকে অনুগ্রহেরই সমার্থক করে তোলে।"
+            "bn": "অন্য পড়ায় এটা অস্বীকার। তাবারী আর কুরতুবী দুজনের বর্ণনাতেই কাতাদা এতে এমন একটা প্রশ্ন শোনেন, যার আসল সুর অস্বীকার: একটা জাতিকে দাস বানিয়েছ বলে কি তুমি আমার ওপর অনুগ্রহের খোঁটা দিচ্ছ? এ তো অনুগ্রহই নয়। আখফাশ আর ফাররা এখানে একটা লোপ পাওয়া প্রশ্নবোধক আলিফ ধরে নেন, পড়েন এটা কি অনুগ্রহ। নাহহাস সেই ব্যাকরণ নাকচ করেন, কারণ আম দিয়ে চিহ্নিত না করে প্রশ্নের হামযা লোপ করা তাঁর মতে জায়েজ নয়। যে তুমি দাস বানিয়েছ অংশটির দুই রকম ব্যাকরণগত ব্যাখ্যাই তাবারী উল্লেখ করেন: একটা একে খোঁটার সঙ্গে জোড়ে, আরেকটা একে অনুগ্রহ শব্দেরই ব্যাখ্যা হিসেবে বসায়।"
           }
         ]
       },
@@ -525,11 +525,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir draws the moral arithmetic sharply. You did good to me and raised me, he has Musa (AS) say, set against the evil you did to the Children of Israel, whom you made slaves and servants, driving them in your labours and hardships. Does your kindness to one man of them make up for the evil you did to the whole of them? What you have named is nothing beside what you did to them. The ledger will not net a crime against a people down to one private debt.",
-            "bn": "ইবন কাসীর নৈতিক হিসাবটা তীক্ষ্ণভাবে টানেন। মূসা (আঃ)-এর মুখে তিনি বসান: তুমি আমার উপকার করেছ, আমাকে বড় করেছ, আর তার বিপরীতে বনী ইসরাঈলের সঙ্গে যে মন্দ করেছ, যাদের দাস ও চাকর বানিয়েছ, তোমার কঠিন কাজে খাটিয়েছ। তাদের একজন মানুষের প্রতি তোমার দয়া কি তাদের সবার প্রতি করা মন্দকে পুষিয়ে দেয়? তুমি যা বললে তা তো তাদের প্রতি করা কাজের তুলনায় কিছুই নয়। খাতা কখনো একটা জাতির ওপর করা অপরাধকে কমিয়ে একটা ব্যক্তিগত ঋণে নামিয়ে আনবে না।"
+            "bn": "ইবন কাসীর ন্যায়-অন্যায়ের হিসাবটা খুব স্পষ্ট করে কষেন। তিনি মূসা (আঃ)-এর মুখে কথাটা এভাবে বসান: তুমি আমার উপকার করেছ, আমাকে লালন করেছ; অথচ বনী ইসরাঈলের সঙ্গে তুমি কত মন্দ আচরণ করেছ! তাদের দাস আর চাকর বানিয়েছ, তোমার কঠিন সব কাজে খাটিয়েছ। তাদের একজনের প্রতি তোমার দয়া কি তাদের সবার প্রতি করা মন্দ পুষিয়ে দিতে পারে? তুমি যা বললে, তাদের সঙ্গে তুমি যা করেছ তার তুলনায় তা কিছুই নয়। গোটা জাতির ওপর করা অপরাধকে একজনের প্রতি করা ব্যক্তিগত উপকার দিয়ে কাটাকাটি করা যায় না।"
           },
           {
             "en": "As-Sa'di turns the same point inward, to what reflection uncovers. You extend this favour, he reads, because you subjected the Children of Israel and made them like slaves to you, while sparing me from your bondage and calling that a kindness. But once it is seen clearly, the truth is that you wronged a noble people, tortured them and drove them in your works, while God delivered me from your harm even as your harm reached my own people. So what is this favour you keep flaunting?",
-            "bn": "সাদী একই কথা ভেতরের দিকে ঘোরান, যা চিন্তা করলে বেরিয়ে আসে। তিনি এভাবে পড়েন: তুমি এই অনুগ্রহের খোঁটা দিচ্ছ কারণ তুমি বনী ইসরাঈলকে বশে এনে তোমার কাছে দাসের মতো বানিয়েছ, আর আমাকে তোমার দাসত্ব থেকে রেহাই দিয়ে সেটাকে দয়া বলছ। কিন্তু একবার পরিষ্কার করে দেখলে সত্যটা এই যে, তুমি এক সম্মানিত জাতির ওপর জুলুম করেছ, তাদের কষ্ট দিয়েছ আর নিজের কাজে খাটিয়েছ, অথচ আল্লাহ আমাকে তোমার ক্ষতি থেকে বাঁচিয়েছেন, যদিও তোমার ক্ষতি আমার নিজের জাতির কাছে পৌঁছেছে। তাহলে এই যে অনুগ্রহের বড়াই বারবার করছ, তা কী?"
+            "bn": "সাদী একই কথাকে নিয়ে যান গভীর চিন্তার দিকে, একটু ভাবলেই যা বেরিয়ে আসে। তিনি এভাবে পড়েন: তুমি এই অনুগ্রহের খোঁটা দিচ্ছ কারণ তুমি বনী ইসরাঈলকে বশে এনে তোমার কাছে দাসের মতো বানিয়েছ, আর আমাকে তোমার দাসত্ব থেকে রেহাই দিয়ে সেটাকে দয়া বলছ। কিন্তু একবার পরিষ্কার করে দেখলে সত্যটা এই যে, তুমি এক সম্মানিত জাতির ওপর জুলুম করেছ, তাদের কষ্ট দিয়েছ আর নিজের কাজে খাটিয়েছ, অথচ আল্লাহ আমাকে তোমার ক্ষতি থেকে বাঁচিয়েছেন, যদিও তোমার ক্ষতি আমার নিজের জাতির কাছে পৌঁছেছে। তাহলে এই যে অনুগ্রহের বড়াই বারবার করছ, তা কী?"
           }
         ]
       },
@@ -541,7 +541,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No commentator here attaches a hadith to 26:22, so what follows is a general narration, brought for its theme and not as a comment on the verse. At-Tirmidhi records from Abu Sa'id al-Khudri that the Prophet said, \"Indeed, among the greatest kinds of jihad is a just word before a tyrannical ruler.\" At-Tirmidhi graded it hasan gharib; Abu Dawud carries the same report in his own wording. Its grade is not to be lifted beyond what the collector himself gave it.",
-            "bn": "এখানে কোনো তাফসীরকার ২৬:২২-এর সঙ্গে কোনো হাদীস জোড়েন না, তাই যা আসছে তা একটা সাধারণ বর্ণনা, বিষয়ের জন্য আনা, আয়াতের ব্যাখ্যা হিসেবে নয়। তিরমিযী আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন, ‘নিশ্চয়ই সবচেয়ে বড় জিহাদগুলোর একটি হলো জালিম শাসকের সামনে ন্যায়ের কথা বলা।’ তিরমিযী একে হাসান গারীব বলেছেন; আবু দাউদ একই বর্ণনা নিজের শব্দে এনেছেন। এর মান বর্ণনাকারী নিজে যা দিয়েছেন তার চেয়ে বাড়ানো যাবে না।"
+            "bn": "এখানে কোনো তাফসীরকার ২৬:২২-এর সঙ্গে কোনো হাদিস জোড়েন না, তাই নিচের হাদিসটি একটি সাধারণ বর্ণনা, বিষয়ের মিল দেখে আনা হয়েছে, আয়াতের ব্যাখ্যা হিসেবে নয়। তিরমিযী আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন, ‘নিশ্চয়ই সবচেয়ে বড় জিহাদগুলোর একটি হলো জালিম শাসকের সামনে ন্যায়ের কথা বলা।’ তিরমিযী একে হাসান গারীব বলেছেন; আবু দাউদ একই বর্ণনা নিজের শব্দে এনেছেন। সংকলক নিজে একে যে মান দিয়েছেন, তার চেয়ে বাড়িয়ে বলা যাবে না।"
           },
           {
             "en": "The narration lights up what Musa (AS) is doing. Ma'arif calls his answer a model of prophetic dialectic: he does not camouflage his own weakness, taking up the killing first and owning it, then he speaks the plain truth about the enslavement to the tyrant's face, in a packed court, with no third man beside him to lend support. A just word before an unjust throne is here not a slogan but a scene, and the verse is its record.",
