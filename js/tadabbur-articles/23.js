@@ -48,7 +48,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Bracket of Prayer",
-          "bn": "নামাযের বন্ধনী"
+          "bn": "নামাজের বন্ধনী"
         },
         "p": [
           {
@@ -621,7 +621,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nine verses earlier, Nuh (AS) had stood before his people with a single sentence: worship Allah, you have no god but Him; will you not fear Him? Now a whole civilisation has risen and fallen since, and God sends a new messenger to a new people. The first words He gives him are not new words. They are the same sentence, letter for letter: worship Allah, you have no god but Him; will you not fear Him? The Qur'an lets us hear the repetition on purpose.",
-            "bn": "মাত্র নয়টি আয়াত আগে নূহ (আঃ) তাঁর জাতির সামনে দাঁড়িয়ে একটিমাত্র বাক্য বলেছিলেন: আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই; তোমরা কি ভয় করবে না? এরপর একটি গোটা সভ্যতা উঠেছে আবার মিশে গেছে, আর আল্লাহ নতুন এক জাতির কাছে নতুন এক রসূল পাঠান। তাঁকে দেওয়া প্রথম কথাগুলো কিন্তু নতুন নয়। সেই একই বাক্য, অক্ষরে অক্ষরে: আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই; তোমরা কি ভয় করবে না? কুরআন আমাদের এই পুনরাবৃত্তি ইচ্ছে করেই শোনায়।"
+            "bn": "মাত্র নয়টি আয়াত আগে নূহ (আঃ) তাঁর জাতির সামনে দাঁড়িয়ে একটিমাত্র বাক্য বলেছিলেন: আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই; তোমরা কি ভয় করবে না? এরপর একটি গোটা সভ্যতা উঠেছে আবার মিশে গেছে, আর আল্লাহ নতুন এক জাতির কাছে নতুন এক রাসূল পাঠান। তাঁকে দেওয়া প্রথম কথাগুলো কিন্তু নতুন নয়। সেই একই বাক্য, অক্ষরে অক্ষরে: আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই; তোমরা কি ভয় করবে না? কুরআন আমাদের এই পুনরাবৃত্তি ইচ্ছে করেই শোনায়।"
           },
           {
             "en": "This is the quiet architecture of surah al-Mu'minun. It moves through prophet after prophet, and at each stop the opening call is the same. The scenery changes, the century changes, the faces change, but the one demand does not. Before we ask who this later messenger was or what became of his people, the verse wants us to notice what has not moved. The message did not evolve over time. It was complete the first time it was spoken, and after that it only ever needed saying again.",
@@ -668,7 +668,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Messenger From Their Own Kind",
-          "bn": "তাদেরই একজন রসূল"
+          "bn": "তাদেরই একজন রাসূল"
         },
         "p": [
           {
@@ -753,7 +753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the verse leaves us with two gifts and one demand. The gifts: that God did not leave a new generation without guidance, and that He sent the guidance through one of their own, a face they already knew. The demand is the sentence itself — worship Allah, you have no god but Him — unchanged from Nuh (AS) to this messenger, and unchanged still by the time it reaches us. The question at its end was never merely rhetorical. It is addressed, across every century, to whoever happens to be reading. Will you not guard yourselves?",
-            "bn": "তাই আয়াতটি আমাদের হাতে তুলে দেয় দুটি উপহার আর একটি দাবি। উপহার দুটি: আল্লাহ একটি নতুন প্রজন্মকে হিদায়াত ছাড়া ফেলে রাখেননি, আর সেই হিদায়াত পাঠিয়েছেন তাদেরই একজনের মাধ্যমে, তাদের চেনা এক মুখ দিয়ে। দাবিটা হলো বাক্যটি নিজেই: আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। নূহ (আঃ) থেকে এই রসূল পর্যন্ত তা বদলায়নি, আমাদের কাছে পৌঁছানো পর্যন্তও বদলায়নি। এর শেষের প্রশ্নটা কখনো নিছক কথার কথা ছিল না। প্রতিটি শতাব্দী পেরিয়ে তা এসে দাঁড়ায় যে-ই পড়ছে তার সামনে। তোমরা কি সাবধান হবে না?"
+            "bn": "তাই আয়াতটি আমাদের হাতে তুলে দেয় দুটি উপহার আর একটি দাবি। উপহার দুটি: আল্লাহ একটি নতুন প্রজন্মকে হিদায়াত ছাড়া ফেলে রাখেননি, আর সেই হিদায়াত পাঠিয়েছেন তাদেরই একজনের মাধ্যমে, তাদের চেনা এক মুখ দিয়ে। দাবিটা হলো বাক্যটি নিজেই: আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। নূহ (আঃ) থেকে এই রাসূল পর্যন্ত তা বদলায়নি, আমাদের কাছে পৌঁছানো পর্যন্তও বদলায়নি। এর শেষের প্রশ্নটা কখনো নিছক কথার কথা ছিল না। প্রতিটি শতাব্দী পেরিয়ে তা এসে দাঁড়ায় যে-ই পড়ছে তার সামনে। তোমরা কি সাবধান হবে না?"
           }
         ]
       }
@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The speaker in this verse is not a passer-by. A few lines earlier the Qur'an named him: the eminent of the people, those who disbelieved, denied the meeting of the Hereafter, and had been given ease in the life of this world (23:33). They have listened to their own messenger, one of themselves, and this ayah is the last word of their answer. He is nothing but a man, they say, who has invented a lie about Allah, and we will never believe him.",
-            "bn": "এ আয়াতে যে কথা বলছে, সে পথচলতি কেউ নয়। কয়েক লাইন আগেই কুরআন তাকে চিনিয়ে দিয়েছে: সম্প্রদায়ের প্রধানেরা, যারা কুফরি করেছিল, আখিরাতের সাক্ষাৎকে মিথ্যা বলেছিল, আর দুনিয়ার জীবনে যাদের ভোগের উপকরণ দেওয়া হয়েছিল (২৩:৩৩)। তাদেরই একজনকে রসূল করে পাঠানো হয়েছিল, তারা তাঁর কথা শুনেছে, আর এ আয়াতটি তাদের জবাবের শেষ কথা। তারা বলে, সে নিছক একজন মানুষ, যে আল্লাহ সম্পর্কে মিথ্যা বানিয়ে নিয়েছে, আর আমরা তাকে কক্ষনো বিশ্বাস করব না।"
+            "bn": "এ আয়াতে যে কথা বলছে, সে পথচলতি কেউ নয়। কয়েক লাইন আগেই কুরআন তাকে চিনিয়ে দিয়েছে: সম্প্রদায়ের প্রধানেরা, যারা কুফরি করেছিল, আখিরাতের সাক্ষাৎকে মিথ্যা বলেছিল, আর দুনিয়ার জীবনে যাদের ভোগের উপকরণ দেওয়া হয়েছিল (২৩:৩৩)। তাদেরই একজনকে রাসূল করে পাঠানো হয়েছিল, তারা তাঁর কথা শুনেছে, আর এ আয়াতটি তাদের জবাবের শেষ কথা। তারা বলে, সে নিছক একজন মানুষ, যে আল্লাহ সম্পর্কে মিথ্যা বানিয়ে নিয়েছে, আর আমরা তাকে কক্ষনো বিশ্বাস করব না।"
           },
           {
             "en": "The Arabic frames it as a total dismissal. In huwa illā rajul — he is no more than a man; then two charges hang on that reduction. The first is iftirā': he has fabricated, patched together, a falsehood and pinned it on Allah. The second is their verdict on themselves: wa mā naḥnu lahu bi-mu'minīn, we are not going to believe him. Al-Qurtubi and al-Baghawi both note the plain sense of the opening — huwa, he, means the messenger — so the sentence is aimed squarely at the man who had been sent to them.",
@@ -801,7 +801,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who were these chiefs, and who was their messenger? The Qur'an does not name them here; it says only that God raised them up after the people of Nuh (23:31 and 23:32). At-Tabari, reading the verse, supplies a name: he glosses their words as, Salih is nothing but a man who has invented a lie — placing the scene among Thamud, whose prophet was Salih. Ibn Kathir keeps the question open. He reports that this generation was said to be 'Ad, since they came directly after Nuh's people, or else Thamud.",
-            "bn": "এই প্রধানেরা কারা ছিল, আর তাদের রসূল কে? এখানে কুরআন তাদের নাম নেয়নি; শুধু বলেছে, নূহের সম্প্রদায়ের পর আল্লাহ তাদের সৃষ্টি করেছিলেন (২৩:৩১ ও ২৩:৩২)। তাবারী আয়াতটি পড়ে একটি নাম জুড়ে দেন: তিনি তাদের কথাটির ব্যাখ্যা করেন এভাবে, সালিহ একজন মানুষ ছাড়া কিছু নয় যে মিথ্যা বানিয়েছে। এতে দৃশ্যটি বসে সামূদের মাঝে, যাদের নবী ছিলেন সালিহ (আঃ)। ইবন কাসীর প্রশ্নটা খোলা রাখেন। তিনি জানান, এই জাতিকে কেউ বলেছেন আদ, কারণ তারা নূহের সম্প্রদায়ের ঠিক পরেই এসেছিল, আবার কেউ বলেছেন সামূদ।"
+            "bn": "এই প্রধানেরা কারা ছিল, আর তাদের রাসূল কে? এখানে কুরআন তাদের নাম নেয়নি; শুধু বলেছে, নূহের সম্প্রদায়ের পর আল্লাহ তাদের সৃষ্টি করেছিলেন (২৩:৩১ ও ২৩:৩২)। তাবারী আয়াতটি পড়ে একটি নাম জুড়ে দেন: তিনি তাদের কথাটির ব্যাখ্যা করেন এভাবে, সালিহ একজন মানুষ ছাড়া কিছু নয় যে মিথ্যা বানিয়েছে। এতে দৃশ্যটি বসে সামূদের মাঝে, যাদের নবী ছিলেন সালিহ (আঃ)। ইবন কাসীর প্রশ্নটা খোলা রাখেন। তিনি জানান, এই জাতিকে কেউ বলেছেন আদ, কারণ তারা নূহের সম্প্রদায়ের ঠিক পরেই এসেছিল, আবার কেউ বলেছেন সামূদ।"
           },
           {
             "en": "Ibn Kathir leans toward Thamud, and gives his reason from the passage itself: God says the Shriek, the Ṣayḥah, seized them (23:41), and the Ṣayḥah is the punishment associated with Thamud. The commentators are not agreed, and the verse does not settle it, so neither will this reading. What both views share is the point that matters: a real people, given ease and warned by one of their own, answered the warning with this sentence, and were destroyed for it.",
@@ -881,7 +881,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Nothing here is grand or public. The Day the chiefs of the town called impossible is, in the Prophet's ﷺ words, the one Day when only God's shade will serve — and it is granted for exactly the private, unnoticed faith they were mocking. They wanted a messenger raised above eating and drinking; the shade goes to ordinary people who feared God when no one was watching. What they dismissed as a lie is where the real weighing happens.",
-            "bn": "এর কিছুই জাঁকালো বা লোকদেখানো নয়। জনপদের প্রধানেরা যে দিনটাকে অসম্ভব বলেছিল, নবী ﷺ-এর ভাষায় সেটাই সেই একমাত্র দিন যেদিন কেবল আল্লাহর ছায়াই কাজে আসবে। আর তা দেওয়া হয় ঠিক সেই গোপন, চোখে-না-পড়া ঈমানের জন্য, যা নিয়ে তারা ঠাট্টা করছিল। তারা চেয়েছিল খাওয়া-দাওয়ার ঊর্ধ্বে এক রসূল; অথচ ছায়া মেলে সাধারণ মানুষের, যারা কেউ না দেখা অবস্থায় আল্লাহকে ভয় করেছিল। যাকে তারা মিথ্যা বলে উড়িয়ে দিয়েছিল, সেখানেই আসল ওজন হয়।"
+            "bn": "এর কিছুই জাঁকালো বা লোকদেখানো নয়। জনপদের প্রধানেরা যে দিনটাকে অসম্ভব বলেছিল, নবী ﷺ-এর ভাষায় সেটাই সেই একমাত্র দিন যেদিন কেবল আল্লাহর ছায়াই কাজে আসবে। আর তা দেওয়া হয় ঠিক সেই গোপন, চোখে-না-পড়া ঈমানের জন্য, যা নিয়ে তারা ঠাট্টা করছিল। তারা চেয়েছিল খাওয়া-দাওয়ার ঊর্ধ্বে এক রাসূল; অথচ ছায়া মেলে সাধারণ মানুষের, যারা কেউ না দেখা অবস্থায় আল্লাহকে ভয় করেছিল। যাকে তারা মিথ্যা বলে উড়িয়ে দিয়েছিল, সেখানেই আসল ওজন হয়।"
           }
         ]
       },
@@ -897,7 +897,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir ends his reading of the whole passage with the lesson the Qur'an itself draws: let everyone who hears this beware of disbelieving in their messengers. That is where the verse turns back on us. The reflex it shows — shrinking a messenger to 'only a man', renaming his truth a fabrication, and doing both so the reckoning can be ignored — is not locked in the ancient past. Wherever a truth is dodged by belittling the one who carries it, the sentence of these chiefs is being quietly repeated.",
-            "bn": "ইবন কাসীর পুরো অংশের আলোচনা শেষ করেন কুরআনের নিজেরই টানা শিক্ষা দিয়ে: যে এ কথা শোনে, সে যেন তাদের রসূলদের অবিশ্বাস করা থেকে সাবধান হয়। ঠিক এখানেই আয়াতটি আমাদের দিকে ফিরে তাকায়। যে মনোভাব এটি দেখায়, তা প্রাচীন অতীতে আটকে নেই: রসূলকে ‘নিছক একজন মানুষে’ নামিয়ে আনা, তাঁর সত্যকে বানোয়াট নাম দেওয়া, আর হিসাবটা এড়াতে দুটোই করা। যেখানেই সত্য বহনকারীকে ছোট করে সত্যটাকে এড়ানো হয়, সেখানেই এই প্রধানদের বাক্য চুপচাপ আবার উচ্চারিত হয়।"
+            "bn": "ইবন কাসীর পুরো অংশের আলোচনা শেষ করেন কুরআনের নিজেরই টানা শিক্ষা দিয়ে: যে এ কথা শোনে, সে যেন তাদের রাসূলদের অবিশ্বাস করা থেকে সাবধান হয়। ঠিক এখানেই আয়াতটি আমাদের দিকে ফিরে তাকায়। যে মনোভাব এটি দেখায়, তা প্রাচীন অতীতে আটকে নেই: রাসূলকে ‘নিছক একজন মানুষে’ নামিয়ে আনা, তাঁর সত্যকে বানোয়াট নাম দেওয়া, আর হিসাবটা এড়াতে দুটোই করা। যেখানেই সত্য বহনকারীকে ছোট করে সত্যটাকে এড়ানো হয়, সেখানেই এই প্রধানদের বাক্য চুপচাপ আবার উচ্চারিত হয়।"
           },
           {
             "en": "So the closing question is not about them but about me. When something true reaches me through a person I would rather not credit, do I answer the truth, or do I go to work on the messenger? The chiefs chose the second, and the choice cost them everything the very next verses record. The verse hands the reader the cheaper moment to choose again — before there is anything left to regret.",
@@ -953,7 +953,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "at-Tabari reads the same word more broadly. For him with Our signs means with Our proofs, bi-hujajina, the evidences that establish the truth of the two messengers, whatever shape they take. Ibn Kathir, in his Arabic commentary, gathers both senses at once, saying they were sent with the signs and the crushing arguments and the conclusive demonstrations. So the signs are at the same time particular wonders and standing proofs: deeds worked in the world, and reasons that bind the mind. The verse holds the two meanings together and does not force the reader to choose between the miracle seen and the case argued.",
-            "bn": "তাবারী একই শব্দকে আরও প্রশস্তভাবে পড়েন। তাঁর কাছে আমার নিদর্শনসহ মানে আমার প্রমাণসহ, বিহুজাজিনা, সেই দলিলগুলো যা দুজন রসূলের সত্যতা প্রতিষ্ঠা করে, তা যে চেহারাতেই আসুক। ইবন কাসীর তাঁর আরবি তাফসীরে দুই অর্থকেই একসঙ্গে জড়ো করেন, বলেন তাঁদের পাঠানো হয়েছে নিদর্শন, চূর্ণকারী দলিল আর চূড়ান্ত প্রমাণসহ। তাই নিদর্শন একই সঙ্গে নির্দিষ্ট মুজিযা এবং স্থায়ী প্রমাণ: দুনিয়ায় ঘটানো কাজ, আবার মনকে বেঁধে ফেলা যুক্তি। আয়াতটি দুই অর্থকে একসাথে ধরে রাখে, পাঠককে দেখা মুজিযা আর পেশ করা যুক্তির মধ্যে একটাকে বেছে নিতে বাধ্য করে না।"
+            "bn": "তাবারী একই শব্দকে আরও প্রশস্তভাবে পড়েন। তাঁর কাছে আমার নিদর্শনসহ মানে আমার প্রমাণসহ, বিহুজাজিনা, সেই দলিলগুলো যা দুজন রাসূলের সত্যতা প্রতিষ্ঠা করে, তা যে চেহারাতেই আসুক। ইবন কাসীর তাঁর আরবি তাফসীরে দুই অর্থকেই একসঙ্গে জড়ো করেন, বলেন তাঁদের পাঠানো হয়েছে নিদর্শন, চূর্ণকারী দলিল আর চূড়ান্ত প্রমাণসহ। তাই নিদর্শন একই সঙ্গে নির্দিষ্ট মুজিযা এবং স্থায়ী প্রমাণ: দুনিয়ায় ঘটানো কাজ, আবার মনকে বেঁধে ফেলা যুক্তি। আয়াতটি দুই অর্থকে একসাথে ধরে রাখে, পাঠককে দেখা মুজিযা আর পেশ করা যুক্তির মধ্যে একটাকে বেছে নিতে বাধ্য করে না।"
           }
         ]
       },
@@ -985,7 +985,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same pattern shows in Musa's own answer to Pharaoh, which as-Sa'di quotes: You have already known that none sent these down except the Lord of the heavens and the earth as clear insights (17:102). Knowledge and denial were seated in the one chest at once. The lesson for a reader is a sobering one: to understand a truth is not yet to submit to it, and a heart can look straight at the light and still turn its face from it. A clear authority saves nobody who has quietly decided beforehand that they do not wish to be saved.",
-            "bn": "একই ধারা ফুটে ওঠে ফেরাউনের কাছে মূসার নিজের জবাবে, যা সাদী উদ্ধৃত করেন: তুমি তো জেনেই গেছ, আসমান ও জমিনের রব ছাড়া এসব স্পষ্ট অন্তর্দৃষ্টি হিসেবে আর কেউ নাযিল করেননি (১৭:১০২)। জ্ঞান আর অস্বীকার একই বুকের ভেতর একসঙ্গে বসে ছিল। পাঠকের জন্য শিক্ষাটা ভাবিয়ে তোলে: সত্য বোঝা মানেই তার কাছে নত হওয়া নয়, আর অন্তর আলোর দিকে সোজা তাকিয়েও তার থেকে মুখ ফিরিয়ে নিতে পারে। স্পষ্ট প্রমাণ তাকে বাঁচায় না, যে আগেভাগে চুপচাপ ঠিক করে রেখেছে সে বাঁচতে চায় না।"
+            "bn": "একই ধারা ফুটে ওঠে ফেরাউনের কাছে মূসার নিজের জবাবে, যা সাদী উদ্ধৃত করেন: তুমি তো জেনেই গেছ, আসমান ও জমিনের রব ছাড়া এসব স্পষ্ট অন্তর্দৃষ্টি হিসেবে আর কেউ নাজিল করেননি (১৭:১০২)। জ্ঞান আর অস্বীকার একই বুকের ভেতর একসঙ্গে বসে ছিল। পাঠকের জন্য শিক্ষাটা ভাবিয়ে তোলে: সত্য বোঝা মানেই তার কাছে নত হওয়া নয়, আর অন্তর আলোর দিকে সোজা তাকিয়েও তার থেকে মুখ ফিরিয়ে নিতে পারে। স্পষ্ট প্রমাণ তাকে বাঁচায় না, যে আগেভাগে চুপচাপ ঠিক করে রেখেছে সে বাঁচতে চায় না।"
           }
         ]
       },
@@ -1049,7 +1049,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse lands at the close of a roll-call. In the ayat just before it, God sends His messengers in succession and every nation denies its messenger (23:44); then Musa (AS) and his brother Harun (AS) go to Pharaoh with clear signs (23:45), and the arrogant are counted among the destroyed (23:48). Right after that story of denial and ruin, the Qur'an turns to the son of Maryam and his mother, and instead of another warning it sets down a sign wrapped in mercy. Where the verse sits is the first thing to notice.",
-            "bn": "আয়াতটি এসেছে এক লম্বা তালিকার শেষে। ঠিক আগের আয়াতগুলোতে আল্লাহ একের পর এক তাঁর রসূলদের পাঠান, আর প্রতিটি জাতি তার রসূলকে অস্বীকার করে (২৩:৪৪)। এরপর মূসা (আঃ) ও তাঁর ভাই হারূন (আঃ) সুস্পষ্ট নিদর্শন নিয়ে ফেরাউনের কাছে যান (২৩:৪৫), আর অহংকারীরা ধ্বংসপ্রাপ্তদের কাতারে গিয়ে দাঁড়ায় (২৩:৪৮)। অস্বীকার আর ধ্বংসের সেই কাহিনির পরপরই কুরআন ফিরে তাকায় মারইয়ামের ছেলে আর তাঁর মায়ের দিকে। আরেকটা সতর্কবাণীর বদলে এখানে রাখা হয় রহমতে মোড়া এক নিদর্শন। আয়াতটি কোথায় বসেছে, সেটাই প্রথমে লক্ষ করার মতো।"
+            "bn": "আয়াতটি এসেছে এক লম্বা তালিকার শেষে। ঠিক আগের আয়াতগুলোতে আল্লাহ একের পর এক তাঁর রাসূলদের পাঠান, আর প্রতিটি জাতি তার রাসূলকে অস্বীকার করে (২৩:৪৪)। এরপর মূসা (আঃ) ও তাঁর ভাই হারূন (আঃ) সুস্পষ্ট নিদর্শন নিয়ে ফেরাউনের কাছে যান (২৩:৪৫), আর অহংকারীরা ধ্বংসপ্রাপ্তদের কাতারে গিয়ে দাঁড়ায় (২৩:৪৮)। অস্বীকার আর ধ্বংসের সেই কাহিনির পরপরই কুরআন ফিরে তাকায় মারইয়ামের ছেলে আর তাঁর মায়ের দিকে। আরেকটা সতর্কবাণীর বদলে এখানে রাখা হয় রহমতে মোড়া এক নিদর্শন। আয়াতটি কোথায় বসেছে, সেটাই প্রথমে লক্ষ করার মতো।"
           },
           {
             "en": "The commentators read this as one link in a long chain of prophethood. Ma'arif al-Qur'an, drawing on Bayan-ul-Qur'an, notes that a tyrant was bent on killing Isa (AS) from his very childhood, and that he and his mother escaped and, by God's grace, found a place on a height where they lived in peace until he reached maturity and was entrusted with prophethood. The verse names the shelter, not the flight; God chose to record the ground where the two of them came to rest.",
@@ -1537,7 +1537,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sadi gives the sharpest account of why the heels matter. By following the Qur'an, he says, a person advances; by turning away from it he draws back and sinks, down to the lowest of the low. Reading the verses and turning from them are not two neutral options laid flat beside each other. They are a climb and a fall. The verse assumes there is no standing still in front of revelation: a listener is always moving, and the only real choice is the direction, toward the words or away from them.",
-            "bn": "গোড়ালির কথাটা কেন এত গুরুত্বপূর্ণ, তার সবচেয়ে ধারালো ব্যাখ্যা দেন সা'দী। তিনি বলেন, কুরআনের অনুসরণে মানুষ সামনে এগোয়, আর তা থেকে মুখ ফেরালে সে পিছিয়ে পড়ে, নেমে যায় একেবারে নিচু থেকে নিচুতে। আয়াত পড়া আর তা থেকে মুখ ফেরানো পাশাপাশি রাখা দুটি সমান নিরপেক্ষ পথ নয়। একটা চড়াই, অন্যটা পতন। আয়াত ধরেই নেয় যে ওহীর সামনে স্থির দাঁড়িয়ে থাকা বলে কিছু নেই: শ্রোতা সর্বদাই নড়ছে, বাকি থাকে কেবল দিকটা, কথার দিকে নাকি তার থেকে দূরে।"
+            "bn": "গোড়ালির কথাটা কেন এত গুরুত্বপূর্ণ, তার সবচেয়ে ধারালো ব্যাখ্যা দেন সা'দী। তিনি বলেন, কুরআনের অনুসরণে মানুষ সামনে এগোয়, আর তা থেকে মুখ ফেরালে সে পিছিয়ে পড়ে, নেমে যায় একেবারে নিচু থেকে নিচুতে। আয়াত পড়া আর তা থেকে মুখ ফেরানো পাশাপাশি রাখা দুটি সমান নিরপেক্ষ পথ নয়। একটা চড়াই, অন্যটা পতন। আয়াত ধরেই নেয় যে ওহির সামনে স্থির দাঁড়িয়ে থাকা বলে কিছু নেই: শ্রোতা সর্বদাই নড়ছে, বাকি থাকে কেবল দিকটা, কথার দিকে নাকি তার থেকে দূরে।"
           },
           {
             "en": "This reframes guidance as motion rather than opinion. Every recitation is a step forward held out to the one who hears it. To decline the step is not to stay where you were; it is to lose the ground you were already standing on. The person who heard the verses and did nothing did not remain in place. He slid backward, because the words were an ascent and refusing them was a descent. On this reading, the heel-turning is simply what non-response looks like, once you grant that in front of revelation no one is ever still.",
@@ -2133,7 +2133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two things in the hadith line up with the verse. First, the claim of a child is placed not among small errors but among affronts to God, a shatm, an abuse, because it drags the Perfect and Needless down to the level of a creature who reproduces. Second, God answers it with the very word the verse ends on: subhani, glory be to Me, the tanzih that clears Him of the whole idea. The Qur'an and the Sunnah meet on one syllable, and it is a syllable of exaltation, not of argument.",
-            "bn": "হাদীসের দুটি জিনিস আয়াতের সঙ্গে মিলে যায়। প্রথমত, সন্তানের দাবিকে ছোটখাটো ভুলের কাতারে নয়, বরং আল্লাহর প্রতি অবমাননার কাতারে রাখা হয়েছে, একে বলা হয়েছে ‘শাতম’ বা গালি। কারণ এ দাবি পরিপূর্ণ ও অভাবমুক্ত সত্তাকে টেনে নামায় বংশবৃদ্ধিকারী এক সৃষ্টির স্তরে। দ্বিতীয়ত, আল্লাহ এর জবাব দেন ঠিক সেই শব্দ দিয়ে, যেটিতে আয়াত শেষ হয়, ‘সুবহানী’, আমি পবিত্র, সেই তানযীহ যা তাঁকে গোটা ধারণাটি থেকে মুক্ত ঘোষণা করে। কুরআন আর সুন্নাহ একটি শব্দেই মিলে যায়, আর সে শব্দটা পবিত্রতা ঘোষণার, তর্কের নয়।"
+            "bn": "হাদিসের দুটি জিনিস আয়াতের সঙ্গে মিলে যায়। প্রথমত, সন্তানের দাবিকে ছোটখাটো ভুলের কাতারে নয়, বরং আল্লাহর প্রতি অবমাননার কাতারে রাখা হয়েছে, একে বলা হয়েছে ‘শাতম’ বা গালি। কারণ এ দাবি পরিপূর্ণ ও অভাবমুক্ত সত্তাকে টেনে নামায় বংশবৃদ্ধিকারী এক সৃষ্টির স্তরে। দ্বিতীয়ত, আল্লাহ এর জবাব দেন ঠিক সেই শব্দ দিয়ে, যেটিতে আয়াত শেষ হয়, ‘সুবহানী’, আমি পবিত্র, সেই তানযীহ যা তাঁকে গোটা ধারণাটি থেকে মুক্ত ঘোষণা করে। কুরআন আর সুন্নাহ একটি শব্দেই মিলে যায়, আর সে শব্দটা পবিত্রতা ঘোষণার, তর্কের নয়।"
           }
         ]
       },
@@ -2537,7 +2537,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentators read for this verse attaches a particular hadith to it; the reward here is drawn from the verse itself and its parallel at the close of al-Muttaffifin. But the shape of it, God honouring on the Day those who held to Him quietly and bore what that holding cost, is carried by a sound report of the Prophet. It is worth setting beside the verse for its theme, and not as a comment on the words.",
-            "bn": "এই আয়াতের জন্য পড়া তাফসীরকারদের কেউ এখানে নির্দিষ্ট কোনো হাদীস জোড়েন না; পুরস্কারের কথাটা আসে আয়াত থেকেই আর মুতাফফিফীনের শেষে থাকা তার সমান্তরাল অংশ থেকে। তবে এর যে গড়ন, চুপচাপ আল্লাহকে আঁকড়ে থাকা আর তার মূল্য বয়ে নেওয়া মানুষদের সেই দিনে আল্লাহর সম্মানিত করা, তা নবী ﷺ-এর এক সহীহ হাদীসে ধরা আছে। বিষয়ের খাতিরে একে আয়াতের পাশে রাখা যায়, শব্দের ব্যাখ্যা হিসেবে নয়।"
+            "bn": "এই আয়াতের জন্য পড়া তাফসীরকারদের কেউ এখানে নির্দিষ্ট কোনো হাদিস জোড়েন না; পুরস্কারের কথাটা আসে আয়াত থেকেই আর মুতাফফিফীনের শেষে থাকা তার সমান্তরাল অংশ থেকে। তবে এর যে গড়ন, চুপচাপ আল্লাহকে আঁকড়ে থাকা আর তার মূল্য বয়ে নেওয়া মানুষদের সেই দিনে আল্লাহর সম্মানিত করা, তা নবী ﷺ-এর এক সহীহ হাদিসে ধরা আছে। বিষয়ের খাতিরে একে আয়াতের পাশে রাখা যায়, শব্দের ব্যাখ্যা হিসেবে নয়।"
           },
           {
             "en": "The wording, from Sahih al-Bukhari and narrated by Abu Hurayra (RA), lists seven kinds of people whom Allah will shade in His shade on a Day when there is no shade but His: a just ruler; a youth who grew up in the worship of his Lord; a man whose heart is tied to the mosques; two who love each other for Allah's sake, meeting upon that and parting upon that; and a man called by a woman of rank and beauty who answers, I fear Allah.",
