@@ -1085,11 +1085,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The command to call on Allah follows straight after one of the Quran's great creation passages. 7:54 declares that your Lord is Allah, who created the heavens and the earth in six days and then rose over the Throne; He makes the night cover the day, chasing it swiftly; and the sun, the moon and the stars are subjected by His command. His is the creation and the command. Then, without pause: call upon your Lord. The One just described is the One addressed.",
-            "bn": "আল্লাহকে ডাকার নির্দেশটি এসেছে কুরআনের অন্যতম মহৎ সৃষ্টি-বর্ণনার ঠিক পরেই। 7:54 ঘোষণা করে, তোমাদের রব আল্লাহ, যিনি আসমানসমূহ ও যমীন ছয় দিনে সৃষ্টি করেছেন, তারপর আরশের উপর সমুন্নত হয়েছেন; তিনি রাত দিয়ে দিনকে ঢেকে দেন — রাত তাকে দ্রুত তাড়া করে ফেরে; আর সূর্য, চাঁদ ও নক্ষত্ররাজি তাঁর হুকুমের অধীন। সৃষ্টিও তাঁর, হুকুমও তাঁর। তারপর, কোনো বিরতি ছাড়াই: তোমাদের রবকে ডাকো। যাঁর বর্ণনা এইমাত্র দেওয়া হলো, সম্বোধন তাঁরই উদ্দেশে।"
+            "bn": "আল্লাহকে ডাকার হুকুমটি এসেছে কুরআনের সৃষ্টি-বর্ণনার এক মহান অংশের ঠিক পরেই। ৭:৫৪ আয়াত ঘোষণা করে: তোমাদের রব আল্লাহ, যিনি আসমান ও যমীন ছয় দিনে সৃষ্টি করেছেন, তারপর আরশের উপর সমুন্নত হয়েছেন। তিনি রাত দিয়ে দিনকে ঢেকে দেন, রাত দ্রুতবেগে দিনের পিছু ছোটে; আর সূর্য, চাঁদ ও তারকারাজি তাঁর হুকুমের অধীন। সৃষ্টিও তাঁর, হুকুমও তাঁর। তারপর এক মুহূর্তও না থেমে: তোমাদের রবকে ডাকো। এইমাত্র যাঁর পরিচয় দেওয়া হলো, ডাকতে বলা হচ্ছে তাঁকেই।"
           },
           {
             "en": "The sequence teaches before it commands. Only after establishing who holds creation and command does the passage say: now speak to Him. At-Tirmidhi records from an-Nu'man ibn Bashir (RA) that the Prophet ﷺ said supplication is itself the worship. Du'a is not a device for extracting outcomes; it is the creature answering the description of 7:54 with the only fitting response — turning to the One who commands all things with its needs and its lowness.",
-            "bn": "এই বিন্যাস নির্দেশ দেওয়ার আগে শিক্ষা দেয়। সৃষ্টি ও হুকুম কার হাতে তা প্রতিষ্ঠার পরেই অনুচ্ছেদটি বলে: এবার তাঁর সাথে কথা বলো। তিরমিযী নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: দোয়াই তো ইবাদত। দোয়া ফলাফল আদায়ের কোনো কৌশল নয়; এটি হলো 7:54 আয়াতের বর্ণনার জবাবে সৃষ্টির একমাত্র মানানসই সাড়া — নিজের প্রয়োজন ও দীনতা নিয়ে সেই সত্তার দিকে ফেরা, যিনি সবকিছুর হুকুম দেন।"
+            "bn": "ক্রমটা খেয়াল করুন: হুকুমের আগে শিক্ষা। সৃষ্টি ও হুকুম কার হাতে, সেটা আগে বুঝিয়ে দিয়ে তবেই আয়াত বলছে: এবার তাঁর সাথে কথা বলো। তিরমিযী নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: দোয়াই ইবাদত। দোয়া কোনো ফল আদায়ের কৌশল নয়। ৭:৫৪ আয়াতে যাঁর পরিচয় পাওয়া গেল, তাঁর জবাবে সৃষ্টির পক্ষে মানানসই সাড়া একটাই: নিজের সব প্রয়োজন আর নিজের দীনতা নিয়ে তাঁর দিকে ফেরা, যিনি সবকিছুর হুকুম দেন।"
           }
         ]
       },
@@ -1101,11 +1101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ud'u rabbakum tadarru'an wa khufyah — call on your Lord in humility and in secret. Tadarru' is the lowness of someone who knows his need; khufyah is quietness, prayer kept between the servant and his Lord. The commentators note that secrecy protects sincerity — a hidden request cannot be performed for an audience — and suits the One addressed, who hears the faintest whisper. Loudness adds nothing to His hearing; softness adds much to our honesty.",
-            "bn": "উদ'ঊ রাব্বাকুম তাদাররু'আন ওয়া খুফইয়াহ — তোমাদের রবকে ডাকো বিনয়ের সাথে ও গোপনে। তাদাররু' হলো নিজের মুখাপেক্ষিতা জানা মানুষের দীনতা; খুফইয়াহ হলো নীরবতা — বান্দা ও তার রবের মাঝে সীমাবদ্ধ রাখা প্রার্থনা। মুফাসসিরগণ লক্ষ করেন, গোপনীয়তা আন্তরিকতাকে রক্ষা করে — লুকানো আবেদন কোনো দর্শকের জন্য অভিনয় করা যায় না — আর তা মানানসইও যাঁকে ডাকা হচ্ছে তাঁর সাথে, যিনি ক্ষীণতম ফিসফিসও শোনেন। উচ্চস্বর তাঁর শ্রবণে কিছুই যোগ করে না; কোমল স্বর আমাদের সততায় অনেক কিছু যোগ করে।"
+            "bn": "উদ'ঊ রাব্বাকুম তাদাররু'আন ওয়া খুফইয়াহ: তোমাদের রবকে ডাকো বিনয়ের সাথে ও গোপনে। তাদাররু' হলো সেই মানুষের দীনতা, যে নিজের অভাব জানে। খুফইয়াহ মানে নিচু স্বর, এমন দোয়া যা বান্দা আর তার রবের মাঝেই থাকে। মুফাসসিরগণ বলেন, গোপনে চাইলে ইখলাস রক্ষা পায়, কারণ লুকিয়ে করা আবেদন কাউকে দেখানোর জন্য হয় না। আর গোপনে চাওয়াই মানায় তাঁর সাথে, যাঁকে ডাকা হচ্ছে; তিনি তো ক্ষীণতম ফিসফিসও শোনেন। গলা চড়ালে তাঁর শোনায় কিছুই যোগ হয় না; নিচু স্বরে চাইলে আমাদের সততায় অনেক কিছু যোগ হয়।"
           },
           {
             "en": "Al-Bukhari records that when the companions raised their voices in takbir on a journey, the Prophet ﷺ told them to be gentle with themselves, for they were not calling upon one deaf or absent, but upon One who is Hearing and near. The hadith is the verse in action: the volume of supplication should be set by who Allah is, not by the intensity of our feelings.",
-            "bn": "বুখারী বর্ণনা করেন, এক সফরে সাহাবীরা উঁচু গলায় তাকবীর বলছিলেন, তখন নবী ﷺ তাঁদের বললেন নিজেদের প্রতি সদয় হতে, কারণ তাঁরা কোনো বধির বা অনুপস্থিত সত্তাকে ডাকছেন না; ডাকছেন তাঁকে, যিনি সর্বশ্রোতা ও নিকটবর্তী। হাদীসটি যেন আয়াতেরই বাস্তব প্রয়োগ: দোয়ার স্বরমাত্রা ঠিক হবে আল্লাহ কে — সেই পরিচয় দিয়ে, আমাদের আবেগের তীব্রতা দিয়ে নয়।"
+            "bn": "বুখারী বর্ণনা করেন, এক সফরে সাহাবীরা উঁচু গলায় তাকবীর বলছিলেন। তখন নবী ﷺ তাঁদের বললেন নিজেদের প্রতি নরম হতে, কারণ তাঁরা কোনো বধির বা অনুপস্থিত কাউকে ডাকছেন না; ডাকছেন এমন একজনকে, যিনি সব শোনেন এবং কাছেই আছেন। হাদিসটি যেন আয়াতেরই বাস্তব রূপ: দোয়ায় গলা কতটা চড়বে, তা ঠিক হবে আল্লাহ কেমন সেটা দেখে, আমাদের আবেগ কত তীব্র তা দেখে নয়।"
           }
         ]
       },
@@ -1117,7 +1117,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "He does not love al-mu'tadin, those who cross the bounds. The commentators apply this first to transgression within supplication itself: asking Allah for something sinful or for the severing of family ties, or turning du'a into ornate performance. Abu Dawud records from Abdullah ibn Mughaffal (RA) that the Prophet ﷺ said there will be in this nation a people who transgress in purification and in supplication. Even worship has edges, and love is promised to those who stay within them.",
-            "bn": "তিনি আল-মু'তাদীন — সীমালঙ্ঘনকারীদের — ভালোবাসেন না। মুফাসসিরগণ এটি প্রথমে প্রয়োগ করেন খোদ দোয়ার ভেতরের সীমালঙ্ঘনে: আল্লাহর কাছে কোনো গুনাহের বিষয় বা আত্মীয়তার বন্ধন ছিন্ন করার আবেদন, কিংবা দোয়াকে অলঙ্কৃত প্রদর্শনীতে পরিণত করা। আবূ দাঊদ আবদুল্লাহ ইবনে মুগাফফাল (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: এই উম্মতে এমন এক সম্প্রদায় হবে যারা পবিত্রতা অর্জনে ও দোয়ায় সীমালঙ্ঘন করবে। এমনকি ইবাদতেরও কিনারা আছে, আর ভালোবাসার প্রতিশ্রুতি তাদের জন্য যারা তার ভেতরে থাকে।"
+            "bn": "তিনি আল-মু'তাদীন, অর্থাৎ সীমালঙ্ঘনকারীদের ভালোবাসেন না। মুফাসসিরগণ কথাটা প্রথমে খাটান দোয়ার ভেতরের সীমালঙ্ঘনে: আল্লাহর কাছে গুনাহের কিছু চাওয়া, আত্মীয়তার সম্পর্ক ছিন্ন হওয়ার দোয়া করা, কিংবা দোয়াকে শব্দের কারুকাজে সাজানো প্রদর্শনী বানিয়ে ফেলা। আবূ দাঊদ আবদুল্লাহ ইবনে মুগাফফাল (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: এই উম্মতের মধ্যে এমন লোক আসবে, যারা পবিত্রতা অর্জনে আর দোয়ায় সীমালঙ্ঘন করবে। ইবাদতেরও সীমা আছে, আর ভালোবাসার প্রতিশ্রুতি তাদেরই জন্য, যারা সেই সীমার ভেতরে থাকে।"
           }
         ]
       },
@@ -1129,11 +1129,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then 7:56 widens the lens: do not spread corruption in the earth after it has been set right. The commentators read the setting right as Allah's own act — He ordered the world and sent messengers and guidance to keep it ordered — so that fasad, whether sin, injustice or the ruin of what others depend on, is vandalism against a finished work. Placing this command between two commands about du'a is deliberate: the hands must not undo what the tongue asks for.",
-            "bn": "এরপর 7:56 দৃষ্টিক্ষেত্র প্রশস্ত করে: যমীন সংশোধিত হওয়ার পর তাতে বিপর্যয় ছড়িয়ো না। মুফাসসিরগণ এই সংশোধনকে পড়েন আল্লাহর নিজের কাজ হিসেবে — তিনি জগৎকে সুবিন্যস্ত করেছেন এবং তা সুবিন্যস্ত রাখতে রাসূল ও হেদায়েত পাঠিয়েছেন — কাজেই ফাসাদ, তা গুনাহ হোক, জুলুম হোক বা মানুষের নির্ভরতার জিনিস ধ্বংস করা হোক, একটি সম্পূর্ণ কাজের উপর ভাঙচুর। দোয়া-সংক্রান্ত দুটি নির্দেশের মাঝখানে এই নির্দেশ বসানো ইচ্ছাকৃত: জিহ্বা যা চায়, হাত যেন তা ভেঙে না ফেলে।"
+            "bn": "এরপর ৭:৫৬ আয়াত দৃষ্টি আরও প্রশস্ত করে: যমীন সংশোধিত হওয়ার পর সেখানে ফাসাদ ছড়িয়ো না। মুফাসসিরগণ বলেন, এই সংশোধন আল্লাহর নিজের কাজ। তিনি জগৎকে সুশৃঙ্খল করেছেন, আর সেই শৃঙ্খলা টিকিয়ে রাখতে রাসূল ও হেদায়েত পাঠিয়েছেন। তাই ফাসাদ, তা গুনাহ হোক, জুলুম হোক কিংবা অন্যরা যার উপর নির্ভর করে তা নষ্ট করা হোক, আসলে তাঁর গড়া সম্পূর্ণ কাজের উপর ভাঙচুর। দোয়ার দুটি হুকুমের মাঝখানে এই হুকুম বসানো হয়েছে ভেবেচিন্তেই: মুখ যা চায়, হাত যেন তা ভেঙে না দেয়।"
           },
           {
             "en": "The pairing also blocks a familiar self-deception, in which private devotion is treated as compensation for public harm. The passage refuses the split: the same breath that teaches how to ask teaches what the asker's hands must not do. A person's supplication and a person's conduct in the land are one file, read together. The earth set right includes what is near you — the household, the workplace, the trust you hold — and leaving it better is part of the asking.",
-            "bn": "এই জোড় একটি চেনা আত্মপ্রতারণাকেও আটকে দেয় — যেখানে একান্ত ইবাদতকে প্রকাশ্য ক্ষতির ক্ষতিপূরণ ভাবা হয়। অনুচ্ছেদটি এই বিভাজন মানে না: যে নিঃশ্বাসে চাওয়ার নিয়ম শেখানো হয়, সেই নিঃশ্বাসেই শেখানো হয় প্রার্থনাকারীর হাত কী করতে পারবে না। মানুষের দোয়া আর যমীনে তার আচরণ একই নথি — একসাথে পড়া হয়। সংশোধিত যমীনের মধ্যে আপনার নিকটের জিনিসও পড়ে — সংসার, কর্মক্ষেত্র, আপনার হাতে থাকা আমানত — আর তা আগের চেয়ে ভালো রেখে যাওয়াও চাওয়ারই অংশ।"
+            "bn": "এই জোড়া হুকুম একটা চেনা আত্মপ্রতারণার পথও বন্ধ করে দেয়: মনে করা যে গোপনে ইবাদত করলে প্রকাশ্যে মানুষের ক্ষতি করার দায় মিটে যায়। আয়াত দুটি এই ভাগাভাগি মানে না। এক নিঃশ্বাসে যেখানে চাওয়ার আদব শেখানো হচ্ছে, সেখানেই শেখানো হচ্ছে, যে চাইছে তার হাত কী করবে না। মানুষের দোয়া আর যমীনে তার আচরণ একই খাতায় লেখা, পড়াও হয় একসাথে। সংশোধিত যমীনের মধ্যে আপনার কাছের জিনিসও পড়ে: আপনার সংসার, কর্মক্ষেত্র, আপনার কাছে রাখা আমানত। সেগুলোকে আগের চেয়ে ভালো অবস্থায় রেখে যাওয়াও চাওয়ারই অংশ।"
           }
         ]
       },
@@ -1145,11 +1145,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Call on Him khawfan wa tama'an, in fear and in hope — fear of one's own sins and of rejection, hope in His mercy and His promise. The scholars describe these as two wings that keep the heart level: fear alone curdles into despair, hope alone into presumption. The verse then closes with the reason both are safe: surely the mercy of Allah is near to the muhsinin, those who do good.",
-            "bn": "তাঁকে ডাকো খাওফান ওয়া তামা'আন — ভয় ও আশা নিয়ে — নিজের গুনাহের ও প্রত্যাখ্যাত হওয়ার ভয়, তাঁর রহমত ও প্রতিশ্রুতিতে আশা। আলিমগণ এ দুটিকে বর্ণনা করেন দুটি ডানা হিসেবে, যা অন্তরকে সমতলে রাখে: শুধু ভয় জমাট বেঁধে হয় হতাশা, শুধু আশা গড়ায় দুঃসাহসে। আয়াতটি তারপর শেষ হয় সেই কারণ দিয়ে, যার জোরে দুটিই নিরাপদ: নিশ্চয়ই আল্লাহর রহমত মুহসিনদের — সৎকর্মশীলদের — নিকটবর্তী।"
+            "bn": "তাঁকে ডাকো খাওফান ওয়া তামা'আন, ভয় ও আশা নিয়ে। ভয় নিজের গুনাহের আর প্রত্যাখ্যাত হওয়ার; আশা তাঁর রহমত আর তাঁর ওয়াদার উপর। আলিমগণ বলেন, এ দুটি যেন দুই ডানা, যা অন্তরকে ভারসাম্যে রাখে: শুধু ভয় থাকলে তা জমে হতাশা হয়ে যায়, আর শুধু আশা থাকলে মানুষ নিশ্চিন্ত হয়ে বসে থাকে। তারপর আয়াতটি শেষ হয় সেই কারণ দিয়ে, যার জোরে দুটিই নিরাপদ: নিশ্চয়ই আল্লাহর রহমত মুহসিনদের, অর্থাৎ সৎকর্মশীলদের নিকটে।"
           },
           {
             "en": "That closing line is echoed by 2:186, where Allah says: when My servants ask you about Me, I am near, answering the call of the caller when he calls. And 40:60 carries the command with a promise: call upon Me; I will respond to you. Nearness, response, mercy — the Quran keeps stacking assurances around du'a, while this passage adds the manners that keep the channel clean.",
-            "bn": "এই সমাপ্তি-বাক্যের প্রতিধ্বনি 2:186 আয়াতে, যেখানে আল্লাহ বলেন: আমার বান্দারা যখন তোমাকে আমার সম্পর্কে জিজ্ঞেস করে — আমি তো নিকটেই, ডাকনেওয়ালা যখন ডাকে আমি তার ডাকে সাড়া দিই। আর 40:60 নির্দেশের সাথে প্রতিশ্রুতি বহন করে: আমাকে ডাকো; আমি তোমাদের সাড়া দেব। নৈকট্য, সাড়া, রহমত — কুরআন দোয়ার চারপাশে আশ্বাসের পর আশ্বাস সাজিয়ে যায়, আর এই অনুচ্ছেদ যোগ করে সেই আদবগুলো, যা যোগাযোগের পথটি পরিচ্ছন্ন রাখে।"
+            "bn": "শেষের এই কথাটির প্রতিধ্বনি আছে ২:১৮৬ আয়াতে, যেখানে আল্লাহ বলেন: আমার বান্দারা যখন তোমাকে আমার সম্পর্কে জিজ্ঞেস করে, তখন আমি তো কাছেই; কেউ যখন ডাকে, আমি তার ডাকে সাড়া দিই। আর ৪০:৬০ আয়াতে হুকুমের সাথে আছে ওয়াদা: আমাকে ডাকো, আমি তোমাদের ডাকে সাড়া দেব। নৈকট্য, সাড়া, রহমত: কুরআন দোয়াকে ঘিরে একের পর এক আশ্বাস দিয়ে যায়। আর এই আয়াত দুটি যোগ করে সেই আদবগুলো, যা আল্লাহর সাথে এই যোগাযোগকে পরিচ্ছন্ন রাখে।"
           }
         ]
       },
@@ -1161,7 +1161,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The lived shape of these verses is a quiet, regular, private supplication — a fixed time when no one else hears you. Check the content of your asking against the verse: nothing that transgresses, nothing performed. And keep the middle command attached: the same person who whispers to Allah at night must not corrupt dealings, trusts or shared spaces by day. Whoever prays like 7:55 and lives against 7:56 has torn the passage in half; mercy is written as near to those who do good, and the two verses define doing good from the inside out.",
-            "bn": "এই আয়াতগুলোর যাপিত রূপ হলো এক শান্ত, নিয়মিত, একান্ত দোয়া — এমন এক নির্দিষ্ট সময়, যখন আপনার কথা আর কেউ শোনে না। নিজের চাওয়ার বিষয়বস্তু আয়াতের সাথে মিলিয়ে নিন: সীমালঙ্ঘন করে এমন কিছু নয়, প্রদর্শনীর জন্যও কিছু নয়। আর মাঝের নির্দেশটিকে সাথে জুড়ে রাখুন: যে মানুষ রাতে আল্লাহর কাছে ফিসফিস করে, সে যেন দিনে লেনদেন, আমানত বা যৌথ পরিসর নষ্ট না করে। যে 7:55 আয়াতের মতো দোয়া করে অথচ 7:56 আয়াতের বিরুদ্ধে জীবন যাপন করে, সে অনুচ্ছেদটিকে দুই টুকরো করে ফেলেছে; রহমত লেখা আছে সৎকর্মশীলদের নিকটে, আর আয়াত দুটি সৎকর্মের সংজ্ঞা দেয় ভেতর থেকে বাইরের দিকে।"
+            "bn": "জীবনে এই আয়াতগুলোর রূপ হলো শান্ত, নিয়মিত, একান্ত দোয়া: একটা নির্দিষ্ট সময়, যখন আপনার কথা আর কেউ শোনে না। আপনি কী চাইছেন, তা আয়াতের সাথে মিলিয়ে নিন: সীমালঙ্ঘনের কিছু যেন না থাকে, লোক দেখানো কিছুও না। আর মাঝখানের হুকুমটাকে আলাদা করবেন না। যে মানুষ রাতে আল্লাহর কাছে ফিসফিস করে চায়, সে যেন দিনে লেনদেন, আমানত বা সবার ব্যবহারের জায়গা নষ্ট না করে। যে ৭:৫৫ আয়াতের মতো দোয়া করে অথচ জীবন কাটায় ৭:৫৬ আয়াতের উল্টো পথে, সে আয়াত দুটিকে ছিঁড়ে দুই টুকরো করে ফেলেছে। রহমত সৎকর্মশীলদের কাছে বলে লেখা আছে, আর এই দুই আয়াত ভেতর থেকে বাইরে পর্যন্ত বুঝিয়ে দেয় সৎকর্ম আসলে কী।"
           }
         ]
       }
@@ -1177,11 +1177,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is the second of four missions the surah recounts here, each told to the same pattern. 7:59 sends Nuh (AS) to his people, 7:65 sends Hud (AS) to Ad, 7:73 sends Salih (AS) to Thamud, and 7:85 sends Shu'ayb (AS) to Madyan. Each passage names the messenger, has him say O my people, worship Allah, you have no deity other than Him, and then lets the eminent men of his people answer him. The repetition is the surah's argument.",
-            "bn": "সূরাটি এখানে চারটি রিসালাতের কথা বলে, এটি তার দ্বিতীয়টি, আর প্রত্যেকটি বলা হয়েছে একই ছাঁচে। ৭:৫৯ আয়াত নূহকে (আঃ) পাঠায় তাঁর সম্প্রদায়ের কাছে, ৭:৬৫ আয়াত হূদকে (আঃ) পাঠায় আদের কাছে, ৭:৭৩ আয়াত সালিহকে (আঃ) পাঠায় সামূদের কাছে, আর ৭:৮৫ আয়াত শুআইবকে (আঃ) পাঠায় মাদইয়ানে। প্রতিটি অংশে আগে আসে রসূলের নাম, তারপর তাঁর মুখে সেই কথা, হে আমার সম্প্রদায়, আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই; তারপর জবাব দেয় সম্প্রদায়ের প্রধানরা। বারবার বলাটাই এখানে সূরার যুক্তি।"
+            "bn": "সূরাটি এখানে পরপর চারজন নবীর রিসালাতের কাহিনি বলে, সবগুলো একই ছাঁচে; এটি তার দ্বিতীয়টি। ৭:৫৯ আয়াতে নূহ (আঃ) প্রেরিত হন তাঁর সম্প্রদায়ের কাছে, ৭:৬৫ আয়াতে হূদ (আঃ) আদের কাছে, ৭:৭৩ আয়াতে সালিহ (আঃ) সামূদের কাছে, আর ৭:৮৫ আয়াতে শুআইব (আঃ) মাদইয়ানে। প্রতিটি অংশে আগে রাসূলের নাম আসে, তারপর তাঁর মুখে সেই কথা: হে আমার সম্প্রদায়, আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। তারপর জবাব দেয় সম্প্রদায়ের প্রধানরা। এই বারবার বলাটাই এখানে সূরার যুক্তি।"
           },
           {
             "en": "Inside the pattern the differences are exact. Nuh's opening continues with a fear: indeed I fear for you the punishment of a tremendous Day. Hud's continues with a question: then will you not fear Him? Salih's continues in 7:73 with a clear proof and a she-camel, and Shu'ayb's in 7:85 with full measure and weight. The shared sentence is the message itself. What each messenger adds to it is what his own people needed to hear about themselves.",
-            "bn": "একই ছাঁচের ভেতরেই পার্থক্যগুলো মেপে বসানো। নূহের (আঃ) কথা এগোয় একটি আশঙ্কা দিয়ে: আমি তোমাদের জন্য মহাদিনের শাস্তির আশঙ্কা করি। হূদের (আঃ) কথা এগোয় একটি প্রশ্ন দিয়ে: তোমরা কি তাকওয়া অবলম্বন করবে না? সালিহের (আঃ) কথা ৭:৭৩ আয়াতে এগোয় সুস্পষ্ট প্রমাণ আর উটনী দিয়ে, আর শুআইবের (আঃ) কথা ৭:৮৫ আয়াতে এগোয় মাপ ও ওজন পুরো করা দিয়ে। যে বাক্যটা সবার এক, সেটাই মূল বার্তা। তার সঙ্গে প্রত্যেকে যা যোগ করেন, সেটা তাঁর নিজের জাতির নিজেদের সম্পর্কে যা শোনা দরকার ছিল তা-ই।"
+            "bn": "একই ছাঁচের ভেতরে পার্থক্যগুলো একেবারে মেপে বসানো। নূহের (আঃ) কথা এগোয় একটি আশঙ্কা দিয়ে: আমি তোমাদের জন্য মহাদিনের শাস্তির আশঙ্কা করি। হূদের (আঃ) কথা এগোয় একটি প্রশ্ন দিয়ে: তোমরা কি তাকওয়া অবলম্বন করবে না? সালিহের (আঃ) কথা ৭:৭৩ আয়াতে এগোয় সুস্পষ্ট প্রমাণ আর উটনী দিয়ে, আর শুআইবের (আঃ) কথা ৭:৮৫ আয়াতে মাপ ও ওজন পুরো করার কথা দিয়ে। যে বাক্যটা সবার মুখে এক, সেটাই মূল বার্তা। আর প্রত্যেকে তার সঙ্গে যা যোগ করেন, তা হলো নিজের জাতির নিজেদের ব্যাপারে ঠিক যে কথাটা শোনা দরকার ছিল।"
           }
         ]
       },
@@ -1193,11 +1193,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa ila 'Adin akhahum Hudan. The clause has no verb of its own; the sending in the previous passage carries over, and the Arabic simply hangs the new mission on the earlier one. Akhahum, their brother, is the word this surah uses for Hud (AS), for Salih (AS) in 7:73 and for Shu'ayb (AS) in 7:85, while Nuh (AS) is sent to his people and Lut (AS) is introduced already speaking to his. What it states is kinship of lineage, not of religion.",
-            "bn": "ওয়া ইলা আদিন আখাহুম হূদা। এই অংশে নিজের কোনো ক্রিয়া নেই; আগের অংশের পাঠানোর কথাটাই এখানে টেনে আনা হয়, আর আরবি নতুন রিসালাতটিকে আগেরটির গায়ে ঝুলিয়ে দেয়। আখাহুম, তাদের ভাই, এই শব্দটি এই সূরা ব্যবহার করে হূদের (আঃ) জন্য, ৭:৭৩ আয়াতে সালিহের (আঃ) জন্য আর ৭:৮৫ আয়াতে শুআইবের (আঃ) জন্য; অন্যদিকে নূহকে (আঃ) পাঠানো হয় তাঁর সম্প্রদায়ের কাছে, আর লূতকে (আঃ) পরিচয় করানো হয় সরাসরি তাঁর জাতির সঙ্গে কথা বলতে বলতেই। শব্দটি বলছে বংশের আত্মীয়তা, দ্বীনের নয়।"
+            "bn": "ওয়া ইলা আদিন আখাহুম হূদা। এই অংশের নিজের কোনো ক্রিয়া নেই; আগের অংশের পাঠানোর কথাটাই এখানে টেনে আনা হয়েছে, আর আরবি বাক্যটি নতুন রিসালাতকে আগেরটির সঙ্গেই গেঁথে দেয়। আখাহুম, অর্থাৎ তাদের ভাই: এই সূরা শব্দটি ব্যবহার করে হূদের (আঃ) বেলায়, ৭:৭৩ আয়াতে সালিহের (আঃ) বেলায় আর ৭:৮৫ আয়াতে শুআইবের (আঃ) বেলায়। অন্যদিকে নূহকে (আঃ) পাঠানো হয় তাঁর সম্প্রদায়ের কাছে, আর লূত (আঃ) যখন প্রথম আসেন, তখন তিনি নিজের জাতির সঙ্গে কথা বলছেন। শব্দটি বোঝায় বংশের আত্মীয়তা, দ্বীনের নয়।"
           },
           {
             "en": "Brotherhood of this kind cuts in two directions. It removes the excuse that the warner is an outsider with outside interests, which is why 7:69 presses the point that the reminder came through a man from among you. And it raises the price the messenger pays, because the people rejecting him are his own. 46:21 names him by the relationship rather than by the name, telling the Prophet ﷺ to mention the brother of Ad, who warned his people in al-Ahqaf.",
-            "bn": "এ ধরনের ভাইত্ব দুই দিকেই কাটে। এতে এই অজুহাতটা আর থাকে না যে সতর্ককারী বাইরের লোক, বাইরের স্বার্থ নিয়ে এসেছে; এ কারণেই ৭:৬৯ আয়াত জোর দিয়ে বলে, উপদেশ এসেছে তোমাদেরই ভেতরের একজন মানুষের মাধ্যমে। আবার এতে রসূলের দামটাও বেড়ে যায়, কারণ যারা তাঁকে ফিরিয়ে দিচ্ছে তারা তাঁরই লোক। ৪৬:২১ আয়াত তাঁকে নাম ধরে নয়, সম্পর্ক ধরে ডাকে; নবীকে ﷺ বলা হয় আদের ভাইয়ের কথা স্মরণ করতে, যিনি আহকাফে তাঁর সম্প্রদায়কে সতর্ক করেছিলেন।"
+            "bn": "এমন ভ্রাতৃত্বের দুটো দিক আছে। একদিকে, সতর্ককারী বাইরের লোক, বাইরের স্বার্থ নিয়ে এসেছে, এই অজুহাত আর টেকে না; এ জন্যই ৭:৬৯ আয়াত জোর দিয়ে বলে, উপদেশ এসেছে তোমাদেরই একজন মানুষের মাধ্যমে। অন্যদিকে, রাসূলকে এর দামও বেশি দিতে হয়, কারণ যারা তাঁকে প্রত্যাখ্যান করছে তারা তাঁরই আপন লোক। ৪৬:২১ আয়াত তাঁকে নাম ধরে নয়, সম্পর্ক ধরে উল্লেখ করে; নবীকে ﷺ বলা হয় আদের ভাইয়ের কথা স্মরণ করতে, যিনি আহকাফে নিজের সম্প্রদায়কে সতর্ক করেছিলেন।"
           }
         ]
       },
@@ -1209,7 +1209,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "I'budu Allah. The verb 'abada covers service and worship in one word, and the imperative is plural, so a whole people is addressed at once rather than a private conscience. Then the ground for it: ma lakum min ilahin ghayruh. The negation here is of the strongest kind, with ma and then min laid over the noun, so the sentence does not say that they happen to have no other god. It rules out there being one to have.",
-            "bn": "ইবুদুল্লাহ। আবাদা ক্রিয়াটি এক শব্দেই ধরে সেবা আর ইবাদত দুটোকেই, আর হুকুমটি বহুবচনে; ফলে একজন মানুষের বিবেক নয়, গোটা জাতিকে একসঙ্গে সম্বোধন করা হচ্ছে। এরপর আসে তার ভিত্তি: মা লাকুম মিন ইলাহিন গাইরুহ। এখানকার নেতিবাচকতা সবচেয়ে শক্ত ধরনের, আগে মা আর তারপর বিশেষ্যের উপর মিন বসিয়ে। তাই বাক্যটি এ কথা বলছে না যে তাদের এমনিতেই আর কোনো ইলাহ নেই। বাক্যটি বলছে, থাকার মতো কোনো ইলাহই নেই।"
+            "bn": "ইবুদুল্লাহ। আবাদা ক্রিয়াটি এক শব্দেই সেবা আর ইবাদত দুটোকে ধরে। হুকুমটি বহুবচনে, তাই সম্বোধন কোনো একজনের ব্যক্তিগত বিবেকের প্রতি নয়, গোটা জাতির প্রতি একসঙ্গে। এরপর আসে এর কারণ: মা লাকুম মিন ইলাহিন গাইরুহ। এখানে নাকচটা সবচেয়ে জোরালো ধরনের: আগে মা, তারপর বিশেষ্যের উপর মিন। তাই বাক্যটি এ কথা বলছে না যে ঘটনাচক্রে তাদের আর কোনো ইলাহ নেই। বাক্যটি বলছে, আর কোনো ইলাহ থাকারই সুযোগ নেই।"
           },
           {
             "en": "Notice what the call does not begin with. There is no attack on a named idol, no mention of Ad's power and no threat. 7:70 shows that the idols were indeed the live issue, since the people answer by asking whether they are to leave what their fathers worshipped, and 7:71 has Hud (AS) call those gods names with no authority behind them. But the opening sentence puts the positive claim first and lets the objection come to it rather than going out to meet it.",
@@ -1229,11 +1229,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari reads akhahum as brotherhood of lineage only, since Hud (AS) shared none of their religion, and notes that the Arabs used brother in exactly this way for a man of the tribe. Ibn Kathir places Ad in the sands of al-Ahqaf in the south of Arabia and transmits that they were the first people to worship idols after the flood of Nuh (AS), which is why their account is set immediately after his in this surah.",
-            "bn": "আত-তাবারী আখাহুম পড়েন কেবল বংশের আত্মীয়তা হিসেবে, কারণ হূদ (আঃ) তাদের দ্বীনের কিছুই ভাগ করে নেননি; তিনি আরও বলেন, আরবরা গোত্রের একজন লোককে ঠিক এভাবেই ভাই বলত। ইবনু কাসীর আদ জাতিকে বসান আরবের দক্ষিণে আহকাফের বালুরাশিতে, আর বর্ণনা তুলে ধরেন যে নূহের (আঃ) প্লাবনের পর তারাই প্রথম মূর্তিপূজা শুরু করেছিল। এ কারণেই এই সূরায় তাদের বৃত্তান্ত বসেছে নূহের (আঃ) বৃত্তান্তের ঠিক পরেই।"
+            "bn": "আত-তাবারী আখাহুম শব্দটিকে কেবল বংশের আত্মীয়তা হিসেবে পড়েন, কারণ তাদের দ্বীনের সঙ্গে হূদের (আঃ) কোনো মিল ছিল না। তিনি আরও বলেন, আরবরা গোত্রের একজন লোককে ঠিক এই অর্থেই ভাই বলত। ইবনু কাসীর বলেন, আদ জাতির বাস ছিল আরবের দক্ষিণে আহকাফের বালুর দেশে; আর তিনি এই বর্ণনা উল্লেখ করেন যে নূহের (আঃ) প্লাবনের পর তারাই প্রথম মূর্তিপূজা শুরু করেছিল। এ কারণেই এই সূরায় তাদের ঘটনা এসেছে নূহের (আঃ) ঘটনার ঠিক পরেই।"
           },
           {
             "en": "As-Sa'di reads the command and its evidence as joined in one line, the order being i'budu Allah first and ma lakum min ilahin ghayruh immediately after as the reason. That is why every messenger in the passage opens the same way: the foundation of the call never changes, only what is built on it. Al-Qurtubi takes up the grammar of wa ila 'Adin akhahum Hudan, showing that the accusative is governed by the sending carried over from the verses before.",
-            "bn": "আস-সাদী হুকুম আর তার দলিলকে পড়েন এক লাইনে জোড়া হিসেবে; আগে ইবুদুল্লাহ, আর ঠিক পরেই কারণ হিসেবে মা লাকুম মিন ইলাহিন গাইরুহ। এ কারণেই এই অংশের প্রত্যেক রসূল একইভাবে শুরু করেন: দাওয়াতের ভিত্তি কখনো বদলায় না, বদলায় কেবল তার উপর যা গড়া হয়। আল-কুরতুবী ধরেন ওয়া ইলা আদিন আখাহুম হূদা বাক্যের ব্যাকরণ, দেখান যে কর্মকারকটি চলছে আগের আয়াতগুলো থেকে টেনে আনা পাঠানোর ক্রিয়ার জোরে।"
+            "bn": "আস-সাদী হুকুম আর তার দলিলকে একসঙ্গে জোড়া এক লাইন হিসেবে পড়েন: আগে ইবুদুল্লাহ, আর ঠিক পরেই কারণ হিসেবে মা লাকুম মিন ইলাহিন গাইরুহ। এ কারণেই এই অংশের প্রত্যেক রাসূল একইভাবে শুরু করেন: দাওয়াতের ভিত্তি কখনো বদলায় না, বদলায় কেবল তার উপর যা গড়া হয়। আল-কুরতুবী আলোচনা করেন ওয়া ইলা আদিন আখাহুম হূদা বাক্যের ব্যাকরণ নিয়ে। তিনি দেখান, শব্দগুলো যে কর্মকারকে (নসব) আছে, তা এসেছে আগের আয়াতগুলো থেকে টেনে আনা পাঠানোর ক্রিয়ার কারণে।"
           }
         ]
       },
@@ -1245,11 +1245,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari and Muslim both record from Jabir ibn Abdullah (RA) that the Prophet ﷺ said he had been given five things not given to any prophet before him, and among them that every prophet used to be sent to his own people specifically while he was sent to all mankind. That narration is the frame around this verse. Hud (AS) was sent to Ad and to nobody else, and the surah is showing a reader who holds the final message what a local mission looked like.",
-            "bn": "আল-বুখারী ও মুসলিম দুজনেই জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, তাঁকে এমন পাঁচটি জিনিস দেওয়া হয়েছে যা তাঁর আগে কোনো নবীকে দেওয়া হয়নি; তার একটি হলো, প্রত্যেক নবীকে পাঠানো হতো কেবল তাঁর নিজের জাতির কাছে, আর তাঁকে পাঠানো হয়েছে গোটা মানবজাতির কাছে। এই হাদীসই এই আয়াতের চারপাশের কাঠামো। হূদকে (আঃ) পাঠানো হয়েছিল আদের কাছে, আর কারো কাছে নয়; আর সূরাটি শেষ রিসালাতের অধিকারী পাঠককে দেখাচ্ছে একটি স্থানীয় রিসালাত দেখতে কেমন ছিল।"
+            "bn": "আল-বুখারী ও মুসলিম দুজনেই জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, তাঁকে এমন পাঁচটি জিনিস দেওয়া হয়েছে যা তাঁর আগে কোনো নবীকে দেওয়া হয়নি; তার একটি হলো, প্রত্যেক নবীকে পাঠানো হতো কেবল তাঁর নিজের জাতির কাছে, আর তাঁকে পাঠানো হয়েছে গোটা মানবজাতির কাছে। এই আয়াতটি পড়তে হবে এই হাদিসের আলোয়। হূদকে (আঃ) পাঠানো হয়েছিল কেবল আদের কাছে, আর কারো কাছে নয়। সূরাটি শেষ বার্তার ধারক পাঠককে দেখাচ্ছে, একটি নির্দিষ্ট জাতির কাছে পাঠানো রিসালাত কেমন ছিল।"
           },
           {
             "en": "Read that way the repetition stops being repetitive. Four peoples, four messengers of their own blood, one sentence handed to each. The Quran is establishing that the message now addressed to everyone is not a new invention, and 46:21 says so plainly when it notes that warners had passed away before Hud (AS) and after him. What is new in the final mission is the size of the address, not the content of it.",
-            "bn": "এভাবে পড়লে বারবার বলাটা আর পুনরাবৃত্তি থাকে না। চারটি জাতি, নিজেদের রক্তের চারজন রসূল, প্রত্যেকের হাতে একটিই বাক্য। কুরআন প্রতিষ্ঠা করছে যে আজ সবার উদ্দেশে বলা বার্তাটি নতুন কোনো আবিষ্কার নয়; ৪৬:২১ আয়াত কথাটা সোজা করেই বলে, যখন জানায় হূদের (আঃ) আগেও সতর্ককারীরা গেছেন আর পরেও গেছেন। শেষ রিসালাতে নতুন হলো সম্বোধনের পরিধি, বক্তব্য নয়।"
+            "bn": "এভাবে পড়লে বারবার বলাটা আর একঘেয়ে পুনরাবৃত্তি থাকে না। চারটি জাতি, তাদেরই রক্তের চারজন রাসূল, আর প্রত্যেকের হাতে একই বাক্য। কুরআন দেখিয়ে দিচ্ছে, আজ যে বার্তা সবার উদ্দেশে, তা নতুন কোনো আবিষ্কার নয়। ৪৬:২১ আয়াত কথাটা সোজাসুজিই বলে: হূদের (আঃ) আগেও সতর্ককারীরা এসে চলে গেছেন, পরেও। শেষ রিসালাতে নতুন হলো সম্বোধনের পরিধি, বক্তব্য নয়।"
           }
         ]
       },
@@ -1261,7 +1261,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "21:25 states the rule behind the pattern outright: We sent no messenger before you except that We revealed to him that there is no deity except Me, so worship Me. 16:36 gives the same as a mission sent into every nation, worship Allah and avoid taghut, and then tells the reader to travel the earth and see how the deniers ended. Between them they explain why Hud's first sentence is not a composition of his own.",
-            "bn": "২১:২৫ আয়াত এই ছাঁচের পেছনের নিয়মটা সরাসরি বলে দেয়: তোমার আগে এমন কোনো রসূল পাঠাইনি যার প্রতি ওহী করিনি যে, আমি ছাড়া কোনো ইলাহ নেই, কাজেই আমারই ইবাদত করো। ১৬:৩৬ আয়াত একই কথা দেয় প্রতিটি জাতির কাছে পাঠানো দায়িত্ব হিসেবে, আল্লাহর ইবাদত করো আর তাগুতকে বর্জন করো; তারপর পাঠককে বলে যমীনে ঘুরে দেখতে, অস্বীকারকারীদের পরিণতি কী হয়েছিল। এ দুটি মিলে বুঝিয়ে দেয়, হূদের (আঃ) প্রথম বাক্যটি তাঁর নিজের রচনা নয়।"
+            "bn": "২১:২৫ আয়াত এই ছাঁচের পেছনের নিয়মটা সরাসরি বলে দেয়: তোমার আগে আমি এমন কোনো রাসূল পাঠাইনি, যার প্রতি এই ওহি পাঠাইনি যে, আমি ছাড়া কোনো ইলাহ নেই, কাজেই আমারই ইবাদত করো। ১৬:৩৬ আয়াতে একই কথা এসেছে প্রতিটি জাতির কাছে পাঠানো বার্তা হিসেবে: আল্লাহর ইবাদত করো আর তাগুতকে বর্জন করো। তারপর আয়াতটি পাঠককে বলে যমীনে ঘুরে দেখতে, অস্বীকারকারীদের পরিণতি কী হয়েছিল। এ দুটি আয়াত মিলে বুঝিয়ে দেয়, হূদের (আঃ) প্রথম বাক্যটি তাঁর নিজের বানানো নয়।"
           },
           {
             "en": "11:50 records the same mission with a different second half, where Hud (AS) tells Ad that they are nothing but inventors of falsehood. 46:21 supplies the place, al-Ahqaf, and the fear of a terrible day. And 41:15 supplies what Ad said back, asking who is greater than us in strength, with the Quran's own reply that the One who created them is greater in strength than they are.",
@@ -1277,11 +1277,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first use is a measure for anyone who talks about religion at all. Hud (AS) leads with what he is calling to and not with what he is against, and the idols are dealt with in 7:71 only after his people raise them themselves. Most of us reverse that order without noticing, and a call that opens with a list of errors rarely gets as far as its own foundation. Say the positive claim first and let the objections come to you.",
-            "bn": "প্রথম কাজে লাগার জায়গাটা হলো যে কেউ দ্বীনের কথা বলেন তাঁর জন্য একটা মাপকাঠি। হূদ (আঃ) শুরু করেন কীসের দিকে ডাকছেন তা দিয়ে, কীসের বিরুদ্ধে দাঁড়িয়েছেন তা দিয়ে নয়; আর মূর্তির প্রসঙ্গ ৭:৭১ আয়াতে আসে কেবল তখন, যখন তাঁর জাতি নিজেরাই সেটা তোলে। আমাদের বেশিরভাগই টেরও না পেয়ে ক্রমটা উল্টে ফেলি, আর ভুলের তালিকা দিয়ে শুরু করা দাওয়াত নিজের ভিত্তি পর্যন্ত পৌঁছায় কমই। আগে ইতিবাচক কথাটা বলুন, আপত্তিগুলো আপনার কাছেই আসবে।"
+            "bn": "প্রথম শিক্ষা: দ্বীনের কথা যে-ই বলেন, তাঁর জন্য এটা একটা মাপকাঠি। হূদ (আঃ) শুরু করেন কীসের দিকে ডাকছেন তা দিয়ে, কীসের বিরুদ্ধে দাঁড়িয়েছেন তা দিয়ে নয়; আর মূর্তির প্রসঙ্গ ৭:৭১ আয়াতে আসে কেবল তখন, যখন তাঁর জাতি নিজেরাই সেটা তোলে। আমাদের বেশিরভাগই টেরও না পেয়ে ক্রমটা উল্টে ফেলি, আর ভুলের তালিকা দিয়ে শুরু করা দাওয়াত নিজের ভিত্তি পর্যন্ত খুব কমই পৌঁছায়। আগে ইতিবাচক কথাটা বলুন, আপত্তিগুলো নিজেরাই আপনার কাছে আসবে।"
           },
           {
             "en": "The second use is the word brother. Hud (AS) warned people who were his own, which is the hardest audience there is and the only one most readers actually have. The relative who will roll his eyes, the colleague who has known you for years: these are your Ad. The verse makes no promise that they will listen, and 7:66 has them calling him foolish and counting him among the liars. It shows only what he said and how briefly he said it.",
-            "bn": "দ্বিতীয়টি হলো ভাই শব্দটি। হূদ (আঃ) সতর্ক করেছেন নিজের লোকদেরই, আর এর চেয়ে কঠিন শ্রোতা হয় না; অথচ বেশিরভাগ পাঠকের হাতে আসলে এই শ্রোতাটুকুই আছে। যে আত্মীয় চোখ ঘুরিয়ে নেবে, যে সহকর্মী আপনাকে বহু বছর ধরে চেনে, এঁরাই আপনার আদ। আয়াতটি ওয়াদা করে না যে তারা শুনবে; ৭:৬৬ আয়াতে তারা তাঁকে নির্বোধ বলে আর মিথ্যাবাদীদের দলে ফেলে। আয়াতটি কেবল দেখায় তিনি কী বলেছিলেন আর কত অল্প কথায় বলেছিলেন।"
+            "bn": "দ্বিতীয় শিক্ষা ভাই শব্দটিতে। হূদ (আঃ) সতর্ক করেছেন নিজের লোকদেরই, আর এর চেয়ে কঠিন শ্রোতা হয় না; অথচ বেশিরভাগ পাঠকের হাতে আসলে এই শ্রোতারাই আছে। যে আত্মীয় আপনার কথায় বিরক্ত হয়ে চোখ উল্টাবেন, যে সহকর্মী আপনাকে বহু বছর ধরে চেনেন, এঁরাই আপনার আদ। আয়াতটি ওয়াদা করে না যে তারা শুনবে; ৭:৬৬ আয়াতে তারা তাঁকে নির্বোধ বলে আর মিথ্যাবাদীদের দলে ফেলে। আয়াতটি কেবল দেখায় তিনি কী বলেছিলেন আর কত অল্প কথায় বলেছিলেন।"
           }
         ]
       },
@@ -1293,11 +1293,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is not itself a supplication, but it hands one its entire content. What Hud (AS) asks for at the end is taqwa, and taqwa is what a believer asks for by name in a supplication Muslim records from Abdullah ibn Mas'ud (RA), in which the Prophet ﷺ would ask Allah for guidance, taqwa, chastity and sufficiency. The closing question of 7:65 and that request are the same thing approached from two directions.",
-            "bn": "আয়াতটি নিজে দু'আ নয়, তবে দু'আর গোটা বিষয়বস্তুটাই এ হাতে তুলে দেয়। হূদ (আঃ) শেষে যা চান তার নাম তাকওয়া, আর তাকওয়া সেই জিনিস যা একজন মুমিন নাম ধরেই চান মুসলিমে আবদুল্লাহ ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত এক দু'আয়; সেখানে নবী ﷺ আল্লাহর কাছে চাইতেন হিদায়াত, তাকওয়া, পবিত্রতা ও অভাবমুক্তি। ৭:৬৫ আয়াতের শেষ প্রশ্নটি আর ওই চাওয়াটি একই জিনিস, দুই দিক থেকে ধরা।"
+            "bn": "আয়াতটি নিজে দু'আ নয়, তবে একটি দু'আর পুরো বিষয়বস্তু এটি হাতে তুলে দেয়। হূদ (আঃ) শেষে যা চান, তার নাম তাকওয়া। আর এই তাকওয়াই মুমিন নাম ধরে চায় একটি দু'আয়, যা মুসলিম আবদুল্লাহ ইবনু মাসঊদ (রাঃ) থেকে বর্ণনা করেছেন: নবী ﷺ আল্লাহর কাছে চাইতেন হিদায়াত, তাকওয়া, পবিত্রতা ও অভাবমুক্তি। ৭:৬৫ আয়াতের শেষ প্রশ্ন আর ওই চাওয়া আসলে একই জিনিস, দুই দিক থেকে দেখা।"
           },
           {
             "en": "A short supplication in the verse's own vocabulary may be added to that, offered as such and not as a transmitted wording. O Allah, You are my Lord and I have no other, and I ask that this be the sentence my life is arranged around rather than only the one I can recite. Give me the taqwa Your prophets asked their peoples for. And where I have to say a hard thing to my own people, give me Hud's brevity and spare me his people's answer.",
-            "bn": "এর সঙ্গে এই আয়াতের শব্দ ধরে ছোট একটি প্রার্থনা যোগ করা যায়, যা বর্ণিত দু'আ নয়, এভাবেই পেশ করা। হে আল্লাহ, আপনিই আমার রব, আপনি ছাড়া আমার কেউ নেই; চাই এই বাক্যটির উপরেই যেন আমার জীবন সাজানো থাকে, কেবল মুখস্থ বলতে পারা বাক্য হয়ে না থাকে। আপনার নবীরা যে তাকওয়া নিজ নিজ জাতির কাছে চেয়েছিলেন, সেটি আমাকে দিন। আর নিজের লোকদের কঠিন কথাটা বলতে হলে আমাকে দিন হূদের (আঃ) মতো সংক্ষেপ, আর তাঁর জাতির জবাবটা থেকে আমাকে বাঁচান।"
+            "bn": "এর সঙ্গে আয়াতের শব্দ ধরে ছোট একটি দু'আ যোগ করা যায়। এটি নিজের ভাষায় করা দু'আ, হাদিসে বর্ণিত শব্দ নয়। হে আল্লাহ, আপনিই আমার রব, আপনি ছাড়া আমার আর কোনো রব নেই। এই বাক্যটি যেন আমার কাছে শুধু মুখস্থ বলার বাক্য না থাকে; আমার গোটা জীবন যেন এর উপরেই সাজানো হয়। আপনার নবীরা নিজ নিজ জাতির কাছে যে তাকওয়া চেয়েছিলেন, তা আমাকে দিন। আর নিজের লোকদের কোনো কঠিন কথা বলতে হলে আমাকে হূদের (আঃ) মতো অল্প কথায় বলার ক্ষমতা দিন, আর তাঁর জাতি যে জবাব দিয়েছিল, তা থেকে আমাকে রক্ষা করুন।"
           }
         ]
       },
@@ -1313,7 +1313,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Jabir (RA) narrates that every prophet before was sent to his own people while the Prophet ﷺ was sent to all mankind, which makes the local mission the reader's own share of the work rather than a story about somebody else. Who inside my own circle have I quietly written off as not worth speaking to, and on what evidence? Hud (AS) ended not with a threat but with a question, and in the supplication Muslim records from Ibn Mas'ud (RA) taqwa is asked for by name. When did I last ask for it instead of assuming I already have it?",
-            "bn": "জাবির (রাঃ) বর্ণনা করেন, আগের প্রত্যেক নবীকে পাঠানো হয়েছিল তাঁর নিজের জাতির কাছে, আর নবী ﷺ কে পাঠানো হয়েছে গোটা মানবজাতির কাছে। এতে করে নিজের আশপাশের দাওয়াতটা আর অন্য কারো গল্প থাকে না, পাঠকের নিজের ভাগের কাজ হয়ে যায়। আমার নিজের গণ্ডির ভেতরে কাকে আমি চুপচাপ বাদ দিয়ে রেখেছি এই ভেবে যে তাকে বলে লাভ নেই, আর কীসের ভিত্তিতে? হূদ (আঃ) শেষ করেছেন হুমকি দিয়ে নয়, প্রশ্ন দিয়ে; আর মুসলিমে ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত দু'আয় তাকওয়া নাম ধরেই চাওয়া হয়েছে। আমি শেষ কবে সেটা চেয়েছি, ধরে নেওয়ার বদলে?"
+            "bn": "জাবির (রাঃ) বর্ণনা করেন, আগের প্রত্যেক নবীকে পাঠানো হয়েছিল তাঁর নিজের জাতির কাছে, আর নবী ﷺ কে পাঠানো হয়েছে গোটা মানবজাতির কাছে। এতে করে নিজের আশপাশের দাওয়াতটা আর অন্য কারো গল্প থাকে না, পাঠকের নিজের ভাগের কাজ হয়ে যায়। আমার নিজের গণ্ডির ভেতরে কাকে আমি চুপচাপ বাদ দিয়ে রেখেছি এই ভেবে যে তাকে বলে লাভ নেই, আর কীসের ভিত্তিতে? হূদ (আঃ) শেষ করেছেন হুমকি দিয়ে নয়, প্রশ্ন দিয়ে; আর মুসলিমে ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত দু'আয় তাকওয়া নাম ধরেই চাওয়া হয়েছে। তাকওয়া আমার আছে বলে ধরে না নিয়ে শেষ কবে আমি তা চেয়েছি?"
           }
         ]
       }
@@ -1361,7 +1361,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wadhkuru idh ja'alakum khulafa'a min ba'di qawmi Nuh. Khulafa' is the plural of khalifah, one who comes after and takes the place of another. The word does not flatter. It says that somebody else stood where you are standing and is no longer standing there. A people proud of holding their land are being reminded that holding it was a handover, and the passage just above has told the reader how the previous holders left.",
-            "bn": "ওয়াযকুরূ ইয আজাআলাকুম খুলাফাআ মিম বাদি কওমি নূহ। খুলাফা হলো খলীফার বহুবচন, যে পরে আসে আর অন্যের জায়গা নেয়। শব্দটি প্রশংসা করে না। শব্দটি বলে, আপনি যেখানে দাঁড়িয়ে সেখানে অন্য কেউ দাঁড়িয়েছিল, আর সে এখন আর সেখানে নেই। নিজেদের জমি দখলে রাখা নিয়ে গর্বিত এক জাতিকে মনে করিয়ে দেওয়া হচ্ছে, দখলটা আসলে হাতবদল; আর আগের অংশ পাঠককে বলে দিয়েছে আগের দখলদাররা কীভাবে সরে গিয়েছিল।"
+            "bn": "ওয়াযকুরূ ইয জাআলাকুম খুলাফাআ মিম বাদি কওমি নূহ। খুলাফা হলো খলীফার বহুবচন: যে পরে আসে আর অন্যের জায়গা নেয়। শব্দটি প্রশংসা করে না। শব্দটি বলে, আপনি যেখানে দাঁড়িয়ে আছেন সেখানে অন্য কেউ দাঁড়িয়েছিল, আর সে এখন আর সেখানে নেই। নিজেদের জমি দখলে রাখা নিয়ে গর্বিত এক জাতিকে মনে করিয়ে দেওয়া হচ্ছে, দখলটা আসলে হাতবদল; আর ঠিক আগের অংশেই পাঠক জেনে গেছেন, আগের দখলদাররা কীভাবে বিদায় নিয়েছিল।"
           },
           {
             "en": "Then wa zadakum fi'l-khalqi bastah. Bastah is from b-s-t, to spread out or extend, and khalq here means the make of a thing, the frame it was built on. The Quran pairs the same two words in 2:247, where Talut is said to have been increased in bastah in knowledge and in body; there it is the credential that qualifies a king. Here it is a gift being recalled to a people who will later boast about it in 41:15.",
@@ -1381,7 +1381,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari reads the increase in stature against the people of Nuh named in the same sentence, so that Ad were given larger frames than those who had held the land before them. Ibn Kathir gathers the reports describing Ad as tall and powerfully built; what the verse itself commits to is the increase, with no measurement attached. He reads the whole line as Hud (AS) arguing from blessings rather than from signs and wonders.",
-            "bn": "আত-তাবারী গড়নে বাড়িয়ে দেওয়ার কথাটি পড়েন একই বাক্যে নাম আসা নূহের (আঃ) কওমের তুলনায়, অর্থাৎ আগের দখলদারদের চেয়ে আদকে দেওয়া হয়েছিল বড় গড়ন। ইবনু কাসীর আদের লম্বা আর শক্তপোক্ত হওয়ার বর্ণনাগুলো জড়ো করেন; তবে আয়াত নিজে দায় নেয় কেবল বাড়িয়ে দেওয়ার, কোনো মাপ এর সঙ্গে জোড়া নেই। গোটা কথাটিকে তিনি পড়েন এভাবে, হূদ (আঃ) দলিল দিচ্ছেন নিয়ামত থেকে, অলৌকিক ঘটনা থেকে নয়।"
+            "bn": "আত-তাবারী গড়নে বাড়িয়ে দেওয়ার কথাটি পড়েন একই বাক্যে নাম আসা নূহের (আঃ) কওমের তুলনায়, অর্থাৎ আগে যারা এই ভূমিতে ছিল, তাদের চেয়ে আদকে দেওয়া হয়েছিল বড় গড়ন। ইবনু কাসীর আদের লম্বা আর শক্তপোক্ত হওয়ার বর্ণনাগুলো জড়ো করেন; তবে আয়াত নিজে কেবল বাড়িয়ে দেওয়ার কথাই বলে, কোনো মাপ জুড়ে দেয় না। গোটা কথাটিকে তিনি পড়েন এভাবে: হূদ (আঃ) দলিল দিচ্ছেন নিয়ামত থেকে, মুজিযা বা অলৌকিক ঘটনা থেকে নয়।"
           },
           {
             "en": "As-Sa'di reads fadhkuru ala'a Allah as the hinge of the argument, since the favours are already known to the audience, so the command is not to learn anything but to draw a conclusion from what is already learnt. Al-Qurtubi notes that naming the people of Nuh puts a warning inside the favour, because the place Ad now occupy fell vacant through a punishment. None of them reads the verse as a compliment.",
@@ -1433,7 +1433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second thing to take is the word remember. The verse does not command a feeling, which nobody can summon on demand; it commands an act of recall, which anybody can perform. Gratitude in the Quran usually arrives in that order, through remembering first. And the outcome attached is not comfort but success, la'allakum tuflihun, which suggests that forgetting where a blessing came from is already a kind of failure in progress.",
-            "bn": "দ্বিতীয় যেটা নেওয়ার তা হলো স্মরণ শব্দটি। আয়াতটি অনুভূতির হুকুম দেয় না, কারণ ডাকলেই অনুভূতি আসে না; আয়াতটি হুকুম দেয় মনে করার, আর সেটা যে কেউ করতে পারে। কুরআনে শুকরিয়া সাধারণত এই ক্রমেই আসে, আগে মনে করা। আর সঙ্গে জোড়া ফলটি আরাম নয়, সফলতা; লাআল্লাকুম তুফলিহূন। এ থেকে বোঝা যায়, নিয়ামত কোথা থেকে এসেছে তা ভুলে যাওয়াটা নিজেই এক ধরনের চলতে থাকা ব্যর্থতা।"
+            "bn": "দ্বিতীয় শিক্ষা স্মরণ শব্দটিতে। আয়াতটি অনুভূতির হুকুম দেয় না, কারণ ডাকলেই অনুভূতি আসে না; আয়াতটি হুকুম দেয় মনে করার, আর সেটা যে কেউ করতে পারে। কুরআনে শুকরিয়া সাধারণত এই ক্রমেই আসে: আগে মনে করা, তারপর শুকরিয়া। আর সঙ্গে জোড়া ফলটি আরাম নয়, সফলতা: লাআল্লাকুম তুফলিহূন। এ থেকে বোঝা যায়, নিয়ামত কোথা থেকে এল তা ভুলে যাওয়া মানেই ব্যর্থতার পথে চলা শুরু হয়ে গেছে।"
           }
         ]
       },
@@ -1449,7 +1449,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A short supplication in the verse's own vocabulary may be added, offered as that and not as a transmitted wording. O Allah, You placed me where others stood before me, and I did not earn the place. Do not let me boast of a strength You lent me. Keep the list of what You have given in front of my eyes, and make remembering it the thing that moves me to act rather than the thing that makes me comfortable.",
-            "bn": "এর সঙ্গে এই আয়াতের শব্দ ধরে ছোট একটি প্রার্থনা যোগ করা যায়, যা বর্ণিত দু'আ নয়, এভাবেই পেশ করা। হে আল্লাহ, আমার আগে অন্যরা যেখানে দাঁড়িয়েছিল আপনি আমাকে সেখানে বসিয়েছেন, আর জায়গাটা আমি অর্জন করিনি। আপনার ধার দেওয়া শক্তি নিয়ে আমাকে বড়াই করতে দেবেন না। আপনি যা যা দিয়েছেন তার তালিকাটা আমার চোখের সামনে রাখুন, আর সেই তালিকা মনে করাটা যেন আমাকে আরাম না দিয়ে কাজে নামায়।"
+            "bn": "এর সঙ্গে আয়াতের শব্দ ধরে ছোট একটি দু'আ যোগ করা যায়। এটি নিজের ভাষায় করা দু'আ, হাদিসে বর্ণিত শব্দ নয়। হে আল্লাহ, আমার আগে অন্যরা যেখানে দাঁড়িয়েছিল, আপনি আমাকে সেখানে বসিয়েছেন; জায়গাটা আমি নিজে অর্জন করিনি। আপনার ধার দেওয়া শক্তি নিয়ে আমাকে বড়াই করতে দেবেন না। আপনি যা যা দিয়েছেন, তার তালিকাটা আমার চোখের সামনে রাখুন; আর সেই তালিকা মনে করা যেন আমাকে আরামে বসিয়ে না রাখে, বরং কাজে নামায়।"
           }
         ]
       },
@@ -1465,7 +1465,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ad drew their own conclusion from the very same gift and said it out loud in 41:15, who is greater than us in strength. What do I say to myself about my own capability when nobody is listening, and how far is that sentence from theirs? Hud (AS) commanded remembering rather than gratitude, because an act can be commanded and a feeling cannot. What act is my remembering supposed to produce before this week ends?",
-            "bn": "আদ এই একই নিয়ামত থেকে নিজেদের সিদ্ধান্তে পৌঁছেছিল আর তা মুখেও বলে ফেলেছিল, ৪১:১৫ আয়াতে, আমাদের চেয়ে বেশি শক্তিশালী আর কে আছে। কেউ যখন শুনছে না, নিজের সামর্থ্য নিয়ে তখন আমি নিজেকে কী বলি, আর সেই কথাটা তাদের কথা থেকে কতটা দূরে? হূদ (আঃ) হুকুম দিয়েছেন মনে করার, শুকরিয়ার অনুভব জাগানোর নয়, কারণ কাজের হুকুম দেওয়া যায়, অনুভূতির যায় না। এই সপ্তাহ শেষ হওয়ার আগে আমার সেই মনে করাটার কোন কাজটা বের করে আনার কথা?"
+            "bn": "আদ এই একই নিয়ামত থেকে নিজেদের সিদ্ধান্তে পৌঁছেছিল আর ৪১:১৫ আয়াতে তা মুখেও বলে ফেলেছিল: আমাদের চেয়ে বেশি শক্তিশালী আর কে আছে? কেউ যখন শুনছে না, তখন নিজের সামর্থ্য নিয়ে আমি নিজেকে কী বলি, আর সেই কথা তাদের কথা থেকে কতটা দূরে? হূদ (আঃ) হুকুম দিয়েছেন মনে করার, শুকরিয়ার অনুভূতি জাগানোর নয়, কারণ কাজের হুকুম দেওয়া যায়, অনুভূতির যায় না। এই সপ্তাহ শেষ হওয়ার আগে আমার এই মনে করা আমাকে দিয়ে কোন কাজটা করাবে?"
           }
         ]
       }
@@ -1485,7 +1485,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What follows shows why the verse matters. 7:75 has the arrogant chiefs challenging the oppressed believers among them, 7:76 has them rejecting outright what those believers accepted, and 7:77 has them hamstringing the camel and demanding the punishment. Then 7:78 says the earthquake seized them and left them lying prone where they lived. The verse we are reading describes those dwellings before the sentence is carried out inside them.",
-            "bn": "এরপর যা আসে তা থেকেই বোঝা যায় আয়াতটি কেন গুরুত্বপূর্ণ। ৭:৭৫ আয়াতে অহংকারী প্রধানরা নিজেদের মধ্যকার দুর্বল মুমিনদের চ্যালেঞ্জ করে, ৭:৭৬ আয়াতে তারা সাফ অস্বীকার করে সেই জিনিস যা ওই মুমিনরা মেনে নিয়েছিল, আর ৭:৭৭ আয়াতে তারা উটনীকে মেরে ফেলে আর শাস্তি নিয়ে আসতে বলে। তারপর ৭:৭৮ আয়াত বলে, ভূমিকম্প তাদের পাকড়াও করল আর যেখানে তারা থাকত সেখানেই তারা মুখ থুবড়ে পড়ে রইল। আমরা যে আয়াতটি পড়ছি, সেটি ওই বাসস্থানগুলোরই বর্ণনা, শাস্তি সেখানে কার্যকর হওয়ার আগে।"
+            "bn": "এরপর যা আসে, তা থেকেই বোঝা যায় আয়াতটি কেন গুরুত্বপূর্ণ। ৭:৭৫ আয়াতে অহংকারী প্রধানরা নিজেদের মধ্যকার দুর্বল মুমিনদের চ্যালেঞ্জ করে, ৭:৭৬ আয়াতে ওই মুমিনরা যা মেনে নিয়েছিল তা তারা সাফ অস্বীকার করে, আর ৭:৭৭ আয়াতে তারা উটনীর পায়ের রগ কেটে দেয় আর শাস্তি নিয়ে আসতে বলে। তারপর ৭:৭৮ আয়াত বলে, ভূমিকম্প তাদের পাকড়াও করল, আর নিজেদের ঘরেই তারা মুখ থুবড়ে পড়ে রইল। আমরা যে আয়াতটি পড়ছি, তা ওই ঘরবাড়িরই বর্ণনা, তাদের উপর শাস্তি নেমে আসার আগে।"
           }
         ]
       },
@@ -1505,7 +1505,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Naht is carving, the removal of material until a shape is left, and here the object of the cutting is the mountain itself. The same scene told elsewhere inserts a preposition: 26:149 has carving out of the mountains, houses, with skill, and 15:82 says they used to carve from the mountains houses, feeling secure. Neither of those, and not this verse either, contains a word of blame for the building. 26:149 credits the skill and 15:82 names the security they felt in it.",
-            "bn": "নাহত মানে খোদাই করা, উপকরণ সরিয়ে সরিয়ে একটা আকৃতি রেখে দেওয়া; আর এখানে কাটার বস্তুটাই পাহাড়। একই দৃশ্য অন্যত্র বলা হয়েছে একটি অব্যয় জুড়ে: ২৬:১৪৯ আয়াতে আছে দক্ষতার সঙ্গে পাহাড় কেটে ঘর বানানো, আর ১৫:৮২ আয়াত বলে, তারা পাহাড় খোদাই করে ঘর বানাত আর নিজেদের নিরাপদ ভাবত। ওই দুটিতেও নয়, এই আয়াতেও নয়, গড়ার কাজটার জন্য একটি শব্দও দোষারোপ নেই। ২৬:১৪৯ আয়াত দক্ষতার স্বীকৃতি দেয়, আর ১৫:৮২ আয়াত সেই ঘরে তারা যে নিরাপত্তা বোধ করত তার নাম নেয়।"
+            "bn": "নাহত মানে খোদাই করা: উপকরণ সরিয়ে সরিয়ে একটা আকৃতি রেখে দেওয়া। আর এখানে যা কাটা হচ্ছে, তা খোদ পাহাড়। একই দৃশ্য অন্য জায়গায় এসেছে মাঝখানে একটি অব্যয় (মিন) জুড়ে: ২৬:১৪৯ আয়াতে আছে, তোমরা দক্ষতার সঙ্গে পাহাড় কেটে ঘর বানাও; আর ১৫:৮২ আয়াত বলে, তারা পাহাড় খোদাই করে ঘর বানাত আর নিজেদের নিরাপদ ভাবত। ওই দুই আয়াতে কিংবা এই আয়াতে, কোথাও ঘর বানানোর জন্য একটি শব্দেও দোষ দেওয়া হয়নি। ২৬:১৪৯ আয়াত তাদের দক্ষতার স্বীকৃতি দেয়, আর ১৫:৮২ আয়াত বলে দেয়, সেই ঘরে তারা নিজেদের কতটা নিরাপদ ভাবত।"
           }
         ]
       },
@@ -1517,7 +1517,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fadhkuru ala'a Allah wa la ta'thaw fi'l-ardi mufsidin. The fa joins the remembering straight onto the list that has just ended, and the prohibition is then attached with nothing heavier than a wa. 'Atha is a verb for wreaking havoc, damage done without restraint. Mufsidin stands as a description of the state of the one doing it. Remembering the favours and not ruining the earth are given as a single instruction here, not as two.",
-            "bn": "ফাযকুরূ আলাআল্লাহি ওয়া লা তা'সাও ফিল আরদি মুফসিদীন। ফা অক্ষরটি স্মরণ করার হুকুমকে সোজা জুড়ে দেয় মাত্র শেষ হওয়া তালিকার সঙ্গে, আর নিষেধটা জোড়া লাগে কেবল একটি ওয়া দিয়ে। আ'সা ক্রিয়াটি বোঝায় তাণ্ডব চালানো, লাগামছাড়া ক্ষতি করা। মুফসিদীন শব্দটি দাঁড়িয়ে থাকে যে ক্ষতি করছে তার অবস্থার বর্ণনা হিসেবে। নিয়ামত মনে রাখা আর যমীন নষ্ট না করা, এখানে দুটো আলাদা হুকুম নয়, একটিই হুকুম।"
+            "bn": "ফাযকুরূ আলাআল্লাহি ওয়া লা তা'সাও ফিল আরদি মুফসিদীন। ফা অক্ষরটি স্মরণ করার হুকুমকে সোজা জুড়ে দেয় এইমাত্র শেষ হওয়া তালিকার সঙ্গে, আর নিষেধটা জোড়া লাগে কেবল একটি ওয়া দিয়ে। আ'সা ক্রিয়াটি বোঝায় তাণ্ডব চালানো, লাগামছাড়া ক্ষতি করা। আর মুফসিদীন শব্দটি বলে দেয়, যে এ কাজ করছে সে কোন অবস্থায় করছে: ফাসাদকারী হয়ে। নিয়ামত মনে রাখা আর যমীন নষ্ট না করা, এখানে দুটো আলাদা হুকুম নয়, একটিই হুকুম।"
           },
           {
             "en": "The same wording appears elsewhere, which is how a reader knows it is a standing prohibition rather than a remark about Thamud alone. 2:60 closes the account of the twelve springs struck from the rock with the identical clause, do not commit abuse on the earth, spreading corruption. Shu'ayb (AS) gives it to Madyan in 11:85 alongside full measure and weight, and again in 29:36 alongside expecting the Last Day. Thamud here, the Children of Israel in 2:60, Madyan twice over: different peoples, different sins, one sentence.",
@@ -1569,7 +1569,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Three more fill the picture in. 15:82 says they carved houses out of the mountains and felt secure in them. 89:9 names Thamud among the broken powers as those who carved the rocks in the valley. And 11:61 gives Salih's other opening to them, that He produced you from the earth and settled you in it, which puts the whole of their achievement on ground they did not make and out of material they did not supply.",
-            "bn": "আরও তিনটি ছবিটা পূর্ণ করে। ১৫:৮২ আয়াত বলে, তারা পাহাড় খোদাই করে ঘর বানাত আর সেখানে নিজেদের নিরাপদ ভাবত। ৮৯:৯ আয়াত ভেঙে পড়া শক্তিগুলোর মধ্যে সামূদের নাম নেয় এভাবে, যারা উপত্যকায় পাথর কেটেছিল। আর ১১:৬১ আয়াত তাদের উদ্দেশে সালিহের (আঃ) আরেকটি শুরুর কথা দেয়, তিনিই তোমাদের মাটি থেকে সৃষ্টি করেছেন আর তাতেই তোমাদের প্রতিষ্ঠিত করেছেন; অর্থাৎ তাদের গোটা কীর্তিটা দাঁড়িয়ে আছে এমন মাটির উপর যা তারা বানায়নি আর এমন উপকরণ দিয়ে যা তারা জোগায়নি।"
+            "bn": "আরও তিনটি আয়াত ছবিটা পূর্ণ করে। ১৫:৮২ আয়াত বলে, তারা পাহাড় খোদাই করে ঘর বানাত আর সেখানে নিজেদের নিরাপদ ভাবত। ৮৯:৯ আয়াত ধ্বংস হয়ে যাওয়া শক্তিগুলোর মধ্যে সামূদের নাম নেয় এভাবে: যারা উপত্যকায় পাথর কেটেছিল। আর ১১:৬১ আয়াতে আছে তাদের উদ্দেশে সালিহের (আঃ) আরেকটি শুরুর কথা: তিনিই তোমাদের মাটি থেকে সৃষ্টি করেছেন আর তাতেই তোমাদের বসবাস করিয়েছেন। অর্থাৎ তাদের গোটা কীর্তি দাঁড়িয়ে আছে এমন মাটির উপর, যা তারা বানায়নি, আর এমন উপকরণ দিয়ে, যা তারা জোগায়নি।"
           }
         ]
       },
@@ -1581,11 +1581,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The structural lesson is the joint between the two halves of the sentence, because that joint is where most people come apart. Capability and restraint are handed over together here, and a life that keeps only the first half is exactly the life the verse is warning about. A skill, a budget, an authority over other people: each is a favour to be counted and a power to be fenced, and the verse will not let anyone take the first without the second.",
-            "bn": "গঠনের দিক থেকে শেখার জিনিসটা হলো বাক্যের দুই অর্ধেকের জোড়টা, কারণ ঠিক ওই জোড়েই বেশিরভাগ মানুষ খুলে যায়। সামর্থ্য আর সংযম এখানে একসঙ্গে হাতে তুলে দেওয়া হচ্ছে, আর যে জীবন কেবল প্রথম অর্ধেকটা রেখে দেয় আয়াতটি ঠিক সেই জীবনের ব্যাপারেই সতর্ক করছে। একটা দক্ষতা, একটা বাজেট, মানুষের উপর একটা কর্তৃত্ব; প্রতিটিই একদিকে গোনার মতো নিয়ামত, অন্যদিকে বেড়া দেওয়ার মতো ক্ষমতা। আয়াতটি কাউকে দ্বিতীয়টি ছাড়া প্রথমটি নিতে দেবে না।"
+            "bn": "প্রথম শিক্ষা বাক্যের গঠনে: দুই অর্ধেক যেখানে জোড়া লেগেছে, সেই জোড়টাতেই। কারণ বেশিরভাগ মানুষের জীবনে ঠিক ওই জোড়টাই আলগা হয়ে যায়। সামর্থ্য আর সংযম এখানে একসঙ্গে হাতে তুলে দেওয়া হচ্ছে, আর যে জীবন কেবল প্রথমটা রেখে দ্বিতীয়টা ফেলে দেয়, আয়াতটি ঠিক সেই জীবনের ব্যাপারেই সতর্ক করছে। একটা দক্ষতা, একটা বাজেট, মানুষের উপর একটা কর্তৃত্ব: প্রতিটিই একদিকে গুনে রাখার মতো নিয়ামত, অন্যদিকে বেড়া দিয়ে রাখার মতো ক্ষমতা। আয়াতটি কাউকে দ্বিতীয়টি ছাড়া প্রথমটি নিতে দেয় না।"
           },
           {
             "en": "The second lesson is about scale. Ta'thaw is not a word for a small slip; it is havoc. But nobody wrecks anything large without first being allowed to wreck something small, and this prohibition was given to people who had not yet hamstrung anything. So the useful question is not whether I would destroy something on the scale of 7:77. It is what a small allowance of mine looks like after ten years of nobody objecting.",
-            "bn": "দ্বিতীয় শিক্ষাটা মাপ নিয়ে। তা'সাও শব্দটা ছোটখাটো ভুলের জন্য নয়, এটা তাণ্ডবের শব্দ। তবে ছোট কিছু নষ্ট করার সুযোগ না পেলে কেউ বড় কিছু ভাঙে না, আর এই নিষেধ দেওয়া হয়েছিল এমন লোকদের, যারা তখনো উটনীর গায়েও হাত তোলেনি। তাই কাজের প্রশ্নটা এই নয় যে ৭:৭৭ আয়াতের মাপের কিছু আমি ধ্বংস করতাম কিনা। প্রশ্নটা হলো, দশ বছর ধরে কেউ আপত্তি না করলে আমার ছোট ছাড়টা শেষে কী চেহারা নেয়।"
+            "bn": "দ্বিতীয় শিক্ষাটা মাপ নিয়ে। তা'সাও শব্দটা ছোটখাটো ভুলের জন্য নয়, এটা তাণ্ডবের শব্দ। তবে ছোট কিছু নষ্ট করার সুযোগ না পেলে কেউ বড় কিছু ভাঙে না, আর এই নিষেধ দেওয়া হয়েছিল এমন লোকদের, যারা তখনো উটনীর গায়েও হাত তোলেনি। তাই কাজের প্রশ্নটা এই নয় যে ৭:৭৭ আয়াতের মাপের কিছু আমি ধ্বংস করতাম কিনা। প্রশ্নটা হলো, নিজেকে দেওয়া আমার ছোট্ট কোনো ছাড়, দশ বছর ধরে কেউ আপত্তি না করলে, শেষে কী চেহারা নেয়।"
           }
         ]
       },
@@ -1601,7 +1601,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A short supplication in the verse's own vocabulary may be offered as such, and not as a transmitted wording. O Allah, You settled me where I did not clear the ground, and whatever I have made was made with strength on loan. Let me count what You gave before I spend it. And keep my hands off what You have placed me in the middle of, whether that is a piece of land, a household, a trust, or somebody else's good name.",
-            "bn": "এই আয়াতের শব্দ ধরে ছোট একটি প্রার্থনা এভাবেই পেশ করা যায়, বর্ণিত দু'আ হিসেবে নয়। হে আল্লাহ, যে জমি আমি সাফ করিনি সেখানেই আপনি আমাকে বসিয়েছেন, আর যা কিছু আমি বানিয়েছি তা বানিয়েছি ধার করা শক্তি দিয়ে। খরচ করার আগে আপনার দেওয়া জিনিসগুলো আমাকে গুনে নিতে দিন। আর যেসবের মাঝখানে আপনি আমাকে বসিয়েছেন তাতে আমার হাত পড়তে দেবেন না, সে এক টুকরো জমিই হোক, একটি সংসার, একটি আমানত, কিংবা অন্য কারো সুনাম।"
+            "bn": "এই আয়াতের শব্দ ধরে ছোট একটি দু'আ করা যায়। এটি নিজের ভাষায় করা দু'আ, হাদিসে বর্ণিত শব্দ নয়। হে আল্লাহ, যে জমি আমি সাফ করিনি, সেখানেই আপনি আমাকে বসিয়েছেন; আর যা কিছু আমি বানিয়েছি, তা বানিয়েছি ধার করা শক্তি দিয়ে। খরচ করার আগে আপনার দেওয়া জিনিসগুলো আমাকে গুনে নিতে দিন। আর যেসবের মাঝখানে আপনি আমাকে রেখেছেন, তার ক্ষতি করতে আমার হাত উঠতে দেবেন না; তা এক টুকরো জমিই হোক, একটি সংসার, একটি আমানত, কিংবা অন্য কারো সুনাম।"
           }
         ]
       },
@@ -1617,7 +1617,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The houses were still cut into the rock at al-Hijr centuries later, and the Prophet ﷺ covered his head and quickened his pace through that valley rather than stop and admire the work. What of mine will still be standing after me, and what would somebody passing it be right to feel? And where am I spending a capacity that was lent to me as though it had been handed over outright?",
-            "bn": "শত শত বছর পরেও হিজরের পাথর কেটে বানানো সেই ঘরগুলো দাঁড়িয়েই ছিল, আর নবী ﷺ সেই উপত্যকায় থেমে কারিগরি দেখার বদলে মাথা ঢেকে পা চালিয়ে পার হয়ে গিয়েছিলেন। আমার পরেও আমার কোনটা দাঁড়িয়ে থাকবে, আর তার পাশ দিয়ে যাওয়া কেউ কী অনুভব করলে সেটা ঠিক হতো? আর ধার হিসেবে পাওয়া কোন সামর্থ্য আমি এমনভাবে খরচ করছি যেন সেটা একেবারে আমার নামে লিখে দেওয়া হয়ে গেছে?"
+            "bn": "শত শত বছর পরেও হিজরে পাথর কেটে বানানো সেই ঘরগুলো দাঁড়িয়েই ছিল, আর নবী ﷺ সেই উপত্যকায় থেমে কারিগরি দেখার বদলে মাথা ঢেকে দ্রুত পা চালিয়ে পার হয়ে গিয়েছিলেন। আমার পরে আমার কোন কাজটা টিকে থাকবে, আর তার পাশ দিয়ে যাওয়ার সময় কারো মনে কী অনুভূতি জাগা উচিত হবে? আর ধার হিসেবে পাওয়া কোন সামর্থ্য আমি এমনভাবে খরচ করছি, যেন সেটা একেবারে আমার নামে লিখে দেওয়া হয়েছে?"
           }
         ]
       }
