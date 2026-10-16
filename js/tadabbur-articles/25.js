@@ -1089,7 +1089,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That leaves the day itself. If the night was a garment and the sleep a cutting off, then the morning is a portion of life returned to a person who did not earn it back. Later in this same surah, 25:64 describes the servants of ar-Rahman as those who spend part of the night before their Lord prostrating and standing. The clothing is not wasted on them, and neither is the rising that follows it.",
-            "bn": "তাহলে বাকি থাকে দিনটি নিজেই। রাত যদি হয় পোশাক আর ঘুম যদি হয় কেটে যাওয়া, তবে সকাল হলো এমন এক মানুষকে ফিরিয়ে দেওয়া জীবনের একটি অংশ, যে তা অর্জন করে ফিরে পায়নি। এই সূরারই পরের দিকে 25:64 রহমানের বান্দাদের বর্ণনা দেয় এভাবে — যারা রাতের একাংশ তাদের প্রতিপালকের সামনে সিজদায় ও দাঁড়িয়ে কাটায়। তাদের ক্ষেত্রে সেই পোশাকটিও বৃথা যায় না, তারপরের উত্থানটিও নয়।"
+            "bn": "বাকি থাকে দিনটা। রাত যদি পোশাক হয় আর ঘুম যদি হয় সব কিছু থেকে কেটে যাওয়া, তবে সকাল হলো জীবনের একটা টুকরো, যা মানুষটি নিজের যোগ্যতায় ফিরে পায়নি, তবু তাকে ফিরিয়ে দেওয়া হয়েছে। এই সূরারই পরের দিকে ২৫:৬৪ আয়াতে রহমানের বান্দাদের পরিচয় এসেছে: তারা রাতের একাংশ কাটায় তাদের রবের সামনে সিজদায় আর দাঁড়িয়ে। তাদের বেলায় সেই পোশাক বৃথা যায় না, তার পরের জেগে ওঠাও না।"
           }
         ]
       }
@@ -1105,7 +1105,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a refrain that runs through this whole passage: wa huwa alladhi, and it is He who. A few lines earlier God points to the shadow He stretches across the morning (25:45), then to the night He made a covering, sleep a rest, and the day a rising (25:47). Now come the winds and the rain. As-Sa'di reads the run of signs as a single argument: He alone showed mercy to His servants and poured out their provision. Shadow, sleep and rainfall answer to one Lord, and the passage is building towards the claim that He alone deserves to be worshipped.",
-            "bn": "আয়াতটি শুরু হয় এমন এক সুরে, যা গোটা অনুচ্ছেদ জুড়ে ফিরে ফিরে আসে: ওয়া হুওয়াল্লাযী, তিনিই সেই সত্তা। কয়েক লাইন আগে আল্লাহ ইঙ্গিত করেন সকালের ছায়ার দিকে, যা তিনি দীর্ঘ করেন (২৫:৪৫), তারপর রাতের দিকে যাকে করেছেন আবরণ, নিদ্রাকে আরাম আর দিনকে আবার জেগে ওঠার সময় (২৫:৪৭)। এবার আসে বাতাস আর বৃষ্টি। সাদী এই নিদর্শনগুলোর ধারাটিকে একটিমাত্র যুক্তি হিসেবে পড়েন: তিনিই একমাত্র তাঁর বান্দাদের প্রতি রহম করেছেন আর তাদের রিজিক ঢেলে দিয়েছেন। ছায়া, ঘুম আর বৃষ্টি একই রবের দিকে ইশারা করে, আর পুরো অনুচ্ছেদ এগিয়ে যায় এই কথার দিকে যে ইবাদতের যোগ্য কেবল তিনিই।"
+            "bn": "আয়াতটি শুরু হয় এমন এক কথায়, যা গোটা অনুচ্ছেদ জুড়ে ফিরে ফিরে আসে: ওয়া হুওয়াল্লাযী, তিনিই সেই সত্তা। কয়েক আয়াত আগে আল্লাহ দেখিয়েছেন সকালের ছায়া, যা তিনি বিছিয়ে দেন (২৫:৪৫); তারপর রাত, যাকে তিনি আবরণ বানিয়েছেন, ঘুমকে বিশ্রাম আর দিনকে আবার জেগে ওঠার সময় (২৫:৪৭)। এবার আসে বাতাস আর বৃষ্টি। সাদীর চোখে নিদর্শনের এই সারি আসলে একটাই যুক্তি: তিনি একাই তাঁর বান্দাদের প্রতি রহম করেছেন আর তাদের রিজিক ঢেলে দিয়েছেন। ছায়া, ঘুম আর বৃষ্টি একই রবের দিকে ইশারা করে, আর পুরো অনুচ্ছেদ এগিয়ে যায় এই কথার দিকে যে ইবাদতের যোগ্য কেবল তিনিই।"
           },
           {
             "en": "Inside this one verse the grammar itself moves. He sends the winds, arsala, in the third person; then the voice shifts to the first person of majesty, wa-anzalna, and We sent down. Al-Baghawi and al-Muyassar both gloss His mercy in the phrase bayna yaday rahmatihi plainly as the rain: the wind is the herald, the rain is the mercy it announces. So the two halves are not two subjects but one act of giving, told in two moments, the breeze first and the water close behind it.",
@@ -1121,11 +1121,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir pauses on the plural, ar-riyah, the winds, and lists what they do. This too is part of His complete power, he says, and the winds come in many kinds. Some stir up and gather the clouds; some carry them; some drive them along; some go ahead of the clouds as heralds announcing their coming; some sweep the ground before them; and some fertilize the clouds so they release rain. One spell of weather is really a crew of winds, each with a task, and the herald of glad tidings named in the verse is one member of that crew.",
-            "bn": "ইবন কাসীর থামেন বহুবচন শব্দটির উপর, আর-রিয়াহ, অর্থাৎ বাতাসগুলো, আর গুনে দেখান তারা কী কী করে। এটাও তাঁর পূর্ণ ক্ষমতার অংশ, তিনি বলেন, আর বাতাস আসে নানা রকমের। কোনোটা মেঘ জাগিয়ে জড়ো করে; কোনোটা মেঘ বয়ে নেয়; কোনোটা তাকে হাঁকিয়ে নিয়ে যায়; কোনোটা মেঘের আগে আগে চলে তার আসার সুসংবাদ দেয়; কোনোটা আগে আগে যমীন ঝেড়ে দেয়; আর কোনোটা মেঘকে গর্ভবতী করে যাতে সে বৃষ্টি ছাড়ে। একটামাত্র আবহাওয়া আসলে বাতাসের এক দল, প্রত্যেকের আলাদা কাজ, আর আয়াতে যে সুসংবাদদাতা অগ্রদূতের কথা, সে এই দলেরই একজন।"
+            "bn": "ইবন কাসীর বহুবচন শব্দটায় এসে থামেন: আর-রিয়াহ, বাতাসগুলো। তারপর গুনে দেখান এরা কী কী করে। তিনি বলেন, এটাও তাঁর পরিপূর্ণ কুদরতের অংশ, আর বাতাস নানা রকমের। কোনোটা মেঘ জাগিয়ে জড়ো করে; কোনোটা মেঘ বয়ে নেয়; কোনোটা তাকে হাঁকিয়ে নিয়ে যায়; কোনোটা মেঘের আগে আগে চলে তার আসার সুসংবাদ দেয়; কোনোটা আগেভাগে মাটি ঝেড়ে সাফ করে; আর কোনোটা মেঘকে গর্ভবতী করে, যাতে বৃষ্টি ঝরে। এক পশলা বৃষ্টির পেছনে আসলে কাজ করে বাতাসের একটা পুরো দল, প্রত্যেকের হাতে আলাদা কাজ। আয়াতে যে সুসংবাদবাহী অগ্রদূতের কথা, সে এই দলেরই একজন।"
           },
           {
             "en": "At-Tabari fixes on the same working detail. For him the winds sent here are al-mulaqqihah, the fertilizing winds, the ones that quicken the clouds, and bushra he glosses as life, or as the relief and rain-water God sends down upon His servants. Ibn Kathir's word for the last kind of wind comes from the same root: it yulqih, it pollinates the cloud so it will rain. The picture in both is not idle air but a deliberate arrangement with an outcome in view, water for a thirsty world, set in motion by a Lord who orders each step of it.",
-            "bn": "তাবারীও একই কর্মদক্ষতার দিকে নজর দেন। তাঁর কাছে এখানে পাঠানো বাতাস হলো আল-মুলাক্কিহা, গর্ভসঞ্চারী বাতাস, যা মেঘকে জাগিয়ে তোলে; আর 'বুশরা' শব্দটিকে তিনি ব্যাখ্যা করেন জীবন হিসেবে, কিংবা সেই স্বস্তি ও বৃষ্টির পানি হিসেবে যা আল্লাহ তাঁর বান্দাদের উপর নামিয়ে দেন। ইবন কাসীরের শেষ ধরনের বাতাসের শব্দটিও একই ধাতু থেকে: সে মেঘকে গর্ভবতী করে যাতে বৃষ্টি হয়। দুজনের ছবিই অলস হাওয়া নয়, বরং লক্ষ্যমুখী এক পরিকল্পিত আয়োজন— তৃষ্ণার্ত এক জগতের জন্য পানি, যা চালু করেন এমন এক রব যিনি এর প্রতিটি ধাপ সাজিয়ে রাখেন।"
+            "bn": "তাবারীও কাজের এই খুঁটিনাটির দিকেই নজর দেন। তাঁর মতে এখানে যে বাতাস পাঠানো হয় তা আল-মুলাক্কিহা, মেঘকে গর্ভবতী করা বাতাস, যা মেঘে প্রাণ জাগায়। আর 'বুশরা' শব্দের অর্থ তিনি বলেন জীবন, কিংবা সেই স্বস্তি ও বৃষ্টির পানি, যা আল্লাহ তাঁর বান্দাদের উপর নামান। শেষ ধরনের বাতাসের জন্য ইবন কাসীর যে শব্দ ব্যবহার করেন, সেটাও একই ধাতু থেকে: ইউলকিহ, সে মেঘকে গর্ভবতী করে, যাতে বৃষ্টি হয়। দুজনের ছবিতেই এ বাতাস অলস হাওয়া নয়। এ এক ভেবেচিন্তে সাজানো আয়োজন, যার সামনে একটা লক্ষ্য আছে: তৃষ্ণার্ত দুনিয়ার জন্য পানি। আর এর প্রতিটি ধাপ সাজিয়ে চালু করেন একজন রব।"
           }
         ]
       },
@@ -1137,11 +1137,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di draws out why the wind should come first at all. God sends the winds as heralds ahead of His mercy, which is the rain; by them the clouds are stirred and gather and thicken into masses, and He seeds them and makes them pour by His command. The reason he gives is tender: so the servants may take glad tidings of the rain before it falls, and ready themselves for it, rather than being caught all at once by a downpour that arrives with no warning. The herald is a mercy set inside the mercy, a kindness folded into the timing.",
-            "bn": "সাদী খুলে বলেন কেন বাতাসকেই আগে আসতে হবে। আল্লাহ বাতাস পাঠান তাঁর রহমতের আগে আগে সুসংবাদদাতা হিসেবে, আর সেই রহমত হলো বৃষ্টি; এই বাতাসেই মেঘ জেগে ওঠে, জড়ো হয়, পুঞ্জ হয়ে ঘন হয়, আর তিনি সেই মেঘকে গর্ভবতী করে নিজের হুকুমে বর্ষণ করান। এর কারণটা তিনি বলেন কোমল ভাষায়: যাতে বান্দারা বৃষ্টি নামার আগেই তার সুসংবাদ পেয়ে যায় আর তার জন্য প্রস্তুত হতে পারে, কোনো সতর্কতা ছাড়া হঠাৎ নেমে আসা বর্ষণ যেন তাদের একবারে বেকায়দায় না ফেলে। এই অগ্রদূত রহমতের ভেতরে রাখা আরেক রহমত, সময়ের মধ্যেই ভাঁজ করা এক দয়া।"
+            "bn": "সাদী খুলে বলেন কেন বাতাসকেই আগে আসতে হবে। আল্লাহ বাতাস পাঠান তাঁর রহমতের আগে আগে সুসংবাদদাতা হিসেবে, আর সেই রহমত হলো বৃষ্টি। এই বাতাসেই মেঘ জেগে ওঠে, জড়ো হয়, পুঞ্জ হয়ে ঘন হয়, আর তিনি সেই মেঘকে গর্ভবতী করে নিজের হুকুমে বর্ষণ করান। এর কারণটা তিনি বলেন কোমল ভাষায়: যাতে বান্দারা বৃষ্টি নামার আগেই তার সুসংবাদ পেয়ে যায় আর তার জন্য প্রস্তুত হতে পারে, কোনো সতর্কতা ছাড়া হঠাৎ নেমে আসা বর্ষণ যেন তাদের একবারে বেকায়দায় না ফেলে। এই অগ্রদূত যেন রহমতের ভেতরে রাখা আরেক রহমত; দয়াটা লুকিয়ে আছে সময় বেছে নেওয়ার মধ্যেই।"
           },
           {
             "en": "The phrase bayna yaday rahmatihi is literally between the hands of His mercy, that is, out in front of it, the way a herald walks ahead of the one he announces. Al-Baghawi and al-Muyassar both settle its meaning quietly: the mercy is the rain, and the wind carries its good news. It is worth noticing what gets called mercy here. Not a rescue from disaster, not a pardon after sin, but plain rainfall on ordinary ground. The Qur'an files the weather itself under rahmah, and asks the reader to feel it as exactly that.",
-            "bn": "'বাইনা ইয়াদাই রহমাতিহি' কথাটির আক্ষরিক অর্থ তাঁর রহমতের দুই হাতের মাঝে, অর্থাৎ তার একেবারে সামনে— যেভাবে একজন অগ্রদূত যাঁকে ঘোষণা করছে তাঁর আগে আগে হাঁটে। বাগাভী ও মুয়াসসার দুজনেই এর অর্থ চুপচাপ থিতিয়ে দেন: রহমত মানে বৃষ্টি, আর বাতাস তার সুখবর বয়ে আনে। এখানে কোন জিনিসটাকে রহমত বলা হচ্ছে, সেটা খেয়াল করার মতো। কোনো বিপর্যয় থেকে উদ্ধার নয়, গুনাহের পরে ক্ষমা নয়, বরং সাধারণ জমিনে সাধারণ বৃষ্টি। কুরআন আবহাওয়াকেই রহমতের খাতায় তোলে, আর পাঠককে বলে সেটাকে ঠিক সেভাবেই অনুভব করতে।"
+            "bn": "'বাইনা ইয়াদাই রহমাতিহি' কথাটির আক্ষরিক অর্থ তাঁর রহমতের দুই হাতের মাঝে, অর্থাৎ তার একেবারে সামনে, যেভাবে একজন অগ্রদূত যাঁর আগমনের খবর দিচ্ছে তাঁর আগে আগে হাঁটে। বাগাভী ও মুয়াসসার কোনো হইচই ছাড়াই অর্থটার মীমাংসা করে দেন: রহমত মানে বৃষ্টি, আর বাতাস তার সুখবর বয়ে আনে। এখানে কোন জিনিসটাকে রহমত বলা হচ্ছে, সেটা খেয়াল করার মতো। কোনো বিপর্যয় থেকে উদ্ধার নয়, গুনাহের পরে ক্ষমা নয়, বরং সাধারণ জমিনে সাধারণ বৃষ্টি। কুরআন আবহাওয়াকেই রহমতের খাতায় তোলে, আর পাঠককে বলে সেটাকে ঠিক সেভাবেই অনুভব করতে।"
           }
         ]
       },
@@ -1153,15 +1153,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "With the water down, the verse adds one word that generations of jurists have leaned on: tahur, pure. Ibn Kathir's own preferred sense is that it names an instrument, a thing you purify yourself with, on the pattern of sahur, the food eaten before dawn, and waqud, the fuel a fire is lit with. Water is the tahur, the means of purification. He calls this the soundest thing said about the word, and sets aside the grammarians who read it as no more than an intensive of pure, noting that each of those readings runs into trouble in both language and law.",
-            "bn": "পানি নেমে আসার পর আয়াত জুড়ে দেয় একটি শব্দ, যার উপর যুগের পর যুগ ফকিহরা ভর দিয়েছেন: 'তহূর', বিশুদ্ধ। ইবন কাসীরের নিজের পছন্দের অর্থ হলো, এ শব্দটি একটি উপকরণের নাম, যা দিয়ে আপনি নিজেকে পবিত্র করেন— যেমন 'সাহূর' মানে সেহরিতে খাওয়া খাবার, আর 'ওয়াকূদ' মানে যা দিয়ে আগুন জ্বালানো হয়। পানি সেই 'তহূর', পবিত্রতা অর্জনের মাধ্যম। এ ব্যাখ্যাটিকেই তিনি শব্দটি নিয়ে বলা সবচেয়ে সঠিক কথা বলে ধরেন, আর যাঁরা শব্দটিকে নিছক 'পবিত্র'-এর জোরালো রূপ ধরেন তাঁদের মত সরিয়ে রাখেন, বলেন যে ওই ব্যাখ্যাগুলো ভাষা ও বিধান দুই দিক থেকেই ঝামেলায় পড়ে।"
+            "bn": "পানি নেমে আসার পর আয়াত একটা শব্দ যোগ করে, যার উপর যুগের পর যুগ ফকিহরা ভর দিয়েছেন: 'তহূর', বিশুদ্ধ। ইবন কাসীরের নিজের পছন্দের অর্থ হলো, শব্দটি একটি উপকরণের নাম, যা দিয়ে আপনি নিজেকে পবিত্র করেন। যেমন 'সাহূর' মানে সেহরিতে খাওয়া খাবার, আর 'ওয়াকূদ' মানে যা দিয়ে আগুন জ্বালানো হয়। পানিই সেই 'তহূর', পবিত্রতা অর্জনের মাধ্যম। তাঁর মতে শব্দটি নিয়ে যত কথা বলা হয়েছে, এটাই সবচেয়ে সঠিক। যে ব্যাকরণবিদরা শব্দটিকে নিছক 'পবিত্র'-এর জোরালো রূপ ধরেন, তাঁদের মত তিনি সরিয়ে রাখেন, আর বলেন, ওই ব্যাখ্যাগুলোর প্রতিটিই ভাষা ও বিধান দুই দিক থেকেই ঝামেলায় পড়ে।"
           },
           {
             "en": "Al-Qurtubi opens fifteen questions on this single word, and his first sets a rule worth carrying: every tahur is pure, but not everything pure is tahur. The form is an intensification of tahir, pure, and that intensity, he says, makes the water both pure in itself and purifying for what it touches. This is the position of the majority. Ma'arif al-Qur'an sums up the settled result: water is clean by itself and carries the property of cleansing other things, and on this, it says, the ummah is agreed, as the plain sense of Qur'an and Sunnah.",
-            "bn": "কুরতুবী এই একটি শব্দ নিয়ে খোলেন পনেরোটি প্রশ্ন, আর তাঁর প্রথম প্রশ্নেই এমন একটি নিয়ম, যা মনে রাখার মতো: প্রতিটি 'তহূর' পবিত্র, কিন্তু প্রতিটি পবিত্র জিনিস 'তহূর' নয়। শব্দটি 'তাহির' অর্থাৎ পবিত্রের এক জোরালো রূপ, আর সেই জোরই, তিনি বলেন, পানিকে করে তোলে নিজে পবিত্র এবং যা ছোঁয় তাকেও পবিত্রকারী। এটাই জমহুরের মত। মাআরিফুল কুরআন থিতানো ফলটা এক কথায় বলে: পানি নিজে পরিষ্কার আর অন্য জিনিসকে পরিষ্কার করার গুণ ধরে; আর এ নিয়ে, সে বলে, উম্মাহ একমত, যা কুরআন ও সুন্নাহর সোজা অর্থ।"
+            "bn": "কুরতুবী এই এক শব্দ নিয়েই পনেরোটি প্রশ্ন তোলেন। প্রথমটিতেই আছে মনে রাখার মতো একটা নিয়ম: প্রতিটি 'তহূর' পবিত্র, কিন্তু প্রতিটি পবিত্র জিনিস 'তহূর' নয়। তিনি বলেন, শব্দটি 'তাহির' (পবিত্র)-এর জোরালো রূপ, আর এই জোরের কারণেই পানি নিজে পবিত্র, আবার যা ছোঁয় তাকেও পবিত্র করে। এটাই জমহুরের মত। মাআরিফুল কুরআন চূড়ান্ত কথাটা এক কথায় বলে দেয়: পানি নিজে পরিষ্কার, আর অন্য জিনিসকে পরিষ্কার করার গুণও তার আছে। কিতাবটি বলছে, এ বিষয়ে উম্মাহ একমত, আর কুরআন-সুন্নাহর সোজা অর্থও এটাই।"
           },
           {
             "en": "Al-Qurtubi then adds a proof from usage. The ummah agreed, in language and in law, that the word tahur is reserved for water and is not extended to other pure liquids. That very restriction, he argues, is the strongest evidence that tahur means the purifier and not merely the pure, since a word kept for water alone must be pointing at what water alone does, which is to lift a state of impurity, not simply to be clean.",
-            "bn": "এরপর কুরতুবী ব্যবহার থেকে একটি প্রমাণ যোগ করেন। উম্মাহ ভাষা ও বিধান উভয় দিক থেকে একমত যে 'তহূর' শব্দটি কেবল পানির জন্য নির্দিষ্ট, অন্য পবিত্র তরলের বেলায় তা বাড়িয়ে বলা হয় না। ঠিক এই সীমাবদ্ধতাই, তিনি যুক্তি দেন, সবচেয়ে জোরালো দলিল যে 'তহূর' মানে পবিত্রকারী, নিছক পবিত্র নয়। কারণ যে শব্দ শুধু পানির জন্যই রাখা, তা এমন কিছুর দিকেই ইশারা করছে যা কেবল পানিই পারে— নাপাকির অবস্থা তুলে দেওয়া, শুধু নিজে পরিষ্কার থাকা নয়।"
+            "bn": "এরপর কুরতুবী শব্দটির ব্যবহার থেকে একটি দলিল যোগ করেন। ভাষায় ও বিধানে উম্মাহ একমত যে 'তহূর' শব্দটি কেবল পানির জন্য, অন্য কোনো পবিত্র তরলকে এ নামে ডাকা হয় না। তাঁর যুক্তি, এই সীমাবদ্ধতাই সবচেয়ে বড় প্রমাণ যে 'তহূর' মানে পবিত্রকারী, নিছক পবিত্র নয়। যে শব্দ শুধু পানির জন্য তোলা থাকে, তা নিশ্চয়ই এমন কিছুর দিকে ইশারা করে যা কেবল পানিই পারে: নাপাকির অবস্থা দূর করা, কেবল নিজে পরিষ্কার থাকা নয়।"
           }
         ]
       },
@@ -1173,7 +1173,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Not everyone read the word the same way, and the article should let the difference stand. Al-Baghawi lays out three readings. The majority, with whom he sides, take tahur as pure-in-itself and purifying-for-others. The people of opinion, whom he names ahl ar-ra'y, the school of Abu Hanifa, read it as simply pure, tahir, and on that basis allowed impurity to be lifted with other clean liquids such as vinegar or rose-water. A third reading, which he attributes to Malik, hears in the form tahur something whose purifying recurs, the way sabur names one who is patient again and again.",
-            "bn": "সবাই শব্দটি এক অর্থে পড়েননি, আর এই পার্থক্যটা টিকে থাকতে দেওয়াই ঠিক। বাগাভী তিনটি পাঠ তুলে ধরেন। জমহুর, যাঁদের পক্ষে তিনি নিজে, 'তহূর'-কে ধরেন নিজে পবিত্র এবং অন্যকে পবিত্রকারী হিসেবে। আসহাবুর রায়, যাঁদের তিনি নাম দেন 'আহলুর রায়' তথা আবু হানিফার ঘরানা, শব্দটি পড়েন নিছক পবিত্র, 'তাহির', আর সেই ভিত্তিতে অন্য পরিষ্কার তরল যেমন সিরকা বা গোলাপজল দিয়ে নাপাকি দূর করাকে জায়েয বলেন। তৃতীয় একটি পাঠ, যা তিনি মালিকের দিকে তোলেন, 'তহূর' রূপটির মধ্যে এমন কিছু শোনে যার পবিত্র করার কাজ বারবার হয়, যেমন 'সাবূর' মানে যে বারবার ধৈর্য ধরে।"
+            "bn": "শব্দটি সবাই এক অর্থে নেননি, আর সেই মতভেদ এখানে যেমন আছে তেমনই থাকা উচিত। বাগাভী তিনটি ব্যাখ্যা তুলে ধরেন। জমহুরের মতে, যাঁদের পক্ষে তিনি নিজেও, 'তহূর' মানে যা নিজে পবিত্র এবং অন্যকে পবিত্র করে। যাঁদের তিনি 'আহলুর রায়' বলেন, অর্থাৎ আবু হানিফার মাযহাব, তাঁরা শব্দটিকে নিছক 'তাহির' (পবিত্র) অর্থে নেন। সেই ভিত্তিতে তাঁরা সিরকা বা গোলাপজলের মতো অন্য পরিষ্কার তরল দিয়েও নাপাকি দূর করা জায়েয বলেছেন। তৃতীয় ব্যাখ্যাটি তিনি মালিকের দিকে সম্পৃক্ত করেন: 'তহূর' রূপটি বোঝায় এমন কিছু, যা বারবার পবিত্র করে, যেমন 'সাবূর' মানে যে বারবার সবর করে।"
           },
           {
             "en": "What all three share is that this one word is where the law of purification with water is anchored. As-Sa'di says the water purifies from hadath, the state that breaks wudu, and from khabath, physical filth, and adds that it cleanses the heart too, from deceit and grime. Al-Baghawi backs the purifying sense from another verse, and sends down upon you water from the sky to purify you (8:11). Whichever grammar wins, the practical point holds: water is what Islam gives you to become clean for prayer, and this verse is its root.",
@@ -1189,11 +1189,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The clearest sound tradition on the verse fastens onto that same word. In Sunan Abu Dawud, Abu Sa'id al-Khudri reports that the people asked the Messenger of Allah ﷺ whether they could perform ablution from the well of Buda'ah, a well into which menstrual cloths, the flesh of dead dogs and refuse were thrown. He answered: Water is pure and is not defiled by anything. The reply does not inspect the well. It states a principle about water as tahur, that its purity is not undone by every impurity that happens to reach it.",
-            "bn": "আয়াতের উপর সবচেয়ে স্পষ্ট সহিহ বর্ণনাটি ঠিক এই শব্দটাকেই ধরে। সুনানে আবু দাউদে আবু সাঈদ খুদরি (রাঃ) বর্ণনা করেন, লোকেরা রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করল, তারা কি বুদাআ কূপের পানি দিয়ে অজু করতে পারে— যে কূপে হায়েজের কাপড়, মরা কুকুরের গোশত আর আবর্জনা ফেলা হতো। তিনি জবাব দিলেন: পানি পবিত্র, কোনো কিছুই তাকে নাপাক করে না। জবাবটি কূপের হিসাব-নিকাশে যায় না। এটি পানিকে 'তহূর' হিসেবে দেখে একটি নীতি বলে দেয়, যে পানির পবিত্রতা এমন নয় যে তার কাছে পৌঁছানো প্রতিটি নাপাকিতেই তা নষ্ট হয়ে যাবে।"
+            "bn": "এই আয়াত নিয়ে সবচেয়ে স্পষ্ট নির্ভরযোগ্য বর্ণনাটি ঠিক এই শব্দটাকেই ধরে। সুনানে আবু দাউদে আবু সাঈদ খুদরি (রাঃ) বর্ণনা করেন, লোকেরা রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করল, তারা কি বুদাআ কূপের পানি দিয়ে অজু করতে পারে? সেই কূপে হায়েজের কাপড়, মরা কুকুরের গোশত আর আবর্জনা ফেলা হতো। তিনি জবাব দিলেন: পানি পবিত্র, কোনো কিছুই তাকে নাপাক করে না। তিনি কূপটা খুঁটিয়ে দেখতে যাননি। বরং পানি যে 'তহূর', সেই নীতিটাই বলে দিয়েছেন: যে কোনো নাপাকি এসে পড়লেই পানির পবিত্রতা নষ্ট হয়ে যায় না।"
           },
           {
             "en": "On its strength the reports differ, and the difference should be named. At-Tirmidhi graded the hadith hasan, sound enough to act on, and Ibn Kathir notes that Ahmad graded it sahih; it is also carried by an-Nasa'i. Al-Qurtubi, though, records that Ibn al-Arabi and Abu Umar judged its chain weak. What nobody disputes is the ruling that rests on the verse behind it: a body of clean water in quantity is not made impure by something falling into it unless its colour, taste or smell is changed, a point Ma'arif al-Qur'an reports as a general consensus.",
-            "bn": "এর মজবুতি নিয়ে বর্ণনাগুলো ভিন্ন মত দেয়, আর সেই পার্থক্যটা বলে দেওয়া দরকার। তিরমিযি হাদিসটিকে 'হাসান' বলেছেন, আমল করার মতো যথেষ্ট শক্ত, আর ইবন কাসীর জানান যে আহমাদ একে 'সহিহ' বলেছেন; নাসাঈও এটি বর্ণনা করেছেন। তবে কুরতুবী উল্লেখ করেন যে ইবনুল আরাবি ও আবু উমার এর সনদকে দুর্বল গণ্য করেছেন। যে কথায় কারো দ্বিমত নেই তা হলো আয়াতের পেছনের বিধানটি: পরিমাণে বেশি পরিষ্কার পানিতে কিছু পড়লেই তা নাপাক হয় না, যতক্ষণ না তার রঙ, স্বাদ বা গন্ধ বদলে যায়— মাআরিফুল কুরআন যাকে সাধারণ ইজমা বলে জানায়।"
+            "bn": "হাদিসটির মান নিয়ে বর্ণনাগুলোতে মতভেদ আছে, আর সেটা খোলাখুলি বলা দরকার। তিরমিযি একে হাসান বলেছেন, অর্থাৎ আমল করার মতো যথেষ্ট মজবুত; ইবন কাসীর জানান, আহমাদ একে সহিহ বলেছেন; নাসাঈও এটি বর্ণনা করেছেন। তবে কুরতুবী উল্লেখ করেন, ইবনুল আরাবি ও আবু উমার এর সনদকে দুর্বল বলেছেন। কিন্তু আয়াতের ওপর দাঁড়ানো বিধানটি নিয়ে কারও দ্বিমত নেই: বেশি পরিমাণ পরিষ্কার পানিতে কিছু পড়লে তা নাপাক হয় না, যতক্ষণ না তার রং, স্বাদ বা গন্ধ বদলে যায়। মাআরিফুল কুরআন একে সাধারণ ইজমা বলে উল্লেখ করেছে।"
           }
         ]
       },
@@ -1205,11 +1205,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not stop at pure water; it leans forward. As-Sa'di notes that this same water carries baraka, blessing, and is sent to bring a dead land to life so its plants and trees come up in their kinds, food for people and cattle, which the next verse spells out, that We may revive a dead land by it (25:49). And the verse after that adds that God distributes the water among them so they might remember (25:50). So the sign is not only that rain is pure; it is that rain is aimed, sent for life and shared out on purpose.",
-            "bn": "আয়াত বিশুদ্ধ পানিতেই থামে না, সামনে ঝুঁকে পড়ে। সাদী লক্ষ করেন, এই একই পানি বহন করে বরকত, আর তা পাঠানো হয় মৃত জমিনকে জীবিত করতে, যাতে নানা জাতের গাছপালা মাথা তোলে, মানুষ আর পশুর খাবার হয়— পরের আয়াতই যা খুলে বলে, 'যা দিয়ে আমি মৃত ভূমিকে জীবিত করি' (২৫:৪৯)। তার পরের আয়াত যোগ করে যে আল্লাহ এই পানি মানুষের মাঝে বণ্টন করেন, যাতে তারা স্মরণ করে (২৫:৫০)। তাই নিদর্শনটা শুধু এই নয় যে বৃষ্টি পবিত্র; বরং বৃষ্টি লক্ষ্যমুখী, জীবনের জন্য পাঠানো আর ইচ্ছে করে ভাগ করে দেওয়া।"
+            "bn": "আয়াত বিশুদ্ধ পানিতে এসেই থেমে যায় না, আরও সামনে এগোয়। সাদী লক্ষ করেন, এই পানিতেই আছে বরকত। আল্লাহ এটা পাঠান মৃত জমিনকে জীবিত করতে, যাতে নানা জাতের গাছপালা মাথা তোলে আর মানুষ ও পশুর খাবার হয়। পরের আয়াতই কথাটা খুলে বলে: 'যাতে আমি তা দিয়ে মৃত ভূমিকে জীবিত করি' (২৫:৪৯)। তার পরের আয়াত যোগ করে, আল্লাহ এই পানি মানুষের মাঝে ভাগ করে দেন, যাতে তারা স্মরণ করে (২৫:৫০)। তাই নিদর্শনটা শুধু এই নয় যে বৃষ্টি পবিত্র। বৃষ্টি লক্ষ্য ঠিক করে পাঠানো: জীবনের জন্য পাঠানো, আর ভেবেচিন্তে ভাগ করে দেওয়া।"
           },
           {
             "en": "As-Sa'di closes his comment with the question the whole passage has been driving at. Is not the One who sent the heralding winds, and set each of them to its own work, and sent down from the sky pure and blessed water holding provision for His servants and their animals, is not He the One who deserves to be worshipped alone, with no partner beside Him? The pure water is not offered as a curiosity of nature. It is offered as evidence, and the verdict it asks for is worship.",
-            "bn": "সাদী তাঁর আলোচনা শেষ করেন এমন এক প্রশ্ন দিয়ে, যার দিকেই গোটা অনুচ্ছেদ এগোচ্ছিল। যিনি সুসংবাদদাতা বাতাস পাঠালেন, প্রত্যেকটিকে তার নিজের কাজে লাগালেন, আর আকাশ থেকে নামালেন পবিত্র ও বরকতময় পানি যাতে আছে বান্দা আর তাদের পশুর রিজিক— তিনিই কি নন সেই সত্তা, একমাত্র যাঁর ইবাদত প্রাপ্য, যাঁর সঙ্গে কাউকে শরিক করা চলে না? বিশুদ্ধ পানি প্রকৃতির কোনো কৌতূহল হিসেবে পেশ হয়নি। পেশ হয়েছে প্রমাণ হিসেবে, আর যে রায় সে চায় তা হলো ইবাদত।"
+            "bn": "সাদী তাঁর আলোচনা শেষ করেন এমন এক প্রশ্ন দিয়ে, যার দিকেই গোটা অনুচ্ছেদ এগোচ্ছিল। যিনি সুসংবাদদাতা বাতাস পাঠালেন, প্রত্যেকটিকে তার নিজের কাজে লাগালেন, আর আকাশ থেকে নামালেন পবিত্র ও বরকতময় পানি, যাতে আছে বান্দা আর তাদের পশুর রিজিক, তিনিই কি নন সেই সত্তা, একমাত্র যাঁর ইবাদত প্রাপ্য, যাঁর সঙ্গে কাউকে শরিক করা চলে না? এই বিশুদ্ধ পানির কথা প্রকৃতির কোনো মজার তথ্য হিসেবে আসেনি। এসেছে প্রমাণ হিসেবে, আর এ প্রমাণ একটাই রায় চায়: ইবাদত।"
           }
         ]
       },
@@ -1221,11 +1221,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Set the pieces together and a habit of seeing emerges. The wind that turns cool before a storm, the smell the first drops raise from dry earth, the grey that gathers while there is still time to bring the washing in, the Qur'an has already read these as a herald, glad tidings sent ahead of a mercy on its way. Most of us treat such moments as forecast, a matter of pressure and cloud. The verse asks for something more attentive: to catch, in the ordinary run of weather, a kindness deliberately announced before it arrives.",
-            "bn": "টুকরোগুলো একসঙ্গে রাখলে দেখার একটা অভ্যাস জন্ম নেয়। ঝড়ের আগে ঠান্ডা হয়ে আসা বাতাস, শুকনো মাটিতে প্রথম ফোঁটা পড়ার গন্ধ, কাপড় তুলে আনার সময় থাকতেই জমতে থাকা মেঘের ধূসর— কুরআন এগুলোকে আগেই পড়ে ফেলেছে এক অগ্রদূত হিসেবে, পথে থাকা এক রহমতের আগে পাঠানো সুসংবাদ হিসেবে। আমরা বেশির ভাগই এসব মুহূর্তকে নিছক পূর্বাভাস ধরি, চাপ আর মেঘের হিসাব। আয়াত চায় আরেকটু মনোযোগ: সাধারণ আবহাওয়ার চলার মধ্যেই ধরা পড়ুক এমন এক দয়া, যা আসার আগেই ইচ্ছে করে জানিয়ে দেওয়া হয়।"
+            "bn": "টুকরোগুলো জোড়া দিলে দেখার একটা অভ্যাস তৈরি হয়। ঝড়ের আগে বাতাস হঠাৎ ঠান্ডা হয়ে আসে, শুকনো মাটিতে প্রথম ফোঁটা পড়লে একটা গন্ধ ওঠে, আকাশে ধূসর মেঘ জমতে থাকে আর তখনো কাপড় তুলে আনার সময় থাকে। কুরআন এগুলোকে আগেই অগ্রদূত বলে চিনিয়ে দিয়েছে: পথে থাকা এক রহমতের আগাম সুসংবাদ। আমরা বেশির ভাগই এসব মুহূর্তকে নিছক আবহাওয়ার পূর্বাভাস ভাবি, বায়ুচাপ আর মেঘের ব্যাপার। আয়াত চায় আরেকটু মনোযোগ: রোজকার আবহাওয়ার মধ্যেই এমন এক দয়াকে চিনে নেওয়া, যা আসার আগেই ইচ্ছে করে জানিয়ে দেওয়া হয়।"
           },
           {
             "en": "Two things follow. One is gratitude for the plainest gift there is, the water we drink and wash and pray with, which the verse dignifies as pure and God names His mercy. The other is a way of reading God's timing. He rarely lets His mercies land on us without a herald; there is usually a wind before the rain, a sign that good is on its way, if we are watching for it. The believer learns to notice the herald, to make ready, and to be glad of the gift before the first drop has fallen.",
-            "bn": "এ থেকে দুটি কথা আসে। প্রথমটি হলো সবচেয়ে সাদামাটা দানের জন্য শুকরিয়া, যে পানি আমরা পান করি, যা দিয়ে ধুই আর নামাজ পড়ি, আয়াত যাকে বিশুদ্ধ বলে সম্মান দেয় আর আল্লাহ যাকে বলেন তাঁর রহমত। দ্বিতীয়টি হলো আল্লাহর সময়জ্ঞান পড়ার একটা ধরন। তিনি খুব কমই কোনো অগ্রদূত ছাড়া তাঁর রহমত আমাদের উপর নামান; বৃষ্টির আগে সাধারণত একটা বাতাস থাকে, ভালো কিছু আসছে তার একটা সংকেত থাকে, যদি আমরা তাকিয়ে থাকি। মুমিন শেখে অগ্রদূতকে খেয়াল করতে, প্রস্তুত হতে, আর প্রথম ফোঁটা পড়ার আগেই দানের জন্য খুশি হতে।"
+            "bn": "এ থেকে দুটি শিক্ষা আসে। প্রথমটি হলো সবচেয়ে সাদামাটা দানের জন্য শুকরিয়া: যে পানি আমরা পান করি, যা দিয়ে ধুই আর নামাজ পড়ি। আয়াত এ পানিকে বিশুদ্ধ বলে সম্মান দিয়েছে, আর আল্লাহ একে বলেছেন তাঁর রহমত। দ্বিতীয়টি হলো আল্লাহ কখন কী পাঠান, তা বোঝার একটা চোখ। তিনি খুব কমই কোনো অগ্রদূত না পাঠিয়ে তাঁর রহমত আমাদের উপর নামান। বৃষ্টির আগে সাধারণত একটা বাতাস আসে, ভালো কিছু আসছে তার একটা ইশারা থাকে, যদি আমরা খেয়াল রাখি। মুমিন শেখে অগ্রদূতকে চিনে নিতে, প্রস্তুত হতে, আর প্রথম ফোঁটা পড়ার আগেই দানের জন্য খুশি হতে।"
           }
         ]
       }
@@ -1241,11 +1241,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Furqan spends its middle stretch answering people who would not be answered. Three verses before this one, 25:55 describes them worshipping, instead of Allah, what can neither benefit them nor harm them. Then 25:56 limits the Prophet's ﷺ own role — a bringer of good tidings and a warner, nothing more — and in 25:57 he is told to say that he asks no payment for it. Only after the assignment has been stripped of both power and wages does this verse say where to lean.",
-            "bn": "সূরা আল-ফুরকান তার মধ্যভাগ ব্যয় করে এমন লোকদের জবাব দিতে, যারা জবাব শুনতে রাজি নয়। এই আয়াতের তিন আয়াত আগে 25:55 তাদের বর্ণনা দেয় — তারা আল্লাহকে বাদ দিয়ে এমন কিছুর ইবাদত করে যা তাদের উপকারও করতে পারে না, ক্ষতিও করতে পারে না। এরপর 25:56 নবী ﷺ-এর নিজের ভূমিকাকে সীমিত করে দেয় — কেবল সুসংবাদদাতা ও সতর্ককারী, এর বেশি কিছু নয় — আর 25:57 আয়াতে তাঁকে বলতে বলা হয় যে এর জন্য তিনি কোনো প্রতিদান চান না। দায়িত্বটি থেকে ক্ষমতা ও পারিশ্রমিক দুটোই সরিয়ে নেওয়ার পরেই এই আয়াত বলে দেয়, ভর কোথায় রাখতে হবে।"
+            "bn": "সূরা আল-ফুরকানের মাঝের অংশ জুড়ে আছে এমন লোকদের জবাব, যারা কোনো জবাবই মানতে রাজি নয়। এই আয়াতের তিন আয়াত আগে, ২৫:৫৫-এ বলা হয়েছে, তারা আল্লাহকে বাদ দিয়ে এমন কিছুর ইবাদত করে, যা তাদের উপকারও করতে পারে না, ক্ষতিও না। তারপর ২৫:৫৬ নবী ﷺ-এর নিজের দায়িত্বের সীমা টেনে দেয়: তিনি সুসংবাদদাতা ও সতর্ককারী, এর বেশি কিছু নন। আর ২৫:৫৭-এ তাঁকে বলতে বলা হয়, এ কাজের জন্য তিনি কোনো পারিশ্রমিক চান না। দায়িত্ব থেকে ক্ষমতা আর পারিশ্রমিক দুটোই সরিয়ে নেওয়ার পরেই এই আয়াত জানিয়ে দেয়, ভর রাখতে হবে কোথায়।"
           },
           {
             "en": "The order matters. A man told that he cannot compel belief, cannot punish rejection and will not be paid for his trouble is a man who needs somewhere to put his weight. The verse gives him one, and the grammar is an imperative addressed to him alone: rely. as-Sa'di reads the command as covering every undertaking, not as a mood to be summoned at a crisis — the standing posture of the work rather than an emergency measure.",
-            "bn": "ক্রমটি গুরুত্বপূর্ণ। যাকে বলা হয়েছে সে ঈমান চাপিয়ে দিতে পারবে না, প্রত্যাখ্যানের শাস্তি দিতে পারবে না, আর পরিশ্রমের বিনিময়ও পাবে না — তার নিজের ভার রাখার একটা জায়গা দরকার। আয়াতটি সেই জায়গা দেয়, আর ব্যাকরণে এটি কেবল তাঁকে উদ্দেশ করা এক আদেশ: ভরসা কর। আস-সা'দী এই আদেশকে পড়েন প্রতিটি কাজের ওপর বিস্তৃত হিসেবে, কোনো সংকটের মুহূর্তে ডেকে আনার মতো মেজাজ হিসেবে নয় — এটি কাজের স্থায়ী ভঙ্গি, জরুরি অবস্থার ব্যবস্থা নয়।"
+            "bn": "এই ক্রমটা গুরুত্বপূর্ণ। যাঁকে বলা হলো, তিনি কারও ওপর ঈমান চাপিয়ে দিতে পারবেন না, অস্বীকারকারীদের শাস্তিও দিতে পারবেন না, আর এত খাটুনির কোনো বিনিময়ও পাবেন না, তাঁর নিজের ভার রাখার একটা জায়গা চাই। আয়াত তাঁকে সেই জায়গা দেয়, আর তা দেয় শুধু তাঁকেই উদ্দেশ করা এক আদেশে: ভরসা কর। আস-সা'দীর মতে এ আদেশ প্রতিটি কাজের জন্য, শুধু বিপদের মুহূর্তে জাগিয়ে তোলার মতো কোনো মনের অবস্থা নয়। ভরসা হলো কাজের স্থায়ী ভঙ্গি, জরুরি অবস্থার দাওয়াই নয়।"
           }
         ]
       },
@@ -1257,11 +1257,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The name al-Hayy also stands at the head of 2:255, right after the declaration of tawhid, and the article on that verse treats the name itself. What this verse adds is a relative clause that Ayat al-Kursi does not carry: alladhi la yamut, who does not die. It sounds redundant — the Living does not die — and it is not. Every other living support a person leans on is alive now and will not always be. The clause names the single feature that disqualifies all of them.",
-            "bn": "আল-হাইয়্য নামটি 2:255 আয়াতেও তাওহীদের ঘোষণার ঠিক পরেই আসে, আর সেই আয়াতের প্রবন্ধে নামটি নিয়েই আলোচনা আছে। এই আয়াত যা যোগ করে তা হলো এমন একটি বিশেষণ-বাক্য, যা আয়াতুল কুরসীতে নেই: আল্লাযী লা ইয়ামূত — যিনি মরেন না। শুনতে বাহুল্য মনে হয় — চিরঞ্জীব তো মরেনই না — কিন্তু তা নয়। মানুষ যত জীবিত অবলম্বনের ওপর ভর দেয়, তার প্রতিটি এখন জীবিত এবং চিরকাল থাকবে না। এই বাক্যাংশটি সেই একটিমাত্র বৈশিষ্ট্যের নাম নেয়, যা তাদের সবাইকে অযোগ্য করে দেয়।"
+            "bn": "আল-হাইয়্য নামটি ২:২৫৫ আয়াতের মাথায়ও আছে, তাওহীদের ঘোষণার ঠিক পরেই, আর সেই আয়াতের প্রবন্ধে নামটি নিয়েই আলোচনা আছে। এই আয়াত এমন একটি কথা যোগ করে, যা আয়াতুল কুরসীতে নেই: আল্লাযী লা ইয়ামূত, যিনি মরেন না। শুনে মনে হতে পারে কথাটা বাড়তি; চিরঞ্জীব তো মরবেনই না। কিন্তু বাড়তি নয়। মানুষ যত জীবিত অবলম্বনের ওপর ভর দেয়, সবাই আজ বেঁচে আছে, কিন্তু চিরকাল থাকবে না। এই কথাটি ঠিক সেই একটি বৈশিষ্ট্যের নাম নেয়, যার কারণে তারা সবাই বাদ পড়ে যায়।"
           },
           {
             "en": "55:26-27 puts it as plainly as language allows: everyone upon the earth will perish, and there will remain the Face of your Lord, Owner of Majesty and Honour. 28:88 says the same. Set beside 25:55, the contrast is complete — on one side objects that were never alive, on the other a patron who cannot die. Trust misplaced is not merely disappointed later; it was aimed at something perishable from the start.",
-            "bn": "55:26-27 কথাটি ভাষার সাধ্যমতো সরাসরি বলে: পৃথিবীর ওপর যারা আছে সবাই ধ্বংস হবে, আর অবশিষ্ট থাকবে তোমার রবের চেহারা, যিনি মহিমা ও সম্মানের অধিকারী। 28:88 একই কথা বলে। 25:55 আয়াতের পাশে রাখলে বৈসাদৃশ্যটি পূর্ণ হয় — একদিকে এমন বস্তু যা কখনো জীবিতই ছিল না, অন্যদিকে এমন অভিভাবক যিনি মরতে পারেন না। ভুল জায়গায় রাখা আস্থা কেবল পরে হতাশ করে তা নয়; সেটি শুরু থেকেই এমন কিছুর দিকে তাক করা ছিল যা ধ্বংসশীল।"
+            "bn": "৫৫:২৬-২৭ কথাটা যতটা সোজা করে বলা যায় ততটাই সোজা করে বলে: পৃথিবীর বুকে যারা আছে, সবাই ধ্বংস হবে, আর বাকি থাকবে শুধু তোমার রবের চেহারা, যিনি মহিমা ও সম্মানের অধিকারী। ২৮:৮৮-ও একই কথা বলে। ২৫:৫৫-এর পাশে রাখলে তুলনাটা পূর্ণ হয়: একদিকে এমন সব বস্তু, যা কখনো জীবিতই ছিল না; অন্যদিকে এমন এক অভিভাবক, যিনি মরতেই পারেন না। ভুল জায়গায় রাখা ভরসা শুধু পরে গিয়ে হতাশ করে, ব্যাপারটা এমন নয়। শুরু থেকেই তা তাক করা ছিল এমন কিছুর দিকে, যা টিকবে না।"
           }
         ]
       },
@@ -1273,27 +1273,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second command arrives without a pause: wa sabbih bihamdih. Tasbih declares Him free of every defect; hamd praises Him for every perfection. Joined, they empty and fill in one breath — no flaw in Him, every good from Him. Placed directly after the command to rely, praise is what reliance sounds like out loud. 17:44 states that the whole of creation is already doing this, in a manner we do not understand.",
-            "bn": "দ্বিতীয় আদেশটি কোনো বিরতি ছাড়াই আসে: ওয়া সাব্বিহ বিহামদিহ। তাসবীহ তাঁকে প্রতিটি ত্রুটি থেকে মুক্ত ঘোষণা করে; হামদ তাঁকে প্রতিটি পূর্ণতার জন্য প্রশংসা করে। একসাথে তারা এক নিঃশ্বাসে খালি করে ও ভরে দেয় — তাঁর মধ্যে কোনো ত্রুটি নেই, আর সব কল্যাণ তাঁর কাছ থেকে। ভরসার আদেশের ঠিক পরে বসিয়ে দেওয়ায় প্রশংসাই হয়ে ওঠে সেই ভরসার উচ্চারিত রূপ। 17:44 বলে, গোটা সৃষ্টি ইতিমধ্যেই তা করছে, এমন এক পদ্ধতিতে যা আমরা বুঝি না।"
+            "bn": "দ্বিতীয় আদেশ আসে কোনো বিরতি ছাড়াই: ওয়া সাব্বিহ বিহামদিহ। তাসবীহ মানে ঘোষণা করা যে তাঁর মধ্যে কোনো ত্রুটি নেই; হামদ মানে প্রতিটি পূর্ণতার জন্য তাঁর প্রশংসা। দুটো একসঙ্গে বললে এক নিঃশ্বাসেই সব দোষ তাঁর থেকে সরিয়ে দেওয়া হয়, আর সব গুণ তাঁর বলে মেনে নেওয়া হয়: তাঁর মধ্যে কোনো খুঁত নেই, আর সব কল্যাণ তাঁরই কাছ থেকে। ভরসার আদেশের ঠিক পরেই আসায় প্রশংসা হয়ে ওঠে মুখে উচ্চারিত ভরসা। ১৭:৪৪ বলে, গোটা সৃষ্টি এখনই এ কাজ করছে, এমনভাবে যা আমরা বুঝি না।"
           },
           {
             "en": "al-Bukhari narrates from Abu Hurayrah (RA) that whoever says subhan Allahi wa bihamdih a hundred times in a day has his sins wiped away even if they were like the foam of the sea. The phrase in that hadith is the phrase in this verse. A command that could have remained abstract was given a form short enough to carry through an ordinary working day, and repeatable enough that it does not depend on a mood.",
-            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, যে ব্যক্তি দিনে একশ বার সুবহানাল্লাহি ওয়া বিহামদিহ বলে, তার গুনাহ মুছে দেওয়া হয় — যদিও তা সমুদ্রের ফেনার মতো হয়। সেই হাদীসের বাক্যটিই এই আয়াতের বাক্য। যে আদেশ বিমূর্ত থেকে যেতে পারত, তাকে এমন একটি রূপ দেওয়া হয়েছে যা সাধারণ কর্মদিবসের ভেতর বয়ে নেওয়ার মতো ছোট, আর এত সহজে পুনরাবৃত্তিযোগ্য যে তা মেজাজের ওপর নির্ভর করে না।"
+            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: যে দিনে একশ বার 'সুবহানাল্লাহি ওয়া বিহামদিহ' বলে, তার গুনাহ মুছে দেওয়া হয়, যদিও তা সমুদ্রের ফেনার সমান হয়। ওই হাদিসের বাক্য আর এই আয়াতের বাক্য একই। আদেশটা নিছক একটা ভাবনা হয়ে থাকতে পারত। কিন্তু তা পেয়েছে এমন ছোট একটা রূপ, যা সাধারণ কাজের দিনেও সঙ্গে বয়ে বেড়ানো যায়, আর এত সহজে বারবার বলা যায় যে মনের অবস্থার ওপর নির্ভর করতে হয় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Sufficient as Aware of Sins",
-          "bn": "গুনাহ সম্পর্কে অবগত হিসেবে যথেষ্ট"
+          "bn": "গুনাহের খবর রাখতে তিনিই যথেষ্ট"
         },
         "p": [
           {
             "en": "The closing clause is unexpected: and sufficient is He, with the sins of His servants, as Aware. Khabir is knowledge of what is inward and hidden, not merely of what shows. as-Sa'di draws the consolation out of it. The wrongdoers will not slip past justice, and the one carrying the message is not required to keep their file. He cannot put faith into a heart, and he is not the registrar of his opponents' offences. Both of those belong to Allah.",
-            "bn": "শেষ বাক্যাংশটি অপ্রত্যাশিত: তিনি তাঁর বান্দাদের গুনাহ সম্পর্কে অবগত হিসেবে যথেষ্ট। খাবীর মানে ভেতরের ও গোপন বিষয়ের জ্ঞান, কেবল যা প্রকাশ পায় তার নয়। আস-সা'দী এখান থেকেই সান্ত্বনাটি বের করে আনেন। জালিমরা ন্যায়বিচার এড়িয়ে যেতে পারবে না, আর যিনি বার্তা বহন করছেন তাঁর ওপর তাদের হিসাব রাখার দায়িত্ব নেই। তিনি কারও অন্তরে ঈমান ঢুকিয়ে দিতে পারেন না, আর তিনি তাঁর বিরোধীদের অপরাধের হিসাবরক্ষকও নন। এ দুটোই আল্লাহর।"
+            "bn": "শেষ কথাটা আসে অপ্রত্যাশিতভাবে: তাঁর বান্দাদের গুনাহের খবর রাখার জন্য তিনিই যথেষ্ট। খাবীর মানে যিনি ভেতরের ও গোপন বিষয়ও জানেন, শুধু বাইরে যা দেখা যায় তা নয়। আস-সা'দী এখান থেকেই সান্ত্বনার কথাটা বের করে আনেন। জালিমরা ইনসাফ থেকে পার পাবে না, আর যিনি বার্তা পৌঁছে দিচ্ছেন, তাদের হিসাব রাখার দায় তাঁর নয়। তিনি কারও অন্তরে ঈমান ঢুকিয়ে দিতে পারেন না, আবার বিরোধীদের অপরাধের খাতাও তাঁকে লিখতে হয় না। দুটোই আল্লাহর কাজ।"
           },
           {
             "en": "The same clause turns on the reader as it turns off the ledger. The sins named are those of His servants — a phrase that excludes nobody who is reading it. So the verse takes the accounting of other people out of your hands and refuses to take your own out with it. That is why it steadies and unsettles in a single line: you are relieved of judging them, and reminded that nothing of yours is unseen.",
-            "bn": "যে বাক্যাংশটি অন্যের খাতা বন্ধ করে দেয়, সেটিই পাঠকের দিকে ফেরে। যাদের গুনাহের কথা বলা হয়েছে তারা 'তাঁর বান্দা' — এই শব্দবন্ধ পাঠকদের কাউকেই বাদ দেয় না। ফলে আয়াতটি অন্য মানুষের হিসাব আপনার হাত থেকে নিয়ে নেয়, কিন্তু আপনার নিজের হিসাবটি তার সাথে নিতে অস্বীকার করে। এ কারণেই এক পঙক্তিতেই এটি স্থির করে এবং অস্বস্তিতেও ফেলে: তাদের বিচার করার ভার থেকে আপনি মুক্ত, আর আপনার নিজের কিছুই যে অদেখা নয় তা স্মরণ করিয়ে দেওয়া হলো।"
+            "bn": "যে কথাটা অন্যের খাতা আপনার হাত থেকে সরিয়ে নেয়, সেই কথাটাই আবার আপনার দিকে ঘুরে দাঁড়ায়। যাদের গুনাহের কথা বলা হচ্ছে, তারা 'তাঁর বান্দা', আর এ কথা থেকে যে পড়ছে তাদের কেউই বাদ পড়ে না। অর্থাৎ আয়াতটি অন্য মানুষের হিসাব আপনার হাত থেকে নিয়ে নেয়, কিন্তু আপনার নিজের হিসাব থেকে আপনাকে রেহাই দেয় না। তাই একই লাইনে আয়াতটি মনকে স্থিরও করে, আবার নাড়িয়েও দেয়: অন্যদের বিচার করার ভার থেকে আপনি মুক্ত, আর আপনার নিজের কোনো কিছুই যে তাঁর চোখের আড়ালে নয়, সেটাও মনে করিয়ে দেয়।"
           }
         ]
       },
@@ -1305,11 +1305,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Tawakkul is not the abandonment of means. 3:159 places the command after the decision — consult them in the matter, and when you have decided, then rely upon Allah. The consulting, the deciding and the doing all stand; what changes is where the outcome is lodged. 11:123 and 33:3 repeat the instruction in the same shape, and 65:2-3 sets it beside a promise of a way out and provision from where one does not expect, telling the one who relies that Allah is sufficient for him.",
-            "bn": "তাওয়াক্কুল মানে উপকরণ ছেড়ে দেওয়া নয়। 3:159 আদেশটি রাখে সিদ্ধান্তের পরে — বিষয়টি নিয়ে তাদের সাথে পরামর্শ কর, আর যখন সিদ্ধান্ত নিয়ে ফেল তখন আল্লাহর ওপর ভরসা কর। পরামর্শ, সিদ্ধান্ত ও কাজ — সবই বহাল থাকে; যা বদলায় তা হলো ফলাফলটি কোথায় জমা রাখা হচ্ছে। 11:123 ও 33:3 একই আকারে নির্দেশটি পুনরাবৃত্তি করে, আর 65:2-3 আয়াতদুটি এই নির্দেশের পাশেই রাখে বেরিয়ে আসার পথ ও অকল্পনীয় জায়গা থেকে রিযিকের প্রতিশ্রুতি — আর যে ভরসা করে তার জন্য বলে: আল্লাহই তার জন্য যথেষ্ট।"
+            "bn": "তাওয়াক্কুল মানে উপায়-উপকরণ ছেড়ে দেওয়া নয়। ৩:১৫৯ আয়াতে ভরসার আদেশ এসেছে সিদ্ধান্তের পরে: কাজেকর্মে তাদের সাথে পরামর্শ কর, তারপর যখন সিদ্ধান্ত নিয়ে ফেল, তখন আল্লাহর ওপর ভরসা কর। পরামর্শ, সিদ্ধান্ত আর কাজ, সবই থাকে; বদলায় শুধু এটুকু যে ফলাফলের ভার কার কাছে রাখা হচ্ছে। ১১:১২৩ আর ৩৩:৩ একই ধাঁচে নির্দেশটা আবার দেয়। আর ৬৫:২-৩ এর পাশেই রাখে প্রতিশ্রুতি: বের হওয়ার পথ, আর এমন জায়গা থেকে রিজিক, যা মানুষ কল্পনাও করে না। যে ভরসা করে, তার সম্পর্কে বলে: আল্লাহই তার জন্য যথেষ্ট।"
           },
           {
             "en": "In practice the verse puts two questions to an ordinary week. What am I actually leaning on — a salary, a contact, a reputation, a body that still works? And what comes out of my mouth when it wobbles? This verse answers both in one line: move the weight onto the One who will still be there, and keep His praise on your tongue while you do it.",
-            "bn": "বাস্তবে আয়াতটি একটি সাধারণ সপ্তাহের সামনে দুটি প্রশ্ন রাখে। আমি আসলে কীসের ওপর ভর দিয়ে আছি — বেতন, পরিচিতি, সুনাম, নাকি এখনো সচল একটি শরীর? আর সেটি যখন টলে ওঠে তখন আমার মুখ থেকে কী বের হয়? এই আয়াত এক পঙক্তিতেই দুটোরই জবাব দেয়: ভারটি সরিয়ে তাঁর ওপর রাখো, যিনি তখনো থাকবেন, আর সেই কাজ করতে করতে তাঁর প্রশংসা জিহ্বায় ধরে রাখো।"
+            "bn": "বাস্তব জীবনে আয়াতটি একটা সাধারণ সপ্তাহকে দুটি প্রশ্ন করে। আমি আসলে কীসের ওপর ভর দিয়ে আছি: বেতন, চেনাজানা লোক, সুনাম, নাকি এখনো সচল একটা শরীর? আর সেটা যখন টলে ওঠে, তখন আমার মুখ দিয়ে কী বের হয়? আয়াত এক লাইনেই দুটোর জবাব দেয়: ভারটা সরিয়ে রাখুন তাঁর ওপর, যিনি তখনো থাকবেন, আর তা করতে করতেই মুখে তাঁর প্রশংসা জারি রাখুন।"
           }
         ]
       }
@@ -1325,11 +1325,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens a portrait that runs to the end of the surah, and the title it gives is deliberate: 'ibad ar-Rahman, the servants of the Most Merciful. Of all the divine names available, ar-Rahman is chosen, so the people about to be described are identified by their relation to mercy. Everything listed after this belongs under that heading, which is why the first item is about how they treat other people.",
-            "bn": "এই আয়াত দিয়ে শুরু হওয়া বর্ণনা সূরার শেষ পর্যন্ত চলে, আর এতে দেওয়া উপাধিটি উদ্দেশ্যপ্রণোদিত: 'ইবাদুর রহমান — পরম করুণাময়ের বান্দারা। আল্লাহর যত নাম ছিল, তার মধ্য থেকে বেছে নেওয়া হয়েছে 'আর-রহমান'; ফলে যাদের বর্ণনা এখন শুরু হচ্ছে, তাদের পরিচয় নির্ধারিত হচ্ছে রহমতের সঙ্গে তাদের সম্পর্ক দিয়ে। এর পরে তালিকাভুক্ত সবকিছুই এই শিরোনামের অধীন — আর সে কারণেই প্রথম বিষয়টি হলো তারা অন্য মানুষের সঙ্গে কেমন আচরণ করে।"
+            "bn": "এই আয়াত থেকে একটি বর্ণনা শুরু হয়, যা চলে সূরার শেষ পর্যন্ত। আর এর যে নাম দেওয়া হয়েছে, তা ভেবেচিন্তেই বাছা: 'ইবাদুর রহমান, পরম করুণাময়ের বান্দারা। আল্লাহর এত নামের মধ্যে বেছে নেওয়া হয়েছে আর-রহমান। অর্থাৎ যাদের কথা এখন বলা হবে, তাদের পরিচয় রহমতের সঙ্গে তাদের সম্পর্ক দিয়ে। এরপর যা কিছু আসবে, সবই এই শিরোনামের নিচে। সে কারণেই প্রথম গুণটি হলো, তারা অন্য মানুষের সঙ্গে কেমন আচরণ করে।"
           },
           {
             "en": "The first mark is physical: alladhina yamshuna 'alal-ardi hawnan, who walk upon the earth in hawn. The word means gentleness and ease, an unhurried and undemanding way of moving. The commentators are clear that it does not mean an affected slowness or a deliberately humble shuffle; several of the early scholars criticised putting on a show of humility in one's gait. What is described is the absence of swagger, not the performance of piety.",
-            "bn": "প্রথম চিহ্নটি শারীরিক: আল্লাযীনা ইয়ামশূনা 'আলাল আরদি হাওনা — যারা পৃথিবীতে চলে 'হাওন'-এর সঙ্গে। শব্দটির অর্থ কোমলতা ও স্বাচ্ছন্দ্য — তাড়াহুড়াহীন, দাবিহীন এক চলার ধরন। মুফাসসিরগণ স্পষ্ট করে বলেন, এর অর্থ কৃত্রিম মন্থরতা বা ইচ্ছাকৃত বিনয়ী পদক্ষেপ নয়; পূর্ববর্তী কয়েকজন আলিম চলার ভঙ্গিতে বিনয়ের প্রদর্শনীকে সমালোচনা করেছেন। এখানে বর্ণিত হচ্ছে দম্ভের অনুপস্থিতি, ধার্মিকতার অভিনয় নয়।"
+            "bn": "প্রথম চিহ্নটা শরীরের: আল্লাযীনা ইয়ামশূনা 'আলাল আরদি হাওনা, যারা পৃথিবীতে চলে 'হাওন'-এর সঙ্গে। শব্দটির অর্থ কোমলতা আর সহজতা: ধীরস্থির, কারও ওপর চাপ না দেওয়া এক চলন। মুফাসসিররা পরিষ্কার বলেন, এর মানে বানোয়াট ধীরগতি বা ইচ্ছে করে বিনয়ী ভঙ্গিতে পা টেনে হাঁটা নয়। পূর্বসূরি কয়েকজন আলিম হাঁটার ভঙ্গিতে বিনয় দেখানোর সমালোচনা করেছেন। এখানে যা বলা হচ্ছে তা হলো চালচলনে অহংকার না থাকা, পরহেজগারির অভিনয় নয়।"
           }
         ]
       },
@@ -1341,11 +1341,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half addresses provocation: wa idha khatabahumul-jahiluna qalu salama. When the jahilun address them, they say salam. Jahl in Quranic usage is not primarily a lack of information. It is the recklessness, arrogance and hot temper that the pre-Islamic period was named for. The jahil here is not someone who does not know a fact; he is someone behaving badly on purpose.",
-            "bn": "দ্বিতীয় অংশটি উসকানির প্রসঙ্গে: ওয়া ইযা খাতাবাহুমুল জাহিলূনা কালূ সালামা। জাহিলরা যখন তাদের সম্বোধন করে, তারা বলে 'সালাম'। কুরআনি ব্যবহারে 'জাহল' মূলত তথ্যের অভাব বোঝায় না। এটি বোঝায় সেই বেপরোয়া মনোভাব, অহংকার ও উগ্র মেজাজ, যার নামেই জাহিলিয়াতের যুগের নামকরণ। এখানে 'জাহিল' সেই ব্যক্তি নয় যে কোনো তথ্য জানে না; বরং সে-ই, যে জেনেবুঝে খারাপ আচরণ করছে।"
+            "bn": "আয়াতের দ্বিতীয় অংশ উসকানি নিয়ে: ওয়া ইযা খাতাবাহুমুল জাহিলূনা কালূ সালামা। জাহিলরা যখন তাদের সঙ্গে কথা বলতে আসে, তারা বলে 'সালাম'। কুরআনের ভাষায় 'জাহল' মূলত তথ্য না জানা নয়। জাহল হলো সেই বেপরোয়া ভাব, অহংকার আর উগ্র মেজাজ, যার নামেই ইসলাম-পূর্ব যুগের নাম জাহিলিয়াত। এখানে জাহিল মানে এমন কেউ নয় যে কোনো তথ্য জানে না; সে এমন লোক, যে জেনেবুঝে খারাপ আচরণ করছে।"
           },
           {
             "en": "The response, qalu salama, is read by the commentators in more than one way, and the readings agree in substance. Some take it as the greeting of peace; the majority explain it as words free of harm and sin, a reply that closes the exchange without returning the insult. It is not surrender and not agreement. It is a refusal to hand over control of one's own speech to whoever happens to be shouting.",
-            "bn": "'কালূ সালামা' — এই জবাবটিকে মুফাসসিরগণ একাধিকভাবে পড়েন, আর পাঠগুলো মূল অর্থে একমত। কেউ একে নেন শান্তির অভিবাদন হিসেবে; অধিকাংশ ব্যাখ্যা করেন ক্ষতি ও পাপমুক্ত কথা হিসেবে — এমন উত্তর, যা অপমান ফিরিয়ে না দিয়েই কথোপকথনটি শেষ করে দেয়। এটি আত্মসমর্পণও নয়, সম্মতিও নয়। এটি হলো নিজের কথার নিয়ন্ত্রণ যে-কেউ চিৎকার করছে তার হাতে তুলে দিতে অস্বীকার করা।"
+            "bn": "'কালূ সালামা' জবাবটি মুফাসসিররা একাধিকভাবে বুঝেছেন, তবে মূল কথায় সবাই একমত। কেউ বলেন, এটি শান্তির সালাম। বেশির ভাগের ব্যাখ্যা, এ এমন কথা যাতে কাউকে কষ্ট দেওয়া নেই, গুনাহও নেই: এমন জবাব, যা অপমান ফিরিয়ে না দিয়েই কথা শেষ করে দেয়। এটা হার মানা নয়, সায় দেওয়াও নয়। এটা হলো, যে চিৎকার করছে, তার হাতে নিজের মুখের লাগাম তুলে না দেওয়া।"
           }
         ]
       },
@@ -1357,7 +1357,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Furqan is Makkan, and much of it records the taunting the Prophet ﷺ endured. In 25:41-42 the deniers are quoted asking whether this is the one Allah sent as a messenger, and claiming he almost turned them away from their gods. That is the atmosphere in which this description of the servants of the Most Merciful arrives, near the end of the surah, as the answer to everything the mockers have been saying.",
-            "bn": "সূরা আল-ফুরকান মক্কী, আর এর বড় অংশজুড়ে লিপিবদ্ধ আছে নবী ﷺ যে বিদ্রূপ সহ্য করেছেন তার বিবরণ। 25:41-42-এ অস্বীকারকারীদের কথা উদ্ধৃত হয়েছে — এ-ই কি সে, যাকে আল্লাহ রাসূল করে পাঠিয়েছেন? আর তারা দাবি করে, সে প্রায় তাদের দেবতাদের থেকে সরিয়েই দিচ্ছিল। এই আবহেই সূরার শেষভাগে এসে পৌঁছায় রহমানের বান্দাদের এই বর্ণনা — বিদ্রূপকারীরা এতদিন যা বলে আসছিল, তার জবাব হিসেবে।"
+            "bn": "সূরা আল-ফুরকান মক্কী সূরা। এর বড় একটা অংশে আছে নবী ﷺ-কে যে ঠাট্টা-বিদ্রূপ সইতে হয়েছিল, তার বিবরণ। ২৫:৪১-৪২-এ অস্বীকারকারীদের কথা তুলে ধরা হয়েছে: এ-ই কি সেই লোক, যাকে আল্লাহ রাসূল করে পাঠিয়েছেন? তারা আরও দাবি করে, সে তো তাদের দেবতাদের থেকে তাদের প্রায় সরিয়েই দিচ্ছিল। এমন পরিবেশেই, সূরার শেষ দিকে, আসে রহমানের বান্দাদের এই বর্ণনা: বিদ্রূপকারীরা এতদিন যা বলে আসছে, তার সবকিছুর জবাব হিসেবে।"
           },
           {
             "en": "The list that follows interleaves character and worship rather than separating them. After this verse come those who pass the night in prostration and standing, those who fear the Fire, those who spend without extravagance or miserliness, and those who keep clear of shirk, murder and unlawful intimacy. The passage closes at 25:74 with their supplication for righteous families, and then with the reward promised for their patience.",
@@ -1373,11 +1373,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Prophet ﷺ embodied this before it was described. Anas ibn Malik (RA) reported, as recorded in al-Bukhari and Muslim, that he served him for years and was never rebuked with even a word of complaint about what he did or failed to do. Aishah (RA) is reported in the same collections to have said that he never struck anything with his hand, nor a woman, nor a servant, except when fighting in the path of Allah.",
-            "bn": "নবী ﷺ এই গুণটি বর্ণিত হওয়ার আগেই তা জীবনে ধারণ করেছিলেন। আনাস ইবনে মালিক (রাঃ) থেকে বুখারী ও মুসলিমে বর্ণিত আছে যে তিনি বছরের পর বছর তাঁর খিদমত করেছেন, অথচ তিনি যা করেছেন বা করেননি তার জন্য কখনো একটি অনুযোগের কথাও শোনেননি। আয়িশা (রাঃ) থেকে একই সংকলনে বর্ণিত আছে, তিনি আল্লাহর পথে যুদ্ধ ছাড়া কখনো নিজ হাতে কোনো কিছুতে আঘাত করেননি — কোনো নারীকে নয়, কোনো খাদিমকেও নয়।"
+            "bn": "এই গুণের বর্ণনা আসার আগেই নবী ﷺ তা জীবনে দেখিয়ে গেছেন। বুখারী ও মুসলিমে আনাস ইবনে মালিক (রাঃ) বলেন, তিনি বহু বছর নবীজির খিদমত করেছেন। কোনো কাজ করার জন্য বা না করার জন্য একটা অনুযোগের কথাও তাঁকে কখনো শুনতে হয়নি। একই সংকলনে আয়িশা (রাঃ) বলেন, আল্লাহর পথে যুদ্ধ ছাড়া নবীজি কখনো নিজ হাতে কোনো কিছুকে আঘাত করেননি: না কোনো নারীকে, না কোনো খাদিমকে।"
           },
           {
             "en": "The restraint this verse praises is defined in the sunnah as power, not passivity. Al-Bukhari and Muslim record the Prophet ﷺ saying that the strong man is not the one who overcomes others in wrestling, but the one who controls himself when angry. Read alongside 25:63, that hadith settles the question of whether answering with peace is weakness: it names it as the harder feat of the two.",
-            "bn": "এই আয়াত যে সংযমের প্রশংসা করে, সুন্নাহতে তাকে নিষ্ক্রিয়তা নয়, শক্তি হিসেবেই সংজ্ঞায়িত করা হয়েছে। বুখারী ও মুসলিমে বর্ণিত আছে, নবী ﷺ বলেছেন — শক্তিশালী সে নয় যে কুস্তিতে অন্যকে হারায়, বরং সে-ই, যে রাগের সময় নিজেকে নিয়ন্ত্রণ করে। 25:63-এর পাশে রেখে পড়লে এই হাদীস মীমাংসা করে দেয় যে শান্তির কথা দিয়ে উত্তর দেওয়া দুর্বলতা কি না: এটি একে দুইয়ের মধ্যে কঠিনতর কীর্তি বলেই চিহ্নিত করে।"
+            "bn": "এই আয়াত যে সংযমের প্রশংসা করে, সুন্নাহ তাকে নিষ্ক্রিয়তা নয়, শক্তি বলেই চিনিয়ে দেয়। বুখারী ও মুসলিমে আছে, নবী ﷺ বলেছেন: কুস্তিতে যে অন্যকে হারায় সে শক্তিশালী নয়; শক্তিশালী সে-ই, যে রাগের সময় নিজেকে সামলাতে পারে। ২৫:৬৩-এর পাশে রেখে পড়লে এই হাদিস প্রশ্নটার মীমাংসা করে দেয়, শান্তির কথায় জবাব দেওয়া দুর্বলতা কি না। হাদিসটি বলছে, দুটোর মধ্যে এটাই বেশি কঠিন কাজ।"
           }
         ]
       },
@@ -1389,11 +1389,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is worth being precise about the limits. Answering with salam is about personal insult and pointless quarrel, not about staying quiet when someone is being wronged. The Quran commands standing up for justice even against oneself in 4:135, and the same servants described here are not passive people; the verses after this one show them praying at night and spending their wealth. Gentleness is a manner, not a policy of withdrawal.",
-            "bn": "সীমারেখা নিয়ে নির্ভুল হওয়া দরকার। 'সালাম' বলে উত্তর দেওয়ার কথাটি ব্যক্তিগত অপমান ও অর্থহীন ঝগড়া সম্পর্কে; কারও প্রতি অন্যায় হলে চুপ করে থাকা সম্পর্কে নয়। কুরআন 4:135-এ নিজের বিরুদ্ধে হলেও ন্যায়ের পক্ষে দাঁড়ানোর আদেশ দেয়; আর এখানে বর্ণিত বান্দারাও নিষ্ক্রিয় মানুষ নন — পরের আয়াতগুলো দেখায় তাঁরা রাতে নামায পড়েন ও সম্পদ ব্যয় করেন। কোমলতা একটি আচরণের ধরন, পিছিয়ে থাকার নীতি নয়।"
+            "bn": "এর সীমাটা ঠিকঠাক বুঝে নেওয়া দরকার। 'সালাম' বলে জবাব দেওয়ার কথা ব্যক্তিগত অপমান আর অর্থহীন ঝগড়ার বেলায়; কারও ওপর অন্যায় হতে দেখে চুপ থাকার বেলায় নয়। ৪:১৩৫-এ কুরআন আদেশ দেয়, নিজের বিরুদ্ধে গেলেও ইনসাফের পক্ষে দাঁড়াতে হবে। আর এখানে যে বান্দাদের কথা বলা হচ্ছে, তাঁরাও হাত গুটিয়ে বসে থাকা মানুষ নন। পরের আয়াতগুলোতেই দেখা যায়, তাঁরা রাতে নামাজ পড়েন, নিজেদের সম্পদ খরচ করেন। কোমলতা হলো আচরণের ধরন, সরে থাকার নীতি নয়।"
           },
           {
             "en": "There is also a difference between a soft answer and a silent grudge. The verse describes something said, salaman, which means the exchange is closed out loud and then left. Carrying the argument internally for days while presenting a calm face is not what is being praised, and the servants described here are elsewhere in the surah shown asking Allah directly for what troubles them rather than storing it.",
-            "bn": "নরম উত্তর আর নীরব বিদ্বেষের মধ্যেও পার্থক্য আছে। আয়াতটি বর্ণনা করে এমন কিছু, যা বলা হয় — 'সালামা'; অর্থাৎ কথোপকথনটি প্রকাশ্যে শেষ করে দিয়ে সেখানেই ছেড়ে দেওয়া হয়। বাইরে শান্ত মুখ রেখে দিনের পর দিন ভেতরে তর্কটি বয়ে বেড়ানো এখানে প্রশংসিত হচ্ছে না; আর এখানে বর্ণিত বান্দাদের সূরার অন্যত্র দেখা যায় নিজেদের কষ্টের কথা জমিয়ে না রেখে সরাসরি আল্লাহর কাছেই বলতে।"
+            "bn": "নরম জবাব আর মনে মনে পুষে রাখা ক্ষোভ এক জিনিস নয়। আয়াত এমন কিছুর কথা বলে, যা মুখে বলা হয়: 'সালামা'। মানে কথাটা প্রকাশ্যে শেষ করে দিয়ে সেখানেই ছেড়ে আসা। বাইরে শান্ত মুখ রেখে দিনের পর দিন ভেতরে তর্কটা বয়ে বেড়ানোর প্রশংসা এখানে করা হচ্ছে না। আর এই বান্দাদেরই সূরার অন্য জায়গায় দেখা যায়, যা তাদের কষ্ট দেয় তা মনে জমিয়ে না রেখে সরাসরি আল্লাহর কাছে চাইছে।"
           }
         ]
       },
@@ -1405,11 +1405,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The modern equivalent of being addressed by the jahilun is mostly typed. A reply box invites the exact response the verse rules out, and it does so at a moment when nobody is watching to hold you steady. The practical form of salaman online is often no reply at all, or one sentence that ends the thread. Both are harder than they look and both leave the day intact.",
-            "bn": "আজকের দিনে 'জাহিলদের' সম্বোধনের সমতুল্য ঘটনা বেশিরভাগই টাইপ করা। একটি রিপ্লাই বক্স ঠিক সেই উত্তরটিই আহ্বান করে যা আয়াত নিষেধ করে, আর তা করে এমন এক মুহূর্তে যখন আপনাকে স্থির রাখার মতো কেউ তাকিয়ে নেই। অনলাইনে 'সালামা'-র ব্যবহারিক রূপ প্রায়ই কোনো উত্তর না দেওয়া, কিংবা এমন একটি বাক্য যা আলোচনাটি শেষ করে দেয়। দুটোই দেখতে যতটা সহজ ততটা নয়, আর দুটোই দিনটিকে অক্ষত রাখে।"
+            "bn": "আজকাল জাহিলরা সামনে এসে কথা বলে কমই; বেশির ভাগ সময় তারা টাইপ করে। রিপ্লাই বক্স ঠিক সেই জবাবটাই লিখতে ডাকে, যা আয়াত নিষেধ করে। আর ডাকে এমন সময়ে, যখন আপনাকে সামলে রাখার মতো কেউ তাকিয়ে নেই। অনলাইনে 'সালামা'-র বাস্তব রূপ প্রায়ই হলো কোনো জবাবই না দেওয়া, কিংবা এমন এক বাক্য লেখা, যা আলোচনাটা শেষ করে দেয়। দুটোই দেখতে যত সহজ, আসলে তত সহজ নয়। আর দুটোই আপনার দিনটাকে অক্ষত রাখে।"
           },
           {
             "en": "The first half of the verse is tested elsewhere: in traffic, in queues, in how a person speaks to staff who cannot answer back, in whether a title or salary changes the tone of voice. Walking gently on the earth is a small daily discipline with no audience. Taken together the two halves describe someone whose behaviour does not depend on who is in front of them, which is close to the whole of good character.",
-            "bn": "আয়াতের প্রথম অংশটির পরীক্ষা হয় অন্যত্র: রাস্তার যানজটে, লাইনে দাঁড়িয়ে, যেসব কর্মীর পাল্টা জবাব দেওয়ার সুযোগ নেই তাদের সঙ্গে কথা বলার ধরনে, আর পদমর্যাদা বা বেতন কণ্ঠস্বর বদলে দেয় কি না তাতে। মাটিতে নম্রভাবে চলা এমন এক ছোট দৈনন্দিন শৃঙ্খলা, যার কোনো দর্শক নেই। দুই অংশ একসঙ্গে এমন একজনকে বর্ণনা করে, যার আচরণ সামনে কে আছে তার ওপর নির্ভর করে না — আর এটিই প্রায় গোটা উত্তম চরিত্র।"
+            "bn": "আয়াতের প্রথম অংশটির পরীক্ষা হয় অন্যত্র: রাস্তার যানজটে, লাইনে দাঁড়িয়ে, যেসব কর্মী পাল্টা জবাব দিতে পারে না তাদের সঙ্গে কথা বলার ধরনে, আর পদ বা বেতন গলার সুর বদলে দেয় কি না তাতে। মাটিতে নম্রভাবে চলা রোজকার এক ছোট্ট অনুশীলন, যার কোনো দর্শক নেই। দুই অংশ মিলিয়ে ছবিটা এমন একজন মানুষের, সামনে কে আছে তা দেখে যার আচরণ বদলায় না। উত্তম চরিত্রের প্রায় পুরোটাই এর মধ্যে।"
           }
         ]
       }
@@ -1425,11 +1425,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The portrait of the servants of the Most Merciful begins at 25:63 with how they behave where they can be observed: they walk upon the earth with humility, and when the ignorant address them they answer with peace. This verse turns the camera around. The very next thing said about them is what they do at night, indoors, with no audience at all. The order is itself the argument. Public gentleness is claimed by a great many people; the Quran immediately asks what such a person is like when nobody is watching.",
-            "bn": "পরম দয়াময়ের বান্দাদের প্রতিকৃতি শুরু হয় 25:63 আয়াতে — তারা যেখানে দৃশ্যমান, সেখানে কেমন আচরণ করে তা দিয়ে: তারা যমীনে নম্রভাবে চলে, আর অজ্ঞ লোকেরা তাদের সম্বোধন করলে তারা 'শান্তি' বলে উত্তর দেয়। আলোচ্য আয়াতটি ক্যামেরা ঘুরিয়ে দেয়। তাদের সম্পর্কে ঠিক পরের কথাটিই হলো তারা রাতে, ঘরের ভেতরে, কোনো দর্শক ছাড়া কী করে। এই ক্রমটিই যুক্তি। প্রকাশ্য নম্রতার দাবি বহু মানুষই করে; কুরআন সঙ্গে সঙ্গেই জিজ্ঞেস করে — কেউ যখন দেখছে না, তখন সেই মানুষটি কেমন?"
+            "bn": "পরম দয়াময়ের বান্দাদের ছবি শুরু হয় ২৫:৬৩ আয়াতে, মানুষের চোখের সামনে তারা কেমন আচরণ করে তা দিয়ে: তারা জমিনে নম্রভাবে চলে, আর অজ্ঞ লোকেরা কথা বলতে এলে 'সালাম' বলে জবাব দেয়। এই আয়াত ক্যামেরাটা ঘুরিয়ে দেয়। তাদের সম্পর্কে ঠিক পরের কথাটাই হলো, রাতে ঘরের ভেতরে, কেউ যখন দেখছে না, তখন তারা কী করে। এই ক্রমটাই আসল যুক্তি। লোকের সামনে নম্র হওয়ার দাবি অনেকেই করে; কুরআন সঙ্গে সঙ্গেই জিজ্ঞেস করে: কেউ না দেখলে সেই মানুষটা কেমন?"
           },
           {
             "en": "The verse is five words in Arabic — wa'lladhina yabituna li-rabbihim sujjadan wa qiyaman — and it does not describe a feeling. It describes a time, a direction and two postures. Both postures are given in the plural, so the picture is of a group scattered across a sleeping town rather than of one solitary ascetic. Nothing in it is impressive to look at, which is precisely the point: it belongs to a list of marks by which a community is recognised, and this particular mark is invisible to the community itself.",
-            "bn": "আয়াতটি আরবিতে পাঁচটি শব্দের — ওয়াল্লাযীনা ইয়াবীতূনা লিরাব্বিহিম সুজ্জাদাঁও ওয়া ক্বিয়ামা — আর এটি কোনো অনুভূতির বর্ণনা দেয় না। এটি বর্ণনা করে একটি সময়, একটি লক্ষ্য এবং দুটি ভঙ্গি। দুটি ভঙ্গিই বহুবচনে এসেছে, তাই ছবিটি একজন নিঃসঙ্গ সাধকের নয়, বরং ঘুমন্ত এক জনপদে ছড়িয়ে থাকা একটি দলের। এর কোনো কিছুই দেখতে চমকপ্রদ নয়, আর সেটাই মূল কথা: এটি এমন এক তালিকার অংশ যা দিয়ে একটি সমাজকে চেনা যায়, অথচ এই বিশেষ চিহ্নটি খোদ সেই সমাজের চোখেই অদৃশ্য।"
+            "bn": "আরবিতে আয়াতটি মাত্র পাঁচ শব্দের: ওয়াল্লাযীনা ইয়াবীতূনা লিরাব্বিহিম সুজ্জাদাঁও ওয়া ক্বিয়ামা। এতে কোনো অনুভূতির কথা নেই। আছে একটা সময়, একটা দিক আর দুটি ভঙ্গি। দুটি ভঙ্গিই বহুবচনে, তাই ছবিটা কোনো নিঃসঙ্গ সাধকের নয়; ঘুমন্ত এক জনপদের নানা ঘরে ছড়িয়ে থাকা একদল মানুষের। দেখার মতো চমকপ্রদ কিছুই এতে নেই, আর আসল কথাটা সেখানেই। এটি এমন এক তালিকার অংশ, যার চিহ্নগুলো দিয়ে একটি সমাজকে চেনা যায়; অথচ এই বিশেষ চিহ্নটা সেই সমাজের নিজের চোখেই পড়ে না।"
           }
         ]
       },
@@ -1453,7 +1453,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In prayer a person stands and then prostrates, yet the verse says prostrating and standing, in that order. Part of the reason is audible: the verses around it close on the same long open sound — hawnan and salaman in 25:63, qiyaman here, gharaman in 25:65 — and the order that fits the rhyme is the order the verse takes. Part of it is emphasis. Muslim relates from Abu Hurayrah (RA) that the closest a servant is to his Lord is while he is prostrating, so he should make much supplication there.",
-            "bn": "নামাযে মানুষ আগে দাঁড়ায়, তারপর সিজদা করে; অথচ আয়াতটি বলে সিজদাবনত ও দণ্ডায়মান — এই ক্রমে। এর একটি কারণ কানে ধরা পড়ে: আশপাশের আয়াতগুলো একই দীর্ঘ খোলা ধ্বনিতে শেষ হয় — 25:63 আয়াতে হাওনা ও সালামা, এখানে ক্বিয়ামা, আর 25:65 আয়াতে গারামা — এবং ছন্দের সঙ্গে যে ক্রমটি মেলে আয়াত সেই ক্রমটিই নেয়। আরেকটি কারণ গুরুত্ব দেওয়া। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, বান্দা তার প্রতিপালকের সবচেয়ে নিকটবর্তী হয় সিজদারত অবস্থায়, তাই সেখানে বেশি বেশি দু'আ করা উচিত।"
+            "bn": "নামাজে মানুষ আগে দাঁড়ায়, তারপর সিজদা করে। অথচ আয়াত বলে আগে সিজদা, পরে দাঁড়ানো। এর একটা কারণ কানেই ধরা পড়ে: আশপাশের আয়াতগুলো শেষ হয় একই লম্বা খোলা ধ্বনিতে। ২৫:৬৩-এ হাওনা আর সালামা, এখানে ক্বিয়ামা, আর ২৫:৬৫-এ গারামা। ছন্দে যে ক্রম মেলে, আয়াত সেই ক্রমই নিয়েছে। আরেকটা কারণ জোর দেওয়া। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: বান্দা তার রবের সবচেয়ে কাছে থাকে সিজদার অবস্থায়, তাই সেখানে বেশি বেশি দোয়া করা উচিত।"
           }
         ]
       },
@@ -1465,7 +1465,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The phrase li-rabbihim, for their Lord, sits before both postures rather than after them, so the night is dedicated before it is described. That small preposition is what separates this verse from a description of insomnia or of self-discipline. Night worship also happens to be structurally protected from display: there is no congregation to notice it, nobody to tell, and by morning the only witness is the One it was done for. Sincerity here is not a virtue the worshipper has to manufacture; the hour supplies it.",
-            "bn": "'লিরাব্বিহিম' — তাদের প্রতিপালকের উদ্দেশে — কথাটি দুটি ভঙ্গির পরে নয়, আগে বসেছে; ফলে রাতটিকে বর্ণনা করার আগেই তা উৎসর্গ করা হয়ে যায়। এই ছোট্ট অব্যয়টিই এই আয়াতকে অনিদ্রা বা আত্মশৃঙ্খলার বর্ণনা থেকে আলাদা করে। আর রাতের ইবাদত গঠনগতভাবেই লোকদেখানো থেকে সুরক্ষিত: দেখার মতো কোনো জামাত নেই, বলার মতো কেউ নেই, আর ভোর হলে একমাত্র সাক্ষী থাকেন তিনিই, যাঁর জন্য এটি করা হয়েছে। এখানে ইখলাস এমন কোনো গুণ নয় যা ইবাদতকারীকে বানিয়ে নিতে হয়; সময়টিই তা জোগায়।"
+            "bn": "'লিরাব্বিহিম', তাদের রবের উদ্দেশে: কথাটা দুটি ভঙ্গির পরে নয়, আগে বসেছে। ফলে রাতটার বর্ণনা আসার আগেই তা উৎসর্গ হয়ে যায়। এই ছোট্ট অব্যয়টুকুই আয়াতটাকে অনিদ্রা বা আত্মশৃঙ্খলার বর্ণনা থেকে আলাদা করে দেয়। তা ছাড়া রাতের ইবাদতের ধরনটাই এমন যে তাতে লোক দেখানোর সুযোগ থাকে না। দেখার মতো কোনো জামাত নেই, বলার মতো কেউ নেই, আর সকাল হলে সাক্ষী থাকেন কেবল তিনি, যাঁর জন্য ইবাদতটা করা। এখানে ইখলাস এমন কোনো গুণ নয়, যা ইবাদতকারীকে কষ্ট করে তৈরি করতে হয়; সময়টাই তা জুগিয়ে দেয়।"
           }
         ]
       },
@@ -1477,7 +1477,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran describes this group more than once, and always in similar terms. 32:16 says their sides part from their beds, that they call upon their Lord in fear and aspiration, and that they spend from what He has provided them. 51:17-18 says they used to sleep but little of the night and would seek forgiveness in the hours before dawn, and 3:17 names those who seek forgiveness before dawn among the qualities of the righteous. To the Prophet ﷺ himself the instruction came in 17:79 with a promise of a praised station attached to it.",
-            "bn": "কুরআন এই দলটির বর্ণনা একাধিকবার দিয়েছে, আর প্রতিবারই কাছাকাছি ভাষায়। 32:16 আয়াতে বলা হয়, তাদের পাঁজর বিছানা থেকে আলাদা হয়ে যায়, তারা ভয় ও আশা নিয়ে তাদের প্রতিপালককে ডাকে, আর তিনি যা দিয়েছেন তা থেকে ব্যয় করে। 51:17-18 আয়াতে বলা হয়, তারা রাতের সামান্য অংশই ঘুমাত এবং শেষ রাতে ক্ষমা প্রার্থনা করত; আর 3:17 আয়াতে শেষ রাতে ক্ষমাপ্রার্থীদের নাম আসে নেককারদের গুণাবলির মধ্যে। খোদ নবী ﷺ-কে এই নির্দেশ দেওয়া হয় 17:79 আয়াতে, সঙ্গে যুক্ত ছিল প্রশংসিত মাকামের প্রতিশ্রুতি।"
+            "bn": "কুরআন এই দলটির কথা একাধিকবার বলেছে, আর প্রতিবারই প্রায় একই ভাষায়। ৩২:১৬ বলে, তাদের পাঁজর বিছানা থেকে আলাদা হয়ে যায়; তারা ভয় আর আশা নিয়ে তাদের রবকে ডাকে, আর তিনি যা দিয়েছেন তা থেকে খরচ করে। ৫১:১৭-১৮ বলে, তারা রাতে অল্পই ঘুমাত, আর শেষ রাতে ইস্তিগফার করত। ৩:১৭ শেষ রাতে ইস্তিগফারকারীদের নেককারদের গুণের তালিকায় রেখেছে। আর খোদ নবী ﷺ-কে এই নির্দেশ দেওয়া হয় ১৭:৭৯-এ, সঙ্গে ছিল প্রশংসিত মাকামের প্রতিশ্রুতি।"
           }
         ]
       },
@@ -1489,7 +1489,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Practically, the verse asks for something smaller than it sounds. The Quran's own concession in 73:20 sets the standard low enough to be kept; what this verse asks is that some part of the night be given rather than none of it. Muslim relates from Aisha (RA) that the deeds most beloved to Allah are the most constant of them, even if they are few. Two units before dawn, kept for a year, do more of what this verse describes than one long night that is never repeated.",
-            "bn": "ব্যবহারিকভাবে আয়াতটি শুনতে যতটা বড় মনে হয়, চায় তার চেয়ে ছোট কিছু। 73:20 আয়াতে কুরআনের নিজের দেওয়া ছাড় মানটিকে এতটাই নাগালের মধ্যে নামিয়ে আনে যে তা ধরে রাখা যায়; এই আয়াত যা চায় তা হলো রাতের কোনো একটি অংশ দেওয়া হোক — একেবারে কিছুই না দেওয়ার বদলে। মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটিই যা সবচেয়ে নিয়মিত, তা পরিমাণে কম হলেও। ফজরের আগে দুই রাকআত, এক বছর ধরে ধরে রাখা — এই আয়াত যা বর্ণনা করে তার বেশি ঘটে সেখানেই, একটি দীর্ঘ রাতের চেয়ে যা আর কখনো ফিরে আসে না।"
+            "bn": "বাস্তবে আয়াতটি যতটা বড় শোনায়, আসলে চায় তার চেয়ে কম। ৭৩:২০-এ কুরআন নিজেই ছাড় দিয়ে মানটা এতটা নামিয়ে এনেছে যে তা ধরে রাখা যায়। এই আয়াত চায়, রাতের অন্তত কিছুটা অংশ দেওয়া হোক, একেবারে কিছু না দেওয়ার বদলে। মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেন: আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটাই, যা সবচেয়ে নিয়মিত, পরিমাণে কম হলেও। এক বছর ধরে নিয়মিত পড়া ফজরের আগের দুই রাকআত এই আয়াতের ছবির যতটা কাছে যায়, একটিমাত্র লম্বা রাত, যা আর কখনো ফিরে আসে না, ততটা যায় না।"
           }
         ]
       }
@@ -1505,11 +1505,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is an exception clause, and the sentence it excepts from is severe. From 25:63 the surah describes the servants of the Most Merciful, and at 25:68 the portrait turns negative: they do not invoke another god with Allah, do not kill the soul Allah has made inviolable except by right, and do not commit zina. Whoever does these meets a penalty, doubled punishment on the Day of Resurrection and abiding disgrace. Then comes the turn: except those who repent, believe and do righteous work.",
-            "bn": "আয়াতটি একটি ব্যতিক্রম-বাক্য, আর যে রায় থেকে এটি ব্যতিক্রম টানে তা কঠোর। 25:63 থেকে সূরাটি পরম করুণাময়ের বান্দাদের বর্ণনা দেয়, আর 25:68 আয়াতে ছবিটি নেতিবাচকে মোড় নেয়: তারা আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডাকে না, আল্লাহ যে প্রাণ হারাম করেছেন তা অন্যায়ভাবে হত্যা করে না, আর যিনা করে না। যে এসব করে সে শাস্তির মুখোমুখি হয় — কিয়ামতের দিন দ্বিগুণ আযাব আর স্থায়ী লাঞ্ছনা। তারপর আসে মোড়টি: তবে যারা তাওবা করে, ঈমান আনে ও সৎকর্ম করে — তারা ছাড়া।"
+            "bn": "আয়াতটি একটি ব্যতিক্রমের কথা বলে, আর যে কথা থেকে এই ব্যতিক্রম, সেটা বড় কঠিন। ২৫:৬৩ থেকে সূরাটি পরম করুণাময়ের বান্দাদের বর্ণনা দিচ্ছে। ২৫:৬৮-এ এসে বর্ণনাটা আসে 'না'-এর ভাষায়: তারা আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডাকে না, আল্লাহ যে প্রাণকে হারাম করেছেন তাকে ন্যায্য কারণ ছাড়া হত্যা করে না, আর যিনা করে না। যে এসব করে, সে শাস্তির মুখোমুখি হবে: কিয়ামতের দিন দ্বিগুণ আযাব, আর চিরস্থায়ী লাঞ্ছনা। তারপরই মোড় ঘোরে: তবে যারা তাওবা করে, ঈমান আনে আর নেক আমল করে, তারা নয়।"
           },
           {
             "en": "For such people, Allah will replace their evil deeds with good deeds, and Allah is ever Forgiving and Merciful. Note which sins stand upstream of this promise: shirk, murder, zina — the three the moral imagination treats as unforgivable. The exception is carved precisely where despair is strongest. If the door stands open after these, the argument runs from the greater to the lesser: it stands open after everything beneath them.",
-            "bn": "এমন মানুষদের জন্য আল্লাহ তাদের মন্দ কাজগুলো ভালো কাজ দিয়ে বদলে দেবেন, আর আল্লাহ পরম ক্ষমাশীল, পরম দয়ালু। লক্ষ করুন, এই প্রতিশ্রুতির উজানে কোন পাপগুলো দাঁড়িয়ে: শিরক, হত্যা, যিনা — নৈতিক কল্পনা যে তিনটিকে ক্ষমার অযোগ্য গণ্য করে। ব্যতিক্রমটি খোদাই করা হয়েছে ঠিক সেখানে, যেখানে নৈরাশ্য সবচেয়ে প্রবল। এসবের পরেও যদি দরজা খোলা থাকে, তবে যুক্তি বড় থেকে ছোটর দিকে নামে: এর নিচের সবকিছুর পরেও তা খোলা।"
+            "bn": "এমন মানুষদের মন্দ কাজগুলো আল্লাহ নেক কাজ দিয়ে বদলে দেবেন; আর আল্লাহ পরম ক্ষমাশীল, পরম দয়ালু। লক্ষ করুন, এই প্রতিশ্রুতির আগে কোন গুনাহগুলোর কথা এসেছে: শিরক, হত্যা, যিনা। মানুষের নৈতিক বোধ এই তিনটিকেই ক্ষমার অযোগ্য মনে করে। ব্যতিক্রমটা রাখা হয়েছে ঠিক সেখানে, যেখানে নিরাশা সবচেয়ে গভীর। এসবের পরেও যদি দরজা খোলা থাকে, তবে বড় থেকে ছোটর দিকে যুক্তি চলে: এর চেয়ে ছোট সব গুনাহের পরেও দরজা খোলা।"
           }
         ]
       },
@@ -1521,31 +1521,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The occasion is preserved with a sound chain. Al-Bukhari narrates from Ibn Abbas (RA) that some people of shirk had killed and had done so much, and committed zina and had done so much, then came to Muhammad ﷺ and said: what you say and call to is good, if only you would tell us that there is an expiation for what we have done. Then this passage came down, together with 39:53 — O My servants who have transgressed against yourselves, do not despair of the mercy of Allah.",
-            "bn": "আয়াতের প্রেক্ষাপট সহীহ সনদে সংরক্ষিত। বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন: শিরকের কিছু মানুষ, যারা হত্যা করেছিল — অনেক করেছিল, আর যিনা করেছিল — তাও অনেক, মুহাম্মাদ ﷺ-এর কাছে এসে বলল: আপনি যা বলেন ও যার দিকে ডাকেন তা উত্তম — যদি শুধু আমাদের জানাতেন যে আমরা যা করেছি তার কোনো কাফফারা আছে। তখন এই অংশটি নাযিল হয়, সঙ্গে 39:53 — হে আমার বান্দারা, যারা নিজেদের ওপর বাড়াবাড়ি করেছ, আল্লাহর রহমত থেকে নিরাশ হয়ো না।"
+            "bn": "আয়াতটি কোন প্রেক্ষাপটে নাজিল হয়েছিল, তা সহিহ সনদে সংরক্ষিত আছে। বুখারী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন: মুশরিকদের কিছু লোক অনেক হত্যা করেছিল, অনেক যিনাও করেছিল। তারা মুহাম্মাদ ﷺ-এর কাছে এসে বলল, আপনি যা বলেন আর যেদিকে ডাকেন তা তো ভালো; শুধু যদি আমাদের জানাতেন, আমরা যা করেছি তার কোনো কাফফারা আছে! তখন এই অংশটি নাজিল হয়, সঙ্গে ৩৯:৫৩: হে আমার বান্দারা, যারা নিজেদের ওপর বাড়াবাড়ি করেছ, আল্লাহর রহমত থেকে নিরাশ হয়ো না।"
           },
           {
             "en": "The question behind the revelation deserves attention. These were not people minimizing their past; they named it worse than anyone else would have, and their only obstacle to entering Islam was arithmetic — could such a ledger ever be settled? The verse answered a real pastoral emergency, and it still addresses exactly that person: the one who believes the message and disbelieves in his own eligibility.",
-            "bn": "নাযিলের পেছনের প্রশ্নটি মনোযোগ দাবি করে। এরা নিজেদের অতীতকে হালকা করে দেখানো লোক ছিল না; অন্য যে-কেউ যতটা বলত, তার চেয়েও কঠোর ভাষায় তারা নিজেরাই তা স্বীকার করেছিল। ইসলামে প্রবেশে তাদের একমাত্র বাধা ছিল পাটিগণিত — এমন খাতা কি কখনো মেটানো সম্ভব? আয়াতটি এক বাস্তব আত্মিক জরুরি অবস্থার উত্তর দিয়েছিল, আর আজও ঠিক সেই মানুষটিকেই সম্বোধন করে: যে বার্তাটি বিশ্বাস করে, কিন্তু নিজের যোগ্যতায় অবিশ্বাস করে।"
+            "bn": "এই নাজিলের পেছনের প্রশ্নটা খেয়াল করার মতো। এরা নিজেদের অতীত হালকা করে দেখানোর লোক ছিল না। অন্য কেউ যতটা কঠিন করে বলত, নিজেরাই তার চেয়ে কঠিন ভাষায় তা স্বীকার করেছিল। ইসলামে আসার পথে তাদের একমাত্র বাধা ছিল হিসাব: এত ভারী খাতার দেনা কি কখনো শোধ হবে? আয়াতটি সত্যিকারের এক দ্বীনি সংকটের জবাব দিয়েছিল, আর আজও ঠিক সেই মানুষটির সঙ্গেই কথা বলে, যে দাওয়াতটা বিশ্বাস করে, কিন্তু বিশ্বাস করতে পারে না যে সে নিজে এর যোগ্য।"
           }
         ]
       },
       {
         "h": {
           "en": "How Sins Become Good Deeds",
-          "bn": "পাপ যেভাবে নেকী হয়ে যায়"
+          "bn": "গুনাহ যেভাবে নেকি হয়ে যায়"
         },
         "p": [
           {
             "en": "What does yubaddilu, He replaces, mean? Ibn Kathir records two positions among the commentators. On the first, the exchange happens in this world and in the person: ugly qualities are swapped for beautiful ones — the shirk for iman, the violence for restraint, the betrayal for chastity. A person's very habits are rebuilt, so the years ahead produce good where the years behind produced harm. On this reading the verse describes the observable transformation of the sincere convert and the sincere penitent.",
-            "bn": "'ইউবাদ্দিলু' — তিনি বদলে দেন — এর অর্থ কী? ইবনে কাসীর মুফাসসিরদের দুটি অবস্থান লিপিবদ্ধ করেন। প্রথম মতে, বিনিময়টি ঘটে এই দুনিয়ায়, মানুষটির ভেতরে: কুৎসিত গুণগুলো সুন্দর গুণে বদলে যায় — শিরকের জায়গায় ঈমান, সহিংসতার জায়গায় সংযম, বিশ্বাসঘাতকতার জায়গায় সতীত্ব। মানুষের অভ্যাসগুলোই নতুন করে গড়া হয়, ফলে সামনের বছরগুলো কল্যাণ ফলায় — যেখানে পেছনের বছরগুলো ফলিয়েছিল ক্ষতি। এই পাঠে আয়াতটি বর্ণনা করে আন্তরিক নওমুসলিম ও আন্তরিক তাওবাকারীর চোখে-দেখা রূপান্তর।"
+            "bn": "'ইউবাদ্দিলু', তিনি বদলে দেন: এর অর্থ কী? ইবনে কাসীর মুফাসসিরদের দুটি মত উল্লেখ করেন। প্রথম মতে, এই বদল ঘটে দুনিয়াতেই, মানুষটির ভেতরে। খারাপ স্বভাবগুলো ভালো স্বভাবে বদলে যায়: শিরকের জায়গায় ঈমান, হিংস্রতার জায়গায় সংযম, বিশ্বাসঘাতকতার জায়গায় সতীত্ব। মানুষের অভ্যাসগুলোই নতুন করে গড়ে ওঠে। পেছনের বছরগুলো যেখানে ক্ষতি ডেকে এনেছিল, সামনের বছরগুলো সেখানে কল্যাণ বয়ে আনে। এই ব্যাখ্যায় আয়াতটি সেই বদলের কথা বলে, যা আন্তরিক নওমুসলিম আর আন্তরিকভাবে তাওবাকারীর জীবনে চোখে দেখা যায়।"
           },
           {
             "en": "On the second position, the replacement touches the record itself on the Day of Judgement. Its support is the narration of Abu Dharr (RA) in Muslim about the last man to leave the Fire: his major sins are concealed, his minor sins are shown to him, and he is told, for every evil deed you have a good deed. The man, seeing the direction of the exchange, says: my Lord, I did things I do not see here. The Prophet ﷺ laughed when relating it until his back teeth showed.",
-            "bn": "দ্বিতীয় অবস্থানে, বদলটি স্পর্শ করে খোদ আমলনামাকে — কিয়ামতের দিন। এর দলিল মুসলিমে আবু যর (রাঃ)-এর বর্ণনা, জাহান্নাম থেকে সর্বশেষ মুক্তি পাওয়া মানুষটি সম্পর্কে: তার বড় গুনাহগুলো আড়াল করা হয়, ছোট গুনাহগুলো তাকে দেখানো হয়, আর বলা হয় — তোমার প্রতিটি মন্দ কাজের বদলে একটি করে নেকী। লেনদেনের গতিমুখ দেখে লোকটি বলে: হে আমার রব, আমি তো এমন সব কাজও করেছি যা এখানে দেখছি না। ঘটনাটি বলতে গিয়ে নবী ﷺ হেসেছিলেন — এমনকি তাঁর মাড়ির দাঁত দেখা গিয়েছিল।"
+            "bn": "দ্বিতীয় মতে, বদলটা ঘটে কিয়ামতের দিন, খোদ আমলনামায়। এর দলিল মুসলিমে বর্ণিত আবু যর (রাঃ)-এর হাদিস, জাহান্নাম থেকে সবার শেষে বের হওয়া মানুষটিকে নিয়ে। তার বড় গুনাহগুলো আড়ালে রাখা হয়, ছোট গুনাহগুলো তাকে দেখানো হয়। তারপর তাকে বলা হয়: তোমার প্রতিটি মন্দ কাজের বদলে একটি করে নেকি। বদল কোন দিকে যাচ্ছে দেখে লোকটি বলে: হে আমার রব, আমি তো আরও অনেক কাজ করেছিলাম, সেগুলো তো এখানে দেখছি না! এ ঘটনা বলতে গিয়ে নবী ﷺ এমন হাসলেন যে তাঁর মাড়ির দাঁত দেখা গেল।"
           },
           {
             "en": "The two readings do not compete so much as cover two moments of the same mercy: character is exchanged here, entries are exchanged there. Both hang on the same three conditions the verse states — tawbah, iman, righteous work — and the verse after it, 25:71, presses the point that whoever repents and acts rightly has turned to Allah with a true turning. Repentance in this passage is not a mood; it is a redirection with deeds attached.",
-            "bn": "পাঠ দুটি পরস্পরের প্রতিদ্বন্দ্বী নয়; বরং একই রহমতের দুটি মুহূর্তকে ঢেকে দেয়: চরিত্র বদলায় এখানে, খাতার এন্ট্রি বদলায় সেখানে। দুটিই ঝুলে আছে আয়াতের বলা একই তিন শর্তে — তাওবা, ঈমান, সৎকর্ম; আর এর পরের আয়াত 25:71 কথাটি চেপে ধরে: যে তাওবা করে ও সৎকাজ করে, সে-ই প্রকৃত প্রত্যাবর্তনে আল্লাহর দিকে ফিরেছে। এই অংশে তাওবা কোনো মনের ভাব নয়; এটি আমল-জোড়া এক অভিমুখ বদল।"
+            "bn": "দুটি ব্যাখ্যা আসলে একে অপরের প্রতিদ্বন্দ্বী নয়; একই রহমতের দুটি মুহূর্তের কথা বলে। দুনিয়ায় বদলায় চরিত্র, আখিরাতে বদলায় আমলনামার লেখা। দুটিই নির্ভর করে আয়াতে বলা একই তিন শর্তের ওপর: তাওবা, ঈমান আর নেক আমল। পরের আয়াত, ২৫:৭১, কথাটায় আরও জোর দেয়: যে তাওবা করে আর নেক আমল করে, সে-ই সত্যিকার অর্থে আল্লাহর দিকে ফিরে আসে। এখানে তাওবা কোনো মনের ভাব নয়; তা হলো জীবনের দিক বদলানো, সঙ্গে আমল।"
           }
         ]
       },
@@ -1557,7 +1557,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes with two names: wa kanallahu Ghafuran Rahima, and Allah is ever Forgiving, Merciful. The verb kana gives the names permanence — He has always been so; forgiveness is not a policy adopted for this case. The same pairing seals 4:110, where whoever does evil or wrongs himself and then seeks Allah's forgiveness will find Allah Forgiving and Merciful. The promise of exchange in 25:70 is thus anchored not in the sinner's merit but in the Forgiver's character.",
-            "bn": "আয়াত শেষ হয় দুটি নামে: 'ওয়া কানাল্লাহু গাফূরার রাহীমা' — আর আল্লাহ চিরকালই ক্ষমাশীল, পরম দয়ালু। 'কানা' ক্রিয়াটি নাম দুটিকে স্থায়িত্ব দেয় — তিনি বরাবরই এমন; ক্ষমা এই মামলার জন্য নেওয়া কোনো নীতি নয়। একই জোড় সিলমোহর দেয় 4:110 আয়াতে: যে মন্দ করে বা নিজের ওপর জুলুম করে, তারপর আল্লাহর কাছে ক্ষমা চায়, সে আল্লাহকে পাবে ক্ষমাশীল, দয়ালু। 25:70 আয়াতের বিনিময়ের প্রতিশ্রুতি তাই নোঙর করা পাপীর যোগ্যতায় নয় — ক্ষমাকারীর চরিত্রে।"
+            "bn": "আয়াত শেষ হয় দুটি নামে: 'ওয়া কানাল্লাহু গাফূরার রাহীমা', আর আল্লাহ চিরকালই ক্ষমাশীল, পরম দয়ালু। 'কানা' ক্রিয়াটি নাম দুটিকে স্থায়ী করে দেয়: তিনি সব সময়ই এমন। ক্ষমা শুধু এই ঘটনার জন্য নেওয়া কোনো নীতি নয়। একই জোড়া নাম দিয়ে শেষ হয় ৪:১১০: যে মন্দ কাজ করে বা নিজের ওপর জুলুম করে, তারপর আল্লাহর কাছে মাফ চায়, সে আল্লাহকে পাবে ক্ষমাশীল, দয়ালু। তাই ২৫:৭০-এর বদলের প্রতিশ্রুতি দাঁড়িয়ে আছে গুনাহগারের যোগ্যতার ওপর নয়, ক্ষমাশীলের স্বভাবের ওপর।"
           }
         ]
       },
@@ -1569,11 +1569,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lived, the verse dismantles the most effective weapon against repentance: the conviction of being a lost cause. That conviction masquerades as humility while functioning as an excuse, since a person certain of rejection sees no point in changing. Against it stands a verse revealed for people whose records held murder and worse, promising not bare acquittal but conversion of the evidence. After that precedent, no private history can honestly claim to be beyond the schedule of mercy.",
-            "bn": "যাপনের স্তরে আয়াতটি তাওবার বিরুদ্ধে সবচেয়ে কার্যকর অস্ত্রটি ভেঙে দেয়: নিজেকে শেষ হয়ে যাওয়া মানুষ ভাবার প্রত্যয়। সেই প্রত্যয় বিনয়ের ছদ্মবেশ ধরে, অথচ কাজ করে অজুহাত হয়ে — কারণ প্রত্যাখ্যান সম্পর্কে নিশ্চিত মানুষ বদলানোর কোনো মানে দেখে না। তার বিপরীতে দাঁড়িয়ে এমন এক আয়াত, যা নাযিল হয়েছিল হত্যা ও তারও বেশি কিছু খাতায় থাকা মানুষদের জন্য — প্রতিশ্রুতি দিয়ে শুধু খালাসের নয়, সাক্ষ্যপ্রমাণেরই রূপান্তরের। এই নজিরের পরে কোনো গোপন অতীত সততার সঙ্গে দাবি করতে পারে না যে সে রহমতের তালিকার বাইরে।"
+            "bn": "জীবনে আয়াতটি তাওবার বিরুদ্ধে সবচেয়ে কার্যকর অস্ত্রটাকেই ভেঙে দেয়: 'আমার আর কোনো আশা নেই', এই বিশ্বাস। এই বিশ্বাস দেখতে বিনয়ের মতো, কিন্তু কাজ করে অজুহাত হিসেবে। কারণ যে নিশ্চিত যে তাকে ফিরিয়ে দেওয়া হবে, সে বদলানোর কোনো মানে খুঁজে পায় না। এর বিপরীতে আছে এমন এক আয়াত, যা নাজিল হয়েছিল এমন মানুষদের জন্য, যাদের খাতায় হত্যা আর তার চেয়েও খারাপ কিছু ছিল। আর প্রতিশ্রুতিটা শুধু খালাসের নয়; খাতার সাক্ষ্যগুলোই বদলে দেওয়ার। এই নজিরের পর কোনো গোপন অতীতই সততার সঙ্গে দাবি করতে পারে না যে সে রহমতের নাগালের বাইরে।"
           },
           {
             "en": "The conditions keep the promise honest work rather than wishful thinking. Repentance means leaving the sin, regretting it, and resolving against return — restoring rights where rights were taken. Belief means the turn is toward Allah, not merely toward self-improvement. Righteous work means the new direction shows up in deeds that can be pointed to. Whoever is engaged in those three is not waiting to find out whether the exchange applies; by the verse's own terms, it already does.",
-            "bn": "শর্তগুলোই প্রতিশ্রুতিটিকে অলীক কল্পনা নয়, সৎ পরিশ্রম করে রাখে। তাওবা মানে পাপ ছেড়ে দেওয়া, তার জন্য অনুতপ্ত হওয়া, আর ফিরে না যাওয়ার সংকল্প — যেখানে কারও হক নেওয়া হয়েছিল, তা ফিরিয়ে দেওয়া। ঈমান মানে ফেরাটা আল্লাহর দিকে, নিছক আত্মোন্নয়নের দিকে নয়। সৎকর্ম মানে নতুন অভিমুখটি এমন কাজে ফুটে ওঠা, যা আঙুল দিয়ে দেখানো যায়। যে এই তিনটিতে লেগে আছে, সে বিনিময়টি তার বেলায় খাটবে কি না তা জানার অপেক্ষায় নেই; আয়াতের নিজের শর্তেই — তা ইতিমধ্যে খাটছে।"
+            "bn": "শর্তগুলোর কারণেই প্রতিশ্রুতিটা অলীক আশা হয়ে থাকে না, হয়ে ওঠে সৎ চেষ্টার বিষয়। তাওবা মানে গুনাহ ছেড়ে দেওয়া, তার জন্য অনুতপ্ত হওয়া, আর আবার সেদিকে না ফেরার সংকল্প করা; কারও হক নষ্ট করে থাকলে তা ফিরিয়ে দেওয়া। ঈমান মানে এই ফেরা আল্লাহর দিকে, নিছক নিজেকে ভালো মানুষ বানানোর দিকে নয়। নেক আমল মানে নতুন পথটা এমন কাজে দেখা দেওয়া, যা আঙুল দিয়ে দেখানো যায়। যে এই তিনটিতে লেগে আছে, তাকে আর অপেক্ষা করতে হয় না বদলটা তার বেলায় খাটবে কি না। আয়াতের নিজের শর্তেই তা এর মধ্যে খাটছে।"
           }
         ]
       }
@@ -1584,12 +1584,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Inside the Portrait",
-          "bn": "প্রতিকৃতির ভেতরে"
+          "bn": "ছবিটির ভেতরে"
         },
         "p": [
           {
             "en": "This verse belongs to the description of the servants of the Most Merciful that opens at 25:63 and runs to 25:76, one verse short of the surah's close. The list moves between worship and character without separating them: gentle walking, nights in prostration, fear of the Fire, balanced spending, no shirk and no bloodshed. This line is the one about speech and about company — what these people will not affirm, and what they will not stand around for. The reward at 25:75 and 25:76 follows their supplication at 25:74 in the passage, so this line belongs among the traits and not among the promises.",
-            "bn": "এই আয়াতটি পরম দয়াময়ের বান্দাদের সেই বর্ণনার অংশ, যা শুরু হয় 25:63 আয়াতে এবং চলে 25:76 আয়াত পর্যন্ত, সূরার শেষ আয়াতের ঠিক আগে পর্যন্ত। তালিকাটি ইবাদত ও চরিত্রের মধ্যে যাতায়াত করে, দুটিকে আলাদা না করেই: নম্র চলাফেরা, সিজদায় কাটানো রাত, জাহান্নামের ভয়, ভারসাম্যপূর্ণ ব্যয়, শিরক নেই ও রক্তপাত নেই। এই লাইনটি কথা ও সঙ্গ সম্পর্কে — এই মানুষগুলো কী সমর্থন করবে না, আর কীসের পাশে দাঁড়িয়ে থাকবে না। অনুচ্ছেদে 25:75 ও 25:76 আয়াতের পুরস্কার আসে 25:74 আয়াতের দোয়ার পরে, ফলে এই লাইনটি প্রতিশ্রুতির দলে নয়, বৈশিষ্ট্যের দলেই পড়ে।"
+            "bn": "এই আয়াতটি পরম দয়াময়ের বান্দাদের সেই বর্ণনার অংশ, যা শুরু হয় ২৫:৬৩-এ আর চলে ২৫:৭৬ পর্যন্ত, সূরার শেষ আয়াতের ঠিক আগ পর্যন্ত। তালিকাটা ইবাদত আর চরিত্রকে আলাদা না করে একটা থেকে আরেকটায় যায়: নম্রভাবে চলা, সিজদায় কাটানো রাত, জাহান্নামের ভয়, মাঝামাঝি খরচ, শিরক নেই, রক্তপাতও নেই। এই আয়াত কথা আর সঙ্গ নিয়ে: এই মানুষগুলো কোন কথায় সায় দেবে না, আর কোথায় গিয়ে দাঁড়িয়ে থাকবে না। অনুচ্ছেদে ২৫:৭৫ ও ২৫:৭৬-এর পুরস্কার আসে ২৫:৭৪-এর দোয়ার পরে। তাই এই আয়াত প্রতিশ্রুতির মধ্যে নয়, গুণাবলির মধ্যেই পড়ে।"
           }
         ]
       },
@@ -1601,11 +1601,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "La yashhaduna az-zur carries two classical readings, because the Arabic verb shahida means both to testify and to be present. Read the first way, they do not give false testimony — shahadat az-zur, the perjury that destroys a court. Read the second way, they are not present at az-zur, meaning they do not attend gatherings of falsehood; the early authorities glossed zur here as idol festivals, as shirk, and as lying speech generally. The commentators carry both readings, and neither one cancels the other.",
-            "bn": "'লা ইয়াশহাদূনায যূর' বাক্যাংশটি দুটি ধ্রুপদী পাঠ বহন করে, কারণ আরবি ক্রিয়া 'শাহিদা'-র অর্থ একই সাথে সাক্ষ্য দেওয়া এবং উপস্থিত থাকা। প্রথমভাবে পড়লে: তারা মিথ্যা সাক্ষ্য দেয় না — শাহাদাতুয যূর, যে মিথ্যা সাক্ষ্য আদালতকে ধ্বংস করে। দ্বিতীয়ভাবে পড়লে: তারা যূর-এর মজলিসে উপস্থিত থাকে না, অর্থাৎ মিথ্যার আসরে যায় না; পূর্ববর্তী মনীষীগণ এখানে 'যূর'-এর ব্যাখ্যা করেছেন মূর্তিপূজার উৎসব, শিরক এবং সাধারণভাবে মিথ্যা কথা হিসেবে। মুফাসসিরগণ দুটি পাঠই বহন করেন, আর একটি অন্যটিকে বাতিল করে দেয় না।"
+            "bn": "'লা ইয়াশহাদূনায যূর' কথাটির দুটি প্রাচীন ব্যাখ্যা আছে, কারণ আরবি ক্রিয়া 'শাহিদা'-র অর্থ সাক্ষ্য দেওয়াও, আবার উপস্থিত থাকাও। প্রথম অর্থে: তারা মিথ্যা সাক্ষ্য দেয় না। এ হলো শাহাদাতুয যূর, যে মিথ্যা সাক্ষ্য আদালতকে ধ্বংস করে দেয়। দ্বিতীয় অর্থে: তারা যূর-এর জায়গায় হাজির থাকে না, মানে মিথ্যার আসরে যায় না। পূর্বসূরি আলিমরা এখানে 'যূর'-এর ব্যাখ্যা করেছেন মূর্তিপূজার উৎসব, শিরক, আর সাধারণভাবে মিথ্যা কথা বলে। মুফাসসিররা দুটি অর্থই রাখেন, একটি অন্যটিকে বাতিল করে না।"
           },
           {
             "en": "The first reading is not a small matter in the sunnah. Al-Bukhari relates from Abu Bakrah (RA) that the Prophet ﷺ asked whether he should inform them of the greatest of the major sins, named associating partners with Allah and disobedience to parents while reclining, and then sat up to warn against false speech, repeating it until those present wished he would stop. A man who will not lie for himself may still lend his name to someone else's lie, and that is what is being closed off.",
-            "bn": "প্রথম পাঠটি সুন্নাহতে মোটেও হালকা বিষয় নয়। ইমাম বুখারী আবু বাকরা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ জিজ্ঞেস করলেন, তিনি কি তাঁদের সবচেয়ে বড় কবীরা গুনাহগুলোর কথা জানাবেন; হেলান দেওয়া অবস্থায় তিনি বললেন আল্লাহর সাথে শরিক করা ও পিতামাতার অবাধ্যতা, তারপর উঠে বসে মিথ্যা কথার ব্যাপারে সতর্ক করতে থাকলেন এবং তা এত বার পুনরাবৃত্তি করলেন যে উপস্থিত সবাই চাইছিলেন তিনি থামুন। যে মানুষ নিজের জন্য মিথ্যা বলবে না, সে-ও অন্যের মিথ্যায় নিজের নাম ধার দিয়ে ফেলতে পারে, আর সেই পথটিই এখানে বন্ধ করা হচ্ছে।"
+            "bn": "সুন্নাহতে প্রথম অর্থটা মোটেই ছোট ব্যাপার নয়। ইমাম বুখারী আবু বাকরা (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ জিজ্ঞেস করলেন, তিনি কি তাঁদের সবচেয়ে বড় কবীরা গুনাহগুলোর কথা জানাবেন? তারপর হেলান দেওয়া অবস্থায় বললেন: আল্লাহর সাথে শরিক করা আর বাবা-মার অবাধ্য হওয়া। এরপর তিনি উঠে বসলেন আর মিথ্যা কথা থেকে সাবধান করলেন। কথাটা এত বার বললেন যে উপস্থিত সবাই মনে মনে চাইছিলেন, তিনি যেন থামেন। যে মানুষ নিজের স্বার্থে মিথ্যা বলবে না, সে-ও অন্যের মিথ্যায় নিজের নাম জুড়ে দিতে পারে। এখানে সেই পথটাই বন্ধ করা হচ্ছে।"
           }
         ]
       },
@@ -1621,7 +1621,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Kiraman is a state describing them, not the laghw: they are the noble ones as they pass. The commentators explain it as going by without joining in and without answering in the same currency. That is a narrow and demanding target — not a lecture, not a scene, and not laughing along either. 23:3 lists turning away from laghw among the traits of the successful, and in 28:55 those who hear it reply that their deeds are their own and the others' are theirs.",
-            "bn": "'কিরামা' শব্দটি তাদেরই অবস্থার বর্ণনা, লাগভের নয়: পাশ কাটানোর সময় তারাই মর্যাদাবান। মুফাসসিরগণ এর ব্যাখ্যা করেন — তাতে শরিক না হয়ে এবং একই ভাষায় জবাব না দিয়ে পাশ কেটে যাওয়া। লক্ষ্যটি সংকীর্ণ ও কঠিন — কোনো বক্তৃতা নয়, কোনো দৃশ্য তৈরি নয়, আবার সাথে হেসে ওঠাও নয়। 23:3 আয়াতে লাগভ থেকে মুখ ফিরিয়ে নেওয়াকে সফলদের বৈশিষ্ট্যের মধ্যে গণনা করা হয়েছে, আর 28:55 আয়াতে যারা তা শোনে তারা জবাব দেয় যে তাদের আমল তাদের, আর অন্যদের আমল অন্যদের।"
+            "bn": "'কিরামা' শব্দটি তাদেরই অবস্থা বোঝায়, লাগভের নয়: পাশ দিয়ে যাওয়ার সময় মর্যাদাবান তারাই। মুফাসসিররা এর ব্যাখ্যা দেন: তাতে যোগ না দিয়ে, আর একই সুরে জবাব না দিয়ে পাশ কেটে চলে যাওয়া। লক্ষ্যটা সরু আর কঠিন: নসিহত শুরু করা নয়, হইচই বাধানো নয়, আবার সবার সঙ্গে হেসে ওঠাও নয়। ২৩:৩ লাগভ থেকে মুখ ফিরিয়ে নেওয়াকে সফলদের গুণের মধ্যে গুনেছে। আর ২৮:৫৫-এ যারা এমন কথা শোনে, তারা জবাব দেয়, তাদের আমল তাদের, অন্যদের আমল অন্যদের।"
           }
         ]
       },
@@ -1633,7 +1633,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Both readings of the first half land in the same place. Whether the sin is swearing to a falsehood or sitting comfortably inside one, what is being refused is the lending of yourself to something untrue. Attendance is a signature of sorts; the room is fuller because you are in it, and the speaker is bolder. That is why this trait is listed among the marks of worship rather than among the rules of etiquette.",
-            "bn": "প্রথম অংশের দুটি পাঠই একই জায়গায় এসে পৌঁছায়। পাপটি মিথ্যার পক্ষে শপথ করা হোক বা মিথ্যার ভেতরে আরাম করে বসে থাকা হোক, যা প্রত্যাখ্যান করা হচ্ছে তা হলো অসত্য কোনো কিছুতে নিজেকে ধার দেওয়া। উপস্থিতিও একরকম স্বাক্ষর; আপনি আছেন বলে ঘরটি আরও ভরা, আর বক্তা আরও সাহসী। এ কারণেই এই বৈশিষ্ট্যটিকে শিষ্টাচারের নিয়মের মধ্যে না রেখে ইবাদতের নিদর্শনগুলোর মধ্যে রাখা হয়েছে।"
+            "bn": "প্রথম অংশের দুটি ব্যাখ্যাই শেষে একই জায়গায় পৌঁছায়। গুনাহটা মিথ্যার পক্ষে কসম খাওয়া হোক, কিংবা মিথ্যার আসরে আরাম করে বসে থাকা, দুই ক্ষেত্রেই যা ফিরিয়ে দেওয়া হচ্ছে তা হলো অসত্যের পাশে নিজেকে দাঁড় করানো। উপস্থিত থাকাটাও একরকম সই করা। আপনি আছেন বলে আসরটা আরেকটু ভরা, আর বক্তা আরেকটু সাহসী। এ কারণেই এই গুণটা আদব-কায়দার নিয়মে নয়, ইবাদতের চিহ্নগুলোর মধ্যে এসেছে।"
           }
         ]
       },
@@ -1649,7 +1649,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The dignity the verse praises is quiet. It does not require the room to know that you disapproved, and it does not require a speech. It requires leaving, closing, or not replying, which is harder than it sounds because it wins nothing visible. What it protects is the description at the head of the passage: these are the servants of the Most Merciful, and this is one of the things by which they are known.",
-            "bn": "আয়াতটি যে মর্যাদার প্রশংসা করে তা নিঃশব্দ। এর জন্য ঘরসুদ্ধ লোকের জানার দরকার নেই যে আপনি অসম্মতি জানিয়েছেন, আর কোনো বক্তৃতারও দরকার নেই। দরকার কেবল উঠে আসা, বন্ধ করে দেওয়া, বা জবাব না দেওয়া — যা শুনতে যত সহজ ততটা নয়, কারণ এতে দৃশ্যমান কিছুই জেতা যায় না। এটি যা রক্ষা করে তা হলো অনুচ্ছেদের শুরুর সেই পরিচয়টি: এরাই পরম দয়াময়ের বান্দা, আর এটিই সেই লক্ষণগুলোর একটি যা দিয়ে তাদের চেনা যায়।"
+            "bn": "আয়াত যে মর্যাদার প্রশংসা করে, তা নিঃশব্দ। আপনি যে অসন্তুষ্ট, ঘরের সবাইকে তা জানানোর দরকার নেই, কোনো বক্তৃতারও দরকার নেই। দরকার শুধু উঠে চলে আসা, বন্ধ করে দেওয়া, কিংবা জবাব না দেওয়া। শুনতে যত সহজ, কাজটা তত সহজ নয়, কারণ এতে চোখে পড়ার মতো কোনো জিত নেই। এর মধ্য দিয়ে রক্ষা পায় অনুচ্ছেদের শুরুর সেই পরিচয়: এরাই পরম দয়াময়ের বান্দা, আর এটা সেই লক্ষণগুলোর একটি, যা দিয়ে তাদের চেনা যায়।"
           }
         ]
       }
