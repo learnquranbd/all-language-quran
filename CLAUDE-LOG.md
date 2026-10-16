@@ -47,7 +47,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - TRAP (zsh): `for s in "20 6"; do set -- $s` does not word-split in zsh; tad-steps.sh then exits on a missing arg. Call tad-steps.sh once per shard, and never run tad-spell.js before the shard's packets are applied (bn.js apply rejects fixes whose Bengali changed since extraction).
 - Shards 39 (v989) + 7 (v990) DONE. Reviewers' own scripts can also break য়: R2 of shard 7 wrote নামাজ়নি for the verb নামায়নি (fixed b02f3b98); always grep 'জ়' after applying. Open EN (7): 7:31 s3.p1 says 7:55 comes "earlier in this surah" (it comes after); 7:116 s6.p0 "the fourth of those" = blowers on knots, third in its own list (works only as 113:4); 7:126 s6.p1 "two additions" names one; 7:195 s6.p1 says Hearing and Knowing are two of the four faculties 7:195 lists (knowing isn't); 7:195 s4.p2 "same four senses" (19:42, 21:66-67 mention at most two); 7:166 s1.p2 root "kh-s-'" fine. Open EN (39): 39:53 s4.p1 "a servant's sins" vs Tirmidhi "O son of Adam".
 - Shards 10 + 14 DONE v991. Open EN (10): 10:5 s0.p0 "Then comes the sun and the moon" (come); 10:32 s3.p2 missing "that" (ambiguous).
-- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 8/8, 6: 8/8, 20: 6/6, 33: 3/3, 39: 4/4, 7: 9/9, 14: 2/2, 10: 5/5, 25: 4/4
+- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 8/8, 6: 8/8, 20: 6/6, 33: 3/3, 39: 4/4, 7: 9/9, 14: 2/2, 10: 5/5, 25: 4/4, 29: 1/4
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows

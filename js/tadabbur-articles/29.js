@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question at the Gate",
-          "bn": "প্রবেশপথে একটি প্রশ্ন"
+          "bn": "দরজাতেই এক প্রশ্ন"
         },
         "p": [
           {
             "en": "Surah al-Ankabut opens with detached letters and then a question: do people reckon that they will be left alone upon saying we believe, and not be tried? The Arabic question here is not a request for information; it is the interrogative of rebuke, dismantling an assumption by voicing it aloud. The assumption named is one every generation remakes in its own way — that declaring faith is the finish line, when the Quran presents it as the starting point.",
-            "bn": "সূরা আল-আনকাবুত শুরু হয় বিচ্ছিন্ন হরফ দিয়ে, তারপর একটি প্রশ্ন: মানুষ কি মনে করে, 'আমরা ঈমান এনেছি' বললেই তাদের ছেড়ে দেওয়া হবে, আর পরীক্ষা করা হবে না? এখানকার আরবি প্রশ্নটি তথ্য চাওয়ার প্রশ্ন নয়; এটি ভর্ৎসনাসূচক জিজ্ঞাসা, যা একটি ধারণাকে সরবে উচ্চারণ করেই ভেঙে দেয়। যে ধারণার নাম নেওয়া হলো তা প্রতিটি প্রজন্ম নিজের মতো করে নতুন করে বানায় — ঈমানের ঘোষণাই বুঝি শেষ সীমা; অথচ কুরআন একে উপস্থাপন করে যাত্রাবিন্দু হিসেবে।"
+            "bn": "সূরা আল-আনকাবুত শুরু হয় বিচ্ছিন্ন হরফ দিয়ে, তারপরই একটি প্রশ্ন: মানুষ কি ভেবেছে, 'আমরা ঈমান এনেছি' বললেই তাদের ছেড়ে দেওয়া হবে, পরীক্ষা করা হবে না? আরবিতে এ প্রশ্ন কিছু জানতে চাওয়ার জন্য নয়। এ হলো ধমকের প্রশ্ন: একটা ভুল ধারণাকে মুখে উচ্চারণ করেই তা ভেঙে দেওয়া। প্রতিটি প্রজন্ম এই ধারণা নিজের মতো করে আবার গড়ে নেয়: ঈমানের ঘোষণা দিলেই বুঝি দৌড় শেষ। অথচ কুরআনের চোখে ঘোষণাটা কেবল শুরু।"
           },
           {
             "en": "Most commentators place these opening verses amid the persecution of Makkah, when saying we believe could cost a person safety, livelihood, and family peace. The early believers heard this question while some of them were being tortured for the very claim the question quotes. The verses did not promise them relief first; they reframed the pain: what you are undergoing is not evidence of abandonment, but the examination that the claim itself invites.",
-            "bn": "অধিকাংশ মুফাসসির এই সূচনা-আয়াতগুলোকে মক্কার নিপীড়নের প্রেক্ষাপটে রাখেন — যখন 'আমরা ঈমান এনেছি' বলার মূল্য হতে পারত নিরাপত্তা, জীবিকা ও পরিবারের শান্তি। প্রথম যুগের মুমিনরা এই প্রশ্ন শুনেছিলেন এমন সময়ে, যখন তাদের কেউ কেউ প্রশ্নে উদ্ধৃত সেই দাবিটির জন্যই নির্যাতিত হচ্ছিলেন। আয়াতগুলো তাদের আগে স্বস্তির প্রতিশ্রুতি দেয়নি; দিয়েছে ব্যথাটিকে নতুন কাঠামো: তোমরা যার ভেতর দিয়ে যাচ্ছ তা পরিত্যক্ত হওয়ার প্রমাণ নয়, বরং সেই পরীক্ষা, যে পরীক্ষাকে দাবিটি নিজেই ডেকে আনে।"
+            "bn": "অধিকাংশ মুফাসসির বলেন, শুরুর এই আয়াতগুলো মক্কার নির্যাতনের সময়কার, যখন 'আমরা ঈমান এনেছি' বলার দাম দিতে হতে পারত নিরাপত্তা, রুজি আর পরিবারের শান্তি দিয়ে। প্রথম যুগের মুমিনরা যখন এ প্রশ্ন শুনছিলেন, তাঁদের কেউ কেউ তখন ঠিক এই দাবির জন্যই নির্যাতন সইছিলেন, যে দাবির কথা প্রশ্নে এসেছে। আয়াতগুলো তাঁদের আগে স্বস্তির কথা দেয়নি; দিয়েছে কষ্টটাকে দেখার নতুন চোখ: তোমরা যা সইছ, তা তোমাদের ছেড়ে দেওয়ার প্রমাণ নয়; এ সেই পরীক্ষা, যা ঈমানের দাবি নিজেই ডেকে আনে।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb is la yuftanun, they will not be tried, from the root of fitnah. The scholars of language record its origin in the smelting of gold: fatana adh-dhahab is to put the ore into fire so that the pure metal separates from the dross. The Quranic word for trial is therefore not primarily about pain; it is about disclosure. Fire does not make the gold or the dross — it makes visible which is which.",
-            "bn": "ক্রিয়াপদটি লা ইউফতানূন — তাদের পরীক্ষা করা হবে না — ফিতনা মূল থেকে। ভাষার আলিমগণ এর উৎস লিপিবদ্ধ করেছেন সোনা গলানোর কাজে: ফাতানায-যাহাব মানে আকরিককে আগুনে ফেলা, যাতে খাঁটি ধাতু খাদ থেকে আলাদা হয়ে যায়। কাজেই পরীক্ষার কুরআনী শব্দটি মূলত ব্যথার কথা নয়; প্রকাশের কথা। আগুন সোনাও বানায় না, খাদও বানায় না — কেবল দৃশ্যমান করে দেয় কোনটি কী।"
+            "bn": "ক্রিয়াটি হলো লা ইউফতানূন, অর্থাৎ তাদের পরীক্ষা করা হবে না। শব্দটি এসেছে ফিতনার মূল থেকে। ভাষার আলিমরা লিখে গেছেন, শব্দটির জন্ম সোনা গলানো থেকে: ফাতানায-যাহাব মানে আকরিক আগুনে দেওয়া, যাতে খাঁটি সোনা খাদ থেকে আলাদা হয়ে যায়। তাই কুরআনে পরীক্ষার শব্দটির মূল কথা কষ্ট নয়, প্রকাশ। আগুন সোনাও বানায় না, খাদও বানায় না; শুধু দেখিয়ে দেয় কোনটা কী।"
           },
           {
             "en": "That origin controls how the question should be read. The trial does not manufacture believers and liars; it reveals the ones already there — to themselves before anyone else. A claim of faith costs one sentence. Its truth is a property that only resistance can display: the pull of fear, loss, ridicule, or ease. The verse is less a threat than a definition. Untested belief is simply belief whose quality no one, including its owner, yet knows.",
-            "bn": "এই উৎসই নির্ধারণ করে প্রশ্নটি কীভাবে পড়তে হবে। পরীক্ষা মুমিন ও মিথ্যাবাদী তৈরি করে না; যারা আগে থেকেই আছে তাদের প্রকাশ করে দেয় — সবার আগে তাদের নিজেদের কাছেই। ঈমানের দাবির খরচ একটি মাত্র বাক্য। কিন্তু তার সত্যতা এমন এক গুণ, যা কেবল প্রতিরোধের মুখেই ধরা পড়ে: ভয়ের টান, ক্ষতির টান, উপহাসের টান, কিংবা আরামের টান। আয়াতটি হুমকির চেয়ে বেশি একটি সংজ্ঞা। অপরীক্ষিত ঈমান মানে কেবল এমন ঈমান, যার মান এখনো কেউ জানে না — এমনকি তার মালিকও না।"
+            "bn": "শব্দের এই মূল থেকেই বোঝা যায় প্রশ্নটা কীভাবে পড়তে হবে। পরীক্ষা মুমিন বা মিথ্যাবাদী বানায় না; যে আগে থেকেই যা, তাকে খুলে দেখায়, আর সবার আগে দেখায় তার নিজের কাছেই। ঈমানের দাবি করতে লাগে একটা বাক্য। কিন্তু দাবিটা সত্য কি না, তা ধরা পড়ে কেবল বাধার মুখে, যখন ভয়, ক্ষতি, ঠাট্টা কিংবা আরাম পেছন থেকে টানে। আয়াতটি যতটা হুমকি, তার চেয়ে বেশি সংজ্ঞা। যে ঈমানের পরীক্ষা হয়নি, তা এমন ঈমান, যার মান এখনো কেউ জানে না, যার ঈমান সে নিজেও না।"
           }
         ]
       },
@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "29:3 grounds the rule in history — and We certainly tried those who were before them. 2:214 makes the same point in fuller color: do you reckon you will enter the Garden while there has not yet come to you the like of what came to those who passed before you, touched by hardship and adversity and shaken until the messenger and those who believed with him said, when is the help of Allah? The road has always run through the fire.",
-            "bn": "29:3 আয়াত নিয়মটিকে ইতিহাসে প্রোথিত করে — আর আমি অবশ্যই তাদের পূর্ববর্তীদের পরীক্ষা করেছি। 2:214 আয়াত একই কথা আরও পূর্ণ রঙে বলে: তোমরা কি মনে করো জান্নাতে ঢুকে পড়বে, অথচ তোমাদের আগে যারা গত হয়েছে তাদের মতো অবস্থা এখনো তোমাদের ওপর আসেনি — দুঃখ-দারিদ্র্য ও কষ্ট তাদের স্পর্শ করেছিল, আর তারা এমনভাবে প্রকম্পিত হয়েছিল যে রাসূল ও তাঁর সঙ্গী মুমিনরা বলে উঠেছিলেন, আল্লাহর সাহায্য কবে? পথটি বরাবরই আগুনের ভেতর দিয়ে গেছে।"
+            "bn": "২৯:৩ আয়াত নিয়মটিকে ইতিহাসের ওপর দাঁড় করায়: আর আমি তো তাদের আগের লোকদেরও পরীক্ষা করেছি। ২:২১৪ আয়াত একই কথা আরও পূর্ণ ছবিতে বলে: তোমরা কি ভেবেছ জান্নাতে ঢুকে যাবে, অথচ তোমাদের আগে যারা গত হয়েছে তাদের মতো অবস্থা এখনো তোমাদের ওপর আসেনি? অভাব আর দুঃখ-কষ্ট তাদের ছুঁয়েছিল, তারা এমনভাবে কেঁপে উঠেছিল যে রাসূল ও তাঁর সঙ্গী মুমিনরা বলে উঠেছিলেন, আল্লাহর সাহায্য কবে? এ পথ বরাবরই আগুনের ভেতর দিয়ে গেছে।"
           },
           {
             "en": "Al-Bukhari relates from Khabbab ibn al-Aratt (RA) that he complained to the Prophet ﷺ, who was reclining in the shade of the Ka'bah, and asked him to pray for help. The answer recounted the believers before: a man would be placed in a pit and sawn in two, or raked with iron combs down to bone and sinew, and none of it turned him from his religion — then came the promise that this affair would be completed, but you are hasty.",
-            "bn": "আল-বুখারী খাব্বাব ইবনুল আরাত্ত (রাঃ) থেকে বর্ণনা করেন, তিনি কা'বার ছায়ায় হেলান দিয়ে থাকা নবী ﷺ-এর কাছে অভিযোগ জানিয়ে সাহায্যের দু'আ চাইলেন। উত্তরে এল আগের মুমিনদের বিবরণ: কাউকে গর্তে রেখে করাত দিয়ে দুই টুকরো করা হতো, কাউকে লোহার চিরুনি দিয়ে আঁচড়ে হাড় ও পেশি পর্যন্ত ছাড়িয়ে ফেলা হতো — তবু এর কোনো কিছুই তাকে তার দ্বীন থেকে ফেরাতে পারত না। তারপর এল প্রতিশ্রুতি: এই দ্বীন পূর্ণতায় পৌঁছাবেই — কিন্তু তোমরা তাড়াহুড়ো করছ।"
+            "bn": "আল-বুখারী বর্ণনা করেছেন, খাব্বাব ইবনুল আরাত্ত (রাঃ) একবার নবী ﷺ-এর কাছে কষ্টের কথা জানিয়ে সাহায্যের জন্য দু'আ চাইলেন। তিনি তখন কা'বার ছায়ায় হেলান দিয়ে বসে ছিলেন। জবাবে তিনি আগের মুমিনদের কথা শোনালেন: কাউকে গর্তে রেখে করাত দিয়ে চিরে দুই টুকরো করা হতো, কারও গায়ে লোহার চিরুনি চালিয়ে হাড় আর রগ পর্যন্ত মাংস ছাড়িয়ে নেওয়া হতো, তবু এর কোনো কিছুই তাকে তার দ্বীন থেকে ফেরাতে পারত না। তারপর এল প্রতিশ্রুতি: এই দ্বীন অবশ্যই পূর্ণতা পাবে, কিন্তু তোমরা তাড়াহুড়ো করছ।"
           }
         ]
       },
@@ -69,27 +69,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The stated purpose reads strangely at first: that Allah may surely know those who were truthful, and surely know the liars. Allah's knowledge is eternal and complete — what can a test add? The mufassirun answer that this is knowledge of occurrence. Ibn Kathir explains it as knowledge of the thing actually done, upon which reward and punishment are justly based. The trial moves sincerity from the realm of what would have been into the realm of what was — witnessed, and recordable.",
-            "bn": "ঘোষিত উদ্দেশ্যটি প্রথমে অদ্ভুত শোনায়: যেন আল্লাহ অবশ্যই জেনে নেন কারা সত্যবাদী, আর অবশ্যই জেনে নেন মিথ্যাবাদীদের। আল্লাহর জ্ঞান তো চিরন্তন ও পূর্ণাঙ্গ — পরীক্ষা তাতে কী যোগ করবে? মুফাসসিরগণ উত্তর দেন: এটি সংঘটনের জ্ঞান। ইবনে কাসীর ব্যাখ্যা করেন, এ হলো প্রকৃতপক্ষে সম্পাদিত কাজের জ্ঞান, যার ভিত্তিতেই পুরস্কার ও শাস্তি ন্যায্যভাবে প্রতিষ্ঠিত হয়। পরীক্ষা আন্তরিকতাকে 'যা হতে পারত'-এর জগৎ থেকে সরিয়ে আনে 'যা হয়েছে'-এর জগতে — প্রত্যক্ষিত ও নথিযোগ্য।"
+            "bn": "আয়াতে বলা উদ্দেশ্যটি প্রথমে একটু অদ্ভুত শোনায়: যাতে আল্লাহ অবশ্যই জেনে নেন কারা সত্যবাদী, আর অবশ্যই জেনে নেন কারা মিথ্যাবাদী। আল্লাহর জ্ঞান তো চিরন্তন ও পূর্ণ; পরীক্ষা তাতে নতুন কী যোগ করবে? মুফাসসিররা জবাব দেন: এ হলো ঘটে যাওয়ার জ্ঞান। ইবনে কাসীর বুঝিয়েছেন, এ হলো বাস্তবে করা কাজের জ্ঞান, যার ভিত্তিতে ন্যায়ের সঙ্গে প্রতিদান ও শাস্তি দেওয়া হয়। পরীক্ষা আন্তরিকতাকে 'হলে হতে পারত' থেকে নিয়ে আসে 'সত্যিই হয়েছে'-তে, যা চোখে দেখা যায়, লিখে রাখা যায়।"
           },
           {
             "en": "The verse's two objects deserve notice: the truthful and the liars, those who were sincere and those whose claim their conduct denied. Truthfulness here is not accuracy of speech but fidelity of person — the match between the words we believe and the behavior under pressure. Its opposite in this verse is not doubt but lying: a profession contradicted by a life. The test, then, is not an obstacle on the path of faith; in this surah it is the instrument that tells the two apart.",
-            "bn": "আয়াতের দুটি কর্মপদ লক্ষ করার মতো: সত্যবাদীরা ও মিথ্যাবাদীরা — যারা আন্তরিক ছিল, আর যাদের দাবিকে তাদের আচরণই অস্বীকার করেছে। এখানে সত্যবাদিতা মানে কথার নির্ভুলতা নয়, ব্যক্তির বিশ্বস্ততা — 'আমরা ঈমান এনেছি' কথাটির সঙ্গে চাপের মুখের আচরণের মিল। এ আয়াতে এর বিপরীত শব্দ সংশয় নয়, মিথ্যা: এমন ঘোষণা, যাকে জীবনটাই খণ্ডন করে। তাহলে পরীক্ষা ঈমানের পথের কোনো প্রতিবন্ধক নয়; এই সূরায় এটিই সেই যন্ত্র, যা দুই দলকে আলাদা করে চেনায়।"
+            "bn": "আয়াতে আল্লাহ যাদের জানার কথা বলেছেন, সেই দুই দল লক্ষ করার মতো: সত্যবাদী আর মিথ্যাবাদী। প্রথম দল আন্তরিক ছিল; দ্বিতীয় দলের দাবিকে তাদের আচরণই মিথ্যা প্রমাণ করেছে। এখানে সত্যবাদিতা মানে শুধু ঠিক কথা বলা নয়, মানুষটা নিজেই খাঁটি থাকা, অর্থাৎ 'আমরা ঈমান এনেছি' কথার সঙ্গে চাপের মুখের আচরণ মিলে যাওয়া। এ আয়াতে এর উল্টো সংশয় নয়, মিথ্যা: মুখে এক ঘোষণা, অথচ জীবন বলে আরেক কথা। তাই পরীক্ষা ঈমানের পথে কোনো বাধা নয়; এই সূরায় পরীক্ষাই সেই উপায়, যা দুই দলকে আলাদা করে চিনিয়ে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Graded by Trial",
-          "bn": "পরীক্ষা দিয়ে স্তর নির্ণয়"
+          "bn": "মর্যাদা যত, পরীক্ষা তত"
         },
         "p": [
           {
             "en": "At-Tirmidhi relates from Sa'd ibn Abi Waqqas (RA) — in a report he graded hasan sahih — that the Prophet ﷺ was asked which people are tried most severely, and answered: the prophets, then the next best and the next best; a man is tried according to his religion, and if there is firmness in his religion, his trial is made heavier. Trial in this teaching tracks rank, not wrath. The heaviest examinations were reserved for the best of creation.",
-            "bn": "আত-তিরমিযী সা'দ ইবনে আবী ওয়াক্কাস (রাঃ) থেকে বর্ণনা করেন — যে বর্ণনাকে তিনি নিজে হাসান সহীহ বলেছেন — নবী ﷺ-কে জিজ্ঞেস করা হয়েছিল, কোন মানুষদের পরীক্ষা সবচেয়ে কঠিন হয়; তিনি উত্তর দেন: নবীগণ, তারপর যারা তাদের সবচেয়ে কাছাকাছি, তারপর তাদের কাছাকাছি; মানুষকে পরীক্ষা করা হয় তার দ্বীন অনুযায়ী — দ্বীনে দৃঢ়তা থাকলে তার পরীক্ষা ভারী করা হয়। এই শিক্ষায় পরীক্ষা মর্যাদার অনুগামী, ক্রোধের নয়। সবচেয়ে ভারী পরীক্ষাগুলো তোলা ছিল সৃষ্টির সেরা মানুষদের জন্যই।"
+            "bn": "আত-তিরমিযী সা'দ ইবনে আবী ওয়াক্কাস (রাঃ) থেকে একটি হাদিস বর্ণনা করেছেন এবং নিজেই একে হাসান সহীহ বলেছেন। নবী ﷺ-কে জিজ্ঞেস করা হলো, কোন মানুষের পরীক্ষা সবচেয়ে কঠিন হয়? তিনি বললেন: নবীদের, তারপর যারা তাঁদের পরে উত্তম, তারপর যারা তাদের পরে উত্তম। মানুষকে পরীক্ষা করা হয় তার দ্বীন অনুযায়ী; দ্বীনে মজবুতি থাকলে তার পরীক্ষাও ভারী হয়। এই শিক্ষায় পরীক্ষা চলে মর্যাদার সঙ্গে তাল মিলিয়ে, আল্লাহর রাগের সঙ্গে নয়। সবচেয়ে কঠিন পরীক্ষাগুলো রাখা ছিল সৃষ্টির সেরা মানুষদের জন্যই।"
           },
           {
             "en": "Within the same surah, 29:10 describes the person who gets this wrong: when harmed in the cause of Allah, he treats the persecution of people as if it were the punishment of Allah, and gives way. Misreading a test as a rejection is itself a way of failing it. The believer's protection is the frame these verses build in advance: the test was expected, its purpose known, and the company of the tested — prophets and the truthful — remembered.",
-            "bn": "একই সূরার ভেতরে 29:10 আয়াত সেই ব্যক্তির বিবরণ দেয়, যে এই হিসাবে ভুল করে: আল্লাহর পথে কষ্ট পেলে সে মানুষের নিপীড়নকে আল্লাহর শাস্তির মতো গণ্য করে এবং হাল ছেড়ে দেয়। পরীক্ষাকে প্রত্যাখ্যান বলে ভুল পড়াটাই পরীক্ষায় হারার একটি রূপ। মুমিনের সুরক্ষা হলো সেই কাঠামো, যা এই আয়াতগুলো আগেই গড়ে দেয়: পরীক্ষা প্রত্যাশিত ছিল, তার উদ্দেশ্য জানা ছিল, আর পরীক্ষিতদের সঙ্গ — নবীগণ ও সত্যবাদীরা — স্মরণে ছিল।"
+            "bn": "এই সূরারই ২৯:১০ আয়াতে আছে সেই মানুষের কথা, যে এখানেই ভুল করে: আল্লাহর পথে কষ্ট পেলে সে মানুষের দেওয়া নির্যাতনকে আল্লাহর শাস্তি মনে করে, আর হাল ছেড়ে দেয়। পরীক্ষাকে প্রত্যাখ্যান ভেবে বসাটাই পরীক্ষায় ফেল করার একটা ধরন। মুমিনকে রক্ষা করে সেই বোঝাপড়া, যা এই আয়াতগুলো আগেভাগেই গড়ে দেয়। পরীক্ষা আসবে বলে জানা ছিল, কেন আসবে তাও জানা ছিল, আর মনে ছিল, নবীরা ও সত্যবাদীরাও এই পরীক্ষার পথেই হেঁটেছেন।"
           }
         ]
       },
@@ -101,11 +101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah that opens by promising trials closes in 29:69 by promising guidance: those who strive in Us — We will surely guide them to Our paths, and indeed Allah is with the doers of good. The two ends belong together. The test at the gate is not the surah's last word about hardship; effort inside the trial becomes the very thing that draws further guidance. What begins as an examination is completed as a companionship.",
-            "bn": "যে সূরা পরীক্ষার প্রতিশ্রুতি দিয়ে শুরু হয়, তা শেষ হয় 29:69 আয়াতে হিদায়াতের প্রতিশ্রুতি দিয়ে: যারা আমার পথে সংগ্রাম করে — আমি অবশ্যই তাদের আমার পথগুলোতে পরিচালিত করব, আর নিশ্চয়ই আল্লাহ সৎকর্মশীলদের সঙ্গে আছেন। দুই প্রান্ত একসঙ্গেই বসে। প্রবেশপথের পরীক্ষা কষ্ট বিষয়ে সূরার শেষ কথা নয়; পরীক্ষার ভেতরের প্রচেষ্টাই হয়ে ওঠে আরও হিদায়াত টেনে আনার উপায়। যা শুরু হয় পরীক্ষা হিসেবে, তা সম্পূর্ণ হয় সাহচর্য হিসেবে।"
+            "bn": "যে সূরা শুরু হয় পরীক্ষার কথা দিয়ে, তা শেষ হয় ২৯:৬৯ আয়াতে হিদায়াতের প্রতিশ্রুতি দিয়ে: যারা আমার পথে প্রাণপণ চেষ্টা করে, আমি অবশ্যই তাদের আমার পথগুলো দেখিয়ে দেব; আর নিশ্চয়ই আল্লাহ সৎকর্মশীলদের সঙ্গে আছেন। শুরু আর শেষ একসঙ্গেই পড়তে হয়। দরজার এই পরীক্ষা কষ্ট নিয়ে সূরার শেষ কথা নয়; পরীক্ষার ভেতরে করা চেষ্টাই আরও হিদায়াত টেনে আনে। যা শুরু হয় পরীক্ষা হিসেবে, তা পূর্ণ হয় আল্লাহর সঙ্গ পাওয়ায়।"
           },
           {
             "en": "Lived plainly, this passage changes what a believer expects and how he interprets. Expect tests, so that their arrival confirms the Book rather than shaking it. Interpret pressure as the assaying named in 29:2 rather than as abandonment. And answer the only question actually being asked — not whether you can avoid the fire of testing, but what the fire finds when it reaches you. Sincerity is not claimed there; it is shown.",
-            "bn": "সাদামাটাভাবে যাপন করলে এই অংশটি বদলে দেয় মুমিন কী প্রত্যাশা করে এবং কীভাবে ব্যাখ্যা করে। পরীক্ষা প্রত্যাশা করো — তাহলে তার আগমন কিতাবকে নাড়িয়ে না দিয়ে বরং সত্যায়িত করবে। চাপকে ব্যাখ্যা করো 29:2 আয়াতে নাম করা সেই যাচাই হিসেবে, পরিত্যাগ হিসেবে নয়। আর উত্তর দাও আসলে যে একটিমাত্র প্রশ্ন করা হচ্ছে তার — পরীক্ষার আগুন এড়াতে পারবে কি না তা নয়, বরং আগুন তোমার কাছে পৌঁছে কী খুঁজে পায়। আন্তরিকতা সেখানে দাবি করা হয় না; দেখানো হয়।"
+            "bn": "জীবনে সোজাভাবে মেনে চললে এই আয়াতগুলো বদলে দেয় মুমিন কী আশা করে আর যা ঘটে তা কীভাবে বোঝে। পরীক্ষার জন্য তৈরি থাকুন, তাহলে পরীক্ষা এলে কিতাবের ওপর আস্থা নড়বে না, বরং কিতাবের কথাই সত্য প্রমাণিত হবে। চাপ এলে তাকে ২৯:২ আয়াতে বলা সেই যাচাই হিসেবে দেখুন, আল্লাহ ছেড়ে দিয়েছেন বলে নয়। আর জবাব দিন সেই একটিমাত্র প্রশ্নের, যা আসলে করা হচ্ছে। প্রশ্নটা এ নয় যে পরীক্ষার আগুন এড়াতে পারবেন কি না; প্রশ্ন হলো, আগুন আপনার কাছে পৌঁছে কী খুঁজে পায়। আন্তরিকতা সেখানে দাবি করার জিনিস নয়, দেখানোর জিনিস।"
           }
         ]
       }
@@ -125,35 +125,35 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the verse turns on a single word: wa-in, but if. But if they strive to make you associate with Me something you have no knowledge of, do not obey them. Ibn Kathir marks the contrast himself, placing the one refusal alongside the standing charge of mercy and kindness toward them, offered in return for their earlier kindness. Nothing in the first half is revoked. The verse does not replace goodness with distance. It fences off a single act and leaves everything else where it stood.",
-            "bn": "তারপর আয়াত ঘুরে যায় একটিমাত্র শব্দে: ওয়া ইন, কিন্তু যদি। কিন্তু যদি তারা তোমাকে এমন কিছু আমার সঙ্গে শরিক করাতে চাপ দেয় যার কোনো জ্ঞান তোমার নেই, তবে তাদের কথা মেনো না। ইবন কাসীর নিজেই বৈপরীত্যটা দেখিয়ে দেন। তাঁদের আগের দয়ার বদলে তাঁদের প্রতি দয়া ও সদ্ব্যবহারের স্থায়ী নির্দেশের পাশেই রাখা হয়েছে এই একটিমাত্র অস্বীকার। প্রথমার্ধের কিছুই বাতিল হয়নি। আয়াত সদ্ব্যবহারের জায়গায় দূরত্ব বসায় না। শুধু একটি কাজকে ঘিরে বেড়া দেয়, বাকি সব যেখানে ছিল সেখানেই থাকে।"
+            "bn": "তারপর আয়াত মোড় নেয় একটিমাত্র শব্দে: ওয়া ইন, কিন্তু যদি। কিন্তু যদি তারা তোমাকে এমন কিছু আমার সঙ্গে শরিক করাতে চাপ দেয় যার কোনো জ্ঞান তোমার নেই, তবে তাদের কথা মেনো না। ইবন কাসীর নিজেই বৈপরীত্যটা দেখিয়ে দেন। এই একটিমাত্র 'না'-কে তিনি রাখেন তাঁদের প্রতি দয়া ও সদ্ব্যবহারের স্থায়ী নির্দেশের পাশেই, যে দয়া তাঁদের আগের দয়ার প্রতিদান। প্রথম অংশের কিছুই বাতিল হয়নি। আয়াত সদ্ব্যবহারের জায়গায় দূরত্ব বসায় না। শুধু একটি কাজের চারপাশে বেড়া দেয়, বাকি সব যেখানে ছিল সেখানেই থাকে।"
           }
         ]
       },
       {
         "h": {
           "en": "What Husn Names",
-          "bn": "হুসন যা চায়"
+          "bn": "হুসন মানে কী"
         },
         "p": [
           {
             "en": "The word carried is husn, plain goodness. Ma'arif al-Qur'an, citing Mazhari, explains wasiyyah as calling someone to an action out of counsel and genuine well-wishing, not mere instruction. Husn, it adds, is an infinitive, to be good, so the sense is to adopt good conduct toward them. At-Tabari and al-Qurtubi spend lines on the grammar, noting that the Basran scholars read the accusative as though the sentence ran we enjoined him goodness. The point beneath the grammar is scope: not a single gesture, but a settled way of treating them.",
-            "bn": "যে শব্দটা বহন করা হয়েছে তা হলো হুসন, সোজা কথায় ভালো আচরণ। মাআরিফুল কুরআন, মাযহারীর বরাতে, ওয়াসিয়্যাহর অর্থ করে এভাবে: পরামর্শ আর আন্তরিক কল্যাণকামনা থেকে কাউকে কোনো কাজের দিকে ডাকা, নিছক হুকুম নয়। হুসন একটি ক্রিয়ামূল, মানে ভালো হওয়া, তাই কথাটার অর্থ দাঁড়ায় তাঁদের সঙ্গে ভালো চালচলন গ্রহণ করা। তাবারী আর কুরতুবী ব্যাকরণ নিয়ে কয়েক লাইন খরচ করেন, বলেন বসরার আলেমরা এ কর্মপদটিকে এমনভাবে পড়েন যেন বাক্যটা ছিল আমি তাকে ভালো আচরণের নির্দেশ দিলাম। ব্যাকরণের নিচের আসল কথাটা হলো পরিধি। একটি অঙ্গভঙ্গি নয়, বরং তাঁদের সঙ্গে আচরণের একটা স্থায়ী ধরন।"
+            "bn": "এখানে যে শব্দটি এসেছে তা হুসন, সোজা কথায় ভালো আচরণ। মাআরিফুল কুরআন মাযহারীর বরাতে বলে, ওয়াসিয়্যাহ নিছক হুকুম নয়; এর মানে উপদেশ আর আন্তরিক কল্যাণকামনা থেকে কাউকে কোনো কাজের দিকে ডাকা। সেখানে আরও আছে, হুসন একটি ক্রিয়ামূল, মানে ভালো হওয়া; তাই অর্থ দাঁড়ায়, তাঁদের সঙ্গে ভালো আচরণকে নিজের পথ বানিয়ে নেওয়া। তাবারী আর কুরতুবী ব্যাকরণ নিয়ে কয়েক লাইন লিখেছেন। তাঁরা জানান, বসরার আলেমরা শব্দটির এই রূপকে এমনভাবে পড়েন, যেন বাক্যটা ছিল: আমি তাকে ভালো আচরণের নির্দেশ দিলাম। ব্যাকরণের আড়ালে আসল কথা হলো পরিধি। একবারের কোনো ভালো কাজ নয়, বরং তাঁদের সঙ্গে আচরণের একটা স্থায়ী ধরন।"
           },
           {
             "en": "As-Sa'di fills in what that way looks like. Husn, he says, is birr and ihsan, dutiful care and active good, in both word and deed, and the charge is to keep it up and never slip into 'uquq, the undutifulness that wounds a parent by speech or act. Al-Muyassar reads it the same way: be good to them in word and in deed. So the goodness commanded is not a feeling held privately. It is spoken and done, and it is meant to last rather than to appear once and lapse.",
-            "bn": "সেই ধরনটা দেখতে কেমন, তা সা'দী খুলে বলেন। হুসন মানে বির ও ইহসান, দায়িত্বশীল যত্ন আর সক্রিয় কল্যাণ, কথায় ও কাজে উভয়ভাবে। নির্দেশ হলো তা ধরে রাখা, আর কখনো উকুকে পা না বাড়ানো, অর্থাৎ কথায় বা কাজে পিতা-মাতাকে কষ্ট দেওয়া সেই নাফরমানিতে। মুয়াসসারও একইভাবে পড়েন: কথায় ও কাজে তাঁদের সঙ্গে ভালো ব্যবহার করো। তাই যে সদ্ব্যবহারের হুকুম দেওয়া হলো তা মনের ভেতরে লুকানো কোনো অনুভূতি নয়। তা মুখে বলা হয় আর হাতে করা হয়, আর তা টিকে থাকার জন্য, একবার দেখা দিয়ে মিলিয়ে যাওয়ার জন্য নয়।"
+            "bn": "সেই ধরনটা দেখতে কেমন, সা'দী তা খুলে বলেন। হুসন মানে বির ও ইহসান: দায়িত্ব নিয়ে যত্ন করা আর নিজে এগিয়ে ভালো করা, কথায় ও কাজে দুইভাবেই। নির্দেশ হলো এটা সবসময় ধরে রাখা, আর কখনো উকুকে না জড়ানো। উকুক মানে সেই নাফরমানি, যা কথায় বা কাজে পিতা-মাতার মনে আঘাত দেয়। মুয়াসসারও একইভাবে পড়েন: কথায় ও কাজে তাঁদের সঙ্গে ভালো ব্যবহার করো। তাই যে সদ্ব্যবহারের হুকুম এসেছে, তা মনের ভেতরে লুকিয়ে রাখা কোনো অনুভূতি নয়। তা মুখে বলা হয়, হাতে করা হয়, আর তা টিকে থাকার জন্য; একবার দেখা দিয়ে মিলিয়ে যাওয়ার জন্য নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Mother Who Refused Food",
-          "bn": "খেতে অস্বীকার করা এক মা"
+          "bn": "যে মা খাওয়া ছেড়ে দিলেন"
         },
         "p": [
           {
             "en": "The commentators agree on the occasion. Al-Baghawi reports that the verse came down about Sa'd ibn Abi Waqqas (RA), one of the earliest to accept Islam and a man devoted to his mother, Hamnah bint Abi Sufyan. When she learned he had become Muslim she confronted him: what is this religion you have taken up? By God, she swore, I will neither eat nor drink until you return to what you were, or I die, and then you will be called, for all time, the one who killed his mother.",
-            "bn": "উপলক্ষের ব্যাপারে তাফসীরকারেরা একমত। বাগভী বলেন, আয়াতটি নাজিল হয়েছিল সা'দ ইবন আবি ওয়াক্কাস (রাঃ)-এর ব্যাপারে, যিনি ছিলেন ইসলাম গ্রহণে অগ্রগামীদের একজন আর মায়ের প্রতি গভীর যত্নশীল এক ছেলে। তাঁর মা হামনাহ বিনতে আবু সুফিয়ান যখন জানলেন ছেলে মুসলিম হয়েছে, তিনি চড়াও হলেন: এ আবার কোন ধর্ম তুমি ধরলে? আল্লাহর কসম, তুমি আগের অবস্থায় না ফেরা পর্যন্ত আমি খাব না, পান করব না, নয়তো মরে যাব, আর তখন চিরকাল তোমাকে ডাকা হবে মায়ের হত্যাকারী বলে।"
+            "bn": "উপলক্ষ নিয়ে তাফসীরকারেরা একমত। বাগভী বলেন, আয়াতটি নাজিল হয়েছিল সা'দ ইবন আবি ওয়াক্কাস (রাঃ)-কে নিয়ে। তিনি ছিলেন সবার আগে ইসলাম গ্রহণকারীদের একজন, আর মায়ের প্রতি খুব যত্নশীল ছেলে। মা হামনাহ বিনতে আবু সুফিয়ান যখন জানলেন ছেলে মুসলিম হয়েছে, তিনি তাকে চেপে ধরলেন: এ আবার কোন ধর্ম ধরেছ তুমি? আল্লাহর কসম, তুমি আগের অবস্থায় ফিরে না আসা পর্যন্ত, কিংবা আমি মরে না যাওয়া পর্যন্ত, আমি কিছু খাব না, পানও করব না। তখন চিরকাল লোকে তোমাকে বলবে মায়ের হত্যাকারী।"
           },
           {
             "en": "Al-Baghawi has her hold out a day and a night, then a second day; other reports, Ma'arif notes, stretch the fast longer still. Al-Qurtubi and Ibn Kathir preserve a grim detail from the narration: when the family wanted to feed her, they would pry her mouth open and pour the food in. The scene is not softened in the sources. A mother was starving herself, in earnest, to break her son's faith, and he could not simply wait for her to relent.",
@@ -168,12 +168,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Report Set Down Whole",
-          "bn": "পুরোটা লিপিবদ্ধ এক বর্ণনা"
+          "bn": "বর্ণনাটি পুরোপুরি"
         },
         "p": [
           {
             "en": "The occasion is not only a commentator's note; it rests on a sound narration. Ibn Kathir traces it to a hadith of Sa'd recorded by Muslim, and also by Ahmad, Abu Dawud and an-Nasa'i, adding that at-Tirmidhi graded his wording hasan sahih. The fullest form sits in Sahih Muslim, where its presence is itself the grading, since Muslim admitted only what met his conditions for a sound report. Here is that wording, quoted as its own narration rather than blended with the other versions.",
-            "bn": "এ উপলক্ষ কেবল এক তাফসীরকারের টীকা নয়; এটি দাঁড়িয়ে আছে এক সহীহ বর্ণনার ওপর। ইবন কাসীর একে সা'দের একটি হাদিস পর্যন্ত নিয়ে যান, যা মুসলিম বর্ণনা করেছেন, আর আহমাদ, আবু দাউদ ও নাসায়ীও বর্ণনা করেছেন; তিনি যোগ করেন যে তিরমিযী তাঁর শব্দকে হাসান সহীহ বলেছেন। সবচেয়ে পূর্ণ রূপটি আছে সহীহ মুসলিমে, যেখানে তার উপস্থিতিই হলো তার মান, কারণ মুসলিম কেবল তা-ই নিয়েছেন যা সহীহ বর্ণনার জন্য তাঁর শর্ত পূরণ করেছে। এই হলো সেই শব্দ, অন্য রূপগুলোর সঙ্গে মিশিয়ে নয়, নিজের বর্ণনা হিসেবেই উদ্ধৃত।"
+            "bn": "এ উপলক্ষ কেবল কোনো তাফসীরকারের টীকা নয়; এর পেছনে আছে এক সহীহ বর্ণনা। ইবন কাসীর জানান, এটি সা'দের একটি হাদিস, যা মুসলিম বর্ণনা করেছেন, আর আহমাদ, আবু দাউদ ও নাসায়ীও এনেছেন; তিনি আরও বলেন, তিরমিযী এর শব্দগুলোকে হাসান সহীহ বলেছেন। সবচেয়ে পূর্ণ রূপটি আছে সহীহ মুসলিমে। সেখানে থাকাটাই এর মানের সাক্ষ্য, কারণ সহীহ বর্ণনার জন্য মুসলিমের যে শর্ত, তা পূরণ না হলে তিনি কোনো বর্ণনা নিতেন না। নিচে সেই বর্ণনাটিই দেওয়া হলো তার নিজের শব্দে, অন্য রূপগুলোর সঙ্গে না মিশিয়ে।"
           },
           {
             "en": "In Muslim's wording, Sa'd relates that four verses were revealed about him, and of this one he says: his mother, Umm Sa'd, swore that she would never speak to him until he renounced his faith, and that she would neither eat nor drink. She passed three days in this state until she fainted from hunger. Then, he says, Allah revealed this verse, 'And We have enjoined upon man goodness to his parents; but if they strive to make you associate with Me that of which you have no knowledge, obey them not' (29:8), and with it, 'accompany them in this world with kindness' (31:15).",
@@ -189,7 +189,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb is jahadaka, they strive against you, they press. It is not a passing wish but exertion, the kind the occasion makes vivid: a parent bringing real pressure to bear. Ibn Kathir fixes what is being pressed for, that if they are idolaters and strive to draw you after them into their religion, you must beware and not obey them in that. The object of the refusal is narrow and exact. It is being pulled into shirk, associating something with God, not the ordinary run of a parent's wishes.",
-            "bn": "ক্রিয়াটি হলো জাহাদাকা, তারা তোমার বিরুদ্ধে উঠেপড়ে লাগে, চাপ দেয়। এটা উড়ো কোনো ইচ্ছা নয়, বরং কঠিন চেষ্টা, যেমনটা এই ঘটনা জ্বলজ্বল করে দেখায়: পিতা-মাতা সত্যিকারের চাপ প্রয়োগ করছেন। ইবন কাসীর ঠিক করে দেন কিসের জন্য চাপ, অর্থাৎ তাঁরা যদি মুশরিক হন আর তোমাকে নিজেদের ধর্মে টেনে নিতে উঠেপড়ে লাগেন, তবে সাবধান হও আর সে ব্যাপারে তাঁদের কথা মেনো না। অস্বীকারের লক্ষ্যবস্তু সরু আর নিখুঁত। তা হলো শিরকে টেনে নেওয়া, অর্থাৎ আল্লাহর সঙ্গে কিছু শরিক করা, পিতা-মাতার সাধারণ চাওয়া-পাওয়া নয়।"
+            "bn": "ক্রিয়াটি হলো জাহাদাকা: তারা তোমার বিরুদ্ধে উঠেপড়ে লাগে, চাপ দেয়। এটা হালকা কোনো ইচ্ছা নয়, রীতিমতো জোর খাটানো, আর এই ঘটনাই তা স্পষ্ট করে দেখায়: পিতা-মাতা সত্যিকারের চাপ দিচ্ছেন। চাপটা কিসের জন্য, ইবন কাসীর তা স্পষ্ট করে দেন: তাঁরা যদি মুশরিক হন আর তোমাকে নিজেদের ধর্মে টেনে নিতে উঠেপড়ে লাগেন, তবে সাবধান থেকো, এ ব্যাপারে তাঁদের কথা মেনো না। কোন কথা মানা যাবে না, তার সীমা খুব সরু আর নির্দিষ্ট: শিরকের দিকে টেনে নেওয়া, অর্থাৎ আল্লাহর সঙ্গে কিছু শরিক করানো। পিতা-মাতার সাধারণ চাওয়া-পাওয়া এর মধ্যে পড়ে না।"
           },
           {
             "en": "Then: that of which you have no knowledge. At-Tabari reads it as you have no knowledge that I have any partner, because there is none to know. As-Sa'di presses the phrase further, that no one possesses any knowledge that shirk is valid at all, and the wording itself magnifies how grave the sin is. Both readings land in the same place. The parents are demanding that their child affirm something that cannot be known because it is not true, and no bond, however deep, can oblige a person to affirm a falsehood about God.",
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Muyassar widens the frame carefully. The verse names shirk, he says, but the same ruling attaches to every other act of disobedience to God: there is no obedience owed to any created being, whoever he may be, in disobedience of the Creator, a principle established from the Messenger (ﷺ). The verse chooses the gravest case in order to state the rule, and the rule then reaches the lesser cases too. What a parent may not command is, in the end, sin itself.",
-            "bn": "মুয়াসসার পরিধিটা যত্ন করে বাড়িয়ে দেন। আয়াত শিরকের নাম নেয়, তিনি বলেন, তবে একই বিধান আল্লাহর অবাধ্যতার প্রতিটি কাজের সঙ্গেই জড়িয়ে আছে: স্রষ্টার অবাধ্যতায় কোনো সৃষ্টিরই আনুগত্য নেই, সে যেই হোক, আর এ নীতি রাসূল ﷺ থেকে প্রমাণিত। আয়াত সবচেয়ে ভারী উদাহরণটা বেছে নেয় বিধানটা বলার জন্য, আর সেই বিধান তখন ছোট ক্ষেত্রগুলোকেও ছুঁয়ে ফেলে। পিতা-মাতা যা হুকুম করতে পারেন না, তা শেষ পর্যন্ত গুনাহ নিজেই।"
+            "bn": "মুয়াসসার পরিধিটা সাবধানে বাড়িয়ে দেন। তিনি বলেন, আয়াতে শিরকের নাম এসেছে, কিন্তু আল্লাহর অবাধ্যতার অন্য প্রতিটি কাজেও একই বিধান: স্রষ্টার অবাধ্যতায় কোনো সৃষ্টির আনুগত্য নেই, সে যে-ই হোক; এ নীতি রাসূল ﷺ থেকে প্রমাণিত। বিধানটা বলার জন্য আয়াত সবচেয়ে ভারী উদাহরণটা বেছে নিয়েছে, আর সেই বিধান তারপর ছোট ক্ষেত্রগুলোতেও পৌঁছে যায়। শেষ পর্যন্ত পিতা-মাতা যা হুকুম করতে পারেন না, তা হলো গুনাহ।"
           }
         ]
       },
@@ -209,7 +209,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fala tut'ihuma: do not obey them. Here the commentators reach for the principle that governs the whole matter. Ma'arif al-Qur'an and al-Baghawi both cite the Prophet's words, that there is no obedience to a created being in disobedience of the Creator. Ma'arif notes the report was recorded by Ahmad and al-Hakim, who graded it sound. The rule does not single out parents as suspect. It places them where every human authority stands, owed obedience fully, right up to the edge of God's command, and not past it.",
-            "bn": "ফালা তুতিউহুমা: তাদের কথা মেনো না। এখানে তাফসীরকারেরা সেই নীতিটা ধরেন যা গোটা বিষয়টা পরিচালনা করে। মাআরিফুল কুরআন আর বাগভী দুজনেই নবী ﷺ-এর কথা উদ্ধৃত করেন, যে স্রষ্টার অবাধ্যতায় কোনো সৃষ্টির আনুগত্য নেই। মাআরিফুল কুরআন জানায়, বর্ণনাটি আহমাদ ও হাকিম লিপিবদ্ধ করেছেন, আর হাকিম একে সহীহ বলেছেন। নীতিটা পিতা-মাতাকে সন্দেহের চোখে আলাদা করে দেখায় না। বরং তাঁদের সেখানেই বসায় যেখানে প্রতিটি মানবিক কর্তৃত্ব দাঁড়ায়, পুরো আনুগত্যের দাবিদার, ঠিক আল্লাহর হুকুমের কিনারা পর্যন্ত, তার বেশি নয়।"
+            "bn": "ফালা তুতিউহুমা: তাদের কথা মেনো না। এখানে এসে তাফসীরকারেরা পুরো বিষয়ের মূলনীতিটা সামনে আনেন। মাআরিফুল কুরআন আর বাগভী দুজনেই নবী ﷺ-এর বাণী উদ্ধৃত করেন: স্রষ্টার অবাধ্যতায় কোনো সৃষ্টির আনুগত্য নেই। মাআরিফুল কুরআন জানায়, বর্ণনাটি আহমাদ ও হাকিম লিপিবদ্ধ করেছেন, আর হাকিম একে সহীহ বলেছেন। এ নীতি পিতা-মাতাকে আলাদা করে সন্দেহের চোখে দেখে না। বরং তাঁদের রাখে সেখানেই, যেখানে মানুষের যেকোনো কর্তৃত্বের জায়গা: আল্লাহর হুকুমের সীমা পর্যন্ত তাঁদের কথা পুরোপুরি মানতে হবে, সীমা পেরিয়ে নয়।"
           },
           {
             "en": "As-Sa'di states the balance exactly. Be dutiful to your parents, he says, and put their obedience first, except where it meets obedience to God and His Messenger, which takes precedence over everything. Read his words closely and the shape appears: obedience to parents is the standing rule, and the refusal is a single exception cut into it. To withhold obedience on this one point is not to withhold honour, care or company. The son in the narration proved it, denying his mother the one thing and nothing else.",
@@ -225,7 +225,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's own context answers the fear that a refusal licenses coldness. In the narration, the same revelation that told Sa'd not to obey his mother in shirk also gave him 31:15: accompany them in this world with kindness, ma'ruf. The two sit together deliberately. First the one thing withheld, then the instruction to keep walking beside them, through this life, with recognised good. A disbelieving parent is still owed company and care; the refusal touches the single demand and leaves the relationship intact.",
-            "bn": "অস্বীকার কি নিষ্ঠুরতার ছাড়পত্র, এই ভয়ের জবাব আয়াতের নিজের প্রসঙ্গেই আছে। বর্ণনায়, যে একই ওহি সা'দকে শিরকে মায়ের কথা মানতে নিষেধ করল, সেই ওহিই তাঁকে দিল ৩১:১৫: দুনিয়ায় তাদের সঙ্গে ভালোভাবে চলো, মারুফ দিয়ে। দুটি কথা ইচ্ছে করেই পাশাপাশি বসে আছে। আগে সেই একটি জিনিস ফিরিয়ে দেওয়া, তারপর নির্দেশ এই জীবনজুড়ে স্বীকৃত কল্যাণ নিয়ে তাঁদের পাশে পাশে চলার। অবিশ্বাসী পিতা-মাতাও সঙ্গ আর যত্নের হকদার; অস্বীকার কেবল সেই একটি দাবিকে ছোঁয়, সম্পর্ককে অটুট রেখে দেয়।"
+            "bn": "অস্বীকার করলেই কি রূঢ় হওয়ার অনুমতি মিলে যায়? এই ভয়ের জবাব আয়াতের নিজের প্রসঙ্গেই আছে। বর্ণনায় দেখা যায়, যে ওহি সা'দকে শিরকের ব্যাপারে মায়ের কথা মানতে নিষেধ করল, সেই ওহিই তাঁকে দিল ৩১:১৫: দুনিয়ায় তাদের সঙ্গে ভালোভাবে চলো, মারুফ অনুযায়ী। দুটি কথা ইচ্ছে করেই পাশাপাশি বসানো। আগে সেই একটি জিনিস ফিরিয়ে দেওয়া, তারপর নির্দেশ: এই জীবনজুড়ে সবার জানা ভালো আচরণ নিয়ে তাঁদের পাশে পাশে চলো। ঈমান না আনা পিতা-মাতাও সঙ্গ আর যত্নের হকদার; অস্বীকার কেবল সেই একটি দাবিকে ছোঁয়, সম্পর্কটা অটুট থাকে।"
           },
           {
             "en": "Al-Baghawi notes that this verse and its near-twins in Luqman and al-Ahqaf came down about the same man. In 31:14 the charge to thank one's parents sits beside the charge to thank God; in 46:15 the Qur'an recalls what a mother bore in carrying and nursing a child. Read together, they refuse any reading that turns 29:8 into a permission slip for neglect. The Qur'an keeps naming the parents' due even as it draws the one firm line.",
@@ -245,11 +245,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes by lifting its gaze: ilayya marji'ukum, to Me is your return. At-Tabari reads it straightforwardly, that your coming back and your destination on the Day of Resurrection is to Me, and I will inform you of what you did and repay it. Al-Qurtubi hears a warning in it, aimed at anyone who would obey a parent in what amounts to disbelief. Either way, the clause steadies the one caught in the hard choice: the final account is settled with God, not with the parent who is pressing.",
-            "bn": "আয়াত শেষ হয় দৃষ্টি উঁচু করে: ইলাইয়্যা মারজিউকুম, আমার কাছেই তোমাদের প্রত্যাবর্তন। তাবারী একে সোজাভাবে পড়েন, যে কিয়ামতের দিন তোমাদের ফিরে আসা আর গন্তব্য আমার কাছেই, আর আমি তোমাদের কাজের খবর দেব আর তার প্রতিদান দেব। কুরতুবী এতে একটা হুঁশিয়ারি শোনেন, যা তাকবানো তার দিকে যে কুফরির সমান কোনো কিছুতে পিতা-মাতার কথা মানবে। যেভাবেই হোক, এই বাক্য কঠিন পছন্দের মুখে পড়া একজনকে স্থির করে দেয়: শেষ হিসাব আল্লাহর সঙ্গে চোকে, চাপ দেওয়া পিতা-মাতার সঙ্গে নয়।"
+            "bn": "আয়াত শেষ হয় দৃষ্টি ওপরে তুলে: ইলাইয়্যা মারজিউকুম, আমার কাছেই তোমাদের প্রত্যাবর্তন। তাবারী একে সোজাভাবেই পড়েন: কিয়ামতের দিন তোমাদের ফিরে আসা আর শেষ ঠিকানা আমার কাছেই, আর তোমরা যা করেছ তা আমি জানিয়ে দেব এবং তার প্রতিদান দেব। কুরতুবী এতে একটা হুঁশিয়ারি শোনেন, তাদের জন্য যারা কুফরির শামিল কোনো ব্যাপারে পিতা-মাতার কথা মেনে নেবে। যেভাবেই পড়া হোক, এই বাক্য কঠিন সিদ্ধান্তের মুখে দাঁড়ানো মানুষকে স্থির রাখে: শেষ হিসাব মিটবে আল্লাহর কাছে, চাপ দেওয়া পিতা-মাতার কাছে নয়।"
           },
           {
             "en": "Ibn Kathir carries the thought to its end. On that Day, he says, you will be gathered with the righteous, not with the company of your parents, even though in this world no one was closer to them than you, for a person is raised with those he loves, in the love that is for God's sake. He reads the next verse, 29:9, as the promise behind it: those who believe and do good God will admit among the righteous. The kindness you kept and the line you held both answer, in the end, to the same return.",
-            "bn": "ইবন কাসীর ভাবনাটাকে শেষ পর্যন্ত নিয়ে যান। সেই দিন, তিনি বলেন, তোমাকে ওঠানো হবে সৎকর্মশীলদের সঙ্গে, পিতা-মাতার দলের সঙ্গে নয়, যদিও দুনিয়ায় তাঁদের এত কাছের আর কেউ ছিল না, কারণ একজন মানুষকে ওঠানো হয় তাদের সঙ্গেই যাদের সে ভালোবাসে, সেই ভালোবাসায় যা আল্লাহর জন্য। তিনি পরের আয়াত, ২৯:৯, পড়েন এর পেছনের প্রতিশ্রুতি হিসেবে: যারা ঈমান আনে আর সৎকাজ করে আল্লাহ তাদের সৎকর্মশীলদের অন্তর্ভুক্ত করবেন। যে সদ্ব্যবহার আপনি ধরে রাখলেন আর যে রেখা আপনি টানলেন, দুটিই শেষমেশ সেই একই প্রত্যাবর্তনের কাছে জবাব দেয়।"
+            "bn": "ইবন কাসীর ভাবনাটাকে শেষ পর্যন্ত নিয়ে যান। তিনি বলেন, সেদিন তোমাকে ওঠানো হবে নেককারদের সঙ্গে, পিতা-মাতার দলের সঙ্গে নয়, যদিও দুনিয়ায় তাঁদের সবচেয়ে কাছের মানুষ ছিলে তুমিই; কারণ মানুষকে ওঠানো হয় তাদের সঙ্গে, যাদের সে আল্লাহর জন্য ভালোবাসে। পরের আয়াত ২৯:৯-কে তিনি এরই পেছনের প্রতিশ্রুতি হিসেবে পড়েন: যারা ঈমান আনে আর নেক আমল করে, আল্লাহ তাদের নেককারদের দলে শামিল করবেন। যে সদ্ব্যবহার আপনি ধরে রেখেছেন আর যে সীমা আপনি রক্ষা করেছেন, শেষ পর্যন্ত দুটোরই হিসাব হবে সেই একই প্রত্যাবর্তনে।"
           }
         ]
       }
@@ -269,11 +269,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "al-Qurtubi asks why Noah of all the prophets, and answers that he was the first messenger sent to the people of the earth, and that no prophet ever suffered from his people what Noah suffered. He cites a report from Anas that the Prophet named Noah the first messenger sent. So the surah reaches back past every later struggle to the longest and loneliest mission of them all, and lays it beside the Prophet's own trial.",
-            "bn": "কুরতুবী প্রশ্ন তোলেন, সব নবী থাকতে নূহ (আঃ) কেন। জবাবে বলেন, তিনিই ছিলেন পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল, আর কোনো নবীকেই তাঁর সম্প্রদায়ের হাতে এতটা ভুগতে হয়নি যতটা নূহ (আঃ) ভুগেছেন। তিনি আনাস থেকে বর্ণনা আনেন যে, নবী ﷺ নূহ (আঃ)-কে প্রথম প্রেরিত রাসূল বলেছেন। তাই সূরাটি পরের সব সংগ্রাম পেরিয়ে পিছিয়ে যায় সবচেয়ে দীর্ঘ আর সবচেয়ে নিঃসঙ্গ সেই মিশনে, আর তা রাখে নবী ﷺ-এর নিজের পরীক্ষার পাশে।"
+            "bn": "কুরতুবী প্রশ্ন তোলেন, এত নবী থাকতে নূহ (আঃ) কেন? জবাবে বলেন, তিনিই ছিলেন পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল, আর নিজের সম্প্রদায়ের হাতে নূহ (আঃ) যত কষ্ট পেয়েছেন, অন্য কোনো নবী তত কষ্ট পাননি। তিনি আনাস থেকে একটি বর্ণনা আনেন যে, নবী ﷺ নূহ (আঃ)-কে প্রথম প্রেরিত রাসূল বলেছেন। তাই সূরাটি পরের সব সংগ্রাম পেরিয়ে ফিরে যায় সবচেয়ে দীর্ঘ আর সবচেয়ে নিঃসঙ্গ দাওয়াতের কাছে, আর সেটিকে রাখে নবী ﷺ-এর নিজের পরীক্ষার পাশে।"
           },
           {
             "en": "at-Tabari sets the comfort in a balance. God may grant the deniers a long respite, he says, drawing it out as He did for Noah's people, yet their affair ends in ruin, while the Prophet and those with him end in triumph and in rescue from what befalls the deniers. Ibn Kathir reads the same promise into the verse: know that God will aid you and make you prevail, and will humble and bring low your enemies. The Noah story is told to a man under pressure as a map of how such pressure ends.",
-            "bn": "তাবারী সান্ত্বনাটিকে রাখেন এক ভারসাম্যে। আল্লাহ অস্বীকারকারীদের দীর্ঘ অবকাশ দিতে পারেন, তিনি বলেন, যেমন দিয়েছিলেন নূহ (আঃ)-এর সম্প্রদায়কে, তবু তাদের পরিণাম ধ্বংস, আর নবী ﷺ ও তাঁর সঙ্গীদের পরিণাম জয় আর অস্বীকারকারীদের উপর নেমে আসা শাস্তি থেকে মুক্তি। ইবন কাসীর আয়াতে একই প্রতিশ্রুতি পড়েন, জেনে রাখুন আল্লাহ আপনাকে সাহায্য করবেন, বিজয়ী করবেন, আর আপনার শত্রুদের লাঞ্ছিত ও নত করবেন। চাপে থাকা এক মানুষের কাছে নূহ (আঃ)-এর কাহিনি বলা হয়েছে এই চাপ কোথায় গিয়ে শেষ হয় তার মানচিত্র হিসেবে।"
+            "bn": "তাবারী সান্ত্বনাটিকে দুই পাল্লায় রেখে দেখান। তিনি বলেন, আল্লাহ অস্বীকারকারীদের লম্বা অবকাশ দিতে পারেন, যেমন দিয়েছিলেন নূহ (আঃ)-এর সম্প্রদায়কে; তবু তাদের শেষ পরিণাম ধ্বংস। আর নবী ﷺ ও তাঁর সঙ্গীদের পরিণাম বিজয়, আর অস্বীকারকারীদের ওপর নেমে আসা আজাব থেকে মুক্তি। ইবন কাসীরও আয়াতে একই প্রতিশ্রুতি দেখেন: জেনে রাখুন, আল্লাহ আপনাকে সাহায্য করবেন, বিজয়ী করবেন, আর আপনার শত্রুদের লাঞ্ছিত ও নত করবেন। চাপের মধ্যে থাকা এক মানুষকে নূহ (আঃ)-এর কাহিনি শোনানো হচ্ছে, যেন তিনি দেখতে পান এমন চাপ শেষে কোথায় গিয়ে থামে।"
           }
         ]
       },
@@ -285,11 +285,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse measures his stay in a strange arithmetic: he remained among them a thousand years less fifty, which comes to 950. The Qur'an does not give the round smaller figure; it says a thousand, then subtracts. al-Qurtubi pauses on the wording and asks why it was not simply put as the smaller total, when that would have been shorter to say.",
-            "bn": "আয়াতটি তাঁর অবস্থানকে মাপে এক অদ্ভুত হিসাবে, তিনি তাদের মাঝে ছিলেন হাজার বছর থেকে পঞ্চাশ কম, যা দাঁড়ায় ৯৫০ বছরে। কুরআন ছোট পূর্ণ সংখ্যাটা সরাসরি বলেনি, বলেছে হাজার, তারপর বিয়োগ করেছে। কুরতুবী এই শব্দচয়নে থামেন আর জিজ্ঞেস করেন, ছোট যোগফলটা বলা তো সংক্ষিপ্ত হতো, তবু তা না বলে এভাবে কেন।"
+            "bn": "আয়াতটি তাঁর অবস্থানের সময় মাপে এক অদ্ভুত হিসাবে: তিনি তাদের মাঝে ছিলেন হাজার বছর থেকে পঞ্চাশ কম, অর্থাৎ ৯৫০ বছর। কুরআন ছোট সংখ্যাটা সরাসরি বলেনি; বলেছে হাজার, তারপর বিয়োগ করেছে। কুরতুবী এই শব্দচয়নে এসে থামেন। তাঁর প্রশ্ন: সরাসরি ছোট সংখ্যাটা বলাই তো সংক্ষিপ্ত হতো, তবু এভাবে কেন?"
           },
           {
             "en": "He gives a pair of answers. The first is that naming the thousand magnifies the count, since the larger word strikes the ear as a greater stretch of time than the plain total would. The second rests on a report that Noah was granted a thousand years and gave fifty of them to a descendant of his, then at death returned to complete the thousand, so that the shortfall is noted as coming from his own hand. Either way, the phrasing is deliberate, not a loose rounding.",
-            "bn": "তিনি একজোড়া জবাব দেন। প্রথমটি, হাজার শব্দটি ব্যবহার সংখ্যাটাকে বড় করে দেখায়, কারণ বড় শব্দটা কানে বাজে দীর্ঘতর সময় হিসেবে, নিছক যোগফলের চেয়ে বেশি। দ্বিতীয়টি দাঁড়িয়ে আছে এক বর্ণনার উপর, নূহ (আঃ)-কে হাজার বছর আয়ু দেওয়া হয়েছিল, তিনি তা থেকে পঞ্চাশ বছর দিয়ে দেন তাঁর এক বংশধরকে, পরে মৃত্যুকালে হাজার পূর্ণ করতে তা ফিরিয়ে নেন। তাই ঘাটতিটা তাঁর নিজের দিক থেকেই এসেছে বলে উল্লেখ করা হয়। যেভাবেই হোক, শব্দচয়ন ইচ্ছাকৃত, এলোমেলো গোল করা নয়।"
+            "bn": "তিনি দুটি জবাব দেন। প্রথমত, হাজারের উল্লেখ সংখ্যাটাকে বড় করে তোলে; সরাসরি সংখ্যা বললে যতটা মনে হতো, হাজার শব্দটা কানে তার চেয়ে লম্বা সময় হয়ে বাজে। দ্বিতীয় জবাব এক বর্ণনার ওপর দাঁড়িয়ে: নূহ (আঃ)-কে হাজার বছর আয়ু দেওয়া হয়েছিল, তিনি তা থেকে পঞ্চাশ বছর তাঁর এক বংশধরকে দিয়ে দেন, পরে মৃত্যুকালে হাজার পূর্ণ করতে তা ফিরিয়ে নেন। তাই কমতিটা যে তাঁর নিজের দিক থেকেই, আয়াতে সেটাই উল্লেখ আছে। যেভাবেই দেখা হোক, এই শব্দচয়ন ইচ্ছাকৃত, আন্দাজে গোল করে বলা নয়।"
           }
         ]
       },
@@ -305,11 +305,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Qatadah, by contrast, took the 950 for Noah's entire lifespan, split as 300 years before he was sent, 300 spent calling them, and 350 after the flood. Ibn Kathir records this but marks it as odd, against the surface of the verse. The disagreement is real and old, and this reading sets out both without choosing: most read the span as the years of his calling, while some read it as the whole of his life.",
-            "bn": "কাতাদা আবার ৯৫০ বছরকে ধরেন নূহ (আঃ)-এর গোটা আয়ু হিসেবে, ভাগ করেন এভাবে, পাঠানোর আগে ৩০০ বছর, তাদের ডাকায় ৩০০ বছর, আর প্লাবনের পর ৩৫০ বছর। ইবন কাসীর এটি লিখে রাখেন, তবে একে চিহ্নিত করেন অদ্ভুত বলে, আয়াতের বাহ্যিক অর্থের বিপরীত। মতভেদটা সত্যিকারের ও পুরোনো, আর এখানে দুটো পাঠই তুলে ধরা হলো কোনোটা বেছে না নিয়ে, বেশির ভাগ পড়েন সংখ্যাটাকে তাঁর দাওয়াতের বছর হিসেবে, আর কেউ কেউ গোটা জীবনকাল হিসেবে।"
+            "bn": "কাতাদা অবশ্য ৯৫০ বছরকে নূহ (আঃ)-এর গোটা আয়ু ধরেন, আর ভাগ করেন এভাবে: পাঠানোর আগে ৩০০ বছর, দাওয়াতে ৩০০ বছর, আর প্লাবনের পর ৩৫০ বছর। ইবন কাসীর মতটি উল্লেখ করেন, তবে বলেন এটি অদ্ভুত, আয়াতের বাহ্যিক অর্থের সঙ্গে মেলে না। মতভেদটা সত্যিকারের, আর পুরোনো। এখানে কোনোটা বেছে না নিয়ে দুটোই রাখা হলো: বেশির ভাগ আলেম সংখ্যাটাকে তাঁর দাওয়াতের বছর ধরেন, আর কেউ কেউ গোটা জীবনকাল।"
           },
           {
             "en": "The longer biographies only widen the gap. Ka'b al-Ahbar put his whole life at 1020 years, Wahb at 1400, each adding the periods before and after the mission to the Qur'anic 950. Ma'arif al-Qur'an settles the one fixed point: the 950 is stated by the Qur'an and is true beyond doubt, while the figures around it come from narrations that place it within a longer life. Where they add up differently, the verse itself names only the 950.",
-            "bn": "দীর্ঘতর জীবনীগুলো ফারাকটা আরও বাড়ায়। কা'ব আল-আহবার তাঁর গোটা জীবন ধরেন ১০২০ বছর, ওহব ধরেন ১৪০০ বছর, প্রত্যেকে মিশনের আগের ও পরের সময়কে কুরআনের ৯৫০-এর সঙ্গে যোগ করেন। মাআরিফুল কুরআন একটা স্থির বিন্দু ঠিক করে দেয়, ৯৫০ সংখ্যাটা কুরআন নিজে বলেছে আর তা সন্দেহাতীতভাবে সত্য, আর এর চারপাশের সংখ্যাগুলো আসে এমন বর্ণনা থেকে যারা একে রাখে দীর্ঘতর এক জীবনের ভেতরে। যেখানে তারা ভিন্ন ভিন্ন যোগফলে পৌঁছায়, আয়াত নিজে শুধু ৯৫০-এর নামই নেয়।"
+            "bn": "বিস্তারিত জীবনীগুলো ফারাকটা আরও বাড়িয়েছে। কা'ব আল-আহবার তাঁর গোটা জীবন ধরেন ১০২০ বছর, ওহব ধরেন ১৪০০ বছর; দুজনেই দাওয়াতের আগের ও পরের সময়কে কুরআনের ৯৫০-এর সঙ্গে যোগ করেছেন। মাআরিফুল কুরআন একটি জায়গায় অটল: ৯৫০ সংখ্যাটা কুরআন নিজে বলেছে, আর তা সন্দেহাতীতভাবে সত্য। এর আশপাশের সংখ্যাগুলো এসেছে বিভিন্ন বর্ণনা থেকে, যেগুলো এই সময়টাকে আরও লম্বা এক জীবনের অংশ ধরে। সেসব হিসাব যেখানে মেলে না, সেখানেও আয়াত নিজে শুধু ৯৫০-এর কথাই বলে।"
           }
         ]
       },
@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "at-Tabari adds the bitter result: the more he called them to God and to leaving their idols, the more it increased them only in flight from him. as-Sa'di notes that it was after all this, worn down but not broken, that Noah at last prayed against them, my Lord, leave not a single disbeliever on the earth (71:26). The plea came at the end of centuries, not in the heat of a bad day.",
-            "bn": "তাবারী যোগ করেন তিক্ত ফলটা, তিনি যত আল্লাহর দিকে আর মূর্তি ছাড়ার দিকে ডেকেছেন, তা তাদের ততই কেবল পালানোতেই বাড়িয়েছে। সাদী উল্লেখ করেন, এতকিছুর পরেই, নুয়ে পড়েও না ভেঙে, নূহ (আঃ) শেষমেশ তাদের বিরুদ্ধে দোয়া করেন, হে আমার রব, জমিনে কোনো কাফিরকে অবশিষ্ট রাখবেন না (৭১:২৬)। এই আকুতি এসেছিল শতাব্দীর শেষে, কোনো খারাপ দিনের উত্তাপে নয়।"
+            "bn": "তাবারী তিক্ত ফলাফলটাও জানান: তিনি যত তাদের আল্লাহর দিকে আর মূর্তি ছাড়ার দিকে ডেকেছেন, তারা ততই তাঁর কাছ থেকে দূরে পালিয়েছে। সাদী উল্লেখ করেন, এতকিছুর পরেই, ক্লান্ত হয়েও ভেঙে না পড়ে, নূহ (আঃ) শেষমেশ তাদের বিরুদ্ধে দোয়া করেন: হে আমার রব, জমিনে কোনো কাফিরকে অবশিষ্ট রাখবেন না (৭১:২৬)। এই দোয়া এসেছিল শত শত বছরের শেষে, কোনো খারাপ দিনের রাগের মাথায় নয়।"
           },
           {
             "en": "al-Qurtubi notes that even the name carries the labour. Noah, Nuh in Arabic, is tied to nawh, to wail or lament; he was called Nuh, the commentator reports, because he lamented over his people across those long years, weeping for them whenever they turned away, and in another account because he wept long over his own fault until the name settled on him. Either way the name fastens the man to grief that was sustained, not grief spent in a single outburst and done.",
@@ -345,7 +345,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "as-Sa'di fills in the picture: water that came down from the sky in torrents and burst up from the earth with force, until it closed over them. The two senses meet in a single word. What began as rain they might have read as mere weather became, by its measure and its reach, a judgement that left no high ground. The verse does not linger on the horror; it states the seizing and moves on.",
-            "bn": "সাদী ছবিটা পূর্ণ করেন, আকাশ থেকে মুষলধারে নেমে আসা আর জমিন থেকে প্রবল বেগে উথলে ওঠা পানি, যতক্ষণ না তা তাদের উপর বন্ধ হয়ে যায়। দুই অর্থ এক শব্দেই মিলে যায়। যা শুরু হয়েছিল বৃষ্টি হিসেবে, তারা হয়তো একে নিছক আবহাওয়া ভেবেছিল, কিন্তু তার মাত্রা আর বিস্তারে তা হয়ে ওঠে এমন এক বিচার যা কোনো উঁচু জমিন বাকি রাখেনি। আয়াত ভয়াবহতায় থামে না, গ্রাস করার কথা বলে এগিয়ে যায়।"
+            "bn": "সাদী ছবিটা পূর্ণ করেন: আকাশ থেকে মুষলধারে নেমে আসা আর জমিন ফুঁড়ে প্রবল বেগে উথলে ওঠা পানি, যতক্ষণ না তা তাদের পুরোপুরি ঢেকে ফেলে। দুই অর্থ এক শব্দেই মিলে যায়। শুরুতে যা ছিল বৃষ্টি, যাকে তারা হয়তো নিছক আবহাওয়া ভেবেছিল, তার মাত্রা আর বিস্তার তাকে বানিয়ে দিল এমন এক বিচার, যা কোনো উঁচু জায়গাও বাকি রাখেনি। আয়াত ভয়াবহতার বর্ণনায় থামে না; গ্রাস করার কথা বলেই এগিয়ে যায়।"
           }
         ]
       },
@@ -357,11 +357,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends on a condition, not a verdict on a people as such: the flood took them while they were wrongdoers. al-Baghawi relays from Ibn Abbas that the wrongdoing here is shirk; at-Tabari glosses it as wronging themselves by their disbelief; al-Muyassar joins their disbelief to open tyranny. The sequence matters. The seizing followed a full age of warning and fell only on those who had, by then, settled into wrong. It was a sentence passed, not a disaster at random.",
-            "bn": "আয়াত শেষ হয় এক শর্তে, গোটা এক জাতির উপর ঢালাও রায়ে নয়, মহাপ্লাবন তাদের নিয়েছিল যখন তারা ছিল সীমালঙ্ঘনকারী। বাগভী ইবন আব্বাস থেকে আনেন যে, এখানে সীমালঙ্ঘন মানে শিরক, তাবারী একে ব্যাখ্যা করেন কুফরের মাধ্যমে নিজেদের উপর জুলুম হিসেবে, মুয়াসসার তাদের কুফরের সঙ্গে জোড়েন খোলা সীমালঙ্ঘন। ধারাটা জরুরি। গ্রাস করা এসেছিল পুরো এক যুগের সতর্কবার্তার পর, আর পড়েছিল কেবল তাদের উপর যারা ততদিনে অন্যায়ে থিতু হয়ে গিয়েছিল। এটা ছিল ঘোষিত এক দণ্ড, এলোমেলো কোনো বিপর্যয় নয়।"
+            "bn": "আয়াত শেষ হয় তাদের তখনকার অবস্থা জানিয়ে, গোটা জাতির ওপর ঢালাও রায় দিয়ে নয়: মহাপ্লাবন তাদের ধরল এমন অবস্থায় যে তারা ছিল সীমালঙ্ঘনকারী। বাগভী ইবন আব্বাস থেকে আনেন, এখানে সীমালঙ্ঘন মানে শিরক; তাবারী ব্যাখ্যা করেন, কুফরির মাধ্যমে নিজেদের ওপর জুলুম; মুয়াসসার তাদের কুফরের সঙ্গে যোগ করেন প্রকাশ্য জুলুম-অত্যাচার। ক্রমটা খেয়াল করার মতো। আজাব এসেছিল পুরো এক যুগ সতর্ক করার পর, আর তা পড়েছিল কেবল তাদের ওপর, যারা ততদিনে অন্যায়ে থিতু হয়ে গিয়েছিল। এ ছিল ঘোষিত দণ্ড, এলোমেলো কোনো দুর্যোগ নয়।"
           },
           {
             "en": "This must be said plainly. The verse records a past nation that God destroyed by His own decree, after His messenger had called them for a lifetime. It licenses nothing against any living person or community. It is not for anyone to read a flood, a storm, or any calamity today as a verdict on its victims, nor to appoint himself the agent of such a sentence. The judgement here is God's alone, over a people whose case is long closed.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি লিপিবদ্ধ করে অতীতের এমন এক জাতিকে, যাদের আল্লাহ নিজের ফয়সালায় ধ্বংস করেছেন, তাঁর রাসূল গোটা এক জীবন ধরে তাদের ডাকার পর। এটি জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আজকের কোনো বন্যা, ঝড় বা দুর্যোগকে তার শিকারদের উপর রায় হিসেবে পড়ার অধিকার কারও নেই, আর এমন কোনো দণ্ডের নির্বাহক সেজে বসার অধিকারও কারও নেই। এখানে বিচার একমাত্র আল্লাহর, এমন এক জাতির উপর যাদের ফাইল বহু আগেই বন্ধ হয়ে গেছে।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের এক জাতির কথা বলছে, যাদের আল্লাহ নিজের ফয়সালায় ধ্বংস করেছেন, তাও তাঁর রাসূল সারা জীবন তাদের ডেকে যাওয়ার পর। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের কোনো বন্যা, ঝড় বা দুর্যোগকে তার শিকারদের ওপর রায় বলে ধরে নেওয়ার অধিকার কারও নেই, আর এমন দণ্ড কার্যকর করার ভার নিজের হাতে তুলে নেওয়ার অধিকারও কারও নেই। এখানে বিচার কেবল আল্লাহর, এমন এক জাতির ওপর, যাদের মামলা বহু আগেই চুকে গেছে।"
           }
         ]
       },
@@ -389,15 +389,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Step back and the marvel is the compression. 950 years of a single man's patience, every dawn of it a fresh refusal met with a fresh call, are set down in sixteen Arabic words. The verse is almost curt. That brevity is itself the point: a life so long that we cannot imagine its tedium is handed to us in a breath, so that what stands out is not the hardship but the steadiness, held without result for longer than nations last.",
-            "bn": "একটু পিছিয়ে দাঁড়ালে বিস্ময়টা হলো সংক্ষিপ্ততা। এক মানুষের ৯৫০ বছরের ধৈর্য, যার প্রতিটি ভোর ছিল নতুন প্রত্যাখ্যানের মুখে নতুন করে ডাক, ধরা হয়েছে ষোলোটি আরবি শব্দে। আয়াতটি প্রায় রুক্ষ। এই সংক্ষিপ্ততাই আসল কথা, এত দীর্ঘ এক জীবন যার একঘেয়েমি আমরা কল্পনাও করতে পারি না, তা আমাদের হাতে দেওয়া হয় এক নিঃশ্বাসে, যাতে চোখে পড়ে কষ্ট নয়, বরং সেই অবিচলতা, জাতির আয়ুর চেয়েও দীর্ঘ সময় ফল ছাড়াই ধরে রাখা।"
+            "bn": "একটু দূর থেকে দেখলে বিস্ময়ের জায়গা হলো সংক্ষেপটা। এক মানুষের ৯৫০ বছরের ধৈর্য, যার প্রতিটি ভোরে নতুন প্রত্যাখ্যানের জবাবে নতুন করে ডাক, ধরা হয়েছে মাত্র ষোলোটি আরবি শব্দে। আয়াতটি প্রায় কাটা কাটা। এই সংক্ষেপই আসল কথা। এত লম্বা জীবন, যার একঘেয়েমি আমরা কল্পনাও করতে পারি না, আমাদের সামনে আসে এক নিঃশ্বাসে। ফলে চোখে পড়ে কষ্ট নয়, বরং সেই অটলতা, যা কোনো ফল ছাড়াই টিকে ছিল অনেক জাতির আয়ুর চেয়েও বেশি সময়।"
           },
           {
             "en": "The surah had opened by asking whether people thought they would be left to say we believe and not be tested (29:2 and 29:3). Noah is the long answer. His task was the calling, faithfully kept; the harvest was never his to reckon, and he was not judged by it. For anyone worn down because the good they do seems to change nothing, the measure here is not the yield but the staying, and the timing of any fruit belongs to God.",
-            "bn": "সূরাটি শুরু হয়েছিল এই প্রশ্ন দিয়ে, মানুষ কি ভেবেছিল তারা শুধু আমরা ঈমান এনেছি বলেই ছাড় পেয়ে যাবে, পরীক্ষা ছাড়াই (২৯:২ ও ২৯:৩)। নূহ (আঃ) সেই প্রশ্নের দীর্ঘ জবাব। তাঁর কাজ ছিল বিশ্বস্তভাবে ডেকে যাওয়া, ফসল গোনা কখনো তাঁর দায় ছিল না, আর তা দিয়ে তাঁকে বিচারও করা হয়নি। যে কেউ ক্লান্ত, কারণ তার ভালো কাজ যেন কিছুই বদলাচ্ছে না, তার জন্য এখানে মাপকাঠি ফলন নয়, লেগে থাকা, আর যেকোনো ফলের সময় আল্লাহর হাতে।"
+            "bn": "সূরাটি শুরু হয়েছিল এই প্রশ্ন দিয়ে: মানুষ কি ভেবেছে, শুধু 'আমরা ঈমান এনেছি' বললেই তাদের ছেড়ে দেওয়া হবে, পরীক্ষা করা হবে না (২৯:২ ও ২৯:৩)? নূহ (আঃ) সেই প্রশ্নের দীর্ঘ জবাব। তাঁর কাজ ছিল বিশ্বস্তভাবে দাওয়াত দিয়ে যাওয়া; ফসল গোনা কখনো তাঁর দায় ছিল না, আর ফসল দিয়ে তাঁর বিচারও হয়নি। ভালো কাজ করেও কিছুই বদলাচ্ছে না দেখে যিনি ক্লান্ত হয়ে পড়েছেন, তাঁর জন্য এখানে মাপকাঠি ফলন নয়, লেগে থাকা; আর কবে কী ফল আসবে, তা আল্লাহর হাতে।"
           },
           {
             "en": "Ibn Umar drew a sober lesson from the number. Asked how long Noah stayed among his people, he gave the Qur'an's figure and then said that people have not ceased to decline, in their lifespans, in their understanding, and in their character, down to this very day. The long life was not only a measure of Noah's endurance; it marked an older and sturdier world than ours. Set beside it, our short spans ask to be spent with more care, not less, since so little is now given.",
-            "bn": "ইবন উমর সংখ্যাটা থেকে এক গম্ভীর শিক্ষা টেনেছেন। নূহ (আঃ) তাঁর সম্প্রদায়ের মাঝে কতকাল ছিলেন জিজ্ঞেস করা হলে তিনি কুরআনের সংখ্যাটা বলেন, তারপর বলেন, মানুষ কমতে কমতে চলেছে, তাদের আয়ুতে, তাদের বোধে আর তাদের চরিত্রে, এই আজকের দিন পর্যন্ত। দীর্ঘ জীবন শুধু নূহ (আঃ)-এর সহনশীলতার মাপ ছিল না, তা চিহ্নিত করত আমাদের চেয়ে পুরোনো আর মজবুত এক জগৎকে। তার পাশে রাখলে আমাদের ছোট আয়ু দাবি করে আরও যত্ন নিয়ে কাটানো, কম নয়, কারণ এখন এত অল্পই দেওয়া হয়।"
+            "bn": "ইবন উমর সংখ্যাটা থেকে এক গম্ভীর শিক্ষা নিয়েছেন। নূহ (আঃ) তাঁর সম্প্রদায়ের মাঝে কতকাল ছিলেন, জিজ্ঞেস করা হলে তিনি কুরআনের সংখ্যাটা বলেন, তারপর বলেন: মানুষ ক্রমেই কমে আসছে, আয়ুতে, বুদ্ধিতে আর চরিত্রে, আজকের দিন পর্যন্ত। সেই দীর্ঘ জীবন শুধু নূহ (আঃ)-এর সহ্যশক্তির মাপ ছিল না; তা আমাদের চেয়ে পুরোনো আর মজবুত এক জগতের চিহ্নও। তার পাশে রাখলে বোঝা যায়, আমাদের ছোট আয়ু আরও যত্ন করে কাটানো দরকার, অবহেলায় নয়; কারণ এখন হাতে সময় খুব অল্প।"
           }
         ]
       }
@@ -429,7 +429,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Travel and look at how He began creation; then Allah brings forth the final creation. The argument packed into that one sentence is simple and old. At-Tabari puts it plainly: as Allah brought things into being at the start, and originating them was not beyond Him, so bringing them back is not beyond Him either. Al-Muyassar gives the same reasoning in almost the same words. The first act is placed in front of the eyes precisely because it settles the question of the second.",
-            "bn": "ভ্রমণ কর আর দেখ তিনি কীভাবে সৃষ্টির সূচনা করেছেন, অতঃপর আল্লাহ পরবর্তী সৃষ্টি গড়ে তুলবেন। এই এক বাক্যে ভরে দেওয়া যুক্তিটা সহজ আর পুরনো। তাবারী সোজা কথায় বলেন, আল্লাহ যেমন শুরুতে সব কিছু অস্তিত্বে এনেছিলেন আর তা সূচনা করা তাঁর পক্ষে কঠিন ছিল না, তেমনি তা ফিরিয়ে আনাও তাঁর পক্ষে কঠিন নয়। মুয়াসসার প্রায় একই শব্দে একই যুক্তি দেয়। প্রথম কাজটা চোখের সামনে রাখা হয়েছে ঠিক এ কারণেই, কারণ তা দ্বিতীয়টার প্রশ্ন মীমাংসা করে দেয়।"
+            "bn": "ভ্রমণ কর আর দেখ তিনি কীভাবে সৃষ্টির সূচনা করেছেন, অতঃপর আল্লাহ পরবর্তী সৃষ্টি গড়ে তুলবেন। এই এক বাক্যে যে যুক্তি ভরা আছে, তা সহজ আর পুরনো। তাবারী সোজা কথায় বলেন, আল্লাহ যেমন শুরুতে সব কিছু অস্তিত্বে এনেছিলেন আর তা সূচনা করা তাঁর পক্ষে কঠিন ছিল না, তেমনি তা ফিরিয়ে আনাও তাঁর পক্ষে কঠিন নয়। মুয়াসসারও প্রায় একই শব্দে একই যুক্তি দেন। প্রথম কাজটা চোখের সামনে রাখা হয়েছে এ জন্যই যে, সেটাই দ্বিতীয়টার প্রশ্ন মিটিয়ে দেয়।"
           },
           {
             "en": "Ma'arif al-Qur'an sharpens the edge of it. The Makkans being addressed already granted that Allah had made the universe; what they denied was that He could do it again. Yet repeating a thing, Ma'arif notes, is easier than making it the first time, not harder. It is strange, it says, to concede the greater act and balk at the lesser. The verse does not ask them to believe something new. It asks them to be consistent with what they already believe.",
@@ -457,7 +457,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Both al-Qurtubi and al-Baghawi pause on a small point of recitation here. The Meccan reciter Ibn Kathir and Abu ʿAmr read the word as an-nashāʾa, the second syllable lengthened; the other reciters read an-nashʾa, shorter. Al-Baghawi likens the pair to al-raʾfa and al-raʾāfa, two forms of the one word. The meaning does not change between them. It is the kind of detail the commentators preserve because the text was received with care, down to the length of a single vowel.",
-            "bn": "কুরতুবী আর বাগাভী দুজনেই এখানে পড়ার একটা ছোট বিষয়ে থামেন। মক্কার ক্বারী ইবন কাসীর আর আবু আমর শব্দটি পড়েন আন-নাশাআ, দ্বিতীয় অক্ষরটি টেনে। অন্য ক্বারীরা পড়েন আন-নাশআ, ছোট করে। বাগাভী এ জোড়াটিকে তুলনা করেন আর-রাফা আর আর-রাআফার সঙ্গে, এক শব্দেরই দুই রূপ। এতে অর্থের কোনো বদল হয় না। এ ধরনের খুঁটিনাটি তাফসীরকারেরা রক্ষা করেন কারণ কুরআন গ্রহণ করা হয়েছে যত্নের সঙ্গে, এমনকি একটা স্বরের দৈর্ঘ্য পর্যন্ত।"
+            "bn": "কুরতুবী আর বাগাভী দুজনেই এখানে কিরাতের একটা ছোট বিষয়ে থামেন। মক্কার ক্বারী ইবন কাসীর আর আবু আমর শব্দটি পড়েন আন-নাশাআ, দ্বিতীয় অক্ষর টেনে; অন্য ক্বারীরা পড়েন আন-নাশআ, ছোট করে। বাগাভী এ জোড়াটিকে তুলনা করেন আর-রাফা আর আর-রাআফার সঙ্গে, যা একই শব্দের দুই রূপ। এতে অর্থের কোনো বদল হয় না। তাফসীরকারেরা এমন খুঁটিনাটিও সংরক্ষণ করেন, কারণ উম্মাহ কুরআনকে গ্রহণ করেছে পরম যত্নে, একটি স্বর কতখানি টানা হবে, সেটুকু পর্যন্ত।"
           }
         ]
       },
@@ -469,11 +469,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi opens the command to look in two directions at once. Look, he says, at how He began creation in all its multitude, the differences of forms, of tongues, of colours, of natures. The sheer variety of living things is half of the evidence. The maker of so many kinds, each coming to be in its own way, is plainly able to make them again.",
-            "bn": "কুরতুবী দেখার হুকুমটাকে একসঙ্গে দুই দিকে খুলে দেন। দেখ, তিনি বলেন, তিনি কীভাবে সৃষ্টির সূচনা করেছেন তার সমস্ত প্রাচুর্যে, আকৃতির ভিন্নতায়, ভাষার, রঙের আর স্বভাবের ভিন্নতায়। জীবন্ত জিনিসের এই বিপুল বৈচিত্র্য প্রমাণের এক অর্ধেক। এত রকমের সৃষ্টি যিনি বানান, প্রতিটি নিজের মতো করে অস্তিত্বে আসে, তিনি যে আবার বানাতে পারেন তা স্পষ্ট।"
+            "bn": "কুরতুবী দেখার হুকুমটাকে একসঙ্গে দুই দিকে খুলে দেন। তিনি বলেন, দেখ, তিনি কীভাবে সৃষ্টির সূচনা করেছেন তার সব বৈচিত্র্য নিয়ে: আকৃতির ভিন্নতা, ভাষার, রঙের আর স্বভাবের ভিন্নতা। জীবজগতের এই বিপুল বৈচিত্র্য প্রমাণের অর্ধেক। যিনি এত রকমের সৃষ্টি বানিয়েছেন, যার প্রতিটি অস্তিত্বে আসে নিজের ধরনে, তিনি যে আবারও বানাতে পারেন, তা তো স্পষ্ট।"
           },
           {
             "en": "Then al-Qurtubi turns the gaze elsewhere: look at the dwellings of the generations that have passed, their homes and their traces, how He destroyed them, so that by this you may know the perfection of Allah's power. Al-Baghawi reads the verse the same way, telling the reader to look at their dwellings and their ruins. The command to see how creation began takes in the broken walls of the dead as readily as the newborn and the sprouting field.",
-            "bn": "এরপর কুরতুবী দৃষ্টি ঘুরিয়ে দেন অন্যদিকে: দেখ অতীত প্রজন্মের বাসস্থান, তাদের ঘরবাড়ি আর চিহ্ন, তিনি কীভাবে তাদের ধ্বংস করেছেন, যেন এর মধ্য দিয়ে তোমরা আল্লাহর ক্ষমতার পূর্ণতা জানতে পার। বাগাভী আয়াতটি একইভাবে পড়েন, পাঠককে বলেন তাদের বাসস্থান আর ধ্বংসস্তূপের দিকে তাকাতে। সৃষ্টি কীভাবে শুরু হলো তা দেখার হুকুম নবজাতক আর গজিয়ে ওঠা ফসলের মতো সহজেই মৃতদের ভাঙা দেয়ালকেও ধরে নেয়।"
+            "bn": "এরপর কুরতুবী দৃষ্টি ঘুরিয়ে দেন অন্যদিকে: দেখ অতীত প্রজন্মগুলোর বাসস্থান, তাদের ঘরবাড়ি আর চিহ্ন, তিনি কীভাবে তাদের ধ্বংস করেছেন, যেন এর মধ্য দিয়ে তোমরা আল্লাহর ক্ষমতার পূর্ণতা জানতে পার। বাগাভীও আয়াতটি একইভাবে পড়েন, পাঠককে বলেন তাদের বাসস্থান আর ধ্বংসাবশেষের দিকে তাকাতে। সৃষ্টির শুরু দেখার এই হুকুমে যেমন আছে নবজাতক শিশু আর গজিয়ে ওঠা ফসল, তেমনি আছে মৃতদের ভাঙা দেয়ালও।"
           },
           {
             "en": "So the looking the verse asks for has both a living face and a ruined one. The living world shows a power still at work; the ruins show that power bringing things to an end and able to begin them over. Some commentators heard in \"how creation began\" an invitation to read the earth itself, its layered remains and old settlements. The verse does not spell out a method. It tells the eye where to turn and trusts it to draw the conclusion.",
@@ -521,11 +521,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is tempting to press this verse into service as a proof for whatever a given age finds impressive, and to read \"see how He began creation\" as a licence to make the Qur'an predict the findings of a laboratory. The commentators do not go there. They point to what any traveller could see in their own day: the spread of living kinds, the ruins of vanished peoples, the turn of sleep into waking. The looking is real, but it is looking, not a theory to be defended.",
-            "bn": "এ আয়াতকে টেনে এনে যে যুগ যা দেখে চমকপ্রদ তারই প্রমাণ বানিয়ে ফেলা, আর 'দেখ তিনি কীভাবে সৃষ্টি শুরু করেছেন' কথাটাকে ল্যাবরেটরির আবিষ্কার কুরআন আগেই বলে দিয়েছে বলে পড়ার লোভ হয়। তাফসীরকারেরা সেদিকে যান না। তারা দেখান যা যেকোনো পথিক তাদের নিজের যুগেই দেখতে পেত: জীবন্ত প্রজাতির ছড়িয়ে পড়া, বিলীন জাতিদের ধ্বংসস্তূপ, ঘুম থেকে জেগে ওঠার পালা। দেখাটা সত্যি, তবে তা দেখাই, কোনো তত্ত্ব নয় যা আঁকড়ে রাখতে হবে।"
+            "bn": "লোভ হয় আয়াতটাকে টেনে এনে প্রতিটি যুগে যা চমক জাগায় তারই প্রমাণ বানিয়ে ফেলতে, আর 'দেখ তিনি কীভাবে সৃষ্টি শুরু করেছেন' কথাটা পড়ে বলে দিতে যে ল্যাবরেটরির আবিষ্কার কুরআন আগেই বলে দিয়েছে। তাফসীরকারেরা সে পথে যান না। তাঁরা দেখান সেসব জিনিস, যা যেকোনো পথিক নিজের যুগেই দেখতে পেত: নানা রকম প্রাণীর ছড়িয়ে থাকা, হারিয়ে যাওয়া জাতিদের ধ্বংসস্তূপ, ঘুম থেকে জেগে ওঠার পালা। দেখাটা সত্যিকারের, তবে তা দেখাই; আঁকড়ে ধরে রক্ষা করার মতো কোনো তত্ত্ব নয়।"
           },
           {
             "en": "What the verse asks is humbler and harder than proof-texting. It asks a person to go and attend to the world as a made thing, and to let the plain fact of its beginning speak to the question of its end. Ibn Kathir, in his English commentary, lists what there is to contemplate: the heavens with their stars, the earth with its mountains and valleys, its trees and rivers and seas, all of it pointing back to a Maker who says to a thing be, and it is. The discipline is attention, not cleverness.",
-            "bn": "আয়াত যা চায় তা প্রমাণ খুঁজে বেড়ানোর চেয়ে নম্র, আবার কঠিনও। তা মানুষকে বলে গিয়ে পৃথিবীকে একটা বানানো জিনিস হিসেবে মন দিয়ে দেখতে, আর তার শুরু হওয়ার সাদামাটা সত্যটাকে তার শেষের প্রশ্নে কথা বলতে দিতে। ইবন কাসীর তাঁর ইংরেজি তাফসীরে সাজিয়ে দেন কী কী ভেবে দেখার আছে: তারকাভরা আকাশ, পাহাড় আর উপত্যকার পৃথিবী, তার গাছ, নদী আর সাগর, সবই ইঙ্গিত করে এমন এক স্রষ্টার দিকে যিনি কোনো জিনিসকে বলেন হও, আর তা হয়ে যায়। শৃঙ্খলাটা মনোযোগের, চালাকির নয়।"
+            "bn": "আয়াত যা চায়, তা প্রমাণের জন্য আয়াত খুঁজে বেড়ানোর চেয়ে বিনয়ী কাজ, আবার কঠিনও। আয়াত চায়, মানুষ বেরিয়ে পড়ুক, দুনিয়াকে একটা বানানো জিনিস হিসেবে মন দিয়ে দেখুক, আর দুনিয়ার যে একটা শুরু ছিল, এই সাদামাটা সত্য থেকেই বুঝে নিক তার শেষের কথা। ইবন কাসীর (তাঁর তাফসীরের ইংরেজি সংস্করণে) সাজিয়ে দেন কী কী ভেবে দেখার আছে: তারকাভরা আকাশ, পাহাড় আর উপত্যকার পৃথিবী, তার গাছপালা, নদী আর সাগর। এ সবই ইঙ্গিত করে এমন এক স্রষ্টার দিকে, যিনি কোনো কিছুকে বলেন হও, আর তা হয়ে যায়। এখানে সাধনা হলো মনোযোগ, চালাকি নয়।"
           }
         ]
       },
@@ -537,11 +537,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes: indeed Allah is competent over all things. At-Tabari reads the power here as the power to bring back the whole of creation after its passing, just as it was before, and to do whatever else He wills; nothing He intends defeats Him. As-Sa'di draws the lesser-from-greater once more: since that power was equal to the first creation, it is all the more equal to the second. The ending is not decoration. It is the premise the whole argument rested on.",
-            "bn": "আয়াত শেষ হয়: নিশ্চয় আল্লাহ সব কিছুর উপর ক্ষমতাবান। তাবারী এখানে এই ক্ষমতাকে পড়েন গোটা সৃষ্টিকে তার বিলয়ের পর আবার ফিরিয়ে আনার ক্ষমতা হিসেবে, ঠিক যেমন তা আগে ছিল, আর তিনি যা চান তা-ও করার ক্ষমতা; তিনি যা ইচ্ছা করেন কোনো কিছুই তাঁকে হারাতে পারে না। সাদী আবারও সেই বড় থেকে ছোটর যুক্তি টানেন: সেই ক্ষমতা যখন প্রথম সৃষ্টির সমান ছিল, দ্বিতীয়টার জন্য তা আরও বেশি করে যথেষ্ট। এই শেষ অংশটা সাজসজ্জা নয়। গোটা যুক্তি যার উপর দাঁড়িয়ে ছিল এটাই সেই ভিত্তি।"
+            "bn": "আয়াত শেষ হয়: নিশ্চয় আল্লাহ সব কিছুর উপর ক্ষমতাবান। তাবারী এখানে এই ক্ষমতাকে পড়েন গোটা সৃষ্টিকে তার বিলয়ের পর আবার ঠিক আগের মতো ফিরিয়ে আনার ক্ষমতা হিসেবে, আর তিনি যা চান তা-ই করার ক্ষমতা হিসেবে; তিনি কিছু চাইলে কোনো কিছুই তাঁকে ঠেকাতে পারে না। সাদী আবারও বড় থেকে ছোটর যুক্তি টানেন: যে ক্ষমতা প্রথম সৃষ্টির জন্য যথেষ্ট ছিল, দ্বিতীয়টির জন্য তা তো আরও বেশি যথেষ্ট। এই শেষ বাক্যটি সাজসজ্জা নয়। গোটা যুক্তি এরই ওপর দাঁড়িয়ে ছিল।"
           },
           {
             "en": "For anyone who takes the command seriously, the order of the verse is also an order for the heart. First the feet move and the eyes open; then the mind concedes what it has seen; then certainty about the last day settles in, carried not by argument alone but by a world full of beginnings. The resurrection stops being a doctrine to assent to and becomes something the earth has been showing all along. Travel, look, and let the first creation teach you the last.",
-            "bn": "যে মানুষ হুকুমটাকে গুরুত্বে নেয়, তার জন্য আয়াতের ক্রমটাও অন্তরের জন্য এক ক্রম। প্রথমে পা চলে আর চোখ খোলে, তারপর মন যা দেখেছে তা মেনে নেয়, তারপর শেষ দিন নিয়ে নিশ্চয়তা থিতু হয়, শুধু যুক্তির জোরে নয়, শুরুতে ভরা এক পৃথিবীর হাত ধরে। পুনরুত্থান তখন আর মেনে নেওয়ার মতবাদ থাকে না, হয়ে ওঠে এমন কিছু যা পৃথিবী এতকাল ধরে দেখিয়ে আসছিল। ভ্রমণ কর, দেখ, আর প্রথম সৃষ্টিকে শেষ সৃষ্টির পাঠ দিতে দাও।"
+            "bn": "যে হুকুমটাকে সত্যিই গুরুত্ব দেয়, তার জন্য আয়াতের এই ধাপগুলো অন্তরেরও ধাপ। আগে পা চলে, চোখ খোলে; তারপর মন যা দেখেছে তা মেনে নেয়; তারপর শেষ দিনের ব্যাপারে ইয়াকিন জমে বসে। সে ইয়াকিন শুধু যুক্তির জোরে আসে না, আসে চারপাশে অসংখ্য শুরু দেখে দেখে। পুনরুত্থান তখন আর শুধু মেনে নেওয়ার মতো একটা আকিদা থাকে না; হয়ে ওঠে এমন কিছু, যা পৃথিবী এতদিন ধরে চোখের সামনে দেখিয়ে আসছে। তাই বেরিয়ে পড়ুন, দেখুন, আর প্রথম সৃষ্টির কাছ থেকেই শেষ সৃষ্টির পাঠ নিন।"
           }
         ]
       }
