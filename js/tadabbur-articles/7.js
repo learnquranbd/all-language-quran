@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-A'raf is Makkan, the seventh surah, and a long one at two hundred and six verses. It opens with Alif Lam Mim Sad, four letters that head no other surah in the Quran. On the disjointed letters at-Tabari collects several early opinions and settles none of them, and a large body of the commentators hold that what they fully mean rests with Allah. Then 7:2 names what follows them. A Book sent down to you. Before any argument, any story, any ruling, the surah says what it is.",
-            "bn": "সূরা আল-আ'রাফ মাক্কী, কুরআনের সপ্তম সূরা, দুইশ ছয় আয়াতের লম্বা সূরা। শুরু হয় আলিফ লাম মীম সাদ দিয়ে, আর এই চার হরফ দিয়ে কুরআনের আর কোনো সূরা শুরু হয়নি। বিচ্ছিন্ন হরফগুলো নিয়ে ইমাম তাবারী আগের যুগের কয়েকটি মত জড়ো করেন, কোনোটিকেই চূড়ান্ত বলেন না। মুফাসসিরদের বড় একটা দল বলেন, এগুলোর পুরো মর্ম আল্লাহর কাছেই। এরপর ৭:২ আয়াত বলে দেয় এই হরফগুলোর পরে কী আসছে। কিতাব, তোমার উপর নাযিল করা। কোনো তর্ক, কোনো কাহিনি, কোনো বিধান আসার আগে সূরা নিজের পরিচয়টাই দিয়ে নেয়।"
+            "bn": "সূরা আল-আ'রাফ মাক্কী, কুরআনের সপ্তম সূরা, দুইশ ছয় আয়াতের লম্বা সূরা। শুরু হয় আলিফ লাম মীম সাদ দিয়ে, আর এই চার হরফ দিয়ে কুরআনের আর কোনো সূরা শুরু হয়নি। বিচ্ছিন্ন হরফগুলো নিয়ে ইমাম তাবারী আগের যুগের কয়েকটি মত জড়ো করেন, কোনোটিকেই চূড়ান্ত বলেন না। মুফাসসিরদের বড় একটা দল বলেন, এগুলোর পুরো মর্ম আল্লাহর কাছেই। এরপর ৭:২ আয়াত বলে দেয় এই হরফগুলোর পরে কী আসছে। কিতাব, তোমার উপর নাজিল করা। কোনো তর্ক, কোনো কাহিনি, কোনো বিধান আসার আগে সূরা নিজের পরিচয়টাই দিয়ে নেয়।"
           },
           {
             "en": "Then comes the sequence. 7:3 turns from the Prophet to everyone and commands following what came down from their Lord, taking no protectors besides Him. 7:4 and 7:5 recall towns ruined at night or during their midday rest, whose whole answer when the punishment arrived was that they had been wrongdoers. 7:6 through 7:9 promise a questioning of nations and messengers alike, and a weighing on that Day that is true. No sound report is transmitted as an occasion of revelation here, so the placement is the context, and what is settled first is not the deniers but the inside of the chest of the man who must carry this.",
@@ -149,7 +149,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Keep it for any morning with something difficult in it: a conversation you have been avoiding, a correction you owe someone, a class to teach, a stand to take at work. Ask first for the chest and then for the task. A short supplication in the verse's own wording, offered as nothing more than that, can carry the rest: my Lord, this is Your Book, so let it not press upon me, and let me warn by it and be reminded by it.",
-            "bn": "কঠিন কিছু আছে এমন যেকোনো সকালের জন্য এই দু'আটা রেখে দিন। যে কথাটা এড়িয়ে যাচ্ছেন, যাকে ভুল ধরিয়ে দেওয়ার কথা, যে ক্লাসটা পড়াতে হবে, অফিসে যে অবস্থানটা নিতে হবে। আগে বুকের জন্য চান, তারপর কাজের জন্য। আয়াতের নিজের শব্দ দিয়ে ছোট একটা মুনাজাতও বাকিটা বইতে পারে, আর এটা কেবল সেটুকুই, হাদীসের কোনো দু'আ নয়: হে আমার রব, এটা আপনার কিতাব, এটা যেন আমার উপর চাপ হয়ে না বসে, আমি যেন এর দ্বারা সতর্ক করি আর এর দ্বারা নসিহত পাই।"
+            "bn": "কঠিন কিছু আছে এমন যেকোনো সকালের জন্য এই দু'আটা রেখে দিন। যে কথাটা এড়িয়ে যাচ্ছেন, যাকে ভুল ধরিয়ে দেওয়ার কথা, যে ক্লাসটা পড়াতে হবে, অফিসে যে অবস্থানটা নিতে হবে। আগে বুকের জন্য চান, তারপর কাজের জন্য। আয়াতের নিজের শব্দ দিয়ে ছোট একটা মুনাজাতও বাকিটা বইতে পারে, আর এটা কেবল সেটুকুই, হাদিসের কোনো দু'আ নয়: হে আমার রব, এটা আপনার কিতাব, এটা যেন আমার উপর চাপ হয়ে না বসে, আমি যেন এর দ্বারা সতর্ক করি আর এর দ্বারা নসিহত পাই।"
           }
         ]
       },
@@ -749,7 +749,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "How do you dress for prayer at home, and how would you dress to meet someone whose good opinion you wanted? If the difference is large, what does the difference say? Where does your own excess actually sit, and would the people who live with you name the same place you just did? What have you quietly treated as forbidden that Allah made lawful, and what made that feel safer?",
-            "bn": "ঘরে নামাযের জন্য আপনি কেমন পোশাক পরেন, আর যার সুনজর আপনি চান এমন কারো সঙ্গে দেখা করতে কেমন পরতেন? তফাতটা বড় হলে সেই তফাত কী বলে? আপনার নিজের বাড়াবাড়িটা আসলে কোথায় বসে আছে, আর যাঁরা আপনার সঙ্গে থাকেন তাঁরা কি সেই একই জায়গার নাম বলতেন? আল্লাহ হালাল করেছেন এমন কোন জিনিসকে আপনি চুপচাপ হারামের মতো রেখেছেন, আর সেটা করতে বেশি নিরাপদ মনে হলো কেন?"
+            "bn": "ঘরে নামাজের জন্য আপনি কেমন পোশাক পরেন, আর যার সুনজর আপনি চান এমন কারো সঙ্গে দেখা করতে কেমন পরতেন? তফাতটা বড় হলে সেই তফাত কী বলে? আপনার নিজের বাড়াবাড়িটা আসলে কোথায় বসে আছে, আর যাঁরা আপনার সঙ্গে থাকেন তাঁরা কি সেই একই জায়গার নাম বলতেন? আল্লাহ হালাল করেছেন এমন কোন জিনিসকে আপনি চুপচাপ হারামের মতো রেখেছেন, আর সেটা করতে বেশি নিরাপদ মনে হলো কেন?"
           },
           {
             "en": "The verse ends with a love withheld rather than a punishment threatened. Does that reach you differently, and if it does, what does that tell you about how you have been hearing the rest of the commands? And if the third, the third and the third were kept for a week, what in your day would have to change to make room for it?",
@@ -836,12 +836,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Narrations Beside It",
-          "bn": "পাশে দুটি হাদীস"
+          "bn": "পাশে দুটি হাদিস"
         },
         "p": [
           {
             "en": "Al-Bukhari records from Abu Sa'id al-Khudri (RA) that the Prophet ﷺ said the believers, once delivered from the Fire, are detained on a bridge between the Garden and the Fire, where they are settled with one another for the wrongs done between them in the world, until, when they are cleansed and purified, they are given permission to enter the Garden. The verse says the breasts are emptied. The narration says where and when.",
-            "bn": "আল-বুখারী আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, মুমিনরা আগুন থেকে রক্ষা পাওয়ার পর জান্নাত ও জাহান্নামের মাঝখানে এক সেতুর উপর আটকে থাকবে। সেখানে দুনিয়ায় একে অন্যের প্রতি করা যুলুমের হিসাব চুকিয়ে দেওয়া হবে। এরপর যখন তারা পরিষ্কার ও পবিত্র হয়ে যাবে, তখনই তাদের জান্নাতে ঢোকার অনুমতি দেওয়া হবে। আয়াত বলে বুক খালি করে দেওয়া হয়। হাদীস বলে কোথায় আর কখন।"
+            "bn": "আল-বুখারী আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, মুমিনরা আগুন থেকে রক্ষা পাওয়ার পর জান্নাত ও জাহান্নামের মাঝখানে এক সেতুর উপর আটকে থাকবে। সেখানে দুনিয়ায় একে অন্যের প্রতি করা যুলুমের হিসাব চুকিয়ে দেওয়া হবে। এরপর যখন তারা পরিষ্কার ও পবিত্র হয়ে যাবে, তখনই তাদের জান্নাতে ঢোকার অনুমতি দেওয়া হবে। আয়াত বলে বুক খালি করে দেওয়া হয়। হাদিস বলে কোথায় আর কখন।"
           },
           {
             "en": "Al-Bukhari and Muslim both record from Abu Hurayrah (RA) that the Prophet ﷺ said none of you will be admitted to the Garden by his deed. They asked whether that included him, and he said not even him, unless Allah should cover him with mercy from Himself. Set beside the announcement at the end of 7:43, that you have been made to inherit it for what you used to do, the two look opposed until the preposition is read carefully.",
@@ -849,7 +849,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The classical resolution turns on which ba' is meant. Deeds are the cause Allah appointed for entry, which is what the verse states; they are not a price that buys the Garden at its true worth, which is what the narration denies. The verse makes the point before any commentator does, since the very people told they inherited it for what they did are the ones who say they would never have been guided at all.",
-            "bn": "পুরনো মুফাসসিরদের সমাধান দাঁড়িয়ে আছে এই প্রশ্নে, 'বি' অক্ষরটা কোন অর্থে। আমল হলো সেই কারণ যা আল্লাহ প্রবেশের জন্য ঠিক করে দিয়েছেন, আয়াত এটাই বলছে। আমল জান্নাতের পুরো দাম নয় যা দিয়ে জান্নাত কেনা যায়, হাদীস এটাই অস্বীকার করছে। কোনো মুফাসসির বলার আগেই আয়াতটি নিজেই কথাটা বলে দেয়, কারণ যাদের বলা হচ্ছে আমলের ফলে তোমরা উত্তরাধিকারী হয়েছ, তাঁরাই বলছেন আল্লাহ না দেখালে তাঁরা পথই পেতেন না।"
+            "bn": "পুরনো মুফাসসিরদের সমাধান দাঁড়িয়ে আছে এই প্রশ্নে, 'বি' অক্ষরটা কোন অর্থে। আমল হলো সেই কারণ যা আল্লাহ প্রবেশের জন্য ঠিক করে দিয়েছেন, আয়াত এটাই বলছে। আমল জান্নাতের পুরো দাম নয় যা দিয়ে জান্নাত কেনা যায়, হাদিস এটাই অস্বীকার করছে। কোনো মুফাসসির বলার আগেই আয়াতটি নিজেই কথাটা বলে দেয়, কারণ যাদের বলা হচ্ছে আমলের ফলে তোমরা উত্তরাধিকারী হয়েছ, তাঁরাই বলছেন আল্লাহ না দেখালে তাঁরা পথই পেতেন না।"
           }
         ]
       },
@@ -865,7 +865,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two more are worth hearing. 35:34 has them saying praise to Allah who removed sorrow from us, which names a second thing lifted off them at the gate. And 7:53, ten verses after ours in this same surah, puts the Garden's own sentence into the mouths of the others, who say the messengers of our Lord came with the truth while asking to be sent back. The same admission is made twice in one surah, once in gratitude and once far too late.",
-            "bn": "আরও দুটি শোনার মতো। ৩৫:৩৪ আয়াতে তাঁরা বলেন, সব প্রশংসা আল্লাহর যিনি আমাদের থেকে দুঃখ দূর করে দিয়েছেন; দরজায় তাঁদের কাঁধ থেকে নামানো দ্বিতীয় জিনিসটার নাম এখানে বলা হলো। আর এই সূরারই ৭:৫৩ আয়াত, আমাদের আয়াত থেকে দশ আয়াত পরে, জান্নাতবাসীদের বাক্যটাই তুলে দেয় অন্যদের মুখে। তারাও বলে, আমাদের প্রতিপালকের রসূলগণ সত্য নিয়েই এসেছিলেন, আর সঙ্গে সঙ্গে ফিরে যাওয়ার আবেদন করে। এক সূরায় একই স্বীকারোক্তি দুবার, একবার কৃতজ্ঞতায় আর একবার অনেক দেরিতে।"
+            "bn": "আরও দুটি শোনার মতো। ৩৫:৩৪ আয়াতে তাঁরা বলেন, সব প্রশংসা আল্লাহর যিনি আমাদের থেকে দুঃখ দূর করে দিয়েছেন; দরজায় তাঁদের কাঁধ থেকে নামানো দ্বিতীয় জিনিসটার নাম এখানে বলা হলো। আর এই সূরারই ৭:৫৩ আয়াত, আমাদের আয়াত থেকে দশ আয়াত পরে, জান্নাতবাসীদের বাক্যটাই তুলে দেয় অন্যদের মুখে। তারাও বলে, আমাদের প্রতিপালকের রাসূলগণ সত্য নিয়েই এসেছিলেন, আর সঙ্গে সঙ্গে ফিরে যাওয়ার আবেদন করে। এক সূরায় একই স্বীকারোক্তি দুবার, একবার কৃতজ্ঞতায় আর একবার অনেক দেরিতে।"
           }
         ]
       },
@@ -877,7 +877,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Take the capacity clause first, because it is the one most often misused. It does not promise that life will never feel heavy; it says that what Allah obliges you to do fits inside what you are able to do. So when a duty feels impossible, the verse hands you a question rather than an excuse. Is this beyond my capacity, or beyond my current habit? The honest answer is usually available within a minute of asking it.",
-            "bn": "আগে সাধ্যের কথাটা ধরুন, কারণ এটারই ভুল ব্যবহার হয় সবচেয়ে বেশি। এই কথা এমন ওয়াদা করে না যে জীবন কখনো ভারী লাগবে না। এটা বলে, আল্লাহ যা ফরয করেছেন তা আপনার সামর্থ্যের ভেতরেই ধরে। তাই কোনো দায়িত্ব অসম্ভব মনে হলে আয়াতটি আপনার হাতে অজুহাত নয়, একটা প্রশ্ন ধরিয়ে দেয়। এটা কি সত্যিই আমার সাধ্যের বাইরে, নাকি কেবল আমার চলতি অভ্যাসের বাইরে? সৎ জবাবটা সাধারণত প্রশ্ন করার এক মিনিটের মধ্যেই হাতে আসে।"
+            "bn": "আগে সাধ্যের কথাটা ধরুন, কারণ এটারই ভুল ব্যবহার হয় সবচেয়ে বেশি। এই কথা এমন ওয়াদা করে না যে জীবন কখনো ভারী লাগবে না। এটা বলে, আল্লাহ যা ফরজ করেছেন তা আপনার সামর্থ্যের ভেতরেই ধরে। তাই কোনো দায়িত্ব অসম্ভব মনে হলে আয়াতটি আপনার হাতে অজুহাত নয়, একটা প্রশ্ন ধরিয়ে দেয়। এটা কি সত্যিই আমার সাধ্যের বাইরে, নাকি কেবল আমার চলতি অভ্যাসের বাইরে? সৎ জবাবটা সাধারণত প্রশ্ন করার এক মিনিটের মধ্যেই হাতে আসে।"
           },
           {
             "en": "Then take the ghill, and notice that the verse treats it as cargo rather than as a mood. Cargo can be listed. Most people carrying a grudge can name the person in a second, which means the work here is not discovery but decision. Clearing it may be a message sent, a debt written off, or a du'a made by name for someone you would rather not pray for. The Garden is described as a place where none of this is still being carried.",
@@ -961,7 +961,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Thumma istawa 'ala al-'arsh: then He established Himself above the Throne. At-Tabari glosses istawa here with 'ala and irtafa'a, rose high over it. The earliest generations affirmed the wording exactly as revealed, declined to ask how, and refused to substitute an image borrowed from the thrones they had seen. The same discipline governs 57:4, which carries this clause and then says He is with you wherever you are, and 2:255, where the Kursi is affirmed without being pictured.",
-            "bn": "সুম্মাসতাওয়া আলাল আরশ: অতঃপর তিনি আরশে সমুন্নত হয়েছেন। আত-তাবারী এখানে ইস্তাওয়ার অর্থ করেন আলা ও ইরতাফাআ দিয়ে, অর্থাৎ উপরে সমুন্নত হওয়া। প্রথম যুগের মুসলিমরা শব্দটাকে যেমন নাযিল হয়েছে ঠিক তেমনই মেনে নিয়েছেন, কীভাবে সেই প্রশ্ন তোলেননি, আর নিজেদের দেখা সিংহাসনের ছবি এর জায়গায় বসাতে রাজি হননি। একই নিয়ম চলে ৫৭:৪ আয়াতেও, যেখানে এই কথাটির পরই বলা হয় তিনি তোমাদের সঙ্গে আছেন যেখানেই তোমরা থাকো; আর ২:২৫৫ আয়াতেও, যেখানে কুরসী মানা হয় কোনো ছবি না এঁকেই।"
+            "bn": "সুম্মাসতাওয়া আলাল আরশ: অতঃপর তিনি আরশে সমুন্নত হয়েছেন। আত-তাবারী এখানে ইস্তাওয়ার অর্থ করেন আলা ও ইরতাফাআ দিয়ে, অর্থাৎ উপরে সমুন্নত হওয়া। প্রথম যুগের মুসলিমরা শব্দটাকে যেমন নাজিল হয়েছে ঠিক তেমনই মেনে নিয়েছেন, কীভাবে সেই প্রশ্ন তোলেননি, আর নিজেদের দেখা সিংহাসনের ছবি এর জায়গায় বসাতে রাজি হননি। একই নিয়ম চলে ৫৭:৪ আয়াতেও, যেখানে এই কথাটির পরই বলা হয় তিনি তোমাদের সঙ্গে আছেন যেখানেই তোমরা থাকো; আর ২:২৫৫ আয়াতেও, যেখানে কুরসী মানা হয় কোনো ছবি না এঁকেই।"
           },
           {
             "en": "Notice where the Throne is placed in the sentence. It comes before the night, before the sun, the moon and the stars, so the reader is given the height first and the working parts afterwards. 11:7 adds one detail this verse withholds, that His Throne had been upon water before the heavens and the earth were made. The Quran says just enough on this subject to establish majesty, and it stops at precisely the point where curiosity would like it to continue.",
@@ -1008,16 +1008,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Narration About the Sun",
-          "bn": "সূর্য নিয়ে একটি হাদীস"
+          "bn": "সূর্য নিয়ে একটি হাদিস"
         },
         "p": [
           {
             "en": "Al-Bukhari and Muslim both record from Abu Dharr (RA) that the Prophet ﷺ asked him at sunset whether he knew where the sun goes. Abu Dharr (RA) said that Allah and His Messenger ﷺ know best. He was told that it travels until it prostrates beneath the Throne, then asks permission and is given permission, and that a day is coming when it will ask and not be permitted, and will be told to return from where it came.",
-            "bn": "আল-বুখারী ও মুসলিম দুজনেই আবূ যার (রাঃ) থেকে বর্ণনা করেন, সূর্যাস্তের সময় নবী ﷺ তাঁকে জিজ্ঞেস করেছিলেন, তিনি জানেন কি সূর্য কোথায় যায়। আবূ যার (রাঃ) বললেন, আল্লাহ ও তাঁর রসূল ﷺ ভালো জানেন। তখন তাঁকে জানানো হলো, সূর্য চলতে চলতে আরশের নিচে গিয়ে সিজদায় পড়ে, তারপর অনুমতি চায় আর অনুমতি পায়। আরও জানানো হলো, এমন এক দিন আসছে যেদিন সে অনুমতি চাইবে কিন্তু পাবে না, বরং তাকে বলা হবে যেখান থেকে এসেছ সেখানেই ফিরে যাও।"
+            "bn": "আল-বুখারী ও মুসলিম দুজনেই আবূ যার (রাঃ) থেকে বর্ণনা করেন, সূর্যাস্তের সময় নবী ﷺ তাঁকে জিজ্ঞেস করেছিলেন, তিনি জানেন কি সূর্য কোথায় যায়। আবূ যার (রাঃ) বললেন, আল্লাহ ও তাঁর রাসূল ﷺ ভালো জানেন। তখন তাঁকে জানানো হলো, সূর্য চলতে চলতে আরশের নিচে গিয়ে সিজদায় পড়ে, তারপর অনুমতি চায় আর অনুমতি পায়। আরও জানানো হলো, এমন এক দিন আসছে যেদিন সে অনুমতি চাইবে কিন্তু পাবে না, বরং তাকে বলা হবে যেখান থেকে এসেছ সেখানেই ফিরে যাও।"
           },
           {
             "en": "The narration was given with 36:38 recited alongside it, the sun runs toward its stopping point, that is the determination of the Exalted in Might, the Knowing. Two things in it bear directly on our verse. The Throne named in 7:54 appears again as the place everything reports to, and the subjection of the sun turns out to be permission renewed rather than a law running by itself. Musakhkharatin bi-amrih is not a description of machinery. It is a description of obedience.",
-            "bn": "এই হাদীসের সঙ্গে তিলাওয়াত করা হয়েছিল ৩৬:৩৮ আয়াত, সূর্য চলছে তার নির্ধারিত অবস্থানের দিকে, এটাই মহাপরাক্রমশালী সর্বজ্ঞের নির্ধারণ। এর দুটি দিক সরাসরি আমাদের আয়াতের সঙ্গে জড়িত। ৭:৫৪ আয়াতে যে আরশের নাম এসেছে, এখানে সেটাই সেই জায়গা যেখানে সবকিছুকে হাজিরা দিতে হয়। আর সূর্যের অধীনতা দাঁড়ায় বারবার নেওয়া অনুমতি হিসেবে, নিজে নিজে চলতে থাকা কোনো নিয়ম হিসেবে নয়। মুসাখখারাতিম বিআমরিহি যন্ত্রের বর্ণনা নয়। এটা আনুগত্যের বর্ণনা।"
+            "bn": "এই হাদিসের সঙ্গে তিলাওয়াত করা হয়েছিল ৩৬:৩৮ আয়াত, সূর্য চলছে তার নির্ধারিত অবস্থানের দিকে, এটাই মহাপরাক্রমশালী সর্বজ্ঞের নির্ধারণ। এর দুটি দিক সরাসরি আমাদের আয়াতের সঙ্গে জড়িত। ৭:৫৪ আয়াতে যে আরশের নাম এসেছে, এখানে সেটাই সেই জায়গা যেখানে সবকিছুকে হাজিরা দিতে হয়। আর সূর্যের অধীনতা দাঁড়ায় বারবার নেওয়া অনুমতি হিসেবে, নিজে নিজে চলতে থাকা কোনো নিয়ম হিসেবে নয়। মুসাখখারাতিম বিআমরিহি যন্ত্রের বর্ণনা নয়। এটা আনুগত্যের বর্ণনা।"
           }
         ]
       },
@@ -1309,7 +1309,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Four messengers in this surah open with one sentence, and 21:25 says no messenger was ever sent with a different one. If somebody who has watched me for ten years had to name the one thing I am for, would they name that sentence, or would they name a position I hold on something much smaller? Hud (AS) reached the idols only in 7:71, after his people raised them themselves. What am I raising first that could have waited?",
-            "bn": "এই সূরার চারজন রসূল শুরু করেন একই বাক্য দিয়ে, আর ২১:২৫ আয়াত বলে দেয়, এর চেয়ে আলাদা কথা নিয়ে কোনো রসূলকে কখনো পাঠানোই হয়নি। দশ বছর ধরে আমাকে দেখছে এমন কাউকে যদি বলতে হতো আমি আসলে কীসের পক্ষে, সে কি ওই বাক্যটার নাম নিত, নাকি অনেক ছোট কোনো বিষয়ে আমার একটা অবস্থানের নাম নিত? হূদ (আঃ) মূর্তির প্রসঙ্গে যান ৭:৭১ আয়াতে গিয়ে, জাতি নিজেরা কথাটা তোলার পরে। আমি কোন কথাটা আগেভাগে তুলছি, যেটা আসলে অপেক্ষা করতে পারত?"
+            "bn": "এই সূরার চারজন রাসূল শুরু করেন একই বাক্য দিয়ে, আর ২১:২৫ আয়াত বলে দেয়, এর চেয়ে আলাদা কথা নিয়ে কোনো রাসূলকে কখনো পাঠানোই হয়নি। দশ বছর ধরে আমাকে দেখছে এমন কাউকে যদি বলতে হতো আমি আসলে কীসের পক্ষে, সে কি ওই বাক্যটার নাম নিত, নাকি অনেক ছোট কোনো বিষয়ে আমার একটা অবস্থানের নাম নিত? হূদ (আঃ) মূর্তির প্রসঙ্গে যান ৭:৭১ আয়াতে গিয়ে, জাতি নিজেরা কথাটা তোলার পরে। আমি কোন কথাটা আগেভাগে তুলছি, যেটা আসলে অপেক্ষা করতে পারত?"
           },
           {
             "en": "Jabir (RA) narrates that every prophet before was sent to his own people while the Prophet ﷺ was sent to all mankind, which makes the local mission the reader's own share of the work rather than a story about somebody else. Who inside my own circle have I quietly written off as not worth speaking to, and on what evidence? Hud (AS) ended not with a threat but with a question, and in the supplication Muslim records from Ibn Mas'ud (RA) taqwa is asked for by name. When did I last ask for it instead of assuming I already have it?",
@@ -1392,12 +1392,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Narration Beside It",
-          "bn": "পাশে যে হাদীস"
+          "bn": "পাশে যে হাদিস"
         },
         "p": [
           {
             "en": "Muslim records from Abu Hurayrah (RA) that the Prophet ﷺ said the strong believer is better and more beloved to Allah than the weak believer, and that there is good in each of them; he then told his listener to be eager for what benefits him, to seek Allah's help, and not to give in to helplessness. The narration says what 7:69 assumes. Strength is a good thing, and the only question is what it is turned towards.",
-            "bn": "মুসলিম আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, শক্তিশালী মুমিন দুর্বল মুমিনের চেয়ে উত্তম আর আল্লাহর কাছে বেশি প্রিয়, তবে দুজনের মধ্যেই কল্যাণ আছে। এরপর তিনি বলেন, যা তোমার উপকারে আসে তার প্রতি আগ্রহী হও, আল্লাহর সাহায্য চাও, আর অক্ষমতার কাছে হার মেনো না। হাদীসটি ঠিক সেই কথাই বলে যা ৭:৬৯ আয়াত ধরে নেয়। শক্তি ভালো জিনিস, প্রশ্ন কেবল একটাই, সেটা কোন দিকে তাক করা।"
+            "bn": "মুসলিম আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, শক্তিশালী মুমিন দুর্বল মুমিনের চেয়ে উত্তম আর আল্লাহর কাছে বেশি প্রিয়, তবে দুজনের মধ্যেই কল্যাণ আছে। এরপর তিনি বলেন, যা তোমার উপকারে আসে তার প্রতি আগ্রহী হও, আল্লাহর সাহায্য চাও, আর অক্ষমতার কাছে হার মেনো না। হাদিসটি ঠিক সেই কথাই বলে যা ৭:৬৯ আয়াত ধরে নেয়। শক্তি ভালো জিনিস, প্রশ্ন কেবল একটাই, সেটা কোন দিকে তাক করা।"
           },
           {
             "en": "Ad had the strength and lost the second half of it. 41:15 records the conclusion they drew from the very same gift, asking who is greater than us in strength, and the Quran answers in the same verse that the One who created them is greater in strength than they are. An identical blessing produced a boast in one place and a duty in the other, and nothing inside the blessing decided which. That is why Hud (AS) asks for remembrance and not for further proof.",
@@ -1445,7 +1445,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's command turns into a supplication almost unchanged, and the Sunnah supplies the model. Abu Dawud and an-Nasa'i record from Mu'adh ibn Jabal (RA) that the Prophet ﷺ took him by the hand, told him that he loved him, and taught him not to leave the end of any prayer without saying: O Allah, help me to remember You, to thank You, and to worship You well. Remembrance and thanks are asked for together there, exactly as Hud (AS) joins them.",
-            "bn": "আয়াতের হুকুমটা প্রায় অবিকল দু'আয় বদলে যায়, আর সুন্নাহ সেই নমুনাটা দিয়ে দেয়। আবূ দাউদ ও নাসাঈ মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ তাঁর হাত ধরে বলেছিলেন যে তিনি তাঁকে ভালোবাসেন, আর শিখিয়ে দিয়েছিলেন প্রতি নামাযের শেষে এ কথা যেন তিনি না ছাড়েন: হে আল্লাহ, আপনার যিকির, আপনার শুকরিয়া আর সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। সেখানে স্মরণ আর শুকরিয়া একসঙ্গেই চাওয়া হয়েছে, হূদ (আঃ) ঠিক যেভাবে দুটোকে জুড়ে দেন।"
+            "bn": "আয়াতের হুকুমটা প্রায় অবিকল দু'আয় বদলে যায়, আর সুন্নাহ সেই নমুনাটা দিয়ে দেয়। আবূ দাউদ ও নাসাঈ মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ তাঁর হাত ধরে বলেছিলেন যে তিনি তাঁকে ভালোবাসেন, আর শিখিয়ে দিয়েছিলেন প্রতি নামাজের শেষে এ কথা যেন তিনি না ছাড়েন: হে আল্লাহ, আপনার জিকির, আপনার শুকরিয়া আর সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। সেখানে স্মরণ আর শুকরিয়া একসঙ্গেই চাওয়া হয়েছে, হূদ (আঃ) ঠিক যেভাবে দুটোকে জুড়ে দেন।"
           },
           {
             "en": "A short supplication in the verse's own vocabulary may be added, offered as that and not as a transmitted wording. O Allah, You placed me where others stood before me, and I did not earn the place. Do not let me boast of a strength You lent me. Keep the list of what You have given in front of my eyes, and make remembering it the thing that moves me to act rather than the thing that makes me comfortable.",
@@ -1597,7 +1597,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is a command rather than a supplication, and no transmitted du'a is tied specifically to it. What the Sunnah supplies for the situation is the instruction in the narration above, which is itself close to a prayer: do not walk among ruins of this kind except weeping, and ask not to be visited by what visited them. Al-Bukhari's account has the Prophet ﷺ hurrying his companions out of that valley rather than teaching them a formula in it.",
-            "bn": "এই আয়াতটি দু'আ নয়, হুকুম; আর এর সঙ্গে আলাদা করে বাঁধা কোনো বর্ণিত দু'আও নেই। এ অবস্থার জন্য সুন্নাহ যা দেয় তা হলো উপরের হাদীসের নির্দেশটাই, আর সেটি নিজেই প্রায় একটি প্রার্থনা: এ ধরনের ধ্বংসাবশেষের মধ্যে কান্না ছাড়া চলাফেরা কোরো না, আর চাও যেন তাদের উপর যা এসেছিল তা তোমার উপর না আসে। আল-বুখারীর বর্ণনায় দেখা যায়, নবী ﷺ ওই উপত্যকায় কোনো বাঁধা বুলি না শিখিয়ে বরং সঙ্গীদের দ্রুত সেখান থেকে বের করে এনেছিলেন।"
+            "bn": "এই আয়াতটি দু'আ নয়, হুকুম; আর এর সঙ্গে আলাদা করে বাঁধা কোনো বর্ণিত দু'আও নেই। এ অবস্থার জন্য সুন্নাহ যা দেয় তা হলো উপরের হাদিসের নির্দেশটাই, আর সেটি নিজেই প্রায় একটি প্রার্থনা: এ ধরনের ধ্বংসাবশেষের মধ্যে কান্না ছাড়া চলাফেরা কোরো না, আর চাও যেন তাদের উপর যা এসেছিল তা তোমার উপর না আসে। আল-বুখারীর বর্ণনায় দেখা যায়, নবী ﷺ ওই উপত্যকায় কোনো বাঁধা বুলি না শিখিয়ে বরং সঙ্গীদের দ্রুত সেখান থেকে বের করে এনেছিলেন।"
           },
           {
             "en": "A short supplication in the verse's own vocabulary may be offered as such, and not as a transmitted wording. O Allah, You settled me where I did not clear the ground, and whatever I have made was made with strength on loan. Let me count what You gave before I spend it. And keep my hands off what You have placed me in the middle of, whether that is a piece of land, a household, a trust, or somebody else's good name.",
@@ -1693,7 +1693,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir supports his reading with a narration. Al-Bukhari records from Abu Talha (RA) that on the day of Badr the Prophet ﷺ ordered twenty-four of the chiefs of Quraysh thrown into one of the foul dry wells there; that he used to stay three nights on a field he had prevailed on; and that on the third day he had his camel saddled, walked out with his companions following him, stood at the edge of the well, and called the dead by their names and their fathers' names.",
-            "bn": "ইবনু কাসীর নিজের পাঠের পক্ষে একটি হাদীস আনেন। বুখারী আবূ তালহা (রাঃ) থেকে বর্ণনা করেন যে বদরের দিন নবী ﷺ কুরাইশের চব্বিশজন সর্দারকে বদরের একটি নোংরা শুকনো কুয়ায় ফেলে দেওয়ার হুকুম দিয়েছিলেন; কোনো জাতির উপর বিজয়ী হলে তিনি সেই মাঠে তিন রাত থাকতেন; আর তৃতীয় দিন তিনি নিজের উটে জিন বাঁধার হুকুম দিয়ে হেঁটে বেরিয়ে যান, সাহাবীরা পিছু নেন, তিনি কুয়ার কিনারে দাঁড়িয়ে মৃতদের নাম ধরে আর তাদের বাপের নাম ধরে ডাকতে থাকেন।"
+            "bn": "ইবনু কাসীর নিজের পাঠের পক্ষে একটি হাদিস আনেন। বুখারী আবূ তালহা (রাঃ) থেকে বর্ণনা করেন যে বদরের দিন নবী ﷺ কুরাইশের চব্বিশজন সর্দারকে বদরের একটি নোংরা শুকনো কুয়ায় ফেলে দেওয়ার হুকুম দিয়েছিলেন; কোনো জাতির উপর বিজয়ী হলে তিনি সেই মাঠে তিন রাত থাকতেন; আর তৃতীয় দিন তিনি নিজের উটে জিন বাঁধার হুকুম দিয়ে হেঁটে বেরিয়ে যান, সাহাবীরা পিছু নেন, তিনি কুয়ার কিনারে দাঁড়িয়ে মৃতদের নাম ধরে আর তাদের বাপের নাম ধরে ডাকতে থাকেন।"
           },
           {
             "en": "Then the address. Would it have pleased you if you had obeyed Allah and His Messenger? We have found true what our Lord promised us; have you too found true what your Lord promised you? Umar (RA) objected that he was speaking to bodies that have no souls, and the answer came: by Him in whose hand is Muhammad's soul, you do not hear what I say better than they do. The objection is Umar's and the reply is the Prophet's. Ibn Kathir quotes the episode in other phrasing, and the two wordings should not be mixed.",
@@ -1789,7 +1789,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What is distinctive here is what follows the opening sentence. All four missions in this stretch begin with worship Allah, you have no deity other than Him. Nuh (AS) continues in 7:59 with the fear of a tremendous Day. Hud (AS) continues in 7:65 with a question about fearing Allah. Salih (AS) continues in 7:73 with a sign, the she-camel. Shu'ayb (AS) alone continues into a market. Fulfil the measure and the weight, and do not deprive people of their things: tawhid and trading standards in one breath.",
-            "bn": "এখানে আলাদা করে চোখে পড়ে খোলা বাক্যটির পরের অংশ। এই অংশের চারটি মিশনই শুরু হয় একই কথায়, তোমরা আল্লাহর ইবাদত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। নূহ (আঃ) ৭:৫৯ এ এরপর আনেন এক মহাদিনের শাস্তির ভয়। হূদ (আঃ) ৭:৬৫ এ আনেন আল্লাহকে ভয় করা নিয়ে একটি প্রশ্ন। সালিহ (আঃ) ৭:৭৩ এ আনেন একটি নিদর্শন, সেই উটনী। কেবল শু'আয়ব (আঃ)-এর কথা গিয়ে ঢোকে বাজারের ভেতর। মাপ ও ওজন পূর্ণ কর, আর লোকের প্রাপ্য জিনিস কম দিও না: এক শ্বাসেই তাওহীদ আর কারবারের নিয়ম।"
+            "bn": "এখানে আলাদা করে চোখে পড়ে খোলা বাক্যটির পরের অংশ। এই অংশের চারটি মিশনই শুরু হয় একই কথায়, তোমরা আল্লাহর ইবাদত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। নূহ (আঃ) ৭:৫৯ এ এরপর আনেন এক মহাদিনের শাস্তির ভয়। হূদ (আঃ) ৭:৬৫ এ আনেন আল্লাহকে ভয় করা নিয়ে একটি প্রশ্ন। সালিহ (আঃ) ৭:৭৩ এ আনেন একটি নিদর্শন, সেই উটনী। কেবল শু'আয়ব (আঃ)-এর কথা গিয়ে ঢোকে বাজারের ভেতর। মাপ ও ওজন পূর্ণ কর, আর লোকের প্রাপ্য জিনিস কম দিও না: এক শ্বাসেই তাওহিদ আর কারবারের নিয়ম।"
           }
         ]
       },
@@ -1841,7 +1841,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim records from Abu Hurayrah (RA) that the Messenger of Allah ﷺ happened to pass by a heap of eatables. He thrust his hand into it and his fingers were moistened. He said to the owner of the heap: what is this? The man replied: Messenger of Allah, these have been drenched by rainfall. He remarked: why did you not place this over the other eatables so that the people could see it? He who deceives is not of me.",
-            "bn": "মুসলিম আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে আল্লাহর রসূল ﷺ একবার খাদ্যের একটি গাদার পাশ দিয়ে যাচ্ছিলেন। তিনি তার ভেতরে হাত ঢোকালেন আর তাঁর আঙুলে ভেজা লাগল। তিনি গাদার মালিককে বললেন, এটা কী? লোকটি বলল, হে আল্লাহর রসূল, এতে বৃষ্টির পানি লেগেছে। তিনি বললেন, তুমি এটা উপরের দিকে রাখলে না কেন, যাতে লোকেরা দেখতে পায়? যে ধোঁকা দেয় সে আমার দলের নয়।"
+            "bn": "মুসলিম আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে আল্লাহর রাসূল ﷺ একবার খাদ্যের একটি গাদার পাশ দিয়ে যাচ্ছিলেন। তিনি তার ভেতরে হাত ঢোকালেন আর তাঁর আঙুলে ভেজা লাগল। তিনি গাদার মালিককে বললেন, এটা কী? লোকটি বলল, হে আল্লাহর রাসূল, এতে বৃষ্টির পানি লেগেছে। তিনি বললেন, তুমি এটা উপরের দিকে রাখলে না কেন, যাতে লোকেরা দেখতে পায়? যে ধোঁকা দেয় সে আমার দলের নয়।"
           },
           {
             "en": "That narration is the practical face of Ibn Kathir's gloss on bakhs, which named secrecy and dressing a thing up as the method. Nobody had been given a short measure in that market. The weight was honest and the price was agreed, and the whole wrong lay in one fact left below the surface where a buyer's hand would not reach it. The verse forbids depriving people of their things; the narration shows that it can be done without touching the scales at all.",
@@ -1877,7 +1877,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The narration about the wet grain names the harder half. The usual failure is not a doctored scale, which is a decision, but a fact left where the other side cannot see it. The mark on the car nobody asked about. The condition in the contract that is true but unmentioned. Ibn Kathir's two words, secrecy and dressing up, cover both, and the test they suggest is simple: if the other party could see everything I can see, would this transaction still go through on these terms?",
-            "bn": "ভেজা দানার হাদীসটি কঠিন অর্ধেকটার নাম বলে দেয়। সাধারণ গলদটা পাল্লায় কারসাজি নয়, ওটা তো একটা সিদ্ধান্ত; সাধারণ গলদ হলো এমন একটা তথ্য যা অন্য পক্ষের চোখের আড়ালে রেখে দেওয়া হয়। গাড়ির যে দাগটার কথা কেউ জিজ্ঞেস করেনি। চুক্তির যে শর্তটা সত্যি, কিন্তু মুখে আনা হয়নি। ইবনু কাসীরের দুটি শব্দ, গোপন করা আর সাজিয়ে রাখা, দুটোকেই ধরে ফেলে; আর তা থেকে পরীক্ষাটা সোজা: আমি যা যা দেখছি অন্য পক্ষও যদি সবটা দেখতে পেত, এই কারবারটা কি তবু এই শর্তেই হতো?"
+            "bn": "ভেজা দানার হাদিসটি কঠিন অর্ধেকটার নাম বলে দেয়। সাধারণ গলদটা পাল্লায় কারসাজি নয়, ওটা তো একটা সিদ্ধান্ত; সাধারণ গলদ হলো এমন একটা তথ্য যা অন্য পক্ষের চোখের আড়ালে রেখে দেওয়া হয়। গাড়ির যে দাগটার কথা কেউ জিজ্ঞেস করেনি। চুক্তির যে শর্তটা সত্যি, কিন্তু মুখে আনা হয়নি। ইবনু কাসীরের দুটি শব্দ, গোপন করা আর সাজিয়ে রাখা, দুটোকেই ধরে ফেলে; আর তা থেকে পরীক্ষাটা সোজা: আমি যা যা দেখছি অন্য পক্ষও যদি সবটা দেখতে পেত, এই কারবারটা কি তবু এই শর্তেই হতো?"
           },
           {
             "en": "The closing condition changes the timing of all of this. That is better for you, if you should be believers, means the correction is not owed at the end of a career when there is enough margin to be generous with. It is owed on the next transaction, because that is where the claim of faith is being tested. One practical version: pick the one place in your work where you know the measure is habitually short, and make it full this week, before anybody complains and while it still costs you something.",
@@ -1893,7 +1893,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Sunnah has a supplication over exactly these words. Al-Bukhari records from Anas ibn Malik (RA) that the Messenger of Allah ﷺ said: O Allah, bestow Your blessings on their measure, and bless their mudd and their sa'. The narration adds that he meant the people of Madinah. The mudd and the sa' are the units of the kayl our verse commands, and the prayer asks for barakah in them rather than for more of them, which is a different request from the one a short measure is trying to answer.",
-            "bn": "ঠিক এই শব্দগুলোর উপরেই সুন্নাহর একটি দুআ আছে। বুখারী আনাস ইবনু মালিক (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: হে আল্লাহ, তাদের মাপে বরকত দিন, আর তাদের মুদ ও সা'য়ে বরকত দিন। বর্ণনায় বলা হয়েছে, তিনি মাদীনাবাসীদের কথা বলছিলেন। মুদ আর সা' হলো আমাদের আয়াতে হুকুম করা সেই কাইলের একক, আর দুআটি তাতে বেশি চায় না, বরকত চায়। মাপে কম দিয়ে যে প্রশ্নের জবাব দেওয়া হচ্ছে, এ চাওয়াটা তার থেকে আলাদা।"
+            "bn": "ঠিক এই শব্দগুলোর উপরেই সুন্নাহর একটি দুআ আছে। বুখারী আনাস ইবনু মালিক (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: হে আল্লাহ, তাদের মাপে বরকত দিন, আর তাদের মুদ ও সা'য়ে বরকত দিন। বর্ণনায় বলা হয়েছে, তিনি মাদীনাবাসীদের কথা বলছিলেন। মুদ আর সা' হলো আমাদের আয়াতে হুকুম করা সেই কাইলের একক, আর দুআটি তাতে বেশি চায় না, বরকত চায়। মাপে কম দিয়ে যে প্রশ্নের জবাব দেওয়া হচ্ছে, এ চাওয়াটা তার থেকে আলাদা।"
           },
           {
             "en": "A short supplication can also be built from the verse's own vocabulary, offered as that and not as a transmitted wording. O Allah, You know what I owe and what I have handed over, and the difference between the two. Fill my measure where I have been keeping it short. Keep my hands off what belongs to people who cannot check me. And put barakah in the little I earn honestly, so that I never need what I would have to take from someone else.",
@@ -1937,7 +1937,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What differs is only what each sentence answers. In Thamud's panel the identical words come after 7:77, where the she-camel is hamstrung and the punishment demanded outright. Here they come after 7:90, where nobody has demanded anything; the chiefs are simply running a campaign to keep their townsmen away from a man. One people dared the punishment and one people lobbied against a messenger, and the two arrived at the same line.",
-            "bn": "তফাত কেবল এই, কোন কাজের জবাবে বাক্যটি আসছে। সামূদের পর্বে হুবহু এই কথাগুলো আসে ৭:৭৭ এর পরে, যেখানে উটনী মেরে ফেলা হয় আর শাস্তি সোজা চেয়ে বসা হয়। এখানে আসে ৭:৯০ এর পরে, যেখানে কেউ কিছু চায়নি; সর্দাররা কেবল নিজেদের লোকদের একজন মানুষের কাছ থেকে দূরে রাখার প্রচার চালাচ্ছে। এক জাতি শাস্তিকে ডেকে এনেছিল, আর এক জাতি এক রসূলের বিরুদ্ধে দল পাকিয়েছিল, আর দুই দল গিয়ে থেমেছে একই লাইনে।"
+            "bn": "তফাত কেবল এই, কোন কাজের জবাবে বাক্যটি আসছে। সামূদের পর্বে হুবহু এই কথাগুলো আসে ৭:৭৭ এর পরে, যেখানে উটনী মেরে ফেলা হয় আর শাস্তি সোজা চেয়ে বসা হয়। এখানে আসে ৭:৯০ এর পরে, যেখানে কেউ কিছু চায়নি; সর্দাররা কেবল নিজেদের লোকদের একজন মানুষের কাছ থেকে দূরে রাখার প্রচার চালাচ্ছে। এক জাতি শাস্তিকে ডেকে এনেছিল, আর এক জাতি এক রাসূলের বিরুদ্ধে দল পাকিয়েছিল, আর দুই দল গিয়ে থেমেছে একই লাইনে।"
           }
         ]
       },
@@ -1977,7 +1977,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari fills the same gap from transmitted reports rather than from the Quran. He carries an account from as-Suddi, and another from Ibn Ishaq, in which heat was loosed on Madyan until no shade and no water helped them, a cloud then appeared carrying a cool sweet wind, they called to one another to get under it, and when they had gathered beneath it with their women and children it closed over them. These are reports from a tabi'i and from a compiler of sirah, not narrations from the Prophet ﷺ, and that is how they are being reported here.",
-            "bn": "তাবারী একই ফাঁক ভরান কুরআনের বদলে বর্ণিত রেওয়ায়েত দিয়ে। তিনি সুদ্দী থেকে একটি আর ইবনু ইসহাক থেকে আরেকটি বিবরণ আনেন, যেখানে মাদইয়ানের উপর গরম ছেড়ে দেওয়া হয়, ছায়া আর পানি কিছুই তাদের কাজে আসে না; তারপর ঠান্ডা মিষ্টি হাওয়া নিয়ে একটি মেঘ দেখা যায়, তারা একে অন্যকে ডেকে বলে ওটার নিচে চলো, আর নারী ও শিশুসহ সবাই যখন তার নিচে জড়ো হয়, মেঘটি তাদের উপর বন্ধ হয়ে যায়। এগুলো একজন তাবিঈ আর একজন সীরাত-সংকলকের বর্ণনা, নবী ﷺ থেকে হাদীস নয়, আর এখানে সেভাবেই বলা হচ্ছে।"
+            "bn": "তাবারী একই ফাঁক ভরান কুরআনের বদলে বর্ণিত রেওয়ায়েত দিয়ে। তিনি সুদ্দী থেকে একটি আর ইবনু ইসহাক থেকে আরেকটি বিবরণ আনেন, যেখানে মাদইয়ানের উপর গরম ছেড়ে দেওয়া হয়, ছায়া আর পানি কিছুই তাদের কাজে আসে না; তারপর ঠান্ডা মিষ্টি হাওয়া নিয়ে একটি মেঘ দেখা যায়, তারা একে অন্যকে ডেকে বলে ওটার নিচে চলো, আর নারী ও শিশুসহ সবাই যখন তার নিচে জড়ো হয়, মেঘটি তাদের উপর বন্ধ হয়ে যায়। এগুলো একজন তাবিঈ আর একজন সীরাত-সংকলকের বর্ণনা, নবী ﷺ থেকে হাদিস নয়, আর এখানে সেভাবেই বলা হচ্ছে।"
           }
         ]
       },
@@ -1993,7 +1993,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Madyan's own record keeps the other half in view: 11:94 says that when the command came, Shu'ayb (AS) and those who believed with him were saved by mercy, and only then that the shriek seized those who had wronged. The believers here are not described as swept up with the town, and what the narration adds is the principle behind the sorting, which happens at the raising and by deeds. One more thing should be said plainly. Shu'ayb (AS) is often called the orator of the prophets, but at-Tabari's wording for that comes through Ibn Ishaq without a connected chain, so it is not quoted here as a hadith.",
-            "bn": "মাদইয়ানের নিজের বিবরণ অন্য অর্ধেকটাও চোখের সামনে রাখে: ১১:৯৪ বলে, আমার হুকুম যখন এলো, শু'আয়ব (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল তাদের দয়া করে বাঁচিয়ে দেওয়া হলো, আর তারপরই যালিমদের প্রচণ্ড শব্দ আঘাত হানল। কাজেই এখানে মুমিনদের জনপদের সঙ্গে ভেসে যেতে দেখানো হয়নি। হাদীসটি যা যোগ করে তা হলো বাছাইয়ের নীতি, আর সে বাছাই হয় উঠানোর দিন, আমল অনুযায়ী। এই পর্ব নিয়ে আরেকটি কথা সোজাসুজি বলে রাখা ভালো। শু'আয়ব (আঃ)-কে প্রায়ই বলা হয় নবীদের বক্তা; তাবারী এর যে বর্ণনা আনেন তা ইবনু ইসহাকের সূত্রে, সংযুক্ত সনদ ছাড়া, কাজেই এখানে সেটি হাদীস হিসেবে উদ্ধৃত হচ্ছে না।"
+            "bn": "মাদইয়ানের নিজের বিবরণ অন্য অর্ধেকটাও চোখের সামনে রাখে: ১১:৯৪ বলে, আমার হুকুম যখন এলো, শু'আয়ব (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল তাদের দয়া করে বাঁচিয়ে দেওয়া হলো, আর তারপরই যালিমদের প্রচণ্ড শব্দ আঘাত হানল। কাজেই এখানে মুমিনদের জনপদের সঙ্গে ভেসে যেতে দেখানো হয়নি। হাদিসটি যা যোগ করে তা হলো বাছাইয়ের নীতি, আর সে বাছাই হয় উঠানোর দিন, আমল অনুযায়ী। এই পর্ব নিয়ে আরেকটি কথা সোজাসুজি বলে রাখা ভালো। শু'আয়ব (আঃ)-কে প্রায়ই বলা হয় নবীদের বক্তা; তাবারী এর যে বর্ণনা আনেন তা ইবনু ইসহাকের সূত্রে, সংযুক্ত সনদ ছাড়া, কাজেই এখানে সেটি হাদিস হিসেবে উদ্ধৃত হচ্ছে না।"
           }
         ]
       },
@@ -2041,7 +2041,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Sunnah has a supplication that names this verse's problem directly. Muslim records from Abdullah ibn Umar (RA) that among the supplications of the Messenger of Allah ﷺ was: O Allah, I seek refuge in You from the withdrawal of Your blessing, and the change of Your protection, and from Your sudden wrath, and from every displeasure of Yours. Four things are asked against there, and the third of them is the word Madyan needed: fuja'ah, suddenness, a punishment arriving without an announcement.",
-            "bn": "সুন্নাহয় এমন একটি দুআ আছে যা এই আয়াতের সমস্যাটির নাম সোজা বলে দেয়। মুসলিম আবদুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণনা করেন যে আল্লাহর রসূল ﷺ-এর দুআগুলোর মধ্যে ছিল: হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই আপনার নিয়ামত সরে যাওয়া থেকে, আপনার দেওয়া নিরাপত্তা বদলে যাওয়া থেকে, আপনার আকস্মিক পাকড়াও থেকে আর আপনার সমস্ত অসন্তুষ্টি থেকে। ওখানে চারটি জিনিস থেকে আশ্রয় চাওয়া হয়, আর তার তৃতীয়টি ঠিক সেই শব্দ যা মাদইয়ানের দরকার ছিল: ফুজাআ, আকস্মিকতা, ঘোষণা ছাড়া নেমে আসা শাস্তি।"
+            "bn": "সুন্নাহয় এমন একটি দুআ আছে যা এই আয়াতের সমস্যাটির নাম সোজা বলে দেয়। মুসলিম আবদুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণনা করেন যে আল্লাহর রাসূল ﷺ-এর দুআগুলোর মধ্যে ছিল: হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই আপনার নিয়ামত সরে যাওয়া থেকে, আপনার দেওয়া নিরাপত্তা বদলে যাওয়া থেকে, আপনার আকস্মিক পাকড়াও থেকে আর আপনার সমস্ত অসন্তুষ্টি থেকে। ওখানে চারটি জিনিস থেকে আশ্রয় চাওয়া হয়, আর তার তৃতীয়টি ঠিক সেই শব্দ যা মাদইয়ানের দরকার ছিল: ফুজাআ, আকস্মিকতা, ঘোষণা ছাড়া নেমে আসা শাস্তি।"
           },
           {
             "en": "A short supplication can also be built from the verse's own vocabulary, offered as that and not as a transmitted wording. O Allah, do not let my safety be the thing that keeps me careless. Whatever You are giving me time over, let me use the time for that and not for defending myself. Do not let a morning find me settled in a wrong I could have left the night before. And whatever is standing between me and You right now, deal with me over it while I can still act.",
@@ -2137,11 +2137,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari records from Abu Musa (RA) that the Messenger of Allah ﷺ said: Allah gives respite to the oppressor, but when He takes him over, He never releases him. Then he recited: such is the seizure of your Lord when He seizes the towns in the midst of their wrong; painful indeed and severe is His seizure. The verse he recited is 11:102, and al-Bukhari places the narration in his commentary on that surah.",
-            "bn": "বুখারী আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: আল্লাহ যালিমকে সময় দিয়ে যান, কিন্তু যখন তিনি তাকে পাকড়াও করেন, তখন আর ছাড়েন না। তারপর তিনি তিলাওয়াত করলেন: তোমার প্রতিপালকের পাকড়াও এ রকমই হয়ে থাকে যখন তিনি যুলমে লিপ্ত জনপদকে পাকড়াও করেন; অবশ্যই তাঁর পাকড়াও ভয়াবহ, বড়ই কঠিন। যে আয়াত তিনি পড়লেন তা ১১:১০২, আর বুখারী হাদীসটি রাখেন ওই সূরার তাফসীরের অধ্যায়ে।"
+            "bn": "বুখারী আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আল্লাহ যালিমকে সময় দিয়ে যান, কিন্তু যখন তিনি তাকে পাকড়াও করেন, তখন আর ছাড়েন না। তারপর তিনি তিলাওয়াত করলেন: তোমার প্রতিপালকের পাকড়াও এ রকমই হয়ে থাকে যখন তিনি যুলমে লিপ্ত জনপদকে পাকড়াও করেন; অবশ্যই তাঁর পাকড়াও ভয়াবহ, বড়ই কঠিন। যে আয়াত তিনি পড়লেন তা ১১:১০২, আর বুখারী হাদিসটি রাখেন ওই সূরার তাফসীরের অধ্যায়ে।"
           },
           {
             "en": "That narration is the exact answer to the reading a reader is tempted to give our verse. If We willed, We could strike them for their sins sounds, on a quiet day, like a threat that was not carried out. The narration says what the quiet is: imla, the letting out of a rope, time granted and not a case dropped. Nothing in it says the respite is short, and nothing says it is an indulgence. It says only that the grip, when it closes, does not open.",
-            "bn": "পাঠকের মন যে পাঠটা দিতে চায়, এই হাদীস তার সোজা জবাব। আমি ইচ্ছা করলে তাদের গুনাহের জন্য পাকড়াও করতে পারতাম কথাটা শান্ত কোনো দিনে শোনায় এমন এক হুমকির মতো, যা শেষে কার্যকর হয়নি। হাদীস বলে দেয় এই শান্ত সময়টা আসলে কী: ইমলা, অর্থাৎ দড়ি ছেড়ে দেওয়া, সময় দেওয়া হচ্ছে, মামলা তুলে নেওয়া হচ্ছে না। এতে বলা নেই যে সময়টা অল্প, আর বলা নেই যে এটা প্রশ্রয়। কেবল এটাই বলা আছে, মুঠি একবার বন্ধ হলে আর খোলে না।"
+            "bn": "পাঠকের মন যে পাঠটা দিতে চায়, এই হাদিস তার সোজা জবাব। আমি ইচ্ছা করলে তাদের গুনাহের জন্য পাকড়াও করতে পারতাম কথাটা শান্ত কোনো দিনে শোনায় এমন এক হুমকির মতো, যা শেষে কার্যকর হয়নি। হাদিস বলে দেয় এই শান্ত সময়টা আসলে কী: ইমলা, অর্থাৎ দড়ি ছেড়ে দেওয়া, সময় দেওয়া হচ্ছে, মামলা তুলে নেওয়া হচ্ছে না। এতে বলা নেই যে সময়টা অল্প, আর বলা নেই যে এটা প্রশ্রয়। কেবল এটাই বলা আছে, মুঠি একবার বন্ধ হলে আর খোলে না।"
           }
         ]
       },
@@ -2189,7 +2189,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Since the verse's danger is a sealed heart, the supplication that answers it is about the heart. At-Tirmidhi records from Anas (RA) that the Messenger of Allah ﷺ would often say: O Changer of the hearts, strengthen my heart upon Your religion. Anas (RA) said: Prophet of Allah, we believe in you and in what you have come with, but do you fear for us? He said: yes, the hearts are between two of Allah's fingers, He changes them as He wills. At-Tirmidhi graded the report hasan.",
-            "bn": "আয়াতের ভয়টা যেহেতু অন্তরে সীল পড়া, তাই তার জবাবের দুআও অন্তর নিয়ে। তিরমিযী আনাস (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ প্রায়ই বলতেন: হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে আপনার দীনের উপর অবিচল রাখুন। আনাস (রাঃ) বললেন, হে আল্লাহর নবী, আমরা আপনার প্রতি আর আপনি যা নিয়ে এসেছেন তার প্রতি ঈমান এনেছি, তবু আপনি আমাদের জন্য আশঙ্কা করেন? তিনি বললেন, হ্যাঁ, অন্তরগুলো আল্লাহর দুই আঙুলের মাঝে, তিনি যেভাবে চান সেভাবে সেগুলো বদলে দেন। তিরমিযী বর্ণনাটিকে হাসান বলেছেন।"
+            "bn": "আয়াতের ভয়টা যেহেতু অন্তরে সীল পড়া, তাই তার জবাবের দুআও অন্তর নিয়ে। তিরমিযী আনাস (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ প্রায়ই বলতেন: হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে আপনার দীনের উপর অবিচল রাখুন। আনাস (রাঃ) বললেন, হে আল্লাহর নবী, আমরা আপনার প্রতি আর আপনি যা নিয়ে এসেছেন তার প্রতি ঈমান এনেছি, তবু আপনি আমাদের জন্য আশঙ্কা করেন? তিনি বললেন, হ্যাঁ, অন্তরগুলো আল্লাহর দুই আঙুলের মাঝে, তিনি যেভাবে চান সেভাবে সেগুলো বদলে দেন। তিরমিযী বর্ণনাটিকে হাসান বলেছেন।"
           },
           {
             "en": "That exchange is the right frame for this verse, because the people asking the question were believers and the answer was still yes. A short supplication can be built from the verse's own vocabulary too, offered as that and not as a transmitted wording. O Allah, do not let me walk over other people's ruins and take nothing from them. Keep my hearing the kind that benefits me. And whatever You are giving me time over, do not let me mistake the time for a verdict in my favour.",
@@ -2285,11 +2285,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The four tafsirs read for this verse carry no narration from the Prophet Muhammad ﷺ on it. at-Tabari's entry is a discussion of the readings and a gloss on the proof; Ibn Kathir, as-Sa'di and al-Qurtubi all stay with the wording. That absence is worth reporting rather than filling, because a verse does not become weightier by having a hadith attached to it that the commentators never attached. What the Sunnah supplies instead is a sentence about the situation Musa was standing in.",
-            "bn": "এই আয়াতের জন্য যে চারটি তাফসীর দেখা হয়েছে, তার কোনোটিতে নবী ﷺ থেকে বর্ণিত কোনো হাদীস এই আয়াতের সঙ্গে জোড়া নেই। তাবারীর আলোচনা কিরাআত আর প্রমাণের অর্থ নিয়ে। ইবনু কাসীর, সাদী আর কুরতুবী তিনজনই শব্দের মধ্যেই থাকেন। ফাঁকটা ঢেকে দেওয়ার চেয়ে বলে দেওয়াই ভালো। মুফাসসিরগণ যে হাদীস আয়াতের সঙ্গে জোড়েননি, সেটা জুড়ে দিলে আয়াতের ওজন বাড়ে না। বদলে সুন্নাহ যা দেয়, তা হলো মূসা যে পরিস্থিতিতে দাঁড়িয়ে ছিলেন সেই পরিস্থিতি নিয়ে একটি কথা।"
+            "bn": "এই আয়াতের জন্য যে চারটি তাফসীর দেখা হয়েছে, তার কোনোটিতে নবী ﷺ থেকে বর্ণিত কোনো হাদিস এই আয়াতের সঙ্গে জোড়া নেই। তাবারীর আলোচনা কিরাআত আর প্রমাণের অর্থ নিয়ে। ইবনু কাসীর, সাদী আর কুরতুবী তিনজনই শব্দের মধ্যেই থাকেন। ফাঁকটা ঢেকে দেওয়ার চেয়ে বলে দেওয়াই ভালো। মুফাসসিরগণ যে হাদিস আয়াতের সঙ্গে জোড়েননি, সেটা জুড়ে দিলে আয়াতের ওজন বাড়ে না। বদলে সুন্নাহ যা দেয়, তা হলো মূসা যে পরিস্থিতিতে দাঁড়িয়ে ছিলেন সেই পরিস্থিতি নিয়ে একটি কথা।"
           },
           {
             "en": "Sunan Abu Dawud 4344 records from Abu Sa'id al-Khudri (RA) that the Messenger of Allah ﷺ said: the best fighting in the path of Allah is a word of justice to an oppressive ruler. Abu Dawud gives no grading of his own alongside it. It is quoted here for the scene and not as a comment on the verse, because 7:105 is what that sentence looks like when a man actually does it, and it is worth noticing that the word spoken here is first of all a word about Allah.",
-            "bn": "সুনানে আবূ দাঊদের ৪৩৪৪ নম্বর হাদীসে আবূ সাঈদ খুদরী (রাঃ) থেকে এসেছে, রাসূলুল্লাহ ﷺ বলেছেন, আল্লাহর পথে সর্বশ্রেষ্ঠ জিহাদ হলো জালিম শাসকের সামনে ইনসাফের একটি কথা। আবূ দাঊদ এর সঙ্গে নিজের কোনো মান উল্লেখ করেননি। এটা এখানে আনা হলো দৃশ্যটার জন্য, আয়াতের ব্যাখ্যা হিসেবে নয়। কারণ কেউ যখন সত্যিই কথাটা বলে, তখন সেটা দেখতে ঠিক ৭:১০৫ আয়াতের মতোই লাগে। আর খেয়াল করার মতো ব্যাপার হলো, এখানে যে কথাটা বলা হচ্ছে, সেটা সবার আগে আল্লাহকে নিয়েই একটি কথা।"
+            "bn": "সুনানে আবূ দাঊদের ৪৩৪৪ নম্বর হাদিসে আবূ সাঈদ খুদরী (রাঃ) থেকে এসেছে, রাসূলুল্লাহ ﷺ বলেছেন, আল্লাহর পথে সর্বশ্রেষ্ঠ জিহাদ হলো জালিম শাসকের সামনে ইনসাফের একটি কথা। আবূ দাঊদ এর সঙ্গে নিজের কোনো মান উল্লেখ করেননি। এটা এখানে আনা হলো দৃশ্যটার জন্য, আয়াতের ব্যাখ্যা হিসেবে নয়। কারণ কেউ যখন সত্যিই কথাটা বলে, তখন সেটা দেখতে ঠিক ৭:১০৫ আয়াতের মতোই লাগে। আর খেয়াল করার মতো ব্যাপার হলো, এখানে যে কথাটা বলা হচ্ছে, সেটা সবার আগে আল্লাহকে নিয়েই একটি কথা।"
           }
         ]
       },
@@ -2437,7 +2437,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What at-Tabari does record is early comment on the last word. He glosses hashirin as those who gather the magicians and bring them to you, and then reports, through several chains from Ibn Abbas (RA) and also from Mujahid and as-Suddi, a single word for who they were: al-shurta, the state's own enforcers. These are tafsir reports from a Companion and from those who came after him, not narrations from the Prophet ﷺ, and they matter for one reason. The talent search was run by the police.",
-            "bn": "তাবারী যা লিখে রাখেন তা হলো শেষ শব্দটি নিয়ে পূর্ববর্তীদের মন্তব্য। তিনি হাশিরীনের অর্থ দেন, যারা যাদুকরদের জড়ো করে তোমার কাছে এনে হাজির করে। তারপর ইবনু আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে, আর মুজাহিদ ও সুদ্দী থেকেও, এরা কারা সে প্রশ্নের জবাবে একটি শব্দ বর্ণনা করেন: আশ-শুরতা, অর্থাৎ রাষ্ট্রের নিজের বাহিনী। এগুলো একজন সাহাবী ও পরবর্তীদের তাফসীরি বক্তব্য, নবী ﷺ থেকে বর্ণিত হাদীস নয়। এগুলোর গুরুত্ব একটাই। লোক খোঁজার কাজটা চালিয়েছিল পুলিশ।"
+            "bn": "তাবারী যা লিখে রাখেন তা হলো শেষ শব্দটি নিয়ে পূর্ববর্তীদের মন্তব্য। তিনি হাশিরীনের অর্থ দেন, যারা যাদুকরদের জড়ো করে তোমার কাছে এনে হাজির করে। তারপর ইবনু আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে, আর মুজাহিদ ও সুদ্দী থেকেও, এরা কারা সে প্রশ্নের জবাবে একটি শব্দ বর্ণনা করেন: আশ-শুরতা, অর্থাৎ রাষ্ট্রের নিজের বাহিনী। এগুলো একজন সাহাবী ও পরবর্তীদের তাফসীরি বক্তব্য, নবী ﷺ থেকে বর্ণিত হাদিস নয়। এগুলোর গুরুত্ব একটাই। লোক খোঁজার কাজটা চালিয়েছিল পুলিশ।"
           }
         ]
       },
@@ -2581,7 +2581,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators on this verse do not attach a narration from the Prophet Muhammad ﷺ to it, and the honest thing is to say so before quoting anything. What the Sunnah supplies is not a comment on the scene but a ruling on the craft, and the ruling is severe. Sahih al-Bukhari 2766 has it from Abu Hurayrah (RA), in a short exchange in which the Companions asked the Prophet ﷺ to name what he had warned them against.",
-            "bn": "এই আয়াতের মুফাসসিরগণ এর সঙ্গে নবী ﷺ থেকে বর্ণিত কোনো হাদীস জোড়েননি, আর কিছু উদ্ধৃত করার আগে সৎ কাজটা হলো সেটা বলে দেওয়া। সুন্নাহ যা দেয় তা এই দৃশ্যের ব্যাখ্যা নয়, বরং এই কারিগরির হুকুম, আর হুকুমটা কঠোর। সহীহ বুখারীর ২৭৬৬ নম্বর হাদীসে আবূ হুরায়রা (রাঃ) থেকে এটি এসেছে, একটি ছোট কথোপকথনের ভেতরে, যেখানে সাহাবীগণ নবী ﷺ কে জিজ্ঞেস করেছিলেন তিনি কোন জিনিসগুলো থেকে সতর্ক করছেন।"
+            "bn": "এই আয়াতের মুফাসসিরগণ এর সঙ্গে নবী ﷺ থেকে বর্ণিত কোনো হাদিস জোড়েননি, আর কিছু উদ্ধৃত করার আগে সৎ কাজটা হলো সেটা বলে দেওয়া। সুন্নাহ যা দেয় তা এই দৃশ্যের ব্যাখ্যা নয়, বরং এই কারিগরির হুকুম, আর হুকুমটা কঠোর। সহীহ বুখারীর ২৭৬৬ নম্বর হাদিসে আবূ হুরায়রা (রাঃ) থেকে এটি এসেছে, একটি ছোট কথোপকথনের ভেতরে, যেখানে সাহাবীগণ নবী ﷺ কে জিজ্ঞেস করেছিলেন তিনি কোন জিনিসগুলো থেকে সতর্ক করছেন।"
           },
           {
             "en": "The Prophet ﷺ said: avoid the seven great destructive sins. They asked, O Messenger of Allah, what are they? He said: to join others in worship along with Allah, to practise sorcery, to kill the life which Allah has forbidden except for a just cause, to eat up riba, to eat up an orphan's wealth, to turn away and flee from the battlefield at the time of fighting, and to accuse chaste believing women. Sorcery is second on that list, directly after associating partners with Allah, and it is second in this verse too in the sense that it is what the opposition had instead of a god.",
@@ -2737,7 +2737,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then he said: whatever good I have I will not withhold from you, and whoever abstains from asking others, Allah will make him contented, and whoever tries to make himself self-sufficient, Allah will make him self-sufficient, and whoever remains patient, Allah will make him patient. Nobody can be given a blessing better and greater than patience. The magicians asked for exactly the thing this narration names as the best gift, and they asked for it in the hour when there was nothing else left to ask for.",
-            "bn": "তারপর তিনি বললেন, আমার কাছে যে ভালো জিনিস থাকে তা আমি তোমাদের থেকে আটকে রাখি না। আর যে মানুষের কাছে চাওয়া থেকে বিরত থাকে, আল্লাহ তাকে অভাবমুক্ত করেন। যে নিজেকে স্বনির্ভর রাখতে চায়, আল্লাহ তাকে স্বনির্ভর করেন। আর যে ধৈর্য ধরার চেষ্টা করে, আল্লাহ তাকে ধৈর্য দেন। ধৈর্যের চেয়ে উত্তম আর প্রশস্ত কোনো দান কাউকে দেওয়া হয়নি। যাদুকররা ঠিক সেই জিনিসটাই চেয়েছিল, যেটাকে এই হাদীস সবচেয়ে বড় দান বলছে। আর চেয়েছিল সেই মুহূর্তে, যখন চাওয়ার মতো আর কিছুই বাকি ছিল না।"
+            "bn": "তারপর তিনি বললেন, আমার কাছে যে ভালো জিনিস থাকে তা আমি তোমাদের থেকে আটকে রাখি না। আর যে মানুষের কাছে চাওয়া থেকে বিরত থাকে, আল্লাহ তাকে অভাবমুক্ত করেন। যে নিজেকে স্বনির্ভর রাখতে চায়, আল্লাহ তাকে স্বনির্ভর করেন। আর যে ধৈর্য ধরার চেষ্টা করে, আল্লাহ তাকে ধৈর্য দেন। ধৈর্যের চেয়ে উত্তম আর প্রশস্ত কোনো দান কাউকে দেওয়া হয়নি। যাদুকররা ঠিক সেই জিনিসটাই চেয়েছিল, যেটাকে এই হাদিস সবচেয়ে বড় দান বলছে। আর চেয়েছিল সেই মুহূর্তে, যখন চাওয়ার মতো আর কিছুই বাকি ছিল না।"
           },
           {
             "en": "at-Tabari preserves one more line on this verse, and it is a tafsir report rather than a hadith. Abdullah ibn Abbas (RA) said of these men that they were magicians at the beginning of the day and martyrs at the end of it, and at-Tabari carries the same sentence from Ubayd ibn Umayr, from Qatadah and from Mujahid. It is not a narration from the Prophet ﷺ and should not be quoted as one, but it is the shortest accurate summary of this verse.",
@@ -3033,7 +3033,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The mufassirun on this verse do not attach a narration from the Prophet Muhammad ﷺ to it. But the two words of this verse return in his own mouth. Muslim records from Thawban (RA) that the Messenger of Allah ﷺ said: Allah drew the ends of the world near one another for my sake, and I have seen its eastern and western ends, and the dominion of my ummah would reach those ends which have been drawn near me.",
-            "bn": "এ আয়াতের মুফাসসিরগণ এর সঙ্গে নবী ﷺ থেকে কোনো হাদীস জুড়ে দেন না। তবে এ আয়াতের দুটি শব্দ তাঁর নিজের মুখেই ফিরে আসে। মুসলিম সাওবান (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ আমার জন্য পৃথিবীর প্রান্তগুলো পরস্পরের কাছে টেনে এনেছেন, আর আমি এর পূর্ব আর পশ্চিমের প্রান্ত দেখেছি, আর আমার উম্মতের রাজত্ব সেই প্রান্তগুলো পর্যন্ত পৌঁছাবে যা আমার কাছে টেনে আনা হয়েছে।"
+            "bn": "এ আয়াতের মুফাসসিরগণ এর সঙ্গে নবী ﷺ থেকে কোনো হাদিস জুড়ে দেন না। তবে এ আয়াতের দুটি শব্দ তাঁর নিজের মুখেই ফিরে আসে। মুসলিম সাওবান (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ আমার জন্য পৃথিবীর প্রান্তগুলো পরস্পরের কাছে টেনে এনেছেন, আর আমি এর পূর্ব আর পশ্চিমের প্রান্ত দেখেছি, আর আমার উম্মতের রাজত্ব সেই প্রান্তগুলো পর্যন্ত পৌঁছাবে যা আমার কাছে টেনে আনা হয়েছে।"
           },
           {
             "en": "The narration continues with two petitions and their answer. He had been given the red and the white treasure, and he asked his Lord for his ummah that it should not be destroyed by a general famine, and that no enemy from outside it should be given power over them to take their lives; and his Lord granted both, and said that when He decrees a thing there is none to change it. The harm left standing in that answer is the harm the community does to itself.",
@@ -3561,7 +3561,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For the last clause as-Sa'di is blunt. They did not wrong Us, he writes, when they failed to thank Allah and failed to do what He had made obligatory on them; they wronged themselves, because they forfeited every good and laid themselves open to harm. at-Tabari fills in two of the middle clauses: each of the twelve knew its drinking place and no tribe would come in on another's water, and the cloud shielded them from the heat of the sun and its harm. as-Sa'di adds that all of this ran through their years in the wilderness.",
-            "bn": "শেষ বাক্যটি নিয়ে সা'দী সোজা কথা বলেন। তারা আমার উপর যুলম করেনি, তিনি লেখেন, যখন তারা আল্লাহর শুকরিয়া করল না আর তাঁর ফরয করা কাজ করল না; যুলম করল নিজেদের উপর, কারণ তারা সব কল্যাণ হারাল আর নিজেদের ক্ষতির মুখে ফেলল। তাবারী মাঝের দুটি বাক্য ধরিয়ে দেন: বারো গোত্রের প্রত্যেকে নিজের পানের জায়গা চিনত আর কোনো গোত্র অন্যের পানিতে ঢুকত না, আর মেঘ তাদের সূর্যের তাপ ও তার কষ্ট থেকে আড়াল করত। সা'দী যোগ করেন, এ সবটাই চলেছিল তীহ প্রান্তরে তাদের বছরগুলোতে।"
+            "bn": "শেষ বাক্যটি নিয়ে সা'দী সোজা কথা বলেন। তারা আমার উপর যুলম করেনি, তিনি লেখেন, যখন তারা আল্লাহর শুকরিয়া করল না আর তাঁর ফরজ করা কাজ করল না; যুলম করল নিজেদের উপর, কারণ তারা সব কল্যাণ হারাল আর নিজেদের ক্ষতির মুখে ফেলল। তাবারী মাঝের দুটি বাক্য ধরিয়ে দেন: বারো গোত্রের প্রত্যেকে নিজের পানের জায়গা চিনত আর কোনো গোত্র অন্যের পানিতে ঢুকত না, আর মেঘ তাদের সূর্যের তাপ ও তার কষ্ট থেকে আড়াল করত। সা'দী যোগ করেন, এ সবটাই চলেছিল তীহ প্রান্তরে তাদের বছরগুলোতে।"
           }
         ]
       },
@@ -3573,7 +3573,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The last clause of the verse states something the Sunnah states at length. Sahih Muslim 2577 carries from Abu Dharr (RA) a hadith in which the Prophet ﷺ reports the words of Allah: O My servants, you will not attain harming Me so as to harm Me, and will not attain benefitting Me so as to benefit Me. The same hadith ends: it is but your deeds that I record for you and then recompense you for. So let him who finds good, praise Allah, and let him who finds other than that blame no one but himself.",
-            "bn": "আয়াতের শেষ বাক্যটি যা বলে, সুন্নাহ তা বিস্তারে বলে। সহীহ মুসলিম ২৫৭৭ এ আবূ যার (রাঃ) থেকে এমন এক হাদীস আছে যেখানে নবী ﷺ আল্লাহর কথা বর্ণনা করছেন: হে আমার বান্দারা, তোমরা আমার ক্ষতি করার সাধ্য রাখো না যে আমার ক্ষতি করবে, আর আমার উপকার করার সাধ্যও রাখো না যে আমার উপকার করবে। ওই হাদীসের শেষে আছে: এ তো তোমাদেরই আমল, যা আমি তোমাদের জন্য লিখে রাখি, তারপর তার প্রতিদান দিই। কাজেই যে ভালো পায় সে আল্লাহর প্রশংসা করুক, আর যে অন্য কিছু পায় সে নিজেকে ছাড়া কাউকে দোষ না দিক।"
+            "bn": "আয়াতের শেষ বাক্যটি যা বলে, সুন্নাহ তা বিস্তারে বলে। সহীহ মুসলিম ২৫৭৭ এ আবূ যার (রাঃ) থেকে এমন এক হাদিস আছে যেখানে নবী ﷺ আল্লাহর কথা বর্ণনা করছেন: হে আমার বান্দারা, তোমরা আমার ক্ষতি করার সাধ্য রাখো না যে আমার ক্ষতি করবে, আর আমার উপকার করার সাধ্যও রাখো না যে আমার উপকার করবে। ওই হাদিসের শেষে আছে: এ তো তোমাদেরই আমল, যা আমি তোমাদের জন্য লিখে রাখি, তারপর তার প্রতিদান দিই। কাজেই যে ভালো পায় সে আল্লাহর প্রশংসা করুক, আর যে অন্য কিছু পায় সে নিজেকে ছাড়া কাউকে দোষ না দিক।"
           },
           {
             "en": "That closing sentence is the verse's closing clause said straight to the listener. Nothing the Children of Israel did in the wilderness reduced anything of Allah's, and nothing anyone does now reduces anything either. The narration is remembered partly for its opening, where Allah says that He has forbidden oppression for Himself and made it forbidden among His servants. A verse about ingratitude toward arranged provision sits naturally beside a hadith that begins by ruling out injustice on the higher side of the relationship altogether.",
@@ -3729,7 +3729,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The hadith finishes: so, if the people in the upper part left the others do what they had suggested, all the people of the ship would be destroyed, but if they prevented them, both parties would be safe. That is 7:165 and 7:166 in one picture. Boring through a hull to save yourself a climb is exactly the shape of a workaround that looks reasonable to the one making it, which is how the town by the sea had arranged its own fishing. And the hadith puts the decisive act on the people above, who are not doing the wrong and who will drown anyway.",
-            "bn": "হাদীসের শেষ কথা: তাই উপরের লোকেরা যদি নিচের লোকদের তাদের ইচ্ছেমতো কাজ করতে দেয়, নৌকার সবাই ধ্বংস হবে; আর যদি তারা বাধা দেয়, দুই পক্ষই বাঁচবে। ৭:১৬৫ আর ৭:১৬৬ এক ছবিতে এটাই। ওঠানামার কষ্ট বাঁচাতে নৌকার তলা ফুটো করা ঠিক সেই ফাঁকফোকরের চেহারা, যা যে করছে তার কাছে যুক্তিসঙ্গতই লাগে; সমুদ্রের ধারের জনপদ নিজেদের মাছ ধরার ব্যবস্থা ঠিক এভাবেই সাজিয়েছিল। আর হাদীস আসল সিদ্ধান্তটা তুলে দেয় উপরের লোকদের হাতে, যারা অন্যায়টা করছে না, অথচ ডুববে তারাও।"
+            "bn": "হাদিসের শেষ কথা: তাই উপরের লোকেরা যদি নিচের লোকদের তাদের ইচ্ছেমতো কাজ করতে দেয়, নৌকার সবাই ধ্বংস হবে; আর যদি তারা বাধা দেয়, দুই পক্ষই বাঁচবে। ৭:১৬৫ আর ৭:১৬৬ এক ছবিতে এটাই। ওঠানামার কষ্ট বাঁচাতে নৌকার তলা ফুটো করা ঠিক সেই ফাঁকফোকরের চেহারা, যা যে করছে তার কাছে যুক্তিসঙ্গতই লাগে; সমুদ্রের ধারের জনপদ নিজেদের মাছ ধরার ব্যবস্থা ঠিক এভাবেই সাজিয়েছিল। আর হাদিস আসল সিদ্ধান্তটা তুলে দেয় উপরের লোকদের হাতে, যারা অন্যায়টা করছে না, অথচ ডুববে তারাও।"
           }
         ]
       },
@@ -3868,7 +3868,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Line Prayer Draws",
-          "bn": "নামায যে সীমারেখা টানে"
+          "bn": "নামাজ যে সীমারেখা টানে"
         },
         "p": [
           {
@@ -3945,7 +3945,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Are you holding the Book with both hands, or keeping it near you and rarely opening it? Which of today's prayers did you establish, and which one did you only get through? If the doubled verb means a grip that has to be renewed, when did you last renew yours, and what has been quietly loosening it while you were not looking?",
-            "bn": "আপনি কি কিতাবকে দুই হাতে ধরে আছেন, নাকি কাছে রেখে দিয়েছেন আর খোলেন কম? আজকের কোন নামাযটা আপনি কায়েম করলেন, আর কোনটা কেবল কাটিয়ে দিলেন? দ্বিত্ব ক্রিয়াটি যদি বোঝায় এমন ধরে থাকা যা বারবার নতুন করতে হয়, তবে শেষ কবে আপনি তা নতুন করেছেন, আর আপনার অগোচরে কী সেই মুঠি আলগা করে দিচ্ছে?"
+            "bn": "আপনি কি কিতাবকে দুই হাতে ধরে আছেন, নাকি কাছে রেখে দিয়েছেন আর খোলেন কম? আজকের কোন নামাজটা আপনি কায়েম করলেন, আর কোনটা কেবল কাটিয়ে দিলেন? দ্বিত্ব ক্রিয়াটি যদি বোঝায় এমন ধরে থাকা যা বারবার নতুন করতে হয়, তবে শেষ কবে আপনি তা নতুন করেছেন, আর আপনার অগোচরে কী সেই মুঠি আলগা করে দিচ্ছে?"
           },
           {
             "en": "Where does your life actually leave something better than it was, and where does it manage only to leave no damage behind? What good work have you stopped doing because you could not see it producing anything, and what would change this week if you took the last clause of this verse at its word and left the accounting to the One who wrote it?",
@@ -4085,7 +4085,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the choice of noun. The verse does not say their messenger and it does not use his ﷺ name. It says sahibihim, their companion, the one who keeps their company. as-Sa'di presses on exactly this: is the companion whom they know, and of whose state nothing is hidden from them, a madman? The word puts the evidence back into their own hands. They are not being asked to accept a report about a stranger; they are being asked to think about a man they have watched for years.",
-            "bn": "এরপর শব্দ বাছাইটা। আয়াত বলে না তাদের রসূল, আর তাঁর ﷺ নামও নেয় না। বলে সাহিবিহিম, তাদের সঙ্গী, যে তাদের সঙ্গেই থাকে। সা'দী ঠিক এই জায়গাটাতেই চাপ দেন: যে সঙ্গীকে তারা চেনে, আর যার অবস্থার কিছুই তাদের কাছে গোপন নয়, সে কি উন্মাদ? শব্দটি প্রমাণটা ফিরিয়ে দেয় তাদের নিজেদের হাতেই। অপরিচিত কারও ব্যাপারে কোনো খবর মেনে নিতে বলা হচ্ছে না তাদের; বলা হচ্ছে এমন একজনকে নিয়ে ভাবতে, যাঁকে তারা বছরের পর বছর দেখেছে।"
+            "bn": "এরপর শব্দ বাছাইটা। আয়াত বলে না তাদের রাসূল, আর তাঁর ﷺ নামও নেয় না। বলে সাহিবিহিম, তাদের সঙ্গী, যে তাদের সঙ্গেই থাকে। সা'দী ঠিক এই জায়গাটাতেই চাপ দেন: যে সঙ্গীকে তারা চেনে, আর যার অবস্থার কিছুই তাদের কাছে গোপন নয়, সে কি উন্মাদ? শব্দটি প্রমাণটা ফিরিয়ে দেয় তাদের নিজেদের হাতেই। অপরিচিত কারও ব্যাপারে কোনো খবর মেনে নিতে বলা হচ্ছে না তাদের; বলা হচ্ছে এমন একজনকে নিয়ে ভাবতে, যাঁকে তারা বছরের পর বছর দেখেছে।"
           },
           {
             "en": "Jinnah comes from the root j-n-n, whose sense across the language is covering and concealing, so jinnah is something drawn over a mind. The negation is emphatic in form, min jinnatin, not so much as a trace of it, and at-Tabari doubles it in his gloss: there is no madness in him ﷺ and no derangement. Then the affirmation arrives bare and indefinite. He ﷺ is nothing but a warner, a clear one, and at-Tabari reads that last word as meaning he ﷺ has made his warning plain to you.",
@@ -4420,7 +4420,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Narration Stands Here",
-          "bn": "এখানে কোনো হাদীস নেই"
+          "bn": "এখানে কোনো হাদিস নেই"
         },
         "p": [
           {
