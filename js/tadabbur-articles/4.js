@@ -2173,11 +2173,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Where in my week am I casual in a way that could cost someone else? When I have hurt a person without intending to, do I settle both sides of it, the repair owed to them and the turning owed to Allah, or only whichever is easier for me? If I were the family in this verse, how near is my heart to letting a debt go as charity, the way the verse allows?",
-            "bn": "আমার সপ্তাহের কোন জায়গায় আমি এমন ঢিলেঢালা, যার দাম অন্য কাউকে দিতে হতে পারে? ইচ্ছে না করেও কারও ক্ষতি করে ফেললে আমি কি দুই দিকই মেটাই, মানুষের কাছে মেরামতের দায় আর আল্লাহর কাছে ফিরে আসার দায়, নাকি যেটা আমার জন্য সহজ কেবল সেটাই? এই আয়াতের পরিবারের জায়গায় আমি থাকলে, আয়াত যেমন অনুমতি দেয় তেমনি পাওনা ছেড়ে দেওয়ার কাছাকাছি কি আমার মন পৌঁছায়?"
+            "bn": "আমার সপ্তাহের কোন জায়গায় আমি এমন ঢিলেঢালা, যার দাম অন্য কাউকে দিতে হতে পারে? ইচ্ছে না করেও কারও ক্ষতি করে ফেললে আমি কি দুই দিকই মেটাই, মানুষটির কাছে ক্ষতিপূরণের দায় আর আল্লাহর কাছে তওবার দায়, নাকি যেটা আমার জন্য সহজ শুধু সেটুকুই? এই আয়াতের পরিবারটির জায়গায় আমি থাকলে, আয়াত যে সুযোগ দিয়েছে সেভাবে পাওনাটা সদকা হিসেবে ছেড়ে দিতে আমার মন কতটা রাজি হতো?"
           },
           {
             "en": "How quick am I to repeat a claim about someone before I have checked it, when the verse after this pair told the Companions to investigate first? Have I ever declared someone outside the faith in my own mind on the strength of a disagreement? And when I read a verse about hellfire, do I let it frighten me into carefulness, or do I only read it as a description of other people?",
-            "bn": "কারও সম্পর্কে শোনা কথা যাচাই না করে আমি কত তাড়াতাড়ি তা আবার বলে ফেলি, অথচ এই জোড়ার পরের আয়াত সাহাবীদের আগে যাচাই করতে বলেছিল? মতের অমিলের জোরে আমি কি কখনো মনে মনে কাউকে দীনের বাইরে ঠাওরেছি? আর জাহান্নামের কথা বলা কোনো আয়াত পড়লে আমি কি সেই ভয়ে নিজে সাবধান হই, নাকি সেটিকে কেবল অন্যদের বর্ণনা হিসেবেই পড়ি?"
+            "bn": "কারও সম্পর্কে কোনো কথা যাচাই না করেই আমি কত তাড়াতাড়ি অন্যকে বলে ফেলি, অথচ এই দুই আয়াতের পরের আয়াতটিই সাহাবীদের আগে যাচাই করে নিতে বলেছিল? শুধু মতের অমিলের কারণে আমি কি কখনো মনে মনে কাউকে দীনের বাইরে ঠাওরেছি? আর জাহান্নামের কথা আছে এমন আয়াত পড়লে সেই ভয় কি আমাকে সাবধান করে, নাকি আমি ভাবি, এ তো অন্যদের কথা?"
           }
         ]
       }
@@ -2193,11 +2193,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nisa is Madinan, and this part of it is written for people on the move. 4:100 speaks of the one who leaves his home as an emigrant. 4:101 says there is no blame in shortening the prayer while travelling if you fear that those who disbelieve may attack you. 4:102 takes the next step and describes how to pray when the enemy is not a fear but a fact. 4:103 closes the subject, and 4:104 sends the believers back to the pursuit.",
-            "bn": "সূরা আন-নিসা মাদানি সূরা, আর এর এই অংশটি লেখা হয়েছে পথে-থাকা মানুষের জন্য। ৪:১০০ আয়াতে আছে তার কথা, যে হিজরত করে নিজের ঘর ছেড়ে বেরিয়ে পড়ে। ৪:১০১ আয়াত বলে, সফরে থাকা অবস্থায় কাফিরদের আক্রমণের ভয় থাকলে নামায কসর করায় কোনো দোষ নেই। ৪:১০২ আয়াত পরের ধাপে যায় এবং বলে দেয়, শত্রু যখন কেবল আশঙ্কা নয়, চোখের সামনের বাস্তবতা, তখন কীভাবে নামায পড়তে হবে। ৪:১০৩ আয়াত প্রসঙ্গটি শেষ করে, আর ৪:১০৪ আয়াত মুমিনদের আবার শত্রুর পিছু নিতে পাঠায়।"
+            "bn": "সূরা আন-নিসা মাদানী সূরা। এর এই অংশটি পথে থাকা মানুষদের জন্য। ৪:১০০ আয়াতে আছে তার কথা, যে হিজরত করে নিজের ঘর ছেড়ে বেরিয়ে পড়ে। ৪:১০১ আয়াত বলে, সফরে কাফিররা হামলা করবে এমন ভয় থাকলে নামাজ কসর করায় দোষ নেই। ৪:১০২ আয়াত আরেক ধাপ এগিয়ে বলে দেয়, শত্রু যখন শুধু ভয়ের ব্যাপার নয়, চোখের সামনের বাস্তবতা, তখন কীভাবে নামাজ পড়তে হবে। ৪:১০৩ আয়াত প্রসঙ্গটি শেষ করে, আর ৪:১০৪ আয়াত মুমিনদের আবার শত্রুর পিছু নিতে পাঠায়।"
           },
           {
             "en": "Ibn Kathir gives the occasion from Imam Ahmad, on the authority of Abu Ayyash az-Zuraqi (RA). The Muslims were with the Messenger of Allah ﷺ at Usfan when the idolaters met them under the command of Khalid ibn al-Walid (RA), and they stood between the Muslims and the qiblah. The Prophet ﷺ led the Zuhr prayer, and the idolaters said among themselves that there would soon come a prayer dearer to the Muslims than their own children, meaning Asr.",
-            "bn": "ইবনে কাসীর শানে নুযূল আনেন ইমাম আহমাদের সূত্রে, আবু আইয়াশ যুরাকী (রাঃ) থেকে। মুসলিমরা রাসূলুল্লাহ ﷺ-এর সঙ্গে উসফানে ছিলেন। সেখানে মুশরিকরা তাঁদের সামনে এসে দাঁড়ায়, নেতৃত্বে ছিলেন খালিদ ইবনুল ওয়ালিদ (রাঃ)। তারা অবস্থান নেয় মুসলিমদের আর কিবলার মাঝখানে। নবী ﷺ যোহরের নামায পড়ালেন। মুশরিকরা নিজেদের মধ্যে বলাবলি করল, এরপর এমন এক নামায আসছে যা মুসলিমদের কাছে নিজেদের সন্তানের চেয়েও প্রিয়, অর্থাৎ আসরের নামায।"
+            "bn": "ইবনে কাসীর ইমাম আহমাদের সূত্রে আবু আইয়াশ যুরাকী (রাঃ) থেকে এর শানে নুযূল বর্ণনা করেন। মুসলিমরা রাসূলুল্লাহ ﷺ-এর সঙ্গে উসফানে ছিলেন। তখন খালিদ ইবনুল ওয়ালিদ (রাঃ)-এর নেতৃত্বে মুশরিকরা তাঁদের মুখোমুখি হলো এবং মুসলিমদের আর কিবলার মাঝখানে অবস্থান নিল। নবী ﷺ যোহরের নামাজ পড়ালেন। মুশরিকরা নিজেদের মধ্যে বলাবলি করল, এরপর এমন এক নামাজ আসছে, যা মুসলিমদের কাছে নিজেদের সন্তানের চেয়েও প্রিয়। তারা আসরের নামাজের কথা বলছিল।"
           },
           {
             "en": "In the report, Jibril (AS) came down with these verses between the two prayers. When the time came, the Prophet ﷺ ordered the Muslims to hold their weapons and drew them up in two lines behind him. They bowed together, and then the line nearest him prostrated while the others stood on guard; when the first had risen, the second prostrated. The two lines changed places, and the same was done in the second cycle. Ibn Kathir adds that Abu Dawud and an-Nasa'i also record this narration.",
@@ -2213,11 +2213,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse builds its instruction on one repeated word, ta'ifah, a group or a party: let a ta'ifah of them stand with you, and let another ta'ifah which has not prayed come forward. The congregation is deliberately halved, so that at every moment part of it is in prayer and part of it is facing the danger. Nothing in the verse asks the second group to miss the prayer; it asks them to wait their turn while their brothers stand.",
-            "bn": "আয়াত তার নির্দেশ গড়ে তোলে একটি শব্দের পুনরাবৃত্তির ওপর, তায়িফা, অর্থাৎ দল বা অংশ। তাদের একটি তায়িফা যেন তোমার সঙ্গে দাঁড়ায়, আর যে তায়িফা নামায পড়েনি সেটি যেন সামনে আসে। জামাতকে ইচ্ছা করেই দুই ভাগ করা হয়েছে, যাতে প্রতি মুহূর্তে এক অংশ নামাযে থাকে আর এক অংশ থাকে বিপদের মুখোমুখি। আয়াত দ্বিতীয় দলকে নামায ছেড়ে দিতে বলছে না। বলছে, ভাইয়েরা দাঁড়ানো অবস্থায় থাকতে থাকতে তারা যেন নিজেদের পালার অপেক্ষা করে।"
+            "bn": "আয়াতের নির্দেশ দাঁড়িয়ে আছে একটি শব্দের ওপর, যা বারবার আসে: তায়িফা, অর্থাৎ দল বা অংশ। তাদের এক তায়িফা যেন তোমার সঙ্গে দাঁড়ায়, আর যে তায়িফা নামাজ পড়েনি তারা যেন এগিয়ে আসে। জামাতকে ইচ্ছা করেই দুই ভাগ করা হয়েছে, যাতে সবসময় এক ভাগ নামাজে থাকে আর অন্য ভাগ বিপদের মুখোমুখি। আয়াত দ্বিতীয় দলকে নামাজ বাদ দিতে বলছে না। বলছে, ভাইয়েরা যখন নামাজে দাঁড়িয়ে, তারা যেন নিজেদের পালার অপেক্ষা করে।"
           },
           {
             "en": "Two more words carry the sense of the verse. Aslihah are their weapons, and the command is that they take them, hold them, keep them on the body. Hidhr is wariness, the alertness a person keeps who knows he may be struck, and the verse names it twice, once as an order to the group standing in prayer and once at the end to all of them. The pairing is the point. The believers are not told to choose between being at prayer and being awake to danger; they are told to be both at once.",
-            "bn": "আয়াতের ভাব বয়ে আনে আরও দুটি শব্দ। আসলিহা মানে তাদের অস্ত্র, আর হুকুম হলো তারা যেন তা হাতে নেয়, ধরে রাখে, গায়ের সঙ্গে রাখে। হিযর মানে সতর্কতা, যে জানে তার ওপর আঘাত আসতে পারে তার সজাগ থাকা। আয়াত শব্দটি দুবার আনে, একবার নামাযে দাঁড়ানো দলটির প্রতি হুকুম হিসেবে, আরেকবার শেষে সবার উদ্দেশে। এই জোড়াটাই আসল কথা। মুমিনদের বলা হয়নি, হয় নামাযে থাকো নয়তো বিপদের ব্যাপারে সজাগ থাকো। বলা হয়েছে, একই সঙ্গে দুটোই হও।"
+            "bn": "আয়াতের মর্ম ধরে রেখেছে আরও দুটি শব্দ। আসলিহা মানে তাদের অস্ত্র; হুকুম হলো, অস্ত্র হাতে নাও, ধরে রাখো, গায়ের সঙ্গে রাখো। হিযর মানে সতর্কতা: আঘাত আসতে পারে জেনে মানুষ যেমন সজাগ থাকে। আয়াতে শব্দটি দুবার এসেছে, একবার নামাজে দাঁড়ানো দলের প্রতি হুকুম হিসেবে, আরেকবার শেষে সবার উদ্দেশে। এই জোড়াটাই আসল কথা। মুমিনদের বলা হয়নি, হয় নামাজে থাকো, নয়তো বিপদের দিকে চোখ রাখো। বলা হয়েছে, একই সঙ্গে দুটোই করো।"
           },
           {
             "en": "The verse then names the enemy's hope in plain words: those who disbelieve would love for you to grow heedless of your weapons and your baggage so that they could swoop on you in a single rush. And it makes room for human limits. If rain is a hardship, or if you are ill, there is no blame in putting the weapons down. But even in the concession the wariness is repeated. The permission is about the weight in the hand, never about the alertness in the chest.",
@@ -2241,7 +2241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He reports Ishaq ibn Rahwayh saying that when a battle is raging a single cycle in which you nod your head suffices, and that if even this is beyond you, one prostration suffices, because prostration is remembrance of Allah. All of this Ibn Kathir sets out as reported positions, not as one settled rule, and that is how it is repeated here. Which form applies to a given situation is a question for those qualified to answer it; nothing is decided in this article.",
-            "bn": "তিনি ইসহাক ইবনে রাহওয়াইহ থেকে আনেন, লড়াই যখন তুঙ্গে তখন মাথা ইশারা করে এক রাকাত পড়াই যথেষ্ট; আর তাও সম্ভব না হলে একটি সাজদাহই যথেষ্ট, কারণ সাজদাহ আল্লাহরই স্মরণ। এই সবকিছুই ইবনে কাসীর তুলে ধরেন বর্ণিত মত হিসেবে, একটিমাত্র চূড়ান্ত বিধান হিসেবে নয়। এখানেও সেভাবেই তা তোলা হলো। কোন অবস্থায় কোন রূপ প্রযোজ্য, সেই প্রশ্নের জবাব যাঁরা দেওয়ার যোগ্য তাঁদের কাছে; এই লেখায় কিছুই ফয়সালা করা হচ্ছে না।"
+            "bn": "তিনি ইসহাক ইবনে রাহওয়াইহ-এর কথা আনেন: লড়াই যখন তুঙ্গে, তখন মাথা দিয়ে ইশারা করে এক রাকাত পড়াই যথেষ্ট; তাও না পারলে একটি সাজদাহই যথেষ্ট, কারণ সাজদাহও আল্লাহর জিকির। ইবনে কাসীর এসবই তুলে ধরেছেন বর্ণিত মত হিসেবে, একটিমাত্র চূড়ান্ত বিধান হিসেবে নয়; এখানেও সেভাবেই বলা হলো। কোন অবস্থায় কোন রূপ খাটবে, সে প্রশ্নের জবাব দেবেন যোগ্য আলেমরা। এই লেখা কোনো ফয়সালা দিচ্ছে না।"
           }
         ]
       },
@@ -2280,7 +2280,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Verses That Sit Beside It",
-          "bn": "পাশে বসা আয়াতগুলো"
+          "bn": "পাশাপাশি পড়ার আয়াত"
         },
         "p": [
           {
@@ -2289,7 +2289,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "20:14 gives the reason underneath all of it: there is no deity except Me, so worship Me and establish the prayer for My remembrance. 29:45 says that the prayer restrains immorality and wrongdoing and that the remembrance of Allah is greater. Set against a battlefield, these verses explain why the form could be bent so far without being abandoned: what the prayer is for does not change when the circumstances do.",
-            "bn": "২০:১৪ আয়াত সবকিছুর নিচের কারণটি বলে দেয়: আমি ছাড়া সত্য কোনো ইলাহ নেই, কাজেই আমার ইবাদত করো আর আমার স্মরণের জন্য নামায কায়েম করো। ২৯:৪৫ আয়াত বলে, নামায অশ্লীল ও মন্দ কাজ থেকে বিরত রাখে, আর আল্লাহর স্মরণই সবচেয়ে বড়। যুদ্ধের ময়দানের পাশে রাখলে এই আয়াতগুলো বুঝিয়ে দেয়, কেন নামাযের গড়ন এতটা বাঁকানো গেল অথচ নামাযটাই ছাড়া গেল না। পরিস্থিতি বদলালেও নামায কীসের জন্য, তা বদলায় না।"
+            "bn": "২০:১৪ আয়াত এই সবকিছুর মূল কারণটি বলে দেয়: আমি ছাড়া সত্য কোনো ইলাহ নেই, কাজেই আমার ইবাদত করো আর আমার স্মরণের জন্য নামাজ কায়েম করো। ২৯:৪৫ আয়াত বলে, নামাজ অশ্লীল ও মন্দ কাজ থেকে বিরত রাখে, আর আল্লাহর জিকিরই সবচেয়ে বড়। যুদ্ধের ময়দানের সঙ্গে মিলিয়ে পড়লে এই আয়াতগুলো বুঝিয়ে দেয়, নামাজের গড়ন এতটা বদলানো গেল অথচ নামাজ ছাড়া গেল না কেন। অবস্থা বদলায়, কিন্তু নামাজ যে জন্য, তা বদলায় না।"
           }
         ]
       },
@@ -2301,7 +2301,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first thing to take from these verses is an order of priority. If the prayer was kept with an army drawn up and arrows in the air, then a meeting, a shift, a journey, a queue and a sick child are not reasons to drop it. They are reasons to look for the form that fits: shortened, combined where that applies, seated, on a train, with a coat for a mat. Ask what can still be done, not whether to do it.",
-            "bn": "এই আয়াতগুলো থেকে প্রথমে যা নিতে হবে তা হলো অগ্রাধিকারের ক্রম। সৈন্যদল কাতারবন্দী আর তীর উড়ছে, এমন অবস্থাতেও যদি নামায ধরে রাখা যায়, তবে মিটিং, ডিউটি, সফর, লাইনে দাঁড়ানো কিংবা অসুস্থ সন্তান নামায বাদ দেওয়ার কারণ নয়। ওগুলো বরং কারণ, উপযুক্ত গড়নটা খুঁজে নেওয়ার: কসর করে, যেখানে প্রযোজ্য সেখানে একত্র করে, বসে, ট্রেনে, গায়ের চাদর বিছিয়ে। প্রশ্নটা হোক, এখনও কতটা করা যায়; পড়ব কি পড়ব না, সেটা নয়।"
+            "bn": "এই আয়াতগুলোর প্রথম শিক্ষা: কোনটা আগে, কোনটা পরে। সৈন্যরা কাতারবন্দী, মাথার ওপর তীর উড়ছে, এমন অবস্থাতেও যদি নামাজ ছাড়া না হয়, তবে মিটিং, ডিউটি, সফর, লাইনে দাঁড়ানো বা অসুস্থ সন্তান নামাজ বাদ দেওয়ার কারণ হতে পারে না। এগুলো বরং খুঁজে দেখার কারণ, এই অবস্থায় নামাজের কোন রূপটা খাটে: কসর করে, যেখানে নিয়ম আছে সেখানে একসঙ্গে মিলিয়ে, বসে, ট্রেনে, গায়ের চাদর বিছিয়ে। প্রশ্ন হোক, এখনও কতটুকু করা যায়; পড়ব কি পড়ব না, সেটা নয়।"
           },
           {
             "en": "The second is the duty of the group that is not praying. Someone watched the road so that others could bow. That is a job in every community: minding the children so parents can pray, covering a colleague's desk at Maghrib, driving so a passenger can pray at a stop, taking the late shift in Ramadan. And the third is the return. When the danger lifts, 4:103 says, establish the prayer whole. A concession that outlives its hardship has quietly become a habit.",
@@ -2312,7 +2312,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Prayer in Its Words",
-          "bn": "আয়াতের শব্দে একটি দু'আ"
+          "bn": "আয়াতের শব্দে দু'আ"
         },
         "p": [
           {
@@ -2321,7 +2321,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Each line answers something in the text. The first answers the fear that occasioned the verse; the second answers the doubled command to take your wariness while standing in prayer; the third answers 4:103 and its call to remember Allah standing, sitting and lying down; and the last answers the sentence that sends the believers back to the full prayer once they are secure. Say it after reading the two verses, and the battlefield becomes a request for your own day.",
-            "bn": "প্রতিটি লাইন আয়াতের কোনো না কোনো কথার জবাব। প্রথমটি সেই ভয়ের জবাব, যার প্রেক্ষাপটে আয়াত নেমেছিল। দ্বিতীয়টি জবাব দেয় সেই দুবার আসা হুকুমকে, নামাযে দাঁড়ানো অবস্থায় সতর্কতা নিতে বলা হয়েছে যেখানে। তৃতীয়টি ৪:১০৩ আয়াতের জবাব, যেখানে দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করতে বলা হয়েছে। আর শেষটি জবাব দেয় সেই বাক্যকে, যা নিরাপত্তা ফিরলে মুমিনদের পুরো নামাযে ফিরিয়ে দেয়। দুই আয়াত পড়ার পর এটি পড়ুন, তাতে যুদ্ধের ময়দান আপনার নিজের দিনের জন্য একটি চাওয়া হয়ে ওঠে।"
+            "bn": "প্রতিটি লাইন আয়াতের কোনো না কোনো কথার জবাব। প্রথম লাইনটি সেই ভয়ের জবাব, যার প্রেক্ষাপটে আয়াত নাজিল হয়েছিল। দ্বিতীয়টি সেই হুকুমের জবাব, যা দুবার এসেছে: নামাজে দাঁড়িয়েও সতর্ক থাকো। তৃতীয়টি ৪:১০৩ আয়াতের জবাব, যেখানে দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করতে বলা হয়েছে। আর শেষটি সেই বাক্যের জবাব, যা নিরাপদ হলে মুমিনদের পুরো নামাজে ফিরিয়ে আনে। দুই আয়াত পড়ার পর দু'আটি পড়ুন। তখন সেই যুদ্ধের ময়দানের কথা হয়ে উঠবে আপনার নিজের দিনের জন্য চাওয়া।"
           }
         ]
       },
@@ -2337,7 +2337,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Whose prayer is made possible by work that I could do, and am I doing it? What am I heedless about because life feels safe right now, in the way the verse warns against heedlessness over weapons and baggage? And when my prayer ends, do I get up immediately, or do I stay long enough to remember the One I was just standing before?",
-            "bn": "আমি করতে পারি এমন কোন কাজের ওপর অন্য কারও নামায পড়া নির্ভর করে, আর সেই কাজটি কি আমি করছি? এখন জীবন নিরাপদ মনে হয় বলে আমি কোন ব্যাপারে গাফেল হয়ে আছি, যেমন আয়াত অস্ত্র আর সরঞ্জামের ব্যাপারে গাফেল হতে মানা করে? আর নামায শেষ হলে আমি কি সঙ্গে সঙ্গে উঠে পড়ি, নাকি একটু বসে যাঁর সামনে এতক্ষণ দাঁড়িয়ে ছিলাম তাঁকে স্মরণ করি?"
+            "bn": "আমি একটু কাজ করে দিলে কার নামাজ পড়া সম্ভব হয়, আর সে কাজটা কি আমি করছি? জীবন এখন নিরাপদ মনে হচ্ছে বলে আমি কোন ব্যাপারে গাফেল হয়ে আছি, যেমন গাফেলতি থেকে আয়াত অস্ত্র আর সরঞ্জামের ব্যাপারে সাবধান করেছে? আর নামাজ শেষ হলে আমি কি সঙ্গে সঙ্গে উঠে পড়ি, নাকি যাঁর সামনে এইমাত্র দাঁড়িয়ে ছিলাম, তাঁকে স্মরণ করার জন্য একটু বসে থাকি?"
           }
         ]
       }
@@ -2353,15 +2353,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse sits inside the most concrete stretch of Surah an-Nisa. From 4:105 the revelation addresses a live dispute: the Prophet ﷺ is told that the Book was sent down in truth so that he may judge between people by what Allah has shown him, and that he must not be an advocate for the treacherous. 4:106 tells him to seek Allah's forgiveness. 4:107 repeats the prohibition, 4:108 exposes the schemers, and 4:109 turns the whole scene toward the Day of Resurrection.",
-            "bn": "এই আয়াতটি বসে আছে সূরা আন-নিসার সবচেয়ে বাস্তব অংশটির ভেতরে। ৪:১০৫ আয়াত থেকে ওহী একটি চলতি ঝগড়ার কথা বলছে। নবী ﷺ-কে জানানো হচ্ছে, কিতাব সত্যসহ নাযিল হয়েছে যাতে আল্লাহ তাঁকে যা দেখিয়েছেন সে অনুযায়ী তিনি মানুষের মধ্যে ফয়সালা করেন, আর খিয়ানতকারীদের পক্ষে যেন তিনি না দাঁড়ান। ৪:১০৬ আয়াত তাঁকে আল্লাহর কাছে ক্ষমা চাইতে বলে। ৪:১০৭ আয়াত নিষেধটি আবার বলে, ৪:১০৮ আয়াত ষড়যন্ত্রকারীদের মুখোশ খুলে দেয়, আর ৪:১০৯ আয়াত গোটা দৃশ্যটাকে কিয়ামতের দিকে ঘুরিয়ে দেয়।"
+            "bn": "সূরা আন-নিসার যে অংশ সবচেয়ে বাস্তব ঘটনার সঙ্গে জড়ানো, এই আয়াত তারই ভেতরে। ৪:১০৫ আয়াত থেকে ওহি একটি চলমান বিবাদের কথা বলছে। নবী ﷺ-কে জানানো হচ্ছে, কিতাব সত্যসহ নাজিল হয়েছে, যাতে আল্লাহ তাঁকে যা দেখিয়েছেন সে অনুযায়ী তিনি মানুষের মধ্যে ফয়সালা করেন; আর তিনি যেন খিয়ানতকারীদের উকীল না হন। ৪:১০৬ আয়াত তাঁকে আল্লাহর কাছে মাফ চাইতে বলে। ৪:১০৭ আয়াত নিষেধটি আবার বলে, ৪:১০৮ আয়াত ষড়যন্ত্রকারীদের মুখোশ খুলে দেয়, আর ৪:১০৯ আয়াত গোটা দৃশ্যটাকে কিয়ামতের দিকে ঘুরিয়ে দেয়।"
           },
           {
             "en": "The occasion, as at-Tirmidhi relates it, was a theft: the blame was being steered toward an innocent man while the guilty party's people argued his case. Ibn Kathir's own comment on this passage does not retell that story. He keeps to the principle, saying that these verses chastise the hypocrites, who hide their evil works from people so that nobody will criticise them, while disclosing that same evil before Allah, who watches over their secrets and knows what is in their hearts.",
-            "bn": "আত-তিরমিযীর বর্ণনায় শানে নুযূল ছিল একটি চুরি। দোষ চাপানো হচ্ছিল নির্দোষ এক ব্যক্তির ওপর, আর আসল অপরাধীর লোকজন তার পক্ষে কথা বলছিল। ইবনে কাসীর এই অংশের ব্যাখ্যায় সেই কাহিনি আবার বলেন না। তিনি নীতিটির সঙ্গেই থাকেন। তিনি বলেন, এই আয়াতগুলো মুনাফিকদের তিরস্কার করছে। তারা নিজেদের মন্দ কাজ মানুষের কাছ থেকে লুকায় যাতে কেউ দোষ না ধরে, অথচ সেই একই মন্দ আল্লাহর সামনে খোলা পড়ে থাকে; তিনি তাদের গোপন বিষয়ের ওপর নজর রাখেন আর অন্তরের কথা জানেন।"
+            "bn": "তিরমিযীর বর্ণনায় এর শানে নুযূল একটি চুরির ঘটনা। দোষ চাপানো হচ্ছিল এক নির্দোষ মানুষের ঘাড়ে, আর আসল অপরাধীর লোকজন তার পক্ষে সাফাই গাইছিল। ইবনে কাসীর এই অংশের ব্যাখ্যায় সে কাহিনি আর বলেননি; তিনি মূল নীতির কথাই বলেছেন। তাঁর কথায়, এই আয়াতগুলো মুনাফিকদের তিরস্কার করছে। তারা নিজেদের মন্দ কাজ মানুষের কাছ থেকে লুকায়, যাতে কেউ দোষ না ধরে; অথচ সেই একই মন্দ খোলা পড়ে থাকে আল্লাহর সামনে, যিনি তাদের গোপন সব কিছুর ওপর নজর রাখেন আর অন্তরে কী আছে তা জানেন।"
           },
           {
             "en": "So the passage has a shape. First a command to the judge, then a warning about the people bringing the case, then this verse, which lifts the reader out of the courtroom and sets the same defendants in front of Allah. Then 4:110 opens the door of forgiveness to anyone in the scene who will turn, and 4:112 names the crime plainly: whoever earns a fault or a sin and then throws it on an innocent person has taken on a slander and a manifest sin.",
-            "bn": "অর্থাৎ অংশটির একটি গড়ন আছে। প্রথমে বিচারকের প্রতি হুকুম, তারপর যারা মামলা নিয়ে আসছে তাদের নিয়ে সতর্কবাণী, তারপর এই আয়াত। এটি পাঠককে আদালত থেকে তুলে এনে সেই একই আসামিদের আল্লাহর সামনে দাঁড় করিয়ে দেয়। এরপর ৪:১১০ আয়াত এই দৃশ্যের যে কেউ ফিরে আসতে চাইলে তার জন্য ক্ষমার দরজা খুলে দেয়। আর ৪:১১২ আয়াত অপরাধটির নাম সোজা করে বলে দেয়: যে কোনো ত্রুটি বা গুনাহ করে তা কোনো নির্দোষের ঘাড়ে চাপিয়ে দেয়, সে অপবাদ আর স্পষ্ট গুনাহ নিজের ঘাড়েই তুলে নিল।"
+            "bn": "তাহলে অংশটির একটা পরিষ্কার ধারা আছে। প্রথমে বিচারকের প্রতি হুকুম, তারপর যারা মামলা নিয়ে এসেছে তাদের নিয়ে সতর্কবাণী, তারপর এই আয়াত। এই আয়াত পাঠককে আদালত থেকে তুলে এনে সেই একই আসামিদের আল্লাহর সামনে দাঁড় করিয়ে দেয়। এরপর ৪:১১০ আয়াত এই ঘটনার যে কেউ ফিরে আসতে চাইলে তার জন্য মাফের দরজা খুলে দেয়। আর ৪:১১২ আয়াত অপরাধটির নাম সোজাসুজি বলে দেয়: যে কোনো ভুল বা গুনাহ করে তা কোনো নির্দোষের ঘাড়ে চাপায়, সে অপবাদ আর স্পষ্ট গুনাহ নিজের ঘাড়েই তুলে নিল।"
           }
         ]
       },
@@ -2373,7 +2373,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a pointing gesture: ha antum ha'ula'i, here you are, these very people. It is not a description; it is the Quran turning and looking straight at an audience that thought it was watching. Whoever had been speaking up for the accused is suddenly the one being addressed, and the tone of the opening carries the reproach before any argument is made. Nothing else in the verse would land without that first turn of the head.",
-            "bn": "আয়াত শুরু হয় আঙুল তুলে দেখানোর ভঙ্গিতে: হা আনতুম হাউলাই, এই তো তোমরা, এরাই সেই লোক। এটি কোনো বর্ণনা নয়। কুরআন এখানে ঘুরে দাঁড়িয়ে সোজা তাকিয়েছে এমন শ্রোতাদের দিকে, যারা ভেবেছিল তারা কেবল দেখছে। যারা অভিযুক্তের পক্ষে কথা বলছিল, হঠাৎ তারাই সম্বোধনের মুখে পড়ে যায়। কোনো যুক্তি আসার আগেই শুরুর সুরটাই তিরস্কার বয়ে আনে। মাথাটা ওই ঘুরে যাওয়া ছাড়া আয়াতের বাকি কিছুই গায়ে লাগত না।"
+            "bn": "আয়াত শুরু হয় আঙুল তুলে দেখানোর ভঙ্গিতে: হা আনতুম হাউলাই, এই তো তোমরা, এরাই সেই লোক। এটা কোনো বর্ণনা নয়। কুরআন এখানে ঘুরে সোজা তাকিয়েছে সেই শ্রোতাদের দিকে, যারা ভেবেছিল তারা শুধু দর্শক। যারা অভিযুক্তের পক্ষে কথা বলছিল, হঠাৎ কথাটা এসে পড়ে তাদেরই ওপর। কোনো যুক্তি আসার আগেই শুরুর সুরে তিরস্কারটা বোঝা যায়। মুখ ঘুরিয়ে সোজা তাকানোর এই প্রথম ভঙ্গিটা না থাকলে আয়াতের বাকি কথা এভাবে গায়ে লাগত না।"
           },
           {
             "en": "Then the verb. Jadaltum anhum, you have argued on their behalf, from the root j-d-l, which is dispute, the back and forth of a case. The same verb had just been forbidden in 4:107, do not argue on behalf of those who betray themselves, and it now returns in the question: fa-man yujadilu Allaha anhum, who will argue with Allah on their behalf? The word is held steady while the setting changes, and that is where the whole force of the verse lies.",
@@ -2393,7 +2393,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir's reading of this verse is short and exact. Suppose, he says, these people do obtain a verdict in their favour from the rulers in this life, since rulers judge according to what is apparent to them. What then will their condition be on the Day of Resurrection, before Allah, who knows the secret and what is even more hidden? None will support them on that Day. That is his answer to the verse's unanswered question, and it is no answer at all.",
-            "bn": "এই আয়াত নিয়ে ইবনে কাসীরের পাঠ ছোট এবং নিখুঁত। তিনি বলেন, ধরে নাও এই লোকেরা দুনিয়ার শাসকদের কাছ থেকে নিজেদের পক্ষে রায় পেয়েই গেল, কারণ শাসকেরা তো তাঁদের সামনে যা প্রকাশ পায় সে অনুযায়ীই ফয়সালা করেন। তাহলে কিয়ামতের দিন আল্লাহর সামনে তাদের অবস্থা কী হবে, যিনি গোপন জানেন আর তার চেয়েও গভীরে যা লুকানো তাও জানেন? সেদিন কেউ তাদের পাশে দাঁড়াবে না। আয়াতের জবাবহীন প্রশ্নের এটিই তাঁর জবাব, আর এ আসলে কোনো জবাবই নয়।"
+            "bn": "এই আয়াত নিয়ে ইবনে কাসীরের ব্যাখ্যা ছোট, কিন্তু নিখুঁত। তিনি বলেন, ধরা যাক এই লোকেরা দুনিয়ার শাসকদের কাছ থেকে নিজেদের পক্ষে রায় পেয়েই গেল, কারণ শাসকেরা তো বাইরে যা দেখেন সে অনুযায়ীই ফয়সালা করেন। তাহলে কিয়ামতের দিন আল্লাহর সামনে তাদের কী অবস্থা হবে, যিনি গোপন কথা জানেন, আর তার চেয়েও লুকানো যা, তাও জানেন? সেদিন কেউ তাদের পাশে দাঁড়াবে না। আয়াতের জবাবহীন প্রশ্নের এটাই তাঁর জবাব, আর এ আসলে কোনো জবাবই নয়।"
           },
           {
             "en": "Al-Muyassar reads the address as falling on the believers themselves: here you are, O believers, you have argued on behalf of these people who betray themselves, in this worldly life; so who will argue with Allah for them on the Day of resurrection and reckoning, and who will be their representative on that Day? On this reading the rebuke is not aimed at the guilty party but at the sincere people who took up their case, and that is what makes the verse uncomfortable to read.",
@@ -2413,7 +2413,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Imam Ahmad records a fuller scene from her: two men of the Ansar came with a dispute over an old inheritance and had no evidence, and the Prophet ﷺ said the same words, adding that whoever is given something of his brother's right should not take it. The two men wept, and each said he gave up his right to the other. He then told them to go, divide it, aim at what was just, draw lots, and each forgive the other. A verdict is not a title deed.",
-            "bn": "ইমাম আহমাদ তাঁর থেকেই আরও পূর্ণ একটি দৃশ্য আনেন। আনসারদের দুই ব্যক্তি পুরনো এক উত্তরাধিকার নিয়ে ঝগড়া নিয়ে এলেন, কারও হাতে প্রমাণ ছিল না। নবী ﷺ একই কথা বললেন, সঙ্গে যোগ করলেন, কাউকে যদি তার ভাইয়ের হক থেকে কিছু দিয়ে দেওয়া হয় তবে সে যেন তা না নেয়। দুজনেই কেঁদে ফেললেন, আর প্রত্যেকে বললেন, আমি আমার হক অন্যজনকে ছেড়ে দিলাম। তখন তিনি বললেন, যাও, ভাগ করে নাও, ন্যায়ের দিকে লক্ষ রাখো, লটারি করে নাও, আর একে অন্যকে মাফ করে দাও। রায় মানেই মালিকানার দলিল নয়।"
+            "bn": "ইমাম আহমাদ তাঁর থেকেই আরও পূর্ণ একটি দৃশ্য আনেন। আনসারদের দুই ব্যক্তি পুরনো এক মিরাস নিয়ে বিবাদ মেটাতে এলেন, কারও হাতে প্রমাণ ছিল না। নবী ﷺ একই কথা বললেন, সঙ্গে যোগ করলেন, কাউকে যদি তার ভাইয়ের হক থেকে কিছু দিয়ে দেওয়া হয় তবে সে যেন তা না নেয়। দুজনেই কেঁদে ফেললেন, আর প্রত্যেকে বললেন, আমি আমার হক অন্যজনকে ছেড়ে দিলাম। তখন তিনি বললেন, যাও, ভাগ করে নাও, ন্যায়ের দিকে লক্ষ রাখো, লটারি করে নাও, আর একে অন্যকে মাফ করে দাও। রায় মানেই মালিকানার দলিল নয়।"
           }
         ]
       },
@@ -2425,11 +2425,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "16:111 describes the Day when every soul comes disputing for itself and every soul is paid in full for what it did, and none is wronged. The same verb from 4:109 appears there, but now each person can only argue for himself. 82:19 says it in the barest terms: a Day when no soul will possess anything at all for another soul, and the command that Day belongs to Allah. 2:48 adds that no intercession will be accepted from such a soul and no compensation taken from it.",
-            "bn": "১৬:১১১ আয়াত সেই দিনের ছবি আঁকে, যেদিন প্রত্যেক মানুষ নিজের পক্ষে যুক্তি পেশ করবে আর প্রত্যেককে তার কাজের পুরো প্রতিফল দেওয়া হবে, কারও ওপর জুলুম হবে না। ৪:১০৯ আয়াতের সেই ক্রিয়াটিই সেখানে ফিরে আসে, তবে এবার প্রত্যেকে কেবল নিজের পক্ষেই বলতে পারে। ৮২:১৯ আয়াত কথাটা একেবারে খালি করে বলে: সেদিন কেউ অন্যের জন্য কিছু করার সামর্থ্য রাখবে না, আর সেদিনের কর্তৃত্ব একমাত্র আল্লাহর। ২:৪৮ আয়াত যোগ করে, তখন কারও সুপারিশ গৃহীত হবে না, কারও কাছ থেকে ক্ষতিপূরণও নেওয়া হবে না।"
+            "bn": "১৬:১১১ আয়াত সেই দিনের ছবি আঁকে, যেদিন প্রত্যেকে নিজের পক্ষে তর্ক করতে করতে আসবে, আর প্রত্যেককে তার কাজের পুরো প্রতিফল দেওয়া হবে, কারও ওপর জুলুম হবে না। ৪:১০৯ আয়াতের সেই ক্রিয়াটিই সেখানে ফিরে আসে, তবে এবার প্রত্যেকে কেবল নিজের পক্ষেই তর্ক করতে পারবে। ৮২:১৯ আয়াত কথাটা একেবারে সোজা ভাষায় বলে: সেদিন কেউ অন্য কারও জন্য কিছুই করার ক্ষমতা রাখবে না, আর সেদিন হুকুম চলবে কেবল আল্লাহর। ২:৪৮ আয়াত যোগ করে, সেদিন কারও সুপারিশ কবুল হবে না, কারও কাছ থেকে বিনিময়ও নেওয়া হবে না।"
           },
           {
             "en": "40:18 warns of the approaching Day when hearts are at the throats and says that for the wrongdoers there is no devoted friend and no intercessor who is obeyed. Read after 4:109, these verses are not four separate warnings but one answer repeated: the post of advocate, on that Day, is vacant. And 4:111, two verses on, closes the loop from the other side by saying that whoever earns a sin earns it only against himself.",
-            "bn": "৪০:১৮ আয়াত সেই ঘনিয়ে আসা দিনের কথা বলে, যেদিন প্রাণ ওষ্ঠাগত হবে; আর বলে, যালিমদের জন্য কোনো অন্তরঙ্গ বন্ধু থাকবে না, এমন কোনো সুপারিশকারীও থাকবে না যার কথা মানা হবে। ৪:১০৯ আয়াতের পর পড়লে এগুলো আলাদা চারটি সতর্কবাণী নয়, একই জবাবের বারবার বলা: সেদিন উকীলের পদটি খালি। আর দুই আয়াত পরে ৪:১১১ আয়াত অন্য দিক থেকে বৃত্তটি বন্ধ করে দেয়, বলে, যে গুনাহ কামায় সে তা নিজের বিরুদ্ধেই কামায়।"
+            "bn": "৪০:১৮ আয়াত সেই ঘনিয়ে আসা দিনের ব্যাপারে সাবধান করে, যেদিন প্রাণ ওষ্ঠাগত হবে; আর বলে, যালিমদের জন্য সেদিন কোনো অন্তরঙ্গ বন্ধু থাকবে না, এমন কোনো সুপারিশকারীও থাকবে না যার কথা মানা হবে। ৪:১০৯ আয়াতের পর পড়লে এগুলো আলাদা চারটি সতর্কবাণী নয়, একই জবাব বারবার: সেদিন উকীলের আসন খালি। আর দুই আয়াত পরে ৪:১১১ আয়াত উল্টো দিক থেকে কথাটা পূর্ণ করে: যে গুনাহ কামায়, সে তা কামায় কেবল নিজের বিরুদ্ধেই।"
           }
         ]
       },
@@ -2441,7 +2441,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first thing this verse asks of a reader is a check before speaking. Defending someone is not neutral; it lends them your name and your credibility. So before taking up a case for a relative, a colleague, a party, a community or a friend, ask what you actually know and what you are only assuming because they are yours. 4:135 sets the standard: stand firm in justice as witnesses for Allah, even against yourselves, your parents and your relatives.",
-            "bn": "এই আয়াত পাঠকের কাছে প্রথমে যা চায়, তা হলো মুখ খোলার আগে একবার যাচাই। কারও পক্ষ নেওয়া নিরপেক্ষ কাজ নয়। এতে আপনার নাম আর আপনার বিশ্বাসযোগ্যতা তাকে ধার দেওয়া হয়। তাই আত্মীয়, সহকর্মী, দল, সম্প্রদায় বা বন্ধুর হয়ে দাঁড়ানোর আগে নিজেকে জিজ্ঞেস করুন, আপনি সত্যিই কী জানেন আর কতটুকু কেবল ধরে নিচ্ছেন এই কারণে যে সে আপনার লোক। ৪:১৩৫ আয়াত মানটা ঠিক করে দেয়: ন্যায়ের ওপর দৃঢ় থাকো, আল্লাহর জন্য সাক্ষী হও, তা নিজেদের, বাবা-মায়ের বা আত্মীয়ের বিরুদ্ধে গেলেও।"
+            "bn": "এই আয়াত পাঠকের কাছে প্রথমে যা চায়, তা হলো মুখ খোলার আগে একবার যাচাই। কারও পক্ষ নেওয়া নিরপেক্ষ কাজ নয়। এতে আপনি তাকে নিজের নাম আর নিজের বিশ্বাসযোগ্যতা ধার দেন। তাই আত্মীয়, সহকর্মী, দল, সম্প্রদায় বা বন্ধুর হয়ে দাঁড়ানোর আগে নিজেকে জিজ্ঞেস করুন, আপনি সত্যিই কী জানেন আর কতটুকু শুধু আপনার লোক বলেই ধরে নিচ্ছেন। ৪:১৩৫ আয়াত মানটা ঠিক করে দেয়: ন্যায়ের ওপর দৃঢ় থাকো, আল্লাহর জন্য সাক্ষী হও, তা নিজেদের, বাবা-মায়ের বা আত্মীয়ের বিরুদ্ধে গেলেও।"
           },
           {
             "en": "The second is a check after winning. If a settlement, a promotion, an inheritance or a judgement came your way because the other side argued badly or because a fact never surfaced, the hadith attached to this passage says exactly what you are holding. The remedy in that report is not complicated: give it back. Speak to the person, return the share, correct the record. It is easier now than on the Day when there is no one to speak for you.",
@@ -2449,7 +2449,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And the third is what this verse does not say. It does not say that the man in the dock is beyond help; 4:110, the very next verse, promises that whoever does a wrong or wrongs himself and then seeks Allah's forgiveness will find Allah Forgiving and Merciful. What has no substitute is an advocate. What is always available is a return. The verse closes one road so that a reader will notice the other one standing open beside it.",
-            "bn": "আর তৃতীয় কথা, এই আয়াত যা বলে না। এটি বলে না যে কাঠগড়ায় দাঁড়ানো মানুষটির আর কোনো উপায় নেই। ঠিক পরের আয়াত ৪:১১০ ওয়াদা করে, যে মন্দ কাজ করে বা নিজের প্রতি জুলুম করে, তারপর আল্লাহর কাছে ক্ষমা চায়, সে আল্লাহকে ক্ষমাশীল ও দয়াময় পাবে। যার কোনো বিকল্প নেই তা হলো উকীল। আর যা সবসময়ই খোলা তা হলো ফিরে আসা। আয়াত একটি রাস্তা বন্ধ করে দেয়, যাতে পাঠক তার পাশেই খোলা থাকা অন্য রাস্তাটি চোখে দেখেন।"
+            "bn": "আর তৃতীয় কথা, এই আয়াত যা বলে না। আয়াত বলে না যে কাঠগড়ায় দাঁড়ানো মানুষটির আর কোনো উপায় নেই। ঠিক পরের আয়াত ৪:১১০ ওয়াদা দেয়, যে মন্দ কাজ করে বা নিজের প্রতি জুলুম করে, তারপর আল্লাহর কাছে মাফ চায়, সে আল্লাহকে ক্ষমাশীল ও দয়াময় পাবে। যা কোনোভাবেই মিলবে না, তা হলো উকীল। আর যা সবসময় মেলে, তা হলো ফিরে আসার পথ। আয়াত একটি রাস্তা বন্ধ করে, যাতে পাঠক তার পাশেই খোলা থাকা অন্য রাস্তাটি দেখতে পান।"
           }
         ]
       },
@@ -2465,14 +2465,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Each line answers a phrase in the passage. The first answers Ibn Kathir's gloss on the Knower of the secret and of what is more hidden still. The second answers the verdict that arrives as a piece of the Fire. The third answers the reproach of ha antum ha'ula'i, addressed to people whose only fault was choosing a side too quickly. And the last answers the two questions the verse leaves open, by asking for the only help that will exist there.",
-            "bn": "প্রতিটি লাইন অংশটির কোনো না কোনো কথার জবাব। প্রথমটি জবাব দেয় ইবনে কাসীরের সেই ব্যাখ্যাকে, যিনি গোপন জানেন আর তার চেয়েও গভীরে যা লুকানো তাও জানেন। দ্বিতীয়টি জবাব দেয় সেই রায়কে, যা আগুনের টুকরা হয়ে হাতে আসে। তৃতীয়টি জবাব দেয় হা আনতুম হাউলাই তিরস্কারকে, যা এমন মানুষদের বলা হয়েছিল যাদের দোষ কেবল তাড়াহুড়ো করে একদিকে দাঁড়িয়ে যাওয়া। আর শেষটি আয়াতের খোলা রাখা দুই প্রশ্নের জবাব দেয়, সেদিন যে একমাত্র সাহায্য থাকবে তা চেয়ে নিয়ে।"
+            "bn": "প্রতিটি লাইন অংশটির কোনো না কোনো কথার জবাব। প্রথমটি ইবনে কাসীরের সেই ব্যাখ্যার জবাব: আল্লাহ গোপন জানেন, আর তার চেয়েও লুকানো যা, তাও জানেন। দ্বিতীয়টি সেই রায়ের জবাব, যা আগুনের টুকরা হয়ে হাতে আসে। তৃতীয়টি হা আনতুম হাউলাই তিরস্কারের জবাব, যা বলা হয়েছিল এমন মানুষদের, যাদের দোষ শুধু এটুকু যে তারা তাড়াহুড়ো করে একটা পক্ষ নিয়ে ফেলেছিল। আর শেষটি আয়াতের খোলা রেখে দেওয়া দুই প্রশ্নের জবাব; সেখানে যে একমাত্র সাহায্য থাকবে, সেটাই চেয়ে নেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Questions to Sit With",
-          "bn": "নিয়ে বসার মতো প্রশ্ন"
+          "bn": "ভেবে দেখার মতো প্রশ্ন"
         },
         "p": [
           {
@@ -2481,7 +2481,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Where does my loyalty to my own people stop being loyalty and start being cover? What am I quietly counting on to speak for me later: my reputation, my explanations, my usefulness to others? And since 4:110 stands right after this warning, what wrong of mine am I still arguing about instead of simply bringing it to Allah and asking Him to forgive it?",
-            "bn": "নিজের লোকের প্রতি আমার টান কোথায় গিয়ে আর টান থাকে না, আড়াল হয়ে যায়? পরে আমার হয়ে কথা বলবে বলে আমি চুপচাপ কীসের ওপর ভরসা করে আছি; আমার সুনাম, আমার ব্যাখ্যা, নাকি অন্যদের কাছে আমার দরকারিপনা? আর এই হুঁশিয়ারির ঠিক পরেই যেহেতু ৪:১১০ আয়াত দাঁড়িয়ে আছে, আমার কোন ভুল নিয়ে আমি এখনও তর্ক করে যাচ্ছি, অথচ তা সোজা আল্লাহর কাছে নিয়ে গিয়ে মাফ চেয়ে নেওয়াই যেত?"
+            "bn": "নিজের লোকের প্রতি আমার টান কোথায় গিয়ে আর টান থাকে না, অন্যায়ের আড়াল হয়ে যায়? পরে আমার হয়ে কথা বলবে ভেবে আমি চুপচাপ কীসের ওপর ভরসা করে আছি: আমার সুনাম, আমার ব্যাখ্যা, নাকি অন্যদের কাছে আমি কতটা কাজের মানুষ, সেটা? আর এই হুঁশিয়ারির ঠিক পরেই যেহেতু ৪:১১০ আয়াত, আমার কোন ভুল নিয়ে আমি এখনও তর্ক করে যাচ্ছি, অথচ সোজা আল্লাহর কাছে নিয়ে গিয়ে মাফ চেয়ে নিলেই হতো?"
           }
         ]
       }
@@ -2497,11 +2497,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse stands inside one of the most concrete passages of Surah an-Nisa. From 4:105 the revelation addresses a real dispute in Madinah: the Prophet ﷺ is told to judge between people by what Allah has shown him and not to be an advocate for the treacherous. At-Tirmidhi relates the occasion: a theft had been committed, and the blame was being steered toward an innocent man while the guilty party's people argued his case.",
-            "bn": "এই আয়াতটি সূরা আন-নিসার সবচেয়ে বাস্তব অনুচ্ছেদগুলোর একটির ভেতরে দাঁড়িয়ে আছে। 4:105 থেকে ওহী মদীনার একটি বাস্তব বিরোধের প্রসঙ্গ ধরে: নবী ﷺ-কে বলা হয় আল্লাহ তাঁকে যা দেখিয়েছেন সে অনুযায়ী মানুষের মধ্যে বিচার করতে এবং বিশ্বাসঘাতকদের পক্ষে ওকালতি না করতে। তিরমিযী এর প্রেক্ষাপট বর্ণনা করেন: একটি চুরি হয়েছিল, আর দোষ ঠেলে দেওয়া হচ্ছিল এক নিরপরাধ মানুষের দিকে, যখন অপরাধী পক্ষের লোকেরা তার হয়ে সাফাই গাইছিল।"
+            "bn": "সূরা আন-নিসার যে অংশগুলো একেবারে বাস্তব ঘটনার সঙ্গে জড়ানো, এই আয়াত তারই একটির ভেতরে। ৪:১০৫ আয়াত থেকে ওহি মদিনার একটি সত্যিকারের বিবাদের কথা বলছে। নবী ﷺ-কে বলা হচ্ছে, আল্লাহ তাঁকে যা দেখিয়েছেন সে অনুযায়ী মানুষের মধ্যে ফয়সালা করতে, আর খিয়ানতকারীদের উকীল না হতে। তিরমিযী এর শানে নুযূল বর্ণনা করেছেন: একটি চুরি হয়েছিল। দোষ চাপানো হচ্ছিল এক নির্দোষ মানুষের ঘাড়ে, আর আসল অপরাধীর লোকজন তার পক্ষে সাফাই গাইছিল।"
           },
           {
             "en": "The passage exposes the maneuver step by step. 4:108 says the schemers may hide from people but cannot hide from Allah, who is with them as they plot speech He does not approve, and 4:112 rules that whoever earns a fault and then throws it upon an innocent person has burdened himself with slander and clear sin. In the middle of this exposure, before the verdicts finish, 4:110 opens a door wide enough for even these people.",
-            "bn": "অনুচ্ছেদটি ধাপে ধাপে চক্রান্তটি উন্মোচন করে। 4:108 বলে, ষড়যন্ত্রকারীরা মানুষের কাছ থেকে লুকাতে পারে কিন্তু আল্লাহর কাছ থেকে নয় — তারা যখন তাঁর অপছন্দের কথা সাজায় তখনও তিনি তাদের সাথেই থাকেন; আর 4:112 রায় দেয়, যে ব্যক্তি অপরাধ কামাই করে তা কোনো নিরপরাধের ঘাড়ে চাপায়, সে অপবাদ ও স্পষ্ট গুনাহের বোঝা নিজের উপর তুলে নিল। এই উন্মোচনের মাঝখানে, রায়গুলো শেষ হওয়ার আগেই, 4:110 এমন এক দরজা খুলে দেয় যা এমনকি এই লোকদের জন্যও যথেষ্ট প্রশস্ত।"
+            "bn": "অংশটি ধাপে ধাপে চালাকিটা ফাঁস করে দেয়। ৪:১০৮ আয়াত বলে, ষড়যন্ত্রকারীরা মানুষের কাছ থেকে লুকাতে পারে, কিন্তু আল্লাহর কাছ থেকে পারে না। তারা যখন তাঁর অপছন্দের কথা নিয়ে শলাপরামর্শ করে, তখনও তিনি তাদের সঙ্গেই থাকেন। আর ৪:১১২ আয়াত রায় দেয়, যে নিজে দোষ করে তা কোনো নির্দোষের ঘাড়ে চাপায়, সে অপবাদ আর স্পষ্ট গুনাহের বোঝা নিজের মাথায় তুলে নিল। এই ফাঁস করার মাঝখানেই, রায় শেষ হওয়ার আগেই, ৪:১১০ আয়াত এমন এক দরজা খুলে দেয়, যা এই লোকদের জন্যও যথেষ্ট চওড়া।"
           }
         ]
       },
@@ -2513,7 +2513,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names two categories: whoever does su', evil, or wrongs his own soul, zulm an-nafs. The commentators read the pairing as a net with no gaps — wrong that lands on others and wrong whose damage stays inside the doer, sins of the hand and sins of the heart. Whichever kind it was, the next clause is the same: thumma yastaghfir Allah, then he seeks Allah's forgiveness. The wrong is not denied, renamed or defended; it is carried to the right address.",
-            "bn": "আয়াতটি দুটি শ্রেণীর নাম নেয়: যে কেউ সূ' — মন্দ কাজ — করে, অথবা নিজের প্রাণের উপর জুলুম করে — যুলমুন-নাফস। মুফাসসিরগণ এই জোড়াকে ফাঁকবিহীন এক জালের মতো পড়েন — যে অন্যায় অন্যের উপর পড়ে আর যে অন্যায়ের ক্ষতি কর্তার ভেতরেই থেকে যায়, হাতের গুনাহ আর অন্তরের গুনাহ। যে ধরনেরই হোক, পরের বাক্যাংশ একটাই: সুম্মা ইয়াস্তাগফিরিল্লাহ — তারপর সে আল্লাহর কাছে ক্ষমা চায়। অন্যায়কে অস্বীকার করা হয় না, নতুন নাম দেওয়া হয় না, পক্ষ নেওয়াও হয় না; তাকে সঠিক ঠিকানায় বয়ে নেওয়া হয়।"
+            "bn": "আয়াত দুই ধরনের অন্যায়ের নাম নেয়: যে সূ' করে, অর্থাৎ মন্দ কাজ; অথবা যে নিজের প্রতি জুলুম করে, অর্থাৎ যুলমুন-নাফস। মুফাসসিরগণ এই জোড়াকে দেখেন এমন এক জালের মতো, যাতে কোনো ফাঁক নেই। এক দিকে সেই অন্যায়, যা অন্যের ওপর গিয়ে পড়ে; অন্য দিকে সেই অন্যায়, যার ক্ষতি যে করেছে তার ভেতরেই থেকে যায়। হাতের গুনাহ আর অন্তরের গুনাহ। যে ধরনেরই হোক, পরের কথা একটাই: সুম্মা ইয়াস্তাগফিরিল্লাহ, তারপর সে আল্লাহর কাছে মাফ চায়। অন্যায়টা অস্বীকার করা হয় না, অন্য নাম দেওয়া হয় না, তার পক্ষে সাফাইও গাওয়া হয় না। তাকে নিয়ে যাওয়া হয় ঠিক ঠিকানায়।"
           }
         ]
       },
@@ -2525,11 +2525,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not say Allah will forgive him, though that is true. It says yajidi Allaha Ghafuran Rahima — he will find Allah Forgiving, Merciful. Finding is immediate; it describes what is already there when you arrive. The door is not opened in response to the knock; the turning sinner discovers it standing open. And the two names come in intensive forms: not merely one who forgives, but One whose settled attribute is forgiveness joined to mercy.",
-            "bn": "আয়াতটি বলে না যে আল্লাহ তাকে ক্ষমা করবেন — যদিও সেটাও সত্য। এটি বলে: ইয়াজিদিল্লাহা গাফূরার রাহীমা — সে আল্লাহকে পাবে ক্ষমাশীল, পরম দয়ালুরূপে। পাওয়া তাৎক্ষণিক; পৌঁছেই যা আগে থেকে আছে, শব্দটি তারই বর্ণনা। দরজাটি কড়া নাড়ার জবাবে খোলা হয় না; ফিরে আসা গুনাহগার দেখে দরজা খোলাই আছে। আর নাম দুটি এসেছে জোরালো রূপে: কেবল এমন কেউ নন যিনি ক্ষমা করেন, বরং এমন সত্তা যাঁর স্থায়ী গুণই হলো দয়ার সাথে জোড়া ক্ষমা।"
+            "bn": "আয়াত বলে না যে আল্লাহ তাকে মাফ করবেন, যদিও সেটাও সত্য। আয়াত বলে: ইয়াজিদিল্লাহা গাফূরার রাহীমা, সে আল্লাহকে পাবে ক্ষমাশীল, পরম দয়ালু। পাওয়া মানে সঙ্গে সঙ্গে; পৌঁছে দেখা যায়, জিনিসটা আগে থেকেই সেখানে আছে। কড়া নাড়ার পর দরজা খোলা হয় না; তওবা করে ফেরা গুনাহগার এসে দেখে, দরজা খোলাই আছে। আর নাম দুটি এসেছে জোরালো রূপে। তিনি কেবল এমন কেউ নন যিনি মাফ করেন; মাফ করাই তাঁর স্থায়ী গুণ, আর তার সঙ্গে জুড়ে আছে দয়া।"
           },
           {
             "en": "Muslim records from Abu Musa (RA) that the Prophet ﷺ said Allah stretches out His hand by night to accept the repentance of the one who sinned by day, and stretches out His hand by day to accept the repentance of the one who sinned by night, until the sun rises from its west. The verse and the hadith describe one standing reality from two sides: the finding and the waiting.",
-            "bn": "মুসলিম আবু মূসা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহ রাতে তাঁর হাত প্রসারিত করেন যেন দিনের গুনাহগার তাওবা করে, আর দিনে হাত প্রসারিত করেন যেন রাতের গুনাহগার তাওবা করে — যতদিন না সূর্য পশ্চিম দিক থেকে উদিত হয়। আয়াত ও হাদীস একই স্থায়ী বাস্তবতাকে দুই দিক থেকে বর্ণনা করে: একদিকে পাওয়া, অন্যদিকে অপেক্ষা।"
+            "bn": "ইমাম মুসলিম আবু মূসা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: আল্লাহ রাতে তাঁর হাত বাড়িয়ে দেন, দিনে যে গুনাহ করেছে তার তওবা কবুল করার জন্য; আর দিনে হাত বাড়িয়ে দেন, রাতে যে গুনাহ করেছে তার তওবা কবুল করার জন্য। এভাবে চলবে, যতদিন না সূর্য পশ্চিম দিক থেকে উঠবে। আয়াত আর হাদিস একই চিরস্থায়ী সত্যকে দুই দিক থেকে দেখায়: এক দিকে পাওয়া, অন্য দিকে অপেক্ষা।"
           }
         ]
       },
@@ -2541,39 +2541,39 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari reads the verse as general: every wrongdoer who turns sincerely is included, whatever the sin. Its neighbours sharpen it rather than narrow it. The verse just after, 4:111, states that whoever earns a sin earns it only against himself — responsibility cannot be outsourced — and 4:112 condemns transferring blame to the innocent. Between honest ownership of sin and the crime of reassigning it, 4:110 shows the only exit that works: owning the wrong before the One who can erase it.",
-            "bn": "আত-তাবারী আয়াতটিকে ব্যাপক অর্থে পড়েন: যে অন্যায়কারীই আন্তরিকভাবে ফিরে আসে, সে-ই এর অন্তর্ভুক্ত — গুনাহ যা-ই হোক। প্রতিবেশী আয়াতগুলো একে সংকীর্ণ করে না, বরং ধারালো করে। ঠিক পরের আয়াত 4:111 বলে, যে গুনাহ কামাই করে সে তা কেবল নিজের বিরুদ্ধেই কামাই করে — দায় অন্যের ঘাড়ে চাপানো যায় না; আর 4:112 নিরপরাধের উপর দোষ চাপানোকে নিন্দা করে। গুনাহের সৎ স্বীকৃতি আর তা অন্যের নামে লেখানোর অপরাধ — এই দুইয়ের মাঝে 4:110 একমাত্র কার্যকর নির্গমনপথ দেখায়: অন্যায়ের মালিকানা স্বীকার করা তাঁরই সামনে, যিনি তা মুছে দিতে পারেন।"
+            "bn": "আত-তাবারী আয়াতটিকে সবার জন্য ধরেন: গুনাহ যা-ই হোক, যে অন্যায়কারী মন থেকে ফিরে আসে, সে-ই এর মধ্যে পড়ে। আশপাশের আয়াতগুলো একে সংকীর্ণ করে না, বরং আরও ধারালো করে। ঠিক পরের আয়াত ৪:১১১ বলে, যে গুনাহ কামায় সে তা কামায় কেবল নিজের বিরুদ্ধেই; নিজের দায় অন্যকে দিয়ে বহন করানো যায় না। আর ৪:১১২ আয়াত নির্দোষের ঘাড়ে দোষ চাপানোর নিন্দা করে। একদিকে সৎভাবে নিজের গুনাহ মেনে নেওয়া, অন্যদিকে তা অন্যের নামে চালিয়ে দেওয়ার অপরাধ। এর মাঝে ৪:১১০ আয়াত দেখায় একমাত্র পথ, যা সত্যিই কাজে আসে: যিনি গুনাহ মুছে দিতে পারেন, তাঁর সামনে নিজের অন্যায় স্বীকার করা।"
           },
           {
             "en": "Earlier in the same surah, 4:64 says that if those who wronged themselves had come to the Prophet ﷺ and sought Allah's forgiveness, and the Messenger had sought forgiveness for them, they would have found Allah accepting of repentance, Merciful. The same verb again: found. The Quran keeps insisting that forgiveness is not a distant possibility to be negotiated but a present reality to be entered.",
-            "bn": "একই সূরার আগের দিকে, 4:64 বলে, যারা নিজেদের উপর জুলুম করেছিল তারা যদি নবী ﷺ-এর কাছে এসে আল্লাহর ক্ষমা চাইত, আর রাসূলও তাদের জন্য ক্ষমা চাইতেন, তবে তারা আল্লাহকে পেত তাওবা কবুলকারী, পরম দয়ালুরূপে। আবারও সেই একই ক্রিয়াপদ: পাওয়া। কুরআন বারবার জোর দিয়ে বলে, ক্ষমা দূরের কোনো সম্ভাবনা নয় যা নিয়ে দর-কষাকষি করতে হবে, বরং এক বর্তমান বাস্তবতা, যেখানে প্রবেশ করতে হয়।"
+            "bn": "এই সূরারই আগের দিকে ৪:৬৪ আয়াত বলে, যারা নিজেদের ওপর জুলুম করেছিল তারা যদি নবী ﷺ-এর কাছে এসে আল্লাহর কাছে মাফ চাইত, আর রাসূলও তাদের জন্য মাফ চাইতেন, তবে তারা আল্লাহকে পেত তওবা কবুলকারী, পরম দয়ালু। আবারও সেই একই ক্রিয়া: পাওয়া। কুরআন বারবার জোর দিয়ে বলে, মাফ দূরের কোনো সম্ভাবনা নয় যে তা নিয়ে দর-কষাকষি করতে হবে। মাফ এখনই হাজির, শুধু তাতে ঢুকে পড়তে হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Wider Invitation",
-          "bn": "বৃহত্তর আমন্ত্রণ"
+          "bn": "আরও প্রশস্ত ডাক"
         },
         "p": [
           {
             "en": "The verse belongs to a family. 39:53 forbids despair of Allah's mercy to those who have gone to excess against themselves, for Allah forgives all sins. 3:135 praises those who, when they commit an indecency or wrong themselves, remember Allah and seek forgiveness for their sins — and who forgives sins except Allah? And 25:70 promises that for those who repent, believe and work righteousness, Allah will replace their evil deeds with good ones. The doorway of 4:110 opens onto all of this.",
-            "bn": "আয়াতটি একটি পরিবারের সদস্য। 39:53 তাদের জন্য আল্লাহর রহমত থেকে নিরাশ হওয়া নিষেধ করে, যারা নিজেদের উপর বাড়াবাড়ি করেছে — কারণ আল্লাহ সব গুনাহ ক্ষমা করেন। 3:135 তাদের প্রশংসা করে যারা কোনো অশ্লীল কাজ করে ফেললে বা নিজেদের উপর জুলুম করলে আল্লাহকে স্মরণ করে নিজেদের গুনাহের জন্য ক্ষমা চায় — আর আল্লাহ ছাড়া কে-ই বা গুনাহ ক্ষমা করে? আর 25:70 প্রতিশ্রুতি দেয়, যারা তাওবা করে, ঈমান আনে ও সৎকাজ করে, আল্লাহ তাদের মন্দ কাজগুলো ভালো দিয়ে বদলে দেবেন। 4:110 আয়াতের দরজাটি এসবের দিকেই খোলে।"
+            "bn": "এই আয়াত একা নয়, এর একটি পরিবার আছে। যারা নিজেদের ওপর বাড়াবাড়ি করেছে, ৩৯:৫৩ আয়াত তাদের আল্লাহর রহমত থেকে নিরাশ হতে নিষেধ করে, কারণ আল্লাহ সব গুনাহ মাফ করেন। ৩:১৩৫ আয়াত প্রশংসা করে তাদের, যারা কোনো অশ্লীল কাজ করে ফেললে বা নিজেদের ওপর জুলুম করলে আল্লাহকে স্মরণ করে আর নিজেদের গুনাহের জন্য মাফ চায়। আর আল্লাহ ছাড়া কে-ই বা গুনাহ মাফ করে? ২৫:৭০ আয়াত ওয়াদা দেয়, যারা তওবা করে, ঈমান আনে আর নেক আমল করে, আল্লাহ তাদের মন্দ আমলগুলোকে নেকিতে বদলে দেবেন। ৪:১১০ আয়াতের দরজাটি খুলে যায় এই সবকিছুর দিকে।"
           }
         ]
       },
       {
         "h": {
           "en": "Using the Door",
-          "bn": "দরজাটি ব্যবহার"
+          "bn": "দরজা দিয়ে ঢোকা"
         },
         "p": [
           {
             "en": "The practice is speed. Wrong happens; the trained believer shortens the distance between the fall and the istighfar until it is nearly nothing — no waiting to feel worthy, no fixing oneself first, because the verse's order is wrong, then turning, then finding. Delay serves nothing except the voice that says the door has surely shut this time. The verse exists precisely to silence that voice.",
-            "bn": "এর অনুশীলন হলো দ্রুততা। অন্যায় ঘটে যায়; প্রশিক্ষিত মুমিন পতন আর ইস্তিগফারের মাঝের দূরত্ব কমাতে কমাতে প্রায় শূন্যে নামিয়ে আনে — যোগ্য বোধ করার অপেক্ষা নেই, আগে নিজেকে শুধরে নেওয়ার শর্ত নেই, কারণ আয়াতের ক্রম হলো: অন্যায়, তারপর ফেরা, তারপর পাওয়া। দেরি কেবল সেই কণ্ঠস্বরের কাজে লাগে যে বলে, এবার নিশ্চয়ই দরজা বন্ধ হয়ে গেছে। আয়াতটির অস্তিত্বই সেই কণ্ঠস্বরকে চুপ করানোর জন্য।"
+            "bn": "আমলের কথাটা হলো দেরি না করা। ভুল হয়েই যায়। যে মুমিন নিজেকে গড়ে তুলেছেন, তিনি পা পিছলানো আর ইস্তিগফারের মাঝের দূরত্ব কমাতে কমাতে প্রায় শূন্যে নিয়ে আসেন। নিজেকে যোগ্য মনে হওয়ার অপেক্ষা নেই, আগে নিজেকে শুধরে নেওয়ার শর্ত নেই। কারণ আয়াতের ক্রম হলো: অন্যায়, তারপর ফেরা, তারপর পাওয়া। দেরি করলে লাভ হয় শুধু সেই কণ্ঠের, যে বলে, এবার নিশ্চয়ই দরজা বন্ধ হয়ে গেছে। সেই কণ্ঠকে চুপ করাতেই তো এই আয়াত।"
           },
           {
             "en": "One caution keeps the door honest. Seeking forgiveness in the verse is a turning of the heart, not a formula recited over a sin one intends to keep. The passage around it is about people who covered wrong with words. So say the words, and turn — return what was taken, repair what can be repaired, leave what must be left. Then the promise applies exactly as written: you will find Him Forgiving, Merciful.",
-            "bn": "একটি সতর্কতা দরজাটিকে সৎ রাখে। আয়াতে ক্ষমা চাওয়া মানে অন্তরের ফেরা — এমন কোনো মুখস্থ বাক্য নয় যা পড়া হয় সেই গুনাহের উপর, যা ধরে রাখারই ইচ্ছা। আশপাশের অনুচ্ছেদটিই তো তাদের নিয়ে, যারা কথা দিয়ে অন্যায় ঢেকেছিল। তাই শব্দগুলো বলুন, এবং ফিরুন — যা নেওয়া হয়েছে তা ফেরত দিন, যা মেরামতযোগ্য তা মেরামত করুন, যা ছাড়তে হবে তা ছাড়ুন। তখন প্রতিশ্রুতিটি হুবহু লেখা অনুযায়ীই প্রযোজ্য হবে: আপনি তাঁকে পাবেন ক্ষমাশীল, পরম দয়ালুরূপে।"
+            "bn": "তবে একটি সাবধানবাণী দরজাটিকে সৎ রাখে। আয়াতে মাফ চাওয়া মানে অন্তর দিয়ে ফেরা। যে গুনাহ ছাড়ার ইচ্ছাই নেই, তার ওপর কয়েকটা মুখস্থ বাক্য আওড়ানো নয়। আশপাশের আয়াতগুলো তো তাদের নিয়েই, যারা কথা দিয়ে অন্যায় ঢেকে রাখত। তাই মুখে মাফ চান, আর সত্যিই ফিরুন: যা নিয়েছেন তা ফেরত দিন, যা শোধরানো যায় তা শুধরে নিন, যা ছাড়তে হবে তা ছেড়ে দিন। তখন ওয়াদাটি ঠিক যেমন লেখা আছে তেমনই খাটবে: আপনি তাঁকে পাবেন ক্ষমাশীল, পরম দয়ালু।"
           }
         ]
       }
@@ -2593,7 +2593,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The sentence is not new here. The same words stood earlier in the same surah at 4:48, and the two verses differ only at the end: 4:48 closes by saying that whoever associates partners with Allah has fabricated a tremendous sin, while 4:116 closes by saying that he has gone far astray. Ibn Kathir opens his comment on 4:116 by noting that he has already discussed the sentence, and the relevant narrations, at the beginning of this surah.",
-            "bn": "বাক্যটি এখানে নতুন নয়। একই কথা এই সূরাতেই আগে এসেছে ৪:৪৮ আয়াতে, আর দুই আয়াতের পার্থক্য কেবল শেষে। ৪:৪৮ আয়াত শেষ হয় এই বলে যে, যে আল্লাহর সঙ্গে শরীক করে সে এক মহা অপবাদ রচনা করল। আর ৪:১১৬ আয়াত শেষ হয় এই বলে যে, সে বহু দূরের গোমরাহিতে পড়ে গেল। ইবনে কাসীর ৪:১১৬ আয়াতের ব্যাখ্যা শুরু করেন এ কথা মনে করিয়ে দিয়ে যে বাক্যটি নিয়ে এবং এর সঙ্গে জড়িত বর্ণনাগুলো নিয়ে তিনি এই সূরার শুরুতেই আলোচনা করেছেন।"
+            "bn": "বাক্যটি এখানে নতুন নয়। একই কথা এই সূরাতেই আগে এসেছে ৪:৪৮ আয়াতে, আর দুই আয়াতের পার্থক্য কেবল শেষে। ৪:৪৮ আয়াত শেষ হয় এই বলে যে, যে আল্লাহর সঙ্গে শরীক করে সে এক মহা গুনাহ রচনা করল। আর ৪:১১৬ আয়াত শেষ হয় এই বলে যে, সে বহু দূরের গোমরাহিতে পড়ে গেল। ইবনে কাসীর ৪:১১৬ আয়াতের ব্যাখ্যা শুরু করেন এ কথা মনে করিয়ে দিয়ে যে বাক্যটি নিয়ে এবং এর সঙ্গে জড়িত বর্ণনাগুলো নিয়ে তিনি এই সূরার শুরুতেই আলোচনা করেছেন।"
           },
           {
             "en": "He also explains, in his comment on the killing of a believer, why it comes twice. The sentence is general and covers every sin except shirk, he says, and it has been placed in this surah both before that passage and after it in order to encourage hope in Allah. So the repetition is deliberate. A surah full of rulings, warnings and threats has this one sentence set down twice inside it, like a lamp left burning at both ends of a dark corridor.",
@@ -2613,11 +2613,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second clause is not open-ended either. It ends li man yasha', for whom He wills, and that phrase is doing real work. It keeps forgiveness as a gift and not as an entitlement that a person can calculate and then bank on. A servant who reads only the first clause becomes hopeless; a servant who reads the second clause without its ending becomes careless. The verse gives no room for either, and the commentators keep both halves side by side.",
-            "bn": "দ্বিতীয় কথাটিও উন্মুক্ত নয়। তা শেষ হয় লিমাই ইয়াশাউ কথা দিয়ে, অর্থাৎ যাকে তিনি চান। এই কথাটি সত্যিকারের কাজ করছে। এটি মাগফিরাতকে দান হিসেবেই রাখে, এমন পাওনা হিসেবে নয় যা হিসাব কষে আগে থেকেই ধরে রাখা যায়। যে বান্দা কেবল প্রথম কথাটি পড়ে, সে নিরাশ হয়ে পড়ে। যে দ্বিতীয় কথাটি তার শেষ অংশ বাদ দিয়ে পড়ে, সে বেপরোয়া হয়ে যায়। আয়াত দুটির কোনোটিকেই জায়গা দেয় না, আর মুফাসসিরগণও দুই অর্ধেককে পাশাপাশিই রাখেন।"
+            "bn": "দ্বিতীয় কথাটিও শর্তহীন নয়। তার শেষে আছে লিমাই ইয়াশাউ, অর্থাৎ যাকে তিনি চান; আর এই কথাটুকুর ওজন অনেক। এটি মাগফিরাতকে দান হিসেবেই রাখে, এমন পাওনা হিসেবে নয়, যা হিসাব কষে আগে থেকেই নিশ্চিত ধরে নেওয়া যায়। যে বান্দা কেবল প্রথম কথাটি পড়ে, সে নিরাশ হয়ে পড়ে। যে দ্বিতীয় কথাটি পড়ে কিন্তু তার শেষটুকু বাদ দেয়, সে বেপরোয়া হয়ে যায়। আয়াত এর কোনোটিরই সুযোগ রাখে না, আর মুফাসসিরগণও দুই অংশকে পাশাপাশিই রাখেন।"
           },
           {
             "en": "The close names the loss rather than the penalty: whoever associates others with Allah has strayed a far straying, dalla dalalan ba'ida. It is a picture of distance. The idea is not only that a rule has been broken but that a person has walked a long way from the road, and the further he goes the harder the way back becomes. The verse at 4:48, with its different ending, adds the other angle: the act is not only a distance travelled but a tremendous sin fabricated.",
-            "bn": "শেষে আয়াত শাস্তির নাম নেয় না, ক্ষতির নাম নেয়: যে আল্লাহর সঙ্গে শরীক করে সে দূরের গোমরাহিতে পড়ে গেল, দাল্লা দালালাম বাঈদা। এ হলো দূরত্বের ছবি। কথাটা শুধু এই নয় যে কোনো বিধান ভাঙা হয়েছে, বরং মানুষটি রাস্তা থেকে বহু দূরে হেঁটে চলে গেছে; আর যত দূরে যায়, ফেরার পথ তত কঠিন হয়। ভিন্ন সমাপ্তি নিয়ে ৪:৪৮ আয়াত যোগ করে আরেক দিক: কাজটি কেবল পেরিয়ে আসা দূরত্ব নয়, এক মহা অপবাদও বটে।"
+            "bn": "শেষে আয়াত শাস্তির নাম নেয় না, ক্ষতির নাম নেয়: যে আল্লাহর সঙ্গে শরীক করে সে দূরের গোমরাহিতে পড়ে গেল, দাল্লা দালালাম বাঈদা। এ হলো দূরত্বের ছবি। কথাটা শুধু এই নয় যে কোনো বিধান ভাঙা হয়েছে, বরং মানুষটি রাস্তা থেকে বহু দূরে হেঁটে চলে গেছে; আর যত দূরে যায়, ফেরার পথ তত কঠিন হয়। ভিন্ন সমাপ্তি নিয়ে ৪:৪৮ আয়াত যোগ করে আরেক দিক: কাজটি কেবল পেরিয়ে আসা দূরত্ব নয়, মনগড়া এক মহা গুনাহও বটে।"
           }
         ]
       },
@@ -2693,11 +2693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Since one thing is not forgiven, the sensible life is organised around guarding that one thing. That is less abstract than it sounds. Tawhid is tested in ordinary places: what a person turns to first when he is frightened, whose approval decides his choices, what he believes is really moving his income and his health, and whether he calls on anyone besides Allah when he is desperate. Those are the places to check, calmly and by yourself.",
-            "bn": "যেহেতু একটি জিনিস মাফ হয় না, বুদ্ধিমান মানুষ নিজের জীবন সাজায় সেই একটি জিনিস আগলে রাখার চারপাশে। কথাটা শুনতে যত ভাসা ভাসা লাগে, ততটা নয়। তাওহীদের পরীক্ষা হয় খুব সাধারণ জায়গায়: ভয় পেলে মানুষ সবার আগে কার দিকে ফেরে, কার সন্তুষ্টি তার সিদ্ধান্ত ঠিক করে দেয়, তার রিযিক আর স্বাস্থ্য আসলে কে চালাচ্ছে বলে সে মনে করে, আর নিরুপায় অবস্থায় সে আল্লাহ ছাড়া আর কাউকে ডাকে কিনা। এই জায়গাগুলোই ঠান্ডা মাথায় নিজে নিজে মিলিয়ে দেখার।"
+            "bn": "যেহেতু একটি জিনিস মাফ হয় না, বুদ্ধিমান মানুষ নিজের জীবন সাজায় সেই একটি জিনিস আগলে রাখার চারপাশে। কথাটা শুনতে যতটা তত্ত্বকথা মনে হয়, আসলে ততটা নয়। তাওহীদের পরীক্ষা হয় খুব সাধারণ জায়গায়: ভয় পেলে মানুষ সবার আগে কার দিকে ফেরে, কার সন্তুষ্টি তার সিদ্ধান্ত ঠিক করে দেয়, তার রিযিক আর স্বাস্থ্য আসলে কে চালাচ্ছে বলে সে মনে করে, আর নিরুপায় অবস্থায় সে আল্লাহ ছাড়া আর কাউকে ডাকে কিনা। এই জায়গাগুলোই ঠান্ডা মাথায় নিজে নিজে মিলিয়ে দেখার।"
           },
           {
             "en": "The second duty is how the verse is used on other people. It is a statement about Allah's judgement, not a licence for a reader to sort his neighbours into the forgiven and the doomed. Ibn Kathir's careful wording is about a servant meeting his Lord, and none of us watches that meeting. The verse is given to a person for his own heart, and the moment it becomes a weapon it has been turned exactly the wrong way round.",
-            "bn": "দ্বিতীয় দায়িত্ব, এই আয়াত অন্য মানুষের ওপর কীভাবে ব্যবহার করা হয়। এটি আল্লাহর ফয়সালা সম্পর্কে কথা; পাঠকের জন্য প্রতিবেশীদের মাফপ্রাপ্ত আর ধ্বংসপ্রাপ্ত ভাগে সাজানোর অনুমতিপত্র নয়। ইবনে কাসীরের মেপে বলা কথাটি এক বান্দার তার রবের সঙ্গে সাক্ষাৎ নিয়ে, আর সেই সাক্ষাৎ আমাদের কেউ দেখে না। আয়াতটি মানুষকে দেওয়া হয়েছে তার নিজের অন্তরের জন্য। যে মুহূর্তে এটি অস্ত্র হয়ে যায়, সেই মুহূর্তেই একে ঠিক উল্টো দিকে ঘুরিয়ে ফেলা হলো।"
+            "bn": "দ্বিতীয় দায়িত্ব হলো, অন্য মানুষের বেলায় এই আয়াত কীভাবে ব্যবহার করবেন। আয়াতটি আল্লাহর ফয়সালার কথা বলে; প্রতিবেশীদের কে মাফ পাবে আর কে ধ্বংস হবে, তা ভাগ করার অনুমতি পাঠককে দেয় না। ইবনে কাসীর মেপে মেপে যা বলেছেন, তা এক বান্দার তার রবের সঙ্গে সাক্ষাতের কথা, আর সেই সাক্ষাৎ আমরা কেউ দেখি না। আয়াতটি মানুষকে দেওয়া হয়েছে তার নিজের অন্তরের জন্য। যে মুহূর্তে একে অস্ত্র বানানো হয়, সেই মুহূর্তেই একে ঠিক উল্টো দিকে ঘুরিয়ে ফেলা হলো।"
           },
           {
             "en": "And the third is what to do with the wide half. A believer who has understood this verse should ask for forgiveness more, not less, and ask for specific things rather than in general: the debt not repaid, the tongue that cut somebody, the prayer given up for a year, the habit nobody knows about. Name it and ask. The verse guarantees nothing to the calculating, but it removes every excuse from the one who wants to come back.",
