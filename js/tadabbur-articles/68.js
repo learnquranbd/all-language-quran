@@ -16,28 +16,28 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "An Answer to a Charge",
-          "bn": "একটি অভিযোগের জবাব"
+          "bn": "এক অভিযোগের জবাব"
         },
         "p": [
           {
             "en": "Surah al-Qalam is among the earliest revelations, and it opens defending a man's sanity. After the oath by the pen and what they inscribe, 68:2 states it flatly: you are not, by the favour of your Lord, a madman. 68:3 promises him an uninterrupted reward, and then 68:4 delivers the verdict. The charge in the street was that his mind had gone; the reply from above is about his character, which is not the same subject at all.",
-            "bn": "সূরা আল-কলম প্রথম দিকের নাযিলকৃত সূরাগুলোর একটি, আর এটি শুরু হয় এক ব্যক্তির সুস্থমস্তিষ্কতার পক্ষে দাঁড়িয়ে। কলম ও লেখকেরা যা লেখে তার শপথের পর 68:2 সরাসরি বলে দেয়: তোমার প্রতিপালকের অনুগ্রহে তুমি পাগল নও। 68:3 তাঁকে প্রতিশ্রুতি দেয় অফুরন্ত পুরস্কারের, আর তারপর 68:4 রায়টি ঘোষণা করে। রাস্তায় অভিযোগ ছিল যে তাঁর মাথা খারাপ হয়ে গেছে; উপর থেকে জবাব এলো তাঁর চরিত্র সম্পর্কে — যা মোটেই একই প্রসঙ্গ নয়।"
+            "bn": "সূরা আল-কলম একেবারে প্রথম দিকে নাজিল হওয়া সূরাগুলোর একটি। আর সূরাটি শুরুই হয় একজন মানুষের মানসিক সুস্থতার পক্ষে দাঁড়িয়ে। কলমের শপথ আর তারা যা লেখে তার শপথের পর ৬৮:২ সোজাসুজি বলে দেয়: তোমার রবের অনুগ্রহে তুমি পাগল নও। ৬৮:৩ তাঁকে এমন পুরস্কারের ওয়াদা দেয়, যা কখনো থামবে না। তারপর ৬৮:৪ রায় শোনায়। রাস্তায় লোকে অভিযোগ তুলছিল, তাঁর মাথা খারাপ হয়ে গেছে। কিন্তু উপর থেকে যে জবাব এল, তা তাঁর চরিত্র নিয়ে। দুটো একেবারেই আলাদা বিষয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Upon, Not Merely Having",
-          "bn": "'উপরে', কেবল 'অধিকারী' নয়"
+          "bn": "শুধু অধিকারী নয়, উপরে দাঁড়ানো"
         },
         "p": [
           {
             "en": "Four words carry it: wa innaka la-'ala khuluqin 'azim. Two of them are emphasis, inna and the lam attached to the preposition, so the sentence is affirmed twice before it says anything. But the load is on 'ala, upon. Arabic had other options. It could have said dhu khuluqin 'azim, a possessor of great character, or made character the subject and called it great. It chose the preposition of being mounted on a thing.",
-            "bn": "চারটি শব্দ এটি বহন করে: 'ওয়া ইন্নাকা লা-আলা খুলুকিন আযীম।' এর দুটি হলো জোর দেওয়ার উপাদান — 'ইন্না' আর অব্যয়ের সঙ্গে যুক্ত 'লাম' — ফলে বাক্যটি কিছু বলার আগেই দুবার নিশ্চিত করা হয়ে যায়। কিন্তু ভারটা পড়ে 'আলা' অর্থাৎ 'উপরে' শব্দটির উপর। আরবির হাতে অন্য বিকল্পও ছিল। এটি বলতে পারত 'যূ খুলুকিন আযীম' অর্থাৎ মহান চরিত্রের অধিকারী, কিংবা চরিত্রকেই উদ্দেশ্য বানিয়ে তাকে মহান বলতে পারত। এটি বেছে নিয়েছে কোনো কিছুর উপর আরোহণ করে থাকার অব্যয়টি।"
+            "bn": "পুরো কথাটা চার শব্দে: ওয়া ইন্নাকা লা-আলা খুলুকিন আযীম। এর দুটি শুধু জোর দেয়: ইন্না, আর অব্যয়ের সঙ্গে লাগানো লাম। ফলে কিছু বলার আগেই বাক্যটি দুবার নিশ্চিত করে নেয়। কিন্তু আসল ভার পড়েছে আলা শব্দে, মানে উপরে। আরবিতে অন্যভাবেও বলা যেত। বলা যেত যূ খুলুকিন আযীম, অর্থাৎ মহান চরিত্রের অধিকারী। কিংবা চরিত্রকেই কর্তা বানিয়ে তাকে মহান বলা যেত। কিন্তু আয়াত বেছে নিয়েছে এমন অব্যয়, যা কোনো কিছুর উপর চড়ে বসে থাকা বোঝায়।"
           },
           {
             "en": "The same construction is used in 2:5 and again in 31:5 for the believers: ula'ika 'ala hudan min rabbihim, those are upon guidance from their Lord. Guidance is pictured as ground under the feet, something you stand on and travel over, not something you carry. Read 68:4 with that in view and the praise changes shape. Character here is not an ornament he possessed or a temperament he happened to have. It is the terrain he lived on, and he is described as being established over it.",
-            "bn": "একই গঠন ব্যবহৃত হয়েছে 2:5 আয়াতে এবং আবার 31:5 আয়াতে, মুমিনদের সম্পর্কে: 'উলাইকা আলা হুদাম মিন রাব্বিহিম' — তারাই তাদের প্রতিপালকের পক্ষ থেকে হিদায়াতের উপর আছে। হিদায়াতকে চিত্রিত করা হয়েছে পায়ের নিচের জমি হিসেবে — এমন কিছু যার উপর আপনি দাঁড়ান ও চলেন, বহন করেন না। এই দৃষ্টি নিয়ে 68:4 পড়লে প্রশংসাটির চেহারা বদলে যায়। এখানে চরিত্র তাঁর অধিকারভুক্ত কোনো অলংকার নয়, কিংবা কাকতালীয়ভাবে পাওয়া কোনো মেজাজ নয়। এটি সেই জমি, যার উপর তিনি বাস করতেন — আর তাঁকে বর্ণনা করা হয়েছে সেই জমির উপর প্রতিষ্ঠিত হিসেবে।"
+            "bn": "মুমিনদের বেলায় একই গঠন এসেছে ২:৫ আয়াতে, আবার ৩১:৫ আয়াতে: উলাইকা আলা হুদাম মিন রাব্বিহিম, তারাই তাদের রবের পক্ষ থেকে হিদায়াতের উপর আছে। এখানে হিদায়াত যেন পায়ের নিচের মাটি। তার উপর আপনি দাঁড়ান, তার উপর দিয়ে পথ চলেন; হাতে বয়ে বেড়ান না। এ কথা মাথায় রেখে ৬৮:৪ পড়লে প্রশংসার চেহারাই বদলে যায়। এখানে চরিত্র তাঁর গায়ের কোনো অলংকার নয়, ঘটনাচক্রে পাওয়া মেজাজও নয়। এ হলো সেই মাটি, যার উপর তাঁর জীবন কেটেছে। আর আয়াত বলছে, তিনি সেই মাটির উপর শক্ত হয়ে দাঁড়িয়ে আছেন।"
           }
         ]
       },
@@ -49,55 +49,55 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Khuluq and khalq are the same three letters with different vowels, and the lexicographers and mufassirun draw the distinction sharply. Khalq is the outward make of a person, the shape you were given and had no part in choosing. Khuluq is the inward make, the shape a person's dealings take. Putting them on one root is already a claim: that a person has an inner form as definite as his face, and that it is as much a created thing as the face is.",
-            "bn": "'খুলুক' ও 'খালক' একই তিন অক্ষর, কেবল স্বরচিহ্ন আলাদা; আর অভিধানবিদ ও মুফাসসিরগণ পার্থক্যটি তীক্ষ্ণভাবে টানেন। 'খালক' হলো মানুষের বাইরের গড়ন — যে আকৃতি আপনাকে দেওয়া হয়েছে, যা বেছে নেওয়ায় আপনার কোনো ভূমিকা ছিল না। 'খুলুক' হলো ভেতরের গড়ন — মানুষের লেনদেন যে আকৃতি নেয়। দুটোকে একই ধাতুর উপর বসানোটাই একটি দাবি: মানুষের একটি ভেতরের আকৃতি আছে, যা তার মুখের মতোই সুনির্দিষ্ট; আর তা মুখের মতোই একটি সৃষ্ট জিনিস।"
+            "bn": "খুলুক আর খালক একই তিন অক্ষরের শব্দ, শুধু স্বরচিহ্ন আলাদা। অভিধানবিদ ও মুফাসসিরগণ এ দুইয়ের পার্থক্য স্পষ্ট করে টানেন। খালক হলো মানুষের বাইরের গড়ন: যে চেহারা আপনাকে দেওয়া হয়েছে, বেছে নেওয়ায় যাতে আপনার কোনো হাত ছিল না। খুলুক হলো ভেতরের গড়ন: মানুষের আচার-আচরণ যে রূপ নেয়। দুটোকে একই ধাতুতে রাখাটাই একটা দাবি। দাবিটা হলো, মানুষের ভেতরেরও একটা গড়ন আছে, যা তার মুখের মতোই নির্দিষ্ট। আর মুখের মতো সেটাও সৃষ্টি করা জিনিস।"
           },
           {
             "en": "The word 'azim then settles who is doing the measuring. It is the adjective the Quran attaches to the Throne in 9:129 and to the Quran itself in 15:87. When a man is praised in a conversation, the praise is worth whatever the speaker's judgement is worth. Here the speaker is Allah, using a word He uses of His own Throne, about a man who at that moment was being called mad by his neighbours.",
-            "bn": "এরপর 'আযীম' শব্দটি স্থির করে দেয় মাপছে কে। এটি সেই বিশেষণ, যা কুরআন 9:129 আয়াতে আরশের সঙ্গে এবং 15:87 আয়াতে খোদ কুরআনের সঙ্গে যুক্ত করে। কোনো আলাপে যখন এক ব্যক্তির প্রশংসা করা হয়, সেই প্রশংসার দাম ততটুকুই যতটুকু বক্তার বিচারবোধের দাম। এখানে বক্তা স্বয়ং আল্লাহ, আর তিনি ব্যবহার করছেন এমন একটি শব্দ যা তিনি নিজের আরশ সম্পর্কে ব্যবহার করেন — এমন এক ব্যক্তি সম্পর্কে, যাঁকে সেই মুহূর্তে তাঁর প্রতিবেশীরা পাগল বলে ডাকছিল।"
+            "bn": "এরপর আযীম শব্দটি ঠিক করে দেয়, মাপছেন কে। কুরআন এই বিশেষণ ব্যবহার করেছে ৯:১২৯ আয়াতে আরশের জন্য, আর ১৫:৮৭ আয়াতে খোদ কুরআনের জন্য। কারও প্রশংসা হলে সেই প্রশংসার দাম ততটুকুই, যতটুকু দাম বক্তার বিচারবুদ্ধির। এখানে বক্তা স্বয়ং আল্লাহ। নিজের আরশের জন্য যে শব্দ তিনি ব্যবহার করেন, সেই শব্দই তিনি বলছেন এমন এক মানুষের ব্যাপারে, যাঁকে ঠিক তখন তাঁর প্রতিবেশীরা পাগল বলছিল।"
           }
         ]
       },
       {
         "h": {
           "en": "The Portrait Set Against It",
-          "bn": "যে প্রতিকৃতির বিপরীতে এটি রাখা"
+          "bn": "পাশে রাখা উল্টো ছবি"
         },
         "p": [
           {
             "en": "The surah then shows what it does not mean by great character. 68:8 says do not obey the deniers, and 68:9 explains what they are after: they would love you to soften so that they could soften. Only after that refusal is fixed does the surah describe the man on the other side, in 68:10-13, as a habitual swearer, contemptible, a slanderer going about with malicious talk, a preventer of good, a transgressor, sinful, coarse, and of doubtful birth.",
-            "bn": "এরপর সূরাটি দেখিয়ে দেয় মহান চরিত্র বলতে সে কী বোঝায় না। 68:8 বলে অস্বীকারকারীদের আনুগত্য করো না, আর 68:9 ব্যাখ্যা করে তারা কী চায়: তারা চায় তুমি একটু নরম হও, যাতে তারাও নরম হতে পারে। এই অস্বীকৃতিটি পাকা হওয়ার পরেই সূরাটি 68:10-13 আয়াতে অপর পক্ষের মানুষটিকে বর্ণনা করে — অভ্যাসগত শপথকারী, হীন, পিছনে নিন্দাকারী, চোগলখোরি নিয়ে ঘুরে বেড়ানো, কল্যাণে বাধাদানকারী, সীমালঙ্ঘনকারী, পাপিষ্ঠ, রূঢ় স্বভাবের এবং জন্মপরিচয়ে সন্দেহভাজন।"
+            "bn": "এরপর সূরাটি দেখিয়ে দেয়, মহান চরিত্র বলতে কী বোঝায় না। ৬৮:৮ বলে, মিথ্যারোপকারীদের কথা মেনো না। ৬৮:৯ জানায় তারা কী চায়: তারা চায় তুমি একটু নরম হও, তাহলে তারাও নরম হবে। এই না পাকা হওয়ার পরেই সূরাটি ৬৮:১০-১৩ আয়াতে অপর পক্ষের লোকটির ছবি আঁকে: সে কথায় কথায় কসম খায়, হীন, নিন্দুক, চোগলখুরি নিয়ে ঘুরে বেড়ায়, ভালো কাজে বাধা দেয়, সীমা ছাড়ায়, গুনাহগার, রূঢ়, আর তার জন্মপরিচয় সন্দেহজনক।"
           },
           {
             "en": "Placed there, 68:4 is protected from the reading it most often gets. Great character in this surah is not agreeableness or a willingness to meet everyone halfway; the verse forbidding obedience to them comes four verses later. What the contrast names as the ruin of character is a set of habits of the tongue and the hand, and none of them has anything to do with holding a position firmly.",
-            "bn": "এই জায়গায় বসানোর ফলে 68:4 সেই পাঠ থেকে রক্ষা পায়, যেভাবে একে প্রায়ই পড়া হয়। এই সূরায় মহান চরিত্র মানে সবার সঙ্গে মিলিয়ে চলা নয়, সবার সঙ্গে মাঝপথে আপস করার প্রস্তুতিও নয়; তাদের আনুগত্য করতে নিষেধ করা আয়াতটি আসে এর চার আয়াত পরে। বিপরীত চিত্রটি চরিত্রের ধ্বংস হিসেবে যা নাম দেয়, তা হলো জিহ্বা ও হাতের একগুচ্ছ অভ্যাস — আর তার কোনোটিরই কোনো অবস্থানে অটল থাকার সঙ্গে সম্পর্ক নেই।"
+            "bn": "এই জায়গায় বসানো বলে ৬৮:৪ রক্ষা পায় তার সবচেয়ে প্রচলিত পাঠ থেকে। এ সূরায় মহান চরিত্র মানে সবার মন জুগিয়ে চলা নয়, সবার সঙ্গে আধাআধি আপস করতে রাজি থাকাও নয়। তাদের কথা মানতে নিষেধ করা আয়াত তো আসে মাত্র চার আয়াত পরে। উল্টো ছবিটি চরিত্রের সর্বনাশ বলে যা দেখায়, তা জিহ্বা আর হাতের কিছু অভ্যাস। এর কোনোটির সঙ্গেই নিজের অবস্থানে অটল থাকার কোনো সম্পর্ক নেই।"
           }
         ]
       },
       {
         "h": {
           "en": "Character as a Weight",
-          "bn": "চরিত্র যখন ওজন"
+          "bn": "চরিত্রের ওজন"
         },
         "p": [
           {
             "en": "Al-Bukhari records from Abdullah ibn Amr (RA) that the Prophet ﷺ was neither obscene in speech nor given to obscenity, and that he used to say: the best of you are the best of you in character. The description and the saying are placed together in that report, which is itself instructive. He is not quoted as recommending a virtue he was known to lack, and the standard he set for others is the one 68:4 had already applied to him.",
-            "bn": "ইমাম বুখারী আব্দুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ অশ্লীলভাষী ছিলেন না, অশ্লীলতায় অভ্যস্তও ছিলেন না; আর তিনি বলতেন: তোমাদের মধ্যে সর্বোত্তম তারাই, যারা চরিত্রে সর্বোত্তম। ওই বর্ণনায় বিবরণ ও উক্তি — দুটিকে একসঙ্গে রাখা হয়েছে, আর সেটিই শিক্ষণীয়। তাঁকে এমন কোনো গুণের সুপারিশ করতে উদ্ধৃত করা হয়নি যা তাঁর মধ্যে ছিল না; আর অন্যদের জন্য তিনি যে মানদণ্ড স্থির করেছেন, 68:4 আগেই তা তাঁর উপর প্রয়োগ করেছে।"
+            "bn": "ইমাম বুখারী আব্দুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ অশ্লীল কথা বলতেন না, অশ্লীলতায় অভ্যস্তও ছিলেন না। আর তিনি বলতেন: তোমাদের মধ্যে সেরা তারাই, যাদের চরিত্র সবচেয়ে ভালো। একই বর্ণনায় তাঁর বিবরণ আর তাঁর কথা পাশাপাশি রাখা, এটাই শিক্ষণীয়। তিনি এমন কোনো গুণের উপদেশ দিচ্ছেন না, যা তাঁর নিজের মধ্যে ছিল না। অন্যদের জন্য তিনি যে মানদণ্ড ঠিক করেছেন, ৬৮:৪ আগেই সেই মানদণ্ডে তাঁকে মেপেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "কীভাবে এটি যাপন করা যায়"
+          "bn": "জীবনে কীভাবে আনা যায়"
         },
         "p": [
           {
             "en": "If khuluq is a created form rather than an achievement, the first move is to ask for it. Muslim relates that when the Prophet ﷺ stood for prayer at night he would say, among other things: guide me to the best of characters, for none guides to the best of them but You; and turn away from me the bad of them, for none turns their bad away from me but You. Character is petitioned for there, in the same breath as guidance.",
-            "bn": "খুলুক যদি অর্জন না হয়ে সৃষ্ট একটি আকৃতি হয়, তবে প্রথম পদক্ষেপ হলো তা চেয়ে নেওয়া। ইমাম মুসলিম বর্ণনা করেন যে নবী ﷺ রাতে নামাযে দাঁড়ালে অন্যান্য কথার মধ্যে বলতেন: আমাকে সর্বোত্তম চরিত্রের দিকে পথ দেখান, কারণ আপনি ছাড়া কেউ তার সর্বোত্তমের দিকে পথ দেখাতে পারে না; আর তার মন্দগুলো আমার থেকে ফিরিয়ে দিন, কারণ আপনি ছাড়া কেউ তার মন্দ আমার থেকে ফেরাতে পারে না। সেখানে চরিত্র চাওয়া হয়েছে হিদায়াতের সঙ্গে একই নিঃশ্বাসে।"
+            "bn": "খুলুক যদি অর্জন না হয়ে সৃষ্টি করা গড়ন হয়, তাহলে প্রথম কাজ হলো তা চেয়ে নেওয়া। ইমাম মুসলিম বর্ণনা করেন, নবী ﷺ রাতে নামাজে দাঁড়ালে অন্যান্য কথার সঙ্গে বলতেন: আমাকে সবচেয়ে সুন্দর চরিত্রের পথ দেখান, আপনি ছাড়া কেউ তার পথ দেখাতে পারে না। আর মন্দ চরিত্র আমার থেকে সরিয়ে দিন, আপনি ছাড়া কেউ তা আমার থেকে সরাতে পারে না। সেখানে হিদায়াত চাওয়ার একই নিঃশ্বাসে তিনি চরিত্রও চেয়েছেন।"
           },
           {
             "en": "Then work on the terrain rather than on the performance. Standing upon a character means the responses come from underneath, without a decision each time: the reply not sent, the debt paid early, the promise kept when nobody would have complained. Pick a single habit the surah's counter-portrait names, one of speech is usually the honest choice, and stop it for a month. That is how ground gets laid down, one narrow strip at a time.",
-            "bn": "এরপর কাজ করুন অভিনয়ের উপর নয়, জমিটির উপর। কোনো চরিত্রের উপর দাঁড়িয়ে থাকার মানে হলো প্রতিক্রিয়াগুলো আসে নিচ থেকে, প্রতিবার আলাদা সিদ্ধান্ত ছাড়াই: যে জবাবটি পাঠানো হলো না, যে ঋণটি সময়ের আগেই শোধ হলো, যে প্রতিশ্রুতি রাখা হলো যদিও না রাখলে কেউ অভিযোগ করত না। সূরার বিপরীত প্রতিকৃতিতে নাম নেওয়া একটি অভ্যাস বেছে নিন — সাধারণত জিহ্বার কোনো অভ্যাসই সৎ পছন্দ — আর এক মাসের জন্য তা থামান। এভাবেই জমি বসে, একবারে একটি সরু ফালি করে।"
+            "bn": "এরপর কাজ করুন মাটির উপর, লোক দেখানো আচরণের উপর নয়। চরিত্রের উপর দাঁড়িয়ে থাকা মানে প্রতিক্রিয়া উঠে আসে নিচের মাটি থেকে, প্রতিবার আলাদা করে সিদ্ধান্ত নিতে হয় না। যেমন: যে জবাবটা আর পাঠানো হয়নি, যে ঋণ সময়ের আগেই শোধ হয়েছে, যে ওয়াদা রাখা হয়েছে অথচ না রাখলেও কেউ কিছু বলত না। সূরার উল্টো ছবিতে যে অভ্যাসগুলোর নাম আছে, তার একটি বেছে নিন। সৎভাবে বাছলে সাধারণত সেটা জিহ্বারই কোনো অভ্যাস হয়। এক মাস সেটা বন্ধ রাখুন। মাটি এভাবেই তৈরি হয়, একবারে একটা সরু ফালি করে।"
           }
         ]
       }
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then at-Tabari records a different reading from Ibn Zayd: the hammaz jabs people with his hand and strikes them, not with the tongue. Ibn Zayd recited 104:1, woe to every humaza lumaza, and said the lumaz wounds people with his tongue. At-Tabari then explains how the backbiter earns the name. The root of hamz, he says, is ghamz, a pressing or poking; the backbiter is called hammaz because he stabs at people's honour with what they dislike, and that is a jab against them.",
-            "bn": "এরপর তাবারী ইবন যায়দ থেকে ভিন্ন এক ব্যাখ্যা আনেন। তাঁর মতে হাম্মায সে, যে হাত দিয়ে মানুষকে খোঁচায় আর মারে, জিহ্বা দিয়ে নয়। ইবন যায়দ ১০৪:১ তিলাওয়াত করেন, ধ্বংস প্রত্যেক হুমাযা লুমাযার জন্য, আর বলেন, লাম্মায সে যে জিহ্বা দিয়ে মানুষকে আঘাত করে। গীবতকারী কেন এ নাম পায়, তাবারী তারপর তা খুলে বলেন। হাম্‌য শব্দের মূলে আছে গাম্‌য, মানে চাপ দেওয়া বা খোঁচা দেওয়া। গীবতকারী মানুষের ইজ্জতে আঘাত করে এমন কথা দিয়ে, যা তারা অপছন্দ করে। সেটাই তাদের গায়ে খোঁচা, তাই তার নাম হাম্মায।"
+            "bn": "এরপর তাবারী ইবন যায়দ থেকে ভিন্ন এক ব্যাখ্যা আনেন। তাঁর মতে হাম্মায সে, যে হাত দিয়ে মানুষকে খোঁচায় আর মারে, জিহ্বা দিয়ে নয়। ইবন যায়দ ১০৪:১ তিলাওয়াত করেন, ধ্বংস প্রত্যেক হুমাযা লুমাযার জন্য, আর বলেন, লুমায সে যে জিহ্বা দিয়ে মানুষকে আঘাত করে। গীবতকারী কেন এ নাম পায়, তাবারী তারপর তা খুলে বলেন। হাম্‌য শব্দের মূলে আছে গাম্‌য, মানে চাপ দেওয়া বা খোঁচা দেওয়া। গীবতকারী মানুষের ইজ্জতে আঘাত করে এমন কথা দিয়ে, যা তারা অপছন্দ করে। সেটাই তাদের গায়ে খোঁচা, তাই তার নাম হাম্মায।"
           }
         ]
       },
@@ -281,7 +281,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gives a longer list and divides the question reading in two. Abu Ja'far, Ibn Amir, Abu Haywa, al-Mughira and al-A'raj read aan kana, with one hamza drawn long, as a question. Al-Mufaddal, Abu Bakr and Hamza read it with two hamzas, both fully pronounced. The rest read a single hamza, as a statement. Whoever reads either form of the question, he says, reads tawbikh, a reproach. Such a reader, he adds, does well to pause on zanim, the last word of 68:13, and begin afresh with an kana as a question.",
-            "bn": "কুরতুবীর তালিকা আরও লম্বা, আর তিনি প্রশ্নবোধক পাঠকে দুই ভাগে ভাগ করেন। আবু জা'ফর, ইবন আমির, আবু হাইওয়া, মুগীরা ও আ'রাজ পড়েছেন আ-ন কানা, একটি হামযা টেনে লম্বা করে, প্রশ্ন হিসেবে। মুফাদ্দাল, আবু বকর ও হামযা পড়েছেন দুটি হামযাই পুরোপুরি উচ্চারণ করে। বাকিরা পড়েছেন এক হামযা দিয়ে, সংবাদ হিসেবে। কুরতুবী বলেন, দুই রকম প্রশ্নবোধক পাঠের যে কোনোটি যে পড়ে, সে আসলে তিরস্কারের কথা পড়ে, যাকে বলে তাওবীখ। এমন পাঠকের পক্ষে ৬৮:১৩-এর শেষ শব্দ যানীমে থেমে নতুন করে প্রশ্ন দিয়ে শুরু করা ভালো।"
+            "bn": "কুরতুবীর তালিকা আরও লম্বা, আর তিনি প্রশ্নবোধক পাঠকে দুই ভাগে ভাগ করেন। আবু জা'ফর, ইবন আমির, আবু হাইওয়া, মুগীরা ও আ'রাজ পড়েছেন আ-ন কানা, একটি হামযা টেনে লম্বা করে, প্রশ্ন হিসেবে। মুফাদ্দাল, আবু বকর ও হামযা পড়েছেন দুটি হামযাই পুরোপুরি উচ্চারণ করে। বাকিরা পড়েছেন এক হামযা দিয়ে, সংবাদ হিসেবে। কুরতুবী বলেন, দুই রকম প্রশ্নবোধক পাঠের যে কোনোটি যে পড়ে, সে আসলে তিরস্কারের কথা পড়ে, যাকে বলে তাওবীখ। তিনি আরও বলেন, এমন পাঠকের পক্ষে ৬৮:১৩-এর শেষ শব্দ যানীমে থেমে আন কানা থেকে প্রশ্ন হিসেবে নতুন করে শুরু করা ভালো।"
           },
           {
             "en": "Al-Baghawi's list differs again. He names Abu Ja'far, Ibn Amir, Hamza, Abu Bakr and Ya'qub for the question. Hamza and Abu Bakr, he says, take the two hamzas without lengthening, while Abu Ja'far, Ibn Amir and Ya'qub lengthen the first and soften the second. The others read without a question, as a statement. The three lists do not match name for name. At-Tabari gives two readers for the question, al-Qurtubi places Abu Ja'far and Hamza in different forms of it, and al-Baghawi adds Ya'qub. Each list is reported here as its author gives it.",
@@ -353,7 +353,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di then states the principle that governs his reading. Although the verses came down concerning a particular man, he says, they are general to everyone who carries this description, because the Qur'an came down to guide all of creation, the first of this community and its last. Sometimes a verse comes down over a cause or a person so that the general rule becomes clear through it, and the particular cases that fall under that rule can be recognised. The rule he draws out concerns a trait. It is not a verdict on a household, a lineage or a people.",
-            "bn": "এরপর সা'দী সেই নীতিটি বলেন, যার আলোয় তিনি আয়াতগুলো পড়েন। আয়াতগুলো একজন নির্দিষ্ট লোকের ব্যাপারে নাযিল হলেও যার মধ্যেই এই গুণগুলো পাওয়া যাবে, তার জন্যই এগুলো প্রযোজ্য। কারণ কুরআন নাযিল হয়েছে সমগ্র সৃষ্টির হিদায়াতের জন্য, এ উম্মতের প্রথম জন থেকে শেষ জন পর্যন্ত। কখনো কোনো আয়াত নাযিল হয় একটি ঘটনা বা একজন মানুষকে কেন্দ্র করে, যাতে তার মাধ্যমে সাধারণ নিয়মটি পরিষ্কার হয়। তখন সেই নিয়মের আওতায় পড়া খুঁটিনাটি ঘটনাগুলোও চেনা যায়। তিনি যে নিয়ম বের করেন, তা একটি স্বভাব নিয়ে। কোনো পরিবার, বংশ বা জাতির বিরুদ্ধে রায় নয়।"
+            "bn": "এরপর সা'দী সেই নীতিটি বলেন, যার আলোয় তিনি আয়াতগুলো পড়েন। তিনি বলেন, আয়াতগুলো একজন নির্দিষ্ট লোকের ব্যাপারে নাজিল হলেও এই বর্ণনা যার সঙ্গেই মেলে, তার জন্যই এগুলো প্রযোজ্য। কারণ কুরআন নাজিল হয়েছে সমগ্র সৃষ্টির হিদায়াতের জন্য, এ উম্মতের প্রথম জন থেকে শেষ জন পর্যন্ত। কখনো কোনো আয়াত নাজিল হয় একটি ঘটনা বা একজন মানুষকে কেন্দ্র করে, যাতে তার মাধ্যমে সাধারণ নিয়মটি পরিষ্কার হয়। তখন সেই নিয়মের আওতায় পড়া খুঁটিনাটি ঘটনাগুলোও চেনা যায়। তিনি যে নিয়ম বের করেন, তা একটি স্বভাব নিয়ে। কোনো পরিবার, বংশ বা জাতির বিরুদ্ধে রায় নয়।"
           }
         ]
       },
@@ -405,7 +405,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fa-tafa 'alayha ta'ifun min rabbika wa hum na'imun: so there came round it a ta'if from your Lord while they were asleep. The verse has seven Arabic words, and the fa at its head ties them to what came just before. In 68:17 the owners of a garden swore they would cut its fruit in the early morning, and 68:18 adds that they made no exception. This verse answers the oath before the morning it named had come. The garden is the object of the verb, and the owners appear only at the end, asleep.",
-            "bn": "ফাতাফা আলাইহা তাইফুম মির রব্বিকা ওয়া হুম নাইমূন: অতঃপর তোমার রবের পক্ষ থেকে এক তাইফ তার চারপাশ ঘুরে গেল, আর তারা তখন ঘুমিয়ে। আরবিতে আয়াতটি সাতটি শব্দের। শুরুর ফা অক্ষরটি একে বেঁধে রেখেছে আগের কথার সঙ্গে। ৬৮:১৭ আয়াতে এক বাগানের মালিকেরা কসম খেয়েছিল, ভোর হতেই তারা বাগানের ফল কেটে নেবে। ৬৮:১৮ আয়াত যোগ করে, তারা কোনো ব্যতিক্রম রাখেনি। যে সকালের নামে কসম, সেই সকাল আসার আগেই এ আয়াত কসমের জবাব দিয়ে দেয়। ক্রিয়ার লক্ষ্য বাগান। মালিকেরা আসে একেবারে শেষে, ঘুমন্ত অবস্থায়।"
+            "bn": "ফাতাফা আলাইহা তাইফুম মির রব্বিকা ওয়া হুম নাইমূন: অতঃপর তোমার রবের পক্ষ থেকে এক তাইফ তার চারপাশ ঘুরে গেল, আর তারা তখন ঘুমিয়ে। আরবিতে আয়াতটি সাতটি শব্দের। শুরুর ফা অক্ষরটি একে বেঁধে রেখেছে আগের কথার সঙ্গে। ৬৮:১৭ আয়াতে এক বাগানের মালিকেরা কসম খেয়েছিল, ভোর হতেই তারা বাগানের ফল কেটে নেবে। ৬৮:১৮ আয়াত যোগ করে, তারা কোনো ব্যতিক্রম রাখেনি। কসমে যে সকালের কথা ছিল, সেই সকাল আসার আগেই এ আয়াত কসমের জবাব দিয়ে দেয়। ক্রিয়ার লক্ষ্য বাগান। মালিকেরা আসে একেবারে শেষে, ঘুমন্ত অবস্থায়।"
           },
           {
             "en": "Tafa and ta'if come from the same root, and the verb means to go round something, so the verse sets the doer beside his own deed: there went round it a goer-round. At-Tabari paraphrases with a different night word. Taraqa jannata ha'ula'i al-qawmi laylan tariqun min amri Allah: a night-comer from the command of Allah came upon these people's garden by night, while they slept. Ma'arif al-Qur'an keeps the motion instead. It renders the word a whirl, a whirl of calamity, through which Divine punishment overtook the garden in a sudden and swift sweep.",
@@ -480,7 +480,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Asleep on a Sworn Plan",
-          "bn": "কসমের পরিকল্পনা মাথায় ঘুম"
+          "bn": "কসম-খাওয়া পরিকল্পনা নিয়ে ঘুম"
         },
         "p": [
           {
@@ -509,7 +509,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He then cites a hadith fi al-sahih, in the Sahih, and Sahih al-Bukhari records it as number 31, narrated by al-Ahnaf ibn Qais from Abu Bakra (RA). In its English rendering the Prophet ﷺ said: 'When two Muslims fight (meet) each other with their swords, both the murderer as well as the murdered will go to the Hell-fire.' Abu Bakra said, 'O Allah's Messenger (ﷺ)! It is all right for the murderer but what about the murdered one?' He replied, 'He surely had the intention to kill his companion.' The narration's opening scene, where Abu Bakra stops al-Ahnaf, is left out here. Al-Qurtubi attaches it to the point about resolve.",
-            "bn": "এরপর তিনি সহীহ গ্রন্থ থেকে একটি হাদীস আনেন। সহীহ বুখারী এটি এনেছে ৩১ নম্বরে, আহনাফ ইবন কাইস আবু বাকরা (রাঃ) থেকে বর্ণনা করেছেন। নবী ﷺ বলেছেন: দুজন মুসলিম যখন তলোয়ার নিয়ে পরস্পরের মুখোমুখি হয়, তখন হত্যাকারী ও নিহত দুজনেই জাহান্নামে যাবে। আবু বাকরা বললেন, হে আল্লাহর রাসূল ﷺ! হত্যাকারীর কথা তো বোঝা গেল, কিন্তু নিহত ব্যক্তির কী দোষ? তিনি বললেন, সে-ও তো তার সঙ্গীকে হত্যা করতে উদগ্রীব ছিল। বর্ণনার শুরুর দৃশ্যটি, যেখানে আবু বাকরা আহনাফকে থামান, এখানে বাদ দেওয়া হয়েছে। কুরতুবী একে জুড়েছেন সংকল্পের প্রশ্নের সঙ্গে।"
+            "bn": "এরপর তিনি সহীহ গ্রন্থ থেকে একটি হাদিস আনেন। সহীহ বুখারী এটি এনেছে ৩১ নম্বরে, আহনাফ ইবন কাইস আবু বাকরা (রাঃ) থেকে বর্ণনা করেছেন। এর ইংরেজি অনুবাদে আছে, নবী ﷺ বলেছেন: দুজন মুসলিম যখন তলোয়ার নিয়ে পরস্পরের মুখোমুখি হয়, তখন হত্যাকারী ও নিহত দুজনেই জাহান্নামে যাবে। আবু বাকরা বললেন, হে আল্লাহর রাসূল ﷺ! হত্যাকারীর কথা তো বোঝা গেল, কিন্তু নিহত ব্যক্তির কী দোষ? তিনি বললেন, তার সঙ্গীকে হত্যা করার নিয়ত তো তারও ছিল। বর্ণনার শুরুর দৃশ্যটি, যেখানে আবু বাকরা আহনাফকে থামান, এখানে বাদ দেওয়া হয়েছে। কুরতুবী একে জুড়েছেন সংকল্পের প্রশ্নের সঙ্গে।"
           }
         ]
       },
