@@ -117,7 +117,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Anfal is Madinan and came down about the battle at Badr, in Ramadan of the second year after the Hijra. The surah opens on a dispute about the spoils, 8:1, and then defines the believers in 8:2-4 before settling who gets what. From 8:5 it turns back to the march out. So the recital that 8:11 belongs to is addressed to people who had just been quarrelling over what they had gained.",
-            "bn": "সূরা আল-আনফাল মাদানী, আর নেমেছে বদরের যুদ্ধ নিয়ে, হিজরতের দ্বিতীয় বছরের রমযানে। সূরা শুরু হয় যুদ্ধলব্ধ সম্পদ নিয়ে মতবিরোধ দিয়ে, ৮:১ আয়াতে; এরপর কে কী পাবে সে হিসাব করার আগে ৮:২-৪ আয়াত মু'মিন কারা তা ঠিক করে দেয়। ৮:৫ থেকে আবার ফেরে বেরিয়ে পড়ার ঘটনায়। তাই ৮:১১ যে বর্ণনার অংশ, তা এমন লোকদের উদ্দেশ্যে বলা, যারা সদ্য নিজেদের প্রাপ্তি নিয়ে ঝগড়া করছিল।"
+            "bn": "সূরা আল-আনফাল মাদানী, আর নেমেছে বদরের যুদ্ধ নিয়ে, হিজরতের দ্বিতীয় বছরের রমজানে। সূরা শুরু হয় যুদ্ধলব্ধ সম্পদ নিয়ে মতবিরোধ দিয়ে, ৮:১ আয়াতে; এরপর কে কী পাবে সে হিসাব করার আগে ৮:২-৪ আয়াত মু'মিন কারা তা ঠিক করে দেয়। ৮:৫ থেকে আবার ফেরে বেরিয়ে পড়ার ঘটনায়। তাই ৮:১১ যে বর্ণনার অংশ, তা এমন লোকদের উদ্দেশ্যে বলা, যারা সদ্য নিজেদের প্রাপ্তি নিয়ে ঝগড়া করছিল।"
           },
           {
             "en": "The immediate neighbours matter. 8:9 recalls them calling on their Lord for help and the answer that a thousand angels would be sent, one following another. 8:10 says the reinforcement was only good tidings and a means of settling their hearts, and that victory comes from nowhere but Allah. 8:11 continues the same chain of idh clauses, remember when, with a help of a completely different kind. Then 8:12 returns to the angels and the command given to them.",
@@ -125,7 +125,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The occasion is established rather than guessed. The tafsir and the sirah agree that the verse describes the night before the fighting. al-Qurtubi transmits from az-Zajjaj that the rain fell on the night of Badr, named there as the seventeenth of Ramadan, until the valleys ran; and he reports the further view that these events happened before the Muslims reached Badr itself, calling that more correct and crediting it to what Ibn Ishaq recorded in his Sirah.",
-            "bn": "শানে নুযূল এখানে অনুমান নয়, প্রমাণিত। তাফসীর আর সীরাত একমত যে আয়াতটি যুদ্ধের আগের রাতের বর্ণনা। কুরতুবী যাজ্জাজ থেকে আনেন যে বৃষ্টি নেমেছিল বদরের রাতে, সেখানে সে রাতকে রমযানের সতেরো তারিখ বলা হয়েছে, আর বৃষ্টি এমন হয়েছিল যে উপত্যকা দিয়ে পানি বয়ে গিয়েছিল। তিনি আরেকটি মতও জানান, এ ঘটনাগুলো ঘটেছিল মুসলিমরা বদরে পৌঁছার আগেই; এ মতকেই তিনি বেশি সঠিক বলেন আর ইবনু ইসহাকের সীরাতের বর্ণনার সাথে মেলান।"
+            "bn": "শানে নুযূল এখানে অনুমান নয়, প্রমাণিত। তাফসীর আর সীরাত একমত যে আয়াতটি যুদ্ধের আগের রাতের বর্ণনা। কুরতুবী যাজ্জাজ থেকে আনেন যে বৃষ্টি নেমেছিল বদরের রাতে, সেখানে সে রাতকে রমজানের সতেরো তারিখ বলা হয়েছে, আর বৃষ্টি এমন হয়েছিল যে উপত্যকা দিয়ে পানি বয়ে গিয়েছিল। তিনি আরেকটি মতও জানান, এ ঘটনাগুলো ঘটেছিল মুসলিমরা বদরে পৌঁছার আগেই; এ মতকেই তিনি বেশি সঠিক বলেন আর ইবনু ইসহাকের সীরাতের বর্ণনার সাথে মেলান।"
           }
         ]
       },
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "at-Tabari explains the water with the same care. It was rain Allah sent down that the believers might purify themselves for their prayer, because they had risen that morning in a state of major impurity with no water. Satan had whispered to them about exactly that and left them grieving, and Allah took it away from their hearts with the rain. That, at-Tabari says, is His binding of their hearts; and the feet held because the sand they had met the enemy on was soft, and the rain packed it so that feet no longer sank.",
-            "bn": "পানির ব্যাখ্যায় তাবারী একই সতর্কতা রাখেন। এ ছিল আল্লাহর নামানো বৃষ্টি, যাতে মু'মিনরা নামাযের জন্য পাক হতে পারে; কারণ সেদিন সকালে তারা জেগেছিল বড় নাপাকির অবস্থায়, আর পানি ছিল না। শয়তান ঠিক এ কথাটাই তাদের কানে দিয়েছিল আর তাদের মন ভারী করে রেখেছিল, আর আল্লাহ বৃষ্টি দিয়ে তা তাদের দিল থেকে সরিয়ে দিলেন। তাবারীর ভাষায় এটাই তাদের দিল বেঁধে দেওয়া; আর পা টিকে গিয়েছিল কারণ শত্রুর মুখোমুখি হওয়া জায়গাটার বালু ছিল নরম, আর বৃষ্টি তা চেপে দিয়েছিল, ফলে পা আর দেবে যায়নি।"
+            "bn": "পানির ব্যাখ্যায় তাবারী একই সতর্কতা রাখেন। এ ছিল আল্লাহর নামানো বৃষ্টি, যাতে মু'মিনরা নামাজের জন্য পাক হতে পারে; কারণ সেদিন সকালে তারা জেগেছিল বড় নাপাকির অবস্থায়, আর পানি ছিল না। শয়তান ঠিক এ কথাটাই তাদের কানে দিয়েছিল আর তাদের মন ভারী করে রেখেছিল, আর আল্লাহ বৃষ্টি দিয়ে তা তাদের দিল থেকে সরিয়ে দিলেন। তাবারীর ভাষায় এটাই তাদের দিল বেঁধে দেওয়া; আর পা টিকে গিয়েছিল কারণ শত্রুর মুখোমুখি হওয়া জায়গাটার বালু ছিল নরম, আর বৃষ্টি তা চেপে দিয়েছিল, ফলে পা আর দেবে যায়নি।"
           }
         ]
       },
@@ -181,7 +181,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "at-Tabari transmits the scene from Ali (RA), through Abu Ishaq from Harithah. A light rain fell on us in the night, he said, meaning the night whose morning was Badr, so we went under the trees and the shields to shelter from it. And the Messenger of Allah ﷺ spent the night calling on his Lord: O Allah, if You destroy this band, You will not be worshipped on the earth. When the dawn rose he called out, the prayer, servants of Allah, and the people came out from under the trees and the shields, and he ﷺ prayed with us and urged them to the fighting.",
-            "bn": "তাবারী দৃশ্যটি এনেছেন আলী (রাঃ) থেকে, আবূ ইসহাক হারিসা থেকে যেভাবে বর্ণনা করেছেন। তিনি বলেন, রাতে আমাদের উপর হালকা বৃষ্টি পড়ল, অর্থাৎ যে রাতের সকালেই ছিল বদর; তাই আমরা বৃষ্টি থেকে বাঁচতে গাছ আর ঢালের নিচে গিয়ে বসলাম। আর আল্লাহর রসূল ﷺ সারা রাত তাঁর প্রতিপালককে ডেকে কাটালেন: হে আল্লাহ, আপনি যদি এ দলটিকে ধ্বংস করে দেন, তবে যমীনে আপনার ইবাদাত করা হবে না। ভোর হতেই তিনি ডাক দিলেন, নামায, হে আল্লাহর বান্দারা; লোকেরা গাছ আর ঢালের নিচ থেকে বেরিয়ে এল, আর তিনি ﷺ আমাদের নিয়ে নামায পড়লেন আর যুদ্ধে উৎসাহ দিলেন।"
+            "bn": "তাবারী দৃশ্যটি এনেছেন আলী (রাঃ) থেকে, আবূ ইসহাক হারিসা থেকে যেভাবে বর্ণনা করেছেন। তিনি বলেন, রাতে আমাদের উপর হালকা বৃষ্টি পড়ল, অর্থাৎ যে রাতের সকালেই ছিল বদর; তাই আমরা বৃষ্টি থেকে বাঁচতে গাছ আর ঢালের নিচে গিয়ে বসলাম। আর আল্লাহর রাসূল ﷺ সারা রাত তাঁর প্রতিপালককে ডেকে কাটালেন: হে আল্লাহ, আপনি যদি এ দলটিকে ধ্বংস করে দেন, তবে যমীনে আপনার ইবাদাত করা হবে না। ভোর হতেই তিনি ডাক দিলেন, নামাজ, হে আল্লাহর বান্দারা; লোকেরা গাছ আর ঢালের নিচ থেকে বেরিয়ে এল, আর তিনি ﷺ আমাদের নিয়ে নামাজ পড়লেন আর যুদ্ধে উৎসাহ দিলেন।"
           },
           {
             "en": "A du'a of that day is in the Sahih with its own wording, which should not be mixed with the wording above. Sahih al-Bukhari 3953, from Ibn Abbas (RA): on the day of Badr the Prophet ﷺ said, O Allah, I appeal to You by Your covenant and Your promise; O Allah, if You will, You will not be worshipped. Abu Bakr (RA) took him by the hand and said, this is enough for you. Then he ﷺ came out saying the words of 54:45, their assembly will be defeated and they will turn their backs.",
@@ -225,7 +225,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The clause about the whisper is the most practical of the four. Some of what presses on a believer in a hard season is not a fact at all but a suggestion, and at Badr the suggestion attacked their standing with Allah: you claim to be His allies and here you are, praying in this state. The answer was not a debate. It was water, a wash, and a prayer at dawn. When a whisper goes for your standing, purify yourself and pray, and do not argue with it.",
-            "bn": "চারটির মধ্যে কুমন্ত্রণার কথাটাই সবচেয়ে কাজের। কঠিন সময়ে মু'মিনের উপর যা চাপ দেয়, তার কিছু আসলে কোনো ঘটনাই নয়, নিছক প্ররোচনা; আর বদরে সেই প্ররোচনা হামলা করেছিল আল্লাহর সাথে তাদের সম্পর্কের উপর: দাবি কর তাঁর বন্ধু, অথচ এই অবস্থায় নামায পড়ছ। জবাবটা কোনো তর্ক ছিল না। জবাব ছিল পানি, গোসল আর ভোরের নামায। কুমন্ত্রণা যখন আপনার সম্পর্কের উপর হাত দেয়, পাক হয়ে নামাযে দাঁড়ান, তার সাথে তর্কে নামবেন না।"
+            "bn": "চারটির মধ্যে কুমন্ত্রণার কথাটাই সবচেয়ে কাজের। কঠিন সময়ে মু'মিনের উপর যা চাপ দেয়, তার কিছু আসলে কোনো ঘটনাই নয়, নিছক প্ররোচনা; আর বদরে সেই প্ররোচনা হামলা করেছিল আল্লাহর সাথে তাদের সম্পর্কের উপর: দাবি কর তাঁর বন্ধু, অথচ এই অবস্থায় নামাজ পড়ছ। জবাবটা কোনো তর্ক ছিল না। জবাব ছিল পানি, গোসল আর ভোরের নামাজ। কুমন্ত্রণা যখন আপনার সম্পর্কের উপর হাত দেয়, পাক হয়ে নামাজে দাঁড়ান, তার সাথে তর্কে নামবেন না।"
           }
         ]
       },
@@ -257,7 +257,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Which of the worries you are carrying right now would collapse if you asked whether it is a fact or a whisper? And when a whisper reaches for your standing with Allah, what do you usually do first, argue or wash and pray? The believers at Badr were handed water. What has He handed you that you have been using without calling it by its name?",
-            "bn": "এখন যে দুশ্চিন্তাগুলো বয়ে বেড়াচ্ছেন, তার কোনটা ভেঙে পড়বে যদি জিজ্ঞেস করেন, এটা আসল ঘটনা নাকি কুমন্ত্রণা? আর কুমন্ত্রণা যখন আল্লাহর সাথে আপনার সম্পর্কের দিকে হাত বাড়ায়, আপনি সাধারণত আগে কী করেন, তর্ক করেন নাকি পাক হয়ে নামাযে দাঁড়ান? বদরের মু'মিনদের হাতে পানি তুলে দেওয়া হয়েছিল। তিনি আপনার হাতে কী তুলে দিয়েছেন, যা আপনি ব্যবহার করে যাচ্ছেন কিন্তু নাম ধরে ডাকেননি?"
+            "bn": "এখন যে দুশ্চিন্তাগুলো বয়ে বেড়াচ্ছেন, তার কোনটা ভেঙে পড়বে যদি জিজ্ঞেস করেন, এটা আসল ঘটনা নাকি কুমন্ত্রণা? আর কুমন্ত্রণা যখন আল্লাহর সাথে আপনার সম্পর্কের দিকে হাত বাড়ায়, আপনি সাধারণত আগে কী করেন, তর্ক করেন নাকি পাক হয়ে নামাজে দাঁড়ান? বদরের মু'মিনদের হাতে পানি তুলে দেওয়া হয়েছিল। তিনি আপনার হাতে কী তুলে দিয়েছেন, যা আপনি ব্যবহার করে যাচ্ছেন কিন্তু নাম ধরে ডাকেননি?"
           }
         ]
       }
@@ -321,7 +321,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The other position is reported from Ibn Abbas (RA) and, al-Qurtubi says, from the rest of the scholars: the verse stands until the Day of Resurrection, subject to the condition of numbers that Allah set out in another verse, and there is no abrogation in it at all. Their proof is the one about timing, that the verse came down after the war was over. Malik, ash-Shafi'i and most of the scholars held this, and al-Qurtubi treats the hadith of the seven destructive sins as decisive for it.",
-            "bn": "অন্য মতটি বর্ণিত ইবনু আব্বাস (রাঃ) থেকে, আর কুরতুবীর ভাষায় বাকি আলিমদের থেকেও: আয়াতের হুকুম ক্বিয়ামাত পর্যন্ত বহাল, তবে সংখ্যার সেই শর্ত মেনে যা আল্লাহ অন্য আয়াতে বলে দিয়েছেন; আর এতে কোনো নাসখ নেই। তাঁদের দলিল সেই সময়ের কথাটাই, আয়াতটি নেমেছে যুদ্ধ শেষ হওয়ার পর। মালিক, শাফিঈ ও অধিকাংশ আলিম এ মতেই ছিলেন, আর কুরতুবী সাত ধ্বংসকারী গুনাহের হাদীসটিকে এ পক্ষে চূড়ান্ত দলিল ধরেন।"
+            "bn": "অন্য মতটি বর্ণিত ইবনু আব্বাস (রাঃ) থেকে, আর কুরতুবীর ভাষায় বাকি আলিমদের থেকেও: আয়াতের হুকুম ক্বিয়ামাত পর্যন্ত বহাল, তবে সংখ্যার সেই শর্ত মেনে যা আল্লাহ অন্য আয়াতে বলে দিয়েছেন; আর এতে কোনো নাসখ নেই। তাঁদের দলিল সেই সময়ের কথাটাই, আয়াতটি নেমেছে যুদ্ধ শেষ হওয়ার পর। মালিক, শাফিঈ ও অধিকাংশ আলিম এ মতেই ছিলেন, আর কুরতুবী সাত ধ্বংসকারী গুনাহের হাদিসটিকে এ পক্ষে চূড়ান্ত দলিল ধরেন।"
           }
         ]
       },
@@ -333,11 +333,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sahih al-Bukhari 2766, from Abu Hurayrah (RA): the Prophet ﷺ said, avoid the seven great destructive sins. The people asked, Messenger of Allah, what are they? He said: associating others with Allah, sorcery, killing the soul Allah has forbidden except by right, consuming interest, consuming an orphan's wealth, fleeing on the day of battle, and slandering chaste believing women. Fleeing is the sixth of the seven. al-Qurtubi cites the same hadith from Sahih Muslim, also through Abu Hurayrah (RA), and calls it decisive.",
-            "bn": "সহীহ বুখারী ২৭৬৬, আবূ হুরাইরা (রাঃ) থেকে: নবী ﷺ বললেন, সাতটি ধ্বংসকারী গুনাহ থেকে বেঁচে থাক। লোকেরা জিজ্ঞেস করল, হে আল্লাহর রসূল, সেগুলো কী? তিনি বললেন: আল্লাহর সাথে শরীক করা, জাদু, আল্লাহ যে প্রাণ হত্যা হারাম করেছেন তাকে অন্যায়ভাবে হত্যা করা, সুদ খাওয়া, এতীমের মাল খাওয়া, যুদ্ধের দিনে পিঠ ফিরিয়ে পালানো, আর সচ্চরিত্রা মু'মিন নারীদের প্রতি অপবাদ দেওয়া। সাতটির মধ্যে পালানোটা ষষ্ঠ। কুরতুবী একই হাদীস সহীহ মুসলিম থেকে আনেন, আবূ হুরাইরা (রাঃ)-এর সূত্রেই, আর তাকে চূড়ান্ত দলিল বলেন।"
+            "bn": "সহীহ বুখারী ২৭৬৬, আবূ হুরাইরা (রাঃ) থেকে: নবী ﷺ বললেন, সাতটি ধ্বংসকারী গুনাহ থেকে বেঁচে থাক। লোকেরা জিজ্ঞেস করল, হে আল্লাহর রাসূল, সেগুলো কী? তিনি বললেন: আল্লাহর সাথে শরীক করা, জাদু, আল্লাহ যে প্রাণ হত্যা হারাম করেছেন তাকে অন্যায়ভাবে হত্যা করা, সুদ খাওয়া, এতীমের মাল খাওয়া, যুদ্ধের দিনে পিঠ ফিরিয়ে পালানো, আর সচ্চরিত্রা মু'মিন নারীদের প্রতি অপবাদ দেওয়া। সাতটির মধ্যে পালানোটা ষষ্ঠ। কুরতুবী একই হাদিস সহীহ মুসলিম থেকে আনেন, আবূ হুরাইরা (রাঃ)-এর সূত্রেই, আর তাকে চূড়ান্ত দলিল বলেন।"
           },
           {
             "en": "Notice what the hadith settles and what it leaves alone. It places the act among the gravest of sins, and al-Qurtubi reports that fleeing is a destructive major sin by the apparent sense of the Quran and the agreement of most of the imams. What the hadith does not do is define the situation. 8:15 does that with one word, 8:16 supplies the two exceptions, and 8:66 sets the numbers. A ruling this heavy is the one a reader is least entitled to handle loosely.",
-            "bn": "খেয়াল করুন হাদীসটি কী মীমাংসা করে আর কী ছেড়ে দেয়। হাদীসটি কাজটিকে সবচেয়ে বড় গুনাহের কাতারে বসায়, আর কুরতুবী জানান, কুরআনের বাহ্যিক অর্থ আর অধিকাংশ ইমামের একমত অনুসারে যুদ্ধ থেকে পালানো ধ্বংসকারী কবীরা গুনাহ। কিন্তু হাদীসটি অবস্থার সীমা বেঁধে দেয় না। সেটা ৮:১৫ করে একটি শব্দ দিয়ে, ৮:১৬ দুটো ব্যতিক্রম জোগায়, আর ৮:৬৬ সংখ্যা ঠিক করে দেয়। এত ভারী হুকুম নিয়েই পাঠকের ঢিলেঢালা কথা বলার অধিকার সবচেয়ে কম।"
+            "bn": "খেয়াল করুন হাদিসটি কী মীমাংসা করে আর কী ছেড়ে দেয়। হাদিসটি কাজটিকে সবচেয়ে বড় গুনাহের কাতারে বসায়, আর কুরতুবী জানান, কুরআনের বাহ্যিক অর্থ আর অধিকাংশ ইমামের একমত অনুসারে যুদ্ধ থেকে পালানো ধ্বংসকারী কবীরা গুনাহ। কিন্তু হাদিসটি অবস্থার সীমা বেঁধে দেয় না। সেটা ৮:১৫ করে একটি শব্দ দিয়ে, ৮:১৬ দুটো ব্যতিক্রম জোগায়, আর ৮:৬৬ সংখ্যা ঠিক করে দেয়। এত ভারী হুকুম নিয়েই পাঠকের ঢিলেঢালা কথা বলার অধিকার সবচেয়ে কম।"
           }
         ]
       },
@@ -389,7 +389,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran has already supplied the prayer for the moment this verse legislates. 2:250 is what Talut's soldiers said as they went out: our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people. And 8:45 gives the practice to go with it, inside the encounter itself: stand firm, and remember Allah much, that you may be successful. Patience asked for, and remembrance as the thing that carries it.",
-            "bn": "এ আয়াত যে মুহূর্তের হুকুম দিচ্ছে, সে মুহূর্তের দোয়াও কুরআন আগেই জোগাড় করে দিয়েছে। ২:২৫০ হল তালুতের সৈনিকদের বেরোনোর সময়ের কথা: হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা মজবুত করুন আর কাফির সম্প্রদায়ের উপর আমাদের জয় দিন। আর ৮:৪৫ তার সাথে মুখোমুখি হওয়ার ভেতরের আমলটা দেয়: অবিচল থাক আর আল্লাহকে বেশি বেশি স্মরণ কর, যাতে তোমরা সফল হও। ধৈর্য চাওয়া হল, আর যিকিরই সে ধৈর্য বহন করে।"
+            "bn": "এ আয়াত যে মুহূর্তের হুকুম দিচ্ছে, সে মুহূর্তের দোয়াও কুরআন আগেই জোগাড় করে দিয়েছে। ২:২৫০ হল তালুতের সৈনিকদের বেরোনোর সময়ের কথা: হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা মজবুত করুন আর কাফির সম্প্রদায়ের উপর আমাদের জয় দিন। আর ৮:৪৫ তার সাথে মুখোমুখি হওয়ার ভেতরের আমলটা দেয়: অবিচল থাক আর আল্লাহকে বেশি বেশি স্মরণ কর, যাতে তোমরা সফল হও। ধৈর্য চাওয়া হল, আর জিকিরই সে ধৈর্য বহন করে।"
           },
           {
             "en": "A supplication in this verse's own vocabulary, offered as words of your own and not as a narration, would run: O Allah, do not let me show my back to what You have put in front of me, and do not let me leave a place You stood me in. Make me firm where I am, and if I must move, let it be toward the work and not away from it. Allah is with the steadfast, as 8:66 ends.",
@@ -1493,7 +1493,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A sentence in the verse's own vocabulary can be said and claimed as no more than that: O Allah, do not make me one of the treacherous, and if I must end something, let me end it out in the open where the other side can see it as clearly as I do. That is assembled from this verse and from as-Sa'di's gloss on it. It is not a Sunnah du'a, and the hadith quoted above is a command rather than a prayer, so it should be carried as a rule and not recited as one.",
-            "bn": "আয়াতের নিজের শব্দে একটা বাক্য বলা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে খিয়ানতকারীদের একজন বানাবেন না; আর কিছু যদি শেষ করতেই হয়, তবে সেটা খোলা জায়গায় শেষ করার তাওফীক দিন, যেখানে অন্য পক্ষ সেটা আমার মতোই পরিষ্কার দেখতে পায়। এটি এ আয়াত আর এর উপর সা'দীর ব্যাখ্যা জুড়ে বানানো। এটি সুন্নাহর দোয়া নয়, আর উপরে তোলা হাদীসটি দোয়া নয়, হুকুম; কাজেই সেটাকে নিয়ম হিসেবে বহন করতে হবে, দোয়া হিসেবে পড়তে নয়।"
+            "bn": "আয়াতের নিজের শব্দে একটা বাক্য বলা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে খিয়ানতকারীদের একজন বানাবেন না; আর কিছু যদি শেষ করতেই হয়, তবে সেটা খোলা জায়গায় শেষ করার তাওফীক দিন, যেখানে অন্য পক্ষ সেটা আমার মতোই পরিষ্কার দেখতে পায়। এটি এ আয়াত আর এর উপর সা'দীর ব্যাখ্যা জুড়ে বানানো। এটি সুন্নাহর দোয়া নয়, আর উপরে তোলা হাদিসটি দোয়া নয়, হুকুম; কাজেই সেটাকে নিয়ম হিসেবে বহন করতে হবে, দোয়া হিসেবে পড়তে নয়।"
           }
         ]
       },
