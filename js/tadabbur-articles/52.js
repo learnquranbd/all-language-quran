@@ -1089,23 +1089,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What the verse changes is not the length of the trial but its loneliness. Most of the weight of a long difficulty is the suspicion that it is unobserved, that the effort is going into a room nobody enters. 20:46 gives Musa (AS) and Harun (AS) the same medicine before they face Pharaoh: fear not, indeed I am with you both, I hear and I see. Being seen by the One who decides the outcome is a different condition from simply holding out alone.",
-            "bn": "আয়াতটি পরীক্ষার দৈর্ঘ্য বদলায় না, বদলায় তার নিঃসঙ্গতা। দীর্ঘ কষ্টের ওজনের বেশিরভাগই আসে এই সন্দেহ থেকে যে কেউ তা দেখছে না, যে পরিশ্রমটুকু এমন এক ঘরে ঢালা হচ্ছে যেখানে কেউ ঢোকে না। 20:46 আয়াতে মূসা (আঃ) ও হারূন (আঃ)-কে ফিরআউনের মুখোমুখি হওয়ার আগে একই ওষুধ দেওয়া হয়: ভয় করো না, নিশ্চয় আমি তোমাদের দুজনের সঙ্গে আছি, আমি শুনি ও দেখি। যিনি পরিণাম ঠিক করবেন তাঁর দৃষ্টিতে থাকা, আর একা একা টিকে থাকা — এ দুটি সম্পূর্ণ ভিন্ন অবস্থা।"
+            "bn": "আয়াতটি পরীক্ষার মেয়াদ বদলায় না, বদলায় তার একাকিত্ব। দীর্ঘ কষ্টের ভারের বেশিরভাগটা আসে একটা সন্দেহ থেকে: কেউ হয়তো দেখছে না, সব খাটুনি যেন এমন এক ঘরে ঢালা হচ্ছে যেখানে কেউ কখনো ঢোকে না। ফেরাউনের মুখোমুখি হওয়ার আগে আল্লাহ ২০:৪৬ আয়াতে মূসা (আঃ) ও হারূন (আঃ)-কে ঠিক এই ওষুধই দিয়েছিলেন: ভয় করো না, নিশ্চয় আমি তোমাদের দুজনের সঙ্গে আছি, আমি শুনি ও দেখি। যিনি ফলাফল ঠিক করবেন, তাঁর চোখের সামনে থাকা এক কথা; আর একা একা কোনোমতে টিকে থাকা সম্পূর্ণ আরেক কথা।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "কীভাবে এটি যাপন করা যায়"
+          "bn": "জীবনে এর চর্চা"
         },
         "p": [
           {
             "en": "The practical form is the one the verse supplies. Attach praise to the moments you rise: the first minute out of bed, the moment you stand up from a seat, the standing at the start of prayer. Subhana rabbi wa bihamdih costs nothing and fits in any of them. Done deliberately for a week, it turns a verse about a Prophet's ﷺ trial into a personal timetable, which is precisely what the closing lines of at-Tur are for.",
-            "bn": "ব্যবহারিক রূপটি আয়াত নিজেই জুগিয়ে দেয়। ওঠার মুহূর্তগুলোর সঙ্গে প্রশংসা জুড়ে দিন: বিছানা ছাড়ার প্রথম মিনিট, আসন থেকে ওঠার মুহূর্ত, নামায শুরুর দাঁড়ানোটা। 'সুবহানা রাব্বিয়া ওয়া বিহামদিহ' বলতে কিছুই খরচ হয় না, আর তা এই সবগুলোতেই এঁটে যায়। এক সপ্তাহ ইচ্ছা করে করলে এটি এক নবীর ﷺ পরীক্ষা নিয়ে বলা একটি আয়াতকে বদলে দেয় ব্যক্তিগত সময়সূচিতে — আত-তূরের শেষ পঙক্তিগুলো ঠিক এ কাজেরই জন্য।"
+            "bn": "কী করতে হবে, আয়াত নিজেই তা বলে দিয়েছে। যখনই ওঠেন, তখনই প্রশংসা জুড়ে দিন: বিছানা ছাড়ার প্রথম মিনিটে, বসা থেকে উঠে দাঁড়ানোর মুহূর্তে, নামাজের শুরুতে যখন দাঁড়ান তখন। 'সুবহানা রাব্বি ওয়া বিহামদিহ' বলতে কোনো খরচ নেই, আর এর যেকোনো মুহূর্তেই তা বলা যায়। এক সপ্তাহ সচেতনভাবে এভাবে করে দেখুন। তখন এক নবীর ﷺ পরীক্ষার কথা বলা আয়াতটি হয়ে উঠবে আপনার নিজের দিনের রুটিন। আত-তূরের শেষ আয়াতগুলো ঠিক এ কাজের জন্যই।"
           },
           {
             "en": "And when the trial is the kind with no visible end, an illness, a case, a child who will not come back, the middle clause is the one to carry. You are not waiting in an empty room. The wait has a witness, and the witness is the One who will settle it. The surah's instruction for the interval is not to be told how long it will run, but to fill it with the praise of the One who already knows.",
-            "bn": "আর পরীক্ষাটি যদি এমন হয় যার শেষ চোখে দেখা যায় না — কোনো অসুখ, কোনো মামলা, ফিরে না আসা কোনো সন্তান — তবে মাঝের বাক্যাংশটিই সঙ্গে নেওয়ার জিনিস। আপনি খালি ঘরে অপেক্ষা করছেন না। এই অপেক্ষার একজন সাক্ষী আছেন, আর সেই সাক্ষীই তা মীমাংসা করবেন। মধ্যবর্তী সময়টির জন্য সূরার নির্দেশ এই নয় যে আপনাকে জানিয়ে দেওয়া হবে তা কতদিন চলবে; বরং নির্দেশ হলো, যিনি ইতিমধ্যেই জানেন তাঁর প্রশংসা দিয়ে সময়টা ভরে রাখা।"
+            "bn": "আর পরীক্ষা যদি এমন হয় যার শেষ চোখে পড়ে না, যেমন কোনো অসুখ, কোনো মামলা, কিংবা যে সন্তান আর ফিরে আসবে না, তখন আয়াতের মাঝের কথাটুকুই আঁকড়ে ধরুন। আপনি খালি ঘরে বসে অপেক্ষা করছেন না। এই অপেক্ষার একজন সাক্ষী আছেন, আর তিনিই এর মীমাংসা করবেন। এই সময়টা কতদিন চলবে, সূরা তা জানিয়ে দেয় না। সূরার নির্দেশ হলো, যিনি আগে থেকেই তা জানেন, তাঁর প্রশংসায় সময়টা ভরে রাখা।"
           }
         ]
       }
