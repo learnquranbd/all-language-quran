@@ -4273,7 +4273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The tafsir at this verse quotes no narration of the Prophet ﷺ on the verse itself. What stands beside it is a hadith the collections place at 26:214, where the same denial is made to his own household. Sahih al-Bukhari 2753, from Abu Hurayrah (RA): when the verse commanding him to warn his closest kindred came down, he ﷺ stood and said, O people of Quraysh, buy yourselves, for I cannot save you from Allah in anything.",
-            "bn": "এ আয়াতের তাফসীরে নবী ﷺ-এর কোনো বর্ণনা উদ্ধৃত হয়নি। এর পাশে যা রাখা যায় তা হাদীসগ্রন্থে ২৬:২১৪ আয়াতের সাথে আসে, যেখানে একই অস্বীকার তিনি নিজের পরিবারের সামনে করেছেন। সহীহ বুখারী ২৭৫৩, আবূ হুরাইরা (রাঃ) থেকে: যখন নিকটাত্মীয় স্বজনদের সতর্ক করার হুকুম নামল, তিনি ﷺ দাঁড়িয়ে বললেন, হে কুরাইশ সম্প্রদায়, নিজেদেরকে কিনে নাও, আল্লাহর কাছে আমি তোমাদের কোনো কাজে আসব না।"
+            "bn": "এ আয়াতের তাফসীরে আয়াতটি নিয়ে নবী ﷺ-এর কোনো বর্ণনা উদ্ধৃত হয়নি। তবে এর পাশে রাখার মতো একটি হাদিস আছে, যা হাদিসগ্রন্থগুলো ২৬:২১৪ আয়াতের অধীনে এনেছে; সেখানে তিনি নিজের পরিবারের লোকদেরও একই কথা সাফ জানিয়ে দেন। সহীহ বুখারী ২৭৫৩, আবূ হুরাইরা (রাঃ) থেকে: নিকটাত্মীয়দের সতর্ক করার হুকুম নিয়ে আয়াত নাজিল হলে তিনি ﷺ দাঁড়িয়ে বললেন, হে কুরাইশ সম্প্রদায়, নিজেদেরকে কিনে নাও, আল্লাহর কাছে আমি তোমাদের কোনো কাজে আসব না।"
           },
           {
             "en": "He went down the list by name, his uncle al-Abbas, his aunt Safiyyah, and then his daughter: O Fatimah bint Muhammad, ask me what you wish of my wealth, but I cannot save you from Allah in anything. The offer and the refusal sit inside one sentence. What he had, he gave away freely. What he did not have he would not pretend to, not even for her. 7:188 is that same sentence turned on himself.",
@@ -4289,7 +4289,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "10:49 repeats the clause almost word for word, I possess not for myself any harm or benefit except what Allah should will, and then attaches it to the appointed term of every nation, so the denial answers a question about timing again. 6:50 gives the fuller version: he does not claim the treasuries of Allah, nor knowledge of the unseen, nor to be an angel, and follows only what is revealed to him.",
-            "bn": "১০:৪৯ আয়াতে কথাটা প্রায় হুবহু ফিরে আসে, আল্লাহর ইচ্ছে ছাড়া নিজের কোনো ক্ষতি বা লাভ করার ক্ষমতা আমার নেই, আর তারপর তা জুড়ে দেওয়া হয় প্রত্যেক জাতির নির্দিষ্ট মেয়াদের সাথে; ফলে অস্বীকারটা আবারও সময় নিয়ে করা প্রশ্নের জবাব হয়ে দাঁড়ায়। ৬:৫০ আয়াতে পুরো তালিকাটা আসে: তিনি ﷺ আল্লাহর ধনভাণ্ডারের দাবি করেন না, অদৃশ্যের জ্ঞানেরও নয়, ফেরেশতা হওয়ারও নয়, আর কেবল সেটুকুই অনুসরণ করেন যা তাঁর প্রতি ওয়াহী করা হয়।"
+            "bn": "১০:৪৯ আয়াতে কথাটা প্রায় হুবহু ফিরে আসে: আল্লাহ যা চান তা ছাড়া নিজের কোনো ক্ষতি বা লাভের ক্ষমতা আমার নেই। তারপর আয়াতটি একে জুড়ে দেয় প্রত্যেক জাতির নির্ধারিত মেয়াদের সাথে, ফলে এখানেও অস্বীকারটা সময় নিয়ে করা প্রশ্নেরই জবাব। ৬:৫০ আয়াতে পুরো তালিকাটা আছে: তিনি ﷺ আল্লাহর ধনভাণ্ডারের দাবি করেন না, অদৃশ্যের জ্ঞানের দাবিও না, ফেরেশতা হওয়ার দাবিও না; তাঁর কাছে যে ওহি আসে, কেবল সেটাই মেনে চলেন।"
           },
           {
             "en": "11:31 puts those same three denials in the mouth of Nuh (AS) and adds a fourth of its own, which shows they were never a concession squeezed out of one prophet but the standing description of the office. 46:9 pushes further: nor do I know what will be done with me or with you. And 27:65 states the rule the whole set rests on, that none in the heavens and the earth knows the unseen except Allah.",
@@ -4297,7 +4297,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "72:26-27 completes the picture without contradicting it. Allah does not disclose His unseen to anyone except a messenger He has approved, which is exactly how revelation reaches a man who has just denied knowing the unseen. What he has is given, in measure, and on the Sender's terms. 3:128 draws the same line inside a battle, telling him plainly that the decision is not his to make.",
-            "bn": "৭২:২৬-২৭ আয়াত ছবিটা পূর্ণ করে, কোনো বিরোধ তৈরি না করেই। আল্লাহ তাঁর অদৃশ্যের জ্ঞান কারও কাছে খোলেন না, কেবল তাঁর মনোনীত রসূল ছাড়া; আর ঠিক এভাবেই ওয়াহী এসে পৌঁছায় সেই মানুষের কাছে, যিনি সদ্য অদৃশ্য জানা অস্বীকার করেছেন। তাঁর কাছে যা আছে তা দেওয়া হয়েছে, মাপমতো, আর দাতার শর্তে। ৩:১২৮ আয়াত যুদ্ধের ভেতরে একই সীমা টেনে দেয়, সোজা বলে দেয় যে সিদ্ধান্ত তাঁর হাতে নেই।"
+            "bn": "৭২:২৬-২৭ আয়াত কথাটা পূর্ণ করে, তার সাথে কোনো বিরোধ না বাধিয়েই। আল্লাহ তাঁর অদৃশ্যের জ্ঞান কারও কাছে প্রকাশ করেন না, কেবল যে রাসূলকে তিনি মনোনীত করেন তাঁর কাছে ছাড়া। যে মানুষটি এইমাত্র বললেন তিনি অদৃশ্য জানেন না, তাঁর কাছে ওহি ঠিক এভাবেই পৌঁছায়। তাঁর কাছে যা আছে, তা তাঁকে দেওয়া হয়েছে, মেপে মেপে, আর দাতার শর্তে। ৩:১২৮ আয়াত যুদ্ধের মাঝেও একই সীমা টানে, সোজা জানিয়ে দেয় যে সিদ্ধান্ত নেওয়ার ভার তাঁর নয়।"
           }
         ]
       },
@@ -4317,7 +4317,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "There is a second application, quieter and closer to home. If the one who received revelation did not know his own tomorrow, then the habit of planning as though you should know yours is misplaced anxiety. Take the means, as as-Sa'di says. Prepare in the cheap year for the dear one, as the commentators read the verse. Then stop demanding of yourself a certainty that was withheld from the best of creation.",
-            "bn": "দ্বিতীয় একটা প্রয়োগ আছে, আরও চুপচাপ আর আরও কাছের। যাঁর কাছে ওয়াহী আসত তিনিই যদি নিজের আগামীকাল না জানতেন, তাহলে নিজের আগামীকাল জানা উচিত ধরে নিয়ে পরিকল্পনা করার অভ্যাসটা অকারণ দুশ্চিন্তা। সা'দী যেমন বলেন, উপায়গুলো ধরুন। মুফাসসিরগণ আয়াতটি যেভাবে পড়েছেন, সস্তার বছরেই চড়া বছরের ব্যবস্থা করুন। তারপর নিজের কাছ থেকে এমন নিশ্চয়তা দাবি করা ছেড়ে দিন, যা সৃষ্টির সেরা মানুষটিকেও দেওয়া হয়নি।"
+            "bn": "এর আরেকটা শিক্ষা আছে, আরও নীরব, নিজের জীবনের আরও কাছের। যাঁর কাছে ওহি আসত, তিনিই যদি নিজের আগামীকাল না জানতেন, তাহলে নিজের আগামীকাল যেন আপনার জানার কথা, এমন ভেবে পরিকল্পনা করার অভ্যাসটা অযথা দুশ্চিন্তা ছাড়া কিছু নয়। সা'দী যেমন বলেন, উপায় অবলম্বন করুন। মুফাসসিরগণ আয়াতটি যেভাবে বুঝেছেন, সেভাবে সস্তার বছরেই আকালের বছরের জন্য জমিয়ে রাখুন। তারপর নিজের কাছে এমন নিশ্চয়তা চাওয়া ছেড়ে দিন, যা সৃষ্টির সেরা মানুষটিকেও দেওয়া হয়নি।"
           }
         ]
       },
@@ -4333,14 +4333,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A Sunnah supplication carries the same content with authority behind it. Sahih al-Bukhari 1166, from Jabir ibn Abdullah (RA), gives the du'a of istikharah: O Allah, I ask guidance from Your knowledge and power from Your Might, and I ask of Your great bounty; for You are able and I am not, and You know and I do not, and You are the Knower of the unseen. Read 7:188 first and that du'a stops sounding like a method for reading the future.",
-            "bn": "সুন্নাহর একটি দোয়া একই কথা বহন করে, পেছনে প্রমাণসহ। সহীহ বুখারী ১১৬৬, জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে, ইসতিখারার দোয়া দেয়: হে আল্লাহ, আমি আপনার জ্ঞানের মাধ্যমে কল্যাণ চাই, আপনার কুদরতের মাধ্যমে সামর্থ্য চাই, আর আপনার বিপুল অনুগ্রহ প্রার্থনা করি; কারণ আপনি পারেন, আমি পারি না, আপনি জানেন, আমি জানি না, আর আপনিই অদৃশ্যের জ্ঞানী। আগে ৭:১৮৮ পড়ে নিলে এ দোয়াকে আর ভবিষ্যত পড়ার কোনো কৌশল বলে মনে হয় না।"
+            "bn": "সুন্নাহর একটি দোয়ায়ও একই কথা আছে, আর সেটি সরাসরি হাদিসে প্রমাণিত। সহীহ বুখারী ১১৬৬-এ জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে ইসতিখারার দোয়া এসেছে: হে আল্লাহ, আমি আপনার জ্ঞানের মাধ্যমে কল্যাণ চাই, আপনার কুদরতের মাধ্যমে সামর্থ্য চাই, আর আপনার বিপুল অনুগ্রহ প্রার্থনা করি; কারণ আপনি পারেন, আমি পারি না, আপনি জানেন, আমি জানি না, আর অদৃশ্যের সব খবর আপনিই জানেন। আগে ৭:১৮৮ পড়ে নিলে এ দোয়াকে আর ভবিষ্যৎ জানার কোনো কৌশল বলে মনে হয় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Which Way You Turn First",
-          "bn": "কার দিকে ফিরছেন"
+          "bn": "সবার আগে কার দিকে ফেরেন"
         },
         "p": [
           {
@@ -4365,15 +4365,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-A'raf is Makkan, and its closing pages turn from the destroyed nations to what the people of Makkah were worshipping. The stretch that names them directly runs five verses. 7:191 says they associate with Him those who create nothing and are themselves created. 7:192 says they can help neither their worshippers nor themselves. 7:193 tells the believers that inviting them to guidance changes nothing. 7:194 calls them servants like you and sets a test: call them, and let them answer you if you are truthful. 7:195 is the reason the test will fail.",
-            "bn": "সূরা আল-আ'রাফ মাক্কী, আর তার শেষ পাতাগুলো ধ্বংস হওয়া জাতিগুলো ছেড়ে ফিরে আসে মাক্কার লোকেরা যাদের পূজা করত তাদের দিকে। যে অংশে সোজা তাদেরই কথা, তা পাঁচ আয়াত জুড়ে। ৭:১৯১ বলে, তারা এমন কিছুকে শরীক করে যারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট। ৭:১৯২ বলে, তারা পূজারিদেরও সাহায্য করতে পারে না, নিজেদেরও না। ৭:১৯৩ মু'মিনদের জানায়, তাদেরকে সত্যপথে ডাকলেও কিছু বদলায় না। ৭:১৯৪ তাদেরকে বলে তোমাদের মতই বান্দা, আর একটা পরীক্ষা রাখে: ডাক তাদেরকে, সত্যবাদী হলে তারা সাড়া দিক। ৭:১৯৫ বলে দেয় কেন সে পরীক্ষায় তারা ফেল করবে।"
+            "bn": "সূরা আল-আ'রাফ মক্কী। শেষের পাতাগুলোতে সূরাটি ধ্বংস হওয়া জাতিগুলোর কথা ছেড়ে ফেরে মক্কার লোকদের উপাস্যদের দিকে। যে অংশে সরাসরি তাদের কথা, তা পাঁচ আয়াতের। ৭:১৯১ বলে, তারা এমন কিছুকে শরীক করে যারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট। ৭:১৯২ বলে, তারা পূজারিদেরও সাহায্য করতে পারে না, নিজেদেরও না। ৭:১৯৩ মু'মিনদের জানায়, তাদের সত্যপথে ডাকলেও কিছু বদলায় না। ৭:১৯৪ বলে, তারা তোমাদের মতোই বান্দা, আর একটা পরীক্ষা রাখে: ডাক তাদেরকে, সত্যবাদী হলে তারা সাড়া দিক। ৭:১৯৫ বলে দেয়, কেন সে পরীক্ষায় তারা ফেল করবে।"
           },
           {
             "en": "So the four questions are not a fresh attack. They are the diagnosis behind a challenge already issued. 7:194 said call them and let them respond; anyone who has tried it knows the result, and 7:195 explains the result by naming what is missing. The Quran could have said simply that they are inanimate. Instead it asks, and lets the listener supply the answer out of his own observation, which is a harder thing to argue with afterwards.",
-            "bn": "তাই চারটি প্রশ্ন নতুন কোনো আক্রমণ নয়। আগেই ছুড়ে দেওয়া চ্যালেঞ্জের পেছনের কারণ ব্যাখ্যা। ৭:১৯৪ বলেছিল, ডাক তাদেরকে, তারা সাড়া দিক; যে একবার চেষ্টা করেছে সে ফলটা জানে, আর ৭:১৯৫ কী নেই তা নাম ধরে বলে ফলটার কারণ দেখায়। কুরআন সোজা বলে দিতে পারত যে ওগুলো প্রাণহীন। তার বদলে প্রশ্ন করে, আর জবাবটা শ্রোতাকেই তার নিজের চোখে দেখা থেকে জোগাড় করতে দেয়। পরে এ জবাব নিয়ে তর্ক করা অনেক কঠিন।"
+            "bn": "তাই চারটি প্রশ্ন নতুন কোনো আক্রমণ নয়। আগেই দেওয়া এক চ্যালেঞ্জের পেছনের কারণটা এগুলো ধরিয়ে দেয়। ৭:১৯৪ বলেছিল, ডাক তাদেরকে, তারা সাড়া দিক; যে একবার ডেকে দেখেছে সে ফলটা জানে। ৭:১৯৫ কী কী নেই তার নাম ধরে ধরে বলে সেই ফলের কারণ বুঝিয়ে দেয়। কুরআন সোজা বলে দিতে পারত যে ওগুলো প্রাণহীন। তা না বলে প্রশ্ন করে, আর জবাবটা শ্রোতাকেই নিজের চোখে দেখা থেকে খুঁজে নিতে দেয়। পরে এমন জবাব নিয়ে তর্ক করা অনেক কঠিন।"
           },
           {
             "en": "What follows matters as much. 7:196 has the speaker name his own protector, Allah who sent down the Book, and 7:197 returns to the idols with one change: it is no longer that they cannot help them, as 7:192 had it, but that they cannot help you. The pronoun swings around to face the audience directly. The passage ends where it began, with incapacity, but by then the reader has been moved from watching an argument to standing inside it.",
-            "bn": "এরপর যা আসে তাও সমান গুরুত্বের। ৭:১৯৬ আয়াতে বক্তা নিজের অভিভাবকের নাম বলেন, আল্লাহ, যিনি কিতাব নামিয়েছেন। আর ৭:১৯৭ আবার মূর্তির কথায় ফেরে, একটা বদল নিয়ে: এবার আর ৭:১৯২ আয়াতের মতো 'তাদের সাহায্য করতে পারে না' নয়, বরং 'তোমাদের সাহায্য করতে পারে না'। সর্বনাম ঘুরে সোজা শ্রোতার মুখোমুখি দাঁড়ায়। অংশটা যেখানে শুরু হয়েছিল সেখানেই শেষ হয়, অক্ষমতার কথায়; কিন্তু ততক্ষণে পাঠক তর্ক দেখার জায়গা থেকে তর্কের ভেতরে এসে দাঁড়িয়েছেন।"
+            "bn": "এরপর যা আসে তাও সমান গুরুত্বের। ৭:১৯৬ আয়াতে বক্তা নিজের অভিভাবকের নাম বলেন: আল্লাহ, যিনি কিতাব নাজিল করেছেন। আর ৭:১৯৭ আবার মূর্তির কথায় ফেরে, একটা বদল নিয়ে: এবার আর ৭:১৯২ আয়াতের মতো 'তাদের সাহায্য করতে পারে না' নয়, বরং 'তোমাদের সাহায্য করতে পারে না'। সর্বনাম ঘুরে সোজা শ্রোতার মুখোমুখি দাঁড়ায়। অংশটা যেখানে শুরু হয়েছিল সেখানেই শেষ হয়, অক্ষমতার কথায়; কিন্তু ততক্ষণে পাঠক তর্ক দূর থেকে দেখার জায়গা ছেড়ে তর্কের ভেতরে এসে দাঁড়িয়েছেন।"
           }
         ]
       },
@@ -4385,7 +4385,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic names four faculties and no more: arjul, feet; ayd, hands; a'yun, eyes; adhan, ears. Each is given its own verb. Feet to walk with, yamshun; hands to grip with, yabtishun; eyes to see with, yubsirun; ears to hear with, yasma'un. The first question opens with a-lahum, do they have, and the next three with am lahum, the particle of alternative questioning, so the chain reads as one question offered in four forms and refused in all four.",
-            "bn": "আরবিতে চারটি অঙ্গের নাম আসে, এর বেশি নয়: আরজুল অর্থাৎ পা, আয়দ অর্থাৎ হাত, আ'য়ুন অর্থাৎ চোখ, আযান অর্থাৎ কান। প্রত্যেকটির সাথে আলাদা ক্রিয়া জুড়ে দেওয়া হয়েছে। পা, যা দিয়ে চলে, ইয়ামশূন; হাত, যা দিয়ে ধরে, ইয়াবতিশূন; চোখ, যা দিয়ে দেখে, ইউবসিরূন; কান, যা দিয়ে শোনে, ইয়াসমাউন। প্রথম প্রশ্ন শুরু হয় আলাহুম দিয়ে অর্থাৎ তাদের কি আছে, আর পরের তিনটি আম লাহুম দিয়ে; আম হল বিকল্প জিজ্ঞাসার শব্দ। ফলে গোটা শিকলটা এক প্রশ্নের চার রূপ, আর চার জায়গাতেই জবাব না।"
+            "bn": "আরবিতে চারটি অঙ্গের নাম আসে, এর বেশি নয়: আরজুল অর্থাৎ পা, আয়দ অর্থাৎ হাত, আ'য়ুন অর্থাৎ চোখ, আযান অর্থাৎ কান। প্রত্যেকটির সাথে আছে আলাদা ক্রিয়া। পা, যা দিয়ে চলে, ইয়ামশূন; হাত, যা দিয়ে ধরে, ইয়াবতিশূন; চোখ, যা দিয়ে দেখে, ইউবসিরূন; কান, যা দিয়ে শোনে, ইয়াসমাউন। প্রথম প্রশ্ন শুরু হয় আলাহুম দিয়ে, অর্থাৎ তাদের কি আছে; পরের তিনটি আম লাহুম দিয়ে, আর আম হলো বিকল্প জিজ্ঞাসার শব্দ। ফলে গোটা শিকলটা একই প্রশ্নের চার রূপ, আর চারবারই জবাব: না।"
           },
           {
             "en": "The verb chosen for the hands repays attention. The root b-t-sh is not a neutral word for taking; it means to seize violently, to grip and to strike. al-Qurtubi notes a reading in which it is yabtushun, with a damma on the ta, and calls it a dialectal form. Either way the hands are named at their most forceful use, so the question is not whether the idol can hold a cup but whether it can defend anybody.",
@@ -4393,7 +4393,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The four divide neatly into two pairs, two of action and two of perception: feet and hands do, eyes and ears receive. Then the verse turns to the challenge and it carries two commands and one prohibition. Call your partners, id'u. Then plot against me, kiduni. And do not give me any respite, fala tunziruni, which al-Qurtubi glosses simply as do not delay it. The dare is for everything at once, and immediately.",
-            "bn": "চারটি অঙ্গ পরিষ্কার দুই জোড়ায় ভাগ হয়ে যায়, দুটো কাজের আর দুটো ধরার: পা আর হাত করে, চোখ আর কান গ্রহণ করে। এরপর আয়াত চ্যালেঞ্জের দিকে ঘোরে, আর সেখানে দুটো আদেশ আর একটা নিষেধ। তোমাদের শরীকদের ডাক, ইদউ। তারপর আমার বিরুদ্ধে ষড়যন্ত্র কর, কীদূনি। আর আমাকে কোনো অবকাশ দিও না, ফালা তুনযিরূনি; কুরতুবী এর ব্যাখ্যায় সোজা বলেন, দেরি করো না। আহ্বানটা সবকিছু একসাথে করার, আর এখনই করার।"
+            "bn": "চারটি অঙ্গ পরিষ্কার দুই জোড়ায় ভাগ হয়: দুটো কাজের, দুটো উপলব্ধির। পা আর হাত কাজ করে, চোখ আর কান গ্রহণ করে। এরপর আয়াত চ্যালেঞ্জের দিকে ঘোরে, আর তাতে আছে দুটো আদেশ আর একটা নিষেধ। তোমাদের শরীকদের ডাক, ইদউ। তারপর আমার বিরুদ্ধে ষড়যন্ত্র কর, কীদূনি। আর আমাকে কোনো অবকাশ দিও না, ফালা তুনযিরূনি; কুরতুবী এর ব্যাখ্যায় সোজা বলেন, দেরি করো না। চ্যালেঞ্জটা হলো: যা পার সব একসাথে কর, আর এখনই কর।"
           }
         ]
       },
@@ -4405,7 +4405,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "at-Tabari reads each faculty as a service a patron would be expected to render. Feet, so that they might walk with you and for you in your needs. Hands, so that they might push harm away from you and help you when someone comes at you with evil. Eyes, so that they might tell you what they have seen of what is hidden from you. Ears, so that they might inform you of what they have heard and you did not. Then his rule: what is venerated is venerated only for the benefit hoped from it.",
-            "bn": "তাবারী প্রত্যেকটি অঙ্গকে পড়েন এমন সেবা হিসেবে, যা অভিভাবকের কাছ থেকে আশা করা যায়। পা, যাতে তারা তোমাদের সাথে আর তোমাদের প্রয়োজনে চলাফেরা করতে পারে। হাত, যাতে তারা তোমাদের থেকে ক্ষতি সরাতে পারে আর কেউ মন্দ নিয়ে এলে তোমাদের সাহায্য করতে পারে। চোখ, যাতে তোমাদের আড়ালে থাকা জিনিস দেখে তারা তোমাদের জানাতে পারে। কান, যাতে তোমরা শোনোনি এমন কথা শুনে তারা তোমাদের খবর দিতে পারে। এরপর তাঁর নীতি: যাকে বড় করা হয়, তাকে বড় করা হয় কেবল তার কাছ থেকে আশা করা উপকারের জন্যই।"
+            "bn": "তাবারী প্রত্যেকটি অঙ্গকে পড়েন এমন সেবা হিসেবে, যা অভিভাবকের কাছ থেকে আশা করা যায়। পা, যাতে তারা তোমাদের সাথে আর তোমাদের প্রয়োজনে চলাফেরা করতে পারে। হাত, যাতে তারা তোমাদের থেকে ক্ষতি সরাতে পারে আর কেউ মন্দ নিয়ে এলে তোমাদের সাহায্য করতে পারে। চোখ, যাতে তোমাদের আড়ালে থাকা জিনিস দেখে তারা তোমাদের জানাতে পারে। কান, যাতে তোমরা শোনোনি এমন কথা শুনে তারা তোমাদের খবর দিতে পারে। এরপর তাঁর মূলনীতি: মানুষ যাকে ভক্তি করে, করে কেবল তার কাছ থেকে উপকার পাওয়ার আশায়।"
           },
           {
             "en": "al-Qurtubi takes the verse as rebuke. Allah reproached them and declared their reasoning foolish, he writes, and the meaning is that you are better than they are, so how do you worship them; the purpose is to expose their ignorance, since one who is worshipped ought to possess such faculties. as-Sa'di argues along the same line and says it needs no explaining, because the very shape of the thing shows it holds no benefit, lacking every instrument and power present in a human being.",
@@ -4425,11 +4425,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "There is no sound narration of the Prophet ﷺ that the classical tafsir attaches to this verse. at-Tabari, al-Qurtubi and as-Sa'di all pass through it without quoting one, and it is better to say so than to fill the place with something weak. The Quran here is arguing from what anyone can see, and an argument built on ordinary observation does not need a report to carry it.",
-            "bn": "এ আয়াতের সাথে শাস্ত্রীয় তাফসীর নবী ﷺ-এর কোনো সহীহ বর্ণনা জুড়ে দেয় না। তাবারী, কুরতুবী ও সা'দী তিনজনই কোনো হাদীস উদ্ধৃত না করেই আয়াতটি পার হন, আর জায়গাটা দুর্বল কিছু দিয়ে ভরে ফেলার চেয়ে কথাটা বলে দেওয়াই ভালো। কুরআন এখানে যুক্তি দিচ্ছে এমন জিনিস থেকে যা যে কেউ দেখতে পায়, আর চোখে দেখা সাধারণ জিনিসের উপর গড়া যুক্তি বহন করার জন্য কোনো বর্ণনার দরকার হয় না।"
+            "bn": "পুরনো মুফাসসিরগণ এ আয়াতের সাথে নবী ﷺ-এর কোনো সহীহ বর্ণনা উল্লেখ করেননি। তাবারী, কুরতুবী ও সা'দী তিনজনই কোনো হাদিস না এনেই আয়াতটি পার হয়ে যান। জায়গাটা দুর্বল কিছু দিয়ে ভরানোর চেয়ে এ কথা খোলাখুলি বলে দেওয়াই ভালো। কুরআন এখানে যুক্তি দিচ্ছে এমন জিনিস দিয়ে, যা যে কেউ চোখে দেখতে পায়। আর চোখে দেখা জিনিসের উপর দাঁড়ানো যুক্তিকে টিকিয়ে রাখতে কোনো বর্ণনার দরকার পড়ে না।"
           },
           {
             "en": "What at-Tabari puts in that place is a statement about safety rather than a report. Allah is letting His Prophet ﷺ know that they will not harm him, because He has protected him from them, and He is letting the disbelievers know how incapable their idols are of helping anyone who moves against the friends of Allah. The surah's own answer arrives in the next verse instead of in a narration: my protector is Allah, who sent down the Book, 7:196.",
-            "bn": "সেই জায়গায় তাবারী কোনো বর্ণনা নয়, বরং নিরাপত্তার একটা ঘোষণা রাখেন। আল্লাহ তাঁর নবী ﷺ-কে জানিয়ে দিচ্ছেন যে তারা তাঁর ক্ষতি করতে পারবে না, কারণ তিনি তাঁকে তাদের থেকে হেফাজত করেছেন। আর কাফিরদেরও জানিয়ে দিচ্ছেন, আল্লাহর বন্ধুদের বিরুদ্ধে যে ওঠে তাকে সাহায্য করার সাধ্য তাদের মূর্তির কতটুকু। সূরার নিজের জবাবটা কোনো বর্ণনায় নয়, পরের আয়াতেই আসে: আমার অভিভাবক আল্লাহ, যিনি কিতাব নামিয়েছেন, ৭:১৯৬।"
+            "bn": "সেই জায়গায় তাবারী কোনো বর্ণনা নয়, বরং নিরাপত্তার একটা ঘোষণা রাখেন। আল্লাহ তাঁর নবী ﷺ-কে জানিয়ে দিচ্ছেন যে তারা তাঁর ক্ষতি করতে পারবে না, কারণ তিনি তাঁকে তাদের থেকে হেফাজত করেছেন। আর কাফিরদেরও জানিয়ে দিচ্ছেন, আল্লাহর বন্ধুদের বিরুদ্ধে যে ওঠে তাকে সাহায্য করার সাধ্য তাদের মূর্তির কতটুকু। সূরার নিজের জবাবটা কোনো বর্ণনায় নয়, পরের আয়াতেই আসে: আমার অভিভাবক আল্লাহ, যিনি কিতাব নাজিল করেছেন, ৭:১৯৬।"
           }
         ]
       },
@@ -4441,11 +4441,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "22:73 runs the same audit as a parable. Those you invoke besides Allah will never create so much as a fly even if they gathered for it, and if the fly should steal a thing from them they could not recover it from him; weak are the pursuer and the pursued. 7:195 asks whether the idol has hands; 22:73 shows the hands losing a contest with an insect. The move from question to picture makes the same point twice.",
-            "bn": "২২:৭৩ আয়াত একই হিসাব চালায়, উপমার ভাষায়। আল্লাহ ছাড়া যাদেরকে তোমরা ডাক, সবাই মিলে চেষ্টা করলেও তারা একটা মাছিও বানাতে পারবে না; আর মাছি যদি তাদের কাছ থেকে কিছু ছিনিয়ে নেয়, তা তারা ফিরিয়ে নিতে পারবে না। দুর্বল সেই প্রার্থী, দুর্বল সেই প্রার্থিত। ৭:১৯৫ জিজ্ঞেস করে মূর্তির হাত আছে কি না; ২২:৭৩ দেখিয়ে দেয়, সে হাত একটা পোকার সাথে লড়াইয়ে হেরে যায়। প্রশ্ন থেকে ছবিতে যাওয়ায় কথাটা দুবার বলা হয়ে যায়।"
+            "bn": "২২:৭৩ আয়াত একই যাচাই করে, তবে উপমা দিয়ে। আল্লাহ ছাড়া যাদেরকে তোমরা ডাক, সবাই মিলে চেষ্টা করলেও তারা একটা মাছিও বানাতে পারবে না; আর মাছি যদি তাদের কাছ থেকে কিছু ছিনিয়ে নেয়, তা তারা ফিরিয়ে নিতে পারবে না। দুর্বল সেই প্রার্থী, দুর্বল সেই প্রার্থিত। ৭:১৯৫ জিজ্ঞেস করে মূর্তির হাত আছে কি না; ২২:৭৩ দেখিয়ে দেয়, সে হাত একটা পোকার সাথে লড়াইয়ে হেরে যায়। প্রশ্ন থেকে ছবিতে গিয়ে একই কথা দুবার বলা হয়।"
           },
           {
             "en": "16:20-21 answers the question about faculties without asking it: they create nothing and are themselves created, they are dead and not alive, and they do not perceive when they will be resurrected. 25:3 adds the exact phrase that 7:188 had denied of the Prophet ﷺ, that they possess for themselves neither harm nor benefit, and extends it to death and life and resurrection. 13:16 puts the same clause as a question: have you taken allies who possess nothing of the kind?",
-            "bn": "১৬:২০-২১ আয়াত অঙ্গ নিয়ে প্রশ্নটা না করেই জবাব দিয়ে দেয়: তারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট; তারা মৃত, জীবিত নয়, আর কখন তাদের উঠানো হবে তাও তারা জানে না। ২৫:৩ আয়াত ঠিক সেই কথাটা যোগ করে, যা ৭:১৮৮ আয়াতে নবী ﷺ-এর বেলায় অস্বীকার করা হয়েছিল; সেখানে বলা হয় তারা নিজেদের ভালো বা মন্দ কোনোটার মালিক নয়, আর তা বাড়িয়ে মৃত্যু, জীবন ও পুনরুত্থান পর্যন্ত নেওয়া হয়। ১৩:১৬ একই কথা প্রশ্ন করে রাখে: তোমরা কি এমন অভিভাবক নিয়েছ যাদের এসবের কিছুই নেই?"
+            "bn": "১৬:২০-২১ আয়াত অঙ্গ নিয়ে প্রশ্নটা না করেই জবাব দিয়ে দেয়: তারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট; তারা মৃত, জীবিত নয়, আর কখন তাদের আবার জীবিত করা হবে তাও তারা জানে না। ৭:১৮৮ আয়াতে নবী ﷺ নিজের বেলায় যে কথা অস্বীকার করেছিলেন, ২৫:৩ আয়াত হুবহু সেটাই যোগ করে: তারা নিজেদের ক্ষতি বা উপকার কোনোটারই মালিক নয়। তারপর আয়াতটি কথাটাকে মৃত্যু, জীবন ও পুনরুত্থান পর্যন্ত টেনে নেয়। ১৩:১৬ একই কথা প্রশ্ন করে রাখে: তোমরা কি এমন অভিভাবক নিয়েছ যাদের এসবের কিছুই নেই?"
           },
           {
             "en": "The faculty argument is older than this surah. 19:42 records Ibrahim (AS) asking his father why he worships what does not hear and does not see and will not benefit him at all, and 21:66-67 has him ask the same people whether they worship, instead of Allah, what neither benefits nor harms them. Two prophets, centuries apart, reach for the same four senses, because the argument is available to anybody with a pair of eyes.",
@@ -4465,11 +4465,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The point is not to despise means. as-Sa'di's comparison keeps the proportion straight: you are the more capable party, so use what you have been given and refuse to bow to it. A doctor is a means and a savings account is a means; neither hears you and neither sees ahead. The disorder the verse is naming begins the moment a means quietly becomes a guarantee, and the shift usually happens without a decision.",
-            "bn": "উদ্দেশ্য উপায়কে তুচ্ছ করা নয়। সা'দীর তুলনাটা মাপ ঠিক রাখে: সক্ষম পক্ষ আপনিই, তাই যা দেওয়া হয়েছে তা কাজে লাগান, আর তার সামনে মাথা নোয়াতে অস্বীকার করুন। ডাক্তার একটা উপায়, জমানো টাকাও একটা উপায়; কেউ আপনার কথা শোনে না, কেউ সামনের দিন দেখে না। আয়াত যে গোলমালের নাম নিচ্ছে, তা শুরু হয় ঠিক সেই মুহূর্তে যখন উপায় চুপচাপ নিশ্চয়তা হয়ে যায়। আর এ বদলটা সাধারণত কোনো সিদ্ধান্ত ছাড়াই ঘটে।"
+            "bn": "উদ্দেশ্য উপায়কে তুচ্ছ করা নয়। সা'দীর তুলনাটা মাপ ঠিক রাখে: সক্ষম পক্ষ আপনিই, তাই যা দেওয়া হয়েছে তা কাজে লাগান, কিন্তু তার সামনে মাথা নোয়াবেন না। ডাক্তার একটা উপায়, জমানো টাকাও একটা উপায়; কোনোটাই আপনার কথা শোনে না, কোনোটাই সামনের দিন দেখে না। আয়াত যে রোগ ধরিয়ে দিচ্ছে, তা শুরু হয় ঠিক সেই মুহূর্তে, যখন উপায় চুপচাপ নিশ্চয়তা হয়ে বসে। আর এ বদলটা সাধারণত কোনো সিদ্ধান্ত ছাড়াই ঘটে যায়।"
           },
           {
             "en": "So the practice is small and repeatable. Notice which name comes to your mouth first when bad news lands, and move the first call to Allah before you make the second call to anyone else. Then take the means properly, without apology. And keep the four questions ready for anything that starts being spoken about as though it could not fail, including the things you are proud of arranging.",
-            "bn": "তাই আমলটা ছোট আর বারবার করার মতো। খারাপ খবর এলে সবার আগে কার নাম আপনার মুখে আসে খেয়াল করুন, আর অন্য কাউকে ফোন করার আগে প্রথম ডাকটা আল্লাহর দিকে সরিয়ে নিন। এরপর উপায়গুলো ঠিকভাবেই ধরুন, কোনো সংকোচ ছাড়া। আর যে জিনিস নিয়ে এমনভাবে কথা বলা শুরু হয় যেন তা ব্যর্থ হতেই পারে না, তার জন্য চারটি প্রশ্ন হাতের কাছে রাখুন; নিজের গোছানো ব্যবস্থাগুলোও তার বাইরে নয়।"
+            "bn": "তাই আমলটা ছোট আর বারবার করার মতো। খারাপ খবর এলে সবার আগে কার নাম আপনার মুখে আসে খেয়াল করুন, আর অন্য কাউকে ফোন করার আগে প্রথম ডাকটা আল্লাহর দিকে সরিয়ে নিন। এরপর উপায়গুলো ঠিকভাবেই ধরুন, কোনো সংকোচ ছাড়া। আর যে জিনিস নিয়ে এমনভাবে কথা বলা শুরু হয় যেন তা ব্যর্থ হতেই পারে না, তার জন্য চারটি প্রশ্ন হাতের কাছে রাখুন। যেসব ব্যবস্থা নিজে গুছিয়ে আপনি গর্ব করেন, সেগুলোও বাদ নয়।"
           }
         ]
       },
@@ -4481,11 +4481,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse and the one after it supply a supplication if you turn their vocabulary around. This is not a narration, only the verse's own words made into asking: O Allah, You gave me feet and hands and eyes and ears, and every one of them is a loan from You. Nothing I could call upon walks toward me or hears me. You are my protector, You who sent down the Book, so hold me by what You sent down.",
-            "bn": "এ আয়াত আর তার পরের আয়াতের শব্দগুলো ঘুরিয়ে নিলে একটা দোয়া তৈরি হয়। এটা কোনো বর্ণনা নয়, কেবল আয়াতের নিজের শব্দ দিয়ে গড়া চাওয়া: হে আল্লাহ, আপনি আমাকে পা দিয়েছেন, হাত দিয়েছেন, চোখ আর কান দিয়েছেন, আর প্রত্যেকটাই আপনার কাছ থেকে ধার। আমি ডাকতে পারি এমন কিছুই আমার দিকে হেঁটে আসে না, আমার কথা শোনে না। আপনিই আমার অভিভাবক, যিনি কিতাব নামিয়েছেন; যা নামিয়েছেন তা দিয়েই আমাকে ধরে রাখুন।"
+            "bn": "এ আয়াত আর তার পরের আয়াতের শব্দগুলো ঘুরিয়ে নিলে একটা দোয়া তৈরি হয়। এটা কোনো বর্ণনা নয়, কেবল আয়াতের নিজের শব্দ দিয়ে গড়া চাওয়া: হে আল্লাহ, আপনি আমাকে পা দিয়েছেন, হাত দিয়েছেন, চোখ আর কান দিয়েছেন, আর প্রত্যেকটাই আপনার কাছ থেকে ধার। আমি ডাকতে পারি এমন কিছুই আমার দিকে হেঁটে আসে না, আমার কথা শোনে না। কিতাব নাজিল করেছেন আপনিই, আপনিই আমার অভিভাবক; যা নাজিল করেছেন তা দিয়েই আমাকে ধরে রাখুন।"
           },
           {
             "en": "For a supplication with authority behind it, the surah itself gives one five verses later. 7:200 commands that when an evil suggestion comes to you from Satan you seek refuge in Allah, who is Hearing and Knowing. Notice which two attributes close that verse. They are two of the four faculties 7:195 could not find in the idols, and here they are affirmed of the One the verse tells you to run to.",
-            "bn": "প্রমাণসহ দোয়া চাইলে সূরা নিজেই পাঁচ আয়াত পরে একটা দিয়ে দেয়। ৭:২০০ আয়াতের হুকুম, শয়তান কোনো কুমন্ত্রণা দিলে আল্লাহর আশ্রয় নাও; তিনি সর্বশ্রোতা, সর্বজ্ঞ। খেয়াল করুন সেই আয়াত কোন দুই গুণ দিয়ে শেষ হচ্ছে। ৭:১৯৫ আয়াতে মূর্তিদের মধ্যে যে চারটি অঙ্গ খুঁজে পাওয়া যায়নি, তার দুটোরই কাজ এখানে স্বীকার করা হচ্ছে সেই সত্তার জন্য, যাঁর দিকে ছুটে যেতে আয়াত বলছে।"
+            "bn": "দলিলসহ দোয়া চাইলে সূরা নিজেই পাঁচ আয়াত পরে একটা দিয়ে দেয়। ৭:২০০ আয়াতের হুকুম, শয়তান কোনো কুমন্ত্রণা দিলে আল্লাহর আশ্রয় নাও; তিনি সর্বশ্রোতা, সর্বজ্ঞ। খেয়াল করুন, আয়াতটি কোন দুই গুণ দিয়ে শেষ হচ্ছে। ৭:১৯৫ আয়াত মূর্তিগুলোর মধ্যে যে চারটি অঙ্গ খুঁজে পায়নি, এ দুটো তারই দুটো; আর এখানে আয়াত যাঁর কাছে ছুটে যেতে বলছে, সেই সত্তার জন্য দুটোই সাব্যস্ত।"
           }
         ]
       },
@@ -4501,7 +4501,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse ends by inviting the worst that a whole coalition can do. What would have to be true in your own heart before you could say a sentence like that and mean it? And in the meantime, what is one thing you could stop treating as unbreakable this month, so that the four questions are not just an argument you agree with on paper?",
-            "bn": "আয়াত শেষ হয় গোটা এক দলের সর্বোচ্চ ক্ষতি করার ক্ষমতাকে ডেকে এনে। এমন একটা কথা মুখে বলে তা সত্যিই বিশ্বাস করতে পারার জন্য আপনার দিলে আগে কী থাকা দরকার? আর এর মধ্যে এ মাসে এমন একটা জিনিস কী, যাকে আপনি আর অটুট ধরে নেওয়া ছেড়ে দিতে পারেন, যাতে চারটি প্রশ্ন কেবল কাগজে মেনে নেওয়া যুক্তি হয়ে না থাকে?"
+            "bn": "আয়াতটি শেষ হয় একটা চ্যালেঞ্জে: গোটা দল মিলে যত ক্ষতি করতে পারে, করে দেখাক। এমন কথা মুখে বলে মন থেকে বিশ্বাস করতে হলে আগে আপনার দিলে কী থাকা দরকার? আর ততদিন, এ মাসে কোন একটা জিনিসকে আপনি 'কখনো ভাঙবে না' ভাবা ছেড়ে দিতে পারেন, যাতে চারটি প্রশ্ন শুধু কাগজে মেনে নেওয়া যুক্তি হয়ে না থাকে?"
           }
         ]
       }
@@ -4517,11 +4517,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Near the very end of al-A'raf, after stories of nations, prophets and the long argument with heedless hearts, two quiet commands arrive. In 7:204 the community is told to listen attentively and silently when the Quran is recited. Then comes 7:205 in the singular: remember your Lord within yourself, in humility and fear, below the loudness of speech, in the mornings and the evenings, and do not be among the heedless. The address is first to the Prophet ﷺ, and through him to every reader.",
-            "bn": "আল-আ'রাফের একেবারে শেষ প্রান্তে, জাতিসমূহের কাহিনি, নবীগণ ও গাফেল হৃদয়ের সাথে দীর্ঘ বাদানুবাদের পরে, দুটি শান্ত আদেশ আসে। 7:204 আয়াতে সম্প্রদায়কে বলা হয়, কুরআন তিলাওয়াত হলে মন দিয়ে শোনো ও চুপ থাকো। তারপর একবচনে আসে 7:205 আয়াতটি: তোমার রবকে স্মরণ করো তোমার নিজের ভেতরে, বিনয় ও ভয়ের সাথে, উচ্চকণ্ঠের নিচে, সকালে ও সন্ধ্যায়, আর গাফেলদের অন্তর্ভুক্ত হয়ো না। সম্বোধন প্রথমত নবী ﷺ-এর প্রতি, আর তাঁর মাধ্যমে প্রত্যেক পাঠকের প্রতি।"
+            "bn": "আল-আ'রাফের একেবারে শেষের দিকে, জাতিগুলোর কাহিনি, নবীদের কথা আর গাফেল দিলের সাথে দীর্ঘ বিতর্কের পর, দুটি শান্ত আদেশ আসে। ৭:২০৪ আয়াত সবাইকে বলে, কুরআন তিলাওয়াত হলে মন দিয়ে শোনো ও চুপ থাকো। তারপর একবচনে আসে ৭:২০৫: তোমার রবকে স্মরণ করো তোমার নিজের ভেতরে, বিনয় ও ভয়ের সাথে, উচ্চকণ্ঠের নিচে, সকালে ও সন্ধ্যায়, আর গাফেলদের অন্তর্ভুক্ত হয়ো না। এ সম্বোধন প্রথমে নবী ﷺ-এর প্রতি, আর তাঁর মাধ্যমে প্রত্যেক পাঠকের প্রতি।"
           },
           {
             "en": "The verse gives remembrance a place, a manner, a volume and a schedule. The place is fi nafsika, within yourself. The manner is tadarru'an wa khifatan, pleading humility and fear. The volume is duna-l-jahri mina-l-qawl, beneath the loudness of speech. The schedule is bil-ghuduwwi wal-asal, the early mornings and the late afternoons. And then a single warning names the disease all of this prevents: do not be among the ghafilin, the heedless.",
-            "bn": "আয়াতটি স্মরণকে দেয় একটি স্থান, একটি ভঙ্গি, একটি স্বরমাত্রা ও একটি সময়সূচি। স্থানটি ফী নাফসিকা — তোমার নিজের ভেতরে। ভঙ্গিটি তাদাররু'আন ওয়া খীফাতান — মিনতিভরা বিনয় ও ভয়। স্বরমাত্রাটি দূনাল-জাহরি মিনাল-কাওল — উচ্চকণ্ঠের নিচে। সময়সূচিটি বিল-গুদুওয়্যি ওয়াল-আসাল — ভোরবেলা ও পড়ন্ত বিকেল। তারপর একটিমাত্র সতর্কবাণী সেই ব্যাধির নাম নেয়, যা এই সবকিছু ঠেকায়: গাফেলদের — উদাসীনদের — অন্তর্ভুক্ত হয়ো না।"
+            "bn": "আয়াতটি জিকিরের জন্য ঠিক করে দেয় জায়গা, ধরন, আওয়াজ আর সময়। জায়গা: ফী নাফসিকা, নিজের ভেতরে। ধরন: তাদাররু'আন ওয়া খীফাতান, কাকুতি-মিনতিভরা বিনয় আর ভয়। আওয়াজ: দূনাল-জাহরি মিনাল-কাওল, উচ্চকণ্ঠের নিচে। সময়: বিল-গুদুওয়্যি ওয়াল-আসাল, ভোরবেলা আর পড়ন্ত বিকেল। তারপর একটিমাত্র সতর্কবাণী সেই রোগের নাম বলে দেয়, যা থেকে এই সবকিছু বাঁচায়: গাফেলদের, অর্থাৎ উদাসীনদের, অন্তর্ভুক্ত হয়ো না।"
           }
         ]
       },
@@ -4533,11 +4533,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir notes on this verse that remembrance is recommended away from shouting. The reason is not that softness has magic in it, but that quietness removes the audience. A remembrance no one can hear is being performed for no one except Allah, so its sincerity has nothing to feed on but Him. Earlier in the same surah, 7:55 uses the same word of humility for supplication: call upon your Lord in tadarru and in secret, for He does not love transgressors.",
-            "bn": "ইবনে কাসীর এই আয়াতে উল্লেখ করেন, স্মরণ হওয়া উচিত চিৎকার থেকে দূরে। কারণ এটা নয় যে মৃদুতার মধ্যে কোনো জাদু আছে; বরং নীরবতা দর্শক-শ্রোতাকে সরিয়ে দেয়। যে স্মরণ কেউ শুনতে পায় না, তা আল্লাহ ছাড়া আর কারও জন্য পরিবেশিত হচ্ছে না — তাই তার ইখলাসের খোরাক কেবল তিনিই। একই সূরার আগের দিকে 7:55 আয়াতে দোয়ার জন্যও বিনয়ের একই শব্দ এসেছে: তোমাদের রবকে ডাকো তাদাররুর সাথে ও গোপনে; নিশ্চয়ই তিনি সীমালঙ্ঘনকারীদের ভালোবাসেন না।"
+            "bn": "ইবনে কাসীর এ আয়াতে বলেন, জিকির চিৎকার করে নয়, নিচু স্বরে করাই উত্তম। এর কারণ এই নয় যে আস্তে বলার মধ্যে কোনো জাদু আছে; কারণ হলো, নীরবতা শ্রোতাদের সরিয়ে দেয়। যে জিকির কেউ শুনতে পায় না, তা আল্লাহ ছাড়া আর কারও জন্য নয়, তাই তার ইখলাসের খোরাক কেবল তিনিই। একই সূরার আগে ৭:৫৫ আয়াতে দোয়ার বেলায়ও বিনয়ের এই একই শব্দ এসেছে: তোমাদের রবকে ডাকো তাদাররুর সাথে ও গোপনে; নিশ্চয়ই তিনি সীমালঙ্ঘনকারীদের ভালোবাসেন না।"
           },
           {
             "en": "Below the loudness of speech marks out a middle register: the tongue may move, the heart must be present, but nothing needs to carry across a room. That register has a practical gift — it fits everywhere. What must be loud can only happen in certain places; what is nearly silent can happen in a queue, on a road, in a sickbed. The verse quietly removes every excuse of circumstance by prescribing a form of worship that no circumstance can prevent.",
-            "bn": "উচ্চকণ্ঠের নিচে — এই কথাটি একটি মাঝামাঝি স্বর চিহ্নিত করে: জিহ্বা নড়তে পারে, হৃদয়কে হাজির থাকতে হবে, কিন্তু কিছুই ঘর পেরিয়ে পৌঁছানোর দরকার নেই। এই স্বরের একটি ব্যবহারিক উপহার আছে — এটি সব জায়গায় খাপ খায়। যা উচ্চস্বরে করতে হয় তা কেবল নির্দিষ্ট জায়গায় সম্ভব; যা প্রায় নিঃশব্দ তা সম্ভব লাইনে দাঁড়িয়ে, পথে, রোগশয্যায়। যে ইবাদত কোনো পরিস্থিতিই আটকাতে পারে না, তেমন এক রূপ নির্ধারণ করে আয়াতটি নীরবে পরিস্থিতির সব অজুহাত সরিয়ে দেয়।"
+            "bn": "উচ্চকণ্ঠের নিচে, এই কথাটা একটা মাঝামাঝি স্বর বুঝিয়ে দেয়: জিহ্বা নড়তে পারে, দিল হাজির থাকতেই হবে, কিন্তু আওয়াজ ঘরের ওপাশে পৌঁছানোর দরকার নেই। এ স্বরের একটা কাজের সুবিধা আছে: সব জায়গায় চলে। যা জোরে বলতে হয়, তা কেবল নির্দিষ্ট কিছু জায়গায় করা যায়; যা প্রায় নিঃশব্দ, তা করা যায় লাইনে দাঁড়িয়ে, রাস্তায়, রোগশয্যায়। কোনো পরিস্থিতিই আটকাতে পারে না এমন ইবাদতের হুকুম দিয়ে আয়াতটি চুপচাপ পরিস্থিতির সব অজুহাত সরিয়ে দেয়।"
           }
         ]
       },
@@ -4549,11 +4549,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ghuduww is the early part of the day; asal is the plural of asil, the stretch of late afternoon that leans toward sunset. Naming the day's two ends is a way of fencing the whole of it: what begins and closes with remembrance is unlikely to lose its middle entirely. The Quran repeats the pairing — 33:41-42 commands abundant remembrance with glorification morning and evening, and 18:28 tells the Prophet ﷺ to keep himself patiently with those who call on their Lord at both ends of the day, seeking His Face.",
-            "bn": "গুদুওয় দিনের প্রথম ভাগ; আসাল হলো আসীলের বহুবচন — সূর্যাস্তের দিকে হেলে পড়া পড়ন্ত বিকেল। দিনের দুই প্রান্তের নাম নেওয়া আসলে পুরো দিনটিকে বেড়া দেওয়ার এক উপায়: যা শুরু ও শেষ হয় স্মরণে, তার মাঝখানটা পুরোপুরি হারিয়ে যাওয়ার সম্ভাবনা কম। কুরআন এই জুটি বারবার আনে — 33:41-42 আয়াতে সকাল-সন্ধ্যায় তাসবীহসহ প্রচুর স্মরণের আদেশ, আর 18:28 আয়াতে নবী ﷺ-কে বলা হয়েছে তাদের সাথে নিজেকে ধৈর্যের সাথে ধরে রাখতে, যারা দিনের দুই প্রান্তে তাদের রবকে ডাকে, তাঁর চেহারা কামনা করে।"
+            "bn": "গুদুওয় মানে দিনের শুরুর ভাগ; আসাল হলো আসীলের বহুবচন, সূর্যাস্তের দিকে হেলে পড়া বিকেলবেলা। দিনের দুই প্রান্তের নাম নেওয়া মানে গোটা দিনটাকে বেড়া দিয়ে ঘিরে ফেলা: যে দিনের শুরু আর শেষ জিকিরে, তার মাঝখানটা সহজে পুরোপুরি হারিয়ে যায় না। কুরআন এই জোড়াটা বারবার আনে। ৩৩:৪১-৪২ আয়াতে বেশি বেশি জিকির আর সকাল-সন্ধ্যা তাসবীহর আদেশ আছে। ১৮:২৮ আয়াতে নবী ﷺ-কে বলা হয়, যারা সকাল-সন্ধ্যা তাদের রবকে ডাকে, তাঁর চেহারা কামনা করে, ধৈর্য ধরে নিজেকে তাদের সাথেই রাখতে।"
           },
           {
             "en": "The morning and evening adhkar of the sunnah occupy exactly these two windows, and this verse is among their roots. The choice of hours is merciful in design: the morning, before the day's noise decides your state for you; the late afternoon, before the night closes the account. A person anchored at those two moments carries a corrected compass into everything between them, and the day's traffic passes over a heart that has already been pointed home.",
-            "bn": "সুন্নাহর সকাল-সন্ধ্যার যিকিরগুলো ঠিক এই দুটি সময়-জানালাই দখল করে, আর এই আয়াত সেগুলোর অন্যতম ভিত্তি। সময় বাছাইয়ে রহমতের ছাপ স্পষ্ট: সকাল — দিনের কোলাহল তোমার অবস্থা ঠিক করে দেওয়ার আগে; পড়ন্ত বিকেল — রাত হিসাব বন্ধ করার আগে। এই দুই মুহূর্তে নোঙর করা মানুষ মাঝের সবকিছুতে একটি সংশোধিত কম্পাস বহন করে, আর দিনের যানজট বয়ে যায় এমন এক হৃদয়ের ওপর দিয়ে, যাকে আগেই ঘরের দিকে তাক করা হয়েছে।"
+            "bn": "সুন্নাহর সকাল-সন্ধ্যার জিকিরগুলো ঠিক এই দুই সময়েই, আর এই আয়াত সেগুলোর অন্যতম ভিত্তি। সময় বাছাইয়ে রহমত স্পষ্ট। সকাল: দিনের হৈচৈ আপনার মনের অবস্থা ঠিক করে দেওয়ার আগে। পড়ন্ত বিকেল: রাত এসে দিনের হিসাব বন্ধ করার আগে। এই দুই সময়ে যে নিজেকে বেঁধে রাখে, মাঝের সব কাজে তার কম্পাসের কাঁটা ঠিক থাকে। দিনের ব্যস্ততা বয়ে যায় এমন এক দিলের ওপর দিয়ে, যার মুখ আগেই আসল ঠিকানার দিকে ফেরানো।"
           }
         ]
       },
@@ -4565,11 +4565,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not warn here against disbelief; it warns against being among the heedless — forgetting while still believing. Ghaflah is the slow anesthetic of the heart, and the same surah has already shown its end: 7:179 describes people with hearts that do not understand, eyes that do not see and ears that do not hear, like cattle and further astray, and closes by naming them the ghafilun. Heedlessness there is not a lapse of manners; it is the road to that condition.",
-            "bn": "আয়াতটি এখানে কুফরের বিরুদ্ধে সতর্ক করছে না; সতর্ক করছে গাফেলদের অন্তর্ভুক্ত হওয়ার বিরুদ্ধে — বিশ্বাস রেখেও ভুলে থাকার বিরুদ্ধে। গাফলত হৃদয়ের ধীর চেতনানাশক, আর এই সূরাই আগে এর পরিণতি দেখিয়েছে: 7:179 আয়াতে বর্ণিত মানুষদের হৃদয় আছে কিন্তু বোঝে না, চোখ আছে কিন্তু দেখে না, কান আছে কিন্তু শোনে না — চতুষ্পদ জন্তুর মতো, বরং আরও পথভ্রষ্ট — আর শেষে তাদেরই নাম দেওয়া হয়েছে গাফিলুন। সেখানে গাফলত কোনো শিষ্টাচারের ত্রুটি নয়; তা ওই অবস্থার দিকে যাওয়ার রাস্তা।"
+            "bn": "আয়াতটি এখানে কুফরের বিরুদ্ধে সতর্ক করছে না; সতর্ক করছে গাফেলদের দলে পড়ে যাওয়া থেকে, মানে ঈমান থাকা সত্ত্বেও ভুলে থাকা থেকে। গাফলত দিলকে ধীরে ধীরে অবশ করে দেয়। এই সূরাই আগে তার পরিণতি দেখিয়েছে: ৭:১৭৯ আয়াতে এমন মানুষের কথা, যাদের দিল আছে কিন্তু বোঝে না, চোখ আছে কিন্তু দেখে না, কান আছে কিন্তু শোনে না। তারা চতুষ্পদ জন্তুর মতো, বরং তার চেয়েও বেশি পথভ্রষ্ট। আয়াতটি শেষ হয় তাদের গাফিলুন বলে। সেখানে গাফলত আদব-কায়দার সামান্য ত্রুটি নয়; ওই অবস্থায় পৌঁছানোর রাস্তা।"
           },
           {
             "en": "The Prophet ﷺ measured the difference remembrance makes in the starkest terms. Al-Bukhari relates from Abu Musa (RA): the example of the one who remembers his Lord and the one who does not is the example of the living and the dead. And Muslim relates from Abu Hurayrah (RA) that the mufarridun have raced ahead — the men and women who remember Allah much. Dhikr in these texts is not decoration on top of religious life; it is the pulse by which its life is checked.",
-            "bn": "স্মরণ কী পার্থক্য গড়ে, নবী ﷺ তা মেপেছেন সবচেয়ে তীক্ষ্ণ ভাষায়। বুখারী আবু মূসা (রাঃ) থেকে বর্ণনা করেন: যে তার রবকে স্মরণ করে আর যে করে না, তাদের উপমা জীবিত ও মৃতের উপমা। আর মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, মুফাররিদূনরা এগিয়ে গেছে — সেই পুরুষ ও নারীরা, যারা আল্লাহকে বেশি বেশি স্মরণ করে। এই ভাষ্যগুলোতে যিকির দ্বীনী জীবনের ওপরের সাজসজ্জা নয়; এ হলো সেই নাড়ি, যা দিয়ে তার জীবন পরীক্ষা করা হয়।"
+            "bn": "জিকির কতটা পার্থক্য গড়ে দেয়, নবী ﷺ তা বুঝিয়েছেন সবচেয়ে কড়া ভাষায়। বুখারী আবু মূসা (রাঃ) থেকে বর্ণনা করেন: যে তার রবের জিকির করে আর যে করে না, তাদের উদাহরণ জীবিত আর মৃতের মতো। আর মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: মুফাররিদূনরা এগিয়ে গেছে; তারা সেই পুরুষ ও নারী, যারা আল্লাহকে বেশি বেশি স্মরণ করে। এসব হাদিসে জিকির দ্বীনী জীবনের ওপর বাড়তি সাজ নয়; জিকির হলো সেই নাড়ি, যা ধরে বোঝা যায় সে জীবন বেঁচে আছে কি না।"
           }
         ]
       },
@@ -4581,11 +4581,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah's last verse, 7:206, supplies the model for the command just given: those who are with your Lord are not too proud to worship Him; they glorify Him, and to Him they prostrate. Reciting it calls for a prostration — in the order of the mushaf this is the first verse of sajdah. The sequence is deliberate: told to remember quietly and constantly, the reader is immediately shown beings who already do, without fatigue and without arrogance.",
-            "bn": "সূরার শেষ আয়াত 7:206 সদ্য দেওয়া আদেশের নমুনা হাজির করে: যারা তোমার রবের কাছে আছে, তারা তাঁর ইবাদতে অহংকার করে না; তারা তাঁর তাসবীহ পড়ে এবং তাঁকেই সিজদা করে। এটি তিলাওয়াতে সিজদা করতে হয় — মুসহাফের ক্রমে এটিই সিজদার প্রথম আয়াত। এই বিন্যাস ইচ্ছাকৃত: নীরবে ও নিয়মিত স্মরণের আদেশ পাওয়ামাত্র পাঠককে দেখানো হয় এমন সত্তাদের, যারা এরই মধ্যে তা করে — ক্লান্তিহীন, অহংকারহীন।"
+            "bn": "সূরার শেষ আয়াত ৭:২০৬ সদ্য দেওয়া আদেশের নমুনা দেখিয়ে দেয়: যারা তোমার রবের কাছে আছে, তারা তাঁর ইবাদতে অহংকার করে না; তারা তাঁর তাসবীহ পড়ে এবং তাঁকেই সিজদা করে। এ আয়াত তিলাওয়াত করলে সিজদা দিতে হয়; মুসহাফের ক্রমে এটিই প্রথম সিজদার আয়াত। এই ক্রম ভেবেচিন্তে সাজানো। নীরবে আর সবসময় জিকিরের আদেশ পাওয়ার পরপরই পাঠক দেখতে পান এমন সৃষ্টিকে, যারা আগে থেকেই তা করে যাচ্ছে, ক্লান্তি ছাড়া, অহংকার ছাড়া।"
           },
           {
             "en": "Widen the frame and the whole universe joins them: 17:44 states that there is nothing at all that does not glorify Allah with His praise, though we do not perceive it. Against that background, ghaflah is exposed as the strange condition — a forgetful creature moving through a cosmos that remembers. The command of 7:205 is therefore not an extra burden laid on life but an invitation to stop being the one silent voice in a singing creation.",
-            "bn": "ফ্রেমটা বড় করলে গোটা মহাবিশ্ব তাদের সাথে যোগ দেয়: 17:44 আয়াত বলে, এমন কিছুই নেই যা আল্লাহর প্রশংসাসহ তাঁর তাসবীহ পড়ে না, যদিও আমরা তা টের পাই না। সেই পটভূমিতে গাফলতই ধরা পড়ে অদ্ভুত অবস্থা হিসেবে — স্মরণে মগ্ন এক বিশ্বজগতের ভেতর দিয়ে চলা এক বিস্মৃত প্রাণী। তাই 7:205 আয়াতের আদেশ জীবনের ওপর চাপানো বাড়তি বোঝা নয়, বরং আমন্ত্রণ — গানরত সৃষ্টির মাঝে একমাত্র নীরব কণ্ঠ হয়ে না থাকার।"
+            "bn": "দৃষ্টিটা আরও বড় করলে গোটা সৃষ্টিজগৎ তাদের সাথে যোগ দেয়। ১৭:৪৪ আয়াত বলে, এমন কিছুই নেই যা আল্লাহর প্রশংসাসহ তাঁর তাসবীহ পড়ে না, যদিও আমরা তা টের পাই না। এর পাশে রাখলে গাফলতকেই অদ্ভুত অবস্থা বলে চেনা যায়: চারপাশের সবকিছু আল্লাহকে স্মরণ করছে, আর তার মাঝে এক ভুলোমনা সৃষ্টি ঘুরে বেড়াচ্ছে। তাই ৭:২০৫ আয়াতের আদেশ জীবনের ওপর চাপানো বাড়তি বোঝা নয়, বরং দাওয়াত: গোটা সৃষ্টি যখন গাইছে, তখন একমাত্র চুপ থাকা কণ্ঠ হয়ে থাকবেন না।"
           }
         ]
       },
@@ -4597,7 +4597,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Everything this verse asks for is already in your possession: a self to go inward to, a morning and an evening that arrive without being earned, and a voice that can drop below loudness. Begin with the two ends of the day and guard them like appointments. Let the tongue move gently and pull the heart back each time it wanders. The verse promises no visible result and threatens no visible loss; it simply separates two kinds of people, the remembering and the heedless, and asks which list you are on.",
-            "bn": "এই আয়াত যা চায় তার সবই এরই মধ্যে তোমার কাছে আছে: ভেতরে ফেরার মতো একটি নিজ, না চাইতেই আসা একটি সকাল ও একটি সন্ধ্যা, আর উচ্চতার নিচে নামতে পারা একটি কণ্ঠ। শুরু করো দিনের দুই প্রান্ত দিয়ে, আর সেগুলো পাহারা দাও নির্ধারিত সাক্ষাতের মতো। জিহ্বা মৃদু চলুক, আর হৃদয় যতবার ভেসে যায় ততবার টেনে ফেরাও। আয়াতটি কোনো দৃশ্যমান ফল প্রতিশ্রুতি দেয় না, কোনো দৃশ্যমান ক্ষতির হুমকিও দেয় না; এটি কেবল দুই ধরনের মানুষকে আলাদা করে — স্মরণকারী ও গাফেল — আর জিজ্ঞেস করে, তুমি কোন তালিকায়।"
+            "bn": "এই আয়াত যা চায়, তার সবই আপনার কাছে আগে থেকেই আছে: ভেতরে ফেরার মতো একটা মন, কামাই না করেই পাওয়া একটা সকাল আর একটা সন্ধ্যা, আর এমন কণ্ঠ যা উঁচু আওয়াজের নিচে নামতে পারে। শুরু করুন দিনের দুই প্রান্ত দিয়ে, আর সময় দুটোকে জরুরি সাক্ষাতের মতো আগলে রাখুন। জিহ্বা আস্তে চলুক, আর দিল যতবার অন্যদিকে সরে যায়, ততবার টেনে ফিরিয়ে আনুন। আয়াতটি চোখে দেখা কোনো ফলের ওয়াদা করে না, চোখে দেখা কোনো ক্ষতির ভয়ও দেখায় না। সে কেবল মানুষকে দুই ভাগে আলাদা করে, যারা জিকির করে আর যারা গাফেল, তারপর জিজ্ঞেস করে: আপনি কোন তালিকায়?"
           }
         ]
       }
