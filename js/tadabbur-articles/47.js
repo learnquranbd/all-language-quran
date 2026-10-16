@@ -29,7 +29,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That last sentence deserves to be heard plainly. Fa-idha laqitum describes an encounter in war, fought under the authority the sources name, and not a general posture towards people of another faith. The verse licenses nothing against any living person or community, and no individual or group may take it into their own hands. What follows reports what the commentators wrote about a battlefield and its captives, in their words and under their names, without a ruling in this article's voice.",
-            "bn": "শেষ কথাটা স্পষ্ট করে শোনা দরকার। ফা-ইযা লাকীতুম যুদ্ধের ময়দানে মুখোমুখি হওয়ার কথা, সূত্রগুলো যে কর্তৃত্বের কথা বলে তার অধীনে লড়া যুদ্ধের কথা। ভিন্ন বিশ্বাসের মানুষের সঙ্গে সাধারণভাবে কেমন আচরণ হবে, সে কথা এখানে নেই। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, আর কোনো ব্যক্তি বা দল নিজ হাতে এর প্রয়োগ তুলে নিতে পারে না। সামনে যা আছে, তা রণক্ষেত্র আর বন্দিদের নিয়ে তাফসীরকারেরা যা লিখেছেন তার বিবরণ, তাঁদের নামে ও তাঁদের ভাষায়। এ লেখা নিজে থেকে কোনো ফতোয়া দিচ্ছে না।"
+            "bn": "শেষ কথাটা স্পষ্ট করে শোনা দরকার। ফা-ইযা লাকীতুম বলছে যুদ্ধে মুখোমুখি হওয়ার কথা, আর সে যুদ্ধ লড়া হয় সূত্রগুলোর বলা কর্তৃত্বের অধীনে। ভিন্ন বিশ্বাসের মানুষের সঙ্গে সাধারণভাবে কেমন আচরণ হবে, সে কথা এখানে নেই। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, আর কোনো ব্যক্তি বা দল নিজ হাতে এর প্রয়োগ তুলে নিতে পারে না। সামনে যা আছে, তা রণক্ষেত্র আর বন্দিদের নিয়ে তাফসীরকারেরা যা লিখেছেন তার বিবরণ, তাঁদের নামে ও তাঁদের ভাষায়। এ লেখা নিজে থেকে কোনো ফতোয়া দিচ্ছে না।"
           }
         ]
       },
@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari reads it as overcoming them and subduing those whose necks were not struck, so that they become captives in your hands. The Muyassar has weakening them and breaking their strength. Then fa-shuddu l-wathaq, make the bond fast. As-Sa'di glosses al-wathaq as the tie, and calls the binding a precaution once taking captives is judged the better course. Al-Qurtubi says it is so they do not slip away; at-Tabari, so that they cannot kill you and flee.",
-            "bn": "তাবারীর মতে এর মানে তাদের উপর জয়ী হওয়া, আর যাদের ঘাড়ে আঘাত পড়েনি তাদের কাবু করা, যাতে তারা তোমাদের হাতে বন্দি হয়। মুয়াসসার বলে, তাদের দুর্বল করে দেওয়া আর শক্তি ভেঙে দেওয়া।এরপর ফা-শুদ্দুল ওয়াসাক: বাঁধন শক্ত করো। সা'দী আল-ওয়াসাকের অর্থ বলেন রশি বা বাঁধন। বন্দি করাই যখন উত্তম ও বেশি কল্যাণকর মনে হয়, তখন এই বাঁধন তাঁর ভাষায় সতর্কতা। কুরতুবী বলেন, যাতে তারা ফসকে না যায়। তাবারী বলেন, যাতে তারা তোমাদের হত্যা করে পালিয়ে যেতে না পারে।"
+            "bn": "তাবারীর মতে এর মানে তাদের উপর জয়ী হওয়া, আর যাদের ঘাড়ে আঘাত পড়েনি তাদের কাবু করা, যাতে তারা তোমাদের হাতে বন্দি হয়। মুয়াসসার বলে, তাদের দুর্বল করে দেওয়া আর শক্তি ভেঙে দেওয়া। এরপর ফা-শুদ্দুল ওয়াসাক: বাঁধন শক্ত করো। সা'দী আল-ওয়াসাকের অর্থ বলেন রশি বা বাঁধন। বন্দি করাই যখন ভালো পথ বলে মনে হয়, তখন এই বাঁধনকে তিনি বলেন সতর্কতা। কুরতুবী বলেন, যাতে তারা ফসকে না যায়। তাবারী বলেন, যাতে তারা তোমাদের হত্যা করে পালিয়ে যেতে না পারে।"
           }
         ]
       },
@@ -61,7 +61,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "When was this said? Ibn Kathir writes that the verse appears to have come after Badr, when Allah reproached the believers in 8:67 and 8:68 for taking many captives for ransom. Ma'arif al-Qur'an, citing Tafsir Mazhari, takes the same order: the stern Anfal verses came first, and this later verse permits both release and ransom. It reports Ibn Abbas (RA) saying the Muslims were few at Badr, and al-Baghawi gives his words: when the Muslims grew many and their power was firm, Allah revealed this about captives.",
-            "bn": "কথাটা কখন বলা হয়েছিল? ইবন কাসীর লেখেন, বাহ্যত আয়াতটি বদরের পরে নাযিল হয়েছে, যখন ৮:৬৭ ও ৮:৬৮ আয়াতে মুক্তিপণের আশায় বেশি বন্দি ধরার জন্য আল্লাহ মুমিনদের তিরস্কার করেছিলেন। মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে একই ক্রম ধরে। মুক্তিপণের ব্যাপারে কঠোর আনফালের আয়াত আগে এসেছে, আর পরে আসা এ আয়াত মুক্তি ও মুক্তিপণ দুটোরই অনুমতি দেয়। মাআরিফুল কুরআন ইবন আব্বাস (রাঃ)-এর বক্তব্য আনে যে বদরের দিন মুসলিমরা সংখ্যায় কম ছিলেন। বাগাভী তাঁর কথাটি উদ্ধৃত করেন: মুসলিমরা যখন সংখ্যায় বেড়ে গেলেন আর তাঁদের শক্তি দৃঢ় হলো, তখন আল্লাহ বন্দিদের ব্যাপারে এ আয়াত নাযিল করলেন।"
+            "bn": "কথাটা কখন বলা হয়েছিল? ইবন কাসীর লেখেন, বাহ্যত আয়াতটি বদরের পরে নাজিল হয়েছে। তখন ৮:৬৭ ও ৮:৬৮ আয়াতে আল্লাহ মুমিনদের তিরস্কার করেছিলেন, কারণ তাঁরা মুক্তিপণের আশায় অনেক বন্দি ধরেছিলেন। মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে একই ক্রম ধরে: আনফালের কঠোর আয়াতগুলো আগে এসেছে, আর পরে আসা এ আয়াত মুক্তি ও মুক্তিপণ দুটোরই অনুমতি দেয়। মাআরিফুল কুরআন ইবন আব্বাস (রাঃ)-এর কথা আনে যে বদরের দিন মুসলিমরা সংখ্যায় কম ছিলেন। বাগাভী তাঁর কথাটি উদ্ধৃত করেন: মুসলিমরা যখন সংখ্যায় বেড়ে গেলেন আর তাঁদের শক্তি দৃঢ় হলো, তখন আল্লাহ বন্দিদের ব্যাপারে এ আয়াত নাজিল করলেন।"
           }
         ]
       },
@@ -81,7 +81,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The largest group held the verse in force, with the leader's choice open. Al-Qurtubi gives this from Ibn Abbas (RA) through 'Ali ibn Abi Talha, and from Ibn Umar, al-Hasan, Ata', Malik, ash-Shafi'i, ath-Thawri, al-Awza'i and Abu 'Ubayd, and prefers it, citing the practice of the Prophet ﷺ and the rightly guided caliphs. So al-Awza'i appears in both camps, depending on the commentator. At-Tabari reaches the same result: not abrogated, with killing still among the options from another verse. Ibn Kathir reports ash-Shafi'i adding enslavement, and Ma'arif al-Qur'an a second, permissive narration from Abu Hanifa.",
-            "bn": "সবচেয়ে বড় দলের মতে আয়াতটি বহাল, আর নেতার এখতিয়ার খোলা। কুরতুবী এ মত আনেন ইবন আব্বাস (রাঃ) থেকে আলী ইবন আবী তালহার সূত্রে, আর ইবন উমর, হাসান, আতা, মালিক, শাফিঈ, সাওরী, আওযাঈ ও আবু উবাইদ থেকে। নবী ﷺ ও খুলাফায়ে রাশেদীনের আমলের দলিল দিয়ে তিনি নিজেও এটিকেই পছন্দ করেন। লক্ষ করুন, কোন তাফসীরকার বলছেন তার উপর নির্ভর করে আওযাঈর নাম দুই দলেই আসে। তাবারীও একই সিদ্ধান্তে পৌঁছান: আয়াত রহিত নয়, আর অন্য আয়াতের ভিত্তিতে হত্যাও এখতিয়ারের মধ্যে থাকে। ইবন কাসীর জানান, শাফিঈ এর সঙ্গে দাস বানানোকেও যোগ করেছেন। মাআরিফুল কুরআন আবু হানীফা থেকে অনুমতির পক্ষে দ্বিতীয় একটি বর্ণনার কথা বলে।"
+            "bn": "সবচেয়ে বড় দলের মতে আয়াতটি বহাল, আর নেতার এখতিয়ার খোলা। কুরতুবী এ মত আনেন ইবন আব্বাস (রাঃ) থেকে আলী ইবন আবী তালহার সূত্রে, আর ইবন উমর, হাসান, আতা, মালিক, শাফিঈ, সাওরী, আওযাঈ ও আবু উবাইদ থেকে। তিনি নিজেও এ মতটিই পছন্দ করেন, দলিল হিসেবে আনেন নবী ﷺ ও খুলাফায়ে রাশেদীনের আমল। ফলে আওযাঈর নাম দুই দলেই পাওয়া যায়; কোন দলে, তা নির্ভর করে কোন তাফসীরকারের বর্ণনা পড়ছেন তার উপর। তাবারীও একই সিদ্ধান্তে পৌঁছান: আয়াত রহিত নয়, আর অন্য আয়াতের ভিত্তিতে হত্যাও এখতিয়ারের মধ্যে থাকে। ইবন কাসীর জানান, শাফিঈ এর সঙ্গে দাস বানানোকেও যোগ করেছেন। মাআরিফুল কুরআন আবু হানীফা থেকে অনুমতির পক্ষে দ্বিতীয় একটি বর্ণনার কথা বলে।"
           }
         ]
       },
@@ -93,11 +93,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Baghawi attaches one report to the verse, through al-Bukhari's own chain, and at-Tabari and al-Qurtubi name the same man among the captives the Prophet ﷺ released. It is in Sahih al-Bukhari, number 4372, a collection al-Bukhari restricted to reports he judged sound. Abu Hurayra (RA) said: The Prophet ﷺ sent horsemen towards Najd, and they brought a man of Banu Hanifa called Thumama ibn Uthal, and tied him to a pillar of the mosque. The Prophet ﷺ came out to him and said: What do you have, Thumama? He said: I have good, Muhammad.",
-            "bn": "বাগাভী আয়াতের সঙ্গে একটি হাদীস জুড়ে দেন, বুখারীর নিজের সনদে। নবী ﷺ যে বন্দিদের মুক্তি দিয়েছিলেন, তাবারী ও কুরতুবীও তাদের মধ্যে এই মানুষটির নাম নেন। হাদীসটি সহীহ বুখারীতে আছে, নম্বর ৪৩৭২। বুখারী তাঁর এ সংকলনে কেবল সেসব বর্ণনাই রেখেছেন, যেগুলো তাঁর বিচারে সহীহ। আবু হুরায়রা (রাঃ) বলেন: নবী ﷺ নজদের দিকে একদল অশ্বারোহী পাঠালেন। তারা বনু হানীফার এক লোককে ধরে আনল, নাম সুমামা ইবন উসাল। তারা তাকে মসজিদের একটি খুঁটির সঙ্গে বেঁধে রাখল। নবী ﷺ বেরিয়ে তার কাছে এলেন এবং বললেন: সুমামা, তোমার কাছে কী আছে? সে বলল: হে মুহাম্মাদ, আমার কাছে ভালো কিছুই আছে।"
+            "bn": "বাগাভী আয়াতের সঙ্গে একটি হাদিস জুড়ে দেন, বুখারীর নিজের সনদে। নবী ﷺ যে বন্দিদের মুক্তি দিয়েছিলেন, তাবারী ও কুরতুবীও তাদের মধ্যে এই মানুষটির নাম নেন। হাদিসটি সহীহ বুখারীতে আছে, নম্বর ৪৩৭২। বুখারী তাঁর এ সংকলনে কেবল সেসব বর্ণনাই রেখেছেন, যেগুলো তাঁর বিচারে সহীহ। আবু হুরায়রা (রাঃ) বলেন: নবী ﷺ নজদের দিকে একদল অশ্বারোহী পাঠালেন। তারা বনু হানীফার এক লোককে ধরে আনল, নাম সুমামা ইবন উসাল। তারা তাকে মসজিদের একটি খুঁটির সঙ্গে বেঁধে রাখল। নবী ﷺ বেরিয়ে তার কাছে এলেন এবং বললেন: সুমামা, তোমার কাছে কী আছে? সে বলল: হে মুহাম্মাদ, আমার কাছে কল্যাণই আছে।"
           },
           {
             "en": "If you kill me, you kill a man of blood; if you show favour, you show favour to one who is grateful; and if you want wealth, then ask of it whatever you wish. Then came the next day, and he said to him: What do you have, Thumama? He said: What I told you: if you show favour, you show favour to one who is grateful. He left him until the day after, and said: What do you have, Thumama? He said: I have what I told you. He said: Release Thumama. He went to some palms near the mosque, bathed, then entered the mosque and said:",
-            "bn": "যদি আমাকে হত্যা করেন, তবে রক্তের সঙ্গে জড়ানো এক মানুষকে হত্যা করবেন। যদি অনুগ্রহ করেন, তবে একজন কৃতজ্ঞ মানুষের প্রতি অনুগ্রহ করবেন। আর যদি সম্পদ চান, তবে যা ইচ্ছা চেয়ে নিন। পরের দিন এলে তিনি আবার বললেন: সুমামা, তোমার কাছে কী আছে? সে বলল: যা আপনাকে বলেছি তা-ই। যদি অনুগ্রহ করেন, তবে একজন কৃতজ্ঞ মানুষের প্রতি অনুগ্রহ করবেন। তিনি তাকে তার পরের দিন পর্যন্ত রেখে দিলেন, তারপর বললেন: সুমামা, তোমার কাছে কী আছে? সে বলল: আমার কাছে তা-ই আছে, যা আপনাকে বলেছি। তিনি বললেন: সুমামাকে ছেড়ে দাও। সে মসজিদের কাছের খেজুর বাগানে গেল, গোসল করল, তারপর মসজিদে ঢুকে বলল:"
+            "bn": "যদি আমাকে হত্যা করেন, তবে রক্তের দায় আছে এমন একজনকেই হত্যা করবেন। যদি অনুগ্রহ করেন, তবে একজন কৃতজ্ঞ মানুষের প্রতি অনুগ্রহ করবেন। আর যদি সম্পদ চান, তবে যা ইচ্ছা চেয়ে নিন। পরের দিন এলে তিনি আবার বললেন: সুমামা, তোমার কাছে কী আছে? সে বলল: যা আপনাকে বলেছি তা-ই। যদি অনুগ্রহ করেন, তবে একজন কৃতজ্ঞ মানুষের প্রতি অনুগ্রহ করবেন। তিনি তাকে তার পরের দিন পর্যন্ত রেখে দিলেন, তারপর বললেন: সুমামা, তোমার কাছে কী আছে? সে বলল: আমার কাছে তা-ই আছে, যা আপনাকে বলেছি। তিনি বললেন: সুমামাকে ছেড়ে দাও। সে মসজিদের কাছের খেজুর বাগানে গেল, গোসল করল, তারপর মসজিদে ঢুকে বলল:"
           },
           {
             "en": "I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah. Muhammad, by Allah, there was no face on earth more hateful to me than yours, and now your face has become the most beloved of faces to me. By Allah, there was no religion more hateful to me than yours, and now your religion has become the most beloved religion to me. By Allah, there was no land more hateful to me than yours, and now your land is the most beloved of lands to me.",
@@ -105,23 +105,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Your horsemen took me while I intended 'umrah; what do you think? The Messenger of Allah ﷺ gave him glad tidings and told him to perform 'umrah. When he reached Makkah, someone said to him: Have you deserted your religion? He said: No, but I have accepted Islam with Muhammad, the Messenger of Allah ﷺ. And no, by Allah, not a grain of wheat will come to you from al-Yamamah until the Prophet ﷺ gives leave for it. Ibn Kathir cites Thumama's three sentences for allowing the leader to kill; at-Tabari and al-Qurtubi cite the release as mann.",
-            "bn": "আপনার অশ্বারোহীরা আমাকে ধরেছে, তখন আমি উমরা করতে যাচ্ছিলাম। এখন আপনার কী মত? রাসূলুল্লাহ ﷺ তাকে সুসংবাদ দিলেন এবং উমরা করতে বললেন। সে মক্কায় পৌঁছালে কেউ তাকে বলল: তুমি কি ধর্ম ছেড়ে দিলে? সে বলল: না, বরং আমি আল্লাহর রাসূল মুহাম্মাদ ﷺ-এর সঙ্গে ইসলাম গ্রহণ করেছি। আল্লাহর কসম, নবী ﷺ অনুমতি না দেওয়া পর্যন্ত ইয়ামামা থেকে গমের একটি দানাও তোমাদের কাছে আসবে না। সুমামার ওই তিনটি বাক্য ইবন কাসীর টেনে আনেন নেতার হত্যার এখতিয়ারের পক্ষে। তাবারী ও কুরতুবী তার মুক্তিকে মান্ন হিসেবে উল্লেখ করেন।"
+            "bn": "আপনার অশ্বারোহীরা আমাকে ধরেছে, তখন আমি উমরা করতে যাচ্ছিলাম। এখন আপনার কী মত? রাসূলুল্লাহ ﷺ তাকে সুসংবাদ দিলেন এবং উমরা করতে বললেন। সে মক্কায় পৌঁছালে কেউ তাকে বলল: তুমি কি ধর্ম ছেড়ে দিলে? সে বলল: না, বরং আমি আল্লাহর রাসূল মুহাম্মাদ ﷺ-এর সঙ্গে ইসলাম গ্রহণ করেছি। আল্লাহর কসম, নবী ﷺ অনুমতি না দেওয়া পর্যন্ত ইয়ামামা থেকে গমের একটি দানাও তোমাদের কাছে আসবে না। ইবন কাসীর সুমামার ওই তিনটি বাক্য দিয়ে দেখান যে নেতা হত্যাও করতে পারেন। তাবারী ও কুরতুবী তার মুক্তিকে মান্নের উদাহরণ হিসেবে আনেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Until War Sets Down Its Load",
-          "bn": "যুদ্ধ যখন বোঝা নামায়"
+          "bn": "যতক্ষণ না যুদ্ধ বোঝা নামায়"
         },
         "p": [
           {
             "en": "Hatta tada'a l-harbu awzaraha: until the war lays down its burdens. Al-Baghawi explains wizr as what a person carries, so weapons are called awzar because they are borne; the sense is until the people of war put down their arms and stop fighting. Al-Qurtubi gives the same, with arms laid down through defeat or truce. Al-Baghawi reports al-Kalbi: until they accept Islam or make peace; and al-Farra': until none remain but a Muslim or one at peace. As-Sa'di reads it as until no war remains.",
-            "bn": "হাত্তা তাদাআল হারবু আওযারাহা: যতক্ষণ না যুদ্ধ তার বোঝা নামিয়ে রাখে। বাগাভী বলেন, ভিযর হলো মানুষ যা বহন করে। অস্ত্রকে আওযার বলা হয়, কারণ তা বয়ে বেড়াতে হয়। অর্থ দাঁড়ায়: যুদ্ধরত লোকেরা অস্ত্র নামিয়ে রাখবে আর লড়াই থেকে বিরত হবে। কুরতুবীও একই কথা বলেন, পরাজয় বা সন্ধির মাধ্যমে অস্ত্র নামিয়ে রাখার কথা। বাগাভী কালবীর কথা আনেন: যতক্ষণ না তারা ইসলাম গ্রহণ করে বা সন্ধি করে। আর ফাররার কথা: যতক্ষণ না মুসলিম বা সন্ধিতে থাকা মানুষ ছাড়া আর কেউ অবশিষ্ট থাকে। সা'দীর ব্যাখ্যায়: যতক্ষণ না কোনো যুদ্ধ বাকি থাকে।"
+            "bn": "হাত্তা তাদাআল হারবু আওযারাহা: যতক্ষণ না যুদ্ধ তার বোঝা নামিয়ে রাখে। বাগাভী বলেন, ভিযর হলো মানুষ যা বহন করে। অস্ত্রকে আওযার বলা হয়, কারণ তা বয়ে বেড়াতে হয়। অর্থ দাঁড়ায়: যুদ্ধরত লোকেরা অস্ত্র নামিয়ে রাখবে আর লড়াই থেকে বিরত হবে। কুরতুবীও একই কথা বলেন: পরাজয় বা সন্ধির ফলে অস্ত্র নামিয়ে রাখা। বাগাভী কালবীর কথা আনেন: যতক্ষণ না তারা ইসলাম গ্রহণ করে বা সন্ধি করে। আর ফাররার কথা: মুসলিম বা সন্ধিতে থাকা মানুষ ছাড়া আর কেউ বাকি না থাকা পর্যন্ত। সা'দীর ব্যাখ্যায়: যুদ্ধের আর কিছুই বাকি না থাকা পর্যন্ত।"
           },
           {
             "en": "Others read the phrase as reaching further. Mujahid said, in Ibn Kathir's wording, until 'Isa son of Maryam (AS) descends; at-Tabari's longer report from him has every Jew, Christian and follower of a religion accepting Islam and enmity leaving all things, and al-Qurtubi gives the same from Mujahid and Sa'id ibn Jubayr. Qatada, in at-Tabari and Ibn Kathir, said until no shirk remains, which Ibn Kathir likens to 2:193. At-Tabari's own reading takes the awzar as the sins of those at war, laid down when they repent and believe.",
-            "bn": "অন্যরা শব্দবন্ধটিকে আরও দূর পর্যন্ত টেনে পড়েন। ইবন কাসীরের ভাষায় মুজাহিদ বলেছেন: যতক্ষণ না ঈসা ইবন মারইয়াম (আঃ) অবতরণ করেন। তাবারী মুজাহিদ থেকে আরও দীর্ঘ বর্ণনা আনেন: প্রত্যেক ইহুদি, খ্রিস্টান ও অন্য ধর্মের অনুসারী ইসলাম গ্রহণ করবে, আর সব কিছু থেকে শত্রুতা দূর হয়ে যাবে। কুরতুবীও মুজাহিদ ও সাঈদ ইবন জুবাইর থেকে একই কথা আনেন। তাবারী ও ইবন কাসীরের বর্ণনায় কাতাদা বলেছেন: যতক্ষণ না শিরক অবশিষ্ট থাকে। ইবন কাসীর একে ২:১৯৩ আয়াতের সঙ্গে তুলনা করেন। তাবারীর নিজের ব্যাখ্যায় আওযার মানে যুদ্ধরত লোকদের গুনাহ, যা তারা নামিয়ে রাখে তওবা করে ঈমান আনার মাধ্যমে।"
+            "bn": "অন্যদের মতে কথাটির পরিধি আরও দূর পর্যন্ত। ইবন কাসীরের ভাষায় মুজাহিদ বলেছেন: যতক্ষণ না ঈসা ইবন মারইয়াম (আঃ) অবতরণ করেন। তাবারী মুজাহিদ থেকে আরও দীর্ঘ বর্ণনা আনেন: প্রত্যেক ইহুদি, খ্রিস্টান ও অন্য ধর্মের অনুসারী ইসলাম গ্রহণ করবে, আর সব কিছু থেকে শত্রুতা দূর হয়ে যাবে। কুরতুবীও মুজাহিদ ও সাঈদ ইবন জুবাইর থেকে একই কথা আনেন। তাবারী ও ইবন কাসীরের বর্ণনায় কাতাদা বলেছেন: শিরক আর বাকি না থাকা পর্যন্ত। ইবন কাসীর একে ২:১৯৩ আয়াতের সঙ্গে তুলনা করেন। তাবারীর নিজের ব্যাখ্যায় আওযার মানে যুদ্ধরত লোকদের গুনাহ, যা তারা নামিয়ে রাখে তওবা করে ঈমান আনার মাধ্যমে।"
           }
         ]
       },
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Dhalika, wa law yasha'u llahu la-ntasara minhum: so it is; had Allah willed, He would have exacted retribution from them Himself. Al-Qurtubi says this means destroying them without fighting, and reports Ibn Abbas (RA): with an army of angels. Wa lakin li-yabluwa ba'dakum bi-ba'd: but to test some of you by means of others. At-Tabari says He tests the believers by them, to make known who strives and who is patient, and tests them by the believers, so that some take heed and turn to the truth.",
-            "bn": "যালিকা, ওয়া লাও ইয়াশাউল্লাহু লানতাসারা মিনহুম: বিষয়টা এমনই। আল্লাহ চাইলে নিজেই তাদের থেকে প্রতিশোধ নিতেন। কুরতুবী বলেন, এর মানে লড়াই ছাড়াই তাদের ধ্বংস করে দেওয়া, আর ইবন আব্বাস (রাঃ)-এর কথা আনেন: ফেরেশতাদের এক বাহিনী দিয়ে। ওয়া লাকিন লিইয়াবলুওয়া বা'দাকুম বিবা'দ: কিন্তু তিনি তোমাদের একজনকে অন্যজন দিয়ে পরীক্ষা করেন। তাবারী বলেন, তিনি তাদের দিয়ে মুমিনদের পরীক্ষা করেন, যাতে জানা যায় কে জিহাদ করে আর কে সবর করে। আবার মুমিনদের দিয়ে তাদের পরীক্ষা করেন, যাতে তাদের কেউ কেউ শিক্ষা নিয়ে সত্যের দিকে ফেরে।"
+            "bn": "যালিকা, ওয়া লাও ইয়াশাউল্লাহু লানতাসারা মিনহুম: বিষয়টা এমনই। আল্লাহ চাইলে নিজেই তাদের থেকে প্রতিশোধ নিতেন। কুরতুবী বলেন, এর মানে লড়াই ছাড়াই তাদের ধ্বংস করে দেওয়া, আর ইবন আব্বাস (রাঃ)-এর কথা আনেন: ফেরেশতাদের এক বাহিনী দিয়ে। ওয়া লাকিন লিইয়াবলুওয়া বা'দাকুম বিবা'দ: কিন্তু তিনি তোমাদের একদলকে আরেক দল দিয়ে পরীক্ষা করতে চান। তাবারী বলেন, তিনি তাদের দিয়ে মুমিনদের পরীক্ষা করেন, যাতে জানা যায় কে জিহাদ করে আর কে সবর করে। আবার মুমিনদের দিয়ে তাদের পরীক্ষা করেন, যাতে তাদের কেউ কেউ শিক্ষা নিয়ে সত্যের দিকে ফেরে।"
           },
           {
             "en": "As-Sa'di gives the sharpest reason. Through such testing the truthful is told apart from the liar, and whoever believes comes to believe with insight, not with a faith built on following whoever wins, which he calls very weak and hardly able to last through trials. Ma'arif al-Qur'an adds that earlier nations were struck by calamities that took men, women and children alike, while in war fought by its rules women and children are kept safe.",
@@ -149,11 +149,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes on those who fall: wa-lladhina qutilu fi sabili llah, those who are killed in Allah's way. At-Tabari names the readings. Most readers of the Hijaz and Kufa read qatalu, those who fought, which he prefers, while granting every reading a sense; Abu 'Amr read qutilu, those who were killed, al-Hasan quttilu, and al-Jahdari qatalu, those who killed. Al-Baghawi says the people of Basra and Hafs read qutilu, the reading of the Arabic shown with this verse. Qatada said, in a report opened with it was mentioned to us, that the verse came down at Uhud.",
-            "bn": "আয়াত শেষ হয় যারা প্রাণ দিয়েছেন তাদের কথায়: ওয়াল্লাযীনা কুতিলু ফী সাবীলিল্লাহ, যারা আল্লাহর পথে নিহত হয়েছে। তাবারী কিরাআতগুলোর নাম বলেন। হিজায ও কুফার অধিকাংশ কারী পড়েছেন কাতালূ, অর্থাৎ যারা লড়াই করেছে। তিনি এটিকেই অগ্রাধিকার দেন, তবে মানেন যে প্রতিটি কিরাআতেরই অর্থ আছে। আবু আমর পড়েছেন কুতিলু, যারা নিহত হয়েছে। হাসান পড়েছেন কুত্তিলু, আর জাহদারী কাতালূ, যারা হত্যা করেছে। বাগাভী বলেন, বসরার কারীরা ও হাফস পড়েছেন কুতিলু, আর এ আয়াতের সঙ্গে দেওয়া আরবি পাঠ সেটাই। কাতাদা 'আমাদের কাছে উল্লেখ করা হয়েছে' বলে শুরু করা এক বর্ণনায় জানান, আয়াতটি উহুদের দিন নাযিল হয়েছিল।"
+            "bn": "আয়াত শেষ হয় যারা প্রাণ দিয়েছেন তাদের কথায়: ওয়াল্লাযীনা কুতিলু ফী সাবীলিল্লাহ, যারা আল্লাহর পথে নিহত হয়েছে। তাবারী কিরাআতগুলোর নাম বলেন। হিজায ও কুফার অধিকাংশ কারী পড়েছেন কাতালূ, অর্থাৎ যারা লড়াই করেছে। তিনি এটিকেই অগ্রাধিকার দেন, তবে মানেন যে প্রতিটি কিরাআতেরই অর্থ আছে। আবু আমর পড়েছেন কুতিলু, যারা নিহত হয়েছে। হাসান পড়েছেন কুত্তিলু, আর জাহদারী কাতালূ, যারা হত্যা করেছে। বাগাভী বলেন, বসরার কারীরা ও হাফস পড়েছেন কুতিলু, আর এ আয়াতের সঙ্গে দেওয়া আরবি পাঠ সেটাই। কাতাদার একটি বর্ণনা শুরু হয় 'আমাদের কাছে উল্লেখ করা হয়েছে' কথাটি দিয়ে। তাতে তিনি জানান, আয়াতটি উহুদের দিন নাজিল হয়েছিল।"
           },
           {
             "en": "Fa-lan yudilla a'malahum: He will never let their deeds go astray. The words answer 47:1, where the deeds of those who barred others from Allah's way were sent astray, and at-Tabari and Ma'arif al-Qur'an both draw that contrast. Ibn Kathir says Allah will rather multiply them; as-Sa'di, that He accepts them and shows their fruit in both worlds, and he describes the people meant as those who fought whom they were commanded to fight, so that Allah's word is highest. The promise is tied to that description and that setting, and to no cause anyone chooses for himself.",
-            "bn": "ফালান ইউদিল্লা আ'মালাহুম: তিনি কখনো তাদের আমল বিফলে যেতে দেবেন না। কথাটা ৪৭:১ আয়াতের জবাব, যেখানে আল্লাহর পথে বাধা দানকারীদের আমল বিফল করে দেওয়ার কথা আছে। তাবারী ও মাআরিফুল কুরআন দুটোই এই বৈপরীত্য দেখান। ইবন কাসীর বলেন, আল্লাহ বরং সেগুলো বহুগুণ বাড়িয়ে দেবেন। সা'দী বলেন, তিনি সেগুলো কবুল করেন, আর দুনিয়া ও আখিরাতে তার ফল প্রকাশ করেন। কাদের কথা বলা হচ্ছে, তাও তিনি স্পষ্ট করেন: যাদের সঙ্গে লড়ার নির্দেশ এসেছিল, তারা তাদের সঙ্গেই লড়েছে, যাতে আল্লাহর কালিমা সমুন্নত থাকে। প্রতিশ্রুতিটা বাঁধা সেই বিবরণ আর সেই প্রেক্ষাপটের সঙ্গে, কারও নিজের বেছে নেওয়া কোনো লড়াইয়ের সঙ্গে নয়।"
+            "bn": "ফালান ইউদিল্লা আ'মালাহুম: তিনি কখনো তাদের আমল বিফলে যেতে দেবেন না। কথাটা ৪৭:১ আয়াতের জবাব। সেখানে বলা আছে, যারা মানুষকে আল্লাহর পথে বাধা দিত, তাদের আমল বিফল করে দেওয়া হয়েছে। তাবারী ও মাআরিফুল কুরআন দুটোই এই বৈপরীত্য দেখান। ইবন কাসীর বলেন, আল্লাহ বরং সেগুলো বহুগুণ বাড়িয়ে দেবেন। সা'দী বলেন, তিনি সেগুলো কবুল করেন, আর দুনিয়া ও আখিরাতে তার ফল প্রকাশ করেন। কাদের কথা বলা হচ্ছে, তাও তিনি স্পষ্ট করেন: যাদের সঙ্গে লড়ার নির্দেশ এসেছিল, তারা তাদের সঙ্গেই লড়েছে, যাতে আল্লাহর কালিমা সমুন্নত থাকে। প্রতিশ্রুতিটা বাঁধা সেই বিবরণ আর সেই প্রেক্ষাপটের সঙ্গে। কেউ নিজে যে লক্ষ্য বেছে নেয়, তার সঙ্গে নয়।"
           }
         ]
       }
@@ -189,14 +189,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What became of them, in as-Sa'di's words, is that wukilu ila anfusihim: they were handed over to themselves. With no protector, they did not take on the qualities of muru'a, of decency and manliness, nor the qualities that make a person human, but went down from them step after step until they became like livestock. On this reading the likeness grows out of the line before it: it describes what a self left to its own pull becomes.",
-            "bn": "সা'দীর ভাষায় তাদের দশা হলো উকিলূ ইলা আনফুসিহিম: তাদের নিজেদের হাতেই ছেড়ে দেওয়া হলো। অভিভাবক না থাকায় তারা মুরুওয়াতের গুণ, অর্থাৎ ভদ্রতা আর মর্যাদাবোধ, অর্জন করেনি। মানুষকে মানুষ বানায় যে গুণগুলো, সেগুলোও ধরেনি। বরং ধাপে ধাপে সেখান থেকে নেমে গিয়ে পশুর মতো হয়ে গেছে। এই পাঠে উপমাটা আগের বাক্য থেকেই জন্ম নেয়। নিজের টানের হাতে ছেড়ে দেওয়া একটি সত্তা কী হয়ে দাঁড়ায়, উপমা সেটারই বর্ণনা।"
+            "bn": "সা'দীর ভাষায় তাদের দশা হলো উকিলূ ইলা আনফুসিহিম: তাদের নিজেদের হাতেই ছেড়ে দেওয়া হলো। অভিভাবক না থাকায় তারা মুরুওয়াতের গুণ, অর্থাৎ ভদ্রতা আর মর্যাদাবোধ, অর্জন করেনি। মানুষকে মানুষ বানায় যে গুণগুলো, সেগুলোও ধরেনি। বরং ধাপে ধাপে সেখান থেকে নেমে গিয়ে পশুর মতো হয়ে গেছে। এই পাঠে উপমাটা আগের বাক্য থেকেই জন্ম নেয়। মানুষকে তার নিজের টানের হাতে ছেড়ে দিলে সে কী হয়ে যায়, উপমাটা তারই ছবি।"
           }
         ]
       },
       {
         "h": {
           "en": "Orchards Given as Honour",
-          "bn": "সম্মানের উপহার বাগান"
+          "bn": "সম্মান হিসেবে দেওয়া বাগান"
         },
         "p": [
           {
@@ -205,7 +205,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di lingers on the rivers for a moment: they water those blossoming orchards and those fresh, fruit-bearing trees, with every delightful kind and every delicious fruit. Al-Qurtubi, by contrast, says only that this clause has already been discussed in more than one place. The fuller picture of these rivers comes three verses later, in 47:15, which names them one by one; that verse has its own reflection here, and this one keeps its eyes on the contrast that follows.",
-            "bn": "সা'দী নদীগুলোর কাছে একটু থামেন: এরা সেই ফুলে ভরা বাগান আর সতেজ ফলবান গাছগুলোতে পানি দেয়, যেখানে আছে সব রকমের মনোহর জোড়া আর সব রকমের সুস্বাদু ফল। কুরতুবী অন্যদিকে শুধু এটুকু বলেন যে এই অংশের আলোচনা আগে একাধিক জায়গায় হয়ে গেছে। নদীগুলোর পূর্ণ ছবি আসে তিনটি আয়াত পরে, ৪৭:১৫ আয়াতে, যেখানে একটা একটা করে তাদের নাম আছে। সে আয়াতের আলাদা আলোচনা এখানেই আছে। এ লেখার নজর তাই পরের বৈপরীত্যের দিকে।"
+            "bn": "সা'দী নদীগুলোর কাছে একটু থামেন: এগুলো পানি দেয় সেই ফুলে ভরা বাগানে আর সতেজ ফলবান গাছে, যেখানে আছে সব রকমের মনোহর জিনিস আর সব রকমের সুস্বাদু ফল। কুরতুবী অবশ্য শুধু এটুকু বলেন যে এই অংশের আলোচনা আগে একাধিক জায়গায় হয়ে গেছে। নদীগুলোর পূর্ণ ছবি আসে তিন আয়াত পরে, ৪৭:১৫ আয়াতে, সেখানে একে একে তাদের নাম আছে। সে আয়াতের আলাদা আলোচনা এখানে আছে, তাই এ লেখা চোখ রাখে পরের বৈপরীত্যের দিকে।"
           }
         ]
       },
@@ -221,7 +221,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir, al-Qurtubi and al-Baghawi all place the enjoyment in the dunya, and the Muyassar speaks of their tamattu' bi-d-dunya, their enjoyment of this world. Al-Qurtubi and al-Baghawi then add a saying they introduce only with qila, it is said: the believer in this world takes provision, yatazawwad; the hypocrite adorns himself, yatazayyan; and the kafir enjoys, yatamatta'. They give no name for it, and it is reported here as they report it, an unattributed saying set beside the verse.",
-            "bn": "ইবন কাসীর, কুরতুবী আর বাগাভী তিনজনই এই ভোগকে দুনিয়ার জীবনে স্থাপন করেন। মুয়াসসারও বলে তাদের তামাত্তু' বিদ-দুনইয়া, অর্থাৎ দুনিয়া উপভোগের কথা। এরপর কুরতুবী ও বাগাভী একটি উক্তি যোগ করেন, যার শুরুতে শুধু কীলা, অর্থাৎ বলা হয়: মুমিন দুনিয়ায় পাথেয় সংগ্রহ করে, ইয়াতাযাওয়াদ। মুনাফিক নিজেকে সাজায়, ইয়াতাযাইয়ান। আর কাফির ভোগ করে, ইয়াতামাত্তা'। উক্তিটি কার, তাঁরা তা বলেননি। এখানেও তাই সেভাবেই আনা হলো, আয়াতের পাশে রাখা নামহীন এক উক্তি হিসেবে।"
+            "bn": "ইবন কাসীর, কুরতুবী আর বাগাভী তিনজনই বলেন, এই ভোগ দুনিয়ার জীবনে। মুয়াসসারও বলে তাদের তামাত্তু' বিদ-দুনইয়া, অর্থাৎ দুনিয়া উপভোগের কথা। এরপর কুরতুবী ও বাগাভী একটি উক্তি যোগ করেন, যার শুরুতে শুধু কীলা, অর্থাৎ বলা হয়: মুমিন দুনিয়ায় পাথেয় সংগ্রহ করে, ইয়াতাযাওয়াদ। মুনাফিক নিজেকে সাজায়, ইয়াতাযাইয়ান। আর কাফির ভোগ করে, ইয়াতামাত্তা'। উক্তিটি কার, তাঁরা তা বলেননি। এখানেও তাই সেভাবেই আনা হলো, আয়াতের পাশে রাখা নামহীন এক উক্তি হিসেবে।"
           }
         ]
       },
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kama ta'kulu l-an'am, as livestock eat. At-Tabari's gloss is the longest. They eat in this world ghayra mufakkirina fi l-ma'ad, without thinking of the return, and without taking lesson from the proofs Allah set out for His creation, which lead to knowing His oneness and the truthfulness of His messengers. So their likeness, eating without knowledge or understanding, is that of livestock, al-baha'im al-musakhkhara, the beasts put to service, whose only concern is fodder. The Muyassar repeats that last phrase: livestock with no concern but feeding.",
-            "bn": "কামা তা'কুলুল আনআম, যেমন পশু খায়। এর সবচেয়ে দীর্ঘ ব্যাখ্যা তাবারীর। তারা দুনিয়ায় খায় গাইরা মুফাক্কিরীনা ফিল মাআদ, অর্থাৎ ফিরে যাওয়ার কথা না ভেবে। আল্লাহ তাঁর সৃষ্টির জন্য যে প্রমাণগুলো সাজিয়ে রেখেছেন, যা তাঁর একত্ব আর রাসূলদের সত্যতা চেনায়, তা থেকেও তারা শিক্ষা নেয় না। তাই জ্ঞান আর বোঝাপড়া ছাড়া তাদের খাওয়ার উপমা আল-বাহাইম আল-মুসাখখারা, কাজে লাগানো চতুষ্পদ পশু, খাবার ছাড়া যাদের আর কোনো ভাবনা নেই। মুয়াসসার শেষ কথাটাই আবার বলে: খাওয়া ছাড়া যে পশুর আর কোনো চিন্তা নেই।"
+            "bn": "কামা তা'কুলুল আনআম, যেমন পশু খায়। এর সবচেয়ে দীর্ঘ ব্যাখ্যা তাবারীর। তারা দুনিয়ায় খায় গাইরা মুফাক্কিরীনা ফিল মাআদ, অর্থাৎ ফিরে যাওয়ার কথা না ভেবে। আল্লাহ তাঁর সৃষ্টির সামনে নানা প্রমাণ সাজিয়ে রেখেছেন, যেগুলো তাঁর একত্ব আর রাসূলদের সত্যতা চিনিয়ে দেয়। সেগুলো থেকেও তারা শিক্ষা নেয় না। জ্ঞান আর বোঝাপড়া ছাড়াই তারা খায়, তাই তাদের উপমা আল-বাহাইম আল-মুসাখখারা, কাজে খাটানো চতুষ্পদ পশু, খাবার ছাড়া যাদের আর কোনো ভাবনা নেই। মুয়াসসার শেষ কথাটাই আবার বলে: খাওয়া ছাড়া যে পশুর আর কোনো চিন্তা নেই।"
           },
           {
             "en": "Ibn Kathir looks at the manner of eating. They enjoy their worldly life and eat from it ka-akli l-an'am, khadman wa qadman, a pair of words the abridged English renders as munching and gnawing, and laysa lahum himma illa fi dhalik: they have no concern other than that. The abridged English adds the words with greed in parentheses; that is the translator's gloss, and the Arabic fetched here has no such word. What Ibn Kathir's own text stresses is the single concern.",
@@ -257,7 +257,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir then attaches a hadith, with the words wa li-hadha thabata fi s-sahih, and for this reason it is established in the Sahih. In al-Bukhari's wording, hadith 5393, Nafi' said: Ibn 'Umar never used to eat unless a poor man was brought to eat with him. I brought in a man to eat with him, and he ate a great deal, so Ibn 'Umar said: Nafi', do not bring this man in to me; I heard the Prophet ﷺ say: The believer eats in one intestine, and the kafir eats in seven intestines.",
-            "bn": "এরপর ইবন কাসীর একটি হাদীস যুক্ত করেন, এই কথা বলে: ওয়া লিহাযা সাবাতা ফিস সহীহ, আর এ কারণেই সহীহ গ্রন্থে প্রমাণিত হয়েছে। বুখারীর ভাষ্যে, হাদীস ৫৩৯৩, নাফি' বলেন: ইবন উমার (রাঃ) কোনো মিসকীনকে সঙ্গে খেতে না আনা পর্যন্ত খেতেন না। আমি একজন লোককে তাঁর সঙ্গে খাওয়ার জন্য নিয়ে এলাম। সে অনেক খেল। তখন ইবন উমার (রাঃ) বললেন: নাফি', এই লোককে আমার কাছে আর এনো না। আমি নবী ﷺ-কে বলতে শুনেছি: মুমিন খায় একটি নাড়িতে, আর কাফির খায় সাতটি নাড়িতে।"
+            "bn": "এরপর ইবন কাসীর একটি হাদিস জুড়ে দেন, এই কথা বলে: ওয়া লিহাযা সাবাতা ফিস সহীহ, আর এ কারণেই সহীহ গ্রন্থে সাব্যস্ত আছে। বুখারীর শব্দে, হাদিস ৫৩৯৩, নাফি' বলেন: ইবন উমার (রাঃ) কোনো মিসকীনকে সঙ্গে খেতে না আনা পর্যন্ত খেতেন না। আমি একজন লোককে তাঁর সঙ্গে খাওয়ার জন্য নিয়ে এলাম। সে অনেক খেল। তখন ইবন উমার (রাঃ) বললেন: নাফি', এই লোককে আমার কাছে আর এনো না। আমি নবী ﷺ-কে বলতে শুনেছি: মুমিন খায় একটি নাড়িতে, আর কাফির খায় সাতটি নাড়িতে।"
           },
           {
             "en": "Al-Bukhari placed the narration in his Sahih. It is a general saying: it does not mention this verse, and its link to 47:12 is Ibn Kathir's. The English on the hadith page adds glosses in parentheses, satisfied with a little food and eats much food; those are the translator's, not the narration's. The narration does not say who the guest was or what he believed. Neither the verse nor the hadith hands anyone a way to read another person's faith off his plate.",
@@ -289,15 +289,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. At-Tabari identifies alladhina kafaru here as those who denied the oneness of Allah and belied His Messenger ﷺ, and the verse describes what the text describes: a group, its present conduct and its end, with that end stated by Allah about the Day of Recompense. It licenses nothing against any living person or community. It is not a name to call any people, and the likeness to livestock is not an insult to throw at a neighbour of another faith. No reader holds the verdict it announces.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারী এখানে আল্লাযীনা কাফারু বলতে বোঝান তাদের, যারা আল্লাহর একত্ব অস্বীকার করেছে আর তাঁর রাসূল ﷺ-কে মিথ্যা বলেছে। আয়াতটি শুধু সেটুকুই বর্ণনা করে যা পাঠে আছে: একটি দল, তাদের বর্তমান আচরণ আর তাদের পরিণাম। সেই পরিণামের কথা আল্লাহ নিজে বলেছেন প্রতিফলের দিন সম্পর্কে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। এটা কোনো জাতিকে ডাকার নাম নয়, আর পশুর উপমাটাও ভিন্ন ধর্মের প্রতিবেশীর দিকে ছুড়ে মারার গালি নয়। আয়াত যে রায় ঘোষণা করে, তা কোনো পাঠকের হাতে নেই।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারী এখানে আল্লাযীনা কাফারু বলতে বোঝান তাদের, যারা আল্লাহর একত্ব অস্বীকার করেছে আর তাঁর রাসূল ﷺ-কে মিথ্যা বলেছে। আয়াতটি শুধু সেটুকুই বর্ণনা করে যা পাঠে আছে: একটি দল, তাদের বর্তমান আচরণ আর তাদের পরিণাম। সেই পরিণামের কথা আল্লাহ নিজে বলেছেন প্রতিফলের দিন সম্পর্কে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো জাতিকে এ নামে ডাকা চলে না, আর পশুর উপমাটাও ভিন্ন ধর্মের প্রতিবেশীর দিকে ছুড়ে মারার গালি নয়। আয়াত যে রায় ঘোষণা করে, তা কোনো পাঠকের হাতে নেই।"
           },
           {
             "en": "What the verse leaves in the reader's own hands is the other half of the likeness. The believers are described by faith and righteous deeds, not by how little they eat. Yet the things the commentators name as missing in the condemned, at-Tabari's thought of the return and taking lesson from the proofs Allah set out, al-Qurtubi's and al-Baghawi's mindfulness of tomorrow, are things a believer can also let slip at a full table. The unattributed saying they cite puts the choice in three verbs: take provision, adorn, or merely enjoy.",
-            "bn": "আয়াত পাঠকের নিজের হাতে যা রেখে যায়, তা উপমার অন্য দিকটা। মুমিনদের পরিচয় দেওয়া হয়েছে ঈমান আর নেক আমল দিয়ে, কে কত কম খায় তা দিয়ে নয়। তবু নিন্দিতদের মধ্যে যা অনুপস্থিত বলে মুফাসসিরেরা চিনিয়ে দেন, তা একজন মুমিনও ভরা দস্তরখানে বসে হারিয়ে ফেলতে পারে। তাবারীর ভাষায় ফিরে যাওয়ার ভাবনা আর আল্লাহর সাজিয়ে রাখা প্রমাণ থেকে শিক্ষা নেওয়া, কুরতুবী আর বাগাভীর ভাষায় আগামী দিনের খেয়াল। তাঁদের উদ্ধৃত নামহীন উক্তিটি বেছে নেওয়ার বিষয়টা রাখে তিনটি ক্রিয়ায়: পাথেয় নেওয়া, নিজেকে সাজানো, নাকি শুধুই ভোগ করা।"
+            "bn": "আয়াত পাঠকের নিজের হাতে যা রেখে যায়, তা উপমার অন্য দিকটা। মুমিনদের পরিচয় এসেছে ঈমান আর নেক আমল দিয়ে, কে কত কম খায় তা দিয়ে নয়। তবু নিন্দিতদের মধ্যে মুফাসসিরেরা যা নেই বলে চিনিয়ে দেন, তা একজন মুমিনও ভরা দস্তরখানে বসে হারিয়ে ফেলতে পারে। তাবারীর কথায় সেটা ফিরে যাওয়ার ভাবনা আর আল্লাহর সাজিয়ে রাখা প্রমাণ থেকে শিক্ষা নেওয়া; কুরতুবী আর বাগাভীর কথায় আগামী দিনের খেয়াল। তাঁদের উদ্ধৃত নামহীন উক্তিটি বেছে নেওয়ার বিষয়টা তিনটি ক্রিয়ায় সাজিয়ে দেয়: পাথেয় নেওয়া, নিজেকে সাজানো, নাকি শুধুই ভোগ করা।"
           },
           {
             "en": "The preceding verse closed on a protector: Allah is the mawla of those who believe. As-Sa'di read 47:12 as what follows from having that protector or lacking it. The gardens are Allah's doing, an honour, at-Tabari says, for faith. The eating, in every reading fetched here, is the deniers' own, and the fault in it lies in a concern that stops at the meal. A reader who keeps the return in view at the table has taken the verse as it was given, as a warning to heed.",
-            "bn": "এর আগের আয়াত শেষ হয়েছিল অভিভাবকের কথায়: যারা ঈমান আনে আল্লাহ তাদের মাওলা। সা'দী ৪৭:১২ আয়াতকে পড়েছেন সেই অভিভাবক থাকা আর না থাকার ফল হিসেবে। বাগান আল্লাহর দান, তাবারীর ভাষায় ঈমানের সম্মান। আর খাওয়াটা, এখানে পাওয়া প্রতিটি পাঠে, অস্বীকারকারীদের নিজেদের কাজ। তার দোষ এমন এক চিন্তায়, যা খাবারে এসেই থেমে যায়। দস্তরখানে বসেও যে পাঠক ফিরে যাওয়ার কথা মনে রাখে, সে আয়াতটিকে নিয়েছে যেভাবে তা দেওয়া হয়েছে, মেনে চলার মতো এক সতর্কবাণী হিসেবে।"
+            "bn": "এর আগের আয়াত শেষ হয়েছিল অভিভাবকের কথায়: যারা ঈমান আনে আল্লাহ তাদের মাওলা। সা'দী ৪৭:১২ আয়াতকে পড়েছেন সেই অভিভাবক থাকা আর না থাকার ফল হিসেবে। বাগান আল্লাহর দান, তাবারীর ভাষায় ঈমানের সম্মান। আর এখানে পাওয়া প্রতিটি পাঠে খাওয়াটা অস্বীকারকারীদের নিজেদের কাজ। তার দোষ সেই চিন্তায়, যা খাবারে এসেই থেমে যায়। দস্তরখানে বসেও যে পাঠক ফিরে যাওয়ার কথা মনে রাখেন, তিনি আয়াতটিকে সেভাবেই নিয়েছেন যেভাবে তা দেওয়া হয়েছে: মেনে চলার মতো এক সতর্কবাণী হিসেবে।"
           }
         ]
       }
@@ -313,43 +313,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mathal al-jannati allati wu'ida al-muttaqun. Ikrimah glosses mathal here simply as its description. The verse then lays out rivers, fruits and forgiveness before swinging round at the very end to ka-man huwa khalidun fi'n-nar — like one who abides eternally in the Fire. The first term of the comparison is never spoken; Arabic leaves the reader to supply it, which is why translators supply it in brackets.",
-            "bn": "মাসালুল জান্নাতিল্লাতী উ'ইদাল মুত্তাকূন। ইকরিমাহ এখানে 'মাসাল'-এর ব্যাখ্যা করেন সহজভাবে: এর বর্ণনা। এরপর আয়াতটি নদী, ফল ও ক্ষমা সাজিয়ে দেয়, আর একেবারে শেষে গিয়ে ঘুরে দাঁড়ায় 'কামান হুওয়া খালিদুন ফিন্‌নার'-এ — সে কি তার মতো, যে চিরকাল আগুনে থাকবে? তুলনার প্রথম পক্ষটি কখনো উচ্চারিতই হয় না; আরবি তা পাঠকের ওপর ছেড়ে দেয়, আর এ কারণেই অনুবাদকরা তা বন্ধনীর ভেতর জুড়ে দেন।"
+            "bn": "মাসালুল জান্নাতিল্লাতী উ'ইদাল মুত্তাকূন। ইকরিমাহ এখানে 'মাসাল'-এর ব্যাখ্যা দেন সহজভাবে: এর বর্ণনা। এরপর আয়াতটি একে একে নদী, ফল আর ক্ষমার কথা বলে, তারপর একেবারে শেষে মোড় ঘুরিয়ে বলে 'কামান হুওয়া খালিদুন ফিন্‌নার': তার মতো, যে চিরকাল আগুনে থাকবে। তুলনার প্রথম পক্ষটি কোথাও মুখে বলা হয়নি। আরবি সেটা পাঠকের বুঝে নেওয়ার জন্য ছেড়ে দেয়, তাই অনুবাদকেরা বন্ধনীর ভেতরে তা জুড়ে দেন।"
           },
           {
             "en": "The ellipsis is not a hole in the sense. 47:14 has just asked whether one standing on clear evidence from his Lord is like one whose evil deed has been made beautiful to him. 47:16 goes straight on to those who listen to the Prophet ﷺ and then walk out asking what he said just now. The garden verse sits between two portraits of hearers, and it prices the difference between them.",
-            "bn": "এই ঊহ্য অংশটি অর্থের ফাঁক নয়। 47:14 আয়াত ঠিক আগেই জিজ্ঞেস করেছে, যে তার রবের পক্ষ থেকে স্পষ্ট প্রমাণের ওপর দাঁড়িয়ে আছে সে কি তার মতো, যার মন্দ কাজকে তার কাছে সুশোভিত করা হয়েছে? আর 47:16 আয়াত সরাসরি চলে যায় তাদের কথায়, যারা নবী ﷺ-এর কথা শোনে, তারপর বেরিয়ে গিয়ে জিজ্ঞেস করে — তিনি এইমাত্র কী বললেন? জান্নাতের আয়াতটি বসে আছে দুই ধরনের শ্রোতার ছবির মাঝখানে, আর তাদের পার্থক্যের দামটি ধরিয়ে দেয়।"
+            "bn": "এই ঊহ্য অংশটুকু অর্থে কোনো ফাঁক তৈরি করে না। ঠিক আগের আয়াত 47:14 জিজ্ঞেস করেছে: যে তার রবের দেওয়া স্পষ্ট প্রমাণের ওপর আছে, সে কি তার মতো, যার মন্দ কাজ তার চোখে সুন্দর করে দেখানো হয়েছে? আর 47:16 সরাসরি চলে যায় তাদের কথায়, যারা নবী ﷺ-এর কথা শোনে, তারপর বেরিয়ে গিয়ে জিজ্ঞেস করে: তিনি এইমাত্র কী বললেন? জান্নাতের এই আয়াত বসে আছে দুই রকম শ্রোতার ছবির মাঝখানে, আর দুজনের ফারাকের দাম কত, সেটাই বুঝিয়ে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Four Rivers, Four Defects Removed",
-          "bn": "চারটি নদী, চারটি ত্রুটি সরানো"
+          "bn": "চার নদী, চার খুঁত দূর"
         },
         "p": [
           {
             "en": "Count them in the Arabic and there are four, each introduced by anhar: water, milk, wine, honey. What is striking is that each one is qualified by the removal of the exact thing that spoils its counterpart here. Water goes stale, so this water is ghayr asin — Ibn Abbas, al-Hasan and Qatadah gloss asin as changing, while ad-Dahhak and Ata' al-Khurasani gloss it as turning foul in smell.",
-            "bn": "আরবিতে গুনে দেখলে সংখ্যাটি চার, প্রতিটির শুরুতে 'আনহার': পানি, দুধ, মদ ও মধু। লক্ষণীয় হলো, প্রতিটিকেই এমন বিশেষণ দেওয়া হয়েছে যা এখানকার তার সমতুল্য জিনিসটির নষ্ট হওয়ার কারণটিকেই সরিয়ে দেয়। পানি বাসি হয়ে যায়, তাই এই পানি 'গাইরি আসিন' — ইবনে আব্বাস, হাসান ও কাতাদাহ 'আসিন'-এর ব্যাখ্যা করেন 'পরিবর্তিত হওয়া' অর্থে, আর দাহহাক ও আতা আল-খুরাসানী করেন 'গন্ধ নষ্ট হয়ে যাওয়া' অর্থে।"
+            "bn": "আরবিতে গুনলে নদী চারটি, প্রতিটির শুরুতে 'আনহার': পানি, দুধ, মদ আর মধু। লক্ষ করার মতো ব্যাপার হলো, দুনিয়ার পানি, দুধ, মদ বা মধু যে কারণে নষ্ট হয়, প্রতিটির বিশেষণে ঠিক সেই জিনিসটাই বাদ দেওয়া হয়েছে। পানি বাসি হয়ে যায়, তাই এই পানি 'গাইরি আসিন'। ইবনে আব্বাস, হাসান ও কাতাদাহ 'আসিন'-এর অর্থ করেন বদলে যাওয়া, আর দাহহাক ও আতা আল-খুরাসানী করেন গন্ধ নষ্ট হয়ে যাওয়া।"
           },
           {
             "en": "Milk sours, so this milk's taste never changes. Wine harms whoever drinks it, so this is khamr ladhdhatin li'sh-sharibin, a delight to the drinkers, and 37:47 removes the harm by name: no ill effect in it, and no intoxication from it. Honey reaches us mixed with wax and sediment, so this honey is musaffa, clarified. Four familiar pleasures, each with its built-in disappointment taken out.",
-            "bn": "দুধ টকে যায়, তাই এই দুধের স্বাদ কখনো বদলায় না। মদ পানকারীর ক্ষতি করে, তাই এখানে তা 'খামরিন লায্‌যাতিন লিশ-শারিবীন' — পানকারীদের জন্য সুস্বাদু; আর 37:47 আয়াত ক্ষতিটিকে নাম ধরে সরিয়ে দেয়: তাতে কোনো অনিষ্ট নেই, আর তা থেকে তারা মাতালও হবে না। মধু আমাদের কাছে আসে মোম ও তলানির সঙ্গে মিশে, তাই এই মধু 'মুসাফ্‌ফা' — পরিশোধিত। চারটি চেনা উপভোগ, প্রতিটির ভেতরে গেঁথে থাকা হতাশাটুকু বের করে নেওয়া।"
+            "bn": "দুধ টকে যায়, তাই এই দুধের স্বাদ কখনো বদলায় না। মদ পানকারীর ক্ষতি করে, তাই এখানে তা 'খামরিন লায্‌যাতিন লিশ-শারিবীন', পানকারীদের জন্য সুস্বাদু। 37:47 আয়াত ক্ষতিটার নাম ধরেই তা দূর করে: তাতে কোনো অনিষ্ট নেই, আর তা পান করে তারা মাতালও হবে না। মধু আমাদের হাতে আসে মোম আর তলানি মিশে, তাই এই মধু 'মুসাফ্‌ফা', পরিশোধিত। চেনা চারটি আনন্দ, যার প্রতিটির ভেতরে লুকিয়ে থাকা হতাশাটুকু বের করে ফেলা হয়েছে।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Names Are Doing",
-          "bn": "নামগুলো যে কাজ করছে"
+          "bn": "নামগুলোর কাজ কী"
         },
         "p": [
           {
             "en": "At-Tirmidhi records, from Hakim ibn Mu'awiyah from his father, that the Prophet ﷺ said there is in Paradise a sea of water, a sea of honey, a sea of milk and a sea of wine, and that the rivers gush out of them afterwards; at-Tirmidhi graded that report hasan sahih. Alongside it stands the saying reported from Ibn Abbas, that there is nothing of this world in the Hereafter except the names.",
-            "bn": "তিরমিযী বর্ণনা করেন, হাকীম ইবনে মুআবিয়া থেকে, তিনি তাঁর পিতা থেকে, যে নবী ﷺ বলেছেন — জান্নাতে আছে পানির সাগর, মধুর সাগর, দুধের সাগর ও মদের সাগর, আর নদীগুলো পরে সেগুলো থেকেই বেরিয়ে আসে; তিরমিযী বর্ণনাটিকে 'হাসান সহীহ' বলেছেন। এর পাশেই আছে ইবনে আব্বাস থেকে বর্ণিত কথাটি: দুনিয়ার কোনো কিছুই আখিরাতে নেই, নাম ছাড়া।"
+            "bn": "তিরমিযী হাকীম ইবনে মুআবিয়ার সূত্রে তাঁর পিতা থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: জান্নাতে আছে পানির সাগর, মধুর সাগর, দুধের সাগর আর মদের সাগর, তারপর সেগুলো থেকেই নদীগুলো বেরিয়ে আসে। তিরমিযী বর্ণনাটিকে 'হাসান সহীহ' বলেছেন। এর পাশেই আছে ইবনে আব্বাস থেকে বর্ণিত কথাটি: আখিরাতে দুনিয়ার কোনো কিছুই নেই, শুধু নামগুলো ছাড়া।"
           },
           {
             "en": "Both are needed at once. The names are true, or the description would be a deception; and the names are not the things, or the description would be a ceiling. So the four rivers tell you accurately what kind of thing is promised — drink, sweetness, refreshment that does not turn — without letting you conclude that you have already tasted it and found it ordinary.",
-            "bn": "দুটিই একসঙ্গে দরকার। নামগুলো সত্য, নইলে বর্ণনাটি হতো প্রতারণা; আবার নামগুলোই সেই বস্তু নয়, নইলে বর্ণনাটি হতো একটি ছাদ। তাই চারটি নদী তোমাকে নির্ভুলভাবে জানায় কী ধরনের জিনিসের প্রতিশ্রুতি দেওয়া হচ্ছে — পানীয়, মিষ্টতা, এমন সতেজতা যা নষ্ট হয় না — অথচ তোমাকে এই সিদ্ধান্তে পৌঁছতে দেয় না যে তুমি তা আগেই চেখে দেখেছ এবং সাধারণ পেয়েছ।"
+            "bn": "দুটো কথাই একসঙ্গে দরকার। নামগুলো সত্য, নইলে বর্ণনাটা হতো ধোঁকা। আবার নাম আর আসল জিনিস এক নয়, নইলে বর্ণনাটাই হয়ে যেত শেষ সীমা। তাই চার নদী আপনাকে ঠিকঠাক জানিয়ে দেয় কী ধরনের জিনিসের ওয়াদা করা হয়েছে: পানীয়, মিষ্টতা, এমন সতেজতা যা নষ্ট হয় না। অথচ আপনাকে এই সিদ্ধান্তে যেতে দেয় না যে আপনি তা আগেই চেখে দেখেছেন আর সাধারণ বলে পেয়েছেন।"
           }
         ]
       },
@@ -361,11 +361,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "After the rivers and every kind of fruit, the list closes on something that is not a pleasure at all: wa maghfiratun min rabbihim, and forgiveness from their Lord. The Arabic commentaries read it as the covering and passing over of their sins, and call it greater than everything named before it. Nothing on the list can be enjoyed by someone whose account is still open.",
-            "bn": "নদী আর সব রকম ফলের পর তালিকাটি শেষ হয় এমন কিছু দিয়ে যা মোটেই কোনো উপভোগ নয়: 'ওয়া মাগফিরাতুম মির রাব্বিহিম' — আর তাদের রবের পক্ষ থেকে ক্ষমা। আরবি তাফসীরগুলো একে পড়ে তাদের গুনাহ ঢেকে দেওয়া ও মাফ করে দেওয়া অর্থে, আর একে এর আগে উল্লিখিত সবকিছুর চেয়ে বড় বলে। যার হিসাব এখনো খোলা, তালিকার কোনো কিছুই সে উপভোগ করতে পারে না।"
+            "bn": "নদী আর সব রকম ফলের পর তালিকা শেষ হয় এমন একটি জিনিস দিয়ে, যা আদৌ কোনো ভোগের বস্তু নয়: 'ওয়া মাগফিরাতুম মির রাব্বিহিম', আর তাদের রবের পক্ষ থেকে ক্ষমা। আরবি তাফসীরগুলো এর অর্থ করে তাদের গুনাহ ঢেকে দেওয়া আর মাফ করে দেওয়া, আর বলে, এটি আগে বলা সবকিছুর চেয়ে বড়। যার হিসাব এখনো খোলা, তালিকার কোনো কিছুই সে উপভোগ করতে পারে না।"
           },
           {
             "en": "The Quran keeps them in that order elsewhere too. 3:133 tells the believers to race towards forgiveness from their Lord and a garden as wide as the heavens and the earth — forgiveness first, then the garden. And 9:72, having listed gardens with rivers beneath them and goodly dwellings, adds that ridwan from Allah, His approval, is greater than all of it. The gardens are real, and they are not the summit.",
-            "bn": "কুরআন অন্যত্রও এই ক্রমটিই রাখে। 3:133 আয়াত মুমিনদের বলে ছুটে যেতে তাদের রবের ক্ষমার দিকে এবং সেই জান্নাতের দিকে যার বিস্তৃতি আসমানসমূহ ও যমীনের সমান — আগে ক্ষমা, তারপর জান্নাত। আর 9:72 আয়াত নিচে নদী প্রবাহিত জান্নাত ও উত্তম বাসস্থানের তালিকা দেওয়ার পর যোগ করে, আল্লাহর পক্ষ থেকে 'রিদওয়ান' — তাঁর সন্তুষ্টি — এ সবকিছুর চেয়ে বড়। জান্নাত সত্য, আর জান্নাতই শিখর নয়।"
+            "bn": "কুরআন অন্য জায়গাতেও এই ক্রম রাখে। 3:133 আয়াত মুমিনদের ডেকে বলে: তোমরা ছুটে চলো তোমাদের রবের ক্ষমার দিকে আর এমন জান্নাতের দিকে, যার প্রশস্ততা আসমান ও যমীনের সমান। আগে ক্ষমা, তারপর জান্নাত। আর 9:72 আয়াত তলদেশে নদী বয়ে যাওয়া জান্নাত আর উত্তম বাসস্থানের কথা বলার পর যোগ করে: আল্লাহর পক্ষ থেকে 'রিদওয়ান', অর্থাৎ তাঁর সন্তুষ্টি, এ সবকিছুর চেয়ে বড়। জান্নাত সত্য, তবে জান্নাতই সবচেয়ে উঁচু চূড়া নয়।"
           }
         ]
       },
@@ -377,23 +377,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Against four rivers stands a single drink. Ka-man huwa khalidun fi'n-nar wa suqu ma'an hamiman — and they were given scalding water to drink, fa-qatta'a am'a'ahum, so that it cut their intestines to pieces. Qatta'a is the intensive form of the verb; the cutting is not incidental. And suqu is passive: they are given it. Nobody in that half of the verse chooses what he swallows.",
-            "bn": "চারটি নদীর বিপরীতে দাঁড়িয়ে আছে একটিমাত্র পানীয়। 'কামান হুওয়া খালিদুন ফিন্‌নারি ওয়া সুকূ মাআন হামীমা' — আর তাদের পান করানো হয়েছে ফুটন্ত পানি, 'ফাকাত্তাআ আম'আআহুম', যা তাদের নাড়িভুঁড়ি ছিন্নভিন্ন করে দেয়। 'কাত্তাআ' ক্রিয়াপদের নিবিড় রূপ; এই ছিন্ন করা আনুষঙ্গিক কিছু নয়। আর 'সুকূ' কর্মবাচ্য: তাদের পান করানো হয়। আয়াতের ওই অর্ধেকে কেউ নিজে বেছে নেয় না সে কী গিলছে।"
+            "bn": "চার নদীর বিপরীতে একটিমাত্র পানীয়। 'কামান হুওয়া খালিদুন ফিন্‌নারি ওয়া সুকূ মাআন হামীমা': আর তাদের পান করানো হয়েছে ফুটন্ত পানি, 'ফাকাত্তাআ আম'আআহুম', ফলে তা তাদের নাড়িভুঁড়ি টুকরো টুকরো করে দিয়েছে। 'কাত্তাআ' ক্রিয়াটি এসেছে জোরালো রূপে, তাই এই কেটে ফেলা হঠাৎ ঘটে যাওয়া কিছু নয়। আর 'সুকূ' কর্মবাচ্যে: তাদের পান করানো হয়। আয়াতের ওই অর্ধেকে কেউ নিজে বেছে নেয় না, সে কী গিলবে।"
           },
           {
             "en": "The same drink appears elsewhere with the same weight placed on drinking as the image of the whole state. 18:29 says that if they call for relief they are relieved with water like murky oil that scalds the faces. 14:16-17 gives a drink of purulent water, gulped and hardly swallowed. Thirst is the one need that cannot be postponed, and both descriptions concentrate exactly there.",
-            "bn": "একই পানীয় অন্যত্রও আসে, আর সেখানেও গোটা অবস্থার প্রতীক হিসেবে পান করার ওপরই ভর দেওয়া হয়। 18:29 আয়াত বলে, তারা যদি ফরিয়াদ করে তবে তাদের ফরিয়াদের জবাবে দেওয়া হবে গলিত ধাতুর মতো পানি, যা মুখমণ্ডল ঝলসে দেয়। 14:16-17 আয়াতে আছে পুঁজের মতো পানীয়, যা ঢোঁক গিলে নেওয়া হয় অথচ প্রায় গলা দিয়ে নামে না। তৃষ্ণাই একমাত্র প্রয়োজন যা পিছিয়ে দেওয়া যায় না, আর দুটি বর্ণনাই ঠিক সেখানেই মনোযোগ কেন্দ্রীভূত করে।"
+            "bn": "একই পানীয় অন্য জায়গাতেও এসেছে, আর সেখানেও পুরো অবস্থার ছবি আঁকা হয়েছে পান করার ভেতর দিয়েই। 18:29 আয়াত বলে, তারা পানি চেয়ে ফরিয়াদ করলে তাদের দেওয়া হবে তেলের গাদের মতো ঘোলা পানি, যা মুখ ঝলসে দেয়। 14:16-17 আয়াতে আছে পুঁজ-মেশানো পানি, যা তারা ঢোক ঢোক করে গিলবে অথচ গলা দিয়ে নামাতে পারবে না বললেই চলে। তৃষ্ণাই সেই একমাত্র প্রয়োজন, যা ফেলে রাখা যায় না, আর দুটি বর্ণনাই ঠিক সেখানেই নজর রাখে।"
           }
         ]
       },
       {
         "h": {
           "en": "Weighing It Now",
-          "bn": "এখনই ওজন করা"
+          "bn": "আজই মেপে দেখা"
         },
         "p": [
           {
             "en": "The verse works by comparison, so the reflection it asks for is comparative: not pleasure against pain, but what a pleasure here arrives bundled with against what these are promised without. Everything you enjoy today has its own asin built in — the milk that will turn, the taste that dulls, the good day that ends. That is no reason to despise it: the four rivers are named after four things already familiar to us here. It is a reason to spend part of today on the one item that is not a pleasure at all, asking for the forgiveness the verse places last and the commentators call greatest.",
-            "bn": "আয়াতটি কাজ করে তুলনার মাধ্যমে, তাই এটি যে চিন্তা দাবি করে তাও তুলনামূলক: আনন্দ বনাম যন্ত্রণা নয়, বরং এখানকার একটি উপভোগের সঙ্গে যা যা বাঁধা থাকে আর ওখানকার প্রতিশ্রুত জিনিসগুলো যা ছাড়া দেওয়া হয়েছে — এই দুইয়ের তুলনা। আজ তুমি যা কিছু উপভোগ করো তার প্রতিটির ভেতরেই নিজস্ব একটি 'আসিন' গাঁথা আছে — যে দুধ টকে যাবে, যে স্বাদ ভোঁতা হয়ে আসে, যে ভালো দিনটি ফুরিয়ে যায়। এটি তাকে তুচ্ছ করার কারণ নয়: চারটি নদীর নামকরণ হয়েছে এখানকার চেনা চারটি জিনিসের নামেই। এটি বরং কারণ এই যে, আজকের কিছুটা সময় ব্যয় করতে হবে সেই একটিমাত্র জিনিসের জন্য যা মোটেই উপভোগ নয় — সেই ক্ষমা চাওয়ার জন্য, যাকে আয়াত রেখেছে সবার শেষে আর মুফাসসিরগণ বলেছেন সবার বড়।"
+            "bn": "আয়াতটি চলে তুলনার পথে, তাই এর কাছ থেকে যে চিন্তা আশা করা হয় সেটাও তুলনা। আনন্দ আর কষ্টের তুলনা নয়। তুলনাটা হলো, এখানকার একটি আনন্দ যা যা সঙ্গে নিয়ে আসে, আর ওখানকার প্রতিশ্রুত জিনিসগুলো যা ছাড়াই আসবে। আজ আপনি যা কিছু উপভোগ করেন, তার প্রতিটির ভেতরেই নিজের একটা 'আসিন' লুকিয়ে আছে: যে দুধ টকে যাবে, যে স্বাদ ফিকে হয়ে আসে, যে সুন্দর দিনটা ফুরিয়ে যায়। তাই বলে সেগুলোকে তুচ্ছ করার কিছু নেই; চার নদীর নাম তো আমাদের চেনা চারটি জিনিসের নামেই। বরং এ থেকে শিক্ষা হলো, আজকের সময়ের কিছুটা রাখুন সেই একটি জিনিসের জন্য, যা আদৌ কোনো ভোগ নয়: সেই ক্ষমা চেয়ে নেওয়ার জন্য, যাকে আয়াত রেখেছে সবার শেষে আর মুফাসসিরেরা বলেছেন সবচেয়ে বড়।"
           }
         ]
       }
@@ -409,27 +409,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The question does not arrive out of nowhere. In 47:20 it is the believers who ask why a surah has not been sent down; but when a decisive surah is revealed and fighting is mentioned in it, you see those in whose hearts is disease looking at the Prophet ﷺ like one overcome by death. 47:22 then puts a question to them directly: would you, if you turned away, cause corruption on the earth and sever your ties of kinship? 47:23 gives the verdict — those are the ones Allah has cursed, so He deafened them and blinded their sight.",
-            "bn": "প্রশ্নটি শূন্য থেকে আসে না। 47:20 আয়াতে মুমিনরাই জিজ্ঞেস করে, কেন কোনো সূরা নাযিল হয় না; কিন্তু যখন সুস্পষ্ট এক সূরা নাযিল হয় আর তাতে যুদ্ধের উল্লেখ থাকে, তখন যাদের অন্তরে রোগ আছে তুমি তাদের দেখবে নবী ﷺ-এর দিকে এমনভাবে তাকাতে যেমন মৃত্যুভয়ে জ্ঞান হারানো মানুষ তাকায়। এরপর 47:22 সরাসরি তাদেরই প্রশ্ন করে: তোমরা মুখ ফিরিয়ে নিলে কি যমীনে বিপর্যয় ঘটাবে আর তোমাদের আত্মীয়তার বন্ধন ছিন্ন করবে? 47:23 রায় দেয় — এরাই তারা যাদের আল্লাহ অভিশাপ দিয়েছেন, ফলে তিনি তাদের বধির করেছেন ও তাদের দৃষ্টি অন্ধ করেছেন।"
+            "bn": "প্রশ্নটি হঠাৎ করে আসেনি। 47:20 আয়াতে মুমিনরাই জিজ্ঞেস করে, কেন কোনো সূরা নাজিল হচ্ছে না। কিন্তু যখন সুস্পষ্ট এক সূরা নাজিল হয় আর তাতে যুদ্ধের কথা থাকে, তখন তুমি দেখবে, যাদের অন্তরে রোগ আছে তারা নবী ﷺ-এর দিকে এমনভাবে তাকায়, যেন মৃত্যুর ঘোরে বেহুঁশ কেউ তাকাচ্ছে। এরপর 47:22 সরাসরি তাদেরই প্রশ্ন করে: তোমরা যদি মুখ ফিরিয়ে নাও, তবে কি তোমরা যমীনে বিপর্যয় ঘটাবে আর আত্মীয়তার বন্ধন ছিন্ন করবে? 47:23 রায় শুনিয়ে দেয়: এরাই তারা, যাদের আল্লাহ লানত করেছেন, ফলে তিনি তাদের বধির করেছেন আর তাদের দৃষ্টি অন্ধ করে দিয়েছেন।"
           },
           {
             "en": "Only then comes the question: then do they not reflect upon the Quran, or are there locks upon hearts? So it does not land on humanity at large; it lands on a group the passage has already described in detail. Deafness and blindness were named a verse earlier; this verse moves further in and names the door itself. And 47:25 continues in the same direction, describing those who turned back after guidance had become clear to them.",
-            "bn": "কেবল তখনই আসে প্রশ্নটি: তারা কি কুরআন নিয়ে গভীরভাবে চিন্তা করে না, নাকি অন্তরগুলোর ওপর তালা লাগানো? তাই এটি গোটা মানবজাতির ওপর গিয়ে পড়ে না; এটি গিয়ে পড়ে এমন একটি দলের ওপর, যাদের এই অংশ ইতিমধ্যেই বিস্তারিতভাবে বর্ণনা করেছে। বধিরতা ও অন্ধত্বের নাম এক আয়াত আগেই নেওয়া হয়েছে; এই আয়াত আরও ভেতরে গিয়ে দরজাটিরই নাম নেয়। আর 47:25 একই দিকে এগিয়ে যায়, বর্ণনা করে তাদের কথা যারা হিদায়াত স্পষ্ট হওয়ার পরেও পিছু ফিরে গেছে।"
+            "bn": "কেবল তার পরেই আসে প্রশ্নটি: তারা কি কুরআন নিয়ে গভীরভাবে ভাবে না, নাকি অন্তরগুলোতে তালা লাগানো? তাই প্রশ্নটা গোটা মানবজাতির ওপর গিয়ে পড়ে না। পড়ে এমন এক দলের ওপর, যাদের কথা এই অংশে আগেই বিস্তারিত বলা হয়েছে। বধিরতা আর অন্ধত্বের কথা এক আয়াত আগেই এসেছে; এই আয়াত আরও ভেতরে ঢুকে খোদ দরজাটার নাম নেয়। আর 47:25 একই দিকে এগোয়, তাদের কথা বলে, যারা হিদায়াত স্পষ্ট হওয়ার পরও পিছু ফিরে গেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Not the Same as 4:82",
-          "bn": "4:82 আয়াতের মতো এক নয়"
+          "bn": "4:82 আয়াতের সঙ্গে এক নয়"
         },
         "p": [
           {
             "en": "Word for word, the opening here is the opening of 4:82 — afala yatadabbaruna al-Quran. The second halves then part company completely. 4:82 turns outward to the Book and offers a test: had it come from other than Allah, they would have found much contradiction in it. This verse turns inward to the listener and offers a diagnosis. One asks what the Quran is; the other asks what you are.",
-            "bn": "শব্দে শব্দে এখানকার সূচনা হলো 4:82 আয়াতেরই সূচনা — আফালা ইয়াতাদাব্বারূনাল কুরআন। এরপর দুটির দ্বিতীয়ার্ধ সম্পূর্ণ আলাদা পথে চলে যায়। 4:82 বাইরের দিকে, কিতাবের দিকে ফেরে এবং একটি পরীক্ষা দেয়: এটি আল্লাহ ছাড়া অন্য কারও কাছ থেকে এলে তারা এতে বহু অসঙ্গতি পেত। আর এই আয়াত ভেতরের দিকে, শ্রোতার দিকে ফেরে এবং একটি রোগনির্ণয় দেয়। একটি জিজ্ঞেস করে কুরআন কী; অন্যটি জিজ্ঞেস করে তুমি কী।"
+            "bn": "শব্দে শব্দে এখানকার শুরুটা 4:82 আয়াতের শুরুর মতোই: আফালা ইয়াতাদাব্বারূনাল কুরআন। এরপর দুই আয়াতের দ্বিতীয় অর্ধেক পুরোপুরি আলাদা পথ ধরে। 4:82 তাকায় বাইরের দিকে, কিতাবের দিকে, আর একটা পরীক্ষার কথা বলে: এটি যদি আল্লাহ ছাড়া অন্য কারও কাছ থেকে আসত, তবে তারা এতে অনেক অসঙ্গতি পেত। আর এই আয়াত তাকায় ভেতরের দিকে, শ্রোতার দিকে, আর তার রোগ ধরিয়ে দেয়। একটি জিজ্ঞেস করে, কুরআন কী; অন্যটি জিজ্ঞেস করে, আপনি কী।"
           },
           {
             "en": "That is why the two are not a repetition. Between them they cover the whole failure: a Book that will survive any scrutiny brought to it, and a heart that never brings any. The first claim anyone can verify by reading. The second cannot be verified by reading at all — it is verified by watching what the reading does to you afterwards.",
-            "bn": "এ কারণেই দুটি আয়াত পুনরাবৃত্তি নয়। দুটি মিলে পুরো ব্যর্থতাটিকেই ঢেকে ফেলে: এমন এক কিতাব যা তার ওপর আনা যেকোনো যাচাই সহ্য করবে, আর এমন এক অন্তর যা কোনো যাচাই কখনো নিয়েই আসে না। প্রথম দাবিটি যে কেউ পড়ে যাচাই করতে পারে। দ্বিতীয়টি পড়ে যাচাই করাই যায় না — তা যাচাই হয় সেই পড়া পরে আপনার ভেতরে কী করে তা লক্ষ করে।"
+            "bn": "এ কারণেই দুটি আয়াত একই কথার পুনরাবৃত্তি নয়। দুটো মিলে পুরো ব্যর্থতার ছবিটাই তুলে ধরে: এমন এক কিতাব, যাকে যত যাচাই করা হোক টিকে যাবে, আর এমন এক অন্তর, যে কখনো যাচাই করতেই বসে না। প্রথম দাবিটা যে কেউ পড়ে যাচাই করতে পারেন। দ্বিতীয়টা পড়ে যাচাই করা যায় না একেবারেই। তা যাচাই হয় পড়ার পরে সেই পড়া আপনার ভেতরে কী করে, তা দেখে।"
           }
         ]
       },
@@ -441,11 +441,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is seven words in Arabic: afala yatadabbaruna al-Qur'ana am ala qulubin aqfaluha. Two details in the second half do a great deal of work. Qulubin is indefinite — upon hearts, some hearts — not upon the hearts of humanity in general. The rebuke is aimed rather than universal, which leaves the door standing open for everyone it does not describe.",
-            "bn": "আয়াতটি আরবিতে সাতটি শব্দ: আফালা ইয়াতাদাব্বারূনাল কুরআনা আম আলা কুলূবিন আকফালুহা। দ্বিতীয়ার্ধের দুটি খুঁটিনাটি অনেকখানি কাজ করে। কুলূবিন শব্দটি নাকিরা বা অনির্দিষ্ট — কিছু অন্তরের ওপর — গোটা মানবজাতির অন্তরের ওপর নয়। তিরস্কারটি লক্ষ্যভেদী, সর্বজনীন নয়, ফলে যাদের এটি বর্ণনা করছে না তাদের সবার জন্য দরজা খোলাই থেকে যায়।"
+            "bn": "আরবিতে আয়াতটি সাত শব্দের: আফালা ইয়াতাদাব্বারূনাল কুরআনা আম আলা কুলূবিন আকফালুহা। দ্বিতীয় অর্ধেকের দুটি ছোট খুঁটিনাটির ওপর অনেক কিছু দাঁড়িয়ে আছে। কুলূবিন শব্দটি নাকিরা, অর্থাৎ অনির্দিষ্ট: কিছু অন্তরের ওপর, গোটা মানবজাতির অন্তরের ওপর নয়। তিরস্কারটা নির্দিষ্ট লক্ষ্যে ছোড়া, সবার জন্য নয়। ফলে যাদের কথা এখানে বলা হয়নি, তাদের সবার জন্য দরজা খোলাই থাকে।"
           },
           {
             "en": "The second detail is the pronoun. Aqfaluha is not simply locks; it is their locks, the locks belonging to those hearts. The fastening is not foreign hardware bolted on by somebody else. It is theirs, fitted to them, and matched to the door it closes. That single suffix is the difference between a misfortune and a verdict.",
-            "bn": "দ্বিতীয় খুঁটিনাটি হলো সর্বনামটি। আকফালুহা মানে কেবল 'তালা' নয়; এর অর্থ 'তাদের তালা', অর্থাৎ সেই অন্তরগুলোরই তালা। এই বন্ধনী বাইরে থেকে অন্য কারও লাগিয়ে দেওয়া কোনো যন্ত্র নয়। এটি তাদেরই, তাদের মাপেই বানানো, আর যে দরজা বন্ধ করছে তার সাথেই মেলানো। এই একটি প্রত্যয়ই দুর্ভাগ্য আর রায়ের মধ্যেকার পার্থক্য।"
+            "bn": "দ্বিতীয় খুঁটিনাটি হলো সর্বনামটি। আকফালুহা মানে শুধু 'তালা' নয়, 'তাদের তালা', অর্থাৎ ওই অন্তরগুলোরই নিজের তালা। এই তালা বাইরে থেকে অন্য কেউ এনে লাগিয়ে দেয়নি। তালাটা তাদেরই, তাদের মাপে গড়া, যে দরজা বন্ধ করে আছে তার সঙ্গেই মেলানো। দুর্ভাগ্য আর রায়ের মধ্যে তফাতটা গড়ে দেয় এই একটি প্রত্যয়।"
           }
         ]
       },
@@ -457,39 +457,39 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran has more than one image for a closed heart, and they are not interchangeable. 2:7 speaks of a seal set upon hearts and hearing. 63:3 says the hearts of a group were sealed over because they believed and then disbelieved. 18:57 places coverings over hearts lest they understand it. 83:14 names a stain that has covered hearts from what they were earning.",
-            "bn": "বন্ধ অন্তরের জন্য কুরআনে একাধিক চিত্রকল্প আছে, আর সেগুলো একটির বদলে অন্যটি বসানো যায় না। 2:7 অন্তর ও শ্রবণের ওপর মোহর লাগানোর কথা বলে। 63:3 বলে, একটি দলের অন্তরে মোহর মেরে দেওয়া হয়েছে, কারণ তারা ঈমান এনেছিল তারপর কুফরি করেছে। 18:57 অন্তরের ওপর আবরণ রেখে দেয়, যাতে তারা তা না বোঝে। 83:14 এমন এক কলঙ্কের নাম নেয় যা তাদের উপার্জনের কারণে তাদের অন্তর ঢেকে ফেলেছে।"
+            "bn": "বন্ধ অন্তর বোঝাতে কুরআন একাধিক ছবি ব্যবহার করে, আর সেগুলো একটার জায়গায় আরেকটা বসানো যায় না। 2:7 অন্তর আর কানের ওপর মোহরের কথা বলে। 63:3 বলে, একটি দলের অন্তরে মোহর মেরে দেওয়া হয়েছে, কারণ তারা ঈমান এনে তারপর কুফরি করেছে। 18:57 অন্তরের ওপর পর্দার কথা বলে, যাতে তারা তা বুঝতে না পারে। 83:14 এমন এক কলঙ্কের নাম নেয়, যা তারা যা কামাই করত তার কারণে তাদের অন্তর ঢেকে ফেলেছে।"
           },
           {
             "en": "A lock is the gentlest of these images and the most pointed. Seals and coverings suggest something laid on from outside; a lock is fitted to a door that was built to open, and it is normally fitted by whoever holds the key. 83:14 supplies the mechanism plainly — the covering came from what they were earning. Hearts close by deeds, one deed at a time.",
-            "bn": "এই চিত্রকল্পগুলোর মধ্যে তালা সবচেয়ে কোমল, আর সবচেয়ে তীক্ষ্ণও। মোহর ও আবরণ বাইরে থেকে চাপিয়ে দেওয়া কিছুর ইঙ্গিত দেয়; কিন্তু তালা লাগানো হয় এমন এক দরজায় যা খোলার জন্যই বানানো হয়েছিল, আর সাধারণত তা লাগায় সেই ব্যক্তি যার হাতে চাবি। 83:14 কার্যপদ্ধতিটি স্পষ্ট করে দেয় — আবরণটি এসেছে তাদের উপার্জন থেকে। অন্তর বন্ধ হয় আমলের মাধ্যমে, একটি একটি করে।"
+            "bn": "এই ছবিগুলোর মধ্যে তালা সবচেয়ে কোমল, আবার সবচেয়ে তীক্ষ্ণও। মোহর আর পর্দা শুনলে মনে হয় বাইরে থেকে চাপানো কিছু। কিন্তু তালা লাগানো হয় এমন দরজায়, যা খোলার জন্যই বানানো, আর সাধারণত তা লাগায় সে, যার হাতে চাবি। 83:14 পুরো ব্যাপারটা খোলাখুলি বলে দেয়: আবরণটা এসেছে তারা যা কামাই করত তা থেকে। অন্তর বন্ধ হয় আমলের পথ ধরে, একটা একটা আমল করে।"
           }
         ]
       },
       {
         "h": {
           "en": "How a Heart Closes",
-          "bn": "একটি অন্তর কীভাবে বন্ধ হয়"
+          "bn": "অন্তর যেভাবে বন্ধ হয়"
         },
         "p": [
           {
             "en": "Muslim narrates from Hudhayfah ibn al-Yaman (RA) that trials are presented to hearts as a reed mat is woven, stick by stick. A heart that soaks one up is marked with a black spot; a heart that rejects it is marked with a white one, until hearts end up as two kinds — one white, which no trial harms while the heavens and the earth last, and one black and overturned, recognising no good and rejecting no evil except what its own desire has absorbed.",
-            "bn": "মুসলিম হুযাইফা ইবনুল ইয়ামান (রাঃ) থেকে বর্ণনা করেন, ফিতনা অন্তরের সামনে এমনভাবে পেশ করা হয় যেভাবে চাটাই বোনা হয়, একটি একটি কাঠি করে। যে অন্তর তা শুষে নেয় তাতে একটি কালো দাগ পড়ে; আর যে অন্তর তা প্রত্যাখ্যান করে তাতে একটি সাদা দাগ পড়ে — শেষ পর্যন্ত অন্তর দুই রকম হয়ে দাঁড়ায়: একটি সাদা, আসমান ও যমীন যতদিন আছে কোনো ফিতনা যাকে ক্ষতি করবে না; আর একটি কালো ও উল্টানো, যা কোনো ভালোকে চেনে না আর কোনো মন্দকে প্রত্যাখ্যান করে না, কেবল তার নিজের প্রবৃত্তি যা শুষে নিয়েছে তা ছাড়া।"
+            "bn": "মুসলিম হুযাইফা ইবনুল ইয়ামান (রাঃ) থেকে বর্ণনা করেন: চাটাই যেমন একটা একটা কাঠি দিয়ে বোনা হয়, ফিতনাও তেমনি অন্তরের সামনে একটার পর একটা পেশ করা হয়। যে অন্তর তা শুষে নেয়, তাতে একটি কালো দাগ পড়ে। যে অন্তর তা ফিরিয়ে দেয়, তাতে পড়ে একটি সাদা দাগ। এভাবে শেষে অন্তর হয়ে যায় দুই রকম। একটি সাদা, আসমান ও যমীন যতদিন আছে, কোনো ফিতনা তার ক্ষতি করতে পারবে না। আরেকটি কালো ও উল্টানো, যা কোনো ভালোকে চেনে না আর কোনো মন্দকে প্রত্যাখ্যান করে না, শুধু নিজের প্রবৃত্তি যা শুষে নিয়েছে তা ছাড়া।"
           },
           {
             "en": "That is this verse described from the inside. Nobody is locked in a single day. The mat is woven stick by stick, and reading that never becomes reflection is one of the sticks — Quran heard so often that it stops being heard at all. as-Sa'di puts it starkly: hearts that opened themselves to denial and heedlessness then shut, and good no longer finds a way in.",
-            "bn": "এটিই এই আয়াতের ভেতর থেকে দেখা বর্ণনা। কেউ একদিনে তালাবদ্ধ হয় না। চাটাই বোনা হয় একটি একটি কাঠি করে, আর যে পাঠ কখনো চিন্তায় পরিণত হয় না সেটিও একটি কাঠি — এত বেশি শোনা কুরআন যে তা আর শোনাই হয় না। আস-সা'দী কথাটি নির্দয়ভাবে বলেন: যে অন্তরগুলো নিজেদের অস্বীকার ও উদাসীনতার জন্য খুলে দিয়েছিল, সেগুলোই এরপর বন্ধ হয়ে যায়, আর কল্যাণ আর ভেতরে ঢোকার পথ পায় না।"
+            "bn": "ভেতর থেকে দেখলে এই আয়াতের ছবি এটাই। কেউ এক দিনে তালাবদ্ধ হয় না। চাটাই বোনা হয় একটা একটা কাঠি দিয়ে, আর যে পড়া কখনো চিন্তায় গড়ায় না, সেটাও একটা কাঠি: কুরআন এত বেশি শোনা যে তা আর কানেই ঢোকে না। আস-সা'দী কথাটা খুব কড়া করে বলেন: যে অন্তরগুলো অস্বীকার আর গাফলতির জন্য নিজেদের খুলে দিয়েছিল, পরে সেগুলো বন্ধ হয়ে যায়, আর কল্যাণ ভেতরে ঢোকার পথ পায় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Answering the Question",
-          "bn": "প্রশ্নটির জবাব দেওয়া"
+          "bn": "প্রশ্নের জবাব"
         },
         "p": [
           {
             "en": "The verse is a question, and a question is meant to be answered by the one it is put to. It has a usable form: when did I last stop at a verse and stay there? The honest answer is information, not condemnation. Locks come undone from the inside, and 39:23 describes what an open heart does when the Book is recited to it — skins that shiver, then skins and hearts that relax at the remembrance of Allah. That is a test anyone can run tonight.",
-            "bn": "আয়াতটি একটি প্রশ্ন, আর প্রশ্নের জবাব দেওয়ার কথা তারই, যাকে তা করা হয়েছে। এর একটি ব্যবহারযোগ্য রূপ আছে: শেষ কবে আমি একটি আয়াতে থেমে সেখানে কিছুক্ষণ ছিলাম? সৎ জবাবটি তথ্য, ভর্ৎসনা নয়। তালা খোলে ভেতর থেকে, আর 39:23 বর্ণনা করে খোলা অন্তর কী করে যখন তার সামনে কিতাব তিলাওয়াত করা হয় — চামড়া শিউরে ওঠে, তারপর চামড়া ও অন্তর আল্লাহর স্মরণে কোমল হয়। এটি এমন এক পরীক্ষা, যা যে কেউ আজ রাতেই চালিয়ে দেখতে পারে।"
+            "bn": "আয়াতটি একটি প্রশ্ন, আর প্রশ্নের জবাব দেওয়ার কথা তারই, যাকে প্রশ্নটা করা হয়েছে। কাজে লাগানোর মতো করে প্রশ্নটা এভাবে করা যায়: শেষ কবে আমি একটা আয়াতে থেমে কিছুক্ষণ সেখানেই ছিলাম? সৎ জবাবটা কেবল একটা তথ্য, ভর্ৎসনা নয়। তালা খোলে ভেতর থেকে। খোলা অন্তরের সামনে কিতাব তিলাওয়াত হলে সে কী করে, 39:23 তা বলে দেয়: গায়ের চামড়া শিউরে ওঠে, তারপর চামড়া আর অন্তর আল্লাহর জিকিরে নরম হয়ে আসে। এ পরীক্ষা যে কেউ আজ রাতেই করে দেখতে পারেন।"
           }
         ]
       }
@@ -509,7 +509,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "47:30 closes on wa-llahu ya'lamu a'malakum, and Allah knows your deeds, and 47:31 keeps that second person: wa-la-nabluwannakum, and We will surely test you. At-Tabari says the words are addressed to the people of faith among the Companions of the Messenger of Allah ﷺ: you, O believers. The verb is sealed with emphasis, which is why translations reach for surely. In eight Arabic words the verse stops describing the hypocrites and turns to the people who are listening, the believers themselves.",
-            "bn": "৪৭:৩০ শেষ হয় ওয়াল্লাহু ইয়া'লামু আ'মালাকুম দিয়ে: আল্লাহ তোমাদের আমল জানেন। ৪৭:৩১ সেই 'তোমাদের' ধরে রেখেই বলে: ওয়া লানাবলুওয়ান্নাকুম, আমি অবশ্যই তোমাদের পরীক্ষা করব। তাবারী বলেন, কথাগুলো রাসূলুল্লাহ ﷺ-এর সাহাবিদের মধ্যে যারা ঈমানদার, তাদের উদ্দেশে: হে মুমিনগণ, তোমাদের। ক্রিয়াটিতে জোর দেওয়া হয়েছে পাকাপাকিভাবে, তাই অনুবাদে আসে 'অবশ্যই'। আরবীতে মাত্র ৮টি শব্দে আয়াতটি মুনাফিকদের বিবরণ থেকে সরে আসে। চোখ ফেরায় যারা শুনছে তাদের দিকে, অর্থাৎ মুমিনদের নিজেদের দিকে।"
+            "bn": "৪৭:৩০ শেষ হয় ওয়াল্লাহু ইয়া'লামু আ'মালাকুম দিয়ে: আল্লাহ তোমাদের আমল জানেন। ৪৭:৩১ সেই 'তোমাদের' ধরে রেখেই বলে: ওয়া লানাবলুওয়ান্নাকুম, আমি অবশ্যই তোমাদের পরীক্ষা করব। তাবারী বলেন, কথাগুলো রাসূলুল্লাহ ﷺ-এর সাহাবিদের মধ্যে যারা ঈমানদার, তাদের উদ্দেশে: হে মুমিনগণ, তোমাদের। ক্রিয়াটির শেষে জোরের চিহ্ন জুড়ে দেওয়া আছে, তাই অনুবাদে আসে 'অবশ্যই'। আরবিতে মাত্র ৮টি শব্দে আয়াতটি মুনাফিকদের বিবরণ থেকে সরে আসে। চোখ ফেরায় যারা শুনছে তাদের দিকে, অর্থাৎ মুমিনদের নিজেদের দিকে।"
           }
         ]
       },
@@ -525,7 +525,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's gloss is brief: We will test you with commands and prohibitions. As-Sa'di says We test your faith and your patience, and he introduces the verse with a sentence of his own: Allah then mentions the greatest trial by which He tries His servants, striving in His way. Al-Qurtubi's first wording already meets the question that the next words raise, because in it the test is set by One who already knows the outcomes. The commentators take that question up directly at hatta na'lama.",
-            "bn": "ইবন কাসীরের ব্যাখ্যা সংক্ষিপ্ত: আদেশ আর নিষেধ দিয়ে আমি তোমাদের পরীক্ষা করব। সা'দী বলেন, আমি তোমাদের ঈমান আর ধৈর্য যাচাই করব। আয়াতের আগে তিনি নিজের একটি বাক্য জুড়ে দেন: এরপর আল্লাহ সেই সবচেয়ে বড় পরীক্ষার কথা বলছেন, যা দিয়ে তিনি বান্দাদের যাচাই করেন, আর তা হলো তাঁর পথে জিহাদ। পরের শব্দগুলো যে প্রশ্ন তোলে, কুরতুবীর প্রথম ব্যাখ্যাতেই তার মুখোমুখি হওয়া যায়। সেখানে পরীক্ষা নিচ্ছেন এমন একজন, যিনি পরিণাম আগে থেকেই জানেন। হাত্তা না'লামা শব্দে পৌঁছে তাফসীরকারেরা প্রশ্নটা সরাসরি হাতে নেন।"
+            "bn": "ইবন কাসীরের ব্যাখ্যা সংক্ষিপ্ত: আদেশ আর নিষেধ দিয়ে আমি তোমাদের পরীক্ষা করব। সা'দী বলেন, আমি তোমাদের ঈমান আর ধৈর্য যাচাই করব। আয়াতের আগে তিনি নিজের একটি বাক্য জুড়ে দেন: এরপর আল্লাহ সেই সবচেয়ে বড় পরীক্ষার কথা বলছেন, যা দিয়ে তিনি বান্দাদের যাচাই করেন, আর তা হলো তাঁর পথে জিহাদ। পরের শব্দগুলো যে প্রশ্ন তোলে, কুরতুবীর প্রথম ব্যাখ্যা আগেই তার জবাব দিয়ে রাখে, কারণ সেখানে পরীক্ষা নিচ্ছেন এমন একজন, যিনি পরিণাম আগে থেকেই জানেন। হাত্তা না'লামা পর্যন্ত এসে তাফসীরকারেরা প্রশ্নটা সরাসরি তোলেন।"
           }
         ]
       },
@@ -552,7 +552,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Those Who Strive, and the Patient",
-          "bn": "মুজাহিদ আর ধৈর্যশীল কারা"
+          "bn": "জিহাদকারী আর ধৈর্যশীল"
         },
         "p": [
           {
