@@ -561,15 +561,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari renders mulk as sultan, sovereign authority over the seven heavens and the earth, and at once turns it into an argument. The authority is His, he says, and not that of what you claim as His partner and worship besides Him. The gods and rivals you call on are themselves inside His dominion, and His rule runs over them. How then can something in that position be His partner? And how can you worship it, and leave the worship of Him who owns you and owns what you worship as well?",
-            "bn": "তাবারী মুলক শব্দের অর্থ করেন সুলতান, অর্থাৎ সাতটি আসমান ও জমিনের উপর সার্বভৌম কর্তৃত্ব। তারপর সঙ্গে সঙ্গেই সেটাকে যুক্তিতে পরিণত করেন। তিনি বলেন, এ কর্তৃত্ব আল্লাহর, তোমরা যাকে তাঁর শরিক বলে দাবি করো আর তাঁকে ছেড়ে যার ইবাদত করো, তার নয়। যেসব উপাস্য আর প্রতিদ্বন্দ্বীকে তোমরা ডাকো, তারা নিজেরাই তাঁর রাজত্বের ভেতরে, তাদের উপরও তাঁর হুকুম চলে। তাহলে এমন অবস্থানের কেউ কীভাবে তাঁর শরিক হয়? আর যিনি তোমাদের মালিক, তোমাদের উপাস্যদেরও মালিক, তাঁর ইবাদত ছেড়ে তোমরা কীভাবে ওদের ইবাদত করো?"
+            "bn": "তাবারী মুলক শব্দের অর্থ করেন সুলতান, অর্থাৎ সাত আসমান ও জমিনের উপর সার্বভৌম কর্তৃত্ব। তারপর সঙ্গে সঙ্গেই এ থেকে যুক্তি দাঁড় করান। তিনি বলেন, এ কর্তৃত্ব আল্লাহর। তোমরা যাকে তাঁর শরিক বলে দাবি করো, তাঁকে ছেড়ে যার ইবাদত করো, এ কর্তৃত্ব তার নয়। যেসব উপাস্য আর প্রতিদ্বন্দ্বীকে তোমরা ডাকো, তারা নিজেরাই তাঁর রাজত্বের ভেতরে, তাদের উপরও তাঁর হুকুম চলে। তাহলে এমন অবস্থানের কেউ কীভাবে তাঁর শরিক হয়? আর যিনি তোমাদের মালিক, তোমাদের উপাস্যদেরও মালিক, তাঁর ইবাদত ছেড়ে তোমরা কীভাবে ওদের ইবাদত করো?"
           },
           {
             "en": "The others keep to description. Al-Qurtubi qualifies the dominion with two words: in creation and in ownership, khalqan wa mulkan. The Muyassar adds a third: the seven heavens and the earth are His in creation, ownership and servitude, 'ubudiyya. Ibn Kathir, as quoted above, has Him as owner and as ruler in both worlds. As-Sa'di speaks of the breadth of His dominion and of His being alone in disposing of affairs and managing them at all times.",
-            "bn": "বাকিরা বর্ণনার মধ্যেই থাকেন। কুরতুবী রাজত্বের সঙ্গে দুটি শব্দ জোড়েন: খালকান ওয়া মুলকান, সৃষ্টি হিসেবে আর মালিকানা হিসেবে। মুয়াসসার যোগ করে তৃতীয়টি। তার ভাষায় সাতটি আসমান ও জমিন আল্লাহর সৃষ্টি, তাঁর মালিকানা, আর তাঁর দাসত্বে বাঁধা, যাকে বলা হয় উবূদিয়্যা। ইবন কাসীর, আগেই যেমন এসেছে, তাঁকে মালিক ও দুই জগতের শাসক বলেন। সা'দী বলেন তাঁর রাজত্বের ব্যাপকতার কথা, আর সব সময় সব কিছুর পরিচালনা ও ব্যবস্থাপনায় তিনি যে একা, সে কথা।"
+            "bn": "বাকিরা শুধু বর্ণনা দিয়েই থামেন। কুরতুবী রাজত্বের সঙ্গে দুটি শব্দ জোড়েন: খালকান ওয়া মুলকান, সৃষ্টি হিসেবে আর মালিকানা হিসেবে। মুয়াসসার যোগ করে তৃতীয়টি। তার ভাষায় সাত আসমান ও জমিন আল্লাহর সৃষ্টি, তাঁর মালিকানা, আর সবই তাঁর বন্দেগিতে নিয়োজিত, যাকে বলে উবূদিয়্যা। ইবন কাসীরের কথা আগেই এসেছে: তাঁর ভাষায় আল্লাহ দুই জগতেরই মালিক ও শাসক। সা'দী বলেন তাঁর রাজত্বের ব্যাপকতার কথা, আর সব সময় সব কিছুর পরিচালনা ও ব্যবস্থাপনায় তিনি যে একা, সে কথা।"
           },
           {
             "en": "These are differences of emphasis, and they are worth keeping apart. At-Tabari reads the clause as a refutation aimed at those who give Allah partners. Al-Qurtubi and the Muyassar list the ways in which things belong to Him. Ibn Kathir and as-Sa'di stress rule across time, Ibn Kathir carrying it explicitly into the Hereafter. None of the fetched texts ranks one reading over another, and this article does not rank them either.",
-            "bn": "পার্থক্যগুলো জোরের জায়গায়, আর এগুলো আলাদা করে রাখাই ভালো। তাবারী বাক্যটিকে পড়েন আল্লাহর সঙ্গে শরিককারীদের বিরুদ্ধে খণ্ডন হিসেবে। কুরতুবী ও মুয়াসসার গুনে দেখান কোন কোন দিক থেকে সবকিছু তাঁর। ইবন কাসীর ও সা'দী জোর দেন সময়জুড়ে তাঁর শাসনের উপর, আর ইবন কাসীর সেটাকে স্পষ্ট করে আখিরাত পর্যন্ত টেনে নেন। সংগৃহীত কোনো তাফসীর একটি পাঠকে অন্যটির উপরে রাখে না। এ লেখাও রাখছে না।"
+            "bn": "পার্থক্যগুলো আসলে জোর কোথায় পড়ছে, তার। তবু এগুলো আলাদা করে বুঝে রাখা দরকার। তাবারী বাক্যটিকে পড়েন আল্লাহর সঙ্গে শরিককারীদের বিরুদ্ধে খণ্ডন হিসেবে। কুরতুবী ও মুয়াসসার গুনে দেখান কোন কোন দিক থেকে সবকিছু তাঁর। ইবন কাসীর ও সা'দী জোর দেন সব কালে তাঁর শাসনের উপর, আর ইবন কাসীর সেটাকে স্পষ্ট করে আখিরাত পর্যন্ত টেনে নেন। সংগৃহীত কোনো তাফসীর একটি পাঠকে অন্যটির উপরে রাখে না। এ লেখাও রাখছে না।"
           }
         ]
       },
@@ -581,7 +581,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic names the day twice: wa yawma taqumu as-sa'atu, and on the Day the Hour is established, then yawma'idhin, on that Day. Al-Qurtubi explains the structure. The first yawm is in the accusative, governed by yakhsaru, will lose, and yawma'idhin is either a repetition for emphasis or a substitute for the first, a badal. He then records a second view under the words it was said: that the sense is and His is the dominion on the Day the Hour is established, with yakhsaru governing yawma'idhin.",
-            "bn": "আরবিতে দিনটির নাম আসে দুবার। প্রথমে ওয়া ইয়াওমা তাকূমুস সা'আহ, যেদিন কিয়ামত কায়েম হবে। তারপর ইয়াওমাইযিন, সেদিন। কুরতুবী গঠনটা ব্যাখ্যা করেন। তাঁর মতে প্রথম ইয়াওম শব্দটি মানসূব, তাকে নিয়ন্ত্রণ করছে ইয়াখসারু, অর্থাৎ ক্ষতিগ্রস্ত হবে। আর ইয়াওমাইযিন হয় জোর দেওয়ার জন্য পুনরাবৃত্তি, নয়তো প্রথমটির বদল। এরপর 'বলা হয়েছে' কথাটি দিয়ে তিনি দ্বিতীয় একটি মত আনেন। সেই মতে অর্থ দাঁড়ায়: যেদিন কিয়ামত কায়েম হবে, সেদিনের রাজত্বও তাঁরই। তখন ইয়াখসারু নিয়ন্ত্রণ করে শুধু ইয়াওমাইযিনকে।"
+            "bn": "আরবিতে দিনটির নাম আসে দুবার। প্রথমে ওয়া ইয়াওমা তাকূমুস সা'আহ, যেদিন কিয়ামত কায়েম হবে। তারপর ইয়াওমাইযিন, সেদিন। কুরতুবী গঠনটা ব্যাখ্যা করেন। তাঁর মতে প্রথম ইয়াওম শব্দটি মানসূব, তাকে নিয়ন্ত্রণ করছে ইয়াখসারু, অর্থাৎ ক্ষতিগ্রস্ত হবে। আর ইয়াওমাইযিন হয় জোর দেওয়ার জন্য পুনরাবৃত্তি, নয়তো প্রথমটির বদল। এরপর 'বলা হয়েছে' কথাটি দিয়ে তিনি দ্বিতীয় একটি মত আনেন। সেই মতে অর্থ দাঁড়ায়: যেদিন কিয়ামত কায়েম হবে, সেদিনের রাজত্বও তাঁরই। তখন ইয়াখসারু নিয়ন্ত্রণ করে ইয়াওমাইযিনকে।"
           },
           {
             "en": "On the first construction the verse makes two statements, one about dominion and one about loss, and the doubled day presses the second home. On the second, the Day itself falls within what belongs to Allah, and the loss is then announced for it. Al-Qurtubi gives the first as his own analysis and reports the second without endorsing or rejecting it. Both are kept here as he gives them.",
@@ -601,7 +601,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are al-mubtilun? Ibn Kathir answers in one line: they are those who disbelieve in Allah and reject what He sent down to His messengers of clear signs and evident proofs. His English abridgement keeps the same definition, rendering the word as the followers of falsehood. The Muyassar uses almost the same words, with one change: what is rejected was sent down to His Messenger, in the singular. On this reading the mubtil is defined by what he refuses: proofs that were plain and were put in front of him.",
-            "bn": "আল-মুবতিলূন কারা? ইবন কাসীর এক লাইনে উত্তর দেন: যারা আল্লাহকে অস্বীকার করে, আর তিনি তাঁর রাসূলদের কাছে যে সুস্পষ্ট নিদর্শন ও পরিষ্কার প্রমাণ নাযিল করেছেন তা প্রত্যাখ্যান করে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণেও একই সংজ্ঞা, সেখানে শব্দটির অনুবাদ বাতিলের অনুসারী। মুয়াসসারও প্রায় একই কথা বলে, শুধু একটি জায়গায় বদল: যা প্রত্যাখ্যাত হয়েছে তা নাযিল হয়েছে তাঁর রাসূলের কাছে, একবচনে। এ পাঠে মুবতিলের পরিচয় তার প্রত্যাখ্যান দিয়ে। প্রমাণ ছিল স্পষ্ট, তার সামনেই রাখা হয়েছিল, তবু সে ফিরিয়ে দিয়েছে।"
+            "bn": "আল-মুবতিলূন কারা? ইবন কাসীর এক কথায় উত্তর দেন: যারা আল্লাহকে অস্বীকার করে, আর তিনি তাঁর রাসূলদের কাছে যে সুস্পষ্ট নিদর্শন ও পরিষ্কার প্রমাণ নাজিল করেছেন তা প্রত্যাখ্যান করে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণেও একই সংজ্ঞা, সেখানে শব্দটির অনুবাদ বাতিলের অনুসারী। মুয়াসসারও প্রায় একই কথা বলে, বদল শুধু এক জায়গায়: তার ভাষায় প্রমাণগুলো নাজিল হয়েছে তাঁর রাসূলের কাছে, একবচনে। এ পাঠে মুবতিলের পরিচয় তার প্রত্যাখ্যান দিয়ে। প্রমাণ ছিল স্পষ্ট, তার সামনেই রাখা হয়েছিল, তবু সে ফিরিয়ে দিয়েছে।"
           },
           {
             "en": "At-Tabari defines the word by speech and worship. The mubtilun are those who dealt in falsehood in this world in their words, in their claim that Allah has a partner, and in their worship of gods besides Him. This ties the end of the verse to its beginning in his own reading, where the dominion clause was already an argument against such partners. For at-Tabari the falsehood is specific: the false word spoken about Allah, and the worship that follows from it.",
@@ -609,7 +609,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di defines them by purpose and by result. They are those who came with falsehood, al-batil, in order to refute the truth with it, and whose deeds were batila, void, because those deeds were attached to falsehood, so on the Day of Resurrection they batalat, came to nothing. Al-Baghawi is briefest: the disbelievers who are ashab al-abatil, people of falsehoods. So four portraits: the rejecter of proofs, the speaker of a false claim about Allah, whoever argues against the truth, and the holder of falsehoods. The texts set them side by side, and so does this article.",
-            "bn": "সা'দী সংজ্ঞা দেন উদ্দেশ্য ও পরিণতি দিয়ে। তারা বাতিল নিয়ে এসেছিল সত্যকে খণ্ডন করার জন্য। তাদের আমলও ছিল বাতিলা, অর্থাৎ অসার, কারণ সেগুলোর ভিত্তি ছিল বাতিলের উপর। তাই কিয়ামতের দিন সেগুলো বাতালাত, অর্থাৎ নিষ্ফল হয়ে গেল। বাগাভী সবচেয়ে সংক্ষেপে বলেন: কাফেররা, যারা আসহাবুল আবাতীল, বাতিলের ধারক। তাহলে চারটি ছবি পাওয়া গেল: প্রমাণ প্রত্যাখ্যানকারী, আল্লাহ সম্পর্কে মিথ্যা দাবির বক্তা, সত্যের বিরুদ্ধে তর্ককারী, আর বাতিলের ধারক। তাফসীরগুলো এদের পাশাপাশি রাখে, এ লেখাও তাই রাখছে।"
+            "bn": "সা'দী সংজ্ঞা দেন উদ্দেশ্য ও পরিণতি দিয়ে। তারা বাতিল নিয়ে এসেছিল সত্যকে খণ্ডন করার জন্য। তাদের আমলও ছিল বাতিলা, অর্থাৎ অসার, কারণ সেগুলোর ভিত্তি ছিল বাতিলের উপর। তাই কিয়ামতের দিন সেগুলো বাতালাত, অর্থাৎ নিষ্ফল হয়ে গেল। বাগাভী সবচেয়ে সংক্ষেপে বলেন: কাফেররা, যারা আসহাবুল আবাতীল, বাতিলের ধারক। তাহলে চারটি ছবি পাওয়া গেল: যে প্রমাণ ফিরিয়ে দেয়, যে আল্লাহ সম্পর্কে মিথ্যা দাবি করে, যে সত্যের বিরুদ্ধে তর্ক করে, আর যে বাতিল আঁকড়ে থাকে। তাফসীরগুলো এদের পাশাপাশি রাখে, এ লেখাও তাই রাখছে।"
           }
         ]
       },
@@ -636,16 +636,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question Put to a Jester",
-          "bn": "রসিকতাকারীর প্রতি এক প্রশ্ন"
+          "bn": "এক রসিককে করা প্রশ্ন"
         },
         "p": [
           {
             "en": "Ibn Kathir closes his comment with a report he takes from Ibn Abi Hatim. Sufyan ath-Thawri came to Madinah and heard al-Ma'afiri saying some of the things that people are made to laugh at. He said to him: O shaykh, do you not know that Allah has a day on which the people of falsehood will lose? The narrator adds that it remained recognizable in al-Ma'afiri until he went to meet Allah, Mighty and Majestic. The text does not say exactly what remained, whether the effect of the words or a changed manner.",
-            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন ইবন আবী হাতিম থেকে নেওয়া একটি বর্ণনা দিয়ে। সুফিয়ান সাওরী মদীনায় এলেন। সেখানে শুনলেন, মাআফিরী এমন কিছু কথা বলছেন যা দিয়ে লোকদের হাসানো হয়। তিনি তাঁকে বললেন: হে শায়খ, আপনি কি জানেন না, আল্লাহর এমন এক দিন আছে যেদিন বাতিলপন্থীরা ক্ষতিগ্রস্ত হবে? বর্ণনাকারী যোগ করেন, মহান আল্লাহর সঙ্গে মিলিত হওয়া পর্যন্ত মাআফিরীর মধ্যে তা চেনা যেত। ঠিক কী চেনা যেত, কথাটার প্রভাব নাকি বদলে যাওয়া আচরণ, পাঠে তা বলা নেই।"
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন ইবন আবী হাতিম থেকে নেওয়া একটি বর্ণনা দিয়ে। সুফিয়ান সাওরী মদীনায় এলেন। সেখানে শুনলেন, মাআফিরী লোক-হাসানো কিছু কথা বলছেন। তিনি তাঁকে বললেন: হে শায়খ, আপনি কি জানেন না, আল্লাহর এমন এক দিন আছে যেদিন বাতিলপন্থীরা ক্ষতিগ্রস্ত হবে? বর্ণনাকারী যোগ করেন, মহান আল্লাহর সঙ্গে মিলিত হওয়া পর্যন্ত মাআফিরীর মধ্যে তা চেনা যেত। ঠিক কী চেনা যেত, কথাটার প্রভাব নাকি বদলে যাওয়া আচরণ, পাঠে তা বলা নেই।"
           },
           {
             "en": "Two things should be clear about this report. It is about later figures, not a saying of the Prophet ﷺ, and Ibn Kathir gives it with only the words Ibn Abi Hatim mentioned it, with no chain quoted and no grading. His English abridgement omits it. It is told here exactly as far as that text goes. As for hadith, none of the commentaries fetched for this verse attaches a hadith to it, so none is cited here.",
-            "bn": "এ বর্ণনা সম্পর্কে দুটি কথা পরিষ্কার থাকা দরকার। এটি পরবর্তী যুগের মানুষদের ঘটনা, নবী ﷺ-এর বাণী নয়। ইবন কাসীর একে এনেছেন শুধু এই কথা বলে যে ইবন আবী হাতিম এটি উল্লেখ করেছেন। কোনো সনদ উদ্ধৃত করেননি, কোনো মানও দেননি। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণে বর্ণনাটি নেই। এখানে তা বলা হলো ঠিক ততটুকুই, যতটুকু ওই পাঠে আছে। আর হাদীসের কথা বললে, এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো হাদীস উদ্ধৃত হলো না।"
+            "bn": "এ বর্ণনা সম্পর্কে দুটি কথা পরিষ্কার থাকা দরকার। এটি পরবর্তী যুগের মানুষদের ঘটনা, নবী ﷺ-এর বাণী নয়। ইবন কাসীর এটি এনেছেন শুধু এটুকু বলে যে ইবন আবী হাতিম এটি উল্লেখ করেছেন। কোনো সনদ উদ্ধৃত করেননি, এর মান নিয়েও কিছু বলেননি। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণে বর্ণনাটি নেই। এখানে তা বলা হলো ঠিক ততটুকুই, যতটুকু ওই পাঠে আছে। আর হাদিসের ব্যাপারে: এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদিস জোড়েনি। তাই এখানে কোনো হাদিস উদ্ধৃত হলো না।"
           }
         ]
       },
@@ -661,7 +661,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Notice also where the verse places the loss: on the Day the Hour is established, and in the dominion of Allah. The judgement belongs to the one who owns the heavens and the earth, and the time of it is that Day. Nothing in the fetched commentaries turns the verse into a warrant for one person to declare another lost now. The surah goes on to describe that Day further in the verses that follow, which are left to their own pages.",
-            "bn": "এটাও খেয়াল করুন, আয়াত ক্ষতিটাকে কোথায় রাখে: যেদিন কিয়ামত কায়েম হবে সেদিনে, আর আল্লাহর রাজত্বের ভেতরে। ফয়সালা তাঁর, যিনি আকাশ ও জমিনের মালিক, আর তার সময় সেই দিন। সংগৃহীত কোনো তাফসীর এ আয়াতকে এমন ছাড়পত্র বানায় না, যা দিয়ে একজন মানুষ আরেকজনকে এখনই ক্ষতিগ্রস্ত ঘোষণা করতে পারে। সূরাটি পরের আয়াতগুলোতে সেই দিনের আরও বর্ণনা দেয়। সেগুলো তাদের নিজেদের পাতার জন্য রাখা থাকল।"
+            "bn": "এটাও খেয়াল করুন, আয়াত ক্ষতিটাকে কোথায় রাখে: যেদিন কিয়ামত কায়েম হবে সেদিনে, আর আল্লাহর রাজত্বের ভেতরে। ফয়সালা তাঁর, যিনি আকাশ ও জমিনের মালিক, আর তার সময় সেই দিন। সংগৃহীত কোনো তাফসীর এ আয়াতকে এমন ছাড়পত্র বানায় না, যা দিয়ে একজন মানুষ আরেকজনকে এখনই ক্ষতিগ্রস্ত ঘোষণা করতে পারে। সূরাটি পরের আয়াতগুলোতে সেই দিনের আরও বর্ণনা দেয়। সেগুলোর আলোচনা তাদের নিজ নিজ পাতায়।"
           }
         ]
       },
@@ -673,7 +673,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Turned inward, the verse asks a reader to weigh what he stands on. Each of the four portraits has a quieter form in an ordinary life: a clear reminder heard and set aside, a claim repeated because it is convenient rather than true, an argument pressed against something one knows to be right, a falsehood held because letting go of it would cost something. The commentators speak of the deniers; the reader who wants to benefit asks where his own words have drifted the same way.",
-            "bn": "নিজের দিকে ফেরালে আয়াতটি পাঠককে জিজ্ঞেস করে, সে কিসের উপর দাঁড়িয়ে আছে। চারটি ছবির প্রতিটিরই সাধারণ জীবনে এক নিচু স্বরের রূপ আছে। স্পষ্ট উপদেশ শুনেও পাশে সরিয়ে রাখা। সত্য বলে নয়, সুবিধাজনক বলে কোনো দাবি বারবার বলা। যা সঠিক বলে জানি, তার বিরুদ্ধেই তর্ক চালিয়ে যাওয়া। ছাড়তে গেলে কিছু হারাতে হবে বলে কোনো মিথ্যা আঁকড়ে থাকা। মুফাসসিররা কথা বলেছেন অস্বীকারকারীদের নিয়ে। যে পাঠক উপকৃত হতে চায়, সে খোঁজে তার নিজের কথা কোথায় একই দিকে সরে গেছে।"
+            "bn": "নিজের দিকে ফেরালে আয়াতটি পাঠককে জিজ্ঞেস করে, সে কিসের উপর দাঁড়িয়ে আছে। চারটি ছবিরই সাধারণ জীবনে একটা চুপচাপ, ছোট রূপ আছে। স্পষ্ট উপদেশ শুনেও পাশে সরিয়ে রাখা। সত্য বলে নয়, সুবিধাজনক বলে কোনো দাবি বারবার বলা। যা সঠিক বলে জানি, তার বিরুদ্ধেই তর্ক চালিয়ে যাওয়া। ছাড়তে গেলে কিছু হারাতে হবে বলে কোনো মিথ্যা আঁকড়ে থাকা। মুফাসসিররা কথা বলেছেন অস্বীকারকারীদের নিয়ে। যে পাঠক উপকার পেতে চান, তিনি খুঁজে দেখেন, তাঁর নিজের কথাও কোথায় সেই দিকে সরে গেছে।"
           },
           {
             "en": "The verse also places that weighing inside a larger fact. The heavens and the earth already belong to Allah; nothing a person owns or argues for sits outside that. Sufyan ath-Thawri's question to al-Ma'afiri, as Ibn Kathir reports it, used this verse to stop a man in the middle of his talk. A reader can put the same question to himself before he speaks, jokes or defends a position: will this still stand on the Day when whatever rests on falsehood is lost?",
@@ -749,7 +749,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gives the clause a narrower paraphrase: we do not know what the Hour is, hal hiya haqqun am batil, whether it is true or false. Ibn Kathir reads it as la na'rifuha, we do not know it, and the abridged English renders this as we do not recognise what you are talking about. The emphasis differs, with at-Tabari stressing denial and al-Qurtubi an uncertainty over true or false, and the two are left here side by side. The verse itself places the speakers among those whom 45:31 calls arrogant when the verses were recited.",
-            "bn": "কুরতুবী অংশটির অর্থ করেন আরও সীমিতভাবে: কিয়ামত কী আমরা জানি না, হাল হিয়া হাক্কুন আম বাতিল, তা সত্য না মিথ্যা। ইবন কাসীর পড়েন লা না'রিফুহা, আমরা তা চিনি না। সংক্ষিপ্ত ইংরেজি ভাষ্যে কথাটা দাঁড়ায়: তোমরা কী বলছ, আমরা তা বুঝি না। জোরটা পড়েছে দুই জায়গায়। তাবারী জোর দেন অস্বীকারের উপর, আর কুরতুবী সত্য-মিথ্যা নিয়ে অনিশ্চয়তার উপর। দুটো পাঠই এখানে পাশাপাশি রাখা হলো। তবে আয়াতটি নিজেই এই বক্তাদের রেখেছে তাদের মধ্যে, যাদের সামনে আয়াত পাঠ করা হলে তারা অহংকার করেছিল বলে ৪৫:৩১ জানায়।"
+            "bn": "কুরতুবী অংশটির অর্থ করেন আরও সীমিতভাবে: কিয়ামত কী আমরা জানি না, হাল হিয়া হাক্কুন আম বাতিল, তা সত্য না মিথ্যা। ইবন কাসীর পড়েন লা না'রিফুহা, আমরা তা চিনি না। সংক্ষিপ্ত ইংরেজি ভাষ্যে কথাটা দাঁড়ায়: তোমরা কী বলছ, আমরা তা বুঝি না। জোরটা পড়েছে দুই জায়গায়। তাবারী জোর দেন অস্বীকারের উপর, আর কুরতুবী সত্য-মিথ্যা নিয়ে অনিশ্চয়তার উপর। দুটো পাঠই এখানে পাশাপাশি রাখা হলো। আয়াত নিজে এই বক্তাদের যে দলে রাখে, তাদের কথা ৪৫:৩১ জানিয়েছে: আয়াত পাঠ করে শোনানো হলে তারা অহংকার করেছিল।"
           }
         ]
       },
@@ -765,7 +765,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second of these turns the word back on those who spoke to them: the certainty of those who told them would itself be only a guess. Al-Qurtubi records it without preferring it, and he gives no ranking among the three. At-Tabari does not discuss the construction at all; he paraphrases it plainly: and you said, we do not suppose that the Hour is coming, except as a supposition. The Arabic is kept here as the commentators give it, with no further theory of the grammar added in this article's own voice.",
-            "bn": "এর দ্বিতীয় ব্যাখ্যাটি কথাটাকে ঘুরিয়ে দেয় তাদের দিকে, যারা কথাটা বলেছিল: যারা তাদের বলেছিল, তাদের নিশ্চয়তাও নাকি আন্দাজ মাত্র। কুরতুবী একে উল্লেখ করেন, অগ্রাধিকার দেন না। তিনটির মধ্যে কোনটি আগে, সে বিচারও তিনি করেন না। তাবারী গঠন নিয়ে কোনো আলোচনাই করেন না। তিনি সোজা অর্থ বলে দেন: তোমরা বলেছিলে, কিয়ামত আসবে, এমন ধারণা আমরা আন্দাজ হিসেবেই করি। তাফসীরকারেরা আরবিটা যেভাবে দিয়েছেন, এখানে সেভাবেই রাখা হলো। এ লেখা নিজের পক্ষ থেকে ব্যাকরণের নতুন কোনো তত্ত্ব যোগ করেনি।"
+            "bn": "দ্বিতীয় ব্যাখ্যায় কথাটা ঘুরে যায় তাদের দিকে, যারা এদের কিয়ামতের কথা বলেছিল: সেই বক্তাদের নিশ্চয়তাও নাকি আন্দাজ মাত্র। কুরতুবী একে উল্লেখ করেন, অগ্রাধিকার দেন না। তিনটির মধ্যে কোনটি আগে, সে বিচারও তিনি করেন না। তাবারী গঠন নিয়ে কোনো আলোচনাই করেন না। তিনি সোজা অর্থ বলে দেন: তোমরা বলেছিলে, কিয়ামত আসবে, এ ধারণা আমরা আন্দাজের বেশি কিছু করি না। তাফসীরকারেরা আরবিটা যেভাবে দিয়েছেন, এখানে সেভাবেই রাখা হলো। এ লেখা নিজের পক্ষ থেকে ব্যাকরণের নতুন কোনো তত্ত্ব যোগ করেনি।"
           },
           {
             "en": "Others gloss the weight of the guess. Ibn Kathir explains it as in natawahhamu wuqu'aha illa tawahhuman, we only fancy that it will happen, and adds: marjuhan, a likelihood outweighed. The abridged English puts it as we only remotely think that it might come. Al-Baghawi says they knew it only hadsan wa tawahhuman, by guesswork and fancy, and the Muyassar likewise says they expected its occurrence only as a fancy. On these glosses the supposition was not a leaning towards belief. It was a possibility they ranked as the less likely.",
@@ -789,7 +789,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verses on either side carry the rest. The loss of the people of falsehood on the Day the Hour comes was announced in 45:27, and what becomes of these speakers after this exchange is the subject of the verses that follow, which this article leaves to them. This verse holds a single moment: words they once said, returned to them in a place where no one can call the Hour a guess any longer.",
-            "bn": "বাকি কথা বহন করে আগে-পরের আয়াতগুলো। কিয়ামতের দিন মিথ্যার অনুসারীরা যে ক্ষতিগ্রস্ত হবে, সে ঘোষণা এসেছে ৪৫:২৭ আয়াতে। আর এ কথোপকথনের পর এই বক্তাদের কী হয়, তা পরের আয়াতগুলোর বিষয়। এ লেখা সেটা সেগুলোর জন্যই রেখে দিল। এ আয়াত ধরে রাখে একটিমাত্র মুহূর্ত: তারা একদিন যে কথা বলেছিল, তা তাদের কাছে ফিরে এসেছে এমন জায়গায়, যেখানে কিয়ামতকে আর কেউ আন্দাজ বলতে পারে না।"
+            "bn": "বাকি কথা আছে আগে-পরের আয়াতগুলোতে। কিয়ামতের দিন বাতিলপন্থীরা যে ক্ষতিগ্রস্ত হবে, সে ঘোষণা এসেছে ৪৫:২৭ আয়াতে। আর এ কথোপকথনের পর এই বক্তাদের কী হয়, তা পরের আয়াতগুলোর বিষয়। সে আলোচনা সেখানেই থাকল। এ আয়াত ধরে রাখে একটিমাত্র মুহূর্ত: তারা একদিন যে কথা বলেছিল, তা তাদের কাছে ফিরে এসেছে এমন জায়গায়, যেখানে কিয়ামতকে আর কেউ আন্দাজ বলতে পারে না।"
           }
         ]
       },
@@ -817,7 +817,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What can a believer take from words spoken by others? At-Tabari's paraphrase points the way: the announcement that there is no doubt about the Hour came with a summons to fear Allah, to believe, and to work for what saves. Certainty, on that reading, is meant to show in conduct. A person may affirm the Hour sincerely and still live a week as if it were a remote possibility. The verse invites an honest look at that gap, in oneself first, without turning the look outward onto others.",
-            "bn": "অন্যদের মুখের কথা থেকে একজন মুমিন কী নেবেন? তাবারীর ব্যাখ্যা পথ দেখায়। কিয়ামতে কোনো সন্দেহ নেই, এই ঘোষণার সঙ্গে এসেছিল ডাক: আল্লাহকে ভয় করো, ঈমান আনো, আর এমন আমল করো যা বাঁচাবে। এই পাঠে নিশ্চিত বিশ্বাসের প্রকাশ ঘটার কথা কাজে। মানুষ আন্তরিকভাবে কিয়ামত মেনেও গোটা একটা সপ্তাহ কাটিয়ে দিতে পারে এমনভাবে, যেন তা দূরের কোনো সম্ভাবনা। আয়াতটি সেই ফাঁকটার দিকে সৎভাবে তাকাতে ডাকে, আগে নিজের ভেতরে, অন্যের দিকে আঙুল না তুলে।"
+            "bn": "অন্যদের মুখের কথা থেকে একজন মুমিন কী নেবেন? তাবারীর ব্যাখ্যা পথ দেখায়। কিয়ামতে কোনো সন্দেহ নেই, এই ঘোষণার সঙ্গে এসেছিল ডাক: আল্লাহকে ভয় করো, ঈমান আনো, আর এমন আমল করো যা বাঁচাবে। এই পাঠে ইয়াকিন ধরা পড়ার কথা মানুষের কাজে। মানুষ আন্তরিকভাবে কিয়ামত মেনেও গোটা একটা সপ্তাহ কাটিয়ে দিতে পারে এমনভাবে, যেন তা দূরের কোনো সম্ভাবনা। আয়াতটি সেই ফাঁকটার দিকে সৎভাবে তাকাতে ডাকে, আগে নিজের ভেতরে, অন্যের দিকে আঙুল না তুলে।"
           },
           {
             "en": "Some practical steps follow from the verse's own vocabulary. Notice where the word perhaps has crept into how you think of the Day, and set against it what was announced: Allah's promise is true. Bring the questions you carry to learning, to people of knowledge and to prayer, instead of letting them settle into a convenient guess. And test a single plan this week against certainty: if the Hour were as sure as tomorrow's morning, would this choice still stand? That is a mirror held up to the reader, and to nobody else.",
