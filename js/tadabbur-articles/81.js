@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Idha ash-shamsu kuwwirat: when the sun is wound up. The verse is three Arabic words: idha, when; ash-shamsu, the sun; and kuwwirat, a passive verb whose doer is not named. It opens Surat at-Takwir, and the surah's name is the verbal noun of that very verb, takwir; Ibn Kathir heads his commentary Tafsir Surat at-Takwir. Al-Qurtubi records that the surah is Makkan in the view of all the scholars, and that it has 29 verses, a count that matches the text.",
-            "bn": "ইযাশ শামসু কুওভিরাত: যখন সূর্যকে গুটিয়ে নেওয়া হবে। আরবিতে আয়াতটি মাত্র তিনটি শব্দ। ইযা মানে যখন, আশ-শামসু মানে সূর্য, আর কুওভিরাত একটি কর্মবাচ্য ক্রিয়া, যার কর্তার নাম বলা হয়নি। এ আয়াত দিয়েই সূরা আত-তাকভীর শুরু, আর সূরার নামটাও ওই ক্রিয়ারই মূল রূপ, তাকভীর। ইবন কাসীর তাঁর আলোচনার শিরোনাম দেন তাফসীরু সূরাতিত তাকভীর। কুরতুবী লেখেন, সব আলেমের কথাতেই সূরাটি মাক্কী, আর এর আয়াত ২৯টি। পাঠের সঙ্গে এ সংখ্যা মিলে যায়।"
+            "bn": "ইযাশ শামসু কুওভিরাত: যখন সূর্যকে গুটিয়ে নেওয়া হবে। আরবিতে আয়াতটি মাত্র তিনটি শব্দ। ইযা মানে যখন, আশ-শামসু মানে সূর্য, আর কুওভিরাত একটি কর্মবাচ্য ক্রিয়া, যার কর্তার নাম বলা হয়নি। এ আয়াত দিয়েই সূরা আত-তাকভীর শুরু, আর সূরার নামটাও ওই ক্রিয়ারই মাসদার (ক্রিয়াবাচক বিশেষ্য): তাকভীর। ইবন কাসীর তাঁর আলোচনার শিরোনাম দেন তাফসীরু সূরাতিত তাকভীর। কুরতুবী লেখেন, সব আলেমের কথাতেই সূরাটি মক্কী, আর এর আয়াত ২৯টি। পাঠের সঙ্গে এ সংখ্যা মিলে যায়।"
           },
           {
             "en": "A sentence that begins with idha promises more to come. When, and then what? The verse gives the condition and stops. The next verse, 81:2, adds another when, this time about the stars, and the surah keeps adding before it says what follows. This article stays with the sun alone, as the verse does, and leaves each later clause to its own entry. What the commentators reported about this first image is enough to fill the space.",
-            "bn": "ইযা দিয়ে যে বাক্য শুরু হয়, সে আরও কিছুর কথা দিয়ে রাখে। যখন এটা হবে, তখন কী? আয়াতটি শর্তটুকু বলে থেমে যায়। পরের আয়াত ৮১:২ আরেকটি যখন যোগ করে, এবার তারকাদের নিয়ে। এভাবে সূরা একের পর এক যোগ করে চলে, তারপর বলে এর পরিণাম কী। এ লেখা আয়াতের মতোই শুধু সূর্যের কাছে থাকবে। পরের প্রতিটি অংশ তার নিজের আলোচনার জন্য রইল। প্রথম এই ছবিটি নিয়ে তাফসীরকারেরা যা বর্ণনা করেছেন, জায়গা ভরাতে সেটুকুই যথেষ্ট।"
+            "bn": "ইযা দিয়ে যে বাক্য শুরু হয়, তা জানিয়ে দেয়, সামনে আরও কথা আসছে। যখন এটা হবে, তখন কী? আয়াতটি শর্তটুকু বলে থেমে যায়। পরের আয়াত ৮১:২ আরেকটি যখন যোগ করে, এবার তারকাদের নিয়ে। এভাবে সূরা একের পর এক যোগ করে চলে, তারপর বলে এর পরিণাম কী। এ লেখাও আয়াতের মতো শুধু সূর্যের কথাতেই থাকবে। পরের প্রতিটি অংশের আলোচনা তার নিজের জায়গায়। প্রথম এই ছবিটি নিয়ে তাফসীরকারেরা যা বর্ণনা করেছেন, এ লেখার জন্য সেটুকুই যথেষ্ট।"
           }
         ]
       },
@@ -64,7 +64,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Cast Down and Overturned",
-          "bn": "নিক্ষিপ্ত, উল্টে ফেলা"
+          "bn": "ছুড়ে ফেলা, উল্টে দেওয়া"
         },
         "p": [
           {
@@ -73,7 +73,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Some glosses do not sit neatly in either group. Sa'id ibn Jubayr said ghuwwirat, which at-Tabari, Ibn Kathir and al-Baghawi all report; Ibn Kathir's English abridgement renders it as it will sink in. Al-Qurtubi's printed text gives his word with a different first letter, 'uwwirat. Al-Qurtubi also reports from Ibn Abbas (RA) a reading found nowhere else in these commentaries: its takwir is its being brought into the Throne. Each gloss stands on the name of whoever said it, and the commentators set them side by side.",
-            "bn": "কিছু ব্যাখ্যা কোনো দলেই ঠিকঠাক বসে না। সাঈদ ইবনে জুবাইর বলেছেন গুওভিরাত। তাবারী, ইবন কাসীর ও বাগাভী তিনজনই কথাটি বর্ণনা করেন, আর ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ এর অনুবাদ করে: সূর্য ডুবে যাবে। কুরতুবীর ছাপা কিতাবে শব্দটির প্রথম অক্ষর ভিন্ন, সেখানে লেখা উওভিরাত। কুরতুবী ইবনে আব্বাস (রাঃ) থেকে আরেকটি ব্যাখ্যাও আনেন, যা এই তাফসীরগুলোর আর কোথাও নেই: সূর্যের তাকভীর মানে তাকে আরশের ভেতরে ঢুকিয়ে দেওয়া। প্রতিটি ব্যাখ্যা দাঁড়িয়ে আছে যিনি বলেছেন তাঁর নামের উপর। তাফসীরকারেরা এগুলো পাশাপাশি সাজিয়ে রেখেছেন।"
+            "bn": "কিছু ব্যাখ্যা কোনো দলেই ঠিকঠাক বসে না। সাঈদ ইবনে জুবাইর বলেছেন গুওভিরাত। তাবারী, ইবন কাসীর ও বাগাভী তিনজনই কথাটি বর্ণনা করেন, আর ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ এর অনুবাদ করে: সূর্য ডুবে যাবে। কুরতুবীর ছাপা কিতাবে শব্দটির প্রথম অক্ষর ভিন্ন, সেখানে লেখা উওভিরাত। কুরতুবী ইবনে আব্বাস (রাঃ) থেকে আরেকটি ব্যাখ্যাও আনেন, যা এই তাফসীরগুলোর আর কোথাও নেই: সূর্যের তাকভীর মানে তাকে আরশের ভেতরে ঢুকিয়ে দেওয়া। প্রতিটি ব্যাখ্যা যিনি বলেছেন, তাঁর নামেই বর্ণিত। তাফসীরকারেরা এগুলো পাশাপাশি সাজিয়ে রেখেছেন।"
           }
         ]
       },
@@ -109,7 +109,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir also shows the care this subject asks for. He cites a version through Abu Ya'la that adds that the sun and moon will be in the Fire, judges it weak because a narrator in it, Yazid ar-Raqashi, is weak, and points back to Bukhari's version, which lacks the addition. This article quotes only what Bukhari recorded. Other narrations the commentaries carry under this verse, including a longer version through al-Bazzar and reports from Companions about the events of the end, could not be confirmed here and are left out.",
-            "bn": "এ বিষয়ে কতটা সাবধান হতে হয়, ইবন কাসীর তা-ও দেখিয়ে দেন। আবু ইয়া'লার সূত্রে তিনি একটি বর্ণনা আনেন, যাতে বাড়তি আছে যে সূর্য ও চাঁদ আগুনে থাকবে। তারপর বলেন, বর্ণনাটি দুর্বল, কারণ এর এক বর্ণনাকারী ইয়াযীদ আর-রাকাশী দুর্বল। আর তিনি ফিরিয়ে দেখান বুখারীর বর্ণনার দিকে, যেখানে ওই বাড়তি কথাটা নেই। এ লেখায় শুধু বুখারীর বর্ণনাটিই উদ্ধৃত হলো। তাফসীরগুলোতে এ আয়াতের নিচে আরও বর্ণনা আছে, যেমন বাযযারের দীর্ঘতর এক বর্ণনা, আর শেষ সময়ের ঘটনাবলি নিয়ে সাহাবীদের কিছু বক্তব্য। এখানে সেগুলো যাচাই করা যায়নি, তাই বাদ রাখা হলো।"
+            "bn": "এ বিষয়ে কতটা সাবধান হতে হয়, ইবন কাসীর তা-ও দেখিয়ে দেন। আবু ইয়া'লার সূত্রে তিনি একটি বর্ণনা আনেন, যাতে একটি বাড়তি কথা আছে: সূর্য ও চাঁদ আগুনে থাকবে। তারপর বলেন, বর্ণনাটি দুর্বল, কারণ এর এক বর্ণনাকারী ইয়াযীদ আর-রাকাশী দুর্বল। এরপর তিনি বুখারীর বর্ণনাটির কথা মনে করিয়ে দেন, যেখানে ওই বাড়তি কথাটা নেই। এ লেখায় শুধু বুখারীর বর্ণনাটিই উদ্ধৃত হলো। তাফসীরগুলোতে এ আয়াতের নিচে আরও বর্ণনা আছে, যেমন বাযযারের দীর্ঘতর এক বর্ণনা, আর শেষ সময়ের ঘটনাবলি নিয়ে সাহাবীদের কিছু বক্তব্য। এখানে সেগুলো যাচাই করা যায়নি, তাই বাদ রাখা হলো।"
           }
         ]
       },
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For a reader now, the question is what follows in a life. The sun is the measure of every day, the thing by which prayers are timed and work is planned. The verse says plainly that it too will be wound up. Whatever a person leans on beneath it is more fragile still. Reading this verse slowly, as the hadith invites, is a way of seeing the Day before it arrives, while there is still daylight in which to act on what was seen.",
-            "bn": "আজকের পাঠকের সামনে প্রশ্নটা হলো, নিজের জীবনে এর পরে কী আসে। সূর্যই প্রতিটি দিনের মাপকাঠি। এর হিসাবেই নামাজের ওয়াক্ত ঠিক হয়, কাজের পরিকল্পনা হয়। আয়াত পরিষ্কার বলে দেয়, তাকেও গুটিয়ে নেওয়া হবে। তার নিচে মানুষ যার উপর ভর দেয়, সে তো আরও ভঙ্গুর। হাদীস যেমন ডাকে, তেমনি ধীরে ধীরে এ আয়াত পড়া মানে দিনটা আসার আগেই তাকে দেখে নেওয়া। এখনো দিনের আলো আছে, যা দেখলেন সে অনুযায়ী আমল করার সময়ও আছে।"
+            "bn": "আজকের পাঠকের প্রশ্ন হলো, নিজের জীবনে এ আয়াত থেকে কী নেওয়ার আছে। সূর্যই প্রতিটি দিনের মাপকাঠি। এর হিসাবেই নামাজের ওয়াক্ত ঠিক হয়, কাজের পরিকল্পনা হয়। আয়াত পরিষ্কার বলে দেয়, তাকেও গুটিয়ে নেওয়া হবে। তার নিচে মানুষ যার উপর ভর দেয়, সে তো আরও ভঙ্গুর। হাদিস যেমন ডাকে, তেমনি ধীরে ধীরে এ আয়াত পড়া মানে দিনটা আসার আগেই তাকে দেখে নেওয়া। এখনো দিনের আলো আছে, যা দেখলেন সে অনুযায়ী আমল করার সময়ও আছে।"
           }
         ]
       }
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari sets out the difference among the readers. Abu ad-Duha, Muslim ibn Subayh, read sa'alat, meaning that the buried girl asks those who buried her for what sin they killed her; at-Tabari gives his glosses, she demanded her blood and she asked her killers. The general body of readers in the cities read su'ilat, she was asked. At-Tabari judges su'ilat the sounder of the two, because the authoritative readers agree on it. He also explains why the question then reports her killing in the third person: it is reported speech, as when someone says, 'Abdullah said: for what sin was he struck?",
-            "bn": "কারীদের মতভেদ তাবারী সাজিয়ে দেখান। আবুদ দুহা, মুসলিম ইবন সুবাইহ, পড়েছেন সাআলাত। তখন অর্থ দাঁড়ায়, পুঁতে ফেলা মেয়েটি যারা তাকে পুঁতেছে তাদের জিজ্ঞেস করবে, কোন অপরাধে তারা তাকে মেরেছে। আবুদ দুহার ব্যাখ্যাও তাবারী আনেন: সে রক্তের দাবি তুলবে, সে তার হত্যাকারীদের প্রশ্ন করবে। শহরগুলোর সাধারণ কারীরা পড়েছেন সুইলাত, তাকে জিজ্ঞেস করা হবে। তাবারীর বিচারে দুই পাঠের মধ্যে সুইলাতই বেশি সঠিক, কারণ নির্ভরযোগ্য কারীরা এর উপর একমত। প্রশ্নে কেন তার হত্যার কথা নাম পুরুষে আসে, তাও তিনি ব্যাখ্যা করেন। এটি বর্ণিত কথা, যেমন কেউ বলে: আবদুল্লাহ বলল, কোন অপরাধে তাকে মারা হলো?"
+            "bn": "কারীদের মতভেদ তাবারী সাজিয়ে দেখান। আবুদ দুহা, মুসলিম ইবন সুবাইহ, পড়েছেন সাআলাত। তখন অর্থ দাঁড়ায়, পুঁতে ফেলা মেয়েটি যারা তাকে পুঁতেছে তাদের জিজ্ঞেস করবে, কোন অপরাধে তারা তাকে মেরেছে। আবুদ দুহার ব্যাখ্যাও তাবারী আনেন: সে রক্তের দাবি তুলবে, সে তার হত্যাকারীদের প্রশ্ন করবে। শহরগুলোর সাধারণ কারীরা পড়েছেন সুইলাত, তাকে জিজ্ঞেস করা হবে। তাবারীর বিচারে দুই পাঠের মধ্যে সুইলাতই বেশি সঠিক, কারণ নির্ভরযোগ্য কারীরা এর উপর একমত। এ পাঠে প্রশ্নটা মেয়েটির মুখে, তবু তার হত্যার কথা কেন \"আমাকে\" না বলে \"তাকে\" বলে আসে, তাও তিনি ব্যাখ্যা করেন। কারণ এটি অন্যের কথা বর্ণনা করা, যেমন কেউ বলে: আবদুল্লাহ বলল, কোন অপরাধে তাকে মারা হলো?"
           },
           {
             "en": "Al-Qurtubi adds that Ibn 'Abbas used to read sa'alat, and that so it stands in the codex of Ubayy. In that reading, he reports from Ibn 'Abbas, the girl holds on to her father and asks him why she was killed, and he has no excuse. Al-Qurtubi also notes that the verb of the next verse has been read with a doubled middle letter, qutthilat, an intensive form. These readings belong to the next verse and are named here only for how they shape this clause.",
@@ -241,7 +241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an keeps both directions open. Apparently, it says, the question is put to the girl herself, which gives her the chance to show her complete innocence, so that those who did it are brought before the Divine court. It is also possible, it adds, that the question is put to the killers, asking why they did it. These readings are not merged here, and the verse holds all of them: a question put to the girl who was wronged that lands on whoever wronged her.",
-            "bn": "মাআরিফুল কুরআন দুটি দিকই খোলা রাখে। বাহ্যত মনে হয়, প্রশ্নটা করা হবে মেয়েটিকেই। এতে সে নিজের পুরো নির্দোষিতা দেখানোর সুযোগ পাবে, আর যারা কাজটি করেছে, তাদের আল্লাহর আদালতে দাঁড় করানো হবে। আবার এটাও সম্ভব, বলে মাআরিফুল কুরআন, যে প্রশ্নটা করা হবে হত্যাকারীদের, কেন তারা এ কাজ করল। এখানে মতগুলো এক করে ফেলা হয়নি, আর আয়াতটি সবগুলোকেই ধারণ করে: প্রশ্ন করা হয় মজলুম মেয়েটিকে, আর আঘাত লাগে যে তার উপর জুলুম করেছে তার গায়ে।"
+            "bn": "মাআরিফুল কুরআন দুটি দিকই খোলা রাখে। বাহ্যত মনে হয়, প্রশ্নটা করা হবে মেয়েটিকেই। এতে সে নিজের পুরো নির্দোষিতা দেখানোর সুযোগ পাবে, আর যারা কাজটি করেছে, তাদের আল্লাহর আদালতে দাঁড় করানো হবে। মাআরিফুল কুরআন আরও বলে, এমনও হতে পারে যে প্রশ্নটা করা হবে হত্যাকারীদের: কেন তারা এ কাজ করল। এখানে মতগুলো এক করে ফেলা হয়নি, আর আয়াতটি সবগুলোকেই ধারণ করে: প্রশ্ন করা হয় মজলুম মেয়েটিকে, আর আঘাত লাগে যে তার উপর জুলুম করেছে তার গায়ে।"
           }
         ]
       },
@@ -269,11 +269,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim records in his Sahih (1442b) a report from Judama bint Wahb, sister of 'Ukkasha, which reads: I went to Allah's Messenger (ﷺ) along with some persons and he was saying: I intended to prohibit cohabitation with the suckling women, but I considered the Greeks and Persians, and saw that they suckle their children and this thing (cohabitation) does not do any harm to them (to the suckling women). Then they asked him about 'azl, whereupon he said. That is the secret (way of) burying alive, and Ubaidullah has made this addition in the hadith transmitted by al-Muqri and that is: When the one buried alive is asked.",
-            "bn": "ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (১৪৪২খ) উক্কাশার বোন জুদামা বিনতে ওয়াহব (রাঃ)-এর একটি বর্ণনা এনেছেন। তিনি বলেন, কিছু লোকের সঙ্গে আমি রাসূলুল্লাহ ﷺ-এর কাছে উপস্থিত হলাম। তিনি বলছিলেন: দুধ পান করানোর সময়ে স্ত্রীর সঙ্গে মিলন নিষেধ করার ইচ্ছা আমার হয়েছিল। তারপর রোম ও পারস্যের লোকদের দিকে তাকিয়ে দেখলাম, তারা এমন করে, অথচ এতে তাদের কোনো ক্ষতি হয় না। এরপর লোকেরা তাঁকে আযল সম্পর্কে জিজ্ঞেস করল। তিনি বললেন: ওটা হলো গোপন জীবন্ত দাফন। বর্ণনাকারী উবাইদুল্লাহ মুকরির সূত্রে এর সঙ্গে যোগ করেছেন: আর তা হলো, ওয়া ইযাল মাওঊদাতু সুইলাত।"
+            "bn": "ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (১৪৪২খ) উক্কাশার বোন জুদামা বিনতে ওয়াহব (রাঃ)-এর একটি বর্ণনা এনেছেন। তিনি বলেন, কিছু লোকের সঙ্গে আমি রাসূলুল্লাহ ﷺ-এর কাছে উপস্থিত হলাম। তিনি বলছিলেন: দুধ পান করানোর সময়ে স্ত্রীর সঙ্গে মিলন নিষেধ করার ইচ্ছা আমার হয়েছিল। তারপর রোম ও পারস্যের লোকদের দিকে তাকিয়ে দেখলাম, তারা সন্তানকে দুধ খাওয়ানোর সময়েও এমন করে, অথচ এতে তাদের কোনো ক্ষতি হয় না। এরপর লোকেরা তাঁকে আযল সম্পর্কে জিজ্ঞেস করল। তিনি বললেন: ওটা হলো গোপন জীবন্ত দাফন। বর্ণনাকারী উবাইদুল্লাহ মুকরির সূত্রে এর সঙ্গে যোগ করেছেন: আর তা হলো, ওয়া ইযাল মাওঊদাতু সুইলাত।"
           },
           {
             "en": "Ibn Kathir and Ma'arif al-Qur'an both cite this report. The words of the verse come in one transmission only, through Ubaydullah from al-Muqri, and Muslim's text says so. It stands in Muslim's Sahih, and Muslim gives no separate grading. The page's English adds '(to the suckling women)' after the words about harm; the Arabic, as al-Qurtubi quotes it, says it does not harm their children. Ma'arif al-Qur'an notes other hadith in which the Prophet ﷺ is reported to have allowed 'azl, or kept silent when asked, and limits its permissibility to genuine need. That ruling belongs to the jurists and is reported here, not weighed.",
-            "bn": "ইবন কাসীর ও মাআরিফুল কুরআন দুজনেই এ বর্ণনাটি উল্লেখ করেছেন। আয়াতের শব্দগুলো এসেছে কেবল একটি সূত্রে, উবাইদুল্লাহর মাধ্যমে মুকরি থেকে, আর মুসলিমের পাঠেই সে কথা বলা আছে। এটি মুসলিমের সহীহ গ্রন্থে আছে, আর মুসলিম আলাদা কোনো মান উল্লেখ করেননি। পাতার ইংরেজিতে ক্ষতির কথার পর যোগ করা আছে '(to the suckling women)'; কুরতুবী আরবিতে যেভাবে উদ্ধৃত করেন, সেখানে বলা আছে এতে তাদের সন্তানদের ক্ষতি হয় না। মাআরিফুল কুরআন আরও কিছু হাদীসের কথা বলে, যেখানে বর্ণিত আছে যে নবীজি ﷺ আযলের অনুমতি দিয়েছেন, বা জিজ্ঞেস করা হলে চুপ থেকেছেন। তবে এর বৈধতা সে প্রকৃত প্রয়োজনের মধ্যে সীমিত রাখে। এ ফিকহি বিধান আলেমদের বিষয়। এখানে তা শুধু জানানো হলো, ওজন করা হলো না।"
+            "bn": "ইবন কাসীর ও মাআরিফুল কুরআন দুজনেই এ বর্ণনাটি উল্লেখ করেছেন। আয়াতের শব্দগুলো এসেছে কেবল একটি সূত্রে, উবাইদুল্লাহর মাধ্যমে মুকরি থেকে, আর মুসলিমের পাঠেই সে কথা বলা আছে। এটি মুসলিমের সহীহ গ্রন্থে আছে, আর মুসলিম আলাদা কোনো মান উল্লেখ করেননি। সাইটের ইংরেজি অনুবাদে ক্ষতির কথার পর যোগ করা আছে '(to the suckling women)'; কুরতুবী আরবিতে যেভাবে উদ্ধৃত করেন, সেখানে বলা আছে এতে তাদের সন্তানদের ক্ষতি হয় না। মাআরিফুল কুরআন আরও কিছু হাদিসের কথা বলে, যেখানে বর্ণিত আছে যে নবীজি ﷺ আযলের অনুমতি দিয়েছেন, বা জিজ্ঞেস করা হলে চুপ থেকেছেন। তবে এর বৈধতা সে প্রকৃত প্রয়োজনের মধ্যে সীমিত রাখে। এ বিধান ফকিহদের আলোচনার বিষয়। এখানে শুধু জানিয়ে রাখা হলো, কোনো রায় দেওয়া হলো না।"
           }
         ]
       },
@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi adds a step: uqidat fa-udrimat, it was kindled and set raging, for the disbelievers, and its heat was increased. He then notes that Arabic says both sa''artu an-nar and as'artuha for lighting a fire, so the verb is ordinary speech for stoking. As-Sa'di takes the image furthest. He glosses the verse as: fire is kindled upon it, so it catches and blazes up, flaring in a way it never flared before. For him the point is not only that the fire burns but that it burns as it has not yet burned.",
-            "bn": "কুরতুবী আরেক ধাপ যোগ করেন: ঊকিদাত ফা-উদরিমাত, জ্বালানো হলো, তারপর দাউদাউ করে ধরানো হলো কাফিরদের জন্য, আর এর উত্তাপ বাড়িয়ে দেওয়া হলো। তিনি আরও জানান, আগুন ধরানোর অর্থে আরবরা সা''আরতুন নার আর আস'আরতুহা দুটোই বলে। তাই ক্রিয়াটি আগুন উসকে দেওয়ার সাধারণ কথ্য শব্দ। ছবিটাকে সবচেয়ে দূরে নিয়ে যান সা'দী। তাঁর ব্যাখ্যা: এর উপর আগুন জ্বালানো হবে, ফলে তা জ্বলে উঠবে, এমনভাবে দাউদাউ করবে যেভাবে আগে কখনো করেনি। তাঁর কাছে কথাটা শুধু আগুন জ্বলার নয়, এমনভাবে জ্বলার যা এর আগে ঘটেনি।"
+            "bn": "কুরতুবী আরেক ধাপ যোগ করেন: ঊকিদাত ফা-উদরিমাত, জ্বালানো হলো, তারপর দাউদাউ করে ধরানো হলো কাফিরদের জন্য, আর এর উত্তাপ বাড়িয়ে দেওয়া হলো। তিনি আরও জানান, আগুন ধরানোর অর্থে আরবরা সা''আরতুন নার আর আস'আরতুহা দুটোই বলে। তাই ক্রিয়াটি আগুন উসকে দেওয়ার সাধারণ কথ্য শব্দ। ছবিটা সবচেয়ে জোরালো সা'দীর ব্যাখ্যায়। তাঁর ব্যাখ্যা: এর উপর আগুন জ্বালানো হবে, ফলে তা জ্বলে উঠবে, এমনভাবে দাউদাউ করবে যেভাবে আগে কখনো করেনি। তাঁর কাছে কথাটা শুধু আগুন জ্বলার নয়, এমনভাবে জ্বলার যা এর আগে ঘটেনি।"
           },
           {
             "en": "Al-Baghawi keeps his gloss to a phrase: uqidat li-a'da'i Allah, it was kindled for the enemies of Allah. What none of the fetched commentaries does is stop on the word al-jahim itself. None of them explains it as a name of Hell or traces its sense, and this article will not supply a gloss they do not give. The verse's own translation renders it Hellfire, and the commentators move straight on to the verb, which is where their attention is.",
@@ -341,15 +341,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb comes down in two recognised readings. In one, the middle letter is doubled, su''irat; in the other it is light, su'irat. At-Tabari reports that most of the readers of Madinah read it doubled, meaning that fire was kindled upon it time after time, and that most of the readers of Kufa read it light. He then gives his verdict: both are well-known readings, and whichever of them a reader recites, he is correct.",
-            "bn": "ক্রিয়াটি দুটি স্বীকৃত পাঠে এসেছে। একটিতে মাঝের হরফে তাশদীদ, সু'ইরাত। অন্যটিতে তাশদীদ নেই, সু'ইরাত হালকা উচ্চারণে। তাবারী জানান, মদীনার অধিকাংশ কারী তাশদীদ দিয়ে পড়েছেন, যার অর্থ এর উপর বারবার আগুন জ্বালানো হয়েছে। আর কূফার অধিকাংশ কারী পড়েছেন হালকা করে। তারপর তিনি রায় দেন: দুটিই সুপরিচিত পাঠ। কারী যেটিই পড়ুন, সঠিক পড়েছেন।"
+            "bn": "ক্রিয়াটি দুটি স্বীকৃত পাঠে এসেছে। একটিতে মাঝের হরফে তাশদীদ: সু''ইরাত। অন্যটিতে তাশদীদ নেই, হালকা উচ্চারণে: সু'ইরাত। তাবারী জানান, মদীনার অধিকাংশ কারী তাশদীদ দিয়ে পড়েছেন, যার অর্থ এর উপর বারবার আগুন জ্বালানো হয়েছে। আর কূফার অধিকাংশ কারী পড়েছেন হালকা করে। তারপর তিনি রায় দেন: দুটিই সুপরিচিত পাঠ। কারী যেটিই পড়ুন, সঠিক পড়েছেন।"
           },
           {
             "en": "Al-Qurtubi gives the same two readings with different names attached. The common reading, he says, is the light form, from sa'ir, blaze. Nafi', Ibn Dhakwan and Ruways read it doubled, because the fire was kindled once after another. Al-Baghawi names the doubled reading's people more widely: the people of Madinah and of Sham, and Hafs from 'Asim; the rest, he says, read it light. Al-Baghawi does not say what the doubling adds; at-Tabari and al-Qurtubi both say it carries repetition, a fire stoked again and again rather than lit once.",
-            "bn": "কুরতুবীও এই দুটি পাঠ আনেন, তবে ভিন্ন নামসহ। তাঁর মতে সাধারণ পাঠ হালকাটি, সা'ঈর অর্থাৎ লেলিহান আগুন থেকে। নাফি', ইবন যাকওয়ান আর রুওয়াইস তাশদীদ দিয়ে পড়েছেন, কারণ আগুন একবারের পর আরেকবার জ্বালানো হয়েছে। বাগাভী তাশদীদের পাঠকদের তালিকা আরও বড় করেন: মদীনা আর শামের লোকেরা, আর আসিম থেকে হাফস। বাকিরা হালকা পড়েছেন। তাশদীদে বাড়তি কী অর্থ আসে, বাগাভী তা বলেননি। তাবারী আর কুরতুবী দুজনেই বলেন, এতে পুনরাবৃত্তি বোঝায়। আগুন একবার ধরানো নয়, বারবার উসকে দেওয়া।"
+            "bn": "কুরতুবীও এই দুটি পাঠ আনেন, তবে কারীদের নাম ভিন্ন। তাঁর মতে সাধারণ পাঠ হালকাটি, সা'ঈর অর্থাৎ লেলিহান আগুন থেকে। নাফি', ইবন যাকওয়ান আর রুওয়াইস তাশদীদ দিয়ে পড়েছেন, কারণ আগুন একবারের পর আরেকবার জ্বালানো হয়েছে। বাগাভী তাশদীদের পাঠকদের তালিকা আরও বড় করেন: মদীনা আর শামের লোকেরা, আর আসিম থেকে হাফস। বাকিরা হালকা পড়েছেন। তাশদীদে বাড়তি কী অর্থ আসে, বাগাভী তা বলেননি। তাবারী আর কুরতুবী দুজনেই বলেন, এতে পুনরাবৃত্তি বোঝায়। আগুন একবার ধরানো নয়, বারবার উসকে দেওয়া।"
           },
           {
             "en": "The lists do not match name for name. At-Tabari mentions only Madinah for the doubled reading and Kufa for the light reading. Al-Baghawi adds Sham and Hafs from 'Asim to the doubled side. Al-Qurtubi names three individual readers and calls the light reading that of the generality. The difference is in whom each man chose to mention, and this article leaves each list as its author gives it. The Arabic text printed with this verse here carries the doubled letter, su''irat, which matches the reading al-Baghawi attributes to Hafs.",
-            "bn": "নামে নামে তালিকাগুলো মেলে না। তাবারী তাশদীদের পাঠে শুধু মদীনার কথা বলেন, আর হালকা পাঠে কূফার। বাগাভী তাশদীদের দিকে যোগ করেন শাম আর আসিম থেকে হাফসকে। কুরতুবী তিনজন কারীর নাম নেন, আর হালকা পাঠকে বলেন সাধারণ পাঠ। পার্থক্যটা আসলে কে কার নাম উল্লেখ করেছেন তাতে। এই লেখা প্রত্যেকের তালিকা তাঁর মতো করেই রেখে দিচ্ছে। এখানে আয়াতের সঙ্গে যে আরবি পাঠ ছাপা আছে, তাতে তাশদীদ আছে, সু'ইরাত। বাগাভী হাফসের যে পাঠের কথা বলেছেন, এটি তার সঙ্গে মেলে।"
+            "bn": "নামে নামে তালিকাগুলো মেলে না। তাবারী তাশদীদের পাঠে শুধু মদীনার কথা বলেন, আর হালকা পাঠে কূফার। বাগাভী তাশদীদের দিকে যোগ করেন শাম আর আসিম থেকে হাফসকে। কুরতুবী তিনজন কারীর নাম নেন, আর হালকা পাঠকে বলেন সাধারণ পাঠ। পার্থক্যটা আসলে কে কার নাম উল্লেখ করেছেন তাতে। এই লেখা প্রত্যেকের তালিকা তাঁর মতো করেই রেখে দিচ্ছে। এখানে আয়াতের সঙ্গে যে আরবি পাঠ ছাপা আছে, তাতে তাশদীদ আছে: সু''ইরাত। বাগাভী হাফসের যে পাঠের কথা বলেছেন, এটি তার সঙ্গে মেলে।"
           }
         ]
       },
@@ -381,7 +381,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A word of care is needed here. The verse describes what the text describes, a fire set ablaze on a coming Day, and it licenses nothing against any living person or community. It hands no reader the right to decide who among the people around him belongs to the fire. The commentators' phrases explain whom the fire is meant for; they are not a list of names to be filled in. The only soul any reader is in a position to examine is his own.",
-            "bn": "এখানে একটু সাবধান হওয়া দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: আগামী এক দিনে উসকে দেওয়া আগুন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আশপাশের কে আগুনের লোক, তা ঠিক করার অধিকার এ আয়াত কোনো পাঠককে দেয় না। তাফসীরকারদের বাক্যাংশ বলে আগুনটা কাদের জন্য। নাম বসানোর তালিকা তা নয়। পাঠক যে প্রাণটির হিসাব নেওয়ার অবস্থানে আছে, তা কেবল তার নিজের।"
+            "bn": "এখানে একটু সাবধান হওয়া দরকার। আয়াতটি যা বলে, শুধু তা-ই বলে: আসন্ন এক দিনে উসকে দেওয়া আগুনের কথা। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আশপাশের কে আগুনের লোক, তা ঠিক করার অধিকার এ আয়াত কোনো পাঠককে দেয় না। তাফসীরকারদের বাক্যাংশ বলে আগুনটা কাদের জন্য। তা নাম বসানোর তালিকা নয়। পাঠক হিসাব নিতে পারেন কেবল একজনের: নিজের।"
           }
         ]
       },
@@ -401,7 +401,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That is the honest place to leave it. The report pictures kindling repeated over ages, close to what the doubled reading su''irat suggests, but its own collector judged the version that stops at Abu Hurayrah to be sounder. No other narration is attached to this verse by the commentaries fetched for it, and none of them gives a sound hadith from the Prophet ﷺ on it. The verse's meaning does not depend on the report; the commentators' glosses stand without it.",
-            "bn": "সৎভাবে এখানেই থামা উচিত। বর্ণনাটি যুগ যুগ ধরে বারবার জ্বালানোর ছবি আঁকে, তাশদীদযুক্ত পাঠ সু'ইরাত যে অর্থের দিকে ইঙ্গিত করে তার কাছাকাছি। কিন্তু এর সংকলক নিজেই রায় দিয়েছেন, আবু হুরায়রা (রাঃ)-তে থেমে যাওয়া রূপটিই বেশি সঠিক। এ আয়াতের জন্য দেখা তাফসীরগুলো আর কোনো বর্ণনা যুক্ত করেনি, আর কোনোটিই এখানে নবী ﷺ থেকে সহীহ হাদীস আনেনি। আয়াতের অর্থ এই বর্ণনার উপর নির্ভর করে না। তাফসীরকারদের ব্যাখ্যা এটি ছাড়াই দাঁড়িয়ে থাকে।"
+            "bn": "সততার দাবি হলো, কথাটা এখানেই রেখে দেওয়া। বর্ণনাটি যুগ যুগ ধরে বারবার জ্বালানোর ছবি আঁকে, তাশদীদযুক্ত পাঠ সু''ইরাত যে অর্থের দিকে ইঙ্গিত করে তার কাছাকাছি। কিন্তু এর সংকলক নিজেই রায় দিয়েছেন, আবু হুরায়রা (রাঃ)-তে থেমে যাওয়া রূপটিই বেশি সঠিক। এ আয়াতের জন্য দেখা তাফসীরগুলো আর কোনো বর্ণনা যুক্ত করেনি, আর কোনোটিই এখানে নবী ﷺ থেকে সহীহ হাদিস আনেনি। আয়াতের অর্থ এই বর্ণনার উপর নির্ভর করে না। তাফসীরকারদের ব্যাখ্যা এটি ছাড়াই দাঁড়িয়ে থাকে।"
           }
         ]
       },
@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the verse asks something practical. Which small wrongs have I stopped counting because they seemed too light to matter? Which repentance have I postponed? The commentators speak of a fire kindled and stoked until it blazes as never before. The reader's part is not to picture it more vividly than the text does, but to let three words do their work: to turn back now, while the fire is still something heard about and the Garden is still within reach.",
-            "bn": "তাই আয়াতটি হাতে-কলমে কিছু জানতে চায়। কোন ছোট অন্যায়গুলো আমি আর গুনছি না, কারণ সেগুলো তুচ্ছ মনে হয়েছে? কোন তওবা আমি পিছিয়ে রেখেছি? তাফসীরকারেরা বলেন এমন আগুনের কথা, যা জ্বালানো হবে, উসকে দেওয়া হবে, যতক্ষণ না তা আগে কখনো না জ্বলার মতো জ্বলে ওঠে। পাঠকের কাজ পাঠের চেয়ে বেশি রং চড়িয়ে তা কল্পনা করা নয়। কাজ হলো তিনটি শব্দকে তাদের কাজ করতে দেওয়া। এখনই ফিরে আসা, যতক্ষণ আগুন কেবল শোনা কথা আর জান্নাত এখনো নাগালের মধ্যে।"
+            "bn": "তাই আয়াতটি হাতে-কলমে কিছু জানতে চায়। কোন ছোট অন্যায়গুলো আমি আর গুনছি না, কারণ সেগুলো তুচ্ছ মনে হয়েছে? কোন তওবা আমি পিছিয়ে রেখেছি? তাফসীরকারেরা বলেন এমন আগুনের কথা, যা জ্বালানো হবে, উসকে দেওয়া হবে, শেষে তা এমনভাবে জ্বলে উঠবে যেমন আগে কখনো জ্বলেনি। পাঠকের কাজ আয়াতের চেয়ে বেশি রং চড়িয়ে তা কল্পনা করা নয়। কাজ হলো তিনটি শব্দকে তাদের কাজ করতে দেওয়া। এখনই ফিরে আসা, যতক্ষণ আগুন কেবল শোনা কথা আর জান্নাত এখনো নাগালের মধ্যে।"
           }
         ]
       }
@@ -453,7 +453,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two things in that grammar carry weight. The pronoun is plural, so the sentence is spoken to a group about a man they share, and the man is not named. The verse does not say the Prophet, or Muhammad, only your companion, leaving the hearers to supply whom it means. They could, and so do the commentators. Every tafsir fetched for this verse identifies the companion in the same way. Where they differ is in how widely they draw the circle of those addressed, and in what they say the charge of madness was meant to do.",
-            "bn": "এই ব্যাকরণের দুটি দিক ভারী। সর্বনামটি বহুবচন, অর্থাৎ বাক্যটি একদল মানুষকে বলা, এমন একজনকে নিয়ে যিনি তাদের সবার চেনা। আর সেই মানুষটির নাম আয়াতে নেই। আয়াত 'নবী' বলেনি, 'মুহাম্মাদ' বলেনি, শুধু বলেছে তোমাদের সঙ্গী। কাকে বোঝানো হচ্ছে, তা শ্রোতারা নিজেরাই বুঝে নেবে। তারা বুঝেছিল, তাফসীরকারেরাও বোঝেন। এ আয়াতের জন্য সংগ্রহ করা প্রতিটি তাফসীর সঙ্গীকে একইভাবে চিহ্নিত করে। তাঁদের পার্থক্য অন্য জায়গায়: সম্বোধিত শ্রোতাদের পরিধি কতটা বড় করে আঁকেন, আর পাগলামির অভিযোগ দিয়ে আসলে কী করতে চাওয়া হয়েছিল বলে তাঁরা মনে করেন।"
+            "bn": "এই ব্যাকরণের দুটি দিক বিশেষ গুরুত্বপূর্ণ। সর্বনামটি বহুবচন, অর্থাৎ বাক্যটি একদল মানুষকে বলা, এমন একজনকে নিয়ে যিনি তাদের সবার চেনা। আর সেই মানুষটির নাম আয়াতে নেই। আয়াত 'নবী' বলেনি, 'মুহাম্মাদ' বলেনি, শুধু বলেছে তোমাদের সঙ্গী। কাকে বোঝানো হচ্ছে, তা শ্রোতারা নিজেরাই বুঝে নেবে। তারা বুঝেছিল, তাফসীরকারেরাও বোঝেন। এ আয়াতের জন্য সংগ্রহ করা প্রতিটি তাফসীর সঙ্গীকে একইভাবে চিহ্নিত করে। তাঁদের পার্থক্য অন্য জায়গায়: সম্বোধিত শ্রোতাদের পরিধি কতটা বড় করে আঁকেন, আর পাগলামির অভিযোগ দিয়ে আসলে কী করতে চাওয়া হয়েছিল বলে তাঁরা মনে করেন।"
           }
         ]
       },
@@ -489,7 +489,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di answers the label with its opposite, in three superlatives: rather, he is the most complete of people in intellect, the most abundant in sound judgment, and the most truthful in speech. Ma'arif al-Qur'an calls the verse a rebuttal of the foolish criticism of those enemies, adding God forbid where it reports their word insane. Across these readings the word majnun is weighed as an accusation with a purpose, made to discredit what he brought, and al-Qurtubi's clause names the link directly: madness is what would make his speech suspect.",
-            "bn": "সা'দী তকমাটির জবাব দেন তার বিপরীত দিয়ে, তিনটি চূড়ান্ত বিশেষণে: বরং তিনি মানুষের মধ্যে বুদ্ধিতে সবচেয়ে পূর্ণ, বিবেচনায় সবচেয়ে সমৃদ্ধ, আর কথায় সবচেয়ে সত্যবাদী। মাআরিফুল কুরআন আয়াতটিকে বলে সেই শত্রুদের নির্বোধ সমালোচনার খণ্ডন, আর তাদের 'পাগল' শব্দটি উদ্ধৃত করার সময় যোগ করে 'আল্লাহ মাফ করুন'। এসব ব্যাখ্যায় মাজনূন শব্দটি মাপা হয়েছে একটি উদ্দেশ্যমূলক অভিযোগ হিসেবে, যা তাঁর আনা বাণীকে অবিশ্বাস্য করে তোলার জন্য তোলা হয়েছিল। কুরতুবীর বাক্যাংশ এই যোগসূত্রটি সরাসরি বলে দেয়: পাগলামিই তাঁর কথাকে সন্দেহজনক করে তুলত।"
+            "bn": "সা'দী তকমাটির জবাব দেন তার বিপরীত দিয়ে, তিনটি চূড়ান্ত বিশেষণে: বরং তিনি মানুষের মধ্যে বুদ্ধিতে সবচেয়ে পূর্ণ, বিবেচনায় সবচেয়ে সমৃদ্ধ, আর কথায় সবচেয়ে সত্যবাদী। মাআরিফুল কুরআন আয়াতটিকে বলে সেই শত্রুদের নির্বোধ সমালোচনার খণ্ডন, আর তাদের 'পাগল' শব্দটি উদ্ধৃত করার সময় যোগ করে 'নাউযুবিল্লাহ'। এসব ব্যাখ্যায় মাজনূন শব্দটিকে দেখা হয়েছে উদ্দেশ্যমূলক অভিযোগ হিসেবে, যা তাঁর আনা বাণীকে অবিশ্বাস্য করে তোলার জন্য তোলা হয়েছিল। কুরতুবীর বাক্যাংশ এই যোগসূত্রটি সরাসরি বলে দেয়: পাগলামিই তাঁর কথাকে সন্দেহজনক করে তুলত।"
           }
         ]
       },
@@ -501,11 +501,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not stand alone. From 81:15 the surah swears: by the stars that withdraw and run their courses and set, by the night as it closes in, by the dawn when it breathes. Al-Qurtubi says of 81:22 that it is part of the answer to the oath. Al-Baghawi says that this too is part of the answer to the oath, and spells out what was sworn: He swore that the Qur'an was brought down by Jibril, and that Muhammad is not as the people of Makkah say. On that reading the oaths carry two sworn statements, not one.",
-            "bn": "আয়াতটি একা দাঁড়িয়ে নেই। ৮১:১৫ থেকে সূরাটি শপথ করে: সেই তারাগুলোর, যারা সরে যায়, পথ চলে আর লুকিয়ে পড়ে; রাতের, যখন তা ঘনিয়ে আসে; ভোরের, যখন তা নিঃশ্বাস ফেলে। কুরতুবী ৮১:২২ সম্পর্কে বলেন, এটি শপথের জবাবের অংশ। বাগাভী বলেন, এটিও শপথের জবাবের অংশ। কী নিয়ে শপথ করা হয়েছিল, তাও তিনি খুলে বলেন: আল্লাহ শপথ করেছেন যে কুরআন জিবরীল নিয়ে এসেছেন, আর মুহাম্মাদ তেমন নন যেমনটা মক্কাবাসীরা বলে। এই পাঠে শপথগুলোর সঙ্গে বাঁধা আছে একটি নয়, দুটি শপথকৃত কথা।"
+            "bn": "আয়াতটি একা দাঁড়িয়ে নেই। ৮১:১৫ থেকে সূরাটি শপথ করে: সেই তারাগুলোর, যারা সরে যায়, পথ চলে আর লুকিয়ে পড়ে; রাতের, যখন তা ঘনিয়ে আসে; ভোরের, যখন তা নিঃশ্বাস ফেলে। কুরতুবী ৮১:২২ সম্পর্কে বলেন, এটি শপথের জবাবের অংশ। বাগাভী বলেন, এটিও শপথের জবাবের অংশ। কী নিয়ে শপথ করা হয়েছিল, তাও তিনি খুলে বলেন: আল্লাহ শপথ করেছেন যে কুরআন জিবরীল নিয়ে এসেছেন, আর মুহাম্মাদ তেমন নন যেমনটা মক্কাবাসীরা বলে। এই ব্যাখ্যায় শপথ করে বলা কথা তাহলে একটি নয়, দুটি।"
           },
           {
             "en": "The small word too in al-Baghawi points back to 81:19, it is the word of a noble messenger, as the first part of that answer. Ma'arif al-Qur'an calls 81:19 and 81:20 the subject of the oath, the statement that the Qur'an is the word brought by a noble messenger. It then says that in the next verses the Qur'an mentions the high status of the Prophet ﷺ and refutes the objections raised against him by those who rejected him. So the stars and the dawn are sworn by, on these readings, in defence of both the bringer of the message and the man who received it.",
-            "bn": "বাগাভীর ছোট্ট শব্দ 'এটিও' পেছনে ৮১:১৯ আয়াতের দিকে ইঙ্গিত করে, যেখানে বলা হয়েছে এটি এক সম্মানিত রাসূলের বাণী। সেটিই ঐ জবাবের প্রথম অংশ। মাআরিফুল কুরআন ৮১:১৯ ও ৮১:২০ আয়াতকে বলে শপথের বিষয়বস্তু, অর্থাৎ এই ঘোষণা যে কুরআন এক সম্মানিত রাসূলের আনা বাণী। তারপর বলে, পরের আয়াতগুলোতে কুরআন নবী ﷺ-এর উচ্চ মর্যাদার কথা বলেছে এবং যারা তাঁকে প্রত্যাখ্যান করেছিল তাদের তোলা আপত্তিগুলো খণ্ডন করেছে। এসব পাঠ অনুযায়ী তারা আর ভোরের শপথ করা হয়েছে দুজনের পক্ষে: বাণীর বাহক, আর যিনি তা গ্রহণ করেছেন।"
+            "bn": "বাগাভীর ছোট্ট শব্দ 'এটিও' পেছনে ৮১:১৯ আয়াতের দিকে ইঙ্গিত করে, যেখানে বলা হয়েছে এটি এক সম্মানিত রাসূলের বাণী। সেটিই ঐ জবাবের প্রথম অংশ। মাআরিফুল কুরআন ৮১:১৯ ও ৮১:২০ আয়াতকে বলে শপথের বিষয়বস্তু, অর্থাৎ এই ঘোষণা যে কুরআন এক সম্মানিত রাসূলের আনা বাণী। তারপর বলে, পরের আয়াতগুলোতে কুরআন নবী ﷺ-এর উচ্চ মর্যাদার কথা বলেছে এবং যারা তাঁকে প্রত্যাখ্যান করেছিল তাদের তোলা আপত্তিগুলো খণ্ডন করেছে। এসব ব্যাখ্যা অনুযায়ী তারকা আর ভোরের শপথ করা হয়েছে দুজনের পক্ষে: যিনি বাণী নিয়ে এসেছেন, আর যিনি তা গ্রহণ করেছেন।"
           }
         ]
       },
@@ -544,7 +544,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Charge, Not a Diagnosis",
-          "bn": "অভিযোগ, রোগনির্ণয় নয়"
+          "bn": "অভিযোগ, ডাক্তারি রায় নয়"
         },
         "p": [
           {
