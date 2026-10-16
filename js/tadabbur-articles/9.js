@@ -561,11 +561,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The practical force of the verse is that it never asks anyone to love less. It asks for an order, and an order only shows itself when two loves pull in different directions, which is rarely and not on an ordinary day. That is why the honest way to use this verse is not to search one's feelings but to look at decisions already made: the job kept, the move refused, the silence held at a family table, the prayer that lost its slot in a week that had room for everything else.",
-            "bn": "আয়াতের কাজের জোরটা এই যে সে কখনো কাউকে কম ভালোবাসতে বলে না। সে চায় একটা সারি, আর সারি নিজেকে দেখায় কেবল তখনই, যখন দুটি ভালোবাসা দুদিকে টানে; আর সেটা হয় কম, রোজকার দিনে হয় না। এ কারণেই এ আয়াত কাজে লাগানোর সৎ পথটা নিজের অনুভব খুঁজে বেড়ানো নয়, বরং আগেই নেওয়া সিদ্ধান্তগুলোর দিকে তাকানো: যে চাকরিটা রাখা হলো, যে বদলিটা নাকচ করা হলো, পরিবারের আসরে যে চুপ থাকাটা ধরে রাখা হলো, আর যে নামাযটা এমন এক সপ্তাহে জায়গা হারাল যে সপ্তাহে বাকি সবের জন্যই জায়গা ছিল।"
+            "bn": "কাজের বেলায় আয়াতটির জোর এখানে: কাউকে সে কম ভালোবাসতে বলে না। সে চায় ভালোবাসার একটা সারি, কোনটা আগে আর কোনটা পরে। আর সেই সারি ধরা পড়ে কেবল তখন, যখন দুটি ভালোবাসা দুদিকে টানে; এমনটা ঘটে কালেভদ্রে, সাধারণ দিনে ঘটে না। তাই এ আয়াত কাজে লাগানোর সৎ উপায় নিজের মনের অনুভূতি হাতড়ানো নয়, বরং আগেই নেওয়া সিদ্ধান্তগুলোর দিকে তাকানো: যে চাকরিটা ধরে রেখেছেন, যেখানে চলে যাওয়ার কথা ছিল অথচ যাননি, পরিবারের আসরে যেখানে চুপ করে থেকেছেন, আর যে সপ্তাহে বাকি সবকিছুর জন্য সময় ছিল, সেই সপ্তাহে যে নামাজটা নিজের সময় হারিয়েছে।"
           },
           {
             "en": "The trade clause is the most modern-sounding thing in the list, because it names a fear about the future rather than a present loss. Nothing had gone wrong for the people it describes; they were holding on because something might. Anyone who has stayed in a wrong arrangement because of what leaving might cost has met the verse at exactly that point, and the verse's own answer to it is the one at-Tabari records: what they were told to wait for arrived, and it took their reason away.",
-            "bn": "তালিকার মধ্যে সবচেয়ে আধুনিক শোনায় ব্যবসার কথাটাই, কারণ সে নাম নেয় ভবিষ্যৎ নিয়ে একটি ভয়ের, বর্তমানের কোনো ক্ষতির নয়। যাদের কথা বলা হচ্ছে তাদের কিছুই বিগড়ায়নি; তারা আঁকড়ে ছিল কারণ কিছু বিগড়াতে পারে। ছেড়ে দিলে কী খরচ হবে সেই ভয়ে কোনো ভুল বন্দোবস্তে যিনি থেকে গেছেন, তিনি আয়াতের সঙ্গে ঠিক এ জায়গাতেই মিলেছেন; আর আয়াতের নিজের জবাবটা সেটাই, যা তাবারী লিখে রাখেন: যার অপেক্ষা করতে বলা হয়েছিল সেটা এসেছিল, আর এসে তাদের কারণটাই কেড়ে নিয়েছিল।"
+            "bn": "তালিকায় সবচেয়ে আধুনিক শোনায় ব্যবসার কথাটা, কারণ এতে আছে ভবিষ্যতের ভয়, এখনকার কোনো ক্ষতি নয়। যাদের কথা বলা হচ্ছে, তাদের কিছুই তখনো খারাপ হয়নি; তারা আঁকড়ে ধরে ছিল, কারণ খারাপ হতে পারে। ছেড়ে গেলে কী খোয়াতে হবে, সেই ভয়ে যে মানুষ কোনো ভুল ব্যবস্থায় আটকে থেকেছেন, আয়াতের সঙ্গে তাঁর দেখা ঠিক এই জায়গাতেই। আর এ ভয়ের জবাব আয়াতেই আছে, তাবারী যেমনটা লিখে রেখেছেন: যার জন্য তাদের অপেক্ষা করতে বলা হয়েছিল, তা এসে গেল, আর এসে কেড়ে নিল সেই জিনিসটাই, যার জন্য তারা থেকে গিয়েছিল।"
           }
         ]
       },
@@ -577,11 +577,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse gives no supplication and its imperative is a warning rather than a prayer, so what belongs here is the thing the Quran does put in a believer's mouth about love. 2:165 names the mark of those who pass, stronger in love for Allah, and it is that strength, not the removal of any other affection, that a person would ask for. The eight things on the scale are meant to be kept, provided for and enjoyed; only their order is at issue.",
-            "bn": "আয়াতে কোনো দোয়া নেই, আর এর হুকুমটাও দোয়া নয়, হুঁশিয়ারি; কাজেই এখানে যা মানায় তা হলো ভালোবাসা নিয়ে কুরআন মু'মিনের মুখে যা তুলে দেয়। ২:১৬৫ আয়াত যারা উতরায় তাদের চিহ্নের নাম দেয়, আল্লাহর প্রতি ভালোবাসায় আরও দৃঢ়; আর মানুষ চাইবে সেই দৃঢ়তাটাই, অন্য কোনো টান সরিয়ে দেওয়া নয়। পাল্লার ওই আটটি জিনিস রাখারই জন্য, দেখাশোনা করার জন্য আর ভোগ করার জন্য; প্রশ্ন কেবল ওগুলোর সারি নিয়ে।"
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এর আদেশটাও দোয়া নয়, হুঁশিয়ারি। তাই এখানে মানায় সেই কথা, যা ভালোবাসা নিয়ে কুরআন নিজেই মু'মিনের মুখে তুলে দিয়েছে। ২:১৬৫ আয়াত উতরে যাওয়া লোকদের চিহ্ন বলে দেয়: আল্লাহর প্রতি ভালোবাসায় তারা আরও মজবুত। মানুষ চাইবে এই মজবুতিটাই, অন্য কোনো টান মুছে ফেলা নয়। পাল্লার ওই আটটি জিনিস রেখে দেওয়ার জন্যই; এদের দেখাশোনা করতে হবে, এদের নিয়ে আনন্দও করা যাবে। প্রশ্ন কেবল কোনটা আগে, কোনটা পরে।"
           },
           {
             "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, make Yourself and Your Messenger ﷺ more beloved to me than the eight things You named, without taking one of them from me. It is assembled from the verse's own scale, and it is not a Sunnah du'a. The hadith quoted above is a statement about faith rather than a prayer, and is to be carried as a measure.",
-            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি যে আটটি জিনিসের নাম নিয়েছেন তার চেয়ে আপনাকে আর আপনার রাসূলকে ﷺ আমার কাছে বেশি প্রিয় করে দিন, আর ওগুলোর একটিও আমার কাছ থেকে নিয়ে না নিয়েই। এটি আয়াতের নিজের পাল্লা থেকে গড়া, আর এটি সুন্নাহর দোয়া নয়। উপরে তোলা হাদীসটি দোয়া নয়, ঈমান নিয়ে একটি কথা, আর সেটাকে বহন করতে হবে মাপ হিসেবে।"
+            "bn": "এ আয়াতের নিজের শব্দ দিয়ে একটা বাক্য যোগ করা যায়, তবে এর বেশি কিছু বলে দাবি করা যাবে না: হে আল্লাহ, আপনি যে আটটি জিনিসের নাম নিয়েছেন, সেগুলোর চেয়ে আপনাকে আর আপনার রাসূলকে ﷺ আমার কাছে বেশি প্রিয় করে দিন, আর ওগুলোর একটিও আমার কাছ থেকে কেড়ে না নিয়েই। বাক্যটি আয়াতের নিজের পাল্লা থেকেই গড়া; এটা সুন্নাহর দোয়া নয়। উপরে যে হাদিসটি এসেছে, সেটা দোয়া নয়, ঈমান নিয়ে একটি কথা; ওটাকে সঙ্গে রাখতে হবে মাপকাঠি হিসেবে।"
           }
         ]
       },
@@ -593,11 +593,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Of the eight, which one is mine? Not the one I would defend in an argument, but the one that actually decides how my week is spent. Every item on the list is legitimate, so have I been judging my attachments by whether they are permitted rather than by where they stand in the order? And the verse names a trade whose decline is feared rather than one that failed: what am I afraid of losing, and what is that fear already making me do?",
-            "bn": "আটটির মধ্যে কোনটি আমার? তর্কে আমি কোনটির পক্ষ নিতাম তা নয়, বরং আমার সপ্তাহ কীভাবে খরচ হবে তা আসলে কোনটি ঠিক করে দেয়। তালিকার প্রতিটি জিনিসই বৈধ; তাহলে আমি কি নিজের টানগুলোকে বিচার করেছি সেগুলো জায়েজ কি না তা দিয়ে, সারিতে কে কোথায় আছে তা দিয়ে নয়? আর আয়াত নাম নেয় এমন ব্যবসার, যার মন্দার ভয় হয়, ডুবে যাওয়া ব্যবসার নয়: আমি কী হারানোর ভয় পাই, আর সেই ভয় এখনই আমাকে কী করাচ্ছে?"
+            "bn": "আটটির মধ্যে আমার কোনটা? তর্কের সময় যেটার পক্ষে দাঁড়াই সেটা নয়; আমার সপ্তাহটা কীভাবে কাটবে, আসলে যেটা তা ঠিক করে দেয়, সেটা। তালিকার প্রতিটি জিনিসই বৈধ। তাহলে কি আমি নিজের টানগুলো বিচার করে এসেছি শুধু জায়েজ কি না তা দেখে, সারিতে কোনটা কোথায় আছে তা দেখে নয়? আর আয়াত এমন ব্যবসার কথা বলে, যার মন্দার ভয় আছে, যে ব্যবসা ডুবে গেছে তার নয়। আমি কী হারানোর ভয় করি, আর সেই ভয় এখনই আমাকে দিয়ে কী করিয়ে নিচ্ছে?"
           },
           {
             "en": "Two more. Those who fail the test are told to wait, and what they were waiting for arrived as the loss of the thing they had stayed for: what am I waiting for, and would I recognise it if it came in that shape? And nothing in the verse asks me to feel less for anyone, so what would change tomorrow if the order were put right and every affection left exactly as it is?",
-            "bn": "আরও দুটি। যারা পরীক্ষায় হারে তাদের অপেক্ষা করতে বলা হয়, আর তারা যার অপেক্ষা করছিল সেটা এসেছিল তারা যার জন্য থেকে গিয়েছিল সেটাই হারানোর চেহারায়: আমি কীসের অপেক্ষায় আছি, আর সেটা যদি ওই চেহারায় আসে আমি কি চিনতে পারব? আর আয়াতের কোথাও আমাকে কারও প্রতি কম অনুভব করতে বলা হয়নি; তাহলে সারিটা ঠিক করে দিলে আর প্রতিটি টান ঠিক যেমন আছে তেমন রেখে দিলে কাল কী বদলাত?"
+            "bn": "আরও দুটি প্রশ্ন। যারা পরীক্ষায় ফেল করে, তাদের অপেক্ষা করতে বলা হয়; আর যার অপেক্ষায় তারা ছিল, তা এল ঠিক সেই জিনিস হারানোর রূপে, যার জন্য তারা থেকে গিয়েছিল। আমি কীসের অপেক্ষায় আছি? সেটা যদি ওই রূপে আসে, আমি কি চিনতে পারব? আর আয়াতের কোথাও আমাকে কারও প্রতি টান কমাতে বলা হয়নি। তাহলে প্রতিটি টান যেমন আছে তেমন রেখে শুধু সারিটা ঠিক করে নিলে কাল থেকে কী বদলাত?"
           }
         ]
       }
@@ -613,11 +613,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tawbah is Madinan and this verse follows directly on a quoted claim. 9:30 reports what was said about Uzayr and about the Messiah, calls it their saying with their mouths, and notes that in it they imitate the saying of those who disbelieved before. Ibn Kathir reads that clause as meaning they have no proof for the claim beyond what they have made up. Then our verse moves from a statement they made to a practice they had, and 9:32 and 9:33 close the passage with the light that will not be put out.",
-            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত আসে উদ্ধৃত করা একটি দাবির ঠিক পরেই। ৯:৩০ আয়াত জানায় উযাইর আর মাসীহ সম্পর্কে কী বলা হয়েছিল, সেটাকে বলে তাদের মুখের কথা, আর লিখে রাখে যে এতে তারা তাদের আগের কাফিরদের কথারই নকল করে। ইবনু কাসীর ওই কথাটিকে পড়েন এভাবে যে নিজেদের বানানো কথা ছাড়া এ দাবির পক্ষে তাদের কোনো দলিল নেই। এরপর আমাদের আয়াত সরে যায় তাদের বলা একটি কথা থেকে তাদের একটি চালু অভ্যাসের দিকে, আর ৯:৩২ ও ৯:৩৩ আয়াত অংশটি শেষ করে সেই আলো দিয়ে যা নেভানো যাবে না।"
+            "bn": "সূরা তাওবা মাদানী। এ আয়াত আসে একটি দাবি উদ্ধৃত হওয়ার ঠিক পরে। ৯:৩০ আয়াত জানায়, উযাইর আর মাসীহ সম্পর্কে কী বলা হয়েছিল; বলে, এটা তাদের মুখের কথা মাত্র, আর এতে তারা আগের কাফিরদের কথারই নকল করছে। ইবনু কাসীর এর অর্থ করেন: নিজেদের বানানো কথা ছাড়া এ দাবির পক্ষে তাদের কোনো দলিল নেই। এরপর আমাদের আয়াত তাদের মুখের একটি কথা ছেড়ে তাদের একটি চালু অভ্যাসের দিকে যায়। আর ৯:৩২ ও ৯:৩৩ আয়াত এ অংশ শেষ করে সেই নূরের কথা বলে, যা নিভিয়ে দেওয়া যাবে না।"
           },
           {
             "en": "The charge in our verse is heavier than the one before it, and stranger. 9:30 reports words; 9:31 reports a relationship, and calls it lordship. What makes it stranger is that nothing in the description looks like worship: no image, no prayer addressed to the men named, no claim that they created anything. As-Sa'di introduces it as the cause underneath the claim, so that the extraordinary thing said in 9:30 became sayable because of the ordinary thing done in 9:31.",
-            "bn": "আমাদের আয়াতের অভিযোগ আগেরটির চেয়ে ভারী, আর অন্যরকমও। ৯:৩০ আয়াত জানায় কিছু কথা; ৯:৩১ আয়াত জানায় একটি সম্পর্ক, আর তাকে বলে রব বানানো। অন্যরকম লাগার কারণ, এ বর্ণনার কিছুই ইবাদতের মতো দেখায় না: কোনো মূর্তি নেই, নাম নেওয়া লোকদের উদ্দেশে কোনো নামাযও নেই, তারা কিছু সৃষ্টি করেছে এমন দাবিও নেই। সা'দী এটিকে সামনে আনেন ওই দাবির নিচে থাকা কারণ হিসেবে; অর্থাৎ ৯:৩০ আয়াতে বলা অসাধারণ কথাটা বলা সম্ভব হয়েছিল ৯:৩১ আয়াতে করা সাধারণ কাজটার কারণেই।"
+            "bn": "আমাদের আয়াতের অভিযোগ আগেরটার চেয়ে ভারী, আর অদ্ভুতও। ৯:৩০ আয়াত জানায় কিছু কথা; ৯:৩১ আয়াত জানায় একটা সম্পর্ক, আর সেটাকে বলে রব বানানো। অদ্ভুত এ কারণে যে, বর্ণনার কোথাও ইবাদতের চেহারা নেই: কোনো মূর্তি নেই, যাদের নাম এসেছে তাদের কাছে কোনো দোয়া নেই, তারা কিছু সৃষ্টি করেছে এমন দাবিও নেই। সা'দী এটাকে দেখান ওই দাবির গোড়ার কারণ হিসেবে। অর্থাৎ ৯:৩১ আয়াতের সাধারণ কাজটা করা হতো বলেই ৯:৩০ আয়াতের অসাধারণ কথাটা মুখে আনা সম্ভব হয়েছিল।"
           }
         ]
       },
@@ -629,11 +629,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari begins with the two words for the men. Ahbar he glosses simply as the scholars, and he records a small dispute about how the singular is pronounced: habr with a fatha or hibr with a kasra. Yunus al-Jarmi is reported as saying he had heard only hibr, and arguing from ordinary usage, since people say this is the ink of a hibr meaning the ink of a scholar; al-Farra' said he had heard it both ways. The word for a learned man and the word for ink sit in the same shape.",
-            "bn": "তাবারী শুরু করেন লোকদের বোঝানো দুটি শব্দ দিয়ে। আহবারের ব্যাখ্যায় তিনি সোজাসুজি বলেন আলিমগণ, আর একবচনের উচ্চারণ নিয়ে একটি ছোট মতভেদও লিখে রাখেন: যবরসহ হাবর, নাকি যেরসহ হিবর। ইউনুস আল-জারমী থেকে বর্ণিত, তিনি বলতেন কেবল হিবরই শুনেছেন, আর দলিল দিতেন সাধারণ ব্যবহার থেকে, কারণ লোকে বলে এটা হিবরের কালি, অর্থাৎ আলিমের কালি; ফাররা বলেছেন তিনি দুভাবেই শুনেছেন। আলিম বোঝানো শব্দ আর কালি বোঝানো শব্দ একই ছাঁচে বসে।"
+            "bn": "তাবারী শুরু করেন ওই লোকদের বোঝাতে আসা দুটি শব্দ দিয়ে। আহবার শব্দের অর্থ তিনি সোজা বলেন: আলিমগণ। এর একবচন কীভাবে উচ্চারিত হবে, তা নিয়ে একটা ছোট মতভেদও লিখে রাখেন: যবর দিয়ে হাবর, নাকি যের দিয়ে হিবর। ইউনুস আল-জারমী থেকে বর্ণিত, তিনি কেবল হিবরই শুনেছেন; আর দলিল দিতেন লোকমুখের ব্যবহার থেকে, কারণ লোকে বলে 'এটা হিবরের কালি', মানে আলিমের কালি। ফাররা বলেছেন, তিনি দুভাবেই শুনেছেন। আলিম আর কালি, দুটোর শব্দ একই ছাঁচের।"
           },
           {
             "en": "Ruhban he glosses as the people of the cells and those among them who strive hard in their religion, and he carries from ad-Dahhak the shorter pairing, their reciters and their scholars. As-Sa'di describes the second group as the devotees given wholly to worship. Neither commentator treats these men as frauds. They are the learned and the ascetic, the two kinds of people a religious community naturally trusts most, which is what makes the verse's charge land where it does.",
-            "bn": "রুহবানের ব্যাখ্যায় তিনি বলেন কুঠুরির লোকেরা আর তাদের মধ্যে যারা নিজেদের দীনে কঠোর সাধনা করে; আর দাহহাক থেকে আনেন ছোট জোড়াটি, তাদের কারীগণ আর তাদের আলিমগণ। সা'দী দ্বিতীয় দলটির বর্ণনা দেন ইবাদতে পুরোপুরি নিজেকে সঁপে দেওয়া সাধক হিসেবে। দুই মুফাসসিরের কেউই এ লোকদের ঠগ হিসেবে দেখান না। এরা আলিম আর সাধক, অর্থাৎ ধর্মীয় সমাজ স্বভাবতই যে দুই ধরনের মানুষকে সবচেয়ে বেশি ভরসা করে; আর এ কারণেই আয়াতের অভিযোগ গিয়ে পড়ে ঠিক সেখানেই।"
+            "bn": "রুহবান শব্দের অর্থ তিনি বলেন: কুঠুরিতে থাকা লোকেরা, আর তাদের মধ্যে যারা দীনের পথে কঠোর সাধনা করে। দাহহাক থেকে তিনি আরও ছোট একটা জোড়া আনেন: তাদের কারী আর তাদের আলিম। সা'দী দ্বিতীয় দলটিকে বলেন এমন সাধক, যারা পুরোপুরি ইবাদতে ডুবে থাকে। দুই মুফাসসিরের কেউই এদের ঠগ বলেন না। এরা আলিম আর সাধক, একটা ধর্মীয় সমাজ স্বভাবতই যে দুই ধরনের মানুষকে সবচেয়ে বেশি ভরসা করে। এ কারণেই আয়াতের অভিযোগ গিয়ে লাগে ঠিক ওই জায়গায়।"
           }
         ]
       },
@@ -645,11 +645,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari defines the phrase exactly, and the definition is the whole verse: lords for them besides Allah means chiefs whom they obey in disobedience to Allah, so that they make lawful what those men made lawful for them of what Allah had forbidden them, and they forbid what those men forbade them of what Allah had made lawful for them. Lordship, on that reading, is not a title anyone claimed. It is what happens when a verdict of lawful or unlawful is accepted from a man against what Allah had said.",
-            "bn": "তাবারী কথাটির সংজ্ঞা দেন নিখুঁতভাবে, আর ওই সংজ্ঞাই গোটা আয়াত: আল্লাহকে বাদ দিয়ে তাদের রব মানে এমন সর্দার, যাদের তারা আল্লাহর নাফরমানিতে মানে; তাই ওই লোকেরা আল্লাহর হারাম করা জিনিস তাদের জন্য হালাল করলে তারা সেটা হালাল মানে, আর আল্লাহর হালাল করা জিনিস তাদের জন্য হারাম করলে তারা সেটা হারাম মানে। এ পাঠে রব বানানো এমন কোনো পদবি নয়, যা কেউ দাবি করেছিল। সেটা তখনই ঘটে, যখন আল্লাহ যা বলেছেন তার বিপরীতে কোনো মানুষের কাছ থেকে হালাল বা হারামের রায় মেনে নেওয়া হয়।"
+            "bn": "তাবারী কথাটির নিখুঁত সংজ্ঞা দেন, আর সেই সংজ্ঞাতেই গোটা আয়াত: 'আল্লাহকে বাদ দিয়ে তাদের রব' মানে এমন নেতা, আল্লাহর নাফরমানি করে হলেও যাদের কথা তারা মানে। আল্লাহ যা হারাম করেছেন, ওই লোকেরা তা হালাল করলে তারা হালাল মানে; আর আল্লাহ যা হালাল করেছেন, ওরা তা হারাম করলে তারা হারাম মানে। এ ব্যাখ্যায় রব হওয়া এমন কোনো পদবি নয়, যা কেউ দাবি করেছিল। এটা ঘটে তখনই, যখন আল্লাহর কথার বিপরীতে কোনো মানুষের দেওয়া হালাল-হারামের রায় মেনে নেওয়া হয়।"
           },
           {
             "en": "As-Sa'di gives the same definition and adds a third element to it, that they legislate for them laws and statements contrary to the religion of the messengers, and they follow them in it. He then names a further practice as his own observation of those communities: that they went to excess concerning their shaykhs and devotees and venerated them, and took their graves as idols worshipped besides Allah, sought with sacrifices and supplication and calls for help. The first charge is about rulings; the second is about graves.",
-            "bn": "সা'দী একই সংজ্ঞা দেন, আর তাতে তৃতীয় একটি উপাদান যোগ করেন, তারা তাদের জন্য এমন বিধান আর কথা বানায় যা রাসূলদের দীনের বিপরীত, আর তারা সেটাতে তাদের অনুসরণ করে। এরপর তিনি ওই সমাজগুলোর ব্যাপারে নিজের দেখা আরেকটি চর্চার নাম নেন: তারা নিজেদের শাইখ আর সাধকদের নিয়ে বাড়াবাড়ি করত আর তাঁদের বড় করে দেখত, আর তাঁদের কবরগুলোকে বানিয়ে নিত মূর্তি, যেগুলোর ইবাদত হতো আল্লাহকে বাদ দিয়ে, যেগুলোর উদ্দেশে কুরবানি দেওয়া হতো আর দোয়া আর সাহায্য চাওয়া হতো। প্রথম অভিযোগ বিধান নিয়ে; দ্বিতীয়টি কবর নিয়ে।"
+            "bn": "সা'দীও একই সংজ্ঞা দেন, সঙ্গে তৃতীয় একটা দিক যোগ করেন: ওরা তাদের জন্য রাসূলদের দীনের বিপরীত বিধান আর কথা বানায়, আর তারা তাতে ওদের অনুসরণ করে। এরপর তিনি ওই সমাজগুলোতে নিজের দেখা আরেকটি চর্চার কথা বলেন: তারা নিজেদের শাইখ আর সাধকদের নিয়ে বাড়াবাড়ি করত, তাদের অতিভক্তি করত, আর তাদের কবরকে বানিয়ে নিত মূর্তি। আল্লাহকে বাদ দিয়ে সেগুলোর ইবাদত হতো; সেখানে কুরবানি দেওয়া হতো, দোয়া করা হতো, সাহায্য চাওয়া হতো। প্রথম অভিযোগ বিধান নিয়ে, দ্বিতীয়টি কবর নিয়ে।"
           }
         ]
       },
@@ -661,11 +661,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators do not leave the definition to themselves. At-Tabari records, with its chain, that Adi ibn Hatim (RA) came to the Prophet ﷺ while he was reciting in Surah Bara'ah the words about taking scholars and monks as lords, and that the Prophet ﷺ said: they did not worship them, but they used to make lawful for them and they would accept it as lawful. The whole difficulty of the verse is answered in that one sentence, and it is answered by lowering the bar, not raising it.",
-            "bn": "সংজ্ঞাটা মুফাসসিরগণ নিজেদের হাতে রেখে দেন না। তাবারী সনদসহ লিখে রাখেন, আদী ইবনু হাতিম (রাঃ) নবীর ﷺ কাছে এলেন, তখন তিনি সূরা বারাআতে আলিম আর দরবেশদের রব বানানোর কথাগুলো পড়ছিলেন; আর নবী ﷺ বললেন: তারা তাদের ইবাদত করত না, তবে ওরা তাদের জন্য হালাল করে দিত আর তারা সেটাকে হালাল বলে মেনে নিত। আয়াতটির গোটা কাঠিন্যের জবাব ওই এক বাক্যেই, আর জবাবটা আসে মাপ নিচে নামিয়ে, উপরে তুলে নয়।"
+            "bn": "সংজ্ঞার ভার মুফাসসিরগণ শুধু নিজেদের কাঁধে রাখেন না। তাবারী সনদসহ লিখে রাখেন: আদী ইবনু হাতিম (রাঃ) নবীর ﷺ কাছে এলেন, তখন তিনি সূরা বারাআতে আলিম আর দরবেশদের রব বানানোর আয়াত পড়ছিলেন। নবী ﷺ বললেন: তারা ওদের ইবাদত করত না; তবে ওরা তাদের জন্য কিছু হালাল করে দিলে তারা সেটা হালাল বলে মেনে নিত। আয়াতের পুরো জটিলতার জবাব ওই এক বাক্যেই। আর জবাবটা আসে মাপকাঠি নিচে নামিয়ে, উপরে তুলে নয়।"
           },
           {
             "en": "Ibn Kathir notes that Imam Ahmad, at-Tirmidhi and Ibn Jarir at-Tabari all recorded the hadith. Jami at-Tirmidhi 3095 preserves it from Adi ibn Hatim (RA), where it opens with the Prophet ﷺ telling him to remove the cross he was wearing before explaining the verse to him. The scene matters: a man who had come to the Prophet ﷺ was told first about an object and then about a habit, and it was the habit the verse had called lordship.",
-            "bn": "ইবনু কাসীর লিখে রাখেন, ইমাম আহমাদ, তিরমিযী আর ইবনু জারীর তাবারী সবাই হাদীসটি সংকলন করেছেন। জামি আত-তিরমিযীর ৩০৯৫ নম্বরে এটি রক্ষিত আছে আদী ইবনু হাতিম (রাঃ) থেকে, যেখানে শুরুতেই নবী ﷺ তাঁকে বলেন গলার ক্রুশটি খুলে ফেলতে, তারপর তাঁকে আয়াতটি বুঝিয়ে দেন। দৃশ্যটার দাম আছে: নবীর ﷺ কাছে আসা এক লোককে প্রথমে বলা হলো একটি জিনিস নিয়ে, তারপর একটি অভ্যাস নিয়ে; আর আয়াত রব বানানো বলেছিল সেই অভ্যাসটাকেই।"
+            "bn": "ইবনু কাসীর উল্লেখ করেন, ইমাম আহমাদ, তিরমিযী আর ইবনু জারীর তাবারী সবাই হাদিসটি বর্ণনা করেছেন। জামি আত-তিরমিযীর ৩০৯৫ নম্বরে আদী ইবনু হাতিম (রাঃ) থেকে এটি আছে। সেখানে শুরুতেই নবী ﷺ তাঁকে গলার ক্রুশটা খুলে ফেলতে বলেন, তারপর আয়াতটি বুঝিয়ে দেন। দৃশ্যটা গুরুত্বপূর্ণ: নবীর ﷺ কাছে আসা এক মানুষকে প্রথমে বলা হলো একটা জিনিসের কথা, তারপর একটা অভ্যাসের কথা। আর আয়াত যেটাকে রব বানানো বলেছিল, তা ওই অভ্যাসটাই।"
           }
         ]
       },
@@ -677,11 +677,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not stop at the charge; it states the original instruction against which the charge is measured. They were not commanded except to worship one God, there is no deity except Him. As-Sa'di reads the clause as covering more than ritual: that they devote worship and obedience to Him alone, and single Him out for love and supplication. Obedience and love are placed inside the same command as worship, which is why a transfer of obedience could be called a transfer of lordship.",
-            "bn": "আয়াত অভিযোগেই থেমে যায় না; সে বলে দেয় সেই আসল নির্দেশটি, যার বিপরীতে অভিযোগটা মাপা হচ্ছে। তাদের হুকুম দেওয়া হয়েছিল কেবল এক ইলাহের ইবাদত করতে, তিনি ছাড়া কোনো ইলাহ নেই। সা'দী এ কথাটি পড়েন কেবল আচার-অনুষ্ঠানের চেয়ে বেশি কিছু হিসেবে: তারা ইবাদত আর আনুগত্য কেবল তাঁরই জন্য খাঁটি করবে, আর ভালোবাসা আর দোয়ায় কেবল তাঁকেই আলাদা করে নেবে। আনুগত্য আর ভালোবাসাকে বসানো হয়েছে ইবাদতের সেই একই হুকুমের ভেতরেই; আর সে কারণেই আনুগত্য হাতবদল হওয়াকে বলা যায় রবের আসন হাতবদল হওয়া।"
+            "bn": "আয়াত অভিযোগ করেই থেমে যায় না; যে মূল হুকুমের সঙ্গে মিলিয়ে অভিযোগটা মাপা হচ্ছে, সেটাও বলে দেয়: তাদের তো কেবল এক ইলাহের ইবাদত করার হুকুম দেওয়া হয়েছিল, তিনি ছাড়া কোনো ইলাহ নেই। সা'দীর মতে এ কথা শুধু আনুষ্ঠানিক ইবাদতে সীমিত নয়: ইবাদত আর আনুগত্য হবে খাঁটিভাবে কেবল তাঁর জন্য, ভালোবাসা আর দোয়াও হবে কেবল তাঁরই জন্য। তাহলে আনুগত্য আর ভালোবাসা ইবাদতের একই হুকুমের ভেতরে পড়ে। এ কারণেই আনুগত্য অন্যের হাতে তুলে দেওয়াকে রবের আসন অন্যের হাতে তুলে দেওয়া বলা যায়।"
           },
           {
             "en": "Then the closing formula, exalted is He above whatever they associate with Him. As-Sa'di reads it as a statement about their claim rather than only about His majesty: in that they diminish Him and describe Him with what does not befit His majesty, and Allah is high in His attributes and His acts above everything ascribed to Him that contradicts His holy perfection. The verse ends, that is, by defending Him against a description rather than by threatening them.",
-            "bn": "এরপর শেষের সূত্রটি, তারা যা শরীক করে তার সব কিছুর অনেক উপরে তিনি। সা'দী এটিকে পড়েন কেবল তাঁর মহিমা নিয়ে কথা হিসেবে নয়, তাদের দাবি নিয়ে কথা হিসেবেও: এ কাজে তারা তাঁকে ছোট করে, আর তাঁর মহিমার সঙ্গে যা মানায় না তা দিয়ে তাঁর বর্ণনা দেয়; আর আল্লাহ তাঁর গুণে আর কাজে অনেক উঁচুতে, তাঁর পবিত্র পূর্ণতার বিপরীত যা কিছু তাঁর দিকে নিসবত করা হয় তার সবের উপরে। অর্থাৎ আয়াত শেষ হয় তাদের হুমকি দিয়ে নয়, একটি বর্ণনার বিরুদ্ধে তাঁর পক্ষ নিয়ে।"
+            "bn": "এরপর শেষের বাক্য: তারা যা শরীক করে, তিনি তার বহু ঊর্ধ্বে। সা'দী এটাকে শুধু তাঁর মহিমার কথা হিসেবে পড়েন না, তাদের দাবির জবাব হিসেবেও পড়েন: এ কাজে তারা তাঁকে ছোট করে, তাঁর মহিমার সঙ্গে যা মানায় না তা দিয়ে তাঁর বর্ণনা দেয়; অথচ আল্লাহ তাঁর গুণে ও কাজে সেসব কিছুর অনেক ঊর্ধ্বে, যা তাঁর পবিত্র পূর্ণতার বিপরীত হয়েও তাঁর দিকে জোড়া হয়। অর্থাৎ আয়াত শেষ হয় তাদের হুমকি দিয়ে নয়; তাঁর সম্পর্কে একটা ভুল বর্ণনা খণ্ডন করে।"
           }
         ]
       },
@@ -693,11 +693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "3:64 is the verse that puts our verse's charge into an invitation, calling the People of the Scripture to a word that is equitable between us and you, that we will worship none but Allah, associate nothing with Him, and not take one another as lords instead of Allah. The last clause is the same phrase our verse uses, offered as common ground rather than as an accusation, which tells a reader that the fault named here is one any community can fall into.",
-            "bn": "আমাদের আয়াতের অভিযোগটিকে আহ্বানে বদলে দেয় ৩:৬৪ আয়াত, যা আহলে কিতাবকে ডাকে এমন এক কথার দিকে যা আমাদের আর তোমাদের মধ্যে সমান, তা এই যে আমরা আল্লাহ ছাড়া কারও ইবাদত করব না, তাঁর সঙ্গে কিছু শরীক করব না, আর একে অন্যকে আল্লাহর বদলে রব বানাব না। শেষ কথাটি আমাদের আয়াতের সেই একই কথা, আর সেটা এখানে অভিযোগ হিসেবে নয়, অভিন্ন ভিত্তি হিসেবে সামনে রাখা হয়েছে; আর এতে পাঠক বুঝে নেন, এখানে নাম নেওয়া দোষটা যে কোনো সমাজেই ঘটতে পারে।"
+            "bn": "৩:৬৪ আয়াত আমাদের আয়াতের অভিযোগটাকেই দাওয়াতে বদলে দেয়। সেখানে আহলে কিতাবকে ডাকা হয় এমন এক কথার দিকে, যা আমাদের আর তোমাদের মধ্যে সমান: আমরা আল্লাহ ছাড়া কারও ইবাদত করব না, তাঁর সঙ্গে কিছু শরীক করব না, আর আল্লাহকে ছেড়ে একে অন্যকে রব বানাব না। শেষ কথাটা হুবহু আমাদের আয়াতের কথা; তবে সেখানে তা অভিযোগ হিসেবে নয়, সবার মিলিত ভিত্তি হিসেবে রাখা হয়েছে। এ থেকে পাঠক বোঝেন, এখানে যে দোষের কথা বলা হচ্ছে, তাতে যে কোনো সমাজই পড়তে পারে।"
           },
           {
             "en": "42:21 states the same thing as a question: or have they partners who have ordained for them a religion to which Allah has not consented? That is as-Sa'di's third element in the form of a rebuke. 5:77 addresses the excess itself, telling the People of the Scripture not to exceed limits in their religion beyond the truth and not to follow the inclinations of a people who had gone astray before, which is where the practice in our verse comes from.",
-            "bn": "৪২:২১ আয়াত একই কথা বলে প্রশ্নের আকারে: কী, তাদের কি এমন শরীক আছে যারা তাদের জন্য এমন দীনের বিধান দিয়েছে যার অনুমতি আল্লাহ দেননি? এটাই সা'দীর তৃতীয় উপাদান, তবে ভর্ৎসনার চেহারায়। ৫:৭৭ আয়াত বাড়াবাড়িটাকেই সম্বোধন করে, আহলে কিতাবকে বলে নিজেদের দীনে সত্যের সীমা ছাড়িয়ে বাড়াবাড়ি না করতে আর আগে পথভ্রষ্ট হয়ে যাওয়া লোকদের খেয়াল-খুশির পিছনে না চলতে; আর আমাদের আয়াতের সেই চর্চার জন্মও ওখানেই।"
+            "bn": "৪২:২১ আয়াত একই কথা বলে প্রশ্নের সুরে: তাদের কি এমন শরীক আছে, যারা তাদের জন্য দীনের এমন বিধান দিয়েছে, যার অনুমতি আল্লাহ দেননি? এটাই সা'দীর তৃতীয় দিক, তবে তিরস্কারের রূপে। আর ৫:৭৭ আয়াত সরাসরি বাড়াবাড়িটাকেই ধরে। সেখানে আহলে কিতাবকে বলা হয়, তারা যেন নিজেদের দীনে সত্য ছাড়িয়ে বাড়াবাড়ি না করে, আর আগে পথভ্রষ্ট হওয়া এক জাতির খেয়াল-খুশির অনুসরণ না করে। আমাদের আয়াতের ওই চর্চার শিকড়ও সেখানেই।"
           }
         ]
       },
@@ -713,7 +713,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The useful test is not whether a person follows scholars, which the religion requires of anyone who cannot examine a matter himself, but what happens at the point of conflict: when a ruling he has been given turns out to sit against something the Book or the Sunnah says plainly, does he look again, or does he keep the ruling because of who gave it? At-Tabari's definition turns on exactly that word, in disobedience to Allah, and it is the only part of this that a reader can check in himself.",
-            "bn": "কাজের যাচাইটা এই নয় যে লোকটি আলিমদের অনুসরণ করে কি না, কারণ যে নিজে কোনো বিষয় যাচাই করতে পারে না তার জন্য দীন সেটাই দাবি করে; বরং যাচাইটা সংঘাতের জায়গায়: তাকে দেওয়া কোনো রায় যখন দেখা যায় কিতাব বা সুন্নাহর স্পষ্ট কথার বিপরীতে বসে আছে, তখন সে কি আবার তাকায়, নাকি কে দিয়েছে সেই কারণেই রায়টা ধরে রাখে? তাবারীর সংজ্ঞা ঘোরে ঠিক ওই কথাটার উপরেই, আল্লাহর নাফরমানিতে; আর এ গোটা বিষয়ের মধ্যে কেবল এ অংশটাই পাঠক নিজের ভেতরে যাচাই করতে পারেন।"
+            "bn": "আসল যাচাই এই নয় যে কেউ আলিমদের অনুসরণ করে কি না; যে নিজে কোনো বিষয় যাচাই করতে পারে না, দীন তো তাকে সেটাই করতে বলে। যাচাইটা হয় টানাপোড়েনের মুহূর্তে: তাকে বলা কোনো মাসআলা যখন দেখা যায় আল্লাহর কিতাব বা সুন্নাহর স্পষ্ট কথার বিপরীতে যাচ্ছে, তখন সে কি আবার ভেবে দেখে, নাকি কে বলেছেন সেই খাতিরে মাসআলাটা আঁকড়ে থাকে? তাবারীর সংজ্ঞা ঘোরে ঠিক ওই কথাটার ওপর: আল্লাহর নাফরমানিতে। পুরো বিষয়ের মধ্যে কেবল এ অংশটুকুই পাঠক নিজের ভেতরে যাচাই করে দেখতে পারেন।"
           }
         ]
       },
@@ -725,11 +725,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse carries no supplication, and what stands in its place is the sentence it quotes as the original command: to worship one God, there is no deity except Him. That clause is already the shortest prayer in the language of this passage, and a believer who says it is asserting exactly what the verse says was asked of them and of everyone before them.",
-            "bn": "আয়াতে কোনো দোয়া নেই, আর এর জায়গায় দাঁড়িয়ে আছে সেই বাক্যটি, যা সে আসল হুকুম হিসেবে উদ্ধৃত করে: এক ইলাহের ইবাদত করা, তিনি ছাড়া কোনো ইলাহ নেই। এ অংশের ভাষায় ওই কথাটিই সবচেয়ে ছোট দোয়া; আর যে মু'মিন সেটা বলেন, তিনি ঠিক সেই জিনিসটাই ঘোষণা করেন, যা আয়াত বলে তাদের কাছে আর তাদের আগের সবার কাছে চাওয়া হয়েছিল।"
+            "bn": "আয়াতে কোনো দোয়া নেই। এর জায়গায় আছে সেই বাক্য, যা আয়াত মূল হুকুম হিসেবে উদ্ধৃত করে: এক ইলাহের ইবাদত করা, তিনি ছাড়া কোনো ইলাহ নেই। এ অংশের ভাষায় এটাই সবচেয়ে ছোট দোয়া। যে মু'মিন কথাটা বলেন, তিনি ঠিক সেটাই ঘোষণা করেন, আয়াতের ভাষায় যা তাদের কাছে এবং তাদের আগের সবার কাছে চাওয়া হয়েছিল।"
           },
           {
             "en": "A sentence in the verse's own vocabulary can be added and claimed as no more than that: O Allah, let no one hold over me the right that is Yours alone, to call a thing lawful or unlawful, and keep my respect for the learned from turning into obedience against You. It is assembled from at-Tabari's definition and the verse's closing declaration, and it is not a Sunnah du'a. The hadith of Adi ibn Hatim (RA) quoted above is an explanation rather than a prayer.",
-            "bn": "আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, যে অধিকার কেবল আপনারই, কোনো জিনিসকে হালাল বা হারাম বলার, সেটা আমার উপর আর কারও হাতে দেবেন না; আর আলিমদের প্রতি আমার শ্রদ্ধাকে আপনার বিরুদ্ধে আনুগত্যে বদলে যেতে দেবেন না। এটি তাবারীর সংজ্ঞা আর আয়াতের শেষ ঘোষণা জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। উপরে তোলা আদী ইবনু হাতিমের (রাঃ) হাদীসটি দোয়া নয়, ব্যাখ্যা।"
+            "bn": "আয়াতের নিজের শব্দ দিয়ে একটা বাক্য যোগ করা যায়, তবে এর বেশি কিছু বলে দাবি করা যাবে না: হে আল্লাহ, যে অধিকার কেবল আপনার, কোনো জিনিসকে হালাল বা হারাম বলার অধিকার, তা আমার ওপর আর কারও হাতে দেবেন না; আর আলিমদের প্রতি আমার শ্রদ্ধা যেন কখনো আপনার বিরুদ্ধে তাঁদের আনুগত্যে বদলে না যায়। বাক্যটি তাবারীর সংজ্ঞা আর আয়াতের শেষ ঘোষণা মিলিয়ে বানানো; এটা সুন্নাহর দোয়া নয়। উপরে আদী ইবনু হাতিমের (রাঃ) যে হাদিস এসেছে, সেটা দোয়া নয়, ব্যাখ্যা।"
           }
         ]
       },
@@ -741,11 +741,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Whose permission do I actually wait for before deciding that something is fine? Is there a ruling I follow because of who said it rather than because of what it rests on, and have I ever gone back to check? And the verse says they were commanded only to worship one God: what have I added to that, in practice, which now feels as binding as the thing itself?",
-            "bn": "কোনো কিছু ঠিক আছে বলে সিদ্ধান্ত নেওয়ার আগে আমি আসলে কার অনুমতির অপেক্ষা করি? এমন কোনো বিধান আমি মানি কি, যা মানি কে বলেছে সে কারণে, সেটা কীসের উপর দাঁড়িয়ে সে কারণে নয়; আর আমি কি কখনো ফিরে গিয়ে যাচাই করেছি? আর আয়াত বলে, তাদের হুকুম ছিল কেবল এক ইলাহের ইবাদত করা: কাজে-কর্মে এর সঙ্গে আমি কী জুড়েছি, যা এখন আসল জিনিসটার মতোই বাধ্যতামূলক মনে হয়?"
+            "bn": "কোনো কিছু ঠিক আছে, এ সিদ্ধান্ত নেওয়ার আগে আমি আসলে কার অনুমতির অপেক্ষায় থাকি? এমন কোনো মাসআলা কি আমি মানি, যা মানি কে বলেছেন সেই খাতিরে, সেটা কীসের ওপর দাঁড়িয়ে আছে তা দেখে নয়? কখনো কি ফিরে গিয়ে যাচাই করেছি? আর আয়াত বলে, তাদের হুকুম দেওয়া হয়েছিল কেবল এক ইলাহের ইবাদতের। বাস্তবে আমি এর সঙ্গে কী জুড়ে নিয়েছি, যা এখন আসল হুকুমের মতোই ফরজ মনে হয়?"
           },
           {
             "en": "Two more. Deference is easy to confuse with respect, so where would disagreeing with somebody I admire cost me something, and does that cost quietly shape what I end up concluding? And if a stranger described my habits without using any religious words at all, would lordship be a fair name for anything in them?",
-            "bn": "আরও দুটি। মেনে নেওয়াকে সম্মানের সঙ্গে গুলিয়ে ফেলা সহজ; তাহলে যাকে আমি শ্রদ্ধা করি তার সঙ্গে দ্বিমত করতে গেলে কোথায় আমার কিছু খরচ হবে, আর সেই খরচ কি চুপচাপ ঠিক করে দেয় আমি শেষে কী সিদ্ধান্তে পৌঁছাব? আর কোনো অপরিচিত লোক যদি ধর্মের একটি শব্দও ব্যবহার না করে আমার অভ্যাসগুলোর বর্ণনা দেয়, তার কোনো কিছুকে রব বানানো বলা কি সঠিক হবে?"
+            "bn": "আরও দুটি প্রশ্ন। মেনে চলাকে সম্মানের সঙ্গে গুলিয়ে ফেলা সহজ। তাহলে যাঁকে আমি শ্রদ্ধা করি, তাঁর সঙ্গে দ্বিমত করলে কোথায় আমাকে মূল্য দিতে হবে? আর সেই মূল্যই কি চুপিচুপি ঠিক করে দেয়, শেষে আমি কোন সিদ্ধান্তে পৌঁছাব? আর কোনো অচেনা মানুষ যদি ধর্মের একটা শব্দও না বলে আমার অভ্যাসগুলোর বর্ণনা দেয়, তাহলে সেগুলোর কোনোটিকে কি ন্যায্যভাবে রব বানানো বলা যাবে?"
           }
         ]
       }
@@ -761,11 +761,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is not a standalone piece of history. It arrives in the middle of the reproach over Tabuk. 9:38 asks believers what is the matter with them that when they are told to go forth in the way of Allah they cling heavily to the earth, and 9:39 warns that Allah will replace a people who do not respond. Then comes our verse, opening illa tansuruhu — if you do not help him.",
-            "bn": "এই আয়াতটি বিচ্ছিন্ন কোনো ইতিহাসের টুকরো নয়। এটি আসে তাবুক নিয়ে তিরস্কারের মাঝখানে। 9:38 মুমিনদের জিজ্ঞেস করে, তাদের কী হলো যে আল্লাহর পথে বেরিয়ে পড়তে বলা হলে তারা মাটির দিকে ভারী হয়ে ঝুঁকে পড়ে; আর 9:39 সতর্ক করে যে যারা সাড়া দেয় না আল্লাহ তাদের বদলে অন্য জাতি আনবেন। এরপর আসে আমাদের আয়াত, শুরু হয় ইল্লা তানসুরূহু দিয়ে — যদি তোমরা তাকে সাহায্য না করো।"
+            "bn": "এ আয়াত আলাদা কোনো ইতিহাসের টুকরো নয়। এটা এসেছে তাবুক নিয়ে তিরস্কারের মাঝখানে। ৯:৩৮ আয়াত মুমিনদের জিজ্ঞেস করে: তোমাদের কী হলো, আল্লাহর পথে বের হতে বলা হলে তোমরা মাটি আঁকড়ে ভারী হয়ে পড়ো? আর ৯:৩৯ আয়াত সতর্ক করে, যারা সাড়া দেবে না, আল্লাহ তাদের বদলে অন্য জাতি আনবেন। এরপর আসে আমাদের আয়াত, যার শুরু 'ইল্লা তানসুরূহু' দিয়ে: যদি তোমরা তাঁকে সাহায্য না করো।"
           },
           {
             "en": "The logic is then complete: faqad nasarahu Allah, Allah has already helped him. The past tense is doing the work. The argument is not that Allah will manage without you but that He has, demonstrably, on an occasion everyone listening remembers. And 9:41 follows immediately with the command to go forth, light or heavy. The cave is being used as evidence in a live dispute, not recalled for its own sake.",
-            "bn": "এরপর যুক্তিটি পূর্ণ হয়: ফাক্বাদ নাসারাহুল্লাহ, আল্লাহ তো তাকে সাহায্য করেছেনই। কাজটি করছে অতীত কালই। যুক্তি এই নয় যে আল্লাহ তোমাদের ছাড়াই চালিয়ে নেবেন, বরং এই যে তিনি চালিয়ে নিয়েছেন — প্রমাণসহ, এমন এক ঘটনায় যা উপস্থিত সবাই মনে রেখেছে। আর 9:41 সঙ্গে সঙ্গেই আসে হালকা হোক বা ভারী, বেরিয়ে পড়ার আদেশ নিয়ে। গুহাকে ব্যবহার করা হচ্ছে চলমান এক বিতর্কে প্রমাণ হিসেবে, নিছক ঘটনার খাতিরে নয়।"
+            "bn": "এবার যুক্তিটা পূর্ণ হয়: 'ফাক্বাদ নাসারাহুল্লাহ', আল্লাহ তো তাঁকে সাহায্য করেছেনই। আসল ভার বহন করছে অতীত কাল। যুক্তিটা এই নয় যে তোমাদের ছাড়াও আল্লাহ চালিয়ে নেবেন; বরং তিনি তা করে দেখিয়েছেন, এমন এক ঘটনায় যা শ্রোতাদের সবারই মনে আছে। আর ঠিক এর পরেই ৯:৪১ আয়াত আদেশ দেয়: হালকা হও বা ভারী, বেরিয়ে পড়ো। গুহার ঘটনা এখানে নিছক স্মৃতিচারণ নয়; চলমান এক বিতর্কে তা প্রমাণ হিসেবে আনা হচ্ছে।"
           }
         ]
       },
@@ -777,11 +777,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Idh akhrajahu alladhina kafaru — when those who disbelieved drove him out. The Quran describes the same plot in 8:30, where they schemed to imprison, kill or expel him. Then thaniya ithnayni, the second of two. Not one of two: the second, which places him in a pair and leaves the other member unnamed in the verse and universally identified in the tradition as Abu Bakr (RA).",
-            "bn": "ইয্ আখরাজাহুল্লাযীনা কাফারূ — যখন কাফিররা তাকে বের করে দিয়েছিল। কুরআন একই ষড়যন্ত্রের কথা বলে 8:30 আয়াতে, যেখানে তারা তাকে বন্দী করা, হত্যা করা বা বহিষ্কার করার পরিকল্পনা করেছিল। এরপর সানিয়াস্‌নাইন, দুজনের দ্বিতীয়জন। ‘দুজনের একজন’ নয়: দ্বিতীয়জন — যা তাঁকে একটি জোড়ার ভেতরে বসায়, আর জোড়ার অন্যজনের নাম আয়াতে নেই, তবে ঐতিহ্যে সর্বসম্মতভাবে তিনি আবু বকর (রাঃ)।"
+            "bn": "'ইয্ আখরাজাহুল্লাযীনা কাফারূ': যখন কাফিররা তাঁকে বের করে দিয়েছিল। একই ষড়যন্ত্রের কথা কুরআন বলেছে ৮:৩০ আয়াতে, যেখানে তারা তাঁকে বন্দী করার, হত্যা করার বা বের করে দেওয়ার ফন্দি আঁটছিল। এরপর 'সানিয়াস্‌নাইন', দুজনের দ্বিতীয়জন। 'দুজনের একজন' নয়, দ্বিতীয়জন। এতে তিনি একটা জোড়ার ভেতরে আসেন; জোড়ার অন্যজনের নাম আয়াতে নেই, তবে সব বর্ণনায় একবাক্যে তিনি আবু বকর (রাঃ)।"
           },
           {
             "en": "Idh huma fil-ghar, when the two of them were in the cave. Sahih al-Bukhari records that they remained in the cave of Thawr for three nights while the search parties combed the roads. It also preserves Abu Bakr saying that he looked up and saw the feet of the pursuers, and told the Prophet ﷺ that if one of them merely looked down he would see them — and was answered: what do you think of two whose third is Allah?",
-            "bn": "ইয্ হুমা ফিল-গার, যখন তারা দুজন গুহায় ছিল। সহীহ বুখারী জানায় যে তাঁরা তিন রাত সাওর গুহায় ছিলেন, আর অনুসন্ধানকারী দলগুলো তখন পথঘাট চষে বেড়াচ্ছিল। বুখারী এ-ও সংরক্ষণ করেছে যে আবু বকর বলেছিলেন, তিনি ওপরে তাকিয়ে অনুসন্ধানকারীদের পা দেখেছিলেন, আর নবী ﷺ-কে বলেছিলেন, তাদের একজন যদি কেবল নিচের দিকে তাকাত তবে আমাদের দেখে ফেলত — জবাব এসেছিল: সেই দুজন সম্পর্কে তোমার কী ধারণা যাদের তৃতীয়জন আল্লাহ?"
+            "bn": "'ইয্ হুমা ফিল-গার': যখন তাঁরা দুজন গুহায় ছিলেন। সহীহ বুখারীতে আছে, তাঁরা তিন রাত সাওর গুহায় কাটিয়েছিলেন, আর খোঁজাখুঁজির দলগুলো তখন রাস্তাঘাট চষে বেড়াচ্ছিল। বুখারীতে আবু বকরের (রাঃ) এ কথাও আছে: তিনি মাথা তুলে পিছু নেওয়া লোকদের পা দেখতে পেলেন, আর নবী ﷺ-কে বললেন, ওদের কেউ একবার নিচের দিকে তাকালেই আমাদের দেখে ফেলবে। জবাব এল: সেই দুজন সম্পর্কে তোমার কী ধারণা, যাদের তৃতীয়জন আল্লাহ?"
           }
         ]
       },
@@ -793,27 +793,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Idh yaqulu lisahibihi la tahzan. When he said to his companion, do not grieve. The word chosen is hazan, sorrow, not khawf, fear. Arabic had the other verb available and did not use it. Grief looks at what is about to be lost — a life, a mission, a city left behind — and the reassurance is aimed precisely there.",
-            "bn": "ইয্ ইয়াকূলু লিসাহিবিহি লা তাহযান। যখন সে তার সঙ্গীকে বলল, দুঃখ করো না। বেছে নেওয়া শব্দটি হুযন অর্থাৎ দুঃখ, খাওফ অর্থাৎ ভয় নয়। আরবির হাতে অন্য ক্রিয়াটিও ছিল, তবু তা ব্যবহার করা হয়নি। দুঃখ তাকায় যা হারাতে বসেছে তার দিকে — একটি জীবন, একটি দাওয়াত, পেছনে ফেলে আসা একটি শহর — আর আশ্বাসটি ঠিক সেদিকেই তাক করা।"
+            "bn": "'ইয্ ইয়াকূলু লিসাহিবিহি লা তাহযান': যখন তিনি তাঁর সঙ্গীকে বলছিলেন, দুঃখ করো না। এখানে বেছে নেওয়া শব্দ হুযন, মানে দুঃখ; খাওফ, মানে ভয়, নয়। আরবিতে ভয়ের ক্রিয়াটিও হাতের কাছে ছিল, তবু সেটা আসেনি। দুঃখের চোখ থাকে যা হারাতে বসেছে তার দিকে: একটা জীবন, একটা দাওয়াত, পেছনে ফেলে আসা একটা শহর। আর আশ্বাসটা গিয়ে পড়ে ঠিক সেখানেই।"
           },
           {
             "en": "Sahib, companion, is the word the tradition takes as a permanent title. And then inna Allaha ma'ana — Allah is with us. Not with me. In a moment when one man could reasonably have claimed the protection for himself, the pronoun is plural. The whole theology of the verse turns on that syllable: the withness being invoked covers the frightened man as much as the one reassuring him.",
-            "bn": "সাহিব অর্থাৎ সঙ্গী — শব্দটিকে ঐতিহ্য একটি স্থায়ী উপাধি হিসেবেই নেয়। এরপর ইন্না আল্লাহা মা‘আনা — আল্লাহ আমাদের সাথে আছেন। ‘আমার সাথে’ নয়। এমন এক মুহূর্তে, যখন একজন মানুষ যুক্তিসঙ্গতভাবেই সুরক্ষাটিকে নিজের বলে দাবি করতে পারতেন, সেখানে সর্বনামটি বহুবচন। আয়াতের গোটা তত্ত্বটিই ওই এক ধ্বনির ওপর দাঁড়িয়ে: যে সঙ্গ ডাকা হচ্ছে তা ভীত মানুষটিকেও ততটাই ঢেকে রাখে যতটা ঢাকে আশ্বাসদাতাকে।"
+            "bn": "সাহিব, মানে সঙ্গী: উম্মাহ এ শব্দটাকে তাঁর স্থায়ী উপাধি হিসেবেই নিয়েছে। এরপর 'ইন্না আল্লাহা মা‘আনা', আল্লাহ আমাদের সঙ্গে আছেন। 'আমার সঙ্গে' নয়। যে মুহূর্তে একজন মানুষ ন্যায্যভাবেই এ সুরক্ষা নিজের বলে দাবি করতে পারতেন, সেখানে সর্বনামটা বহুবচন। আয়াতের পুরো তত্ত্ব দাঁড়িয়ে আছে ওই এক ধ্বনির ওপর: আল্লাহর যে সঙ্গের কথা বলা হচ্ছে, তা আশ্বাস দেওয়া মানুষটিকে যেমন ঘিরে রাখে, ভীত মানুষটিকেও ঠিক তেমনি।"
           }
         ]
       },
       {
         "h": {
           "en": "The Sakinah Sent Down",
-          "bn": "নাযিলকৃত সাকীনাহ"
+          "bn": "নাজিল হলো সাকীনাহ"
         },
         "p": [
           {
             "en": "Fa-anzala Allahu sakinatahu alayhi. The verb is anzala, sent down, the same verb used of revelation and of rain. Sakinah is stillness that settles — from the root that gives sakan, a dwelling, a place one comes to rest. It is not the absence of danger. It is composure supplied from outside while the danger is still standing at the mouth of the cave.",
-            "bn": "ফা-আনযালাল্লাহু সাকীনাতাহু ‘আলাইহ। ক্রিয়াটি আনযালা, অর্থাৎ নাযিল করলেন — একই ক্রিয়া যা ওহি ও বৃষ্টির জন্যও ব্যবহৃত হয়। সাকীনাহ হলো থিতিয়ে বসা স্থিরতা — সেই ধাতু থেকে যা থেকে সাকান, অর্থাৎ বাসস্থান, যেখানে মানুষ এসে বিশ্রাম নেয়। এটি বিপদের অনুপস্থিতি নয়। এটি বাইরে থেকে সরবরাহ করা প্রশান্তি, যখন বিপদ তখনো গুহামুখে দাঁড়িয়ে।"
+            "bn": "'ফা-আনযালাল্লাহু সাকীনাতাহু ‘আলাইহ'। ক্রিয়াটি আনযালা, মানে নাজিল করলেন; ওহি আর বৃষ্টির বেলাতেও এই ক্রিয়াই আসে। সাকীনাহ হলো এমন স্থিরতা, যা এসে মনে থিতু হয়। একই ধাতু থেকে এসেছে সাকান, মানে বাসস্থান, যেখানে মানুষ এসে বিশ্রাম পায়। সাকীনাহ মানে বিপদ না থাকা নয়। বিপদ যখন তখনো গুহার মুখে দাঁড়িয়ে, তখন বাইরে থেকে পাঠানো প্রশান্তি।"
           },
           {
             "en": "The pronoun alayhi, upon him, has occupied the commentators. The majority hold that it refers to the Prophet ﷺ, as the pronouns before it do. A well-known second view, reported from Ibn Abbas (RA) among others, is that it refers to Abu Bakr (RA), since the Prophet ﷺ was already settled and it was his companion who was being told not to grieve. Both are held by respected authorities and the verse is read either way without dispute over its meaning.",
-            "bn": "‘আলাইহি অর্থাৎ ‘তার ওপর’ সর্বনামটি নিয়ে মুফাসসিরগণ আলোচনা করেছেন। অধিকাংশের মত, এটি নবী ﷺ-কে বোঝায়, যেমন এর আগের সর্বনামগুলো বোঝায়। সুপরিচিত দ্বিতীয় মত, যা ইবনে আব্বাস (রাঃ) প্রমুখ থেকে বর্ণিত, তা হলো এটি আবু বকর (রাঃ)-কে বোঝায়, কারণ নবী ﷺ তো আগে থেকেই স্থির ছিলেন, আর দুঃখ না করতে বলা হচ্ছিল তাঁর সঙ্গীকে। উভয় মতই সম্মানিত ইমামগণ ধারণ করেন, আর আয়াতের অর্থ নিয়ে বিতর্ক ছাড়াই দুভাবেই পড়া হয়।"
+            "bn": "‘আলাইহি, মানে তাঁর ওপর: এ সর্বনামটি নিয়ে মুফাসসিরগণ অনেক আলোচনা করেছেন। অধিকাংশের মতে এটা নবী ﷺ-কে বোঝায়, যেমন এর আগের সর্বনামগুলো বোঝায়। দ্বিতীয় একটি সুপরিচিত মত, যা ইবনে আব্বাস (রাঃ) সহ অনেকের থেকে বর্ণিত: এটা আবু বকর (রাঃ)-কে বোঝায়, কারণ নবী ﷺ তো আগে থেকেই শান্ত ছিলেন, দুঃখ না করতে বলা হচ্ছিল তাঁর সঙ্গীকেই। দুটো মতই সম্মানিত আলিমদের, আর আয়াতের অর্থ নিয়ে কোনো বিরোধ ছাড়াই দুভাবেই পড়া হয়।"
           }
         ]
       },
@@ -825,11 +825,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa ayyadahu bijunudin lam tarawha — and He supported him with armies you did not see. Ayyada is from ayd, strength; the sense is bracing something so it holds. The relative clause is addressed to the audience: you did not see them. The help that decided the outcome was invisible to the very people now being asked to march. Sakinah appears again in this surah at 9:26, and Surah al-Fath records it repeatedly, as at 48:4.",
-            "bn": "ওয়া আইয়্যাদাহু বিজুনূদিন লাম তারাওহা — আর তিনি তাকে এমন বাহিনী দিয়ে শক্তি জুগিয়েছেন যা তোমরা দেখোনি। আইয়্যাদা এসেছে আইদ অর্থাৎ শক্তি থেকে; ভাবটি হলো কিছু একটাকে ঠেস দিয়ে ধরে রাখা যাতে তা টেকে। সম্বন্ধবাচক অংশটি শ্রোতাদের উদ্দেশে: তোমরা তাদের দেখোনি। যে সাহায্য ফলাফল নির্ধারণ করেছিল তা অদৃশ্য ছিল ঠিক সেই মানুষদের কাছেই, যাদের এখন বেরিয়ে পড়তে বলা হচ্ছে। সাকীনাহ এই সূরাতেই আবার আসে 9:26 আয়াতে, আর সূরা আল-ফাতহে বারবার, যেমন 48:4 আয়াতে।"
+            "bn": "'ওয়া আইয়্যাদাহু বিজুনূদিন লাম তারাওহা': আর তিনি তাঁকে শক্তি জোগালেন এমন বাহিনী দিয়ে, যা তোমরা দেখোনি। আইয়্যাদা এসেছে আইদ থেকে, মানে শক্তি; ভাবটা হলো কোনো কিছুকে ঠেকনা দিয়ে শক্ত করে ধরা, যাতে তা টিকে থাকে। শেষের অংশটি শ্রোতাদের উদ্দেশে বলা: তোমরা তাদের দেখোনি। যে সাহায্যে ফয়সালা হয়েছিল, তা ঠিক সেই মানুষদের চোখেই অদৃশ্য ছিল, যাদের এখন অভিযানে বের হতে বলা হচ্ছে। সাকীনাহর কথা এ সূরায় আবার এসেছে ৯:২৬ আয়াতে, আর সূরা আল-ফাতহে বারবার, যেমন ৪৮:৪ আয়াতে।"
           },
           {
             "en": "The closing clause is built on a contrast of grammar that translation flattens. The word of those who disbelieved was made lowest — a verb, an event with a date. But the word of Allah, hiya al-ulya, it is the highest — a nominal sentence with no verb at all, which in Arabic states a permanent fact rather than an occurrence. One was brought down; the other simply is above, and always was.",
-            "bn": "শেষ বাক্যাংশটি এমন এক ব্যাকরণগত বৈসাদৃশ্যের ওপর গড়া, যা অনুবাদে চাপা পড়ে যায়। যারা কুফরি করেছে তাদের কথা নিচু করে দেওয়া হলো — একটি ক্রিয়া, তারিখওয়ালা একটি ঘটনা। কিন্তু আল্লাহর কথা, হিয়াল-উলইয়া, তা-ই সর্বোচ্চ — একটি নামবাচক বাক্য, যাতে কোনো ক্রিয়াই নেই; আরবিতে এমন বাক্য কোনো ঘটনা নয়, বরং স্থায়ী সত্য ঘোষণা করে। একটিকে নামিয়ে দেওয়া হলো; অন্যটি কেবল ওপরেই আছে, আর সবসময়ই ছিল।"
+            "bn": "শেষ অংশটি দাঁড়িয়ে আছে ব্যাকরণের এক বৈপরীত্যের ওপর, যা অনুবাদে হারিয়ে যায়। কাফিরদের কথাকে নিচু করে দেওয়া হলো: এখানে ক্রিয়া আছে, তারিখসহ এক ঘটনা। কিন্তু আল্লাহর কথা, 'হিয়াল-উলইয়া', সেটাই সর্বোচ্চ। এ বাক্যে কোনো ক্রিয়াই নেই; আরবিতে এমন বাক্য কোনো ঘটনা নয়, চিরস্থায়ী সত্য জানায়। একটাকে নামিয়ে আনা হলো; অন্যটা এমনিতেই উপরে আছে, সবসময় ছিল।"
           }
         ]
       },
@@ -841,11 +841,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The scene is deliberately stripped of everything people count on. Two men, no army, no city, no money, a search party outside and a rock ceiling above. What remains is one sentence, and it is a statement of fact rather than a plan: Allah is with us. The verse does not teach that danger is unreal. It teaches what a believer says while it is still real.",
-            "bn": "দৃশ্যটি থেকে ইচ্ছাকৃতভাবে সেসব কিছু সরিয়ে নেওয়া হয়েছে যার ওপর মানুষ ভরসা করে। দুজন মানুষ, কোনো বাহিনী নেই, শহর নেই, অর্থ নেই, বাইরে অনুসন্ধানকারী দল আর মাথার ওপর পাথরের ছাদ। যা টিকে থাকে তা একটি বাক্য, আর তা কোনো পরিকল্পনা নয়, বরং সত্যের ঘোষণা: আল্লাহ আমাদের সাথে আছেন। আয়াত শেখায় না যে বিপদ অবাস্তব। এটি শেখায় বিপদ বাস্তব থাকতে থাকতেই একজন মুমিন কী বলে।"
+            "bn": "দৃশ্যটি থেকে ইচ্ছে করেই সরিয়ে নেওয়া হয়েছে সেই সবকিছু, যার ওপর মানুষ ভরসা করে। দুজন মানুষ; বাহিনী নেই, শহর নেই, টাকাপয়সা নেই; বাইরে খোঁজাখুঁজির দল, মাথার ওপর পাথরের ছাদ। বাকি থাকে শুধু একটা বাক্য, আর সেটা কোনো পরিকল্পনা নয়, একটা বাস্তব সত্য: আল্লাহ আমাদের সঙ্গে আছেন। আয়াত শেখায় না যে বিপদটা মিথ্যা। শেখায়, বিপদ সত্যি থাকতে থাকতেই একজন মুমিন কী বলেন।"
           },
           {
             "en": "There is also something in it for whoever is the frightened one. The words were not addressed to a person of great composure; they were addressed to the man who was afraid, and the sakinah came down in that cave, not before it. In practice this verse belongs to the night before a hearing, the wait for a result, the hour after bad news — said in the plural, because the promise was made to two.",
-            "bn": "যে ভীত, তার জন্যও এখানে কিছু আছে। কথাগুলো বলা হয়নি অসীম ধৈর্যের কোনো মানুষকে; বলা হয়েছিল সেই মানুষটিকে যিনি ভয় পাচ্ছিলেন, আর সাকীনাহ নাযিল হয়েছিল সেই গুহার ভেতরেই, তার আগে নয়। বাস্তবে এই আয়াতটি শুনানির আগের রাতের, ফলাফলের অপেক্ষার, দুঃসংবাদের পরের প্রহরের — আর তা বলতে হয় বহুবচনেই, কারণ প্রতিশ্রুতিটি দেওয়া হয়েছিল দুজনকে।"
+            "bn": "যিনি ভয় পাচ্ছেন, তাঁর জন্যও এখানে কিছু আছে। কথাগুলো খুব স্থির-শান্ত কোনো মানুষকে বলা হয়নি; বলা হয়েছিল সেই মানুষটিকে, যিনি ভয় পাচ্ছিলেন। আর সাকীনাহ নাজিল হয়েছিল ওই গুহার ভেতরেই, তার আগে নয়। বাস্তব জীবনে এ আয়াত শুনানির আগের রাতের, কোনো ফলাফলের অপেক্ষার, দুঃসংবাদ শোনার পরের প্রহরের। আর বলতে হয় বহুবচনেই, কারণ প্রতিশ্রুতি দেওয়া হয়েছিল দুজনকে।"
           }
         ]
       }
@@ -861,11 +861,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tawbah is Madinan and this stretch of it examines an expedition nobody wanted to make in the heat. 9:42 says that had it been an easy gain and a short trip they would have followed, but the journey was far for them. 9:43 then turns to the Prophet ﷺ himself with a reproach, and the order of its words is what the commentators notice: may Allah pardon you, why did you give them leave, before it was clear to you who told the truth and you knew the liars.",
-            "bn": "সূরা তাওবা মাদানী, আর এর এ অংশটি পরীক্ষা করে এমন এক অভিযান, গরমের ভেতরে যেটাতে কেউ যেতে চায়নি। ৯:৪২ আয়াত বলে, লাভটা সহজ আর পথটা ছোট হলে তারা অবশ্যই পিছে পিছে যেত, কিন্তু যাত্রা তাদের কাছে ছিল দূরের। এরপর ৯:৪৩ আয়াত ফেরে নবীর ﷺ নিজের দিকেই এক ভর্ৎসনা নিয়ে, আর তার শব্দের ক্রমটাই মুফাসসিরগণ খেয়াল করেন: আল্লাহ আপনাকে মাফ করুন, আপনি কেন তাদের অনুমতি দিলেন, কারা সত্য বলেছে তা আপনার কাছে স্পষ্ট হওয়ার আগে আর মিথ্যাবাদীদের চেনার আগে।"
+            "bn": "সূরা তাওবা মাদানী। এর এই অংশে খতিয়ে দেখা হয়েছে এমন এক অভিযান, প্রচণ্ড গরমে যেটাতে কেউই যেতে চায়নি। ৯:৪২ আয়াত বলে, লাভটা সহজ আর সফরটা ছোট হলে তারা ঠিকই পিছে পিছে যেত, কিন্তু পথটা তাদের কাছে দূরের মনে হলো। এরপর ৯:৪৩ আয়াত ভর্ৎসনা নিয়ে ফেরে স্বয়ং নবী ﷺ-এর দিকে। আর এর শব্দের ক্রমটাই মুফাসসিরদের চোখে পড়ে: আল্লাহ আপনাকে মাফ করুন; আপনি কেন তাদের অনুমতি দিলেন, কারা সত্য বলছে তা আপনার কাছে স্পষ্ট হওয়ার আগে, আর মিথ্যাবাদীদের চেনার আগে?"
           },
           {
             "en": "Ibn Kathir collects what the early commentators made of that order. Awn said: have you heard criticism softer than this, beginning with the pardon before the criticism; Muwarriq al-Ijli and others said the like. Qatadah added the sequel, that Allah criticised him here and later revealed the permission to let them lag behind if he wished, in 24:62; Ata' al-Khurasani said the same. And Mujahid reports that the verse came down about people who had said: ask the Messenger of Allah ﷺ for permission, and whether he agrees or not, stay behind.",
-            "bn": "ওই ক্রম নিয়ে আগের মুফাসসিরগণ কী বলেছেন, ইবনু কাসীর তা জমা করেন। আওন বলেছেন: এর চেয়ে নরম সমালোচনা কি কখনো শুনেছ, যা শুরু হয় সমালোচনার আগে মাফ দিয়ে? মুওয়ার্রিক আল-ইজলী আর অন্যরাও একই কথা বলেছেন। কাতাদা যোগ করেন এর পরের ধাপটা, আল্লাহ এখানে তাঁকে সমালোচনা করলেন, আর পরে ২৪:৬২ আয়াতে তাঁকে অনুমতি দিলেন যে তিনি চাইলে তাদের পিছিয়ে থাকতে দিতে পারেন; আতা আল-খুরাসানীও একই কথা বলেছেন। আর মুজাহিদ জানান, আয়াতটি নেমেছিল এমন লোকদের সম্পর্কে যারা বলেছিল: রাসূলুল্লাহর ﷺ কাছে অনুমতি চাও, তিনি রাজি হন বা না হন, পিছিয়েই থাক।"
+            "bn": "ওই ক্রম নিয়ে প্রথম যুগের মুফাসসিরগণ কী বলেছেন, ইবনু কাসীর তা একত্র করেছেন। আওন বলেছেন: এর চেয়ে কোমল তিরস্কার কি কখনো শুনেছ? তিরস্কারের আগেই শুরু হয়েছে মাফ দিয়ে! মুওয়ার্রিক আল-ইজলী প্রমুখও এমনটাই বলেছেন। কাতাদা এর পরের অংশটুকু যোগ করেন: আল্লাহ এখানে তাঁকে তিরস্কার করলেন, পরে ২৪:৬২ আয়াতে অনুমতি নাজিল করলেন যে তিনি চাইলে তাদের পিছিয়ে থাকতে দিতে পারেন। আতা আল-খুরাসানীও একই কথা বলেছেন। আর মুজাহিদ জানান, আয়াতটি নাজিল হয়েছিল এমন কিছু লোকের ব্যাপারে, যারা বলেছিল: রাসূলুল্লাহর ﷺ কাছে অনুমতি চাও; তিনি অনুমতি দিন বা না দিন, থেকে যাও।"
           }
         ]
       },
@@ -877,11 +877,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Our verse then identifies the believers by something they do not do. They do not ask your leave to be excused from striving with their wealth and their lives. It is a negative description, and an unusual test, because it does not look at how a person performs once the work has begun. It looks at who arrives beforehand with a request. The pair of nouns is the one this surah keeps using for what a man can put in, his wealth and his self.",
-            "bn": "এরপর আমাদের আয়াত মু'মিনদের চেনায় এমন কিছু দিয়ে যা তারা করে না। তারা নিজেদের মাল আর জান দিয়ে জিহাদ থেকে অব্যাহতি পেতে তোমার অনুমতি চায় না। এটা না-বাচক বর্ণনা, আর অন্যরকম এক পরীক্ষা, কারণ কাজ শুরু হওয়ার পর কেউ কীভাবে করে সেদিকে সে তাকায় না। সে তাকায় কে আগেই অনুরোধ নিয়ে হাজির হয় সেদিকে। আর বিশেষ্য জোড়াটি সেই একই, যেটা এ সূরা মানুষের দেওয়ার মতো জিনিস বোঝাতে বারবার ব্যবহার করে, তার মাল আর তার নিজের জান।"
+            "bn": "এরপর আমাদের আয়াত মু'মিনদের পরিচয় দেয় এমন একটা কাজ দিয়ে, যা তারা করে না: নিজেদের মাল আর জান দিয়ে জিহাদ থেকে রেহাই পেতে তারা তোমার কাছে অনুমতি চায় না। বর্ণনাটা না-বাচক, আর পরীক্ষাটাও অন্যরকম। কাজ শুরু হওয়ার পর কে কেমন করে, সেটা এ পরীক্ষা দেখে না; দেখে, কে আগেভাগেই অনুরোধ নিয়ে হাজির হয়। আর শব্দজোড়াটাও সেই একই, যা এ সূরা বারবার আনে মানুষের দেওয়ার মতো সম্বল বোঝাতে: তার মাল আর তার জান।"
           },
           {
             "en": "At-Tabari reads the verse as an act of disclosure: this is Allah informing His prophet ﷺ of the marks of the hypocrites, that among the signs by which they are known is their staying back from striving in the path of Allah by asking the Messenger of Allah ﷺ for leave to stay when the call went out, with lying excuses. He then puts the practical instruction in the Prophet's ﷺ mouth as its consequence: do not give leave to stay behind to one who asks it without an excuse.",
-            "bn": "তাবারী আয়াতটিকে পড়েন ফাঁস করে দেওয়ার একটি কাজ হিসেবে: এটি আল্লাহর পক্ষ থেকে তাঁর নবীকে ﷺ মুনাফিকদের চিহ্ন জানিয়ে দেওয়া, যে তাদের যে আলামতগুলো দিয়ে তাদের চেনা যায় তার একটি হলো আল্লাহর পথে জিহাদ থেকে পিছিয়ে থাকা, আর সেটা করা হয় ডাক পড়লে মিথ্যা ওজর দেখিয়ে রাসূলুল্লাহর ﷺ কাছে থেকে যাওয়ার অনুমতি চেয়ে। এরপর তিনি এর ফল হিসেবে কাজের নির্দেশটি নবীর ﷺ মুখে বসান: যে কোনো ওজর ছাড়াই থেকে যাওয়ার অনুমতি চায়, তাকে অনুমতি দেবেন না।"
+            "bn": "তাবারী আয়াতটিকে দেখেন মুখোশ খুলে দেওয়া হিসেবে: আল্লাহ এখানে তাঁর নবীকে ﷺ মুনাফিকদের চিহ্ন জানিয়ে দিচ্ছেন। যেসব আলামত দিয়ে তাদের চেনা যায়, তার একটি হলো আল্লাহর পথে জিহাদ থেকে পিছিয়ে থাকা: ডাক এলে মিথ্যা ওজর দেখিয়ে রাসূলুল্লাহর ﷺ কাছে থেকে যাওয়ার অনুমতি চাওয়া। এরপর এরই ফল হিসেবে কাজের নির্দেশটা তিনি নবীর ﷺ মুখে তুলে দেন: যে কোনো ওজর ছাড়াই থেকে যাওয়ার অনুমতি চায়, তাকে অনুমতি দেবেন না।"
           }
         ]
       },
@@ -893,11 +893,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di explains the absence rather than merely noting it, and his reason is about appetite. The believers do not ask leave to abandon striving with their wealth and their lives, he writes, because what is with them of desire for good and of faith carries them to it without anyone urging them on, let alone that they should ask leave to abandon it without an excuse. So the verse is not describing men who forced themselves. It is describing men for whom the thing had already become wanted.",
-            "bn": "সা'দী এই না-থাকাটাকে কেবল খেয়াল করেই ছাড়েন না, তিনি এর কারণও বলেন, আর কারণটা রুচি নিয়ে। তিনি লেখেন, মু'মিনরা নিজেদের মাল আর জান দিয়ে জিহাদ ছেড়ে দেওয়ার অনুমতি চায় না, কারণ ভালোর প্রতি টান আর ঈমান তাদের ভেতরে যা আছে তা-ই তাদের ওই দিকে নিয়ে যায়, কারও ঠেলার দরকার হয় না; আর ওজর ছাড়া সেটা ছেড়ে দেওয়ার অনুমতি চাওয়া তো আরও দূরের কথা। অর্থাৎ আয়াত এমন লোকদের বর্ণনা দিচ্ছে না যারা নিজেদের জোর করে রাজি করিয়েছে। সে বর্ণনা দিচ্ছে এমন লোকদের, যাদের কাছে জিনিসটা ততক্ষণে চাওয়ার জিনিস হয়ে গেছে।"
+            "bn": "সা'দী এই না-চাওয়াটা শুধু খেয়াল করেই থামেন না, এর কারণও বলেন। আর কারণটা মনের টান নিয়ে। তিনি লেখেন, মু'মিনরা মাল আর জান দিয়ে জিহাদ ছেড়ে দেওয়ার অনুমতি চায় না, কারণ তাদের ভেতরের কল্যাণের আকাঙ্ক্ষা আর ঈমানই তাদের সেদিকে টেনে নিয়ে যায়, কাউকে তাগাদা দিতে হয় না। ওজর ছাড়া তা ছেড়ে দেওয়ার অনুমতি চাওয়া তো অনেক দূরের কথা। অর্থাৎ আয়াত এমন লোকদের কথা বলছে না, যারা নিজেদের জোর করে রাজি করিয়েছে। বলছে এমন লোকদের কথা, যাদের কাছে কাজটা ততদিনে মনের চাওয়া হয়ে গেছে।"
           },
           {
             "en": "The closing clause is knowledge and not reward: and Allah is Knowing of those who fear Him. At-Tabari glosses it as knowledge of whoever feared Him and so guarded against Him by discharging His obligations, avoiding His disobedience, and hastening to His obedience. As-Sa'di turns it back on the verse itself, noting that part of His knowing the God-fearing is that He told us one of their signs: they do not ask leave to abandon the striving.",
-            "bn": "শেষ কথাটি প্রতিদান নয়, জানা: আর আল্লাহ মুত্তাকীদের সম্পর্কে জানেন। তাবারী এর ব্যাখ্যা দেন, তাঁর জানা আছে কে তাঁকে ভয় করেছে আর তাই তাঁর ফরজ আদায় করে, তাঁর নাফরমানি থেকে দূরে থেকে আর তাঁর আনুগত্যের দিকে দৌড়ে গিয়ে নিজেকে বাঁচিয়ে রেখেছে। সা'দী কথাটা আয়াতের দিকেই ঘুরিয়ে দেন, লিখে রাখেন যে মুত্তাকীদের সম্পর্কে তাঁর জানার একটা দিক এই যে তিনি আমাদের তাঁদের একটি আলামত জানিয়ে দিলেন: তাঁরা জিহাদ ছেড়ে দেওয়ার অনুমতি চান না।"
+            "bn": "শেষ বাক্যটি প্রতিদানের কথা নয়, জানার কথা: আর আল্লাহ মুত্তাকীদের ভালো করেই জানেন। তাবারীর ব্যাখ্যায়: তিনি জানেন কে তাঁকে ভয় করেছে, আর সেই ভয়ে তাঁর ফরজগুলো আদায় করে, তাঁর নাফরমানি এড়িয়ে আর তাঁর আনুগত্যে ছুটে গিয়ে নিজেকে বাঁচিয়েছে। সা'দী কথাটাকে আয়াতের দিকেই ফিরিয়ে আনেন। তিনি বলেন, মুত্তাকীদের তিনি যে জানেন, তার একটা দিক হলো তিনি আমাদের তাদের একটি আলামত জানিয়ে দিয়েছেন: তারা জিহাদ ছেড়ে দেওয়ার অনুমতি চায় না।"
           }
         ]
       },
@@ -909,11 +909,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "9:45 completes the sentence by naming who does ask: only those ask your leave who do not believe in Allah and the Last Day and whose hearts have doubted, so they waver in their doubt. The two verses together make a pair of descriptions rather than a rule, and the second is careful about the mechanism. It does not say they are cowards or that they love comfort; it says their hearts are in doubt, and that the doubting is what the wavering is made of.",
-            "bn": "৯:৪৫ আয়াত বাক্যটি পূর্ণ করে, নাম নিয়ে বলে কারা চায়: তোমার কাছে অনুমতি কেবল তারাই চায় যারা আল্লাহ আর শেষ দিনে ঈমান রাখে না আর যাদের অন্তর সন্দেহে পড়েছে, তাই তারা নিজেদের সন্দেহেই দোল খায়। দুটি আয়াত মিলে হয়ে ওঠে দুটি বর্ণনার জোড়া, কোনো বিধান নয়; আর দ্বিতীয়টি যন্ত্রটার ব্যাপারে সতর্ক। সে বলে না যে তারা ভীরু বা আরামপ্রিয়; সে বলে তাদের অন্তর সন্দেহে আছে, আর ওই সন্দেহ দিয়েই তৈরি হয়েছে তাদের দোল খাওয়া।"
+            "bn": "৯:৪৫ আয়াত বাক্যটা পূর্ণ করে, কারা অনুমতি চায় তাদের পরিচয় দিয়ে: তোমার কাছে অনুমতি চায় কেবল তারাই, যারা আল্লাহ ও শেষ দিনে ঈমান রাখে না, আর যাদের অন্তর সন্দেহে পড়েছে; তাই তারা নিজেদের সন্দেহে দোদুল্যমান। দুটি আয়াত মিলে দুটি বর্ণনার জোড়া তৈরি করে, কোনো বিধান নয়। আর দ্বিতীয় আয়াতটি ব্যাপারটা কীভাবে ঘটে, সে বিষয়ে সতর্ক। সে বলে না তারা ভীরু বা আরামপ্রিয়; বলে, তাদের অন্তরে সন্দেহ, আর ওই সন্দেহ দিয়েই গড়া তাদের দোদুল্যমানতা।"
           },
           {
             "en": "9:46 then gives the evidence, that had they intended to go forth they would have prepared some preparation for it, which is a test anybody can apply to himself: the gap between what a person says he intends and what he has actually got ready. And 9:81 shows the same people afterwards, rejoicing in having stayed behind and saying to each other, do not go forth in the heat.",
-            "bn": "এরপর ৯:৪৬ আয়াত দলিলটা দেয়, তাদের যদি বেরোনোর ইচ্ছেই থাকত তবে তারা সেজন্য কিছু প্রস্তুতি নিত; আর এ যাচাই যে কেউ নিজের উপর চালাতে পারে: মানুষ যা করার ইচ্ছে বলে আর যা সে সত্যিই তৈরি করে রেখেছে, এ দুয়ের মাঝের ফাঁকটা। আর ৯:৮১ আয়াত ওই একই লোকদের দেখায় পরে, পিছিয়ে থাকায় খুশি হয়ে একে অন্যকে বলছে, গরমের মধ্যে বেরোবেন না।"
+            "bn": "এরপর ৯:৪৬ আয়াত প্রমাণ দেয়: বের হওয়ার ইচ্ছা থাকলে তারা অবশ্যই এর জন্য কিছু না কিছু প্রস্তুতি নিত। এ পরীক্ষা যে কেউ নিজের ওপর চালাতে পারেন: মানুষ মুখে যা করার ইচ্ছা জানায়, আর আসলে যা প্রস্তুত করে রেখেছে, দুয়ের মাঝের ফাঁকটুকু দেখা। আর ৯:৮১ আয়াত পরে ওই লোকদেরই দেখায়: পেছনে থেকে যেতে পেরে তারা খুশি, আর একে অন্যকে বলছে, এই গরমে বের হয়ো না।"
           }
         ]
       },
@@ -925,11 +925,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A verse that praises people for not asking to be excused could easily be turned into a weapon against the genuinely unable, and the surah itself forbids that. 9:91 states it: there is no discomfort upon the weak, nor upon the ill, nor upon those who find nothing to spend, when they are sincere to Allah and His Messenger ﷺ, and there is no cause for blame against the doers of good. Three categories are named and cleared, and the condition attached to them is sincerity rather than capacity.",
-            "bn": "যে আয়াত অব্যাহতি না চাওয়ার জন্য মানুষের প্রশংসা করে, সেটাকে সহজেই সত্যিকারের অক্ষম লোকদের বিরুদ্ধে হাতিয়ার বানিয়ে ফেলা যায়; আর সূরা নিজেই সেটা নিষেধ করে। ৯:৯১ আয়াত বলে দেয়: দুর্বলের উপর, পীড়িতের উপর আর খরচ করার মতো কিছু যারা পায় না তাদের উপর কোনো অভিযোগ নেই, যদি তারা আল্লাহ আর তাঁর রাসূলের ﷺ প্রতি বিশ্বস্ত হয়; আর সৎকর্মশীলদের বিরুদ্ধে অভিযোগের কোনো কারণ নেই। তিনটি শ্রেণির নাম নিয়ে তাদের মুক্ত করা হয়, আর তাদের সঙ্গে জোড়া শর্তটি সামর্থ্য নয়, নিষ্ঠা।"
+            "bn": "যে আয়াত ছাড় না চাওয়ার জন্য মানুষের প্রশংসা করে, সেটাকে সহজেই সত্যিকারের অক্ষম মানুষদের বিরুদ্ধে অস্ত্র বানানো যায়; আর সূরা নিজেই তা নিষেধ করে। ৯:৯১ আয়াত স্পষ্ট বলে: দুর্বলদের ওপর, অসুস্থদের ওপর, আর যারা খরচ করার মতো কিছুই পায় না তাদের ওপর কোনো দোষ নেই, যদি তারা আল্লাহ ও তাঁর রাসূলের ﷺ প্রতি আন্তরিক থাকে; সৎকর্মশীলদের দোষারোপ করার কোনো পথ নেই। তিন শ্রেণির মানুষের নাম নিয়ে তাদের দায়মুক্ত করা হয়েছে, আর শর্ত রাখা হয়েছে আন্তরিকতা, সামর্থ্য নয়।"
           },
           {
             "en": "Read with 9:91, our verse stops being about ability at all. A weak man who wishes he could go is on the far side of it from a strong man who asks to be let off, and the verse's own test sorts them correctly, because what it examines is where the request comes from. At-Tabari's qualification carries the same weight in the other direction: he restricts the instruction to one who asks without an excuse.",
-            "bn": "৯:৯১ আয়াতের সঙ্গে পড়লে আমাদের আয়াত সামর্থ্য নিয়ে আর কিছুই বলে না। যে দুর্বল লোক যেতে পারলে বাঁচতেন, তিনি আর যে সবল লোক অব্যাহতি চান, তাঁরা এ আয়াতের দুই বিপরীত পাশে; আর আয়াতের নিজের যাচাই তাঁদের ঠিকভাবেই আলাদা করে, কারণ সে দেখে অনুরোধটা আসছে কোথা থেকে। তাবারীর শর্তটিও উল্টো দিক থেকে একই ওজন বহন করে: তিনি নির্দেশটিকে সীমাবদ্ধ রাখেন তার ব্যাপারে, যে কোনো ওজর ছাড়াই চায়।"
+            "bn": "৯:৯১ আয়াতের সঙ্গে মিলিয়ে পড়লে আমাদের আয়াতে সামর্থ্যের প্রশ্নটাই আর থাকে না। যে দুর্বল লোক মনে মনে চায়, যদি যেতে পারত, আর যে সবল লোক রেহাই চায়, এ আয়াতে তারা দুই বিপরীত প্রান্তে। আয়াতের নিজের পরীক্ষাই তাদের ঠিকঠাক আলাদা করে দেয়, কারণ সে দেখে অনুরোধটা কোথা থেকে আসছে। তাবারীর শর্তটাও উল্টো দিক থেকে একই কাজ করে: নির্দেশটা তিনি কেবল তার বেলায় খাটান, যে কোনো ওজর ছাড়াই অনুমতি চায়।"
           }
         ]
       },
@@ -941,11 +941,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse transfers easily because the situation is universal: a call goes out, and some people arrive with reasons before it has even been organised. The useful version of its test is not whether a person ever seeks exemption, since the Quran itself grants exemptions, but whether the exemptions he has sought this year would together describe somebody who wanted the work or somebody who wanted out of it.",
-            "bn": "আয়াতটি সহজেই এক জায়গা থেকে আরেক জায়গায় যায়, কারণ পরিস্থিতিটা সর্বজনীন: একটা ডাক পড়ে, আর কাজটা গোছানোর আগেই কিছু লোক কারণ নিয়ে হাজির হয়। এর যাচাইটার কাজের চেহারা এই নয় যে লোকটি কখনো ছাড় চায় কি না, কারণ কুরআন নিজেই ছাড় দেয়; বরং এই যে এ বছর সে যেসব ছাড় চেয়েছে সেগুলো একসঙ্গে এমন কারও বর্ণনা দেয় কি না যে কাজটা চেয়েছিল, নাকি এমন কারও যে কাজটা থেকে বেরিয়ে আসতে চেয়েছিল।"
+            "bn": "আয়াতটা সহজেই অন্য যুগেও খাটে, কারণ পরিস্থিতিটা চিরচেনা: একটা ডাক আসে, আর কাজটা গোছানোর আগেই কিছু লোক নানা কারণ দেখিয়ে হাজির হয়। এ পরীক্ষার কাজের রূপটা এই নয় যে কেউ কখনো ছাড় চায় কি না, কারণ কুরআন নিজেই ছাড় দেয়। আসল প্রশ্ন হলো: এ বছর সে যত ছাড় চেয়েছে, সব একসঙ্গে রাখলে কার ছবি ফোটে? এমন কারও, যে কাজটা চেয়েছিল; নাকি এমন কারও, যে কাজটা থেকে পালাতে চেয়েছিল?"
           },
           {
             "en": "As-Sa'di's reason is the part worth working on, because it is the only part a person can change. He locates the difference not in courage but in desire for good, the appetite that carries a man to a thing without being urged. That suggests the repair is upstream of the decision: what a person reads, keeps company with and asks for shapes what he wants, and what he wants decides whether he is the one with the request or the one already getting ready.",
-            "bn": "কাজ করার মতো অংশটা সা'দীর সেই কারণটাই, কারণ কেবল ওই অংশটাই মানুষ বদলাতে পারে। তিনি ফারাকটা রাখেন সাহসে নয়, ভালোর প্রতি টানে; সেই রুচিতে, যা ঠেলা ছাড়াই মানুষকে কোনো জিনিসের দিকে নিয়ে যায়। এতে বোঝা যায় মেরামতের জায়গাটা সিদ্ধান্তের আগে: মানুষ কী পড়ে, কার সঙ্গে চলে আর কী চায়, সেটাই ঠিক করে দেয় সে কী চাইবে; আর সে কী চায় তা-ই ঠিক করে দেয় সে অনুরোধ হাতে দাঁড়ানো লোক, নাকি আগেই প্রস্তুতি নিতে শুরু করা লোক।"
+            "bn": "সা'দীর দেওয়া কারণটাই নিয়ে কাজ করার মতো, কারণ কেবল এ অংশটাই মানুষ বদলাতে পারে। তিনি পার্থক্যটা খুঁজে পান সাহসে নয়, কল্যাণের আকাঙ্ক্ষায়; সেই টানে, যা তাগাদা ছাড়াই মানুষকে কোনো কাজের দিকে নিয়ে যায়। এতে বোঝা যায়, মেরামত করতে হবে সিদ্ধান্তের আগের ধাপে। মানুষ কী পড়ে, কাদের সঙ্গে ওঠাবসা করে, কী চেয়ে নেয়, তা-ই গড়ে দেয় সে কী চাইবে। আর সে কী চায়, তা-ই ঠিক করে, সে অনুরোধ হাতে দাঁড়ানো লোক হবে, নাকি আগেই প্রস্তুতি নিতে থাকা লোক।"
           }
         ]
       },
@@ -957,11 +957,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse carries no supplication, and what it describes is a state rather than an act, so the thing to ask for is the state. The Quran's nearest wording is in 9:91's condition, that those excused were sincere to Allah and His Messenger ﷺ, since sincerity is what makes an excuse honest and its absence is what the verse is exposing.",
-            "bn": "আয়াতে কোনো দোয়া নেই, আর সে যা বর্ণনা করে তা কোনো কাজ নয়, একটি অবস্থা; কাজেই চাওয়ার জিনিসটাও ওই অবস্থাটাই। এর সবচেয়ে কাছের কুরআনী শব্দ ৯:৯১ আয়াতের সেই শর্তে, যাদের ছাড় দেওয়া হলো তারা আল্লাহ আর তাঁর রাসূলের ﷺ প্রতি বিশ্বস্ত ছিল; কারণ নিষ্ঠাই কোনো ওজরকে সৎ করে, আর তার অনুপস্থিতিই এ আয়াত ফাঁস করে দিচ্ছে।"
+            "bn": "আয়াতে কোনো দোয়া নেই। আর এ আয়াত যা বর্ণনা করে তা কোনো কাজ নয়, একটি অবস্থা; তাই চাইতে হবে ওই অবস্থাটাই। কুরআনে এর সবচেয়ে কাছের শব্দ আছে ৯:৯১ আয়াতের শর্তে: যাদের ছাড় দেওয়া হয়েছিল, তারা আল্লাহ ও তাঁর রাসূলের ﷺ প্রতি আন্তরিক ছিল। কারণ আন্তরিকতাই কোনো ওজরকে সৎ করে, আর আন্তরিকতার অভাবটাই এ আয়াত ফাঁস করে দিচ্ছে।"
           },
           {
             "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, do not let me be of those who come asking to be excused, and if I have a real excuse, keep me sincere in it. It is assembled from this verse and from 9:91, and it is not a Sunnah du'a. The safer thing to carry is the verse's own closing clause, said as a reminder rather than a request: Allah is Knowing of those who fear Him.",
-            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে তাদের একজন করবেন না যারা অব্যাহতি চাইতে আসে; আর আমার সত্যিকারের ওজর থাকলে সেটাতে আমাকে নিষ্ঠাবান রাখুন। এটি এ আয়াত আর ৯:৯১ আয়াত জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। বহন করার জন্য বেশি নিরাপদ জিনিসটা আয়াতের নিজের শেষ কথাটাই, আর সেটা বলা হবে অনুরোধ হিসেবে নয়, মনে করিয়ে দেওয়া হিসেবে: আল্লাহ মুত্তাকীদের সম্পর্কে জানেন।"
+            "bn": "এ আয়াতের নিজের শব্দ দিয়ে একটা বাক্য যোগ করা যায়, তবে এর বেশি কিছু বলে দাবি করা যাবে না: হে আল্লাহ, যারা ছাড় চাইতে আসে, আমাকে তাদের দলে রাখবেন না; আর আমার সত্যিকারের ওজর থাকলে তাতেও আমাকে আন্তরিক রাখুন। বাক্যটি এ আয়াত আর ৯:৯১ আয়াত মিলিয়ে বানানো; এটা সুন্নাহর দোয়া নয়। সঙ্গে রাখার জন্য বেশি নিরাপদ আয়াতের নিজের শেষ বাক্যটি, যা বলা হবে আবদার হিসেবে নয়, নিজেকে মনে করিয়ে দিতে: আল্লাহ মুত্তাকীদের ভালো করেই জানেন।"
           }
         ]
       },
@@ -973,11 +973,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What am I currently trying to get excused from, and whom have I been asking? The verse examines the request rather than the performance, so if somebody listed every exemption I have sought this year, what would the list say about what I wanted? And asking to be let off is not always wrong, since the surah itself clears the weak and the ill and those with nothing to spend: do I actually know which of my requests had reasons of that kind?",
-            "bn": "এখন আমি কী থেকে অব্যাহতি পেতে চাইছি, আর চাইছি কার কাছে? আয়াত পরীক্ষা করে অনুরোধকে, কাজকে নয়; তাহলে এ বছর আমি যতগুলো ছাড় চেয়েছি কেউ যদি তার সবের তালিকা করে, সে তালিকা আমি কী চেয়েছিলাম সে সম্পর্কে কী বলবে? আর ছাড় চাওয়া সবসময় ভুল নয়, কারণ সূরা নিজেই দুর্বল, পীড়িত আর খরচের সামর্থ্য নেই এমন লোকদের মুক্ত করে দেয়: আমার কোন অনুরোধগুলোর পেছনে ওই ধরনের কারণ ছিল, তা কি আমি সত্যিই জানি?"
+            "bn": "এখন আমি কোন কাজ থেকে রেহাই পেতে চাইছি, আর কার কাছে চাইছি? আয়াত দেখে অনুরোধটা, কাজটা নয়। তাহলে এ বছর আমি যত ছাড় চেয়েছি, কেউ যদি সবগুলোর একটা তালিকা করে, সে তালিকা আমার চাওয়া সম্পর্কে কী বলবে? আর ছাড় চাওয়া সবসময় ভুল নয়; সূরা নিজেই দুর্বল, অসুস্থ আর খরচের সামর্থ্যহীনদের দায়মুক্ত করেছে। আমার কোন অনুরোধগুলোর পেছনে সত্যিই এমন কারণ ছিল, তা কি আমি জানি?"
           },
           {
             "en": "Two more. The mark of these people is that nobody had to urge them, so what good thing do I only ever do after being pushed into it? And the verse ends on Allah knowing the God-fearing rather than on praising them in front of anyone: how much of what I do is arranged so that somebody will notice it?",
-            "bn": "আরও দুটি। এ লোকদের চিহ্ন হলো, কাউকে তাদের ঠেলতে হয়নি; তাহলে কোন ভালো কাজটা আমি কেবল ঠেলা খাওয়ার পরেই করি? আর আয়াত শেষ হয় কারও সামনে তাদের প্রশংসা দিয়ে নয়, আল্লাহ মুত্তাকীদের জানেন এ কথা দিয়ে: আমার কাজের কতটা এমনভাবে সাজানো থাকে যাতে কেউ সেটা খেয়াল করে?"
+            "bn": "আরও দুটি প্রশ্ন। এ লোকদের চিহ্ন হলো, কাউকে তাদের তাগাদা দিতে হয়নি। তাহলে কোন ভালো কাজটা আমি কেবল ঠেলা খেলে তবেই করি? আর আয়াত শেষ হয় কারও সামনে তাদের প্রশংসা দিয়ে নয়, এ কথা দিয়ে যে আল্লাহ মুত্তাকীদের জানেন। আমার আমলের কতখানি এমনভাবে সাজানো, যাতে কারও চোখে পড়ে?"
           }
         ]
       },
@@ -989,11 +989,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One caution belongs at the end. At-Tabari calls this one of the signs by which the hypocrites of that moment were known, and the verse is describing a specific call to a specific expedition. A sign is not a verdict, and a person who asks to be excused from a task today has not been placed by this verse in the company 9:45 describes. The commentators use it to explain what happened at Tabuk, not to hand anyone a method for reading hearts.",
-            "bn": "শেষে একটি সতর্কতা রাখা দরকার। তাবারী এটিকে বলেন সেই সময়ের মুনাফিকদের চেনার আলামতগুলোর একটি, আর আয়াত বর্ণনা করছে একটি নির্দিষ্ট অভিযানের একটি নির্দিষ্ট ডাক। আলামত কোনো রায় নয়; আর আজ কোনো কাজ থেকে অব্যাহতি চাওয়া মানুষকে এ আয়াত ৯:৪৫ আয়াতের বর্ণনা করা দলে বসিয়ে দেয় না। মুফাসসিরগণ এটি ব্যবহার করেন তাবুকে যা ঘটেছিল তা বোঝাতে, কারও হাতে অন্তর পড়ার কোনো পদ্ধতি তুলে দিতে নয়।"
+            "bn": "শেষে একটা সতর্কতা জরুরি। তাবারী এটাকে বলেছেন সেই সময়ের মুনাফিকদের চেনার আলামতগুলোর একটি। আয়াতটি বলছে নির্দিষ্ট একটি অভিযানের নির্দিষ্ট একটি ডাকের কথা। আলামত মানে রায় নয়। আজ কেউ কোনো কাজ থেকে ছাড় চাইলেই এ আয়াত তাকে ৯:৪৫ আয়াতে বর্ণিত দলে ফেলে দেয় না। মুফাসসিরগণ এ আয়াত দিয়ে তাবুকে যা ঘটেছিল তা বোঝান; কারও হাতে মানুষের মন পড়ার কৌশল তুলে দেন না।"
           },
           {
             "en": "The useful direction is inward, which is where the verse's own gentleness points. It begins in a passage where Allah corrects His Prophet ﷺ by pardoning him first, and it ends by saying that Allah knows those who fear Him. Between a reproach that opens with a pardon and a conclusion that rests on His knowledge rather than on anyone's report, there is not much room left for a reader to use this verse on his neighbour.",
-            "bn": "কাজের দিকটা ভেতরের দিকে, আর আয়াতের নিজের কোমলতাও সেদিকেই আঙুল তোলে। এর শুরু এমন এক অংশে যেখানে আল্লাহ তাঁর নবীকে ﷺ শুধরে দেন আগে মাফ করে দিয়ে, আর শেষ হয় এ কথায় যে আল্লাহ মুত্তাকীদের জানেন। যে ভর্ৎসনা শুরু হয় মাফ দিয়ে আর যে সমাপ্তি দাঁড়িয়ে থাকে কারও রিপোর্টের উপর নয়, তাঁর জানার উপর, এ দুয়ের মাঝখানে পাঠকের জন্য এ আয়াত পাশের বাড়ির লোকের উপর চালানোর জায়গা বেশি থাকে না।"
+            "bn": "কাজে লাগানোর দিকটা নিজের ভেতরের দিকে, আর আয়াতের কোমলতাও সেদিকেই ইশারা করে। আয়াতটির শুরু এমন এক প্রসঙ্গে, যেখানে আল্লাহ তাঁর নবীকে ﷺ শুধরে দেন আগে মাফ করে দিয়ে; আর শেষ হয় এ কথায় যে আল্লাহ মুত্তাকীদের জানেন। যে তিরস্কার শুরু হয় মাফ দিয়ে, আর যে উপসংহার দাঁড়িয়ে থাকে কারও খবরের ওপর নয়, তাঁর জানার ওপর, এ দুয়ের মাঝে পাঠকের হাতে এমন জায়গা বেশি থাকে না, যেখান থেকে তিনি এ আয়াত প্রতিবেশীর ওপর খাটাবেন।"
           }
         ]
       }
@@ -1009,11 +1009,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a reply, and the provocation is preserved in the verse before it. During the season of the Tabuk expedition, Surah at-Tawbah exposes the hypocrites of Madinah at length, and 9:50 records their pattern: if good reaches you it grieves them, and if a calamity strikes you they say, we took our precaution beforehand, and they turn away rejoicing. Their happiness at the believers' hardship rested on a theory — that misfortune proves miscalculation, and that the clever stay safe.",
-            "bn": "আয়াতটি একটি জবাব, আর যে খোঁচার জবাব তা ঠিক আগের আয়াতে সংরক্ষিত। তাবুক অভিযানের মৌসুমে সূরা আত-তাওবাহ মদীনার মুনাফিকদের দীর্ঘভাবে উন্মোচন করে, আর 9:50 তাদের আচরণের ধরন লিখে রাখে: তোমার কাছে কল্যাণ পৌঁছালে তা তাদের পীড়া দেয়, আর তোমার ওপর বিপদ পড়লে তারা বলে, আমরা তো আগেই সাবধানতা নিয়েছিলাম — আর তারা উল্লাস করতে করতে ফিরে যায়। মুমিনদের কষ্টে তাদের আনন্দ একটি তত্ত্বের ওপর দাঁড়িয়ে ছিল — দুর্ভোগ মানেই হিসাবের ভুল, আর চালাকরাই নিরাপদ থাকে।"
+            "bn": "আয়াতটি একটি জবাব, আর যে খোঁচার জবাব, সেটা রয়ে গেছে ঠিক আগের আয়াতে। তাবুক অভিযানের সেই সময়ে সূরা আত-তাওবাহ মদীনার মুনাফিকদের মুখোশ বিস্তারিতভাবে খুলে দেয়। ৯:৫০ আয়াত তাদের স্বভাবটা তুলে ধরে: তোমার ভালো কিছু হলে তাদের খারাপ লাগে, আর তোমার ওপর বিপদ এলে তারা বলে, আমরা তো আগেই সাবধান হয়েছিলাম; তারপর খুশিতে মেতে ফিরে যায়। মুমিনদের কষ্টে তাদের এই খুশির পেছনে ছিল একটা ধারণা: বিপদ মানেই হিসাবে ভুল, আর চালাকরাই নিরাপদে থাকে।"
           },
           {
             "en": "The believers are then given one sentence to say back: nothing will ever strike us except what Allah has written for us; He is our Protector, and upon Allah let the believers rely. The reply does not deny that hardship came. It denies the hypocrites' reading of it. What arrived was neither accident nor blunder; it was decree, written before it struck, by the One who remains our Mawla through it.",
-            "bn": "এরপর মুমিনদের ফিরিয়ে বলার জন্য একটিমাত্র বাক্য দেওয়া হয়: আমাদের ওপর কখনোই কিছু পড়বে না, আল্লাহ আমাদের জন্য যা লিখে রেখেছেন তা ছাড়া; তিনিই আমাদের অভিভাবক, আর আল্লাহর ওপরই মুমিনদের ভরসা করা উচিত। এই জবাব অস্বীকার করে না যে কষ্ট এসেছিল। এটি অস্বীকার করে মুনাফিকদের ব্যাখ্যাটিকে। যা এসেছে তা দুর্ঘটনাও নয়, ভুল হিসাবও নয়; তা তাকদীর — আঘাত করার আগেই লেখা, তাঁরই হাতে যিনি এর মধ্য দিয়েও আমাদের মাওলা থেকে যান।"
+            "bn": "তারপর মুমিনদের জবাবে বলার জন্য একটি বাক্য দেওয়া হয়: আল্লাহ আমাদের জন্য যা লিখে রেখেছেন, তা ছাড়া আর কিছুই আমাদের ওপর আসবে না; তিনিই আমাদের অভিভাবক, আর মুমিনরা যেন আল্লাহর ওপরই ভরসা করে। এ জবাব অস্বীকার করে না যে কষ্ট এসেছিল। অস্বীকার করে মুনাফিকদের ব্যাখ্যাটা। যা এসেছে তা দুর্ঘটনাও নয়, ভুল হিসাবের ফলও নয়; তা তাকদীর, যা আঘাত হানার আগেই লেখা হয়ে আছে। আর লিখেছেন তিনিই, যিনি এর মধ্যেও আমাদের মাওলা থেকে যান।"
           }
         ]
       },
@@ -1025,11 +1025,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic contains a choice of preposition that the commentators, as-Sa'di among them, refuse to pass over. The verse does not say what Allah has written 'alayna, against us, but kataba lana, written for us. The event the hypocrites call a disaster is filed, in the believer's own sentence, under things granted. For people who fight and spend expecting one of two good ends, victory or reward with Allah, even the outward loss lands in the credit column.",
-            "bn": "আরবিতে এখানে অব্যয় বাছাইয়ের এমন এক সূক্ষ্মতা আছে, যা মুফাসসিরগণ — তাঁদের মধ্যে আস-সা'দীও — এড়িয়ে যেতে রাজি নন। আয়াতটি বলে না, আল্লাহ যা 'আলাইনা' — আমাদের বিরুদ্ধে — লিখেছেন; বলে 'কাতাবা লানা' — আমাদের জন্য, আমাদের পক্ষে লিখেছেন। মুনাফিকরা যাকে বিপর্যয় বলে, মুমিনের নিজের বাক্যে সেই ঘটনাই নথিভুক্ত হয় প্রাপ্তির খাতায়। যারা লড়ে ও ব্যয় করে দুটি শুভ পরিণতির একটির আশায় — বিজয়, নয়তো আল্লাহর কাছে প্রতিদান — তাদের কাছে বাহ্যিক ক্ষতিটুকুও জমার ঘরে পড়ে।"
+            "bn": "এখানে আরবিতে ছোট্ট একটা শব্দ বেছে নেওয়া হয়েছে, যা মুফাসসিরগণ চোখ এড়িয়ে যেতে দেন না; আস-সা'দীও তাঁদের একজন। আয়াত বলে না, আল্লাহ যা 'আলাইনা', আমাদের বিরুদ্ধে, লিখেছেন; বলে 'কাতাবা লানা', আমাদের জন্য লিখেছেন। মুনাফিকরা যে ঘটনাকে বিপর্যয় বলে, মুমিন নিজের বাক্যে সেটাকেই রাখেন পাওনার খাতায়। যারা লড়াই করে আর খরচ করে দুটি কল্যাণের একটির আশায়, হয় বিজয়, নয়তো আল্লাহর কাছে প্রতিদান, তাদের কাছে বাইরের ক্ষতিটাও জমার ঘরেই পড়ে।"
           },
           {
             "en": "Then comes huwa Mawlana, He is our Protector. Placed between the decree and the command to rely, the name does the explaining. A decree from a stranger might be endured; a decree from one's Mawla, the guardian who claims you and whom you claim, is trusted. The verse is not asking believers to accept that fate is unavoidable, which any fatalist manages. It asks them to accept that the One writing it is theirs.",
-            "bn": "তারপর আসে 'হুয়া মাওলানা' — তিনিই আমাদের অভিভাবক। তাকদীরের কথা ও ভরসার আদেশের মাঝখানে বসে নামটিই ব্যাখ্যার কাজ সারে। অচেনা কারও ফয়সালা হয়তো সহ্য করা যায়; কিন্তু নিজের মাওলার ফয়সালা — সেই অভিভাবক, যিনি তোমাকে আপন বলে দাবি করেন এবং যাঁকে তুমি আপন বলে দাবি করো — তার ওপর ভরসা করা যায়। আয়াতটি মুমিনদের বলছে না, নিয়তি অনিবার্য বলে মেনে নাও — তা তো যেকোনো অদৃষ্টবাদীই পারে। এটি বলছে মেনে নিতে যে যিনি লিখছেন তিনি তাদেরই।"
+            "bn": "এরপর আসে 'হুয়া মাওলানা': তিনিই আমাদের অভিভাবক। তাকদীরের কথা আর ভরসার আদেশের মাঝখানে বসে এই নামটাই ব্যাখ্যার কাজ করে। অচেনা কারও ফয়সালা হয়তো সহ্য করা যায়। কিন্তু নিজের মাওলার ফয়সালায় ভরসা করা যায়; তিনি সেই অভিভাবক, যিনি আপনাকে নিজের বলে দাবি করেন, আর আপনিও যাঁকে নিজের বলে দাবি করেন। আয়াত মুমিনদের শুধু এটা মেনে নিতে বলছে না যে ভাগ্য এড়ানো যায় না; সেটা তো যেকোনো অদৃষ্টবাদীও পারে। বলছে এটা মেনে নিতে যে, যিনি লিখছেন, তিনি তাদেরই আপন।"
           }
         ]
       },
@@ -1041,11 +1041,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It matters that the hypocrites' boast in 9:50 was about precaution. Islam does not oppose precaution; the same surah's campaigns involved provisions, mounts and planning, and the believers are nowhere told to abandon means. The difference is in what each party believes the means accomplish. The hypocrite believes his precaution is what kept him safe, so the struck are simply the careless. The believer takes the means and knows the outcome was written above them.",
-            "bn": "লক্ষণীয়, 9:50 আয়াতে মুনাফিকদের অহংকার ছিল সাবধানতা নিয়েই। ইসলাম সাবধানতার বিরোধী নয়; এই সূরারই অভিযানগুলোতে ছিল রসদ, বাহন ও পরিকল্পনা, আর মুমিনদের কোথাও বলা হয়নি উপকরণ ছেড়ে দিতে। পার্থক্য এখানে — উপকরণ কী অর্জন করে, তা নিয়ে দুই পক্ষের বিশ্বাসে। মুনাফিক বিশ্বাস করে তার সাবধানতাই তাকে বাঁচিয়েছে, কাজেই যারা আক্রান্ত তারা স্রেফ অসতর্ক। মুমিন উপকরণ গ্রহণ করে, আর জানে ফলাফল তার ঊর্ধ্বে লেখা হয়ে আছে।"
+            "bn": "লক্ষ করার মতো ব্যাপার, ৯:৫০ আয়াতে মুনাফিকদের বড়াই ছিল সাবধানতা নিয়েই। ইসলাম সাবধানতার বিরোধী নয়। এই সূরার অভিযানগুলোতেই ছিল রসদ, সওয়ারি আর পরিকল্পনা; মুমিনদের কোথাও উপায়-উপকরণ ছেড়ে দিতে বলা হয়নি। পার্থক্য হলো, উপকরণ আসলে কী করে, তা নিয়ে দুই পক্ষের বিশ্বাসে। মুনাফিক ভাবে, তার সাবধানতাই তাকে বাঁচিয়েছে; কাজেই যাদের ওপর বিপদ এসেছে, তারা নিছক বেখেয়াল। মুমিন উপকরণ গ্রহণ করেন, আর জানেন, ফলাফল লেখা আছে সেসবের ঊর্ধ্বে।"
           },
           {
             "en": "This is why the verse can end by commanding tawakkul, reliance, in the same breath as decree. Reliance is not the absence of effort but the placement of trust after effort. At-Tirmidhi relates the counsel of the Prophet ﷺ to Ibn Abbas (RA): know that if the whole nation gathered to harm you, they could not harm you except by something Allah had already written against you; the pens have been lifted and the pages have dried.",
-            "bn": "এ কারণেই আয়াতটি তাকদীরের কথার সঙ্গে একই নিঃশ্বাসে তাওয়াক্কুল — ভরসার — আদেশ দিয়ে শেষ হতে পারে। ভরসা মানে চেষ্টার অনুপস্থিতি নয়, বরং চেষ্টার পরে আস্থাটি কোথায় রাখা হলো, সেটি। তিরমিযী নবী ﷺ-এর সেই উপদেশ বর্ণনা করেন ইবনে আব্বাস (রাঃ)-কে: জেনে রাখো, গোটা জাতি জড়ো হয়েও তোমার ক্ষতি করতে পারবে না — কেবল ততটুকু ছাড়া, যা আল্লাহ আগেই তোমার ওপর লিখে রেখেছেন; কলম তুলে নেওয়া হয়েছে, পৃষ্ঠাগুলো শুকিয়ে গেছে।"
+            "bn": "এ কারণেই আয়াত তাকদীরের কথার সঙ্গে একই নিঃশ্বাসে তাওয়াক্কুল, অর্থাৎ ভরসার আদেশ দিয়ে শেষ হতে পারে। ভরসা মানে চেষ্টা না করা নয়; চেষ্টার পরে আস্থাটা ঠিক জায়গায় রাখা। তিরমিযী বর্ণনা করেন, নবী ﷺ ইবনে আব্বাসকে (রাঃ) উপদেশ দিয়েছিলেন: জেনে রাখো, গোটা উম্মত জড়ো হয়ে তোমার ক্ষতি করতে চাইলেও আল্লাহ আগেই তোমার বিপক্ষে যা লিখে রেখেছেন, তা ছাড়া কোনো ক্ষতি করতে পারবে না; কলম তুলে নেওয়া হয়েছে, আর খাতাগুলো শুকিয়ে গেছে।"
           }
         ]
       },
@@ -1057,27 +1057,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Other verses complete the picture this one sketches. In 57:22-23, no calamity strikes the earth or yourselves except that it is in a book before We bring it into being, and the stated purpose follows: so that you neither despair over what escapes you nor exult over what He gives you. Belief in the prior writing is not offered as a puzzle about free will; it is offered as a regulator of the two emotions that most distort a life, grief and vanity.",
-            "bn": "অন্য আয়াতগুলো এই আয়াতের আঁকা ছবিটি সম্পূর্ণ করে। 57:22-23 আয়াতে: পৃথিবীতে বা তোমাদের নিজেদের ওপর এমন কোনো বিপদ আসে না, যা আমি ঘটানোর আগেই এক কিতাবে নেই; আর ঘোষিত উদ্দেশ্যটি এরপরই আসে — যেন যা হাতছাড়া হলো তার শোকে তোমরা ভেঙে না পড়ো, আর তিনি যা দিলেন তা নিয়ে অহংকার না করো। পূর্বলিখনে বিশ্বাসকে স্বাধীন ইচ্ছার ধাঁধা হিসেবে পেশ করা হয়নি; পেশ করা হয়েছে সেই দুটি আবেগের নিয়ন্ত্রক হিসেবে, যা জীবনকে সবচেয়ে বেশি বিকৃত করে — শোক ও দম্ভ।"
+            "bn": "অন্য কিছু আয়াত এ আয়াতের আঁকা ছবিটা পূর্ণ করে। ৫৭:২২-২৩ আয়াতে আছে: পৃথিবীতে বা তোমাদের নিজেদের ওপর যে বিপদই আসে, আমি তা ঘটানোর আগেই এক কিতাবে লেখা থাকে। আর এর উদ্দেশ্যও সঙ্গে সঙ্গে বলে দেওয়া হয়েছে: যাতে যা হাতছাড়া হয় তার জন্য তোমরা হতাশ না হও, আর তিনি যা দেন তা নিয়ে উল্লাসে মেতে না ওঠো। আগেই লেখা থাকার বিশ্বাসটা এখানে ইচ্ছার স্বাধীনতা নিয়ে কোনো ধাঁধা হিসেবে আসেনি। এসেছে সেই দুটি আবেগ সামলানোর উপায় হিসেবে, যা জীবনকে সবচেয়ে বেশি বাঁকিয়ে দেয়: শোক আর অহংকার।"
           },
           {
             "en": "And 64:11 adds the interior effect: no calamity strikes except by Allah's permission, and whoever believes in Allah, He guides his heart. The commentators read the guided heart as the one that, in the first shock, knows what it is looking at — decree from its Protector — and so settles. The sentence of 9:51 is the spoken form of that settled heart, which is why it is given as a thing to say, not merely to think.",
-            "bn": "আর 64:11 যোগ করে ভেতরের প্রভাবটি: আল্লাহর অনুমতি ছাড়া কোনো বিপদ আসে না, আর যে আল্লাহর প্রতি ঈমান আনে, তিনি তার হৃদয়কে পথ দেখান। মুফাসসিরগণ পথপ্রাপ্ত হৃদয় বলতে সেই হৃদয়কে বোঝেন, যা প্রথম ধাক্কাতেই চিনে ফেলে সে কী দেখছে — নিজের অভিভাবকের ফয়সালা — আর তাই স্থির হয়ে যায়। 9:51 আয়াতের বাক্যটি সেই স্থির হৃদয়েরই উচ্চারিত রূপ; এ কারণেই এটি দেওয়া হয়েছে বলার জিনিস হিসেবে, শুধু ভাবার জিনিস হিসেবে নয়।"
+            "bn": "আর ৬৪:১১ আয়াত যোগ করে ভেতরের ফলটা: আল্লাহর অনুমতি ছাড়া কোনো বিপদ আসে না, আর যে আল্লাহর ওপর ঈমান আনে, তিনি তার অন্তরকে হিদায়াত দেন। মুফাসসিরগণের মতে হিদায়াতপ্রাপ্ত অন্তর সেটাই, যা প্রথম ধাক্কাতেই বুঝে ফেলে সে কী দেখছে: নিজের অভিভাবকের ফয়সালা। আর তাই সে শান্ত হয়ে যায়। ৯:৫১ আয়াতের বাক্যটি সেই শান্ত অন্তরেরই মুখের ভাষা। এজন্যই এটা দেওয়া হয়েছে মুখে বলার জন্য, শুধু মনে মনে ভাবার জন্য নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Calm That Still Moves",
-          "bn": "যে প্রশান্তি তবু চলে"
+          "bn": "প্রশান্ত, তবু সচল"
         },
         "p": [
           {
             "en": "The note behind this article observes that this certainty does not make the believer passive; it makes the believer calm. The proof is the verse's own setting. It was revealed among people preparing an arduous expedition to Tabuk in heat and scarcity. The sentence was not given to people in armchairs to excuse inaction, but to people already marching, so that fear of outcomes would not turn them back. Decree, rightly believed, is fuel for the risk-taking that obedience requires.",
-            "bn": "এই লেখার পেছনের নোটটি লক্ষ করে: এই নিশ্চয়তা মুমিনকে নিষ্ক্রিয় করে না; করে প্রশান্ত। প্রমাণ আয়াতটির নিজের প্রেক্ষাপটেই। এটি নাযিল হয়েছিল এমন মানুষদের মাঝে, যারা প্রচণ্ড গরম ও অভাবের মধ্যে তাবুকের কঠিন অভিযানের প্রস্তুতি নিচ্ছিলেন। বাক্যটি আরামকেদারায় বসা লোকদের অলসতার অজুহাত হিসেবে দেওয়া হয়নি; দেওয়া হয়েছিল ইতিমধ্যে পথে নামা মানুষদের, যেন পরিণতির ভয় তাদের ফিরিয়ে না দেয়। তাকদীরে সঠিক বিশ্বাস সেই ঝুঁকি নেওয়ারই জ্বালানি, যা আনুগত্যের জন্য লাগে।"
+            "bn": "এ লেখার পেছনের নোটে বলা হয়েছে: এ দৃঢ় বিশ্বাস মুমিনকে নিষ্ক্রিয় করে না, শান্ত করে। প্রমাণ আয়াতের নিজের প্রেক্ষাপটেই। আয়াতটি নাজিল হয়েছিল এমন মানুষদের মাঝে, যাঁরা প্রচণ্ড গরম আর অভাবের মধ্যে তাবুকের কঠিন অভিযানের প্রস্তুতি নিচ্ছিলেন। বাক্যটি আরামে বসে থাকা লোকদের হাতে কিছু না করার অজুহাত হিসেবে দেওয়া হয়নি। দেওয়া হয়েছিল তাঁদের, যাঁরা ইতিমধ্যে পথে নেমে পড়েছেন, যাতে পরিণতির ভয় তাঁদের ফিরিয়ে না আনে। তাকদীরে ঠিকঠাক বিশ্বাস থাকলে তা আনুগত্যের পথে প্রয়োজনীয় ঝুঁকি নেওয়ার সাহস জোগায়।"
           },
           {
             "en": "In ordinary life the verse works the same way at a smaller scale. Before a diagnosis, an interview, a hard conversation, the sentence can be said as it was revealed to be said. What it removes is not the event but the double burden — the event plus the belief that everything hangs on your management of it. Do what is yours to do; what strikes after that was written for you, by your Protector, and He does not write carelessly.",
-            "bn": "দৈনন্দিন জীবনে আয়াতটি ছোট মাপে একইভাবে কাজ করে। কোনো রোগনির্ণয়ের আগে, চাকরির সাক্ষাৎকারের আগে, কঠিন কোনো কথোপকথনের আগে — বাক্যটি ঠিক সেভাবেই বলা যায়, যেভাবে বলার জন্য তা নাযিল হয়েছিল। এটি যা সরায় তা ঘটনাটি নয়, বরং দ্বিগুণ বোঝাটি — ঘটনা, আর তার সঙ্গে এই বিশ্বাস যে সবকিছু ঝুলে আছে তোমার ব্যবস্থাপনার ওপর। তোমার করণীয়টুকু করো; এরপর যা আঘাত করে তা তোমার জন্য লেখা হয়েছিল — তোমার অভিভাবকের হাতে, আর তিনি অযত্নে লেখেন না।"
+            "bn": "সাধারণ জীবনেও আয়াতটি ছোট পরিসরে একইভাবে কাজ করে। ডাক্তারের রিপোর্ট আসার আগে, চাকরির সাক্ষাৎকারের আগে, কঠিন কোনো আলাপের আগে বাক্যটি বলা যায়, ঠিক যেভাবে বলার জন্য তা নাজিল হয়েছিল। এটা ঘটনাটা সরিয়ে দেয় না; সরায় দ্বিগুণ বোঝা: ঘটনা, আর সেই সঙ্গে এই বিশ্বাস যে সবকিছু নির্ভর করছে আপনি কতটা সামলাতে পারেন তার ওপর। আপনার যা করার, করুন। এরপর যা আসে, তা আপনার জন্যই লেখা হয়েছিল, আপনার অভিভাবকের হাতে; আর তিনি অযত্নে লেখেন না।"
           }
         ]
       }
@@ -1093,11 +1093,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tawbah is Madinan and this verse comes after a refusal. 9:53 tells them to spend willingly or unwillingly, it will never be accepted from them; 9:54 gives the reasons, that they disbelieved in Allah and His Messenger ﷺ, that they come to prayer only lazily, and that they spend only unwillingly. Then our verse turns from their money to the Prophet's ﷺ eye, and 9:56 shows them swearing they are of you while they are not, a people afraid.",
-            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত আসে একটি প্রত্যাখ্যানের পরে। ৯:৫৩ আয়াত তাদের বলে, খুশিমনে দাও বা অনিচ্ছায়, তোমাদের থেকে তা কখনো কবুল হবে না; ৯:৫৪ আয়াত কারণগুলো দেয়, তারা আল্লাহ আর তাঁর রাসূলকে ﷺ অস্বীকার করেছে, নামাযে আসে কেবল শৈথিল্য নিয়ে, আর দান করে কেবল অনিচ্ছা নিয়ে। এরপর আমাদের আয়াত তাদের টাকা থেকে মুখ ফেরায় নবীর ﷺ চোখের দিকে, আর ৯:৫৬ আয়াত দেখায় তারা কসম করে বলছে তারা তোমাদেরই লোক, অথচ তারা নয়; আসলে তারা ভীত এক দল।"
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত আসে একটা প্রত্যাখ্যানের পরে। ৯:৫৩ আয়াত তাদের বলে: খুশিমনে খরচ করো বা অনিচ্ছায়, তোমাদের কাছ থেকে তা কখনো কবুল হবে না। ৯:৫৪ আয়াত এর কারণ বলে দেয়: তারা আল্লাহ ও তাঁর রাসূলকে ﷺ অস্বীকার করেছে, নামাজে আসে অলসভাবে, আর খরচ করে অনিচ্ছা নিয়ে। এরপর আমাদের আয়াত তাদের টাকার প্রসঙ্গ ছেড়ে নবীর ﷺ চোখের দিকে ফেরে। আর ৯:৫৬ আয়াত দেখায়, তারা কসম খেয়ে বলে তারা তোমাদেরই লোক, অথচ তারা তা নয়; আসলে তারা ভয়ে কাঁপা এক দল।"
           },
           {
             "en": "The instruction itself is about looking rather than about them. Let not their wealth or their children impress you: an imperative addressed to the observer. Ibn Kathir reads it alongside two verses that do the same work, 20:131, do not extend your eyes toward what We have given various groups for enjoyment, the splendour of worldly life by which We test them; and 23:55-56, do they think that what We extend to them of wealth and children is because We hasten good things for them, rather they do not perceive.",
-            "bn": "নির্দেশটা নিজেই তাদের নিয়ে নয়, তাকানো নিয়ে। তাদের ধন-সম্পদ আর সন্তান তোমার চোখ ধাঁধিয়ে না দিক: হুকুমটা দর্শকের উদ্দেশে। ইবনু কাসীর এটিকে পড়েন এমন দুটি আয়াতের পাশে রেখে যারা একই কাজ করে; ২০:১৩১, তুমি চোখ বাড়িয়ে দিও না ওই সবের দিকে যা আমি তাদের বিভিন্ন দলকে ভোগের জন্য দিয়েছি, দুনিয়ার জীবনের সৌন্দর্য, যা দিয়ে আমি তাদের পরীক্ষা করি; আর ২৩:৫৫-৫৬, তারা কি ভাবে আমি তাদের যে সম্পদ আর সন্তান দিয়ে বাড়িয়ে দিই তা তাদের জন্য কল্যাণ ত্বরান্বিত করা, না, তারা বুঝে না।"
+            "bn": "নির্দেশটা আসলে তাদের নিয়ে নয়, তাকানো নিয়ে। তাদের ধন-সম্পদ আর সন্তান তোমার চোখ ধাঁধিয়ে না দিক: আদেশটা যিনি দেখছেন তাঁর উদ্দেশে। ইবনু কাসীর এটিকে পড়েন একই কাজ করা আরও দুটি আয়াতের পাশে রেখে। ২০:১৩১: আমি তাদের বিভিন্ন দলকে ভোগের জন্য দুনিয়ার জীবনের যে চাকচিক্য দিয়েছি, যা দিয়ে তাদের পরীক্ষা করি, সেদিকে তুমি চোখ তুলে তাকিয়ো না। আর ২৩:৫৫-৫৬: তারা কি ভাবে, আমি যে তাদের ধন-সম্পদ আর সন্তান দিয়ে বাড়িয়ে চলেছি, তা দিয়ে তাদের জন্য কল্যাণ ত্বরান্বিত করছি? না, তারা বোঝে না।"
           }
         ]
       },
@@ -1109,7 +1109,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari opens by saying plainly that the exegetes differed about the interpretation, and the difference is about when the punishment happens. On the first reading the clause in the life of this world belongs earlier in the sentence and the punishment is in the hereafter: let not their wealth or their children impress you in the life of this world, for Allah only intends to punish them with it in the hereafter. Qatadah calls it one of the transpositions of speech, and Ibn Abbas (RA) is reported to the same effect.",
-            "bn": "তাবারী শুরুতেই সোজাসুজি বলেন যে ব্যাখ্যা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে, আর মতভেদটি শাস্তি কখন হবে তা নিয়ে। প্রথম পাঠে দুনিয়ার জীবনে কথাটি বাক্যের আগের অংশের সঙ্গে যায় আর শাস্তি হয় আখিরাতে: দুনিয়ার জীবনে তাদের ধন-সম্পদ আর সন্তান তোমার চোখ ধাঁধিয়ে না দিক, কারণ আল্লাহ কেবল চান আখিরাতে সেগুলো দিয়ে তাদের শাস্তি দিতে। কাতাদা এটিকে বলেন কথার স্থান বদলের একটি রূপ, আর ইবনু আব্বাস (রাঃ) থেকেও একই অর্থে বর্ণিত আছে।"
+            "bn": "তাবারী শুরুতেই সোজাসুজি বলেন, এর ব্যাখ্যা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে, আর মতভেদটা শাস্তি কখন হবে তা নিয়ে। প্রথম ব্যাখ্যায় 'দুনিয়ার জীবনে' কথাটা আসলে বাক্যের আগের অংশের, আর শাস্তি হবে আখিরাতে: দুনিয়ার জীবনে তাদের ধন-সম্পদ আর সন্তান তোমার চোখ ধাঁধিয়ে না দিক; আল্লাহ তো কেবল চান আখিরাতে এগুলো দিয়ে তাদের শাস্তি দিতে। কাতাদা একে বলেন কথার আগে-পিছে বসানোর একটি দৃষ্টান্ত, আর ইবনু আব্বাস (রাঃ) থেকেও এ অর্থে বর্ণনা আছে।"
           },
           {
             "en": "On the second reading the punishment is here, and it comes through the obligations. Al-Hasan is reported as glossing it: by the taking of the zakah and the expenditure in the path of Allah. Ibn Kathir gives the same meaning and attributes it to al-Hasan al-Basri. On that reading what looks like a tax to them is the punishment itself, because they part with what their hearts are attached to and get no reward for the parting.",
