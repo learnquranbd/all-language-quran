@@ -1085,7 +1085,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the sources fetched for this verse gives an occasion of revelation; it stands as the close of the passage that begins at 74:49. What it leaves the reader is a pair of responses. When the reminder reaches you, act on it as your own real choice, and ask Allah for it, since remembering does not happen unless He wills. Then keep fear and hope together: a fear that holds you back from what He has forbidden, and a hope that brings you back to Him after you fall.",
-            "bn": "এ আয়াতের জন্য যেসব সূত্র দেখা হয়েছে, তার কোনোটিতেই শানে নুযূল নেই। আয়াতটি ৭৪:৪৯ থেকে শুরু হওয়া অংশের সমাপ্তি হয়ে দাঁড়িয়ে আছে। পাঠকের জন্য তা রেখে যায় দুটি জবাব। উপদেশ যখন আপনার কাছে পৌঁছায়, নিজের সত্যিকারের সিদ্ধান্ত হিসেবে তা অনুযায়ী আমল করুন। আবার আল্লাহর কাছে তা চেয়েও নিন, কারণ তিনি না চাইলে উপদেশ গ্রহণ ঘটে না। তারপর ভয় আর আশাকে একসঙ্গে রাখুন। ভয় আপনাকে তাঁর নিষেধ থেকে দূরে রাখবে, আর আশা পড়ে যাওয়ার পর আপনাকে আবার তাঁর কাছে ফিরিয়ে আনবে।"
+            "bn": "এ আয়াতের ব্যাপারে আমরা যেসব সূত্র দেখেছি, তার কোনোটিতেই শানে নুযূল পাওয়া যায় না। ৭৪:৪৯ থেকে যে অংশ শুরু হয়েছে, এ আয়াত দিয়েই তা শেষ হয়। পাঠকের কাছে এর দাবি দুটি। উপদেশ যখন আপনার কাছে পৌঁছায়, নিজের সত্যিকারের সিদ্ধান্ত থেকেই তা মেনে আমল করুন, আর আল্লাহর কাছে এর তাওফিকও চান, কারণ তিনি না চাইলে কেউ উপদেশ গ্রহণ করতে পারে না। তারপর ভয় আর আশা একসঙ্গে ধরে রাখুন। ভয় আপনাকে তাঁর নিষেধ করা কাজ থেকে দূরে রাখবে, আর পা পিছলে গেলে আশা আপনাকে আবার তাঁর কাছে ফিরিয়ে আনবে।"
           }
         ]
       }
