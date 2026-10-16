@@ -601,7 +601,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What follows is uncomfortable and simple. To sneer at an accent, a language or a complexion is to sneer at something the Quran has just called a sign of Allah. That makes prejudice a failure of tawhid before it is a failure of manners. And the correction the verse offers is not a slogan but an exercise: the next unfamiliar voice you hear was placed in a list beside the creation of the heavens and the earth.",
-            "bn": "এর পরের কথাটা অস্বস্তির, কিন্তু সোজা। কারও উচ্চারণ, ভাষা বা গায়ের রং নিয়ে ঠাট্টা করা মানে এমন জিনিস নিয়ে ঠাট্টা করা, যাকে কুরআন এইমাত্র আল্লাহর নিদর্শন বলেছে। তাই এ ধরনের বিদ্বেষ আদব-কায়দার ত্রুটি হওয়ার আগে তাওহীদের ত্রুটি। আর আয়াতটি যে সংশোধন দেয় তা কোনো স্লোগান নয়, একটা অনুশীলন: এরপর যে অচেনা কণ্ঠ আপনি শুনবেন, সেটিকে আসমান ও যমীনের সৃষ্টির পাশে একই তালিকায় রাখা হয়েছে।"
+            "bn": "এর পরের কথাটা অস্বস্তির, কিন্তু সোজা। কারও উচ্চারণ, ভাষা বা গায়ের রং নিয়ে ঠাট্টা করা মানে এমন জিনিস নিয়ে ঠাট্টা করা, যাকে কুরআন এইমাত্র আল্লাহর নিদর্শন বলেছে। তাই এ ধরনের বিদ্বেষ আদব-কায়দার ত্রুটি হওয়ার আগে তাওহিদের ত্রুটি। আর আয়াতটি যে সংশোধন দেয় তা কোনো স্লোগান নয়, একটা অনুশীলন: এরপর যে অচেনা কণ্ঠ আপনি শুনবেন, সেটিকে আসমান ও যমীনের সৃষ্টির পাশে একই তালিকায় রাখা হয়েছে।"
           }
         ]
       }
@@ -657,7 +657,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Here the commentators genuinely divide, and al-Qurtubi lays the readings side by side. The first: fitrah means Islam. He attributes this to Abu Hurayrah, Ibn Shihab and others, calling it the known view of most early authorities, backed by the verse and the hadith. On this reading every child is born in a state of submission, and only the surroundings make it otherwise. Ma'arif al-Qur'an reports the same as the first of two common interpretations: all humans are born Muslim by instinct, and the world leads them astray.",
-            "bn": "এখানেই তাফসীরকারেরা সত্যিকারভাবে ভাগ হয়ে যান, আর কুরতুবী পাঠগুলো পাশাপাশি সাজিয়ে দেন। প্রথমটি: ফিতরাত মানে ইসলাম। তিনি এটি আবু হুরায়রা (রাঃ), ইবন শিহাব ও অন্যদের দিকে সম্পৃক্ত করেন, আর বলেন এটাই অধিকাংশ পূর্বসূরি আলেমের পরিচিত মত, যা আয়াত আর হাদীস দিয়ে সমর্থিত। এই পাঠে প্রতিটি শিশু জন্মায় আত্মসমর্পণের অবস্থায়, আর কেবল চারপাশই তাকে অন্যরকম বানায়। মাআরিফুল কুরআন দুটি প্রচলিত ব্যাখ্যার প্রথমটি হিসেবে একই কথা আনে: সব মানুষ স্বভাবতই মুসলিম হয়ে জন্মায়, আর দুনিয়া তাদের পথভ্রষ্ট করে।"
+            "bn": "এখানেই তাফসীরকারেরা সত্যিকারভাবে ভাগ হয়ে যান, আর কুরতুবী পাঠগুলো পাশাপাশি সাজিয়ে দেন। প্রথমটি: ফিতরাত মানে ইসলাম। তিনি এটি আবু হুরায়রা (রাঃ), ইবন শিহাব ও অন্যদের দিকে সম্পৃক্ত করেন, আর বলেন এটাই অধিকাংশ পূর্বসূরি আলেমের পরিচিত মত, যা আয়াত আর হাদিস দিয়ে সমর্থিত। এই পাঠে প্রতিটি শিশু জন্মায় আত্মসমর্পণের অবস্থায়, আর কেবল চারপাশই তাকে অন্যরকম বানায়। মাআরিফুল কুরআন দুটি প্রচলিত ব্যাখ্যার প্রথমটি হিসেবে একই কথা আনে: সব মানুষ স্বভাবতই মুসলিম হয়ে জন্মায়, আর দুনিয়া তাদের পথভ্রষ্ট করে।"
           },
           {
             "en": "The second reading narrows the claim. Ma'arif al-Qur'an reports that fitrah here means capacity, the built-in power to discern the Creator and believe in Him, which leads to submission if a person uses it. Al-Qurtubi records jurists and theologians to the same effect: the fitrah is the make by which a child will know his Lord when he reaches the age of knowing, unlike the make of beasts, which never reach such recognition. On this reading what is inborn is the power to recognize, not the finished belief.",
@@ -665,7 +665,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an presses reasons for the second over the first: the verse ends with no change in Allah's creation, yet the hadith says the parents make the child a Jew or Christian, so what changes cannot be a fixed Islam; disbelievers outnumber believers; and reward requires a free, voluntary act, not something fixed from birth. Al-Qurtubi adds a third view, that fitrah means the beginning Allah originated people upon, their appointed happiness or misery, which he says Imam Ahmad once held and then left. The verse carries all three; the article takes none against the others.",
-            "bn": "মাআরিফুল কুরআন দ্বিতীয় মতটিকে প্রথমটির উপর প্রাধান্য দেওয়ার পক্ষে যুক্তি দেয়: আয়াত নিজেই শেষ হয় 'আল্লাহর সৃষ্টিতে কোনো পরিবর্তন নেই' দিয়ে, অথচ হাদীস বলে বাবা-মা শিশুকে ইহুদি বা খ্রিষ্টান বানায়। তাহলে যা বদলায়, তা স্থির কোনো ইসলাম হতে পারে না। আবার দুনিয়ায় অবিশ্বাসীর সংখ্যা বিশ্বাসীর চেয়ে বেশি। আর প্রতিদান চায় স্বাধীন, স্বেচ্ছায় করা আমল, জন্ম থেকে স্থির কিছু নয়। কুরতুবী একেবারে তৃতীয় এক মতও আনেন, যে ফিতরাত মানে সেই সূচনা যার উপর আল্লাহ মানুষকে আরম্ভ করেছেন, তাদের নির্ধারিত সৌভাগ্য বা দুর্ভাগ্য। তাঁর মতে ইমাম আহমাদ একসময় এ মত ধরেছিলেন, পরে ছেড়ে দেন। আয়াত তিনটিকেই ধরে রাখে, আর এ লেখা কোনোটির পক্ষে অন্যটির বিপক্ষে দাঁড়ায় না।"
+            "bn": "মাআরিফুল কুরআন দ্বিতীয় মতটিকে প্রথমটির উপর প্রাধান্য দেওয়ার পক্ষে যুক্তি দেয়: আয়াত নিজেই শেষ হয় 'আল্লাহর সৃষ্টিতে কোনো পরিবর্তন নেই' দিয়ে, অথচ হাদিস বলে বাবা-মা শিশুকে ইহুদি বা খ্রিষ্টান বানায়। তাহলে যা বদলায়, তা স্থির কোনো ইসলাম হতে পারে না। আবার দুনিয়ায় অবিশ্বাসীর সংখ্যা বিশ্বাসীর চেয়ে বেশি। আর প্রতিদান চায় স্বাধীন, স্বেচ্ছায় করা আমল, জন্ম থেকে স্থির কিছু নয়। কুরতুবী একেবারে তৃতীয় এক মতও আনেন, যে ফিতরাত মানে সেই সূচনা যার উপর আল্লাহ মানুষকে আরম্ভ করেছেন, তাদের নির্ধারিত সৌভাগ্য বা দুর্ভাগ্য। তাঁর মতে ইমাম আহমাদ একসময় এ মত ধরেছিলেন, পরে ছেড়ে দেন। আয়াত তিনটিকেই ধরে রাখে, আর এ লেখা কোনোটির পক্ষে অন্যটির বিপক্ষে দাঁড়ায় না।"
           }
         ]
       },
@@ -685,7 +685,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir gathers alongside it a hadith in which Allah says, I created My servants inclined to truth, then the devils turned them from their religion. Together they draw the same map: the leaning is placed first, the turning away comes after, from outside. Neither report makes the newborn a finished believer later unmade. They call the starting point sound and locate the damage in what the world does to it. So the verse calls the fitrah fixed while the hadith speaks of parents who change the child, with no collision.",
-            "bn": "ইবন কাসীর এর পাশে আরেকটি হাদীস জড়ো করেন, যেখানে আল্লাহ বলেন, আমি আমার বান্দাদের সত্যের দিকে হেলিয়ে সৃষ্টি করেছি, তারপর শয়তানেরা তাদের দ্বীন থেকে সরিয়ে দিয়েছে। দুটো মিলে একই মানচিত্র আঁকে: হেলে পড়াটা আগে বসানো, আর সরে যাওয়া আসে পরে, বাইরে থেকে। কোনো বর্ণনাই নবজাতককে তৈরি হয়ে যাওয়া মুমিন বানায় না, যাকে পরে ভেঙে ফেলা হয়। তারা সূচনাবিন্দুটাকে সুস্থ বলে, আর ক্ষতিটা রাখে দুনিয়া তার সঙ্গে যা করে তার ভেতরে। এজন্যই আয়াত ফিতরাতকে স্থির বলতে পারে আর হাদীস বলতে পারে বাবা-মা শিশুকে বদলে দেয়, অথচ দুটো সংঘাতে জড়ায় না।"
+            "bn": "ইবন কাসীর এর পাশে আরেকটি হাদিস জড়ো করেন, যেখানে আল্লাহ বলেন, আমি আমার বান্দাদের সত্যের দিকে হেলিয়ে সৃষ্টি করেছি, তারপর শয়তানেরা তাদের দ্বীন থেকে সরিয়ে দিয়েছে। দুটো মিলে একই মানচিত্র আঁকে: হেলে পড়াটা আগে বসানো, আর সরে যাওয়া আসে পরে, বাইরে থেকে। কোনো বর্ণনাই নবজাতককে তৈরি হয়ে যাওয়া মুমিন বানায় না, যাকে পরে ভেঙে ফেলা হয়। তারা সূচনাবিন্দুটাকে সুস্থ বলে, আর ক্ষতিটা রাখে দুনিয়া তার সঙ্গে যা করে তার ভেতরে। এজন্যই আয়াত ফিতরাতকে স্থির বলতে পারে আর হাদিস বলতে পারে বাবা-মা শিশুকে বদলে দেয়, অথচ দুটো সংঘাতে জড়ায় না।"
           }
         ]
       },
@@ -785,7 +785,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A second reading is fāraqū dīnahum. al-Qurtubi reports that Hamza and al-Kisā'ī recited it so, and that 'Ali ibn Abi Talib (RA) read it this way too; the sense is that they parted from the religion that must be followed, which is tawhid. Ibn Kathir carries the same reading and explains it as tarakūhu warā'a ẓuhūrihim, they left it behind their backs. Here the fault is not a cutting up but a walking away, an abandonment of the whole rather than a sorting of its parts.",
-            "bn": "দ্বিতীয় একটি পাঠ হলো ফারাকূ দীনাহুম। কুরতুবী জানান, হামযা আর কিসাঈ এভাবে পড়েছেন, আর আলী ইবন আবী তালিব (রাঃ)-ও এভাবেই পড়তেন। এর অর্থ, যে দ্বীন অনুসরণ করা অবশ্যকর্তব্য তারা তা থেকে সরে গেছে, আর সেই দ্বীন হলো তাওহীদ। ইবন কাসীর একই পাঠ আনেন আর ব্যাখ্যা করেন তারাকূহু ওয়ারাআ যুহূরিহিম, তারা দ্বীনকে পিঠের পেছনে ফেলে রেখে গেছে। এখানে দোষটা কেটে টুকরো করা নয়, বরং হেঁটে চলে যাওয়া, অংশে অংশে বাছাই নয়, গোটাটাকেই ছেড়ে দেওয়া।"
+            "bn": "দ্বিতীয় একটি পাঠ হলো ফারাকূ দীনাহুম। কুরতুবী জানান, হামযা আর কিসাঈ এভাবে পড়েছেন, আর আলী ইবন আবী তালিব (রাঃ)-ও এভাবেই পড়তেন। এর অর্থ, যে দ্বীন অনুসরণ করা অবশ্যকর্তব্য তারা তা থেকে সরে গেছে, আর সেই দ্বীন হলো তাওহিদ। ইবন কাসীর একই পাঠ আনেন আর ব্যাখ্যা করেন তারাকূহু ওয়ারাআ যুহূরিহিম, তারা দ্বীনকে পিঠের পেছনে ফেলে রেখে গেছে। এখানে দোষটা কেটে টুকরো করা নয়, বরং হেঁটে চলে যাওয়া, অংশে অংশে বাছাই নয়, গোটাটাকেই ছেড়ে দেওয়া।"
           },
           {
             "en": "The two readings press on the same wound from two sides. farraqū puts the harm inside the religion, a unity chopped into portions; fāraqū puts it outside, a people who turned their backs on it. at-Tabari's own wording actually holds both motions together, they changed their religion and opposed it so they parted from it. Neither reading softens the charge. Whether the one religion is broken into pieces or dropped altogether, what Allah gave as a single whole has been lost, and the loss is what the verse condemns.",
@@ -848,12 +848,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Narration on Splitting",
-          "bn": "ভাগ হওয়া নিয়ে এক হাদীস"
+          "bn": "ভাগ হওয়া নিয়ে এক হাদিস"
         },
         "p": [
           {
             "en": "at-Tirmidhi records from 'Abdullah ibn 'Amr (RA) that the Messenger of Allah ﷺ said what befell the children of Isra'il will befall this Ummah step by step, that the children of Isra'il split into 72 sects and this Ummah will split into 73, all of them in the Fire except one; when he was asked which, he said, what I am upon and my Companions. at-Tirmidhi graded this report ḥasan gharīb, a mufassar, well-explained ḥasan gharīb narration, and that grading is reported here as he gave it, not raised above it.",
-            "bn": "তিরমিযী আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ ﷺ বলেছেন, বনী ইসরাঈলের উপর যা এসেছিল তা ধাপে ধাপে এই উম্মতের উপরও আসবে, বনী ইসরাঈল ৭২ দলে ভাগ হয়েছিল আর এই উম্মত ভাগ হবে ৭৩ দলে, একটি দল ছাড়া সবগুলোই জাহান্নামে; জিজ্ঞেস করা হলে তিনি বললেন, যার উপর আমি আর আমার সাহাবীরা আছি। তিরমিযী এই বর্ণনাকে হাসান গারীব বলেছেন, একটি মুফাসসার তথা সুব্যাখ্যাত হাসান গারীব হাদীস, আর সেই মান এখানে তিনি যেমন দিয়েছেন তেমনই ধরা হলো, তার উপরে তোলা হয়নি।"
+            "bn": "তিরমিযী আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ ﷺ বলেছেন, বনী ইসরাঈলের উপর যা এসেছিল তা ধাপে ধাপে এই উম্মতের উপরও আসবে, বনী ইসরাঈল ৭২ দলে ভাগ হয়েছিল আর এই উম্মত ভাগ হবে ৭৩ দলে, একটি দল ছাড়া সবগুলোই জাহান্নামে; জিজ্ঞেস করা হলে তিনি বললেন, যার উপর আমি আর আমার সাহাবীরা আছি। তিরমিযী এই বর্ণনাকে হাসান গারীব বলেছেন, একটি মুফাসসার তথা সুব্যাখ্যাত হাসান গারীব হাদিস, আর সেই মান এখানে তিনি যেমন দিয়েছেন তেমনই ধরা হলো, তার উপরে তোলা হয়নি।"
           },
           {
             "en": "What the saved group is called matters more than the counting. It is named by a description, not a roster, what the Prophet ﷺ and his Companions were upon, which the commentators read as adherence to the Book of Allah and the Sunnah and the way of the first generations. Ibn Kathir, citing al-Hakim's Mustadrak, gives the same answer to the same question. The hadith hands the hearer a standard to measure himself against. It does not hand him a licence to count other people into the Fire.",
