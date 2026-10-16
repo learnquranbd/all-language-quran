@@ -25,14 +25,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the surah sets two pictures side by side. The first is of people, the second of mountains. The data counts five words in 101:4 and four in this verse, and both are built the same way, on the verb kana, to be, and the particle ka, like. What follows lists what each commentary fetched for this verse says about the two key words, how some of them tie the mountains to the moths before, and where all of them stop. Where they differ, no reading is preferred.",
-            "bn": "সূরাটি তাই দুটি ছবি পাশাপাশি রাখে। প্রথমটি মানুষের, দ্বিতীয়টি পাহাড়ের। তথ্য অনুযায়ী ১০১:৪ আয়াতে শব্দ পাঁচটি, আর এ আয়াতে চারটি। দুটোরই গড়ন এক: কানা ক্রিয়া, যার অর্থ হওয়া, আর কা, যার অর্থ মতো। সামনে আসছে এ আয়াতের জন্য সংগৃহীত প্রতিটি তাফসীর মূল দুটি শব্দ নিয়ে কী বলে, কেউ কেউ পাহাড়ের ছবিকে আগের আয়াতের পতঙ্গের সঙ্গে কীভাবে জোড়েন, আর সবাই কোথায় গিয়ে থামেন। মতভেদ যেখানে আছে, সেখানে কোনো একটিকে বেছে নেওয়া হয়নি।"
+            "bn": "সূরাটি তাই দুটি ছবি পাশাপাশি রাখে। প্রথমটি মানুষের, দ্বিতীয়টি পাহাড়ের। তথ্য অনুযায়ী ১০১:৪ আয়াতে শব্দ পাঁচটি, আর এ আয়াতে চারটি। দুটোরই গড়ন এক: কানা ক্রিয়া, যার অর্থ হওয়া, আর কা, যার অর্থ মতো। এরপর দেখা হবে, এ আয়াতের জন্য সংগৃহীত প্রতিটি তাফসীর মূল দুটি শব্দ নিয়ে কী বলে। কেউ কেউ পাহাড়ের ছবিকে আগের আয়াতের পতঙ্গের সঙ্গে কীভাবে জোড়েন, আর সবাই কোথায় গিয়ে থামেন, তাও দেখা হবে। মতভেদ যেখানে আছে, সেখানে কোনো একটিকে বেছে নেওয়া হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "Wool, Plain or Coloured",
-          "bn": "সাদামাটা পশম, না রঙিন"
+          "bn": "সাদামাটা পশম, নাকি রঙিন"
         },
         "p": [
           {
@@ -41,11 +41,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Others put colour into the definition. At-Tabari, in his own voice, says al-'ihn is al-alwan min al-suf, the coloured kinds of wool, and adds that the people of interpretation said the same. The Muyassar renders the verse as wool of many colours, al-suf muta'addid al-alwan. Al-Qurtubi reports the lexicographers: al-'ihn is al-suf al-masbugh, dyed wool. So three of the commentaries fetched for this verse, by three different routes, hear colour in the word, while Ibn Kathir and al-Baghawi do not mention it.",
-            "bn": "অন্যরা সংজ্ঞার ভেতরে রং নিয়ে আসেন। তাবারী নিজের ভাষায় বলেন, আল-ইহন হলো আল-আলওয়ানু মিনাস সূফ, নানা রঙের পশম। সঙ্গে যোগ করেন, তাফসীরবিদেরাও এমনই বলেছেন। মুয়াসসার আয়াতটির অর্থ করে বহু রঙের পশম, আস-সূফুল মুতাআদ্দিদুল আলওয়ান। কুরতুবী ভাষাবিদদের কথা উদ্ধৃত করেন: আল-ইহন মানে আস-সূফুল মাসবূগ, রং করা পশম। অর্থাৎ এ আয়াতের জন্য সংগৃহীত তিনটি তাফসীর তিন ভিন্ন পথে শব্দটির ভেতরে রং শোনে। ইবন কাসীর ও বাগাভী রঙের উল্লেখ করেন না।"
+            "bn": "অন্যরা সংজ্ঞার ভেতরে রং নিয়ে আসেন। তাবারী নিজের ভাষায় বলেন, আল-ইহন হলো আল-আলওয়ানু মিনাস সূফ, নানা রঙের পশম। সঙ্গে যোগ করেন, তাফসীরবিদেরাও এমনই বলেছেন। মুয়াসসার আয়াতটির অর্থ করে বহু রঙের পশম, আস-সূফুল মুতাআদ্দিদুল আলওয়ান। কুরতুবী ভাষাবিদদের কথা উদ্ধৃত করেন: আল-ইহন মানে আস-সূফুল মাসবূগ, রং করা পশম। অর্থাৎ এ আয়াতের জন্য সংগৃহীত তিনটি তাফসীর তিন ভিন্ন পথে শব্দটির মধ্যে রঙের অর্থ পায়। ইবন কাসীর ও বাগাভী রঙের কথা বলেন না।"
           },
           {
             "en": "These two lines do not contradict each other, but they are not the same either, and the difference is kept here as it stands. One defines al-'ihn by what it is made of, the other adds how it looks. None of the texts fetched for this verse ties the colour to another verse of the Qur'an, so no such link is drawn here. The shipped article on 52:10 reports as-Sa'di elsewhere describing the mountains taking on colours like carded wool; that reading belongs to his note on that verse.",
-            "bn": "এ দুই ধারা পরস্পরবিরোধী নয়, আবার হুবহু এক কথাও নয়। পার্থক্যটা এখানে যেমন আছে তেমনই রাখা হলো। একটি আল-ইহনের সংজ্ঞা দেয় তা কী দিয়ে তৈরি সে হিসেবে, অন্যটি জুড়ে দেয় তা দেখতে কেমন। এ আয়াতের জন্য সংগৃহীত কোনো লেখা রংটিকে কুরআনের অন্য কোনো আয়াতের সঙ্গে জোড়ে না, তাই এখানে এমন কোনো যোগসূত্র টানা হয়নি। ৫২:১০ আয়াতের প্রকাশিত প্রবন্ধে আছে, সাদী অন্য জায়গায় বলেছেন পাহাড়গুলো ধুনা পশমের মতো নানা রং ধারণ করবে। সে পাঠ তাঁর ওই আয়াতের টীকার অংশ।"
+            "bn": "এ দুই ধারা পরস্পরবিরোধী নয়, আবার হুবহু এক কথাও নয়। পার্থক্যটা এখানে যেমন আছে তেমনই রাখা হলো। একটি ধারা আল-ইহনকে চেনায় তার উপাদান দিয়ে, অন্যটি সঙ্গে জুড়ে দেয় দেখতে সেটা কেমন। এ আয়াতের জন্য সংগৃহীত কোনো লেখা রংটিকে কুরআনের অন্য কোনো আয়াতের সঙ্গে জোড়ে না, তাই এখানেও এমন কোনো যোগসূত্র টানা হয়নি। ৫২:১০ আয়াতের প্রকাশিত প্রবন্ধে আছে, সাদী অন্য জায়গায় বলেছেন পাহাড়গুলো ধুনা পশমের মতো নানা রং ধারণ করবে। সে ব্যাখ্যা তাঁর ওই আয়াতের টীকার অংশ।"
           }
         ]
       },
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second word, al-manfush, describes what has been done to the wool. Al-Qurtubi explains it as al-suf alladhi yunfash bi-l-yad, wool that is teased apart by hand, and the Muyassar uses the same clause, yunfash bi-l-yad. Al-Baghawi's word is al-manduf, carded. The abridged English Ibn Kathir renders the verse as wool, carded, and the translation printed with the verse here has fluffed up. Each of these describes fibres pulled loose from one another until they no longer hold together.",
-            "bn": "দ্বিতীয় শব্দ আল-মানফূশ বলে পশমটির সঙ্গে কী করা হয়েছে। কুরতুবী এর ব্যাখ্যা দেন আস-সূফুল্লাযী ইউনফাশু বিল ইয়াদ, যে পশম হাত দিয়ে ধুনে আলগা করা হয়। মুয়াসসারেও হুবহু একই কথা: ইউনফাশু বিল ইয়াদ। বাগাভীর শব্দ আল-মানদূফ, ধোনা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আয়াতটির অনুবাদ করে কার্ড করা পশম, আর এখানে আয়াতের সঙ্গে ছাপা অনুবাদে আছে ফুলিয়ে তোলা। সবগুলোর ছবি একই: আঁশগুলো একটা থেকে আরেকটা ছাড়িয়ে নেওয়া, যতক্ষণ না সেগুলো আর জোড়া থাকে।"
+            "bn": "দ্বিতীয় শব্দ আল-মানফূশ জানায়, পশমটির সঙ্গে কী করা হয়েছে। কুরতুবী এর ব্যাখ্যা দেন আস-সূফুল্লাযী ইউনফাশু বিল ইয়াদ, যে পশম হাত দিয়ে ধুনে আলগা করা হয়। মুয়াসসারেও হুবহু একই কথা: ইউনফাশু বিল ইয়াদ। বাগাভীর শব্দ আল-মানদূফ, ধোনা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আয়াতটির অনুবাদ ধোনা পশম, আর এখানে আয়াতের সঙ্গে ছাপা অনুবাদে আছে ফুলিয়ে তোলা। সবগুলোর ছবি একই: আঁশগুলো একটা থেকে আরেকটা টেনে ছাড়ানো হয়, শেষে সেগুলো আর একসঙ্গে লেগে থাকে না।"
           },
           {
             "en": "Two commentators push the picture further. Ibn Kathir says the mountains will have become like fluffed wool alladhi qad shara'a fi-l-dhahab wa-l-tamazzuq, which has begun to go and to tear apart. As-Sa'di says it is wool that has been left extremely weak, tatiru bihi adna rih, the slightest wind blows it away. So the emphasis falls differently. Al-Qurtubi and the Muyassar dwell on the hand that teases, Ibn Kathir on the wearing and tearing, and as-Sa'di on how little it takes to carry it off.",
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di sets out the fullest sequence. He opens with al-jibal al-summ al-silab, the solid, hard mountains, which become like fluffed wool. He then quotes 27:88: you see the mountains and think them firmly fixed, while they pass as the clouds pass. After that, he says, they become haba'an manthura, scattered dust, and dwindle away until nothing of them is left to be seen. His is the only note fetched here that names a verse showing the mountains in motion before they vanish.",
-            "bn": "সবচেয়ে বিস্তারিত ধারাবাহিকতা দেন সাদী। তিনি শুরু করেন আল-জিবালুস সুম্মুস সিলাব দিয়ে, নিরেট কঠিন পাহাড়, যা হয়ে যাবে ধুনা পশমের মতো। তারপর উদ্ধৃত করেন ২৭:৮৮: তুমি পাহাড়গুলো দেখে ভাবো সেগুলো অনড়, অথচ সেগুলো চলছে মেঘের চলার মতো। এরপর, তিনি বলেন, সেগুলো হয়ে যাবে হাবাআন মানসূরা, বিক্ষিপ্ত ধুলা, আর ক্ষয়ে ক্ষয়ে এমন মিলিয়ে যাবে যে দেখার মতো কিছুই অবশিষ্ট থাকবে না। এখানে সংগৃহীত টীকাগুলোর মধ্যে কেবল তাঁরটিই এমন আয়াতের নাম নেয়, যেখানে মিলিয়ে যাওয়ার আগে পাহাড়ের চলার ছবি আছে।"
+            "bn": "ধাপগুলো সবচেয়ে পুরোপুরি সাজিয়ে দেন সাদী। তিনি শুরু করেন আল-জিবালুস সুম্মুস সিলাব দিয়ে, নিরেট কঠিন পাহাড়, যা হয়ে যাবে ধুনা পশমের মতো। তারপর উদ্ধৃত করেন ২৭:৮৮: তুমি পাহাড়গুলো দেখে ভাবো সেগুলো অনড়, অথচ সেগুলো চলছে মেঘের চলার মতো। তিনি বলেন, এরপর সেগুলো হয়ে যাবে হাবাআন মানসূরা, বিক্ষিপ্ত ধুলা, আর ক্ষয়ে ক্ষয়ে এমনভাবে মিলিয়ে যাবে যে দেখার মতো কিছুই বাকি থাকবে না। এখানে সংগৃহীত টীকাগুলোর মধ্যে কেবল তাঁরটিই এমন আয়াতের উল্লেখ করে, যেখানে মিলিয়ে যাওয়ার আগে পাহাড়ের চলার ছবি আছে।"
           },
           {
             "en": "At-Tabari closes his note with a report in the passive, wa-dhukira, and it has been mentioned, that the mountains will travel over the earth while still in the form of mountains, like haba'. He names no one for this report and gives it no chain, unlike the two sayings of Qatadah just before it. It is reported here exactly as he left it: something mentioned, with its source unnamed. It is not added to as-Sa'di's sequence as if the two were one account.",
@@ -93,7 +93,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "How does the mountain picture relate to the people picture before it? At-Tabari answers through his paraphrase. He opens the verse with wa-yawma takunu al-jibalu, and on the Day the mountains will be, so the yawm, the Day, that began 101:4 carries straight into this verse. On his reading the scattered moths and the fluffed wool are not two separate scenes but two sights on the same Day, one about the living and one about the earth they stood on.",
-            "bn": "আগের আয়াতে মানুষের ছবি, এ আয়াতে পাহাড়ের। দুটোর সম্পর্ক কী? তাবারী উত্তর দেন তাঁর ভাষ্যের গড়ন দিয়েই। তিনি আয়াতটি শুরু করেন ওয়া ইয়াওমা তাকূনুল জিবাল দিয়ে, আর যেদিন পাহাড়গুলো হবে। অর্থাৎ ১০১:৪ আয়াত যে ইয়াওম, যে দিন দিয়ে শুরু হয়েছিল, সেটাই সোজা এ আয়াতে এসে পড়ে। তাঁর পাঠে বিক্ষিপ্ত পতঙ্গ আর ধুনা পশম আলাদা দুটি দৃশ্য নয়। একই দিনের দুটি চেহারা, একটি জীবিত মানুষের, অন্যটি যে মাটির উপর তারা দাঁড়িয়ে ছিল তার।"
+            "bn": "আগের আয়াতে মানুষের ছবি, এ আয়াতে পাহাড়ের। দুটোর সম্পর্ক কী? তাবারী উত্তর দেন তাঁর ভাষ্যের গড়ন দিয়েই। তিনি আয়াতটি শুরু করেন ওয়া ইয়াওমা তাকূনুল জিবাল দিয়ে, আর যেদিন পাহাড়গুলো হবে। অর্থাৎ ১০১:৪ আয়াত যে ইয়াওম বা দিন দিয়ে শুরু, সেই দিনটিই সরাসরি এ আয়াতে গড়িয়ে আসে। তাঁর পাঠে বিক্ষিপ্ত পতঙ্গ আর ধুনা পশম আলাদা দুটি দৃশ্য নয়। একই দিনের দুটি চেহারা, একটি জীবিত মানুষের, অন্যটি যে মাটির উপর তারা দাঁড়িয়ে ছিল তার।"
           },
           {
             "en": "As-Sa'di draws the link as a contrast. On 101:4, fetched separately for this purpose, he says people, from the severity of terror, will be like spreading locusts surging into each other, and like the night creatures that do not know where to turn and fall into a lit fire through weakness of perception; then he says, this is the state of people, the possessors of minds. His note on our verse begins wa-amma al-jibal al-summ al-silab: and as for the solid, hard mountains.",
@@ -121,7 +121,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That neighbourhood is already treated in this collection. The shipped article on 70:8, the sky like al-muhl, looks at 70:9 beside it and reports Ibn Kathir setting 101:5 next to it. The articles on 52:10, the mountains moving, and 20:106, the levelled plain, carry as-Sa'di's longer account of the stages through which the mountains pass. Those articles are pointed to here by number rather than rebuilt, and nothing from them is attributed to the commentaries on this verse.",
-            "bn": "ওই আশপাশের আয়াতগুলো এ সংকলনে আগেই আলোচিত হয়েছে। ৭০:৮ আয়াতের প্রকাশিত প্রবন্ধ, যেখানে আকাশ হবে মুহলের মতো, পাশের ৭০:৯ আয়াতটিও দেখে, আর জানায় ইবন কাসীর সেখানে ১০১:৫ আয়াতকে পাশাপাশি রেখেছেন। ৫২:১০ আয়াত, পাহাড়ের চলা, আর ২০:১০৬ আয়াত, সমতল প্রান্তর, এ দুটির প্রবন্ধে আছে পাহাড় কোন কোন ধাপ পেরোবে তা নিয়ে সাদীর দীর্ঘ বিবরণ। সেগুলো এখানে নতুন করে লেখা হয়নি, শুধু নম্বর দিয়ে দেখিয়ে দেওয়া হলো। সেখান থেকে কিছুই এ আয়াতের তাফসীরের নামে চালানো হয়নি।"
+            "bn": "আশপাশের এই আয়াতগুলো এ সংকলনে আগেই আলোচিত হয়েছে। ৭০:৮ আয়াতে আকাশ হবে মুহলের মতো। সে আয়াতের প্রকাশিত প্রবন্ধ পাশের ৭০:৯ আয়াতটিও দেখে, আর জানায় ইবন কাসীর সেখানে ১০১:৫ আয়াতকে পাশাপাশি রেখেছেন। ৫২:১০ (পাহাড়ের চলা) আর ২০:১০৬ (সমতল প্রান্তর) আয়াতের প্রবন্ধে আছে সাদীর দীর্ঘ বিবরণ: পাহাড় কোন কোন ধাপ পেরোবে। সেগুলো এখানে নতুন করে লেখা হয়নি, শুধু নম্বর দিয়ে দেখিয়ে দেওয়া হলো। সেখান থেকে কিছুই এ আয়াতের তাফসীরের নামে চালানো হয়নি।"
           }
         ]
       },
@@ -133,11 +133,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it. Ibn Kathir's grouped notes on the surah do carry narrations, but they concern the fire named in 101:11 and are not attached to this verse, so none is quoted here. None of the fetched texts gives an occasion of revelation for the verse either. What the sources offer on the mountains is the meaning of two words, a few cross-references, and an unnamed report in at-Tabari, and that is all this article reports.",
-            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। সূরাটির উপর ইবন কাসীরের সম্মিলিত টীকায় কিছু বর্ণনা আছে বটে, তবে সেগুলো ১০১:১১ আয়াতে বলা আগুন নিয়ে, এ আয়াতের সঙ্গে যুক্ত নয়। তাই এখানে কোনোটি উদ্ধৃত হয়নি। সংগৃহীত কোনো লেখা আয়াতটির নাযিলের প্রেক্ষাপটও জানায় না। পাহাড় নিয়ে উৎসগুলো যা দেয়, তা হলো দুটি শব্দের অর্থ, কয়েকটি আয়াতের বরাত, আর তাবারীর একটি নামহীন বর্ণনা। এ প্রবন্ধ এর বাইরে কিছু বলে না।"
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদিস জুড়ে দেয়নি। সূরাটির উপর ইবন কাসীরের সম্মিলিত টীকায় কিছু বর্ণনা আছে বটে, তবে সেগুলো ১০১:১১ আয়াতে বলা আগুন নিয়ে, এ আয়াত নিয়ে নয়। তাই এখানে কোনোটি উদ্ধৃত হয়নি। আয়াতটি কোন প্রেক্ষাপটে নাজিল হয়েছে, সংগৃহীত কোনো লেখা তাও জানায় না। পাহাড় নিয়ে উৎসগুলো যা দেয়, তা হলো দুটি শব্দের অর্থ, কয়েকটি আয়াতের বরাত, আর তাবারীর একটি নামহীন বর্ণনা। এ প্রবন্ধ এর বাইরে কিছু বলে না।"
           },
           {
             "en": "That restraint extends to the physical question. The commentators speak of wool, a hand that teases it, a wind that lifts it, and dust that disappears. They do not explain what happens to rock and stone, and the article does not fill that gap with explanations of its own. The verse describes an event of the unseen Day in the language of something familiar, and the description here stops where the verse and its commentators stop, without adding any account of how it will come about.",
-            "bn": "এই সংযম ভৌত প্রশ্নেও খাটে। তাফসীরকারেরা কথা বলেন পশম নিয়ে, যে হাত তা ধুনে, যে বাতাস তা ওড়ায়, আর যে ধুলা মিলিয়ে যায় তা নিয়ে। পাথর আর শিলার কী হবে, তার ব্যাখ্যা তাঁরা দেন না। এ প্রবন্ধও নিজের কোনো ব্যাখ্যা দিয়ে সে ফাঁক ভরায় না। আয়াতটি অদেখা সেই দিনের এক ঘটনা বলে চেনা জিনিসের ভাষায়। এখানে বর্ণনা থামছে ঠিক সেখানে, যেখানে আয়াত আর তার তাফসীরকারেরা থেমেছেন। কীভাবে তা ঘটবে, তার কোনো বিবরণ যোগ করা হয়নি।"
+            "bn": "পাহাড়ের বস্তুগত দিক নিয়েও একই সংযম। তাফসীরকারেরা কথা বলেন পশম নিয়ে, পশম ধোনার হাত, তা উড়িয়ে নেওয়া বাতাস আর মিলিয়ে যাওয়া ধুলা নিয়ে। পাথর আর শিলার কী হবে, তার ব্যাখ্যা তাঁরা দেন না। এ প্রবন্ধও নিজের কোনো ব্যাখ্যা দিয়ে সে ফাঁক ভরায় না। আয়াতটি অদেখা সেই দিনের এক ঘটনা বোঝায় চেনা জিনিসের ভাষায়। এখানে বর্ণনা থামছে ঠিক সেখানে, যেখানে আয়াত আর তার তাফসীরকারেরা থেমেছেন। কীভাবে তা ঘটবে, তার কোনো বিবরণ যোগ করা হয়নি।"
           }
         ]
       },
@@ -149,11 +149,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read in its place, the verse prepares a reversal of weight. The mountains are the heaviest things a listener can picture, and the commentators describe them as fibres a hand can pull apart and a breath of wind can carry. The very next verses turn to scales, to him whose scales are heavy and him whose scales are light. As-Sa'di's sequence puts the setting up of the scales after the mountains have gone, so the measure of weight passes from the earth to the deeds.",
-            "bn": "নিজের জায়গায় রেখে পড়লে আয়াতটি ওজনের এক উল্টে যাওয়ার প্রস্তুতি নেয়। শ্রোতা যত জিনিস কল্পনা করতে পারে, পাহাড়ই তার মধ্যে সবচেয়ে ভারী। আর তাফসীরকারেরা তাকে বর্ণনা করেন এমন আঁশ হিসেবে, যা হাতে টেনে আলাদা করা যায়, এক ঝলক বাতাসে উড়ে যায়। ঠিক পরের আয়াতগুলোই আসে পাল্লার কথায়, যার পাল্লা ভারী আর যার পাল্লা হালকা। সাদীর ধারাবাহিকতায় পাল্লা দাঁড় করানো হয় পাহাড় চলে যাওয়ার পরে। ওজনের মাপ তাই সরে যায় মাটি থেকে আমলের দিকে।"
+            "bn": "সূরার ভেতরে নিজের জায়গায় রেখে পড়লে দেখা যায়, আয়াতটি ওজনের হিসাব উল্টে দেওয়ার জমি তৈরি করছে। শ্রোতা যত জিনিস কল্পনা করতে পারে, পাহাড়ই তার মধ্যে সবচেয়ে ভারী। অথচ তাফসীরকারেরা সেই পাহাড়কে দেখান এমন আঁশের মতো, যা হাতে টেনে আলাদা করা যায়, এক ঝলক বাতাসেই উড়ে যায়। ঠিক পরের আয়াতগুলোতেই আসে পাল্লার কথা: যার পাল্লা ভারী আর যার পাল্লা হালকা। সাদীর ধারাবাহিকতায় পাল্লা দাঁড় করানো হয় পাহাড় চলে যাওয়ার পরে। ওজনের মাপ তাই সরে যায় মাটি থেকে আমলের দিকে।"
           },
           {
             "en": "A reader can carry that into an ordinary week. Much of what feels fixed, a position, a reputation, a plan, an argument won, is lighter than a mountain, and the surah shows even the mountain coming loose. That is not offered to make life feel pointless. It turns attention to the one thing the surah says will be weighed. The question the verse leaves is a practical one: of everything I spend effort on, how much would still register on that scale?",
-            "bn": "পাঠক এ কথা নিজের সাধারণ সপ্তাহেও নিয়ে যেতে পারেন। যা কিছু অটল মনে হয়, পদমর্যাদা, সুনাম, পরিকল্পনা, তর্কে জেতা, তার বেশিরভাগই পাহাড়ের চেয়ে হালকা। আর সূরাটি দেখায়, পাহাড়ও আলগা হয়ে যায়। এ কথা জীবনকে অর্থহীন দেখাতে বলা হয়নি। এটা মনোযোগ ফিরিয়ে দেয় সেই একটি জিনিসের দিকে, যা ওজন হবে বলে সূরাটি জানায়। আয়াতটি যে প্রশ্ন রেখে যায় তা খুব বাস্তব: যত কিছুতে আমি শ্রম দিই, তার কতটুকু সেই পাল্লায় ওজন হিসেবে উঠবে?"
+            "bn": "এ কথা পাঠক নিজের সাধারণ দিনগুলোর সঙ্গেও মিলিয়ে দেখতে পারেন। পদ, সুনাম, পরিকল্পনা, তর্কে জেতা: যা কিছু আমাদের কাছে অটল মনে হয়, তার অনেকটাই পাহাড়ের চেয়ে হালকা। অথচ সূরাটি দেখায়, পাহাড়ও আলগা হয়ে যায়। এ কথা জীবনকে অর্থহীন দেখানোর জন্য নয়। বরং মনোযোগ ফেরানোর জন্য, সেই একটি জিনিসের দিকে, যা ওজন করা হবে বলে সূরাটি জানায়। আয়াতটি যে প্রশ্ন রেখে যায় তা খুব বাস্তব: যত কিছুর পেছনে আমি খাটছি, তার কতটুকু সেই পাল্লায় কোনো ওজন পাবে?"
           }
         ]
       }
@@ -189,11 +189,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari also carries, by a chain running through Muhammad ibn Sa'd and his forebears to Ibn Abbas, a reading of the same kind. It is a likeness, the report says: the Fire was made his mother because it became his shelter, as a woman shelters her son, and since he had no shelter besides it, it was put in the place of a mother to him. Ibn Kathir quotes Ibn Jarir, that is at-Tabari, in the same sense: al-Hawiya is called his mother only because he has no other abode.",
-            "bn": "তাবারী মুহাম্মাদ ইবন সা'দ ও তাঁর পূর্বপুরুষদের মাধ্যমে ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছানো এক সনদে একই ধরনের ব্যাখ্যা আনেন। বর্ণনাটি বলে, এটা একটা উপমা। আগুনকে তার মা বানানো হয়েছে, কারণ আগুনই হয়ে গেছে তার আশ্রয়, যেমন নারী তার সন্তানকে আগলে রাখে। তার আর কোনো আশ্রয় না থাকায় আগুনকেই তার কাছে মায়ের জায়গায় বসানো হয়েছে। ইবন কাসীর ইবন জারীর, অর্থাৎ তাবারীর কথা উদ্ধৃত করেন একই অর্থে: হাবিয়াকে তার মা বলা হয়েছে শুধু এজন্য যে তার আর কোনো ঠিকানা নেই।"
+            "bn": "তাবারী একই ধরনের আরেকটি ব্যাখ্যা আনেন এক সনদে, যা মুহাম্মাদ ইবন সা'দ ও তাঁর পূর্বপুরুষদের হয়ে ইবন আব্বাস (রাঃ) পর্যন্ত গেছে। বর্ণনাটি বলে, এটা একটা উপমা। আগুনকে তার মা বানানো হয়েছে, কারণ আগুনই হয়ে গেছে তার আশ্রয়, যেমন নারী তার সন্তানকে আগলে রাখে। তার আর কোনো আশ্রয় না থাকায় আগুনকেই তার কাছে মায়ের জায়গায় বসানো হয়েছে। ইবন কাসীর ইবন জারীর, অর্থাৎ তাবারীর কথা উদ্ধৃত করেন একই অর্থে: হাবিয়াকে তার মা বলা হয়েছে শুধু এজন্য যে তার আর কোনো ঠিকানা নেই।"
           },
           {
             "en": "Al-Baghawi says his dwelling is the Fire, and the dwelling is called a mother because rest is first found with mothers. As-Sa'di reads it as his abode and dwelling, the Fire, of whose names is al-Hawiya, which will be to him like a mother that stays close and does not leave, and he cites 25:65: its punishment is ever adhering. Qatada, in at-Tabari, says simply: his destination is the Fire, and it is al-Hawiya. The Muyassar, treating 101:8 and 101:9 together, says his shelter is Jahannam.",
-            "bn": "বাগাভী বলেন, তার বাসস্থান আগুন। বাসস্থানকে মা বলা হয়েছে, কারণ মানুষ প্রথম প্রশান্তি খুঁজে পায় মায়ের কাছেই। সা'দীর ব্যাখ্যায় তার ঠিকানা ও বাসস্থান আগুন, যার নামগুলোর মধ্যে হাবিয়াও আছে। সেই আগুন তার কাছে এমন মায়ের মতো হবে, যে সারাক্ষণ লেগে থাকে, কখনো ছেড়ে যায় না। এর সমর্থনে তিনি ২৫:৬৫ উল্লেখ করেন: নিশ্চয়ই তার শাস্তি লেগে থাকা শাস্তি। তাবারীর বর্ণনায় কাতাদা সংক্ষেপে বলেন: তার গন্তব্য আগুন, আর সেটাই হাবিয়া। মুয়াসসার ১০১:৮ ও ১০১:৯ একসঙ্গে ব্যাখ্যা করে বলে, তার আশ্রয় জাহান্নাম।"
+            "bn": "বাগাভী বলেন, তার বাসস্থান আগুন। বাসস্থানকে মা বলা হয়েছে, কারণ মানুষ প্রথম প্রশান্তি খুঁজে পায় মায়ের কাছেই। সা'দীর ব্যাখ্যায় তার ঠিকানা ও বাসস্থান আগুন, যার নামগুলোর মধ্যে হাবিয়াও আছে। সেই আগুন তার কাছে এমন মায়ের মতো হবে, যে সারাক্ষণ লেগে থাকে, কখনো ছেড়ে যায় না। এর সমর্থনে তিনি ২৫:৬৫ উল্লেখ করেন: নিশ্চয়ই এর শাস্তি নাছোড়, লেগেই থাকে। তাবারীর বর্ণনায় কাতাদা সংক্ষেপে বলেন: তার গন্তব্য আগুন, আর সেটাই হাবিয়া। মুয়াসসার ১০১:৮ ও ১০১:৯ একসঙ্গে ব্যাখ্যা করে বলে, তার আশ্রয় জাহান্নাম।"
           }
         ]
       },
@@ -213,23 +213,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The fetched texts do not settle between the shelter reading and the head reading, and this study will not either. Some names stand on both sides. Ibn Abbas is in Ibn Kathir's list for the head reading, while at-Tabari's chain to him gives the shelter reading. Qatada is quoted for falling on the head, and also for the shelter side: his destination is the Fire, in at-Tabari, and it is the Fire, and it is their abode, in a report Ibn Kathir cites from Ibn Abi Hatim. Al-Qurtubi records al-Akhfash, for whom ummuhu means his place of settling, and adds: the meaning is close.",
-            "bn": "সংগৃহীত তাফসীরগুলো আশ্রয়ের ব্যাখ্যা আর মাথার ব্যাখ্যার মধ্যে কোনোটিকে চূড়ান্ত করে না, এই আলোচনাও করবে না। কিছু নাম দুই দিকেই পাওয়া যায়। ইবন কাসীরের তালিকায় ইবন আব্বাস (রাঃ) আছেন মাথার ব্যাখ্যার পক্ষে, অথচ তাবারীর সনদে তাঁর থেকে আসে আশ্রয়ের ব্যাখ্যা। কাতাদার নামে মাথা নিচু করে পড়ার কথা আছে, আবার আশ্রয়ের পক্ষের কথাও আছে। তাবারীতে তিনি বলেন, তার গন্তব্য আগুন। আর ইবন আবী হাতিম থেকে ইবন কাসীরের উদ্ধৃত বর্ণনায় তিনি বলেন, সেটা আগুন, আর সেটাই তাদের ঠিকানা। কুরতুবী আখফাশের মত লেখেন, তাঁর মতে উম্মুহু মানে তার স্থায়ী অবস্থানস্থল। এরপর কুরতুবী যোগ করেন: অর্থ কাছাকাছি।"
+            "bn": "সংগৃহীত তাফসীরগুলো আশ্রয়ের ব্যাখ্যা আর মাথার ব্যাখ্যার মধ্যে কোনোটিকে চূড়ান্ত করে না, এই আলোচনাও করবে না। কিছু নাম দুই দিকেই পাওয়া যায়। ইবন কাসীরের তালিকায় ইবন আব্বাস (রাঃ) আছেন মাথার ব্যাখ্যার পক্ষে, অথচ তাবারীর সনদে তাঁর থেকে আসে আশ্রয়ের ব্যাখ্যা। কাতাদার নামে মাথা নিচু করে পড়ার কথা আছে, আবার আশ্রয়ের পক্ষের কথাও আছে। তাবারীতে তিনি বলেন, তার গন্তব্য আগুন। আর ইবন আবী হাতিম থেকে ইবন কাসীরের উদ্ধৃত বর্ণনায় তিনি বলেন, সেটা আগুন, আর সেটাই তাদের ঠিকানা। কুরতুবী আখফাশের মতও লিখেছেন: তাঁর মতে উম্মুহু মানে যেখানে সে থিতু হবে। এরপর কুরতুবী যোগ করেন: অর্থ কাছাকাছি।"
           }
         ]
       },
       {
         "h": {
           "en": "Hawat Ummuhu, an Arab Saying",
-          "bn": "হাওয়াত উম্মুহু: আরবের বুলি"
+          "bn": "হাওয়াত উম্মুহু: আরবদের প্রচলিত কথা"
         },
         "p": [
           {
             "en": "Qatada adds a note on the language, which at-Tabari records: it is an Arabic phrase; when a man fell into a grave matter, people said of him, hawat ummuhu, his mother has fallen. Al-Baghawi repeats it in Qatada's name, as a phrase the Arabs say of a man who has fallen into something severe. Al-Qurtubi explains the same idiom: hawat ummuhu, so she is hawiya, that is, bereaved, thakila. He cites a line of Ka'b ibn Sa'd al-Ghanawi that opens with the words hawat ummuhu.",
-            "bn": "কাতাদা ভাষার দিক থেকে একটি কথা যোগ করেন, তাবারী তা লিখে রেখেছেন: এটা আরবদের একটা বুলি। কেউ কঠিন বিপদে পড়লে লোকে তার সম্পর্কে বলত, হাওয়াত উম্মুহু, তার মা পড়ে গেছে। বাগাভীও কাতাদার নামে কথাটা আনেন: কেউ গুরুতর কিছুতে পড়ে গেলে আরবরা তার ব্যাপারে এ কথা বলে। কুরতুবী একই বুলির ব্যাখ্যা দেন। হাওয়াত উম্মুহু, অর্থাৎ মা হাবিয়া হয়ে গেছে, মানে সন্তানহারা, ছাকিলা। এর প্রমাণে তিনি কা'ব ইবন সা'দ আল-গানাভীর একটি চরণ আনেন, যা শুরু হয় হাওয়াত উম্মুহু দিয়ে।"
+            "bn": "কাতাদা ভাষার দিক থেকে একটি কথা যোগ করেন, তাবারী তা লিখে রেখেছেন: এটা আরবদের মুখে প্রচলিত একটা কথা। কেউ কঠিন বিপদে পড়লে লোকে তার সম্পর্কে বলত, হাওয়াত উম্মুহু, তার মা পড়ে গেছে। বাগাভীও কাতাদার নামে কথাটা আনেন: কেউ গুরুতর কিছুতে পড়ে গেলে আরবরা তার ব্যাপারে এ কথা বলে। কুরতুবীও একই কথার ব্যাখ্যা দেন। হাওয়াত উম্মুহু মানে মা হয়ে গেছে হাবিয়া, অর্থাৎ সন্তানহারা, ছাকিলা। এর প্রমাণে তিনি কা'ব ইবন সা'দ আল-গানাভীর একটি চরণ আনেন, যা শুরু হয় হাওয়াত উম্মুহু দিয়ে।"
           },
           {
             "en": "For the shelter reading al-Qurtubi brings a line by Umayya ibn Abi as-Salt: the earth is our stronghold, and it was our mother; in it are our graves, and in it we are born. Another line he quotes speaks of a man carried down by al-hawiya. Taken together, the fetched commentators explain mother here as a figure of speech in Arabic: a place of final return, the crown of the head that goes down first, or an old cry of loss turned to this end.",
-            "bn": "আশ্রয়ের ব্যাখ্যার পক্ষে কুরতুবী উমাইয়া ইবন আবিস সালতের একটি চরণ আনেন: মাটিই আমাদের দুর্গ, মাটিই ছিল আমাদের মা। এতেই আমাদের কবর, এতেই আমাদের জন্ম। আরেকটি চরণে তিনি উদ্ধৃত করেন এমন মানুষের কথা, যাকে হাবিয়া নিচে টেনে নিয়ে যায়। সব মিলিয়ে সংগৃহীত তাফসীরগুলো এখানে মা শব্দটিকে আরবি ভাষার একটি রূপক হিসেবে ব্যাখ্যা করে। কারও মতে তা শেষ ফেরার জায়গা, কারও মতে মাথার তালু, যা আগে নিচে যায়। আবার কারও মতে তা শোকের পুরোনো এক বুলি, যা এখানে এই অর্থে এসেছে।"
+            "bn": "আশ্রয়ের ব্যাখ্যার পক্ষে কুরতুবী উমাইয়া ইবন আবিস সালতের একটি চরণ আনেন: মাটিই আমাদের দুর্গ, মাটিই ছিল আমাদের মা। এতেই আমাদের কবর, এতেই আমাদের জন্ম। তাঁর উদ্ধৃত আরেকটি চরণে আছে এমন মানুষের কথা, যাকে হাবিয়া নিচে টেনে নেয়। সব মিলিয়ে সংগৃহীত তাফসীরগুলো এখানে মা শব্দটিকে আরবি ভাষার একটি রূপক হিসেবে ব্যাখ্যা করে। কারও মতে তা শেষ ফেরার জায়গা, কারও মতে মাথার তালু, যা আগে নিচে যায়। আবার কারও মতে তা শোকের পুরোনো এক আহাজারি, যা এখানে এই পরিণতির কথা বলতে এসেছে।"
           }
         ]
       },
@@ -277,11 +277,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. Verse 101:9 describes the end of the person whose scales are light, as 101:8 sets him out, and it describes what the text describes. It licenses nothing against any living person or community. It names nobody, and no reader is handed the scales or the knowledge of how anyone's weighing will fall. This study passes no judgment on anyone's fate; it reports what the fetched commentators say about the verse and goes no further.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। ১০১:৯ আয়াত সেই ব্যক্তির পরিণতির কথা বলে, ১০১:৮ আয়াত যার পাল্লা হালকা বলে জানায়। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে। কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আয়াতে কারও নাম নেই। কোনো পাঠকের হাতে দাঁড়িপাল্লা তুলে দেওয়া হয়নি, কার ওজন কোন দিকে ঝুঁকবে সেই জ্ঞানও দেওয়া হয়নি। এই আলোচনা কারও পরিণতি নিয়ে রায় দেয় না। সংগৃহীত তাফসীরগুলো আয়াতটি সম্পর্কে যা বলে, শুধু সেটুকুই জানায়।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ১০১:৯ আয়াত সেই ব্যক্তির পরিণতির কথা বলে, ১০১:৮ আয়াত যার পাল্লা হালকা বলে জানায়। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার ছাড়পত্র এ আয়াত দেয় না। আয়াতে কারও নাম নেই। কোনো পাঠকের হাতে দাঁড়িপাল্লা তুলে দেওয়া হয়নি, কার ওজন কোন দিকে ঝুঁকবে সেই জ্ঞানও দেওয়া হয়নি। এই আলোচনা কারও পরিণতি নিয়ে রায় দেয় না। সংগৃহীত তাফসীরগুলো আয়াতটি সম্পর্কে যা বলে, শুধু সেটুকুই জানায়।"
           },
           {
             "en": "The word mother may unsettle a reader, and the commentators explain why it is there. In their hands it is a figure of speech: the Fire stands in the place of a shelter for a person who has no other, or the crown of the head goes down first, or an old Arab phrase of loss is turned to this end. The verse is not about anybody's actual mother, and nothing in the fetched commentaries reads it that way. Their explanations are reported here as they give them.",
-            "bn": "মা শব্দটা পাঠককে অস্বস্তিতে ফেলতে পারে। শব্দটা কেন এসেছে, তাফসীরকারেরা তা ব্যাখ্যা করেন। তাঁদের কাছে এটা রূপক। যার আর কোনো আশ্রয় নেই, তার জন্য আগুনই আশ্রয়ের জায়গা নেয়। অথবা মাথার তালু আগে নিচে যায়। অথবা শোকের পুরোনো আরবি বুলি এখানে এই অর্থে এসেছে। আয়াতটি কারও সত্যিকারের মায়ের কথা বলছে না, আর সংগৃহীত তাফসীরের কোথাও এভাবে পড়া হয়নি। তাঁদের ব্যাখ্যা এখানে তাঁরা যেভাবে দিয়েছেন, সেভাবেই তুলে ধরা হলো।"
+            "bn": "মা শব্দটা পাঠককে অস্বস্তিতে ফেলতে পারে। শব্দটা কেন এসেছে, তাফসীরকারেরা তা ব্যাখ্যা করেন। তাঁদের কাছে এটা রূপক। যার আর কোনো আশ্রয় নেই, তার জন্য আগুনই আশ্রয়ের জায়গা নেয়। অথবা মাথার তালু আগে নিচে যায়। অথবা শোকের পুরোনো এক আরবি কথা এখানে এই পরিণতির কথা বলতে এসেছে। আয়াতটি কারও সত্যিকারের মায়ের কথা বলছে না, আর সংগৃহীত তাফসীরের কোথাও এভাবে পড়া হয়নি। তাঁদের ব্যাখ্যা এখানে তাঁরা যেভাবে দিয়েছেন, সেভাবেই তুলে ধরা হলো।"
           }
         ]
       },
@@ -293,11 +293,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The shelter reading leaves a question with the reader. A mother is where a child runs when frightened, without stopping to think. The verse takes that word of safety and sets it beside the Abyss. The surah shows the other side just before, in 101:6 and 101:7, a pleasant life for the person whose scales are heavy. This study reads the contrast as a question put to its own reader: what am I returning to, day by day, and can it hold me?",
-            "bn": "আশ্রয়ের ব্যাখ্যা পাঠকের সামনে একটা প্রশ্ন রেখে যায়। ভয় পেলে শিশু না ভেবেই মায়ের কাছে ছুটে যায়। আয়াতটি নিরাপত্তার সেই শব্দটাকে বসিয়ে দেয় হাবিয়ার পাশে। ঠিক আগে, ১০১:৬ ও ১০১:৭ আয়াতে, সূরাটি অন্য দিকটাও দেখায়: যার পাল্লা ভারী, তার জন্য সন্তোষজনক জীবন। এই আলোচনা এই বৈপরীত্যকে নিজের পাঠকের প্রতি প্রশ্ন হিসেবেই পড়ে। দিনের পর দিন আমি কিসের দিকে ফিরে যাচ্ছি? আর সেটা কি আমাকে ধরে রাখতে পারবে?"
+            "bn": "আশ্রয়ের ব্যাখ্যা পাঠকের সামনে একটা প্রশ্ন রেখে যায়। ভয় পেলে শিশু না ভেবেই মায়ের কাছে ছুটে যায়। আয়াতটি নিরাপত্তার সেই শব্দটাকে বসিয়ে দেয় হাবিয়ার পাশে। ঠিক আগে, ১০১:৬ ও ১০১:৭ আয়াতে, সূরাটি অন্য দিকটাও দেখায়: যার পাল্লা ভারী, তার জন্য সুখের জীবন। এই আলোচনা বৈপরীত্যটিকে পাঠকের প্রতি একটা প্রশ্ন হিসেবেই দেখে। দিনের পর দিন আমি কিসের দিকে ফিরে যাচ্ছি? আর সেটা কি আমাকে ধরে রাখতে পারবে?"
           },
           {
             "en": "The right use of such a verse is to look at one's own deeds, not at anybody else's. As-Sa'di's citation of 25:65 points to a prayer the Qur'an itself gives, from those who say: our Lord, avert from us the punishment of Jahannam; indeed its punishment is ever adhering. A reader who leaves 101:9 with that prayer on his tongue, and with his own scales on his mind, has taken from the verse what a warning is for.",
-            "bn": "এমন আয়াতের সঠিক ব্যবহার হলো নিজের আমলের দিকে তাকানো, অন্যের আমলের দিকে নয়। সা'দী যে ২৫:৬৫ উল্লেখ করেছেন, তা কুরআনেরই শেখানো একটি দোয়ার দিকে ইঙ্গিত করে। সেখানে কিছু মানুষ বলে: হে আমাদের রব, জাহান্নামের শাস্তি আমাদের থেকে ফিরিয়ে নিন, নিশ্চয়ই তার শাস্তি লেগে থাকা শাস্তি। যে পাঠক ১০১:৯ পড়ে মুখে এই দোয়া আর মনে নিজের পাল্লার চিন্তা নিয়ে ওঠেন, সতর্কবাণী যে জন্য আসে, তিনি তা-ই নিয়েছেন।"
+            "bn": "এমন আয়াত পড়ে নিজের আমলের দিকে তাকানোই ঠিক কাজ, অন্যের আমলের দিকে নয়। সা'দী যে ২৫:৬৫ উল্লেখ করেছেন, তা কুরআনেরই শেখানো একটি দোয়ার দিকে ইঙ্গিত করে। সেখানে কিছু মানুষ বলে: হে আমাদের রব, জাহান্নামের শাস্তি আমাদের থেকে ফিরিয়ে নিন, নিশ্চয়ই এর শাস্তি নাছোড়, লেগেই থাকে। যে পাঠক ১০১:৯ পড়ে মুখে এই দোয়া আর মনে নিজের পাল্লার চিন্তা নিয়ে ওঠেন, সতর্কবাণী থেকে যা নেওয়ার, তিনি ঠিক তা-ই নিয়েছেন।"
           }
         ]
       }
