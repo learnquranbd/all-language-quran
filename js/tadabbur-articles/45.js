@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Jathiya opens with two letters and a statement about the Book: its revelation is from Allah, the Exalted in Might, the Wise (45:2). Then it begins pointing. In the heavens and the earth are signs for the believers (45:3). The next verse, nine words in the Arabic, brings the pointing closer: wa fi khalqikum wa ma yabuththu min dabbatin ayatun li-qawmin yuqinun. And in your creation, and in what He spreads abroad of moving creatures, are signs for a people who are certain.",
-            "bn": "সূরা আল-জাসিয়া শুরু হয় দুটি হরফ আর কিতাব সম্পর্কে একটি ঘোষণা দিয়ে: এ কিতাব অবতীর্ণ মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে (৪৫:২)। তারপর শুরু হয় ইশারা। আকাশ আর যমীনে মু'মিনদের জন্য নিদর্শন আছে (৪৫:৩)। পরের আয়াতে আরবিতে মাত্র নয়টি শব্দ, আর ইশারাটা আরও কাছে চলে আসে: ওয়া ফী খালকিকুম ওয়া মা ইয়াবুসসু মিন দাব্বাতিন আয়াতুন লি-কাওমিন ইউকিনূন। তোমাদের সৃষ্টিতে, আর তিনি যে প্রাণী ছড়িয়ে দেন তাতে, নিদর্শন আছে এমন সম্প্রদায়ের জন্য যারা নিশ্চিত বিশ্বাস রাখে।"
+            "bn": "সূরা আল-জাসিয়া শুরু হয় দুটি হরফ আর কিতাব সম্পর্কে একটা ঘোষণা দিয়ে: এ কিতাব নাজিল হয়েছে মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে (৪৫:২)। তারপর শুরু হয় ইশারা। আকাশ আর যমীনে মু'মিনদের জন্য নিদর্শন আছে (৪৫:৩)। পরের আয়াতে আরবিতে মাত্র নয়টি শব্দ, আর ইশারাটা আরও কাছে চলে আসে: ওয়া ফী খালকিকুম ওয়া মা ইয়াবুসসু মিন দাব্বাতিন আয়াতুন লি-কাওমিন ইউকিনূন। তোমাদের সৃষ্টিতে, আর তিনি যে প্রাণী ছড়িয়ে দেন তাতে, নিদর্শন আছে এমন সম্প্রদায়ের জন্য যারা নিশ্চিত বিশ্বাস রাখে।"
           },
           {
             "en": "The order is plain in the text. First the widest frame, the heavens and the earth. Then the reader himself, addressed directly in the plural: your creation. Then the creatures around him. The next verse, 45:5, moves outward again to night and day, rain and wind, and 45:6 asks in what statement, after Allah and His signs, they will believe. This article stays with the nine words in the middle, and with what the commentators fetched for this verse say about them.",
-            "bn": "ক্রমটা আয়াতের ভেতরেই স্পষ্ট। প্রথমে সবচেয়ে বড় পরিসর, আকাশ আর যমীন। তারপর পাঠক নিজে, বহুবচনে সরাসরি সম্বোধন করে: তোমাদের সৃষ্টি। তারপর তার চারপাশের প্রাণীকুল। এর পরের আয়াত, ৪৫:৫, আবার বাইরের দিকে যায়, রাত-দিন, বৃষ্টি আর বাতাসের দিকে। আর ৪৫:৬ প্রশ্ন করে, আল্লাহ আর তাঁর আয়াতের পর তারা আর কোন কথায় ঈমান আনবে। এ লেখা থাকবে মাঝখানের ওই নয়টি শব্দের সঙ্গে, আর এই আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো সেগুলো নিয়ে কী বলে, তার সঙ্গে।"
+            "bn": "ক্রমটা আয়াতের ভেতরেই স্পষ্ট। প্রথমে সবচেয়ে বড় পরিসর, আকাশ আর যমীন। তারপর পাঠক নিজে, তাকে সরাসরি বহুবচনে ডেকে বলা হয়েছে: তোমাদের সৃষ্টি। তারপর তার চারপাশের প্রাণীকুল। এর পরের আয়াত, ৪৫:৫, আবার বাইরের দিকে যায়, রাত-দিন, বৃষ্টি আর বাতাসের দিকে। আর ৪৫:৬ প্রশ্ন করে, আল্লাহ আর তাঁর আয়াতের পর তারা আর কোন কথায় ঈমান আনবে। এ লেখার বিষয় মাঝখানের ওই নয়টি শব্দ, আর এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো সেগুলো নিয়ে কী বলে।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari glosses fi khalqikum as in Allah's creating of you, O people. The Muyassar says the same in almost the same words: in your creation, O people. Neither stops to list what that creation involves. Al-Qurtubi, reaching this verse, takes it together with 45:5 and says that all of it has already been treated in full in Surah al-Baqara and elsewhere, a pointer that Ibn Kathir's English abridgement and Ma'arif al-Qur'an also make, both naming 2:164 as the close parallel.",
-            "bn": "তাবারী ফী খালকিকুম-এর ব্যাখ্যা দেন এভাবে: হে মানুষ, আল্লাহ যে তোমাদের সৃষ্টি করেছেন তাতে। মুয়াসসার প্রায় একই কথা বলে: হে মানুষ, তোমাদের সৃষ্টিতে। এই সৃষ্টির ভেতরে কী কী আছে, তার তালিকা কেউই দেন না। কুরতুবী এ আয়াতে পৌঁছে একে ৪৫:৫-এর সঙ্গে একত্রে নেন এবং বলেন, এর সবকিছু সূরা আল-বাকারা ও অন্যান্য জায়গায় পূর্ণভাবে আলোচিত হয়ে গেছে। ইবন কাসীরের ইংরেজি সংক্ষেপ আর মাআরিফুল কুরআনও একই দিকে ইশারা করে, আর দুটোই ২:১৬৪-কে ঘনিষ্ঠ সমান্তরাল আয়াত হিসেবে উল্লেখ করে।"
+            "bn": "তাবারী ফী খালকিকুম-এর ব্যাখ্যা দেন এভাবে: হে মানুষ, আল্লাহ যে তোমাদের সৃষ্টি করেছেন তাতে। মুয়াসসার প্রায় একই কথা বলে: হে মানুষ, তোমাদের সৃষ্টিতে। এই সৃষ্টির ভেতরে কী কী আছে, তার তালিকা কেউই দেন না। কুরতুবী এ আয়াতে পৌঁছে একে ৪৫:৫-এর সঙ্গে একত্রে নেন এবং বলেন, এর সবকিছু সূরা আল-বাকারা ও অন্যান্য জায়গায় পূর্ণভাবে আলোচিত হয়ে গেছে। ইবন কাসীরের ইংরেজি সংক্ষেপ আর মাআরিফুল কুরআনও একই দিকে ইশারা করে, আর দুটোই কাছাকাছি অর্থের আয়াত হিসেবে ২:১৬৪-এর কথা বলে।"
           },
           {
             "en": "So the texts read for this verse keep fi khalqikum brief, and this article does the same. It does not add stages of growth, organs or the findings of any science to the commentators' words, because none of them does so here. What the texts do make clear is the shape of the gloss: the creation in question is Allah's act, and the ones created are the people being addressed. The sign is not a distant object. It is the listener, considered as something made.",
-            "bn": "অর্থাৎ এ আয়াতের জন্য পড়া তাফসীরগুলো ফী খালকিকুম নিয়ে সংক্ষেপে থামে, এ লেখাও তাই থামবে। বেড়ে ওঠার ধাপ, অঙ্গপ্রত্যঙ্গ বা কোনো বিজ্ঞানের আবিষ্কার তাফসীরকারদের কথার সঙ্গে এখানে জোড়া হবে না, কারণ তাঁদের কেউ এখানে তা করেননি। তবে ব্যাখ্যার কাঠামোটা পরিষ্কার। সৃষ্টির কাজটা আল্লাহর, আর যাদের সৃষ্টি করা হয়েছে তারা সেই মানুষেরাই, যাদের সম্বোধন করা হচ্ছে। নিদর্শনটা দূরের কোনো বস্তু নয়। শ্রোতা নিজেই সেই নিদর্শন, এক সৃষ্ট সত্তা হিসেবে।"
+            "bn": "তাই এ আয়াতের জন্য পড়া তাফসীরগুলো ফী খালকিকুম নিয়ে অল্প কথাতেই থেমেছে, এ লেখাও তা-ই করবে। বেড়ে ওঠার ধাপ, অঙ্গপ্রত্যঙ্গ বা কোনো বিজ্ঞানের আবিষ্কার এ লেখা তাফসীরকারদের কথার সঙ্গে জুড়ে দেবে না, কারণ তাঁদের কেউ এখানে তা করেননি। তবে ব্যাখ্যার ধরনটা পরিষ্কার। সৃষ্টি করার কাজটা আল্লাহর, আর যাদের সৃষ্টি করা হয়েছে তারা সেই মানুষেরাই, যাদের সঙ্গে কথা বলা হচ্ছে। নিদর্শনটা দূরের কোনো বস্তু নয়। শ্রোতা নিজেই সেই নিদর্শন, যখন সে নিজেকে দেখে একটি সৃষ্টি হিসেবে।"
           }
         ]
       },
@@ -57,11 +57,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir widens the frame. He speaks of what is in the heavens and the earth of creatures of differing kinds and species, and he names them: angels, jinn, humans, beasts, birds, wild animals, predators, insects, and the varied sorts in the sea. As-Sa'di likewise speaks of what He has spread in them both, the heavens and the earth, of creatures, and adds the benefits He has placed in them. Where at-Tabari and the Muyassar place the creatures on the earth, Ibn Kathir and as-Sa'di speak of both.",
-            "bn": "ইবন কাসীর পরিসরটা বড় করেন। তিনি আকাশ ও যমীনে থাকা নানা জাত ও প্রজাতির সৃষ্টির কথা বলেন, আর নাম ধরে গোনান: ফেরেশতা, জিন, মানুষ, পশু, পাখি, বন্য প্রাণী, শিকারি জন্তু, কীটপতঙ্গ আর সাগরের হরেক রকম প্রাণী। সা'দীও বলেন, আকাশ ও যমীন দুটোতেই তিনি যে প্রাণী ছড়িয়ে দিয়েছেন, তার কথা, আর সঙ্গে যোগ করেন সেখানে তিনি যে উপকার গচ্ছিত রেখেছেন। তাবারী আর মুয়াসসার প্রাণীদের রাখেন যমীনে, আর ইবন কাসীর ও সা'দী বলেন দুটোর কথাই।"
+            "bn": "ইবন কাসীর পরিসরটা বড় করেন। তিনি আকাশ ও যমীনে থাকা নানা জাত ও প্রজাতির সৃষ্টির কথা বলেন, আর নাম ধরে গোনান: ফেরেশতা, জিন, মানুষ, পশু, পাখি, বন্য প্রাণী, শিকারি জন্তু, কীটপতঙ্গ আর সাগরের হরেক রকম প্রাণী। সা'দীও আকাশ ও যমীন দুটোর কথাই বলেন: এ দুইয়ের মধ্যে তিনি যত প্রাণী ছড়িয়ে দিয়েছেন। সঙ্গে যোগ করেন, এদের মধ্যে তিনি কত উপকার রেখে দিয়েছেন। তাবারী আর মুয়াসসার প্রাণীদের রাখেন যমীনে, আর ইবন কাসীর ও সা'দী বলেন দুটোর কথাই।"
           },
           {
             "en": "The two pictures are a difference of scope, not a dispute: none of these commentators argues against another on the point, and this article does not choose between them. What three of them share is the verb's sense. Yabuththu is to spread or scatter, and at-Tabari and the Muyassar gloss it with tafarraqa, what is dispersed, while as-Sa'di repeats the verb itself, ma baththa. The creatures are not simply there; they have been spread, kind after kind, across the places where they live.",
-            "bn": "দুই ছবির পার্থক্য পরিসরের, বিরোধের নয়। এ বিষয়ে এই তাফসীরকারদের কেউ অন্যজনের বিরুদ্ধে যুক্তি দেননি, আর এ লেখাও তাঁদের মধ্যে কোনোটি বেছে নিচ্ছে না। তাঁদের তিনজনের মিল ক্রিয়াটির অর্থে। ইয়াবুসসু মানে ছড়িয়ে দেওয়া, ছিটিয়ে দেওয়া। তাবারী আর মুয়াসসার এর ব্যাখ্যায় আনেন তাফাররাকা, অর্থাৎ যা ছড়িয়ে আছে। আর সা'দী ক্রিয়াটিই আবার বলেন: মা বাস্সা। প্রাণীরা এমনি এমনি সেখানে নেই। তাদের ছড়িয়ে দেওয়া হয়েছে, যেখানে তারা থাকে সেখানে জাতের পর জাত।"
+            "bn": "দুই ছবির পার্থক্য পরিসরের, বিরোধের নয়। এ বিষয়ে এই তাফসীরকারদের কেউ অন্যজনের বিরুদ্ধে যুক্তি দেননি, আর এ লেখাও তাঁদের মধ্যে কোনোটি বেছে নিচ্ছে না। তাঁদের তিনজনের মিল ক্রিয়াটির অর্থে। ইয়াবুসসু মানে ছড়িয়ে দেওয়া, ছিটিয়ে দেওয়া। তাবারী আর মুয়াসসার এর ব্যাখ্যায় আনেন তাফাররাকা, অর্থাৎ যা ছড়িয়ে আছে। আর সা'দী ক্রিয়াটিই আবার বলেন: মা বাস্সা। প্রাণীরা এমনি এমনি সেখানে নেই। তাদের ছড়িয়ে দেওয়া হয়েছে, জাতের পর জাত, যার যেখানে বাস সেখানে।"
           }
         ]
       },
@@ -73,15 +73,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What are these ayat? At-Tabari answers in two words: hujajan wa adillatan, proofs and evidences. The Muyassar uses the same pair. Neither treats the signs as decoration or as wonders to be admired and left. A proof is something that establishes a conclusion. On this gloss your own creation, and the creatures spread around you, are offered to the listener as arguments, each one carrying something it is meant to establish in the mind of whoever weighs it.",
-            "bn": "এই আয়াত, অর্থাৎ নিদর্শনগুলো কী? তাবারী উত্তর দেন দুই শব্দে: হুজাজান ওয়া আদিল্লাতান, দলিল ও প্রমাণ। মুয়াসসারও এই জোড়া শব্দই ব্যবহার করে। দুজনের কেউই নিদর্শনকে সাজসজ্জা বা দেখে মুগ্ধ হয়ে চলে যাওয়ার মতো বিস্ময় হিসেবে দেখেন না। দলিল এমন জিনিস, যা কোনো সিদ্ধান্ত প্রতিষ্ঠা করে। এ ব্যাখ্যা অনুযায়ী আপনার নিজের সৃষ্টি আর চারপাশে ছড়ানো প্রাণীরা শ্রোতার সামনে যুক্তি হিসেবে হাজির। যে মন দিয়ে ওজন করে দেখে, প্রত্যেকটি তার মনে কিছু একটা প্রতিষ্ঠা করার জন্যই আছে।"
+            "bn": "এই আয়াত, অর্থাৎ নিদর্শনগুলো কী? তাবারী উত্তর দেন দুই শব্দে: হুজাজান ওয়া আদিল্লাতান, দলিল ও প্রমাণ। মুয়াসসারও এই জোড়া শব্দই ব্যবহার করে। দুজনের কেউই নিদর্শনকে সাজসজ্জা বা দেখে মুগ্ধ হয়ে চলে যাওয়ার মতো বিস্ময় হিসেবে দেখেন না। দলিলের কাজই কোনো একটা সিদ্ধান্তকে প্রমাণ করা। এ ব্যাখ্যায় আপনার নিজের সৃষ্টি আর চারপাশে ছড়ানো প্রাণীরা শ্রোতার সামনে যুক্তি হয়ে হাজির। যে মন দিয়ে ভেবে দেখে, প্রত্যেকটি তার মনে কোনো একটা কথা প্রমাণ করে দিতে চায়।"
           },
           {
             "en": "For whom? Li-qawmin yuqinun, for a people who are certain. The commentators fill in the object of that certainty differently. At-Tabari says they are certain of the realities of things, so they affirm them and know them to be sound. The Muyassar says they are certain of Allah and His law. Al-Baghawi says they are certain that there is no god other than Him. Ibn Kathir's English abridgement renders the phrase as those who have faith with certainty.",
-            "bn": "কাদের জন্য? লি-কাওমিন ইউকিনূন, এমন সম্প্রদায়ের জন্য যারা নিশ্চিত বিশ্বাস রাখে। কিসের উপর এই নিশ্চয়তা, তা তাফসীরকারেরা ভিন্নভাবে পূরণ করেন। তাবারী বলেন, তারা বস্তুর প্রকৃত সত্য সম্পর্কে নিশ্চিত, তাই সেগুলো স্বীকার করে আর সেগুলোর বিশুদ্ধতা জানে। মুয়াসসার বলে, তারা আল্লাহ ও তাঁর শরীয়তের উপর নিশ্চিত। বাগাভী বলেন, তারা নিশ্চিত যে তিনি ছাড়া কোনো ইলাহ নেই। ইবন কাসীরের ইংরেজি সংক্ষেপ এর অর্থ করে: যারা নিশ্চিত বিশ্বাসের সঙ্গে ঈমান রাখে।"
+            "bn": "কাদের জন্য? লি-কাওমিন ইউকিনূন, এমন সম্প্রদায়ের জন্য যারা নিশ্চিত বিশ্বাস রাখে। কিসের ব্যাপারে এই নিশ্চয়তা, সে প্রশ্নে তাফসীরকারদের উত্তর ভিন্ন ভিন্ন। তাবারী বলেন, জিনিসের আসল সত্য সম্পর্কে তারা নিশ্চিত, তাই সেগুলো মেনে নেয় আর জানে যে সেগুলো সঠিক। মুয়াসসার বলে, তারা আল্লাহ ও তাঁর শরীয়ত সম্পর্কে নিশ্চিত। বাগাভী বলেন, তারা নিশ্চিত যে তিনি ছাড়া কোনো ইলাহ নেই। ইবন কাসীরের ইংরেজি সংক্ষেপে এর অর্থ: যারা নিশ্চিত বিশ্বাসের সঙ্গে ঈমান রাখে।"
           },
           {
             "en": "These are not rival positions so much as different angles. At-Tabari's reading is the broadest: the certain are those who acknowledge what is real when they meet it. Al-Baghawi's is the most pointed, tying the certainty to the oneness of Allah. The Muyassar joins belief in Allah to acceptance of what He has prescribed. Together they suggest that the signs are not addressed to a mood but to a settled assent, whatever its object is said to be in each gloss.",
-            "bn": "এগুলো পরস্পরবিরোধী মত যতটা, তার চেয়ে বেশি ভিন্ন ভিন্ন দৃষ্টিকোণ। তাবারীর ব্যাখ্যা সবচেয়ে প্রশস্ত: নিশ্চিত বিশ্বাসী তারা, যারা যা সত্য তার মুখোমুখি হলে তা মেনে নেয়। বাগাভীর ব্যাখ্যা সবচেয়ে নির্দিষ্ট, নিশ্চয়তাকে তিনি বেঁধে দেন আল্লাহর একত্বের সঙ্গে। মুয়াসসার আল্লাহর উপর ঈমানের সঙ্গে জুড়ে দেয় তিনি যা বিধান দিয়েছেন তা মেনে নেওয়াকে। সব মিলিয়ে বোঝা যায়, নিদর্শনগুলো ক্ষণিকের কোনো মেজাজের উদ্দেশে নয়, বরং স্থির স্বীকৃতির উদ্দেশে, প্রতিটি ব্যাখ্যায় তার বিষয় যা-ই বলা হোক।"
+            "bn": "এগুলোকে পরস্পরবিরোধী মত বলার চেয়ে একই কথাকে ভিন্ন ভিন্ন দিক থেকে দেখা বলাই ঠিক। তাবারীর ব্যাখ্যা সবচেয়ে প্রশস্ত: নিশ্চিত বিশ্বাসী তারা, যারা সত্যের মুখোমুখি হলে তা মেনে নেয়। বাগাভীর ব্যাখ্যা সবচেয়ে নির্দিষ্ট, তিনি নিশ্চয়তাকে বেঁধে দেন আল্লাহর একত্বের সঙ্গে। মুয়াসসার আল্লাহর উপর ঈমানের সঙ্গে জুড়ে দেয় তাঁর দেওয়া বিধান মেনে নেওয়াকে। সব মিলিয়ে বোঝা যায়, নিদর্শনগুলো ক্ষণিকের আবেগকে ডাকে না, ডাকে স্থির ও পাকা স্বীকৃতিকে, প্রতিটি ব্যাখ্যায় সেই স্বীকৃতির বিষয় যা-ই বলা হোক।"
           }
         ]
       },
@@ -93,7 +93,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read the three verses together and the endings change, which anyone can see in the text: signs li-l-mu'minin, for the believers (45:3); li-qawmin yuqinun, for a people who are certain (45:4); li-qawmin ya'qilun, for a people who reason (45:5). Why they change is a question the text does not answer in so many words, and two of the sources fetched for this verse answer it in two different ways. Both are reported here as their authors give them.",
-            "bn": "তিনটি আয়াত একসঙ্গে পড়লে দেখা যায় শেষের কথাগুলো বদলে যাচ্ছে, যা আয়াতেই স্পষ্ট: লিল-মু'মিনীন, মু'মিনদের জন্য নিদর্শন (৪৫:৩); লি-কাওমিন ইউকিনূন, নিশ্চিত বিশ্বাসী সম্প্রদায়ের জন্য (৪৫:৪); লি-কাওমিন ইয়া'কিলূন, বিবেক খাটায় এমন সম্প্রদায়ের জন্য (৪৫:৫)। কেন বদলায়, আয়াত নিজে তা স্পষ্ট ভাষায় বলে না। এ আয়াতের জন্য সংগ্রহ করা উৎসের মধ্যে দুটি এর উত্তর দেয় দুই ভিন্নভাবে। দুটোই এখানে তুলে ধরা হলো, লেখকেরা যেভাবে বলেছেন সেভাবে।"
+            "bn": "তিনটি আয়াত একসঙ্গে পড়লে যে কেউ দেখবেন, প্রতিটির শেষ কথা বদলে যাচ্ছে: লিল-মু'মিনীন, মু'মিনদের জন্য নিদর্শন (৪৫:৩); লি-কাওমিন ইউকিনূন, নিশ্চিত বিশ্বাসী সম্প্রদায়ের জন্য (৪৫:৪); লি-কাওমিন ইয়া'কিলূন, বিবেক খাটায় এমন সম্প্রদায়ের জন্য (৪৫:৫)। কেন বদলায়, আয়াত নিজে তা স্পষ্ট ভাষায় বলে না। এ আয়াতের জন্য সংগ্রহ করা উৎসের মধ্যে দুটি এর উত্তর দেয় দুই ভিন্নভাবে। দুটোই এখানে তুলে ধরা হলো, লেখকেরা যেভাবে বলেছেন সেভাবে।"
           },
           {
             "en": "Ibn Kathir's English abridgement reads the sequence as a climb. Allah said first, signs for the believers, then for those who have faith with certainty, then for those who understand, thus ascending from an honourable stage to a more honourable stage, higher in grade. On this reading each ending names a station above the last, and the verse on human beings and creatures sits at the middle rung, above belief and below understanding.",
@@ -121,7 +121,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The grammar each gives is short. Ayatin, al-Qurtubi says, is joined to what inna governed, as if the verse said: inna fi khalqikum ... ayatin. Al-Baghawi says it refers back to la-ayatin and stands in the accusative position. For ayatun, al-Qurtubi's discussion, which runs on into 45:5, says it is read on the position of inna together with what it governed, or else as a fresh start, a subject with what precedes as its predicate, one sentence joined to another. Al-Baghawi calls it isti'naf and cites the Arab saying in which the second noun may be accusative or nominative.",
-            "bn": "প্রত্যেকে যে ব্যাকরণ দেন তা সংক্ষিপ্ত। কুরতুবী বলেন, আয়াতিন যুক্ত হয়েছে ইন্না যার উপর কাজ করেছে তার সঙ্গে, যেন আয়াতটি বলছে: ইন্না ফী খালকিকুম ... আয়াতিন। বাগাভী বলেন, এটি লা-আয়াতিন-এর দিকে ফিরে যায় এবং যবরের অবস্থানে আছে। আয়াতুন নিয়ে কুরতুবীর আলোচনা ৪৫:৫ পর্যন্ত গড়ায়। তিনি বলেন, এটি পড়া হয় ইন্না ও তার আমলসহ পুরো অংশের অবস্থান ধরে। অথবা নতুন করে শুরু হিসেবে: আগের অংশ খবর, এটি মুবতাদা, এক বাক্যের সঙ্গে আরেক বাক্য জোড়া। বাগাভী একে বলেন ইস্তি'নাফ, আর আরবদের একটি কথা উদ্ধৃত করেন, যেখানে দ্বিতীয় বিশেষ্যে যবর বা পেশ দুটোই চলে।"
+            "bn": "দুজনেই ব্যাকরণের কথা বলেন সংক্ষেপে। কুরতুবী বলেন, আয়াতিন যুক্ত হয়েছে ইন্না যার উপর কাজ করেছে তার সঙ্গে, যেন আয়াতটি বলছে: ইন্না ফী খালকিকুম ... আয়াতিন। বাগাভী বলেন, এটি লা-আয়াতিন-এর দিকে ফিরে যায় এবং যবরের অবস্থানে আছে। আয়াতুন নিয়ে কুরতুবীর আলোচনা ৪৫:৫ পর্যন্ত গড়ায়। তিনি বলেন, এটি পড়া হয় ইন্না ও তার আমলসহ পুরো অংশের অবস্থান ধরে। অথবা নতুন করে শুরু হিসেবে: আগের অংশ খবর, এটি মুবতাদা, এক বাক্যের সঙ্গে আরেক বাক্য জোড়া। বাগাভী একে বলেন ইস্তি'নাফ, আর আরবদের একটি কথা উদ্ধৃত করেন, যেখানে দ্বিতীয় বিশেষ্যে যবর বা পেশ দুটোই চলে।"
           },
           {
             "en": "At-Tabari gives the fullest account. He says the general readers of Medina and Basra, and some of Kufa, read ayatun as a subject, not referring it back to 45:3, while the general readers of Kufa read ayatin, with kasra in the sense of the accusative, referring it back. Later readers of ayatin, he reports, claimed that in Ubayy's reading all three verses carry la-ayatin with the lam. At-Tabari answers that this is no proof, since no sound narration of it from Ubayy exists.",
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What remains is enough. The verse gives two places to look, the self and the creatures, and one kind of person who reads them rightly. The commentators give the words their sense, record a reading in two forms that at-Tabari accepts equally, and disagree openly over why the endings shift. Nothing in that needs to be padded with more than the sources say in order to do its work on the reader.",
-            "bn": "যা আছে, তা-ই যথেষ্ট। আয়াত দেখার জন্য দুই জায়গা দেখায়, নিজের সত্তা আর প্রাণীকুল, আর সেগুলো ঠিকভাবে পড়ে এমন একটি শ্রেণির মানুষের কথা বলে। তাফসীরকারেরা শব্দগুলোর অর্থ দেন, দুই রূপের এক কিরাআত লিপিবদ্ধ করেন যার দুটিকেই তাবারী সমানভাবে গ্রহণ করেন, আর সমাপ্তি কেন বদলায় তা নিয়ে খোলাখুলি ভিন্নমত রাখেন। পাঠকের উপর কাজ করার জন্য এর সঙ্গে উৎসের বাইরের কোনো কথা জুড়ে দেওয়ার দরকার পড়ে না।"
+            "bn": "যা আছে, তা-ই যথেষ্ট। আয়াত তাকানোর দুটো জায়গা দেখিয়ে দেয়, নিজের সত্তা আর প্রাণীকুল। আর বলে এক শ্রেণির মানুষের কথা, যারা এগুলো ঠিকভাবে পড়তে পারে। তাফসীরকারেরা শব্দগুলোর অর্থ বলে দেন। একটি শব্দের দুই রকম কিরাআত লিখে রাখেন, তাবারী যার দুটোকেই সমানভাবে মেনে নেন। আর আয়াতের শেষ কথাটা কেন বদলায়, তা নিয়ে খোলাখুলি ভিন্নমত রাখেন। পাঠকের মনে কাজ করার জন্য এর সঙ্গে উৎসের বাইরের কিছু জুড়ে দেওয়ার দরকার নেই।"
           }
         ]
       },
@@ -157,11 +157,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The movement of 45:3 and 45:4 suggests a practice. After looking up at the sky, look at your own hands, at the breath you did not start, at the body you live in without having designed it. Then look at what moves around you: a crow on a wall, ants along a step, a cat crossing the road. Each, on at-Tabari's gloss, is offered as a proof, not as scenery.",
-            "bn": "৪৫:৩ আর ৪৫:৪-এর গতিপথ থেকে একটা অভ্যাস তৈরি হতে পারে। আকাশের দিকে তাকানোর পর নিজের হাতের দিকে তাকান, যে শ্বাস আপনি শুরু করেননি তার দিকে, যে শরীরে আপনি থাকেন অথচ যার নকশা আপনার করা নয় তার দিকে। তারপর তাকান চারপাশে যারা চলাফেরা করে তাদের দিকে: দেয়ালের উপর একটা কাক, সিঁড়ি বেয়ে চলা পিঁপড়ের সারি, রাস্তা পার হওয়া একটা বিড়াল। তাবারীর ব্যাখ্যায় এদের প্রত্যেকেই দলিল হিসেবে হাজির, দৃশ্যপট হিসেবে নয়।"
+            "bn": "৪৫:৩ থেকে ৪৫:৪-এ চোখ যেভাবে সরে আসে, তা থেকে একটা অভ্যাসের ইঙ্গিত মেলে। আকাশের দিকে তাকানোর পর নিজের হাতের দিকে তাকান, যে শ্বাস আপনি শুরু করেননি তার দিকে, যে শরীরে আপনি থাকেন অথচ যার নকশা আপনার করা নয় তার দিকে। তারপর তাকান চারপাশে যারা চলাফেরা করে তাদের দিকে: দেয়ালের উপর একটা কাক, সিঁড়ি বেয়ে চলা পিঁপড়ের সারি, রাস্তা পার হওয়া একটা বিড়াল। তাবারীর ব্যাখ্যায় এদের প্রত্যেকেই দলিল হিসেবে হাজির, দৃশ্যপট হিসেবে নয়।"
           },
           {
             "en": "And then ask the question the verse's ending raises, whichever commentator's account of it you follow: does this looking leave me more certain than before? The signs are spread for a people who are certain. The hope is to be counted among them, so that what is seen is also acknowledged, and what is acknowledged settles into a conviction that does not need to be argued afresh each morning.",
-            "bn": "তারপর আয়াতের সমাপ্তি যে প্রশ্ন তোলে, সেটা নিজেকে করুন, সমাপ্তির ব্যাখ্যায় যে তাফসীরকারকেই অনুসরণ করুন না কেন: এই দেখা কি আমাকে আগের চেয়ে বেশি নিশ্চিত করল? নিদর্শনগুলো ছড়িয়ে আছে নিশ্চিত বিশ্বাসী সম্প্রদায়ের জন্য। আশা এটুকুই, যেন তাদের মধ্যে গণ্য হওয়া যায়। যা দেখা হলো তা যেন স্বীকৃতও হয়, আর যা স্বীকৃত হলো তা যেন এমন দৃঢ় বিশ্বাসে স্থির হয়, যাকে প্রতিদিন সকালে নতুন করে যুক্তি দিয়ে দাঁড় করাতে হয় না।"
+            "bn": "তারপর নিজেকে সেই প্রশ্নটা করুন, যা আয়াতের শেষ কথাটা তোলে। এর ব্যাখ্যায় আপনি যে তাফসীরকারকেই মানুন, প্রশ্নটা একই: এই দেখা কি আমাকে আগের চেয়ে বেশি নিশ্চিত করল? নিদর্শনগুলো ছড়িয়ে আছে নিশ্চিত বিশ্বাসী সম্প্রদায়ের জন্য। আশা এটুকুই, যেন তাদের মধ্যে গণ্য হওয়া যায়। যা চোখে দেখা হলো, তা যেন মনেও মেনে নেওয়া হয়। আর যা মেনে নেওয়া হলো, তা যেন এমন পাকা বিশ্বাসে স্থির হয়, যাকে প্রতিদিন সকালে নতুন করে যুক্তি দিয়ে দাঁড় করাতে হয় না।"
           }
         ]
       }
@@ -181,7 +181,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari reads the opening word as a claim in its own right. Allah, O people, he paraphrases, is the One to whom alone godhood is fitting, the One who has bestowed on you these favours that He has made clear in these verses. The favour he then names is the sea made to serve. Those earlier verses describe a type, the arrogant hearer, as the text itself describes him; they license nothing against any living person or community. The reader's part is to check which way he himself is facing when the verses are recited.",
-            "bn": "তাবারী শুরুর শব্দটিকেই একটা স্বতন্ত্র দাবি হিসেবে পড়েন। তাঁর ব্যাখ্যায়: হে লোকেরা, আল্লাহ তিনিই, উলূহিয়্যাত একমাত্র যাঁর জন্যই শোভা পায়, যিনি তোমাদের এই নিয়ামতগুলো দিয়েছেন এবং এই আয়াতগুলোতে তা স্পষ্ট করে বলেছেন। এরপর তিনি যে নিয়ামতের নাম নেন, তা হলো সেবায় লাগানো সমুদ্র। আগের আয়াতগুলো একটা ধরনের মানুষের বর্ণনা দেয়, অহংকারী শ্রোতার, ঠিক যেভাবে পাঠ তাকে বর্ণনা করেছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াতগুলো কিছুরই অনুমতি দেয় না। পাঠকের কাজ হলো, আয়াত পড়া হলে নিজে কোন দিকে মুখ করে আছেন তা যাচাই করা।"
+            "bn": "তাবারী শুরুর শব্দটিকেই একটা স্বতন্ত্র দাবি হিসেবে পড়েন। তাঁর ব্যাখ্যায়: হে লোকেরা, আল্লাহ তিনিই, উলূহিয়্যাত একমাত্র যাঁর জন্যই শোভা পায়, যিনি তোমাদের এই নিয়ামতগুলো দিয়েছেন এবং এই আয়াতগুলোতে তা স্পষ্ট করে বলেছেন। এরপর তিনি যে নিয়ামতের নাম নেন, তা হলো সেবায় লাগানো সমুদ্র। আগের আয়াতগুলো এক ধরনের মানুষের ছবি আঁকে, অহংকারী শ্রোতার, আয়াত নিজে যেভাবে তাকে এঁকেছে। এ দিয়ে জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অধিকার কারও জন্মায় না। পাঠকের কাজ হলো, আয়াত তিলাওয়াত হওয়ার সময় তিনি নিজে কোন দিকে মুখ করে আছেন, তা যাচাই করা।"
           }
         ]
       },
@@ -213,7 +213,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi's whole comment is one sentence, and it points the same way. The verse, he says, mentions the perfection of His power and the completeness of His favour upon His servants, and makes clear that He created what He created for their benefit. That last clause is the weight of the word lakum, for you, near the start of the verse. The sea was not subjected for its own sake or left to chance. It was made, in al-Qurtubi's word, for the benefit of His servants.",
-            "bn": "কুরতুবীর পুরো মন্তব্যটা একটিমাত্র বাক্য, আর তা একই দিকে ইশারা করে। তিনি বলেন, আয়াতটি তাঁর কুদরতের পূর্ণতা আর বান্দাদের প্রতি তাঁর নিয়ামতের পরিপূর্ণতার কথা বলে, আর স্পষ্ট করে যে তিনি যা সৃষ্টি করেছেন তা তাদের উপকারের জন্যই করেছেন। শেষ কথাটাই আয়াতের শুরুর দিকের লাকুম শব্দের ভার, অর্থাৎ তোমাদের জন্য। সমুদ্রকে নিজের জন্য বশ করা হয়নি, ভাগ্যের হাতেও ছেড়ে দেওয়া হয়নি। কুরতুবীর ভাষায়, তাকে বানানো হয়েছে তাঁর বান্দাদের উপকারের জন্য।"
+            "bn": "কুরতুবীর পুরো মন্তব্যটা একটিমাত্র বাক্য, আর তা একই দিকে ইশারা করে। তিনি বলেন, আয়াতটি তাঁর কুদরতের পূর্ণতা আর বান্দাদের প্রতি তাঁর নিয়ামতের পরিপূর্ণতার কথা বলে, আর স্পষ্ট করে যে তিনি যা সৃষ্টি করেছেন তা তাদের উপকারের জন্যই করেছেন। আয়াতের শুরুর দিকে আছে লাকুম, অর্থাৎ তোমাদের জন্য। শব্দটির ভার এই শেষ কথাতেই। সমুদ্রকে বশ করার উদ্দেশ্য সমুদ্র নিজে নয়, আবার তাকে ভাগ্যের হাতেও ছেড়ে দেওয়া হয়নি। কুরতুবীর ভাষায়, তাকে বানানো হয়েছে তাঁর বান্দাদের উপকারের জন্য।"
           }
         ]
       },
@@ -225,7 +225,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-li-tabtaghu min fadlihi: and so that you may seek of His bounty. The commentators fetched here give the clause a narrow, concrete content. Ibn Kathir says: in trades and earnings, al-matajir wa-l-makasib. The Muyassar and as-Sa'di use almost the same words, with the various kinds of trade and earning. None of the three lists cargoes, catches or goods. They leave the bounty as a category, the many ways a person earns, and let the reader fill it from his own life.",
-            "bn": "ওয়ালিতাবতাগূ মিন ফাদলিহী: আর যাতে তোমরা তাঁর অনুগ্রহ তালাশ কর। এখানে আনা তাফসীরগুলো এ অংশকে দেয় সংকীর্ণ ও বাস্তব একটা অর্থ। ইবন কাসীর বলেন: ব্যবসা-বাণিজ্য আর উপার্জনে, আল-মাতাজির ওয়াল-মাকাসিব। মুয়াসসার আর সা'দী প্রায় একই কথা বলেন: নানা রকম ব্যবসা ও উপার্জনের মাধ্যমে। তিনজনের কেউই পণ্যের, মাছ ধরার বা মালামালের কোনো তালিকা দেন না। অনুগ্রহকে তাঁরা একটা শ্রেণি হিসেবেই রেখে দেন, মানুষ যত উপায়ে রোজগার করে। বাকিটা পাঠক ভরাট করবেন নিজের জীবন থেকে।"
+            "bn": "ওয়ালিতাবতাগূ মিন ফাদলিহী: আর যাতে তোমরা তাঁর অনুগ্রহ তালাশ কর। এখানে আনা তাফসীরগুলোতে এ অংশের অর্থ সীমিত, একেবারে বাস্তব। ইবন কাসীর বলেন: ব্যবসা-বাণিজ্য আর উপার্জনে, আল-মাতাজির ওয়াল-মাকাসিব। মুয়াসসার আর সা'দী প্রায় একই কথা বলেন: নানা রকম ব্যবসা ও উপার্জনের মাধ্যমে। জাহাজের মাল, ধরা মাছ বা পণ্যের কোনো তালিকা তিনজনের কেউই দেন না। অনুগ্রহকে তাঁরা একটা শ্রেণি হিসেবেই রেখে দেন, মানুষ যত উপায়ে রোজগার করে। বাকিটা পাঠক নিজের জীবন থেকে মিলিয়ে নেবেন।"
           },
           {
             "en": "At-Tabari ties the seeking more tightly to the ships. The vessels run by His command, he says, for your livelihoods, li-ma'ayishikum, and your moving about in the lands, wa-tasarrufikum fi l-bilad, to seek His bounty in them. In his paraphrase the sailing is not an end in itself. It serves two human needs at once: making a living, and being able to go from one land to another. The sea becomes a road, and the bounty is found at the far end of it, in the lands it opens.",
@@ -257,7 +257,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-la'allakum tashkurun: and perhaps you will be grateful. Grateful for what, exactly? The commentators fetched here answer from slightly different places, and their answers sit together without contradiction. Ibn Kathir points to the goods. The thanks is for obtaining the benefits brought to you from distant regions and far horizons, min al-aqalim an-na'iya wa-l-afaq al-qasiya. His eye is on the arrival: what reaches a person across water he did not cross himself, from places he may never see.",
-            "bn": "ওয়া লাআল্লাকুম তাশকুরূন: আর হয়তো তোমরা শোকর করবে। কিন্তু শোকর ঠিক কীসের জন্য? এখানে আনা তাফসীরকারেরা উত্তর দেন একটু ভিন্ন ভিন্ন জায়গা থেকে, আর তাঁদের উত্তরগুলো পরস্পরবিরোধী নয়, পাশাপাশি থাকে। ইবন কাসীর দেখান মালামালের দিকে। তাঁর মতে শোকর হলো দূরদূরান্তের অঞ্চল আর দূরতম দিগন্ত থেকে তোমাদের কাছে বয়ে আনা উপকারগুলো পাওয়ার জন্য, মিনাল আকালীমিন না-ইয়া ওয়াল আফাকিল কাসিয়া। তাঁর নজর পৌঁছানোর উপর: যে পানি মানুষ নিজে পার হয়নি, তা পেরিয়ে এমন সব জায়গা থেকে যা তার কাছে আসে, যে জায়গা সে হয়তো কখনো দেখবেও না।"
+            "bn": "ওয়া লাআল্লাকুম তাশকুরূন: আর হয়তো তোমরা শোকর করবে। কিন্তু শোকর ঠিক কীসের জন্য? এখানে যাঁদের তাফসীর আনা হয়েছে, তাঁরা উত্তর দেন একটু ভিন্ন ভিন্ন দিক থেকে। তবু উত্তরগুলো পরস্পরবিরোধী নয়, পাশাপাশিই থাকে। ইবন কাসীর দেখান মালামালের দিকে। তাঁর মতে শোকর হলো দূরদূরান্তের অঞ্চল আর দূরতম দিগন্ত থেকে তোমাদের কাছে বয়ে আনা উপকারগুলো পাওয়ার জন্য, মিনাল আকালীমিন না-ইয়া ওয়াল আফাকিল কাসিয়া। তাঁর নজর জিনিস এসে পৌঁছানোর দিকে: যে সাগর মানুষ নিজে পাড়ি দেয়নি, তা পেরিয়ে এমন সব জায়গা থেকে জিনিস তার হাতে আসে, যা সে হয়তো কোনোদিন চোখেও দেখবে না।"
           },
           {
             "en": "At-Tabari and the Muyassar point instead to the subjection itself, and then say what the thanks consists of. At-Tabari: so that you thank your Lord for His subjecting that to you, and so worship Him and obey Him in what He commands you and forbids you. The Muyassar uses nearly the same sentence and adds one word, wahdahu: worship Him alone. In both, gratitude is not left as a feeling. It is spelled out as worship and obedience, the opposite of the arrogant persistence of the hearer in 45:8.",
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is worth saying plainly what these texts do not do. Al-Baghawi, in the text fetched for this verse, simply quotes it and adds no comment. None of the fetched commentaries cites a parallel verse for 45:12, attaches a hadith to it, or reports an occasion of revelation for it, so this article offers none. None of them mentions fishing, pearls or ornaments under this verse, and none describes storms or the fear of drowning here. Whatever other passages may hold, these comments on 45:12 do not go there.",
-            "bn": "এই লেখাগুলো কী করে না, তাও সোজাসুজি বলা দরকার। এ আয়াতের জন্য আনা বাগাভীর পাঠে তিনি শুধু আয়াতটি উদ্ধৃত করেন, কোনো মন্তব্য যোগ করেন না। আনা তাফসীরগুলোর কোনোটিই ৪৫:১২ আয়াতের জন্য সমার্থক কোনো আয়াতের উল্লেখ করে না, কোনো হাদীস জুড়ে দেয় না, নাযিলের কোনো প্রেক্ষাপটও বর্ণনা করে না। তাই এ লেখাতেও সেসব নেই। মাছ ধরা, মুক্তা বা অলংকারের কথাও এ আয়াতের আলোচনায় তাঁরা কেউ আনেন না, ঝড় বা ডুবে যাওয়ার ভয়ের বর্ণনাও এখানে নেই। অন্য জায়গায় যা-ই থাকুক, ৪৫:১২ নিয়ে এই মন্তব্যগুলো সেদিকে যায় না।"
+            "bn": "এই তাফসীরগুলো কী করে না, সেটাও সোজাসুজি বলা দরকার। এ আয়াতের জন্য আনা বাগাভীর লেখায় তিনি শুধু আয়াতটি উদ্ধৃত করেন, কোনো মন্তব্য যোগ করেন না। আনা তাফসীরগুলোর কোনোটিই ৪৫:১২ আয়াতের সঙ্গে কাছাকাছি অর্থের কোনো আয়াত মেলায় না, কোনো হাদিস জুড়ে দেয় না, নাজিলের কোনো প্রেক্ষাপটও বলে না। তাই এ লেখাতেও সেসব নেই। এ আয়াতের আলোচনায় মাছ ধরা, মুক্তা বা অলংকারের কথা তাঁরা কেউ আনেন না, ঝড় বা ডুবে মরার ভয়ের কথাও এখানে বলেন না। অন্য আয়াতে যা-ই থাকুক, ৪৫:১২ নিয়ে এই মন্তব্যগুলো সেদিকে যায় না।"
           },
           {
             "en": "What they do say is enough to read the verse by. Ibn Kathir's abridged English edition sets 45:12 under a heading that calls the subjection of the sea one of Allah's signs, and the very next verse, 45:13, widens the same subjection to whatever is in the heavens and on the earth. That wider claim has its own treatment. Here the commentators keep to one element, one command, one kind of seeking and one hoped-for response, and the verse is better served by staying with that than by importing what it does not mention.",
@@ -301,7 +301,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And as-Sa'di's promise turns the whole exercise from duty into hope. Thanks, he says, brings increase and an abundant reward. The verse began right after a portrait of someone who heard the signs and walked past them. It ends by asking you to do the opposite with something as plain as water: look at it, see whose command holds it, earn your share of His bounty in a way He approves, and say thank you in the form of obedience. That is a small enough practice to begin today.",
-            "bn": "আর সা'দীর প্রতিশ্রুতি পুরো ব্যাপারটাকে দায় থেকে আশায় নিয়ে যায়। তাঁর কথায়, শোকর বাড়তি নিয়ামত আর বিপুল প্রতিদান আনে। আয়াতটা শুরু হয়েছিল এমন এক লোকের ছবির ঠিক পরে, যে নিদর্শন শুনেও পাশ কাটিয়ে চলে গেছে। শেষ হয় আপনাকে উল্টোটা করতে বলে, পানির মতো সাদামাটা একটা জিনিস দিয়ে। তাকিয়ে দেখুন, বুঝুন কার হুকুম তাকে ধরে রেখেছে, তাঁর অনুগ্রহ থেকে নিজের ভাগ রোজগার করুন তাঁর পছন্দের পথে, আর আনুগত্যের রূপে বলুন: শুকরিয়া। শুরু করার জন্য এটুকু অভ্যাস আজই যথেষ্ট ছোট।"
+            "bn": "আর সা'দীর প্রতিশ্রুতি পুরো ব্যাপারটাকে দায় থেকে আশায় নিয়ে যায়। তাঁর কথায়, শোকর বাড়তি নিয়ামত আর বিপুল প্রতিদান আনে। আয়াতটা শুরু হয়েছিল এমন এক লোকের ছবির ঠিক পরে, যে নিদর্শন শুনেও পাশ কাটিয়ে চলে গেছে। শেষ হয় আপনাকে উল্টোটা করতে বলে, পানির মতো সাদামাটা একটা জিনিস দিয়ে। তাকিয়ে দেখুন, বুঝুন কার হুকুম তাকে ধরে রেখেছে, তাঁর অনুগ্রহ থেকে নিজের ভাগ রোজগার করুন তাঁর পছন্দের পথে, আর আনুগত্যের রূপে বলুন: শুকরিয়া। অভ্যাসটা এতই ছোট যে আজই শুরু করা যায়।"
           }
         ]
       }
@@ -317,11 +317,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "45:12 begins the passage with something specific: Allah subjected the sea for you, so that ships run upon it by His command and you may seek of His bounty — and it ends, perhaps you will be grateful. That is a bounded claim about one element people already knew they could not control. Then this verse removes the boundary altogether.",
-            "bn": "45:12 অংশটি শুরু করে নির্দিষ্ট কিছু দিয়ে: আল্লাহ তোমাদের জন্য সমুদ্রকে অধীন করেছেন, যাতে তাঁর নির্দেশে জাহাজ তাতে চলে এবং তোমরা তাঁর অনুগ্রহ তালাশ করতে পার — আর আয়াতটি শেষ হয় এই বলে, যেন তোমরা কৃতজ্ঞ হও। এটি এমন একটি উপাদান নিয়ে সীমিত দাবি, যাকে মানুষ আগে থেকেই জানত যে তারা নিয়ন্ত্রণ করতে পারে না। এরপর এই আয়াত সীমাটিই মুছে দেয়।"
+            "bn": "৪৫:১২ অংশটি শুরু করে নির্দিষ্ট একটা কথা দিয়ে: আল্লাহ তোমাদের জন্য সমুদ্রকে বশ করে দিয়েছেন, যাতে তাঁর হুকুমে জাহাজ তাতে চলে আর তোমরা তাঁর অনুগ্রহ তালাশ করতে পার। আর আয়াতটি শেষ হয় এই বলে: হয়তো তোমরা শোকর করবে। দাবিটা সীমিত, একটিমাত্র উপাদান নিয়ে, যাকে মানুষ আগে থেকেই জানত নিজের নিয়ন্ত্রণের বাইরে। এরপর এই আয়াত সীমাটাই তুলে দেয়।"
           },
           {
             "en": "Whatever is in the heavens and whatever is on the earth, all of it, subjected for you. The Arabic particle ma, whatever, does not halt at the catalogue we have compiled; it takes in what nobody has yet named. A reader in Makkah and a reader with a telescope are both standing inside the same sentence, and neither of them has reached its edge.",
-            "bn": "আসমানসমূহে যা কিছু আছে আর যমীনে যা কিছু আছে, তার সবই তোমাদের অধীন করা হয়েছে। আরবি শব্দ 'মা' — অর্থাৎ 'যা কিছু' — আমাদের তৈরি করা তালিকায় এসে থামে না; এটি ধরে ফেলে তা-ও, যার নাম এখনো কেউ রাখেনি। মক্কার একজন পাঠক আর দূরবীন হাতে একজন পাঠক — দুজনেই একই বাক্যের ভেতরে দাঁড়িয়ে আছেন, আর দুজনের কেউই এর প্রান্ত পর্যন্ত পৌঁছাননি।"
+            "bn": "আসমানসমূহে যা কিছু আছে আর যমীনে যা কিছু আছে, তার সবই তোমাদের অধীন করে দেওয়া হয়েছে। আরবি শব্দ 'মা', অর্থাৎ 'যা কিছু', আমাদের বানানো তালিকায় এসে থেমে যায় না। যার নাম এখনো কেউ দেয়নি, তাকেও সে ধরে রাখে। মক্কার একজন পাঠক আর দূরবীন হাতে একজন পাঠক, দুজনেই একই বাক্যের ভেতরে দাঁড়িয়ে। কেউই এর কিনারায় পৌঁছাননি।"
           }
         ]
       },
@@ -333,11 +333,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Taskhir is to put a thing to work in someone's service without its consent, its wage or its awareness. The sun is not an employee. It is not consulted about the harvest it ripens and it sends no bill. The verb appears across the Quran with steady content: 22:65 for the earth and the ships, 16:12 for night and day and sun and moon and stars, 14:32-33 for ships, rivers, sun, moon, night and day.",
-            "bn": "তাসখীর মানে কোনো কিছুকে কারও সেবায় খাটিয়ে নেওয়া — তার সম্মতি ছাড়া, তার পারিশ্রমিক ছাড়া, এমনকি তার জানা ছাড়াই। সূর্য কোনো কর্মচারী নয়। যে ফসল সে পাকায় তা নিয়ে তার সাথে পরামর্শ করা হয় না, আর সে কোনো বিলও পাঠায় না। ক্রিয়াটি কুরআনজুড়ে একই অর্থ নিয়ে আসে: 22:65 আয়াতে যমীন ও জাহাজের জন্য, 16:12 আয়াতে রাত ও দিন এবং সূর্য, চাঁদ ও তারার জন্য, 14:32-33 আয়াতে জাহাজ, নদী, সূর্য, চাঁদ, রাত ও দিনের জন্য।"
+            "bn": "তাসখীর মানে কোনো কিছুকে কারও কাজে খাটিয়ে নেওয়া, তার সম্মতি না নিয়ে, পারিশ্রমিক না দিয়ে, এমনকি সে টেরও পায় না। সূর্য কারও কর্মচারী নয়। যে ফসল সে পাকায়, তা নিয়ে কেউ তার পরামর্শ নেয় না, আর সে কোনো বিলও পাঠায় না। কুরআনজুড়ে ক্রিয়াটি একই অর্থে এসেছে: ২২:৬৫ আয়াতে যমীন ও জাহাজের জন্য, ১৬:১২ আয়াতে রাত-দিন আর সূর্য, চাঁদ ও তারার জন্য, ১৪:৩২-৩৩ আয়াতে জাহাজ, নদী, সূর্য, চাঁদ, রাত ও দিনের জন্য।"
           },
           {
             "en": "31:20 places the same subjection beside a second phrase worth keeping: He has amply bestowed upon you His favours, apparent and unapparent. Some of the service is visible — the rain that fell, the crop that came in. Most of it is not, running below any line we would notice, which is precisely why a verse has to inform us that it is happening at all.",
-            "bn": "31:20 একই অধীনস্থ করাকে রাখে আরেকটি মনে রাখার মতো বাক্যের পাশে: তিনি তোমাদের ওপর তাঁর নিয়ামত পূর্ণ করে দিয়েছেন, প্রকাশ্য ও অপ্রকাশ্য। এই সেবার কিছু অংশ দৃশ্যমান — যে বৃষ্টি নামল, যে ফসল ঘরে উঠল। বেশিরভাগই দৃশ্যমান নয়, চলে আমাদের নজরে পড়ার সীমার অনেক নিচ দিয়ে — আর ঠিক এ কারণেই একটি আয়াতকে আমাদের জানাতে হয় যে ব্যাপারটি আদৌ ঘটছে।"
+            "bn": "৩১:২০ আয়াত এই একই তাসখীরের পাশে আরেকটা কথা রাখে, যা মনে রাখার মতো: তিনি তোমাদের প্রতি তাঁর প্রকাশ্য ও অপ্রকাশ্য নিয়ামত পরিপূর্ণভাবে ঢেলে দিয়েছেন। এই সেবার কিছুটা চোখে পড়ে: যে বৃষ্টি নামল, যে ফসল ঘরে উঠল। বেশিরভাগই চোখে পড়ে না, আমাদের নজরের অনেক নিচ দিয়ে চলে। ঠিক এ কারণেই আয়াতকে জানিয়ে দিতে হয় যে এমন কিছু আদৌ ঘটছে।"
           }
         ]
       },
@@ -349,11 +349,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two words after the list have been read in more than one way, and the difference is worth stating without settling it. Read one way, jami'an gathers the whole of what was mentioned — all of it, without exception, subjected — and minhu names the source: it is from Him. Read the other way, the weight falls on minhu, so that the subjection itself is a favour proceeding from Him alone, which is how the classical commentators most often summarise the sense.",
-            "bn": "তালিকার পরের এই দুটি শব্দ একাধিকভাবে পড়া হয়েছে, আর পার্থক্যটি কোনো এক পক্ষ না নিয়েই বলে রাখা ভালো। এক পাঠে জামী'আন পুরো উল্লিখিত বিষয়টিকে একত্র করে — সবই, ব্যতিক্রম ছাড়া, অধীন করা হয়েছে — আর মিনহু উৎসের নাম নেয়: তা তাঁর কাছ থেকে। অন্য পাঠে ভারটি পড়ে মিনহু শব্দের ওপর, যাতে অধীন করাটাই কেবল তাঁর কাছ থেকে আসা এক অনুগ্রহ — ধ্রুপদী মুফাসসিরগণ অধিকাংশ সময় এভাবেই অর্থটি সংক্ষেপ করেন।"
+            "bn": "তালিকার পরের এই দুটি শব্দ একাধিকভাবে পড়া হয়েছে। পার্থক্যটা বলে রাখা ভালো, কোনো পক্ষ না নিয়েই। এক পাঠে জামী'আন উল্লিখিত সবকিছুকে এক করে নেয়: সবই, কোনো ব্যতিক্রম ছাড়া, অধীন করে দেওয়া হয়েছে। আর মিনহু উৎসের কথা বলে: এসব তাঁর কাছ থেকে। অন্য পাঠে জোরটা পড়ে মিনহু শব্দের ওপর। তখন অধীন করে দেওয়াটাই হয়ে যায় কেবল তাঁর কাছ থেকে আসা এক অনুগ্রহ। প্রাচীন মুফাসসিরগণ বেশিরভাগ সময় অর্থটা এভাবেই সংক্ষেপে বলেন।"
           },
           {
             "en": "Either way the phrase closes a door. In both readings min marks origin — where this came from — and not a portion of anything. So nothing in the arrangement is owed to us and nothing in it arrived by itself. The verse does not say that the heavens and the earth serve us because that is their nature. It says they were made to serve, by Someone, as a favour.",
-            "bn": "যেভাবেই পড়া হোক, বাক্যাংশটি একটি দরজা বন্ধ করে দেয়। দুই পাঠেই 'মিন' উৎস নির্দেশ করে — এটি কোথা থেকে এসেছে — কোনো কিছুর অংশ নয়। ফলে এই ব্যবস্থার কিছুই আমাদের প্রাপ্য নয়, আর কিছুই আপনাআপনি এসে যায়নি। আয়াতটি বলে না যে আসমান ও যমীন আমাদের সেবা করে কারণ সেটিই তাদের স্বভাব। এটি বলে, কেউ একজন তাদের সেবায় নিয়োজিত করেছেন, অনুগ্রহ হিসেবে।"
+            "bn": "যেভাবেই পড়া হোক, কথাটা একটা দরজা বন্ধ করে দেয়। দুই পাঠেই 'মিন' বোঝায় উৎস, অর্থাৎ জিনিসটা কোথা থেকে এল, কোনো কিছুর অংশ নয়। তাই এ ব্যবস্থার কোনো কিছুই আমাদের পাওনা নয়, আর কোনো কিছুই আপনাআপনি এসে পড়েনি। আয়াত এ কথা বলে না যে আসমান-যমীন আমাদের সেবা করে, কারণ সেটাই তাদের স্বভাব। আয়াত বলে, কেউ একজন তাদের সেবায় লাগিয়েছেন, অনুগ্রহ করে।"
           }
         ]
       },
@@ -365,11 +365,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two verses end differently, and the difference is the point. 45:12 ends with perhaps you will be grateful; this one ends with signs for a people who give thought. Thanks is the response to a gift you have noticed. Thought is what turns a noticed gift into evidence. The passage asks for both, and in that order.",
-            "bn": "দুটি আয়াত ভিন্নভাবে শেষ হয়, আর এই ভিন্নতাই মূল কথা। 45:12 শেষ হয় 'যেন তোমরা কৃতজ্ঞ হও' দিয়ে; এটি শেষ হয় 'চিন্তাশীল সম্প্রদায়ের জন্য নিদর্শন' দিয়ে। কৃতজ্ঞতা হলো লক্ষ করা কোনো দানের প্রতি সাড়া। আর চিন্তা হলো সেই লক্ষ করা দানকে প্রমাণে রূপান্তরিত করা। অংশটি দুটোই চায়, এবং এই ক্রমেই চায়।"
+            "bn": "দুটি আয়াতের শেষ কথা আলাদা, আর এই পার্থক্যেই আসল কথা। ৪৫:১২ শেষ হয় 'হয়তো তোমরা শোকর করবে' দিয়ে, আর এ আয়াত শেষ হয় 'চিন্তাশীল সম্প্রদায়ের জন্য নিদর্শন' দিয়ে। কোনো দান চোখে পড়লে তার জবাব শোকর। আর চিন্তা সেই চোখে পড়া দানকে প্রমাণে পরিণত করে। অংশটি দুটোই চায়, আর এই ক্রমেই চায়।"
           },
           {
             "en": "as-Sa'di traces what the thinking finds. The precision of the making points to knowledge; the scale of it to dominion; the sheer usefulness of it to mercy; and creatures set to opposite tasks to a will that does as it chooses. Taken together, he argues, the subjection of a universe to so small a creature argues for One who alone deserves worship. 59:21 says these examples are struck for people so that they might reflect.",
-            "bn": "আস-সা'দী দেখান, এই চিন্তা কী খুঁজে পায়। সৃষ্টির নিখুঁততা নির্দেশ করে জ্ঞানের দিকে; এর বিশালতা নির্দেশ করে কর্তৃত্বের দিকে; এর নিছক উপকারিতা নির্দেশ করে রহমতের দিকে; আর পরস্পরবিরোধী কাজে নিয়োজিত সৃষ্টিগুলো নির্দেশ করে এমন এক ইচ্ছার দিকে যা যা চায় তা-ই করে। সব মিলিয়ে, তিনি বলেন, এত ক্ষুদ্র এক সৃষ্টির অধীনে গোটা বিশ্বজগৎকে দিয়ে দেওয়া প্রমাণ করে যে ইবাদতের যোগ্য একমাত্র তিনিই। 59:21 বলে, এসব দৃষ্টান্ত মানুষের জন্য দেওয়া হয় যাতে তারা চিন্তা করে।"
+            "bn": "সা'দী দেখান, এই চিন্তা কী খুঁজে পায়। সৃষ্টির নিখুঁত গড়ন জ্ঞানের দিকে ইশারা করে, এর বিশালতা রাজত্বের দিকে, এর অগাধ উপকারিতা রহমতের দিকে। আর একে অপরের উল্টো কাজে লাগানো সৃষ্টিগুলো ইশারা করে এমন এক ইচ্ছার দিকে, যা যেমন চায় তেমনই করে। তাঁর যুক্তি, সব মিলিয়ে এত ছোট এক সৃষ্টির জন্য গোটা বিশ্বজগৎকে বশ করে দেওয়া প্রমাণ করে, ইবাদতের যোগ্য একমাত্র তিনিই। ৫৯:২১ আয়াত বলে, এসব দৃষ্টান্ত মানুষের জন্য দেওয়া হয়, যাতে তারা চিন্তা করে।"
           }
         ]
       },
@@ -381,11 +381,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A gift is easily misread as a right. Nothing in this verse makes the human being the owner of what serves him; the verb has a subject, and the subject is Allah. The sea in 45:12 runs by His command, not the captain's. Read carefully, the verse enlarges the human place in creation and shrinks the human claim over it in the same breath.",
-            "bn": "দান সহজেই অধিকার বলে ভুল পড়া হয়। এই আয়াতের কিছুই মানুষকে তার সেবাকারীদের মালিক বানায় না; ক্রিয়াটির একজন কর্তা আছেন, আর সেই কর্তা আল্লাহ। 45:12 আয়াতের সমুদ্র চলে তাঁর নির্দেশে, নাবিকের নির্দেশে নয়। মনোযোগ দিয়ে পড়লে দেখা যায়, আয়াতটি একই নিঃশ্বাসে সৃষ্টিতে মানুষের স্থানকে বড় করে আর তার ওপর মানুষের দাবিকে ছোট করে।"
+            "bn": "দানকে খুব সহজেই অধিকার বলে ভুল করা যায়। এ আয়াতের কোনো কিছুই মানুষকে তার সেবায় লাগানো জিনিসগুলোর মালিক বানায় না। ক্রিয়াটির একজন কর্তা আছেন, আর সেই কর্তা আল্লাহ। ৪৫:১২ আয়াতের সমুদ্র চলে তাঁর হুকুমে, নাবিকের হুকুমে নয়। মন দিয়ে পড়লে দেখা যায়, আয়াতটি এক নিঃশ্বাসে সৃষ্টির মাঝে মানুষের জায়গা বড় করে দেয়, আবার সৃষ্টির ওপর মানুষের দাবি ছোট করে দেয়।"
           },
           {
             "en": "The practice is small and specific. Take one thing today that served you without being asked — light, running water, an unbroken night, a body that carried you where you needed to go — and hold it long enough to see both ends of the sentence: that it was subjected, and that it came from Him. Do that once a day and the verse has been read the way it asks to be read.",
-            "bn": "চর্চাটি ছোট ও নির্দিষ্ট। আজ এমন একটি জিনিস বেছে নিন যা না চাইতেই আপনার সেবা করেছে — আলো, বহতা পানি, নির্বিঘ্ন একটি রাত, কিংবা এমন একটি শরীর যা আপনাকে যেখানে দরকার সেখানে বয়ে নিয়ে গেছে — আর তা নিয়ে ততক্ষণ থামুন যতক্ষণে বাক্যটির দুই প্রান্তই দেখা যায়: এটিকে অধীন করা হয়েছে, আর এটি এসেছে তাঁরই কাছ থেকে। দিনে একবার এটি করুন, তাহলেই আয়াতটি সেভাবে পড়া হলো যেভাবে সে পড়তে বলে।"
+            "bn": "অভ্যাসটা ছোট, আর নির্দিষ্ট। আজ এমন একটা জিনিস বেছে নিন, যা না চাইতেই আপনার সেবা করেছে: আলো, কলের পানি, নির্বিঘ্নে কাটা একটা রাত, কিংবা যে শরীর আপনাকে দরকারি জায়গায় বয়ে নিয়ে গেছে। তারপর সেটা নিয়ে ততক্ষণ ভাবুন, যতক্ষণ না বাক্যটির দুই মাথাই চোখে পড়ে: একে বশ করে দেওয়া হয়েছে, আর এটা এসেছে তাঁরই কাছ থেকে। দিনে একবার এটুকু করুন। তাহলেই আয়াতটি যেভাবে পড়তে বলে, সেভাবে পড়া হলো।"
           }
         ]
       }
@@ -417,7 +417,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators fetched for this verse gloss bil-haqq in more than one way. Ibn Kathir, in the Arabic, gives a single word: bil-'adl, with justice; the English abridgement renders it, meaning, in justice. At-Tabari pairs two words, justice and truth, and his gloss is worded with li, for: li'l-'adli wal-haqq, for justice and truth. The difference is in his paraphrase. He does not stop to comment on the preposition, and this article draws no rule from it.",
-            "bn": "এ আয়াতের যে তাফসীরগুলো হাতে আছে, সেগুলোতে বিল-হাক্কের ব্যাখ্যা একরকম নয়। আরবী ইবন কাসীর একটিমাত্র শব্দে বলেন: বিল-আদল, অর্থাৎ ইনসাফের সঙ্গে। ইংরেজি সংক্ষিপ্ত সংস্করণও লিখেছে, মানে ইনসাফের সঙ্গে। তাবারী দুটি শব্দ পাশাপাশি রাখেন, ইনসাফ ও হক। তাঁর ব্যাখ্যার শব্দ লি দিয়ে: লিল-আদলি ওয়াল-হাক্ক, অর্থাৎ ইনসাফ ও হকের জন্য। পার্থক্যটা তাঁর নিজের ভাষ্যের শব্দে। এ নিয়ে তিনি আলাদা কিছু বলেননি, আর এ লেখাও এখান থেকে কোনো নিয়ম বের করছে না।"
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোতে বিল-হাক্কের ব্যাখ্যা একরকম নয়। ইবন কাসীর আরবি মূলে একটিমাত্র শব্দে বলেন: বিল-আদল, অর্থাৎ ইনসাফের সঙ্গে। ইংরেজি সংক্ষিপ্ত সংস্করণেও আছে, মানে ইনসাফের সঙ্গে। তাবারী পাশাপাশি রাখেন দুটি শব্দ, ইনসাফ ও হক, আর তাঁর ভাষ্যে শব্দ দুটি আসে লি, অর্থাৎ 'জন্য', দিয়ে: লিল-আদলি ওয়াল-হাক্ক, ইনসাফ ও হকের জন্য। পার্থক্যটা কেবল তাঁর ভাষ্যের শব্দে। এই অব্যয় নিয়ে তিনি আলাদা কিছু বলেননি, আর এ লেখাও এ থেকে কোনো নিয়ম বের করছে না।"
           },
           {
             "en": "The Muyassar widens the gloss to three: Allah created the heavens and the earth with truth, justice and wisdom. Al-Qurtubi gives bil-amri'l-haqq, with the true matter, and adds nothing more on the phrase. As-Sa'di says with wisdom, al-hikmah, and joins a second aim to it at once: and so that He alone be worshipped, with no partner. Of the eight texts fetched, al-Baghawi's carries the verse alone with no comment, so he is not cited for any reading here.",
@@ -437,11 +437,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari does not leave bil-haqq as a gloss; he turns it into an argument. To make the disobedient like the believer who did good, he says, would be the act of those who are not people of justice and fairness. Then he puts the point in Allah's voice, as he reads it: Allah did not create the heavens and the earth for wrong and oppression, li'z-zulmi wal-jawr, but We created them for truth and justice. The reckoning of 45:21 is answered by what the creation is for.",
-            "bn": "তাবারী বিল-হাক্ককে শুধু শব্দার্থে রেখে দেননি, একে যুক্তিতে পরিণত করেছেন। তাঁর কথায়, যে নাফরমানি করেছে তাকে সৎকর্মশীল ঈমানদারের সমান করা হবে তাদের কাজ, যারা ইনসাফ ও ন্যায্যতার লোক নয়। এরপর তিনি নিজের পাঠ অনুযায়ী কথাটা আল্লাহর জবানিতে বলেন: আল্লাহ আসমান ও যমীন জুলুম আর অত্যাচারের জন্য সৃষ্টি করেননি, লিয-যুলমি ওয়াল-জাওর। বরং আমি এগুলো সৃষ্টি করেছি হক ও ইনসাফের জন্য। ৪৫:২১-এর ভুল হিসাবের জবাব আসে সৃষ্টির উদ্দেশ্য থেকে।"
+            "bn": "তাবারী বিল-হাক্ককে শুধু শব্দার্থে রেখে দেননি, একে যুক্তিতে পরিণত করেছেন। তাঁর কথায়, নাফরমানকে সৎকর্মশীল ঈমানদারের সমান করে দেওয়া তাদেরই কাজ, যারা ইনসাফ আর ন্যায়ের লোক নয়। এরপর তিনি নিজের পাঠ অনুযায়ী কথাটা আল্লাহর জবানিতে বলেন: আল্লাহ আসমান ও যমীন জুলুম আর অত্যাচারের জন্য সৃষ্টি করেননি, লিয-যুলমি ওয়াল-জাওর। বরং আমি এগুলো সৃষ্টি করেছি হক ও ইনসাফের জন্য। ৪৫:২১-এর ভুল হিসাবের জবাব আসে সৃষ্টির উদ্দেশ্য থেকে।"
           },
           {
             "en": "He then names one thing that belongs to that truth: wa minal-haqqi an nukhalifa bayna hukmi'l-musi'i wal-muhsin, fil-'ajili wal-ajil. Part of the truth is that We make a difference between how the wrongdoer and the doer of good are dealt with, in the near term and the later. At-Tabari places the difference in both, the present and what comes after. He does not say in this passage what the difference in the near term consists of, so nothing is added to it here.",
-            "bn": "তারপর তিনি সেই হকের একটি অংশের নাম বলেন: ওয়া মিনাল হাক্কি আন নুখালিফা বাইনা হুকমিল মুসীয়ি ওয়াল মুহসিন, ফিল-আজিলি ওয়াল-আজিল। অর্থাৎ হকের মধ্যেই আছে যে আমি মন্দকারী আর সৎকর্মশীলের ফয়সালা আলাদা করব, এখনও এবং পরেও। তাবারী পার্থক্যটা দুই জায়গাতেই রাখেন, এ দুনিয়ায় এবং পরের জীবনে। দুনিয়ার পার্থক্যটা কেমন, তা তিনি এ অংশে বলেননি। তাই এখানে এর সঙ্গে কিছু যোগ করা হলো না।"
+            "bn": "তারপর তিনি সেই হকের একটি অংশের নাম বলেন: ওয়া মিনাল হাক্কি আন নুখালিফা বাইনা হুকমিল মুসীয়ি ওয়াল মুহসিন, ফিল-আজিলি ওয়াল-আজিল। অর্থাৎ হকের একটা অংশ এই যে, মন্দকারী আর সৎকর্মশীলের সঙ্গে আমার আচরণ এক হবে না, এখনও না, পরেও না। তাবারী পার্থক্যটা দুই জায়গাতেই রাখেন, এ দুনিয়ায় এবং পরের জীবনে। দুনিয়ার পার্থক্যটা কেমন, তা তিনি এ অংশে বলেননি। তাই এ লেখাও এর সঙ্গে কিছু যোগ করছে না।"
           }
         ]
       },
@@ -453,11 +453,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa li-tujza kullu nafsin: and so that every soul may be recompensed. Al-Qurtubi glosses the opening as wa li-kay tujza, and in order that it be recompensed, and the Muyassar uses the same wa li-kay. Both read the li as stating a purpose. Both also say when the recompense falls. Al-Qurtubi adds, after bima kasabat, ay fil-akhirah: that is, in the Hereafter. The Muyassar says the soul is recompensed in the Hereafter for what it earned, of good or of evil.",
-            "bn": "ওয়া লিতুজযা কুল্লু নাফসিন: আর যাতে প্রত্যেক প্রাণকে প্রতিদান দেওয়া হয়। কুরতুবী শুরুর অংশের ব্যাখ্যা দেন ওয়া লিকাই তুজযা, অর্থাৎ যেন প্রতিদান দেওয়া হয়। মুয়াসসারও একই ওয়া লিকাই ব্যবহার করে। দুজনেই লি-কে উদ্দেশ্য বোঝানোর শব্দ হিসেবে পড়েন। প্রতিদান কখন, সেটাও দুজনে বলেন। কুরতুবী বিমা কাসাবাতের পরে যোগ করেন, আই ফিল-আখিরাহ: অর্থাৎ আখিরাতে। মুয়াসসার বলে, প্রত্যেক প্রাণ আখিরাতে প্রতিদান পাবে, ভালো হোক বা মন্দ, যা সে উপার্জন করেছে তার।"
+            "bn": "ওয়া লিতুজযা কুল্লু নাফসিন: আর যাতে প্রত্যেক প্রাণকে প্রতিদান দেওয়া হয়। কুরতুবী শুরুর অংশের ব্যাখ্যা দেন ওয়া লিকাই তুজযা, অর্থাৎ যেন প্রতিদান দেওয়া হয়। মুয়াসসারও একই ওয়া লিকাই ব্যবহার করে। দুজনেই লি-কে উদ্দেশ্য বোঝানোর শব্দ হিসেবে পড়েন। প্রতিদান কখন, সেটাও দুজনে বলেন। কুরতুবী বিমা কাসাবাতের পরে যোগ করেন, আই ফিল-আখিরাহ: অর্থাৎ আখিরাতে। মুয়াসসার বলে, প্রত্যেক প্রাণ ভালো-মন্দ যা উপার্জন করেছে, আখিরাতে তার প্রতিদান পাবে।"
           },
           {
             "en": "The clause opens with wa, and. A reader may ask what that and is joined to, since no other purpose is spoken before it. None of the commentaries fetched for this verse answers the question. They gloss the purpose and move on. As-Sa'di's paraphrase sets wisdom and the worship of Allah alone first and then says, after that He recompenses, but he offers this as a paraphrase, not as a note on the conjunction. This article leaves the grammar where the texts leave it.",
-            "bn": "বাক্যাংশটি শুরু হয়েছে ওয়া দিয়ে, অর্থাৎ আর। পাঠকের মনে প্রশ্ন জাগতে পারে, এ আর কীসের সঙ্গে যুক্ত, কারণ আগে আর কোনো উদ্দেশ্যের কথা মুখে বলা হয়নি। এ আয়াতের যে তাফসীরগুলো হাতে আছে, তার কোনোটিই এর জবাব দেয়নি। সবাই উদ্দেশ্যটা ব্যাখ্যা করে সামনে এগিয়েছেন। সা'দীর ভাষ্যে আগে আসে হিকমত আর এক আল্লাহর ইবাদত, তারপর তিনি বলেন: এরপর তিনি প্রতিদান দেবেন। তবে এটা তাঁর ভাষ্য, ওয়া শব্দটি নিয়ে আলাদা মন্তব্য নয়। ব্যাকরণের প্রশ্নটা তাফসীরগুলো যেখানে রেখেছে, এ লেখাও সেখানেই রাখল।"
+            "bn": "বাক্যাংশটি শুরু হয়েছে ওয়া দিয়ে, অর্থাৎ আর। পাঠকের মনে প্রশ্ন জাগতে পারে, এই 'আর' কীসের সঙ্গে জুড়েছে, কারণ এর আগে অন্য কোনো উদ্দেশ্যের কথা বলা নেই। এ আয়াতের যে তাফসীরগুলো হাতে আছে, তার কোনোটিই এর জবাব দেয়নি। সবাই উদ্দেশ্যটা ব্যাখ্যা করে সামনে এগিয়েছেন। সা'দীর ভাষ্যে আগে আসে হিকমত আর এক আল্লাহর ইবাদত, তারপর তিনি বলেন: এরপর তিনি প্রতিদান দেবেন। তবে এটা তাঁর ভাষ্য, ওয়া শব্দটি নিয়ে আলাদা মন্তব্য নয়। ব্যাকরণের প্রশ্নটা তাফসীরগুলো যেখানে রেখেছে, এ লেখাও সেখানেই রাখল।"
           }
         ]
       },
@@ -480,12 +480,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "None of Them Wronged",
-          "bn": "ওয়া হুম লা য়ুযলামূন"
+          "bn": "কারও প্রতি জুলুম হবে না"
         },
         "p": [
           {
             "en": "The verse closes on wa hum la yuzlamun, and they will not be wronged. At-Tabari and the Muyassar gloss it in nearly the same words: they will not be wronged in the recompense of their deeds, jaza'a a'malihim. Al-Qurtubi and Ibn Kathir, in the Arabic, repeat the words of the verse and add no gloss of their own. The verb is passive, and none of the texts fetched stops on that. The clause is read, in the two that explain it, as a statement about the recompense.",
-            "bn": "আয়াতের শেষ কথা ওয়া হুম লা য়ুযলামূন: আর তাদের উপর জুলুম করা হবে না। তাবারী ও মুয়াসসার প্রায় একই শব্দে এর ব্যাখ্যা দেন: তাদের আমলের প্রতিদানে তাদের উপর জুলুম হবে না, জাযাআ আ'মালিহিম। কুরতুবী ও আরবী ইবন কাসীর আয়াতের শব্দগুলোই আবার উল্লেখ করেন, নিজেদের কোনো ব্যাখ্যা যোগ করেননি। ক্রিয়াটি কর্মবাচ্যে, তবে হাতে থাকা কোনো লেখা এ নিয়ে থামেনি। যে দুটি লেখা ব্যাখ্যা দিয়েছে, তাতে বাক্যটি প্রতিদান সম্পর্কে একটি ঘোষণা।"
+            "bn": "আয়াতের শেষ কথা ওয়া হুম লা য়ুযলামূন: আর তাদের উপর জুলুম করা হবে না। তাবারী ও মুয়াসসার প্রায় একই শব্দে এর ব্যাখ্যা দেন: তাদের আমলের প্রতিদানে তাদের উপর জুলুম হবে না, জাযাআ আ'মালিহিম। কুরতুবী আর আরবি মূলের ইবন কাসীর আয়াতের শব্দগুলোই আবার বলেন, নিজেদের কোনো ব্যাখ্যা যোগ করেন না। ক্রিয়াটি কর্মবাচ্যে, তবে হাতে থাকা কোনো লেখা এ নিয়ে থামেনি। যে দুটি লেখা ব্যাখ্যা দিয়েছে, তাতে বাক্যটি প্রতিদান সম্পর্কে একটি ঘোষণা।"
           },
           {
             "en": "At-Tabari's three exclusions in the previous section are his own way of spelling out the same assurance: the doer of good is not cut short, and nobody carries a crime that is not his. Ma'arif al-Qur'an, closing its comment on this verse, says that the Day of Requital is necessary in order to wipe out wrong and injustice. Beyond what these texts say, this article adds no account of its own of how divine justice works. The verse's own words carry the assurance.",
@@ -521,7 +521,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One thing needs saying plainly. The evildoers of 45:21, whose reckoning this verse answers, are a group the text describes: those who commit evil deeds and think they will be made equal with those who believe. The verse describes what the text describes and licenses nothing against any living person or community. The recompense it names belongs to Allah, on the terms He states. It hands no reader a verdict on a neighbour, a rival or a people, and nobody is named by it.",
-            "bn": "একটা কথা সোজাসুজি বলা দরকার। ৪৫:২১-এর যে মন্দকারীদের ভুল হিসাবের জবাব এ আয়াত দেয়, তারা লেখায় বর্ণিত একটি দল: যারা মন্দ কাজ করে আর ভাবে তাদেরকে ঈমানদারদের সমান করা হবে। আয়াতটি শুধু তা-ই বর্ণনা করে যা লেখায় আছে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। যে প্রতিদানের কথা এখানে, তা আল্লাহর হাতে, তাঁর বলা শর্তে। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতির ব্যাপারে কোনো রায় এ আয়াত পাঠকের হাতে তুলে দেয় না, এতে কারও নামও নেই।"
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। ৪৫:২১-এর যে মন্দকারীদের ভুল হিসাবের জবাব এ আয়াত দিচ্ছে, তারা আয়াতে বর্ণিত একটি দল: যারা মন্দ কাজ করে আর ভাবে, তাদেরকে ঈমানদারদের সমান করা হবে। আয়াত শুধু তাদের বর্ণনাই দেয়। এ দিয়ে কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অধিকার কারও জন্মায় না। যে প্রতিদানের কথা এখানে, তা আল্লাহর হাতে, তাঁরই বলা শর্তে। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতির ব্যাপারে এ আয়াত পাঠকের হাতে কোনো রায় তুলে দেয় না। এতে কারও নামও নেই।"
           },
           {
             "en": "None of the eight commentaries fetched for this verse attaches a hadith to it, so none is given here. Nor do they report an occasion of revelation for it; the verse is read in its place, after 45:21. The cross-references a reader might expect on creation in truth are not drawn here either, because none of these texts draws them on this verse. What remains is the verse itself, and the glosses the named commentators give.",
@@ -529,7 +529,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse speaks of every soul, kullu nafsin, so the reader is inside it before anyone else. A practical way to hold it: at the end of a day, name one thing done that no one saw, and trust that it was not lost; name one thing done to someone else that you would not want to meet again, and set it right while it can still be set right. Then leave the accounts of others where the verse leaves them.",
-            "bn": "আয়াতটি বলে প্রত্যেক প্রাণের কথা, কুল্লু নাফসিন। তাই অন্য কারও আগে পাঠক নিজেই এর ভেতরে আছেন। হাতে-কলমে ধরে রাখার একটা উপায়: দিনের শেষে এমন একটা কাজের নাম নিন যা কেউ দেখেনি, আর ভরসা রাখুন তা হারিয়ে যায়নি। এমন একটা কাজের নামও নিন যা কারও সঙ্গে করেছেন আর যার সঙ্গে আবার দেখা হোক চান না। শোধরানোর সুযোগ থাকতেই তা শুধরে নিন। আর অন্যদের হিসাব সেখানেই রেখে দিন, আয়াত যেখানে রেখেছে।"
+            "bn": "আয়াতটি বলে প্রত্যেক প্রাণের কথা, কুল্লু নাফসিন। তাই অন্য কারও আগে পাঠক নিজেই এর ভেতরে আছেন। হাতে-কলমে ধরে রাখার একটা উপায়: দিনের শেষে এমন একটা কাজের কথা মনে করুন, যা কেউ দেখেনি, আর ভরসা রাখুন, সেটা হারিয়ে যায়নি। আরেকটা কাজের কথাও মনে করুন, যা আপনি কারও সঙ্গে করেছেন আর যার মুখোমুখি আবার হতে চাইবেন না। শোধরানোর সুযোগ থাকতে থাকতেই তা শুধরে নিন। আর অন্যদের হিসাব সেখানেই রেখে দিন, আয়াত যেখানে রেখেছে।"
           }
         ]
       }
