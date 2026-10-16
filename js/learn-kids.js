@@ -231,6 +231,12 @@ class KidsQaida {
     return CI18N.tr(l, en, 'kids') || en;
   }
 
+  /** t() with an English fallback for keys not yet in every language file. */
+  tk(key, en, lang) {
+    const v = t(key, lang || this.language);
+    return (v && v !== key) ? v : en;
+  }
+
   constructor() {
     this.root = document.getElementById('learn-kids-root');
     if (!this.root) return;
@@ -527,9 +533,36 @@ class KidsQaida {
                          text-white text-sm font-bold shadow hover:scale-105 transition-transform">
             👀 ${t('kids_lotd_learn', lang)}
           </button>
+          ${this.renderLotdTwins(l, lang)}
         </div>
       </div>
     `;
+  }
+
+  /** Letters that LETTER_CONFUSABLE pairs with `char` (Sound Twins partners). */
+  twinPartners(char) {
+    if (typeof LETTER_CONFUSABLE === 'undefined') return [];
+    const out = [];
+    LETTER_CONFUSABLE.forEach(([a, b]) => {
+      const other = a === char ? b : b === char ? a : null;
+      if (other && !out.includes(other)) out.push(other);
+    });
+    return out;
+  }
+
+  /** "Sound Twins: ق or ك?" link under the daily letter; nothing when it has no pair. */
+  renderLotdTwins(l, lang) {
+    const partners = this.twinPartners(l.char);
+    if (!partners.length) return '';
+    const q = this.tk('kids_lotd_twins', '{a} or {b}?', lang)
+      .replace('{a}', `<span class="ayah-arabic !text-base !leading-none">${l.char}</span>`)
+      .replace('{b}', partners.map(p => `<span class="ayah-arabic !text-base !leading-none">${p}</span>`).join(' / '));
+    return `
+          <button data-kids-lotd-twins="${l.char}" title="${this.tk('kids_lotd_twins_hint', 'Hear two Quran words that differ only in this letter', lang)}"
+                  class="mt-2 ms-1 px-4 py-1.5 rounded-full bg-gradient-to-br from-rose-400 to-sky-500
+                         text-white text-sm font-bold shadow hover:scale-105 transition-transform" dir="auto">
+            🎧 ${this.kqx('soundpair', 'title', lang)}: ${q}
+          </button>`;
   }
 
   renderLetterCard(letter, index, lang) {
@@ -1736,7 +1769,7 @@ class KidsQaida {
             🏆 ${t('best_score', lang)}: <span class="font-bold">${best} / ${q.total}</span>
           </p>` : ''}
         <div class="flex flex-wrap justify-center gap-3 pt-2">
-          <button data-kids-quiz-mode="${q.mode}"
+          <button data-kids-quiz-mode="${q.mode}"${q.pairLetter ? ` data-kids-quiz-letter="${q.pairLetter}"` : ''}
                   class="px-6 py-3 rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-500 text-white
                          text-lg font-bold shadow hover:scale-105 transition-all">
             🔁 ${t('play_again', lang)}
@@ -1894,20 +1927,27 @@ class KidsQaida {
     return this._streak;
   }
 
-  startQuiz(mode) {
+  /**
+   * Start a quiz game. `letter` (optional, Sound Twins only) limits the rounds
+   * to the minimal pairs of that letter; ignored when it has none.
+   */
+  startQuiz(mode, letter) {
     // Sound Twins needs the minimal pairs from data/letter-practice first
     if (mode === 'soundpair' && !this._kidsPairs) {
       if (typeof LetterPracticeRules === 'undefined') return;
       LetterPracticeRules.load().then(d => {
         this._kidsPairs = [];
         (d.pairs || []).forEach(([x, y, items]) => items.forEach(it => this._kidsPairs.push({ x, y, it })));
-        if (this._kidsPairs.length) this.startQuiz(mode);
+        if (this._kidsPairs.length) this.startQuiz(mode, letter);
       }).catch(() => {});
       return;
     }
+    const pairLetter = (mode === 'soundpair' && letter &&
+      this._kidsPairs.some(p => p.x === letter || p.y === letter)) ? letter : null;
     this.clearAdvanceTimer();
     this.quiz = {
       mode: mode,
+      pairLetter,
       round: 0,
       total: KIDS_QUIZ_ROUNDS,
       score: 0,
@@ -2138,7 +2178,9 @@ class KidsQaida {
     // soundpair "Sound Twins": hear a real recitation of one word of a Quranic
     // minimal pair (أَلِيمٌ / عَلِيمٌ) and pick it; the swapped letters are coloured.
     if (mode === 'soundpair' && this._kidsPairs && this._kidsPairs.length) {
-      const { x, y, it } = this._kidsPairs[Math.floor(Math.random() * this._kidsPairs.length)];
+      const pl = this.quiz && this.quiz.pairLetter;
+      const pool = pl ? this._kidsPairs.filter(p => p.x === pl || p.y === pl) : this._kidsPairs;
+      const { x, y, it } = pool[Math.floor(Math.random() * pool.length)];
       const pad = n => String(n).padStart(3, '0');
       const url = r => { const [s, a, i] = r.split(':'); return `https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3`; };
       const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
@@ -2517,7 +2559,17 @@ class KidsQaida {
 
     const modeBtn = e.target.closest('[data-kids-quiz-mode]');
     if (modeBtn) {
-      this.startQuiz(modeBtn.getAttribute('data-kids-quiz-mode'));
+      this.startQuiz(modeBtn.getAttribute('data-kids-quiz-mode'),
+        modeBtn.getAttribute('data-kids-quiz-letter') || undefined);
+      return;
+    }
+
+    // Letter of the day → Sound Twins with that letter's minimal pairs
+    const twinsBtn = e.target.closest('[data-kids-lotd-twins]');
+    if (twinsBtn) {
+      this.section = 'quiz';
+      this.render();
+      this.startQuiz('soundpair', twinsBtn.getAttribute('data-kids-lotd-twins'));
       return;
     }
 

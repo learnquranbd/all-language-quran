@@ -170,6 +170,20 @@ class TajweedLearn {
         if (qbox) qbox.scrollIntoView({ behavior: 'smooth', block: 'center' });
         return;
       }
+      if (e.target.closest('[data-lp-print]')) { this.lpPrintSheet(); return; }
+      const rc = e.target.closest('[data-lp-rc]');
+      if (rc) {
+        const act = rc.getAttribute('data-lp-rc'), R = this.lpRc;
+        if (act === 'prev' || act === 'next') {
+          const n = Math.min(10, this.lpData.letters[R.letter].words.length);
+          this.lpRcReset();
+          R.idx = (R.idx + (act === 'next' ? 1 : n - 1)) % n;
+          this.lpRcRefresh();
+        } else if (act === 'rec') this.lpRcRecord();
+        else if (act === 'stop') { if (R.recorder && R.recording) try { R.recorder.stop(); } catch (err) { /* ignore */ } }
+        else this.lpRcPlay(act);
+        return;
+      }
       const span = e.target.closest('[data-lp-span]');
       if (span) { this.lpHeard('span:' + span.getAttribute('data-lp-span')); this.lpPlaySpan(span); return; }
       const lpGoto = e.target.closest('[data-lp-goto]');
@@ -1008,6 +1022,192 @@ class TajweedLearn {
       <div class="mb-6"></div>`;
   }
 
+  /**
+   * Say it and compare: the reciter says one of the letter's top 10 words, the
+   * student records the same word (kept in memory only, never uploaded) and
+   * plays the two one after the other.
+   */
+  lpRecordHtml(key) {
+    const D = this.lpData && this.lpData.letters && this.lpData.letters[key];
+    if (!D || !D.words.length) return '<div id="lp-record"></div>';
+    const R = this.lpRc || (this.lpRc = {});
+    if (R.letter !== key) { this.lpRcReset(); R.letter = key; R.idx = 0; }
+    const words = D.words.slice(0, 10);
+    const w = words[R.idx % words.length];
+    const btn = (act, label, cls, off) => `<button data-lp-rc="${act}" ${off ? 'disabled' : ''} class="inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-full text-sm font-medium ${cls}${off ? ' opacity-40 cursor-not-allowed' : ''}">${label}</button>`;
+    const plain = 'border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700';
+    const sec = R.recording ? Math.floor((Date.now() - R.start) / 1000) : 0;
+    const rec = R.recording
+      ? btn('stop', `<span class="w-2.5 h-2.5 rounded-sm bg-white"></span> ${this.tt('tj_rc_stop', 'Stop')} <span id="lp-rc-timer" class="font-mono text-xs">0:0${sec}</span>`, 'bg-red-600 text-white hover:bg-red-700 animate-pulse')
+      : btn('rec', `<span class="w-2.5 h-2.5 rounded-full bg-red-600"></span> ${this.tt('tj_rc_record', 'Record')}`, plain);
+    const nav = (act, ch, title) => `<button data-lp-rc="${act}" title="${this.esc(title)}" aria-label="${this.esc(title)}" class="w-9 h-9 shrink-0 rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">${ch}</button>`;
+    return `
+      <div id="lp-record" class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 mb-4">
+        <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">🎙️ ${this.tt('tj_rc_title', 'Say it and compare')}</h3>
+        <p class="text-xs text-gray-500 dark:text-gray-400 mb-3">${this.tt('tj_rc_hint', 'Hear the reciter, record yourself saying the same word, then play both. Your recording stays on this device.')}</p>
+        <div class="flex items-center justify-center gap-3 mb-3">
+          ${nav('prev', '‹', this.tt('tj_rc_prev', 'Previous word'))}
+          <div class="text-center min-w-[8rem]">
+            <span class="block ayah-arabic !text-4xl !leading-[1.9]" dir="rtl">${this.lpHighlight(w.w, key, '#7C3AED')}</span>
+            <span class="block text-xs text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.lpGlossOf(w.r))} · ${(R.idx % words.length) + 1}/${words.length}</span>
+          </div>
+          ${nav('next', '›', this.tt('tj_rc_next', 'Next word'))}
+        </div>
+        <div class="flex flex-wrap items-center justify-center gap-2">
+          ${btn('ref', `🔊 ${this.tt('tj_rc_reciter', 'Reciter')}`, plain)}
+          ${rec}
+          ${btn('mine', `▶ ${this.tt('tj_rc_mine', 'My voice')}`, plain, !R.url)}
+          ${btn('both', `🔁 ${this.tt('tj_rc_both', 'Both')}`, 'bg-primary text-white hover:opacity-90', !R.url)}
+        </div>
+        ${R.msg ? `<p class="mt-3 text-sm text-center text-amber-600 dark:text-amber-400">${this.esc(R.msg)}</p>`
+          : R.url ? `<p class="mt-3 text-xs text-center text-gray-500 dark:text-gray-400">${this.esc(this.tt('tj_rc_tip', 'Do they sound the same? When they do, tick "{label}" above.').split('{label}').join(this.tt('tj_lp_prog_say', 'I can say it clearly')))}</p>` : ''}
+      </div>`;
+  }
+
+  lpRcRefresh() {
+    const box = this.container.querySelector('#lp-record');
+    if (box && this.lpLetter) box.outerHTML = this.lpRecordHtml(this.lpLetter);
+  }
+
+  /** Stop any recording and drop the student's clip (new word or new letter). */
+  lpRcReset() {
+    const R = this.lpRc || (this.lpRc = {});
+    if (R.recorder && R.recording) { R.discard = true; try { R.recorder.stop(); } catch (e) { /* ignore */ } }
+    R.recording = false;
+    clearInterval(R.timer);
+    clearTimeout(R.cap);
+    if (R.url) URL.revokeObjectURL(R.url);
+    R.url = null;
+    R.msg = '';
+    this._rcToken = (this._rcToken || 0) + 1;
+  }
+
+  async lpRcRecord() {
+    const R = this.lpRc;
+    R.msg = '';
+    if (typeof MediaRecorder === 'undefined' || !navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+      R.msg = this.tt('rec_unsupported', "Recording isn't supported in this browser."); this.lpRcRefresh(); return;
+    }
+    if (this._audio) this._audio.pause();
+    let stream;
+    try { stream = await navigator.mediaDevices.getUserMedia({ audio: true }); }
+    catch (e) { R.msg = this.tt('rec_mic_denied', 'Microphone access is needed to record. Please allow it and try again.'); this.lpRcRefresh(); return; }
+    let rec;
+    try { rec = new MediaRecorder(stream); }
+    catch (e) { stream.getTracks().forEach(t => t.stop()); R.msg = this.tt('rec_unsupported', "Recording isn't supported in this browser."); this.lpRcRefresh(); return; }
+    const chunks = [];
+    rec.addEventListener('dataavailable', ev => { if (ev.data && ev.data.size) chunks.push(ev.data); });
+    rec.addEventListener('stop', () => {
+      stream.getTracks().forEach(t => t.stop());
+      clearInterval(R.timer);
+      clearTimeout(R.cap);
+      R.recording = false;
+      if (R.discard) { R.discard = false; return; }
+      if (R.url) URL.revokeObjectURL(R.url);
+      R.url = URL.createObjectURL(new Blob(chunks, { type: rec.mimeType || 'audio/webm' }));
+      this.lpRcRefresh();
+    });
+    R.recorder = rec;
+    R.discard = false;
+    rec.start();
+    R.recording = true;
+    R.start = Date.now();
+    this.lpRcRefresh();
+    R.timer = setInterval(() => {
+      const el = this.container.querySelector('#lp-rc-timer');
+      if (el) { const s = Math.floor((Date.now() - R.start) / 1000); el.textContent = `0:${String(s).padStart(2, '0')}`; }
+    }, 250);
+    R.cap = setTimeout(() => { if (R.recording) try { rec.stop(); } catch (e) { /* ignore */ } }, 6000);   // one word: 6 s is plenty
+  }
+
+  /** Play the reciter's word, the student's clip, or both one after the other. */
+  lpRcPlay(what) {
+    const R = this.lpRc;
+    const words = this.lpData.letters[R.letter].words.slice(0, 10);
+    const ref = this.lpWordAudio(words[R.idx % words.length].r);
+    if (!this._audio) {
+      this._audio = new Audio();
+      this._audio.addEventListener('pause', () => this.resetPlayIcon());
+    }
+    const au = this._audio;
+    this.resetPlayIcon();
+    this.lpSpanStop();
+    au.pause();
+    const token = this._rcToken = (this._rcToken || 0) + 1;
+    const play = src => { au.src = src; au.play().catch(() => {}); };
+    if (what === 'ref') { this.lpHeard(ref); play(ref); return; }
+    if (!R.url) return;
+    if (what === 'mine') { play(R.url); return; }
+    this.lpHeard(ref);
+    au.addEventListener('ended', () => { if (token === this._rcToken) setTimeout(() => { if (token === this._rcToken) play(R.url); }, 350); }, { once: true });
+    play(ref);
+  }
+
+  /**
+   * A one-page practice sheet for the selected letter, opened in a new window
+   * and sent to the printer: makhraj, sifat, the top 50 words with meanings and
+   * the top 10 ayahs, the letter in bold.
+   */
+  lpPrintSheet() {
+    const sel = LETTER_PRACTICE_LETTERS.find(l => l.key === this.lpLetter);
+    const D = sel && this.lpData && this.lpData.letters[sel.key];
+    if (!D) return;
+    const lang = this.language;
+    const num = n => Number(n).toLocaleString(lang === 'bn' ? 'bn-BD' : (lang || 'en'));
+    const fill = (k, fb, vars) => Object.keys(vars).reduce((s, v) => s.split('{' + v + '}').join(vars[v]), this.tt(k, fb));
+    const mk = this.lpMakhraj(sel.key);
+    const hl = text => this.lpHighlight(text, sel.key, '#000');
+    const sifat = typeof LETTER_SIFAT !== 'undefined' ? LETTER_SIFAT.of(sel.key).map(k =>
+      `<li><b>${LETTER_SIFAT.names[k]}</b> <span class="ar">${LETTER_SIFAT.arabic[k]}</span>: ${this.esc(this.tt('tj_sf_' + k, k))}</li>`).join('') : '';
+    const words = D.words.map(w => `
+      <div class="w"><span class="ar">${hl(w.w)}</span><small>${this.esc(this.lpGlossOf(w.r))}</small><i>×${num(w.n)}</i></div>`).join('');
+    const ayahs = D.ayahs.map(([ref]) => `
+      <div class="a"><span class="ref">${ref}</span><p class="ar">${hl(this.lpData.ayahs[ref] || '')}</p></div>`).join('');
+    const rtl = ['ar', 'ur', 'fa'].includes(lang);
+    const base = location.href.replace(/[#?].*$/, '').replace(/[^/]*$/, '');
+    const html = `<!doctype html><html lang="${lang}" dir="${rtl ? 'rtl' : 'ltr'}"><head><meta charset="utf-8">
+      <base href="${base}"><title>${this.esc(sel.translit)} ${sel.key}</title>
+      <link rel="stylesheet" href="css/style.css">
+      <style>
+        body{font-family:system-ui,sans-serif;color:#111;margin:16px;background:#fff}
+        .ar{font-family:'CustomArabic','Amiri','Traditional Arabic',serif;direction:rtl}
+        header{display:flex;align-items:center;gap:16px;border-bottom:2px solid #111;padding-bottom:8px;margin-bottom:8px}
+        header .big{font-size:64px;line-height:1.3}
+        h2{font-size:13px;text-transform:uppercase;letter-spacing:.05em;margin:12px 0 6px;color:#444}
+        ul{margin:0;padding-inline-start:18px;font-size:12px}
+        .grid{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;direction:rtl}
+        .w{border:1px solid #ccc;border-radius:6px;padding:2px 4px;text-align:center;position:relative;break-inside:avoid}
+        .w .ar{display:block;font-size:22px;line-height:1.9}
+        .w small{display:block;font-size:9px;color:#555;direction:ltr;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+        .w i{position:absolute;top:1px;left:4px;font-size:8px;color:#888;font-style:normal}
+        .a{break-inside:avoid;border-bottom:1px solid #eee;padding:2px 0}
+        .a .ref{font-size:10px;color:#666;font-family:monospace}
+        .a p{margin:0;font-size:20px;line-height:2}
+        footer{margin-top:10px;font-size:10px;color:#777;text-align:center}
+        @media print{body{margin:0}}
+      </style></head><body>
+      <header><span class="ar big">${sel.key}</span><div>
+        <b style="font-size:20px">${this.esc(sel.translit)}</b> <span class="ar" style="font-size:20px">${sel.name}</span>
+        <div style="font-size:12px">${fill('tj_lp_stats', '{n} times in the Quran, in {w} different words', { n: num(D.total), w: num(D.distinct) })}</div>
+        ${mk ? `<div style="font-size:12px;margin-top:4px">👄 ${mk.point.pointName ? `<span class="ar">${mk.point.pointName}</span>: ` : ''}${this.esc(mk.point[lang] || this.ci(mk.point.en))}</div>` : ''}
+      </div></header>
+      ${sifat ? `<h2>${this.tt('tj_lp_sifat', 'Characteristics (sifat)')}</h2><ul>${sifat}</ul>` : ''}
+      <h2>${fill('tj_lp_words', 'Top {n} words', { n: num(D.words.length) })}</h2>
+      <div class="grid">${words}</div>
+      <h2>${fill('tj_lp_ayahs', 'Top {n} ayahs', { n: num(D.ayahs.length) })}</h2>
+      ${ayahs}
+      <footer>${this.esc(this.tt('tj_lp_title', 'Letter practice'))} · ${this.esc(base)}</footer>
+      </body></html>`;
+    const win = window.open('', '_blank');
+    if (!win) { try { window.print(); } catch (e) { /* ignore */ } return; }
+    win.document.open();
+    win.document.write(html);
+    win.document.close();
+    const go = () => { try { win.focus(); win.print(); } catch (e) { /* ignore */ } };
+    if (win.document.fonts && win.document.fonts.ready) win.document.fonts.ready.then(() => setTimeout(go, 300));
+    else setTimeout(go, 800);
+  }
+
   /** Count a word or ayah heard on the selected letter's page (LetterProgress step 1). */
   lpHeard(id) {
     if (typeof LetterProgress !== 'undefined' && id && LetterProgress.heard(this.lpLetter, id)) this.lpProgressRefresh();
@@ -1312,9 +1512,11 @@ class TajweedLearn {
               </div>
             </div>` : ''}
             ${sel.key !== 'ء' ? `<button data-lp-kids="${sel.key}" class="mt-2 text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">🧒 ${this.tt('tj_lp_kids', 'Forms and name (Kids)')} ›</button>` : ''}
+            <button data-lp-print class="mt-2 text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">🖨️ ${this.tt('tj_ref_print', 'Print')}</button>
           </div>
         </div>
         ${this.lpProgressHtml(sel.key)}
+        ${this.lpRecordHtml(sel.key)}
         ${this.lpSifatHtml(sel.key, color)}
         <p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed">ℹ️ ${this.tt('tj_lp_rule', 'Only places where the letter is said with its own sound are counted. Silent letters, a lam or nun that merges into the next letter, and the long vowels و and ي are left out.')}</p>
 
