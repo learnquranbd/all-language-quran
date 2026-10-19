@@ -53,7 +53,7 @@ const WHY_ISLAM_I18N = {
   },
   whyislam_dialogue_note: {
     en: 'Guidance on inviting others with wisdom, gentleness and respect — and without any compulsion.',
-    bn: 'প্রজ্ঞা, কোমলতা ও শ্রদ্ধার সাথে—এবং কোনো জবরদস্তি ছাড়াই—অন্যকে আমন্ত্রণ জানানোর নির্দেশনা।',
+    bn: 'প্রজ্ঞা, কোমলতা ও শ্রদ্ধার সাথে, এবং কোনো জবরদস্তি ছাড়াই, অন্যকে আমন্ত্রণ জানানোর নির্দেশনা।',
     zh: '以智慧、温和和尊重——且没有任何强迫——邀请他人的指导。',
     ja: '知恵、優しさ、敬意をもって——強制することなく——他者を招くためのガイダンス。',
   },

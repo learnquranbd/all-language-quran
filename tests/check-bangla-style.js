@@ -18,9 +18,9 @@
  *      person". A reader hits these and stops.
  *
  *   2. EM-DASH DENSITY. English prose in these modules leans on the em dash for
- *      asides; Bengali does not. Three or more in one string is a reliable sign
- *      the English punctuation was carried across with the words. Two is fine —
- *      the rule only fires past that.
+ *      asides; Bengali does not. tools/BANGLA-STYLE.md allows at most one per
+ *      paragraph, so two or more in one string fails: the English punctuation
+ *      was carried across with the words.
  *
  * The full rules live in tools/BANGLA-STYLE.md. Matching happens here in Node
  * against the file's own bytes because Bengali greps run from a shell
@@ -51,7 +51,7 @@ const WRONG_REGISTER = [
   ['কনটেন্ট', 'untranslated English'],
 ];
 
-const MAX_DASHES = 2;
+const MAX_DASHES = 1;
 
 const problems = [];   // in STYLED files — these fail the build
 let legacy = 0;        // everywhere else — counted and reported, not failed

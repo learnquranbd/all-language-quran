@@ -1218,7 +1218,7 @@ const SURAH_NAME_NOTES = {
     meaning: { en: 'Mutual Loss and Gain', bn: 'পারস্পরিক লাভ-ক্ষতি' },
     source: {
       en: 'From yawm at-taghabun, the day of mutual dispossession, named once in 64:9.',
-      bn: '৬৪:৯ আয়াতে একবারই উল্লিখিত "ইয়াওমুত তাগাবুন" — পারস্পরিক ঠকে যাওয়ার দিন — থেকে।',
+      bn: '৬৪:৯ আয়াতে একবারই উল্লিখিত "ইয়াওমুত তাগাবুন" (পারস্পরিক ঠকে যাওয়ার দিন) থেকে।',
     },
     why: {
       en: 'Taghabun is built on ghabn, the loss a man takes in a bargain without noticing it at the time. The Quran turns a trader word into a name for the Day of Gathering: the day the swindle becomes visible, when the cheated see what they sold and the shrewd see what they bought. It occurs once, in the ninth verse, and the surah keeps that commercial edge to the end — spend, lend Allah a goodly loan, and know that wealth and children can be the very thing that costs you. Naming a surah about resurrection from a merchant taking a bad deal is deliberate understatement.',

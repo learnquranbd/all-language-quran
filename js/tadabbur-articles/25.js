@@ -1617,7 +1617,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half assumes the encounter will happen: wa idha marru bi'l-laghwi marru kiraman — and when they pass by laghw, they pass by nobly. Laghw is speech or activity with nothing in it, from harmless waste of time up to the coarse and the cruel. The verse does not imagine a life in which none of this is ever met. It describes the manner of getting past it.",
-            "bn": "দ্বিতীয় অংশটি ধরেই নেয় যে এই সাক্ষাৎ ঘটবেই: 'ওয়া ইযা মাররূ বিল-লাগভি মাররূ কিরামা' — আর যখন তারা লাগভের পাশ দিয়ে যায়, তারা মর্যাদার সাথে পাশ কেটে যায়। 'লাগভ' মানে এমন কথা বা কাজ যার ভেতরে কিছু নেই — নিরীহ সময় নষ্ট থেকে শুরু করে অশ্লীল ও নিষ্ঠুর পর্যন্ত। আয়াতটি এমন কোনো জীবন কল্পনা করে না যেখানে এসবের মুখোমুখি কখনো হতে হয় না। এটি বর্ণনা করে, সেসব পেরিয়ে যাওয়ার ধরনটি কেমন হবে।"
+            "bn": "দ্বিতীয় অংশটি ধরেই নেয় যে এই সাক্ষাৎ ঘটবেই: 'ওয়া ইযা মাররূ বিল-লাগভি মাররূ কিরামা' (আর যখন তারা লাগভের পাশ দিয়ে যায়, তারা মর্যাদার সাথে পাশ কেটে যায়)। 'লাগভ' মানে এমন কথা বা কাজ যার ভেতরে কিছু নেই: নিরীহ সময় নষ্ট থেকে শুরু করে অশ্লীল ও নিষ্ঠুর পর্যন্ত। আয়াতটি এমন কোনো জীবন কল্পনা করে না যেখানে এসবের মুখোমুখি কখনো হতে হয় না। এটি বর্ণনা করে, সেসব পেরিয়ে যাওয়ার ধরনটি কেমন হবে।"
           },
           {
             "en": "Kiraman is a state describing them, not the laghw: they are the noble ones as they pass. The commentators explain it as going by without joining in and without answering in the same currency. That is a narrow and demanding target — not a lecture, not a scene, and not laughing along either. 23:3 lists turning away from laghw among the traits of the successful, and in 28:55 those who hear it reply that their deeds are their own and the others' are theirs.",

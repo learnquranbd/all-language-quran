@@ -1181,14 +1181,14 @@ const COMMON_THREADS = [
     emoji: '⏳',
     titleEn: 'Patience under trial', titleBn: 'পরীক্ষায় ধৈর্য',
     bodyEn: 'The prophets were tested — with rejection, loss, and hardship — and answered with steadfast patience (sabr). "So be patient, as the messengers of firm resolve were patient."',
-    bodyBn: 'নবীগণ পরীক্ষিত হয়েছেন — প্রত্যাখ্যান, ক্ষতি ও কষ্টে — এবং অবিচল ধৈর্যে (সবর) সাড়া দিয়েছেন। "সুতরাং ধৈর্য ধরো, যেমন দৃঢ়প্রতিজ্ঞ রাসূলগণ ধৈর্য ধরেছিলেন।"',
+    bodyBn: 'নবীগণ পরীক্ষিত হয়েছেন প্রত্যাখ্যান, ক্ষতি ও কষ্টে, এবং অবিচল ধৈর্যে (সবর) সাড়া দিয়েছেন। "সুতরাং ধৈর্য ধরো, যেমন দৃঢ়প্রতিজ্ঞ রাসূলগণ ধৈর্য ধরেছিলেন।"',
     refs: ['46:35', '21:83-85'],
   },
   {
     emoji: '🤝',
     titleEn: 'The covenant of the prophets', titleBn: 'নবীদের অঙ্গীকার',
     bodyEn: 'Allah took a solemn covenant from the prophets — including Nuh, Ibrahim, Musa, and Isa — to convey His message faithfully and to confirm one another.',
-    bodyBn: 'আল্লাহ নবীদের কাছ থেকে — নূহ, ইবরাহীম, মূসা ও ঈসাসহ — দৃঢ় অঙ্গীকার নেন যে তাঁরা বিশ্বস্তভাবে তাঁর বার্তা পৌঁছাবেন ও একে অপরকে সত্যায়ন করবেন।',
+    bodyBn: 'আল্লাহ নবীদের কাছ থেকে (নূহ, ইবরাহীম, মূসা ও ঈসাসহ) দৃঢ় অঙ্গীকার নেন যে তাঁরা বিশ্বস্তভাবে তাঁর বার্তা পৌঁছাবেন ও একে অপরকে সত্যায়ন করবেন।',
     refs: ['33:7', '3:81'],
   },
   {
@@ -1286,7 +1286,7 @@ const PROPHETS_DUAS = [
     glossBn: '"…তিনি তাঁর প্রভুর কাছে ক্ষমা চাইলেন, রুকুতে লুটিয়ে পড়লেন ও তাঁর দিকে ফিরে এলেন।" (তাঁর কাছে উপস্থাপিত বিবাদে দৃষ্টান্ত বুঝতে পেরে দাউদের তওবার কুরআনি বিবরণ।)' },
   { pid: 'isa', ref: '5:114',
     glossEn: '"O Allah, our Lord, send down to us a table [spread with food] from the sky to be a festival for us — for the first and last of us — and a sign from You. Provide for us; You are the best of providers."',
-    glossBn: '"হে আল্লাহ, আমাদের প্রভু, আমাদের জন্য আকাশ থেকে একটি দস্তরখান নাযিল করুন যা আমাদের — আমাদের আগের ও পরের সবার — জন্য উৎসব হবে এবং আপনার পক্ষ থেকে নিদর্শন। আমাদের রিজিক দিন, আপনিই সর্বোত্তম রিজিকদাতা।"' },
+    glossBn: '"হে আল্লাহ, আমাদের প্রভু, আমাদের জন্য আকাশ থেকে একটি দস্তরখান নাযিল করুন যা আমাদের (আমাদের আগের ও পরের সবার) জন্য উৎসব হবে এবং আপনার পক্ষ থেকে নিদর্শন। আমাদের রিজিক দিন, আপনিই সর্বোত্তম রিজিকদাতা।"' },
 ];
 
 /**

@@ -282,8 +282,8 @@ const HW_WRITING_BASICS = [
     icon: '⚫',
     title: { en: 'The Dot System (النقاط)', bn: 'নুকতার নিয়ম (النقاط)' },
     body: {
-      en: 'Arabic uses 1, 2, or 3 dots — placed above or below the letter skeleton (rasm) — to distinguish letters that share the same base shape. Nine pairs/groups differ only by dots: Bā·Tā·Thā, Jīm·Ḥā·Khā, Dāl·Dhāl, Rā·Zāy, Sīn·Shīn, Ṣād·Ḍād, Ṭā·Ẓā, ʿAyn·Ghayn, Fā·Qāf (except in final and isolated form, where Qāf’s deeper, rounder cup drops below the line). In Quran copying, correct dot placement is a religious and legal obligation.',
-      bn: 'যেসব হরফের মূল আকৃতি একই, সেগুলো আলাদা করতে আরবিতে ১, ২ বা ৩টি নুকতা ব্যবহার হয়; নুকতা বসে হরফের কাঠামোর (রসম) উপরে বা নিচে। নয়টি জোড়া বা দল শুধু নুকতায় আলাদা: বা·তা·সা, জিম·হা·খা, দাল·যাল, রা·যায়, সিন·শিন, সোয়াদ·দোয়াদ, তোয়া·যোয়া, আইন·গাইন, ফা·ক্বাফ (তবে শেষ ও একক রূপে ক্বাফের গভীর, গোল বাটি লাইনের নিচে নামে)। কুরআন লেখায় নুকতা ঠিক জায়গায় বসানো দ্বীন ও শরিয়ত দুই দিক থেকেই জরুরি দায়িত্ব।'
+      en: 'Arabic uses 1, 2, or 3 dots — placed above or below the letter skeleton (rasm) — to distinguish letters that share the same base shape. These pairs/groups differ only by dots: Bā·Tā·Thā (and Nūn·Yā in initial/medial form), Jīm·Ḥā·Khā, Dāl·Dhāl, Rā·Zāy, Sīn·Shīn, Ṣād·Ḍād, Ṭā·Ẓā, ʿAyn·Ghayn, Fā·Qāf (except in final and isolated form, where Qāf’s deeper, rounder cup drops below the line), Hā·Tā marbūṭa, alif maqṣūra·Yā. In Quran copying, correct dot placement is a religious and legal obligation.',
+      bn: 'যেসব হরফের মূল আকৃতি একই, সেগুলো আলাদা করতে আরবিতে ১, ২ বা ৩টি নুকতা ব্যবহার হয়; নুকতা বসে হরফের কাঠামোর (রসম) উপরে বা নিচে। এই জোড়া বা দলগুলো শুধু নুকতায় আলাদা: বা·তা·সা (শুরুর ও মাঝের রূপে নুন·ইয়াও), জিম·হা·খা, দাল·যাল, রা·যায়, সিন·শিন, সোয়াদ·দোয়াদ, তোয়া·যোয়া, আইন·গাইন, ফা·ক্বাফ (তবে শেষ ও একক রূপে ক্বাফের গভীর, গোল বাটি লাইনের নিচে নামে), হা·তা মারবূতা, আলিফ মাকসূরা·ইয়া। কুরআন লেখায় নুকতা ঠিক জায়গায় বসানো দ্বীন ও শরিয়ত দুই দিক থেকেই জরুরি দায়িত্ব।'
     }
   },
   {

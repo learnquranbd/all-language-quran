@@ -709,7 +709,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next words are wa min dhurriyyati, and from my descendants. The preposition min introduces a portion, which is why the app's English renders it as many from my descendants rather than all of them. Ibrahim (AS) had been taught the reason for that caution directly. In 2:124 he was made a leader for mankind, asked and of my descendants, and was answered: My covenant does not include the wrongdoers.",
-            "bn": "পরের কথাগুলো হলো ওয়া মিন যুররিয়্যাতী — আর আমার বংশধরদের থেকেও। 'মিন' অব্যয়টি একটি অংশ বোঝায়, তাই অ্যাপের ইংরেজি অনুবাদে এটি এসেছে 'আমার বংশধরদের মধ্য হতে অনেককে' — সবাইকে নয়। এই সতর্কতার কারণ ইবরাহীম (আঃ)-কে সরাসরিই শেখানো হয়েছিল। 2:124-এ তাঁকে মানুষের জন্য নেতা করা হয়, তিনি জিজ্ঞেস করেন 'আর আমার বংশধরদের থেকেও?', আর উত্তর আসে: আমার অঙ্গীকার জালিমদের নাগাল পায় না।"
+            "bn": "পরের কথাগুলো হলো ওয়া মিন যুররিয়্যাতী (আর আমার বংশধরদের থেকেও)। 'মিন' অব্যয়টি একটি অংশ বোঝায়, তাই অ্যাপের ইংরেজি অনুবাদে এটি এসেছে 'আমার বংশধরদের মধ্য হতে অনেককে', সবাইকে নয়। এই সতর্কতার কারণ ইবরাহীম (আঃ)-কে সরাসরিই শেখানো হয়েছিল। 2:124-এ তাঁকে মানুষের জন্য নেতা করা হয়, তিনি জিজ্ঞেস করেন 'আর আমার বংশধরদের থেকেও?', আর উত্তর আসে: আমার অঙ্গীকার জালিমদের নাগাল পায় না।"
           },
           {
             "en": "So the request is shaped by what he already knew. He does not claim his line; he asks for a portion of it, and for the one thing he most wants continued. The same instinct appears at 2:128, where he and Isma'il (AS) ask that a submitting community be raised from their offspring. A father's prayer here is not for comfort but for worship.",

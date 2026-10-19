@@ -1179,8 +1179,8 @@ const SALAH_SPECIAL = [
     nameEn: 'Salat al-Awwabin (Prayer of the Oft-Returning)', nameBn: 'সালাতুল আওয়াবীন',
     whenEn: 'Between Maghrib and Isha', whenBn: 'মাগরিব ও ইশার মধ্যবর্তী সময়ে',
     rakatEn: '6 rak\'ahs (3 pairs of 2) after Maghrib\'s sunnah. Some scholars include the Maghrib sunnah itself among these six.', rakatBn: 'মাগরিবের সুন্নাতের পর ৬ রাকাত (৩ জোড়া)। কেউ কেউ মাগরিবের সুন্নাতকেও এর অন্তর্ভুক্ত করেন।',
-    noteEn: 'It is reported that the Prophet ﷺ said: "Whoever prays 6 rak\'ahs after Maghrib without saying anything bad in between, it is equivalent to 12 years of worship." (Ibn Majah 1167, Tirmidhi 435; graded very weak by al-Albani). Al-Awwabin means "those who frequently return to Allah" — a mark of sincerity and nearness.',
-    noteBn: 'বর্ণিত আছে, নবী ﷺ বলেছেন: "যে মাগরিবের পর ৬ রাকাত নামাজ পড়ে এবং এর মাঝে কোনো মন্দ কথা বলে না, তার জন্য তা ১২ বছরের ইবাদতের সমান।" (ইবন মাজাহ ১১৬৭, তিরমিযি ৪৩৫; আলবানির মতে হাদিসটি অত্যন্ত দুর্বল)। "আওয়াবীন" মানে "যারা বারবার আল্লাহর দিকে ফিরে আসে"; এ নাম ইখলাস ও আল্লাহর নৈকট্যের পরিচয়।' },
+    noteEn: 'It is reported that the Prophet ﷺ said: "Whoever prays 6 rak\'ahs after Maghrib without saying anything bad in between, it is equivalent to 12 years of worship." (Ibn Majah 1167, Tirmidhi 435; graded very weak by al-Albani). Al-Awwabin means "those who frequently return to Allah" — a mark of sincerity and nearness. In Sahih Muslim 748 the name "salat al-awwabin" is also given to the Duha prayer, when the sun\'s heat grows strong.',
+    noteBn: 'বর্ণিত আছে, নবী ﷺ বলেছেন: "যে মাগরিবের পর ৬ রাকাত নামাজ পড়ে এবং এর মাঝে কোনো মন্দ কথা বলে না, তার জন্য তা ১২ বছরের ইবাদতের সমান।" (ইবন মাজাহ ১১৬৭, তিরমিযি ৪৩৫; আলবানির মতে হাদিসটি অত্যন্ত দুর্বল)। "আওয়াবীন" মানে "যারা বারবার আল্লাহর দিকে ফিরে আসে"; এ নাম ইখলাস ও আল্লাহর নৈকট্যের পরিচয়। সহিহ মুসলিম ৭৪৮-এ "সালাতুল আওয়াবীন" নামটি দুহার (চাশত) নামাজের জন্যও এসেছে, যখন রোদের তাপ বেড়ে যায়।' },
   { id: 'khawf', emoji: '⚔️',
     nameEn: 'Salat al-Khawf (Fear / Battlefield Prayer)', nameBn: 'সালাতুল খওফ (ভয় / যুদ্ধক্ষেত্রের নামাজ)',
     whenEn: 'When facing the enemy in battle and it is time for prayer, or in genuine fear of harm', whenBn: 'শত্রুর সম্মুখীন হয়ে যুদ্ধরত অবস্থায় নামাজের সময় হলে, বা প্রকৃত ক্ষতির ভয় থাকলে',
@@ -1326,8 +1326,8 @@ const SALAH_HADITH = [
   {
     textEn: 'In the Eid prayer the Prophet ﷺ said the takbir 7 times in the first rak\'ah before the recitation, and 5 times in the second rak\'ah before the recitation.',
     textBn: 'নবী ﷺ ঈদের নামাজে প্রথম রাকাতে কিরাতের আগে ৭ বার তাকবির বলতেন, আর দ্বিতীয় রাকাতে কিরাতের আগে ৫ বার।',
-    srcEn: 'Sunan al-Tirmidhi — from Kathir ibn Abdullah from his father from his grandfather; similar in Sunan Abu Dawud from Amr ibn Shu\'ayb',
-    srcBn: 'তিরমিযি — কাসির ইবন আবদুল্লাহ তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেছেন; আমর ইবন শুয়াইব থেকে সুনান আবু দাউদে অনুরূপ বর্ণনা আছে'
+    srcEn: 'Sunan al-Tirmidhi — from Kathir ibn Abdullah from his father from his grandfather (at-Tirmidhi graded it hasan, though many critics consider Kathir weak); similar in Sunan Abu Dawud from Amr ibn Shu\'ayb from his father from Abdullah ibn Amr (graded hasan)',
+    srcBn: 'তিরমিযি — কাসির ইবন আবদুল্লাহ তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেছেন (তিরমিযি একে হাসান বলেছেন, তবে অনেক মুহাদ্দিস কাসিরকে দুর্বল বলেছেন); আমর ইবন শুয়াইব তাঁর পিতা থেকে, তিনি আবদুল্লাহ ইবন আমর (রা.) থেকে, এই সূত্রে সুনান আবু দাউদে অনুরূপ বর্ণনা আছে (হাসান)'
   },
 ];
 

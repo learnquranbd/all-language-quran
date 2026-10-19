@@ -1533,7 +1533,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The appraisal in this verse appears elsewhere in the Quran, but not in these exact words. 6:32 begins wa ma al-hayat ad-dunya, and the worldly life is not but. This verse begins wa ma hadhihi al-hayat ad-dunya, and this worldly life is not but. The demonstrative hadhihi, this, is the whole difference. A pointing word takes the general estimate and sets it down on the life the listener is currently living.",
-            "bn": "এই আয়াতের মূল্যায়নটি কুরআনে অন্যত্রও এসেছে, তবে ঠিক এই শব্দগুলোতে নয়। 6:32 আয়াত শুরু হয় 'ওয়া মা-ল হায়াতুদ দুনইয়া' — আর দুনিয়ার জীবন তো কিছুই নয়। আর এই আয়াত শুরু হয় 'ওয়া মা হাযিহিল হায়াতুদ দুনইয়া' — আর এই দুনিয়ার জীবন তো কিছুই নয়। পার্থক্যটা পুরোটাই নির্দেশক শব্দ 'হাযিহি', অর্থাৎ 'এই'। একটি নির্দেশক শব্দ সাধারণ মূল্যায়নটিকে তুলে এনে ঠিক সেই জীবনের উপর বসিয়ে দেয় যা শ্রোতা এই মুহূর্তে যাপন করছে।"
+            "bn": "এই আয়াতের মূল্যায়নটি কুরআনে অন্যত্রও এসেছে, তবে ঠিক এই শব্দগুলোতে নয়। 6:32 আয়াত শুরু হয় 'ওয়া মা-ল হায়াতুদ দুনইয়া' (আর দুনিয়ার জীবন তো কিছুই নয়)। আর এই আয়াত শুরু হয় 'ওয়া মা হাযিহিল হায়াতুদ দুনইয়া' (আর এই দুনিয়ার জীবন তো কিছুই নয়)। পার্থক্যটা পুরোটাই নির্দেশক শব্দ 'হাযিহি', অর্থাৎ 'এই'। একটি নির্দেশক শব্দ সাধারণ মূল্যায়নটিকে তুলে এনে ঠিক সেই জীবনের উপর বসিয়ে দেয় যা শ্রোতা এই মুহূর্তে যাপন করছে।"
           }
         ]
       },
@@ -1577,7 +1577,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "29:63, just before, puts a question to the deniers: who sends down water from the sky and gives life by it to the earth after its death? They would surely answer, Allah. The verse then instructs, say praise be to Allah, and adds that most of them do not reason. So the people addressed already hold the correct answer. What they do not do with it is the subject of the sentence that follows.",
-            "bn": "ঠিক আগের আয়াত 29:63 অস্বীকারকারীদের সামনে একটি প্রশ্ন রাখে: কে আকাশ থেকে পানি নামান এবং তা দিয়ে মৃত যমীনকে জীবিত করেন? তারা অবশ্যই বলবে, আল্লাহ। এরপর আয়াতটি নির্দেশ দেয়, বলো — সমস্ত প্রশংসা আল্লাহর; আর যোগ করে যে তাদের অধিকাংশই বোঝে না। অর্থাৎ যাদের সম্বোধন করা হচ্ছে, সঠিক উত্তরটি তাদের হাতেই আছে। সেই উত্তর দিয়ে তারা কী করে না — পরের বাক্যটির বিষয় সেটাই।"
+            "bn": "ঠিক আগের আয়াত 29:63 অস্বীকারকারীদের সামনে একটি প্রশ্ন রাখে: কে আকাশ থেকে পানি নামান এবং তা দিয়ে মৃত যমীনকে জীবিত করেন? তারা অবশ্যই বলবে, আল্লাহ। এরপর আয়াতটি নির্দেশ দেয়, বলো: সমস্ত প্রশংসা আল্লাহর; আর যোগ করে যে তাদের অধিকাংশই বোঝে না। অর্থাৎ যাদের সম্বোধন করা হচ্ছে, সঠিক উত্তরটি তাদের হাতেই আছে। সেই উত্তর দিয়ে তারা কী করে না, পরের বাক্যটির বিষয় সেটাই।"
           },
           {
             "en": "29:65, just after, gives the picture: when they board a ship they call upon Allah, sincere to Him in religion; but when He delivers them to the land, at once they associate others with Him. The sincerity was real and it was temporary. Between these two neighbours the verse about la'ib and lahw stops being an opinion about entertainment and becomes a diagnosis of a knowledge that does not survive contact with dry ground.",

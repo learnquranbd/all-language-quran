@@ -403,7 +403,7 @@ const HARDSHIP_DUAS = [
     "refs": "27:44",
     "names": {
       "en": "The Queen of Saba's du'a — 'I have wronged myself' — submitting with Sulaymān",
-      "bn": "সাবার রানির দুআ — আমি নিজের ওপর জুলুম করেছি — সুলায়মানের সাথে আত্মসমর্পণ",
+      "bn": "সাবার রানির দুআ: ‘আমি নিজের ওপর জুলুম করেছি’, সুলায়মানের সাথে আত্মসমর্পণ",
       "ar": "دعاء ملكة سبأ: رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ",
       "ur": "ملکہ سبا کی دعا — میں نے اپنی جان پر ظلم کیا — سلیمان کے ساتھ اسلام",
       "id": "Doa ratu Saba — 'Aku telah menzalimi diriku' — berserah bersama Sulaiman",

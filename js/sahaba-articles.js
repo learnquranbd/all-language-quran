@@ -69,7 +69,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "In Madinah his trade grew large, and so did his giving. He was known as Talha the Good and Talha the Open-Handed, names earned by habit rather than by a single gesture. He paid off other men's debts, married off the daughters of families who could not afford it, and carried the poor of his clan on his own account. Wealth in his hands behaved like water in a channel: it arrived, it moved, and it did not stand still.",
-            bn: "মদিনায় তাঁর ব্যবসা বড় হয়, আর সঙ্গে বড় হয় তাঁর দান। তিনি পরিচিত হন 'তালহা আল-খাইর' ও 'তালহা আল-জুদ' নামে—এই নাম একটিমাত্র বড় দানে নয়, বরং অভ্যাসে অর্জিত। তিনি অন্যের ঋণ শোধ করে দিতেন, যেসব পরিবার পারত না তাদের মেয়েদের বিয়ের ব্যবস্থা করতেন, নিজ গোত্রের দরিদ্রদের ভার নিজের কাঁধে নিতেন। তাঁর হাতে সম্পদ আচরণ করত খালের পানির মতো—আসত, বয়ে যেত, থামত না।",
+            bn: "মদিনায় তাঁর ব্যবসা বড় হয়, আর সঙ্গে বড় হয় তাঁর দান। তিনি পরিচিত হন 'তালহা আল-খাইর' ও 'তালহা আল-জুদ' নামে। এই নাম একটিমাত্র বড় দানে নয়, বরং অভ্যাসে অর্জিত। তিনি অন্যের ঋণ শোধ করে দিতেন, যেসব পরিবার পারত না তাদের মেয়েদের বিয়ের ব্যবস্থা করতেন, নিজ গোত্রের দরিদ্রদের ভার নিজের কাঁধে নিতেন। তাঁর হাতে সম্পদ আচরণ করত খালের পানির মতো: আসত, বয়ে যেত, থামত না।",
           },
           {
             en: "The biographers record a night when a large sum came in from the sale of land and he could not sleep for the weight of it. His wife asked what was wrong. He answered that a man like him should be thinking of his Lord, and here was all this money sitting in his house. He rose, called for it to be distributed before morning, and only then slept. Generosity in his life was not an overflow from surplus but a way of keeping his heart free.",
@@ -99,7 +99,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Ali (RA) is reported to have stood over the fallen and grieved for them, and he hoped that he and Talha and az-Zubayr would be among those of whom Allah says that He removed whatever was in their breasts of resentment, as in 15:47. The settled way of Ahl as-Sunnah is to say no more than that: these were men of Badr and Uhud, they judged and their reward is with Allah, and our part is the prayer of 59:10 for those who came before us in faith.",
-            bn: "বর্ণিত আছে, আলী (রাঃ) নিহতদের পাশে দাঁড়িয়ে শোক প্রকাশ করেন এবং আশা করেন যে তিনি, তালহা ও যুবাইর সেই বান্দাদের অন্তর্ভুক্ত হবেন, যাঁদের বুকের ভেতরের বিদ্বেষ আল্লাহ দূর করে দিয়েছেন—যেমন 15:47-এ এসেছে। আহলুস সুন্নাহর সুস্থির অবস্থান এর বেশি কিছু বলে না: এঁরা ছিলেন বদর ও উহুদের মানুষ; তাঁরা ইজতিহাদ করেছেন, তাঁদের প্রতিদান আল্লাহর কাছে; আর আমাদের কাজ হলো 59:10-এর দোয়া—যাঁরা ঈমানে আমাদের অগ্রগামী, তাঁদের জন্য ক্ষমা প্রার্থনা।",
+            bn: "বর্ণিত আছে, আলী (রাঃ) নিহতদের পাশে দাঁড়িয়ে শোক প্রকাশ করেন এবং আশা করেন যে তিনি, তালহা ও যুবাইর সেই বান্দাদের অন্তর্ভুক্ত হবেন, যাঁদের বুকের ভেতরের বিদ্বেষ আল্লাহ দূর করে দিয়েছেন, যেমন 15:47-এ এসেছে। আহলুস সুন্নাহর সুস্থির অবস্থান এর বেশি কিছু বলে না: এঁরা ছিলেন বদর ও উহুদের মানুষ; তাঁরা ইজতিহাদ করেছেন, তাঁদের প্রতিদান আল্লাহর কাছে; আর আমাদের কাজ হলো 59:10-এর দোয়া (যাঁরা ঈমানে আমাদের অগ্রগামী, তাঁদের জন্য ক্ষমা প্রার্থনা)।",
           },
         ],
       },
@@ -125,7 +125,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "A rumour ran through Makkah one day that the Prophet ﷺ had been seized. Az-Zubayr did not wait to verify it. He drew his sword and went through the streets of the city, a boy against the whole of Quraysh, until he met the Prophet ﷺ in the upper part of Makkah. Asked what he was doing, he said he had heard the Messenger of Allah ﷺ had been taken. The Prophet ﷺ prayed for him and for his sword.",
-            bn: "একদিন মক্কায় গুজব ছড়ায় যে নবীজি ﷺ-কে ধরে নেওয়া হয়েছে। যুবাইর যাচাইয়ের অপেক্ষা করেননি। তরবারি হাতে তিনি শহরের রাস্তায় বেরিয়ে পড়েন—গোটা কুরাইশের বিরুদ্ধে একা এক কিশোর—যতক্ষণ না মক্কার উপরিভাগে নবীজি ﷺ-এর সাক্ষাৎ পান। কী করছেন জিজ্ঞাসা করা হলে তিনি বলেন, শুনেছি আল্লাহর রাসূল ﷺ-কে ধরে নেওয়া হয়েছে। নবীজি ﷺ তাঁর জন্য ও তাঁর তরবারির জন্য দোয়া করেন।",
+            bn: "একদিন মক্কায় গুজব ছড়ায় যে নবীজি ﷺ-কে ধরে নেওয়া হয়েছে। যুবাইর যাচাইয়ের অপেক্ষা করেননি। তরবারি হাতে তিনি শহরের রাস্তায় বেরিয়ে পড়েন (গোটা কুরাইশের বিরুদ্ধে একা এক কিশোর), যতক্ষণ না মক্কার উপরিভাগে নবীজি ﷺ-এর সাক্ষাৎ পান। কী করছেন জিজ্ঞাসা করা হলে তিনি বলেন, শুনেছি আল্লাহর রাসূল ﷺ-কে ধরে নেওয়া হয়েছে। নবীজি ﷺ তাঁর জন্য ও তাঁর তরবারির জন্য দোয়া করেন।",
           },
           {
             en: "That is the moment for which he is remembered as the first man to unsheathe a sword in Islam. What matters in it is not the blade but the reflex. Others heard the same rumour and waited to see how it would turn out. Az-Zubayr moved, alone, without a plan and without the numbers, because someone he loved was in danger. The whole of his later life is that same reflex, grown up and given an army.",
@@ -155,7 +155,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The word hawari carries the sense of a devoted helper who is trusted with the errands nobody else wants. It was not given for eloquence or for scholarship. It was given for the willingness to ride out alone at night, through the camps of an enemy that outnumbered the Muslims many times over, and to come back with the truth rather than with what would please.",
-            bn: "'হাওয়ারি' শব্দটি বোঝায় এমন নিবেদিত সহযোগীকে, যাঁকে সেসব দায়িত্ব দেওয়া হয় যা আর কেউ নিতে চায় না। এই উপাধি দেওয়া হয়নি বাগ্মিতা বা পাণ্ডিত্যের জন্য। দেওয়া হয়েছিল এই প্রস্তুতির জন্য যে তিনি রাতের অন্ধকারে একা বেরিয়ে যাবেন—মুসলিমদের চেয়ে বহুগুণ বড় শত্রুশিবিরের ভেতর দিয়ে—আর ফিরে আসবেন সত্য খবর নিয়ে, মনভোলানো খবর নিয়ে নয়।",
+            bn: "'হাওয়ারি' শব্দটি বোঝায় এমন নিবেদিত সহযোগীকে, যাঁকে সেসব দায়িত্ব দেওয়া হয় যা আর কেউ নিতে চায় না। এই উপাধি দেওয়া হয়নি বাগ্মিতা বা পাণ্ডিত্যের জন্য। দেওয়া হয়েছিল এই প্রস্তুতির জন্য যে তিনি রাতের অন্ধকারে একা বেরিয়ে যাবেন, মুসলিমদের চেয়ে বহুগুণ বড় শত্রুশিবিরের ভেতর দিয়ে, আর ফিরে আসবেন সত্য খবর নিয়ে, মনভোলানো খবর নিয়ে নয়।",
           },
         ],
       },
@@ -194,7 +194,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "He was born into Banu Zuhrah and given a name that tied him to the idols of his people. The Prophet ﷺ changed it to Abdur-Rahman, servant of the Most Merciful, and the new name turned out to describe the man. He came to Islam in the first days, through Abu Bakr (RA), before the Muslims had a house to meet in safely, and he was counted among the earliest eight to believe.",
-            bn: "তাঁর জন্ম বনু যুহরা গোত্রে, আর তাঁকে এমন নাম দেওয়া হয়েছিল যা তাঁর সম্প্রদায়ের মূর্তির সঙ্গে জড়িত। নবীজি ﷺ তা বদলে রাখেন 'আবদুর রহমান'—পরম দয়াময়ের বান্দা; আর এই নামই শেষপর্যন্ত মানুষটির পরিচয় হয়ে ওঠে। তিনি ইসলাম গ্রহণ করেন একেবারে প্রথম দিনগুলোতে, আবু বকর (রাঃ)-এর মাধ্যমে—তখনো মুসলিমদের নিরাপদে মিলিত হওয়ার মতো কোনো ঘরও ছিল না; তিনি গণ্য হন প্রথম আটজন ঈমানদারের একজন হিসেবে।",
+            bn: "তাঁর জন্ম বনু যুহরা গোত্রে, আর তাঁকে এমন নাম দেওয়া হয়েছিল যা তাঁর সম্প্রদায়ের মূর্তির সঙ্গে জড়িত। নবীজি ﷺ তা বদলে রাখেন 'আবদুর রহমান' (পরম দয়াময়ের বান্দা); আর এই নামই শেষপর্যন্ত মানুষটির পরিচয় হয়ে ওঠে। তিনি ইসলাম গ্রহণ করেন একেবারে প্রথম দিনগুলোতে, আবু বকর (রাঃ)-এর মাধ্যমে—তখনো মুসলিমদের নিরাপদে মিলিত হওয়ার মতো কোনো ঘরও ছিল না; তিনি গণ্য হন প্রথম আটজন ঈমানদারের একজন হিসেবে।",
           },
           {
             en: "He emigrated to Abyssinia with the persecuted believers and later made the hijrah to Madinah, arriving with nothing. Everything he had built in Makkah stayed behind. He was a trader by instinct and by training, and he had just lost his capital, his customers and his city in a single journey. What he did next became one of the most quoted scenes of the migration.",
@@ -250,7 +250,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He consulted, house by house. He asked the senior companions, then the commanders, then ordinary men in the streets and women behind their doors, and even travellers passing through Madinah, until he had heard the city. Then he took Uthman (RA) by the hand in the mosque and gave him the pledge, and the people followed. The reports say he barely slept in those nights. He died in the caliphate of Uthman (RA), one of the ten given the glad tidings of Paradise.",
-            bn: "তিনি ঘরে ঘরে গিয়ে পরামর্শ নেন। প্রবীণ সাহাবিদের জিজ্ঞাসা করেন, তারপর সেনাপতিদের, তারপর রাস্তার সাধারণ মানুষকে, ঘরের ভেতরের নারীদের, এমনকি মদিনায় আসা পথিকদেরও—যতক্ষণ না গোটা শহরের কথা শোনা হয়ে যায়। এরপর মসজিদে তিনি উসমান (রাঃ)-এর হাত ধরে বাইআত দেন, আর মানুষ তাঁকে অনুসরণ করে। বর্ণনায় আছে, সেই রাতগুলোতে তিনি প্রায় ঘুমাননি। উসমান (রাঃ)-এর খিলাফতকালেই তিনি ইন্তেকাল করেন—জান্নাতের সুসংবাদপ্রাপ্ত দশজনের একজন হয়ে।",
+            bn: "তিনি ঘরে ঘরে গিয়ে পরামর্শ নেন। প্রবীণ সাহাবিদের জিজ্ঞাসা করেন, তারপর সেনাপতিদের, তারপর রাস্তার সাধারণ মানুষকে, ঘরের ভেতরের নারীদের, এমনকি মদিনায় আসা পথিকদেরও, যতক্ষণ না গোটা শহরের কথা শোনা হয়ে যায়। এরপর মসজিদে তিনি উসমান (রাঃ)-এর হাত ধরে বাইআত দেন, আর মানুষ তাঁকে অনুসরণ করে। বর্ণনায় আছে, সেই রাতগুলোতে তিনি প্রায় ঘুমাননি। উসমান (রাঃ)-এর খিলাফতকালেই তিনি ইন্তেকাল করেন, জান্নাতের সুসংবাদপ্রাপ্ত দশজনের একজন হয়ে।",
           },
         ],
       },
@@ -263,7 +263,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Sa'd ibn Abi Waqqas (RA) came from Banu Zuhrah, the clan of the Prophet's ﷺ mother Aminah, and the Prophet ﷺ would present him to people by saying that this was his maternal uncle. He accepted Islam as a teenager, among the first small group, and he made arrows with his own hands before he ever fired one for the faith. Archery would shape both his early reputation and the great battle of his old age.",
-            bn: "সাদ ইবনে আবি ওয়াক্কাস (রাঃ) ছিলেন বনু যুহরা গোত্রের—নবীজি ﷺ-এর মা আমিনার গোত্র; নবীজি ﷺ মানুষের সামনে তাঁকে পরিচয় করিয়ে দিতেন এই বলে যে ইনি আমার মামা। কিশোর বয়সেই তিনি ইসলাম গ্রহণ করেন, একেবারে প্রথম ছোট দলটির সঙ্গে; আর ঈমানের পথে তীর ছোড়ার আগেই নিজ হাতে তীর বানাতে জানতেন। তীরন্দাজিই তাঁর তারুণ্যের খ্যাতি আর বার্ধক্যের মহাযুদ্ধ—দুটোই গড়ে দিয়েছে।",
+            bn: "সাদ ইবনে আবি ওয়াক্কাস (রাঃ) ছিলেন বনু যুহরা গোত্রের (নবীজি ﷺ-এর মা আমিনার গোত্র); নবীজি ﷺ মানুষের সামনে তাঁকে পরিচয় করিয়ে দিতেন এই বলে যে ইনি আমার মামা। কিশোর বয়সেই তিনি ইসলাম গ্রহণ করেন, একেবারে প্রথম ছোট দলটির সঙ্গে; আর ঈমানের পথে তীর ছোড়ার আগেই নিজ হাতে তীর বানাতে জানতেন। তীরন্দাজিই তাঁর তারুণ্যের খ্যাতি আর বার্ধক্যের মহাযুদ্ধ, দুটোই গড়ে দিয়েছে।",
           },
           {
             en: "In those Makkan years the believers around the Prophet ﷺ were mostly the poor and the young. Sa'd narrated that the chiefs of Quraysh demanded the Prophet ﷺ drive such men away before they would sit with him, and Allah forbade it in 6:52, ordering that those who call upon their Lord morning and evening not be turned away. Sa'd knew from the beginning that this religion would not be traded for the approval of powerful men.",
@@ -319,7 +319,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Afterwards he laid out Kufa as a garrison city, with quarters for the tribes and a mosque at its centre, and governed it for Umar (RA). Complaints came, as they always do, and Umar (RA) removed him — while stating plainly that he was not removing him for incompetence or dishonesty. Sa'd accepted the decision without protest, and Umar (RA) still named him among the six from whom the next caliph was to be chosen.",
-            bn: "এরপর তিনি কুফাকে সেনানিবাস-নগরী হিসেবে গড়ে তোলেন—গোত্রভিত্তিক মহল্লা আর কেন্দ্রে মসজিদ; উমর (রাঃ)-এর পক্ষে তিনিই তা শাসন করেন। অভিযোগ আসে, যেমন সবসময় আসে; উমর (রাঃ) তাঁকে সরিয়ে দেন—তবে স্পষ্ট করে বলে দেন যে অযোগ্যতা বা অসততার কারণে তিনি তাঁকে সরাচ্ছেন না। সাদ কোনো আপত্তি ছাড়াই সিদ্ধান্ত মেনে নেন, আর উমর (রাঃ) তবু তাঁকে সেই ছয়জনের মধ্যে রাখেন যাঁদের মধ্য থেকে পরবর্তী খলিফা নির্বাচিত হবেন।",
+            bn: "এরপর তিনি কুফাকে সেনানিবাস-নগরী হিসেবে গড়ে তোলেন (গোত্রভিত্তিক মহল্লা আর কেন্দ্রে মসজিদ); উমর (রাঃ)-এর পক্ষে তিনিই তা শাসন করেন। অভিযোগ আসে, যেমন সবসময় আসে; উমর (রাঃ) তাঁকে সরিয়ে দেন, তবে স্পষ্ট করে বলে দেন যে অযোগ্যতা বা অসততার কারণে তিনি তাঁকে সরাচ্ছেন না। সাদ কোনো আপত্তি ছাড়াই সিদ্ধান্ত মেনে নেন, আর উমর (রাঃ) তবু তাঁকে সেই ছয়জনের মধ্যে রাখেন যাঁদের মধ্য থেকে পরবর্তী খলিফা নির্বাচিত হবেন।",
           },
         ],
       },
@@ -332,7 +332,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Years later that man was seen as a very old beggar, his eyebrows fallen over his eyes, saying of himself that he was an old man afflicted, struck by the supplication of Sa'd. When civil war came between the Muslims, Sa'd refused to take part on any side and asked instead for a sword that could tell a believer from a disbeliever. He died near Madinah, among the last of the ten promised Paradise, asking to be buried in a woollen cloak he had kept from the day of Badr.",
-            bn: "বহু বছর পর সেই লোককে দেখা যায় অতি বৃদ্ধ এক ভিক্ষুক হিসেবে, চোখের ওপর ভ্রু ঝুলে পড়েছে; সে নিজের সম্পর্কে বলত—আমি এক বিপদগ্রস্ত বৃদ্ধ, সাদের দোয়া আমাকে ধরেছে। মুসলিমদের মধ্যে গৃহযুদ্ধ বেধে গেলে সাদ কোনো পক্ষেই অংশ নিতে অস্বীকার করেন এবং বলেন, আমাকে এমন তরবারি দাও যা মুমিন আর কাফিরের পার্থক্য বুঝতে পারে। মদিনার কাছেই তিনি ইন্তেকাল করেন—জান্নাতের সুসংবাদপ্রাপ্ত দশজনের সর্বশেষদের একজন হয়ে; অসিয়ত করে যান, বদরের দিন থেকে রেখে দেওয়া পশমি চাদরেই যেন তাঁকে দাফন করা হয়।",
+            bn: "বহু বছর পর সেই লোককে দেখা যায় অতি বৃদ্ধ এক ভিক্ষুক হিসেবে, চোখের ওপর ভ্রু ঝুলে পড়েছে; সে নিজের সম্পর্কে বলত: আমি এক বিপদগ্রস্ত বৃদ্ধ, সাদের দোয়া আমাকে ধরেছে। মুসলিমদের মধ্যে গৃহযুদ্ধ বেধে গেলে সাদ কোনো পক্ষেই অংশ নিতে অস্বীকার করেন এবং বলেন, আমাকে এমন তরবারি দাও যা মুমিন আর কাফিরের পার্থক্য বুঝতে পারে। মদিনার কাছেই তিনি ইন্তেকাল করেন, জান্নাতের সুসংবাদপ্রাপ্ত দশজনের সর্বশেষদের একজন হয়ে; অসিয়ত করে যান, বদরের দিন থেকে রেখে দেওয়া পশমি চাদরেই যেন তাঁকে দাফন করা হয়।",
           },
         ],
       },
@@ -388,7 +388,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Power did not change how he lived. When Umar (RA) came to Syria and visited his house, he found almost nothing in it — a sword, a shield and his saddle. Asked why he had taken nothing for himself when the treasuries of provinces passed through his hands, he answered in the manner of his whole life, that this was enough to reach the morning with. The soldiers under him ate what he ate.",
-            bn: "ক্ষমতা তাঁর জীবনযাপন বদলাতে পারেনি। উমর (রাঃ) সিরিয়ায় এসে তাঁর ঘরে গিয়ে প্রায় কিছুই পাননি—একটি তরবারি, একটি ঢাল আর তাঁর জিন। প্রদেশের রাজকোষ যাঁর হাত দিয়ে যায় তিনি নিজের জন্য কিছুই নেননি কেন—জিজ্ঞাসা করা হলে তিনি সারা জীবনের ভঙ্গিতেই উত্তর দেন যে সকাল পর্যন্ত পৌঁছানোর জন্য এটুকুই যথেষ্ট। তাঁর অধীন সৈনিকরা তা-ই খেত যা তিনি খেতেন।",
+            bn: "ক্ষমতা তাঁর জীবনযাপন বদলাতে পারেনি। উমর (রাঃ) সিরিয়ায় এসে তাঁর ঘরে গিয়ে প্রায় কিছুই পাননি: একটি তরবারি, একটি ঢাল আর তাঁর জিন। প্রদেশের রাজকোষ যাঁর হাত দিয়ে যায় তিনি নিজের জন্য কিছুই নেননি কেন, জিজ্ঞাসা করা হলে তিনি সারা জীবনের ভঙ্গিতেই উত্তর দেন যে সকাল পর্যন্ত পৌঁছানোর জন্য এটুকুই যথেষ্ট। তাঁর অধীন সৈনিকরা তা-ই খেত যা তিনি খেতেন।",
           },
         ],
       },
@@ -466,11 +466,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "After the conquest of Makkah the Prophet ﷺ sent him to Banu Jadhimah to call them to Islam, not to fight them. The tribe used an old word to say they had entered the religion, Khalid's men misread it or chose to, and captives were killed. When the news reached Madinah the Prophet ﷺ raised his hands and said twice that he was innocent before Allah of what Khalid had done.",
-            bn: "মক্কা বিজয়ের পর নবীজি ﷺ তাঁকে বনু জাযিমার কাছে পাঠান ইসলামের দাওয়াত দিতে, যুদ্ধ করতে নয়। গোত্রটি দ্বীনে প্রবেশের কথা বোঝাতে পুরোনো একটি শব্দ ব্যবহার করে; খালিদের লোকেরা তা ভুল বোঝে—কিংবা ভুল বোঝাকেই বেছে নেয়—আর বন্দিদের হত্যা করা হয়। খবর মদিনায় পৌঁছালে নবীজি ﷺ দুই হাত তুলে দুবার বলেন, খালিদ যা করেছে তা থেকে আমি আল্লাহর কাছে দায়মুক্ত।",
+            bn: "মক্কা বিজয়ের পর নবীজি ﷺ তাঁকে বনু জাযিমার কাছে পাঠান ইসলামের দাওয়াত দিতে, যুদ্ধ করতে নয়। গোত্রটি দ্বীনে প্রবেশের কথা বোঝাতে পুরোনো একটি শব্দ ব্যবহার করে; খালিদের লোকেরা তা ভুল বোঝে (কিংবা ভুল বোঝাকেই বেছে নেয়), আর বন্দিদের হত্যা করা হয়। খবর মদিনায় পৌঁছালে নবীজি ﷺ দুই হাত তুলে দুবার বলেন, খালিদ যা করেছে তা থেকে আমি আল্লাহর কাছে দায়মুক্ত।",
           },
           {
             en: "He sent Ali (RA) with money to pay compensation for every life and every loss, down to the smallest item, until the tribe was satisfied. Khalid was not dismissed, and the Prophet ﷺ continued to employ him. Both halves of that response matter: a great commander was publicly disowned in his error and publicly kept in service afterwards. Rank in Islam never placed a man above being corrected.",
-            bn: "নবীজি ﷺ আলী (রাঃ)-কে অর্থ দিয়ে পাঠান, যাতে প্রতিটি প্রাণ ও প্রতিটি ক্ষতির—এমনকি সামান্যতম জিনিসেরও—ক্ষতিপূরণ দেওয়া হয়, যতক্ষণ না গোত্রটি সন্তুষ্ট হয়। খালিদকে দায়িত্ব থেকে সরানো হয়নি, নবীজি ﷺ পরেও তাঁকে কাজে লাগিয়েছেন। এই জবাবের দুটি দিকই গুরুত্বপূর্ণ: একজন মহান সেনাপতির ভুলকে প্রকাশ্যে অস্বীকার করা হলো, আবার প্রকাশ্যেই তাঁকে দায়িত্বে রাখা হলো। ইসলামে মর্যাদা কখনো কাউকে সংশোধনের ঊর্ধ্বে তোলেনি।",
+            bn: "নবীজি ﷺ আলী (রাঃ)-কে অর্থ দিয়ে পাঠান, যাতে প্রতিটি প্রাণ ও প্রতিটি ক্ষতির (এমনকি সামান্যতম জিনিসেরও) ক্ষতিপূরণ দেওয়া হয়, যতক্ষণ না গোত্রটি সন্তুষ্ট হয়। খালিদকে দায়িত্ব থেকে সরানো হয়নি, নবীজি ﷺ পরেও তাঁকে কাজে লাগিয়েছেন। এই জবাবের দুটি দিকই গুরুত্বপূর্ণ: একজন মহান সেনাপতির ভুলকে প্রকাশ্যে অস্বীকার করা হলো, আবার প্রকাশ্যেই তাঁকে দায়িত্বে রাখা হলো। ইসলামে মর্যাদা কখনো কাউকে সংশোধনের ঊর্ধ্বে তোলেনি।",
           },
         ],
       },
@@ -578,7 +578,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Biographers add that 33:23 was recited over the martyrs of Uhud such as him: that among the believers are men true to the covenant they made with Allah, some who have fulfilled their vow and some still waiting. Years later, when a rich table was set before Abdur-Rahman ibn Awf (RA), he wept and could not eat, saying Musab was better than him and had died with nothing. That is the shadow Musab cast over the generation that outlived him.",
-            bn: "জীবনীকারেরা যোগ করেন, তাঁর মতো উহুদের শহিদদের উদ্দেশে 33:23 আয়াতটি পাঠ করা হয়েছিল—মুমিনদের মধ্যে এমন লোক আছে যারা আল্লাহর সঙ্গে করা অঙ্গীকারে সত্য প্রমাণিত হয়েছে; কেউ তার প্রতিশ্রুতি পূর্ণ করেছে, কেউ এখনো অপেক্ষায়। বহু বছর পর আবদুর রহমান ইবনে আওফ (রাঃ)-এর সামনে সমৃদ্ধ খাবার রাখা হলে তিনি কেঁদে ফেলেন, খেতে পারেন না, আর বলেন—মুসআব আমার চেয়ে উত্তম ছিলেন, অথচ তিনি কিছুই না রেখে চলে গেছেন। তাঁর পরে বেঁচে থাকা প্রজন্মের ওপর মুসআব এমনই ছায়া ফেলে গিয়েছিলেন।",
+            bn: "জীবনীকারেরা যোগ করেন, তাঁর মতো উহুদের শহিদদের উদ্দেশে 33:23 আয়াতটি পাঠ করা হয়েছিল: মুমিনদের মধ্যে এমন লোক আছে যারা আল্লাহর সঙ্গে করা অঙ্গীকারে সত্য প্রমাণিত হয়েছে; কেউ তার প্রতিশ্রুতি পূর্ণ করেছে, কেউ এখনো অপেক্ষায়। বহু বছর পর আবদুর রহমান ইবনে আওফ (রাঃ)-এর সামনে সমৃদ্ধ খাবার রাখা হলে তিনি কেঁদে ফেলেন, খেতে পারেন না, আর বলেন, মুসআব আমার চেয়ে উত্তম ছিলেন, অথচ তিনি কিছুই না রেখে চলে গেছেন। তাঁর পরে বেঁচে থাকা প্রজন্মের ওপর মুসআব এমনই ছায়া ফেলে গিয়েছিলেন।",
           },
         ],
       },
@@ -733,7 +733,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Aisha (RA) said that if the Prophet ﷺ had concealed anything of what was revealed to him, he would have concealed this verse. He did not; it stands in the Book, a public correction of the one who delivered it, which is itself an argument for the truth of what he brought. The passage closes in 33:40 with the declaration that Muhammad ﷺ is not the father of any of your men, but the Messenger of Allah and the seal of the prophets.",
-            bn: "আয়েশা (রাঃ) বলেছেন, নবীজি ﷺ-এর প্রতি যা নাযিল হয়েছে তার কিছু যদি তিনি গোপন করতেন, তবে এই আয়াতটিই গোপন করতেন। তিনি করেননি; আয়াতটি কিতাবেই রয়ে গেছে—যিনি তা পৌঁছে দিয়েছেন তাঁর প্রতিই প্রকাশ্য এক সংশোধন, যা নিজেই তাঁর আনা বাণীর সত্যতার এক প্রমাণ। অনুচ্ছেদটি শেষ হয় 33:40 আয়াতে—মুহাম্মদ ﷺ তোমাদের কোনো পুরুষের পিতা নন, বরং আল্লাহর রাসূল ও নবীদের সমাপ্তিকারী।",
+            bn: "আয়েশা (রাঃ) বলেছেন, নবীজি ﷺ-এর প্রতি যা নাযিল হয়েছে তার কিছু যদি তিনি গোপন করতেন, তবে এই আয়াতটিই গোপন করতেন। তিনি করেননি; আয়াতটি কিতাবেই রয়ে গেছে: যিনি তা পৌঁছে দিয়েছেন তাঁর প্রতিই প্রকাশ্য এক সংশোধন, যা নিজেই তাঁর আনা বাণীর সত্যতার এক প্রমাণ। অনুচ্ছেদটি শেষ হয় 33:40 আয়াতে: মুহাম্মদ ﷺ তোমাদের কোনো পুরুষের পিতা নন, বরং আল্লাহর রাসূল ও নবীদের সমাপ্তিকারী।",
           },
         ],
       },
@@ -776,7 +776,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Sumayyah refused to yield and was killed by Abu Jahl with a thrust of a spear, the first person to be martyred in Islam. Yasir died under the same treatment. Ammar was left alive, a young man who had watched both his parents killed for a religion that at that point had no state, no army and no worldly prospect of victory.",
-            bn: "সুমাইয়া নতিস্বীকার করতে অস্বীকার করেন, আর আবু জাহলের বর্শার আঘাতে তিনি নিহত হন—ইসলামের ইতিহাসে প্রথম শহীদ। একই নির্যাতনে ইয়াসিরও শহীদ হন। বেঁচে থাকেন আম্মার—এমন এক তরুণ, যিনি নিজ চোখে দেখেছেন এমন এক দ্বীনের জন্য তাঁর পিতা-মাতা দুজনকেই হত্যা করা হলো, যে দ্বীনের তখনো কোনো রাষ্ট্র ছিল না, বাহিনী ছিল না, বিজয়ের কোনো পার্থিব সম্ভাবনাও ছিল না।",
+            bn: "সুমাইয়া নতিস্বীকার করতে অস্বীকার করেন, আর আবু জাহলের বর্শার আঘাতে তিনি নিহত হন—ইসলামের ইতিহাসে প্রথম শহীদ। একই নির্যাতনে ইয়াসিরও শহীদ হন। বেঁচে থাকেন আম্মার, এমন এক তরুণ, যিনি নিজ চোখে দেখেছেন এমন এক দ্বীনের জন্য তাঁর পিতা-মাতা দুজনকেই হত্যা করা হলো, যে দ্বীনের তখনো কোনো রাষ্ট্র ছিল না, বাহিনী ছিল না, বিজয়ের কোনো পার্থিব সম্ভাবনাও ছিল না।",
           },
         ],
       },
@@ -789,7 +789,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Then came 16:106, which excludes from the ruling on disbelief the one who is compelled while his heart is content with faith, and reserves the wrath of Allah for the one who opens his breast to disbelief willingly. The verse gave the ummah a permanent principle. Allah judges what a man holds, not what has been forced out of him under unbearable pressure, and 16:110 goes on to promise that your Lord, to those who emigrated after being persecuted and then strove and were patient, is forgiving and merciful.",
-            bn: "এরপর নাযিল হয় 16:106—যেখানে কুফরের বিধান থেকে সেই ব্যক্তিকে বাদ দেওয়া হয় যাকে বাধ্য করা হয়েছে অথচ তার হৃদয় ঈমানে প্রশান্ত; আর আল্লাহর ক্রোধ নির্ধারিত হয় তার জন্য, যে স্বেচ্ছায় কুফরের জন্য বুক খুলে দেয়। আয়াতটি উম্মাহকে একটি স্থায়ী নীতি দিয়েছে: আল্লাহ বিচার করেন মানুষ অন্তরে যা ধারণ করে তা দিয়ে, অসহনীয় চাপে জোর করে বের করে নেওয়া কথা দিয়ে নয়। আর 16:110 আয়াতে প্রতিশ্রুতি এসেছে—যারা নির্যাতিত হওয়ার পর হিজরত করেছে, এরপর সংগ্রাম করেছে ও ধৈর্য ধরেছে, তোমার প্রভু তাদের জন্য ক্ষমাশীল ও দয়াময়।",
+            bn: "এরপর নাযিল হয় 16:106, যেখানে কুফরের বিধান থেকে সেই ব্যক্তিকে বাদ দেওয়া হয় যাকে বাধ্য করা হয়েছে অথচ তার হৃদয় ঈমানে প্রশান্ত; আর আল্লাহর ক্রোধ নির্ধারিত হয় তার জন্য, যে স্বেচ্ছায় কুফরের জন্য বুক খুলে দেয়। আয়াতটি উম্মাহকে একটি স্থায়ী নীতি দিয়েছে: আল্লাহ বিচার করেন মানুষ অন্তরে যা ধারণ করে তা দিয়ে, অসহনীয় চাপে জোর করে বের করে নেওয়া কথা দিয়ে নয়। আর 16:110 আয়াতে প্রতিশ্রুতি এসেছে: যারা নির্যাতিত হওয়ার পর হিজরত করেছে, এরপর সংগ্রাম করেছে ও ধৈর্য ধরেছে, তোমার প্রভু তাদের জন্য ক্ষমাশীল ও দয়াময়।",
           },
         ],
       },
@@ -798,7 +798,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "He emigrated to Madinah and worked on the building of the Prophet's ﷺ mosque. The others carried one brick at a time; Ammar carried two, one for himself and one for the Prophet ﷺ. The Prophet ﷺ brushed the dust from his head and said the words that would be remembered for the rest of Ammar's long life: that a transgressing party would kill him, that he would be calling them to Paradise while they called him to the Fire.",
-            bn: "তিনি মদিনায় হিজরত করেন এবং নবীজি ﷺ-এর মসজিদ নির্মাণের কাজে যোগ দেন। অন্যরা একবারে একটি করে ইট বইছিলেন; আম্মার বইছিলেন দুটি—একটি নিজের জন্য, একটি নবীজি ﷺ-এর জন্য। নবীজি ﷺ তাঁর মাথা থেকে ধুলো ঝেড়ে দিয়ে সেই কথাগুলো বলেন, যা আম্মারের দীর্ঘ জীবনের বাকিটা সময় স্মরণ করা হবে—তোমাকে হত্যা করবে এক সীমালঙ্ঘনকারী দল; তুমি তাদের ডাকবে জান্নাতের দিকে আর তারা তোমাকে ডাকবে আগুনের দিকে।",
+            bn: "তিনি মদিনায় হিজরত করেন এবং নবীজি ﷺ-এর মসজিদ নির্মাণের কাজে যোগ দেন। অন্যরা একবারে একটি করে ইট বইছিলেন; আম্মার বইছিলেন দুটি: একটি নিজের জন্য, একটি নবীজি ﷺ-এর জন্য। নবীজি ﷺ তাঁর মাথা থেকে ধুলো ঝেড়ে দিয়ে সেই কথাগুলো বলেন, যা আম্মারের দীর্ঘ জীবনের বাকিটা সময় স্মরণ করা হবে: তোমাকে হত্যা করবে এক সীমালঙ্ঘনকারী দল; তুমি তাদের ডাকবে জান্নাতের দিকে আর তারা তোমাকে ডাকবে আগুনের দিকে।",
           },
           {
             en: "He was also the occasion of a permanent ruling in worship. Sent on an errand with Umar (RA), he became in need of a full bath and no water was available, so he rolled himself in the dust as best he understood. On returning he described it, and the Prophet ﷺ taught him that it was enough to strike the earth with the hands and wipe the face and the hands. Millions have prayed by that ruling since.",
@@ -871,7 +871,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The Quran praises the freeing of a neck as the steep ascent most people decline to climb in 90:12-13, and the commentators have long read the closing verses of Surah al-Layl, 92:17-21, as describing this man: the one who gives his wealth to purify himself, owing no favour that must be repaid, seeking only his Lord's face. He entered Islam a trader of means; the Prophet ﷺ later said that no one had done more for him with companionship and wealth than Abu Bakr (Bukhari 3904), and the biographers relate that little of that wealth remained by the time he reached Madinah.",
-            bn: "কুরআন 90:12-13-এ দাসমুক্তিকে সেই কঠিন গিরিপথ বলেছে যা অধিকাংশ মানুষ পাড়ি দিতে চায় না; আর মুফাসসিরগণ দীর্ঘকাল ধরে সূরা আল-লাইলের শেষ আয়াতগুলোকে—92:17-21—ঠিক এই মানুষটিরই বর্ণনা হিসেবে পড়েছেন: যে নিজেকে পবিত্র করতে সম্পদ দান করে, যার ওপর কারো কোনো প্রতিদানযোগ্য অনুগ্রহ নেই, যে কেবল তার প্রতিপালকের সন্তুষ্টি চায়। তিনি ইসলামে এসেছিলেন সচ্ছল ব্যবসায়ী হিসেবে; পরে নবীজি ﷺ বলেছেন, সাহচর্য ও সম্পদ দিয়ে আবু বকরের চেয়ে বেশি অনুগ্রহ আর কেউ তাঁর প্রতি করেনি (বুখারি ৩৯০৪)। জীবনীকারগণ বর্ণনা করেন, মদিনায় পৌঁছাতে পৌঁছাতে সেই সম্পদের সামান্যই অবশিষ্ট ছিল।",
+            bn: "কুরআন 90:12-13-এ দাসমুক্তিকে সেই কঠিন গিরিপথ বলেছে যা অধিকাংশ মানুষ পাড়ি দিতে চায় না; আর মুফাসসিরগণ দীর্ঘকাল ধরে সূরা আল-লাইলের শেষ আয়াতগুলোকে (92:17-21) ঠিক এই মানুষটিরই বর্ণনা হিসেবে পড়েছেন: যে নিজেকে পবিত্র করতে সম্পদ দান করে, যার ওপর কারো কোনো প্রতিদানযোগ্য অনুগ্রহ নেই, যে কেবল তার প্রতিপালকের সন্তুষ্টি চায়। তিনি ইসলামে এসেছিলেন সচ্ছল ব্যবসায়ী হিসেবে; পরে নবীজি ﷺ বলেছেন, সাহচর্য ও সম্পদ দিয়ে আবু বকরের চেয়ে বেশি অনুগ্রহ আর কেউ তাঁর প্রতি করেনি (বুখারি ৩৯০৪)। জীবনীকারগণ বর্ণনা করেন, মদিনায় পৌঁছাতে পৌঁছাতে সেই সম্পদের সামান্যই অবশিষ্ট ছিল।",
           },
         ],
       },
@@ -884,7 +884,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The Quran preserves that night in 9:40, calling him the second of two when they were in the cave and recording the words spoken to him: do not grieve, God is with us. The narrations stress that his fear was never for himself. In Madinah he stood at the Prophet's side at Badr and Hudaybiyah, led the pilgrimage in the ninth year, and in the final illness was ordered to lead the prayer.",
-            bn: "কুরআন সেই রাতটিকে ধরে রেখেছে 9:40 আয়াতে—তাঁকে বলা হয়েছে ‘দুজনের দ্বিতীয়জন, যখন তারা গুহায় ছিল’—এবং সেখানে উচ্চারিত কথাটিও সংরক্ষিত: বিষণ্ণ হয়ো না, আল্লাহ আমাদের সঙ্গে আছেন। বর্ণনাগুলো জোর দিয়ে বলে, তাঁর ভয় কখনো নিজের জন্য ছিল না। মদিনায় তিনি বদর ও হুদাইবিয়ায় নবীজি ﷺ-এর পাশে ছিলেন, নবম হিজরিতে হজের নেতৃত্ব দেন, আর নবীজির শেষ অসুস্থতায় তাঁকেই মানুষের নামাজে ইমামতির নির্দেশ দেওয়া হয়।",
+            bn: "কুরআন সেই রাতটিকে ধরে রেখেছে 9:40 আয়াতে (তাঁকে বলা হয়েছে ‘দুজনের দ্বিতীয়জন, যখন তারা গুহায় ছিল’), এবং সেখানে উচ্চারিত কথাটিও সংরক্ষিত: বিষণ্ণ হয়ো না, আল্লাহ আমাদের সঙ্গে আছেন। বর্ণনাগুলো জোর দিয়ে বলে, তাঁর ভয় কখনো নিজের জন্য ছিল না। মদিনায় তিনি বদর ও হুদাইবিয়ায় নবীজি ﷺ-এর পাশে ছিলেন, নবম হিজরিতে হজের নেতৃত্ব দেন, আর নবীজির শেষ অসুস্থতায় তাঁকেই মানুষের নামাজে ইমামতির নির্দেশ দেওয়া হয়।",
           },
         ],
       },
@@ -927,11 +927,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Umar ibn al-Khattab belonged to Banu Adi, a clan whose traditional duty was to carry Quraysh's embassies to other tribes. He was tall, physically formidable, literate at a time when few Makkans could write, and known for a temper that made men give way to him. Everything that later made him a great administrator, his memory for detail and his refusal to be moved once he judged a thing right, first served the opposition.",
-            bn: "উমর ইবনুল খাত্তাব ছিলেন বনু আদি গোত্রের সন্তান, যে গোত্রের পুরোনো দায়িত্ব ছিল অন্য গোত্রের কাছে কুরাইশের দূত হয়ে যাওয়া। তিনি ছিলেন দীর্ঘদেহী, শারীরিকভাবে ভয়জাগানো, এবং এমন এক সময়ে লেখাপড়া জানতেন যখন মক্কায় খুব কম মানুষই লিখতে পারত; তাঁর মেজাজের সামনে লোকে পথ ছেড়ে দিত। পরবর্তীকালে যা তাঁকে বড় প্রশাসক বানিয়েছিল—খুঁটিনাটি মনে রাখার ক্ষমতা আর সঠিক বলে বুঝলে অবিচল থাকা—তা প্রথমে কাজে লেগেছিল ইসলামের বিরোধিতাতেই।",
+            bn: "উমর ইবনুল খাত্তাব ছিলেন বনু আদি গোত্রের সন্তান, যে গোত্রের পুরোনো দায়িত্ব ছিল অন্য গোত্রের কাছে কুরাইশের দূত হয়ে যাওয়া। তিনি ছিলেন দীর্ঘদেহী, শারীরিকভাবে ভয়জাগানো, এবং এমন এক সময়ে লেখাপড়া জানতেন যখন মক্কায় খুব কম মানুষই লিখতে পারত; তাঁর মেজাজের সামনে লোকে পথ ছেড়ে দিত। পরবর্তীকালে যা তাঁকে বড় প্রশাসক বানিয়েছিল (খুঁটিনাটি মনে রাখার ক্ষমতা আর সঠিক বলে বুঝলে অবিচল থাকা), তা প্রথমে কাজে লেগেছিল ইসলামের বিরোধিতাতেই।",
           },
           {
             en: "For several years he was among the most dangerous enemies the small community faced. He struck believers who were within his reach, including a slave woman of his own clan, and he treated the new religion as a betrayal of the fathers and of the order that held Makkah together. The sources do not soften this period; his own later speech returns to it with grief rather than with pride.",
-            bn: "কয়েক বছর ধরে তিনি ছিলেন ছোট্ট মুসলিম সমাজের সবচেয়ে বিপজ্জনক শত্রুদের একজন। হাতের নাগালে যেসব ঈমানদারকে পেতেন তাঁদের প্রহার করতেন—নিজের গোত্রের এক দাসীও তার মধ্যে ছিলেন—আর নতুন ধর্মটিকে তিনি দেখতেন পিতৃপুরুষ ও মক্কার সমাজব্যবস্থার প্রতি বিশ্বাসঘাতকতা হিসেবে। সূত্রগুলো এই অধ্যায়টিকে নরম করে দেখায় না; বরং তাঁর নিজের পরবর্তী বক্তব্যেও এই প্রসঙ্গ ফিরে আসে গর্ব নয়, অনুশোচনার সুরে।",
+            bn: "কয়েক বছর ধরে তিনি ছিলেন ছোট্ট মুসলিম সমাজের সবচেয়ে বিপজ্জনক শত্রুদের একজন। হাতের নাগালে যেসব ঈমানদারকে পেতেন তাঁদের প্রহার করতেন (নিজের গোত্রের এক দাসীও তার মধ্যে ছিলেন), আর নতুন ধর্মটিকে তিনি দেখতেন পিতৃপুরুষ ও মক্কার সমাজব্যবস্থার প্রতি বিশ্বাসঘাতকতা হিসেবে। সূত্রগুলো এই অধ্যায়টিকে নরম করে দেখায় না; বরং তাঁর নিজের পরবর্তী বক্তব্যেও এই প্রসঙ্গ ফিরে আসে গর্ব নয়, অনুশোচনার সুরে।",
           },
         ],
       },
@@ -1013,7 +1013,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He accepted Islam early, through Abu Bakr (RA), and married the Prophet's daughter Ruqayyah (RA). When persecution grew unbearable the two of them emigrated to Abyssinia, then returned and later migrated to Madinah. After Ruqayyah (RA) died he married her sister Umm Kulthum (RA), and from this he is known as Dhun-Nurayn, the possessor of two lights, a distinction no other Companion shares.",
-            bn: "তিনি আবু বকর (রাঃ)-এর মাধ্যমে প্রথম দিকেই ইসলাম গ্রহণ করেন এবং নবীকন্যা রুকাইয়া (রাঃ)-কে বিয়ে করেন। নির্যাতন অসহনীয় হয়ে উঠলে তাঁরা দুজন আবিসিনিয়ায় হিজরত করেন, পরে ফিরে এসে মদিনায় হিজরত করেন। রুকাইয়া (রাঃ)-এর ইন্তেকালের পর তিনি তাঁর বোন উম্মে কুলসুম (রাঃ)-কে বিয়ে করেন, আর এ কারণেই তিনি ‘জুন-নূরাইন’—দুই জ্যোতির অধিকারী—নামে পরিচিত, যে মর্যাদা আর কোনো সাহাবির নেই।",
+            bn: "তিনি আবু বকর (রাঃ)-এর মাধ্যমে প্রথম দিকেই ইসলাম গ্রহণ করেন এবং নবীকন্যা রুকাইয়া (রাঃ)-কে বিয়ে করেন। নির্যাতন অসহনীয় হয়ে উঠলে তাঁরা দুজন আবিসিনিয়ায় হিজরত করেন, পরে ফিরে এসে মদিনায় হিজরত করেন। রুকাইয়া (রাঃ)-এর ইন্তেকালের পর তিনি তাঁর বোন উম্মে কুলসুম (রাঃ)-কে বিয়ে করেন, আর এ কারণেই তিনি ‘জুন-নূরাইন’ (দুই জ্যোতির অধিকারী) নামে পরিচিত, যে মর্যাদা আর কোনো সাহাবির নেই।",
           },
         ],
       },
@@ -1056,7 +1056,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Every printed Quran in the world today descends from that standard, and the surviving early copies confirm it. The promise in 15:9 that God has sent down the Reminder and is Himself its guardian was fulfilled, in the ordinary course of history, through an elderly caliph who acted at once on a soldier's warning and left the community a single agreed text rather than a set of regional traditions.",
-            bn: "আজ পৃথিবীর প্রতিটি মুদ্রিত কুরআন সেই প্রমিত মুসহাফেরই ধারাবাহিকতা, আর টিকে থাকা প্রাচীন অনুলিপিগুলোও তা নিশ্চিত করে। 15:9-এ আল্লাহর যে অঙ্গীকার—তিনিই এই উপদেশ নাজিল করেছেন এবং তিনিই এর সংরক্ষক—ইতিহাসের স্বাভাবিক পথেই তা বাস্তবায়িত হলো এক বৃদ্ধ খলিফার মাধ্যমে, যিনি এক সৈনিকের সতর্কবাণীতে সঙ্গে সঙ্গে সাড়া দিয়ে উম্মাহকে আঞ্চলিক নানা ধারা নয়, বরং একটিমাত্র স্বীকৃত গ্রন্থ দিয়ে গেলেন।",
+            bn: "আজ পৃথিবীর প্রতিটি মুদ্রিত কুরআন সেই প্রমিত মুসহাফেরই ধারাবাহিকতা, আর টিকে থাকা প্রাচীন অনুলিপিগুলোও তা নিশ্চিত করে। 15:9-এ আল্লাহর যে অঙ্গীকার (তিনিই এই উপদেশ নাজিল করেছেন এবং তিনিই এর সংরক্ষক), ইতিহাসের স্বাভাবিক পথেই তা বাস্তবায়িত হলো এক বৃদ্ধ খলিফার মাধ্যমে, যিনি এক সৈনিকের সতর্কবাণীতে সঙ্গে সঙ্গে সাড়া দিয়ে উম্মাহকে আঞ্চলিক নানা ধারা নয়, বরং একটিমাত্র স্বীকৃত গ্রন্থ দিয়ে গেলেন।",
           },
         ],
       },
@@ -1095,7 +1095,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Ali was the son of Abu Talib, the uncle who had raised the Prophet ﷺ and who protected him for years in Makkah. During a period of hardship in the valley, the Prophet ﷺ took the boy into his own household to lighten his uncle's burden, so Ali grew up in the house where the revelation would first be believed, alongside Khadijah (RA) and her daughters.",
-            bn: "আলী ছিলেন আবু তালিবের পুত্র—সেই চাচার, যিনি নবীজি ﷺ-কে লালন-পালন করেছিলেন এবং বহু বছর মক্কায় তাঁকে রক্ষা করেছেন। উপত্যকায় দুর্দিনের সময় নবীজি ﷺ চাচার বোঝা হালকা করতে বালকটিকে নিজের ঘরে নিয়ে আসেন; ফলে আলী বেড়ে ওঠেন সেই ঘরেই, যেখানে ওহিতে সর্বপ্রথম বিশ্বাস স্থাপিত হবে—খাদিজা (রাঃ) ও তাঁর কন্যাদের সঙ্গে।",
+            bn: "আলী ছিলেন আবু তালিবের পুত্র, সেই চাচার, যিনি নবীজি ﷺ-কে লালন-পালন করেছিলেন এবং বহু বছর মক্কায় তাঁকে রক্ষা করেছেন। উপত্যকায় দুর্দিনের সময় নবীজি ﷺ চাচার বোঝা হালকা করতে বালকটিকে নিজের ঘরে নিয়ে আসেন; ফলে আলী বেড়ে ওঠেন সেই ঘরেই, যেখানে ওহিতে সর্বপ্রথম বিশ্বাস স্থাপিত হবে, খাদিজা (রাঃ) ও তাঁর কন্যাদের সঙ্গে।",
           },
           {
             en: "He was still a child when he saw the Prophet ﷺ and Khadijah (RA) praying and asked what they were doing. He accepted Islam as the first of the young, keeping it from his father at first out of caution. When the Prophet ﷺ was commanded in 26:214 to warn his nearest kin and gathered the clan, al-Tabari reports that Ali was the only one of them who stood with him.",
@@ -1160,11 +1160,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "He fought the Kharijites at Nahrawan and afterwards forbade the killing of any of them who did not take up arms. It was a Kharijite, Abd ar-Rahman ibn Muljam, who struck him with a poisoned sword as he came to the dawn prayer in the mosque of Kufa in Ramadan of the fortieth year after the Hijra. He lived two days, instructing that his assailant be held and dealt with justly and not mutilated.",
-            bn: "নাহরাওয়ানে তিনি খারিজিদের বিরুদ্ধে যুদ্ধ করেন এবং পরে নির্দেশ দেন, তাদের মধ্যে যারা অস্ত্র ধরেনি তাদের কাউকে হত্যা করা যাবে না। খারিজিদেরই একজন—আবদুর রহমান ইবনে মুলজিম—হিজরি চল্লিশ সালের রমজানে কুফার মসজিদে ফজরের নামাজে আসার সময় বিষমাখা তরবারি দিয়ে তাঁকে আঘাত করে। তিনি দুই দিন বেঁচে ছিলেন এবং নির্দেশ দিয়ে যান, আঘাতকারীকে আটক রেখে ন্যায়সংগতভাবে বিচার করা হোক, অঙ্গহানি যেন না করা হয়।",
+            bn: "নাহরাওয়ানে তিনি খারিজিদের বিরুদ্ধে যুদ্ধ করেন এবং পরে নির্দেশ দেন, তাদের মধ্যে যারা অস্ত্র ধরেনি তাদের কাউকে হত্যা করা যাবে না। খারিজিদেরই একজন, আবদুর রহমান ইবনে মুলজিম, হিজরি চল্লিশ সালের রমজানে কুফার মসজিদে ফজরের নামাজে আসার সময় বিষমাখা তরবারি দিয়ে তাঁকে আঘাত করে। তিনি দুই দিন বেঁচে ছিলেন এবং নির্দেশ দিয়ে যান, আঘাতকারীকে আটক রেখে ন্যায়সংগতভাবে বিচার করা হোক, অঙ্গহানি যেন না করা হয়।",
           },
           {
             en: "He left almost no property. His speeches and letters shaped Arabic prose for centuries, and both major branches of the community trace much of their learning to him. Of the whole generation that lived through those wars, the counsel most often quoted is the prayer of 59:10, that God forgive those who came before in faith and leave no rancour in the hearts of those who follow, and the command in 49:9-10 to make peace between believers who fight.",
-            bn: "তিনি প্রায় কোনো সম্পত্তিই রেখে যাননি। তাঁর ভাষণ ও পত্রাবলি শতাব্দীজুড়ে আরবি গদ্যকে গড়ে দিয়েছে, আর উম্মাহর উভয় প্রধান ধারা নিজেদের জ্ঞানের বড় অংশের সূত্র তাঁর কাছেই খুঁজে পায়। সেই যুদ্ধগুলোর ভেতর দিয়ে যাওয়া গোটা প্রজন্ম সম্পর্কে সবচেয়ে বেশি উদ্ধৃত হয় 59:10-এর দোয়া—হে আমাদের প্রতিপালক, আমাদের ও ঈমানে অগ্রগামী আমাদের ভাইদের ক্ষমা করুন এবং আমাদের অন্তরে বিদ্বেষ রাখবেন না—এবং 49:9-10-এর সেই নির্দেশ, লড়াইরত ঈমানদারদের মধ্যে মীমাংসা করে দাও।",
+            bn: "তিনি প্রায় কোনো সম্পত্তিই রেখে যাননি। তাঁর ভাষণ ও পত্রাবলি শতাব্দীজুড়ে আরবি গদ্যকে গড়ে দিয়েছে, আর উম্মাহর উভয় প্রধান ধারা নিজেদের জ্ঞানের বড় অংশের সূত্র তাঁর কাছেই খুঁজে পায়। সেই যুদ্ধগুলোর ভেতর দিয়ে যাওয়া গোটা প্রজন্ম সম্পর্কে সবচেয়ে বেশি উদ্ধৃত হয় 59:10-এর দোয়া (হে আমাদের প্রতিপালক, আমাদের ও ঈমানে অগ্রগামী আমাদের ভাইদের ক্ষমা করুন এবং আমাদের অন্তরে বিদ্বেষ রাখবেন না) এবং 49:9-10-এর সেই নির্দেশ, লড়াইরত ঈমানদারদের মধ্যে মীমাংসা করে দাও।",
           },
         ],
       },
@@ -1211,7 +1211,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The words of 93:6-8, which remind the Prophet ﷺ that God found him poor and enriched him, are read by the commentators against this background. The enrichment came through a marriage, and the wealth was returned to God through the same marriage. By the end of it she owned very little of what she had begun with.",
-            bn: "93:6-8-এর বাণী—যেখানে নবীজি ﷺ-কে স্মরণ করিয়ে দেওয়া হয়েছে যে আল্লাহ তাঁকে অভাবগ্রস্ত পেয়ে সচ্ছল করেছেন—মুফাসসিরগণ এই প্রেক্ষাপটেই পড়েন। সচ্ছলতা এসেছিল একটি বিবাহের মাধ্যমে, আর সেই সম্পদ আল্লাহর পথে ফিরিয়ে দেওয়া হয়েছিল সেই একই বিবাহের মাধ্যমেই। জীবনের শেষে শুরু করার সময় যা ছিল, তার সামান্যই তাঁর হাতে অবশিষ্ট ছিল।",
+            bn: "93:6-8-এর বাণী (যেখানে নবীজি ﷺ-কে স্মরণ করিয়ে দেওয়া হয়েছে যে আল্লাহ তাঁকে অভাবগ্রস্ত পেয়ে সচ্ছল করেছেন) মুফাসসিরগণ এই প্রেক্ষাপটেই পড়েন। সচ্ছলতা এসেছিল একটি বিবাহের মাধ্যমে, আর সেই সম্পদ আল্লাহর পথে ফিরিয়ে দেওয়া হয়েছিল সেই একই বিবাহের মাধ্যমেই। জীবনের শেষে শুরু করার সময় যা ছিল, তার সামান্যই তাঁর হাতে অবশিষ্ট ছিল।",
           },
         ],
       },
@@ -1276,11 +1276,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "She narrated more than two thousand hadith, which places her among the seven most prolific narrators in Islam and makes her the only woman among them. Her transmissions cover prayer, purification, fasting, pilgrimage, inheritance, marriage and divorce, along with a great deal of the Prophet's conduct inside his own home, which nobody outside the household was in a position to report at all.",
-            bn: "তিনি দুই হাজারেরও বেশি হাদিস বর্ণনা করেছেন, যা তাঁকে ইসলামের সাতজন সর্বাধিক বর্ণনাকারীর কাতারে বসিয়েছে—আর তাঁদের মধ্যে তিনিই একমাত্র নারী। তাঁর বর্ণনাগুলো ছড়িয়ে আছে নামাজ, পবিত্রতা, রোজা, হজ, উত্তরাধিকার, বিবাহ ও তালাকের বিধানে, এবং নবীজি ﷺ-এর গৃহাভ্যন্তরীণ আচরণের বিশাল এক অংশে—যা ঘরের বাইরের কেউ বর্ণনা করতে পারতেন না।",
+            bn: "তিনি দুই হাজারেরও বেশি হাদিস বর্ণনা করেছেন, যা তাঁকে ইসলামের সাতজন সর্বাধিক বর্ণনাকারীর কাতারে বসিয়েছে, আর তাঁদের মধ্যে তিনিই একমাত্র নারী। তাঁর বর্ণনাগুলো ছড়িয়ে আছে নামাজ, পবিত্রতা, রোজা, হজ, উত্তরাধিকার, বিবাহ ও তালাকের বিধানে, এবং নবীজি ﷺ-এর গৃহাভ্যন্তরীণ আচরণের বিশাল এক অংশে, যা ঘরের বাইরের কেউ বর্ণনা করতে পারতেন না।",
           },
           {
             en: "Senior Companions came to her with their difficulties. Abu Musa al-Ash'ari (RA) said that they never faced a problem and asked Aishah (RA) about it without finding knowledge of it with her. Her students included Urwah ibn az-Zubayr and al-Qasim ibn Muhammad, both of them among the leading jurists of the following generation, and Masruq and Amrah bint Abd ar-Rahman, through whom much of her teaching entered the schools of law.",
-            bn: "প্রবীণ সাহাবিগণ নিজেদের জটিলতা নিয়ে তাঁর কাছে আসতেন। আবু মুসা আল-আশআরি (রাঃ) বলেছেন, আমরা এমন কোনো সমস্যায় পড়িনি যে বিষয়ে আয়িশা (রাঃ)-কে জিজ্ঞেস করেছি আর তাঁর কাছে তার জ্ঞান পাইনি। তাঁর ছাত্রদের মধ্যে ছিলেন উরওয়া ইবনুয যুবাইর ও কাসিম ইবনে মুহাম্মাদ—দুজনই পরবর্তী প্রজন্মের শীর্ষস্থানীয় ফকিহ—এবং মাসরুক ও আমরা বিনতে আবদির রহমান, যাঁদের মাধ্যমে তাঁর শিক্ষার বড় অংশ ফিকহের মাযহাবগুলোতে প্রবেশ করে।",
+            bn: "প্রবীণ সাহাবিগণ নিজেদের জটিলতা নিয়ে তাঁর কাছে আসতেন। আবু মুসা আল-আশআরি (রাঃ) বলেছেন, আমরা এমন কোনো সমস্যায় পড়িনি যে বিষয়ে আয়িশা (রাঃ)-কে জিজ্ঞেস করেছি আর তাঁর কাছে তার জ্ঞান পাইনি। তাঁর ছাত্রদের মধ্যে ছিলেন উরওয়া ইবনুয যুবাইর ও কাসিম ইবনে মুহাম্মাদ (দুজনই পরবর্তী প্রজন্মের শীর্ষস্থানীয় ফকিহ) এবং মাসরুক ও আমরা বিনতে আবদির রহমান, যাঁদের মাধ্যমে তাঁর শিক্ষার বড় অংশ ফিকহের মাযহাবগুলোতে প্রবেশ করে।",
           },
         ],
       },
@@ -1289,7 +1289,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Her scholarship was critical, not merely retentive. When she was told of a report that the dead are punished for the weeping of the living, she said the narrator had misremembered the setting, and answered from the Quran: no bearer of burdens bears the burden of another, in 35:18. She used the same method repeatedly, weighing a report against the Book and against what she knew of the circumstances.",
-            bn: "তাঁর জ্ঞানচর্চা ছিল যাচাইমূলক, কেবল মুখস্থ রাখার নয়। মৃতকে জীবিতদের কান্নার কারণে শাস্তি দেওয়া হয়—এমন একটি বর্ণনার কথা শুনে তিনি বললেন, বর্ণনাকারী প্রসঙ্গটি ঠিকভাবে মনে রাখতে পারেননি; আর জবাব দিলেন কুরআন থেকে: কোনো বোঝা বহনকারী অন্যের বোঝা বহন করবে না—35:18। এই পদ্ধতিই তিনি বারবার প্রয়োগ করেছেন, বর্ণনাকে কিতাবের সঙ্গে এবং প্রেক্ষাপট সম্পর্কে নিজের জানার সঙ্গে মিলিয়ে দেখে।",
+            bn: "তাঁর জ্ঞানচর্চা ছিল যাচাইমূলক, কেবল মুখস্থ রাখার নয়। মৃতকে জীবিতদের কান্নার কারণে শাস্তি দেওয়া হয়, এমন একটি বর্ণনার কথা শুনে তিনি বললেন, বর্ণনাকারী প্রসঙ্গটি ঠিকভাবে মনে রাখতে পারেননি; আর জবাব দিলেন কুরআন থেকে: কোনো বোঝা বহনকারী অন্যের বোঝা বহন করবে না (35:18)। এই পদ্ধতিই তিনি বারবার প্রয়োগ করেছেন, বর্ণনাকে কিতাবের সঙ্গে এবং প্রেক্ষাপট সম্পর্কে নিজের জানার সঙ্গে মিলিয়ে দেখে।",
           },
           {
             en: "Rulings still practised daily came through her. On one journey a necklace of hers was lost, the search delayed the army in a place with no water, and the verse permitting purification with clean earth was given, in 5:6. Usayd ibn Hudayr (RA) said to her afterwards that this was not the first blessing the family of Abu Bakr had brought to the Muslims.",
@@ -1306,11 +1306,11 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She fell ill and knew nothing of it for weeks. When she learned, she wept until she thought her liver would burst, and went to her parents' house. Her narration of that month, preserved in full in the Sahih collections, is one of the most detailed first-person accounts in early Islamic literature, and she does not spare herself in it: she describes her fear, her anger and her sense of abandonment plainly.",
-            bn: "তিনি অসুস্থ হয়ে পড়েছিলেন এবং কয়েক সপ্তাহ ধরে এ ব্যাপারে কিছুই জানতেন না। জানার পর তিনি এমনভাবে কেঁদেছিলেন যে মনে হচ্ছিল কলিজা ফেটে যাবে, আর চলে গেলেন বাবা-মায়ের ঘরে। সেই মাসের ঘটনা নিয়ে তাঁর বর্ণনা—সহিহ গ্রন্থগুলোতে যা পূর্ণাঙ্গভাবে সংরক্ষিত—প্রাথমিক ইসলামি সাহিত্যের সবচেয়ে বিস্তারিত আত্মকথনগুলোর একটি; আর সেখানে তিনি নিজেকে রেয়াত করেননি: নিজের ভয়, ক্ষোভ ও একাকিত্বের অনুভূতি তিনি স্পষ্টভাবেই বলেছেন।",
+            bn: "তিনি অসুস্থ হয়ে পড়েছিলেন এবং কয়েক সপ্তাহ ধরে এ ব্যাপারে কিছুই জানতেন না। জানার পর তিনি এমনভাবে কেঁদেছিলেন যে মনে হচ্ছিল কলিজা ফেটে যাবে, আর চলে গেলেন বাবা-মায়ের ঘরে। সেই মাসের ঘটনা নিয়ে তাঁর বর্ণনা (সহিহ গ্রন্থগুলোতে যা পূর্ণাঙ্গভাবে সংরক্ষিত) প্রাথমিক ইসলামি সাহিত্যের সবচেয়ে বিস্তারিত আত্মকথনগুলোর একটি; আর সেখানে তিনি নিজেকে রেয়াত করেননি: নিজের ভয়, ক্ষোভ ও একাকিত্বের অনুভূতি তিনি স্পষ্টভাবেই বলেছেন।",
           },
           {
             en: "When the Prophet ﷺ finally came and asked her to repent if she had done wrong, she asked her father to answer for her, and he said he did not know what to say; her mother said the same. Reaching for the words of Ya'qub (AS), she could not recall his name, so she said the father of Yusuf (AS): beautiful patience, and God alone is the one whose help is sought, quoting 12:18. Before the gathering broke up, ten verses were revealed, 24:11-20, declaring her innocence.",
-            bn: "অবশেষে নবীজি ﷺ এসে যখন বললেন, অন্যায় করে থাকলে তওবা করো, তখন তিনি পিতাকে তাঁর পক্ষ থেকে জবাব দিতে বললেন; পিতা বললেন, আমি কী বলব বুঝতে পারছি না। মাও একই কথা বললেন। এরপর ইয়াকুব (আঃ)-এর কথাগুলো বলতে গিয়ে তিনি তাঁর নামটিই মনে করতে পারলেন না, তাই বললেন—ইউসুফ (আঃ)-এর পিতা: সুন্দর ধৈর্য, আর আল্লাহই একমাত্র সাহায্যস্থল—উদ্ধৃত করলেন 12:18। মজলিস ভাঙার আগেই দশটি আয়াত নাজিল হলো, 24:11-20, যা তাঁর নির্দোষিতা ঘোষণা করল।",
+            bn: "অবশেষে নবীজি ﷺ এসে যখন বললেন, অন্যায় করে থাকলে তওবা করো, তখন তিনি পিতাকে তাঁর পক্ষ থেকে জবাব দিতে বললেন; পিতা বললেন, আমি কী বলব বুঝতে পারছি না। মাও একই কথা বললেন। এরপর ইয়াকুব (আঃ)-এর কথাগুলো বলতে গিয়ে তিনি তাঁর নামটিই মনে করতে পারলেন না, তাই বললেন, ইউসুফ (আঃ)-এর পিতা: সুন্দর ধৈর্য, আর আল্লাহই একমাত্র সাহায্যস্থল—উদ্ধৃত করলেন 12:18। মজলিস ভাঙার আগেই দশটি আয়াত নাজিল হলো, 24:11-20, যা তাঁর নির্দোষিতা ঘোষণা করল।",
           },
         ],
       },
@@ -1319,7 +1319,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "The verses do not merely clear a name. They open by telling the believers that this affair, which felt like ruin, is good for them, and then they legislate: do not repeat what you have not verified, do not carry a rumour on your tongues while treating it as a light matter, and require four witnesses before an accusation of this kind is heard at all.",
-            bn: "আয়াতগুলো কেবল একটি নাম নিষ্কলঙ্ক করে না। শুরুতেই ঈমানদারদের বলা হয়, এই ঘটনা—যা ধ্বংস বলে মনে হচ্ছিল—তোমাদের জন্যই কল্যাণকর; এরপর বিধান দেওয়া হয়: যা যাচাই করোনি তা পুনরাবৃত্তি করো না, গুজবকে হালকা বিষয় ভেবে জিহ্বায় বয়ে বেড়িয়ো না, আর এ ধরনের অভিযোগ শোনার আগেই চারজন সাক্ষী দাবি করো।",
+            bn: "আয়াতগুলো কেবল একটি নাম নিষ্কলঙ্ক করে না। শুরুতেই ঈমানদারদের বলা হয়, এই ঘটনা, যা ধ্বংস বলে মনে হচ্ছিল, তোমাদের জন্যই কল্যাণকর; এরপর বিধান দেওয়া হয়: যা যাচাই করোনি তা পুনরাবৃত্তি করো না, গুজবকে হালকা বিষয় ভেবে জিহ্বায় বয়ে বেড়িয়ো না, আর এ ধরনের অভিযোগ শোনার আগেই চারজন সাক্ষী দাবি করো।",
           },
           {
             en: "One consequence was immediate. Abu Bakr (RA) had been supporting a relative who joined in the slander and swore never to help him again; 24:22 asked whether they would not rather love that God forgive them, and he resumed the support at once. Aishah (RA) herself said afterwards that she had never thought God would reveal Quran about her, only that the Prophet ﷺ might see a dream clearing her.",
@@ -1353,7 +1353,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Ibn Mas'ud (RA) narrates that while the Prophet ﷺ was prostrating near the Ka'bah, men of Quraysh threw the filth of a slaughtered camel onto his back and laughed until they fell over one another. He did not raise his head. Fatimah came, still a girl, removed it from him and turned on the men with her tongue. She had learned early that no one else was going to defend her father.",
-            bn: "ইবনে মাসউদ (রাঃ) বর্ণনা করেছেন, নবীজি ﷺ কাবার পাশে সিজদারত অবস্থায় ছিলেন, তখন কুরাইশের কিছু লোক জবাই করা উটের নাড়িভুঁড়ি তাঁর পিঠে ফেলে দেয় এবং হাসতে হাসতে একে অপরের গায়ে ঢলে পড়ে। তিনি মাথা তোলেননি। ফাতিমা এলেন—তখনো বালিকা—তাঁর পিঠ থেকে তা সরিয়ে দিলেন এবং তীব্র ভাষায় ওই লোকদের ভর্ৎসনা করলেন। তিনি অল্প বয়সেই বুঝে গিয়েছিলেন, তাঁর পিতাকে রক্ষা করার আর কেউ নেই।",
+            bn: "ইবনে মাসউদ (রাঃ) বর্ণনা করেছেন, নবীজি ﷺ কাবার পাশে সিজদারত অবস্থায় ছিলেন, তখন কুরাইশের কিছু লোক জবাই করা উটের নাড়িভুঁড়ি তাঁর পিঠে ফেলে দেয় এবং হাসতে হাসতে একে অপরের গায়ে ঢলে পড়ে। তিনি মাথা তোলেননি। ফাতিমা এলেন (তখনো বালিকা), তাঁর পিঠ থেকে তা সরিয়ে দিলেন এবং তীব্র ভাষায় ওই লোকদের ভর্ৎসনা করলেন। তিনি অল্প বয়সেই বুঝে গিয়েছিলেন, তাঁর পিতাকে রক্ষা করার আর কেউ নেই।",
           },
         ],
       },
@@ -1521,7 +1521,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He accepted Islam very early, among the first handful of believers, at a time when doing so brought him no advantage of any kind and every foreseeable harm. Ibn Mas'ud (RA) counted him among the small group who declared their faith openly while the rest were still concealing it, which for a man in his position meant standing entirely exposed, with no clan behind him and an owner who could do as he liked.",
-            bn: "তিনি খুব প্রথম দিকেই ইসলাম গ্রহণ করেন, হাতেগোনা প্রথম ঈমানদারদের একজন হিসেবে—এমন সময়ে, যখন এতে তাঁর কোনো ধরনের সুবিধাই ছিল না, বরং সম্ভাব্য সব ক্ষতিই ছিল। ইবনে মাসউদ (রাঃ) তাঁকে সেই ছোট দলটির মধ্যে গণ্য করেছেন যাঁরা প্রকাশ্যে ঈমান ঘোষণা করেছিলেন, যখন বাকিরা তা গোপন রাখছিলেন—আর তাঁর অবস্থানের একজন মানুষের জন্য এর অর্থ ছিল সম্পূর্ণ অরক্ষিত হয়ে দাঁড়ানো: পেছনে কোনো গোত্র নেই, আর মালিক যা খুশি তা-ই করতে পারে।",
+            bn: "তিনি খুব প্রথম দিকেই ইসলাম গ্রহণ করেন, হাতেগোনা প্রথম ঈমানদারদের একজন হিসেবে, এমন সময়ে, যখন এতে তাঁর কোনো ধরনের সুবিধাই ছিল না, বরং সম্ভাব্য সব ক্ষতিই ছিল। ইবনে মাসউদ (রাঃ) তাঁকে সেই ছোট দলটির মধ্যে গণ্য করেছেন যাঁরা প্রকাশ্যে ঈমান ঘোষণা করেছিলেন, যখন বাকিরা তা গোপন রাখছিলেন। আর তাঁর অবস্থানের একজন মানুষের জন্য এর অর্থ ছিল সম্পূর্ণ অরক্ষিত হয়ে দাঁড়ানো: পেছনে কোনো গোত্র নেই, আর মালিক যা খুশি তা-ই করতে পারে।",
           },
         ],
       },
@@ -1556,11 +1556,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "In Madinah the community needed a way to gather people for prayer. A horn was suggested, and a bell, and a fire on a height, and none was adopted. Then Abdullah ibn Zayd (RA) came with words he had been shown in a dream, and Umar (RA) said he had seen the same. The Prophet ﷺ told him to teach the words to Bilal, because his voice carried further.",
-            bn: "মদিনায় মানুষকে নামাজে জড়ো করার একটি উপায় দরকার হলো। প্রস্তাব এলো শিঙা বাজানোর, ঘণ্টা বাজানোর, উঁচু জায়গায় আগুন জ্বালানোর—কোনোটিই গৃহীত হলো না। এরপর আবদুল্লাহ ইবনে যায়েদ (রাঃ) এলেন স্বপ্নে দেখানো কিছু বাক্য নিয়ে, আর উমর (রাঃ) বললেন তিনিও একই স্বপ্ন দেখেছেন। নবীজি ﷺ তাঁকে বললেন, বাক্যগুলো বিলালকে শিখিয়ে দাও—কারণ তার কণ্ঠ আরও দূরে পৌঁছায়।",
+            bn: "মদিনায় মানুষকে নামাজে জড়ো করার একটি উপায় দরকার হলো। প্রস্তাব এলো শিঙা বাজানোর, ঘণ্টা বাজানোর, উঁচু জায়গায় আগুন জ্বালানোর; কোনোটিই গৃহীত হলো না। এরপর আবদুল্লাহ ইবনে যায়েদ (রাঃ) এলেন স্বপ্নে দেখানো কিছু বাক্য নিয়ে, আর উমর (রাঃ) বললেন তিনিও একই স্বপ্ন দেখেছেন। নবীজি ﷺ তাঁকে বললেন, বাক্যগুলো বিলালকে শিখিয়ে দাও, কারণ তার কণ্ঠ আরও দূরে পৌঁছায়।",
           },
           {
             en: "So the first voice to call Muslims to prayer belonged to a former slave, and it was heard five times a day by everyone in the city, including men who had bought and sold people like him. He also woke the household, carried the Prophet's staff and water for his ablution, and travelled with him on campaign. The office became his so completely that he is known simply as the muezzin of the Messenger of God.",
-            bn: "ফলে মুসলিমদের নামাজের প্রথম আহ্বানটি ধ্বনিত হলো এক সাবেক দাসের কণ্ঠে, আর শহরের সবাই তা শুনত দিনে পাঁচবার—তাদের মধ্যে ছিল সেই লোকেরাও, যারা তাঁর মতো মানুষ কেনাবেচা করত। তিনি ঘরের মানুষদের জাগাতেন, নবীজি ﷺ-এর লাঠি ও অজুর পানি বহন করতেন এবং অভিযানে তাঁর সঙ্গী হতেন। দায়িত্বটি এমনভাবে তাঁরই হয়ে গেল যে তিনি পরিচিতই হলেন সহজভাবে—আল্লাহর রাসুলের মুয়াজ্জিন।",
+            bn: "ফলে মুসলিমদের নামাজের প্রথম আহ্বানটি ধ্বনিত হলো এক সাবেক দাসের কণ্ঠে, আর শহরের সবাই তা শুনত দিনে পাঁচবার, তাদের মধ্যে ছিল সেই লোকেরাও, যারা তাঁর মতো মানুষ কেনাবেচা করত। তিনি ঘরের মানুষদের জাগাতেন, নবীজি ﷺ-এর লাঠি ও অজুর পানি বহন করতেন এবং অভিযানে তাঁর সঙ্গী হতেন। দায়িত্বটি এমনভাবে তাঁরই হয়ে গেল যে তিনি পরিচিতই হলেন সহজভাবে: আল্লাহর রাসুলের মুয়াজ্জিন।",
           },
         ],
       },
@@ -1573,7 +1573,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He stood on the roof of the House and said God is the greatest over the city that had held him down on its sand. Some of the Quraysh remarked bitterly on who had been chosen for it. The point was not lost on anyone: the man they had considered property was now the voice of the sanctuary, and the change had been made deliberately and in public.",
-            bn: "তিনি আল্লাহর ঘরের ছাদে দাঁড়িয়ে ‘আল্লাহু আকবার’ বললেন—সেই শহরের ওপরে, যে শহর তাঁকে বালির ওপর চেপে ধরে রেখেছিল। কুরাইশের কেউ কেউ তিক্তভাবে মন্তব্য করল, এ কাজের জন্য কাকে বেছে নেওয়া হলো। বিষয়টি কারও চোখ এড়ায়নি: যাকে তারা সম্পত্তি মনে করত, সে-ই এখন হারামের কণ্ঠস্বর—আর এই পরিবর্তন ঘটানো হয়েছে সচেতনভাবে, সবার সামনে।",
+            bn: "তিনি আল্লাহর ঘরের ছাদে দাঁড়িয়ে ‘আল্লাহু আকবার’ বললেন, সেই শহরের ওপরে, যে শহর তাঁকে বালির ওপর চেপে ধরে রেখেছিল। কুরাইশের কেউ কেউ তিক্তভাবে মন্তব্য করল, এ কাজের জন্য কাকে বেছে নেওয়া হলো। বিষয়টি কারও চোখ এড়ায়নি: যাকে তারা সম্পত্তি মনে করত, সে-ই এখন হারামের কণ্ঠস্বর। আর এই পরিবর্তন ঘটানো হয়েছে সচেতনভাবে, সবার সামনে।",
           },
         ],
       },
@@ -1651,7 +1651,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "In the fifth year after the migration a coalition of Quraysh and their allies marched on Madinah with a force the city could not meet in the open. Salman (RA) said that in Persia, when they were besieged, they would dig a trench around themselves. The Prophet ﷺ accepted the plan, and the whole community dug for days along the exposed northern side, the Prophet ﷺ carrying earth with them.",
-            bn: "হিজরতের পঞ্চম বছরে কুরাইশ ও তাদের মিত্রদের এক জোট মদিনার দিকে অগ্রসর হয়—এমন এক বাহিনী নিয়ে, যাদের সঙ্গে খোলা ময়দানে লড়া শহরটির পক্ষে সম্ভব ছিল না। সালমান (রাঃ) বললেন, পারস্যে অবরোধের মুখে পড়লে আমরা নিজেদের চারপাশে পরিখা খনন করতাম। নবীজি ﷺ পরিকল্পনাটি গ্রহণ করলেন, আর গোটা সমাজ দিনের পর দিন খনন করল উন্মুক্ত উত্তর দিক ঘেঁষে—নবীজি ﷺ নিজেও তাঁদের সঙ্গে মাটি বইলেন।",
+            bn: "হিজরতের পঞ্চম বছরে কুরাইশ ও তাদের মিত্রদের এক জোট মদিনার দিকে অগ্রসর হয়, এমন এক বাহিনী নিয়ে, যাদের সঙ্গে খোলা ময়দানে লড়া শহরটির পক্ষে সম্ভব ছিল না। সালমান (রাঃ) বললেন, পারস্যে অবরোধের মুখে পড়লে আমরা নিজেদের চারপাশে পরিখা খনন করতাম। নবীজি ﷺ পরিকল্পনাটি গ্রহণ করলেন, আর গোটা সমাজ দিনের পর দিন খনন করল উন্মুক্ত উত্তর দিক ঘেঁষে; নবীজি ﷺ নিজেও তাঁদের সঙ্গে মাটি বইলেন।",
           },
           {
             en: "The trench held. The cavalry that made the coalition formidable could not cross it, the siege dragged on into cold and hunger, their alliance broke apart, and a wind scattered their camp. The Quran describes the fear and the deliverance of those weeks in Surah al-Ahzab, and says in 33:25 that God turned back those who disbelieved in their rage, having gained no good, and sufficed the believers in the fighting.",
@@ -1659,7 +1659,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "While the digging went on, the Muhajirun said Salman is one of us and the Ansar said Salman is one of us. The sira records, though not by the strongest chain, that the Prophet ﷺ ended the argument by saying: Salman is of us, the People of the House. A Persian with no tribe in Arabia was given the only lineage that counted.",
-            bn: "খননের সময় মুহাজিরগণ বললেন, সালমান আমাদের একজন; আর আনসারগণ বললেন, সালমান আমাদের একজন। সিরাতে আছে—যদিও সনদটি সবচেয়ে শক্তিশালী নয়—নবীজি ﷺ বিতর্কটি থামিয়ে দিলেন এই বলে: সালমান আমাদেরই একজন, আহলে বাইতের অন্তর্ভুক্ত। আরবে গোত্রহীন এক পারস্যবাসীকে দেওয়া হলো একমাত্র সেই বংশপরিচয়, যা প্রকৃতপক্ষে গণ্য।",
+            bn: "খননের সময় মুহাজিরগণ বললেন, সালমান আমাদের একজন; আর আনসারগণ বললেন, সালমান আমাদের একজন। সিরাতে আছে (যদিও সনদটি সবচেয়ে শক্তিশালী নয়), নবীজি ﷺ বিতর্কটি থামিয়ে দিলেন এই বলে: সালমান আমাদেরই একজন, আহলে বাইতের অন্তর্ভুক্ত। আরবে গোত্রহীন এক পারস্যবাসীকে দেওয়া হলো একমাত্র সেই বংশপরিচয়, যা প্রকৃতপক্ষে গণ্য।",
           },
         ],
       },
@@ -1668,7 +1668,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Abu Hurayrah (RA) narrates that when 62:3 was recited, mentioning others who have not yet joined the believers, the Companions asked who they were. The Prophet ﷺ placed his hand on Salman (RA) and said that if faith were at the Pleiades, men from among these would reach it. Whole peoples who had not yet heard the message were being pointed to through one man sitting there.",
-            bn: "আবু হুরায়রা (রাঃ) বর্ণনা করেছেন, 62:3 তিলাওয়াত করা হলে—যেখানে ঈমানদারদের সঙ্গে এখনো মিলিত হয়নি এমন অন্যদের কথা এসেছে—সাহাবিগণ জিজ্ঞেস করলেন তাঁরা কারা। নবীজি ﷺ সালমান (রাঃ)-এর ওপর হাত রেখে বললেন, ঈমান যদি সুরাইয়া নক্ষত্রেও থাকত, এদেরই কিছু মানুষ তা পৌঁছে নিয়ে আসত। তখনো যে জাতিগুলোর কাছে বার্তা পৌঁছায়নি, একজন উপবিষ্ট মানুষের দিকে ইঙ্গিত করেই তাদের দেখানো হলো।",
+            bn: "আবু হুরায়রা (রাঃ) বর্ণনা করেছেন, 62:3 তিলাওয়াত করা হলে (যেখানে ঈমানদারদের সঙ্গে এখনো মিলিত হয়নি এমন অন্যদের কথা এসেছে), সাহাবিগণ জিজ্ঞেস করলেন তাঁরা কারা। নবীজি ﷺ সালমান (রাঃ)-এর ওপর হাত রেখে বললেন, ঈমান যদি সুরাইয়া নক্ষত্রেও থাকত, এদেরই কিছু মানুষ তা পৌঁছে নিয়ে আসত। তখনো যে জাতিগুলোর কাছে বার্তা পৌঁছায়নি, একজন উপবিষ্ট মানুষের দিকে ইঙ্গিত করেই তাদের দেখানো হলো।",
           },
           {
             en: "He is remembered too for a piece of practical wisdom. Visiting his brother Abu ad-Darda (RA) and finding him fasting continuously and praying all night while neglecting his wife, he told him: your Lord has a right over you, your body has a right over you, your family has a right over you; give to each its due. The Prophet ﷺ, told of it, said Salman had spoken the truth.",
@@ -1676,7 +1676,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Umar (RA) later appointed him governor of Mada'in, the old Persian capital, so he returned to his birth country as its ruler. He refused a salary, lived on what he earned plaiting palm leaves, wore a cloak he also slept in, and left almost nothing behind. He died there in the caliphate of Uthman (RA), a long life away from the fire he had once been told never to let go out.",
-            bn: "পরে উমর (রাঃ) তাঁকে মাদায়েনের গভর্নর নিযুক্ত করেন—পারস্যের সেই পুরোনো রাজধানীতে; জন্মভূমিতে তিনি ফিরলেন তার শাসক হয়ে। তিনি বেতন নিতে অস্বীকার করেন, খেজুরপাতা বুনে যা আয় হতো তাতেই চলতেন, যে চাদর গায়ে দিতেন তাতেই ঘুমাতেন, আর রেখে গেলেন প্রায় কিছুই না। উসমান (রাঃ)-এর খিলাফতকালে সেখানেই তিনি ইন্তেকাল করেন—সেই আগুন থেকে বহু দূরে, বহু দীর্ঘ এক জীবন পেরিয়ে, যা কখনো নিভতে না দিতে তাঁকে বলা হয়েছিল।",
+            bn: "পরে উমর (রাঃ) তাঁকে মাদায়েনের গভর্নর নিযুক্ত করেন, পারস্যের সেই পুরোনো রাজধানীতে; জন্মভূমিতে তিনি ফিরলেন তার শাসক হয়ে। তিনি বেতন নিতে অস্বীকার করেন, খেজুরপাতা বুনে যা আয় হতো তাতেই চলতেন, যে চাদর গায়ে দিতেন তাতেই ঘুমাতেন, আর রেখে গেলেন প্রায় কিছুই না। উসমান (রাঃ)-এর খিলাফতকালে সেখানেই তিনি ইন্তেকাল করেন, সেই আগুন থেকে বহু দূরে, বহু দীর্ঘ এক জীবন পেরিয়ে, যা কখনো নিভতে না দিতে তাঁকে বলা হয়েছিল।",
           },
         ],
       },
@@ -1702,7 +1702,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "For years the Quran had been read in closed houses and lowered voices. The believers in Makkah agreed among themselves that Quraysh had never once heard it recited openly, and that someone would have to be the first. Abdullah offered himself. They objected that he had no clan strong enough to avenge him if he were harmed, and that the men they feared would answer him with their fists. He replied that Allah would protect him, and went in the morning.",
-            bn: "বছরের পর বছর কুরআন পড়া হয়েছে বন্ধ ঘরে, নিচু স্বরে। মক্কার মুমিনগণ নিজেদের মধ্যে আলোচনা করে দেখলেন, কুরাইশ একবারও প্রকাশ্যে কুরআন শোনেনি, আর কাউকে না কাউকে প্রথম হতে হবে। আবদুল্লাহ নিজেকে পেশ করলেন। সঙ্গীরা আপত্তি তুললেন—তাঁর পেছনে এমন শক্তিশালী গোত্র নেই যারা আঘাতের প্রতিশোধ নিতে পারে, আর যাদের তাঁরা ভয় করেন তারা জবাব দেবে হাতের মার দিয়ে। তিনি বললেন, আল্লাহই তাঁকে রক্ষা করবেন—এবং সকালেই বেরিয়ে পড়লেন।",
+            bn: "বছরের পর বছর কুরআন পড়া হয়েছে বন্ধ ঘরে, নিচু স্বরে। মক্কার মুমিনগণ নিজেদের মধ্যে আলোচনা করে দেখলেন, কুরাইশ একবারও প্রকাশ্যে কুরআন শোনেনি, আর কাউকে না কাউকে প্রথম হতে হবে। আবদুল্লাহ নিজেকে পেশ করলেন। সঙ্গীরা আপত্তি তুললেন: তাঁর পেছনে এমন শক্তিশালী গোত্র নেই যারা আঘাতের প্রতিশোধ নিতে পারে, আর যাদের তাঁরা ভয় করেন তারা জবাব দেবে হাতের মার দিয়ে। তিনি বললেন, আল্লাহই তাঁকে রক্ষা করবেন, এবং সকালেই বেরিয়ে পড়লেন।",
           },
           {
             en: "He stood at the Station of Ibrahim while the chiefs sat in their circles, and he raised his voice with 55:1-4 — the Most Merciful, who taught the Quran, created man, taught him clear speech. They struck him in the face until it was cut and swollen. He came back and said that the enemies of Allah had never been more contemptible in his eyes, and that he would go again the next morning if they wished.",
@@ -1728,7 +1728,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "The Prophet ﷺ named four men and said, take the Quran from them, and began with Ibn Umm Abd — Abdullah ibn Masud. It is also reported that he ﷺ said whoever wished to recite the Quran fresh, as it was sent down, should recite it in the reading of Ibn Umm Abd. Ibn Masud held that no verse had been revealed without his knowing where and why, and no one who knew him disputed it.",
-            bn: "নবীজি ﷺ চারজনের নাম নিয়ে বলেছিলেন, তাঁদের কাছ থেকে কুরআন শেখো—আর শুরু করেছিলেন ইবনে উম্মে আবদ, অর্থাৎ আবদুল্লাহ ইবনে মাসউদকে দিয়ে। তাঁর ﷺ থেকে এও বর্ণিত যে, যে ব্যক্তি কুরআনকে নাজিলের সময়কার সজীবতায় পড়তে চায়, সে যেন ইবনে উম্মে আবদের কিরাআতে পড়ে। ইবনে মাসউদ বলতেন, এমন কোনো আয়াত নেই যার নাজিলের স্থান ও কারণ তাঁর জানা নেই—আর যাঁরা তাঁকে চিনতেন, কেউ তা অস্বীকার করেননি।",
+            bn: "নবীজি ﷺ চারজনের নাম নিয়ে বলেছিলেন, তাঁদের কাছ থেকে কুরআন শেখো; আর শুরু করেছিলেন ইবনে উম্মে আবদ, অর্থাৎ আবদুল্লাহ ইবনে মাসউদকে দিয়ে। তাঁর ﷺ থেকে এও বর্ণিত যে, যে ব্যক্তি কুরআনকে নাজিলের সময়কার সজীবতায় পড়তে চায়, সে যেন ইবনে উম্মে আবদের কিরাআতে পড়ে। ইবনে মাসউদ বলতেন, এমন কোনো আয়াত নেই যার নাজিলের স্থান ও কারণ তাঁর জানা নেই, আর যাঁরা তাঁকে চিনতেন, কেউ তা অস্বীকার করেননি।",
           },
           {
             en: "One day the Prophet ﷺ asked him to recite. He said, shall I recite to you when it was revealed to you? The Prophet ﷺ answered that he loved to hear it from another. So he read from Surah an-Nisa until he reached 4:41 — how will it be when We bring from every nation a witness, and bring you against these as a witness — and the Prophet ﷺ said, that is enough. Abdullah looked up and saw that the Prophet's ﷺ eyes were overflowing with tears.",
@@ -1801,7 +1801,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He also said that were it not for two verses in the Book of Allah he would never have narrated a single hadith, and he recited 2:159-160, the warning against concealing the clear guidance that has been revealed. And when he once complained of forgetting, he was told to spread his garment; he spread it, gathered it to his chest when the Prophet ﷺ finished speaking, and said he never forgot anything after that day.",
-            bn: "তিনি আরও বলতেন, আল্লাহর কিতাবের দুটি আয়াত না থাকলে তিনি একটি হাদিসও বর্ণনা করতেন না; এরপর তিনি পড়তেন 2:159-160—নাজিলকৃত সুস্পষ্ট হিদায়াত গোপন করার বিরুদ্ধে কঠিন সতর্কবাণী। আর একবার ভুলে যাওয়ার অভিযোগ করলে তাঁকে বলা হয় চাদর বিছিয়ে দিতে; তিনি বিছিয়ে দিলেন, নবীজি ﷺ কথা শেষ করার পর তা বুকে জড়িয়ে নিলেন—এবং বলতেন, সেদিনের পর তিনি আর কিছুই ভোলেননি।",
+            bn: "তিনি আরও বলতেন, আল্লাহর কিতাবের দুটি আয়াত না থাকলে তিনি একটি হাদিসও বর্ণনা করতেন না; এরপর তিনি পড়তেন 2:159-160, নাজিলকৃত সুস্পষ্ট হিদায়াত গোপন করার বিরুদ্ধে কঠিন সতর্কবাণী। আর একবার ভুলে যাওয়ার অভিযোগ করলে তাঁকে বলা হয় চাদর বিছিয়ে দিতে; তিনি বিছিয়ে দিলেন, নবীজি ﷺ কথা শেষ করার পর তা বুকে জড়িয়ে নিলেন, এবং বলতেন, সেদিনের পর তিনি আর কিছুই ভোলেননি।",
           },
         ],
       },
@@ -1814,7 +1814,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He went back and asked for one more supplication: that he and his mother be made beloved to the believing servants of Allah. That prayer, he believed, was answered in every generation that has read his name in a chain of narration since. He served her until she died, and would stand at her door and greet her before entering, in the manner the Quran commands towards parents in 17:23.",
-            bn: "তিনি ফিরে গিয়ে আরেকটি দোয়া চাইলেন—যেন তিনি ও তাঁর মা আল্লাহর মুমিন বান্দাদের কাছে প্রিয় হয়ে যান। তিনি বিশ্বাস করতেন, প্রতিটি যুগে যাঁরা কোনো সনদে তাঁর নাম পড়েছেন, তাঁদের মাধ্যমেই সেই দোয়া কবুল হয়েছে। মায়ের মৃত্যু পর্যন্ত তিনি তাঁর সেবা করেছেন; ঘরে ঢোকার আগে দরজায় দাঁড়িয়ে সালাম দিতেন—ঠিক যেভাবে 17:23-এ কুরআন পিতামাতার প্রতি আচরণের নির্দেশ দিয়েছে।",
+            bn: "তিনি ফিরে গিয়ে আরেকটি দোয়া চাইলেন, যেন তিনি ও তাঁর মা আল্লাহর মুমিন বান্দাদের কাছে প্রিয় হয়ে যান। তিনি বিশ্বাস করতেন, প্রতিটি যুগে যাঁরা কোনো সনদে তাঁর নাম পড়েছেন, তাঁদের মাধ্যমেই সেই দোয়া কবুল হয়েছে। মায়ের মৃত্যু পর্যন্ত তিনি তাঁর সেবা করেছেন; ঘরে ঢোকার আগে দরজায় দাঁড়িয়ে সালাম দিতেন, ঠিক যেভাবে 17:23-এ কুরআন পিতামাতার প্রতি আচরণের নির্দেশ দিয়েছে।",
           },
         ],
       },
@@ -1827,7 +1827,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The scholars answer it on solid ground. The figure of over five thousand counts every chain separately, so the distinct reports are far fewer. Much of what he transmitted he took from senior companions and then reported, as the critics of hadith well knew and recorded. He was examined like everyone else: his narrations were compared, cross-checked and graded, and senior companions themselves narrated from him. Volume alone was never his proof, and the men who built the science of hadith never treated it as one.",
-            bn: "আলেমগণ এর জবাব দিয়েছেন দৃঢ় ভিত্তির ওপর। পাঁচ হাজারের বেশি বলে যে সংখ্যা, তাতে প্রতিটি সনদ আলাদা করে গোনা হয়েছে—ফলে স্বতন্ত্র মূল বর্ণনার সংখ্যা অনেক কম। তাঁর বর্ণিত বহু হাদিস তিনি প্রবীণ সাহাবিদের কাছ থেকে নিয়ে বর্ণনা করেছেন, যা হাদিস-সমালোচকগণ ভালোভাবেই জানতেন ও লিপিবদ্ধ করেছেন। সবার মতো তাঁকেও যাচাই করা হয়েছে: তাঁর বর্ণনা মিলিয়ে দেখা হয়েছে, তুলনা করা হয়েছে, মান নির্ধারণ করা হয়েছে—আর প্রবীণ সাহাবিগণ নিজেরাই তাঁর থেকে বর্ণনা করেছেন। কেবল সংখ্যা কখনোই তাঁর প্রমাণ ছিল না, আর হাদিসশাস্ত্রের নির্মাতারাও তা প্রমাণ হিসেবে নেননি।",
+            bn: "আলেমগণ এর জবাব দিয়েছেন দৃঢ় ভিত্তির ওপর। পাঁচ হাজারের বেশি বলে যে সংখ্যা, তাতে প্রতিটি সনদ আলাদা করে গোনা হয়েছে, ফলে স্বতন্ত্র মূল বর্ণনার সংখ্যা অনেক কম। তাঁর বর্ণিত বহু হাদিস তিনি প্রবীণ সাহাবিদের কাছ থেকে নিয়ে বর্ণনা করেছেন, যা হাদিস-সমালোচকগণ ভালোভাবেই জানতেন ও লিপিবদ্ধ করেছেন। সবার মতো তাঁকেও যাচাই করা হয়েছে: তাঁর বর্ণনা মিলিয়ে দেখা হয়েছে, তুলনা করা হয়েছে, মান নির্ধারণ করা হয়েছে। আর প্রবীণ সাহাবিগণ নিজেরাই তাঁর থেকে বর্ণনা করেছেন। কেবল সংখ্যা কখনোই তাঁর প্রমাণ ছিল না, আর হাদিসশাস্ত্রের নির্মাতারাও তা প্রমাণ হিসেবে নেননি।",
           },
         ],
       },
@@ -1853,11 +1853,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "He was born to al-Abbas ibn Abd al-Muttalib in the years when Banu Hashim were shut into their quarter and boycotted by Quraysh, a few years before the Hijrah. He was therefore a child of the household of the Prophet ﷺ by blood and by daily contact, and his mother Umm al-Fadl was among the earliest women to accept Islam. He grew up seeing revelation arrive, not hearing about it from a distance.",
-            bn: "তাঁর জন্ম আল-আব্বাস ইবনে আবদুল মুত্তালিবের ঘরে—সেই বছরগুলোতে, যখন বনু হাশিমকে তাদের মহল্লায় আবদ্ধ করে কুরাইশ বয়কট চালিয়েছিল; হিজরতের কয়েক বছর আগে। ফলে রক্তের সম্পর্কে ও প্রতিদিনের সান্নিধ্যে তিনি ছিলেন নবীজি ﷺ-এর পরিবারেরই সন্তান, আর তাঁর মা উম্মুল ফদল ছিলেন সর্বপ্রথম ইসলাম গ্রহণকারী নারীদের একজন। তিনি বড় হয়েছেন ওহি নাজিল হতে দেখে—দূর থেকে তার খবর শুনে নয়।",
+            bn: "তাঁর জন্ম আল-আব্বাস ইবনে আবদুল মুত্তালিবের ঘরে, সেই বছরগুলোতে, যখন বনু হাশিমকে তাদের মহল্লায় আবদ্ধ করে কুরাইশ বয়কট চালিয়েছিল; হিজরতের কয়েক বছর আগে। ফলে রক্তের সম্পর্কে ও প্রতিদিনের সান্নিধ্যে তিনি ছিলেন নবীজি ﷺ-এর পরিবারেরই সন্তান, আর তাঁর মা উম্মুল ফদল ছিলেন সর্বপ্রথম ইসলাম গ্রহণকারী নারীদের একজন। তিনি বড় হয়েছেন ওহি নাজিল হতে দেখে, দূর থেকে তার খবর শুনে নয়।",
           },
           {
             en: "He was still a boy when the Prophet ﷺ died — the reports place him at about thirteen — and this is the fact that makes his later standing remarkable. He did not have decades of companionship to draw on. He had a handful of years as a child, an exact memory, and after that a lifetime of hunting down what the older men knew and testing it.",
-            bn: "নবীজি ﷺ-এর ইন্তেকালের সময় তিনি ছিলেন বালক—বর্ণনাগুলো তাঁর বয়স আনুমানিক তেরো বলে; আর এই তথ্যটিই তাঁর পরবর্তী মর্যাদাকে বিস্ময়কর করে তোলে। দীর্ঘ কয়েক দশকের সাহচর্য তাঁর ছিল না। ছিল শৈশবের হাতেগোনা কয়েকটি বছর, নিখুঁত এক স্মৃতিশক্তি, আর তারপর সারাটি জীবন—প্রবীণদের জানা বিষয়গুলো খুঁজে বের করা ও যাচাই করার সাধনা।",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের সময় তিনি ছিলেন বালক (বর্ণনাগুলো তাঁর বয়স আনুমানিক তেরো বলে); আর এই তথ্যটিই তাঁর পরবর্তী মর্যাদাকে বিস্ময়কর করে তোলে। দীর্ঘ কয়েক দশকের সাহচর্য তাঁর ছিল না। ছিল শৈশবের হাতেগোনা কয়েকটি বছর, নিখুঁত এক স্মৃতিশক্তি, আর তারপর সারাটি জীবন: প্রবীণদের জানা বিষয়গুলো খুঁজে বের করা ও যাচাই করার সাধনা।",
           },
         ],
       },
@@ -1879,11 +1879,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "After the Prophet ﷺ died he told a young Ansari that the companions were many and would not last forever, and proposed that they go together and learn from them. The young man saw no need for it. Abdullah went alone. He would walk to the house of a companion who had heard a hadith he wanted, and if the man was resting he would not knock.",
-            bn: "নবীজি ﷺ-এর ইন্তেকালের পর তিনি এক তরুণ আনসারিকে বলেছিলেন—সাহাবিগণ এখন বহু, কিন্তু তাঁরা চিরকাল থাকবেন না; চলো আমরা একসঙ্গে তাঁদের কাছ থেকে শিখি। তরুণটি এর প্রয়োজন দেখেননি। আবদুল্লাহ একাই বেরিয়ে পড়লেন। যাঁর কাছে তাঁর কাঙ্ক্ষিত কোনো হাদিস আছে, সেই সাহাবির বাড়িতে গিয়ে দেখতেন তিনি বিশ্রামে আছেন—তখন তিনি দরজায় কড়া নাড়তেন না।",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর তিনি এক তরুণ আনসারিকে বলেছিলেন, সাহাবিগণ এখন বহু, কিন্তু তাঁরা চিরকাল থাকবেন না; চলো আমরা একসঙ্গে তাঁদের কাছ থেকে শিখি। তরুণটি এর প্রয়োজন দেখেননি। আবদুল্লাহ একাই বেরিয়ে পড়লেন। যাঁর কাছে তাঁর কাঙ্ক্ষিত কোনো হাদিস আছে, সেই সাহাবির বাড়িতে গিয়ে দেখতেন তিনি বিশ্রামে আছেন, তখন তিনি দরজায় কড়া নাড়তেন না।",
           },
           {
             en: "He would spread his cloak at the threshold and wait in the wind until the man woke and came out, astonished, saying: cousin of the Messenger of Allah, why did you not send for me? He answered that knowledge is more deserving of being visited than of being summoned. Years later, when crowds gathered at his own door, the same Ansari saw it and said that this boy had been wiser than he was.",
-            bn: "চৌকাঠে নিজের চাদর বিছিয়ে বাতাসের মধ্যে অপেক্ষা করতেন, যতক্ষণ না লোকটি ঘুম থেকে উঠে বিস্মিত হয়ে বেরিয়ে এসে বলতেন—হে আল্লাহর রাসূলের চাচাতো ভাই, আমাকে ডেকে পাঠালেন না কেন? তিনি বলতেন, জ্ঞানকে ডেকে আনার চেয়ে তার কাছে যাওয়াই তার হক। বহু বছর পর যখন তাঁর নিজের দরজায় মানুষের ভিড় জমত, সেই আনসারি তা দেখে বলেছিলেন—এই বালকটি আমার চেয়ে বেশি বুদ্ধিমান ছিল।",
+            bn: "চৌকাঠে নিজের চাদর বিছিয়ে বাতাসের মধ্যে অপেক্ষা করতেন, যতক্ষণ না লোকটি ঘুম থেকে উঠে বিস্মিত হয়ে বেরিয়ে এসে বলতেন, হে আল্লাহর রাসূলের চাচাতো ভাই, আমাকে ডেকে পাঠালেন না কেন? তিনি বলতেন, জ্ঞানকে ডেকে আনার চেয়ে তার কাছে যাওয়াই তার হক। বহু বছর পর যখন তাঁর নিজের দরজায় মানুষের ভিড় জমত, সেই আনসারি তা দেখে বলেছিলেন, এই বালকটি আমার চেয়ে বেশি বুদ্ধিমান ছিল।",
           },
         ],
       },
@@ -1892,11 +1892,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Umar (RA) used to seat him in his council with the veterans of Badr, and some of them resented it, asking why this youth sat with them when they had sons his age. Umar answered by asking the gathering about the surah beginning with the coming of the help of Allah and the opening. They said it was a command to praise Allah and seek His forgiveness when victory came.",
-            bn: "উমর (রাঃ) তাঁকে বদরের প্রবীণ যোদ্ধাদের সঙ্গে নিজের পরামর্শসভায় বসাতেন; তাঁদের কেউ কেউ তাতে অসন্তুষ্ট হয়ে প্রশ্ন তুলতেন—আমাদের ঘরে তো এই বয়সী ছেলে আছে, তবু এই তরুণ আমাদের সঙ্গে বসে কেন? উমর জবাব দিলেন সভাকে একটি প্রশ্ন করে—আল্লাহর সাহায্য ও বিজয় আসার কথা দিয়ে শুরু হওয়া সুরাটি সম্পর্কে। তাঁরা বললেন, বিজয় এলে আল্লাহর প্রশংসা ও ক্ষমা প্রার্থনার নির্দেশ এতে রয়েছে।",
+            bn: "উমর (রাঃ) তাঁকে বদরের প্রবীণ যোদ্ধাদের সঙ্গে নিজের পরামর্শসভায় বসাতেন; তাঁদের কেউ কেউ তাতে অসন্তুষ্ট হয়ে প্রশ্ন তুলতেন: আমাদের ঘরে তো এই বয়সী ছেলে আছে, তবু এই তরুণ আমাদের সঙ্গে বসে কেন? উমর জবাব দিলেন সভাকে একটি প্রশ্ন করে, আল্লাহর সাহায্য ও বিজয় আসার কথা দিয়ে শুরু হওয়া সুরাটি সম্পর্কে। তাঁরা বললেন, বিজয় এলে আল্লাহর প্রশংসা ও ক্ষমা প্রার্থনার নির্দেশ এতে রয়েছে।",
           },
           {
             en: "Then he turned to Abdullah, who said it was the announcement of the Prophet's ﷺ approaching death, made known to him in 110:1-3: when the help came and the people entered the religion in crowds, his task was complete and he was told to prepare to meet his Lord. Umar said that he knew of it only what the boy had said, and no one questioned the seating again.",
-            bn: "এরপর তিনি আবদুল্লাহর দিকে ফিরলেন, আর তিনি বললেন—এটি ছিল নবীজি ﷺ-এর আসন্ন বিদায়ের ঘোষণা, যা 110:1-3-এ তাঁকে জানানো হয়েছিল: সাহায্য এসে গেলে ও মানুষ দলে দলে দ্বীনে প্রবেশ করলে তাঁর কাজ পূর্ণ হলো, আর তাঁকে বলা হলো প্রভুর সাক্ষাতের প্রস্তুতি নিতে। উমর বললেন, তিনি নিজেও এ বিষয়ে তা-ই জানেন যা এই বালক বলল—এরপর আসন নিয়ে আর কেউ প্রশ্ন তোলেনি।",
+            bn: "এরপর তিনি আবদুল্লাহর দিকে ফিরলেন, আর তিনি বললেন, এটি ছিল নবীজি ﷺ-এর আসন্ন বিদায়ের ঘোষণা, যা 110:1-3-এ তাঁকে জানানো হয়েছিল: সাহায্য এসে গেলে ও মানুষ দলে দলে দ্বীনে প্রবেশ করলে তাঁর কাজ পূর্ণ হলো, আর তাঁকে বলা হলো প্রভুর সাক্ষাতের প্রস্তুতি নিতে। উমর বললেন, তিনি নিজেও এ বিষয়ে তা-ই জানেন যা এই বালক বলল। এরপর আসন নিয়ে আর কেউ প্রশ্ন তোলেনি।",
           },
         ],
       },
@@ -1905,7 +1905,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "The names the ummah gave him say what it thought of him: al-Bahr, the ocean, for the depth he could be drawn from without emptying, and Tarjuman al-Quran, the interpreter of the Quran. His method was disciplined. He explained the Book first by the Book, then by what the Prophet ﷺ had said, then by the circumstances of revelation he had verified from those present, and only then by the plain speech of the Arabs.",
-            bn: "উম্মাহ তাঁকে যে উপাধিগুলো দিয়েছে, তাতেই বোঝা যায় তাঁর সম্পর্কে ধারণা কী ছিল: 'আল-বাহর'—সমুদ্র, কারণ যত তোলা হোক তা নিঃশেষ হতো না; আর 'তারজুমানুল কুরআন'—কুরআনের ব্যাখ্যাকার। তাঁর পদ্ধতি ছিল সুশৃঙ্খল। তিনি কিতাবের ব্যাখ্যা করতেন প্রথমে কিতাব দিয়ে, তারপর নবীজি ﷺ-এর বক্তব্য দিয়ে, তারপর উপস্থিত সাহাবিদের কাছ থেকে যাচাই করা শানে নুজুল দিয়ে, আর সবশেষে আরবদের প্রচলিত ভাষা-প্রয়োগ দিয়ে।",
+            bn: "উম্মাহ তাঁকে যে উপাধিগুলো দিয়েছে, তাতেই বোঝা যায় তাঁর সম্পর্কে ধারণা কী ছিল: 'আল-বাহর' (সমুদ্র), কারণ যত তোলা হোক তা নিঃশেষ হতো না; আর 'তারজুমানুল কুরআন' (কুরআনের ব্যাখ্যাকার)। তাঁর পদ্ধতি ছিল সুশৃঙ্খল। তিনি কিতাবের ব্যাখ্যা করতেন প্রথমে কিতাব দিয়ে, তারপর নবীজি ﷺ-এর বক্তব্য দিয়ে, তারপর উপস্থিত সাহাবিদের কাছ থেকে যাচাই করা শানে নুজুল দিয়ে, আর সবশেষে আরবদের প্রচলিত ভাষা-প্রয়োগ দিয়ে।",
           },
           {
             en: "He knew the limits of the method too, and would recite 3:7 on those who are firm in knowledge and say they believe in it, all of it being from their Lord. When the Haruriyyah broke away over verses they had taken out of place, he was sent to argue with them, and he did it verse by verse until a large number of them abandoned the position and returned.",
@@ -1935,7 +1935,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "He was a young man of the Khazraj in Yathrib, tall, striking in appearance and known for open-handedness, when the delegation went out at night to the hill of Aqabah to give the Prophet ﷺ their pledge. He was among the youngest there. He returned to a city that had not yet accepted Islam and took part in breaking up the idols of his own people's houses.",
-            bn: "ইয়াসরিবের খাযরাজ গোত্রের এক তরুণ—দীর্ঘদেহী, সুদর্শন এবং উদারতার জন্য পরিচিত—তিনি সেই প্রতিনিধিদলে ছিলেন, যারা রাতের অন্ধকারে আকাবার পাহাড়ে গিয়ে নবীজি ﷺ-এর হাতে বাইআত করে। উপস্থিতদের মধ্যে তিনিই ছিলেন সবচেয়ে কমবয়সীদের একজন। ফিরে এলেন এমন এক শহরে যা তখনো ইসলাম গ্রহণ করেনি, আর নিজ গোত্রের ঘরে ঘরে থাকা মূর্তি ভাঙার কাজে অংশ নিলেন।",
+            bn: "ইয়াসরিবের খাযরাজ গোত্রের এক তরুণ (দীর্ঘদেহী, সুদর্শন এবং উদারতার জন্য পরিচিত), তিনি সেই প্রতিনিধিদলে ছিলেন, যারা রাতের অন্ধকারে আকাবার পাহাড়ে গিয়ে নবীজি ﷺ-এর হাতে বাইআত করে। উপস্থিতদের মধ্যে তিনিই ছিলেন সবচেয়ে কমবয়সীদের একজন। ফিরে এলেন এমন এক শহরে যা তখনো ইসলাম গ্রহণ করেনি, আর নিজ গোত্রের ঘরে ঘরে থাকা মূর্তি ভাঙার কাজে অংশ নিলেন।",
           },
           {
             en: "When the Prophet ﷺ came to Madinah, Muadh attached himself to him and fought at Badr while still very young. What set him apart was not the sword. He memorised the Quran in the Prophet's ﷺ lifetime and was already giving legal answers to people while the Prophet ﷺ was alive — a thing very few of the young companions did.",
@@ -1948,7 +1948,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "The Prophet ﷺ named four men from whom the Quran should be taken, and Muadh was one of them. He also said, in a report transmitted in the Sunan, that the most knowledgeable of his ummah concerning the lawful and the unlawful was Muadh ibn Jabal. That is a precise praise. It is not about memory or eloquence but about the hardest branch of knowledge: knowing where the line falls in a real case.",
-            bn: "নবীজি ﷺ চারজনের নাম নিয়ে বলেছিলেন, তাঁদের কাছ থেকে কুরআন শেখো—মুয়াজ তাঁদের একজন। সুনানের গ্রন্থে বর্ণিত আরেকটি হাদিসে তিনি বলেছেন, হালাল ও হারাম সম্পর্কে তাঁর উম্মতের মধ্যে সর্বাধিক জ্ঞানী মুয়াজ ইবনে জাবাল। প্রশংসাটি খুবই সুনির্দিষ্ট। এটি স্মৃতিশক্তি বা বাগ্মিতার প্রশংসা নয়, বরং জ্ঞানের সবচেয়ে কঠিন শাখার—বাস্তব ঘটনায় সীমারেখা কোথায় পড়ে, তা চেনার।",
+            bn: "নবীজি ﷺ চারজনের নাম নিয়ে বলেছিলেন, তাঁদের কাছ থেকে কুরআন শেখো; মুয়াজ তাঁদের একজন। সুনানের গ্রন্থে বর্ণিত আরেকটি হাদিসে তিনি বলেছেন, হালাল ও হারাম সম্পর্কে তাঁর উম্মতের মধ্যে সর্বাধিক জ্ঞানী মুয়াজ ইবনে জাবাল। প্রশংসাটি খুবই সুনির্দিষ্ট। এটি স্মৃতিশক্তি বা বাগ্মিতার প্রশংসা নয়, বরং জ্ঞানের সবচেয়ে কঠিন শাখার: বাস্তব ঘটনায় সীমারেখা কোথায় পড়ে, তা চেনার।",
           },
           {
             en: "That was the qualification the community needed most as it grew beyond Madinah. New peoples were entering Islam with their own customs, contracts and disputes, and someone had to say what stood and what fell. Muadh had the two things the work requires: the texts by heart, and the temperament to apply them without harshness. He was consulted in his youth by men twice his age.",
@@ -1961,7 +1961,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "The Prophet ﷺ sent him to Yemen as teacher, judge and governor. His instructions are preserved in the two Sahihs and they are a manual of how to enter a society without breaking it. You are going to a people of the Book, he was told; let the first thing you call them to be the witness that there is no god but Allah and that I am the Messenger of Allah.",
-            bn: "নবীজি ﷺ তাঁকে শিক্ষক, বিচারক ও গভর্নর হিসেবে ইয়েমেনে পাঠান। তাঁকে দেওয়া নির্দেশনা সহিহ বুখারি ও মুসলিমে সংরক্ষিত, আর তা যেন একটি সমাজে প্রবেশের—তাকে ভেঙে না ফেলে—পূর্ণাঙ্গ নির্দেশিকা। তোমাকে বলা হলো, তুমি আহলে কিতাব এক জাতির কাছে যাচ্ছ; সর্বপ্রথম তাদের ডাকো এই সাক্ষ্যের দিকে যে আল্লাহ ছাড়া কোনো ইলাহ নেই এবং আমি আল্লাহর রাসূল।",
+            bn: "নবীজি ﷺ তাঁকে শিক্ষক, বিচারক ও গভর্নর হিসেবে ইয়েমেনে পাঠান। তাঁকে দেওয়া নির্দেশনা সহিহ বুখারি ও মুসলিমে সংরক্ষিত, আর তা যেন একটি সমাজে প্রবেশের (তাকে ভেঙে না ফেলে) পূর্ণাঙ্গ নির্দেশিকা। তোমাকে বলা হলো, তুমি আহলে কিতাব এক জাতির কাছে যাচ্ছ; সর্বপ্রথম তাদের ডাকো এই সাক্ষ্যের দিকে যে আল্লাহ ছাড়া কোনো ইলাহ নেই এবং আমি আল্লাহর রাসূল।",
           },
           {
             en: "If they obey in that, teach them that Allah has obliged five prayers in each day and night. If they obey in that, teach them that Allah has obliged a charity taken from their rich and returned to their poor. Then two warnings: do not take the choicest of their property, and beware the supplication of the wronged, for between it and Allah there is no barrier. He was also told to make matters easy and not hard, to give glad tidings and not drive people away.",
@@ -1978,7 +1978,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Whatever the strength of its chain, jurists have taken the order it describes as sound in itself, because it is the order the Quran and the sunnah themselves establish. Text first, then the practice of the Prophet ﷺ, then careful reasoning within their bounds — never reasoning that overrides them. It is the same discipline the Quran points to in 4:59, where disputes are referred back to Allah and the Messenger.",
-            bn: "এর সনদের শক্তি যেমনই হোক, ফকিহগণ এতে বর্ণিত ধারাক্রমকে নিজস্বভাবেই সঠিক গণ্য করেছেন—কারণ এই ধারাক্রম কুরআন ও সুন্নাহ নিজেই প্রতিষ্ঠা করেছে। প্রথমে নস, তারপর নবীজি ﷺ-এর আমল, তারপর সেই সীমার ভেতরে সতর্ক যুক্তি—কখনোই এমন যুক্তি নয় যা এদের ওপরে যায়। কুরআন 4:59-এ এই একই শৃঙ্খলার দিকেই ইঙ্গিত করেছে, যেখানে বিরোধ মীমাংসার জন্য আল্লাহ ও রাসূলের দিকে ফিরিয়ে দিতে বলা হয়েছে।",
+            bn: "এর সনদের শক্তি যেমনই হোক, ফকিহগণ এতে বর্ণিত ধারাক্রমকে নিজস্বভাবেই সঠিক গণ্য করেছেন, কারণ এই ধারাক্রম কুরআন ও সুন্নাহ নিজেই প্রতিষ্ঠা করেছে। প্রথমে নস, তারপর নবীজি ﷺ-এর আমল, তারপর সেই সীমার ভেতরে সতর্ক যুক্তি; কখনোই এমন যুক্তি নয় যা এদের ওপরে যায়। কুরআন 4:59-এ এই একই শৃঙ্খলার দিকেই ইঙ্গিত করেছে, যেখানে বিরোধ মীমাংসার জন্য আল্লাহ ও রাসূলের দিকে ফিরিয়ে দিতে বলা হয়েছে।",
           },
         ],
       },
@@ -1987,7 +1987,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "The Prophet ﷺ walked out with him as he set off, Muadh riding and the Prophet ﷺ on foot beside his mount. He told him that perhaps he would not meet him again after this year, and that perhaps he would pass by his mosque and his grave. Muadh wept at parting from the Messenger of Allah ﷺ, and it happened as he had been told.",
-            bn: "রওনা হওয়ার সময় নবীজি ﷺ তাঁর সঙ্গে কিছুদূর হেঁটে গেলেন—মুয়াজ ছিলেন সওয়ারিতে, আর নবীজি ﷺ তাঁর বাহনের পাশে পায়ে হেঁটে। তিনি বললেন, হয়তো এ বছরের পর তোমার সঙ্গে আর দেখা হবে না; হয়তো তুমি আমার মসজিদ ও আমার কবরের পাশ দিয়ে যাবে। আল্লাহর রাসূল ﷺ থেকে বিচ্ছেদের কষ্টে মুয়াজ কেঁদে ফেললেন—আর ঘটলও ঠিক যেমনটি তাঁকে বলা হয়েছিল।",
+            bn: "রওনা হওয়ার সময় নবীজি ﷺ তাঁর সঙ্গে কিছুদূর হেঁটে গেলেন; মুয়াজ ছিলেন সওয়ারিতে, আর নবীজি ﷺ তাঁর বাহনের পাশে পায়ে হেঁটে। তিনি বললেন, হয়তো এ বছরের পর তোমার সঙ্গে আর দেখা হবে না; হয়তো তুমি আমার মসজিদ ও আমার কবরের পাশ দিয়ে যাবে। আল্লাহর রাসূল ﷺ থেকে বিচ্ছেদের কষ্টে মুয়াজ কেঁদে ফেললেন। আর ঘটলও ঠিক যেমনটি তাঁকে বলা হয়েছিল।",
           },
           {
             en: "On another occasion the Prophet ﷺ took him by the hand and said, Muadh, by Allah I love you; then do not fail to say at the end of every prayer: O Allah, help me to remember You, to thank You, and to worship You well. A man entrusted with authority over a province was given, as his parting equipment, an instruction to keep his own heart in order first.",
@@ -2047,7 +2047,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "They did not say it. The Prophet ﷺ passed by them while it was happening and could do nothing to stop it — he had no power in Makkah in those years — and he said to them: patience, family of Yasir, for your appointed place is Paradise. That is the whole of the comfort available at that moment, and it was enough for them.",
-            bn: "তাঁরা তা বলেননি। ঘটনাটি ঘটার সময় নবীজি ﷺ তাঁদের পাশ দিয়ে যান, কিন্তু তা থামানোর কোনো ক্ষমতা তাঁর ছিল না—সেই বছরগুলোতে মক্কায় তাঁর কোনো শক্তি ছিল না—আর তিনি তাঁদের বললেন: ধৈর্য ধরো, হে ইয়াসিরের পরিবার, তোমাদের নির্ধারিত ঠিকানা জান্নাত। ওই মুহূর্তে যতটুকু সান্ত্বনা সম্ভব ছিল, এটুকুই; আর তাঁদের জন্য তা যথেষ্ট ছিল।",
+            bn: "তাঁরা তা বলেননি। ঘটনাটি ঘটার সময় নবীজি ﷺ তাঁদের পাশ দিয়ে যান, কিন্তু তা থামানোর কোনো ক্ষমতা তাঁর ছিল না (সেই বছরগুলোতে মক্কায় তাঁর কোনো শক্তি ছিল না), আর তিনি তাঁদের বললেন: ধৈর্য ধরো, হে ইয়াসিরের পরিবার, তোমাদের নির্ধারিত ঠিকানা জান্নাত। ওই মুহূর্তে যতটুকু সান্ত্বনা সম্ভব ছিল, এটুকুই; আর তাঁদের জন্য তা যথেষ্ট ছিল।",
           },
         ],
       },
@@ -2073,7 +2073,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The second is that the first name on the ummah's roll of martyrs belongs to a poor, elderly, clanless woman. Honour in this religion was fixed at its very beginning by taqwa and nothing else, exactly as 49:13 states. The Quran also describes the tyrants of the trench, who resented the believers only because they believed in Allah, in 85:8 — the same grievance and the same answer.",
-            bn: "দ্বিতীয়টি হলো, উম্মাহর শহীদ-তালিকার প্রথম নামটি এক দরিদ্র, প্রবীণা, গোত্রহীন নারীর। এই দ্বীনে মর্যাদার মাপকাঠি একেবারে শুরুতেই নির্ধারিত হয়ে গেল তাকওয়া দিয়ে, আর কিছু দিয়ে নয়—ঠিক যেমনটি 49:13 বলে। কুরআন 85:8-এ গর্তের সেই অত্যাচারীদের কথাও বলেছে, যারা মুমিনদের প্রতি বিদ্বেষ পোষণ করেছিল কেবল এ কারণে যে তারা আল্লাহর ওপর ঈমান এনেছিল—একই অভিযোগ, আর একই জবাব।",
+            bn: "দ্বিতীয়টি হলো, উম্মাহর শহীদ-তালিকার প্রথম নামটি এক দরিদ্র, প্রবীণা, গোত্রহীন নারীর। এই দ্বীনে মর্যাদার মাপকাঠি একেবারে শুরুতেই নির্ধারিত হয়ে গেল তাকওয়া দিয়ে, আর কিছু দিয়ে নয়, ঠিক যেমনটি 49:13 বলে। কুরআন 85:8-এ গর্তের সেই অত্যাচারীদের কথাও বলেছে, যারা মুমিনদের প্রতি বিদ্বেষ পোষণ করেছিল কেবল এ কারণে যে তারা আল্লাহর ওপর ঈমান এনেছিল। একই অভিযোগ, আর একই জবাব।",
           },
         ],
       },
@@ -2099,7 +2099,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "His father was Zayd ibn Amr ibn Nufayl, one of the few men in Makkah who had rejected idolatry before the Prophet ﷺ was sent. Sahih al-Bukhari preserves the account of him leaning his back against the Ka'bah and telling Quraysh that not one of them was on the religion of Ibrahim except himself. He refused to eat what had been slaughtered for the idols and said so to their faces.",
-            bn: "তাঁর পিতা ছিলেন যায়িদ ইবনে আমর ইবনে নুফাইল—মক্কার সেই অল্প কয়েকজনের একজন, যাঁরা নবীজি ﷺ প্রেরিত হওয়ার আগেই মূর্তিপূজা প্রত্যাখ্যান করেছিলেন। সহিহ বুখারিতে সংরক্ষিত আছে, তিনি কাবার গায়ে পিঠ ঠেকিয়ে কুরাইশকে বলতেন—তোমাদের একজনও ইবরাহিমের দ্বীনের ওপর নেই, আমি ছাড়া। মূর্তির নামে জবাই করা পশুর গোশত খেতে তিনি অস্বীকার করতেন এবং তাদের মুখের ওপরই তা বলে দিতেন।",
+            bn: "তাঁর পিতা ছিলেন যায়িদ ইবনে আমর ইবনে নুফাইল, মক্কার সেই অল্প কয়েকজনের একজন, যাঁরা নবীজি ﷺ প্রেরিত হওয়ার আগেই মূর্তিপূজা প্রত্যাখ্যান করেছিলেন। সহিহ বুখারিতে সংরক্ষিত আছে, তিনি কাবার গায়ে পিঠ ঠেকিয়ে কুরাইশকে বলতেন, তোমাদের একজনও ইবরাহিমের দ্বীনের ওপর নেই, আমি ছাড়া। মূর্তির নামে জবাই করা পশুর গোশত খেতে তিনি অস্বীকার করতেন এবং তাদের মুখের ওপরই তা বলে দিতেন।",
           },
           {
             en: "Zayd searched Syria and beyond for the pure monotheism of Ibrahim (AS) and died before the revelation came. His son Said later asked the Prophet ﷺ about him, and was told that he would be raised on the Day of Resurrection as a nation by himself. Said therefore came to Islam already carrying a household memory of refusing the crowd, which is a rarer inheritance than wealth.",
@@ -2125,7 +2125,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Umar set out one day intending to kill the Prophet ﷺ and was told on the way to look to his own household first. He turned to his sister's house and heard recitation from inside. When he forced his way in and demanded to know what they had been reading, there was a struggle, and his sister was struck and bled — and she told him plainly that they would not leave their religion whatever he did.",
-            bn: "একদিন উমর নবীজি ﷺ-কে হত্যার সংকল্প নিয়ে বেরোলেন, আর পথে তাঁকে বলা হলো—আগে নিজের ঘরের খবর নাও। তিনি বোনের বাড়ির দিকে ফিরলেন এবং ভেতর থেকে তিলাওয়াতের শব্দ শুনলেন। জোর করে ঢুকে যখন জানতে চাইলেন তাঁরা কী পড়ছিলেন, তখন ধস্তাধস্তি হয়, বোন আঘাত পান ও রক্ত ঝরে—আর তিনি স্পষ্ট বলে দেন, তুমি যা-ই করো, আমরা আমাদের দ্বীন ছাড়ব না।",
+            bn: "একদিন উমর নবীজি ﷺ-কে হত্যার সংকল্প নিয়ে বেরোলেন, আর পথে তাঁকে বলা হলো, আগে নিজের ঘরের খবর নাও। তিনি বোনের বাড়ির দিকে ফিরলেন এবং ভেতর থেকে তিলাওয়াতের শব্দ শুনলেন। জোর করে ঢুকে যখন জানতে চাইলেন তাঁরা কী পড়ছিলেন, তখন ধস্তাধস্তি হয়, বোন আঘাত পান ও রক্ত ঝরে; আর তিনি স্পষ্ট বলে দেন, তুমি যা-ই করো, আমরা আমাদের দ্বীন ছাড়ব না।",
           },
           {
             en: "The sight of the blood stopped him. He asked for the sheet they had been reading; she would not give it until he washed himself. He washed, and read the opening of Surah Taha, coming to 20:14 — I am Allah, there is no god but I, so worship Me and establish the prayer for My remembrance. He asked to be taken to the Prophet ﷺ, and Khabbab, who had hidden in the house, came out and guided him.",
@@ -2220,7 +2220,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "In Madinah she gave birth to Abdullah ibn az-Zubayr, the first child born to the Muhajirun there, and the Prophet ﷺ took him and blessed him. Her married life was hard work. Zubayr had a horse and a piece of land the Prophet ﷺ had granted him two-thirds of a farsakh out of the city; she ground the fodder, watered the horse and carried date-stones on her head from that land until the Prophet ﷺ met her on the road and offered her a ride.",
-            bn: "মদিনায় তিনি জন্ম দেন আবদুল্লাহ ইবনুয যুবাইরকে—সেখানে মুহাজিরদের ঘরে জন্ম নেওয়া প্রথম সন্তান; নবীজি ﷺ তাঁকে কোলে নিয়ে দোয়া করেন। তাঁর দাম্পত্যজীবন ছিল কঠোর পরিশ্রমের। যুবাইরের ছিল একটি ঘোড়া এবং শহর থেকে দুই-তৃতীয়াংশ ফরসাখ দূরে নবীজি ﷺ-এর দেওয়া এক টুকরো জমি; তিনি ঘোড়ার খাবার পিষতেন, পানি খাওয়াতেন এবং সেই জমি থেকে মাথায় করে খেজুরের আঁটি বয়ে আনতেন—একদিন পথে নবীজি ﷺ তাঁকে দেখে বাহনে তুলে নিতে চান।",
+            bn: "মদিনায় তিনি জন্ম দেন আবদুল্লাহ ইবনুয যুবাইরকে, সেখানে মুহাজিরদের ঘরে জন্ম নেওয়া প্রথম সন্তান; নবীজি ﷺ তাঁকে কোলে নিয়ে দোয়া করেন। তাঁর দাম্পত্যজীবন ছিল কঠোর পরিশ্রমের। যুবাইরের ছিল একটি ঘোড়া এবং শহর থেকে দুই-তৃতীয়াংশ ফরসাখ দূরে নবীজি ﷺ-এর দেওয়া এক টুকরো জমি; তিনি ঘোড়ার খাবার পিষতেন, পানি খাওয়াতেন এবং সেই জমি থেকে মাথায় করে খেজুরের আঁটি বয়ে আনতেন। একদিন পথে নবীজি ﷺ তাঁকে দেখে বাহনে তুলে নিতে চান।",
           },
           {
             en: "Her mother Qutaylah, still not a Muslim, came to Madinah to visit her with gifts, and Asma would not let her into the house or accept from her until she had asked the Prophet ﷺ. She was told to keep the ties and treat her well, and 60:8 is recited in this connection: Allah does not forbid you from dealing kindly and justly with those who did not fight you over religion nor drive you from your homes.",
@@ -2233,7 +2233,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Seventy years later her son Abdullah held Makkah against the army of al-Hajjaj, and by the end almost everyone had left him. He came to his mother, who was near a hundred and had lost her sight, and told her that the people had deserted him and that he had been offered whatever he wanted of the world if he would surrender, and asked her what she thought.",
-            bn: "সত্তর বছর পর তাঁর পুত্র আবদুল্লাহ হাজ্জাজের বাহিনীর বিরুদ্ধে মক্কা রক্ষায় দাঁড়ালেন, আর শেষদিকে প্রায় সবাই তাঁকে ছেড়ে চলে গেল। তিনি মায়ের কাছে এলেন—যাঁর বয়স তখন প্রায় একশো এবং যিনি দৃষ্টিশক্তি হারিয়েছেন—বললেন, লোকেরা তাঁকে ছেড়ে গেছে, আত্মসমর্পণ করলে দুনিয়ার যা চান তাই দেওয়ার প্রস্তাব এসেছে; এরপর জানতে চাইলেন তাঁর মতামত।",
+            bn: "সত্তর বছর পর তাঁর পুত্র আবদুল্লাহ হাজ্জাজের বাহিনীর বিরুদ্ধে মক্কা রক্ষায় দাঁড়ালেন, আর শেষদিকে প্রায় সবাই তাঁকে ছেড়ে চলে গেল। তিনি মায়ের কাছে এলেন (যাঁর বয়স তখন প্রায় একশো এবং যিনি দৃষ্টিশক্তি হারিয়েছেন), বললেন, লোকেরা তাঁকে ছেড়ে গেছে, আত্মসমর্পণ করলে দুনিয়ার যা চান তাই দেওয়ার প্রস্তাব এসেছে; এরপর জানতে চাইলেন তাঁর মতামত।",
           },
           {
             en: "She answered that he knew himself best: if he was upon the truth and had called people to it, he should not let the boys of Banu Umayyah play with him, and if he wanted the world he was a wretched servant who had destroyed himself and those with him. He said he feared they would mutilate his body. She said that a slaughtered sheep is not hurt by the skinning. He said this was exactly what he had come to hear.",
@@ -2241,7 +2241,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She embraced him and felt armour under his clothes, and told him that was not the dress of a man who wants martyrdom; he said he had only worn it to settle her heart, and took it off. He went out and was killed, and his body was hung up. When al-Hajjaj came to her at last she was unbroken, and within days of her son's burial she died. She had lived through the whole of it, from the cave to the gibbet, and had not once advised safety.",
-            bn: "তিনি পুত্রকে জড়িয়ে ধরে পোশাকের নিচে বর্ম অনুভব করলেন এবং বললেন, শাহাদাত-প্রত্যাশীর পোশাক তো এটি নয়; তিনি বললেন, কেবল আপনার মন শান্ত করতেই পরেছিলাম—এরপর খুলে ফেললেন। বেরিয়ে গিয়ে তিনি নিহত হন এবং তাঁর দেহ ঝুলিয়ে রাখা হয়। অবশেষে হাজ্জাজ তাঁর কাছে এলে তিনি ছিলেন অবিচল; আর পুত্রের দাফনের কয়েক দিনের মধ্যেই তিনি ইন্তেকাল করেন। গুহা থেকে শুরু করে সেই ফাঁসিকাঠ পর্যন্ত পুরোটাই তিনি দেখে গেছেন—এবং একবারও নিরাপত্তার পরামর্শ দেননি।",
+            bn: "তিনি পুত্রকে জড়িয়ে ধরে পোশাকের নিচে বর্ম অনুভব করলেন এবং বললেন, শাহাদাত-প্রত্যাশীর পোশাক তো এটি নয়; তিনি বললেন, কেবল আপনার মন শান্ত করতেই পরেছিলাম। এরপর খুলে ফেললেন। বেরিয়ে গিয়ে তিনি নিহত হন এবং তাঁর দেহ ঝুলিয়ে রাখা হয়। অবশেষে হাজ্জাজ তাঁর কাছে এলে তিনি ছিলেন অবিচল; আর পুত্রের দাফনের কয়েক দিনের মধ্যেই তিনি ইন্তেকাল করেন। গুহা থেকে শুরু করে সেই ফাঁসিকাঠ পর্যন্ত পুরোটাই তিনি দেখে গেছেন, এবং একবারও নিরাপত্তার পরামর্শ দেননি।",
           },
         ],
       },
@@ -2258,7 +2258,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Her husband and her two sons, Abdullah and Habib, pledged with her. The Quran describes the pledge women give the Prophet ﷺ in 60:12, and the substance of hers was that she had bound herself to a cause with an obligation of defence attached to it. Everything she later did at Uhud and at Yamamah was the keeping of a promise given that night.",
-            bn: "তাঁর স্বামী ও দুই পুত্র—আবদুল্লাহ ও হাবিব—তাঁর সঙ্গে বাইআত করেন। নারীরা নবীজি ﷺ-এর হাতে যে বাইআত করেন, কুরআন তার বর্ণনা দিয়েছে 60:12-এ; আর তাঁর বাইআতের মর্ম ছিল, তিনি নিজেকে এমন এক কাজের সঙ্গে বেঁধে ফেলেছেন যার সঙ্গে রক্ষার দায়িত্বও যুক্ত। উহুদ ও ইয়ামামায় তিনি পরে যা করেছেন, তার সবই ছিল সেই রাতের প্রতিশ্রুতি রক্ষা।",
+            bn: "তাঁর স্বামী ও দুই পুত্র (আবদুল্লাহ ও হাবিব) তাঁর সঙ্গে বাইআত করেন। নারীরা নবীজি ﷺ-এর হাতে যে বাইআত করেন, কুরআন তার বর্ণনা দিয়েছে 60:12-এ; আর তাঁর বাইআতের মর্ম ছিল, তিনি নিজেকে এমন এক কাজের সঙ্গে বেঁধে ফেলেছেন যার সঙ্গে রক্ষার দায়িত্বও যুক্ত। উহুদ ও ইয়ামামায় তিনি পরে যা করেছেন, তার সবই ছিল সেই রাতের প্রতিশ্রুতি রক্ষা।",
           },
         ],
       },
@@ -2353,7 +2353,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She was left in Makkah without either. She said afterwards that she went out every morning to al-Abtah and wept there until nightfall for about a year, until a man of her clan saw her and asked why they would not let this poor woman go. They released her, the child was returned, and she set out alone with him on a camel.",
-            bn: "মক্কায় তিনি রয়ে গেলেন—স্বামী নেই, সন্তানও নেই। পরে তিনি বলেছেন, প্রতিদিন সকালে তিনি আবতাহে গিয়ে বসতেন এবং সন্ধ্যা পর্যন্ত কাঁদতেন; প্রায় এক বছর ধরে এটাই ছিল তাঁর দিনযাপন—শেষে তাঁর গোত্রেরই এক ব্যক্তি তা দেখে বলল, এই অসহায় নারীকে যেতে দিচ্ছ না কেন? তাঁকে ছেড়ে দেওয়া হলো, সন্তানকেও ফিরিয়ে দেওয়া হলো, আর তিনি একা উটে চড়ে ছেলেকে নিয়ে মদিনার পথে বেরোলেন।",
+            bn: "মক্কায় তিনি রয়ে গেলেন: স্বামী নেই, সন্তানও নেই। পরে তিনি বলেছেন, প্রতিদিন সকালে তিনি আবতাহে গিয়ে বসতেন এবং সন্ধ্যা পর্যন্ত কাঁদতেন; প্রায় এক বছর ধরে এটাই ছিল তাঁর দিনযাপন। শেষে তাঁর গোত্রেরই এক ব্যক্তি তা দেখে বলল, এই অসহায় নারীকে যেতে দিচ্ছ না কেন? তাঁকে ছেড়ে দেওয়া হলো, সন্তানকেও ফিরিয়ে দেওয়া হলো, আর তিনি একা উটে চড়ে ছেলেকে নিয়ে মদিনার পথে বেরোলেন।",
           },
           {
             en: "Uthman ibn Talhah met her on the road, learned she was travelling alone, and led her camel all the way to Quba without exchanging a word beyond what was necessary, then turned back to Makkah. She used to say that she knew no household in Islam that had been afflicted as the household of Abu Salamah was, and no travelling companion nobler than the man who escorted her.",
@@ -2370,7 +2370,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She said the prayer, thinking as she said it, who could be better for me than Abu Salamah? She said it anyway. When her waiting period ended, Abu Bakr (RA) and Umar (RA) proposed and she declined; then the Prophet ﷺ sent to her, and she pleaded her age, her children and her jealous nature. He answered each objection and married her, and the exchange was better, exactly as promised.",
-            bn: "তিনি দোয়াটি পড়লেন, আর পড়তে পড়তেই মনে মনে ভাবলেন—আবু সালামার চেয়ে উত্তম আমার জন্য আর কে হতে পারে? তবু তিনি দোয়াটি পড়লেন। ইদ্দত শেষ হলে আবু বকর (রাঃ) ও উমর (রাঃ) বিয়ের প্রস্তাব দেন, তিনি রাজি হননি; এরপর নবীজি ﷺ প্রস্তাব পাঠালে তিনি নিজের বয়স, সন্তান ও আত্মমর্যাদাবোধের কথা তুললেন। নবীজি ﷺ প্রতিটি আপত্তির জবাব দিয়ে তাঁকে বিবাহ করেন—আর তিনি বলতেন, প্রতিশ্রুতি অনুযায়ী বিনিময়টি সত্যিই উত্তম হয়েছিল।",
+            bn: "তিনি দোয়াটি পড়লেন, আর পড়তে পড়তেই মনে মনে ভাবলেন, আবু সালামার চেয়ে উত্তম আমার জন্য আর কে হতে পারে? তবু তিনি দোয়াটি পড়লেন। ইদ্দত শেষ হলে আবু বকর (রাঃ) ও উমর (রাঃ) বিয়ের প্রস্তাব দেন, তিনি রাজি হননি; এরপর নবীজি ﷺ প্রস্তাব পাঠালে তিনি নিজের বয়স, সন্তান ও আত্মমর্যাদাবোধের কথা তুললেন। নবীজি ﷺ প্রতিটি আপত্তির জবাব দিয়ে তাঁকে বিবাহ করেন। আর তিনি বলতেন, প্রতিশ্রুতি অনুযায়ী বিনিময়টি সত্যিই উত্তম হয়েছিল।",
           },
         ],
       },
@@ -2379,11 +2379,11 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "As one of the wives of the Prophet ﷺ she became a mother of the believers, a status the Quran states in 33:6, and she took the teaching side of it seriously. She narrated a great many hadith, particularly on prayer, fasting, the rites of hajj and the manners of the household, and afterwards gave verdicts to those who came to ask.",
-            bn: "নবীজি ﷺ-এর স্ত্রী হিসেবে তিনি হলেন উম্মুল মুমিনীন—কুরআন 33:6-এ যে মর্যাদার কথা বলেছে; আর এর শিক্ষকতার দিকটি তিনি অত্যন্ত গুরুত্বের সঙ্গে নিয়েছিলেন। তিনি বহু হাদিস বর্ণনা করেছেন—বিশেষত নামাজ, রোজা, হজের আহকাম ও পারিবারিক শিষ্টাচার বিষয়ে; আর নবীজি ﷺ-এর পর যাঁরা জিজ্ঞেস করতে আসতেন তাঁদের ফতোয়া দিতেন।",
+            bn: "নবীজি ﷺ-এর স্ত্রী হিসেবে তিনি হলেন উম্মুল মুমিনীন, কুরআন 33:6-এ যে মর্যাদার কথা বলেছে; আর এর শিক্ষকতার দিকটি তিনি অত্যন্ত গুরুত্বের সঙ্গে নিয়েছিলেন। তিনি বহু হাদিস বর্ণনা করেছেন, বিশেষত নামাজ, রোজা, হজের আহকাম ও পারিবারিক শিষ্টাচার বিষয়ে; আর নবীজি ﷺ-এর পর যাঁরা জিজ্ঞেস করতে আসতেন তাঁদের ফতোয়া দিতেন।",
           },
           {
             en: "She asked questions herself. The Sunan report that she asked why the men were mentioned in the Quran and the women were not, and that 33:35 was revealed, listing the submitting men and the submitting women, the believing men and the believing women, through to those who remember Allah much. The same connection is made with 3:195, that Allah does not let the work of any worker among them be lost, male or female.",
-            bn: "তিনি নিজেও প্রশ্ন করতেন। সুনানের বর্ণনায় আছে, তিনি জিজ্ঞেস করেছিলেন—কুরআনে পুরুষদের উল্লেখ আছে, নারীদের নেই কেন; এরপর নাজিল হয় 33:35, যেখানে আত্মসমর্পণকারী পুরুষ ও নারী, মুমিন পুরুষ ও নারী থেকে শুরু করে আল্লাহকে অধিক স্মরণকারীদের পর্যন্ত তালিকা রয়েছে। একই প্রসঙ্গে 3:195-ও উল্লেখ করা হয়—আল্লাহ তাঁদের কোনো কর্মীর শ্রম বিনষ্ট করেন না, সে পুরুষ হোক বা নারী।",
+            bn: "তিনি নিজেও প্রশ্ন করতেন। সুনানের বর্ণনায় আছে, তিনি জিজ্ঞেস করেছিলেন, কুরআনে পুরুষদের উল্লেখ আছে, নারীদের নেই কেন; এরপর নাজিল হয় 33:35, যেখানে আত্মসমর্পণকারী পুরুষ ও নারী, মুমিন পুরুষ ও নারী থেকে শুরু করে আল্লাহকে অধিক স্মরণকারীদের পর্যন্ত তালিকা রয়েছে। একই প্রসঙ্গে 3:195-ও উল্লেখ করা হয়: আল্লাহ তাঁদের কোনো কর্মীর শ্রম বিনষ্ট করেন না, সে পুরুষ হোক বা নারী।",
           },
         ],
       },
@@ -2392,7 +2392,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "At Hudaybiyah the Muslims were stopped short of Makkah and a treaty was made on terms that felt like defeat: they would go home without the umrah, return the following year, and hand back anyone who came to them from Quraysh. The companions were shaken. When the Prophet ﷺ told them to rise, sacrifice their animals and shave their heads, not one of them moved, and he repeated it three times.",
-            bn: "হুদাইবিয়ায় মুসলিমদের মক্কার আগেই থামিয়ে দেওয়া হয় এবং এমন শর্তে সন্ধি হয় যা পরাজয়ের মতো মনে হচ্ছিল: উমরা না করেই তাঁরা ফিরে যাবেন, পরের বছর আসবেন, আর কুরাইশ থেকে কেউ এলে তাকে ফেরত দিতে হবে। সাহাবিগণ মর্মাহত হয়ে পড়েন। নবীজি ﷺ যখন বললেন—ওঠো, কোরবানি করো, মাথা মুণ্ডন করো—কেউ নড়ল না; তিনি তিনবার কথাটি বললেন।",
+            bn: "হুদাইবিয়ায় মুসলিমদের মক্কার আগেই থামিয়ে দেওয়া হয় এবং এমন শর্তে সন্ধি হয় যা পরাজয়ের মতো মনে হচ্ছিল: উমরা না করেই তাঁরা ফিরে যাবেন, পরের বছর আসবেন, আর কুরাইশ থেকে কেউ এলে তাকে ফেরত দিতে হবে। সাহাবিগণ মর্মাহত হয়ে পড়েন। নবীজি ﷺ যখন বললেন, ‘ওঠো, কোরবানি করো, মাথা মুণ্ডন করো’, কেউ নড়ল না; তিনি তিনবার কথাটি বললেন।",
           },
           {
             en: "He went into his tent and told Umm Salamah what had happened. Her advice, preserved in Sahih al-Bukhari, was this: go out, do not speak a word to any of them, sacrifice your own camel and call your barber to shave you. He went out, said nothing, sacrificed and shaved — and the whole camp rose and did the same, some of them almost trampling each other in their haste.",
@@ -2430,7 +2430,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She cared for him from infancy, and later served his mother Aminah. There is no drama in this part of the story; there is only years of ordinary, unpaid, unremarked work — feeding a child, watching him, walking him to and from the houses of relatives — of a kind that history usually loses entirely, and would have lost here too if the child had not been who he was.",
-            bn: "শৈশব থেকেই তিনি তাঁর দেখাশোনা করেছেন, পরে সেবা করেছেন তাঁর মা আমিনার। গল্পের এই অংশে কোনো নাটকীয়তা নেই; আছে কেবল বছরের পর বছর সাধারণ, বিনা পারিশ্রমিকের, অনুল্লেখিত শ্রম—শিশুকে খাওয়ানো, চোখে চোখে রাখা, আত্মীয়দের বাড়িতে নিয়ে যাওয়া-আসা—যে ধরনের শ্রম ইতিহাস সাধারণত পুরোপুরি হারিয়ে ফেলে; এখানেও হারাত, যদি না সেই শিশুটি তিনিই হতেন।",
+            bn: "শৈশব থেকেই তিনি তাঁর দেখাশোনা করেছেন, পরে সেবা করেছেন তাঁর মা আমিনার। গল্পের এই অংশে কোনো নাটকীয়তা নেই; আছে কেবল বছরের পর বছর সাধারণ, বিনা পারিশ্রমিকের, অনুল্লেখিত শ্রম (শিশুকে খাওয়ানো, চোখে চোখে রাখা, আত্মীয়দের বাড়িতে নিয়ে যাওয়া-আসা), যে ধরনের শ্রম ইতিহাস সাধারণত পুরোপুরি হারিয়ে ফেলে; এখানেও হারাত, যদি না সেই শিশুটি তিনিই হতেন।",
           },
         ],
       },
@@ -2443,7 +2443,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The Quran addresses that period of his life directly in 93:6 — did He not find you an orphan and give shelter? Shelter in this world arrives through people, and for those years it arrived largely through her. She stayed with him through the death of his grandfather two years later, and into the house of Abu Talib, and did not leave.",
-            bn: "কুরআন তাঁর জীবনের এই পর্বকে সরাসরি সম্বোধন করেছে 93:6-এ—তিনি কি আপনাকে এতিম অবস্থায় পাননি, অতঃপর আশ্রয় দেননি? দুনিয়ায় আশ্রয় আসে মানুষের হাত ধরেই, আর সেই বছরগুলোতে তা মূলত এসেছিল তাঁরই হাত ধরে। দুই বছর পর দাদার মৃত্যুর সময়ও তিনি সঙ্গে ছিলেন, আবু তালিবের ঘরেও গেলেন—ছেড়ে যাননি।",
+            bn: "কুরআন তাঁর জীবনের এই পর্বকে সরাসরি সম্বোধন করেছে 93:6-এ: তিনি কি আপনাকে এতিম অবস্থায় পাননি, অতঃপর আশ্রয় দেননি? দুনিয়ায় আশ্রয় আসে মানুষের হাত ধরেই, আর সেই বছরগুলোতে তা মূলত এসেছিল তাঁরই হাত ধরে। দুই বছর পর দাদার মৃত্যুর সময়ও তিনি সঙ্গে ছিলেন, আবু তালিবের ঘরেও গেলেন; ছেড়ে যাননি।",
           },
         ],
       },
@@ -2456,7 +2456,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "It is reported, though the chain is criticised, that he said whoever wishes to marry a woman of the people of Paradise should marry Umm Ayman, and Zayd ibn Harithah (RA) married her. Their son was Usama ibn Zayd (RA), whom the Prophet ﷺ loved and whom the community called the beloved son of the beloved. She had come into that household with nothing and ended as the mother of the man the Prophet ﷺ put in command of an army.",
-            bn: "বর্ণিত আছে—যদিও এর সনদ সমালোচিত—তিনি বলেছিলেন, যে ব্যক্তি জান্নাতি কোনো নারীকে বিয়ে করতে চায়, সে যেন উম্মে আইমানকে বিয়ে করে; আর যায়েদ ইবনে হারিসা (রাঃ) তাঁকে বিয়ে করেন। তাঁদের পুত্র উসামা ইবনে যায়েদ (রাঃ), যাঁকে নবীজি ﷺ ভালোবাসতেন এবং সমাজ যাঁকে ডাকত 'প্রিয়জনের প্রিয় পুত্র' বলে। শূন্য হাতে যে ঘরে তিনি এসেছিলেন, সেখানেই শেষ হলো এমন একজনের মা হিসেবে, যাঁকে নবীজি ﷺ একটি বাহিনীর সেনাপতি নিযুক্ত করেছিলেন।",
+            bn: "বর্ণিত আছে (যদিও এর সনদ সমালোচিত), তিনি বলেছিলেন, যে ব্যক্তি জান্নাতি কোনো নারীকে বিয়ে করতে চায়, সে যেন উম্মে আইমানকে বিয়ে করে; আর যায়েদ ইবনে হারিসা (রাঃ) তাঁকে বিয়ে করেন। তাঁদের পুত্র উসামা ইবনে যায়েদ (রাঃ), যাঁকে নবীজি ﷺ ভালোবাসতেন এবং সমাজ যাঁকে ডাকত 'প্রিয়জনের প্রিয় পুত্র' বলে। শূন্য হাতে যে ঘরে তিনি এসেছিলেন, সেখানেই শেষ হলো এমন একজনের মা হিসেবে, যাঁকে নবীজি ﷺ একটি বাহিনীর সেনাপতি নিযুক্ত করেছিলেন।",
           },
         ],
       },
@@ -2495,7 +2495,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The Quran teaches the believer to pray for those who raised him in 17:24 — my Lord, have mercy on them as they brought me up when I was small. Umm Ayman is the standing proof in this religion that quiet service is not a lesser rank. The people who feed and carry and stay are counted, and in her case they are counted first, in the household where all of it began.",
-            bn: "যাঁরা লালন-পালন করেছেন তাঁদের জন্য দোয়া করতে কুরআন মুমিনকে শেখায় 17:24-এ—হে আমার প্রতিপালক, তাঁদের প্রতি দয়া করুন, যেমন তাঁরা শৈশবে আমাকে লালন করেছেন। এই দ্বীনে উম্মে আইমান হলেন সেই স্থায়ী প্রমাণ যে, নীরব খিদমত নিচু কোনো স্তর নয়। যাঁরা খাওয়ান, বয়ে নেন এবং পাশে থেকে যান—তাঁদেরও গোনা হয়; আর তাঁর ক্ষেত্রে গোনা হয়েছে সবার আগে, ঠিক সেই ঘরেই যেখান থেকে সবকিছুর শুরু।",
+            bn: "যাঁরা লালন-পালন করেছেন তাঁদের জন্য দোয়া করতে কুরআন মুমিনকে শেখায় 17:24-এ: হে আমার প্রতিপালক, তাঁদের প্রতি দয়া করুন, যেমন তাঁরা শৈশবে আমাকে লালন করেছেন। এই দ্বীনে উম্মে আইমান হলেন সেই স্থায়ী প্রমাণ যে, নীরব খিদমত নিচু কোনো স্তর নয়। যাঁরা খাওয়ান, বয়ে নেন এবং পাশে থেকে যান, তাঁদেরও গোনা হয়; আর তাঁর ক্ষেত্রে গোনা হয়েছে সবার আগে, ঠিক সেই ঘরেই যেখান থেকে সবকিছুর শুরু।",
           },
         ],
       },

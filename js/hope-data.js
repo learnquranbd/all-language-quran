@@ -812,7 +812,7 @@ const HOPE_CHAPTERS = [
       },
       {
         en: 'Classical commentators offer two readings and both are worth carrying. One: the sinful acts themselves are converted in the record, so that what stood against a person now stands for him. Two: the person is converted, so that the very capacities once spent on wrong are now spent on good. Either way, the past is not just survived. It becomes material.',
-        bn: 'পুরনো মুফাসসিররা দুরকম ব্যাখ্যা দিয়েছেন, দুটোই মনে রাখার মতো। এক, খাতায় গুনাহগুলোই বদলে যায় — যা তার বিরুদ্ধে লেখা ছিল, তা এখন তার পক্ষে দাঁড়ায়। দুই, মানুষটাই বদলে যায় — যে শক্তি একসময় মন্দ কাজে যেত, তা এখন ভালো কাজে যায়। যেভাবেই দেখুন, অতীতটা কেবল পার হয়ে যাওয়ার জিনিস থাকে না। ওটা কাজে লেগে যায়।',
+        bn: 'পুরনো মুফাসসিররা দুরকম ব্যাখ্যা দিয়েছেন, দুটোই মনে রাখার মতো। এক, খাতায় গুনাহগুলোই বদলে যায়: যা তার বিরুদ্ধে লেখা ছিল, তা এখন তার পক্ষে দাঁড়ায়। দুই, মানুষটাই বদলে যায়: যে শক্তি একসময় মন্দ কাজে যেত, তা এখন ভালো কাজে যায়। যেভাবেই দেখুন, অতীতটা কেবল পার হয়ে যাওয়ার জিনিস থাকে না। ওটা কাজে লেগে যায়।',
       },
     ],
     verses: [
@@ -865,7 +865,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Three overlapping cycles — daily, weekly, yearly — running underneath an ordinary Muslim life whether or not they are noticed. The upkeep is already scheduled.',
-          bn: 'তিনটে চক্র একটার ভেতর আরেকটা — রোজকার, সপ্তাহের, বছরের — সাধারণ মুসলিম জীবনের নিচ দিয়ে চলছেই, খেয়াল করুন বা না করুন। ধোয়ামোছার সময়সূচিটা আগে থেকেই ঠিক করা আছে।',
+          bn: 'তিনটে চক্র একটার ভেতর আরেকটা (রোজকার, সপ্তাহের, বছরের) সাধারণ মুসলিম জীবনের নিচ দিয়ে চলছেই, খেয়াল করুন বা না করুন। ধোয়ামোছার সময়সূচিটা আগে থেকেই ঠিক করা আছে।',
         },
       },
     ],
@@ -876,7 +876,7 @@ const HOPE_CHAPTERS = [
       },
       {
         en: 'Take the ability that used to serve the sin — the persistence, the courage, the charm, the late nights — and put it to work somewhere lawful. That is 25:70 read as a practical instruction.',
-        bn: 'যে গুণগুলো একসময় গুনাহের কাজে খাটত — জেদ, সাহস, মানুষকে টানার ক্ষমতা, রাত জাগা — সেগুলোই হালাল কোনো কাজে খাটান। ২৫:৭০-কে হাতে-কলমে কাজে লাগালে এটাই দাঁড়ায়।',
+        bn: 'যে গুণগুলো একসময় গুনাহের কাজে খাটত (জেদ, সাহস, মানুষকে টানার ক্ষমতা, রাত জাগা), সেগুলোই হালাল কোনো কাজে খাটান। ২৫:৭০-কে হাতে-কলমে কাজে লাগালে এটাই দাঁড়ায়।',
       },
       {
         en: 'Guard the five prayers before adding anything else. 11:114 and the hadith of the three cycles both put the routine, not the extraordinary, at the centre of clearing.',
@@ -1149,7 +1149,7 @@ const HOPE_CHAPTERS = [
         src: 'Jami‘ at-Tirmidhi 3505 (hasan)',
         text: {
           en: 'The Prophet ﷺ said: “The supplication of Dhun-Nun, when he called upon his Lord from inside the belly of the fish — ‘There is no deity except You; exalted are You; indeed I have been among the wrongdoers’ — no Muslim ever supplicates with it for anything but Allah answers him.”',
-          bn: 'নবী ﷺ বলেছেন: “যুন-নূনের দোয়া, যখন তিনি মাছের পেটের ভেতর থেকে তাঁর রবকে ডেকেছিলেন — ‘তুমি ছাড়া কোনো ইলাহ নেই, তুমি পবিত্র, নিশ্চয়ই আমি জালিমদের অন্তর্ভুক্ত ছিলাম’ — কোনো মুসলিম কোনো বিষয়ে এই দোয়া করলে আল্লাহ তার ডাকে সাড়া দেন।”',
+          bn: 'নবী ﷺ বলেছেন: “যুন-নূনের দোয়া, যখন তিনি মাছের পেটের ভেতর থেকে তাঁর রবকে ডেকেছিলেন, ‘তুমি ছাড়া কোনো ইলাহ নেই, তুমি পবিত্র, নিশ্চয়ই আমি জালিমদের অন্তর্ভুক্ত ছিলাম’, কোনো মুসলিম কোনো বিষয়ে এই দোয়া করলে আল্লাহ তার ডাকে সাড়া দেন।”',
         },
         note: {
           en: 'A du‘ā that names no need is described as answering every need. The pattern is instructive: acknowledge Him, acknowledge yourself, and let the request stay unspoken.',
@@ -1542,7 +1542,7 @@ const HOPE_CHAPTERS = [
         ref: '49:13',
         note: {
           en: 'The companion principle. Every distinction the world uses to rank people — lineage, tribe, nation — is acknowledged as real and then explicitly demoted: the criterion is taqwā. 33:35 lists the qualities; 49:13 rules out every other scoreboard.',
-          bn: 'পাশের নীতিটাও দেখে নিন। মানুষকে উঁচু-নিচু করতে দুনিয়া যা যা ব্যবহার করে — বংশ, গোত্র, জাতি — কুরআন সেগুলোকে বাস্তব বলে মেনে নিয়েই নামিয়ে দেয়। মাপকাঠি একটাই: তাকওয়া। ৩৩:৩৫ গুণের তালিকা দেয়, আর ৪৯:১৩ বাকি সব হিসাবের খাতা বাতিল করে দেয়।',
+          bn: 'পাশের নীতিটাও দেখে নিন। মানুষকে উঁচু-নিচু করতে দুনিয়া যা যা ব্যবহার করে (বংশ, গোত্র, জাতি), কুরআন সেগুলোকে বাস্তব বলে মেনে নিয়েই নামিয়ে দেয়। মাপকাঠি একটাই: তাকওয়া। ৩৩:৩৫ গুণের তালিকা দেয়, আর ৪৯:১৩ বাকি সব হিসাবের খাতা বাতিল করে দেয়।',
         },
       },
     ],
@@ -1631,7 +1631,7 @@ const HOPE_CHAPTERS = [
         ref: '31:16',
         note: {
           en: 'The image is precise: the weight of a mustard seed, inside a rock, in the heavens or in the earth — three layers of hiddenness — and Allah will bring it forth. Said to a young person, it is a lesson about the deeds nobody will ever see, in both directions.',
-          bn: 'ছবিটা একেবারে মাপা: সরিষার দানার সমান ওজন, তা-ও একটা পাথরের ভেতরে, আর সেটা আসমানে হোক বা জমিনে — তিন স্তরের আড়াল। তবু আল্লাহ তা বের করে আনবেন। এক কিশোরকে বলা এই কথাটা সেই আমলগুলো নিয়েই, যা কেউ কোনোদিন দেখবে না — ভালো আর মন্দ, দুই দিকেই।',
+          bn: 'ছবিটা একেবারে মাপা: সরিষার দানার সমান ওজন, তা-ও একটা পাথরের ভেতরে, আর সেটা আসমানে হোক বা জমিনে: তিন স্তরের আড়াল। তবু আল্লাহ তা বের করে আনবেন। এক কিশোরকে বলা এই কথাটা সেই আমলগুলো নিয়েই, যা কেউ কোনোদিন দেখবে না, ভালো আর মন্দ দুই দিকেই।',
         },
       },
       {
@@ -1716,7 +1716,7 @@ const HOPE_CHAPTERS = [
         ref: '33:70-71',
         note: {
           en: 'Qawlan sadīdā — speech that is straight, that hits the mark. And look at the two results attached: He will amend your deeds for you, and forgive your sins. Fixing your speech is presented as the lever that repairs the rest.',
-          bn: 'কাওলান সাদীদা — সোজা কথা, লক্ষ্যে লাগা কথা। সঙ্গে জোড়া দুটো ফল দেখুন: তিনি তোমাদের আমল শুধরে দেবেন, আর গুনাহ মাফ করবেন। কথাটা ঠিক করে ফেললেই বাকিটা গুছিয়ে যায় — এই হাতলটাই ধরিয়ে দেওয়া হচ্ছে।',
+          bn: 'কাওলান সাদীদা: সোজা কথা, লক্ষ্যে লাগা কথা। সঙ্গে জোড়া দুটো ফল দেখুন: তিনি তোমাদের আমল শুধরে দেবেন, আর গুনাহ মাফ করবেন। কথাটা ঠিক করে ফেললেই বাকিটা গুছিয়ে যায়। এই হাতলটাই ধরিয়ে দেওয়া হচ্ছে।',
         },
       },
       {
@@ -2092,7 +2092,7 @@ const HOPE_CHAPTERS = [
         ref: '4:148',
         note: {
           en: 'A precise permission inside a prohibition: Allah does not like evil being spoken openly, except by one who has been wronged. The exception exists — a person reporting a genuine injustice is not backbiting — and it is narrow.',
-          bn: 'নিষেধের ভেতরেই একটা মাপা অনুমতি: আল্লাহ মন্দ কথা প্রকাশ্যে বলা পছন্দ করেন না, তবে যার ওপর জুলুম হয়েছে তার কথা আলাদা। ব্যতিক্রমটা আছে — সত্যিকারের অন্যায়ের কথা জানানো গিবত নয় — তবে ব্যতিক্রমটা সরু।',
+          bn: 'নিষেধের ভেতরেই একটা মাপা অনুমতি: আল্লাহ মন্দ কথা প্রকাশ্যে বলা পছন্দ করেন না, তবে যার ওপর জুলুম হয়েছে তার কথা আলাদা। ব্যতিক্রমটা আছে (সত্যিকারের অন্যায়ের কথা জানানো গিবত নয়), তবে ব্যতিক্রমটা সরু।',
         },
       },
       {
@@ -2291,7 +2291,7 @@ const HOPE_CHAPTERS = [
         ref: '39:10',
         note: {
           en: 'The reward for the patient is bi ghayri ḥisāb — without measure, uncalculated. Elsewhere the Qur’an often counts its rewards — tenfold, seven hundredfold. This one is taken off the ledger entirely.',
-          bn: 'সবরকারীদের প্রতিদান বি-গাইরি হিসাব — হিসাব ছাড়া, গুনে শেষ করা যায় না। অন্য অনেক জায়গায় কুরআন প্রতিদান গুনে বলে — দশগুণ, সাতশো গুণ। এইটাকে খাতা থেকেই তুলে নেওয়া হয়েছে।',
+          bn: 'সবরকারীদের প্রতিদান বি-গাইরি হিসাব: হিসাব ছাড়া, গুনে শেষ করা যায় না। অন্য অনেক জায়গায় কুরআন প্রতিদান গুনে বলে: দশগুণ, সাতশো গুণ। এইটাকে খাতা থেকেই তুলে নেওয়া হয়েছে।',
         },
       },
       {
@@ -2483,7 +2483,7 @@ const HOPE_CHAPTERS = [
         ref: '4:135',
         note: {
           en: 'Qawwāmīn bil-qisṭ — persistently standing up for justice, even against yourselves, or parents, or relatives. Then it removes the two usual biases at once: rich or poor, Allah is more worthy of both. Neither sympathy nor deference survives the verse.',
-          bn: 'কাওয়ামীনা বিল-কিস্‌ত — ইনসাফের ওপর অবিচল দাঁড়িয়ে থাকা, তা নিজের, বাবা-মায়ের বা আত্মীয়ের বিরুদ্ধে গেলেও। তারপর একসঙ্গেই দুটো চেনা পক্ষপাত সরিয়ে দেয়: ধনী হোক বা গরিব, আল্লাহ দুজনেরই বেশি হকদার। কারও প্রতি মায়া বা কারও প্রতি সমীহ — কোনোটাই এ আয়াতের সামনে টেকে না।',
+          bn: 'কাওয়ামীনা বিল-কিস্‌ত: ইনসাফের ওপর অবিচল দাঁড়িয়ে থাকা, তা নিজের, বাবা-মায়ের বা আত্মীয়ের বিরুদ্ধে গেলেও। তারপর একসঙ্গেই দুটো চেনা পক্ষপাত সরিয়ে দেয়: ধনী হোক বা গরিব, আল্লাহ দুজনেরই বেশি হকদার। কারও প্রতি মায়া বা কারও প্রতি সমীহ, কোনোটাই এ আয়াতের সামনে টেকে না।',
         },
       },
       {
@@ -2497,7 +2497,7 @@ const HOPE_CHAPTERS = [
         ref: '16:90',
         note: {
           en: 'The verse traditionally recited at the close of every Friday khutbah. Three commanded — justice, iḥsān, giving to relatives — and three forbidden. Iḥsān sits above justice: doing more than is owed, once what is owed has been paid.',
-          bn: 'জুমার খুতবার শেষে চিরকাল যে আয়াতটা পড়া হয়। তিনটার আদেশ — ইনসাফ, ইহসান, আত্মীয়কে দেওয়া — আর তিনটার নিষেধ। ইহসান বসে আছে ইনসাফের উপরে: পাওনা শোধ হয়ে যাওয়ার পরও পাওনার চেয়ে বেশি করা।',
+          bn: 'জুমার খুতবার শেষে চিরকাল যে আয়াতটা পড়া হয়। তিনটার আদেশ (ইনসাফ, ইহসান, আত্মীয়কে দেওয়া), আর তিনটার নিষেধ। ইহসান বসে আছে ইনসাফের উপরে: পাওনা শোধ হয়ে যাওয়ার পরও পাওনার চেয়ে বেশি করা।',
         },
       },
       {
@@ -2692,7 +2692,7 @@ const HOPE_CHAPTERS = [
         ref: '57:18',
         note: {
           en: 'Both genders named separately again, and then the extraordinary phrase: a goodly loan to Allah. He casts Himself as the borrower — of wealth He gave you in the first place — which is the strongest possible statement that nothing given is lost.',
-          bn: 'আবারও নারী-পুরুষ দুজনেরই আলাদা উল্লেখ, তারপর সেই অসাধারণ কথাটা: আল্লাহকে উত্তম ঋণ দেওয়া। তিনি নিজেকে ঋণগ্রহীতার আসনে বসাচ্ছেন — তা-ও সেই সম্পদের, যা প্রথমে তিনিই দিয়েছেন। “দিলে কিছুই হারায় না” — এর চেয়ে জোরালো ঘোষণা আর হয় না।',
+          bn: 'আবারও নারী-পুরুষ দুজনেরই আলাদা উল্লেখ, তারপর সেই অসাধারণ কথাটা: আল্লাহকে উত্তম ঋণ দেওয়া। তিনি নিজেকে ঋণগ্রহীতার আসনে বসাচ্ছেন, তা-ও সেই সম্পদের, যা প্রথমে তিনিই দিয়েছেন। “দিলে কিছুই হারায় না”, এর চেয়ে জোরালো ঘোষণা আর হয় না।',
         },
       },
       {
@@ -2815,7 +2815,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Ten years, a household, and a servant who was a boy for much of it. The witness is the person best placed to have complaints, and the standard he reports is the same uff that 17:23 forbids toward parents.',
-          bn: 'দশ বছর, একটা সংসার, আর এক খাদেম — যিনি এর বেশির ভাগ সময়ই কিশোর। সাক্ষী সেই মানুষটাই, যাঁর অভিযোগ করার সুযোগ ছিল সবচেয়ে বেশি। আর তিনি যে মাপকাঠির কথা বলছেন, সেটা ওই উফ — যা ১৭:২৩ বাবা-মায়ের প্রতি নিষেধ করেছে।',
+          bn: 'দশ বছর, একটা সংসার, আর এক খাদেম, যিনি এর বেশির ভাগ সময়ই কিশোর। সাক্ষী সেই মানুষটাই, যাঁর অভিযোগ করার সুযোগ ছিল সবচেয়ে বেশি। আর তিনি যে মাপকাঠির কথা বলছেন, সেটা ওই উফ, যা ১৭:২৩ বাবা-মায়ের প্রতি নিষেধ করেছে।',
         },
       },
       {
@@ -3040,7 +3040,7 @@ const HOPE_CHAPTERS = [
       },
       {
         en: 'If the doubts have become a compulsion — repeating wudu, repeating prayers, repeating the shahadah — treat it as waswās requiring a scholar and often a doctor, not as a level of piety to be sustained.',
-        bn: 'সন্দেহ যদি জেদে দাঁড়িয়ে যায় — বারবার অজু, বারবার নামাজ, বারবার কালিমা পড়া — তবে বুঝবেন এ ওয়াসওয়াসা। এর জন্য আলিমের কাছে যেতে হয়, প্রায়ই ডাক্তারের কাছেও। একে তাকওয়ার উঁচু ধাপ ভেবে আঁকড়ে ধরবেন না।',
+        bn: 'সন্দেহ যদি জেদে দাঁড়িয়ে যায় (বারবার অজু, বারবার নামাজ, বারবার কালিমা পড়া), তবে বুঝবেন এ ওয়াসওয়াসা। এর জন্য আলিমের কাছে যেতে হয়, প্রায়ই ডাক্তারের কাছেও। একে তাকওয়ার উঁচু ধাপ ভেবে আঁকড়ে ধরবেন না।',
       },
     ],
   },
@@ -3171,7 +3171,7 @@ const HOPE_CHAPTERS = [
       },
       {
         en: 'All three are Companions. Not tolerated converts kept at the edge — ‘Umar ibn al-Khattab became the second caliph, and Khalid ibn al-Walid was called the Sword of Allah. The Qur’an’s promise in 8:38, that what has passed will be forgiven for those who cease, was applied publicly to people whose past everyone in Madinah knew.',
-        bn: 'তিনজনই সাহাবি। কোণঠাসা করে রাখা, কষ্টেসৃষ্টে মেনে নেওয়া নতুন মুসলিম নন। উমর ইবনুল খাত্তাব (রা) হলেন দ্বিতীয় খলিফা, আর খালিদ ইবনুল ওয়ালিদ (রা)-কে বলা হয় আল্লাহর তরবারি। ৮:৩৮-এ যে ওয়াদা — যারা বিরত হবে তাদের অতীত মাফ — সেটা প্রকাশ্যেই খাটানো হয়েছিল এমন মানুষদের ওপর, যাঁদের অতীত মদিনার সবাই জানত।',
+        bn: 'তিনজনই সাহাবি। কোণঠাসা করে রাখা, কষ্টেসৃষ্টে মেনে নেওয়া নতুন মুসলিম নন। উমর ইবনুল খাত্তাব (রা) হলেন দ্বিতীয় খলিফা, আর খালিদ ইবনুল ওয়ালিদ (রা)-কে বলা হয় আল্লাহর তরবারি। ৮:৩৮-এ যে ওয়াদা (যারা বিরত হবে তাদের অতীত মাফ), সেটা প্রকাশ্যেই খাটানো হয়েছিল এমন মানুষদের ওপর, যাঁদের অতীত মদিনার সবাই জানত।',
       },
     ],
     verses: [
@@ -3275,7 +3275,7 @@ const HOPE_CHAPTERS = [
         ref: '49:10',
         note: {
           en: 'Innamā — the believers are only, nothing but, brothers. The particle makes it exclusive, and the command that follows is not to feel warmly but to make settlement, aṣliḥū, which is work.',
-          bn: 'ইন্নামা — মুমিনরা কেবলই ভাই, আর কিছু নয়। শব্দটা আর কোনো সম্ভাবনা রাখে না। আর এরপরের হুকুম মনে টান অনুভব করা নয়, মিটমাট করে দেওয়া — আসলিহূ। ওটা পরিশ্রমের কাজ।',
+          bn: 'ইন্নামা: মুমিনরা কেবলই ভাই, আর কিছু নয়। শব্দটা আর কোনো সম্ভাবনা রাখে না। আর এরপরের হুকুম মনে টান অনুভব করা নয়, মিটমাট করে দেওয়া (আসলিহূ)। ওটা পরিশ্রমের কাজ।',
         },
       },
       {
@@ -3455,7 +3455,7 @@ const HOPE_CHAPTERS = [
     intro: [
       {
         en: 'The Qur’an describes animals as ummam amthālukum — communities like you — and states that nothing has been left out of the Register. It sets a balance in the heavens and forbids transgressing it. And it says plainly that corruption appeared on land and sea by what human hands earned. The environment is not a modern addition to Islamic ethics; it is where a good deal of the Qur’an’s ethics is set.',
-        bn: 'কুরআন পশুপাখিকে বলে উমামুন আমসালুকুম — তোমাদের মতোই সম্প্রদায় — আর বলে, কিতাবে কিছুই বাদ পড়েনি। কুরআন আসমানে একটা ভারসাম্য বসিয়ে দিয়ে তা ভাঙতে নিষেধ করে। আর সোজাসুজি বলে, মানুষের হাতের কামাইয়েই স্থলে-সমুদ্রে বিপর্যয় নেমেছে। পরিবেশের কথা তাই ইসলামি আখলাকে নতুন কোনো সংযোজন নয়; কুরআনের আখলাকের অনেকটাই ওখানেই দাঁড়ানো।',
+        bn: 'কুরআন পশুপাখিকে বলে উমামুন আমসালুকুম (তোমাদের মতোই সম্প্রদায়), আর বলে, কিতাবে কিছুই বাদ পড়েনি। কুরআন আসমানে একটা ভারসাম্য বসিয়ে দিয়ে তা ভাঙতে নিষেধ করে। আর সোজাসুজি বলে, মানুষের হাতের কামাইয়েই স্থলে-সমুদ্রে বিপর্যয় নেমেছে। পরিবেশের কথা তাই ইসলামি আখলাকে নতুন কোনো সংযোজন নয়; কুরআনের আখলাকের অনেকটাই ওখানেই দাঁড়ানো।',
       },
       {
         en: 'The Sunnah then makes it personal in the most uncomfortable way available. Two of the best-known hadith about Paradise and the Fire turn on how somebody treated an animal that could do nothing for them. Mercy is being tested where there is no possibility of return, which is where it is most honest.',
@@ -3566,7 +3566,7 @@ const HOPE_CHAPTERS = [
       },
       {
         en: 'This chapter sits at the end of the character wing because it is the one most easily turned into its opposite. Knowledge is the quickest route to the arrogance that Muslim 91 defines as rejecting truth and looking down on people, and the Sunnah warns about it directly. What protects it is the manner it is carried with — which is exactly what the nineteen chapters before it were about.',
-        bn: 'এই অধ্যায়টা চরিত্র-অংশের একেবারে শেষে, কারণ এটাকেই সবচেয়ে সহজে উল্টে ফেলা যায়। মুসলিম ৯১ অহংকারের যে সংজ্ঞা দিয়েছে — সত্য ফিরিয়ে দেওয়া আর মানুষকে তুচ্ছ করা — ইলমই সেখানে পৌঁছানোর সবচেয়ে দ্রুত পথ। সুন্নাহ সরাসরি এ ব্যাপারে সতর্ক করেছে। ইলমকে বাঁচায় একটাই জিনিস: বহন করার ভঙ্গি। আর তার আগের ঊনিশটা অধ্যায় ঠিক ওই ভঙ্গিটার কথাই বলছিল।',
+        bn: 'এই অধ্যায়টা চরিত্র-অংশের একেবারে শেষে, কারণ এটাকেই সবচেয়ে সহজে উল্টে ফেলা যায়। মুসলিম ৯১ অহংকারের যে সংজ্ঞা দিয়েছে (সত্য ফিরিয়ে দেওয়া আর মানুষকে তুচ্ছ করা), ইলমই সেখানে পৌঁছানোর সবচেয়ে দ্রুত পথ। সুন্নাহ সরাসরি এ ব্যাপারে সতর্ক করেছে। ইলমকে বাঁচায় একটাই জিনিস: বহন করার ভঙ্গি। আর তার আগের ঊনিশটা অধ্যায় ঠিক ওই ভঙ্গিটার কথাই বলছিল।',
       },
     ],
     verses: [

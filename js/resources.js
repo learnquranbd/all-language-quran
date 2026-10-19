@@ -13,7 +13,7 @@ const RESOURCES_DATA = [
     { name: 'QuranWBW', url: 'https://quranwbw.com', emoji: '📝',
       en: 'Word-by-word meaning, transliteration, morphology, word audio', bn: 'শব্দে-শব্দে অর্থ, উচ্চারণ, রূপতত্ত্ব ও শব্দ-অডিও'},
     { name: 'Greentech Al Quran', url: 'https://gtaf.org/apps/quran/', emoji: '📲',
-      en: 'Word-by-word, tafsir & mushaf in 60+ languages (Bangla)', bn: '৬০+ ভাষায় শব্দে-শব্দে, তাফসির ও মুসহাফ (বাংলাসহ)'},
+      en: 'Word-by-word, tafsir & mushaf in 60+ languages, Bangla included', bn: '৬০+ ভাষায় শব্দে-শব্দে, তাফসির ও মুসহাফ (বাংলাসহ)'},
     { name: 'Quranflash', url: 'https://app.quranflash.com', emoji: '📄',
       en: 'Interactive mushaf reader with many print editions', bn: 'অনেক ছাপার সংস্করণসহ ইন্টারেক্টিভ মুসহাফ পাঠক'},
     { name: 'Al-Quran.info', url: 'https://al-quran.info', emoji: '🌐',

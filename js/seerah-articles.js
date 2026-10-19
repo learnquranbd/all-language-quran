@@ -1108,8 +1108,8 @@ var SEERAH_ARTICLES = {
         h: { en: "A Community Built on Prayer", bn: "নামাজের উপর গড়া সমাজ" },
         p: [
           {
-            en: "Every other duty of the religion came down as revelation carried to him where he stood. The sirah writers note that the five prayers were given on this journey, and that no other obligation is described as having been given that way. It is why the prayer is spoken of as the believer's own ascent, and why 17:78 and 17:79, in the same surah, fix the hours of the day and the night prayer.",
-            bn: "দ্বীনের বাকি সব হুকুম নেমেছে ওহি হয়ে, তিনি যেখানে ছিলেন সেখানেই। সিরাতের লেখকরা মনে করিয়ে দেন, পাঁচ ওয়াক্ত নামাজ এসেছে এই সফরে, আর অন্য কোনো ফরজের বেলায় এমন কথা বলা হয়নি। এ কারণেই নামাজকে বলা হয় মুমিনের নিজের মিরাজ। একই সূরার ১৭:৭৮ আর ১৭:৭৯ আয়াত দিনের ওয়াক্তগুলো আর রাতের নামাজের কথা ঠিক করে দেয়।"
+            en: "Every other duty of the religion came down as revelation carried to him where he stood. The sirah writers note that the five prayers were given on this journey, and that no other obligation is described as having been given that way. It is why the prayer is spoken of as the believer's own ascent, and why 17:78, in the same surah, sets the prayer times from the sun's decline to the dark of night and at dawn, and 17:79 the night prayer.",
+            bn: "দ্বীনের বাকি সব হুকুম নেমেছে ওহি হয়ে, তিনি যেখানে ছিলেন সেখানেই। সিরাতের লেখকরা মনে করিয়ে দেন, পাঁচ ওয়াক্ত নামাজ এসেছে এই সফরে, আর অন্য কোনো ফরজের বেলায় এমন কথা বলা হয়নি। এ কারণেই নামাজকে বলা হয় মুমিনের নিজের মিরাজ। একই সূরার ১৭:৭৮ আয়াত সূর্য ঢলে পড়া থেকে রাতের অন্ধকার পর্যন্ত আর ফজরের নামাজের সময় ঠিক করে দেয়, আর ১৭:৭৯ আয়াত রাতের নামাজের (তাহাজ্জুদ) কথা বলে।"
           },
           {
             en: "The number that came back was five, and it re-cut the day. 4:103 calls the prayer a decree of specified times upon the believers, and from then the community counted its hours by them. The qibla at this stage was still Jerusalem, the city he had been taken to; the turn to the Ka'bah came later, in Madinah, in the second year after the Hijra.",

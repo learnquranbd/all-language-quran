@@ -769,7 +769,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a word of place. Hunalika, there, at that spot. What happened there is told in 3:37: Maryam had been placed in Zakariyya's (AS) care, and every time he entered upon her in the mihrab he found provision with her. He asked where it came from, and she answered that it was from Allah, who provides for whom He wills without reckoning.",
-            "bn": "আয়াতটি শুরু হয় স্থানবাচক একটি শব্দ দিয়ে। হুনালিকা — সেখানে, ঠিক সেই জায়গায়। সেখানে কী ঘটেছিল তা বলা আছে 3:37-এ: মারইয়ামকে যাকারিয়া (আঃ)-এর তত্ত্বাবধানে রাখা হয়েছিল, আর তিনি যতবারই মিহরাবে তাঁর কাছে প্রবেশ করতেন, ততবারই তাঁর কাছে রিযিক দেখতে পেতেন। তিনি জিজ্ঞেস করতেন এ কোথা থেকে এলো, আর মারইয়াম উত্তর দিতেন — এ আল্লাহর পক্ষ থেকে, যিনি যাকে ইচ্ছা বেহিসাব রিযিক দেন।"
+            "bn": "আয়াতটি শুরু হয় স্থানবাচক একটি শব্দ দিয়ে। হুনালিকা: সেখানে, ঠিক সেই জায়গায়। সেখানে কী ঘটেছিল তা বলা আছে 3:37-এ: মারইয়ামকে যাকারিয়া (আঃ)-এর তত্ত্বাবধানে রাখা হয়েছিল, আর তিনি যতবারই মিহরাবে তাঁর কাছে প্রবেশ করতেন, ততবারই তাঁর কাছে রিযিক দেখতে পেতেন। তিনি জিজ্ঞেস করতেন এ কোথা থেকে এলো, আর মারইয়াম উত্তর দিতেন, এ আল্লাহর পক্ষ থেকে, যিনি যাকে ইচ্ছা বেহিসাব রিযিক দেন।"
           },
           {
             "en": "So the prayer of 3:38 is not offered in a vacuum. It is offered on the spot where he had just been shown, repeatedly and without explanation, that provision does not depend on the usual channels. The verse ties his asking to that seeing with a single adverb, and the commentators read hunalika as covering the moment as well as the place: seeing that, he prayed then.",

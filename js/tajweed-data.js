@@ -962,7 +962,7 @@ const TAJWEED_QUIZ = [
   { qEn: 'How does hamzat al-qatʿ differ from hamzat al-waṣl?',
     qBn: 'হামযাতুল ক্বাত ও হামযাতুল ওয়াসলের পার্থক্য কী?',
     optsEn: ['Hamzat al-qatʿ is always pronounced — starting or continuing — while hamzat al-waṣl drops in continuation', 'Hamzat al-qatʿ drops when continuing; hamzat al-waṣl is always pronounced', 'Both are always dropped in recitation', 'They are two names for the same hamza'],
-    optsBn: ['হামযাতুল ক্বাত সর্বদা উচ্চারিত — শুরুতে বা মাঝে — কিন্তু হামযাতুল ওয়াসল ওয়াসলে বাদ পড়ে', 'হামযাতুল ক্বাত ওয়াসলে বাদ পড়ে; হামযাতুল ওয়াসল সর্বদা উচ্চারিত', 'উভয়ই তিলাওয়াতে সর্বদা বাদ পড়ে', 'দুটি একই হামযার দুই নাম'],
+    optsBn: ['হামযাতুল ক্বাত সর্বদা উচ্চারিত (শুরুতে বা মাঝে), কিন্তু হামযাতুল ওয়াসল ওয়াসলে বাদ পড়ে', 'হামযাতুল ক্বাত ওয়াসলে বাদ পড়ে; হামযাতুল ওয়াসল সর্বদা উচ্চারিত', 'উভয়ই তিলাওয়াতে সর্বদা বাদ পড়ে', 'দুটি একই হামযার দুই নাম'],
     correct: 0 },
   { qEn: 'According to the rule of Tarqīq al-Lām, which is the ONLY heavy lām in the Quran?',
     qBn: 'তারকিকুল লামের নিয়ম অনুযায়ী কুরআনে একমাত্র ভারী লাম কোনটি?',

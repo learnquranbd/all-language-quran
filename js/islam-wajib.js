@@ -160,11 +160,11 @@ const WAJIB_QUR = [
   { ref: '22:36', en: '"And the camels and cattle — We have appointed them for you as among the symbols of Allah…"', bn: '"আর উট ও গরু — আমি এগুলো তোমাদের জন্য আল্লাহর নিদর্শনসমূহের অন্তর্ভুক্ত করেছি…"' },
   { ref: '22:29', en: '"Then let them end their untidiness, fulfill their vows, and perform tawaf around the ancient House."', bn: '"তারপর তারা যেন তাদের ময়লা দূর করে, মান্নত পূর্ণ করে এবং প্রাচীন ঘরের চারপাশে তাওয়াফ করে।"' },
   { ref: '2:43', en: '"And establish prayer and give zakāh and bow with those who bow [in worship]."', bn: '"তোমরা নামাজ কায়েম কর, যাকাত দাও এবং রুকুকারীদের সাথে রুকু কর।"' },
-  { ref: '5:97', en: '"Allah has appointed the Kaʿbah, the Sacred House, as a means of support and order for the people."', bn: '"আল্লাহ কাবাকে — পবিত্র ঘরকে — মানুষের জন্য প্রতিষ্ঠার কেন্দ্রবিন্দু করেছেন।"' },
+  { ref: '5:97', en: '"Allah has appointed the Kaʿbah, the Sacred House, as a means of support and order for the people."', bn: '"আল্লাহ কাবাকে, পবিত্র ঘরকে, মানুষের জন্য প্রতিষ্ঠার কেন্দ্রবিন্দু করেছেন।"' },
   { ref: '98:5', en: '"And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and give zakāh."', bn: '"তাদেরকে কেবল এই নির্দেশ দেওয়া হয়েছিল যে, তারা খাঁটি মনে একনিষ্ঠভাবে আল্লাহর ইবাদত করবে, নামাজ কায়েম করবে ও যাকাত দেবে।"' },
   { ref: '2:196', en: '"And complete the Ḥajj and ʿumrah for Allah. But if you are prevented, then [offer] whatever sacrificial animal is available…"', bn: '"আল্লাহর উদ্দেশে হজ ও উমরা পূর্ণ কর। কিন্তু যদি বাধা পাও, তাহলে যত সহজে সম্ভব কুরবানি দাও…"' },
   { ref: '22:34', en: '"And for all religion We have appointed a rite [of sacrifice], that they may mention the name of Allah over what He has provided them of sacrificial animals."', bn: '"প্রতিটি সম্প্রদায়ের জন্য আমি কুরবানির বিধান রেখেছি, যাতে তারা আল্লাহ-প্রদত্ত চতুষ্পদ জন্তুর উপর আল্লাহর নাম উচ্চারণ করে।"' },
-  { ref: '73:2-4', en: '"Arise [to pray] the night, except for a little — half of it or subtract from it a little, or add to it; and recite the Quran with measured recitation."', bn: '"রাতে নামাজে দাঁড়াও — অল্প সময় বাদে — অর্ধেক রাত বা তার চেয়ে কিছু কম, অথবা তার চেয়ে বেশি; এবং কুরআন সুন্দরভাবে তিলাওয়াত কর।"' },
+  { ref: '73:2-4', en: '"Arise [to pray] the night, except for a little — half of it or subtract from it a little, or add to it; and recite the Quran with measured recitation."', bn: '"রাতে নামাজে দাঁড়াও, অল্প সময় বাদে: অর্ধেক রাত বা তার চেয়ে কিছু কম, অথবা তার চেয়ে বেশি; এবং কুরআন সুন্দরভাবে তিলাওয়াত কর।"' },
   { ref: '2:203', en: '"And remember Allah during [specific] numbered days. Then whoever hastens [his departure] in two days — there is no sin upon him; and whoever delays — there is no sin upon him — for him who fears Allah."', bn: '"আর তোমরা নির্দিষ্ট সংখ্যক দিনে আল্লাহকে স্মরণ কর। অতঃপর যে দুই দিনে তাড়াহুড়া করে চলে যায় তার কোনো গুনাহ নেই, আর যে দেরি করে তারও গুনাহ নেই — যে তাকওয়া অবলম্বন করে তার জন্য।"' },
   { ref: '2:238', en: '"Maintain with care the [obligatory] prayers and [especially] the middle prayer, and stand before Allah, devoutly obedient."', bn: '"তোমরা নামাজগুলোর প্রতি যত্নবান হও, বিশেষত মধ্যবর্তী নামাজের, এবং আল্লাহর সামনে বিনীতভাবে দাঁড়াও।"' },
 ];
@@ -208,7 +208,7 @@ const WAJIB_HADITH = [
   },
   {
     textEn: '"When one of you is uncertain in his prayer and does not know how many he prayed — three or four — let him cast aside doubt and build on what he is sure of, then perform two prostrations before salam."',
-    textBn: '"তোমাদের কেউ নামাজে সন্দেহে পড়লে — তিন পড়েছে না চার — সন্দেহ ছেড়ে দিয়ে নিশ্চিত সংখ্যার উপর ভিত্তি করুক, তারপর সালামের আগে দুটি সিজদা করুক।"',
+    textBn: '"তোমাদের কেউ নামাজে সন্দেহে পড়লে (তিন পড়েছে না চার), সন্দেহ ছেড়ে দিয়ে নিশ্চিত সংখ্যার উপর ভিত্তি করুক, তারপর সালামের আগে দুটি সিজদা করুক।"',
     srcEn: 'Muslim 571',
     srcBn: 'মুসলিম ৫৭১',
   },

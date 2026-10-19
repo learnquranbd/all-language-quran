@@ -509,5 +509,89 @@
   "word": "يَضَعْنَ",
   "tag": "IMPF VF:1 3FP MOOD:IND",
   "correct": "IMPF VF:1 3FP, built on sukūn, in the position of the subjunctive after ḥattā (implied an). Role states no mood; no lesson change."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "75:29",
+  "word": "بِٱلسَّاقِ",
+  "tag": "N M GEN",
+  "correct": "N F GEN: the second sāq of the verse; sāq is feminine without a feminine ending (the verb ٱلْتَفَّتِ is 3FS). The first, ٱلسَّاقُ (w2), was corrected under the audit entry for 75:29."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "68:42",
+  "word": "سَاقٍ",
+  "tag": "N M INDEF GEN",
+  "correct": "N F INDEF GEN: sāq is feminine (75:29 ٱلْتَفَّتِ ٱلسَّاقُ, 3FS verb)."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "27:44",
+  "word": "سَاقَيْهَا",
+  "tag": "N MD GEN",
+  "correct": "N FD GEN: dual of sāq, which is feminine (75:29 ٱلْتَفَّتِ ٱلسَّاقُ, 3FS verb)."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "38:33",
+  "word": "بِٱلسُّوقِ",
+  "tag": "N M GEN, lemma سُوق",
+  "correct": "N FP GEN, lemma ساق: sūq here is the broken plural of sāq 'leg' (stroking the legs and necks, beside ٱلْأَعْنَاقِ), not sūq 'market'. Plural of a feminine noun, tagged FP as the corpus tags أَرْجُل and أَعْيُن."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "48:29",
+  "word": "سُوقِهِۦ",
+  "tag": "N M GEN, lemma سُوق",
+  "correct": "N FP GEN, lemma ساق: sūq here is the broken plural of sāq 'stalk' (the crop stands firm on its stalks), not sūq 'market'. Plural of a feminine noun, tagged FP as the corpus tags أَرْجُل and أَعْيُن."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "6:99",
+  "word": "نَبَاتَ",
+  "tag": "N F ACC",
+  "correct": "N M: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective; 7:58 يَخْرُجُ نَبَاتُهُۥ, masculine verb). Same correction as 78:15 and 71:17, which the audit named; this is a sweep of the remaining occurrences. Lesson text states no gender."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "7:58",
+  "word": "نَبَاتُهُۥ",
+  "tag": "N F NOM",
+  "correct": "N M: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective; 7:58 يَخْرُجُ نَبَاتُهُۥ, masculine verb). Same correction as 78:15 and 71:17, which the audit named; this is a sweep of the remaining occurrences. Lesson text states no gender."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "10:24",
+  "word": "نَبَاتُ",
+  "tag": "N F NOM",
+  "correct": "N M: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective; 7:58 يَخْرُجُ نَبَاتُهُۥ, masculine verb). Same correction as 78:15 and 71:17, which the audit named; this is a sweep of the remaining occurrences. Lesson text states no gender."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "18:45",
+  "word": "نَبَاتُ",
+  "tag": "N F NOM",
+  "correct": "N M: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective; 7:58 يَخْرُجُ نَبَاتُهُۥ, masculine verb). Same correction as 78:15 and 71:17, which the audit named; this is a sweep of the remaining occurrences. Lesson text states no gender."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "20:53",
+  "word": "نَّبَاتٍ",
+  "tag": "N F INDEF GEN",
+  "correct": "N M: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective; 7:58 يَخْرُجُ نَبَاتُهُۥ, masculine verb). Same correction as 78:15 and 71:17, which the audit named; this is a sweep of the remaining occurrences. Lesson text states no gender."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "57:20",
+  "word": "نَبَاتُهُۥ",
+  "tag": "N F NOM",
+  "correct": "N M: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective; 7:58 يَخْرُجُ نَبَاتُهُۥ, masculine verb). Same correction as 78:15 and 71:17, which the audit named; this is a sweep of the remaining occurrences. Lesson text states no gender."
+ },
+ {
+  "batch": "SWEEP",
+  "ref": "2:222",
+  "word": "ٱلْمَحِيضِ (w3, w10)",
+  "tag": "N PASS_PCPL VF:1 M GEN",
+  "correct": "N M GEN: noun of the action (maṣdar mīmī) 'menstruation'; ḥāḍa is intransitive and has no passive participle here. Same correction as 65:4. Lesson text states no form."
  }
 ]

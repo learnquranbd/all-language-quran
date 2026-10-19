@@ -5920,7 +5920,7 @@ const SAHABA_UI = {
   sahaba_title: { en: 'Companions (Sahaba)', bn: 'সাহাবিগণ', zh: '圣门弟子（萨哈巴）', ja: '教友（サハーバ）' },
   sahaba_subtitle: { en: 'The Companions of the Prophet Muhammad ﷺ', bn: 'নবী মুহাম্মদ ﷺ-এর সাহাবিগণ', zh: '先知穆罕默德ﷺ的门弟子', ja: '預言者ムハンマドﷺの教友たち' },
   sahaba_intro: { en: 'Explore the Companions along a timeline of the early community. Tap any name to read their role, story, key highlights, connected verses, and a lesson.', bn: 'প্রাথমিক মুসলিম সমাজের টাইমলাইন ধরে সাহাবিদের জানুন। ভূমিকা, কাহিনি, গুরুত্বপূর্ণ মুহূর্ত, সংশ্লিষ্ট আয়াত ও শিক্ষা পড়তে যেকোনো নামে ট্যাপ করুন।', zh: '沿着早期社群的时间线探索圣门弟子。点击任何名字，阅读其角色、故事、重要事迹、相关经文和教训。', ja: '初期共同体の時系列に沿って教友たちを探求。名前をタップして、その役割、物語、主要な功績、関連する節、教訓を読む。' },
-  sahaba_note: { en: 'Content follows mainstream Sunni sources. Honorific (RA) — may Allah be pleased with them — is intended after every Companion\'s name.', bn: 'বিষয়বস্তু মূলধারার সুন্নি সূত্র অনুসরণ করে। প্রতিটি সাহাবির নামের পর (রাঃ) — আল্লাহ তাঁদের প্রতি সন্তুষ্ট হোন — উদ্দিষ্ট।', zh: '内容遵循主流逊尼派资料。每位门弟子名字后均含敬语（愿主喜悦之）。', ja: '内容は主流スンニ派の資料に準拠。各教友の名の後には敬称（アッラーが彼らに満足されますように）が意図されています。' },
+  sahaba_note: { en: 'Content follows mainstream Sunni sources. Honorific (RA) — may Allah be pleased with them — is intended after every Companion\'s name.', bn: 'বিষয়বস্তু মূলধারার সুন্নি সূত্র অনুসরণ করে। প্রতিটি সাহাবির নামের পর (রাঃ), অর্থাৎ ‘আল্লাহ তাঁদের প্রতি সন্তুষ্ট হোন’, উদ্দিষ্ট।', zh: '内容遵循主流逊尼派资料。每位门弟子名字后均含敬语（愿主喜悦之）。', ja: '内容は主流スンニ派の資料に準拠。各教友の名の後には敬称（アッラーが彼らに満足されますように）が意図されています。' },
   sahaba_view_timeline: { en: 'Timeline', bn: 'টাইমলাইন', zh: '时间线', ja: 'タイムライン' },
   sahaba_view_grid: { en: 'Grid', bn: 'গ্রিড', zh: '网格', ja: 'グリッド' },
   sahaba_group_toggle: { en: 'Group by era', bn: 'যুগ অনুসারে', zh: '按时代分组', ja: '時代別' },

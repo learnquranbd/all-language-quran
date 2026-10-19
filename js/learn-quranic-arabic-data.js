@@ -1458,8 +1458,8 @@ const QA_LESSONS = [
     id: 'read-falaq', unit: 'reading', icon: '🌄',
     title: { en: 'Reading 113:1–5 — Al-Falaq (The Daybreak)', bn: '১১৩:১–৫ পড়া — সূরা ফালাক (প্রভাত)' },
     concept: {
-      en: 'A surah of seeking refuge from four specific evils. It uses the command قُلْ, the present verb أَعُوذُ, prepositions (بِ, مِن), a relative clause, the noun شَرّ ("evil") in iḍāfah, and ḥāl-like descriptive phrases in jarr.',
-      bn: 'চারটি নির্দিষ্ট অনিষ্ট থেকে আশ্রয় চাওয়ার সূরা। এতে আছে আদেশ قُلْ, বর্তমান ফেল أَعُوذُ, হরফে জর (بِ, مِن), একটি সিলা-বাক্য, ইযাফতে আসা ইসম شَرّ (অনিষ্ট), আর জর অবস্থায় হালের মতো বর্ণনামূলক বাক্যাংশ।',
+      en: 'A surah of seeking refuge from four specific evils. It uses the command قُلْ, the present verb أَعُوذُ, prepositions (بِ, مِن), a relative clause, the noun شَرّ ("evil") in iḍāfah, and descriptive active participles (غَاسِق, ٱلنَّفَّٰثَٰت, حَاسِد) as its muḍāf ilayh in jarr.',
+      bn: 'চারটি নির্দিষ্ট অনিষ্ট থেকে আশ্রয় চাওয়ার সূরা। এতে আছে আদেশ قُلْ, বর্তমান ফেল أَعُوذُ, হরফে জর (بِ, مِن), একটি সিলা-বাক্য, ইযাফতে আসা ইসম شَرّ (অনিষ্ট), আর বর্ণনামূলক ইসমে ফায়েল (غَاسِق, ٱلنَّفَّٰثَٰت, حَاسِد), যেগুলো এর মুযাফ ইলাইহি হিসেবে জর অবস্থায়।',
     },
     examples: [
       { ref: '113:1', trans: { en: 'Say, "I seek refuge in the Lord of the daybreak."', bn: 'বলুন, "আশ্রয় চাই প্রভাতের রবের কাছে।"' },
@@ -1479,7 +1479,7 @@ const QA_LESSONS = [
           { ar: 'خَلَقَ', en: 'He created', bn: 'সৃষ্টি করেছেন', role: { en: 'past verb (māḍī)', bn: 'অতীত ফেল (মাযী)' } },
         ] },
       { ref: '113:3', trans: { en: 'And from the evil of the darkness when it settles.', bn: 'আর অন্ধকারের অনিষ্ট থেকে, যখন তা গাঢ় হয়ে নেমে আসে।' },
-        note: { en: 'غَاسِقٍ is an active participle (ism al-fāʿil) in jarr after مِن — describing the darkness that "intrudes". إِذَا وَقَبَ = "when it enters" — a temporal clause.', bn: 'غَاسِقٍ ইসমে ফায়েল, مِن-এর পরে জর অবস্থায়। এটি সেই অন্ধকারের বর্ণনা, যা "ঢুকে পড়ে"। إِذَا وَقَبَ = "যখন তা প্রবেশ করে"; এটি সময় বোঝানোর বাক্যাংশ।' },
+        note: { en: 'غَاسِقٍ is an active participle (ism al-fāʿil) in jarr as muḍāf ilayh of شَرِّ — describing the darkness that "intrudes". إِذَا وَقَبَ = "when it enters" — a temporal clause.', bn: 'غَاسِقٍ ইসমে ফায়েল, شَرِّ-এর মুযাফ ইলাইহি হিসেবে জর অবস্থায়। এটি সেই অন্ধকারের বর্ণনা, যা "ঢুকে পড়ে"। إِذَا وَقَبَ = "যখন তা প্রবেশ করে"; এটি সময় বোঝানোর বাক্যাংশ।' },
         words: [
           { ar: 'وَمِن', en: 'and from', bn: 'এবং থেকে', role: { en: 'and + preposition', bn: 'وَ + হরফে জর' } },
           { ar: 'شَرِّ', en: 'evil', bn: 'অনিষ্ট', role: { en: 'noun (muḍāf, jarr)', bn: 'ইসম (মুযাফ, জর)' } },
