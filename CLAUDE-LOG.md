@@ -14,7 +14,12 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## RESUME HERE (2026-10-19 c): Mutashabihat group review DONE, v1006 (committed; USER: commit only, no push/deploy)
+## RESUME HERE (2026-10-19 d): Mutashabihat round 2 DONE, v1007 (committed; USER: commit only, no push/deploy)
+- Twins added to 17 groups (GREV2/plan-H1..H3.json, apply-plans.js --dir GREV2): rule = shares a 3+ word run with a member, no removals. Notes re-drafted (S1-S3: kept 114, rewrote 12, 31 new) and audited (1 blocker: 27:60 close, fixed; 6 minor). C13 (21 names/descs) + C13R (3 corrected descs) in 13 langs; 0 untranslated; notes 116/116 groups.
+- Mutashabihat review is CLOSED: doubts doc marked resolved; remaining rows are weak links kept on purpose.
+- Unpushed: v1003-v1007 (USER said commit only). Next: ask the user (push/deploy, or next module: Quranic Arabic Juz 27, Islam rulings check, Nuzul al-Wahidi).
+
+## Earlier (2026-10-19 c): Mutashabihat group review DONE, v1006 (committed; USER: commit only, no push/deploy)
 - 40 doubted groups ruled on (tools/mutashabihat/work/GREV/plan-G1..G6.json, applied by tools/mutashabihat/apply-plans.js; do NOT re-run it, deleted ids would fail): 108 -> 116 groups, 3 deleted (maryam-provision, sujud-li-adam-openings dup, hud-prophet-cycle split), 45 changed/new incl. 11 new (khaliqun-basharan, waqia-ashab, farraqu-dinahum, arsalna-nuhan, jaat-rusuluna, anba-al-ghayb, unzila-ilayka, la-tamshi-marahan, anna-yakunu-li, hanifan-mushrikin, tanzil-al-kitab).
 - Notes for all 45 re-drafted (R1-R5, prep.js --ids) and audited: 1 blocker (23:46 "same words as 10:75", fixed), 3 major, 17 minor, all applied; 116/116 groups have notes.
 - Names/descs translated: C12 (75) in 13 langs; 9 translator flags fixed in EN+BN (7 innā anzalnā, 13+1 innaka anta, jāʾat-hum, 40:51, 2:253, umkuthū, 3:126/8:10) and retranslated via C12R; 0 untranslated in every language. Harness: tab loads 116 groups, group viewer OK, no console errors.

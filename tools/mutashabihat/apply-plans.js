@@ -1,7 +1,7 @@
 // Apply group-review plans (work/GREV/plan-G*.json) to MUTASHABIHAT_GROUPS in js/mutashabihat-data.js:
 // new member lists, renames, splits (new groups inserted after their source), deletions. Notes of deleted
 // groups are dropped from data/mutashabihat-notes.json; changed groups are listed for re-drafting.
-// usage: node tools/mutashabihat/apply-plans.js [--write]      (no plans: round-trip check of the file format)
+// usage: node tools/mutashabihat/apply-plans.js [--dir GREV2] [--write]      (no plans: round-trip check of the file format)
 const fs = require('fs'), path = require('path');
 const { ROOT, groups, NOTES, notes } = require('./lib.js');
 const FILE = path.join(ROOT, 'js/mutashabihat-data.js'), write = process.argv.includes('--write');
@@ -23,8 +23,8 @@ const block = (txt, id) => {
 const style = {};   // id -> formatter
 const bad = G.filter((g) => { const b = block(src, g.id); if (!b) return true; style[g.id] = b[2] ? fmtJ : fmt; return src.slice(b[0], b[1]) !== style[g.id](g); });
 if (bad.length) { console.log('!! formatter does not round-trip: ' + bad.map((g) => g.id).join(' ')); process.exit(1); }
-const dir = path.join(__dirname, 'work', 'GREV');
-const plans = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => /^plan-G\d+\.json$/.test(f)).sort() : [];
+const dirArg = process.argv.indexOf('--dir'), dir = path.join(__dirname, 'work', dirArg > 0 ? process.argv[dirArg + 1] : 'GREV');
+const plans = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => /^plan-[A-Z]\d+\.json$/.test(f)).sort() : [];
 if (!plans.length) { console.log('round-trip OK (' + G.length + ' blocks); no plans'); process.exit(0); }
 const byId = Object.fromEntries(G.map((g) => [g.id, g])), changed = new Set(), deleted = new Set(), log = [], appended = [], kids = {};
 const ref = (r) => { const [s, a] = r.split(':').map(Number); return s * 1000 + a; };

@@ -1,5 +1,7 @@
 # Mutashabihat: groups to review
 
+**Status (v1007, 2026-10-19):** round 2 acted on this list. Twins were added to 17 groups (decisions with occurrence counts in `tools/mutashabihat/work/GREV2/plan-H1..H3.json`); every other row was judged a weak or frame-only link (under 3 shared words) and kept as is. Nothing below is still pending unless you want those weak links added.
+
 Collected 2026-10-19 from the auditors of batches R1-R5. Each line is a group whose membership the audit questioned: ayat that share only a word or a theme, a duplicate group, or real look-alikes left out. The notes for every group were still written and audited; this list is about the groups themselves (`js/mutashabihat-data.js`, MUTASHABIHAT_GROUPS), which are yours to change.
 
 | # | Group | Ayat | Doubt |
