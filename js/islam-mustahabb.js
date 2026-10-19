@@ -54,7 +54,7 @@ const MUSTAHABB_ITEMS = [
     ref: 'Tirmidhi 1956',
   },
   { emoji: '\ud83e\udd3e',
-    titleEn: 'Entering & Exiting with the Right Foot', titleBn: 'ডান পায়ে ঢোকা, বাম পায়ে বের হওয়া',
+    titleEn: 'Entering with the Right Foot, Exiting with the Left', titleBn: 'ডান পায়ে ঢোকা, বাম পায়ে বের হওয়া',
     descEn: 'It is a sunnah to enter the masjid with the right foot and leave with the left (reported from Anas RA by al-Hakim; al-Bukhari notes that Ibn \u2019Umar did so). The Prophet \ufdfa liked to begin with the right in purification, combing his hair, putting on shoes and all his affairs (Bukhari 168), so entering the home and eating also begin with the right. Scholars teach entering the toilet with the left foot.',
     descBn: 'ডান পা দিয়ে মসজিদে ঢোকা আর বাম পা দিয়ে বের হওয়া সুন্নত (আনাস (রাঃ) থেকে হাকিম বর্ণনা করেছেন; বুখারি উল্লেখ করেছেন, ইবনে উমর (রাঃ) এমন করতেন)। নবী ﷺ পবিত্রতা অর্জন, চুল আঁচড়ানো, জুতা পরা, এমনকি সব কাজই ডান দিক থেকে শুরু করতে পছন্দ করতেন (বুখারি ১৬৮); তাই ঘরে ঢোকা আর খাওয়াও ডান দিক থেকে শুরু করা হয়। আলেমরা শেখান, টয়লেটে ঢুকতে হয় বাম পা দিয়ে।',
     ref: 'Bukhari 168',

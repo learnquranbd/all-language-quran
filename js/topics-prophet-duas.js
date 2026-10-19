@@ -9,15 +9,15 @@ const PROPHET_DUAS = [
   {
     refs: '7:23',
     names: {
-      en: "Adam's repentance after the fall",
-      bn: 'আদম ও হাওয়ার তাওবার দুআ',
-      ar: 'دعاء آدم وحواء في التوبة',
-      ur: 'آدم اور حوا کی توبہ کی دعا',
-      id: 'Doa tobat Adam dan Hawa',
-      tr: "Âdem'in tövbe duası",
-      fr: "La repentance d'Adam et Ève",
-      zh: '亚当和夏娃的悔过祈祷',
-      ja: 'アーダムの悔悟の祈り', hi: 'ज़मीन पर उतारे जाने के बाद आदम (अलैहिस्सलाम) की तौबा', es: 'El arrepentimiento de Adán tras la caída', ru: 'Покаяние Адама после изгнания из Рая', de: 'Adams Reue nach dem Fall', fa: 'توبه‌ی آدم پس از هبوط', ms: 'Taubat Adam a.s. selepas tergelincir'
+      en: "Adam and Hawwa's repentance after eating from the tree",
+      bn: 'নিষিদ্ধ গাছ থেকে খাওয়ার পর আদম ও হাওয়ার তাওবার দুআ',
+      ar: 'دعاء آدم وحواء في التوبة بعد الأكل من الشجرة',
+      ur: 'درخت سے کھانے کے بعد آدم اور حوا کی توبہ کی دعا',
+      id: 'Doa tobat Adam dan Hawa setelah makan dari pohon itu',
+      tr: "Âdem ile Havva'nın ağaçtan yedikten sonraki tövbe duası",
+      fr: "La repentance d'Adam et Ève après avoir mangé de l'arbre",
+      zh: '阿丹和哈娃吃了那棵树的果实后的悔过祈祷',
+      ja: 'アーダムとハウワーが木から食べた後の悔悟の祈り', hi: 'पेड़ से खाने के बाद आदम (अलैहिस्सलाम) और हव्वा की तौबा', es: 'El arrepentimiento de Adán y Eva tras comer del árbol', ru: 'Покаяние Адама и Хаввы после того, как они вкусили от дерева', de: 'Adams und Hawwas Reue, nachdem sie vom Baum gegessen hatten', fa: 'توبه‌ی آدم و حوا پس از خوردن از آن درخت', ms: 'Taubat Adam a.s. dan Hawa selepas memakan buah pokok itu'
     }
   },
   {

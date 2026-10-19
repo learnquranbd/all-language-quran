@@ -821,7 +821,7 @@ const KIDS_DUAS = [
   {
     arabic: 'اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي',
     translit: "Allahumma innaka 'Afuwwun tuhibbul-'afwa fa'fu 'anni",
-    meaning_en: 'O Allah, You are the Most Forgiving, You love forgiveness — so forgive me.',
+    meaning_en: 'O Allah, You are the One who pardons, You love to pardon, so pardon me.',
     when_en: 'Night of Power (Laylatul Qadr) and any night',
     src: 'Tirmidhi 3513'
   },

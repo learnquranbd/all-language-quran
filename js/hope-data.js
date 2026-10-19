@@ -1937,7 +1937,7 @@ const HOPE_CHAPTERS = [
       {
         src: 'Sahih al-Bukhari 6114, Sahih Muslim 2609',
         text: {
-          en: 'The Prophet ﷺ said: “The strong man is not the one who overcomes people by his strength. The strong man is the one who controls himself when he is angry.”',
+          en: 'The Prophet ﷺ said: “The strong man is not the one who beats people at wrestling. The strong man is the one who controls himself when he is angry.”',
           bn: 'নবী ﷺ বলেছেন: “শক্তিশালী সেই নয় যে কুস্তিতে মানুষকে হারায়। শক্তিশালী সেই, যে রাগের সময় নিজেকে সংযত রাখে।”',
         },
         note: {

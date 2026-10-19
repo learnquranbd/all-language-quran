@@ -215,11 +215,11 @@ const MORNING_EVENING_ADHKAR = [
   { id: 'tahlil', count: 10,
     ar: 'لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ',
     tr: 'La ilaha illa Allahu wahdahu la sharika lah…',
-    src: 'Bukhari 6404 · an-Nasa’i',
-    en: 'The declaration of tawhid — ten times in the morning and evening; saying it ten times is like freeing four slaves from the children of Isma‘il.',
-    bn: 'তাওহিদের কালিমা — সকাল-সন্ধ্যায় দশবার। দশবার বললে ইসমাইল (আঃ)-এর বংশের চারজন দাস মুক্ত করার সমান সওয়াব হয়।',
-    zh: '认主独一的宣言——早晚十遍；念十遍如同释放伊斯玛仪后裔中的四个奴隶。',
-    ja: 'タウヒードの宣言——朝晩十回；十回唱えることはイスマーイールの子孫の奴隷四人を解放するに等しい。'},
+    src: 'Muslim 2693 · Bukhari 6404',
+    en: 'The declaration of tawhid — many say it ten times in the morning and evening; whoever says it ten times is like one who freed four slaves from the children of Isma‘il.',
+    bn: 'তাওহিদের কালিমা — অনেকে সকাল-সন্ধ্যায় দশবার পড়েন। যে দশবার বলে, সে যেন ইসমাইল (আঃ)-এর বংশের চারজন দাস মুক্ত করল।',
+    zh: '认主独一的宣言——许多人早晚各念十遍；谁念十遍，就如同释放了易司马仪后裔中的四个奴隶。',
+    ja: 'タウヒードの宣言——多くの人が朝晩に十回唱える；これを十回唱える者は、イスマーイールの子孫の奴隷四人を解放した者のようである。'},
   { id: 'bismillah-protect', count: 3,
     ar: 'بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ',
     tr: 'Bismillahilladhi la yadurru ma’asmihi shay’…',
@@ -231,11 +231,11 @@ const MORNING_EVENING_ADHKAR = [
   { id: 'audhu-kalimat', count: 3,
     ar: 'أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ',
     tr: 'A’udhu bikalimatil-lahit-tammati min sharri ma khalaq',
-    src: 'Muslim 2709 · Tirmidhi 3604',
-    en: '“I seek refuge in Allah’s perfect words from the evil of what He created” — three times in the evening; nothing will harm him that night.',
-    bn: '“আউযু বিকালিমাতিল্লাহিত তাম্মাতি মিন শাররি মা খালাক্ব” (আল্লাহর পরিপূর্ণ কালিমার আশ্রয় চাই তাঁর সৃষ্টির অনিষ্ট থেকে) — সন্ধ্যায় তিনবার; সেই রাতে কিছুই তার ক্ষতি করতে পারবে না।',
-    zh: '我求助于安拉完美的言辞免遭他所创造之物的伤害——晚上三遍；那晚没有什么能伤害他。',
-    ja: '「アッラーの完全な言葉に、彼が創造したものの悪から避難を求める」を夕べに三回；その夜は何も彼を害さない。'},
+    src: 'Muslim 2709 · Tirmidhi 3604b',
+    en: '“I seek refuge in Allah’s perfect words from the evil of what He created” — in the evening (three times in at-Tirmidhi’s report); no sting will harm him that night.',
+    bn: '“আউযু বিকালিমাতিল্লাহিত তাম্মাতি মিন শাররি মা খালাক্ব” (আল্লাহর পরিপূর্ণ কালিমার আশ্রয় চাই তাঁর সৃষ্টির অনিষ্ট থেকে) — সন্ধ্যায় (তিরমিযির বর্ণনায় তিনবার); সেই রাতে কোনো দংশন তার ক্ষতি করতে পারবে না।',
+    zh: '“我求真主完美的言辞护佑，免遭他所造之物的伤害”——晚上念诵（提尔密济的传述中为三遍）；那一夜，任何蜇咬都不会伤害他。',
+    ja: '「アッラーの完全な御言葉に、かれが創造されたものの悪からご加護を求めます」を夕べに唱える（ティルミズィーの伝承では三回）；その夜、どんな毒虫の刺し傷も彼を害さない。'},
   { id: 'radina', count: 3,
     ar: 'رَضِيتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ ﷺ نَبِيًّا',
     tr: 'Raditu billahi Rabban, wa bil-Islami dinan, wa bi-Muhammadin ﷺ nabiyya',
@@ -315,7 +315,7 @@ class AmalDaily {
     const M = { 'Bukhari': 'bukhari', 'Muslim': 'muslim', 'Tirmidhi': 'tirmidhi', 'Abu Dawud': 'abudawud' };
     const parts = src.split('·').map(x => x.trim());
     return parts.map(part => {
-      const m = part.match(/^(Bukhari|Muslim|Tirmidhi|Abu Dawud)\s+(\d+)$/);
+      const m = part.match(/^(Bukhari|Muslim|Tirmidhi|Abu Dawud)\s+(\d+[a-z]?)$/);
       if (m) return `<a href="https://sunnah.com/${M[m[1]]}:${m[2]}" target="_blank" rel="noopener" class="underline decoration-dotted hover:text-primary">${this.esc(part)}</a>`;
       return this.esc(part);
     }).join(' · ');

@@ -342,10 +342,7 @@ const KNOWLEDGE_DUAS = [
       "zh": "先知的祈祷——天地的创造者、幽明的全知者",
       "ja": "預言者の祈り——天地の創造者、幽玄と顕現を知る御方へ", hi: 'ग़ैब के जानने वाले, पैदा करने वाले से नबी ﷺ की दुआ', es: 'La invocación del Profeta al Creador, Conocedor de lo oculto', ru: 'Мольба Пророка ﷺ к Творцу, Знающему сокровенное', de: 'Die Anrufung des Propheten ﷺ an den Schöpfer, den Kenner des Verborgenen', fa: 'دعای پیامبر ﷺ به درگاه آفریدگار، دانای غیب', ms: 'Doa Nabi ﷺ kepada Pencipta, Yang Mengetahui perkara ghaib'
     }
-  }
-];
-
-const WEALTH_DUAS = [
+  },
   {
     refs: '26:83-85',
     names: {
@@ -359,7 +356,10 @@ const WEALTH_DUAS = [
       zh: '易卜拉欣：主啊，赐给我智慧，使我与义人同在',
       ja: 'イブラーヒーム：主よ、知恵を与え、義人たちに加えてください', hi: 'इब्राहीम (अलैहिस्सलाम): रब्बि हब ली हुक्मन — मुझे हिकमत दे और मुझे नेक लोगों के साथ मिला दे', es: 'Abraham: rabbi hab li ḥukman — concédeme sabiduría y reúneme con los justos', ru: 'Ибрахим: рабби хаб ли хукман — даруй мне мудрость и присоедини меня к праведникам', de: 'Ibrahim: rabbi hab li hukman – schenke mir Urteilskraft und lass mich den Rechtschaffenen folgen', fa: 'ابراهیم: «ربّ هب لی حکماً» — به من حکمت ببخش و مرا به صالحان ملحق کن', ms: 'Ibrahim a.s.: rabbi hab li hukman — kurniakanlah aku hikmah dan hubungkanlah aku dengan orang-orang soleh'
     }
-  },
+  }
+];
+
+const WEALTH_DUAS = [
   {
     refs: '2:201',
     names: {

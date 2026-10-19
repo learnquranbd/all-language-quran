@@ -436,9 +436,9 @@ const SALAH_TASBEEH = [
     id: 'tasbih_10x_short',
     arabic: 'سُبْحَانَ اللَّهِ × ١٠ — الْحَمْدُ لِلَّهِ × ١٠ — اللَّهُ أَكْبَرُ × ١٠',
     transliteration: "Subhanallah ×10, Alhamdulillah ×10, Allahu Akbar ×10",
-    meaning: { en: 'Glory be to Allah ×10 — All praise is for Allah ×10 — Allah is the Greatest ×10. (Shorter 30-count sequence after each fard prayer; equal in reward to the full 33+33+33 sequence.)', bn: 'আল্লাহ পবিত্র ×১০, সব প্রশংসা আল্লাহর ×১০, আল্লাহ সবচেয়ে বড় ×১০। (প্রতিটি ফরজ নামাজের পর ৩০ বারের ছোট তাসবিহ; সওয়াবে এটি পূর্ণ ৩৩+৩৩+৩৩ তাসবিহের সমান।)' },
+    meaning: { en: 'Glory be to Allah ×10 — All praise is for Allah ×10 — Allah is the Greatest ×10. (Shorter 30-count sequence after each fard prayer, also taught by the Prophet ﷺ: "150 on the tongue, 1,500 on the Scale.")', bn: 'আল্লাহ পবিত্র ×১০, সব প্রশংসা আল্লাহর ×১০, আল্লাহ সবচেয়ে বড় ×১০। (প্রতিটি ফরজ নামাজের পর ৩০ বারের ছোট তাসবিহ, এটিও নবী ﷺ শিখিয়েছেন: "জিহ্বায় ১৫০, মিজানে ১৫০০।")' },
     count: 30,
-    reference: { en: 'Muslim 597', bn: 'মুসলিম ৫৯৭' }
+    reference: { en: 'Bukhari 6329; Abu Dawud 5065', bn: 'বুখারী ৬৩২৯; আবু দাউদ ৫০৬৫' }
   },
   {
     id: 'allahumma_inni_as_aluka_ilman',
@@ -751,9 +751,9 @@ const SALAH_QUIZ = [
     optsEn: ['After completing any surah', 'Upon reciting or hearing one of the 15 sajdah-verses in the Quran', 'Before beginning salah', 'At the end of a complete Quran recitation'], optsBn: ['যেকোনো সূরা শেষ করলে', 'কুরআনের ১৫টি সিজদার আয়াত পড়লে বা শুনলে', 'নামাজ শুরুর আগে', 'কুরআন খতমের শেষে'], correct: 1 },
   { qEn: 'How many prostration (sajdah) verses are there in the Quran?', qBn: 'কুরআনে সিজদার আয়াত কতটি?',
     optsEn: ['7', '10', '14', '15'], optsBn: ['৭', '১০', '১৪', '১৫'], correct: 3 },
-  { qEn: 'A traveler may continue shortening prayers as long as they do not intend to stay more than:', qBn: 'মুসাফির কত দিনের বেশি থাকার নিয়ত না করলে নামাজ কসর করতে পারবেন? (হানাফি মত)',
+  { qEn: 'A traveler (Hanafi view) may continue shortening prayers as long as they intend to stay less than:', qBn: 'মুসাফির কত দিনের কম থাকার নিয়ত করলে নামাজ কসর করতে পারবেন? (হানাফি মত)',
     optsEn: ['3 days', '7 days', '15 days', '30 days'], optsBn: ['৩ দিন', '৭ দিন', '১৫ দিন', '৩০ দিন'], correct: 2 },
-  { qEn: 'If a traveler (Hanafi view) intends to stay more than 15 days at a destination, they:', qBn: 'হানাফি মতে মুসাফির ১৫ দিনের বেশি থাকার নিয়ত করলে:',
+  { qEn: 'If a traveler (Hanafi view) intends to stay 15 days or more at a destination, they:', qBn: 'হানাফি মতে মুসাফির ১৫ দিন বা তার বেশি থাকার নিয়ত করলে:',
     optsEn: ['Continue shortening', 'Become a resident (muqim) and must pray full prayers', 'May combine prayers only', 'Must return home first'], optsBn: ['সংক্ষিপ্ত পড়তে থাকবেন', 'মুকিম হয়ে যান এবং পূর্ণ নামাজ পড়তে হবে', 'শুধু জমা করতে পারবেন', 'আগে বাড়ি ফিরতে হবে'], correct: 1 },
   { qEn: 'Where should women\'s rows be positioned relative to men in a mixed congregation?', qBn: 'মিশ্র জামাতে মহিলাদের কাতার কোথায় হবে?',
     optsEn: ['In front of the men', 'Alongside the men in the same row', 'Behind all the men\'s rows', 'In a completely separate room always'], optsBn: ['পুরুষদের সামনে', 'পুরুষদের সাথে একই কাতারে', 'পুরুষদের কাতারের পিছনে', 'সর্বদা সম্পূর্ণ আলাদা কক্ষে'], correct: 2 },
@@ -1179,13 +1179,13 @@ const SALAH_SPECIAL = [
     nameEn: 'Salat al-Awwabin (Prayer of the Oft-Returning)', nameBn: 'সালাতুল আওয়াবীন',
     whenEn: 'Between Maghrib and Isha', whenBn: 'মাগরিব ও ইশার মধ্যবর্তী সময়ে',
     rakatEn: '6 rak\'ahs (3 pairs of 2) after Maghrib\'s sunnah. Some scholars include the Maghrib sunnah itself among these six.', rakatBn: 'মাগরিবের সুন্নাতের পর ৬ রাকাত (৩ জোড়া)। কেউ কেউ মাগরিবের সুন্নাতকেও এর অন্তর্ভুক্ত করেন।',
-    noteEn: 'The Prophet ﷺ said: "Whoever prays 6 rak\'ahs after Maghrib without saying anything bad in between, it is equivalent to 12 years of worship." (Ibn Majah, Tirmidhi). Al-Awwabin means "those who frequently return to Allah" — a mark of sincerity and nearness.',
-    noteBn: 'নবী ﷺ বলেছেন: "যে মাগরিবের পর ৬ রাকাত নামাজ পড়ে এবং এর মাঝে কোনো মন্দ কথা বলে না, তার জন্য তা ১২ বছরের ইবাদতের সমান।" (ইবন মাজাহ, তিরমিযি)। "আওয়াবীন" মানে "যারা বারবার আল্লাহর দিকে ফিরে আসে"; এ নাম ইখলাস ও আল্লাহর নৈকট্যের পরিচয়।' },
+    noteEn: 'It is reported that the Prophet ﷺ said: "Whoever prays 6 rak\'ahs after Maghrib without saying anything bad in between, it is equivalent to 12 years of worship." (Ibn Majah 1167, Tirmidhi 435; graded very weak by al-Albani). Al-Awwabin means "those who frequently return to Allah" — a mark of sincerity and nearness.',
+    noteBn: 'বর্ণিত আছে, নবী ﷺ বলেছেন: "যে মাগরিবের পর ৬ রাকাত নামাজ পড়ে এবং এর মাঝে কোনো মন্দ কথা বলে না, তার জন্য তা ১২ বছরের ইবাদতের সমান।" (ইবন মাজাহ ১১৬৭, তিরমিযি ৪৩৫; আলবানির মতে হাদিসটি অত্যন্ত দুর্বল)। "আওয়াবীন" মানে "যারা বারবার আল্লাহর দিকে ফিরে আসে"; এ নাম ইখলাস ও আল্লাহর নৈকট্যের পরিচয়।' },
   { id: 'khawf', emoji: '⚔️',
     nameEn: 'Salat al-Khawf (Fear / Battlefield Prayer)', nameBn: 'সালাতুল খওফ (ভয় / যুদ্ধক্ষেত্রের নামাজ)',
     whenEn: 'When facing the enemy in battle and it is time for prayer, or in genuine fear of harm', whenBn: 'শত্রুর সম্মুখীন হয়ে যুদ্ধরত অবস্থায় নামাজের সময় হলে, বা প্রকৃত ক্ষতির ভয় থাকলে',
-    rakatEn: 'Fard is reduced to 1 rak\'ah (instead of 2/3/4). The imam leads one group in 1 rak\'ah while another group stands guard, then switches. Each group completes their own remaining rak\'ahs individually. Multiple valid configurations exist in the Sunnah — the prayer is never to be abandoned even in the direst circumstances.',
-    rakatBn: 'ফরজ কমে ১ রাকাত হয় (২/৩/৪-এর বদলে)। ইমাম এক দলকে নিয়ে ১ রাকাত পড়েন, অন্য দল তখন পাহারা দেয়; তারপর দুই দল জায়গা বদল করে। প্রতিটি দল বাকি রাকাত নিজে নিজে পূর্ণ করে। সুন্নাহয় এর একাধিক সহিহ পদ্ধতি আছে। সবচেয়ে কঠিন পরিস্থিতিতেও নামাজ ছাড়া যায় না।',
+    rakatEn: 'Each group prays only part of the fard behind the imam. The imam leads one group in 1 rak\'ah while another group stands guard, then they switch. Each group completes its remaining rak\'ah(s) individually (Bukhari 942). Multiple valid configurations exist in the Sunnah — the prayer is never to be abandoned even in the direst circumstances.',
+    rakatBn: 'প্রতিটি দল ইমামের পেছনে ফরজের একটি অংশ পড়ে। ইমাম এক দলকে নিয়ে ১ রাকাত পড়েন, অন্য দল তখন পাহারা দেয়; তারপর দুই দল জায়গা বদল করে। প্রতিটি দল বাকি রাকাত নিজে নিজে পূর্ণ করে (বুখারী ৯৪২)। সুন্নাহয় এর একাধিক সহিহ পদ্ধতি আছে। সবচেয়ে কঠিন পরিস্থিতিতেও নামাজ ছাড়া যায় না।',
     noteEn: 'Quran 4:101-102 explicitly commands it: "When you are among them and lead them in prayer, let one group stand in prayer with you while another group stands guard." It proves that salah is never to be abandoned — even under direct enemy fire. The form can adapt to the situation.',
     noteBn: 'কুরআন ৪:১০১-১০২ আয়াতে স্পষ্টভাবে এর আদেশ এসেছে: "তুমি যখন তাদের মধ্যে থাকো এবং তাদের নিয়ে নামাজ পড়ো, তখন তাদের একদল যেন তোমার সঙ্গে নামাজে দাঁড়ায়, আর অন্য দল পাহারা দেয়।" এ থেকে বোঝা যায়, নামাজ কখনো ছাড়া যায় না, শত্রুর সরাসরি আক্রমণের মুখেও নয়। পরিস্থিতি অনুযায়ী এর পদ্ধতি বদলাতে পারে।' },
   { id: 'layl', emoji: '⭐',
@@ -1222,8 +1222,8 @@ const SALAH_SPECIAL = [
 
 const SALAH_HADITH = [
   {
-    textEn: 'The first thing the servant will be called to account for on the Day of Resurrection from his deeds will be prayer. If it is sound, all his other deeds will be sound; if it is corrupt, all his other deeds will be corrupt.',
-    textBn: 'কিয়ামতের দিন বান্দার আমলগুলোর মধ্যে সবার আগে নামাজের হিসাব নেওয়া হবে। নামাজ ঠিক থাকলে তার বাকি সব আমলও ঠিক থাকবে; আর নামাজ নষ্ট হলে বাকি সব আমলও নষ্ট হয়ে যাবে।',
+    textEn: 'The first thing the servant will be called to account for on the Day of Resurrection from his deeds will be prayer. If it is sound, he will have succeeded and been saved; if it is defective, he will have failed and lost.',
+    textBn: 'কিয়ামতের দিন বান্দার আমলগুলোর মধ্যে সবার আগে নামাজের হিসাব নেওয়া হবে। নামাজ ঠিক থাকলে সে সফল হবে ও মুক্তি পাবে; আর নামাজ ত্রুটিপূর্ণ হলে সে ব্যর্থ ও ক্ষতিগ্রস্ত হবে।',
     srcEn: 'Sunan al-Tirmidhi & Sunan al-Nasa\'i — reported by Abu Hurairah (RA)',
     srcBn: 'তিরমিযি ও নাসায়ী — আবু হুরায়রা (রা.) বর্ণিত'
   },
@@ -1246,8 +1246,8 @@ const SALAH_HADITH = [
     srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — ইবন উমর (রা.) বর্ণিত'
   },
   {
-    textEn: 'Three things have been made beloved to me in this world of yours: women, perfume — and the cool comfort of my eyes has been placed in prayer.',
-    textBn: 'তোমাদের দুনিয়ার তিনটি জিনিস আমার কাছে প্রিয় করা হয়েছে: নারী ও সুগন্ধি; আর নামাজে রাখা হয়েছে আমার চোখের শীতলতা।',
+    textEn: 'Of this world, women and perfume have been made beloved to me, and the cool comfort of my eyes has been placed in prayer.',
+    textBn: 'দুনিয়ার জিনিসের মধ্যে নারী ও সুগন্ধি আমার কাছে প্রিয় করা হয়েছে; আর নামাজে রাখা হয়েছে আমার চোখের শীতলতা।',
     srcEn: 'Musnad Ahmad, Sunan al-Nasa\'i — reported by Anas ibn Malik (RA)',
     srcBn: 'মুসনাদ আহমাদ, নাসায়ী — আনাস ইবন মালিক (রা.) বর্ণিত'
   },
@@ -1320,14 +1320,14 @@ const SALAH_HADITH = [
   {
     textEn: 'Whoever says "Subhanallah" (Glory be to Allah) 33 times, "Alhamdulillah" (All praise is for Allah) 33 times, and "Allahu Akbar" (Allah is the Greatest) 33 times after every prayer — these are 99, then completes the hundred with "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa \'ala kulli shay\'in qadir" — their sins will be forgiven even if they are like the foam of the sea.',
     textBn: 'যে প্রতিটি নামাজের পর ৩৩ বার সুবহানাল্লাহ (আল্লাহ পবিত্র), ৩৩ বার আলহামদুলিল্লাহ (সব প্রশংসা আল্লাহর) এবং ৩৩ বার আল্লাহু আকবার (আল্লাহ সবচেয়ে বড়) বলে, এই হলো ৯৯ বার; তারপর "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন কাদির" বলে ১০০ পূর্ণ করে, তার গুনাহ সাগরের ফেনার সমান হলেও মাফ করে দেওয়া হবে।',
-    srcEn: 'Sahih al-Bukhari & Sahih Muslim — reported by Abu Hurairah (RA)',
-    srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — আবু হুরায়রা (রা.) বর্ণিত'
+    srcEn: 'Sahih Muslim — reported by Abu Hurairah (RA)',
+    srcBn: 'সহিহ মুসলিম — আবু হুরায়রা (রা.) বর্ণিত'
   },
   {
-    textEn: 'The Messenger of Allah ﷺ said: "Jibreel (AS) taught me how to pray the Eid prayer: 7 takbirs in the first rak\'ah before the recitation, and 5 takbirs in the second rak\'ah before the recitation."',
-    textBn: 'রাসূলুল্লাহ ﷺ বলেছেন: "জিবরীল (আঃ) আমাকে ঈদের নামাজ পড়ার নিয়ম শিখিয়েছেন: প্রথম রাকাতে কিরাতের আগে ৭ তাকবির, আর দ্বিতীয় রাকাতে কিরাতের আগে ৫ তাকবির।"',
-    srcEn: 'Sunan Abu Dawud, Sunan al-Tirmidhi — reported from Amr ibn Shu\'ayb from his father from his grandfather',
-    srcBn: 'সুনান আবু দাউদ, তিরমিযি — আমর ইবন শুয়াইব তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেছেন'
+    textEn: 'In the Eid prayer the Prophet ﷺ said the takbir 7 times in the first rak\'ah before the recitation, and 5 times in the second rak\'ah before the recitation.',
+    textBn: 'নবী ﷺ ঈদের নামাজে প্রথম রাকাতে কিরাতের আগে ৭ বার তাকবির বলতেন, আর দ্বিতীয় রাকাতে কিরাতের আগে ৫ বার।',
+    srcEn: 'Sunan al-Tirmidhi — from Kathir ibn Abdullah from his father from his grandfather; similar in Sunan Abu Dawud from Amr ibn Shu\'ayb',
+    srcBn: 'তিরমিযি — কাসির ইবন আবদুল্লাহ তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেছেন; আমর ইবন শুয়াইব থেকে সুনান আবু দাউদে অনুরূপ বর্ণনা আছে'
   },
 ];
 

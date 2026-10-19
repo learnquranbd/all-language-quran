@@ -79,15 +79,15 @@ const PROTECTION_DUAS = [
   {
     refs: '7:47',
     names: {
-      en: "Prayer not to be placed with the wrongdoers",
-      bn: 'জালিমদের সাথে না রাখার দুআ',
-      ar: 'الدعاء بعدم الجمع مع القوم الظالمين',
-      ur: 'ظالموں کے ساتھ نہ رکھنے کی دعا',
-      id: 'Doa agar tidak dimasukkan bersama orang zalim',
-      tr: 'Zalimlerle bir araya getirilmeme duası',
-      fr: 'Prière pour ne pas être mis avec les injustes',
-      zh: '不被置于不义者中的祈祷',
-      ja: '不正義者とともに置かれないための祈り', hi: 'ज़ालिमों के साथ न रखे जाने की दुआ', es: 'Súplica para no ser puestos con los injustos', ru: 'Мольба не помещать нас вместе с несправедливыми', de: 'Bitte, nicht zu den Ungerechten gestellt zu werden', fa: 'دعا برای اینکه با ستمکاران قرار داده نشویم', ms: 'Doa agar tidak ditempatkan bersama orang-orang yang zalim'
+      en: "Plea of the people of the Heights not to be placed with the wrongdoers",
+      bn: 'জালিমদের সাথে না রাখতে আরাফবাসীদের দুআ',
+      ar: 'دعاء أصحاب الأعراف ألّا يُجعلوا مع القوم الظالمين',
+      ur: 'اصحابِ اعراف کی دعا کہ انہیں ظالموں کے ساتھ نہ رکھا جائے',
+      id: 'Doa Ashabul A‘raf agar tidak dimasukkan bersama orang zalim',
+      tr: 'A\'râf ehlinin zalimlerle bir araya getirilmeme duası',
+      fr: 'Prière des gens d\'al-A\'râf pour ne pas être mis avec les injustes',
+      zh: '高处的人们祈求不被置于不义者之中的祈祷',
+      ja: '高壁（アアラーフ）の人々が、不正義者とともに置かれないよう願う祈り', hi: 'आराफ़ वालों की दुआ कि उन्हें ज़ालिमों के साथ न रखा जाए', es: 'Súplica de la gente de las Alturas para no ser puestos con los injustos', ru: 'Мольба обитателей преград о том, чтобы не оказаться вместе с несправедливыми', de: 'Bitte der Leute der Höhen, nicht zu den Ungerechten gestellt zu werden', fa: 'دعای اصحاب اعراف برای اینکه با ستمکاران قرار داده نشوند', ms: 'Doa Ashabul A\'raf agar tidak ditempatkan bersama orang-orang yang zalim'
     }
   },
   {
@@ -135,15 +135,15 @@ const PROTECTION_DUAS = [
   {
     refs: '23:94',
     names: {
-      en: "Prayer not to be placed among the wrongdoers",
-      bn: 'জালিমদের দলভুক্ত না করার দুআ',
-      ar: 'الدعاء بعدم الجعل في القوم الظالمين',
-      ur: 'ظالم قوم میں شامل نہ کرنے کی دعا',
-      id: 'Doa agar tidak dijadikan bagian kaum yang zalim',
-      tr: 'Zalim topluluk içine konulmama duası',
-      fr: 'Prière pour ne pas être parmi les injustes',
-      zh: '不被置于不义者之列的祈祷',
-      ja: '不正義者の中に置かれないための祈り', hi: 'ज़ालिमों में शामिल न किए जाने की दुआ', es: 'Súplica para no estar entre los injustos', ru: 'Мольба не оказаться среди несправедливых', de: 'Bitte, nicht unter die Ungerechten gestellt zu werden', fa: 'دعا برای اینکه در میان ستمکاران قرار داده نشویم', ms: 'Doa agar tidak dimasukkan dalam golongan orang yang zalim'
+      en: "Prayer not to be among the wrongdoers when their promised punishment comes",
+      bn: 'জালিমদের প্রতিশ্রুত শাস্তি এলে তাদের দলভুক্ত না করার দুআ',
+      ar: 'الدعاء بألّا يُجعل المرء في القوم الظالمين حين ينزل بهم ما وُعدوا من العذاب',
+      ur: 'ظالموں پر ان سے وعدہ کیا گیا عذاب آنے پر ان میں شامل نہ کیے جانے کی دعا',
+      id: 'Doa agar tidak dijadikan bagian kaum yang zalim saat azab yang dijanjikan kepada mereka datang',
+      tr: 'Zalimlere vaad edilen azap geldiğinde onların arasına konulmama duası',
+      fr: 'Prière pour ne pas être parmi les injustes quand vient le châtiment qui leur est promis',
+      zh: '不义者所被警告的刑罚降临时，祈求不被置于他们之列的祈祷',
+      ja: '不正義者に約束された懲罰が下るとき、彼らの中に置かれないための祈り', hi: 'ज़ालिमों पर उनसे वादा किया गया अज़ाब आने पर उनमें शामिल न किए जाने की दुआ', es: 'Súplica para no estar entre los injustos cuando llegue el castigo que se les ha prometido', ru: 'Мольба не оказаться среди несправедливых, когда придёт обещанное им наказание', de: 'Bitte, nicht unter die Ungerechten gestellt zu werden, wenn die ihnen angedrohte Strafe kommt', fa: 'دعا برای اینکه هنگام فرارسیدن عذابِ وعده‌داده‌شده‌ی ستمکاران، در میان آنان قرار داده نشویم', ms: 'Doa agar tidak dimasukkan dalam golongan orang yang zalim ketika azab yang dijanjikan kepada mereka tiba'
     }
   },
   {

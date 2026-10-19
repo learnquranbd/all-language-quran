@@ -282,8 +282,8 @@ const HW_WRITING_BASICS = [
     icon: '⚫',
     title: { en: 'The Dot System (النقاط)', bn: 'নুকতার নিয়ম (النقاط)' },
     body: {
-      en: 'Arabic uses 1, 2, or 3 dots — placed above or below the letter skeleton (rasm) — to distinguish letters that share the same base shape. Nine pairs/groups differ only by dots: Bā·Tā·Thā, Jīm·Ḥā·Khā, Dāl·Dhāl, Rā·Zāy, Sīn·Shīn, Ṣād·Ḍād, Ṭā·Ẓā, ʿAyn·Ghayn, Fā·Qāf. In Quran copying, correct dot placement is a religious and legal obligation.',
-      bn: 'যেসব হরফের মূল আকৃতি একই, সেগুলো আলাদা করতে আরবিতে ১, ২ বা ৩টি নুকতা ব্যবহার হয়; নুকতা বসে হরফের কাঠামোর (রসম) উপরে বা নিচে। নয়টি জোড়া বা দল শুধু নুকতায় আলাদা: বা·তা·সা, জিম·হা·খা, দাল·যাল, রা·যায়, সিন·শিন, সোয়াদ·দোয়াদ, তোয়া·যোয়া, আইন·গাইন, ফা·ক্বাফ। কুরআন লেখায় নুকতা ঠিক জায়গায় বসানো দ্বীন ও শরিয়ত দুই দিক থেকেই জরুরি দায়িত্ব।'
+      en: 'Arabic uses 1, 2, or 3 dots — placed above or below the letter skeleton (rasm) — to distinguish letters that share the same base shape. Nine pairs/groups differ only by dots: Bā·Tā·Thā, Jīm·Ḥā·Khā, Dāl·Dhāl, Rā·Zāy, Sīn·Shīn, Ṣād·Ḍād, Ṭā·Ẓā, ʿAyn·Ghayn, Fā·Qāf (except in final and isolated form, where Qāf’s deeper, rounder cup drops below the line). In Quran copying, correct dot placement is a religious and legal obligation.',
+      bn: 'যেসব হরফের মূল আকৃতি একই, সেগুলো আলাদা করতে আরবিতে ১, ২ বা ৩টি নুকতা ব্যবহার হয়; নুকতা বসে হরফের কাঠামোর (রসম) উপরে বা নিচে। নয়টি জোড়া বা দল শুধু নুকতায় আলাদা: বা·তা·সা, জিম·হা·খা, দাল·যাল, রা·যায়, সিন·শিন, সোয়াদ·দোয়াদ, তোয়া·যোয়া, আইন·গাইন, ফা·ক্বাফ (তবে শেষ ও একক রূপে ক্বাফের গভীর, গোল বাটি লাইনের নিচে নামে)। কুরআন লেখায় নুকতা ঠিক জায়গায় বসানো দ্বীন ও শরিয়ত দুই দিক থেকেই জরুরি দায়িত্ব।'
     }
   },
   {
@@ -314,8 +314,8 @@ const HW_WRITING_BASICS = [
     icon: '✒️',
     title: { en: 'Holding the Pen: the Qalam Angle', bn: 'কলম ধরা: কলমের কোণ' },
     body: {
-      en: 'Traditional Arabic script is written with a chisel-edged reed pen (qalam) whose flat nib is held at a steady angle to the baseline (around 70° in Naskh). Keeping this one angle fixed is what makes the horizontal strokes broad and the upright strokes thinner. With a pencil or ballpoint you can imitate the effect: press slightly heavier on the flat sweeps and lighter on upright strokes, and never rotate your grip mid-letter.',
-      bn: 'প্রথাগত আরবি লিপি লেখা হয় চ্যাপ্টা, বাটালির মতো মুখের খাগের কলম (ক্বলম) দিয়ে। এর চ্যাপ্টা নিব লাইনের সাথে একটি নির্দিষ্ট কোণে ধরে রাখা হয় (নাসখে প্রায় ৭০°)। এই একটি কোণ স্থির রাখার কারণেই আড়াআড়ি টান চওড়া হয়, আর খাড়া টান সরু। পেনসিল বা বলপেনেও এই ভাব আনা যায়: চ্যাপ্টা টানে একটু বেশি চাপ দিন, খাড়া টানে হালকা; আর হরফ লেখার মাঝপথে কখনো কলম ধরার ভঙ্গি ঘোরাবেন না।'
+      en: 'Traditional Arabic script is written with a chisel-edged reed pen (qalam) whose flat nib is held at a steady angle to the baseline. Keeping this one angle fixed is what makes the horizontal strokes broad and the upright strokes thinner. With a pencil or ballpoint you can imitate the effect: press slightly heavier on the flat sweeps and lighter on upright strokes, and never rotate your grip mid-letter.',
+      bn: 'প্রথাগত আরবি লিপি লেখা হয় চ্যাপ্টা, বাটালির মতো মুখের খাগের কলম (ক্বলম) দিয়ে। এর চ্যাপ্টা নিব লাইনের সাথে একটি নির্দিষ্ট কোণে ধরে রাখা হয়। এই একটি কোণ স্থির রাখার কারণেই আড়াআড়ি টান চওড়া হয়, আর খাড়া টান সরু। পেনসিল বা বলপেনেও এই ভাব আনা যায়: চ্যাপ্টা টানে একটু বেশি চাপ দিন, খাড়া টানে হালকা; আর হরফ লেখার মাঝপথে কখনো কলম ধরার ভঙ্গি ঘোরাবেন না।'
     }
   },
   {
@@ -771,8 +771,8 @@ const HW_KHAT_STYLES = [
         bn: 'হরফগুলো স্পষ্টভাবে লাইনের ওপর বসে; লম্বা হরফগুলো (আলিফ, লাম, কাফ) মাঝারি উঁচু। নুকতা ছোট, ঠিক জায়গামতো বসানো। কুরআন লেখা শেখা শুরু হয় নাসখ দিয়েই, কারণ সারা বিশ্বের মাদ্রাসায় এর মাপজোখ নিয়ম মেনে ধাপে ধাপে শেখানো হয়।'
       },
       {
-        en: 'Distinguishing trait: the pen angle is held steep, at roughly 70°; bowls (Bā, Nūn, Qāf) are shallow and smooth; the Mīm knot is the tightest loop in the script.',
-        bn: 'চেনার উপায়: কলম ধরা হয় খাড়া কোণে, প্রায় ৭০°; বাটিগুলো (বা, নুন, ক্বাফ) অগভীর ও মসৃণ; মিমের গোল মাথা এই লিপির সবচেয়ে ছোট, আঁটসাঁট ফাঁস।'
+        en: 'Distinguishing trait: the pen is held at a steep angle; bowls (Bā, Nūn, Qāf) are shallow and smooth; the Mīm knot is the tightest loop in the script.',
+        bn: 'চেনার উপায়: কলম ধরা হয় খাড়া কোণে; বাটিগুলো (বা, নুন, ক্বাফ) অগভীর ও মসৃণ; মিমের গোল মাথা এই লিপির সবচেয়ে ছোট, আঁটসাঁট ফাঁস।'
       }
     ]
   },
@@ -781,8 +781,8 @@ const HW_KHAT_STYLES = [
     emoji: '🕌',
     notes: [
       {
-        en: 'The Uthmani script refers to the specific orthographic conventions of the Madinah Mushaf produced by the King Fahd Complex for the Printing of the Holy Quran (مجمع الملك فهد). It preserves spelling conventions from the early caliphal codices that differ from modern standard Arabic orthography.',
-        bn: 'উসমানি লিপি বলতে বোঝায় মদিনা মুসহাফের নির্দিষ্ট বানানরীতি, যে মুসহাফ ছাপে বাদশাহ ফাহদ কুরআন মুদ্রণ কমপ্লেক্স (مجمع الملك فهد)। এতে খলিফাদের যুগের প্রথম দিকের মুসহাফগুলোর বানানরীতি সংরক্ষিত আছে, যা আধুনিক প্রমিত আরবি বানান থেকে আলাদা।'
+        en: 'The Uthmani rasm is the consonantal spelling of the codices copied under Caliph Uthman in the 7th century. Modern mushafs follow it, the best known being the Madinah Mushaf printed by the King Fahd Complex for the Printing of the Holy Quran (مجمع الملك فهد). Its spelling conventions differ from modern standard Arabic orthography.',
+        bn: 'উসমানি রসম হলো খ্রিস্টীয় ৭ম শতকে খলিফা উসমান (রাঃ)-এর সময়ে অনুলিপি করা মুসহাফগুলোর ব্যঞ্জনবর্ণের কাঠামোর বানানরীতি। আধুনিক মুসহাফগুলো এটি মেনে চলে; সবচেয়ে পরিচিত হলো বাদশাহ ফাহদ কুরআন মুদ্রণ কমপ্লেক্সের (مجمع الملك فهد) ছাপা মদিনা মুসহাফ। এর বানানরীতি আধুনিক প্রমিত আরবি বানান থেকে আলাদা।'
       },
       {
         en: 'Distinguishing traits: the māddah sign (آ) appears on Alif as a wavy stroke; certain words are written with an elevated or missing Alif (e.g. الرَّحْمَٰنِ) following early Quranic orthography; small extra signs (pause marks, a little circle over silent letters) are added on top of the base Naskh letterforms.',
@@ -799,8 +799,8 @@ const HW_KHAT_STYLES = [
     emoji: '🏛️',
     notes: [
       {
-        en: 'The earliest formalised Arabic script, named after the city of Kufa (Iraq). It is characterised by angular, geometric letterforms with strong horizontal baselines and bold vertical strokes. Many early Quranic manuscripts (1st–2nd century AH) were written in Kūfī; the very earliest use the slanted Ḥijāzī script.',
-        bn: 'নিয়ম বেঁধে গড়ে তোলা সবচেয়ে প্রাচীন আরবি লিপি, নাম এসেছে ইরাকের কুফা শহর থেকে। হরফগুলো কোণাচে, জ্যামিতিক; লাইনের আড়াআড়ি টান জোরালো, খাড়া টান মোটা। প্রথম যুগের অনেক কুরআনের পাণ্ডুলিপি (হিজরি ১ম–২য় শতাব্দী) কুফিতে লেখা; তবে একেবারে প্রথম দিকেরগুলো হেলানো হিজাযি লিপিতে।'
+        en: 'Generally regarded as the first Arabic script formalised into a regular, monumental style, named after the city of Kufa (Iraq); the looser Ḥijāzī hand is older. It is characterised by angular, geometric letterforms with strong horizontal baselines and bold vertical strokes. Many early Quranic manuscripts (1st–2nd century AH) were written in Kūfī; the very earliest use the slanted Ḥijāzī script.',
+        bn: 'সাধারণত একে নিয়ম বেঁধে সুশৃঙ্খল, স্মারক রূপ পাওয়া প্রথম আরবি লিপি ধরা হয়; নাম এসেছে ইরাকের কুফা শহর থেকে। কম নিয়মবাঁধা হিজাযি লিপি এর চেয়ে পুরোনো। হরফগুলো কোণাচে, জ্যামিতিক; লাইনের আড়াআড়ি টান জোরালো, খাড়া টান মোটা। প্রথম যুগের অনেক কুরআনের পাণ্ডুলিপি (হিজরি ১ম–২য় শতাব্দী) কুফিতে লেখা; তবে একেবারে প্রথম দিকেরগুলো হেলানো হিজাযি লিপিতে।'
       },
       {
         en: 'Distinguishing traits: letters like Alif and Lām are perfectly vertical and meet the baseline at sharp right angles; rounded letters (Mīm, ʿAyn) are squared off; no descenders — even Nūn and Qāf sit on the baseline without a downward curve.',
@@ -821,8 +821,8 @@ const HW_KHAT_STYLES = [
         bn: 'ছুলুছ ("এক-তৃতীয়াংশ")-কে বলা হয় "আরবি লিপির মা"; এর মাপের নিয়ম থেকেই পরের সব টানা লিপি গড়ে উঠেছে। চেনার উপায়: বড়, প্রবাহমান হরফ; লম্বা খাড়া হরফ; চোখে পড়ার মতো বাঁক; আর শেষে কারুকাজ করা টান।'
       },
       {
-        en: 'Distinguishing traits: letters can be stacked vertically (ligature stacking) in ways impossible in Naskh; the pen is held at a steep angle like Naskh (about 70°) but the nib is broader; serifs and decorative terminals appear on many strokes. One explanation of the name: its nib is one-third the width of the large ṭūmār pen.',
-        bn: 'চেনার উপায়: হরফ একটার ওপর আরেকটা সাজিয়ে লেখা যায়, যা নাসখে সম্ভব নয়; কলম নাসখের মতোই খাড়া কোণে (প্রায় ৭০°) ধরা হয়, তবে নিব আরও চওড়া; অনেক টানের মাথায় আর শেষে নকশার ছোঁয়া থাকে। নামের একটি ব্যাখ্যা: এর নিব বড় তূমার কলমের এক-তৃতীয়াংশ চওড়া।'
+        en: 'Distinguishing traits: letters can be stacked vertically (ligature stacking) in ways impossible in Naskh; the pen is held at a steep angle like Naskh, but the nib is broader; serifs and decorative terminals appear on many strokes. One explanation of the name: its nib is one-third the width of the large ṭūmār pen.',
+        bn: 'চেনার উপায়: হরফ একটার ওপর আরেকটা সাজিয়ে লেখা যায়, যা নাসখে সম্ভব নয়; কলম নাসখের মতোই খাড়া কোণে ধরা হয়, তবে নিব আরও চওড়া; অনেক টানের মাথায় আর শেষে নকশার ছোঁয়া থাকে। নামের একটি ব্যাখ্যা: এর নিব বড় তূমার কলমের এক-তৃতীয়াংশ চওড়া।'
       },
       {
         en: 'Used for: mosque domes and friezes, Quran chapter headings (surah titles), certificate headings, and any calligraphy where grandeur is intended. Not used for running Quran text due to its complexity — but surah titles in most mushafs are in Thuluth.',

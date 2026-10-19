@@ -1235,7 +1235,7 @@ const VOCAB_THEMES = [
       },
       {
         arabic: 'أَحْمَدُ', translit: 'aḥmad', count: 1, ref: '61:6',
-        meanings: { en: 'more praiseworthy; Prophet\'s name', bn: 'অধিক প্রশংসনীয়; নবীর নাম', fr: 'plus digne de louange; nom du Prophète', id: 'lebih terpuji; nama Nabi', ur: 'زیادہ قابلِ تعریف؛ نبی کا نام', tr: 'daha övgüye değer; Peygamberin adı', ar: 'أَفْعَلُ التَّفْضِيلِ مِنَ الْحَمْد', zh: '更值得赞美；先知之名', ja: 'より称えられる者；預言者の名', hi: 'ज़्यादा तारीफ़ के लायक़; नबी ﷺ का नाम', es: 'más digno de alabanza; nombre del Profeta', ru: 'более достойный хвалы; имя Пророка ﷺ', de: 'lobenswürdiger; Name des Propheten ﷺ', fa: 'ستوده‌تر؛ نام پیامبر ﷺ', ms: 'lebih terpuji; nama Nabi ﷺ' }
+        meanings: { en: 'most praiseworthy, most praising; Prophet\'s name', bn: 'সর্বাধিক প্রশংসিত, সর্বাধিক প্রশংসাকারী; নবীর নাম', fr: 'le plus digne de louange, celui qui loue le plus; nom du Prophète ﷺ', id: 'paling terpuji, paling banyak memuji; nama Nabi ﷺ', ur: 'سب سے زیادہ قابلِ تعریف، سب سے زیادہ تعریف کرنے والا؛ نبی ﷺ کا نام', tr: 'en çok övülen, en çok öven; Peygamber Efendimiz\'in ﷺ adı', ar: 'الأَحَقُّ بِالْحَمْدِ وَالأَكْثَرُ حَمْدًا؛ اسْمُ النَّبِيِّ ﷺ', zh: '最值得赞美者、最善于赞美者；先知之名', ja: '最も称えられるべき者、最もよく称える者；預言者ﷺの名', hi: 'सबसे ज़्यादा तारीफ़ के लायक़, सबसे ज़्यादा तारीफ़ करने वाला; नबी ﷺ का नाम', es: 'el más digno de alabanza, el que más alaba; nombre del Profeta', ru: 'самый достойный хвалы, больше всех восхваляющий; имя Пророка ﷺ', de: 'der Lobenswürdigste, der am meisten Lobende; Name des Propheten ﷺ', fa: 'ستوده‌ترین، ستاینده‌ترین؛ نام پیامبر ﷺ', ms: 'paling terpuji, paling banyak memuji; nama Nabi ﷺ' }
       },
       {
         arabic: 'مَحْمُودٌ', translit: 'maḥmūd', count: 1, ref: '17:79',
