@@ -239,15 +239,15 @@ const MORNING_EVENING_ADHKAR = [
   { id: 'radina', count: 3,
     ar: 'رَضِيتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ ﷺ نَبِيًّا',
     tr: 'Raditu billahi Rabban, wa bil-Islami dinan, wa bi-Muhammadin ﷺ nabiyya',
-    src: 'Abu Dawud 5072 · Tirmidhi 3389',
-    en: '“I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet” — three times; Allah takes it upon Himself to please him on the Day of Resurrection.',
-    bn: '“রাযিতু বিল্লাহি রাব্বান, ওয়া বিল-ইসলামি দীনান, ওয়া বিমুহাম্মাদিন ﷺ নাবিয়্যা” (আমি আল্লাহকে রব, ইসলামকে দ্বীন আর মুহাম্মাদ ﷺ-কে নবী হিসেবে পেয়ে সন্তুষ্ট) — তিনবার; কিয়ামতের দিন তাকে সন্তুষ্ট করার দায়িত্ব আল্লাহ নিজে নিয়েছেন।'},
+    src: 'Abu Dawud 5072 · Tirmidhi 3389 · Ibn Majah 3870 (al-Albani: weak; others: hasan)',
+    en: '“I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet” — three times; it is reported that Allah takes it upon Himself to please him on the Day of Resurrection (graded weak by al-Albani, hasan by others).',
+    bn: '“রাযিতু বিল্লাহি রাব্বান, ওয়া বিল-ইসলামি দীনান, ওয়া বিমুহাম্মাদিন ﷺ নাবিয়্যা” (আমি আল্লাহকে রব, ইসলামকে দ্বীন আর মুহাম্মাদ ﷺ-কে নবী হিসেবে পেয়ে সন্তুষ্ট) — তিনবার; বর্ণিত আছে, কিয়ামতের দিন তাকে সন্তুষ্ট করার দায়িত্ব আল্লাহ নিজে নিয়েছেন (আলবানি দুর্বল বলেছেন, অন্যরা হাসান)।'},
   { id: 'salawat', count: 10,
     ar: 'اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَىٰ نَبِيِّنَا مُحَمَّدٍ',
     tr: 'Allahumma salli wa sallim ‘ala nabiyyina Muhammad',
-    src: 'Tabarani (hasan)',
-    en: 'Send blessings upon the Prophet ﷺ — ten times morning and evening; whoever does so attains his intercession on the Day of Resurrection.',
-    bn: 'সকাল-সন্ধ্যায় দশবার নবী ﷺ-এর ওপর দরূদ পড়ুন; যে এমন করে, কিয়ামতের দিন সে তাঁর শাফাআত পাবে।'},
+    src: 'Tabarani (al-Albani: weak; al-Haythami: one chain good)',
+    en: 'Send blessings upon the Prophet ﷺ — ten times morning and evening; it is reported that whoever does so attains his intercession on the Day of Resurrection (graded weak by al-Albani).',
+    bn: 'সকাল-সন্ধ্যায় দশবার নবী ﷺ-এর ওপর দরূদ পড়ুন; বর্ণিত আছে, যে এমন করে, কিয়ামতের দিন সে তাঁর শাফাআত পাবে (আলবানি দুর্বল বলেছেন)।'},
 ];
 
 /** After-salah tasbih: SubhanAllah 33 · Alhamdulillah 33 · Allahu Akbar 34 = 100. Source: Muslim 596. */

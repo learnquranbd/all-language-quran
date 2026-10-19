@@ -1,0 +1,11 @@
+# Hadith check: doubts left for review (2026-10-19)
+- nafl NAFL_ITEMS[4] + routine: "Ayat al-Kursi after every fard protects until the next prayer": the cited Nasa'i (Kubra) hadith only promises Paradise; protection wording is from a Tabarani narration (grade unchecked).
+- nafl Duha "2-12 rak'ahs": 12 rests on Tirmidhi 473 (weak); highest sound report is 8 (Umm Hani). Fiqh range, left.
+- sawm line ~523 (kissing): "if it leads to ejaculation or intercourse the fast is broken and kaffara applies" puts kaffara on ejaculation too (Maliki view); majority: qada for ejaculation, kaffara for intercourse. RULING: user decides.
+- amal quls marked 'sahih' but al-Albani grades AD 5082 / Tir 3575 hasan; fatihah item says scorpion only (Bukhari 5736: snake or scorpion).
+- learn-zakat.js not in tests/check-bangla-style.js STYLED; its Bengali has 3-dash strings.
+- hajj L387 "Musnad Ahmad 4/258 (Sahih)" (Allah boasts of the dishevelled pilgrims): volume/page doubtful (agent recalls 2/224, 2/305); not checkable with the tool.
+- hajj L565 Mustadrak "Ibrahim stoning Shaytan" graded sahih: likely a saying of Ibn Abbas (mawquf), not marfu'.
+- hajj L560 talbiyah-until-stoning sourced to Muslim 1184 (it is from other Bukhari narrations); L562 Zamzam "drank it and said blessed" joins two events (Muslim 2473 is to Abu Dharr).
+- wajib WAJIB_ITEMS[22]: literal "three times for those who shaved, once for those who trimmed" is Muslim 1303 (Umm al-Husayn); 1302 (Abu Hurayrah) fits the meaning. "Muslim 1302, 1303" would be exact.
+- amal MORNING_EVENING_ADHKAR[7]: cited narrations say morning/evening, not "three times".

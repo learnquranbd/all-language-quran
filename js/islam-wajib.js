@@ -148,8 +148,8 @@ const WAJIB_ITEMS = [
   },
   { emoji: '✂️',
     titleEn: 'Ḥalq or Taqṣīr (Shaving/Trimming)', titleBn: 'হালক বা তাকসির (মাথা মুণ্ডানো/চুল ছোট করা)',
-    descEn: 'Shaving the head (ḥalq) or trimming the hair (taqṣīr) to exit iḥrām is a wājib rite (Shāfiʿī: a rukn of Ḥajj). "You will surely enter al-Masjid al-Ḥarām... with your heads shaved and [hair] shortened." (48:27) The Prophet ﷺ supplicated three times for those who shaved and once for those who trimmed. (Bukhari 1727) Women only trim a fingertip\'s length.',
-    descBn: 'ইহরাম থেকে হালাল হতে মাথা মুণ্ডানো (হালক) বা চুল ছোট করা (তাকসির) ওয়াজিব (শাফিয়ী মতে হজের রুকন)। "তোমরা অবশ্যই মসজিদুল হারামে প্রবেশ করবে... মাথা মুণ্ডন ও চুল ছাঁটা অবস্থায়।" (৪৮:২৭) নবী ﷺ মাথা মুণ্ডানো লোকদের জন্য তিনবার আর চুল ছোট করা লোকদের জন্য একবার দোয়া করেছেন। (বুখারি ১৭২৭) নারীরা শুধু আঙুলের মাথা পরিমাণ চুল কাটবেন।',
+    descEn: 'Shaving the head (ḥalq) or trimming the hair (taqṣīr) to exit iḥrām is a wājib rite (Shāfiʿī: a rukn of Ḥajj). "You will surely enter al-Masjid al-Ḥarām... with your heads shaved and [hair] shortened." (48:27) The Prophet ﷺ supplicated three times for those who shaved and once for those who trimmed. (Muslim 1302) Women only trim a fingertip\'s length.',
+    descBn: 'ইহরাম থেকে হালাল হতে মাথা মুণ্ডানো (হালক) বা চুল ছোট করা (তাকসির) ওয়াজিব (শাফিয়ী মতে হজের রুকন)। "তোমরা অবশ্যই মসজিদুল হারামে প্রবেশ করবে... মাথা মুণ্ডন ও চুল ছাঁটা অবস্থায়।" (৪৮:২৭) নবী ﷺ মাথা মুণ্ডানো লোকদের জন্য তিনবার আর চুল ছোট করা লোকদের জন্য একবার দোয়া করেছেন। (মুসলিম ১৩০২) নারীরা শুধু আঙুলের মাথা পরিমাণ চুল কাটবেন।',
     ref: '48:27',
   },
 ];

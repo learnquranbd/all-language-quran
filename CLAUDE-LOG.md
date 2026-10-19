@@ -14,7 +14,12 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## RESUME HERE (2026-10-19 d): Mutashabihat round 2 DONE, v1007 (committed; USER: commit only, no push/deploy)
+## RESUME HERE (2026-10-19 e): hadith citation check DONE, v1008 (committed, not pushed; USER: commit only)
+- 5 agents (tools/content-i18n/work/HADCHK/BRIEF.md) checked ~440 citations: islam-nafl 4 fixes, makruh+zakat 7, mustahabb 2 (istikhara Bukhari 1162 -> 1166, confirmed sunnah.com; plus names-data x3 and prayer guide x1 fixed by hand), amal+sawm 3, wajib+fard+hajj 10 (+5 Bengali ও corruptions in Hajj). Open doubts: HADCHK/DOUBTS.md (incl. a sawm kaffara RULING for the user).
+- C14 (10 strings) merged in 13 langs; extend.js: nothing new. Zakat/sawm/hajj inline render strings are en/bn only (not routed). Open doubts for the user: docs/hadith-check-doubts-2026-10-19.md (sawm kaffara RULING, Ayat al-Kursi protection wording, Ahmad 4/258, Muslim 1302/1303, etc.).
+- Unpushed: v1003-v1008. Next: ask the user (push/deploy; doubts doc; next module).
+
+## Earlier (2026-10-19 d): Mutashabihat round 2 DONE, v1007 (committed; USER: commit only, no push/deploy)
 - Twins added to 17 groups (GREV2/plan-H1..H3.json, apply-plans.js --dir GREV2): rule = shares a 3+ word run with a member, no removals. Notes re-drafted (S1-S3: kept 114, rewrote 12, 31 new) and audited (1 blocker: 27:60 close, fixed; 6 minor). C13 (21 names/descs) + C13R (3 corrected descs) in 13 langs; 0 untranslated; notes 116/116 groups.
 - Mutashabihat review is CLOSED: doubts doc marked resolved; remaining rows are weak links kept on purpose.
 - Unpushed: v1003-v1007 (USER said commit only). Next: ask the user (push/deploy, or next module: Quranic Arabic Juz 27, Islam rulings check, Nuzul al-Wahidi).
