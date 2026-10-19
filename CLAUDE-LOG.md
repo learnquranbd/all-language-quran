@@ -16,7 +16,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## RESUME HERE (2026-10-19 b): v1004 committed (USER: commit only, no push/deploy until told)
 - v1004: C11 (6 strings + isra 5.0) in 13 langs: al-Falaq lesson muḍāf ilayh (not hal), HW dots list (Nun/Ya, Ha/Ta marbuta, alif maqsura/Ya), Eid takbir grades, Awwabin = Duha in Muslim 748, isra 17:78-79, Resources "Bangla included". Morphology: 13 SWEEP fixes (sāq F x5 incl. 38:33/48:29 lemma -> ساق, nabāt M x6, 2:222 maḥīḍ x2; 92/92 applied). Bengali: 116 strings cut to <=1 em dash; tests/check-bangla-style.js MAX_DASHES = 1. Names noteBn: 222 dashes removed.
-- RUNNING: data/irab/ pages: English rows fixed to match morphology-fixes (80 rows/61 pages, uncommitted); an agent is fixing the contradicting Arabic i'rab lines (~35). Commit both as v1005.
+- v1005: data/irab/ pages: English rows (80/61 pages) and Arabic i'rab lines (~50) now match morphology-fixes; truncated «ك» -> «كان» (65:6, 2:228, 4:11). Next (USER chose 2026-10-19): Mutashabihat group review, docs/mutashabihat-group-doubts.md.
 - Open: QA_LESSONS|10 calls an-naffathat an active participle (intensive form); "(graded hasan)" for Abu Dawud unattributed; 59:23 al-Muhaymin form label and 62:2 / 71:23 fixes debatable (see irab agent report).
 
 ## Earlier (2026-10-19): EN fix wave for non-Tadabbur modules DONE, v1003 (committed, not pushed/deployed)
