@@ -17,21 +17,30 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'hayy-qayyum',
-    nameEn: 'Al-Ḥayy al-Qayyūm — The Ever-Living',
-    nameBn: 'আল-হাইয়্যুল-কাইয়ূম — চিরঞ্জীব',
-    nameAr: 'الحي القيوم',
-    descEn: 'The divine names "al-Ḥayyu l-Qayyūm" appear three times: in Āyat al-Kursī, at the opening of Āl ʿImrān, and in Ṭāhā 20:111. The surrounding context differs significantly, making these three a classic memorisation challenge.',
-    descBn: 'আল্লাহর নাম "আল-হাইয়্যুল-কাইয়ূম" এসেছে তিনবার: আয়াতুল-কুরসীতে, সূরা আলে ইমরানের শুরুতে আর ত্বহা ২০:১১১-এ। তিন জায়গায় আশপাশের প্রসঙ্গ একেবারে আলাদা। তাই মুখস্থ করতে গিয়ে এই তিনটি নিয়ে গোলমাল হওয়া খুব পরিচিত সমস্যা।',
-    verses: ['2:255', '3:2', '20:111']
+    nameEn: 'Allāhu Lā Ilāha Illā Huwa — What Comes Next',
+    nameBn: 'আল্লাহু লা ইলাহা ইল্লা হুয়া — এরপর কী আসে',
+    nameAr: 'ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ',
+    descEn: 'Eight ayat contain "Allāhu lā ilāha illā huwa", and six open with it. The words after it decide the ayah: al-Ḥayyu l-Qayyūm (3:2 stops there, 2:255 runs on), la-yajmaʿannakum (4:87), lahu l-asmāʾu l-ḥusnā (20:8), lahu l-ḥamdu (28:70), rabbu l-ʿarshi l-ʿaẓīm (27:26, also the close of 9:129), wa-ʿalā llāhi fa-l-yatawakkal (64:13). In 9:129 it follows ḥasbiya llāhu, in 28:70 wa-huwa llāhu.',
+    descBn: 'আটটি আয়াতে আছে "আল্লাহু লা ইলাহা ইল্লা হুয়া", এর ছয়টির শুরুই এ কথা দিয়ে। আয়াত চেনা যায় পরের শব্দে: আল-হাইয়্যুল-কাইয়ূম (৩:২ সেখানেই শেষ, ২:২৫৫ এগিয়ে চলে), লাইয়াজমাআন্নাকুম (৪:৮৭), লাহুল-আসমাউল-হুসনা (২০:৮), লাহুল-হামদু (২৮:৭০), রাব্বুল-আরশিল-আযীম (২৭:২৬; ৯:১২৯-ও শেষ হয় এ কথায়), ওয়া আলাল্লাহি ফালইয়াতাওয়াক্কাল (৬৪:১৩)। ৯:১২৯-এ এর আগে আছে হাসবিয়াল্লাহু, ২৮:৭০-এ ওয়া হুয়াল্লাহু।',
+    verses: ['2:255', '3:2', '4:87', '9:129', '20:8', '27:26', '28:70', '64:13']
   },
   {
     id: 'iblis-sajda',
     nameEn: 'Iblīs Refuses to Bow',
     nameBn: 'ইবলীসের সিজদা প্রত্যাখ্যান',
     nameAr: 'امتناع إبليس عن السجود',
-    descEn: 'The command to the angels to prostrate before Adam, and Iblīs\'s refusal, is narrated in seven places. Each retelling adjusts phrasing, emphasis, or Iblīs\'s excuse, making this one of the most-studied groups of narrative mutashabihat.',
-    descBn: 'আল্লাহ ফেরেশতাদের আদমকে সিজদা করতে বললেন, ইবলীস অস্বীকার করল। এ ঘটনা কুরআনে সাত জায়গায় এসেছে। প্রতিবার বলার ধরন, জোরের জায়গা বা ইবলীসের অজুহাতে কিছু না কিছু বদল আছে। তাই কাহিনীভিত্তিক মুতাশাবিহাতের মধ্যে এই গুচ্ছটি নিয়েই সবচেয়ে বেশি চর্চা হয়।',
-    verses: ['2:34', '7:11', '15:29', '17:61', '18:50', '20:116', '38:72']
+    descEn: 'Exactly seven ayat contain "illā Iblīs". Five run the same from "qulnā li-l-malāʾikati sjudū li-ādama fa-sajadū illā Iblīs": 2:34, 17:61, 18:50, 20:116 open wa-idh, 7:11 opens wa-laqad khalaqnākum. 15:31 and 38:74 begin with it. Learn what follows: abā wa-stakbara (2:34), lam yakun (7:11), abā an yakūna (15:31), qāla (17:61), kāna mina l-jinn (18:50), abā (20:116), istakbara (38:74).',
+    descBn: 'ঠিক সাতটি আয়াতে আছে "ইল্লা ইবলীস"। এর পাঁচটি "কুলনা লিল-মালাইকাতিসজুদূ লিআদামা ফাসাজাদূ ইল্লা ইবলীস" পর্যন্ত হুবহু এক: ২:৩৪, ১৭:৬১, ১৮:৫০ ও ২০:১১৬-এর শুরু ওয়া-ইয দিয়ে, ৭:১১-এর শুরু ওয়া লাকাদ খালাকনাকুম দিয়ে। ১৫:৩১ আর ৩৮:৭৪-এর শুরুই এ কথা দিয়ে। মনে রাখুন এরপর কী আসে: আবা ওয়াসতাকবারা (২:৩৪), লাম ইয়াকুন (৭:১১), আবা আন ইয়াকূনা (১৫:৩১), কালা (১৭:৬১), কানা মিনাল-জিন্ন (১৮:৫০), শুধু আবা (২০:১১৬), ইসতাকবারা (৩৮:৭৪)।',
+    verses: ['2:34', '7:11', '15:31', '17:61', '18:50', '20:116', '38:74']
+  },
+  {
+    id: 'khaliqun-basharan',
+    nameEn: 'Innī Khāliqun Basharan — Adam Announced to the Angels',
+    nameBn: 'ইন্নী খালিকুন বাশারান — ফেরেশতাদের কাছে আদমের ঘোষণা',
+    nameAr: 'إِنِّى خَٰلِقٌۢ بَشَرًا',
+    descEn: 'Al-Ḥijr 15:28-30 and Ṣād 38:71-73 tell the same scene in almost the same words: 15:29 = 38:72 and 15:30 = 38:73 word for word. The differences sit at the edges: wa-idh qāla (15:28) vs idh qāla (38:71), min ṣalṣālin min ḥamaʾin masnūn vs min ṭīn, and the next ayah, abā (15:31) vs istakbara (38:74). Al-Baqarah 2:30 opens the same way, then says jāʿilun fī l-arḍi khalīfa.',
+    descBn: 'আল-হিজর ১৫:২৮-৩০ আর সোয়াদ ৩৮:৭১-৭৩ একই দৃশ্য বলেছে প্রায় একই শব্দে। ১৫:২৯ আর ৩৮:৭২ হুবহু এক, ১৫:৩০ আর ৩৮:৭৩-ও। পার্থক্য দুই প্রান্তে: শুরুতে ওয়া-ইয কালা (১৫:২৮) বনাম শুধু ইয কালা (৩৮:৭১), মিন সালসালিন মিন হামাইম মাসনূন বনাম মিন তীন। আর পরের আয়াতে আবা (১৫:৩১) বনাম ইসতাকবারা (৩৮:৭৪)। আল-বাকারা ২:৩০-এর শুরুও একই রকম, তবে এরপর আসে জাইলুন ফিল-আরদি খালীফা।',
+    verses: ['2:30', '15:28', '15:29', '15:30', '38:71', '38:72', '38:73']
   },
   {
     id: 'kullu-nafsin',
@@ -71,12 +80,12 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'aziz-hakim',
-    nameEn: 'Divine Epithets at Verse-End — Al-ʿAzīz al-Ḥakīm / Al-ʿAlīm al-Ḥakīm',
-    nameBn: 'আয়াতের শেষে আল্লাহর গুণবাচক নাম — আল-আযীয আল-হাকীম / আল-আলীম আল-হাকীম',
+    nameEn: '"ʿAzīzun Ḥakīm" at Verse-End — Which Words Lead In',
+    nameBn: '"আযীযুন হাকীম" দিয়ে আয়াতের শেষ — আগে কোন শব্দ',
     nameAr: 'العزيز الحكيم / العليم الحكيم',
-    descEn: 'Dozens of verses close with divine name pairs ending in "al-Ḥakīm". The pairing varies: "al-ʿAzīzu l-Ḥakīm" vs "al-ʿAlīmu l-Ḥakīm" vs, rarely, other pairs such as "Tawwābun Ḥakīm" (24:10). Confusing which closing belongs where is a classic recitation error.',
-    descBn: 'বহু আয়াত শেষ হয় আল্লাহর দুটি নামের জোড়া দিয়ে, যার শেষ নামটি "আল-হাকীম"। জোড়াটি সব জায়গায় এক নয়: কোথাও "আল-আযীযুল-হাকীম", কোথাও "আল-আলীমুল-হাকীম", আবার কদাচিৎ অন্য জোড়াও আছে, যেমন "তাওওয়াবুন হাকীম" (২৪:১০)। কোন আয়াতের শেষে কোন জোড়া, তা গুলিয়ে ফেলা তিলাওয়াতের খুব পরিচিত ভুল।',
-    verses: ['2:129', '2:209', '2:220', '2:228', '3:6', '3:18', '4:56', '5:38', '8:49', '8:63', '8:67', '8:71', '9:40', '46:2', '60:5', '66:2']
+    descEn: '47 ayat end with ʿazīz and ḥakīm together. A selection of pairs where only the lead-in changes: fa-ʿlamū anna llāha (2:209) vs wa-ʿlam (2:260); inna llāha (2:220, 8:10) vs wa-llāhu (2:228, 8:67); inna llāha kāna (4:56) vs wa-kāna llāhu (4:165); innahū (8:63). 3:126 and 8:10 are near twins: 3:126 adds lakum, has qulūbukum bihī for bihī qulūbukum, and closes differently. 8:71 has ʿalīmun ḥakīm.',
+    descBn: '৪৭টি আয়াত শেষ হয় আযীয আর হাকীম একসাথে দিয়ে। এখানে বাছাই করা কয়েকটি জোড়া, যেখানে বদলায় শুধু আগের শব্দ: ফালামূ আন্নাল্লাহা (২:২০৯) বনাম ওয়ালাম (২:২৬০); ইন্নাল্লাহা (২:২২০, ৮:১০) বনাম ওয়াল্লাহু (২:২২৮, ৮:৬৭); ইন্নাল্লাহা কানা (৪:৫৬) বনাম ওয়া কানাল্লাহু (৪:১৬৫); ইন্নাহূ (৮:৬৩)। আলে ইমরান ৩:১২৬ আর আল-আনফাল ৮:১০ প্রায় যমজ। তবু ৩:১২৬-এ বাড়তি আছে \'লাকুম\', আর সেখানে \'কুলূবুকুম বিহী\', ৮:১০-এ \'বিহী কুলূবুকুম\'। শেষটাও আলাদা। আল-আনফাল ৮:৭১-এ আছে আলীমুন হাকীম।',
+    verses: ['2:209', '2:220', '2:228', '2:260', '3:126', '4:56', '4:165', '8:10', '8:63', '8:67', '8:71']
   },
   {
     id: 'alif-lam-mim',
@@ -89,12 +98,12 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'musa-firawn',
-    nameEn: 'Moses Before Pharaoh — The Exodus Narrative',
-    nameBn: 'ফেরাউনের সামনে মূসা — মিসর ত্যাগের কাহিনী',
+    nameEn: 'Moses Sent with Our Signs to Pharaoh and His Chiefs',
+    nameBn: 'নিদর্শনসহ ফেরাউন ও তার সভাসদদের কাছে মূসা',
     nameAr: 'موسى وفرعون',
-    descEn: 'The encounter of Moses and Pharaoh is retold in many surahs; seven of them are sampled here. Each account emphasises a different aspect of the story; the "framing" verses of these accounts, above all 7:103 and 10:75, are a classic mutashabihat set.',
-    descBn: 'মূসা ও ফেরাউনের মুখোমুখি হওয়ার ঘটনা বহু সূরায় বারবার এসেছে; এখানে তার সাতটি সূরা থেকে নমুনা নেওয়া হয়েছে। প্রতিটি বর্ণনায় কাহিনীর আলাদা একটি দিকে জোর। এসব বর্ণনার "ভূমিকা" আয়াতগুলো, বিশেষ করে ৭:১০৩ ও ১০:৭৫, মুতাশাবিহাতের একটি সুপরিচিত গুচ্ছ।',
-    verses: ['7:103', '10:75', '11:96', '17:101', '20:49', '26:10', '28:3']
+    descEn: 'The sending of Moses is told in look-alike frames. Hūd 11:96 and Ghāfir 40:23 are identical (wa-laqad arsalnā Mūsā bi-āyātinā wa-sulṭānin mubīn); the next ayah tells them apart: ilā Firʿawna wa-malaʾihī (11:97) or wa-Hāmāna wa-Qārūn (40:24). 14:5 and 43:46 share wa-laqad arsalnā Mūsā bi-āyātinā; 7:103 and 10:75 open thumma baʿathnā min baʿdihim; 23:45 has thumma arsalnā Mūsā wa-akhāhu Hārūn.',
+    descBn: 'মূসা (আ)-কে পাঠানোর কথা কয়েকটি সূরায় এসেছে প্রায় একই কাঠামোয়। হুদ ১১:৯৬ আর গাফির ৪০:২৩ হুবহু এক (ওয়া লাকাদ আরসালনা মূসা বিআয়াতিনা ওয়া সুলতানিম মুবীন)। চেনা যায় পরের আয়াতে: ইলা ফিরআওনা ওয়া মালাইহী (১১:৯৭), নাকি ওয়া হামানা ওয়া কারূন (৪০:২৪)। ১৪:৫ আর ৪৩:৪৬-এও আছে ওয়া লাকাদ আরসালনা মূসা বিআয়াতিনা। ৭:১০৩ আর ১০:৭৫-এর শুরু ছুম্মা বাআছনা মিম বাদিহিম, আর ২৩:৪৫-এ ছুম্মা আরসালনা মূসা ওয়া আখাহু হারূন।',
+    verses: ['7:103', '10:75', '11:96', '11:97', '14:5', '23:45', '23:46', '40:23', '40:24', '43:46']
   },
   {
     id: 'fastaqim',
@@ -119,9 +128,9 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: '"Those Who Believe and Do Righteous Deeds"',
     nameBn: '"যারা ঈমান আনে ও সৎকর্ম করে"',
     nameAr: 'الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ',
-    descEn: 'This formula for the believers appears in about 50 verses, often followed by a promise of Gardens. The variation lies in what follows: some promise rivers, some mention specific divine attributes, some differ in the garden descriptions. Shown here are 15 representative examples; the wording that follows the formula varies from verse to verse.',
-    descBn: 'মুমিনদের পরিচয়ের এই বাক্যটি প্রায় ৫০টি আয়াতে এসেছে, প্রায়ই এর পরে থাকে জান্নাতের প্রতিশ্রুতি। পার্থক্য পরের অংশে: কোথাও নদীর প্রতিশ্রুতি, কোথাও আল্লাহর নির্দিষ্ট গুণের উল্লেখ, কোথাও জান্নাতের বর্ণনায় ভিন্নতা। এখানে বাছাই করা ১৫টি উদাহরণ দেওয়া হলো; বাক্যটির পরের শব্দগুলো আয়াতভেদে বদলে যায়।',
-    verses: ['2:82', '2:277', '3:57', '4:57', '4:122', '5:9', '7:42', '10:9', '18:30', '18:107', '29:7', '29:58', '31:8', '47:2', '85:11']
+    descEn: '"Alladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāt" occurs in 50 ayat; shown here are those most easily swapped. First the opener: wa-lladhīna (2:82, 4:57, 4:122, 7:42, 29:7, 29:9, 29:58, 47:2) or inna lladhīna (10:9, 11:23, 31:8, 85:11). Then the twins: 2:82, 7:42, 11:23 end ulāʾika aṣḥābu l-jannah; 4:57 and 4:122 share sa-nudkhiluhum … abadā; 29:7 and 47:2 the forgiven sins; 31:8 and 85:11 lahum jannāt.',
+    descBn: '"আল্লাযীনা আমানূ ওয়া আমিলুস-সালিহাত" এসেছে ৫০টি আয়াতে। এখানে বাছাই করা হয়েছে সেগুলো, যেগুলো সবচেয়ে সহজে গুলিয়ে যায়। প্রথমে শুরুর শব্দ: ওয়াল্লাযীনা (২:৮২, ৪:৫৭, ৪:১২২, ৭:৪২, ২৯:৭, ২৯:৯, ২৯:৫৮, ৪৭:২), নাকি ইন্নাল্লাযীনা (১০:৯, ১১:২৩, ৩১:৮, ৮৫:১১)। তারপর যমজগুলো: ২:৮২, ৭:৪২ আর ১১:২৩ শেষ হয় উলাইকা আসহাবুল-জান্নাহ দিয়ে। ৪:৫৭ আর ৪:১২২-এ একই সানুদখিলুহুম … আবাদা। ২৯:৭ আর ৪৭:২-এ গুনাহ মোচনের কথা। ৩১:৮ আর ৮৫:১১-এ লাহুম জান্নাত।',
+    verses: ['2:82', '4:57', '4:122', '7:42', '10:9', '11:23', '29:7', '29:9', '29:58', '31:8', '47:2', '85:11']
   },
   {
     id: 'noah-ark',
@@ -134,24 +143,24 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'quran-3-7-cluster',
-    nameEn: 'Quran 3:7 — The Defining Verse on Mutashabihat',
-    nameBn: 'কুরআন ৩:৭ — মুতাশাবিহাত নিয়ে মূল আয়াত',
-    nameAr: 'آية المتشابهات',
-    descEn: 'Surat Āl ʿImrān 3:7 is the Quran\'s own statement distinguishing muḥkamāt from mutashābihāt — there meaning verses whose sense is not plain, not the look-alike wordings of this module. Its echo in 2:269 shares the phrase "wa-mā yadhdhakkaru illā ulu l-albāb". These two represent the "meta-layer" of the phenomenon.',
-    descBn: 'সূরা আলে ইমরানের ৩:৭ আয়াতে কুরআন নিজেই মুহকামাত ও মুতাশাবিহাতের পার্থক্য বলে দিয়েছে। সেখানে মুতাশাবিহাত মানে যেসব আয়াতের অর্থ স্পষ্ট নয়; এই অংশের মতো একই রকম শব্দের আয়াত নয়। ২:২৬৯-এ এর প্রতিধ্বনি আছে: দুই আয়াতেই রয়েছে "ওয়া মা ইয়াযযাক্কারু ইল্লা উলুল-আলবাব"। এ দুটি যেন বিষয়টির "ওপরের স্তর": মুতাশাবিহাত নিয়ে কুরআনের নিজের বক্তব্য।',
-    verses: ['3:7', '2:269']
+    nameEn: '"None Take Heed but People of Understanding" — Ulū l-Albāb Closings',
+    nameBn: '"বোধসম্পন্নরাই উপদেশ নেয়" — উলুল-আলবাব দিয়ে আয়াতের শেষ',
+    nameAr: 'يَذَّكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ',
+    descEn: 'Six ayat close with a verb of taking heed and "ulū l-albāb", and the frame around the verb is the trap. Al-Baqarah 2:269 and Āl ʿImrān 3:7: wa-mā yadhdhakkaru illā ulū l-albāb. Ar-Raʿd 13:19 and az-Zumar 39:9: innamā yatadhakkaru ulū l-albāb. Ibrāhīm 14:52: wa-li-yadhdhakkara ulū l-albāb. Ṣād 38:29: wa-li-yatadhakkara ulū l-albāb.',
+    descBn: 'ছয়টি আয়াত শেষ হয় উপদেশ নেওয়ার একটি ক্রিয়া আর "উলুল-আলবাব" দিয়ে। ভুল হয় ক্রিয়াটির আশপাশে। আল-বাকারা ২:২৬৯ আর আলে ইমরান ৩:৭: ওয়া মা ইয়াযযাক্কারু ইল্লা উলুল-আলবাব। আর-রাদ ১৩:১৯ আর আয-যুমার ৩৯:৯: ইন্নামা ইয়াতাযাক্কারু উলুল-আলবাব। ইবরাহীম ১৪:৫২: ওয়া লিইয়াযযাক্কারা উলুল-আলবাব। সোয়াদ ৩৮:২৯: ওয়া লিইয়াতাযাক্কারা উলুল-আলবাব।',
+    verses: ['2:269', '3:7', '13:19', '14:52', '38:29', '39:9']
   },
 
   // ── Wave 2 — 17 additional curated groups ────────────────────────────────
 
   {
     id: 'al-kahf-stories',
-    nameEn: 'Al-Kahf — Four Narrative Opening Frames',
-    nameBn: 'আল-কাহফ — চার কাহিনীর চার রকম সূচনা',
-    nameAr: 'مطالع قصص سورة الكهف الأربع',
-    descEn: 'Al-Kahf\'s four famous stories (Cave Youth, Two Garden Owners, Moses & Khiḍr, Dhul-Qarnayn) each open with a distinct rhetorical frame at 18:9, 18:32, 18:60, and 18:83. The four frames share no wording — a question ("am ḥasibta"), a command ("wa-ḍrib lahum"), "wa-idh qāla Mūsā" and "wa-yasʾalūnaka" — so this is a thematic set: the task is to know which frame opens which story.',
-    descBn: 'আল-কাহফের চারটি বিখ্যাত কাহিনী (গুহাবাসী যুবকেরা, দুই বাগানের মালিক, মূসা ও খিযির, যুল-কারনাইন) শুরু হয়েছে ১৮:৯, ১৮:৩২, ১৮:৬০ ও ১৮:৮৩-এ, প্রতিটি আলাদা ভঙ্গিতে। চারটি সূচনার শব্দে কোনো মিল নেই: একটি প্রশ্ন ("আম হাসিবতা"), একটি আদেশ ("ওয়াদরিব লাহুম"), "ওয়া ইয কালা মূসা" আর "ওয়া ইয়াসআলূনাকা"। তাই এটি বিষয়ভিত্তিক গুচ্ছ। এখানে কাজ হলো জানা, কোন সূচনা দিয়ে কোন কাহিনী শুরু।',
-    verses: ['18:9', '18:32', '18:60', '18:83']
+    nameEn: 'Wa-ḍrib Lahum Mathal — "Set Forth for Them a Parable"',
+    nameBn: 'ওয়াদরিব লাহুম মাছাল — "তাদের সামনে উপমা পেশ করুন"',
+    nameAr: 'وَٱضْرِبْ لَهُم مَّثَلًا',
+    descEn: 'Three ayat open with the command "wa-ḍrib lahum". Two go on "mathalan" and then name the example: two men (al-Kahf 18:32) or the people of the town (Yā Sīn 36:13). Al-Kahf 18:45 says "mathala l-ḥayāti d-dunyā", the parable of this world\'s life. Learn the word after mathal.',
+    descBn: 'তিনটি আয়াতের শুরু একই আদেশে: "ওয়াদরিব লাহুম"। দুটিতে এরপর "মাছালান", তারপর উপমাটির নাম: দুই ব্যক্তি (আল-কাহফ ১৮:৩২), নয়তো এক জনপদের অধিবাসীরা (ইয়াসীন ৩৬:১৩)। আল-কাহফ ১৮:৪৫-এ আছে "মাছালাল-হায়াতিদ-দুনইয়া", দুনিয়ার জীবনের উপমা। মাছাল-এর পরের শব্দটি মনে রাখুন।',
+    verses: ['18:32', '18:45', '36:13']
   },
   {
     id: 'hawamim',
@@ -173,12 +182,12 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'opening-oaths',
-    nameEn: 'The Short-Sūrah Opening Oath Cluster',
-    nameBn: 'ছোট সূরাগুলোর শুরুর শপথ',
-    nameAr: 'أقسام أوائل السور القصيرة',
-    descEn: 'Five early Makkan sūrahs open with oaths by created things — dawn (89), sun (91), night (92), forenoon (93), fig (95) — each followed by a contrasting or complementary pair. The oaths share identical syntactic structure "wa-X" but differ in subject, making the sequence a memorisation challenge where students confuse which image belongs to which sūrah.',
-    descBn: 'প্রথম দিকের পাঁচটি মক্কী সূরা শুরু হয়েছে সৃষ্টির কোনো কিছুর শপথ দিয়ে: ভোর (৮৯), সূর্য (৯১), রাত (৯২), পূর্বাহ্ণ (৯৩), ডুমুর (৯৫)। প্রতিটির পরে আসে বিপরীত বা পরিপূরক আরেকটি জোড়া। শপথগুলোর গঠন হুবহু এক ("ওয়া" দিয়ে শপথ), শুধু বিষয় আলাদা। তাই মুখস্থ করতে গিয়ে ছাত্ররা প্রায়ই গুলিয়ে ফেলে, কোন ছবিটা কোন সূরার।',
-    verses: ['89:1', '91:1', '92:1', '93:1', '95:1']
+    nameEn: '"By the Night When…" — Night, Day and Dawn Oath Lines',
+    nameBn: '"শপথ রাতের, যখন…" — রাত, দিন ও ভোরের শপথ',
+    nameAr: 'وَٱلَّيْلِ إِذَا',
+    descEn: 'Short sūrahs swear by the night, the day and the dawn in three-word lines that differ only in the verb. Night: idh adbar (74:33, idh not idhā), idhā ʿasʿas (81:17), idhā yasr (89:4), idhā yaghshāhā (91:4), idhā yaghshā (92:1), idhā sajā (93:2). Day: idhā jallāhā (91:3), idhā tajallā (92:2). Dawn: idhā asfar (74:34), idhā tanaffas (81:18).',
+    descBn: 'ছোট সূরাগুলোতে রাত, দিন আর ভোরের শপথ এসেছে তিন শব্দের ছোট ছোট আয়াতে, পার্থক্য শুধু ক্রিয়ায়। রাত: ইয আদবার (৭৪:৩৩, এখানে ইযা নয়, ইয), ইযা আসআস (৮১:১৭), ইযা ইয়াসর (৮৯:৪), ইযা ইয়াগশাহা (৯১:৪), ইযা ইয়াগশা (৯২:১), ইযা সাজা (৯৩:২)। দিন: ইযা জাল্লাহা (৯১:৩), ইযা তাজাল্লা (৯২:২)। ভোর: ইযা আসফার (৭৪:৩৪), ইযা তানাফফাস (৮১:১৮)।',
+    verses: ['74:33', '74:34', '81:17', '81:18', '89:4', '91:3', '91:4', '92:1', '92:2', '93:2']
   },
   {
     id: 'yunus-dua',
@@ -191,21 +200,39 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'wujuhun-yawmaidhin',
-    nameEn: 'Hell & Paradise Twin Openings — Sūrahs 56, 78, 88',
-    nameBn: 'জাহান্নাম ও জান্নাতের যুগল সূচনা — সূরা ৫৬, ৭৮, ৮৮',
-    nameAr: 'ازدواج وصف الجنة والنار في سور الواقعة والنبأ والغاشية',
-    descEn: 'Three eschatological sūrahs describe Hell and Paradise in back-to-back passages of mirrored structure. Sūrat al-Wāqiʿa pairs "aṣḥābu l-yamīni" (56:27) with "aṣḥābu sh-shimāli" (56:41); al-Ghāshiya pairs "wujūhun yawma\'idhin khāshiʿa" (88:2) with "wujūhun yawma\'idhin nāʿima" (88:8), differing only in the adjective; an-Nabaʾ contrasts "inna jahannama kānat mirṣādā" (78:21) with "inna li-l-muttaqīna mafāzā" (78:31). Each pair is structurally parallel — a classic tool for teaching the Day of Judgement passages.',
-    descBn: 'আখিরাত-বিষয়ক তিনটি সূরায় জাহান্নাম ও জান্নাতের বর্ণনা এসেছে পাশাপাশি, একটি যেন অন্যটির আয়না। সূরা আল-ওয়াকিয়ায় "আসহাবুল-ইয়ামীন" (৫৬:২৭)-এর বিপরীতে "আসহাবুশ-শিমাল" (৫৬:৪১); আল-গাশিয়ায় "উজূহুন ইয়াওমাইযিন খাশিআ" (৮৮:২)-এর বিপরীতে "উজূহুন ইয়াওমাইযিন নাইমা" (৮৮:৮), পার্থক্য শুধু বিশেষণে; আন-নাবায় "ইন্না জাহান্নামা কানাত মিরসাদা" (৭৮:২১)-এর বিপরীতে "ইন্না লিল-মুত্তাকীনা মাফাযা" (৭৮:৩১)। প্রতিটি জোড়ার গঠন সমান্তরাল। কিয়ামতের দিনের আয়াতগুলো শেখানোর এটি একটি পরিচিত উপায়।',
-    verses: ['56:27', '56:41', '78:21', '78:31', '88:2', '88:8']
+    nameEn: 'Wujūhun Yawmaʾidhin — Faces on That Day (Sūrahs 75, 80, 88)',
+    nameBn: 'উজূহুন ইয়াওমাইযিন — সেদিনের চেহারা (সূরা ৭৫, ৮০, ৮৮)',
+    nameAr: 'وُجُوهٌ يَوْمَئِذٍ',
+    descEn: 'Three sūrahs describe faces on the Last Day with the same two words, wujūhun yawmaʾidhin, and change only what follows: nāḍirah and bāsirah in al-Qiyāmah (75:22, 75:24), musfirah and ʿalayhā ghabarah in ʿAbasa (80:38, 80:40), khāshiʿah and nāʿimah in al-Ghāshiyah (88:2, 88:8). The phrase occurs nowhere else. Only al-Ghāshiyah puts punishment first and opens its second line without wa-.',
+    descBn: 'কিয়ামতের দিনের চেহারার কথা তিনটি সূরায় শুরু হয় একই দুই শব্দে: উজূহুন ইয়াওমাইযিন। বদলায় শুধু পরের অংশ। আল-কিয়ামাহতে নাদিরাহ আর বাসিরাহ (৭৫:২২, ৭৫:২৪), আবাসায় মুসফিরাহ আর আলাইহা গাবারাহ (৮০:৩৮, ৮০:৪০), আল-গাশিয়াহতে খাশিআহ আর নাইমাহ (৮৮:২, ৮৮:৮)। পুরো কুরআনে কথাটি আছে কেবল এই ছয় জায়গায়। শুধু আল-গাশিয়াহ শাস্তির দিকটা আগে আনে, আর তার দ্বিতীয় আয়াতের শুরুতে \'ওয়া\' নেই।',
+    verses: ['75:22', '75:24', '80:38', '80:40', '88:2', '88:8']
+  },
+  {
+    id: 'waqia-ashab',
+    nameEn: 'Al-Wāqiʿah — "Aṣḥābu … Mā Aṣḥābu …" Twin Lines',
+    nameBn: 'আল-ওয়াকিআহ — "আসহাবু … মা আসহাবু …" যুগল আয়াত',
+    nameAr: 'أَصْحَٰبُ ٱلْمَيْمَنَةِ وَأَصْحَٰبُ ٱلْيَمِينِ في الواقعة',
+    descEn: 'Al-Wāqiʿah names the right and left companions twice in one frame, aṣḥābu X mā aṣḥābu X, with the noun said twice. The first time (56:8, 56:9) the words are al-maymanah and al-mashʾamah, and the right opens with fa-. The second time (56:27, 56:41) they are al-yamīn and ash-shimāl, and both open with wa-. The slip is putting one passage\'s words into the other.',
+    descBn: 'আল-ওয়াকিআহ ডান ও বাম দলের নাম নেয় দুবার, একই ছাঁচে: আসহাবু অমুক, মা আসহাবু অমুক, নামটা দুবার। প্রথমবার (৫৬:৮, ৫৬:৯) শব্দ দুটি আল-মাইমানাহ আর আল-মাশআমাহ, আর ডান দলের আয়াত শুরু হয় \'ফা\' দিয়ে। দ্বিতীয়বার (৫৬:২৭, ৫৬:৪১) শব্দ দুটি আল-ইয়ামীন আর আশ-শিমাল, দুটোরই শুরু \'ওয়া\' দিয়ে। ভুলটা হয় এক অংশের শব্দ অন্য অংশে বসিয়ে দিলে।',
+    verses: ['56:8', '56:9', '56:27', '56:41']
   },
   {
     id: 'wa-ma-tafarraqu',
-    nameEn: '"They Did Not Divide Except After Knowledge Came" — Splitting Verses',
-    nameBn: '"জ্ঞান আসার পরই তারা বিভক্ত হয়েছে" — দলাদলির আয়াত',
+    nameEn: '"Only After Knowledge Came" — Splitting and Differing',
+    nameBn: '"জ্ঞান আসার পরেই" — বিভক্তি ও মতভেদ',
     nameAr: 'وَمَا تَفَرَّقُوا إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ',
-    descEn: 'Two verses warn that communities split only after clear proofs or knowledge had reached them: 3:105 ("min baʿdi mā jāʾahumu l-bayyināt") and 42:14 ("min baʿdi mā jāʾahumu l-ʿilm"). 30:32 condemns those who split their religion into sects, and 42:13, just before 42:14, commands "wa-lā tatafarraqū fīh" (do not divide in it) — unity commanded, then violated — a rhetorical pair worth keeping apart.',
-    descBn: 'দুটি আয়াত সতর্ক করে: সম্প্রদায়গুলো বিভক্ত হয়েছে সুস্পষ্ট প্রমাণ বা জ্ঞান পৌঁছে যাওয়ার পরেই। আয়াত দুটি হলো ৩:১০৫ ("মিন বা‘দি মা জাআহুমুল-বাইয়্যিনাত") ও ৪২:১৪ ("মিন বা‘দি মা জাআহুমুল-ইলম")। ৩০:৩২ নিন্দা করে তাদের, যারা নিজেদের দ্বীনকে ভাগ করে দলে দলে বিভক্ত হয়েছে। আর ৪২:১৪-এর ঠিক আগে ৪২:১৩-এ আদেশ আছে "ওয়া লা তাতাফাররাকূ ফীহ" (এতে বিভক্ত হয়ো না)। আগে ঐক্যের আদেশ, পরে তা ভঙ্গ: এই জোড়াটি আলাদা করে মনে রাখার মতো।',
-    verses: ['3:105', '30:32', '42:13', '42:14']
+    descEn: 'Six ayat here say people split or differed after guidance came: min baʿdi mā jāʾa-hum (jāʾat-humu in 2:213, 98:4). Outside the group, 2:253 has it too, before ikhtalafū. The verb: ikhtalafa (2:213, 3:19, 45:17), tafarraqa (42:14, 98:4), or both (3:105). What came: al-ʿilm (3:19, 42:14, 45:17), al-bayyināt (2:213, 3:105), al-bayyinah (98:4). Baghyan baynahum follows in 2:213, 3:19, 42:14, 45:17.',
+    descBn: 'এখানকার ছয়টি আয়াত বলে, পথনির্দেশ পৌঁছে যাওয়ার পরে লোকেরা ভাগ হয়েছে বা মতভেদ করেছে; সঙ্গে আছে \'মিন বা\'দি মা জাআহুম\' (২:২১৩ ও ৯৮:৪-এ \'জাআতহুমু\')। ২:২৫৩-এও আছে \'জাআতহুমুল বাইয়্যিনাত\', তারপর \'ইখতালাফূ\'; সেটি এই দলে নেই। তিনটি জায়গা খেয়াল করুন। ক্রিয়া: ইখতালাফা (২:২১৩, ৩:১৯, ৪৫:১৭), তাফাররাকা (৪২:১৪, ৯৮:৪), দুটোই (৩:১০৫)। কী এসেছিল: আল-ইলম (৩:১৯, ৪২:১৪, ৪৫:১৭), আল-বাইয়্যিনাত (২:২১৩, ৩:১০৫), আল-বাইয়্যিনাহ (৯৮:৪)। আর পরে \'বাগইয়াম বাইনাহুম\' আছে কি না (২:২১৩, ৩:১৯, ৪২:১৪, ৪৫:১৭)।',
+    verses: ['2:213', '3:19', '3:105', '42:14', '45:17', '98:4']
+  },
+  {
+    id: 'farraqu-dinahum',
+    nameEn: '"Those Who Split Their Religion" — Al-Anʿām & Ar-Rūm',
+    nameBn: '"যারা নিজেদের দ্বীনকে ভাগ করেছে" — আল-আনআম ও আর-রূম',
+    nameAr: 'ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا',
+    descEn: 'Two ayat share the five-word run alladhīna farraqū dīnahum wa-kānū shiyaʿan, found nowhere else. Al-Anʿām 6:159 opens inna lladhīna and goes on lasta minhum fī shayʾ. Ar-Rūm 30:32 opens mina lladhīna and ends kullu ḥizbin bi-mā ladayhim fariḥūn, the same close as al-Muʾminūn 23:53.',
+    descBn: 'পাঁচ শব্দের অংশ \'আল্লাযীনা ফাররাকূ দীনাহুম ওয়া কানূ শিয়াআন\' আছে কেবল এই দুই আয়াতে। আল-আনআম ৬:১৫৯ শুরু হয় \'ইন্নাল্লাযীনা\' দিয়ে, পরে আসে \'লাসতা মিনহুম ফী শাই\'। আর-রূম ৩০:৩২ শুরু হয় \'মিনাল্লাযীনা\' দিয়ে, শেষ হয় \'কুল্লু হিযবিম বিমা লাদাইহিম ফারিহূন\' দিয়ে; আল-মুমিনূন ২৩:৫৩-এর শেষটাও হুবহু এক।',
+    verses: ['6:159', '30:32']
   },
   {
     id: 'kafa-billahi',
@@ -266,9 +293,9 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: 'Believers\' Traits — Al-Muʾminūn & Al-Maʿārij Parallels',
     nameBn: 'মুমিনদের গুণ — আল-মুমিনূন ও আল-মাআরিজের মিল',
     nameAr: 'صفات المؤمنين بين المؤمنون والمعارج',
-    descEn: 'The opening of al-Muʾminūn (23:1–9) and a central passage of al-Maʿārij (70:22–35) enumerate almost the same list of believers\' characteristics — humility in prayer, giving zakāh, guarding chastity, keeping covenants — in nearly identical phrasing. The verse pairs 23:5/70:29 and 23:8/70:32 are identical, and 23:2/70:23 differ in two words — a staple of advanced ḥifẓ review.',
-    descBn: 'আল-মুমিনূনের শুরু (২৩:১–৯) আর আল-মাআরিজের মাঝের একটি অংশ (৭০:২২–৩৫) মুমিনদের প্রায় একই গুণের তালিকা দেয়, শব্দও প্রায় এক: নামাজে বিনয়, যাকাত দেওয়া, লজ্জাস্থানের হেফাজত, অঙ্গীকার রক্ষা। ২৩:৫/৭০:২৯ এবং ২৩:৮/৭০:৩২ আয়াত-জোড়া হুবহু এক, আর ২৩:২/৭০:২৩-এ পার্থক্য মাত্র দুটি শব্দে। হিফজের উচ্চতর পর্যায়ে ঝালাই করার সময় এগুলো নিয়মিত আসে।',
-    verses: ['23:2', '23:5', '23:8', '70:23', '70:29', '70:32']
+    descEn: 'Al-Muʾminūn 23:1-11 and al-Maʿārij 70:22-35 list the believers\' traits in shared lines. 23:5-8 and 70:29-32 match word for word, so the risk is crossing into the other sūrah after that block. The prayer lines differ: fī ṣalātihim khāshiʿūn (23:2) against ʿalā ṣalātihim dāʾimūn (70:23), and ʿalā ṣalawātihim yuḥāfiẓūn (23:9) against ʿalā ṣalātihim yuḥāfiẓūn (70:34).',
+    descBn: 'আল-মুমিনূনের ২৩:১ থেকে ২৩:১১ আর আল-মাআরিজের ৭০:২২ থেকে ৭০:৩৫ মুমিনদের গুণ গোনে প্রায় একই লাইনে। ২৩:৫ থেকে ২৩:৮ আর ৭০:২৯ থেকে ৭০:৩২ হুবহু এক। তাই এই অংশ শেষ করে অন্য সূরায় ঢুকে পড়ার ভয় থাকে। পার্থক্য নামাযের লাইনগুলোতে: ২৩:২-এ \'ফী সালাতিহিম খাশিঊন\', ৭০:২৩-এ \'আলা সালাতিহিম দাইমূন\'; ২৩:৯-এ \'আলা সালাওয়াতিহিম ইউহাফিযূন\', ৭০:৩৪-এ \'আলা সালাতিহিম ইউহাফিযূন\'।',
+    verses: ['23:2', '23:5', '23:8', '23:9', '70:23', '70:29', '70:32', '70:34']
   },
   {
     id: 'rasul-ila-kull-umma',
@@ -284,8 +311,8 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: '"Fear a Day When No Soul Can Avail Another" — Identical Warning Verses',
     nameBn: '"এমন দিনকে ভয় কর যেদিন কেউ কারো কাজে আসবে না" — একই সতর্কবাণীর আয়াত',
     nameAr: 'وَٱتَّقُواْ يَوۡمًا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٍ شَيۡـًٔا',
-    descEn: 'Verses 2:48 and 2:123 are near-identical twins within the same sūrah, both warning: "wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shay\'an wa-lā yuqbalu minhā shafāʿatun…" — but 2:48 continues "wa-lā yuqbalu minhā shafāʿatun wa-lā yuʾkhadhu minhā ʿadl", while 2:123 reverses the order: "wa-lā yuqbalu minhā ʿadlun wa-lā tanfaʿuhā shafāʿa" — one of the Quran’s clearest deliberate repetitions with variation. A third closely related verse (2:281) uses "wa-ttaqū yawman turjaʿūna fīhi ilā llāh", completing the triad of Day-of-Judgement warnings in al-Baqarah.',
-    descBn: '২:৪৮ ও ২:১২৩ একই সূরার প্রায় হুবহু যমজ আয়াত। দুটিই সতর্ক করে: "ওয়াত্তাকূ ইয়াওমান লা তাজযী নাফসুন আন নাফসিন শাইআন ওয়া লা ইউকবালু মিনহা শাফাআতুন…"। তবে ২:৪৮-এ এর পরে আসে "ওয়া লা ইউকবালু মিনহা শাফাআতুন ওয়া লা ইউ’খাযু মিনহা আদল", আর ২:১২৩-এ ক্রম উল্টো: "ওয়া লা ইউকবালু মিনহা আদলুন ওয়া লা তানফাউহা শাফাআ"। সামান্য বদলসহ ইচ্ছাকৃত পুনরাবৃত্তির এটি কুরআনের সবচেয়ে স্পষ্ট উদাহরণগুলোর একটি। ঘনিষ্ঠ তৃতীয় আয়াতটি (২:২৮১) শুরু হয় "ওয়াত্তাকূ ইয়াওমান তুরজাঊনা ফীহি ইলাল্লাহ" দিয়ে; এভাবে আল-বাকারায় কিয়ামতের দিনের তিনটি সতর্কবাণী পূর্ণ হয়।',
+    descEn: 'Only three ayat open "wa-ttaqū yawman", all in al-Baqarah. 2:48 and 2:123 then match word for word up to shayʾan and share the close wa-lā hum yunṣarūn, but swap the middle: in 2:48 intercession is not accepted, then ransom is not taken; in 2:123 ransom is not accepted, then intercession does not benefit. 2:281 shares only the opener, then turjaʿūna fīhi ilā llāh.',
+    descBn: '"ওয়াত্তাকূ ইয়াওমান" দিয়ে শুরু মাত্র তিনটি আয়াত, তিনটিই আল-বাকারায়। ২:৪৮ ও ২:১২৩ এরপর \'শাইআন\' পর্যন্ত হুবহু এক, শেষও একই: \'ওয়া লা হুম ইউনসারূন\'। বদলায় শুধু মাঝখানটা। ২:৪৮-এ আগে সুপারিশ কবুল হয় না, পরে বিনিময় নেওয়া হয় না; ২:১২৩-এ আগে বিনিময় কবুল হয় না, পরে সুপারিশ কাজে আসে না। ২:২৮১-এর মিল শুধু শুরুতে, তারপর \'তুরজাঊনা ফীহি ইলাল্লাহ\'।',
     verses: ['2:48', '2:123', '2:281']
   },
   {
@@ -293,9 +320,9 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: 'Ibrāhīm\'s Supplication for Mecca — The Subtle Twin',
     nameBn: 'মক্কার জন্য ইবরাহীমের দোয়া — সূক্ষ্ম পার্থক্যের যমজ',
     nameAr: 'دعاء إبراهيم لمكة بين البقرة وإبراهيم',
-    descEn: 'Two verses record Ibrāhīm\'s prayer for Mecca in almost identical wording: 2:126 reads "rabbi-jʿal hādhā baladan āminā" (indefinite — "make this a safe land") while 14:35 reads "rabbi-jʿal hādhā l-balada āminā" (definite — "make this, the land, safe"). Commentators link the tanwīn/definite-article distinction to two different moments in Ibrāhīm’s life: before Mecca was a town (2:126) and after (14:35). Students at every level routinely substitute one for the other.',
-    descBn: 'দুটি আয়াতে মক্কার জন্য ইবরাহীমের দোয়া এসেছে প্রায় একই শব্দে। ২:১২৬-এ আছে "রাব্বিজআল হাযা বালাদান আমিনা" (অনির্দিষ্ট: "একে নিরাপদ শহর বানাও"), আর ১৪:৩৫-এ "রাব্বিজআল হাযাল-বালাদা আমিনা" (নির্দিষ্ট: "এই শহরকে নিরাপদ করো")। মুফাসসিরগণ তানভীন আর নির্দিষ্টবাচক "আল"-এর এই পার্থক্যকে ইবরাহীমের জীবনের দুটি ভিন্ন সময়ের সঙ্গে মেলান: মক্কা জনপদ হওয়ার আগে (২:১২৬) ও পরে (১৪:৩৫)। সব স্তরের ছাত্ররাই প্রায়ই একটির জায়গায় অন্যটি পড়ে ফেলে।',
-    verses: ['2:126', '2:127', '14:35', '14:37']
+    descEn: 'Ibrāhīm\'s prayer for Mecca opens the same way in two sūrahs: rabbi jʿal hādhā baladan āminā in 2:126 (indefinite) and rabbi jʿal hādhā l-balada āminā in 14:35 (definite). Commentators tie this to two moments: before Mecca was a town and after. The fruits request right after it in 2:126, wa-rzuq ahlahū mina th-thamarāt, comes two ayat later in Ibrāhīm, in 14:37: wa-rzuqhum mina th-thamarāt.',
+    descBn: 'মক্কার জন্য ইবরাহীমের দোয়া দুই সূরায় একইভাবে শুরু হয়। ২:১২৬-এ \'রাব্বিজআল হাযা বালাদান আমিনা\' (অনির্দিষ্ট), ১৪:৩৫-এ \'রাব্বিজআল হাযাল বালাদা আমিনা\' (নির্দিষ্ট)। মুফাসসিরগণ এই পার্থক্যকে দুই সময়ের সঙ্গে মেলান: মক্কা জনপদ হওয়ার আগে আর পরে। ২:১২৬-এ এর পরেই আসে ফলের দোয়া, \'ওয়ারযুক আহলাহূ মিনাস সামারাত\'। সূরা ইবরাহীমে সেটি আসে দুই আয়াত পরে, ১৪:৩৭-এ: \'ওয়ারযুকহুম মিনাস সামারাত\'।',
+    verses: ['2:126', '14:35', '14:37']
   },
 
   // ── Wave 3 — 22 additional curated groups ────────────────────────────────
@@ -311,12 +338,12 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'calf-worship',
-    nameEn: 'The Golden Calf — Three Sūrah Accounts',
-    nameBn: 'সোনার বাছুর — তিন সূরার বিবরণ',
-    nameAr: 'عبادة العجل في ثلاثة مواضع',
-    descEn: 'The Israelites\' worship of the golden calf is narrated in three sūrahs: 2:51 (brief), 7:148–150 (extended, with the people\'s grief), and 20:85–97 (dialogue with Mūsā and al-Sāmirī). The key phrase "ʿijlan jasadan" echoes between 7:148 and 20:88. Each account foregrounds a different dimension — the sin (al-Baqarah), the people’s regret (al-Aʿrāf), and the instigator al-Sāmirī (Ṭāhā) — while sharing enough phrasing that cross-sūrah substitution is common.',
-    descBn: 'বনী ইসরাঈলের সোনার বাছুর পূজার ঘটনা তিনটি সূরায় এসেছে: ২:৫১ (সংক্ষেপে), ৭:১৪৮–১৫০ (বিস্তারিত, লোকদের অনুতাপসহ), আর ২০:৮৫–৯৭ (মূসা ও আস-সামিরীর সঙ্গে কথোপকথন)। মূল বাক্যাংশ "ইজলান জাসাদান" ৭:১৪৮ ও ২০:৮৮ দুই জায়গাতেই আছে। প্রতিটি বর্ণনায় ভিন্ন দিক সামনে আসে: গুনাহটি (আল-বাকারা), লোকদের অনুতাপ (আল-আরাফ), আর প্ররোচনাদাতা আস-সামিরী (ত্বহা)। তবু শব্দের মিল এতটা যে এক সূরার শব্দ অন্য সূরায় বসিয়ে ফেলা খুব সাধারণ ভুল।',
-    verses: ['2:51', '7:148', '7:150', '20:85', '20:88', '20:97']
+    nameEn: 'The Golden Calf — Twin Lines Across Four Sūrahs',
+    nameBn: 'সোনার বাছুর — চার সূরার যমজ বাক্য',
+    nameAr: 'متشابه قصة العجل في البقرة والنساء والأعراف وطه',
+    descEn: 'The calf story repeats whole phrases. Al-Baqarah says thumma ttakhadhtumu l-ʿijla min baʿdihī wa-antum ẓālimūn twice (2:51, 2:92); an-Nisāʾ 4:153 has thumma ttakhadhū l-ʿijla min baʿdi mā jāʾathumu l-bayyināt. ʿIjlan jasadan lahū khuwār is in 7:148 and 20:88; rajaʿa Mūsā ilā qawmihī ghaḍbāna asifā in 7:150 and 20:86. Hārūn\'s plea is ibna umma in 7:150, yabnaʾumma in 20:94.',
+    descBn: 'বাছুরের ঘটনায় গোটা গোটা বাক্যাংশ ফিরে ফিরে আসে। আল-বাকারায় দুবার আছে \'সুম্মাত্তাখাযতুমুল ইজলা মিম বা\'দিহী ওয়া আনতুম যালিমূন\' (২:৫১, ২:৯২)। আন-নিসা ৪:১৫৩-এ \'সুম্মাত্তাখাযুল ইজলা মিম বা\'দি মা জাআতহুমুল বাইয়্যিনাত\'। \'ইজলান জাসাদাল লাহূ খুওয়ার\' আছে ৭:১৪৮ আর ২০:৮৮-এ; \'রাজাআ মূসা ইলা কাওমিহী গাদবানা আসিফা\' আছে ৭:১৫০ আর ২০:৮৬-এ। হারূনের মিনতি ৭:১৫০-এ \'ইবনা উম্মা\', ২০:৯৪-এ \'ইয়াবনাউম্মা\'।',
+    verses: ['2:51', '2:92', '4:153', '7:148', '7:150', '20:86', '20:88', '20:94']
   },
   {
     id: 'twelve-springs',
@@ -337,15 +364,6 @@ const MUTASHABIHAT_GROUPS = [
     verses: ['3:38', '3:41', '19:3', '19:7', '19:10']
   },
   {
-    id: 'maryam-provision',
-    nameEn: 'Maryam\'s Miraculous Provision — Two Scenes',
-    nameBn: 'মারইয়ামের অলৌকিক রিযিক — দুই দৃশ্য',
-    nameAr: 'رزق مريم في آل عمران ومريم',
-    descEn: 'Maryam receives divine provision in two distinct scenes: 3:37 describes food found by Zakariyyā in her prayer niche ("wajada ʿindahā rizqan"), while 19:25–26 records the call to her at the palm tree — from Jibrīl or from the newborn ʿĪsā, in different readings of 19:24 — to eat fresh dates and drink from a stream. They form a thematic pair — two divine provisions at different moments of her life — linked by miraculous food rather than by shared wording.',
-    descBn: 'মারইয়াম দুটি আলাদা দৃশ্যে আল্লাহর দেওয়া রিযিক পান। ৩:৩৭-এ যাকারিয়া তাঁর ইবাদতের কক্ষে খাবার পান ("ওয়াজাদা ইনদাহা রিযকান")। আর ১৯:২৫–২৬-এ খেজুর গাছের কাছে তাঁকে ডেকে তাজা খেজুর খেতে ও ঝর্ণার পানি পান করতে বলা হয়; ১৯:২৪-এর ভিন্ন কিরাআত অনুযায়ী ডাকটি জিবরীলের, অথবা নবজাতক ঈসার। এ দুটি বিষয়ভিত্তিক জোড়া: জীবনের দুই ভিন্ন সময়ে আল্লাহর দেওয়া দুটি রিযিক। এদের যোগসূত্র শব্দের মিল নয়, অলৌকিক খাবার।',
-    verses: ['3:37', '19:25', '19:26']
-  },
-  {
     id: 'isa-miracles',
     nameEn: 'ʿĪsā\'s Miracles — Two Canonical Listings',
     nameBn: 'ঈসার মুজিযা — দুটি প্রামাণিক তালিকা',
@@ -359,36 +377,45 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: 'Ibrāhīm\'s Contemplation of Stars, Moon and Sun',
     nameBn: 'তারা, চাঁদ ও সূর্য দেখে ইবরাহীমের চিন্তা',
     nameAr: 'مشهد إبراهيم والنجم والقمر والشمس في الأنعام',
-    descEn: 'Sūrat al-Anʿām 6:74–83 presents a sequential monotheism argument found only here: Ibrāhīm observes a star, then the moon, then the sun — each time declaring "hādhā rabbī", and when it sets drawing a different conclusion ("lā uḥibbu l-āfilīn" after the star). His other debates with his people (21:57–67, 37:88–98) take a different form. The internal repetition of the "hādhā rabbī" pattern within al-Anʿām is itself the key memorisation challenge, as students compress or expand the three stages into each other.',
-    descBn: 'সূরা আল-আনআমের ৬:৭৪–৮৩-এ তাওহীদের পক্ষে ধাপে ধাপে একটি যুক্তি আছে, যা কুরআনে আর কোথাও নেই। ইবরাহীম প্রথমে একটি তারা দেখেন, তারপর চাঁদ, তারপর সূর্য। প্রতিবার বলেন "হাযা রাব্বী", আর সেটি ডুবে গেলে প্রতিবার ভিন্ন সিদ্ধান্তে পৌঁছান (তারার পরে "লা উহিব্বুল-আফিলীন")। নিজ সম্প্রদায়ের সঙ্গে তাঁর অন্য বিতর্কগুলো (২১:৫৭–৬৭, ৩৭:৮৮–৯৮) ভিন্ন ধাঁচের। আল-আনআমের ভেতরেই "হাযা রাব্বী"-র এই পুনরাবৃত্তি মুখস্থের আসল কঠিন জায়গা: ছাত্ররা তিন ধাপকে একটির সঙ্গে আরেকটি মিশিয়ে ছোট বা বড় করে ফেলে।',
-    verses: ['6:74', '6:76', '6:77', '6:78', '6:79', '6:83']
+    descEn: 'Al-Anʿām 6:76-78 tells Ibrāhīm\'s argument in three near-identical ayat. On seeing a star, the moon, then the sun he says hādhā rabbī, a phrase found only here, and when each sets he draws a different conclusion. The sun adds hādhā akbar and takes the feminine bāzighah and afalat. Only the star opens fa-lammā janna ʿalayhi l-layl. The slip is shortening the three stages or swapping their endings.',
+    descBn: 'আল-আনআমের ৬:৭৬ থেকে ৬:৭৮-এ ইবরাহীমের যুক্তি তিনটি প্রায় একই রকম আয়াতে। তারা, তারপর চাঁদ, তারপর সূর্য দেখে প্রতিবার তিনি বলেন \'হাযা রাব্বী\'; কুরআনে এ কথা আর কোথাও নেই। প্রতিটি ডুবে গেলে টানেন আলাদা সিদ্ধান্ত। সূর্যের আয়াতে বাড়তি \'হাযা আকবার\', আর স্ত্রীলিঙ্গে \'বাযিগাহ\' ও \'আফালাত\'। কেবল তারার আয়াত শুরু হয় \'ফালাম্মা জান্না আলাইহিল লাইল\' দিয়ে। ভুল হয় তিন ধাপ ছোট করে ফেললে বা একটার শেষ আরেকটায় বসালে।',
+    verses: ['6:76', '6:77', '6:78']
   },
   {
     id: 'araf-prophet-cycle',
-    nameEn: 'Al-Aʿrāf\'s Serial Prophet Cycle — Parallel Opening Frames',
-    nameBn: 'আল-আরাফে নবীদের ধারাবাহিক কাহিনী — একই ধাঁচের সূচনা',
-    nameAr: 'فاتحة قصص الأنبياء في الأعراف',
-    descEn: 'Al-Aʿrāf presents six consecutive prophet stories (Nūḥ, Hūd, Ṣāliḥ, Lūṭ, Shuʿayb, Mūsā); four are introduced by a near-identical formula: "laqad arsalnā Nūḥan" (7:59), "wa-ilā ʿĀdin akhāhum Hūdan" (7:65), "wa-ilā Thamūda akhāhum Ṣāliḥan" (7:73), "wa-ilā Madyana akhāhum Shuʿayban" (7:85), while Lūṭ (7:80) and Mūsā (7:103) are introduced differently. Each story follows the same arc: prophet calls "yā qawmi", people refuse, punishment descends. The chain is directly paralleled by Sūrat Hūd.',
-    descBn: 'আল-আরাফে পরপর ছয় নবীর কাহিনী এসেছে (নূহ, হূদ, সালিহ, লূত, শুআইব, মূসা)। এর চারটির শুরু প্রায় একই বাক্যে: "লাকাদ আরসালনা নূহান" (৭:৫৯), "ওয়া ইলা আদিন আখাহুম হূদান" (৭:৬৫), "ওয়া ইলা সামূদা আখাহুম সালিহান" (৭:৭৩), "ওয়া ইলা মাদইয়ানা আখাহুম শুআইবান" (৭:৮৫); লূত (৭:৮০) ও মূসার (৭:১০৩) কাহিনী শুরু হয় অন্যভাবে। প্রতিটি কাহিনী একই পথে এগোয়: নবী ডাকেন "ইয়া কাওমি", লোকেরা অস্বীকার করে, তারপর আজাব নেমে আসে। সূরা হূদে ঠিক এর সমান্তরাল একটি ধারা আছে।',
-    verses: ['7:59', '7:65', '7:73', '7:85', '7:103']
+    nameEn: 'Uʿbudū Llāha Mā Lakum min Ilāhin Ghayruh — The Prophets\' Call in al-Aʿrāf, Hūd and al-Muʾminūn',
+    nameBn: 'উ\'বুদুল্লাহা মা লাকুম মিন ইলাহিন গাইরুহ — আল-আরাফ, হূদ ও আল-মুমিনুনে নবীদের দাওয়াত',
+    nameAr: 'ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ',
+    descEn: 'Nine ayat carry the same call: "uʿbudū llāha mā lakum min ilāhin ghayruh". Nūḥ says it in 7:59 and 23:23, Hūd in 7:65 and 11:50, Ṣāliḥ in 7:73 and 11:61, Shuʿayb in 7:85 and 11:84, and an unnamed messenger in 23:32. The openers differ (laqad arsalnā, wa-ilā … akhāhum, fa-arsalnā fīhim), and so does every line after ghayruh, which is where a ḥāfiẓ slips into the twin sūrah.',
+    descBn: 'নয়টি আয়াতে একই দাওয়াত: "উ\'বুদুল্লাহা মা লাকুম মিন ইলাহিন গাইরুহ"। নূহ বলেন ৭:৫৯ ও ২৩:২৩-এ, হূদ ৭:৬৫ ও ১১:৫০-এ, সালিহ ৭:৭৩ ও ১১:৬১-এ, শুআইব ৭:৮৫ ও ১১:৮৪-এ, আর নাম না-বলা এক রাসূল ২৩:৩২-এ। শুরুটা আলাদা (লাকাদ আরসালনা, ওয়া ইলা … আখাহুম, ফাআরসালনা ফীহিম), আলাদা \'গাইরুহ\'-র পরের বাক্যও। ঠিক ওখানেই হাফিজ এক সূরা থেকে যমজ সূরায় চলে যান।',
+    verses: ['7:59', '7:65', '7:73', '7:85', '11:50', '11:61', '11:84', '23:23', '23:32']
   },
   {
-    id: 'hud-prophet-cycle',
-    nameEn: 'Sūrat Hūd\'s Prophet Cycle — Twin of Al-Aʿrāf',
-    nameBn: 'সূরা হূদে নবীদের কাহিনী — আল-আরাফের যমজ',
-    nameAr: 'قصص الأنبياء في سورة هود وتوازيها مع الأعراف',
-    descEn: 'Sūrat Hūd retells five of the same prophet stories as al-Aʿrāf (Nūḥ: 11:25, Hūd: 11:50, Ṣāliḥ: 11:61, Lūṭ: 11:77, Shuʿayb: 11:84); the Hūd, Ṣāliḥ and Shuʿayb accounts open with the same frame as in al-Aʿrāf ("qāla yā qawmi ʿbudū llāha mā lakum min ilāhin ghayruh"). Each Hūd account nearly mirrors its al-Aʿrāf counterpart yet adds distinctive dialogue absent in al-Aʿrāf, so cross-sūrah substitution between the two cycles is a common advanced ḥifẓ error.',
-    descBn: 'আল-আরাফের পাঁচটি নবীর কাহিনী সূরা হূদে আবার এসেছে (নূহ: ১১:২৫, হূদ: ১১:৫০, সালিহ: ১১:৬১, লূত: ১১:৭৭, শুআইব: ১১:৮৪)। হূদ, সালিহ ও শুআইবের কাহিনী শুরু হয়েছে আল-আরাফের মতো একই বাক্যে ("কালা ইয়া কাওমি‘বুদুল্লাহা মা লাকুম মিন ইলাহিন গাইরুহ")। সূরা হূদের প্রতিটি বর্ণনা আল-আরাফের বর্ণনার প্রায় প্রতিচ্ছবি, তবু তাতে এমন কিছু কথোপকথন যোগ হয়েছে যা আল-আরাফে নেই। তাই দুই সূরার কাহিনীর মধ্যে শব্দ অদলবদল করে ফেলা উচ্চতর হিফজে একটি সাধারণ ভুল।',
-    verses: ['11:25', '11:50', '11:61', '11:77', '11:84']
+    id: 'arsalna-nuhan',
+    nameEn: 'Arsalnā Nūḥan ilā Qawmihī — Five Openings of the Nūḥ Story',
+    nameBn: 'আরসালনা নূহান ইলা কাওমিহী — নূহের কাহিনীর পাঁচ সূচনা',
+    nameAr: 'أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ',
+    descEn: 'Five ayat open the Nūḥ story with the same words, "arsalnā Nūḥan ilā qawmihī". The particle before them changes: laqad in 7:59, wa-laqad in 11:25, 23:23 and 29:14, innā in 71:1. So does what follows: fa-qāla yā qawmi in 7:59 and 23:23, innī lakum nadhīrun mubīn in 11:25, fa-labitha fīhim in 29:14, an andhir qawmaka in 71:1.',
+    descBn: 'পাঁচটি আয়াতে নূহের কাহিনী শুরু হয় একই শব্দে: "আরসালনা নূহান ইলা কাওমিহী"। আগের শব্দটি বদলায়: ৭:৫৯-এ \'লাকাদ\', ১১:২৫, ২৩:২৩ ও ২৯:১৪-এ \'ওয়া লাকাদ\', ৭১:১-এ \'ইন্না\'। বদলায় পরের অংশও: ৭:৫৯ ও ২৩:২৩-এ \'ফাকালা ইয়া কাওমি\', ১১:২৫-এ \'ইন্নী লাকুম নাযীরুম মুবীন\', ২৯:১৪-এ \'ফালাবিসা ফীহিম\', ৭১:১-এ \'আন আনযির কাওমাকা\'।',
+    verses: ['7:59', '11:25', '23:23', '29:14', '71:1']
+  },
+  {
+    id: 'jaat-rusuluna',
+    nameEn: 'Jāʾat Rusulunā — The Angels Reach Ibrāhīm and Lūṭ',
+    nameBn: 'জাআত রুসুলুনা — ফেরেশতারা এলেন ইবরাহীম ও লূতের কাছে',
+    nameAr: 'جَآءَتْ رُسُلُنَآ',
+    descEn: 'The guest-angels arrive in Hūd and al-ʿAnkabūt in the same words. To Ibrāhīm: wa-laqad jāʾat rusulunā Ibrāhīma bi-l-bushrā (11:69), wa-lammā jāʾat (29:31). To Lūṭ: wa-lammā jāʾat rusulunā Lūṭan sīʾa bihim wa-ḍāqa bihim dharʿan (11:77), wa-lammā an jāʾat (29:33). Then Lūṭ speaks in 11:77 (wa-qāla), the angels in 29:33 (wa-qālū).',
+    descBn: 'হূদ ও আল-আনকাবুতে মেহমান ফেরেশতাদের আগমন একই শব্দে। ইবরাহীমের কাছে: ১১:৬৯-এ \'ওয়া লাকাদ জাআত রুসুলুনা ইবরাহীমা বিল-বুশরা\', ২৯:৩১-এ \'ওয়া লাম্মা জাআত\'। লূতের কাছে: ১১:৭৭-এ \'ওয়া লাম্মা জাআত রুসুলুনা লূতান সীআ বিহিম ওয়া দাকা বিহিম যারআ\', ২৯:৩৩-এ \'ওয়া লাম্মা আন জাআত\'। এরপর ১১:৭৭-এ কথা বলেন লূত (\'ওয়া কালা\'), ২৯:৩৩-এ ফেরেশতারা (\'ওয়া কালূ\')।',
+    verses: ['11:69', '11:77', '29:31', '29:33']
   },
   {
     id: 'shuara-kadhdhaba',
-    nameEn: 'Ash-Shuʿarāʾ — "They Denied the Messengers" Refrain',
-    nameBn: 'আশ-শুআরা — "তারা রাসূলদের অস্বীকার করল" বাক্যের পুনরাবৃত্তি',
-    nameAr: 'لازمة كَذَّبَتْ في سورة الشعراء',
-    descEn: 'Sūrat ash-Shuʿarāʾ (26) opens five consecutive prophet narratives with the formula "kadhdhabat qawmu Nūḥin l-mursalīn… kadhdhabat ʿĀdun l-mursalīn… kadhdhabat Thamūdu l-mursalīn…" (26:105, 26:123, 26:141, 26:160, 26:176); 26:189 ("fa-kadhdhabūhu…") comes near the end of the last of them. After each narrative, two identical lines close it as a refrain: "inna fī dhālika la-āyatan…" and "wa-inna rabbaka la-huwa l-ʿAzīzu r-Raḥīm". The five openings are interchangeable except for the name of the people (and the masculine "kadhdhaba" before aṣḥābu l-ayka in 26:176), making them a sequential-memorisation test.',
-    descBn: 'সূরা আশ-শুআরা (২৬) পরপর পাঁচটি নবীর কাহিনী শুরু করেছে একই সূত্রে: "কাযযাবাত কাওমু নূহিনিল-মুরসালীন… কাযযাবাত আদুনিল-মুরসালীন… কাযযাবাত সামূদুল-মুরসালীন…" (২৬:১০৫, ২৬:১২৩, ২৬:১৪১, ২৬:১৬০, ২৬:১৭৬); ২৬:১৮৯ ("ফাকাযযাবূহু…") আসে শেষ কাহিনীর শেষ দিকে। প্রতিটি কাহিনীর শেষে একই দুটি আয়াত ফিরে ফিরে আসে: "ইন্না ফী যালিকা লাআয়াতান…" ও "ওয়া ইন্না রাব্বাকা লাহুওয়াল-আযীযুর-রাহীম"। পাঁচটি সূচনায় জাতির নাম ছাড়া আর কোনো পার্থক্য নেই (শুধু ২৬:১৭৬-এ আসহাবুল-আইকার আগে পুংলিঙ্গ "কাযযাবা")। তাই ক্রম ধরে মুখস্থ রাখাই এখানে আসল পরীক্ষা।',
-    verses: ['26:105', '26:123', '26:141', '26:160', '26:176', '26:189']
+    nameEn: 'Ash-Shuʿarāʾ — Five Story Openers: "Kadhdhabat … Alā Tattaqūn"',
+    nameBn: 'আশ-শুআরা — পাঁচ কাহিনীর একই সূচনা: "কাযযাবাত … আলা তাত্তাকূন"',
+    nameAr: 'لازمة كَذَّبَتْ … أَلَا تَتَّقُونَ في سورة الشعراء',
+    descEn: 'Ash-Shuʿarāʾ opens five prophet stories with the same two ayat: kadhdhabat [people] l-mursalīn, then idh qāla lahum akhūhum [prophet] alā tattaqūn. Nūḥ 26:105-106, ʿĀd 26:123-124, Thamūd 26:141-142, Lūṭ 26:160-161, al-Ayka 26:176-177. Only the names change, except in the fifth: kadhdhaba without -t, and Shuʿayb without akhūhum. Nūḥ and Lūṭ take qawmu; ʿĀd and Thamūd stand alone.',
+    descBn: 'আশ-শুআরা পাঁচ নবীর কাহিনী শুরু করে একই দুই আয়াতে। প্রথমটি \'কাযযাবাত [জাতি] আল-মুরসালীন\', দ্বিতীয়টি \'ইয কালা লাহুম আখূহুম [নবী] আলা তাত্তাকূন\'। নূহ (২৬:১০৫, ২৬:১০৬), আদ (২৬:১২৩, ২৬:১২৪), সামূদ (২৬:১৪১, ২৬:১৪২), লূত (২৬:১৬০, ২৬:১৬১), আইকা (২৬:১৭৬, ২৬:১৭৭)। বদলায় কেবল নাম। ব্যতিক্রম পঞ্চমটি: \'কাযযাবা\', শেষে \'ত\' নেই, আর শুআইবের বেলায় \'আখূহুম\' নেই। নূহ আর লূতের আগে \'কাওমু\'; আদ আর সামূদ একা।',
+    verses: ['26:105', '26:106', '26:123', '26:124', '26:141', '26:142', '26:160', '26:161', '26:176', '26:177']
   },
   {
     id: 'qamar-yassarna',
@@ -410,57 +437,84 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'isra-commandments',
-    nameEn: 'Al-Isrāʾ — The Ethical Code Sequence (17:22–39)',
-    nameBn: 'আল-ইসরা — নৈতিক বিধান-ধারা (17:22–39)',
-    nameAr: 'وصايا سورة الإسراء الأخلاقية',
-    descEn: 'Verses 17:22–39 form one of the Quran’s most structured ethical sequences: thirteen prohibitions and commands covering monotheism, parents, relatives, the poor, wastefulness, infanticide, adultery, unjust killing, orphan wealth, weights and measures, knowledge, and arrogance. Many commands employ a parallel "wa-lā taqtulū / wa-lā taqrabū / wa-lā taqfu" frame. The sequence is internally consistent in syntax, making the correct ordering of the thirteen commands a classic memorisation drill.',
-    descBn: '১৭:২২–৩৯ আয়াতগুলো কুরআনের সবচেয়ে সুবিন্যস্ত নৈতিক বিধানমালার একটি। এতে তেরোটি নিষেধ ও আদেশ আছে: তাওহীদ, বাবা-মা, আত্মীয়স্বজন, গরিব, অপচয়, সন্তান হত্যা, ব্যভিচার, অন্যায় হত্যা, এতিমের সম্পদ, ওজন ও মাপ, জ্ঞান, আর অহংকার নিয়ে। অনেক আদেশের কাঠামো একই রকম: "ওয়া লা তাকতুলূ / ওয়া লা তাকরাবূ / ওয়া লা তাকফু"। পুরো অংশের বাক্যগঠন এতটাই মিলে যায় যে তেরোটি আদেশ ঠিক ক্রমে মনে রাখা মুখস্থের একটি পরিচিত অনুশীলন।',
-    verses: ['17:22', '17:23', '17:31', '17:32', '17:33', '17:36', '17:37']
+    nameEn: 'Al-Isrāʾ\'s Commandments and Their Twins in al-Anʿām',
+    nameBn: 'আল-ইসরার আদেশমালা ও আল-আনআমে তার যমজ',
+    nameAr: 'وصايا الإسراء والأنعام',
+    descEn: 'The commands of al-Isrāʾ 17:22-39 repeat those of al-Anʿām 6:151-152 with small changes. Children: khashyata imlāqin naḥnu narzuquhum wa-iyyākum (17:31), min imlāqin naḥnu narzuqukum wa-iyyāhum (6:151). Wa-lā taqrabū z-zinā (17:32), l-fawāḥisha (6:151). The orphan line is identical to ashuddahū, then bi-l-ʿahd (17:34) or l-kayla (6:152). Lā tajʿal maʿa llāhi ilāhan ākhar frames 17:22 and 17:39.',
+    descBn: 'আল-ইসরা ১৭:২২-৩৯-এর আদেশগুলো আল-আনআম ৬:১৫১-১৫২-এর আদেশই, সামান্য বদলসহ। সন্তান হত্যা: ১৭:৩১-এ \'খাশইয়াতা ইমলাকিন নাহনু নারযুকুহুম ওয়া ইয়্যাকুম\', ৬:১৫১-এ \'মিন ইমলাকিন নাহনু নারযুকুকুম ওয়া ইয়্যাহুম\'। \'ওয়া লা তাকরাবূ\'-র পরে ১৭:৩২-এ \'আয-যিনা\', ৬:১৫১-এ \'আল-ফাওয়াহিশ\'। এতিমের সম্পদের বাক্য \'আশুদ্দাহু\' পর্যন্ত হুবহু এক, তারপর ১৭:৩৪-এ \'বিল-আহদ\', ৬:১৫২-এ \'আল-কাইলা\'। ইসরার অংশের শুরু ও শেষ \'লা তাজআল মাআল্লাহি ইলাহান আখার\' দিয়ে (১৭:২২, ১৭:৩৯)।',
+    verses: ['6:151', '6:152', '17:22', '17:23', '17:31', '17:32', '17:33', '17:34', '17:35', '17:39']
+  },
+  {
+    id: 'la-tamshi-marahan',
+    nameEn: 'Wa-lā Tamshi fī l-Arḍi Maraḥā — Al-Isrāʾ and Luqmān',
+    nameBn: 'ওয়া লা তামশি ফিল আরদি মারাহা — আল-ইসরা ও লুকমান',
+    nameAr: 'وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا',
+    descEn: 'The ban on strutting is worded the same in two sūrahs: "wa-lā tamshi fī l-arḍi maraḥā". In al-Isrāʾ 17:37 it opens the ayah and goes on innaka lan takhriqa l-arḍ. In Luqmān 31:18 it follows wa-lā tuṣaʿʿir khaddaka li-n-nās and goes on inna llāha lā yuḥibbu kulla mukhtālin fakhūr.',
+    descBn: 'অহংকারে হাঁটার নিষেধ দুই সূরায় একই শব্দে: "ওয়া লা তামশি ফিল আরদি মারাহা"। আল-ইসরা ১৭:৩৭-এ আয়াত শুরুই হয় এ দিয়ে, তারপর \'ইন্নাকা লান তাখরিকাল আরদ\'। লুকমান ৩১:১৮-এ এটি আসে \'ওয়া লা তুসাআ\'ইর খাদ্দাকা লিন-নাস\'-এর পরে, তারপর \'ইন্নাল্লাহা লা ইউহিব্বু কুল্লা মুখতালিন ফাখূর\'।',
+    verses: ['17:37', '31:18']
   },
   {
     id: 'inna-anzalna',
-    nameEn: '"Indeed We Sent It Down" — The Revelation Descent Cluster',
-    nameBn: '"নিশ্চয় আমি তা নাজিল করেছি" — ওহি নাজিলের আয়াতগুচ্ছ',
-    nameAr: 'إِنَّآ أَنزَلۡنَٰهُ — مواضع نزول القرآن',
-    descEn: '"Innā anzalnāhu" and its near variants introduce divine revelation in a cluster of verses. Sūrat al-Qadr (97:1) reads "innā anzalnāhu fī laylati l-qadr"; its parallel 44:3 reads "innā anzalnāhu fī laylatin mubārakah" — two verses that most commentators take to describe the same night, in almost identical openings. Further parallels include 4:105 ("innā anzalnā ilayka l-kitāba bi-l-ḥaqq") and 2:4 (what was sent down to you and before you). The 97:1/44:3 pair is a well-known source of confusion between "laylatu l-qadr" and "laylatun mubārakah".',
-    descBn: '"ইন্না আনযালনাহু" ও এর কাছাকাছি রূপ দিয়ে একগুচ্ছ আয়াতে ওহি নাজিলের কথা এসেছে। সূরা আল-কাদরে (৯৭:১) আছে "ইন্না আনযালনাহু ফী লাইলাতিল-কাদর"; এর সমান্তরাল ৪৪:৩-এ "ইন্না আনযালনাহু ফী লাইলাতিন মুবারাকাহ"। অধিকাংশ মুফাসসিরের মতে দুটি আয়াত একই রাতের কথা বলছে, আর শুরুও প্রায় এক। আরও মিল আছে ৪:১০৫-এ ("ইন্না আনযালনা ইলাইকাল-কিতাবা বিল-হাক্ক") ও ২:৪-এ (তোমার প্রতি ও তোমার আগে যা নাজিল হয়েছে)। ৯৭:১/৪৪:৩ জোড়ায় "লাইলাতুল-কাদর" আর "লাইলাতুন মুবারাকাহ" গুলিয়ে ফেলা খুব পরিচিত ভুল।',
-    verses: ['2:4', '4:105', '44:3', '97:1']
+    nameEn: 'Innā Anzalnā — Openings of "We Sent Down"',
+    nameBn: 'ইন্না আনযালনা — "আমি নাযিল করেছি" দিয়ে শুরু',
+    nameAr: 'إِنَّآ أَنزَلْنَا',
+    descEn: 'Seven ayat open "innā anzalnā"; in these five the next words decide the rest. With -hu fī: laylatin mubārakah (44:3), laylati l-qadr (97:1). With ilayka l-kitāba bi-l-ḥaqqi: li-taḥkuma bayna n-nās (4:105), fa-ʿbudi llāh (39:2). 39:41 has ʿalayka l-kitāba li-n-nāsi bi-l-ḥaqq. 12:2 (anzalnāhu qurʾānan) is in the Arabic Quran group, 5:44 (anzalnā t-tawrāh) in the one on judging by Allah\'s revelation.',
+    descBn: '"ইন্না আনযালনা" দিয়ে শুরু হয় সাতটি আয়াত। এখানকার পাঁচটিতে পরের শব্দগুলোই বাকিটা ঠিক করে দেয়। \'-হু ফী\' হলে: ৪৪:৩-এ \'লাইলাতিম মুবারাকাহ\', ৯৭:১-এ \'লাইলাতিল কাদর\'। \'ইলাইকাল কিতাবা বিল-হাক্ক\' হলে: ৪:১০৫-এ \'লিতাহকুমা বাইনান-নাস\', ৩৯:২-এ \'ফা\'বুদিল্লাহ\'। আয-যুমার ৩৯:৪১-এ আছে \'আলাইকাল কিতাবা লিন-নাসি বিল-হাক্ক\'। বাকি দুটির মধ্যে ইউসুফ ১২:২ (\'ইন্না আনযালনাহু কুরআনান\') আছে \'আরবি কুরআন\' দলে, আর ৫:৪৪ (\'ইন্না আনযালনাত তাওরাহ\') আছে আল্লাহর নাযিলকৃত বিধানে ফয়সালার দলে।',
+    verses: ['4:105', '39:2', '39:41', '44:3', '97:1']
+  },
+  {
+    id: 'unzila-ilayka',
+    nameEn: 'Bimā Unzila Ilayka wa-mā Unzila min Qablik — Belief in Both Revelations',
+    nameBn: 'বিমা উনযিলা ইলাইকা ওয়া মা উনযিলা মিন কাবলিক — দুই ওহিতেই ঈমান',
+    nameAr: 'بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ',
+    descEn: 'Three ayat carry the same seven words on belief in what was sent down to you and before you. In 2:4 the muttaqīn yuʾminūna bi-mā unzila ilayka; in 4:162 the firm in knowledge and the believers do the same. In 4:60 it is only a claim: yazʿumūna annahum āmanū bi-mā unzila ilayka.',
+    descBn: 'তিনটি আয়াতে একই সাত শব্দ: যা তোমার প্রতি নাযিল হয়েছে আর যা তোমার আগে নাযিল হয়েছে, তাতে ঈমান। ২:৪-এ মুত্তাকীরা \'ইউ\'মিনূনা বিমা উনযিলা ইলাইকা\'; ৪:১৬২-তে জ্ঞানে পাকা লোকেরা ও মুমিনরাও তা-ই। ৪:৬০-এ এটি শুধু মুখের দাবি: \'ইয়াযআমূনা আন্নাহুম আমানূ বিমা উনযিলা ইলাইকা\'।',
+    verses: ['2:4', '4:60', '4:162']
   },
   {
     id: 'wamma-jaa-musa',
-    nameEn: '"And When He Came" — The Arrival Formula in Moses Narratives',
-    nameBn: '"আর যখন সে এল" — মূসার কাহিনীতে আগমনের সূত্র',
-    nameAr: 'وَلَمَّا جَآءَ في قصص موسى',
-    descEn: 'The arrival formula "wa-lammā jāʾa Mūsā" opens 7:143 (Mūsā arrives at the appointed time and asks to see God); the other verses here mark further turning points of the Mosaic narrative in different wording: 20:83 (God asks why Mūsā came ahead of his people), 28:29 ("fa-lammā qaḍā Mūsā l-ajal" — he completes his term and sees the fire), and 28:44 (narrator note on the western side). Students must pair each moment with its correct context.',
-    descBn: 'আগমনের সূত্র "ওয়া লাম্মা জাআ মূসা" দিয়ে শুরু হয়েছে ৭:১৪৩ (মূসা নির্ধারিত সময়ে এসে আল্লাহকে দেখতে চান)। এখানকার অন্য আয়াতগুলো ভিন্ন শব্দে মূসার কাহিনীর আরও কয়েকটি মোড় চিহ্নিত করে: ২০:৮৩ (আল্লাহ জিজ্ঞেস করেন, মূসা কেন তাঁর সম্প্রদায়ের আগে চলে এলেন), ২৮:২৯ ("ফালাম্মা কাদা মূসাল-আজাল": মেয়াদ পূর্ণ করে তিনি আগুন দেখেন), আর ২৮:৪৪ (পশ্চিম প্রান্ত নিয়ে কাহিনীর ফাঁকে একটি মন্তব্য)। ছাত্রদের প্রতিটি মুহূর্তকে তার ঠিক প্রসঙ্গের সঙ্গে মেলাতে হয়।',
-    verses: ['7:143', '20:83', '28:29', '28:44']
+    nameEn: 'Innī Ānastu Nāran — Mūsā Sees the Fire',
+    nameBn: 'ইন্নী আনাসতু নারান — মূসা আগুন দেখলেন',
+    nameAr: 'إِنِّىٓ ءَانَسْتُ نَارًا',
+    descEn: 'Three sūrahs tell how Mūsā saw a fire and spoke to his family, each with "innī ānastu nāran". Ṭā-Hā 20:10 and al-Qaṣaṣ 28:29 share umkuthū and laʿallī ātīkum minhā; an-Naml 27:7 has sa-ātīkum. What he hopes to bring changes: bi-qabasin (20:10), bi-khabarin aw ātīkum bi-shihābin qabas (27:7), bi-khabarin aw jadhwatin mina n-nār (28:29).',
+    descBn: 'তিন সূরায় একই ঘটনা: মূসা আগুন দেখে পরিবারকে বলেন, "ইন্নী আনাসতু নারান"। তা-হা ২০:১০ ও আল-কাসাস ২৮:২৯-এ আছে \'উমকুসূ\' আর \'লাআল্লী আতীকুম মিনহা\'; আন-নামল ২৭:৭-এ \'সাআতীকুম\'। বদলায় কী আনবেন সেই কথা: ২০:১০-এ \'বিকাবাসিন\', ২৭:৭-এ \'বিখাবারিন আও আতীকুম বিশিহাবিন কাবাস\', ২৮:২৯-এ \'বিখাবারিন আও জাযওয়াতিম মিনান-নার\'।',
+    verses: ['20:10', '27:7', '28:29']
+  },
+  {
+    id: 'anba-al-ghayb',
+    nameEn: 'Wa-mā Kunta Ladayhim — "You Were Not There"',
+    nameBn: 'ওয়া মা কুনতা লাদাইহিম — "তুমি সেখানে ছিলে না"',
+    nameAr: 'وَمَا كُنتَ لَدَيْهِمْ',
+    descEn: 'After a story of the past, the Prophet ﷺ is told he was not there to see it. 3:44 and 12:102 match word for word: dhālika min anbāʾi l-ghaybi nūḥīhi ilayka wa-mā kunta ladayhim idh. 11:49 opens tilka … nūḥīhā and says mā kunta taʿlamuhā. In al-Qaṣaṣ the place is named instead: wa-mā kunta bi-jānibi l-gharbiyyi (28:44), bi-jānibi ṭ-ṭūri (28:46).',
+    descBn: 'অতীতের কোনো কাহিনী শেষে নবী ﷺ-কে বলা হয়: তুমি তখন সেখানে ছিলে না। ৩:৪৪ ও ১২:১০২ হুবহু এক: \'যালিকা মিন আমবাইল গাইবি নূহীহি ইলাইকা ওয়া মা কুনতা লাদাইহিম ইয\'। ১১:৪৯-এর শুরু \'তিলকা … নূহীহা\', আর সেখানে \'মা কুনতা তা\'লামুহা\'। আল-কাসাসে আসে জায়গার নাম: ২৮:৪৪-এ \'ওয়া মা কুনতা বিজানিবিল গারবিয়্যি\', ২৮:৪৬-এ \'বিজানিবিত তূর\'।',
+    verses: ['3:44', '11:49', '12:102', '28:44', '28:46']
   },
   {
     id: 'yawma-yaqumu',
-    nameEn: '"The Day People Stand" — Resurrection Standing Formulas',
-    nameBn: '"যেদিন মানুষ দাঁড়াবে" — কিয়ামতে দাঁড়ানোর বর্ণনা',
-    nameAr: 'يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ',
-    descEn: '"Yawma yaqūmu n-nāsu li-rabbi l-ʿālamīn" (83:6) is the starkest Resurrection-standing formula. Parallel expressions include "wa-yawma taqūmu s-sāʿatu yublisu l-mujrimūna" (30:12), "yawma hum bārizūna lā yakhfā ʿalā llāhi minhum shayʾun" (40:16), and "wa-andhirhum yawma l-āzifati idhi l-qulūbu laday l-ḥanājiri" (40:18). All four describe the same Day yet vary in emphasising the crowd, the criminals, divine omniscience, or human terror — and compositing resurrection passages from multiple sūrahs is a common advanced memorisation error.',
-    descBn: '"ইয়াওমা ইয়াকূমুন-নাসু লিরাব্বিল-আলামীন" (৮৩:৬) কিয়ামতের দিন দাঁড়ানোর সবচেয়ে কঠোর বর্ণনা। এর সমান্তরাল প্রকাশ: "ওয়া ইয়াওমা তাকূমুস-সাআতু ইউবলিসুল-মুজরিমূন" (৩০:১২), "ইয়াওমা হুম বারিযূনা লা ইয়াখফা আলাল্লাহি মিনহুম শাইউন" (৪০:১৬), আর "ওয়া আনযিরহুম ইয়াওমাল-আযিফাতি ইযিল-কুলূবু লাদাল-হানাজির" (৪০:১৮)। চারটিই একই দিনের কথা, তবে জোর আলাদা জায়গায়: কোথাও মানুষের সমাবেশ, কোথাও অপরাধীরা, কোথাও আল্লাহর সর্বজ্ঞতা, কোথাও মানুষের আতঙ্ক। বিভিন্ন সূরার কিয়ামতের অংশ জোড়াতালি দিয়ে এক করে ফেলা উচ্চতর মুখস্থে একটি সাধারণ ভুল।',
-    verses: ['30:12', '40:16', '40:18', '83:6']
+    nameEn: 'Yawma Taqūmu / Yaqūmu — "The Day … Shall Stand"',
+    nameBn: 'ইয়াওমা তাকূমু / ইয়াকূমু — যেদিন কায়েম হবে, যেদিন দাঁড়াবে',
+    nameAr: 'وَيَوْمَ تَقُومُ ٱلسَّاعَةُ / يَوْمَ يَقُومُ',
+    descEn: '"Wa-yawma taqūmu s-sāʿah" occurs five times: three in ar-Rūm (30:12 yublisu l-mujrimūn, 30:14 yawmaʾidhin yatafarraqūn, 30:55 yuqsimu l-mujrimūn), then 40:46 adkhilū āla firʿawn and 45:27 yawmaʾidhin yakhsaru l-mubṭilūn. With yaqūmu the subject changes: al-ḥisāb (14:41), ar-rūḥu wa-l-malāʾikah (78:38), an-nās (83:6), al-ashhād (40:51, not in this group).',
+    descBn: '"ওয়া ইয়াওমা তাকূমুস সাআহ" এসেছে পাঁচবার। আর-রুমে তিনবার: ৩০:১২ \'ইউবলিসুল মুজরিমূন\', ৩০:১৪ \'ইয়াওমাইযিই ইয়াতাফাররাকূন\', ৩০:৫৫ \'ইউকসিমুল মুজরিমূন\'। তারপর ৪০:৪৬-এ \'আদখিলূ আলা ফিরআউন\', ৪৫:২৭-এ \'ইয়াওমাইযিই ইয়াখসারুল মুবতিলূন\'। \'ইয়াকূমু\' হলে কর্তা বদলায়: ১৪:৪১-এ \'আল-হিসাব\', ৭৮:৩৮-এ \'আর-রূহু ওয়াল-মালাইকাহ\', ৮৩:৬-এ \'আন-নাস\', আর ৪০:৫১-এ \'আল-আশহাদ\' (এই আয়াতটি দলে নেই)।',
+    verses: ['14:41', '30:12', '30:14', '30:55', '40:46', '45:27', '78:38', '83:6']
   },
   {
     id: 'fa-amma-man-conditional',
-    nameEn: '"As for the One Who…" — The Mirror Conditional Pair in al-Nāziʿāt',
-    nameBn: '"আর যে…" — আন-নাযিআতে মুখোমুখি দুই শর্ত',
-    nameAr: 'فَأَمَّا مَن طَغَىٰ / وَأَمَّا مَنۡ خَافَ في النازعات',
-    descEn: 'Sūrat an-Nāziʿāt (79) presents one of the sharpest "fa-ammā / wa-ammā" conditional pairs in the Quran: "fa-ammā man ṭaghā wa-āthara l-ḥayāta d-dunyā fa-inna l-jaḥīma hiya l-maʾwā" (79:37–39) versus "wa-ammā man khāfa maqāma rabbihi wa-nahan-nafsa ʿani l-hawā fa-inna l-jannata hiya l-maʾwā" (79:40–41). Both halves close with the same frame "fa-inna l-[abode] hiya l-maʾwā". It is a pair of inverted look-alikes: identical syntactic frame, antithetical content.',
-    descBn: 'সূরা আন-নাযিআতে (৭৯) কুরআনের সবচেয়ে ধারালো "ফাআম্মা / ওয়াআম্মা" শর্ত-জোড়াগুলোর একটি আছে: "ফাআম্মা মান তাগা ওয়া আসারাল-হায়াতাদ-দুনইয়া ফাইন্নাল-জাহীমা হিয়াল-মাওয়া" (৭৯:৩৭–৩৯) বনাম "ওয়াআম্মা মান খাফা মাকামা রাব্বিহি ওয়া নাহান-নাফসা আনিল-হাওয়া ফাইন্নাল-জান্নাতা হিয়াল-মাওয়া" (৭৯:৪০–৪১)। দুটি অংশই শেষ হয় একই কাঠামোয়: "ফাইন্নাল-[আবাস] হিয়াল-মাওয়া"। এটি উল্টো ধরনের সদৃশ জোড়া: বাক্যের কাঠামো হুবহু এক, বিষয় একেবারে বিপরীত।',
-    verses: ['79:37', '79:38', '79:39', '79:40', '79:41']
+    nameEn: '"Hiya l-Maʾwā" — The Two Abodes of an-Nāziʿāt',
+    nameBn: '"হিয়াল মা\'ওয়া" — আন-নাযিআতের দুই ঠিকানা',
+    nameAr: 'فَإِنَّ ٱلْجَحِيمَ / ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ',
+    descEn: 'Two ayat of an-Nāziʿāt are the same word for word except one noun: fa-inna l-jaḥīma hiya l-maʾwā (79:39) and fa-inna l-jannata hiya l-maʾwā (79:41). Hell comes first, after the one who transgressed (79:37-38). Paradise comes second, after the one who feared standing before his Lord (79:40). These are the only two ayat in the Quran with hiya l-maʾwā.',
+    descBn: 'আন-নাযিআতের দুটি আয়াত হুবহু এক, তফাত শুধু একটি শব্দে: \'ফাইন্নাল জাহীমা হিয়াল মা\'ওয়া\' (৭৯:৩৯) আর \'ফাইন্নাল জান্নাতা হিয়াল মা\'ওয়া\' (৭৯:৪১)। জাহান্নাম আগে, সীমালঙ্ঘনকারীর কথার পরে (৭৯:৩৭-৩৮)। জান্নাত পরে, রবের সামনে দাঁড়ানোকে যে ভয় করেছে তার কথার পরে (৭৯:৪০)। পুরো কুরআনে \'হিয়াল মা\'ওয়া\' আছে শুধু এই দুই আয়াতে।',
+    verses: ['79:39', '79:41']
   },
   {
     id: 'ala-hudan',
     nameEn: '"Those Are on Guidance from Their Lord" — The Sealant Formula',
     nameBn: '"তারাই তাদের রবের পক্ষ থেকে হিদায়াতের ওপর আছে" — সমাপনী সূত্র',
     nameAr: 'أُوْلَٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمۡ وَأُوْلَٰٓئِكَ هُمُ الۡمُفۡلِحُونَ',
-    descEn: '"Ūlāʾika ʿalā hudan min rabbihim wa-ūlāʾika humu l-mufliḥūn" closes the description of the God-fearing in 2:5, then reappears word-for-word in 31:5 to close an almost identical portrait of the Muhsinīn. The formula also echoes partially in 6:82 ("ūlāʾika lahumu l-amnu wa-hum muhtadūn"). The 2:5/31:5 pair is a clear instance of a closing formula repeated from one sūrah to another in identical form.',
-    descBn: '"উলাইকা আলা হুদান মিন রাব্বিহিম ওয়া উলাইকা হুমুল-মুফলিহূন" দিয়ে আল-বাকারা ২:৫-এ মুত্তাকীদের বর্ণনা শেষ হয়েছে। তারপর ৩১:৫-এ শব্দে শব্দে একই বাক্য এসেছে মুহসিনীনদের প্রায় একই বর্ণনার শেষে। ৬:৮২-এও এর আংশিক প্রতিধ্বনি আছে ("উলাইকা লাহুমুল-আমনু ওয়া হুম মুহতাদূন")। ২:৫/৩১:৫ জোড়াটি এক সূরার সমাপনী বাক্য হুবহু অন্য সূরায় ফিরে আসার স্পষ্ট উদাহরণ।',
-    verses: ['2:5', '6:82', '31:5']
+    descEn: '"Ulāʾika ʿalā hudan min rabbihim wa-ulāʾika humu l-mufliḥūn" occurs only twice, word for word: 2:5 closes the portrait of the muttaqīn, 31:5 the shorter, similar portrait of the muḥsinīn. The ayah before each ends almost alike, one word apart: wa-bi-l-ākhirati hum yūqinūn (2:4), wa-hum bi-l-ākhirati hum yūqinūn (31:4).',
+    descBn: '"উলাইকা আলা হুদাম মির রাব্বিহিম ওয়া উলাইকা হুমুল মুফলিহূন" হুবহু এসেছে মাত্র দুবার: ২:৫-এ মুত্তাকীদের বর্ণনার শেষে, ৩১:৫-এ মুহসিনীনদের কাছাকাছি, তবে ছোট বর্ণনার শেষে। আগের আয়াত দুটির শুরু আলাদা, শেষে তফাত শুধু এক শব্দের: ২:৪-এ \'ওয়া বিল-আখিরাতি হুম ইউকিনূন\', ৩১:৪-এ \'ওয়া হুম বিল-আখিরাতি হুম ইউকিনূন\'।',
+    verses: ['2:5', '31:5']
   },
   {
     id: 'in-tutiu-obedience',
@@ -542,18 +596,18 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: '"Indeed You, You Are…" — The Innaka Anta Supplication Closings',
     nameBn: '"নিশ্চয় আপনি, আপনিই…" — "ইন্নাকা আনতা" দিয়ে দোয়ার সমাপ্তি',
     nameAr: 'إِنَّكَ أَنتَ — خواتيم الأدعية',
-    descEn: 'Supplications frequently close with "innaka anta…" (indeed You, You are…) followed by different divine-name pairs: "al-ʿAlīm al-Ḥakīm" (the angels’ words, 2:32); "at-Tawwāb ar-Raḥīm" (Ibrāhīm and Ismāʿīl, 2:128, whose next prayer, 2:129, closes "al-ʿAzīz al-Ḥakīm"); "al-Wahhāb" (3:8); "ʿAllām al-Ghuyūb" (ʿĪsā, 5:116); and "al-ʿAzīz al-Ḥakīm" (ʿĪsā, 5:118). Primed by the identical "innaka anta" frame, memorisers easily attach the wrong attribute-pair to the wrong prayer.',
-    descBn: 'দোয়া প্রায়ই শেষ হয় "ইন্নাকা আনতা…" (নিশ্চয় আপনি, আপনিই…) দিয়ে, তারপর আসে ভিন্ন ভিন্ন নামের জোড়া: "আল-আলীম আল-হাকীম" (ফেরেশতাদের কথা, ২:৩২); "আত-তাওওয়াব আর-রাহীম" (ইবরাহীম ও ইসমাঈল, ২:১২৮; তাঁদের পরের দোয়া ২:১২৯ শেষ হয় "আল-আযীয আল-হাকীম" দিয়ে); "আল-ওয়াহহাব" (৩:৮); "আল্লাম আল-গুয়ূব" (ঈসা, ৫:১১৬); আর "আল-আযীয আল-হাকীম" (ঈসা, ৫:১১৮)। শুরুর "ইন্নাকা আনতা" হুবহু এক বলে হাফেজরা সহজেই এক দোয়ার নাম-জোড়া অন্য দোয়ায় জুড়ে দেন।',
-    verses: ['2:32', '2:128', '3:8', '5:116', '5:118']
+    descEn: 'Innaka anta closes 13 ayat, and fa-innaka anta one more (5:118). Here are 11 said to Allah whose closing names get swapped. As-Samīʿ al-ʿAlīm after taqabbal (2:127, 3:35). Al-Wahhāb after hab (3:8, 38:35). ʿAllām al-Ghuyūb (5:109, 5:116), though 2:32 has the same lā ʿilma lanā and closes al-ʿAlīm al-Ḥakīm. At-Tawwāb ar-Raḥīm (2:128). Al-ʿAzīz al-Ḥakīm (2:129, 60:5, and 5:118 with fa-innaka).',
+    descBn: '\'ইন্নাকা আনতা\' দিয়ে শেষ হয় ১৩টি আয়াত, \'ফাইন্নাকা আনতা\' দিয়ে আরও একটি (৫:১১৮)। এখানে আছে আল্লাহকে বলা এমন ১১টি কথা, যাদের শেষের নাম এক আয়াত থেকে আরেক আয়াতে চলে যায়। \'তাকাব্বাল\'-এর পরে আস-সামীউল আলীম (২:১২৭, ৩:৩৫)। \'হাব\'-এর পরে আল-ওয়াহহাব (৩:৮, ৩৮:৩৫)। আল্লামুল গুয়ূব (৫:১০৯, ৫:১১৬); অথচ ২:৩২-এও আছে \'লা ইলমা লানা\', আর সেটি শেষ হয় আল-আলীমুল হাকীম দিয়ে। আত-তাওয়াবুর রাহীম (২:১২৮)। আল-আযীযুল হাকীম (২:১২৯, ৬০:৫, আর ৫:১১৮, যেখানে \'ফাইন্নাকা\')।',
+    verses: ['2:32', '2:127', '2:128', '2:129', '3:8', '3:35', '5:109', '5:116', '5:118', '38:35', '60:5']
   },
   {
     id: 'aqim-salata-atu-zakata',
     nameEn: '"Establish Prayer and Give Zakāh" — The Twin Command',
     nameBn: '"নামাজ কায়েম কর ও যাকাত দাও" — জোড়া আদেশ',
     nameAr: 'وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ',
-    descEn: 'The paired command "wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta" (establish the prayer and give the zakāh) recurs in eight verses, each with its own continuation (though 2:110 and 73:20 share "wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāh"). At 2:43 it closes "wa-rkaʿū maʿa r-rākiʿīn" (…and bow with those who bow); at 2:110 "wa-mā tuqaddimū li-anfusikum…" (whatever good you send forth…); at 24:56 "wa-aṭīʿū r-rasūla laʿallakum turḥamūn" (…and obey the Messenger); within the covenant of 2:83; and among the night-prayer rulings of 73:20. The varying tail clause attached to the identical command is the defining challenge.',
-    descBn: 'জোড়া আদেশ "ওয়া আকীমুস-সালাতা ওয়া আতুয-যাকাতা" (নামাজ কায়েম কর ও যাকাত দাও) এসেছে আটটি আয়াতে, প্রতিটিতে পরের অংশ আলাদা (তবে ২:১১০ ও ৭৩:২০ দুটিতেই আছে "ওয়ামা তুকাদ্দিমূ লিআনফুসিকুম মিন খাইরিন তাজিদূহু ইনদাল্লাহ")। ২:৪৩ শেষ হয় "ওয়ারকাঊ মা\'আর-রাকিঈন" (রুকুকারীদের সঙ্গে রুকু কর) দিয়ে; ২:১১০-এ আসে "ওয়ামা তুকাদ্দিমূ লিআনফুসিকুম…" (নিজেদের জন্য যে কল্যাণ আগে পাঠাবে…); ২৪:৫৬-এ "ওয়া আতীঊর-রাসূলা লা\'আল্লাকুম তুরহামূন" (আর রাসূলের আনুগত্য কর); ২:৮৩-এ আদেশটি এসেছে অঙ্গীকারের অংশ হিসেবে; আর ৭৩:২০-এ রাতের নামাজের বিধানের মধ্যে। আদেশ হুবহু এক, পরের অংশ ভিন্ন: এটাই এখানে আসল কঠিন জায়গা।',
-    verses: ['2:43', '2:83', '2:110', '24:56', '73:20']
+    descEn: 'The command aqīmū ṣ-ṣalāta wa-ātū z-zakāta occurs in eight ayat, all here, and the test is what comes next. A third command follows in 2:43 (wa-rkaʿū), 22:78 (wa-ʿtaṣimū), 24:56 (wa-aṭīʿū r-rasūla), 58:13 (wa-aṭīʿū llāha wa-rasūlah) and 73:20 (wa-aqriḍū). 2:110 goes on wa-mā tuqaddimū, as 73:20 later does. In 2:83 and 4:77 the account moves on. 22:78 and 58:13 open with fa-.',
+    descBn: '\'আকীমুস সালাতা ওয়া আতুয যাকাতা\' আদেশটি কুরআনে আছে আটটি আয়াতে, সবগুলো এখানে। আসল পরীক্ষা এর পরে কী আসে। তৃতীয় একটি আদেশ আসে ২:৪৩-এ (ওয়ারকাঊ), ২২:৭৮-এ (ওয়া\'তাসিমূ), ২৪:৫৬-এ (ওয়া আতীউর রাসূলা), ৫৮:১৩-এ (ওয়া আতীউল্লাহা ওয়া রাসূলাহ) আর ৭৩:২০-এ (ওয়া আকরিদূ)। ২:১১০ চলে যায় \'ওয়ামা তুকাদ্দিমূ\'-তে, ৭৩:২০-ও পরে তা-ই বলে। ২:৮৩ আর ৪:৭৭-এ ঘটনার বর্ণনা এগিয়ে যায়। ২২:৭৮ আর ৫৮:১৩ শুরু হয় \'ফা\' দিয়ে।',
+    verses: ['2:43', '2:83', '2:110', '4:77', '22:78', '24:56', '58:13', '73:20']
   },
   {
     id: 'laallakum-clause-endings',
@@ -581,27 +635,18 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: '"Do Not Be Like Those Who…" — Wa-lā Takūnū ka-lladhīna',
     nameBn: '"তাদের মতো হয়ো না যারা…" — ওয়ালা তাকূনূ কাল্লাযীনা',
     nameAr: 'وَلَا تَكُونُوا۟ كَٱلَّذِينَ',
-    descEn: 'The prohibition "(wa-)lā takūnū ka-lladhīna…" (do not be like those who…) recurs with a different failing each time: "who split and differed after clear proofs came to them" (3:105), "who said \'we hear\' while they hear not" (8:21), "who harmed Mūsā" (33:69), and "who forgot Allah so He made them forget themselves" (59:19). The identical frame followed by a distinct community-failing is a classic substitution trap; note 33:69 opens "yā ayyuhā lladhīna āmanū lā takūnū" while the others begin "wa-lā takūnū".',
-    descBn: 'নিষেধ "(ওয়া-)লা তাকূনূ কাল্লাযীনা…" (তাদের মতো হয়ো না, যারা…) প্রতিবার আলাদা একটি দোষের কথা নিয়ে আসে: "যারা স্পষ্ট প্রমাণ আসার পর বিভক্ত ও মতভেদ করেছে" (৩:১০৫), "যারা বলল \'শুনলাম\' অথচ শোনে না" (৮:২১), "যারা মূসাকে কষ্ট দিয়েছিল" (৩৩:৬৯), এবং "যারা আল্লাহকে ভুলে গেছে, ফলে তিনি তাদের নিজেদেরই ভুলিয়ে দিয়েছেন" (৫৯:১৯)। কাঠামো এক, কিন্তু প্রতিবার ভিন্ন জাতির ভিন্ন ব্যর্থতা: একটির জায়গায় আরেকটি বসিয়ে ফেলার পরিচিত ফাঁদ। খেয়াল করুন, ৩৩:৬৯ শুরু হয় "ইয়া আইয়ুহাল্লাযীনা আমানূ লা তাকূনূ" দিয়ে, বাকিগুলো "ওয়া-লা তাকূনূ" দিয়ে।',
-    verses: ['3:105', '8:21', '33:69', '59:19']
+    descEn: 'Lā takūnū ka-lladhīna (do not be like those who) occurs in six ayat, all here, each with its own failing: split and differed (3:105), disbelieved and spoke of their fallen brothers (3:156), said we hear but do not hear (8:21), marched out boastfully (8:47), harmed Mūsā (33:69), forgot Allah (59:19). Four open wa-lā takūnū; 3:156 and 33:69 open yā ayyuhā lladhīna āmanū lā takūnū. Al-Anfāl has two.',
+    descBn: '\'লা তাকূনূ কাল্লাযীনা\' (তাদের মতো হয়ো না, যারা) আছে ছয়টি আয়াতে, সবগুলো এখানে। প্রতিটির দোষ আলাদা: দলে দলে ভাগ হয়ে মতভেদ করেছে (৩:১০৫); কুফরি করেছে আর মারা যাওয়া ভাইদের নিয়ে কথা বলেছে (৩:১৫৬); বলেছে \'শুনলাম\', অথচ শোনে না (৮:২১); দম্ভ নিয়ে বেরিয়েছে (৮:৪৭); মূসাকে কষ্ট দিয়েছে (৩৩:৬৯); আল্লাহকে ভুলে গেছে (৫৯:১৯)। চারটির শুরু \'ওয়ালা তাকূনূ\'। ৩:১৫৬ আর ৩৩:৬৯ শুরু হয় \'ইয়া আইয়ুহাল্লাযীনা আমানূ লা তাকূনূ\' দিয়ে। আল-আনফালে আছে দুটি।',
+    verses: ['3:105', '3:156', '8:21', '8:47', '33:69', '59:19']
   },
   {
     id: 'lahum-ajruhum-inda-rabbihim',
     nameEn: '"Their Reward Is with Their Lord" — Lahum Ajruhum ʿinda Rabbihim',
     nameBn: '"তাদের পুরস্কার তাদের রবের কাছে" — লাহুম আজরুহুম ইনদা রাব্বিহিম',
     nameAr: 'لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ',
-    descEn: 'The reward formula "(fa-)lahum ajruhum ʿinda rabbihim wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn" recurs with subtle shifts. 2:262 drops the "fa-"; 2:112 switches to the SINGULAR "fa-lahu ajruhu ʿinda rabbihi" (his reward, his Lord) though the following clause stays plural; 3:199 keeps "ulāʾika lahum ajruhum ʿinda rabbihim" but ends "inna llāha sarīʿu l-ḥisāb" with no khawf-clause; and 5:69 — the deceptive near-twin of 2:62 — OMITS the reward clause entirely, reading only "fa-lā khawfun ʿalayhim…". Singular-vs-plural and the presence or absence of the ajr-clause are top ḥifẓ traps.',
-    descBn: 'পুরস্কারের সূত্র "(ফা-)লাহুম আজরুহুম ইনদা রাব্বিহিম ওয়া লা খাওফুন আলাইহিম ওয়া লা হুম ইয়াহযানূন" সূক্ষ্ম কিছু বদলসহ বারবার এসেছে। ২:২৬২-এ "ফা-" নেই। ২:১১২-এ এটি একবচন: "ফালাহু আজরুহু ইনদা রাব্বিহি" (তার পুরস্কার, তার রব), যদিও পরের অংশ বহুবচনই থাকে। ৩:১৯৯-এ "উলাইকা লাহুম আজরুহুম ইনদা রাব্বিহিম" আছে, কিন্তু শেষ হয় "ইন্নাল্লাহা সারীউল-হিসাব" দিয়ে; খাওফের অংশটি নেই। আর ৫:৬৯ হলো ২:৬২-এর ধোঁকা দেওয়া প্রায়-যমজ: এতে পুরস্কারের অংশই নেই, আছে শুধু "ফালা খাওফুন আলাইহিম…"। একবচন না বহুবচন, আর আজরের অংশ আছে কি নেই: হিফজের সবচেয়ে বড় ফাঁদগুলোর মধ্যে এ দুটি।',
-    verses: ['2:62', '2:112', '2:262', '2:274', '3:199', '5:69']
-  },
-  {
-    id: 'sujud-li-adam-openings',
-    nameEn: '"Prostrate to Adam" — The Sujūd Command Openings',
-    nameBn: '"আদমকে সিজদা কর" — সিজদার আদেশ দিয়ে শুরু',
-    nameAr: 'وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ',
-    descEn: 'The command "wa-idh qulnā li-l-malāʾikati sjudū li-ādama fa-sajadū illā iblīs" opens the prostration scene identically in 2:34, 17:61, 18:50 and 20:116 — but each continuation differs: "abā wa-stakbara wa-kāna mina l-kāfirīn" (2:34), "qāla a-asjudu li-man khalaqta ṭīnan" (17:61), "kāna mina l-jinni fa-fasaqa ʿan amri rabbih" (18:50), and the terse "abā" alone (20:116). 7:11 breaks the frame, opening "wa-laqad khalaqnākum thumma ṣawwarnākum thumma qulnā…" and closing "lam yakun mina s-sājidīn". Matching each opening to its distinct tail is a core mutashābihāt drill.',
-    descBn: '"ওয়া ইয কুলনা লিল-মালাইকাতিসজুদূ লিআদামা ফাসাজাদূ ইল্লা ইবলীস" আদেশ দিয়ে সিজদার দৃশ্য হুবহু একইভাবে শুরু হয়েছে ২:৩৪, ১৭:৬১, ১৮:৫০ ও ২০:১১৬-এ। কিন্তু পরের অংশ প্রতিটিতে আলাদা: "আবা ওয়াসতাকবারা ওয়া কানা মিনাল-কাফিরীন" (২:৩৪), "কালা আআসজুদু লিমান খালাকতা তীনা" (১৭:৬১), "কানা মিনাল-জিন্নি ফাফাসাকা আন আমরি রাব্বিহ" (১৮:৫০), আর ২০:১১৬-এ শুধু সংক্ষিপ্ত "আবা"। ৭:১১ এই কাঠামো ভাঙে: শুরু হয় "ওয়া লাকাদ খালাকনাকুম ছুম্মা সাওওয়ারনাকুম ছুম্মা কুলনা…" দিয়ে, শেষ হয় "লাম ইয়াকুম মিনাস-সাজিদীন" দিয়ে। প্রতিটি সূচনাকে তার নিজস্ব সমাপ্তির সঙ্গে মেলানো মুতাশাবিহাতের একটি মূল অনুশীলন।',
-    verses: ['2:34', '7:11', '17:61', '18:50', '20:116']
+    descEn: 'The reward line lahum ajruhum ʿinda rabbihim, usually followed by wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn. Fa-lahum in 2:62 and 2:274; plain lahum in 2:262 and 2:277; singular fa-lahu ajruhu ʿinda rabbihi in 2:112; ulāʾika lahum in 3:199, which ends sarīʿu l-ḥisāb with no fear line. 5:69, twin of 2:62, has no reward line and goes straight to fa-lā khawfun.',
+    descBn: 'পুরস্কারের বাক্য \'লাহুম আজরুহুম ইনদা রাব্বিহিম\', সাধারণত পরে আসে \'ওয়ালা খাওফুন আলাইহিম ওয়ালা হুম ইয়াহযানূন\'। ২:৬২ আর ২:২৭৪-এ \'ফালাহুম\'। ২:২৬২ আর ২:২৭৭-এ \'ফা\' ছাড়া শুধু \'লাহুম\'। ২:১১২-এ একবচন: \'ফালাহূ আজরুহূ ইনদা রাব্বিহী\'। ৩:১৯৯-এ \'উলাইকা লাহুম\', আর আয়াত শেষ হয় \'সারীউল হিসাব\' দিয়ে; ভয়ের বাক্যটি নেই। ৫:৬৯ হলো ২:৬২-এর যমজ, কিন্তু এতে পুরস্কারের বাক্যই নেই; সোজা চলে যায় \'ফালা খাওফুন\'-এ।',
+    verses: ['2:62', '2:112', '2:262', '2:274', '2:277', '3:199', '5:69']
   },
   {
     id: 'inna-anzalnahu-quranan',
@@ -632,12 +677,12 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     id: 'qul-audhu-openings',
-    nameEn: 'The Four "Qul" Sūrahs — and the Muʿawwidhatān Twin',
-    nameBn: 'চারটি "কুল" সূরা — আর যমজ মুআওবিযাতাইন',
-    nameAr: 'سور "قل" الأربع والمعوذتان',
-    descEn: 'The four "Qul" sūrahs each open with the imperative "Qul" (Say). Al-Kāfirūn begins "qul yā ayyuhā l-kāfirūn" (109:1) and al-Ikhlāṣ "qul huwa llāhu aḥad" (112:1). The muʿawwidhatān form a near-twin pair: "qul aʿūdhu bi-rabbi l-FALAQ" (Lord of the daybreak — 113:1) versus "qul aʿūdhu bi-rabbi n-NĀS" (Lord of mankind — 114:1) — identical but for the final word, after which 114 uniquely continues "maliki n-nās, ilāhi n-nās". Learners routinely blend the openings of these short, adjacent sūrahs.',
-    descBn: '"কুল" সূরা চারটির প্রতিটি শুরু হয়েছে "কুল" (বলো) আদেশ দিয়ে। আল-কাফিরূনের শুরু "কুল ইয়া আইয়ুহাল-কাফিরূন" (১০৯:১), আল-ইখলাসের "কুল হুওয়াল্লাহু আহাদ" (১১২:১)। মুআওবিযাতাইন প্রায় যমজ: "কুল আঊযু বিরাব্বিল-ফালাক" (ভোরের রব, ১১৩:১) বনাম "কুল আঊযু বিরাব্বিন-নাস" (মানুষের রব, ১১৪:১)। পার্থক্য কেবল শেষ শব্দে; এরপর শুধু সূরা ১১৪-তেই আছে "মালিকিন-নাস, ইলাহিন-নাস"। ছোট আর পাশাপাশি এই সূরাগুলোর শুরু শিক্ষার্থীরা প্রায়ই মিশিয়ে ফেলে।',
-    verses: ['109:1', '112:1', '113:1', '114:1']
+    nameEn: '"Qul Aʿūdhu bi-Rabbi" — The Muʿawwidhatān Twin',
+    nameBn: '"কুল আঊযু বিরাব্বি" — যমজ মুআওবিযাতাইন',
+    nameAr: 'قُلْ أَعُوذُ بِرَبِّ — المعوذتان',
+    descEn: 'Al-Falaq and an-Nās open with the same three words, qul aʿūdhu bi-rabbi, found nowhere else in the Quran, and differ only in the last: l-falaq (113:1) and n-nās (114:1). Each ends on its own sūrah\'s name. Then an-Nās repeats n-nās in maliki n-nās and ilāhi n-nās, while al-Falaq moves on to min sharri mā khalaq.',
+    descBn: 'আল-ফালাক আর আন-নাস শুরু হয় একই তিন শব্দে: \'কুল আঊযু বিরাব্বি\'। কুরআনে এই তিন শব্দ আর কোথাও নেই। তফাত কেবল শেষ শব্দে: আল-ফালাক (১১৩:১) আর আন-নাস (১১৪:১), দুটিই নিজ নিজ সূরার নাম। এরপর আন-নাসে \'আন-নাস\' ফিরে আসে \'মালিকিন নাস\' আর \'ইলাহিন নাস\'-এ; আল-ফালাক চলে যায় \'মিন শাররি মা খালাক\'-এ।',
+    verses: ['113:1', '114:1']
   },
   {
     id: 'ittaqu-llaha-openings',
@@ -707,18 +752,18 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: '"Only the Clear Conveyance" — Mā ʿalā r-Rasūli illā l-Balāgh',
     nameBn: '"স্পষ্ট পৌঁছে দেওয়াই দায়িত্ব" — মা আলার-রাসূলি ইল্লাল-বালাগ',
     nameAr: 'وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ',
-    descEn: 'One formula, six frames. Al-Māʾida 5:99 is the shortest: "mā ʿalā r-rasūli illā l-balāgh" — no opening wa-, no "al-mubīn". An-Nūr 24:54 and al-ʿAnkabūt 29:18 both read "wa-mā ʿalā r-rasūli illā l-balāghu l-mubīn". An-Naḥl 16:35 casts it as a rhetorical question in the plural: "fa-hal ʿalā r-rusuli illā l-balāghu l-mubīn". In Yā-Sīn 36:17 the town\'s messengers themselves speak: "wa-mā ʿalaynā illā l-balāghu l-mubīn". At-Taghābun 64:12 shifts to "fa-innamā ʿalā rasūlinā l-balāghu l-mubīn". Tracking which frame appears where — and whether "al-mubīn" is present — is a favourite examiners\' question.',
-    descBn: 'এক সূত্র, ছয় রূপ। আল-মায়িদা ৫:৯৯ সবচেয়ে ছোট: "মা আলার-রাসূলি ইল্লাল-বালাগ"; শুরুতে ওয়া- নেই, শেষে "আল-মুবীন" নেই। আন-নূর ২৪:৫৪ ও আল-আনকাবূত ২৯:১৮ দুটিতেই আছে "ওয়ামা আলার-রাসূলি ইল্লাল-বালাগুল-মুবীন"। আন-নাহল ১৬:৩৫-এ এটি বহুবচনে, প্রশ্নের আকারে: "ফাহাল আলার-রুসুলি ইল্লাল-বালাগুল-মুবীন"। ইয়াসীন ৩৬:১৭-এ জনপদের রাসূলরা নিজেরাই বলেন: "ওয়ামা আলাইনা ইল্লাল-বালাগুল-মুবীন"। আত-তাগাবুন ৬৪:১২-এ রূপ বদলে হয় "ফাইন্নামা আলা রাসূলিনাল-বালাগুল-মুবীন"। কোন রূপ কোথায়, আর "আল-মুবীন" আছে কি না: পরীক্ষকেরা এটা জিজ্ঞেস করতে ভালোবাসেন।',
-    verses: ['5:99', '16:35', '24:54', '29:18', '36:17', '64:12']
+    descEn: 'Eleven ayat, the Quran\'s full set, say the messenger owes only al-balāgh, the conveying. Track the frame: mā ʿalā r-rasūli illā (5:99), wa-mā ʿalā r-rasūli illā (24:54, 29:18), fa-hal ʿalā r-rusuli illā (16:35), wa-mā ʿalaynā illā (36:17), in ʿalayka illā (42:48), fa-innamā ʿalayka (3:20, 13:40, 16:82), annamā or fa-innamā ʿalā rasūlinā (5:92, 64:12). 3:20, 5:99, 13:40, 42:48 lack al-mubīn.',
+    descBn: 'এগারোটি আয়াত, কুরআনে এর সবকটি: রাসূলের দায়িত্ব কেবল আল-বালাগ, পৌঁছে দেওয়া। কাঠামোটা খেয়াল রাখুন: মা আলার-রাসূলি ইল্লা (৫:৯৯); ওয়ামা আলার-রাসূলি ইল্লা (২৪:৫৪, ২৯:১৮); ফাহাল আলার-রুসুলি ইল্লা (১৬:৩৫); ওয়ামা আলাইনা ইল্লা (৩৬:১৭); ইন আলাইকা ইল্লা (৪২:৪৮); ফাইন্নামা আলাইকা (৩:২০, ১৩:৪০, ১৬:৮২); আন্নামা বা ফাইন্নামা আলা রাসূলিনা (৫:৯২, ৬৪:১২)। ৩:২০, ৫:৯৯, ১৩:৪০ ও ৪২:৪৮-এ আল-মুবীন নেই।',
+    verses: ['3:20', '5:92', '5:99', '13:40', '16:35', '16:82', '24:54', '29:18', '36:17', '42:48', '64:12']
   },
   {
     id: 'sayaqulu-qul',
-    nameEn: '"Sayaqūlu… Qul" — Foretold Objections, Ready Answers',
-    nameBn: '"সাইয়াকূলু… কুল" — পূর্বঘোষিত আপত্তি, প্রস্তুত জবাব',
+    nameEn: '"Sayaqūlu… Qul": Foretold Words, Ready Answers',
+    nameBn: '"সাইয়াকূলু… কুল": আগাম জানানো কথা, প্রস্তুত জবাব',
     nameAr: 'سَيَقُولُ … قُلْ',
-    descEn: 'A distinctive pattern: the Quran foretells an objection with future-tense "sayaqūlu" (they will say), then arms the Prophet with "qul" (Say). 2:142: the foolish question the qiblah change — answered "qul lillāhi l-mashriqu wa-l-maghrib". 6:148: the idolaters plead determinism ("law shāʾa llāhu mā ashraknā") — answered "qul hal ʿindakum min ʿilm". 48:11: the stay-behind bedouins offer excuses — answered "qul fa-man yamliku lakum mina llāhi shayʾā". 48:15: they ask to follow to the spoils — answered "qul lan tattabiʿūnā". With plural "sayaqūlūna", 18:22 foretells the guessing over the Sleepers\' number — answered "qul rabbī aʿlamu bi-ʿiddatihim". Matching each near-identical opening to its reply is the drill.',
-    descBn: 'কুরআনের একটি বিশেষ ধরন: কুরআন আগেই জানিয়ে দেয় তারা কী আপত্তি তুলবে ("সাইয়াকূলু", তারা বলবে), তারপর "কুল" (বলো) দিয়ে নবীকে জবাব শিখিয়ে দেয়। ২:১৪২: নির্বোধরা কিবলা বদল নিয়ে প্রশ্ন তোলে; জবাব "কুল লিল্লাহিল-মাশরিকু ওয়াল-মাগরিব"। ৬:১৪৮: মুশরিকরা তাকদিরের অজুহাত দেয় ("লাও শাআল্লাহু মা আশরাকনা"); জবাব "কুল হাল ইনদাকুম মিন ইলম"। ৪৮:১১: পেছনে থেকে যাওয়া বেদুইনরা অজুহাত দেখায়; জবাব "কুল ফামান ইয়ামলিকু লাকুম মিনাল্লাহি শাইআ"। ৪৮:১৫: তারা গনিমতের জন্য সঙ্গে যেতে চায়; জবাব "কুল লান তাত্তাবিঊনা"। আর বহুবচন "সাইয়াকূলূনা" দিয়ে ১৮:২২ আগেই জানিয়ে দেয়, গুহাবাসীদের সংখ্যা নিয়ে লোকেরা আন্দাজ করবে; জবাব "কুল রাব্বী আলামু বিইদ্দাতিহিম"। প্রায় একই রকম সূচনাগুলোকে যার যার জবাবের সঙ্গে মেলানোই অনুশীলন।',
-    verses: ['2:142', '6:148', '18:22', '48:11', '48:15']
+    descEn: 'Ten ayat foretell what people will say (sayaqūlu, sayaqūlūna) and give the reply with qul. Four open sayaqūlu: 2:142, 6:148, 48:11, 48:15. Four open sayaqūlūna: 18:22 and the al-Muʾminūn triple 23:85, 23:87, 23:89. 10:31 and 17:51 have fa-sayaqūlūna mid-ayah. Closest pair: 23:87 sayaqūlūna lillāhi qul a-fa-lā tattaqūn, and 10:31 fa-sayaqūlūna llāhu fa-qul a-fa-lā tattaqūn.',
+    descBn: 'দশটি আয়াতে আগেই বলে দেওয়া হয়েছে লোকেরা কী বলবে (সাইয়াকূলু, সাইয়াকূলূনা), তারপর কুল দিয়ে জবাব। চারটির শুরু সাইয়াকূলু দিয়ে: ২:১৪২, ৬:১৪৮, ৪৮:১১, ৪৮:১৫। চারটির শুরু সাইয়াকূলূনা দিয়ে: ১৮:২২ আর আল-মুমিনুনের তিনটি, ২৩:৮৫, ২৩:৮৭, ২৩:৮৯। ১০:৩১ ও ১৭:৫১-এ ফাসাইয়াকূলূনা আসে আয়াতের মাঝখানে। সবচেয়ে কাছের জোড়া: ২৩:৮৭ সাইয়াকূলূনা লিল্লাহ, কুল আফালা তাত্তাকূন; আর ১০:৩১ ফাসাইয়াকূলূনাল্লাহ, ফাকুল আফালা তাত্তাকূন।',
+    verses: ['2:142', '6:148', '10:31', '17:51', '18:22', '23:85', '23:87', '23:89', '48:11', '48:15']
   },
   // v154 additions — 15 data-mined groups / 76 fresh verses (2026-07-28)
   {
@@ -805,12 +850,15 @@ const MUTASHABIHAT_GROUPS = [
     "nameEn": "What They Mocked Engulfed Them",
     "nameBn": "যা নিয়ে তারা ঠাট্টা করত তা-ই তাদের ঘিরে ফেলল",
     "nameAr": "وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
-    "descEn": "\"And what they used to mock engulfed them\" closes six verses: 11:8, 16:34, 39:48, 40:83, 45:33 and 46:26. The lead-ins are the confusable part: 16:34 has \"the evils of what they did struck them\", 39:48 \"the evils of what they earned appeared to them\", and 45:33 \"the evils of what they did appeared to them\" — three near-identical clauses differing in one verb each.",
-    "descBn": "\"আর তারা যা নিয়ে ঠাট্টা করত তা-ই তাদের ঘিরে ফেলল\" — এই সমাপ্তি ছয়টি আয়াতে আসে: ১১:৮, ১৬:৩৪, ৩৯:৪৮, ৪০:৮৩, ৪৫:৩৩ ও ৪৬:২৬। বিভ্রান্তিকর অংশ হলো আগের বাক্যগুলো: ১৬:৩৪-এ \"তাদের কৃতকর্মের মন্দ ফল তাদের আঘাত করল\", ৩৯:৪৮-এ \"তাদের অর্জনের মন্দ ফল তাদের সামনে প্রকাশ পেল\", আর ৪৫:৩৩-এ \"তাদের কৃতকর্মের মন্দ ফল তাদের সামনে প্রকাশ পেল\"। প্রায় অভিন্ন তিনটি বাক্য, প্রতিটিতে কেবল একটি ক্রিয়া ভিন্ন।",
+    "descEn": "Six ayat close with the identical wa-ḥāqa bihim mā kānū bihī yastahziʾūn: 11:8, 16:34, 39:48, 40:83, 45:33, 46:26. 6:10 and 21:41, one ayah word for word, say fa-ḥāqa bi-lladhīna sakhirū minhum instead. The lead-in trap is sayyiʾātu mā: fa-aṣābahum … ʿamilū (16:34), wa-badā lahum … kasabū (39:48), wa-badā lahum … ʿamilū (45:33), and fa-aṣābahum … kasabū (39:51), which has no ḥāqa close.",
+    "descBn": "ছয়টি আয়াতের শেষ হুবহু এক: ওয়া হাকা বিহিম মা কানূ বিহী ইয়াস্তাহযিঊন (১১:৮, ১৬:৩৪, ৩৯:৪৮, ৪০:৮৩, ৪৫:৩৩, ৪৬:২৬)। ৬:১০ ও ২১:৪১ শব্দে শব্দে একই আয়াত; সেখানে আছে ফাহাকা বিল্লাযীনা সাখিরূ মিনহুম। আগের অংশে ফাঁদ হলো সাইয়িআতু মা: ফাআসাবাহুম … আমিলূ (১৬:৩৪), ওয়া বাদা লাহুম … কাসাবূ (৩৯:৪৮), ওয়া বাদা লাহুম … আমিলূ (৪৫:৩৩), আর ফাআসাবাহুম … কাসাবূ (৩৯:৫১)। ৩৯:৫১-এ হাকা দিয়ে শেষ নেই।",
     "verses": [
+      "6:10",
       "11:8",
       "16:34",
+      "21:41",
       "39:48",
+      "39:51",
       "40:83",
       "45:33",
       "46:26"
@@ -818,16 +866,21 @@ const MUTASHABIHAT_GROUPS = [
   },
   {
     "id": "man-yudlil-la-hadi",
-    "nameEn": "Whom Allah Leaves Astray Has No Guide",
-    "nameBn": "আল্লাহ যাকে পথভ্রষ্ট করেন তার কোনো পথপ্রদর্শক নেই",
-    "nameAr": "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
-    "descEn": "\"And whomever Allah leaves astray — for him there is no guide\" ends four verses: 13:33, 39:23, 39:36 and 40:33. Two of the four sit in the same surah (39), separated by only thirteen verses, which is exactly where memorizers slip: the preceding contexts — the best of speech, sufficiency for His servant, fleeing on the Day with no defender — must be kept apart.",
-    "descBn": "\"আর আল্লাহ যাকে পথভ্রষ্ট করেন, তার জন্য কোনো পথপ্রদর্শক নেই\": এই সমাপ্তি চারটি আয়াতে এসেছে (১৩:৩৩, ৩৯:২৩, ৩৯:৩৬ ও ৪০:৩৩)। চারটির দুটি একই সূরায় (৩৯), মাঝে মাত্র তেরো আয়াতের ব্যবধান। ঠিক এখানেই মুখস্থে ভুল হয়। তাই আগের প্রসঙ্গগুলো আলাদা করে মনে রাখতে হয়: সর্বোত্তম বাণী, বান্দার জন্য আল্লাহই যথেষ্ট, আর বিচার দিনে রক্ষাকারী ছাড়া পালানো।",
+    "nameEn": "Whom Allah Leaves Astray",
+    "nameBn": "আল্লাহ যাকে পথভ্রষ্ট করেন",
+    "nameAr": "مَن يُضْلِلِ ٱللَّهُ",
+    "descEn": "Nine ayat say man yuḍlili llāh (whom Allah leaves astray), and the close after it is the trap. Four end fa-mā lahū min hād: 13:33, 39:23, 39:36, 40:33. Al-Aʿrāf 7:186 has fa-lā hādiya lahū. An-Nisāʾ 4:88 and 4:143 have fa-lan tajida lahū sabīlā. Ash-Shūrā has two, two ayat apart: fa-mā lahū min waliyyin (42:44) and fa-mā lahū min sabīl (42:46).",
+    "descBn": "নয়টি আয়াতে আছে মান ইউদলিলিল্লাহ (আল্লাহ যাকে পথভ্রষ্ট করেন), আর ভুল হয় এর পরের অংশে। চারটির শেষ ফামা লাহূ মিন হাদ: ১৩:৩৩, ৩৯:২৩, ৩৯:৩৬, ৪০:৩৩। আল-আরাফের ৭:১৮৬-এ ফালা হাদিয়া লাহূ। আন-নিসার ৪:৮৮ ও ৪:১৪৩-এ ফালান তাজিদা লাহূ সাবীলা। আশ-শূরায় দুটি, মাঝে এক আয়াত: ফামা লাহূ মিন ওয়ালিয়্যিন (৪২:৪৪) আর ফামা লাহূ মিন সাবীল (৪২:৪৬)।",
     "verses": [
+      "4:88",
+      "4:143",
+      "7:186",
       "13:33",
       "39:23",
       "39:36",
-      "40:33"
+      "40:33",
+      "42:44",
+      "42:46"
     ]
   },
   {
@@ -938,11 +991,12 @@ const MUTASHABIHAT_GROUPS = [
     "nameEn": "Signs for Every Patient, Grateful One",
     "nameBn": "প্রত্যেক ধৈর্যশীল কৃতজ্ঞের জন্য নিদর্শন",
     "nameAr": "إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
-    "descEn": "\"Surely in that are signs for every steadfast, grateful one\" seals four verses: 14:5, 31:31, 34:19 and 42:33. In 31:31 and 42:33 it follows ships moving on the sea; in 14:5 it follows Mūsā being sent to bring his people out of darkness into light; in 34:19 it follows a people torn apart for their wrongdoing. The identical ending across four unrelated scenes is what trips up memorizers.",
-    "descBn": "\"নিশ্চয়ই এতে প্রত্যেক পরম ধৈর্যশীল, পরম কৃতজ্ঞের জন্য নিদর্শন রয়েছে\" — এই সমাপ্তি চারটি আয়াতে আসে: ১৪:৫, ৩১:৩১, ৩৪:১৯ ও ৪২:৩৩। ৩১:৩১ ও ৪২:৩৩-এ এটি সমুদ্রে চলমান নৌযানের বর্ণনার পরে; ১৪:৫-এ মূসাকে তাঁর জাতিকে অন্ধকার থেকে আলোতে আনতে পাঠানোর পরে; ৩৪:১৯-এ অন্যায়ের কারণে ছিন্নভিন্ন এক জাতির বর্ণনার পরে। চারটি সম্পর্কহীন দৃশ্যে হুবহু এক সমাপ্তিই মুখস্থকারীদের হোঁচটের কারণ।",
+    "descEn": "The close inna fī dhālika la-āyātin li-kulli ṣabbārin shakūr (signs for every steadfast, grateful one) ends four ayat and no others: 14:5, 31:31, 34:19, 42:33. Its trap sits in Sabaʾ itself: 34:9 is the only other inna fī dhālika … li-kulli close, la-āyatan li-kulli ʿabdin munīb, singular āyah. 31:31 and 42:33 are both about ships: sailing in Luqmān, held still in ash-Shūrā.",
+    "descBn": "ইন্না ফী যালিকা লাআয়াতিল লিকুল্লি সাব্বারিন শাকূর (প্রত্যেক ধৈর্যশীল, কৃতজ্ঞের জন্য নিদর্শন): এই সমাপ্তি শুধু চারটি আয়াতে, ১৪:৫, ৩১:৩১, ৩৪:১৯ ও ৪২:৩৩। ফাঁদটা সূরা সাবার ভেতরেই। ৩৪:৯-এ আছে লাআয়াতাল লিকুল্লি আবদিম মুনীব, এক বচনে আয়াহ; ইন্না ফী যালিকা দিয়ে লিকুল্লি-যুক্ত সমাপ্তি এ ছাড়া আর নেই। ৩১:৩১ ও ৪২:৩৩ দুটিই জাহাজের কথা: লুকমানে জাহাজ চলছে, আশ-শূরায় থেমে আছে।",
     "verses": [
       "14:5",
       "31:31",
+      "34:9",
       "34:19",
       "42:33"
     ]
@@ -1134,13 +1188,16 @@ const MUTASHABIHAT_GROUPS = [
     "nameEn": "\"He Sent Down Water from the Sky\"",
     "nameBn": "\"তিনি আকাশ থেকে পানি বর্ষণ করলেন\"",
     "nameAr": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً",
-    "descEn": "Seven rain verses here share the run \"anzala mina s-samāʾi māʾan\" (2:22, 14:32 and 20:53 have it too, after \"wa-\"). Three open with \"a-lam tara anna llāha\" (22:63, 35:27, 39:21); what the water brings differs — plants and orchards (6:99), flooding valleys (13:17), drink and pasture (16:10), revived earth (16:65), greenery (22:63), fruits of varied colours (35:27), springs and withering crops (39:21).",
-    "descBn": "এখানকার বৃষ্টি-বিষয়ক সাতটি আয়াতে \"আনযালা মিনাস-সামাই মাআ\" ধারাটি অভিন্ন (২:২২, ১৪:৩২ ও ২০:৫৩-এও তা আছে, \"ওয়া\"-সহ)। তিনটি শুরু হয় \"আলাম তারা আন্নাল্লাহা\" দিয়ে (২২:৬৩, ৩৫:২৭, ৩৯:২১); পানি কী আনে তা ভিন্ন — উদ্ভিদ ও বাগান (৬:৯৯), উপত্যকা-প্লাবন (১৩:১৭), পানীয় ও চারণ (১৬:১০), মৃত ভূমির প্রাণ (১৬:৬৫), সবুজ ভূমি (২২:৬৩), বিচিত্র রঙের ফল (৩৫:২৭), ঝর্ণা ও শুকিয়ে যাওয়া ফসল (৩৯:২১)।",
+    "descEn": "These ten are every ayah with anzala mina s-samāʾi māʾan, with or without wa-. Sort them by opening: alladhī jaʿala lakumu l-arḍa … wa-anzala (2:22, 20:53), Allāhu lladhī khalaqa … wa-anzala (14:32), wa-huwa lladhī (6:99), huwa lladhī (16:10), wa-llāhu (16:65), a-lam tara anna llāha (22:63, 35:27, 39:21), bare anzala (13:17). 2:22 and 14:32 go on fa-akhraja bihī mina th-thamarāti rizqan lakum.",
+    "descBn": "আনযালা মিনাস-সামাই মাআ (ওয়া-সহ বা ছাড়া) যে আয়াতগুলোতে আছে, এই দশটিই সব। শুরু দেখে আলাদা করুন: আল্লাযী জাআলা লাকুমুল-আরদা … ওয়া আনযালা (২:২২, ২০:৫৩); আল্লাহুল্লাযী খালাকা … ওয়া আনযালা (১৪:৩২); ওয়া হুওয়াল্লাযী (৬:৯৯); হুওয়াল্লাযী (১৬:১০); ওয়াল্লাহু (১৬:৬৫); আলাম তারা আন্নাল্লাহা (২২:৬৩, ৩৫:২৭, ৩৯:২১); আর শুধু আনযালা (১৩:১৭)। ২:২২ ও ১৪:৩২ এগিয়ে যায় ফাআখরাজা বিহী মিনাস-সামারাতি রিযকাল লাকুম দিয়ে।",
     "verses": [
+      "2:22",
       "6:99",
       "13:17",
+      "14:32",
       "16:10",
       "16:65",
+      "20:53",
       "22:63",
       "35:27",
       "39:21"
@@ -1160,6 +1217,53 @@ const MUTASHABIHAT_GROUPS = [
       "26:162",
       "26:178",
       "44:18"
+    ]
+  },
+  {
+    "id": "anna-yakunu-li",
+    "nameEn": "Annā Yakūnu Lī — \"How Shall I Have a Child?\"",
+    "nameBn": "আন্না ইয়াকূনু লী — \"আমার সন্তান হবে কীভাবে?\"",
+    "nameAr": "أَنَّىٰ يَكُونُ لِى",
+    "descEn": "Zakariyyā and Maryam ask the same question, annā yakūnu lī, in Āl ʿImrān and in Maryam. Zakariyyā says rabbi … ghulām both times, but puts his old age first in 3:40 and his barren wife first in 19:8. Maryam says rabbi … walad in 3:47, then ghulām with no rabbi in 19:20, adding wa-lam aku baghiyyā. The run occurs only in these four ayat.",
+    "descBn": "যাকারিয়া (আ) আর মারইয়াম (আ) একই প্রশ্ন করেন, আলে ইমরানে আর সূরা মারইয়ামে: 'আন্না ইয়াকূনু লী', আমার সন্তান হবে কীভাবে? যাকারিয়া (আ) দুবারই বলেন 'রব্বি … গুলাম'। তবে ৩:৪০-এ আগে আসে নিজের বার্ধক্য, ১৯:৮-এ আগে আসে স্ত্রীর বন্ধ্যাত্ব। মারইয়াম (আ) ৩:৪৭-এ বলেন 'রব্বি … ওয়ালাদ', আর ১৯:২০-এ 'রব্বি' ছাড়াই 'গুলাম', সঙ্গে বাড়তি 'ওয়া লাম আকু বাগিয়্যা'। পুরো কুরআনে কথাটি আছে কেবল এই চার আয়াতে।",
+    "verses": [
+      "3:40",
+      "3:47",
+      "19:8",
+      "19:20"
+    ]
+  },
+  {
+    "id": "hanifan-mushrikin",
+    "nameEn": "Ḥanīfan wa-mā Kāna mina l-Mushrikīn — Ibrāhīm the Upright",
+    "nameBn": "হানীফান ওয়া মা কানা মিনাল মুশরিকীন — একনিষ্ঠ ইবরাহীম",
+    "nameAr": "حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+    "descEn": "Seven ayat call Ibrāhīm ḥanīf and clear him of shirk in nearly the same words. Millata Ibrāhīma ḥanīfan wa-mā kāna mina l-mushrikīn closes 2:135, 3:95, 6:161 and 16:123. 3:67 has ḥanīfan musliman with no millah, 16:120 has wa-lam yaku in place of wa-mā kāna, and in 6:79 Ibrāhīm speaks for himself: ḥanīfan wa-mā ana mina l-mushrikīn.",
+    "descBn": "সাতটি আয়াতে প্রায় একই শব্দে ইবরাহীম (আ)-কে হানীফ বলা হয়েছে, আর শিরক থেকে তাঁকে মুক্ত বলা হয়েছে। 'মিল্লাতা ইবরাহীমা হানীফান ওয়া মা কানা মিনাল মুশরিকীন' দিয়ে শেষ হয় ২:১৩৫, ৩:৯৫, ৬:১৬১ ও ১৬:১২৩। ৩:৬৭-এ 'মিল্লাত' নেই, আছে 'হানীফান মুসলিমান'। ১৬:১২০-এ 'ওয়া মা কানা'-র জায়গায় 'ওয়া লাম ইয়াকু'। আর ৬:৭৯-এ ইবরাহীম (আ) নিজেই বলছেন: 'হানীফান, ওয়া মা আনা মিনাল মুশরিকীন'।",
+    "verses": [
+      "2:135",
+      "3:67",
+      "3:95",
+      "6:79",
+      "6:161",
+      "16:120",
+      "16:123"
+    ]
+  },
+  {
+    "id": "tanzil-al-kitab",
+    "nameEn": "Tanzīlu l-Kitābi mina llāh — Sūrah Openings on the Book's Descent",
+    "nameBn": "তানযীলুল কিতাবি মিনাল্লাহ — কিতাব নাযিলের কথায় সূরার শুরু",
+    "nameAr": "تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+    "descEn": "Az-Zumar 39:1, al-Jāthiyah 45:2 and al-Aḥqāf 46:2 are word for word the same: tanzīlu l-kitābi mina llāhi l-ʿazīzi l-ḥakīm. Ghāfir 40:2 ends l-ʿazīzi l-ʿalīm instead. As-Sajdah 32:2 turns after tanzīlu l-kitābi to lā rayba fīhi min rabbi l-ʿālamīn, and Fuṣṣilat 41:2 drops al-kitāb: tanzīlun mina r-raḥmāni r-raḥīm.",
+    "descBn": "আয-যুমার ৩৯:১, আল-জাসিয়াহ ৪৫:২ আর আল-আহক্বাফ ৪৬:২ হুবহু এক: 'তানযীলুল কিতাবি মিনাল্লাহিল আযীযিল হাকীম'। গাফির ৪০:২-এর শেষে 'আল-হাকীম'-এর জায়গায় 'আল-আলীম'। আস-সাজদাহ ৩২:২-এ 'তানযীলুল কিতাবি'-র পরে আসে 'লা রাইবা ফীহি মির রাব্বিল-আলামীন'। আর ফুসসিলাত ৪১:২-এ 'আল-কিতাব' শব্দটাই নেই: 'তানযীলুম মিনার রাহমানির রাহীম'।",
+    "verses": [
+      "32:2",
+      "39:1",
+      "40:2",
+      "41:2",
+      "45:2",
+      "46:2"
     ]
   }
 ];

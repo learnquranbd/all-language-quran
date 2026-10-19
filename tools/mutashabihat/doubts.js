@@ -1,14 +1,16 @@
 // Collect the auditors' "group_doubts" from every batch into one report for the user:
 // groups whose ayat aren't really confusable, duplicates, missing twins.
-// usage: node tools/mutashabihat/doubts.js   → docs/mutashabihat-group-doubts.md
+// usage: node tools/mutashabihat/doubts.js [batch prefix, default M]   → docs/mutashabihat-group-doubts.md
+//   (R = the 2026-10-19 re-drafted batches after the group review)
 const fs = require('fs'), path = require('path');
 const { ROOT, groups } = require('./lib.js');
 const W = path.join(__dirname, 'work');
 const byId = Object.fromEntries(groups().map((g, i) => [g.id, { n: i + 1, g }]));
-const rows = [];
-for (const b of fs.readdirSync(W).filter(d => /^M\d+$/.test(d)).sort((a, b) => a.slice(1) - b.slice(1))) {
+const pre = process.argv[2] || 'M', rows = [], seen = [];
+for (const b of fs.readdirSync(W).filter(d => new RegExp(`^${pre}\\d+$`).test(d)).sort((a, b) => a.slice(1) - b.slice(1))) {
   const f = path.join(W, b, 'audit.json');
   if (!fs.existsSync(f)) continue;
+  seen.push(b);
   for (const d of JSON.parse(fs.readFileSync(f, 'utf8')).group_doubts || []) {
     const m = String(d).match(/^\s*\**([\w-]+)\**\s*[:—-]\s*([\s\S]*)$/);
     const id = m && byId[m[1]] ? m[1] : null;
@@ -16,7 +18,7 @@ for (const b of fs.readdirSync(W).filter(d => /^M\d+$/.test(d)).sort((a, b) => a
   }
 }
 const out = ['# Mutashabihat: groups to review', '',
-  `Collected ${new Date().toISOString().slice(0, 10)} from the auditors of batches M1-M9. Each line is a group whose membership the audit questioned: ayat that share only a word or a theme, a duplicate group, or real look-alikes left out. The notes for every group were still written and audited; this list is about the groups themselves (\`js/mutashabihat-data.js\`, MUTASHABIHAT_GROUPS), which are yours to change.`, '',
+  `Collected ${new Date().toISOString().slice(0, 10)} from the auditors of batches ${seen[0]}-${seen[seen.length - 1]}. Each line is a group whose membership the audit questioned: ayat that share only a word or a theme, a duplicate group, or real look-alikes left out. The notes for every group were still written and audited; this list is about the groups themselves (\`js/mutashabihat-data.js\`, MUTASHABIHAT_GROUPS), which are yours to change.`, '',
   '| # | Group | Ayat | Doubt |', '|---|---|---|---|',
   ...rows.map(r => {
     const g = r.id && byId[r.id];

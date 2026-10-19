@@ -14,7 +14,13 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## RESUME HERE (2026-10-19 b): v1004 committed (USER: commit only, no push/deploy until told)
+## RESUME HERE (2026-10-19 c): Mutashabihat group review DONE, v1006 (committed; USER: commit only, no push/deploy)
+- 40 doubted groups ruled on (tools/mutashabihat/work/GREV/plan-G1..G6.json, applied by tools/mutashabihat/apply-plans.js; do NOT re-run it, deleted ids would fail): 108 -> 116 groups, 3 deleted (maryam-provision, sujud-li-adam-openings dup, hud-prophet-cycle split), 45 changed/new incl. 11 new (khaliqun-basharan, waqia-ashab, farraqu-dinahum, arsalna-nuhan, jaat-rusuluna, anba-al-ghayb, unzila-ilayka, la-tamshi-marahan, anna-yakunu-li, hanifan-mushrikin, tanzil-al-kitab).
+- Notes for all 45 re-drafted (R1-R5, prep.js --ids) and audited: 1 blocker (23:46 "same words as 10:75", fixed), 3 major, 17 minor, all applied; 116/116 groups have notes.
+- Names/descs translated: C12 (75) in 13 langs; 9 translator flags fixed in EN+BN (7 innā anzalnā, 13+1 innaka anta, jāʾat-hum, 40:51, 2:253, umkuthū, 3:126/8:10) and retranslated via C12R; 0 untranslated in every language. Harness: tab loads 116 groups, group viewer OK, no console errors.
+- Open: docs/mutashabihat-group-doubts.md regenerated from R audits (doubts.js R): 33 points, mostly optional missing twins (40:51, 57:26, 28:45, 10:93, 23:53, 10:24, 7:133, 41:8, 22:17, 33:33, 40:8, 4:125, 10:105, 36:5...). A second add-twins round would need plans + re-draft + audit + C-chunk again. Over-long descEn (~40 groups > 400 chars) and multi-dash names in untouched groups remain.
+
+## Earlier (2026-10-19 b): v1004 committed (USER: commit only, no push/deploy until told)
 - v1004: C11 (6 strings + isra 5.0) in 13 langs: al-Falaq lesson muḍāf ilayh (not hal), HW dots list (Nun/Ya, Ha/Ta marbuta, alif maqsura/Ya), Eid takbir grades, Awwabin = Duha in Muslim 748, isra 17:78-79, Resources "Bangla included". Morphology: 13 SWEEP fixes (sāq F x5 incl. 38:33/48:29 lemma -> ساق, nabāt M x6, 2:222 maḥīḍ x2; 92/92 applied). Bengali: 116 strings cut to <=1 em dash; tests/check-bangla-style.js MAX_DASHES = 1. Names noteBn: 222 dashes removed.
 - v1005: data/irab/ pages: English rows (80/61 pages) and Arabic i'rab lines (~50) now match morphology-fixes; truncated «ك» -> «كان» (65:6, 2:228, 4:11). Next (USER chose 2026-10-19): Mutashabihat group review, docs/mutashabihat-group-doubts.md.
 - Open: QA_LESSONS|10 calls an-naffathat an active participle (intensive form); "(graded hasan)" for Abu Dawud unattributed; 59:23 al-Muhaymin form label and 62:2 / 71:23 fixes debatable (see irab agent report).

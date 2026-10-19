@@ -112,7 +112,7 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   1. Islam rulings + Sawm/Zakat/Hajj/Amal (check hadith numbers first with `hadith.js`, then add deep articles)
   2. Nuzul: add al-Wahidi's occasions; mark weak reports as "it was said"
   3. Quranic Arabic: Juz 28-30 done (v940); Juz 27 would be next, same `tools/qarabic/` pipeline
-  4. Mutashabihat: notes done (v942); the group list itself needs review, see `docs/mutashabihat-group-doubts.md`
+  4. Mutashabihat: group list reviewed v1006; optional twins left in `docs/mutashabihat-group-doubts.md`
 - Module content (v952, 2026-10-14): every string routed through CI18N.tr is translated in all 13 languages
   (~4,000 strings / ~99k words; tools/content-i18n/). Seven modules use namespace files
   data/content-i18n/<ns>/<lang>.json (hope, surahnames, prophets, mutashabihat, handwriting, tajweed, kids).
@@ -137,7 +137,7 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
 - Duas: "word by word count" was read as glosses + per-dua word counts; confirm with the user.
 
 - Morphology: 71/73 audit errors fixed in v970 via `tools/qarabic/morphology-fixes.json` + `apply-morphology-fixes.js --write` (re-run after any corpus re-import; `npm test` checks them). 69:35 / 75:15 were i'rab-label only. Same faults outside the audit list remain: 75:29 w3, 2:222 مَحِيض, nabāt elsewhere.
-- 40 Mutashabihat groups questioned by audits: `docs/mutashabihat-group-doubts.md`.
+- Mutashabihat: the 40 doubted groups were reviewed and fixed in v1006 (116 groups). The re-audit's 33 optional points (mostly missing twins) are in `docs/mutashabihat-group-doubts.md`.
 
 - `data/translations/bn.json`: 6:110 drops a clause; 4:171 renders *ruhun minhu* as নির্দেশ. Both are in the published Taisirul Quran (id 161) itself (checked v970); fixing = deliberate departure like 4:163.
 - At-Tabari neighbouring-slot misfiling in some earlier Tadabbur articles (not re-audited).

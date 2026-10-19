@@ -1,5 +1,6 @@
 // Everything a drafter needs for a batch of Mutashabihat groups, with zero model tokens.
 // usage: node tools/mutashabihat/prep.js <batch> <first group #> <last group #>   (1-based, inclusive)
+//    or: node tools/mutashabihat/prep.js <batch> --ids <id,id,...>
 //   → tools/mutashabihat/work/<batch>/PREP.md and targets.json
 // Per verse: the Arabic with every word that NO other verse in the group has shown in
 // ⟦brackets⟧, so the drafter describes differences the text actually shows.
@@ -7,11 +8,11 @@ const fs = require('fs'), path = require('path');
 const { J, groups, norm } = require('./lib.js');
 const [batch, a, b] = process.argv.slice(2);
 if (!batch || !a || !b) { console.log('usage: prep.js <batch> <first #> <last #>'); process.exit(1); }
-const G = groups().slice(+a - 1, +b);
+const G = a === '--ids' ? groups().filter(g => b.split(',').includes(g.id)) : groups().slice(+a - 1, +b);
 const QW = J('data/quran-words.json'), TEN = J('data/translations/en.json'), TBN = J('data/translations/bn.json');
 const cleanEn = s => String(s || '').replace(/(?<=[\p{L}\p{P}])\d+/gu, '').replace(/\s+/g, ' ').trim();
 const dir = path.join(__dirname, 'work', batch); fs.mkdirSync(dir, { recursive: true });
-const out = [`# PREP ${batch}: groups ${a}-${b}\n`,
+const out = [`# PREP ${batch}: groups ${a === '--ids' ? b : `${a}-${b}`}\n`,
   'In each verse, ⟦words⟧ appear in NO other verse of the same group: those are the differences to teach. Unbracketed words are shared with at least one sibling.\n'];
 const targets = { batch, groups: [] };
 for (const g of G) {
