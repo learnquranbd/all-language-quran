@@ -611,97 +611,149 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Du'a You Are Told to Say",
-          "bn": "যে দোয়া আপনাকে পড়তে বলা হয়েছে"
+          "en": "Words Handed Over to Say",
+          "bn": "মুখে তুলে দেওয়া কথা"
         },
         "p": [
           {
-            "en": "The passage begins with qul, say. That single word changes its status. This is not a description of Allah that a reader may admire; it is a script placed in the mouth, words the believer is instructed to use. Then Allahumma, the vocative form Arabic reserves for addressing Allah — not ya Allah but Allahumma, a heavier and more formal call. The verse is teaching not only what to believe about sovereignty but how to speak to its Owner.",
-            "bn": "অংশটি শুরু হয় কুল দিয়ে, মানে বলুন। এই একটি শব্দেই এর মর্যাদা বদলে যায়। এটা আল্লাহর এমন কোনো বর্ণনা নয়, যা পাঠক শুধু পড়ে মুগ্ধ হবেন। এ হলো মুখে তুলে দেওয়া কথা, যে কথাগুলো বলতে মুমিনকে হুকুম করা হয়েছে। এরপর আসে আল্লাহুম্মা। আরবিতে ডাকার এই রূপটি কেবল আল্লাহর জন্যই রাখা। ইয়া আল্লাহ নয়, আল্লাহুম্মা: আরও ভারী, আরও আনুষ্ঠানিক ডাক। আয়াতটি শুধু রাজত্ব নিয়ে কী বিশ্বাস করতে হবে তা শেখায় না, রাজত্বের মালিকের সঙ্গে কীভাবে কথা বলতে হয় তাও শেখায়।"
+            "en": "Qul, say: the passage opens with an instruction, and everything after it is meant to be spoken. At-Tabari reads it as: say, O Muhammad, O Allah. Ibn Kathir fills in the manner of the saying: say it magnifying your Lord, relying on Him, thanking Him and entrusting the matter to Him. The Muyassar pictures the Prophet ﷺ turning to his Lord in supplication. So these two verses are not a description to admire from a distance. They are words handed over to be said, and they address Allah directly from the first word to the last.",
+            "bn": "শুরুতেই কুল, বলুন। একটা নির্দেশ দিয়ে অংশটি খোলে, আর এরপর যা আসে তা মুখে বলার কথা। তাবারী এর অর্থ করেন: হে মুহাম্মাদ, বলুন, হে আল্লাহ। ইবন কাসীর বলার ধরনটাও বলে দেন: রবের বড়ত্ব স্বীকার করে, তাঁর উপর ভরসা রেখে, তাঁর শোকর করে আর সব কিছু তাঁর হাতে সঁপে দিয়ে বলুন। মুয়াসসারের ছবিতে নবী ﷺ দোয়া নিয়ে রবের দিকে ফিরছেন। কাজেই এ দুটি আয়াত দূর থেকে মুগ্ধ হয়ে পড়ার মতো কোনো বিবরণ নয়। এ হলো বলার জন্য হাতে তুলে দেওয়া কথা, প্রথম শব্দ থেকে শেষ শব্দ পর্যন্ত সরাসরি আল্লাহকে ডেকে বলা।"
           },
           {
-            "en": "Malik al-mulk is the title given: Owner of all dominion. Malik is the possessor, mulk is kingship or dominion itself, so the phrase means the One who owns kingship — not a king among kings but the Owner of the very thing kings hold. Everything a ruler has, he has on loan from the One being addressed. That is established before a single request is made.",
-            "bn": "এখানে আল্লাহকে যে উপাধিতে ডাকা হয়েছে তা হলো মালিকুল-মুলক: সমস্ত রাজত্বের মালিক। মালিক মানে অধিকারী, আর মুলক মানে রাজত্ব বা ক্ষমতা নিজেই। তাই কথাটির অর্থ, যিনি রাজত্বেরই মালিক। তিনি বাদশাহদের মধ্যে একজন বাদশাহ নন; বাদশাহরা যা হাতে ধরে আছে, তিনি তারই মালিক। কোনো শাসকের যা কিছু আছে, সবই তিনি ধার হিসেবে পেয়েছেন তাঁর কাছ থেকে, যাঁকে এখানে ডাকা হচ্ছে। কিছু চাওয়ার আগেই এ কথা পাকা হয়ে যায়।"
+            "en": "The word Allahumma itself divided the grammarians, as at-Tabari and al-Qurtubi both record. Al-Khalil, Sibawayh and the Basrans held that it is Ya Allah, with the doubled mim at the end standing in for the dropped ya of address. Al-Farra' and the Kufans held that it was Ya Allah, ummana bi-khayr, O Allah, come to us with good, worn by use into a single word. Al-Qurtubi adds the remark of an-Nadr ibn Shumayl: whoever says Allahumma has called on Allah by all His names.",
+            "bn": "আল্লাহুম্মা শব্দটি নিয়েই ব্যাকরণবিদদের মধ্যে মতভেদ হয়েছে, তাবারী ও কুরতুবী দুজনেই তা লিখে রেখেছেন। খলীল, সীবাওয়াইহ আর বসরার ব্যাকরণবিদদের মতে মূল কথাটা ইয়া আল্লাহ। ডাকার ইয়া বাদ পড়েছে, আর তার জায়গা নিয়েছে শেষের দ্বিত্ব মীম। ফাররা ও কুফার ব্যাকরণবিদেরা বলেন, মূলে ছিল ইয়া আল্লাহু উম্মানা বিখাইর: হে আল্লাহ, কল্যাণ নিয়ে আমাদের দিকে আসুন। বহু ব্যবহারে কথাটা ক্ষয়ে গিয়ে একটি শব্দ হয়ে গেছে। কুরতুবী যোগ করেন নাদর ইবন শুমাইলের মন্তব্য: যে আল্লাহুম্মা বলল, সে আল্লাহকে তাঁর সব নাম ধরে ডাকল।"
           }
         ]
       },
       {
         "h": {
-          "en": "Given, and Torn Away",
-          "bn": "দেওয়া, আর ছিনিয়ে নেওয়া"
+          "en": "Owner of the Dominion Itself",
+          "bn": "রাজত্বেরই যিনি মালিক"
         },
         "p": [
           {
-            "en": "Four movements follow in two pairs. Tu'ti al-mulka man tasha', You give dominion to whom You will; wa tanzi'u al-mulka mimman tasha', and You tear dominion away from whom You will. Nazaa is not a gentle taking. It is the verb for pulling something out by force, the way a stake is wrenched from the ground. The Arabic does not pretend that the fall of the powerful is quiet.",
-            "bn": "এরপর দুই জোড়ায় আসে চারটি কথা। তু’তিল-মুলকা মান তাশা: আপনি যাকে চান রাজত্ব দেন; ওয়া তানযি‘উল-মুলকা মিম্মান তাশা: আর যার কাছ থেকে চান রাজত্ব ছিনিয়ে নেন। নাযা‘আ মানে কোমলভাবে নেওয়া নয়। এই ক্রিয়ার মানে জোর করে কিছু উপড়ে ফেলা, যেভাবে মাটি থেকে খুঁটি টেনে তোলা হয়। ক্ষমতাবানের পতন যে নিঃশব্দে ঘটে, আরবি এমন ভান করে না।"
+            "en": "Malik al-mulk: Owner of dominion. Ibn Kathir glosses it briefly: all dominion is Yours. As-Sa'di widens it: You are the King who owns every kingdom; absolute kingship is Your attribute, the whole realm above and below is Yours, and all disposal and management belong to You. At-Tabari reads it as Him to whom the dominion of this world and the next belongs purely, with none sharing it, and he quotes Muhammad ibn Ja'far ibn az-Zubayr: the Lord of the servants, the King; none but You decrees among them.",
+            "bn": "মালিকাল মুলক: রাজত্বের মালিক। ইবন কাসীর অল্প কথায় ব্যাখ্যা সারেন: সমস্ত রাজত্ব আপনার। সা'দী কথাটাকে আরও ছড়িয়ে দেন। আপনিই সেই বাদশাহ, যিনি সব রাজ্যের মালিক। নিরঙ্কুশ বাদশাহি আপনারই গুণ, উপরের ও নিচের গোটা সাম্রাজ্য আপনার, আর সব কিছু চালানো ও সামলানোর এখতিয়ারও আপনার। তাবারীর ব্যাখ্যায় তিনি সেই সত্তা, দুনিয়া ও আখিরাতের রাজত্ব যাঁর একার, আর কারও তাতে ভাগ নেই। তিনি মুহাম্মাদ ইবন জা'ফর ইবন যুবাইরের কথা উদ্ধৃত করেন: বান্দাদের রব, তিনিই বাদশাহ, তাদের মধ্যে আপনি ছাড়া আর কেউ ফয়সালা করে না।"
           },
           {
-            "en": "Then the pair that touches ordinary people: wa tu'izzu man tasha' wa tudhillu man tasha'. You give izzah to whom You will and dhillah to whom You will. Izzah is honour with strength in it — dignity that cannot be taken; dhillah is the state of being lowered. Four times the phrase man tasha', whomever You will, is repeated. The repetition removes any suggestion of a rule that could be worked out and exploited.",
-            "bn": "এরপর আসে সেই জোড়া, যা সাধারণ মানুষের জীবনকেও ছুঁয়ে যায়: ওয়া তু‘ইয্যু মান তাশা ওয়া তুযিল্লু মান তাশা। আপনি যাকে চান ইয্‌যত দেন, যাকে চান যিল্লত দেন। ইয্‌যত হলো এমন সম্মান, যার ভেতরে শক্তি আছে, যে মর্যাদা কেউ কেড়ে নিতে পারে না। আর যিল্লত হলো নিচে নামিয়ে দেওয়া অবস্থা। মান তাশা, অর্থাৎ যাকে আপনি চান, কথাটি চারবার এসেছে। এই পুনরাবৃত্তির ফলে এমন কোনো নিয়মের ধারণা আর টেকে না, যা হিসাব কষে বের করে নিজের সুবিধায় কাজে লাগানো যায়।"
+            "en": "What, then, is the mulk? The commentators do not settle on one answer. Mujahid, in at-Tabari and al-Qurtubi, says it is prophethood. Al-Qurtubi records others: dominance, or wealth and slaves; az-Zajjaj took the title to mean Owner of the servants and of what they own, and some took it as Owner of this world and the next. He also notes a reading in which the dominion given is faith and Islam. Al-Baghawi has the servants-and-what-they-own sense and adds another: Owner of the heavens and the earth. The Muyassar gathers dominion, wealth and a firm footing in the land.",
+            "bn": "তাহলে এই মুলক আসলে কী? মুফাসসিরগণ একটি উত্তরে থামেননি। তাবারী ও কুরতুবীতে মুজাহিদ বলেন, এ হলো নবুওয়াত। কুরতুবী আরও মত লিখে রাখেন: কারও মতে প্রাধান্য, কারও মতে ধনসম্পদ আর দাস। যাজ্জাজের মতে উপাধিটির অর্থ বান্দাদের ও তাদের মালিকানার সব কিছুর মালিক, আবার কেউ বলেছেন দুনিয়া ও আখিরাতের মালিক। কুরতুবী এমন একটি ব্যাখ্যাও আনেন, যাতে দেওয়া রাজত্ব মানে ঈমান ও ইসলাম। বাগাভীতেও বান্দা ও তাদের মালিকানার অর্থটি আছে, সঙ্গে আরেকটি: আসমান ও জমিনের মালিক। মুয়াসসার এক জায়গায় জড়ো করে রাজত্ব, ধনসম্পদ আর জমিনে মজবুত অবস্থান।"
           }
         ]
       },
       {
         "h": {
-          "en": "In Your Hand Is the Good",
-          "bn": "কল্যাণ আপনারই হাতে"
+          "en": "Giving and Stripping Away",
+          "bn": "দান করা, কেড়ে নেওয়া"
         },
         "p": [
           {
-            "en": "After four verbs, two of which describe removal and humbling, comes biyadika al-khayr — in Your hand is the good. Only good is ascribed. The commentators note this carefully: although the pairs include tearing away and abasing, the address does not attribute evil to Allah, and they take it as a lesson in the adab, the etiquette, of how He is spoken to and spoken of.",
-            "bn": "চারটি ক্রিয়ার দুটি বলে ছিনিয়ে নেওয়া আর নিচু করার কথা। এর পরেই আসে বিয়াদিকাল-খায়র: কল্যাণ আপনারই হাতে। আল্লাহর সঙ্গে এখানে শুধু কল্যাণকেই জোড়া হয়েছে। মুফাসসিরগণ বিষয়টি খুব যত্ন করে লক্ষ করেছেন। জোড়াগুলোতে ছিনিয়ে নেওয়া আর অপদস্থ করার কথা থাকলেও এই সম্বোধনে অকল্যাণকে আল্লাহর সঙ্গে যুক্ত করা হয়নি। তাঁরা একে আদবের শিক্ষা হিসেবে নেন: আল্লাহকে ডেকে কীভাবে কথা বলতে হয়, আর তাঁর সম্পর্কে কীভাবে বলতে হয়।"
+            "en": "Tu'ti al-mulka man tasha'u wa tanzi'u al-mulka mimman tasha': You give dominion to whom You will and take dominion away from whom You will. At-Tabari explains the giving as making someone a king and setting him over whom You will, and he notes that the second clause leaves words unsaid: from whom You will to take it. The Muyassar renders tanzi' as tasluba, You strip it away. Ibn Kathir's paraphrase is the shortest: You are the Giver and You are the Withholder; whatever You will comes to be, and whatever You do not will does not.",
+            "bn": "তু'তিল মুলকা মান তাশাউ ওয়া তানযিউল মুলকা মিম্মান তাশা: যাকে চান আপনি রাজত্ব দেন, আর যার কাছ থেকে চান রাজত্ব কেড়ে নেন। তাবারী দেওয়ার অর্থ করেন কাউকে বাদশাহ বানানো আর যাদের উপর চান তাদের উপর তাকে ক্ষমতা দেওয়া। তিনি দেখান, দ্বিতীয় অংশে কিছু কথা উহ্য আছে: যার কাছ থেকে কেড়ে নিতে চান। মুয়াসসার তানযি'-এর অর্থ করে তাসলুবু, আপনি ছিনিয়ে নেন। ইবন কাসীরের ব্যাখ্যা সবচেয়ে ছোট: আপনিই দাতা, আপনিই বাধাদানকারী। আপনি যা চান তা-ই হয়, যা চান না তা হয় না।"
           },
           {
-            "en": "There is a second lesson underneath the etiquette. Losing rank, losing money, being brought low — from inside, none of these feels like khayr. The verse insists that the hand they come from holds only good, which shifts the question from what happened to what it is for. The clause closes innaka ala kulli shay'in qadir, You are over all things capable, sealing the address with power so that the confidence has something to rest on.",
-            "bn": "এই আদবের নিচে আরেকটি শিক্ষা আছে। পদ হারানো, টাকা হারানো, নিচে নেমে যাওয়া: ভেতর থেকে এর কোনোটিকেই খায়র বলে মনে হয় না। আয়াত জোর দিয়ে বলে, এগুলো যে হাত থেকে আসে, সেই হাতে শুধু কল্যাণই আছে। ফলে প্রশ্নটা আর থাকে না কী ঘটল; প্রশ্ন হয়ে দাঁড়ায়, এটা কীসের জন্য। এই অংশ শেষ হয় ইন্নাকা ‘আলা কুল্লি শাইয়িন কাদীর দিয়ে: আপনি সবকিছুর ওপর ক্ষমতাবান। ক্ষমতার এই ঘোষণা দিয়ে সম্বোধনটি শেষ হয়, যাতে ভরসা দাঁড়ানোর মতো একটা জায়গা পায়।"
+            "en": "Al-Baghawi collects who is meant. Mujahid and Sa'id ibn Jubayr: the dominion of prophethood. Al-Kalbi: given to Muhammad ﷺ and his Companions, taken from Abu Jahl and the chiefs of Quraysh. Another view: given to the Arabs, taken from Persia and Rome. As-Suddi: given to the prophets, whom people were told to obey, and taken from the tyrants, whom they were told to oppose. Another: given to Adam (AS) and his children, taken from Iblis and his troops. Ibn Kathir reads in it a call to gratitude that prophethood passed from the Children of Israel to the Arab Prophet ﷺ, citing 6:124.",
+            "bn": "কার কথা বলা হচ্ছে, বাগাভী তার মতগুলো এক জায়গায় আনেন। মুজাহিদ ও সাঈদ ইবন জুবাইর বলেন, নবুওয়াতের রাজত্ব। কালবীর মতে দেওয়া হয়েছে মুহাম্মাদ ﷺ ও তাঁর সাহাবিদের, কেড়ে নেওয়া হয়েছে আবু জাহল ও কুরাইশ সর্দারদের কাছ থেকে। আরেক মতে আরবদের দেওয়া হয়েছে, পারস্য ও রোম থেকে নেওয়া হয়েছে। সুদ্দীর মতে দেওয়া হয়েছে নবীদের, মানুষকে যাঁদের আনুগত্য করতে বলা হয়েছিল। আর নেওয়া হয়েছে জালিমদের কাছ থেকে, যাদের বিরোধিতা করতে বলা হয়েছিল। আরেক মত: আদম (আঃ) ও তাঁর সন্তানদের দেওয়া হয়েছে, ইবলিস ও তার বাহিনী থেকে নেওয়া হয়েছে। ইবন কাসীর এতে শোকরের ডাক দেখেন, কারণ নবুওয়াত বনী ইসরাঈল থেকে আরব নবী ﷺ-এর কাছে এসেছে। তিনি ৬:১২৪ উদ্ধৃত করেন।"
+          },
+          {
+            "en": "As-Sa'di finds in the verse a hint that the realms of the Khosraus and the Caesars would pass to the community of Muhammad ﷺ, and adds that it came to pass. The causes Allah has set, he says, run within His will and do not compete with it: faith, righteous deeds, the unity of Muslims, preparation, patience and not quarrelling, citing 24:55 and 8:46. These are his readings, named as his. The verse names no ruler, state or group, and gives nobody licence to declare that any present power was granted or removed by Allah's pleasure or anger.",
+            "bn": "সা'দী আয়াতে একটা ইঙ্গিত দেখেন: কিসরা ও কায়সারদের রাজত্ব মুহাম্মাদ ﷺ-এর উম্মতের হাতে আসবে। তিনি যোগ করেন, তা ঘটেছেও। তাঁর মতে আল্লাহ যেসব উপায়-উপকরণ ঠিক করেছেন, সেগুলো তাঁর ইচ্ছার ভেতরেই চলে, ইচ্ছার সঙ্গে পাল্লা দেয় না। ঈমান, নেক আমল, মুসলিমদের ঐক্য, প্রস্তুতি, সবর আর ঝগড়া না করা এসব কারণের মধ্যে পড়ে। প্রমাণে তিনি ২৪:৫৫ ও ৮:৪৬ আনেন। এগুলো তাঁর ব্যাখ্যা, তাঁর নামেই বলা হলো। আয়াত নিজে কোনো শাসক, রাষ্ট্র বা দলের নাম নেয় না। আজকের কোনো ক্ষমতা আল্লাহর সন্তুষ্টিতে এসেছে বা তাঁর গজবে চলে গেছে, এমন ঘোষণা দেওয়ার অনুমতি আয়াত কাউকে দেয় না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Night, Day, Life, Death",
-          "bn": "রাত, দিন, জীবন, মৃত্যু"
+          "en": "Raised Up, Brought Low",
+          "bn": "উঁচু করা, নিচু করা"
         },
         "p": [
           {
-            "en": "In 3:27 the same power is shown at a scale nobody disputes. Tuliju al-layla fin-nahar wa tuliju an-nahara fil-layl — You make the night enter into the day and the day enter into the night. Walaja means to slip inside gradually. This is not a switch being thrown; it is the slow lengthening of one at the expense of the other across a year, a change so gradual that no one can name the day it happened.",
-            "bn": "৩:২৭ আয়াতে একই ক্ষমতা দেখানো হয় এমন বড় পরিসরে, যা নিয়ে কারও দ্বিমত নেই। তূলিজুল-লাইলা ফিন-নাহার ওয়া তূলিজুন-নাহারা ফিল-লাইল: আপনি রাতকে দিনের ভেতর ঢুকিয়ে দেন, আর দিনকে রাতের ভেতর। ওয়ালাজা মানে ধীরে ধীরে ভেতরে ঢুকে পড়া। এ সুইচ টিপে দেওয়ার মতো হঠাৎ বদল নয়। সারা বছর ধরে একটি একটু একটু করে লম্বা হয়, আর অন্যটি ছোট হয়। বদলটা এত ধীরে আসে যে কেউ বলতে পারে না, ঠিক কোন দিন তা ঘটল।"
+            "en": "Wa tu'izzu man tasha'u wa tudhillu man tasha': You honour whom You will and abase whom You will. Al-Qurtubi gives the sense of the root: 'azza is said of whoever rises, overpowers and prevails. At-Tabari keeps the pair tied to dominion: You honour by giving dominion and authority and widening a person's power, and You abase by stripping his dominion and setting his enemy over him. As-Sa'di ties it to deeds: You honour by obedience to You, and abase by disobedience. The Muyassar says the honour reaches into this world and the next.",
+            "bn": "ওয়া তুইয্যু মান তাশাউ ওয়া তুযিল্লু মান তাশা: যাকে চান আপনি সম্মান দেন, যাকে চান অপদস্থ করেন। কুরতুবী মূল ধাতুর অর্থ জানান: আযযা বলা হয় তার বেলায়, যে উপরে ওঠে, দমন করে আর জয়ী হয়। তাবারী এ জোড়াকে রাজত্বের কথার সঙ্গেই বেঁধে রাখেন। রাজত্ব ও কর্তৃত্ব দিয়ে আর ক্ষমতা বাড়িয়ে আপনি সম্মান দেন। রাজত্ব কেড়ে নিয়ে আর শত্রুকে তার উপর চাপিয়ে দিয়ে আপনি অপদস্থ করেন। সা'দী একে আমলের সঙ্গে জোড়েন: আপনার আনুগত্যের মাধ্যমে আপনি সম্মান দেন, নাফরমানির মাধ্যমে অপদস্থ করেন। মুয়াসসার বলে, এ সম্মান দুনিয়াতেও, আখিরাতেও।"
           },
           {
-            "en": "Then: wa tukhriju al-hayya min al-mayyit wa tukhriju al-mayyita min al-hayy, You bring the living out of the dead and the dead out of the living — the same statement Allah makes of Himself in 6:95, where it is set beside the splitting of the seed. And the passage ends wa tarzuqu man tasha'u bighayri hisab, You provide for whom You will without reckoning. Bighayri hisab is not merely generosity; it means the provision is not audited by anything we would recognise as a scale.",
-            "bn": "এরপর: ওয়া তুখরিজুল-হাইয়া মিনাল-মাইয়িতি ওয়া তুখরিজুল-মাইয়িতা মিনাল-হাইয়, আপনি মৃত থেকে জীবিতকে বের করেন, আর জীবিত থেকে মৃতকে। ৬:৯৫ আয়াতে আল্লাহ নিজের সম্পর্কে ঠিক এ কথাই বলেছেন, আর সেখানে কথাটি এসেছে বীজ ফাটানোর কথার পাশে। অংশটি শেষ হয় ওয়া তারযুকু মান তাশাউ বিগাইরি হিসাব দিয়ে: আপনি যাকে চান বেহিসাব রিজিক দেন। বিগাইরি হিসাব শুধু উদারতার কথা নয়। এর মানে, এই রিজিক এমন কোনো মাপকাঠিতে মাপা হয় না, যাকে আমরা মাপকাঠি বলে চিনি।"
+            "en": "Al-Baghawi lists the range. 'Ata': the Muhajirun and the Ansar are honoured, Persia and Rome abased. Others read it of faith against disbelief, obedience against disobedience, victory against subjugation, wealth against poverty, and contentment against greed. Al-Qurtubi quotes those he calls the people of allusions, on Badr: Abu Jahl owned great wealth, while Suhayb, Bilal and Khabbab owned nothing, and their dominion was faith. What was kept from them, the allusion runs, was not kept back out of dislike for them, nor for want of power.",
+            "bn": "বাগাভী মতগুলোর পুরো পরিসর তুলে ধরেন। আতার মতে মুহাজির ও আনসারদের সম্মান দেওয়া হয়েছে, পারস্য ও রোমকে অপদস্থ করা হয়েছে। অন্যরা একে পড়েছেন ঈমান বনাম কুফর, আনুগত্য বনাম নাফরমানি, বিজয় বনাম পরাজয়, সচ্ছলতা বনাম অভাব, আর অল্পে তুষ্টি বনাম লোভ হিসেবে। কুরতুবী বদর প্রসঙ্গে ইশারাপন্থীদের কথা আনেন। আবু জাহলের ছিল অঢেল সম্পদ। সুহাইব, বিলাল আর খাব্বাবের কিছুই ছিল না, তাঁদের রাজত্ব ছিল ঈমান। ইশারাটি এমন: তাঁদের যা দেওয়া হয়নি, তা তাঁদের অপছন্দ করার কারণে আটকে রাখা হয়নি, অক্ষমতার কারণেও নয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Where It Sits, and Why",
-          "bn": "কোথায় এর জায়গা, আর কেন"
+          "en": "Only the Good Is Named",
+          "bn": "নাম এল শুধু কল্যাণের"
         },
         "p": [
           {
-            "en": "The verses fall in a passage of Ali Imran addressed to a community negotiating its place among stronger neighbours. Just before, 3:25 pictures the day when every soul is paid in full for what it earned. Just after, 3:28 warns believers against taking disbelievers as allies in preference to believers. Between a reminder of final accounting and a caution about alliances stands a declaration that honour is not in the gift of anyone whose favour might be sought.",
-            "bn": "আয়াতগুলো আলে ইমরানের এমন এক অংশে, যেখানে কথা বলা হচ্ছে এমন এক সমাজের সঙ্গে, যারা নিজেদের চেয়ে শক্তিশালী প্রতিবেশীদের মাঝে নিজেদের জায়গা করে নেওয়ার চেষ্টা করছিল। ঠিক আগে ৩:২৫ আয়াত সেই দিনের ছবি আঁকে, যেদিন প্রত্যেকে নিজের কামাইয়ের পুরো প্রতিদান পাবে। ঠিক পরে ৩:২৮ আয়াত মুমিনদের সতর্ক করে, তারা যেন মুমিনদের বাদ দিয়ে কাফিরদের বন্ধু হিসেবে না নেয়। শেষ হিসাবের কথা আর মিত্রতা নিয়ে সতর্কবার্তার মাঝখানে দাঁড়িয়ে আছে এই ঘোষণা: মানুষ যাদের অনুগ্রহের আশা করে, সম্মান দেওয়ার মালিক তারা কেউ নয়।"
+            "en": "Then bi-yadika al-khayr: in Your hand is the good. The verbs have just named giving and taking, raising and lowering, yet only good is named. Al-Baghawi and al-Qurtubi both read the sentence as good and evil, with the second left understood, and both point to 16:81, garments that protect you from the heat, where the cold is meant as well. Al-Qurtubi records a second explanation: good alone is named because this is a place of supplication and of longing for His bounty. An-Naqqash, in al-Qurtubi, narrows it to victory and the spoils of war.",
+            "bn": "এরপর বিয়াদিকাল খাইর: কল্যাণ আপনারই হাতে। এইমাত্র ক্রিয়াগুলো বলে গেল দেওয়া আর নেওয়ার কথা, উঁচু করা আর নিচু করার কথা। অথচ এখানে নাম নেওয়া হলো শুধু কল্যাণের। বাগাভী ও কুরতুবী দুজনেই বাক্যটি পড়েন কল্যাণ ও অকল্যাণ অর্থে। অকল্যাণের কথা উহ্য, বুঝে নেওয়ার জন্য রাখা। দুজনেই ১৬:৮১ দেখান, যেখানে বলা হয়েছে এমন পোশাকের কথা যা গরম থেকে বাঁচায়, অথচ ঠান্ডাও উদ্দেশ্য। কুরতুবী আরেকটি ব্যাখ্যাও লিখে রাখেন: শুধু কল্যাণের নাম এসেছে, কারণ জায়গাটা দোয়ার, তাঁর অনুগ্রহের আশার। কুরতুবীতে নাক্কাশ অর্থটা আরও সরু করে আনেন: বিজয় আর যুদ্ধলব্ধ সম্পদ।"
           },
           {
-            "en": "That reading is confirmed elsewhere: 63:8 states that izzah belongs to Allah, to His Messenger and to the believers. No sound report fixes a specific occasion of revelation for 3:26-27, and the commentators do not need one; the verses read as a general instruction in how a believer is to understand power. The majority treat them as a du'a in form as well as content, since the passage is framed as direct address from beginning to end.",
-            "bn": "অন্য আয়াতও এই বোঝাকে সমর্থন করে: ৬৩:৮ আয়াত বলে, ইয্‌যত আল্লাহর, তাঁর রাসূলের আর মুমিনদের। ৩:২৬-২৭ আয়াতের নির্দিষ্ট কোনো শানে নুযুল সহিহ বর্ণনায় পাওয়া যায় না, আর মুফাসসিরদের তার দরকারও পড়ে না। ক্ষমতাকে একজন মুমিন কীভাবে বুঝবে, আয়াতগুলো তারই সাধারণ শিক্ষা। বেশিরভাগ মুফাসসির এগুলোকে বিষয়ে যেমন, গঠনেও তেমনি দোয়া হিসেবে দেখেন, কারণ পুরো অংশটিই শুরু থেকে শেষ পর্যন্ত আল্লাহকে সরাসরি ডেকে বলা।"
+            "en": "At-Tabari takes the sentence as gathering everything before it: all of that is in Your hand, and none can do it but You, not the Messiah nor the idols that others took as gods. Ma'arif al-Qur'an reasons that what a person or a people meets as harm may not be evil seen from the whole, quoting al-Mutanabbi: the calamities of some are gains for others. The Muyassar notes that the verse affirms the attribute of the Hand for Allah, as befits Him. Innaka 'ala kulli shay'in qadir seals it; as-Sa'di: nothing is beyond You.",
+            "bn": "তাবারী বাক্যটিকে আগের সব কথার সারসংক্ষেপ হিসেবে নেন: এর সবই আপনার হাতে, আপনি ছাড়া আর কেউ এ কাজ পারে না। মাসীহও নয়, লোকে যেসব মূর্তিকে ইলাহ বানিয়েছে সেগুলোও নয়। মাআরিফুল কুরআনের যুক্তি, কোনো মানুষ বা জাতি যাকে ক্ষতি হিসেবে পায়, পুরো ছবির দিক থেকে দেখলে তা হয়তো অকল্যাণ নয়। সে মুতানাব্বীর কবিতা উদ্ধৃত করে: কারও বিপদ অন্যের লাভ। মুয়াসসার লক্ষ করে, আয়াতে আল্লাহর জন্য হাতের গুণ সাব্যস্ত হয়েছে, যেভাবে তাঁর শানে মানায়। শেষে ইন্নাকা আলা কুল্লি শাইয়িন কাদীর। সা'দীর ব্যাখ্যা: কোনো কিছুই আপনার নাগালের বাইরে নয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "How It Is Lived",
-          "bn": "জীবনে যেভাবে আসে"
+          "en": "Persia, Rome and the Mockers",
+          "bn": "পারস্য, রোম আর বিদ্রূপকারীরা"
         },
         "p": [
           {
-            "en": "Because it opens with qul, this is one of the passages most naturally taken up as a personal du'a — memorised, said after prayer, said before a decision that depends on someone else's approval. Reciting it is a way of putting a name to the fear underneath a request. Most anxiety about work, money and standing is anxiety about who holds these things, and the verse answers that question before you ask for anything.",
-            "bn": "শুরুটা কুল দিয়ে, তাই ব্যক্তিগত দোয়া হিসেবে মানুষ সবচেয়ে সহজে যে অংশগুলো আপন করে নেয়, এটি তার একটি। মানুষ এটি মুখস্থ করে, নামাজের পরে পড়ে, আর এমন কোনো সিদ্ধান্তের আগে পড়ে, যা অন্য কারও সম্মতির ওপর নির্ভর করে। এটি পড়লে কোনো চাওয়ার নিচে লুকিয়ে থাকা ভয়টার নাম ধরা যায়। কাজ, টাকা আর মানসম্মান নিয়ে আমাদের বেশিরভাগ দুশ্চিন্তার গোড়ায় একটাই প্রশ্ন: এগুলো কার হাতে? আপনি কিছু চাওয়ার আগেই আয়াতটি সেই প্রশ্নের জবাব দিয়ে দেয়।"
+            "en": "Several reports of the occasion are carried, and none of the tafsirs read here grades them. At-Tabari gives Qatada through two chains, Qatada saying it was mentioned to us: the Prophet ﷺ asked his Lord to place the dominion of Persia and Rome in his community, and the verse came down. Al-Baghawi and al-Qurtubi give, without a chain, a report from Ibn 'Abbas and Anas ibn Malik (RA): when the Prophet ﷺ conquered Makkah and promised his community Persia and Rome, the hypocrites and the Jews said: far, far from it; where would Muhammad get them?",
+            "bn": "নাযিলের প্রেক্ষাপট নিয়ে কয়েকটি বর্ণনা আছে, আর এখানে পড়া কোনো তাফসীর সেগুলোর মান নির্ণয় করেনি। তাবারী কাতাদার বর্ণনা আনেন দুটি সনদে, যেখানে কাতাদা বলেন, আমাদের কাছে উল্লেখ করা হয়েছে। নবী ﷺ রবের কাছে চেয়েছিলেন, পারস্য ও রোমের রাজত্ব যেন তাঁর উম্মতের হাতে আসে, তখন আয়াতটি নাযিল হয়। বাগাভী ও কুরতুবী সনদ ছাড়া ইবন আব্বাস ও আনাস ইবন মালিক (রাঃ)-এর বর্ণনা আনেন। মক্কা জয়ের পর নবী ﷺ উম্মতকে পারস্য ও রোমের প্রতিশ্রুতি দিলেন। মুনাফিক আর ইহুদিরা বলল: অসম্ভব, অসম্ভব! মুহাম্মাদ এগুলো পাবে কোথা থেকে?"
           },
           {
-            "en": "It also works in both directions of fortune. In a rise it is a check: what was given can be wrenched away, and the pairing is stated in one breath. In a fall it is a rope: the same hand holds both, and only good is in it. Practically, that means less negotiating with people over what is not theirs to grant, and less bitterness at those who seem to have been given more. Their portion came from where yours does.",
-            "bn": "ভাগ্যের ওঠা-নামা, দুই দিকেই এটি কাজে আসে। উত্থানের সময় এটি লাগাম টেনে ধরে: যা দেওয়া হয়েছে তা ছিনিয়েও নেওয়া যায়, আর দুটি কথা এক নিঃশ্বাসেই বলা হয়েছে। পতনের সময় এটি আঁকড়ে ধরার দড়ি: একই হাত দুটোই ধরে আছে, আর সেই হাতে শুধু কল্যাণ। বাস্তবে এর মানে, যা দেওয়ার এখতিয়ার মানুষের নেই, তা নিয়ে মানুষের সঙ্গে দর-কষাকষি কমে যায়। আর যাদের বেশি দেওয়া হয়েছে বলে মনে হয়, তাদের প্রতি তিক্ততাও কমে। তাদের ভাগ এসেছে সেখান থেকেই, যেখান থেকে আপনারটা আসে।"
+            "en": "Ma'arif al-Qur'an cites that report through Ruh al-Ma'ani from al-Wahidi, then sets the scene at the Trench, on narrations it credits to al-Baihaqi, Abu Nu'aim and Ibn Khuzaymah: the Prophet ﷺ broke a rock the diggers could not move and spoke of palaces in Persia, Byzantium and Yemen, the hypocrites of Madinah mocked, and the verse came in answer. The fetched texts thus place the promise at two moments and do not reconcile them. Al-Qurtubi adds, under 'it is said', that the verse came to refute the Christians of Najran, who said 'Isa (AS) was God.",
+            "bn": "মাআরিফুল কুরআন বর্ণনাটি আনে রূহুল মাআনী থেকে, যা আবার ওয়াহিদী থেকে নেওয়া। এরপর সে দৃশ্যটা নিয়ে যায় খন্দকে, বাইহাকী, আবু নুআইম ও ইবন খুযাইমার নামে বর্ণনা উল্লেখ করে। খননকারীরা যে পাথর নড়াতে পারছিলেন না, নবী ﷺ তা ভেঙে দেন, আর পারস্য, রোম ও ইয়েমেনের প্রাসাদের কথা বলেন। মদিনার মুনাফিকরা ঠাট্টা করে, জবাবে আয়াত নাযিল হয়। ফলে সংগৃহীত লেখাগুলো প্রতিশ্রুতিকে দুই ভিন্ন সময়ে বসায়, অথচ দুটিকে মেলায় না। কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেক প্রেক্ষাপট আনেন: নাজরানের খ্রিস্টানরা বলত ঈসা (আঃ) আল্লাহ, আয়াতটি সে দাবি খণ্ডন করতে এসেছে।"
+          },
+          {
+            "en": "At-Tabari, through Ibn Ishaq from Muhammad ibn Ja'far ibn az-Zubayr, reads both verses against the claim made about 'Isa (AS): he was given signs, reviving the dead and healing the sick among them, but appointing kings, placing prophethood, night and day, the living and the dead, and provision were never put in his hands. These reports and readings name the hypocrites, the Jews and Christians of that time, Quraysh, Persia and Rome, and Ibn Kathir names the Children of Israel. The verses describe what the reports describe, and license nothing against any living person or community.",
+            "bn": "তাবারী ইবন ইসহাকের সূত্রে মুহাম্মাদ ইবন জা'ফর ইবন যুবাইরের বক্তব্য আনেন, আর দুটি আয়াতই পড়েন ঈসা (আঃ)-কে নিয়ে করা সেই দাবির জবাব হিসেবে। তাঁকে নিদর্শন দেওয়া হয়েছিল, মৃতকে জীবিত করা আর রোগীকে সুস্থ করা তার মধ্যে ছিল। কিন্তু বাদশাহ বানানো, নবুওয়াত কোথায় যাবে তা ঠিক করা, রাত-দিন, জীবিত-মৃত আর রিজিক, এসব কখনো তাঁর হাতে দেওয়া হয়নি। এসব বর্ণনা ও ব্যাখ্যায় নাম এসেছে মুনাফিকদের, সে যুগের ইহুদি ও খ্রিস্টানদের, কুরাইশের, পারস্য ও রোমের। আর ইবন কাসীর বনী ইসরাঈলের নাম নেন। বর্ণনাগুলো যা বলে, আয়াত সেটুকুই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hours Passed Between Them",
+          "bn": "রাত-দিনের ঘণ্টা বদল"
+        },
+        "p": [
+          {
+            "en": "Tuliju al-layla fi an-nahari wa tuliju an-nahara fi al-layl. At-Tabari explains tulij as tudkhil, You make enter: what You take from the night's hours You enter into the day's, and the reverse, as Ibn 'Abbas, Mujahid, al-Hasan, Qatada and ad-Dahhak say in his chains. As-Suddi puts figures to it: until the night is fifteen hours and the day nine. Ibn Kathir traces the cycle through the seasons of the year. Al-Qurtubi allows that the words also hold the plain succession of night and day, and as-Sa'di counts the seasons, light, shade and rest among the greatest proofs of Allah's power.",
+            "bn": "তূলিজুল লাইলা ফিন নাহারি ওয়া তূলিজুন নাহারা ফিল লাইল। তাবারী তূলিজ-এর অর্থ করেন তুদখিল, আপনি প্রবেশ করান। রাতের ঘণ্টা থেকে যা কমান, তা দিনের ঘণ্টায় ঢুকিয়ে দেন, আর দিনের বেলাতেও উল্টোটা করেন। তাঁর সনদে ইবন আব্বাস, মুজাহিদ, হাসান, কাতাদা ও দাহহাক একই কথা বলেন। সুদ্দী হিসাবও দেন: শেষে রাত হয় ১৫ ঘণ্টা, দিন ৯ ঘণ্টা। ইবন কাসীর বছরের ঋতুর পর ঋতু ধরে চক্রটা দেখান। কুরতুবীর মতে শব্দগুলোতে রাত-দিনের সাধারণ পালাবদলও ধরা যায়। আর সা'দী ঋতু, আলো, ছায়া আর বিশ্রামকে আল্লাহর কুদরতের সবচেয়ে বড় প্রমাণগুলোর মধ্যে গোনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Dead, the Living",
+          "bn": "মৃত থেকে জীবিত"
+        },
+        "p": [
+          {
+            "en": "Wa tukhriju al-hayya min al-mayyiti wa tukhriju al-mayyita min al-hayy. At-Tabari sets out three readings. 'Abdullah ibn Mas'ud, Mujahid, Qatada, as-Suddi and Sa'id ibn Jubayr: the living person from the lifeless drop, and the drop from the living. 'Ikrimah: the palm from the stone and the stone from the palm, the ear from the grain and the grain from the ear, the egg from the living bird and the bird from the egg. Al-Hasan: the believer from the disbeliever and the disbeliever from the believer, for the believer's heart is alive and the disbeliever's is dead.",
+            "bn": "ওয়া তুখরিজুল হাইয়া মিনাল মাইয়িতি ওয়া তুখরিজুল মাইয়িতা মিনাল হাইয়। তাবারী তিনটি ব্যাখ্যা সাজিয়ে দেন। আবদুল্লাহ ইবন মাসঊদ, মুজাহিদ, কাতাদা, সুদ্দী ও সাঈদ ইবন জুবাইরের মতে প্রাণহীন শুক্রবিন্দু থেকে জীবিত মানুষ, আর জীবিত মানুষ থেকে সেই বিন্দু। ইকরিমার মতে আঁটি থেকে খেজুরগাছ, গাছ থেকে আঁটি। দানা থেকে শিষ, শিষ থেকে দানা। জীবিত পাখি থেকে ডিম, ডিম থেকে পাখি। হাসানের মতে কাফির থেকে মুমিন, মুমিন থেকে কাফির। কারণ মুমিনের অন্তর জীবিত, কাফিরের অন্তর মৃত।"
+          },
+          {
+            "en": "Beside al-Hasan's reading, at-Tabari and al-Qurtubi place a report from az-Zuhri, through Ma'mar, that names no Companion: the Prophet ﷺ found a woman of fine bearing with one of his wives, was told she was Khalidah bint al-Aswad ibn 'Abd Yaghuth, and said: glory be to Him who brings the living out of the dead. She was a righteous woman, and her father a disbeliever. At-Tabari himself prefers the first reading, since whatever leaves a living body is dead, and the plain usage of speech is the better guide to Allah's Book; the other readings, he grants, have an understandable sense.",
+            "bn": "হাসানের ব্যাখ্যার পাশে তাবারী ও কুরতুবী মা'মারের সূত্রে যুহরীর একটি বর্ণনা রাখেন, যাতে কোনো সাহাবির নাম নেই। নবী ﷺ তাঁর এক স্ত্রীর কাছে সুন্দর চেহারার এক মহিলাকে দেখলেন। জানানো হলো, তিনি খালিদা বিনত আসওয়াদ ইবন আবদ ইয়াগূস। তিনি বললেন: পবিত্র সেই সত্তা, যিনি মৃত থেকে জীবিতকে বের করেন। মহিলা ছিলেন নেককার, আর তাঁর বাবা ছিল কাফির। তাবারী নিজে প্রথম ব্যাখ্যাটিকে অগ্রাধিকার দেন। কারণ জীবিত দেহ থেকে যা আলাদা হয়, তা মৃত। আর আল্লাহর কিতাব বোঝার জন্য মানুষের প্রচলিত ভাষাই ভালো পথপ্রদর্শক। অন্য ব্যাখ্যাগুলোরও বোধগম্য দিক আছে, তা তিনি মানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision Kept by No Ledger",
+          "bn": "যে রিজিকের খাতা নেই"
+        },
+        "p": [
+          {
+            "en": "Wa tarzuqu man tasha'u bi-ghayri hisab: and You provide for whom You will without reckoning. At-Tabari: You give generously without taking account of what You give, because You fear no shortfall in Your treasuries; ar-Rabi' says the same. Al-Qurtubi and al-Baghawi: without constriction or stinting. Ibn Kathir: some are given wealth beyond counting and others are straitened, by Your wisdom and justice. As-Sa'di: ample provision from where a person neither expects nor earns.",
+            "bn": "ওয়া তারযুকু মান তাশাউ বিগাইরি হিসাব: আর যাকে চান আপনি বেহিসাব রিজিক দেন। তাবারীর ব্যাখ্যা: আপনি দরাজ হাতে দেন, দেওয়ার হিসাব রাখেন না, কারণ আপনার ভান্ডারে কমতির কোনো ভয় নেই। রাবী'ও একই কথা বলেন। কুরতুবী ও বাগাভীর মতে, কোনো সংকোচ বা কৃপণতা ছাড়া। ইবন কাসীর বলেন, কাউকে গুনে শেষ করা যায় না এত সম্পদ দেওয়া হয়, কারও রিজিক সংকুচিত করা হয়, আপনার হিকমত ও ইনসাফ অনুযায়ী। সা'দীর মতে, এমন জায়গা থেকে প্রশস্ত রিজিক, যা মানুষ আশাও করে না, উপার্জনও করে না।"
+          },
+          {
+            "en": "None of the tafsirs read for these verses attaches a sound hadith to them. Al-Baghawi transmits a report on the merit of reciting them after each prayer and closes it by calling a narrator weak, so it is not quoted here. What remains is the way of speaking the verses hand over: before asking for anything, the speaker names who holds it. The address ends there, and 3:28 turns to whom believers take as allies.",
+            "bn": "এখানে পড়া কোনো তাফসীর এ আয়াতগুলোর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। প্রতি নামাজের পর এগুলো পড়ার ফজিলত নিয়ে বাগাভী একটি বর্ণনা আনেন, আর শেষে নিজেই একজন বর্ণনাকারীকে দুর্বল বলেন। তাই সেটি এখানে উদ্ধৃত হলো না। যা থাকে, তা হলো আয়াতগুলোর শেখানো কথা বলার ধরন: কিছু চাওয়ার আগে বলে নেওয়া, জিনিসটা কার হাতে। সম্বোধন এখানেই শেষ। এরপর ৩:২৮ আয়াত আলোচনা করে, মুমিনরা কাদের মিত্র হিসেবে নেবে।"
           }
         ]
       }
