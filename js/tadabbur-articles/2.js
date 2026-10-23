@@ -7287,89 +7287,145 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Planted in the Middle of a Ledger",
-          "bn": "হিসাবের খাতার মাঝখানে বসানো"
+          "en": "The Seal on the Rulings",
+          "bn": "বিধানগুলোর শেষে মোহর"
         },
         "p": [
           {
-            "en": "This verse sits inside the longest stretch of financial law in the Quran. 2:275 to 2:279 deal with riba and end by telling those who repent that they may have their principal, wronging nobody and being wronged by nobody. 2:280 requires that a debtor in hardship be given respite until ease, and adds that remitting the debt as charity is better. Then comes our verse, and after it 2:282, the longest verse in the Book, on writing debts down.",
-            "bn": "আয়াতটির জায়গা কুরআনের সবচেয়ে দীর্ঘ আর্থিক বিধানের মাঝখানে। ২:২৭৫ থেকে ২:২৭৯ পর্যন্ত আয়াতগুলো সুদ নিয়ে। শেষে বলা হয়েছে, যারা তওবা করে তারা নিজেদের মূলধন ফেরত পাবে; কারও ওপর জুলুম করবে না, কারও জুলুমের শিকারও হবে না। ২:২৮০ আয়াতের হুকুম, অভাবে পড়া ঋণীকে সচ্ছলতা আসা পর্যন্ত সময় দিতে হবে। সঙ্গে বলা হয়েছে, ঋণটা দান হিসেবে মাফ করে দেওয়া আরও ভালো। এরপর আমাদের আয়াত। তার পরেই ২:২৮২, কুরআনের দীর্ঘতম আয়াত, যার বিষয় ঋণ লিখে রাখা।"
+            "en": "The three verses just before this verse speak to lenders. 2:278 tells the believers to fear Allah and leave whatever riba is still owed to them, if they are believers. 2:279 warns those who refuse of war from Allah and His Messenger, and tells those who repent that their principal is theirs: la tazlimuna wa la tuzlamun, you do no wrong and you are not wronged. 2:280 grants a debtor in hardship time until ease, and calls giving the debt up as charity better, if you only knew. The riba passage from 2:275 has its own article in this collection.",
+            "bn": "এর ঠিক আগের তিনটি আয়াতের কথা পাওনাদারদের উদ্দেশে। ২:২৭৮ মুমিনদের বলে, আল্লাহকে ভয় করো, আর মানুষের কাছে সুদের যা এখনো বাকি তা ছেড়ে দাও, যদি তোমরা মুমিন হও। ২:২৭৯ সতর্ক করে, যারা ছাড়বে না তারা যেন আল্লাহ ও তাঁর রাসূলের পক্ষ থেকে যুদ্ধের ঘোষণা শুনে নেয়। আর যারা তওবা করে, মূলধন তাদেরই: লা তাযলিমূনা ওয়া লা তুযলামূন, তোমরাও জুলুম করবে না, তোমাদের উপরও জুলুম হবে না। ২:২৮০ বলে, অভাবে পড়া ঋণগ্রহীতাকে সচ্ছলতা পর্যন্ত সময় দাও, আর ঋণটা সদকা করে মাফ করে দেওয়া আরও ভালো, যদি তোমরা জানতে। ২:২৭৫ থেকে শুরু হওয়া সুদের অংশ নিয়ে এই সংকলনে আলাদা প্রবন্ধ আছে।"
           },
           {
-            "en": "The placement is the first thing to notice. Between a rule about forgiving what you are owed and a rule about documenting what you lend, the Quran inserts a sentence about being returned to Allah. It does not conclude the financial passage from outside; it is planted in the middle of it, where the money is. Whatever else this verse is, it is a verse about the Day of Judgement addressed to creditors and to debtors.",
-            "bn": "প্রথমে খেয়াল করার বিষয় হলো আয়াতটির জায়গা। একদিকে পাওনা মাফ করে দেওয়ার বিধান, অন্যদিকে ধার দিলে তা লিখে রাখার বিধান। এই দুইয়ের মাঝখানে কুরআন বসিয়ে দিয়েছে একটি বাক্য: সবাইকে আল্লাহর কাছে ফিরিয়ে নেওয়া হবে। আয়াতটি বাইরে দাঁড়িয়ে আর্থিক আলোচনার উপসংহার টানছে না। একেবারে তার মাঝখানে বসানো, যেখানে টাকাপয়সার কারবার। আয়াতটি আর যা-ই হোক, এটা কিয়ামতের দিনের কথা, আর কথাটা বলা হচ্ছে পাওনাদার ও দেনাদারকে উদ্দেশ করে।"
+            "en": "Then the turn: wa-ttaqu yawman, and fear a Day. Ibn Kathir reads it as admonition. Allah reminds His servants that this world and the wealth in it will pass, that the Hereafter will come with the return to Him, and that He will reckon with His creation for what they did, and He warns them of His punishment. As-Sa'di says the verse was made the seal of these rulings, commands and prohibitions, because it holds the promise for good and the threat for evil. The Muyassar adds that avoiding the riba gains Allah forbade completes faith and its duties of prayer, zakat and good deeds, the duties named in 2:277.",
+            "bn": "এরপর কথার মোড় ঘোরে: ওয়াত্তাকূ ইয়াওমান, আর ভয় করো এক দিনকে। ইবন কাসীর এই মোড়কে নসিহত হিসেবে পড়েন। আল্লাহ বান্দাদের মনে করিয়ে দিচ্ছেন, দুনিয়া আর তার ধনসম্পদ ফুরিয়ে যাবে, আখিরাত আসবে, তাঁর কাছে ফিরে যেতে হবে, আর সৃষ্টির প্রতিটি আমলের হিসাব তিনি নেবেন। সঙ্গে তিনি নিজের শাস্তির ভয়ও দেখাচ্ছেন। সা'দী বলেন, এই আয়াতকে এসব বিধান, আদেশ আর নিষেধের শেষ মোহর বানানো হয়েছে, কারণ এতে আছে ভালো কাজের প্রতিশ্রুতি আর মন্দ কাজের হুমকি। মুয়াসসার যোগ করে, আল্লাহর হারাম করা সুদের উপার্জন থেকে দূরে থাকলে ঈমান পূর্ণ হয়, পূর্ণ হয় ঈমানের দাবিগুলোও: নামাজ, যাকাত আর নেক আমল, ২:২৭৭ আয়াতে যেগুলোর কথা এসেছে।"
           }
         ]
       },
       {
         "h": {
-          "en": "You Will Be Returned",
-          "bn": "তোমাদের ফিরিয়ে নেওয়া হবে"
+          "en": "Fearing the Day Itself",
+          "bn": "দিনটিকেই ভয় করা"
         },
         "p": [
           {
-            "en": "Turja'una is passive: you will be brought back, not you will return. The distinction matters because the whole passage is about parties who decide things — who lends, who waits, who forgives, who writes it down. This clause names the one appointment that nobody arranges for himself. 29:57 states it the same way, with every soul tasting death and then being returned to Him, and the Arabic there is passive too.",
-            "bn": "'তুরজাঊন' শব্দটি কর্মবাচ্যে: তোমাদের ফিরিয়ে আনা হবে। তোমরা নিজেরা ফিরে যাবে, এমন নয়। পার্থক্যটা জরুরি। কারণ পুরো অংশটাই এমন লোকদের নিয়ে, যারা নিজেরা সিদ্ধান্ত নেয়: কে ধার দেবে, কে অপেক্ষা করবে, কে মাফ করবে, কে লিখে রাখবে। আর এই বাক্যাংশটি এমন এক সাক্ষাতের কথা বলে, যার সময় কেউ নিজে ঠিক করে না। ২৯:৫৭ আয়াতও কথাটা একইভাবে বলে: প্রত্যেক প্রাণ মৃত্যুর স্বাদ নেবে, তারপর তাঁরই কাছে ফিরিয়ে আনা হবে। সেখানেও আরবি ক্রিয়াটি কর্মবাচ্যে।"
+            "en": "Al-Qurtubi makes a small grammatical point with a large meaning. Yawman, a Day, is the object of the verb, not an adverb of time. The command is not to be careful during that Day but to guard against the Day itself, and turja'una fihi ila Allah, in which you will be returned to Allah, is its description. He calls the verse an admonition to all people and a command that singles out each person. The Muyassar reads it as a call to everyone: beware, O people, the Day of Resurrection, when you will be presented to Allah for reckoning.",
+            "bn": "কুরতুবী ব্যাকরণের ছোট্ট একটা কথা বলেন, যার অর্থ কিন্তু বড়। ইয়াওমান, অর্থাৎ এক দিন, এখানে ক্রিয়ার কর্ম, সময়বাচক শব্দ নয়। তাই আদেশটা সেই দিনে সাবধান থাকার নয়। আদেশ হলো দিনটিকেই ভয় করা, তার থেকে বাঁচার ব্যবস্থা করা। তুরজাঊনা ফীহি ইলাল্লাহ, যেদিন তোমাদের আল্লাহর কাছে ফিরিয়ে নেওয়া হবে, কথাটি সেই দিনেরই পরিচয়। কুরতুবীর ভাষায়, আয়াতটি সব মানুষের জন্য নসিহত, আবার প্রত্যেক মানুষের জন্য আলাদা করে দেওয়া আদেশ। মুয়াসসার একে সবার প্রতি ডাক হিসেবে পড়ে: হে মানুষ, কিয়ামতের দিনকে ভয় করো, যেদিন হিসাবের জন্য তোমাদের আল্লাহর সামনে হাজির করা হবে।"
           },
           {
-            "en": "There is a second shift inside the sentence. It opens by addressing you in the plural — fear a Day when you will be returned — and closes speaking about them: every soul will be paid in full what it earned, and they will not be wronged. The audience gathered at the start has dispersed by the end into individual souls. A room can be addressed together. It cannot be judged together.",
-            "bn": "বাক্যটির ভেতরে আরেকটা পালাবদল আছে। শুরুতে বহুবচনে সরাসরি সম্বোধন: সেই দিনকে ভয় করো, যেদিন তোমাদের ফিরিয়ে নেওয়া হবে। আর শেষে কথা হচ্ছে 'তাদের' নিয়ে: প্রত্যেক প্রাণকে তার কামাইয়ের পুরো প্রতিদান দেওয়া হবে, আর তাদের ওপর জুলুম করা হবে না। শুরুতে যারা একসঙ্গে জড়ো ছিল, শেষে এসে তারা আলাদা আলাদা প্রাণ হয়ে গেছে। ঘরভর্তি মানুষকে একসঙ্গে ডাকা যায়, কিন্তু একসঙ্গে বিচার করা যায় না।"
+            "en": "Which day is meant? Al-Qurtubi reports that most scholars take it as the Day of Resurrection, of reckoning and of full payment, while some said it is the day of death. He quotes Ibn 'Atiyya that the first is sounder by the verse's own wording. At-Tabari spells out what is to be feared in that meeting with Allah: arriving with evil deeds that destroy you, with disgraces that shame you, with exposures that tear away your coverings, or with ruinous sins that bring on you a punishment from Allah you have no strength to bear.",
+            "bn": "কোন দিনের কথা বলা হচ্ছে? কুরতুবী জানান, অধিকাংশ আলেমের মতে এটি কিয়ামতের দিন, হিসাব আর পুরো প্রতিদানের দিন। কেউ কেউ বলেছেন, এটি মৃত্যুর দিন। ইবন আতিয়্যার কথা তিনি উদ্ধৃত করেন যে আয়াতের শব্দগুলো বিচার করলে প্রথম মতটিই বেশি সঠিক। সেদিন আল্লাহর সঙ্গে সাক্ষাতে ভয়ের জিনিসটা কী, তাবারী তা খুলে বলেন। ভয় হলো এমন গুনাহ নিয়ে হাজির হওয়া যা ধ্বংস করে দেয়, এমন কাজ নিয়ে যা লজ্জায় ফেলে, এমন কিছু নিয়ে যা গোপন পর্দা ছিঁড়ে সব ফাঁস করে দেয়। কিংবা এমন সর্বনাশা গুনাহ নিয়ে, যার জন্য আল্লাহর এমন শাস্তি অবধারিত হয় যা সহ্য করার শক্তি কারও নেই।"
           }
         ]
       },
       {
         "h": {
-          "en": "Paid in Full",
-          "bn": "পুরোপুরি পরিশোধ"
+          "en": "Brought Back, or Coming Back",
+          "bn": "ফিরিয়ে আনা, না ফিরে আসা"
         },
         "p": [
           {
-            "en": "Tuwaffa is from the root of wafa', completing and discharging in full; it is the root behind the command to give full measure and behind tawaffa, the taking of a soul. The Quran chose a settlement word and set it inside a passage about settlements. Every clause around it involves an amount owed — the principal, the delay, the remission, the written term — and this verse says that a final account will be paid out to the last unit.",
-            "bn": "'তুওয়াফফা' এসেছে 'ওয়াফা' ধাতু থেকে, যার অর্থ পূর্ণ করা, পাওনা পুরোপুরি মিটিয়ে দেওয়া। পুরো মাপে দেওয়ার হুকুমও এই ধাতু থেকে, আবার 'তাওয়াফফা', অর্থাৎ প্রাণ কবজ করা, সেটাও। কুরআন হিসাব মেটানোর একটা শব্দ বেছে নিয়ে বসিয়েছে ঠিক হিসাব মেটানোর আলোচনার ভেতরে। চারপাশের প্রতিটি বাক্যে কোনো না কোনো পাওনার অঙ্ক আছে: মূলধন, সময় দেওয়া, মাফ করা, লিখে রাখা মেয়াদ। আর এই আয়াত বলছে, শেষ হিসাবটা মেটানো হবে কড়ায়-গণ্ডায়।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "What It Earned",
-          "bn": "যা সে অর্জন করেছে"
-        },
-        "p": [
-          {
-            "en": "Kasabat here is neutral and covers everything a soul brings. That is worth marking, because the same surah later separates the verbs. In 2:286 the good is laha ma kasabat, hers is what she earned, and the evil is 'alayha ma iktasabat, against her is what she acquired, in a form that carries added effort. Here one verb carries both, because the point is not the difference between them but that the total is paid.",
-            "bn": "এখানে 'কাসাবাত' নিরপেক্ষ শব্দ। প্রাণ যা কিছু নিয়ে আসে, ভালো-মন্দ সবই এর মধ্যে পড়ে। কথাটা খেয়াল রাখার মতো, কারণ এই সূরাই পরে ক্রিয়া দুটিকে আলাদা করেছে। ২:২৮৬ আয়াতে ভালোর বেলায় বলা হয়েছে 'লাহা মা কাসাবাত', সে যা অর্জন করেছে তা তারই। আর মন্দের বেলায় 'আলাইহা মাক্‌তাসাবাত', সে যা কামাই করেছে তা তার বিরুদ্ধে। দ্বিতীয় ক্রিয়াটির গঠনে বাড়তি চেষ্টার ভাব আছে। এখানে একটি ক্রিয়াই দুটোকে ধরে রেখেছে, কারণ এখানে কথা দুইয়ের পার্থক্য নিয়ে নয়। কথা হলো, পুরো অঙ্কটাই মিটিয়ে দেওয়া হবে।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "Among the Last, But Which Last",
-          "bn": "শেষ দিকের আয়াত, কিন্তু সবশেষ কোনটি?"
-        },
-        "p": [
-          {
-            "en": "Reports from the early generations place this verse among the last portions of the Quran to be revealed, and some of them name a number of days that the Prophet ﷺ lived afterwards. The reports do not agree with one another. Other narrations name the verse of kalalah at 4:176 as the last revealed, and others point to 2:278 on riba or to 5:3 on the completion of the religion.",
-            "bn": "প্রথম যুগের বর্ণনায় এই আয়াতকে কুরআনের সবশেষে নাজিল হওয়া অংশগুলোর মধ্যে ধরা হয়েছে। কোনো কোনো বর্ণনায় এ কথাও আছে, এরপর নবী ﷺ কত দিন জীবিত ছিলেন। তবে বর্ণনাগুলো একটি আরেকটির সঙ্গে মেলে না। অন্য কিছু বর্ণনা বলে, সবশেষে নাজিল হয়েছে ৪:১৭৬, কালালার আয়াত। আবার কিছু বর্ণনা ইঙ্গিত করে সুদের বিষয়ে ২:২৭৮ আয়াতের দিকে, কিংবা দ্বীন পূর্ণ হওয়ার ঘোষণা ৫:৩ আয়াতের দিকে।"
+            "en": "The verb is read in two ways. Al-Baghawi says the people of Basra read tarji'una, you will come to Allah, while the others read turja'una, you will be brought back to Allah. Al-Qurtubi names Abu 'Amr for the first reading and lines it up with 88:25, inna ilayna iyabahum, to Us is their return, and with Ubayy's wording, tasiruna, you will arrive. The others, he says, match 6:62, thumma ruddu ila Allah, then they are returned to Allah, and 18:36, la'in rudidtu ila rabbi, and 'Abdullah's wording, turadduna.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়। বাগাভী জানান, বসরার কারীরা পড়েন তারজিঊনা, অর্থাৎ তোমরা আল্লাহর কাছে পৌঁছবে। বাকিরা পড়েন তুরজাঊনা, অর্থাৎ তোমাদের আল্লাহর কাছে ফিরিয়ে নেওয়া হবে। কুরতুবী প্রথম পাঠের সঙ্গে আবু আমরের নাম নেন। এর মিল তিনি দেখান ৮৮:২৫ আয়াতের সঙ্গে, ইন্না ইলাইনা ইয়াবাহুম, তাদের ফেরা আমারই কাছে। মিল দেখান উবাইয়ের পাঠ তাসীরূনা, তোমরা গিয়ে পৌঁছবে, তার সঙ্গেও। অন্য পাঠটির মিল তাঁর মতে ৬:৬২ আয়াতে, সুম্মা রুদ্দূ ইলাল্লাহ, তারপর তাদের আল্লাহর কাছে ফিরিয়ে দেওয়া হয়। আর ১৮:৩৬ আয়াতে, লাইন রুদিদতু ইলা রাব্বী, এবং আবদুল্লাহর পাঠ তুরাদ্দূনা-তে।"
           },
           {
-            "en": "The honest position is that the reports differ, and that no single verse can be declared the final one on their strength. Some of the difference is a difference of question: last revealed of all, last revealed on a ruling, last revealed of a particular passage. What the reports do agree on is that this verse is late, and that what a community was left with near the end was a sentence about being returned to Allah.",
-            "bn": "সৎ কথা হলো, বর্ণনাগুলোতে ভিন্নতা আছে, আর সেগুলোর জোরে কোনো একটি আয়াতকে নিশ্চিতভাবে সবশেষ বলে দেওয়া যায় না। ভিন্নতার কিছুটা আসলে প্রশ্নের ভিন্নতা। কেউ বলছেন সব মিলিয়ে সবশেষ আয়াতের কথা, কেউ বিধানের আয়াতগুলোর মধ্যে সবশেষের কথা, কেউ কোনো নির্দিষ্ট অংশের সবশেষ আয়াতের কথা। তবে একটা বিষয়ে বর্ণনাগুলো একমত: আয়াতটি একেবারে শেষ দিকের। শেষ সময়ে উম্মতের হাতে যা রেখে যাওয়া হলো, তা হলো আল্লাহর কাছে ফিরিয়ে নেওয়ার একটি বাক্য।"
+            "en": "Al-Qurtubi also records that al-Hasan read the verb with the letter ya, so that the sentence speaks of them, all people, rather than to you. He quotes Ibn Jinni on that reading: it is as if Allah was gentle with the believers, not confronting them with mention of the return, since hearts break at it; He said to them, fear a Day, and then, at the mention of the return, turned away from addressing them, out of kindness to them.",
+            "bn": "কুরতুবী আরও জানান, হাসান ক্রিয়াটি পড়েছেন ইয়া অক্ষর দিয়ে। তখন বাক্যটি আর তোমাদের সম্বোধন করে না, কথা বলে তাদের নিয়ে, অর্থাৎ সব মানুষ নিয়ে। এই পাঠ সম্পর্কে তিনি ইবন জিন্নীর কথা উদ্ধৃত করেন। যেন আল্লাহ মুমিনদের প্রতি কোমল হলেন, ফিরে যাওয়ার কথাটা তাদের মুখের ওপর বললেন না, কারণ এ কথায় হৃদয় ফেটে যায়। তাদের বললেন, ভয় করো এক দিনকে। তারপর যেই ফিরে যাওয়ার প্রসঙ্গ এল, তাদের প্রতি দয়া করে সরাসরি সম্বোধন থেকে সরে গেলেন।"
+          },
+          {
+            "en": "Then there is the phrase ila Allah, to Allah. Al-Qurtubi says a word is understood before the name: to the judgement of Allah and the final verdict of His decree. Read that way, the return is to a court, not to a place. Whichever reading of the verb is followed, the person arrives, or is brought, before a ruling that will not be appealed. That is the setting in which the rest of the verse, about payment, takes place.",
+            "bn": "এরপর ইলাল্লাহ, আল্লাহর কাছে। কুরতুবী বলেন, এর আগে একটি শব্দ উহ্য আছে: আল্লাহর হুকুমের কাছে, তাঁর চূড়ান্ত ফয়সালার কাছে। এভাবে পড়লে ফিরে যাওয়াটা কোনো জায়গায় নয়, এক বিচারের সামনে। ক্রিয়ার যে পাঠই ধরা হোক, মানুষ নিজে গিয়ে পৌঁছাক বা তাকে নিয়ে যাওয়া হোক, সে দাঁড়াবে এমন এক রায়ের সামনে যার বিরুদ্ধে আর আপিল চলে না। আয়াতের বাকি অংশ, অর্থাৎ পুরো প্রতিদান দেওয়ার কথা, ঘটে এই প্রেক্ষাপটেই।"
           }
         ]
       },
       {
         "h": {
-          "en": "They Will Not Be Wronged",
-          "bn": "তাদের ওপর জুলুম করা হবে না"
+          "en": "Every Soul, Settled in Full",
+          "bn": "প্রত্যেক প্রাণের পুরো পাওনা"
         },
         "p": [
           {
-            "en": "The verse's closing verb has already been heard in this passage. 2:279 told those who give up riba that they may keep their capital — la tazlimuna wa la tuzlamun, wronging nobody and being wronged by nobody. Here the same root is applied to the reckoning, and turned to the third person: wa hum la yuzlamun. Justice between two traders and justice on the Day are named with one term, which is this surah's way of saying that they are the same standard at two different scales.",
-            "bn": "আয়াতের শেষ ক্রিয়াটি এই অংশে আগেও একবার এসেছে। সুদ ছেড়ে দেওয়া লোকদের ২:২৭৯ আয়াত বলেছে, তারা নিজেদের মূলধন রাখতে পারবে: 'লা তাযলিমূনা ওয়ালা তুযলামূন', কারও ওপর জুলুম করবে না, কারও জুলুমের শিকারও হবে না। এখানে একই ধাতু এসেছে আখিরাতের হিসাবের প্রসঙ্গে, আর এবার কথা বলা হচ্ছে 'তাদের' নিয়ে: 'ওয়া হুম লা ইউযলামূন'। দুই ব্যবসায়ীর মধ্যেকার ইনসাফ আর কিয়ামতের দিনের ইনসাফ, দুটোর জন্যই একই শব্দ। এভাবে সূরাটি বুঝিয়ে দেয়, মাপকাঠি একটাই, শুধু পরিসর দুই রকম।"
+            "en": "Thumma tuwaffa kullu nafsin ma kasabat: then every soul will be paid in full what it earned. At-Tabari describes the Day by what it is not. It is a day of recompense for deeds, not a day for seeking to make amends, nor for asking to be let off, nor for repentance and turning back. It is a day of reward and reckoning, in which every soul is paid its due for what it sent ahead and earned, the bad and the good alike.",
+            "bn": "সুম্মা তুওয়াফফা কুল্লু নাফসিম মা কাসাবাত: তারপর প্রত্যেক প্রাণকে তার উপার্জনের পুরো প্রতিদান দেওয়া হবে। তাবারী দিনটিকে চেনান, সেদিন কী থাকবে না তা দিয়ে। সেটা আমলের প্রতিদানের দিন। মন রক্ষা করে ভুল শোধরানোর দিন নয়, রেহাই চাওয়ার দিন নয়, তওবা করে ফিরে আসার দিনও নয়। সেটা প্রতিফল আর হিসাবের দিন। সেদিন প্রত্যেক প্রাণ আগে যা পাঠিয়েছে আর যা কামিয়েছে, মন্দ হোক বা ভালো, তার পুরো পাওনা বুঝে পাবে।"
           },
           {
-            "en": "6:160 closes with this identical clause after describing how deeds are repaid, so the phrase is the Quran's standing guarantee at the ledger. What it rules out on the human side is straightforward. A debt collected harshly from someone in hardship, a term quietly altered, a document not written because trust was assumed — each of these is an entry, and the verse says the entry survives the death of both parties.",
-            "bn": "৬:১৬০ আয়াতও আমলের প্রতিদান কীভাবে দেওয়া হবে তা বলার পর ঠিক এই বাক্যাংশ দিয়েই শেষ হয়। অর্থাৎ হিসাবের খাতায় এটি কুরআনের স্থায়ী জামিন। মানুষের দিক থেকে এর ফলে কী চলবে না, তা পরিষ্কার। অভাবে থাকা কারও কাছ থেকে কড়াভাবে আদায় করা ঋণ, চুপিচুপি বদলে দেওয়া মেয়াদ, 'বিশ্বাস তো আছেই' ভেবে না-লেখা দলিল: এর প্রতিটিই খাতার একেকটি হিসাব। আর আয়াত বলছে, দুই পক্ষ মারা যাওয়ার পরও সেই হিসাব মুছে যায় না।"
+            "en": "At-Tabari adds that nothing small or great, of good or evil, is left out; everything is brought forward and its recompense paid in justice from its Lord. As-Sa'di says the same of the small and the great, the open and the hidden. Al-Qurtubi draws a doctrinal point: the verse states plainly that reward and punishment are tied to what people earn by their deeds, and he calls it a rebuttal of the Jabriyya, the school named for jabr, compulsion.",
+            "bn": "তাবারী যোগ করেন, ভালো-মন্দের ছোট-বড় কিছুই বাদ পড়বে না। সবকিছু সামনে হাজির করা হবে, আর রবের পক্ষ থেকে ন্যায়ের সঙ্গে তার প্রতিদান মিটিয়ে দেওয়া হবে। সা'দীও একই কথা বলেন: ছোট-বড়, প্রকাশ্য-গোপন সবকিছুর প্রতিদান। কুরতুবী এখান থেকে আকীদার একটি কথা বের করেন। তাঁর মতে আয়াতটি স্পষ্ট বলে দেয়, সওয়াব আর শাস্তি নির্ভর করে মানুষ নিজের আমলে যা উপার্জন করে তার ওপর। তিনি একে জাবরিয়্যাদের খণ্ডন বলেন। এই দলের নাম এসেছে জাবর থেকে, যার মানে বাধ্যবাধকতা।"
+          },
+          {
+            "en": "The grammar holds a further detail. Kullu nafsin, every soul, is singular in form, yet the verse ends wa hum, and they. Al-Qurtubi explains that the pronoun follows the meaning of kull, which is many, rather than its singular wording. The sentence thus counts people individually at the payment and then speaks of all of them together at the guarantee. Each account is settled alone, and the promise that closes the verse covers everyone.",
+            "bn": "ব্যাকরণে আরও একটি খুঁটিনাটি আছে। কুল্লু নাফস, প্রত্যেক প্রাণ, শব্দের গঠনে একবচন। অথচ আয়াত শেষ হয় ওয়া হুম দিয়ে, আর তারা। কুরতুবী ব্যাখ্যা করেন, সর্বনামটি কুল্লু শব্দের অর্থ অনুসরণ করেছে, যে অর্থ বহুজনের। শব্দের একবচন গঠন সে অনুসরণ করেনি। ফলে প্রতিদানের বেলায় বাক্যটি মানুষকে গোনে একজন একজন করে, আর নিশ্চয়তার বেলায় কথা বলে সবাইকে একসঙ্গে নিয়ে। প্রত্যেকের হিসাব মেটে আলাদা করে, আর আয়াতের শেষের প্রতিশ্রুতি সবার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Justice, Then Generosity",
+          "bn": "ন্যায়, তারপর অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "Wa hum la yuzlamun: and they will not be wronged. At-Tabari answers with a question: how could anyone be wronged who is repaid for an evil deed with its like, and for a good deed with ten like it? It is rather justice towards you, O wrongdoer, and generosity towards you, O doer of good, given more and given amply. The Muyassar says each person is repaid for what he did of good or evil without any wrong reaching him. As-Sa'di says Allah does not wrong him an atom's weight.",
+            "bn": "ওয়া হুম লা ইউযলামূন: আর তাদের ওপর জুলুম করা হবে না। তাবারী জবাব দেন একটি প্রশ্ন দিয়ে। যার মন্দ কাজের বদলা দেওয়া হয় ঠিক তার সমান, আর নেক কাজের বদলা তার দশটি সমান, তার ওপর জুলুম হয় কীভাবে? বরং হে মন্দকারী, তোমার প্রতি এটা ইনসাফ। আর হে সৎকর্মশীল, তোমার প্রতি এটা অনুগ্রহ, তোমাকে বাড়িয়ে আর ভরপুর করে দেওয়া হয়েছে। মুয়াসসার বলে, প্রত্যেককে তার ভালো-মন্দ আমলের প্রতিদান দেওয়া হবে, কোনো জুলুম তাকে ছোঁবে না। সা'দী বলেন, আল্লাহ তার ওপর অণু পরিমাণ জুলুমও করেন না।"
+          },
+          {
+            "en": "The closing words echo something heard two verses earlier. In 2:279 the lender who repents is told la tazlimuna wa la tuzlamun, you do no wrong and you are not wronged, and Ibn Kathir explains that he receives what he lent, with no increase and no decrease. Here the same root, z-l-m, returns for the Day, now in the third person. The commentaries fetched for this verse do not draw the link; it is simply there in the text, two verses apart.",
+            "bn": "শেষের কথাগুলোর প্রতিধ্বনি শোনা গেছে দুই আয়াত আগেই। ২:২৭৯ আয়াতে তওবাকারী পাওনাদারকে বলা হয়েছে, লা তাযলিমূনা ওয়া লা তুযলামূন, তোমরাও জুলুম করবে না, তোমাদের উপরও জুলুম হবে না। ইবন কাসীর ব্যাখ্যা করেন, সে পাবে ঠিক যতটা ধার দিয়েছিল, বাড়তিও না, কমতিও না। এখানে সেই একই ধাতু, য-ল-ম, ফিরে এসেছে কিয়ামতের দিনের জন্য, এবার নাম পুরুষে। এই আয়াতের যেসব তাফসীর দেখা হয়েছে, সেগুলো এই যোগসূত্রের কথা বলে না। এটা শুধু পাঠের মধ্যেই আছে, দুই আয়াতের ব্যবধানে।"
+          },
+          {
+            "en": "A reader can sit with what that nearness asks. The lender in 2:279 was told to take back his capital and no more, and the borrower in 2:280 was to be given time. Both are measures of fairness between people. The verse that follows sets them beside a measure that never slips. Whoever counts his dues to the last coin in this world is reminded that his own account will be counted just as fully, and without injustice.",
+            "bn": "এই কাছাকাছি থাকা পাঠকের কাছে কী চায়, তা নিয়ে একটু ভাবা যায়। ২:২৭৯ আয়াতের পাওনাদারকে বলা হয়েছে, শুধু মূলধন ফেরত নাও, এর বেশি নয়। আর ২:২৮০ আয়াতের ঋণগ্রহীতাকে সময় দিতে বলা হয়েছে। দুটোই মানুষে মানুষে ন্যায্যতার মাপ। এর পরের আয়াত তাদের পাশে রাখে এমন এক মাপ, যা কখনো এদিক-ওদিক হয় না। দুনিয়ায় যে নিজের পাওনা শেষ পয়সাটি পর্যন্ত গুনে নেয়, তাকে মনে করিয়ে দেওয়া হয়, তার নিজের হিসাবও গোনা হবে ঠিক ততটাই পুরোপুরি, তবে কোনো জুলুম ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Verse Came Last?",
+          "bn": "সবশেষে নাজিল কোন আয়াত?"
+        },
+        "p": [
+          {
+            "en": "Many early reports name this verse as the last of the Qur'an to be revealed. Ibn Kathir gives it from Sa'id ibn Jubayr, and from Ibn 'Abbas by several routes: 'Ikrima's, which he cites from an-Nasa'i, and those of ad-Dahhak, al-'Awfi and Abu Salih. He adds Abu Sa'id through 'Atiyya. At-Tabari lists as-Suddi and 'Atiyya too, and al-Qurtubi names Ibn 'Umar. A footnote in the printed at-Tabari calls the chain of the 'Ikrima report sound. No commentary fetched here attaches a sound hadith of the Prophet ﷺ himself.",
+            "bn": "প্রথম যুগের বহু বর্ণনা বলে, কুরআনের সবশেষে নাজিল হওয়া আয়াত এটিই। ইবন কাসীর কথাটি আনেন সাঈদ ইবন জুবাইর থেকে, আর ইবন আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে: ইকরিমার সূত্র, যা তিনি নাসাঈ থেকে উদ্ধৃত করেন, আর দাহহাক, আওফী ও আবু সালিহের সূত্র। আতিয়্যার মাধ্যমে আবু সাঈদ (রাঃ)-এর বর্ণনাও তিনি যোগ করেন। তাবারীর তালিকায় সুদ্দী আর আতিয়্যাও আছেন, আর কুরতুবী নাম নেন ইবন উমর (রাঃ)-এর। তাবারীর মুদ্রিত সংস্করণের এক টীকা ইকরিমার বর্ণনার সনদকে সহীহ বলে। এখানে দেখা কোনো তাফসীর এ প্রসঙ্গে নবী ﷺ-এর নিজের কোনো সহীহ হাদীস আনে না।"
+          },
+          {
+            "en": "Other reports name other verses. Al-Baghawi cites ash-Sha'bi from Ibn 'Abbas that the last was the verse of riba, and al-Bukhari records that report in his Sahih (4544): Ibn 'Abbas said, \"The last verse revealed to the Prophet ﷺ was the verse of riba.\" At-Tabari cites Sa'id ibn al-Musayyib, who heard that the newest of the Qur'an at the Throne was the debt verse; the footnote calls it weak, since its chain stops short. Al-Qurtubi relates from Ubayy ibn Ka'b, Ibn 'Abbas and Qatada that the last was 9:128.",
+            "bn": "অন্য বর্ণনা অন্য আয়াতের নাম নেয়। বাগাভী শা'বীর সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন যে সবশেষে নাজিল হয়েছিল সুদের আয়াত। বুখারী তাঁর সহীহ গ্রন্থে (৪৫৪৪) বর্ণনাটি এনেছেন: ইবন আব্বাস (রাঃ) বলেন, \"নবী ﷺ-এর ওপর সবশেষে নাজিল হওয়া আয়াত হলো সুদের আয়াত।\" তাবারী আনেন সাঈদ ইবনুল মুসাইয়্যিবের কথা। তাঁর কাছে খবর পৌঁছেছিল, আরশের কাছে কুরআনের সবচেয়ে নতুন অংশ হলো ঋণের আয়াত। টীকাটি একে দুর্বল বলে, কারণ সনদ মাঝপথে থেমে গেছে। কুরতুবী উবাই ইবন কা'ব (রাঃ), ইবন আব্বাস (রাঃ) ও কাতাদা থেকে বর্ণনা করেন যে সবশেষে নাজিল হয় ৯:১২৮।"
+          },
+          {
+            "en": "Al-Bukhari also records from al-Bara' (4654): \"The last verse revealed was: They ask you for a ruling; say, Allah gives you a ruling concerning kalala. And the last surah revealed was Bara'a.\" That is 4:176, and no commentary fetched for this verse cites it here. Al-Qurtubi judges the report naming this verse better known, more often transmitted, sounder and more famous than the 9:128 report. The footnote to at-Tabari quotes Ibn Hajar reconciling the two Ibn 'Abbas reports: this verse closes the riba verses, joined to them by 'and'. Those are their judgements; the reports differ.",
+            "bn": "বুখারী বারা (রাঃ) থেকেও বর্ণনা করেছেন (৪৬৫৪): \"সবশেষে নাজিল হওয়া আয়াত হলো: ইয়াসতাফতূনাকা কুলিল্লাহু ইউফতীকুম ফিল কালালাহ, তারা তোমার কাছে বিধান জানতে চায়, বলো, আল্লাহ তোমাদের কালালা সম্পর্কে বিধান দিচ্ছেন। আর সবশেষে নাজিল হওয়া সূরা হলো বারাআহ।\" এটি ৪:১৭৬, আর এ আয়াতের যেসব তাফসীর দেখা হয়েছে, কোনোটিই এখানে বর্ণনাটি আনে না। কুরতুবীর বিচারে ৯:১২৮-এর বর্ণনার চেয়ে এ আয়াতের পক্ষের বর্ণনা বেশি পরিচিত, বেশি সংখ্যক, বেশি সহীহ ও বেশি প্রসিদ্ধ। তাবারীর টীকা ইবন হাজারের উদ্ধৃতি দেয়, যিনি ইবন আব্বাস (রাঃ)-এর দুই বর্ণনা মিলিয়েছেন এভাবে: এ আয়াত সুদের আয়াতগুলোর সমাপ্তি, 'ওয়া' দিয়ে তাদের সঙ্গে জোড়া। এগুলো তাঁদের বিচার। বর্ণনাগুলো আলাদা আলাদা কথাই বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Long He Lived After",
+          "bn": "এরপর তিনি কত দিন ছিলেন"
+        },
+        "p": [
+          {
+            "en": "The reports differ again on how long the Prophet ﷺ lived after this verse. Ibn Jurayj, in at-Tabari and Ibn Kathir, says people held it was nine nights: his illness began on a Saturday and he died on a Monday. Ibn Kathir has Sa'id ibn Jubayr say nine nights, ending on Monday, 2 Rabi' al-Awwal, while al-Qurtubi and al-Baghawi give Sa'id's figure as seven nights. Al-Baghawi has Ibn 'Abbas say 21 days, al-Qurtubi gives 21 days as Ibn 'Umar's, and Ibn Kathir has Abu Salih report 31 days from Ibn 'Abbas.",
+            "bn": "এ আয়াতের পর নবী ﷺ কত দিন বেঁচে ছিলেন, তা নিয়েও বর্ণনা আলাদা। তাবারী ও ইবন কাসীরে ইবন জুরাইজ বলেন, লোকে বলত ৯ রাত। শনিবার তাঁর অসুস্থতা শুরু হয়, আর সোমবার তিনি ইন্তেকাল করেন। ইবন কাসীরের বর্ণনায় সাঈদ ইবন জুবাইরও বলেন ৯ রাত, আর শেষ দিনটি সোমবার, রবিউল আউয়ালের ২ তারিখ। অথচ কুরতুবী ও বাগাভী সাঈদের সংখ্যা দেন ৭ রাত। বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন ২১ দিন। কুরতুবী ২১ দিনের কথাটি ইবন উমর (রাঃ)-এর বলে উল্লেখ করেন। আর ইবন কাসীরে আবু সালিহ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন ৩১ দিন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives Ibn 'Abbas's figure as 31 days and notes reports of nine. Al-Qurtubi also relates, under \"it was narrated\", three nights and even three hours. Al-Baghawi and al-Qurtubi relate that Jibril told the Prophet ﷺ to place the verse at the head of 280 verses of al-Baqara, and al-Qurtubi adds a report that he said to set it between the riba verse and the debt verse. The figures run from hours to a month. This article sets them side by side and does not choose.",
+            "bn": "মাআরিফুল কুরআন ইবন আব্বাস (রাঃ)-এর সংখ্যা দেয় ৩১ দিন, আর জানায় যে কিছু বর্ণনায় ৯ দিনের কথা আছে। কুরতুবী 'বর্ণিত আছে' বলে ৩ রাতের কথাও আনেন, এমনকি ৩ ঘণ্টার কথাও। বাগাভী ও কুরতুবী বর্ণনা করেন, জিবরীল (আঃ) নবী ﷺ-কে বলেছিলেন আয়াতটি সূরা বাকারার ২৮০ আয়াতের মাথায় বসাতে। কুরতুবী আরেকটি বর্ণনা যোগ করেন যে নবী ﷺ বলেছিলেন, একে সুদের আয়াত আর ঋণের আয়াতের মাঝখানে রাখো। সংখ্যাগুলো কয়েক ঘণ্টা থেকে এক মাস পর্যন্ত ছড়ানো। এই প্রবন্ধ সেগুলো পাশাপাশি রাখছে, কোনোটি বেছে নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Account Closes",
+          "bn": "হিসাবের খাতা বন্ধের আগে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari ends with a plea. Let a person fear his Lord and take his precaution, watching lest his Day come upon him while his back is heavy with burdens and light of good deeds, for Allah warned and left no excuse, and admonished and conveyed in full. As-Sa'di explains how the verse works on the heart: whoever knows he will return to Allah, who repays small and great, and that he will not be wronged, is moved to longing and to dread. Without that knowledge settled in the heart, he says, there is no way to either.",
+            "bn": "তাবারী শেষ করেন এক আকুতি দিয়ে। মানুষ যেন তার রবকে ভয় করে, সাবধান হয়, আর খেয়াল রাখে যেন তার দিনটি এমন অবস্থায় হঠাৎ এসে না পড়ে যখন তার পিঠ গুনাহের বোঝায় ভারী আর নেক আমলে হালকা। কারণ আল্লাহ সতর্ক করে দিয়েছেন, কোনো অজুহাত বাকি রাখেননি। নসিহত করেছেন, পুরোপুরি পৌঁছে দিয়েছেন। আয়াতটি হৃদয়ে কীভাবে কাজ করে, সা'দী তা বুঝিয়ে বলেন। যে জানে সে আল্লাহর কাছে ফিরবে, তিনি ছোট-বড় সবকিছুর প্রতিদান দেবেন, আর তার ওপর জুলুম হবে না, তার ভেতরে আশা আর ভয় দুটোই জাগে। তাঁর কথায়, এই জ্ঞান হৃদয়ে না বসলে এর কোনোটিতেই পৌঁছানোর পথ নেই।"
+          },
+          {
+            "en": "The next verse, 2:282, turns straight back to the ledger: when you contract a debt for a fixed term, write it down. So the reminder of the Day sits between forgiving a debt and recording a debt, and 2:284 later speaks of a reckoning even for what is hidden in the self. For a reader, the verse is a question to carry into every dealing: if the account were opened today, would I lend, wait, collect and write as I do now?",
+            "bn": "পরের আয়াত, ২:২৮২, সোজা ফিরে যায় হিসাবের খাতায়: নির্দিষ্ট মেয়াদে ধারের লেনদেন করলে তা লিখে রাখো। ফলে কিয়ামতের দিনের স্মরণ বসে আছে ঋণ মাফ করা আর ঋণ লিখে রাখার ঠিক মাঝখানে। আর পরে ২:২৮৪ আয়াত বলে, মনের ভেতরে লুকানো জিনিসেরও হিসাব হবে। পাঠকের জন্য আয়াতটি তাই প্রতিটি লেনদেনে সঙ্গে রাখার মতো এক প্রশ্ন: হিসাবের খাতা যদি আজই খোলা হয়, আমি কি এখন যেভাবে ধার দিই, অপেক্ষা করি, আদায় করি আর লিখে রাখি, ঠিক সেভাবেই করব?"
           }
         ]
       }
