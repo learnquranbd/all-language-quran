@@ -78,3 +78,15 @@ t15_21). Before attributing anything to a tafsir, check that the text in `t<ID>_
 actually discusses the target verse (read its Arabic opening and the verse it quotes).
 If not, fetch the neighbouring slot, save it as a new file in the audit folder, and say
 so in the LEDGER. Delete any /tmp files you create before you finish.
+
+## 7. Depth pass (the orchestrator says "DEPTH PASS")
+The key already ships a short article (about 6 sections, 650-860 words) and a card.
+- **Write no notes file.** The shipped card stays: its 13-language translations are
+  keyed by its English text. gate.js sees the missing notes file and skips the card.
+- Write the article from scratch to §2's numbers, under every rule above. Read the
+  shipped short article once (`loadTadabburArticles()[key]`) only to see what it
+  covered. Keep a point from it only if a file fetched for this verse confirms it; it
+  was written under an older, looser source rule. List every point you dropped from
+  it in the LEDGER, and anything in it you found wrong (say what the source says).
+- Its headings may be reused if they fit (gate.js ignores the key's own headings).
+- COMMIT.md opens with one line: "Replaces the N-word, S-section article with ...".

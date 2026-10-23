@@ -15,10 +15,4 @@ echo "bumped v$OLD -> v$(grep -o 'lq-v[0-9]*' sw.js | head -1 | grep -o '[0-9]*'
 # log: mark MERGED so a dead session knows to test+commit, not re-merge
 sed -i "s/^| $KEY *|.*$/| $KEY | v$NEW | MERGED+TESTED (uncommitted) — if session died here: run tests, commit |/" CLAUDE-LOG.md
 T=$(node tests/run.js 2>&1 | tail -2 | grep .); echo "$T"; echo "$T" | grep -q "all checks passed" || { echo "TESTS FAILED: fix before commit (log row stays MERGED+TESTED)"; exit 1; }
-Q='[{"lang":"bn"},{"eval":"LQ.Modules.load(\"tadabbur\").then(()=>\"loaded\")","waitMs":3000},{"eval":"(async()=>{await LQArticle.load(\"tadabbur\",\"K\");const h=LQArticle.html(\"tadabbur\",\"K\",{lc:x=>(x&&(x.bn||x.en))||\"\"});const d=document.createElement(\"div\");d.innerHTML=h;const t=d.textContent.trim();return {sections:LQArticle.get(\"tadabbur\",\"K\").sections.length,words:t.split(/\\s+/).length,bengali:(t.match(/[\\u0980-\\u09FF]/g)||[]).length};})()"}]'
-QA=$(node qa/run.js "${Q//K/$KEY}" 2>&1 | grep -E '"result"|"errors"|consoleErrors|fetchFails' | tail -4); echo "$QA"
-mkdir -p $W/audit/$B; node -e '
-const t=process.argv[1];const r=JSON.parse(JSON.parse((t.match(/"result": (".*")/)||[,"\"{}\""])[1]));
-const clean=/"errors": \[\]/.test(t)&&/"consoleErrors": \[\]/.test(t);
-console.log(`Browser (headless, bn): ${r.sections} sections, ${(r.words||0).toLocaleString("en")} rendered words, ${(r.bengali||0).toLocaleString("en")} Bengali\ncharacters, ${clean?"no console errors":"CHECK CONSOLE ERRORS"}. Tests pass.`)' "$QA" > $W/audit/$B/BROWSER.txt; cat $W/audit/$B/BROWSER.txt
-if [ -f $W/audit/$B/COMMIT.md ]; then echo "commit draft: $W/audit/$B/COMMIT.md"; fi
+tools/wip/round11/browser.sh "$KEY"

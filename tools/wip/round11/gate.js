@@ -11,9 +11,11 @@ const run = (cmd) => { try { return cp.execSync(cmd, { cwd: ROOT, encoding: 'utf
 const words = s => s.trim().split(/\s+/).filter(Boolean).length;
 let bad = 0; const say = (ok, msg) => { if (!ok) bad++; console.log((ok ? 'ok   ' : 'FAIL ') + msg); };
 
-// card
-const card = load(notesF)[key];
-say(!!card, 'card entry present');
+// card (depth pass: no notes file, the shipped card is kept because its 13-language translations are keyed by its English)
+const upgrade = !fs.existsSync(notesF) && key in L.get(L.load('js/tadabbur-data.js'), 'TADABBUR_NOTES');
+if (upgrade) console.log('ok   depth pass: shipped card kept, no notes file');
+const card = upgrade ? null : load(notesF)[key];
+if (!upgrade) say(!!card, 'card entry present');
 if (card) {
   const r = words(card.reflectionEn), l = words(card.lessonEn);
   say(r >= 100 && r <= 130, `card reflectionEn ${r} words (100-130)`);
@@ -22,8 +24,10 @@ if (card) {
   say((card.themes || []).length <= 2, `card themes [${card.themes}]`);
   say(!/\b(Tabari|Qurtubi|Kathir|Baghawi|Bukhari|Muslim|Tirmidhi|Sa'di|hadith \d)/i.test(JSON.stringify(card)), 'card has no scholar names / hadith refs');
 }
-const dry = run(`node tools/merge-tadabbur-notes.js ${path.relative(ROOT, notesF)}`);
-say(/=> CLEAN/.test(dry), 'notes merge dry run' + (/=> CLEAN/.test(dry) ? '' : '\n' + dry));
+if (!upgrade) {
+  const dry = run(`node tools/merge-tadabbur-notes.js ${path.relative(ROOT, notesF)}`);
+  say(/=> CLEAN/.test(dry), 'notes merge dry run' + (/=> CLEAN/.test(dry) ? '' : '\n' + dry));
+}
 
 // article
 const art = load(artF)[key];

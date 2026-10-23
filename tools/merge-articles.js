@@ -23,6 +23,8 @@ const vm = require('vm');
 
 const [chunkFile, targetRel, objName, subjRel, subjArr] = process.argv.slice(2);
 const write = process.argv.includes('--write');
+/* --replace (sharded Tadabbur only): let an id already shipped be overwritten — the depth pass swaps a short article for a deep one. */
+const replace = process.argv.includes('--replace');
 const bandArg = (process.argv.find((a) => /^--band=?/.test(a)) || '').replace(/^--band=?/, '') || (process.argv[process.argv.indexOf('--band') + 1] || '');
 const band = /^\d+-\d+$/.test(bandArg) ? bandArg.split('-').map(Number) : [600, 1100];
 const sharded = targetRel && targetRel.replace(/\/$/, '') === TADABBUR_DIR;
@@ -53,7 +55,7 @@ const problems = [];
 let words = 0, paras = 0, refs = 0;
 for (const [id, entry] of Object.entries(chunk)) {
   if (!validIds.has(id)) problems.push(`${id}: not a known subject id`);
-  if (id in existing) problems.push(`${id}: already present in ${objName}`);
+  if (id in existing && !(replace && sharded)) problems.push(`${id}: already present in ${objName}`);
   if (!entry || !Array.isArray(entry.sections) || !entry.sections.length) { problems.push(`${id}: no sections`); continue; }
   let w = 0;
   for (const [si, sec] of entry.sections.entries()) {
@@ -121,7 +123,7 @@ if (sharded) {
     writeTadabburShard(s, entries);
   }
   const after = loadTadabburArticles();
-  const want = Object.keys(existing).length + Object.keys(chunk).length;
+  const want = Object.keys(merged).length;
   if (Object.keys(after).length !== want) { console.error('COUNT MISMATCH after shard write — inspect js/tadabbur-articles/'); process.exit(1); }
   console.log(`  merged -> ${Object.keys(after).length} subjects across ${[...touched].length} shard(s): ${[...touched].sort((a, b) => a - b).join(', ')}`);
   process.exit(0);
