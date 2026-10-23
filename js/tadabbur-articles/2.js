@@ -4111,89 +4111,149 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Rivals in the Heart",
-          "bn": "হৃদয়ের ভেতরের প্রতিদ্বন্দ্বী"
+          "en": "Proof Given, Rivals Taken",
+          "bn": "দলিল এল, তবু সমকক্ষ"
         },
         "p": [
           {
-            "en": "The verse opens with a diagnosis: among mankind are those who take, besides Allah, andad — rivals — loving them as they love Allah. Andad is the plural of nidd, which in Arabic is not any competitor but a peer, something treated as an equal and a match. The charge is precise. These people did not deny Allah; the pagans of Makkah affirmed Him as Creator. Their disease was dividing the heart's supreme love and handing a share of it elsewhere.",
-            "bn": "আয়াতটি শুরু হয় রোগটা ধরিয়ে দিয়ে: মানুষের মধ্যে এমন কিছু লোক আছে, যারা আল্লাহর পাশাপাশি 'আনদাদ' বা প্রতিদ্বন্দ্বী দাঁড় করায়, আর তাদের ভালোবাসে আল্লাহকে ভালোবাসার মতো করে। আনদাদ হলো নিদ্দ-এর বহুবচন। আরবিতে নিদ্দ মানে যেকোনো প্রতিযোগী নয়, বরং সমকক্ষ, যাকে সমান ও জুড়ি বলে ধরা হয়। অভিযোগটি একেবারে সুনির্দিষ্ট। এই লোকেরা আল্লাহকে অস্বীকার করেনি; মক্কার মুশরিকরা তো তাঁকে স্রষ্টা বলে মানত। তাদের রোগ ছিল, অন্তরের সবচেয়ে বড় ভালোবাসাকে ভাগ করে তার একটা অংশ অন্য কাউকে দিয়ে দেওয়া।"
+            "en": "Wa mina n-nasi man yattakhidhu min duni llahi andadan: and among people are some who take, besides Allah, rivals. Al-Qurtubi reads the verse beside the verse before it. Allah had just set out what shows His oneness, His power and the greatness of His dominion; now He reports that, beside signs that overpower anyone with sense, some still take equals with Him. As-Sa'di opens by admiring how well the verse joins what precedes it, since the proofs of oneness had just been made plain.",
+            "bn": "ওয়া মিনান নাসি মান ইয়াত্তাখিযু মিন দূনিল্লাহি আনদাদা: মানুষের মধ্যে এমন কেউ কেউ আছে, যারা আল্লাহকে ছাড়া অন্যদের সমকক্ষ বানিয়ে নেয়। কুরতুবী আয়াতটি পড়েন আগের আয়াতের পাশে রেখে। আল্লাহ সেখানে দেখিয়েছেন, কী কী তাঁর একত্ব, তাঁর কুদরত আর তাঁর রাজত্বের মহিমার প্রমাণ। এবার জানাচ্ছেন, বিবেকবানকে হার মানানো এত নিদর্শনের পরও কেউ কেউ তাঁর সঙ্গে সমকক্ষ দাঁড় করায়। সা'দী শুরুই করেন মুগ্ধ হয়ে: আগের কথার সঙ্গে এ আয়াতের জোড়াটা কত সুন্দর! একত্বের দলিলগুলো তো এইমাত্র খোলাসা করে বলা হলো।"
           },
           {
-            "en": "The word nidd carries a weight the Prophet ﷺ himself underlined. Al-Bukhari narrates from Ibn Mas'ud (RA) that he asked the Prophet ﷺ which sin is greatest in Allah's sight, and the answer began: that you set up a nidd for Allah while He created you. The greatest of all wrongs, in that answer, is not first an act of violence but a transaction of the heart — giving to a creature what belongs to the One who made you.",
-            "bn": "নিদ্দ শব্দটির ভার নবী ﷺ নিজেই জোর দিয়ে বুঝিয়েছেন। ইমাম বুখারী ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, তিনি নবী ﷺ-কে জিজ্ঞেস করেছিলেন, আল্লাহর কাছে কোন গুনাহ সবচেয়ে বড়। উত্তরের শুরুটা ছিল: তুমি আল্লাহর জন্য নিদ্দ দাঁড় করাবে, অথচ তিনিই তোমাকে সৃষ্টি করেছেন। এই উত্তরে সবচেয়ে বড় অন্যায়টি প্রথমত কোনো সহিংসতা নয়, বরং অন্তরের একটা লেনদেন: যিনি আপনাকে সৃষ্টি করেছেন, তাঁর প্রাপ্য জিনিস কোনো সৃষ্টিকে দিয়ে দেওয়া।"
+            "en": "The Muyassar builds the same link into its first words: with these decisive proofs, a party of people still take rivals. As-Sa'di draws the consequence. Whoever does this after the proof is established and tawhid explained is either opposing Allah or turning away from reflecting on His signs and His creation, and has no excuse left. Ibn Kathir frames the verse as Allah's account of the associaters in this world and their end in the next. The claim of 2:163, your God is one God, is what this verse sees refused.",
+            "bn": "মুয়াসসার এই যোগসূত্র রেখেছে তার প্রথম কথাতেই: এমন অকাট্য দলিলের পরও মানুষের একটি দল সমকক্ষ বানিয়ে নেয়। সা'দী এর পরিণতি টানেন। প্রমাণ দাঁড়িয়ে যাওয়া আর তাওহীদ খুলে বলার পরও যে এমন করে, সে হয় আল্লাহর বিরুদ্ধে জেদ ধরে আছে, নয়তো তাঁর আয়াত নিয়ে ভাবা আর তাঁর সৃষ্টি নিয়ে চিন্তা করা থেকে মুখ ফিরিয়ে আছে। তার কোনো ওজরই আর বাকি থাকে না। ইবন কাসীরের ভাষায়, আয়াতটি মুশরিকদের দুনিয়ার অবস্থা আর আখিরাতে তাদের পরিণামের বিবরণ। ২:১৬৩ আয়াত ঘোষণা করেছিল, তোমাদের ইলাহ একজনই ইলাহ। সেই ঘোষণা কীভাবে প্রত্যাখ্যাত হয়, এ আয়াত তা-ই দেখায়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Rivals Wear Many Faces",
-          "bn": "প্রতিদ্বন্দ্বীর বহু চেহারা"
+          "en": "Idols or Obeyed Masters",
+          "bn": "মূর্তি, নাকি মান্য নেতা"
         },
         "p": [
           {
-            "en": "The commentators refuse to leave the verse safely in the past with carved idols. A nidd, they explain, is whatever receives the love, hope, fear or obedience that belong to Allah alone — a leader followed into clear disobedience, wealth pursued past every limit, a person whose approval outweighs the Creator's command. The verse says these attachments are loved ka-hubbillah, as Allah is loved: the same longing, the same sacrifice, the same fear of loss, aimed at something that cannot sustain it.",
-            "bn": "মুফাসসিররা আয়াতটিকে খোদাই করা মূর্তির যুগে, নিরাপদ দূরত্বে ফেলে রাখতে রাজি নন। তাঁরা ব্যাখ্যা করেন, নিদ্দ হলো এমন যেকোনো কিছু, যা সেই ভালোবাসা, আশা, ভয় বা আনুগত্য পায়, যা কেবল আল্লাহর প্রাপ্য। যেমন: এমন নেতা, যার পেছনে চলতে গিয়ে মানুষ স্পষ্ট নাফরমানিতে জড়ায়; এমন সম্পদ, যার পেছনে সব সীমা ছাড়িয়ে ছোটা হয়; এমন মানুষ, যার সন্তুষ্টি স্রষ্টার হুকুমের চেয়েও ভারী হয়ে যায়। আয়াত বলছে, এসব টানকে ভালোবাসা হয় 'কাহুব্বিল্লাহ', আল্লাহকে যেভাবে ভালোবাসা হয় সেভাবে: একই আকুলতা, একই ত্যাগ, একই হারানোর ভয়। অথচ যার দিকে এসব ঢালা হয়, সে এর ভার বইতে পারে না।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "Stronger in Love",
-          "bn": "ভালোবাসায় আরও প্রবল"
-        },
-        "p": [
-          {
-            "en": "Against this the verse sets its counterweight: but those who believe are ashaddu hubban lillah, more intense in love for Allah. The commentators ask why the believers' love is stronger and answer from the verse's own logic. It is undivided, while the idolater's love is scattered among many claimants. It rests on knowledge of the One loved, so it does not collapse when circumstances turn. And it is anchored in the source of every blessing rather than in one of the blessings.",
-            "bn": "এর বিপরীতে আয়াত রাখে পাল্লার অন্য দিকটা: কিন্তু যারা ঈমান এনেছে, তারা 'আশাদ্দু হুব্বাল লিল্লাহ', আল্লাহর প্রতি ভালোবাসায় আরও প্রবল। মুফাসসিররা প্রশ্ন তোলেন, মুমিনের ভালোবাসা বেশি মজবুত কেন, আর উত্তর খোঁজেন আয়াতের নিজের যুক্তিতেই। মুমিনের ভালোবাসা ভাগ হয়নি, অথচ মুশরিকের ভালোবাসা বহু দাবিদারের মধ্যে ছড়িয়ে আছে। মুমিনের ভালোবাসা দাঁড়িয়ে আছে যাঁকে ভালোবাসে তাঁকে জানার ওপর, তাই অবস্থা বদলালে তা ভেঙে পড়ে না। আর এ ভালোবাসার নোঙর সব নিয়ামতের উৎসে বাঁধা, কোনো একটা নিয়ামতে নয়।"
+            "en": "At-Tabari recalls that a nidd is an 'adl, an equal; the word itself is studied under 2:22. His question here is who these rivals were, and he reports that the people of interpretation differed. Some said they were the gods worshipped besides Allah: this comes through Qatada, Mujahid, ar-Rabi' and Ibn Zayd, who says plainly that these are the associaters and their rivals are the gods they worshipped alongside Allah. Others said they were masters obeyed in disobeying Allah. As-Suddi, in at-Tabari: the rivals are men; when they command, their followers obey them and disobey Allah.",
+            "bn": "তাবারী মনে করিয়ে দেন, নিদ্দ মানে আদল, অর্থাৎ সমান, সমতুল্য। শব্দটির আলোচনা আছে ২:২২ আয়াতে। এখানে তাঁর প্রশ্ন অন্য: এই সমকক্ষরা কারা? তিনি জানান, তাফসীরকারদের মধ্যে মতভেদ আছে। কারও মতে, এরা সেই দেবদেবী, আল্লাহকে ছাড়া যাদের পূজা হতো। এ মত তিনি আনেন কাতাদা, মুজাহিদ, রাবী' আর ইবন যায়দের সূত্রে। ইবন যায়দ সোজা বলেন: এরা মুশরিক, আর তাদের সমকক্ষ হলো সেই উপাস্যরা, আল্লাহর সঙ্গে যাদের ইবাদত তারা করত। অন্যদের মতে, এরা সেই নেতা, যাদের কথা মানা হতো আল্লাহর নাফরমানিতে। তাবারীতে সুদ্দী বলেন: সমকক্ষরা হলো মানুষ। তারা হুকুম দিলে অনুসারীরা তাদের মানত আর আল্লাহর নাফরমানি করত।"
           },
           {
-            "en": "The Quran demonstrates the difference at sea. In 29:65, when the idolaters board a ship, they call on Allah alone, sincere to Him in religion — then, delivered safely to land, they return to their partners. Crisis strips their rivals of pretence in a moment. The believer's love is precisely what remains when that stripping happens, made permanent: the crisis-sincerity of the drowning man, held steadily on dry land.",
-            "bn": "কুরআন এই পার্থক্যটা দেখায় সমুদ্রের মাঝখানে। ২৯:৬৫-এ মুশরিকরা যখন নৌকায় চড়ে, তখন দ্বীনকে আল্লাহর জন্য খাঁটি করে কেবল তাঁকেই ডাকে। তারপর তিনি তাদের নিরাপদে ডাঙায় পৌঁছে দিলে তারা আবার শরিকদের কাছে ফিরে যায়। বিপদ এক মুহূর্তে তাদের প্রতিদ্বন্দ্বীদের মুখোশ খুলে দেয়। মুমিনের ভালোবাসা হলো মুখোশ খুলে যাওয়ার পর যা বাকি থাকে, সেটাই, তবে স্থায়ী রূপে: ডুবতে বসা মানুষের সেই মুহূর্তের একনিষ্ঠতা, শুকনো ডাঙাতেও যা সে অটলভাবে ধরে রাখে।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "When All Power Is Seen",
-          "bn": "যখন সমস্ত শক্তি দৃশ্যমান হবে"
-        },
-        "p": [
-          {
-            "en": "The verse then looks forward with a sentence of terrible clarity: if only those who wronged could see, when they see the punishment, that power belongs to Allah entirely, and that Allah is severe in punishment. The rivals were loved because they seemed to hold benefit — status, protection, provision. On the Day the truth is unveiled, every ounce of quwwah, power, is seen where it always was. The beloved rivals hold nothing and never did.",
-            "bn": "এরপর আয়াতটি সামনের দিকে তাকায় ভয়ংকর রকম স্পষ্ট এক বাক্যে: হায়, জালিমরা যদি দেখত, যখন তারা আজাব দেখবে, যে সমস্ত শক্তি পুরোপুরি আল্লাহরই, আর আল্লাহ শাস্তিদানে কঠোর! প্রতিদ্বন্দ্বীদের ভালোবাসা হতো, কারণ মনে হতো তাদের হাতে কিছু উপকার আছে: মর্যাদা, নিরাপত্তা, রিযিক। যেদিন সত্য খুলে যাবে, সেদিন কুওয়াহ অর্থাৎ শক্তির প্রতিটি কণা দেখা যাবে ঠিক সেখানেই, যেখানে তা সবসময় ছিল। ভালোবাসার ওই প্রতিদ্বন্দ্বীদের হাতে কিছুই নেই, আর কখনো ছিলও না।"
+            "en": "Al-Qurtubi names the same two positions: the idols, from Mujahid, and leaders who are followed and obeyed in sins against Allah, from Ibn 'Abbas and as-Suddi. He adds a point of grammar. The pronoun in yuhibbunahum, they love them, is the one Arabic keeps for rational beings; on the leaders reading it sits in its usual place, and on the idol reading it is used for idols against the usual rule. Al-Baghawi glosses andad simply as idols they worship.",
+            "bn": "কুরতুবীও এই দুটি মতই উল্লেখ করেন। মূর্তির কথা বলেছেন মুজাহিদ। আর ইবন আব্বাস (রাঃ) ও সুদ্দীর মতে, এরা অনুসৃত নেতা, আল্লাহর নাফরমানির কাজে যাদের আনুগত্য করা হয়। তিনি ব্যাকরণের একটি সূক্ষ্ম কথাও যোগ করেন। ইউহিব্বূনাহুম, অর্থাৎ তারা তাদের ভালোবাসে, এই শব্দের সর্বনামটি আরবিতে বুদ্ধিসম্পন্ন সত্তার জন্য রাখা। নেতাদের অর্থ ধরলে সর্বনামটি নিজের স্বাভাবিক জায়গাতেই থাকে। মূর্তির অর্থ ধরলে সাধারণ নিয়মের বাইরে গিয়ে মূর্তির জন্য তা ব্যবহার হয়েছে। বাগাভী আনদাদের ব্যাখ্যা দেন সংক্ষেপে: যেসব মূর্তির তারা পূজা করে।"
           },
           {
-            "en": "The two verses that follow, 2:166-167, complete the scene: the followed disown their followers, the bonds between them are cut, and those who followed wish for one return to the world so they could disown in turn. Every love built on a rival ends in mutual repudiation. The Quran shows this not to satisfy curiosity about the Last Day but so that the repudiation can happen now, voluntarily, while it still counts.",
-            "bn": "পরের দুই আয়াত, ২:১৬৬-১৬৭, দৃশ্যটি পূর্ণ করে। যাদের অনুসরণ করা হতো, তারা অনুসারীদের অস্বীকার করবে; তাদের মাঝের সব বন্ধন ছিঁড়ে যাবে; আর অনুসারীরা আফসোস করবে, যদি একবার দুনিয়ায় ফিরে যাওয়া যেত, তাহলে তারাও ওদের অস্বীকার করত। প্রতিদ্বন্দ্বীর ওপর গড়া প্রতিটি ভালোবাসা শেষে গিয়ে ঠেকে পরস্পরকে অস্বীকারে। কুরআন এটা দেখায় কিয়ামত নিয়ে কৌতূহল মেটাতে নয়, বরং যেন সেই সম্পর্ক ছিন্ন করার কাজটা এখনই, স্বেচ্ছায় হয়ে যায়, যখন তার এখনো মূল্য আছে।"
+            "en": "The Muyassar joins the two: idols, statues and patrons, given a love, reverence and obedience that befit Allah alone. As-Sa'di widens the list to angel, prophet, righteous man, idol or anything else. He also notes what the levelling is not. These people did not make the rivals equal to Allah in creating, providing and directing; they made them equal in worship, worshipping them so that they would bring them near to Him.",
+            "bn": "মুয়াসসার দুটি মতকে এক করে দেখে: মূর্তি, প্রতিমা আর অভিভাবক, যাদের এমন ভালোবাসা, সম্মান ও আনুগত্য দেওয়া হয়, যা কেবল আল্লাহরই প্রাপ্য। সা'দী তালিকাটা আরও বড় করেন: ফেরেশতা হোক, নবী হোক, নেককার মানুষ হোক, মূর্তি হোক বা অন্য কিছু। তিনি এটাও বলে দেন, সমান করাটা কোন জায়গায় নয়। সৃষ্টি করা, রিযিক দেওয়া আর সবকিছু পরিচালনায় তারা এদের আল্লাহর সমান ভাবত না। সমান বানাত ইবাদতে। এদের ইবাদত করত, যেন এরা তাদের আল্লাহর কাছাকাছি পৌঁছে দেয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Love with a Test Attached",
-          "bn": "ভালোবাসার যাচাই"
+          "en": "Loved Like Whose Love?",
+          "bn": "কার ভালোবাসার মতো?"
         },
         "p": [
           {
-            "en": "How does a person know which love actually rules his heart? The Quran supplies the instrument in 3:31, where the claim of loving Allah is tested by following His Messenger ﷺ, and Allah's love and forgiveness are promised in return. Feelings can be argued about endlessly; following can be observed. The supreme love this verse describes is therefore not a private glow but a standing arrangement of one's life around the Beloved's word.",
-            "bn": "কোন ভালোবাসা আসলে নিজের অন্তরে রাজত্ব করছে, মানুষ তা বুঝবে কীভাবে? কুরআন সেই মাপকাঠি দিয়ে দেয় ৩:৩১-এ: আল্লাহকে ভালোবাসার দাবি যাচাই হয় তাঁর রাসূল ﷺ-এর অনুসরণ দিয়ে, আর এর বদলে আল্লাহ নিজের ভালোবাসা ও মাগফিরাতের ওয়াদা দেন। অনুভূতি নিয়ে অনন্তকাল তর্ক চলতে পারে, কিন্তু অনুসরণ চোখে দেখা যায়। তাই এই আয়াত যে সর্বোচ্চ ভালোবাসার কথা বলে, তা মনের গোপন কোনো আবেগ নয়। তা হলো প্রিয়তমের কথাকে কেন্দ্র করে নিজের পুরো জীবনটা স্থায়ীভাবে সাজিয়ে নেওয়া।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "Auditing the Heart",
-          "bn": "হৃদয়ের হিসাব নেওয়া"
-        },
-        "p": [
-          {
-            "en": "The verse invites an audit that no one else can run for you. Ask what you sacrifice for without being asked, what you obey reflexively, what loss frightens you most, what your thoughts return to when they are free. The answers mark where your strongest love currently sits. Nothing in the verse forbids loving family, wealth or comfort; the Quran commands kindness to kin and calls wealth a favour. The question is only ever about rank.",
-            "bn": "আয়াতটি আপনাকে এমন এক হিসাব নিতে ডাকে, যা আপনার হয়ে আর কেউ নিতে পারবে না। নিজেকে জিজ্ঞেস করুন: কেউ না বললেও কীসের জন্য আপনি ত্যাগ স্বীকার করেন? কার কথা আপনি না ভেবেই মেনে নেন? কোন জিনিস হারানোর ভয় আপনাকে সবচেয়ে বেশি তাড়া করে? মন অবসর পেলে কোথায় গিয়ে ফেরে? এই উত্তরগুলোই দেখিয়ে দেয়, আপনার সবচেয়ে প্রবল ভালোবাসা এখন কোথায় বসে আছে। পরিবার, সম্পদ বা আরাম ভালোবাসতে আয়াত কোথাও নিষেধ করে না; কুরআন তো আত্মীয়ের সঙ্গে সদ্ব্যবহারের হুকুম দেয়, সম্পদকে অনুগ্রহ বলে। প্রশ্নটা সবসময় শুধু এই: কোনটা আগে, কোনটা পরে।"
+            "en": "Yuhibbunahum ka-hubbi llah: they love them like the love of Allah. Whose love of Allah? Here the commentators divide. At-Tabari takes it as the believers' love: those who took rivals love them as the believers love Allah. His paraphrase turns to the believers: some people, O believers, take rivals and love them as you love Allah. Ibn Zayd, in at-Tabari, says the same. Al-Qurtubi reports this sense from al-Mubarrad and adds that az-Zajjaj gave it as the meaning.",
+            "bn": "ইউহিব্বূনাহুম কাহুব্বিল্লাহ: তারা তাদের ভালোবাসে আল্লাহকে ভালোবাসার মতো। কিন্তু কার ভালোবাসা? এখানে তাফসীরকারেরা দুই ভাগ। তাবারীর মতে, এটি মুমিনদের ভালোবাসা। যারা সমকক্ষ বানিয়েছে, তারা সেগুলোকে তেমনই ভালোবাসে, যেমন মুমিনরা আল্লাহকে ভালোবাসে। তাঁর ব্যাখ্যায় কথাটা সরাসরি মুমিনদের উদ্দেশে: হে মুমিনগণ, কিছু মানুষ সমকক্ষ বানিয়ে নেয়, আর তোমরা যেমন আল্লাহকে ভালোবাস, তারা তেমনি সেগুলোকে ভালোবাসে। তাবারীতে ইবন যায়দও একই কথা বলেন। কুরতুবী এ অর্থ আনেন মুবাররাদ থেকে, আর জানান যে যাজ্জাজও এই অর্থ দিয়েছেন।"
           },
           {
-            "en": "And rank is corrected the way it was corrupted — gradually, by direction of attention. Love for Allah grows by knowing Him: reading His words as addressed to you, tracing His names in what happens to you, remembering Him until remembrance becomes the heart's default. As that love thickens, the rivals shrink back into what they really are — gifts to be received from Him, enjoyed for Him and, when He asks, surrendered to Him.",
-            "bn": "আর ক্রম যে পথে নষ্ট হয়েছিল, শোধরায়ও সেই পথে: ধীরে ধীরে, মনোযোগের দিক বদলে। আল্লাহর প্রতি ভালোবাসা বাড়ে তাঁকে চেনার মধ্য দিয়ে: তাঁর কালাম এমনভাবে পড়া, যেন আপনাকেই বলা হচ্ছে; নিজের জীবনে যা ঘটে, তাতে তাঁর নামগুলোর ছাপ খোঁজা; আর তাঁকে এত স্মরণ করা যে স্মরণই অন্তরের স্বাভাবিক অবস্থা হয়ে যায়। সেই ভালোবাসা যত গাঢ় হয়, প্রতিদ্বন্দ্বীরা তত ছোট হয়ে নিজেদের আসল জায়গায় ফিরে যায়। তারা আসলে উপহার: তাঁর কাছ থেকে নেওয়ার, তাঁর জন্য উপভোগ করার, আর তিনি চাইলে তাঁর হাতেই ফিরিয়ে দেওয়ার।"
+            "en": "At-Tabari meets the objection himself. Does Allah love the rivals, or did these people love Allah, that it says like the love of Allah? He answers from Arabic usage: I sold my slave like the selling of your slave means as you sold yours, the second person dropped because the context carries it. The other reading is that they love the rivals as they themselves love Allah, setting the two level in love. Al-Qurtubi gives it from Ibn Kaysan and az-Zajjaj, and quotes Abu Ishaq calling it the correct view.",
+            "bn": "আপত্তিটা তাবারী নিজেই তোলেন। আল্লাহ কি ওই সমকক্ষদের ভালোবাসেন? নাকি এরা আল্লাহকে ভালোবাসত, যে কারণে বলা হলো আল্লাহকে ভালোবাসার মতো? জবাব দেন আরবি বাকরীতি থেকে। কেউ বলে, আমার গোলামকে বেচলাম তোমার গোলাম বেচার মতো। মানে, তুমি যেভাবে তোমারটা বেচেছ। প্রসঙ্গ থেকেই বোঝা যায় বলে দ্বিতীয় ব্যক্তির উল্লেখ বাদ পড়ে। অন্য ব্যাখ্যাটি হলো, তারা নিজেরা আল্লাহকে যেমন ভালোবাসে, সমকক্ষদেরও তেমনই ভালোবাসে। ভালোবাসায় দুই পক্ষকে সমান করে ফেলে। কুরতুবী এ মত আনেন ইবন কায়সান ও যাজ্জাজ থেকে, আর আবু ইসহাকের উক্তি উদ্ধৃত করেন যে এটিই সঠিক মত।"
+          },
+          {
+            "en": "Abu Ishaq's evidence, in al-Qurtubi, is the next clause: those who believe are stronger in love for Allah. Al-Baghawi gives both readings, the believers' love first and then az-Zajjaj's levelling. As-Sa'di and the Muyassar both describe the associaters as levelling their rivals with Allah in love, and the Muyassar then has the believers love Allah more than these love Allah and their gods. Both readings stand in the sources, and the charge against the rivals' lovers holds under each.",
+            "bn": "কুরতুবীর বর্ণনায় আবু ইসহাকের দলিল পরের অংশটুকুই: আর যারা ঈমান এনেছে, আল্লাহর প্রতি তাদের ভালোবাসা প্রবলতর। বাগাভী দুটো ব্যাখ্যাই আনেন। আগে মুমিনদের ভালোবাসার অর্থ, তারপর যাজ্জাজের সমান করার অর্থ। সা'দী আর মুয়াসসার দুজনেই বলেন, মুশরিকরা ভালোবাসায় তাদের সমকক্ষদের আল্লাহর সমান করে ফেলে। মুয়াসসার এরপর বলে, এরা আল্লাহকে আর নিজেদের উপাস্যদের যতটা ভালোবাসে, মুমিনরা আল্লাহকে ভালোবাসে তার চেয়ে বেশি। দুটি ব্যাখ্যাই উৎসগ্রন্থে টিকে আছে। আর যেটাই ধরা হোক, সমকক্ষপ্রেমীদের বিরুদ্ধে অভিযোগ একই রকম দাঁড়িয়ে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firmer, Lasting, Undivided",
+          "bn": "দৃঢ়, স্থায়ী, অবিভক্ত"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina amanu ashaddu hubban lillah: and those who believe are stronger in love for Allah. Stronger than whom? Through Qatada, Mujahid and ar-Rabi', at-Tabari answers: than the disbelievers are for their idols. Al-Baghawi explains ashadd as firmer and more lasting. Believers choose nothing over Allah, while an associater who sees an idol finer than his own throws the first away. He quotes Qatada: the disbeliever turns from what he worships when trouble comes and turns to Allah, as 29:65 reports of those on a ship, while the believer does not turn from Allah in ease or hardship.",
+            "bn": "ওয়াল্লাযীনা আমানূ আশাদ্দু হুব্বাল লিল্লাহ: আর যারা ঈমান এনেছে, আল্লাহর প্রতি তাদের ভালোবাসা প্রবলতর। কার চেয়ে প্রবল? কাতাদা, মুজাহিদ ও রাবী'র সূত্রে তাবারীর জবাব: কাফিররা নিজেদের মূর্তিকে যতটা ভালোবাসে, তার চেয়ে। বাগাভী আশাদ্দের অর্থ করেন আরও দৃঢ়, আরও স্থায়ী। মুমিনরা আল্লাহর ওপর অন্য কিছুকে বেছে নেয় না। অথচ মুশরিক একটা মূর্তি নেওয়ার পর আরও সুন্দর একটা দেখলে আগেরটা ফেলে দেয়। তিনি কাতাদার কথা আনেন: বিপদ এলে কাফির নিজের উপাস্য ছেড়ে আল্লাহর দিকে ফেরে, যেমন ২৯:৬৫ আয়াত নৌকায় চড়া লোকদের কথা জানায়। আর মুমিন সুখে-দুঃখে কখনো আল্লাহ থেকে মুখ ফেরায় না।"
+          },
+          {
+            "en": "Ibn Kathir grounds the strength in knowledge: because believers love Allah, know Him fully, revere Him and affirm His oneness, they associate nothing with Him, rely on Him and take every affair to Him. As-Sa'di adds that their love is undivided, while the others shared theirs out, and that they love Him whose love is the servant's good and happiness. Al-Qurtubi and al-Baghawi both add, under it is said, that the believers' love is the greater because Allah loved them first, and cite 5:54, He loves them and they love Him.",
+            "bn": "ইবন কাসীর এই প্রাবল্যের ভিত্তি দেখেন মারিফাতে। মুমিনরা আল্লাহকে ভালোবাসে, তাঁকে পুরোপুরি চেনে, তাঁকে সম্মান করে আর তাঁর একত্ব মানে। তাই তাঁর সঙ্গে কিছুই শরিক করে না, তাঁর ওপরই ভরসা রাখে আর সব কাজে তাঁরই আশ্রয় নেয়। সা'দী যোগ করেন, তাদের ভালোবাসা খাঁটি ও অবিভক্ত, অন্যরা নিজেদের ভালোবাসা ভাগ করে দিয়েছে। তারা এমন সত্তাকে ভালোবাসে, যাঁর ভালোবাসাতেই বান্দার কল্যাণ আর সৌভাগ্য। কুরতুবী ও বাগাভী দুজনেই 'বলা হয়' বলে যোগ করেন: মুমিনদের ভালোবাসা বেশি, কারণ আল্লাহ আগে তাদের ভালোবেসেছেন। প্রমাণ ৫:৫৪ আয়াত: তিনি তাদের ভালোবাসেন, তারাও তাঁকে ভালোবাসে।"
+          },
+          {
+            "en": "Ibn Kathir's hadith here, on the gravest sin, is quoted under 2:22. A narration no fetched commentary ties to this verse speaks to the same rank of love. Muslim (43) narrates in his Sahih from Anas (RA) that the Prophet ﷺ said: There are three qualities for which anyone who is characterised by them will relish the sweetness of faith: he to whom Allah and His Messenger are dearer than all else; he who loves a man for Allah's sake alone; and he who has as great an abhorrence of returning to unbelief after Allah has rescued him from it as he has of being cast into Hell.",
+            "bn": "এখানে ইবন কাসীর যে হাদীস আনেন, সবচেয়ে বড় গুনাহ নিয়ে, সেটি ২:২২ আয়াতের আলোচনায় উদ্ধৃত হয়েছে। আরেকটি বর্ণনা ভালোবাসার এই স্তরের কথাই বলে, যদিও এখানে আনা কোনো তাফসীর একে এ আয়াতের সঙ্গে জোড়েনি। মুসলিম (৪৩) তাঁর সহীহ গ্রন্থে আনাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: তিনটি গুণ যার মধ্যে থাকবে, সে ঈমানের মিষ্টতা পাবে। যার কাছে আল্লাহ ও তাঁর রাসূল অন্য সবকিছুর চেয়ে প্রিয়। যে কাউকে ভালোবাসে কেবল আল্লাহর জন্য। আর আল্লাহ তাকে কুফর থেকে উদ্ধার করার পর সেখানে ফিরে যাওয়াকে যে ততটাই ঘৃণা করে, যতটা ঘৃণা করে জাহান্নামে নিক্ষিপ্ত হওয়াকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Yara or Tara",
+          "bn": "ইয়ারা, নাকি তারা"
+        },
+        "p": [
+          {
+            "en": "Wa law yara lladhina zalamu: and if those who did wrong could see. The readers differ on the verb. At-Tabari reports that most of Madinah and Syria read tara, with ta, if you could see, while the Kufans, the Basrans and the people of Makkah read yara, with ya, if they could see. Al-Qurtubi gives the same map, naming Abu 'Amr among the ya readers and noting that Abu 'Ubayd chose it. Al-Baghawi names Nafi', Ibn 'Amir and Ya'qub for ta. Ibn 'Amir alone reads yurawna, they are shown, for yarawna, they see.",
+            "bn": "ওয়া লাও ইয়ারাল্লাযীনা যালামূ: আর যদি জালিমরা দেখতে পেত। ক্রিয়াটি নিয়ে কারীদের মধ্যে ভিন্নতা আছে। তাবারী জানান, মদীনা ও শামের বেশির ভাগ কারী পড়েন তারা, তা অক্ষরে: যদি তুমি দেখতে। আর কূফা, বসরা ও মক্কার কারীরা পড়েন ইয়ারা, ইয়া অক্ষরে: যদি তারা দেখত। কুরতুবীও একই ভাগ দেখান। ইয়া-র পাঠকদের মধ্যে তিনি আবু আমরের নাম নেন, আর জানান যে আবু উবায়দ এ পাঠই বেছে নিয়েছেন। বাগাভী তা-র পাঠে নাম নেন নাফে', ইবন আমির ও ইয়াকূবের। শুধু ইবন আমির ইয়ারাওনা, তারা দেখে, এর জায়গায় পড়েন ইউরাওনা, তাদের দেখানো হয়।"
+          },
+          {
+            "en": "At-Tabari prefers tara. Once the wrongdoers see the punishment they are already certain that all power is Allah's, he argues, and if only you saw is said to someone who has not seen. The address is to the Prophet ﷺ, who knew it without doubt, but it means others. Al-Qurtubi says the same: the Prophet ﷺ knew, but his community is meant, and some of them need such a scene to strengthen what they know.",
+            "bn": "তাবারী পছন্দ করেন তারা পাঠ। তাঁর যুক্তি: আযাব চোখে দেখার মুহূর্তে জালিমরা তো নিশ্চিত হয়েই যাবে যে সব শক্তি আল্লাহর। আর যদি দেখতে, এ কথা বলা হয় তাকে, যে এখনো দেখেনি। সম্বোধন নবী ﷺ-কে, যিনি নিঃসন্দেহে এটা জানতেন, কিন্তু উদ্দেশ্য অন্যরা। কুরতুবীও একই কথা বলেন: নবী ﷺ জানতেন, তবে উদ্দেশ্য তাঁর উম্মত। তাদের কারও কারও জ্ঞান পোক্ত করতে এমন দৃশ্যের দরকার হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer Left Unspoken",
+          "bn": "যে জবাব উচ্চারিত হয়নি"
+        },
+        "p": [
+          {
+            "en": "A sentence opening with law, if, usually has an answer. Here it is not stated, and al-Baghawi notes this is common in the Qur'an, citing 13:31. Each reading supplies its own. On ta, al-Baghawi gives: you would have seen a tremendous thing. On ya: they would have known the harm of disbelief, and that the idols they took do not benefit them. At-Tabari, on tara, supplies: you would have seen that all power belongs to Allah.",
+            "bn": "লাও, অর্থাৎ যদি দিয়ে শুরু হওয়া বাক্যের সাধারণত একটা জবাব থাকে। এখানে তা বলা হয়নি। বাগাভী জানান, কুরআনে এমন অনেক আছে, আর উদাহরণ দেন ১৩:৩১ আয়াত। প্রতিটি পাঠ নিজের মতো জবাবটা পূরণ করে নেয়। বাগাভীর মতে, তা-র পাঠে অর্থ: তুমি এক ভয়ংকর ব্যাপার দেখতে। ইয়া-র পাঠে: তারা কুফরের ক্ষতি বুঝত, আর বুঝত যে যেসব মূর্তি তারা নিয়েছে, সেগুলো তাদের কোনো উপকার করে না। তাবারী তারা পাঠে জবাবটা পূরণ করেন এভাবে: তুমি দেখতে, সব শক্তি আল্লাহরই।"
+          },
+          {
+            "en": "Al-Qurtubi records a dispute over the ya reading. Abu 'Ubayd took it as: if those who did wrong in this world saw the punishment of the next, they would know on seeing it that all power is Allah's. An-Nahhas says this is the view of the people of tafsir. Muhammad ibn Yazid called it far-fetched, since it seems to leave the punishment in doubt when Allah has made it certain. With al-Akhfash, he took yara as knew: had they known Allah's power, they would have seen the harm of taking gods.",
+            "bn": "ইয়া-র পাঠ নিয়ে কুরতুবী একটি বিতর্ক তুলে ধরেন। আবু উবায়দের ব্যাখ্যা: দুনিয়ার জালিমরা যদি আখিরাতের আযাব দেখত, তবে দেখামাত্র বুঝত যে সব শক্তি আল্লাহর। নাহহাস বলেন, তাফসীরকারদের মত এটাই। মুহাম্মাদ ইবন ইয়াযীদ এ ব্যাখ্যাকে দূরবর্তী বলেছেন। কারণ এতে আযাবকে যেন সন্দেহের বিষয় বানানো হয়, অথচ আল্লাহ তা অবধারিত করে দিয়েছেন। আখফাশের মতো তিনি ইয়ারা-র অর্থ নেন জানত: তারা যদি আল্লাহর শক্তির প্রকৃত রূপ জানত, তবে উপাস্য বানানোর ক্ষতি স্পষ্ট দেখতে পেত।"
+          },
+          {
+            "en": "Why leave the answer unsaid? Al-Qurtubi reports az-Zuhri and Qatada: leaving it unspoken is the heavier threat, like saying, if you had seen so-and-so with the whips upon him, and stopping there. The Muyassar supplies the practical answer: they would not have taken gods besides Allah. Ibn Kathir's is close: had they known what they will face, they would have given up their misguidance. Al-Qurtubi also explains idh, a word for the past, used here of the future: it brings the event near and affirms that it will happen.",
+            "bn": "জবাবটা না বলে রাখা কেন? কুরতুবী যুহরী ও কাতাদার কথা আনেন: না বলাটাই বেশি ভয়ের হুমকি। যেমন কেউ বলে, অমুককে যদি দেখতে, যখন চাবুক তার ওপর পড়ছিল! তারপর থেমে যায়। মুয়াসসার জবাবটা দেয় কাজের ভাষায়: তবে তারা আল্লাহকে ছাড়া কাউকে উপাস্য বানাত না। ইবন কাসীরের জবাবও কাছাকাছি: সামনে কী অপেক্ষা করছে তা জানলে তারা পথভ্রষ্টতা ছেড়ে দিত। কুরতুবী ইয, এই শব্দটিরও ব্যাখ্যা দেন। শব্দটি অতীতের জন্য, অথচ এখানে এসেছে ভবিষ্যতের ঘটনায়। এতে ঘটনাটা কাছে চলে আসে, আর তা যে ঘটবেই, সেটা পাকা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Power That Was Always His",
+          "bn": "শক্তি বরাবরই তাঁর"
+        },
+        "p": [
+          {
+            "en": "Anna l-quwwata lillahi jami'an: that all power belongs to Allah. Ibn Kathir explains it as judgement belonging to Him alone, with all things under His force and authority, and pairs severe in punishment with 89:25 and 89:26. At-Tabari, on the reading with inna, makes it power in this world and the next, His and not the rivals'. In his closing paraphrase Allah says: you would know then that the rivals and gods avail them nothing there and avert no punishment.",
+            "bn": "আন্নাল কুওয়াতা লিল্লাহি জামী'আ: সব শক্তি আল্লাহর। ইবন কাসীরের ব্যাখ্যায়, ফয়সালার অধিকার কেবল তাঁর, আর সবকিছু তাঁর প্রতাপ ও কর্তৃত্বের অধীন। শাস্তিদানে কঠোর, এ অংশের পাশে তিনি রাখেন ৮৯:২৫ ও ৮৯:২৬ আয়াত। তাবারী ইন্না-র পাঠ ব্যাখ্যা করতে গিয়ে বলেন, দুনিয়া ও আখিরাতে সব শক্তি তাঁর, সমকক্ষদের নয়। তাঁর শেষ ব্যাখ্যায় আল্লাহর কথা এভাবে আসে: তখন তোমরা জানতে, ওই সমকক্ষ আর উপাস্যরা সেখানে তাদের কোনো কাজে আসে না, কোনো আযাবও ঠেকাতে পারে না।"
+          },
+          {
+            "en": "As-Sa'di describes the reversal. They would know with certainty that power and ability are all Allah's and their rivals have none. That Day lays bare the rivals' weakness, unlike this world, where they imagined these held some say and would bring them near to Him. Harm reaches them from where they expected benefit. Ma'arif al-Qur'an adds that the chance came earlier: their frustrations with their gods could have shown them that the gods were helpless.",
+            "bn": "সা'দী এই উল্টে যাওয়ার ছবি আঁকেন। তারা নিশ্চিতভাবে জানবে, শক্তি আর ক্ষমতা সবটাই আল্লাহর, তাদের সমকক্ষদের এর কিছুই নেই। সেদিন সমকক্ষদের দুর্বলতা খুলে যাবে। দুনিয়ায় তারা ভাবত, এদের হাতে কিছু ক্ষমতা আছে, এরা তাদের আল্লাহর কাছে পৌঁছে দেবে। যেখান থেকে উপকার আশা করেছিল, ক্ষতি আসে সেখান থেকেই। মাআরিফুল কুরআন যোগ করে, সুযোগটা আগেই ছিল। নিজেদের উপাস্যদের কাছে বারবার হতাশ হওয়া থেকেই তারা বুঝতে পারত, ওরা অসহায়।"
+          },
+          {
+            "en": "Who are those who did wrong? Ibn Kathir and the Muyassar say they wronged themselves by shirk; as-Sa'di adds that they wronged people too, by barring them from Allah's path. The verse describes those who take rivals and what they will see. It names no living person or community and licenses nothing against anyone. Its warning is put before every reader about the reader's own heart, not handed out as a verdict on others.",
+            "bn": "জালিম কারা? ইবন কাসীর ও মুয়াসসার বলেন, শিরক করে তারা নিজেদের ওপর জুলুম করেছে। সা'দী যোগ করেন, আল্লাহর পথ থেকে মানুষকে ফিরিয়ে রেখে তারা মানুষের ওপরও জুলুম করেছে। আয়াতটি বর্ণনা করে, যারা সমকক্ষ বানায় তারা কী দেখবে। এখানে কোনো জীবিত মানুষ বা সম্প্রদায়ের নাম নেই। কারও বিরুদ্ধে কিছু করার অনুমতিও এ আয়াত দেয় না। এর সতর্কবাণী প্রত্যেক পাঠকের সামনে রাখা, তাঁর নিজের অন্তর নিয়ে। অন্যদের ওপর রায় দেওয়ার জন্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Followers Left Alone",
+          "bn": "অনুসারীরা একা পড়ে রইল"
+        },
+        "p": [
+          {
+            "en": "The next two verses, 2:166 and 2:167, finish the scene. Those who were followed disown those who followed them, all of them see the punishment, and the ties between them are cut. As-Sa'di says why the bonds snap: they were made for other than Allah and rested on what has no reality. Ibn Kathir's abridged English counts the angels among those who will disown their worshippers, citing 28:63. The followers then wish for a return, to disown in turn.",
+            "bn": "পরের দুটি আয়াত, ২:১৬৬ ও ২:১৬৭, দৃশ্যটা শেষ করে। যাদের অনুসরণ করা হতো, তারা অনুসারীদের সঙ্গে সম্পর্ক অস্বীকার করবে। সবাই আযাব দেখবে, আর তাদের মাঝের সব বন্ধন ছিঁড়ে যাবে। বন্ধনগুলো কেন ছেঁড়ে, সা'দী তা বলেন: সেগুলো গড়া হয়েছিল আল্লাহ ছাড়া অন্যের জন্য, আর দাঁড়িয়ে ছিল এমন কিছুর ওপর, যার কোনো বাস্তবতা নেই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২৮:৬৩ আয়াত টেনে ফেরেশতাদেরও তাদের মধ্যে গোনে, যারা নিজেদের উপাসকদের অস্বীকার করবে। তখন অনুসারীরা আরেকবার ফিরে যেতে চাইবে, যাতে তারাও পাল্টা অস্বীকার করতে পারে।"
+          },
+          {
+            "en": "As-Sa'di closes with the contrast. Whoever clings to Allah, the true King, and makes his deeds sincere for Him, has put the truth in its place; his deeds hold because what they rest on holds. The verse leaves its reader a question as much as a warning: whose approval does the heart run to first, while seeing is still a choice and not yet a sentence?",
+            "bn": "সা'দী শেষ করেন বিপরীত ছবিটা দিয়ে। যে আল্লাহকে আঁকড়ে ধরে, যিনি সত্য অধিপতি, আর নিজের আমল খাঁটি করে তাঁরই জন্য, সে হককে তার জায়গায় রেখেছে। তার আমল টিকে থাকে, কারণ যার ওপর তা দাঁড়িয়ে, তা টিকে থাকে। আয়াতটি পাঠকের হাতে সতর্কবাণীর সঙ্গে একটি প্রশ্নও রেখে যায়: অন্তর সবার আগে কার সন্তুষ্টির দিকে ছোটে? দেখাটা এখনো নিজের বেছে নেওয়ার বিষয়, তা রায় হয়ে যাওয়ার আগেই প্রশ্নটা করে নেওয়া ভালো।"
           }
         ]
       }
