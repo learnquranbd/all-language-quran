@@ -1,0 +1,75 @@
+# PREP 80:7
+
+## Verses (target marked >>), Arabic word counts exclude pause marks
+
+   80:1 [2 words] عَبَسَ وَتَوَلَّىٰٓ
+   EN: He [i.e., the Prophet (ﷺ) ] frowned and turned away
+   BN: (নবী) মুখ ভার করল আর মুখ ঘুরিয়ে নিল।
+
+   80:2 [3 words] أَن جَآءَهُ ٱلْأَعْمَىٰ
+   EN: Because there came to him the blind man,1 [interrupting].
+   BN: (কারণ সে যখন কুরায়শ সরদারদের সাথে আলোচনায় রত ছিল তখন) তার কাছে এক অন্ধ ব্যক্তি আসল।
+
+   80:3 [4 words] وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ
+   EN: But what would make you perceive, [O Muḥammad], that perhaps he might be purified1
+   BN: (হে নবী!) তুমি কি জান, সে হয়ত পরিশুদ্ধ হত।
+
+   80:4 [4 words] أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ
+   EN: Or be reminded and the remembrance would benefit him?
+   BN: কিংবা উপদেশ গ্রহণ করত, ফলে উপদেশ তার উপকারে লাগত।
+
+   80:5 [3 words] أَمَّا مَنِ ٱسْتَغْنَىٰ
+   EN: As for he who thinks himself without need,1
+   BN: পক্ষান্তরে যে পরোয়া করে না,
+
+   80:6 [3 words] فَأَنتَ لَهُۥ تَصَدَّىٰ
+   EN: To him you give attention.
+   BN: তার প্রতি তুমি মনোযোগ দিচ্ছ।
+
+>> 80:7 [4 words] وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+   EN: And not upon you [is any blame] if he will not be purified.1
+   BN: সে পরিশুদ্ধ না হলে তোমার উপর কোন দোষ নেই।
+
+   80:8 [4 words] وَأَمَّا مَن جَآءَكَ يَسْعَىٰ
+   EN: But as for he who came to you striving [for knowledge]
+   BN: পক্ষান্তরে যে লোক তোমার কাছে ছুটে আসল।
+
+   80:9 [2 words] وَهُوَ يَخْشَىٰ
+   EN: While he fears [Allāh],
+   BN: আর সে ভয়ও করে,
+
+   80:10 [3 words] فَأَنتَ عَنْهُ تَلَهَّىٰ
+   EN: From him you are distracted.
+   BN: তুমি তার প্রতি অমনোযোগী হলে।
+
+   80:11 [3 words] كَلَّآ إِنَّهَا تَذْكِرَةٌۭ
+   EN: No! Indeed, they [i.e., these verses] are a reminder;
+   BN: না, এটা মোটেই ঠিক নয়, এটা তো উপদেশ বাণী,
+
+   80:12 [3 words] فَمَن شَآءَ ذَكَرَهُۥ
+   EN: So whoever wills may remember it.1
+   BN: কাজেই যার ইচ্ছে তা স্মরণে রাখবে,
+
+   80:13 [3 words] فِى صُحُفٍۢ مُّكَرَّمَةٍۢ
+   EN: [It is recorded] in honored sheets,
+   BN: (এটা লিপিবদ্ধ আছে) মর্যাদাসম্পন্ন কিতাবসমূহে
+
+
+## Shipped cards/articles in surah 80 within ±25 (read a full article only if you must)
+
+- 80:24: lesson: Reflection starts as close as your own plate — every meal is a sign pointing to its Provider.
+    headings: Four Words of Command | What Came Just Before | Every Verb Is His | Down to the Livestock | At the Table
+
+## Tafsir files (read these; do not re-fetch). Size in chars; "covers" = verse keys the API grouped
+
+- tools/wip/round11/audit/80_7/t14_7.txt  Ibn Kathir (ar)  40 chars  covers 80:7
+- tools/wip/round11/audit/80_7/t15_7.txt  at-Tabari  83 chars  covers 80:7
+- tools/wip/round11/audit/80_7/t16_7.txt  al-Muyassar  83 chars  covers 80:5,80:6,80:7  (grouped)
+- tools/wip/round11/audit/80_7/t90_7.txt  al-Qurtubi  70 chars  covers 80:7
+- tools/wip/round11/audit/80_7/t91_7.txt  as-Sa'di  503 chars  covers 80:7
+- tools/wip/round11/audit/80_7/t94_7.txt  al-Baghawi  64 chars  covers 80:7
+- tools/wip/round11/audit/80_7/t168_7.txt  Ma'arif (en)  3837 chars  covers 80:3,80:4,80:5,80:6,80:7,80:8,80:9,80:10,80:11,80:12  (grouped)
+- tools/wip/round11/audit/80_7/t169_7.txt  Ibn Kathir (en, abridged)  4801 chars  covers 80:1,80:2,80:3,80:4,80:5,80:6,80:7,80:8,80:9,80:10  (grouped)
+
+Hadith: node tools/wip/round11/hadith.js Bukhari 660   (also Muslim, AbuDawud, Tirmidhi, Nasai, IbnMajah)
+Gates: node tools/wip/round11/gate.js 80:7

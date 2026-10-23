@@ -1,0 +1,71 @@
+# PREP 80:37
+
+## Verses (target marked >>), Arabic word counts exclude pause marks
+
+   80:31 [2 words] وَفَٰكِهَةًۭ وَأَبًّۭا
+   EN: And fruit and grass -
+   BN: আর নানান জাতের ফল আর ঘাস-লতাপাতা।
+
+   80:32 [3 words] مَّتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ
+   EN: [As] enjoyment [i.e., provision] for you and your grazing livestock.
+   BN: তোমাদের আর তোমাদের গৃহপালিত পশুগুলোর ভোগের জন্য।
+
+   80:33 [3 words] فَإِذَا جَآءَتِ ٱلصَّآخَّةُ
+   EN: But when there comes the Deafening Blast1
+   BN: অবশেষে যখন কান-ফাটানো শব্দ আসবে;
+
+   80:34 [5 words] يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ
+   EN: On the Day a man will flee from his brother
+   BN: সেদিন মানুষ পালিয়ে যাবে তার ভাই থেকে,
+
+   80:35 [2 words] وَأُمِّهِۦ وَأَبِيهِ
+   EN: And his mother and his father
+   BN: তার মা, তার বাপ,
+
+   80:36 [2 words] وَصَٰحِبَتِهِۦ وَبَنِيهِ
+   EN: And his wife and his children,
+   BN: তার স্ত্রী ও তার সন্তান থেকে,
+
+>> 80:37 [6 words] لِكُلِّ ٱمْرِئٍۢ مِّنْهُمْ يَوْمَئِذٍۢ شَأْنٌۭ يُغْنِيهِ
+   EN: For every man, that Day, will be a matter adequate for him.1
+   BN: সেদিন তাদের প্রত্যেকেই নিজেকে নিয়ে ব্যতিব্যস্ত থাকবে।
+
+   80:38 [3 words] وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ
+   EN: [Some] faces, that Day, will be bright -
+   BN: সেদিন কতক মুখ উজ্জ্বল হবে,
+
+   80:39 [2 words] ضَاحِكَةٌۭ مُّسْتَبْشِرَةٌۭ
+   EN: Laughing, rejoicing at good news.
+   BN: সহাস্য, উৎফুল্ল।
+
+   80:40 [4 words] وَوُجُوهٌۭ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۭ
+   EN: And [other] faces, that Day, will have upon them dust.
+   BN: সেদিন কতক মুখ হবে ধূলিমলিন।
+
+   80:41 [2 words] تَرْهَقُهَا قَتَرَةٌ
+   EN: Blackness will cover them.
+   BN: কালিমা ওগুলোকে আচ্ছন্ন করবে।
+
+   80:42 [4 words] أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
+   EN: Those are the disbelievers, the wicked ones.
+   BN: তারাই আল্লাহকে প্রত্যাখ্যানকারী, পাপাচারী।
+
+
+## Shipped cards/articles in surah 80 within ±25 (read a full article only if you must)
+
+- 80:24: lesson: Reflection starts as close as your own plate — every meal is a sign pointing to its Provider.
+    headings: Four Words of Command | What Came Just Before | Every Verb Is His | Down to the Livestock | At the Table
+
+## Tafsir files (read these; do not re-fetch). Size in chars; "covers" = verse keys the API grouped
+
+- tools/wip/round11/audit/80_37/t14_37.txt  Ibn Kathir (ar)  2325 chars  covers 80:37
+- tools/wip/round11/audit/80_37/t15_37.txt  at-Tabari  1118 chars  covers 80:37
+- tools/wip/round11/audit/80_37/t16_37.txt  al-Muyassar  178 chars  covers 80:34,80:35,80:36,80:37  (grouped)
+- tools/wip/round11/audit/80_37/t90_37.txt  al-Qurtubi  794 chars  covers 80:37
+- tools/wip/round11/audit/80_37/t91_37.txt  as-Sa'di  165 chars  covers 80:37
+- tools/wip/round11/audit/80_37/t94_37.txt  al-Baghawi  552 chars  covers 80:37
+- tools/wip/round11/audit/80_37/t168_37.txt  Ma'arif (en)  1501 chars  covers 80:34,80:35,80:36,80:37,80:38,80:39,80:40,80:41,80:42  (grouped)
+- tools/wip/round11/audit/80_37/t169_37.txt  Ibn Kathir (en, abridged)  4260 chars  covers 80:33,80:34,80:35,80:36,80:37,80:38,80:39,80:40,80:41,80:42  (grouped)
+
+Hadith: node tools/wip/round11/hadith.js Bukhari 660   (also Muslim, AbuDawud, Tirmidhi, Nasai, IbnMajah)
+Gates: node tools/wip/round11/gate.js 80:37
