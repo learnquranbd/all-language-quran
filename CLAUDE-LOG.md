@@ -14,13 +14,14 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## LIVE STATE (2026-10-23, DEPTH PASS started on claude-max, NORMAL: 5h 0%, 7d 33% (resets Mon 26 Oct 16:00); 5 drafters)
+## LIVE STATE (2026-10-23 end of day, DEPTH PASS: 30/299 done, v1009-v1038 DEPLOYED; USER said stop for today. Usage 5h 24% (resets Sat 24 Oct 01:20), 7d 43% (resets Mon 26 Oct 16:00))
 USER: "continue unfinished job" -> the depth pass of the original 299 short articles (650-860 words, ~6 sections) to the deep template.
 - Articles only; the shipped cards are KEPT (their 13-lang translations are keyed by the EN text; rewriting a card = English in 13 langs).
 - Tools: `node tools/wip/round11/upgrade-queue.js [N]` (next keys), prep.js as before, drafter prompt "Read tools/wip/round11/BRIEF.md and follow it exactly. DEPTH PASS (§7). Key: X." + watch-points, gate.js (no notes file = depth mode), `tools/wip/round11/ship-upgrade.sh <key>` (merge-articles.js --replace, new flag), commit.sh as before.
 - Deploy after every tenth ayah, as in the main loop.
 - Apache is down this session: ship with `QA_BASE=http://127.0.0.1:8099` (python http.server on 8099 from /var/www/html; memory qa-harness-without-apache). browser.sh re-runs the bn check alone.
-- v1009-v1029 pushed (origin + pro) and DEPLOYED, live sw.js = lq-v1029 (checked 2026-10-23). Push: gh active account is miningshahin (403); push with the learnquranbd token, see memory git-push-account.
+- v1009-v1038 pushed (origin + pro) and DEPLOYED, live sw.js = lq-v1038 (checked 2026-10-23). Push: gh active account is miningshahin (403); push with the learnquranbd token, see memory git-push-account.
+- USER (2026-10-23): "once done, stop for today". All in-flight drafts shipped; nothing in flight. NEXT: `node tools/wip/round11/upgrade-queue.js` (269 left; next 3:102-103 3:133-134 3:139 ...), prep + launch 5.
 
 | key | v | status |
 |---|---|---|
@@ -43,14 +44,17 @@ USER: "continue unfinished job" -> the depth pass of the original 299 short arti
 | 2:216 | v1025 | DONE |
 | 2:222 | v1026 | DONE |
 | 2:238 | v1027 | DONE |
-| 2:255 | | LAUNCHED |
+| 2:255 | v1030 | DONE |
 | 2:257 | v1029 | DONE |
 | 2:261 | v1028 | DONE |
-| 2:281 | | LAUNCHED |
-| 2:284 | | LAUNCHED |
-| 2:286 | | HELD until 2:284 ships (same narrations) |
-| 3:8 | | LAUNCHED |
-| 3:26-27 | | LAUNCHED |
+| 2:281 | v1031 | DONE |
+| 2:284 | v1032 | DONE |
+| 2:286 | v1038 | DONE |
+| 3:8 | v1033 | DONE |
+| 3:26-27 | v1035 | DONE |
+| 3:31 | v1036 | DONE |
+| 3:38 | v1034 | DONE |
+| 3:92 | v1037 | DONE |
 
 ## Earlier (2026-10-19 e): hadith citation check DONE, v1008 (committed, not pushed; USER: commit only)
 - 5 agents (tools/content-i18n/work/HADCHK/BRIEF.md) checked ~440 citations: islam-nafl 4 fixes, makruh+zakat 7, mustahabb 2 (istikhara Bukhari 1162 -> 1166, confirmed sunnah.com; plus names-data x3 and prayer guide x1 fixed by hand), amal+sawm 3, wajib+fard+hajj 10 (+5 Bengali ও corruptions in Hajj). Open doubts: HADCHK/DOUBTS.md (incl. a sawm kaffara RULING for the user).
