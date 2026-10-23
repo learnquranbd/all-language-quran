@@ -6,17 +6,23 @@ description: Add Tadabbur verses one ayah at a time — card plus deep bilingual
 # Tadabbur enrichment loop
 
 The standing working agreement for this module. Follow it without asking. The
-user is on Claude Pro, so **plan usage is the binding constraint**. Every rule below
+account (claude-max) has **plan usage as the binding constraint**. Every rule below
 serves getting the most ayat out of it.
 
 ## 1. Start of run: budget first
 Read `CLAUDE-LOG.md` (short; the state lives there), then run
 `node tools/wip/round11/budget.js`. It reads the plan usage the statusline saves
-(`~/.claude-personal/statusline-usage.sh` → `~/.claude-personal/state/statusline-last.json`).
+for the account running THIS session: it picks the `<account>/state` dir whose
+`statusline-last.json` `session_id` matches `$CLAUDE_CODE_SESSION_ID` (freshest-file
+fallback). This machine has two accounts — `~/.claude` (claude-max, where this runs)
+and `~/.claude-personal` — so it must never be hardcoded to one. See memory
+`two-claude-accounts`.
 Obey its mode. It measures what each ayah actually cost: the usage change between
 consecutive Tadabbur commits, from the statusline's `usage-history.tsv`. It takes the
 worst of the last 5 × 1.2 as the safe cost and prints how many ayat fit under 95%:
-- **NORMAL** (2 or more fit, and usage under 65%): 2 drafters in parallel.
+- **NORMAL** (2 or more fit, and usage under 65%): run drafters in parallel up to the
+  account cap — **5 on claude-max, 2 on claude-pro** — but never more than `fit`.
+  budget.js prints the account and the recommended number; obey it.
 - **LOW** (1 fits): 1 drafter at a time.
 - **WIND-DOWN** (0 fit): **launch no new drafter**, because it would die mid-draft
   at the limit. Finish only what is in flight (resume, gate, ship, commit), push and

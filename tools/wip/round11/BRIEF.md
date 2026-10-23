@@ -69,3 +69,12 @@ sunnah.com returns 403, so don't try it.
 - **Final reply: at most 12 lines.** Give the gate.js summary line, the EN word count
   and section count, and anything the orchestrator must decide or verify. Don't paste
   the ledger or the headings; they are in the files.
+
+## 6. Tafsir slot check (at-Tabari especially)
+The quran.com API files a grouped tafsir's text under one verse slot, and the slot is
+sometimes a neighbour of the verse the text discusses. Seen: at-Tabari on 82:11 filed
+under 82:12, at-Tabari on 83:21 filed under 83:20 (prep.js had saved his 83:22 text as
+t15_21). Before attributing anything to a tafsir, check that the text in `t<ID>_<v>.txt`
+actually discusses the target verse (read its Arabic opening and the verse it quotes).
+If not, fetch the neighbouring slot, save it as a new file in the audit folder, and say
+so in the LEDGER. Delete any /tmp files you create before you finish.

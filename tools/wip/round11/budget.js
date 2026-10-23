@@ -50,6 +50,7 @@ const c5 = [], c7 = [];
 for (let i = 1; i < commits.length; i++) {
   const a = at(commits[i - 1][0]), b = at(commits[i][0]);
   if (!a || !b || a === b || b[0] - commits[i - 1][0] > 7200) continue;   // need a reading close to both commits
+  if (Math.abs(b[2] - a[2]) > 25) continue;   // 7d jump no ayah can cause: readings from two accounts (switch)
   if (b[1] >= a[1]) c5.push(b[1] - a[1]);   // a drop means the 5h window reset in between: unusable
   if (b[2] >= a[2]) c7.push(b[2] - a[2]);
 }
