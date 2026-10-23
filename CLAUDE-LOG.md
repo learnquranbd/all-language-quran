@@ -19,14 +19,26 @@ USER: "continue unfinished job" -> the depth pass of the original 299 short arti
 - Articles only; the shipped cards are KEPT (their 13-lang translations are keyed by the EN text; rewriting a card = English in 13 langs).
 - Tools: `node tools/wip/round11/upgrade-queue.js [N]` (next keys), prep.js as before, drafter prompt "Read tools/wip/round11/BRIEF.md and follow it exactly. DEPTH PASS (§7). Key: X." + watch-points, gate.js (no notes file = depth mode), `tools/wip/round11/ship-upgrade.sh <key>` (merge-articles.js --replace, new flag), commit.sh as before.
 - Deploy after every tenth ayah, as in the main loop.
+- Apache is down this session: ship with `QA_BASE=http://127.0.0.1:8099` (python http.server on 8099 from /var/www/html; memory qa-harness-without-apache). browser.sh re-runs the bn check alone.
+- v1009-v1018 pushed (origin + pro) and DEPLOYED, live sw.js = lq-v1018 (checked 2026-10-23). Push: gh active account is miningshahin (403); push with the learnquranbd token, see memory git-push-account.
 
 | key | v | status |
 |---|---|---|
-| 1:1-5 | | LAUNCHED |
-| 1:6 | | LAUNCHED |
-| 2:2 | v1009 | MERGED+TESTED (uncommitted) — if session died here: run tests, commit |
-| 2:8-10 | | LAUNCHED |
-| 2:22 | | LAUNCHED |
+| 1:1-5 | v1013 | DONE |
+| 1:6 | v1012 | DONE |
+| 2:2 | v1009 | DONE |
+| 2:8-10 | v1011 | DONE |
+| 2:22 | v1010 | DONE |
+| 2:45-46 | v1014 | DONE |
+| 2:128 | v1015 | DONE |
+| 2:152 | v1017 | DONE |
+| 2:155-157 | v1018 | DONE |
+| 2:163 | v1016 | DONE |
+| 2:153 | | LAUNCHED |
+| 2:164 | | LAUNCHED |
+| 2:165 | | LAUNCHED |
+| 2:183 | | LAUNCHED |
+| 2:186 | | LAUNCHED |
 
 ## Earlier (2026-10-19 e): hadith citation check DONE, v1008 (committed, not pushed; USER: commit only)
 - 5 agents (tools/content-i18n/work/HADCHK/BRIEF.md) checked ~440 citations: islam-nafl 4 fixes, makruh+zakat 7, mustahabb 2 (istikhara Bukhari 1162 -> 1166, confirmed sunnah.com; plus names-data x3 and prayer guide x1 fixed by hand), amal+sawm 3, wajib+fard+hajj 10 (+5 Bengali ও corruptions in Hajj). Open doubts: HADCHK/DOUBTS.md (incl. a sawm kaffara RULING for the user).
