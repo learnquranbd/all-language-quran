@@ -763,93 +763,153 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Claim Put to the Test",
-          "bn": "দাবির পরীক্ষা"
+          "en": "Love Asked for Proof",
+          "bn": "ভালোবাসার প্রমাণ চাওয়া"
         },
         "p": [
           {
-            "en": "Surah Al Imran came down in Madinah, in years of long argument with communities who insisted that they loved Allah and stood near to Him. Into that argument drops a short verse with the force of a rule. It opens with qul, Say — a command to the Prophet ﷺ to announce it aloud: if you love Allah, then follow me, and Allah will love you. A claim of loving Allah costs nothing to make; this verse quietly attaches a price to it.",
-            "bn": "সূরা আলে ইমরান নাজিল হয়েছে মদিনায়, এমন কিছু সম্প্রদায়ের সঙ্গে দীর্ঘ বিতর্কের বছরগুলোতে, যারা জোর দিয়ে বলত, তারা আল্লাহকে ভালোবাসে, তাঁর কাছের মানুষ। সেই বিতর্কের মাঝে নেমে আসে ছোট্ট একটি আয়াত, যার ওজন বিধানের মতো। শুরু হয় কুল দিয়ে, অর্থাৎ বলুন। নবী ﷺ-কে হুকুম করা হচ্ছে প্রকাশ্যে ঘোষণা দিতে: তোমরা যদি আল্লাহকে ভালোবাসো, তবে আমার অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন। আল্লাহকে ভালোবাসার দাবি করতে কোনো খরচ নেই। এই আয়াত চুপচাপ সেই দাবির গায়ে একটা দাম বেঁধে দেয়।"
+            "en": "Qul in kuntum tuhibbuna Allaha fattabi'uni yuhbibkumu Allahu wa yaghfir lakum dhunubakum: say, if you love Allah, then follow me; Allah will love you and forgive you your sins. The Prophet ﷺ is told to announce a condition with its answer. Fourteen Arabic words carry a claim, a demand made of that claim, two promises, and a closing pair of divine names: Ghafur and Rahim, Forgiving and Merciful.",
+            "bn": "কুল ইন কুনতুম তুহিব্বূনাল্লাহা ফাত্তাবিঊনী ইউহবিবকুমুল্লাহু ওয়া ইয়াগফির লাকুম যুনূবাকুম: বলে দাও, যদি তোমরা আল্লাহকে ভালোবাস, তবে আমার অনুসরণ কর; আল্লাহ তোমাদের ভালোবাসবেন এবং তোমাদের গুনাহ মাফ করবেন। নবী ﷺ-কে বলা হচ্ছে একটা শর্ত আর তার জবাব ঘোষণা করতে। আরবিতে মোটে চৌদ্দটি শব্দ। তার ভেতরেই আছে একটা দাবি, সেই দাবির কাছে একটা চাওয়া, দুটি প্রতিশ্রুতি, আর শেষে আল্লাহর জোড়া নাম: গাফূর ও রাহীম, ক্ষমাশীল ও পরম দয়ালু।"
           },
           {
-            "en": "Ibn Kathir relates from al-Hasan al-Basri that people claimed to love Allah, so Allah tested them by this verse. Ibn Kathir then adds his own famous judgment: this noble verse rules against everyone who claims to love Allah yet does not walk the way of Muhammad ﷺ. The test is not there to shame anyone. It is there to rescue love from remaining a mood, and to turn it into something that can actually be lived.",
-            "bn": "ইবনে কাসীর হাসান আল-বাসরী থেকে বর্ণনা করেন: কিছু মানুষ আল্লাহকে ভালোবাসার দাবি করেছিল, তাই আল্লাহ এই আয়াত দিয়ে তাদের পরীক্ষা নিলেন। এরপর ইবনে কাসীর নিজের সেই বিখ্যাত মন্তব্য যোগ করেন: যে আল্লাহকে ভালোবাসার দাবি করে অথচ মুহাম্মাদ ﷺ-এর পথে চলে না, এই মহান আয়াত তার বিরুদ্ধে রায় দেয়। এই পরীক্ষা কাউকে লজ্জা দেওয়ার জন্য নয়। ভালোবাসা যেন শুধু মনের একটা ভাব হয়ে পড়ে না থাকে, যেন জীবনে সত্যিই তার চর্চা করা যায়, সেজন্যই এই পরীক্ষা।"
+            "en": "Ma'arif al-Qur'an explains the sequence. The verses before it affirmed Allah's Oneness and condemned disbelief in it; this verse affirms prophethood and the need to follow the Messenger ﷺ, so that refusing to obey the Prophet is known to be disbelief, just as rejecting Oneness is. At-Tabari reads what precedes the verse from the opening of the surah, and what follows it, as a report about the Christian delegation from Najran and Allah's argument against their sayings about the Messiah.",
+            "bn": "আয়াতটি কোন ধারাবাহিকতায় এল, মাআরিফুল কুরআন তা বুঝিয়ে দেয়। আগের আয়াতগুলো আল্লাহর একত্বের কথা দৃঢ়ভাবে বলেছে, আর তা অস্বীকারের নিন্দা করেছে। এবার এল নবুয়তের প্রতি ঈমান আর রাসূল ﷺ-এর অনুসরণের আবশ্যকতা। উদ্দেশ্য, মানুষ যেন জানে: একত্ব অস্বীকার করা যেমন কুফর, নবীর আনুগত্য না মানাও তেমনই কুফর। তাবারী সূরার শুরু থেকে এ আয়াত পর্যন্ত আর এর পরের অংশকেও পড়েন নাজরানের খ্রিস্টান প্রতিনিধিদলের বিবরণ হিসেবে। সেখানে মসীহ সম্পর্কে তাদের কথার বিরুদ্ধে আল্লাহর যুক্তি সাজানো।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Grammar of the Promise",
-          "bn": "প্রতিশ্রুতির ব্যাকরণ"
+          "en": "Who Said, We Love Our Lord",
+          "bn": "যারা বলেছিল, আমরা রবকে ভালোবাসি"
         },
         "p": [
           {
-            "en": "The hinge of the verse is a single imperative verb: fattabi'uni, then follow me. The response, yuhbibkumu Allah, Allah will love you, is cast in the form Arabic uses for a result that follows directly from obeying a command. Notice also who loves whom. The sentence begins with your claimed love for Allah and answers with something greater — Allah's love for you. The commentators pause here: being loved by Him is a higher station than merely loving.",
-            "bn": "পুরো আয়াত ঘুরছে একটি আদেশসূচক ক্রিয়াকে ঘিরে: ফাত্তাবিউনী, তবে আমার অনুসরণ করো। এর জবাব ইউহবিবকুমুল্লাহ, আল্লাহ তোমাদের ভালোবাসবেন। আরবিতে এটি এমন রূপে এসেছে, যা হুকুম মানার সরাসরি ফল বোঝায়। এবার লক্ষ করুন, কে কাকে ভালোবাসছে। বাক্য শুরু হয় আল্লাহর প্রতি আপনার দাবি করা ভালোবাসা দিয়ে, আর জবাবে আসে তার চেয়ে বড় কিছু: আপনার প্রতি আল্লাহর ভালোবাসা। মুফাসসিরগণ এখানে থেমে বলেন: শুধু ভালোবাসার চেয়ে আল্লাহর ভালোবাসা পাওয়া অনেক উঁচু মর্যাদা।"
+            "en": "At-Tabari notes that the people of interpretation differed over why the verse came down. Some, through several chains from al-Hasan, relate that people in the Prophet's time said: O Muhammad, we love our Lord. Allah then sent down this verse, made following His Prophet ﷺ a sign, 'alam, of love for Him, and set punishment for whoever opposed him. Ibn Jurayj says much the same: some people claimed to love Allah, and Allah commanded them to follow Muhammad ﷺ.",
+            "bn": "তাবারী জানান, আয়াতটি কোন প্রেক্ষাপটে নাযিল হয়েছে, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। একদল হাসান বসরী থেকে কয়েকটি সনদে বর্ণনা করেন: নবী ﷺ-এর যুগে কিছু লোক বলেছিল, হে মুহাম্মাদ, আমরা আমাদের রবকে ভালোবাসি। তখন আল্লাহ এ আয়াত নাযিল করলেন। তাঁর নবী ﷺ-এর অনুসরণকে তিনি বানালেন তাঁর প্রতি ভালোবাসার আলামত, আর বিরোধীর জন্য রাখলেন শাস্তি। ইবন জুরাইজও প্রায় একই কথা বলেন: কিছু লোক দাবি করত তারা আল্লাহকে ভালোবাসে, আল্লাহ তাদের মুহাম্মাদ ﷺ-এর অনুসরণের আদেশ দিলেন।"
           },
           {
-            "en": "Forgiveness is stitched to the promise: wa yaghfir lakum dhunubakum, and He will forgive you your sins. Then the verse closes with two names in their intensive forms, Ghafur and Rahim — vastly forgiving, constantly merciful. The order matters. The one who sets out to follow the Prophet ﷺ will still stumble, and the verse anticipates that before it happens. The path being described is for people who fail and return, not for people who never fall.",
-            "bn": "প্রতিশ্রুতির সঙ্গেই গাঁথা আছে মাগফিরাত: ওয়া ইয়াগফির লাকুম যুনূবাকুম, আর তিনি তোমাদের গুনাহ মাফ করে দেবেন। এরপর আয়াত শেষ হয় দুটি নামে, যা আরবিতে আধিক্য বোঝানোর রূপে এসেছে: গাফূর ও রাহীম, অসীম ক্ষমাশীল, সবসময় দয়ালু। এই ক্রমের একটা অর্থ আছে। যে নবী ﷺ-কে অনুসরণ করতে শুরু করে, সে-ও হোঁচট খাবে, আর আয়াত তা ঘটার আগেই সে কথা মাথায় রেখেছে। এখানে যে পথের কথা, তা এমন মানুষদের জন্য, যারা ভুল করে আবার ফিরে আসে। যারা কখনো পড়ে না, তাদের জন্য নয়।"
+            "en": "Others, through Muhammad ibn Ja'far ibn az-Zubayr, take it as a command to address the Christian delegation from Najran: if what you say about 'Isa (AS) is said out of love for Allah and to glorify Him, then follow me. At-Tabari judges this the more fitting of the two readings. Nothing earlier in the surah, he argues, mentions any other people claiming to love or glorify Allah. Of al-Hasan's report he says there is no sound narration of it with him, unless al-Hasan meant this same delegation.",
+            "bn": "অন্যরা মুহাম্মাদ ইবন জাফর ইবন যুবাইরের সূত্রে আয়াতটিকে দেখেন নাজরানের খ্রিস্টান প্রতিনিধিদলের প্রতি সম্বোধন হিসেবে: ঈসা (আঃ) সম্পর্কে তোমরা যা বলছ, তা যদি আল্লাহর প্রতি ভালোবাসা আর তাঁর সম্মানের খাতিরে বলে থাক, তবে আমার অনুসরণ কর। তাবারীর বিচারে দুই মতের মধ্যে এটিই বেশি সংগত। তাঁর যুক্তি, এ সূরায় এর আগে আর কোনো দলের কথা আসেনি, যারা আল্লাহকে ভালোবাসার বা সম্মান করার দাবি করেছে। হাসানের বর্ণনা সম্পর্কে তিনি বলেন, তাঁর কাছে এর কোনো সহীহ সূত্র নেই, যদি না হাসান এই প্রতিনিধিদলকেই বুঝিয়ে থাকেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives the Najran view first, then cites al-Hasan and Ibn Jurayj for a group of the People of the Book who said: we are the ones who love our Lord. At-Tabari's chains from al-Hasan name no community. Al-Qurtubi also mentions, as merely reported, that the Muslims themselves said it. Al-Baghawi says the verse came down about the Jews and Christians who said, we are the sons of Allah and His beloved, words found in 5:18.",
+            "bn": "কুরতুবী আগে নাজরানের মতটি আনেন, তারপর হাসান ও ইবন জুরাইজের নামে বলেন: আহলে কিতাবের একদল বলেছিল, আমরাই তো আমাদের রবকে ভালোবাসি। অথচ তাবারীর উদ্ধৃত হাসানের সনদগুলোতে কোনো সম্প্রদায়ের নাম নেই। কুরতুবী 'বর্ণিত আছে' বলে এটাও আনেন যে মুসলমানরাই কথাটা বলেছিলেন। বাগাভী বলেন, আয়াতটি নাযিল হয়েছে সেই ইহুদি ও খ্রিস্টানদের সম্পর্কে, যারা বলেছিল: আমরা আল্লাহর পুত্র ও তাঁর প্রিয়জন। কথাটা আছে ৫:১৮ আয়াতে।"
+          },
+          {
+            "en": "Al-Baghawi adds ad-Dahhak's report from Ibn Abbas (RA): the Prophet ﷺ stood before Quraysh in the Sacred Mosque as they prostrated to idols hung with ostrich eggs and earrings, and told them they had left the way of their fathers Ibrahim and Isma'il (AS). They replied that they worshipped the idols only out of love for Allah, to be brought near to Him. These reports differ, and no position is taken here. The verse describes what its text describes, and licenses nothing against any living person or community, Christian, Jewish or any other.",
+            "bn": "বাগাভী এর সঙ্গে যোগ করেন ইবন আব্বাস (রাঃ) থেকে যাহহাকের বর্ণনা। মসজিদুল হারামে কুরাইশরা মূর্তিগুলোকে সিজদা করছিল, মূর্তির গায়ে উটপাখির ডিম ঝোলানো, কানে দুল। নবী ﷺ তাদের সামনে দাঁড়িয়ে বললেন, তোমরা তোমাদের পিতা ইবরাহীম ও ইসমাঈল (আঃ)-এর মিল্লাত থেকে সরে গেছ। তারা জবাব দিল, আমরা তো আল্লাহর ভালোবাসাতেই এদের পূজা করি, যেন এরা আমাদের তাঁর কাছাকাছি পৌঁছে দেয়। বর্ণনাগুলো ভিন্ন ভিন্ন, এখানে কোনোটির পক্ষ নেওয়া হচ্ছে না। আয়াতটি কেবল তা-ই বর্ণনা করে যা তার পাঠে আছে। খ্রিস্টান, ইহুদি বা অন্য কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো কিছুর অনুমতি দেয় না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Why Following, Not Feeling",
-          "bn": "কেন অনুভূতি নয়, অনুসরণ"
+          "en": "Tested by a Single Verse",
+          "bn": "এক আয়াতেই পরীক্ষা"
         },
         "p": [
           {
-            "en": "The Quran consistently measures love by conduct. In 2:165 the believers are described as ashaddu hubban lillah, most intense in love for Allah, in a verse contrasting them with people who give created things the devotion He is owed. In 9:24 the Prophet ﷺ is told to warn those whose families, wealth, trade and homes are dearer to them than Allah, His Messenger and striving in His cause. In each place love is weighed by what a person actually prefers when interests collide.",
-            "bn": "কুরআন বারবার ভালোবাসাকে মাপে আচরণ দিয়ে। ২:১৬৫ আয়াতে মুমিনদের বলা হয়েছে আশাদ্দু হুব্বাল লিল্লাহ, আল্লাহকে তারা সবচেয়ে বেশি ভালোবাসে। আয়াতটি তাদের তুলনা করে সেই লোকদের সঙ্গে, যারা আল্লাহর প্রাপ্য ভক্তি সৃষ্টিকে দিয়ে দেয়। ৯:২৪ আয়াতে নবী ﷺ-কে বলা হয়েছে তাদের সতর্ক করতে, যাদের কাছে পরিবার, সম্পদ, ব্যবসা আর ঘরবাড়ি আল্লাহ, তাঁর রাসূল আর তাঁর পথে সংগ্রামের চেয়ে বেশি প্রিয়। প্রতিটি জায়গায় ভালোবাসার ওজন হয় একটি জিনিস দিয়ে: স্বার্থে স্বার্থে টক্কর লাগলে মানুষ আসলে কোনটাকে বেছে নেয়।"
+            "en": "Ibn Kathir names what the verse does. He quotes al-Hasan al-Basri and others among the early generations: a people claimed that they loved Allah, so Allah tested them with this verse. At-Tabari carries another wording from al-Hasan, through 'Abbad ibn Mansur: Allah wanted to give their words a confirmation in deeds, and following Muhammad ﷺ was that confirmation. The claim is not dismissed; it is given something to be checked against.",
+            "bn": "আয়াতটি আসলে কী করে, ইবন কাসীর তার নাম দেন। তিনি হাসান বসরী ও সালাফের আরও কয়েকজনের কথা উদ্ধৃত করেন: কিছু লোক দাবি করেছিল তারা আল্লাহকে ভালোবাসে, তাই আল্লাহ এ আয়াত দিয়ে তাদের পরীক্ষা নিলেন। তাবারী আব্বাদ ইবন মানসূরের সূত্রে হাসানের আরেকটি ভাষ্য আনেন: আল্লাহ চাইলেন তাদের মুখের কথার পক্ষে আমলের সাক্ষ্য দাঁড় করাতে, আর মুহাম্মাদ ﷺ-এর অনুসরণই ছিল সেই সাক্ষ্য। আয়াতটি দাবিটাকে উড়িয়ে দেয় না। বরং যাচাইয়ের একটা মাপকাঠি তার সামনে রাখে।"
           },
           {
-            "en": "The Prophet ﷺ set the same standard for love of himself. Al-Bukhari narrates from Anas (RA) that he said: none of you believes until I am dearer to him than his father, his child and all of mankind. That is not a demand for emotion manufactured on command; it is a description of what happens when a person grasps who the Messenger ﷺ is and what reached them through him. Love of that kind naturally issues in following.",
-            "bn": "নিজের প্রতি ভালোবাসার বেলাতেও নবী ﷺ একই মানদণ্ড রেখেছেন। বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন, তিনি বলেছেন: তোমাদের কেউ মুমিন হবে না, যতক্ষণ না আমি তার কাছে তার বাবা, তার সন্তান ও সব মানুষের চেয়ে বেশি প্রিয় হই। এ কথা হুকুম দিয়ে আবেগ বানিয়ে নেওয়ার দাবি নয়। কেউ যখন বুঝতে পারে রাসূল ﷺ কে, আর তাঁর মাধ্যমে তার কাছে কী পৌঁছেছে, তখন ভেতরে যা ঘটে, এ তারই বর্ণনা। এমন ভালোবাসা নিজে থেকেই অনুসরণে গিয়ে দাঁড়ায়।"
+            "en": "Ibn Kathir calls the verse a judge, hakimah, over everyone who claims to love Allah while not on the way of Muhammad ﷺ: such a person is untruthful in his claim until he follows the Shari'ah of Muhammad and the prophetic religion in all his words and states. The Muyassar repeats the sentence almost word for word, with a qualifier: it means whoever does not follow the Prophet ﷺ as he truly should be followed, obeying him in what he commands and forbids.",
+            "bn": "ইবন কাসীর আয়াতটিকে বলেন 'হাকিমা', অর্থাৎ বিচারক। যে আল্লাহকে ভালোবাসার দাবি করে অথচ মুহাম্মাদ ﷺ-এর পথে নেই, এ আয়াত তার বিরুদ্ধে রায় দেয়। তার দাবি মিথ্যা, যতক্ষণ না সে নিজের সব কথা ও অবস্থায় মুহাম্মাদী শরীয়ত আর নবীর দীন মেনে চলে। মুয়াসসার প্রায় হুবহু একই বাক্য বলে, তবে একটু শর্ত জুড়ে। এখানে উদ্দেশ্য সেই ব্যক্তি, যে নবী ﷺ-কে যেভাবে অনুসরণ করা উচিত সেভাবে করে না, তাঁর আদেশ-নিষেধ মানে না।"
+          },
+          {
+            "en": "As-Sa'di explains why a claim is not enough. To say you love Allah is to claim a lofty rank with no rank above it, where mere assertion does not suffice. Where following is missing, he says, its absence shows the love is missing too; and even if the love existed, it would bring no benefit without its condition. Ma'arif al-Qur'an adds that love is hidden and has no measuring rod, but it leaves traces, and obedience to the Messenger ﷺ is the touchstone that exposes the genuine and the fake.",
+            "bn": "শুধু দাবি কেন যথেষ্ট নয়, সা'দী তা ব্যাখ্যা করেন। আল্লাহকে ভালোবাসি বলা মানে এমন উঁচু মর্তবার দাবি করা, যার উপরে আর কোনো মর্তবা নেই। সেখানে নিছক দাবি চলে না। তাঁর কথায়, যেখানে অনুসরণ নেই, সেখানে ভালোবাসাও নেই; অনুসরণের অভাবই তার প্রমাণ। আর ভালোবাসা যদি থেকেও থাকে, শর্ত ছাড়া তা কোনো কাজে আসে না। মাআরিফুল কুরআন যোগ করে: ভালোবাসা গোপন জিনিস, মাপার কোনো গজ-ফিতা নেই, তবে তা চিহ্ন রেখে যায়। রাসূল ﷺ-এর আনুগত্যই সেই কষ্টিপাথর, যাতে খাঁটি আর মেকি আলাদা হয়ে পড়ে।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Next Verse Closes the Loop",
-          "bn": "পরের আয়াতে কথাটা পূর্ণ হয়"
+          "en": "Follow Me, in Everything",
+          "bn": "অনুসরণ, জীবনের সবখানে"
         },
         "p": [
           {
-            "en": "The verse that follows, 3:32, commands: say, obey Allah and the Messenger — and then warns that if they turn away, Allah does not love the disbelievers. Read together, the pair leaves no gap for a love that refuses obedience. The first verse states the positive law, that following brings Allah's love; the second states its shadow, that turning away forfeits it. Between them, love has been moved from the realm of words into the realm of decisions.",
-            "bn": "পরের আয়াত, ৩:৩২, হুকুম দেয়: বলুন, তোমরা আল্লাহ ও রাসূলের আনুগত্য করো। তারপর সতর্ক করে, তারা যদি মুখ ফিরিয়ে নেয়, তবে আল্লাহ কাফিরদের ভালোবাসেন না। দুটি আয়াত একসঙ্গে পড়লে এমন ভালোবাসার আর কোনো জায়গা থাকে না, যা আনুগত্য মানতে রাজি নয়। প্রথম আয়াত বলে মূল নিয়মটি: অনুসরণ করলে আল্লাহর ভালোবাসা মেলে। দ্বিতীয়টি বলে তার উল্টো পিঠ: মুখ ফেরালে তা হারাতে হয়। এই দুইয়ের মাঝখানে ভালোবাসা মুখের কথার জগৎ থেকে উঠে এসেছে সিদ্ধান্তের জগতে।"
+            "en": "What does fattabi'uni, then follow me, take in? As-Sa'di answers widely: following the Messenger ﷺ in all his states, in words and deeds, in the roots of the religion and its branches, outwardly and inwardly. The Muyassar glosses it as following him and believing in him outwardly and inwardly. Al-Baghawi puts it in the Prophet's own voice: follow my Shari'ah and my Sunnah, for I am His Messenger to you and His proof against you.",
+            "bn": "ফাত্তাবিঊনী, অর্থাৎ আমার অনুসরণ কর। এর পরিধি কতটা? সা'দীর জবাব বিস্তৃত: রাসূল ﷺ-এর অনুসরণ তাঁর সব অবস্থায়, কথায় ও কাজে, দীনের মূলনীতিতে ও শাখা-প্রশাখায়, বাইরে ও ভেতরে। মুয়াসসার এর অর্থ করে: তাঁর অনুসরণ কর, আর প্রকাশ্যে ও গোপনে তাঁর প্রতি ঈমান আন। বাগাভী কথাটা রাখেন নবী ﷺ-এর নিজের মুখে: আমার শরীয়ত ও আমার সুন্নাহর অনুসরণ কর, কেননা আমি তোমাদের কাছে তাঁর রাসূল, আর তোমাদের বিরুদ্ধে তাঁর হুজ্জত।"
+          },
+          {
+            "en": "At-Tabari's paraphrase follows his reading of the occasion. Say to the delegation, he writes: if you love your Lord as you claim, and honour the Messiah out of that love, then make your words true by following me, for you know that I am Allah's messenger to you, as 'Isa (AS) was a messenger to those he was sent to. Following, in his wording, means believing the Prophet ﷺ and accepting what he brought from Allah.",
+            "bn": "তাবারীর ব্যাখ্যা চলে তাঁর বেছে নেওয়া প্রেক্ষাপট ধরে। প্রতিনিধিদলকে বলে দাও, তিনি লেখেন: তোমাদের দাবিমতো যদি তোমরা রবকে ভালোবাস, আর সেই ভালোবাসা থেকেই মসীহকে এত সম্মান দাও, তবে আমার অনুসরণ করে নিজেদের কথা সত্য প্রমাণ কর। তোমরা তো জানো, আমি তোমাদের কাছে আল্লাহর রাসূল, ঠিক যেমন ঈসা (আঃ) ছিলেন তাঁদের কাছে রাসূল, যাঁদের কাছে তাঁকে পাঠানো হয়েছিল। তাবারীর ভাষায় অনুসরণ মানে নবী ﷺ-কে সত্য বলে মানা, আর তিনি আল্লাহর কাছ থেকে যা এনেছেন তা গ্রহণ করা।"
+          },
+          {
+            "en": "Ibn Kathir supports his ruling with a hadith he says is established in the Sahih. Muslim records it from 'A'isha (RA), Sahih Muslim 1718, in the wording Ibn Kathir quotes: He who did any act for which there is no sanction from our behalf, that is to be rejected. For Ibn Kathir, then, a claim of love is measured against the way of Muhammad ﷺ in all of a person's words and states, and a deed without that sanction is turned back.",
+            "bn": "নিজের রায়ের পক্ষে ইবন কাসীর এমন এক হাদীস আনেন, যা তাঁর ভাষায় সহীহ গ্রন্থে প্রমাণিত। ইমাম মুসলিম আয়েশা (রাঃ) থেকে তা বর্ণনা করেছেন, সহীহ মুসলিম ১৭১৮, ঠিক সেই শব্দে যা ইবন কাসীর উদ্ধৃত করেন: যে এমন কোনো আমল করল, যার পক্ষে আমাদের দিক থেকে কোনো অনুমোদন নেই, তা প্রত্যাখ্যাত। ইবন কাসীরের কাছে তাই ভালোবাসার দাবি মাপা হয় মানুষের সব কথা ও অবস্থায় মুহাম্মাদ ﷺ-এর পথের সঙ্গে মিলিয়ে। সেই অনুমোদন ছাড়া যে আমল, তা ফিরিয়ে দেওয়া হয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "What Following Looks Like",
-          "bn": "অনুসরণ মানে কী"
+          "en": "Loved in Return",
+          "bn": "বিনিময়ে তাঁর ভালোবাসা"
         },
         "p": [
           {
-            "en": "Ittiba', following, is not imitation of dress alone or admiration from a distance. The commentators describe it as taking the Prophet ﷺ as the pattern in worship, dealings and character — praying as he prayed, trading honestly as he demanded, restraining the tongue as he taught. It also has a guarding edge: whoever truly follows does not add to the religion acts of devotion he never sanctioned. Sincerity aims the deed at Allah; conformity to the Sunnah gives the deed its correct shape.",
-            "bn": "ইত্তিবা, অর্থাৎ অনুসরণ, শুধু পোশাকের অনুকরণ নয়, দূর থেকে মুগ্ধ হয়ে থাকাও নয়। মুফাসসিরগণ এর ব্যাখ্যা দেন এভাবে: ইবাদতে, লেনদেনে আর চরিত্রে নবী ﷺ-কে আদর্শ হিসেবে নেওয়া। তিনি যেভাবে নামাজ পড়েছেন, সেভাবে পড়া; তিনি যেমন সততার দাবি করেছেন, তেমন সততায় ব্যবসা করা; তিনি যেমন শিখিয়েছেন, তেমন করে জিহ্বা সামলে রাখা। এর একটা পাহারার দিকও আছে: যে সত্যিই অনুসরণ করে, সে দ্বীনে এমন কোনো ইবাদত যোগ করে না, যার অনুমোদন তিনি কখনো দেননি। ইখলাস আমলকে আল্লাহর দিকে ফেরায়; সুন্নাহর সঙ্গে মিল আমলকে দেয় তার সঠিক রূপ।"
+            "en": "Yuhbibkumu Allah: Allah will love you. Ibn Kathir notes that the answer gives more than was sought. They sought to love Him; what they receive is His love for them, which is greater than the first. He then quotes some of the wise among the scholars: laysa al-sha'nu an tuhibba, innama al-sha'nu an tuhabba. The matter is not that you love; the matter is that you are loved.",
+            "bn": "ইউহবিবকুমুল্লাহ: আল্লাহ তোমাদের ভালোবাসবেন। ইবন কাসীর লক্ষ করেন, জবাবে যা মিলছে তা চাওয়ার চেয়ে বেশি। তারা চেয়েছিল আল্লাহকে ভালোবাসতে। পাচ্ছে তাদের প্রতি আল্লাহর ভালোবাসা, যা প্রথমটার চেয়ে অনেক বড়। তারপর তিনি কয়েকজন প্রাজ্ঞ আলেমের উক্তি আনেন: লাইসাশ শা'নু আন তুহিব্বা, ইন্নামাশ শা'নু আন তুহাব্বা। আসল কথা আপনি ভালোবাসেন কি না তা নয়; আসল কথা আপনি ভালোবাসা পান কি না।"
           },
           {
-            "en": "This is why the scholars kept returning to this verse whenever devotion drifted into invention. The question it teaches us to ask is disarmingly concrete: is this act, this habit, this stance something the Prophet ﷺ did, commanded or approved? The verse does not ask how warm the feeling behind the act was. It asks whose footsteps the act is walking in, and it promises that the footsteps of the Messenger ﷺ lead to being loved by Allah.",
-            "bn": "এ কারণেই যখনই ইবাদতের আবেগ নতুন উদ্ভাবনের দিকে গড়িয়েছে, আলিমগণ বারবার এই আয়াতে ফিরে এসেছেন। আয়াতটি যে প্রশ্ন করতে শেখায়, তা চমকে দেওয়ার মতো সোজা: এই কাজ, এই অভ্যাস, এই অবস্থান, এটা কি নবী ﷺ করেছেন, হুকুম করেছেন বা অনুমোদন দিয়েছেন? কাজের পেছনের অনুভূতি কতটা উষ্ণ ছিল, আয়াত তা জিজ্ঞেস করে না। জিজ্ঞেস করে, কাজটি কার পায়ের ছাপ ধরে চলছে। আর প্রতিশ্রুতি দেয়, রাসূল ﷺ-এর পায়ের ছাপ ধরে চললে আল্লাহর ভালোবাসা পাওয়া যায়।"
+            "en": "The commentators define both loves, in their own words. Al-Baghawi: the believers' love for Allah is following His command, preferring obedience to Him and seeking His pleasure; Allah's love for the believers is His praise of them, His reward to them and His pardon of them. Al-Qurtubi quotes al-Azhari: the servant's love for Allah and His Messenger is obeying them and following their command, and Allah's love for His servants is His favour to them with forgiveness.",
+            "bn": "দুই দিকের ভালোবাসারই সংজ্ঞা তাফসীরকারেরা দিয়েছেন, নিজেদের ভাষায়। বাগাভীর মতে, আল্লাহর প্রতি মুমিনদের ভালোবাসা মানে তাঁর আদেশ মানা, তাঁর আনুগত্যকে সবকিছুর আগে রাখা আর তাঁর সন্তুষ্টি খোঁজা। আর মুমিনদের প্রতি আল্লাহর ভালোবাসা মানে তাঁদের প্রশংসা করা, তাঁদের সওয়াব দেওয়া আর তাঁদের মাফ করা। কুরতুবী আযহারীর কথা আনেন: আল্লাহ ও তাঁর রাসূলের প্রতি বান্দার ভালোবাসা হলো তাঁদের আনুগত্য করা আর তাঁদের আদেশ মেনে চলা। আর বান্দাদের প্রতি আল্লাহর ভালোবাসা হলো মাগফিরাত দিয়ে তাদের প্রতি অনুগ্রহ।"
+          },
+          {
+            "en": "Al-Qurtubi attaches a hadith from Sahih Muslim, narrated by Abu Hurayrah (RA), number 2637: When Allah loves a servant, He calls Gabriel and says: Verily, I [love] so and so; you should also love him, and then Gabriel begins to love him. Then he makes an announcement in the heaven saying: Allah loves so and so and you also love him, and then the inhabitants of the Heaven (the Angels) also begin to love him and then there is conferred honour upon him in the earth. The hadith then describes the reverse for a servant whom Allah detests.",
+            "bn": "কুরতুবী এখানে সহীহ মুসলিমের একটি হাদীস যুক্ত করেন, আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নম্বর ২৬৩৭: আল্লাহ যখন কোনো বান্দাকে ভালোবাসেন, জিবরীলকে ডেকে বলেন: আমি অমুককে ভালোবাসি, তুমিও তাকে ভালোবাস। তখন জিবরীল তাকে ভালোবাসতে থাকেন। তারপর তিনি আসমানে ঘোষণা দেন: আল্লাহ অমুককে ভালোবাসেন, তোমরাও তাকে ভালোবাস। তখন আসমানবাসীরা (ফেরেশতারা) তাকে ভালোবাসতে থাকে, আর পৃথিবীতে তাকে সম্মান দান করা হয়। এরপর হাদীসটি জানায়, যে বান্দাকে আল্লাহ অপছন্দ করেন, তার বেলায় ঘটে ঠিক উল্টোটা।"
           }
         ]
       },
       {
         "h": {
-          "en": "Living the Verse",
-          "bn": "জীবনে আয়াতটি"
+          "en": "Forgiveness Joined to Love",
+          "bn": "ভালোবাসার সঙ্গে মাগফিরাত"
         },
         "p": [
           {
-            "en": "The practical entry point is small: choose one Sunnah you currently neglect — the manner of eating, the words before sleeping, the two rak'ahs before Fajr — and adopt it deliberately because he ﷺ did it. Done with that intention, an ordinary habit becomes an act of love with a promise attached. Then let the verse audit you gently over time: when my preference and his teaching part ways, which one do I actually follow?",
-            "bn": "শুরুটা ছোট করেই করা যায়। এমন একটি সুন্নাহ বেছে নিন, যা আপনি এখন অবহেলা করছেন: খাওয়ার আদব, ঘুমানোর আগের দোয়া, ফজরের আগের দুই রাকাত। তারপর সেটা ভেবেচিন্তে ধরুন, শুধু এই কারণে যে তিনি ﷺ তা করতেন। এই নিয়তে করলে সাধারণ একটা অভ্যাসও হয়ে ওঠে ভালোবাসার আমল, যার সঙ্গে প্রতিশ্রুতি জুড়ে আছে। তারপর সময় নিয়ে আয়াতটিকে কোমলভাবে আপনার হিসাব নিতে দিন: আমার পছন্দ আর তাঁর শিক্ষা যখন দুই দিকে যায়, আমি আসলে কোনটা মানি?"
+            "en": "Wa yaghfir lakum dhunubakum: and forgive you your sins. As-Sa'di lists what the follower receives: Allah loves him, forgives his sin, has mercy on him and keeps him on the right course in all his movements and his stillness. Muhammad ibn Ja'far ibn az-Zubayr, in at-Tabari's report, glosses the sins for the delegation as what has passed of your disbelief. At-Tabari explains the forgiveness as Allah setting aside the punishment for those sins and pardoning what is past.",
+            "bn": "ওয়া ইয়াগফির লাকুম যুনূবাকুম: আর তোমাদের গুনাহ মাফ করবেন। অনুসারী কী কী পায়, সা'দী তার তালিকা দেন: আল্লাহ তাকে ভালোবাসেন, তার গুনাহ মাফ করেন, তার প্রতি রহম করেন, আর তার প্রতিটি চলা ও থামায় তাকে সঠিক পথে রাখেন। তাবারীর বর্ণনায় মুহাম্মাদ ইবন জাফর ইবন যুবাইর প্রতিনিধিদলকে লক্ষ্য করে গুনাহর অর্থ করেন: তোমাদের অতীতের কুফর। তাবারী নিজে মাগফিরাতের ব্যাখ্যা দেন এভাবে: আল্লাহ সেসব গুনাহর শাস্তি মওকুফ করবেন, আর যা ঘটে গেছে তা ক্ষমা করে দেবেন।"
           },
           {
-            "en": "And hold on to the direction the promise flows. The verse does not leave you straining to produce love for a distant Lord; it shows you a road at whose end Allah loves you, forgives you and is named to you as Ghafur and Rahim. Every step of following is met from the other side. Few sentences in the Quran offer an exchange this generous for something this concrete, and it stands open to whoever begins today.",
-            "bn": "আর মনে রাখুন, প্রতিশ্রুতি কোন দিকে বইছে। আয়াতটি আপনাকে দূরের এক রবের জন্য জোর করে ভালোবাসা জাগানোর কষ্টে ফেলে রাখে না। বরং এমন এক পথ দেখায়, যার শেষে আল্লাহ আপনাকে ভালোবাসেন, মাফ করেন, আর নিজেকে আপনার কাছে পরিচয় দেন গাফূর ও রাহীম নামে। অনুসরণের প্রতিটি কদমের জবাব আসে ওপাশ থেকে। এত বাস্তব একটা কিছুর বিনিময়ে এত উদার লেনদেন কুরআনের খুব কম বাক্যেই আছে। যে আজ শুরু করবে, তার জন্য এর দরজা খোলা।"
+            "en": "Ibn Kathir ties all of it to the means: by following the Messenger ﷺ, he says, you obtain all this through the blessing of his mission as Allah's envoy. The closing names are explained in nearly the same words by two commentators, with a difference worth noticing. The Muyassar: forgiving of the sins of His believing servants, merciful to them. At-Tabari gives the same gloss and then widens the mercy: merciful to them and to others of His creation besides.",
+            "bn": "ইবন কাসীর সবকিছু বেঁধে দেন উপায়ের সঙ্গে। তাঁর কথায়, রাসূল ﷺ-এর অনুসরণ করলে আল্লাহর দূত হিসেবে তাঁর মিশনের বরকতে এর সবই পাওয়া যায়। শেষের নাম দুটির ব্যাখ্যা দুজন তাফসীরকার প্রায় একই ভাষায় দিয়েছেন, তবে একটা ফারাক খেয়াল করার মতো। মুয়াসসার বলে: তিনি তাঁর মুমিন বান্দাদের গুনাহ ক্ষমা করেন, তাদের প্রতি দয়ালু। তাবারীও একই ব্যাখ্যা দেন, তারপর রহমতকে আরও প্রশস্ত করেন: তাদের প্রতি দয়ালু, আর তাঁর সৃষ্টির অন্যদের প্রতিও।"
+          },
+          {
+            "en": "Al-Qurtubi quotes Abu al-Fath that the form ahabba is shown by yuhibbuhum wa yuhibbunahu in 5:54 and by yuhbibkum here, both with a damma on the ya. Yaghfir, he notes, is joined to yuhbibkum. Abu Raja' al-'Utaridi read fattabi'uni with a fatha on the ba, and Abu 'Amr was reported to merge the ra of yaghfir into the lam of lakum. An-Nahhas answers that al-Khalil and Sibawayh do not allow that merger, yet Abu 'Amr was too eminent to err; perhaps he only concealed the vowel.",
+            "bn": "কুরতুবী আবুল ফাতহের কথা আনেন: ক্রিয়াটি যে 'আহাব্বা' রূপ থেকে এসেছে, তার প্রমাণ ৫:৫৪ আয়াতের ইউহিব্বুহুম ওয়া ইউহিব্বূনাহু আর এখানকার ইউহবিবকুম, দুটোতেই ইয়া হরফে পেশ। তিনি জানান, ইয়াগফির শব্দটি ইউহবিবকুমের সঙ্গে যুক্ত। আবু রাজা আল-উতারিদী ফাত্তাবিঊনী পড়েছেন বা হরফে যবর দিয়ে। আর আবু আমর সম্পর্কে বর্ণিত, তিনি ইয়াগফিরের রা হরফকে লাকুমের লামের ভেতরে মিলিয়ে পড়তেন। নাহহাস বলেন, খলীল ও সীবাওয়াইহ রা-কে লামে মেলানো অনুমোদন করেন না। তবে আবু আমর এমন ভুল করার মানুষ নন; হয়তো তিনি স্বরটা শুধু অস্পষ্ট করে পড়তেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs Strung Together",
+          "bn": "আলামতের শিকল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi quotes Sahl ibn 'Abd Allah, who strings the signs together like links. The sign of loving Allah is loving the Qur'an; of loving the Qur'an, loving the Prophet ﷺ; of loving the Prophet, loving the Sunnah; and the sign of all four is loving the Hereafter. The sign of loving the Hereafter is that a person loves his own soul; the sign of that is hating this world; and the sign of hating the world is taking from it only provision and enough to get by.",
+            "bn": "কুরতুবী সাহল ইবন আবদুল্লাহর একটি উক্তি আনেন, যেখানে আলামতগুলো শিকলের কড়ার মতো একটার সঙ্গে আরেকটা গাঁথা। আল্লাহকে ভালোবাসার আলামত কুরআনকে ভালোবাসা। কুরআনকে ভালোবাসার আলামত নবী ﷺ-কে ভালোবাসা। নবীকে ভালোবাসার আলামত সুন্নাহকে ভালোবাসা। আর এই চারটিরই আলামত আখিরাতকে ভালোবাসা। আখিরাতকে ভালোবাসার আলামত নিজের নফসকে ভালোবাসা। তার আলামত দুনিয়ার প্রতি বিরাগ। আর দুনিয়ার প্রতি বিরাগের আলামত হলো, তা থেকে কেবল পাথেয় আর কোনোমতে চলার মতো প্রয়োজনটুকু নেওয়া।"
+          },
+          {
+            "en": "Some narrations are left aside. Ibn Kathir records, through Ibn Abi Hatim, a report from 'A'isha (RA) tying the verse to love and hatred in religion, and at once quotes Abu Zur'ah: 'Abd al-A'la, a narrator in its chain, is munkar al-hadith, denounced in his narrations. Al-Qurtubi cites a narration from Abu ad-Darda' (RA) through Abu 'Abd Allah at-Tirmidhi, and another with no source given, grading neither. None of them is relied on in this article.",
+            "bn": "কয়েকটি বর্ণনা এখানে নেওয়া হয়নি। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আয়েশা (রাঃ) থেকে একটি বর্ণনা আনেন, যা আয়াতটিকে দীনের ভেতরে ভালোবাসা ও ঘৃণার সঙ্গে জুড়ে দেয়। সঙ্গে সঙ্গেই তিনি আবু যুরআর মন্তব্য উদ্ধৃত করেন: এর সনদের বর্ণনাকারী আবদুল আ'লা 'মুনকারুল হাদীস', অর্থাৎ তার বর্ণনা আপত্তিকর। কুরতুবী আবু দারদা (রাঃ) থেকে আবু আবদুল্লাহ তিরমিযীর সূত্রে একটি বর্ণনা আনেন, আরেকটি আনেন কোনো সূত্র ছাড়াই, কোনোটির মান উল্লেখ না করে। এ লেখা এগুলোর কোনোটির উপর ভর করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing Oneself by It",
+          "bn": "নিজেকে এই পাল্লায় মাপা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di turns the verse into a scale: by it, he says, all of creation is weighed. According to each person's share of following the Messenger ﷺ is his faith and his love for Allah, and whatever falls short there falls short here. Whatever the commentators say about the occasion, they meet on this. For a reader today the test is daily and specific: when my preference and the way of the Messenger ﷺ part company, which do I follow?",
+            "bn": "সা'দী আয়াতটিকে বানিয়ে দেন দাঁড়িপাল্লা। তাঁর কথায়, এ আয়াত দিয়েই গোটা সৃষ্টিকে মাপা হয়। রাসূল ﷺ-এর অনুসরণে যার যতটুকু ভাগ, তার ঈমান আর আল্লাহর প্রতি ভালোবাসাও ততটুকু। অনুসরণে যতটা কমতি, ভালোবাসাতেও ততটা। নাযিলের প্রেক্ষাপট নিয়ে তাফসীরকারেরা যা-ই বলুন, এই জায়গায় তাঁরা এক। আজকের পাঠকের জন্য পরীক্ষাটা তাই রোজকার, আর একেবারে নির্দিষ্ট: আমার পছন্দ আর রাসূল ﷺ-এর পথ যখন দুই দিকে যায়, আমি কোনটার পেছনে হাঁটি?"
+          },
+          {
+            "en": "Yet the verse is not only a demand. Read with Ibn Kathir, it is an exchange weighted toward the servant: a person sets out to love and finds himself loved, and forgiven, by Him who is named at its close as Ghafur and Rahim. The next verse, 3:32, says the same from the other side: obey Allah and the Messenger, and if they turn away, Allah does not love the disbelievers.",
+            "bn": "তবু আয়াতটি শুধু দাবি নয়। ইবন কাসীরের ব্যাখ্যা ধরে পড়লে এ এমন এক লেনদেন, যার পাল্লা বান্দার দিকেই ভারী। মানুষ রওনা দেয় ভালোবাসতে, আর পৌঁছে দেখে সে নিজেই ভালোবাসা পেয়েছে, ক্ষমাও পেয়েছে তাঁর কাছ থেকে, আয়াতের শেষে যাঁর নাম গাফূর ও রাহীম। পরের আয়াত, ৩:৩২, একই কথা বলে উল্টো দিক থেকে: আল্লাহ ও রাসূলের আনুগত্য কর, আর তারা মুখ ফিরিয়ে নিলে আল্লাহ কাফিরদের ভালোবাসেন না।"
           }
         ]
       }
