@@ -20,7 +20,7 @@ USER: "continue unfinished job" -> the depth pass of the original 299 short arti
 - Tools: `node tools/wip/round11/upgrade-queue.js [N]` (next keys), prep.js as before, drafter prompt "Read tools/wip/round11/BRIEF.md and follow it exactly. DEPTH PASS (§7). Key: X." + watch-points, gate.js (no notes file = depth mode), `tools/wip/round11/ship-upgrade.sh <key>` (merge-articles.js --replace, new flag), commit.sh as before.
 - Deploy after every tenth ayah, as in the main loop.
 - Apache is down this session: ship with `QA_BASE=http://127.0.0.1:8099` (python http.server on 8099 from /var/www/html; memory qa-harness-without-apache). browser.sh re-runs the bn check alone.
-- v1009-v1018 pushed (origin + pro) and DEPLOYED, live sw.js = lq-v1018 (checked 2026-10-23). Push: gh active account is miningshahin (403); push with the learnquranbd token, see memory git-push-account.
+- v1009-v1029 pushed (origin + pro) and DEPLOYED, live sw.js = lq-v1029 (checked 2026-10-23). Push: gh active account is miningshahin (403); push with the learnquranbd token, see memory git-push-account.
 
 | key | v | status |
 |---|---|---|
@@ -34,11 +34,23 @@ USER: "continue unfinished job" -> the depth pass of the original 299 short arti
 | 2:152 | v1017 | DONE |
 | 2:155-157 | v1018 | DONE |
 | 2:163 | v1016 | DONE |
-| 2:153 | | LAUNCHED |
-| 2:164 | | LAUNCHED |
-| 2:165 | | LAUNCHED |
-| 2:183 | | LAUNCHED |
-| 2:186 | | LAUNCHED |
+| 2:153 | v1019 | DONE |
+| 2:164 | v1021 | DONE |
+| 2:165 | v1020 | DONE |
+| 2:183 | v1023 | DONE |
+| 2:186 | v1022 | DONE |
+| 2:201 | v1024 | DONE |
+| 2:216 | v1025 | DONE |
+| 2:222 | v1026 | DONE |
+| 2:238 | v1027 | DONE |
+| 2:255 | | LAUNCHED |
+| 2:257 | v1029 | DONE |
+| 2:261 | v1028 | DONE |
+| 2:281 | | LAUNCHED |
+| 2:284 | | LAUNCHED |
+| 2:286 | | HELD until 2:284 ships (same narrations) |
+| 3:8 | | LAUNCHED |
+| 3:26-27 | | LAUNCHED |
 
 ## Earlier (2026-10-19 e): hadith citation check DONE, v1008 (committed, not pushed; USER: commit only)
 - 5 agents (tools/content-i18n/work/HADCHK/BRIEF.md) checked ~440 citations: islam-nafl 4 fixes, makruh+zakat 7, mustahabb 2 (istikhara Bukhari 1162 -> 1166, confirmed sunnah.com; plus names-data x3 and prayer guide x1 fixed by hand), amal+sawm 3, wajib+fard+hajj 10 (+5 Bengali ও corruptions in Hajj). Open doubts: HADCHK/DOUBTS.md (incl. a sawm kaffara RULING for the user).
