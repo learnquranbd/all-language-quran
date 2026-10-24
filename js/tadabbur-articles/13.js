@@ -159,97 +159,149 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Where the Verse Sits",
-          "bn": "আয়াতটির অবস্থান"
+          "en": "From Being Known to Being Kept",
+          "bn": "জানা থেকে আগলে রাখা"
         },
         "p": [
           {
-            "en": "Surah ar-Ra'd opens with the signs of a Lord who runs the sky and the earth and knows everything without exception. The verse just before, 13:10, makes that knowledge personal: the one who hides his words and the one who speaks aloud, the one concealed by night and the one walking in daylight, are all the same to Him. 13:11 then moves from being known to being kept: escorts travel with each person, in front of him and behind him.",
-            "bn": "সূরা আর-রা'দ শুরু হয় সেই রবের নিদর্শন দিয়ে, যিনি আসমান ও যমীন চালান এবং কোনো ব্যতিক্রম ছাড়াই সবকিছু জানেন। ঠিক আগের আয়াত ১৩:১০ সেই জ্ঞানকে প্রত্যেকের নিজের ব্যাপার করে তোলে: কেউ কথা গোপন রাখুক বা জোরে বলুক, কেউ রাতের আঁধারে লুকিয়ে থাকুক বা দিনের আলোয় পথ চলুক, তাঁর কাছে সবাই সমান। এরপর ১৩:১১ জানার কথা থেকে রক্ষার কথায় আসে: প্রত্যেক মানুষের সঙ্গে প্রহরী চলে, তার সামনে ও পেছনে।"
+            "en": "The verses before this are about knowledge: of what the wombs carry and lose (13:8), of the unseen and the witnessed (13:9), and then, brought close, of whoever hides his words or says them aloud, hides by night or goes about by day, all alike to Him (13:10). Then 13:11 opens with lahu, for him, and the commentators must first decide who that him is.",
+            "bn": "এর আগের আয়াতগুলোর বিষয় আল্লাহর জ্ঞান। ১৩:৮ বলছে, প্রতিটি নারী গর্ভে কী বহন করে, গর্ভ কী কমায় আর কী বাড়ায়, আল্লাহ সব জানেন। ১৩:৯ তাঁকে বলছে গায়েব ও প্রকাশ্য সবকিছুর জ্ঞাতা। ১৩:১০ কথাটা মানুষের একেবারে কাছে নিয়ে আসে। কেউ কথা গোপন রাখুক বা জোরে বলুক, রাতের আঁধারে লুকিয়ে থাকুক বা দিনের আলোয় ঘুরে বেড়াক, তাঁর কাছে সবাই সমান। তারপর ১৩:১১ শুরু হয় 'লাহু' দিয়ে, মানে তার জন্য। তাফসীরকারদের প্রথম কাজ তাই এটা ঠিক করা যে এই 'তার' আসলে কে।"
           },
           {
-            "en": "So the famous middle clause about change does not float alone; it is set between guarding and decree. The verse names three facts in order: each person is watched over by appointed guardians, Allah does not alter a people's condition until they alter what is in themselves, and when His decree of harm arrives nothing can turn it back. Read together, the parts answer one another, and each part disciplines how the others may be understood.",
-            "bn": "তাই পরিবর্তন নিয়ে বিখ্যাত মাঝের বাক্যটি একা ভেসে নেই। সেটি বসানো আছে পাহারা আর ফায়সালার মাঝখানে। আয়াতটি পরপর তিনটি সত্য বলে: প্রত্যেক মানুষকে নিযুক্ত রক্ষীরা পাহারা দেয়; কোনো জাতি নিজেদের ভেতরের অবস্থা না বদলানো পর্যন্ত আল্লাহ তাদের অবস্থা বদলান না; আর তাঁর পক্ষ থেকে ক্ষতির ফায়সালা এসে গেলে কিছুই তা ফেরাতে পারে না। একসঙ্গে পড়লে অংশগুলো একে অন্যের জবাব হয়ে ওঠে, আর প্রতিটি অংশ বাকিগুলোর অর্থকে সীমার মধ্যে রাখে।"
+            "en": "At-Tabari and al-Baghawi both take min bayni yadayhi, before him, as in front of this man who hides by night and goes out by day, and min khalfihi as behind his back. As-Sa'di ties the two verses together: just as Allah's knowledge surrounds a person, Allah has sent these guardians over His servants, so that neither their states nor their deeds stay hidden and none of it is forgotten. The verse moves from being known to being kept.",
+            "bn": "তাবারী ও বাগাভী দুজনেই 'মিন বাইনি ইয়াদাইহি' বলতে বোঝেন তার সামনের দিক, মানে রাতে লুকিয়ে থাকা আর দিনে বেরিয়ে পড়া সেই লোকটির সামনে। 'মিন খালফিহি' মানে তার পিঠের পেছনে। দুই আয়াতের বাঁধনটা সা'দী দেখিয়ে দেন। আল্লাহর জ্ঞান যেমন মানুষকে ঘিরে আছে, তেমনি তিনি বান্দাদের উপর এই পাহারাদারদের পাঠিয়েছেন। ফলে তাদের অবস্থা বা আমল কিছুই আড়ালে থাকে না, কিছুই ভুলে যাওয়া হয় না। আয়াতটি তাই জানার কথা থেকে আগলে রাখার কথায় এগিয়ে যায়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Angels Who Take Turns",
-          "bn": "পালা করে আসা ফেরেশতারা"
+          "en": "Those Who Come Back in Turns",
+          "bn": "পালা করে যারা ফিরে আসে"
         },
         "p": [
           {
-            "en": "The word for the escorts is mu'aqqibat, from a root meaning to follow one another in succession — shifts that relieve each other, the way sentries change guard. The commentators, Tabari and Ibn Kathir among them, say these are angels charged with each person, before him and behind him, and that they guard him by the command of Allah. The protection is real, but it is delegated; the angels have no power of their own.",
-            "bn": "প্রহরীদের বোঝাতে যে শব্দ এসেছে, তা মুআক্কিবাত। এর মূল অর্থ একের পর এক পালাক্রমে আসা: পাহারাদাররা যেমন পালা বদল করে, তেমনি একদল এসে আরেক দলকে ছুটি দেয়। তাবারী ও ইবনে কাসীরসহ মুফাসসিরগণ বলেন, এরা ফেরেশতা, প্রত্যেক মানুষের সামনে ও পেছনে নিযুক্ত, আর আল্লাহর হুকুমে তাকে রক্ষা করে। এই সুরক্ষা সত্যি, তবে তা তাদের ওপর অর্পিত দায়িত্ব মাত্র; ফেরেশতাদের নিজস্ব কোনো ক্ষমতা নেই।"
+            "en": "Mu'aqqibat comes from ta'qib, which at-Tabari, al-Qurtubi and al-Baghawi all define as returning after a beginning. Al-Qurtubi adds Abu l-Haytham's picture from the well: among camels, the mu'aqqibat are those waiting behind the herd that crowds the trough, so that when one she-camel leaves, another takes her place. The form is feminine though malak, angel, is masculine, and the three explain it as a plural of a plural: one mu'aqqib, a company mu'aqqiba, then mu'aqqibat.",
+            "bn": "মুআক্কিবাত শব্দের মূল তা'কীব। তাবারী, কুরতুবী ও বাগাভী তিনজনেই এর অর্থ বলেন: শুরু করার পর আবার ফিরে আসা। কুরতুবী আবুল হাইসামের একটা ছবি তুলে আনেন পানির ঘাট থেকে। উটের বেলায় মুআক্কিবাত হলো সেই উটনীরা, যারা হাউজে ভিড় করা পালের পেছনে দাঁড়িয়ে থাকে। একটা সরে গেলেই আরেকটা তার জায়গা নেয়। আরবিতে 'মালাক' বা ফেরেশতা শব্দটি পুংলিঙ্গ, অথচ মুআক্কিবাত স্ত্রীলিঙ্গের রূপ। তিনজনেরই ব্যাখ্যা, এটি বহুবচনের বহুবচন: একজন মুআক্কিব, একদল মুআক্কিবা, তারপর মুআক্কিবাত।"
           },
           {
-            "en": "Al-Bukhari narrates from Abu Hurayrah (RA) that angels take turns among you by night and by day, and that they gather at the Fajr prayer and the 'Asr prayer. Ibn Kathir adds the point the verse itself implies: when Allah's decree comes, the guards stand aside, because their guarding was only ever by His command. A person is therefore kept safe every hour by a mercy he neither sees nor pays for.",
-            "bn": "বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: ফেরেশতারা রাতে ও দিনে পালাক্রমে তোমাদের মাঝে আসে, আর ফজর ও আসরের নামাজে তারা একত্র হয়। আয়াত নিজেই যে কথার ইঙ্গিত দেয়, ইবনে কাসীর তা খুলে বলেন: আল্লাহর ফায়সালা এসে গেলে রক্ষীরা সরে দাঁড়ায়, কারণ তাদের পাহারা সবসময় কেবল তাঁরই হুকুমে ছিল। ফলে মানুষ প্রতিটি ঘণ্টা এমন এক রহমতের ছায়ায় নিরাপদ থাকে, যা সে দেখেও না, যার দামও দেয় না।"
+            "en": "Al-Baghawi and al-Qurtubi describe the turn itself: when the night's angels ascend, the day's follow in their wake, and then the reverse. Ibn Kathir counts them. Two, on the right and the left, record deeds, the one on the right writing the good and the one on the left the bad; two more guard, one behind and one in front. A person is thus among four angels by day, and four others take their place by night.",
+            "bn": "পালাবদলটা কেমন, বাগাভী ও কুরতুবী তা বর্ণনা করেন। রাতের ফেরেশতারা উপরে উঠে গেলে তাদের পিছু পিছু আসে দিনের ফেরেশতারা। আবার দিনের ফেরেশতারা উঠে গেলে আসে রাতের দল। ইবন কাসীর তাঁদের সংখ্যাও গুনে দেন। ডানে ও বাঁয়ে দুজন আমল লেখেন। ডানেরজন লেখেন নেকি, বাঁয়েরজন গুনাহ। আরও দুজন পাহারা দেন, একজন পেছনে, একজন সামনে। ফলে দিনের বেলা একজন মানুষ থাকে চার ফেরেশতার মাঝে, আর রাতে তাঁদের জায়গায় আসেন আরও চারজন।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Clause the World Quotes",
-          "bn": "যে বাক্যটি সবাই উদ্ধৃত করে"
+          "en": "Angels, or a Ruler's Guards",
+          "bn": "ফেরেশতা, নাকি শাসকের প্রহরী"
         },
         "p": [
           {
-            "en": "Allah does not change ma bi-qawmin, what is in a people, until they change ma bi-anfusihim, what is in themselves. Two changes are named, and the second precedes the first. The wording is about a qawm, a people, not only an individual: collective conditions track collective interiors. And what must change first is not circumstance, wealth or rulers, but what sits inside — conviction, intention, habit, and what a community tolerates in itself.",
-            "bn": "আল্লাহ কোনো জাতির মধ্যে যা আছে (মা বি-কাওমিন), তা বদলান না, যতক্ষণ না তারা নিজেদের ভেতরে যা আছে (মা বি-আনফুসিহিম), তা বদলায়। এখানে দুটি পরিবর্তনের কথা, আর দ্বিতীয়টি ঘটে প্রথমটির আগে। কথাটা বলা হয়েছে কাওম, অর্থাৎ জাতি নিয়ে, শুধু ব্যক্তি নিয়ে নয়: সমষ্টির অবস্থা চলে সমষ্টির অন্তরের পেছন পেছন। আর আগে যা বদলাতে হবে, তা পরিস্থিতি, সম্পদ বা শাসক নয়। বদলাতে হবে ভেতরে যা বসে আছে: বিশ্বাস, নিয়ত, অভ্যাস, আর কোনো সমাজ নিজের ভেতরে যা মেনে নেয়।"
+            "en": "Who the mu'aqqibat are is a real disagreement, and at-Tabari opens with it. One group says they are angels taking turns over the servant: he gives this from al-Hasan, Mujahid, Ibrahim an-Nakha'i, Qatada and Ibn Jurayj, and from Ibn 'Abbas by more than one route. There is no servant but has an angel assigned to guard him, asleep and awake, from jinn, humans and creeping things; whatever comes at him, the angel says, back! except something Allah permits, which then reaches him.",
+            "bn": "মুআক্কিবাত কারা, এ নিয়ে সত্যিকারের মতভেদ আছে, আর তাবারী আলোচনা শুরুই করেন সেখান থেকে। একদল বলেন, এঁরা ফেরেশতা, পালা করে বান্দার উপর আসেন। তাবারী এ মত আনেন হাসান, মুজাহিদ, ইবরাহীম নাখঈ, কাতাদা ও ইবন জুরাইজ থেকে, আর ইবন আব্বাস থেকে একাধিক সূত্রে। মুজাহিদ বলেন, এমন কোনো বান্দা নেই যার জন্য একজন ফেরেশতা নিযুক্ত নেই। ঘুমে ও জাগরণে তিনি তাকে জিন, মানুষ আর বিষাক্ত প্রাণী থেকে রক্ষা করেন। কিছু তার দিকে এগোলেই ফেরেশতা বলেন, পিছু হটো! তবে আল্লাহ যার অনুমতি দেন, সেটা তার কাছে পৌঁছেই যায়।"
           },
           {
-            "en": "The classical commentators read the clause first as a warning. Tabari and Ibn Kathir set it beside 8:53, which says Allah never changes a favour He has bestowed on a people until they change what is in themselves. Security, provision and standing are held in place by obedience, and are forfeited from the inside before they collapse on the outside. Yet the wording here is general, so it also carries the hopeful direction: return begins within too.",
-            "bn": "পূর্বসূরি মুফাসসিরগণ বাক্যটিকে প্রথমে সতর্কবাণী হিসেবেই পড়েন। তাবারী ও ইবনে কাসীর একে ৮:৫৩-এর পাশে রাখেন, যেখানে আল্লাহ বলেন, কোনো জাতিকে দেওয়া নিয়ামত তিনি কখনো বদলে দেন না, যতক্ষণ না তারা নিজেদের ভেতরের অবস্থা বদলায়। নিরাপত্তা, রিযিক আর মর্যাদা টিকে থাকে আনুগত্যের জোরে। বাইরে ভেঙে পড়ার আগে এগুলো হারিয়ে যায় ভেতর থেকে। তবে এখানকার কথাটা ব্যাপক, তাই এতে আশার দিকটিও আছে: ফিরে আসাও শুরু হয় ভেতর থেকেই।"
+            "en": "A second group says they are the guards who relieve each other around an emir. At-Tabari reports from Ibn 'Abbas, through Sa'id ibn Jubayr, that this is a king of this world with guard behind guard; from 'Ikrima, the emirs and their processions; and from ad-Dahhak, the sultan guarding himself against Allah, the people of shirk. At-Tabari prefers this reading. The him of lahu, he argues, is the man hiding by night, nearer in the text than the Knower of the unseen in 13:9, and the verse's close shows whom it means.",
+            "bn": "আরেক দল বলেন, এঁরা শাসকের চারপাশে পালা করে দায়িত্ব নেওয়া প্রহরী। তাবারী সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস থেকে আনেন: এ হলো দুনিয়ার কোনো রাজা, যার এক দল প্রহরীর পেছনে আরেক দল। ইকরিমা বলেন, এরা আমীর-উমারা ও তাদের বহর। দাহহাক বলেন, এ সেই সুলতান যে আল্লাহর বিরুদ্ধে নিজেকে পাহারায় ঘিরে রাখে, অর্থাৎ শিরককারীরা। তাবারী নিজে এ ব্যাখ্যাটিই বেছে নেন। তাঁর যুক্তি, 'লাহু'-র 'তার' হলো রাতে লুকিয়ে থাকা সেই লোক। ১৩:৯ আয়াতের 'গায়েবের জ্ঞাতা'-র চেয়ে সে বাক্যে বেশি কাছে। আর আয়াতের শেষ অংশই দেখিয়ে দেয় কাদের কথা হচ্ছে।"
+          },
+          {
+            "en": "On his reading these guards protect such a man thinking they can fend off Allah's command, and the verse answers that when Allah intends ill for a people, their guards avail them nothing. Al-Qurtubi records at-Tabari's choice by name but calls the angels reading correct, held by al-Hasan, Mujahid, Qatada and Ibn Jurayj and chosen by an-Nahhas, who argued from the hadith of angels in turns. Ibn Kathir harmonises: what Ibn 'Abbas, 'Ikrima and ad-Dahhak apparently meant, he says, is that the angels guard servants as guards guard their kings.",
+            "bn": "তাবারীর পাঠে প্রহরীরা লোকটিকে পাহারা দেয় এই ভেবে যে আল্লাহর হুকুম তারা ঠেকিয়ে দিতে পারবে। আয়াত তার জবাবে বলে, আল্লাহ কোনো সম্প্রদায়ের অমঙ্গল চাইলে তাদের প্রহরী কোনো কাজে আসে না। কুরতুবী তাবারীর এই পছন্দের কথা নাম ধরে উল্লেখ করেন, তবে নিজে সঠিক বলেন ফেরেশতার ব্যাখ্যাকে। এ মত হাসান, মুজাহিদ, কাতাদা ও ইবন জুরাইজের, আর নাহহাস এটিই বেছে নিয়েছেন পালা করে আসা ফেরেশতাদের হাদীসকে দলিল ধরে। ইবন কাসীর দুই মতকে মিলিয়ে দেন। তাঁর মতে ইবন আব্বাস, ইকরিমা ও দাহহাক সম্ভবত বোঝাতে চেয়েছেন, রাজাদের যেমন প্রহরী পাহারা দেয়, ফেরেশতারাও বান্দাদের তেমনি পাহারা দেন।"
           }
         ]
       },
       {
         "h": {
-          "en": "No Repelling, No Protector",
-          "bn": "ফেরানোর কেউ নেই, অভিভাবকও নেই"
+          "en": "Meeting at Fajr and 'Asr",
+          "bn": "ফজর ও আসরে দুই দলের দেখা"
         },
         "p": [
           {
-            "en": "The verse ends: when Allah intends harm for a people there is no repelling it, and they have no wali — no protector to manage their affairs — besides Him. This closes the loophole the heart looks for. The same angels who guard by His command cannot guard against His command. Whoever hopes to be shielded from the decree by connections, wealth or precaution is looking for a protector the verse has just said does not exist.",
-            "bn": "আয়াতটি শেষ হয় এভাবে: আল্লাহ যখন কোনো জাতির অকল্যাণ চান, তখন তা ফেরানোর কেউ নেই, আর তিনি ছাড়া তাদের কোনো ওয়ালী নেই, মানে এমন কোনো অভিভাবক নেই, যে তাদের বিষয় সামলাবে। হৃদয় যে ফাঁকফোকর খোঁজে, এ কথায় তা বন্ধ হয়ে যায়। যে ফেরেশতারা তাঁর হুকুমে পাহারা দেয়, তারা তাঁর হুকুমের বিরুদ্ধে পাহারা দিতে পারে না। যে মানুষ চেনাজানা লোক, টাকাপয়সা বা সাবধানতার জোরে ফায়সালা থেকে বাঁচার আশা করে, সে এমন রক্ষক খুঁজছে, আয়াত এইমাত্র বলে দিল যার কোনো অস্তিত্ব নেই।"
+            "en": "Three of the commentators cite on this verse the hadith an-Nahhas relied on. Al-Baghawi gives it with his own chain through Malik, from Abu z-Zinad, from al-A'raj, from Abu Hurayrah; Ibn Kathir introduces it with the words \"as came in the Sahih\"; al-Qurtubi says the imams narrated it. Qatada, in at-Tabari, gives the same gathering of the angels at the 'Asr and dawn prayers, introduced only with \"we were told\".",
+            "bn": "নাহহাস যে হাদীসকে দলিল ধরেছেন, তিনজন তাফসীরকার এ আয়াতে সেটি এনেছেন। বাগাভী আনেন নিজের সনদে, মালিক থেকে, আবুয যিনাদ থেকে, আ'রাজ থেকে, আবু হুরায়রা (রাঃ) থেকে। ইবন কাসীর হাদীসটির আগে বলেন, 'যেমন সহীহতে এসেছে'। কুরতুবী বলেন, ইমামগণ এটি বর্ণনা করেছেন। তাবারীর বর্ণনায় কাতাদাও আসর ও ফজরের নামাযে ফেরেশতাদের একত্র হওয়ার কথা বলেন, তবে শুধু 'আমাদের জানানো হয়েছে' বলে।"
           },
           {
-            "en": "This is why the middle clause matters so much. If harm cannot be repelled once it is intended, then the only place a person can work is upstream of it — in the state that draws mercy or forfeits it. Responsibility and outcome are split cleanly: the change within is ours to make; the change of condition, and the protection while we make it, remain wholly with Allah.",
-            "bn": "এ কারণেই মাঝের বাক্যটি এত গুরুত্বপূর্ণ। আল্লাহ একবার ক্ষতির ইচ্ছা করলে তা যদি আর ফেরানো না যায়, তবে মানুষের কাজ করার একমাত্র জায়গা তার আগে, উৎসের দিকে: সেই অবস্থায়, যা রহমত টেনে আনে কিংবা হারিয়ে ফেলে। দায়িত্ব আর ফলাফল এখানে পরিষ্কার ভাগ হয়ে যায়। ভেতরের পরিবর্তন আনা আমাদের কাজ। আর অবস্থা বদলানো, এবং সেই কাজ চলার সময় আমাদের রক্ষা করা, দুটোই পুরোপুরি আল্লাহর হাতে।"
+            "en": "In al-Bukhari's Sahih (no. 555), under that same chain, Abu Hurayrah (RA) narrates that the Messenger of Allah ﷺ said: \"Angels come to you in succession by night and day and all of them get together at the time of the Fajr and 'Asr prayers. Those who have passed the night with you (or stayed with you) ascend (to the Heaven) and Allah asks them, though He knows everything about you, well, 'In what state did you leave my slaves?' The angels reply: 'When we left them they were praying and when we reached them, they were praying.'\"",
+            "bn": "সহীহ বুখারীতে (৫৫৫) ঠিক এই সনদেই আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"তোমাদের মাঝে পালাক্রমে আসে রাতের একদল ফেরেশতা আর দিনের একদল ফেরেশতা। ফজরের নামায ও আসরের নামাযে তারা একত্র হয়। তারপর যারা তোমাদের মাঝে রাত কাটিয়েছে তারা উপরে উঠে যায়। তখন তাদের রব তাদের জিজ্ঞেস করেন, অথচ তিনি তাদের চেয়ে ভালো জানেন: আমার বান্দাদের কোন অবস্থায় রেখে এলে? তারা বলে: আমরা যখন তাদের রেখে এলাম তখন তারা নামায পড়ছিল, আর যখন তাদের কাছে গিয়েছিলাম তখনও তারা নামায পড়ছিল।\""
           }
         ]
       },
       {
         "h": {
-          "en": "What Changing Within Means",
-          "bn": "ভেতরের পরিবর্তন মানে কী"
+          "en": "His Command, or His Decree",
+          "bn": "তাঁর হুকুম, নাকি তাঁর তাকদীর"
         },
         "p": [
           {
-            "en": "As-Sa'di spells out what the inner change is: a people move from obedience to disobedience, or from gratitude for blessings to abusing them, and the outward condition follows; and if they change what is in themselves by returning, Allah's mercy returns with them. Nothing here promises that effort manufactures outcomes. It says that inner states are the level at which Allah has chosen to deal with communities, which is a different and larger claim.",
-            "bn": "আস-সা'দী ভেতরের পরিবর্তনটা খুলে বলেন: কোনো জাতি আনুগত্য ছেড়ে নাফরমানিতে যায়, কিংবা নিয়ামতের শুকরিয়া ছেড়ে তার অপব্যবহারে নামে, আর বাইরের অবস্থাও সেই পথ ধরে। আবার তারা যদি ফিরে এসে নিজেদের ভেতরের অবস্থা বদলায়, আল্লাহর রহমতও তাদের কাছে ফিরে আসে। এখানে এমন কোনো প্রতিশ্রুতি নেই যে চেষ্টা করলেই ফল তৈরি হয়ে যায়। কথাটা হলো, আল্লাহ জাতিগুলোর সঙ্গে লেনদেন করেন তাদের ভেতরের অবস্থা দেখে; এটাই তিনি বেছে নিয়েছেন। এ ভিন্ন কথা, আর অনেক বড় কথা।"
+            "en": "Yahfazunahu min amri Allah carries a second disagreement, over the small word min. Qatada reads it as bi-amri Allah, by Allah's command, a wording some readings have; Ibn 'Abbas, through 'Ali ibn Abi Talha, says by Allah's permission, the mu'aqqibat being themselves from His command. Ma'arif al-Qur'an takes min as the ba' of causation. Al-Hasan reads it as 'an, at Allah's command, which al-Qurtubi calls close to the first: their guarding comes from Allah, not from themselves.",
+            "bn": "'ইয়াহফাযূনাহু মিন আমরিল্লাহ' অংশে দ্বিতীয় মতভেদ, ছোট্ট শব্দ 'মিন' নিয়ে। কাতাদা এর অর্থ করেন 'বি-আমরিল্লাহ', আল্লাহর হুকুমে। তিনি জানান, কোনো কোনো কিরাআতে হুবহু এ শব্দটিই আছে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস বলেন, আল্লাহর অনুমতিতে, আর মুআক্কিবাতরা নিজেরাই তাঁর হুকুমের অংশ। মাআরিফুল কুরআন 'মিন'-কে কারণবাচক 'বা' অর্থে নেয়। হাসান একে পড়েন 'আন' অর্থে, মানে আল্লাহর হুকুম অনুযায়ী। কুরতুবী বলেন, এটি প্রথম মতের কাছাকাছি। পাহারাটা আসে আল্লাহর কাছ থেকে, ফেরেশতাদের নিজেদের পক্ষ থেকে নয়।"
           },
           {
-            "en": "In practice the verse redirects complaint. A household, a community or a person asking why conditions do not improve is sent first to an audit that costs nothing and hurts more: what is being tolerated within — in prayer, in honesty, in what is consumed and what is neglected? The verse does not forbid changing circumstances; the rest of the Quran commands striving. It fixes the order: the inside first, because that is what the outside waits upon.",
-            "bn": "বাস্তবে আয়াতটি অভিযোগের মুখ ঘুরিয়ে দেয়। কোনো পরিবার, সমাজ বা মানুষ যখন জানতে চায় অবস্থা কেন ভালো হচ্ছে না, আয়াত তাকে আগে নিজের হিসাব নিতে পাঠায়। এই হিসাবে টাকা লাগে না, কিন্তু ব্যথা লাগে বেশি: ভেতরে কী কী মেনে নেওয়া হচ্ছে? নামাজে, সততায়, কী খাওয়া হচ্ছে আর কী অবহেলায় পড়ে আছে, তাতে? আয়াতটি পরিস্থিতি বদলাতে নিষেধ করে না; কুরআনের বাকি অংশ তো চেষ্টা করারই হুকুম দেয়। আয়াত শুধু ক্রমটা ঠিক করে দেয়: আগে ভেতর, কারণ বাইরেরটা তারই অপেক্ষায় থাকে।"
+            "en": "Others read it as guarding him against what Allah decrees, until it comes. Ibn Kathir and at-Tabari report from 'Ikrima, from Ibn 'Abbas: angels guard him before and behind, and when His decree comes they leave him. A man of Murad warned 'Ali (RA), at prayer, that people meant to kill him; 'Ali answered that with every man are two angels guarding him from what has not been decreed, and when the decree comes they leave him to it, for the appointed term is a strong shield. Ibrahim an-Nakha'i, in at-Tabari, says: from the jinn.",
+            "bn": "অন্যদের পাঠে অর্থ দাঁড়ায়, আল্লাহ যা নির্ধারণ করেন তা না আসা পর্যন্ত তারা তাকে আগলে রাখে। ইবন কাসীর ও তাবারী ইকরিমার সূত্রে ইবন আব্বাস থেকে আনেন: ফেরেশতারা সামনে-পেছনে তাকে পাহারা দেন, আর তাঁর তাকদীর এসে গেলে তাকে ছেড়ে সরে যান। আলী (রাঃ) নামাযে ছিলেন, মুরাদ গোত্রের এক লোক এসে সাবধান করল, মুরাদের কিছু লোক আপনাকে হত্যা করতে চায়। আলী জবাব দিলেন, প্রত্যেক মানুষের সঙ্গে দুজন ফেরেশতা থাকেন। যা তাকদীরে লেখা হয়নি তা থেকে তাঁরা তাকে রক্ষা করেন। তাকদীর এসে গেলে তাঁরা পথ ছেড়ে দেন, কারণ নির্ধারিত আয়ুই মজবুত ঢাল। তাবারীর বর্ণনায় ইবরাহীম নাখঈ ছোট্ট করে বলেন: জিন থেকে।"
+          },
+          {
+            "en": "Al-Qurtubi gives a distinction in the scholars' name. Allah has made His commands of two kinds. One He has decreed to arrive and befall the person, and nothing repels or changes it. The other He has decreed to come but not to befall: He has decreed instead that it be turned away, by repentance, supplication, charity and guarding. Guarding itself is on his list: one of the means, inside the decree, by which a harm on its way is turned aside.",
+            "bn": "এরপর কুরতুবী আলেমদের নামে একটি পার্থক্য তুলে ধরেন। আল্লাহ তাঁর আদেশগুলোকে দুই ধরনের করেছেন। এক ধরনের বেলায় তিনি ঠিক করে রেখেছেন যে তা আসবে এবং মানুষটির উপর পড়বেই। কেউ তা ঠেকাতে বা বদলাতে পারে না। আরেক ধরনের বেলায় তিনি ঠিক করেছেন তা আসবে, কিন্তু পড়বে না। বরং তিনি ঠিক করে রেখেছেন, তওবা, দোয়া, সদকা আর হেফাজতের মাধ্যমে তা সরে যাবে। খেয়াল করুন, হেফাজত নিজেও এই তালিকায় আছে। তাকদীরের ভেতরেই এটি একটি উপায়, যার মাধ্যমে আসতে থাকা বিপদ সরে যায়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Living Between the Two Truths",
-          "bn": "দুই সত্যের মাঝে বসবাস"
+          "en": "What Is in Themselves",
+          "bn": "নিজেদের ভেতরে যা আছে"
         },
         "p": [
           {
-            "en": "The believer who carries this verse walks with two facts at once. He is guarded — escorted through every ordinary day by angels in relay he has never seen — so gratitude, not anxiety, is the baseline. And he is responsible: the part of his condition that waits on anyone waits on him. The verse leaves no room for the fatalism that waits for rescue, nor for the self-reliance that forgets who commands the guards.",
-            "bn": "এই আয়াত যে মুমিন বুকে নিয়ে চলে, সে একসঙ্গে দুটি সত্য বহন করে। সে সুরক্ষিত: প্রতিটি সাধারণ দিনে পালা করে আসা ফেরেশতারা তাকে পাহারা দিয়ে নিয়ে চলে, যাদের সে কখনো দেখেনি। তাই তার স্বাভাবিক অবস্থা হওয়া উচিত শুকরিয়া, দুশ্চিন্তা নয়। আবার সে দায়বদ্ধও: তার অবস্থার যে অংশ কারও অপেক্ষায় আছে, তা আছে তারই অপেক্ষায়। এই আয়াতে ভাগ্যের দোহাই দিয়ে উদ্ধারের অপেক্ষায় বসে থাকার জায়গা নেই। আবার এমন আত্মনির্ভরতারও জায়গা নেই, যা ভুলে যায় রক্ষীদের হুকুম কে দেন।"
+            "en": "Inna Allaha la yughayyiru ma bi-qawmin hatta yughayyiru ma bi-anfusihim: Allah does not change what is with a people until they change what is in themselves. At-Tabari glosses the first as wellbeing and blessing, which He would remove before destroying them, and the second as their wronging and assaulting each other, after which His punishment comes. The Muyassar: He does not change a blessing He gave a people unless they change what He commanded them and disobey Him.",
+            "bn": "'ইন্নাল্লাহা লা ইউগাইয়িরু মা বিকাওমিন হাত্তা ইউগাইয়িরু মা বিআনফুসিহিম': আল্লাহ কোনো সম্প্রদায়ের অবস্থা বদলান না, যতক্ষণ না তারা নিজেদের ভেতরের অবস্থা বদলায়। তাবারীর ব্যাখ্যায় প্রথম অংশ হলো সুস্থতা ও নিয়ামত, যা তিনি তুলে নিয়ে তাদের ধ্বংস করে দেন। দ্বিতীয় অংশ হলো তাদের পরস্পরের প্রতি জুলুম আর একে অন্যের উপর বাড়াবাড়ি। তখনই নেমে আসে তাঁর শাস্তি। মুয়াসসার বলে, আল্লাহ কোনো সম্প্রদায়কে দেওয়া নিয়ামত বদলান না, যতক্ষণ না তারা তাঁর হুকুম বদলে দিয়ে নাফরমানি করে।"
           },
           {
-            "en": "Its neighbour 13:28 completes the picture: hearts find rest in the remembrance of Allah. The inner change the verse asks for is not a technique but a turning — intention corrected, wrong left, obedience taken up — done while trusting the One whose way of dealing does not change, as the verse itself guarantees. That guarantee is the comfort: the door to a changed condition is never locked from His side.",
-            "bn": "পাশের আয়াত ১৩:২৮ ছবিটা পূর্ণ করে: আল্লাহর জিকিরেই অন্তর প্রশান্তি পায়। আয়াতটি ভেতরের যে পরিবর্তন চায়, তা কোনো কৌশল নয়, তা হলো ফিরে আসা: নিয়ত শুধরে নেওয়া, অন্যায় ছেড়ে দেওয়া, আনুগত্য আঁকড়ে ধরা। আর এই ফেরা চলে তাঁর ওপর ভরসা রেখে, যাঁর লেনদেনের নিয়ম বদলায় না; আয়াত নিজেই এর নিশ্চয়তা দেয়। এই নিশ্চয়তাই সান্ত্বনা: অবস্থা বদলের দরজা তাঁর দিক থেকে কখনো তালাবন্ধ নয়।"
+            "en": "The Qur'an says the same in 8:53: Allah would never change a favour He had bestowed on a people until they change what is in themselves. Ibn Kathir adds a report from Ibrahim: Allah revealed to a prophet of the Children of Israel that no town or household turns from His obedience to disobedience but He turns them from what they love to what they dislike. A raised version, through 'Ali, runs the other way, from punishment to mercy; Ibn Kathir calls it strange, with a narrator he does not know.",
+            "bn": "কুরআন ৮:৫৩ আয়াতে একই কথা বলে: আল্লাহ কোনো সম্প্রদায়কে যে নিয়ামত দেন, তারা নিজেদের ভেতরের অবস্থা না বদলানো পর্যন্ত তিনি তা বদলান না। ইবন কাসীর এ অংশের সমর্থনে ইবরাহীমের একটি বর্ণনা আনেন। আল্লাহ বনী ইসরাঈলের এক নবীকে ওহী পাঠালেন: আপনার কওমকে বলুন, কোনো জনপদ বা কোনো ঘরের লোক আল্লাহর আনুগত্যে থেকে যদি নাফরমানির দিকে সরে যায়, তবে তিনি তাদের প্রিয় জিনিস থেকে সরিয়ে অপ্রিয়ের দিকে নিয়ে যান। আলীর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনায় কথাটা চলে উল্টো দিকে: নাফরমানি ছেড়ে আনুগত্যে এলে আযাব বদলে যায় রহমতে। ইবন কাসীর সেটিকে বলেন গরীব, আর জানান, এর সনদে এমন একজন আছেন যাঁকে তিনি চেনেন না।"
+          },
+          {
+            "en": "As-Sa'di gives both directions. What is with a people is blessing, kindness and ease of living, removed when they move from faith to disbelief, from obedience to disobedience, or from gratitude for Allah's favours to arrogance in them. Likewise, when servants change the disobedience in themselves for obedience, Allah changes their misery into good, joy and mercy. Ma'arif al-Qur'an reads the verse in the first direction: a people leave gratitude and obedience, and Allah changes His way of mercy and protection with them.",
+            "bn": "সা'দী দুই দিকের কথাই বলেন। সম্প্রদায়ের কাছে যা থাকে তা হলো নিয়ামত, অনুগ্রহ আর স্বচ্ছন্দ জীবন। ঈমান ছেড়ে কুফরে, আনুগত্য ছেড়ে নাফরমানিতে, কিংবা আল্লাহর নিয়ামতের শোকর ছেড়ে তা নিয়ে অহংকারে চলে গেলে এগুলো কেড়ে নেওয়া হয়। আবার বান্দারা যদি নিজেদের নাফরমানি ছেড়ে আনুগত্যে ফেরে, আল্লাহ তাদের দুর্দশা বদলে দেন কল্যাণ, আনন্দ আর রহমতে। মাআরিফুল কুরআন আয়াতের অর্থ হিসেবে প্রথম দিকটাই ধরে রাখে। এখানে যে পরিবর্তনের কথা, তা হলো কোনো সম্প্রদায়ের শোকর ও আনুগত্য ছেড়ে দেওয়া। তখন আল্লাহও তাদের সঙ্গে তাঁর রহমত ও হেফাজতের আচরণ বদলে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Only One's Own Sin",
+          "bn": "শুধু নিজের গুনাহেই নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi cautions: Allah does not change a people's condition until a change occurs, from them, or from whoever oversees them, or from someone among them who becomes a cause, as the routed at Uhud were changed because the archers changed. So the verse does not mean that no punishment falls on anyone unless a sin of his own came first; calamities can come through the sins of others. He cites the Prophet's ﷺ answer to a question, a narration not itself about this verse.",
+            "bn": "কুরতুবী একটা সতর্কতা যোগ করেন। আল্লাহ কোনো সম্প্রদায়ের অবস্থা বদলান না, যতক্ষণ না কোনো পরিবর্তন ঘটে। সেটা তাদের নিজেদের দিক থেকে হতে পারে, তাদের দেখভাল যে করে তার দিক থেকে হতে পারে, কিংবা তাদেরই কেউ কারণ হয়ে দাঁড়ালে হতে পারে। উহুদে তীরন্দাজরা নিজেরা বদলে গিয়েছিলেন, আর সে কারণে আল্লাহ পরাজিত বাহিনীর অবস্থা বদলে দিয়েছিলেন। তাই আয়াতের অর্থ এই নয় যে আগে নিজের গুনাহ না থাকলে কারও উপর শাস্তি আসে না। অন্যের গুনাহের কারণেও বিপদ নামতে পারে। এর দলিল হিসেবে তিনি একটি প্রশ্নের জবাবে নবী ﷺ-এর কথা আনেন। বর্ণনাটি নিজে এ আয়াত নিয়ে নয়।"
+          },
+          {
+            "en": "In al-Bukhari's Sahih (no. 3346), Zaynab bint Jahsh (RA) narrates that the Prophet ﷺ once came to her in a state of fear and said, \"None has the right to be worshipped but Allah. Woe unto the Arabs from a danger that has come near. An opening has been made in the wall of Gog and Magog like this,\" making a circle with his thumb and index finger. Zaynab bint Jahsh said, \"O Allah's Messenger (ﷺ)! Shall we be destroyed even though there are pious persons among us?\" He said, \"Yes, when the evil person will increase.\"",
+            "bn": "সহীহ বুখারীতে (৩৩৪৬) যয়নাব বিনত জাহশ (রাঃ) বর্ণনা করেন, নবী ﷺ একবার ভীত অবস্থায় তাঁর কাছে এলেন। তিনি বলছিলেন: \"লা ইলাহা ইল্লাল্লাহ! আরবদের জন্য দুর্ভোগ, এক অনিষ্ট খুব কাছে এসে গেছে। আজ ইয়াজুজ-মাজুজের প্রাচীরে এতটুকু ফাঁক খুলে গেছে।\" এ কথা বলে তিনি বুড়ো আঙুল ও তার পাশের আঙুল দিয়ে একটা বৃত্ত বানালেন। যয়নাব বিনত জাহশ বলেন, আমি বললাম: \"হে আল্লাহর রাসূল! আমাদের মাঝে নেককার লোক থাকতেও কি আমরা ধ্বংস হয়ে যাব?\" তিনি বললেন: \"হ্যাঁ, যখন পাপাচার বেড়ে যাবে।\""
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes up a popular explanation: that no change for the better comes to a people unless they set about it themselves, put in a well-known Urdu couplet by Hali. It calls this correct to a certain extent, but not the sense of the verse. One with no intention of correcting himself has no promise of help, as 29:69 says, yet blessings are not bound by that condition: our existence, eyes and ears came unasked. The verse describes how Allah deals with a people; it hands no programme to any present nation, party or movement, and this article draws none.",
+            "bn": "মাআরিফুল কুরআন একটি প্রচলিত ব্যাখ্যা নিয়ে কথা বলে। ব্যাখ্যাটি হলো, কোনো জাতি নিজে উদ্যোগ না নিলে তার ভাগ্যে ভালো পরিবর্তন আসে না। হালীর একটি বিখ্যাত উর্দু শেরে কথাটা ধরা আছে। মাআরিফের মতে কথাটা একটা পর্যায় পর্যন্ত ঠিক, তবে এটি আয়াতের অর্থ নয়। যে নিজেকে শোধরানোর নিয়তই রাখে না, তার জন্য সাহায্যের কোনো প্রতিশ্রুতি নেই, যেমন ২৯:৬৯ বলে। কিন্তু নিয়ামত এই শর্তে বাঁধা নয়। আমাদের অস্তিত্ব, চোখ, কান কিছুই আমরা চেয়ে নিইনি। আয়াতটি বলে আল্লাহ কোনো সম্প্রদায়ের সঙ্গে কেমন আচরণ করেন। আজকের কোনো জাতি, দল বা আন্দোলনের হাতে এটি কোনো কর্মসূচি তুলে দেয় না, আর এ লেখাও তেমন কিছু দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Visitors, Then the Thunder",
+          "bn": "দুই আগন্তুক, তারপর বজ্র"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi reports from 'Abd ar-Rahman ibn Zayd that these verses came down about 'Amir ibn at-Tufayl and Arbad ibn Rabi'a, and tells the story through al-Kalbi, from Abu Salih, from Ibn 'Abbas. 'Amir bargained with the Prophet ﷺ for the succession, having told Arbad to strike from behind while they talked. Arbad drew his sword a hand's span and could draw it no further. The Prophet ﷺ said, O Allah, suffice me against the two of them with what You will. A thunderbolt burned Arbad; a swelling came upon 'Amir, and he died on his horse's back.",
+            "bn": "বাগাভী আবদুর রহমান ইবন যায়দ থেকে বর্ণনা করেন, এ আয়াতগুলো নাযিল হয়েছিল আমির ইবনুত তুফাইল ও আরবাদ ইবন রবীআকে কেন্দ্র করে। ঘটনাটি তিনি শোনান কালবী থেকে, আবু সালিহ থেকে, ইবন আব্বাস থেকে। আমির নবী ﷺ-এর সঙ্গে দরকষাকষি করছিল, তাঁর পরে নেতৃত্ব তার হাতে চাই। আগেই সে আরবাদকে বলে রেখেছিল, কথার ফাঁকে পেছন থেকে তলোয়ার চালাতে। আরবাদ এক বিঘত খুলতেই তলোয়ার আটকে গেল, আর বের করতে পারল না। নবী ﷺ দোয়া করলেন, হে আল্লাহ, যেভাবে তুমি চাও, এ দুজনের বিপদ থেকে আমাকে রক্ষা করো। বজ্রপাতে আরবাদ পুড়ে গেল। আমিরের শরীরে বড় ফোঁড়া উঠল, আর ঘোড়ার পিঠেই তার মৃত্যু হলো।"
+          },
+          {
+            "en": "On this reading the him of lahu is the Messenger ﷺ, guarded front and back, and the clause on change was said to these two. At-Tabari carries Ibn Zayd's version and calls the interpretation far from the verse, since the Prophet ﷺ is not mentioned in the verses just before. Like every characterisation in these readings, of the people of shirk or of a people whose blessing is withdrawn, the report describes what the text describes and licenses nothing against any living person or community.",
+            "bn": "এ পাঠে 'লাহু'-র 'তার' হলেন রাসূল ﷺ। ফেরেশতারা সামনে-পেছনে তাঁকে পাহারা দেন, আর পরিবর্তনের বাক্যটি বলা হয়েছিল ওই দুজনকে। তাবারী ইবন যায়দের বর্ণনাটি আনেন, তবে এই ব্যাখ্যাকে আয়াত থেকে দূরের বলেন। কারণ ঠিক আগের আয়াতগুলোতে নবী ﷺ-এর উল্লেখ নেই। এসব ব্যাখ্যায় যাদের কথা এসেছে, শিরককারী হোক বা নিয়ামত হারানো কোনো সম্প্রদায়, সবার বেলায় একই কথা। পাঠ যা বর্ণনা করে, এটি কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না।"
+          },
+          {
+            "en": "The verse itself ends: when Allah intends ill for a people there is no repelling it, and they have no wali besides Him. At-Tabari: none but Allah can turn it from them, and they have no wali to take charge of their affair. Al-Qurtubi gives refuge, after as-Suddi; as-Sa'di and the Muyassar, whoever brings them what they love and turns away what they dislike. As-Sa'di draws the warning: let them beware of persisting in what Allah dislikes. The next verses turn to lightning that brings fear and hope, and thunder that glorifies Him with His praise.",
+            "bn": "আয়াতটির শেষ কথা: আল্লাহ কোনো সম্প্রদায়ের অমঙ্গল চাইলে তা ফেরানোর কেউ নেই, আর তিনি ছাড়া তাদের কোনো 'ওয়ালী' নেই। তাবারী বলেন, আল্লাহ ছাড়া কেউ তা তাদের উপর থেকে সরাতে পারে না, তাদের দায়িত্ব নেওয়ার মতো কোনো অভিভাবকও নেই। কুরতুবী অর্থ করেন আশ্রয়, আর বলেন এটাই সুদ্দীর কথার মর্ম। সা'দী ও মুয়াসসারের মতে ওয়ালী সে, যে প্রিয় জিনিস এনে দেয় আর অপ্রিয় জিনিস দূর করে। সা'দী এখান থেকে সতর্কবাণী টানেন: আল্লাহ যা অপছন্দ করেন, তাতে লেগে থাকার ব্যাপারে তারা যেন সাবধান হয়। পরের আয়াতগুলো চলে যায় ভয় ও আশা জাগানো বিদ্যুতের দিকে, আর সেই বজ্রধ্বনির দিকে যা তাঁর প্রশংসাসহ তাসবীহ পাঠ করে।"
           }
         ]
       }
