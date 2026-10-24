@@ -739,89 +739,141 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Worship, Then Everyone Around You",
-          "bn": "ইবাদত, তারপর চারপাশের সবাই"
+          "en": "Worship Before Every Other Right",
+          "bn": "সব হকের আগে ইবাদত"
         },
         "p": [
           {
-            "en": "The verse opens with the two halves of tawhid: worship Allah, and associate nothing with Him. The word for nothing sits indefinite inside a negation, which in Arabic sweeps away every partner of every size. Then, with no break, comes wa bil-walidayni ihsana — and to parents, ihsan. The preposition bi- returns once more with the near of kin, and the rest of the list is joined on with and, so every group named after the parents hangs grammatically on that same word, ihsan. Belief in One God is not left as a private conviction; it is turned straight into conduct.",
-            "bn": "আয়াত শুরু হয় তাওহিদের দুই দিক দিয়ে: আল্লাহর ইবাদত করো, আর কোনো কিছুকেই তাঁর শরিক কোরো না। 'কোনো কিছু' শব্দটা নেতিবাচক বাক্যে অনির্দিষ্ট রূপে এসেছে। আরবিতে এই গঠন ছোট-বড় সব শরিককে একসঙ্গে মুছে দেয়। তারপর কোনো বিরতি ছাড়াই আসে ওয়া বিল-ওয়ালিদাইনি ইহসানা, আর বাবা-মার সঙ্গে ইহসান। এরপর একই অব্যয় 'বি' আরেকবার আসে আত্মীয়স্বজনের সঙ্গে, আর তালিকার বাকিরা 'ওয়া' (আর) দিয়ে জুড়ে যায়। ফলে বাবা-মার পরে যাদের নাম এসেছে, ব্যাকরণের দিক থেকে তারা সবাই ওই একই শব্দ, ইহসানের সঙ্গে বাঁধা। এক আল্লাহর ওপর ঈমান এখানে শুধু মনের বিশ্বাস হয়ে থাকে না, সোজা আচরণে রূপ নেয়।"
+            "en": "The verse follows the rulings on discord in a marriage and the two arbiters of 4:35. Ma'arif al-Qur'an observes that the surah has dealt with rights from its start, those of orphans, women and heirs, and now turns to parents, relatives, neighbours and people at large. It opens that roster with tawhid, and gives the reason: a person careless of Allah's rights will find excuses with everyone else's, while the fear of Allah makes him honour a right whether anyone is watching or not.",
+            "bn": "আয়াতটি এসেছে দাম্পত্য কলহের বিধান আর ৪:৩৫ আয়াতের দুই সালিসের কথার ঠিক পরে। মাআরিফুল কুরআন লক্ষ করে, সূরাটি শুরু থেকেই হক নিয়ে কথা বলছে: এতিমের হক, নারীর হক, ওয়ারিসের হক। এবার পালা বাবা-মা, আত্মীয়, প্রতিবেশী আর সাধারণ মানুষের। এই তালিকা খোলে তাওহিদ দিয়ে, আর মাআরিফ এর কারণও বলে দেয়। আল্লাহর হকের ব্যাপারে যে উদাসীন, অন্যের হকের বেলায় সে কোনো না কোনো অজুহাত খুঁজে নেবে। আল্লাহর ভয়ই মানুষকে হক আদায়ে বেঁধে রাখে, কেউ দেখুক বা না দেখুক।"
           },
           {
-            "en": "Ihsan is not the same as justice. Justice, 'adl, hands a person exactly what is owed; ihsan goes past the debt, into kindness no one could have claimed. So the command is not merely that we deal fairly with the groups named here, which was required already, but that we deal with them beautifully. 16:90 sets the two words side by side, ordering justice and ihsan together and in that order.",
-            "bn": "ইহসান আর ইনসাফ এক জিনিস নয়। ইনসাফ বা 'আদল মানুষকে ঠিক ততটুকু দেয়, যতটুকু তার পাওনা। ইহসান সেই পাওনা ছাড়িয়ে যায়, পৌঁছায় এমন সদয় আচরণে, যা কেউ দাবি করতে পারত না। তাই আদেশটা শুধু এই নয় যে এখানে যাদের নাম এসেছে, তাদের সঙ্গে আমরা ন্যায্য আচরণ করব। সেটা তো আগে থেকেই করতে হতো। আদেশ হলো, তাদের সঙ্গে আমরা সুন্দর আচরণ করব। ১৬:৯০ আয়াতে শব্দ দুটো পাশাপাশি এসেছে: সেখানে আদল আর ইহসানের আদেশ একসঙ্গে, আর এই ক্রমেই।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "Nine Named, in Rings",
-          "bn": "বৃত্ত ধরে ধরে নয়টি নাম"
-        },
-        "p": [
-          {
-            "en": "Count them in the Arabic and there are nine. Al-walidayn, the parents; dhu'l-qurba, the relatives; al-yatama, the orphans; al-masakin, the needy; al-jar dhi'l-qurba, the near neighbour; al-jar al-junub, the neighbour further off; as-sahib bi'l-janb, the companion at your side; ibn as-sabil, the traveller; and ma malakat aymanukum, those whom your right hands possess. The order moves outward in rings, from the two people who raised you to someone with no claim on you beyond the fact that he is standing there, before closing on the household.",
-            "bn": "আরবিতে গুনলে নাম নয়টি। আল-ওয়ালিদাইন, বাবা-মা; যুল-কুরবা, আত্মীয়স্বজন; আল-ইয়াতামা, এতিম; আল-মাসাকীন, অভাবী; আল-জার যিল-কুরবা, কাছের প্রতিবেশী; আল-জার আল-জুনুব, দূরের প্রতিবেশী; আস-সাহিব বিল-জাম্ব, পাশের সঙ্গী; ইবনুস-সাবীল, মুসাফির; আর মা মালাকাত আইমানুকুম, তোমাদের অধিকারভুক্তরা। ক্রমটা বৃত্তের পর বৃত্ত ধরে বাইরের দিকে ছড়ায়। শুরু সেই দুজন থেকে, যাঁরা আপনাকে বড় করেছেন। তারপর যায় এমন একজন পর্যন্ত, যার আপনার ওপর কোনো দাবিই নেই, শুধু এটুকু ছাড়া যে সে পাশে দাঁড়িয়ে আছে। আর শেষে ফিরে আসে ঘরের ভেতরের অধীনস্থদের কাছে।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "Why the Neighbour Gets Two Places",
-          "bn": "প্রতিবেশী কেন দুবার এল"
-        },
-        "p": [
-          {
-            "en": "Neighbours are the only group given two separate phrases. The commentators record more than one way of dividing them: that al-jar dhi'l-qurba is the neighbour who is also a relative while al-jar al-junub is the one who is a stranger, and that the first means the door beside yours while the second means the houses further down the street. Either way the verse refuses to let the word neighbour shrink to the neighbours we already like.",
-            "bn": "প্রতিবেশীই একমাত্র শ্রেণি, যাদের জন্য আলাদা দুটি কথা এসেছে। মুফাসসিররা এই দুইয়ের ভাগ একাধিকভাবে করেছেন। এক মতে, আল-জার যিল-কুরবা সেই প্রতিবেশী, যে আত্মীয়ও, আর আল-জার আল-জুনুব সেই প্রতিবেশী, যে অনাত্মীয়। আরেক মতে, প্রথমটা আপনার ঠিক পাশের দরজা, আর দ্বিতীয়টা রাস্তার আরও ওদিকের বাড়িগুলো। যেভাবেই পড়ুন, আয়াত 'প্রতিবেশী' শব্দটাকে শুধু আমাদের পছন্দের প্রতিবেশীদের মধ্যে ছোট হয়ে যেতে দেয় না।"
+            "en": "As-Sa'di defines the worship commanded as entering under servanthood to Allah, yielding to His commands and prohibitions out of love, humility and sincerity. The shirk forbidden, he says, is all of it, lesser or greater, with no angel, prophet or saint as partner. Al-Qurtubi records that the scholars agree the verse is muhkam, with nothing in it abrogated, and calls it a foundation for keeping deeds purely for Allah, free of showing off.",
+            "bn": "সা'দী আদিষ্ট ইবাদতের সংজ্ঞা দেন এভাবে: আল্লাহর দাসত্বের অধীনে ঢুকে পড়া, ভালোবাসা, বিনয় আর ইখলাসের সঙ্গে তাঁর আদেশ-নিষেধ মেনে নেওয়া। তাঁর মতে নিষিদ্ধ শিরক ছোট-বড় সবটাই। ফেরেশতা, নবী, ওলি, কাউকেই শরিক করা চলবে না। কুরতুবী জানান, আলেমরা একমত যে আয়াতটি মুহকাম, এর কোনো অংশ মানসুখ নয়। তিনি একে বলেছেন আমলকে খাঁটিভাবে আল্লাহর জন্য রাখার মূল ভিত্তি, যেখানে লোক দেখানোর কোনো মিশ্রণ থাকবে না।"
           },
           {
-            "en": "The sunnah presses the same point hard. Al-Bukhari relates from Ibn Umar (RA) that the Prophet ﷺ said Jibril kept urging him about the neighbour until he thought the neighbour would be given a share of inheritance. Al-Bukhari also relates from Abu Shurayh (RA) that the Prophet ﷺ swore three times that a man does not believe, and when asked who, answered: the one whose neighbour is not safe from his harm. A neighbour is chosen by nobody and owed by everybody.",
-            "bn": "সুন্নাহ এই কথাটার ওপর খুব জোর দেয়। ইমাম বুখারী ইবনে উমার (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: জিবরীল প্রতিবেশীর ব্যাপারে আমাকে এত বেশি অসিয়ত করতে থাকলেন যে আমার মনে হলো প্রতিবেশীকে মিরাসের অংশ দিয়ে দেওয়া হবে। ইমাম বুখারী আবু শুরাইহ (রাঃ) থেকেও বর্ণনা করেন, নবী ﷺ তিনবার শপথ করে বললেন, সে ঈমানদার নয়। জিজ্ঞেস করা হলো, কে? তিনি বললেন: যার প্রতিবেশী তার অনিষ্ট থেকে নিরাপদ নয়। প্রতিবেশী কেউ বেছে নেয় না, অথচ তার হক সবার ওপর।"
+            "en": "Al-Baghawi and Ibn Kathir both bring a hadith here, which al-Bukhari records (2856). Mu'adh (RA) said: I was riding behind the Prophet ﷺ on a donkey called 'Ufayr, and he said, 'Mu'adh, do you know Allah's right over His servants, and the servants' right over Allah?' I said, Allah and His Messenger know best. He said, 'Allah's right over the servants is that they worship Him and associate nothing with Him, and the servants' right over Allah is that He not punish whoever associates nothing with Him.' I said, Messenger of Allah, shall I not give people the good news? He said, 'Do not, lest they rely on it.'",
+            "bn": "এই জায়গায় বাগাভী ও ইবন কাসীর দুজনেই একটি হাদিস আনেন, যা ইমাম বুখারী বর্ণনা করেছেন (২৮৫৬)। মুআয (রাঃ) বলেন: আমি উফাইর নামের এক গাধার পিঠে নবী ﷺ-এর পেছনে বসা ছিলাম। তিনি বললেন, 'হে মুআয, তুমি কি জানো বান্দাদের ওপর আল্লাহর হক কী, আর আল্লাহর ওপর বান্দাদের হক কী?' আমি বললাম, আল্লাহ ও তাঁর রাসূলই ভালো জানেন। তিনি বললেন, 'বান্দাদের ওপর আল্লাহর হক হলো, তারা তাঁর ইবাদত করবে আর কোনো কিছুকে তাঁর শরিক করবে না। আর আল্লাহর ওপর বান্দাদের হক হলো, যে তাঁর সঙ্গে কিছু শরিক করে না, তাকে তিনি শাস্তি দেবেন না।' আমি বললাম, হে আল্লাহর রাসূল, আমি কি লোকদের এই সুসংবাদ দেব না? তিনি বললেন, 'দিয়ো না, তাহলে তারা এর ওপরই ভরসা করে বসে থাকবে।'"
           }
         ]
       },
       {
         "h": {
-          "en": "The Ones Easiest to Overlook",
-          "bn": "যাদের সহজেই চোখ এড়িয়ে যায়"
+          "en": "Ihsan, Not Merely Dues",
+          "bn": "পাওনার চেয়ে বেশি: ইহসান"
         },
         "p": [
           {
-            "en": "As-sahib bi'l-janb is the companion at your side, and the commentators give the phrase a wide range: the wife, the travelling companion, the person who happens to be sitting next to you. What they share is nearness without any formal claim. Ibn as-sabil, literally the son of the road, is the traveller cut off from his own resources — a stranger you will most likely never meet again, which is precisely why the verse names him.",
-            "bn": "আস-সাহিব বিল-জাম্ব মানে পাশের সঙ্গী। মুফাসসিররা কথাটার অর্থ বেশ প্রশস্ত করে নিয়েছেন: স্ত্রী, সফরসঙ্গী, কিংবা ঘটনাচক্রে যে আপনার পাশে বসে আছে। এদের মধ্যে মিল একটাই: কাছাকাছি আছে, কিন্তু আনুষ্ঠানিক কোনো দাবি নেই। ইবনুস-সাবীল, আক্ষরিক অর্থে 'পথের সন্তান', সেই মুসাফির, যে নিজের সম্বল থেকে বিচ্ছিন্ন হয়ে পড়েছে। এমন এক অচেনা মানুষ, যার সঙ্গে সম্ভবত আর কখনো দেখা হবে না। ঠিক এ কারণেই আয়াত তার নাম নিয়েছে।"
+            "en": "As-Sa'di marks the turn: having commanded His worship and His right, Allah commands the rights of His servants, the nearest and then the next nearest. First come the parents, wa bil-walidayni ihsana. At-Tabari reads it as and He commanded you regarding parents ihsan, meaning dutiful kindness, and says ihsan ends in the accusative because it is a command to hold fast to doing good, by way of urging.",
+            "bn": "সা'দী এখানে মোড়টা ধরিয়ে দেন। নিজের ইবাদত আর নিজের হকের আদেশ দেওয়ার পর আল্লাহ আদেশ দিচ্ছেন বান্দাদের হক আদায়ের, যে যত কাছের সে তত আগে। প্রথমে বাবা-মা: ওয়া বিল-ওয়ালিদাইনি ইহসানা। তাবারী এর অর্থ করেন, আর তিনি তোমাদের বাবা-মার ব্যাপারে ইহসানের আদেশ দিয়েছেন, মানে তাঁদের সঙ্গে সদাচরণ। তিনি বলেন, ইহসান শব্দের শেষে যবর এসেছে, কারণ কথাটা ইহসান আঁকড়ে থাকার আদেশ, উদ্বুদ্ধ করার ভঙ্গিতে বলা।"
           },
           {
-            "en": "The list closes with those whom your right hands possess. Al-Bukhari relates from Abu Dharr (RA) that the Prophet ﷺ described them as brothers whom Allah has placed under our hand, and instructed that whoever has such a brother under his hand should feed him from what he eats and clothe him from what he wears, and not burden him beyond his strength. Abu Dawud relates from Ali (RA) that among the last counsels of the Prophet ﷺ were the prayer, and those whom your right hands possess.",
-            "bn": "তালিকা শেষ হয় তাদের দিয়ে, যারা তোমাদের অধিকারভুক্ত। ইমাম বুখারী আবু যার (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ তাদের বলেছেন ভাই, যাদের আল্লাহ আমাদের হাতের নিচে রেখেছেন। তিনি নির্দেশ দিয়েছেন, যার হাতের নিচে এমন ভাই আছে, সে যেন নিজে যা খায় তা থেকে তাকে খাওয়ায়, নিজে যা পরে তা থেকে পরায়, আর তার সাধ্যের বাইরে বোঝা না চাপায়। আবু দাউদ আলী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ-এর শেষ অসিয়তগুলোর মধ্যে ছিল নামাজ, আর তোমাদের অধিকারভুক্তরা।"
-          }
-        ]
-      },
-      {
-        "h": {
-          "en": "Why It Ends With Pride",
-          "bn": "শেষটা অহংকার দিয়ে কেন"
-        },
-        "p": [
-          {
-            "en": "The verse closes on what looks at first like a change of subject: Allah does not love the one who is mukhtal fakhur. Mukhtal comes from khuyala', self-delusion, and describes a bearing, the swagger of a man impressed with himself. Fakhur is the boaster, who needs an audience to hear about it. One word faces inward and one faces outward, and between them they explain why the nine claims above go unmet. A man too pleased with himself does not notice a neighbour.",
-            "bn": "আয়াত শেষ হয় এমন কথায়, যা প্রথম দেখায় প্রসঙ্গ বদল মনে হয়: যে মুখতাল ও ফাখূর, আল্লাহ তাকে ভালোবাসেন না। মুখতাল এসেছে খুয়ালা থেকে, মানে আত্মমুগ্ধতা। শব্দটা একটা চালচলনের ছবি: নিজেকে নিয়ে মুগ্ধ মানুষের দম্ভভরা হাঁটা। ফাখূর হলো সেই বড়াইকারী, যার বড়াই শোনানোর জন্য শ্রোতা লাগে। একটা শব্দ ভেতরের দিকে তাকায়, আরেকটা বাইরের দিকে। দুটো মিলে বুঝিয়ে দেয়, ওপরের নয়টি হক কেন আদায় হয় না। নিজেকে নিয়ে যে খুব খুশি, সে প্রতিবেশীকে চোখেই দেখে না।"
+            "en": "The Arabic sets bi- before the parents and again before the kin, wa bi-dhi l-qurba; from the orphans on, the names follow with wa alone. The commentators carry the ihsan down the list. At-Tabari reads the kin clause as and He also commanded regarding the kin, ihsan, by keeping the tie, and after the needy he sums up: take My counsel to do these good. Al-Qurtubi records that Ibn Abi 'Abla read ihsanun, meaning doing them good is a duty; the rest read ihsanan, do them good.",
+            "bn": "আরবিতে 'বি' অব্যয়টি বাবা-মার আগে এসেছে, আবার এসেছে আত্মীয়দের আগে: ওয়া বি-যিল কুরবা। এতিম থেকে বাকি নামগুলো জুড়েছে শুধু 'ওয়া' দিয়ে। মুফাসসিররা ইহসানকে তালিকার শেষ পর্যন্ত টেনে নেন। তাবারী আত্মীয়ের অংশের অর্থ করেন: আর তিনি আত্মীয়দের ব্যাপারেও ইহসানের আদেশ দিয়েছেন, আত্মীয়তার বন্ধন রক্ষা করে। অভাবীদের উল্লেখের পর তিনি সারকথা বলেন: এদের সঙ্গে ইহসান করার ব্যাপারে আমার অসিয়ত মেনে চলো। কুরতুবী জানান, ইবন আবী আবলা পড়েছেন 'ইহসানুন', অর্থাৎ তাঁদের প্রতি ইহসান ওয়াজিব। বাকি সবাই পড়েছেন 'ইহসানান', অর্থাৎ তাঁদের সঙ্গে ইহসান করো।"
           },
           {
-            "en": "The verses that follow confirm the link. 4:37 describes those who are stingy, who order stinginess on others, and who conceal what Allah gave them of His bounty, and 4:38 adds those who spend only to be seen by people. Arrogance, meanness and display are handled as one illness with three symptoms. The same pair of words, mukhtal fakhur, appears inside the counsel of Luqman at 31:18 and returns in 57:23 about not exulting over what you were given.",
-            "bn": "পরের আয়াতগুলো এই যোগসূত্রটা পাকা করে দেয়। ৪:৩৭ আয়াত তাদের কথা বলে, যারা কৃপণতা করে, অন্যদেরও কৃপণ হতে বলে, আর আল্লাহ নিজের অনুগ্রহে যা দিয়েছেন তা লুকিয়ে রাখে। ৪:৩৮ আয়াত যোগ করে তাদের, যারা খরচ করে শুধু লোক দেখানোর জন্য। অহংকার, কৃপণতা আর লোক দেখানো, আয়াতগুলো এই তিনটাকে দেখায় একই রোগের তিন লক্ষণ হিসেবে। এই একই শব্দজোড়া, মুখতাল ফাখূর, ৩১:১৮ আয়াতে লুকমানের উপদেশের ভেতরে এসেছে। আবার ফিরে এসেছে ৫৭:২৩ আয়াতে, যা দেওয়া হয়েছে তা নিয়ে উল্লাস না করার প্রসঙ্গে।"
+            "en": "As-Sa'di spells the ihsan out: noble words, gentle address, fine conduct, obeying them and avoiding what they forbid, spending on them, honouring those connected to them, keeping the ties that reach you only through them. Ihsan, he adds, has two opposites, ill-treatment and the mere absence of good, and both are forbidden. Ma'arif al-Qur'an notes that the verse does not say fulfil their rights or serve them but ihsan, which is far wider, and that a parent's own failings give a child no excuse for ill-treatment.",
+            "bn": "সা'দী ইহসানের খুঁটিনাটি বলে দেন: সম্মানের কথা, নরম সম্বোধন, সুন্দর আচরণ, তাঁদের আদেশ মানা আর নিষেধ এড়িয়ে চলা, তাঁদের জন্য খরচ করা, তাঁদের সঙ্গে যাদের সম্পর্ক তাদের সম্মান করা, আর সেই আত্মীয়তা রক্ষা করা যা শুধু তাঁদের মাধ্যমেই আপনার সঙ্গে জোড়া। তিনি আরও বলেন, ইহসানের বিপরীত দুটি: খারাপ আচরণ, আর ভালো আচরণ না করা। দুটোই নিষিদ্ধ। মাআরিফুল কুরআন লক্ষ করে, আয়াত বলেনি তাঁদের হক আদায় করো বা খেদমত করো। বলেছে ইহসান, যা অনেক বেশি ব্যাপক। বাবা-মা নিজেরা ত্রুটি করে থাকলেও সন্তানের জন্য তা দুর্ব্যবহারের অজুহাত হয় না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Working Through the Rings",
-          "bn": "বৃত্তগুলো ধরে ধরে চলা"
+          "en": "Kin, Orphans and the Needy",
+          "bn": "আত্মীয়, এতিম আর অভাবী"
         },
         "p": [
           {
-            "en": "The verse turns easily into an audit. Take the nine in order and ask, for each ring, when you last did something for someone in it that was not owed. Most people find the gap is in the middle rings: the neighbour still unnamed after four years, the colleague at the next desk, the person who works in the house. They are named because they are the easiest to step past.",
-            "bn": "আয়াতটা সহজেই নিজের হিসাব নেওয়ার একটা তালিকা হয়ে যায়। নয়টি নাম ক্রম ধরে নিন, আর প্রতিটি বৃত্তের জন্য নিজেকে জিজ্ঞেস করুন: শেষ কবে আপনি সেই বৃত্তের কারও জন্য এমন কিছু করেছেন, যা তার পাওনা ছিল না? বেশির ভাগ মানুষ দেখেন, ফাঁকটা মাঝের বৃত্তগুলোতে: চার বছর পরেও যে প্রতিবেশীর নাম জানা হয়নি, পাশের ডেস্কের সহকর্মী, ঘরে যিনি কাজ করেন। তাদের নাম এসেছে, কারণ তাদেরকেই সবচেয়ে সহজে পাশ কাটিয়ে যাওয়া যায়।"
+            "en": "As-Sa'di extends dhu l-qurba to every relative, near or distant, done good in word and deed and never cut off by either. At-Tabari defines the orphan as the child whose father has died; Ibn Kathir says orphans are named because they have lost whoever saw to their affairs and spent on them. As-Sa'di gives them a right over the Muslims, kin or not: to be provided for, treated kindly, consoled, and raised well for their religion and their world.",
+            "bn": "সা'দী যুল-কুরবার মধ্যে সব আত্মীয়কে ধরেন, কাছের হোক বা দূরের। কথায় ও কাজে তাদের সঙ্গে ভালো করতে হবে, কথা বা কাজ দিয়ে সম্পর্ক ছিন্ন করা চলবে না। তাবারী এতিমের সংজ্ঞা দেন: যে শিশুর বাবা মারা গেছেন। ইবন কাসীর বলেন কেন তাদের নাম এল: যে তাদের দেখাশোনা করত আর তাদের জন্য খরচ করত, তাকে তারা হারিয়েছে। সা'দীর মতে মুসলমানদের ওপর তাদের হক আছে, আত্মীয় হোক বা না হোক। তাদের দায়িত্ব নিতে হবে, সদয় হতে হবে, মন ভালো রাখতে হবে, আর দ্বীন ও দুনিয়ার কল্যাণে সুন্দরভাবে বড় করতে হবে।"
+          },
+          {
+            "en": "For al-masakin at-Tabari goes into the word: the miskin is one whom the humiliation of want has mounted, so that he is brought low by it. As-Sa'di uses the same root: those whom need and poverty have made still, unable to reach what suffices them or those they support. The command, he says, is to fill their gap, ease their want, urge others to do so, and do whatever one can.",
+            "bn": "মাসাকীনের ব্যাখ্যায় তাবারী শব্দটার ভেতরে ঢোকেন। মিসকিন সেই মানুষ, অভাবের লাঞ্ছনা যার ঘাড়ে চেপে বসেছে, ফলে সে নুয়ে পড়েছে। সা'দীও একই ধাতু ধরে বলেন, এরা তারা, অভাব আর দারিদ্র্য যাদের স্থবির করে দিয়েছে। নিজের প্রয়োজনটুকু বা পোষ্যদের প্রয়োজনও তারা মেটাতে পারে না। তাঁর ভাষায় আদেশ হলো, তাদের ঘাটতি পূরণ করা, অভাব দূর করা, অন্যদের এতে উৎসাহ দেওয়া, আর যতটুকু পারা যায় করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Neighbour, Two Phrases",
+          "bn": "এক প্রতিবেশী, দুই পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Al-jari dhi l-qurba wal-jari l-junub: the neighbour alone gets two phrases, and the commentators divide them in three ways. The first, which at-Tabari gives from Ibn 'Abbas, Mujahid, 'Ikrimah, ad-Dahhak, Qatadah and Ibn Zayd: the neighbour who is also your relative, and the neighbour with no kinship to you. Ibn Kathir gives the same. Qatadah adds that a neighbour who is kin holds two rights, of kinship and of neighbourliness, and as-Sa'di says the same.",
+            "bn": "ওয়াল জারি যিল কুরবা ওয়াল জারিল জুনুব: শুধু প্রতিবেশীর জন্যই দুটি আলাদা কথা এসেছে, আর এ দুইয়ের ব্যাখ্যায় মুফাসসিরদের তিনটি মত আছে। প্রথম মতটি তাবারী এনেছেন ইবন আব্বাস, মুজাহিদ, ইকরিমা, দাহহাক, কাতাদা ও ইবন যায়েদ থেকে: প্রথমজন সেই প্রতিবেশী যে আপনার আত্মীয়ও, দ্বিতীয়জন যার সঙ্গে আপনার কোনো আত্মীয়তা নেই। ইবন কাসীরও একই কথা আনেন। কাতাদা যোগ করেন, আত্মীয় প্রতিবেশীর হক দুটি: আত্মীয়তার হক আর প্রতিবেশীর হক। সা'দীও তা-ই বলেন।"
+          },
+          {
+            "en": "The second is Nawf ash-Shami's, recorded by at-Tabari, Ibn Kathir and al-Qurtubi: the near neighbour is the Muslim, the junub the Jew and the Christian. At-Tabari rejects it, since in Arab usage dhu qarabah means kinship of blood, not of religion; junub, he concludes, is the stranger, Muslim or not, Jew or Christian, so the counsel covers every kind of neighbour. Al-Qurtubi, after Nawf's reading, writes that care for the neighbour is commanded whether he is Muslim or not, and that this is correct.",
+            "bn": "দ্বিতীয় মতটি নাওফ আশ-শামীর। তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই এটি এনেছেন: কাছের প্রতিবেশী মানে মুসলিম, আর জুনুব মানে ইহুদি ও খ্রিস্টান। তাবারী মতটি নাকচ করেন, কারণ আরবদের ভাষায় 'যু কারাবা' বলতে রক্তের আত্মীয়তা বোঝায়, ধর্মের নৈকট্য নয়। তাঁর সিদ্ধান্ত, জুনুব মানে অপরিচিত মানুষ, মুসলিম হোক বা না হোক, ইহুদি হোক বা খ্রিস্টান। তাহলে অসিয়ত সব ধরনের প্রতিবেশীকে ঘিরে নেয়। কুরতুবী নাওফের মত উল্লেখ করে লেখেন, প্রতিবেশীর প্রতি সদাচরণের আদেশ আছে, সে মুসলিম হোক বা না হোক, আর এটাই সঠিক।"
+          },
+          {
+            "en": "The third divides by distance. Ma'arif al-Qur'an says commentators generally take the near neighbour as the one next door and the distant one as further off. Al-Qurtubi traces this to scholars who read it through 'Aishah's (RA) question, which al-Bukhari records (6020): 'Messenger of Allah, I have two neighbours; to which shall I send a gift?' He said, 'To the one whose door is nearer to you.' They also argued from it for a neighbour's right of pre-emption; al-Qurtubi replies that there is no proof in it, since she asked only whom to start with.",
+            "bn": "তৃতীয় মত ভাগ করে দূরত্ব দিয়ে। মাআরিফুল কুরআন বলে, সাধারণভাবে মুফাসসিররা কাছের প্রতিবেশী বলতে পাশের বাড়ির লোক আর দূরের প্রতিবেশী বলতে একটু দূরে যে থাকে তাকে বোঝেন। কুরতুবী জানান, একদল আলেম এ অর্থ নিয়েছেন আয়েশা (রাঃ)-এর একটি প্রশ্ন থেকে, যা ইমাম বুখারী বর্ণনা করেছেন (৬০২০): 'হে আল্লাহর রাসূল, আমার দুজন প্রতিবেশী আছে, কাকে হাদিয়া পাঠাব?' তিনি বললেন, 'যার দরজা তোমার বেশি কাছে।' তাঁরা এ হাদিস দিয়ে প্রতিবেশীর শুফআর (অগ্রক্রয়ের) অধিকারও প্রমাণ করতে চেয়েছেন। কুরতুবীর জবাব, এতে কোনো প্রমাণ নেই। আয়েশা (রাঃ) শুধু জানতে চেয়েছিলেন কাকে দিয়ে শুরু করবেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an holds that the words bear all these meanings: neighbours may differ in degree, but every neighbour, related or not, Muslim or not, has the right to be helped and cared for. Al-Baghawi, Ibn Kathir, al-Qurtubi and Ma'arif all bring one hadith here. In al-Bukhari's wording (6015), from Ibn 'Umar (RA), the Messenger of Allah ﷺ said: 'Jibril (AS) kept counselling me about the neighbour until I thought he would make him an heir.'",
+            "bn": "মাআরিফুল কুরআনের মতে আয়াতের শব্দ এই সব অর্থই ধারণ করে। প্রতিবেশীদের মধ্যে মর্যাদার তারতম্য থাকতে পারে, কিন্তু আত্মীয় হোক বা না হোক, মুসলিম হোক বা না হোক, প্রত্যেক প্রতিবেশীর হক হলো সাহায্য আর যত্ন পাওয়া। বাগাভী, ইবন কাসীর, কুরতুবী ও মাআরিফ সবাই এখানে একটি হাদিস আনেন। ইমাম বুখারীর বর্ণনায় (৬০১৫), ইবন উমার (রাঃ) থেকে, রাসূলুল্লাহ ﷺ বলেছেন: 'জিবরীল (আঃ) প্রতিবেশীর ব্যাপারে আমাকে এত বেশি অসিয়ত করতে থাকলেন যে আমার মনে হলো, তিনি তাকে ওয়ারিস বানিয়ে দেবেন।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At Your Side, On the Road",
+          "bn": "পাশের সঙ্গী, পথের মুসাফির"
+        },
+        "p": [
+          {
+            "en": "As-sahibi bil-janb, the companion at the side, has the widest spread. At-Tabari records three readings. The travelling companion, from Ibn 'Abbas, Sa'id ibn Jubayr, Mujahid, Qatadah, as-Suddi and ad-Dahhak; Mujahid pictures him as the man whose stopping place, food and road are yours. The wife, who is at a man's side, from 'Ali and Ibn Mas'ud (RA), Ibn Abi Layla and Ibrahim an-Nakha'i. And whoever stays close hoping for your benefit, from Ibn Jurayj and Ibn Zayd.",
+            "bn": "আস-সাহিবি বিল-জাম্ব, পাশের সঙ্গী, এর অর্থের পরিধিই সবচেয়ে বড়। তাবারী তিনটি মত এনেছেন। এক, সফরসঙ্গী: ইবন আব্বাস, সাঈদ ইবন জুবাইর, মুজাহিদ, কাতাদা, সুদ্দী ও দাহহাকের মত। মুজাহিদ তার ছবি আঁকেন এভাবে: তার মঞ্জিল আপনার মঞ্জিল, তার খাবার আপনার খাবার, তার পথ আপনার পথ। দুই, স্ত্রী, যে স্বামীর পাশে থাকে: আলী ও ইবন মাসউদ (রাঃ), ইবন আবী লায়লা আর ইবরাহীম নাখঈর মত। তিন, যে উপকারের আশায় আপনার সঙ্গে লেগে থাকে: ইবন জুরাইজ ও ইবন যায়েদের মত।"
+          },
+          {
+            "en": "At-Tabari takes the phrase from being at someone's flank, and since Allah singled none of them out, he concludes that all are meant and all are owed ihsan. Al-Qurtubi calls the travelling companion the sounder reading, while allowing that the verse may take in all of them by its generality. As-Sa'di prefers the companion in general, at home or travelling, the wife included. Ibn Kathir records from Zayd ibn Aslam: whoever sits beside you at home, and your companion on the road.",
+            "bn": "তাবারী শব্দটিকে নেন কারও পাশ ঘেঁষে থাকার অর্থ থেকে। আল্লাহ যেহেতু এদের কাউকে আলাদা করে বেছে নেননি, তাই তাঁর সিদ্ধান্ত: সবাই এর মধ্যে আছে, আর সবার সঙ্গেই ইহসান করতে হবে। কুরতুবী সফরসঙ্গীর মতকে বেশি সঠিক বলেন, তবে মানেন যে ব্যাপক অর্থের কারণে আয়াত সবাইকে ধরতে পারে। সা'দী পছন্দ করেন সাধারণ সঙ্গীর অর্থ, ঘরে হোক বা সফরে, স্ত্রীও যার মধ্যে পড়ে। ইবন কাসীর যায়েদ ইবন আসলাম থেকে আনেন: ঘরে যে আপনার পাশে বসে, আর সফরে যে আপনার সঙ্গী।"
+          },
+          {
+            "en": "Ibn as-sabil is literally the son of the road. Ibn Kathir records two readings, the guest, from Ibn 'Abbas and a group, and the traveller passing by, from Mujahid, al-Hasan, ad-Dahhak and others; he finds the second plainer, and the two one if guest meant the passer-by. Al-Baghawi says most took him as the guest. At-Tabari: he is the man of the road, owed help, hospitality and a mount if stranded in need, unless his journey is in disobedience to Allah.",
+            "bn": "ইবনুস সাবীল, আক্ষরিক অর্থে পথের সন্তান। ইবন কাসীর দুটি মত আনেন। ইবন আব্বাস ও একদলের মতে সে মেহমান। মুজাহিদ, হাসান, দাহহাক ও আরও কয়েকজনের মতে সে সফরে আপনার পাশ দিয়ে চলে যাওয়া মুসাফির। ইবন কাসীরের কাছে দ্বিতীয় মতটি বেশি স্পষ্ট, আর মেহমান বলতে যদি পথচারীই বোঝানো হয়, তবে দুটো একই কথা। বাগাভী বলেন, বেশির ভাগ আলেম তাকে মেহমান ধরেছেন। তাবারীর মতে সে পথের মানুষ। পথে আটকে অভাবে পড়লে সাহায্য, মেহমানদারি আর দরকার হলে বাহন পাওয়া তার হক, যদি না তার সফর আল্লাহর নাফরমানির জন্য হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Under Your Hand",
+          "bn": "যারা আপনার হাতের নিচে"
+        },
+        "p": [
+          {
+            "en": "Wa ma malakat aymanukum: and those your right hands possess. The commentators wrote in societies where slavery was an institution and explain the phrase in those terms, at-Tabari as the slaves you own. This article reports that as history and argues nothing for the institution. What the commentators stress is the reason for the counsel. Ibn Kathir: such a person is weak in means, a captive in others' hands. Al-Qurtubi: the Prophet ﷺ led owners toward humility, to see no superiority in themselves, since all are servants of Allah and the wealth is His.",
+            "bn": "ওয়া মা মালাকাত আইমানুকুম: আর তোমাদের ডান হাত যাদের মালিক। মুফাসসিররা লিখেছেন এমন সমাজে, যেখানে দাসপ্রথা একটি প্রতিষ্ঠান ছিল, তাই কথাটির ব্যাখ্যাও দিয়েছেন সেই প্রেক্ষাপটে। তাবারীর ব্যাখ্যায় এরা তোমাদের মালিকানাধীন দাস-দাসী। এই লেখা সেই ব্যাখ্যাকে ইতিহাস হিসেবেই তুলে ধরছে, প্রথাটির পক্ষে কোনো যুক্তি দিচ্ছে না। মুফাসসিররা জোর দেন অসিয়তের কারণের ওপর। ইবন কাসীর বলেন, এমন মানুষ উপায়হীন, অন্যের হাতে বন্দী। কুরতুবী বলেন, নবী ﷺ মালিকদের বিনয়ের পথ দেখিয়েছেন, যাতে তারা নিজেদের কোনো শ্রেষ্ঠত্ব না দেখে। কারণ সবাই আল্লাহর বান্দা, আর সম্পদও আল্লাহরই।"
+          },
+          {
+            "en": "At-Tabari explains why ownership is credited to the right hand: those under a person eat what his hand passes them and wear what it clothes them in. As-Sa'di extends the phrase to people and animals alike: give them what suffices, do not load them with hardship, help them with what they bear. Ma'arif al-Qur'an applies the same rules, by analogy and from the Prophet's ﷺ sayings, to servants and employees: wages and meals without delay, and work within their strength.",
+            "bn": "মালিকানাকে কেন ডান হাতের সঙ্গে জোড়া হলো, তাবারী তা বুঝিয়ে দেন: যারা কারও অধীনে থাকে, তারা খায় তার হাত যা তুলে দেয়, পরে তার হাত যা পরিয়ে দেয়। সা'দী এর মধ্যে মানুষ আর পশু দুটোকেই ধরেন: তাদের প্রয়োজন মেটানো, কষ্টের বোঝা না চাপানো, যা বইছে তাতে হাত লাগানো। মাআরিফুল কুরআন কিয়াস আর নবী ﷺ-এর বাণীর ভিত্তিতে একই নিয়ম খাটায় কাজের লোক ও কর্মচারীর বেলায়: বেতন আর খাবার দিতে দেরি নয়, সাধ্যের বাইরে কাজ নয়।"
+          },
+          {
+            "en": "Al-Baghawi, Ibn Kathir and al-Qurtubi all bring the hadith of Abu Dharr (RA). In al-Bukhari's narration (6050), Abu Dharr had insulted a man through his mother, who was not an Arab, and the Prophet ﷺ told him, 'You are a man with jahiliyyah in you,' then said: 'They are your brothers; Allah has placed them under your hands. So whoever has his brother placed by Allah under his hand, let him feed him from what he eats, clothe him from what he wears, and not burden him with work that overwhelms him; and if he does burden him, let him help him with it.'",
+            "bn": "বাগাভী, ইবন কাসীর ও কুরতুবী তিনজনই আবু যার (রাঃ)-এর হাদিসটি আনেন। ইমাম বুখারীর বর্ণনায় (৬০৫০), আবু যার এক ব্যক্তিকে তার মায়ের কথা তুলে গালি দিয়েছিলেন, যিনি আরব ছিলেন না। নবী ﷺ তাঁকে বললেন, 'তুমি এমন মানুষ, যার মধ্যে জাহিলিয়াত রয়ে গেছে।' তারপর বললেন: 'তারা তোমাদের ভাই। আল্লাহ তাদের তোমাদের হাতের অধীনে রেখেছেন। তাই আল্লাহ যার ভাইকে তার হাতের অধীনে রেখেছেন, সে যেন নিজে যা খায় তা থেকে তাকে খাওয়ায়, নিজে যা পরে তা থেকে পরায়, আর তার ওপর এমন কাজ না চাপায় যা তাকে কাবু করে ফেলে। আর যদি চাপায়ই, তবে যেন সে কাজে তাকে সাহায্য করে।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pride at the Close",
+          "bn": "শেষ কথায় অহংকার"
+        },
+        "p": [
+          {
+            "en": "Inna Allaha la yuhibbu man kana mukhtalan fakhura: Allah does not love whoever is mukhtal and fakhur. At-Tabari explains mukhtal as a man given to khuyala', vanity, and fakhur as a man who boasts over Allah's servants of what Allah gave him, without praising Allah for it. Mujahid, in at-Tabari and Ibn Kathir: mukhtal is the arrogant, and fakhur is he who counts what he was given and does not thank Allah. Ibn Kathir adds: great in his own eyes, small before Allah, and disliked by people.",
+            "bn": "ইন্নাল্লাহা লা ইউহিব্বু মান কানা মুখতালান ফাখূরা: যে মুখতাল ও ফাখূর, আল্লাহ তাকে ভালোবাসেন না। তাবারীর ব্যাখ্যায় মুখতাল সে, যার মধ্যে খুয়ালা বা দম্ভ আছে। আর ফাখূর সে, আল্লাহর দেওয়া নিয়ামত নিয়ে যে আল্লাহর বান্দাদের ওপর বড়াই করে, অথচ সেজন্য আল্লাহর প্রশংসা করে না। তাবারী ও ইবন কাসীর মুজাহিদ থেকে আনেন: মুখতাল মানে অহংকারী, আর ফাখূর সে, যে নিজের পাওয়া জিনিস গুনে গুনে বলে কিন্তু আল্লাহর শোকর করে না। ইবন কাসীর যোগ করেন, সে নিজের চোখে বড়, আল্লাহর কাছে তুচ্ছ, আর মানুষের কাছে অপছন্দের।"
+          },
+          {
+            "en": "Why close a list of rights on this? Al-Baghawi answers directly: it follows the rights because the arrogant withholds what is due out of arrogance. Al-Qurtubi says the two traits carry their owners to disdain the poor relative, the poor neighbour and the rest, so Allah's command to do them good is lost. As-Sa'di sets the verse's halves side by side: whoever keeps these commands is humble before his Lord and toward His servants; whoever does not is held back by conceit and boasting.",
+            "bn": "হকের তালিকা এ কথা দিয়ে শেষ হলো কেন? বাগাভী সরাসরি উত্তর দেন: হকগুলোর পরে এটি এসেছে, কারণ অহংকারী অহংকারের কারণেই হক আটকে রাখে। কুরতুবী বলেন, এই দুই স্বভাব মানুষকে গরিব আত্মীয়, গরিব প্রতিবেশী আর আয়াতে উল্লিখিত অন্যদের তুচ্ছ ভাবতে শেখায়। ফলে তাদের সঙ্গে ইহসানের যে আদেশ আল্লাহ দিয়েছেন, তা হারিয়ে যায়। সা'দী আয়াতের দুই অংশকে পাশাপাশি রাখেন। যে এই আদেশগুলো পালন করে, সে রবের সামনে বিনীত, তাঁর বান্দাদের প্রতিও নম্র। আর যে করে না, তাকে আটকে রাখে তার আত্মমুগ্ধতা আর বড়াই।"
+          },
+          {
+            "en": "Abu Raja' al-Harawi, in at-Tabari and Ibn Kathir, noticed which words sit together. You never find one who treats those in his charge badly, he said, without finding him mukhtal fakhur, and he recited this verse; nor one undutiful to his parents without finding him overbearing and wretched, and he recited 19:32. The next verse, 4:37, turns to those who are stingy and hide what Allah gave them, and 4:38 to those who spend to be seen; those portraits belong to their own verses.",
+            "bn": "তাবারী ও ইবন কাসীর আবু রাজা আল-হারাভীর একটি পর্যবেক্ষণ এনেছেন: কোন শব্দের পাশে কোন শব্দ বসেছে। তিনি বলতেন, অধীনস্থদের সঙ্গে খারাপ আচরণ করে অথচ মুখতাল ফাখূর নয়, এমন কাউকে পাওয়া যাবে না, আর তিনি এ আয়াত তিলাওয়াত করতেন। বাবা-মার অবাধ্য অথচ উদ্ধত ও হতভাগা নয়, এমন কাউকেও পাওয়া যাবে না, এ কথা বলে তিনি ১৯:৩২ আয়াত পড়তেন। পরের আয়াত ৪:৩৭ তাদের কথা বলে, যারা কৃপণতা করে আর আল্লাহর দেওয়া অনুগ্রহ লুকিয়ে রাখে। ৪:৩৮ বলে তাদের কথা, যারা লোক দেখানোর জন্য খরচ করে। সেসব ছবি নিজ নিজ আয়াতের আলোচনার বিষয়।"
           }
         ]
       }
