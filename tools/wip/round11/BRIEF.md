@@ -92,3 +92,8 @@ The key already ships a short article (about 6 sections, 650-860 words) and a ca
   it in the LEDGER, and anything in it you found wrong (say what the source says).
 - Its headings may be reused if they fit (gate.js ignores the key's own headings).
 - COMMIT.md opens with one line: "Replaces the N-word, S-section article with ...".
+
+## 8. Scratch files
+Up to five drafters run at once. Put every helper script or scratch file in your own
+`tools/wip/round11/audit/<s>_<a>/` folder, never in the session scratchpad or /tmp,
+which other drafters share, and delete them before you finish.
