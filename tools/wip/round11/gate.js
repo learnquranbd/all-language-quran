@@ -59,6 +59,8 @@ if (art) {
 }
 const sw = run(`node tools/wip/round11/sweep.js ${path.relative(ROOT, artF)}`);
 say(/SWEEP CLEAN/.test(sw), 'sweep' + (/SWEEP CLEAN/.test(sw) ? '' : '\n' + sw.split('\n').filter(l => !/^spellings used/.test(l)).join('\n')));
+const nk = run(`node tools/wip/round11/nukta.js ${path.relative(ROOT, artF)}`).trim();
+say(/nukta clean/.test(nk), 'nukta (য় ড় ঢ় precomposed)' + (/nukta clean/.test(nk) ? '' : '\n' + nk + '\n     fix: node tools/wip/round11/nukta.js ' + path.relative(ROOT, artF) + ' --write'));
 const nu = run(`node tools/wip/round11/nums.js ${path.relative(ROOT, artF)}`).trim();
 say(!nu, 'nums (EN-only numbers)' + (nu ? '\n' + nu : ''));
 console.log(bad ? `\n${bad} FAIL` : '\nALL GATES CLEAN');

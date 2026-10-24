@@ -31,6 +31,8 @@ sunnah.com returns 403, so don't try it.
   verse refs as the English. At most one em dash per Bengali paragraph. Bengali digits
   in refs. Bengali ranges as pairs (১২:৩১ ও ১২:৩২). Prophets' honorific `(আঃ)`,
   matching what ships.
+- Write য় ড় ঢ় precomposed (U+09DF/DC/DD), never base + U+09BC nukta, and never run NFC
+  on the Bengali (NFC splits them). gate.js checks it; `nukta.js <file> --write` fixes it.
 - Headings 2-6 words, unique in both languages against everything shipped and every
   draft; don't use the spec's section labels verbatim.
 - Card: reflection 100-130 EN words, 4-5 questions, `lessonEn` under 35 words, 0-2

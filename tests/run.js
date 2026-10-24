@@ -30,6 +30,7 @@ const CHECKS = [
   'check-seerah-index.js',
   'check-bn-digits.js',
   'check-bangla-style.js',
+  'check-tadabbur-nukta.js',
   'check-modules.js',
   'check-morphology-fixes.js',
 ];

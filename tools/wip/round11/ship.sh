@@ -8,6 +8,7 @@ KEY="$1"; [ -z "$KEY" ] && { echo "usage: ship.sh <key>"; exit 1; }
 B="${KEY/:/_}"; W=tools/wip/round11
 OLD=$(grep -o 'lq-v[0-9]*' sw.js | head -1 | grep -o '[0-9]*'); NEW=$((OLD+1))
 node tools/merge-tadabbur-notes.js $W/$B-notes.js --write | grep -E 'CLEAN|!!|merged'
+node tools/wip/round11/nukta.js $W/$B-articles.js --write
 node tools/merge-articles.js $W/$B-articles.js js/tadabbur-articles TADABBUR_ARTICLES js/tadabbur-data.js TADABBUR_NOTES --band 1200-2000 --write | grep -E 'subjects|CLEAN|!!'
 node tools/build-article-index.js | tail -1
 sed -i "s/?v=$OLD/?v=$NEW/g" index.html sw.js && sed -i "s/lq-v$OLD/lq-v$NEW/" sw.js
