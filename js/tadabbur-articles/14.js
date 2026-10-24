@@ -763,97 +763,157 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "The Sum of a List of Gifts",
-          "bn": "নিয়ামতের তালিকা আর তার যোগফল"
+          "en": "Where the Inventory Arrives",
+          "bn": "তালিকা যেখানে এসে থামে"
         },
         "p": [
           {
-            "en": "This verse concludes an inventory. In 14:32-33 Allah recounts what He has set to work for mankind: He created the heavens and the earth, sent down water from the sky and brought out fruits as provision, subjected the ships to run upon the sea by His command, the rivers, the sun and the moon persistent in their courses, and the night and the day. Each item is something no human hand built and no human bill ever paid for.",
-            "bn": "এ আয়াত একটি তালিকার শেষ টানে। ১৪:৩২-৩৩ আয়াতে আল্লাহ গুনিয়ে বলেন, মানুষের কাজে তিনি কী কী লাগিয়ে দিয়েছেন: আসমান ও যমীন সৃষ্টি করেছেন, আকাশ থেকে পানি নামিয়ে তা দিয়ে রিযিক হিসেবে ফলমূল বের করেছেন, নিজের হুকুমে সাগরে চলার জন্য নৌযানকে বশ করে দিয়েছেন; বশ করে দিয়েছেন নদীগুলোকে, নিজ নিজ পথে অবিরাম চলা সূর্য ও চাঁদকে, আর রাত ও দিনকে। এর একটিও কোনো মানুষের হাতে গড়া নয়, আর কোনোটির দাম কোনো মানুষ কোনোদিন শোধ করেনি।"
+            "en": "This verse closes a run of gifts. In 14:32 and 14:33 Allah names what He made and set to work for people: the heavens and the earth, rain and the fruits it brings out as provision, ships running on the sea by His command, the rivers, the sun and the moon constant in their courses, the night and the day. At-Tabari reads the opening against that list: besides all this, He gave you of everything you asked of Him.",
+            "bn": "আয়াতটি একগুচ্ছ দানের শেষ কথা। ১৪:৩২ ও ১৪:৩৩ আয়াতে আল্লাহ বলেছেন কী তিনি সৃষ্টি করেছেন আর মানুষের কাজে লাগিয়ে দিয়েছেন: আসমান ও যমীন, বৃষ্টি আর তাতে জন্মানো ফল, যা মানুষের রিযিক, তাঁর হুকুমে সাগরে চলা নৌযান, নদী, নিজ পথে অবিরাম চলা সূর্য ও চাঁদ, রাত ও দিন। তাবারী এ আয়াতের শুরুটা পড়েন এই তালিকার পাশে রেখে: এতসব দেওয়ার পাশাপাশি তোমরা যা কিছু চেয়েছ, তার প্রতিটি থেকেও তিনি তোমাদের দিয়েছেন।"
           },
           {
-            "en": "Then comes the summary: wa atakum min kulli ma sa'altumuh, and He gave you from all that you asked of Him. The verb atakum is in the past tense — the giving has already happened, before any thanks were considered. Reading the list and the summary together makes the verse's method plain: it does not argue for gratitude in the abstract, it walks the reader through the warehouse first and then asks them to consider the ledger.",
-            "bn": "তারপর আসে সারকথা: ওয়া আতাকুম মিন কুল্লি মা সাআলতুমূহ, আর তোমরা তাঁর কাছে যা চেয়েছ, তার সবকিছু থেকেই তিনি তোমাদের দিয়েছেন। 'আতাকুম' ক্রিয়াটি অতীতকালে: দেওয়া হয়ে গেছে আগেই, শুকরিয়ার কথা ভাবারও আগে। তালিকা আর সারকথা একসঙ্গে পড়লে আয়াতের ধরনটা পরিষ্কার হয়। আয়াত শুকরিয়ার পক্ষে কোনো তাত্ত্বিক যুক্তি দেয় না। আগে পাঠককে গোটা ভাণ্ডারটা ঘুরিয়ে দেখায়, তারপর বলে, এবার হিসাবের খাতাটা ভেবে দেখুন।"
+            "en": "The list sits inside a sharper frame: 14:28 speaks of those who exchanged the favour of Allah for disbelief, and 14:30 of rivals set up to lead people from His way. Al-Qurtubi draws the line aloud. After naming hearing, sight and the shaping of the human form, he asks why people exchange such favours for disbelief instead of using them to obey Him. As-Sa'di says these verses set out Allah's favours, in summary and in detail, to call His servants to thank and remember Him.",
+            "bn": "তালিকাটির চারপাশে আরও কড়া প্রেক্ষাপট আছে। ১৪:২৮ আয়াতে এসেছে তাদের কথা, যারা আল্লাহর নিয়ামতের বদলে কুফর বেছে নিয়েছিল, আর ১৪:৩০ আয়াতে মানুষকে তাঁর পথ থেকে সরাতে দাঁড় করানো সমকক্ষের কথা। কুরতুবী যোগসূত্রটা মুখে বলে দেন। শোনা, দেখা আর মানুষের গড়নের কথা বলে তিনি প্রশ্ন তোলেন: এমন নিয়ামতের বদলে মানুষ কেন কুফর নেয়, কেন এগুলোকে তাঁর আনুগত্যের কাজে লাগায় না? সা'দী বলেন, এ আয়াতগুলো কিছু সংক্ষেপে, কিছু বিস্তারে আল্লাহর নিয়ামতের কথা বলে, যাতে বান্দারা তাঁর শুকরিয়া আদায় করে আর তাঁর জিকির করে।"
           }
         ]
       },
       {
         "h": {
-          "en": "What You Asked and What You Did Not",
-          "bn": "যা চেয়েছেন আর যা চাননি"
+          "en": "Asked by Word and by Need",
+          "bn": "মুখের চাওয়া, অবস্থার চাওয়া"
         },
         "p": [
           {
-            "en": "The commentators pause on min kulli ma sa'altumuh, from all that you asked of Him. Taken one way, it means every category of thing humans have requested has been drawn upon for you. But they also point out that most of what sustains us was never requested at all. No one asked for lungs before drawing a first breath; no one petitioned for the sun. Allah gave in answer to asking, long before asking, and gave what we would never have known to ask.",
-            "bn": "'মিন কুল্লি মা সাআলতুমূহ', তোমরা তাঁর কাছে যা চেয়েছ তার সবকিছু থেকে: এই কথাটায় এসে মুফাসসিরগণ থামেন। এক অর্থে এর মানে, মানুষ যত রকমের জিনিস চেয়েছে, তার প্রতিটি থেকেই তোমাদের দেওয়া হয়েছে। কিন্তু তাঁরা এটাও দেখান যে, যা কিছু আমাদের বাঁচিয়ে রাখে, তার বেশিরভাগ কেউ কোনোদিন চায়ইনি। প্রথম নিঃশ্বাস নেওয়ার আগে কেউ ফুসফুস চায়নি; সূর্যের জন্য কেউ দরখাস্ত করেনি। আল্লাহ চাওয়ার জবাবে দিয়েছেন, চাওয়ার অনেক আগেও দিয়েছেন, আর এমন জিনিসও দিয়েছেন, যা চাইতে হয় বলে আমরা জানতামই না।"
+            "en": "Wa atakum min kulli ma sa'altumuh: and He gave you of all you asked of Him. Ibn Kathir explains: He prepared for you everything you need in all your conditions, of what you ask Him by your state and by your words. As-Sa'di makes the same division, the tongue of one's state and the tongue of speech, and lists livestock, tools and crafts. Asking, read this way, is wider than du'a spoken aloud; a need never put into words still counts.",
+            "bn": "ওয়া আতাকুম মিন কুল্লি মা সাআলতুমূহ: আর তোমরা তাঁর কাছে যা কিছু চেয়েছ, তার প্রতিটি থেকে তিনি তোমাদের দিয়েছেন। ইবন কাসীরের ব্যাখ্যা: তোমাদের সব অবস্থায় যা দরকার, তিনি তা তৈরি করে রেখেছেন, যা তোমরা চাও অবস্থা দিয়ে কিংবা মুখের কথায়। সা'দীও একই ভাগ করেন, অবস্থার ভাষা আর মুখের ভাষা, আর উদাহরণ দেন গবাদি পশু, যন্ত্রপাতি ও কারিগরির। এভাবে পড়লে চাওয়া মানে শুধু মুখে উচ্চারিত দোয়া নয়। যে প্রয়োজন কখনো মুখে আসেনি, সেটাও চাওয়ার মধ্যে গণ্য।"
           },
           {
-            "en": "That widening changes how a person prays. If the record shows that the unasked gifts outnumber the asked ones, then asking is not the engine of provision — generosity is. We do not extract blessings from a reluctant giver by the force of our requests; we name a few needs to a Lord who has been supplying thousands of unnamed ones all along. Du'a remains commanded and beloved, riding on a giving that never waited for it.",
-            "bn": "অর্থের এই বিস্তার মানুষের দোয়ার ধরন বদলে দেয়। হিসাব যদি বলে, না-চাওয়া দান চাওয়া দানের চেয়ে বেশি, তাহলে রিযিক আসে চাওয়ার জোরে নয়, আসে দাতার দানশীলতায়। আমরা অনুরোধের চাপে কোনো অনিচ্ছুক দাতার হাত থেকে নিয়ামত ছিনিয়ে আনি না। আমরা তো এমন এক রবের কাছে গুটিকয় প্রয়োজনের কথা বলি, যিনি নাম-না-জানা হাজারো প্রয়োজন এতকাল ধরে মিটিয়ে আসছেন। তবু দোয়া আল্লাহর হুকুম, তাঁর প্রিয় আমল। দোয়া চলে এমন এক দানের ওপর ভর করে, যে দান কখনো দোয়ার অপেক্ষায় বসে থাকেনি।"
+            "en": "At-Tabari gathers the early glosses: Mujahid, all that you longed for from Him; al-Hasan, all that you asked. Then the grammar of min, of. The thing given is left unsaid, at-Tabari says, because min marks a part: of everything you asked, He gave you something, as the queen in 27:23 is given of everything. Al-Baghawi agrees, and al-Qurtubi gives it from al-Akhfash. At-Tabari and al-Baghawi add that every can mean a great many, as in 6:44, We opened to them the gates of every thing. Al-Qurtubi also records that min may be an added particle: He gave you all you asked.",
+            "bn": "তাবারী প্রথম যুগের ব্যাখ্যাগুলো এক জায়গায় আনেন। মুজাহিদের অর্থ: যা কিছুর জন্য তোমরা তাঁর দিকে আগ্রহী হয়েছ। হাসানের অর্থ: যা কিছু তোমরা চেয়েছ। এরপর মিন শব্দের ব্যাকরণ। তাবারী বলেন, যে জিনিসটা দেওয়া হয়েছে তার নাম উহ্য, কারণ মিন অংশ বোঝায়। অর্থাৎ যা কিছু চেয়েছ, তার প্রতিটি থেকে তিনি কিছু না কিছু দিয়েছেন, যেমন ২৭:২৩ আয়াতে রানিকে সবকিছু থেকে দেওয়া হয়েছিল। বাগাভীও তাই বলেন, আর কুরতুবী মতটি আনেন আখফাশের নামে। তাবারী ও বাগাভী আরও বলেন, সবকিছু কথাটা অনেক বোঝাতেও বলা হয়, যেমন ৬:৪৪ আয়াতে: আমি তাদের জন্য সবকিছুর দরজা খুলে দিলাম। কুরতুবী আরেকটি মতও আনেন: মিন এখানে অতিরিক্ত অব্যয়, অর্থাৎ তোমরা যা চেয়েছ সবই তিনি দিয়েছেন।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Count That Cannot Finish",
-          "bn": "যে গণনা শেষ হয় না"
+          "en": "Gifts Nobody Thought to Request",
+          "bn": "যা চাওয়ার কথা কারও মনে আসেনি"
         },
         "p": [
           {
-            "en": "Then the famous clause: wa in ta'uddu ni'mata Allahi la tuhsuha, and if you should count the favour of Allah, you could not enumerate it. The verb tuhsuha comes from ihsa', which means exact, exhaustive enumeration — not a rough tally but a complete audit. And the thing being counted is named in the singular, ni'mah, favour: the commentators observe that even a single blessing resists the audit, because each one unfolds into others.",
-            "bn": "তারপর আসে বিখ্যাত বাক্যটি: ওয়া ইন তাউদ্দূ নি'মাতাল্লাহি লা তুহসূহা, আর তোমরা যদি আল্লাহর নিয়ামত গুনতে চাও, গুনে শেষ করতে পারবে না। 'তুহসূহা' এসেছে 'ইহসা' থেকে। ইহসা মানে আন্দাজে মোটামুটি গোনা নয়, একটা একটা করে নিখুঁত, পুরো হিসাব করা। আর যা গোনা হচ্ছে, তার নাম এসেছে একবচনে: নি'মাহ, নিয়ামত। মুফাসসিরগণ বলেন, একটিমাত্র নিয়ামতও পুরো হিসাবে ধরা দেয় না, কারণ প্রতিটি নিয়ামত খুললেই ভেতর থেকে আরও নিয়ামত বেরিয়ে আসে।"
+            "en": "A second line of explanation widens the clause. At-Tabari reports from Rukanah ibn Hashim: what you asked and what you did not ask, and Ibn Kathir says some of the salaf held the same. Al-Qurtubi treats the missing half as understood: we never asked Him for a sun or a moon, or for many of the favours with which He began us. He compares 16:81, garments that protect you from the heat, where the cold is understood without being named.",
+            "bn": "ব্যাখ্যার দ্বিতীয় ধারা বাক্যটিকে আরও প্রশস্ত করে। তাবারী রুকানা ইবন হাশিম থেকে বর্ণনা করেন: যা তোমরা চেয়েছ আর যা চাওনি। ইবন কাসীর বলেন, সালাফের কেউ কেউ এ কথাই বলেছেন। কুরতুবীর মতে বাকি অর্ধেকটা উহ্য। আমরা তো তাঁর কাছে সূর্য চাইনি, চাঁদও চাইনি, চাইনি এমন বহু নিয়ামত, যা তিনি নিজে থেকেই আমাদের দিয়ে শুরু করেছেন। তিনি তুলনা দেন ১৬:৮১ আয়াতের, যেখানে গরম থেকে বাঁচানো পোশাকের কথা আছে, আর ঠান্ডার কথা নাম না নিয়েও বোঝা যায়।"
           },
           {
-            "en": "Test the claim on anything small. Count what one working eye involves: the tear film, the lens, the nerve, the brain's processing, the light itself, and the safety of every day on which nothing struck it. Each item on that list opens its own list. The verse is not exaggerating for effect; it is stating an arithmetic fact about a sum with no bottom. The honest accountant closes the books and converts the audit into thanks.",
-            "bn": "যেকোনো ছোট জিনিস দিয়ে কথাটা যাচাই করে দেখুন। একটি সুস্থ চোখের পেছনে কী কী আছে, গুনে দেখুন: চোখের পানির পাতলা আস্তরণ, লেন্স, স্নায়ু, মস্তিষ্কের কাজ, খোদ আলো, আর সেই প্রতিটি দিনের নিরাপত্তা, যেদিন চোখে কোনো আঘাত লাগেনি। এই তালিকার প্রতিটি জিনিস খুললে আবার নতুন তালিকা। আয়াত কথাটা বাড়িয়ে বলছে না। এ এক সোজা হিসাবের সত্য: এমন এক যোগফল, যার কোনো তল নেই। তাই সৎ হিসাবরক্ষক খাতা বন্ধ করেন, আর পুরো হিসাবটাকে শুকরিয়ায় বদলে নেন।"
+            "en": "Ma'arif al-Qur'an presses the point: no one asked for their own existence, or raised their hands for the sky, the earth, the sun and the moon. It quotes al-Baydawi: Allah has given you everything worth asking for, even if you did not ask. Taking the literal sense too, it says what people ask is generally given, and where a request is not met as sought, there is a reason the asker does not know; withholding what would have become a curse is itself a blessing.",
+            "bn": "মাআরিফুল কুরআন একই কথায় জোর দেয়। নিজের অস্তিত্ব কেউ চেয়ে নেয়নি, আসমান, যমীন, সূর্য আর চাঁদের জন্যও কেউ হাত তোলেনি। এখানে বায়যাবীর কথা উদ্ধৃত হয়েছে: চাওয়ার মতো যা কিছু আছে, আল্লাহ তোমাদের সবই দিয়েছেন, তোমরা না চাইলেও। আক্ষরিক অর্থটাও মাআরিফ নেয়। মানুষ যা চায়, সাধারণত তা পায়। যেভাবে চাওয়া হয়েছিল সেভাবে পূরণ না হলে তার পেছনে এমন কারণ থাকে, যা প্রার্থী জানে না। যা পেলে অভিশাপ হয়ে দাঁড়াত, তা না দেওয়াটাই এক নিয়ামত।"
           }
         ]
       },
       {
         "h": {
-          "en": "Two Heavy Words at the End",
-          "bn": "শেষে দুটি ভারী শব্দ"
+          "en": "Min Kullin: The Other Reading",
+          "bn": "মিন কুল্লিন: ভিন্ন কিরাআত"
         },
         "p": [
           {
-            "en": "The verse closes with a diagnosis: inna al-insana la-zalumun kaffar, indeed mankind is persistently unjust, deeply ungrateful. Both words are intensive forms in Arabic — zalum and kaffar are patterns that signal repetition and excess, not an occasional slip. The injustice named here, the commentators explain, includes putting blessings to wrong use and crediting them to the wrong source; the ingratitude is the settled habit of noticing what is missing while consuming what is present.",
-            "bn": "আয়াত শেষ হয় মানুষের রোগটা ধরিয়ে দিয়ে: ইন্নাল-ইনসানা লা-যালূমুন কাফফার, নিশ্চয়ই মানুষ বড়ই জালিম, ভীষণ অকৃতজ্ঞ। দুটি শব্দই আরবিতে আধিক্য বোঝানোর রূপ। যালূম আর কাফফার এমন গঠন, যা বারবার করা আর মাত্রা ছাড়ানো বোঝায়; মাঝেমধ্যে একটু-আধটু ভুল নয়। মুফাসসিরগণ ব্যাখ্যা করেন, এখানে যে জুলুমের কথা, তার মধ্যে আছে নিয়ামতকে ভুল কাজে লাগানো আর ভুল উৎসের নামে চালিয়ে দেওয়া। আর অকৃতজ্ঞতা হলো সেই পাকা অভ্যাস: যা আছে তা ভোগ করতে করতেও চোখে পড়ে শুধু যা নেই।"
+            "en": "The wider sense also has a reading behind it. Al-Qurtubi reports that Ibn Abbas (RA), ad-Dahhak and others read min kullin, with tanwin, then ma sa'altumuh, and that it is narrated from al-Hasan, ad-Dahhak and Qatadah. Read so, ma is a negation: He gave you of everything, things you did not ask for, like the sun and the moon. Al-Baghawi names al-Hasan for it. At-Tabari records it as the reading of others, who do not join kull to ma.",
+            "bn": "প্রশস্ত অর্থটির পেছনে একটি কিরাআতও আছে। কুরতুবী জানান, ইবন আব্বাস (রাঃ), দাহহাক ও আরও কেউ কেউ পড়েছেন মিন কুল্লিন, অর্থাৎ তানবীন দিয়ে, তারপর মা সাআলতুমূহ। তিনি বলেন, এ কিরাআত হাসান, দাহহাক ও কাতাদা থেকেও বর্ণিত। এভাবে পড়লে মা হয় না-বাচক: তিনি তোমাদের সবকিছু থেকে দিয়েছেন, এমন জিনিস যা তোমরা চাওনি, যেমন সূর্য ও চাঁদ। বাগাভী এ কিরাআতের জন্য হাসানের নাম নেন। তাবারী একে উল্লেখ করেন অন্য একদল পাঠকের কিরাআত হিসেবে, যারা কুল্লকে মা-এর সঙ্গে যুক্ত করে পড়েন না।"
           },
           {
-            "en": "The Quran contains a sister clause. In 16:18 the same words appear — if you count the favour of Allah, you cannot enumerate it — but the ending differs: there the verse concludes that Allah is Forgiving, Merciful. The commentators set the two endings side by side. This verse names what we are; that verse names what He is. Faced with an uncountable debt held by an uncounting debtor, His response is not collection but forgiveness — which is itself one more favour that escaped our audit.",
-            "bn": "কুরআনে এ বাক্যের একটি জোড়া আছে। ১৬:১৮ আয়াতে হুবহু একই কথা আসে: আল্লাহর নিয়ামত গুনতে চাইলে তোমরা গুনে শেষ করতে পারবে না। কিন্তু শেষটা আলাদা। সেখানে আয়াত শেষ হয় এই কথায়: আল্লাহ ক্ষমাশীল, পরম দয়ালু। মুফাসসিরগণ দুটি শেষকে পাশাপাশি রাখেন। এ আয়াত বলে আমরা কেমন; ও আয়াত বলে তিনি কেমন। দেনাদার গুনতেই পারে না, অথচ তার ঘাড়ে অগণিত ঋণ। তার জবাবে আল্লাহ পাওনা আদায় করেন না, মাফ করে দেন। আর এই মাফও তো আরেকটি নিয়ামত, যা আমাদের হিসাব থেকে বাদ পড়ে গিয়েছিল।"
+            "en": "At-Tabari keeps ad-Dahhak's words: things you did not ask for or seek, but which I gave you by My mercy and My vastness; and, Allah spoke the truth, how many a thing He gave us that we never asked for and that never crossed our minds. Qatadah: you did not ask Him for all that He gave you. On al-Hasan the sources differ: at-Tabari's report has him say all that you asked, while al-Qurtubi and al-Baghawi tie the tanwin reading to him.",
+            "bn": "তাবারী দাহহাকের নিজের কথাগুলো ধরে রেখেছেন: তোমরা যা চাওনি, খোঁজোনি, তা-ও আমি তোমাদের দিয়েছি আমার রহমত আর প্রাচুর্য থেকে। আরেক বর্ণনায়: আল্লাহ সত্য বলেছেন, এমন কত জিনিস তিনি আমাদের দিয়েছেন, যা আমরা চাইনি, যা কখনো মনেও আসেনি! কাতাদার কথা: তিনি যা দিয়েছেন, তার সবটা তোমরা তাঁর কাছে চাওনি। হাসানের বেলায় সূত্রগুলো এক কথা বলে না। তাবারীর বর্ণনায় তিনি বলেন, যা কিছু তোমরা চেয়েছ। অথচ কুরতুবী ও বাগাভী তানবীনের কিরাআতটি তাঁর সঙ্গে যুক্ত করেন।"
+          },
+          {
+            "en": "At-Tabari then rules. The correct position, he says, is the reading of the reciters of the main cities, joining kull to ma: He gave you something of what you asked, because the authoritative reciters agreed on it and set the other aside. The tanwin reading thus stands here as reported, with at-Tabari rejecting it. The sense of asked and unasked does not rest on it, though: Rukanah and the salaf Ibn Kathir mentions draw it from the received wording.",
+            "bn": "এরপর তাবারী রায় দেন। তাঁর মতে সঠিক হলো বড় বড় নগরের কারীদের কিরাআত, যেখানে কুল্লকে মা-এর সঙ্গে যুক্ত করে পড়া হয়। অর্থ: তোমরা যা চেয়েছ, তা থেকে তিনি কিছু দিয়েছেন। কারণ, নির্ভরযোগ্য কারীগণ এ কিরাআতে একমত, আর অন্যটি তাঁরা গ্রহণ করেননি। তাই তানবীনের কিরাআত এখানে আছে বর্ণনা হিসেবে, আর তাবারী তা প্রত্যাখ্যান করেন। তবে চাওয়া ও না-চাওয়ার অর্থ এর ওপর নির্ভর করে না। রুকানা আর ইবন কাসীরের উল্লেখ করা সালাফ এ অর্থ নেন প্রচলিত পাঠ থেকেই।"
           }
         ]
       },
       {
         "h": {
-          "en": "Gratitude Multiplies the Gift",
-          "bn": "কৃতজ্ঞতা দানকে বাড়িয়ে দেয়"
+          "en": "A Tally With No Last Line",
+          "bn": "যে হিসাবের শেষ লাইন নেই"
         },
         "p": [
           {
-            "en": "The same surah has already stated what gratitude does. In 14:7 your Lord proclaimed: if you are grateful, I will surely increase you, but if you deny, indeed My punishment is severe. Set beside this verse, the two form a hinge. The favours cannot be counted, and mankind tends to thanklessness — yet the door out of that condition is not to finish the count, which is impossible, but to thank, which multiplies the very thing being counted.",
-            "bn": "শুকরিয়া কী করে, সে কথা এই সূরা আগেই বলে দিয়েছে। ১৪:৭ আয়াতে তোমাদের রব ঘোষণা করেছেন: তোমরা কৃতজ্ঞ হলে আমি অবশ্যই তোমাদের আরও বাড়িয়ে দেব, আর যদি অস্বীকার করো, তবে নিশ্চয়ই আমার শাস্তি বড় কঠিন। এ আয়াতের পাশে রাখলে দুটি আয়াত দরজার কবজার মতো একে অন্যের সঙ্গে জুড়ে যায়। নিয়ামত গোনা যায় না, আর মানুষের ঝোঁক অকৃতজ্ঞতার দিকে। তবু এ অবস্থা থেকে বেরোনোর দরজা গোনা শেষ করা নয়, সেটা তো অসম্ভব। দরজা হলো শুকরিয়া, আর শুকরিয়া যা গোনা হচ্ছে সেটাকেই বহুগুণ বাড়িয়ে দেয়।"
+            "en": "Wa in ta'uddu ni'mata Allahi la tuhsuha: and if you were to count the favour of Allah, you could not enumerate it. At-Tabari: if you count, O people, the favour Allah has bestowed on you, you could not manage to number it, nor to thank for it, except with Allah's help. The Muyassar: you could not count it, reckon it or thank for it, because of its abundance and variety. Al-Baghawi likewise joins counting and thanks.",
+            "bn": "ওয়া ইন তাউদ্দূ নি'মাতাল্লাহি লা তুহসূহা: আর যদি তোমরা আল্লাহর নিয়ামত গুনতে চাও, তবে তা গুনে শেষ করতে পারবে না। তাবারীর ব্যাখ্যা: হে মানুষ, আল্লাহ তোমাদের যে নিয়ামত দিয়েছেন, তোমরা তা গুনতে গেলে তার সংখ্যা নির্ণয় করতে পারবে না, শুকরিয়াও আদায় করতে পারবে না, আল্লাহর সাহায্য ছাড়া। মুয়াসসার বলে, তা এত বেশি আর এত রকমের যে তোমরা না তা গুনতে পারবে, না হিসাব করতে পারবে, না তার শুকরিয়া আদায় করতে পারবে। বাগাভীও গোনা আর শুকরিয়াকে একসঙ্গে রাখেন।"
           },
           {
-            "en": "The Prophet ﷺ modelled what thanking an uncountable Giver looks like. Al-Bukhari narrates from al-Mughirah ibn Shu'bah (RA) that the Prophet ﷺ would stand in night prayer until his feet swelled, and when asked why he did this when his past and future sins had been forgiven, he answered: should I not be a grateful servant? Gratitude, in that answer, is not payment towards a balance. It is a relationship that grows warmer the more clearly the debt is seen.",
-            "bn": "অগণিত নিয়ামতের দাতাকে কীভাবে শুকরিয়া জানাতে হয়, নবী ﷺ নিজে তা করে দেখিয়েছেন। বুখারী মুগীরা ইবনে শু'বা (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ রাতের নামাজে এত দীর্ঘ সময় দাঁড়িয়ে থাকতেন যে তাঁর পা ফুলে যেত। কেউ জিজ্ঞেস করল, আপনার আগের-পরের সব গুনাহ তো মাফ হয়ে গেছে, তবু কেন এমন করেন? তিনি বললেন: আমি কি কৃতজ্ঞ বান্দা হব না? এই উত্তরে শুকরিয়া কোনো দেনা শোধের কিস্তি নয়। এ এক সম্পর্ক: ঋণটা যত পরিষ্কার চোখে পড়ে, সম্পর্ক তত উষ্ণ হয়।"
+            "en": "The word is singular, ni'mah, a favour. Al-Qurtubi and al-Baghawi each gloss it with the plural, ni'am Allah, the favours of Allah, as does the Muyassar's paraphrase; the sources fetched say nothing more about the singular. Al-Qurtubi's examples are hearing, sight, the right proportion of the human form, wellbeing and provision: favours past counting, too many to encompass, and all of them from Allah.",
+            "bn": "শব্দটি একবচন, নি'মাহ, একটি নিয়ামত। কুরতুবী ও বাগাভী দুজনেই এর অর্থ করেন বহুবচনে, নিআমুল্লাহ, আল্লাহর নিয়ামতসমূহ। মুয়াসসারের ভাষ্যেও বহুবচন। যে তাফসীরগুলো দেখা হয়েছে, একবচন নিয়ে সেগুলো এর বেশি কিছু বলে না। কুরতুবী উদাহরণ দেন: শোনা, দেখা, মানুষের সুঠাম গড়ন, সুস্থতা ও রিযিক। এসব নিয়ামত গোনা যায় না, সংখ্যায় এত বেশি যে ঘিরে ধরা যায় না, আর এর সবই আল্লাহর কাছ থেকে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an turns the count inward. A human being, it says, is a small world, with endless blessings hidden in the eyes, ears, hands, feet, every joint and every vein. It widens what counts as a blessing too: staying safe from disease, hardship, pain, loss and sorrow is a standing blessing in its own right. Even if all people counted together, it says, the favours would remain beyond their count.",
+            "bn": "মাআরিফুল কুরআন গণনাটাকে মানুষের নিজের ভেতরে ফিরিয়ে আনে। তার ভাষায়, মানুষ নিজেই এক ছোট জগৎ। চোখ, কান, হাত, পা, প্রতিটি জোড়া আর প্রতিটি শিরায় লুকিয়ে আছে অগণিত নিয়ামত। নিয়ামতের সংজ্ঞাও মাআরিফ বড় করে দেয়। রোগ, কষ্ট, ব্যথা, ক্ষতি আর দুঃখ থেকে নিরাপদ থাকাও নিজগুণে এক স্থায়ী নিয়ামত। মাআরিফ বলে, সব মানুষ একসঙ্গে বসে গুনলেও এ গণনা শেষ হবে না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Begin Counting Anyway",
-          "bn": "তবু গোনা শুরু করুন"
+          "en": "Thanks That Needs Its Own Thanks",
+          "bn": "শুকরিয়ার জন্যও শুকরিয়া"
         },
         "p": [
           {
-            "en": "The verse says the count cannot be finished; it never says the count should not be started. The classical teachers of the heart prescribed exactly this exercise, because the attempt itself is the cure. List ten blessings tonight — specific ones, with names and dates — and the listing will run into the same wall the verse describes: every item splits into more. A person who hits that wall regularly finds complaint harder to sustain, because the inventory keeps interrupting it.",
-            "bn": "আয়াত বলে, গোনা শেষ হবে না; কিন্তু কোথাও বলে না যে গোনা শুরুই করা যাবে না। আত্মশুদ্ধির পুরোনো উস্তাদরা ঠিক এই অনুশীলনটাই করতে বলতেন, কারণ চেষ্টাটাই ওষুধ। আজ রাতে দশটি নিয়ামতের তালিকা করুন। গড়পড়তা কথা নয়, নির্দিষ্ট করে, নাম আর তারিখসহ। দেখবেন, তালিকাটা আয়াতে বলা সেই দেয়ালেই গিয়ে ঠেকছে: প্রতিটি জিনিস ভাঙলে আরও জিনিস বেরোচ্ছে। যে নিয়মিত এই দেয়ালে ঠেকে, তার পক্ষে অভিযোগ ধরে রাখা কঠিন হয়ে যায়, কারণ নিয়ামতের হিসাব বারবার মাঝখানে এসে পড়ে।"
+            "en": "Ibn Kathir draws the consequence: the servants cannot count the favours, let alone rise to thanking for them. He quotes Talq ibn Habib, whose words at-Tabari also gives with a full chain: the right of Allah is heavier than the servants can fulfil, and His favours are more than they can count, but be repentant in the morning and repentant in the evening. The saying asks for no finished count, only a steady habit of tawbah.",
+            "bn": "ইবন কাসীর এর ফল টেনে বলেন: বান্দারা নিয়ামত গুনতেই অক্ষম, শুকরিয়া আদায় তো দূরের কথা। তিনি তালক ইবন হাবীবের কথা উদ্ধৃত করেন, যা তাবারীও পূর্ণ সনদসহ এনেছেন: আল্লাহর হক এত ভারী যে বান্দারা তা আদায় করতে পারে না, আর তাঁর নিয়ামত এত বেশি যে তারা তা গুনে শেষ করতে পারে না। তবে সকালে তওবাকারী হও, সন্ধ্যায়ও তওবাকারী থাকো। কথাটি পুরো হিসাব মেলাতে বলে না, বলে তওবার নিয়মিত অভ্যাস গড়তে।"
           },
           {
-            "en": "Gratitude then wants three outlets, as the scholars describe it: the heart's acknowledgement that every gift traces back to Allah, the tongue's praise, and the limbs' use of each blessing in ways its Giver approves. Eyes given free are thanked by what they read and refuse to read; wealth given unasked is thanked at the point of spending. The verse's closing words about injustice and ingratitude stop being our description the moment the counting, the thanking and the using begin.",
-            "bn": "আলিমগণ বলেন, এরপর শুকরিয়া প্রকাশের তিনটি পথ খোঁজে। অন্তর মেনে নেয় যে প্রতিটি দান আল্লাহর কাছ থেকেই এসেছে; জিহ্বা তাঁর প্রশংসা করে; আর অঙ্গ-প্রত্যঙ্গ প্রতিটি নিয়ামতকে এমনভাবে কাজে লাগায়, যা দাতা পছন্দ করেন। বিনা দামে পাওয়া চোখের শুকরিয়া হয় সে কী পড়ে আর কী পড়তে রাজি হয় না, তা দিয়ে। না চাইতে পাওয়া সম্পদের শুকরিয়া হয় খরচ করার মুহূর্তে। গোনা, শুকরিয়া আর সঠিক ব্যবহার শুরু হওয়ামাত্র আয়াতের শেষের জুলুম আর অকৃতজ্ঞতার কথা আর আমাদের পরিচয় থাকে না।"
+            "en": "Ibn Kathir carries the thought further with al-Shafi'i's praise: praise be to Allah, no favour of whose can be thanked except through a fresh favour, which calls for thanks in turn. He adds a poet's lines: were every limb of mine given a tongue to praise You for the good You have done, the very increase in my thanks would be a further kindness from You. Ma'arif al-Qur'an says justice would have demanded countless thanks, yet Allah, in His grace towards human weakness, accepts the honest confession that the duty is beyond reach. The Dawud (AS) report Ibn Kathir also cites is taken up under 14:7.",
+            "bn": "ইবন কাসীর ভাবনাটিকে আরও এগিয়ে নেন শাফিঈর এক হামদ দিয়ে: সব প্রশংসা আল্লাহর, যাঁর কোনো নিয়ামতের শুকরিয়া আদায় করা যায় কেবল নতুন এক নিয়ামতের মাধ্যমে, আর সেটিও আবার শুকরিয়া দাবি করে। এরপর তিনি এক কবির পঙক্তি আনেন: আমার প্রতিটি অঙ্গ যদি ভাষা পেত আর তোমার দেওয়া কল্যাণের জন্য তোমার প্রশংসা করত, তবু আমার শুকরিয়ার যে বৃদ্ধি, সেটাই হতো তোমার আরেক অনুগ্রহ। মাআরিফুল কুরআন বলে, ন্যায়ের দাবি ছিল অগণিত শুকরিয়া। কিন্তু মানুষের দুর্বলতার প্রতি দয়া করে আল্লাহ এই সৎ স্বীকারোক্তিই কবুল করেন যে দায়িত্বটা পুরো আদায় করা তার সাধ্যের বাইরে। ইবন কাসীর এখানে দাঊদ (আঃ)-এর যে বর্ণনা আনেন, তার আলোচনা আছে ১৪:৭ আয়াতের লেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise When the Meal Was Done",
+          "bn": "খাওয়া শেষের হামদ"
+        },
+        "p": [
+          {
+            "en": "Under this clause Ibn Kathir cites from Sahih al-Bukhari a praise of the Prophet ﷺ. In al-Bukhari's wording (5458), Abu Umamah (RA) narrates that whenever the Prophet's ﷺ dining sheet was lifted, he would say: al-hamdu lillahi kathiran tayyiban mubarakan fihi, ghayra makfiyyin wa la muwadda'in wa la mustaghnan 'anhu, Rabbana. That is, praise be to Allah, abundant, good and blessed, and, in the English edition of Ibn Kathir: without being able to sufficiently thank You, nor ever wish to be cut off from You, nor ever feeling rich from relying on You; our Lord.",
+            "bn": "এ বাক্যের আলোচনায় ইবন কাসীর সহীহ বুখারী থেকে নবী ﷺ-এর একটি হামদ উদ্ধৃত করেন। বুখারীর শব্দে (৫৪৫৮) আবু উমামা (রাঃ) বর্ণনা করেন, নবী ﷺ-এর দস্তরখান যখনই তুলে নেওয়া হতো, তিনি বলতেন: আলহামদু লিল্লাহি কাসীরান তায়্যিবান মুবারাকান ফীহি, গাইরা মাকফিয়্যিন ওয়ালা মুওয়াদ্দাইন ওয়ালা মুসতাগনান আনহু, রব্বানা। অর্থাৎ আল্লাহর জন্য অঢেল, পবিত্র ও বরকতময় প্রশংসা। বাকি অংশের অর্থ ইবন কাসীরের ইংরেজি সংস্করণ দেয় এভাবে: তোমার যথেষ্ট শুকরিয়া আদায় করতে না পারার স্বীকৃতিসহ, কখনো তোমার থেকে বিচ্ছিন্ন হতে না চেয়ে, আর তোমার ওপর ভরসা থেকে নিজেকে কখনো অভাবমুক্ত মনে না করে, হে আমাদের রব।"
+          },
+          {
+            "en": "Two cautions keep this honest. The narration concerns the end of a meal and does not mention the verse; Ibn Kathir places it here as praise that knows it falls short. It is in al-Bukhari's Sahih, the collection of reports he judged sound. Ibn Kathir also quotes al-Bazzar's report of three registers on the Day of Judgement, one holding the favours, and himself calls it gharib, with a weak chain, so it is set aside. No tafsir fetched gives an occasion of revelation for the verse.",
+            "bn": "উদ্ধৃতিটি সৎ রাখতে দুটি সতর্কতা। বর্ণনাটি খাওয়া শেষের, এতে এ আয়াতের উল্লেখ নেই। ইবন কাসীর এটি এখানে আনেন এমন প্রশংসার নমুনা হিসেবে, যা জানে সে পূর্ণ হতে পারে না। বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, যে সংকলনে তিনি নিজের বিচারে বিশুদ্ধ বর্ণনাগুলো রেখেছেন। ইবন কাসীর বাযযারের একটি বর্ণনাও আনেন: কিয়ামতের দিন তিনটি দপ্তর বের করা হবে, তার একটিতে থাকবে নিয়ামতের হিসাব। তিনি নিজেই একে গরীব বলেন, এর সনদ দুর্বল বলেন, তাই এখানে তা নেওয়া হয়নি। দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের নাযিলের উপলক্ষ উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Meant by al-Insan",
+          "bn": "আল-ইনসান বলতে কে"
+        },
+        "p": [
+          {
+            "en": "Inna al-insana la-zalumun kaffar: indeed man is much given to wrong, much given to ingratitude. At-Tabari reads al-insan as the man who exchanged the favour of Allah for disbelief, the people of 14:28. He is zalum because he thanks other than his benefactor, putting thanks where it does not belong: Allah gave and deserved sincere worship, yet he worshipped another and set up rivals. He is kaffar because he denies the favour by turning worship elsewhere and leaving the Giver's obedience.",
+            "bn": "ইন্নাল ইনসানা লাযালূমুন কাফফার: নিশ্চয়ই মানুষ বড়ই যালিম, বড়ই অকৃতজ্ঞ। তাবারী আল-ইনসান বলতে বোঝেন সেই মানুষকে, যে আল্লাহর নিয়ামতের বদলে কুফর নিয়েছে, অর্থাৎ ১৪:২৮ আয়াতের লোকেরা। তাঁর মতে সে যালূম, কারণ নিয়ামতদাতাকে বাদ দিয়ে সে শুকরিয়া জানায় অন্যকে, শুকরিয়াকে রাখে তার জায়গার বাইরে। দান করেছেন আল্লাহ, তাই খাঁটি ইবাদত তাঁরই হক, অথচ সে ইবাদত করেছে অন্যের আর তাঁর সমকক্ষ দাঁড় করিয়েছে। আর সে কাফফার, কারণ ইবাদত অন্যদিকে ফিরিয়ে আর দাতার আনুগত্য ছেড়ে সে ওই নিয়ামতকেই অস্বীকার করেছে।"
+          },
+          {
+            "en": "Al-Qurtubi narrows it: al-insan names the whole kind but means some. Ibn Abbas (RA) said Abu Jahl was meant, and it is also said all the disbelievers. As-Sa'di reads the other way: this is the nature of the human as such, wronging, bold in sins, falling short in his Lord's rights, ungrateful, neither thanking nor acknowledging the favours, except whom Allah guides. The Muyassar is general too, much wronging of himself, much denying of his Lord's favours, and al-Baghawi speaks of wronging oneself by sin.",
+            "bn": "কুরতুবী আরও নির্দিষ্ট করেন। আল-ইনসান গোটা মানবজাতির নাম, কিন্তু এখানে উদ্দেশ্য কিছু মানুষ। ইবন আব্বাস (রাঃ) বলেছেন, উদ্দেশ্য আবু জাহল। আরেক মতে, সব কাফির। সা'দী পড়েন উল্টো দিক থেকে। তাঁর মতে এ হলো মানুষ হিসেবেই মানুষের স্বভাব: যালিম, গুনাহে দুঃসাহসী, রবের হক আদায়ে ত্রুটিকারী, নিয়ামতের প্রতি অকৃতজ্ঞ। সে নিয়ামতের শুকরিয়া করে না, স্বীকারও করে না, তবে আল্লাহ যাকে হেদায়াত দেন সে ছাড়া। মুয়াসসারও কথাটা সাধারণভাবে নেয়: মানুষ নিজের ওপর অনেক যুলুম করে, রবের নিয়ামত অনেক অস্বীকার করে। বাগাভীও গুনাহের মাধ্যমে নিজের ওপর যুলুমের কথা বলেন।"
+          },
+          {
+            "en": "The difference is real and is kept as found: at-Tabari and al-Qurtubi tie the words to those who disbelieved; as-Sa'di and the Muyassar speak of the human in general, as-Sa'di excepting those whom Allah guides. Ma'arif al-Qur'an speaks of a common habit, losing patience at a little pain and forgetting Allah at a little wealth, and recalls 14:5, where, it says, sincere believers are described as sabbar and shakur, very patient and very grateful. Either way the verse describes; it licenses no reader to call any living person or community zalum or kaffar.",
+            "bn": "মতভেদটি বাস্তব, আর এখানে তা যেমন পাওয়া গেছে তেমনই রাখা হলো। তাবারী ও কুরতুবী কথাটিকে যুক্ত করেন কুফরকারীদের সঙ্গে। সা'দী ও মুয়াসসার কথাটি নেন সাধারণভাবে মানুষের ব্যাপারে, আর সা'দী আলাদা করেন আল্লাহ যাদের হেদায়াত দেন তাদের। মাআরিফুল কুরআন বলে এক সাধারণ অভ্যাসের কথা: সামান্য কষ্টে ধৈর্য হারানো, সামান্য সম্পদে আল্লাহকে ভুলে যাওয়া। সে মনে করিয়ে দেয় ১৪:৫ আয়াত, যেখানে তার ভাষায় খাঁটি মুমিনদের পরিচয় সাব্বার ও শাকূর, পরম ধৈর্যশীল ও পরম কৃতজ্ঞ। যে মতই নেওয়া হোক, আয়াতটি বর্ণনা দেয় মাত্র। কোনো জীবিত মানুষ বা সম্প্রদায়কে যালূম বা কাফফার বলার অনুমতি এটি কোনো পাঠককে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Count to the City",
+          "bn": "গণনা থেকে নগরের দোয়ায়"
+        },
+        "p": [
+          {
+            "en": "The counting clause returns in 16:18, closing there with inna Allaha la-ghafurun rahim, indeed Allah is Forgiving, Merciful; the tafsirs fetched here do not compare the two endings, and the article on 16:18 takes that up. As-Sa'di draws the practical line: by these favours Allah urges His servants to ask Him and call on Him through the night and the day, just as His favours keep returning to them at every moment.",
+            "bn": "গণনার বাক্যটি ফিরে আসে ১৬:১৮ আয়াতে, তবে সেখানে শেষ হয় ইন্নাল্লাহা লাগাফূরুর রহীম দিয়ে, নিশ্চয়ই আল্লাহ ক্ষমাশীল, দয়ালু। এখানে দেখা তাফসীরগুলো দুই সমাপ্তিকে পাশাপাশি রেখে আলোচনা করে না, সে আলোচনা আছে ১৬:১৮ আয়াতের লেখায়। সা'দী এখানে কাজের কথাটা বলে দেন। এসব নিয়ামতের মাধ্যমে আল্লাহ বান্দাদের উৎসাহ দেন, যেন তারা রাত-দিন তাঁর কাছে চায়, তাঁকে ডাকে, যেমন তাঁর নিয়ামতও প্রতিটি মুহূর্তে বারবার তাদের কাছে ফিরে আসে।"
+          },
+          {
+            "en": "That gives a working shape. Ask, because He has given of all that was asked; notice the unasked gifts the commentators point to, the sun, the moon, existence itself; begin the count knowing it will not end; and meet the shortfall as Talq ibn Habib advised, with tawbah morning and evening. The next verse, 14:35, turns to Ibrahim (AS) asking his Lord to make this city secure and to keep him and his sons from worshipping idols.",
+            "bn": "এতে পাঠক একটা কাজের ধারা পান। চাইতে থাকুন, কারণ যা চাওয়া হয়েছে তার প্রতিটি থেকে তিনি দিয়েছেন। তাফসীরকারেরা যে না-চাওয়া দানগুলোর কথা বলেন, সূর্য, চাঁদ, নিজের অস্তিত্ব, সেগুলোর দিকে চোখ রাখুন। গোনা শুরু করুন, জেনেই যে তা শেষ হবে না। আর যে ঘাটতি থেকে যায়, তার জবাব দিন তালক ইবন হাবীবের পরামর্শমতো, সকাল-সন্ধ্যার তওবা দিয়ে। পরের আয়াত ১৪:৩৫ চলে যায় ইবরাহীম (আঃ)-এর দোয়ায়: তিনি রবের কাছে চেয়েছিলেন এ নগরকে নিরাপদ করতে, আর তাঁকে ও তাঁর সন্তানদের মূর্তিপূজা থেকে দূরে রাখতে।"
           }
         ]
       }
