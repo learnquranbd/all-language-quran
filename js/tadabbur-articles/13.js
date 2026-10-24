@@ -551,97 +551,141 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Word for Settling",
-          "bn": "থিতু হওয়ার শব্দ"
+          "en": "A Description, Then a Rule",
+          "bn": "আগে পরিচয়, পরে নিয়ম"
         },
         "p": [
           {
-            "en": "The key term is itmi'nan, from a root used in classical Arabic for ground that is low and level, the kind of place where a traveller can finally put things down. The verse says hearts tatma'inn, come to rest, bi dhikrillah, through the remembrance of Allah. The image is not excitement or elation. It is the specific relief of something restless finally sitting still.",
-            "bn": "মূল শব্দটি ইতমিনান। এর ধাতু প্রাচীন আরবিতে ব্যবহৃত হতো নিচু ও সমতল জমির জন্য, এমন জায়গা, যেখানে পথিক অবশেষে বোঝা নামিয়ে রাখতে পারে। আয়াত বলে, অন্তর তাতমাইন্ন, অর্থাৎ থিতু হয়, বিযিকরিল্লাহ, আল্লাহর জিকিরে। এ ছবি উত্তেজনা বা উচ্ছ্বাসের নয়। এ সেই বিশেষ স্বস্তি, যা আসে অস্থির কিছু অবশেষে স্থির হয়ে বসলে।"
+            "en": "The verse is eleven Arabic words in two halves. First comes a description: alladhina amanu wa tatma'innu qulubuhum bi-dhikri-llah, those who have believed and whose hearts are at rest in the remembrance of Allah. Then the particle ala, and nearly the same words in a new order: ala bi-dhikri-llahi tatma'innu al-qulub, unquestionably, by the remembrance of Allah hearts come to rest. As-Sa'di introduces the first half as a mark: Allah, he says, then mentioned the sign by which the believers are known.",
+            "bn": "আয়াতটিতে আরবি শব্দ ১১টি, ভাগ দুটি। প্রথম ভাগে একটি পরিচয়: আল্লাযীনা আমানূ ওয়া তাতমাইন্নু কুলূবুহুম বিযিকরিল্লাহ, যারা ঈমান এনেছে এবং আল্লাহর জিকিরে যাদের অন্তর প্রশান্ত হয়। তারপর আসে 'আলা' অব্যয়টি, আর প্রায় একই শব্দ নতুন বিন্যাসে: আলা বিযিকরিল্লাহি তাতমাইন্নুল কুলূব, জেনে রাখো, আল্লাহর জিকিরেই অন্তরগুলো প্রশান্ত হয়। সা'দী প্রথম ভাগটিকে দেখেন একটি চিহ্ন হিসেবে। তাঁর ভাষায়, আল্লাহ এরপর মুমিনদের সেই আলামতের কথা বললেন, যা দিয়ে তাদের চেনা যায়।"
           },
           {
-            "en": "The sentence is then said twice, and the second time it is reversed. First a description of a group: those who believe and whose hearts find rest in the remembrance of Allah. Then a general law introduced by ala, an alerting particle that Arabic uses to make a listener look up: unquestionably, it is in the remembrance of Allah that hearts find rest. The particular has become a rule about hearts as such.",
-            "bn": "তারপর কথাটি দুবার বলা হয়, আর দ্বিতীয়বার উল্টো ক্রমে। প্রথমে একটি দলের বর্ণনা: যারা ঈমান এনেছে এবং যাদের অন্তর আল্লাহর জিকিরে প্রশান্তি পায়। তারপর একটি সাধারণ নিয়ম, যা শুরু হয় আলা দিয়ে। আলা সতর্ক করার অব্যয়; শ্রোতাকে সজাগ করে মুখ তুলে তাকাতে আরবিতে এটা ব্যবহার হয়: জেনে রাখো, আল্লাহর জিকিরেই অন্তর প্রশান্তি পায়। নির্দিষ্ট দলের কথাটি এভাবে হয়ে গেল সব অন্তরের জন্য এক নিয়ম।"
+            "en": "The second half drops the word their. It no longer speaks of a named group but of al-qulub, the hearts, and it puts the remembrance of Allah first. Two commentators say what that second clause adds. Ibn Kathir reads it as a statement about Allah: He is worthy of that, haqiq bi-dhalik, worthy that hearts should settle at His mention. As-Sa'di reads it as a statement about the hearts: it is fitting and proper for them that they find rest in nothing other than His remembrance.",
+            "bn": "দ্বিতীয় ভাগে 'তাদের' শব্দটি আর নেই। এখানে কোনো নির্দিষ্ট দলের কথা নয়, কথা আল-কুলূব নিয়ে, অর্থাৎ অন্তরগুলো নিয়ে। আর আল্লাহর জিকিরকে আনা হয়েছে বাক্যের শুরুতে। এই দ্বিতীয় বাক্যটি নতুন কী যোগ করে, দুজন মুফাসসির তা বলেছেন। ইবন কাসীর একে পড়েন আল্লাহ সম্পর্কে একটি কথা হিসেবে: তিনি এর যোগ্য, হাকীকুন বিযালিক। অর্থাৎ তাঁর স্মরণে অন্তর স্থির হবে, এটাই তাঁর প্রাপ্য। সা'দী একে পড়েন অন্তর সম্পর্কে কথা হিসেবে: অন্তরের জন্য এটাই সংগত যে তাঁর জিকির ছাড়া আর কিছুতে সে স্থির হবে না।"
           }
         ]
       },
       {
         "h": {
-          "en": "An Answer to a Demand",
-          "bn": "একটি দাবির জবাব"
+          "en": "Joined to Whoever Turns",
+          "bn": "যে ফিরে আসে, তার সঙ্গে জোড়া"
         },
         "p": [
           {
-            "en": "Surah ar-Ra'd is Makkan, and the verses around this one are dominated by the deniers' demand for a spectacular sign. Verse 13:27 quotes them asking why a sign has not been sent down to him from his Lord, and the reply given is that Allah lets go astray whom He wills and guides to Himself whoever turns to Him. This verse then completes the thought by describing what that turning feels like from inside.",
-            "bn": "সূরা আর-রা'দ মক্কী। এ আয়াতের আশেপাশের আয়াতগুলো জুড়ে আছে অস্বীকারকারীদের একটি দাবি: চোখধাঁধানো কোনো নিদর্শন চাই। ১৩:২৭ তাদের প্রশ্ন উদ্ধৃত করে: তার রবের কাছ থেকে তার উপর কোনো নিদর্শন নাজিল হয় না কেন? জবাব আসে: আল্লাহ যাকে চান পথভ্রষ্ট করেন, আর যে তাঁর দিকে ফেরে, তাকে নিজের দিকে পথ দেখান। এরপর এই আয়াত কথাটা পূর্ণ করে: সেই ফিরে আসা ভেতর থেকে কেমন লাগে, তা বলে দেয়।"
+            "en": "The verse begins in the middle of a sentence. The one before it answers the deniers' demand for a sign with this: Allah leaves astray whom He wills and guides to Himself whoever turns back, man anab (13:27). Ibn Kathir explains those who turn as people who repent, turn to Him, beseech Him, seek His help and humble themselves before Him. Then 13:28 opens with alladhina amanu, those who have believed, and three commentators bind it to that last phrase by its grammar.",
+            "bn": "আয়াতটি শুরু হয়েছে একটি বাক্যের মাঝখান থেকে। আগের আয়াতে নিদর্শন দাবিকারীদের জবাব ছিল এই: আল্লাহ যাকে চান পথভ্রষ্ট হতে দেন, আর যে তাঁর দিকে ফিরে আসে, মান আনাব, তাকে তিনি নিজের দিকে পথ দেখান (১৩:২৭)। ইবন কাসীর ফিরে আসা মানুষদের ব্যাখ্যা দেন এভাবে: যারা তওবা করে, তাঁর অভিমুখী হয়, তাঁর কাছে মিনতি করে, তাঁর সাহায্য চায় এবং তাঁর সামনে বিনীত হয়। এরপর ১৩:২৮ শুরু হয় আল্লাযীনা আমানূ দিয়ে, যারা ঈমান এনেছে। তিনজন মুফাসসির ব্যাকরণের সূত্রে একে আগের সেই শব্দের সঙ্গে বেঁধে দেন।"
           },
           {
-            "en": "The placement carries an argument. People asking for a miracle were being told that certainty does not actually arrive through spectacle. Hearts settle through remembrance, which is available to anyone at any hour and requires no display. The verse immediately following, 13:29, adds the outcome: for them is tuba, a word the commentators explain as blessedness and goodness of life, and a good place of return.",
-            "bn": "আয়াতটির এই অবস্থানেই একটি যুক্তি লুকিয়ে আছে। যারা মুজিযা চাইছিল, তাদের বলে দেওয়া হচ্ছে: নিশ্চয়তা আসলে চমক দেখে আসে না। অন্তর থিতু হয় জিকিরে, যা যে কেউ যেকোনো সময় করতে পারে, যাতে কোনো প্রদর্শনী লাগে না। ঠিক পরের আয়াত ১৩:২৯ পরিণামটা জানিয়ে দেয়: তাদের জন্য আছে তূবা, মুফাসসিরগণ যার ব্যাখ্যা করেন সৌভাগ্য ও সুন্দর জীবন বলে, আর আছে উত্তম ফেরার ঠিকানা।"
+            "en": "At-Tabari puts alladhina amanu in the accusative, referring back to man, because those who believed are the very ones who turned; he reads the turning as turning in repentance: He guides to Himself whoever turns back in repentance, those who believed. Al-Qurtubi gives two analyses: the phrase is the object of an understood verb, Allah guides those who believe, or, as it is said, it stands in place of man anab. Al-Baghawi takes the second. The Muyassar folds it into one line: He guides those whose hearts grow still at His tawhid and His remembrance.",
+            "bn": "তাবারী আল্লাযীনা আমানূকে মানসূব ধরেন এবং একে 'মান' শব্দের দিকে ফিরিয়ে দেন। কারণ যারা ঈমান এনেছে, তারাই তো সেই ফিরে আসা মানুষ। ফিরে আসাকে তিনি পড়েন তওবা করে ফিরে আসা হিসেবে। তাহলে অর্থ দাঁড়ায়: যে তওবা করে ফিরে আসে, অর্থাৎ যারা ঈমান এনেছে, আল্লাহ তাদের নিজের দিকে পথ দেখান। কুরতুবী দুটি বিশ্লেষণ দেন। এক, শব্দগুচ্ছটি একটি উহ্য ক্রিয়ার কর্ম: আল্লাহ মুমিনদের পথ দেখান। দুই, বলা হয়েছে, এটি মান আনাবের স্থলাভিষিক্ত। বাগাভী দ্বিতীয়টিই নেন। মুয়াসসার পুরোটা এক বাক্যে বলে: যাদের অন্তর আল্লাহর তাওহীদ ও জিকিরে স্থির হয়, তিনি তাদের পথ দেখান।"
           }
         ]
       },
       {
         "h": {
-          "en": "Two Senses of Dhikr",
-          "bn": "জিকিরের দুটি অর্থ"
+          "en": "Stillness and Ease",
+          "bn": "স্থিরতা আর অন্তরঙ্গতা"
         },
         "p": [
           {
-            "en": "The commentators offer two readings of dhikrillah here, and most combine them rather than choosing. The first is the servant's remembrance of Allah: the phrases of tasbih and tahlil, the tongue and heart returning to His name. The second is the Quran itself, which Allah repeatedly calls a dhikr, as in 15:9 where He names it and undertakes its preservation. On that reading, hearts settle when the revealed word is present with them.",
-            "bn": "মুফাসসিরগণ এখানে যিকরিল্লাহর দুটি ব্যাখ্যা দেন, আর বেশিরভাগই একটি বেছে না নিয়ে দুটোকেই একসঙ্গে রাখেন। প্রথমটি হলো বান্দার আল্লাহকে স্মরণ করা: তাসবীহ ও তাহলীলের বাক্য, জবান ও অন্তরের বারবার তাঁর নামে ফিরে আসা। দ্বিতীয়টি হলো খোদ কুরআন, যাকে আল্লাহ বারবার জিকির বলেছেন, যেমন ১৫:৯-এ, যেখানে তিনি একে এই নাম দেন এবং এর হেফাজতের দায়িত্ব নেন। এই ব্যাখ্যায়, নাজিল হওয়া বাণী সঙ্গে থাকলে অন্তর থিতু হয়।"
+            "en": "What does tatma'innu mean? At-Tabari answers with a pair of verbs: taskunu qulubuhum wa tasta'nisu, their hearts become still and find intimate ease in the remembrance of Allah. He supports it with a report from Qatada, given with its chain: sakanat ila dhikri-llah wa-sta'nasat bihi, they grew still toward the remembrance of Allah and took comfort in it. For the second clause he uses the same pair again: by the remembrance of Allah the hearts of the believers become still and at ease. Al-Qurtubi uses the same two verbs.",
+            "bn": "তাতমাইন্নু মানে কী? তাবারী জবাব দেন দুটি ক্রিয়া দিয়ে: তাসকুনু কুলূবুহুম ওয়া তাসতা'নিসু। অর্থাৎ আল্লাহর জিকিরে তাদের অন্তর স্থির হয় এবং অন্তরঙ্গ স্বস্তি পায়। এর সমর্থনে তিনি সনদসহ কাতাদার একটি বর্ণনা আনেন: সাকানাত ইলা যিকরিল্লাহি ওয়াসতা'নাসাত বিহী, আল্লাহর জিকিরের দিকে তারা স্থির হয়েছে এবং তাতে স্বস্তি পেয়েছে। দ্বিতীয় বাক্যের ব্যাখ্যাতেও তিনি একই জোড়া ব্যবহার করেন: আল্লাহর জিকিরেই মুমিনদের অন্তর স্থির হয়, স্বস্তি পায়। কুরতুবীও একই দুটি ক্রিয়া আনেন।"
           },
           {
-            "en": "Both senses point at the same practice, which is why the combination is natural. Reciting the Quran is dhikr; the adhkar are drawn largely from the Quran and the sunnah; and the effect described is not a technique but a relationship being maintained. The commentators generally resist making this verse into a promise about mood, and read it instead as a statement about where the heart's stability is actually located.",
-            "bn": "দুটো অর্থই একই আমলের দিকে ইশারা করে, তাই দুটোকে মেলানো স্বাভাবিক। কুরআন তিলাওয়াত নিজেই জিকির; জিকিরের বাক্যগুলোর বেশিরভাগ কুরআন ও সুন্নাহ থেকেই নেওয়া; আর যে ফলের কথা বলা হচ্ছে, তা কোনো কৌশল নয়, বরং একটি সম্পর্ক যত্নে টিকিয়ে রাখা। মুফাসসিরগণ সাধারণত এই আয়াতকে মন ভালো রাখার প্রতিশ্রুতি বানাতে চান না। তাঁরা একে পড়েন অন্তরের স্থিরতা আসলে কোথায়, সেই কথা হিসেবে।"
+            "en": "Ibn Kathir's gloss is fuller, four phrases long. The hearts tatibu, become good and glad; tarkanu ila janibi-llah, lean toward the side of Allah; taskunu 'inda dhikrihi, grow still when He is mentioned; and tarda bihi mawlan wa nasiran, are content with Him as Protector and Helper. Al-Baghawi gives one word, taskun, and then a principle: stillness comes with certainty, yaqin, and agitation comes with doubt. On the second clause he says the believers' hearts grow still and certainty settles firmly in them.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা আরও বিস্তারিত, চারটি বাক্যাংশে। অন্তর তাতীবু, অর্থাৎ ভালো লাগায় ভরে ওঠে। তারকানু ইলা জানিবিল্লাহ, আল্লাহর দিকে ঝুঁকে ভরসা করে। তাসকুনু ইনদা যিকরিহী, তাঁর নাম উচ্চারিত হলে স্থির হয়। আর তারদা বিহী মাওলান ওয়া নাসীরা, অভিভাবক ও সাহায্যকারী হিসেবে তাঁকে পেয়ে সন্তুষ্ট থাকে। বাগাভী দেন একটিমাত্র শব্দ, তাসকুন। তারপর একটি মূলনীতি বলেন: স্থিরতা আসে ইয়াকীন থেকে, আর অস্থিরতা আসে সন্দেহ থেকে। দ্বিতীয় বাক্যের ব্যাখ্যায় তিনি বলেন, মুমিনদের অন্তর স্থির হয় এবং তাতে ইয়াকীন মজবুত হয়ে বসে।"
+          },
+          {
+            "en": "As-Sa'di describes the change from both sides. Their unease and agitation, qalaquha wa-dtirabuha, pass away, and their joys and delights come to them. The commentators, then, do not stop at the absence of something. At-Tabari and Qatada add uns, the ease of being in company; Ibn Kathir adds contentment with Allah as Protector; al-Baghawi adds certainty; as-Sa'di adds joy; al-Qurtubi names what the ease rests on, the tawhid of Allah. Every gloss describes the heart in relation to Allah, which is what the phrase bi-dhikri-llah has already told the reader.",
+            "bn": "সা'দী পরিবর্তনটা বর্ণনা করেন দুই দিক থেকে। অন্তরের উদ্বেগ আর অস্থিরতা, কালাকুহা ওয়াদতিরাবুহা, দূর হয়ে যায়। তার জায়গায় আসে অন্তরের আনন্দ আর তৃপ্তি। মুফাসসিররা তাই কেবল কোনো কিছু না থাকার কথা বলে থামেন না। তাবারী ও কাতাদা যোগ করেন উনস, সঙ্গ পাওয়ার স্বস্তি। ইবন কাসীর যোগ করেন অভিভাবক হিসেবে আল্লাহকে পেয়ে সন্তুষ্টি। বাগাভী যোগ করেন ইয়াকীন, সা'দী আনন্দ। আর কুরতুবী বলে দেন এই স্বস্তি কিসের ওপর দাঁড়িয়ে: আল্লাহর তাওহীদ। প্রতিটি ব্যাখ্যাই অন্তরকে দেখে আল্লাহর সঙ্গে তার সম্পর্কের ভেতরে। বিযিকরিল্লাহ শব্দটি পাঠককে আগেই সে কথা জানিয়ে দিয়েছে।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Prophet ﷺ and Unsettled Hours",
-          "bn": "নবী ﷺ ও অস্থির প্রহর"
+          "en": "Which Remembrance Is Meant",
+          "bn": "কোন জিকিরের কথা"
         },
         "p": [
           {
-            "en": "Muslim records from Aishah (RA) that the Prophet ﷺ used to remember Allah at all his times, which describes a life in which dhikr was not reserved for crises. Al-Bukhari and Muslim also preserve the words he said at moments of distress, beginning with the declaration that there is no god but Allah, the Immense, the Forbearing, and continuing with His lordship over the Throne and the heavens and the earth.",
-            "bn": "মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ সব সময় আল্লাহর জিকির করতেন। মানে তাঁর জীবনে জিকির শুধু বিপদের জন্য তুলে রাখা ছিল না। দুশ্চিন্তার মুহূর্তে তিনি যে কথাগুলো বলতেন, বুখারী ও মুসলিমে তা-ও সংরক্ষিত আছে। শুরু হয় এই ঘোষণা দিয়ে: আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি মহান, পরম সহনশীল। এরপর আসে, তিনিই আরশের রব, আসমান ও যমীনের রব।"
+            "en": "Al-Qurtubi gives the widest list of what dhikr Allah means here, most of it with names. Mujahid, Qatada and others: the Qur'an. Sufyan ibn 'Uyayna: His command. Muqatil: His promise. Ibn 'Abbas: swearing by His name. Then, without names: the remembrance of His favour and His blessings; and, as it is said, that they remember Allah and reflect on His signs, and so come to know the perfection of His power with clear sight. For the second clause he adds three more unnamed readings: obedience to Allah, His reward and His promise.",
+            "bn": "এখানে যিকরুল্লাহ বলতে কী বোঝায়, তার সবচেয়ে বড় তালিকা দেন কুরতুবী, বেশিরভাগই নামসহ। মুজাহিদ, কাতাদা ও অন্যরা বলেন: কুরআন। সুফিয়ান ইবন উয়াইনা বলেন: তাঁর আদেশ। মুকাতিল বলেন: তাঁর ওয়াদা। ইবন আব্বাস বলেন: তাঁর নামে কসম করা। এরপর নাম ছাড়া আরও দুটি মত: তাঁর অনুগ্রহ ও নিয়ামতের স্মরণ। আর বলা হয়েছে, তারা আল্লাহকে স্মরণ করে, তাঁর নিদর্শন নিয়ে ভাবে, ফলে অন্তর্দৃষ্টি দিয়ে তাঁর পূর্ণ ক্ষমতা চিনতে পারে। দ্বিতীয় বাক্যের জন্য তিনি নাম ছাড়া আরও তিনটি মত যোগ করেন: আল্লাহর আনুগত্য, তাঁর সওয়াব এবং তাঁর ওয়াদা।"
           },
           {
-            "en": "The pattern in those narrations is worth noticing. The remembrance taught for hard moments is largely made of statements about Allah rather than statements about the problem. The heart is being given something solid to stand on, not being talked out of its fear. That is closer to how this verse works than any idea of dhikr as a calming exercise performed for its own sake.",
-            "bn": "এই বর্ণনাগুলোর ধরনটা লক্ষ করার মতো। কঠিন মুহূর্তের জন্য শেখানো জিকিরের বেশিরভাগই সমস্যা নিয়ে নয়, আল্লাহকে নিয়ে কথা। অন্তরকে দাঁড়ানোর মতো শক্ত মাটি দেওয়া হচ্ছে, যুক্তি দিয়ে তার ভয় ভাঙানো হচ্ছে না। জিকিরকে শুধু মন শান্ত করার অনুশীলন ভাবার চেয়ে এই বোঝাটাই আয়াতের কাজের ধরনের অনেক কাছে।"
+            "en": "The reports do not agree on every name. Al-Baghawi also cites Muqatil, but has him say the Qur'an, where al-Qurtubi has him say His promise. Both books are reporting what reached them, and the difference is kept here as it stands. The Muyassar combines readings instead of choosing: in the first half, His tawhid and His remembrance; in the second, obedience to Him, His remembrance and His reward. Al-Qurtubi also gives a reading that their hearts are at rest continually through remembering Allah with their tongues.",
+            "bn": "কোন মত কার, এ নিয়ে বর্ণনাগুলো সব জায়গায় এক নয়। বাগাভীও মুকাতিলের নাম আনেন, তবে তাঁর বর্ণনায় মুকাতিলের মত: কুরআন। কুরতুবীর বর্ণনায় সেই মুকাতিলেরই মত: তাঁর ওয়াদা। দুই গ্রন্থই নিজের কাছে যা পৌঁছেছে তা বর্ণনা করছে, তাই পার্থক্যটা এখানে যেমন আছে তেমনই রাখা হলো। মুয়াসসার একটি বেছে না নিয়ে মতগুলো একসঙ্গে আনে। প্রথম ভাগে তাঁর তাওহীদ ও জিকির, দ্বিতীয় ভাগে তাঁর আনুগত্য, জিকির ও সওয়াব। কুরতুবী আরেকটি মতও আনেন: মুখে আল্লাহর জিকির করার ফলে তাদের অন্তর সবসময় প্রশান্ত থাকে।"
+          },
+          {
+            "en": "The reading of Ibn 'Abbas is the most particular, and both al-Qurtubi and al-Baghawi carry it in slightly different words. Al-Qurtubi: this is about oaths; when a man's opponent in a dispute swears by Allah, his heart settles. Al-Baghawi: when a Muslim swears by Allah on something, the hearts of the believers settle on it. On this reading the dhikr is the mention of His name in an oath, and that name alone is enough for a believing heart to rest on what was sworn.",
+            "bn": "ইবন আব্বাসের মতটি সবচেয়ে নির্দিষ্ট। কুরতুবী ও বাগাভী দুজনেই তা এনেছেন, সামান্য ভিন্ন শব্দে। কুরতুবীর ভাষায়: এটি কসমের ব্যাপারে। বিবাদে প্রতিপক্ষ যখন আল্লাহর নামে কসম করে, তখন তার অন্তর শান্ত হয়ে যায়। বাগাভীর ভাষায়: কোনো মুসলিম যখন কোনো বিষয়ে আল্লাহর নামে কসম করে, মুমিনদের অন্তর তাতে আশ্বস্ত হয়। এই ব্যাখ্যায় জিকির মানে কসমে তাঁর নাম উচ্চারণ। আর মুমিনের অন্তর যে কথার ওপর কসম করা হলো তাতে ভরসা রাখতে ওই নামটুকুই যথেষ্ট।"
           }
         ]
       },
       {
         "h": {
-          "en": "What Peace Is Not",
-          "bn": "প্রশান্তি যা নয়"
+          "en": "The Tongue's Words or the Book",
+          "bn": "মুখের তাসবীহ, নাকি কিতাব"
         },
         "p": [
           {
-            "en": "Honesty about this verse requires saying what it does not claim. It does not say that a believer never feels anxious, that grief will not return, or that remembrance replaces medical care, counselling or sleep. The Prophet ﷺ himself grieved, and the Quran records the fear of prophets in moments of danger, as in 20:67 where Musa (AS) felt fear within himself. Distress is not evidence of a defective heart.",
-            "bn": "এই আয়াত নিয়ে সৎ থাকতে হলে এটাও বলতে হয়, আয়াত কী দাবি করে না। আয়াত বলে না যে মুমিন কখনো দুশ্চিন্তায় পড়ে না, দুঃখ আর ফিরে আসে না, কিংবা জিকির চিকিৎসা, মনোবিদের পরামর্শ বা ঘুমের জায়গা নিয়ে নেয়। নবী ﷺ নিজেও শোক করেছেন। আর বিপদের মুহূর্তে নবীদের ভয়ের কথা কুরআন নিজেই বলেছে, যেমন ২০:৬৭-এ মূসা (আঃ) মনে মনে ভয় পেয়েছিলেন। মনের কষ্ট অন্তরে কোনো খুঁতের প্রমাণ নয়।"
+            "en": "As-Sa'di sets out two readings and follows each to its end. On the first, dhikr Allah is the servant's remembrance of his Lord: tasbih, tahlil, takbir and the like. He then gives the reason hearts should rest in nothing else: nothing is more delightful to hearts, more longed for or sweeter, than love of their Creator, intimacy with Him and knowing Him. And he adds a measure: in proportion to a heart's knowledge of Allah and its love for Him will be its remembrance of Him.",
+            "bn": "সা'দী দুটি মত সাজিয়ে দেন, আর প্রতিটিকে শেষ পর্যন্ত টেনে নেন। প্রথম মতে, যিকরুল্লাহ মানে বান্দার নিজের রবকে স্মরণ: তাসবীহ, তাহলীল, তাকবীর ইত্যাদি। অন্তর কেন আর কিছুতে স্থির হবে না, তার কারণও তিনি বলেন। স্রষ্টার ভালোবাসা, তাঁর সঙ্গে অন্তরঙ্গতা আর তাঁকে চেনার চেয়ে মধুর, কাঙ্ক্ষিত বা মিষ্টি আর কিছু অন্তরের কাছে নেই। সঙ্গে তিনি একটি মাপকাঠিও দেন: আল্লাহকে অন্তর যতটা চেনে আর যতটা ভালোবাসে, তাঁর জিকিরও করে ঠিক ততটা।"
           },
           {
-            "en": "What the verse promises is a floor rather than a ceiling: a place the heart can return to that does not move when circumstances do. Many people describe it as the difference between a problem that fills the whole horizon and the same problem seen as one item inside a much larger reality. Nothing external has changed. What has changed is that the heart is no longer suspended in mid-air.",
-            "bn": "আয়াত যা প্রতিশ্রুতি দেয়, তা ছাদ নয়, মেঝে: এমন এক জায়গা, যেখানে অন্তর ফিরে আসতে পারে, আর পরিস্থিতি বদলালেও যা সরে যায় না। অনেকে এর বর্ণনা দেন এভাবে: একটা সমস্যা যখন গোটা দিগন্ত ঢেকে ফেলে, আর সেই সমস্যাই যখন অনেক বড় এক বাস্তবতার ভেতরে একটা বিষয় মাত্র হয়ে দেখা দেয়, তফাতটা এই দুইয়ের মধ্যে। বাইরের কিছুই বদলায়নি। বদলেছে শুধু এটুকু: অন্তর আর শূন্যে ঝুলে নেই।"
+            "en": "The second reading he introduces with it is said: dhikr Allah is His Book, which He sent down as a reminder, dhikra, for the believers. The hearts' rest then means this: when they come to know the meanings and rulings of the Qur'an, they settle on them, because these point to the clear truth, backed by proofs and demonstrations. Hearts, he says, settle only through certainty and knowledge, and in the Book of Allah these are secured in the fullest and most complete way.",
+            "bn": "দ্বিতীয় মতটি তিনি আনেন 'বলা হয়েছে' দিয়ে। এ মতে যিকরুল্লাহ মানে তাঁর কিতাব, যা তিনি মুমিনদের জন্য যিকরা, উপদেশ হিসেবে নাযিল করেছেন। তখন অন্তরের প্রশান্তির অর্থ দাঁড়ায় এই: কুরআনের অর্থ আর বিধান যখন অন্তর বুঝতে পারে, তখন তাতে সে স্থির হয়। কারণ এগুলো সুস্পষ্ট সত্যের দিকে নিয়ে যায়, আর সেই সত্যের পেছনে আছে দলিল ও প্রমাণ। তাঁর কথায়, অন্তর স্থির হয় কেবল ইয়াকীন আর ইলমে। আল্লাহর কিতাবে এ দুটি আছে সবচেয়ে পূর্ণ ও নিখুঁতভাবে।"
+          },
+          {
+            "en": "He then draws the contrast. Other books that do not refer back to it give hearts no such rest; they stay uneasy from conflicting evidence and opposing rulings. He cites 4:82: had it been from other than Allah, they would have found in it much contradiction. Only someone who has tested the Book of Allah and reflected on it, and on other branches of knowledge, recognises this, he says, and finds a great difference between them. Al-Baghawi's principle, stillness with certainty and agitation with doubt, sits close to this reading.",
+            "bn": "এরপর তিনি পার্থক্যটা দেখান। যেসব গ্রন্থ কুরআনের দিকে ফেরে না, সেগুলো অন্তরকে এমন প্রশান্তি দেয় না। দলিলের পরস্পর বিরোধ আর বিধানের সংঘাতে অন্তর সেখানে অস্থিরই থেকে যায়। তিনি ৪:৮২ উদ্ধৃত করেন: এটি যদি আল্লাহ ছাড়া অন্য কারও কাছ থেকে আসত, তবে তারা এতে অনেক অসংগতি পেত। তাঁর মতে, যে আল্লাহর কিতাব পরখ করেছে, তা নিয়ে ভেবেছে, আর অন্যান্য জ্ঞানশাস্ত্র নিয়েও ভেবেছে, কেবল সে-ই এটা বোঝে এবং দুইয়ের মধ্যে বিরাট পার্থক্য দেখতে পায়। বাগাভীর মূলনীতি, ইয়াকীনে স্থিরতা আর সন্দেহে অস্থিরতা, এই মতেরই কাছাকাছি।"
           }
         ]
       },
       {
         "h": {
-          "en": "Small and Repeated",
-          "bn": "ছোট, কিন্তু বারবার"
+          "en": "Hearts That Also Tremble",
+          "bn": "যে অন্তর কেঁপেও ওঠে"
         },
         "p": [
           {
-            "en": "The practice this verse recommends is unimpressive by design. A few phrases repeated with attention will do more than an ambitious programme abandoned in a week. Subhanallah, alhamdulillah, la ilaha illallah, Allahu akbar, and astaghfirullah cover most of what a heart needs to say. Attaching them to fixed points, after prayers and before sleep, is what turns them from an idea into a habit.",
-            "bn": "এই আয়াত যে আমলের দিকে ডাকে, তা ইচ্ছা করেই সাদামাটা। মনোযোগ দিয়ে বারবার বলা কয়েকটি বাক্য সেই বড় পরিকল্পনার চেয়ে বেশি কাজ দেয়, যা এক সপ্তাহেই ছেড়ে দেওয়া হয়। সুবহানাল্লাহ, আলহামদুলিল্লাহ, লা ইলাহা ইল্লাল্লাহ, আল্লাহু আকবার আর আসতাগফিরুল্লাহ: অন্তরের যা বলার, তার প্রায় সবই এতে এসে যায়। নামাজের পরে, ঘুমানোর আগে, এমন নির্দিষ্ট সময়ের সঙ্গে বেঁধে নিলেই এগুলো ধারণা থেকে অভ্যাস হয়ে ওঠে।"
+            "en": "Another verse seems to say the opposite. In 8:2 the believers are those whose hearts tremble, wajilat qulubuhum, when Allah is mentioned. Al-Baghawi puts the question himself: how can rest and trembling be in one state? His answer divides what is remembered. Trembling comes at the mention of the threat and the punishment; rest comes at the mention of the promise and the reward. Hearts tremble when they recall the justice of Allah and the severity of His reckoning, and settle when they recall His favour, His reward and His generosity.",
+            "bn": "আরেকটি আয়াত শুনলে মনে হয় উল্টো কথা বলছে। ৮:২ আয়াতে মুমিন তারাই, আল্লাহর নাম উচ্চারিত হলে যাদের অন্তর কেঁপে ওঠে, ওয়াজিলাত কুলূবুহুম। প্রশ্নটা বাগাভী নিজেই তোলেন: প্রশান্তি আর কম্পন একই অবস্থায় থাকে কী করে? তাঁর জবাব ভাগ করে দেয় কী স্মরণ করা হচ্ছে তা। কম্পন আসে শাস্তি ও সতর্কবাণীর উল্লেখে, প্রশান্তি আসে ওয়াদা ও সওয়াবের উল্লেখে। আল্লাহর ইনসাফ আর তাঁর হিসাবের কঠোরতা মনে পড়লে অন্তর কাঁপে। আর তাঁর অনুগ্রহ, সওয়াব ও দয়া মনে পড়লে অন্তর স্থির হয়।"
           },
           {
-            "en": "It also helps to notice where the heart currently goes for settling. For most people the honest answer is a screen, and the relief it gives lasts exactly as long as the scrolling does. The verse is not asking anyone to enjoy silence immediately. It is claiming that one of these two places actually holds weight, and it invites a person to test the claim over a few ordinary weeks.",
-            "bn": "অন্তর এখন থিতু হতে কোথায় যায়, সেটা খেয়াল করাও কাজে দেয়। বেশিরভাগ মানুষের সৎ উত্তর হবে: কোনো একটা স্ক্রিন। আর তার দেওয়া স্বস্তি টেকে ঠিক ততক্ষণ, যতক্ষণ স্ক্রল চলে। আয়াত কাউকে এখনই নীরবতা উপভোগ করতে বলছে না। আয়াতের দাবি হলো, এই দুই জায়গার মধ্যে একটিই আসলে ভার ধরে রাখতে পারে। আর কয়েকটি সাধারণ সপ্তাহ ধরে দাবিটা যাচাই করে দেখার দাওয়াত দিচ্ছে।"
+            "en": "Al-Qurtubi has the same pairing inside his list of readings, without naming 8:2: hearts settle at the remembrance of His favour and blessings, as they tremble at the remembrance of His justice, His retribution and His decree. Both commentators use the verb tawjal, from the same root as wajilat in 8:2. In both commentators the two verses describe the same believing hearts, answering two different things remembered about one Lord. The passage 8:2 to 8:4 has its own article, with the narration attached to it there, and that material is not repeated here.",
+            "bn": "কুরতুবীর মতের তালিকাতেও একই জোড়া আছে, যদিও তিনি ৮:২ আয়াতের নাম নেন না। তাঁর ভাষায়, আল্লাহর অনুগ্রহ ও নিয়ামতের স্মরণে অন্তর প্রশান্ত হয়, যেমন তাঁর ইনসাফ, প্রতিশোধ আর ফয়সালার স্মরণে অন্তর কাঁপে। কাঁপার জন্য দুজনেই তাওজালু ক্রিয়াটি ব্যবহার করেন, যার ধাতু ৮:২ আয়াতের ওয়াজিলাত শব্দেরই ধাতু। দুই মুফাসসিরের কাছেই আয়াত দুটি একই মুমিন অন্তরের কথা বলে। সেই অন্তর একই রবের দুই ভিন্ন দিকের স্মরণে দুইভাবে সাড়া দেয়। ৮:২ থেকে ৮:৪ আয়াতের জন্য আলাদা প্রবন্ধ আছে, সেখানকার হাদীসসহ। সে আলোচনা এখানে আর ফিরিয়ে আনা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Hearts Are Meant",
+          "bn": "কাদের অন্তরের কথা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the second clause in his own words as the hearts of the believers, then records a narrower view with the words it was said: that it meant the hearts of the believers among the Companions of the Messenger of Allah ﷺ. He gives it from Mujahid by more than one chain: for Muhammad and his Companions. He also reports Sufyan ibn 'Uyayna on the first half: they are the Companions of Muhammad ﷺ. Al-Qurtubi likewise reports from Mujahid that they are the Companions of the Prophet ﷺ.",
+            "bn": "দ্বিতীয় বাক্যের ব্যাখ্যায় তাবারী নিজের ভাষায় বলেন: মুমিনদের অন্তর। তারপর 'বলা হয়েছে' দিয়ে একটি সংকীর্ণ মত লিপিবদ্ধ করেন: এর দ্বারা রাসূলুল্লাহ ﷺ-এর সাহাবিদের মধ্যে যারা মুমিন, তাদের অন্তর বোঝানো হয়েছে। মতটি তিনি মুজাহিদ থেকে একাধিক সনদে আনেন: মুহাম্মাদ ও তাঁর সাহাবিদের জন্য। প্রথম ভাগ সম্পর্কে সুফিয়ান ইবন উয়াইনার কথাও তিনি বর্ণনা করেন: তারা মুহাম্মাদ ﷺ-এর সাহাবিগণ। কুরতুবীও মুজাহিদ থেকে বর্ণনা করেন যে তারা নবী ﷺ-এর সাহাবি।"
+          },
+          {
+            "en": "Al-Qurtubi, as noted above, reports a different comment from Sufyan, on what the remembrance is rather than on who remembers. Neither commentator sets the two views against each other: the narrower one names the Companions, and the general one, which at-Tabari gives as his own, speaks of believers as such. None of the commentaries fetched for this verse attaches a hadith to it. Narrations on dhikr itself are given with 2:152 and 7:205 and are not repeated here.",
+            "bn": "আগেই বলা হয়েছে, কুরতুবী সুফিয়ানের ভিন্ন একটি মন্তব্য আনেন। সেটি কে স্মরণ করে তা নিয়ে নয়, কী স্মরণ করা হয় তা নিয়ে। কোনো মুফাসসিরই মত দুটিকে পরস্পরের বিপক্ষে দাঁড় করান না। সংকীর্ণ মতটি সাহাবিদের নাম বলে দেয়। আর সাধারণ মতটি, যা তাবারী নিজের কথা হিসেবে দেন, সব মুমিনের কথা বলে। এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করে না। জিকির বিষয়ক হাদীস ২:১৫২ ও ৭:২০৫ আয়াতের প্রবন্ধে আছে, এখানে আর পুনরাবৃত্তি করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From a Settled Heart to Tuba",
+          "bn": "প্রশান্ত অন্তর থেকে তূবা"
+        },
+        "p": [
+          {
+            "en": "The next verse adds deeds to faith and names what is theirs: those who have believed and done righteous deeds, tuba lahum wa husnu ma'ab, a good state is theirs and a good return (13:29). Ibn Kathir reports from Ibn 'Abbas, through 'Ali ibn Abi Talha, that tuba means happiness and comfort of the eye, and from Qatada that it is an Arabic word meaning you have attained something good; he calls the glosses synonymous. One verse describes the believers' hearts; the next names what awaits them.",
+            "bn": "পরের আয়াত ঈমানের সঙ্গে আমল যোগ করে এবং তাদের প্রাপ্যের নাম বলে: যারা ঈমান এনেছে ও সৎকাজ করেছে, তূবা লাহুম ওয়া হুসনু মাআব, তাদের জন্য সুখময় অবস্থা আর উত্তম প্রত্যাবর্তন (১৩:২৯)। ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস থেকে বর্ণনা করেন যে তূবা মানে আনন্দ আর চোখ জুড়ানো প্রশান্তি। কাতাদা থেকে বর্ণনা করেন, এটি একটি আরবি শব্দ, যার অর্থ: তুমি ভালো কিছু পেয়েছ। ইবন কাসীরের মতে এসব ব্যাখ্যা সমার্থক। এক আয়াত মুমিনদের অন্তরের বর্ণনা দেয়, পরের আয়াত বলে তাদের জন্য কী অপেক্ষা করছে।"
+          },
+          {
+            "en": "Taken together, the commentators give the reader several things that the remembrance of Allah may be: the Qur'an, His command, His promise, His name in an oath, His favour, His signs, the servant's tasbih and tahlil. Most are tied by name to whoever said them, and each ties the heart's rest to Allah. As-Sa'di's measure turns the verse back on its reader: remembrance follows knowledge of Allah and love for Him. The second clause puts bi-dhikri-llah first, and he read it to mean nothing other than His remembrance.",
+            "bn": "সব মিলিয়ে, আল্লাহর জিকির বলতে কী হতে পারে, মুফাসসিররা পাঠকের সামনে কয়েকটি উত্তর রাখেন: কুরআন, তাঁর আদেশ, তাঁর ওয়াদা, কসমে তাঁর নাম, তাঁর অনুগ্রহ, তাঁর নিদর্শন, আর বান্দার তাসবীহ ও তাহলীল। বেশিরভাগ মতের সঙ্গে আছে যিনি বলেছেন তাঁর নাম, আর প্রতিটিই অন্তরের প্রশান্তিকে বাঁধে আল্লাহর সঙ্গে। সা'দীর মাপকাঠি আয়াতটিকে পাঠকের দিকেই ফিরিয়ে দেয়: জিকির চলে আল্লাহকে চেনা আর ভালোবাসার পেছনে পেছনে। দ্বিতীয় বাক্যে বিযিকরিল্লাহ এসেছে সবার আগে, আর সা'দী এর অর্থ নিয়েছেন: তাঁর জিকির ছাড়া আর কিছুতে নয়।"
           }
         ]
       }
