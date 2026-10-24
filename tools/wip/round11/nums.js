@@ -1,5 +1,7 @@
 const vm=require('vm'),fs=require('fs');
 const o=(()=>{const ctx={};vm.createContext(ctx);return vm.runInContext('({'+fs.readFileSync(process.argv[2],'utf8')+'})',ctx);})();
+// compare in precomposed form: the table and the text may differ in how য় ড় ঢ় are encoded
+const pre=s=>s.replace(/[\u09AF\u09A1\u09A2]\u09BC/g,m=>({'\u09AF\u09BC':'\u09DF','\u09A1\u09BC':'\u09DC','\u09A2\u09BC':'\u09DD'})[m]);
 const bn2a=s=>s.replace(/[০-৯]/g,d=>'০১২৩৪৫৬৭৮৯'.indexOf(d));
 const stripRefs=s=>s.replace(/\d+\s*:\s*\d+(?:\s*[-–]\s*\d+)?/g,' ');
 const W={one:1,two:2,three:3,four:4,five:5,six:6,seven:7,eight:8,nine:9,ten:10,eleven:11,twelve:12,twenty:20};
@@ -8,7 +10,7 @@ for(const [id,e] of Object.entries(o)) e.sections.forEach((s,si)=>s.p.forEach((p
   const en=stripRefs(p.en), bn=stripRefs(bn2a(p.bn));
   const enN=new Set([...(en.match(/(?<![\d])\d+(?![\d])/g)||[]).map(Number),...(en.match(/(?<![\w-])(?<!\bno )(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|twenty)(?![\w-])/gi)||[]).map(x=>W[x.toLowerCase()])]);
   const bnN=new Set((bn.match(/(?<![\d])\d+(?![\d])/g)||[]).map(Number));
-  for(const [w,v] of Object.entries(BNW)) if(p.bn.includes(w)) bnN.add(v);
+  for(const [w,v] of Object.entries(BNW)) if(pre(p.bn).includes(pre(w))) bnN.add(v);
   if(p.bn.includes('একই')||p.bn.includes('একমাত্র')) bnN.add(1);
   const onlyEn=[...enN].filter(x=>!bnN.has(x));
   if(onlyEn.length) console.log(id+' §'+(si+1)+'.'+(pi+1)+' EN-ONLY ['+onlyEn+']  EN: '+en.replace(/\s+/g,' ').slice(0,150));
