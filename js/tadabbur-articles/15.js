@@ -159,81 +159,141 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Promise With Emphasis",
-          "bn": "জোর দিয়ে বলা প্রতিশ্রুতি"
+          "en": "After They Called Him Mad",
+          "bn": "পাগল বলার পরের জবাব"
         },
         "p": [
           {
-            "en": "Indeed, it is We who sent down the Reminder, and indeed We are its guardian. Arabic can stack emphasis, and this sentence stacks nearly all of it: inna with the detached pronoun nahnu, then a second inna, then the lam of assertion before hafizun. The mufassirun note that the verse answers a taunt: in 15:6 the deniers had sneered, \"O you upon whom the Reminder has been sent down, you are surely mad.\" The reply passes over the insult and secures the Book instead.",
-            "bn": "নিশ্চয়ই আমিই এই জিকির, অর্থাৎ উপদেশবাণী, নাজিল করেছি, আর নিশ্চয়ই আমিই এর রক্ষক। আরবি ভাষায় এক বাক্যে জোরের ওপর জোর দেওয়া যায়। এ বাক্যে তার প্রায় সব উপায় একসঙ্গে এসেছে: প্রথমে ইন্না, সঙ্গে আলাদা সর্বনাম নাহনু; তারপর আবার ইন্না; তারপর হাফিযূন শব্দের আগে জোর বোঝানোর লাম। মুফাসসিরগণ বলেন, আয়াতটি একটা বিদ্রূপের জবাব। ১৫:৬ আয়াতে অস্বীকারকারীরা ঠাট্টা করে বলেছিল, \"ওহে, যার ওপর জিকির নাজিল হয়েছে, তুমি তো নিশ্চয়ই পাগল।\" জবাবটা অপমানের দিকে ফিরেও তাকায় না, বরং কিতাবের হেফাজত নিশ্চিত করে দেয়।"
+            "en": "The verse answers a scene. In 15:6 the deniers address the Prophet ﷺ as the one upon whom adh-dhikr has been sent down, and then call him mad. Ibn Kathir, in the abridged English, reads the address as scorn: the one who claims to receive it. They called him mad, he explains, for inviting them to follow him and leave the way of their forefathers. In 15:7 they ask why he does not bring the angels, which Ibn Kathir glosses as angels to bear witness that what he brought is true.",
+            "bn": "আয়াতটি একটা দৃশ্যের জবাব। ১৫:৬ আয়াতে অস্বীকারকারীরা নবী ﷺ-কে ডাকে 'যার ওপর যিকর নাযিল হয়েছে' বলে, তারপর তাঁকে পাগল বলে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এই সম্বোধনকে ঠাট্টা হিসেবে পড়ে: মানে, যে লোক দাবি করে তার কাছে তা আসে। তিনি বলেন, তাঁকে পাগল বলা হয়েছিল কারণ তিনি তাদের ডাকছিলেন তাঁর অনুসরণ করতে আর বাপদাদার পথ ছেড়ে দিতে। ১৫:৭ আয়াতে তারা জানতে চায়, তিনি ফেরেশতা আনেন না কেন। ইবন কাসীরের ব্যাখ্যায়, এমন ফেরেশতা যারা সাক্ষ্য দেবে যে তাঁর আনা বাণী সত্য।"
           },
           {
-            "en": "Hafizun is an active participle, and it is plural to match the majestic We: not \"We will guard it once,\" but \"We are, ongoingly, its guardians.\" The Quran is called adh-Dhikr here, the Reminder — the thing whose entire work is to be remembered. A reminder that could be corrupted would fail at its one task; the name chosen and the promise given fit each other exactly, and the verse makes the fit audible.",
-            "bn": "হাফিযূন শব্দটি ইসমুল ফা'ইল, অর্থাৎ যে কাজটি করে তাকে বোঝায়। আর মহিমা বোঝানো \"আমি\"-র সঙ্গে মিল রেখে শব্দটি এসেছে বহুবচনে। তাই কথাটা \"আমি একবার এর হেফাজত করব\" নয়, বরং \"আমি সব সময় এর রক্ষক।\" এখানে কুরআনের নাম আজ-জিকির, অর্থাৎ যে বাণী স্মরণ করিয়ে দেয়। মনে থাকাই তার পুরো কাজ। যে স্মরণের বাণী বিকৃত হয়ে যেতে পারে, সে তার একমাত্র কাজেই ব্যর্থ হতো। তাই বেছে নেওয়া নাম আর দেওয়া প্রতিশ্রুতি একেবারে খাপে খাপ মিলে যায়, আর আয়াতটি সেই মিল কানে শুনিয়ে দেয়।"
+            "en": "Then 15:8 replies that the angels are sent down only with the truth, and that the deniers would then have no respite. Ibn Kathir cites Mujahid that the truth here means the Message and the punishment. As-Sa'di opens his comment on 15:9 from that demand: sufficient for them as a sign, if they are truthful, is this mighty Qur'an, and that, he says, is why Allah said here, Indeed it is We who sent down the Reminder. On his reading the verse sets the Book itself against the request for angels.",
+            "bn": "এরপর ১৫:৮ আয়াত জবাব দেয়: ফেরেশতা নামে কেবল হক নিয়ে, আর তখন অস্বীকারকারীরা কোনো অবকাশ পাবে না। ইবন কাসীর মুজাহিদের কথা আনেন যে এখানে হক মানে রিসালাত আর আযাব। সা'দী ১৫:৯ আয়াতের আলোচনা শুরু করেন ওই দাবি থেকেই। তাঁর কথা, তারা যদি সত্যবাদী হয়, তবে নিদর্শন হিসেবে এই মহান কুরআনই তাদের জন্য যথেষ্ট। আর সে কারণেই আল্লাহ এখানে বলেছেন: নিশ্চয় আমিই যিকর নাযিল করেছি। সা'দীর পাঠে ফেরেশতা দেখার দাবির সামনে আয়াতটি দাঁড় করায় কিতাবকেই।"
           }
         ]
       },
       {
         "h": {
-          "en": "Guarded From What",
-          "bn": "কিসের থেকে সুরক্ষিত"
+          "en": "One Word, Two Speakers",
+          "bn": "এক শব্দ, দুই বক্তা"
         },
         "p": [
           {
-            "en": "The guardianship covers addition, loss and distortion together. 41:42 says of this Book that falsehood cannot approach it from before it or from behind it. And the guarding began before the community could take any part in it: 75:17 tells the Prophet ﷺ that upon Allah is its collection and its recitation, and in 87:6 he is promised, \"We will make you recite, and you will not forget.\" Preservation is pledged at every stage of the journey — revelation, retention and transmission alike.",
-            "bn": "এই হেফাজত একসঙ্গে তিনটি বিপদ থেকেই রক্ষা করে: কিছু যোগ হওয়া, কিছু হারিয়ে যাওয়া আর বিকৃত হওয়া। ৪১:৪২ আয়াতে এই কিতাব সম্পর্কে আল্লাহ বলেন, মিথ্যা এর সামনে থেকেও আসতে পারে না, পেছন থেকেও না। আর এ পাহারা শুরু হয়েছিল উম্মাহর কোনো ভূমিকা রাখার আগেই। ৭৫:১৭ আয়াতে আল্লাহ নবী ﷺ-কে জানিয়েছেন, এর সংকলন ও পাঠ তাঁরই দায়িত্বে। আর ৮৭:৬ আয়াতে তাঁকে প্রতিশ্রুতি দিয়েছেন, \"আমি তোমাকে পড়াব, আর তুমি ভুলবে না।\" পথের প্রতিটি ধাপেই হেফাজতের অঙ্গীকার আছে: নাজিলের সময়, মুখস্থ রাখায়, আর পরের প্রজন্মের কাছে পৌঁছে দেওয়ায়।"
+            "en": "The mockers used the word themselves: nuzzila 'alayhi adh-dhikr, the one upon whom the Reminder was sent down. The reply takes up the same word: inna nahnu nazzalna adh-dhikra, indeed it is We who sent down the Reminder. What they said in scorn comes back as a statement, with the One who sent it down named. The commentators agree on what the word denotes here. At-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi each gloss adh-dhikr as the Qur'an, and the Muyassar writes it out: We sent down the Qur'an upon the Prophet Muhammad ﷺ.",
+            "bn": "শব্দটা ঠাট্টাকারীরা নিজেরাই ব্যবহার করেছিল: নুযযিলা আলাইহিয যিকর, যার ওপর যিকর নাযিল হয়েছে। জবাবেও ফিরে আসে সেই একই শব্দ: ইন্না নাহনু নাযযালনায যিকরা, নিশ্চয় আমিই যিকর নাযিল করেছি। তারা যে কথা বলেছিল বিদ্রূপ করে, সেটাই ফিরে এল ঘোষণা হয়ে, আর এবার নাযিলকারীর নাম স্পষ্ট। এখানে শব্দটি কী বোঝায়, তা নিয়ে তাফসীরকারেরা একমত। তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী সবাই বলেন, যিকর মানে কুরআন। মুয়াসসার পুরো কথাটা খুলে লেখে: আমি নবী মুহাম্মাদ ﷺ-এর ওপর কুরআন নাযিল করেছি।"
           },
           {
-            "en": "The commentators set this beside the earlier scriptures. In 5:44 the rabbis and the scholars were entrusted with guarding the Book of Allah — bima istuhfizu, by what they were asked to preserve — and an entrusted guardianship could be neglected by its human trustees. For the Quran the grammar itself changes: the Guardian named is Allah. That contrast, drawn in the tafsir literature, is why no promise shaped like 15:9 exists for any earlier book.",
-            "bn": "মুফাসসিরগণ এ আয়াতকে আগের কিতাবগুলোর পাশে রেখে দেখেন। ৫:৪৪ আয়াতে রব্বানী ও আলিমদের হাতে আল্লাহর কিতাব রক্ষার দায়িত্ব দেওয়া হয়েছিল: বিমা উস্তুহফিযূ, অর্থাৎ যার হেফাজতের ভার তাদের দেওয়া হয়েছিল। মানুষের হাতে সোপর্দ করা আমানতে মানুষ অবহেলাও করতে পারে। কুরআনের বেলায় বাক্যের গঠনটাই বদলে যায়: এখানে রক্ষক হিসেবে নাম এসেছে আল্লাহর। তাফসীরের কিতাবগুলো এ পার্থক্য তুলে ধরেছে। এ কারণেই আগের কোনো কিতাবের জন্য ১৫:৯ আয়াতের মতো প্রতিশ্রুতি নেই।"
+            "en": "Al-Qurtubi pauses on the word nahnu, We, and allows two analyses. Nahnu may be the subject of its own clause, with nazzalna as its predicate and that whole clause as the predicate of inna. Or nahnu may be an emphasis of the pronoun attached to inna. He rules out a third possibility, that nahnu is a separating pronoun, because what follows it is a verbal clause rather than a definite noun. None of the other fetched commentators discusses the grammar of the verse, so this article adds nothing further on its wording.",
+            "bn": "কুরতুবী নাহনু (আমি) শব্দটিতে এসে থামেন এবং দুটি বিশ্লেষণের সুযোগ রাখেন। এক, নাহনু নিজেই একটি বাক্যের মুবতাদা, নাযযালনা তার খবর, আর পুরো বাক্যটি আবার ইন্না-র খবর। দুই, নাহনু হলো ইন্না-র সঙ্গে যুক্ত সর্বনামের তাকিদ বা জোর। তৃতীয় একটি সম্ভাবনা তিনি নাকচ করেন, অর্থাৎ নাহনু পৃথককারী সর্বনাম হওয়া। কারণ এর পরে আছে একটি ক্রিয়াবাক্য, নির্দিষ্ট কোনো বিশেষ্য নয়। যেসব তাফসীর দেখা হয়েছে, তার আর কোনোটি আয়াতের ব্যাকরণ নিয়ে কথা বলেনি। তাই এর শব্দগঠন নিয়ে এ লেখা আর কিছু যোগ করছে না।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Promise at Work in History",
-          "bn": "ইতিহাসে প্রতিশ্রুতি যেভাবে পূরণ হলো"
+          "en": "Nothing Added, Nothing Lost",
+          "bn": "বাড়েও না, হারায়ও না"
         },
         "p": [
           {
-            "en": "The promise worked through ordinary means. Al-Bukhari narrates that Jibril (AS) used to review the Quran with the Prophet ﷺ once every Ramadan, and reviewed it with him twice in the final year of his life. Companions carried it whole in memory. After the battle of Yamamah, when many reciters were killed, Abu Bakr (RA) commissioned Zayd ibn Thabit (RA) to gather the text — an account al-Bukhari preserves in Zayd's own words — and Uthman (RA) later had master copies made and sent to the garrison cities.",
-            "bn": "প্রতিশ্রুতিটি পূরণ হয়েছে সাধারণ উপায়-উপকরণের ভেতর দিয়েই। বুখারী বর্ণনা করেন, জিবরীল (আঃ) প্রতি রমজানে একবার নবী ﷺ-এর সঙ্গে কুরআন দাওর করতেন, আর তাঁর জীবনের শেষ বছরে দাওর করেছিলেন দুবার। সাহাবীরা পুরো কুরআন স্মৃতিতে ধরে রাখতেন। ইয়ামামার যুদ্ধে বহু কারী শহীদ হলে আবু বকর (রাঃ) যায়দ ইবনে সাবিত (রাঃ)-কে কুরআন একত্র করার দায়িত্ব দেন। ঘটনাটি বুখারী সংরক্ষণ করেছেন যায়দের নিজের মুখের বর্ণনায়। পরে উসমান (রাঃ) মূল কপি তৈরি করিয়ে বিভিন্ন সেনানিবাস-শহরে পাঠান।"
+            "en": "At-Tabari gives the guarding its content. Wa inna lahu la-hafizun means: We guard the Qur'an from any falsehood being added to it that is not of it, and from anything being taken from it that is of it, of its rulings, its limits and its obligations. He states that the pronoun in lahu refers back to adh-dhikr, and that the people of interpretation said the like. From Mujahid, through several chains, he records a single word on la-hafizun: 'indana, with Us.",
+            "bn": "হেফাজতের ভেতরে কী আছে, তাবারী তা খুলে বলেন। ওয়া ইন্না লাহু লাহাফিযূন মানে: আমি কুরআনকে রক্ষা করি, যাতে এর অংশ নয় এমন কোনো বাতিল এতে ঢুকে না পড়ে, আর এর অংশ এমন কিছু, এর বিধান, সীমারেখা ও ফরয থেকে কিছুই বাদ না পড়ে। তিনি বলেন, লাহু-র সর্বনামটি ফিরে গেছে যিকরের দিকে, আর তাফসীরবিদেরাও এমনই বলেছেন। মুজাহিদ থেকে কয়েকটি সনদে তিনি লাহাফিযূন সম্পর্কে একটিমাত্র শব্দ বর্ণনা করেন: ইনদানা, আমার কাছে।"
           },
           {
-            "en": "Alongside the written copies runs a chain that no other book possesses: unbroken mass memorisation. In every generation since, children in every land have carried the entire text in their chests, so that manuscripts check reciters and reciters check manuscripts against each other. The promise of 15:9 did not bypass human effort; it recruited human effort, and sustained it on a scale and across a span of centuries that no human institution announced in advance and then delivered.",
-            "bn": "লিখিত কপির পাশাপাশি চলেছে আরেকটি ধারা, যা আর কোনো গ্রন্থের নেই: অগণিত মানুষের মুখস্থ, যা কখনো ছিন্ন হয়নি। সেই থেকে প্রতিটি প্রজন্মে, প্রতিটি দেশে শিশুরা পুরো কুরআন বুকে ধারণ করে এসেছে। ফলে পাণ্ডুলিপি দিয়ে কারীদের যাচাই করা যায়, আবার কারীদের দিয়ে পাণ্ডুলিপি। ১৫:৯ আয়াতের প্রতিশ্রুতি মানুষের চেষ্টাকে পাশ কাটায়নি, বরং মানুষের চেষ্টাকেই কাজে লাগিয়েছে। আর সে চেষ্টাকে টিকিয়ে রেখেছে এত বড় পরিসরে, এত শতাব্দী ধরে, যা কোনো মানবীয় প্রতিষ্ঠান আগে ঘোষণা দিয়ে পরে করে দেখাতে পারেনি।"
+            "en": "At-Tabari also brings Qatadah, who joined this verse to 41:42: falsehood does not come to it from before it or from behind it. Qatadah took al-batil, falsehood, there to mean Iblis. Allah sent the Qur'an down and then guarded it, so that Iblis cannot add a falsehood to it or take a truth away from it. In a second report, through Ma'mar, Qatadah names the Shaytan in the same words. Al-Qurtubi cites Qatadah together with Thabit al-Bunani to the same effect, with the devils in the plural.",
+            "bn": "তাবারী কাতাদার কথাও আনেন। কাতাদা এ আয়াতকে মিলিয়েছেন ৪১:৪২ আয়াতের সঙ্গে: বাতিল এর কাছে আসতে পারে না, সামনে থেকেও না, পেছন থেকেও না। সেখানে বাতিল বলতে কাতাদা বুঝেছেন ইবলীসকে। আল্লাহ কুরআন নাযিল করেছেন, তারপর নিজেই তা রক্ষা করেছেন। ফলে ইবলীস এতে কোনো বাতিল যোগ করতে পারে না, কোনো হকও কমাতে পারে না। মা'মারের সূত্রে আরেক বর্ণনায় কাতাদা একই কথায় শয়তানের নাম নেন। কুরতুবী কাতাদা ও সাবিত বুনানী দুজনের কথা একসঙ্গে উদ্ধৃত করেন, সেখানে শয়তান বহুবচনে।"
+          },
+          {
+            "en": "Al-Baghawi lists three things the devils are kept from: adding to it, taking from it, or altering it. He too cites 41:42 and reads al-batil as Iblis, who has no power to add what is not of it or remove what is of it. Ibn Kathir names change and substitution, at-taghyir wa-t-tabdil. The Muyassar adds a third kind of harm beside addition and subtraction: that any part of it should be lost. Between them the commentators name the ways a text can fail, and in their readings the guarding covers them all.",
+            "bn": "বাগাভী তিনটি বিষয়ের কথা বলেন, যা থেকে শয়তানদের ঠেকিয়ে রাখা হয়েছে: এতে কিছু বাড়ানো, এ থেকে কিছু কমানো, কিংবা এর কিছু বদলে দেওয়া। তিনিও ৪১:৪২ আয়াত উদ্ধৃত করেন এবং বাতিল বলতে ইবলীসকেই বোঝেন। যা এর অংশ নয় তা যোগ করার শক্তি তার নেই, যা এর অংশ তা সরানোর শক্তিও নেই। ইবন কাসীর বলেন পরিবর্তন ও বদলের কথা, আত-তাগয়ীর ওয়াত-তাবদীল। মুয়াসসার বাড়ানো ও কমানোর পাশে তৃতীয় এক ক্ষতির কথা যোগ করে: এর কোনো অংশ হারিয়ে যাওয়া। একটা লেখা যেসব পথে নষ্ট হতে পারে, তাফসীরকারেরা মিলে সেগুলোর নাম নেন। আর তাঁদের ব্যাখ্যায় হেফাজত সবগুলোকেই ঘিরে রাখে।"
           }
         ]
       },
       {
         "h": {
-          "en": "What the Verse Settles",
-          "bn": "আয়াতটি যা মীমাংসা করে"
+          "en": "Guarded Before and After",
+          "bn": "নাযিলের সময়ে, নাযিলের পরে"
         },
         "p": [
           {
-            "en": "For the believer the verse settles a quiet anxiety: the guidance in your hands is what was sent down. Rulings can be studied, promises leaned upon, and stories retold without the fear that the text beneath them has shifted over the centuries. This is also why the surah could tell its Prophet ﷺ — mocked in 15:6 and, near the end in 15:97, described as tightened in chest by what they say — to go on; the message would outlast every mocker.",
-            "bn": "মুমিনের মনে একটা চাপা দুশ্চিন্তা থাকতে পারে, আয়াতটি তার মীমাংসা করে দেয়: আপনার হাতে যে হিদায়াত আছে, ঠিক সেটাই নাজিল হয়েছিল। তাই বিধানগুলো শেখা যায়, প্রতিশ্রুতিগুলোর উপর ভরসা করা যায়, ঘটনাগুলো আবার শোনানো যায়। এই ভয় থাকে না যে শতাব্দীর পর শতাব্দীতে এসবের মূল পাঠ বদলে গেছে। এ কারণেই সূরাটি নবী ﷺ-কে এগিয়ে যেতে বলতে পেরেছে। ১৫:৬ আয়াতে তাঁকে বিদ্রূপ করা হয়েছিল, আর শেষের দিকে ১৫:৯৭ আয়াতে বলা হয়েছে, তাদের কথায় তাঁর বুক সংকুচিত হয়। তবু বাণীটি প্রতিটি বিদ্রূপকারীর চেয়ে বেশি দিন টিকে থাকবে।"
+            "en": "As-Sa'di divides the guarding by time. While it was being sent down, Allah guarded it from the eavesdropping of every accursed devil. After it was sent down, Allah placed it in the heart of His Messenger ﷺ and entrusted it there, and then in the hearts of his community. He guarded its wording from change, from addition and from loss, and its meanings from alteration. No one twists any of its meanings, as-Sa'di writes, without Allah raising up someone who makes the clear truth plain.",
+            "bn": "সা'দী হেফাজতকে ভাগ করেন সময় ধরে। নাযিল হওয়ার সময় আল্লাহ একে রক্ষা করেছেন প্রত্যেক বিতাড়িত শয়তানের আড়ি পাতা থেকে। নাযিলের পরে আল্লাহ একে রেখেছেন তাঁর রাসূল ﷺ-এর অন্তরে, সেখানে আমানত করে দিয়েছেন, তারপর তাঁর উম্মতের অন্তরে। এর শব্দকে তিনি রক্ষা করেছেন পরিবর্তন, সংযোজন আর বিয়োজন থেকে, আর এর অর্থকে রক্ষা করেছেন বিকৃতি থেকে। সা'দী লেখেন, কেউ এর কোনো অর্থ বিকৃত করলেই আল্লাহ এমন কাউকে দাঁড় করিয়ে দেন, যিনি স্পষ্ট হকটা খুলে বলে দেন।"
           },
           {
-            "en": "The trust also carries an edge of responsibility. A preserved Book removes the excuses that earlier communities might plead — that the original was lost, or that the message had been rewritten before it reached them. What reaches us is the Reminder itself, whole. Whether it is remembered inside one particular life — read, understood, obeyed — is the one part of the matter that Allah, who guarded the text, has left in the hands of its reader.",
-            "bn": "এই ভরসার সঙ্গে দায়িত্বের ভারও আছে। কিতাব সংরক্ষিত থাকায় সেই অজুহাতগুলো আর চলে না, যা আগের উম্মতেরা হয়তো দিতে পারত: মূল কিতাব হারিয়ে গেছে, কিংবা বাণীটি তাদের কাছে পৌঁছানোর আগেই নতুন করে লেখা হয়েছে। আমাদের কাছে পৌঁছেছে খোদ সেই উপদেশবাণী, পুরোটা। এখন একটা নির্দিষ্ট জীবনে তা মনে থাকল কি না, অর্থাৎ পড়া হলো কি না, বোঝা হলো কি না, মানা হলো কি না, সেটুকুই বাকি। যে আল্লাহ পাঠটি রক্ষা করেছেন, তিনি গোটা ব্যাপারের শুধু এই অংশটুকু পাঠকের হাতে ছেড়ে দিয়েছেন।"
+            "en": "As-Sa'di counts this among the greatest of Allah's signs and of His favours to His believing servants. He then widens it: part of the Book's guarding is that Allah protects its people from their enemies and does not give an enemy power over them to sweep them away. That is his own extension of the verse, and none of the other fetched commentators makes it. It sits close to, though it is not the same as, the reading that takes lahu to mean the Prophet ﷺ himself, set out below.",
+            "bn": "সা'দীর মতে এটি আল্লাহর সবচেয়ে বড় নিদর্শনগুলোর একটি, আর মুমিন বান্দাদের ওপর তাঁর অন্যতম বড় নিয়ামত। তারপর তিনি কথাটা আরও প্রসারিত করেন। কিতাবের হেফাজতের একটা অংশ হলো, আল্লাহ এর ধারকদের শত্রুর হাত থেকে রক্ষা করেন, এমন কোনো শত্রুকে তাদের ওপর চাপিয়ে দেন না যে তাদের নিশ্চিহ্ন করে দেবে। আয়াতের এই সম্প্রসারণ সা'দীর নিজের। যেসব তাফসীর দেখা হয়েছে, তার আর কেউ এ কথা বলেননি। কথাটা সেই পাঠের কাছাকাছি, যেখানে লাহু বলতে স্বয়ং নবী ﷺ-কে বোঝানো হয়েছে, তবে দুটো এক নয়। সে পাঠ আসছে নিচে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an presses the point about meanings further. It argues that the Qur'an is the name neither of its words alone nor of its meanings alone, but of both together, so the promise covers both. The meanings, it continues, are what the Prophet ﷺ was sent to explain, citing 16:44, that you may make clear to people what was sent down to them, and 3:164, he teaches them the Book and the Wisdom. From this Ma'arif concludes that the promise also takes in the Hadith, his words and deeds that explain the Qur'an.",
+            "bn": "অর্থের প্রসঙ্গটা মাআরিফুল কুরআন আরও এগিয়ে নেয়। তার যুক্তি, কুরআন শুধু শব্দের নাম নয়, শুধু অর্থেরও নাম নয়, দুটো মিলিয়েই কুরআন। তাই প্রতিশ্রুতি দুটোকেই ঘিরে আছে। মাআরিফ আরও বলে, এই অর্থ বুঝিয়ে দিতেই নবী ﷺ প্রেরিত হয়েছিলেন। প্রমাণ হিসেবে আনে ১৬:৪৪ আয়াত, যাতে আপনি মানুষকে স্পষ্ট করে বোঝান তাদের প্রতি কী নাযিল হয়েছে, আর ৩:১৬৪ আয়াত, তিনি তাদের কিতাব ও হিকমত শিক্ষা দেন। এখান থেকে মাআরিফ সিদ্ধান্তে আসে যে প্রতিশ্রুতির মধ্যে হাদীসও পড়ে, অর্থাৎ কুরআনের ব্যাখ্যা হিসেবে আসা তাঁর কথা ও কাজ।"
           }
         ]
       },
       {
         "h": {
-          "en": "Joining the Means",
-          "bn": "হেফাজতের কাজে শরিক হওয়া"
+          "en": "Its Guardian, or His",
+          "bn": "কিতাবের রক্ষক, না নবীর"
         },
         "p": [
           {
-            "en": "The lived response to this verse is participation. Memorise — a page, a surah, a juz — and you become one link in the promise's ongoing fulfilment; teach a child al-Fatihah and you have extended the chain by a generation. Recitation in prayer, revision in the morning, listening on the road: these are the small mechanics by which a divine guarantee has moved through fourteen centuries of otherwise ordinary people, and they remain open to anyone who wants a share in them.",
-            "bn": "এ আয়াতের বাস্তব জবাব হলো নিজেও এতে শরিক হওয়া। একটি পৃষ্ঠা, একটি সূরা বা এক পারা মুখস্থ করুন, আপনিও এই প্রতিশ্রুতি পূরণের চলমান শিকলের একটি কড়া হয়ে যাবেন। কোনো শিশুকে সূরা ফাতিহা শেখান, শিকলটা আরও এক প্রজন্ম লম্বা হলো। নামাজে তিলাওয়াত, সকালে পড়া ঝালিয়ে নেওয়া, পথে চলতে চলতে শোনা: এমন ছোট ছোট কাজের ভেতর দিয়েই আল্লাহর দেওয়া নিশ্চয়তা চৌদ্দ শতাব্দী ধরে একেবারে সাধারণ মানুষের হাত ঘুরে এসেছে। যে-ই এতে অংশ নিতে চায়, তার জন্য এ পথ আজও খোলা।"
+            "en": "The pronoun in lahu can point to different things, and the commentators record two readings. The first takes it as adh-dhikr, the Qur'an. At-Tabari states this as his own explanation and adds that the people of interpretation said the like. Al-Qurtubi, al-Baghawi, the Muyassar and as-Sa'di all explain the guarding as a guarding of the Qur'an. Ibn Kathir does the same and then weighs the alternative: he calls this first meaning more fitting, awla, since it is what the context plainly shows.",
+            "bn": "লাহু শব্দের সর্বনামটি একাধিক দিকে ইঙ্গিত করতে পারে, আর তাফসীরকারেরা দুটি পাঠ উল্লেখ করেছেন। প্রথম পাঠে এর অর্থ যিকর, মানে কুরআন। তাবারী এটাকে নিজের ব্যাখ্যা হিসেবেই বলেন এবং যোগ করেন যে তাফসীরবিদেরাও এমন বলেছেন। কুরতুবী, বাগাভী, মুয়াসসার ও সা'দী সবাই হেফাজতকে বুঝিয়েছেন কুরআনের হেফাজত হিসেবে। ইবন কাসীরও তা-ই করেন, তারপর অন্য মতটির সঙ্গে তুলনা করেন। তাঁর বিচারে প্রথম অর্থটিই বেশি সংগত, আওলা, কারণ প্রসঙ্গ থেকে সেটাই স্পষ্ট হয়।"
           },
           {
-            "en": "And let the preserved Book be treated as preserved: quoted carefully, translated honestly, checked against itself before being argued over. The verse is a particular comfort in an age anxious about information — records edited silently, histories rewritten, words put into mouths. One text, at least, sits under a guardianship that no archive and no algorithm can offer, and the heart that carries it carries something that time has been forbidden to take away.",
-            "bn": "আর সংরক্ষিত কিতাবের সঙ্গে আচরণও হোক সংরক্ষিত কিতাবের মতো। উদ্ধৃতি দিন সাবধানে, অনুবাদ করুন সততার সঙ্গে, আর তর্কে নামার আগে কুরআনের এক জায়গা আরেক জায়গার সঙ্গে মিলিয়ে দেখুন। তথ্য নিয়ে দুশ্চিন্তার এই যুগে আয়াতটি এক বিশেষ সান্ত্বনা। আজ নথি চুপিসারে বদলে ফেলা হয়, ইতিহাস নতুন করে লেখা হয়, মানুষের মুখে এমন কথা বসানো হয় যা সে বলেনি। অন্তত একটি গ্রন্থ এমন হেফাজতে আছে, যা কোনো মহাফেজখানা বা কোনো অ্যালগরিদম দিতে পারে না। যে হৃদয় তা ধারণ করে, সে এমন সম্পদ বহন করে, যা কেড়ে নেওয়ার অনুমতি সময়কে দেওয়া হয়নি।"
+            "en": "The second reading takes lahu as the Prophet ﷺ. None of the fetched commentators names who held it: at-Tabari, al-Baghawi and al-Qurtubi introduce it with qila, it has been said, and Ibn Kathir with among them are some. At-Tabari and al-Baghawi give its sense: We are guarding Muhammad from whoever of his enemies intends him harm. Al-Qurtubi gives it as guarding him from being plotted against or killed. Ibn Kathir, al-Baghawi and al-Qurtubi each set it beside 5:67: and Allah will protect you from the people. Both readings stand in the books, and this article does not choose between them.",
+            "bn": "দ্বিতীয় পাঠে লাহু বলতে নবী ﷺ-কে বোঝানো হয়েছে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই বলেনি এ মত কার। তাবারী, বাগাভী ও কুরতুবী একে আনেন কীলা দিয়ে, অর্থাৎ বলা হয়েছে। ইবন কাসীর বলেন, তাঁদের কেউ কেউ এমন বলেছেন। তাবারী ও বাগাভী এর অর্থ দেন এভাবে: শত্রুদের মধ্যে যে-ই মুহাম্মাদের ক্ষতি করতে চায়, তার হাত থেকে আমি তাঁকে রক্ষা করছি। কুরতুবীর ভাষায়, ষড়যন্ত্র বা হত্যা থেকে তাঁকে রক্ষা করা। ইবন কাসীর, বাগাভী ও কুরতুবী প্রত্যেকে এর পাশে রাখেন ৫:৬৭ আয়াত: আর আল্লাহ আপনাকে মানুষ থেকে রক্ষা করবেন। দুটি পাঠই তাফসীরের গ্রন্থে আছে, আর এ লেখা কোনোটির পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Ways of Guarding",
+          "bn": "হেফাজতের দুই ধরন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets this verse beside another. After the words of Qatadah and Thabit, his passage continues: Allah took the guarding of the Qur'an upon Himself, and so it has remained guarded; of other scripture He said bima istuhfizu, and so He left its guarding to them, and they altered and changed. The phrase comes from 5:44, which speaks of the Torah: the prophets who submitted judged by it, and so did the rabbis and the scholars, bima istuhfizu min kitab Allah, by what they were entrusted to guard of the Book of Allah, and they were witnesses over it.",
+            "bn": "কুরতুবী এ আয়াতকে আরেকটি আয়াতের পাশে রাখেন। কাতাদা ও সাবিতের কথার পর তাঁর আলোচনা এগোয় এভাবে: কুরআনের হেফাজতের ভার আল্লাহ নিজে নিয়েছেন, তাই তা বরাবর সুরক্ষিত থেকেছে। অন্য কিতাব সম্পর্কে তিনি বলেছেন বিমাসতুহফিযূ, অর্থাৎ তার হেফাজতের ভার দিয়েছেন তাদের হাতে, আর তারা বদলেছে, পাল্টেছে। কথাটা এসেছে ৫:৪৪ আয়াত থেকে, যেখানে তাওরাতের কথা। আত্মসমর্পণকারী নবীরা তা দিয়ে ফয়সালা করতেন, রাব্বানী ও আহবার তথা আলেমরাও করতেন, বিমাসতুহফিযূ মিন কিতাবিল্লাহ: আল্লাহর কিতাবের যে অংশ রক্ষার দায়িত্ব তাঁদের দেওয়া হয়েছিল, তার ভিত্তিতে। আর তাঁরা ছিলেন এর সাক্ষী।"
+          },
+          {
+            "en": "The contrast is the commentators' reading of two verses side by side: in one the guarding is placed upon those entrusted with a Book, in the other Allah names Himself as the guardian. Ma'arif al-Qur'an draws the same contrast through the report in the next section. It is a reading of what two verses say, and it licenses nothing against any living person or community. No one alive today is the subject of either verse, and neither verse gives anyone warrant to treat a person of another faith with less than justice.",
+            "bn": "তুলনাটা তাফসীরকারদের, দুটি আয়াত পাশাপাশি রেখে পড়া। এক আয়াতে হেফাজতের দায় রাখা হয়েছে যাদের হাতে কিতাব সঁপে দেওয়া হয়েছিল তাদের ওপর, অন্য আয়াতে আল্লাহ নিজেকেই রক্ষক বলে ঘোষণা করেছেন। পরের অংশের ঘটনাটি দিয়ে মাআরিফুল কুরআনও একই তুলনা টানে। এটা দুটি আয়াতের বক্তব্যের পাঠ মাত্র। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজ যারা বেঁচে আছে তারা কেউ এ দুই আয়াতের বিষয় নয়। অন্য ধর্মের কারও সঙ্গে ইনসাফের কম আচরণ করার অধিকারও এ দুই আয়াতের কোনোটি কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Scribe at al-Ma'mun's Gathering",
+          "bn": "মামুনের মজলিসের লিপিকার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives a report with its chain, through al-Husayn ibn Fahm, from Yahya ibn Aktham. Al-Ma'mun, then still an amir, held a gathering for debate. A well-dressed Jewish man spoke in it with fine eloquence. Afterwards al-Ma'mun called him, asked whether he was an Israelite, and invited him to Islam with promises of favour. The man answered, my religion and the religion of my fathers, and left. A year later he came back as a Muslim and spoke on fiqh, again very well.",
+            "bn": "কুরতুবী সনদসহ একটি ঘটনা বর্ণনা করেন, হুসাইন ইবন ফাহমের সূত্রে, ইয়াহইয়া ইবন আকসাম থেকে। মামুন তখনো আমীর, তাঁর একটি বিতর্কের মজলিস বসত। সেখানে সুন্দর পোশাকের এক ইহুদি লোক এসে খুব চমৎকার কথা বলল। মজলিস শেষে মামুন তাকে ডেকে জিজ্ঞেস করলেন, সে ইসরাঈলী কি না, তারপর নানা অনুগ্রহের প্রতিশ্রুতি দিয়ে ইসলামের দাওয়াত দিলেন। লোকটি বলল, আমার দীন আর আমার বাপদাদার দীন। তারপর চলে গেল। এক বছর পর সে মুসলিম হয়ে ফিরে এল, এবার ফিকহ নিয়ে কথা বলল, আবারও খুব ভালো বলল।"
+          },
+          {
+            "en": "Asked what had brought him to Islam, he said he had wanted to test the religions, and he wrote a fine hand. He made three copies of the Torah, adding and omitting, and took them to the synagogue, where they were bought from him. He did the same with three copies of the Gospel at the church, and they too were bought. He made three copies of the Qur'an with additions and omissions and took them to the copyists. They leafed through them, found the additions and omissions, threw them aside and would not buy. So I knew, he said, that this is a guarded Book.",
+            "bn": "ইসলাম গ্রহণের কারণ জানতে চাইলে সে বলল, সে ধর্মগুলোকে পরীক্ষা করে দেখতে চেয়েছিল, আর তার হাতের লেখা ছিল সুন্দর। তাওরাতের তিনটি কপি সে লিখল, কিছু বাড়িয়ে আর কিছু কমিয়ে, তারপর নিয়ে গেল ইহুদিদের উপাসনালয়ে। সেখানে কপিগুলো বিক্রি হয়ে গেল। ইনজীলের তিনটি কপি নিয়েও একই কাজ করল গির্জায়, সেগুলোও বিক্রি হলো। এরপর কুরআনের তিনটি কপি বানাল, তাতেও কিছু যোগ আর কিছু বাদ দিয়ে, নিয়ে গেল লিপিকার ও বই-বিক্রেতাদের কাছে। তারা পাতা উল্টে দেখল, বাড়তি আর ঘাটতি ধরে ফেলল, ছুড়ে ফেলে দিল, কিনল না। সে বলল, তখনই বুঝলাম, এ এক সুরক্ষিত কিতাব।"
+          },
+          {
+            "en": "Yahya ibn Aktham says he went on Hajj that year, met Sufyan ibn 'Uyaynah and told him the story. Sufyan said its confirmation is in the Book of Allah: of the Torah and the Gospel Allah said bima istuhfizu, so He placed their guarding with them and it was lost, and He said, indeed it is We who sent down the Reminder, so Allah guarded it for us and it was not lost. Ma'arif al-Qur'an retells the report. It describes what one man said he did, and licenses nothing against any living person or community.",
+            "bn": "ইয়াহইয়া ইবন আকসাম বলেন, সে বছর তিনি হজে গেলেন, সুফিয়ান ইবন উয়াইনার সঙ্গে দেখা হলো, আর ঘটনাটা তাঁকে শোনালেন। সুফিয়ান বললেন, এর সত্যতার প্রমাণ আল্লাহর কিতাবেই আছে। তাওরাত ও ইনজীল সম্পর্কে আল্লাহ বলেছেন বিমাসতুহফিযূ, অর্থাৎ সেগুলোর হেফাজতের ভার তাদের হাতে দিয়েছিলেন, ফলে তা হারিয়ে গেল। আর কুরআন সম্পর্কে বলেছেন, নিশ্চয় আমিই যিকর নাযিল করেছি, তাই আল্লাহ আমাদের জন্য তা রক্ষা করেছেন, তা হারায়নি। মাআরিফুল কুরআনও ঘটনাটি নতুন করে বলেছে। এটি একজন মানুষের নিজের মুখে বলা কাজের বিবরণ। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carried in Living Memory",
+          "bn": "জীবন্ত স্মৃতিতে বহন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an points to how the guarding shows itself now. More than fourteen centuries after the blessed age of the Prophet ﷺ, and though Muslims have fallen short in many parts of their religion, the memorising of the Qur'an continues across the world as it was. In every period, it says, millions of Muslims, old and young, men and women, carry it in their hearts, and not even the most senior scholar could misread a single letter before them without someone, an elder or a child, catching the slip at once.",
+            "bn": "হেফাজত আজ কীভাবে চোখে পড়ে, মাআরিফুল কুরআন সেদিকে ইঙ্গিত করে। নবী ﷺ-এর বরকতময় যুগের পর চৌদ্দশো বছরের বেশি কেটে গেছে। দীনের বহু ক্ষেত্রে মুসলমানদের ত্রুটি আর অবহেলা ঘটেছে, তবু কুরআন মুখস্থ করার ধারা পৃথিবী জুড়ে আগের মতোই চলছে। মাআরিফ বলে, প্রতিটি যুগে লাখ লাখ মুসলমান, বুড়ো ও শিশু, পুরুষ ও নারী, একে অন্তরে ধারণ করে রাখে। তাদের সামনে সবচেয়ে বড় আলেমও একটি হরফ ভুল পড়লে কেউ না কেউ, কোনো মুরুব্বি বা কোনো শিশু, সঙ্গে সঙ্গে ভুলটা ধরে ফেলবে।"
+          },
+          {
+            "en": "None of the fetched commentators on this verse attaches a hadith to it, so this article quotes none. The surah moves on at once: in 15:10 and 15:11 Allah tells the Prophet ﷺ that messengers were sent before him among the earlier peoples, and that none came to them without being mocked. For the reader, the promise answers a quiet doubt. What is recited in prayer is what was sent down, and as-Sa'di names what is left to each of us: in it, whoever wishes to take heed takes heed.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, তাই এ লেখাও কোনো হাদীস উদ্ধৃত করছে না। সূরাটি সঙ্গে সঙ্গেই সামনে এগোয়। ১৫:১০ ও ১৫:১১ আয়াতে আল্লাহ নবী ﷺ-কে জানান, তাঁর আগেও পূর্ববর্তী জাতিগুলোর মধ্যে রাসূল পাঠানো হয়েছিল, আর এমন কোনো রাসূল আসেননি যাঁকে তারা ঠাট্টা করেনি। পাঠকের মনে যে চাপা সংশয় থাকতে পারে, এই প্রতিশ্রুতি তার জবাব দেয়। নামাযে যা তিলাওয়াত হয়, তা-ই নাযিল হয়েছিল। আর আমাদের প্রত্যেকের কাজ কী, সা'দী তা বলে দেন: যে উপদেশ নিতে চায়, সে এতেই উপদেশ নেয়।"
           }
         ]
       }
