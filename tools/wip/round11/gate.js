@@ -45,7 +45,8 @@ if (art) {
   for (const k in all) if (k !== key) all[k].sections.forEach(s => { seenEn.set(norm(s.h.en), k); seenBn.set(s.h.bn.trim(), k); });
   for (const f of fs.readdirSync(__dirname)) if (f.endsWith('-articles.js') && f !== base + '-articles.js') { try { const o = load(path.join(__dirname, f)); for (const k in o) o[k].sections.forEach(s => { seenEn.set(norm(s.h.en), f); seenBn.set(s.h.bn.trim(), f); }); } catch (e) { } }
   const txt = path.join(__dirname, 'shipped-headings.txt');
-  if (fs.existsSync(txt)) for (const l of fs.readFileSync(txt, 'utf8').split('\n')) if (l.trim() && !seenEn.has(norm(l))) seenEn.set(norm(l), 'shipped-headings.txt');
+  const own = new Set(((all[key] || {}).sections || []).map(s => norm(s.h.en))); // depth pass: the key's own old headings may be reused
+  if (fs.existsSync(txt)) for (const l of fs.readFileSync(txt, 'utf8').split('\n')) if (l.trim() && !own.has(norm(l)) && !seenEn.has(norm(l))) seenEn.set(norm(l), 'shipped-headings.txt');
   const mine = new Set(); const hp = [];
   for (const s of art.sections) {
     const we = words(s.h.en), wb = words(s.h.bn);
