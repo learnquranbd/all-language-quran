@@ -8,6 +8,7 @@ KEY="$1"; PHRASE="$2"; [ -z "$PHRASE" ] && { echo 'usage: commit.sh <key> "<titl
 B="${KEY/:/_}"; A=tools/wip/round11/audit/$B
 V=$(grep -o 'lq-v[0-9]*' sw.js | head -1 | grep -o '[0-9]*')
 [ -f $A/COMMIT.md ] && [ -f $A/BROWSER.txt ] || { echo "missing $A/COMMIT.md or BROWSER.txt (run ship.sh first)"; exit 1; }
+grep -q "no console errors" $A/BROWSER.txt || { echo "BROWSER CHECK FAILED in $A/BROWSER.txt: re-run tools/wip/round11/browser.sh $KEY (Apache down? QA_BASE=http://127.0.0.1:8099)"; exit 1; }
 { echo "v$V: Tadabbur $KEY — $PHRASE"; echo; cat $A/COMMIT.md; echo; cat $A/BROWSER.txt; } > /tmp/lq-commit-msg
 git add -A -- js index.html sw.js
 git commit -q -F /tmp/lq-commit-msg

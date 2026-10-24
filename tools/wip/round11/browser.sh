@@ -3,6 +3,11 @@
 # usage: tools/wip/round11/browser.sh 2:2   (Apache down? QA_BASE=http://127.0.0.1:8099, see memory qa-harness-without-apache)
 cd "$(dirname "$0")/../../.."
 KEY="$1"; B="${KEY/:/_}"; W=tools/wip/round11
+# Apache down? fall back to a python server on 8099 (memory qa-harness-without-apache)
+if [ -z "$QA_BASE" ] && ! curl -s -o /dev/null --max-time 3 http://localhost/learnquranbd/all-language-quran/; then
+  curl -s -o /dev/null --max-time 2 http://127.0.0.1:8099/ || (cd /var/www/html && (python3 -m http.server 8099 --bind 127.0.0.1 >/dev/null 2>&1 &) ; sleep 1)
+  export QA_BASE=http://127.0.0.1:8099
+fi
 Q='[{"lang":"bn"},{"eval":"LQ.Modules.load(\"tadabbur\").then(()=>\"loaded\")","waitMs":3000},{"eval":"(async()=>{await LQArticle.load(\"tadabbur\",\"K\");const h=LQArticle.html(\"tadabbur\",\"K\",{lc:x=>(x&&(x.bn||x.en))||\"\"});const d=document.createElement(\"div\");d.innerHTML=h;const t=d.textContent.trim();return {sections:LQArticle.get(\"tadabbur\",\"K\").sections.length,words:t.split(/\\s+/).length,bengali:(t.match(/[\\u0980-\\u09FF]/g)||[]).length};})()"}]'
 QA=$(node qa/run.js "${Q//K/$KEY}" 2>&1 | grep -E '"result"|"errors"|consoleErrors|fetchFails' | tail -4 || true); echo "$QA"
 mkdir -p $W/audit/$B; node -e '
