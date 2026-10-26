@@ -20,12 +20,12 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Surah az-Zalzalah has eight verses, and these are the final two. Everything before them is on the scale of a planet. The earth is shaken with its own convulsion in 99:1, throws out its burdens in 99:2, and in 99:3 man asks what is wrong with it. Then the ground itself gives testimony, because its Lord inspired it to, in 99:4 and 99:5, and in 99:6 people come out in separate groups to be shown their deeds.",
-            "bn": "সূরা আয-যালযালাহর আয়াত আটটি, আর এ দুটি তার শেষ দুই আয়াত। এর আগের সবকিছুই গোটা পৃথিবীর মাপে বলা। ৯৯:১ আয়াতে যমীন নিজের প্রচণ্ড কম্পনে কেঁপে ওঠে, ৯৯:২ আয়াতে ভেতরের বোঝা বের করে দেয়, আর ৯৯:৩ আয়াতে মানুষ জিজ্ঞেস করে, এর কী হলো? তারপর ৯৯:৪ ও ৯৯:৫ আয়াতে যমীন নিজেই সাক্ষ্য দেয়, কারণ তার রব তাকে সেই আদেশ দিয়েছেন। আর ৯৯:৬ আয়াতে মানুষ আলাদা আলাদা দলে বের হয়ে আসে, যাতে তাদের আমল তাদের দেখানো হয়।"
+            "en": "Surah az-Zalzalah spends its opening verses on the earth itself. It is shaken with its final quake, throws out its burdens, and reports its news because its Lord has inspired it. Then 99:6 turns to people: on that Day they come out in scattered groups, li-yuraw a'malahum, to be shown their deeds. Ibn Kathir explains ashtat as separate kinds, the wretched and the happy, those sent to Paradise and those sent to the Fire, and the showing as recompense for the good and evil they did.",
+            "bn": "সূরা আয-যালযালাহ শুরুর আয়াতগুলো খরচ করে পৃথিবীকে নিয়ে। সে শেষ কম্পনে কেঁপে ওঠে, ভেতরের বোঝা বের করে দেয়, আর রবের আদেশ পেয়ে নিজের বৃত্তান্ত বলে। তারপর ৯৯:৬ আয়াত ফেরে মানুষের দিকে: সেদিন তারা ভিন্ন ভিন্ন দলে বেরিয়ে আসবে, লিইউরাও আ'মালাহুম, যাতে তাদের আমল তাদের দেখানো হয়। ইবন কাসীর আশতাত শব্দের ব্যাখ্যা দেন আলাদা আলাদা শ্রেণি হিসেবে: হতভাগা আর সৌভাগ্যবান, জান্নাতের দিকে পাঠানো আর জাহান্নামের দিকে পাঠানো। আর দেখানো মানে, তাঁর ভাষায়, ভালো-মন্দ যা করেছে তার প্রতিদান পাওয়া।"
           },
           {
-            "en": "Having widened the lens as far as it will go, the surah closes by narrowing it to a speck. The last two verses do not describe the Day at all. They describe you, standing in it, holding something almost too small to name. That is the whole design: a cosmic disturbance is set up, and then it is spent on the smallest unit of a human life.",
-            "bn": "দৃষ্টি যতদূর যায় ততদূর মেলে ধরার পর সূরাটি শেষে তা গুটিয়ে আনে একটি বিন্দুতে। শেষ দুই আয়াতে সেই দিনের কোনো বর্ণনাই নেই। আছেন আপনি: সেই দিনে দাঁড়িয়ে, হাতে এমন কিছু নিয়ে, যা এত ছোট যে নাম দেওয়াও কঠিন। পুরো গঠনটাই এমন: সূরা প্রথমে মহাজাগতিক এক আলোড়নের মঞ্চ সাজায়, তারপর সবটুকু ঢেলে দেয় মানুষের জীবনের সবচেয়ে ছোট এককটির ওপর।"
+            "en": "Ibn Kathir then says: therefore Allah goes on to say, fa-man ya'mal. The fa ties the last two verses to the showing. At-Tabari notices something in the tense. The verb ya'mal looks forward, whoever does, yet on that Day the deeds are already past. He explains that the meaning is whoever did, as 99:6 makes clear, and the future form was kept because it urges the people of this world to work in obedience to Allah and holds them back from disobeying Him.",
+            "bn": "এরপর ইবন কাসীর বলেন, এ কারণেই আল্লাহ বলে চলেন: ফামাই ইয়া'মাল। ফা অক্ষরটি শেষ দুই আয়াতকে সেই দেখানোর সঙ্গে বেঁধে দেয়। তাবারী ক্রিয়ার কালের দিকে নজর দেন। ইয়া'মাল শব্দটা সামনের দিকে তাকায়, অর্থাৎ যে করবে। অথচ সেদিন সব আমল তো অতীত হয়ে গেছে। তাঁর ব্যাখ্যা: অর্থ আসলে যে করেছে, ৯৯:৬ আয়াতই তা পরিষ্কার করে দেয়। ভবিষ্যৎ কালের রূপটা রাখা হয়েছে, কারণ এতে দুনিয়ার মানুষকে আল্লাহর আনুগত্যে আমল করার তাগিদ আছে, আর তাঁর নাফরমানি থেকে বিরত রাখার ধমকও আছে।"
           }
         ]
       },
@@ -36,56 +36,128 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Mithqal means a weight — it comes from the root of heaviness, and it belongs to the imagery of the scales. The disputed word is dharrah. The early authorities explain it in more than one way, and it is honest to give the range rather than settle it: the smallest kind of ant; the mote of dust that floats visibly in a shaft of sunlight coming through a window; the specks that cling to a palm pressed against the ground and lifted.",
-            "bn": "মিছক্বাল মানে ওজন। শব্দটি এসেছে ভারী হওয়ার ধাতু থেকে, আর দাঁড়িপাল্লার ছবির সঙ্গেই এর সম্পর্ক। মতভেদ যাররাহ শব্দটি নিয়ে। প্রথম যুগের আলিমরা একে একাধিকভাবে ব্যাখ্যা করেছেন, আর একটি মত বেছে না নিয়ে সবগুলো তুলে ধরাই সততা: সবচেয়ে ছোট জাতের পিঁপড়া; জানালা দিয়ে আসা রোদের রেখায় যে ধূলিকণা ভাসতে দেখা যায়; কিংবা মাটিতে হাতের তালু চেপে তুলে নিলে তালুতে যে কণাগুলো লেগে থাকে।"
+            "en": "Mithqal is a weight, and the word that carries the verse is dharrah. The commentators gloss it with the smallest things they could name. Al-Muyassar says the weight of a small ant. Al-Baghawi sharpens it: a small ant, the smallest there is of ants. Sa'id ibn Jubayr, in a report Ibn Kathir carries, says the weight of the smallest ant. At-Tabari gives Ibn Abbas (RA), through 'Ikrimah, as saying a red ant, or in another narrator's wording a red dharrah.",
+            "bn": "মিসকাল মানে ওজন, আর আয়াতের ভার বহন করছে যাররাহ শব্দটি। তাফসীরকারেরা এর ব্যাখ্যায় এমন সব জিনিসের নাম নেন, যার চেয়ে ছোট কিছু তাঁরা ভাবতে পারেননি। মুয়াসসার বলে, ছোট একটি পিঁপড়ার ওজন। বাগাভী আরও নির্দিষ্ট করেন: ছোট পিঁপড়া, পিঁপড়াদের মধ্যে যত ছোট হতে পারে। ইবন কাসীরের আনা এক বর্ণনায় সাঈদ ইবন জুবাইর বলেন, সবচেয়ে ছোট পিঁপড়ার ওজন। তাবারী ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: লাল পিঁপড়া। আরেক বর্ণনাকারীর ভাষায়, লাল যাররাহ।"
           },
           {
-            "en": "The app renders the phrase as an atom's weight, reaching for the smallest thing a modern reader can picture, as the classical explanations reached for the smallest thing an Arab listener could see. Neither is a unit of measurement, and the verse is not offering one. What the word does is mark the lower edge of noticing — below the level at which a human being would bother to record anything.",
-            "bn": "অ্যাপের অনুবাদে শব্দবন্ধটি হয়েছে 'অণু পরিমাণ'। আধুনিক পাঠক যত ছোট জিনিস কল্পনা করতে পারেন, অনুবাদ সেটাই বেছে নিয়েছে; ঠিক যেমন পুরোনো ব্যাখ্যাগুলো বেছে নিয়েছিল আরব শ্রোতার চোখে দেখা সবচেয়ে ছোট জিনিসটি। কোনোটিই মাপের একক নয়, আর আয়াতও কোনো একক দিচ্ছে না। শব্দটি আসলে চোখে পড়ার নিচের সীমাটা দেখিয়ে দেয়: এর চেয়ে ছোট কিছু হলে মানুষ তা লিখে রাখার কথা ভাবতই না।"
+            "en": "Other glosses push the thing below the scale altogether. At-Tabari records that it is said the dharrah is a small red worm with no weight, and that Yazid ibn Harun remarked that people claimed it weighs nothing. Al-Qurtubi cites a report that the dharrah has no weight, and calls the phrase a parable: Allah overlooks nothing a human being does, small or great, as in 4:40, where He wrongs no one by a dharrah's weight. He adds a lexical gloss, which he also reports from Ibn Abbas (RA): each grain of dust that clings to a hand struck on the ground.",
+            "bn": "কিছু ব্যাখ্যা জিনিসটাকে দাঁড়িপাল্লার নিচেই নামিয়ে দেয়। তাবারী লেখেন, বলা হয় যাররাহ হলো ছোট্ট এক লাল পোকা, যার কোনো ওজন নেই। ইয়াযীদ ইবন হারূন বলেছেন, লোকেরা মনে করত এর কোনো ওজনই নেই। কুরতুবী একটি বর্ণনা আনেন যে যাররার কোনো ওজন নেই। তাঁর মতে কথাটা এক উপমা: আদমসন্তানের ছোট-বড় কোনো আমলই আল্লাহ উপেক্ষা করেন না। যেমন ৪:৪০ আয়াতে তিনি বলেন, কারও প্রতি এক যাররাহ পরিমাণও জুলুম করেন না। ভাষাবিদদের একটি ব্যাখ্যাও কুরতুবী দেন, যা তিনি ইবন আব্বাস (রাঃ) থেকেও উল্লেখ করেন: মাটিতে হাত চাপড়ে তুললে যে ধুলো লেগে থাকে, তার প্রতিটি কণা একেকটি যাররাহ।"
           }
         ]
       },
       {
         "h": {
-          "en": "He Will See It",
-          "bn": "সে তা দেখবে"
+          "en": "A Verse Without Exceptions",
+          "bn": "ব্যতিক্রমহীন এক আয়াত"
         },
         "p": [
           {
-            "en": "The verb is yarah: he will see it. Not he will be told about it, not it will be counted against him — he will see it. And the two verses are identical in every part except one word, khayran and sharran, good and evil. Same weight, same verb, same certainty, in the same grammar. The symmetry is the argument: the scales do not use a coarser measure for the small kindness than for the small wrong.",
-            "bn": "ক্রিয়াটি হলো ইয়ারাহ: সে তা দেখবে। তাকে জানানো হবে বা তার বিরুদ্ধে গোনা হবে, এমন নয়; সে তা দেখবে। আর দুই আয়াত হুবহু এক, শুধু একটি শব্দ ছাড়া: খাইরান আর শাররান, ভালো আর মন্দ। একই ওজন, একই ক্রিয়া, একই নিশ্চয়তা, একই ব্যাকরণ। এই মিলটাই আসল যুক্তি: ছোট্ট একটি ভালো ব্যবহার মাপতে দাঁড়িপাল্লা ছোট্ট একটি অন্যায়ের চেয়ে মোটা মাপকাঠি নেয় না।"
+            "en": "As-Sa'di calls the pair inclusive and general, covering all good and all evil. If a person sees the dharrah, the most insignificant of things, and is recompensed for it, then whatever lies above it is all the more certain. The two verses match word for word except khayran and sharran, good and evil, so the same weight and the same certainty apply on both sides. He finds in them the utmost encouragement to do good, however little, and the utmost warning against evil, however slight.",
+            "bn": "সা'দী এই আয়াত দুটিকে বলেন ব্যাপক ও সাধারণ, সব ভালো আর সব মন্দ এর আওতায়। যাররাহ সবচেয়ে নগণ্য জিনিস। মানুষ যদি তা-ও দেখতে পায় এবং তার প্রতিদান পায়, তাহলে এর চেয়ে বড় যা কিছু, তা তো আরও নিশ্চিতভাবে দেখবে। দুই আয়াত হুবহু এক, শুধু খাইরান আর শাররান আলাদা, মানে ভালো আর মন্দ। তাই দুই দিকেই একই ওজন, একই নিশ্চয়তা। সা'দী এখানে দেখেন ভালো কাজের প্রতি চূড়ান্ত উৎসাহ, তা যত অল্পই হোক। আর মন্দ কাজ থেকে চূড়ান্ত সতর্কবাণী, তা যত তুচ্ছই হোক।"
+          },
+          {
+            "en": "Al-Qurtubi reports Ibn Mas'ud (RA) calling this the most decisive verse in the Qur'an, and adds his own verdict: he spoke the truth. The scholars, he says, agree that the verse is general, both those who hold that general wording is taken as general and those who do not. At-Tabari records a quieter reaction. Al-Harith ibn Suwayd recited the surah through to its last verse and said: this is a severe reckoning.",
+            "bn": "কুরতুবী ইবন মাসউদ (রাঃ)-এর কথা আনেন: কুরআনের সবচেয়ে সুদৃঢ় আয়াত এটি। তারপর নিজের মন্তব্য জুড়ে দেন: তিনি সত্য বলেছেন। তাঁর ভাষ্যে, আলিমরা একমত যে এ আয়াত সাধারণ অর্থে প্রযোজ্য। যাঁরা সাধারণ শব্দকে সাধারণ অর্থে নেন, আর যাঁরা নেন না, দুই দলই এখানে এক কথা বলেন। তাবারী আরও নীরব এক প্রতিক্রিয়ার কথা লিখেছেন। হারিস ইবন সুওয়াইদ সূরাটি শেষ আয়াত পর্যন্ত পড়লেন, তারপর বললেন: এ তো কঠিন হিসাব।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Comprehensive Verse",
-          "bn": "সর্বব্যাপী আয়াত"
+          "en": "What Exactly Is Seen",
+          "bn": "ঠিক কী দেখা যাবে"
         },
         "p": [
           {
-            "en": "Al-Bukhari narrates from Abu Hurayrah (RA) that the Prophet ﷺ was asked about donkeys, and answered that nothing had been revealed to him concerning them except this single all-embracing verse, and he recited it. The report is worth holding onto because of what prompted it. A narrow question about one kind of property was answered by a principle that covers every act of every person, which is what the phrase all-embracing is doing.",
-            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ-কে গাধা সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, এ বিষয়ে তাঁর প্রতি এই একটি সর্বব্যাপী আয়াত ছাড়া আর কিছু নাজিল হয়নি। তারপর তিনি আয়াতটি তিলাওয়াত করেন। বর্ণনাটি মনে রাখার মতো, প্রশ্নটা কোথা থেকে এসেছিল সে কারণেই। এক ধরনের সম্পদ নিয়ে সীমিত একটি প্রশ্ন, আর তার জবাবে এল এমন এক নীতি, যা প্রত্যেক মানুষের প্রতিটি কাজকে ঘিরে ফেলে। 'সর্বব্যাপী' শব্দটি এটাই বোঝাচ্ছে।"
+            "en": "Yarah: he will see it. But a deed has already passed. Al-Qurtubi records the reasoning: it is said that he sees its recompense, because what he did has gone and ceased to exist. At-Tabari reads it the same way: whoever did a dharrah's weight of good in this world sees its reward there, and whoever did a dharrah's weight of evil sees its recompense there. Al-Muyassar says plainly: he sees its reward, or its punishment, in the Hereafter.",
+            "bn": "ইয়ারাহ: সে তা দেখবে। কিন্তু আমল তো ঘটে গিয়ে শেষ হয়ে গেছে। কুরতুবী একটি যুক্তি উল্লেখ করেন: বলা হয়, সে দেখবে তার প্রতিদান, কারণ যা সে করেছিল তা অতীত হয়ে বিলীন হয়ে গেছে। তাবারীর পাঠও একই রকম। দুনিয়াতে যে এক যাররাহ পরিমাণ ভালো করেছে, সে সেখানে তার সওয়াব দেখবে। আর যে এক যাররাহ পরিমাণ মন্দ করেছে, সে সেখানে তার প্রতিফল দেখবে। মুয়াসসার সহজ ভাষায় বলে: আখিরাতে সে তার সওয়াব দেখবে, কিংবা তার শাস্তি।"
           },
           {
-            "en": "The same fineness of measure appears elsewhere. 21:47 sets up the scales of justice for the Day of Resurrection and promises that even the weight of a mustard seed will be brought forth. 18:49 has the criminals staring at the record and asking what kind of book leaves out nothing small or great. 4:40 rules out injustice of an atom's weight, and then, on the good side only, speaks of multiplying.",
-            "bn": "মাপের এই সূক্ষ্মতা অন্য আয়াতেও আছে। ২১:৪৭ আয়াতে কিয়ামতের দিনের জন্য ন্যায়ের দাঁড়িপাল্লা স্থাপনের কথা আছে, সঙ্গে প্রতিশ্রুতি: সরিষার দানা পরিমাণ কিছু হলেও তা হাজির করা হবে। ১৮:৪৯ আয়াতে অপরাধীরা আমলনামার দিকে তাকিয়ে বলে, এ কেমন কিতাব, ছোট-বড় কিছুই বাদ দেয়নি! ৪:৪০ আয়াত অণু পরিমাণ জুলুমকেও নাকচ করে দেয়, তারপর শুধু ভালোর বেলায় বহুগুণ বাড়িয়ে দেওয়ার কথা বলে।"
+            "en": "Sa'id ibn Jubayr, in the report Ibn Kathir carries, gives a second picture: he sees it in his book, and it pleases him. As-Sa'di sets beside the verse 3:30, the Day every soul finds the good it did brought before it, and the evil it did, wishing a long distance lay between it and that, and the words of 18:49, they found what they had done present. Both pictures stand in the commentaries, the record and the recompense.",
+            "bn": "ইবন কাসীরের আনা বর্ণনায় সাঈদ ইবন জুবাইর আরেকটি ছবি দেন: সে তা দেখবে তার আমলনামায়, আর তাতে সে খুশি হবে। সা'দী আয়াতের পাশে রাখেন ৩:৩০ আয়াত: সেদিন প্রত্যেকে নিজের করা ভালো কাজ সামনে হাজির পাবে, আর মন্দ কাজও। তখন সে চাইবে, তার আর ওই মন্দের মাঝে যদি অনেক দূরত্ব থাকত! সঙ্গে রাখেন ১৮:৪৯ আয়াতের কথা: তারা যা করেছিল, তা সামনে উপস্থিত পেল। তাফসীরে দুটি ছবিই পাশাপাশি আছে, আমলনামা আর প্রতিদান।"
+          },
+          {
+            "en": "There is also a variant reading. Al-Qurtubi notes that the general reading is yarahu, he sees it, in both verses. Al-Jahdari, as-Sulami, 'Isa ibn 'Umar, and Aban reporting from 'Asim read yurahu, he is shown it, meaning Allah shows it to him. Al-Qurtubi prefers the first and gives 3:30 as his reason. The two readings meet in 99:6, where people come out li-yuraw a'malahum, to be shown their deeds.",
+            "bn": "এখানে একটি ভিন্ন কিরাআতও আছে। কুরতুবী জানান, অধিকাংশের কিরাআত দুই আয়াতেই ইয়ারাহু, অর্থাৎ সে দেখবে। জাহদারী, সুলামী, ঈসা ইবন উমর, আর আসিম থেকে আবান পড়েছেন ইউরাহু, অর্থাৎ তাকে দেখানো হবে, আল্লাহ তাকে তা দেখাবেন। কুরতুবী প্রথমটিকে অগ্রাধিকার দেন, আর কারণ হিসেবে আনেন ৩:৩০ আয়াত। দুই কিরাআত এসে মেলে ৯৯:৬ আয়াতে, যেখানে মানুষ বেরিয়ে আসে লিইউরাও আ'মালাহুম, যাতে তাদের আমল তাদের দেখানো হয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "An Ordinary Day",
-          "bn": "সাধারণ এক দিন"
+          "en": "When and Where It Is Seen",
+          "bn": "কখন, কোথায় দেখা"
         },
         "p": [
           {
-            "en": "Muslim narrates from Abu Dharr (RA) that the Prophet ﷺ said not to belittle any act of kindness, even that you meet your brother with a cheerful face. That is a deliberately unimpressive example, and it fits these two verses exactly. Most of a life is made of acts too small to plan, remember or boast about, and this surah ends by telling us that this is precisely the material the record is made of.",
-            "bn": "ইমাম মুসলিম আবু যার (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: কোনো ভালো কাজকেই তুচ্ছ মনে করো না, এমনকি ভাইয়ের সঙ্গে হাসিমুখে দেখা করাকেও না। উদাহরণটা ইচ্ছে করেই সাদামাটা, আর এ দুই আয়াতের সঙ্গে তা হুবহু মিলে যায়। জীবনের বেশির ভাগটাই এমন সব কাজে গড়া, যা এত ছোট যে কেউ তার পরিকল্পনা করে না, মনে রাখে না, তা নিয়ে গর্বও করে না। আর এই সূরা শেষে আমাদের জানিয়ে দেয়: আমলনামা ঠিক এই উপাদানেই তৈরি।"
+            "en": "The real disagreement is over two cases: the believer's small evil and the disbeliever's small good. At-Tabari begins with a saying of Ibn Abbas (RA). No believer and no disbeliever does good or evil in this world without Allah bringing it to him. The believer is shown his good deeds and his bad deeds, and Allah forgives him the bad. The disbeliever's good deeds are turned back, and he is punished for his bad ones. Al-Baghawi gives the same saying, adding that the believer is rewarded for his good.",
+            "bn": "আসল মতভেদ দুটি ক্ষেত্রে: মুমিনের ছোট মন্দ আর কাফিরের ছোট ভালো। তাবারী শুরু করেন ইবন আব্বাস (রাঃ)-এর একটি কথা দিয়ে। দুনিয়াতে কোনো মুমিন বা কাফির ভালো-মন্দ যা-ই করুক, আল্লাহ তা তার সামনে এনে দেবেন। মুমিনকে তার নেকি আর গুনাহ দুটোই দেখানো হবে, তারপর আল্লাহ তার গুনাহ মাফ করে দেবেন। কাফিরের নেকিগুলো ফিরিয়ে দেওয়া হবে, আর তার গুনাহের জন্য তাকে শাস্তি দেওয়া হবে। বাগাভীও একই কথা আনেন, সঙ্গে যোগ করেন যে মুমিনকে তার নেকির প্রতিদানও দেওয়া হবে।"
           },
           {
-            "en": "The second verse turns the same key the other way. If nothing good is too small to appear, nothing wrong is too small either, and the excuse that a thing was minor stops working in both directions at once. The practical discipline is small: stop grading your own actions by how impressive they look, and start assuming that the unremarkable ones are the ones being written.",
-            "bn": "দ্বিতীয় আয়াত একই চাবি উল্টো দিকে ঘোরায়। কোনো ভালো কাজই যদি এত ছোট না হয় যে বাদ পড়ে যাবে, তাহলে কোনো মন্দ কাজও নয়। 'এ তো সামান্য ব্যাপার', এই অজুহাত তখন দুই দিকেই একসঙ্গে অচল হয়ে যায়। হাতে-কলমে করণীয়টা ছোট: নিজের কাজ কতটা চোখধাঁধানো দেখায়, তা দিয়ে তাকে মাপা বন্ধ করুন। বরং ধরে নিন, যেসব কাজ উল্লেখ করার মতোও মনে হয় না, সেগুলোই লেখা হচ্ছে।"
+            "en": "Muhammad ibn Ka'b al-Qurazi reads it otherwise, and at-Tabari, al-Qurtubi and al-Baghawi all carry his words. A disbeliever who does a dharrah's weight of good sees its reward in this world, in himself, his family, his wealth and his children, until he leaves the world with no good left for him with Allah. A believer who does a dharrah's weight of evil sees its punishment in this world in the same ways, until he leaves it with no evil left. Al-Qurtubi gives a saying of Ibn Abbas (RA) close to this.",
+            "bn": "মুহাম্মাদ ইবন কা'ব আল-কুরাযী ভিন্নভাবে পড়েন, আর তাবারী, কুরতুবী, বাগাভী তিনজনই তাঁর কথা এনেছেন। কাফির এক যাররাহ পরিমাণ ভালো করলে তার প্রতিদান দেখে নেয় দুনিয়াতেই: নিজের জীবনে, পরিবারে, সম্পদে, সন্তানে। শেষে সে দুনিয়া ছেড়ে যায় এমন অবস্থায় যে আল্লাহর কাছে তার জন্য কোনো ভালো জমা নেই। মুমিন এক যাররাহ পরিমাণ মন্দ করলে তার শাস্তিও দুনিয়াতেই দেখে নেয়, একইভাবে। শেষে দুনিয়া ছেড়ে যায় কোনো মন্দ সঙ্গে না নিয়ে। কুরতুবী ইবন আব্বাস (রাঃ)-এর এমন একটি কথাও আনেন, যা এর কাছাকাছি।"
+          },
+          {
+            "en": "So the companion's name stands on both sides, through different reports. At-Tabari then cites narrations he says point to the second view, among them one through Anas (RA): Abu Bakr (RA) was eating with the Prophet ﷺ when these verses came down, and he lifted his hand. The Prophet ﷺ said: whatever you see in this world that you dislike is the dharrah-weights of evil, and Allah stores up for you the dharrah-weights of good until you are given them in full on the Day of Resurrection. At-Tabari attaches no grading to it.",
+            "bn": "অর্থাৎ ভিন্ন ভিন্ন বর্ণনার সূত্রে একই সাহাবীর নাম দুই দিকেই আছে। এরপর তাবারী কিছু বর্ণনা আনেন, যা তাঁর মতে দ্বিতীয় মতের দিকে ইঙ্গিত করে। এর একটি আনাস (রাঃ)-এর সূত্রে: আবু বকর (রাঃ) নবী ﷺ-এর সঙ্গে খাচ্ছিলেন, এমন সময় এ আয়াত দুটি নাজিল হয়। তিনি খাবার থেকে হাত তুলে নিলেন। নবী ﷺ বললেন: দুনিয়াতে অপছন্দের যা কিছু তুমি দেখো, তা মন্দের যাররাহ পরিমাণ ওজনগুলো। আর ভালোর যাররাহ পরিমাণ ওজনগুলো আল্লাহ তোমার জন্য জমা রাখেন, কিয়ামতের দিন পুরোপুরি দিয়ে দেওয়া পর্যন্ত। তাবারী এর মান সম্পর্কে কিছু বলেননি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an holds that a good deed counts in the Hereafter only when done with faith, and that the evil meant is evil not repented of. At-Tabari also carries 'A'ishah's (RA) question about Ibn Jud'an, which Muslim (214) records thus: Ibn Jud'an kept ties of kinship and fed the poor in the Jahiliyyah; would that benefit him? He said: it will not benefit him; he never once said, my Lord, forgive me my sin on the Day of Judgement. These verses describe the reckoning on that Day; they license nothing against any living person or community.",
+            "bn": "মাআরিফুল কুরআনের মতে, ভালো কাজ আখিরাতে গণ্য হয় কেবল ঈমানের সঙ্গে করা হলে। আর এখানে মন্দ বলতে বোঝানো হয়েছে সেই মন্দ, যার জন্য তওবা করা হয়নি। তাবারী ইবন জুদআন সম্পর্কে আয়িশা (রাঃ)-এর প্রশ্নটিও এনেছেন। মুসলিম (২১৪) তা এভাবে বর্ণনা করেছেন: ইবন জুদআন জাহিলি যুগে আত্মীয়তার বন্ধন রক্ষা করত, মিসকীনকে খাওয়াত, এতে কি তার কোনো উপকার হবে? নবী ﷺ বললেন: উপকার হবে না, কারণ সে কোনো দিন বলেনি, হে আমার রব, বিচারের দিন আমার গুনাহ মাফ করে দিয়ো। এ দুই আয়াত সেদিনের হিসাবের বর্ণনা দেয়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Small to Count",
+          "bn": "গোনার মতো নয় ভেবে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir carries, from Ibn Abi Hatim, a report from Sa'id ibn Jubayr on the setting of these verses. When 76:8 came down, praising those who give food out of love for it, some Muslims thought they would earn no reward for the little they gave. A poor man would come to their doors and they thought a date, a crust or a walnut too little, and turned him away, saying: this is nothing; we are rewarded only for what we give while we love it.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিম থেকে সাঈদ ইবন জুবাইরের একটি বর্ণনা আনেন, এ আয়াত দুটির প্রেক্ষাপট নিয়ে। ৭৬:৮ আয়াত নাজিল হলো, যেখানে প্রশংসা আছে তাদের, যারা নিজের প্রিয় খাবার অন্যকে খাওয়ায়। তখন কিছু মুসলমান ভাবলেন, অল্প কিছু দিলে তার সওয়াব মিলবে না। কোনো মিসকীন দরজায় এলে একটা খেজুর, এক টুকরো রুটি বা একটা আখরোট দেওয়াকে তাঁরা খুব কম মনে করতেন। তাকে ফিরিয়ে দিয়ে বলতেন: এ তো কিছুই না। সওয়াব তো কেবল সেই জিনিস দিলে, যা আমাদের নিজেদের প্রিয়।"
+          },
+          {
+            "en": "Others thought they would not be blamed for a slight sin: a lie, a glance, backbiting, since Allah promised the Fire only for the major sins. So, in the report, these verses came down to make them want the little good, because it soon grows, and to warn them off the slight evil, because it too soon grows. Al-Qurtubi and al-Baghawi give the same account from Muqatil, as concerning two men, and add that on that Day the small sin will look greater than mountains to its doer. It is a reported setting, given on these men's word, not a settled one.",
+            "bn": "আরেক দল ভাবত, ছোটখাটো গুনাহে কোনো দোষ ধরা হবে না: একটা মিথ্যা, একবার তাকানো, একটু গীবত। তাদের যুক্তি, আল্লাহ জাহান্নামের হুমকি দিয়েছেন কেবল কবীরা গুনাহের জন্য। বর্ণনা অনুযায়ী তখন এ আয়াত দুটি নাজিল হয়। উদ্দেশ্য, অল্প ভালো কাজে তাদের আগ্রহী করা, কারণ তা দেখতে দেখতে বেড়ে যায়। আর অল্প মন্দ থেকে সাবধান করা, কারণ সেটাও দেখতে দেখতে বেড়ে যায়। কুরতুবী আর বাগাভী একই ঘটনা মুকাতিল থেকে আনেন, দুজন মানুষকে ঘিরে। তাঁরা যোগ করেন, সেদিন ছোট গুনাহটাও তার কর্তার চোখে পাহাড়ের চেয়ে বড় দেখাবে। এটি বর্ণিত প্রেক্ষাপট, এই বর্ণনাকারীদের কথার ওপর দাঁড়ানো, প্রতিষ্ঠিত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Unique, Comprehensive Verse",
+          "bn": "একক ও সর্বব্যাপী আয়াত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir places here a hadith of Abu Hurayrah (RA) from al-Bukhari, which Muslim also records. Most of it concerns horses, a reward for one man, a shield for another, a burden for a third. Al-Bukhari (2371) gives its closing part in these words: The Messenger of Allah ﷺ was asked about donkeys, and he said: nothing has been sent down to me about them except this comprehensive, unique verse, whoever does a dharrah's weight of good will see it, and whoever does a dharrah's weight of evil will see it.",
+            "bn": "ইবন কাসীর এখানে আবু হুরাইরা (রাঃ)-এর একটি হাদীস আনেন বুখারী থেকে, মুসলিমও যা বর্ণনা করেছেন। হাদীসের বেশির ভাগ ঘোড়া নিয়ে: কারও জন্য তা সওয়াব, কারও জন্য আড়াল, আবার কারও জন্য বোঝা। বুখারী (২৩৭১) এর শেষ অংশটি এভাবে বর্ণনা করেছেন: রাসূলুল্লাহ ﷺ-কে গাধা সম্পর্কে জিজ্ঞেস করা হলো। তিনি বললেন, এ বিষয়ে আমার ওপর কিছুই নাজিল হয়নি, এই সর্বব্যাপী ও একক আয়াতটি ছাড়া: যে এক যাররাহ পরিমাণ ভালো করবে, সে তা দেখবে, আর যে এক যাররাহ পরিমাণ মন্দ করবে, সে-ও তা দেখবে।"
+          },
+          {
+            "en": "Al-Baghawi says the question was about zakat on donkeys. Al-Qurtubi reports Ibn al-'Arabi's explanation of the answer: the Prophet ﷺ had described the lasting reward in horses, so the questioner asked about donkeys, and was answered by the general sweep of the verse, for in a donkey there are many dharrah-weights. A narrow question about one kind of property received a principle that covers every act of every person.",
+            "bn": "বাগাভী বলেন, প্রশ্নটা ছিল গাধার যাকাত নিয়ে। কুরতুবী জবাবটির একটি ব্যাখ্যা আনেন ইবনুল আরাবী থেকে। নবী ﷺ ঘোড়ার মধ্যে স্থায়ী সওয়াবের কথা বলেছিলেন, তাই প্রশ্নকারী গাধার কথা জানতে চাইলেন। জবাব এল আয়াতের ব্যাপকতা দিয়ে, কারণ একটি গাধার মধ্যেও যাররাহ পরিমাণ ওজন আছে অনেক। এক ধরনের সম্পদ নিয়ে ছোট্ট একটি প্রশ্ন, আর জবাবে এল এমন এক নীতি, যা প্রত্যেক মানুষের প্রতিটি কাজকে ঘিরে ফেলে।"
+          },
+          {
+            "en": "Ibn Kathir and Ma'arif al-Qur'an both attach a warning given to 'A'ishah (RA). Ibn Majah (4243) records it in these words: O 'A'ishah, beware of deeds regarded as insignificant, for they have a pursuer from Allah. Ibn Majah gives no grading of his own. Ibn Kathir cites it from Ahmad, whose wording speaks of insignificant sins, and notes that an-Nasa'i and Ibn Majah recorded it. What a person dismisses as too small to matter is not dismissed; something is still coming after it.",
+            "bn": "ইবন কাসীর আর মাআরিফুল কুরআন দুটিতেই আয়িশা (রাঃ)-কে দেওয়া একটি সতর্কবাণী আছে। ইবন মাজাহ (৪২৪৩) তা এভাবে বর্ণনা করেছেন: হে আয়িশা, তুচ্ছ মনে হওয়া আমল থেকে সাবধান থেকো, কারণ আল্লাহর পক্ষ থেকে সেগুলোর পেছনে একজন তলবকারী আছে। ইবন মাজাহ নিজে এর কোনো মান উল্লেখ করেননি। ইবন কাসীর হাদীসটি এনেছেন আহমাদ থেকে, যাঁর বর্ণনায় শব্দটা তুচ্ছ গুনাহ। তিনি জানান, নাসাঈ আর ইবন মাজাহও এটি বর্ণনা করেছেন। মানুষ যাকে তুচ্ছ বলে ঝেড়ে ফেলে, তা আসলে ঝরে যায় না। কিছু একটা তখনও তার পিছু নিয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Single Grape",
+          "bn": "একটিমাত্র আঙুর"
+        },
+        "p": [
+          {
+            "en": "Some took the verses literally in their giving. Al-Qurtubi cites the Muwatta: a poor man asked 'A'ishah (RA) for food while grapes lay before her. She told someone to take one grape and give it to him, and when the man looked at it in surprise she said: are you surprised? How many dharrah-weights do you see in this grape? Al-Baghawi says that 'Umar ibn al-Khattab and 'A'ishah each gave a grape in charity and said there are many weights in it.",
+            "bn": "কেউ কেউ দান করতে গিয়ে আয়াতটিকে আক্ষরিক অর্থেই নিয়েছিলেন। কুরতুবী মুয়াত্তা থেকে আনেন: এক মিসকীন আয়িশা (রাঃ)-এর কাছে খাবার চাইল, তখন তাঁর সামনে আঙুর রাখা। তিনি একজনকে বললেন, একটা দানা নিয়ে তাকে দাও। লোকটা দানাটার দিকে অবাক হয়ে তাকিয়ে রইল। আয়িশা (রাঃ) বললেন: অবাক হচ্ছ? এই একটা দানায় কত যাররাহ পরিমাণ ওজন আছে, দেখতে পাচ্ছ? বাগাভী বলেন, উমর ইবনুল খাত্তাব আর আয়িশা দুজনেই একটি করে আঙুর দান করেছিলেন, আর বলেছিলেন, এর মধ্যে বহু ওজন আছে।"
+          },
+          {
+            "en": "Ibn Kathir sets here a saying the Prophet ﷺ gave in general, not about this verse, and it is told whole in al-Bukhari (1417) from 'Adi ibn Hatim: guard yourselves against the Fire, even with half a date. Ibn Kathir's wording adds even with a good word. Al-Qurtubi adds that Sa'd ibn Abi Waqqas, giving two dates, said they hold many dharrah-weights. Half a date, one grape: the verse made the small gift worth giving.",
+            "bn": "ইবন কাসীর এখানে নবী ﷺ-এর একটি সাধারণ বাণী আনেন। এটি এই আয়াত নিয়ে বলা নয়। বুখারী (১৪১৭) আদী ইবন হাতিম থেকে তা পুরোটা বর্ণনা করেছেন: আধখানা খেজুর দিয়ে হলেও জাহান্নাম থেকে বাঁচো। ইবন কাসীরের বর্ণনায় এর সঙ্গে আছে, একটি ভালো কথা দিয়ে হলেও। কুরতুবী জানান, সা'দ ইবন আবী ওয়াক্কাস দুটি খেজুর দান করে বলেছিলেন, এতে বহু যাররাহ পরিমাণ ওজন আছে। আধখানা খেজুর, একটি আঙুর: আয়াতটি ছোট দানকেও দেওয়ার যোগ্য করে তুলেছে।"
+          },
+          {
+            "en": "Al-Baghawi closes with a scene from ar-Rabi' ibn Khuthaym: a man passed al-Hasan while he was reciting this surah, and when he reached its end he said: enough for me; the admonition is complete. The report leaves unclear who was reciting and who spoke. The practical charge is simple all the same. Stop grading your deeds by how large they look, give the date you were about to keep, and leave alone the small wrong you were about to excuse.",
+            "bn": "বাগাভী শেষ করেন রাবী ইবন খুসাইমের বর্ণিত একটি দৃশ্য দিয়ে: এক ব্যক্তি হাসানের পাশ দিয়ে যাচ্ছিল, আর তখন এই সূরা পড়া চলছিল। সূরার শেষে পৌঁছে বলা হলো: আমার জন্য এটুকুই যথেষ্ট, উপদেশ পূর্ণ হয়ে গেছে। বর্ণনায় কে পড়ছিলেন আর কে বললেন, তা স্পষ্ট নয়। করণীয়টা তবু সহজ। নিজের আমলকে বড়-ছোট দেখে বিচার করা বন্ধ করুন। যে খেজুরটা রেখে দিতে যাচ্ছিলেন, সেটা দিয়ে দিন। আর যে ছোট অন্যায়টাকে মাফ করে দিতে যাচ্ছিলেন নিজের মনে, সেটা থেকে দূরে থাকুন।"
           }
         ]
       }
