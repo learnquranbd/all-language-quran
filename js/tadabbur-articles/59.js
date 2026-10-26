@@ -563,29 +563,33 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Placed After a Broken Covenant",
-          "bn": "ভাঙা অঙ্গীকারের ঠিক পরে"
+          "en": "After the Splitting Mountain",
+          "bn": "ফেটে যাওয়া পাহাড়ের পরে"
         },
         "p": [
           {
-            "en": "Surah al-Hashr spends most of its length on people who failed: a tribe expelled after treachery, hypocrites who promised support and gave none. Then it turns on the reader. 59:18 tells the believers to fear Allah and let every soul look to what it has sent ahead for tomorrow, and 59:19 warns them not to be like those who forgot Allah, so He made them forget themselves. Forgetting Allah, the surah says, costs you your own self.",
-            "bn": "সূরা আল-হাশরের বেশির ভাগ জুড়ে আছে ব্যর্থ মানুষদের কথা: বিশ্বাসঘাতকতার পর বিতাড়িত এক গোত্র, আর সাহায্যের কথা দিয়েও কিছুই না দেওয়া মুনাফিকরা। এরপর সূরাটি পাঠকের দিকে ফেরে। ৫৯:১৮ মুমিনদের বলে আল্লাহকে ভয় করতে, আর প্রত্যেকে যেন দেখে আগামীকালের জন্য সে কী পাঠিয়েছে। ৫৯:১৯ সতর্ক করে, তারা যেন তাদের মতো না হয় যারা আল্লাহকে ভুলে গিয়েছিল, ফলে তিনি তাদের নিজেদেরকেই ভুলিয়ে দিয়েছেন। সূরার কথা হলো, আল্লাহকে ভুলে গেলে তার দাম দিতে হয় নিজেকে হারিয়ে।"
+            "en": "Huwa-llahu-lladhi la ilaha illa hu: He is Allah, other than whom there is no deity. Three verses close Surah al-Hashr, and each of them opens with Huwa-llah, He is Allah. They come straight after 59:21, where the Qur'an, had it been sent down upon a mountain, would have left it humbled and split apart from fear of Allah. At-Tabari ties the two passages together in his first sentence: He from whose fear the mountain would split, O people, is al-ma'bud, the Worshipped, to whom alone worship and godhood are due.",
+            "bn": "হুওয়াল্লাহুল্লাযী লা ইলাহা ইল্লা হু: তিনিই আল্লাহ, যিনি ছাড়া কোনো ইলাহ নেই। সূরা হাশর শেষ হয় তিনটি আয়াতে, আর তিনটিরই শুরু হুওয়াল্লাহ, তিনিই আল্লাহ, এই দুই শব্দে। এগুলো আসে ৫৯:২১-এর ঠিক পরে, যেখানে বলা হয়েছে, এ কুরআন পাহাড়ের উপর নাযিল হলে পাহাড়টি আল্লাহর ভয়ে বিনীত হয়ে ফেটে চৌচির হয়ে যেত। তাবারী প্রথম বাক্যেই দুটোকে জুড়ে দেন। হে মানুষ, যাঁর ভয়ে পাহাড় ফেটে যায়, তিনিই আল-মা'বূদ, সেই উপাস্য। ইবাদত আর উলূহিয়্যাত কেবল তাঁরই প্রাপ্য।"
           },
           {
-            "en": "So the closing passage is a remedy prescribed for that exact disease. If forgetting Him unmakes a person, the cure is to be shown who He is in concentrated form. 59:21 prepares the ground by saying that had this Quran been sent down upon a mountain, you would have seen it humbled and split apart from fear of Allah. Immediately after that image of a mountain giving way, the names begin.",
-            "bn": "তাই শেষ অংশটি ঠিক এই রোগেরই ওষুধ। তাঁকে ভুলে যাওয়া যদি মানুষকে ভেঙেচুরে দেয়, তবে নিরাময় হলো অল্প কথায়, ঘন করে তাঁর পরিচয় তুলে ধরা। ৫৯:২১ এর জমি তৈরি করে রাখে। সেখানে বলা হয়েছে, এই কুরআন কোনো পাহাড়ের উপর নাজিল করা হলে তুমি দেখতে, আল্লাহর ভয়ে তা নত হয়ে ফেটে চৌচির হয়ে গেছে। পাহাড় ভেঙে পড়ার সেই দৃশ্যের ঠিক পরেই নামগুলো শুরু হয়।"
+            "en": "Ma'arif al-Qur'an reads the placement the same way: having urged concern for the Hereafter, as 59:18 does, and having asserted the greatness of the Qur'an, the surah, it says, closes with a few of Allah's attributes of perfection. As-Sa'di opens by saying that these noble verses contain many of Allah's beautiful names and lofty attributes, great in standing and wondrous in proof.",
+            "bn": "মাআরিফুল কুরআনও জায়গাটিকে একইভাবে পড়ে। সূরাটি আখিরাতের চিন্তায় তাগিদ দিয়েছে, যেমন ৫৯:১৮-এ, তারপর কুরআনের মাহাত্ম্য ঘোষণা করেছে। তার ভাষায়, এবার সূরাটি শেষ হয় আল্লাহর কয়েকটি পূর্ণতার গুণ দিয়ে। সা'দী শুরুতেই বলেন, এ মহান আয়াতগুলোতে আল্লাহর অনেক সুন্দর নাম আর সমুচ্চ গুণ একত্র হয়েছে, যেগুলোর মর্যাদা বিরাট আর প্রমাণ অপূর্ব।"
           }
         ]
       },
       {
         "h": {
-          "en": "He Is Allah",
-          "bn": "তিনিই আল্লাহ"
+          "en": "None Worshipped But He",
+          "bn": "তিনি ছাড়া কোনো মাবুদ নেই"
         },
         "p": [
           {
-            "en": "Each of the three verses opens with the same two words, Huwa Allah, He is Allah. Two of them go on to add la ilaha illa Huwa, there is no deity except Him, and the third moves straight to creation. The repetition is not decoration. Every clause that follows is fastened to the same subject, so that a reader who loses the thread is brought back to the one name that governs the rest before the next description begins.",
-            "bn": "তিনটি আয়াতই শুরু হয় একই দুটি শব্দ দিয়ে: 'হুয়াল্লাহু', তিনিই আল্লাহ। এর মধ্যে দুটি আয়াত এরপর বলে 'লা ইলাহা ইল্লা হুয়া', তিনি ছাড়া কোনো ইলাহ নেই। আর তৃতীয়টি সরাসরি চলে যায় সৃষ্টির কথায়। এই পুনরাবৃত্তি অলংকার নয়। পরের প্রতিটি কথা বাঁধা থাকে একই কর্তার সঙ্গে। ফলে পাঠক খেই হারালেও পরের গুণের কথা শুরু হওয়ার আগেই আবার ফিরে আসেন সেই এক নামের কাছে, বাকি সবকিছু যার অধীনে।"
+            "en": "La ilaha illa hu, there is no deity but He, comes twice, in 59:22 and again in 59:23. Ibn Kathir reads it as Allah's report about Himself: there is no lord but Him and no god for existence besides Him, and everything worshipped instead of Him is false. The Muyassar glosses the name Allah as al-ma'bud bi-haqq, worshipped by right. At-Tabari, on 59:23, says: the Worshipped, for whom alone worship is fitting.",
+            "bn": "লা ইলাহা ইল্লা হু, তিনি ছাড়া কোনো ইলাহ নেই: কথাটি দুবার এসেছে, ৫৯:২২-এ এবং আবার ৫৯:২৩-এ। ইবন কাসীর একে পড়েন নিজের সম্পর্কে আল্লাহর দেওয়া খবর হিসেবে। তিনি ছাড়া কোনো রব নেই, অস্তিত্বের আর কোনো ইলাহ নেই, আর তাঁকে বাদ দিয়ে যার ইবাদত হয়, সবই বাতিল। মুয়াসসার আল্লাহ নামের ব্যাখ্যা দেয় আল-মা'বূদ বিল-হক্ক দিয়ে, অর্থাৎ ন্যায্যভাবে যাঁর ইবাদত হয়। ৫৯:২৩-এ তাবারীর ভাষা: তিনিই মাবুদ, ইবাদত কেবল তাঁরই জন্য শোভা পায়।"
+          },
+          {
+            "en": "As-Sa'di gives the reason inside the claim. He is al-ma'luh al-ma'bud, taken as god and worshipped, because of His immense perfection, His all-embracing goodness and His general governance of things. Every other god, he says, is false and deserves not an atom's weight of worship, being poor, powerless and deficient, owning nothing for itself or for anyone else. At-Tabari records from Jabir ibn Zayd that Allah's greatest name is Allah, with these two verses as his proof, and al-Qurtubi repeats the saying.",
+            "bn": "সা'দী দাবির ভেতরেই কারণটা দেখিয়ে দেন। তিনিই আল-মা'লূহ আল-মা'বূদ, যাঁকে ইলাহ মানা হয় আর যাঁর ইবাদত করা হয়। কারণ তাঁর পূর্ণতা বিশাল, তাঁর অনুগ্রহ সবকিছু ঘিরে রেখেছে, আর সবকিছুর পরিচালনা তাঁরই হাতে। সা'দীর মতে, আর যত ইলাহ, সবই বাতিল, অণু পরিমাণ ইবাদতেরও যোগ্য নয়। কেননা সেগুলো অভাবী, অক্ষম, অপূর্ণ, নিজের বা অন্যের কোনো কিছুর মালিক নয়। তাবারী জাবির ইবন যায়দ থেকে বর্ণনা করেন, আল্লাহর ইসমে আজম হলো আল্লাহ, আর প্রমাণ হিসেবে তিনি এই দুই আয়াত পড়েছিলেন। কুরতুবীও কথাটি এনেছেন।"
           }
         ]
       },
@@ -596,24 +600,84 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "59:22 pairs two things we usually keep apart. He is Knower of the ghayb and the shahadah, of what is hidden from us and what stands in front of us, and in the same verse He is ar-Rahman ar-Rahim. The order matters for a reader who has just been told that hypocrites were exposed. The One from whom nothing is concealed, described at length in 6:59 as knowing every falling leaf, is named by His mercy in the very sentence that establishes His knowledge.",
-            "bn": "৫৯:২২ এমন দুটি জিনিসকে পাশাপাশি রাখে, যা আমরা সাধারণত আলাদা করে ভাবি। তিনি গায়ব ও শাহাদাহর জ্ঞানী, অর্থাৎ যা আমাদের কাছে গোপন আর যা চোখের সামনে, দুটোরই। আবার একই আয়াতে তিনি আর-রাহমান, আর-রাহীম। এইমাত্র যে পাঠক জেনেছেন মুনাফিকদের মুখোশ খুলে গেছে, তাঁর জন্য এই ক্রমটা গুরুত্বপূর্ণ। যাঁর কাছ থেকে কিছুই লুকানো যায় না, ৬:৫৯ যাঁর সম্পর্কে বিস্তারিত বলেছে যে ঝরে পড়া প্রতিটি পাতাও তিনি জানেন, তাঁর জ্ঞানের কথা যে বাক্যে বলা হলো, সেই বাক্যেই তাঁকে ডাকা হলো রহমতের নামে।"
+            "en": "'Alimu-l-ghaybi wash-shahada: Knower of the unseen and the witnessed. Al-Qurtubi lists readings of the pair: the secret and the open, from Ibn Abbas; what has been and what will be; the Hereafter and this world, from Sahl; and what servants neither know nor have seen, against what they know and have seen, which is al-Baghawi's gloss too. Ibn Kathir widens it to every created thing, seen by us or hidden from us, great or small, down to the tiniest ants in the darkness.",
+            "bn": "আলিমুল গাইবি ওয়াশ-শাহাদাহ: অদৃশ্য ও দৃশ্যের জ্ঞাতা। কুরতুবী এই জোড়ার কয়েকটি ব্যাখ্যা পাশাপাশি রাখেন। ইবন আব্বাস (রাঃ) বলেন: গোপন ও প্রকাশ্য। কারও মতে: যা ঘটে গেছে আর যা ঘটবে। সাহল বলেন: আখিরাত ও দুনিয়া। আরেক মতে গাইব হলো যা বান্দারা জানে না, চোখেও দেখেনি, আর শাহাদাহ হলো যা তারা জানে ও দেখেছে। বাগাভীর ব্যাখ্যাও এটাই। ইবন কাসীর একে ছড়িয়ে দেন সব সৃষ্টির উপর, যা আমরা দেখি আর যা চোখের আড়ালে। বড়-ছোট কিছুই তাঁর অজানা নয়, অন্ধকারে থাকা ক্ষুদ্র পিঁপড়াও না।"
+          },
+          {
+            "en": "Then, in the same verse, huwa-r-Rahmanu-r-Rahim. At-Tabari: Rahman of this world and the next, Rahim to the people of faith in Him; the Muyassar agrees, giving the Rahman a mercy that embraces everything. Ibn Kathir gives the sense as mercy wide enough to include all creatures, Rahman and Rahim of both worlds, citing 7:156, My mercy embraces all things; as-Sa'di says it has reached every living thing. So at-Tabari and the Muyassar tie ar-Rahim to the believers, while Ibn Kathir lets both names span both worlds.",
+            "bn": "তারপর একই আয়াতে: হুওয়ার রাহমানুর রাহীম। তাবারী বলেন, তিনি দুনিয়া ও আখিরাতের রহমান, আর তাঁর প্রতি ঈমান আনা লোকদের প্রতি রহীম। মুয়াসসারও একমত, আর রহমানের রহমতকে বলে সবকিছু ঘিরে থাকা রহমত। ইবন কাসীরের ব্যাখ্যায় তাঁর রহমত এত প্রশস্ত যে সব সৃষ্টিকে ঘিরে নেয়, তিনি দুই জগতেরই রহমান ও রহীম। সাথে আনেন ৭:১৫৬: আমার রহমত সবকিছু ঘিরে আছে। সা'দী বলেন, সে রহমত প্রতিটি প্রাণীর কাছে পৌঁছেছে। ফলে তাবারী ও মুয়াসসার রহীমকে মু'মিনদের সাথে বাঁধেন, আর ইবন কাসীর দুটি নামকেই দুই জগতে বিস্তৃত করেন।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Names of Sovereignty",
-          "bn": "সার্বভৌমত্বের নামসমূহ"
+          "en": "Sovereign and Utterly Pure",
+          "bn": "বাদশাহ ও মহাপবিত্র"
         },
         "p": [
           {
-            "en": "59:23 releases a run of names with no conjunction between them, so they arrive in a single unbroken breath: al-Malik the Sovereign, al-Quddus the utterly Pure, as-Salam, al-Mu'min who grants security, al-Muhaymin the Overseer, al-Aziz, al-Jabbar, al-Mutakabbir. Translations differ over several of them because the Arabic is denser than any single English or Bengali word. What the sequence does is move from rule, through purity, to protection, and then to unassailable power.",
-            "bn": "৫৯:২৩ আয়াতে একের পর এক নাম আসে, মাঝে কোনো 'এবং' নেই, যেন সব এক নিঃশ্বাসে: আল-মালিক, সার্বভৌম; আল-কুদ্দূস, পরম পবিত্র; আস-সালাম; আল-মুমিন, নিরাপত্তাদাতা; আল-মুহাইমিন, তত্ত্বাবধায়ক; আল-আযীয, আল-জাব্বার, আল-মুতাকাব্বির। এর কয়েকটির অনুবাদ নিয়ে মতভেদ আছে, কারণ আরবি শব্দগুলোর অর্থ ইংরেজি বা বাংলার কোনো একটি শব্দে ধরে না। ক্রমটা খেয়াল করুন: কর্তৃত্ব থেকে পবিত্রতা, সেখান থেকে নিরাপত্তা, তারপর এমন ক্ষমতা যার সামনে কেউ দাঁড়াতে পারে না।"
+            "en": "Al-Malik opens the run of names in 59:23. At-Tabari: the King with no king above Him, and nothing that is not beneath Him. Ibn Kathir and the Muyassar: Owner of all things, disposing of them without resistance or hindrance. As-Sa'di draws the consequence: the upper world and the lower, with all who live in them, are His possessions, poor and governed. The eight names follow with no 'and' between them, and the tafsirs take each in turn.",
+            "bn": "৫৯:২৩-এ নামের সারি শুরু হয় আল-মালিক দিয়ে। তাবারী বলেন: তিনি এমন বাদশাহ, যাঁর উপরে কোনো বাদশাহ নেই, আর সবকিছুই তাঁর নিচে। ইবন কাসীর ও মুয়াসসার বলেন: তিনি সবকিছুর মালিক, কোনো বাধা বা প্রতিরোধ ছাড়াই সেগুলো পরিচালনা করেন। সা'দী এর ফল টেনে বের করেন: উপরের জগৎ আর নিচের জগৎ, সেখানকার সবাই তাঁর মালিকানাধীন, তাঁর মুখাপেক্ষী, তাঁরই পরিচালনায় চলে। আরবি আয়াতে আটটি নাম পরপর আসে, মাঝে কোনো 'ওয়া' বা 'এবং' নেই। তাফসীরকারেরাও একেকটি নাম আলাদা করে ধরেন।"
           },
           {
-            "en": "Two of them are worth slowing over. Al-Bukhari and Muslim both narrate from Ibn Mas'ud (RA) that the companions used to say peace be upon Allah in the prayer until the Prophet ﷺ stopped them, telling them that Allah Himself is as-Salam, and teaching them the tashahhud instead. And al-Mutakabbir is praise when said of Him and an accusation when said of us: Muslim narrates from Abu Hurayrah (RA) that Allah says greatness is His cloak and might His garment, and whoever contends with Him will be punished.",
-            "bn": "এর দুটি নামে একটু থামা দরকার। ইমাম বুখারী ও মুসলিম দুজনেই ইবনে মাসঊদ (রাঃ) থেকে বর্ণনা করেছেন: সাহাবিরা নামাজে বলতেন, 'আল্লাহর উপর শান্তি বর্ষিত হোক'। নবী ﷺ তাঁদের থামিয়ে দিলেন। বললেন, আল্লাহ নিজেই তো আস-সালাম। তারপর এর বদলে তাঁদের তাশাহহুদ শিখিয়ে দিলেন। আর আল-মুতাকাব্বির নামটি তাঁর বেলায় প্রশংসা, আমাদের বেলায় অভিযোগ। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন, আল্লাহ বলেন: গৌরব তাঁর চাদর, ক্ষমতা তাঁর পোশাক। যে এ নিয়ে তাঁর সঙ্গে টানাটানি করবে, তাকে তিনি শাস্তি দেবেন।"
+            "en": "Al-Quddus has three readings in Ibn Kathir: the Pure, from Wahb ibn Munabbih; the Blessed, from Mujahid and Qatada, which at-Tabari also gives through Qatada; and He whom the noble angels hallow, from Ibn Jurayj. Al-Qurtubi: free of every deficiency and pure of every defect, and al-Baghawi's wording is close. As-Sa'di says the name joins two things: declaring Allah free of every lack, and magnifying Him in His attributes and majesty.",
+            "bn": "আল-কুদ্দুসের তিনটি ব্যাখ্যা ইবন কাসীরে পাওয়া যায়। ওয়াহব ইবন মুনাব্বিহ বলেন: পবিত্র। মুজাহিদ ও কাতাদা বলেন: বরকতময়, আর তাবারীও কাতাদার সূত্রে এটি এনেছেন। ইবন জুরাইজ বলেন: সম্মানিত ফেরেশতারা যাঁর পবিত্রতা ঘোষণা করে। কুরতুবীর সংজ্ঞা: সব অপূর্ণতা থেকে মুক্ত, সব দোষ থেকে পবিত্র। বাগাভীর ভাষাও কাছাকাছি। সা'দীর মতে নামটি দুটি কথা একসাথে বহন করে: আল্লাহকে সব ঘাটতি থেকে মুক্ত ঘোষণা করা, আর তাঁর গুণাবলি ও মহিমায় তাঁর বড়ত্ব বর্ণনা করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Safety Given, Truth Affirmed",
+          "bn": "নিরাপত্তা দান, সত্যের সমর্থন"
+        },
+        "p": [
+          {
+            "en": "As-Salam runs two ways in the tafsirs. Ibn Kathir and al-Baghawi: free of every defect and shortcoming, Ibn Kathir adding, by His perfection in essence, attributes and acts. At-Tabari: He who keeps His creation safe from His wronging them. Al-Qurtubi, quoting Ibn al-'Arabi, gives three views: untouched by any fault; He who greets His servants with peace in Paradise, citing 36:58; and He from whose wrong creation is safe, al-Khattabi's view. The first, al-Qurtubi notes, makes it an attribute of His essence, the other two attributes of His acts.",
+            "bn": "তাফসীরে আস-সালাম দুই দিকে যায়। ইবন কাসীর ও বাগাভী বলেন: সব দোষ আর ত্রুটি থেকে মুক্ত। ইবন কাসীর যোগ করেন, সত্তা, গুণাবলি ও কাজে তাঁর পূর্ণতার কারণে। তাবারীর ব্যাখ্যা: যিনি নিজের সৃষ্টিকে নিজের জুলুম থেকে নিরাপদ রাখেন। কুরতুবী ইবনুল আরাবীর উদ্ধৃতি দিয়ে তিনটি মত দেন। যাঁকে কোনো দোষ ছোঁয় না; যিনি জান্নাতে বান্দাদের সালাম দেন, যেমন ৩৬:৫৮-এ; আর যাঁর জুলুম থেকে সৃষ্টি নিরাপদ, যা খাত্তাবীর মত। কুরতুবীর মন্তব্য, প্রথম মতে এটি তাঁর সত্তার গুণ, বাকি দুই মতে তাঁর কাজের গুণ।"
+          },
+          {
+            "en": "Al-Mu'min divides likewise. Ibn Abbas, through ad-Dahhak in Ibn Kathir: He secured His creation against His wronging them; in al-Baghawi he adds that He secured believers from His punishment, from aman, the opposite of fear, as in 106:4. Ma'arif al-Qur'an follows Ibn Abbas. Others read it as confirming: Qatada, He affirmed His word as true; Ibn Zayd, He confirmed His believing servants in their faith; ad-Dahhak, in at-Tabari, the Confirmer. As-Sa'di and the Muyassar: He confirms His messengers by clear signs. Mujahid, in al-Qurtubi: He declared His own oneness, as in 3:18.",
+            "bn": "আল-মু'মিনও একইভাবে দুই ভাগে যায়। ইবন কাসীরে দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) বলেন: তিনি সৃষ্টিকে নিরাপত্তা দিয়েছেন যে তাদের উপর জুলুম করবেন না। বাগাভীতে তাঁর কথায় এটুকুও আছে: যারা ঈমান এনেছে, তাদের তিনি আযাব থেকেও নিরাপদ করেছেন। শব্দটি 'আমান' থেকে, যা ভয়ের বিপরীত, যেমন ১০৬:৪-এ। মাআরিফুল কুরআনও ইবন আব্বাসকে অনুসরণ করে। অন্যরা পড়েন সত্যায়নের অর্থে। কাতাদা: তিনি নিজের কথাকে সত্য বলে ঘোষণা করেছেন। ইবন যায়দ: তিনি মু'মিন বান্দাদের ঈমানকে সত্য বলে স্বীকার করেছেন। তাবারীতে দাহহাক: সত্যায়নকারী। সা'দী ও মুয়াসসার: তিনি স্পষ্ট নিদর্শন দিয়ে রাসূলদের সত্যায়ন করেন। কুরতুবীতে মুজাহিদ: তিনি নিজেই নিজের একত্ব ঘোষণা করেছেন, যেমন ৩:১৮-এ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witness Over Every Deed",
+          "bn": "প্রতিটি আমলের সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Al-Muhaymin is where at-Tabari says outright that the interpreters differed. Some said the Witness: Ibn Abbas, Mujahid and Qatada, who adds that Allah sent down a Book and bore witness over it. Others said the Trustworthy: ad-Dahhak, and Ibn Abbas on another occasion. Others said the Confirmer: Ibn Zayd, reciting 5:48, where the Qur'an is muhayminan over the scriptures before it. At-Tabari says he gave the soundest of these views in Surah al-Ma'ida, and does not repeat it here.",
+            "bn": "আল-মুহাইমিনে এসে তাবারী সরাসরি বলেন, ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন। কেউ বলেছেন: শাহীদ, সাক্ষী। এ মত ইবন আব্বাস (রাঃ), মুজাহিদ ও কাতাদার। কাতাদা যোগ করেন, আল্লাহ কিতাব নাযিল করেছেন এবং তার উপর সাক্ষী থেকেছেন। কেউ বলেছেন: আমীন, বিশ্বস্ত। এ মত দাহহাকের, আর আরেকবার ইবন আব্বাসেরও। কেউ বলেছেন: মুসাদ্দিক, সত্যায়নকারী। এ মত ইবন যায়দের, যিনি ৫:৪৮ পড়ে শোনান, যেখানে কুরআন আগের কিতাবগুলোর উপর মুহাইমিন। তাবারী জানান, কোন মতটি সবচেয়ে সঠিক তা তিনি সূরা মায়িদায় বুঝিয়েছেন, এখানে আর পুনরাবৃত্তি করেননি।"
+          },
+          {
+            "en": "Al-Baghawi widens the field. The Witness over His servants' deeds is the view of Ibn Abbas, Mujahid, Qatada, as-Suddi and Muqatil, from haymana, to watch over a thing. It is also said the word was originally mu'aymin, its hamza turned into ha', so that it means al-Mu'min. Al-Hasan: the Trustworthy. Al-Khalil: the guarding Watcher. Sa'id ibn al-Musayyab and ad-Dahhak: the Judge. Ibn Kaysan: a name of Allah in the scriptures, whose meaning Allah knows best. Ma'arif al-Qur'an renders it Guardian.",
+            "bn": "বাগাভী আলোচনার পরিসর আরও বাড়ান। বান্দাদের আমলের সাক্ষী, এ মত ইবন আব্বাস, মুজাহিদ, কাতাদা, সুদ্দী ও মুকাতিলের। শব্দটি এসেছে 'হাইমানা' থেকে, অর্থাৎ কোনো কিছুর উপর নজর রাখা। আরেক মতে মূল শব্দ ছিল 'মুআইমিন', হামযা বদলে 'হা' হয়েছে, তাই অর্থ আল-মু'মিন। হাসান বলেন: বিশ্বস্ত। খলীল বলেন: নজরদার রক্ষক। সাঈদ ইবনুল মুসাইয়িব ও দাহহাক বলেন: বিচারক। ইবন কাইসানের মতে এটি আগের কিতাবগুলোতে আল্লাহর একটি নাম, এর অর্থ আল্লাহই ভালো জানেন। মাআরিফুল কুরআন অর্থ করে: অভিভাবক।"
+          },
+          {
+            "en": "Al-'Aziz, at-Tabari reads after Qatada as severe in His retribution when He takes retribution from His enemies. Ibn Kathir: His might has overpowered everything, so that His majesty cannot be reached. As-Sa'di: He is neither overcome nor withstood, and everything has submitted to Him. Ibn Kathir then hangs the next two names on this: because of His might, greatness, power and grandeur, the verse continues, al-Jabbar al-Mutakabbir.",
+            "bn": "পরের নাম আল-আযীয। তাবারী কাতাদার অনুসরণে একে পড়েন: শত্রুদের থেকে প্রতিশোধ নিলে তিনি প্রতিশোধে কঠোর। ইবন কাসীরের মতে: তাঁর পরাক্রম সবকিছুকে পরাভূত করেছে, ফলে তাঁর মহিমার নাগাল কেউ পায় না। সা'দীর মতে: কেউ তাঁকে পরাজিত বা প্রতিহত করতে পারে না, আর সবকিছু তাঁর কাছে নত। ইবন কাসীর পরের দুই নামকে এর সাথেই গাঁথেন। তাঁর পরাক্রম, মহত্ত্ব, প্রতাপ আর গৌরবের কারণেই আয়াত বলে চলে: আল-জাব্বার আল-মুতাকাব্বির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Jabbar, Al-Mutakabbir",
+          "bn": "আল-জাব্বার, আল-মুতাকাব্বির"
+        },
+        "p": [
+          {
+            "en": "Al-Jabbar draws the widest spread. Ibn Abbas, in al-Qurtubi and al-Baghawi: al-'Azim, the Mighty, Allah's jabarut being His greatness; al-Qurtubi compares a jabbara palm, grown beyond the reach of the hand. Others derive it from jabr, mending, as a broken bone is set: He enriches the poor and mends the broken, a sense as-Sa'di and Ma'arif al-Qur'an also give. At-Tabari: He sets right His creation's affairs. Qatada: He compelled His creation to whatever He wills, and al-Farra', as-Suddi and Muqatil read compulsion too.",
+            "bn": "আল-জাব্বারে মতের বিস্তার সবচেয়ে বেশি। কুরতুবী ও বাগাভীতে ইবন আব্বাস (রাঃ) বলেন: আল-আযীম, মহান, আর আল্লাহর জাবারূত মানে তাঁর মহত্ত্ব। কুরতুবী তুলনা টানেন 'জাব্বারা' খেজুর গাছের সাথে, যা এত উঁচু যে হাত নাগাল পায় না। অন্যরা শব্দটি নেন 'জাবর' থেকে, অর্থাৎ জোড়া লাগানো। ভাঙা হাড় বসিয়ে দিলে যেমন জুড়ে যায়, তেমনি তিনি অভাবীকে অভাবমুক্ত করেন, ভাঙাকে জোড়া দেন। সা'দী ও মাআরিফুল কুরআনও এ অর্থ দেন। তাবারী বলেন: তিনি সৃষ্টির সব বিষয় ঠিক করে দেন। কাতাদা বলেন: তিনি সৃষ্টিকে নিজের ইচ্ছার উপর বাধ্য করেছেন। ফাররা, সুদ্দী ও মুকাতিলও বাধ্য করার অর্থই নেন।"
+          },
+          {
+            "en": "Al-Mutakabbir, at-Tabari reports from Qatada, means exalted above every evil, and Ibn Kathir and al-Baghawi agree. Al-Qurtubi adds: great by His lordship, with nothing like Him; above whatever does not befit Him; the Most High; or simply al-Kabir, the Great. Kibriya', he says, is praise in Allah's attributes and blame in a creature's, and Ma'arif al-Qur'an agrees: perfection in Allah, a false claim in anyone else. As-Sa'di: grandeur and greatness are His, and He is far above every fault, injustice and oppression.",
+            "bn": "আল-মুতাকাব্বির সম্পর্কে তাবারী কাতাদা থেকে বর্ণনা করেন: তিনি সব মন্দের ঊর্ধ্বে। ইবন কাসীর ও বাগাভীও তা-ই বলেন। কুরতুবী আরও কয়েকটি মত দেন: রুবূবিয়্যাতে মহান, তাঁর মতো কিছু নেই; তাঁর অযোগ্য সবকিছুর ঊর্ধ্বে; সর্বোচ্চ; কিংবা কেবল আল-কাবীর, মহান। তাঁর কথায়, কিবরিয়া আল্লাহর গুণে প্রশংসা, আর সৃষ্টির গুণে নিন্দা। মাআরিফুল কুরআনও তাই বলে: আল্লাহর বেলায় এটি পূর্ণতা, অন্য কারও বেলায় মিথ্যা দাবি। সা'দীর মতে: গৌরব ও মহত্ত্ব তাঁরই, আর তিনি সব দোষ, জুলুম ও অবিচার থেকে বহু ঊর্ধ্বে।"
+          },
+          {
+            "en": "Ibn Kathir and al-Qurtubi both attach here, from the Sahih, a hadith in which Allah speaks, in differing wordings. Muslim's (2620), from Abu Sa'id al-Khudri and Abu Hurayrah (RA), that the Messenger of Allah ﷺ said, reads in full: Might is His lower garment and grandeur is His cloak; whoever contends with Me, I will punish him. The verse then closes: subhana-llahi 'amma yushrikun. At-Tabari: declaring Allah pure and clear of the associating of those who associate partners with Him. As-Sa'di: a general declaration that He is above all that they ascribe to Him.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনেই এখানে সহীহ থেকে একটি হাদীস যুক্ত করেন, যাতে আল্লাহর বাণী আছে, যদিও দুজনের শব্দ ভিন্ন। মুসলিমের (২৬২০) শব্দে, আবু সাঈদ খুদরী ও আবু হুরায়রা (রাঃ) থেকে, রাসূলুল্লাহ ﷺ বলেছেন, পুরো বর্ণনা: ইযযত তাঁর লুঙ্গি আর কিবরিয়া তাঁর চাদর; যে আমার সাথে বিরোধে নামবে, আমি তাকে শাস্তি দেব। তারপর আয়াত শেষ হয়: সুবহানাল্লাহি আম্মা ইউশরিকূন। তাবারী বলেন: মুশরিকদের শিরক থেকে আল্লাহকে পবিত্র ও মুক্ত ঘোষণা। সা'দী বলেন: শরীককারীরা তাঁর প্রতি যা কিছু আরোপ করে, তার সবকিছু থেকে এটি তাঁর সাধারণ পবিত্রতা ঘোষণা।"
           }
         ]
       },
@@ -624,8 +688,12 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "59:24 gives three names in order, and the mufassirun read the order as a sequence rather than a list of synonyms. Al-Khaliq decrees and measures a thing out, al-Bari brings it into being from nothing, and al-Musawwir gives it the particular form it wears. That last stage is why no two faces are the same, and 3:6 states it directly, that it is He who forms you in the wombs however He wills. Your specific shape was a decision, not a leftover.",
-            "bn": "৫৯:২৪ ক্রম অনুযায়ী তিনটি নাম আনে, আর মুফাসসিরগণ এগুলোকে সমার্থক শব্দের তালিকা হিসেবে নয়, ধাপে ধাপে চলা একটি ধারা হিসেবে পড়েন। আল-খালিক কোনো কিছুর ফায়সালা করেন, তার মাপ ঠিক করেন। আল-বারি তাকে শূন্য থেকে অস্তিত্বে আনেন। আর আল-মুসাউয়ির তাকে দেন তার নিজস্ব আকৃতি। এই শেষ ধাপের কারণেই দুটি মুখ কখনো হুবহু এক হয় না। ৩:৬ আয়াত সরাসরি বলে, তিনিই মাতৃগর্ভে তোমাদের আকৃতি দেন, যেভাবে ইচ্ছা করেন। আপনার নিজের চেহারাটা ছিল তাঁর সিদ্ধান্ত, এমনি এমনি থেকে যাওয়া কিছু নয়।"
+            "en": "59:24 turns to creation: al-Khaliq al-Bari' al-Musawwir. Ibn Kathir separates the three. Khalq is taqdir, measuring out; bar' is fary, carrying out what was measured and bringing it into existence, and not everyone who plans and arranges a thing is able to carry it out and bring it into being, except Allah. He cites a poet praising a man: you carry out what you have measured, while some people measure and then do not carry it out. Al-Qurtubi quotes the same line from Zuhayr. For al-Musawwir, Ibn Kathir cites 82:8, in whatever form He willed He assembled you.",
+            "bn": "৫৯:২৪ ফেরে সৃষ্টির দিকে: আল-খালিক, আল-বারি, আল-মুসাওয়ির। ইবন কাসীর তিনটিকে আলাদা করেন। খালক মানে তাকদীর, পরিমাপ ঠিক করা। বার মানে ফারী, অর্থাৎ যা মাপা হয়েছে তা কার্যকর করে অস্তিত্বে আনা। তাঁর কথায়, যে-ই কোনো কিছুর পরিকল্পনা ও বিন্যাস করে, সে-ই তা কার্যকর করে অস্তিত্বে আনতে পারে না, আল্লাহ ছাড়া। এর সমর্থনে তিনি এক কবির চরণ আনেন, যেখানে কবি একজনের প্রশংসা করছেন: তুমি যা মাপো তা কার্যকরও করো, আর কিছু লোক মাপে কিন্তু কার্যকর করতে পারে না। কুরতুবীও যুহাইরের নামে একই চরণ আনেন। আল-মুসাওয়িরের জন্য ইবন কাসীর আনেন ৮২:৮: যে আকৃতিতে চেয়েছেন, সে আকৃতিতে তিনি তোমাকে গঠন করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi insists on the order. Al-Khaliq here is He who measures out; al-Bari', He who originates and invents; al-Musawwir, He who forms the shapes and composes them in varied figures, so forming follows the other two. Some, he says, made khalq mean forming, and it is not so: measuring comes first, forming last, bringing forth between them. He illustrates with the womb, where a person is made a clinging clot, then a lump of flesh, then a form by which he is known. Al-Baghawi puts the sequence in a line: first khalq, then bar', then taswir.",
+            "bn": "কুরতুবী ক্রমটির উপর জোর দেন। এখানে আল-খালিক মানে যিনি পরিমাপ ঠিক করেন, আল-বারি মানে যিনি সূচনা ও উদ্ভাবন করেন, আর আল-মুসাওয়ির মানে যিনি আকৃতি গড়েন, ভিন্ন ভিন্ন গড়নে সাজান। তাই আকৃতি দেওয়া আসে বাকি দুটির পরে। তিনি বলেন, কেউ কেউ খালককে আকৃতি দেওয়ার অর্থে নিয়েছেন, কিন্তু তা ঠিক নয়। পরিমাপ আগে, আকৃতি শেষে, আর অস্তিত্বে আনা মাঝখানে। উদাহরণ দেন মাতৃগর্ভ থেকে: মানুষ সেখানে প্রথমে আলাকা, তারপর মুদগা, তারপর এমন আকৃতি পায় যা দিয়ে তাকে চেনা যায়। বাগাভী এক লাইনে ক্রমটা বলেন: প্রথমে খালক, তারপর বার, তারপর তাসবীর।"
           }
         ]
       },
@@ -636,12 +704,16 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The passage then states the principle the whole of it has been illustrating: to Him belong al-asma al-husna, the most beautiful names. The Quran repeats this in 7:180, which adds the instruction to call on Him by them and to leave those who distort them, in 17:110, which says that whichever of them you call by, the best names are His, and again in 20:8, where the same statement follows the declaration that there is no deity except Him. Names are not given here as vocabulary. They are given as the address to use.",
-            "bn": "এরপর অংশটি সেই নীতিটা বলে দেয়, যা এতক্ষণ ধরে উদাহরণ দিয়ে দেখানো হচ্ছিল: 'আল-আসমাউল হুসনা', সুন্দরতম নামগুলো তাঁরই। কুরআন কথাটা আরও কয়েক জায়গায় বলেছে। ৭:১৮০ আয়াতে এর সঙ্গে নির্দেশ আছে: এসব নামে তাঁকে ডাকো, আর যারা এগুলো বিকৃত করে তাদের ছেড়ে দাও। ১৭:১১০ আয়াতে আছে: যে নামেই ডাকো, সুন্দরতম নামগুলো তো তাঁরই। আর ২০:৮ আয়াতে একই কথা এসেছে 'তিনি ছাড়া কোনো ইলাহ নেই' ঘোষণার ঠিক পরে। নামগুলো এখানে শব্দভাণ্ডার হিসেবে দেওয়া হয়নি। দেওয়া হয়েছে ডাকার ঠিকানা হিসেবে।"
+            "en": "Lahu-l-asma'u-l-husna: to Him belong the best names. At-Tabari says they are the very names Allah gave Himself in these two verses. As-Sa'di reads more widely: names beyond counting, which none but Allah can count or know, and each of them husna, an attribute of perfection with no lack in any respect. Part of their beauty, he says, is that Allah loves them, loves whoever loves them, and loves His servants to call on Him and ask by them. Ibn Kathir refers to his comment on 7:180 and attaches the hadith of the two Sahihs from Abu Hurayrah (RA).",
+            "bn": "লাহুল আসমাউল হুসনা: সুন্দরতম নামসমূহ তাঁরই। তাবারী বলেন, এগুলো সেই নাম, যা দিয়ে আল্লাহ এই দুই আয়াতে নিজেকে অভিহিত করেছেন। সা'দী অর্থটা আরও প্রশস্ত করেন: নামগুলো অগণিত, আল্লাহ ছাড়া কেউ সেগুলো গুনে শেষ করতে বা জানতে পারে না। তবু প্রতিটিই হুসনা, অর্থাৎ পূর্ণতার গুণ, কোনো দিক থেকে কোনো ঘাটতি নেই। তাঁর কথায়, এগুলোর সৌন্দর্যের একটি দিক হলো, আল্লাহ এগুলো ভালোবাসেন, যে এগুলো ভালোবাসে তাকেও ভালোবাসেন, আর পছন্দ করেন বান্দারা এগুলো দিয়ে তাঁকে ডাকুক ও তাঁর কাছে চাক। ইবন কাসীর ৭:১৮০-এর আলোচনার দিকে ইশারা করেন এবং আবু হুরায়রা (রাঃ) থেকে দুই সহীহ গ্রন্থের হাদীসটি আনেন।"
           },
           {
-            "en": "Al-Bukhari and Muslim both narrate from Abu Hurayrah (RA) that Allah has ninety-nine names and whoever retains them enters Paradise. Hadith scholars have long noted that the familiar enumerated list is preserved in at-Tirmidhi and Ibn Majah rather than in the two Sahihs, and that the counting itself is not part of the sound wording. Nor does the number close the matter: Ahmad records from Ibn Mas'ud (RA) a supplication asking by every name Allah has named Himself with, revealed in His Book, taught to any of His creation, or kept hidden with Him.",
-            "bn": "ইমাম বুখারী ও মুসলিম দুজনেই আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন: আল্লাহর নিরানব্বইটি নাম আছে, যে সেগুলো আয়ত্ত করবে সে জান্নাতে প্রবেশ করবে। হাদিস বিশেষজ্ঞরা অনেক আগেই লক্ষ করেছেন, নামগুলোর যে পরিচিত তালিকা, তা দুই সহীহ গ্রন্থে নেই, আছে তিরমিযী ও ইবনে মাজাহতে। আর নাম গুনে গুনে তালিকা দেওয়ার অংশটি সহীহ বর্ণনার মূল ভাষ্যের অংশ নয়। সংখ্যাটাই শেষ কথাও নয়। আহমদ ইবনে মাসঊদ (রাঃ) থেকে এমন একটি দুআ বর্ণনা করেছেন, যেখানে আল্লাহর কাছে চাওয়া হয় তাঁর প্রতিটি নামের উসিলায়: যে নামে তিনি নিজেকে ডেকেছেন, যা তাঁর কিতাবে নাজিল করেছেন, যা তাঁর সৃষ্টির কাউকে শিখিয়েছেন, কিংবা যা নিজের কাছে গোপন রেখেছেন।"
+            "en": "In al-Bukhari's wording (2736), the Messenger of Allah ﷺ said, in full: Allah has ninety-nine names, one hundred less one; whoever enumerates them will enter Paradise. Ibn Kathir notes that at-Tirmidhi's version adds a list of names, opening with those of these verses in their order; he gives no grading for the list here. Then yusabbihu lahu ma fis-samawati wal-ard: whatever is in the heavens and earth glorifies Him. Ibn Kathir pairs it with 17:44, and at-Tabari adds that all of it prostrates to Him, willingly and unwillingly. Ma'arif al-Qur'an allows the glorifying to be unspoken or real, though unheard.",
+            "bn": "বুখারীর (২৭৩৬) শব্দে রাসূলুল্লাহ ﷺ বলেছেন, পুরো বর্ণনা: আল্লাহর নিরানব্বইটি নাম আছে, একটি কম একশো; যে এগুলো আয়ত্ত করবে সে জান্নাতে প্রবেশ করবে। ইবন কাসীর জানান, তিরমিযীর বর্ণনায় এর সাথে নামের একটি তালিকা আছে, যার শুরু এই আয়াতগুলোর নাম দিয়েই, একই ক্রমে। সে তালিকার মান তিনি এখানে উল্লেখ করেননি। তারপর ইউসাব্বিহু লাহু মা ফিস-সামাওয়াতি ওয়াল-আরদ: আসমান ও যমীনে যা আছে সবই তাঁর তাসবীহ করে। ইবন কাসীর একে মেলান ১৭:৪৪-এর সাথে। তাবারী যোগ করেন, সবকিছু তাঁকে সিজদাও করে, ইচ্ছায় বা অনিচ্ছায়। মাআরিফুল কুরআনের মতে এ তাসবীহ নীরব ভাষাতেও হতে পারে, আবার সত্যিকারের তাসবীহও হতে পারে, যা মানুষের কান শোনে না।"
+          },
+          {
+            "en": "On reciting these verses, Ibn Kathir and al-Baghawi attach a report from Ma'qil ibn Yasar (RA). At-Tirmidhi's wording (2922), in full: Whoever says three times when he rises in the morning, I seek refuge with Allah, the All-Hearing, the All-Knowing, from Satan the accursed, and recites three verses from the end of Surah al-Hashr, Allah appoints seventy thousand angels to send blessings on him until evening; if he dies that day, he dies a martyr; and whoever says it in the evening holds the same rank. At-Tirmidhi graded it gharib: we know it only from this route.",
+            "bn": "এই আয়াতগুলো পাঠ সম্পর্কে ইবন কাসীর ও বাগাভী মা'কিল ইবন ইয়াসার (রাঃ) থেকে একটি বর্ণনা যুক্ত করেন। তিরমিযীর (২৯২২) শব্দে, পুরো বর্ণনা: যে ব্যক্তি সকালে উঠে তিনবার বলে, আউযু বিল্লাহিস সামীইল আলীমি মিনাশ শাইতানির রাজীম, এবং সূরা হাশরের শেষ তিন আয়াত পড়ে, আল্লাহ তার জন্য সত্তর হাজার ফেরেশতা নিযুক্ত করেন, যারা সন্ধ্যা পর্যন্ত তার জন্য দোয়া করতে থাকে। সেদিন মারা গেলে সে শহীদ হয়ে মারা যায়। আর যে সন্ধ্যায় তা বলে, তার মর্যাদাও একই। তিরমিযী একে গরীব বলেছেন: এই সূত্র ছাড়া অন্য কোনোভাবে আমরা এটি জানি না।"
           }
         ]
       }
