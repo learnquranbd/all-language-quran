@@ -243,97 +243,153 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Tender Address",
-          "bn": "স্নেহভরা এক ডাক"
+          "en": "Called by the Noblest Name",
+          "bn": "সবচেয়ে সম্মানের নামে ডাক"
         },
         "p": [
           {
-            "en": "The verse opens: qul ya 'ibadi alladhina amanu — say: O My servants who have believed. Before any command arrives, the audience is gathered in with a possessive: My servants. To be owned by Allah, in the Quran's vocabulary, is an honour, and He attaches believers to Himself before asking anything of them. Then the single instruction: ittaqu rabbakum, be mindful of your Lord — and even there the word chosen is rabbakum — your Lord, the Sustainer.",
-            "bn": "আয়াতটি শুরু হয়: কুল ইয়া 'ইবাদিল্লাযীনা আমানূ, বলুন: হে আমার মুমিন বান্দারা। কোনো আদেশ আসার আগেই শ্রোতাদের কাছে টেনে নেওয়া হয় 'আমার' শব্দটি দিয়ে: আমার বান্দারা। কুরআনের ভাষায় আল্লাহর হয়ে থাকা সম্মানের ব্যাপার। কিছু চাওয়ার আগেই তিনি মুমিনদের নিজের সঙ্গে জুড়ে নেন। তারপর একটিমাত্র নির্দেশ: ইত্তাকূ রাব্বাকুম, তোমাদের রবকে ভয় করো। সেখানেও বাছাই করা শব্দটি রাব্বাকুম: তোমাদের রব, যিনি লালন-পালন করেন।"
+            "en": "39:9 has just set the one who stands in prayer through the night, fearing the Hereafter and hoping for his Lord's mercy, against the one who does not, and asked whether those who know equal those who do not. Now the Prophet ﷺ is given words to say: qul ya 'ibadi alladhina amanu, say: O My servants who have believed. At-Tabari paraphrases it as say, O Muhammad, to My servants who believed in Allah and affirmed His Messenger. The one command is ittaqu rabbakum, be mindful of your Lord.",
+            "bn": "আগের আয়াত, ৩৯:৯, সবে দেখিয়েছে সেই মানুষকে, যে রাতভর নামাজে দাঁড়ায়, আখিরাতকে ভয় করে আর রবের রহমতের আশা রাখে। তার পাশে রেখেছে যে এমন করে না তাকে, আর প্রশ্ন করেছে: যারা জানে আর যারা জানে না, তারা কি সমান? এবার নবী ﷺ-কে বলার কথা দেওয়া হয়: কুল ইয়া 'ইবাদিল্লাযীনা আমানূ, বলুন: হে আমার মুমিন বান্দারা। তাবারী এর ব্যাখ্যা দেন এভাবে: হে মুহাম্মাদ, আমার সেই বান্দাদের বলুন, যারা আল্লাহর উপর ঈমান এনেছে আর তাঁর রাসূলকে সত্য বলে মেনেছে। আদেশ একটাই: ইত্তাকূ রাব্বাকুম, তোমাদের রবকে ভয় করো।"
           },
           {
-            "en": "The same surah repeats this manner of address: in 39:53 the call goes out to My servants who have transgressed against themselves, telling them not to despair of Allah's mercy. Read together, the two verses show one Lord speaking to His obedient and His broken with the same opening tenderness. This verse tells the believers what their striving will earn; that verse tells the sinners what their return will find. Nobody addressed as My servant is being written off.",
-            "bn": "এই সূরাতেই আবার এভাবে ডাকা হয়েছে। ৩৯:৫৩ আয়াতে ডাক যায় আমার সেই বান্দাদের কাছে, যারা নিজেদের ওপর বাড়াবাড়ি করেছে। তাদের বলা হয়, তারা যেন আল্লাহর রহমত থেকে নিরাশ না হয়। দুটি আয়াত পাশাপাশি পড়লে দেখা যায়, একই রব তাঁর অনুগত বান্দা আর ভেঙে পড়া বান্দা, দুজনের সঙ্গেই কথা শুরু করেন একই মমতায়। এই আয়াত মুমিনদের জানায়, তাদের চেষ্টা কী এনে দেবে। ওই আয়াত গুনাহগারদের জানায়, ফিরে এলে তারা কী পাবে। 'আমার বান্দা' বলে যাকে ডাকা হয়, তাকে খরচের খাতায় ফেলে দেওয়া হয়নি।"
+            "en": "At-Tabari and al-Baghawi gloss the taqwa asked for as obeying Him and avoiding disobedience to Him; al-Qurtubi puts it as guarding against His disobedience. Ibn Kathir reads the address as a command to keep on in obedience and taqwa. As-Sa'di notices the order: they are called by the noblest description, then given the best of commands, and the reason sits in rabbakum, His lordship over them and His favours, faith among them. It is, he says, like saying: O generous one, give; O brave one, fight.",
+            "bn": "তাবারী ও বাগাভী এখানে তাকওয়ার মানে বলেন: তাঁর আনুগত্য করা আর তাঁর নাফরমানি থেকে দূরে থাকা। কুরতুবীর ভাষায়: তাঁর নাফরমানি থেকে বেঁচে থাকা। ইবন কাসীর পুরো ডাকটিকে পড়েন আনুগত্য ও তাকওয়ায় অটল থাকার আদেশ হিসেবে। সা'দী খেয়াল করেন ক্রমটা। প্রথমে তাদের ডাকা হলো সবচেয়ে সম্মানের পরিচয়ে, তারপর দেওয়া হলো সবচেয়ে উত্তম আদেশ। আর কারণটা লুকিয়ে আছে রাব্বাকুম শব্দে: তাদের উপর তাঁর রুবূবিয়্যাত আর তাঁর নিয়ামত, যার মধ্যে ঈমানও একটি। তিনি বলেন, ব্যাপারটা যেন এরকম: হে দানশীল, দান করো; হে বীর, লড়াই করো।"
           }
         ]
       },
       {
         "h": {
-          "en": "Good for Those Who Do Good",
-          "bn": "ভালোর বদলে ভালো"
+          "en": "Where 'In This World' Belongs",
+          "bn": "'এই দুনিয়ায়' কোন শব্দের সঙ্গী"
         },
         "p": [
           {
-            "en": "The promise follows: lilladhina ahsanu fi hadhihi ad-dunya hasanah — for those who do good in this world there is good. The commentators read the clause in two ways. On one reading, the phrase in this world attaches to the reward: those who do good receive good already in this life — wellbeing, provision and honour before the Hereafter arrives. On the other, it attaches to the deed: for those who do good during this worldly life, there is good waiting ahead.",
-            "bn": "এরপর আসে প্রতিশ্রুতি: লিল্লাযীনা আহসানূ ফী হাযিহিদ-দুনইয়া হাসানাহ, যারা এই দুনিয়ায় ভালো কাজ করে, তাদের জন্য আছে কল্যাণ। মুফাসসিররা বাক্যটি দুইভাবে পড়েন। এক পাঠে 'এই দুনিয়ায়' কথাটি প্রতিদানের সঙ্গে যুক্ত। তখন অর্থ দাঁড়ায়: যারা ভালো কাজ করে, তারা এই জীবনেই কল্যাণ পায়, আখিরাতের আগেই পায় সুস্থতা, রিযিক আর সম্মান। অন্য পাঠে কথাটি কাজের সঙ্গে যুক্ত: যারা দুনিয়ার জীবনে ভালো কাজ করে, সামনে তাদের জন্য কল্যাণ অপেক্ষা করছে।"
+            "en": "Then the promise: lilladhina ahsanu fi hadhihi ad-dunya hasanah, for those who do good in this world, good. The phrase in this world sits between two words, and at-Tabari records that the people of interpretation differed over it. One group made it belong to hasanah: the good itself comes in this world, and for those who obeyed Allah it means health and wellbeing. He gives this from as-Suddi, who said: wellbeing and health. Others made the phrase belong to ahsanu: the doing of good happens in this world, and the good promised is Paradise.",
+            "bn": "এরপর প্রতিশ্রুতি: লিল্লাযীনা আহসানূ ফী হাযিহিদ-দুনইয়া হাসানাহ, যারা এই দুনিয়ায় ভালো কাজ করে, তাদের জন্য কল্যাণ। 'এই দুনিয়ায়' কথাটি বসেছে দুটি শব্দের মাঝখানে। তাবারী জানান, এ নিয়ে মুফাসসিরদের মধ্যে মতভেদ হয়েছে। একটি দল কথাটিকে জুড়েছেন হাসানাহ-র সঙ্গে। তখন কল্যাণটাই আসে এই দুনিয়ায়, আর যারা আল্লাহর আনুগত্য করেছে, তাদের বেলায় তার মানে সুস্থতা ও নিরাপত্তা। এ মত তিনি আনেন সুদ্দী থেকে, যিনি বলেছেন: আফিয়াত আর সুস্থতা। অন্যরা কথাটিকে জুড়েছেন আহসানূ-র সঙ্গে। তখন ভালো কাজটা হয় এই দুনিয়ায়, আর প্রতিশ্রুত কল্যাণ হলো জান্নাত।"
           },
           {
-            "en": "The readings stack rather than compete. Ihsan is not a wager that pays only after death; the doer of good tastes returns now — a settled heart, people's trust, the sweetness of worship — and the full account is still held over for later. Either way, the verse binds the promise to doing, ahsanu, a verb — the good is attached to good actually done.",
-            "bn": "দুটি পাঠ একে অপরকে কাটে না, বরং একটার ওপর আরেকটা যোগ হয়। ইহসানের প্রতিদান শুধু মৃত্যুর পরের জন্য জমা থাকে না। ভালো কাজ যে করে, সে এখনই তার কিছু ফল পায়: শান্ত মন, মানুষের আস্থা, ইবাদতের মিষ্টতা। আর পুরো হিসাব তোলা থাকে পরের জন্য। যেভাবেই পড়া হোক, আয়াত প্রতিশ্রুতিটি বেঁধে দিয়েছে কাজের সঙ্গে। আহসানূ একটি ক্রিয়া, তাই কল্যাণের প্রতিশ্রুতি সত্যিই করা ভালো কাজের জন্য।"
+            "en": "Al-Baghawi lays out the same split under other names. On his report Muqatil said the hasanah is Paradise, while as-Suddi said that in this world the good means health and wellbeing. At-Tabari gives the two views in this passage without choosing between them, and al-Baghawi does the same, so both readings stand here as the commentators left them. The grammar carries either: a reward received here for good done here, or a reward waiting beyond death for good done here.",
+            "bn": "বাগাভী একই বিভাজন দেখান অন্য নামে। তাঁর বর্ণনায় মুকাতিল বলেছেন, হাসানাহ মানে জান্নাত। আর সুদ্দী বলেছেন, এই দুনিয়ায় কল্যাণ মানে সুস্থতা ও আফিয়াত। তাবারী এ অংশে দুটি মতই উল্লেখ করেন, কোনোটিকে বেছে নেন না। বাগাভীও তাই করেন। কাজেই দুটি পাঠই এখানে থাকছে, মুফাসসিররা যেভাবে রেখে গেছেন সেভাবে। ব্যাকরণ দুটোই বহন করে। এক অর্থে দুনিয়ায় করা ভালো কাজের প্রতিদান মেলে দুনিয়াতেই। অন্য অর্থে দুনিয়ায় করা ভালো কাজের প্রতিদান অপেক্ষা করে মৃত্যুর ওপারে।"
           }
         ]
       },
       {
         "h": {
-          "en": "And His Earth Is Spacious",
-          "bn": "আর তাঁর যমীন প্রশস্ত"
+          "en": "Both Worlds in One Word",
+          "bn": "এক শব্দে দুই জগত"
         },
         "p": [
           {
-            "en": "Then a clause that seems to change the subject: wa ardu Allahi wasi'ah, and Allah's earth is spacious. The commentators explain it against the verse's Makkan setting: believers were being pressed to abandon their religion where they lived. The spacious earth is the answer — if righteousness has become impossible where you stand, move. Worship is not welded to a postcode. The same address appears in 29:56, where My servants who believe are told My earth is spacious, so worship Me alone.",
-            "bn": "তারপর এমন একটি কথা, যা শুনে মনে হয় প্রসঙ্গ বদলে গেল: ওয়া আরদুল্লাহি ওয়াসি'আহ, আর আল্লাহর যমীন প্রশস্ত। মুফাসসিররা কথাটি বোঝান আয়াতের মক্কী পটভূমি দিয়ে। মুমিনরা যেখানে থাকতেন, সেখানে তাঁদের ওপর চাপ ছিল দ্বীন ছেড়ে দেওয়ার। প্রশস্ত যমীনই তার জবাব: যেখানে আছেন, সেখানে নেক আমল অসম্ভব হয়ে গেলে অন্য কোথাও চলে যান। ইবাদত কোনো এক ঠিকানায় বাঁধা নয়। ২৯:৫৬ আয়াতেও একই ডাক, যেখানে আমার মুমিন বান্দাদের বলা হয়: আমার যমীন প্রশস্ত, সুতরাং আমারই ইবাদত করো।"
+            "en": "Al-Qurtubi finds two goods in the clause: the first, ahsanu, is obedience, and the second, hasanah, is the reward in Paradise. Then, under it is said, he gives the other view: good in this world as well, over and above the Hereafter's reward, namely health, wellbeing, victory and spoils. He reports al-Qushayri's judgement that the first is sounder, since the disbeliever too obtains the blessings of the world. Al-Qurtubi answers in his own voice: the believer obtains them alongside him, and is given Paradise besides if he is grateful for them.",
+            "bn": "কুরতুবী বাক্যটিতে দুটি কল্যাণ দেখেন। প্রথমটি, আহসানূ, হলো আনুগত্য। দ্বিতীয়টি, হাসানাহ, হলো জান্নাতের সওয়াব। তারপর 'বলা হয়' কথাটি দিয়ে তিনি অন্য মতটি আনেন: আখিরাতের সওয়াবের উপর বাড়তি হিসেবে এই দুনিয়াতেও কল্যাণ, অর্থাৎ সুস্থতা, আফিয়াত, বিজয় আর গনীমত। তিনি কুশাইরীর রায় উল্লেখ করেন যে প্রথম মতটিই বেশি সঠিক, কারণ দুনিয়ার নিয়ামত তো কাফেরও পায়। কুরতুবী নিজে এর জবাব দেন: মুমিনও তার সঙ্গে সেসব পায়, আর সেই নিয়ামতের শোকর করলে তাকে বাড়তি দেওয়া হয় জান্নাত।"
           },
           {
-            "en": "The Quran also shows the clause's edge. In 4:97 the angels ask those who wronged themselves by staying put: was not Allah's earth spacious enough for you to emigrate in it? The spaciousness is both a comfort and an excuse-removing argument. For most readers today the point generalises past migration: no job, neighbourhood or social circle that demands disobedience is the only option on Allah's wide earth. Feeling cornered is usually a failure of the map, not of the territory.",
-            "bn": "কুরআন এ কথার ধারালো দিকটাও দেখায়। ৪:৯৭ আয়াতে ফেরেশতারা তাদের জিজ্ঞেস করেন, যারা এক জায়গায় পড়ে থেকে নিজেদের ওপর জুলুম করেছিল: আল্লাহর যমীন কি এত প্রশস্ত ছিল না যে তোমরা তাতে হিজরত করতে? তাই এই প্রশস্ততা একদিকে সান্ত্বনা, অন্যদিকে অজুহাতের পথও বন্ধ করে দেয়। আজকের বেশিরভাগ পাঠকের বেলায় কথাটা হিজরতের বাইরেও খাটে। যে চাকরি, পাড়া বা বন্ধুমহলে টিকে থাকতে হলে আল্লাহর নাফরমানি করতে হয়, আল্লাহর এই বিশাল যমীনে সেটাই একমাত্র পথ নয়। কোণঠাসা লাগার কারণ সাধারণত এই যে আমাদের মনের মানচিত্রটা ছোট, যমীন ছোট নয়।"
+            "en": "He adds that the good in this world may be fair praise, and in the Hereafter the recompense. Ibn Kathir reads the clause as covering both: whoever does good deeds in this world has good in their world and their Hereafter, and the Muyassar names Paradise there and health, provision and victory here. As-Sa'di dwells on this world and lists ample provision, a tranquil soul and an expanded heart, citing 16:97: whoever does righteousness, male or female, while a believer, We will surely cause him to live a good life.",
+            "bn": "তিনি আরও বলেন, দুনিয়ার কল্যাণ হতে পারে মানুষের মুখে সুনাম, আর আখিরাতের কল্যাণ প্রতিদান। ইবন কাসীর বাক্যটিকে দুই জগতেই ছড়িয়ে পড়েন: দুনিয়ায় যে ভালো আমল করে, তার জন্য কল্যাণ আছে তার দুনিয়ায়ও, আখিরাতেও। মুয়াসসারও সেখানে জান্নাতের কথা বলে, আর এখানে সুস্থতা, রিযিক ও বিজয়ের কথা। সা'দী থামেন দুনিয়ার দিকটায়। তাঁর তালিকায় আছে প্রশস্ত রিযিক, প্রশান্ত মন আর খোলা হৃদয়। সঙ্গে তিনি আনেন ১৬:৯৭: পুরুষ হোক বা নারী, মুমিন অবস্থায় যে নেক আমল করে, আমি তাকে অবশ্যই পবিত্র জীবন দান করব।"
           }
         ]
       },
       {
         "h": {
-          "en": "Payment Without Account",
-          "bn": "হিসাব ছাড়া প্রতিদান"
+          "en": "When the Promise Seems Withheld",
+          "bn": "প্রতিশ্রুতি যখন অধরা মনে হয়"
         },
         "p": [
           {
-            "en": "The verse closes with its heaviest sentence: innama yuwaffa as-sabiruna ajrahum bi-ghayri hisab — only the patient will be paid their reward in full, without account. Yuwaffa is a passive verb from a root meaning to pay in full, to leave nothing owed. Bi-ghayri hisab, without reckoning, removes the very frame in which other rewards are described: elsewhere deeds are weighed and multiplied by known factors, but patience is paid outside the arithmetic altogether.",
-            "bn": "আয়াত শেষ হয় তার সবচেয়ে ভারী কথায়: ইন্নামা ইউওয়াফফাস-সাবিরূনা আজরাহুম বিগাইরি হিসাব, কেবল সবরকারীদেরই তাদের প্রতিদান পুরোপুরি দেওয়া হবে, কোনো হিসাব ছাড়া। ইউওয়াফফা কর্মবাচ্যের ক্রিয়া। এর ধাতুর অর্থ পুরো পাওনা মিটিয়ে দেওয়া, কিছুই বাকি না রাখা। বিগাইরি হিসাব, মানে বিনা হিসাবে: এ কথা সেই কাঠামোটাই তুলে দেয়, যার ভেতরে অন্য প্রতিদানের কথা বলা হয়। অন্য জায়গায় আমল ওজন হয়, জানা হারে বহুগুণ হয়। কিন্তু সবরের প্রতিদান দেওয়া হয় সব যোগ-গুণের একেবারে বাইরে।"
+            "en": "As-Sa'di then raises the question the clause invites. The text is general: everyone who does good has good in this world. What, then, of the believer in a land where he is persecuted and humiliated, who does not obtain it? The verse, he says, pushes the thought away with its next words, wa ardu Allahi wasi'ah, and the earth of Allah is spacious: if you are prevented from worshipping Him in one land, emigrate to another, where you can worship your Lord and establish your religion. The Muyassar gives the same sense.",
+            "bn": "এরপর সা'দী সেই প্রশ্নটি তোলেন, যা বাক্যটি শুনলে মনে জাগে। কথাটা তো সাধারণ: যে-ই ভালো কাজ করে, সে-ই দুনিয়ায় কল্যাণ পায়। তাহলে সেই মুমিনের কী হবে, যে এমন দেশে থাকে যেখানে তাকে নির্যাতন আর অপমান সইতে হয়, আর সে সেই কল্যাণ পায় না? তিনি বলেন, আয়াত নিজেই পরের কথায় এই ধারণা সরিয়ে দেয়: ওয়া আরদুল্লাহি ওয়াসি'আহ, আর আল্লাহর যমীন প্রশস্ত। এক দেশে তাঁর ইবাদত করতে বাধা পেলে অন্য দেশে হিজরত করো, যেখানে রবের ইবাদত করতে পারবে আর দ্বীন কায়েম রাখতে পারবে। মুয়াসসারও একই অর্থ দেয়।"
           },
           {
-            "en": "Ibn Kathir quotes al-Awza'i on this clause: it is not weighed for them nor measured out; it is scooped for them in abundance. The scholars connect the exception to the nature of the deed. Most acts have edges — a prayer ends, a fast breaks at sunset — but patience has no closing time; it runs through nights and years without an audience. A deed without limits is met with a reward without reckoning.",
-            "bn": "এ অংশের ব্যাখ্যায় ইবনে কাসীর আল-আওযাঈর কথা উদ্ধৃত করেন: তাদের জন্য তা ওজন করা হয় না, মাপাও হয় না; আঁজলা ভরে ভরে তুলে দেওয়া হয়। আলিমরা এ ব্যতিক্রমের কারণ খোঁজেন আমলটির ধরনের মধ্যে। বেশিরভাগ আমলের একটা শেষ আছে: নামাজ শেষ হয়, সূর্য ডুবলে রোজা ভাঙে। কিন্তু সবরের কোনো ছুটির ঘণ্টা নেই। কেউ না দেখলেও তা রাতের পর রাত, বছরের পর বছর চলতে থাকে। যে আমলের সীমা নেই, তার প্রতিদানেরও হিসাব নেই।"
+            "en": "Ma'arif al-Qur'an reads the link from the other side. The sentence before had enjoined good deeds, which might prompt the excuse that one's city, country or social milieu stops one from doing them. The spacious earth answers the excuse: if keeping the injunctions of Islam is hard in some place or setting, leave it for one that helps obedience. As-Sa'di adds that this holds in every time and place, so that every emigrant must have a refuge among the Muslims and a place where he can establish his religion.",
+            "bn": "মাআরিফুল কুরআন যোগসূত্রটা দেখে উল্টো দিক থেকে। আগের বাক্যে ভালো কাজের আদেশ এসেছে। তা শুনে কেউ অজুহাত দাঁড় করাতে পারে: আমার শহর, আমার দেশ বা চারপাশের সমাজ আমাকে ভালো কাজ করতে দেয় না। প্রশস্ত যমীনের কথা এই অজুহাতের জবাব। কোনো জায়গায় বা কোনো পরিবেশে ইসলামের বিধান মেনে চলা কঠিন হলে সেটা ছেড়ে এমন জায়গায় যান, যেখানে আনুগত্য সহজ হয়। সা'দী যোগ করেন, এ কথা সব যুগে আর সব জায়গায় খাটে। তাই প্রত্যেক মুহাজিরের জন্য মুসলিমদের মধ্যে একটা আশ্রয় আর দ্বীন কায়েম রাখার মতো একটা জায়গা থাকতেই হবে।"
           }
         ]
       },
       {
         "h": {
-          "en": "Patience in Three Directions",
-          "bn": "তিন দিকে সবর"
+          "en": "Depart From Makkah",
+          "bn": "মক্কা ছেড়ে চলে যাও"
         },
         "p": [
           {
-            "en": "The scholars, as-Sa'di among them, classify sabr into three kinds: patience in staying upon Allah's obedience, patience in holding back from what He forbade, and patience under the decrees that hurt. All three live inside this verse. Remaining mindful of your Lord under pressure is the first; refusing the exit that disobedience offers is the second; and bearing the costs of both, including leaving one's homeland, is the third. The reward without account covers the whole family of patiences.",
-            "bn": "আস-সা'দীসহ আলিমরা সবরকে তিন ভাগে ভাগ করেন: আল্লাহর আনুগত্যে টিকে থাকার সবর, তিনি যা নিষেধ করেছেন তা থেকে নিজেকে বিরত রাখার সবর, আর কষ্টদায়ক তাকদীরে সবর। এ আয়াতে তিনটিই আছে। চাপের মধ্যেও রবের তাকওয়া ধরে রাখা প্রথমটি। নাফরমানি যে সহজ পালানোর পথ দেখায়, তা ফিরিয়ে দেওয়া দ্বিতীয়টি। আর দুটোর দাম চুকানো, এমনকি জন্মভূমি ছেড়ে যাওয়া পর্যন্ত, তৃতীয়টি। বিনা হিসাবের প্রতিদান তিন রকম সবরকেই ঘিরে আছে।"
+            "en": "Who first heard this call? Al-Baghawi reports Ibn Abbas (RA): it means, depart from Makkah. Al-Qurtubi calls the command to emigrate the more apparent sense: travel from Makkah to where you will be safe. At-Tabari has it as emigrating from the land of shirk to the abode of Islam, and quotes Mujahid: so emigrate, and keep away from idols. Ibn Kathir's wording of Mujahid adds a verb, emigrate in it, strive, and keep away from idols, and al-Qurtubi's own gloss is: do not stay among those who commit sins.",
+            "bn": "এ ডাক প্রথম শুনেছিল কারা? বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: এর মানে, মক্কা ছেড়ে চলে যাও। কুরতুবী হিজরতের আদেশকেই বেশি স্পষ্ট অর্থ বলেন: মক্কা থেকে এমন জায়গায় চলে যাও, যেখানে নিরাপদ থাকবে। তাবারীর ভাষায়: শিরকের দেশ ছেড়ে ইসলামের দেশে হিজরত করো। তিনি মুজাহিদকে উদ্ধৃত করেন: অতএব হিজরত করো আর মূর্তি থেকে দূরে থাকো। ইবন কাসীরের বর্ণনায় মুজাহিদের কথায় আরেকটি ক্রিয়া আছে: তাতে হিজরত করো, জিহাদ করো, মূর্তি থেকে দূরে থাকো। কুরতুবীর নিজের ব্যাখ্যা: যারা গুনাহ করে, তাদের মধ্যে পড়ে থেকো না।"
           },
           {
-            "en": "A hadith in Muslim, from Abu Hurayrah (RA), applies the same logic of unmeasured payment to one act of patience. Every deed of the son of Adam is multiplied, a good deed ten times up to seven hundred times — except fasting, Allah says, for it is Mine and I Myself shall reward it. The scholars observe that fasting is patience in its purest, most hidden form, and its wage, like the wage in this verse, is lifted out of the multiplication table into Allah's own hand.",
-            "bn": "মুসলিমে আবু হুরাইরা (রাঃ) থেকে বর্ণিত একটি হাদিস না-মাপা প্রতিদানের এই একই নিয়ম সবরের একটি আমলের বেলায় দেখায়। আদম সন্তানের প্রতিটি আমল বহুগুণ বাড়ানো হয়, একটি নেকি দশ গুণ থেকে সাতশো গুণ পর্যন্ত। কিন্তু আল্লাহ বলেন, রোজা এর বাইরে, কারণ রোজা আমার জন্য, আর আমি নিজেই এর প্রতিদান দেব। আলিমরা বলেন, রোজা সবরের সবচেয়ে খাঁটি আর সবচেয়ে গোপন রূপ। তাই এর প্রতিদানও, এ আয়াতের প্রতিদানের মতোই, গুণের হিসাব থেকে বের করে রাখা হয়েছে আল্লাহর নিজের হাতে।"
+            "en": "Ibn Kathir reports from 'Ata: when you are called to disobedience, flee; then 'Ata recited 4:97, where the angels ask those who died wronging themselves: was not the earth of Allah spacious, so that you might emigrate in it? Al-Baghawi gives Sa'id ibn Jubayr in the same vein: whoever is ordered to commit sins, let him flee, and he draws from the verse an urging to emigrate from a town where sins are open. As 'Ata and Sa'id word it, the clause reaches any place where one is ordered to disobey.",
+            "bn": "ইবন কাসীর আতা থেকে বর্ণনা করেন: তোমাদের যখন নাফরমানির দিকে ডাকা হয়, তখন পালাও। তারপর আতা পড়েন ৪:৯৭, যেখানে ফেরেশতারা নিজেদের উপর জুলুম করে মারা যাওয়া লোকদের জিজ্ঞেস করেন: আল্লাহর যমীন কি প্রশস্ত ছিল না যে তোমরা তাতে হিজরত করতে? বাগাভী একই সুরে আনেন সাঈদ ইবন জুবায়রের কথা: যাকে গুনাহ করার হুকুম দেওয়া হয়, সে যেন পালায়। বাগাভী নিজে আয়াত থেকে বের করেন, যে শহরে গুনাহ প্রকাশ্যে চলে, সেখান থেকে হিজরতের তাগিদ। আতা আর সাঈদ যেভাবে বলেছেন, তাতে কথাটা পৌঁছে যায় এমন যেকোনো জায়গায়, যেখানে নাফরমানির হুকুম দেওয়া হয়।"
+          },
+          {
+            "en": "Two reports tie the verse to the Abyssinian emigrants. Al-Qurtubi gives Ibn Abbas (RA) on the opening words: he means Ja'far ibn Abi Talib (RA) and those who went out with him to Abyssinia. Al-Baghawi gives two sayings introduced with it is said: that it came down about the emigrants to Abyssinia, and about Ja'far and his companions, who did not leave their religion when trial grew severe, but were patient and emigrated. Neither gives a chain, so they are carried here as reports, not as an established occasion of revelation.",
+            "bn": "দুটি বর্ণনা আয়াতটিকে হাবশার মুহাজিরদের সঙ্গে জোড়ে। কুরতুবী শুরুর কথাগুলোর ব্যাখ্যায় ইবন আব্বাস (রাঃ)-এর কথা আনেন: এখানে উদ্দেশ্য জা'ফর ইবন আবী তালিব (রাঃ) আর যারা তাঁর সঙ্গে হাবশায় গিয়েছিলেন। বাগাভী 'বলা হয়' দিয়ে দুটি কথা আনেন। একটি হলো, আয়াতটি নাযিল হয়েছে হাবশার মুহাজিরদের ব্যাপারে। অন্যটি হলো, জা'ফর ও তাঁর সঙ্গীদের ব্যাপারে, যারা বিপদ কঠিন হলেও দ্বীন ছাড়েননি, সবর করেছেন আর হিজরত করেছেন। কেউই সনদ দেননি। তাই এখানে এগুলো বর্ণনা হিসেবেই থাকছে, প্রতিষ্ঠিত শানে নুযূল হিসেবে নয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "No Dead Ends",
-          "bn": "কোনো পথই বন্ধ নয়"
+          "en": "A Garden, or Wide Provision",
+          "bn": "জান্নাতের যমীন, নাকি প্রশস্ত রিযিক"
         },
         "p": [
           {
-            "en": "Put back together, the verse hands a pressured believer three supports in one breath. You are addressed as His servant, so your situation has not lowered your standing. His earth is spacious, so the door you are staring at is not the only door — a move or a different livelihood may itself be an act of taqwa. And whatever cannot be escaped can be endured for a wage no accountant will ever total. No situation this verse addresses is a dead end.",
-            "bn": "পুরো আয়াত একসঙ্গে পড়লে দেখা যায়, চাপে থাকা মুমিনের হাতে এক নিঃশ্বাসে তিনটি ভরসা তুলে দেওয়া হয়েছে। এক, আপনাকে ডাকা হয়েছে তাঁর বান্দা বলে, তাই আপনার অবস্থা আপনার মর্যাদা কমায়নি। দুই, তাঁর যমীন প্রশস্ত, তাই আপনি যে দরজার দিকে তাকিয়ে আছেন, সেটাই একমাত্র দরজা নয়। অন্য জায়গায় চলে যাওয়া বা অন্য রুজি বেছে নেওয়াও তাকওয়ার আমল হতে পারে। তিন, যা থেকে পালানোর উপায় নেই, তাতে সবর করা যায় এমন প্রতিদানের আশায়, যার যোগফল কোনো হিসাবরক্ষক কখনো মেলাতে পারবে না। এ আয়াত যে অবস্থার কথাই বলুক, কোনোটাই কানাগলি নয়।"
+            "en": "Al-Qurtubi records two other readings of the spacious earth. Under it is said, the earth meant is the land of Paradise: He encourages them with its breadth and the breadth of its bliss, as in 3:133, a garden as wide as the heavens and the earth. Paradise can be called earth, he notes, citing 39:74, where its people praise Allah who made us inherit the earth, settling in Paradise wherever we will. He then judges the first reading, the command to emigrate, the more apparent.",
+            "bn": "প্রশস্ত যমীনের আরও দুটি ব্যাখ্যা কুরতুবী উল্লেখ করেন। 'বলা হয়' দিয়ে আনা মতে এখানে যমীন মানে জান্নাতের যমীন। তার প্রশস্ততা আর তার নিয়ামতের প্রশস্ততা দেখিয়ে আল্লাহ তাদের উৎসাহ দিচ্ছেন, যেমন ৩:১৩৩ আয়াতে: এমন জান্নাত, যার প্রশস্ততা আকাশ ও পৃথিবীর সমান। তিনি দেখান, জান্নাতকেও যমীন বলা হয়। প্রমাণ ৩৯:৭৪, যেখানে জান্নাতবাসীরা আল্লাহর প্রশংসা করে বলে: তিনি আমাদের যমীনের উত্তরাধিকারী করেছেন, জান্নাতে যেখানে চাই সেখানে থাকি। তারপর তিনি রায় দেন, প্রথম অর্থটি, অর্থাৎ হিজরতের আদেশ, বেশি স্পষ্ট।"
           },
           {
-            "en": "The order of the verse is also its method for a hard season. Begin with who is speaking to you and what He calls you. Then do the good that is still possible today, trusting that good is already accruing on it. Then look honestly at the map for the doors pride or fear has kept shut. And for everything that remains, choose sabr on purpose — not numb waiting forced by circumstance, but the deliberate patience this verse describes — the kind paid without account.",
-            "bn": "কঠিন সময় পার করার পদ্ধতিও লুকিয়ে আছে আয়াতের ক্রমে। প্রথমে মনে করুন, কে আপনার সঙ্গে কথা বলছেন আর আপনাকে কী বলে ডাকছেন। তারপর আজও যে ভালো কাজটুকু করা সম্ভব, তা করুন, এই ভরসায় যে তার কল্যাণ এর মধ্যেই জমা হতে শুরু করেছে। তারপর সৎভাবে মানচিত্রে চোখ বোলান: অহংকার বা ভয় কোন কোন দরজা বন্ধ করে রেখেছে। আর এরপর যা বাকি থাকে, তার জন্য জেনে-বুঝে সবর বেছে নিন। অবস্থার চাপে অসাড় হয়ে বসে থাকা নয়, বরং এ আয়াত যে সচেতন সবরের কথা বলে, সেই সবর, যার প্রতিদান দেওয়া হয় বিনা হিসাবে।"
+            "en": "He also reports al-Mawardi, who allows that the spaciousness of the earth may mean the spaciousness of provision, since Allah provides for them from the earth, and who thinks this closer because the clause is phrased as a favour recalled. Al-Qurtubi draws a practical point from it: the verse is then evidence for moving from a land of high prices to a land of plenty, and he quotes Sufyan ath-Thawri: be in a place where you can fill your bag with bread for a dirham.",
+            "bn": "তিনি মাওয়ার্দীর মতও আনেন। মাওয়ার্দীর মতে যমীনের প্রশস্ততা বলতে রিযিকের প্রশস্ততা বোঝানো হতে পারে, কারণ আল্লাহ তাদের রিযিক দেন যমীন থেকেই। তাঁর কাছে এ অর্থই বেশি কাছাকাছি, কারণ কথাটা এসেছে অনুগ্রহ মনে করিয়ে দেওয়ার ভঙ্গিতে। কুরতুবী এখান থেকে একটা বাস্তব শিক্ষা টানেন: তাহলে আয়াতটি প্রমাণ হয় যে দুর্মূল্যের দেশ ছেড়ে সস্তা ও সচ্ছল দেশে চলে যাওয়া যায়। সঙ্গে তিনি সুফিয়ান সাওরীর কথা উদ্ধৃত করেন: এমন জায়গায় থাকো, যেখানে এক দিরহামে তোমার থলে রুটিতে ভরে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scooped, Not Weighed",
+          "bn": "মাপা নয়, আঁজলা ভরে"
+        },
+        "p": [
+          {
+            "en": "The verse ends: innama yuwaffa as-sabiruna ajrahum bi-ghayri hisab, the patient will only be paid their reward in full without account. At-Tabari explains that Allah gives the people of patience over what they met in the world their reward in the Hereafter without account. He quotes Qatada swearing: no, by Allah, there is no measure and no scale there. Ibn Kathir quotes al-Awza'i: it is not weighed for them nor measured out; it is only scooped for them. As-Suddi, in both commentaries, said: in Paradise.",
+            "bn": "আয়াত শেষ হয় এ কথায়: ইন্নামা ইউওয়াফফাস-সাবিরূনা আজরাহুম বিগাইরি হিসাব, সবরকারীদেরকেই তাদের প্রতিদান পুরোপুরি দেওয়া হবে, বিনা হিসাবে। তাবারী ব্যাখ্যা করেন, দুনিয়ায় যা কিছু তাদের উপর এসেছে তাতে যারা সবর করেছে, আল্লাহ আখিরাতে তাদের প্রতিদান দেবেন হিসাব ছাড়াই। তিনি কাতাদার কসম উদ্ধৃত করেন: না, আল্লাহর কসম, সেখানে কোনো মাপার পাত্র নেই, কোনো দাঁড়িপাল্লাও নেই। ইবন কাসীর আওযাঈর কথা আনেন: তাদের জন্য ওজন করা হয় না, মাপাও হয় না, শুধু আঁজলা ভরে তুলে দেওয়া হয়। দুজনের কিতাবেই সুদ্দীর কথা আছে: অর্থাৎ জান্নাতে।"
+          },
+          {
+            "en": "Ibn Jurayj, in Ibn Kathir, said: it has reached me that the reward of their deeds is never reckoned, but they are given more. Al-Qurtubi gathers three glosses: without estimate; given beyond the reward, since a reward matched to the deed would be by account; and without any pursuit or demand, as demand is made over this world's blessings. The Muyassar: without limit, count or measure. Ma'arif al-Qur'an adds the sense of claim: here a person must press for what is owed him, but there the reward comes unasked.",
+            "bn": "ইবন কাসীরের বর্ণনায় ইবন জুরাইজ বলেছেন: আমার কাছে খবর পৌঁছেছে, তাদের আমলের সওয়াব কখনো গুনে দেওয়া হয় না, বরং তার চেয়ে বাড়িয়ে দেওয়া হয়। কুরতুবী তিনটি ব্যাখ্যা একসঙ্গে আনেন। এক, পরিমাপ ছাড়া। দুই, সওয়াবের চেয়ে বাড়তি, কারণ আমলের মাপে দিলে তো সেটা হিসাব করেই দেওয়া হতো। তিন, কোনো জবাবদিহি বা দাবি ছাড়া, যেমন দুনিয়ার নিয়ামতের বেলায় দাবি তোলা হয়। মুয়াসসারের ভাষায়: সীমা, গণনা ও পরিমাণ ছাড়া। মাআরিফুল কুরআন দাবির অর্থটি যোগ করে। দুনিয়ায় পাওনা আদায় করতে মানুষকে নিজেই দাবি তুলতে হয়, কিন্তু সেখানে প্রতিদান আসবে না চাইতেই।"
+          },
+          {
+            "en": "Al-Baghawi reports 'Ali (RA): every obedient person is measured out and weighed for, except the patient, for whom it is poured in handfuls. This is a Companion's saying as al-Baghawi carries it, not a word of the Prophet ﷺ; al-Qurtubi gives the scholars' version, which he says is related from 'Ali too, with fasting in place of the patient. Al-Qurtubi and Ma'arif al-Qur'an also carry a longer report, from Qatada through Anas, of scales set up for charity, prayer and Hajj but not for the people of affliction. No collection is named for it, so it is not quoted here.",
+            "bn": "বাগাভী আলী (রাঃ)-এর কথা আনেন: প্রত্যেক অনুগত বান্দাকে মেপে আর ওজন করে দেওয়া হবে, শুধু সবরকারীরা ছাড়া। তাদের দেওয়া হবে আঁজলা ভরে ঢেলে। বাগাভী যেভাবে এনেছেন, তাতে এটি একজন সাহাবীর কথা, নবী ﷺ-এর বাণী নয়। কুরতুবী আনেন আলিমদের ভাষ্য, যা তাঁর কথায় আলী থেকেও বর্ণিত। সেখানে সবরকারীদের জায়গায় আছে রোজা। কুরতুবী ও মাআরিফুল কুরআন আরেকটি দীর্ঘ বর্ণনাও আনে, কাতাদা থেকে আনাস (রাঃ)-এর সূত্রে: সদকা, নামাজ আর হজের জন্য দাঁড়িপাল্লা বসানো হবে, কিন্তু বিপদগ্রস্তদের জন্য নয়। এর জন্য কোনো হাদিসগ্রন্থের নাম দেওয়া হয়নি, তাই এখানে তা উদ্ধৃত করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Patient Ones Are Meant",
+          "bn": "কোন সবরকারীদের কথা"
+        },
+        "p": [
+          {
+            "en": "Who are the patient here? Al-Qurtubi states one answer flatly: as-sabirun in this verse are those who fast. His evidence is the Prophet's ﷺ report from Allah, fasting is Mine and I shall reward it, together with the scholars' saying that every reward is measured except fasting. The fuller wording of that report, with the multiplication from which fasting is excepted, is in Sahih Muslim, quoted whole below since al-Qurtubi attaches it here.",
+            "bn": "এখানে সবরকারী কারা? কুরতুবী একটি উত্তর সরাসরি দেন: এ আয়াতে আস-সাবিরূন মানে রোজাদাররা। তাঁর দলিল আল্লাহর পক্ষ থেকে নবী ﷺ-এর জানানো বাণী: রোজা আমার, আর আমিই এর প্রতিদান দেব। সঙ্গে আলিমদের সেই কথা যে, সব প্রতিদান মাপা হয়, রোজা ছাড়া। এ বাণীর পূর্ণ ভাষ্য আছে সহীহ মুসলিমে, যেখানে বহুগুণ বাড়ানোর কথা আছে আর রোজাকে তার বাইরে রাখা হয়েছে। কুরতুবী একে এই আয়াতের সঙ্গে জুড়েছেন বলে নিচে তা পুরোটা উদ্ধৃত হলো।"
+          },
+          {
+            "en": "In Muslim (1151), from Abu Hurayrah (RA), the Messenger of Allah ﷺ said: \"Every (good) deed of the son of Adam would be multiplied, a good deed receiving a tenfold to seven-hundredfold reward. Allah, the Exalted and Majestic, has said: With the exception of fasting, for it is done for Me and I will give a reward for it, for one abandons his passion and food for My sake. There are two occasions of joy for one who fasts, joy when he breaks it, and joy when he meets his Lord, and the breath (of an observer of fast) is sweeter to Allah than the fragrance of musk.\"",
+            "bn": "মুসলিমে (১১৫১) আবু হুরাইরা (রাঃ) থেকে বর্ণিত, আল্লাহর রাসূল ﷺ বলেছেন: \"আদম সন্তানের প্রতিটি (নেক) আমল বহুগুণ বাড়ানো হয়। একটি নেকির প্রতিদান দশ গুণ থেকে সাতশো গুণ পর্যন্ত। মহান ও পরাক্রমশালী আল্লাহ বলেছেন: তবে রোজা ছাড়া। কারণ রোজা আমার জন্য, আর আমিই এর প্রতিদান দেব। সে তো আমার জন্যই তার কামনা আর খাবার ছেড়ে দেয়। রোজাদারের জন্য আছে দুটি আনন্দ: একটি ইফতারের সময়, আরেকটি যখন সে তার রবের সাক্ষাৎ পাবে। আর রোজাদারের মুখের গন্ধ আল্লাহর কাছে মিশকের সুবাসের চেয়েও উত্তম।\""
+          },
+          {
+            "en": "Others read the word wider. Al-Qurtubi reports Malik ibn Anas: it is patience over the calamities and griefs of the world. Al-Baghawi: those who stayed patient on their religion and did not leave it under harm. As-Sa'di makes it general in every kind: patience with Allah's painful decrees without resenting them, patience away from His disobedience, and patience upon His obedience until it is done. Al-Qurtubi also quotes an-Nahhas: sabir on its own is praise for whoever is patient against sins; for a calamity the phrase is sabir 'ala, patient over it.",
+            "bn": "অন্যরা শব্দটিকে আরও বড় করে পড়েন। কুরতুবী মালিক ইবন আনাসের কথা আনেন: এ হলো দুনিয়ার বিপদ আর দুঃখে সবর। বাগাভীর মতে: যারা দ্বীনের উপর সবর করেছে আর কষ্টের কারণে তা ছাড়েনি। সা'দী একে সব রকম সবরে ছড়িয়ে দেন। আল্লাহর কষ্টদায়ক তাকদীরে সবর, যাতে অসন্তোষ না আসে। তাঁর নাফরমানি থেকে সবর, যাতে তা করা না হয়। আর তাঁর আনুগত্যে সবর, যতক্ষণ না তা আদায় হয়। কুরতুবী নাহহাসের কথাও উদ্ধৃত করেন: শুধু 'সাবির' বললে তা প্রশংসা, যে গুনাহ থেকে নিজেকে সামলে রাখে তার জন্য। বিপদের বেলায় বলা হয় 'সাবির আলা', অমুক বিষয়ে সবরকারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From a Name to a Wage",
+          "bn": "পরিচয় থেকে পারিশ্রমিক পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Read in order, the verse moves from a name to a wage: My servants and taqwa; good promised to those who do good, in whichever world it arrives; an answer for the place where good cannot be done; and the patience that leaving, or holding on, will cost. The next verses, 39:11 and 39:12, turn to the Prophet ﷺ himself: he is commanded to worship Allah with sincere devotion, and to be the first of those who submit.",
+            "bn": "ক্রম ধরে পড়লে দেখা যায়, আয়াতটি একটি পরিচয় দিয়ে শুরু হয়ে শেষ হয় পারিশ্রমিকে। মুমিনদের ডাকে 'আমার বান্দারা' বলে, চায় তাকওয়া। যারা ভালো করে, তাদের কল্যাণের কথা দেয়, তা যে জগতেই আসুক। যেখানে থেকে ভালো কাজ করা যায় না, সেই অবস্থার জবাব দেয়। আর থামে সেই সবরে, যা চলে যেতে বা টিকে থাকতে লাগবে। পরের দুই আয়াত, ৩৯:১১ ও ৩৯:১২, ফেরে নবী ﷺ-এর নিজের দিকে: তাঁকে আদেশ করা হয়েছে একনিষ্ঠভাবে আল্লাহর ইবাদত করতে, আর আত্মসমর্পণকারীদের মধ্যে প্রথম হতে।"
           }
         ]
       }
