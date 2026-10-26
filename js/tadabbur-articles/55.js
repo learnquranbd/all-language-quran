@@ -1044,8 +1044,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "তাবারী, বাগাভী ও ইবন কাসীর তিনজনই আবুদ দারদা (রাঃ) থেকে একটি বর্ণনা এনেছেন। আতা ইবন ইয়াসারের সূত্রে তাবারীর ভাষায়: রাসূলুল্লাহ ﷺ একদিন এই আয়াত তিলাওয়াত করলেন। আবুদ দারদা জিজ্ঞেস করলেন, হে আল্লাহর রাসূল, সে যিনা করলেও আর চুরি করলেও? নবী ﷺ আবার আয়াতটি পড়লেন। দ্বিতীয়বার জিজ্ঞেস করলে আবারও পড়লেন। তৃতীয়বার বললেন: সে যিনা করলেও, চুরি করলেও, আবুদ দারদার নাক ধুলায় মলিন হলেও। তিনজনের কেউই বর্ণনাটির মান উল্লেখ করেননি।"
           },
           {
-            "en": "Ibn Kathir notes that an-Nasa'i narrated it, and that it was also narrated as Abu ad-Darda's own words. At-Tabari keeps a saying of his that reads like a gloss on it: if he fears the standing of his Lord, he will not commit zina and will not steal.",
-            "bn": "ইবন কাসীর জানান, নাসাঈ এটি বর্ণনা করেছেন, আর বর্ণনাটি আবুদ দারদার নিজের কথা হিসেবেও এসেছে। তাবারী তাঁর একটি উক্তি রেখেছেন, যা যেন এরই ব্যাখ্যা: সে যদি তার রবের মাকামকে ভয় করে, তবে যিনা করবে না, চুরিও করবে না।"
+            "en": "Al-Baghawi's version sets the scene on the minbar, with the Prophet ﷺ reciting the verse as he preached. Ibn Kathir notes that an-Nasa'i narrated it by two chains, and that it was also narrated as Abu ad-Darda's own words. At-Tabari keeps that form through Sayyar: someone put the same question to Abu ad-Darda about this verse, and he answered, even if he commits zina and steals. Then he added: if he fears the standing of his Lord, he will not commit zina and will not steal.",
+            "bn": "বাগাভীর বর্ণনায় দৃশ্যটা মিম্বরের: নবী ﷺ খুতবা দিতে দিতে আয়াতটি পড়ছিলেন। ইবন কাসীর জানান, নাসাঈ এটি দুটি সনদে বর্ণনা করেছেন, আর বর্ণনাটি আবুদ দারদার নিজের কথা হিসেবেও এসেছে। তাবারী সেই রূপটি রেখেছেন সাইয়ারের সূত্রে। কেউ এই আয়াত নিয়ে আবুদ দারদাকে একই প্রশ্ন করল, আর তিনি জবাব দিলেন, যিনা করলেও, চুরি করলেও। তারপর যোগ করলেন: সে যদি তার রবের মাকামকে ভয় করে, তবে যিনা করবে না, চুরিও করবে না।"
           }
         ]
       },
