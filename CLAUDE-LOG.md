@@ -14,7 +14,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## LIVE STATE (2026-10-24, DEPTH PASS resumed (USER: "continue"): 90/299 done, v1098 live. NORMAL: 5h 0% (resets Sat 24 Oct 12:10), 7d 40% (resets Mon 26 Oct 16:00); 5 drafters)
+## LIVE STATE (2026-10-26 14:50, DEPTH PASS STOPPED on user instruction (after "run another 5-6"). 159/299 done. ALL COMMITS v1099-v1167 PUSHED (origin+pro, verified). LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1167. Budget at stop: 5h 18%, 7d 93% (resets Mon 26 Oct 16:00). Nothing in flight. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 28:56 28:77 28:88 29:2-3 29:41 29:69 30:21 30:22 30:41 30:60 31:14 31:17-19 31:22 31:27 32:16-17 33:21 33:35 are PREPPED (audit folders ready); 29:45 29:60 29:64 are not; launch 5 drafters per the skill. Lesson today: never run ship-upgrade.sh on two keys before committing the first (v1147-v1148 became bump-only and three articles landed in one commit, v1149))
 USER: "continue unfinished job" -> the depth pass of the original 299 short articles (650-860 words, ~6 sections) to the deep template.
 - Articles only; the shipped cards are KEPT (their 13-lang translations are keyed by the EN text; rewriting a card = English in 13 langs).
 - Tools: `node tools/wip/round11/upgrade-queue.js [N]` (next keys), prep.js as before, drafter prompt "Read tools/wip/round11/BRIEF.md and follow it exactly. DEPTH PASS (§7). Key: X." + watch-points, gate.js (no notes file = depth mode), `tools/wip/round11/ship-upgrade.sh <key>` (merge-articles.js --replace, new flag), commit.sh as before.
@@ -113,11 +113,77 @@ USER: "continue unfinished job" -> the depth pass of the original 299 short arti
 | 13:24 | v1096 | DONE |
 | 13:28 | v1094 | DONE |
 | 14:1 | v1095 | DONE |
-| 14:7 | | LAUNCHED |
+| 14:7 | v1099 | DONE |
 | 14:24-26 | v1098 | DONE |
-| 14:34 | | LAUNCHED |
+| 14:34 | v1101 | DONE |
 | 15:9 | v1097 | DONE |
-| 15:49 | | LAUNCHED |
+| 15:49 | v1100 | DONE |
+| 14:40-41 | v1106 | DONE |
+| 16:53 | v1108 | DONE |
+| 16:78 | v1107 | DONE |
+| 16:90 | v1111 | DONE |
+| 16:96-97 | v1110 | DONE |
+| 16:114 | v1109 | DONE |
+| 16:125 | v1112 | DONE |
+| 16:127 | v1113 | DONE |
+| 17:9 | v1114 | DONE |
+| 17:23-24 | v1115 | DONE |
+| 17:26 | v1116 | DONE |
+| 17:37 | v1118 | DONE |
+| 17:44 | v1119 | DONE |
+| 17:70 | v1117 | DONE |
+| 17:78-79 | v1120 | DONE |
+| 17:80 | v1121 | DONE |
+| 17:82 | v1123 | DONE |
+| 17:110 | v1124 | DONE |
+| 18:7 | v1122 | DONE |
+| 18:23-24 | v1126 | DONE |
+| 18:45 | v1125 | DONE |
+| 18:46 | v1128 | DONE |
+| 18:109-110 | v1129 | DONE |
+| 19:4 | v1127 | DONE |
+| 19:65 | v1130 | DONE |
+| 19:96 | v1131 | DONE |
+| 20:7-8 | v1132 | DONE |
+| 20:25-28 | v1134 | DONE |
+| 20:82 | v1133 | DONE |
+| 20:114 | v1135 | DONE |
+| 20:124 | v1137 | DONE |
+| 20:132 | v1136 | DONE |
+| 21:30 | v1139 | DONE |
+| 21:35 | v1138 | DONE |
+| 21:87 | v1140 | DONE |
+| 21:89 | v1141 | DONE |
+| 21:107 | v1142 | DONE |
+| 22:7 | v1143 | DONE |
+| 22:46 | v1144 | DONE |
+| 22:73 | v1145 | DONE |
+| 23:1-3 | v1146 | DONE |
+| 23:14 | v1149 | DONE (bundled in the v1149 commit) |
+| 23:115-116 | v1149 | DONE (bundled in the v1149 commit) |
+| 23:118 | v1149 | DONE (bundled in the v1149 commit) |
+| 24:22 | v1150 | DONE |
+| 24:35 | v1154 | DONE |
+| 24:39 | v1153 | DONE |
+| 25:47 | v1151 | DONE |
+| 25:58 | v1152 | DONE |
+| 25:63 | v1155 | DONE |
+| 25:64 | v1156 | DONE |
+| 25:70 | v1158 | DONE |
+| 25:72 | v1159 | DONE |
+| 25:74 | v1157 | DONE |
+| 25:77 | v1160 | DONE |
+| 26:80 | v1161 | DONE |
+| 26:83-85 | v1162 | DONE |
+| 26:88-89 | v1165 | DONE |
+| 27:19 | v1164 | DONE |
+| 27:40 | v1166 | DONE |
+| 27:62 | v1167 | DONE |
+| 28:24 | v1163 | DONE |
+| 15:85 | v1102 | DONE |
+| 15:99 | v1103 | DONE |
+| 15:56 | v1105 | DONE |
+| 16:18 | v1104 | DONE |
 
 ## Earlier (2026-10-19 e): hadith citation check DONE, v1008 (committed, not pushed; USER: commit only)
 - 5 agents (tools/content-i18n/work/HADCHK/BRIEF.md) checked ~440 citations: islam-nafl 4 fixes, makruh+zakat 7, mustahabb 2 (istikhara Bukhari 1162 -> 1166, confirmed sunnah.com; plus names-data x3 and prayer guide x1 fixed by hand), amal+sawm 3, wajib+fard+hajj 10 (+5 Bengali ও corruptions in Hajj). Open doubts: HADCHK/DOUBTS.md (incl. a sawm kaffara RULING for the user).
