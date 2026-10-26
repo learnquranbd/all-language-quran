@@ -159,93 +159,153 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Conclusion, Not an Opening",
-          "bn": "সিদ্ধান্ত, সূচনা নয়"
+          "en": "Where the Argument Lands",
+          "bn": "যুক্তির শেষ গন্তব্য"
         },
         "p": [
           {
-            "en": "This verse does not begin a sentence; it continues one. 22:5 addresses people who are in doubt about the resurrection and lays before them two things they had all watched happen: a human being made by stages, and dry ground that quivers and swells and grows every beautiful kind once rain falls on it. 22:6 then draws the conclusion with dhalika bi-anna, that is because, and 22:7 carries the same particle forward.",
-            "bn": "এই আয়াত নতুন কোনো বাক্য শুরু করে না, আগের বাক্যটিই চালিয়ে নেয়। 22:5 কথা বলে তাদের সঙ্গে, যারা পুনরুত্থান নিয়ে সন্দেহে আছে। তাদের সামনে রাখে এমন দুটি জিনিস, যা তারা সবাই নিজের চোখে ঘটতে দেখেছে: ধাপে ধাপে মানুষের সৃষ্টি, আর শুকনো জমি, বৃষ্টি পড়লেই যা নড়ে ওঠে, ফুলে ওঠে আর সব রকম নয়নজুড়ানো উদ্ভিদ জন্মায়। এরপর 22:6 'যালিকা বি-আন্না', অর্থাৎ 'এ কারণে যে', বলে সিদ্ধান্ত টানে, আর 22:7 সেই একই অব্যয়কে সামনে টেনে নেয়।"
+            "en": "Wa anna-s-sa'ata atiyatun la rayba fiha, wa anna-llaha yab'athu man fil-qubur: and that the Hour is coming, no doubt about it, and that Allah will raise those in the graves. The verse opens with wa anna, and that, so it is the tail of a sentence begun earlier. 22:5 addressed people in doubt about the resurrection and set two things before them: the stages by which a human being is made, and dead earth that stirs and swells when rain falls. 22:6 then opened with dhalika bi-anna, that is because.",
+            "bn": "ওয়া আন্নাস সাআতা আতিয়াতুল লা রাইবা ফীহা, ওয়া আন্নাল্লাহা ইয়াবআসু মান ফিল কুবূর: আর কিয়ামাত আসছেই, তাতে কোনো সন্দেহ নেই, আর কবরে যারা আছে আল্লাহ তাদের উঠাবেন। আয়াতের শুরু ওয়া আন্না দিয়ে, মানে 'আর এই যে'। অর্থাৎ বাক্যটা আগেই শুরু হয়েছে, এখানে তার শেষাংশ। ২২:৫ আয়াত পুনরুত্থান নিয়ে সন্দিহান মানুষকে ডেকে দুটি জিনিস সামনে রেখেছিল। একটি হলো মানুষ গড়ে ওঠার ধাপগুলো, অন্যটি মরা মাটি, বৃষ্টি পড়লে যা নড়ে ওঠে, ফুলে ওঠে। তারপর ২২:৬ শুরু হয়েছিল যালিকা বিআন্না দিয়ে: এর কারণ এই যে।"
           },
           {
-            "en": "Count the clauses hanging on that particle and there are five. 22:6 gives three: that Allah is al-Haqq, the Real; that He gives life to the dead; that He is competent over all things. 22:7 adds the remaining two: that the Hour is coming, no doubt about it, and that Allah resurrects whoever is in the graves. The Hour is not simply asserted here. It is concluded from evidence the listener has already granted.",
-            "bn": "সেই অব্যয়ের সঙ্গে জুড়ে থাকা বাক্যাংশগুলো গুনলে পাওয়া যায় পাঁচটি। 22:6 দেয় তিনটি: আল্লাহ-ই আল-হক্ব, প্রকৃত সত্য; তিনিই মৃতকে জীবিত করেন; তিনি সব বিষয়ে ক্ষমতাবান। 22:7 যোগ করে বাকি দুটি: কিয়ামত আসছে, এতে কোনো সন্দেহ নেই; আর কবরে যে আছে, আল্লাহ তাকে পুনরুত্থিত করবেন। আয়াত এখানে কিয়ামতের কথা শুধু ঘোষণা করছে না। শ্রোতা যে প্রমাণ আগেই মেনে নিয়েছে, তা থেকেই কিয়ামতের সিদ্ধান্তে পৌঁছাচ্ছে।"
+            "en": "The abridged English of Ibn Kathir sets the whole passage under a single heading: evidence of the resurrection in the creation of man and of plants. When Allah speaks of disbelief in the resurrection, he writes, He also mentions the evidence of His power to resurrect, visible in the way He begins creation. Of the barren earth he says it is another sign of that power: just as Allah brings dead, barren ground back to life, He brings the dead back. There are two proofs, then, and 22:7 states what they were set out to prove.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য পুরো অংশটিকে এক শিরোনামের নিচে রাখে: মানুষ ও উদ্ভিদের সৃষ্টিতে পুনরুত্থানের প্রমাণ। তিনি লেখেন, আল্লাহ যখন পুনরুত্থান অস্বীকারের কথা বলেন, তখন সঙ্গে সঙ্গে তুলে ধরেন পুনরায় জীবিত করার ক্ষমতার প্রমাণও। সে প্রমাণ দেখা যায় তাঁর প্রথমবার সৃষ্টির ধরনেই। অনুর্বর মাটি সম্পর্কে তিনি বলেন, এটি সেই ক্ষমতার আরেক নিদর্শন। আল্লাহ যেমন মরা, বন্ধ্যা মাটিকে আবার জীবন দেন, তেমনি মৃতদেরও ফিরিয়ে আনবেন। প্রমাণ তাহলে দুটি, আর সেগুলো যা প্রমাণ করতে আনা হয়েছিল, ২২:৭ ঠিক সেটাই ঘোষণা করে।"
           }
         ]
       },
       {
         "h": {
-          "en": "Atiyah: Already on the Way",
-          "bn": "আতিয়াহ: ইতিমধ্যেই পথে"
+          "en": "The Verb Left Unspoken",
+          "bn": "যে ক্রিয়াটি উহ্য রইল"
         },
         "p": [
           {
-            "en": "The Arabic does not use a future verb for the Hour. It uses an active participle, atiyah, one that is coming — the form used of a traveller already on the road rather than of a journey being planned. The same participle describes the Hour in 15:85, in 20:15 and in 40:59, and 40:59 is almost this verse's twin: indeed the Hour is coming, no doubt about it, but most of the people do not believe.",
-            "bn": "আরবিতে কিয়ামতের বেলায় ভবিষ্যৎকালের ক্রিয়া আসেনি। এসেছে ইসমে ফায়েল 'আতিয়াহ', অর্থাৎ যে আসছে। এই রূপ বলা হয় সেই মুসাফিরের বেলায়, যে ইতিমধ্যে পথে বেরিয়ে পড়েছে; যে সফরের কেবল পরিকল্পনা চলছে, তার বেলায় নয়। একই শব্দে কিয়ামতের কথা এসেছে 15:85, 20:15 ও 40:59-এ। আর 40:59 তো প্রায় এই আয়াতেরই যমজ: নিশ্চয় কিয়ামত আসছে, এতে কোনো সন্দেহ নেই, কিন্তু অধিকাংশ মানুষ বিশ্বাস করে না।"
+            "en": "Al-Qurtubi stops on a point of grammar that changes how the verse is read. Wa anna-s-sa'ata atiyatun, he says, is joined to dhalika bi-anna-llaha huwa al-haqq in its wording, but not in its meaning. One cannot say that Allah did what was described, shaped the child and greened the earth, because the Hour is coming; the Hour is not the cause of those things. So a verb must be understood that carries the clause, and he supplies it: wa li-ya'lamu, and so that they may know that the Hour is coming.",
+            "bn": "কুরতুবী ব্যাকরণের এমন একটি বিষয়ে থামেন, যা আয়াত পড়ার ধরনটাই বদলে দেয়। তিনি বলেন, ওয়া আন্নাস সাআতা আতিয়াহ শব্দের দিক থেকে যুক্ত হয়েছে যালিকা বিআন্নাল্লাহা হুওয়াল হাক্ক-এর সঙ্গে, কিন্তু অর্থের দিক থেকে নয়। এ কথা বলা যায় না যে কিয়ামাত আসছে বলে আল্লাহ শিশুকে গড়েছেন আর মাটিকে সবুজ করেছেন। কিয়ামাত তো ওসবের কারণ নয়। তাই এমন একটি ক্রিয়া ধরে নিতে হবে যা বাক্যাংশটিকে বহন করে। তিনি সেটা বলে দেন: ওয়া লিইয়া'লামূ, যাতে তারা জানতে পারে যে কিয়ামাত আসছে।"
           },
           {
-            "en": "The surah had already put its reader inside that arrival. 22:1 calls people to fear their Lord because the convulsion of the Hour is a terrible thing, and 22:2 describes a nursing mother distracted from the child she was nursing. By the time the argument of 22:5 is made and this conclusion drawn, the Hour has been shown first and proved afterwards.",
-            "bn": "সূরাটি আগেই তার পাঠককে সেই আগমনের ভেতরে বসিয়ে দিয়েছে। 22:1 মানুষকে তাদের রবকে ভয় করতে বলে, কারণ কিয়ামতের প্রকম্পন এক ভয়ংকর ব্যাপার; আর 22:2 বর্ণনা করে সেই মাকে, যে দুধ খাওয়াতে খাওয়াতে নিজের শিশুকেই ভুলে যায়। 22:5-এর যুক্তি আর এখানকার সিদ্ধান্তের আগেই কিয়ামতকে চোখের সামনে দেখিয়ে দেওয়া হয়েছে। অর্থাৎ আগে দেখানো, পরে প্রমাণ।"
+            "en": "Some English renderings put [that they may know] in brackets at the start of the verse; that bracket is the verb al-Qurtubi supplies. At-Tabari reaches the same place in other words: wa li-tuqinu bi-dhalika, and so that you may be certain of it, that the Hour in which I promised to raise the dead from their graves is coming without fail. On this reading 22:6 names the reasons behind what the listener has seen, and 22:7 names the purpose of showing it. The evidence was laid out so that certainty about the Hour would follow.",
+            "bn": "কোনো কোনো ইংরেজি অনুবাদে আয়াতের শুরুতে বন্ধনীর ভেতরে লেখা থাকে [যাতে তারা জানে]। কুরতুবী যে ক্রিয়াটি ধরে নেন, বন্ধনীটি সেটাই। তাবারীও একই জায়গায় পৌঁছান, তবে অন্য শব্দে: ওয়া লিতূকিনূ বিযালিক, যাতে তোমরা এ বিষয়ে নিশ্চিত হও। অর্থাৎ যে কিয়ামাতে মৃতদের কবর থেকে উঠানোর ওয়াদা আমি দিয়েছি, তা আসবেই, এর কোনো অন্যথা নেই। এ পাঠে ২২:৬ বলে দেয় শ্রোতা যা দেখেছে তার পেছনের কারণ, আর ২২:৭ বলে তা দেখানোর উদ্দেশ্য। প্রমাণগুলো সাজানো হয়েছিল যেন কিয়ামাত নিয়ে নিশ্চিত বিশ্বাস জন্মায়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Where the Doubt Was Named",
-          "bn": "যেখানে সন্দেহের কথা উঠেছিল"
+          "en": "What 22:6 Lays Down",
+          "bn": "২২:৬ যে ভিত গড়ে"
         },
         "p": [
           {
-            "en": "The passage opens and closes on one root. 22:5 begins by addressing whoever is in rayb about the resurrection, and 22:7 ends the argument with la rayba fiha, no doubt about it. The evidence sits between the two. The verse is not reporting that everyone has been persuaded: 22:55 says plainly that those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly.",
-            "bn": "অনুচ্ছেদটি শুরু ও শেষ হয় একই শব্দমূলে। 22:5 শুরু হয় তাদের সম্বোধন করে, যারা পুনরুত্থান নিয়ে 'রাইব'-এ, অর্থাৎ সন্দেহে আছে। আর 22:7 যুক্তিটি শেষ করে 'লা রায়বা ফীহা' দিয়ে, অর্থাৎ এতে কোনো সন্দেহ নেই। প্রমাণগুলো রাখা আছে এ দুইয়ের মাঝখানে। আয়াত এ কথা বলছে না যে সবাই মেনে নিয়েছে। 22:55 তো স্পষ্টই বলে, যারা কুফরি করে তারা এ বিষয়ে সন্দেহে থেকেই যাবে, যতক্ষণ না হঠাৎ কিয়ামত তাদের উপর এসে পড়ে।"
+            "en": "The clauses of 22:6 are the ground the closing pair stands on, and Ibn Kathir glosses each of them. Allah is al-haqq, the Truth, which he explains as the Creator, the Controller, He who does as He wills. He gives life to the dead just as He gives life to dead earth and brings out of it every kind of growth. Here he cites 41:39, where the earth lies humbled until water comes down and it stirs and swells, and the verse concludes that He who gave it life will give life to the dead.",
+            "bn": "২২:৬ আয়াতের বাক্যাংশগুলোই সেই ভিত, যার ওপর শেষ জোড়াটি দাঁড়িয়ে। ইবন কাসীর প্রতিটির ব্যাখ্যা দেন। আল্লাহ আল-হাক্ক, পরম সত্য, মানে তিনি স্রষ্টা, পরিচালক, যা ইচ্ছা তা-ই করেন। তিনি মৃতকে জীবন দেন, ঠিক যেমন মরা মাটিকে জীবন দিয়ে তা থেকে বের করে আনেন নানা জাতের উদ্ভিদ। এখানে তিনি ৪১:৩৯ আয়াত উদ্ধৃত করেন। সেখানে মাটি নিস্তেজ পড়ে থাকে, তারপর পানি নামলে তা নড়ে ওঠে, ফুলে ওঠে। আয়াতটি শেষ হয় এই সিদ্ধান্তে: যিনি মাটিকে জীবিত করেছেন, তিনিই মৃতদের জীবিত করবেন।"
           },
           {
-            "en": "What is denied is a ground for doubt in the thing itself, not the existence of doubters. The very next verse shows the distinction is deliberate: 22:8 turns to the man who disputes about Allah with no knowledge, no guidance and no illuminating book. Doubt of that kind is not a position the verse has failed to answer. It is a posture, and the surah names it for what it is and moves on.",
-            "bn": "অস্বীকার করা হচ্ছে বিষয়টির মধ্যে সন্দেহের কোনো কারণ থাকাকে, সন্দেহকারী মানুষের অস্তিত্বকে নয়। পার্থক্যটা যে ইচ্ছাকৃত, তা ঠিক পরের আয়াতেই বোঝা যায়: 22:8 কথা বলে সেই লোকের, যে কোনো জ্ঞান, কোনো হিদায়াত, কোনো আলো দেওয়া কিতাব ছাড়াই আল্লাহকে নিয়ে তর্ক করে। এমন সন্দেহ এমন কোনো মত নয়, যার জবাব আয়াত দিতে পারেনি। এটা নিছক একটা ভঙ্গি। সূরা একে তার আসল নামে ডেকে সামনে এগিয়ে যায়।"
+            "en": "For the third clause, that He is competent over all things, Ibn Kathir sets 36:82 beside it: His command, when He intends a thing, is only to say to it Be, and it is. Read in order, the five anna clauses climb. Allah is real; He revives; He is able; the Hour is coming; and those in the graves will be raised. The last two turn a general power into a coming event and a particular people, the dead who lie in their graves.",
+            "bn": "তৃতীয় বাক্যাংশ, তিনি সব কিছুর ওপর ক্ষমতাবান, এর পাশে ইবন কাসীর রাখেন ৩৬:৮২ আয়াত: তিনি যখন কোনো কিছু চান, তাঁর আদেশ শুধু এটুকু যে তিনি বলেন 'হও', আর তা হয়ে যায়। ক্রম ধরে পড়লে আন্না দিয়ে শুরু পাঁচটি বাক্যাংশ ধাপে ধাপে ওপরে ওঠে। আল্লাহ সত্য। তিনি জীবন দেন। তিনি সক্ষম। কিয়ামাত আসছে। আর কবরবাসীদের উঠানো হবে। শেষ দুটি বাক্যাংশ সাধারণ এক ক্ষমতাকে পরিণত করে আসন্ন এক ঘটনায়, আর নির্দিষ্ট করে দেয় কাদের কথা হচ্ছে: যারা কবরে শুয়ে আছে।"
           }
         ]
       },
       {
         "h": {
-          "en": "Whoever Is in the Graves",
-          "bn": "যারা কবরে আছে"
+          "en": "No Doubt About Its Coming",
+          "bn": "আগমন নিয়ে সংশয় নেই"
         },
         "p": [
           {
-            "en": "22:6 had said He gives life to al-mawta, the dead. 22:7 says something narrower and more personal: Allah raises man fi al-qubur, whoever is in the graves. Man is the Arabic relative used of persons rather than of things, so the sentence keeps the one raised a someone. Nothing here suggests a general renewal of life in which individuals are lost. A grave holds a particular person, and it is that person who is named.",
-            "bn": "22:6 বলেছিল, তিনি 'আল-মাওতা', অর্থাৎ মৃতদের জীবিত করেন। 22:7 আরও নির্দিষ্ট, আরও ব্যক্তিগত একটি কথা বলে: আল্লাহ পুনরুত্থিত করবেন 'মান ফিল-কুবূর', অর্থাৎ কবরে যে আছে তাকে। আরবিতে 'মান' শব্দটি বলা হয় মানুষের বেলায়, জিনিসের বেলায় নয়। তাই যাকে ওঠানো হবে, বাক্যে সে একজন 'কেউ' হয়েই থাকে। এখানে এমন কোনো ঢালাও প্রাণ ফেরানোর ইঙ্গিত নেই, যাতে আলাদা আলাদা মানুষ হারিয়ে যায়। কবরে শুয়ে থাকে নির্দিষ্ট একজন মানুষ, আর ঠিক তার কথাই বলা হচ্ছে।"
+            "en": "Atiyatun is the word for the Hour. Ibn Kathir glosses it in the Arabic as ka'inatun, it will come to be, la shakka fiha wa la mirya, with no doubt in it and no wavering; the abridged English puts it as it will inevitably come to pass. At-Tabari explains la rayba fiha as la shakka fi maji'iha wa huduthiha, no doubt about its coming and its taking place. Al-Qurtubi and the Muyassar give the same plain sense, no doubt. All of them read the phrase as a denial of doubt about the event itself.",
+            "bn": "কিয়ামাতের জন্য শব্দটি আতিয়াহ, আসন্ন। ইবন কাসীর আরবি তাফসীরে এর অর্থ করেন কাইনাহ, তা ঘটবেই, লা শাক্কা ফীহা ওয়া লা মিরইয়াহ, তাতে না আছে সন্দেহ, না দোলাচল। সংক্ষিপ্ত ইংরেজি ভাষ্যে কথাটা দাঁড়ায়: তা অনিবার্যভাবে ঘটবে। তাবারী লা রাইবা ফীহা-র ব্যাখ্যা দেন লা শাক্কা ফী মাজীইহা ওয়া হুদূসিহা, এর আসা ও ঘটে যাওয়ায় কোনো সন্দেহ নেই। কুরতুবী ও মুয়াসসারও একই সরল অর্থ দেন: কোনো সন্দেহ নেই। সবাই বাক্যাংশটিকে পড়েন ঘটনাটি নিয়েই সন্দেহের অস্বীকার হিসেবে।"
           },
           {
-            "en": "The same surah says it a third way. 22:66 lists the sequence with its first step already behind us: He is the One who gave you life, then causes you to die, then gives you life. The first has happened to every reader, and no one doubts the second; only the third is disputed. 100:9 asks whether man does not know that a day comes when what is in the graves is scattered out.",
-            "bn": "একই সূরা কথাটি তৃতীয়বার অন্যভাবে বলে। ২২:৬৬ এই ক্রমটি এমনভাবে বলে যে তার প্রথম ধাপ আমরা পেরিয়ে এসেছি: তিনিই তোমাদের জীবন দিয়েছেন, তারপর মৃত্যু ঘটাবেন, তারপর আবার জীবিত করবেন। প্রথমটি প্রত্যেক পাঠকের জীবনে ঘটে গেছে, দ্বিতীয়টি নিয়ে কারও সন্দেহ নেই; বিতর্ক কেবল তৃতীয়টি নিয়ে। ১০০:৯ জিজ্ঞেস করে, মানুষ কি জানে না যে এমন দিন আসে যেদিন কবরে যা আছে তা বের করে ছড়িয়ে দেওয়া হবে?"
+            "en": "The form matters for how the verse is heard. La rayba fiha is a statement, literally no doubt is in it; it describes the Hour and does not, in its own wording, give an order. At-Tabari draws the address out of it for the listener: fa-la tashukku fi dhalika wa la tamtaru fihi, so do not doubt it and do not dispute over it. As-Sa'di puts the consequence in a single clause: fa-la wajha li-istib'adiha, there is no ground for thinking it far-fetched.",
+            "bn": "আয়াতটি কীভাবে শোনা হবে, তাতে বাক্যের গড়ন গুরুত্বপূর্ণ। লা রাইবা ফীহা একটি বিবৃতি, আক্ষরিক অর্থে 'তাতে কোনো সন্দেহ নেই'। এটি কিয়ামাতের বর্ণনা দেয়, নিজের শব্দে কোনো আদেশ দেয় না। তাবারী সেখান থেকে শ্রোতার জন্য সম্বোধনটা বের করে আনেন: ফালা তাশুক্কূ ফী যালিকা ওয়া লা তামতারূ ফীহি, কাজেই এতে সন্দেহ কোরো না, এ নিয়ে বিতর্কও কোরো না। সা'দী পরিণতিটা বলেন এক বাক্যাংশে: ফালা ওয়াজহা লিইসতিবআদিহা, একে অসম্ভব বা সুদূরপরাহত ভাবার কোনো ভিত্তি নেই।"
+          },
+          {
+            "en": "Istib'ad, treating a thing as remote, names a mood more than an argument: the Hour pushed off as unlikely rather than disproved. The passage meets that mood with its own frame. 22:5 opened with in kuntum fi raybin min al-ba'th, if you are in doubt about the raising, and 22:7 closes with la rayba fiha. The doubt named at the start is answered at the end, and the evidence of the stages of life and the revived earth sits between them.",
+            "bn": "ইসতিবআদ মানে কোনো কিছুকে দূরের ব্যাপার ভাবা। এটা যুক্তির চেয়ে বেশি এক মানসিকতা: কিয়ামাতকে খণ্ডন করা হয় না, শুধু অসম্ভাব্য বলে সরিয়ে রাখা হয়। আলোচ্য অংশটি সেই মানসিকতার জবাব দেয় নিজের কাঠামো দিয়েই। ২২:৫ শুরু হয়েছিল ইন কুনতুম ফী রাইবিম মিনাল বা'স দিয়ে, পুনরুত্থান নিয়ে যদি তোমরা সন্দেহে থাকো। আর ২২:৭ শেষ হয় লা রাইবা ফীহা দিয়ে। শুরুতে যে সন্দেহের নাম নেওয়া হয়েছিল, শেষে তার জবাব। মাঝখানে জীবনের ধাপ আর সজীব হয়ে ওঠা মাটির প্রমাণ।"
           }
         ]
       },
       {
         "h": {
-          "en": "Why the Date Is Hidden",
-          "bn": "তারিখটি কেন গোপন"
+          "en": "Raised for the Reckoning",
+          "bn": "হিসাবের জন্য উত্থান"
         },
         "p": [
           {
-            "en": "20:15 adds the reason the date is kept hidden: the Hour is coming, and, He says, I almost conceal it, so that every soul may be recompensed for what it strives for. A published date would turn preparation into a deadline, and deadlines are met late. Concealment spreads readiness across a whole life instead of concentrating it into a final week that nobody has been promised in the first place.",
-            "bn": "তারিখটি কেন গোপন রাখা হয়েছে, তার কারণ জানায় 20:15। আল্লাহ বলেন, কিয়ামত আসছে, আমি তা প্রায় গোপনই রাখি, যাতে প্রত্যেক প্রাণ তার চেষ্টা অনুযায়ী প্রতিদান পায়। তারিখ ঘোষণা করা থাকলে প্রস্তুতি হয়ে যেত একটা শেষ সময়সীমা, আর সময়সীমার কাজ মানুষ সারে দেরিতে। গোপন রাখার ফলে প্রস্তুতি ছড়িয়ে পড়ে সারা জীবনে। তা আর জমা হয় না শেষ একটি সপ্তাহে, যে সপ্তাহ পাওয়ার কথা কাউকে দেওয়াই হয়নি।"
+            "en": "Wa anna-llaha yab'athu man fil-qubur. Ibn Kathir's Arabic says Allah yu'iduhum, restores them, after they have become decayed remains in their graves, and yujiduhum ba'da al-'adam, brings them into being after nonexistence. The abridged English renders it: He will bring them back to life after they have become dust, and create them anew after they have become nothing. The raising is described as a making again, which is the very thing the creation from dust in 22:5 had already shown once.",
+            "bn": "ওয়া আন্নাল্লাহা ইয়াবআসু মান ফিল কুবূর। ইবন কাসীরের আরবি ভাষ্য বলে, আল্লাহ ইউঈদুহুম, তাদের ফিরিয়ে আনবেন, কবরে গলে-পচে হাড়গোড় হয়ে যাওয়ার পর। আর ইউজিদুহুম বা'দাল আদাম, অস্তিত্বহীন হয়ে যাওয়ার পর আবার তাদের অস্তিত্বে আনবেন। সংক্ষিপ্ত ইংরেজি ভাষ্যে আছে: মাটি হয়ে যাওয়ার পর তিনি তাদের আবার জীবিত করবেন, কিছুই না থাকার পর নতুন করে সৃষ্টি করবেন। উত্থান এখানে নতুন করে গড়ার নাম। ২২:৫ আয়াতে মাটি থেকে সৃষ্টির কথা বলে ঠিক এ কাজটিই একবার দেখানো হয়েছে।"
+          },
+          {
+            "en": "The others say what the raising is for. At-Tabari: then, at that time, those of the dead who are in them, alive, to mawqif al-hisab, the standing place of the reckoning. The Muyassar: Allah raises the dead from their graves li-hisabihim wa jaza'ihim, for their reckoning and their recompense. Al-Qurtubi: He means for reward and punishment. As-Sa'di turns to the listener directly: fa-yujazikum bi-a'malikum hasaniha wa sayyi'iha, and He will repay you for your deeds, the good of them and the bad.",
+            "bn": "অন্যরা বলেন উত্থান কিসের জন্য। তাবারী: তখন কবরগুলোতে থাকা মৃতদের জীবিত অবস্থায় নিয়ে যাওয়া হবে মাওকিফুল হিসাবে, হিসাবের জন্য দাঁড়ানোর জায়গায়। মুয়াসসার: আল্লাহ মৃতদের কবর থেকে উঠাবেন লিহিসাবিহিম ওয়া জাযাইহিম, তাদের হিসাব নেওয়া আর প্রতিদান দেওয়ার জন্য। কুরতুবী: এর উদ্দেশ্য সওয়াব ও শাস্তি। সা'দী সরাসরি শ্রোতার দিকে ফেরেন: ফাইউজাযীকুম বিআ'মালিকুম হাসানিহা ওয়া সাইয়িইহা, তিনি তোমাদের আমলের প্রতিদান দেবেন, ভালোগুলোর এবং মন্দগুলোরও।"
           }
         ]
       },
       {
         "h": {
-          "en": "Living Toward It",
-          "bn": "সেদিকে মুখ করে বাঁচা"
+          "en": "Bones That Have Rotted",
+          "bn": "পচে যাওয়া হাড়ের প্রশ্ন"
         },
         "p": [
           {
-            "en": "The practical effect of the verse falls on the deeds nobody saw. If the raising is of persons out of graves, then the unwitnessed portion of a life is not lost material. A kindness with no audience, a temptation refused in private, a debt quietly repaid — all of it has been recorded by the One who is bringing the record with Him. Little else in ordinary experience gives that kind of weight to hidden work.",
-            "bn": "আয়াতটির বাস্তব প্রভাব পড়ে সেই আমলগুলোর উপর, যা কেউ দেখেনি। কবর থেকে যদি একেকজন মানুষকেই ওঠানো হয়, তাহলে জীবনের যে অংশ কারও চোখে পড়েনি, তা বৃথা যায়নি। কেউ দেখেনি এমন একটু দয়া, একান্তে ফিরিয়ে দেওয়া কোনো প্রলোভন, চুপচাপ শোধ করা কোনো ঋণ: সবই লিখে রেখেছেন তিনি, যিনি সেই আমলনামা সঙ্গে নিয়েই আসছেন। সাধারণ জীবনের অভিজ্ঞতায় আর প্রায় কিছুই গোপন কাজকে এমন ওজন দেয় না।"
+            "en": "Under this clause Ibn Kathir, in the Arabic and in the abridged English alike, brings 36:78 to 36:80. A man strikes a likeness for Us and forgets his own creation; he says, Who will give life to bones when they have rotted? Say: He will give them life who produced them the first time, and He knows every creation; He who made fire for you out of the green tree, and from it you kindle. Ibn Kathir adds that the verses on this are many.",
+            "bn": "এই বাক্যাংশের নিচে ইবন কাসীর আরবি ও সংক্ষিপ্ত ইংরেজি দুই ভাষ্যেই আনেন ৩৬:৭৮ থেকে ৩৬:৮০ আয়াত। সে আমার জন্য উপমা দেয়, অথচ নিজের সৃষ্টির কথা ভুলে যায়। বলে, হাড়গুলো পচে গলে যাওয়ার পর কে তাদের জীবিত করবে? বলুন, তিনিই জীবিত করবেন যিনি প্রথমবার এগুলো সৃষ্টি করেছিলেন, আর তিনি প্রতিটি সৃষ্টি সম্পর্কে পূর্ণ জ্ঞাত। তিনিই সবুজ গাছ থেকে তোমাদের জন্য আগুন বানিয়েছেন, আর তোমরা তা থেকে আগুন জ্বালাও। ইবন কাসীর যোগ করেন, এ বিষয়ে আয়াত অনেক।"
           },
           {
-            "en": "It also sets a limit on grief. Those in the graves are described as being raised, not as having ended, so a loss is a separation with a term attached rather than a disappearance. Read 22:7 slowly at a graveside and its two clauses do exactly what the surah intends them to do: the Hour is coming and no doubt is in it, and the One bringing it raises whoever is lying there.",
-            "bn": "এ আয়াত শোকেরও একটা সীমা টেনে দেয়। কবরে যারা আছে, আয়াত তাদের কথা বলে এমনভাবে যে তাদের ওঠানো হবে, এমনভাবে নয় যে তারা শেষ হয়ে গেছে। তাই প্রিয়জন হারানো মানে নির্দিষ্ট মেয়াদের এক বিচ্ছেদ, চিরতরে মুছে যাওয়া নয়। কবরের পাশে দাঁড়িয়ে 22:7 ধীরে ধীরে পড়ুন। দেখবেন, এর দুটি অংশ ঠিক সেই কাজটিই করে, যা সূরা চায়: কিয়ামত আসছে, তাতে কোনো সন্দেহ নেই; আর যিনি তা আনছেন, তিনিই ওখানে শুয়ে থাকা মানুষটিকে ওঠাবেন।"
+            "en": "The cited passage argues the way 22:5 does. Wa nasiya khalqah, and he forgot his own creation: the objector's doubt holds only while the fact of his own making is left out. The answer points first to the first time, then to fire drawn from green wood. 22:5 likewise points to the first making and to dead earth turned green. Both passages meet the same question with the same move, which is to look at what has already been done and ask what could make the second time harder.",
+            "bn": "উদ্ধৃত অংশটি যুক্তি সাজায় ২২:৫ আয়াতের মতো করেই। ওয়া নাসিয়া খালকাহ, সে নিজের সৃষ্টির কথা ভুলে গেল। আপত্তিকারীর সন্দেহ টিকে থাকে ততক্ষণ, যতক্ষণ নিজের গড়ে ওঠার কথাটা হিসাবের বাইরে থাকে। জবাব প্রথমে দেখায় প্রথমবারের সৃষ্টি, তারপর সবুজ কাঠ থেকে বের হওয়া আগুন। ২২:৫ আয়াতও দেখায় প্রথম সৃষ্টি আর মরা মাটির সবুজ হয়ে ওঠা। দুই জায়গাতেই একই প্রশ্নের জবাব একই কৌশলে: যা আগেই করা হয়ে গেছে তার দিকে তাকাও, তারপর ভাবো, দ্বিতীয়বার কেন কঠিন হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Companion's Three Articles",
+          "bn": "এক সাহাবীর তিন কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment with a Companion's statement. Through Ibn Abi Hatim he reports Mu'adh ibn Jabal (RA) as saying: whoever knows that Allah is the manifest Truth, that the Hour is coming, no doubt about it, and that Allah will raise those in the graves, enters Paradise. These are Mu'adh's own words, not attributed to the Prophet ﷺ, and Ibn Kathir gives no grading for the chain. As a reading they still show something: a Companion took 22:6 and 22:7 together as a creed in three parts.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন এক সাহাবীর উক্তি দিয়ে। ইবন আবী হাতিমের সূত্রে তিনি বর্ণনা করেন, মুআয ইবন জাবাল (রাঃ) বলেছেন: যে জানে আল্লাহই সুস্পষ্ট সত্য, কিয়ামাত আসছে এবং তাতে কোনো সন্দেহ নেই, আর কবরবাসীদের আল্লাহ উঠাবেন, সে জান্নাতে প্রবেশ করবে। এগুলো মুআযের নিজের কথা, নবী ﷺ-এর বাণী হিসেবে বর্ণিত নয়। ইবন কাসীর এর সনদের কোনো মান উল্লেখ করেননি। তবু পাঠ হিসেবে এটি কিছু দেখায়: একজন সাহাবী ২২:৬ ও ২২:৭ একসঙ্গে ধরে তিনটি অংশে এক আকীদা হিসেবে বুঝেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir also brings, through the Musnad of Imam Ahmad, a report from Abu Razin al-'Uqayli (RA) in which the raising of the dead is likened to a barren valley later seen green, and notes that Abu Dawud and Ibn Majah narrate it too. The versions checked in those collections, Abu Dawud 4731 and Ibn Majah 180, hold only the first part of that conversation, about seeing Allah on the Day of Resurrection. The part that bears on this verse could not be confirmed there, so it is not quoted here, and no confirmed hadith is attached to the verse.",
+            "bn": "ইবন কাসীর ইমাম আহমাদের মুসনাদ থেকে আবু রাযীন আল-উকাইলী (রাঃ)-এর একটি বর্ণনাও আনেন। তাতে মৃতদের জীবিত করাকে তুলনা করা হয়েছে এমন উপত্যকার সঙ্গে, যা আগে শুকনো দেখা গিয়েছিল আর পরে সবুজ। তিনি উল্লেখ করেন যে আবু দাউদ ও ইবন মাজাহও এটি বর্ণনা করেছেন। ওই দুই সংকলনে যাচাই করা রূপ দুটি, আবু দাউদ 4731 ও ইবন মাজাহ 180, শুধু কথোপকথনের প্রথম অংশ ধারণ করে, কিয়ামাতের দিন আল্লাহকে দেখা প্রসঙ্গে। এ আয়াতের সঙ্গে সম্পর্কিত অংশটি সেখানে নিশ্চিত করা যায়নি। তাই এখানে তা উদ্ধৃত করা হলো না, আর এ আয়াতের সঙ্গে কোনো নিশ্চিত হাদীস যুক্ত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Disputer Who Follows",
+          "bn": "পরের আয়াতের বিতর্ককারী"
+        },
+        "p": [
+          {
+            "en": "The surah does not pause after this verse. In Ibn Kathir's abridged English the comment on 22:7 runs straight into 22:8: among the people is he who disputes about Allah without knowledge, without guidance and without an illuminating book. 22:9 adds that he turns his side in pride to lead others from the way of Allah, and 22:10 closes the picture: that is for what your hands sent ahead, and Allah is not unjust to His servants. The argument has been made; the next verses describe a stance that refuses to hear it.",
+            "bn": "এ আয়াতের পর সূরাটি থামে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্যে ২২:৭-এর আলোচনা সরাসরি গিয়ে মেশে ২২:৮ আয়াতে: মানুষের মধ্যে এমনও আছে, যে জ্ঞান, হিদায়াত বা আলো দেখানো কিতাব ছাড়াই আল্লাহ সম্পর্কে বিতর্ক করে। ২২:৯ যোগ করে, সে অহংকারে পাশ ফিরিয়ে অন্যদের আল্লাহর পথ থেকে সরাতে চায়। আর ২২:১০ ছবিটা শেষ করে: এ তোমার হাত যা আগে পাঠিয়েছে তারই ফল, আর আল্লাহ বান্দাদের প্রতি জুলুম করেন না। যুক্তি পেশ করা শেষ। পরের আয়াতগুলো এমন এক অবস্থানের বর্ণনা দেয়, যা সে যুক্তি শুনতেই রাজি নয়।"
+          },
+          {
+            "en": "These verses describe a stance and its end as the text describes them. They license nothing against any living person or community, and they give no reader a label to pin on anyone who has questions about the resurrection. 22:5 itself addresses the doubter directly, ya ayyuha-n-nas, O people, and answers with evidence drawn from the doubter's own body and the ground under his feet, not with scorn.",
+            "bn": "এই আয়াতগুলো একটি অবস্থান আর তার পরিণতির বর্ণনা দেয়, ঠিক যতটুকু পাঠে আছে ততটুকুই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। পুনরুত্থান নিয়ে যার মনে প্রশ্ন আছে, তার গায়ে কোনো তকমা লাগানোর সুযোগও কোনো পাঠককে দেয় না। ২২:৫ নিজেই সন্দিহানকে সরাসরি ডাকে, ইয়া আইয়ুহান নাস, হে মানুষ, আর জবাব দেয় প্রমাণ দিয়ে, যা নেওয়া হয়েছে তার নিজের শরীর আর পায়ের নিচের মাটি থেকে। তাচ্ছিল্য দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living as One Raised",
+          "bn": "উত্থিত হবেন জেনে বাঁচা"
+        },
+        "p": [
+          {
+            "en": "The practical weight of the verse rests on the glosses above. If the raising is li-hisabihim wa jaza'ihim, for reckoning and recompense, as the Muyassar has it, and if the repayment covers deeds good and bad, as as-Sa'di says, then each day's deeds are being kept for a day that is coming. A simple habit follows from that. At the end of a day, ask which of its hours you would want to meet again when you are raised, and which you would rather mend before then.",
+            "bn": "আয়াতের বাস্তব ভার দাঁড়িয়ে আছে ওপরের ব্যাখ্যাগুলোর ওপর। মুয়াসসার যেমন বলে, উত্থান যদি হয় লিহিসাবিহিম ওয়া জাযাইহিম, হিসাব আর প্রতিদানের জন্য, আর সা'দীর কথামতো প্রতিদান যদি ভালো-মন্দ সব আমলকে ঘিরে থাকে, তবে প্রতিদিনের আমল জমা হচ্ছে আসন্ন এক দিনের জন্য। এ থেকে একটা সহজ অভ্যাস তৈরি হয়। দিনের শেষে নিজেকে জিজ্ঞেস করুন: আজকের কোন সময়গুলো উত্থানের দিন আবার সামনে পেলে খুশি হবেন, আর কোনগুলো তার আগেই শুধরে নেওয়া দরকার।"
+          },
+          {
+            "en": "The proofs of 22:5 are not rare events. Rain falls on dry ground, a child grows into strength, an elder declines. Each time, the passage invites the conclusion it was built to deliver: He who does this is real, gives life, is able, and the Hour is coming. Mu'adh's words, as Ibn Kathir reports them, treat that knowledge as a road to Paradise. Holding it does not need special occasions; it needs the habit of noticing, then remembering the clause that follows.",
+            "bn": "২২:৫ আয়াতের প্রমাণগুলো বিরল কোনো ঘটনা নয়। শুকনো মাটিতে বৃষ্টি নামে, শিশু বেড়ে উঠে শক্তি পায়, বৃদ্ধ ধীরে ধীরে দুর্বল হন। প্রতিবারই অংশটি সেই সিদ্ধান্তের দিকে ডাকে, যা পৌঁছে দিতেই একে সাজানো হয়েছে: যিনি এসব করেন তিনি সত্য, তিনি জীবন দেন, তিনি সক্ষম, আর কিয়ামাত আসছে। ইবন কাসীরের বর্ণনায় মুআযের কথা এই জানাকে জান্নাতের পথ হিসেবে দেখে। একে ধরে রাখতে বিশেষ উপলক্ষ লাগে না। লাগে লক্ষ করার অভ্যাস, তারপর পরের বাক্যাংশটি মনে করা।"
+          },
+          {
+            "en": "The verse also changes how a grave is seen. Man fil-qubur, those in the graves, are named as those Allah will raise; the commentators pass straight from the grave to the reckoning, with no pause on the grave as an ending. Standing at a burial, the believer can say the verse's two clauses over the ground: the Hour is coming, no doubt about it, and He who brings it will raise the person lying here.",
+            "bn": "কবরকে দেখার চোখও আয়াতটি বদলে দেয়। মান ফিল কুবূর, কবরে যারা আছে, তাদেরকেই বলা হয়েছে আল্লাহ উঠাবেন। তাফসীরকারেরা কবর থেকে সরাসরি চলে যান হিসাবের দিকে, কবরকে কোথাও শেষ ঠিকানা বলে থামেন না। দাফনের সময় দাঁড়িয়ে মুমিন মাটির ওপর আয়াতের দুটি বাক্যাংশ মনে মনে বলতে পারেন: কিয়ামাত আসছে, তাতে কোনো সন্দেহ নেই, আর যিনি তা আনবেন, তিনি এখানে শুয়ে থাকা মানুষটিকে উঠাবেন।"
           }
         ]
       }
