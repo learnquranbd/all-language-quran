@@ -295,93 +295,153 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "One Sentence, One Subject",
-          "bn": "এক বাক্য, এক কর্তা"
+          "en": "Where the Sentence Picks Up",
+          "bn": "যেখান থেকে বাক্যটা এগোয়"
         },
         "p": [
           {
-            "en": "The verse continues an argument begun two verses earlier. 23:12 states that man was created from an extract of clay, and 23:13 that he was then placed as a drop in a secure lodging. 23:14 carries the chain forward with linked verbs, each stage named and the next made out of it. The grammar is worth noticing before the content.",
-            "bn": "দুই আয়াত আগে যে যুক্তি শুরু হয়েছিল, এ আয়াত সেটাকেই এগিয়ে নেয়। ২৩:১২ বলে, মানুষকে সৃষ্টি করা হয়েছে মাটির নির্যাস থেকে; ২৩:১৩ বলে, তারপর তাকে শুক্রবিন্দু হিসেবে এক নিরাপদ আধারে রাখা হয়েছে। ২৩:১৪ একের পর এক ক্রিয়াপদ জুড়ে সেই ধারাকে আরও সামনে নেয়: প্রতিটি স্তরের নাম আসে, আর পরের স্তরটি গড়া হয় আগেরটি থেকেই। বিষয়বস্তুর আগে ব্যাকরণটাই খেয়াল করার মতো।"
+            "en": "The verse is the third link in a chain. 23:12 says that We created man from an extract of clay; Ibn Kathir's abridged commentary takes that first man to be Adam (AS), citing Ibn Jarir and Qatada. 23:13 adds that We then made him a nutfa in a secure lodging: the pronoun, he says, now means humankind, as in 32:7 and 32:8, and the lodging is the womb. 23:14 takes up that nutfa and carries it to the end.",
+            "bn": "এ আয়াত এক শিকলের তৃতীয় কড়া। ২৩:১২ বলে, আমি মানুষকে মাটির নির্যাস থেকে সৃষ্টি করেছি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ইবন জারীর ও কাতাদার কথা টেনে সেই প্রথম মানুষকে আদম (আঃ) বলে ধরেছে। ২৩:১৩ যোগ করে, তারপর আমি তাকে নুতফা বানিয়ে রাখলাম এক সুরক্ষিত আধারে। তাঁর মতে এখানে সর্বনামটি বোঝায় মানবজাতিকে, যেমন ৩২:৭ ও ৩২:৮ আয়াতে, আর আধার মানে মাতৃগর্ভ। ২৩:১৪ সেই নুতফাকে হাতে নিয়ে শেষ পর্যন্ত পৌঁছে দেয়।"
           },
           {
-            "en": "Every verb in the chain has the same subject, and it is We. Nothing in the sentence develops, becomes or emerges of itself. Even in the last clause, where a genuinely new kind of thing appears, the verb is ansha'nahu, We produced him. A reader accustomed to describing his own beginnings in the passive voice is handed a sentence in which each step has an agent, and the agent never changes.",
-            "bn": "এই ধারার প্রতিটি ক্রিয়াপদের কর্তা একজনই: 'আমি'। বাক্যের কোথাও কোনো কিছু নিজে নিজে বিকশিত হয় না, হয়ে ওঠে না, বেরিয়ে আসে না। শেষ অংশে যেখানে সত্যিই নতুন ধরনের এক সত্তা দেখা দেয়, সেখানেও ক্রিয়াপদটি 'আনশা'নাহু', আমি তাকে সৃজন করেছি। যে পাঠক নিজের সূচনার কথা কর্মবাচ্যে বলে অভ্যস্ত, তার হাতে আসে এমন এক বাক্য, যার প্রতিটি ধাপের একজন কর্তা আছেন, আর সেই কর্তা কখনো বদলান না।"
+            "en": "Ma'arif al-Qur'an reads the joints of the sentence. Nutfa to 'alaqa is joined by thumma, which allows an interval, because that change takes long. The next three, 'alaqa to mudgha, mudgha to bones, and bones clothed with flesh, are joined by fa, which it explains as uninterrupted succession over short periods. Then thumma returns for the last stage, the putting of life and soul into a lifeless mass, which by human reckoning must take long. The connectives themselves mark the pace.",
+            "bn": "মাআরিফুল কুরআন নজর দেয় বাক্যের জোড়াগুলোর দিকে। নুতফা থেকে আলাকা জুড়েছে 'সুম্মা' দিয়ে, যা মাঝখানে বিরতির সুযোগ রাখে, কারণ এ পরিবর্তনে লম্বা সময় লাগে। পরের তিনটি ধাপ, আলাকা থেকে মুদগা, মুদগা থেকে হাড়, আর হাড়ে মাংসের আবরণ, জুড়েছে 'ফা' দিয়ে। তাফসীরটির ব্যাখ্যায় 'ফা' বোঝায় অল্প অল্প ব্যবধানে বিরতিহীন ধারাবাহিকতা। শেষ ধাপে আবার আসে 'সুম্মা', কারণ প্রাণহীন পিণ্ডে জীবন ও রূহ দেওয়া মানুষের হিসাবে সময়সাপেক্ষ। সংযোজক শব্দগুলোই গতির মাপ বলে দেয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Another Creation",
-          "bn": "এক নতুন সৃষ্টি"
+          "en": "Drop, Clot and Morsel",
+          "bn": "ফোঁটা, রক্তপিণ্ড, মাংসের টুকরো"
         },
         "p": [
           {
-            "en": "The final clause is thumma ansha'nahu khalqan akhar, then We produced him as another creation. Ibn Kathir explains it as the breathing of the soul, after which it moved and became a new creature, one that hears, sees, understands and moves. He also reports, from al-Awfi from Ibn Abbas (RA), a second reading: changed from state to state until it comes out an infant, and then on through childhood, youth, maturity and old age.",
-            "bn": "শেষ বাক্যাংশটি হলো 'ছুম্মা আনশা'নাহু খালকান আখার' — অতঃপর আমি তাকে এক নতুন সৃষ্টিরূপে দাঁড় করালাম। ইবনে কাসীর একে ব্যাখ্যা করেন রূহ ফুঁকে দেওয়া হিসেবে, যার পর তা নড়ে উঠল এবং এমন এক নতুন সত্তা হলো যে শোনে, দেখে, বোঝে ও চলে। তিনি আল-আওফী সূত্রে ইবনে আব্বাস (রাঃ) থেকে আরেকটি পাঠও উল্লেখ করেন: এক অবস্থা থেকে অন্য অবস্থায় বদলাতে বদলাতে শিশু হয়ে ভূমিষ্ঠ হওয়া, তারপর শৈশব, যৌবন, পূর্ণতা ও বার্ধক্যের ভেতর দিয়ে এগোনো।"
+            "en": "Thumma khalaqna-n-nutfata 'alaqatan: then We made the nutfa an 'alaqa. Ibn Kathir glosses the nutfa as the gushing water that comes from the man's loins, which he explains as his back, and from the woman's chest bones, between the collarbone and the breast. It then became, he says, a red 'alaqa, elongated in shape, and he adds 'Ikrima's short gloss: it is blood. The Muyassar and as-Sa'di both explain 'alaqa as red blood, and as-Sa'di dates the change to the passing of forty days from the nutfa.",
+            "bn": "সুম্মা খালাকনান নুতফাতা আলাকাহ: তারপর আমি নুতফাকে বানালাম আলাকা। ইবন কাসীর নুতফার ব্যাখ্যা দেন সেই সবেগে নির্গত পানি বলে, যা আসে পুরুষের সুলব থেকে, অর্থাৎ তার পিঠ থেকে, আর নারীর তারাইব থেকে, অর্থাৎ কণ্ঠাস্থি থেকে স্তন পর্যন্ত বুকের হাড় থেকে। তাঁর ভাষায়, এরপর তা হয়ে যায় লাল রঙের লম্বাটে আলাকা। সঙ্গে তিনি জুড়ে দেন ইকরিমার ছোট্ট ব্যাখ্যা: এ হলো রক্ত। মুয়াসসার ও সা'দী দুজনেই আলাকা মানে বলেন লাল রক্ত। সা'দী সময়টাও বলে দেন: নুতফা অবস্থার চল্লিশ দিন পার হলে এ পরিবর্তন।"
           },
           {
-            "en": "Both readings agree on the essential thing: this is a change of kind, not another change of size. Something that was being shaped becomes someone who can be addressed. 32:9 says as much in its own words — He proportioned him and breathed into him of His spirit, and made for you hearing and sight and hearts. The faculties named there are exactly the ones by which a person is later held responsible.",
-            "bn": "দুই ব্যাখ্যাই মূল কথায় একমত: এ বদল আকারের আরেকটা বদল নয়, ধরনেরই বদল। যাকে এতক্ষণ গড়া হচ্ছিল, সে এখন এমন একজন, যাকে সম্বোধন করা যায়। ৩২:৯ নিজের ভাষায় একই কথা বলে: তিনি তাকে সুঠাম করলেন, তাতে নিজের পক্ষ থেকে রূহ ফুঁকে দিলেন, আর তোমাদের দিলেন শ্রবণশক্তি, দৃষ্টি ও অন্তর। সেখানে যে শক্তিগুলোর নাম এসেছে, ঠিক সেগুলোর জন্যই পরে মানুষকে জবাবদিহি করতে হয়।"
+            "en": "Fa-khalaqna-l-'alaqata mudghatan: and We made the 'alaqa a mudgha. Ibn Kathir describes it as a piece like a morsel of flesh, with no form and no lines marked on it. The Muyassar calls it a piece of flesh the size of what is chewed, and as-Sa'di a small piece of flesh, the size of a mouthful for its smallness. Al-Qurtubi does not repeat himself here: he says the nutfa, the 'alaqa and the mudgha, with the rulings attached to them, were treated at the opening of al-Hajj, where 22:5 names the same stages.",
+            "bn": "ফা খালাকনাল আলাকাতা মুদগাহ: আর আমি আলাকাকে বানালাম মুদগা। ইবন কাসীরের বর্ণনায় এ এক টুকরো মাংসের মতো, যার কোনো আকৃতি নেই, কোনো রেখাও আঁকা নেই। মুয়াসসার বলে, চিবানো যায় এতটুকু পরিমাণ মাংসের টুকরো। সা'দীর কথায়, ছোট্ট এক টুকরো মাংস, এত ছোট যে এক গ্রাসে চিবানো যায়। কুরতুবী এখানে আর পুনরাবৃত্তি করেন না। তিনি জানান, নুতফা, আলাকা ও মুদগা এবং এগুলোর সঙ্গে যুক্ত বিধানের আলোচনা সূরা হজ্জের শুরুতে হয়ে গেছে। সেখানে ২২:৫ আয়াত এই ধাপগুলোরই নাম নেয়।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Argument Does Not Stop Here",
-          "bn": "যুক্তি এখানেই থামে না"
+          "en": "Bones Dressed in Flesh",
+          "bn": "হাড়ের গায়ে মাংসের পোশাক"
         },
         "p": [
           {
-            "en": "The chain runs straight on. 23:15 says that after that you are certainly to die, and 23:16 that on the Day of Resurrection you will certainly be raised. Ibn Kathir reads the three verses as one movement: created from nothing, then death, then a creation anew. Whoever accepted the first two steps because he has watched them happen has been walked into the third by the same conjunction that carried him through the first.",
-            "bn": "ধারাটি সোজা সামনে এগোয়। ২৩:১৫ বলে, এরপর তোমরা অবশ্যই মারা যাবে; ২৩:১৬ বলে, কিয়ামতের দিন তোমাদের অবশ্যই আবার ওঠানো হবে। ইবনে কাসীর এই তিন আয়াতকে একটানা এক ধারা হিসেবে পড়েন: শূন্য থেকে সৃষ্টি, তারপর মৃত্যু, তারপর নতুন করে সৃষ্টি। প্রথম দুই ধাপ মানুষ মেনে নেয়, কারণ সেগুলো ঘটতে সে নিজের চোখে দেখেছে। যে সংযোজক শব্দ তাকে প্রথম ধাপ পার করিয়েছিল, সেই শব্দই তাকে হাঁটিয়ে তৃতীয় ধাপে এনে দাঁড় করায়।"
+            "en": "Fa-khalaqna-l-mudghata 'izaman, fa-kasawna-l-'izama lahman: and We made the mudgha bones, and clothed the bones with flesh. Ibn Kathir explains the first clause as giving it a form, with a head, two arms and two legs, with its bones, sinews and veins; the flesh is what covers that frame, binds it and strengthens it. As-Sa'di has the soft mudgha made into hard bones set through the flesh as the body needs them, the flesh a garment for the bones as the bones are a pillar for the flesh, and places this in the third forty days.",
+            "bn": "ফা খালাকনাল মুদগাতা ইযামান, ফা কাসাওনাল ইযামা লাহমা: আর আমি মুদগাকে বানালাম হাড়, তারপর হাড়কে পরিয়ে দিলাম মাংস। ইবন কাসীর প্রথম অংশের ব্যাখ্যা দেন এভাবে: আমি তাকে আকৃতি দিলাম, মাথা, দুই হাত ও দুই পা দিলাম, সঙ্গে তার হাড়, স্নায়ু আর শিরা। মাংস হলো সেই কাঠামোর আবরণ, যা তাকে ঢেকে রাখে, বেঁধে রাখে, মজবুত করে। সা'দীর বর্ণনায় নরম মুদগা হয়ে যায় শক্ত হাড়, শরীরের প্রয়োজন মতো মাংসের ভেতর দিয়ে ছড়ানো। হাড় যেমন মাংসের খুঁটি, মাংস তেমনি হাড়ের পোশাক। এ ঘটে তৃতীয় চল্লিশ দিনে।"
           },
           {
-            "en": "The Quran makes that inference explicit elsewhere. 36:78 has a man ask who will give life to bones once they are disintegrated, and 36:79 answers that the One who produced them the first time will. 30:27 says He begins creation then repeats it, and that is easier for Him. 50:15 asks whether We were wearied by the first creation, and observes that they are in confusion about a new one.",
-            "bn": "কুরআন অন্য জায়গায় এই সিদ্ধান্ত সরাসরি বলে দিয়েছে। ৩৬:৭৮-এ এক লোক প্রশ্ন করে, হাড় পচে-গলে যাওয়ার পর কে তাতে প্রাণ দেবে? ৩৬:৭৯ জবাব দেয়: যিনি প্রথমবার তা সৃষ্টি করেছেন, তিনিই দেবেন। ৩০:২৭ বলে, তিনিই সৃষ্টির সূচনা করেন, তারপর আবার তা করেন, আর সেটা তাঁর জন্য আরও সহজ। ৫০:১৫ প্রশ্ন করে, প্রথম সৃষ্টিতে কি আমি ক্লান্ত হয়ে পড়েছিলাম? আসলে নতুন সৃষ্টি নিয়েই তারা সংশয়ে পড়ে আছে।"
+            "en": "Al-Baghawi glosses kasawna as albasna, We dressed, and records a difference of reading: Ibn 'Amir and Abu Bakr read 'azman and al-'azma, singular in both places, the rest the plural, because a human being has many bones. Ibn Kathir notes the other reading, with Ibn 'Abbas's comment that it is the bone of the spine. At-Tabari reports that the reading of 'Abdullah had 'azman wa-'asaban, bone and sinew. The Muyassar puts forty days between 'alaqa and mudgha; al-Baghawi reports, as a saying, forty between each two stages.",
+            "bn": "বাগাভী 'কাসাওনা'র অর্থ করেন 'আলবাসনা', আমি পরিয়ে দিলাম। তিনি কিরাআতের একটি ভিন্নতাও উল্লেখ করেন। ইবন আমির ও আবু বকর পড়েছেন 'আযমান' ও 'আল-আযমা', দুই জায়গাতেই একবচনে। বাকিরা পড়েছেন বহুবচনে, কারণ মানুষের হাড় অনেক। ইবন কাসীরও অন্য কিরাআতটির কথা বলেন, সঙ্গে ইবন আব্বাস (রাঃ)-এর মন্তব্য: এ হলো মেরুদণ্ডের হাড়। তাবারী জানান, আবদুল্লাহর কিরাআতে ছিল 'আযমান ওয়া আসাবান', হাড় ও স্নায়ু। মুয়াসসার আলাকা থেকে মুদগার মাঝে চল্লিশ দিন রাখে। বাগাভী 'বলা হয়' বলে উল্লেখ করেন, প্রতি দুই ধাপের মাঝে চল্লিশ দিন।"
           }
         ]
       },
       {
         "h": {
-          "en": "Fatabaraka",
-          "bn": "ফাতাবারাকা"
+          "en": "Forty Days, Then Forty More",
+          "bn": "চল্লিশ দিন, তারপর আরও চল্লিশ"
         },
         "p": [
           {
-            "en": "Then the verse breaks off and praises: fatabaraka Allahu ahsanu al-khaliqin. The verb tabaraka is built on the root of barakah, good that is abundant and does not run out, and in the Quran it is said only of Allah or of His name. It is not a wish that someone be blessed. It is a statement that such good belongs to Him, offered here as the natural end of the description just given.",
-            "bn": "এরপর আয়াত বর্ণনা থামিয়ে প্রশংসায় ফেটে পড়ে: ফাতাবারাকাল্লাহু আহসানুল খালিকীন। 'তাবারাকা' ক্রিয়াপদের মূল 'বারাকাহ', অর্থাৎ এমন কল্যাণ যা প্রচুর আর যা কখনো ফুরায় না। কুরআনে এ শব্দ কেবল আল্লাহ বা তাঁর নামের বেলাতেই এসেছে। এ কারও জন্য বরকতের দোয়া নয়; এ এক ঘোষণা যে এমন কল্যাণ তাঁরই। আর এইমাত্র যে বর্ণনা এল, তার স্বাভাবিক সমাপ্তি হিসেবেই ঘোষণাটি এখানে আসে।"
+            "en": "Here Ibn Kathir attaches a hadith. He quotes it from Imam Ahmad's Musnad and says that al-Bukhari and Muslim both recorded it. Al-Bukhari's wording, in his Sahih (3208), from 'Abdullah ibn Mas'ud (RA), runs: Allah's Messenger (ﷺ), the true and truly inspired, said, \"(The matter of the Creation of) a human being is put together in the womb of the mother in forty days, and then he becomes a clot of thick blood for a similar period, and then a piece of flesh for a similar period.",
+            "bn": "এখানে ইবন কাসীর একটি হাদীস জুড়ে দেন। তিনি এটি উদ্ধৃত করেন ইমাম আহমাদের মুসনাদ থেকে, আর বলেন বুখারী ও মুসলিম দুজনেই এটি বর্ণনা করেছেন। বুখারী তাঁর সহীহ গ্রন্থে (৩২০৮) আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে যে শব্দে এনেছেন তা এই: সত্যবাদী ও সত্যায়িত আল্লাহর রাসূল ﷺ বলেছেন, \"তোমাদের প্রত্যেকের সৃষ্টির উপাদান মায়ের পেটে চল্লিশ দিন ধরে জমা করা হয়। তারপর সমান সময় ধরে সে থাকে আলাকা, তারপর সমান সময় ধরে মুদগা।"
           },
           {
-            "en": "This exact form with its connecting fa occurs in one other verse. 40:64 describes Allah making the earth a place of settlement and the sky a structure, then says that He formed you and perfected your forms and provided you with good things, before closing on fatabaraka Allahu rabbu al-alamin. In both places the praise arrives immediately after the shaping of a human being. Worship, not analysis, is the response the Quran models to this subject.",
-            "bn": "সংযোজক 'ফা' সহ ঠিক এই রূপটি আর মাত্র একটি আয়াতে এসেছে। 40:64 বর্ণনা করে, আল্লাহ পৃথিবীকে বসবাসের স্থান ও আকাশকে ছাদ বানিয়েছেন, তারপর বলে যে তিনি তোমাদের আকৃতি দিয়েছেন এবং তোমাদের আকৃতি সুন্দর করেছেন ও তোমাদের উত্তম রিযিক দিয়েছেন — এরপর শেষ হয় 'ফাতাবারাকাল্লাহু রাব্বুল আলামীন' দিয়ে। দুই জায়গাতেই প্রশংসাটি আসে মানুষ গড়ার বর্ণনার ঠিক পরে। এই বিষয়ে কুরআন যে সাড়াটি শিখিয়ে দেয় তা হলো ইবাদত, বিশ্লেষণ নয়।"
+            "en": "The narration continues without a break: \"Then Allah sends an angel who is ordered to write four things. He is ordered to write down his (i.e. the new creature's) deeds, his livelihood, his (date of) death, and whether he will be blessed or wretched (in religion). Then the soul is breathed into him. So, a man amongst you may do (good deeds till there is only a cubit between him and Paradise and then what has been written for him decides his behavior and he starts doing (evil) deeds characteristic of the people of the (Hell) Fire.",
+            "bn": "বর্ণনা থামে না, চলতে থাকে: \"তারপর আল্লাহ একজন ফেরেশতা পাঠান, আর তাঁকে চারটি কথার আদেশ দেওয়া হয়। তাঁকে বলা হয়: লেখো তার আমল, তার রিযিক, তার আয়ু, আর সে হতভাগা না সৌভাগ্যবান। তারপর তার ভেতরে রূহ ফুঁকে দেওয়া হয়। তাই তোমাদের কেউ আমল করে যায়, শেষে তার আর জান্নাতের মাঝে এক হাতের বেশি দূরত্ব থাকে না। তখন তার লেখা তাকে ছাড়িয়ে যায়, আর সে জাহান্নামীদের আমল করতে থাকে।"
+          },
+          {
+            "en": "\"And similarly a man amongst you may do (evil) deeds till there is only a cubit between him and the (Hell) Fire, and then what has been written for him decides his behavior, and he starts doing deeds characteristic of the people of Paradise.\" That is al-Bukhari's wording whole, from his Sahih, and Muslim records the report in his Sahih too (2643). In the version Ibn Kathir quotes from Ahmad, the soul is breathed in before the four things are decreed; in al-Bukhari's, after. The verse itself names no durations.",
+            "bn": "\"আবার তোমাদের কেউ আমল করে যায়, শেষে তার আর জাহান্নামের মাঝে এক হাতের বেশি দূরত্ব থাকে না। তখন লেখা তাকে ছাড়িয়ে যায়, আর সে জান্নাতীদের আমল করতে থাকে।\" এ হলো বুখারীর সহীহ গ্রন্থের পুরো ভাষ্য। মুসলিমও তাঁর সহীহ গ্রন্থে বর্ণনাটি এনেছেন (২৬৪৩)। ইবন কাসীর আহমাদ থেকে যে পাঠ উদ্ধৃত করেছেন, তাতে চারটি বিষয় লেখার আগে রূহ ফুঁকে দেওয়ার কথা আসে। বুখারীর পাঠে আসে পরে। আয়াত নিজে কোনো সময়ের মাপ বলে না।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Best of Creators",
-          "bn": "সর্বোত্তম স্রষ্টা"
+          "en": "What Is the Other Creation?",
+          "bn": "অন্য সৃষ্টিটা কী"
         },
         "p": [
           {
-            "en": "Ahsanu al-khaliqin occurs twice in the Quran, and 37:125 is the other place, where a prophet asks his people whether they call upon Ba'l and leave the best of creators. The plural does not concede rivals. The Quran uses the verb of a creature only of Isa (AS), at 3:49 and again at 5:110, where he designs from clay the form of a bird by the permission of Allah.",
-            "bn": "'আহসানুল খালিকীন' কুরআনে দুবার এসেছে, আর দ্বিতীয় জায়গাটি 37:125, যেখানে একজন নবী তাঁর জাতিকে জিজ্ঞেস করেন, তোমরা কি বা'লকে ডাকো আর সর্বোত্তম স্রষ্টাকে ছেড়ে দাও? বহুবচনটি কোনো প্রতিদ্বন্দ্বী স্বীকার করে না। কুরআন কোনো সৃষ্টির ক্ষেত্রে এই ক্রিয়াপদটি ব্যবহার করেছে কেবল ঈসা (আঃ)-এর বেলায় — 3:49-এ, আবার 5:110-এ, যেখানে তিনি আল্লাহর অনুমতিক্রমে মাটি থেকে পাখির আকৃতি গড়েন।"
+            "en": "Thumma ansha'nahu khalqan akhar: then We brought him into being as another creation. At-Tabari says plainly that the interpreters differed. Some said it is the breathing of the spirit into him, by which a form becomes a human being: Ibn 'Abbas (RA), 'Ikrima, ash-Sha'bi, Mujahid, Abu l-'Aliya, ad-Dahhak and Ibn Zayd. Ibn Kathir adds al-Hasan, ar-Rabi' ibn Anas, as-Suddi, and a report from 'Ali through Ibn Abi Hatim: when the nutfa completes four months, an angel is sent and breathes the spirit into it in the three darknesses.",
+            "bn": "সুম্মা আনশা'নাহু খালকান আখার: তারপর আমি তাকে গড়ে তুললাম অন্য এক সৃষ্টি রূপে। তাবারী সোজাসুজি বলেন, তাফসীরকারেরা এখানে মতভেদ করেছেন। কেউ বলেছেন, এ হলো তার ভেতরে রূহ ফুঁকে দেওয়া, যাতে নিছক আকৃতিটি মানুষ হয়ে ওঠে। এ মত ইবন আব্বাস (রাঃ), ইকরিমা, শা'বী, মুজাহিদ, আবুল আলিয়া, দাহহাক ও ইবন যায়দের। ইবন কাসীর যোগ করেন হাসান, রাবী' ইবন আনাস ও সুদ্দীকে, আর ইবন আবী হাতিমের সূত্রে আলী (রাঃ)-এর কথা: নুতফার চারটি মাস পূর্ণ হলে একজন ফেরেশতা পাঠানো হয়, তিনি তিনটি অন্ধকারের ভেতরে তাতে রূহ ফুঁকে দেন।"
           },
           {
-            "en": "So the superlative works by contrast inside a single word used at two levels. What people call making is the arranging of material that was handed to them; what is meant by al-Khaliq is bringing the material into being and then shaping it. The verse has just walked through a shaping performed on material nobody supplied, and only after that does it name the One who did it the best of creators.",
-            "bn": "তাই এখানে 'সর্বোত্তম' কথাটার জোর আসে তুলনা থেকে: একই শব্দ দুই স্তরে ব্যবহৃত হচ্ছে। মানুষ যাকে 'বানানো' বলে, তা আসলে হাতে পাওয়া উপকরণ সাজানো। আর 'আল-খালিক' বলতে বোঝায় উপকরণকেই অস্তিত্বে আনা, তারপর তাকে আকৃতি দেওয়া। আয়াতটি এইমাত্র এমন এক গড়ার বর্ণনা দিয়ে এল, যার উপকরণ কেউ জোগান দেয়নি। আর কেবল তার পরেই, যিনি এ কাজ করেছেন, তাঁকে ডাকা হলো সর্বোত্তম স্রষ্টা নামে।"
+            "en": "Others read it as what unfolds after birth. At-Tabari gives a report from Ibn 'Abbas, which al-Baghawi credits to al-'Awfi's transmission, that walks through it step by step: he leaves his mother's womb, and his first cry is the start of his other creation; then he is guided to her breast, learns to stretch out his legs, sits, crawls, stands, walks, is weaned, learns to eat and drink, reaches puberty and comes to move about through the lands. Qatada reported that some said it was the growth of hair, and ad-Dahhak named the teeth and the hair after birth.",
+            "bn": "অন্যরা একে বুঝেছেন জন্মের পরের বিকাশ হিসেবে। তাবারী ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন, বাগাভী যেটিকে আওফীর বর্ণনা বলে উল্লেখ করেন। তাতে ধাপে ধাপে বলা আছে: সে মায়ের পেট থেকে বেরিয়ে আসে, আর তার প্রথম কান্নাই অন্য সৃষ্টির শুরু। তারপর তাকে মায়ের স্তনের পথ দেখানো হয়। সে পা মেলতে শেখে, বসে, হামাগুড়ি দেয়, দাঁড়ায়, হাঁটে। দুধ ছাড়ে, খেতে আর পান করতে শেখে। একসময় বালেগ হয়, দেশে দেশে চলাফেরা করার বয়সে পৌঁছায়। কাতাদা জানান, কেউ কেউ বলেছেন এ হলো চুল গজানো। আর দাহহাক বলেছেন জন্মের পরের দাঁত ও চুলের কথা।"
+          },
+          {
+            "en": "A third view, from Mujahid through Ibn Abi Najih, is the moment his youth reached its full measure, though at-Tabari also lists Mujahid with the first group by another chain. Al-Baghawi adds from al-Hasan: male or female. Then the weighing. At-Tabari judges the breathing of the spirit most correct. Al-Qurtubi calls it sound to take the phrase as general: this and more, speech, perception, skilful striving and the gaining of understanding, until death. Ibn Kathir sees no contradiction, since the changes begin with the breathing of the spirit.",
+            "bn": "তৃতীয় মতটি ইবন আবী নাজীহের সূত্রে মুজাহিদের: যখন তার যৌবন পূর্ণতায় পৌঁছায়। অবশ্য তাবারী অন্য সূত্রে মুজাহিদকে প্রথম দলেও গণনা করেছেন। বাগাভী হাসান থেকে যোগ করেন: পুরুষ না নারী, সেটা। এবার মতগুলোর ওজন। তাবারীর বিচারে রূহ ফুঁকে দেওয়ার মতটাই সবচেয়ে সঠিক। কুরতুবী বলেন, সঠিক হলো কথাটাকে ব্যাপক ধরা: এসব তো আছেই, আরও আছে কথা বলা, উপলব্ধি, দক্ষ চেষ্টা আর বুদ্ধি দিয়ে জ্ঞান অর্জন, মৃত্যু পর্যন্ত। ইবন কাসীর কোনো বিরোধ দেখেন না, কারণ রূহ ফুঁকে দেওয়ার মুহূর্ত থেকেই এই পালাবদলের শুরু।"
           }
         ]
       },
       {
         "h": {
-          "en": "Drawing the Conclusion",
-          "bn": "সিদ্ধান্তটি টানা"
+          "en": "From a Form to a Person",
+          "bn": "আকৃতি থেকে মানুষ"
         },
         "p": [
           {
-            "en": "Lived, this is a discipline of attention rather than of study. Say the last four words of the verse when a child is born, when a body recovers, when a hand does what it was told to do. The verse does not ask its reader to explain anything. It asks him to draw the conclusion it has already drawn: that the One who did this once is neither wearied nor finished, and the raising is His to do.",
-            "bn": "জীবনে এর চর্চা মানে পড়াশোনা নয়, মনোযোগ। শিশু জন্মালে, অসুস্থ শরীর সেরে উঠলে, হাত যা করতে বলা হলো ঠিক তা-ই করলে, আয়াতটির শেষ চারটি শব্দ বলুন। আয়াতটি পাঠকের কাছে কোনো ব্যাখ্যা চায় না। চায় শুধু, আয়াত নিজে যে সিদ্ধান্তে পৌঁছেছে, পাঠকও সেখানে পৌঁছাক: যিনি একবার এ কাজ করেছেন, তিনি ক্লান্তও হননি, তাঁর কাজ ফুরিয়েও যায়নি; আবার জীবিত করে ওঠানো তাঁরই কাজ।"
+            "en": "At-Tabari explains his choice. Before the breathing of the spirit he was in the states Allah described, nutfa, 'alaqa, mudgha and bone; through it he passes from all of them into the meaning of humanity, just as his father Adam (AS) was turned by it from clay into a human being, a creation other than clay. At-Tabari also notes that the him in ansha'nahu goes back to al-insan in 23:12, or may gather all the stages as one thing.",
+            "bn": "তাবারী নিজের পছন্দের কারণ খুলে বলেন। রূহ ফুঁকে দেওয়ার আগে সে ছিল আল্লাহর বর্ণিত অবস্থাগুলোতে: নুতফা, আলাকা, মুদগা, হাড়। রূহের মাধ্যমে সে এসব পেরিয়ে মানবতার অর্থে পৌঁছায়। ঠিক যেমন তার পিতা আদম (আঃ) রূহ ফুঁকে দেওয়ায় মাটি থেকে রূপ নিলেন মানুষে, মাটি থেকে আলাদা এক সৃষ্টিতে। তাবারী আরও বলেন, 'আনশা'নাহু'র সর্বনামটি ফিরেছে ২৩:১২ আয়াতের 'আল-ইনসান'-এর দিকে। আবার এমনও হতে পারে যে সব ধাপকে একটি জিনিস ধরে সর্বনামটি সবগুলোকেই বোঝাচ্ছে।"
+          },
+          {
+            "en": "As-Sa'di puts the change in a phrase: he moved from being inanimate to being a living creature. Ibn Kathir gives the one now formed hearing, sight, perception and movement. Ma'arif al-Qur'an draws the line between the stages: the first six belong to the world of elements and substances, while the last is the soul's passage from the world of spirits into the body, which is why it is called a distinct creation.",
+            "bn": "সা'দী পরিবর্তনটা এক কথায় বলেন: জড় অবস্থা থেকে সে জীবন্ত প্রাণীতে পরিণত হলো। ইবন কাসীরের বর্ণনায় নতুন গড়ে ওঠা এই সত্তা শোনে, দেখে, বোঝে, নড়াচড়া করে। মাআরিফুল কুরআন ধাপগুলোর মাঝে একটা রেখা টানে। প্রথম ছয়টি ধাপ উপাদান ও বস্তুর জগতের। শেষটি হলো রূহের জগৎ থেকে শরীরে রূহের আগমন, আর সে কারণেই একে বলা হয়েছে আলাদা এক সৃষ্টি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blessed, and Best of Makers",
+          "bn": "বরকতময়, শ্রেষ্ঠ নির্মাতা"
+        },
+        "p": [
+          {
+            "en": "Then the praise: fa-tabaraka-llahu. Al-Qurtubi gives the form as tafa'ala from baraka. As-Sa'di explains it as: He is exalted, magnified, and His good is abundant. Al-Baghawi says He is worthy of glorification and praise, because He has ever been and ever will be. Ibn Kathir reads the praise against what came before it: having mentioned His power and subtlety in taking this nutfa from state to state and shape to shape until it became a well-proportioned human being, complete in form, He says, So blessed is Allah, the best of creators.",
+            "bn": "তারপর প্রশংসা: ফাতাবারাকাল্লাহ। কুরতুবী শব্দটির গঠন বলেন, বারাকাহ থেকে 'তাফাআলা' রূপ। সা'দীর ব্যাখ্যায় এর মানে: তিনি সুউচ্চ, মহান, আর তাঁর কল্যাণ অফুরন্ত। বাগাভী বলেন, তিনি সম্মান ও প্রশংসার হকদার, কারণ তিনি চিরকাল ছিলেন, চিরকাল থাকবেন। ইবন কাসীর প্রশংসাটিকে পড়েন আগের কথার আলোয়। আল্লাহ নিজের কুদরত ও সূক্ষ্ম কৌশলের কথা বললেন: কীভাবে এই নুতফাকে এক অবস্থা থেকে আরেক অবস্থায়, এক আকৃতি থেকে আরেক আকৃতিতে নিয়ে গেলেন, শেষে তা হয়ে উঠল সুগঠিত, পূর্ণাঙ্গ মানুষ। তারপরই তিনি বললেন, কাজেই সর্বোত্তম স্রষ্টা আল্লাহ কতই না বরকতময়।"
+          },
+          {
+            "en": "But if Allah alone creates, who are the other creators? At-Tabari reports two answers. Mujahid: they make and Allah makes, and Allah is the best of makers. Ibn Jurayj: because 'Isa son of Maryam (AS) used to create, and al-Baghawi cites 3:49, I create for you from clay. At-Tabari prefers Mujahid's view, because the Arabs call every maker a khaliq, and quotes Zuhayr praising a man: you cut what you have measured, while some measure and do not cut. Al-Baghawi gives the root sense: khalq is taqdir, measuring out.",
+            "bn": "কিন্তু সৃষ্টি তো একমাত্র আল্লাহই করেন, তাহলে অন্য স্রষ্টা কারা? তাবারী দুটি জবাব আনেন। মুজাহিদ বলেছেন: তারা বানায়, আল্লাহও বানান, আর আল্লাহই শ্রেষ্ঠ নির্মাতা। ইবন জুরাইজ বলেছেন, কারণ মারইয়ামপুত্র ঈসা (আঃ) সৃষ্টি করতেন। বাগাভী এখানে ৩:৪৯ উদ্ধৃত করেন: আমি তোমাদের জন্য মাটি থেকে গড়ি। তাবারী মুজাহিদের মত বেছে নেন, কারণ আরবরা যেকোনো কারিগরকে 'খালিক' বলে। প্রমাণ হিসেবে আনেন যুহাইরের এক প্রশংসা-পঙ্‌ক্তি: তুমি যা মাপো তা কেটেও ফেলো, আর কিছু লোক মাপে কিন্তু কাটে না। বাগাভী শব্দের মূল অর্থ বলেন: 'খালক' মানে তাকদীর, অর্থাৎ মেপে ঠিক করা।"
+          },
+          {
+            "en": "Al-Qurtubi glosses the phrase as the most exacting of makers, and answers those who deny the word to people altogether: it is not denied of humans in the sense of making, only in the sense of bringing into being from nothing. Ma'arif al-Qur'an likewise calls human khalq a metaphor for manufacture, the reshaping of what Allah created, citing 29:17, you invent a lie, beside 3:49. As-Sa'di adds that all His creation is good and man the best of it, citing 95:4, in the finest of stature.",
+            "bn": "কুরতুবী বাক্যাংশটির অর্থ করেন, নিখুঁততম নির্মাতা। যাঁরা মানুষের বেলায় শব্দটি একেবারেই অস্বীকার করেন, তাঁদের জবাবও দেন। মানুষের ক্ষেত্রে বানানো অর্থে শব্দটি অস্বীকার করা হয় না, অস্বীকার করা হয় শুধু শূন্য থেকে অস্তিত্বে আনার অর্থে। মাআরিফুল কুরআনও বলে, মানুষের 'খালক' রূপক অর্থে নির্মাণ, আল্লাহর সৃষ্ট বস্তুকে নতুন করে গড়া মাত্র। দলিল হিসেবে আনে ৩:৪৯-এর পাশাপাশি ২৯:১৭, তোমরা মিথ্যা বানাও। সা'দী যোগ করেন, তাঁর সব সৃষ্টিই সুন্দর, আর মানুষ তার মধ্যে সবচেয়ে সুন্দর। প্রমাণ ৯৫:৪, আমি মানুষকে সৃষ্টি করেছি সর্বোত্তম গঠনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words Spoken Before Revelation",
+          "bn": "ওহির আগেই উচ্চারিত কথা"
+        },
+        "p": [
+          {
+            "en": "Two commentators report that a Companion spoke the closing words before they came down. Ibn Kathir gives, through Ibn Abi Hatim, 'Umar ibn al-Khattab (RA) saying: my Lord agreed with me in four things; when 23:12 came down I said, So blessed is Allah, the best of creators, and it was revealed so. Al-Qurtubi relates that the Prophet ﷺ answered, Thus was it revealed, and cites the Musnad of at-Tayalisi; neither grades the report here. Ibn Kathir adds a second, in which Mu'adh speaks the words as Zayd ibn Thabit takes dictation.",
+            "bn": "দুজন তাফসীরকার জানান, শেষ বাক্যটি নাযিল হওয়ার আগেই একজন সাহাবী তা উচ্চারণ করেছিলেন। ইবন কাসীর ইবন আবী হাতিমের সূত্রে উমার ইবনুল খাত্তাব (রাঃ)-এর কথা আনেন: চারটি বিষয়ে আমার রব আমার সঙ্গে মিলে গেছেন। ২৩:১২ নাযিল হলে আমি বললাম, ফাতাবারাকাল্লাহু আহসানুল খালিকীন, আর ঠিক এ কথাই নাযিল হলো। কুরতুবীর বর্ণনায় নবী ﷺ জবাবে বললেন, এভাবেই নাযিল হয়েছে, আর তিনি মুসনাদে তায়ালিসীর বরাত দেন। এখানে দুজনের কেউই বর্ণনাটির মান বলেননি। ইবন কাসীর দ্বিতীয় আরেকটি বর্ণনা আনেন: যায়দ ইবন সাবিত (রাঃ) অংশটি লিখে নিচ্ছিলেন, তখন মুআয (রাঃ) কথাটি বলে ফেলেন।"
+          },
+          {
+            "en": "Ibn Kathir rejects that second report: its narrator Jabir al-Ju'fi is very weak, and it is gravely objectionable, since the sura is Meccan, while Zayd wrote down revelation only in Medina and Mu'adh accepted Islam only in Medina. Al-Qurtubi also relates that the speaker is said to have been Mu'adh, and also that it was 'Abdullah ibn Abi Sarh, who on that account left Islam, saying he would bring the like of what Muhammad brought; 6:93, he says, came down concerning him. These are their reports, with their own notes.",
+            "bn": "দ্বিতীয় বর্ণনাটি ইবন কাসীর নাকচ করে দেন। তাঁর ভাষায় এর বর্ণনাকারী জাবির আল-জু'ফী খুবই দুর্বল, আর বর্ণনাটি মারাত্মক রকম আপত্তিকর। কারণ সূরাটি মাক্কী, অথচ যায়দ ওহি লিখেছেন কেবল মদীনায়, আর মুআয ইসলাম গ্রহণ করেছেন মদীনাতেই। কুরতুবী 'বর্ণিত আছে' বলে জানান, বক্তা নাকি ছিলেন মুআয। তিনি এ-ও বর্ণনা করেন যে বক্তা ছিল আবদুল্লাহ ইবন আবী সারহ। এ কারণেই সে মুরতাদ হয়ে যায় আর বলে, মুহাম্মাদ যা আনেন, আমিও তেমন আনব। কুরতুবী বলেন, ৬:৯৩ আয়াত তার ব্যাপারেই নাযিল হয়। এগুলো তাঁদেরই বর্ণনা, তাঁদেরই মন্তব্যসহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then Death, Then the Raising",
+          "bn": "তারপর মৃত্যু, তারপর পুনরুত্থান"
+        },
+        "p": [
+          {
+            "en": "The sentence does not close the passage. 23:15 says that after that you will surely die, and 23:16 that on the Day of Resurrection you will be raised. Ibn Kathir's abridged commentary reads them together: created first from nothing, you will die, and then be created anew, as 29:20 says, then Allah will bring forth the later creation, when souls return to their bodies and all are brought to account. The verse has walked its reader through every stage, each made by the same speaker, and handed him its closing praise to say.",
+            "bn": "এ বাক্যেই অংশটি শেষ হয় না। ২৩:১৫ বলে, এরপর তোমরা অবশ্যই মরবে। ২৩:১৬ বলে, কিয়ামাতের দিন তোমাদের আবার ওঠানো হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এগুলোকে একসঙ্গে পড়ে: প্রথমে শূন্য থেকে সৃষ্টি, তারপর মৃত্যু, তারপর নতুন করে সৃষ্টি। যেমন ২৯:২০ বলে, তারপর আল্লাহ পরবর্তী সৃষ্টি ঘটাবেন, যেদিন রূহগুলো শরীরে ফিরে আসবে আর সবার হিসাব নেওয়া হবে। আয়াতটি পাঠককে প্রতিটি ধাপ পার করিয়ে এনেছে, প্রতিটির কর্তা একই। তারপর তার হাতে তুলে দিয়েছে শেষের প্রশংসাবাক্যটি, যেন সে নিজেই তা উচ্চারণ করে।"
           }
         ]
       }
@@ -2623,81 +2683,149 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "A Question at the End",
-          "bn": "শেষে একটি প্রশ্ন"
+          "en": "A Day or Part of One",
+          "bn": "এক দিন বা দিনের কিছু"
         },
         "p": [
           {
-            "en": "Surah al-Mu'minun opens by declaring that the believers have succeeded in 23:1 and ends in something like a courtroom. In the closing scene the ones being questioned are asked how many years they stayed on the earth, and in 23:113 they answer: a day, or part of a day, ask those who count. 23:114 tells them they stayed only a little, if they had known.",
-            "bn": "সূরা আল-মুমিনূন শুরু হয় ২৩:১ আয়াতে এই ঘোষণা দিয়ে যে মুমিনরা সফল হয়েছে, আর শেষ হয় অনেকটা আদালতের এক দৃশ্যে। শেষ দৃশ্যে যাদের জেরা করা হচ্ছে, তাদের জিজ্ঞেস করা হয়, দুনিয়ায় তারা কত বছর ছিল। ২৩:১১৩ আয়াতে তারা জবাব দেয়: এক দিন বা দিনের কিছু অংশ; যারা গুনে রাখে তাদের জিজ্ঞেস করুন। ২৩:১১৪ আয়াত তাদের বলে: তোমরা অল্প কালই ছিলে, যদি তোমরা জানতে!"
+            "en": "Surah al-Mu'minun closes on a scene of questioning. In 23:112 the people being questioned are asked how many years they stayed on the earth. In 23:113 they answer: a day or part of a day; ask those who keep count. In 23:114 they are told that they stayed only a little, if only they had known. Ibn Kathir's abridged English draws the lesson of the exchange: Allah is telling them how much they wasted of their short lives by failing to obey Him and worship Him alone.",
+            "bn": "সূরা আল-মুমিনূন শেষ হচ্ছে এক জিজ্ঞাসাবাদের দৃশ্যে। ২৩:১১২ আয়াতে যাদের প্রশ্ন করা হচ্ছে, তাদের কাছে জানতে চাওয়া হয়, পৃথিবীতে তারা কত বছর ছিল। ২৩:১১৩ আয়াতে তারা জবাব দেয়, এক দিন বা দিনের কিছু অংশ, যারা হিসাব রাখে তাদের জিজ্ঞেস করে দেখুন। ২৩:১১৪ আয়াতে তাদের বলা হয়, তোমরা অল্প সময়ই ছিলে, যদি জানতে! ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য এখান থেকে শিক্ষাটা বের করে আনে। আল্লাহ তাদের দেখিয়ে দিচ্ছেন, তাঁর আনুগত্য না করে আর একমাত্র তাঁর ইবাদত না করে ছোট্ট জীবনের কতটা তারা নষ্ট করেছে।"
           },
           {
-            "en": "Then the address swings away from them and onto everyone reading. 23:115 asks: did you think that We created you uselessly, and that to Us you would not be returned? The people in the scene have just discovered how short the stay was. The question that follows asks the rest of us what we thought the stay was for.",
-            "bn": "তারপর কথার মুখ তাদের দিক থেকে ঘুরে যায় আমাদের সবার দিকে, যারা পড়ছি। ২৩:১১৫ আয়াত প্রশ্ন করে: তোমরা কি ভেবেছিলে, আমি তোমাদের অনর্থক সৃষ্টি করেছি, আর তোমাদের আমার কাছে ফিরিয়ে আনা হবে না? দৃশ্যের লোকগুলো এইমাত্র টের পেল, দুনিয়ায় থাকাটা কত ছোট ছিল। পরের প্রশ্নটা আমাদের বাকিদের জিজ্ঞেস করে: এই থাকাটা কীসের জন্য বলে আমরা ভেবেছিলাম?"
+            "en": "On if only you had known, the same text says: you would not have preferred the transient to the eternal, nor earned the wrath of Allah in so short a time. The question of 23:115 follows straight on: a-fa-hasibtum annama khalaqnakum 'abathan wa annakum ilayna la turja'un, then did you think that We created you uselessly, and that to Us you would not be returned? Ibn Kathir's English sets a heading over the verse that states its answer in advance: Allah did not create His servants in vain.",
+            "bn": "'যদি জানতে' কথাটির ব্যাখ্যায় একই ভাষ্য বলে: তাহলে তোমরা চিরস্থায়ীর বদলে ক্ষণস্থায়ীকে বেছে নিতে না, আর এত অল্প সময়ে আল্লাহর ক্রোধও কামাই করতে না। ঠিক এর পরেই আসে ২৩:১১৫ আয়াতের প্রশ্ন: আফাহাসিবতুম আন্নামা খালাকনাকুম আবাসাও ওয়া আন্নাকুম ইলাইনা লা তুরজাঊন। তোমরা কি ভেবেছিলে, আমি তোমাদের অনর্থক সৃষ্টি করেছি, আর তোমাদের আমার কাছে ফিরিয়ে আনা হবে না? ইবন কাসীরের ইংরেজি ভাষ্য আয়াতটির উপর একটি শিরোনাম বসিয়ে আগেই জবাব জানিয়ে দেয়: আল্লাহ তাঁর বান্দাদের অনর্থক সৃষ্টি করেননি।"
+          },
+          {
+            "en": "Who is being asked? The commentators answer differently. At-Tabari keeps the address inside the scene: did you think, O you wretched ones, that We created you in play and falsehood, and that after your deaths you would not be brought back to life to be repaid for what you used to do in the world? The Muyassar and as-Sa'di both open the question with ayyuha al-khalq, O creation, so that it reaches every created listener.",
+            "bn": "প্রশ্নটা কাকে করা হচ্ছে? তাফসীরকারেরা এখানে ভিন্ন জবাব দেন। তাবারী সম্বোধনটাকে দৃশ্যের ভেতরেই রাখেন। তাঁর ভাষায়: হে হতভাগারা, তোমরা কি ভেবেছিলে আমি তোমাদের খেলা আর অসার উদ্দেশ্যে সৃষ্টি করেছি? ভেবেছিলে, মৃত্যুর পর তোমাদের আর জীবিত করা হবে না, দুনিয়ায় যা করতে তার প্রতিদান দেওয়া হবে না? মুয়াসসার আর সা'দী দুজনেই প্রশ্নটা শুরু করেন 'আইয়্যুহাল খালক' দিয়ে, অর্থাৎ হে সৃষ্টিকুল। ফলে প্রশ্নটা পৌঁছে যায় প্রত্যেক সৃষ্ট শ্রোতার কাছে।"
           }
         ]
       },
       {
         "h": {
-          "en": "Abathan",
-          "bn": "আবাছান"
+          "en": "In Play and for Nothing",
+          "bn": "খেলাচ্ছলে, অনর্থক"
         },
         "p": [
           {
-            "en": "The word abathan occurs once in the Quran, here. It does not mean cruelty or accident; it means aimless fiddling, an act done to no end at all — play without even the purpose that play has. It is the strongest available word for pointlessness, and the verse puts it in the mouths of the people it is questioning rather than arguing against it.",
-            "bn": "'আবাছান' শব্দটি কুরআনে মাত্র একবার এসেছে, এখানেই। এর মানে নিষ্ঠুরতা নয়, দুর্ঘটনাও নয়। এর মানে উদ্দেশ্যহীন খুটখাট, এমন কাজ যার কোনো লক্ষ্যই নেই; খেলারও যে একটা উদ্দেশ্য থাকে, এতে সেটুকুও নেই। অর্থহীনতা বোঝাতে এর চেয়ে জোরালো শব্দ আর নেই। আয়াতটি এ ধারণার বিরুদ্ধে তর্কে যায় না; শব্দটি তুলে দেয় তাদেরই মুখে, যাদের প্রশ্ন করা হচ্ছে।"
+            "en": "Every commentator fetched here glosses the single word 'abathan, and each adds something different. At-Tabari gives la'iban wa batilan, in play and in falsehood, and supports it with Ibn Jurayj, who said only: batilan, falsely. Al-Baghawi repeats in play and in falsehood and adds la li-hikmah, for no wisdom. Ibn Kathir's Arabic reads: without aim, without intent, and without wisdom on Our part. His abridged English renders the same gloss as in vain, with no purpose, with nothing required of you and no wisdom on Our part.",
+            "bn": "এখানে যত তাফসীর সংগ্রহ করা হয়েছে, সবগুলোই 'আবাসান' শব্দটির ব্যাখ্যা দিয়েছে, আর প্রত্যেকে কিছু না কিছু যোগ করেছে। তাবারী বলেন 'লাইবান ওয়া বাতিলান', খেলা আর অসারতা। সমর্থনে আনেন ইবন জুরাইজকে, যিনি শুধু বলেছিলেন: বাতিলান, অসার। বাগাভীও খেলা আর অসারতার কথা বলেন, সঙ্গে জোড়েন 'লা লি-হিকমাহ', কোনো হিকমত ছাড়া। ইবন কাসীরের আরবি ভাষ্যে আছে: কোনো লক্ষ্য নেই, কোনো অভিপ্রায় নেই, আমার পক্ষ থেকে কোনো হিকমতও নেই। তাঁর সংক্ষিপ্ত ইংরেজি ভাষ্য একই ব্যাখ্যা দেয় এভাবে: অনর্থক, উদ্দেশ্যহীন, তোমাদের কাছে কিছুই চাওয়া হয়নি, আর আমার কোনো হিকমতও নেই।"
           },
           {
-            "en": "There are two clauses, not one, and they belong together: created uselessly, and not returned. Purpose and destination are treated as a single question, because a life with a destination cannot be pointless and a life without one cannot be anything else. Note also the person: 75:36 asks about man in the third person, at a distance. This verse turns and asks you, plural, to your face.",
-            "bn": "এখানে কথা একটা নয়, দুটো, আর দুটো একসঙ্গে বাঁধা: অনর্থক সৃষ্টি, আর ফিরিয়ে না আনা। উদ্দেশ্য আর গন্তব্যকে এখানে একটাই প্রশ্ন ধরা হয়েছে, কারণ যে জীবনের গন্তব্য আছে তা অর্থহীন হতে পারে না, আর যে জীবনের গন্তব্য নেই তা অর্থহীন ছাড়া আর কিছু হতে পারে না। সম্বোধনের ধরনটাও খেয়াল করুন। ৭৫:৩৬ আয়াত মানুষ সম্পর্কে প্রশ্ন তোলে দূরত্ব রেখে, তার কথা অন্যের মতো করে বলে। এই আয়াত ঘুরে মুখোমুখি প্রশ্ন করে, বহুবচনে: তোমরা।"
+            "en": "The Muyassar turns from the act of creating to the life it would produce. It glosses 'abathan as muhmalin, left untended: no command and no prohibition, no reward and no punishment. As-Sa'di fills in the picture. He glosses the word as suda wa batilan, left alone and to no end, and then describes such a life: you eat, you drink, you make merry, you enjoy the pleasures of the world, while We leave you, neither commanding you nor forbidding you, neither rewarding you nor punishing you.",
+            "bn": "মুয়াসসার সৃষ্টির কাজ থেকে নজর ফেরায় সেই জীবনের দিকে, যা এমন সৃষ্টি থেকে দাঁড়াত। 'আবাসান'-এর ব্যাখ্যায় সে বলে 'মুহমালীন', অর্থাৎ অযত্নে ছেড়ে রাখা। কোনো আদেশ নেই, নিষেধ নেই, পুরস্কার নেই, শাস্তিও নেই। সা'দী ছবিটা আরও ভরিয়ে তোলেন। তাঁর ব্যাখ্যায় শব্দটির মানে 'সুদান ওয়া বাতিলান', লাগামহীন ও অসার। তারপর তিনি এমন জীবনের বর্ণনা দেন: তোমরা খাও, পান করো, ফুর্তি করো, দুনিয়ার স্বাদ উপভোগ করো। আর আমি তোমাদের ছেড়ে রাখি, না আদেশ দিই, না নিষেধ করি, না পুরস্কার দিই, না শাস্তি।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Rule Already Covers the Sky",
-          "bn": "আসমানও আগে থেকেই এ নিয়মে বাঁধা"
+          "en": "Not Left Like Grazing Cattle",
+          "bn": "চরে বেড়ানো পশুর মতো নয়"
         },
         "p": [
           {
-            "en": "The charge of pointlessness has already been answered at the largest scale. 21:16 and 44:38 both deny that the heavens, the earth and what is between them were made in play, and 44:39 says they were created only in truth. 38:27 adds that the opposite assumption is what those who disbelieve suppose. So the question here is not opening a new subject; it is refusing to let the listener exempt himself from a rule that already covers everything above his head.",
-            "bn": "অর্থহীনতার অভিযোগের জবাব সবচেয়ে বড় পরিসরে আগেই দেওয়া হয়ে গেছে। ২১:১৬ আর ৪৪:৩৮ দুই আয়াতই বলে, আসমান, যমীন আর এ দুয়ের মাঝে যা আছে, তা খেলাচ্ছলে বানানো হয়নি। ৪৪:৩৯ বলে, এগুলো সৃষ্টি হয়েছে কেবল যথাযথ উদ্দেশ্যে। ৩৮:২৭ যোগ করে, উল্টোটা ভাবা কাফিরদেরই ধারণা। কাজেই এখানে প্রশ্নটা নতুন কোনো প্রসঙ্গ খুলছে না। মাথার ওপরের সবকিছু যে নিয়মে আগে থেকেই বাঁধা, শ্রোতা যেন নিজেকে তার বাইরে না ভাবে, প্রশ্নটা সে পথই বন্ধ করছে।"
+            "en": "Two commentators reach for the same comparison. Al-Qurtubi glosses 'abathan as muhmalin, left untended, as the cattle were created, with no reward for them and no punishment upon them. Al-Baghawi gives the same image under a second reading he introduces with wa qila, it is said: li-l-'abath, so that you might play and trifle, as the cattle were created. Both, together with Ibn Kathir, then cite 75:36: ayahsabu al-insanu an yutraka suda, does man think that he will be left untended? Ibn Kathir explains suda as hamalan, neglected.",
+            "bn": "দুজন তাফসীরকার একই তুলনা টানেন। কুরতুবী 'আবাসান'-এর ব্যাখ্যা দেন 'মুহমালীন' দিয়ে: অযত্নে ছেড়ে রাখা, যেভাবে পশুদের সৃষ্টি করা হয়েছে, যাদের জন্য পুরস্কারও নেই, যাদের উপর শাস্তিও নেই। বাগাভী 'বলা হয়' কথাটি দিয়ে আরেকটি ব্যাখ্যা আনেন, সেখানেও একই ছবি: 'লিল-আবাস', যাতে তোমরা পশুদের মতো খেলাধুলা আর হেলাফেলায় মেতে থাকো। তারপর দুজনেই, ইবন কাসীরকে সঙ্গে নিয়ে, ৭৫:৩৬ আয়াত উদ্ধৃত করেন: আইয়াহসাবুল ইনসানু আঁই ইউতরাকা সুদা, মানুষ কি ভাবে তাকে লাগামহীন ছেড়ে দেওয়া হবে? ইবন কাসীর 'সুদা'-র মানে বলেন 'হামালান', অবহেলায় ফেলে রাখা।"
           },
           {
-            "en": "The same surah has also already described how carefully the questioned party was assembled. 23:12 to 23:14 take a human being from an extract of clay through a drop, a clot, a lump, bones and flesh, and end by blessing Allah, the best of creators. A reader who has passed through those verses cannot easily claim that the making looked casual.",
-            "bn": "এই সূরাই আগে দেখিয়েছে, যাদের প্রশ্ন করা হচ্ছে তাদের কত যত্ন করে গড়া হয়েছে। ২৩:১২ থেকে ২৩:১৪ আয়াত মানুষকে নিয়ে যায় মাটির নির্যাস থেকে শুক্রবিন্দু, জমাট রক্ত, মাংসপিণ্ড, হাড় আর গোশতের ভেতর দিয়ে, আর শেষ হয় এই কথায়: সর্বোত্তম স্রষ্টা আল্লাহ কত বরকতময়! এই আয়াতগুলো পেরিয়ে আসা পাঠক সহজে বলতে পারেন না যে এই গড়া হেলাফেলায় হয়েছিল।"
+            "en": "Al-Qurtubi reads 75:36 in the same key: left like the cattle, untended, for no benefit. Al-Baghawi then states the other side plainly: innama khuliqtum li-l-'ibadah wa iqamati awamir Allah, you were created only for worship and for carrying out the commands of Allah. In these texts the point of the comparison is narrow. A creature with no reward and no punishment is a creature of whom nothing is asked, and the verse denies that the human being is such a creature.",
+            "bn": "কুরতুবী ৭৫:৩৬ আয়াতকেও একই সুরে পড়েন: পশুর মতো অযত্নে ছেড়ে রাখা, কোনো ফায়দা ছাড়া। এরপর বাগাভী অন্য দিকটা সোজাসুজি বলেন: 'ইন্নামা খুলিকতুম লিল-ইবাদাহ ওয়া ইকামাতি আওয়ামিরিল্লাহ', তোমাদের সৃষ্টি করা হয়েছে কেবল ইবাদতের জন্য আর আল্লাহর আদেশ পালনের জন্য। এসব পাঠে তুলনাটার লক্ষ্য খুব নির্দিষ্ট। যার জন্য পুরস্কার নেই, শাস্তিও নেই, তার কাছে কিছু চাওয়াও হয় না। আয়াতটি অস্বীকার করে যে মানুষ তেমন সৃষ্টি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a passage from al-Hakim at-Tirmidhi, whom he names in full as Abu 'Abd Allah Muhammad ibn 'Ali. Allah created the creation as servants so that they would worship Him, rewarding them for worship and punishing them for abandoning it. If they worship Him, they are today His servants, free and noble, released from the bondage of the world. If they refuse servanthood, they are today runaway slaves, fallen and base, and tomorrow enemies held in prisons among the layers of the fire.",
+            "bn": "কুরতুবী এখানে হাকীম তিরমিযীর একটি উক্তি যোগ করেন, যাঁর পুরো নাম তিনি দেন আবু আবদুল্লাহ মুহাম্মাদ ইবন আলী। উক্তিটি এই: আল্লাহ সৃষ্টিকে বান্দা করে সৃষ্টি করেছেন, যাতে তারা তাঁর ইবাদত করে। ইবাদতের জন্য তিনি তাদের পুরস্কার দেন, ইবাদত ছেড়ে দিলে শাস্তি দেন। তারা যদি তাঁর ইবাদত করে, তবে আজ তারা তাঁর বান্দা, অথচ স্বাধীন ও সম্মানিত, দুনিয়ার গোলামি থেকে মুক্ত। আর যদি বান্দাগিরি অস্বীকার করে, তবে আজ তারা পলাতক গোলাম, পতিত ও হীন। কাল তারা শত্রু হয়ে বন্দি থাকবে আগুনের স্তরে স্তরে।"
           }
         ]
       },
       {
         "h": {
-          "en": "The True King",
-          "bn": "প্রকৃত অধিপতি"
+          "en": "Brought Back, or Returning",
+          "bn": "ফিরিয়ে আনা, নাকি ফিরে আসা"
         },
         "p": [
           {
-            "en": "23:116 answers the question by naming Someone: so exalted is Allah, the Sovereign, the Truth. The pairing al-Malik al-Haqq occurs exactly twice in the Quran, here and in 20:114, and the second name is doing work on the first. Kingship is the most counterfeited claim there is, and al-Haqq marks this one as the real one, against every borrowed authority. Earlier in this same surah, 23:88 had asked in whose hand the realm of all things lies.",
-            "bn": "২৩:১১৬ আয়াত প্রশ্নটির জবাব দেয় একজনের নাম নিয়ে: অতএব মহিমান্বিত আল্লাহ, যিনি প্রকৃত অধিপতি, যিনি সত্য। 'আল-মালিকুল হাক্ক' জোড়াটি কুরআনে ঠিক দুবার এসেছে: এখানে আর ২০:১১৪ আয়াতে। দ্বিতীয় নামটি প্রথমটির অর্থে কিছু যোগ করছে। রাজত্বের দাবিই দুনিয়ায় সবচেয়ে বেশি নকল হয়। 'আল-হাক্ক' জানিয়ে দেয়, ধার করা সব কর্তৃত্বের বিপরীতে এই রাজত্বই আসল। এই সূরাতেই আগে ২৩:৮৮ আয়াত প্রশ্ন করেছিল, সবকিছুর কর্তৃত্ব কার হাতে।"
+            "en": "The second clause, wa annakum ilayna la turja'un, is glossed as a return to judgment. At-Tabari: that after your deaths you would not become living again, to be repaid. The Muyassar: that you would not be returned to Us in the Hereafter for the reckoning and the recompense. Al-Qurtubi: so that you would be repaid for your deeds. As-Sa'di joins the two clauses with for this reason He said, and glosses the second in one phrase: this does not cross your minds.",
+            "bn": "দ্বিতীয় অংশ, ওয়া আন্নাকুম ইলাইনা লা তুরজাঊন, তাফসীরকারেরা ব্যাখ্যা করেন বিচারের জন্য ফেরা হিসেবে। তাবারী: মৃত্যুর পর তোমরা আবার জীবিত হবে না, প্রতিদান পাবে না। মুয়াসসার: আখিরাতে হিসাব আর প্রতিফলের জন্য তোমাদের আমার কাছে ফেরানো হবে না। কুরতুবী: যাতে তোমাদের আমলের প্রতিফল দেওয়া হয়। সা'দী দুই অংশকে জোড়েন 'এ কারণেই তিনি বলেছেন' কথাটি দিয়ে, আর দ্বিতীয় অংশের ব্যাখ্যা দেন একটি বাক্যে: এ কথা তোমাদের মনেই আসে না।"
           },
           {
-            "en": "The verse continues: there is no deity except Him, Lord of the Noble Throne. That last phrase, rabb al-arsh al-karim, occurs only here. And this is not the end of the surah, which runs to 118 verses. 23:117 warns whoever calls on another deity without proof, and 23:118 closes with a supplication: my Lord, forgive and have mercy, and You are the best of the merciful.",
-            "bn": "আয়াত এগিয়ে চলে: তিনি ছাড়া কোনো ইলাহ নেই, তিনি সম্মানিত আরশের রব। শেষ শব্দগুচ্ছ 'রব্বুল আরশিল কারীম' কুরআনে কেবল এখানেই এসেছে। তবে সূরা এখানেই শেষ নয়; সূরায় আয়াত ১১৮টি। ২৩:১১৭ আয়াত সতর্ক করে তাকে, যে কোনো প্রমাণ ছাড়াই অন্য ইলাহকে ডাকে। আর ২৩:১১৮ শেষ হয় একটি দোয়ায়: হে আমার রব, মাফ করুন, রহম করুন, আপনিই দয়ালুদের মধ্যে সর্বশ্রেষ্ঠ।"
+            "en": "The verb itself is read in two ways, and at-Tabari reports both. Some readers of Medina, Basra and Kufa read la turja'un, in the passive, you will not be brought back, and said that it means the return of the Hereafter, not a return to this world. Most readers of Kufa read la tarji'un, you will not return, and said that the return of the Hereafter and a return to the world are alike in it. Al-Qurtubi names Hamza and al-Kisa'i for the active reading, and al-Baghawi adds Ya'qub.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়, আর তাবারী দুটিরই বিবরণ দেন। মদীনা, বসরা ও কুফার কিছু কারী পড়েছেন 'লা তুরজাঊন', কর্মবাচ্যে: তোমাদের ফিরিয়ে আনা হবে না। তাঁরা বলেছেন, এখানে আখিরাতের দিকে ফেরার কথা, দুনিয়ায় ফেরার কথা নয়। কুফার অধিকাংশ কারী পড়েছেন 'লা তারজিঊন': তোমরা ফিরবে না। তাঁদের মতে আখিরাতে ফেরা আর দুনিয়ায় ফেরা, দুটিই এর আওতায় পড়ে। কুরতুবী কর্তৃবাচ্যের পাঠের জন্য হামযা ও কিসাঈর নাম বলেন, বাগাভী তাঁদের সঙ্গে ইয়াকূবকে যোগ করেন।"
+          },
+          {
+            "en": "At-Tabari judges the two readings close in meaning: whoever Allah brings back from this world to the Hereafter after his passing has returned to it, and whoever returns to it returns because Allah brought him back. Both are well known, scholars among the readers used each, and a reciter who uses either is correct. On 'abathan itself the grammarians differ, as al-Qurtubi reports: Sibawayh and Qutrub take it as describing a state, while Abu 'Ubaydah takes it as a verbal noun or as naming a purpose.",
+            "bn": "তাবারীর রায়, দুই পাঠের অর্থ কাছাকাছি। দুনিয়ায় শেষ হয়ে যাওয়ার পর আল্লাহ যাকে আখিরাতে ফিরিয়ে নেন, সে তো সেখানে ফিরেই গেল। আর যে সেখানে ফেরে, সে ফেরে আল্লাহ তাকে ফিরিয়ে নেন বলেই। দুটি পাঠই সুপরিচিত, কারীদের মধ্যে আলিমরা দুটিই পড়েছেন, যে-কোনোটি পড়লেই পাঠক সঠিক। 'আবাসান' শব্দটির ব্যাকরণ নিয়ে মতভেদের কথা জানান কুরতুবী। সিবাওয়াইহ ও কুতরুবের মতে শব্দটি অবস্থা বোঝায় (হাল)। আবু উবাইদার মতে এটি ক্রিয়ার মূল রূপ (মাসদার), অথবা উদ্দেশ্য বোঝানো শব্দ।"
           }
         ]
       },
       {
         "h": {
-          "en": "Why the Answer Is a King",
-          "bn": "জবাবে কেন অধিপতির নাম"
+          "en": "Exalted Above Which Claim",
+          "bn": "কোন ধারণার ঊর্ধ্বে তিনি"
         },
         "p": [
           {
-            "en": "It is worth asking why a question about purpose is answered with a title of sovereignty. If we had been made in jest, there would be a player and no ruler, and a game keeps no accounts. Naming Him the true King settles the charge at its root: a real kingdom has real subjects, subjects are answerable, and answerable lives are not futile ones.",
-            "bn": "প্রশ্নটা উদ্দেশ্য নিয়ে, অথচ জবাব এল রাজত্বের উপাধি দিয়ে। কেন, তা ভেবে দেখার মতো। আমাদের যদি তামাশা করে বানানো হতো, তবে থাকত একজন খেলোয়াড়, কোনো শাসক নয়; আর খেলায় কোনো হিসাবনিকাশ থাকে না। তাঁকে প্রকৃত অধিপতি বলে অভিযোগটার গোড়াই কেটে দেওয়া হলো: সত্যিকারের রাজ্যে সত্যিকারের প্রজা থাকে, প্রজাদের জবাবদিহি করতে হয়, আর যে জীবনের জবাবদিহি আছে তা অর্থহীন নয়।"
+            "en": "23:116 answers with a declaration: fa-ta'ala Allahu al-maliku al-haqq, so exalted is Allah, the King, the Truth. The commentators differ over what He is exalted above. Ibn Kathir ties it to the question just asked: He is sanctified above creating anything in vain, for He is the True King, who is free of that. The Muyassar says the same and adds or foolishly. As-Sa'di reads the exaltation as His rising above this false thought, a thought that, he says, comes down in the end to impugning His wisdom.",
+            "bn": "২৩:১১৬ আয়াত জবাব দেয় এক ঘোষণায়: ফাতাআলাল্লাহুল মালিকুল হাক্ক, সুউচ্চ আল্লাহ, যিনি প্রকৃত অধিপতি। তিনি ঠিক কোন জিনিসের ঊর্ধ্বে, তা নিয়ে তাফসীরকারদের মধ্যে ভিন্নতা আছে। ইবন কাসীর একে জুড়ে দেন সদ্য করা প্রশ্নটির সঙ্গে: অনর্থক কিছু সৃষ্টি করা থেকে তিনি পবিত্র, কারণ তিনিই প্রকৃত অধিপতি, এমন কাজ থেকে মুক্ত। মুয়াসসারও তাই বলে, সঙ্গে যোগ করে 'বা নির্বুদ্ধিতায়'। সা'দীর পাঠে তিনি এই ভ্রান্ত ধারণার বহু ঊর্ধ্বে। তাঁর মতে, শেষ বিচারে এ ধারণা আল্লাহর হিকমতের উপরই আঘাত।"
           },
           {
-            "en": "Notice the shape of the whole surah. It claims success for the believers in its first verse and asks for mercy in its last. Between the two sits this question, which is really an invitation to audit the assumption underneath an ordinary week. Someone who genuinely holds that he is returning to a true King spends his hours differently, and the difference usually shows up first in what he stops treating as unimportant.",
-            "bn": "গোটা সূরার গড়নটা খেয়াল করুন। প্রথম আয়াতে মুমিনদের সফলতার ঘোষণা, শেষ আয়াতে রহমতের দোয়া। মাঝখানে এই প্রশ্ন, যা আসলে একটা আমন্ত্রণ: আমাদের সাধারণ সপ্তাহগুলোর তলায় যে ধারণা চুপচাপ কাজ করে, তা একবার যাচাই করে দেখা। যে মানুষ সত্যিই বিশ্বাস করে যে সে এক প্রকৃত অধিপতির কাছে ফিরে যাচ্ছে, তার সময় কাটে অন্যভাবে। আর তফাতটা সাধারণত প্রথমে চোখে পড়ে এখানে: কোন জিনিসগুলোকে সে আর তুচ্ছ ভাবে না।"
+            "en": "At-Tabari reads the exaltation differently: exalted is Allah, the True King, above what these polytheists ascribe to Him, that He has a partner, and above their claim that He has taken daughters. Al-Baghawi's text on the verse also opens on the polytheists: then Allah declared Himself far above what they ascribe to Him. Al-Qurtubi joins the two lines of reading. He is exalted above children, partners and rivals, and above creating anything in vain or foolishly, because He is al-Hakim, the Wise.",
+            "bn": "তাবারী এই উচ্চতাকে পড়েন অন্যভাবে। তাঁর ব্যাখ্যায়, প্রকৃত অধিপতি আল্লাহ এই মুশরিকদের আরোপ থেকে ঊর্ধ্বে: তাঁর কোনো শরিক আছে, এ দাবি থেকে, আর তিনি কন্যা গ্রহণ করেছেন, এ দাবি থেকেও। বাগাভীর পাঠও আয়াতটি শুরু করে মুশরিকদের প্রসঙ্গ দিয়ে: তারা তাঁর প্রতি যা আরোপ করে, আল্লাহ নিজেকে তা থেকে পবিত্র ঘোষণা করলেন। কুরতুবী দুই ধারার ব্যাখ্যাকে এক জায়গায় আনেন। সন্তান, শরিক আর সমকক্ষ থেকে তিনি পবিত্র। অনর্থক বা নির্বুদ্ধিতায় কিছু সৃষ্টি করা থেকেও পবিত্র, কারণ তিনি আল-হাকীম, প্রজ্ঞাময়।"
+          },
+          {
+            "en": "In these texts the two names after Allah carry the answer. The Muyassar glosses al-malik as the King who disposes of everything, and al-haqq as a chain: He is real, His promise is real, His threat is real, and everything from Him is real. As-Sa'di: He is King of all creation in truth, true in His word, His promise and His threat, and worshipped for the perfection that is His. At-Tabari glosses la ilaha illa huwa: there is no one worshipped to whom worship is due except Allah, the True King.",
+            "bn": "এসব পাঠে জবাবটা বহন করে আল্লাহ নামের পরের দুটি নাম। মুয়াসসার 'আল-মালিক'-এর অর্থ করে সেই অধিপতি, যিনি সবকিছু নিয়ন্ত্রণ করেন। আর 'আল-হাক্ক'-এর অর্থ দেয় এক সারিতে: তিনি সত্য, তাঁর ওয়াদা সত্য, তাঁর সতর্কবাণী সত্য, তাঁর কাছ থেকে আসা সবকিছুই সত্য। সা'দীর ভাষায় তিনি গোটা সৃষ্টির প্রকৃত অধিপতি, কথায় সত্য, ওয়াদায় সত্য, সতর্কবাণীতেও সত্য। তাঁর যে পূর্ণতা, সে কারণেই তিনি উপাস্য। লা ইলাহা ইল্লা হুয়া কথাটির ব্যাখ্যা দেন তাবারী: প্রকৃত অধিপতি আল্লাহ ছাড়া এমন কোনো উপাস্য নেই, ইবাদত যার প্রাপ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Throne Called Noble",
+          "bn": "যে আরশকে সম্মানিত বলা হলো"
+        },
+        "p": [
+          {
+            "en": "The verse ends on rabbu al-'arshi al-karim, Lord of the Noble Throne. What follows reports only what the fetched commentators say of the Throne, in their words. Ibn Kathir says the Throne is mentioned because it is the roof of all created things; his abridged English puts it as the highest point of all creation. The Muyassar calls it the greatest of created things. Al-Baghawi glosses the phrase as as-sarir al-hasan, the beautiful throne, and adds a second view with it is said: the elevated.",
+            "bn": "আয়াতটি শেষ হয় রাব্বুল আরশিল কারীম দিয়ে, সম্মানিত আরশের রব। আরশ সম্পর্কে এখানে শুধু সেটুকুই বলা হচ্ছে, যা সংগৃহীত তাফসীরগুলো নিজেদের ভাষায় বলেছে। ইবন কাসীর বলেন, আরশের উল্লেখ এসেছে কারণ তা সমস্ত সৃষ্টির ছাদ। তাঁর সংক্ষিপ্ত ইংরেজি ভাষ্যে কথাটা এসেছে এভাবে: সমগ্র সৃষ্টির সর্বোচ্চ স্থান। মুয়াসসার একে বলে সৃষ্টির মধ্যে সবচেয়ে বিশাল। বাগাভী কথাটির অর্থ করেন 'আস-সারীরুল হাসান', সুন্দর সিংহাসন। সঙ্গে 'বলা হয়' দিয়ে আরেকটি মত আনেন: সুউচ্চ।"
+          },
+          {
+            "en": "On al-karim, Ibn Kathir says the Throne is described as karim, meaning beautiful to look at and splendid in form. In support his Arabic cites 31:10, fa-anbatna fiha min kulli zawjin karim, and We caused every noble kind to grow there; his English cites 26:7, which carries the same closing words. As-Sa'di draws an argument from the title: He is Lord of the Noble Throne, so all that lies below it is His all the more, and that rules out His creating you in vain.",
+            "bn": "'আল-কারীম' সম্পর্কে ইবন কাসীর বলেন, আরশকে কারীম বলা হয়েছে, অর্থাৎ দেখতে সুন্দর আর গঠনে মনোহর। সমর্থনে তাঁর আরবি ভাষ্য আনে ৩১:১০ আয়াত, ফাআমবাতনা ফীহা মিন কুল্লি যাওজিন কারীম, আর আমি সেখানে উদ্গত করেছি সব রকমের উৎকৃষ্ট উদ্ভিদ। তাঁর ইংরেজি ভাষ্য উদ্ধৃত করে ২৬:৭ আয়াত, যার শেষেও একই শব্দগুলো আছে। সা'দী এই উপাধি থেকে একটি যুক্তি দাঁড় করান। তিনি সম্মানিত আরশের রব, তাহলে আরশের নিচে যা কিছু আছে তার রব তো তিনি আরও বেশি করে। আর এ কথাই নাকচ করে দেয় যে তিনি তোমাদের অনর্থক সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi notes that this phrase, the Throne described as karim, occurs nowhere else in the Qur'an. He also reports a variant reading: Ibn Muhaysin, and by one report Ibn Kathir among the Qur'an readers, read al-karimu in the nominative, as a description of Allah rather than of the Throne. At-Tabari, on the common reading, explains why rabb is nominative: it follows on from al-haqq, and the sense runs, exalted is Allah, the True King, Lord of the Noble Throne, there is no god but He.",
+            "bn": "কুরতুবী লক্ষ করেন, আরশকে 'কারীম' বলে বর্ণনা করার এই কথাটি কুরআনে আর কোথাও নেই। তিনি একটি ভিন্ন পাঠের কথাও জানান। ইবন মুহাইসিন, আর এক বর্ণনায় কারী ইবন কাসীর, পড়েছেন 'আল-কারীমু', পেশ দিয়ে। তখন শব্দটি আরশের নয়, আল্লাহর গুণ। প্রচলিত পাঠ ধরে তাবারী ব্যাখ্যা করেন 'রাব্ব' শব্দে কেন পেশ। তাঁর মতে শব্দটি 'আল-হাক্ক'-এর সঙ্গে যুক্ত। বাক্যের মর্ম তাই দাঁড়ায়: সুউচ্চ আল্লাহ, প্রকৃত অধিপতি, সম্মানিত আরশের রব, তিনি ছাড়া কোনো ইলাহ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sermon and the Reports",
+          "bn": "একটি খুতবা ও কিছু বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment on 23:116 with a sermon from Ibn Abi Hatim, through a chain ending in an unnamed man of the family of Sa'id ibn al-'As: the last sermon of 'Umar ibn 'Abd al-'Aziz. You were not created in vain, he said, and you will not be left untended; you have a place of return at which Allah comes down to judge between you. No one is safe tomorrow except one who feared this day and sold the passing for the lasting. Then he covered his face with his cloak and wept.",
+            "bn": "২৩:১১৬ আয়াতের আলোচনা ইবন কাসীর শেষ করেন ইবন আবী হাতিম থেকে নেওয়া একটি খুতবা দিয়ে। সনদের শেষ বর্ণনাকারী সাঈদ ইবনুল আসের পরিবারের একজন অনামা লোক। খুতবাটি ছিল উমর ইবন আবদুল আযীযের শেষ খুতবা। তিনি বললেন: তোমাদের অনর্থক সৃষ্টি করা হয়নি, লাগামহীন ছেড়েও দেওয়া হবে না। তোমাদের এক প্রত্যাবর্তনস্থল আছে, যেখানে আল্লাহ নেমে আসবেন তোমাদের মধ্যে বিচার করতে। কাল সে-ই নিরাপদ, যে এই দিনকে ভয় করেছে, ফুরিয়ে যাওয়া জিনিস বেচে স্থায়ী জিনিস কিনেছে। তারপর তিনি চাদরে মুখ ঢেকে কাঁদলেন।"
+          },
+          {
+            "en": "The tafsirs also attach narrations. Ibn Kathir, from Ibn Abi Hatim, and al-Baghawi, with his own chain, report through Ibn Lahi'ah that 'Abd Allah ibn Mas'ud recited from this verse to the end of the surah into the ear of an afflicted man, who recovered, and that the Prophet ﷺ spoke of the verses' power. Ibn Kathir adds a report from Abu Nu'aym about reciting 23:115 morning and evening on an expedition. Neither commentator grades them, they are cited from outside the six collections, and this article builds nothing on them.",
+            "bn": "তাফসীরগুলো এই আয়াতগুলোর সঙ্গে কিছু বর্ণনাও জুড়ে দেয়। ইবন কাসীর ইবন আবী হাতিম থেকে, আর বাগাভী নিজের সনদে, ইবন লাহীআর সূত্রে বর্ণনা করেন: আবদুল্লাহ ইবন মাসঊদ (রাঃ) এক পীড়িত লোকের কানে এই আয়াত থেকে সূরার শেষ পর্যন্ত পড়লেন, লোকটি সেরে উঠল। আর নবী ﷺ আয়াতগুলোর শক্তির কথা বললেন। ইবন কাসীর আবু নুআইম থেকে আরেকটি বর্ণনা আনেন, এক অভিযানে সকাল-সন্ধ্যা ২৩:১১৫ আয়াত পড়া নিয়ে। দুই তাফসীরকারের কেউই এগুলোর মান নির্ধারণ করেননি। এগুলো এসেছে প্রসিদ্ধ ছয়টি হাদীসগ্রন্থের বাইরে থেকে, আর এ লেখা এগুলোর উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Question Reaches",
+          "bn": "প্রশ্নটা কার কাছে পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "In at-Tabari's reading the question is put to the wretched in the scene of judgment, and the exaltation of 23:116, in his reading and al-Baghawi's, answers what the polytheists ascribe to Allah. The verse describes what the text describes: a question put to those who denied the return. It licenses nothing against any living person or community. The O creation of the Muyassar and as-Sa'di turns the question back on every reader instead.",
+            "bn": "তাবারীর পাঠে প্রশ্নটা করা হচ্ছে বিচারের দৃশ্যে উপস্থিত হতভাগাদের। আর ২৩:১১৬ আয়াতের উচ্চতার ঘোষণা, তাঁর ও বাগাভীর পাঠে, মুশরিকরা আল্লাহর প্রতি যা আরোপ করে তার জবাব। আয়াতটি শুধু সেটুকুই বর্ণনা করে, যা পাঠে আছে: পুনরুত্থান যারা অস্বীকার করেছিল, তাদের প্রতি একটি প্রশ্ন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। বরং মুয়াসসার আর সা'দীর 'হে সৃষ্টিকুল' প্রশ্নটাকে ফিরিয়ে দেয় প্রত্যেক পাঠকের দিকেই।"
+          },
+          {
+            "en": "23:117 warns that whoever calls on another god with Allah has no proof for it, and that his account is with his Lord. None of the texts fetched on 23:115 and 23:116 draws a line to it, though Ma'arif al-Qur'an treats 23:115 to 23:118 as a single passage. 23:118 then closes the surah with a prayer: my Lord, forgive and have mercy, and You are the best of the merciful.",
+            "bn": "২৩:১১৭ আয়াত সতর্ক করে, যে আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডাকে, তার পক্ষে কোনো প্রমাণ নেই, আর তার হিসাব তার রবের কাছে। ২৩:১১৫ ও ২৩:১১৬ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে সরাসরি যোগসূত্র টানে না। তবে মাআরিফুল কুরআন ২৩:১১৫ থেকে ২৩:১১৮ পর্যন্ত আয়াতগুলোকে এক অংশ হিসেবে দেখে। তারপর ২৩:১১৮ আয়াত সূরাটি শেষ করে এক দোয়ায়: হে আমার রব, ক্ষমা করুন, দয়া করুন, আপনিই সর্বশ্রেষ্ঠ দয়ালু।"
           }
         ]
       }
@@ -2707,93 +2835,157 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Six Words at the End",
-          "bn": "শেষে ছয়টি শব্দ"
+          "en": "The Surah's Last Sentence",
+          "bn": "সূরার শেষ বাক্য"
         },
         "p": [
           {
-            "en": "Surah al-Mu'minun has 118 verses, so this is its last. In the mushaf it is seven words, and the first of them is a command: wa qul, and say. What follows is six words of prayer — rabbi ighfir warham wa anta khayru ar-rahimin. A surah that has spent its closing pages inside the Judgement does not end on a verdict or a threat. It ends by handing the reader something to say.",
-            "bn": "সূরা আল-মুমিনূনে আয়াত ১১৮টি, তাই এটিই শেষ আয়াত। মুসহাফে এ আয়াত সাত শব্দের, আর প্রথম শব্দটিই একটি আদেশ: 'ওয়া কুল', আর বলো। তারপর ছয় শব্দের দোয়া: রাব্বিগফির ওয়ারহাম ওয়া আনতা খাইরুর রাহিমীন। যে সূরা তার শেষ পাতাগুলো কাটিয়েছে বিচারের দিনের দৃশ্যে, তা কোনো রায় বা হুমকি দিয়ে শেষ হয় না। শেষ হয় পাঠকের হাতে বলার মতো কিছু কথা তুলে দিয়ে।"
+            "en": "Surah al-Mu'minun has 118 verses, and this is the last of them: wa qul rabbi-ghfir warham wa anta khayru-r-rahimin, and say, My Lord, forgive and have mercy, and You are the best of those who show mercy. In the Arabic it is seven words. The first, wa qul, is a command. The second, rabbi, my Lord, is the address. Two bare imperatives follow, and the closing clause names the One addressed by the quality that fits this request.",
+            "bn": "সূরা আল-মুমিনূনের আয়াত ১১৮টি, আর এটিই শেষ আয়াত: ওয়া কুল রাব্বিগফির ওয়ারহাম ওয়া আনতা খাইরুর রাহিমীন। অর্থাৎ বলো, হে আমার রব, ক্ষমা করো ও রহম করো, আর তুমিই রহমকারীদের মধ্যে সর্বোত্তম। আরবিতে পুরো আয়াত সাতটি শব্দের। প্রথম শব্দ ওয়া কুল, একটি আদেশ। দ্বিতীয় শব্দ রাব্বি, হে আমার রব, এটি সম্বোধন। এরপর আসে দুটি খালি আদেশ-ক্রিয়া। শেষ বাক্যাংশে যাঁকে ডাকা হচ্ছে, তাঁর সেই গুণের নাম নেওয়া হয়, যা এই চাওয়ার সঙ্গে মানানসই।"
           },
           {
-            "en": "The verse before it explains the turn. 23:117 states that whoever calls upon another deity alongside Allah, having no proof for it, has his account with his Lord alone, and that the disbelievers will not succeed. The surah had opened by declaring that the believers have succeeded. Having closed that frame, it does not stop at the verdict; it gives whoever wants the other outcome the exact words with which to ask for it.",
-            "bn": "আগের আয়াত থেকেই এই মোড় নেওয়ার কারণ বোঝা যায়। ২৩:১১৭ বলে, যে আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডাকে, যার পক্ষে তার কোনো প্রমাণ নেই, তার হিসাব কেবল তার রবের কাছে; আর কাফিররা সফল হবে না। সূরাটি শুরুই হয়েছিল এই ঘোষণা দিয়ে যে মুমিনরা সফল হয়েছে। সেই বৃত্ত পূর্ণ করে সূরা রায়ে এসে থেমে যায় না। যে অন্য পরিণতিটা চায়, তার হাতে তুলে দেয় চাওয়ার ঠিক শব্দগুলো।"
+            "en": "It arrives at the end of an argument. 23:112 to 23:114 ask those raised how long they stayed on earth, and they answer a day or part of a day. 23:115 asks whether they thought they were created in vain and would not be returned, and 23:116 answers with Allah exalted, the True King, Lord of the Noble Throne. Al-Qurtubi marks the turn with one word, thumma: then He commanded His Prophet ﷺ to seek forgiveness. Ibn Kathir and as-Sa'di both close their commentary on the surah at this verse.",
+            "bn": "আয়াতটি আসে একটি যুক্তির শেষ মাথায়। ২৩:১১২ থেকে ২৩:১১৪ আয়াতে পুনরুত্থিতদের জিজ্ঞেস করা হয়, পৃথিবীতে তারা কত দিন ছিল। তারা বলে, একদিন বা দিনের কিছু অংশ। ২৩:১১৫ প্রশ্ন তোলে, তোমরা কি ভেবেছিলে তোমাদের অনর্থক সৃষ্টি করা হয়েছে আর তোমাদের ফিরিয়ে আনা হবে না? ২৩:১১৬ জবাব দেয়: আল্লাহ মহান, তিনিই প্রকৃত বাদশাহ, সম্মানিত আরশের রব। কুরতুবী এই মোড়টা চিহ্নিত করেন একটিমাত্র শব্দে, সুম্মা: তারপর তিনি তাঁর নবী ﷺ-কে ইস্তিগফারের আদেশ দিলেন। ইবন কাসীর আর সা'দী দুজনেই এই আয়াতে এসে সূরার তাফসীর শেষ করেন।"
           }
         ]
       },
       {
         "h": {
-          "en": "Words Already Spoken Here",
-          "bn": "এই সূরাতেই আগে বলা কথা"
+          "en": "After the Verdict, a Petition",
+          "bn": "রায়ের পরে দোয়া"
         },
         "p": [
           {
-            "en": "These are not new words. 23:109 quotes a group of the servants of Allah who used to say: our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful. That quotation is spoken in the Fire, and 23:110 says the people addressed took them in mockery and used to laugh at them.",
-            "bn": "এই কথাগুলো নতুন নয়। ২৩:১০৯ আয়াতে আল্লাহর বান্দাদের এক দলের কথা আছে, যারা বলত: হে আমাদের রব, আমরা ঈমান এনেছি, তাই আমাদের মাফ করুন, আমাদের প্রতি দয়া করুন, আপনিই দয়ালুদের মধ্যে সর্বশ্রেষ্ঠ। এ কথা শোনানো হচ্ছে জাহান্নামে, আর ২৩:১১০ বলে, যাদের উদ্দেশে বলা হচ্ছে, তারা ওই বান্দাদের ঠাট্টার পাত্র বানিয়েছিল, তাদের নিয়ে হাসত।"
+            "en": "The verse just before it is a sentence of judgement. 23:117 says that whoever calls upon another god alongside Allah, with no proof for it, has his reckoning with his Lord alone, and that the disbelievers will not succeed. Ibn Kathir explains the reckoning clause as Allah calling him to account for it, and the failure as not succeeding with Him on the Day of Resurrection: they will not prosper and will not be saved. His comment opens: Allah threatens those who associate anything with Him.",
+            "bn": "ঠিক আগের আয়াতটি একটি রায়। ২৩:১১৭ বলে, যে কেউ আল্লাহর সঙ্গে অন্য ইলাহকে ডাকে, অথচ তার পক্ষে তার কাছে কোনো প্রমাণ নেই, তার হিসাব কেবল তার রবের কাছে। আর কাফিররা সফল হবে না। ইবন কাসীর হিসাবের অংশটির ব্যাখ্যা দেন এভাবে: আল্লাহ এর জন্য তাকে জবাবদিহি করাবেন। আর সফল না হওয়ার মানে, কিয়ামতের দিন তাঁর কাছে তারা সফল হবে না, তারা কল্যাণ পাবে না, মুক্তিও পাবে না। তাঁর আলোচনার শুরুর কথাটিই হলো: যারা আল্লাহর সঙ্গে কিছুকে শরিক করে, আল্লাহ তাদের হুমকি দিচ্ছেন।"
           },
           {
-            "en": "The phrase khayru ar-rahimin, the best of the merciful, occurs in exactly two verses of the Quran, and both are in this surah: 23:109 and 23:118. So the sentence that was laughed at in the middle of the Judgement scene is the sentence the surah closes with, now placed by command in the mouth of the Prophet ﷺ. What the mockery could not reach has been made the last word of the whole surah.",
-            "bn": "'খাইরুর রাহিমীন', দয়ালুদের মধ্যে সর্বশ্রেষ্ঠ: এই কথাটা কুরআনে ঠিক দুটি আয়াতে আছে, আর দুটিই এই সূরায়, ২৩:১০৯ আর ২৩:১১৮। অর্থাৎ বিচারের দৃশ্যের মাঝখানে যে বাক্য নিয়ে হাসাহাসি হয়েছিল, সেই বাক্য দিয়েই সূরা শেষ হচ্ছে, আর এবার আল্লাহর আদেশে তা নবী ﷺ-এর মুখে। ঠাট্টা যার নাগাল পায়নি, তাকেই বানানো হলো গোটা সূরার শেষ কথা।"
+            "en": "Ma'arif al-Qur'an points out the frame this verdict closes. The surah opened with qad aflaha-l-mu'minun, success is really attained by the believers, in 23:1, and it ends with innahu la yuflihu-l-kafirun in 23:117. Ma'arif reads the pair as showing that success will come to the believers only and that the disbelievers will have no share of it. The same word returns in between: in 23:102 those whose scales are heavy are al-muflihun, the successful, while 23:103 has the owners of light scales lose their very selves.",
+            "bn": "এই রায় যে কাঠামোটা বন্ধ করে, মাআরিফুল কুরআন সেদিকে দৃষ্টি দেয়। সূরার শুরু ২৩:১ আয়াতে, কাদ আফলাহাল মুমিনূন: মুমিনরা সফল হয়ে গেছে। আর শেষ হয় ২৩:১১৭ আয়াতে, ইন্নাহু লা ইউফলিহুল কাফিরূন দিয়ে। মাআরিফের পাঠে এই জোড়া দেখায়, সাফল্য কেবল মুমিনদের, কাফিরদের তাতে কোনো ভাগ নেই। মাঝখানেও একই শব্দ ফিরে আসে। ২৩:১০২ আয়াতে যাদের পাল্লা ভারী, তারাই আল-মুফলিহূন, সফলকাম। আর ২৩:১০৩ আয়াতে যাদের পাল্লা হালকা, তারা নিজেদেরই হারিয়ে বসে।"
+          },
+          {
+            "en": "This needs saying plainly. 23:117 describes what the text describes: a verdict whose reckoning, in Ibn Kathir's words, belongs to Allah. It licenses nothing against any living person or community, and it hands no one the reckoning that the verse reserves for the Lord. Nor does the surah stop at the verdict. Its last sentence is not another sentence of judgement but a petition, handed over to be said.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ২৩:১১৭ আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। এটি এমন এক রায়, ইবন কাসীরের ভাষায় যার হিসাব আল্লাহর হাতে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। যে হিসাব আয়াতটি রবের জন্য রেখে দিয়েছে, তা কারও হাতে তুলে দেয় না। সূরাও এই রায়ে এসে থেমে যায় না। এর শেষ বাক্য আরেকটি রায় নয়, বরং একটি দোয়া, যা মুখে বলার জন্য দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said to Him, Taught to All",
+          "bn": "তাঁকে বলা, সবাইকে শেখানো"
+        },
+        "p": [
+          {
+            "en": "Wa qul is addressed to one person. At-Tabari opens his comment: Allah, exalted be His mention, says to His Prophet Muhammad ﷺ, and say, O Muhammad. The Muyassar keeps the same address: say, O Prophet. As-Sa'di fills in the manner of the saying: say it calling upon your Lord, making the religion sincerely His. The verse is first an instruction to the Messenger ﷺ, and the words of the prayer are given to him to speak.",
+            "bn": "ওয়া কুল আদেশটি একজনকে লক্ষ্য করে। তাবারী তাঁর আলোচনা শুরু করেন এভাবে: আল্লাহ, যাঁর স্মরণ মহিমান্বিত, তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন, হে মুহাম্মাদ, তুমি বলো। মুয়াসসারও একই সম্বোধন রাখে: হে নবী, বলো। সা'দী বলার ধরনটাও জুড়ে দেন। নিজের রবকে ডেকে বলো, দ্বীনকে একান্ত তাঁরই জন্য খাঁটি করে। তাই আয়াতটি প্রথমত রাসূল ﷺ-এর প্রতি একটি নির্দেশ। দোয়ার শব্দগুলো তাঁকেই দেওয়া হয়েছে মুখে বলার জন্য।"
+          },
+          {
+            "en": "Why he is given them is where al-Qurtubi records two readings. In the first, Allah commanded His Prophet ﷺ to seek forgiveness so that the community would follow his example. The second, which he introduces with qila, it is said, is that Allah commanded him to seek forgiveness for his community. Al-Qurtubi does not choose between them, and neither does this article. In the first the Prophet ﷺ teaches by doing; in the second he asks on behalf of others.",
+            "bn": "তাঁকে এ শব্দগুলো কেন দেওয়া হলো, এ প্রশ্নে কুরতুবী দুটি মত উল্লেখ করেন। প্রথম মতে, আল্লাহ তাঁর নবী ﷺ-কে ইস্তিগফারের আদেশ দিয়েছেন, যাতে উম্মত তাঁকে অনুসরণ করে। দ্বিতীয় মতটি তিনি আনেন 'কীলা', অর্থাৎ 'বলা হয়' কথাটি দিয়ে। এ মতে আল্লাহ তাঁকে আদেশ দিয়েছেন উম্মতের জন্য ক্ষমা চাইতে। কুরতুবী এর কোনোটিকে বেছে নেন না, এই লেখাও নেয় না। এক মতে নবী ﷺ নিজে করে দেখিয়ে শেখাচ্ছেন। অন্য মতে তিনি অন্যদের হয়ে চাইছেন।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic calls the verse an irshad, a guidance from Allah to this supplication, and the English abridgement renders it: here Allah is teaching us to recite this supplication. Ma'arif al-Qur'an, citing al-Qurtubi, raises the obvious question. Why was the Prophet ﷺ commanded to make this prayer of forgiveness and mercy at all, when he is impeccable? Its answer is that the command impresses upon his followers the special merit of this prayer. The words were placed in the best of mouths so that others would take them up.",
+            "bn": "ইবন কাসীরের আরবি তাফসীরে আয়াতটিকে বলা হয়েছে ইরশাদ, অর্থাৎ এই দোয়ার দিকে আল্লাহর পথনির্দেশ। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটি এসেছে এভাবে: এখানে আল্লাহ আমাদের এই দোয়া পড়তে শেখাচ্ছেন। মাআরিফুল কুরআন কুরতুবীর বরাতে স্বাভাবিক প্রশ্নটি তোলে। নবী ﷺ তো নিষ্পাপ, তবু ক্ষমা ও রহমতের এই দোয়া করার আদেশ তাঁকে কেন দেওয়া হলো? মাআরিফের জবাব, এই আদেশের মাধ্যমে তাঁর অনুসারীদের মনে এই দোয়ার বিশেষ মর্যাদা গেঁথে দেওয়া হয়েছে। সবচেয়ে উত্তম মুখে শব্দগুলো রাখা হয়েছে, যাতে বাকিরা তা তুলে নেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Two Imperatives, No Object",
-          "bn": "দুটি আদেশ, কার জন্য তা বলা নেই"
+          "bn": "দুটি চাওয়া, কার জন্য বলা নেই"
         },
         "p": [
           {
-            "en": "The prayer contains two requests, and both are imperatives: ighfir, forgive, and irham, have mercy. What is striking is what the Arabic leaves out. 23:109 had said faghfir lana warhamna — forgive us, have mercy on us — with the object stated. Here the objects are dropped altogether. The verbs stand bare after the address rabbi, my Lord, and the wording restricts neither what is asked for nor whom it is asked for.",
-            "bn": "দোয়ায় চাওয়া দুটি, আর দুটোই আদেশসূচক ক্রিয়া: 'ইগফির', মাফ করুন, আর 'ইরহাম', দয়া করুন। লক্ষ করার মতো হলো, আরবি এখানে কী বাদ রেখেছে। ২৩:১০৯-এ ছিল 'ফাগফির লানা ওয়ারহামনা', আমাদের মাফ করুন, আমাদের প্রতি দয়া করুন; সেখানে কাকে, তা বলা ছিল। এখানে সেটা পুরোপুরি বাদ। 'রাব্বি', হে আমার রব, এই ডাকের পর ক্রিয়া দুটি একা দাঁড়িয়ে। কী চাওয়া হচ্ছে বা কার জন্য, শব্দগুলো তার কোনোটাই সীমিত করে না।"
+            "en": "Ighfir, forgive, and irham, have mercy, stand bare in the Arabic. Neither verb names what is to be forgiven or whom the mercy is for. 23:109, quoting the believers' own prayer, had stated both: faghfir lana warhamna, forgive us and have mercy on us. Ma'arif al-Qur'an, drawing on the Mazhari, raises the question itself: what is there to be forgiven, and to whom is mercy to be shown? Its answer is that the silence makes this a general prayer.",
+            "bn": "ইগফির, ক্ষমা করো, আর ইরহাম, রহম করো: আরবিতে দুটি ক্রিয়াই একা দাঁড়িয়ে আছে। কী ক্ষমা করা হবে, কার উপর রহম হবে, কোনোটিই বলা নেই। অথচ ২৩:১০৯ আয়াতে মুমিনদের নিজেদের দোয়া উদ্ধৃত করতে গিয়ে দুটিই বলা হয়েছিল: ফাগফির লানা ওয়ারহামনা, আমাদের ক্ষমা করো, আমাদের উপর রহম করো। মাআরিফুল কুরআন মাযহারীর বরাতে প্রশ্নটি নিজেই তোলে: কী ক্ষমা করা হবে, আর কার প্রতি রহম দেখানো হবে? তার জবাব, এই নীরবতাই দোয়াটিকে সর্বব্যাপী করে দিয়েছে।"
           },
           {
-            "en": "The plain-sense commentaries read the request as pardon for sins and mercy afterwards, and the address rabbi supplies who is asking. Still, the wording sets no limit of its own, and the two verbs cover the two things a person actually needs from Allah: the past dealt with, and the future carried. Forgiveness without mercy would leave a clean slate and no help; mercy without forgiveness would leave help and an unpaid debt.",
-            "bn": "সরল অর্থের তাফসীরগুলো এই চাওয়াকে পড়ে গুনাহের মাফ আর তার পরে দয়া হিসেবে, আর কে চাইছে তা 'রাব্বি' ডাক থেকেই বোঝা যায়। তবু শব্দগুলো নিজে কোনো সীমা টানে না। আর ক্রিয়া দুটি ঢেকে দেয় আল্লাহর কাছে মানুষের আসল দুই প্রয়োজন: অতীতের হিসাব মিটে যাওয়া, আর সামনের পথটা পার করিয়ে দেওয়া। দয়া ছাড়া শুধু ক্ষমা হলে খাতা পরিষ্কার হতো, কিন্তু সাহায্য মিলত না। ক্ষমা ছাড়া শুধু দয়া হলে সাহায্য মিলত, কিন্তু ঋণ থেকে যেত অপরিশোধিত।"
+            "en": "The general prayer for forgiveness, it says, would include deliverance from harm and suffering, and the general prayer for mercy would include the grant of every wish. Since protection from bodily harm and the gaining of lawful benefit are the aim of all human effort, the Mazhari concludes, these two words cover both. Ibn Kathir works from the same feature. He defines forgiveness by what the word means idha utliqa, when it is left unrestricted, which is exactly how it stands here.",
+            "bn": "মাআরিফ বলে, ক্ষমার এই সর্বব্যাপী দোয়ার মধ্যে ক্ষতি ও কষ্ট থেকে মুক্তিও পড়ে। আর রহমতের সর্বব্যাপী দোয়ার মধ্যে পড়ে প্রতিটি আকাঙ্ক্ষা পূরণ হওয়া। মানুষের সব চেষ্টার লক্ষ্য দুটি: শরীরকে ক্ষতি থেকে বাঁচানো আর হালাল উপকার অর্জন করা। মাযহারীর সিদ্ধান্ত, এই দুটি শব্দ দুটি দিকই ঢেকে নেয়। ইবন কাসীরও একই বৈশিষ্ট্য ধরে এগোন। তিনি ক্ষমার সংজ্ঞা দেন 'ইযা উতলিকা' দিয়ে, অর্থাৎ শব্দটি কোনো শর্ত ছাড়া এলে তার যা মানে। এখানে শব্দটি ঠিক সেভাবেই এসেছে।"
+          },
+          {
+            "en": "The other commentators fill the gap, each in his own way, which shows how open it is. At-Tabari supplies the first person: cover my sins, have mercy on me. As-Sa'di supplies the plural: forgive us, have mercy on us. The Muyassar names an object for the first verb only, pass over the sins, and leaves have mercy as bare as the verse. None of them argues against the others, and the wording leaves room for all three.",
+            "bn": "অন্য তাফসীরকারেরা যে যার মতো করে ফাঁকটা ভরাট করেন, আর তাতেই বোঝা যায় ফাঁকটা কত খোলা। তাবারী দোয়াটি বসান একজনের মুখে: আমার গুনাহ ঢেকে দাও, আমার উপর রহম করো। সা'দী বসান সবার মুখে: আমাদের ক্ষমা করো, আমাদের উপর রহম করো। মুয়াসসার শুধু প্রথম ক্রিয়ার সঙ্গে একটা বিষয় জোড়ে, গুনাহগুলো মাফ করে দাও। রহম করো অংশটি সে আয়াতের মতোই খালি রেখে দেয়। কেউ কারও বিরোধিতা করেন না, আর আয়াতের শব্দে তিনটিরই জায়গা আছে।"
           }
         ]
       },
       {
         "h": {
-          "en": "Khayr, Not Arham",
-          "bn": "খাইর, আরহাম নয়"
+          "en": "Wiped, Covered, Passed Over",
+          "bn": "মুছে, ঢেকে, মাফ করে"
         },
         "p": [
           {
-            "en": "The Quran has a second superlative of mercy, arhamu ar-rahimin, the most merciful of the merciful. Musa (AS) uses it in 7:151, Ya'qub (AS) in 12:64, Yusuf (AS) in 12:92 and Ayyub (AS) in 21:83. This surah does not use it. It ends instead on khayru ar-rahimin, the best of those who show mercy, which speaks to the quality of the mercy and not only to its degree.",
-            "bn": "কুরআনে দয়ার আরেকটি শ্রেষ্ঠত্ববাচক রূপ আছে: 'আরহামুর রাহিমীন', দয়ালুদের মধ্যে সবচেয়ে বেশি দয়ালু। মূসা (আঃ) তা বলেছেন ৭:১৫১-এ, ইয়াকুব (আঃ) ১২:৬৪-এ, ইউসুফ (আঃ) ১২:৯২-এ, আর আইয়ুব (আঃ) ২১:৮৩-এ। এই সূরা সে রূপটি নেয়নি। সূরা শেষ হয় 'খাইরুর রাহিমীন' দিয়ে, অর্থাৎ যারা দয়া করে তাদের মধ্যে সর্বোত্তম। এ কথা শুধু দয়ার মাত্রা নয়, তার ধরনের কথাও বলে।"
+            "en": "What forgiveness asks for is spelled out with care. Ibn Kathir: al-ghafr, when unrestricted, means wiping out the sin and concealing it from people. At-Tabari's paraphrase leans on the same idea of covering: my Lord, cover my sins for me by pardoning them, rabbi-stur 'alayya dhunubi bi-'afwika 'anha. The Muyassar's verb is tajawaz, pass over the sins. Three verbs, then, wipe, cover and pass over, and each describes a sin being dealt with so that it no longer stands against the person who asked.",
+            "bn": "ক্ষমা চাওয়ার মানে কী, তাফসীরকারেরা তা যত্ন নিয়ে খুলে বলেন। ইবন কাসীর বলেন, আল-গাফর শব্দটি শর্ত ছাড়া এলে তার মানে গুনাহ মুছে ফেলা এবং মানুষের কাছ থেকে তা গোপন রাখা। তাবারীর ব্যাখ্যাও ঢেকে দেওয়ার ভাবের উপর দাঁড়ানো: রাব্বিসতুর আলাইয়া যুনূবী বিআফবিকা আনহা, হে রব, মাফ করে দিয়ে আমার গুনাহগুলো ঢেকে দাও। মুয়াসসারের ক্রিয়া তাজাওয়ায, গুনাহ ছাড় দেওয়া। তাহলে তিনটি ক্রিয়া: মুছে ফেলা, ঢেকে দেওয়া, ছাড় দেওয়া। প্রতিটিই বলে, গুনাহর এমন ব্যবস্থা হোক যাতে তা আর প্রার্থনাকারীর বিরুদ্ধে দাঁড়িয়ে না থাকে।"
           },
           {
-            "en": "The difference is worth a moment. Human mercy is real but partial: it tires, it is selective, it can be withdrawn when it becomes inconvenient, and it often cannot repair what it pities. Naming Allah the best of those who show mercy says that His is the same act done without any of those defects. The petitioner is not asking a stranger for a favour. He is naming the character of the One he is asking.",
-            "bn": "পার্থক্যটা নিয়ে একটু থামা যাক। মানুষের দয়া সত্যি, কিন্তু অসম্পূর্ণ: তা ক্লান্ত হয়ে পড়ে, বেছে বেছে করে, ঝামেলা মনে হলে ফিরিয়ে নেয়, আর যার প্রতি মায়া হয়, প্রায়ই তার কষ্ট দূর করতে পারে না। আল্লাহকে 'যারা দয়া করে তাদের মধ্যে সর্বোত্তম' বলার মানে, তাঁর দয়াও সেই একই কাজ, তবে এসব ত্রুটির একটিও ছাড়া। যে চাইছে, সে অচেনা কারও কাছে অনুগ্রহ চাইছে না। সে যাঁর কাছে চাইছে, তাঁর স্বভাবেরই নাম নিচ্ছে।"
+            "en": "As-Sa'di gives the request a purpose clause instead of a definition: forgive us so that You rescue us from what is hateful, hatta tunjiyana mina-l-makruh. For him forgiveness is the way out of harm, which matches the Mazhari's line in Ma'arif that the general prayer for forgiveness takes in deliverance from harm and suffering. Ibn Kathir's phrase from people is worth noticing too. Alongside the wiping out of the sin, the covering he describes reaches the sight of other people as well.",
+            "bn": "সা'দী সংজ্ঞা না দিয়ে চাওয়াটার উদ্দেশ্য বলে দেন: আমাদের ক্ষমা করো, যাতে অপ্রিয় সবকিছু থেকে আমাদের বাঁচিয়ে দাও, হাত্তা তুনজিয়ানা মিনাল মাকরূহ। তাঁর কাছে ক্ষমা হলো ক্ষতি থেকে বেরোনোর পথ। মাআরিফে মাযহারীর কথাও এর সঙ্গে মেলে: ক্ষমার সর্বব্যাপী দোয়ায় ক্ষতি ও কষ্ট থেকে মুক্তিও থাকে। ইবন কাসীরের 'মানুষের কাছ থেকে' কথাটিও খেয়াল করার মতো। গুনাহ মুছে ফেলার পাশাপাশি তিনি যে ঢেকে রাখার কথা বলেন, তা মানুষের চোখ পর্যন্তও পৌঁছায়।"
           }
         ]
       },
       {
         "h": {
-          "en": "Why It Comes After Judgement",
-          "bn": "বিচারের পরেই কেন"
+          "en": "What Mercy Adds",
+          "bn": "রহমত যা যোগ করে"
         },
         "p": [
           {
-            "en": "The last pages of the surah are hard. 23:99 has a man at death asking to be sent back so that he might do righteousness in what he left behind, and 23:100 answers that it is only a word he is saying. What that man wanted was more time to act; the surah's last instruction is to use the time by asking. While a person still lives, forgiveness and mercy can still be asked for, even for what the record already holds.",
-            "bn": "সূরার শেষ পাতাগুলো কঠিন। ২৩:৯৯-এ মৃত্যুর মুখে একজন মানুষ মিনতি করে, তাকে যেন ফেরত পাঠানো হয়, যাতে যা ছেড়ে এসেছে তাতে নেক আমল করতে পারে। ২৩:১০০ জবাব দেয়: এ তো শুধু একটা কথা, যা সে মুখে বলছে। লোকটি চেয়েছিল আমল করার জন্য আরও সময়। আর সূরার শেষ নির্দেশ হলো, হাতের সময়টা চেয়ে নেওয়ার কাজে লাগানো। মানুষ যতদিন বেঁচে আছে, ততদিন ক্ষমা আর রহমত চাওয়া যায়, আমলনামায় যা লেখা হয়ে গেছে তার জন্যও।"
+            "en": "Mercy is the second request, and the commentators do not treat it as a repeat of the first. At-Tabari: have mercy on me by accepting my repentance and by leaving off punishing me for what I committed. His mercy still looks backward, at a sin already done; it is the mercy of being received back and spared. Ibn Kathir's reading looks forward. Mercy, he says, is that Allah keeps the servant on the right course and grants him success in his words and his deeds.",
+            "bn": "রহমত দ্বিতীয় চাওয়া, আর তাফসীরকারেরা একে প্রথমটির পুনরাবৃত্তি মনে করেন না। তাবারী বলেন: আমার তওবা কবুল করে এবং আমার অপরাধের শাস্তি না দিয়ে আমার উপর রহম করো। তাঁর ব্যাখ্যায় রহমতের চোখ এখনো পেছনে, আগেই করে ফেলা গুনাহর দিকে। এ রহমত হলো ফিরিয়ে নেওয়া আর রেহাই দেওয়া। ইবন কাসীরের ব্যাখ্যার চোখ সামনের দিকে। তিনি বলেন, রহমত মানে আল্লাহ বান্দাকে সঠিক পথে স্থির রাখবেন এবং তার কথায় ও কাজে তাকে তাওফীক দেবেন।"
+          },
+          {
+            "en": "As-Sa'di widens it further: have mercy on us, so that by Your mercy You bring us to every good, li-tusilana bi-rahmatika ila kulli khayr. The Mazhari's general reading in Ma'arif reaches the same place, a mercy that includes the grant of every wish. Read together, the two short imperatives divide a life between them. Forgiveness answers for what has already been done; mercy carries what is still to be done and what is still to be received.",
+            "bn": "সা'দী একে আরও বিস্তৃত করেন: আমাদের উপর রহম করো, যাতে তোমার রহমতে আমাদের প্রতিটি কল্যাণে পৌঁছে দাও, লিতুসিলানা বিরাহমাতিকা ইলা কুল্লি খাইর। মাআরিফে মাযহারীর সর্বব্যাপী ব্যাখ্যাও একই জায়গায় পৌঁছায়: এমন রহমত, যার মধ্যে প্রতিটি আকাঙ্ক্ষা পূরণ হওয়াও আছে। এই ব্যাখ্যাগুলো পাশাপাশি রাখলে ছোট দুটি আদেশ একটা জীবনকে দুই ভাগে ভাগ করে নেয়। যা করা হয়ে গেছে, তার জবাব ক্ষমা। যা এখনো করা বাকি, যা এখনো পাওয়া বাকি, তার ভার রহমতের।"
           }
         ]
       },
       {
         "h": {
-          "en": "Six Words That Fit Anywhere",
-          "bn": "ছয়টি শব্দ, সবখানে মানানসই"
+          "en": "Better Than Every Merciful One",
+          "bn": "সব দয়ালুর চেয়ে উত্তম"
         },
         "p": [
           {
-            "en": "The practical value of this verse is its length. It fits into a walk, a queue, the pause between two tasks, and the moment after a sin when longer words will not come. It needs no occasion and no preparation, and because it stands in the Quran as a command, saying it is an act of obedience before it is ever an act of asking.",
-            "bn": "আমলের দিক থেকে এই আয়াতের বড় গুণ এর ছোট আকার। হাঁটতে হাঁটতে, লাইনে দাঁড়িয়ে, দুই কাজের ফাঁকে বলা যায়। গুনাহের পরের সেই মুহূর্তেও বলা যায়, যখন লম্বা কোনো কথা মুখে আসে না। কোনো উপলক্ষ লাগে না, প্রস্তুতিও লাগে না। আর কুরআনে এটি এসেছে আদেশ হিসেবে, তাই এ দোয়া মুখে আনা মানে চাওয়ার আগেই হুকুম পালন করা।"
+            "en": "Wa anta khayru-r-rahimin: and You are the best of those who show mercy. A superlative of this kind assumes that others show mercy too, and the commentators say whose mercy is in view. At-Tabari reads the clause as part of what is to be said: say, You, my Lord, are the best of any who showed mercy to someone with a sin, then accepted his repentance and did not punish him for it. The Muyassar gives the same explanation, almost word for word.",
+            "bn": "ওয়া আনতা খাইরুর রাহিমীন: আর তুমিই রহমকারীদের মধ্যে সর্বোত্তম। এমন তুলনা ধরে নেয় যে অন্যরাও রহম করে। কাদের রহমতের সঙ্গে তুলনা, তাফসীরকারেরা তা বলে দেন। তাবারীর মতে এই অংশটিও বলার কথার ভেতরে পড়ে: বলো, হে রব, গুনাহগারের উপর যারা দয়া করে, তার তওবা কবুল করে, তার গুনাহর জন্য তাকে শাস্তি দেয় না, তুমি তাদের সবার মধ্যে সর্বোত্তম। মুয়াসসারও প্রায় হুবহু একই ব্যাখ্যা দেয়।"
           },
           {
-            "en": "It also trains what a person asks for. Most requests concern arrangements — outcomes, timing, people. This one asks for the two things that sit underneath every arrangement, and asks them of the One whose mercy is described in the same breath. Say it often enough and it begins to sort the rest of the list, because a heart that has named its real needs stops confusing them with its preferences.",
-            "bn": "এ দোয়া মানুষকে শেখায়, কী চাইতে হয়। আমাদের বেশিরভাগ চাওয়া নানা ব্যবস্থা নিয়ে: কী ফল হবে, কখন হবে, কাকে নিয়ে হবে। এই দোয়া চায় সেই দুটি জিনিস, যা সব ব্যবস্থার গোড়ায় থাকে। আর চায় তাঁর কাছে, যাঁর রহমতের কথা একই নিঃশ্বাসে উঠে আসে। বারবার বলতে থাকলে বাকি চাওয়াগুলোও এটি গুছিয়ে দিতে থাকে। কারণ যে হৃদয় নিজের আসল প্রয়োজন চিনে নিয়েছে, সে আর সেগুলোকে নিজের পছন্দের সঙ্গে গুলিয়ে ফেলে না।"
+            "en": "As-Sa'di measures it against the closest mercies a person knows. Whoever shows mercy to the servant, he writes, Allah is better for him than that person: more merciful to His servant than a mother to her child, and more merciful to him than he is to himself. The comparison does not deny human mercy; it ranks it. A mother's tenderness and a man's care for his own good are real, and in as-Sa'di's words both fall short of the Lord being asked.",
+            "bn": "সা'দী একে মাপেন মানুষের সবচেয়ে কাছের দয়াগুলোর সঙ্গে। তিনি লেখেন, বান্দার প্রতি যে-ই দয়া করুক, আল্লাহ তার জন্য তার চেয়ে উত্তম। সন্তানের প্রতি মায়ের যে দয়া, বান্দার প্রতি আল্লাহর দয়া তার চেয়েও বেশি। আর মানুষ নিজের প্রতি যতটা দয়ালু, আল্লাহ তার প্রতি তার চেয়েও বেশি দয়ালু। এই তুলনা মানুষের দয়াকে অস্বীকার করে না, তাকে তার জায়গায় বসায়। মায়ের মমতা সত্য, নিজের ভালো চাওয়াও সত্য। সা'দীর কথায় দুটিই যাঁর কাছে চাওয়া হচ্ছে, তাঁর দয়ার নিচে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Once Laughed At",
+          "bn": "যে দোয়া নিয়ে একদিন হাসা হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "The phrase khayru-r-rahimin occurs in two verses of the Qur'an, and both are in this surah: 23:109 and 23:118. In 23:109 Allah recalls a party of His servants who used to say: our Lord, we have believed, so forgive us and have mercy on us, and You are the best of those who show mercy. 23:110 says that those addressed took them in mockery until it made them forget His remembrance, and that they used to laugh at them.",
+            "bn": "খাইরুর রাহিমীন কথাটি কুরআনের দুটি আয়াতে আছে, আর দুটিই এই সূরায়: ২৩:১০৯ ও ২৩:১১৮। ২৩:১০৯ আয়াতে আল্লাহ তাঁর বান্দাদের এমন এক দলের কথা মনে করিয়ে দেন, যারা বলত: হে আমাদের রব, আমরা ঈমান এনেছি, অতএব আমাদের ক্ষমা করো, আমাদের উপর রহম করো, আর তুমিই রহমকারীদের মধ্যে সর্বোত্তম। ২৩:১১০ বলে, যাদের সম্বোধন করা হচ্ছে তারা ওদের নিয়ে এমন ঠাট্টা করত যে তা তাদের আল্লাহর জিকির ভুলিয়ে দিয়েছিল, আর তারা ওদের নিয়ে হাসত।"
+          },
+          {
+            "en": "23:111 answers that today Allah has rewarded them for their patience, and that they are the ones who triumph. Seven verses later, the surah closes by commanding the Prophet ﷺ to say nearly the same words. The commentaries fetched on 23:118 do not draw this link themselves; the repetition stands in the text. What changes is the shape. The believers' prayer names us twice and adds we have believed, while the closing command keeps only the two requests and the name.",
+            "bn": "২৩:১১১ জবাব দেয়, আজ আল্লাহ তাদের ধৈর্যের প্রতিদান দিয়েছেন, তারাই সফলকাম। এর সাতটি আয়াত পরে সূরা শেষ হয় নবী ﷺ-কে প্রায় একই কথা বলার আদেশ দিয়ে। ২৩:১১৮ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সেগুলো নিজেরা এই যোগসূত্র টানে না। পুনরাবৃত্তিটা আয়াতের শব্দেই আছে। বদলায় কেবল গড়ন। মুমিনদের দোয়ায় 'আমাদের' কথাটি দুবার আসে, সঙ্গে আসে 'আমরা ঈমান এনেছি'। আর শেষের আদেশে থাকে শুধু দুটি চাওয়া আর আল্লাহর গুণের নামটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seven Words for Every Hour",
+          "bn": "সব সময়ের সাতটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "No fetched commentary attaches a sound hadith to this verse. Al-Qurtubi does close with a report he gives through ath-Tha'labi, on a chain running through Ibn Lahi'ah to Ibn Mas'ud, about reciting the passage from 23:115 to the end of the surah over an afflicted man. Al-Qurtubi gives it no grading, it could not be confirmed in the hadith collections this series checks, and so it is noted here and not built on.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে কোনো সহীহ হাদীস জোড়ে না। কুরতুবী অবশ্য শেষে একটি বর্ণনা আনেন সা'লাবীর সূত্রে। এর সনদ ইবন লাহীআর মধ্য দিয়ে ইবন মাসউদ (রাঃ) পর্যন্ত গেছে। বর্ণনাটি হলো, এক বিপদগ্রস্ত মানুষের উপর ২৩:১১৫ থেকে সূরার শেষ পর্যন্ত পড়া নিয়ে। কুরতুবী এর কোনো মান উল্লেখ করেননি। এই ধারাবাহিকতায় যে হাদীস সংকলনগুলো যাচাই করা হয়, সেখানে এটি নিশ্চিত করা যায়নি। তাই এখানে শুধু উল্লেখ রইল, এর উপর কিছু দাঁড় করানো হলো না।"
+          },
+          {
+            "en": "What the verse itself gives is portable. It needs no occasion, fits into a single breath, and stands in the Qur'an as a command, so saying it is obedience before it is asking. Ibn Kathir calls it Allah's guidance to this supplication. Its objects are left open, and the open place takes whatever the day has brought: a sin to be covered, a harm to be lifted, a good not yet reached. The name at the end tells whoever is asking whom he is asking.",
+            "bn": "আয়াতটি নিজে যা দেয়, তা সঙ্গে নিয়ে চলা যায়। এর জন্য কোনো বিশেষ উপলক্ষ লাগে না, এক নিঃশ্বাসেই বলা যায়। কুরআনে এটি এসেছে আদেশ হিসেবে, তাই বলাটা চাওয়ার আগে আনুগত্য। ইবন কাসীর একে বলেন এই দোয়ার দিকে আল্লাহর পথনির্দেশ। কী ক্ষমা, কার উপর রহম, তা খোলা রাখা হয়েছে। সেই খালি জায়গায় দিনের যেকোনো প্রয়োজন বসে যায়: ঢেকে দেওয়ার মতো কোনো গুনাহ, সরিয়ে দেওয়ার মতো কোনো কষ্ট, এখনো না পাওয়া কোনো কল্যাণ। আর শেষের নামটি মনে করিয়ে দেয়, কার কাছে চাওয়া হচ্ছে।"
           }
         ]
       }
