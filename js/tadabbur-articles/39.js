@@ -163,77 +163,161 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Two Men in the Night",
-          "bn": "রাতের দুই মানুষ"
+          "en": "Set Beside the Forgetful Man",
+          "bn": "ভুলে যাওয়া মানুষটির পাশে"
         },
         "p": [
           {
-            "en": "The verse opens on a silhouette: is one who is devoutly obedient in the hours of the night, prostrating and standing, wary of the Hereafter and hoping for the mercy of his Lord — like the other? The comparison completes a contrast begun in 39:8, which pictures a man who cries to his Lord in hardship, then forgets Him the moment relief arrives and sets up rivals to Him. Distress-only religion is the foil; against it stands the one whose devotion runs through the safe hours too.",
-            "bn": "আয়াতটি শুরু হয় রাতের আবছা এক ছবি দিয়ে: যে মানুষ রাতের প্রহরগুলোতে সিজদায় পড়ে আর দাঁড়িয়ে বিনয়ের সঙ্গে আনুগত্যে লেগে থাকে, আখিরাতকে ভয় করে আর তার রবের রহমতের আশা রাখে, সে কি অন্যজনের মতো? এ তুলনা দিয়ে পূর্ণ হয় ৩৯:৮ আয়াতে শুরু হওয়া এক বৈপরীত্য। সেখানে আঁকা হয়েছে এমন মানুষের ছবি, যে বিপদে পড়লে রবকে ডাকে, আর বিপদ কাটতেই তাঁকে ভুলে যায়, তাঁর সমকক্ষ দাঁড় করায়। শুধু বিপদের দিনের ধর্ম এখানে উল্টো পিঠ। তার বিপরীতে দাঁড়িয়ে সেই মানুষ, যার ইবাদত নিরাপদ সময়েও থামে না।"
+            "en": "Amman huwa qanitun ana'a-l-layli sajidan wa qa'iman: is he who is devoutly obedient through the hours of the night, prostrating and standing...? The second half of the question is not spoken. The commentators supply it from 39:8, where a man calls on his Lord in harm, forgets Him once favoured, and sets up rivals to Him. Ibn Kathir reads: is the man so described like him who associated partners with Allah and set up rivals to Him? They are not equal before Allah, he says.",
+            "bn": "আম্মান হুয়া কানিতুন আনাআল লাইলি সাজিদান ওয়া কাইমান: যে মানুষ রাতের প্রহরগুলোতে কখনো সিজদায়, কখনো দাঁড়িয়ে একান্ত অনুগত থাকে, সে কি...? প্রশ্নের বাকি অর্ধেক মুখে বলা হয়নি। তাফসীরকারেরা তা পূরণ করেন ৩৯:৮ আয়াত থেকে। সেখানে এক মানুষ বিপদে পড়লে রবকে ডাকে, নিয়ামত পেলেই তাঁকে ভুলে যায়, আর তাঁর সমকক্ষ দাঁড় করায়। ইবন কাসীর পড়েন এভাবে: যার এই গুণ, সে কি তার মতো, যে আল্লাহর সঙ্গে শরিক করেছে আর তাঁর সমকক্ষ বানিয়েছে? তাঁর কথায়, আল্লাহর কাছে এরা সমান নয়।"
           },
           {
-            "en": "The vocabulary is chosen closely. Qanit denotes devout, humble, continuous obedience; ana' al-layl are the hours or watches of the night, not a hurried moment of it; sajidan wa qa'iman, prostrating and standing, are the two poles of the prayer's movement. Night is specified because night worship carries the surest signature of sincerity: no audience is awake to be impressed. What is done then is done for Allah or not done at all.",
-            "bn": "এখানে প্রতিটি শব্দ মেপে বাছা। 'কানিত' মানে বিনয়ী, একনিষ্ঠ, লেগে থাকা আনুগত্য। 'আনাআল-লাইল' মানে রাতের প্রহরগুলো, তাড়াহুড়োর এক মুহূর্ত নয়। 'সাজিদান ওয়া কাইমান', সিজদায় আর দাঁড়িয়ে: নামাজের নড়াচড়ার দুই প্রান্ত। আয়াত বিশেষ করে রাতের কথা বলেছে, কারণ ইখলাসের সবচেয়ে নিশ্চিত ছাপ পড়ে রাতের ইবাদতে। তখন কেউ জেগে নেই যে দেখে মুগ্ধ হবে। তখন যা করা হয়, তা হয় আল্লাহর জন্যই করা হয়, নয়তো করাই হয় না।"
+            "en": "The Muyassar puts it from the other side: is this disbeliever, enjoying his disbelief, better, or he who worships and obeys his Lord through the hours of the night, standing and prostrating? As-Sa'di calls the verse a double contrast, between the doer of obedience and the rest, and between the knower and the ignorant, a difference that minds grasp with certainty. The verse before describes a pattern in a human being; it licenses no one to point at a living person or community as that man.",
+            "bn": "মুয়াসসার একই তুলনা দেখায় উল্টো দিক থেকে। কুফরি উপভোগ করা এই কাফির ভালো, নাকি সেই মানুষ, যে রাতের ঘণ্টাগুলোতে দাঁড়িয়ে আর সিজদায় রবের ইবাদত ও আনুগত্য করে? সা'দীর মতে আয়াতে তুলনা দুই স্তরে। একদিকে আনুগত্যে আমলকারী আর বাকিরা, অন্যদিকে জ্ঞানী আর অজ্ঞ। এমন পার্থক্য বুদ্ধি নিশ্চিতভাবেই ধরে ফেলে। আগের আয়াত মানুষের ভেতরের একটা ধরন বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়কে সেই লোক বলে চিহ্নিত করার অনুমতি এ আয়াত কাউকে দেয় না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Fear and Hope Together",
-          "bn": "ভয় ও আশা একসঙ্গে"
+          "en": "One Mim or Two",
+          "bn": "এক মীম, না দুই মীম"
         },
         "p": [
           {
-            "en": "Two states share the worshipper's heart: yahdharul-akhirah, he is wary of the Hereafter, and yarju rahmata rabbih, he hopes for the mercy of his Lord. The commentators treat the pairing as deliberate spiritual engineering. Fear alone curdles into despair; hope alone slackens into presumption. Together they work like two wings, keeping the servant moving and level — repenting because of what he fears, persisting because of what he hopes.",
-            "bn": "এই বান্দার হৃদয়ে দুটি অবস্থা একসঙ্গে থাকে। 'ইয়াহযারুল-আখিরাহ': সে আখিরাতকে ভয় করে। 'ইয়ারজু রাহমাতা রাব্বিহ': সে তার রবের রহমতের আশা রাখে। মুফাসসিরদের চোখে এ জোড়া ভেবেচিন্তে সাজানো, অন্তরকে ঠিক পথে রাখার এক কৌশল। শুধু ভয় থাকলে তা জমে হতাশা হয়ে যায়। শুধু আশা থাকলে মানুষ ঢিলে হয়ে পড়ে, রহমতকে পাওনা ধরে নিয়ে নিশ্চিন্ত বসে থাকে। দুটো মিলে কাজ করে পাখির দুই ডানার মতো। বান্দা এগিয়ে চলে, ভারসাম্যও হারায় না। যা ভয় করে, তার কারণে সে তওবা করে; যা আশা করে, তার টানে লেগে থাকে।"
+            "en": "At-Tabari records that the readers differed over the first word: some read aman, with a light mim, others amman, with the mim doubled. Al-Qurtubi names them: Nafi', Ibn Kathir, Yahya ibn Waththab, al-A'mash and Hamza for the light form; al-Hasan, Abu 'Amr, 'Asim and al-Kisa'i for the doubled. At-Tabari's verdict: both were recited by scholars of reading, each is sound in meaning and in grammar, and whoever reads either is right.",
+            "bn": "প্রথম শব্দটির পাঠ নিয়ে কারীদের মধ্যে মতভেদ ছিল, তাবারী তা লিখে রেখেছেন। কেউ পড়েছেন আমান, হালকা মীমে; কেউ আম্মান, মীমে তাশদীদ দিয়ে। কুরতুবী নাম ধরে বলেন: হালকা পাঠে নাফে', ইবন কাসীর, ইয়াহইয়া ইবন ওয়াসসাব, আ'মাশ ও হামযা; তাশদীদের পাঠে হাসান, আবু আমর, আসিম ও কিসাঈ। তাবারীর রায়: দুটোই কারী আলেমদের পড়া পাঠ, অর্থে ও ব্যাকরণে দুটোই শুদ্ধ। যে যেটাই পড়ুক, ঠিকই পড়েছে।"
           },
           {
-            "en": "The same portrait recurs across the Quran. In 32:16 their sides forsake their beds, calling on their Lord in fear and hope. In 51:17-18 they used to sleep little of the night and seek forgiveness in the last hours before dawn. In 3:191 they remember Allah standing, sitting and lying on their sides, and ponder the creation of the heavens and the earth. The night-worshipper is one of the Quran's recurring heroes, drawn each time with the same two-toned heart.",
-            "bn": "এই ছবি কুরআনে বারবার ফিরে আসে। ৩২:১৬ আয়াতে তাদের পাঁজর বিছানা ছেড়ে দূরে থাকে, তারা ভয় আর আশা নিয়ে রবকে ডাকে। ৫১:১৭-১৮ আয়াতে তারা রাতে অল্পই ঘুমাত, আর শেষ রাতে ইস্তিগফার করত। ৩:১৯১ আয়াতে তারা দাঁড়িয়ে, বসে, কাত হয়ে শুয়ে আল্লাহর জিকির করে, আর আসমান-যমীনের সৃষ্টি নিয়ে চিন্তা করে। রাত জেগে ইবাদত করা মানুষটি কুরআনের এমন এক নায়ক, যাকে বারবার আঁকা হয়েছে। আর প্রতিবার তার হৃদয়ে সেই একই দুই রং: ভয় আর আশা।"
+            "en": "On the light reading at-Tabari allows two senses. The alif may be a call, O you who are devout, since the Arabs call with alif as they call with ya; he cites a line of Aws ibn Hajar. The sense then runs: enjoy your disbelief a little, you are of the Fire; and you who stand devout through the night, you are of Paradise, the second left unsaid because the first implies it. Al-Baghawi gives this sense from Ibn 'Abbas. Or the alif asks a question: is this man like him who set up rivals?",
+            "bn": "হালকা পাঠে তাবারী দুটি অর্থের সুযোগ রাখেন। আলিফটি হতে পারে ডাকের আলিফ: হে অনুগত মানুষ। আরবরা ইয়া দিয়ে যেমন ডাকে, আলিফ দিয়েও তেমনি ডাকে; প্রমাণ হিসেবে তিনি আওস ইবন হাজারের একটি পঙক্তি আনেন। তখন কথাটা দাঁড়ায়: কুফরি নিয়ে কিছুদিন ভোগ করে নাও, তুমি জাহান্নামী; আর হে রাতভর অনুগত মানুষ, তুমি জান্নাতী। দ্বিতীয় কথাটা বলা হয়নি, কারণ প্রথমটাই তা বুঝিয়ে দেয়। বাগাভী এ অর্থটি আনেন ইবন আব্বাস (রাঃ)-এর বরাতে। অথবা আলিফটি প্রশ্নের: এ কি সমকক্ষ বানানো সেই লোকের মতো?"
+          },
+          {
+            "en": "On the doubled reading the word is am joined to man: a question put after earlier speech, at-Tabari says, its answer left to the hearer, is this man better or that? Al-Baghawi construes it two ways: is he who is devout like him who is not, comparable to 39:22; or, completing an implied first half, is he who set up rivals better, or he who is devout? Ma'arif al-Qur'an reads the ellipsis alike. Al-Qurtubi adds that those who read the call do not pause at rahmata rabbih.",
+            "bn": "তাশদীদের পাঠে শব্দটি আম আর মান মিলে তৈরি। তাবারীর মতে এটি আগের কথার পর আসা এক প্রশ্ন, জবাবটা শ্রোতার উপর ছেড়ে দেওয়া: এ ভালো, না ও? বাগাভী এর দুটি গঠন দেখান। এক, যে অনুগত সে কি অনুগত নয় এমন লোকের মতো? এর তুলনা ৩৯:২২ আয়াত। দুই, না-বলা প্রথম অংশের পর দ্বিতীয় অংশ: সমকক্ষ বানানো লোকটি ভালো, নাকি যে অনুগত? মাআরিফুল কুরআনও বাদ পড়া অংশটি এভাবেই পড়ে। কুরতুবী যোগ করেন, যারা ডাকের অর্থে পড়েন, তারা রাহমাতা রাব্বিহ-তে থামেন না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Are They Equal?",
-          "bn": "তারা কি সমান?"
+          "en": "Four Meanings of Qanit",
+          "bn": "কানিত শব্দের চার অর্থ"
         },
         "p": [
           {
-            "en": "Then comes the question the verse is famous for: say, are those who know equal to those who do not know? The Arabic uses hal yastawi, a question of equivalence whose answer is meant to be supplied by the listener, and no honest listener can supply yes. The Quran uses this device elsewhere for the blind and the seeing, darkness and light. Here the inequality asserted is between knowledge and its absence — stated absolutely, with no qualifier restricting it to religious subjects.",
-            "bn": "এরপর আসে সেই প্রশ্ন, যার জন্য আয়াতটি বিখ্যাত: বলো, যারা জানে আর যারা জানে না, তারা কি সমান? আরবিতে আছে 'হাল ইয়াসতাউয়ি', দুটো জিনিস সমান কি না, সেই প্রশ্ন। এর উত্তর দেওয়ার কথা শ্রোতার নিজের, আর সৎ কোনো শ্রোতা 'হ্যাঁ' বলতে পারে না। অন্ধ আর দৃষ্টিমান, অন্ধকার আর আলো নিয়েও কুরআন অন্য জায়গায় এভাবে প্রশ্ন করেছে। এখানে অসমতার কথা জ্ঞান থাকা আর না থাকার মধ্যে। কথাটা বলা হয়েছে কোনো শর্ত ছাড়া, জ্ঞানকে শুধু দ্বীনি বিষয়ে সীমিত করা হয়নি।"
+            "en": "Al-Qurtubi counts four senses of qanit: the obedient, said by Ibn Mas'ud; the humble in prayer, said by Ibn Shihab; the standing in prayer, said by Yahya ibn Sallam; and he who calls on his Lord. Ibn Mas'ud's saying, he adds, gathers them all. Ibn Kathir gives its fuller wording: the qanit is he who obeys Allah and His Messenger. Ma'arif al-Qur'an, following al-Qurtubi, likewise takes devoted obedience as the meaning that comprehends the rest.",
+            "bn": "কুরতুবী কানিত শব্দের চারটি অর্থ গোনেন। অনুগত, বলেছেন ইবন মাসউদ (রাঃ)। নামাযে বিনয়ী, বলেছেন ইবন শিহাব। নামাযে দাঁড়িয়ে থাকা, বলেছেন ইয়াহইয়া ইবন সাল্লাম। আর রবকে ডাকে যে। তাঁর মতে ইবন মাসউদের কথাটাই সব অর্থকে ধরে রাখে। ইবন কাসীর সে কথার পুরো রূপ আনেন: কানিত সে, যে আল্লাহ ও তাঁর রাসূলের আনুগত্য করে। মাআরিফুল কুরআনও কুরতুবীর অনুসরণে নিবেদিত আনুগত্যকেই সব অর্থের সমষ্টি বলে নেয়।"
           },
           {
-            "en": "Yet the placement defines the knowledge meant. The question is asked immediately after the description of the man praying through the night, and the commentators draw the connection: the knowledge the Quran ranks people by is the kind that produces that man. It is knowledge of Allah that bears fruit in worship, caution and hope. Information that leaves its holder unchanged fails this verse's test however vast it is; a little knowledge that raises its holder at night passes it.",
-            "bn": "তবে প্রশ্নটি কোথায় বসেছে, তা থেকেই বোঝা যায় কোন জ্ঞানের কথা হচ্ছে। রাত জেগে নামাজ পড়া মানুষটির বর্ণনার ঠিক পরেই প্রশ্নটি এসেছে, আর মুফাসসিররা দুটোকে মিলিয়ে পড়েন। কুরআন যে জ্ঞান দিয়ে মানুষের মর্যাদা মাপে, তা সেই জ্ঞান, যা এমন মানুষ তৈরি করে। আল্লাহকে চেনার জ্ঞান, যার ফল দেখা দেয় ইবাদতে, সতর্কতায় আর আশায়। যে তথ্য মানুষকে একটুও বদলায় না, তা যত বিপুলই হোক, এ আয়াতের পরীক্ষায় ফেল। আর যে অল্প জ্ঞান মানুষকে রাতে জাগিয়ে তোলে, সেটাই পাস।"
+            "en": "Ibn 'Umar read the word narrowly. At-Tabari reports through Nafi' that, asked about qunut, he would say: I know of no qunut except reciting the Qur'an and standing long, and then recite this verse; al-Qurtubi and al-Baghawi carry the saying too. Others read obedience. At-Tabari reports it from Ibn 'Abbas, who explained qanitun in 30:26 as obedient, and from as-Suddi, for whom the qanit is simply the obedient. Al-Baghawi defines him as constant in obedience.",
+            "bn": "ইবন উমর (রাঃ) শব্দটি সংকীর্ণ অর্থে নিতেন। নাফে'র সূত্রে তাবারী বর্ণনা করেন, কুনূত সম্পর্কে জিজ্ঞেস করা হলে তিনি বলতেন: কুরআন তিলাওয়াত আর দীর্ঘ কিয়াম ছাড়া কুনূত বলে আর কিছু আমি জানি না। তারপর এ আয়াত পড়তেন। কুরতুবী ও বাগাভীতেও কথাটি আছে। অন্যেরা অর্থ নিয়েছেন আনুগত্য। তাবারী এটি আনেন ইবন আব্বাস (রাঃ) থেকে, যিনি ৩০:২৬ আয়াতের কানিতূন শব্দের ব্যাখ্যা দেন অনুগত। সুদ্দীর কাছেও কানিত মানে সোজা অনুগত। বাগাভীর সংজ্ঞায় কানিত সে, যে আনুগত্যে অবিচল।"
+          },
+          {
+            "en": "At-Tabari states his own position and ties it to the grammar. Qunut is obedience, which is why sajidan wa qa'iman are in the accusative: they describe the state of the qanit, who obeys now prostrating, now standing. Ibn Kathir notes that some took this verse as proof that qunut is humility in prayer, not standing alone, as others held. An-Nahhas, quoted by al-Qurtubi, settles the root: qunut is obedience, so everything said about it falls within obedience, and more besides.",
+            "bn": "তাবারী নিজের অবস্থান জানান, আর তা দাঁড় করান ব্যাকরণ দিয়ে। কুনূত মানে আনুগত্য। এজন্যই সাজিদান ওয়া কাইমান নসবের রূপে এসেছে, এরা কানিতের অবস্থা বোঝায়: সে আনুগত্য করে কখনো সিজদায়, কখনো দাঁড়িয়ে। ইবন কাসীর জানান, কেউ কেউ এ আয়াতকে প্রমাণ ধরেছেন যে কুনূত মানে নামাযে খুশু, শুধু দাঁড়িয়ে থাকা নয়, যদিও অন্যেরা দাঁড়ানোর অর্থই নিয়েছেন। কুরতুবীর উদ্ধৃতিতে নাহহাস মূলটা স্থির করে দেন: কুনূতের মূল অর্থ আনুগত্য। তাই এ নিয়ে যা-ই বলা হয়েছে, সবই আনুগত্যের ভেতরে পড়ে, তার চেয়ে বেশিও।"
           }
         ]
       },
       {
         "h": {
-          "en": "People of Sound Minds",
-          "bn": "বোধসম্পন্ন মানুষেরা"
+          "en": "Long Standing, Lowered Gaze",
+          "bn": "দীর্ঘ কিয়াম, নত দৃষ্টি"
         },
         "p": [
           {
-            "en": "The verse ends: only the possessors of albab take heed. Lubb, the singular, is the kernel of a thing — the mind stripped of husk. The Quran's ulul-albab appear wherever seeing leads to acting: in 3:190-191 they read the alternation of night and day and turn it into remembrance. The closing line thus quietly answers its own famous question. The unequal difference between the knower and the ignorant registers only with people whose minds still take instruction — heedlessness can look at the contrast and see nothing.",
-            "bn": "আয়াত শেষ হয় এ কথায়: উপদেশ গ্রহণ করে কেবল 'আলবাব'-এর অধিকারীরা। এর একবচন 'লুব্ব', মানে কোনো জিনিসের শাঁস: খোসা ছাড়ানো খাঁটি বুদ্ধি। কুরআনে 'উলুল-আলবাব'-এর দেখা মেলে সেখানেই, যেখানে দেখা থেকে আমল জন্মায়। ৩:১৯০-১৯১ আয়াতে তারা রাত-দিনের পালাবদল দেখে তাকে জিকিরে বদলে নেয়। এভাবে শেষ লাইনটি চুপচাপ নিজের বিখ্যাত প্রশ্নের জবাব দিয়ে দেয়। জ্ঞানী আর অজ্ঞের ফারাক চোখে পড়ে কেবল তাদের, যাদের মন এখনো শিক্ষা নিতে রাজি। গাফিল মন এ তফাতের দিকে তাকিয়েও কিছু দেখে না।"
+            "en": "Al-Qurtubi brings a narration from Jabir on qunut, which a group of scholars understood as long standing. It is in Sahih Muslim (756), in this wording: Jabir reported: The Messenger of Allah ﷺ was asked about the prayer which was most excellent. He said: That in which the standing is longer. The Arabic is tulu-l-qunut, the length of the qunut. Muslim gives no separate grading. It is a general narration about prayer, cited to explain the word, and is not reported as connected with this verse.",
+            "bn": "কুনূত প্রসঙ্গে কুরতুবী জাবির (রাঃ)-এর একটি বর্ণনা আনেন, আলেমদের একদল যার অর্থ নিয়েছেন দীর্ঘ কিয়াম। হাদীসটি সহীহ মুসলিমে (৭৫৬) আছে, এই ভাষায়: জাবির (রাঃ) বলেন, রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করা হলো, কোন নামায সবচেয়ে উত্তম? তিনি বললেন: যাতে কিয়াম দীর্ঘ হয়। আরবিতে কথাটি তূলুল কুনূত, অর্থাৎ কুনূতের দৈর্ঘ্য। মুসলিম আলাদা কোনো মান উল্লেখ করেননি। এটি নামায সম্পর্কে সাধারণ বর্ণনা, শব্দের অর্থ বোঝাতে আনা। এ আয়াতের সঙ্গে যুক্ত হিসেবে এটি বর্ণিত নয়।"
+          },
+          {
+            "en": "Mujahid, in al-Qurtubi, counts long bowing and lowering the gaze as part of qunut, and al-Qurtubi describes scholars who, standing in prayer, lowered their eyes, did not turn or fidget, and recalled nothing worldly unless by forgetting. Ma'arif al-Qur'an applies this to qumu lillahi qanitin in 2:238: the qanit does not look right and left, play with his body or clothes, or deliberately call up worldly thoughts, and a passing lapse of attention does not count against him.",
+            "bn": "কুরতুবীতে মুজাহিদ দীর্ঘ রুকু আর দৃষ্টি নত রাখাকেও কুনূতের অংশ গোনেন। কুরতুবী সেই আলেমদের কথা বলেন, যারা নামাযে দাঁড়ালে চোখ নামিয়ে রাখতেন। এদিক-ওদিক তাকাতেন না, অকারণে কিছু নাড়াচাড়া করতেন না, দুনিয়ার কোনো কথা মনে আনতেন না, ভুলে মনে পড়লে ভিন্ন কথা। মাআরিফুল কুরআন এটি খাটায় ২:২৩৮ আয়াতের কূমূ লিল্লাহি কানিতীন-এর উপর। নামাযে কানিত ডানে-বাঁয়ে তাকায় না, শরীর বা কাপড় নিয়ে খেলে না, ইচ্ছে করে দুনিয়ার চিন্তা ডেকে আনে না। অনিচ্ছায় মন সরে গেলে তা তার বিরুদ্ধে গোনা হয় না।"
           }
         ]
       },
       {
         "h": {
-          "en": "Measuring Knowledge by Its Fruit",
-          "bn": "ফল দেখে জ্ঞানের মাপ"
+          "en": "Beginning, Middle or Depth",
+          "bn": "শুরু, মাঝ, না গভীর রাত"
         },
         "p": [
           {
-            "en": "The verse distills to one line: real knowledge is measured by whether it moves us to devotion and hope. That yardstick can be applied without ceremony. After a lecture, a book, a course of study, the verse's question is simply: did anything change in the night that followed? Not as guilt, but as calibration — the worshipper of 39:9 is not presented as a scholar, only as someone whose knowledge of his Lord had consequences after dark.",
-            "bn": "আয়াতের সারকথা এক বাক্যে বলা যায়: আসল জ্ঞানের মাপ হলো, তা আমাদের ইবাদত আর আশার দিকে টানে কি না। এ মাপকাঠি কোনো আয়োজন ছাড়াই কাজে লাগানো যায়। একটা বয়ান শোনা, একটা বই পড়া বা কিছুদিনের পড়াশোনার পর আয়াতের প্রশ্ন সোজা: পরের রাতে কি কিছু বদলাল? প্রশ্নটা অপরাধবোধ জাগানোর জন্য নয়, নিজেকে ঠিকঠাক মেপে নেওয়ার জন্য। ৩৯:৯ আয়াতের ইবাদতকারীকে আলিম হিসেবে দেখানো হয়নি। সে শুধু এমন একজন, রবকে চেনার জ্ঞানের ছাপ যার জীবনে রাত নামার পরও দেখা যায়।"
+            "en": "Ana'a-l-layl, at-Tabari says, means the hours of the night, a gloss he gives from as-Suddi; Qatada specifies its beginning, middle and end. Ibn Kathir reports from Ibn 'Abbas, al-Hasan, as-Suddi and Ibn Zayd: the depths of the night; and from ath-Thawri, via Mansur: it has reached us that this is between Maghrib and 'Isha. Al-Qurtubi lists all three views and calls al-Hasan's view, beginning, middle and end, the general reading.",
+            "bn": "তাবারী বলেন, আনাআল লাইল মানে রাতের ঘণ্টাগুলো; এ ব্যাখ্যা তিনি আনেন সুদ্দী থেকে। কাতাদা খুলে বলেন: রাতের শুরু, মাঝ আর শেষ। ইবন কাসীর ইবন আব্বাস (রাঃ), হাসান, সুদ্দী ও ইবন যায়দ থেকে আনেন: গভীর রাত। আর মানসূরের সূত্রে সাওরী থেকে: আমাদের কাছে পৌঁছেছে যে এটি মাগরিব ও ইশার মাঝের সময়। কুরতুবী তিনটি মতই উল্লেখ করেন, তারপর বলেন, হাসানের ব্যাখ্যা, অর্থাৎ শুরু, মাঝ ও শেষ, সবচেয়ে ব্যাপক।"
           },
           {
-            "en": "The doorway the verse names is deliberately modest: hours of the night, not the whole night. Two rak'ahs after 'Isha or before Fajr, prayed while others sleep, already place a person inside the description. Consistency outweighs quantity here as elsewhere in the religion. And the pairing of wariness and hope supplies the inner script for those minutes — one prostration weighed with what you fear, one standing lifted by what you hope from the mercy of your Lord.",
-            "bn": "আয়াত যে দরজার কথা বলে, তা ইচ্ছা করেই ছোট রাখা: রাতের কিছু প্রহর, পুরো রাত নয়। অন্যরা যখন ঘুমায়, তখন ইশার পরে বা ফজরের আগে দুই রাকাত পড়লেই একজন মানুষ এ বর্ণনার ভেতরে ঢুকে যায়। দ্বীনের অন্য সব ক্ষেত্রের মতো এখানেও পরিমাণের চেয়ে নিয়মিত থাকা বেশি দামি। আর ভয় ও আশার জোড়া বলে দেয়, সেই কয়েক মিনিটে মনের ভেতর কী চলবে। একটা সিজদা ভারী হোক যা আপনি ভয় করেন তা ভেবে, একবার দাঁড়ানোয় মন উঁচু হোক আপনার রবের রহমতের আশায়।"
+            "en": "As-Sa'di sees praise in the timing: the best worship, prayer, at the best time, the hours of night. Al-Qurtubi, and Ma'arif after him, report Ibn 'Abbas: whoever loves Allah to ease for him the standing on the Day of Resurrection, let Allah see him in the darkness of night, prostrating and standing, wary of the Hereafter and hoping for his Lord's mercy. Ibn Kathir sets 3:113 beside the verse, where some of the People of the Book recite Allah's verses through the night, prostrating. Night prayer also anchors 25:64 and 32:16, each with its own article.",
+            "bn": "সা'দী সময় বেছে নেওয়াতেও প্রশংসা দেখেন: সেরা ইবাদত নামায, সেরা সময়ে, অর্থাৎ রাতের প্রহরে। কুরতুবী, আর তাঁর পরে মাআরিফ, ইবন আব্বাস (রাঃ)-এর কথা আনেন: কিয়ামতের দিনের দাঁড়ানো যে নিজের জন্য সহজ দেখতে চায়, আল্লাহ যেন তাকে রাতের অন্ধকারে সিজদায় ও দাঁড়ানো অবস্থায় দেখেন, আখিরাতকে ভয় করতে আর রবের রহমতের আশা করতে। ইবন কাসীর পাশে রাখেন ৩:১১৩ আয়াত, যেখানে আহলে কিতাবের একদল রাতের প্রহরে আল্লাহর আয়াত তিলাওয়াত করে, সিজদায় থাকে। রাতের নামায ২৫:৬৪ ও ৩২:১৬ আয়াতেরও কেন্দ্রে, দুটির আলাদা প্রবন্ধ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wary, Yet Still Hoping",
+          "bn": "সতর্ক, তবু আশায় ভরা"
+        },
+        "p": [
+          {
+            "en": "Yahdharu-l-akhirata wa yarju rahmata rabbih: he is wary of the Hereafter and hopes for his Lord's mercy. At-Tabari reports from Sa'id ibn Jubayr, from Ibn 'Abbas: he is wary of the Hereafter's punishment and hopes that Allah will have mercy on him and admit him to Paradise. Al-Qurtubi glosses the mercy as the bliss of Paradise. As-Sa'di ties the fear to punishment for sins already committed and the hope to Allah's mercy, so the verse sets an inward deed beside the outward.",
+            "bn": "ইয়াহযারুল আখিরাতা ওয়া ইয়ারজূ রাহমাতা রাব্বিহ: সে আখিরাতকে ভয় করে, আর রবের রহমতের আশা রাখে। সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) থেকে তাবারী আনেন: সে আখিরাতের শাস্তিকে ভয় করে, আর আশা করে আল্লাহ তার উপর রহম করবেন, তাকে জান্নাতে দাখিল করবেন। কুরতুবী রহমতের ব্যাখ্যা দেন জান্নাতের নিয়ামত। সা'দীর মতে ভয়ের বিষয় আগে করা গুনাহর শাস্তি, আর আশার বিষয় আল্লাহর রহমত। ফলে বাইরের আমলের পাশে আয়াতটি ভেতরের আমলও রাখে।"
+          },
+          {
+            "en": "Ibn Kathir draws a rule: both are indispensable in worship; through life fear should be the stronger, and at death hope should prevail. For the second he cites a report of Anas, which at-Tirmidhi records (983): The Prophet ﷺ entered upon a young man while he was dying and said: How do you feel? He said: By Allah, O Messenger of Allah, I hope in Allah and I fear my sins. The Messenger of Allah ﷺ said: These two do not gather in a servant's heart at a moment like this except that Allah gives him what he hopes for and makes him safe from what he fears.",
+            "bn": "ইবন কাসীর এখান থেকে একটি নিয়ম বের করেন। ইবাদতে ভয় আর আশা দুটোই অপরিহার্য। জীবদ্দশায় ভয় প্রবল থাকা উচিত, আর মৃত্যুর সময় আশা। দ্বিতীয় কথার সমর্থনে তিনি আনাস (রাঃ)-এর বর্ণনা আনেন, তিরমিযী (৯৮৩) যা রেখেছেন এ ভাষায়: নবী ﷺ এক যুবকের কাছে গেলেন, তখন সে মৃত্যুশয্যায়। তিনি বললেন: কেমন বোধ করছ? সে বলল: আল্লাহর কসম, হে আল্লাহর রাসূল, আমি আল্লাহর কাছে আশা রাখি, আর আমার গুনাহগুলোকে ভয় করি। রাসূলুল্লাহ ﷺ বললেন: এমন মুহূর্তে কোনো বান্দার অন্তরে এ দুটি একসঙ্গে জমা হলে আল্লাহ তাকে তার আশার জিনিস দেন, আর যার ভয় করে তা থেকে নিরাপদ রাখেন।"
+          },
+          {
+            "en": "At-Tirmidhi grades it gharib, noting that some narrated it from Thabit from the Prophet ﷺ as mursal, without Anas; Ibn Majah also records it (4261). It concerns a dying man and is not narrated about this verse; Ibn Kathir brings it for the balance the verse names. Al-Qurtubi closes off a cheap hope: asked about a man who persists in sins and still hopes, al-Hasan said that he is merely wishing. Here, hope stands beside wariness and a night of prostration.",
+            "bn": "তিরমিযী হাদীসটিকে গরীব বলেছেন। তিনি জানান, কেউ কেউ এটি সাবিত থেকে সরাসরি নবী ﷺ পর্যন্ত বর্ণনা করেছেন, আনাস (রাঃ)-কে বাদ দিয়ে, মুরসাল হিসেবে। ইবন মাজাহও (৪২৬১) এটি এনেছেন। বর্ণনাটি এক মৃত্যুপথযাত্রীকে নিয়ে, এ আয়াত সম্পর্কে নয়; আয়াতের ভারসাম্য বোঝাতেই ইবন কাসীর এটি এনেছেন। আশাকে সস্তা করে পড়ার পথ কুরতুবী বন্ধ করে দেন। যে গুনাহ করেই চলে আর আশাও রাখে, তার কথা জিজ্ঞেস করা হলে হাসান বলেছিলেন: সে শুধু মনের খায়েশ পুষছে। এখানে আশা দাঁড়িয়ে আছে ভয় আর সিজদার রাতের পাশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Reports Give",
+          "bn": "বর্ণনাগুলো যাদের নাম নেয়"
+        },
+        "p": [
+          {
+            "en": "Reports naming the qanit differ. Ibn Kathir, through Ibn Abi Hatim, has Ibn 'Umar recite the verse and say: that is 'Uthman ibn 'Affan; al-Baghawi and al-Qurtubi carry it too. Al-Baghawi adds Abu Bakr, from Ibn 'Abbas in 'Ata's narration; Abu Bakr and 'Umar, from ad-Dahhak; and Ibn Mas'ud, 'Ammar and Salman, from al-Kalbi. Al-Qurtubi gives the Prophet ﷺ himself, from Yahya ibn Sallam; 'Ammar ibn Yasir, from Muqatil; and Suhayb, Abu Dharr and Ibn Mas'ud, from al-Kalbi.",
+            "bn": "কানিত কে, তা নিয়ে বর্ণনাগুলো একমত নয়। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আনেন, ইবন উমর (রাঃ) আয়াতটি পড়ে বললেন: তিনি উসমান ইবন আফফান (রাঃ)। বাগাভী ও কুরতুবীতেও এ বর্ণনা আছে। বাগাভী আরও আনেন: আতার বর্ণনায় ইবন আব্বাস (রাঃ) থেকে আবু বকর (রাঃ); যাহহাক থেকে আবু বকর ও উমর (রাঃ); কালবী থেকে ইবন মাসউদ, আম্মার ও সালমান (রাঃ)। কুরতুবী আনেন: ইয়াহইয়া ইবন সাল্লাম থেকে স্বয়ং নবী ﷺ; মুকাতিল থেকে আম্মার ইবন ইয়াসির (রাঃ); কালবী থেকে সুহাইব, আবু যর ও ইবন মাসউদ (রাঃ)।"
+          },
+          {
+            "en": "Ibn Kathir explains Ibn 'Umar's choice by how much 'Uthman prayed and recited at night, at times the whole Qur'an in a single rak'ah. Al-Qurtubi also reports from al-Kalbi that the verse concerns whoever is in this state. These are the commentators' reports, and this article picks none of them; as-Sa'di and the Muyassar explain the verse without naming anyone.",
+            "bn": "ইবন উমর কেন উসমানের নাম নিলেন, ইবন কাসীর তার কারণ বলেন: তিনি রাতে প্রচুর নামায পড়তেন আর তিলাওয়াত করতেন, কখনো কখনো এক রাকাতেই পুরো কুরআন। কুরতুবী কালবী থেকে এ কথাও আনেন যে আয়াতটি এমন অবস্থায় থাকা যে-কারও ব্যাপারে। এগুলো তাফসীরকারদের আনা বর্ণনা, এ প্রবন্ধ এর কোনোটিকে বেছে নেয় না। সা'দী ও মুয়াসসার কারও নাম না নিয়েই আয়াতটি ব্যাখ্যা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing What, Exactly",
+          "bn": "ঠিক কী জানার কথা"
+        },
+        "p": [
+          {
+            "en": "Qul hal yastawi-lladhina ya'lamuna walladhina la ya'lamun: say, are those who know equal to those who do not know? At-Tabari reads: ask your people, are those who know the reward of obeying their Lord and the consequences of disobeying Him equal to those who know none of it, groping in the dark, hoping for no good from their good deeds and fearing no harm from their bad ones? These two, he says, are not equal.",
+            "bn": "কুল হাল ইয়াসতাউইল্লাযীনা ইয়া'লামূনা ওয়াল্লাযীনা লা ইয়া'লামূন: বলো, যারা জানে আর যারা জানে না, তারা কি সমান? তাবারীর পাঠে নবী ﷺ নিজের কওমকে জিজ্ঞেস করবেন: রবের আনুগত্যে কী সওয়াব আর নাফরমানিতে কী পরিণাম, যারা তা জানে, তারা কি সমান তাদের, যারা এর কিছুই জানে না? এরা অন্ধকারে হাতড়ে বেড়ায়। ভালো আমল থেকে কল্যাণের আশা করে না, মন্দ আমল থেকে ক্ষতির ভয়ও করে না। তাবারী বলেন, এ দুই দল সমান নয়।"
+          },
+          {
+            "en": "The Muyassar names the object: those who know their Lord and their true religion. As-Sa'di widens it: they know their Lord, His religion of law and His religion of recompense, and the wisdom within them, and the two groups are as unequal as night and day, light and darkness, water and fire. Ibn Kathir ties the question to its neighbour: is this man equal to him who set up rivals to Allah to lead others astray from His path?",
+            "bn": "মুয়াসসার জানার বিষয়টা স্পষ্ট করে: যারা নিজেদের রব আর সত্য দ্বীনকে জানে। সা'দী পরিধিটা বড় করেন। তারা রবকে জানে, জানে তাঁর শরীয়তের দ্বীন আর প্রতিদানের দ্বীন, আর এর ভেতরের হিকমত। তাঁর কথায়, এ দুই দল তেমনই অসমান, যেমন রাত আর দিন, আলো আর অন্ধকার, পানি আর আগুন। ইবন কাসীর প্রশ্নটিকে আগের আয়াতের সঙ্গে বেঁধে রাখেন: এই মানুষ কি তার সমান, যে আল্লাহর সমকক্ষ দাঁড় করিয়েছে তাঁর পথ থেকে অন্যদের বিভ্রান্ত করতে?"
+          },
+          {
+            "en": "Al-Qurtubi reports two further readings that work differently. Az-Zajjaj takes the question as a likeness: as those who know and those who do not are unequal, so are the obedient and the disobedient. Others define the knowers as those who benefit from their knowledge and act on it; whoever knows without benefit or action stands in the place of him who does not know. The first compares two pairs; the second sets a condition on knowledge itself.",
+            "bn": "কুরতুবী আরও দুটি ব্যাখ্যা আনেন, দুটির কাজের ধরন আলাদা। যাজ্জাজ প্রশ্নটিকে উপমা হিসেবে নেন: যারা জানে আর যারা জানে না তারা যেমন সমান নয়, আনুগত্যকারী আর নাফরমানও তেমনি সমান নয়। অন্যেরা জ্ঞানীর সংজ্ঞা দেন: জ্ঞানী তারাই, যারা জ্ঞান থেকে উপকার নেয় আর সে অনুযায়ী আমল করে। যে জেনেও উপকার নেয় না, আমলও করে না, সে না-জানা লোকের জায়গাতেই দাঁড়িয়ে। প্রথম ব্যাখ্যা দুই জোড়ার তুলনা টানে, দ্বিতীয়টি জ্ঞানের উপরই শর্ত বসায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Minds That Take Heed",
+          "bn": "যে বুদ্ধি উপদেশ নেয়"
+        },
+        "p": [
+          {
+            "en": "Innama yatadhakkaru ulu-l-albab: only the people of understanding take heed. Ibn Kathir: only he who has a lubb, which is the intellect, knows the difference between this man and that. At-Tabari: only people of minds take Allah's proofs as a lesson, are admonished by them, reflect and ponder, not people of ignorance and deficient minds. Al-Qurtubi specifies people of minds from among the believers; the Muyassar, people of sound minds who recognise the difference.",
+            "bn": "ইন্নামা ইয়াতাযাক্কারু উলুল আলবাব: কেবল বোধসম্পন্ন মানুষেরাই উপদেশ নেয়। ইবন কাসীরের ব্যাখ্যা: এই মানুষ আর ওই মানুষের পার্থক্য বোঝে কেবল সে, যার লুব্ব আছে, আর লুব্ব মানে বুদ্ধি। তাবারীর ব্যাখ্যা: আল্লাহর দলিল থেকে শিক্ষা নেয়, উপদেশ পায়, তা নিয়ে ভাবে ও গভীরে চিন্তা করে বুদ্ধির মানুষেরা, অজ্ঞ আর অপূর্ণ বুদ্ধির লোকেরা নয়। কুরতুবী বলেন, মুমিনদের মধ্যকার বুদ্ধিমানেরা। মুয়াসসার বলে, সুস্থ বুদ্ধির মানুষেরা, যারা পার্থক্যটা চিনতে পারে।"
+          },
+          {
+            "en": "As-Sa'di describes such minds as pure and keen: they prefer the higher to the lower, knowledge to ignorance and obedience to Allah to defiance of Him, because their minds lead them to consider where things end, while he who lacks such a mind takes his desire as his god. The next verse, 39:10, turns to the believers: fear your Lord, and the patient are paid without measure. Later, 39:23 shows the skins of those who fear their Lord shivering at the Book, then softening to the remembrance of Allah.",
+            "bn": "সা'দীর মতে এমন বুদ্ধি পবিত্র ও তীক্ষ্ণ। তাই তারা নিচুর বদলে উঁচুকে বেছে নেয়: অজ্ঞতার বদলে জ্ঞান, আল্লাহর অবাধ্যতার বদলে তাঁর আনুগত্য। কারণ তাদের বুদ্ধি তাদের পরিণামের দিকে তাকাতে শেখায়। যার এমন বুদ্ধি নেই, সে নিজের খেয়ালখুশিকেই ইলাহ বানিয়ে নেয়। পরের আয়াত, ৩৯:১০, মুমিনদের দিকে ফেরে: তোমাদের রবকে ভয় করো, আর ধৈর্যশীলদের প্রতিদান দেওয়া হবে হিসাব ছাড়া। আরও পরে ৩৯:২৩ দেখায়, যারা রবকে ভয় করে, কিতাব শুনে তাদের গায়ের চামড়া শিউরে ওঠে, তারপর তা নরম হয়ে আসে আল্লাহর জিকিরের দিকে।"
           }
         ]
       }
