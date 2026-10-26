@@ -1044,8 +1044,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "তাবারী, বাগাভী ও ইবন কাসীর তিনজনই আবুদ দারদা (রাঃ) থেকে একটি বর্ণনা এনেছেন। আতা ইবন ইয়াসারের সূত্রে তাবারীর ভাষায়: রাসূলুল্লাহ ﷺ একদিন এই আয়াত তিলাওয়াত করলেন। আবুদ দারদা জিজ্ঞেস করলেন, হে আল্লাহর রাসূল, সে যিনা করলেও আর চুরি করলেও? নবী ﷺ আবার আয়াতটি পড়লেন। দ্বিতীয়বার জিজ্ঞেস করলে আবারও পড়লেন। তৃতীয়বার বললেন: সে যিনা করলেও, চুরি করলেও, আবুদ দারদার নাক ধুলায় মলিন হলেও। তিনজনের কেউই বর্ণনাটির মান উল্লেখ করেননি।"
           },
           {
-            "en": "Ibn Kathir notes that an-Nasa'i narrated it, and that it was also narrated as Abu ad-Darda's own words. At-Tabari keeps a saying of his that reads like a gloss on it: if he fears the standing of his Lord, he will not commit zina and will not steal. Al-Qurtubi records a ruling built on the verse: Sufyan ath-Thawri ruled that a man who swore his wife was divorced unless he was of the people of the Garden had not broken his oath, if he had intended a sin and left it out of fear of Allah and shame before Him.",
-            "bn": "ইবন কাসীর জানান, নাসাঈ এটি বর্ণনা করেছেন, আর বর্ণনাটি আবুদ দারদার নিজের কথা হিসেবেও এসেছে। তাবারী তাঁর একটি উক্তি রেখেছেন, যা যেন এরই ব্যাখ্যা: সে যদি তার রবের মাকামকে ভয় করে, তবে যিনা করবে না, চুরিও করবে না। কুরতুবী আয়াতের উপর দাঁড়ানো একটি ফতোয়া উল্লেখ করেন। কেউ কসম করল, সে জান্নাতি না হলে তার স্ত্রী তালাক। সুফিয়ান সাওরী ফতোয়া দেন, তার কসম ভাঙেনি, যদি সে কখনো গুনাহের ইচ্ছা করে আল্লাহর ভয়ে ও তাঁর প্রতি লজ্জায় তা ছেড়ে দিয়ে থাকে।"
+            "en": "Ibn Kathir notes that an-Nasa'i narrated it, and that it was also narrated as Abu ad-Darda's own words. At-Tabari keeps a saying of his that reads like a gloss on it: if he fears the standing of his Lord, he will not commit zina and will not steal.",
+            "bn": "ইবন কাসীর জানান, নাসাঈ এটি বর্ণনা করেছেন, আর বর্ণনাটি আবুদ দারদার নিজের কথা হিসেবেও এসেছে। তাবারী তাঁর একটি উক্তি রেখেছেন, যা যেন এরই ব্যাখ্যা: সে যদি তার রবের মাকামকে ভয় করে, তবে যিনা করবে না, চুরিও করবে না।"
           }
         ]
       },
