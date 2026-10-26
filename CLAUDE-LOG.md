@@ -14,7 +14,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## LIVE STATE (2026-10-26 15:38, DEPTH PASS STOPPED on user instruction (after the second "7 more"). 173/299 done. ALL COMMITS v1099-v1181 PUSHED (origin+pro). LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1181. Budget at stop: 7d ~96% (resets Mon 26 Oct 16:00). Nothing in flight. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 31:17-19 31:22 31:27 32:16-17 33:21 33:35 are PREPPED (audit folders ready), then prep onward; launch 5 drafters per the skill. Lessons today: ship+commit one key before shipping the next (v1147-v1148 bump-only, folded into v1149); when cutting a Bengali sentence match by position, not by pasted string (nukta encoding differs); never force-push (blocked, and wrong))
+## LIVE STATE (2026-10-26 16:01, DEPTH PASS STOPPED after the user's "run another 5" batch. 178/299 done. ALL COMMITS v1099-v1186 PUSHED (origin+pro). LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1186. Budget at stop: 7d 0% (window reset at 16:00, next reset Mon 2 Nov 16:00), 5h ~32% (resets 18:40). Nothing in flight. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 32:16 32:17 33:35 are PREPPED (32:16-17 is NOT a key; the shipped articles are 32:16 and 32:17 separately), then prep onward; launch 5 drafters per the skill. Lessons today: ship+commit one key before shipping the next (v1147-v1148 bump-only, folded into v1149); when cutting a Bengali sentence match by position, not by pasted string (nukta encoding differs); never force-push)
 USER: "continue unfinished job" -> the depth pass of the original 299 short articles (650-860 words, ~6 sections) to the deep template.
 - Articles only; the shipped cards are KEPT (their 13-lang translations are keyed by the EN text; rewriting a card = English in 13 langs).
 - Tools: `node tools/wip/round11/upgrade-queue.js [N]` (next keys), prep.js as before, drafter prompt "Read tools/wip/round11/BRIEF.md and follow it exactly. DEPTH PASS (§7). Key: X." + watch-points, gate.js (no notes file = depth mode), `tools/wip/round11/ship-upgrade.sh <key>` (merge-articles.js --replace, new flag), commit.sh as before.
@@ -193,6 +193,11 @@ USER: "continue unfinished job" -> the depth pass of the original 299 short arti
 | 30:41 | v1179 | DONE |
 | 30:60 | v1180 | DONE |
 | 31:14 | v1181 | DONE |
+| 31:17-19 | v1185 | DONE |
+| 31:22 | v1184 | DONE |
+| 31:27 | v1186 | DONE |
+| 33:21 | v1182 | DONE |
+| 32:7 | v1183 | DONE |
 | 28:24 | v1163 | DONE |
 | 15:85 | v1102 | DONE |
 | 15:99 | v1103 | DONE |
