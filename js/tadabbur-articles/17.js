@@ -439,97 +439,145 @@ Object.assign(TADABBUR_ARTICLES, {
     "sections": [
       {
         "h": {
-          "en": "Decreed, Not Suggested",
-          "bn": "সুপারিশ নয়, ফয়সালা"
+          "en": "A Command, Not a Fate",
+          "bn": "হুকুম, তাকদির নয়"
         },
         "p": [
           {
-            "en": "The passage begins wa qada rabbuka, and your Lord has decreed. Qada is a decisive verb — a settled ruling, not advice offered for consideration. What it decrees is doubled: that you worship none but Him, and bil-walidayni ihsana, kindness to the two parents. Ihsan is more than duty; it is doing the good thing and doing it beautifully. The two commands share one verb, and no reader of the Arabic can separate them without breaking the sentence.",
-            "bn": "অংশটি শুরু হয় ওয়া ক্বাদা রাব্বুকা দিয়ে: আর তোমার রব ফয়সালা করে দিয়েছেন। ক্বাদা চূড়ান্ত সিদ্ধান্তের শব্দ। এটা পাকা হুকুম, ভেবে দেখার জন্য দেওয়া কোনো পরামর্শ নয়। ফয়সালা দুটি: তোমরা তাঁকে ছাড়া আর কারও ইবাদত করবে না, আর বিল-ওয়ালিদাইনি ইহসানা, মা-বাবার সঙ্গে সদ্ব্যবহার করবে। ইহসান শুধু দায়িত্ব পালন নয়। ভালো কাজটা করা, আর সুন্দর করে করা, এটাই ইহসান। দুটি আদেশ একই ক্রিয়ার অধীনে এসেছে, তাই আরবি পড়ে কেউ বাক্য না ভেঙে এ দুটিকে আলাদা করতে পারবে না।"
+            "en": "Wa-qada rabbuka: and your Lord has decreed. The verse follows straight on from 17:22, do not set up another god with Allah, and as-Sa'di joins them: having forbidden shirk, Allah now commands tawhid, by a religious decree and a legal command. At-Tabari reports amara, He commanded, from Ibn Abbas (RA) and Qatada. He also tells of a man who had divorced his wife three times and said Allah had decreed it for him; al-Hasan answered that Allah had commanded no such thing, and recited this verse.",
+            "bn": "ওয়া কাদা রব্বুকা: আর আপনার রব ফয়সালা দিয়েছেন। ঠিক আগের আয়াত ১৭:২২ বলেছে, আল্লাহর সঙ্গে অন্য কোনো ইলাহ দাঁড় করাবেন না। সা'দী দুটোকে জুড়ে দেন: শিরক নিষেধ করার পর আল্লাহ এবার তাওহীদের হুকুম দিচ্ছেন, আর এই ফয়সালা দ্বীনি ফয়সালা, শরীয়তের হুকুম। তাবারী ইবনে আব্বাস (রাঃ) ও কাতাদা থেকে অর্থ বর্ণনা করেন: আমারা, তিনি আদেশ করেছেন। তিনি এক লোকের ঘটনাও আনেন। লোকটি স্ত্রীকে তিনটি তালাক দিয়ে বলেছিল, আল্লাহ তো আমার ভাগ্যে এটাই লিখেছেন। হাসান জবাব দিলেন, আল্লাহ এমন কোনো হুকুম দেননি, তারপর এই আয়াত পড়ে শোনালেন।"
           },
           {
-            "en": "These verses open a charter of conduct running to 17:39, sealed with the statement that this is from the wisdom your Lord revealed to you. Inside it come the prohibitions of killing children out of fear of poverty, of approaching adultery, of taking a life unjustly, of consuming an orphan's wealth, of short measure and of arrogance in walking. Parents are placed first, immediately after tawhid — before every social crime the passage names.",
-            "bn": "এই আয়াতগুলো দিয়ে শুরু হয় আচার-আচরণের একটি সনদ, যা চলে ১৭:৩৯ পর্যন্ত। সেখানে শেষে বলা হয়েছে, এগুলো সেই হিকমতের অংশ, যা তোমার রব তোমার প্রতি ওহি করেছেন। এর ভেতরে আছে কয়েকটি নিষেধ: অভাবের ভয়ে সন্তান হত্যা করা, ব্যভিচারের কাছে যাওয়া, অন্যায়ভাবে কারও প্রাণ নেওয়া, এতিমের সম্পদ খাওয়া, মাপে কম দেওয়া আর দম্ভ করে চলা। আর মা-বাবার স্থান রাখা হয়েছে সবার আগে, তাওহিদের ঠিক পরেই, এই অংশে উল্লেখ করা প্রতিটি সামাজিক অপরাধের আগে।"
+            "en": "Al-Qurtubi takes the point further. Qada has several senses in the Qur'an: command, creation, judgment, completion, will and covenant. Because the word can bear all of these, he says, it may not be stated without qualification that sins happen by Allah's qada, since if command is meant, all agree it cannot be said: Allah does not command indecency. Here the sense is command, and he gathers the glosses into three verbs: Allah commanded, obliged and made binding. What follows is therefore not advice but an obligation.",
+            "bn": "কুরতুবী কথাটা আরও এগিয়ে নেন। কুরআনে কাদা শব্দের অর্থ একাধিক: আদেশ, সৃষ্টি, বিচার, শেষ করা, ইচ্ছা আর অঙ্গীকার। শব্দটা এতগুলো অর্থ বহন করে বলে তিনি সতর্ক করেন, গুনাহ আল্লাহর কাদা অনুযায়ী ঘটে, এ কথা ঢালাওভাবে বলা চলে না। কারণ কাদা মানে যদি আদেশ হয়, তবে সবাই একমত যে এমন বলা নাজায়েজ, আল্লাহ অশ্লীলতার আদেশ দেন না। এখানে অর্থ আদেশ। কুরতুবী সব ব্যাখ্যাকে তিনটি ক্রিয়ায় গুছিয়ে দেন: আদেশ করেছেন, অপরিহার্য করেছেন, ফরজ করেছেন। তাই সামনে যা আসছে, তা পরামর্শ নয়, দায়িত্ব।"
+          },
+          {
+            "en": "Several reports concern the wording itself. At-Tabari, from Qatada, says the reading of Ibn Mas'ud (RA) had wassa, He enjoined; he reports a codex on the reading of Ubayy ibn Ka'b (RA) with wa-wassa; and he records that ad-Dahhak read wa-wassa, claiming the waw had run into the sad and become a qaf. Al-Qurtubi carries these, and adds that Abu Hatim refused to accept that Ibn Abbas (RA) ever said so, warning that heretics would use it against the mushaf. The received text reads qada, and every gloss gives one sense.",
+            "bn": "শব্দটির পাঠ নিয়েও কয়েকটি বর্ণনা আছে। তাবারী কাতাদা থেকে বর্ণনা করেন, ইবনে মাসউদ (রাঃ)-এর পাঠে ছিল ওয়াসসা, অর্থাৎ তিনি নির্দেশ দিয়েছেন। উবাই ইবনে কা'ব (রাঃ)-এর পাঠ অনুযায়ী লেখা এক মুসহাফেও ছিল ওয়া ওয়াসসা। দাহহাক নিজেও ওয়া ওয়াসসা পড়তেন। তাঁর দাবি, ওয়াও অক্ষর সোয়াদের গায়ে লেগে গিয়ে কাফ হয়ে গেছে। কুরতুবী এসব বর্ণনা আনেন, সঙ্গে এটাও জানান যে আবু হাতিম মানতে রাজি হননি ইবনে আব্বাস (রাঃ) এমন কথা বলেছেন। তাঁর আশঙ্কা ছিল, ধর্মদ্রোহীরা এ দিয়ে মুসহাফের ওপর আঘাত হানবে। প্রচলিত পাঠ কাদা, আর সব ব্যাখ্যার অর্থ একটাই।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Weight of One Syllable",
-          "bn": "একটি ধ্বনির ভার"
+          "en": "His Right, Then Theirs",
+          "bn": "আগে তাঁর হক, তারপর তাঁদের"
         },
         "p": [
           {
-            "en": "The verse then narrows to a specific season: imma yablughanna indaka al-kibara ahaduhuma aw kilahuma. If one of them, or both, reaches old age with you. Indaka means in your keeping — the moment when the direction of care has reversed. Ahaduhuma aw kilahuma, one or both, closes the loophole of a child attentive to one parent and cold to the other. The Arabic is precise about a situation families recognise at once.",
-            "bn": "এরপর আয়াত জীবনের একটি নির্দিষ্ট পর্বের কথায় আসে: ইম্মা ইয়াবলুগান্না ইনদাকাল-কিবারা আহাদুহুমা আও কিলাহুমা। তাদের একজন বা দুজনই যদি তোমার কাছে বার্ধক্যে পৌঁছে যায়। ইনদাকা মানে তোমার কাছে, তোমার দেখাশোনায়। অর্থাৎ সেই সময়, যখন যত্নের দিক উল্টে গেছে। আহাদুহুমা আও কিলাহুমা, একজন বা দুজনই: এ কথায় সেই ফাঁকও বন্ধ, যেখানে সন্তান মা-বাবার একজনের যত্ন নেয় আর অন্যজনের প্রতি উদাসীন থাকে। প্রতিটি পরিবার যে অবস্থা সঙ্গে সঙ্গে চিনে ফেলে, আরবি সেটা একেবারে নিখুঁতভাবে ধরেছে।"
+            "en": "Wa-bil-walidayni ihsana: and to the two parents, excellent treatment. At-Tabari explains the grammar: He commanded you to do good to your parents, with the particle an dropped, so the one verb qada governs both clauses. Ibn Kathir draws the consequence: this is why Allah joined dutifulness to parents with His own worship, citing 31:14, be grateful to Me and to your parents. Al-Qurtubi pairs them with the same verse. As-Sa'di gives the reason: the parents are the cause of the servant's existence, and their love and nearness make the right firm.",
+            "bn": "ওয়া বিল ওয়ালিদাইনি ইহসানা: আর মা-বাবার সঙ্গে উত্তম আচরণ। তাবারী ব্যাকরণটা খুলে বলেন। আসল কথা হলো, তিনি আপনাদের আদেশ করেছেন মা-বাবার প্রতি সদাচরণ করতে। মাঝখানের আন অব্যয়টি বাদ পড়েছে, ফলে কাদা একটি ক্রিয়াই দুই বাক্যাংশকে ধরে রেখেছে। ইবনে কাসীর এখান থেকে সিদ্ধান্ত টানেন: এ কারণেই আল্লাহ নিজের ইবাদতের সঙ্গে মা-বাবার প্রতি সদ্ব্যবহারকে জুড়ে দিয়েছেন। প্রমাণ হিসেবে আনেন ৩১:১৪, আমার শুকরিয়া আদায় করো এবং তোমার মা-বাবারও। কুরতুবীও একই আয়াত দিয়ে দুটোকে জোড়েন। সা'দী কারণ বলেন: মা-বাবাই বান্দার অস্তিত্বের মাধ্যম, আর সন্তানের প্রতি তাঁদের ভালোবাসা ও নৈকট্য এই হককে মজবুত করে।"
           },
           {
-            "en": "Then: fala taqul lahuma uffin. Do not say to them uff. Uff is not an insult or an argument. It is the small breath of irritation a tired person lets out — the click of the tongue, the sigh at a question asked for the fourth time. The Quran forbids the smallest audible sign of impatience, and the commentators reason from it that everything heavier is forbidden by necessity. Then wa la tanharhuma, do not rebuke or push them away, and qul lahuma qawlan karima, speak to them a noble word.",
-            "bn": "তারপর: ফালা তাক্বুল লাহুমা উফ্ফ। তাদের উফ বলো না। উফ কোনো গালি নয়, তর্কও নয়। ক্লান্ত মানুষের মুখ থেকে বেরিয়ে আসা বিরক্তির ছোট্ট একটা নিঃশ্বাস: জিভে চুক চুক শব্দ, একই প্রশ্ন চতুর্থবার শুনে একটা দীর্ঘশ্বাস। অধৈর্যের সবচেয়ে ছোট যে প্রকাশ কানে শোনা যায়, কুরআন সেটাও নিষেধ করেছে। মুফাসসিররা এখান থেকে যুক্তি দেন, এর চেয়ে ভারী সবকিছু তো আরও আগে নিষিদ্ধ। এরপর ওয়া লা তানহারহুমা, তাদের ধমক দিও না, দূরে ঠেলে দিও না। আর ক্বুল লাহুমা ক্বাওলান কারীমা, তাদের সঙ্গে সম্মানজনক কথা বলো।"
+            "en": "Al-Qurtubi attaches a hadith to this pairing, and it is in Sahih al-Bukhari 527, from Abdullah (RA): I asked the Prophet ﷺ which deed is most beloved to Allah. He said: prayer at its time. I said: then which? He said: then dutifulness to the parents. I said: then which? He said: jihad in the way of Allah. Abdullah said: he told me these, and had I asked for more he would have told me more. Its grading is al-Bukhari's placing it in his Sahih. Al-Qurtubi notes the ordering by thumma, then.",
+            "bn": "এই জোড়ার সঙ্গে কুরতুবী একটি হাদীস যুক্ত করেন। সেটি আছে সহীহ বুখারী ৫২৭-এ, আবদুল্লাহ (রাঃ) থেকে: আমি নবী ﷺ-কে জিজ্ঞেস করলাম, কোন আমল আল্লাহর কাছে সবচেয়ে প্রিয়? তিনি বললেন, সময়মতো নামাজ। বললাম, তারপর কোনটি? বললেন, তারপর মা-বাবার সঙ্গে সদ্ব্যবহার। বললাম, তারপর কোনটি? বললেন, আল্লাহর পথে জিহাদ। আবদুল্লাহ বলেন, তিনি আমাকে এগুলো বললেন, আরও জানতে চাইলে আরও বলতেন। এর মান হলো ইমাম বুখারী একে নিজের সহীহতে রেখেছেন। কুরতুবী খেয়াল করিয়ে দেন, ক্রমগুলো সাজানো হয়েছে সুম্মা, অর্থাৎ তারপর, দিয়ে।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Wing of Humility",
-          "bn": "বিনয়ের ডানা"
+          "en": "When Age Comes Home",
+          "bn": "ঘরে যখন বার্ধক্য আসে"
         },
         "p": [
           {
-            "en": "In 17:24 the image changes from speech to posture: wakhfid lahuma janaha adh-dhulli min ar-rahmah. Lower to them the wing of humility out of mercy. The picture is a bird drawing its wing down over what it shelters — the gesture of a parent bird, now asked of the grown child. Dhull here is not humiliation but the willing lowering of one's own standing. Min ar-rahmah names the motive: not obligation grudgingly met, but tenderness.",
-            "bn": "১৭:২৪ আয়াতে ছবিটা কথা থেকে সরে আসে আচরণে: ওয়াখফিদ লাহুমা জানাহায-যুল্লি মিনার-রাহমাহ। দয়ার সঙ্গে তাদের জন্য বিনয়ের ডানা নামিয়ে দাও। ছবিটা এমন এক পাখির, যে ডানা নামিয়ে নিজের আশ্রিতকে ঢেকে রাখে। এটা ছানাদের আগলে রাখা মা-বাবা পাখির ভঙ্গি, আর এখন তা চাওয়া হচ্ছে বড় হয়ে যাওয়া সন্তানের কাছে। এখানে যুল্ল মানে অপমান নয়, বরং খুশিমনে নিজের মর্যাদা নিচু করে দেওয়া। মিনার-রাহমাহ বলে দেয় কেন: অনিচ্ছায় দায় সারা নয়, বরং মমতা থেকে।"
+            "en": "Imma yablughanna 'indaka al-kibara ahaduhuma aw kilahuma: if one of them or both reach old age with you. Al-Qurtubi asks why old age is singled out. It is when they most need dutifulness, because weakness has changed them; they now depend on the child, who must tend them in their age as they tended him in his childhood. He adds a second reason: a long stay under one roof ordinarily breeds a sense of burden and weariness, until anger shows, and the least of it is a sigh of irritation.",
+            "bn": "ইম্মা ইয়াবলুগান্না ইনদাকাল কিবারা আহাদুহুমা আও কিলাহুমা: তাঁদের একজন বা দুজনই যদি আপনার কাছে বার্ধক্যে পৌঁছান। কুরতুবী প্রশ্ন তোলেন, বার্ধক্যের কথা আলাদা করে কেন? কারণ এ সময়েই তাঁদের সদ্ব্যবহারের প্রয়োজন সবচেয়ে বেশি। দুর্বলতা তাঁদের অবস্থা বদলে দিয়েছে, এখন তাঁরা সন্তানের ওপর নির্ভরশীল। শৈশবে তাঁরা যেভাবে তার দেখাশোনা করেছেন, এখন বার্ধক্যে তাকে সেভাবে তাঁদের দেখাশোনা করতে হবে। কুরতুবী আরেকটি কারণও বলেন। এক ছাদের নিচে দীর্ঘদিন থাকলে সাধারণত মানুষ ভার বোধ করে, বিরক্তি জমে, একসময় রাগ বেরিয়ে আসে। তার সবচেয়ে হালকা রূপ হলো বিরক্তির একটা দীর্ঘশ্বাস।"
           },
           {
-            "en": "The order across the two verses is deliberate. First the tongue is disciplined, then the manner, then the heart is given the reason. It is possible to serve parents faultlessly and still make them feel like a burden; the wording closes that gap. What is being asked is not merely that the elderly be fed and housed, but that they not be made to feel small in the house of the child they raised.",
-            "bn": "দুই আয়াতের এই ক্রম ভেবেচিন্তে সাজানো। প্রথমে সংযত করা হয় জিভ, তারপর আচরণ, তারপর হৃদয়কে বলে দেওয়া হয় কারণটা। নিখুঁতভাবে মা-বাবার সেবা করেও তাঁদের বুঝিয়ে দেওয়া যায় যে তাঁরা বোঝা। আয়াতের ভাষা সেই ফাঁকটাও বন্ধ করে দেয়। এখানে শুধু এটুকু চাওয়া হচ্ছে না যে বৃদ্ধ মা-বাবা খাবার আর থাকার জায়গা পাবেন। চাওয়া হচ্ছে, যে সন্তানকে তাঁরা মানুষ করেছেন, তারই ঘরে যেন তাঁরা নিজেদের ছোট মনে না করেন।"
+            "en": "The verb has two readings. At-Tabari reports that most readers of Madinah and Basrah, with some Kufans, read yablughanna, singular, agreeing with ahaduhuma, one of them; most Kufan readers read yablughanni, dual, referring back to the parents, with one of them or both as a fresh clause. Al-Baghawi names Hamzah and al-Kisa'i for the dual. At-Tabari prefers the singular, since the command about parents ends at ihsana and a new sentence begins with imma. Either way, the case of just one parent is named outright.",
+            "bn": "ক্রিয়াটির দুটি পাঠ আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী এবং কূফার কয়েকজন পড়েছেন ইয়াবলুগান্না, একবচনে, যা আহাদুহুমা অর্থাৎ তাঁদের একজনের সঙ্গে মেলে। কূফার অধিকাংশ কারী পড়েছেন ইয়াবলুগান্নি, দ্বিবচনে, যা আগের মা-বাবার দিকে ফেরে। সে ক্ষেত্রে একজন বা দুজনই অংশটা নতুন বাক্যের শুরু। বাগাভী দ্বিবচন পাঠের কারী হিসেবে হামযা ও কিসাঈর নাম বলেন। তাবারী একবচন পাঠকে অগ্রাধিকার দেন। তাঁর যুক্তি, মা-বাবা সংক্রান্ত আদেশ ইহসানা শব্দে শেষ হয়েছে, আর ইম্মা দিয়ে নতুন বাক্য শুরু। যে পাঠই হোক, মা-বাবার কেবল একজনের বার্ধক্যের কথাও আয়াতে স্পষ্ট করে বলা আছে।"
+          },
+          {
+            "en": "Al-Qurtubi and Ibn Kathir both attach to this clause a hadith that, Ibn Kathir notes, Muslim recorded. In Sahih Muslim 2551, from Abu Hurayrah (RA), Allah's Messenger ﷺ said: may his nose be rubbed in the dust, then may his nose be rubbed in the dust, then may his nose be rubbed in the dust. It was said: who, Messenger of Allah? He said: whoever finds his parents in old age, one of them or both, and then does not enter Paradise. Ibn Kathir calls the route sahih; Muslim's grading is its place in his Sahih.",
+            "bn": "কুরতুবী ও ইবনে কাসীর দুজনেই এই অংশের সঙ্গে একটি হাদীস যুক্ত করেন, যা ইবনে কাসীরের ভাষ্যমতে ইমাম মুসলিম বর্ণনা করেছেন। সহীহ মুসলিম ২৫৫১-এ আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: তার নাক ধুলোয় মলিন হোক, তারপর তার নাক ধুলোয় মলিন হোক, তারপর তার নাক ধুলোয় মলিন হোক। জিজ্ঞেস করা হলো, কে সে, হে আল্লাহর রাসূল? তিনি বললেন, যে তার মা-বাবার একজনকে বা দুজনকেই বার্ধক্যে পেল, তারপরও জান্নাতে প্রবেশ করল না। ইবনে কাসীর এই সূত্রকে সহীহ বলেছেন, আর মুসলিমের মূল্যায়ন হলো তিনি এটি নিজের সহীহতে রেখেছেন।"
           }
         ]
       },
       {
         "h": {
-          "en": "The Du'a That Closes It",
-          "bn": "যে দোয়া দিয়ে শেষ"
+          "en": "Less Than a Word",
+          "bn": "একটা শব্দেরও কম"
         },
         "p": [
           {
-            "en": "The passage ends by handing the child words to say: rabbi irhamhuma kama rabbayani saghira. My Lord, have mercy on them as they raised me when I was small. The verb rabbayani, they raised me, echoes the name Rabb — the Lord who nurtures and brings to completion — a link the scholars have long heard in the wording. The child is asking the true Rabb to do for his parents what they, in their small human way, once did for him.",
-            "bn": "অংশটি শেষ হয় সন্তানের মুখে একটি দোয়া তুলে দিয়ে: রাব্বির হামহুমা কামা রাব্বাইয়ানী সাগীরা। হে আমার রব, তাঁদের প্রতি দয়া করুন, যেভাবে তাঁরা ছোটবেলায় আমাকে লালন-পালন করেছেন। রাব্বাইয়ানী মানে তাঁরা আমাকে লালন করেছেন। এই ক্রিয়ার সঙ্গে রব নামের মিল কানে বাজে। রব তিনিই, যিনি লালন করেন, পূর্ণতায় পৌঁছে দেন। আলিমরা বহু আগেই শব্দের এই মিল লক্ষ করেছেন। সন্তান আসল রবের কাছে চাইছে, মা-বাবা নিজেদের সীমিত মানবীয় সামর্থ্যে একদিন তার জন্য যা করেছিলেন, তিনি যেন তাঁদের জন্য তা-ই করেন।"
+            "en": "Fa-la taqul lahuma uff: do not say to them uff. Ibn Kathir and al-Muyassar give one gloss: let them hear nothing bad from you, not even uff, the lowest rank of bad speech. As-Sa'di calls it the lowest grade of harm, named to point to everything above it. At-Tabari turns it into patience: do not say uff at anything you see from them that people find hard to bear, but bear it and count your patience toward reward, as they were patient with you when you were small.",
+            "bn": "ফালা তাকুল লাহুমা উফ: তাঁদের উফ বলবেন না। ইবনে কাসীর ও মুয়াসসারের ব্যাখ্যা একই: আপনার মুখ থেকে তাঁরা যেন কোনো মন্দ কথা না শোনেন, এমনকি উফও না, যা মন্দ কথার সবচেয়ে নিচের স্তর। সা'দীর ভাষায় এটি কষ্ট দেওয়ার সবচেয়ে নিচু ধাপ। এর উল্লেখ দিয়ে তার ওপরের সব কিছুর দিকে ইঙ্গিত করা হয়েছে। তাবারী একে সবরের শিক্ষা হিসেবে পড়েন। তাঁদের কারও কাছ থেকে এমন কিছু দেখলে যা মানুষের কাছে কষ্টকর লাগে, উফ বলবেন না। বরং সয়ে নিন, আর সেই সবরের প্রতিদান আল্লাহর কাছে আশা করুন, যেমন ছোটবেলায় তাঁরা আপনার বেলায় সবর করেছেন।"
           },
           {
-            "en": "Note what is asked for. Not their health, not their comfort, not long life — mercy, which is what they will need most and what no child can provide. This is also the part of the command that outlives them. When parents have died, the tongue and the manner are no longer in play, but the du'a is — one of the few things a person can still send. Prophetic teaching preserved in Sahih Muslim names the supplication of a righteous child among the deeds that continue after death.",
-            "bn": "লক্ষ করুন, কী চাওয়া হচ্ছে। তাঁদের সুস্থতা নয়, আরাম নয়, দীর্ঘ আয়ুও নয়। চাওয়া হচ্ছে রহমত, যা তাঁদের সবচেয়ে বেশি দরকার হবে, আর যা কোনো সন্তান দিতে পারে না। আদেশের এই অংশটাই মা-বাবার মৃত্যুর পরও বাকি থাকে। তাঁরা চলে গেলে জিভ সংযত রাখা বা আচরণের প্রশ্ন আর থাকে না, কিন্তু দোয়া থাকে। তখনো মানুষ যে অল্প কয়েকটি জিনিস পাঠাতে পারে, দোয়া তার একটি। সহীহ মুসলিমে সংরক্ষিত নবী ﷺ-এর শিক্ষায় নেক সন্তানের দোয়াকে সেই আমলগুলোর মধ্যে গণ্য করা হয়েছে, যা মৃত্যুর পরও চলতে থাকে।"
+            "en": "Mujahid, in at-Tabari and al-Baghawi, gives a concrete case: if they reach an age when they soil themselves, do not say uff in disgust while you clean them, as they cleaned you when you were small. Al-Qurtubi widens it: the verse is more general than this. Ma'arif al-Qur'an counts even a long breath, drawn after hearing what they said, as uff. Both relay a report from Ali (RA) that had anything been lower than uff, it would have been named; al-Qurtubi gives it as narrated, with no chain or grading, so it stands here as their report, not a graded hadith.",
+            "bn": "তাবারী ও বাগাভীতে মুজাহিদ একটি বাস্তব ছবি দেন। তাঁরা যদি এমন বয়সে পৌঁছান যে মলমূত্র সামলাতে পারেন না, তবে পরিষ্কার করার সময় ঘৃণায় উফ বলবেন না। ছোটবেলায় তাঁরাও তো আপনাকে এভাবেই পরিষ্কার করেছেন। কুরতুবী কথাটা মেনে নিয়ে পরিসর বাড়ান: আয়াতের অর্থ এর চেয়ে ব্যাপক। মাআরিফুল কুরআন তাঁদের কথা শুনে লম্বা নিঃশ্বাস ফেলাকেও উফের মধ্যে গণ্য করে। কুরতুবী ও মাআরিফ দুটিতেই আলী (রাঃ) থেকে একটি বর্ণনা আছে: উফের চেয়ে নিচু কিছু থাকলে সেটারও উল্লেখ হতো। কুরতুবী এটি এনেছেন শুধু বর্ণিত আছে বলে, কোনো সনদ বা মান উল্লেখ করেননি। তাই এখানে এটি তাঁদের উদ্ধৃত বর্ণনা, মান যাচাই করা হাদীস নয়।"
+          },
+          {
+            "en": "The word itself drew the grammarians. Al-Baghawi lists three readings: uffa, from Ibn Kathir (the reader, not the commentator), Ibn Amir and Ya'qub; uffin, from Abu Ja'far, Nafi' and Hafs; and uffi from the rest. The meaning is one, he says: a word of displeasure. At-Tabari counts six forms in Arabic and prefers uffi; al-Qurtubi counts ten. On its origin, al-Baghawi cites Abu Ubaydah: the grime on the fingers when you roll them. Al-Qurtubi cites al-Asma'i: uff is earwax and its partner tuff is nail-dirt, and use spread the word to anything irksome.",
+            "bn": "শব্দটি নিয়ে ব্যাকরণবিদেরাও ভেবেছেন। বাগাভী তিনটি পাঠ উল্লেখ করেন: ইবনে কাসীর (এখানে কারী ইবনে কাসীর, মুফাসসির নন), ইবনে আমির ও ইয়াকুব পড়েছেন উফফা; আবু জা'ফর, নাফে' ও হাফস পড়েছেন উফফিন; বাকিরা উফফি। তাঁর মতে অর্থ একটাই: অপছন্দ প্রকাশের শব্দ। তাবারী আরবিতে এর ছয়টি রূপ গোনেন এবং উফফি পাঠকে অগ্রাধিকার দেন, আর কুরতুবী গোনেন দশটি। শব্দের উৎস নিয়ে বাগাভী আবু উবাইদার কথা আনেন: আঙুল ঘষলে যে ময়লা জমে। কুরতুবী আনেন আসমাঈর কথা: উফ হলো কানের ময়লা, আর তার জোড়া শব্দ তুফ নখের ময়লা। ব্যবহার বাড়তে বাড়তে শব্দটা বিরক্তিকর যে কোনো কিছুর জন্যই বলা হতে থাকে।"
           }
         ]
       },
       {
         "h": {
-          "en": "When Home Is Hard",
-          "bn": "যখন ঘরটাই কঠিন"
+          "en": "No Raised Hand, a Noble Word",
+          "bn": "ধমক নয়, সম্মানের কথা"
         },
         "p": [
           {
-            "en": "Nothing in the wording makes the command conditional on the parents being easy, fair, or even believing. That is the hardest thing about the verse and it should be said plainly rather than softened. But the Quran itself sets the limit elsewhere: in 31:15, where parents strive to make a child associate partners with Allah, the instruction is do not obey them in that — and in the same breath, accompany them in this world with kindness. Obedience in a command is refused; kind treatment continues.",
-            "bn": "আয়াতের ভাষায় এমন কোনো শর্ত নেই যে মা-বাবাকে সহজ মানুষ হতে হবে, ন্যায়পরায়ণ হতে হবে, এমনকি ঈমানদারও হতে হবে। এটাই আয়াতের সবচেয়ে কঠিন দিক, আর কথাটা নরম না করে সোজাসুজি বলা দরকার। তবে কুরআন নিজেই অন্য জায়গায় সীমা টেনে দিয়েছে। ৩১:১৫ আয়াতে, যেখানে মা-বাবা সন্তানকে আল্লাহর সঙ্গে শরিক করাতে চাপ দেন, সেখানে নির্দেশ হলো: এ ব্যাপারে তাদের কথা মেনো না। আর সঙ্গে সঙ্গেই বলা হয়েছে: দুনিয়াতে তাদের সঙ্গে সদ্ভাবে থাকো। অর্থাৎ সেই আদেশ মানা যাবে না, কিন্তু সদ্ব্যবহার চলতেই থাকবে।"
+            "en": "Wa la tanharhuma: and do not rebuke them. At-Tabari glosses it as do not chide them, and reports from 'Ata' ibn Abi Rabah: do not shake your hand at your parents. As-Sa'di defines it as scolding them and speaking to them roughly. Ibn Kathir reads the pair as a pattern: uff is the ugly word and the rebuke the ugly act, and having forbidden both, Allah commands their opposites, the good word and the good deed.",
+            "bn": "ওয়ালা তানহারহুমা: আর তাঁদের ধমক দেবেন না। তাবারীর ব্যাখ্যা, তাঁদের ঝাড়ি দেবেন না। তিনি আতা ইবনে আবি রাবাহ থেকে বর্ণনা করেন: মা-বাবার দিকে হাত ঝাড়বেন না। সা'দীর সংজ্ঞায় এর মানে বকাঝকা করা আর রূঢ় ভাষায় কথা বলা। ইবনে কাসীর দুটোকে একটা ছক হিসেবে দেখেন। উফ হলো মন্দ কথা, ধমক মন্দ আচরণ। দুটোই নিষেধ করার পর আল্লাহ তাদের বিপরীতটার আদেশ দেন: ভালো কথা আর ভালো আচরণ।"
           },
           {
-            "en": "That distinction carries a great deal. Birr, kind treatment, is owed; ta'ah, obedience in a particular instruction, is not owed where it means disobeying Allah, and the scholars have never read ihsan as a duty to accept harm. A person estranged from a parent for real reasons is not outside the verse. Speech that stays civil, help that is real but bounded, and the du'a of 17:24 remain open even where daily closeness is not possible or not safe.",
-            "bn": "এই পার্থক্যটা অনেক গুরুত্বপূর্ণ। বির্র, অর্থাৎ সদ্ব্যবহার, মা-বাবার হক। কিন্তু তা‘আত, অর্থাৎ কোনো নির্দিষ্ট আদেশ মানা, তখন আর হক থাকে না, যখন তা মানতে গেলে আল্লাহর নাফরমানি হয়। আর আলিমরা কখনোই ইহসানের অর্থ এই করেননি যে ক্ষতি মুখ বুজে সয়ে যেতে হবে। সংগত কারণে যে মানুষ মা-বাবা থেকে দূরে আছেন, তিনিও এই আয়াতের বাইরে নন। ভদ্র ভাষায় কথা বলা, সীমার মধ্যে থেকে সত্যিকারের সাহায্য করা, আর ১৭:২৪ আয়াতের দোয়া: প্রতিদিনের কাছাকাছি থাকা সম্ভব না হলে বা নিরাপদ না হলেও এই পথগুলো খোলা থাকে।"
+            "en": "Wa qul lahuma qawlan karima: and speak to them a noble word. At-Tabari reports from Ibn Jurayj, the best speech you can find, and from Qatada, soft and easy speech. Asked what this noble word was, Sa'id ibn al-Musayyib answered: the speech of a servant who has done wrong to a stern master. Al-Baghawi has Mujahid, and al-Qurtubi 'Ata', say: do not call them by their names, but say O my father, O my mother. As-Sa'di adds that it is speech they love, and that it differs with circumstances, customs and times.",
+            "bn": "ওয়া কুল লাহুমা কাওলান কারীমা: আর তাঁদের সঙ্গে সম্মানের কথা বলুন। তাবারী ইবনে জুরাইজ থেকে আনেন, আপনার জানা সবচেয়ে সুন্দর কথা; আর কাতাদা থেকে, নরম ও সহজ কথা। সাঈদ ইবনুল মুসাইয়িবকে জিজ্ঞেস করা হয়েছিল, এই সম্মানের কথা কেমন? তিনি বলেছিলেন, কঠোর মনিবের সামনে অপরাধী গোলাম যেভাবে কথা বলে। বাগাভী মুজাহিদ থেকে এবং কুরতুবী আতা থেকে বর্ণনা করেন: তাঁদের নাম ধরে ডাকবেন না, বলুন আব্বা, বলুন আম্মা। সা'দী যোগ করেন, এমন কথা যা তাঁরা শুনতে ভালোবাসেন, আর অবস্থা, প্রথা ও যুগভেদে তার রূপ বদলায়।"
           }
         ]
       },
       {
         "h": {
-          "en": "In Practice, and Today",
-          "bn": "আমল ও আজকের জীবন"
+          "en": "A Wing Lowered in Mercy",
+          "bn": "রহমতে নামানো ডানা"
         },
         "p": [
           {
-            "en": "The Sunnah puts this duty very high. In Sahih al-Bukhari, asked which deed is most beloved to Allah, the Prophet ﷺ named prayer at its time, then kindness to parents, then striving in the way of Allah — parents ranked above the battlefield. A man seeking permission to go out and fight was asked whether his parents were living and told to strive in serving them. Sahih Muslim records the warning that one whose parents reach old age and who does not thereby enter Paradise has been brought low.",
-            "bn": "সুন্নাহ এই দায়িত্বকে অনেক উঁচুতে রেখেছে। সহীহ বুখারীতে আছে, নবী ﷺ-কে জিজ্ঞেস করা হলো, কোন আমল আল্লাহর কাছে সবচেয়ে প্রিয়? তিনি বললেন, সময়মতো নামাজ, তারপর মা-বাবার সঙ্গে সদ্ব্যবহার, তারপর আল্লাহর পথে জিহাদ। অর্থাৎ মা-বাবার স্থান রণাঙ্গনেরও আগে। এক ব্যক্তি জিহাদে যাওয়ার অনুমতি চাইতে এলে তাকে জিজ্ঞেস করা হলো, তার মা-বাবা বেঁচে আছেন কি না। তারপর বলা হলো, তাঁদের সেবাতেই জিহাদ করো। আর সহীহ মুসলিমে সতর্ক করা হয়েছে: যার মা-বাবা বার্ধক্যে পৌঁছালেন, অথচ সে তাঁদের সেবা করে জান্নাতে যেতে পারল না, সে লাঞ্ছিত হলো।"
+            "en": "Wa-khfid lahuma janaha adh-dhulli mina ar-rahmah: and lower to them the wing of humility, out of mercy. Al-Qurtubi calls it a metaphor for tenderness, taken from a bird spreading its wing over its young. He glosses dhull as softness: a person should hold himself before his parents in the best humility, in word, stillness and look, and never fix a hard stare on them, for that is the look of the angry. Ibn Kathir's gloss is short: be humble to them in your actions.",
+            "bn": "ওয়াখফিদ লাহুমা জানাহায যুল্লি মিনার রহমাহ: আর রহমতের সঙ্গে তাঁদের জন্য বিনয়ের ডানা নামিয়ে দিন। কুরতুবী একে স্নেহ ও মমতার রূপক বলেন। ছবিটা এসেছে পাখির কাছ থেকে, যে বাচ্চার ওপর ডানা মেলে দেয়। তাঁর মতে যুল মানে কোমলতা। মা-বাবার সামনে মানুষ নিজেকে রাখবে সবচেয়ে সুন্দর বিনয়ে, কথায়, চুপ থাকায়, চাহনিতে। তাঁদের দিকে কড়া চোখে তাকাবে না, কারণ ওটা রাগী মানুষের চাহনি। ইবনে কাসীরের ব্যাখ্যা ছোট: কাজেকর্মে তাঁদের প্রতি বিনয়ী হোন।"
           },
           {
-            "en": "Lived out now, it is mostly small and unglamorous. It is answering the same question again without the sigh. It is not finishing their sentences, not correcting their memory before guests, not treating the phone call as an interruption. It is a visit not attached to an errand. And where distance, illness or history make more impossible, it is the sentence taught at the end of 17:24, said honestly, on a day when nothing else could be done.",
-            "bn": "আজকের জীবনে এর বেশিরভাগটাই ছোট ছোট কাজ, চোখে পড়ার মতো কিছু নয়। একই প্রশ্নের উত্তর আবার দেওয়া, দীর্ঘশ্বাস না ফেলে। তাঁদের কথা মাঝপথে কেড়ে নিয়ে নিজে শেষ না করা, মেহমানদের সামনে তাঁদের স্মৃতির ভুল না ধরা, তাঁদের ফোনকে ঝামেলা মনে না করা। কোনো কাজের ছুতো ছাড়াই শুধু দেখা করতে যাওয়া। আর যেখানে দূরত্ব, অসুস্থতা বা অতীতের তিক্ততার কারণে এর বেশি কিছু করা সম্ভব নয়, সেখানে ১৭:২৪ আয়াতের শেষে শেখানো সেই দোয়াটি, আন্তরিকভাবে পড়া, এমন কোনো দিনে যেদিন আর কিছুই করার ছিল না।"
+            "en": "Urwah ibn az-Zubayr, in at-Tabari and al-Baghawi, makes it practical: be gentle with them until you refuse nothing they love. At-Tabari sets the bound in the same breath: obey them in what they command, so long as it is no disobedience to Allah. Min ar-rahmah names the source. Al-Qurtubi says it marks a humility rising from mercy settled in the soul, not put on for use; Ma'arif warns against mere show; as-Sa'di says it is for mercy and reward, not fear of them or hope of their wealth.",
+            "bn": "তাবারী ও বাগাভীতে উরওয়া ইবনুয যুবাইর কথাটাকে বাস্তবে নামিয়ে আনেন: তাঁদের সঙ্গে এতটা নরম হোন যে তাঁদের পছন্দের কোনো কিছুতে না বলবেন না। তাবারী সঙ্গে সঙ্গে সীমাও টেনে দেন: তাঁরা যা আদেশ করেন তা মানুন, যতক্ষণ তা আল্লাহর নাফরমানি না হয়। মিনার রহমাহ বলে দেয় এই বিনয়ের উৎস কোথায়। কুরতুবী বলেন, এ বিনয় জন্মায় মনের গভীরে থাকা রহমত থেকে, কাজ আদায়ের জন্য পরা মুখোশ থেকে নয়। মাআরিফ সতর্ক করে, এ যেন লোক দেখানো না হয়। সা'দীর মতে এর পেছনে থাকবে রহমত আর সওয়াবের আশা, তাঁদের ভয় বা তাঁদের সম্পদের লোভ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As They Raised Me Small",
+          "bn": "যেমন তাঁরা ছোটবেলায় লালন করেছেন"
+        },
+        "p": [
+          {
+            "en": "Wa qul rabbi-rhamhuma kama rabbayani saghira: and say, my Lord, have mercy on them as they raised me when I was small. At-Tabari paraphrases: incline to them with Your forgiveness and mercy, as they inclined to me in my childhood, until I could stand on my own. Qatada, in at-Tabari: this is how you have been taught; take Allah's teaching. As-Sa'di and al-Muyassar say to pray for them living and dead, and Ma'arif notes that this one instruction outlasts them.",
+            "bn": "ওয়া কুল রব্বির হামহুমা কামা রব্বাইয়ানী সগীরা: আর বলুন, হে আমার রব, তাঁদের প্রতি রহম করুন, যেমন তাঁরা ছোটবেলায় আমাকে লালন করেছেন। তাবারীর ব্যাখ্যায় দোয়াটা এমন: আপনার মাগফিরাত ও রহমত দিয়ে তাঁদের দিকে ফিরুন, যেমন শৈশবে তাঁরা আমার দিকে ফিরেছিলেন, যতদিন না আমি নিজের পায়ে দাঁড়াতে পেরেছি। তাবারীতে কাতাদা বলেন: এভাবেই তোমাদের শেখানো হয়েছে, আল্লাহর শিক্ষা গ্রহণ করো। সা'দী ও মুয়াসসার বলেন, জীবিত অবস্থায় এবং মৃত্যুর পরেও তাঁদের জন্য দোয়া করতে হবে। মাআরিফ মনে করিয়ে দেয়, এই একটি নির্দেশ তাঁদের মৃত্যুর পরও কাজে থাকে।"
+          },
+          {
+            "en": "Does the prayer cover parents who die as idolaters? Here there is a genuine disagreement. At-Tabari reports from Ibn Abbas (RA) and 'Ikrimah that it was abrogated by 9:113, it is not for the Prophet and the believers to ask forgiveness for the idolaters, even if they are near of kin; Ibn Kathir and al-Baghawi carry the same from Ibn Abbas, and al-Qurtubi from Ibn Abbas and Qatada. Al-Qurtubi narrows it: only the prayer for mercy after they die in disbelief was abrogated, and all else in the passage still applies.",
+            "bn": "মুশরিক অবস্থায় মারা যাওয়া মা-বাবাও কি এই দোয়ার মধ্যে পড়েন? এখানে সত্যিকারের মতভেদ আছে। তাবারী ইবনে আব্বাস (রাঃ) ও ইকরিমা থেকে বর্ণনা করেন, আয়াতটি ৯:১১৩ দিয়ে মানসূখ হয়েছে: নবী ও মুমিনদের জন্য সংগত নয় মুশরিকদের জন্য মাগফিরাত চাওয়া, তারা নিকটাত্মীয় হলেও। ইবনে কাসীর ও বাগাভী একই কথা ইবনে আব্বাস (রাঃ) থেকে আনেন, আর কুরতুবী আনেন ইবনে আব্বাস (রাঃ) ও কাতাদা থেকে। কুরতুবী পরিসরটা ছোট করে আনেন। তাঁর বর্ণনায় মানসূখ হয়েছে কেবল কুফরের ওপর মৃত্যুর পর রহমতের দোয়া, অংশটির বাকি সব হুকুম বহাল আছে।"
+          },
+          {
+            "en": "Others see restriction, not abrogation. At-Tabari says the verse can bear a specific sense with nothing abrogated: say it if they are believers. Al-Baghawi's own gloss is: if they are Muslims. Al-Qurtubi adds the view that it is a prayer for worldly mercy while they live, and himself calls the general reading correct; Ma'arif, abridging him, allows it in their lifetime, for relief and for faith, but not after death. On treatment, al-Qurtubi says dutifulness is not limited to Muslim parents where there is a covenant, citing 60:8. This article does not choose between the readings.",
+            "bn": "অন্য আলেমরা একে মানসূখ নয়, সীমিত হুকুম হিসেবে দেখেন। তাবারী বলেন, কিছু মানসূখ না ধরেও আয়াতটির একটি বিশেষ অর্থ হতে পারে: তাঁরা মুমিন হলে এ দোয়া করো। বাগাভীর নিজের ব্যাখ্যাও তাই: যদি তাঁরা মুসলিম হন। কুরতুবী আরেকটি মত আনেন, এ হলো জীবিত অবস্থায় দুনিয়াবি রহমতের দোয়া, এবং নিজে ব্যাপক অর্থটিকেই সঠিক বলেন। মাআরিফ তাঁর কথা সংক্ষেপ করে বলে, জীবদ্দশায় কষ্ট লাঘব আর ঈমানের তাওফিকের জন্য এ দোয়া জায়েজ, মৃত্যুর পর নয়। আচরণের প্রশ্নে কুরতুবী বলেন, সদ্ব্যবহার শুধু মুসলিম মা-বাবার জন্য নয়, চুক্তির আওতায় থাকা অমুসলিম মা-বাবারও তা প্রাপ্য, প্রমাণ ৬০:৮। কোন মতটি সঠিক, এ লেখা তা বেছে নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Home Is Not Easy",
+          "bn": "ঘর যখন সহজ নয়"
+        },
+        "p": [
+          {
+            "en": "Nothing in these verses makes the command wait on the parents being easy. The commentators do mark one limit. At-Tabari bounds obedience at disobedience to Allah, and Ma'arif reports scholarly agreement that obedience is owed only in what is permissible; for parents who are not Muslims it cites 31:15: do not obey them in shirk, yet keep them company in this world with kindness. What the verses ask is a guarded tongue, a lowered bearing and a prayer, and the prayer stays within reach even where closeness is hard.",
+            "bn": "এই দুই আয়াতের কোথাও হুকুমটাকে মা-বাবার সহজ মানুষ হওয়ার শর্তে বাঁধা হয়নি। তবে মুফাসসিররা একটি সীমা টানেন। তাবারীর কাছে আনুগত্যের সীমা আল্লাহর নাফরমানি পর্যন্ত। মাআরিফ জানায়, আলেমরা একমত যে মা-বাবার আনুগত্য কেবল জায়েজ বিষয়ে। অমুসলিম মা-বাবার প্রসঙ্গে সেখানে আসে ৩১:১৫: শিরকের ব্যাপারে তাঁদের কথা মানবেন না, তবু দুনিয়াতে তাঁদের সঙ্গে সদ্ভাবে থাকুন। আয়াত দুটি চায় সংযত জিহ্বা, নত আচরণ আর দোয়া। কাছাকাছি থাকা যেখানে কঠিন, দোয়ার পথ সেখানেও খোলা থাকে।"
+          },
+          {
+            "en": "The next verse speaks to anyone who has failed here. 17:25: your Lord knows best what is in your souls; if you are righteous, He is ever forgiving to those who keep returning. Al-Muyassar explains that Allah knows the good and bad in your hearts, and for whoever aims at His pleasure, with a heart that holds only turning back to Him, He pardons the small lapses that come from human nature. The sigh regretted is not the end of the matter. Then 17:26 widens the circle to kin, the poor and the traveller.",
+            "bn": "যে এখানে কখনো পিছলে গেছে, পরের আয়াত তাকেই সম্বোধন করে। ১৭:২৫: তোমাদের রব ভালো জানেন তোমাদের মনে কী আছে; তোমরা নেককার হলে, বারবার ফিরে আসা মানুষদের তিনি ক্ষমা করেন। মুয়াসসারের ব্যাখ্যা, আল্লাহ আপনার মনের ভালো-মন্দ সবই জানেন। যার উদ্দেশ্য তাঁর সন্তুষ্টি, যার মনে তাঁর দিকে ফেরা ছাড়া আর কিছু নেই, মানুষের স্বভাব থেকে আসা তার ছোটখাটো ভুলগুলো তিনি মাফ করে দেন। যে দীর্ঘশ্বাসের জন্য পরে অনুতাপ হয়েছে, সেখানেই সব শেষ নয়। তারপর ১৭:২৬ বৃত্তটা বাড়িয়ে আত্মীয়, মিসকীন ও মুসাফিরকে টেনে আনে।"
           }
         ]
       }
