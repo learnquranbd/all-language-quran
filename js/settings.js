@@ -6,7 +6,7 @@
 class Settings {
   constructor() {
     this.defaults = {
-      theme: 'system',
+      theme: 'light',
       language: 'en',
       fontSize: 100,
       arabicFontSize: 100,
@@ -23,6 +23,16 @@ class Settings {
     // One-time migration: clear WBW-language overrides saved before v41 — they
     // froze word-by-word meanings to English regardless of the UI language.
     // (Users can still pick an explicit override in the settings drawer.)
+    // One-time migration (v1309): the default theme used to be 'system', which
+    // opened the app dark on dark-mode devices. The default is now light; a
+    // reader who still carries the old default is moved to light once. Dark and
+    // system remain selectable in the settings drawer.
+    try {
+      if (!localStorage.getItem('themeDefaultLight')) {
+        if (this.settings.theme === 'system') this.set('theme', 'light');
+        localStorage.setItem('themeDefaultLight', '1');
+      }
+    } catch (e) { /* storage unavailable */ }
     try {
       if (!localStorage.getItem('wbwLangMigrated')) {
         if (this.settings.wbwLang != null) this.set('wbwLang', null);

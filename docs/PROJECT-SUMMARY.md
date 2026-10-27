@@ -8,7 +8,7 @@ running wave is in `CLAUDE-LOG.md` (top section); this file is the stable map.
 
 A multi-language Quran study PWA, the "pro" rewrite of the Bangla-only
 learn-quran-bd.web.app. Vanilla JS, no framework, **no build step**: plain
-`<script>` tags in `index.html`, Tailwind from the Play CDN. Bengali is the
+`<script>` tags in `index.html`, Tailwind prebuilt into `css/tailwind.min.css` (rebuild with `npm run build:css` after adding classes; the Play CDN was dropped in v1309). Bengali is the
 primary audience; English is the source language for all content.
 
 - **Languages (15):** en bn ar ur fa id ms tr hi fr es de ru ja zh. ar/ur/fa are RTL.
@@ -127,9 +127,13 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   v949-v951, deployed 2026-10-14). data/content-i18n/tadabbur/<lang>.json, loaded via CI18N.tr(lang, en,
   'tadabbur'); recipe in tools/tadabbur-i18n/ (pilot C1 -> STYLE-<lang>.md -> chunks -> check-tr -> merge-tr).
   Tadabbur articles (31 MB) are still en/bn only.
-- Performance: the Tailwind Play CDN is the largest cost (a 234 s JIT on the
-  Khatmah path). Swapping to a rebuilt `css/tailwind.min.css` is analysed and
-  ready; it is blocked only on the user accepting emerald as the dark-mode accent.
+- Performance: v1309 (2026-10-27) replaced the Tailwind Play CDN with the prebuilt
+  `css/tailwind.min.css` (126 KB, precached). The CDN's in-browser JIT had cost up to
+  234 s on the Khatmah path. Only visible change: dark-mode primary accents are now
+  emerald (`--color-primary` in css/style.css), matching the rest of dark mode. The
+  default theme is now light (was system); existing readers on the old default are
+  moved to light once (js/settings.js migration flag `themeDefaultLight`).
+  Still open from the audit: boot over-fetch, Khatmah single-pass render, precache size.
 
 ## Open items (user decides; don't act unasked)
 
