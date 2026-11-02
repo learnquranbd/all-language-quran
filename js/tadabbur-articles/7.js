@@ -3711,6 +3711,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:98": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Turn After the Stories",
+          "bn": "কাহিনি শেষে প্রশ্নের পালা"
+        },
+        "p": [
+          {
+            "en": "The panels of the prophets end in 7:93, with Shu'ayb (AS) turning away from Madyan, and the surah stops telling and starts asking. 7:94 and 7:95 give the pattern behind every panel: hardship so that a town might humble itself, then ease until it grew and called such turns the lot of its fathers too, then a sudden seizure. 7:96 says what belief and taqwa would have opened instead. Three questions follow, each built on the verb amina, to feel secure.",
+            "bn": "নবীদের কাহিনির ধারা থামে ৭:৯৩ আয়াতে, যেখানে শুআইব (আঃ) মাদইয়ান থেকে মুখ ফিরিয়ে নেন। এরপর সূরা আর গল্প বলে না, প্রশ্ন করে। ৭:৯৪ ও ৭:৯৫ আয়াত প্রতিটি কাহিনির পেছনের ধারাটা বলে দেয়। প্রথমে কষ্ট, যাতে জনপদ নত হয়। তারপর স্বস্তি, তারা ফুলেফেঁপে ওঠে আর বলে, এমন ওঠানামা তো বাপদাদাদের জীবনেও এসেছে। তারপর হঠাৎ পাকড়াও। ৭:৯৬ বলে, ঈমান আর তাকওয়া থাকলে কী খুলে যেত। এরপর তিনটি প্রশ্ন, প্রতিটির মূলে একই ক্রিয়া, আমিনা, নিজেকে নিরাপদ ভাবা।"
+          },
+          {
+            "en": "Who are the people of the towns? As-Sa'di reads them as the towns that denied, which he takes from the context, and Ibn Kathir as the disbelieving among them. Al-Baghawi names them on 7:97: the people of Makkah and those around them. Al-Qurtubi gives the same, Makkah and what surrounds it, because they denied Muhammad ﷺ, and then records a second view, that the verse is general for all towns. Ma'arif al-Qur'an reads the warning as addressed to the people of the Prophet's ﷺ own time.",
+            "bn": "জনপদের লোক বলতে কারা? সা'দী প্রসঙ্গ থেকে বুঝে নেন, এরা সেই জনপদ যারা মিথ্যা বলে উড়িয়ে দিয়েছিল। ইবন কাসীরের মতে এদের মধ্যে যারা কাফির, তারাই। বাগাভী ৭:৯৭ আয়াতে নাম ধরে বলেন: মক্কা ও তার আশপাশের লোকেরা। কুরতুবীও বলেন মক্কা ও তার চারপাশ, কারণ তারা মুহাম্মাদ ﷺ-কে অস্বীকার করেছিল। এরপর তিনি আরেকটি মতও আনেন: আয়াতটি সব জনপদের জন্য সাধারণ। মাআরিফুল কুরআন সতর্কবাণীটিকে পড়ে নবী ﷺ-এর সমকালীন মানুষদের উদ্দেশে বলা কথা হিসেবে।"
+          },
+          {
+            "en": "A great commentator is silent here. The printed at-Tabari gives the words of 7:96, 7:97 and 7:98 with nothing beneath them, and its editor notes that the commentary on these three verses is missing from the print and the manuscript alike. He judges the gap to be old, and says he found no later writer quoting at-Tabari on them. At-Tabari speaks again at 7:99.",
+            "bn": "এখানে এক বড় মুফাসসির নীরব। তাবারীর ছাপা সংস্করণে ৭:৯৬, ৭:৯৭ ও ৭:৯৮ আয়াতের মূল পাঠ আছে, নিচে কিছু নেই। সম্পাদক টীকায় জানান, এই তিনটি আয়াতের তাফসীর ছাপা কপিতেও নেই, পাণ্ডুলিপিতেও নেই। তাঁর ধারণা, ফাঁকটা অনেক পুরোনো। পরের কোনো লেখককেও তিনি এ আয়াতগুলোতে তাবারী থেকে কিছু উদ্ধৃত করতে দেখেননি। তাবারী আবার কথা বলেন ৭:৯৯ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opened From Above and Below",
+          "bn": "আসমান আর জমিনের দরজা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens 7:96 with how little faith there was in the towns that received messengers, and sets beside it 10:98, which he reads as saying that no town believed entire except the people of Yunus (AS), and they only after seeing the punishment. Belief here, he says, is hearts affirming and following what the messengers brought; taqwa is doing acts of obedience and leaving what is forbidden. The blessings from heaven and earth are the rain of the sky and the plants of the earth.",
+            "bn": "ইবন কাসীর ৭:৯৬ আয়াত শুরু করেন এই কথা দিয়ে যে, যেসব জনপদে রাসূল এসেছিলেন, সেখানে ঈমান ছিল সামান্যই। পাশে রাখেন ১০:৯৮ আয়াত। তাঁর পাঠে এর অর্থ, ইউনুস (আঃ)-এর কওম ছাড়া কোনো জনপদ পুরোপুরি ঈমান আনেনি, আর তারাও এনেছিল আযাব চোখে দেখার পরে। তাঁর ব্যাখ্যায় ঈমান মানে রাসূলরা যা এনেছেন, অন্তর দিয়ে তা সত্য বলে মানা আর অনুসরণ করা। তাকওয়া মানে আনুগত্যের কাজ করা আর হারাম ছেড়ে দেওয়া। আসমান-জমিনের বরকত বলতে তিনি বোঝান আকাশের বৃষ্টি আর মাটির ফসল।"
+          },
+          {
+            "en": "Al-Baghawi also reads the blessings as rain from the sky and growth from the earth, and adds the root: the origin of barakah is persistence in a thing. So the sense becomes, We would have kept the rain and the growth coming to them in succession, and lifted drought and barrenness from them. Al-Qurtubi glosses amanu as they affirmed the truth and ittaqaw as they guarded against shirk, and gives the blessings as rain and plants. Al-Muyassar widens it: Allah would have opened the doors of good for them from every side.",
+            "bn": "বাগাভীর কাছেও বরকত মানে আকাশের বৃষ্টি আর জমিনের ফসল। সঙ্গে তিনি শব্দের মূলটা দেখান: বরকতের আসল অর্থ কোনো কিছুতে লেগে থাকা, তার ধারা বজায় থাকা। তাহলে অর্থ দাঁড়ায়, আমি তাদের উপর বৃষ্টি আর ফসল লাগাতার চালু রাখতাম, খরা আর অনুর্বরতা সরিয়ে দিতাম। কুরতুবী আমানূ-র অর্থ করেন সত্য বলে মেনে নিল, আর ইত্তাকাও-র অর্থ শিরক থেকে বাঁচল। বরকত তাঁর কাছেও বৃষ্টি আর উদ্ভিদ। মুয়াসসার ছবিটা আরও বড় করে: আল্লাহ তাদের জন্য সব দিক থেকে কল্যাণের দরজা খুলে দিতেন।"
+          },
+          {
+            "en": "As-Sa'di ties the verse to the two before it: deniers are tried with hardship as admonition and warning, and with ease as a drawing on and a plan. Had the towns believed sincerely, with deeds confirming it, and kept taqwa outwardly and inwardly, the sky would have been sent on them in abundance and the earth would have fed them and their livestock without toil. Instead they were seized with punishments, the stripping of blessings and many afflictions, which he calls only part of the recompense, citing 30:41.",
+            "bn": "সা'দী আয়াতটিকে আগের দুই আয়াতের সঙ্গে জুড়ে দেন। অস্বীকারকারীদের কষ্ট দিয়ে পরীক্ষা করা হয় উপদেশ আর সতর্কবার্তা হিসেবে, আর স্বস্তি দিয়ে পরীক্ষা করা হয় ধীরে ধীরে টেনে নেওয়ার কৌশল হিসেবে। জনপদের লোকেরা যদি খাঁটি ঈমান আনত, আমল দিয়ে তার সত্যতা প্রমাণ করত, আর ভেতরে-বাইরে তাকওয়া রাখত, তবে আকাশ থেকে অঝোরে বৃষ্টি নামত। মাটি তাদের আর তাদের পশুদের কষ্ট ছাড়াই খাবার জোগাত। কিন্তু তাদের ধরা হলো শাস্তি, বরকত তুলে নেওয়া আর নানা দুর্যোগ দিয়ে। সা'দী বলেন, এ প্রতিদানের একটা অংশমাত্র, এবং ৩০:৪১ আয়াত উদ্ধৃত করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Promise of Plenty",
+          "bn": "প্রাচুর্যের নিশ্চয়তা নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets a limit on 7:96 that keeps it from becoming a rule of thumb. This, he says, is about particular peoples whose mention has just passed, since believers may be tested with straitened living, and that becomes an expiation of their sins. He points to Nuh (AS), who told his people to seek forgiveness so that the sky would be sent on them in abundance (71:10 and 71:11), and to Hud (AS), who said the same (11:52). In those cases, al-Qurtubi notes, rain and fertility were promised specifically.",
+            "bn": "কুরতুবী ৭:৯৬ আয়াতের একটা সীমা টেনে দেন, যাতে একে সাধারণ সূত্র বানিয়ে ফেলা না হয়। তাঁর মতে, কথাটা নির্দিষ্ট সেই জাতিগুলোকে নিয়ে, যাদের আলোচনা একটু আগে গেল। কারণ মুমিনকেও অভাব-অনটন দিয়ে পরীক্ষা করা হতে পারে, আর তা হয়ে যায় তার গুনাহের কাফফারা। তিনি নূহ (আঃ)-এর কথা মনে করিয়ে দেন, যিনি কওমকে বলেছিলেন ইস্তিগফার করতে, তাহলে আকাশ অঝোরে বৃষ্টি পাঠাবে (৭১:১০ ও ৭১:১১)। হূদ (আঃ)-ও একই কথা বলেছিলেন (১১:৫২)। কুরতুবী বলেন, সেসব ক্ষেত্রে বৃষ্টি আর উর্বরতার প্রতিশ্রুতি ছিল নির্দিষ্ট করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an explains barakah as increase, sometimes in a thing's quantity and sometimes in its benefit, and reads the verse as tying it to faith and taqwa. Then it warns against the reverse inference. Prosperity and health, it says, are not necessarily signs of favour, citing 6:44, where people who forgot their reminder had the doors of everything opened to them before they were seized. It reports a sign given by the people of Allah: ease that makes a person more grateful and more given to worship points to favour; ease that draws him further into sin points to displeasure.",
+            "bn": "মাআরিফুল কুরআন বরকতের ব্যাখ্যা দেয় বৃদ্ধি হিসেবে। কখনো জিনিসটার পরিমাণ বাড়ে, কখনো পরিমাণ একই থাকে কিন্তু উপকার বাড়ে। আর এর পাঠে আয়াতটি বরকতকে ঈমান ও তাকওয়ার সঙ্গে বেঁধে দেয়। তারপর একই তাফসীর উল্টো সিদ্ধান্ত টানার ব্যাপারে সাবধান করে। সচ্ছলতা আর সুস্বাস্থ্য সবসময় সন্তুষ্টির চিহ্ন নয়। প্রমাণ হিসেবে আনে ৬:৪৪ আয়াত, যেখানে উপদেশ ভুলে যাওয়া লোকদের জন্য পাকড়াওয়ের আগে সবকিছুর দরজা খুলে দেওয়া হয়েছিল। তবে আল্লাহওয়ালাদের দেওয়া একটা আলামত সে উল্লেখ করে। স্বস্তি যদি মানুষকে আরও শোকরগুজার আর ইবাদতমুখী করে, তা সন্তুষ্টির লক্ষণ। আর যদি আরও গুনাহের দিকে টানে, তা অসন্তুষ্টির লক্ষণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In the Forenoon, at Play",
+          "bn": "ঝলমলে সকালে, খেলায় মগ্ন"
+        },
+        "p": [
+          {
+            "en": "7:97 asks about the night, while they sleep, and 7:98 about duha, while they play. The surah paired two unguarded hours once before, in 7:4, and the article on that verse takes up its words; here the second hour is different. Al-Baghawi glosses duha as daytime: the early part of the day, when the sun has spread out. As-Sa'di explains the sleepers of 7:97 as people in their heedlessness, false security and rest. The forenoon is the opposite scene: people awake, out of doors and at work.",
+            "bn": "৭:৯৭ আয়াতের প্রশ্ন রাত নিয়ে, যখন তারা ঘুমিয়ে। ৭:৯৮ আয়াতের প্রশ্ন দুহা নিয়ে, যখন তারা খেলায় মত্ত। অসতর্ক দুই প্রহরকে সূরাটি আগেও একবার জোড়া বেঁধেছে, ৭:৪ আয়াতে, আর সে আয়াতের লেখায় সেখানকার শব্দগুলোর আলোচনা আছে। এখানে দ্বিতীয় প্রহরটা আলাদা। বাগাভী দুহা-র অর্থ করেন দিন: দিনের শুরুর ভাগ, যখন রোদ চারদিকে ছড়িয়ে পড়ে। সা'দী ৭:৯৭ আয়াতের ঘুমন্তদের বলেন গাফিল, ভুল ভরসায় নিশ্চিন্ত, বিশ্রামে মগ্ন। সকালের দৃশ্য ঠিক উল্টো। মানুষ জেগে আছে, ঘরের বাইরে, কাজে ব্যস্ত।"
+          },
+          {
+            "en": "So what is the play? Al-Baghawi says they are sahun lahun, absent-minded and diverted. Al-Qurtubi says it means being in what does not avail them, and he reports from an-Nahhas that anyone occupied with what harms him and brings him no benefit is called a player. Ibn Kathir reads it as being taken up with their affairs and unaware, in their busyness and heedlessness. Ma'arif al-Qur'an says they are busy in their worldly pursuits. On none of these readings is the play limited to games.",
+            "bn": "তাহলে খেলা মানে কী? বাগাভী বলেন, তারা সাহূন লাহূন, অন্যমনস্ক আর অন্য কিছুতে মজে থাকা। কুরতুবীর মতে এর অর্থ, তারা এমন কিছুতে আছে যা তাদের কোনো কাজে আসবে না। তিনি নাহহাস থেকে বর্ণনা করেন: যে লোক এমন কিছুতে লেগে থাকে যা তার ক্ষতি করে আর কোনো উপকার দেয় না, তাকেই খেলুড়ে বলা হয়। ইবন কাসীরের পাঠে তারা নিজেদের কাজে ডুবে আছে, কিছুই টের পাচ্ছে না, ব্যস্ততা আর গাফলতির মধ্যে। মাআরিফুল কুরআন বলে, তারা দুনিয়ার ধান্দায় ব্যস্ত। এর কোনো পাঠেই খেলা কেবল খেলাধুলায় সীমিত নয়।"
+          },
+          {
+            "en": "Why these two hours? Al-Muyassar, on this verse, says Allah singled them out because a person is at his most heedless in them, so punishment that comes then is more terrible. As-Sa'di turns the question from the clock to the ground of their safety: what makes them secure from it at all, when they have already done what brings it on and committed great crimes, some of which alone would call for destruction? His question is not whether the hour is likely, but what they were trusting in.",
+            "bn": "এই দুই প্রহরই কেন? মুয়াসসার এ আয়াতে বলে, আল্লাহ বিশেষ করে এ দুটোর কথা বলেছেন, কারণ এ সময়েই মানুষ সবচেয়ে বেশি গাফিল থাকে। তাই তখন শাস্তি এলে তা আরও ভয়ংকর। সা'দী প্রশ্নটাকে ঘড়ি থেকে সরিয়ে নিরাপত্তার ভিত্তির দিকে নিয়ে যান। শাস্তি যা ডেকে আনে, তা তো তারা করেই ফেলেছে। এমন বড় বড় অপরাধ করেছে, যার একটাই ধ্বংসের জন্য যথেষ্ট। তাহলে কিসের জোরে তারা নিশ্চিন্ত? তাঁর প্রশ্ন সময়টা আসার সম্ভাবনা নিয়ে নয়, তারা কিসের উপর ভরসা করে বসে ছিল, তা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aw Amina or Awa Amina",
+          "bn": "আও আমিনা, নাকি আওয়া আমিনা"
+        },
+        "p": [
+          {
+            "en": "The verse's first word is read two ways. Al-Baghawi reports that the people of the Hijaz and Sham read aw amina, with the waw silent, and the rest with it voweled; al-Qurtubi names the first group as the readers of the two Harams and Ibn 'Amir. On their reading, aw is 'or', which al-Qurtubi takes in the sense grammarians call ibaha, as in 76:24, do not obey of them a sinner or a disbeliever: did they feel secure from these kinds of punishment? Whoever feels safe from a kind is still not safe from the other. The rest read the questioning hamza over a waw of joining, as in 2:100.",
+            "bn": "আয়াতের প্রথম শব্দটি দুইভাবে পড়া হয়। বাগাভী জানান, হিজায আর শামের লোকেরা পড়েন আও আমিনা, ওয়াও সাকিন করে, আর বাকিরা পড়েন ওয়াও-তে যবর দিয়ে। কুরতুবী প্রথম দলের নাম বলেন: দুই হারামের কারীগণ আর ইবন আমির। তাঁদের পাঠে আও মানে ‘অথবা’। কুরতুবী একে নেন ইবাহা-র অর্থে, যেমন ৭৬:২৪ আয়াতে, তাদের কোনো পাপী বা কোনো কাফিরের আনুগত্য কোরো না। তখন অর্থ: এসব রকমের শাস্তি থেকে কি তারা নিশ্চিন্ত? কেউ এক রকম থেকে নিজেকে নিরাপদ ভাবলেও অন্যটা থেকে সে নিরাপদ নয়। বাকিদের পাঠে প্রশ্নবোধক হামযা বসেছে সংযোজক ওয়াও-এর উপর, যেমন ২:১০০ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Makr Means Here",
+          "bn": "এখানে মাকর বলতে কী"
+        },
+        "p": [
+          {
+            "en": "7:99 draws the two questions together: did they feel secure from the makr of Allah? None feels secure from it but the losing people. When the word is said of Allah, the commentators fetched here gloss it in two lines, and the first is punishment and requital. Ibn Kathir: His might and His vengeance, His power over them, and His seizing them while they are inattentive and heedless. Al-Qurtubi's first gloss: His punishment, and His requital of their makr. Al-Baghawi reports from 'Atiyyah: His seizing and His punishment.",
+            "bn": "৭:৯৯ আয়াত আগের দুই প্রশ্নকে এক জায়গায় আনে: তারা কি আল্লাহর মাকর থেকে নিশ্চিন্ত হয়ে গেছে? ক্ষতিগ্রস্ত কওম ছাড়া কেউ তা থেকে নিশ্চিন্ত থাকে না। শব্দটি যখন আল্লাহর ক্ষেত্রে আসে, এখানে উদ্ধৃত তাফসীরকারেরা এর ব্যাখ্যা দেন দুই ধারায়। প্রথম ধারা হলো শাস্তি ও প্রতিফল। ইবন কাসীর বলেন: তাঁর পাকড়াও আর প্রতিশোধ, তাদের উপর তাঁর ক্ষমতা, আর অমনোযোগী ও গাফিল অবস্থায় তাদের ধরে ফেলা। কুরতুবীর প্রথম ব্যাখ্যা: তাঁর শাস্তি, আর তাদের মাকরের প্রতিফল। বাগাভী আতিয়্যা থেকে বর্ণনা করেন: তাঁর পাকড়াও আর তাঁর শাস্তি।"
+          },
+          {
+            "en": "A second line runs through the same commentaries: istidraj, drawing a person on by degrees. Al-Qurtubi gives it under 'it is said': His drawing them on with blessing and health; al-Baghawi: with what He granted them in their world. At-Tabari, speaking again here, reads: did these deniers feel secure from Allah drawing them on with sound bodies and easy living, as He drew on the nations before them? None feels safe from its being such a drawing on, while holding to disbelief, except the losers, whom he glosses as those who perish.",
+            "bn": "একই তাফসীরগুলোর ভেতর দিয়ে আরেকটি ধারা চলে: ইসতিদরাজ, মানুষকে ধাপে ধাপে টেনে নেওয়া। কুরতুবী একে আনেন ‘বলা হয়েছে’ বলে: নিয়ামত আর সুস্থতা দিয়ে তাদের টেনে নেওয়া। বাগাভীর কথায়: দুনিয়াতে যা দিয়েছেন, তা দিয়ে টেনে নেওয়া। তাবারী এখানে আবার কথা বলেন। তাঁর পাঠে অর্থ, এই অস্বীকারকারীরা কি নিশ্চিন্ত যে আল্লাহ তাদের সুস্থ শরীর আর সচ্ছল জীবন দিয়ে টেনে নিচ্ছেন না, যেমন আগের জাতিগুলোকে টেনে নিয়েছিলেন? কুফরিতে অটল থেকেও এ ব্যাপারে নিশ্চিন্ত থাকে কেবল ক্ষতিগ্রস্তরা। ক্ষতিগ্রস্ত বলতে তাবারী বোঝান যারা ধ্বংস হয়।"
+          },
+          {
+            "en": "Al-Muyassar holds the two lines together: Allah's makr and His respite to them, drawing them on with the blessings He gave them in their world, as a punishment for their own makr. As-Sa'di says He draws them on from where they do not know and grants them respite, in words that echo 7:183, My plan is firm. The second line ties 7:99 back to 7:95, where ease came before the sudden seizure. And al-Qurtubi and al-Muyassar both name what is being answered: the people's own makr.",
+            "bn": "মুয়াসসার দুটো ধারা একসঙ্গে ধরে রাখে: আল্লাহর মাকর আর তাদের অবকাশ দেওয়া। দুনিয়াতে দেওয়া নিয়ামত দিয়ে তাদের ধীরে ধীরে টেনে নেওয়া, তাদেরই মাকরের শাস্তি হিসেবে। সা'দী বলেন, তিনি তাদের এমন দিক থেকে টেনে নেন যা তারা জানে না, আর তাদের অবকাশ দেন। তাঁর কথায় ৭:১৮৩ আয়াতের প্রতিধ্বনি আছে: আমার কৌশল অত্যন্ত মজবুত। দ্বিতীয় ধারাটি ৭:৯৯ আয়াতকে আবার ৭:৯৫ আয়াতের সঙ্গে বেঁধে দেয়, যেখানে হঠাৎ পাকড়াওয়ের আগে এসেছিল স্বস্তি। আর কিসের জবাব দেওয়া হচ্ছে, কুরতুবী ও মুয়াসসার দুজনেই তা বলে দেন: মানুষের নিজেরই মাকর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear in the Middle of Obedience",
+          "bn": "ইবাদতের মাঝেও ভয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes the passage with a saying of al-Hasan al-Basri: the believer does acts of obedience while he is apprehensive, fearful and afraid, and the wicked does acts of disobedience while he feels safe. As-Sa'di draws the same line from the verse itself. Whoever feels safe from Allah's punishment, he says, has not truly affirmed the recompense of deeds, nor believed in the messengers with real faith. So the verse lands on security itself as the symptom, and not on any particular deed.",
+            "bn": "ইবন কাসীর আলোচনা শেষ করেন হাসান বসরীর একটি উক্তি দিয়ে: মুমিন আনুগত্যের কাজ করে, তবু সে শঙ্কিত, ভীত, সন্ত্রস্ত থাকে। আর পাপাচারী নাফরমানি করে, তবু নিজেকে নিরাপদ ভাবে। সা'দী আয়াত থেকেই একই রেখা টানেন। তাঁর কথা, যে আল্লাহর শাস্তি থেকে নিজেকে নিরাপদ মনে করে, সে আমলের প্রতিদানকে সত্যিকার অর্থে মানেনি, রাসূলদের উপরও প্রকৃত ঈমান আনেনি। তাই আয়াতের আঙুল কোনো নির্দিষ্ট কাজের দিকে নয়, নিশ্চিন্ত ভাবটার দিকেই, সেটাই রোগের লক্ষণ।"
+          },
+          {
+            "en": "As-Sa'di then turns the verse on believers. It carries, he says, a searching warning: the servant should not feel safe about the faith he already has, but keep fearing a trial that would strip it from him, and keep calling, O Changer of hearts, make my heart firm upon Your religion. That supplication is a narration, given with its source in the article on 7:100. He adds that the servant should work every means of escape when trials fall, for whatever his state, he has no certainty of safety.",
+            "bn": "এরপর সা'দী আয়াতটিকে মুমিনদের দিকে ঘুরিয়ে দেন। তাঁর মতে এতে আছে গভীর সতর্কবার্তা। বান্দার কাছে যতটুকু ঈমান আছে, তা নিয়ে সে যেন নিশ্চিন্ত না থাকে। বরং সবসময় ভয় রাখে, কোনো পরীক্ষা এসে তা কেড়ে না নেয়। আর বারবার দুআ করে: হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে তোমার দীনের উপর অটল রাখো। এই দুআ একটি বর্ণিত হাদীস, ৭:১০০ আয়াতের লেখায় তার সূত্রসহ আছে। সা'দী আরও বলেন, ফিতনার সময় বাঁচার প্রতিটি উপায় অবলম্বন করা চাই, কারণ বান্দার অবস্থা যত উঁচুই হোক, নিরাপদ থাকার নিশ্চয়তা তার নেই।"
+          },
+          {
+            "en": "No tafsir fetched for these verses attaches a hadith to them. One sound narration, not attached to them, shows the opposite of that security. Muslim (899) records from 'A'ishah (RA): when there was on any day windstorm or dark cloud, its effects could be read on the face of the Messenger of Allah ﷺ, and he moved forward and backward; and when it rained, he was delighted and it disappeared. 'A'ishah said: I asked him the reason of this anxiety and he said: I was afraid that it might be a calamity that might fall upon my Ummah, and when he saw rainfall he said: It is the mercy.",
+            "bn": "এ আয়াতগুলোর জন্য আনা কোনো তাফসীর এগুলোর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সহীহ বর্ণনা, যা এগুলোর সঙ্গে যুক্ত নয়, ওই নিশ্চিন্ততার ঠিক উল্টো ছবি দেখায়। মুসলিম (৮৯৯) আয়েশা (রাঃ) থেকে বর্ণনা করেন: যেদিন ঝোড়ো বাতাস বা কালো মেঘ দেখা দিত, রাসূলুল্লাহ ﷺ-এর চেহারায় তার ছাপ পড়ত। তিনি একবার সামনে যেতেন, একবার পেছনে আসতেন। আর বৃষ্টি নামলে তিনি খুশি হতেন, অস্থিরতা কেটে যেত। আয়েশা (রাঃ) বলেন, আমি তাঁকে এই উদ্বেগের কারণ জিজ্ঞেস করলাম। তিনি বললেন: আমার ভয় হয়েছিল, এটা না আবার কোনো বিপদ হয়, যা আমার উম্মতের উপর এসে পড়ে। আর বৃষ্টি দেখলে তিনি বলতেন: এ রহমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Busy Mornings, Honest Questions",
+          "bn": "ব্যস্ত সকালের হিসাব"
+        },
+        "p": [
+          {
+            "en": "These verses describe towns that denied their messengers and what came on them, and nothing more. They license nothing against any living person or community, and give no one leave to call a storm, a flood or a failed harvest in some place today a verdict on its people. Al-Qurtubi's limit on 7:96 is worth recalling here: believers too may be tested with straitened living, as an expiation. The question is for each reader to ask himself.",
+            "bn": "এ আয়াতগুলো বর্ণনা করে সেই জনপদগুলোর কথা, যারা নিজেদের রাসূলদের অস্বীকার করেছিল, আর তাদের উপর যা এসেছিল তার কথা। এর বাইরে কিছু নয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোথাও ঝড়, বন্যা বা ফসলহানি হলে তাকে সেখানকার মানুষের উপর রায় বলে ঘোষণা করার অধিকারও কাউকে দেয় না। ৭:৯৬ আয়াতে কুরতুবীর টানা সীমাটাও এখানে মনে রাখার মতো: মুমিনকেও অভাব দিয়ে পরীক্ষা করা হতে পারে, গুনাহের কাফফারা হিসেবে। আয়াতের প্রশ্নটা তাই প্রত্যেক পাঠকের নিজের কাছে নিজের প্রশ্ন।"
+          },
+          {
+            "en": "On al-Qurtubi's reading, the play in this verse is being taken up with what does not avail; on Ibn Kathir's, it is being busy and unaware. Neither gloss names work itself as the fault. The use is therefore small and daily. Take the busiest hour of your morning and put a deliberate remembrance into it. And when things go well, ask the question Ma'arif al-Qur'an reports: is this ease making me more grateful and more given to worship, or only more comfortable?",
+            "bn": "কুরতুবীর ব্যাখ্যায় এ আয়াতের খেলা মানে এমন কিছুতে ডুবে থাকা, যা কোনো কাজে আসবে না। ইবন কাসীরের ব্যাখ্যায় তা হলো ব্যস্ত থাকা আর টের না পাওয়া। কোনো ব্যাখ্যাই কাজকে নিজে দোষ বলে না। তাই আয়াতের ব্যবহারটা ছোট, প্রতিদিনের। সকালের সবচেয়ে ব্যস্ত ঘণ্টাটা বেছে নিন, তার মধ্যে সচেতনভাবে একবার আল্লাহর জিকির রাখুন। আর যখন সব ভালো চলে, মাআরিফুল কুরআনের উল্লেখ করা প্রশ্নটা নিজেকে করুন: এই স্বস্তি কি আমাকে আরও শোকরগুজার আর ইবাদতমুখী করছে, নাকি শুধু আরও আরামপ্রিয়?"
+          }
+        ]
+      }
+    ]
+  },
   "7:100": {
     "sections": [
       {

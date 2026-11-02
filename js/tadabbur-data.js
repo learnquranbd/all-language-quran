@@ -20751,6 +20751,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Deliver what you owe in full and advise sincerely, then leave the outcome with Allah; and read your hardships and your ease as calls to turn back, not as luck.",
     "lessonBn": "যা পৌঁছে দেওয়া আপনার দায়িত্ব, তা পুরোটা পৌঁছে দিন, আন্তরিকভাবে উপদেশ দিন, তারপর ফলাফল আল্লাহর হাতে ছেড়ে দিন। আর জীবনের কষ্ট ও স্বস্তিকে ভাগ্যের খেলা না ভেবে ফিরে আসার ডাক হিসেবে পড়ুন।"
+  },
+  "7:98": {
+    "reflectionEn": "The verse pictures an ordinary morning. The sun is well up, the town is busy, and everyone is absorbed in something. Nobody is thinking about an ending. Then the question comes: did they feel safe from Our punishment arriving now, in the forenoon, while they played? The verse before it asks the same about the night, while they slept. Take away sleep and busyness and there is not much of a day left. The play here need not be games. It can be the work and talk that fill the hours and leave no room to look up. So the question turns to me. What fills my mornings? And if I feel safe, is it because I am ready, or because I have stopped thinking about it?",
+    "reflectionBn": "আয়াতটি একটা সাধারণ সকালের ছবি আঁকে। রোদ বেশ উঠে গেছে, জনপদ ব্যস্ত, সবাই কিছু না কিছুতে ডুবে আছে। শেষের কথা কারও মাথায় নেই। ঠিক তখনই প্রশ্নটা আসে: দিনের আলোয়, যখন তারা খেলায় মত্ত, তখন আমার শাস্তি এসে পড়বে না, এ ব্যাপারে কি তারা নিশ্চিন্ত? আগের আয়াত একই প্রশ্ন করেছে রাত নিয়ে, যখন তারা ঘুমিয়ে থাকে। ঘুম আর ব্যস্ততা বাদ দিলে দিনের আর কতটুকুই বা বাকি থাকে? এখানে খেলা মানে শুধু খেলাধুলা নয়। যে কাজ আর কথাবার্তা ঘণ্টার পর ঘণ্টা ভরে রাখে, মাথা তোলার ফুরসত দেয় না, সেটাও এর মধ্যে পড়ে। তাই প্রশ্নটা ঘুরে আমার দিকেই আসে। আমার সকালগুলো কী দিয়ে ভরা? আর আমি যদি নিশ্চিন্ত থাকি, তা কি প্রস্তুত আছি বলে, নাকি এ নিয়ে ভাবাই ছেড়ে দিয়েছি বলে?",
+    "pointsEn": [
+      "Which hours of my day pass with no thought of Allah at all, and what usually fills them?",
+      "Is the calm I feel about my life the calm of someone who is ready, or of someone who has stopped looking?",
+      "When things go well for me, do I become more grateful and more obedient, or only more comfortable?",
+      "What do I spend whole mornings on that, if I am honest, does me no good?",
+      "Where have I taken a long run of ease as proof that all is well between me and my Lord?"
+    ],
+    "pointsBn": [
+      "দিনের কোন সময়গুলো আল্লাহর কথা একবারও মনে না করে কেটে যায়? আর সে সময়টা সাধারণত কী দিয়ে ভরা থাকে?",
+      "জীবন নিয়ে আমার যে নিশ্চিন্ত ভাব, সেটা কি প্রস্তুত মানুষের প্রশান্তি, নাকি এমন মানুষের, যে তাকানোই বন্ধ করে দিয়েছে?",
+      "যখন সব ভালো চলে, তখন কি আমি আরও শোকরগুজার আর অনুগত হই, নাকি শুধু আরও আরামপ্রিয় হয়ে পড়ি?",
+      "সত্যি বলতে, কোন কাজে আমি পুরো সকাল কাটিয়ে দিই, যাতে আমার কোনো লাভ নেই?",
+      "লম্বা সময় ধরে স্বস্তিতে আছি বলে কোথায় ধরে নিয়েছি যে আমার রবের সঙ্গে আমার সব ঠিকঠাক?"
+    ],
+    "lessonEn": "Sleep and busy mornings are where people feel safest and look up least; keep a little fear awake in your ordinary hours, and let ease make you grateful rather than careless.",
+    "lessonBn": "ঘুম আর ব্যস্ত সকালেই মানুষ সবচেয়ে নিশ্চিন্ত থাকে, মাথা তোলে সবচেয়ে কম। সাধারণ সময়গুলোতেও একটু ভয় জাগিয়ে রাখুন, আর স্বস্তি যেন আপনাকে গাফিল না করে শোকরগুজার করে।"
   }
 };
 
