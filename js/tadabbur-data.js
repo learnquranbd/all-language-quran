@@ -20551,6 +20551,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before calling anything forbidden or required in Allah's name, ask where He said it, and if you cannot answer, keep your preference as yours and not His.",
     "lessonBn": "আল্লাহর নামে কোনো কিছুকে হারাম বা জরুরি বলার আগে জিজ্ঞেস করুন, তিনি কোথায় তা বলেছেন। জবাব না পেলে নিজের পছন্দকে নিজের বলেই রাখুন, তাঁর নামে চালাবেন না।"
+  },
+  "6:91": {
+    "reflectionEn": "The surah has just read out a long line of prophets, people given the Book, judgment and prophethood. Then comes a sentence that would erase them all: Allah never sent anything down to any human being. Before answering it, the verse names what is wrong with it. They did not measure Allah as He deserves, because a Lord who leaves His servants without a word from Him has been made smaller than He is. Then one question settles the claim: who sent down the Book that Musa (AS) brought? A second charge follows, against people who held that Book, showed the pages that suited them and hid much. I can deny revelation without ever saying so, simply by choosing which of its pages I let into my life.",
+    "reflectionBn": "সূরাটি এইমাত্র নবীদের দীর্ঘ এক সারির নাম শুনিয়েছে। তাঁদের দেওয়া হয়েছিল কিতাব, প্রজ্ঞা আর নবুওয়াত। তারপরই আসে এমন এক কথা, যা তাঁদের সবাইকে মুছে ফেলতে চায়: আল্লাহ কোনো মানুষের কাছে কিছুই নাযিল করেননি। জবাব দেওয়ার আগে আয়াতটি কথাটার আসল দোষ ধরিয়ে দেয়। তারা আল্লাহকে তাঁর যথাযোগ্য মর্যাদা দেয়নি। যে রব বান্দাদের কাছে নিজের কোনো বাণী পাঠান না বলে ধরা হয়, তাঁকে আসলে ছোট করে দেখা হলো। তারপর একটি প্রশ্নেই দাবিটা ভেঙে পড়ে: মূসা (আঃ) যে কিতাব নিয়ে এসেছিলেন, তা কে নাযিল করেছিলেন? এরপর আসে আরেক অভিযোগ, সেই কিতাব যাদের হাতে ছিল তাদের বিরুদ্ধে। পছন্দের পাতাগুলো তারা দেখাত, অনেকটাই লুকিয়ে রাখত। মুখে না বলেও আমি ওহিকে অস্বীকার করতে পারি, শুধু এটুকু বেছে নিয়ে যে এর কোন কোন পাতা আমার জীবনে ঢুকতে দেব।",
+    "pointsEn": [
+      "When I picture Allah, do I picture a Lord who speaks to His servants and guides them, or one who has left me to work everything out alone?",
+      "Which pages of the Qur'an do I quote readily, and which do I quietly pass over because they ask too much of me?",
+      "What have I learned from the Qur'an that neither I nor my parents once knew, and what have I done with it?",
+      "In a heated argument, have I ever said something about Allah or His religion that I did not truly believe, only to win the moment?",
+      "When a discussion about faith turns into mockery, do I know when I have made my point and should leave?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কথা ভাবলে আমার মনে কোন ছবি ভাসে? এমন রবের, যিনি বান্দাদের সঙ্গে কথা বলেন আর পথ দেখান, নাকি এমন কারও, যিনি আমাকে সবকিছু একা একা বুঝে নিতে ছেড়ে দিয়েছেন?",
+      "কুরআনের কোন পাতাগুলো আমি সহজেই উদ্ধৃত করি, আর কোনগুলো চুপচাপ এড়িয়ে যাই, কারণ সেগুলো আমার কাছে বেশি কিছু চায়?",
+      "কুরআন থেকে এমন কী শিখেছি, যা আমি বা আমার বাবা-মা আগে জানতাম না? আর সেই জ্ঞান নিয়ে আমি কী করেছি?",
+      "তর্কের উত্তাপে শুধু মুহূর্তটা জিততে গিয়ে আল্লাহ বা তাঁর দ্বীন সম্পর্কে এমন কিছু কি কখনো বলে ফেলেছি, যা আমি সত্যিই বিশ্বাস করি না?",
+      "ঈমান নিয়ে আলোচনা যখন ঠাট্টায় গড়ায়, আমি কি বুঝি কখন আমার কথা বলা শেষ আর কখন উঠে যাওয়া দরকার?"
+    ],
+    "lessonEn": "Give Allah His due by holding that He speaks to His servants, and take the whole of His Book rather than only the pages that suit you.",
+    "lessonBn": "আল্লাহ তাঁর বান্দাদের কাছে বাণী পাঠান, এ বিশ্বাস রেখে তাঁকে তাঁর যথাযোগ্য মর্যাদা দিন, আর তাঁর কিতাবের শুধু পছন্দের পাতা নয়, পুরোটাই গ্রহণ করুন।"
   }
 };
 

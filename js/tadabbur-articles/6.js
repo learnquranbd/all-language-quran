@@ -2995,6 +2995,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Denial After the Roll Call",
+          "bn": "নবীদের তালিকার পরেই অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Al-An'am has just named a long line of prophets; the verses just before ours end the list with Zakariyya, Yahya, Isa, Ilyas, Isma'il, al-Yasa', Yunus and Lut (AS). Then 6:88 calls this the guidance of Allah, by which He guides whom He wills of His servants. 6:89 says these are the ones to whom We gave the Book, judgment and prophethood, and that if these people deny it, We have entrusted it to a people who do not deny it. 6:90 tells the Prophet ﷺ to follow their guidance.",
+            "bn": "সূরা আনআম এইমাত্র নবীদের দীর্ঘ এক সারির নাম নিয়েছে। আগের আয়াতগুলোতে তালিকার শেষ নামগুলো যাকারিয়া, ইয়াহইয়া, ঈসা, ইলিয়াস, ইসমাঈল, আল-ইয়াসা, ইউনুস ও লূত (আঃ)। এরপর ৬:৮৮ বলে, এ-ই আল্লাহর হিদায়াত, এ দিয়ে তিনি তাঁর বান্দাদের মধ্যে যাকে চান পথ দেখান। ৬:৮৯ বলে, এঁদেরকেই আমি কিতাব, প্রজ্ঞা আর নবুওয়াত দিয়েছি। এরা যদি তা অস্বীকার করে, তবে আমি তার ভার এমন এক সম্প্রদায়কে দিয়েছি যারা অস্বীকার করে না। ৬:৯০ নবী ﷺ-কে বলে, আপনি তাঁদের পথ অনুসরণ করুন।"
+          },
+          {
+            "en": "Then our verse, and against that whole line someone says: Allah has not sent down anything to any human being. It is a blanket denial, set straight after a roll call of humans to whom He did. The next verse, 6:92, sets the Qur'an beside the Book of Musa (AS): blessed, confirming what came before it, sent so that the Prophet ﷺ may warn the Mother of Cities and those around it. Ibn Kathir explains these as Makkah, and the Arabs and the rest of humankind.",
+            "bn": "তারপর আমাদের আয়াত। নবীদের পুরো সারির বিপরীতে কেউ বলে বসে: আল্লাহ কোনো মানুষের কাছে কিছুই নাযিল করেননি। কথাটা ঢালাও অস্বীকার, আর তা এসেছে ঠিক সেইসব মানুষের নামের পরে, যাঁদের কাছে তিনি নাযিল করেছেন। পরের আয়াত ৬:৯২ কুরআনকে মূসা (আঃ)-এর কিতাবের পাশে দাঁড় করায়: বরকতময়, আগের কিতাবের সত্যায়নকারী, পাঠানো হয়েছে যেন নবী ﷺ উম্মুল কুরা ও তার চারপাশের লোকদের সতর্ক করেন। ইবন কাসীরের ব্যাখ্যায় এর মানে মক্কা, আর আরব ও বাকি সব মানুষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measuring Allah Short",
+          "bn": "আল্লাহকে খাটো করে মাপা"
+        },
+        "p": [
+          {
+            "en": "Wa-ma qadaru Allaha haqqa qadrihi. At-Tabari glosses it: they did not hold Allah in the reverence due to Him, nor magnify Him as He should be magnified, when they said He had sent no book and no revelation to any human. Al-Baghawi gives the same sense, and adds a second under the words it is said: they did not describe Him as He should be described. Al-Muyassar keeps to magnifying.",
+            "bn": "ওয়ামা কাদারুল্লাহা হাক্কা কাদরিহি। তাবারীর ব্যাখ্যা: তারা আল্লাহকে তাঁর প্রাপ্য সম্মান দেয়নি, তাঁর যতটা মহিমা ঘোষণা করা উচিত ছিল ততটা করেনি, যখন বলল যে তিনি কোনো মানুষের কাছে কোনো কিতাব বা ওহি পাঠাননি। বাগাভীও একই অর্থ নেন, তারপর 'বলা হয়' কথাটি জুড়ে আরেকটি অর্থ আনেন: তাঁর যেমন গুণ বর্ণনা করা উচিত, তারা তেমন করেনি। মুয়াসসারও মহিমার অর্থেই থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the older explanations. Ibn Abbas: they did not believe that He has power over all things; at-Tabari carries the same report with its conclusion, that whoever believes this has given Allah His true measure. Al-Hasan: they did not magnify Him as His greatness deserves. Abu Ubayda: they did not know Allah as He should be known. An-Nahhas calls this a good meaning, since to measure a thing is to know its extent, and al-Qurtubi judges the two meanings close.",
+            "bn": "কুরতুবী পুরোনো ব্যাখ্যাগুলো এক জায়গায় জড়ো করেন। ইবন আব্বাস (রাঃ): তারা বিশ্বাস করেনি যে তিনি সবকিছুর উপর ক্ষমতাবান। তাবারী একই বর্ণনা উপসংহারসহ আনেন: যে এ কথা বিশ্বাস করে, সে আল্লাহকে তাঁর যথার্থ মাপে মেপেছে। হাসান: তাঁর মহত্ত্ব যতটা দাবি করে, ততটা মহিমা তারা ঘোষণা করেনি। আবু উবাইদা: আল্লাহকে যেভাবে চেনা উচিত, সেভাবে তারা চেনেনি। নাহহাস একে সুন্দর অর্থ বলেন, কারণ কোনো জিনিস মাপা মানে তার পরিমাণ জানা। কুরতুবীর বিচারে দুটি অর্থ কাছাকাছি।"
+          },
+          {
+            "en": "Why does denying revelation measure Allah short? Al-Qurtubi answers that it ascribes to Him that He sets up no proof for His servants and does not command them what is good for them. As-Sa'di is sharper. Such a claim slanders His wisdom, as though He left His servants neglected, neither commanding nor forbidding, and it denies His greatest favour to them, the message, without which there is no road to happiness or success. What slander against Allah, he asks, is greater?",
+            "bn": "ওহি অস্বীকার করা কেন আল্লাহকে খাটো করে মাপা? কুরতুবীর জবাব: এ কথা আল্লাহর প্রতি আরোপ করে যে তিনি বান্দাদের সামনে কোনো দলিল দাঁড় করান না, তাদের কল্যাণের আদেশও দেন না। সা'দী আরও ধারালো। এমন দাবি তাঁর হিকমতকে কলঙ্কিত করে, যেন তিনি বান্দাদের লাগামহীন ছেড়ে দেন, আদেশও করেন না, নিষেধও না। সেই সঙ্গে দাবিটা তাঁর সবচেয়ে বড় অনুগ্রহ রিসালাতকেই অস্বীকার করে, যা ছাড়া সৌভাগ্য বা সাফল্যের কোনো পথ নেই। তিনি প্রশ্ন করেন, আল্লাহর বিরুদ্ধে এর চেয়ে বড় অপবাদ আর কী?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Quraysh, or a Jewish Rabbi",
+          "bn": "কুরাইশ, নাকি এক ইহুদি আলেম"
+        },
+        "p": [
+          {
+            "en": "The commentators divide over who said it. Some name the idolaters of Quraysh: at-Tabari carries this from Mujahid in two reports, Ibn Kathir names Ibn Abbas, Mujahid and Abdullah ibn Kathir for it, and al-Qurtubi has Ibn Abbas and others. Yet Ibn Abbas appears on the other side too. At-Tabari's report from him through Ali ibn Abi Talha, also in al-Baghawi, says the Jews asked the Prophet ﷺ whether Allah had sent him a book, and on hearing yes, swore that Allah had sent no book down from heaven.",
+            "bn": "কথাটা কে বলেছিল, তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। কেউ বলেন কুরাইশের মুশরিকদের কথা। তাবারী এ মত মুজাহিদ থেকে আনেন দুটি বর্ণনায়। ইবন কাসীর এর পক্ষে ইবন আব্বাস (রাঃ), মুজাহিদ ও আবদুল্লাহ ইবন কাসীরের নাম নেন, আর কুরতুবী নেন ইবন আব্বাস (রাঃ) ও অন্যদের নাম। অথচ ইবন আব্বাস (রাঃ)-এর নাম অন্য পক্ষেও আছে। আলী ইবন আবী তালহার সূত্রে তাবারীর বর্ণনায়, যা বাগাভীতেও আছে, ইহুদিরা নবী ﷺ-কে জিজ্ঞেস করেছিল, আল্লাহ কি আপনার কাছে কোনো কিতাব নাযিল করেছেন? তিনি হ্যাঁ বললে তারা কসম খেয়ে বলল, আল্লাহ আসমান থেকে কোনো কিতাবই নাযিল করেননি।"
+          },
+          {
+            "en": "Others say the speaker was a Jew, and then divide over his name. Sa'id ibn Jubayr and Ikrima name Malik ibn as-Sayf, Ikrima adding that he was of Qurayza and among their rabbis. As-Suddi names Finhas. Muhammad ibn Ka'b al-Qurazi tells of Jews asking for a book from heaven like the tablets of Musa (AS), and of a man who knelt and said Allah had sent nothing to him, nor to Musa, nor to Isa, nor to anyone. Qatada, in at-Tabari, says the verse means Jews and Christians.",
+            "bn": "অন্যদের মতে বক্তা ছিল একজন ইহুদি। তারপর তার নাম নিয়েও মতভেদ। সাঈদ ইবন জুবাইর ও ইকরিমা নাম বলেন মালিক ইবনুস সাইফ। ইকরিমা যোগ করেন, সে ছিল কুরাইযা গোত্রের, তাদের আলেমদের একজন। সুদ্দী নাম বলেন ফিনহাস। মুহাম্মাদ ইবন কা'ব কুরাযী বর্ণনা করেন, কিছু ইহুদি মূসা (আঃ)-এর ফলকের মতো আসমান থেকে একটি কিতাব চেয়েছিল। তখন এক লোক হাঁটু গেড়ে বসে বলল, আল্লাহ আপনার কাছে কিছু পাঠাননি, মূসার কাছেও না, ঈসার কাছেও না, কারও কাছেই না। তাবারীতে কাতাদা বলেন, আয়াতটি ইহুদি ও খ্রিস্টানদের সম্পর্কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing the Two Accounts",
+          "bn": "দুই বিবরণের ওজন"
+        },
+        "p": [
+          {
+            "en": "The fullest Jewish account is Sa'id ibn Jubayr's, carried by at-Tabari, al-Qurtubi and al-Baghawi, whose wording sets it in Makkah. Malik ibn as-Sayf came to dispute with the Prophet ﷺ, who asked him, by the One who sent the Torah down to Musa, whether he did not find in it that Allah hates a fat rabbi. In the report, the question was aimed at him. Angered, he swore that Allah had sent nothing down to any human; when his companions said, not even to Musa?, he repeated it. Al-Baghawi adds that the Jews removed him from his office.",
+            "bn": "ইহুদি বক্তার সবচেয়ে পূর্ণ বিবরণ সাঈদ ইবন জুবাইরের। তাবারী, কুরতুবী ও বাগাভী তা এনেছেন, আর বাগাভীর ভাষ্যে ঘটনাটা মক্কার। মালিক ইবনুস সাইফ নবী ﷺ-এর সঙ্গে তর্ক করতে এসেছিল। নবী ﷺ তাকে বললেন, যিনি মূসার উপর তাওরাত নাযিল করেছেন তাঁর কসম দিয়ে জিজ্ঞেস করছি, তাওরাতে কি পাও না যে আল্লাহ মোটাসোটা আলেমকে অপছন্দ করেন? বর্ণনা অনুযায়ী, প্রশ্নটা ছিল তাকেই উদ্দেশ করে। রেগে গিয়ে সে কসম খেল, আল্লাহ কোনো মানুষের কাছে কিছুই নাযিল করেননি। সঙ্গীরা বলল, মূসার কাছেও না? সে একই কথা আবার বলল। বাগাভী যোগ করেন, ইহুদিরা পরে তাকে পদ থেকে সরিয়ে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir calls the Quraysh view the more apparent, for two stated reasons: the verse is Makkan, and the Jews do not deny that books come down from heaven, whereas Quraysh, and the Arabs as a whole, thought it far-fetched that a human be sent as a messenger. He cites 10:2, is it a wonder to people that We revealed to a man from among them, and 17:94, has Allah sent a human as a messenger?",
+            "bn": "ইবন কাসীর কুরাইশের মতকেই বেশি স্পষ্ট বলেন, আর দুটি কারণ দেখান। আয়াতটি মাক্কী। আর ইহুদিরা আসমান থেকে কিতাব নাযিল হওয়াকে অস্বীকার করে না, অথচ কুরাইশ, বরং গোটা আরব, মানুষকে রাসূল করে পাঠানোকে অসম্ভব মনে করত। তিনি ১০:২ উল্লেখ করেন: মানুষের কাছে কি এটা আশ্চর্যের বিষয় যে আমি তাদেরই একজনের কাছে ওহি পাঠিয়েছি? আর ১৭:৯৪: আল্লাহ কি একজন মানুষকে রাসূল করে পাঠিয়েছেন?"
+          },
+          {
+            "en": "At-Tabari reaches the same choice by his own route. The surah has spoken of the idolaters from its opening and this verse is joined to that speech, while the Jews have not been mentioned; and the Jews profess the scrolls of Ibrahim and Musa and the Zabur of Dawud. No sound report with a connected chain makes the speaker a Jew, he adds, and there is no consensus on it, so the verse may not be turned from its context without binding proof.",
+            "bn": "তাবারী নিজের পথে একই সিদ্ধান্তে পৌঁছান। সূরার শুরু থেকেই কথা চলছে মুশরিকদের নিয়ে, আয়াতটি সেই আলোচনারই অংশ, আর ইহুদিদের উল্লেখ তখনো আসেনি। তা ছাড়া ইহুদিরা ইবরাহীম ও মূসার সহীফা এবং দাউদের যাবূর মেনে নেয়। তিনি আরও বলেন, বক্তা ইহুদি ছিল, এমন কোনো সহীহ ও মুত্তাসিল সনদের বর্ণনা নেই, ইজমাও নেই। তাই বাধ্যতামূলক দলিল ছাড়া আয়াতটিকে তার প্রসঙ্গ থেকে সরানো যায় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an weighs it differently. If the speakers were the idolaters of Makkah, it says, the matter is obvious; if they were Jews, as other commentators hold and as it finds the context supporting, the remark came out of anger and against their own religion. The difference stays a difference. Whichever is right, the verse describes what particular people said in the Prophet's ﷺ lifetime, and licenses nothing against any living person or community, Jewish, Arab or any other.",
+            "bn": "মাআরিফুল কুরআন বিষয়টা অন্যভাবে মাপে। তার মতে বক্তারা মক্কার মুশরিক হলে ব্যাপারটা পরিষ্কার। আর যদি ইহুদি হয়, যেমনটা অন্য মুফাসসিররা বলেন এবং আয়াতের প্রসঙ্গও সেদিকে ইঙ্গিত করে বলে সে মনে করে, তবে কথাটা এসেছিল রাগ থেকে, তাদের নিজেদের ধর্মের বিপরীতে। মতভেদটা মতভেদ হিসেবেই থাকছে। যে মতই সঠিক হোক, আয়াতটি নবী ﷺ-এর জীবদ্দশায় নির্দিষ্ট কিছু মানুষের কথার বর্ণনা দেয়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি, আরব বা অন্য যে-ই হোক, এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pages Shown, Pages Hidden",
+          "bn": "দেখানো পাতা, লুকানো পাতা"
+        },
+        "p": [
+          {
+            "en": "Taj'alunahu qaratisa tubdunaha wa-tukhfuna kathiran: you make it into sheets, showing them and hiding much. Al-Baghawi records two readings. The Qur'an readers Ibn Kathir, not the commentator, and Abu Amr read all three verbs with ya, they make it, they show, they hide, matching the verse's opening; the rest read with ta, you make it, matching the question put to them. At-Tabari prefers the ya reading, and reports that Mujahid read it so.",
+            "bn": "তাজআলূনাহু কারাতীসা তুবদূনাহা ওয়া তুখফূনা কাসীরা: তোমরা একে কাগজের পাতায় পরিণত করো, সেগুলো দেখাও আর অনেকটাই লুকাও। বাগাভী এখানে দুটি কিরাআত উল্লেখ করেন। কারী ইবন কাসীর (মুফাসসির ইবন কাসীর নন) ও আবু আমর তিনটি ক্রিয়াই 'ইয়া' দিয়ে পড়েছেন: তারা একে পাতা বানায়, দেখায়, লুকায়। এ পাঠ মেলে আয়াতের শুরুর সঙ্গে। বাকিরা পড়েছেন 'তা' দিয়ে: তোমরা একে পাতা বানাও। এ পাঠ মেলে তাদের উদ্দেশে করা প্রশ্নটির সঙ্গে। তাবারী 'ইয়া'-র পাঠকে অগ্রাধিকার দেন, আর জানান যে মুজাহিদও এভাবেই পড়তেন।"
+          },
+          {
+            "en": "Al-Qurtubi shows how the reading moves the address. On the ya reading, say, who sent down the Book is spoken to the idolaters, they make it into sheets is about the Jews, and you were taught is for the Muslims. On the ta reading all of it is addressed to the Jews. At-Tabari suspects this is how the Jewish view arose: its holders read the end of the verse as address to the people of the Torah, and took its opening as about them too.",
+            "bn": "কিরাআত বদলালে সম্বোধনও কীভাবে সরে যায়, কুরতুবী তা দেখান। 'ইয়া'-র পাঠে 'বলুন, কিতাব কে নাযিল করেছেন' কথাটা মুশরিকদের প্রতি, 'তারা একে পাতা বানায়' ইহুদিদের সম্পর্কে, আর 'তোমাদের শেখানো হয়েছে' মুসলিমদের জন্য। 'তা'-র পাঠে পুরোটাই ইহুদিদের সম্বোধন। তাবারীর ধারণা, ইহুদি বক্তার মতটা এভাবেই জন্মেছে। এ মতের লোকেরা আয়াতের শেষাংশকে তাওরাতধারীদের প্রতি সম্বোধন হিসেবে পড়েছেন, ফলে শুরুটাকেও তাদের সম্পর্কেই ধরে নিয়েছেন।"
+          },
+          {
+            "en": "Qaratis are sheets; Ma'arif gives the singular, qirtas. What was done with them is read in several ways. Ibn Kathir: they copied pieces out of the original, altered and reinterpreted them, and said this is from Allah, as in 2:79. As-Sa'di: they showed what suited their desires and hid what did not, which was much. Ma'arif: they kept the Torah on loose sheets so any page could be taken out. Among what was hidden, Ikrima, at-Tabari and al-Muyassar name what it said of the Prophet ﷺ; al-Baghawi adds the verse of stoning.",
+            "bn": "কারাতীস মানে কাগজের পাতা, মাআরিফ এর একবচন বলেছে কিরতাস। এ পাতাগুলো নিয়ে তারা কী করত, তার কয়েকটি ব্যাখ্যা আছে। ইবন কাসীরের মতে, তারা মূল কিতাব থেকে অংশবিশেষ নকল করত, তাতে রদবদল আর মনগড়া ব্যাখ্যা ঢোকাত, তারপর বলত এটা আল্লাহর পক্ষ থেকে, যেমন ২:৭৯ আয়াতে আছে। সা'দীর মতে, খেয়ালখুশির সঙ্গে যা মিলত তা দেখাত, যা মিলত না তা লুকাত, আর সেটাই ছিল বেশি। মাআরিফের মতে, তারা তাওরাত আলগা পাতায় রাখত, যাতে যে-কোনো পাতা সরিয়ে ফেলা যায়। লুকানো বিষয়ের মধ্যে ইকরিমা, তাবারী ও মুয়াসসার নবী ﷺ সম্পর্কে তাতে যা ছিল তার কথা বলেন, বাগাভী যোগ করেন রজমের আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taught, Then Told the Answer",
+          "bn": "শেখানো হলো, জবাবও বলে দেওয়া হলো"
+        },
+        "p": [
+          {
+            "en": "Wa-'ullimtum ma lam ta'lamu antum wa-la aba'ukum: and you were taught what neither you nor your fathers knew. Who is meant? Mujahid, in at-Tabari, says this is for the Muslims, and at-Tabari follows him: Allah taught the believing Arabs, through His Book, the news of those before and after them and of the resurrection. Ibn Kathir quotes Qatada that these are the Arab idolaters. Al-Baghawi says most take it as addressed to the Jews, and quotes al-Hasan: they were given that knowledge and wasted it.",
+            "bn": "ওয়া উল্লিমতুম মা লাম তা'লামূ আনতুম ওয়ালা আবাউকুম: আর তোমাদের এমন জিনিস শেখানো হয়েছে, যা তোমরা জানতে না, তোমাদের বাপ-দাদারাও না। এখানে কাদের বলা হচ্ছে? তাবারীতে মুজাহিদ বলেন, এটা মুসলিমদের জন্য। তাবারী তাঁকেই অনুসরণ করেন: আল্লাহ মুমিন আরবদের তাঁর কিতাবের মাধ্যমে শিখিয়েছেন আগের ও পরের মানুষের খবর আর কিয়ামতের খবর। ইবন কাসীর কাতাদার কথা আনেন যে এরা আরবের মুশরিক। বাগাভী বলেন, অধিকাংশের মতে সম্বোধনটা ইহুদিদের প্রতি। সঙ্গে হাসানের কথা আনেন: সেই জ্ঞান তাদের দেওয়া হয়েছিল, তারা তা নষ্ট করেছে।"
+          },
+          {
+            "en": "Then qul Allah: say, Allah. Ibn Abbas, carried by at-Tabari and Ibn Kathir, explains it as say: Allah sent it down. Ibn Kathir calls this the definite meaning, and rejects a later view that the Prophet ﷺ is to say nothing but the single word Allah, since a lone word gives no complete sense in Arabic. He also names the argument's shape: their sweeping denial is met by a single positive case, the Torah, which everyone knew Allah had sent down to Musa (AS). One true instance breaks a universal denial.",
+            "bn": "তারপর কুলিল্লাহ: বলুন, আল্লাহ। তাবারী ও ইবন কাসীরের বর্ণনায় ইবন আব্বাস (রাঃ) এর ব্যাখ্যা দেন: বলুন, আল্লাহই তা নাযিল করেছেন। ইবন কাসীর বলেন, এ ব্যাখ্যাই নির্ধারিত। পরবর্তী কালের কারও কারও মত ছিল, নবী ﷺ শুধু 'আল্লাহ' শব্দটিই বলবেন। ইবন কাসীর তা নাকচ করেন, কারণ আরবি ভাষায় একক শব্দ পূর্ণ কোনো অর্থ দেয় না। যুক্তিটার কাঠামোও তিনি ধরিয়ে দেন। তাদের ঢালাও অস্বীকারের জবাবে রাখা হলো একটিমাত্র ইতিবাচক দৃষ্টান্ত, তাওরাত, যা আল্লাহ মূসা (আঃ)-এর কাছে নাযিল করেছেন বলে সবাই জানত। সার্বিক অস্বীকার ভাঙতে একটি সত্য দৃষ্টান্তই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left to Their Game",
+          "bn": "নিজেদের খেলায় ছেড়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Thumma dharhum fi khawdihim yal'abun: then leave them in their wading, playing. At-Tabari reads the wading as the falsehood and disbelief they plunge into and the playing as mockery, and calls the whole a threat: I lie in wait behind what they do. Al-Qurtubi also calls it a threat, and reports, as something said, that it was abrogated by the command to fight. As-Sa'di ties the leaving to the proof: once you have bound them with this argument, let them play until they meet their promised Day. The leaving comes after the case is made, not in place of it.",
+            "bn": "সুম্মা যারহুম ফী খাওদিহিম ইয়ালআবূন: তারপর তাদের ছেড়ে দিন, নিজেদের বাজে আলাপে মেতে খেলা করুক। তাবারীর ব্যাখ্যায় খাওদ মানে সেই বাতিল আর কুফর, যাতে তারা ডুবে আছে, আর খেলা মানে ঠাট্টা-বিদ্রূপ। পুরো কথাটাকে তিনি হুমকি বলেন: ওরা যা করছে তার পেছনে আমি ওত পেতে আছি। কুরতুবীও একে হুমকি বলেন, আর 'বলা হয়েছে' বলে উল্লেখ করেন যে যুদ্ধের নির্দেশে এটি মানসুখ হয়েছে। সা'দী ছেড়ে দেওয়াকে দলিলের সঙ্গে জুড়ে দেন: এই যুক্তিতে তাদের আটকে দেওয়ার পর তাদের খেলতে দিন, যতক্ষণ না প্রতিশ্রুত দিনের মুখোমুখি হয়। ছেড়ে দেওয়া আসে যুক্তি পেশের পরে, তার বদলে নয়।"
+          },
+          {
+            "en": "No commentator fetched for this verse attaches a sound hadith to it, and at-Tabari says outright that the report naming a Jewish speaker has no sound connected chain. One saying sits near, though it is not a word of the Prophet ﷺ. Under Qatada's comment that the verse blames people given knowledge who did not act on it, at-Tabari has Qatada report that Abu ad-Darda used to say: among what I will most be argued against with tomorrow is that it will be said, Abu ad-Darda, you knew; so what did you do with what you knew?",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে সহীহ হাদীস যুক্ত করেনি। তাবারী তো স্পষ্ট বলেন, ইহুদি বক্তার নাম নেওয়া বর্ণনাটির কোনো সহীহ মুত্তাসিল সনদ নেই। তবে একটি উক্তি কাছাকাছি আছে, যদিও তা নবী ﷺ-এর বাণী নয়। কাতাদা বলেন, আয়াতটি এমন লোকদের নিন্দা করে যাদের জ্ঞান দেওয়া হয়েছিল কিন্তু তারা আমল করেনি। এর পরেই তাবারীতে কাতাদা জানান, আবুদ দারদা (রাঃ) বলতেন: আগামীকাল যেসব বিষয়ে আমার বিরুদ্ধে সবচেয়ে বেশি অভিযোগ উঠবে, তার একটি হলো বলা হবে, হে আবুদ দারদা, তুমি তো জেনেছিলে, যা জেনেছিলে তা নিয়ে কী আমল করেছ?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding the Whole Book",
+          "bn": "পুরো কিতাব আঁকড়ে ধরা"
+        },
+        "p": [
+          {
+            "en": "The first lesson concerns the picture of Allah a person carries. The commentators locate the failure in a Lord imagined as silent, who sets up no proof, gives no command and leaves His servants neglected. A believer can hold that picture without saying it, whenever life is treated as something to work out alone and the Qur'an as optional. To give Allah His measure is to expect to be spoken to, and then to listen.",
+            "bn": "প্রথম শিক্ষা মনের ভেতরে আল্লাহর যে ছবি থাকে, তা নিয়ে। মুফাসসিররা ভুলটা খুঁজে পান এমন এক রবের ধারণায়, যাঁকে নীরব কল্পনা করা হয়: তিনি দলিল দাঁড় করান না, আদেশ দেন না, বান্দাদের লাগামহীন ছেড়ে দেন। মুমিনও মুখে না বলে এ ছবি লালন করতে পারে, যখন জীবনকে একা সামলানোর বিষয় আর কুরআনকে ইচ্ছে হলে পড়ার বই মনে করে। আল্লাহকে তাঁর যথাযোগ্য মর্যাদা দেওয়া মানে এ প্রত্যাশা রাখা যে তিনি কথা বলবেন, তারপর সে কথা শোনা।"
+          },
+          {
+            "en": "The second concerns selection. The charge against those who held the Torah was not that they lost it but that they handled it, showing the pages that suited them and hiding much. The same temptation sits close to anyone who quotes scripture in a debate or a quarrel. Al-Qurtubi draws a ruling from the word: this is blame of them, and so the scholars disliked writing the Qur'an in separate parts. The Book is meant to be held whole.",
+            "bn": "দ্বিতীয় শিক্ষা বাছাই নিয়ে। তাওরাত যাদের হাতে ছিল, তাদের বিরুদ্ধে অভিযোগ এই নয় যে তারা কিতাব হারিয়েছিল। অভিযোগ হলো তারা কিতাব নিয়ে কারসাজি করেছিল: পছন্দের পাতা দেখাত, অনেকটাই লুকাত। তর্কে বা ঝগড়ায় যে-ই কিতাবের কথা উদ্ধৃত করে, একই প্রলোভন তার কাছেই ওত পেতে থাকে। কুরতুবী শব্দটি থেকেই একটি বিধান বের করেন: এটা তাদের নিন্দা, আর এ কারণেই আলেমরা কুরআনকে আলাদা আলাদা অংশে লেখা অপছন্দ করেছেন। কিতাবকে আঁকড়ে ধরতে হবে পুরোটাই।"
+          },
+          {
+            "en": "The third concerns knowledge: you were taught what neither you nor your fathers knew. Qatada read the verse as blame for people given knowledge who did not act on it, and the saying he passes on from Abu ad-Darda puts that question to every reader. The reports about Malik ibn as-Sayf add a warning: anger in an argument can push a person to deny what he himself believes. Make the point, give the answer plainly, then leave the game to those who want it.",
+            "bn": "তৃতীয় শিক্ষা জ্ঞান নিয়ে: তোমাদের এমন জিনিস শেখানো হয়েছে, যা তোমরা জানতে না, তোমাদের বাপ-দাদারাও না। কাতাদা আয়াতটিকে পড়েছেন এমন লোকদের নিন্দা হিসেবে, যাদের জ্ঞান দেওয়া হয়েছিল অথচ তারা আমল করেনি। আবুদ দারদা (রাঃ)-এর যে উক্তি তিনি পৌঁছে দেন, সে প্রশ্ন প্রত্যেক পাঠকের সামনেই রাখা। মালিক ইবনুস সাইফের বর্ণনাগুলো একটা সতর্কবার্তা যোগ করে: তর্কের রাগ মানুষকে নিজের বিশ্বাসের কথাও অস্বীকার করিয়ে ছাড়তে পারে। নিজের কথা বলুন, জবাবটা পরিষ্কার দিন, তারপর খেলাটা তাদের হাতেই ছেড়ে দিন যারা খেলতে চায়।"
+          }
+        ]
+      }
+    ]
+  },
   "6:93": {
     "sections": [
       {
