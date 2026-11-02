@@ -16,6 +16,10 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## WAVE 2 (2026-11-02): more ayahs.
 GROUP SHIP 1: v1310-v1340 (31 keys) pushed + deployed 2026-11-02. USER: "Enrich with 10 agents" -> chose "Tadabbur: more ayahs".
+GROUP SHIP 2: v1341-v1362 (22 keys) pushed + deployed 2026-11-02 ~11:35. Paused at 7d 84% (reset Mon 2 Nov 16:00); nothing in flight.
+RESUME: after the 16:00 reset, 12 drafters; 504 targets left; next: 5:21 5:33 5:38 5:51 5:68 5:75 5:87 5:101 5:114 6:10 6:21 6:34. Superseded single-key audit folders (audit/2_4, 2_68, 3_33, ...) are leftovers, safe to delete.
+OPEN (user decides): data/nuzul/asbab-w6-batch.json 3:195 entry says Tirmidhi 3023 "graded hasan sahih"; the fetched quranx page (audit/3_195/hadith_Tirmidhi_3023.txt) carries no grading from at-Tirmidhi. Unverified either way.
+NOTE: 4:152-153 (at-Tabari, al-Qurtubi, al-Muyassar: calf after the revival) and 2:55-56 (Ibn Ishaq: the seventy went out to repent for the calf) give different sequences; both attributed, difference not mentioned in either.
 New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-targets-2.js): 1 per 4 ayahs, same bucket/most-cited method, only buckets with no shipped coverage -> 557 new keys. queue.js reads both target files. Same main-loop pipeline (prep, BRIEF, gate, ship.sh, commit.sh); 12 drafters in parallel (USER 2026-11-02: "we can run 12 agents - boost production"; was 10). Pause new launches at ~85% 7d, resume after the reset. Group-ship rule stands: push+deploy once >30 gated.
 
 | key | v | status |
@@ -49,20 +53,30 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 3:39-41 | v1335 | DONE |
 | 3:59-61 | v1337 | DONE |
 | 3:70-71 | v1339 | DONE |
-| 3:96-97 | | LAUNCHED |
+| 3:96-97 | v1341 | DONE |
 | 3:110-112 | v1340 | DONE |
 | 3:130-132 | v1336 | DONE |
-| 3:144 | | LAUNCHED |
-| 3:154 | | LAUNCHED |
-| 3:164 | | LAUNCHED |
-| 3:171 | | LAUNCHED |
-| 3:183 | | LAUNCHED |
-| 3:195 | | LAUNCHED |
-| 4:6 | | LAUNCHED |
-| 4:29 | | LAUNCHED |
-| 4:46 | | LAUNCHED |
-| 4:52 | | LAUNCHED |
-| 4:65 | | LAUNCHED |
+| 3:144 | v1342 | DONE |
+| 3:154 | v1343 | DONE |
+| 3:164 | v1344 | DONE |
+| 3:169-171 | v1348 | DONE |
+| 3:183-184 | v1345 | DONE |
+| 3:195 | v1346 | DONE |
+| 4:5-6 | v1347 | DONE |
+| 4:29-30 | v1349 | DONE |
+| 4:46 | v1350 | DONE |
+| 4:49-52 | v1352 | DONE |
+| 4:65 | v1351 | DONE |
+| 4:74-76 | v1353 | DONE |
+| 4:97-99 | v1354 | DONE |
+| 4:105-107 | v1355 | DONE |
+| 4:118-120 | v1357 | DONE |
+| 4:123-124 | v1356 | DONE |
+| 4:129-130 | v1360 | DONE |
+| 4:140 | v1358 | DONE |
+| 4:152-153 | v1359 | DONE |
+| 4:176 | v1361 | DONE |
+| 5:12 | v1362 | DONE |
 
 ## LIVE STATE (2026-10-26 16:01, DEPTH PASS COMPLETE 2026-10-26: 301/301 short articles deep; all 1061 Tadabbur articles at deep template. USER (16:12): "run 10 at a time"; USER (later): "stop once all done for now" -> no new launches; ship the 9 in flight, then STOP. USER: no per-ayah deploy reminders; ship + push in GROUPS of >30 gated drafts (not per ayah); deploy once per group. Last group ship v1302-v1308 (7 articles). DEPLOYED 2026-10-26: live sw.js = lq-v1308 (user ran deploy; agent deploy also succeeded this time). 301/301 done. v1099-v1186 pushed, v1187-v1308 committed. LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1186. Budget at stop: 7d 0% (window reset at 16:00, next reset Mon 2 Nov 16:00), 5h ~32% (resets 18:40). In flight: none. Queue: empty. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 32:16 32:17 33:35 are PREPPED (32:16-17 is NOT a key; the shipped articles are 32:16 and 32:17 separately), then prep onward; launch 5 drafters per the skill. Lessons today: when cutting a sentence post-draft, verify the write happened and re-gate BEFORE shipping (55:46-47 shipped once with the line intact and once under the paragraph floor); ship+commit one key before shipping the next (v1147-v1148 bump-only, folded into v1149); when cutting a Bengali sentence match by position, not by pasted string (nukta encoding differs); never force-push)
 
