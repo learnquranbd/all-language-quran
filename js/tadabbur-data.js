@@ -20691,6 +20691,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guidance usually reaches you through a person you know; do not let familiarity become the reason you refuse the reminder they bring.",
     "lessonBn": "হিদায়াত সাধারণত আসে চেনা কোনো মানুষের মাধ্যমে। পরিচিতিকে সেই উপদেশ ফিরিয়ে দেওয়ার কারণ বানাবেন না।"
+  },
+  "7:80": {
+    "reflectionEn": "Lut (AS) faces his people with a question, not a curse: do you commit an indecency that no one in all the worlds did before you? Their reply contains no argument at all. Put them out of your town, they say; these are people who keep themselves pure. Purity has become the charge against them. Then the rescue comes, and it follows faith rather than blood: he and his family are saved, except his wife, who is among those who stayed behind. The passage condemns a deed and describes one people; it hands no one a warrant against anyone living. What it asks is about me. Have I ever mocked someone for refusing what everyone around them had made normal? And what have I started that others now copy?",
+    "reflectionBn": "লূত (আঃ) তাঁর সম্প্রদায়ের সামনে দাঁড়ান অভিশাপ নিয়ে নয়, একটা প্রশ্ন নিয়ে: তোমরা কি এমন অশ্লীল কাজ করছ, যা জগতের কেউ তোমাদের আগে করেনি? তাদের জবাবে কোনো যুক্তিই নেই। তারা বলে, এদের তোমাদের জনপদ থেকে বের করে দাও, এরা তো খুব পবিত্র থাকতে চায়। পবিত্রতাই হয়ে গেল অভিযোগ। তারপর আসে উদ্ধার, আর তা আসে ঈমানের পথ ধরে, রক্তের সম্পর্ক ধরে নয়। তিনি আর তাঁর পরিবার রক্ষা পান, শুধু তাঁর স্ত্রী থেকে যায় পেছনে থাকা লোকদের দলে। এ আয়াতগুলো একটা কাজের নিন্দা করে আর একটা জাতির বর্ণনা দেয়। কোনো জীবিত মানুষের বিরুদ্ধে কাউকে কোনো সনদ দেয় না। প্রশ্নটা বরং আমাকে নিয়ে। চারপাশের সবাই যা স্বাভাবিক বানিয়ে ফেলেছে, কেউ তা করতে রাজি না হলে আমি কি কখনো তাকে নিয়ে ঠাট্টা করেছি? আর আমার শুরু করা কোন জিনিস আজ অন্যরা অনুসরণ করছে?",
+    "pointsEn": [
+      "When someone near me declines a wrong that has become normal, do I respect the refusal, or make a joke of their 'purity'?",
+      "Is there a habit in my home, workplace or circle that began with me, and would I want to carry the weight of everyone who copied it?",
+      "When I am corrected, do I answer the point, or look for a way to push the person who made it out of the room?",
+      "Am I leaning on whom I belong to, my family, my community, my name, for a safety that only faith can give?",
+      "Can I name a wrong as plainly as the Qur'an names it without letting contempt for people into my voice?"
+    ],
+    "pointsBn": [
+      "চারপাশে স্বাভাবিক হয়ে যাওয়া কোনো অন্যায় কেউ করতে রাজি না হলে আমি কি তার অস্বীকারকে সম্মান করি, নাকি তার 'পবিত্রতা' নিয়ে ঠাট্টা করি?",
+      "আমার ঘরে, কর্মস্থলে বা বন্ধুমহলে এমন কোনো অভ্যাস কি আছে, যা আমার হাত দিয়েই শুরু? যারা দেখাদেখি তা করেছে, তাদের সবার বোঝা কি আমি বইতে চাইব?",
+      "কেউ আমার ভুল ধরিয়ে দিলে আমি কি তার কথার জবাব দিই, নাকি তাকেই কীভাবে সরিয়ে দেওয়া যায়, সেই পথ খুঁজি?",
+      "আমি কি পরিবার, সমাজ বা নিজের নামের ওপর ভরসা করে এমন নিরাপত্তা খুঁজছি, যা কেবল ঈমানই দিতে পারে?",
+      "মানুষের প্রতি ঘৃণা কণ্ঠে না এনে আমি কি কুরআনের মতো সোজাসুজি একটা অন্যায়কে অন্যায় বলতে পারি?"
+    ],
+    "lessonEn": "Name a wrong as plainly as the verse does, never mock those who refuse it, and do not start a harm that others will copy after you.",
+    "lessonBn": "আয়াত যেমন সোজাসুজি বলে, তেমনি অন্যায়কে অন্যায় বলুন। যারা তা থেকে দূরে থাকে, তাদের নিয়ে কখনো ঠাট্টা করবেন না। আর এমন কোনো ক্ষতির সূচনা করবেন না, যা আপনার পরে অন্যরা অনুসরণ করবে।"
   }
 };
 

@@ -2967,6 +2967,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:80": {
+    "sections": [
+      {
+        "h": {
+          "en": "Fourth in the Chain",
+          "bn": "ধারাবাহিকতার চতুর্থ কাহিনি"
+        },
+        "p": [
+          {
+            "en": "Surah al-A'raf tells its messengers one after another, and Ma'arif al-Qur'an counts this as the fourth story in the series. Salih's account closes at 7:79, where he turns away from Thamud; 7:85 opens the account of Madyan. Between them, five verses belong to Lut (AS): his question here, its plain statement in 7:81, his people's answer in 7:82, the rescue with one exception in 7:83, and the rain in 7:84. None of the tafsirs fetched for these five verses reports an occasion of revelation, so what the passage carries is its place in the chain.",
+            "bn": "সূরা আল-আ'রাফ নবীদের কাহিনি বলে একটার পর একটা। মাআরিফুল কুরআনের হিসাবে এটি সেই ধারার চতুর্থ কাহিনি। সালিহ (আঃ)-এর কাহিনি শেষ হয় ৭:৭৯ আয়াতে, যেখানে তিনি সামূদের কাছ থেকে মুখ ফিরিয়ে নেন। ৭:৮৫ আয়াতে শুরু মাদইয়ানের কথা। এ দুইয়ের মাঝে পাঁচটি আয়াত লূত (আঃ)-এর। এখানে তাঁর প্রশ্ন, ৭:৮১ আয়াতে তার সোজা ব্যাখ্যা, ৭:৮২ আয়াতে সম্প্রদায়ের জবাব, ৭:৮৩ আয়াতে একজনকে বাদ রেখে উদ্ধার, আর ৭:৮৪ আয়াতে বৃষ্টি। এ পাঁচ আয়াতের জন্য সংগৃহীত কোনো তাফসীরে শানে নুযূলের উল্লেখ নেই। তাই এ অংশের তাৎপর্য বোঝা যায় ধারার ভেতরে তার অবস্থান থেকে।"
+          },
+          {
+            "en": "The opening words differ from the two accounts before. Hud and Salih were introduced with wa-ila, and to Aad their brother, and to Thamud their brother; here there is only wa-Lutan, and Lut. At-Tabari reads it as and We certainly sent Lut, and adds that remember Lut, O Muhammad, would also be a valid reading, since the sentence lacks the link of sending that Aad and Thamud had. Al-Baghawi and al-Qurtubi give both. Ibn Kathir and al-Baghawi add who he was: Ibrahim's nephew, who believed with him, emigrated with him to al-Sham, and was sent to the people of Sadum and the towns around it.",
+            "bn": "শুরুর শব্দগুলোও আগের দুই কাহিনি থেকে আলাদা। হূদ ও সালিহ (আঃ)-এর পরিচয় এসেছিল ওয়া ইলা দিয়ে: আদের কাছে তাদের ভাই, সামূদের কাছে তাদের ভাই। এখানে শুধু ওয়া লূতান, আর লূতকে। তাবারী এর অর্থ নেন, আর আমি অবশ্যই লূতকে পাঠিয়েছিলাম। তিনি এ-ও বলেন, হে মুহাম্মাদ, লূতকে স্মরণ করো, এই পাঠও চলতে পারে। কারণ আদ ও সামূদের বেলায় যেমন পাঠানোর সংযোগ-শব্দ ছিল, এখানে তা নেই। বাগাভী ও কুরতুবী দুটো অর্থই উল্লেখ করেন। ইবন কাসীর ও বাগাভী তাঁর পরিচয়ও দেন। তিনি ইবরাহীম (আঃ)-এর ভাতিজা, তাঁর সঙ্গে ঈমান আনেন, তাঁর সঙ্গে হিজরত করে শাম অঞ্চলে যান। তারপর আল্লাহ তাঁকে পাঠান সাদুম ও তার আশপাশের জনপদের মানুষের কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Indecency, Made Definite",
+          "bn": "নির্দিষ্ট করে বলা অশ্লীলতা"
+        },
+        "p": [
+          {
+            "en": "A-ta'tuna al-fahishah: do you commit the indecency? At-Tabari: the indecency they used to commit, for which Allah punished them, was approaching males; al-Baghawi and al-Qurtubi say the same. The next verse names it in the Qur'an's own measured terms: you approach men with desire instead of women. At-Tabari glosses instead of women as instead of what Allah made lawful and permitted for you, and reads the closing musrifun, a people who exceed bounds, as people who do what Allah has forbidden them and disobey Him by it.",
+            "bn": "আতা'তূনাল ফাহিশাহ: তোমরা কি সেই অশ্লীল কাজ করছ? তাবারীর ভাষায়, যে অশ্লীলতা তারা করত আর যার জন্য আল্লাহ তাদের শাস্তি দিয়েছেন, তা পুরুষদের কাছে যাওয়া। বাগাভী ও কুরতুবীও একই কথা বলেন। পরের আয়াত কুরআনের নিজস্ব সংযত ভাষায় সেটা সরাসরি বলে দেয়: তোমরা নারীদের বাদ দিয়ে কামনা নিয়ে পুরুষদের কাছে যাও। তাবারী নারীদের বাদ দিয়ে কথাটার ব্যাখ্যা দেন এভাবে: আল্লাহ তোমাদের জন্য যা হালাল ও বৈধ করেছেন, তা ছেড়ে। আয়াতের শেষে মুসরিফূন, অর্থাৎ সীমালঙ্ঘনকারী সম্প্রদায়। তাবারী এর মানে বলেন, যারা আল্লাহর নিষিদ্ধ কাজ করে আর এর মাধ্যমে তাঁর নাফরমানি করে।"
+          },
+          {
+            "en": "Why the indecency, with the article? Ma'arif al-Qur'an compares 17:32, where zina is called fahishah without it; making the word definite here hints, it says, that this act is like the combination of indecencies. As-Sa'di reaches a similar sense in his own words: the trait that, in enormity and foulness, reached the point of taking in every kind of indecency. Al-Qurtubi draws the link to 17:32 the other way: Allah gave it the name fahishah to show that it counts as zina. The two are kept side by side here. The Muyassar keeps to one line: the deed that reached the limit of ugliness.",
+            "bn": "শব্দটা কেন নির্দিষ্ট করে বলা, আল-ফাহিশাহ? মাআরিফুল কুরআন তুলনা টানে ১৭:৩২ আয়াতের সঙ্গে। সেখানে যিনাকে বলা হয়েছে ফাহিশাহ, আলিফ-লাম ছাড়া। এখানে শব্দটা নির্দিষ্ট করায় ইশারা পাওয়া যায়, মাআরিফের ভাষায়, এ কাজ যেন সব অশ্লীলতার সমষ্টি। সা'দী নিজের ভাষায় কাছাকাছি অর্থে পৌঁছান: এমন স্বভাব, যা ভয়াবহতা আর কদর্যতায় এত দূর গেছে যে সব ধরনের অশ্লীলতাকে নিজের ভেতরে টেনে নিয়েছে। কুরতুবী ১৭:৩২ আয়াতের সঙ্গে সম্পর্কটা টানেন অন্যভাবে। তাঁর মতে আল্লাহ একে ফাহিশাহ নাম দিয়েছেন এটা বোঝাতে যে এটিও যিনার মধ্যে গণ্য। দুই মতই এখানে পাশাপাশি রাখা হলো। মুয়াসসার একটি বাক্যে থামে: এমন কাজ, যা কদর্যতার শেষ সীমায় পৌঁছেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Had Come Before",
+          "bn": "আগে কেউ আসেনি এ পথে"
+        },
+        "p": [
+          {
+            "en": "Ma sabaqakum biha min ahadin min al-'alamin: no one in the worlds preceded you in it. At-Tabari reads it straight: no one of the worlds went before you in doing this indecency. He supports it with a report through his chain from 'Amr ibn Dinar, who said that such a thing was not seen among men until the people of Lut; Ibn Kathir and al-Baghawi carry the same report. Al-Qurtubi takes the min before ahad as covering the whole kind: it existed in no nation before them.",
+            "bn": "মা সাবাকাকুম বিহা মিন আহাদিম মিনাল আলামীন: জগতের কেউ এতে তোমাদের আগে যায়নি। তাবারী কথাটা সরাসরিই পড়েন: জগতের কেউ এ অশ্লীল কাজে তোমাদের আগে যায়নি। নিজের সনদে তিনি আমর ইবন দীনারের একটি বক্তব্য আনেন: লূতের সম্প্রদায়ের আগে পুরুষদের মধ্যে এমন কিছু দেখা যায়নি। ইবন কাসীর ও বাগাভীও একই বক্তব্য উদ্ধৃত করেন। কুরতুবী আহাদ শব্দের আগের মিন-কে ধরেন গোটা জাতকে শামিল করার অর্থে। অর্থাৎ তাদের আগে কোনো জাতির মধ্যেই এর অস্তিত্ব ছিল না।"
+          },
+          {
+            "en": "Ibn Kathir widens the sentence into the history of people. He writes that this was something the children of Adam were not used to and did not know, and that it never crossed their minds until the people of Sadum did it. He then cites a remark of the Umayyad caliph al-Walid ibn 'Abd al-Malik: had Allah not told us the account of Lut, he would not have supposed such a thing could happen. That, Ibn Kathir closes, is why Lut (AS) put it to them in exactly these words.",
+            "bn": "ইবন কাসীর বাক্যটিকে মানুষের ইতিহাসের দিকে প্রসারিত করেন। তিনি লেখেন, বনী আদম এ জিনিসে অভ্যস্ত ছিল না, এর সঙ্গে পরিচিত ছিল না। সাদুমবাসীরা করার আগে এটা তাদের মাথাতেই আসেনি। তারপর তিনি উমাইয়া খলীফা ওয়ালীদ ইবন আবদুল মালিকের একটি মন্তব্য উদ্ধৃত করেন। আল্লাহ যদি আমাদের লূতের কাহিনি না শোনাতেন, তাহলে এমন কিছু যে ঘটতে পারে, তা তিনি কল্পনাও করতেন না। ইবন কাসীর শেষ করেন এই বলে যে এ কারণেই লূত (আঃ) ঠিক এই ভাষায় কথাটা তাদের সামনে রেখেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Burden of Starting It",
+          "bn": "সূচনা করার বোঝা"
+        },
+        "p": [
+          {
+            "en": "Why does the verse stress that they were first? As-Sa'di counts two wrongs in the sentence: that the deed was a fahishah is among the foulest of things, and that they invented it, originated it and set it as a practice for those after them is also among the worst there can be. Ma'arif al-Qur'an makes the same pair of points at more length. Some sins are carried along by custom or by following one's elders, which is no valid excuse in the Shari'ah. A sin no one had done before, with no pressure behind it, is graver, and its starter carries the share of all who follow.",
+            "bn": "আয়াত কেন জোর দেয় যে তারাই প্রথম? সা'দী এ বাক্যে দুটি অন্যায় গোনেন। কাজটা ফাহিশাহ হওয়া জঘন্যতম জিনিসগুলোর একটি। আবার তারা এটা উদ্ভাবন করেছে, নতুন করে চালু করেছে, পরবর্তীদের জন্য রীতি বানিয়ে রেখে গেছে, এটাও সবচেয়ে মন্দ কাজগুলোর মধ্যে পড়ে। মাআরিফুল কুরআন একই দুটি কথা বলে আরও বিস্তারিতভাবে। কিছু গুনাহ মানুষ করে সমাজের চাপে বা বড়দের অন্ধ অনুসরণে, যদিও শরীআতে তা কোনো বৈধ অজুহাত নয়। কিন্তু যে গুনাহ আগে কেউ করেনি, যার পেছনে কোনো চাপও নেই, তা আরও গুরুতর। আর যে তা শুরু করে, পরে যারা অনুসরণ করে তাদের সবার ভাগও তার ঘাড়ে চাপে।"
+          },
+          {
+            "en": "A hadith in Sahih Muslim (1017), not tied to this verse and not cited by the tafsirs on it, states the principle they describe. After people gave freely for poor arrivals from Mudar, the Prophet ﷺ said: He who sets a good precedent in Islam, there is a reward for him for this, and reward of that also who acted according to it subsequently, without any deduction from their rewards; and he who sets in Islam an evil precedent, there is upon him the burden of that, and the burden of him also who acted upon it subsequently, without any deduction from their burden.",
+            "bn": "সহীহ মুসলিমের একটি হাদীস (১০১৭) এ নীতিটাই বলে দেয়। হাদীসটি এ আয়াতের সঙ্গে যুক্ত নয়, আর এ আয়াতের তাফসীরেও তা উদ্ধৃত হয়নি। মুদার গোত্রের অভাবী কিছু মানুষ আসার পর সবাই যখন অকাতরে দান করল, তখন নবী ﷺ বললেন: যে ইসলামে কোনো ভালো রীতি চালু করে, তার জন্য রয়েছে এর সওয়াব, এবং পরে যারা সে অনুযায়ী আমল করবে তাদের সওয়াবও, তাদের সওয়াব থেকে কিছুই কমানো হবে না। আর যে ইসলামে কোনো মন্দ রীতি চালু করে, তার উপর রয়েছে এর বোঝা, এবং পরে যারা সে অনুযায়ী আমল করবে তাদের বোঝাও, তাদের বোঝা থেকে কিছুই কমানো হবে না।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, cites a narration from Jabir ibn 'Abdullah through Ibn Majah. At-Tirmidhi records it (1457) in these words: What I fear most from my Ummah is the behavior of the people of Lut. He grades it hasan gharib, known only through this one route. It is a general saying, not an account of the verse's revelation, and the Prophet ﷺ voices the fear for his own community, not as a charge against anyone outside it.",
+            "bn": "কুরতুবী এ আয়াতের আলোচনায় ইবন মাজাহর সূত্রে জাবির ইবন আবদুল্লাহ (রাঃ)-এর একটি বর্ণনা উদ্ধৃত করেন। তিরমিযী তা লিপিবদ্ধ করেছেন (১৪৫৭) এই ভাষায়: আমার উম্মতের ব্যাপারে আমি সবচেয়ে বেশি যে জিনিসের ভয় করি, তা হলো লূতের সম্প্রদায়ের আচরণ। তিরমিযী একে হাসান গরীব বলেছেন, অর্থাৎ শুধু এই একটি সূত্রেই তা জানা যায়। এটি একটি সাধারণ বক্তব্য, আয়াত নাযিলের কোনো ঘটনা নয়। নবী ﷺ ভয়টা প্রকাশ করছেন নিজের উম্মতের জন্য, বাইরের কারও বিরুদ্ধে অভিযোগ হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purity Turned Into a Charge",
+          "bn": "পবিত্রতাই যখন অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "7:82 gives their whole reply, and it is not an argument: the answer of his people was only that they said, expel them from your town. At-Tabari explains it as what they said to each other once he rebuked them, and the plural them as Lut and his family, or Lut and those who followed his religion, the followers folded into his name. Ma'arif al-Qur'an notes that they could find no fitting rejoinder to what he had said. Ibn Kathir adds the outcome: they resolved to drive out him and the believers with him, and Allah brought him out safe.",
+            "bn": "৭:৮২ আয়াতে তাদের পুরো জবাবটাই আছে, আর তাতে কোনো যুক্তি নেই: তার সম্প্রদায়ের জবাব এ ছাড়া আর কিছু ছিল না যে, এদের তোমাদের জনপদ থেকে বের করে দাও। তাবারী বলেন, লূত (আঃ) যখন তাদের তিরস্কার করলেন, তখন তারা নিজেরা একে অন্যকে এ কথা বলল। বহুবচন 'এদের' মানে লূত ও তাঁর পরিবার, অথবা লূত ও তাঁর দ্বীনের অনুসারীরা। অনুসারীরা তাঁর নামের ভেতরেই ধরা আছে। মাআরিফুল কুরআন লক্ষ করে, তাঁর কথার কোনো যুতসই জবাব তারা খুঁজে পায়নি। ইবন কাসীর পরিণতিটাও জানান। তারা ঠিক করেছিল তাঁকে আর তাঁর সঙ্গের মুমিনদের তাড়িয়ে দেবে, আর আল্লাহ তাঁকে নিরাপদে বের করে আনলেন।"
+          },
+          {
+            "en": "Then the reason they give: innahum unasun yatatahharun, they are people who keep themselves pure. At-Tabari reads it as their own words: Lut and his followers keep themselves clear of what we do. Al-Qurtubi defines tatahhara as keeping oneself clear of sin. Qatada, in at-Tabari, names what the sentence is: they faulted them with no fault and blamed them with no blame; al-Qurtubi and Ibn Kathir carry the same remark. As-Sa'di pairs it with 85:8: they resented nothing in them except that they believed in Allah, the Mighty, the Praiseworthy. Ma'arif hears mockery in it: these people seem self-righteous, claiming much purity.",
+            "bn": "তারপর তারা যে কারণ দেখায়: ইন্নাহুম উনাসুঁই ইয়াতাতাহহারূন, এরা এমন লোক যারা পবিত্র থাকতে চায়। তাবারী একে তাদের নিজেদের কথা হিসেবেই পড়েন: আমরা যা করি, লূত আর তাঁর অনুসারীরা তা থেকে নিজেদের দূরে রাখে। কুরতুবী তাতাহহারা শব্দের অর্থ বলেন গুনাহ থেকে নিজেকে দূরে রাখা। তাবারীর বর্ণনায় কাতাদা বাক্যটার আসল চেহারা ধরিয়ে দেন: তারা এমন দোষে তাদের দোষী করল যা কোনো দোষই নয়, এমন নিন্দা করল যা নিন্দার কিছু নয়। কুরতুবী ও ইবন কাসীরও এ মন্তব্য উদ্ধৃত করেন। সা'দী এর পাশে রাখেন ৮৫:৮ আয়াত: তারা তাদের ওপর ক্ষুব্ধ হয়েছিল শুধু এ কারণে যে তারা পরাক্রমশালী, প্রশংসিত আল্লাহর ওপর ঈমান এনেছিল। মাআরিফ এতে বিদ্রূপ শুনতে পায়: এরা খুব ধার্মিক সাজে, নিজেদের বড় পবিত্র দাবি করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saved, Save One",
+          "bn": "সবাই রক্ষা পেল, একজন ছাড়া"
+        },
+        "p": [
+          {
+            "en": "7:83: so We saved him and his family, except his wife; she was of those who stayed behind. The saving is Allah's own act, We saved, and so is the exception. Who were the family? Ibn Kathir says no one believed in him except his own household, and cites 51:35 and 51:36, where only one house of Muslims was found there. Al-Baghawi says his believing family, and reports a view that it means his two daughters. Ma'arif al-Qur'an records both readings: his household alone, or his household and the few others who had joined him in faith.",
+            "bn": "৭:৮৩: অতঃপর আমি তাকে ও তার পরিবারকে রক্ষা করলাম, তার স্ত্রী ছাড়া; সে ছিল পেছনে থেকে যাওয়াদের একজন। রক্ষা করা আল্লাহর নিজের কাজ, আমি রক্ষা করলাম। বাদ পড়াটাও তাঁরই সিদ্ধান্ত। পরিবার বলতে কারা? ইবন কাসীর বলেন, তাঁর নিজের ঘরের লোকেরা ছাড়া আর কেউ তাঁর ওপর ঈমান আনেনি। প্রমাণ হিসেবে তিনি আনেন ৫১:৩৫ ও ৫১:৩৬ আয়াত, যেখানে বলা হয়েছে, সেখানে মুসলমানদের একটি ঘর ছাড়া আর কিছু পাওয়া যায়নি। বাগাভী বলেন, তাঁর মুমিন পরিবার, আর একটি মত উল্লেখ করেন যে এর মানে তাঁর দুই মেয়ে। মাআরিফুল কুরআন দুই মতই রাখে: শুধু তাঁর ঘরের লোকেরা, অথবা তাঁরা এবং ঈমান এনে তাঁর সঙ্গে যোগ দেওয়া অল্প কয়েকজন।"
+          },
+          {
+            "en": "What was her fault? At-Tabari says in one clause that she was treacherous towards Lut and disbelieving in Allah. Ibn Kathir spells out the treachery: she did not believe in him and stayed on her people's religion, siding with them against him, and she let them know of the guests who came to him by signals agreed between her and them. That is what the texts name: unbelief, and taking her people's side against her husband. None of the tafsirs fetched for these verses says she took part in the act itself, and nothing here faults Lut (AS).",
+            "bn": "তাঁর স্ত্রীর দোষ কী ছিল? তাবারী একটি বাক্যে বলেন, সে লূতের প্রতি বিশ্বাসঘাতক আর আল্লাহর প্রতি অবিশ্বাসী ছিল। ইবন কাসীর সেই বিশ্বাসঘাতকতার ব্যাখ্যা দেন। সে লূতের ওপর ঈমান আনেনি, নিজ সম্প্রদায়ের ধর্মেই থেকে গিয়েছিল, তাঁর বিরুদ্ধে তাদের পক্ষ নিত। তাঁর কাছে কোনো অতিথি এলে নিজেদের মধ্যে ঠিক করা ইশারায় সে তাদের খবর দিয়ে দিত। গ্রন্থগুলো এটুকুই বলে: কুফর, আর স্বামীর বিরুদ্ধে নিজ সম্প্রদায়ের পক্ষ নেওয়া। এ আয়াতগুলোর জন্য সংগৃহীত কোনো তাফসীর বলে না যে সে নিজে ওই কাজে অংশ নিয়েছিল। আর লূত (আঃ)-এর কোনো দোষের কথা এখানে নেই।"
+          },
+          {
+            "en": "Min al-ghabirin: of those who remained. At-Tabari and Ibn Kathir gloss it so; Qatada, through at-Tabari, and Ibn 'Abbas with Qatada, through al-Qurtubi, add: remained in Allah's punishment. At-Tabari also gives a second sense, those who had lived long and grown old before the end came. How she died is told two ways. Ibn Kathir reports that some say she set out with them and looked back when the punishment fell, but judges it more apparent that she never left the town. Al-Qurtubi, on 7:84, says a stone overtook her while she was with him.",
+            "bn": "মিনাল গাবিরীন: যারা থেকে গিয়েছিল তাদের একজন। তাবারী ও ইবন কাসীর এভাবেই অর্থ করেন। তাবারীর সূত্রে কাতাদা, আর কুরতুবীর সূত্রে ইবন আব্বাস (রাঃ) ও কাতাদা যোগ করেন: আল্লাহর শাস্তির মধ্যে থেকে যাওয়া। তাবারী আরেকটি অর্থও দেন: ধ্বংস আসার আগে যারা দীর্ঘ আয়ু পেয়ে বার্ধক্যে পৌঁছেছিল। তার মৃত্যুর বিবরণ দুই রকম। ইবন কাসীর জানান, কেউ কেউ বলেন সে তাঁদের সঙ্গে বেরিয়েছিল, শাস্তি নামার সময় পেছন ফিরে তাকায়। তবে তাঁর কাছে বেশি স্পষ্ট মনে হয় যে সে শহর ছেড়ে বেরই হয়নি। কুরতুবী ৭:৮৪ আয়াতের আলোচনায় বলেন, সে লূত (আঃ)-এর সঙ্গে থাকা অবস্থায় একটি পাথর এসে তাকে আঘাত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rain, and a Look",
+          "bn": "এক বৃষ্টি, আর তাকিয়ে দেখা"
+        },
+        "p": [
+          {
+            "en": "7:84 says only: and We rained upon them a rain. Ibn Kathir explains it by 11:82 and 11:83, stones of baked clay, layered, marked from your Lord. At-Tabari calls it a rain of stones of sijjil by which We destroyed them, and as-Sa'di adds that the land was turned upside down. Then the turn to the hearer: so look how was the end of the criminals. At-Tabari takes the look as addressed to the Prophet ﷺ.",
+            "bn": "৭:৮৪ আয়াত শুধু বলে: আর আমি তাদের ওপর এক বৃষ্টি বর্ষণ করলাম। ইবন কাসীর এর ব্যাখ্যা দেন ১১:৮২ ও ১১:৮৩ আয়াত দিয়ে: পোড়া মাটির পাথর, স্তরে স্তরে সাজানো, তোমার রবের কাছে চিহ্নিত। তাবারী বলেন, সিজ্জীলের পাথরের বৃষ্টি, যা দিয়ে আমি তাদের ধ্বংস করলাম। সা'দী যোগ করেন, জমিনকে উল্টে দেওয়া হয়েছিল। তারপর কথা ফেরে শ্রোতার দিকে: অতএব দেখো, অপরাধীদের পরিণতি কেমন হয়েছিল। তাবারীর মতে এই দেখার নির্দেশ নবী ﷺ-কে উদ্দেশ করে।"
+          },
+          {
+            "en": "At-Tabari spells out what the look should find: the end of those who belied Allah and His messenger and committed what Allah forbade, was it anything but ruin? That, or punishment like it, he says, is the end of whoever among your people belies you and is too proud to believe, if they do not repent. The account is told to people who are still alive to hear it, and the warning carries its own door: if they do not repent.",
+            "bn": "সেই দেখায় কী পাওয়া যাবে, তাবারী খুলে বলেন। যারা আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছিল আর আল্লাহর নিষিদ্ধ কাজে লিপ্ত হয়েছিল, তাদের পরিণতি কি ধ্বংস ছাড়া আর কিছু হয়েছিল? তিনি বলেন, তোমার সম্প্রদায়ের মধ্যে যারা তোমাকে অস্বীকার করবে আর ঈমান আনতে অহংকার করবে, তাদের পরিণতিও এমন বা এর মতো কোনো শাস্তি, যদি তারা তওবা না করে। কাহিনিটা বলা হচ্ছে এমন মানুষদের, যারা শোনার জন্য এখনো বেঁচে আছে। আর সতর্কবাণীর সঙ্গেই খোলা আছে একটা দরজা: যদি তারা তওবা না করে।"
+          },
+          {
+            "en": "This must be said plainly. The passage describes what the text describes: one people, a deed the Qur'an names, a prophet rejected, and a punishment that came from Allah. It licenses nothing against any living person or community. It gives no one a warrant to threaten, shame or harm anyone. Lut (AS) met his people with a question and with counsel, and their answer was to plan his expulsion. Anyone who reads this story as permission for contempt or cruelty has turned a prophet's counsel into the opposite of what he brought.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ আয়াতগুলো ঠিক ততটুকুই বর্ণনা করে, যতটুকু পাঠে আছে: একটি জাতি, এমন এক কাজ যার নাম কুরআন নিজে বলেছে, প্রত্যাখ্যাত এক নবী, আর আল্লাহর পক্ষ থেকে আসা এক শাস্তি। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াতগুলো কোনো কিছুরই অনুমতি দেয় না। কাউকে হুমকি দেওয়া, অপমান করা বা ক্ষতি করার কোনো সনদ কারও হাতে তুলে দেয় না। লূত (আঃ) তাঁর সম্প্রদায়ের সামনে এসেছিলেন প্রশ্ন আর উপদেশ নিয়ে, আর তাদের জবাব ছিল তাঁকে তাড়ানোর পরিকল্পনা। যে এ কাহিনিকে ঘৃণা বা নিষ্ঠুরতার অনুমতি বলে পড়ে, সে একজন নবীর উপদেশকে বানিয়ে ফেলে তাঁর আনা বার্তার ঠিক উল্টো জিনিস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading It Against Myself",
+          "bn": "নিজের দিকে ফিরিয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "The passage turns on a moment that is not confined to Sadum. A man names a wrong, gently, as a question, and the reply is not a counter-argument but a plan to remove him, with his restraint offered as the reason. I can ask where I have done a small version of this, laughing at a colleague who will not join in, calling a friend's refusal self-righteous, or wanting the person who corrected me out of the circle rather than answering what they said.",
+            "bn": "যে মুহূর্তের ওপর এ অংশ দাঁড়িয়ে, তা শুধু সাদুমের নয়। একজন মানুষ নরম সুরে, প্রশ্নের আকারে, একটা অন্যায়ের নাম নেন। জবাবে আসে না কোনো পাল্টা যুক্তি, আসে তাঁকে সরিয়ে দেওয়ার পরিকল্পনা, আর কারণ হিসেবে দেখানো হয় তাঁর সংযমকেই। আমি নিজেকে জিজ্ঞেস করতে পারি, এর ছোট কোনো রূপ কি আমিও করেছি? কোনো সহকর্মী তাল না মেলালে তাকে নিয়ে হেসেছি? বন্ধুর অস্বীকারকে বলেছি ধার্মিক সাজা? বা যে আমার ভুল ধরিয়েছে, তার কথার জবাব না দিয়ে তাকেই দল থেকে সরাতে চেয়েছি?"
+          },
+          {
+            "en": "Two more questions come from the passage. The first is from as-Sa'di and the hadith in Muslim: what have I started that others now repeat, in my home, my work or my circle, and whose weight will I carry with it? The second is from the rescue in 7:83, which followed faith, not marriage or blood. Belonging to a good house did not save her when she sided against it. So I ask what I am leaning on: whom I am related to, or what I believe and do.",
+            "bn": "এ অংশ থেকে আরও দুটি প্রশ্ন আসে। প্রথমটা সা'দীর কথা আর মুসলিমের হাদীস থেকে: আমার ঘরে, কাজে বা বন্ধুমহলে আমার শুরু করা কোন জিনিস আজ অন্যরা করে যাচ্ছে? তার সঙ্গে কার কার বোঝা আমার কাঁধে উঠবে? দ্বিতীয়টা ৭:৮৩ আয়াতের উদ্ধার থেকে। সে উদ্ধার এসেছিল ঈমানের পথ ধরে, বিয়ে বা রক্তের সম্পর্ক ধরে নয়। ভালো ঘরের সদস্য হওয়াও তাকে বাঁচাতে পারেনি, যে সেই ঘরের বিরুদ্ধে পক্ষ নিয়েছিল। তাই নিজেকে জিজ্ঞেস করি, আমি কিসের ওপর ভরসা করছি: কার সঙ্গে আমার আত্মীয়তা, নাকি আমি কী বিশ্বাস করি আর কী করি?"
+          }
+        ]
+      }
+    ]
+  },
   "7:85": {
     "sections": [
       {
