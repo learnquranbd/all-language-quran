@@ -3563,6 +3563,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:93": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Town Fell Silent",
+          "bn": "জনপদ নীরব হওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "Madyan's account in al-A'raf runs from 7:85 to 7:93, and this verse is its last line. In 7:88 the arrogant chiefs threatened to drive Shu'ayb (AS) and the believers out of their town, and in 7:90 they warned their own people that whoever followed him would be among the losers. 7:91 brought the earthquake. 7:92 then names the deniers twice: those who denied Shu'ayb, it was as though they had never lived there; those who denied Shu'ayb, it was they who were the losers.",
+            "bn": "আল-আ'রাফে মাদইয়ানের বিবরণ ৭:৮৫ থেকে ৭:৯৩ পর্যন্ত, আর এই আয়াতটিই তার শেষ বাক্য। ৭:৮৮ আয়াতে অহংকারী সর্দারেরা হুমকি দিয়েছিল, শু'আয়ব (আঃ) আর মুমিনদের তারা জনপদ থেকে বের করে দেবে। ৭:৯০ আয়াতে তারা নিজেদের লোকদের সাবধান করেছিল: শু'আয়বের অনুসারী হলে তোমরা ক্ষতিগ্রস্ত হবে। ৭:৯১ আয়াতে এল ভূমিকম্প। এরপর ৭:৯২ আয়াত অস্বীকারকারীদের নাম নেয় দুবার। যারা শু'আয়বকে অস্বীকার করেছিল, যেন তারা সেখানে কখনো বাস করেনি। যারা শু'আয়বকে অস্বীকার করেছিল, ক্ষতিগ্রস্ত তো তারাই।"
+          },
+          {
+            "en": "Ibn Kathir reads that second sentence as set against what the chiefs had said, and al-Qurtubi makes the point outright: they had said that whoever follows Shu'ayb is a loser, and Allah answered that the losers were the ones who said it. Only then does the prophet speak, and these are his last words in the surah. After them the Quran stops narrating one people and states, in 7:94 and 7:95, a rule about every town to which a prophet was sent. It is read below beside his words.",
+            "bn": "ইবন কাসীরের মতে দ্বিতীয় বাক্যটি সর্দারদের সেই কথার জবাব। কুরতুবী কথাটা সরাসরি বলেন: তারা বলেছিল, শু'আয়বের অনুসারীরা ক্ষতিগ্রস্ত। আল্লাহ জবাব দিলেন, ক্ষতিগ্রস্ত তারাই যারা এ কথা বলেছিল। এর পরেই নবী মুখ খোলেন, আর এ সূরায় এটাই তাঁর শেষ কথা। তারপর কুরআন একটি জাতির কাহিনি থামিয়ে ৭:৯৪ ও ৭:৯৫ আয়াতে এমন এক নিয়ম বলে, যা প্রত্যেক জনপদের বেলায় খাটে যেখানে কোনো নবী পাঠানো হয়েছিল। নিচে নিয়মটিও তাঁর কথার পাশাপাশি পড়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Was Left Undelivered",
+          "bn": "পৌঁছাতে কিছুই বাকি থাকেনি"
+        },
+        "p": [
+          {
+            "en": "Ya qawmi la-qad ablaghtukum risalati rabbi: my people, I have certainly conveyed to you the messages of my Lord. As-Sa'di glosses the verb as awsaltuha ilaykum, I made them reach you, and presses it further: I made them plain, until they reached the furthest point they could reach in you and mingled with your hearts. At-Tabari spells out what was conveyed: the warning of Allah's anger at their persisting in disbelief in Him, and at their wronging people in their things, an echo of 7:85, where they are told not to cheat people of their things.",
+            "bn": "ইয়া কাওমি লাকাদ আবলাগতুকুম রিসালাতি রাব্বী: হে আমার জাতি, আমি তো তোমাদের কাছে আমার রবের বাণীগুলো পৌঁছে দিয়েছি। সা'দী ক্রিয়াটির ব্যাখ্যা দেন আওসালতুহা ইলাইকুম দিয়ে, অর্থাৎ আমি সেগুলো তোমাদের কাছে পৌঁছে দিয়েছি। তিনি আরও এগিয়ে বলেন: আমি সেগুলো খুলে বুঝিয়েছি, তোমাদের ভেতরে যতদূর পৌঁছানো সম্ভব ততদূর, এমনকি তা তোমাদের অন্তরে মিশে গেছে। কী পৌঁছানো হয়েছিল, তাবারী তা খুলে বলেন। আল্লাহর সঙ্গে কুফরিতে অটল থাকা আর মানুষকে তাদের জিনিসে ঠকানোর কারণে তাঁর ক্রোধ সম্পর্কে সতর্কবাণী। শেষের কথাটিতে ৭:৮৫ আয়াতের প্রতিধ্বনি শোনা যায়, যেখানে তাদের বলা হয়েছিল মানুষকে তাদের জিনিসে কম না দিতে।"
+          },
+          {
+            "en": "Wa nasahtu lakum: and I advised you. At-Tabari explains the advice as his commanding them to obey Allah and forbidding them to disobey Him. The Muyassar names its content as entering the religion of Allah and giving up what they were on, and then adds the result in Shu'ayb's own voice: but you did not listen and you did not obey. Both verbs stand in the finished tense. The message was carried and the people were cared for, and both were done.",
+            "bn": "ওয়া নাসাহতু লাকুম: আর আমি তোমাদের কল্যাণ কামনা করে উপদেশ দিয়েছি। তাবারীর ব্যাখ্যায় এই উপদেশ মানে আল্লাহর আনুগত্যের আদেশ আর তাঁর নাফরমানি থেকে নিষেধ। মুয়াসসার উপদেশের বিষয়টাও বলে দেয়: আল্লাহর দীনে প্রবেশ করা আর যে পথে তারা ছিল তা ছেড়ে দেওয়া। তারপর শু'আয়বের মুখে ফলাফলটাও জুড়ে দেয়: কিন্তু তোমরা শোনোনি, মানোওনি। দুটো ক্রিয়াই অতীত কালের, কাজ শেষ। বাণী পৌঁছেছে, মানুষের কল্যাণও চাওয়া হয়েছে। দুটোই পুরোপুরি করা হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To the Living, or the Dead",
+          "bn": "জীবিতদের, নাকি মৃতদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "Fa-tawalla 'anhum: so he turned from them. When he turned, and who heard what he then said, is where the commentators divide. Ibn Kathir places it after the punishment: Shu'ayb (AS) turned from them after what had struck them had struck them, and spoke as taqri' and tawbikh, a rebuke and a reproach. As-Sa'di is more explicit still. When they had perished, their prophet turned from them and spoke reproaching and censuring them, addressing them after their death. On this reading the people of Madyan were already gone, and the words were a verdict spoken over them.",
+            "bn": "ফাতাওয়াল্লা আনহুম: অতঃপর তিনি তাদের থেকে মুখ ফিরিয়ে নিলেন। কখন ফিরলেন, আর তাঁর কথা কে শুনল, এখানেই তাফসীরকারদের মত ভাগ হয়ে যায়। ইবন কাসীর ঘটনাটিকে আযাবের পরে রাখেন। তাঁর ভাষায়, তাদের উপর যা আসার তা এসে যাওয়ার পর শু'আয়ব (আঃ) মুখ ফিরিয়ে নেন এবং তাকরী' ও তাওবীখ হিসেবে, অর্থাৎ ভর্ৎসনা আর তিরস্কার করে কথাগুলো বলেন। সা'দী আরও স্পষ্ট। তারা ধ্বংস হয়ে গেলে তাদের নবী তাদের থেকে মুখ ফেরান এবং মৃত্যুর পর তাদের সম্বোধন করে তিরস্কার করেন। এই পাঠে মাদইয়ানবাসী তখন আর নেই, আর কথাগুলো তাদের উপর ঘোষিত রায়।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi frame the turning as a departure. At-Tabari says Shu'ayb (AS) went away from them, leaving from their midst, when the punishment of Allah came to them, and that he spoke these words when he became certain that Allah's retribution was descending on the people who had denied him. Al-Baghawi has the same departure. The Muyassar dates the turning to the moment he became certain the punishment would befall them, which places the words at the edge of the event rather than after it. The disagreement over timing is left as it stands.",
+            "bn": "তাবারী ও বাগাভী মুখ ফেরানোকে দেখেন প্রস্থান হিসেবে। তাবারী বলেন, আল্লাহর আযাব যখন তাদের কাছে এসে গেল, শু'আয়ব (আঃ) তাদের মাঝখান থেকে বেরিয়ে চলে গেলেন। আর যারা তাঁকে অস্বীকার করেছিল, তাদের উপর আল্লাহর শাস্তি নেমে আসছে বলে যখন তিনি নিশ্চিত হলেন, তখনই এ কথাগুলো বললেন। বাগাভীও একই প্রস্থানের কথা বলেন। মুয়াসসার সময়টা ধরে সেই মুহূর্তে, যখন তিনি নিশ্চিত হলেন যে আযাব তাদের উপর আসবেই। এতে কথাগুলো ঘটনার পরে নয়, বরং ঘটনার একেবারে কিনারায় গিয়ে দাঁড়ায়। সময় নিয়ে মতভেদটি যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grief Framed as a Question",
+          "bn": "প্রশ্নের আকারে আক্ষেপ"
+        },
+        "p": [
+          {
+            "en": "Fa-kayfa asa 'ala qawmin kafirin: so how could I grieve for a disbelieving people? Al-Qurtubi glosses asa as ahzan, I grieve, and sets out the verb's forms: asitu 'ala ash-shay', I grieved over the thing, and the one who grieves is asin. At-Tabari carries the same gloss from Ibn Abbas, through Ali ibn Abi Talha, and from as-Suddi: how can I grieve? Al-Baghawi records two senses of the noun, al-asa as grief and al-asa as patience, though his own gloss on the verse is ahzan, I grieve.",
+            "bn": "ফাকাইফা আসা আলা কাওমিন কাফিরীন: তাহলে কাফির এক জাতির জন্য আমি কীভাবে আক্ষেপ করি? কুরতুবী আসা শব্দের অর্থ করেন আহযানু, অর্থাৎ আমি দুঃখ করি। ক্রিয়াটির রূপগুলোও তিনি দেখিয়ে দেন: আসীতু আলাশ-শাই, আমি জিনিসটির জন্য দুঃখ পেলাম, আর যে দুঃখ পায় সে আসিন। তাবারী একই অর্থ বর্ণনা করেন ইবন আব্বাস (রাঃ) থেকে আলী ইবন আবী তালহার সূত্রে, আর সুদ্দী থেকে: আমি কীভাবে দুঃখ করি? বাগাভী বিশেষ্যটির দুটি অর্থ লিখে রাখেন। আল-আসা মানে দুঃখ, আবার আল-আসা মানে ধৈর্যও। তবে এ আয়াতে তাঁর নিজের ব্যাখ্যা আহযানু, আমি দুঃখ করি।"
+          },
+          {
+            "en": "The question asks how and expects no answer, and the commentators differ on what it is doing. At-Tabari says Shu'ayb (AS) spoke in grief for them, huznan 'alayhim, and paraphrases the question: how should I grieve for a people who denied the oneness of Allah and belied His messenger, and feel pain at their destruction? He then carries a report from Ibn Ishaq: grief came over Shu'ayb for his people at what he saw of Allah's retribution on them, and he spoke, consoling himself. Ma'arif al-Qur'an reads it the same way, as prophetic concern and affection seeking peace.",
+            "bn": "প্রশ্নটি জানতে চায় কীভাবে, অথচ কোনো উত্তর আশা করে না। প্রশ্নটা আসলে কী কাজ করছে, তা নিয়ে তাফসীরকারদের মত আলাদা। তাবারী বলেন, শু'আয়ব (আঃ) কথাগুলো বলেছিলেন তাদের জন্য দুঃখে, হুযনান আলাইহিম। প্রশ্নটা তিনি এভাবে খুলে বলেন: যে জাতি আল্লাহর একত্ব অস্বীকার করেছে আর তাঁর রাসূলকে মিথ্যাবাদী বলেছে, তাদের জন্য আমি কেন দুঃখ করব, তাদের ধ্বংসে কেন ব্যথা পাব? এরপর তিনি ইবন ইসহাকের একটি বর্ণনা আনেন। জাতির উপর আল্লাহর শাস্তি দেখে শু'আয়বকে দুঃখ পেয়ে বসে। তারপর নিজেকে সান্ত্বনা দিতে তিনি কথাগুলো বলেন। মাআরিফুল কুরআনও একই পথে পড়ে: নবীর মমতা আর দরদ এখানে শান্তি খুঁজছে।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di hear no grief in it. Ibn Kathir paraphrases: I have delivered to you what I was sent with, so there is no sorrow over you, since you disbelieved in what I brought. As-Sa'di explains that a people to whom good came and who returned it are not fit to be grieved over, and he goes further: rather, one is glad at their destruction. He ends by asking what wretchedness could be greater than to reach a state in which the one most sincere to them disowns them. Both readings honour the prophet: one shows his mercy, the other his completed duty.",
+            "bn": "ইবন কাসীর ও সা'দী এখানে কোনো দুঃখ শোনেন না। ইবন কাসীরের ভাষ্য: যা নিয়ে আমি প্রেরিত হয়েছি তা তোমাদের কাছে পৌঁছে দিয়েছি, আর আমার আনা বাণী তোমরা অস্বীকার করেছ, তাই তোমাদের জন্য কোনো আফসোস নেই। সা'দীর ব্যাখ্যা, যাদের কাছে কল্যাণ এসেছিল আর তারা তা ফিরিয়ে দিয়েছে, তারা দুঃখ পাওয়ার যোগ্য নয়। তিনি আরও বলেন, বরং তাদের ধ্বংসে আনন্দিত হওয়া যায়। শেষে তিনি প্রশ্ন রাখেন, এর চেয়ে বড় দুর্ভাগ্য আর কী, যখন মানুষ এমন অবস্থায় পৌঁছায় যে তাদের সবচেয়ে বড় হিতাকাঙ্ক্ষীই তাদের থেকে সম্পর্ক ছিন্ন করেন? দুই পাঠই নবীর মর্যাদা তুলে ধরে। একটিতে তাঁর দয়া, অন্যটিতে তাঁর পূর্ণ করা দায়িত্ব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hardship Sent to Soften",
+          "bn": "নরম করার জন্য পাঠানো কষ্ট"
+        },
+        "p": [
+          {
+            "en": "With 7:94 the surah turns from Madyan to a rule: We sent no prophet to any town except that We seized its people with al-ba'sa' and ad-darra', that they might humble themselves. At-Tabari says Allah is telling the Prophet ﷺ His established way with the nations before his community, and reminding those of Quraysh who disbelieved in him, so that they would desist. Al-Qurtubi and al-Baghawi both note an implied clause: and its people denied him.",
+            "bn": "৭:৯৪ আয়াতে এসে সূরা মাদইয়ান থেকে সরে একটি নিয়মের কথা বলে: আমি যে জনপদেই কোনো নবী পাঠিয়েছি, সেখানকার অধিবাসীদের আল-বা'সা আর আদ-দাররা দিয়ে পাকড়াও করেছি, যেন তারা বিনয়ী হয়। তাবারী বলেন, আল্লাহ এখানে নবী ﷺ-কে জানাচ্ছেন তাঁর উম্মতের আগের জাতিগুলোর সঙ্গে আল্লাহর চিরাচরিত রীতি কী ছিল। সেই সঙ্গে কুরাইশের যারা তাঁকে অস্বীকার করেছিল তাদের স্মরণ করিয়ে দিচ্ছেন, যেন তারা বিরত হয়। কুরতুবী ও বাগাভী দুজনেই এখানে একটি উহ্য বাক্যের কথা বলেন: আর সেখানকার লোকেরা তাঁকে অস্বীকার করল।"
+          },
+          {
+            "en": "On the two nouns the commentators give different assignments, and the difference is kept. Ibn Kathir takes al-ba'sa' as what strikes their bodies, illness and sickness, and ad-darra' as poverty and need. Al-Baghawi reports from Ibn Mas'ud the reverse: al-ba'sa' is poverty and ad-darra' is illness. At-Tabari has misery and a narrow living for the first and harm and a bad condition for the second, with as-Suddi's gloss of poverty and hunger.",
+            "bn": "দুটি বিশেষ্যের অর্থ ভাগ করতে গিয়ে তাফসীরকারেরা ভিন্ন ভিন্ন কথা বলেছেন, আর সেই ভিন্নতা এখানে রেখে দেওয়া হলো। ইবন কাসীরের মতে আল-বা'সা হলো শরীরে যা আঘাত করে, রোগব্যাধি, আর আদ-দাররা হলো দারিদ্র্য ও অভাব। বাগাভী ইবন মাসঊদ (রাঃ) থেকে উল্টোটা বর্ণনা করেন: আল-বা'সা দারিদ্র্য, আদ-দাররা রোগ। তাবারীর মতে প্রথমটি দুর্দশা আর জীবিকার সংকীর্ণতা, দ্বিতীয়টি ক্ষতি আর দুরবস্থা। সঙ্গে তিনি সুদ্দীর ব্যাখ্যাও আনেন: দারিদ্র্য আর ক্ষুধা।"
+          },
+          {
+            "en": "On the purpose clause, la'allahum yaddarra'un, they agree. At-Tabari explains the verb as yatadarra'un, with the ta merged into the dad because the two sounds are close, and its meaning as humbling themselves before their Lord, submitting to Him and turning back by leaving their disbelief and repenting of denying their prophets. As-Sa'di puts it inwardly: the hardship, once it struck, would bring their souls low, so that they would humble themselves before Allah and yield to the truth.",
+            "bn": "উদ্দেশ্যবাচক অংশ লা'আল্লাহুম ইয়াদ্দাররা'ঊন নিয়ে অবশ্য সবাই একমত। তাবারী বলেন, ক্রিয়াটি আসলে ইয়াতাদাররা'ঊন। তা আর দাদ, এই দুটি অক্ষরের উচ্চারণ কাছাকাছি বলে তা-কে দাদের মধ্যে মিলিয়ে দেওয়া হয়েছে। অর্থ, তারা যেন রবের সামনে বিনয়ী হয়, তাঁর কাছে নত হয়, কুফরি ছেড়ে আর নবীদের অস্বীকার করার গুনাহ থেকে তওবা করে ফিরে আসে। সা'দী কথাটা বলেন ভেতরের দিক থেকে: কষ্ট যখন আঘাত করে, তখন তা মনকে নত করে দেয়। ফলে মানুষ আল্লাহর কাছে বিনয়ী হয় আর সত্যের সামনে মাথা নোয়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then the Good Years Came",
+          "bn": "তারপর এল সুদিন"
+        },
+        "p": [
+          {
+            "en": "Thumma baddalna makana as-sayyi'ati al-hasanah: then We put good in the place of the bad. At-Tabari says the hardship is called sayyi'ah because it is what distresses people, and its replacement hasanah because it does not: ease, blessing and room in living. Ibn Kathir describes the change as health in place of sickness and wealth in place of poverty, given so that they might give thanks, and adds that they did not. The Muyassar calls it a respite for them, imhalan lahum, with the same hope of thanks.",
+            "bn": "সুম্মা বাদ্দালনা মাকানাস-সাইয়্যিআতিল হাসানাহ: তারপর আমি মন্দের জায়গায় ভালো এনে দিলাম। তাবারী বলেন, কষ্টকে সাইয়্যিআহ বলা হয়েছে কারণ তা মানুষকে পীড়া দেয়। আর তার বদলে যা এল তাকে হাসানাহ বলা হয়েছে কারণ তা পীড়া দেয় না: স্বস্তি, নিয়ামত আর জীবিকার প্রশস্ততা। ইবন কাসীর পরিবর্তনটা দেখান এভাবে: রোগের জায়গায় সুস্থতা, দারিদ্র্যের জায়গায় সচ্ছলতা, যেন তারা শুকরিয়া আদায় করে। তারপর যোগ করেন, তারা তা করেনি। মুয়াসসার একে বলে তাদের জন্য অবকাশ, ইমহালান লাহুম, সেখানেও আশা শুকরিয়ার।"
+          },
+          {
+            "en": "Hatta 'afaw: until they increased. In at-Tabari's reports Ibn Abbas, Mujahid and as-Suddi gloss it as they grew many, and Mujahid specifies their wealth and their children. Qatada read it as until they were pleased. At-Tabari rejects that: 'afw in the sense of gladness is unknown in Arabic speech, he says, unless Qatada meant pleased with their numbers and wealth, which would be a possible though remote reading. Al-Qurtubi notes that 'afa is one of the words with opposite senses, to grow abundant and to be effaced, and takes the first here.",
+            "bn": "হাত্তা আফাও: শেষ পর্যন্ত তারা বেড়ে গেল। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ), মুজাহিদ ও সুদ্দী এর অর্থ করেন, তারা সংখ্যায় অনেক হলো। মুজাহিদ নির্দিষ্ট করে বলেন, তাদের সম্পদ আর সন্তান বেড়ে গেল। কাতাদা অর্থ করেছিলেন, শেষ পর্যন্ত তারা খুশি হলো। তাবারী তা মানেননি। তাঁর কথা, আরবদের ভাষায় আফও শব্দ আনন্দ অর্থে কোথাও পাওয়া যায় না। তবে কাতাদা যদি বুঝিয়ে থাকেন যে তারা নিজেদের সংখ্যা আর সম্পদ নিয়ে খুশি হলো, তাহলে একটা সম্ভাবনা থাকে, যদিও তা দূরের। কুরতুবী জানান, আফা বিপরীত অর্থবোধক শব্দগুলোর একটি: বেড়ে যাওয়া, আবার মুছে যাওয়া। এখানে তিনি প্রথম অর্থটি নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Our Fathers Had It Too",
+          "bn": "বাপ-দাদাদেরও এমন হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Then the sentence that sealed it: qad massa aba'ana ad-darra'u was-sarra', hardship and ease touched our fathers too. At-Tabari reads it as their conclusion that these were conditions that had reached their forefathers, and that they themselves were no different. Ibn Kathir paraphrases it as time turning, now this way, now that, and says they did not perceive that Allah was testing them in both states. As-Sa'di has them treating it as a custom running through every generation, neither an admonition nor a drawing-on toward punishment.",
+            "bn": "তারপর সেই কথা, যা তাদের পরিণতি নির্ধারণ করে দিল: কাদ মাস্সা আবাআনাদ-দাররাউ ওয়াস-সাররাউ, দুঃখ-সুখ তো আমাদের বাপ-দাদাদেরও ছুঁয়েছিল। তাবারীর পাঠে এটা তাদের সিদ্ধান্ত: এসব অবস্থা আমাদের পূর্বপুরুষদের উপরও এসেছিল, আমরাও তাদের চেয়ে আলাদা কিছু নই। ইবন কাসীর এর ভাষ্য করেন যুগের পালাবদল হিসেবে, কখনো এদিক, কখনো ওদিক। তিনি বলেন, দুই অবস্থাতেই আল্লাহ যে তাদের পরীক্ষা করছেন, তারা তা টের পায়নি। সা'দীর বর্ণনায় তারা একে ভাবল প্রতি প্রজন্মে চলে আসা রীতি। উপদেশও নয়, শাস্তির দিকে ধীরে টেনে নেওয়াও নয়।"
+          },
+          {
+            "en": "Al-Baghawi hears an argument in it, made out of delusion and heedlessness once ease had come: the hardship that touched us was no punishment from Allah, so stay as you are, for your fathers did not leave their religion when hardship struck them. At-Tabari's comment is sorrowful: the poor wretches did not know to thank Allah's favour, and neglected to keep it by turning to His obedience. Then fa-akhadhnahum baghtatan: We seized them suddenly, which al-Qurtubi says was so that their regret would be the greater.",
+            "bn": "বাগাভী এর ভেতরে একটি যুক্তি শুনতে পান, যা সচ্ছলতা আসার পর তারা নিজেদের ধোঁকা আর গাফিলতি থেকে বলেছিল: আমাদের উপর যে কষ্ট এসেছিল, তা আল্লাহর শাস্তি ছিল না। কাজেই যেমন আছ তেমন থাকো। তোমাদের বাপ-দাদারাও কষ্টে পড়ে নিজেদের ধর্ম ছাড়েনি। তাবারীর মন্তব্যে বেদনা আছে। হতভাগারা আল্লাহর নিয়ামতের শুকরিয়া জানত না, তাঁর আনুগত্যে ফিরে এসে সেই অনুগ্রহ ধরে রাখার কথাও ভুলে গেল। তারপর ফাআখাযনাহুম বাগতাতান: আমি তাদের হঠাৎ পাকড়াও করলাম। কুরতুবী বলেন, হঠাৎ, যেন তাদের আফসোস আরও বড় হয়।"
+          },
+          {
+            "en": "Ibn Kathir sets the believer against this. Muslim records in his Sahih from Suhayb that the Messenger of Allah ﷺ said, how wonderful is the affair of the believer, for all of his affair is good, and that is so for no one but the believer; if ease reaches him he gives thanks, and it is good for him, and if hardship reaches him he is patient, and it is good for him. It is a general narration, not attached to this verse, and no commentary fetched here attaches a sound hadith to 7:93 itself.",
+            "bn": "ইবন কাসীর এর বিপরীতে মুমিনের অবস্থা তুলে ধরেন এবং একটি হাদীস আনেন, যা মুসলিম তাঁর সহীহ গ্রন্থে সুহাইব (রাঃ) থেকে বর্ণনা করেছেন। রাসূলুল্লাহ ﷺ বলেছেন: মুমিনের ব্যাপারটা কী চমৎকার! তার সব কিছুতেই কল্যাণ, আর এ সৌভাগ্য মুমিন ছাড়া আর কারও নয়। সুখ এলে সে শুকরিয়া আদায় করে, তাতে তার কল্যাণ হয়। আর দুঃখ এলে সে সবর করে, তাতেও তার কল্যাণ হয়। হাদীসটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। আর এখানে আনা কোনো তাফসীর ৭:৯৩ আয়াতের সঙ্গে নির্দিষ্টভাবে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading Your Own Seasons",
+          "bn": "নিজের সুদিন-দুর্দিন পড়া"
+        },
+        "p": [
+          {
+            "en": "One thing needs saying plainly. These verses describe what the text describes: people who denied a messenger, were met with hardship and then with ease, and were destroyed. They license nothing against any living person or community. No one today can point at a town's drought, a family's illness or a nation's wealth and declare it the hardship of 7:94 or the respite of 7:95. That knowledge came by revelation about peoples now gone. What is left for us is to hold the verses up as a mirror, and the mirror shows our own faces first.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। এ আয়াতগুলো শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: কিছু মানুষ একজন রাসূলকে অস্বীকার করেছিল, তাদের উপর প্রথমে কষ্ট, পরে সচ্ছলতা এসেছিল, তারপর তারা ধ্বংস হয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কেউ কোনো এলাকার খরা, কোনো পরিবারের অসুখ বা কোনো জাতির ধনসম্পদের দিকে আঙুল তুলে বলতে পারে না যে এটাই ৭:৯৪ আয়াতের সেই কষ্ট বা ৭:৯৫ আয়াতের সেই অবকাশ। সে জ্ঞান এসেছিল ওহির মাধ্যমে, বিলুপ্ত জাতিগুলোর ব্যাপারে। আমাদের জন্য থাকে শুধু আয়াতগুলোকে আয়না করে ধরা, আর সে আয়নায় আগে দেখা যায় নিজের মুখ।"
+          },
+          {
+            "en": "Shu'ayb's words give a measure for any duty of advice. Ablaghtu and nasahtu are two different things: carrying the message whole, and caring for the person who hears it. Most of us manage one at a time, true words said without care, or care that never quite says the true word. Whatever the commentators hear in his question about grief, it comes only after both had been done in full. The response was never his to produce; the delivery was.",
+            "bn": "উপদেশ দেওয়ার যেকোনো দায়িত্বের জন্য শু'আয়ব (আঃ)-এর কথাগুলো একটা মাপকাঠি। আবলাগতু আর নাসাহতু দুটি আলাদা জিনিস। একটা হলো বাণী পুরোটা পৌঁছে দেওয়া, অন্যটা যে শুনছে তার কল্যাণ চাওয়া। আমরা বেশির ভাগ সময় একটা পারি, দুটো একসঙ্গে পারি না। হয় সত্য কথা বলি দরদ ছাড়া, নয়তো দরদ দেখাই অথচ সত্য কথাটা আর বলা হয় না। আক্ষেপের প্রশ্নে তাফসীরকারেরা যা-ই শুনুন, তা এসেছে দুটো কাজ পুরোপুরি শেষ হওয়ার পর। মানুষ সাড়া দেবে কি না, সে দায় কখনো তাঁর ছিল না। তাঁর দায় ছিল পৌঁছে দেওয়া।"
+          },
+          {
+            "en": "Then turn 7:94 and 7:95 on your own life, gently. When something hard came last year, did it bring you lower before Allah, or did you only wait for it to pass? When it gave way to ease, did you thank Him who changed it, or file both under the turning of the years, as the people of 7:95 did? Their sentence is still common: it has always been like this. Is it yours? And whose sincere advice have you been treating as the background noise of an ordinary life?",
+            "bn": "এবার ৭:৯৪ ও ৭:৯৫ আয়াত আলতো করে নিজের জীবনে মিলিয়ে দেখুন। গত বছর কঠিন কিছু যখন এসেছিল, তা কি আপনাকে আল্লাহর সামনে নত করেছিল, নাকি আপনি শুধু কেটে যাওয়ার অপেক্ষায় ছিলেন? কষ্টের জায়গায় যখন স্বস্তি এল, যিনি অবস্থা বদলালেন তাঁর শুকরিয়া কি আদায় করেছেন? নাকি ৭:৯৫ আয়াতের লোকদের মতো দুটোকেই যুগের পালাবদল বলে সরিয়ে রেখেছেন? তাদের সেই কথা আজও খুব চেনা: এমনই তো চিরকাল হয়ে আসছে। কথাটা কি আপনারও? আর কার আন্তরিক উপদেশকে আপনি সাধারণ জীবনের পেছনের কোলাহল বলে ধরে নিয়েছেন?"
+          }
+        ]
+      }
+    ]
+  },
   "7:100": {
     "sections": [
       {

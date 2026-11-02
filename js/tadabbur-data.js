@@ -20731,6 +20731,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Share your water and your provision while they are still yours to give, and live now for the meeting you will not be able to forget later.",
     "lessonBn": "পানি আর রিজিক যতক্ষণ আপনার হাতে আছে, ততক্ষণ তা থেকে দান করুন। আর এখন থেকেই সেই সাক্ষাতের জন্য বাঁচুন, যা পরে আর ভুলে থাকার উপায় থাকবে না।"
+  },
+  "7:93": {
+    "reflectionEn": "The town has gone quiet, and Shu'ayb (AS) turns from it and speaks: my people, I conveyed my Lord's messages to you and I advised you, so how could I grieve for a people who disbelieved? Read it slowly and notice what is missing. There is no list of things left undone, because nothing was left undone. The message went out whole and the advice was sincere. What remains is the question about grief, which can be heard as sorrow being set down or as a verdict being spoken. The next two verses widen the lens: hardship sent so that people might turn back, then ease, then a shrug. Have I done my own part as fully? And how do I read my hard and easy seasons?",
+    "reflectionBn": "জনপদ নিস্তব্ধ হয়ে গেছে। শু'আয়ব (আঃ) সেখান থেকে মুখ ফিরিয়ে বলছেন: হে আমার জাতি, আমি তোমাদের কাছে আমার রবের বাণী পৌঁছে দিয়েছি, তোমাদের কল্যাণ কামনা করে উপদেশও দিয়েছি। তাহলে কুফরিতে অটল এক জাতির জন্য আমি কীভাবে আক্ষেপ করি? ধীরে পড়লে চোখে পড়ে, কী নেই এখানে। বাকি রয়ে যাওয়া কাজের কোনো ফিরিস্তি নেই, কারণ কিছুই বাকি ছিল না। বাণী পুরোটা পৌঁছেছে, উপদেশ ছিল খাঁটি। থেকে যায় শুধু আক্ষেপের প্রশ্নটা। একে শোক নামিয়ে রাখা হিসেবেও শোনা যায়, রায় ঘোষণা হিসেবেও। পরের দুই আয়াত দৃষ্টি আরও প্রসারিত করে: কষ্ট পাঠানো হয় যেন মানুষ ফিরে আসে, তারপর আসে সচ্ছলতা, তারপর কাঁধ ঝাঁকিয়ে উড়িয়ে দেওয়া। আমার ভাগের দায়িত্ব কি আমি এতটা পূর্ণ করে পালন করেছি? আর নিজের কষ্টের দিন আর সুখের দিনগুলো আমি কীভাবে পড়ি?",
+    "pointsEn": [
+      "Is there someone I keep advising in my head but have never actually advised, kindly and plainly, out loud?",
+      "When my sincere advice is refused, do I go on carrying the outcome as though it were mine to produce?",
+      "Of the duties in front of me this week, which can I honestly say I delivered whole, and which am I still holding back?",
+      "When hardship reaches me, do I turn to Allah in humility, or wait for it to pass like weather?",
+      "When ease follows hardship, do I thank the One who changed it, or tell myself that this is simply how the years go?"
+    ],
+    "pointsBn": [
+      "এমন কেউ কি আছে, যাকে মনে মনে বারবার উপদেশ দিই, অথচ নরম আর স্পষ্ট ভাষায় মুখ ফুটে কখনো কিছু বলিনি?",
+      "আন্তরিক উপদেশ ফিরিয়ে দেওয়া হলে কি আমি ফলাফলের বোঝা এমনভাবে বয়ে বেড়াই, যেন ফল ফলানোর দায় আমারই?",
+      "এ সপ্তাহের দায়িত্বগুলোর কোনটা সম্পর্কে সত্যি বলতে পারি যে পুরোটা পৌঁছে দিয়েছি, আর কোনটার কিছু অংশ এখনো আটকে রেখেছি?",
+      "কষ্ট এলে আমি কি বিনয়ের সঙ্গে আল্লাহর দিকে ফিরি, নাকি আবহাওয়ার মতো কেটে যাওয়ার অপেক্ষায় থাকি?",
+      "কষ্টের পরে স্বস্তি এলে আমি কি তাঁর শুকরিয়া আদায় করি যিনি অবস্থা বদলে দিলেন, নাকি নিজেকে বোঝাই, যুগের নিয়মই এমন?"
+    ],
+    "lessonEn": "Deliver what you owe in full and advise sincerely, then leave the outcome with Allah; and read your hardships and your ease as calls to turn back, not as luck.",
+    "lessonBn": "যা পৌঁছে দেওয়া আপনার দায়িত্ব, তা পুরোটা পৌঁছে দিন, আন্তরিকভাবে উপদেশ দিন, তারপর ফলাফল আল্লাহর হাতে ছেড়ে দিন। আর জীবনের কষ্ট ও স্বস্তিকে ভাগ্যের খেলা না ভেবে ফিরে আসার ডাক হিসেবে পড়ুন।"
   }
 };
 
