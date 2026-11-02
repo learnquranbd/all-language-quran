@@ -20331,6 +20331,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold steady when you are denied or hurt for the truth, as the messengers did, and trust that no one can change Allah's promise of help.",
     "lessonBn": "সত্যের জন্য অস্বীকার বা কষ্টের মুখে রাসূলদের মতো অটল থাকুন, আর ভরসা রাখুন যে আল্লাহর সাহায্যের ওয়াদা কেউ বদলাতে পারে না।"
+  },
+  "6:21": {
+    "reflectionEn": "Two wrongs are named here and ranked above every other: to say about Allah what He never said, and to hear what He did say and turn it away. A few verses later the same people stand before Him and are asked where their partners are. They swear by Allah, their Lord, that they never set up anyone beside Him. The habit of the tongue has outlived the world that formed it, and now it lies to the One who knows. Little of this is far from me. Do I ever say that Allah wants this or forbids that with nothing behind it but my own wish? When a verse corners me, do I explain it away? What my tongue practises now is what it will reach for then.",
+    "reflectionBn": "এখানে দুটি অন্যায়ের নাম এসেছে, আর অন্য সব অন্যায়ের উপরে সেগুলোকে রাখা হয়েছে। একটি হলো আল্লাহ যা বলেননি তা তাঁর নামে বলা। অন্যটি হলো তিনি যা বলেছেন তা শুনে ফিরিয়ে দেওয়া। কয়েক আয়াত পরেই সেই মানুষগুলো তাঁর সামনে দাঁড়ায়। তাদের জিজ্ঞেস করা হয়, তোমাদের শরীকেরা কোথায়? তারা আল্লাহর কসম খেয়ে বলে, তারা কখনো কাউকে তাঁর শরীক করেনি। দুনিয়ায় জিভের যে অভ্যাস গড়ে উঠেছিল, দুনিয়া শেষ হলেও তা থামেনি। এখন সে মিথ্যা বলছে তাঁর কাছে, যিনি সব জানেন। এর কোনোটাই আমার থেকে খুব দূরের কথা নয়। নিজের ইচ্ছা ছাড়া আর কোনো ভিত্তি না থাকলেও আমি কি কখনো বলি, আল্লাহ এটা চান বা ওটা নিষেধ করেছেন? কোনো আয়াত যখন আমাকে কোণঠাসা করে, আমি কি ব্যাখ্যা দিয়ে তা পাশ কাটাই? আজ আমার জিভ যা অভ্যাস করছে, সেদিন সে সেটাই আঁকড়ে ধরবে।",
+    "pointsEn": [
+      "When did I last speak about what Allah loves, permits or forbids without knowing it, and did I ever take the words back?",
+      "Which clear verse or reminder have I quietly argued my way around because it asked something of me?",
+      "If I were asked today where my partners are, what would I have to name: money, approval, or a person I lean on in place of Him?",
+      "What small, repeated untruth has become so familiar that I could tell it without noticing?",
+      "Is there a truth I recognise as surely as a parent knows a child, and still hold back from accepting?"
+    ],
+    "pointsBn": [
+      "আল্লাহ কী ভালোবাসেন, কী হালাল করেছেন, কী নিষেধ করেছেন, না জেনে এসব নিয়ে শেষ কবে কথা বলেছি? সে কথা কি কখনো ফিরিয়ে নিয়েছি?",
+      "কোন স্পষ্ট আয়াত বা উপদেশকে আমি চুপচাপ যুক্তি দিয়ে পাশ কাটিয়ে গেছি, শুধু এ কারণে যে তা আমার কাছে কিছু দাবি করছিল?",
+      "আজ যদি জিজ্ঞেস করা হয়, তোমার শরীকেরা কোথায়, আমাকে কার নাম নিতে হবে? টাকা, মানুষের বাহবা, নাকি এমন কেউ যার উপর আমি তাঁর বদলে ভর দিই?",
+      "কোন ছোট মিথ্যা বারবার বলতে বলতে এত চেনা হয়ে গেছে যে বলার সময় টেরই পাই না?",
+      "এমন কোনো সত্য কি আছে, যা আমি বাবা-মায়ের সন্তান চেনার মতো নিশ্চিতভাবে চিনি, তবু মেনে নিতে পিছিয়ে থাকি?"
+    ],
+    "lessonEn": "Speak about Allah only with knowledge and meet His signs with acceptance, because the habits your tongue forms here are the ones it will reach for on the Day of answering.",
+    "lessonBn": "আল্লাহ সম্পর্কে কথা বলুন কেবল জেনে, আর তাঁর নিদর্শন মেনে নিন। কারণ এখানে জিভ যে অভ্যাস গড়ে, জবাবদিহির দিনে সে সেটাই আঁকড়ে ধরবে।"
   }
 };
 

@@ -703,6 +703,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:21": {
+    "sections": [
+      {
+        "h": {
+          "en": "None More Unjust",
+          "bn": "এর চেয়ে বড় যালিম নেই"
+        },
+        "p": [
+          {
+            "en": "Wa-man azlamu mimmani iftara 'ala Allahi kadhiban aw kadhdhaba bi-ayatihi: and who is more unjust than one who invents a lie about Allah or denies His signs? The verse comes straight after 6:19, where the Prophet ﷺ takes Allah as witness, and 6:20, where those given the Scripture recognise him as they recognise their sons. It then closes on a verdict: innahu la yuflihu al-zalimun, the wrongdoers will not succeed. The same frame returns almost word for word in 7:37 and in 10:17, which ends with al-mujrimun.",
+            "bn": "ওয়া মান আযলামু মিম্মানিফতারা আলাল্লাহি কাযিবান আও কায্যাবা বিআয়াতিহি: যে আল্লাহর নামে মিথ্যা বানায় অথবা তাঁর নিদর্শনকে মিথ্যা বলে, তার চেয়ে বড় যালিম আর কে? আয়াতটি এসেছে ৬:১৯-এর ঠিক পরে, যেখানে নবী ﷺ আল্লাহকে সাক্ষী মানেন। তার আগে ৬:২০, যেখানে বলা হয়েছে, কিতাবপ্রাপ্তরা তাঁকে চেনে নিজেদের ছেলেদের মতো। আয়াত শেষ হয় এক রায় দিয়ে: ইন্নাহু লা ইউফলিহুয যালিমুন, যালিমরা সফল হবে না। প্রায় হুবহু একই কাঠামো আবার আসে ৭:৩৭ আয়াতে, আর ১০:১৭ আয়াতে, যার শেষ শব্দ আল-মুজরিমুন।"
+          },
+          {
+            "en": "The question asks for no answer. Al-Qurtubi parses man azlamu as subject and predicate and glosses it as a denial: there is no one more unjust. At-Tabari opens the superlative into three comparisons: more severe in transgression, more wrong in deed and more wrong in speech. Al-Baghawi gives one word for it, akfar, more disbelieving, and at the verse's end reads al-zalimun, the wrongdoers, as al-kafirun, the disbelievers. On these readings the wrong in view is a wrong of belief and of speech about Allah.",
+            "bn": "প্রশ্নটা উত্তর চাওয়ার জন্য নয়। কুরতুবী 'মান আযলামু'-কে উদ্দেশ্য ও বিধেয় হিসেবে বিশ্লেষণ করে এর অর্থ করেন অস্বীকৃতি দিয়ে: এর চেয়ে বড় যালিম কেউ নেই। তাবারী এই তুলনাকে তিনটি ভাগে খুলে বলেন: সীমালঙ্ঘনে বেশি কঠোর, কাজে বেশি ভুল, কথায় বেশি ভুল। বাগাভী একটি শব্দে বলেন, আকফার, অর্থাৎ বড় কাফির। আর আয়াতের শেষে আয-যালিমুন শব্দের অর্থ করেন আল-কাফিরুন। এসব ব্যাখ্যায় যে অন্যায়ের কথা হচ্ছে, তা বিশ্বাসের অন্যায়, আল্লাহ সম্পর্কে কথা বলার অন্যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Forger and the Denier",
+          "bn": "যে বানায় আর যে অস্বীকার করে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the two clauses as two kinds of people. The first speaks falsely about Allah by claiming that Allah sent him when He had not. The second denies Allah's signs: His proofs, demonstrations and indications. The verdict then covers both, and he says it plainly: neither this nor that succeeds, neither the forger nor the denier.",
+            "bn": "ইবন কাসীর দুই অংশকে দুই ধরনের মানুষ হিসেবে পড়েন। প্রথমজন আল্লাহর নামে মিথ্যা বলে, দাবি করে আল্লাহ তাকে পাঠিয়েছেন, অথচ তিনি পাঠাননি। দ্বিতীয়জন আল্লাহর নিদর্শন, তাঁর প্রমাণ ও দলিলগুলোকে মিথ্যা বলে। এরপর রায় দুজনকেই ঘিরে ফেলে। ইবন কাসীর সোজা বলেন: এ-ও সফল হবে না, ও-ও না। না মিথ্যা রচনাকারী, না অস্বীকারকারী।"
+          },
+          {
+            "en": "At-Tabari reads the forging more widely: to fabricate a false saying about Allah, claiming He has a partner from His creation, a god worshipped besides Him, or a son or a consort. The denial is of the proofs He gave His messengers for the truth of their prophethood. He illustrates each from communities of the Prophet's own time. Al-Baghawi reduces the forging to associating others with Allah, and he and al-Qurtubi both take the signs to be the Quran, al-Qurtubi adding the miracles.",
+            "bn": "তাবারী মিথ্যা রচনার অর্থ আরও প্রশস্ত করে পড়েন। আল্লাহ সম্পর্কে বানোয়াট কথা বলা, যেমন দাবি করা যে তাঁর সৃষ্টির মধ্যে তাঁর শরীক আছে, তাঁকে ছাড়া আরেক ইলাহ আছে যার ইবাদত হয়, কিংবা তাঁর সন্তান বা স্ত্রী আছে। আর অস্বীকার মানে নবীদের নবুয়তের সত্যতার পক্ষে তিনি যে প্রমাণ দিয়েছিলেন, তা অস্বীকার করা। দুটোরই উদাহরণ তিনি দেন নবী ﷺ-এর সময়ের জনগোষ্ঠী থেকে। বাগাভী মিথ্যা রচনাকে শিরকে নামিয়ে আনেন। তিনি ও কুরতুবী দুজনেই নিদর্শন বলতে কুরআন বোঝেন, কুরতুবী সঙ্গে মুজিযাও যোগ করেন।"
+          },
+          {
+            "en": "As-Sa'di draws the sharpest consequence. No one is greater in wrongdoing and obstinacy than a person with either one of the two descriptions, he says; so what of one in whom both are joined? He then widens each. Lying about Allah takes in claiming for Him a partner or a helper, holding that someone other than He should be worshipped, or ascribing to Him a consort or a child. The denial takes in everyone who rejects the truth the messengers brought, or that brought by those who stood in their place.",
+            "bn": "সা'দী এখান থেকে সবচেয়ে তীক্ষ্ণ সিদ্ধান্তটা টানেন। তিনি বলেন, দুই বৈশিষ্ট্যের যেকোনো একটি যার মধ্যে আছে, যুলুম আর হঠকারিতায় তার চেয়ে বড় কেউ নেই। তাহলে যার মধ্যে দুটোই আছে, তার অবস্থা কী? এরপর তিনি দুটোকেই বিস্তৃত করেন। আল্লাহর নামে মিথ্যার মধ্যে পড়ে তাঁর শরীক বা সাহায্যকারী দাবি করা, তাঁকে ছাড়া অন্য কারও ইবাদত করা উচিত বলে মনে করা, কিংবা তাঁর স্ত্রী বা সন্তান সাব্যস্ত করা। আর অস্বীকারের মধ্যে পড়ে এমন প্রত্যেকে, যে নবীদের আনা সত্য ফিরিয়ে দেয়, কিংবা তাঁদের পরে যারা তাঁদের জায়গায় দাঁড়িয়েছে, তাদের আনা সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known as a Father Knows",
+          "bn": "বাবা যেভাবে সন্তানকে চেনে"
+        },
+        "p": [
+          {
+            "en": "Alladhina ataynahumu al-kitaba ya'rifunahu kama ya'rifuna abna'ahum: those We gave the Scripture recognise it as they recognise their sons. At-Tabari names the Scripture as the Torah and the Gospel, and says what they recognise is that He is one God, not a company of gods, and that Muhammad ﷺ is a prophet sent. Al-Muyassar draws out the likeness: as their sons are never confused with other children before their eyes, so he is not confused with another, so exact is his description in their books.",
+            "bn": "আল্লাযীনা আতাইনাহুমুল কিতাবা ইয়া'রিফুনাহু কামা ইয়া'রিফুনা আবনাআহুম: যাদের আমি কিতাব দিয়েছি, তারা তাকে চেনে যেমন চেনে নিজেদের ছেলেদের। তাবারী বলেন, কিতাব মানে তাওরাত ও ইনজিল। তারা যা চেনে তা হলো, তিনি একমাত্র ইলাহ, অনেক ইলাহের দল নন, আর মুহাম্মাদ ﷺ প্রেরিত নবী। মুয়াসসার তুলনাটা খুলে দেখায়। নিজের ছেলেকে কেউ অন্য বাচ্চার সঙ্গে গুলিয়ে ফেলে না। তেমনি তাদের কিতাবে তাঁর বর্ণনা এত নিখুঁত যে তাঁকেও অন্য কারও সঙ্গে গুলিয়ে ফেলার উপায় নেই।"
+          },
+          {
+            "en": "On what the pronoun in ya'rifunahu points to, al-Qurtubi gives two views: the Prophet ﷺ, from al-Hasan, Qatada and az-Zajjaj, or the Book, recognised for what it shows of his truth. As-Sa'di first reads it as the soundness of tawhid, then allows the Messenger, and says the two meanings go together. Of alladhina khasiru anfusahum, those who lost themselves, at-Tabari says they ruined their souls by denying what they knew.",
+            "bn": "ইয়া'রিফুনাহু শব্দের সর্বনাম কাকে বোঝায়, এ নিয়ে কুরতুবী দুটি মত দেন। এক মতে নবী ﷺ-কে, হাসান, কাতাদা ও যাজ্জাজের বক্তব্য অনুযায়ী। অন্য মতে কিতাবকে, কারণ কিতাব তাঁর সত্যতার যে প্রমাণ বহন করে, সেভাবেই তারা তা চেনে। সা'দী প্রথমে একে তাওহীদের সত্যতা ধরে পড়েন, পরে রাসূলের অর্থও মেনে নেন, আর বলেন দুই অর্থ একটি আরেকটির সঙ্গে জড়ানো। আল্লাযীনা খাসিরূ আনফুসাহুম, যারা নিজেদের হারিয়েছে, তাদের ব্যাপারে তাবারী বলেন, জেনেশুনে অস্বীকার করে তারা নিজেদের ধ্বংস করেছে।"
+          },
+          {
+            "en": "Al-Qurtubi limits the description to those who knew and still resisted, 'arafu wa-'anadu. These verses describe people of the Prophet's time who recognised a truth and turned from it, and those who forge a lie about Allah or deny His signs. They describe what the text describes and license nothing against any living person or community; no one is entitled to brand a neighbour or a people with these words. Their use is as a measure held against oneself.",
+            "bn": "কুরতুবী বর্ণনাটিকে সীমিত রাখেন তাদের মধ্যে, যারা জেনেও হঠকারিতা করেছে: আরাফূ ওয়া আনাদূ। এই আয়াতগুলো নবী ﷺ-এর সময়ের সেই মানুষদের কথা বলে, যারা সত্য চিনেও মুখ ফিরিয়েছিল, আর তাদের কথা বলে যারা আল্লাহর নামে মিথ্যা বানায় বা তাঁর নিদর্শন অস্বীকার করে। আয়াত যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এখানে নেই। এই শব্দগুলো দিয়ে প্রতিবেশী বা কোনো জাতির গায়ে ছাপ মারার অধিকার কারও নেই। এগুলোর কাজ নিজের দিকে ধরা মাপকাঠি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Failing Here and on That Day",
+          "bn": "এখানেও ব্যর্থ, সেদিনও"
+        },
+        "p": [
+          {
+            "en": "Innahu la yuflihu al-zalimun. The commentators differ on where this failure falls. At-Tabari says that those who speak falsehood about Allah, forge lies against Him and reject His prophets will not reach lasting life in the Gardens. Al-Qurtubi records, under the formula it is said, that the meaning is in this world. Al-Muyassar joins the two: they will not win what they seek, in this world or in the Hereafter.",
+            "bn": "ইন্নাহু লা ইউফলিহুয যালিমুন। এই ব্যর্থতা কোথায় ঘটবে, তা নিয়ে মুফাসসিরদের মত ভিন্ন। তাবারী বলেন, যারা আল্লাহ সম্পর্কে বাতিল কথা বলে, তাঁর নামে মিথ্যা বানায় আর তাঁর নবীদের অস্বীকার করে, তারা জান্নাতের স্থায়ী জীবন পাবে না। কুরতুবী 'বলা হয়েছে' বলে একটি মত আনেন: এর অর্থ দুনিয়ায় ব্যর্থতা। মুয়াসসার দুই মতকে মিলিয়ে দেয়: দুনিয়াতেও তারা কাঙ্ক্ষিত জিনিস পাবে না, আখিরাতেও না।"
+          },
+          {
+            "en": "At-Tabari then reads the next verse as continuing this one. Wa-yawma nahshuruhum jami'an, and the Day We gather them all, is in his reading tied to an unstated half of the sentence: the wrongdoers do not succeed today, in this world, nor on the Day We gather them. Al-Qurtubi sets out three ways of joining it: as a fresh command, remember the Day; as attached to la yuflihu, in which case the reciter does not pause after al-zalimun; or as tied to unzur, look, in 6:24.",
+            "bn": "এরপর তাবারী পরের আয়াতকে এ আয়াতেরই ধারাবাহিকতা হিসেবে পড়েন। ওয়া ইয়াওমা নাহশুরুহুম জামীআ, আর যেদিন আমি তাদের সবাইকে একত্র করব। তাঁর মতে এটি বাক্যের একটি অনুক্ত অংশের সঙ্গে যুক্ত: যালিমরা আজ দুনিয়াতে সফল হয় না, আর সেদিনও হবে না, যেদিন আমি তাদের একত্র করব। কুরতুবী একে জোড়ার তিনটি উপায় দেখান। এক, নতুন আদেশ হিসেবে: সেদিনের কথা স্মরণ কর। দুই, লা ইউফলিহু-র সঙ্গে যুক্ত হিসেবে, সেক্ষেত্রে তিলাওয়াতকারী আয-যালিমুন-এর পরে থামবেন না। তিন, ৬:২৪ আয়াতের উনযুর, দেখ, শব্দের সঙ্গে যুক্ত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Trial Answered With an Oath",
+          "bn": "পরীক্ষার জবাবে কসম"
+        },
+        "p": [
+          {
+            "en": "On that Day the associators are asked: where are your partners whom you used to claim? Al-Qurtubi calls it a question that exposes, not a question that seeks to learn, and reports from Ibn 'Abbas that every za'm, claim, in the Quran is a lie. Then 6:23: thumma lam takun fitnatuhum illa an qalu wa-Allahi rabbina ma kunna mushrikin, then their fitnah will be nothing but that they say: by Allah, our Lord, we were not associators.",
+            "bn": "সেদিন মুশরিকদের জিজ্ঞেস করা হবে: তোমাদের সেই শরীকেরা কোথায়, যাদের তোমরা দাবি করতে? কুরতুবী বলেন, এ প্রশ্ন জানার জন্য নয়, লাঞ্ছিত করার জন্য। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, কুরআনে যেখানেই 'যা'ম' বা দাবি শব্দ এসেছে, তা মিথ্যা। এরপর ৬:২৩: সুম্মা লাম তাকুন ফিতনাতুহুম ইল্লা আন কালূ ওয়াল্লাহি রাব্বিনা মা কুন্না মুশরিকীন। তখন তাদের ফিতনা এ ছাড়া আর কিছু হবে না যে তারা বলবে: আমাদের রব আল্লাহর কসম, আমরা মুশরিক ছিলাম না।"
+          },
+          {
+            "en": "What does fitnatuhum mean here? At-Tabari gathers two groups. Some read it as their saying or their speech; he carries this from Qatada, from Ibn 'Abbas and from ad-Dahhak. Others read it as their excuse, ma'dhiratuhum, which he also carries from Qatada, glossed as excusing themselves with falsehood and lies. Ibn Kathir opens with a third word, hujjatuhum, their argument, and adds from 'Ata' al-Khurasani their affliction at the time they were tried.",
+            "bn": "এখানে ফিতনাতুহুম শব্দের অর্থ কী? তাবারী দুই দলের মত একত্র করেন। কারও মতে এর অর্থ তাদের কথা বা বক্তব্য। এ মত তিনি আনেন কাতাদা, ইবন আব্বাস (রাঃ) ও দাহহাক থেকে। কারও মতে এর অর্থ তাদের ওজর, মা'যিরাতুহুম। এটিও তিনি কাতাদা থেকে আনেন, যার ব্যাখ্যা: বাতিল আর মিথ্যা দিয়ে ওজর পেশ করা। ইবন কাসীর শুরু করেন তৃতীয় একটি শব্দ দিয়ে, হুজ্জাতুহুম, তাদের যুক্তি। সঙ্গে আতা আল-খুরাসানী থেকে আনেন: পরীক্ষার সময় তাদের বিপদ।"
+          },
+          {
+            "en": "At-Tabari's own judgment keeps the root sense. Fitnah is testing and trial; since their answer came only at the moment of being tested, the word for the test stands in place of the report of their answer and excuse. Az-Zajjaj, quoted by al-Qurtubi and al-Baghawi, found a subtler meaning. They had been infatuated with their idols, and when ruin came they disowned them, as one might say to a person who renounces a beloved once it brings disaster: your love came to nothing but disowning.",
+            "bn": "তাবারীর নিজের সিদ্ধান্ত শব্দের মূল অর্থ ধরে রাখে। ফিতনা মানে পরীক্ষা ও যাচাই। তাদের জবাব এসেছে কেবল পরীক্ষার মুহূর্তেই, তাই জবাব আর ওজরের খবর দিতে পরীক্ষার শব্দটাই বসানো হয়েছে। কুরতুবী ও বাগাভী যাজ্জাজের একটি সূক্ষ্ম ব্যাখ্যা উদ্ধৃত করেন। প্রতিমার প্রেমে তারা মজে ছিল, বিপদ আসতেই তারা সেগুলোকে অস্বীকার করল। কেউ কোনো প্রিয়জনের প্রেমে মজে থাকে, তারপর তার কারণে বিপদে পড়ে তাকে ত্যাগ করে। তখন তাকে বলা হয়: তোমার ভালোবাসার শেষ ফল এই ত্যাগ ছাড়া আর কিছু হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Readers Voice It",
+          "bn": "কারীদের কণ্ঠে ভিন্ন উচ্চারণ"
+        },
+        "p": [
+          {
+            "en": "The readings differ on these words. Al-Baghawi reports that Hamzah, al-Kisa'i and Ya'qub read yakun, masculine, while the rest read takun; and that the reader Ibn Kathir, Ibn 'Amir and Hafs from 'Asim read fitnatuhum in the nominative, as the subject, while the rest read fitnatahum as the predicate, with an qalu as the subject. Al-Qurtubi counts five readings in all.",
+            "bn": "এ শব্দগুলোর কিরাআতে ভিন্নতা আছে। বাগাভী জানান, হামযা, কিসাঈ ও ইয়াকূব পড়েছেন 'ইয়াকুন', পুংলিঙ্গে, আর বাকিরা পড়েছেন 'তাকুন'। কারী ইবন কাসীর, ইবন আমির এবং আসিম থেকে হাফস পড়েছেন 'ফিতনাতুহুম', কর্তা হিসেবে, পেশ দিয়ে। বাকিরা পড়েছেন 'ফিতনাতাহুম', বিধেয় হিসেবে, যবর দিয়ে, আর তখন কর্তা হয় 'আন কালূ'। কুরতুবী সব মিলিয়ে পাঁচটি কিরাআত গোনেন।"
+          },
+          {
+            "en": "A second difference falls on rabbina. Most read it in the genitive, a description of Allah: by Allah, our Lord. Hamzah and al-Kisa'i, al-Baghawi reports, read rabbana as a vocative: by Allah, O our Lord. At-Tabari prefers the vocative because the words answer the One who asked them. Al-Qurtubi calls it a good reading because it carries humility and pleading, though it sets a call between the oath and its answer.",
+            "bn": "দ্বিতীয় ভিন্নতা 'রাব্বিনা' শব্দে। অধিকাংশ কারী একে যের দিয়ে পড়েন, আল্লাহর গুণবাচক হিসেবে: আমাদের রব আল্লাহর কসম। বাগাভী জানান, হামযা ও কিসাঈ পড়েছেন 'রাব্বানা', সম্বোধন হিসেবে: আল্লাহর কসম, হে আমাদের রব। তাবারী সম্বোধনের কিরাআতকে অগ্রাধিকার দেন, কারণ কথাগুলো যিনি প্রশ্ন করেছেন তাঁকেই দেওয়া জবাব। কুরতুবী একে সুন্দর কিরাআত বলেন, কারণ এতে বিনয় আর কাকুতি আছে। তবে এতে কসম আর তার জবাবের মাঝখানে একটি সম্বোধন ঢুকে পড়ে।"
+          },
+          {
+            "en": "Who says it? Al-Qurtubi reports al-Hasan's view that the verse concerns the hypocrites in particular, keeping up their worldly habit, with fitnatuhum meaning the outcome of their disbelief. Ibn Kathir reports the same from ad-Dahhak from Ibn 'Abbas and questions it: the verse is Meccan, the hypocrites were in Madinah, and the verse revealed about them is 58:18, where they swear to Allah as they swear to the believers. This article keeps both positions as they are reported.",
+            "bn": "কথাটা কারা বলবে? কুরতুবী হাসানের মত বর্ণনা করেন: আয়াতটি বিশেষভাবে মুনাফিকদের সম্পর্কে, দুনিয়ার অভ্যাসই তারা চালিয়ে যাচ্ছে, আর ফিতনাতুহুম মানে তাদের কুফরের পরিণাম। ইবন কাসীর একই মত দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন, তারপর এ নিয়ে আপত্তি তোলেন। আয়াতটি মাক্কী, মুনাফিকরা ছিল মদীনায়। তাদের সম্পর্কে নাযিল হয়েছে ৫৮:১৮, যেখানে তারা আল্লাহর কাছে কসম খায়, যেমন মুমিনদের কাছে খেত। এ লেখা দুই মতকেই যেভাবে বর্ণিত, সেভাবে রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Tongue Keeps Its Habits",
+          "bn": "জিভ তার অভ্যাস ছাড়ে না"
+        },
+        "p": [
+          {
+            "en": "Unzur kayfa kadhabu 'ala anfusihim wa-dalla 'anhum ma kanu yaftarun: see how they lie against themselves, and what they used to invent has left them. At-Tabari makes this a looking of the heart, not of the eye, and says that in lying there they used the character they had made their own in the world, lying and fabrication. Yaftarun repeats the verb of 6:21, iftara. The forgery that began as speech about Allah ends as a lie against their own souls.",
+            "bn": "উনযুর কাইফা কাযাবূ আলা আনফুসিহিম ওয়া দাল্লা আনহুম মা কানূ ইয়াফতারূন: দেখ, তারা নিজেদের বিরুদ্ধে কীভাবে মিথ্যা বলে, আর যা তারা বানাত তা তাদের ছেড়ে হারিয়ে গেছে। তাবারী বলেন, এখানে দেখা মানে চোখে দেখা নয়, অন্তর দিয়ে বোঝা। তিনি বলেন, সেখানে মিথ্যা বলার সময় দুনিয়ায় যে স্বভাব তারা নিজেদের করে নিয়েছিল, মিথ্যা আর বানোয়াট কথা, সেখানেও তারা সেটাই কাজে লাগাল। ইয়াফতারূন শব্দে ফিরে এসেছে ৬:২১-এর ক্রিয়া, ইফতারা। যে বানোয়াট শুরু হয়েছিল আল্লাহ সম্পর্কে কথা দিয়ে, তা শেষ হলো নিজেদের বিরুদ্ধেই মিথ্যায়।"
+          },
+          {
+            "en": "How can they lie before Allah when 4:42 says they will not conceal a single statement from Him? At-Tabari and Ibn Kathir both carry the report through Sa'id ibn Jubayr: a man asked Ibn 'Abbas about it, and he answered that when they saw that only the people of Islam enter Paradise (in Ibn Kathir's version, the people of prayer), they agreed to deny, and said these words. Then Allah sealed their mouths, their hands and feet spoke, and they concealed nothing.",
+            "bn": "৪:৪২ আয়াত বলছে, তারা আল্লাহর কাছে একটি কথাও গোপন করতে পারবে না। তাহলে তাঁর সামনে তারা মিথ্যা বলে কীভাবে? তাবারী ও ইবন কাসীর দুজনেই সাঈদ ইবন জুবাইরের সূত্রে একটি বর্ণনা আনেন। এক লোক ইবন আব্বাস (রাঃ)-কে এ নিয়ে প্রশ্ন করেছিল। তিনি বলেন, তারা যখন দেখল ইসলামের অনুসারী ছাড়া কেউ জান্নাতে ঢুকছে না (ইবন কাসীরের বর্ণনায়, নামাযি ছাড়া কেউ নয়), তখন তারা ঠিক করল অস্বীকার করবে, আর এ কথাটাই বলল। তখন আল্লাহ তাদের মুখে মোহর মেরে দিলেন, তাদের হাত-পা কথা বলল, কিছুই আর গোপন থাকল না।"
+          },
+          {
+            "en": "Al-Qurtubi gives both sides of a real disagreement. One view holds that they can lie there, since it is a place of bewilderment, and he answers the apparent conflict with 4:42 by stations: in some they lie, before the limbs bear witness, and in others they conceal nothing. The other view, which he says most scholars of reasoning hold, is that no lie can occur in the abode of recompense, so we were not associators means not associators in our own estimation.",
+            "bn": "কুরতুবী একটি প্রকৃত মতভেদের দুই দিকই তুলে ধরেন। এক মত হলো, সেখানে তারা মিথ্যা বলতে পারে, কারণ জায়গাটা দিশেহারা হওয়ার। ৪:৪২-এর সঙ্গে আপাত বিরোধের জবাব তিনি দেন অবস্থানের ভিন্নতা দিয়ে। কোনো কোনো অবস্থানে তারা মিথ্যা বলে, অঙ্গপ্রত্যঙ্গের সাক্ষ্যের আগে, আর কোনো কোনো অবস্থানে কিছুই গোপন করে না। অন্য মত, যা তাঁর ভাষায় অধিকাংশ যুক্তিবিদ আলিমের: প্রতিদানের জগতে মিথ্যা ঘটতেই পারে না। তাই 'আমরা মুশরিক ছিলাম না' মানে, নিজেদের ধারণায় আমরা মুশরিক ছিলাম না।"
+          },
+          {
+            "en": "Al-Qurtubi also brings under 6:23 a long hadith of Abu Hurayrah from Sahih Muslim (no. 2968). In its closing part, described here rather than quoted, a third servant claims before his Lord that he believed and prayed, fasted and gave charity; his mouth is then sealed and his own limbs speak against him, so that no excuse is left to him, and the hadith names him a hypocrite. It is a general narration, not tied by the Prophet ﷺ to this verse. No commentator fetched attaches a sound hadith to 6:21 itself.",
+            "bn": "কুরতুবী ৬:২৩-এর আলোচনায় সহীহ মুসলিম থেকে আবু হুরাইরা (রাঃ)-এর একটি দীর্ঘ হাদীসও আনেন (নং ২৯৬৮)। এর শেষাংশ এখানে উদ্ধৃতি নয়, সারসংক্ষেপ: তৃতীয় এক বান্দা তার রবের সামনে দাবি করে যে সে ঈমান এনেছে, নামায পড়েছে, রোযা রেখেছে, সাদাকা দিয়েছে; তখন তার মুখে মোহর মেরে দেওয়া হয়, আর তার নিজের অঙ্গই তার বিরুদ্ধে কথা বলে, যাতে তার কোনো ওজর বাকি না থাকে; হাদীসটি তাকে মুনাফিক বলে। এটি সাধারণ বর্ণনা, নবী ﷺ একে এ আয়াতের সঙ্গে জুড়ে দেননি। আর যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৬:২১ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarding What I Say of Him",
+          "bn": "তাঁর সম্পর্কে কথায় সাবধানতা"
+        },
+        "p": [
+          {
+            "en": "The commentators' wider readings come near to every reader. As-Sa'di counts as lying about Allah the claim that anyone besides Him deserves worship, and as denial the rejection of truth from whoever carries the messengers' message after them. The verse does not name the believer who says what Allah loves, permits or forbids with nothing behind it but preference, or who hears a clear verse and looks for a way not to have heard it. It does set the measure.",
+            "bn": "মুফাসসিরদের প্রশস্ত ব্যাখ্যা প্রত্যেক পাঠকের কাছাকাছি চলে আসে। সা'দী আল্লাহর নামে মিথ্যার মধ্যে গণ্য করেন এই দাবিকে যে তাঁকে ছাড়া অন্য কেউ ইবাদতের যোগ্য। আর অস্বীকারের মধ্যে গণ্য করেন নবীদের পরে যারা তাঁদের বাণী বয়ে নিয়ে যায়, তাদের আনা সত্য ফিরিয়ে দেওয়াকে। যে মুমিন কেবল নিজের পছন্দের ভিত্তিতে বলে আল্লাহ এটা ভালোবাসেন বা ওটা হারাম করেছেন, কিংবা স্পষ্ট আয়াত শুনে না শোনার পথ খোঁজে, আয়াত তার নাম নেয় না। তবে মাপকাঠিটা ঠিক করে দেয়।"
+          },
+          {
+            "en": "And 6:24 gives a reason to begin now. At-Tabari says that at the reckoning they spoke with the character they had formed here. The tongue carries into that Day the habits it practised. Small untruths told for ease, and words about the religion spoken with more confidence than knowledge, are rehearsals. Guarding speech about Allah, and meeting His signs with acceptance rather than argument, is how a person prepares a different answer to the question of 6:22.",
+            "bn": "আর ৬:২৪ আয়াত এখনই শুরু করার কারণ দেখিয়ে দেয়। তাবারী বলেন, হিসাবের দিনে তারা কথা বলেছে এখানে গড়ে তোলা স্বভাব নিয়েই। জিভ যা অভ্যাস করে, সেদিনও তা-ই সঙ্গে নিয়ে যায়। আরামের জন্য বলা ছোট ছোট মিথ্যা, আর জ্ঞানের চেয়ে বেশি আত্মবিশ্বাস নিয়ে দীন সম্পর্কে বলা কথা, এসব যেন মহড়া। আল্লাহ সম্পর্কে কথায় সাবধান থাকা, আর তাঁর নিদর্শনের সামনে তর্ক না করে মেনে নেওয়া, এভাবেই মানুষ ৬:২২-এর প্রশ্নের জন্য ভিন্ন এক জবাব তৈরি করে।"
+          }
+        ]
+      }
+    ]
+  },
   "6:25": {
     "sections": [
       {
