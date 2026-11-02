@@ -20391,6 +20391,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask what you need in order to act, and leave alone what Allah left unsaid: some answers burden or wound, and His silence is a pardon.",
     "lessonBn": "আমল করতে যা জানা দরকার তা জিজ্ঞেস করুন, আর আল্লাহ যা বলেননি তা নিয়ে খোঁড়াখুঁড়ি ছেড়ে দিন। কিছু উত্তর বোঝা চাপায় বা কষ্ট দেয়, আর তাঁর নীরবতা এক ক্ষমা।"
+  },
+  "6:63": {
+    "reflectionEn": "The question is asked from inside the storm. Who rescues you from the darknesses of land and sea, when you call on Him humbly and in secret? The people on the deck do not need anyone to answer it for them; their own voices already have. In that hour every other name goes quiet, and one promise is made aloud: save us from this and we will surely be among the thankful. The next verse says what came after the shore: Allah saves you from it and from every distress, and then you associate others with Him. I have made promises like that, in a hospital corridor or on a long bad night. Where are they now? Did my thanks outlast the danger?",
+    "reflectionBn": "প্রশ্নটা আসে ঝড়ের ভেতর থেকে। জলে-স্থলের অন্ধকার থেকে কে তোমাদের উদ্ধার করে, যখন তোমরা বিনয়ের সঙ্গে আর গোপনে তাঁকে ডাকো? নৌকার মানুষগুলোর জন্য কাউকে উত্তর দিতে হয় না। তাদের নিজেদের গলাই উত্তর দিয়ে ফেলেছে। সেই মুহূর্তে বাকি সব নাম চুপ হয়ে যায়, আর মুখে একটাই প্রতিজ্ঞা: এ থেকে বাঁচালে আমরা অবশ্যই কৃতজ্ঞ হয়ে থাকব। পরের আয়াত জানিয়ে দেয় তীরে ওঠার পর কী হলো: আল্লাহই তোমাদের এ থেকে আর সব বিপদ থেকে বাঁচান, তারপরও তোমরা তাঁর সঙ্গে শরিক করো। এমন প্রতিজ্ঞা আমিও করেছি, হাসপাতালের বারান্দায় কিংবা কোনো দীর্ঘ দুঃসহ রাতে। সেগুলো এখন কোথায়? আমার শুকরিয়া কি বিপদের চেয়ে বেশিদিন টিকেছে?",
+    "pointsEn": [
+      "What did I promise Allah the last time I was truly frightened, and have I kept it?",
+      "When life goes smoothly again, whom or what do I quietly credit for my safety?",
+      "Do I call on Him in secret when nothing is wrong, or only aloud when everything is?",
+      "What would thankfulness for my last rescue look like this week, beyond saying alhamdulillah?",
+      "When I reach first for a doctor, a phone or a plan, do I remember who makes them work?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন সত্যিই ভয় পেয়েছিলাম, আল্লাহর কাছে কী প্রতিজ্ঞা করেছিলাম? সেটা কি রেখেছি?",
+      "জীবন আবার স্বাভাবিক হয়ে এলে আমি মনে মনে কাকে বা কীসের কৃতিত্ব দিই যে আমি নিরাপদ?",
+      "সব ঠিক থাকার সময়ও কি আমি গোপনে তাঁকে ডাকি, নাকি শুধু সব ভেঙে পড়লে চিৎকার করে ডাকি?",
+      "শেষ যে বিপদ থেকে বেঁচেছি, তার শুকরিয়া এ সপ্তাহে কেমন দেখাবে, শুধু আলহামদুলিল্লাহ বলার বাইরে?",
+      "ডাক্তার, ফোন বা কোনো পরিকল্পনার দিকে আগে হাত বাড়ালে আমি কি মনে রাখি, এগুলো কাজ করে কার হুকুমে?"
+    ],
+    "lessonEn": "Keep the promises you make to Allah in hardship, and let your thanks after rescue show as worship of Him alone.",
+    "lessonBn": "বিপদের সময় আল্লাহর কাছে যে প্রতিজ্ঞা করেন তা রক্ষা করুন, আর উদ্ধার পাওয়ার পর শুকরিয়া প্রকাশ করুন শুধু তাঁরই ইবাদতে।"
   }
 };
 

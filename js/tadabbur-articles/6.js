@@ -2047,6 +2047,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:63": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Put to Idolaters",
+          "bn": "মূর্তিপূজারীদের সামনে একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verses just before set out a sovereignty that leaves nothing out. He holds the keys of the unseen (6:59), takes souls by night and knows what is done by day (6:60), sends guardians over His servants and then death (6:61), and to Him all are returned, the swiftest of reckoners (6:62). Qul, say: the Prophet ﷺ is handed a question to put to his hearers. At-Tabari names them: those who set up equals with their Lord and call others to the worship of their idols.",
+            "bn": "ঠিক আগের আয়াতগুলো এমন এক কর্তৃত্বের কথা বলে, যার বাইরে কিছুই নেই। গায়বের চাবি তাঁর কাছে (৬:৫৯)। রাতে তিনি প্রাণ নিয়ে নেন, দিনে কে কী করে তা জানেন (৬:৬০)। বান্দাদের উপর রক্ষক পাঠান, তারপর পাঠান মৃত্যু (৬:৬১)। আর সবাইকে ফিরে যেতে হয় তাঁরই কাছে, যিনি সবচেয়ে দ্রুত হিসাব নেন (৬:৬২)। কুল, বলো: নবী ﷺ-এর হাতে একটি প্রশ্ন তুলে দেওয়া হলো, শ্রোতাদের সামনে রাখার জন্য। শ্রোতা কারা, তাবারী বলে দেন: যারা নিজেদের রবের সমকক্ষ দাঁড় করায় আর মানুষকে তাদের মূর্তির পূজার দিকে ডাকে।"
+          },
+          {
+            "en": "As-Sa'di explains what the question is meant to do. The Prophet ﷺ is to bind the idolaters by what they already affirm against what they deny. They grant that Allah alone is Lord; they refuse that He alone is to be worshipped. The Muyassar frames the expected answer as a second question: is it not Allah, whom you call upon in hardships, abased, aloud and in secret?",
+            "bn": "প্রশ্নটা দিয়ে কী করা হচ্ছে, সা'দী তা ব্যাখ্যা করেন। মুশরিকরা যা মানে, তা দিয়েই তাদের আটকে দেওয়া হচ্ছে, যা তারা মানে না তার বিরুদ্ধে। তারা স্বীকার করে, রব একমাত্র আল্লাহ। কিন্তু মানে না যে ইবাদতও একমাত্র তাঁরই প্রাপ্য। মুয়াসসার প্রত্যাশিত উত্তরটাকে আরেকটি প্রশ্নের রূপ দেয়: তিনি কি আল্লাহ নন, বিপদে যাঁকে তোমরা ডাকো নত হয়ে, প্রকাশ্যে ও গোপনে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lost Roads, Rising Seas",
+          "bn": "হারানো পথ, ফুঁসে ওঠা সাগর"
+        },
+        "p": [
+          {
+            "en": "Min zulumati al-barri wa al-bahr: from the darknesses of land and sea. At-Tabari reads the phrase close to its image. The darkness of the land is when you stray in it and are bewildered, and the right road grows dark to you; the darkness of the sea is when you sail it, miss your course, and cannot find the way. He cites Ibn 'Abbas (RA): when a man loses the road, he calls on Allah, if You save us from this, we will be among the thankful.",
+            "bn": "মিন জুলুমাতিল বাররি ওয়াল বাহর: জল-স্থলের অন্ধকারগুলো থেকে। তাবারী শব্দের ছবিটার কাছাকাছি থেকেই অর্থ করেন। স্থলের অন্ধকার মানে, পথ হারিয়ে দিশেহারা হয়ে পড়া, যখন সঠিক রাস্তাটা চোখের সামনে আঁধার হয়ে যায়। সাগরের অন্ধকার মানে, জাহাজে চড়ে দিক ভুল করা, পথ আর খুঁজে না পাওয়া। তিনি ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন: কেউ যখন রাস্তা হারায়, আল্লাহকে ডেকে বলে, তুমি যদি এ থেকে আমাদের বাঁচাও, আমরা অবশ্যই কৃতজ্ঞদের দলে থাকব।"
+          },
+          {
+            "en": "Ibn Kathir gives the scene two settings: people bewildered in the empty wastes of the desert, and people in the deep waters of the sea when a storm wind rises. Others read the darkness as a figure. Al-Qurtubi, as-Sa'di and al-Baghawi each gloss zulumat as the shada'id, the hardships, of land and sea, and at-Tabari records Qatada calling it their karb, their distress. The two readings sit together in these books: al-Baghawi glosses hardships and then describes travellers who lost the way and feared death, calling on Allah sincerely.",
+            "bn": "ইবন কাসীর দৃশ্যটাকে দুই জায়গায় দাঁড় করান: মরুভূমির ধু-ধু প্রান্তরে দিশেহারা মানুষ, আর ঝড়ো হাওয়া উঠলে সাগরের গভীর জলে আটকে পড়া মানুষ। অন্যরা অন্ধকারকে রূপক হিসেবে পড়েন। কুরতুবী, সা'দী ও বাগাভী তিনজনই জুলুমাতের অর্থ করেন জলে-স্থলের শাদাইদ, মানে কঠিন বিপদ। তাবারী উল্লেখ করেন, কাতাদা একে বলেছেন জল-স্থলের কারব, অর্থাৎ দুর্দশা। তবে এই কিতাবগুলোতে দুই অর্থ পাশাপাশিই থাকে। বাগাভী প্রথমে কঠিন বিপদ বলে ব্যাখ্যা করেন, তারপরই বর্ণনা দেন সেই মুসাফিরদের, যারা পথ হারিয়ে মৃত্যুর ভয়ে একনিষ্ঠ হয়ে আল্লাহকে ডাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day With Stars in It",
+          "bn": "তারাভরা এক দিন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi grounds the figurative reading in the way Arabs spoke. Citing an-Nahhas, he says they call a day muzlim, dark, when it is hard. When they want to make it greater still, they call it a yawm dhu kawakib, a day with stars. He quotes a line Sibawayh recited: Banu Asad, do you know what we are worth in trial, when a day with stars turns most hideous? On this usage, a dark day is a hard day, and the verse's darknesses are its hardships.",
+            "bn": "রূপক অর্থটার ভিত্তি কুরতুবী খোঁজেন আরবদের মুখের ভাষায়। নাহহাসের বরাতে তিনি বলেন, দিন কঠিন হলে আরবরা তাকে বলে মুজলিম, অন্ধকার দিন। আরও ভয়াবহ বোঝাতে চাইলে বলে ইয়াওমুন যূ কাওয়াকিব, তারাওয়ালা দিন। তিনি সীবাওয়াইহর আবৃত্তি করা একটি পঙক্তি আনেন: হে বনু আসাদ, বিপদের দিনে আমরা কেমন, তোমরা কি জানো, যখন তারাভরা দিন সবচেয়ে বীভৎস হয়ে ওঠে? এ ব্যবহার মানলে অন্ধকার দিন মানে কঠিন দিন। আর আয়াতের অন্ধকারগুলো মানে জল-স্থলের কঠিন বিপদগুলো।"
+          },
+          {
+            "en": "Then he explains the plural. The verse says zulumat, not zulma, because it means the darkness of the land, the darkness of the sea, the darkness of night and the darkness of cloud: when you have lost the road and fear destruction, you call on Him. Ma'arif al-Qur'an explains the plural with its own list. Darkness comes in many kinds, it says, the darkness of night, of rain clouds, of dust storms and beneath the waves of the sea, and the one word gathers all of them.",
+            "bn": "এরপর তিনি বহুবচনের ব্যাখ্যা দেন। আয়াতে একবচন জুলমা নয়, বহুবচন জুলুমাত। কারণ এখানে বোঝানো হচ্ছে স্থলের অন্ধকার, সাগরের অন্ধকার, রাতের অন্ধকার আর মেঘের অন্ধকার। পথ হারিয়ে যখন ধ্বংসের ভয় পেয়ে বসে, তখন তোমরা তাঁকে ডাকো। মাআরিফুল কুরআনও নিজের তালিকা দিয়ে বহুবচনের ব্যাখ্যা দেয়। অন্ধকার নানা রকম: রাতের অন্ধকার, বৃষ্টির মেঘের অন্ধকার, ধূলিঝড়ের অন্ধকার, সাগরের ঢেউয়ের নিচের অন্ধকার। একটি শব্দ এ সবগুলোকে এক জায়গায় জড়ো করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aloud, and Under the Breath",
+          "bn": "সরবে, আর নিচু স্বরে"
+        },
+        "p": [
+          {
+            "en": "Tad'unahu tadarru'an wa khufyatan: you call on Him humbly and in secret. Ibn Kathir glosses the pair in two words, jahran wa sirran, openly and secretly, and al-Baghawi says the same. At-Tabari spells it out. Tadarru' is your abasing yourselves before Him and humbling yourselves openly; khufya is concealing the supplication at times, while at other times you proclaim it and make it plain. The Muyassar has both in one phrase: abased, aloud and in secret.",
+            "bn": "তাদ'ঊনাহু তাদাররু'আন ওয়া খুফইয়াতান: তোমরা তাঁকে ডাকো বিনয়ের সঙ্গে আর গোপনে। ইবন কাসীর জোড়াটার অর্থ দেন দুই শব্দে: জাহরান ওয়া সিররান, প্রকাশ্যে আর গোপনে। বাগাভীও একই কথা বলেন। তাবারী আরেকটু খুলে বলেন। তাদাররু' মানে তাঁর সামনে নিজেকে ছোট করা, প্রকাশ্যে নত হওয়া। আর খুফইয়া মানে কখনো দু'আ লুকিয়ে করা, আবার কখনো তা ঘোষণা দিয়ে স্পষ্ট করে করা। মুয়াসসার দুটোকেই এক বাক্যে ধরে: নত হয়ে, প্রকাশ্যে ও গোপনে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the pair a clean division: tadarru' is to show your lowliness outwardly, and khufya is to hold the same inwardly. As-Sa'di looks inside the one praying: tadarru' is a heart brought low and a tongue that does not stop pleading its need. Ma'arif al-Qur'an tells it as a story of the same people, at times confessing their helplessness openly, at others admitting deep in their hearts that no one but Allah could save them from such a catastrophe.",
+            "bn": "কুরতুবী জোড়াটাকে পরিষ্কার দুই ভাগে ভাগ করেন। তাদাররু' মানে নিজের হীনতা বাইরে প্রকাশ করা, আর খুফইয়া মানে সেই একই অবস্থা ভেতরে ধরে রাখা। সা'দী তাকান যে ডাকছে তার ভেতরের দিকে। তাঁর কাছে তাদাররু' মানে নত হয়ে যাওয়া এক হৃদয়, আর এমন এক জিহ্বা, যা নিজের প্রয়োজনের কথা বলে বলে থামে না। মাআরিফুল কুরআন একই মানুষদের কথা বলে গল্পের মতো করে। কখনো তারা মুখ খুলে নিজেদের অসহায়ত্ব স্বীকার করত, কখনো মনের গভীরে মেনে নিত যে এমন বিপর্যয় থেকে আল্লাহ ছাড়া কেউ বাঁচাতে পারে না।"
+          },
+          {
+            "en": "The word itself is read in more than one way. Al-Qurtubi and al-Baghawi both report that Abu Bakr, transmitting from 'Asim, read khifyatan with a kasra, while the rest read khufyatan with a damma, and both call these two dialect forms of one word; al-Baghawi notes the same reading in al-A'raf. Al-Qurtubi also reports al-A'mash reading wa khifatan, from fear. He calls it far-fetched, precisely because the verse pairs an outward state with an inward one.",
+            "bn": "শব্দটির পাঠও একাধিক। কুরতুবী ও বাগাভী দুজনেই জানান, আসিম থেকে আবূ বকর পড়েছেন খা-এর নিচে যের দিয়ে, খিফইয়াতান। বাকিরা পড়েছেন পেশ দিয়ে, খুফইয়াতান। দুজনেই বলেন, এ একই শব্দের দুটি আঞ্চলিক রূপ। বাগাভী আরও জানান, সূরা আ'রাফেও আবূ বকরের পাঠ একই। কুরতুবী আ'মাশের একটি পাঠও উল্লেখ করেন: ওয়া খীফাতান, ভয় থেকে। তবে তিনি এ পাঠকে দূরবর্তী বলেন। কারণ আয়াত এখানে বাইরের এক অবস্থার পাশে ভেতরের এক অবস্থাকে জোড়া দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If He Saves Us, or You",
+          "bn": "যদি তিনি বাঁচান, যদি তুমি"
+        },
+        "p": [
+          {
+            "en": "La'in anjana min hadhihi: if He saves us from this. The common mushaf reads anjana, He saves us, speaking of Allah. Al-Qurtubi and al-Baghawi report that this is the reading of the people of Kufa, while others read anjaytana, You save us, addressing Him directly; al-Qurtubi adds that the sense runs more evenly with the second person, as the people of Madina and Syria read it. At-Tabari's own paraphrase follows anjaytana: you say, if You save us from this, O Lord.",
+            "bn": "লাইন আনজানা মিন হাযিহি: যদি তিনি এ থেকে আমাদের বাঁচান। প্রচলিত মুসহাফে আছে আনজানা, তিনি আমাদের বাঁচান, এখানে আল্লাহর কথা বলা হচ্ছে তাঁকে সম্বোধন না করে। কুরতুবী ও বাগাভী জানান, এটি কূফাবাসীদের পাঠ। অন্যরা পড়েছেন আনজাইতানা, তুমি আমাদের বাঁচাও, সরাসরি তাঁকে সম্বোধন করে। কুরতুবী যোগ করেন, মদীনা ও শামের লোকেরা যেভাবে পড়েছেন, সেই সম্বোধনের রূপেই অর্থটা বেশি সামঞ্জস্যপূর্ণ। তাবারীর নিজের ব্যাখ্যাও আনজাইতানা ধরে চলে: তোমরা বলো, হে রব, তুমি যদি এ থেকে আমাদের বাঁচাও।"
+          },
+          {
+            "en": "Min hadhihi, from this: Ibn Kathir says from this tight place, as-Sa'di from this hardship we have fallen into, al-Qurtubi from these hardships, the Muyassar from these fears, and al-Baghawi and at-Tabari from these darknesses. Each gloss of the pronoun follows that commentator's reading of the darkness. Then la-nakunanna min ash-shakirin, we will surely be among the thankful. Ibn Kathir adds one word to his gloss that carries the whole of the next verse: thankful thereafter, once the danger has passed.",
+            "bn": "মিন হাযিহি, এ থেকে। ইবন কাসীরের মতে, এই সংকট থেকে। সা'দীর মতে, যে কঠিন বিপদে আমরা পড়েছি তা থেকে। কুরতুবীর মতে, এই বিপদগুলো থেকে। মুয়াসসারের মতে, এই ভয়গুলো থেকে। আর বাগাভী ও তাবারীর মতে, এই অন্ধকারগুলো থেকে। প্রত্যেকে সর্বনামটির যে অর্থ করেন, তা মিলে যায় অন্ধকারের ব্যাপারে তাঁর নিজের পাঠের সঙ্গে। তারপর লানাকূনান্না মিনাশ শাকিরীন: আমরা অবশ্যই কৃতজ্ঞদের অন্তর্ভুক্ত হব। ইবন কাসীর এখানে একটিমাত্র শব্দ যোগ করেন, আর পরের আয়াতের পুরো কথাটাই যেন তাতে ধরা: কৃতজ্ঞ থাকব এরপরও, বিপদ কেটে যাওয়ার পর।"
+          },
+          {
+            "en": "What would that thankfulness have been? At-Tabari: to be among those who single You out with thanks and devote worship to You alone, rather than those we used to associate with You. Al-Qurtubi: among the obedient. Al-Baghawi defines shukr as knowing the blessing together with doing what it is owed. As-Sa'di: acknowledging His blessing, spending it in obedience to Him, and guarding it from being spent in disobedience. The Muyassar: thankful by worshipping Him alone, with no partner.",
+            "bn": "সেই কৃতজ্ঞতা আসলে কী হতো? তাবারীর উত্তর: তাদের দলে থাকা, যারা শুকরিয়ায় তোমাকেই একক রাখে আর ইবাদত খাঁটিভাবে তোমার জন্যই করে, যাদের এতদিন তোমার সঙ্গে শরিক করতাম তাদের বাদ দিয়ে। কুরতুবীর উত্তর: অনুগতদের দলে থাকা। বাগাভী শুকরের সংজ্ঞা দেন এভাবে: নিয়ামতকে চেনা, আর সেই সঙ্গে তার হক আদায় করা। সা'দীর কাছে কৃতজ্ঞ মানে যে তাঁর নিয়ামত স্বীকার করে, তা তাঁর আনুগত্যে খরচ করে, আর নাফরমানিতে খরচ হওয়া থেকে বাঁচিয়ে রাখে। মুয়াসসারের উত্তর: একমাত্র তাঁর ইবাদত করে, কোনো শরিক ছাড়া কৃতজ্ঞ হওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then, Once on Dry Land",
+          "bn": "তারপর, ডাঙায় ওঠার পর"
+        },
+        "p": [
+          {
+            "en": "The answer comes in the next verse, and the Prophet ﷺ is told to give it himself: qul Allahu yunajjikum minha wa min kulli karb, say, Allah saves you from it and from every distress. Then three words: thumma antum tushrikun, then you associate others with Him. Al-Qurtubi reads this as a rebuke: Allah reproached them for calling on Him in hardship while calling on others alongside Him in ease. Ibn Kathir: in comfort, you call on other gods besides Him.",
+            "bn": "উত্তর আসে পরের আয়াতে, আর সেটাও নবী ﷺ-কে নিজ মুখে বলে দিতে বলা হয়: কুলিল্লাহু ইউনাজ্জীকুম মিনহা ওয়া মিন কুল্লি কারব। বলো, আল্লাহই তোমাদের এ থেকে আর সব দুর্দশা থেকে বাঁচান। তারপর ছোট্ট তিনটি শব্দ: সুম্মা আনতুম তুশরিকূন, তারপরও তোমরা শরিক করো। কুরতুবী একে ভর্ৎসনা হিসেবে পড়েন। বিপদে তারা আল্লাহকে ডাকত, আর সুখের দিনে তাঁর সঙ্গে অন্যদেরও ডাকত, এ জন্যই আল্লাহ তাদের তিরস্কার করেছেন। ইবন কাসীরও বলেন: সুখের সময় তোমরা তাঁর পাশাপাশি অন্য উপাস্যদের ডাকো।"
+          },
+          {
+            "en": "Ibn Kathir sets three verses beside this one. In 17:67, when harm touches you at sea, those you call on besides Him vanish, except Him; and when He brings you safely to land, you turn away. 10:22 gives the storm in detail, the fair wind and the rejoicing, then the gale and the waves from every side, and puts this verse's own vow in the passengers' mouths. And 27:63 asks the same kind of question with a different verb: who guides you in the darknesses of land and sea?",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও তিনটি আয়াত রাখেন। ১৭:৬৭ বলে, সাগরে বিপদ ছুঁয়ে গেলে তাঁকে ছাড়া যাদের ডাকো তারা হারিয়ে যায়। আর তিনি নিরাপদে ডাঙায় পৌঁছে দিলে তোমরা মুখ ফিরিয়ে নাও। ১০:২২ ঝড়ের পুরো ছবি আঁকে। অনুকূল বাতাস, যাত্রীদের খুশি, তারপর প্রচণ্ড ঝড় আর চারদিক থেকে ধেয়ে আসা ঢেউ। এ আয়াতের প্রতিজ্ঞাটাই সেখানে যাত্রীদের মুখে। আর ২৭:৬৩ ভিন্ন ক্রিয়ায় একই ধরনের প্রশ্ন করে: জল-স্থলের অন্ধকারে কে তোমাদের পথ দেখায়?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, which identifies those addressed as the disbelievers of Makkah, calls their return to false gods after open signs a strange betrayal. It must be said plainly: the verse describes the conduct of the people it addressed, and it licenses nothing against any living person or community. Nor does it make anyone's prayer in trouble suspect. It holds up a pattern for each reader to look for in themselves: the promise made in the storm, and what became of it on land.",
+            "bn": "মাআরিফুল কুরআন জানায়, এখানে সম্বোধন মক্কার কাফিরদের। খোলা নিদর্শন দেখার পরও মিথ্যা উপাস্যের দিকে তাদের ফিরে যাওয়াকে সে বলে এক অদ্ভুত বিশ্বাসঘাতকতা। কথাটা সোজাসুজি বলা দরকার। আয়াতটি যাদের সম্বোধন করেছে, তাদেরই আচরণের বর্ণনা দেয়। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। বিপদে পড়ে কেউ দু'আ করলে সেই দু'আকেও এ আয়াত সন্দেহের চোখে দেখতে শেখায় না। এ বরং এক নকশা, যা প্রত্যেক পাঠক নিজের ভেতরে খুঁজে দেখবেন: ঝড়ের মধ্যে করা প্রতিজ্ঞা, আর ডাঙায় ওঠার পর তার কী হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Above or Underfoot",
+          "bn": "মাথার উপর থেকে, পায়ের নিচ থেকে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads 6:65 as following directly from that ingratitude: after He has saved you, He is still able to send a punishment on you from above or from beneath your feet. He sets 17:68 beside it, which asks the rescued whether they feel safe from the land swallowing them or a storm of stones. Then: aw yalbisakum shiya'an, or confuse you into factions and make you taste each other's violence. Ibn Kathir reports al-Bukhari's gloss: yalbisakum means to cover you with confusion, so that you divide into parties.",
+            "bn": "ইবন কাসীর ৬:৬৫ আয়াতকে পড়েন সেই অকৃতজ্ঞতারই সরাসরি পরিণতি হিসেবে। তিনি তোমাদের বাঁচানোর পরও উপর থেকে কিংবা পায়ের নিচ থেকে শাস্তি পাঠাতে সক্ষম। পাশে তিনি রাখেন ১৭:৬৮, যেখানে উদ্ধার পাওয়া মানুষদের জিজ্ঞেস করা হয়: মাটি তোমাদের গিলে ফেলবে না, কিংবা পাথরের ঝড় আসবে না, এ ব্যাপারে কি তোমরা নিশ্চিন্ত? তারপর: আও ইয়ালবিসাকুম শিয়া'আন, অথবা তোমাদের দলে দলে বিভক্ত করে গুলিয়ে দেবেন, আর একে অপরের আঘাতের স্বাদ চাখাবেন। ইবন কাসীর বুখারীর ব্যাখ্যা উদ্ধৃত করেন: ইয়ালবিসাকুম মানে তোমাদের বিভ্রান্তিতে ঢেকে দেওয়া, যাতে তোমরা নানা দলে ভাগ হয়ে যাও।"
+          },
+          {
+            "en": "Al-Bukhari records in his Sahih (4628) from Jabir (RA): \"When this verse was revealed, 'Say: He is able to send upon you a punishment from above you,' Allah's Messenger ﷺ said, 'I seek refuge in Your Face.' It said, 'or from beneath your feet,' and he said, 'I seek refuge in Your Face.' 'Or to confuse you into factions and make some of you taste the violence of others': Allah's Messenger ﷺ said, 'This is lighter,' or, 'This is easier.'\"",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (4628) জাবির (রাঃ) থেকে বর্ণনা করেছেন: \"যখন এ আয়াত নাযিল হলো, 'বলো, তিনি তোমাদের উপর থেকে শাস্তি পাঠাতে সক্ষম', রাসূলুল্লাহ ﷺ বললেন, 'আমি তোমার চেহারার আশ্রয় চাই।' এরপর এল, 'অথবা তোমাদের পায়ের নিচ থেকে', তিনি বললেন, 'আমি তোমার চেহারার আশ্রয় চাই।' 'অথবা তোমাদের দলে দলে বিভক্ত করে গুলিয়ে দেবেন, আর তোমাদের কাউকে অন্যদের আঘাতের স্বাদ চাখাবেন', তখন রাসূলুল্লাহ ﷺ বললেন, 'এটা হালকা', অথবা বললেন, 'এটা সহজ।'\""
+          },
+          {
+            "en": "Muslim records in his Sahih (2890) from Sa'd ibn Abi Waqqas (RA) that the Prophet ﷺ prayed two rak'ahs in the mosque of Banu Mu'awiya, supplicated at length, then turned to them and said: \"I asked my Lord for three things; He granted me two and withheld one. I asked my Lord not to destroy my Ummah by famine, and He granted it. I asked Him not to destroy my Ummah by drowning, and He granted it. And I asked Him not to put their violence among themselves, and He withheld it.\"",
+            "bn": "মুসলিম তাঁর সহীহ গ্রন্থে (2890) সা'দ ইবন আবী ওয়াক্কাস (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বনু মু'আবিয়ার মসজিদে দুই রাকাত নামায পড়লেন, দীর্ঘক্ষণ রবের কাছে দু'আ করলেন, তারপর তাঁদের দিকে ফিরে বললেন: \"আমি আমার রবের কাছে তিনটি জিনিস চেয়েছিলাম। দুটি তিনি দিয়েছেন, একটি দেননি। চেয়েছিলাম, আমার উম্মতকে যেন দুর্ভিক্ষে ধ্বংস না করেন, তিনি তা দিয়েছেন। চেয়েছিলাম, আমার উম্মতকে যেন ডুবিয়ে ধ্বংস না করেন, তিনি তা দিয়েছেন। আর চেয়েছিলাম, তাদের পারস্পরিক সংঘাত যেন তাদের নিজেদের মধ্যে না রাখেন, তা তিনি দেননি।\""
+          },
+          {
+            "en": "Both collectors placed these reports in their Sahih, which is their own grading. Muslim's wording does not name the verse; Ibn Kathir is the one who sets it here, beside the factions. None of the commentaries consulted attaches a narration to 6:63 itself. On the factions, Ibn Kathir reports from Ibn 'Abbas (RA), through 'Ali ibn Abi Talha, that the verse refers to desires, and from Mujahid and others the same; the tasting of violence, he says on Ibn 'Abbas's authority, is harm and killing at one another's hands.",
+            "bn": "দুজন সংকলকই বর্ণনা দুটি নিজেদের সহীহ গ্রন্থে রেখেছেন, আর সেটাই তাঁদের নিজেদের দেওয়া মান। মুসলিমের বর্ণনায় আয়াতের নাম নেই। ইবন কাসীরই একে এখানে, দলে দলে ভাগ হওয়ার কথার পাশে এনে রেখেছেন। ৬:৬৩ আয়াতের সঙ্গে সরাসরি যুক্ত কোনো বর্ণনা যে তাফসীরগুলো দেখা হয়েছে তার কোনোটিতে নেই। দলাদলির ব্যাপারে ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে, এখানে প্রবৃত্তির কথা বলা হয়েছে। মুজাহিদ ও আরও অনেকে একই কথা বলেছেন। আর একে অপরের আঘাতের স্বাদ মানে, ইবন আব্বাসের বরাতে তিনি বলেন, পরস্পরের হাতে নির্যাতন আর হত্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks That Outlasts the Storm",
+          "bn": "ঝড় থামার পরও শুকরিয়া"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an turns the verse on its believing readers. The idolaters at least turned to Allah when the storm struck; a believer may not, because his attention is fixed on material help, on doctors in sickness and rescue teams in a flood. Then it adds the other half. Medicine and every material means of meeting a calamity are not useless. They are His creation and His blessing, to be used as such. What matters is the order: turn to Allah first, seek His forgiveness, and ask Him to lift the hardship.",
+            "bn": "মাআরিফুল কুরআন আয়াতটাকে ঘুরিয়ে দেয় ঈমানদার পাঠকের দিকে। মূর্তিপূজারীরা অন্তত ঝড় এলে আল্লাহর দিকে ফিরত। কিন্তু একজন মুমিন হয়তো তাও করে না, কারণ তার মন আটকে থাকে বস্তুগত সাহায্যে: অসুখে ডাক্তারের উপর, বন্যায় উদ্ধারকারী দলের উপর। তারপরই সে বাকি অর্ধেকটা বলে। ওষুধপত্র বা বিপদ মোকাবেলার কোনো উপকরণ অর্থহীন নয়। এগুলো আল্লাহরই সৃষ্টি, তাঁরই নিয়ামত। ব্যবহার করতে হবে সেটা জেনেই। আসল কথা হলো ক্রম। আগে আল্লাহর দিকে ফেরা, তাঁর কাছে মাগফিরাত চাওয়া, আর বিপদ সরিয়ে দিতে তাঁকেই ডাকা।"
+          },
+          {
+            "en": "The verse's own sequence gives a plain test. A promise was made in the dark: if He saves us from this, we will be among the thankful. The commentators have already said what that promise held: worship of Him alone, obedience, a blessing known and its due paid, a blessing kept out of disobedience. The question it leaves is not whether we called on Him when the waves rose; even those it rebukes did that. It is what we did with the dry land.",
+            "bn": "আয়াতের নিজের ক্রমটাই একটা সহজ পরীক্ষা হয়ে দাঁড়ায়। অন্ধকারে একটা প্রতিজ্ঞা করা হয়েছিল: তিনি যদি এ থেকে বাঁচান, আমরা কৃতজ্ঞদের দলে থাকব। সেই প্রতিজ্ঞার ভেতরে কী ছিল, তাফসীরকারেরা আগেই বলে দিয়েছেন: একমাত্র তাঁর ইবাদত, আনুগত্য, নিয়ামত চেনা আর তার হক আদায় করা, নিয়ামতকে নাফরমানি থেকে দূরে রাখা। ঢেউ ওঠার সময় আমরা তাঁকে ডেকেছিলাম কি না, প্রশ্ন সেটা নয়। সে ডাক তো যাদের তিরস্কার করা হলো তারাও দিয়েছিল। প্রশ্ন হলো, ডাঙায় পৌঁছে আমরা কী করলাম।"
+          }
+        ]
+      }
+    ]
+  },
   "6:68-69": {
     "sections": [
       {
