@@ -16,9 +16,10 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## WAVE 2 (2026-11-02): more ayahs.
 GROUP SHIP 1: v1310-v1340 (31 keys) pushed + deployed 2026-11-02. USER: "Enrich with 10 agents" -> chose "Tadabbur: more ayahs".
-GROUP SHIP 3: v1363-v1393 (31 keys + 2 fix commits) pushed + deployed 2026-11-02 ~15:45, lq-v1393 live-verified (5/6/7.js md5 match). USER: after the wave, 2 drafters at a time until 7d 98%, then 1 at a time to the limit. In flight: 7:109.
+GROUP SHIP 3: v1363-v1393 live 2026-11-02 ~15:45. GROUP SHIP 4: v1394-v1395 (7:109, 7:119) pushed + deployed ~16:15. STOPPED at user request ("once done, stop"); nothing in flight. 7d reset Mon 2 Nov 16:00 (now ~0%, next reset Mon 9 Nov 16:00). RESUME: queue.js -> 7:133 (PREP.md ready) 7:145 7:152 ...; user pacing last said: 2 drafters at a time until 98%, then 1.
 RESUME: after the 16:00 reset, 12 drafters; 504 targets left; next: 5:21 5:33 5:38 5:51 5:68 5:75 5:87 5:101 5:114 6:10 6:21 6:34. Superseded single-key audit folders (audit/2_4, 2_68, 3_33, ...) are leftovers, safe to delete.
 OPEN (user decides): data/nuzul/asbab-w6-batch.json 3:195 entry says Tirmidhi 3023 "graded hasan sahih"; the fetched quranx page (audit/3_195/hadith_Tirmidhi_3023.txt) carries no grading from at-Tirmidhi. Unverified either way.
+OPEN (small): shipped 7:111 §1.1 says 7:110 "continues in the same speech" of the chiefs; at-Tabari, Muyassar, al-Qurtubi/al-Baghawi (first view) give 7:110 to Pharaoh (see audit/7_109). Add a qualifier.
 NOTE: 4:152-153 (at-Tabari, al-Qurtubi, al-Muyassar: calf after the revival) and 2:55-56 (Ibn Ishaq: the seventy went out to repent for the calf) give different sequences; both attributed, difference not mentioned in either.
 New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-targets-2.js): 1 per 4 ayahs, same bucket/most-cited method, only buckets with no shipped coverage -> 557 new keys. queue.js reads both target files. Same main-loop pipeline (prep, BRIEF, gate, ship.sh, commit.sh); 12 drafters in parallel (USER 2026-11-02: "we can run 12 agents - boost production"; was 10). Pause new launches at ~85% 7d, resume after the reset. Group-ship rule stands: push+deploy once >30 gated.
 
