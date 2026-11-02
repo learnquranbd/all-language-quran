@@ -1171,6 +1171,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Whose War, Whose Roads",
+          "bn": "কার বিরুদ্ধে যুদ্ধ, কার পথে"
+        },
+        "p": [
+          {
+            "en": "Innama jaza'u alladhina yuharibuna Allaha wa-rasulahu: the recompense of those who wage war against Allah and His Messenger. At-Tabari ties the verse at once to the verse before it: this is Allah's statement of the ruling on the corruption in the land named in 5:32, teaching His servants what the corrupter deserves. Ibn Kathir defines muharaba as opposition and defiance, a word that fits disbelief and also fits cutting the roads and making travel fearful. Corruption in the land, he adds, covers many kinds of evil; Sa'id ibn al-Musayyib even counted clipping silver and gold coins among them.",
+            "bn": "ইন্নামা জাযাউল্লাযীনা ইউহারিবূনাল্লাহা ওয়া রাসূলাহু: যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে, তাদের প্রতিফল। তাবারী শুরুতেই আয়াতটিকে আগের আয়াতের সঙ্গে জুড়ে দেন। ৫:৩২ আয়াতে যমীনে যে ফাসাদের কথা এসেছে, এখানে আল্লাহ তার বিধান জানিয়ে দিচ্ছেন, ফাসাদকারী কোন শাস্তির যোগ্য তা বান্দাদের শিখিয়ে দিচ্ছেন। ইবন কাসীর মুহারাবার অর্থ করেন বিরোধিতা ও অমান্য করা। শব্দটা কুফরের বেলায় খাটে, আবার রাস্তা আটকে পথিককে আতঙ্কিত করার বেলায়ও খাটে। তিনি আরও বলেন, যমীনে ফাসাদ বলতে নানা রকম অনিষ্ট বোঝায়। সাঈদ ইবনুল মুসাইয়িব তো সোনা-রুপার মুদ্রা কেটে ছোট করাকেও এর মধ্যে গুনেছেন।"
+          },
+          {
+            "en": "Why war against Allah, when the blows land on travellers? Ma'arif al-Qur'an notes that harb in Arabic is the opposite of salm, peace and security, so its sense here is the spreading of disorder; when a group breaks by force the law that Allah and His Messenger gave, its war is with that law, though its victims are people. As-Sa'di says the best-known view applies the verse to highway robbers who waylay people in villages and open country, take their wealth, kill and terrify them, until people stop using the road and it is cut.",
+            "bn": "আঘাত তো পড়ে পথিকের গায়ে, তবে যুদ্ধটা আল্লাহর বিরুদ্ধে কেন? মাআরিফুল কুরআন মনে করিয়ে দেয়, আরবিতে হারব শব্দটা সালমের উল্টো, আর সালম মানে শান্তি ও নিরাপত্তা। তাই এখানে হারবের অর্থ বিশৃঙ্খলা ছড়ানো। আল্লাহ ও তাঁর রাসূল যে বিধান দিয়েছেন, কোনো দল যখন গায়ের জোরে তা ভাঙে, তখন তাদের লড়াই আসলে সেই বিধানের বিরুদ্ধে, যদিও মার খায় মানুষ। সা'দী বলেন, সবচেয়ে প্রসিদ্ধ মত হলো, আয়াতটি রাহাজানদের নিয়ে। তারা গ্রামে আর খোলা প্রান্তরে মানুষের পথ আটকায়, মাল কেড়ে নেয়, খুন করে, ভয় দেখায়। শেষে মানুষ সে পথে চলাই বন্ধ করে দেয়, আর পথটাই কেটে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is the Muharib?",
+          "bn": "মুহারিব আসলে কে?"
+        },
+        "p": [
+          {
+            "en": "The scholars did not agree on who earns the name. At-Tabari records Qatadah and Ata al-Khurasani: it is the robber who cuts the road. Al-Awza'i widened it to the robber who openly overpowers people, in a city or elsewhere. Malik, asked whether there can be such war inside a city, said yes: the muharib is whoever bears arms against Muslims in a city or in open land, with no feud or enmity between them. Ibn Kathir names Malik, al-Awza'i, al-Layth ibn Sa'd, ash-Shafi'i and Ahmad for the view that city and road are alike.",
+            "bn": "এ নাম কার উপর বসবে, তা নিয়ে আলেমরা একমত হননি। তাবারী কাতাদা ও আতা আল-খুরাসানীর কথা আনেন: মুহারিব সেই ডাকাত, যে রাস্তা কেটে দেয়। আওযাঈ পরিধিটা বাড়িয়েছেন: শহরে হোক বা বাইরে, যে ডাকাত প্রকাশ্যে মানুষকে কাবু করে, সে-ই মুহারিব। মালিককে জিজ্ঞেস করা হয়েছিল, শহরের ভেতরেও কি এমন যুদ্ধ হতে পারে? তিনি বলেন, হ্যাঁ। মুহারিব হলো সে, যে শহরে বা খোলা প্রান্তরে মুসলমানদের বিরুদ্ধে অস্ত্র তোলে, অথচ তাদের সঙ্গে তার কোনো পুরোনো বিবাদ বা শত্রুতা নেই। শহর আর রাস্তা সমান, এই মতের পক্ষে ইবন কাসীর নাম নেন মালিক, আওযাঈ, লাইস ইবন সা'দ, শাফেঈ ও আহমাদের।"
+          },
+          {
+            "en": "Abu Hanifah and his companions held that this war happens only on the roads, not in towns; Ibn Kathir gives their reason: in a town a victim who cries out can be helped, while on a distant road no one comes. At-Tabari chose the wider view: the muharib is whoever wages war on the routes of the Muslims and of those under their protection, or raids them in their towns and villages. Ma'arif al-Qur'an adds a limit: armed robbery, not ordinary thieves and pickpockets.",
+            "bn": "আবু হানীফা ও তাঁর সঙ্গীদের মত, এ যুদ্ধ হয় কেবল রাস্তায়, শহরে নয়। ইবন কাসীর তাঁদের যুক্তিও দেন: শহরে বিপদে পড়া মানুষ চিৎকার করলে সাহায্য পায়, দূরের রাস্তায় কেউ আসে না। তাবারী বেছে নেন প্রশস্ত মতটি। তাঁর মতে মুহারিব সে, যে মুসলমানদের আর তাদের আশ্রিতদের চলাচলের পথে যুদ্ধ বাধায়, কিংবা তাদের শহর-গ্রামে হানা দেয়। মাআরিফুল কুরআন একটা সীমা টেনে দেয়: আয়াত সশস্ত্র ডাকাতির কথা বলছে, সাধারণ চোর বা পকেটমারের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Treaty-Breakers, Idolaters, or Urayna",
+          "bn": "চুক্তিভঙ্গকারী, মুশরিক, না উরাইনা"
+        },
+        "p": [
+          {
+            "en": "On why the verse came down, the commentators record three main reports. At-Tabari begins with Ibn Abbas, through Ali ibn Abi Talhah, and with ad-Dahhak: some People of the Book had a treaty with the Prophet ﷺ, broke it and spread corruption, and Allah let him choose how to punish them. Al-Baghawi adds al-Kalbi's version, about the people of Hilal ibn Uwaymir, who had a pact with the Prophet ﷺ. The second report, from Ikrimah and al-Hasan al-Basri, says the verse concerns the idolaters; Abu Dawud carries the same from Ibn Abbas through Ikrimah.",
+            "bn": "আয়াতটি কেন নাযিল হলো, এ নিয়ে তাফসীরকারেরা প্রধানত তিনটি বর্ণনা উল্লেখ করেন। তাবারী শুরু করেন আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) আর দাহহাকের বর্ণনা দিয়ে। আহলে কিতাবের একদল লোক নবী ﷺ-এর সঙ্গে চুক্তিবদ্ধ ছিল। তারা চুক্তি ভেঙে ফাসাদ ছড়ায়, আর আল্লাহ তাদের শাস্তির ধরন বেছে নেওয়ার ভার নবী ﷺ-এর হাতে দেন। বাগাভী যোগ করেন কালবীর বর্ণনা, যা হিলাল ইবন উওয়াইমিরের গোত্রকে নিয়ে, যার সঙ্গে নবী ﷺ-এর সন্ধি ছিল। দ্বিতীয় বর্ণনাটি ইকরিমা ও হাসান বাসরীর: আয়াতটি মুশরিকদের নিয়ে। আবু দাউদ ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকেও একই কথা এনেছেন।"
+          },
+          {
+            "en": "The third report, which al-Qurtubi says the majority hold, is that it came down about men of Ukl and Urayna; al-Baghawi gives it from Sa'id ibn Jubayr. Al-Qurtubi calls the idolaters report weak, citing 8:38, and quotes Abu Thawr: the exception in 5:34 would mean nothing for idolaters, whose blood becomes inviolable once they accept Islam, even after capture. At-Tabari judges that the verse came after the Prophet's ﷺ dealing with the men of Urayna, to make known the ruling on whoever wages such war. Ibn Kathir calls it sound that the verse is general, for idolaters and anyone else who does these things.",
+            "bn": "তৃতীয় বর্ণনাটিকে কুরতুবী অধিকাংশের মত বলেছেন: আয়াত নাযিল হয়েছে উকল ও উরাইনা গোত্রের কিছু লোককে নিয়ে। বাগাভী এটি এনেছেন সাঈদ ইবন জুবাইরের সূত্রে। মুশরিকদের বর্ণনাটিকে কুরতুবী দুর্বল বলেন, দলিল দেন ৮:৩৮ আয়াত থেকে। সঙ্গে আবু সাওরের যুক্তি আনেন: মুশরিক বন্দি হওয়ার পরও ইসলাম গ্রহণ করলে তার রক্ত হারাম হয়ে যায়, তাই ৫:৩৪ আয়াতের ব্যতিক্রমের তাদের বেলায় কোনো অর্থই থাকে না। তাবারীর বিচারে উরাইনার লোকদের সঙ্গে নবী ﷺ যা করেছিলেন, তার পরে আয়াতটি আসে, এমন যুদ্ধে যে নামে তার বিধান জানিয়ে দিতে। ইবন কাসীরের কাছে সঠিক মত হলো, আয়াতটি সাধারণ: মুশরিক হোক বা অন্য কেউ, যে এসব কাজ করবে, তার উপরই খাটবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Anas Saw at the Harrah",
+          "bn": "হাররায় আনাস (রাঃ) যা দেখেছিলেন"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi records it from Anas: Some people of Urayna came to Madinah and found its climate unhealthy. The Messenger of Allah ﷺ sent them out among the camels of the sadaqah and said: Drink of their milk and their urine. They killed the herdsman of the Messenger of Allah ﷺ, drove off the camels and turned back from Islam. They were brought to the Prophet ﷺ, and he cut off their hands and feet from opposite sides, branded their eyes and left them in the Harrah. Anas said: I saw one of them biting at the ground with his mouth until they died. At-Tirmidhi (72) grades it hasan sahih.",
+            "bn": "তিরমিযী আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন: উরাইনা গোত্রের কিছু লোক মদীনায় এল, কিন্তু এখানকার আবহাওয়া তাদের সইল না। রাসূলুল্লাহ ﷺ তাদের সাদাকার উটের পালে পাঠিয়ে দিলেন আর বললেন, এগুলোর দুধ ও পেশাব পান করো। তারা রাসূলুল্লাহ ﷺ-এর রাখালকে হত্যা করল, উটগুলো তাড়িয়ে নিয়ে গেল, আর ইসলাম ত্যাগ করল। তাদের নবী ﷺ-এর কাছে আনা হলো। তিনি বিপরীত দিক থেকে তাদের হাত-পা কেটে দিলেন, চোখে তপ্ত শলাকা দিলেন, আর তাদের হাররায় ফেলে রাখলেন। আনাস (রাঃ) বলেন, আমি তাদের একজনকে দেখেছি মুখ দিয়ে মাটি কামড়াচ্ছে, এভাবেই তারা মারা গেল। তিরমিযী (৭২) একে হাসান সহীহ বলেছেন।"
+          },
+          {
+            "en": "That wording does not mention the verse. Abu Dawud (4366) carries the story from Anas through another chain, which ends: then Allah, Blessed and Exalted, revealed concerning that: the recompense of those who wage war against Allah and His Messenger. Abu Dawud gives no grading of his own on that page. Al-Bukhari (233) has the story as well, through Abu Qilabah from Anas, and records Abu Qilabah's comment on these men: they stole, killed, disbelieved after their faith, and waged war against Allah and His Messenger.",
+            "bn": "এই বর্ণনায় আয়াতের উল্লেখ নেই। আবু দাউদ (৪৩৬৬) আনাস (রাঃ) থেকে কাহিনিটি আরেকটি সনদে এনেছেন, যার শেষে আছে: তখন বরকতময় মহান আল্লাহ এ বিষয়ে নাযিল করলেন, যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে তাদের প্রতিফল...। সেখানে আবু দাউদ নিজে কোনো মান নির্ধারণ করেননি। বুখারীও (২৩৩) আবু কিলাবার সূত্রে আনাস (রাঃ) থেকে কাহিনিটি এনেছেন। সঙ্গে এই লোকদের সম্পর্কে আবু কিলাবার মন্তব্যও রেখেছেন: তারা চুরি করেছে, খুন করেছে, ঈমান আনার পর কুফরি করেছে, আর আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করেছে।"
+          },
+          {
+            "en": "The branding of the eyes drew different explanations. Ibn Kathir cites Muslim, from Anas, that it was done because they had done the same to the herdsmen, so it was retaliation; at-Tirmidhi (73), giving that report, calls it gharib. Muhammad ibn Sirin said it happened before the hudud came down, which Ibn Kathir doubts, since the story is late. Abu az-Zinad, in a report Abu Dawud (4370) gives without naming a Companion, says the verse came as a reproof; al-Awza'i rejected that, in Ibn Kathir: the punishment was for those men alone, and the verse came for those who waged war after them.",
+            "bn": "চোখে তপ্ত শলাকা দেওয়ার ব্যাখ্যা একরকম নয়। ইবন কাসীর মুসলিমের বরাতে আনাস (রাঃ)-এর কথা আনেন: তারা রাখালদের চোখের সঙ্গে ঠিক এমনটাই করেছিল, তাই এটা ছিল কিসাস। তিরমিযী (৭৩) এই বর্ণনা এনে একে গরীব বলেছেন। মুহাম্মাদ ইবন সীরীন বলেন, ঘটনাটি হুদূদের বিধান নাযিলের আগের। ইবন কাসীর এতে সংশয় প্রকাশ করেন, কারণ ঘটনাটি পরের দিকের। আবু দাউদে (৪৩৭০) কোনো সাহাবীর নাম ছাড়া আবুয যিনাদের একটি বর্ণনা আছে: আয়াতটি এসেছিল তিরস্কার হিসেবে। আওযাঈ এ কথা মানেননি, ইবন কাসীর তা উল্লেখ করেছেন। তাঁর মতে সে শাস্তি ছিল কেবল ওই লোকদের জন্য, আর আয়াতটি এসেছে তাদের পরে যারা যুদ্ধ করবে তাদের জন্য।"
+          },
+          {
+            "en": "Qatadah, in al-Baghawi, says it reached him that after this the Prophet ﷺ would urge charity and forbid mutilation, and al-Layth ibn Sa'd, in the same place, reads the verse as saying: this is their recompense, not mutilation. Whether the verse abrogated the earlier act is itself disputed; Ibn Kathir says that claim needs examination, and that whoever makes it must show the abrogating text came later.",
+            "bn": "বাগাভীতে কাতাদা বলেন, তাঁর কাছে খবর পৌঁছেছে যে এরপর নবী ﷺ সাদাকার প্রতি উৎসাহ দিতেন আর মুসলা, অর্থাৎ অঙ্গবিকৃতি, নিষেধ করতেন। একই জায়গায় লাইস ইবন সা'দ আয়াতটির বক্তব্য এভাবে পড়েন: তাদের প্রতিফল এটাই, অঙ্গবিকৃতি নয়। তবে আয়াতটি আগের সেই কাজকে রহিত করেছে কি না, তা নিয়েও মতভেদ আছে। ইবন কাসীর বলেন, এ দাবি যাচাইসাপেক্ষ, আর যিনি এ দাবি করবেন, রহিতকারী বিধানটি যে পরে এসেছে তা তাঁকেই দেখাতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aw: A Choice or a Scale",
+          "bn": "আও: বাছাই, না অপরাধের মাপ"
+        },
+        "p": [
+          {
+            "en": "The verse joins its four penalties with aw, or, and the sharpest dispute turns on that word. On the first reading it gives the ruler a choice. Ibn Kathir has it from Ibn Abbas through Ali ibn Abi Talhah: whoever bears arms in the land of Islam and makes the road fearful, and is then captured, the imam of the Muslims may kill him, crucify him or cut off his hand and foot, as he wills. With it he names Sa'id ibn al-Musayyib, Mujahid, Ata, al-Hasan al-Basri, Ibrahim an-Nakha'i and ad-Dahhak, and a like report from Malik.",
+            "bn": "আয়াতটি চারটি শাস্তিকে জুড়েছে আও, অর্থাৎ অথবা দিয়ে, আর সবচেয়ে তীক্ষ্ণ মতভেদ এই শব্দটিকে ঘিরেই। প্রথম পাঠে শব্দটি শাসককে বাছাইয়ের অধিকার দেয়। ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: ইসলামের ভূমিতে যে অস্ত্র তোলে আর পথকে ভীতিকর করে, তারপর ধরা পড়ে, মুসলমানদের ইমাম চাইলে তাকে হত্যা করবেন, চাইলে শূলে চড়াবেন, চাইলে তার হাত ও পা কাটবেন। এই মতের সঙ্গে তিনি নাম নেন সাঈদ ইবনুল মুসাইয়িব, মুজাহিদ, আতা, হাসান বাসরী, ইবরাহীম নাখাঈ ও দাহহাকের। মালিক থেকেও এমন বর্ণনা আছে বলে জানান।"
+          },
+          {
+            "en": "Their ground is the word itself: Ibn Kathir notes that aw gives a choice in 5:95, 2:196 and 5:89, so it should here too. Al-Qurtubi quotes an-Nahhas: this reading sits closer to the outward wording, while those who grade the penalties end up joining two of them, killing and crucifying, which neither the verse nor the meaning of aw supports. As-Sa'di grants that choice is the outward sense of the wording, and Ma'arif al-Qur'an adds that even on this view the ruler weighs the robbers' strength and the gravity of their crime.",
+            "bn": "তাঁদের দলিল শব্দটি নিজেই। ইবন কাসীর দেখান, ৫:৯৫, ২:১৯৬ ও ৫:৮৯ আয়াতে আও বাছাইয়ের অর্থ দেয়, তাই এখানেও তা-ই হওয়া উচিত। কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: এই পাঠ আয়াতের বাহ্যিক শব্দের বেশি কাছাকাছি। যারা শাস্তিকে অপরাধের ধাপে ভাগ করেন, তাঁরা শেষ পর্যন্ত দুটি শাস্তি একসঙ্গে চাপান, হত্যা আর শূল। অথচ আয়াত বা আও শব্দের অর্থ কোনোটাই তা সমর্থন করে না। সা'দীও মানেন যে বাছাইয়ের অর্থটাই শব্দের বাহ্যিক অর্থ। মাআরিফুল কুরআন যোগ করে, এই মতেও শাসক ডাকাতদের শক্তি আর অপরাধের গুরুত্ব বিবেচনা করেই সিদ্ধান্ত নেবেন।"
+          },
+          {
+            "en": "The second reading makes aw a scale matched to the crime. Ash-Shafi'i transmits it from Ibn Abbas, in Ibn Kathir and al-Baghawi: robbers who kill and take wealth are killed and crucified; who kill without taking wealth are killed; who take wealth without killing lose a hand and a foot from opposite sides; who only terrify the road are banished. Ibn Kathir calls it the majority view; al-Baghawi names Qatadah, al-Awza'i and ash-Shafi'i, Ma'arif al-Qur'an adds Abu Hanifah and Ahmad; at-Tabari chooses it, and as-Sa'di sees it in the verse's wisdom. Ibn Abbas thus stands on both sides, through different chains, and the disagreement stands.",
+            "bn": "দ্বিতীয় পাঠে আও হলো অপরাধ অনুযায়ী শাস্তির মাপ। ইবন কাসীর ও বাগাভীতে শাফেঈ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ডাকাতরা খুন করে মালও নিলে তাদের হত্যা করে শূলে চড়ানো হবে। খুন করে মাল না নিলে শুধু হত্যা। খুন না করে মাল নিলে বিপরীত দিক থেকে হাত ও পা কাটা হবে। আর শুধু পথে ভয় ছড়ালে নির্বাসন। ইবন কাসীর একে অধিকাংশের মত বলেন। বাগাভী নাম নেন কাতাদা, আওযাঈ ও শাফেঈর, মাআরিফুল কুরআন যোগ করে আবু হানীফা ও আহমাদকে। তাবারী এ মতটিই বেছে নেন, আর সা'দী আয়াতের হিকমতের মধ্যে এরই ইঙ্গিত দেখেন। ভিন্ন ভিন্ন সনদে ইবন আব্বাস (রাঃ) তাই দুই পক্ষেই আছেন, আর মতভেদটি মতভেদ হিসেবেই থেকে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nafy: Banished or Confined",
+          "bn": "নাফি: নির্বাসন, না বন্দিত্ব"
+        },
+        "p": [
+          {
+            "en": "Aw yunfaw min al-ard: or be banished from the land. At-Tabari sets out three readings. Some said it means being hunted until caught and punished, or until the man flees the land of Islam; Ibn Kathir names for this Ibn Abbas, Anas, Sa'id ibn Jubayr, az-Zuhri, al-Layth and Malik. Others said he is sent from his town to another; Ata al-Khurasani says from garrison district to garrison district for years, without leaving the land of Islam. Abu Hanifah and his companions said that nafy here means imprisonment.",
+            "bn": "আও ইউনফাও মিনাল আরদ: অথবা দেশ থেকে তাদের নির্বাসিত করা হবে। তাবারী এর তিনটি পাঠ তুলে ধরেন। কেউ বলেছেন, এর মানে ধরা পড়া ও শাস্তি পাওয়া পর্যন্ত তাকে ধাওয়া করা, কিংবা যতক্ষণ না সে ইসলামের ভূমি ছেড়ে পালায়। এই মতের পক্ষে ইবন কাসীর নাম নেন ইবন আব্বাস (রাঃ), আনাস (রাঃ), সাঈদ ইবন জুবাইর, যুহরী, লাইস ও মালিকের। অন্যরা বলেছেন, তাকে তার শহর থেকে অন্য শহরে পাঠানো হবে। আতা আল-খুরাসানী বলেন, বছরের পর বছর এক সেনানিবাস এলাকা থেকে আরেকটিতে, তবে ইসলামের ভূমির বাইরে নয়। আবু হানীফা ও তাঁর সঙ্গীরা বলেছেন, এখানে নাফি মানে কারাবন্দি করা।"
+          },
+          {
+            "en": "Umar ibn al-Khattab, in al-Baghawi and al-Qurtubi, was the first to imprison, saying: I hold him until I know his repentance, and I do not banish him to a town where he will harm its people. At-Tabari combines the two: he is sent from his town to another and held in prison there until his repentance shows. The other penalties fall after capture, he reasons, so flight cannot be the banishment; and a move between towns removes him from one land, not from the land, which only confinement does. Al-Qurtubi calls Malik's like view the clear one, and the Muyassar reads it the same way.",
+            "bn": "বাগাভী ও কুরতুবী জানান, উমর ইবনুল খাত্তাব (রাঃ) প্রথম কারাগারে বন্দি রাখার ব্যবস্থা করেন। তিনি বলেছিলেন, আমি তাকে আটকে রাখব যতক্ষণ না তার তওবা বুঝতে পারি। অন্য শহরে পাঠাব না, পাঠালে সেখানকার মানুষকে কষ্ট দেবে। তাবারী দুটি মতকে মিলিয়ে নেন: তাকে নিজের শহর থেকে অন্য শহরে পাঠানো হবে, আর তওবা স্পষ্ট না হওয়া পর্যন্ত সেখানে কারাগারে রাখা হবে। তাঁর যুক্তি, অন্য শাস্তিগুলো আসে ধরা পড়ার পরে, তাই পালিয়ে যাওয়াকে নির্বাসন বলা যায় না। আবার এক শহর থেকে আরেক শহরে সরালে সে এক জায়গা থেকে সরে, গোটা দেশ থেকে নয়। সেটা সম্ভব কেবল আটকে রাখলে। মালিকের কাছাকাছি মতটিকে কুরতুবী স্পষ্ট মত বলেছেন, আর মুয়াসসারও একই ব্যাখ্যা দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning Back Before Capture",
+          "bn": "ধরা পড়ার আগেই ফেরা"
+        },
+        "p": [
+          {
+            "en": "Then 5:34 opens a door: except those who repent before you overpower them; know that Allah is Forgiving, Merciful. Al-Qurtubi gives the ruling with Malik, ash-Shafi'i, Abu Thawr and the people of opinion: if they come in repenting, the ruler has no path against them and the hadd owed to Allah falls away, but people's rights remain, retaliation for life and wounds and liability for what they took, which the victims' heirs may pardon.",
+            "bn": "তারপর ৫:৩৪ আয়াত একটা দরজা খুলে দেয়: তবে তোমরা কাবু করার আগেই যারা তওবা করে, তারা ছাড়া। জেনে রাখো, আল্লাহ ক্ষমাশীল, পরম দয়ালু। কুরতুবী মালিক, শাফেঈ, আবু সাওর ও আহলুর রায়ের মত হিসেবে বিধানটি জানান। তারা যদি তওবা করে নিজেরাই চলে আসে, তবে শাসকের আর তাদের উপর কোনো পথ থাকে না, আল্লাহর হক হিসেবে যে হদ্দ ছিল তা রহিত হয়ে যায়। তবে মানুষের হক থেকে যায়: প্রাণ ও জখমের কিসাস, আর যা নিয়েছে বা নষ্ট করেছে তার দায়। ক্ষতিগ্রস্তদের উত্তরাধিকারীরা চাইলে তা মাফ করতে পারে।"
+          },
+          {
+            "en": "Ibn Kathir relates from ash-Sha'bi that Harithah ibn Badr had spread corruption in Basrah, and when this verse was put to Ali on his behalf, Ali wrote him a guarantee of safety.  Ma'arif al-Qur'an notes that this is the only hadd that repentance before arrest drops, and only when conduct bears the repentance out; after arrest it does not lift the worldly penalty. The Hereafter is another account: Ibn Kathir reports at-Tabari that the great punishment is for those who die unrepentant.",
+            "bn": "ইবন কাসীর শা'বী থেকে বর্ণনা করেন, হারিসা ইবন বদর বসরায় ফাসাদ ছড়িয়েছিল। হারিসার পক্ষ থেকে আলী (রাঃ)-এর সামনে এই আয়াতের প্রসঙ্গ তোলা হলে তিনি তাকে নিরাপত্তার লিখিত অঙ্গীকার দেন। মাআরিফুল কুরআন বলে, গ্রেপ্তারের আগে তওবা করলে মাফ হয়, হুদূদের মধ্যে এমন হদ্দ কেবল এটিই। তাও তখনই, যখন তার আচরণ তওবার সত্যতা প্রমাণ করে। গ্রেপ্তারের পরের তওবায় দুনিয়ার শাস্তি ওঠে না। আখিরাতের হিসাব আলাদা: ইবন কাসীর তাবারীর বরাতে জানান, মহাশাস্তি তাদের জন্য, যারা তওবা ছাড়াই মারা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Court's Sentence, Not a Licence",
+          "bn": "বিচারকের রায়, ব্যক্তির হাতে নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. These are penalties that a lawful court applies after due process: a charge, proof, and a judgment by legitimate authority. They are not a licence for any individual or group to judge, punish or take up arms on their own, and this verse licenses nothing against any living person or community. The commentators frame it the same way: as-Sa'di has the imam or his deputy carry out the penalty, al-Qurtubi records consensus that the ruler, not the victim's kin, takes charge of a muharib, and Ma'arif al-Qur'an says the least doubt in the proof drops a hadd.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এই শাস্তিগুলো প্রয়োগ করে বৈধ আদালত, যথাযথ বিচারপ্রক্রিয়া শেষ হওয়ার পর: অভিযোগ, প্রমাণ, আর বৈধ কর্তৃপক্ষের রায়। কোনো ব্যক্তি বা দল নিজেরা বিচার করবে, সাজা দেবে বা অস্ত্র হাতে নেবে, এমন কোনো অনুমতি এখানে নেই। এ আয়াত কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুরই অনুমতি দেয় না। তাফসীরকারেরাও বিষয়টি এভাবেই সাজান। সা'দীর কথায় শাস্তি কার্যকর করবেন ইমাম বা তাঁর প্রতিনিধি। কুরতুবী আলেমদের ঐকমত্য উল্লেখ করেন যে মুহারিবের বিষয়টি শাসকের হাতে, নিহতের আত্মীয়দের হাতে নয়। আর মাআরিফুল কুরআন বলে, প্রমাণে সামান্য সন্দেহ থাকলেও হদ্দ রহিত হয়ে যায়।"
+          },
+          {
+            "en": "What the verse guards is the road. Al-Qurtubi explains the disgrace through the harm: most earning comes from trade and travel, and when the road is made fearful people stay home and their livelihood is cut, so Allah set heavy penalties to deter it and keep that door open. As-Sa'di turns it around: clearing the land of corrupters and making the roads safe is among the greatest good deeds. And the passage moves at once, in 5:35, to fearing Allah and seeking nearness to Him.",
+            "bn": "আয়াতটি আসলে পাহারা দিচ্ছে পথকে। কুরতুবী লাঞ্ছনার কারণ বোঝান ক্ষতির দিক থেকে। মানুষের রোজগারের বড় অংশ আসে ব্যবসা আর সফর থেকে। পথ ভীতিকর হলে মানুষ ঘরে বসে থাকে, রুজির পথ বন্ধ হয়ে যায়। তাই আল্লাহ কঠোর শাস্তি নির্ধারণ করেছেন, যাতে এ কাজ থেকে মানুষ বিরত থাকে আর ব্যবসার দরজা খোলা থাকে। সা'দী একই কথা উল্টো দিক থেকে বলেন: যমীনকে ফাসাদকারীদের থেকে মুক্ত করা আর পথঘাট নিরাপদ রাখা সবচেয়ে বড় নেক আমলগুলোর একটি। আর ঠিক পরেই, ৫:৩৫ আয়াতে, কথা চলে যায় আল্লাহকে ভয় করা আর তাঁর নৈকট্য খোঁজার দিকে।"
+          }
+        ]
+      }
+    ]
+  },
   "5:38": {
     "sections": [
       {

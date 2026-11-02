@@ -20351,6 +20351,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speak about Allah only with knowledge and meet His signs with acceptance, because the habits your tongue forms here are the ones it will reach for on the Day of answering.",
     "lessonBn": "আল্লাহ সম্পর্কে কথা বলুন কেবল জেনে, আর তাঁর নিদর্শন মেনে নিন। কারণ এখানে জিভ যে অভ্যাস গড়ে, জবাবদিহির দিনে সে সেটাই আঁকড়ে ধরবে।"
+  },
+  "5:33": {
+    "reflectionEn": "This verse is hard to read, and meant to be. It names those who take up arms against people, make the roads unsafe, kill and seize, and it sets out what a lawful authority may do to them: death, crucifixion, the loss of a hand and a foot from opposite sides, or banishment. Then, in the very next verse, a door opens: except those who repent before you overpower them. The severity falls on whoever turns travel and trade into terror; the opening is for anyone who turns back while he still can. None of this is ours to pass on our own. What it asks of me is smaller: where do I make the road unsafe for others, and am I turning back before I am caught?",
+    "reflectionBn": "আয়াতটি পড়তে ভারী লাগে, আর ভারী লাগারই কথা। যারা অস্ত্র হাতে মানুষের উপর চড়াও হয়, পথঘাট অনিরাপদ করে, খুন করে, মাল কেড়ে নেয়, আয়াত তাদের কথা বলছে। বৈধ কর্তৃপক্ষ তাদের কী সাজা দিতে পারে, তাও বলে দিচ্ছে: মৃত্যুদণ্ড, শূলে চড়ানো, বিপরীত দিক থেকে হাত ও পা কাটা, অথবা দেশ থেকে বের করে দেওয়া। তারপর ঠিক পরের আয়াতেই একটা দরজা খুলে যায়: তবে তোমরা কাবু করার আগেই যারা তওবা করে, তারা ছাড়া। কঠোরতা তার জন্য, যে পথচলা আর ব্যবসাকে আতঙ্কে পরিণত করে। আর দরজা খোলা তার জন্য, যে সময় থাকতে ফিরে আসে। এর কোনো রায় আমাদের কারও নিজের হাতে দেওয়ার নয়। আয়াত আমার কাছে চায় এর চেয়ে ছোট একটা হিসাব: অন্যের পথ আমি কোথায় অনিরাপদ করে তুলছি? আর ধরা পড়ার আগেই কি আমি ফিরছি?",
+    "pointsEn": [
+      "Where in my home, my work or my life online do people feel less safe because of me?",
+      "Do I wait to be caught before I admit a wrong, or do I turn back while the choice is still mine?",
+      "When I read a severe verse, do I let it warn me first, before I think of anyone else it might fit?",
+      "Do I treat other people's safety on the road and in their trade as a trust I am bound to keep?",
+      "When I hear of a crime, do I leave judgment to a just process, or do I rush to pass sentence myself?"
+    ],
+    "pointsBn": [
+      "আমার ঘরে, কর্মস্থলে বা অনলাইনে কোথায় মানুষ আমার কারণে কম নিরাপদ বোধ করে?",
+      "ভুল স্বীকার করতে আমি কি ধরা পড়ার অপেক্ষায় থাকি, নাকি সুযোগ হাতে থাকতেই ফিরে আসি?",
+      "কঠোর কোনো আয়াত পড়লে আগে কি নিজেকে সতর্ক করি, নাকি সঙ্গে সঙ্গে ভাবি এটা আর কার উপর খাটে?",
+      "পথে আর ব্যবসা-বাণিজ্যে অন্যের নিরাপত্তাকে কি আমি এমন আমানত মনে করি, যা রক্ষা করা আমার দায়?",
+      "কোনো অপরাধের খবর শুনলে আমি কি বিচার ন্যায্য প্রক্রিয়ার হাতে ছেড়ে দিই, নাকি নিজেই রায় দিতে ছুটে যাই?"
+    ],
+    "lessonEn": "Spreading fear and seizing what is others' is war on Allah's order. Turn back before you are overtaken, and leave sentences to lawful judgment.",
+    "lessonBn": "ভয় ছড়ানো আর অন্যের সম্পদ কেড়ে নেওয়া আল্লাহর বিধানের বিরুদ্ধে যুদ্ধ। ধরা পড়ার আগেই ফিরে আসুন, আর শাস্তির রায় বৈধ বিচারের হাতে ছেড়ে দিন।"
   }
 };
 
