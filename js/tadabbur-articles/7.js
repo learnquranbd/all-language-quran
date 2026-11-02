@@ -4603,6 +4603,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:119": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After the Verdict",
+          "bn": "রায়ের পরে চারটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "The magicians came for a fee and a place near the throne (7:113 and 7:114), offered Musa (AS) the first throw (7:115), and then bewitched the eyes of the people (7:116). Then Allah inspired Musa: throw your staff, and at once it was swallowing what they were faking (7:117). The verdict follows in 7:118: so the truth was established, and what they had been doing came to nothing. 7:119 gives the outcome, and 7:120 turns to the magicians.",
+            "bn": "যাদুকররা এসেছিল পারিশ্রমিক আর সিংহাসনের কাছাকাছি জায়গার আশায় (৭:১১৩ ও ৭:১১৪)। তারা মূসা (আঃ)-কে আগে ছোড়ার সুযোগ দিল (৭:১১৫), তারপর ছুড়ে মানুষের চোখ যাদু করে দিল (৭:১১৬)। তারপর আল্লাহ মূসাকে ওহী পাঠালেন: তোমার লাঠি ছুড়ে দাও। সঙ্গে সঙ্গে লাঠিটি তাদের বানানো ভেলকি গিলতে শুরু করল (৭:১১৭)। রায় আসে ৭:১১৮ আয়াতে: সত্য প্রতিষ্ঠিত হলো, আর তারা যা করছিল তা নিষ্ফল হয়ে গেল। ৭:১১৯ আয়াত জানায় পরিণাম, আর ৭:১২০ আয়াত ফেরে যাদুকরদের দিকে।"
+          },
+          {
+            "en": "The verse itself is four Arabic words: fa-ghulibu hunalika wa-nqalabu saghirin, so they were overcome there and turned back humbled. Ghulibu is passive, so whoever overcame them goes unnamed. Hunalika points to a place, there, at that spot. Inqalabu is to turn round and go back. Saghirin closes it, and al-Qurtubi notes its grammar: it is a hal, a state, describing the condition in which they left. They did not leave and then feel small; they left small.",
+            "bn": "আয়াতটি আরবিতে চারটি শব্দ: ফাগুলিবূ হুনালিকা ওয়ানকালাবূ সাগিরীন, অর্থাৎ তারা সেখানেই পরাজিত হলো এবং লাঞ্ছিত হয়ে ফিরে গেল। গুলিবূ কর্মবাচ্য ক্রিয়া, তাই কে তাদের হারাল, তার নাম এ শব্দে নেই। হুনালিকা দেখায় জায়গা: সেখানে, ঠিক ওই স্থানে। ইনকালাবূ মানে মুখ ঘুরিয়ে ফিরে যাওয়া। শেষ শব্দ সাগিরীন, আর কুরতুবী এর ব্যাকরণ ধরিয়ে দেন: এটি হাল, অর্থাৎ অবস্থাবাচক। তারা কোন অবস্থায় ফিরল, শব্দটি তা-ই বলে। ফিরে যাওয়ার পরে তারা ছোট বোধ করেনি; ছোট হয়েই তারা ফিরেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swallowing What They Faked",
+          "bn": "ভেলকি যেভাবে গিলে খেল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains 7:117 this way: Musa threw the staff, and it was gulping and swallowing what they were conjuring by way of lies and falsehood. Mujahid, in two chains that at-Tabari gives, explains ya'fikun as yakdhibun, they lie. Al-Hasan, also in at-Tabari, says it took their ropes and staffs down in easy gulps. Ibn Kathir glosses talqaf as eats, and what they faked as what they threw and made look true when it was false.",
+            "bn": "তাবারী ৭:১১৭ আয়াতের ব্যাখ্যা দেন এভাবে: মূসা লাঠি ছুড়লেন, আর তা মিথ্যা ও বাতিলের পথে তারা যে যাদু দেখাচ্ছিল, তা গিলে গিলে খেতে লাগল। তাবারী দুটি সূত্রে মুজাহিদের ব্যাখ্যা আনেন: ইয়া'ফিকূন মানে ইয়াকযিবূন, তারা মিথ্যা বলে। তাবারীতেই হাসানের কথা আছে: লাঠি তাদের রশি আর লাঠিগুলো অনায়াসে গিলে ফেলছিল। ইবন কাসীর তালকাফ-এর অর্থ করেন খেয়ে ফেলা। আর তাদের বানানো জিনিস বলতে বোঝান, যা তারা ছুড়েছিল এবং মিথ্যা হওয়া সত্ত্বেও সত্যের মতো দেখিয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi records the readings. Hafs reads talqaf, light, and the others read talaqqafu, doubled, and both mean to take something or swallow it. He also gives, without naming a source, a mechanism for the trick: they brought ropes and put quicksilver in them until they moved. As-Sa'di says the staff became a moving snake and swallowed all they were lying with and gilding. The Muyassar keeps the plain line: it swallows what they were throwing, which they made people think was true.",
+            "bn": "কুরতুবী কিরাআতের পার্থক্য উল্লেখ করেন। হাফস পড়েন তালকাফ, হালকা উচ্চারণে, আর অন্যরা পড়েন তালাক্কাফু, তাশদীদসহ। দুই পাঠেরই অর্থ কোনো কিছু ধরে নেওয়া বা গিলে ফেলা। কোনো সূত্রের নাম না নিয়ে তিনি ভেলকির একটা কৌশলও বলেন: তারা রশি এনে তার ভেতরে পারদ ভরে দিয়েছিল, ফলে রশিগুলো নড়ছিল। সা'দী বলেন, লাঠিটি চলন্ত সাপ হয়ে গেল এবং তারা যে মিথ্যা আর চাকচিক্য দেখাচ্ছিল, সব গিলে ফেলল। মুয়াসসার সাদামাটা কথায় থামে: তারা যা ছুড়ছিল আর মানুষকে সত্য বলে বোঝাচ্ছিল, লাঠি তা গিলে ফেলছিল।"
+          },
+          {
+            "en": "Two early reports describe how it happened. Ibn Abbas (RA), in at-Tabari and Ibn Kathir: it passed nothing of their ropes and wood without swallowing it, and the magicians knew this was a matter from heaven and not magic. Ibn Ishaq: it swallowed them one by one until nothing was left in the valley, and then Musa took it up and it was a staff again. Al-Baghawi adds a size for the serpent and a toll of the dead in the crush, both as reports, and neither is repeated here.",
+            "bn": "কীভাবে ঘটেছিল, তা নিয়ে দুটি প্রাচীন বর্ণনা আছে। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন: তাদের রশি আর কাঠের যা কিছুর পাশ দিয়ে লাঠি গেল, সবই গিলে ফেলল। যাদুকররা বুঝে গেল, এ আসমানের ব্যাপার, যাদু নয়। ইবন ইসহাকের বর্ণনা: লাঠি সেগুলো একটা একটা করে গিলতে থাকল, শেষে উপত্যকায় কিছুই রইল না। তারপর মূসা সেটি তুলে নিলেন, আর তা আবার লাঠি হয়ে গেল। বাগাভী সাপের আকার আর ভিড়ের চাপে মৃতের সংখ্যাও উল্লেখ করেন, দুটোই নিছক বর্ণনা হিসেবে। এখানে তার কোনোটিই আনা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Truth Landed",
+          "bn": "সত্য যখন জায়গায় বসল"
+        },
+        "p": [
+          {
+            "en": "Fa-waqa'a al-haqq in 7:118 is literally so the truth fell, the way something lands and stays. At-Tabari explains it: the truth appeared and became clear, to everyone who witnessed and attended, about Musa's matter, that he is a messenger of Allah calling to the truth. What came to nothing, he says, was the lying of sorcery, its falsehood and its illusions. Mujahid, cited by at-Tabari, al-Qurtubi and al-Baghawi, says waqa'a means it appeared, and one of his chains in at-Tabari is shorter still: Musa prevailed.",
+            "bn": "৭:১১৮ আয়াতের ফাওয়াকা'আল হাক্ক শব্দে শব্দে মানে, সত্য এসে পড়ল, যেভাবে কিছু নেমে এসে থিতু হয়। তাবারী ব্যাখ্যা করেন: যারা সেখানে উপস্থিত ছিল, তাদের সবার কাছে মূসার বিষয়টি প্রকাশ পেল ও স্পষ্ট হলো যে তিনি আল্লাহর রাসূল, সত্যের দিকে ডাকছেন। তাঁর মতে যা নিষ্ফল হলো, তা যাদুর মিথ্যা, ছলনা আর বিভ্রম। তাবারী, কুরতুবী ও বাগাভী মুজাহিদের ব্যাখ্যা আনেন: ওয়াকা'আ মানে প্রকাশ পেল। তাবারীতে মুজাহিদের একটি সূত্রে কথাটা আরও ছোট: মূসা বিজয়ী হলেন।"
+          },
+          {
+            "en": "As-Sa'di reads the verb as public: the truth became clear, appeared, and was proclaimed in that gathering. Al-Baghawi gives the magicians' own reasoning on 7:118. Had what Musa did been magic, they said, our ropes and staffs would still be here; when they were gone, they knew it was from Allah. In at-Tabari's text of Ibn Ishaq's report they say it in the verb of this verse: had this been magic, it would not have overcome us, ma ghalabana. The root of ghulibu is already in their mouths.",
+            "bn": "সা'দী ক্রিয়াটিকে প্রকাশ্য ঘটনা হিসেবে পড়েন: সত্য স্পষ্ট হলো, প্রকাশ পেল, আর সেই সমাবেশে সবার সামনে ঘোষিত হলো। বাগাভী ৭:১১৮ আয়াতে যাদুকরদের নিজেদের যুক্তিটা তুলে ধরেন। তারা বলেছিল, মূসা যা করেছেন তা যাদু হলে আমাদের রশি আর লাঠিগুলো থেকে যেত। সেগুলো যখন উধাও হয়ে গেল, তারা বুঝল এ আল্লাহর পক্ষ থেকে। তাবারীতে ইবন ইসহাকের বর্ণনায় তারা কথাটা বলে এ আয়াতেরই ক্রিয়া দিয়ে: এটা যাদু হলে আমাদের হারাতে পারত না, মা গালাবানা। গুলিবূ শব্দের ধাতু তাদের মুখে আগেই এসে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Overcome, But Who Exactly",
+          "bn": "হারল কারা, ঠিক কারা"
+        },
+        "p": [
+          {
+            "en": "The verse does not name its subject, and the commentators supply it differently. At-Tabari makes the first verb Musa's victory over Pharaoh and his assembled forces, his jumu', and glosses hunalika as at that point. Then, he says, they went away from that place of theirs in smallness, subdued. Al-Qurtubi names the subject of the second verb outright: the people of Pharaoh, and Pharaoh with them, turned back humiliated, subdued and overcome. Neither of them singles the magicians out.",
+            "bn": "আয়াতটি কর্তার নাম বলে না, আর তাফসীরকারেরা তা পূরণ করেন ভিন্ন ভিন্নভাবে। তাবারী প্রথম ক্রিয়াটিকে পড়েন ফিরআউন ও তার জমায়েত করা বাহিনীর উপর মূসার বিজয় হিসেবে, আর হুনালিকা শব্দের অর্থ করেন, ঠিক তখন। তাঁর ব্যাখ্যায় এরপর তারা তাদের সেই জায়গা থেকে হীন ও পরাভূত অবস্থায় সরে গেল। কুরতুবী দ্বিতীয় ক্রিয়ার কর্তার নাম সোজাসুজি বলেন: ফিরআউনের সম্প্রদায়, আর তাদের সঙ্গে ফিরআউন নিজেও, অপমানিত, পরাভূত ও পরাজিত হয়ে ফিরে গেল। তাঁদের কেউই যাদুকরদের আলাদা করে উল্লেখ করেন না।"
+          },
+          {
+            "en": "The Muyassar divides the verse between two groups. All the magicians were overcome in the place where they had gathered, and Pharaoh and his people went away humiliated, subdued and overcome. On that reading the first verb takes in the magicians and the second does not. Al-Baghawi gives only the state, humiliated and subdued, and names nobody. The difference is real and is left as it stands. Whichever reading is taken, the next verse sends the magicians somewhere else entirely: down, in prostration.",
+            "bn": "মুয়াসসার আয়াতটিকে দুই দলের মধ্যে ভাগ করে দেয়। সব যাদুকর তাদের সমাবেশের জায়গাতেই পরাজিত হলো, আর ফিরআউন ও তার লোকজন অপমানিত, পরাভূত ও পরাজিত হয়ে সরে গেল। এ পাঠে প্রথম ক্রিয়ায় যাদুকররা আছে, দ্বিতীয়টিতে নেই। বাগাভী শুধু অবস্থাটা বলেন, অপমানিত ও পরাভূত, কারও নাম নেন না। পার্থক্যটা সত্যিকারের, তাই যেমন আছে তেমনই রাখা হলো। যে পাঠই নেওয়া হোক, পরের আয়াত যাদুকরদের পাঠিয়ে দেয় একেবারে অন্য দিকে: নিচে, সাজদায়।"
+          },
+          {
+            "en": "As-Sa'di describes the state rather than the people: contemptible, their falsehood dwindled, their sorcery vanished, and the aim they were sure of never reached. Then he turns to the craftsmen. Those to whom the great truth became plainest were the people of the craft, who know the kinds and details of sorcery as nobody else does, so they knew this was a great sign of Allah that no one has the power to meet. On saghirin, at-Tabari and al-Qurtubi list the verb with its nouns, among them sughr and saghar, smallness and belittlement.",
+            "bn": "সা'দী মানুষের চেয়ে অবস্থার বর্ণনা দেন বেশি: তারা তুচ্ছ হয়ে গেল, তাদের বাতিল মিলিয়ে গেল, যাদু উবে গেল, আর যে লক্ষ্য হাসিল হবে বলে নিশ্চিত ছিল, তা আর হাসিল হলো না। তারপর তিনি তাকান কারিগরদের দিকে। মহাসত্য সবচেয়ে স্পষ্ট হয়েছিল এ পেশার লোকদের কাছেই। যাদুর প্রকার আর খুঁটিনাটি তারা যেভাবে জানত, আর কেউ তা জানত না। তাই তারা বুঝল, এ আল্লাহর এক মহান নিদর্শন, যার মোকাবেলা করার ক্ষমতা কারও নেই। সাগিরীন শব্দে তাবারী ও কুরতুবী ক্রিয়াটির সঙ্গে তার বিশেষ্যরূপগুলো দেন, যেমন সুগর ও সাগার, অর্থাৎ ক্ষুদ্রতা ও হীনতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thrown Down by Their Own Verb",
+          "bn": "নিজেদের ক্রিয়াতেই লুটিয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "The verb of throwing runs through the whole scene. Either you throw or we will be the throwers (7:115); throw, and they threw (7:116); throw your staff (7:117). Then in 7:120, wa-ulqiya as-saharatu sajidin: and the magicians were thrown down in prostration. The verb is now passive, and al-Baghawi gives three readings of it. Muqatil says Allah threw them down. Others say Allah inspired them to prostrate, and they did. Al-Akhfash says they went down so fast it was as though they had been thrown.",
+            "bn": "ছোড়ার ক্রিয়াটি গোটা দৃশ্যজুড়ে ঘুরে ফিরে আসে। হয় তুমি ছোড়ো, নয় আমরাই ছুড়ব (৭:১১৫)। ছোড়ো, আর তারা ছুড়ল (৭:১১৬)। তোমার লাঠি ছুড়ে দাও (৭:১১৭)। তারপর ৭:১২০ আয়াতে: ওয়া উলকিয়াস সাহারাতু সাজিদীন, আর যাদুকরদের সাজদায় ছুড়ে ফেলা হলো। এবার ক্রিয়াটি কর্মবাচ্যে, আর বাগাভী এর তিনটি ব্যাখ্যা দেন। মুকাতিল বলেন, আল্লাহ তাদের ছুড়ে ফেললেন। অন্যরা বলেন, আল্লাহ তাদের অন্তরে সাজদার প্রেরণা দিলেন, আর তারা সাজদা করল। আখফাশ বলেন, তারা এত দ্রুত সাজদায় গেল, যেন কেউ তাদের ছুড়ে ফেলেছে।"
+          },
+          {
+            "en": "At-Tabari, on 7:121, says they fell on their faces in prostration to their Lord when they saw the immensity of Allah's power. Their words, we believe in the Lord of the worlds, he explains as: we affirm what Musa brought, and He whom we must worship owns and governs all things. Al-Qasim ibn Abi Bazza, cited by at-Tabari and Ibn Kathir, says they did not lift their heads until they had seen Paradise, the Fire and the reward of those in them. It is his report, not a saying of the Prophet ﷺ.",
+            "bn": "তাবারী ৭:১২১ আয়াতের ব্যাখ্যায় বলেন, আল্লাহর কুদরতের বিশালতা চোখের সামনে দেখে তারা মুখ থুবড়ে রবের উদ্দেশে সাজদায় পড়ে গেল। আমরা বিশ্বজগতের রবের প্রতি ঈমান আনলাম, তাদের এ কথার ব্যাখ্যা তিনি দেন এভাবে: মূসা যা এনেছেন আমরা তা সত্য বলে মেনে নিলাম, আর যাঁর ইবাদত আমাদের করতে হবে, তিনিই সবকিছুর মালিক ও পরিচালক। তাবারী ও ইবন কাসীর কাসিম ইবন আবী বাযযার কথা আনেন: জান্নাত, জাহান্নাম আর সেখানকার বাসিন্দাদের প্রতিদান না দেখা পর্যন্ত তারা মাথা তোলেনি। এটা তাঁর বর্ণনা, নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "Why add the names, Lord of Musa (AS) and Harun (AS), after Lord of the worlds? At-Tabari answers in a phrase: Lord of Musa and Harun, not Pharaoh. Al-Baghawi supplies the moment behind it: when they said Lord of the worlds, Pharaoh asked, is it me you mean? So they named the two brothers. The Muyassar reads it as a statement about worship: He is the Lord of Musa and Harun, and worship must be directed to Him alone. As-Sa'di: we affirmed the clear signs Musa was sent with.",
+            "bn": "বিশ্বজগতের রব বলার পর তারা কেন নাম জুড়ে দিল, মূসা (আঃ) ও হারূন (আঃ)-এর রব? তাবারী জবাব দেন এক কথায়: মূসা ও হারূনের রব, ফিরআউন নয়। বাগাভী এর পেছনের মুহূর্তটা জানান: তারা যখন বলল বিশ্বজগতের রব, ফিরআউন জিজ্ঞেস করল, তোমরা কি আমাকে বোঝাচ্ছ? তখন তারা দুই ভাইয়ের নাম নিল। মুয়াসসার একে ইবাদতের ঘোষণা হিসেবে পড়ে: তিনিই মূসা ও হারূনের রব, আর ইবাদত কেবল তাঁরই প্রাপ্য। সা'দীর ব্যাখ্যা: মূসা যে স্পষ্ট নিদর্শন নিয়ে প্রেরিত হয়েছেন, আমরা তা সত্য বলে মেনে নিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disdaining the Truth, Defined",
+          "bn": "সত্যকে তুচ্ছ করার সংজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "None of the commentators read for this verse attaches a hadith of the Prophet ﷺ to it, and no occasion of revelation is established for it; it is narrative inside a Makkan surah. What the Sunnah does supply, as a general teaching and not a comment on this verse, is a definition of the quality that sent one side home small. Sahih Muslim 91 records from Abdullah ibn Mas'ud (RA) that the Messenger of Allah ﷺ said these words, given here whole.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। আয়াতটির কোনো প্রতিষ্ঠিত শানে নুযূলও নেই, এটি মক্কী সূরার ভেতরের একটি কাহিনি। তবে সুন্নাহ একটি সাধারণ শিক্ষা দেয়, যা এ আয়াতের ব্যাখ্যা নয়, কিন্তু যে স্বভাব একপক্ষকে ছোট করে ঘরে ফেরাল, তার সংজ্ঞা দেয়। সহীহ মুসলিম ৯১ নম্বরে আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ যা বলেছেন, পুরোটাই নিচে দেওয়া হলো।"
+          },
+          {
+            "en": "No one will enter Paradise who has in his heart the weight of a speck of pride. A man said: a man likes his garment to be fine and his sandals to be fine. He said: Allah is beautiful and loves beauty. Pride is disdaining the truth and looking down on people. Batar al-haqq, disdaining the truth, is the first half of that definition, and it is exactly the court's response after 7:118: the truth was established in front of everyone, and they turned round and left.",
+            "bn": "যার অন্তরে অণু পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি বলল, মানুষ তো চায় তার পোশাক সুন্দর হোক, জুতা সুন্দর হোক। তিনি বললেন, আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হলো সত্যকে তুচ্ছ করা আর মানুষকে হেয় করা। বাতারুল হাক্ক, সত্যকে তুচ্ছ করা, এই সংজ্ঞার প্রথম অংশ। ৭:১১৮ আয়াতের পর দরবারের লোকেরা ঠিক তা-ই করল: সবার চোখের সামনে সত্য প্রতিষ্ঠিত হলো, আর তারা মুখ ঘুরিয়ে চলে গেল।"
+          },
+          {
+            "en": "A second narration, also general and not attached to this verse, names the other way out. Sahih Muslim 2588 records from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: charity does not decrease wealth, Allah adds nothing to a servant for forgiving but honour, and no one humbles himself for Allah but Allah raises him. Read beside 7:119 and 7:120, the scene holds both halves: one party left saghirin, made small, and the other put their faces to the ground.",
+            "bn": "আরও একটি হাদীস, এটিও সাধারণ শিক্ষা এবং এ আয়াতের সঙ্গে যুক্ত নয়, বেরোনোর অন্য পথটির কথা বলে। সহীহ মুসলিম ২৫৮৮ নম্বরে আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: সদকা সম্পদ কমায় না। ক্ষমা করার বিনিময়ে আল্লাহ বান্দাকে সম্মান ছাড়া আর কিছু বাড়ান না। আর যে আল্লাহর জন্য বিনয়ী হয়, আল্লাহ তাকে উঁচু করে দেন। ৭:১১৯ ও ৭:১২০ আয়াত পাশাপাশি পড়লে দৃশ্যটিতে দুটো দিকই দেখা যায়। একপক্ষ ফিরে গেল সাগিরীন হয়ে, ছোট হয়ে। আর অন্যপক্ষ মাটিতে মুখ রাখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Smallness Lands Elsewhere",
+          "bn": "হীনতা আর কোথায় নামে"
+        },
+        "p": [
+          {
+            "en": "The same moment is told twice more. In 26:45 to 26:48 Musa throws his staff, it devours what they falsified, the magicians fall down in prostration, and they say exactly the words recorded here: we believe in the Lord of the worlds, the Lord of Musa and Harun. In 20:70 the names come in the other order: we believe in the Lord of Harun and Musa. The commentators read for this verse do not discuss the order, so nothing is built on it here.",
+            "bn": "একই মুহূর্তের কথা কুরআনে আরও দুবার এসেছে। ২৬:৪৫ থেকে ২৬:৪৮ আয়াতে মূসা লাঠি ছোড়েন, লাঠি তাদের বানানো সব গিলে ফেলে, যাদুকররা সাজদায় লুটিয়ে পড়ে, আর হুবহু এখানকার কথাই বলে: আমরা বিশ্বজগতের রবের প্রতি ঈমান আনলাম, যিনি মূসা ও হারূনের রব। ২০:৭০ আয়াতে নাম দুটি এসেছে উল্টো ক্রমে: আমরা হারূন ও মূসার রবের প্রতি ঈমান আনলাম। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, সেগুলো এই ক্রম নিয়ে কিছু বলে না, তাই এখানে এর উপর কিছু দাঁড় করানো হলো না।"
+          },
+          {
+            "en": "Saghirin first appears in this surah at 7:13, spoken to Iblis after he refused to prostrate: get out, you are among the debased. In 12:32 it is a threat made against Yusuf (AS), that he will be imprisoned and be among the debased, and the story ends with him honoured. In 27:37 Sulayman (AS) uses it of the people he will drive out. Where the Quran's narration places it, as at 7:13 and here, it falls on those who refused; aimed at a prophet, it never lands.",
+            "bn": "এ সূরায় সাগিরীন শব্দটি প্রথম আসে ৭:১৩ আয়াতে, সাজদা করতে অস্বীকার করার পর ইবলীসকে বলা হয়: বেরিয়ে যাও, তুমি হীনদের অন্তর্ভুক্ত। ১২:৩২ আয়াতে শব্দটি হুমকি হয়ে আসে ইউসুফ (আঃ)-এর বিরুদ্ধে: তাঁকে কারাগারে পাঠানো হবে, আর তিনি হীনদের অন্তর্ভুক্ত হবেন। অথচ কাহিনি শেষ হয় তাঁর সম্মানে। ২৭:৩৭ আয়াতে সুলাইমান (আঃ) শব্দটি বলেন তাদের বেলায়, যাদের তিনি বের করে দেবেন। কুরআন নিজে যেখানে শব্দটি বসায়, যেমন ৭:১৩ আয়াতে আর এখানে, সেখানে তা পড়ে অস্বীকারকারীদের উপর। আর কোনো নবীর দিকে তাক করা হলে তা তাঁকে ছুঁতেও পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Ways Off the Field",
+          "bn": "ময়দান ছাড়ার দুই পথ"
+        },
+        "p": [
+          {
+            "en": "First, a limit. The verse describes what Pharaoh and his court did and what became of them on one day, as the text describes it, and it licenses nothing against any living person or community. It is not a tool for calling an opponent's setback a humiliation from Allah, or for deciding who today belongs among the saghirin. The commentators read the scene as a lesson about the truth and the people who meet it, and that is how it is read here.",
+            "bn": "শুরুতে একটা সীমা টানা দরকার। আয়াতটি কেবল সেটুকুই বলে, যা পাঠ নিজে বলে: এক দিনে ফিরআউন ও তার দরবার কী করেছিল আর তাদের কী পরিণতি হয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। প্রতিপক্ষের কোনো ধাক্কাকে আল্লাহর দেওয়া লাঞ্ছনা বলে দেগে দেওয়ার হাতিয়ারও এটি নয়, আজ কারা সাগিরীন, তা ঠিক করার মাপকাঠিও নয়। তাফসীরকারেরা দৃশ্যটিকে পড়েছেন সত্য আর সত্যের মুখোমুখি হওয়া মানুষের শিক্ষা হিসেবে, এখানেও সেভাবেই পড়া হলো।"
+          },
+          {
+            "en": "Within that limit, the lesson is close to home. Everyone loses arguments to the truth: a verse corrects a habit, a sound hadith overturns an opinion held for years, a colleague turns out to be right. The loss is not the danger. The magicians lost more completely than anyone in that square, beaten at the very thing they were best at, and as-Sa'di notes the truth was plainest of all to them. What made the other side small was not losing. It was walking off unchanged.",
+            "bn": "এই সীমার ভেতরে শিক্ষাটা আমাদের খুব কাছের। সত্যের কাছে তর্কে সবাই হারে। কোনো আয়াত একটা অভ্যাস শুধরে দেয়, কোনো সহীহ হাদীস বহু বছরের ধারণা উল্টে দেয়, সহকর্মীর কথাই শেষে ঠিক প্রমাণিত হয়। হারাটা বিপদ নয়। সেই ময়দানে যাদুকরদের মতো পুরোপুরি আর কেউ হারেনি, যে বিদ্যায় তারা সবচেয়ে পটু, ঠিক সেখানেই তারা হেরেছিল। আর সা'দী বলেন, সত্যটা সবচেয়ে স্পষ্ট হয়েছিল তাদের কাছেই। অন্যপক্ষকে ছোট করেছে হার নয়, বরং কিছুই না বদলে চলে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Not to Turn Back",
+          "bn": "ফিরে না যাওয়ার প্রার্থনা"
+        },
+        "p": [
+          {
+            "en": "The verse is narration and carries no supplication, but 3:8 asks against exactly the movement it records: our Lord, let not our hearts deviate after You have guided us, and grant us mercy from Yourself; You are the Bestower. Then ask yourself: when I was last shown wrong by something true, did I leave smaller or changed? Is there a truth I keep walking away from to save face? And does anyone look to me like one of the saghirin, when this verse gives me no such licence?",
+            "bn": "আয়াতটি কাহিনি, এতে কোনো দোয়া নেই। তবে ৩:৮ আয়াত ঠিক সেই উল্টো পথে হাঁটা থেকেই আশ্রয় চায়, যা এ আয়াতে ঘটেছে: হে আমাদের রব, হিদায়াত দেওয়ার পর আমাদের অন্তরগুলোকে বাঁকা করে দিয়ো না, তোমার কাছ থেকে আমাদের রহমত দান করো, তুমিই মহান দাতা। এরপর নিজেকে জিজ্ঞেস করুন। শেষবার সত্যের কাছে ভুল প্রমাণিত হয়ে আমি কি ছোট হয়ে সরে এসেছি, নাকি বদলে গেছি? এমন কোনো সত্য কি আছে, মান বাঁচাতে যা থেকে আমি বারবার পালাই? আর কাউকে কি আমি সাগিরীনদের একজন ভেবে বসে আছি, অথচ এ আয়াত আমাকে সে অনুমতি দেয়নি?"
+          }
+        ]
+      }
+    ]
+  },
   "7:126": {
     "sections": [
       {

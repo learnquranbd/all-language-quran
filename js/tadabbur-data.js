@@ -20791,6 +20791,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer evidence by weighing it, not by renaming it; a label that spares you the truth also spares you its guidance.",
     "lessonBn": "প্রমাণের জবাব দিন তা ওজন করে, নতুন নাম দিয়ে নয়। যে তকমা আপনাকে সত্য থেকে রেহাই দেয়, তা সেই সত্যের হিদায়াত থেকেও আপনাকে বঞ্চিত করে।"
+  },
+  "7:119": {
+    "reflectionEn": "The staff has swallowed what they faked, and the truth has settled into place. Then come four words: so they were overcome there, and turned back humbled. The verse does not linger. Nobody argues and nobody bargains. The people who had gathered a kingdom's crowd to watch Musa (AS) fail simply walk away smaller than they came. The very next verse shows another way to lose the same contest: the magicians, beaten at their own craft, fall down in prostration. One defeat, two exits. Being outdone by the truth did not make anyone small that day. Turning their backs on it did. When I am shown to be wrong, which way do I walk?",
+    "reflectionBn": "লাঠিটা তাদের সব ভেলকি গিলে ফেলেছে, সত্য নিজের জায়গায় বসে গেছে। তারপর মাত্র চারটি শব্দ: তারা সেখানেই হেরে গেল, আর লাঞ্ছিত হয়ে ফিরে গেল। আয়াতটি একটুও সময় নেয় না। কেউ তর্ক করেনি, কেউ দর কষাকষি করেনি। মূসা (আঃ)-কে হারতে দেখবে বলে যারা গোটা রাজ্যের লোক জড়ো করেছিল, তারা এসেছিল যত বড় হয়ে, ফিরে গেল তার চেয়ে ছোট হয়ে। ঠিক পরের আয়াতেই একই প্রতিযোগিতায় হারার আরেকটা পথ দেখা যায়। নিজেদের বিদ্যাতেই হেরে যাওয়া যাদুকররা সাজদায় লুটিয়ে পড়ল। হার একটাই, বেরোনোর পথ দুটো। সেদিন সত্যের কাছে হেরে কেউ ছোট হয়নি। ছোট হয়েছে সত্যের দিকে পিঠ ফিরিয়ে। আমার ভুল যখন ধরা পড়ে, আমি কোন দিকে হাঁটি?",
+    "pointsEn": [
+      "When did I last lose an argument to something true, and did I leave it quietly smaller, or did I let it change me?",
+      "Is there a truth I already recognise but keep walking away from, because accepting it would cost me face?",
+      "The magicians knew their craft well enough to see what lay beyond it. Does my own expertise make me quicker or slower to admit I am wrong?",
+      "Whose correction am I still refusing because of who brought it rather than what it says?",
+      "What would it look like this week to lower my head before a truth instead of turning my back on it?"
+    ],
+    "pointsBn": [
+      "শেষ কবে সত্যের কাছে কোনো তর্কে হেরেছি? চুপচাপ ছোট হয়ে সরে এসেছি, নাকি হারটা আমাকে বদলে দিয়েছে?",
+      "এমন কোনো সত্য কি আছে যা আমি মনে মনে চিনি, তবু মান যাবে বলে বারবার পাশ কাটিয়ে চলে যাই?",
+      "যাদুকররা নিজেদের বিদ্যা এত ভালো জানত যে তার ওপারের জিনিসটা চিনে ফেলল। আমার নিজের দক্ষতা কি আমাকে ভুল স্বীকারে দ্রুত করে, নাকি ধীর?",
+      "কার শুধরে দেওয়া কথা আমি এখনো মানছি না, কথাটা কী তার জন্য নয়, কে বলল তার জন্য?",
+      "এ সপ্তাহে কোনো সত্যের দিকে পিঠ না ফিরিয়ে তার সামনে মাথা নত করা আমার জীবনে দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Losing to the truth does not make you small; turning away from it does. When you are shown wrong, bow to what is right instead of walking off with your pride.",
+    "lessonBn": "সত্যের কাছে হারলে মানুষ ছোট হয় না, ছোট হয় সত্য থেকে মুখ ফিরিয়ে নিলে। ভুল ধরা পড়লে অহংকার নিয়ে সরে যাবেন না, যা সঠিক তার সামনে মাথা নত করুন।"
   }
 };
 
