@@ -20171,6 +20171,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Deal justly and kindly with everyone, but never let fear make you take sides against the believers to keep a safety net.",
     "lessonBn": "সবার সঙ্গে ন্যায় ও সদাচার করুন, কিন্তু নিরাপত্তার ফাঁকফোকর রাখতে গিয়ে ভয় যেন আপনাকে মু'মিনদের বিপক্ষে দাঁড় না করায়।"
+  },
+  "5:75": {
+    "reflectionEn": "After naming the claim, the verse does not raise its voice. It simply describes. The Messiah was a messenger, like the many who came before him and passed on. His mother was a woman of truth, who believed and affirmed. Then comes a detail anyone could check: they both used to eat food. Whoever needs bread to stay standing is held up by something outside himself, and the One who holds everything up needs nothing at all. The verse honours Isa (AS) and Maryam (AS) and still refuses to make them more than servants. Then it asks me to look twice: at how plainly the signs are set out, and at how a person can still be turned away from them.",
+    "reflectionBn": "দাবিটির নাম নেওয়ার পর আয়াত আর গলা চড়ায় না, শুধু বর্ণনা দেয়। মাসীহ ছিলেন একজন রাসূল, তাঁর আগে আসা আর চলে যাওয়া বহু রাসূলের মতোই। তাঁর মা ছিলেন সত্যনিষ্ঠ নারী, যিনি ঈমান এনেছিলেন, সত্যকে মেনে নিয়েছিলেন। তারপর এমন এক কথা, যা যে কেউ যাচাই করতে পারে: তাঁরা দুজনেই খাবার খেতেন। যাকে টিকে থাকতে রুটির দরকার হয়, তাকে ধরে রাখে তার বাইরের কিছু। আর যিনি সবকিছুকে ধরে রাখেন, তাঁর কিছুরই দরকার নেই। আয়াত ঈসা (আঃ) ও মারইয়াম (আঃ)-কে সম্মান দেয়, তবু তাঁদের বান্দার চেয়ে বেশি কিছু বানাতে রাজি হয় না। তারপর আমাকে দুবার তাকাতে বলে: নিদর্শনগুলো কত স্পষ্ট করে সাজানো, সেদিকে। আর তারপরও মানুষ কীভাবে সেগুলো থেকে ফিরে যায়, সেদিকে।",
+    "pointsEn": [
+      "Do I honour the people I love most in religion the way the verse honours Isa (AS) and Maryam (AS): highly, and still as servants of Allah?",
+      "When I explain my faith to someone who believes otherwise, do I begin from what we both accept, as the verse does with the plain fact of eating?",
+      "What in my ordinary day reminds me that I am held up by things I did not make, and do I thank the One who needs none of them?",
+      "The verse sets out its signs and then says, look how they are turned away. What has turned me away from a truth I had already seen clearly?",
+      "When I speak about Christians, do I state the argument plainly as the verse does, or slide into a mockery the verse never uses?"
+    ],
+    "pointsBn": [
+      "দ্বীনের যাঁদের আমি সবচেয়ে ভালোবাসি, তাঁদের কি সেভাবে সম্মান করি, যেভাবে আয়াত ঈসা (আঃ) ও মারইয়াম (আঃ)-কে করে? অনেক উঁচুতে রাখি, অথচ আল্লাহর বান্দা হিসেবেই রাখি?",
+      "ভিন্ন বিশ্বাসের কাউকে নিজের ঈমানের কথা বোঝাতে গিয়ে আমি কি দুজনেরই মানা কথা থেকে শুরু করি, যেমন আয়াত শুরু করে খাওয়ার মতো সাদামাটা সত্য দিয়ে?",
+      "আমার সাধারণ দিনের কোন জিনিস মনে করিয়ে দেয় যে আমাকে ধরে রেখেছে এমন সব জিনিস, যা আমি বানাইনি? আর যাঁর এসবের কোনোটারই দরকার নেই, তাঁর শোকর কি আদায় করি?",
+      "আয়াত নিদর্শন সাজিয়ে বলে, দেখো তারা কীভাবে ফিরে যায়। যে সত্য আমি একবার পরিষ্কার দেখেছিলাম, তা থেকে আমাকে কী ফিরিয়ে নিয়েছে?",
+      "খ্রিস্টানদের কথা বলার সময় আমি কি আয়াতের মতো যুক্তিটা সোজাসুজি বলি, নাকি এমন ঠাট্টায় নেমে যাই, যা আয়াত কোথাও করে না?"
+    ],
+    "lessonEn": "Honour Isa (AS) and Maryam (AS) as the Quran does, a messenger and a woman of truth who both ate food, and keep worship for the One who needs nothing.",
+    "lessonBn": "কুরআন যেভাবে সম্মান দেয়, সেভাবেই ঈসা (আঃ) ও মারইয়াম (আঃ)-কে সম্মান করুন: একজন রাসূল, একজন সত্যনিষ্ঠ নারী, দুজনেই খাবার খেতেন। আর ইবাদত রাখুন শুধু তাঁর জন্য, যাঁর কিছুরই দরকার নেই।"
   }
 };
 

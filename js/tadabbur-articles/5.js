@@ -2007,6 +2007,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:75": {
+    "sections": [
+      {
+        "h": {
+          "en": "After an Open Door",
+          "bn": "খোলা দরজার পরে"
+        },
+        "p": [
+          {
+            "en": "Three verses lead into this one. 5:72 calls it disbelief to say that Allah is the Messiah, son of Maryam. 5:73 says the same of those who say, in the verse's own quotation, that Allah is the third of three, and answers that there is no god except one God. Then 5:74 asks a gentle question: will they not repent to Allah and seek His forgiveness, when Allah is Forgiving and Merciful? Ibn Kathir reads that question as a mark of Allah's generosity and mercy, a call to repent made even after so grave a saying.",
+            "bn": "এ আয়াতের আগে তিনটি আয়াত পথ তৈরি করে রাখে। ৫:৭২ বলে, আল্লাহই মারইয়াম-পুত্র মাসীহ, এ কথা বলা কুফরী। ৫:৭৩ একই রায় দেয় তাদের ব্যাপারে, যারা বলে, আয়াতের নিজের উদ্ধৃতিতে, আল্লাহ তিন জনের মধ্যে একজন। জবাবে আয়াত জানায়, এক ইলাহ ছাড়া আর কোনো ইলাহ নেই। এরপর ৫:৭৪ কোমল একটি প্রশ্ন রাখে: তারা কি আল্লাহর কাছে তওবা করবে না, তাঁর কাছে মাগফিরাত চাইবে না? আল্লাহ তো ক্ষমাশীল, পরম দয়ালু। ইবনে কাসীর এ প্রশ্নে আল্লাহর উদারতা আর রহমতের চিহ্ন দেখেন। এত গুরুতর কথার পরও তওবার ডাক থামেনি।"
+          },
+          {
+            "en": "5:75 then gives the reason. After it, 5:76 asks whether people worship besides Allah what holds for them no harm or benefit, and 5:77 tells the People of the Scripture not to exceed limits in their religion beyond the truth. The commentaries fetched for this verse attach no occasion of revelation to it, so its place in the sequence fixes its sense. On 5:73, Ibn Kathir reports as-Suddi linking that verse to 5:116, where Isa (AS) is asked whether he told people to take him and his mother as gods besides Allah. This verse, too, speaks of the two of them.",
+            "bn": "তারপর ৫:৭৫ কারণটা খুলে বলে। এর পরে ৫:৭৬ প্রশ্ন করে, মানুষ কি আল্লাহকে বাদ দিয়ে এমন কিছুর ইবাদত করবে, যার হাতে তাদের ক্ষতি বা উপকারের কোনো ক্ষমতা নেই? আর ৫:৭৭ কিতাবধারীদের বলে, দ্বীনের ব্যাপারে সত্যের সীমা ছাড়িয়ে বাড়াবাড়ি করো না। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো শানে নুযূল জোড়েনি। তাই ধারাবাহিকতায় এর অবস্থানই অর্থ ঠিক করে দেয়। ৫:৭৩ প্রসঙ্গে ইবনে কাসীর সুদ্দীর মত উল্লেখ করেন: তিনি আয়াতটিকে ৫:১১৬-এর সঙ্গে মেলান, যেখানে ঈসা (আঃ)-কে জিজ্ঞেস করা হবে, তিনি কি মানুষকে বলেছিলেন আল্লাহকে ছেড়ে তাঁকে আর তাঁর মাকে ইলাহ বানাতে। এ আয়াতও কথা বলে সেই দুজনকে নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Messenger, a Mother, a Meal",
+          "bn": "এক রাসূল, এক মা, এক আহার"
+        },
+        "p": [
+          {
+            "en": "Ma al-Masihu ibnu Maryama illa rasul: the Messiah, son of Maryam, was not but a messenger. As-Sa'di reads the restriction as the furthest his matter reaches. Qad khalat min qablihi ar-rusul: messengers had passed on before him; al-Baghawi glosses khalat as madat, they went their way. The same words open 3:144 about the Prophet ﷺ: Muhammad is not but a messenger, messengers have passed on before him. The Quran measures both messengers with one sentence. Wa ummuhu siddiqah: and his mother was a woman of truth.",
+            "bn": "মা আল-মাসীহু ইবনু মারইয়ামা ইল্লা রাসূল: মারইয়াম-পুত্র মাসীহ একজন রাসূল ছাড়া আর কিছু নন। সা'দী বলেন, এটুকুই তাঁর মর্যাদার শেষ সীমা। কাদ খালাত মিন কাবলিহির রুসুল: তাঁর আগে বহু রাসূল গত হয়েছেন। বাগাভী খালাত শব্দের ব্যাখ্যা দেন মাদাত দিয়ে, অর্থাৎ তাঁরা নিজেদের পথে চলে গেছেন। হুবহু এ কথাগুলো দিয়েই ৩:১৪৪ শুরু হয় নবী ﷺ-এর ব্যাপারে: মুহাম্মাদ একজন রাসূল মাত্র, তাঁর আগেও রাসূলরা গত হয়েছেন। দুই রাসূলকে কুরআন একই বাক্যে মাপে। ওয়া উম্মুহু সিদ্দীকা: আর তাঁর মা ছিলেন সত্যনিষ্ঠ নারী।"
+          },
+          {
+            "en": "At-Tabari gives the word's pattern, fi''il from sidq, truthfulness, as in siddiq, and cites 4:69, where the siddiqun stand beside the prophets. Kana ya'kulani at-ta'am: they both used to eat food, a dual verb describing their ordinary life. Then the verse turns to the listener twice. Unzur kayfa nubayyinu lahum al-ayat: look how We make the signs clear to them. Thumma unzur anna yu'fakun: then look how they are turned away. At-Tabari explains the verb: the Arabs call anyone turned from a thing ma'fuk 'anhu, and say of a land that it has been turned, ufikat, when the rain is turned away from it.",
+            "bn": "তাবারী শব্দটির গড়ন বুঝিয়ে দেন: ফিইল ওজনে, সিদক অর্থাৎ সত্যবাদিতা থেকে, যেমন সিদ্দীক শব্দটি। তিনি ৪:৬৯ আয়াত আনেন, যেখানে সিদ্দীকরা নবীদের পাশেই দাঁড়িয়ে। কানা ইয়া'কুলানিত তা'আম: তাঁরা দুজনেই খাবার খেতেন। ক্রিয়াটি দ্বিবচন, আর এতে তাঁদের রোজকার জীবনের ছবি। এরপর আয়াত শ্রোতার দিকে দুবার ফেরে। উনযুর কাইফা নুবাইয়িনু লাহুমুল আয়াত: দেখো, তাদের জন্য আমি নিদর্শনগুলো কীভাবে স্পষ্ট করি। সুম্মান যুর আন্না ইউ'ফাকূন: তারপর দেখো, তাদের কীভাবে ফিরিয়ে নেওয়া হয়। তাবারী ক্রিয়াটির অর্থ খুলে বলেন। কোনো কিছু থেকে যাকে ফিরিয়ে দেওয়া হয়, আরবরা তাকে বলে মা'ফূক আনহু। আর কোনো জমি থেকে বৃষ্টি সরে গেলে বলে, উফিকাতিল আরদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Earlier Messengers Prove",
+          "bn": "আগের রাসূলরা যা প্রমাণ করেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari calls the verse an argument given to the Prophet ﷺ against the Christian groups over what they said of the Messiah, one group that he is God and another that he is the son of God. It is not as they say, he answers: he is the son of Maryam, born of her as mothers bear their sons, which is an attribute of humans and not of their Creator. He was a messenger like those before him, and the signs at his hand proved his truthfulness as theirs proved their own.",
+            "bn": "তাবারীর মতে আয়াতটি নবী ﷺ-এর হাতে দেওয়া এক যুক্তি, মাসীহ সম্পর্কে খ্রিস্টানদের বিভিন্ন দলের কথার জবাবে। এক দল বলত, তিনিই ঈশ্বর, আরেক দল বলত, তিনি ঈশ্বরের পুত্র। তাবারী বলেন, ব্যাপারটা তাদের কথামতো নয়। তিনি মারইয়ামের ছেলে, মায়েরা যেভাবে সন্তান জন্ম দেন, সেভাবেই তাঁর জন্ম। এ হলো মানুষের বৈশিষ্ট্য, মানুষের স্রষ্টার নয়। তিনি ছিলেন আগের রাসূলদের মতোই একজন রাসূল। তাঁর হাতে যেসব নিদর্শন ঘটেছে, তা তাঁর সত্যতার প্রমাণ, যেমন আগের রাসূলদের নিদর্শন ছিল তাঁদের সত্যতার প্রমাণ।"
+          },
+          {
+            "en": "Al-Qurtubi turns this into a dilemma. Signs appeared at his hand, but the messengers brought signs too; if signs made him a god, every messenger would be a god. As-Sa'di says he is one of Allah's servants sent as messengers, with no share in command or law-giving beyond what Allah sent him with, of the same kind as those before him, with nothing that lifts him out of humanity into lordship. Ma'arif al-Qur'an adds that the earlier messengers completed their mission and were gone; they were not eternal, and eternity is the mark of godhood.",
+            "bn": "কুরতুবী একে এক উভয়সংকটে দাঁড় করান। তাঁর হাতে নিদর্শন ঘটেছে ঠিকই, কিন্তু অন্য রাসূলরাও নিদর্শন এনেছিলেন। নিদর্শনের কারণে যদি তিনি ইলাহ হন, তবে প্রত্যেক রাসূলই ইলাহ হয়ে যান। সা'দী বলেন, তিনি আল্লাহর প্রেরিত বান্দাদের একজন। আল্লাহ তাঁকে যা দিয়ে পাঠিয়েছেন, তার বাইরে আদেশ বা বিধান দেওয়ায় তাঁর কোনো ভাগ নেই। তিনি আগের রাসূলদেরই সমগোত্রীয়, এমন কোনো বিশেষত্ব তাঁর নেই, যা তাঁকে মানুষের কাতার থেকে তুলে রবের আসনে বসায়। মাআরিফুল কুরআন যোগ করে, আগের রাসূলরা দায়িত্ব শেষ করে চলে গেছেন। তাঁরা চিরস্থায়ী ছিলেন না, আর চিরস্থায়িত্বই উলূহিয়্যাতের চিহ্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Siddiqah, and an Open Question",
+          "bn": "সিদ্দীকা, আর এক খোলা প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi says siddiqah means much given to truthfulness, and reports another view, that she was so called because she affirmed the signs of Allah, as 66:12 describes her: she believed in the words of her Lord and His scriptures. Al-Qurtubi, from al-Hasan and others, says she was called siddiqah for how much she affirmed her Lord's signs and affirmed her son in what he told her. The Muyassar calls her belief firm in knowledge and in action, and as-Sa'di defines the quality as beneficial knowledge that bears certainty, with righteous deeds.",
+            "bn": "বাগাভী বলেন, সিদ্দীকা মানে যিনি খুব বেশি সত্যবাদী। আরেকটি মতও তিনি আনেন: আল্লাহর নিদর্শনগুলোকে তিনি সত্য বলে মেনেছিলেন, তাই এ নাম। ৬৬:১২ তাঁর বর্ণনা দেয় এভাবেই: তিনি তাঁর রবের বাণী ও কিতাবসমূহকে সত্য বলে মেনেছিলেন। কুরতুবী হাসান ও অন্যদের সূত্রে বলেন, রবের নিদর্শনকে তিনি বারবার সত্য বলে মেনেছেন, আর ছেলে তাঁকে যা জানিয়েছেন তা-ও মেনেছেন, তাই তিনি সিদ্দীকা। মুয়াসসার বলে, তাঁর বিশ্বাস ছিল দৃঢ়, জ্ঞানে এবং আমলে। আর সা'দী গুণটির সংজ্ঞা দেন এভাবে: উপকারী জ্ঞান, যা ইয়াকীন জন্মায়, সঙ্গে নেক আমল।"
+          },
+          {
+            "en": "Whether the word settles her rank is where they differ. Ibn Kathir says siddiqah is the highest of her stations, and so shows she was not a prophetess, against Ibn Hazm and others who held that Sarah, the mother of Musa (AS) and Maryam (AS) were prophetesses, citing the angels' address to Sarah and Maryam and 28:7, where Allah inspired the mother of Musa. He answers that the majority hold Allah sent prophets only from among men, citing 12:109, and reports a claim of consensus. As-Sa'di and Ma'arif al-Qur'an take the same view; Ma'arif calls the question debated.",
+            "bn": "শব্দটি তাঁর মর্যাদার প্রশ্ন মিটিয়ে দেয় কি না, মতভেদ এখানেই। ইবনে কাসীর বলেন, সিদ্দীকা তাঁর সর্বোচ্চ মর্যাদা, তাই এটি দেখায় যে তিনি নবী ছিলেন না। এ কথা তিনি বলেন ইবনে হাযম ও অন্যদের বিপরীতে, যাঁরা সারা, মূসা (আঃ)-এর মা আর মারইয়াম (আঃ)-কে নবী মনে করতেন। তাঁদের দলিল ছিল সারা ও মারইয়ামের সঙ্গে ফেরেশতাদের কথা বলা, আর ২৮:৭, যেখানে আল্লাহ মূসার মায়ের কাছে ওহী পাঠান। ইবনে কাসীরের জবাব: অধিকাংশ আলেমের মত হলো, আল্লাহ নবী পাঠিয়েছেন শুধু পুরুষদের মধ্য থেকে। দলিল হিসেবে তিনি ১২:১০৯ আনেন, আর এ বিষয়ে ইজমার একটি বর্ণনাও উল্লেখ করেন। সা'দী আর মাআরিফুল কুরআনও একই মত নেয়, যদিও মাআরিফ প্রশ্নটিকে বিতর্কিত বলে স্বীকার করে।"
+          },
+          {
+            "en": "Al-Qurtubi does not accept the inference from this verse. He records that those who deny her prophethood cite wa ummuhu siddiqah, and writes that this needs examination, since a person may be a siddiq and also a prophet, as with Idris (AS); 19:56 calls Idris a man of truth and a prophet. Both positions are held by named scholars, and this page leaves the difference where they left it. What none of them disputes is the honour: as-Sa'di calls the siddiqun the highest of creation in rank after the prophets.",
+            "bn": "কুরতুবী এ আয়াত থেকে টানা সিদ্ধান্তটি মেনে নেন না। তিনি লেখেন, যাঁরা বলেন মারইয়াম (আঃ) নবী ছিলেন না, তাঁরা ওয়া উম্মুহু সিদ্দীকা দিয়ে দলিল দেন। তারপর বলেন, এ দলিল ভেবে দেখার বিষয়। কারণ কেউ সিদ্দীক হয়েও নবী হতে পারেন, যেমন ইদরীস (আঃ)। ১৯:৫৬ আয়াতে ইদরীসকে বলা হয়েছে সত্যনিষ্ঠ এবং নবী। দুই মতই নামকরা আলেমদের, আর এ লেখা মতভেদটিকে সেখানেই রেখে দিচ্ছে, যেখানে তাঁরা রেখে গেছেন। তবে সম্মানের ব্যাপারে কারও দ্বিমত নেই। সা'দী বলেন, নবীদের পরে সৃষ্টির মধ্যে মর্যাদায় সবচেয়ে উঁচু সিদ্দীকরাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Both Ate Food",
+          "bn": "দুজনেই খাবার খেতেন"
+        },
+        "p": [
+          {
+            "en": "For at-Tabari, they both used to eat food reports that the Messiah and his mother needed food and drink to nourish them and keep their bodies standing, like every descendant of Adam. Whoever is like that is not a god, he argues, because whoever needs nourishment is sustained by something other than himself; that dependence is clear proof of incapacity, and the incapable can only be under a Lord, never the Lord. As-Sa'di comes at it from the other side: had they been gods they would have needed nothing, for the God is al-Ghani al-Hamid, the Self-Sufficient, the Praiseworthy.",
+            "bn": "তাবারীর কাছে কথাটির অর্থ হলো, মাসীহ ও তাঁর মায়ের খাবার আর পানীয় লাগত, যা তাঁদের পুষ্টি দিত, শরীরকে খাড়া রাখত, আদমের অন্য সব সন্তানের মতোই। তাঁর যুক্তি, যার অবস্থা এমন, সে ইলাহ হতে পারে না। কারণ যার খাবার লাগে, সে টিকে থাকে নিজের বাইরের কিছুর ওপর ভর করে। এই নির্ভরতাই তার অক্ষমতার স্পষ্ট প্রমাণ। আর অক্ষম কেবল প্রতিপালিত হতে পারে, প্রতিপালক নয়। সা'দী আসেন উল্টো দিক থেকে: তাঁরা ইলাহ হলে তাঁদের কিছুরই দরকার হতো না, কারণ ইলাহ তো তিনিই, যিনি আল-গনী আল-হামীদ, অভাবমুক্ত, প্রশংসিত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an follows the chain outward. Whoever eats depends on the grain, the grain on earth, water, air and sun, and digestion on a further chain no one can trace to its end; so one who must eat is not free of need for anything. It calls this a proof that the educated and the uneducated grasp alike, and sets a careful limit: not eating proves nothing for godhood either, or the angels would be gods. Al-Qurtubi notes that none of them disputed that he was born and ate.",
+            "bn": "মাআরিফুল কুরআন এই শিকলটা বাইরের দিকে টেনে দেখায়। যে খায়, সে শস্যের ওপর নির্ভরশীল। শস্য নির্ভর করে মাটি, পানি, বাতাস আর সূর্যের ওপর। হজমের পেছনেও আছে আরেক শিকল, যার শেষ কেউ খুঁজে পায় না। তাই যাকে খেতে হয়, সে কোনো কিছুর প্রয়োজন থেকেই মুক্ত নয়। মাআরিফ বলে, এ এমন প্রমাণ যা শিক্ষিত-অশিক্ষিত সবাই বোঝে। সঙ্গে একটি সতর্ক সীমাও টানে: না খাওয়াও উলূহিয়্যাতের প্রমাণ নয়, নইলে ফেরেশতারাও ইলাহ হয়ে যেতেন। কুরতুবী লক্ষ করেন, তাঁর জন্ম আর তাঁর খাওয়া, এ দুটি কথা তাদের কেউ অস্বীকার করেনি।"
+          },
+          {
+            "en": "Some read the phrase as a figure of speech. Al-Qurtubi reports from some commentators, and al-Baghawi with it is said, that eating food is a polite allusion to relieving oneself, since whoever eats must also void. Al-Qurtubi says this too shows they were human; al-Baghawi asks how anyone so described could be a god. Ibn Kathir holds both meanings together: they needed nourishment, and needed it to leave them. Al-Qurtubi also takes up the reply that he ate in his human nature and not his divine nature, and answers that this mixes the divine with what is not divine, which he holds cannot be conceived.",
+            "bn": "কেউ কেউ কথাটিকে রূপক হিসেবে পড়েছেন। কুরতুবী কিছু মুফাসসিরের বরাতে, আর বাগাভী 'বলা হয়' বলে উল্লেখ করেন যে খাবার খাওয়া এখানে মলমূত্র ত্যাগের ভদ্র ইঙ্গিত, কারণ যে খায়, তাকে তা বেরও করতে হয়। কুরতুবী বলেন, এটিও দেখায় তাঁরা মানুষ ছিলেন। বাগাভী প্রশ্ন রাখেন, এমন যাঁর অবস্থা, তিনি ইলাহ হন কী করে? ইবনে কাসীর দুই অর্থ একসঙ্গে ধরেন: তাঁদের পুষ্টি দরকার হতো, আবার তা শরীর থেকে বের হওয়াও দরকার হতো। কুরতুবী আরেকটি জবাবও সামনে আনেন: তিনি খেয়েছেন মানবসত্তায়, ঐশী সত্তায় নয়। তাঁর উত্তর, এতে ইলাহের সঙ্গে যা ইলাহ নয় তার মিশ্রণ মানতে হয়, যা তাঁর মতে কল্পনাই করা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servant and Messenger, Nothing More",
+          "bn": "বান্দা ও রাসূল, এর বেশি নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. A narration that is general, and not attached to the verse, sits close to its sentence. Sahih al-Bukhari (3445) records from Ibn Abbas (RA) that he heard Umar (RA) say from the pulpit that he heard the Prophet ﷺ say: do not over-praise me as the Christians over-praised the son of Maryam, for I am only His servant; so say, the servant of Allah and His Messenger.",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জোড়েনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, এর কথার খুব কাছাকাছি। সহীহ বুখারী (৩৪৪৫) ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করে, তিনি উমর (রাঃ)-কে মিম্বরে বলতে শুনেছেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: খ্রিস্টানরা যেমন মারইয়ামের ছেলের প্রশংসায় বাড়াবাড়ি করেছে, তোমরা আমার প্রশংসায় তেমন বাড়াবাড়ি করো না। আমি তো কেবল তাঁর বান্দা। তাই বলো, আল্লাহর বান্দা ও তাঁর রাসূল।"
+          },
+          {
+            "en": "The two words the Prophet ﷺ asked for are the two this verse gives Isa (AS). Ibn Kathir, here, calls him one of Allah's servants and one of His noble messengers, and cites 43:59: he was not but a servant upon whom We bestowed favour. The warning in the hadith is spoken to Muslims about their own Prophet ﷺ. It is the warning 5:77 gives the People of the Scripture, not to exceed limits in religion, and a Muslim hears it first as addressed to himself.",
+            "bn": "নবী ﷺ নিজের জন্য যে দুটি শব্দ চেয়েছেন, এ আয়াত ঈসা (আঃ)-কে ঠিক সেই দুটিই দেয়। ইবনে কাসীর এখানে তাঁকে বলেন আল্লাহর বান্দাদের একজন, তাঁর সম্মানিত রাসূলদের একজন। সঙ্গে আনেন ৪৩:৫৯: তিনি তো কেবল একজন বান্দা, যাঁর ওপর আমি অনুগ্রহ করেছি। হাদীসের সতর্কবাণী মুসলিমদের উদ্দেশে, তাদের নিজেদের নবী ﷺ-কে নিয়ে। ৫:৭৭ কিতাবধারীদের যে সতর্কবাণী দেয়, দ্বীনে বাড়াবাড়ি না করার, এটা সেটাই। তাই একজন মুসলিম আগে এটাকে নিজের প্রতিই বলা কথা হিসেবে শোনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speaking of Christians With Respect",
+          "bn": "খ্রিস্টানদের কথা, সম্মানের সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Christians today hold, as a matter of their creeds, that Jesus, as they name Isa (AS), is divine, and many hold Maryam (AS) in deep honour. This verse rejects the first claim and answers it with an argument, not an insult: a messenger like those before him, a truthful mother, two people who ate. It describes a saying and the reply to it; it licenses nothing against any living person or community, no contempt, no harm and no mockery. Its own words for what it does are signs made clear, the language of persuasion.",
+            "bn": "আজকের খ্রিস্টানরা তাঁদের ধর্মবিশ্বাসের মূলনীতি হিসেবে মানেন যে যিশু, অর্থাৎ ঈসা (আঃ), ঈশ্বর। আর তাঁদের অনেকে মারইয়াম (আঃ)-কে গভীর শ্রদ্ধা করেন। এ আয়াত প্রথম দাবিটি নাকচ করে, তবে জবাব দেয় যুক্তি দিয়ে, অপমান দিয়ে নয়: আগের রাসূলদের মতো একজন রাসূল, একজন সত্যনিষ্ঠ মা, দুজন মানুষ, যাঁরা খাবার খেতেন। আয়াত একটি কথা আর তার জবাবের বর্ণনা দেয়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না: না অবজ্ঞার, না ক্ষতির, না ঠাট্টার। নিজের কাজকে আয়াত বলে নিদর্শন স্পষ্ট করা, আর সেটা বোঝানোর ভাষা।"
+          },
+          {
+            "en": "That gives a Muslim a way to speak. Begin from what both sides accept: that he was born of Maryam and ate is not denied by Christians, as al-Qurtubi and Ma'arif al-Qur'an both observe. Honour Isa (AS) and Maryam (AS) as the Quran honours them, and say plainly what the verse says plainly, without raising the voice. And keep the hadith's mirror in view: a Muslim who lifts the Prophet ﷺ, a saint or a teacher beyond servant and messenger has stepped toward what this verse corrects.",
+            "bn": "এখান থেকে একজন মুসলিম কথা বলার একটা পথ পান। শুরু করুন দুই পক্ষের মানা কথা থেকে। তিনি মারইয়ামের গর্ভে জন্মেছেন আর খাবার খেয়েছেন, এ কথা খ্রিস্টানরা অস্বীকার করেন না, কুরতুবী আর মাআরিফুল কুরআন দুজনেই তা লক্ষ করেছেন। ঈসা (আঃ) ও মারইয়াম (আঃ)-কে সম্মান করুন যেভাবে কুরআন করে। আয়াত যা সোজাসুজি বলে, আপনিও তা সোজাসুজি বলুন, গলা না চড়িয়ে। আর হাদীসের আয়নাটা চোখের সামনে রাখুন। যে মুসলিম নবী ﷺ-কে, কোনো পীর বা কোনো উস্তাদকে বান্দা ও রাসূলের সীমা ছাড়িয়ে তোলেন, তিনি সেদিকেই পা বাড়ালেন, যা এ আয়াত শুধরে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Before the Next Meal",
+          "bn": "পরের আহারের আগে কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Every time I eat, the verse's argument is in my own hands. Do I let the meal remind me that I am held up by things I did not make, and by Him who needs none of them? Do I honour the people I love most in religion as the verse honours Isa (AS) and Maryam (AS), highly and as servants? When I last spoke with a Christian about faith, did I begin from shared ground, or from a scorn the verse never uses?",
+            "bn": "যতবার খাই, আয়াতের যুক্তিটা আমার নিজের হাতেই থাকে। খাবারটা কি আমাকে মনে করিয়ে দেয় যে আমাকে ধরে রেখেছে এমন সব জিনিস, যা আমি বানাইনি, আর ধরে রেখেছেন তিনি, যাঁর এর কোনোটারই দরকার নেই? দ্বীনের যাঁদের আমি সবচেয়ে ভালোবাসি, তাঁদের কি সেভাবে সম্মান করি, যেভাবে আয়াত ঈসা (আঃ) ও মারইয়াম (আঃ)-কে করে, উঁচুতে রেখে, অথচ বান্দা হিসেবে? শেষবার কোনো খ্রিস্টানের সঙ্গে ঈমান নিয়ে কথা বলার সময় আমি কি দুজনের মানা জায়গা থেকে শুরু করেছিলাম, নাকি এমন তাচ্ছিল্য থেকে, যা আয়াত কোথাও ব্যবহার করে না?"
+          },
+          {
+            "en": "The verse says look twice: at how clearly the signs are set out, and at how people are turned away from them. What has turned me away from something I had already seen plainly? At-Tabari's image is a land the rain has been turned away from: where has guidance fallen near me and missed? And siddiqah asks its own question of me: is my faith a word I say, or knowledge that bears certainty, with deeds that follow it?",
+            "bn": "আয়াত দুবার তাকাতে বলে: নিদর্শন কত স্পষ্ট করে সাজানো, সেদিকে, আর মানুষ কীভাবে সেগুলো থেকে ফিরে যায়, সেদিকে। যা আমি একবার পরিষ্কার দেখেছিলাম, তা থেকে আমাকে কী ফিরিয়ে নিয়েছে? তাবারীর ছবিটা এমন এক জমির, যার ওপর থেকে বৃষ্টি সরে গেছে। হিদায়াত কোথায় আমার খুব কাছে এসে পড়েছিল, তবু আমাকে ছুঁয়ে যায়নি? আর সিদ্দীকা শব্দটি আমাকে নিজের একটি প্রশ্ন করে: আমার ঈমান কি কেবল মুখের কথা, নাকি এমন জ্ঞান, যা ইয়াকীন জন্মায়, আর যার পেছনে আমল আসে?"
+          }
+        ]
+      }
+    ]
+  },
   "5:78-79": {
     "sections": [
       {
