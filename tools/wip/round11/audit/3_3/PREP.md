@@ -1,0 +1,67 @@
+# PREP 3:3
+
+## Verses (target marked >>), Arabic word counts exclude pause marks
+
+   3:1 [1 words] الٓمٓ
+   EN: Alif, Lām, Meem.1
+   BN: আলিফ-লাম-মীম।
+
+   3:2 [7 words] ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
+   EN: Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining.1
+   BN: আল্লাহ, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, তিনি চিরঞ্জীব সকলের রক্ষণাবেক্ষণকারী।
+
+>> 3:3 [11 words] نَزَّلَ عَلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
+   EN: He has sent down upon you, [O Muḥammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel
+   BN: তিনি সত্য সহকারে তোমার উপর কিতাব অবতীর্ণ করেছেন, যা পূর্বতন কিতাবের সমর্থক এবং তিনি তাওরাত ও ইঞ্জীল অবতীর্ণ করেছেন ।
+
+   3:4 [18 words] مِن قَبْلُ هُدًۭى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۗ وَٱللَّهُ عَزِيزٌۭ ذُو ٱنتِقَامٍ
+   EN: Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.1
+   BN: ইতোপূর্বে মানবজাতির পথ প্রদর্শনের জন্য; আর তিনি সেই মানদন্ড নাযিল করেছেন যা হাক্ব ও বাতিলের পার্থক্য দেখিয়ে দেয়; নিশ্চয়ই যারা আল্লাহর আয়াতের সাথে কুফুরী করে, তাদের জন্য কঠিন শাস্তি রয়েছে। আল্লাহ মহাপরাক্রমশালী, দন্ডদাতা।
+
+   3:5 [11 words] إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌۭ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
+   EN: Indeed, from Allāh nothing is hidden in the earth nor in the heaven.
+   BN: নিশ্চয়ই ভূমন্ডলের ও নভোমন্ডলের কোন জিনিসই আল্লাহর নিকট গোপন থাকে না।
+
+   3:6 [13 words] هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+   EN: It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.
+   BN: তিনিই তোমাদেরকে মায়ের পেটে যেভাবে ইচ্ছে আকৃতি দেন, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, তিনি মহাশক্তিমান ও প্রজ্ঞাশীল।
+
+   3:7 [46 words] هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+   EN: It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.1 As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, "We believe in it. All [of it] is from our Lord." And no one will be reminded except those of understanding.
+   BN: তিনিই তোমার উপর এমন কিতাব নাযিল করেছেন, যার কতিপয় আয়াত মৌলিক-সুস্পষ্ট অর্থবোধক, এগুলো হল কিতাবের মূল আর অন্যগুলো পুরোপুরি স্পষ্ট নয়; কিন্তু যাদের অন্তরে বক্রতা আছে, তারা গোলযোগ সৃষ্টির উদ্দেশ্যে এবং ভুল ব্যাখ্যার উদ্দেশ্যে উক্ত আয়াতগুলোর অনুসরণ করে যেগুলো পুরোপুরি স্পষ্ট নয়। মূলত: এর মর্ম আল্লাহ ছাড়া কেউই জানে না। যারা জ্ঞানে সুগভীর তারা বলে যে, আমরা তার উপর ঈমান এনেছি, এ সবকিছুই আমাদের প্রতিপালকের নিকট হতে এসেছে, মূলতঃ জ্ঞানবান ব্যক্তিরা ছাড়া কেউই নসীহত গ্রহণ করে না।
+
+   3:8 [15 words] رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ
+   EN: [Who say], "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.1
+   BN: হে আমাদের প্রতিপালক! সৎ পথ প্রদর্শনের পরে তুমি আমাদের অন্তরগুলোকে বক্র করে দিও না, আমাদেরকে তোমার নিকট হতে রহমত প্রদান কর, মূলতঃ তুমিই মহান দাতা।
+
+   3:9 [13 words] رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+   EN: Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allāh does not fail in His promise."
+   BN: হে আমাদের প্রতিপালক! নিশ্চয়ই তুমি সমুদয় মানুষকে একদিন সমবেত করবে, যাতে কোনও সন্দেহ নাই। নিশ্চয়ই আল্লাহ অঙ্গীকারের খেলাফ করেন না।
+
+
+## Shipped cards/articles in surah 3 within ±25 (read a full article only if you must)
+
+- 3:8: lesson: Make this a daily prayer: ask Allah to keep your heart firm on guidance, because faith needs constant renewing.
+    headings: Two Readers of One Book | Whose Words Are These? | Do Not Tilt Our Hearts | Why the Guided Still Ask | Mercy From Your Own Presence | The Name That Seals It | Make My Heart Firm | Recited in the Third Rak'ah
+- 3:26-27: lesson: Anchor your hopes and fears in the One who truly owns all power and provision.
+    headings: Words Handed Over to Say | Owner of the Dominion Itself | Giving and Stripping Away | Raised Up, Brought Low | Only the Good Is Named | Persia, Rome and the Mockers | Hours Passed Between Them | From the Dead, the Living | Provision Kept by No Ledger
+- 3:6: lesson: The One who shaped you unseen in the womb is the only One who deserves your worship; carry the form He gave you with trust.
+    headings: Known, Then Formed | Form, Womb, As He Wills | What the Commentators Drew | Written Before the First Deed | Other Verses on the Womb | Living With a Given Form | A Prostration Du'a | For Parents and Teachers | Questions for the Mirror
+- 3:14-15: lesson: Enjoy what was made beautiful for you as provision for the road, and keep your deepest wanting for what is with Allah.
+    headings: From One Battle to Every Heart | Beautified, Desired, Enjoyed | Shall I Tell You? | Who Beautified, and What For | The Best Enjoyment and the Last Gift | Adornment Elsewhere in the Book | Naming the Pull | The Du'a of Those Who Chose | Taking Stock of the Heart
+- 3:18-19: lesson: Join the testimony Allah Himself has given, and guard your knowledge from the rivalry that divides people after the truth has reached them.
+    headings: The Ground Beneath the Argument | Testimony, Justice, Submission | Two Scholars, Two Readings | What This Islam Is | One Religion, Many Messengers | Joining the Witnesses | Written Among the Witnesses | Where the Witness Stands
+
+## Tafsir files (read these; do not re-fetch). Size in chars; "covers" = verse keys the API grouped
+
+- tools/wip/round11/audit/3_3/t14_3.txt  Ibn Kathir (ar)  550 chars  covers 3:3
+- tools/wip/round11/audit/3_3/t15_3.txt  at-Tabari  3160 chars  covers 3:3
+- tools/wip/round11/audit/3_3/t16_3.txt  al-Muyassar  376 chars  covers 3:3
+- tools/wip/round11/audit/3_3/t90_3.txt  al-Qurtubi  2748 chars  covers 3:3
+- tools/wip/round11/audit/3_3/t91_3.txt  as-Sa'di  579 chars  covers 3:3
+- tools/wip/round11/audit/3_3/t94_3.txt  al-Baghawi  1177 chars  covers 3:3
+- tools/wip/round11/audit/3_3/t168_3.txt  Ma'arif (en)  1277 chars  covers 3:3,3:4,3:5,3:6  (grouped)
+- tools/wip/round11/audit/3_3/t169_3.txt  Ibn Kathir (en, abridged)  3232 chars  covers 3:1,3:2,3:3,3:4  (grouped)
+
+Hadith: node tools/wip/round11/hadith.js Bukhari 660   (also Muslim, AbuDawud, Tirmidhi, Nasai, IbnMajah)
+Gates: node tools/wip/round11/gate.js 3:3

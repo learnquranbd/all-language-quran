@@ -1,0 +1,63 @@
+# SOURCES LEDGER: 5:2 (depth pass)
+
+Card: shipped card kept (depth pass, no notes file).
+
+## Tafsir fetched (all from PREP; slot check done: every file opens on 5:2 itself; t169 is grouped 5:1-5:2)
+- t15 at-Tabari: NAMED.
+  - sha'a'ir views: 'Ata «حرمات الله: اجتناب سخط الله، واتباع طاعته»; as-Suddi «فحرم الله»; Ibn Abbas «مناسك الحج» and «ما نهى الله عنه أن تصيبه وأنت محرم». Choice: «وأولى التأويلات ... قول عطاء ... لأن الشعائر جمع شعيرة ... فالشعائر: المعالم» ... «نهيا عاما من غير اختصاص».
+  - month: «ولا تستحلوا الشهر الحرام بقتالكم به أعداءكم من المشركين» ... «فرجب مضر» ... 'Ikrimah «هو ذو القعدة».
+  - qala'id choice: «نهي من الله ... عن استحلال حرمة المقلد هديا كان ذلك أو إنسانا، دون حرمة القلادة».
+  - al-Hutam: as-Suddi 8612 («أقبل الحطم بن هند البكري ... انظروا لعلي أسلم، ولي من أشاوره ... ثم أقبل من عام قابل حاجا قد قلد وأهدى»); 'Ikrimah 8613 («فبايعه، وأسلم ... فلما قدم اليمامة ارتد عن الإسلام ... تهيأ للخروج إليه نفر من المهاجرين والأنصار ليقتطعوه»); Ibn Zayd 8614 «هذا يوم الفتح». Chains end at the Successors; at-Tabari gives no grading.
+  - abrogation: «اختلف أهل العلم فيما نسخ من هذه الآية بعد إجماعهم على أن منها منسوخا»; ash-Sha'bi (عامر) «لم ينسخ من المائدة إلا هذه الآية»; Mujahid 8619 «نسختها: فاقتلوا المشركين»; Qatada 8623 «نسخ من المائدة: آمين البيت الحرام نسختها براءة» with 9:5, 9:17, 9:28; Mujahid 8627 «إلا لحاء القلائد». Choice: «نسخ الله من هذه الآية قوله: ولا الشهر الحرام ولا الهدي ولا القلائد ولا آمين البيت الحرام لإجماع الجميع على أن الله قد أحل قتال أهل الشرك في الأشهر الحرم».
+  - yajrimannakum: Ibn Abbas/Qatada «لا يحملنكم»; «بعض البصريين: لا يحقن لكم»; «آخر من الكوفيين: لا يكسبنكم»; «وهذه الأقوال ... متقاربة المعنى ... فالذي هو أحسن في الإبانة ... ما قاله ابن عباس وقتادة».
+  - an/in: «أنهما قراءتان معروفتان مشهورتان ... صحيح معنى كل واحدة منهما ... غير أن ... قراءة ذلك بفتح الألف أبين معنى؛ لأن هذه السورة لا تدافع بين أهل العلم في أنها نزلت بعد يوم الحديبية»; kasr fits «الذين حاربوا ... من قريش يوم فتح مكة قد حاولوا صدهم».
+  - an ta'tadu: «أن تجاوزوا الحد الذي حده الله لكم في أمرهم» ... «ولكن الزموا طاعة الله فيما أحببتم وكرهتم». Abrogation of this clause: Ibn Zayd «هذا كله قد نسخ، نسخه الجهاد»; «وأولى القولين ... قول مجاهد: إنه غير منسوخ لاحتماله أن تعتدوا الحق ... إلا بحجة يجب التسليم لها».
+  - birr/taqwa: Ibn Abbas 8646 and Abu al-'Aliyah 8647 «البر: ما أمرت به، والتقوى: ما نهيت عنه». ithm «على ترك ما أمركم الله بفعله»; 'udwan «أن تتجاوزوا ما حد الله لكم في دينكم، وفرض لكم في أنفسكم وفي غيركم». Tie-back: «ولكن ليعن بعضكم بعضا بالأمر بالانتهاء إلى ما حده الله لكم في القوم الذين صدوكم عن المسجد الحرام وفي غيرهم».
+  - close: «وهذا وعيد من الله ... لمن اعتدى حده» ... «واحذروا الله أيها المؤمنون أن تلقوه في معادكم وقد اعتديتم حده».
+- t90 al-Qurtubi: NAMED. al-Hasan «دين الله كله» + «قلت: وهذا القول هو الراجح الذي يقدم على غيره لعمومه». Month: «اسم مفرد يدل على الجنس في جميع الأشهر الحرم ... ولا تبدلوها؛ فإن استبدالها استحلال، وذلك ما كانوا يفعلونه من النسيء». hady «ما أهدي إلى بيت الله تعالى من ناقة أو بقرة أو شاة». Bark: «قاله مجاهد وعطاء ومطرف بن الشخير». Unabrogated view: «وقال قوم: الآية محكمة لم تنسخ وهي في المسلمين» (Abu Maysarah «هي محكمة», trimmed from the article). Ibn 'Atiyyah: «هذه الآية استئلاف من الله تعالى للعرب ولطف بهم؛ لتنبسط النفوس، وتتداخل الناس، ويردون الموسم فيستمعون القرآن، ويدخل الإيمان في قلوبهم». Hatred is the believers': «والمراد بغضكم قوما، فأضاف المصدر إلى المفعول». Readings: «وقرأ أبو عمرو وابن كثير بكسر الهمزة»; an-Nahhas «فالعلماء الجلة ... يمنعون القراءة بها ... أن الآية نزلت عام الفتح سنة ثمان، وكان المشركون صدوا المسلمين عام الحديبية سنة ست». Ibn Zayd's Hudaybiyyah report «مر بهم ناس من المشركين يريدون العمرة؛ فقال المسلمون: نصدهم كما صدنا أصحابهم». birr/taqwa: «ثم قيل: البر والتقوى لفظان بمعنى واحد ... قال ابن عطية: وفي هذا تسامح ما ... البر يتناول الواجب والمندوب إليه، والتقوى رعاية الواجب».
+- t14 Ibn Kathir (ar): NAMED. Trade list «قال مجاهد وعطاء وأبو العالية ... وقتادة ومقاتل بن حيان ... يعني بذلك: التجارة»; Ibn Abbas «يترضون الله بحجهم». al-Hasan «قلت للحسن: نسخ من المائدة شيء؟ قال: لا». Zayd ibn Aslam via Ibn Abi Hatim (chain given: أبي، سهل بن عثمان، عبد الله بن جعفر، عن زيد بن أسلم) «فمر بهم أناس من المشركين من أهل المشرق، يريدون العمرة، فقال أصحاب النبي: نصد هؤلاء كما صدنا أصحابهم». Justice: «فإن العدل واجب على كل أحد، في كل أحد، في كل حال»; «وقال بعض السلف: ما عاملت من عصى الله فيك بمثل أن تطيع الله فيه». Hadith: «انصر أخاك ظالما أو مظلوما ... تحجزه تمنعه فإن ذلك نصره. انفرد به البخاري من حديث هشيم».
+- t169 Ibn Kathir (en abridged): read; same material. Note: it names the al-Hutam sources as "'Ikrimah, As-Suddi and Ibn Jarir"; the Arabic has «عكرمة والسدي وابن جريج». Article follows neither list by name (uses at-Tabari's chains directly).
+- t91 as-Sa'di: NAMED. Three positions on the sacred months: «والجمهور من العلماء على أن القتال في الأشهر الحرم منسوخ» / «وقال آخرون: ... غير منسوخ ... المطلق يحمل على المقيد» / «وفصل بعضهم فقال: لا يجوز ابتداء القتال ... وأما استدامته وتكميله ... فإنه يجوز»; «فأما قتال الدفع ... بإجماع العلماء». 9:28: «وهذه الآية الكريمة مخصوصة بقوله تعالى: ... فلا يقربوا المسجد الحرام». Roads: «تأمين الطرق الموصلة إلى بيت الله ... غير خائفين على أنفسهم من القتل فما دونه، ولا على أموالهم». Justice: «لا يحملنكم بغض قوم وعداوتهم واعتداؤهم عليكم ... على الاعتداء عليهم، طلبا للاشتفاء منهم، فإن العبد عليه أن ... يسلك طريق العدل، ولو جني عليه أو ظلم ... فلا يحل له أن يكذب على من كذب عليه، أو يخون من خانه». birr «اسم جامع لكل ما يحبه الله ويرضاه، من الأعمال الظاهرة والباطنة، من حقوق الله وحقوق الآدميين»; taqwa «اسم جامع لترك كل ما يكرهه الله ورسوله»; ithm «التجرؤ على المعاصي التي يأثم صاحبها»; 'udwan «التعدي على الخلق في دمائهم وأموالهم وأعراضهم». Close «عقابه العاجل والآجل».
+- t94 al-Baghawi: NAMED. Shurayh ibn Dubay'ah «نزلت في الحطم واسمه شريح بن ضبيعة البكري» (no chain given). 'Ata «أراد أصحاب القلائد ... قلدوا أنفسهم وإبلهم بشيء من لحاء شجر الحرم كيلا يتعرض لهم». ridwan «أي: على زعمهم» / «وقيل: ابتغاء الفضل للمؤمنين والمشركين عامة، وابتغاء الرضوان للمؤمنين خاصة؛ لأن المسلمين والمشركين كانوا يحجون». al-Farra' «لا يكسبنكم». Readings «قرأ ابن كثير وأبو عمرو بكسر الألف». hady «من بعير أو بقرة أو شاة». Cites 'A'ishah (via Muhammad ibn Isma'il) and an-Nawwas.
+- t16 al-Muyassar: NAMED. Four months listed «وكان ذلك في صدر الإسلام»; qala'id «ضفائر من صوف أو وبر في الرقاب علامة على أن البهيمة هدي وأن الرجل يريد الحج».
+- t168 Ma'arif al-Qur'an (en): NAMED. "describes two important articles of this contract ... sanctity of the signs ... even-handed dispension of justice to everyone, your own or not your own, friend or foe ... prohibition of any counter injustice"; "friend and foe should be treated equally on the scale of justice"; "no help is to be extended even to a Muslim brother if he is acting contrary to truth ... effort should be made to hold his hands". It names the man "Hatim ibn Hind" (sic) and lists three background events, "narrated by Ibn Jarir on the authority of 'Ikrimah and al-Suddi"; article uses at-Tabari's own text.
+
+Disagreements kept, no position: sha'a'ir (four glosses + two preferences); qala'id (three glosses + at-Tabari's choice); ridwan (al-Baghawi's two); occasion (al-Hutam vs Ibn Zayd's Conquest year; Zayd ibn Aslam's Hudaybiyyah setting for the grudge clause); abrogation of the first half (ash-Sha'bi, Mujahid x2, Qatada, at-Tabari / al-Hasan, al-Qurtubi's group, as-Sa'di's three positions + defence + 9:28); abrogation of the justice clause (Ibn Zayd vs Mujahid, at-Tabari's preference reported); an/in readings (at-Tabari both sound / an-Nahhas rejects in); birr-taqwa one meaning vs Ibn 'Atiyyah. Explicit "takes no side, no ruling for today" sentence in §4.2 EN+BN.
+Licensing sentences: §3.3 (al-Hutam and the Companions) and §6.1 (the Hudaybiyyah setting, idolaters), both languages.
+
+## Hadith
+- Muslim 2553. URL https://quranx.com/hadith/Muslim/Hadith-2553 (saved hadith_Muslim_2553.txt). Cited by al-Baghawi on 5:2 with his own chain (his wording «ما حاك في نفسك»); article quotes Muslim's 2553a wording whole, translated from the Arabic: «سألت رسول الله صلى الله عليه وسلم عن البر والإثم فقال: البر حسن الخلق والإثم ما حاك في صدرك وكرهت أن يطلع عليه الناس». First ten words (EN): "I asked the Messenger of Allah ﷺ about birr and ithm". Grading: in Muslim's Sahih.
+- Bukhari 6952 (Dar-us-Salam). URL https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6952 (saved). Cited by Ibn Kathir on 5:2 («انفرد به البخاري من حديث هشيم»); the page's chain is Hushaym → 'Ubaydullah ibn Abi Bakr ibn Anas → Anas, matching. Quoted whole. First ten words: "Help your brother, whether he is a wrongdoer or wronged." Grading: in al-Bukhari's Sahih.
+- Bukhari 1696 (Dar-us-Salam). URL https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1696 (saved). Cited by al-Baghawi on 5:2 through Muhammad ibn Isma'il (= al-Bukhari), chain Abu Nu'aym → Aflah → al-Qasim → 'A'ishah, identical to the page. Quoted whole. First ten words: "I twisted the garlands of the Prophet's ﷺ camels with my". Grading: in al-Bukhari's Sahih.
+
+## Asbab an-nuzul
+Used, attributed, ungraded (no fetched tafsir grades them): al-Hutam ibn Hind al-Bakri (at-Tabari via as-Suddi and via 'Ikrimah, two differing versions both given; al-Baghawi's name Shurayh ibn Dubay'ah, unchained); Ibn Zayd's year-of-Conquest setting (at-Tabari); for the grudge clause, Zayd ibn Aslam via Ibn Abi Hatim (Ibn Kathir, chain as given) and Ibn Zayd (al-Qurtubi). No grading added. quranx al-Wahidi page not fetched.
+
+## Shipped overlap
+5:8 headings read; no material taken. One pointer line (§6.3). 5:3: one line (§8.3).
+
+## Dropped (could not confirm, or cut for length)
+- Ibn Kathir's Abu Bakrah hadith (Bukhari, "time has come round", sacred months) and his remark that it shows their continuing sanctity "as is the madhhab of a group of the salaf": not run through hadith.js; dropped.
+- «الدال على الخير كفاعله» (al-Bazzar via Ibn Kathir, who says it is known only through that chain; also in al-Qurtubi and Ma'arif) and its Sahih witness «من دعا إلى هدى»: not confirmed; dropped.
+- Tabarani via Ibn Kathir «من مشى مع ظالم ليعينه ... فقد خرج من الإسلام»: not confirmable; dropped.
+- Ahmad's "the believer who mixes with people" (Ibn Kathir): off-topic; dropped.
+- Mujahid's report in at-Tabari with «لعن الله من قتل بذحل الجاهلية»: a narration not confirmed; dropped.
+- al-Qurtubi's «أد الأمانة إلى من ائتمنك ولا تخن من خانك»: hadith not confirmed; as-Sa'di's own words used instead.
+- Ma'arif's Ruh al-Ma'ani hadith (helpers of oppressors, iron coffin): not confirmed; dropped.
+- Hunting clause (wa idha halaltum fastadu): Mujahid's "rukhsah" (at-Tabari), Ibn Kathir's command-after-prohibition rule, al-Qurtubi's dissent: cut for length; clause not discussed.
+- Ish'ar dispute (Abu Hanifa etc., al-Qurtubi, al-Baghawi), the Prophet's ﷺ ihram at Dhu al-Hulayfah (Ibn Kathir): fiqh detail, cut.
+- al-Qurtubi: al-Hutam later killed as an apostate at al-Yamamah: cut.
+- Mujahid's sha'a'ir list (as-Safa, al-Marwah, offering, camels), as-Sa'di on profaning the hady, Abu Maysarah, Ibn Khuwayz Mindad and al-Mawardi (al-Qurtubi), al-Baghawi's alternative birr/taqwa and ithm/'udwan glosses: cut for length.
+- Ma'arif's nationalism and world-order discussion: not used.
+
+## Points dropped from the shipped 796-word, 6-section article
+- "Surah al-Ma'idah is Madinan and late": not stated in the fetched texts (at-Tabari says only that it came after Hudaybiyyah); dropped.
+- "Shana'an is not mild dislike but loathing": sources gloss it bughd / 'adawah; dropped the intensification.
+- "yajrimanna comes from the root that gives the word for crime, and it means to drive a person into an offence": imprecise. The sources gloss it la yahmilannakum (carry), la yaksibannakum (earn), la yahiqqanna (make due); al-Qurtubi notes ajrama = to acquire sin. Replaced by the glosses.
+- "Ta'awanu is a form VI verb ... reciprocal": grammar claim not in the fetched texts; replaced by at-Tabari/as-Sa'di "let some of you help others".
+- "al-'udwan, from the same root" as i'tida' ("The door is closed from both sides"): not stated in sources; dropped (at-Tabari's own tie-back used instead).
+- Ibn Kathir's birr/taqwa pair: confirmed («فعل الخيرات وهو البر، وترك المنكرات وهو التقوى»); its substance kept via Ibn Abbas and Abu al-'Aliyah in at-Tabari.
+- 2:177 and 3:92 as fillings of birr: unsourced for 5:2; dropped.
+- Muslim's Nawwas hadith: confirmed and kept, now attached to the verse via al-Baghawi.
+- Homiletic lists (signature, silence, group chat, campaign, "which of the two lists"): unsourced; dropped.
+Missing from the old article (not wrong, absent): the abrogation dispute, the occasions, the an/in readings, the glosses of sha'a'ir and qala'id, and the justice centre as as-Sa'di, Ibn Kathir and Ma'arif draw it.

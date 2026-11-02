@@ -1,0 +1,89 @@
+# PREP 4:46
+
+## Verses (target marked >>), Arabic word counts exclude pause marks
+
+   4:40 [15 words] إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍۢ ۖ وَإِن تَكُ حَسَنَةًۭ يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًۭا
+   EN: Indeed, Allāh does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.
+   BN: আল্লাহ অণু পরিমাণও যুলম করেন না, আর কোন পুণ্য কাজ হলে তাকে তিনি দ্বিগুণ করেন এবং নিজের নিকট হতেও বিরাট পুরস্কার দান করেন।
+
+   4:41 [12 words] فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍۢ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًۭا
+   EN: So how [will it be] when We bring from every nation a witness and We bring you, [O Muḥammad], against these [people] as a witness?
+   BN: সুতরাং তখন কী অবস্থা দাঁড়াবে, যখন আমি প্রত্যেক উম্মাতের মধ্য হতে এক একজনকে সাক্ষী উপস্থিত করব এবং তোমাকেও হাজির করব তাদের উপর সাক্ষ্য দানের জন্য।
+
+   4:42 [14 words] يَوْمَئِذٍۢ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًۭا
+   EN: That Day, those who disbelieved and disobeyed the Messenger will wish they could be covered by the earth. And they will not conceal from Allāh a [single] statement.
+   BN: যারা অস্বীকার করেছে এবং রসূল-এর নাফরমানী করেছে, তারা সে দিন কামনা করবে, হায়! তারা যদি মাটির সাথে মিশে যেত এবং তারা আল্লাহ হতে কোন কথাই লুকিয়ে রাখতে পারবে না।
+
+   4:43 [48 words] يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
+   EN: O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying1 or in a state of janābah,2 except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning3 and Forgiving.
+   BN: হে ঈমানদারগণ! তোমরা নেশাগ্রস্ত অবস্থায় সলাতের নিকটবর্তী হয়ো না যতক্ষণ না তোমরা যা বল, তা বুঝতে পার এবং অপবিত্র অবস্থায়ও (সলাতের কাছে যেও না) গোসল না করা পর্যন্ত (মসজিদে) পথ অতিক্রম করা ব্যতীত; এবং যদি তোমরা পীড়িত হও কিংবা সফরে থাক; অথবা তোমাদের কেউ শৌচস্থান হতে আসে অথবা তোমরা স্ত্রী সঙ্গম করে থাক, অতঃপর পানি না পাও, তবে পবিত্র মাটি দিয়ে তায়াম্মুম কর, আর তা দিয়ে তোমাদের মুখমন্ডল ও হস্তদ্বয় মাসহ কর; আল্লাহ নিশ্চয়ই পাপ মোচনকারী, ক্ষমাশীল।
+
+   4:44 [14 words] أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يَشْتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ
+   EN: Have you not seen those who were given a portion of the Scripture, purchasing error [in exchange for it] and wishing you would lose the way?
+   BN: তুমি কি সেই লোকেদের প্রতি লক্ষ্য করনি, যাদেরকে কিতাবের অংশ দেয়া হয়েছিল? তারা নিজেরা পথভ্রষ্টতার সওদা করে আর তারা চায় তোমরাও পথভ্রষ্ট হয়ে যাও।
+
+   4:45 [9 words] وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا
+   EN: And Allāh is most knowing of your enemies; and sufficient is Allāh as an ally, and sufficient is Allāh as a helper.
+   BN: আল্লাহ তোমাদের শত্রুদেরকে ভালভাবে জানেন, অভিভাবক হিসেবে আল্লাহ্ই যথেষ্ট এবং সাহায্যকারী হিসেবে আল্লাহ্ই যথেষ্ট।
+
+>> 4:46 [38 words] مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا
+   EN: Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, "We hear and disobey" and "Hear but be not heard" and "Rāʿinā,"1 twisting their tongues and defaming the religion. And if they had said [instead], "We hear and obey" and "Wait for us [to understand]," it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.2
+   BN: ইয়াহূদীদের কতক লোক কথাকে প্রকৃত স্থান থেকে সরিয়ে বিকৃত করে এবং বলে, ‘আমরা শুনলাম ও অমান্য করলাম’ এবং শুনেও না শোনার মত আর নিজেদের জিহবা কুঞ্চিত ক’রে এবং দ্বীনের প্রতি দোষারোপ ক’রে বলে, ‘রাইনা’ (আমাদের রাখাল)। কিন্তু তারা যদি বলত ‘আমরা শুনলাম ও মেনে নিলাম, শোন এবং আমাদের প্রতি লক্ষ্য কর, তবে তা তাদের জন্য উত্তম এবং সঙ্গত হত, কিন্তু তাদের কুফরীর কারণে আল্লাহ তাদেরকে লা‘নত করেছেন, তারা স্বল্পসংখ্যক ব্যতীত ঈমান আনবে না।
+
+   4:47 [28 words] يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًۭا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًۭا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
+   EN: O you who were given the Scripture, believe in what We have sent down [to Prophet Muḥammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers.1 And ever is the matter [i.e., decree] of Allāh accomplished.
+   BN: ওহে যাদেরকে কিতাব দেয়া হয়েছে, আমি যা নাযিল করেছি, তার উপর তোমরা ঈমান আন, যা তোমাদের কাছে যা আছে তার সমর্থক আমি তোমাদের মুখগুলোকে বিকৃত করে সেগুলোকে পিছনের দিকে ফিরিয়ে দেয়ার পূর্বে (ঈমান আন), কিংবা শনিবারওয়ালাদেরকে যেমন অভিসম্পাত করেছিলাম, এদেরকেও তেমনি অভিসম্পাত করার পূর্বে। বস্তুতঃ আল্লাহর হুকুম কার্যকরী হয়েই থাকে।
+
+   4:48 [20 words] إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
+   EN: Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly fabricated a tremendous sin.
+   BN: নিশ্চয় আল্লাহ তাঁর সাথে শরীক করা ক্ষমা করবেন না। এটা ছাড়া অন্য সব যাকে ইচ্ছে মাফ করবেন এবং যে আল্লাহর সাথে শরীক করল, সে এক মহা অপবাদ আরোপ করল।
+
+   4:49 [14 words] أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم ۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا
+   EN: Have you not seen those who claim themselves to be pure? Rather, Allāh purifies whom He wills, and injustice is not done to them, [even] as much as a thread [inside a date seed].
+   BN: তুমি কি তাদেরকে দেখনি, যারা নিজেদেরকে পবিত্র ব’লে দাবী করে? বরং আল্লাহ্ই যাকে ইচ্ছে পবিত্র করেন। (কেউ প্রকৃতই পবিত্রতা অর্জন করলে তা অগ্রাহ্য করতঃ) তাদের প্রতি সামান্য পরিমাণও অন্যায় করা হবে না।
+
+   4:50 [10 words] ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًۭا مُّبِينًا
+   EN: Look how they invent about Allāh untruth, and sufficient is that as a manifest sin.
+   BN: দেখ, এরা আল্লাহর সম্বন্ধে কেমন মিথ্যে রচনা করে, সুস্পষ্ট গুনাহের জন্য এটাই যথেষ্ট।
+
+   4:51 [20 words] أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا
+   EN: Have you not seen those who were given a portion of the Scripture, who believe in jibt [superstition] and ṭāghūt [false objects of worship] and say about the disbelievers, "These are better guided than the believers as to the way"?
+   BN: যারা কিতাবের জ্ঞানের একাংশ প্রদত্ত হয়েছে, সেই লোকদের প্রতি তুমি কি লক্ষ্য করনি, তারা অমূলক যাদু, প্রতিমা ও তাগূতের প্রতি বিশ্বাস করে এবং কাফিরদের সম্বন্ধে বলে যে তারা মু’মিনগণের তুলনায় অধিক সঠিক পথে রয়েছে।
+
+   4:52 [11 words] أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ ۖ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا
+   EN: Those are the ones whom Allāh has cursed; and he whom Allāh curses - never will you find for him a helper.
+   BN: এরা সেই লোক, যাদেরকে আল্লাহ অভিশাপ দিয়েছেন এবং যাকে আল্লাহ অভিশাপ দেন, তুমি কক্ষনো তার সাহায্যকারী পাবে না।
+
+
+## Shipped cards/articles in surah 4 within ±25 (read a full article only if you must)
+
+- 4:36: lesson: Let your devotion to God show up as real kindness — starting with parents and reaching out to neighbors, the needy, and everyone in your circle.
+    headings: Worship Before Every Other Right | Ihsan, Not Merely Dues | Kin, Orphans and the Needy | One Neighbour, Two Phrases | At Your Side, On the Road | Those Under Your Hand | Pride at the Close
+- 4:25: lesson: Allah opens a lawful way for the one without means, measures people by their faith, and still counsels that patience is better.
+    headings: The Man Without Means | Means, Fortresses, Young Women | Faith Named Before Rank | Patience, and a Shield | Where the Quran Takes This Further | The Wait Before Marriage | Asking for Chastity and Sufficiency | Questions for the Waiting Season
+- 4:38-40: lesson: Spending for people's eyes is Satan's company and ends in nothing; spending for Allah loses nothing, for He wrongs no one by an atom's weight.
+    headings: After the Misers, the Performers | Seen, Yoked, Weighed | How the Commentators Read It | It Was Said, and a Speck Remained | The Rock, the Prayer, the Companion | Giving to the Right Address | Our Lord, Accept From Us | Questions About the Audience
+- 4:43: lesson: Come to prayer knowing what you say and as pure as you are able, and do not let hardship take the prayer from you, for Allah has made a way.
+    headings: A Call Between Two Warnings | Approach, Until, Intend | Where the Commentators Differ | A Prayer of Umar, a Lost Necklace | Ease Written Into the Law | Knowing What You Say | Help Me to Worship You Well | Questions Before the Takbir
+- 4:57: lesson: Let faith show itself in righteous deeds, and let the promised shade carry you through today's heat.
+    headings: The Second Half of a Pair | Faith and Deeds Held Together | Forever, Purity and Shade | A Tree Whose Shade Has No End | The Promise Heard Elsewhere | Walking Toward the Shade | Asking for the Garden | Questions for the Heat of the Day
+- 4:60-63: lesson: Bring your disputes to what Allah revealed even when the ruling may go against you, and counsel others privately with words that reach them.
+    headings: Right After the Command to Refer Back | A Claim, a Court and an Oath | Hearts Are Left to Allah | A Stream, a Ruling and a Warning | The Same Portrait in Other Surahs | When the Ruling Goes Against Me | We Hear and We Obey | Before I Look for Another Door
+- 4:54-55: lesson: What others have is Allah's gift to them: ask Him of His bounty, and never wish His gift removed from anyone.
+    headings: Envy in a Run of Questions | Or, Envy, Bounty | What the Family of Ibrahim Received | No Envy Except in Two | Heard Alongside | When Someone Else Is Given | Refuge From Envy, Both Ways | Questions for an Honest Heart
+- 4:69-70: lesson: Obey Allah and His Messenger, and hope for the company of those He favoured, as a bounty from Him and not a wage.
+    headings: A Promise Between Two Commands | With, Favoured, Companion | Four Ranks, One Company | The Man Who Feared Separation | Verses of the Same Company | Walking Toward the Company | Asking to Be Joined | Questions About My Company
+
+## Tafsir files (read these; do not re-fetch). Size in chars; "covers" = verse keys the API grouped
+
+- tools/wip/round11/audit/4_46/t14_46.txt  Ibn Kathir (ar)  1359 chars  covers 4:46
+- tools/wip/round11/audit/4_46/t15_46.txt  at-Tabari  13012 chars  covers 4:46
+- tools/wip/round11/audit/4_46/t16_46.txt  al-Muyassar  536 chars  covers 4:46
+- tools/wip/round11/audit/4_46/t90_46.txt  al-Qurtubi  1828 chars  covers 4:46
+- tools/wip/round11/audit/4_46/t91_46.txt  as-Sa'di  1575 chars  covers 4:46
+- tools/wip/round11/audit/4_46/t94_46.txt  al-Baghawi  1127 chars  covers 4:46
+- tools/wip/round11/audit/4_46/t168_46.txt  Ma'arif (en)  919 chars  covers 4:44,4:45,4:46  (grouped)
+- tools/wip/round11/audit/4_46/t169_46.txt  Ibn Kathir (en, abridged)  3537 chars  covers 4:44,4:45,4:46  (grouped)
+
+Hadith: node tools/wip/round11/hadith.js Bukhari 660   (also Muslim, AbuDawud, Tirmidhi, Nasai, IbnMajah)
+Gates: node tools/wip/round11/gate.js 4:46
