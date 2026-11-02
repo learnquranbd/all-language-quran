@@ -1019,6 +1019,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "Whoever Steals, Man or Woman",
+          "bn": "চুরি করে যে, পুরুষ বা নারী"
+        },
+        "p": [
+          {
+            "en": "Wa-s-sariqu wa-s-sariqatu fa-qta'u aydiyahuma: and the thief, male and female, cut off their hands. Al-Qurtubi notes the placement: having named the taking of property by war and corruption in 5:33, Allah now gives the ruling for the thief who takes without that open war. At-Tabari reads it as a rule about whoever steals, man or woman. That, he says, is why both nouns are nominative: they name no particular persons. Had two known people been meant, the natural Arabic would have been the accusative.",
+            "bn": "ওয়াস-সারিকু ওয়াস-সারিকাতু ফাকতাউ আইদিয়াহুমা: আর চোর পুরুষ ও চোর নারী, তাদের হাত কেটে দাও। আয়াতের অবস্থানের দিকে কুরতুবী দৃষ্টি দেন। ৫:৩৩ আয়াতে যুদ্ধ আর বিশৃঙ্খলার পথে সম্পদ লুটে নেওয়ার কথা এসেছে। এবার আল্লাহ সেই চোরের বিধান দিচ্ছেন, যে প্রকাশ্য যুদ্ধ ছাড়াই নিয়ে যায়। তাবারী একে পড়েন সাধারণ বিধান হিসেবে: পুরুষ হোক বা নারী, যে-ই চুরি করুক। তাঁর মতে এ কারণেই দুটি শব্দের শেষে পেশ (রফ'), কারণ এখানে নির্দিষ্ট কোনো ব্যক্তির কথা বলা হচ্ছে না। পরিচিত দুজন মানুষ উদ্দেশ্য হলে স্বাভাবিক আরবি হতো যবর (নসব)।"
+          },
+          {
+            "en": "Which hand? At-Tabari cites as-Suddi: the right. He also reports that the reading of 'Abdullah ibn Mas'ud (RA) had aymanahuma, their right hands, and al-Baghawi and as-Sa'di mention the same reading. Ibn Kathir calls it a shadhdh reading, outside the accepted recitations, and adds that although all the scholars rule in line with it, they take the ruling from other evidence, not from the reading. Al-Baghawi and as-Sa'di place the cut at the wrist.",
+            "bn": "কোন হাত? তাবারী সুদ্দীর কথা উদ্ধৃত করেন: ডান হাত। তিনি আরও জানান, আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর কিরাআতে ছিল আইমানাহুমা, অর্থাৎ তাদের ডান হাত। বাগাভী ও সা'দীও এই কিরাআতের কথা বলেন। ইবন কাসীর একে শায কিরাআত বলেন, যা স্বীকৃত তিলাওয়াতের বাইরে। সঙ্গে যোগ করেন, সব আলিম এর সঙ্গে মিল রেখেই ফয়সালা দেন বটে, তবে বিধানটা তাঁরা নেন অন্য দলিল থেকে, এই কিরাআত থেকে নয়। বাগাভী ও সা'দী কাটার জায়গা বলেন কবজি।"
+          },
+          {
+            "en": "Here the man is named first, while in 24:2 the woman comes before the man. Ma'arif al-Qur'an says commentators have given many reasons, and the one it finds most convincing is this: a man has more ways of earning a living, so theft by him is the graver fall, while a woman's natural modesty and protection make zina the graver fall for her. Al-Qurtubi, under 5:39, gives a related answer as one of several: love of wealth is stronger in men, and desire in women.",
+            "bn": "এখানে আগে এসেছে পুরুষের নাম, অথচ ২৪:২ আয়াতে নারীর নাম পুরুষের আগে। মাআরিফুল কুরআন বলে, তাফসীরকারেরা এর অনেক কারণ বলেছেন। তার কাছে সবচেয়ে মনঃপূত কারণটি এই: পুরুষের সামনে রোজগারের পথ অনেক বেশি খোলা, তাই সে চুরি করলে তার পতন বেশি গুরুতর। আর নারীকে দেওয়া হয়েছে স্বভাবজাত লজ্জা ও নিরাপদ পরিবেশ, তাই যিনার বেলায় তার পতন বেশি গুরুতর। কুরতুবী ৫:৩৯ আয়াতের আলোচনায় কয়েকটি জবাবের একটি হিসেবে কাছাকাছি কথা বলেন: সম্পদের মোহ পুরুষের উপর বেশি প্রবল, আর কামনা নারীর উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Every Taking Is Sariqah",
+          "bn": "সব নেওয়াই সারিকা নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di defines the thief as the person who takes another's protected property secretly, without his consent, and counts theft among the major sins. Al-Qurtubi gives the root sense, taking something hidden from the eyes, and quotes Ibn 'Arafah: in Arab usage the thief comes concealed to a secured place and takes what is not his; whoever takes openly is a snatcher or plunderer, and whoever holds on by force is a usurper. Those are wrongs too, but not this word.",
+            "bn": "সা'দীর সংজ্ঞায় চোর সে, যে অন্যের সংরক্ষিত সম্পদ গোপনে, মালিকের সম্মতি ছাড়া নিয়ে যায়। চুরিকে তিনি কবীরা গুনাহর মধ্যে গণ্য করেন। কুরতুবী শব্দটির মূল অর্থ বলেন: চোখের আড়ালে কিছু নিয়ে নেওয়া। তিনি ইবন আরাফার কথা উদ্ধৃত করেন। আরবদের ভাষায় চোর সেই, যে লুকিয়ে কোনো সংরক্ষিত জায়গায় আসে আর যা তার নয় তা নিয়ে যায়। যে প্রকাশ্যে ছিনিয়ে নেয়, সে ছিনতাইকারী বা লুটেরা। আর যে জোর খাটিয়ে আঁকড়ে রাখে, সে জবরদখলকারী। এগুলোও অন্যায়, তবে এ শব্দের আওতায় পড়ে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an lists four ingredients that must all be present: the property belongs to another, with no ownership or doubt of ownership for the taker; it was secured; it was taken without permission; and it was taken by stealth. Al-Qurtubi adds conditions in the thief: adulthood and sanity, so there is no cut on a child or a madman. Al-Baghawi lists cases of doubt with no cut, such as a son taking from his father's wealth, a father from his son's, or a partner from shared property.",
+            "bn": "মাআরিফুল কুরআন চারটি উপাদানের কথা বলে, যার সবগুলো একসঙ্গে থাকতে হবে। সম্পদটি অন্যের হতে হবে, তাতে গ্রহণকারীর মালিকানা বা মালিকানার সন্দেহও থাকবে না। তা সংরক্ষিত থাকতে হবে। অনুমতি ছাড়া নিতে হবে। আর নিতে হবে গোপনে। কুরতুবী চোরের মধ্যেও শর্ত যোগ করেন: প্রাপ্তবয়স্ক ও সুস্থ মস্তিষ্ক হওয়া। তাই শিশু বা পাগলের হাত কাটা হয় না। বাগাভী সন্দেহের কিছু অবস্থা গুনিয়ে দেন, যেখানে হাত কাটা হয় না: ছেলে বাবার সম্পদ থেকে নিলে, বাবা ছেলের সম্পদ থেকে নিলে, কিংবা অংশীদার যৌথ সম্পদ থেকে নিলে।"
+          },
+          {
+            "en": "Doubt runs through all of this. Ma'arif al-Qur'an notes that the verse names the woman outright rather than leaving her implied, and gives as one reason that a hadd can be dropped by the least doubt. It is just as clear the other way: where the hadd falls away, the act does not become lawful, the authority may still impose a discretionary penalty, and property taken without consent stays forbidden under 2:188. Al-Qurtubi records Ibn al-Qasim's view that one who stole from hunger is not cut.",
+            "bn": "এর সবটার ভেতর দিয়ে চলেছে সন্দেহের প্রশ্ন। মাআরিফুল কুরআন লক্ষ করে, আয়াতটি নারীকে পুরুষের সম্বোধনের ভেতরে উহ্য না রেখে আলাদা করে নাম ধরে উল্লেখ করেছে। এর একটি কারণ হিসেবে বলে, সামান্য সন্দেহেও হদ রহিত হয়ে যেতে পারে। উল্টো দিকটাও সে সমান স্পষ্ট করে বলে। হদ রহিত হলে কাজটা হালাল হয়ে যায় না। শাসক তখনো নিজ বিবেচনায় শাস্তি দিতে পারেন, আর সম্মতি ছাড়া নেওয়া সম্পদ ২:১৮৮ আয়াত অনুযায়ী হারামই থাকে। কুরতুবী ইবনুল কাসিমের মত উল্লেখ করেন: ক্ষুধার তাড়নায় যে চুরি করে, তার হাত কাটা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Dirhams, a Quarter, Ten",
+          "bn": "তিন দিরহাম, সিকি দীনার, দশ"
+        },
+        "p": [
+          {
+            "en": "The verse names no amount, and the scholars differed. At-Tabari lays out four positions. A group in Madinah, among them Malik ibn Anas, said three dirhams or more, citing the Prophet's ﷺ cutting for a shield worth three dirhams. Al-Awza'i and those with him said a quarter dinar or its value, citing 'A'ishah's (RA) report. Abu Hanifah and his companions said ten dirhams, citing reports from 'Abdullah ibn 'Amr and Ibn 'Abbas that the shield was worth ten. Others said any amount at all.",
+            "bn": "আয়াতে কোনো পরিমাণের উল্লেখ নেই, আর এ নিয়ে আলিমরা ভিন্নমত পোষণ করেছেন। তাবারী চারটি মত সাজিয়ে দেন। মদীনার একদল, যাঁদের মধ্যে মালিক ইবন আনাস আছেন, বলেছেন ৩ দিরহাম বা তার বেশি। তাঁদের দলিল, নবী ﷺ ৩ দিরহাম দামের একটি ঢালের জন্য হাত কেটেছিলেন। আওযাঈ ও তাঁর সমমতের লোকেরা বলেছেন সিকি দীনার বা তার মূল্য, দলিল আয়িশা (রাঃ)-এর বর্ণনা। আবূ হানীফা ও তাঁর সঙ্গীরা বলেছেন ১০ দিরহাম। তাঁদের দলিল আবদুল্লাহ ইবন আমর ও ইবন আব্বাসের বর্ণনা যে ঢালটির দাম ছিল ১০ দিরহাম। আর কেউ কেউ বলেছেন, পরিমাণ যা-ই হোক।"
+          },
+          {
+            "en": "Ibn Kathir says each of the four imams took his own position. Malik held three dirhams. Ash-Shafi'i held a quarter dinar or its equivalent, reported from 'Umar, 'Uthman and 'Ali (RA). Ahmad ibn Hanbal held that each of the two is a legal standard in its own right. Abu Hanifah with Abu Yusuf, Muhammad and Zufar, and also Sufyan ath-Thawri, held ten dirhams. Their stated reason: the Companions differed over the shield's price, so caution takes the higher figure, because hudud are averted by doubts.",
+            "bn": "ইবন কাসীর বলেন, চারজন ইমামের প্রত্যেকে আলাদা মত নিয়েছেন। মালিকের মত ৩ দিরহাম। শাফিঈর মত সিকি দীনার বা তার সমমূল্য, যা উমর, উসমান ও আলী (রাঃ) থেকে বর্ণিত। আহমাদ ইবন হাম্বলের মতে দুটির প্রত্যেকটিই নিজে নিজে শরীয়তের মানদণ্ড। আবূ হানীফা, তাঁর সঙ্গে আবূ ইউসুফ, মুহাম্মাদ ও যুফার, আর সুফইয়ান সাওরীও বলেছেন ১০ দিরহাম। তাঁদের যুক্তি: ঢালের দাম নিয়ে সাহাবীদের বর্ণনা ভিন্ন ভিন্ন। তাই সাবধানতা হলো বড় অঙ্কটা নেওয়া, কারণ সন্দেহ থাকলে হদ রহিত হয়।"
+          },
+          {
+            "en": "Those who hold the quarter dinar answer that three dirhams do not contradict it, since a dinar was then twelve dirhams; Ibn Kathir reports this reconciliation. At-Tabari states his own preference for the quarter dinar. Ibn Kathir also records that some literalist jurists (ahl az-zahir) took the verse's generality and set no minimum and no secured place. Ibn 'Abbas, asked whether the verse was particular or general, said general; Ibn Kathir says this may or may not mean he agreed with them.",
+            "bn": "সিকি দীনারের পক্ষের আলিমরা জবাব দেন, ৩ দিরহাম এর বিরোধী নয়, কারণ তখন এক দীনার ছিল ১২ দিরহামের সমান। দুই মতের এই মিলটা ইবন কাসীর বর্ণনা করেন। তাবারী নিজের পছন্দ জানান সিকি দীনারের পক্ষে। ইবন কাসীর আরও উল্লেখ করেন, বাহ্যিক অর্থের অনুসারী কিছু ফকীহ (আহলুয যাহির) আয়াতের ব্যাপকতা ধরে কোনো ন্যূনতম পরিমাণ বা সংরক্ষিত স্থানের শর্ত রাখেননি। ইবন আব্বাসকে জিজ্ঞেস করা হয়েছিল, আয়াতটি নির্দিষ্ট না ব্যাপক। তিনি বলেছিলেন, ব্যাপক। ইবন কাসীরের মতে এতে তাঁদের সঙ্গে তাঁর একমত হওয়া বোঝাতেও পারে, না-ও পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Shield and an Egg",
+          "bn": "একটি ঢাল, একটি ডিম"
+        },
+        "p": [
+          {
+            "en": "Two reports in Sahih al-Bukhari stand behind these positions. 'A'ishah (RA) narrates: 'The Prophet (ﷺ) said, \"The hand should be cut off for stealing something that is worth a quarter of a Dinar or more.\"' (al-Bukhari 6789). Ibn 'Umar (RA) narrates: 'Allah's Messenger (ﷺ) cut off the hand of a thief for stealing a shield that was worth three Dirhams.' (al-Bukhari 6795). Muslim also records 'A'ishah's report (Muslim 1684). Al-Qurtubi calls her hadith sound and established.",
+            "bn": "এই মতগুলোর পেছনে আছে সহীহ বুখারীর দুটি বর্ণনা। আয়িশা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"এক দীনারের এক-চতুর্থাংশ বা তার বেশি মূল্যের কিছু চুরি করলে হাত কাটা হবে।\" (বুখারী ৬৭৮৯)। ইবন উমর (রাঃ) বর্ণনা করেন: \"আল্লাহর রসূল ﷺ ৩ দিরহাম মূল্যের একটি ঢাল চুরির জন্য এক চোরের হাত কেটেছিলেন।\" (বুখারী ৬৭৯৫)। মুসলিমও আয়িশা (রাঃ)-এর বর্ণনাটি এনেছেন (মুসলিম ১৬৮৪)। কুরতুবী তাঁর হাদীসকে বলেন সহীহ ও প্রতিষ্ঠিত।"
+          },
+          {
+            "en": "The literalists held to a third report. Abu Hurayrah (RA) narrates that the Prophet (ﷺ) said: 'Allah curses a man who steals an egg and gets his hand cut off, or steals a rope and gets his hands cut off.' Al-Bukhari records after it the remark of al-A'mash that people took the egg to mean an iron helmet and thought the rope might cost a few dirhams (al-Bukhari 6783). Al-Qurtubi reads the hadith as a warning that small theft leads to large, and calls al-A'mash's reading better still.",
+            "bn": "বাহ্যিক অর্থের অনুসারীরা আঁকড়ে ধরেছিলেন তৃতীয় একটি বর্ণনা। আবূ হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"আল্লাহ লানত করেন সেই চোরকে, যে একটা ডিম চুরি করে আর তার হাত কাটা যায়, কিংবা একটা দড়ি চুরি করে আর তার হাত কাটা যায়।\" এর পরেই বুখারী আ'মাশের মন্তব্য এনেছেন: লোকেরা ডিম বলতে বুঝত লোহার শিরস্ত্রাণ, আর মনে করত দড়ির দাম কয়েক দিরহামও হতে পারে (বুখারী ৬৭৮৩)। কুরতুবী হাদীসটিকে পড়েন সতর্কবাণী হিসেবে, যে ছোট চুরি বড় চুরির দিকে টেনে নেয়। আর আ'মাশের ব্যাখ্যাকে তিনি এর চেয়েও উত্তম বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recompense, and a Warning",
+          "bn": "কৃতকর্মের বদলা, অন্যের জন্য সতর্কতা"
+        },
+        "p": [
+          {
+            "en": "Jaza'an bima kasaba nakalan mina Llah: as recompense for what they earned, a deterrent from Allah. At-Tabari glosses jaza' as a requital for their theft and nakal as a punishment from Allah for their thieving. Al-Muyassar names the purpose: a penalty by which Allah keeps others from doing what they did. As-Sa'di says thieves hold back once they know their hand will go. Al-Qurtubi gives the root: you do nakal to someone when you do to him what serves to deter from that act.",
+            "bn": "জাযাআম বিমা কাসাবা নাকালাম মিনাল্লাহ: তাদের কামাইয়ের বদলা, আল্লাহর পক্ষ থেকে দৃষ্টান্তমূলক শাস্তি। তাবারী জাযার ব্যাখ্যা দেন তাদের চুরির প্রতিফল, আর নাকালের ব্যাখ্যা দেন তাদের চৌর্যবৃত্তির জন্য আল্লাহর দেওয়া শাস্তি। মুয়াসসার উদ্দেশ্যটা বলে দেয়: এমন শাস্তি, যা দিয়ে আল্লাহ অন্যদের তাদের মতো কাজ করা থেকে ঠেকিয়ে রাখেন। সা'দী বলেন, হাত যাবে জানলে চোরেরা থেমে যায়। কুরতুবী শব্দমূল ব্যাখ্যা করেন: কারও সঙ্গে নাকাল করা মানে তার সঙ্গে এমন কিছু করা, যাতে সে কাজ থেকে পিছিয়ে আসতে হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an finds weight in the words 'from Allah'. Theft wrongs the owner, and it also defies Allah's command. Were only the first in view, the penalty would be the victim's to pardon, as in retaliation. 'From Allah' marks it as a hadd, a right of Allah, so that, in Ma'arif's words, it is not dropped even if the person robbed forgives. Because the Qur'an itself has fixed the penalty, Ma'arif adds, it is not left to the discretion of the authorities.",
+            "bn": "মাআরিফুল কুরআন 'আল্লাহর পক্ষ থেকে' কথাটির মধ্যে বিশেষ গুরুত্ব দেখে। চুরি মালিকের উপর জুলুম, আবার আল্লাহর হুকুমের নাফরমানিও। শুধু প্রথম দিকটা ধরলে শাস্তিটা হতো ক্ষতিগ্রস্তের হক, কিসাসের মতো, তিনি চাইলে মাফ করতে পারতেন। 'আল্লাহর পক্ষ থেকে' বলে বুঝিয়ে দেওয়া হলো, এটি হদ, আল্লাহর হক। মাআরিফের ভাষায়, যার মাল চুরি গেছে সে মাফ করে দিলেও এ শাস্তি রহিত হয় না। মাআরিফ আরও বলে, কুরআন নিজেই শাস্তিটা নির্ধারণ করে দিয়েছে, তাই এটি শাসকদের বিবেচনার উপর ছেড়ে রাখা হয়নি।"
+          },
+          {
+            "en": "Wa-Llahu 'azizun hakim: and Allah is Mighty, Wise. At-Tabari reads it as mighty in His retribution, wise in His ruling, and turns it to the believers: do not be remiss in carrying out My ruling, for I decreed it in wisdom. Ibn Kathir records the poet al-Ma'arri's objection that a hand whose blood money is five hundred dinars is cut for a quarter of a dinar, and gives al-Qadi 'Abd al-Wahhab al-Maliki's answer: when it was trustworthy it was precious; when it betrayed, it became cheap.",
+            "bn": "ওয়াল্লাহু আযীযুন হাকীম: আর আল্লাহ মহাপরাক্রান্ত, প্রজ্ঞাময়। তাবারী এর অর্থ করেন, শাস্তি দিতে তিনি পরাক্রান্ত, ফয়সালায় প্রজ্ঞাময়। তারপর কথাটা ঘুরিয়ে দেন মুমিনদের দিকে: আমার বিধান কার্যকর করায় গাফিলতি কোরো না, আমি প্রজ্ঞার সঙ্গেই এ ফয়সালা দিয়েছি। ইবন কাসীর কবি মাআররীর আপত্তি উল্লেখ করেন: যে হাতের রক্তপণ পাঁচশো দীনার, তা সিকি দীনারের জন্য কাটা হয় কেন? সঙ্গে দেন কাযী আবদুল ওয়াহহাব মালিকীর জবাব: হাত যখন আমানতদার ছিল, তখন ছিল দামি। যখন খিয়ানত করল, তখন হয়ে গেল সস্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning Back After the Theft",
+          "bn": "চুরির পরে ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "Fa-man taba min ba'di zulmihi wa-aslaha: whoever repents after his wrongdoing and reforms (5:39). At-Tabari explains the wrongdoing as his transgression in stealing people's property, and the reform as holding himself to what he dislikes for the sake of obeying Allah. As-Sa'di: Allah forgives whoever repents, leaving the sins and putting right his deeds. Al-Qurtubi reads wa-aslaha as repenting from every sin as he repented from theft, and says that leaving theft for zina is no repentance at all.",
+            "bn": "ফামান তাবা মিম বা'দি যুলমিহী ওয়া আসলাহা: অন্যায়ের পর যে তওবা করে আর নিজেকে শুধরে নেয় (৫:৩৯)। তাবারী অন্যায়ের ব্যাখ্যা দেন মানুষের সম্পদ চুরি করে সীমালঙ্ঘন। আর শুধরে নেওয়া মানে আল্লাহর আনুগত্যের জন্য নিজেকে অপছন্দের কাজেও বাধ্য রাখা। সা'দীর কথায়, যে তওবা করে গুনাহ ছেড়ে দেয় আর নিজের আমল ঠিক করে নেয়, আল্লাহ তাকে মাফ করেন। কুরতুবী ওয়া আসলাহার অর্থ করেন: চুরি থেকে যেমন তওবা করেছে, তেমনি সব গুনাহ থেকে তওবা করা। তাঁর মতে চুরি ছেড়ে যিনা ধরলে সেটা তওবাই নয়।"
+          },
+          {
+            "en": "Does repentance drop the cut? Al-Qurtubi gives both sides. His own position is that it does not. 'Ata' and a group said it is dropped by repentance before the thief is apprehended, and some Shafi'is attributed this to ash-Shafi'i as one of his views; they argued from 5:34, which exempts the armed offender who repents before capture. Al-Qurtubi's school answers that the different wording shows a different ruling, and he quotes Ibn al-'Arabi: the armed offender is beyond the authority's reach, while the thief is already in its hands.",
+            "bn": "তওবা করলে কি হাত কাটা রহিত হয়? কুরতুবী দুই পক্ষের কথাই বলেন। তাঁর নিজের মত, রহিত হয় না। আতা ও একদল আলিম বলেছেন, চোর ধরা পড়ার আগে তওবা করলে রহিত হয়ে যায়। কিছু শাফিঈ আলিম এটিকে শাফিঈর একটি মত বলে উল্লেখ করেছেন। তাঁদের দলিল ৫:৩৪ আয়াত, যেখানে ধরা পড়ার আগে তওবাকারী সশস্ত্র অপরাধীকে শাস্তির বাইরে রাখা হয়েছে। কুরতুবীর মাযহাবের আলিমরা জবাব দেন, দুই জায়গায় ভাষা আলাদা, তাই বিধানও আলাদা। তিনি ইবনুল আরাবীর কথা আনেন: সশস্ত্র অপরাধী শাসকের নাগালের বাইরে, অথচ চোর আগে থেকেই তার মুঠোয়।"
+          },
+          {
+            "en": "On that view, al-Qurtubi says, the repentance is accepted and the cut is an expiation for him. At-Tabari reports that Mujahid used to say the thief's repentance here is the hadd carried out on him, and cites Ibn 'Abbas glossing the verse the same way. Ibn Kathir separates two debts: Allah accepts the repentance in what is between the thief and Him, but people's property must be returned or replaced, according to the majority. Abu Hanifah held that once the thief is cut and the goods have perished, he owes no replacement.",
+            "bn": "কুরতুবী বলেন, এ মত অনুযায়ী তওবা কবুল হয়, আর হাত কাটা তার জন্য কাফফারা হয়ে যায়। তাবারী জানান, মুজাহিদ বলতেন, এখানে চোরের তওবা মানে তার উপর কার্যকর হওয়া হদ। ইবন আব্বাস থেকেও তিনি একই ব্যাখ্যা উদ্ধৃত করেন। ইবন কাসীর দুটি দায় আলাদা করে দেখান। চোর আর আল্লাহর মাঝে যা, সেখানে আল্লাহ তওবা কবুল করেন। কিন্তু মানুষের সম্পদ তাদের ফিরিয়ে দিতে হবে, অথবা তার বদলা দিতে হবে, এটাই অধিকাংশ আলিমের মত। আবূ হানীফার মত ছিল, হাত কাটা হয়ে গেলে আর জিনিসটা নষ্ট হয়ে গেলে বদলা দিতে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Even if It Were Fatimah",
+          "bn": "ফাতিমা হলেও"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim records from 'A'ishah (RA) the case of a Makhzumi woman who stole during the Conquest of Makkah. Quraysh were anxious, Usamah ibn Zayd (RA) spoke for her, and the Prophet ﷺ said: 'Do you intercede in one of the prescribed punishments of Allah?' That evening he told the people that those before them were destroyed for sparing the noble thief and punishing the weak one, and said: 'By Him in Whose Hand is my life, even if Fatima daughter of Muhammad were to commit theft, I would have cut off her hand.'",
+            "bn": "সহীহ মুসলিমে আয়িশা (রাঃ) থেকে মাখযূম গোত্রের এক নারীর ঘটনা বর্ণিত আছে, যে মক্কা বিজয়ের অভিযানের সময় চুরি করেছিল। কুরাইশরা দুশ্চিন্তায় পড়ল। উসামা ইবন যায়দ (রাঃ) তার পক্ষে কথা বললেন, আর নবী ﷺ বললেন: \"তুমি কি আল্লাহর নির্ধারিত শাস্তিগুলোর একটির ব্যাপারে সুপারিশ করছ?\" সেদিন সন্ধ্যায় তিনি লোকদের বললেন, তোমাদের আগের লোকেরা ধ্বংস হয়েছে এ কারণে যে, সম্মানী কেউ চুরি করলে তারা তাকে ছেড়ে দিত, আর দুর্বল কেউ চুরি করলে তার উপর হদ কায়েম করত। তারপর বললেন: \"যাঁর হাতে আমার প্রাণ তাঁর কসম, মুহাম্মাদের মেয়ে ফাতিমাও যদি চুরি করত, আমি তার হাত কেটে দিতাম।\""
+          },
+          {
+            "en": "The same report in Muslim (1688) ends on the note of 5:39. Her hand was cut, and 'A'ishah (RA) said: 'Hers was a good repentance, and she later on married and used to come to me after that, and I conveyed her needs (and problems) to Allah's Messenger (ﷺ).' Then 5:40: to Allah belongs the dominion of the heavens and the earth; He punishes whom He wills and forgives whom He wills. Al-Qurtubi says no kinship with Allah brings favouritism, and the hudud fall on everyone who incurs them.",
+            "bn": "মুসলিমের (১৬৮৮) এই বর্ণনাটিই শেষ হয় ৫:৩৯ আয়াতের সুরে। তার হাত কাটা হলো, আর আয়িশা (রাঃ) বললেন: \"তার তওবা ছিল উত্তম। পরে তার বিয়ে হয়, আর এরপর সে আমার কাছে আসত, আমি তার প্রয়োজনের কথা আল্লাহর রসূল ﷺ-এর কাছে পৌঁছে দিতাম।\" তারপর ৫:৪০ আয়াত: আসমান ও যমীনের রাজত্ব আল্লাহর। যাকে চান তিনি শাস্তি দেন, যাকে চান ক্ষমা করেন। কুরতুবী বলেন, আল্লাহর সঙ্গে কারও এমন কোনো আত্মীয়তা নেই যা পক্ষপাত টেনে আনে, আর যে-ই হদের যোগ্য কাজ করে, তার উপরই হদ কায়েম হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Court's Verdict, Not a Licence",
+          "bn": "আদালতের রায়, কারও অনুমতিপত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. Al-Muyassar addresses 'cut off' to those in authority, to be done by the Shari'ah; Ibn al-'Arabi, in al-Qurtubi, speaks of the thief as under the imam's rule. The penalty belongs to a court, after proof, with the conditions above and the doubts that avert it. The verse licenses no individual, family, crowd or group to cut, beat or punish anyone they suspect of theft, and it licenses nothing against any living person or community.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। মুয়াসসার 'কেটে দাও' আদেশটির সম্বোধিত বলে উল্লেখ করে শাসনক্ষমতার অধিকারীদের, যা হবে শরীয়তের বিধান মেনে। কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী চোরকে বলেন ইমামের শাসনের অধীন। এ শাস্তি আদালতের, প্রমাণের পরে, ওপরে বলা শর্তগুলো মেনে, আর যে সন্দেহ শাস্তিকে রহিত করে তা হিসাবে রেখে। কোনো ব্যক্তি, পরিবার, জনতা বা দলকে এ আয়াত চুরির সন্দেহে কারও হাত কাটার, কাউকে মারধর বা শাস্তি দেওয়ার অনুমতি দেয় না। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধেও এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          },
+          {
+            "en": "What it asks of an ordinary reader lies closer to home. Ma'arif al-Qur'an insists that where the hadd falls away, the taking stays forbidden. Ibn Kathir's line on 5:39 asks that what was taken goes back. Al-Qurtubi's reading of 'and reforms' asks that repentance reach every sin rather than trade a sin for another. And 5:40 leaves the last word with Him who punishes and forgives as He wills.",
+            "bn": "সাধারণ পাঠকের কাছে আয়াতটির দাবি তার নিজের ঘরের আরও কাছে। মাআরিফুল কুরআন জোর দিয়ে বলে, হদ রহিত হলেও অন্যের জিনিস নেওয়া হারামই থাকে। ৫:৩৯ আয়াতে ইবন কাসীরের কথা চায়, যা নেওয়া হয়েছে তা ফিরে যাক। 'আর নিজেকে শুধরে নেয়' কথাটির যে অর্থ কুরতুবী করেন, তা চায় তওবা প্রতিটি গুনাহ পর্যন্ত পৌঁছাক, এক গুনাহর বদলে আরেকটা ধরে নয়। আর ৫:৪০ আয়াত শেষ কথাটা রেখে দেয় তাঁর কাছে, যিনি নিজ ইচ্ছায় শাস্তি দেন, নিজ ইচ্ছায় ক্ষমা করেন।"
+          }
+        ]
+      }
+    ]
+  },
   "5:41": {
     "sections": [
       {

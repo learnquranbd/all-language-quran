@@ -20251,6 +20251,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being mocked for the truth is the old road of the messengers; keep doing what you were given to do, and leave the end of the mockery to Allah.",
     "lessonBn": "সত্যের জন্য বিদ্রূপ সহ্য করা রসূলদের পুরোনো পথ। যে দায়িত্ব পেয়েছেন তা চালিয়ে যান, আর বিদ্রূপের পরিণাম আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "5:38": {
+    "reflectionEn": "The verse is short and severe: the thief, man or woman, their hands cut, a recompense for what they earned and a deterrent from Allah. It speaks to those who hold authority, and it comes bound with conditions that keep it from being carried out lightly. Then, in the very next verse, a door opens: whoever turns back after wrongdoing and sets things right, Allah turns to him. Most of us will never stand before a judge for theft. Yet the verse still asks about our hands. What have they kept that was never theirs: a borrowed thing not returned, a debt left to fade, a share quietly taken? And what would setting it right look like today?",
+    "reflectionBn": "আয়াতটি ছোট, কিন্তু কঠোর। চোর পুরুষ হোক বা নারী, তাদের হাত কেটে দাও, তাদের কামাইয়ের বদলা আর আল্লাহর পক্ষ থেকে দৃষ্টান্তমূলক শাস্তি। কথাটা বলা হয়েছে শাসনক্ষমতা যাদের হাতে তাদের উদ্দেশে, আর এর সঙ্গে বাঁধা আছে এমন সব শর্ত, যাতে হালকাভাবে এ শাস্তি কার্যকর না হয়। ঠিক পরের আয়াতেই একটা দরজা খুলে যায়: অন্যায়ের পর যে ফিরে আসে আর নিজেকে শুধরে নেয়, আল্লাহ তার দিকে ফেরেন। আমাদের বেশির ভাগকে কখনো চুরির দায়ে বিচারকের সামনে দাঁড়াতে হবে না। তবু আয়াতটি আমাদের হাত নিয়ে প্রশ্ন তোলে। যা কখনো আমার ছিল না, এমন কী এ হাতে আটকে আছে? ধার নিয়ে ফেরত না দেওয়া জিনিস, ঝুলিয়ে রাখা দেনা, চুপচাপ নিয়ে নেওয়া কারও ভাগ? আর আজ সেটা ঠিক করতে হলে আমাকে কী করতে হবে?",
+    "pointsEn": [
+      "Is there anything in my keeping, however small, that belongs to someone else and should go back to them today?",
+      "When I hear of a crime, do I hurry to pass my own sentence, or remember that this verdict belongs to a court bound by conditions?",
+      "Have I ever been softer on a respected person than on a weak one for the very same fault?",
+      "After a wrong I did to someone, did my repentance include making it right with that person, or did it stop at regret?",
+      "What does 'and reforms' ask of me beyond leaving one sin, so that I do not simply trade it for another?"
+    ],
+    "pointsBn": [
+      "আমার কাছে কি এমন কিছু আছে, যত ছোটই হোক, যা অন্যের, আর আজই যা তার কাছে ফিরে যাওয়া উচিত?",
+      "কোনো অপরাধের খবর শুনলে আমি কি নিজেই রায় দিতে ছুটে যাই, নাকি মনে রাখি যে এ রায় শর্তে বাঁধা আদালতের কাজ?",
+      "একই দোষে কখনো কি আমি সম্মানী লোকের প্রতি নরম আর দুর্বল লোকের প্রতি কঠোর হয়েছি?",
+      "কারও প্রতি অন্যায় করার পর আমার তওবায় কি তার হক ফিরিয়ে দেওয়াও ছিল, নাকি তা শুধু অনুশোচনাতেই থেমে গেছে?",
+      "'আর নিজেকে শুধরে নেয়' কথাটা একটা গুনাহ ছাড়ার বাইরে আমার কাছে আর কী চায়, যাতে আমি এক গুনাহ ছেড়ে আরেকটা ধরে না বসি?"
+    ],
+    "lessonEn": "Allah guards people's property with a severe, conditioned court penalty and keeps repentance open beside it; turning back means returning what was taken and reforming, not regret alone.",
+    "lessonBn": "আল্লাহ মানুষের সম্পদ রক্ষা করেছেন শর্তে বাঁধা এক কঠোর বিচারিক শাস্তি দিয়ে, আর তার পাশেই খোলা রেখেছেন তওবার দরজা। ফিরে আসা মানে শুধু অনুশোচনা নয়, যা নেওয়া হয়েছে তা ফিরিয়ে দেওয়া আর নিজেকে শুধরে নেওয়া।"
   }
 };
 
