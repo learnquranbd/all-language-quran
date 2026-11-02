@@ -20431,6 +20431,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take in both the good news and the warning, and let your faith show in something you actually set right, for that is where fear and grief lose their hold.",
     "lessonBn": "সুসংবাদ আর সতর্কবাণী দুটোই গ্রহণ করুন, আর আপনার ঈমানকে এমন কিছুতে প্রকাশ পেতে দিন যা আপনি সত্যিই শুধরে নিয়েছেন। ভয় আর দুঃখের বাঁধন সেখানেই আলগা হয়।"
+  },
+  "6:135": {
+    "reflectionEn": "After long argument, the Prophet ﷺ is handed a sentence that closes it: O my people, carry on as you stand; I too am at work. It sounds like permission, and the commentators insist it is not. It is a warning said calmly, by someone who has already said everything and now leaves the result to show itself. You will come to know whose the final home will be. The speaker does not stop working while he waits, and he does not wait for the others to agree before he works. The last line settles it without naming anyone: the wrongdoers do not prosper. When I stand nearly alone on what is right, do I keep doing it, or keep arguing about it?",
+    "reflectionBn": "দীর্ঘ তর্কের পর নবী ﷺ-এর হাতে একটা বাক্য তুলে দেওয়া হলো, যা তর্কের ইতি টানে: হে আমার সম্প্রদায়, তোমরা যেখানে আছ সেখান থেকেই কাজ করে যাও, আমিও কাজ করছি। শুনলে অনুমতি মনে হয়। তাফসীরকারেরা জোর দিয়ে বলেন, এটা অনুমতি নয়। এ এক শান্ত গলার হুঁশিয়ারি। যিনি বলছেন, তাঁর যা বলার ছিল সবই বলা হয়ে গেছে, এখন ফলাফল নিজেই সামনে আসবে। শেষ ঘর কার হবে, তোমরা শীঘ্রই জানবে। অপেক্ষার সময়ও বক্তা কাজ থামান না। অন্যরা রাজি হবে, সেই আশায় কাজ ফেলেও রাখেন না। শেষ বাক্যটা কারও নাম না নিয়েই ফয়সালা করে দেয়: যালিমরা সফল হয় না। সঠিক কাজে আমি যখন প্রায় একা পড়ে যাই, তখন কি কাজটা চালিয়ে যাই, নাকি শুধু তর্কই চালিয়ে যাই?",
+    "pointsEn": [
+      "Where have I kept arguing long after the case was made, when the better answer was to keep working?",
+      "If someone told me today to carry on exactly as I am, would I hear it as permission or as a warning?",
+      "What is my own work, the thing I would still be doing if no one around me agreed with it?",
+      "Which outcome am I judging by this year's results, when the verse asks about the final home?",
+      "Where am I wronging someone, or myself, and still expecting it to turn out well?"
+    ],
+    "pointsBn": [
+      "কোথায় আমি কথা শেষ হয়ে যাওয়ার পরও তর্ক চালিয়ে গেছি, যখন ভালো জবাব ছিল চুপচাপ কাজ চালিয়ে যাওয়া?",
+      "আজ কেউ যদি বলে, যেমন আছেন তেমনই চলতে থাকুন, আমি কি একে অনুমতি শুনব, নাকি হুঁশিয়ারি?",
+      "আমার নিজের কাজ কোনটা, যা চারপাশের কেউ একমত না হলেও আমি করে যেতাম?",
+      "কোন ফলাফলকে আমি এ বছরের হিসাব দিয়ে মাপছি, অথচ আয়াত জিজ্ঞেস করছে শেষ ঘরের কথা?",
+      "কোথায় আমি কারও উপর, বা নিজের উপর, যুলুম করছি আর তবুও আশা করছি সব ভালোয় ভালোয় মিটে যাবে?"
+    ],
+    "lessonEn": "Say what is true, keep doing the work Allah asked of you without waiting for others to agree, and leave the final outcome to Him, for wrongdoers do not prosper.",
+    "lessonBn": "সত্য কথাটা বলুন, অন্যদের সম্মতির অপেক্ষা না করে আল্লাহর দেওয়া কাজ করে যান, আর শেষ ফলাফল তাঁর হাতে ছেড়ে দিন, কারণ যালিমরা সফল হয় না।"
   }
 };
 

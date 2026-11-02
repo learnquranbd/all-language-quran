@@ -4215,6 +4215,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:135": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Confession, a Sentence",
+          "bn": "স্বীকারোক্তির পর একটি বাক্য"
+        },
+        "p": [
+          {
+            "en": "The verse before this passage closed a scene from the Day of Judgment, with jinn and humans asked whether messengers had reached them and answering against themselves. Then 6:131 gives the reason: your Lord would not destroy towns for wrongdoing while their people were unaware. The Muyassar reads it as Allah leaving the two races no excuse by sending messengers and sending down books, so that no one is seized for his wrongdoing when the call never reached him. Verse 6:132 adds that every doer, in obedience or in disobedience, has ranks from what he did.",
+            "bn": "এর আগের আয়াতে কিয়ামতের একটা দৃশ্য শেষ হয়েছে। জিন আর মানুষকে জিজ্ঞেস করা হয়েছে, তাদের কাছে রসূল এসেছিলেন কি না, আর তারা নিজেরাই নিজেদের বিরুদ্ধে সাক্ষ্য দিয়েছে। তারপর ৬:১৩১ আয়াত কারণটা জানায়: জনপদের লোকেরা বেখবর থাকা অবস্থায় তোমার রব যুলুমের দায়ে তাদের ধ্বংস করেন না। মুয়াসসারের ব্যাখ্যায়, রসূল পাঠিয়ে আর কিতাব নাযিল করে আল্লাহ জিন ও মানুষ দুই জাতির ওজর শেষ করে দিয়েছেন। ফলে দাওয়াত যার কাছে পৌঁছায়নি, তাকে তার যুলুমের জন্য পাকড়াও করা হয় না। ৬:১৩২ আয়াত যোগ করে, আনুগত্যে হোক বা নাফরমানিতে, প্রত্যেক আমলকারীর তার আমল অনুযায়ী স্তর আছে।"
+          },
+          {
+            "en": "Then 6:133 and 6:134 speak of Allah Himself. Your Lord is al-Ghani, dhu r-rahmah. Ibn Kathir, in the abridged English, explains al-Ghani as free of needing His creatures in any way, while they need Him in every situation, and reads the threat of replacement as conditional: if you defy His commands. On 6:134 he takes what you are promised to be the Resurrection; the Muyassar names it the punishment for their disbelief, which they cannot escape by flight. Only then is the Prophet ﷺ given a sentence of his own to say.",
+            "bn": "এরপর ৬:১৩৩ ও ৬:১৩৪ আয়াত আল্লাহর নিজের কথা বলে। তোমার রব আল-গানী, যুর-রাহমাহ। সংক্ষিপ্ত ইংরেজি ইবন কাসীরে আল-গানীর ব্যাখ্যা: সৃষ্টির কাছে তাঁর কোনো দিক থেকে কোনো প্রয়োজন নেই, অথচ সৃষ্টি সব অবস্থায় তাঁর মুখাপেক্ষী। তোমাদের সরিয়ে অন্যদের আনার হুমকিটাও তিনি শর্তসাপেক্ষে পড়েন: যদি তোমরা তাঁর আদেশ অমান্য কর। ৬:১৩৪ আয়াতে যে প্রতিশ্রুতির কথা, ইবন কাসীরের মতে তা পুনরুত্থান। মুয়াসসার একে বলে কুফরির শাস্তি, যা থেকে পালিয়ে তারা বাঁচতে পারবে না। এতসবের পরই নবী ﷺ-এর মুখে একটা বাক্য তুলে দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Makanah: Side, Footing, Place",
+          "bn": "মাকানাহ: দিক, অবস্থান, জায়গা"
+        },
+        "p": [
+          {
+            "en": "I'malu 'ala makanatikum. At-Tabari glosses it as 'ala hiyalikum wa nahiyatikum: on your own side, from where you stand. He supports it with a report through 'Ali ibn Abi Talhah from Ibn 'Abbas, 'ala nahiyatikum, and notes the Arabic idiom huwa ya'malu 'ala makanatihi, he works according to his standing. Ibn Kathir carries the same Ibn 'Abbas report, and al-Qurtubi gives the gloss nahiyah from Ibn 'Abbas, al-Hasan and an-Nakha'i. Of the senses offered, a side or direction a person has taken has the widest support among the sources read here.",
+            "bn": "ই'মালূ আলা মাকানাতিকুম। তাবারী এর অর্থ বলেন এভাবে: আলা হিয়ালিকুম ওয়া নাহিয়াতিকুম, অর্থাৎ নিজেদের দিকে থেকে, যেখানে দাঁড়িয়ে আছ সেখান থেকে। এর সমর্থনে তিনি আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন: আলা নাহিয়াতিকুম, তোমাদের দিকে। সঙ্গে আরবি বাগধারাটিও উল্লেখ করেন: হুয়া ইয়া'মালু আলা মাকানাতিহি, সে নিজের অবস্থান অনুযায়ী কাজ করে। ইবন কাসীরও ইবন আব্বাস (রাঃ)-এর একই বর্ণনা এনেছেন। কুরতুবী নাহিয়াহ অর্থটি দেন ইবন আব্বাস (রাঃ), হাসান ও নাখঈর নামে। যে অর্থগুলো পাওয়া যায়, তার মধ্যে নিজের বেছে নেওয়া দিক বা পথ অর্থটির পক্ষেই এখানে পড়া সূত্রগুলোর সমর্থন সবচেয়ে বেশি।"
+          },
+          {
+            "en": "Others give the word other edges. Al-Qurtubi's own definition is al-makanatu at-tariqah, the way. He reports az-Zajjaj taking it as tamakkunukum fi d-dunya, your establishment and capacity in this world, and al-Qutabi as 'ala mawdi'ikum, on your place. Al-Baghawi opens with 'ala tamakkunikum, according to your capacity, and adds 'Ata's gloss, the states you are in. As-Sa'di reads it as the condition you are in and have accepted for yourselves, and the Muyassar says simply your way. Capacity, way and place: the tafsirs give all three, each naming a different side of the one word.",
+            "bn": "অন্যরা শব্দটির অন্য দিকও দেখান। কুরতুবীর নিজের সংজ্ঞা: আল-মাকানাহ মানে আত-তারীকাহ, পথ। তিনি যাজ্জাজের মত আনেন, তামাক্কুনুকুম ফিদ-দুনইয়া, দুনিয়ায় তোমাদের প্রতিষ্ঠা ও সামর্থ্য। কুতাবীর মত আনেন, আলা মাওদি'ইকুম, তোমাদের জায়গায় থেকে। বাগাভী শুরু করেন আলা তামাক্কুনিকুম দিয়ে, অর্থাৎ তোমাদের সামর্থ্য অনুযায়ী। সঙ্গে আতার ব্যাখ্যা যোগ করেন: যে অবস্থায় তোমরা আছ। সা'দীর মতে, যে অবস্থায় তোমরা আছ আর যা নিজেদের জন্য পছন্দ করে নিয়েছ। মুয়াসসার সোজা বলে, তোমাদের পথ। সামর্থ্য, পথ আর জায়গা, তাফসীরগুলোতে তিনটিই আছে। প্রত্যেকটি একই শব্দের আলাদা একটা দিক দেখায়।"
+          },
+          {
+            "en": "There is a difference of reading too. Al-Qurtubi and al-Baghawi report that Abu Bakr, transmitting from 'Asim, read the word in the plural, makanat rather than makanah, and al-Baghawi adds that he did so wherever it occurs. At-Tabari attributes the plural to some of the Kufans and says that the reading of the readers of the great cities is the singular. None of the commentators read here builds a different meaning on the plural; the glosses they give apply to both. Either way the address is the same: each of you, carry on from where you stand.",
+            "bn": "কিরাআতেও একটা পার্থক্য আছে। কুরতুবী ও বাগাভী জানান, আসিমের সূত্রে আবু বকর শব্দটি বহুবচনে পড়েছেন, মাকানাহর বদলে মাকানাত। বাগাভী যোগ করেন, শব্দটি যেখানেই এসেছে, তিনি এভাবেই পড়েছেন। তাবারী বহুবচনের পাঠ কিছু কুফাবাসী কারীর বলে উল্লেখ করেন। আর বলেন, বড় বড় শহরের কারীদের পাঠ একবচন। এখানে পড়া তাফসীরকারদের কেউ বহুবচনের উপর আলাদা কোনো অর্থ দাঁড় করাননি। তাঁদের দেওয়া ব্যাখ্যা দুই পাঠেই খাটে। যেভাবেই পড়া হোক, সম্বোধন একই: তোমরা প্রত্যেকে যেখানে আছ, সেখান থেকে চালিয়ে যাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Command That Is a Warning",
+          "bn": "হুকুমের সুরে সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "On its surface the verse is an imperative: work. At-Tabari will not let it be read as permission. The words, he says, are a command from Allah to His Prophet to warn and threaten them, la itlaqun lahum, not a release for them to do whatever disobedience to Allah they wished. He fills in the sense: tell them, do what you are doing, for I am doing what my Lord commanded me, and you will come to know, when Allah's retribution comes down on you, which of us was in the right in his work and on the path of guidance.",
+            "bn": "বাহ্যিকভাবে আয়াতটি একটি আদেশ: কাজ কর। তাবারী একে অনুমতি হিসেবে পড়তে দেন না। তাঁর কথায়, এটা আল্লাহর পক্ষ থেকে নবীকে দেওয়া আদেশ, যেন তিনি তাদের সতর্ক করেন আর হুমকি দেন। লা ইতলাকুন লাহুম, আল্লাহর যে নাফরমানি তারা করতে চায় তা করার ছাড়পত্র এটা নয়। অর্থটা তিনি খুলে বলেন: তাদের বলো, তোমরা যা করছ করো, আমার রব আমাকে যা আদেশ করেছেন আমি তা-ই করছি। আল্লাহর শাস্তি যখন তোমাদের উপর নামবে, তখন জানবে আমাদের মধ্যে কে নিজের কাজে সত্যের উপর ছিল আর হিদায়াতের পথ ঠিকঠাক ধরেছিল।"
+          },
+          {
+            "en": "Ibn Kathir calls it tahdidun shadid wa wa'idun akid, a severe threat and a firm warning: stay on your way and your side, if you think you are rightly guided, and I will stay on mine. He sets it beside 11:121 and 11:122, where the Prophet ﷺ is told to say the same words to those who do not believe and to add: and wait, we too are waiting. Al-Baghawi calls it a command of warning made emphatic, amru wa'idin 'ala l-mubalaghah, and gives the idiom behind it: 'ala makanatika, said to a man told to hold to the state he is in.",
+            "bn": "ইবন কাসীর একে বলেন তাহদীদুন শাদীদ ওয়া ওয়া'ঈদুন আকীদ, কঠিন হুমকি আর পাকা সতর্কবাণী। অর্থাৎ যদি মনে কর তোমরা হিদায়াতের উপর আছ, তবে নিজেদের পথে আর নিজেদের দিকে থাকো, আমিও আমার পথে থাকব। তিনি এর পাশে রাখেন ১১:১২১ ও ১১:১২২ আয়াত। সেখানে নবী ﷺ-কে বলা হয়েছে, যারা ঈমান আনে না তাদের এই একই কথা বলতে, আর সঙ্গে বলতে: অপেক্ষা কর, আমরাও অপেক্ষা করছি। বাগাভী একে বলেন আমরু ওয়া'ঈদিন আলাল মুবালাগাহ, জোর দিয়ে বলা সতর্কতার আদেশ। পেছনের বাগধারাটিও তিনি দেখান: কাউকে নিজের অবস্থায় অটল থাকতে বললে আরবরা বলে, আলা মাকানাতিকা।"
+          },
+          {
+            "en": "Al-Qurtubi raises the objection the surface invites. If the sense is hold firm on what you are on, how can disbelievers be ordered to stay firm in disbelief? His answer is that this is tahdid, a threat, like Allah's words in 9:82, let them laugh a little and weep much. What shows it, he adds, is the next clause, fa-sawfa ta'lamun, you will come to know. On this point the commentators read here agree: the imperative carries a warning and grants no licence. A threat can sound like an invitation and still be a threat.",
+            "bn": "বাহ্যিক অর্থ থেকে যে আপত্তি ওঠে, কুরতুবী সেটা নিজেই তোলেন। অর্থ যদি হয়, যার উপর আছ তাতেই অটল থাকো, তবে কাফিরদের কুফরির উপর অটল থাকার আদেশ কীভাবে দেওয়া যায়? তাঁর জবাব, এটা তাহদীদ, হুমকি। যেমন ৯:৮২ আয়াতে আল্লাহ বলেছেন, তারা অল্প হাসুক আর বেশি কাঁদুক। এর প্রমাণ হিসেবে তিনি দেখান পরের অংশটি: ফা-সাওফা তা'লামূন, তোমরা শীঘ্রই জানবে। এখানে পড়া তাফসীরকারেরা এ ব্যাপারে একমত: আদেশটির ভেতরে আছে সতর্কবাণী, কোনো ছাড়পত্র নয়। হুমকি শুনতে আমন্ত্রণের মতো লাগতে পারে, তবু তা হুমকিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And I Am at Work",
+          "bn": "আমিও কাজে আছি"
+        },
+        "p": [
+          {
+            "en": "The second half of the sentence is shorter: inni 'amil, I am working. Al-Qurtubi notes that the rest, 'ala makanati, on my own footing, is left out because the situation makes it plain. At-Tabari and al-Baghawi supply what the Prophet's work is: what my Lord commanded me. As-Sa'di fills it out a little further, acting on Allah's command and following what pleases Him, and the Muyassar has him working on the way his Lord laid down for him. In each of these readings his side of the sentence is defined by Allah's command, not by his own preference.",
+            "bn": "বাক্যের দ্বিতীয় অংশটা ছোট: ইন্নী আমিল, আমি কাজ করছি। কুরতুবী বলেন, এর পরের অংশ, আলা মাকানাতী, অর্থাৎ আমার নিজের অবস্থানে থেকে, বাদ দেওয়া হয়েছে, কারণ প্রসঙ্গ থেকেই তা বোঝা যায়। নবী ﷺ-এর কাজটা কী, তাবারী ও বাগাভী তা বলে দেন: আমার রব আমাকে যা আদেশ করেছেন। সা'দী আরেকটু খুলে বলেন, আল্লাহর আদেশ মেনে কাজ করছি আর তাঁর সন্তুষ্টির পথ অনুসরণ করছি। মুয়াসসারে আছে, রব তাঁর জন্য যে পথ নির্ধারণ করে দিয়েছেন, সেই পথে তিনি কাজ করছেন। প্রতিটি ব্যাখ্যাতেই বাক্যের এ অংশ ঠিক হয় আল্লাহর আদেশ দিয়ে, নিজের পছন্দ দিয়ে নয়।"
+          },
+          {
+            "en": "As-Sa'di finds a particular quality in this. He calls the sentence fairness of a high order, min al-insafi bi-mawdi'in 'azim: it sets out the deeds and those who do them, and leaves the recompense to the judgment of whoever looks with insight, passing over the explicit statement because the hint is enough. The Prophet ﷺ does not say you will lose; he says you will come to know, and lets the listener finish the thought. As-Sa'di places the words at the point where his people, called to Allah and shown their duties, refused to submit and held on to their shirk.",
+            "bn": "সা'দী এখানে একটা বিশেষ গুণ দেখেন। তিনি একে বলেন মিনাল ইনসাফি বি-মাওদি'ইন আযীম, উঁচু স্তরের ইনসাফ। বাক্যটি আমল আর আমলকারীদের সামনে রেখে দেয়, প্রতিদানের বিচার ছেড়ে দেয় দূরদর্শী চোখের উপর। খোলাখুলি বলার দরকার পড়ে না, ইঙ্গিতই যথেষ্ট। নবী ﷺ বলছেন না যে তোমরা হারবে। বলছেন, তোমরা জানবে। বাকিটা শ্রোতা নিজেই বুঝে নেবে। সা'দীর মতে কথাটা আসে সেই সময়ে, যখন তাঁর সম্প্রদায়কে আল্লাহর দিকে ডাকা হয়েছে, তাদের দায়িত্ব বুঝিয়ে দেওয়া হয়েছে, আর তবুও তারা মানতে অস্বীকার করে শিরকে লেগে থেকেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Is the Final Home",
+          "bn": "শেষ ঘর কার ভাগে"
+        },
+        "p": [
+          {
+            "en": "Fa-sawfa ta'lamuna man takunu lahu 'aqibatu d-dar: you will come to know whose the outcome of the home will be. At-Tabari places the knowing at the moment they see the punishment, and explains the outcome as what a person's worldly life is followed by, better than it or worse, according to the good or bad deeds he sent ahead in it. Al-Baghawi says simply that the home is Paradise. The Muyassar speaks of the good outcome, and as-Sa'di says that the good outcome in this world and the next belongs to the God-fearing.",
+            "bn": "ফা-সাওফা তা'লামূনা মান তাকূনু লাহু আকিবাতুদ-দার: তোমরা শীঘ্রই জানবে, ঘরের শেষ পরিণাম কার হবে। তাবারীর মতে এই জানাটা ঘটবে শাস্তি চোখে দেখার মুহূর্তে। পরিণামের ব্যাখ্যায় তিনি বলেন, মানুষের দুনিয়ার জীবনের পর যা আসে, তা দুনিয়ার চেয়ে ভালোও হতে পারে, খারাপও হতে পারে। কোনটা হবে, তা নির্ভর করে সে দুনিয়ায় কেমন নেক বা বদ আমল আগে পাঠিয়েছে তার উপর। বাগাভী সোজা বলেন, ঘর মানে জান্নাত। মুয়াসসার বলে উত্তম পরিণামের কথা। আর সা'দী বলেন, দুনিয়া ও আখিরাতের উত্তম পরিণাম মুত্তাকীদের।"
+          },
+          {
+            "en": "Ibn Kathir reads the promise as fulfilled in history. Will it be mine or yours, he paraphrases, and then: Allah kept His promise to him. He gave the Prophet ﷺ power in the land, opened Makkah to him, made him prevail over those of his people who denied him, and settled his rule over the Arabian Peninsula, Yemen and Bahrain in his lifetime; after his death lands and provinces were opened in the days of his successors. He cites 58:21, Allah has written: I and My messengers will surely prevail, and 40:51.",
+            "bn": "ইবন কাসীর প্রতিশ্রুতিটিকে ইতিহাসে পূর্ণ হতে দেখেন। পরিণাম আমার হবে, নাকি তোমাদের, এভাবে অর্থ বলে তিনি লেখেন: আল্লাহ তাঁর ওয়াদা পূরণ করেছেন। নবী ﷺ-কে তিনি দেশে ক্ষমতা দিয়েছেন, মক্কা তাঁর জন্য খুলে দিয়েছেন। সম্প্রদায়ের যারা তাঁকে মিথ্যা বলেছিল, তাদের উপর তাঁকে বিজয়ী করেছেন। তাঁর জীবদ্দশাতেই আরব উপদ্বীপ, ইয়েমেন ও বাহরাইনে তাঁর শাসন প্রতিষ্ঠিত হয়েছে। তাঁর মৃত্যুর পর খলীফাদের যুগে বহু দেশ ও প্রদেশ বিজিত হয়েছে। প্রমাণে তিনি আনেন ৫৮:২১ আয়াত, আল্লাহ লিখে দিয়েছেন: আমি ও আমার রসূলগণ অবশ্যই বিজয়ী হব। সঙ্গে ৪০:৫১ আয়াতও।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the readings rather than choosing among them. The outcome, he says, is the praised one: whose is victory in the abode of Islam, whose is the inheritance of the earth, and whose is the home of the Hereafter, that is, Paradise. Ma'arif al-Qur'an draws attention to the wording: the verse says the outcome of the home, not of the home of the Hereafter, and it takes this to mean success comes to the righteous even within this world. So the difference is real: al-Baghawi names only Paradise, Ibn Kathir dwells on victory in this world, and al-Qurtubi holds both.",
+            "bn": "কুরতুবী কোনো একটা অর্থ বেছে না নিয়ে সবগুলো একসঙ্গে ধরেন। তাঁর মতে পরিণাম মানে প্রশংসিত পরিণাম: ইসলামের ভূমিতে বিজয় কার, পৃথিবীর উত্তরাধিকার কার, আর আখিরাতের ঘর, অর্থাৎ জান্নাত, কার। মাআরিফুল কুরআন শব্দচয়নের দিকে নজর টানে। আয়াতে আছে ঘরের পরিণাম, আখিরাতের ঘরের পরিণাম নয়। এ থেকে মাআরিফ বোঝে, নেককারদের সাফল্য এই দুনিয়াতেও আসে। তাই মতপার্থক্যটা বাস্তব। বাগাভী শুধু জান্নাতের কথা বলেন, ইবন কাসীর জোর দেন দুনিয়ার বিজয়ের উপর, আর কুরতুবী দুটোকেই ধরে রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrongdoers Do Not Prosper",
+          "bn": "যালিমের সাফল্য নেই"
+        },
+        "p": [
+          {
+            "en": "The verse closes with a statement that stands apart from the challenge: innahu la yuflihu z-zalimun, the wrongdoers do not prosper. At-Tabari marks the turn; here Allah begins a new statement. Whoever acted in the world against what Allah commanded him, he says, does not succeed or attain his need with Allah, and that is the meaning of zulm in this place. Al-Baghawi reports Ibn 'Abbas: whoever disbelieved in Me and associated partners does not find happiness, and ad-Dahhak: he does not win. For the Muyassar, the one who oversteps and associates others with Allah does not win His pleasure and Paradise.",
+            "bn": "আয়াতের শেষ বাক্যটি চ্যালেঞ্জের অংশ নয়, আলাদা একটি ঘোষণা: ইন্নাহু লা ইউফলিহুয যালিমূন, যালিমরা সফল হয় না। তাবারী এই মোড়টা চিহ্নিত করেন। তাঁর কথায়, এখান থেকে আল্লাহ নতুন করে একটি সংবাদ দিচ্ছেন। দুনিয়ায় যে আল্লাহর আদেশের উল্টো কাজ করেছে, সে আল্লাহর কাছে সফল হয় না, নিজের প্রয়োজনও পূরণ করতে পারে না। এ জায়গায় যুলুমের অর্থ এটাই। বাগাভী ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: যে আমাকে অস্বীকার করেছে আর শিরক করেছে, সে সৌভাগ্য পায় না। দাহহাকের ব্যাখ্যা: সে সফলকাম হয় না। মুয়াসসারের মতে, যে সীমা ছাড়িয়ে আল্লাহর সঙ্গে শরিক করে, সে তাঁর সন্তুষ্টি ও জান্নাত পায় না।"
+          },
+          {
+            "en": "As-Sa'di widens it to every wrongdoer: however much he enjoys in this world, his end is dwindling and ruin. He closes with a narration that al-Bukhari records (4686) from Abu Musa: Allah's Messenger ﷺ said, \"Allah gives respite to the oppressor, but when He takes him over, He never releases him.\" Then he recited: \"Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure.\" (11:102). It is a general narration, not attached to this verse. No tafsir read for 6:135 attaches a hadith or an occasion of revelation to it.",
+            "bn": "সা'দী কথাটিকে সব যালিমের জন্য প্রসারিত করেন: দুনিয়ায় সে যত ভোগই করুক, তার শেষ পরিণতি ক্ষয় আর ধ্বংস। শেষে তিনি একটি হাদীস আনেন, যা বুখারী (৪৬৮৬) আবু মূসা (রাঃ) থেকে বর্ণনা করেছেন। রাসূলুল্লাহ ﷺ বলেছেন: \"আল্লাহ যালিমকে অবকাশ দেন, কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না।\" তারপর তিনি পাঠ করলেন: \"আর এমনই তোমার রবের পাকড়াও, যখন তিনি জনপদগুলোকে পাকড়াও করেন এমন অবস্থায় যে তারা যুলুমে লিপ্ত। নিশ্চয়ই তাঁর পাকড়াও বড় যন্ত্রণাদায়ক, কঠোর।\" (১১:১০২)। হাদীসটি সাধারণ, এই আয়াতের সঙ্গে যুক্ত নয়। ৬:১৩৫ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shares Set Aside for Partners",
+          "bn": "শরিকদের নামে রাখা ভাগ"
+        },
+        "p": [
+          {
+            "en": "The verses after it show what the wrongdoing looked like. In 6:136 they set aside a share of crops and livestock for Allah and a share for their partners. The Muyassar says Allah's share went to guests and the poor and the other to their idols. In 6:137 their partners, whom the Muyassar names as devils, made the killing of their own children seem fair to many polytheists, for fear of poverty, to ruin them and confuse their religion. The verse describes what those people did and condemns it; it licenses nothing against any living person or community.",
+            "bn": "পরের আয়াতগুলো দেখায়, সেই যুলুম বাস্তবে কেমন ছিল। ৬:১৩৬ আয়াতে তারা ফসল ও গবাদি পশু থেকে একটা ভাগ রাখত আল্লাহর জন্য, আরেকটা ভাগ তাদের শরিকদের জন্য। মুয়াসসার জানায়, আল্লাহর ভাগ যেত মেহমান আর মিসকিনদের কাছে, অন্য ভাগ যেত তাদের মূর্তিগুলোর জন্য। ৬:১৩৭ আয়াতে তাদের শরিকেরা, মুয়াসসার যাদের শয়তান বলে চিহ্নিত করে, বহু মুশরিকের চোখে নিজেদের সন্তান হত্যাকে সুন্দর করে দেখিয়েছিল। এর পেছনে ছিল দারিদ্র্যের ভয়, আর উদ্দেশ্য ছিল তাদের ধ্বংস করা আর তাদের দ্বীন গুলিয়ে দেওয়া। আয়াতটি সেই লোকদের কাজের বর্ণনা দিয়ে তার নিন্দা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping to My Own Work",
+          "bn": "নিজের কাজে লেগে থাকা"
+        },
+        "p": [
+          {
+            "en": "For a reader, the verse first settles a question of conduct. When the case has been made in full and is still refused, the Prophet ﷺ is not handed a further argument. He is handed one sentence to say and a work to continue. Because the commentators read it as a warning, it cannot be stretched into indifference about wrong, as if each person's way were as good as another's. What it gives is a posture: say the truth plainly once, keep doing what Allah asked, and let the outcome show itself in its time.",
+            "bn": "পাঠকের জন্য আয়াতটি প্রথমে আচরণের একটা প্রশ্নের মীমাংসা করে। কথা পুরোপুরি বলা হয়ে গেছে, তবুও প্রত্যাখ্যান এসেছে। এমন সময় নবী ﷺ-কে নতুন কোনো যুক্তি দেওয়া হয়নি। দেওয়া হয়েছে বলার মতো একটি বাক্য আর চালিয়ে যাওয়ার মতো একটি কাজ। তাফসীরকারেরা যেহেতু একে সতর্কবাণী হিসেবে পড়েন, তাই একে টেনে এমন উদাসীনতা বানানো যায় না যে, যার যার পথ সবই সমান। আয়াত যা দেয় তা হলো একটা ভঙ্গি: সত্য কথাটা একবার পরিষ্কার করে বলুন, আল্লাহ যা করতে বলেছেন তা করে যান, আর ফলাফলকে নিজের সময়ে সামনে আসতে দিন।"
+          },
+          {
+            "en": "It also turns back on the one reading it. The verse measures by the final home, so a season of being outnumbered is not the verdict, and as-Sa'di's remark about the wrongdoer's enjoyment is a reminder that comfort is not the verdict either. And its last sentence names no one. Before applying la yuflihu z-zalimun to others, I can ask where I am the zalim: in a debt left unpaid, a word that wounded, a right held back. Then the question becomes mine: what am I working on while I wait?",
+            "bn": "আয়াতটি পাঠকের দিকেও ঘুরে আসে। আয়াত মাপে শেষ ঘর দিয়ে। তাই সংখ্যায় কম পড়ে যাওয়ার একটা মৌসুম চূড়ান্ত রায় নয়। যালিমের ভোগ নিয়ে সা'দীর কথাটাও মনে করিয়ে দেয়, আরাম-আয়েশও রায় নয়। তা ছাড়া শেষ বাক্যটি কারও নাম নেয় না। লা ইউফলিহুয যালিমূন কথাটা অন্যের উপর খাটানোর আগে নিজেকে জিজ্ঞেস করা যায়, আমি কোথায় যালিম: শোধ না করা কোনো ঋণে, আঘাত দেওয়া কোনো কথায়, আটকে রাখা কোনো হকে? তখন প্রশ্নটা আমার নিজের হয়ে যায়: অপেক্ষার এই সময়ে আমি কোন কাজে লেগে আছি?"
+          }
+        ]
+      }
+    ]
+  },
   "6:138": {
     "sections": [
       {
