@@ -279,6 +279,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Jeer Answered With Comfort",
+          "bn": "খোঁচার জবাবে সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "Surah al-An'am opens its case with people who turn away from every sign that reaches them (6:4) and deny the truth when it comes (6:5). Then comes a run of objections. In 6:7 Allah says that even a scripture sent down on parchment, touched with their own hands, would be called plain magic. In 6:8 they ask why an angel was not sent down to him, and 6:9 answers. Only then does 6:10 turn from the objectors to the Messenger they were aiming at.",
+            "bn": "সূরা আনআম শুরুতেই এমন লোকদের কথা তোলে, যাদের কাছে যে নিদর্শনই আসে তারা মুখ ফিরিয়ে নেয় (৬:৪), আর সত্য এলে তা অস্বীকার করে (৬:৫)। তারপর আসে একের পর এক আপত্তি। ৬:৭ আয়াতে আল্লাহ বলেন, কাগজে লেখা কিতাব নাযিল করলে আর তারা নিজের হাতে তা ছুঁয়ে দেখলেও বলত, এটা স্পষ্ট যাদু। ৬:৮ আয়াতে তারা জানতে চায়, তাঁর কাছে ফেরেশতা নামানো হলো না কেন, আর ৬:৯ তার জবাব দেয়। এরপরই ৬:১০ আপত্তিকারীদের ছেড়ে তাঁর দিকে ফেরে, যাঁকে লক্ষ্য করে এসব বলা হচ্ছিল।"
+          },
+          {
+            "en": "The Muyassar reads that request for an angel as no real request at all. Because their demand that an angel be sent down was made by way of mocking Muhammad ﷺ, it says, Allah made clear to him that mocking the messengers is nothing new: it had come from the disbelievers before, with their own prophets, and the punishment they used to laugh at and deny closed in around them.",
+            "bn": "মুয়াসসারের মতে ফেরেশতা চাওয়াটা আসলে কোনো প্রশ্নই ছিল না। ফেরেশতা নামানোর দাবিটা তারা তুলেছিল মুহাম্মাদ ﷺ-কে বিদ্রূপ করার জন্য। তাই আল্লাহ তাঁকে জানিয়ে দিলেন, রসূলদের নিয়ে ঠাট্টা নতুন কিছু নয়। আগের কাফিররাও নিজেদের নবীদের সঙ্গে এমনটাই করেছে, আর যে আযাব নিয়ে তারা হাসত ও যার আসাকে অস্বীকার করত, সেটাই তাদের ঘিরে ধরেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Had the Angel Been Sent",
+          "bn": "ফেরেশতা নামলে কী হতো"
+        },
+        "p": [
+          {
+            "en": "On 6:8, Ibn Kathir in the abridged English explains that if the angels came down while the disbelievers kept the same attitude, the torment would fall on them, and he sets beside it 15:8 and 25:22. Ma'arif al-Qur'an states it as a divine law: when a people are shown the very miracle they demanded and still refuse, they are destroyed by a general punishment.",
+            "bn": "৬:৮ আয়াতের ব্যাখ্যায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে, কাফিররা একই মনোভাব নিয়ে থাকা অবস্থায় ফেরেশতা নামলে আযাব তাদের উপর এসে পড়ত। এর পাশে তিনি রাখেন ১৫:৮ ও ২৫:২২ আয়াত। মাআরিফুল কুরআন একে আল্লাহর এক নিয়ম হিসেবে তুলে ধরে: কোনো জাতি নিজের পছন্দের মুজিযা চেয়ে তা দেখার পরও যদি ঈমান না আনে, তবে ব্যাপক আযাবে তাদের ধ্বংস করা হয়।"
+          },
+          {
+            "en": "Ma'arif draws the consequence for these particular people of Makkah: their demands came from no good intention, so not showing them the miracle they asked for was, in its words, real good for them. On 6:9 the two commentaries take the same road. Ibn Kathir says that an angel sent as a messenger would come in the form of a man, so that people could speak to him and benefit from his teaching, and he calls it a mercy that every kind of creation is sent messengers from its own kind, citing 17:95 and 3:164.",
+            "bn": "মাআরিফুল কুরআন মক্কার এই লোকদের বেলায় এর ফল টেনে বলে, তাদের দাবির পেছনে কোনো ভালো নিয়ত ছিল না। তাই চাওয়া মুজিযা না দেখানোটাই ছিল, তার ভাষায়, তাদের জন্য আসল কল্যাণ। ৬:৯ আয়াতে দুই তাফসীর একই পথে চলে। ইবন কাসীর বলেন, ফেরেশতাকে রসূল করে পাঠানো হলে তিনি আসতেন মানুষের আকৃতিতে, যাতে লোকেরা তাঁর সঙ্গে কথা বলতে আর তাঁর শিক্ষা থেকে উপকৃত হতে পারে। প্রতিটি সৃষ্টির কাছে তাদেরই জাতের রসূল পাঠানোকে তিনি আল্লাহর রহমত বলেন, আর প্রমাণ হিসেবে আনেন ১৭:৯৫ ও ৩:১৬৪ আয়াত।"
+          },
+          {
+            "en": "Ibn Kathir reports from ad-Dahhak that Ibn 'Abbas (RA) said the angel would come as a man because they could not look at an angel for its light. Ma'arif puts it as two ways an angel could come: in his own form, which no human could stand before and might die at the sight of, or in human form, as Jibril (AS) came to the Prophet ﷺ several times, and then the objector would raise the same complaint. On the confusion in 6:9, Ibn Kathir reports al-Walibi's line from Ibn 'Abbas (RA): We brought doubts around them.",
+            "bn": "ইবন কাসীর দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: ফেরেশতা আসতেন মানুষ হয়ে, কারণ তাঁর নূরের দিকে তারা তাকাতেই পারত না। মাআরিফুল কুরআন দুটি পথের কথা বলে। ফেরেশতা যদি নিজের আসল রূপে আসেন, কোনো মানুষ তাঁর সামনে দাঁড়াতে পারবে না, বরং দেখামাত্র মারা যাওয়ারই আশঙ্কা। আর যদি মানুষের রূপে আসেন, যেমন জিবরীল (আঃ) কয়েকবার নবী ﷺ-এর কাছে এসেছেন, তাহলে আপত্তিকারী তাঁর বিরুদ্ধেও একই আপত্তি তুলবে। ৬:৯ আয়াতের বিভ্রান্তি প্রসঙ্গে ইবন কাসীর ওয়ালিবীর সূত্রে ইবন আব্বাস (রাঃ)-এর উক্তি আনেন: আমি তাদের চারপাশে সন্দেহ এনে দিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Mockery Closed In",
+          "bn": "বিদ্রূপ যেভাবে ঘিরে ধরল"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa-laqad, and indeed, and then a passive verb: istuhzi'a bi-rusulin, messengers were mocked. Those who did the mocking go unnamed at first, and the same root returns at the end in yastahzi'un, what they used to mock. Between them stands another verb, sakhiru minhum. At-Tabari, through Asbat, reports as-Suddi on that phrase: those who scoffed at them, meaning at the messengers, and he adds that the punishment they had mocked fell upon them.",
+            "bn": "আয়াতের শুরু ওয়া লাকাদ দিয়ে, অর্থাৎ নিশ্চয়ই। তারপর একটি কর্মবাচ্য ক্রিয়া: উসতুহযিআ বিরুসুলিন, রসূলদের নিয়ে বিদ্রূপ করা হয়েছে। কারা বিদ্রূপ করেছে, শুরুতে তাদের নাম নেই। শেষে একই ধাতু আবার ফিরে আসে ইয়াসতাহযিঊন শব্দে, যা নিয়ে তারা বিদ্রূপ করত। মাঝখানে আরেকটি ক্রিয়া: সাখিরূ মিনহুম। তাবারী আসবাতের সূত্রে এ অংশে সুদ্দীর ব্যাখ্যা আনেন: যারা তাদের নিয়ে উপহাস করেছিল, অর্থাৎ রসূলদের নিয়ে। সুদ্দী আরও বলেন, যে আযাব নিয়ে তারা ঠাট্টা করত, তা-ই তাদের উপর এসে পড়ল।"
+          },
+          {
+            "en": "Then the key verb, haqa. At-Tabari glosses it as nazala wa-ahata, it came down and surrounded, and lists its forms: haqa, yahiqu, hayqan, huyuqan, hayaqanan. Al-Qurtubi gives the same forms with the sense nazala, it descended, and cites 35:43: the evil plot surrounds none but its own people. Al-Baghawi records three early glosses side by side: ar-Rabi' ibn Anas said it descended, 'Ata' said it alighted, and ad-Dahhak said it surrounded. The Muyassar uses ad-Dahhak's word: the punishment surrounded them.",
+            "bn": "এবার মূল ক্রিয়া, হাকা। তাবারী এর অর্থ করেন নাযালা ওয়া আহাতা: নেমে এল আর চারদিক থেকে ঘিরে ফেলল। সঙ্গে শব্দটির রূপগুলোও দেন: হাকা, ইয়াহীকু, হাইকান, হুয়ূকান, হায়াকানান। কুরতুবী একই রূপগুলো দিয়ে অর্থ করেন নাযালা, নেমে এল, আর দলিল হিসেবে আনেন ৩৫:৪৩ আয়াত: কু-চক্রান্ত তার হোতাদেরই ঘিরে ধরে। বাগাভী পাশাপাশি তিনটি প্রাচীন ব্যাখ্যা লিপিবদ্ধ করেন। রাবী ইবন আনাস বলেছেন, নেমে এল। আতা বলেছেন, আপতিত হলো। দাহহাক বলেছেন, ঘিরে ফেলল। মুয়াসসার দাহহাকের শব্দটিই নেয়: আযাব তাদের ঘিরে ফেলল।"
+          },
+          {
+            "en": "What closed in was ma kanu bihi yastahzi'un. At-Tabari says it is the punishment they used to mock, denying that it would ever fall on them as their messengers had warned. Al-Qurtubi notes two ways to read the ma: as a relative, that which, or as a verbal noun, so that the consequence of their mockery closed in on them. Al-Baghawi reads it as the recompense of their mockery, in punishment and vengeance. On every reading the thing they laughed at as impossible is the thing that arrived.",
+            "bn": "যা ঘিরে ধরল, তা হলো মা কানূ বিহী ইয়াসতাহযিঊন। তাবারী বলেন, এটা সেই আযাব, যা নিয়ে তারা ঠাট্টা করত। রসূলরা যেভাবে সতর্ক করেছিলেন, সেভাবে তা তাদের উপর আসবে, এ কথা তারা মানত না। কুরতুবী এখানে মা শব্দটির দুই রকম পাঠের কথা বলেন। হয় এটা সম্বন্ধবাচক, অর্থাৎ যা। নয়তো এটা ক্রিয়াবাচক বিশেষ্য, তখন অর্থ দাঁড়ায়: তাদের ঠাট্টার পরিণামই তাদের ঘিরে ধরল। বাগাভীর পাঠে এটা তাদের ঠাট্টার প্রতিফল, আযাব আর প্রতিশোধের আকারে। যেভাবেই পড়া হোক, যাকে তারা অসম্ভব বলে হেসে উড়িয়েছিল, শেষে সেটাই এসে হাজির হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Make Light of What You Meet",
+          "bn": "যা সইছ, তা হালকা করে নাও"
+        },
+        "p": [
+          {
+            "en": "At-Tabari hears the verse as Allah speaking to His Prophet ﷺ, consoling him with His threat against those who mocked him. In his paraphrase: make light, O Muhammad, of what you meet from these people who mock you and belittle your right; carry on with what I commanded you, the call to My oneness and to obedience. If they persist in their error, We will take them down the road of the nations before them, with vengeance hastened and exemplary punishments falling on them.",
+            "bn": "তাবারীর কাছে আয়াতটি নবী ﷺ-এর প্রতি আল্লাহর কথা। যারা তাঁকে বিদ্রূপ করছিল, তাদের বিরুদ্ধে শাস্তির হুমকি শুনিয়ে আল্লাহ তাঁকে সান্ত্বনা দিচ্ছেন। তাবারীর ভাষ্যে কথাটা এমন: হে মুহাম্মাদ, যারা তোমাকে নিয়ে ঠাট্টা করে আর তোমার হক তুচ্ছ করে, তাদের কাছ থেকে যা পাচ্ছ তা হালকা করে নাও। আমি যে কাজের আদেশ দিয়েছি, আমার একত্ব আর আনুগত্যের দিকে ডাকা, তা চালিয়ে যাও। তারা যদি গোমরাহিতে অটল থাকে, তবে আগের জাতিগুলোর পথেই তাদের নিয়ে যাব: দ্রুত প্রতিশোধ আর দৃষ্টান্তমূলক শাস্তি তাদের উপর নেমে আসবে।"
+          },
+          {
+            "en": "The others agree on the verse's purpose and differ in what they add. Ibn Kathir calls it a consolation for the Messenger over the denial he met from his own people, and a promise to him and to those who believe in him of victory and a good end in this world and the next. Al-Qurtubi uses two words for what Allah does here: cheering His Prophet and consoling him. Al-Baghawi supplies the unspoken comparison: messengers were mocked before you, just as you have been mocked, O Muhammad.",
+            "bn": "বাকি তাফসীরকারেরা আয়াতের উদ্দেশ্য নিয়ে একমত, পার্থক্য শুধু কে কী যোগ করেন তাতে। ইবন কাসীর বলেন, নিজের কওমের কাছ থেকে যে অস্বীকার রসূল পেয়েছিলেন, এ আয়াত তাতে তাঁর সান্ত্বনা। সঙ্গে তাঁর জন্য আর তাঁর উপর ঈমান আনা মুমিনদের জন্য দুনিয়া ও আখিরাতে সাহায্য আর শুভ পরিণামের প্রতিশ্রুতি। কুরতুবী এখানে দুটি শব্দ ব্যবহার করেন: আল্লাহ নবীর মনে প্রশান্তি দিচ্ছেন আর তাঁকে সান্ত্বনা দিচ্ছেন। বাগাভী না-বলা তুলনাটা খুলে দেন: তোমার আগেও রসূলদের বিদ্রূপ করা হয়েছে, হে মুহাম্মাদ, যেমন তোমাকে করা হচ্ছে।"
+          },
+          {
+            "en": "As-Sa'di finds two audiences in one sentence. Allah consoles His Messenger and steadies him in patience, he says, while threatening and warning his enemies. The earlier messengers came to their nations with clear proofs and were denied and mocked, and Allah destroyed those nations for it. So beware, he tells the deniers, of continuing in your denial, lest what struck them strike you. Ma'arif al-Qur'an turns inward instead: the Prophet's task is to convey, and whether anyone is moved by it is not part of his duty.",
+            "bn": "সা'দী একটি বাক্যে দুই শ্রোতা দেখেন। তাঁর মতে আল্লাহ এখানে রসূলকে সান্ত্বনা দিচ্ছেন আর ধৈর্যে অটল রাখছেন, আবার তাঁর শত্রুদের হুমকি ও সতর্কবাণীও শোনাচ্ছেন। আগের রসূলরা স্পষ্ট প্রমাণ নিয়ে নিজ নিজ জাতির কাছে এসেছিলেন, আর জাতিগুলো তাঁদের মিথ্যা বলেছে, বিদ্রূপ করেছে। এর জন্য আল্লাহ তাদের ধ্বংস করেছেন। তাই সা'দী অস্বীকারকারীদের বলেন, সাবধান, অস্বীকার চালিয়ে গেলে তাদের যা হয়েছে তোমাদেরও তা-ই হবে। মাআরিফুল কুরআন তাকায় ভেতরের দিকে: নবীর কাজ পৌঁছে দেওয়া, কেউ প্রভাবিত হলো কি না তা তাঁর দায়িত্বের অংশ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walk the Land, Then Mercy",
+          "bn": "ভ্রমণ, দেখা, তারপর রহমত"
+        },
+        "p": [
+          {
+            "en": "The next verse hands the looking to the listener: say, travel through the land, then see how the end of the deniers turned out (6:11). Ibn Kathir explains it as reflecting on the afflictions Allah brought on earlier nations who defied and denied His messengers, punishment in this life and painful torment in the next, while He saved His messengers and His believing servants.",
+            "bn": "পরের আয়াত দেখার দায়িত্ব শ্রোতার হাতে তুলে দেয়: বলো, পৃথিবীতে ভ্রমণ করো, তারপর দেখো অস্বীকারকারীদের পরিণাম কী হয়েছিল (৬:১১)। ইবন কাসীর এর ব্যাখ্যায় বলেন, যারা আল্লাহর রসূলদের অমান্য করেছে আর মিথ্যা বলেছে, সেই আগের জাতিগুলোর উপর তিনি যে বিপদ নামিয়েছিলেন, তা নিয়ে ভাবো। দুনিয়ায় তাদের শাস্তি দিয়েছেন, আখিরাতে আছে যন্ত্রণাদায়ক আযাব। আর তিনি রক্ষা করেছেন নিজের রসূলদের ও মুমিন বান্দাদের।"
+          },
+          {
+            "en": "Then, one verse later, the same speech turns: say, to whom belongs whatever is in the heavens and the earth? Say, to Allah. He has written mercy upon Himself (6:12). As-Sa'di, on that verse, says Allah has written upon Himself that His mercy overcomes His anger and that giving is dearer to Him than withholding. He has opened the doors of mercy to all His servants, as-Sa'di adds, so long as they do not shut those doors on themselves with their sins.",
+            "bn": "এক আয়াত পরেই একই বক্তব্য মোড় নেয়: বলো, আসমান ও যমীনে যা আছে তা কার? বলো, আল্লাহর। তিনি নিজের উপর রহমত লিখে নিয়েছেন (৬:১২)। সা'দী এ আয়াতের ব্যাখ্যায় বলেন, আল্লাহ নিজের উপর লিখে নিয়েছেন যে তাঁর রহমত তাঁর ক্রোধের উপর প্রবল, আর না দেওয়ার চেয়ে দেওয়াই তাঁর কাছে বেশি প্রিয়। সা'দী আরও বলেন, আল্লাহ সব বান্দার জন্য রহমতের দরজা খুলে রেখেছেন, যতক্ষণ না তারা নিজেদের গুনাহ দিয়ে সেই দরজা নিজেদের উপর বন্ধ করে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir, on 6:12, cites a narration he says is recorded in the Two Sahihs from Abu Hurayrah (RA). In Sahih al-Bukhari (3194) its wording is: \"When Allah completed the creation, He wrote in His Book which is with Him on His Throne, 'My Mercy overpowers My Anger.'\" Read in order, the passage does not let the punishment of the mockers be the last word. The order to look at the deniers' end in 6:11 and the open door in 6:12 both begin with say, and as-Sa'di names who is addressed in 6:12: these idolaters.",
+            "bn": "৬:১২ আয়াতে ইবন কাসীর একটি হাদীস আনেন, যা তাঁর ভাষায় দুই সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে বর্ণিত। সহীহ বুখারীতে (৩১৯৪) তার ভাষা এই: \"আল্লাহ যখন সৃষ্টির কাজ সম্পন্ন করলেন, তখন তাঁর কাছে আরশের উপর থাকা তাঁর কিতাবে লিখলেন: আমার রহমত আমার ক্রোধের উপর প্রবল।\" ধারাবাহিকভাবে পড়লে দেখা যায়, বিদ্রূপকারীদের শাস্তিকে এ অংশ শেষ কথা হতে দেয় না। ৬:১১ আয়াতে অস্বীকারকারীদের পরিণাম দেখার আদেশ আর ৬:১২ আয়াতের খোলা দরজা, দুটোই শুরু হয় 'বলো' দিয়ে। আর ৬:১২ আয়াতে কাদের বলা হচ্ছে, সা'দী তা স্পষ্ট করেন: এই মুশরিকদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prophets Who Bore Worse",
+          "bn": "যে নবীরা আরও বেশি সয়েছেন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for 6:10 attaches a hadith to the verse itself. Two narrations in Sahih al-Bukhari, which no commentator here links to this verse, show the Prophet ﷺ doing what the verse invites: finding his footing in the messengers before him. 'Abdullah (RA) narrates that the Prophet ﷺ distributed something and a man said the distribution had not been made seeking Allah's Countenance. When told, the Prophet ﷺ grew angry, then said: \"May Allah bestow His Mercy on Moses, for he was harmed more (in a worse manner) than this; yet he endured patiently.\" (Bukhari 3405)",
+            "bn": "৬:১০ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি। সহীহ বুখারীর দুটি বর্ণনা এখানকার কোনো তাফসীরকার এ আয়াতের সঙ্গে জোড়েননি, তবু তাতে দেখা যায় নবী ﷺ নিজেই সেটা করছেন, যার দিকে আয়াত ডাকে: আগের রসূলদের মধ্যে ভরসা খোঁজা। আব্দুল্লাহ (রাঃ) বর্ণনা করেন, নবী ﷺ একবার কিছু বণ্টন করলেন। এক লোক বলল, এ বণ্টনে আল্লাহর সন্তুষ্টি চাওয়া হয়নি। খবর পেয়ে নবী ﷺ রাগান্বিত হলেন, তারপর বললেন: \"আল্লাহ মূসার উপর রহম করুন, তাঁকে এর চেয়েও বেশি কষ্ট দেওয়া হয়েছিল, তবু তিনি ধৈর্য ধরেছিলেন।\" (বুখারী ৩৪০৫)"
+          },
+          {
+            "en": "The second is also from 'Abdullah (RA): \"As if I saw the Prophet (ﷺ) talking about one of the prophets whose nation had beaten him and caused him to bleed, while he was cleaning the blood off his face and saying, 'O Allah! Forgive my nation, for they have no knowledge.'\" (Bukhari 3477). Set beside 6:10, the narration keeps two things apart. The verse tells of what closed in on the mockers; the prophet in the narration, struck by his people, asks forgiveness for them. The outcome was Allah's to decide; what the prophet asked for was forgiveness.",
+            "bn": "দ্বিতীয় বর্ণনাটিও আব্দুল্লাহ (রাঃ) থেকে: \"আমি যেন এখনো নবী ﷺ-কে দেখতে পাচ্ছি, তিনি নবীদের একজনের কথা বলছেন, যাঁকে তাঁর কওম মেরে রক্তাক্ত করেছিল। তিনি মুখ থেকে রক্ত মুছছিলেন আর বলছিলেন: হে আল্লাহ, আমার কওমকে ক্ষমা করো, কারণ তারা জানে না।\" (বুখারী ৩৪৭৭)। ৬:১০ আয়াতের পাশে রাখলে এ বর্ণনা দুটি বিষয় আলাদা করে দেখায়। আয়াত বলে, বিদ্রূপকারীদের কী ঘিরে ধরেছিল। আর বর্ণনার নবী নিজের কওমের হাতে আঘাত খেয়েও তাদের জন্য ক্ষমা চান। পরিণাম ঠিক করা ছিল আল্লাহর কাজ, আর নবী চেয়েছিলেন ক্ষমা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Word for Word in al-Anbiya",
+          "bn": "সূরা আম্বিয়ায় হুবহু একই কথা"
+        },
+        "p": [
+          {
+            "en": "The Quran repeats this sentence without changing a letter at 21:41, again directly after the deniers' mockery of the Prophet ﷺ. At 13:32 it opens the same way and then takes a different turn: messengers were mocked before you, and I gave respite to those who disbelieved, then I seized them, and how was My penalty. That verse adds what 6:10 leaves out: the stretch of respite between the mockery and the seizure.",
+            "bn": "কুরআন এই বাক্যটি একটি অক্ষরও না বদলে আবার এনেছে ২১:৪১ আয়াতে, সেখানেও নবী ﷺ-কে নিয়ে অস্বীকারকারীদের বিদ্রূপের ঠিক পরে। ১৩:৩২ আয়াত শুরু হয় একইভাবে, তারপর অন্য দিকে মোড় নেয়: তোমার আগেও রসূলদের বিদ্রূপ করা হয়েছে, তখন আমি কাফিরদের অবকাশ দিয়েছিলাম, তারপর তাদের পাকড়াও করলাম, কেমন ছিল আমার শাস্তি! ৬:১০ আয়াত যা বলেনি, এ আয়াত তা যোগ করে: বিদ্রূপ আর পাকড়াওয়ের মাঝের অবকাশটুকু।"
+          },
+          {
+            "en": "The closing phrase recurs at 40:83, where nations met their messengers' clear proofs by rejoicing in the knowledge they already had, and they were enveloped by what they used to mock. Twice the Quran states the pattern without exception: no messenger came to them but they mocked him (15:11, 36:30). And 6:34, later in this surah, gives the other side: messengers were denied before you, and they were patient over the denial and the harm until Our help came to them.",
+            "bn": "শেষাংশটি আবার আসে ৪০:৮৩ আয়াতে। সেখানে জাতিগুলো রসূলদের স্পষ্ট প্রমাণের জবাবে নিজেদের কাছে থাকা জ্ঞান নিয়েই উৎফুল্ল ছিল, আর যা নিয়ে তারা বিদ্রূপ করত, তা-ই তাদের ঘিরে ধরল। দুই জায়গায় কুরআন ধারাটা ব্যতিক্রম ছাড়াই বলে দেয়: তাদের কাছে এমন কোনো রসূল আসেনি, যাকে তারা বিদ্রূপ করেনি (১৫:১১ ও ৩৬:৩০)। আর এই সূরারই পরের দিকে ৬:৩৪ আয়াত অন্য দিকটা দেখায়: তোমার আগেও রসূলদের মিথ্যা বলা হয়েছে, আর মিথ্যা বলা ও কষ্ট দেওয়া সত্ত্বেও তাঁরা ধৈর্য ধরেছেন, যতক্ষণ না আমার সাহায্য তাঁদের কাছে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When You Are the Joke",
+          "bn": "হাসির নিশানা যখন আপনি"
+        },
+        "p": [
+          {
+            "en": "The verse describes the conduct of the mockers of earlier messengers and what closed in on them, and on this verse at-Tabari and Ibn Kathir identify those mocking the Prophet ﷺ only as his own people. It licenses nothing against any living person or community. It does not make a believer the agent of that outcome, or give anyone the right to declare that a misfortune which strikes a critic is that punishment. At-Tabari's paraphrase ends the Prophet's part at carrying on with the call; the rest Allah keeps.",
+            "bn": "আয়াতটি আগের রসূলদের বিদ্রূপকারীদের আচরণ আর তাদের উপর যা নেমে এসেছিল, তার বর্ণনা দেয়। এ আয়াতে নবী ﷺ-কে যারা বিদ্রূপ করছিল, তাবারী ও ইবন কাসীর তাদের পরিচয় দেন শুধু তাঁর নিজের কওম বলে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। পরিণাম কার্যকর করার দায় এটি কোনো মুমিনের কাঁধে দেয় না। কোনো সমালোচকের উপর বিপদ এলে তাকে সেই আযাব বলে ঘোষণা করার অধিকারও কাউকে দেয় না। তাবারীর ভাষ্যে নবীর কাজ দাওয়াত চালিয়ে যাওয়া পর্যন্ত, বাকিটা আল্লাহর হাতে।"
+          },
+          {
+            "en": "For the believer the verse works the way it first worked: as company. Someone who keeps prayer at work, or modesty in a family that finds it odd, may meet the raised eyebrow and the joke at the table. At-Tabari's make light of it does not mean pretending it does not hurt; Bukhari 3405 shows the Prophet ﷺ angered by a remark before he remembered Musa (AS). It means the jeer does not set the agenda.",
+            "bn": "মুমিনের কাছে আয়াতটা আজও কাজ করে প্রথমবারের মতোই, সঙ্গী হয়ে। কর্মস্থলে যিনি নামাজ ধরে রাখেন, কিংবা এমন পরিবারে লজ্জাশীলতা মেনে চলেন যেখানে তা অদ্ভুত ঠেকে, তাঁকে হয়তো কপাল কোঁচকানো আর খাবার টেবিলের রসিকতা শুনতে হয়। তাবারীর 'হালকা করে নাও' মানে কষ্ট হচ্ছে না বলে ভান করা নয়। বুখারী ৩৪০৫ দেখায়, মূসা (আঃ)-এর কথা মনে করার আগে নবী ﷺ নিজেও এক মন্তব্যে রাগান্বিত হয়েছিলেন। 'হালকা করে নাও' মানে বরং এই: খোঁচা যেন আপনার কাজের তালিকা ঠিক করে না দেয়।"
+          },
+          {
+            "en": "The verse also holds a mirror the other way. What the mockers laughed at, at-Tabari says, was a punishment they denied would ever reach them. Mockery is also what a heart does with a warning it has decided not to believe. A joke about the grave, a shrug at the Day of Judgement, a smile at a verse about the Fire: each treats as impossible something the Quran says is coming. The safer path is to take the warning seriously before it arrives, while the door of 6:12 stands open.",
+            "bn": "আয়াতটি উল্টো দিকেও আয়না ধরে। তাবারী বলেন, বিদ্রূপকারীরা হাসত এমন আযাব নিয়ে, যা তাদের কাছে কখনো পৌঁছাবে বলে তারা মানত না। যে সতর্কবাণী বিশ্বাস না করার সিদ্ধান্ত মন নিয়ে ফেলেছে, তার সঙ্গে মন এমনটাও করে। কবর নিয়ে রসিকতা, কিয়ামতের কথায় কাঁধ ঝাঁকানো, জাহান্নামের আয়াত শুনে মুচকি হাসি, সবই এমন কিছুকে অসম্ভব ধরে নেয় যার আসার কথা কুরআন বলেছে। নিরাপদ পথ হলো সতর্কবাণী আসার আগেই তাকে গুরুত্ব দেওয়া, যখন ৬:১২ আয়াতের দরজা এখনো খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "6:15": {
     "sections": [
       {

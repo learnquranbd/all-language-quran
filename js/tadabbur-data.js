@@ -20231,6 +20231,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not forbid yourself what Allah made lawful in the name of piety, and do not overstep it either; the path is to take His gifts with thanks.",
     "lessonBn": "তাকওয়ার নামে আল্লাহর হালাল করা জিনিস নিজের উপর হারাম করবেন না, আবার সীমাও ছাড়াবেন না। পথ হলো শোকরের সঙ্গে তাঁর দান গ্রহণ করা।"
+  },
+  "6:10": {
+    "reflectionEn": "They asked for a book they could touch and an angel they could see, and the asking was itself a kind of laughter. Then the address turns to the one being laughed at: messengers before you were mocked too, and the very thing the mockers laughed at closed in around them. The verse does not tell the Prophet to answer the jeer or to win over the room. It tells him he is not the first, and that the outcome is not his to arrange. When what I believe is made into a joke, do I need the laughter to stop before I can carry on? And when I am tempted to smile at a warning, do I notice what I am smiling at?",
+    "reflectionBn": "তারা চেয়েছিল হাতে ছোঁয়া যায় এমন কিতাব, চোখে দেখা যায় এমন ফেরেশতা। চাওয়াটাই ছিল এক রকম ঠাট্টা। এরপর কথা ঘুরে যায় তাঁর দিকে, যাঁকে নিয়ে ঠাট্টা হচ্ছে: তোমার আগের রসূলদেরও বিদ্রূপ করা হয়েছে, আর যা নিয়ে বিদ্রূপকারীরা হাসত, সেটাই শেষে তাদের ঘিরে ধরেছে। আয়াত নবী ﷺ-কে বলে না যে খোঁচার জবাব দাও বা মজলিস জিতে নাও। বলে, তুমিই প্রথম নও, আর পরিণাম সাজানো তোমার কাজ নয়। আমার বিশ্বাস নিয়ে যখন কেউ রসিকতা করে, হাসি না থামা পর্যন্ত কি আমি এগোতে পারি না? আর কোনো সতর্কবাণী শুনে নিজেই যখন মুচকি হাসতে ইচ্ছে করে, তখন কি খেয়াল করি কী নিয়ে হাসছি?",
+    "pointsEn": [
+      "When my prayer, my fasting or my modesty is joked about, do I quietly drop it, or carry on as before?",
+      "Is there a warning in the Quran that I treat lightly, the way one treats a joke, only because it has not arrived yet?",
+      "Do I judge whether I am on the right path by how the people around me react to it?",
+      "Have I ever laughed along at something sacred just to keep my place in a group?",
+      "Whose patience under ridicule do I know well enough to lean on when my own turn comes?"
+    ],
+    "pointsBn": [
+      "আমার নামাজ, রোজা বা লজ্জাশীলতা নিয়ে কেউ ঠাট্টা করলে আমি কি চুপচাপ সেটা ছেড়ে দিই, নাকি আগের মতোই চালিয়ে যাই?",
+      "কুরআনের কোনো সতর্কবাণী কি আমি শুধু এ কারণে হালকাভাবে নিই যে তা এখনো এসে পৌঁছায়নি, যেন সেটা নিছক রসিকতা?",
+      "আমি সঠিক পথে আছি কি না, তা কি আশপাশের মানুষের প্রতিক্রিয়া দেখে মাপি?",
+      "দলে নিজের জায়গা ধরে রাখতে কখনো কি পবিত্র কোনো বিষয় নিয়ে অন্যদের সঙ্গে হেসেছি?",
+      "বিদ্রূপের মুখে কার ধৈর্যের কাহিনি আমি এত ভালো জানি যে নিজের পালা এলে তার উপর ভর দিতে পারব?"
+    ],
+    "lessonEn": "Being mocked for the truth is the old road of the messengers; keep doing what you were given to do, and leave the end of the mockery to Allah.",
+    "lessonBn": "সত্যের জন্য বিদ্রূপ সহ্য করা রসূলদের পুরোনো পথ। যে দায়িত্ব পেয়েছেন তা চালিয়ে যান, আর বিদ্রূপের পরিণাম আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
