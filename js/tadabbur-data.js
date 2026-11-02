@@ -20711,6 +20711,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name a wrong as plainly as the verse does, never mock those who refuse it, and do not start a harm that others will copy after you.",
     "lessonBn": "আয়াত যেমন সোজাসুজি বলে, তেমনি অন্যায়কে অন্যায় বলুন। যারা তা থেকে দূরে থাকে, তাদের নিয়ে কখনো ঠাট্টা করবেন না। আর এমন কোনো ক্ষতির সূচনা করবেন না, যা আপনার পরে অন্যরা অনুসরণ করবে।"
+  },
+  "7:50": {
+    "reflectionEn": "The last words of this long exchange are not a curse or a boast. They are a plea for water. People who once had wells and tables of their own call across to those they knew, asking them to pour a little, or share some of what Allah has given them. The answer comes back that both are forbidden to those who denied. Then the verses give the cause: they made their religion a pastime, the near life fooled them, and they forgot the meeting of this Day. So today they are left, as they once left it. Water is still in my hands, and that Day is still ahead of me. Who is drinking from what I have, and what am I doing now about the meeting?",
+    "reflectionBn": "এত দীর্ঘ কথোপকথনের শেষ কথাটা অভিশাপ নয়, অহংকারও নয়। শেষ কথাটা এক ফোঁটা পানির জন্য কাকুতি। যাদের একসময় নিজেদের কুয়া ছিল, খাবারের দস্তরখান ছিল, তারা চেনা মানুষদের ডেকে বলছে: একটু পানি ঢেলে দাও, কিংবা আল্লাহ তোমাদের যা দিয়েছেন তা থেকে কিছু দাও। জবাব আসে, যারা অস্বীকার করেছে তাদের জন্য আল্লাহ দুটোই হারাম করেছেন। তারপর আয়াতগুলো কারণটাও বলে দেয়। তারা দ্বীনকে খেলা-তামাশা বানিয়েছিল, দুনিয়ার জীবন তাদের ধোঁকায় ফেলেছিল, আর এই দিনের সাক্ষাতের কথা তারা ভুলে গিয়েছিল। তাই আজ তাদেরও ছেড়ে রাখা হলো, যেমন তারা একদিন সেই সাক্ষাৎকে ছেড়ে রেখেছিল। পানি এখনো আমার হাতে, সেই দিনটাও এখনো সামনে। আমার কাছে যা আছে তা থেকে কে পান করছে? আর সেই সাক্ষাতের জন্য আজ আমি কী করছি?",
+    "pointsEn": [
+      "When did I last give someone water, food or anything else I was given, without waiting to be asked twice?",
+      "Which part of my religion have I turned into a pastime, kept for habit or for show rather than obeyed?",
+      "What in this near life is fooling me most right now, and what is it promising that it cannot keep?",
+      "If I truly lived as someone who will meet Allah, what would I stop this week, and what would I start?",
+      "Which instruction in the Book am I treating as if I could wait to see how things turn out before acting on it?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি কাউকে পানি, খাবার বা আমাকে দেওয়া অন্য কিছু দিয়েছি, দ্বিতীয়বার চাওয়ার অপেক্ষা না করে?",
+      "দ্বীনের কোন অংশটা আমি খেলার জিনিস বানিয়ে ফেলেছি, মানার বদলে শুধু অভ্যাসে বা লোক দেখাতে ধরে রেখেছি?",
+      "দুনিয়ার কোন জিনিসটা এই মুহূর্তে আমাকে সবচেয়ে বেশি ধোঁকা দিচ্ছে? আর সে আমাকে এমন কী কথা দিচ্ছে যা সে রাখতে পারবে না?",
+      "আমি যদি সত্যিই এমন মানুষের মতো বাঁচতাম যে আল্লাহর সঙ্গে সাক্ষাৎ করবে, তাহলে এ সপ্তাহে কী ছেড়ে দিতাম, আর কী শুরু করতাম?",
+      "কিতাবের কোন নির্দেশটা আমি এমনভাবে ফেলে রেখেছি, যেন শেষটা কী দাঁড়ায় তা দেখে তারপর আমল করলেও চলবে?"
+    ],
+    "lessonEn": "Share your water and your provision while they are still yours to give, and live now for the meeting you will not be able to forget later.",
+    "lessonBn": "পানি আর রিজিক যতক্ষণ আপনার হাতে আছে, ততক্ষণ তা থেকে দান করুন। আর এখন থেকেই সেই সাক্ষাতের জন্য বাঁচুন, যা পরে আর ভুলে থাকার উপায় থাকবে না।"
   }
 };
 

@@ -1903,6 +1903,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:50": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Call Changes Direction",
+          "bn": "ডাক এবার উল্টো দিক থেকে"
+        },
+        "p": [
+          {
+            "en": "Wa-nada ashab an-nar ashab al-jannah: and the companions of the Fire will call to the companions of Paradise. From 7:44 onward the surah has carried a string of calls between the two abodes. Paradise opened it, asking the Fire whether it had found its Lord's promise true. In 7:50 the direction turns, and the people of the Fire are the ones who call out first. What they ask for is not an argument and not an excuse. It is water, and whatever food can be spared.",
+            "bn": "ওয়া নাদা আসহাবুন নারি আসহাবাল জান্নাহ: আর জাহান্নামবাসীরা জান্নাতবাসীদের ডেকে বলবে। ৭:৪৪ থেকে সূরাটি দুই ঠিকানার মাঝে একের পর এক ডাকাডাকির বর্ণনা দিয়ে আসছে। শুরুটা করেছিল জান্নাতবাসীরা। তারা জাহান্নামবাসীদের জিজ্ঞেস করেছিল, রবের ওয়াদা তোমরা সত্য পেয়েছ কি না। ৭:৫০-এ এসে দিক বদলে যায়। এবার প্রথম ডাকটা আসে জাহান্নামের দিক থেকে। তারা কোনো যুক্তি দেখাচ্ছে না, কোনো অজুহাতও দিচ্ছে না। তারা চাইছে পানি, আর সম্ভব হলে একটু খাবার।"
+          },
+          {
+            "en": "At-Tabari introduces the verse as Allah's report of the people of the Fire seeking help from the people of Paradise when a great affliction comes down on them from the severity of thirst and hunger. As-Sa'di places it at the moment the punishment has reached its full measure in them, with overwhelming hunger and a thirst that hurts. This article reads it with 7:51 to 7:53, into which its reply runs straight on.",
+            "bn": "তাবারী আয়াতটির পরিচয় দেন এভাবে: এ হলো আল্লাহর দেওয়া খবর, জাহান্নামবাসীরা জান্নাতবাসীদের কাছে সাহায্য চাইবে, যখন প্রচণ্ড পিপাসা আর ক্ষুধার কঠিন বিপদ তাদের উপর নেমে আসবে। সা'দী মুহূর্তটাকে রাখেন সেখানে, যখন আযাব তাদের মধ্যে পুরো মাত্রায় পৌঁছে গেছে। ক্ষুধা তখন সীমা ছাড়িয়েছে, পিপাসা যন্ত্রণা দিচ্ছে। এই লেখায় আয়াতটি পড়া হবে ৭:৫১ থেকে ৭:৫৩ পর্যন্ত আয়াতগুলোর সঙ্গে মিলিয়ে, কারণ এর জবাবটা থেমে না থেকে সোজা ওই আয়াতগুলোতে গিয়ে মেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pour On Us, Or Feed Us",
+          "bn": "ঢেলে দাও, নয়তো খেতে দাও"
+        },
+        "p": [
+          {
+            "en": "An afidu 'alayna mina al-ma': pour on us some of the water. Al-Baghawi glosses afidu simply as pour, and al-Qurtubi defines ifada as widening, as one says that someone poured his favours over another. The second half, aw mimma razaqakumu Allah, is read as food: at-Tabari and Ibn Kathir both carry as-Suddi's one-word gloss, food, and Ibn Zayd's line that they ask them for food and ask them for drink. Al-Qurtubi draws a small lesson from the pairing: the son of Adam cannot do without food and drink, even in the punishment.",
+            "bn": "আন আফীদূ আলাইনা মিনাল মা: আমাদের উপর কিছু পানি ঢেলে দাও। বাগাভী আফীদূ শব্দের অর্থ করেন সোজা কথায়, ঢালো। কুরতুবী ইফাদা মানে বলেন প্রশস্ত করে দেওয়া, যেমন বলা হয়, সে অমুকের উপর তার অনুগ্রহ ঢেলে দিল। দ্বিতীয় অংশ, আও মিম্মা রাযাকাকুমুল্লাহ, তাফসীরকারেরা খাবার অর্থে নেন। তাবারী ও ইবন কাসীর দুজনেই সুদ্দীর এক শব্দের ব্যাখ্যা আনেন: খাবার। ইবন যায়দের কথাও আনেন: তারা খাবার চাইবে, পানীয়ও চাইবে। এই জোড়া থেকে কুরতুবী একটা ছোট শিক্ষা বের করেন। আদমসন্তান খাবার আর পানীয় ছাড়া চলতে পারে না, আযাবের মধ্যে থাকলেও না।"
+          },
+          {
+            "en": "The reports make the scene personal. At-Tabari carries, through Sa'id ibn Jubayr from Ibn Abbas, that a man calls to his brother or his father: I am burned, pour some water on me. The people of Paradise are told, answer them, and they say: Allah has forbidden both to the disbelievers. Ibn Kathir has it too. Al-Baghawi reports through 'Ata from Ibn Abbas that they recognised their relatives in Paradise and called them by name.",
+            "bn": "বর্ণনাগুলো দৃশ্যটাকে একেবারে ঘরের কাছে নিয়ে আসে। তাবারী সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: একজন লোক তার ভাই কিংবা বাবাকে ডেকে বলবে, আমি পুড়ে গেছি, আমার উপর একটু পানি ঢেলে দাও। জান্নাতবাসীদের বলা হবে, ওদের জবাব দাও। তারা বলবে, আল্লাহ এ দুটো কাফিরদের জন্য হারাম করেছেন। ইবন কাসীরেও বর্ণনাটি আছে। বাগাভী আতার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, জাহান্নামবাসীরা জান্নাতে নিজেদের আত্মীয়দের চিনে ফেলবে আর নাম ধরে তাদের ডাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forbidden, the Two Together",
+          "bn": "দুটোই হারাম, একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Inna Allaha harramahuma 'ala al-kafirin: Allah has forbidden both of them to the disbelievers. At-Tabari explains that the dual pronoun points back to the water and to the whatever of what Allah has provided you, so the reply is that Allah has forbidden water and food to those who denied His oneness and belied His messengers in the world. The Muyassar says the same. Ibn Zayd, in at-Tabari and Ibn Kathir, and as-Sa'di after him, make it specific: the food and drink of Paradise.",
+            "bn": "ইন্নাল্লাহা হাররামাহুমা আলাল কাফিরীন: আল্লাহ এ দুটো কাফিরদের জন্য হারাম করেছেন। তাবারী বুঝিয়ে দেন, দ্বিবচনের সর্বনামটা ফিরে যায় পানির দিকে, আর 'আল্লাহ তোমাদের যা দিয়েছেন' কথাটার 'যা'-এর দিকে। তাই জবাবের অর্থ দাঁড়ায়: যারা দুনিয়ায় তাঁর তাওহীদ অস্বীকার করেছে আর তাঁর রাসূলদের মিথ্যা বলেছে, তাদের জন্য আল্লাহ পানি ও খাবার হারাম করেছেন। মুয়াসসারও একই কথা বলে। তাবারী ও ইবন কাসীরে ইবন যায়দ, আর তাঁর পরে সা'দী, কথাটাকে নির্দিষ্ট করে দেন: জান্নাতের খাবার আর জান্নাতের পানীয়।"
+          },
+          {
+            "en": "At-Tabari also names what the thirst answers to. He calls it a punishment from Allah for what they did in the world: leaving obedience to Allah, and not paying from their wealth what He had made due to the poor, the zakah and the charity. In the report from Ibn Abbas, the people of Paradise do not decide on their own to refuse; they are told to answer, and the answer they give is what Allah has forbidden. Those who held back what was due to the needy are now the ones in need, asking.",
+            "bn": "পিপাসাটা কিসের জবাব, তাবারী সেটাও বলে দেন। তাঁর ভাষায় এ আল্লাহর পক্ষ থেকে শাস্তি, দুনিয়ায় তারা যা করেছিল তার বদলে। তারা আল্লাহর আনুগত্য ছেড়ে দিয়েছিল। নিজেদের সম্পদে মিসকিনদের যে হক আল্লাহ ফরজ করেছিলেন, সেই যাকাত আর সদকা তারা আদায় করেনি। ইবন আব্বাস (রাঃ)-এর বর্ণনায় জান্নাতবাসীরা নিজেরা ঠিক করে প্রত্যাখ্যান করে না। তাদের জবাব দিতে বলা হয়, আর তারা জানিয়ে দেয় আল্লাহ কী হারাম করেছেন। যারা একদিন অভাবীর হক আটকে রেখেছিল, আজ তারাই অভাবী হয়ে হাত পাতছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water as the Charity Named",
+          "bn": "যে সদকার নাম পানি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi finds a ruling inside the plea. He writes that the verse is evidence that giving water to drink is among the best of deeds. He reports that Ibn Abbas, asked which charity is best, answered: water; have you not seen the people of the Fire when they sought help from the people of Paradise, pour on us some of the water? Ibn Kathir carries a version through Ibn Abi Hatim that makes these the Prophet's words; it could not be checked in a graded collection, so it is not quoted here.",
+            "bn": "কুরতুবী এই কাকুতির ভেতরেই একটা বিধান খুঁজে পান। আয়াতটির আলোচনায় তাঁর দ্বিতীয় কথা হলো, এ আয়াত প্রমাণ করে যে মানুষকে পানি পান করানো শ্রেষ্ঠ আমলগুলোর একটি। তিনি জানান, ইবন আব্বাস (রাঃ)-কে জিজ্ঞেস করা হয়েছিল কোন সদকা সবচেয়ে উত্তম। তিনি বলেছিলেন: পানি। তোমরা কি দেখোনি, জাহান্নামবাসীরা যখন জান্নাতবাসীদের কাছে সাহায্য চাইবে, বলবে, আমাদের উপর কিছু পানি ঢেলে দাও? ইবন কাসীর ইবন আবী হাতিমের সূত্রে এর একটা লম্বা রূপ আনেন, যেখানে কথাগুলো নবী ﷺ-এর। মান-নির্ণীত কোনো সংকলনে সেটি এখানে মিলিয়ে দেখা যায়নি। তাই এই লেখা ওই কথাগুলো নবী ﷺ-এর বাণী হিসেবে উদ্ধৃত করছে না।"
+          },
+          {
+            "en": "Al-Qurtubi then cites Abu Dawud. Sunan Abu Dawud 1681, in the English of the page consulted, reads in full: Narrated Sa'd ibn Ubadah: Sa'd asked: Messenger of Allah, Umm Sa'd has died; what form of sadaqah is best? He replied: Water (is best). He dug a well and said: It is for Umm Sa'd. The page carries no grading from Abu Dawud, and the chain as printed runs through a man it leaves unnamed. The report is not attached to the verse.",
+            "bn": "এরপর কুরতুবী আবু দাউদের বর্ণনা আনেন। আবু দাউদের ১৬৮১ নম্বর হাদিস, যে পাতা দেখা হয়েছে তার ভাষ্যে, পুরোটা এই: সা'দ ইবন উবাদা (রাঃ) বলেন, সা'দ জিজ্ঞেস করলেন, হে আল্লাহর রাসূল, উম্মে সা'দ মারা গেছেন, কোন সদকা সবচেয়ে উত্তম? তিনি বললেন: পানি। তখন তিনি একটি কূপ খুঁড়লেন আর বললেন, এটি উম্মে সা'দের জন্য। ওই পাতায় আবু দাউদের দেওয়া কোনো মান নেই। আর ছাপা সনদটি এমন একজনের মধ্য দিয়ে গেছে, যার নাম বলা হয়নি। বর্ণনাটি এই আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Al-Qurtubi also brings Sahih al-Bukhari (2363). A man walking on a road grew thirsty, went down into a well and drank, and came up to find a dog panting and eating mud from thirst. He went back down, filled his shoe with water, held it in his teeth, climbed up and gave the dog a drink, and Allah thanked him and forgave him. Asked whether there is reward even in animals, the Prophet said, in the page's English: Yes, there is a reward for serving any animate. This too is general, not attached to 7:50.",
+            "bn": "কুরতুবী বুখারী থেকেও একটি বর্ণনা আনেন, যা সহীহ বুখারীর ২৩৬৩ নম্বরে আছে। এক লোক পথ চলতে চলতে ভীষণ পিপাসার্ত হলো। একটা কুয়ায় নেমে পানি খেয়ে উঠে এসে দেখল, একটা কুকুর হাঁপাচ্ছে, পিপাসায় ভেজা মাটি চাটছে। লোকটা আবার নামল, নিজের মোজায় পানি ভরল, দাঁতে কামড়ে ধরে উপরে উঠল, তারপর কুকুরটাকে পানি খাওয়াল। আল্লাহ তার এই কাজের কদর করলেন এবং তাকে মাফ করে দিলেন। সাহাবীরা জানতে চাইলেন, পশুর বেলাতেও কি সওয়াব আছে? নবী ﷺ বললেন: হ্যাঁ, প্রতিটি প্রাণীর সেবায় সওয়াব আছে। এ বর্ণনাও সাধারণ, ৭:৫০-এর সঙ্গে যুক্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Religion Kept for Amusement",
+          "bn": "দ্বীন যখন তামাশার বস্তু"
+        },
+        "p": [
+          {
+            "en": "Alladhina ittakhadhu dinahum lahwan wa la'iban: who took their religion as distraction and play. At-Tabari reads this as the reply of the people of Paradise still running on, describing the disbelievers: they took the religion Allah commanded them as mockery and play. Through 'Ali ibn Abi Talha he carries from Ibn Abbas that when they were called to faith, they mocked whoever called them, deceived about Allah. Al-Qurtubi notes that the clause can describe al-kafirin, and that it is said to be the speech of the people of Paradise.",
+            "bn": "আল্লাযীনাত তাখাযূ দীনাহুম লাহওয়াঁও ওয়া লাইবা: যারা নিজেদের দ্বীনকে খেলা আর তামাশা বানিয়েছিল। তাবারী একে জান্নাতবাসীদের জবাবেরই ধারাবাহিক অংশ হিসেবে পড়েন। জবাবটা তখন কাফিরদের পরিচয় দিচ্ছে: আল্লাহ যে দ্বীন মানতে বলেছিলেন, তারা তাকে ঠাট্টা আর খেলা বানিয়েছিল। আলী ইবন আবী তালহার সূত্রে তিনি ইবন আব্বাস (রাঃ) থেকে আনেন, তাদের যখন ঈমানের দিকে ডাকা হতো, যে ডাকত তাকে নিয়েই তারা উপহাস করত, আল্লাহর ব্যাপারে ধোঁকায় পড়ে। কুরতুবী বলেন, বাক্যাংশটি 'কাফিরীন' শব্দের বিশেষণ হতে পারে। তিনি এ কথাও জানান যে, বলা হয়েছে এটি জান্নাতবাসীদের কথা।"
+          },
+          {
+            "en": "Al-Baghawi names what the play looked like in the days before Islam: forbidding the bahira and the animals like it, whistling and clapping around the House, and other blameworthy customs Satan made attractive. As-Sa'di gives two readings: their hearts turned away from the religion and they mocked it, or they put amusement in its place. Then wa gharrat-humu al-hayatu ad-dunya: at-Tabari says the ease close at hand cheated them of their share of the Hereafter until death reached them.",
+            "bn": "ইসলামের আগের যুগে এই খেলা দেখতে কেমন ছিল, বাগাভী তা বলে দেন। শয়তান যা তাদের চোখে সুন্দর করে দেখিয়েছিল: বাহীরা ও তার মতো পশুগুলোকে হারাম করা, কাবার চারপাশে শিস দেওয়া আর হাততালি দেওয়া, আর জাহিলী যুগের অন্যান্য নিন্দনীয় রীতি। সা'দী দুটি পাঠ দেন। এক, তাদের অন্তর দ্বীন থেকে মুখ ফিরিয়ে নিয়েছিল আর তারা দ্বীনকে উপহাস করত। দুই, দ্বীনের জায়গায় তারা খেলাধুলাকেই বসিয়ে দিয়েছিল। তারপর ওয়া গাররাতহুমুল হায়াতুদ দুনইয়া: তাবারী বলেন, হাতের কাছের আরাম-আয়েশ তাদের ধোঁকা দিয়ে আখিরাতের ভাগ থেকে বঞ্চিত রেখেছিল, যতক্ষণ না মৃত্যু এসে পড়ল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left Just as They Left",
+          "bn": "যেমন ছেড়েছিল, তেমনি ছেড়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "Fa-al-yawma nansahum kama nasu liqa'a yawmihim hadha: so today We forget them as they forgot the meeting of this Day of theirs. Ibn Kathir explains it as: We treat them as one who has forgotten them, because nothing escapes His knowledge and He forgets nothing, and he cites 20:52, my Lord neither errs nor forgets. He says it was said by way of matching the deed with its like, as in 9:67, they forgot Allah so He forgot them, and in 20:126 and 45:34.",
+            "bn": "ফালইয়াওমা নানসাহুম কামা নাসূ লিকাআ ইয়াওমিহিম হাযা: তাই আজ আমি তাদের ভুলে যাব, যেমন তারা এই দিনের সাক্ষাৎ ভুলে গিয়েছিল। ইবন কাসীরের ব্যাখ্যা: আমি তাদের সঙ্গে এমন আচরণ করব, যেমন আচরণ করা হয় ভুলে যাওয়া কারও সঙ্গে। কারণ তাঁর জ্ঞান থেকে কিছুই ছুটে যায় না, আর তিনি কিছুই ভোলেন না। এর প্রমাণে তিনি আনেন ২০:৫২, আমার রব ভুল করেন না, ভুলেও যান না। তিনি বলেন, কথাটা এসেছে কাজের বদলে সমান জবাব দেওয়ার রীতিতে, যেমন ৯:৬৭, তারা আল্লাহকে ভুলে গেছে, তাই তিনিও তাদের ভুলে গেছেন। একই রকম আছে ২০:১২৬ ও ৪৫:৩৪-এ।"
+          },
+          {
+            "en": "The early glosses give the verb the sense of leaving. Ibn Kathir carries from Ibn Abbas, through 'Ali ibn Abi Talha, We leave them as they left the meeting; from Mujahid, We leave them in the Fire; and from as-Suddi, We leave them out of mercy as they left working for the meeting. At-Tabari has that last wording through 'Ali from Ibn Abbas instead. Through al-'Awfi, Ibn Abbas says Allah forgot them in the good, not in the evil. At-Tabari's own gloss: We leave them in the punishment, hungry and thirsty.",
+            "bn": "প্রথম যুগের ব্যাখ্যাকারেরা ক্রিয়াটির অর্থ নেন ছেড়ে দেওয়া। ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: তারা যেমন সাক্ষাৎকে ছেড়ে দিয়েছিল, আমি তাদের তেমনি ছেড়ে দেব। মুজাহিদ থেকে: তাদের জাহান্নামে ছেড়ে রাখব। সুদ্দী থেকে: তারা যেমন সাক্ষাতের জন্য আমল ছেড়ে দিয়েছিল, আমিও তাদের রহমত থেকে বাদ দিয়ে রাখব। তাবারী এই শেষ কথাটাই আনেন আলীর সূত্রে ইবন আব্বাস (রাঃ) থেকে। আওফীর সূত্রে ইবন আব্বাস (রাঃ) বলেন, আল্লাহ তাদের ভুলে গেছেন কল্যাণের বেলায়, মন্দের বেলায় নয়। তাবারীর নিজের ব্যাখ্যা: আমি তাদের আযাবের মধ্যে ছেড়ে রাখব, ক্ষুধার্ত আর পিপাসার্ত অবস্থায়।"
+          },
+          {
+            "en": "Ibn Kathir adds a report he says is in the Sahih, and it is in Sahih Muslim (2968), inside a longer hadith of Abu Hurayra about the Day of Resurrection. Allah meets a servant and reminds him of the honour, the spouse and the horses and camels He gave him. In the English of the page consulted: Did you not think that you would meet Us? And he would say: No. Thereupon He (Allah) would say: Well, We forget you as you forgot Us.",
+            "bn": "ইবন কাসীর একটি বর্ণনা যোগ করেন, যা তাঁর ভাষায় সহীহতে আছে। সেটি আছে সহীহ মুসলিমের ২৯৬৮ নম্বরে, কিয়ামতের দিন নিয়ে আবু হুরায়রা (রাঃ)-এর এক দীর্ঘ হাদিসের ভেতরে। আল্লাহ এক বান্দার সঙ্গে সাক্ষাৎ করবেন, আর তাকে মনে করিয়ে দেবেন সম্মান, স্ত্রী, ঘোড়া আর উটের কথা, যা তিনি তাকে দিয়েছিলেন। তারপর জিজ্ঞেস করবেন: তুমি কি ভেবেছিলে যে আমার সঙ্গে তোমার সাক্ষাৎ হবে? সে বলবে: না। তখন আল্লাহ বলবেন: তাহলে আমি তোমাকে ভুলে যাব, যেমন তুমি আমাকে ভুলে গিয়েছিলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Book Set Out Knowingly",
+          "bn": "জেনে-বুঝে খুলে বলা কিতাব"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad ji'nahum bi-kitabin fassalnahu 'ala 'ilm: and We had brought them a Book, set out in detail upon knowledge. At-Tabari says the Book is the Qur'an, set out so that truth stands apart from falsehood, upon Allah's knowledge of the truth of what it sets out. Ibn Kathir reads it with 4:166, He sent it down with His knowledge. Al-Qurtubi says no oversight or error entered it. The Muyassar and al-Qurtubi explain why it is guidance and mercy for a people who believe: they are the ones who benefit from it.",
+            "bn": "ওয়া লাকাদ জি'নাহুম বিকিতাবিন ফাসসালনাহু আলা ইলম: আমি তাদের কাছে এমন এক কিতাব এনেছিলাম, যা জ্ঞানের ভিত্তিতে বিশদ করে বলা। তাবারী বলেন, কিতাব মানে কুরআন। একে এমনভাবে খুলে বলা হয়েছে যে সত্য মিথ্যা থেকে আলাদা হয়ে দাঁড়ায়। আর যা খুলে বলা হয়েছে তার সত্যতা আল্লাহর জানা। ইবন কাসীর এর সঙ্গে মিলিয়ে পড়েন ৪:১৬৬, তিনি তা নাযিল করেছেন নিজের জ্ঞানসহ। কুরতুবী বলেন, এতে কোনো ভুলচুক বা অসাবধানতা ঢোকেনি। মুমিন সম্প্রদায়ের জন্যই কেন এটি হিদায়াত ও রহমত, মুয়াসসার আর কুরতুবী তা বুঝিয়ে দেন: উপকার তো তারাই পায়।"
+          },
+          {
+            "en": "Here at-Tabari and Ibn Kathir differ over where the verse attaches. At-Tabari says it is turned back on 7:2, a Book sent down to you, so let there be no discomfort in your chest from it. Ibn Kathir quotes him and says the view is open to question: the gap is long, and there is no evidence for it. He reads the verse instead as following from the loss just described: Allah states that He had already removed their excuses in this world by sending messengers and Books, as in 17:15.",
+            "bn": "আয়াতটি কোথায় গিয়ে যুক্ত, তা নিয়ে তাবারী ও ইবন কাসীরের মত আলাদা। তাবারী বলেন, এটি ফিরে গেছে ৭:২-এর দিকে: আপনার প্রতি নাযিল করা এক কিতাব, তাই এ নিয়ে আপনার মনে যেন কোনো সংকোচ না থাকে। ইবন কাসীর তাঁর কথা উদ্ধৃত করে বলেন, এ মত প্রশ্নসাপেক্ষ। দুই আয়াতের মাঝে ব্যবধান অনেক, আর এর পক্ষে কোনো দলিল নেই। তিনি বরং আয়াতটিকে পড়েন সদ্য বলা ক্ষতির ধারাবাহিকতায়। আখিরাতে তারা কোথায় গিয়ে ঠেকল তা জানানোর পর আল্লাহ বলছেন, দুনিয়াতেই রাসূল পাঠিয়ে আর কিতাব নাযিল করে তিনি তাদের সব অজুহাত দূর করে দিয়েছিলেন, যেমন ১৭:১৫-এ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Awaiting What It Comes To",
+          "bn": "পরিণতির অপেক্ষায় থাকা"
+        },
+        "p": [
+          {
+            "en": "Hal yanzuruna illa ta'wilah: are they waiting for anything but its ta'wil? At-Tabari takes it as what their matter comes to, their arrival at Allah's punishment. The glosses he gathers differ in wording: Mujahid, its recompense; Qatada, in one report its reward and in another its outcome; as-Suddi, its consequences, such as Badr and the Resurrection. Ar-Rabi' ibn Anas says matters from its ta'wil keep coming one after another until it is complete on the Day of Resurrection. Ibn Zayd says its reality, citing 12:100, and as-Sa'di reads it as the coming to pass of what it foretold.",
+            "bn": "হাল ইয়ানযুরূনা ইল্লা তা'বীলাহ: তারা কি এর তা'বীলেরই অপেক্ষা করছে? তাবারী তা'বীল মানে নেন তাদের ব্যাপারটা শেষে যেখানে গিয়ে দাঁড়ায়, অর্থাৎ আল্লাহর আযাবে গিয়ে পড়া। তাঁর জড়ো করা ব্যাখ্যাগুলোর ভাষা আলাদা। মুজাহিদ বলেন, এর প্রতিদান। কাতাদা একটা বর্ণনায় বলেন এর সওয়াব, আরেক বর্ণনায় এর পরিণাম। সুদ্দী বলেন, এর পরিণতিগুলো, যেমন বদর আর কিয়ামত। রাবী' ইবন আনাস বলেন, এর তা'বীল একের পর এক ঘটতেই থাকে, কিয়ামতের দিন গিয়ে পূর্ণ হয়। ইবন যায়দ বলেন, এর বাস্তবতা, আর প্রমাণে আনেন ১২:১০০। সা'দী বলেন, কিতাব যা জানিয়েছে তার বাস্তবে ঘটে যাওয়া।"
+          },
+          {
+            "en": "When it comes, those who forgot it before, which Ibn Kathir explains as those who left acting on it, admit that the messengers brought the truth, and ask for intercessors or a return to do otherwise. Ibn Kathir sets this beside 6:27 and 6:28, where they ask to be sent back and are told they would return to what they were forbidden. As-Sa'di calls the request a lie meant only to ward off what has struck them, and their loss of themselves a loss with no making good, unlike losing wealth or children.",
+            "bn": "যেদিন তা আসবে, যারা আগে একে ভুলে ছিল, ইবন কাসীরের ব্যাখ্যায় যারা এর উপর আমল ছেড়ে দিয়েছিল, তারা স্বীকার করবে যে রাসূলগণ সত্যই এনেছিলেন। তারপর সুপারিশকারী খুঁজবে, নয়তো ফিরে গিয়ে অন্যরকম আমল করার সুযোগ চাইবে। ইবন কাসীর এর পাশে রাখেন ৬:২৭ ও ৬:২৮, যেখানে তারা ফিরে যেতে চায়, আর জানিয়ে দেওয়া হয় যে ফিরলেও তারা নিষিদ্ধ কাজেই ফিরে যেত। সা'দী বলেন, ফিরে যাওয়ার এই আবদার মিথ্যা, এর উদ্দেশ্য শুধু ঘাড়ে চেপে বসা বিপদ ঠেকানো। আর নিজেদের হারিয়ে ফেলার ক্ষতি এমন, যা পূরণ হয় না, সম্পদ বা সন্তান হারানোর মতো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Cup Is Ours",
+          "bn": "পেয়ালা যতক্ষণ হাতে"
+        },
+        "p": [
+          {
+            "en": "These verses describe people of the Fire as the text describes them: those who made their religion a pastime and denied Allah's signs. They describe; they assign no one. They license nothing against any living person or community, and they give no one leave to call another a person of the Fire, or to hold back water, food or kindness on that ground. The reply in 7:50 belongs to that Day and to Allah's ruling. In this world the narrations above point the other way: a man was forgiven for giving water to a dog.",
+            "bn": "এই আয়াতগুলো জাহান্নামবাসীদের বর্ণনা দেয়, ঠিক যেভাবে কুরআন তাদের বর্ণনা করেছে: যারা দ্বীনকে খেলা বানিয়েছিল আর আল্লাহর আয়াত অস্বীকার করেছিল। আয়াতগুলো বর্ণনা দেয়, কাউকে চিহ্নিত করে না। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এরা কোনো কিছুর অনুমতি দেয় না। কাউকে জাহান্নামী বলে দাগানোর, কিংবা সেই অজুহাতে কারও পানি, খাবার বা সদাচরণ আটকে রাখার অধিকারও কাউকে দেয় না। ৭:৫০-এর জবাবটা সেই দিনের, আর আল্লাহর ফয়সালার। এই দুনিয়ায় উপরের বর্ণনাগুলো দেখায় উল্টো পথ: কুকুরকে পানি খাইয়ে এক লোক মাফ পেয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Water is still something we can pour for others, and al-Qurtubi counts giving it among the best of deeds. The meeting of that Day is still ahead, and the verses have shown what forgetting it looks like: religion held as a pastime, the near life taken as enough, the Book left without being acted on. Its ta'wil has not yet arrived for any of us. A cup poured today, and a command of the Book acted on today, are how 7:50 is taken while it can still be taken.",
+            "bn": "পানি এখনো এমন জিনিস, যা আমরা অন্যের জন্য ঢেলে দিতে পারি। কুরতুবী পানি পান করানোকে শ্রেষ্ঠ আমলগুলোর মধ্যে গুনেছেন। সেই দিনের সাক্ষাৎ এখনো সামনে। আর আয়াতগুলো দেখিয়ে দিয়েছে, তা ভুলে থাকা দেখতে কেমন: দ্বীনকে খেলার জিনিস বানানো, দুনিয়ার জীবনকেই যথেষ্ট ভাবা, কিতাব হাতে থাকলেও তার উপর আমল না করা। আমাদের কারও জন্যই এর তা'বীল এখনো আসেনি। আজ কাউকে এক পেয়ালা পানি ঢেলে দেওয়া, আর কিতাবের একটা হুকুমের উপর আজই আমল করা, এভাবেই ৭:৫০ আয়াতকে গ্রহণ করা যায়, যতক্ষণ গ্রহণ করার সময় আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "7:54": {
     "sections": [
       {
