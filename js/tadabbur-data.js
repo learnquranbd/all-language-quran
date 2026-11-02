@@ -20371,6 +20371,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Spreading fear and seizing what is others' is war on Allah's order. Turn back before you are overtaken, and leave sentences to lawful judgment.",
     "lessonBn": "ভয় ছড়ানো আর অন্যের সম্পদ কেড়ে নেওয়া আল্লাহর বিধানের বিরুদ্ধে যুদ্ধ। ধরা পড়ার আগেই ফিরে আসুন, আর শাস্তির রায় বৈধ বিচারের হাতে ছেড়ে দিন।"
+  },
+  "5:101": {
+    "reflectionEn": "Some questions are asked to learn. Others are asked to test someone, to expose something, or simply to hear it said aloud. This verse speaks to the second kind. Not every hidden thing is better uncovered: an answer can arrive as a burden I cannot carry, or as news about someone that only sours me towards them. Allah has left some matters without a ruling, and the verse calls that silence a pardon, not a gap for my curiosity to fill. The door to learning stays open. Asking about what I need in order to act, and asking those who know, is how ignorance ends. So before I ask, I can put one question to myself: what will I do with the answer?",
+    "reflectionBn": "কিছু প্রশ্ন মানুষ করে জানার জন্য। আবার কিছু প্রশ্ন করে কাউকে পরখ করতে, কিছু ফাঁস করতে, কিংবা কথাটা কারও মুখ থেকে শুনে নিতে। এ আয়াত কথা বলছে দ্বিতীয় ধরনের প্রশ্ন নিয়ে। লুকানো সব জিনিস খুলে ফেলাই ভালো নয়। কোনো উত্তর এমন বোঝা হয়ে আসতে পারে যা বইবার সাধ্য আমার নেই। কোনো উত্তর আবার কারও সম্পর্কে এমন খবর দেয়, যা শুধু তার প্রতি আমার মন বিষিয়ে তোলে। কিছু বিষয়ে আল্লাহ কোনো বিধান দেননি। আয়াত সেই নীরবতাকে বলছে ক্ষমা, আমার কৌতূহল দিয়ে ভরাট করার মতো ফাঁকা জায়গা নয়। তবে শেখার দরজা খোলাই আছে। আমল করতে যা জানা দরকার তা জিজ্ঞেস করা, যিনি জানেন তাঁকে জিজ্ঞেস করা, এভাবেই অজ্ঞতা দূর হয়। তাই প্রশ্ন করার আগে নিজেকে একটা প্রশ্ন করে নেওয়া যায়: উত্তরটা পেলে আমি তা দিয়ে কী করব?",
+    "pointsEn": [
+      "Which of my questions this week were asked to understand, and which to catch someone out or win an argument?",
+      "Is there something about another person I keep trying to find out, though knowing it would only change how I look at them?",
+      "Where have I made my religion heavier than Allah made it, by digging for a strictness He left unsaid?",
+      "What do I really need to know in order to worship as I should, and have I asked someone who knows?",
+      "When an answer I went looking for hurts, do I blame the answer, or look at why I asked?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আমার কোন প্রশ্নগুলো ছিল বোঝার জন্য, আর কোনগুলো কাউকে ধরার বা তর্কে জেতার জন্য?",
+      "অন্য কারও এমন কোনো বিষয় কি আছে যা জানার জন্য আমি বারবার খোঁজ করি, অথচ জানলে শুধু তার দিকে তাকানোর চোখটাই বদলে যাবে?",
+      "আল্লাহ যে কড়াকড়ির কথা বলেননি, তা খুঁড়ে বের করতে গিয়ে আমি কোথায় দীনকে তাঁর রাখা ভারের চেয়ে ভারী করে ফেলেছি?",
+      "ঠিকভাবে ইবাদত করতে আমার আসলে কী জানা দরকার? আর তা কি আমি এমন কাউকে জিজ্ঞেস করেছি যিনি জানেন?",
+      "নিজে খুঁজে আনা কোনো উত্তর যখন কষ্ট দেয়, আমি কি উত্তরকে দোষ দিই, নাকি ভেবে দেখি কেন প্রশ্নটা করেছিলাম?"
+    ],
+    "lessonEn": "Ask what you need in order to act, and leave alone what Allah left unsaid: some answers burden or wound, and His silence is a pardon.",
+    "lessonBn": "আমল করতে যা জানা দরকার তা জিজ্ঞেস করুন, আর আল্লাহ যা বলেননি তা নিয়ে খোঁড়াখুঁড়ি ছেড়ে দিন। কিছু উত্তর বোঝা চাপায় বা কষ্ট দেয়, আর তাঁর নীরবতা এক ক্ষমা।"
   }
 };
 

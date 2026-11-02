@@ -3591,6 +3591,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:101": {
+    "sections": [
+      {
+        "h": {
+          "en": "Restraint After the Conveying",
+          "bn": "পৌঁছে দেওয়ার পর সংযম"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier, 5:99 settles what the Messenger owes: nothing but to convey, while Allah knows what people show and hide. Then 5:101 turns to the believers and asks restraint of them. Ya ayyuha alladhina amanu, la tas'alu 'an ashya': O you who believe, do not ask about things which, if shown to you, would distress you. Ibn Kathir calls the verse a ta'dib, a lesson in manners from Allah to His believing servants, forbidding questions that bring them no benefit.",
+            "bn": "দুই আয়াত আগে ৫:৯৯ ঠিক করে দেয় রাসূলের দায়িত্ব কতটুকু: শুধু পৌঁছে দেওয়া। মানুষ কী প্রকাশ করে আর কী লুকায়, আল্লাহ তা জানেন। তারপর ৫:১০১ ফিরছে মুমিনদের দিকে, আর তাদের কাছে চাইছে সংযম। ইয়া আইয়ুহাল্লাযীনা আমানূ, লা তাসআলূ আন আশইয়া: হে মুমিনগণ, এমন বিষয়ে প্রশ্ন করো না, যা তোমাদের সামনে প্রকাশ করা হলে তোমাদের কষ্ট দেবে। ইবন কাসীর আয়াতটিকে বলেন তা'দীব, অর্থাৎ মুমিন বান্দাদের প্রতি আল্লাহর আদব শেখানো। যে প্রশ্নে তাদের কোনো লাভ নেই, তা থেকে তিনি তাদের নিষেধ করছেন।"
+          },
+          {
+            "en": "The verse ends gently, with two names, Ghafur and Halim, Forgiving and Forbearing. The next verse gives the warning behind the manners: in 5:102 a people before you asked such things and then came to disbelieve in them. Then 5:103 names the bahirah, the sa'ibah, the wasilah and the ham, and declares that Allah never appointed any of them. Some early authorities tied 5:101 to questions about exactly those names, as the fifth section shows.",
+            "bn": "আয়াত শেষ হয় কোমল সুরে, দুটি নামে: গাফূর ও হালীম, ক্ষমাশীল ও সহনশীল। পরের আয়াতে আদবের পেছনের সতর্কবাণী। ৫:১০২ বলে, তোমাদের আগে এক জাতি এমন প্রশ্ন করেছিল, তারপর সেগুলোর কারণেই কাফির হয়ে গিয়েছিল। এরপর ৫:১০৩ আয়াতে বাহীরা, সাইবা, ওয়াসীলা ও হামের নাম, আর ঘোষণা যে আল্লাহ এগুলোর কোনোটিই নির্ধারণ করেননি। পূর্বসূরিদের কেউ কেউ ৫:১০১ আয়াতকে ঠিক এই নামগুলো নিয়ে করা প্রশ্নের সঙ্গে জুড়েছেন। পঞ্চম অংশে সে কথা আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown, and Then Grieving",
+          "bn": "প্রকাশ, তারপর কষ্ট"
+        },
+        "p": [
+          {
+            "en": "Two verbs carry the warning. Tubda, from the root b-d-w, is to be made to appear; tasu'kum, from s-w-', is to grieve or trouble. At-Tabari glosses the pair: if We disclosed to you the reality of what you ask about, its disclosure would grieve you. Notice that tubda lakum comes twice. The first time it is a warning, shown and then grieving; the second time, later in the verse, it is a promise.",
+            "bn": "সতর্কবাণী বহন করছে দুটি ক্রিয়া। তুবদা এসেছে ব-দ-ও ধাতু থেকে, মানে প্রকাশ করে দেওয়া হওয়া। তাসু'কুম এসেছে স-ও-আ ধাতু থেকে, মানে কষ্ট দেওয়া, মন খারাপ করে দেওয়া। তাবারী জোড়াটির ব্যাখ্যা দেন এভাবে: তোমরা যা জিজ্ঞেস করছ, তার আসল রূপ যদি আমি তোমাদের সামনে খুলে দিই, তবে সেই প্রকাশই তোমাদের কষ্ট দেবে। খেয়াল করুন, তুবদা লাকুম কথাটা দুবার এসেছে। প্রথমবার সতর্কবাণী: প্রকাশ পাবে, তারপর কষ্ট দেবে। আয়াতের পরের অংশে দ্বিতীয়বার এসেছে প্রতিশ্রুতি হয়ে।"
+          },
+          {
+            "en": "Why would an answer grieve? At-Tabari names three ways. It might impose a deed with hardship and cost; it might forbid something in which they had room; or it might permit what they believed forbidden, moving them from what they had held true. Al-Baghawi reads the grief as the weight of a command: the man who asked about Hajj could not be sure it would not be made due every year, nor the man who asked about his lineage that he would not be traced to another man and shamed.",
+            "bn": "উত্তর কেন কষ্ট দেবে? তাবারী তিনটি পথ দেখান। উত্তর হয়তো এমন কোনো আমল চাপিয়ে দেবে, যাতে কষ্ট আর খরচ আছে। হয়তো এমন কিছু হারাম করে দেবে, যাতে তাদের ছাড় ছিল। কিংবা এমন কিছু হালাল করে দেবে, যা তারা হারাম মনে করত, আর তখন যা সত্য বলে মানত তা থেকে সরে আসতে হবে। বাগাভী কষ্টটাকে দেখেন আদেশের ভার হিসেবে। হজ নিয়ে যে প্রশ্ন করেছিল, সে নিশ্চিত ছিল না যে প্রতি বছর তা ফরজ হয়ে যাবে না। আর যে নিজের বংশ নিয়ে প্রশ্ন করেছিল, সে নিশ্চিত ছিল না যে উত্তরে অন্য কারও সঙ্গে তার বংশ জুড়ে গিয়ে সে লজ্জায় পড়বে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Quran Was Descending",
+          "bn": "যখন কুরআন নাযিল হচ্ছিল"
+        },
+        "p": [
+          {
+            "en": "Wa in tas'alu 'anha hina yunazzalu al-Qur'an tubda lakum: and if you ask about them while the Quran is being sent down, they will be shown to you. Ibn Kathir's first reading takes it plainly: ask about these very things while revelation is coming, and they will be made clear. At-Tabari reads it as permission with a condition: ask after the Quran has come down on a matter, and its explanation will be made easy for you. He relays Ibn 'Abbas: wait, and once the Quran comes down, you will find the answer to whatever you ask.",
+            "bn": "ওয়া ইন তাসআলূ আনহা হীনা ইউনাযযালুল কুরআনু তুবদা লাকুম: আর কুরআন নাযিল হওয়ার সময় যদি সেসব বিষয়ে প্রশ্ন কর, তবে তা তোমাদের কাছে প্রকাশ করা হবে। ইবন কাসীরের প্রথম ব্যাখ্যা সরল: ওহি আসার সময়ে ঠিক এই বিষয়গুলো জিজ্ঞেস করলে তা স্পষ্ট করে দেওয়া হবে। তাবারী একে পড়েন শর্তসহ অনুমতি হিসেবে। কোনো বিষয়ে কুরআন নাযিল হওয়ার পর জিজ্ঞেস করলে তার ব্যাখ্যা তোমাদের জন্য সহজ করে দেওয়া হবে। তিনি ইবন আব্বাসের কথা আনেন: অপেক্ষা করো। কুরআন নাযিল হলে যা-ই জিজ্ঞেস করবে, তার ব্যাখ্যা পেয়ে যাবে।"
+          },
+          {
+            "en": "Al-Qurtubi admits the clause is obscure, since the verse forbids asking and then seems to allow it. He reports al-Jurjani: the pronoun points to other things of the same kind, so the sense is, ask about rulings when the Quran comes down, or when you need its explanation. His example: the Quran gave the waiting period of the divorced, the widowed and the pregnant; asked about a woman who neither menstruates nor is pregnant, it answered in 65:4. What need touched, he concludes, was never forbidden.",
+            "bn": "কুরতুবী স্বীকার করেন, অংশটি অস্পষ্ট। আয়াত প্রথমে প্রশ্ন করতে নিষেধ করছে, তারপর যেন অনুমতি দিচ্ছে। তিনি জুরজানীর মত উল্লেখ করেন: সর্বনামটি একই ধরনের অন্য বিষয়ের দিকে ইঙ্গিত করছে। তাহলে অর্থ দাঁড়ায়, কুরআন নাযিলের সময় বিধান নিয়ে জিজ্ঞেস করো, কিংবা যখন ব্যাখ্যার প্রয়োজন পড়ে। তাঁর উদাহরণ: কুরআন তালাকপ্রাপ্তা, বিধবা ও গর্ভবতীর ইদ্দত বলে দিয়েছিল। যে নারীর হায়েয হয় না আর যে গর্ভবতীও নয়, তার কথা জিজ্ঞেস করা হলে উত্তর এল ৬৫:৪ আয়াতে। কুরতুবীর সিদ্ধান্ত: যে প্রশ্নের সত্যিকারের প্রয়োজন ছিল, তা কখনো নিষিদ্ধ ছিল না।"
+          },
+          {
+            "en": "What of this clause now that revelation has ended? Ma'arif al-Qur'an reads the time limit as a quiet sign that prophethood and revelation would close with the Quran's completion. After that, no question can make a thing obligatory or expose a secret through revelation, yet coining needless questions stays forbidden, since it wastes your time and other people's. Al-Qurtubi quotes Ibn 'Abd al-Barr to the same effect: asking today carries no fear that a prohibition or a permission will come down because of it.",
+            "bn": "ওহি তো এখন বন্ধ। তাহলে এই অংশের অর্থ এখন কী? মাআরিফুল কুরআন বলে, সময়ের এই সীমা নিজেই এক নীরব ইঙ্গিত: কুরআন পূর্ণ হলে নবুওয়াত ও ওহির ধারা শেষ হবে। তারপর কোনো প্রশ্নের কারণে আর কিছু ফরজ হবে না, ওহির মাধ্যমে কারও গোপন কথাও ফাঁস হবে না। তবু অপ্রয়োজনীয় প্রশ্ন বানানো নিষিদ্ধই থাকে, কারণ এতে নিজের আর অন্যের সময় নষ্ট হয়। কুরতুবী ইবন আবদিল বার-এর একই রকম বক্তব্য উদ্ধৃত করেন: আজ প্রশ্ন করলে এ ভয় নেই যে তার কারণে কোনো কিছু হারাম বা হালাল হয়ে নাযিল হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Father Named, a Pilgrimage Spared",
+          "bn": "পিতার নাম, হজের ভার থেকে রেহাই"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records from Anas (4621): The Prophet ﷺ delivered a sermon the like of which I had never heard before. He said, \"If you but knew what I know then you would have laughed little and wept much.\" On hearing that, the companions of the Prophet ﷺ covered their faces and the sound of their weeping was heard. A man said, \"Who is my father?\" The Prophet ﷺ said, \"So-and-so.\" So this verse was revealed: \"Ask not about things which, if made plain to you, may cause you trouble.\"",
+            "bn": "বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন (৪৬২১): নবী ﷺ এমন একটি খুতবা দিলেন, যেমনটা আমি আগে কখনো শুনিনি। তিনি বললেন, \"আমি যা জানি তা যদি তোমরা জানতে, তবে অল্প হাসতে আর বেশি কাঁদতে।\" এ কথা শুনে নবী ﷺ-এর সাহাবিরা মুখ ঢেকে ফেললেন, তাঁদের কান্নার আওয়াজ শোনা যাচ্ছিল। এক ব্যক্তি বলল, \"আমার পিতা কে?\" নবী ﷺ বললেন, \"অমুক।\" তখন এই আয়াত নাযিল হলো: \"এমন বিষয়ে প্রশ্ন করো না, যা তোমাদের কাছে প্রকাশ করা হলে তোমাদের কষ্ট দেবে।\""
+          },
+          {
+            "en": "Al-Bukhari (93) and Muslim (2359) name him: 'Abdullah ibn Hudhafah (RA), told, \"Your father is Hudhafah.\" Muslim's wording from Qatadah shows the wound behind the question: in quarrels, men called him the son of someone other than his father. In Muslim's report through Ibn Shihab, his mother rebuked him for risking her disgrace; he answered that he would have accepted whatever man the Prophet ﷺ named. Al-Qurtubi, from Ibn 'Abd al-Barr, says he accepted Islam early, emigrated to Abyssinia, was at Badr, and carried the Prophet's ﷺ letter to Kisra.",
+            "bn": "বুখারী (৯৩) ও মুসলিম (২৩৫৯) তাঁর নাম বলেছেন: আবদুল্লাহ ইবন হুযাফা (রাঃ)। তাঁকে বলা হয়েছিল, \"তোমার পিতা হুযাফা।\" কাতাদা সূত্রে মুসলিমের বর্ণনা প্রশ্নের পেছনের ক্ষতটা দেখায়: ঝগড়ার সময় লোকে তাঁকে অন্য লোকের ছেলে বলে ডাকত। ইবন শিহাব সূত্রে মুসলিমের বর্ণনায় তাঁর মা তাঁকে ভর্ৎসনা করেন, কারণ এতে মায়ের অসম্মানের ঝুঁকি ছিল। তিনি জবাব দেন, নবী ﷺ যে মানুষের নামই বলতেন, তিনি তাঁকেই পিতা মেনে নিতেন। কুরতুবী ইবন আবদিল বার-এর বরাতে জানান, তিনি শুরুর দিকে ইসলাম গ্রহণ করেন, হাবশায় হিজরত করেন, বদরে ছিলেন, আর নবী ﷺ-এর চিঠি নিয়ে কিসরার দরবারে গিয়েছিলেন।"
+          },
+          {
+            "en": "Muslim (1337) has Abu Hurairah's account: the Prophet ﷺ said Allah had made Hajj obligatory; a man asked, every year? He kept silent until it was asked three times, then said: \"If I were to say yes, it would become obligatory and you would not be able to do it,\" and \"Leave me with what I have left to you.\" Muslim's wording does not mention the verse. At-Tirmidhi (3055) links it through 'Ali and grades it hasan gharib; Ibn Kathir and al-Qurtubi relay al-Bukhari's remark that Abu al-Bakhtari never met 'Ali.",
+            "bn": "মুসলিম (১৩৩৭) আবু হুরায়রা (রাঃ)-র বর্ণনা এনেছেন: নবী ﷺ বললেন, আল্লাহ তোমাদের উপর হজ ফরজ করেছেন। এক ব্যক্তি জিজ্ঞেস করল, প্রতি বছর? তিনি চুপ রইলেন, প্রশ্নটা তিনবার করা হলো। তারপর বললেন, \"আমি যদি হ্যাঁ বলতাম, তবে তা ফরজ হয়ে যেত, আর তোমরা তা পারতে না।\" তিনি আরও বললেন, \"আমি তোমাদের যে অবস্থায় ছেড়ে রেখেছি, তোমরাও আমাকে সে অবস্থায় ছেড়ে দাও।\" মুসলিমের ভাষ্যে আয়াতের উল্লেখ নেই। তিরমিযী (৩০৫৫) আলী (রাঃ)-র সূত্রে একে আয়াতের সঙ্গে জোড়েন, আর মান দেন হাসান গরীব। ইবন কাসীর ও কুরতুবী বুখারীর মন্তব্য তুলে ধরেন: বর্ণনাকারী আবুল বাখতারী আলী (রাঃ)-র সাক্ষাৎ পাননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Questions, One Verse",
+          "bn": "অনেক প্রশ্ন, একটি আয়াত"
+        },
+        "p": [
+          {
+            "en": "Other reports point elsewhere. Al-Bukhari (4622) has Ibn 'Abbas say that some people asked mockingly: a man would ask who is my father, and a man whose camel had strayed, where is my camel. Mujahid, from Ibn 'Abbas, and Sa'id ibn Jubayr tie the verse to questions about the bahirah and the sa'ibah, named next in 5:103. At-Tabari judges it soundest that the verse came down over many such questions, Ibn Hudhafah's and the Hajj question among them, and perhaps the bahirah questions too.",
+            "bn": "অন্য বর্ণনাগুলো অন্য দিকে ইঙ্গিত করে। বুখারী (৪৬২২) ইবন আব্বাস (রাঃ)-র কথা এনেছেন: কিছু লোক ঠাট্টা করে প্রশ্ন করত। কেউ বলত, আমার পিতা কে? যার উট হারিয়েছে সে বলত, আমার উট কোথায়? মুজাহিদ ইবন আব্বাস থেকে, আর সাঈদ ইবন জুবাইর, আয়াতটিকে জোড়েন বাহীরা ও সাইবা নিয়ে করা প্রশ্নের সঙ্গে, ৫:১০৩ আয়াতে যাদের নাম ঠিক পরেই আসে। তাবারীর বিচারে সবচেয়ে সঠিক মত হলো, এমন অনেক প্রশ্নের প্রেক্ষিতে আয়াতটি নাযিল হয়েছিল, যার মধ্যে আছে ইবন হুযাফার প্রশ্ন আর হজের প্রশ্ন। বাহীরা নিয়ে প্রশ্নও হয়তো তার মধ্যে ছিল।"
+          },
+          {
+            "en": "So at-Tabari concludes that the verse forbade all such questions, each narrator reporting part of what it came down for, and al-Qurtubi likewise allows that it answered them all together. Nothing in these texts places 'Abdullah ibn Hudhafah among the mockers of Ibn 'Abbas's report. In the Anas reports he answered an open invitation to ask, and his reply to his mother shows how seriously he took the answer.",
+            "bn": "তাই তাবারীর সিদ্ধান্ত, আয়াতটি এ ধরনের সব প্রশ্নই নিষেধ করেছে। প্রত্যেক বর্ণনাকারী জানিয়েছেন নাযিলের কারণের একেকটা অংশ। কুরতুবীও মেনে নেন যে আয়াতটি এক সঙ্গে সবগুলো প্রশ্নের জবাব হয়ে নাযিল হয়ে থাকতে পারে। ইবন আব্বাসের বর্ণনায় যারা ঠাট্টা করত, এসব পাঠের কোথাও আবদুল্লাহ ইবন হুযাফা (রাঃ)-কে তাদের দলে রাখা হয়নি। আনাস (রাঃ)-র বর্ণনায় তিনি প্রশ্ন করেছিলেন খোলা আহ্বানে সাড়া দিয়ে। আর মায়ের কথার জবাবে তিনি যা বলেছিলেন, তাতে বোঝা যায় উত্তরটাকে তিনি কতটা গুরুত্বের সঙ্গে নিয়েছিলেন।"
+          },
+          {
+            "en": "Then 'afa Allahu 'anha: Allah has pardoned it. At-Tabari and Ibn Kathir's first reading take it as pardon for the questions already asked. Ibn Kathir's second reading, al-Muyassar and as-Sa'di take 'afw as leaving: what Allah did not mention He left as a pardon, so be silent about it as He was silent, and as-Sa'di concludes that whatever He kept silent about is permitted. At-Tabari and al-Qurtubi quote 'Ubayd ibn 'Umayr: what Allah neither permitted nor forbade is a pardon from Him.",
+            "bn": "তারপর আফাল্লাহু আনহা: আল্লাহ তা ক্ষমা করেছেন। তাবারী আর ইবন কাসীরের প্রথম ব্যাখ্যায় এটা আগে করা প্রশ্নগুলোর ক্ষমা। ইবন কাসীরের দ্বিতীয় ব্যাখ্যা, মুয়াসসার আর সা'দী আফওকে পড়েন ছেড়ে দেওয়া অর্থে: আল্লাহ যা উল্লেখ করেননি, তা ক্ষমা হিসেবে ছেড়ে রেখেছেন। তিনি যেমন চুপ থেকেছেন, তোমরাও চুপ থাকো। সা'দীর সিদ্ধান্ত: আল্লাহ যে বিষয়ে চুপ থেকেছেন, তা মুবাহ। তাবারী ও কুরতুবী উবাইদ ইবন উমাইরের কথা আনেন: আল্লাহ যা হালালও করেননি, হারামও করেননি, তা তাঁর পক্ষ থেকে ক্ষমা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Learn, Asking to Trip",
+          "bn": "শেখার প্রশ্ন, ফাঁদের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse is no ban on seeking knowledge, and the commentators draw the line themselves. As-Sa'di names the forbidden kinds: asking about a father, or about a place in Paradise or the Fire, about what has not happened, questions that bring strictures on the community, and what does not concern you. Every other question, he says, is commanded, citing 16:43. Al-Qurtubi quotes Ibn 'Abd al-Barr: whoever asks to understand and to rid himself of ignorance may ask, for the cure of not knowing is to ask; whoever asks only to trip others up may not.",
+            "bn": "আয়াতটি জ্ঞান অন্বেষণ নিষেধ করছে না। সীমারেখাটা তাফসীরকারেরা নিজেরাই টেনে দিয়েছেন। সা'দী নিষিদ্ধ প্রশ্নের ধরনগুলো বলেন: পিতা নিয়ে প্রশ্ন, জান্নাতে না জাহান্নামে ঠাঁই হবে তা নিয়ে প্রশ্ন, যা ঘটেনি তা নিয়ে প্রশ্ন, এমন প্রশ্ন যার ফলে উম্মতের উপর কড়াকড়ি চাপে, আর যা আপনার কোনো কাজে আসে না তা নিয়ে প্রশ্ন। এর বাইরে সব প্রশ্ন করার আদেশই আছে, বলেন তিনি, আর দলিল দেন ১৬:৪৩ আয়াত। কুরতুবী ইবন আবদিল বার-এর কথা উদ্ধৃত করেন: যে বোঝার জন্য, নিজের অজ্ঞতা দূর করার জন্য জিজ্ঞেস করে, তার প্রশ্নে দোষ নেই। না জানার রোগের ওষুধই হলো জিজ্ঞেস করা। আর যে শুধু অন্যকে বেকায়দায় ফেলতে প্রশ্ন করে, তার প্রশ্ন বৈধ নয়।"
+          },
+          {
+            "en": "On questions about what has not yet happened, the sources differ. Al-Qurtubi reports Ibn al-'Arabi rejecting the view that the verse bars asking about cases before they occur: it forbids only questions whose answer brings distress, and answering such cases brings none. Al-Qurtubi notes that some of the early generation did dislike such questions; by al-Zuhri's report, Zayd ibn Thabit would ask, has this happened? and if not, say leave it until it does. Ma'arif al-Qur'an defends the jurists' large body of answers to supposed cases as not wasteful, since later generations proved to need them.",
+            "bn": "যা এখনো ঘটেনি তা নিয়ে প্রশ্নের ব্যাপারে উৎসগুলো ভিন্ন কথা বলে। কুরতুবী জানান, ইবনুল আরাবী সেই মত প্রত্যাখ্যান করেন, যা বলে ঘটনা ঘটার আগে তা নিয়ে প্রশ্ন করা এ আয়াতে নিষিদ্ধ। তাঁর মতে আয়াত শুধু সেই প্রশ্ন নিষেধ করে, যার উত্তরে কষ্ট আসে। আর এমন মাসআলার উত্তরে কোনো কষ্ট নেই। কুরতুবী আবার মনে করিয়ে দেন, পূর্বসূরিদের কেউ কেউ এমন প্রশ্ন সত্যিই অপছন্দ করতেন। যুহরীর বর্ণনায়, যায়দ ইবন সাবিত (রাঃ) জিজ্ঞেস করতেন, এমনটা কি ঘটেছে? না ঘটে থাকলে বলতেন, ঘটা পর্যন্ত রেখে দাও। অন্যদিকে মাআরিফুল কুরআন ফকীহদের কল্পিত মাসআলার বিশাল ভাণ্ডারকে অপচয় মনে করে না, কারণ পরের প্রজন্মের তা কাজে লেগেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions the Quran Answered",
+          "bn": "যে প্রশ্নের উত্তর কুরআন দিয়েছে"
+        },
+        "p": [
+          {
+            "en": "The Quran is full of questions it welcomed. Al-Qurtubi cites a report through ad-Darimi from Ibn 'Abbas: the Companions asked the Prophet ﷺ only thirteen questions until he died, all of them in the Quran, among them 2:217, they ask you about the sacred month, and 2:222, they ask you about menstruation; they asked only about what benefited them. And 16:43, ask the people of remembrance if you do not know, is the verse as-Sa'di sets against any reading that would silence a learner.",
+            "bn": "কুরআনে এমন অনেক প্রশ্ন আছে, যাকে সে স্বাগত জানিয়েছে। কুরতুবী দারিমীর সূত্রে ইবন আব্বাস (রাঃ)-র একটি বর্ণনা আনেন: সাহাবিরা নবী ﷺ-এর ইন্তেকাল পর্যন্ত মাত্র তেরোটি প্রশ্ন করেছিলেন, তার সবই কুরআনে আছে। যেমন ২:২১৭, তারা আপনাকে পবিত্র মাস সম্পর্কে জিজ্ঞেস করে। আর ২:২২২, তারা আপনাকে হায়েয সম্পর্কে জিজ্ঞেস করে। যা তাদের উপকারে আসত, শুধু তা-ই তারা জিজ্ঞেস করতেন। আর ১৬:৪৩, না জানলে জ্ঞানীদের জিজ্ঞেস করো, এই আয়াতটিই সা'দী দাঁড় করান এমন যেকোনো ব্যাখ্যার বিপরীতে, যা শিক্ষার্থীর মুখ বন্ধ করে দিতে চায়।"
+          },
+          {
+            "en": "Two more belong beside it. 3:97 is the Hajj verse that, in the reports, prompted the question every year, and its own words already set the measure: for whoever is able to find a way. And 49:12, do not spy and do not backbite, is the verse al-Qurtubi brings for a reading of persistent questioning as prying into people's affairs until their faults are uncovered.",
+            "bn": "আরও দুটি আয়াত এর পাশে রাখার মতো। ৩:৯৭ হজের আয়াত। বর্ণনা অনুযায়ী এ আয়াতের পরেই প্রশ্ন উঠেছিল, প্রতি বছর? অথচ আয়াতের নিজের ভাষাতেই মাপ ঠিক করা আছে: যার সেখানে যাওয়ার সামর্থ্য আছে। আর ৪৯:১২, গোপন দোষ খুঁজো না, একে অন্যের গীবত করো না। অতিরিক্ত প্রশ্নের এক ব্যাখ্যায় কুরতুবী এই আয়াত আনেন: মানুষের ব্যাপারে খোঁজ নিতে নিতে তাদের দোষ উন্মুক্ত করে ফেলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living With an Unasked Question",
+          "bn": "না-করা প্রশ্ন নিয়ে বাঁচা"
+        },
+        "p": [
+          {
+            "en": "In matters of practice, the verse becomes a habit of taking a ruling as it was given. Al-Bukhari (7289) records from Sa'd ibn Abi Waqqas that the Prophet ﷺ said: \"The most sinful person among the Muslims is the one who asked about something which had not been prohibited, but was prohibited because of his asking.\" Ibn Kathir cites it under this verse. No question changes a ruling now, but a questioner can still weigh the religion down by pressing for a strictness Allah left open.",
+            "bn": "আমলের ক্ষেত্রে আয়াতটি এক অভ্যাস হয়ে দাঁড়ায়: বিধান যেভাবে দেওয়া হয়েছে, সেভাবেই গ্রহণ করা। বুখারী (৭২৮৯) সা'দ ইবন আবী ওয়াক্কাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"মুসলিমদের মধ্যে সবচেয়ে বড় অপরাধী সেই ব্যক্তি, যে এমন বিষয়ে প্রশ্ন করল যা হারাম ছিল না, অথচ তার প্রশ্নের কারণে তা হারাম করে দেওয়া হলো।\" ইবন কাসীর এ আয়াতের আলোচনায় হাদীসটি এনেছেন। এখন কোনো প্রশ্নে বিধান বদলায় না। কিন্তু একজন প্রশ্নকারী আজও দীনকে ভারী করে ফেলতে পারে, এমন কড়াকড়ির পেছনে লেগে থেকে, যা আল্লাহ খোলা রেখেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives examples of the idle kind: the name of the mother of Musa (AS), the exact length and breadth of the Ark of Nuh (AS), questions that change nothing in how a person lives. With people, the verse is a brake on curiosity: not pressing a relative about an old family matter, not digging into a convert's past, not searching for what others have covered. Before asking, it is fair to ask what the answer would change.",
+            "bn": "অনর্থক প্রশ্নের উদাহরণ দেয় মাআরিফুল কুরআন: মূসা (আঃ)-এর মায়ের নাম কী, নূহ (আঃ)-এর নৌকা ঠিক কত লম্বা আর কত চওড়া। এসব প্রশ্নে জীবনযাপনের কিছুই বদলায় না। মানুষের বেলায় আয়াতটি কৌতূহলের লাগাম। আত্মীয়কে পুরোনো পারিবারিক ব্যাপারে চাপ না দেওয়া, নওমুসলিমের অতীত খুঁড়ে না দেখা, অন্যরা যা ঢেকে রেখেছে তা না খোঁজা। প্রশ্ন করার আগে নিজেকে জিজ্ঞেস করা যায়: উত্তরটা আসলে কী বদলাবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pleased With Allah as Lord",
+          "bn": "রব হিসেবে আল্লাহতেই সন্তুষ্ট"
+        },
+        "p": [
+          {
+            "en": "The words that settled that tense hour were 'Umar's (RA), in Muslim's wording from Qatadah (2359): \"We are well pleased with Allah as our Lord, with Islam as our code of life and with Muhammad as our Messenger, seeking refuge with Allah from the evil of turmoil.\" They are a Companion's words, not a supplication the Prophet ﷺ taught. A short supplication in the verse's own names: O Allah, You are Ghafur and Halim; forgive the questions I asked for no good, and teach me what I need to ask.",
+            "bn": "সেই উত্তেজনার মুহূর্তটাকে শান্ত করেছিল উমর (রাঃ)-এর কথা। কাতাদা সূত্রে মুসলিমের (২৩৫৯) ভাষ্যে: \"আমরা রব হিসেবে আল্লাহতে, দীন হিসেবে ইসলামে আর রাসূল হিসেবে মুহাম্মাদে সন্তুষ্ট, ফিতনার অনিষ্ট থেকে আল্লাহর আশ্রয় চাই।\" এটি একজন সাহাবির কথা, নবী ﷺ-এর শেখানো কোনো দোয়া নয়। আয়াতের নিজের নাম দিয়ে একটি ছোট দোয়া: হে আল্লাহ, আপনি গাফূর, আপনি হালীম। যে প্রশ্ন অকারণে করেছি তা ক্ষমা করুন, আর যা জিজ্ঞেস করা আমার দরকার তা শিখিয়ে দিন।"
+          },
+          {
+            "en": "Some questions to carry. Which of my questions this month were asked to understand, and which to corner someone? Where have I asked for a stricter answer than I was given, and made my practice heavier than Allah made it? What do I actually need to know in order to pray, pay and deal rightly, and have I asked someone who knows? And is there a silence in the religion I have treated as a gap, when it was a mercy?",
+            "bn": "সঙ্গে রাখার মতো কয়েকটি প্রশ্ন। এ মাসে আমার কোন প্রশ্নগুলো ছিল বোঝার জন্য, আর কোনগুলো কাউকে কোণঠাসা করার জন্য? দেওয়া উত্তরের চেয়ে কড়া উত্তর আমি কোথায় খুঁজেছি, আর আমলকে আল্লাহর রাখা ভারের চেয়ে ভারী করেছি? নামাজ, যাকাত আর লেনদেন ঠিকভাবে করতে আমার আসলে কী জানা দরকার, আর তা কি এমন কাউকে জিজ্ঞেস করেছি যিনি জানেন? দীনের কোনো নীরবতাকে কি আমি ফাঁকা জায়গা ভেবেছি, অথচ তা ছিল রহমত?"
+          }
+        ]
+      }
+    ]
+  },
   "5:106": {
     "sections": [
       {
