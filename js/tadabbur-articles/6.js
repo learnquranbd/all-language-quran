@@ -3783,6 +3783,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:116": {
+    "sections": [
+      {
+        "h": {
+          "en": "Once the Judge Is Named",
+          "bn": "বিচারকের নাম আসার পর"
+        },
+        "p": [
+          {
+            "en": "The passage opens in 6:114 with a question the Prophet is told to ask: afa-ghayra Allahi abtaghi hakaman, shall I then seek a judge other than Allah? At-Tabari supplies the setting. Those who set idols up as equals to Allah had told him: hold back from our gods and we will hold back from your God. The reply is that Allah has already ruled, that their gods be spoken of in a way that turns people from worshipping them. He may not step past that ruling, says at-Tabari, for no judge is more just than Allah and no speaker more truthful.",
+            "bn": "আয়াতটি একটি ছোট অংশের শেষ কথা। অংশটি শুরু হয় ৬:১১৪ আয়াতে, নবী ﷺ-এর মুখে তুলে দেওয়া এক প্রশ্ন দিয়ে: আফাগাইরাল্লাহি আবতাগী হাকামা, তবে কি আমি আল্লাহ ছাড়া অন্য কাউকে বিচারক খুঁজব? প্রেক্ষাপটটা জানান তাবারী। যারা মূর্তিকে আল্লাহর সমকক্ষ বানাত, তারা তাঁকে বলেছিল: তুমি আমাদের দেবতাদের নিয়ে মুখ বন্ধ রাখো, আমরাও তোমার ইলাহকে নিয়ে মুখ বন্ধ রাখব। জবাব হলো, আল্লাহ ফয়সালা দিয়ে রেখেছেন। তাদের দেবতাদের কথা এমনভাবে বলতে হবে, যাতে মানুষ ওদের ইবাদত থেকে ফিরে আসে। তাবারী বলেন, সে ফয়সালা ডিঙিয়ে যাওয়ার অধিকার নবীর নেই। কারণ আল্লাহর চেয়ে ন্যায়পরায়ণ কোনো বিচারক নেই, তাঁর চেয়ে সত্যবাদী কোনো বক্তাও নেই।"
+          },
+          {
+            "en": "The same verse says the Book was sent down mufassalan, set out in detail. At-Tabari explains it as making plain the ruling on everything they disputed about him and about themselves; Ibn Kathir glosses it in a word, made clear. Then 6:115 declares the word of the Lord complete. Only after the Judge and the Book have both been named does 6:116 turn to the other voice that bids for obedience: most of those on the earth. The order is worth noticing. That voice is weighed against a standard the passage has already set.",
+            "bn": "একই আয়াতে আছে, কিতাব নাযিল হয়েছে মুফাসসালান, অর্থাৎ বিশদ করে। তাবারীর ব্যাখ্যায়, নবী ﷺ আর তাদের মধ্যে যে বিষয় নিয়েই বিবাদ, তার ফয়সালা এ কিতাবে খোলাখুলি বলা আছে। ইবন কাসীর এক শব্দে অর্থ দেন: স্পষ্ট করে বর্ণিত। তারপর ৬:১১৫ আয়াত ঘোষণা করে, রবের বাণী পূর্ণ হয়েছে। বিচারক আর কিতাব দুটোরই নাম আসার পরেই ৬:১১৬ আয়াত ফেরে আনুগত্যের দাবিদার আরেক কণ্ঠের দিকে: পৃথিবীর অধিকাংশ মানুষ। ক্রমটা খেয়াল করার মতো। সেই কণ্ঠকে মাপা হচ্ছে এমন এক মানদণ্ডে, যা এ অংশ আগেই ঠিক করে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truthful in Report, Just in Command",
+          "bn": "খবরে সত্য, আদেশে ন্যায়"
+        },
+        "p": [
+          {
+            "en": "Wa-tammat kalimatu rabbika sidqan wa-'adlan: and the word of your Lord is complete in truth and justice. At-Tabari reads tammat as kamulat, became complete, and takes the word here to be the Qur'an, as the Arabs call a whole poem so-and-so's word. Ibn Kathir quotes Qatada: truthful in what He said, just in what He ruled. He then spells it out: truth in reports, justice in demands. Whatever He reports is true beyond doubt, and whatever He commands is the justice besides which there is no justice.",
+            "bn": "ওয়া তাম্মাত কালিমাতু রাব্বিকা সিদকান ওয়া আদলা: সত্য ও ন্যায়ে তোমার রবের বাণী পূর্ণ হয়েছে। তাবারী তাম্মাত পড়েন কামুলাত অর্থে, অর্থাৎ পূর্ণাঙ্গ হলো। আর এখানে কালিমা বা বাণী বলতে তিনি কুরআন বোঝেন। আরবরা কবির গোটা একটা কবিতাকেও বলত, এ অমুকের কালিমা। ইবন কাসীর কাতাদার কথা আনেন: যা বলেছেন তাতে সত্য, যা ফয়সালা করেছেন তাতে ন্যায়। তারপর খুলে বলেন: খবরে সত্য, দাবিতে ন্যায়। তিনি যা জানিয়েছেন তা নিঃসন্দেহে সত্য। আর যা আদেশ করেছেন, সেটাই সেই ন্যায়, যার বাইরে আর কোনো ন্যায় নেই।"
+          },
+          {
+            "en": "As-Sa'di gives the same pair, truth in its reports and justice in its commands and prohibitions, and adds that Allah has guarded and perfected these words so that they cannot be changed, nor anything better proposed. On la mubaddila li-kalimatihi, none can alter His words, the readings differ in emphasis. At-Tabari reads it of what Allah foretold: no one can stop what He said would happen from happening at its appointed time. Ibn Kathir reads it of His ruling: no one can overturn His judgement, in this world or the next.",
+            "bn": "সা'দীও একই জোড়া দেন: খবরে সত্য, আদেশ-নিষেধে ন্যায়। তিনি যোগ করেন, আল্লাহ এ বাণীকে হেফাজত করেছেন ও মজবুত করেছেন। তাই একে বদলানো যায় না, এর চেয়ে ভালো কিছু প্রস্তাব করাও যায় না। লা মুবাদ্দিলা লিকালিমাতিহি, তাঁর বাণী কেউ বদলাতে পারে না। এ বাক্যের পাঠে জোর পড়ে ভিন্ন জায়গায়। তাবারী একে পড়েন আল্লাহর আগাম খবরের প্রসঙ্গে: তিনি যা ঘটবে বলেছেন, নির্ধারিত সময়ে তার ঘটা কেউ ঠেকাতে পারে না। ইবন কাসীর পড়েন তাঁর ফয়সালার প্রসঙ্গে: দুনিয়ায় হোক বা আখেরাতে, তাঁর বিচার কেউ উল্টাতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Many Were Then",
+          "bn": "সেদিনের অধিকাংশ কারা"
+        },
+        "p": [
+          {
+            "en": "Wa-in tuti' akthara man fi al-ardi yudilluka 'an sabili Allah: if you obey most of those on the earth, they will lead you astray from the way of Allah. At-Tabari reads it as a direct command to the Prophet. Do not obey those who equate others with Allah in what they called you to, eating what they slaughtered for their gods and dedicated to other than their Lord. Obey them, he says, and you would stray as they stray and become like them, for they cannot call you to a guidance they have missed.",
+            "bn": "ওয়া ইন তুতি' আকসারা মান ফিল আরদি ইউদিল্লূকা আন সাবীলিল্লাহ: পৃথিবীর অধিকাংশ লোকের কথা মানলে তারা তোমাকে আল্লাহর পথ থেকে বিপথে নিয়ে যাবে। তাবারী একে পড়েন নবী ﷺ-এর প্রতি সরাসরি নির্দেশ হিসেবে। যারা আল্লাহর সঙ্গে অন্যকে সমান করে, তারা তোমাকে যে দিকে ডেকেছে তাতে তাদের কথা মেনো না। তারা ডেকেছিল তাদের দেবতাদের নামে জবাই করা, রব ছাড়া অন্যের নামে উৎসর্গ করা পশু খেতে। তাবারী বলেন, তাদের মানলে তুমিও তাদের মতো পথ হারাবে, তাদেরই একজন হয়ে যাবে। যে হিদায়াত তারা নিজেরাই হারিয়েছে, সেদিকে তারা তোমাকে ডাকবে কী করে?"
+          },
+          {
+            "en": "Why most of those on the earth? At-Tabari answers in one clause: because the children of Adam were, at that time, disbelievers gone astray. Al-Qurtubi glosses the phrase with a single word, the disbelievers, and al-Baghawi says most of the people of the earth were then upon misguidance. Al-Baghawi then adds, under the words it is said, a narrower occasion: they had argued with the Messenger of Allah and the believers about eating carrion, saying, do you eat what you kill and not eat what Allah has killed?",
+            "bn": "পৃথিবীর অধিকাংশ কেন? তাবারী এক বাক্যে উত্তর দেন: কারণ সে সময় আদম সন্তানরা ছিল কাফির, পথহারা। কুরতুবী শব্দগুচ্ছটির অর্থ দেন এক শব্দে: কাফিররা। বাগাভী বলেন, তখন পৃথিবীর অধিকাংশ মানুষ গোমরাহিতে ছিল। এরপর 'বলা হয়' কথাটি জুড়ে দিয়ে বাগাভী আরও সরু একটা প্রেক্ষাপট আনেন। তারা মৃত পশু খাওয়া নিয়ে রাসূলুল্লাহ ﷺ ও মুমিনদের সঙ্গে তর্ক করেছিল। বলেছিল, তোমরা যাকে নিজেরা মারো তা খাও, আর যাকে আল্লাহ মারেন তা খাও না?"
+          },
+          {
+            "en": "The Muyassar frames the sentence as a supposition: were it supposed, O Messenger, that you obeyed most of the people of the earth, they would lead you from the religion of Allah. Ibn Kathir reads it as Allah informing about the state of most of the children of Adam on the earth, that it is misguidance, and sets beside it 37:71, most of the earlier peoples went astray before them, and 12:103, most people will not believe however eagerly you wish it.",
+            "bn": "মুয়াসসার বাক্যটিকে দেখে একটি ধরে নেওয়া অবস্থা হিসেবে: হে রাসূল, ধরা যাক আপনি পৃথিবীর অধিকাংশ মানুষের কথা মেনে নিলেন, তাহলে তারা আপনাকে আল্লাহর দীন থেকে সরিয়ে দিত। ইবন কাসীর পড়েন এভাবে: পৃথিবীর অধিকাংশ আদম সন্তানের অবস্থা কী, আল্লাহ তা জানাচ্ছেন, আর সে অবস্থা গোমরাহি। এর পাশে তিনি রাখেন ৩৭:৭১, তাদের আগে পূর্ববর্তীদের অধিকাংশই পথভ্রষ্ট হয়েছিল। আর রাখেন ১২:১০৩, তুমি যত আগ্রহই করো, অধিকাংশ মানুষ ঈমান আনবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zann With Nothing Beneath It",
+          "bn": "যে যান্নের নিচে মাটি নেই"
+        },
+        "p": [
+          {
+            "en": "In yattabi'una illa al-zann: they follow nothing but supposition. Al-Qurtubi notes that in here means ma, not, so the sentence restricts: supposition and nothing else. At-Tabari describes the supposition from the inside. In their own minds they are on a supposition, a reckoning that what they hold is sound, though in reality it is error. Ibn Kathir describes it from the outside: in their misguidance they are not on certainty about their affair; they are in false suppositions and empty reckoning.",
+            "bn": "ইন ইয়াত্তাবিঊনা ইল্লায যান্না: তারা যান্ন বা ধারণা ছাড়া আর কিছুর অনুসরণ করে না। কুরতুবী জানান, এখানে 'ইন' মানে 'মা', অর্থাৎ না। তাই বাক্যটা সীমা টেনে দেয়: শুধু ধারণা, আর কিছু নয়। তাবারী ধারণাটাকে দেখান ভেতর থেকে। নিজেদের মনে তারা একটা ধারণার উপর আছে, হিসাব কষে রেখেছে যে তারা ঠিক, অথচ বাস্তবে সেটা ভুল। ইবন কাসীর দেখান বাইরে থেকে। গোমরাহির মধ্যে তারা নিজেদের ব্যাপারে কোনো ইয়াকীন বা নিশ্চয়তার উপর নেই। আছে মিথ্যা ধারণা আর অসার হিসাবের মধ্যে।"
+          },
+          {
+            "en": "Others name where the supposition came from. Al-Baghawi says the religion they held was supposition and desire which they had not taken up with insight. The Muyassar says they proceed only on what they supposed to be true by imitating their forebears. As-Sa'di calls it the supposition that avails nothing against the truth, and widens the description to their whole condition: their religions corrupted, their deeds following their desires, and their knowledge without verification, leading nowhere near the straight road.",
+            "bn": "কেউ কেউ বলেন ধারণাটা এল কোথা থেকে। বাগাভী বলেন, তারা যে দীনের উপর ছিল তা ধারণা আর খেয়ালখুশি। অন্তর্দৃষ্টি দিয়ে তারা তা গ্রহণ করেনি। মুয়াসসার বলে, বাপ-দাদার অন্ধ অনুকরণে যাকে তারা সত্য ধরে নিয়েছে, শুধু তার উপরই তারা চলে। সা'দী একে বলেন সেই ধারণা, যা সত্যের মোকাবেলায় কোনো কাজে আসে না। তারপর তিনি তাদের গোটা অবস্থার বর্ণনা দেন। তাদের দীন বিকৃত, তাদের আমল খেয়ালখুশির পেছনে চলে। আর তাদের জ্ঞানে কোনো যাচাই নেই, সোজা পথের ধারেকাছেও তা পৌঁছায় না।"
+          },
+          {
+            "en": "Gathered together, the texts set zann against certainty and insight, and trace it to imitation. At-Tabari, on the next clause, sets it against yaqin 'ilm, the certainty of knowledge. Ibn Kathir sets it against certainty. Al-Baghawi sets it against basira, insight. The Muyassar ties it to inherited imitation. So what the verse faults is a basis: a view held because it was assumed or inherited, and never brought to the Book that 6:114 calls set out in detail.",
+            "bn": "সব কথা একসঙ্গে রাখলে দেখা যায়, যান্নকে দাঁড় করানো হয়েছে নিশ্চয়তা আর অন্তর্দৃষ্টির বিপরীতে, আর এর উৎস দেখানো হয়েছে অনুকরণে। তাবারী পরের বাক্যাংশে একে রাখেন ইয়াকীনু ইলম, অর্থাৎ জ্ঞানের নিশ্চয়তার বিপরীতে। ইবন কাসীর রাখেন ইয়াকীনের বিপরীতে। বাগাভী রাখেন বাসীরা, মানে অন্তর্দৃষ্টির বিপরীতে। মুয়াসসার একে জুড়ে দেয় উত্তরাধিকারসূত্রে পাওয়া অনুকরণের সঙ্গে। আয়াত তাই দোষ ধরছে একটা ভিত্তির। যে মত ধরে রাখা হয়েছে শুধু ধরে নেওয়া বা বাপ-দাদার কাছ থেকে পাওয়ার কারণে, আর কখনো সেই কিতাবের সামনে আনা হয়নি, ৬:১১৪ যাকে বলে বিশদ করে বর্ণিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guessing the Fruit on a Palm",
+          "bn": "গাছের খেজুর আন্দাজে গোনা"
+        },
+        "p": [
+          {
+            "en": "Wa-in hum illa yakhrusun: and they do nothing but khars. Ibn Kathir explains khars as hazr, estimation, and gives its everyday use: khars of the palm is estimating how much fruit is on it. Al-Qurtubi says they guess and reckon, and traces the root to cutting. One estimates a palm's crop to take the levy from it, and so the estimator settles a figure on a basis that cannot rightly settle anything, since he has no certainty. At-Tabari puts it plainly: they are nothing but guessers, who suppose and cast an estimate, not the certainty of knowledge.",
+            "bn": "ওয়া ইন হুম ইল্লা ইয়াখরুসূন: আর তারা খারস ছাড়া কিছুই করে না। ইবন কাসীর খারসের অর্থ করেন হাযর, মানে আন্দাজে পরিমাণ ঠিক করা। দৈনন্দিন ব্যবহারও দেখান: খেজুর গাছের খারস মানে গাছে কতটা ফল আছে তা আন্দাজ করা। কুরতুবী বলেন, তারা অনুমান করে আর হিসাব বসায়। শব্দের মূল তিনি খোঁজেন 'কাটা' অর্থে। খাজনা নেওয়ার জন্য গাছের ফসল আন্দাজ করা হয়। আন্দাজকারী একটা সংখ্যা চূড়ান্ত করে ফেলে এমন ভিত্তিতে, যা দিয়ে কিছু চূড়ান্ত করা চলে না, কারণ তার হাতে কোনো নিশ্চয়তা নেই। তাবারী সোজা কথায় বলেন: তারা শুধু আন্দাজবাজ। ধারণা করে আর আন্দাজ ছুড়ে দেয়, জ্ঞানের নিশ্চয়তা তাদের নেই।"
+          },
+          {
+            "en": "Other texts give the word a harder edge. At-Tabari records that kharasa yakhrusu means he lied, and that takharrasa is used of making something up, by supposition or by a lie. Al-Baghawi glosses yakhrusun simply as they lie, and the Muyassar joins the two: they only suppose and lie. None of the commentators fetched sets the senses against each other. As-Sa'di joins them and names where the guessing was aimed: they make up, in what they say about Allah, things they do not know.",
+            "bn": "অন্য কিছু ব্যাখ্যায় শব্দটির ধার আরও বেশি। তাবারী উল্লেখ করেন, খারাসা ইয়াখরুসু মানে সে মিথ্যা বলল। আর ধারণা দিয়ে বা মিথ্যা দিয়ে কিছু বানিয়ে বলাকে বলা হয় তাখাররাসা। বাগাভী ইয়াখরুসূনের অর্থ দেন সোজাসুজি: তারা মিথ্যা বলে। মুয়াসসার দুটোকে মিলিয়ে বলে: তারা শুধু ধারণা করে আর মিথ্যা বলে। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ দুই অর্থকে পরস্পরের বিপরীতে দাঁড় করায়নি। সা'দী দুটোকে জুড়ে দেন, আর বলে দেন এ আন্দাজ কোন দিকে ছোড়া হচ্ছিল: আল্লাহর ব্যাপারে তারা মনগড়া কথা বলে, যা তারা জানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Address That Reaches Further",
+          "bn": "যে সম্বোধন আরও দূরে পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "The command is addressed to the Prophet. As-Sa'di explains why it still reaches the reader: although the address is to him, his community take him as their model in every ruling that was not particular to him. He adds that whoever stands in such a condition, with supposition in place of knowledge, deserves that Allah should warn His servants about him and describe his state to them. In as-Sa'di's reading, that warning and that description are what this verse supplies.",
+            "bn": "নির্দেশটি নবী ﷺ-কে উদ্দেশ করে। তবু তা পাঠকের কাছে কেন পৌঁছায়, সা'দী তা বুঝিয়ে দেন। সম্বোধন যদিও নবীর প্রতি, তাঁর উম্মত সব বিধানে তাঁকেই আদর্শ মানে, শুধু যেগুলো তাঁর জন্য বিশেষ, সেগুলো ছাড়া। তিনি আরও বলেন, জ্ঞানের জায়গায় যে ধারণা নিয়ে চলে, এমন অবস্থার মানুষ সম্পর্কে আল্লাহ তাঁর বান্দাদের সাবধান করবেন, তাদের অবস্থা বান্দাদের কাছে বর্ণনা করবেন, এটাই স্বাভাবিক। সা'দীর পাঠে এ আয়াত ঠিক সেই সতর্কবাণী আর সেই বর্ণনা দেয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an names the pressure the verse answers. The awe of a majority, it says, customarily overwhelms an individual, who ends up following it. So the Prophet is told not to be overawed, and not to be impressed by their numbers as a model to follow, because they lack principles and leave the right way. The reading keeps the weight where the verse puts it. The sentence does not stop at most of those on the earth; it goes on to say what they follow, and names it supposition and estimation.",
+            "bn": "আয়াতটি কোন চাপের জবাব দিচ্ছে, মাআরিফুল কুরআন তার নাম বলে দেয়। সংখ্যাগরিষ্ঠের প্রভাব সাধারণত একজন মানুষকে চেপে ধরে, শেষে সে তাদের পেছনেই চলতে থাকে। তাই নবী ﷺ-কে বলা হলো, তাদের দেখে ভয় পাবেন না, আর অনুসরণের আদর্শ হিসেবে তাদের সংখ্যায় মুগ্ধ হবেন না। কারণ তাদের কোনো নীতি নেই, তারা সঠিক পথ ছেড়ে চলে। এ পাঠ ভারটা রাখে ঠিক সেখানে, যেখানে আয়াত রেখেছে। বাক্যটি পৃথিবীর অধিকাংশ লোক বলে থেমে যায়নি। তারা কী অনুসরণ করে, তাও বলেছে: ধারণা আর আন্দাজ।"
+          },
+          {
+            "en": "The next verse closes the thought: inna rabbaka huwa a'lamu man yadillu 'an sabilihi wa-huwa a'lamu bil-muhtadin, your Lord knows best who strays from His way, and He knows best the guided. At-Tabari reads it as a word to the Prophet. Your Lord, who forbade you to obey them lest they lead you astray, knows better than you and all His creation who strays through the gilded speech that devils whisper among themselves. So follow what you were commanded. That ties the passage back to 6:112, where the gilded speech first appears.",
+            "bn": "পরের আয়াত চিন্তাটা শেষ করে: ইন্না রাব্বাকা হুয়া আ'লামু মাই ইয়াদিল্লু আন সাবীলিহী ওয়া হুয়া আ'লামু বিলমুহতাদীন। তোমার রবই ভালো জানেন কে তাঁর পথ থেকে সরে যায়, আর তিনিই ভালো জানেন কারা হিদায়াতপ্রাপ্ত। তাবারী একে পড়েন নবী ﷺ-এর প্রতি এক কথা হিসেবে। যে রব তোমাকে তাদের মানতে নিষেধ করেছেন, যাতে তারা তোমাকে বিপথে না নেয়, তিনি তোমার চেয়ে এবং তাঁর সব সৃষ্টির চেয়ে ভালো জানেন, শয়তানরা একে অপরকে যে চাকচিক্যময় কথা কানে দেয়, তাতে ভুলে কে পথ হারায়। তাই তোমাকে যা আদেশ করা হয়েছে, তা-ই মেনে চলো। এভাবে অংশটি ফিরে যায় ৬:১১২ আয়াতে, যেখানে চাকচিক্যময় কথার উল্লেখ প্রথম এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on Anyone Living",
+          "bn": "আজকের কোনো দলের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. In at-Tabari's reading the verse describes particular people of its day, those who equated idols with Allah and called the Prophet to eat what had been slaughtered for those idols. It describes what the text describes and licenses nothing against any living person or community. It gives no one the right to point at a people, a country or a crowd and pronounce them the misguided majority. The verse that follows keeps that knowledge with Allah: your Lord knows best who strays from His way and who is guided.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারীর পাঠে আয়াতটি সেই যুগের নির্দিষ্ট কিছু মানুষের বর্ণনা দেয়। তারা মূর্তিকে আল্লাহর সমকক্ষ বানাত, আর ওই মূর্তিদের নামে জবাই করা পশু খেতে নবী ﷺ-কে ডাকত। আয়াতটি কেবল ততটুকুই বর্ণনা করে, যতটুকু তার পাঠে আছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কোনো জাতি, দেশ বা জনতার দিকে আঙুল তুলে তাদের পথহারা অধিকাংশ বলে ঘোষণা করার অধিকার এ আয়াত কাউকে দেয় না। পরের আয়াত এ জ্ঞান আল্লাহর কাছেই রেখেছে: তোমার রবই ভালো জানেন কে তাঁর পথ থেকে সরে যায়, আর কে হিদায়াতপ্রাপ্ত।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. A general narration, not attached to the verse, speaks to the discomfort of being few. Muslim includes it in his Sahih (145), from Abu Hurayrah, that the Messenger of Allah said: Islam initiated as something strange, and it would revert to its old position of being strange, so good tidings for the stranger. It is set here beside the verse, not offered as its explanation, and it says nothing about who the strangers are in any given place or time.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, তবে সংখ্যায় কম হওয়ার অস্বস্তির কথা বলে। মুসলিম তাঁর সহীহ গ্রন্থে (১৪৫) আবূ হুরায়রা (রাঃ) থেকে তা এনেছেন। রাসূলুল্লাহ ﷺ বলেছেন: ইসলাম শুরু হয়েছিল অপরিচিত অবস্থায়, আর যেভাবে শুরু হয়েছিল, আবার সেভাবেই অপরিচিত হয়ে যাবে। সুতরাং সুসংবাদ অপরিচিতদের জন্য। বর্ণনাটি এখানে আয়াতের পাশে রাখা হলো, আয়াতের ব্যাখ্যা হিসেবে নয়। কোনো নির্দিষ্ট স্থানে বা কালে অপরিচিত কারা, সে ব্যাপারে এটি কিছুই বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking What a View Stands On",
+          "bn": "মতটা দাঁড়িয়ে আছে কিসের উপর"
+        },
+        "p": [
+          {
+            "en": "The verse leaves a working question. Before a view about what Allah allows, forbids or wants settles in, ask where it came from. If the honest answer is that everyone around me holds it, or that my family always did, that is the inherited supposition the Muyassar describes, not yet knowledge. It may still turn out to be right. But it has not yet been brought to the Book that 6:114 calls set out in detail, or to the word that 6:115 calls complete in truth and justice.",
+            "bn": "আয়াতটি হাতে একটা কাজের প্রশ্ন তুলে দেয়। আল্লাহ কী হালাল করেছেন, কী হারাম করেছেন, কী চান, এ নিয়ে কোনো মত মনে বসে যাওয়ার আগে জিজ্ঞেস করুন, এটা এল কোথা থেকে। সৎ উত্তর যদি হয়, আশপাশের সবাই এটা মানে, কিংবা আমাদের পরিবারে বরাবর এমনই চলে আসছে, তাহলে এটা সেই উত্তরাধিকারের ধারণা, মুয়াসসার যার কথা বলে। এখনো তা জ্ঞান হয়ে ওঠেনি। শেষে হয়তো সেটা ঠিকই প্রমাণিত হবে। কিন্তু এখনো তাকে সেই কিতাবের সামনে আনা হয়নি, ৬:১১৪ যাকে বলে বিশদ করে বর্ণিত। আনা হয়নি সেই বাণীর সামনেও, ৬:১১৫ যাকে বলে সত্য ও ন্যায়ে পূর্ণ।"
+          },
+          {
+            "en": "The second check is on one's own tongue. As-Sa'di's phrase, making up in speech about Allah what one does not know, describes a fault, and the fault is not confined to the people of that day. An estimate repeated often enough starts to sound like a fact, to the speaker first of all. Where a matter is uncertain, saying I do not know is not weakness. It is declining to do the khars this verse names.",
+            "bn": "দ্বিতীয় যাচাইটা নিজের জিহ্বার উপর। সা'দীর কথাটা, আল্লাহর ব্যাপারে না জেনে মনগড়া কথা বলা, একটা দোষের বর্ণনা। আর এ দোষ শুধু সেই যুগের লোকদের মধ্যে আটকে থাকে না। একটা আন্দাজ বারবার বলতে থাকলে একসময় তা তথ্যের মতো শোনায়, সবার আগে যে বলছে তার নিজের কানেই। কোনো বিষয় অনিশ্চিত হলে 'আমি জানি না' বলা দুর্বলতা নয়। এর মানে আয়াত যে খারসের কথা বলছে, তা থেকে বিরত থাকা।"
+          },
+          {
+            "en": "The pressure Ma'arif al-Qur'an describes is real, and the verse does not pretend otherwise. Standing apart from what most people around you do is uncomfortable. What 6:117 offers is reassurance of a different kind: your Lord knows best who strays and who is guided. Whoever checks his footing against the Book is not asked to count the crowd or to judge it. He is asked to keep to sabil Allah, the way of Allah, which this verse names as the thing at stake.",
+            "bn": "মাআরিফুল কুরআন যে চাপের কথা বলে, তা সত্যিকারের চাপ, আর আয়াতও তা অস্বীকার করে না। আশপাশের বেশিরভাগ মানুষ যা করে, তা থেকে আলাদা দাঁড়ানো অস্বস্তিকর। ৬:১১৭ আয়াত ভিন্ন ধরনের এক ভরসা দেয়: তোমার রবই ভালো জানেন কে পথ হারায় আর কে হিদায়াতপ্রাপ্ত। যে কিতাবের সঙ্গে মিলিয়ে নিজের পায়ের নিচের মাটি পরখ করে, তাকে ভিড় গুনতে বলা হয়নি, ভিড়ের বিচার করতেও বলা হয়নি। তাকে বলা হয়েছে সাবীলুল্লাহ, আল্লাহর পথে টিকে থাকতে। এ আয়াত বলছে, ঝুঁকিতে আছে ঠিক এ পথটাই।"
+          }
+        ]
+      }
+    ]
+  },
   "6:119": {
     "sections": [
       {

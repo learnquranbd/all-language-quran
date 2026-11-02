@@ -20451,6 +20451,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Say what is true, keep doing the work Allah asked of you without waiting for others to agree, and leave the final outcome to Him, for wrongdoers do not prosper.",
     "lessonBn": "সত্য কথাটা বলুন, অন্যদের সম্মতির অপেক্ষা না করে আল্লাহর দেওয়া কাজ করে যান, আর শেষ ফলাফল তাঁর হাতে ছেড়ে দিন, কারণ যালিমরা সফল হয় না।"
+  },
+  "6:116": {
+    "reflectionEn": "Just before this verse, the Prophet is told to ask: shall I seek a judge other than Allah, when He is the One who sent down the Book set out in detail? Then comes the warning: if you obey most of those on earth, they will lead you away from the way of Allah. What the verse faults is not their number but their footing. They follow nothing but supposition, and they do nothing but estimate, the way a man guesses the dates on a palm without counting them. A crowd can feel like proof. The verse asks what the crowd is standing on. When I take up a view because everyone around me holds it, have I checked it against what Allah said, or only counted heads?",
+    "reflectionBn": "এ আয়াতের ঠিক আগে নবী ﷺ-কে বলতে বলা হয়েছে: আমি কি আল্লাহ ছাড়া অন্য কাউকে বিচারক মানব, অথচ তিনিই তো বিশদ করে কিতাব নাযিল করেছেন? তারপর আসে সতর্কবাণী: পৃথিবীর অধিকাংশ লোকের কথামতো চললে তারা তোমাকে আল্লাহর পথ থেকে সরিয়ে দেবে। আয়াত দোষ ধরছে তাদের সংখ্যার নয়, তারা যে মাটিতে দাঁড়িয়ে আছে তার। তারা চলে কেবল ধারণার পেছনে, আর কাজ বলতে শুধু আন্দাজ করা। যেমন কেউ না গুনেই খেজুর গাছের দিকে তাকিয়ে বলে দেয়, এতে এত খেজুর আছে। ভিড় দেখলে মনে হয় ওটাই প্রমাণ। আয়াত জানতে চায়, ভিড়টা দাঁড়িয়ে আছে কিসের উপর? চারপাশের সবাই মানে বলে যখন আমি কোনো মত গ্রহণ করি, তখন কি তা আল্লাহর কথার সঙ্গে মিলিয়ে দেখেছি, নাকি শুধু মাথা গুনেছি?",
+    "pointsEn": [
+      "Which of my settled ideas about what is allowed or forbidden did I take from the people around me rather than from what Allah sent down?",
+      "When I say I am sure, do I have knowledge, or only an estimate that has grown comfortable through repetition?",
+      "Have I ever kept quiet about something I knew was right only because I felt outnumbered?",
+      "Before I repeat a claim about Allah or His religion, do I know where it came from?",
+      "When the Book says one thing and the people I live among say another, whom do I actually obey?"
+    ],
+    "pointsBn": [
+      "হালাল-হারাম নিয়ে আমার মনে বসে যাওয়া কোন ধারণাগুলো আল্লাহর নাযিল করা কথা থেকে না এসে চারপাশের মানুষের কাছ থেকে এসেছে?",
+      "যখন বলি আমি নিশ্চিত, তখন কি সত্যিই জানি, নাকি বারবার শুনতে শুনতে একটা আন্দাজ গা-সওয়া হয়ে গেছে?",
+      "শুধু একা পড়ে যাওয়ার ভয়ে কি কখনো এমন কিছু নিয়ে চুপ থেকেছি, যা ঠিক বলে আমি জানতাম?",
+      "আল্লাহ বা তাঁর দীন সম্পর্কে কোনো কথা আরেকজনকে বলার আগে কি জানি, কথাটা কোথা থেকে এসেছে?",
+      "কিতাব যখন এক কথা বলে আর আমার চারপাশের লোকেরা বলে আরেক কথা, তখন আসলে আমি কার কথা মানি?"
+    ],
+    "lessonEn": "Weigh every view by what Allah sent down, not by how many people hold it, and never call a guess knowledge, above all when speaking about Allah.",
+    "lessonBn": "কতজন মানে তা দিয়ে নয়, আল্লাহ যা নাযিল করেছেন তা দিয়ে প্রতিটি মত যাচাই করুন। আর আন্দাজকে কখনো জ্ঞান বলে চালাবেন না, আল্লাহর ব্যাপারে তো একেবারেই নয়।"
   }
 };
 
