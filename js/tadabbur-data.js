@@ -20531,6 +20531,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The enemy announced he would come from every side and leave most people ungrateful; learn his routes, guard each side, and keep thanking Allah.",
     "lessonBn": "শত্রু ঘোষণা দিয়েছে, সে সব দিক থেকে আসবে আর বেশির ভাগ মানুষকে অকৃতজ্ঞ বানিয়ে ছাড়বে। তার পথগুলো চিনে নিন, প্রতিটি দিক পাহারা দিন, আর আল্লাহর শোকর আদায় করতে থাকুন।"
+  },
+  "6:144": {
+    "reflectionEn": "The livestock are counted out in pairs: sheep and goats, then camels and cattle, a male and a female of each, eight in all. Then comes a question with three doors. Was it the two males He forbade, or the two females, or whatever the wombs hold? Every door opens onto a rule the questioners never kept, and the question behind it is sharper still: were you present when Allah charged you with this? A rule spoken in His name needs a source, and theirs had none. It is easy to read this as a story about other people's camels. Do I ever call something forbidden, or required, only because my family always did it that way? And if someone asked me where Allah said it, could I answer?",
+    "reflectionBn": "আয়াতটি গবাদি পশু গুনে দেখায় জোড়ায় জোড়ায়: ভেড়া আর ছাগল, তারপর উট আর গরু, প্রতিটির নর ও মাদী, সব মিলিয়ে আট। তারপর আসে তিন দরজাওয়ালা এক প্রশ্ন। তিনি কি নর দুটো হারাম করেছেন, না মাদী দুটো, নাকি মাদীদের গর্ভে যা আছে তা? যে দরজাই খোলা হোক, সামনে পড়ে এমন এক নিয়ম, যা প্রশ্নের মুখে পড়া লোকেরা নিজেরাই কখনো মানত না। এর পেছনের প্রশ্নটা আরও ধারালো: আল্লাহ যখন তোমাদের এ নির্দেশ দিয়েছিলেন, তোমরা কি সেখানে উপস্থিত ছিলে? তাঁর নামে বলা নিয়মের একটা উৎস লাগে, আর তাদের নিয়মের কোনো উৎস ছিল না। অন্য লোকের উটের গল্প ভেবে আয়াতটা পার হয়ে যাওয়া সহজ। কিন্তু আমি কি কখনো কোনো কিছুকে হারাম বা জরুরি বলেছি শুধু এজন্য যে আমার পরিবারে বরাবর এমনই চলে এসেছে? কেউ যদি জিজ্ঞেস করে আল্লাহ কোথায় এ কথা বলেছেন, আমি কি জবাব দিতে পারব?",
+    "pointsEn": [
+      "Which rule do I keep in Allah's name that I could not trace to anything He or His Messenger said?",
+      "When the reasons I give for a rule are tested, do they hold in every case, or only in the cases that suit me?",
+      "Have I passed a strictness on to someone else as religion, when it was really my preference or my family's habit?",
+      "When I do not know the ruling on something, am I willing to say I do not know rather than guess in His name?",
+      "Who learns their religion from me, and what would they be carrying if I turned out to be wrong?"
+    ],
+    "pointsBn": [
+      "আল্লাহর নামে কোন নিয়মটা আমি মেনে চলি, অথচ তিনি বা তাঁর রাসূল কোথায় তা বলেছেন, খুঁজে দেখাতে পারব না?",
+      "কোনো নিয়মের পক্ষে আমি যে যুক্তি দিই, যাচাই করলে তা কি সব ক্ষেত্রে টেকে, নাকি শুধু আমার সুবিধার ক্ষেত্রগুলোতে?",
+      "নিজের পছন্দ বা পরিবারের অভ্যাসকে কি কখনো দ্বীন বলে অন্যের ঘাড়ে কড়াকড়ি চাপিয়েছি?",
+      "কোনো বিষয়ের হুকুম না জানলে আমি কি 'জানি না' বলতে রাজি, নাকি তাঁর নামে আন্দাজে কথা বলে ফেলি?",
+      "কারা আমার কাছ থেকে দ্বীন শেখে, আর আমি ভুল হলে তারা কী বয়ে বেড়াবে?"
+    ],
+    "lessonEn": "Before calling anything forbidden or required in Allah's name, ask where He said it, and if you cannot answer, keep your preference as yours and not His.",
+    "lessonBn": "আল্লাহর নামে কোনো কিছুকে হারাম বা জরুরি বলার আগে জিজ্ঞেস করুন, তিনি কোথায় তা বলেছেন। জবাব না পেলে নিজের পছন্দকে নিজের বলেই রাখুন, তাঁর নামে চালাবেন না।"
   }
 };
 

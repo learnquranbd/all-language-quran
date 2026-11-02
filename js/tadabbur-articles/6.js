@@ -4799,6 +4799,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:144": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Pairs, Then Four More",
+          "bn": "চার জোড়ার পরে আরও চার"
+        },
+        "p": [
+          {
+            "en": "Surah al-An'am is Makkan, and by 6:142 its argument with the idolaters has reached the animals themselves: some livestock are for carrying and some are small, so eat of what Allah has provided and do not follow the footsteps of Satan. 6:143 then counts them out as eight azwaj, two of the sheep and two of the goats. This verse completes the count with two of the camels and two of the cattle, and repeats the same question word for word. The two verses are one argument, and they are read here together.",
+            "bn": "সূরা আনআম মক্কী। ৬:১৪২-এ পৌঁছে মুশরিকদের সঙ্গে এর তর্ক এসে ঠেকেছে খোদ পশুগুলোর কাছে: গবাদি পশুর কিছু বোঝা বয়, কিছু ছোট, অতএব আল্লাহর দেওয়া রিযিক থেকে খাও আর শয়তানের পদাঙ্ক অনুসরণ করো না। ৬:১৪৩ এরপর এগুলোকে গুনে দেখায় আটটি আযওয়াজ হিসেবে, ভেড়ার দুটি আর ছাগলের দুটি। এ আয়াত গোনা শেষ করে উটের দুটি আর গরুর দুটি দিয়ে, আর হুবহু একই প্রশ্ন আবার তোলে। দুই আয়াত মিলে একটাই যুক্তি, তাই এখানে দুটোকে একসঙ্গে পড়া হচ্ছে।"
+          },
+          {
+            "en": "Ibn Kathir calls the passage a statement of the ignorance of the Arabs before Islam in what they forbade of their cattle, dividing them into categories such as the bahirah, sa'ibah, wasilah and ham. Allah, he says, forbade none of these animals and none of their young; all were created for the children of Adam, for eating, riding, carrying, milk and other uses. He sets beside it 39:6, where Allah says He sent down for you of the livestock eight pairs. As-Sa'di describes the eight as a favour Allah reminds His servants of, each of them made lawful and good.",
+            "bn": "ইবন কাসীর এই অংশকে বলেন ইসলামের আগের আরবদের অজ্ঞতার বিবরণ। তারা গবাদি পশুর কিছু অংশ হারাম করে নিয়েছিল, আর পশুগুলোকে ভাগ করেছিল বাহীরা, সাইবা, ওয়াসীলা, হাম ইত্যাদি নানা শ্রেণিতে। তাঁর কথায়, আল্লাহ এর কোনো পশু হারাম করেননি, এদের বাচ্চাও না। সবই সৃষ্টি হয়েছে আদম সন্তানের জন্য: খাওয়া, চড়া, বোঝা বওয়া, দুধ আর আরও নানা কাজে। পাশে তিনি রাখেন ৩৯:৬, যেখানে আল্লাহ বলেন, তিনি তোমাদের জন্য গবাদি পশুর আট জোড়া নাযিল করেছেন। সা'দীর চোখে এই আটটি আল্লাহর এমন অনুগ্রহ, যা তিনি বান্দাদের মনে করিয়ে দিচ্ছেন, আর এর প্রতিটিকে তিনি হালাল ও পবিত্র করেছেন।"
+          },
+          {
+            "en": "No established occasion of revelation is attached to this verse. Al-Qurtubi and al-Baghawi connect the passage with a man named Malik ibn 'Awf, and al-Baghawi describes him arguing the point with the Prophet ﷺ, but neither gives a chain for the report. It is left aside here, and the verse is read by its place in the surah, at the end of a long list of rules about cattle and crops that the surah has already called invention.",
+            "bn": "এ আয়াতের সঙ্গে প্রতিষ্ঠিত কোনো শানে নুযূল যুক্ত নেই। কুরতুবী ও বাগাভী এই অংশকে মালিক ইবন আওফ নামের এক ব্যক্তির সঙ্গে জোড়েন, আর বাগাভী তাঁকে নবী ﷺ-এর সঙ্গে এ বিষয়ে তর্ক করতে দেখান। কিন্তু দুজনের কেউই বর্ণনাটির সনদ দেননি। তাই সেটি এখানে বাদ রাখা হলো। আয়াতটিকে পড়া হবে সূরায় তার অবস্থান দিয়ে: গবাদি পশু আর ফসল নিয়ে বানানো নিয়মের এক লম্বা তালিকার শেষে, যে তালিকাকে সূরা আগেই মনগড়া বলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pair, Womb and Charge",
+          "bn": "জোড়া, গর্ভ আর নির্দেশ"
+        },
+        "p": [
+          {
+            "en": "Azwaj is the plural of zawj, and at-Tabari explains why eight animals make eight azwaj rather than four. The female sheep is the zawj of the male and the male is the zawj of the female, so each of the two is a zawj in its own right. He cites 51:49, of everything We created two mates, and 7:189 and 33:37, where a spouse is called a zawj. Al-Baghawi adds that the Arabs call a single one a zawj when it is never apart from its fellow. The count is of individuals, each with its pair.",
+            "bn": "আযওয়াজ শব্দটি যাওজের বহুবচন। আটটি পশু কেন চারটি নয়, আটটি আযওয়াজ, তাবারী তা বুঝিয়ে বলেন। মাদী ভেড়া নর ভেড়ার যাওজ, নর ভেড়া মাদীর যাওজ, তাই দুটির প্রতিটিই আলাদা করে একেকটি যাওজ। প্রমাণ হিসেবে তিনি আনেন ৫১:৪৯, প্রত্যেক জিনিস আমি জোড়ায় জোড়ায় সৃষ্টি করেছি, আর ৭:১৮৯ ও ৩৩:৩৭, যেখানে স্বামী বা স্ত্রীকে যাওজ বলা হয়েছে। বাগাভী যোগ করেন, যে একটি জিনিস তার সঙ্গী থেকে কখনো আলাদা থাকে না, আরবরা সেই একটিকেও যাওজ বলে। গোনা হচ্ছে তাই একেকটি পশুকে, যার প্রত্যেকের সঙ্গে আছে তার জোড়া।"
+          },
+          {
+            "en": "Ishtamalat 'alayhi arhamu al-unthayayn: what the wombs of the two females enclose. Al-Hasan, as at-Tabari records him, glosses it simply as what the womb carries. The verb of the second question is wassakum, He charged you, the word for an instruction laid on someone, and those asked about it are shuhada', which al-Baghawi glosses as people present. So the question is not whether they had heard something said about Allah. It is whether they had been there when He said it.",
+            "bn": "ইশতামালাত আলাইহি আরহামুল উনসায়াইন: মাদী দুটির গর্ভ যা ধারণ করে আছে। তাবারী হাসানের কথা এনেছেন, যিনি এর সোজা ব্যাখ্যা দেন: গর্ভ যা বহন করে। দ্বিতীয় প্রশ্নের ক্রিয়াপদ ওয়াসসাকুম, তিনি তোমাদের নির্দেশ দিয়েছেন। কারও উপর কোনো দায়িত্ব অর্পণ করার কথা বোঝাতে শব্দটি আসে। আর জানতে চাওয়া হচ্ছে, তারা শুহাদা ছিল কি না। বাগাভী শব্দটির অর্থ করেন উপস্থিত লোকজন। অতএব প্রশ্নটা এ নয় যে আল্লাহর ব্যাপারে তারা কোনো কথা শুনেছে কি না। প্রশ্ন হলো, তিনি যখন কথাটা বলেছিলেন, তারা কি সেখানে ছিল?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question With No Safe Answer",
+          "bn": "যে প্রশ্নের নিরাপদ জবাব নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sets out how the question works. Say to them: was it the two males your Lord forbade? Had they claimed so, they would have given themselves the lie, because forbidding the two males makes every male offspring of the sheep and goats unlawful, while they ate the meat of the males and rode on their backs. Had they said the two females, the same followed for every female. And had they said what the wombs enclose, they would have been admitting that Allah forbade males and females alike, which they did not hold either. Every answer undid their own practice.",
+            "bn": "প্রশ্নটা কীভাবে কাজ করে, তাবারী তা খুলে দেখান। তাদের বলো: তোমাদের রব কি নর দুটি হারাম করেছেন? তারা তা দাবি করলে নিজেরাই নিজেদের মিথ্যুক প্রমাণ করত। কারণ নর দুটি হারাম হলে ভেড়া ও ছাগলের প্রতিটি নর বাচ্চাই হারাম হয়ে যায়, অথচ তারা নর পশুর গোশত খেত, পিঠে চড়ত। মাদী দুটি বললে একই কথা খাটে প্রতিটি মাদীর বেলায়। আর গর্ভে যা আছে বললে মেনে নিতে হয়, আল্লাহ নর ও মাদী সবই হারাম করেছেন। সেটাও তারা মানত না। যে জবাবই দিক, তাতে ভেঙে পড়ে তাদের নিজেদেরই আচরণ।"
+          },
+          {
+            "en": "Al-Qurtubi draws a principle of method from the passage. It establishes, he says, debate in matters of knowledge and reasoning by analogy, and shows that an analogy is void when a text, or in another wording a counter-case, stands against it, since Allah required them to apply their own cause consistently: if the males, every male; if the females, every female; if the womb, every newborn. As-Sa'di observes that the three options exhaust the possible divisions, and they held none of them, only conventions of their own: an animal forbidden to the women and not the men, or forbidden at one time and not another.",
+            "bn": "কুরতুবী এ অংশ থেকে যুক্তির এক নীতি বের করেন। তাঁর মতে এখানে প্রমাণ মেলে যে জ্ঞানের বিষয়ে বিতর্ক চলে, কিয়াস বা উপমাভিত্তিক যুক্তিও চলে। আরও প্রমাণ মেলে যে কোনো কিয়াসের বিপরীতে নস, অর্থাৎ শরীয়তের স্পষ্ট পাঠ, এসে দাঁড়ালে সেটি বাতিল। তাঁর উদ্ধৃত আরেক পাঠে নসের জায়গায় আছে বিপরীত দৃষ্টান্ত। কারণ আল্লাহ তাদের বাধ্য করেছেন নিজেদের দেওয়া কারণটা সব জায়গায় সমানভাবে খাটাতে। নর হারাম হলে প্রতিটি নর হারাম, মাদী হলে প্রতিটি মাদী, গর্ভের বাচ্চা হলে প্রতিটি নবজাতক। সা'দী লক্ষ করেন, এই তিনটি বিকল্পেই সম্ভাব্য সব ভাগ শেষ, আর তারা এর একটিও মানত না। তারা মানত নিজেদের বানানো কিছু প্রথা: কোনো পশু পুরুষদের জন্য হালাল অথচ নারীদের জন্য হারাম, কিংবা কোনো সময়ে হারাম আর অন্য সময়ে নয়।"
+          },
+          {
+            "en": "Al-Baghawi presses the point to its end. The womb holds nothing but a male or a female, so a ban rooted in the womb would cover them all; where, then, does singling out the fifth or the seventh offspring come from? At-Tabari records Ibn 'Abbas (RA), through 'Ali ibn Abi Talhah, asking whether the womb holds anything but male or female, so why forbid some and permit others; and through another chain, that Allah is saying I forbade none of this, and all of it is lawful. Qatadah's gloss is: I did not forbid any of it, little or much, male or female.",
+            "bn": "বাগাভী কথাটাকে শেষ সীমা পর্যন্ত টেনে নেন। গর্ভে নর অথবা মাদী ছাড়া আর কিছু থাকে না। তাহলে গর্ভের কারণে নিষেধ হলে নিষেধ সবার উপরই পড়ত। তবে পঞ্চম বা সপ্তম বাচ্চাকে আলাদা করে নিষিদ্ধ করার কথা এল কোথা থেকে? তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর প্রশ্ন উদ্ধৃত করেন: গর্ভে কি নর বা মাদী ছাড়া অন্য কিছু থাকে? তাহলে কিছু হারাম আর কিছু হালাল করা কেন? আরেক সূত্রে ইবন আব্বাস (রাঃ) বলেন, আল্লাহ বলছেন, এর কিছুই আমি হারাম করিনি, সবই হালাল। কাতাদার ব্যাখ্যা: এর অল্প বা বেশি, নর বা মাদী, কিছুই আমি হারাম করিনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Messenger, or Were You There",
+          "bn": "রাসূল এনেছেন, নাকি তোমরা ছিলে"
+        },
+        "p": [
+          {
+            "en": "The second question closes the only other road. At-Tabari explains that a report from Allah that something is forbidden can be known in only two ways: by revelation brought by a messenger He sends to His creation, or by hearing it from Him. So, he paraphrases, by which of the two did you learn it? Through a messenger sent to you, in which case inform me with knowledge if you are truthful? Or did you witness your Lord and hear the prohibition from Him? Neither had happened. Either honest answer would have been an admission.",
+            "bn": "দ্বিতীয় প্রশ্ন বন্ধ করে দেয় বাকি একমাত্র পথটিও। তাবারী বুঝিয়ে বলেন, আল্লাহ কোনো কিছু হারাম করেছেন, এ খবর জানার উপায় মাত্র দুটি। হয় তিনি সৃষ্টির কাছে যে রাসূল পাঠান, তাঁর আনা ওহীর মাধ্যমে, নয়তো সরাসরি তাঁর কাছ থেকে শুনে। তাবারীর ভাষ্যে প্রশ্নটা তাই এমন: এ দুটির কোন পথে তোমরা জেনেছ? তোমাদের কাছে পাঠানো কোনো রাসূলের মাধ্যমে? তাহলে সত্যবাদী হলে জ্ঞানের ভিত্তিতে আমাকে জানাও। নাকি তোমরা নিজেরা তোমাদের রবকে দেখেছ আর তাঁর মুখ থেকে নিষেধ শুনেছ? দুটির কোনোটিই ঘটেনি। সৎভাবে যে জবাবই দিত, তা হতো স্বীকারোক্তি।"
+          },
+          {
+            "en": "Ibn Kathir calls the question tahakkum, a mockery of what they had innovated and fabricated against Allah. As-Sa'di reads it as leaving them nothing but a bare claim they had no way to make good: that Allah had charged them and revealed to them as He revealed to His messengers, and indeed revealed something contrary to what the messengers called to and the Books brought down. That, he says, is a fabrication nobody fails to recognise. Al-Qurtubi describes the moment from their side: when the argument bound them, they turned to fabrication and said, this is what Allah commanded.",
+            "bn": "ইবন কাসীর এই প্রশ্নকে বলেন তাহাক্কুম, অর্থাৎ তারা যা উদ্ভাবন করে আল্লাহর নামে চালিয়েছিল, তা নিয়ে বিদ্রূপ। সা'দীর পাঠে প্রশ্নটা তাদের হাতে রেখে যায় শুধু একটা খালি দাবি, যা সত্য প্রমাণের কোনো উপায় তাদের ছিল না। দাবিটা হলো, আল্লাহ তাদের এ নির্দেশ দিয়েছেন, রাসূলদের কাছে যেমন ওহী পাঠান তেমনি তাদের কাছেও পাঠিয়েছেন। তাও আবার এমন ওহী, যা রাসূলদের দাওয়াত আর নাযিলকৃত কিতাবের উল্টো। তাঁর কথায়, এমন মিথ্যা রচনা কারও অজানা থাকে না। কুরতুবী মুহূর্তটা দেখান তাদের দিক থেকে: যুক্তির ফাঁসে আটকে গিয়ে তারা মিথ্যা রচনার আশ্রয় নিল আর বলল, আল্লাহ এমনটাই হুকুম করেছেন।"
+          },
+          {
+            "en": "The early reports preserve the two answers they actually gave. As-Suddi, in at-Tabari, says that those who set apart the bahirahs and sa'ibahs used to say Allah had commanded this. Ibn Jurayj, in the same tafsir, records the other answer: we found our fathers doing so. The first claimed a revelation that never came. The second admitted, without meaning to, that there had been none, and offered custom in its place.",
+            "bn": "পূর্বসূরিদের বর্ণনায় তাদের আসল দুটি জবাবই রক্ষিত আছে। তাবারীর তাফসীরে সুদ্দী বলেন, যারা বাহীরা আর সাইবা আলাদা করে রাখত, তারা বলত, আল্লাহ এরই হুকুম দিয়েছেন। একই তাফসীরে ইবন জুরাইজ উদ্ধৃত করেন অন্য জবাবটি: আমরা আমাদের বাপ-দাদাকে এমনটাই করতে দেখেছি। প্রথম জবাব দাবি করে এমন এক ওহীর, যা কখনো আসেনি। দ্বিতীয়টি নিজের অজান্তে মেনে নেয় যে কোনো ওহী ছিলই না, আর তার জায়গায় এগিয়ে দেয় প্রথাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lie Told to Mislead",
+          "bn": "বিপথে নিতে বানানো মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "The verdict follows: fa-man azlamu mimmani iftara 'ala Allahi kadhiban li-yudilla al-nasa bi-ghayri 'ilm, then who is more unjust than whoever invents a lie about Allah to lead people astray without knowledge? At-Tabari reads the comparison as describing a man who wrongs himself more severely and stands further from the truth, and he names the lie concretely: attributing to Allah the forbidding of what He did not forbid and the permitting of what He did not permit. Li-yudilla, he says, means to turn people away from His path.",
+            "bn": "এরপর আসে রায়: ফামান আযলামু মিম্মানিফতারা আলাল্লাহি কাযিবান লিইউদিল্লান নাসা বিগাইরি ইলম। যে ব্যক্তি না জেনে মানুষকে পথভ্রষ্ট করার জন্য আল্লাহর নামে মিথ্যা রচনা করে, তার চেয়ে বড় যালিম আর কে? তাবারী তুলনাটা পড়েন এভাবে: সে নিজের উপর সবচেয়ে কঠিন যুলুম করে, সত্য থেকে সবচেয়ে দূরে থাকে। মিথ্যাটার পরিচয়ও তিনি স্পষ্ট করে দেন। আল্লাহ যা হারাম করেননি তা হারাম করার, আর যা হালাল করেননি তা হালাল করার দায় তাঁর উপর চাপানো। তাঁর মতে লিইউদিল্লা মানে মানুষকে তাঁর পথ থেকে ফিরিয়ে রাখা।"
+          },
+          {
+            "en": "As-Sa'di dwells on that aim: alongside the lie itself, the forger means to lead Allah's servants away from His path, with no evidence, no proof, neither reason nor transmitted text behind him. The Muyassar places the ignorance in the forger, who turns people from guidance by his own lack of knowledge. Of the closing clause, at-Tabari says Allah does not grant success towards right guidance to whoever forges lies against Him.",
+            "bn": "সা'দী এই উদ্দেশ্যের উপর জোর দেন। মিথ্যার সঙ্গে সঙ্গে রচনাকারীর লক্ষ্য আল্লাহর বান্দাদের তাঁর পথ থেকে সরিয়ে নেওয়া, অথচ তার পেছনে কোনো দলীল নেই, প্রমাণ নেই, না যুক্তি না বর্ণনা। মুয়াসসার অজ্ঞতাটাকে রাখে রচনাকারীর নিজের ঘাড়ে: সে নিজের অজ্ঞতা দিয়েই মানুষকে হিদায়াতের পথ থেকে ফিরিয়ে দেয়। শেষ বাক্যটি সম্পর্কে তাবারী বলেন, যে আল্লাহর নামে মিথ্যা রচনা করে, আল্লাহ তাকে সঠিক পথের তাওফীক দেন না।"
+          },
+          {
+            "en": "Ibn Kathir names the first to fall under the verse: 'Amr ibn Luhayy ibn Qam'ah, the first to change the religion of the prophets and to institute the sa'ibah, wasilah and ham, as established, he says, in the Sahih. Sahih Muslim records from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: I saw 'Amr ibn Luhayy ibn Qam'ah ibn Khindif, the father of these Banu Ka'b, dragging his intestines in the Fire. The narration speaks of the man and is not reported as the occasion of this verse.",
+            "bn": "এ আয়াতের আওতায় প্রথম কে পড়ে, ইবন কাসীর তার নাম বলেন: আমর ইবন লুহাই ইবন কামাআ। তিনিই প্রথম নবীদের দ্বীন বদলে দেন, প্রথম সাইবা, ওয়াসীলা আর হাম চালু করেন। ইবন কাসীর বলেন, সহীহ গ্রন্থে এটি প্রমাণিত। সহীহ মুসলিমে আবূ হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আমি আমর ইবন লুহাই ইবন কামাআ ইবন খিনদিফকে দেখেছি, বনী কা'বের এই লোকদের পূর্বপুরুষ, সে জাহান্নামে নিজের নাড়িভুঁড়ি টেনে বেড়াচ্ছে। বর্ণনাটি ওই লোকটির ব্যাপারে, এ আয়াতের শানে নুযূল হিসেবে আসেনি।"
+          },
+          {
+            "en": "The verse describes what people of its own time did with their herds and with their claims about Allah, and it licenses nothing against any living person or community. Its warning is aimed at an act, putting words in Allah's mouth, and that act is within reach of anyone who speaks about religion, the reader included.",
+            "bn": "আয়াতটি বর্ণনা করে নিজের যুগের কিছু মানুষ তাদের পশুপাল আর আল্লাহর নামে করা দাবি নিয়ে কী করেছিল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এর সতর্কবাণী একটি কাজের বিরুদ্ধে: আল্লাহর মুখে এমন কথা বসানো, যা তিনি বলেননি। দ্বীন নিয়ে যে-ই কথা বলে, সে কাজ তার নাগালেই থাকে, পাঠক নিজেও এর বাইরে নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Answer in the Next Verse",
+          "bn": "পরের আয়াতেই জবাব"
+        },
+        "p": [
+          {
+            "en": "The surah does not leave the question hanging. In 6:145 the Prophet ﷺ is told to say: I do not find in what has been revealed to me anything forbidden to anyone who would eat it, except carrion, blood poured out, the flesh of swine, or what was offered to other than Allah. As-Sa'di says the purpose is that people know everything besides these is lawful, and that whoever ascribes a prohibition to Allah beyond them is lying, since prohibition comes only from Allah on the tongue of His Messenger.",
+            "bn": "প্রশ্নটা সূরা ঝুলিয়ে রাখে না। ৬:১৪৫-এ নবী ﷺ-কে বলতে বলা হয়: আমার কাছে যে ওহী এসেছে, তাতে খেতে চায় এমন কারও জন্য আমি কিছুই হারাম পাই না, শুধু মৃত পশু, প্রবাহিত রক্ত, শূকরের গোশত আর আল্লাহ ছাড়া অন্যের নামে উৎসর্গ করা পশু ছাড়া। সা'দী বলেন, উদ্দেশ্য হলো মানুষ যেন জানে এগুলো ছাড়া বাকি সব হালাল। এর বাইরে কেউ কোনো কিছুর হারাম হওয়াকে আল্লাহর দিকে জুড়ে দিলে সে মিথ্যাবাদী, কারণ হারাম ঘোষণা আসে কেবল আল্লাহর কাছ থেকে, তাঁর রাসূলের মুখ দিয়ে।"
+          },
+          {
+            "en": "Whether that list closes the matter, the scholars answered differently, and al-Qurtubi sets out the positions. The first, which he attributes to most people of knowledge, holds that the verse is Makkan and whatever the Book or the Prophet ﷺ forbade afterwards is joined to it as an added ruling. Another says it was abrogated by the hadith forbidding every fanged beast of prey. A third holds it unabrogated, forbidding nothing beyond what it names, a view narrated from Ibn 'Abbas, Ibn 'Umar and 'A'ishah (RA), though the opposite is narrated from them too.",
+            "bn": "এই তালিকাতেই বিষয়টা শেষ কি না, সে প্রশ্নে আলিমদের জবাব এক নয়। কুরতুবী মতগুলো সাজিয়ে দেন। প্রথম মত, যা তাঁর ভাষায় অধিকাংশ আলিমের: আয়াতটি মক্কী, পরে কিতাবে বা নবী ﷺ-এর মুখে যা হারাম ঘোষিত হয়েছে, তা এর সঙ্গে যুক্ত হওয়া বাড়তি বিধান। আরেক মত বলে, শিকারি দাঁতওয়ালা প্রতিটি হিংস্র পশু হারাম ঘোষণার হাদীস দিয়ে আয়াতটি মানসূখ হয়ে গেছে। তৃতীয় মত বলে, আয়াতটি মানসূখ নয়, এতে যা আছে তার বাইরে কিছুই হারাম নয়। এ মত ইবন আব্বাস, ইবন উমর ও আয়েশা (রাঃ) থেকে বর্ণিত, তবে তাঁদের থেকে উল্টো মতও বর্ণিত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witnesses, Knowledge and a Real Charge",
+          "bn": "সাক্ষী, জ্ঞান আর আসল নির্দেশ"
+        },
+        "p": [
+          {
+            "en": "The challenge of this verse returns twice before the surah ends. 6:148 asks, do you have any knowledge that you can bring out for us? You follow nothing but assumption. 6:150 takes up the word shuhada' itself: bring your witnesses who will testify that Allah forbade this, and if they testify, do not testify with them. Beyond the surah, 7:33 counts saying about Allah what you do not know among the things He has forbidden.",
+            "bn": "এ আয়াতের চ্যালেঞ্জ সূরা শেষ হওয়ার আগে আরও দুবার ফিরে আসে। ৬:১৪৮ জিজ্ঞেস করে: তোমাদের কাছে কি এমন কোনো জ্ঞান আছে, যা আমাদের সামনে বের করে দেখাতে পারো? তোমরা তো শুধু ধারণার পেছনে চলো। ৬:১৫০ তুলে নেয় শুহাদা শব্দটাকেই: তোমাদের সেই সাক্ষীদের হাজির করো, যারা সাক্ষ্য দেবে যে আল্লাহ এটা হারাম করেছেন, আর তারা সাক্ষ্য দিলে তুমি তাদের সঙ্গে সাক্ষ্য দিয়ো না। সূরার বাইরে ৭:৩৩ আল্লাহ সম্পর্কে না জেনে কথা বলাকে তাঁর হারাম করা বিষয়গুলোর মধ্যে গুনেছে।"
+          },
+          {
+            "en": "And the verb wassakum comes back with its true object. 6:151, 6:152 and 6:153 recite what your Lord has really forbidden, beginning with associating anything with Him, and each of the three verses closes on dhalikum wassakum bihi, this is what He has charged you with. The surah first asked whether they had been present when Allah charged them, and then recited what He had actually charged.",
+            "bn": "ওয়াসসাকুম ক্রিয়াপদটিও ফিরে আসে, এবার তার আসল বিষয় নিয়ে। ৬:১৫১, ৬:১৫২ ও ৬:১৫৩ পড়ে শোনায় তোমাদের রব সত্যিই কী হারাম করেছেন, শুরু হয় তাঁর সঙ্গে কোনো কিছুকে শরীক না করা দিয়ে। আর এই তিনটি আয়াতের প্রতিটি শেষ হয় একই কথায়: যালিকুম ওয়াসসাকুম বিহি, এটাই তিনি তোমাদের নির্দেশ দিয়েছেন। সূরা আগে জানতে চেয়েছিল, আল্লাহ যখন নির্দেশ দিচ্ছিলেন তারা কি উপস্থিত ছিল। তারপর শুনিয়ে দিল তিনি আসলে কী নির্দেশ দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Putting the Doors to Myself",
+          "bn": "দরজাগুলো নিজের সামনে"
+        },
+        "p": [
+          {
+            "en": "The verse hands its reader a test to carry. Take any rule you hold in Allah's name and put the same questions to it. Does your reason for it hold in every case it ought to cover, or only where it suits you? And where did it come from: a text you can point to, a scholar's reasoned view honestly labelled as such, or simply the fact that your elders did it?",
+            "bn": "আয়াতটি পাঠকের হাতে একটা পরীক্ষা তুলে দেয়, যা সঙ্গে নিয়ে চলা যায়। আল্লাহর নামে আপনি যে নিয়মই মানেন, তাকে একই প্রশ্নগুলোর সামনে দাঁড় করান। নিয়মটির পক্ষে আপনার যুক্তি কি সব ক্ষেত্রেই খাটে, যেখানে খাটার কথা? নাকি খাটে শুধু আপনার সুবিধামতো জায়গায়? আর নিয়মটা এল কোথা থেকে? এমন কোনো দলীল থেকে, যা দেখাতে পারেন? কোনো আলিমের যুক্তিনির্ভর মত থেকে, যাকে মত বলেই সৎভাবে পরিচয় দেওয়া হয়েছে? নাকি শুধু এই কারণে যে মুরুব্বিরা এমন করতেন?"
+          },
+          {
+            "en": "The last answer is not a sin in itself, and much custom is harmless. What the verse condemns is dressing custom as Allah's command and handing it to others in that dress. A short sentence guards against it: I do not know. Saying it costs a moment of pride. Leaving it unsaid can lead other people astray, and that is the wrong the verse says nothing exceeds.",
+            "bn": "শেষ জবাবটা নিজে কোনো গুনাহ নয়, অনেক প্রথাই নির্দোষ। আয়াত যা নিন্দা করে তা হলো প্রথাকে আল্লাহর হুকুমের পোশাক পরানো, তারপর সেই পোশাকেই অন্যের হাতে তুলে দেওয়া। এর থেকে বাঁচায় ছোট্ট একটি বাক্য: আমি জানি না। কথাটা বলতে একটু অহংকার ছাড়তে হয়, এর বেশি কিছু নয়। আর না বললে অন্য মানুষ বিপথে যেতে পারে। আয়াত বলছে, এর চেয়ে বড় যুলুম আর নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "6:146": {
     "sections": [
       {
