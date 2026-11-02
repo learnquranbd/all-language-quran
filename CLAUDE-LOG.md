@@ -16,7 +16,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## WAVE 2 (2026-11-02): more ayahs.
 GROUP SHIP 1: v1310-v1340 (31 keys) pushed + deployed 2026-11-02. USER: "Enrich with 10 agents" -> chose "Tadabbur: more ayahs".
-GROUP SHIP 2: v1341-v1362 (22 keys) pushed + deployed 2026-11-02 ~11:35. Paused at 7d 84% (reset Mon 2 Nov 16:00); nothing in flight.
+GROUP SHIP 2: v1341-v1362 pushed + deployed 2026-11-02 ~11:35. USER 15:15: "run till 99%", 12 at a time; then: after the wave, 2 drafters at a time until 7d 98%, then 1 at a time to the limit. Round 3: v1363-v1391 DONE (29 keys + fix commits b9fd2c37 7:17, 6a7b9702 7:8), NOT pushed. In flight: 7:93 7:98 (2 at a time). Push+deploy after next 2 (>30).
 RESUME: after the 16:00 reset, 12 drafters; 504 targets left; next: 5:21 5:33 5:38 5:51 5:68 5:75 5:87 5:101 5:114 6:10 6:21 6:34. Superseded single-key audit folders (audit/2_4, 2_68, 3_33, ...) are leftovers, safe to delete.
 OPEN (user decides): data/nuzul/asbab-w6-batch.json 3:195 entry says Tirmidhi 3023 "graded hasan sahih"; the fetched quranx page (audit/3_195/hadith_Tirmidhi_3023.txt) carries no grading from at-Tirmidhi. Unverified either way.
 NOTE: 4:152-153 (at-Tabari, al-Qurtubi, al-Muyassar: calf after the revival) and 2:55-56 (Ibn Ishaq: the seventy went out to repent for the calf) give different sequences; both attributed, difference not mentioned in either.
