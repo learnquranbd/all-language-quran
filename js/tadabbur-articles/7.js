@@ -2219,6 +2219,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:63": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Before the Flood",
+          "bn": "প্লাবনের আগে একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "This verse sits inside the first prophet's story in this run of the surah. In 7:59 Nuh (AS) calls his people to worship Allah, for they have no god besides Him, and tells them he fears for them the punishment of a tremendous Day. In 7:60 the chiefs reply that they see him in clear error. In 7:61 and 7:62 he answers them. Our verse is his last word in the passage, and 7:64 closes the account in one sentence: they denied him, he and those with him were saved in the ark, and the deniers were drowned.",
+            "bn": "সূরার এই অংশে প্রথম যে নবীর কাহিনি আসে, আয়াতটি তারই ভেতরে। ৭:৫৯ আয়াতে নূহ (আঃ) তাঁর কওমকে ডাকেন আল্লাহর ইবাদতের দিকে, কারণ তিনি ছাড়া তাদের কোনো ইলাহ নেই। বলেন, এক মহাদিনের আজাবের ভয় করছি তোমাদের জন্য। ৭:৬০ আয়াতে সর্দারেরা জবাব দেয়: আমরা তো তোমাকে স্পষ্ট ভ্রান্তিতে দেখছি। ৭:৬১ ও ৭:৬২ আয়াতে তিনি উত্তর দেন। আমাদের আয়াতটি এ অংশে তাঁর শেষ কথা। আর ৭:৬৪ আয়াত একটিমাত্র বাক্যে কাহিনি শেষ করে দেয়: তারা তাঁকে মিথ্যাবাদী বলল, তিনি ও তাঁর সঙ্গীরা নৌকায় রক্ষা পেলেন, আর অস্বীকারকারীরা ডুবে গেল।"
+          },
+          {
+            "en": "It opens a-wa-'ajibtum, and do you wonder. At-Tabari, al-Qurtubi and al-Baghawi each note the shape: the question's alif set in front of the conjunction wa, which at-Tabari and al-Qurtubi give as the reason the wa takes a fatha. Al-Qurtubi calls it a question of taqrir, which draws out the listener's admission, and adds that the alif alone may stand before the wa because of its strength. Ibn Kathir turns it into a plain instruction: do not wonder at this. As-Sa'di asks how they could wonder at a state of affairs that gives no cause for wonder.",
+            "bn": "আয়াতের শুরু আ-ওয়া আজিবতুম: তোমরা কি অবাক হচ্ছ? তাবারী, কুরতুবী ও বাগাভী তিনজনই গঠনটা খেয়াল করেছেন: সংযোজক অব্যয় ওয়ার আগে বসেছে প্রশ্নের আলিফ। তাবারী ও কুরতুবী বলেন, এ কারণেই ওয়ার উপর যবর। কুরতুবী একে বলেন তাকরীরের প্রশ্ন, অর্থাৎ এমন প্রশ্ন যা শ্রোতার মুখ থেকে তার নিজের স্বীকারোক্তি বের করে আনে। তিনি আরও বলেন, শক্তির কারণে কেবল আলিফই ওয়ার আগে বসতে পারে। ইবন কাসীর প্রশ্নটাকে সোজা নিষেধে রূপ দেন: এতে অবাক হয়ো না। সা'দী জিজ্ঞেস করেন, যে অবস্থায় অবাক হওয়ার কিছুই নেই, তাতে তোমরা অবাক হও কী করে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "There Is No Error in Me",
+          "bn": "আমার মধ্যে কোনো ভ্রান্তি নেই"
+        },
+        "p": [
+          {
+            "en": "The charge he answers is in 7:60. At-Tabari reads al-mala' as an assembly of men, and al-Qurtubi as the nobles and heads of the people. As-Sa'di describes them as the wealthy leaders whom others follow, and notes that calling him astray did not satisfy them: they made it clear error, plain to everyone. Ibn Kathir names the error as they saw it: his call to leave the idols they had found their fathers worshipping. He adds that this is how the wicked see the righteous, citing 83:32, where the sinners say of the believers, these are astray.",
+            "bn": "যে অভিযোগের জবাব তিনি দিচ্ছেন, তা ৭:৬০ আয়াতে। তাবারী আল-মালা বলতে বোঝান পুরুষদের একটি দল। কুরতুবীর মতে তারা কওমের অভিজাত ও নেতারা। সা'দী তাদের বর্ণনা দেন ধনী নেতা হিসেবে, যাদের পেছনে অন্যরা চলে। তিনি লক্ষ করেন, শুধু পথভ্রষ্ট বলে তাদের মন ভরেনি, তারা বলেছে স্পষ্ট ভ্রান্তি, যা সবার চোখে ধরা পড়ে। ইবন কাসীর বলেন, তাদের চোখে ভ্রান্তিটা ছিল এই: বাপদাদাকে যে মূর্তিগুলোর পূজা করতে দেখেছে, সেগুলো ছাড়ার ডাক। তিনি যোগ করেন, পাপাচারীরা নেককারদের এভাবেই দেখে। দলিল হিসেবে আনেন ৮৩:৩২, যেখানে অপরাধীরা মুমিনদের সম্পর্কে বলে, এরা তো পথভ্রষ্ট।"
+          },
+          {
+            "en": "The reply in 7:61 is short: ya qawmi laysa bi dalalatun wa lakinni rasulun min rabbil-'alamin, O my people, there is no error in me, but I am a messenger from the Lord of the worlds. He still calls them my people. As-Sa'di says Nuh (AS) answered them gently and softened towards them, in the hope that they would yield. Ma'arif al-Qur'an calls the chiefs' words harsh and the reply fit for a prophet: not anger against anger, but an effort to remove their doubts in the simplest words, a signpost, it says, for everyone who calls others to the truth.",
+            "bn": "৭:৬১ আয়াতে জবাবটা ছোট: ইয়া কাওমি লাইসা বী দালালাতুন ওয়া লাকিন্নী রাসূলুম মির রাব্বিল আলামীন। হে আমার কওম, আমার মধ্যে কোনো ভ্রান্তি নেই, বরং আমি জগৎসমূহের রবের পক্ষ থেকে প্রেরিত রাসূল। এত কিছুর পরেও তিনি তাদের ডাকছেন আমার কওম বলে। সা'দী বলেন, নূহ (আঃ) কোমল ভাষায় জবাব দিয়েছিলেন, তাদের প্রতি নরম হয়েছিলেন, যদি তারা মেনে নেয়। মাআরিফুল কুরআন সর্দারদের কথাকে বলে কঠোর, আর জবাবটাকে বলে নবীর উপযুক্ত। রাগের বদলে রাগ নয়, বরং সবচেয়ে সহজ কথায় তাদের সংশয় দূর করার চেষ্টা। গ্রন্থটির ভাষায়, যারাই মানুষকে সত্যের দিকে ডাকে, তাদের সবার জন্য এ এক পথনির্দেশক চিহ্ন।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di read the denial at full strength: I am not astray in any matter, in any respect. At-Tabari spells out the logic. I did not command you to single out Allah in worship because I had strayed from the road of truth; I commanded it because I am His messenger to you. Ibn Kathir glosses the Lord of the worlds as the Lord and Owner of everything, and Ma'arif notes that the phrase itself cuts against worshipping anything besides Him. Nothing in the reply concedes their charge. It is answered by naming who sent him.",
+            "bn": "মুয়াসসার ও সা'দী অস্বীকারটাকে পড়েন পূর্ণ শক্তিতে: কোনো বিষয়ে, কোনো দিক থেকেই আমি পথভ্রষ্ট নই। তাবারী যুক্তিটা খুলে বলেন। আমি তোমাদের একমাত্র আল্লাহর ইবাদত করতে বলেছি, সত্যের পথ থেকে সরে গেছি বলে নয়। বলেছি, কারণ আমি তোমাদের কাছে তাঁর রাসূল। ইবন কাসীর রাব্বুল আলামীনের ব্যাখ্যা দেন: সবকিছুর রব ও মালিক। মাআরিফ বলে, এই শব্দবন্ধ নিজেই তিনি ছাড়া অন্য কিছুর ইবাদতের বিরুদ্ধে দাঁড়ায়। জবাবের কোথাও তাদের অভিযোগ মেনে নেওয়া হয়নি। অভিযোগের উত্তর এসেছে তাঁকে কে পাঠিয়েছেন, তা জানিয়ে দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Conveying, and Wishing Them Well",
+          "bn": "পৌঁছে দেওয়া, ভালো চাওয়া"
+        },
+        "p": [
+          {
+            "en": "In 7:62 he describes his work in three verbs: ublighukum risalati rabbi, I convey to you the messages of my Lord; wa ansahu lakum, and I counsel you; wa a'lamu minallahi ma la ta'lamun, and I know from Allah what you do not know. Al-Baghawi and al-Qurtubi record two forms of the first verb, al-Baghawi naming Abu 'Amr as reading it without the doubled consonant, and al-Qurtubi gives the view that both carry one meaning. Ibn Kathir says this is the mark of a messenger: eloquent in delivering and sincere in counsel for Allah's sake, unmatched by anyone in these qualities.",
+            "bn": "৭:৬২ আয়াতে তিনি নিজের কাজ বলেন তিনটি ক্রিয়ায়। উবাল্লিগুকুম রিসালাতি রাব্বী: আমি তোমাদের কাছে আমার রবের বাণী পৌঁছে দিই। ওয়া আনসাহু লাকুম: আর তোমাদের নসিহত করি। ওয়া আ'লামু মিনাল্লাহি মা লা তা'লামূন: আর আল্লাহর পক্ষ থেকে এমন কিছু জানি যা তোমরা জানো না। বাগাভী ও কুরতুবী প্রথম ক্রিয়ার দুটি রূপ উল্লেখ করেন। বাগাভী জানান, আবু আমর পড়েন তাশদীদ ছাড়া। কুরতুবী এ মতও আনেন যে দুই রূপের অর্থ একই। ইবন কাসীর বলেন, এটাই রাসূলের পরিচয়। তিনি পৌঁছে দেন স্পষ্ট ও সুন্দর ভাষায়, আল্লাহর জন্য খাঁটি মনে নসিহত করেন। এসব গুণে আল্লাহর সৃষ্টির কেউ তাঁদের নাগাল পায় না।"
+          },
+          {
+            "en": "The second verb carries the courtesy of the whole answer. Al-Baghawi defines nush as wanting for another the good you want for yourself. Al-Qurtubi defines it as an intention kept clear of any taint of corruption in one's dealings, the opposite of ghish, deceit, and notes that the verb is most eloquent with the preposition li, as it stands here. Ma'arif al-Qur'an paraphrases the stance: his sole mission was to convey what was in their interest and for their good, serving no benefit of Allah's and no personal interest of his own.",
+            "bn": "পুরো জবাবের সৌজন্যটা ধরা আছে দ্বিতীয় ক্রিয়ায়। বাগাভী নুসহের সংজ্ঞা দেন এভাবে: নিজের জন্য যে কল্যাণ চান, অন্যের জন্যও তা-ই চাওয়া। কুরতুবীর সংজ্ঞায় নুসহ হলো লেনদেনে নিয়তকে সব রকম ফাসাদের মিশ্রণ থেকে খাঁটি রাখা, যার বিপরীত গিশ, অর্থাৎ প্রতারণা। তিনি আরও বলেন, লি অব্যয় সহ এ ক্রিয়াটি সবচেয়ে বিশুদ্ধ, আর এখানে সেভাবেই এসেছে। মাআরিফুল কুরআন তাঁর অবস্থানটা নিজের ভাষায় বলে: তাঁর একমাত্র কাজ ছিল এমন বাণী পৌঁছানো, যাতে তাদেরই স্বার্থ আর কল্যাণ। এতে আল্লাহর কোনো লাভ নেই, তাঁর নিজেরও কোনো ব্যক্তিগত স্বার্থ নেই।"
+          },
+          {
+            "en": "On the third clause the commentators name what he knew. At-Tabari and al-Baghawi say it was that Allah's punishment is not turned back from a criminal people. Al-Muyassar makes it knowledge of His law, and Ma'arif says their doubts about the punishment came from lack of awareness, while he had been given certainty. As-Sa'di draws the consequence: since he knows what they do not, the right course is to obey him. So our verse comes after he has said: I am not astray, I am sent, I wish you well, and I know what is coming.",
+            "bn": "তৃতীয় অংশে তাফসীরকারেরা বলে দেন তিনি কী জানতেন। তাবারী ও বাগাভীর মতে তা হলো এই যে, অপরাধী কওমের উপর থেকে আল্লাহর আজাব ফেরানো যায় না। মুয়াসসার একে বলে তাঁর শরীআতের জ্ঞান। মাআরিফ বলে, আজাব নিয়ে তাদের সংশয় এসেছিল না জানার কারণে, আর তাঁকে এ বিষয়ে দেওয়া হয়েছিল নিশ্চিত জ্ঞান। সা'দী এর ফল টানেন: তারা যা জানে না তিনি যেহেতু তা জানেন, তাই সঠিক পথ হলো তাঁর আনুগত্য। কাজেই আমাদের আয়াতের আগে তিনি এ কথাগুলো বলে ফেলেছেন: আমি পথভ্রষ্ট নই, আমি প্রেরিত, তোমাদের ভালো চাই, আর সামনে কী আসছে তা জানি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reminder on a Man's Tongue",
+          "bn": "একজন মানুষের মুখে উপদেশ"
+        },
+        "p": [
+          {
+            "en": "Dhikrun min rabbikum, a reminder from your Lord. Al-Baghawi reports from Ibn 'Abbas that it means an admonition, and records two other views: a clarification, and a message. At-Tabari reads it as reminding and exhortation from Allah, recalling them to what their Lord sent down. Al-Muyassar calls it what reminds them of the good that lies in it for them. Each of these readings keeps the word pointed at the listeners' benefit, as Nuh (AS) had described his counsel.",
+            "bn": "যিকরুম মির রাব্বিকুম: তোমাদের রবের পক্ষ থেকে উপদেশ। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর অর্থ নসিহত। আরও দুটি মত তিনি উল্লেখ করেন: বর্ণনা, আর রিসালাত। তাবারী একে পড়েন আল্লাহর পক্ষ থেকে স্মরণ করিয়ে দেওয়া ও উপদেশ হিসেবে, যা তাদের রবের নাজিল করা বিষয় মনে করিয়ে দেয়। মুয়াসসার বলে, এ এমন বাণী যা তাদের নিজেদের কল্যাণের কথা মনে করিয়ে দেয়। প্রতিটি ব্যাখ্যাই শব্দটাকে শ্রোতার উপকারের দিকে ঘুরিয়ে রাখে। নূহ (আঃ) একটু আগেই নিজের নসিহতকে ঠিক এভাবেই বর্ণনা করেছিলেন।"
+          },
+          {
+            "en": "Then 'ala rajulin minkum, upon a man from among you. Al-Qurtubi gives three readings of the preposition: on the tongue of a man; 'ala in the sense of ma'a, with a man, which at-Tabari also reports; or a reminder sent down upon a man whose lineage you know, a man of your own kind. Al-Muyassar and as-Sa'di both press on that knowledge. For al-Muyassar he is a man whose lineage and truthfulness you know; as-Sa'di adds his reality and his condition. The thing they found strange is the thing that made him knowable.",
+            "bn": "তারপর আলা রাজুলিম মিনকুম: তোমাদেরই একজন মানুষের উপর। কুরতুবী অব্যয়টির তিনটি ব্যাখ্যা দেন। এক, একজন মানুষের মুখে। দুই, আলা অর্থ মাআ, অর্থাৎ একজন মানুষের সঙ্গে, তাবারীও এ মত উল্লেখ করেন। তিন, এমন মানুষের উপর নাজিল হওয়া উপদেশ, যার বংশ তোমরা চেনো, যে তোমাদেরই জাতের। মুয়াসসার ও সা'দী দুজনেই এই চেনাজানার উপর জোর দেন। মুয়াসসারের ভাষায়, তার বংশ আর সত্যবাদিতা তোমরা জানো। সা'দী যোগ করেন তার আসল পরিচয় আর তার হালচাল। যে বিষয়টিকে তারা অদ্ভুত মনে করল, ঠিক সেটাই তাঁকে চেনার উপায় করে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Not an Angel",
+          "bn": "ফেরেশতা কেন নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads our verse as Nuh's answer to people who denied that Allah had sent him and said, in Surah Hud, we see you only as a man like us (11:27). Ma'arif cites 23:24, where they add that had Allah willed, He would have sent down angels. Ibn Kathir answers: it is not strange that Allah should reveal to a man among you, as mercy, kindness and goodness to you. As-Sa'di calls it Allah's care for them, to be met with acceptance and thanks. Al-Qurtubi adds that had he been an angel, the difference of kind might have bred aversion.",
+            "bn": "তাবারী আমাদের আয়াতটিকে পড়েন নূহ (আঃ)-এর সেই জবাব হিসেবে, যা তিনি দিয়েছিলেন এমন লোকদের, যারা মানতে চায়নি যে আল্লাহ তাঁকে পাঠিয়েছেন। সূরা হূদে তাদের কথা আছে: আমরা তো তোমাকে আমাদেরই মতো একজন মানুষ ছাড়া কিছু দেখি না (১১:২৭)। মাআরিফ আনে ২৩:২৪, যেখানে তারা আরও বলে, আল্লাহ চাইলে ফেরেশতা পাঠাতেন। ইবন কাসীর জবাবে বলেন, তোমাদের একজনের কাছে আল্লাহ ওহি পাঠাবেন, এতে অদ্ভুত কিছু নেই, এ তো তোমাদের প্রতি রহমত, দয়া আর অনুগ্রহ। সা'দী একে বলেন তাদের প্রতি আল্লাহর যত্ন, যা কবুল আর শুকরিয়া দিয়ে গ্রহণ করার কথা। কুরতুবী যোগ করেন, তিনি ফেরেশতা হলে জাতের ভিন্নতায় স্বভাবগত দূরত্ব তৈরি হতে পারত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an makes the fullest case. Granting prophethood is Allah's alone, as He wills. Beyond that, a messenger's purpose can only be served by a human being, who shows that obedience is possible alongside hunger, thirst, sleep and fatigue. Had angels brought the call, people would have said that angels have no such needs, so how could we ever be like them? Ma'arif reads li-yundhirakum wa li-tattaqu in that light: the warning that moves people to fear is the one from someone of their own kind.",
+            "bn": "মাআরিফুল কুরআন যুক্তিটা সবচেয়ে বিস্তারিত দেয়। নবুওয়াত দেওয়া একমাত্র আল্লাহর এখতিয়ার, তিনি যাকে চান দেন। তার উপর, রাসূল পাঠানোর উদ্দেশ্য পূরণ হতে পারে কেবল একজন মানুষ দিয়েই। ক্ষুধা, তৃষ্ণা, ঘুম আর ক্লান্তি নিয়েও যে আল্লাহর আনুগত্য সম্ভব, সেটা তিনিই দেখিয়ে দিতে পারেন। ফেরেশতারা এ ডাক নিয়ে এলে মানুষ বলত, ওদের তো এসব প্রয়োজন নেই, আমরা ওদের মতো হব কী করে? মাআরিফ এই আলোয় লিয়ুনযিরাকুম ওয়া লিতাত্তাকূ পড়ে। যে সতর্কবাণী মানুষের মনে ভয় জাগায়, তা আসে তাদেরই জাতের কারও কাছ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warned, Guarded, Then Mercy",
+          "bn": "সতর্কবাণী, তাকওয়া, তারপর রহমত"
+        },
+        "p": [
+          {
+            "en": "The verse closes with three purposes in sequence. Li-yundhirakum, that he may warn you: at-Tabari says, warn you of Allah's might and make you fear His punishment for your disbelief, and al-Baghawi adds, if you do not believe. Wa li-tattaqu, and that you may guard yourselves: at-Tabari spells it out as declaring His oneness, sincere faith in Him and acting in obedience to Him, and Ibn Kathir as not associating anything with Him.",
+            "bn": "আয়াতের শেষে পরপর তিনটি উদ্দেশ্য। লিয়ুনযিরাকুম: যাতে সে তোমাদের সতর্ক করে। তাবারী বলেন, আল্লাহর পাকড়াও সম্পর্কে সাবধান করে আর কুফরের জন্য তাঁর শাস্তির ভয় দেখায়। বাগাভী যোগ করেন, যদি তোমরা ঈমান না আনো। ওয়া লিতাত্তাকূ: আর যাতে তোমরা তাকওয়া অবলম্বন করো। তাবারী এর ব্যাখ্যা দেন তাওহীদের স্বীকৃতি, তাঁর প্রতি খাঁটি ঈমান আর তাঁর আনুগত্যের আমল দিয়ে। ইবন কাসীরের ব্যাখ্যায়, তাঁর সঙ্গে কিছুকে শরীক না করা।"
+          },
+          {
+            "en": "Wa la'allakum turhamun, and that you may be shown mercy. At-Tabari reads it as: so that your Lord has mercy on you, if you fear Him and are wary of His might. As-Sa'di places the middle term: taqwa practised outwardly and inwardly is the means that saves, and through it Allah's wide mercy comes down. Ma'arif glosses the chain as the warning leading them to stop opposing him, and mercy following from that. The warning is the first word of the sequence, and mercy is the last.",
+            "bn": "ওয়া লাআল্লাকুম তুরহামূন: আর যাতে তোমাদের উপর রহমত করা হয়। তাবারীর ব্যাখ্যা: যাতে তোমাদের রব তোমাদের উপর দয়া করেন, যদি তোমরা তাঁকে ভয় করো আর তাঁর পাকড়াও থেকে সাবধান থাকো। সা'দী মাঝের ধাপটিকে ঠিক জায়গায় বসান। ভেতরে-বাইরে তাকওয়ার চর্চাই মুক্তির উপায়, আর তার মাধ্যমেই নেমে আসে আল্লাহর প্রশস্ত রহমত। মাআরিফ পুরো ধারাটা এভাবে বলে: সতর্কবাণী তাদের বিরোধিতা থেকে ফেরাবে, আর তার ফলে আসবে রহমত। ধারার প্রথম কথা সতর্কবাণী, শেষ কথা রহমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ark and a Blind People",
+          "bn": "নৌকা আর এক অন্ধ কওম"
+        },
+        "p": [
+          {
+            "en": "7:64 gives the outcome: fa-kadhdhabuhu, so they denied him. Ibn Kathir reads it as persisting in denial and opposition, with only a few believing with him, and at-Tabari cites 11:40: none believed with him except a few. Those few were saved in the fulk, which both gloss as the ship, and the rest were drowned. As-Sa'di adds that Allah had commanded Nuh (AS) to build it and to carry in it a pair of every kind, his family, and those who believed.",
+            "bn": "৭:৬৪ আয়াত পরিণতি জানায়: ফাকায্যাবূহু, তারা তাঁকে মিথ্যাবাদী বলল। ইবন কাসীর বলেন, তারা অস্বীকার আর বিরোধিতায় অটল রইল, অল্প কয়েকজনই তাঁর সঙ্গে ঈমান আনল। তাবারী আনেন ১১:৪০: আর অল্প কয়েকজন ছাড়া কেউ তাঁর সঙ্গে ঈমান আনেনি। সেই অল্প কজন রক্ষা পেলেন আল-ফুলকে, দুজনেই যার অর্থ বলেন নৌকা। বাকিরা ডুবে গেল। সা'দী যোগ করেন, আল্লাহ নূহ (আঃ)-কে নৌকাটি বানানোর হুকুম দিয়েছিলেন। তাতে তুলতে বলেছিলেন প্রতিটি প্রজাতির এক জোড়া, তাঁর পরিবার, আর যারা ঈমান এনেছিল তাদের।"
+          },
+          {
+            "en": "How many were in the ark the verse does not say, and the reports differ, as Ma'arif notes. At-Tabari carries a report from Ibn Ishaq naming Nuh (AS), his three sons Sam, Ham and Yafith, their wives, and six others who had believed. Ibn Kathir carries a report that Ibn Wahb said had reached him from Ibn 'Abbas, of eighty men, and says it was also narrated with a connected chain. These are reports, as their narrators gave them. The Quran's own word for the believers is few.",
+            "bn": "নৌকায় কতজন ছিলেন, আয়াত তা বলে না। মাআরিফ বলে, বর্ণনাগুলোতে ভিন্নতা আছে। তাবারী ইবন ইসহাকের একটি বর্ণনা আনেন, যাতে নাম আছে নূহ (আঃ), তাঁর তিনজন ছেলে সাম, হাম ও ইয়াফিস, তাদের স্ত্রীরা, আর ঈমান আনা আরও ৬ জনের। ইবন কাসীর আনেন আরেকটি বর্ণনা: ইবন ওয়াহব বলেন, ইবন আব্বাস (রাঃ) থেকে তাঁর কাছে খবর পৌঁছেছে যে সংখ্যাটা ছিল আশি জন পুরুষ। ইবন কাসীর বলেন, এটি অবিচ্ছিন্ন সনদেও বর্ণিত হয়েছে। এগুলো বর্ণনা, বর্ণনাকারীরা যেভাবে দিয়েছেন সেভাবেই। মুমিনদের জন্য কুরআনের নিজের শব্দ হলো, অল্প।"
+          },
+          {
+            "en": "Then innahum kanu qawman 'amin, they were a blind people. Mujahid, in at-Tabari, says: blind to the truth, and al-Qurtubi gives the same from Qatada, with another view, blind to knowing Allah and His power. Al-Baghawi reports from Ibn 'Abbas: their hearts were blind to knowing Allah. He quotes al-Zajjaj, blind to the truth and to faith, notes the usage of 'amin for blindness to the truth and a'ma for blindness of the eyes, then a view that the two forms are one. Muqatil read it as blind to the drowning coming upon them. As-Sa'di says they had seen the truth in Nuh's signs, and mocked.",
+            "bn": "তারপর ইন্নাহুম কানূ কাওমান আমীন: তারা ছিল এক অন্ধ কওম। তাবারীর বর্ণনায় মুজাহিদ বলেন, সত্যের ব্যাপারে অন্ধ। কুরতুবী একই কথা আনেন কাতাদা থেকে, সঙ্গে আরেকটি মত: আল্লাহ ও তাঁর কুদরতকে চেনার ব্যাপারে অন্ধ। বাগাভী ইবন আব্বাস (রাঃ) থেকে আনেন: আল্লাহকে চেনার ব্যাপারে তাদের অন্তর অন্ধ হয়ে গিয়েছিল। তিনি যাজ্জাজের কথা উদ্ধৃত করেন: তারা সত্য ও ঈমানের ব্যাপারে অন্ধ হয়েছিল। তারপর ভাষার ব্যবহার জানান: সত্যের ব্যাপারে অন্ধকে বলে আমী, চোখের অন্ধকে আ'মা। এরপর আনেন আরেকটি মত, যাতে দুই রূপ একই। মুকাতিলের মতে, তাদের উপর যে ডুবে মরা আসছিল, সে ব্যাপারে তারা ছিল অন্ধ। সা'দী বলেন, নূহ (আঃ)-এর নিদর্শনে তারা সত্য দেখেছিল, তবু বিদ্রূপ করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Familiar Messenger Today",
+          "bn": "চেনা মানুষের মুখে আজকের ডাক"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what one people did in one story: they called a messenger astray, denied him, and were drowned. It licenses nothing against any living person or community, and gives no one the right to call others blind or to point at a flood. Ibn Kathir reads the passage as Allah's way of supporting His messengers, and Ma'arif as a warning about denying them. The reader it is aimed at first is the one reading it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনিতে এক কওমের আচরণের বর্ণনা দেয়: তারা একজন রাসূলকে পথভ্রষ্ট বলেছে, তাঁকে অস্বীকার করেছে, আর ডুবে গেছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। অন্যকে অন্ধ বলার বা কারও দিকে প্লাবনের ইশারা করার অধিকারও কাউকে দেয় না। ইবন কাসীর এ অংশকে পড়েন রাসূলদের সাহায্য করার ব্যাপারে আল্লাহর নিয়ম হিসেবে, মাআরিফ পড়ে তাঁদের অস্বীকারের বিরুদ্ধে সতর্কবাণী হিসেবে। এর প্রথম লক্ষ্য যিনি পড়ছেন, তিনি নিজে।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. Ma'arif draws a wider lesson: the ignorant refuse to accept the excellence of anyone of their own kind, and so look down on the righteous and the scholars of their own time for being their contemporaries. The question of 7:63 can be turned on oneself. Whose reminder have I discounted because I know their family and their ordinary life? A short supplication in the verse's own words, not a transmitted one: O Allah, let me be warned, let me guard myself, and have mercy on me.",
+            "bn": "এ পর্যন্ত যত তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। মাআরিফ এখান থেকে আরও বড় একটা শিক্ষা টানে। অজ্ঞ লোকেরা নিজেদের জাতের কারও শ্রেষ্ঠত্ব মানতে চায় না। তাই সমকালীন নেককার আর আলেমদের তারা তুচ্ছ করে, শুধু তাঁরা সমসাময়িক বলে। ৭:৬৩ আয়াতের প্রশ্নটা নিজের দিকেও ঘোরানো যায়। কার উপদেশ আমি হালকা করে দেখেছি, শুধু তার পরিবার আর সাধারণ জীবনটা চিনি বলে? আয়াতের শব্দ দিয়ে একটা ছোট দোয়া, যা বর্ণিত দোয়া নয়: হে আল্লাহ, আমাকে সতর্ক হতে দিন, তাকওয়া অবলম্বন করতে দিন, আর আমার উপর রহমত করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "7:65": {
     "sections": [
       {

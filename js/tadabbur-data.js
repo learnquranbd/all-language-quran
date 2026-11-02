@@ -20671,6 +20671,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Following others into wrong is no excuse, and leading others into it adds to your own load, so choose your path as one who will answer for it.",
     "lessonBn": "অন্যের দেখাদেখি অন্যায় করা কোনো অজুহাত নয়, আর অন্যকে অন্যায়ে টেনে নিলে নিজের বোঝা বাড়ে। তাই এমনভাবে পথ বাছুন, যেন এর জবাব আপনাকেই দিতে হবে।"
+  },
+  "7:63": {
+    "reflectionEn": "The chiefs had just told Nuh (AS) that he was plainly astray. He did not answer anger with anger. He said there was no error in him, that he was a messenger conveying his Lord's words and wishing them well, and then he asked a question: does it really surprise you that a reminder from your Lord reached you through a man you know, one of your own, so that he might warn you, so that you might guard yourselves, so that you might be shown mercy? Their surprise was the excuse. The messenger's ordinariness was the gift. Who is the ordinary person near me whose good advice I have waved away because I know where they come from?",
+    "reflectionBn": "সর্দারেরা এইমাত্র নূহ (আঃ)-কে বলেছে, তুমি তো স্পষ্ট পথভ্রষ্ট। তিনি রাগের জবাব রাগ দিয়ে দেননি। বললেন, আমার মধ্যে কোনো ভ্রান্তি নেই, আমি রবের বাণী পৌঁছে দিচ্ছি, তোমাদের ভালো চাইছি। তারপর একটা প্রশ্ন করলেন: তোমাদের রবের পক্ষ থেকে উপদেশ এসেছে তোমাদেরই চেনা এক মানুষের মাধ্যমে, যাতে সে সতর্ক করে, যাতে তোমরা বাঁচার পথ ধরো, যাতে তোমাদের উপর রহমত হয়, এতে কি সত্যিই অবাক হওয়ার কিছু আছে? ওদের বিস্ময় আসলে ছিল একটা অজুহাত। রাসূলের সাধারণ মানুষ হওয়াটাই ছিল দান। আমার আশপাশে কোন সাধারণ মানুষটির ভালো পরামর্শ আমি উড়িয়ে দিয়েছি, শুধু এ কারণে যে আমি জানি সে কোথা থেকে এসেছে?",
+    "pointsEn": [
+      "When someone tells me I am wrong in harsh words, does my reply carry the same heat, or can I answer the charge and still call them my people?",
+      "Whose advice have I dismissed because the person giving it is too familiar to me, too ordinary, or too close to home?",
+      "Do I expect guidance to arrive in some grander form than a person I can see, and is that expectation a way of putting it off?",
+      "The verse runs from warning to guarding oneself to mercy. Which of the three am I avoiding, and what does that cost me?",
+      "What signs have I already seen clearly enough that, if I still look away, the word for me would be blind rather than unaware?"
+    ],
+    "pointsBn": [
+      "কেউ কড়া ভাষায় বললে আমি ভুল করছি, আমার জবাবেও কি সেই একই উত্তাপ থাকে? নাকি অভিযোগের জবাব দিয়েও তাকে আপন মানুষ বলে ডাকতে পারি?",
+      "কার পরামর্শ আমি উড়িয়ে দিয়েছি শুধু এজন্য যে মানুষটি বড় বেশি চেনা, বড় সাধারণ, কিংবা ঘরের লোক?",
+      "আমি কি আশা করে বসে আছি যে হিদায়াত আসবে চোখের সামনের কোনো মানুষের চেয়ে বড় কোনো রূপে? সেই আশাটা কি আসলে ব্যাপারটা পিছিয়ে রাখার কৌশল?",
+      "আয়াতটি এগোয় সতর্কবাণী থেকে তাকওয়ায়, তাকওয়া থেকে রহমতে। এ তিনটির কোনটি আমি এড়িয়ে চলছি, আর তার দাম কী দিচ্ছি?",
+      "কোন নিদর্শন আমি এত স্পষ্ট দেখেছি যে এখনো মুখ ফিরিয়ে রাখলে আমাকে অজ্ঞ নয়, অন্ধ বলাই ঠিক হবে?"
+    ],
+    "lessonEn": "Guidance usually reaches you through a person you know; do not let familiarity become the reason you refuse the reminder they bring.",
+    "lessonBn": "হিদায়াত সাধারণত আসে চেনা কোনো মানুষের মাধ্যমে। পরিচিতিকে সেই উপদেশ ফিরিয়ে দেওয়ার কারণ বানাবেন না।"
   }
 };
 
