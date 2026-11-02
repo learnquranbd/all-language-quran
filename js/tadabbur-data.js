@@ -20611,6 +20611,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The weighing that Day is true and misses nothing, so fill your scale now with faith, good character and remembrance, and never belittle a small deed.",
     "lessonBn": "সেদিনের ওজন সত্য, কিছুই বাদ পড়ে না। তাই এখনই ঈমান, সুন্দর চরিত্র আর জিকির দিয়ে নিজের পাল্লা ভরুন, আর কোনো ছোট আমলকে তুচ্ছ ভাববেন না।"
+  },
+  "6:153": {
+    "reflectionEn": "After the list of what is forbidden, the passage does not add one more rule. It points: this is My path, straight, so follow it, and do not follow the other paths, or they will scatter you away from His path. One road, named in the singular. Many roads, named in the plural. The danger is not pictured as a cliff or a wall. It is pictured as scattering, a drift in several directions at once, each track only a little way off the last. Then the verse says this was entrusted to you so that you may be mindful. Which way am I walking today because it is His path, and which only because it is the nearest, the easiest, or the one everyone around me took?",
+    "reflectionBn": "নিষিদ্ধ কাজের তালিকা শেষ হওয়ার পর এ অংশ আর একটি নিয়ম যোগ করে না। আঙুল তুলে দেখায়: এটাই আমার পথ, সরল, তাই এর অনুসরণ করো। অন্য পথগুলোর অনুসরণ কোরো না, করলে সেগুলো তোমাদের তাঁর পথ থেকে ছড়িয়ে-ছিটিয়ে দূরে সরিয়ে দেবে। পথ একটি, তাই একবচনে বলা। ভুল পথ অনেক, তাই বহুবচনে। বিপদের ছবিটা খাদ বা দেয়ালের নয়। ছবিটা ছড়িয়ে পড়ার। একসঙ্গে কয়েক দিকে সরে যাওয়া, প্রতিটি রাস্তা আগেরটার চেয়ে সামান্য একটু দূরে। তারপর আয়াত বলে, তিনি তোমাদের এই নির্দেশ দিলেন যাতে তোমরা সাবধান হয়ে চলো। আজ আমি কোন পথে হাঁটছি এ কারণে যে এটাই তাঁর পথ? আর কোন পথে হাঁটছি শুধু এ কারণে যে সেটা কাছে, সহজ, কিংবা আশপাশের সবাই সেটাই ধরেছে?",
+    "pointsEn": [
+      "Which choice this week did I make because it was right, and which because it was simply the road in front of me?",
+      "Where in my life is the drift happening not in one step but in several small turns, each one easy to excuse?",
+      "When I hear a teaching I dislike, do I bend my understanding toward the Book, or bend the Book toward what I already wanted?",
+      "Which arguments about religion have I joined to win rather than to learn, and what did they leave in my heart?",
+      "What does mindfulness of Allah ask of me at the next fork I can already see coming?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কোন সিদ্ধান্ত নিয়েছি সঠিক বলে, আর কোনটা শুধু সামনে পড়ে থাকা রাস্তা বলে?",
+      "আমার জীবনের কোথায় সরে যাওয়াটা এক লাফে ঘটছে না, ঘটছে কয়েকটা ছোট মোড়ে, যার প্রতিটার একটা অজুহাত হাতের কাছে আছে?",
+      "অপছন্দের কোনো শিক্ষা শুনলে আমি কি নিজের বুঝটাকে কিতাবের দিকে বাঁকাই, নাকি কিতাবকে বাঁকাই আগে থেকে যা চেয়েছিলাম তার দিকে?",
+      "দ্বীন নিয়ে কোন তর্কে আমি জড়িয়েছি শেখার জন্য নয়, জেতার জন্য? সেসব তর্ক আমার মনে কী রেখে গেছে?",
+      "সামনের যে মোড়টা এখনই দেখতে পাচ্ছি, সেখানে আল্লাহর ভয় আমার কাছে কী চায়?"
+    ],
+    "lessonEn": "Keep to the one straight path Allah has named, and see each side road for what it is, because leaving that path usually happens one small turn at a time.",
+    "lessonBn": "আল্লাহ যে একটি সরল পথের কথা বলেছেন তা আঁকড়ে থাকুন, আর প্রতিটি পাশের রাস্তাকে চিনে রাখুন, কারণ পথ ছেড়ে যাওয়া সাধারণত ঘটে একটা একটা ছোট মোড়ে।"
   }
 };
 

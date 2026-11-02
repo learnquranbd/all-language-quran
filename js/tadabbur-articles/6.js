@@ -5403,6 +5403,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:153": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Charge That Becomes a Road",
+          "bn": "নির্দেশ যখন পথ হয়ে ওঠে"
+        },
+        "p": [
+          {
+            "en": "This verse closes the recitation that 6:151 opened with Say, come, I will recite what your Lord has forbidden you. The charges given in the two verses before are not repeated here. The earlier verses list acts; this one names a road. Al-Qurtubi calls it a great verse joined to what came before; having forbidden and commanded, Allah now warns against following anything other than His path.",
+            "bn": "৬:১৫১ আয়াত যে তিলাওয়াত শুরু করেছিল, এ আয়াতে তা শেষ হয়: বলো, এসো, তোমাদের রব তোমাদের উপর যা হারাম করেছেন তা পড়ে শোনাই। আগের দুই আয়াতের নির্দেশগুলো এখানে আর ফিরে আসে না। আগের আয়াতগুলো কাজের তালিকা দেয়, এ আয়াত একটি পথের নাম বলে। কুরতুবী একে বলেন এক মহান আয়াত, যা আগের কথার সঙ্গে জোড়া। নিষেধ ও আদেশ দেওয়ার পর আল্লাহ এখানে সতর্ক করছেন, তাঁর পথ ছাড়া অন্য কিছুর পেছনে যেয়ো না।"
+          },
+          {
+            "en": "Three words for a way carry the verse. Sirati, My path, comes first. Subul, the plural of sabil, are the other ways. Then sabilihi, His path, returns to the singular, the speaker moving in one breath from My to His. The verse ends as its two companions did, dhalikum wassakum bihi, and closes the set with la'allakum tattaqun, that you may be mindful of Him.",
+            "bn": "আয়াতের ভার বইছে পথ বোঝানোর তিনটি শব্দ। প্রথমে সিরাতী, আমার পথ। তারপর সুবুল, সাবীলের বহুবচন, অর্থাৎ অন্য পথগুলো। শেষে সাবীলিহী, তাঁর পথ, আবার একবচনে। একই নিঃশ্বাসে বক্তা 'আমার' থেকে 'তাঁর'-এ সরে যান। আগের দুই আয়াতের মতোই এ আয়াত শেষ হয় যালিকুম ওয়াসসাকুম বিহী দিয়ে, আর তিন আয়াতের এই ধারা শেষ হয় লাআল্লাকুম তাত্তাকূন দিয়ে: যাতে তোমরা তাঁকে ভয় করে চলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Word This Points",
+          "bn": "'এটা' বলতে কোনটা"
+        },
+        "p": [
+          {
+            "en": "Wa anna hadha sirati: and that this is My path. At-Tabari takes this to be what your Lord enjoined on you in these two verses; that, he says, is His path, His way and the religion He approved for His servants. Al-Baghawi says the same more briefly. As-Sa'di reads wider: these rulings and whatever resembles them of what Allah set out in His Book, a path that reaches Him and His home of honour, balanced, easy and short.",
+            "bn": "ওয়া আন্না হাযা সিরাতী: আর এটাই আমার পথ। তাবারীর মতে 'এটা' হলো এই দুই আয়াতে তোমাদের রব যা নির্দেশ দিয়েছেন। তিনি বলেন, এটাই তাঁর পথ, তাঁর রাস্তা, আর সেই দ্বীন যা তিনি বান্দাদের জন্য পছন্দ করেছেন। বাগাভী আরও সংক্ষেপে একই কথা বলেন। সা'দী আরও বড় করে পড়েন: এই বিধানগুলো আর আল্লাহ তাঁর কিতাবে এদের মতো যা খুলে বলেছেন সবই। এ পথ পৌঁছে দেয় তাঁর কাছে, তাঁর সম্মানের ঘরে। পথটা ভারসাম্যপূর্ণ, সহজ ও সংক্ষিপ্ত।"
+          },
+          {
+            "en": "The Muyassar names it outright: this Islam is the straight road of Allah. Ma'arif al-Qur'an offers the religion of Islam, or the Qur'an, or perhaps Surah al-An'am itself, since the surah gathers tawhid, prophethood and the principles of the law. At-Tabari also records Ibn Zayd: His sabil is Islam and His sirat is Islam. The answers differ in reach, from the charges just recited to the whole religion.",
+            "bn": "মুয়াসসার সরাসরি নাম বলে: এই ইসলামই আল্লাহর সরল পথ। মাআরিফুল কুরআনের মতে এটা ইসলাম ধর্ম, অথবা কুরআন, অথবা হয়তো সূরা আনআম নিজেই, কারণ এ সূরায় তাওহীদ, রিসালাত আর শরীয়তের মূলনীতি একসঙ্গে এসেছে। তাবারী ইবন যায়দের কথাও এনেছেন: তাঁর সাবীল ইসলাম, তাঁর সিরাতও ইসলাম। উত্তরগুলোর পরিধি আলাদা: কারও কাছে সদ্য পড়া নির্দেশগুলো, কারও কাছে গোটা দ্বীন।"
+          },
+          {
+            "en": "The recitations divide on the first letter. At-Tabari reports that most readers of Madinah and Basrah read anna, tying the clause back to the list: I will recite that you associate nothing with Him, and that this is My path. Most Kufan readers read inna, a fresh sentence. At-Tabari calls both widespread and sound. Al-Qurtubi adds that al-Khalil and Sibawayh took anna as and because this is My path: because it is Mine, follow it.",
+            "bn": "প্রথম অক্ষরেই কিরাআত দুই ভাগ। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী পড়েছেন আন্না, যাতে বাক্যটি আগের তালিকার সঙ্গে জুড়ে যায়: আমি পড়ে শোনাই যে তাঁর সঙ্গে কিছু শরীক কোরো না, আর এটাই আমার পথ। কূফার অধিকাংশ কারী পড়েছেন ইন্না, যা নতুন বাক্য শুরু করে। তাবারীর মতে দুটোই প্রচলিত, দুটোই সঠিক। কুরতুবী যোগ করেন, খলীল ও সীবাওয়াইহ আন্নার অর্থ করেছেন 'আর যেহেতু এটা আমার পথ': পথটা আমার, তাই এর অনুসরণ করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Road, Many Tracks",
+          "bn": "পথ একটি, রাস্তা অনেক"
+        },
+        "p": [
+          {
+            "en": "Mustaqiman describes the road. At-Tabari glosses it as upright, with no crookedness away from the truth; al-Qurtubi as level and upright, standing grammatically as a description of state. Ma'arif al-Qur'an draws from that grammar that straightness is part of what this path is, not an added quality. Then fa-ttabi'uhu, so follow it, which at-Tabari explains as: act by it, and make it the way you travel.",
+            "bn": "মুসতাকীমান শব্দে পথটির বর্ণনা। তাবারী এর অর্থ করেন সোজা, সত্য থেকে যার কোনো বাঁক নেই। কুরতুবী বলেন সমতল ও সোজা, আর ব্যাকরণে শব্দটি অবস্থা বোঝানোর পদ। এই ব্যাকরণ থেকে মাআরিফুল কুরআন সিদ্ধান্ত টানে: সরলতা এ পথের বাড়তি গুণ নয়, এ তার স্বভাবেরই অংশ। তারপর ফাত্তাবিঊহু, তাই এর অনুসরণ করো। তাবারীর ব্যাখ্যা: এ অনুযায়ী আমল করো, একে নিজেদের চলার রাস্তা বানাও।"
+          },
+          {
+            "en": "Why one path and many paths? Ibn Kathir answers that Allah made His path singular because the truth is one, and the others plural because they split and branch, setting beside it 2:257, where believers are brought out of the darknesses, plural, into the light, singular. As-Sa'di gives a reason for the singular and the possessive together: it is one road, and it leads to Him.",
+            "bn": "পথ কেন একটি, আর বাকিগুলো কেন অনেক? ইবন কাসীরের উত্তর: সত্য একটিই, তাই আল্লাহ নিজের পথকে একবচনে বলেছেন। অন্যগুলো ভাগ হয় আর শাখা ছড়ায়, তাই সেগুলো বহুবচনে। পাশে তিনি রাখেন ২:২৫৭ আয়াত, যেখানে মুমিনদের বের করে আনা হয় অন্ধকারগুলো থেকে, বহুবচনে, আলোর দিকে, একবচনে। সা'দী একবচন ও 'আমার' শব্দ দুটোর একসঙ্গে একটি কারণ বলেন: পথটা একটাই, আর তা গিয়ে পৌঁছায় তাঁরই কাছে।"
+          },
+          {
+            "en": "Fa-tafarraqa bikum an sabilihi says what the other paths do. At-Tabari reads they will disperse you; al-Baghawi, they will turn you aside and scatter you; al-Qurtubi, they will make you lean away. As-Sa'di draws the picture out: they lead you astray and scatter you right and left, and once you have strayed from the straight path, the only roads left end in the Fire.",
+            "bn": "ফাতাফাররাকা বিকুম আন সাবীলিহী: অন্য পথগুলো কী করে, তার বর্ণনা। তাবারী পড়েন, সেগুলো তোমাদের ছত্রভঙ্গ করে দেবে। বাগাভী বলেন, ঘুরিয়ে দেবে আর ছড়িয়ে দেবে। কুরতুবী বলেন, এক পাশে হেলিয়ে দেবে। সা'দী ছবিটা আরও খুলে দেখান: সেগুলো পথভ্রষ্ট করে, ডানে-বাঁয়ে ছড়িয়ে দেয়। আর সরল পথ থেকে একবার হারিয়ে গেলে বাকি থাকে শুধু সেই রাস্তাগুলো, যা জাহান্নামে গিয়ে শেষ হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming the Other Ways",
+          "bn": "অন্য পথগুলোর পরিচয়"
+        },
+        "p": [
+          {
+            "en": "What are the subul? At-Tabari reads them first as other religions: take no road besides it. He lists the creeds of his day, from the communities of earlier scripture to idol worship, and calls them innovations and errors; His sabil, he says, is Islam, which He enjoined on the prophets and the nations before. Al-Baghawi gives the same reading, then adds a second, introduced with it is said: desires and innovations.",
+            "bn": "সুবুল বলতে কী বোঝায়? তাবারী প্রথমে পড়েন অন্য ধর্ম হিসেবে: এটা ছাড়া অন্য কোনো রাস্তা ধোরো না। তিনি তাঁর যুগের মতবাদগুলোর উল্লেখ করেন, আগের কিতাবধারী সম্প্রদায় থেকে মূর্তিপূজা পর্যন্ত, আর এগুলোকে বলেন বিদআত ও গোমরাহি। তাঁর মতে আল্লাহর সাবীল হলো ইসলাম, যার নির্দেশ তিনি নবীদের আর আগের উম্মতদের দিয়েছেন। বাগাভীও এই অর্থ দেন, তারপর 'বলা হয়' কথাটি দিয়ে দ্বিতীয় অর্থ আনেন: খেয়ালখুশি আর বিদআত।"
+          },
+          {
+            "en": "The early glosses at-Tabari records are shorter. Mujahid: innovations and doubtful things. Ibn Abbas, in one report: misguidances. In another, which Ibn Kathir also carries, Ibn Abbas reads the verse beside 42:13, establish the religion and do not be divided in it, and says: Allah commanded the believers to hold together and forbade them disagreement and division, and told them that those before them perished only through wrangling and disputes in the religion of Allah.",
+            "bn": "তাবারী যে প্রথম যুগের ব্যাখ্যাগুলো এনেছেন, সেগুলো আরও ছোট। মুজাহিদ বলেন: বিদআত আর সন্দেহজনক বিষয়। ইবন আব্বাস (রাঃ) একটি বর্ণনায় বলেন: গোমরাহির পথগুলো। আরেকটি বর্ণনায়, যা ইবন কাসীরও এনেছেন, ইবন আব্বাস (রাঃ) আয়াতটি পড়েন ৪২:১৩ আয়াতের পাশে রেখে: দ্বীন কায়েম করো, আর তাতে বিভক্ত হয়ো না। তারপর বলেন, আল্লাহ মুমিনদের একসঙ্গে থাকার আদেশ দিয়েছেন, মতভেদ আর দলাদলি থেকে নিষেধ করেছেন। আর জানিয়ে দিয়েছেন, আগের লোকেরা ধ্বংস হয়েছে আল্লাহর দ্বীন নিয়ে ঝগড়া আর বিবাদের কারণেই।"
+          },
+          {
+            "en": "Al-Qurtubi quotes Ibn Atiyya for the widest reading: the paths take in other religions, the people of innovation and of desires, oddity in subsidiary rulings, and deep immersion in disputation and speculative argument, all of it exposed to slipping. Al-Qurtubi adds that this is the correct view. Ma'arif al-Qur'an, citing Tafsir Mazhari, says where such paths begin: when people bend the Qur'an and the Sunnah to fit their ideas instead of fitting their ideas to them.",
+            "bn": "সবচেয়ে বড় পরিসরের ব্যাখ্যাটি কুরতুবী আনেন ইবন আতিয়্যা থেকে। এ পথগুলোর মধ্যে পড়ে অন্য ধর্ম, বিদআত ও খেয়ালখুশির লোকেরা, শাখাগত মাসআলায় অদ্ভুত মত, আর তর্ক ও কালামশাস্ত্রের গভীরে ডুবে যাওয়া। এর সবই পিছলে পড়ার ঝুঁকিতে থাকে। কুরতুবী যোগ করেন, এটাই সঠিক মত। মাআরিফুল কুরআন তাফসীরে মাযহারী থেকে দেখায় এমন পথ শুরু হয় কোথায়: মানুষ যখন নিজের ধারণাকে কুরআন-সুন্নাহর ছাঁচে না ঢেলে কুরআন-সুন্নাহকেই নিজের ধারণার ছাঁচে বাঁকায়।"
+          },
+          {
+            "en": "These glosses describe kinds of departure, not addresses. The verse names no group, and none of these readings licenses anyone to label a living person or community as belonging to the side roads. The warning is spoken first to whoever hears it, and read that way the list is something to check your own steps against, not a way of sorting the neighbours.",
+            "bn": "এই ব্যাখ্যাগুলো সরে যাওয়ার ধরন বোঝায়, কারও ঠিকানা নয়। আয়াত কোনো দলের নাম বলে না। এসব ব্যাখ্যার কোনোটাই কোনো জীবিত মানুষ বা সম্প্রদায়কে পাশের রাস্তার লোক বলে দাগিয়ে দেওয়ার অনুমতি দেয় না। সতর্কবাণীটা প্রথমে তার জন্য, যে তা শুনছে। সেভাবে পড়লে তালিকাটা নিজের পা মেলিয়ে দেখার জিনিস, প্রতিবেশীদের ভাগ করার উপায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lines Drawn for the Companions",
+          "bn": "সাহাবীদের সামনে টানা রেখা"
+        },
+        "p": [
+          {
+            "en": "The commentators lean on one narration above the rest. At-Tabari carries it with his own chain from Abdullah ibn Mas'ud (RA): The Messenger of Allah ﷺ drew a line for us one day and said, This is the path of Allah. Then he drew lines to the right of that line and to its left and said, These are paths; on every path among them is a devil calling to it. Then he recited this verse: And this is My path, straight, so follow it, and do not follow the paths, or they will scatter you away from His path.",
+            "bn": "তাফসীরকারেরা সবচেয়ে বেশি নির্ভর করেন একটি বর্ণনার উপর। তাবারী নিজের সনদে আব্দুল্লাহ ইবন মাসউদ (রাঃ) থেকে তা বর্ণনা করেন: একদিন রাসূলুল্লাহ ﷺ আমাদের জন্য একটি রেখা টানলেন আর বললেন, এটা আল্লাহর পথ। তারপর সেই রেখার ডানে আর বাঁয়ে কয়েকটি রেখা টানলেন আর বললেন, এগুলো নানা পথ, প্রতিটি পথের উপর একটি করে শয়তান বসে তার দিকে ডাকছে। তারপর তিনি এই আয়াত তিলাওয়াত করলেন: আর এটাই আমার পথ, সরল, তাই এর অনুসরণ করো, আর অন্য পথগুলোর অনুসরণ কোরো না, করলে সেগুলো তোমাদের তাঁর পথ থেকে বিচ্ছিন্ন করে দেবে।"
+          },
+          {
+            "en": "Ibn Kathir carries the same report from the Musnad of Ahmad, al-Qurtubi from ad-Darimi, and al-Baghawi with his own chain. No page of those collections could be fetched, so no grading is stated here. Ibn Kathir notes it was also transmitted as Ibn Mas'ud's own words, and at-Tabari records them: Muhammad ﷺ left us at the path's near end, and its far end is in the Garden. Tracks run to its right and left, with men calling whoever passes. Whoever takes those tracks ends at the Fire, and whoever keeps to the path ends at the Garden.",
+            "bn": "ইবন কাসীর একই বর্ণনা আনেন আহমাদের মুসনাদ থেকে, কুরতুবী দারিমী থেকে, আর বাগাভী নিজের সনদে। ওই সংকলনগুলোর কোনো পৃষ্ঠা সংগ্রহ করা যায়নি, তাই এখানে এর কোনো মান উল্লেখ করা হলো না। ইবন কাসীর জানান, এটি ইবন মাসউদ (রাঃ)-এর নিজের কথা হিসেবেও বর্ণিত, আর তাবারী সে কথা এনেছেন: মুহাম্মাদ ﷺ আমাদের রেখে গেছেন পথের কাছের মাথায়, আর এর দূরের মাথা জান্নাতে। এর ডানে-বাঁয়ে কিছু রাস্তা, সেখানে লোক দাঁড়িয়ে পথচারীদের ডাকে। যে ওই রাস্তাগুলো ধরে, তার শেষ জাহান্নামে, আর যে পথ ধরে থাকে, তার শেষ জান্নাতে।"
+          },
+          {
+            "en": "At-Tirmidhi records from an-Nawwas ibn Sam'an (RA) that the Messenger of Allah ﷺ said: Allah has struck a parable of a straight path. Along both sides of the path are two walls with open doors, curtains on the doors. A caller calls at the head of the path, and a caller calls above it: And Allah invites to the Home of Peace and guides whom He wills to a straight path. The doors on the sides of the path are the limits of Allah; no one falls into the limits of Allah until the curtain is lifted. And the caller above it is his Lord's admonisher.",
+            "bn": "তিরমিযী নাওয়াস ইবন সামআন (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ একটি সরল পথের উপমা দিয়েছেন। পথের দুই পাশে দুটি দেয়াল, তাতে খোলা দরজা, দরজাগুলোয় পর্দা। পথের মাথায় একজন আহ্বানকারী ডাকছে, আর তার উপর থেকে আরেকজন ডাকছে: আর আল্লাহ শান্তির ঘরের দিকে ডাকেন, আর যাকে চান সরল পথে চালান। পথের দুই পাশের দরজাগুলো আল্লাহর সীমারেখা। পর্দা না সরানো পর্যন্ত কেউ আল্লাহর সীমা লঙ্ঘনে পড়ে না। আর উপর থেকে যে ডাকে, সে তার রবের উপদেশদাতা।"
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan gharib. The verse inside his wording is 10:25, not the verse under study; Ibn Kathir brings the narration here in a longer wording from Ahmad, not quoted in this article. Its picture fits all the same: open side doors, thin curtains, and a call from ahead and from above. The commentaries read here give the verse no occasion of revelation; its setting is its place in the recitation.",
+            "bn": "তিরমিযী একে হাসান গারীব বলেছেন। তাঁর বর্ণনার ভেতরের আয়াতটি ১০:২৫, আলোচ্য আয়াত নয়। বর্ণনাটিকে এখানে এনেছেন ইবন কাসীর, আহমাদ থেকে আরও দীর্ঘ শব্দে, যা এ প্রবন্ধে উদ্ধৃত হয়নি। তবু এর ছবিটা আয়াতের সঙ্গে মেলে: পাশে খোলা দরজা, পাতলা পর্দা, আর সামনে ও উপর থেকে ডাক। এখানে পড়া তাফসীরগুলো এ আয়াতের কোনো শানে নুযূল উল্লেখ করেনি। এর প্রেক্ষাপট তিলাওয়াতের ভেতরে এর অবস্থান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then, the Book of Musa (AS)",
+          "bn": "তারপর মূসা (আঃ)-এর কিতাব"
+        },
+        "p": [
+          {
+            "en": "6:154 opens with thumma: then We gave Musa the Book. Musa (AS) came long before, so what does then order? At-Tabari supplies an unspoken say: then say, O Muhammad, your Lord gave Musa the Book, since the passage hangs on Say, come, I will recite. Ibn Kathir says this needs looking into: thumma here joins report to report, not moments in time, as in the verse of poetry about a man who led, then his father, then before that his grandfather. As-Sa'di likewise reads an order of telling, not of time.",
+            "bn": "৬:১৫৪ আয়াত শুরু হয় সুম্মা, অর্থাৎ 'তারপর' দিয়ে: তারপর আমি মূসাকে কিতাব দিলাম। মূসা (আঃ) তো অনেক আগে এসেছেন, তাহলে 'তারপর' কিসের পরে? তাবারী একটি না-বলা 'বলো' ধরে নেন: তারপর বলো, হে মুহাম্মাদ, তোমার রব মূসাকে কিতাব দিয়েছিলেন। কারণ পুরো অংশটাই ঝুলে আছে 'বলো, এসো, পড়ে শোনাই' কথার উপর। ইবন কাসীর বলেন, এতে আপত্তির জায়গা আছে। এখানে সুম্মা এক খবরের সঙ্গে আরেক খবর জোড়ে, সময়ের ক্রম বোঝায় না। যেমন কবিতার সেই পঙক্তি: সে নেতা হলো, তারপর তার বাবা, তারপর তারও আগে তার দাদা। সা'দীও একে বর্ণনার ক্রম হিসেবে পড়েন, সময়ের নয়।"
+          },
+          {
+            "en": "Ibn Kathir explains the placement: after the Qur'an comes praise of the Torah and its messenger, since Allah often pairs the two Books, as in 46:12. On tamaman ala alladhi ahsana, complete for him who did good, at-Tabari records a difference. Mujahid: the believers and those who do good. Ar-Rabi': Musa, in what Allah gave him. Qatada: whoever did good in this world, Allah completes it for him in the next. Ibn Kathir reads a reward for Musa's good conduct; as-Sa'di, the doers of good among his people.",
+            "bn": "এ জায়গায় তাওরাত কেন, ইবন কাসীর তা বলেন: কুরআনের কথার পর আসে তাওরাত ও তার রাসূলের প্রশংসা, কারণ আল্লাহ দুই কিতাবকে প্রায়ই পাশাপাশি আনেন, যেমন ৪৬:১২ আয়াতে। তামামান আলাল্লাযী আহসানা, যে উত্তম কাজ করেছে তার জন্য পূর্ণতা, এ অংশে তাবারী মতভেদ উল্লেখ করেন। মুজাহিদ বলেন: মুমিন ও সৎকর্মশীলেরা। রাবী বলেন: মূসা (আঃ), আল্লাহ তাঁকে যা দিয়েছেন তাতে। কাতাদা বলেন: দুনিয়ায় যে ভালো করেছে, আখিরাতে আল্লাহ তার জন্য তা পূর্ণ করে দেন। ইবন কাসীর পড়েন মূসা (আঃ)-এর সৎকর্মের প্রতিদান হিসেবে, সা'দী পড়েন তাঁর উম্মতের সৎকর্মশীলদের কথা হিসেবে।"
+          },
+          {
+            "en": "Then 6:155 turns to the present: and this is a Book We have sent down, blessed, so follow it. The command given to the road in 6:153 is now given to the Book. At-Tabari: make it a leader you follow and act on what is in it. Qatada: follow what it makes lawful and treat as forbidden what it forbids. As-Sa'di calls following this Book in knowledge and action the greatest means to Allah's mercy. The excuse 6:156 forestalls is taken up at 6:157.",
+            "bn": "তারপর ৬:১৫৫ আয়াত ফিরে আসে বর্তমানে: আর এ এক বরকতময় কিতাব, যা আমি নাজিল করেছি, তাই এর অনুসরণ করো। ৬:১৫৩ আয়াতে পথের জন্য যে আদেশ ছিল, এখন তা কিতাবের জন্য। তাবারী বলেন: একে ইমাম বানাও, এর অনুসরণ করো, এতে যা আছে সে অনুযায়ী আমল করো। কাতাদা বলেন: এর হালালকে মেনে চলো, আর এর হারামকে হারাম জানো। সা'দীর মতে জ্ঞান ও আমল দুই দিক থেকে এই কিতাবের অনুসরণই আল্লাহর রহমত পাওয়ার সবচেয়ে বড় উপায়। ৬:১৫৬ আয়াত যে অজুহাত আগেই বন্ধ করে দেয়, তার আলোচনা ৬:১৫৭ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Side Roads on an Ordinary Day",
+          "bn": "সাধারণ দিনের পাশের রাস্তা"
+        },
+        "p": [
+          {
+            "en": "Few readers will wake up and choose another religion. The side roads of most days are smaller. An inconvenient ruling gets an interpretation that happens to suit. A habit is kept because everyone around us keeps it, never checked against the Book. None of these feels like leaving the road; each feels like a short step aside, which is how the verse pictures the danger: scattering, not a single fall.",
+            "bn": "খুব কম পাঠকই সকালে উঠে অন্য ধর্ম বেছে নেবেন। বেশিরভাগ দিনের পাশের রাস্তাগুলো এর চেয়ে ছোট। অসুবিধাজনক কোনো বিধানের এমন একটা ব্যাখ্যা জুটে যায়, যা ঠিক নিজের মনমতো। কোনো অভ্যাস টিকে থাকে, কারণ আশপাশের সবাই সেটা করে, কেউ কখনো কিতাবের সঙ্গে মিলিয়ে দেখেনি। এর কোনোটাকেই পথ ছেড়ে যাওয়া মনে হয় না, মনে হয় এক পাশে ছোট্ট একটা পা ফেলা। আয়াত বিপদটাকে ঠিক এভাবেই আঁকে: একবারে পড়ে যাওয়া নয়, ছড়িয়ে পড়া।"
+          },
+          {
+            "en": "The line drawing adds a second warning: at the mouth of each side road someone stands calling. The call is rarely to something plainly wrong; it is to something reasonable, popular or clever. So the useful question is not only where am I, but who is calling me. The verse's answer is to keep returning to what Allah has actually said, and to take any pull toward another road as a reason to look again.",
+            "bn": "রেখা টানার বর্ণনা আরেকটি সতর্কতা যোগ করে: প্রতিটি পাশের রাস্তার মুখে কেউ দাঁড়িয়ে ডাকছে। সে ডাক সাধারণত সরাসরি খারাপ কাজের দিকে নয়, বরং যুক্তিসঙ্গত, জনপ্রিয় বা চতুর কিছুর দিকে। তাই কাজের প্রশ্ন শুধু এটা নয় যে আমি কোথায় আছি। প্রশ্ন হলো, কে আমাকে ডাকছে। আয়াতের জবাব: আল্লাহ আসলে যা বলেছেন, বারবার সেখানে ফিরে যাওয়া। আর অন্য রাস্তার দিকে টান অনুভব করলে সেটাকেই আরেকবার তাকিয়ে দেখার কারণ বানানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Where the Road Forks",
+          "bn": "পথের মোড়ে কয়েকটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "In al-Fatihah the request is made again and again: guide us to the straight path, 1:6. This verse shows that path from the ground: charges just recited, and one road Allah calls His own. Which of those charges do I keep easily, and which do I keep finding a way around? When a teaching I dislike reaches me, do I look for its meaning or for its exit? Which argument about religion have I joined lately to win rather than to learn?",
+            "bn": "সূরা ফাতিহায় বারবার এই দুআ করা হয়: আমাদের সরল পথ দেখাও, ১:৬। এ আয়াত মাটিতে দাঁড়িয়ে সেই পথটা দেখায়: সদ্য পড়ে শোনানো কিছু নির্দেশ, আর একটিমাত্র রাস্তা, যাকে আল্লাহ নিজের বলেছেন। ওই নির্দেশগুলোর কোনটা আমি সহজে মানি, আর কোনটার পাশ কাটানোর রাস্তা খুঁজতে থাকি? অপছন্দের কোনো শিক্ষা কানে এলে আমি কি তার অর্থ খুঁজি, নাকি বেরোনোর ফাঁক? দ্বীন নিয়ে সম্প্রতি কোন তর্কে জড়িয়েছি শেখার জন্য নয়, জেতার জন্য?"
+          },
+          {
+            "en": "And the verse's last word: that you may be mindful of Him. Where is the next fork I can already see coming, at work, at home, in what I watch or say, and what does mindfulness of Allah ask of me there? If I have drifted, how many small turns would it take to walk back, and which of them could I take today?",
+            "bn": "আর আয়াতের শেষ কথা: যাতে তোমরা তাঁকে ভয় করে চলো। সামনের কোন মোড়টা আমি এখনই দেখতে পাচ্ছি, কাজে, ঘরে, কী দেখি বা কী বলি তার মধ্যে? সেখানে আল্লাহর ভয় আমার কাছে কী চায়? যদি সরে গিয়ে থাকি, ফিরে আসতে কয়টা ছোট মোড় লাগবে? আর তার কোনটা আমি আজই নিতে পারি?"
+          }
+        ]
+      }
+    ]
+  },
   "6:157": {
     "sections": [
       {
