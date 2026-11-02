@@ -3587,6 +3587,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:114": {
+    "sections": [
+      {
+        "h": {
+          "en": "Their Request, His Prayer",
+          "bn": "তাদের আবদার, তাঁর দোয়া"
+        },
+        "p": [
+          {
+            "en": "This verse is the third step of a short exchange. In 5:112 the disciples ask Isa (AS) whether his Lord is able to send down a table from the heaven, and he answers: fear Allah, if you are believers. In 5:113 they give their reasons: to eat from it, for their hearts to be at rest, to know that he has told them the truth, and to be among its witnesses. Now he turns, not to them, but to Allah.",
+            "bn": "আয়াতটি ছোট এক কথোপকথনের তৃতীয় ধাপ। ৫:১১২ আয়াতে হাওয়ারীরা ঈসা (আঃ)-কে জিজ্ঞেস করে, আপনার রব কি আসমান থেকে আমাদের জন্য একটা দস্তরখান নামাতে পারেন? তিনি জবাব দেন, তোমরা মুমিন হলে আল্লাহকে ভয় করো। ৫:১১৩ আয়াতে তারা কারণ খুলে বলে: আমরা তা থেকে খেতে চাই, চাই অন্তর প্রশান্ত হোক, জানতে চাই আপনি আমাদের সত্য বলেছেন, আর হতে চাই এর সাক্ষী। এবার তিনি মুখ ফেরান, তাদের দিকে নয়, আল্লাহর দিকে।"
+          },
+          {
+            "en": "At-Tabari opens his comment by calling the verse news from Allah about His prophet Isa: that he answered the people in what they had asked of him, a table sent down from the heaven. Set the request and the prayer side by side and the difference is in the address and the order. They asked him about his Lord; he speaks to his Lord, and the food they put first is the last thing he asks for.",
+            "bn": "তাবারী আয়াতটির ব্যাখ্যা শুরু করেন এই বলে যে, এখানে আল্লাহ তাঁর নবী ঈসা সম্পর্কে খবর দিচ্ছেন: লোকেরা যা চেয়েছিল, আসমান থেকে নেমে আসা দস্তরখান, তিনি সে আবদারে সাড়া দিলেন। আবদার আর দোয়া পাশাপাশি রাখলে তফাতটা চোখে পড়ে দুই জায়গায়। কাকে বলা হচ্ছে, আর কোন কথা আগে। তারা তাঁকে তাঁর রবের কথা জিজ্ঞেস করেছিল। তিনি কথা বলছেন সরাসরি রবের সঙ্গে। আর তারা যে খাবারের কথা সবার আগে বলেছিল, তাঁর দোয়ায় সেটা চাওয়া হয়েছে সবার শেষে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called Twice Before Asking",
+          "bn": "চাওয়ার আগে দুবার ডাক"
+        },
+        "p": [
+          {
+            "en": "Allahumma rabbana: O Allah, our Lord. Al-Qurtubi records Sibawayh's analysis of the first word: its root form is ya Allah, and the mim at the end stands in place of the calling particle ya. Rabbana is then a second call. So the prayer calls twice before it asks for anything, once by the Name and once by the bond between a Lord and those He looks after.",
+            "bn": "আল্লাহুম্মা রাব্বানা: হে আল্লাহ, আমাদের রব। প্রথম শব্দটি নিয়ে কুরতুবী সিবাওয়াইহের বিশ্লেষণ উদ্ধৃত করেন। মূলে কথাটা ছিল ইয়া আল্লাহ। শেষের মীম বসেছে ডাকার অব্যয় ইয়া-র জায়গায়। রাব্বানা তখন আলাদা দ্বিতীয় একটি ডাক। তাই কিছু চাওয়ার আগেই দোয়াটি দুবার ডাকে। একবার আল্লাহর নাম ধরে, আরেকবার সেই সম্পর্ক ধরে, যা রব আর তাঁর তত্ত্বাবধানে থাকা বান্দাদের মধ্যে।"
+          },
+          {
+            "en": "Ma'idah gives the surah its name, as Ibn Kathir notes where the story begins at 5:112. Al-Qurtubi defines it as the khiwan, the low table on which food is set, and records Qutrub's remark that a table is not called ma'idah unless food is on it; without food it is only a khiwan. He derives the word from mada, to feed and to give, so that the ma'idah is the thing that gives to those who eat.",
+            "bn": "সূরাটির নাম এসেছে এই মায়িদা থেকে। ৫:১১২ আয়াতে কাহিনির শুরুতেই ইবন কাসীর কথাটা উল্লেখ করেন। কুরতুবীর সংজ্ঞায় মায়িদা হলো খিওয়ান, অর্থাৎ নিচু টেবিল বা দস্তরখান, যার উপর খাবার রাখা হয়। তিনি কুতরুবের মন্তব্যও আনেন: খাবার না থাকলে একে মায়িদা বলা হয় না, তখন সেটা কেবল খিওয়ান। কুরতুবী শব্দটিকে মাদা ধাতু থেকে আনেন, যার অর্থ খাওয়ানো ও দান করা। তাহলে মায়িদা মানে যা খানেওয়ালাদের দান করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is Your Lord Able",
+          "bn": "আপনার রব কি পারেন"
+        },
+        "p": [
+          {
+            "en": "The request this prayer answers was worded in 5:112 as hal yastati'u rabbuka: is your Lord able. Ibn Kathir notes that this is the reading of many, while others read hal tastati'u rabbaka: are you able to ask your Lord. Al-Baghawi names al-Kisa'i for that second reading and says it was also the reading of Ali, Aisha, Ibn Abbas and Mujahid. At-Tabari reports from Aisha that the disciples did not doubt that Allah could send a table down; what they said was, can you ask your Lord.",
+            "bn": "যে আবদারের জবাবে এই দোয়া, ৫:১১২ আয়াতে তার ভাষা ছিল হাল ইয়াসতাতীউ রাব্বুকা: আপনার রব কি পারেন? ইবন কাসীর জানান, এটা অনেকের কিরাআত। অন্যরা পড়েছেন হাল তাসতাতীউ রাব্বাকা: আপনি কি আপনার রবের কাছে চাইতে পারেন? বাগাভী এই দ্বিতীয় কিরাআতকে কিসাঈর বলে উল্লেখ করেন, আর বলেন আলী, আয়েশা, ইবন আব্বাস ও মুজাহিদও এভাবে পড়তেন। তাবারী আয়েশা (রাঃ) থেকে বর্ণনা করেন: আল্লাহ যে দস্তরখান নামাতে সক্ষম, এ নিয়ে হাওয়ারীদের কোনো সন্দেহ ছিল না। তারা বলেছিল, আপনি কি আপনার রবের কাছে চাইতে পারেন?"
+          },
+          {
+            "en": "On the common reading, several commentators take the question as a way of speaking. Al-Baghawi compares it to a man asking his companion, can you get up and come with me, when he knows that he can; he means, will you. As-Suddi, in both at-Tabari and al-Qurtubi, reads yastati'u as yuti'u: will your Lord grant you what you ask. As-Sa'di says the words did not come from doubt in Allah's power but from courtesy, and al-Qurtubi quotes Ibn al-Hassar calling them gentleness in asking and good manners with Allah.",
+            "bn": "প্রচলিত কিরাআতেও কয়েকজন মুফাসসির প্রশ্নটাকে কথার ধরন হিসেবে পড়েন। বাগাভী উপমা দেন: কেউ সঙ্গীকে বলে, তুমি কি আমার সঙ্গে উঠে আসতে পারবে? সে ভালো করেই জানে সঙ্গী পারে। আসলে জানতে চায়, আসবে কি না। তাবারী ও কুরতুবী দুজনেই সুদ্দীর ব্যাখ্যা আনেন: ইয়াসতাতীউ এখানে ইউতীউ অর্থে, মানে আপনি চাইলে আপনার রব কি তা মঞ্জুর করবেন? সা'দী বলেন, কথাটা আল্লাহর ক্ষমতায় সন্দেহ থেকে আসেনি, এসেছে আদব থেকে। কুরতুবী ইবনুল হাসসারের উক্তি আনেন: এ হলো নরম করে চাওয়া, আল্লাহর সঙ্গে আদব রক্ষা।"
+          },
+          {
+            "en": "Not every commentator reads it so. At-Tabari prefers the common reading in the sense of will He answer you, but he concludes from the passage that doubt about their religion and their messenger had entered the questioners' hearts, that Allah disliked what they said, and that they asked as a test. Al-Baghawi and al-Qurtubi both record a view that the words were said early, before their knowledge was settled. Al-Qurtubi finds that hard to accept of the disciples, a prophet's closest helpers, and suggests the words came from others who were with them.",
+            "bn": "সব মুফাসসির অবশ্য এভাবে পড়েন না। তাবারী প্রচলিত কিরাআতকেই অগ্রাধিকার দেন, অর্থ ধরেন: তিনি কি আপনার ডাকে সাড়া দেবেন? তবে পুরো প্রসঙ্গ থেকে তাঁর সিদ্ধান্ত হলো, প্রশ্নকারীদের মনে দ্বীন আর রাসূলের ব্যাপারে সন্দেহ ঢুকেছিল, আল্লাহ তাদের কথা অপছন্দ করেছিলেন, আর তারা চেয়েছিল পরীক্ষা হিসেবে। বাগাভী ও কুরতুবী আরেকটি মত আনেন: কথাটা বলা হয়েছিল শুরুর দিকে, তাদের জ্ঞান পাকা হওয়ার আগে। কুরতুবী হাওয়ারীদের বেলায় এ কথা মানতে কষ্ট পান, কারণ তাঁরা ছিলেন নবীর সবচেয়ে কাছের সাহায্যকারী। তাঁর প্রস্তাব, কথাটা এসেছিল তাঁদের সঙ্গে থাকা অন্য লোকদের মুখ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day for First and Last",
+          "bn": "আগের ও পরের সবার দিন"
+        },
+        "p": [
+          {
+            "en": "Takunu lana 'idan li-awwalina wa akhirina: to be for us a festival, for the first of us and the last of us. At-Tabari sets out three readings. In the first, as-Suddi says: we will take the day it comes down as a festival and honour it, we and those after us; Sufyan says, a day in which we pray. In the second, from Ibn Abbas, the last of the people ate from it as the first of them had. The third takes 'id as a favour returning from Allah, and a proof.",
+            "bn": "তাকূনু লানা ঈদান লি-আওয়ালিনা ওয়া আখিরিনা: যা আমাদের জন্য ঈদ হবে, আমাদের প্রথমদের জন্য, শেষদের জন্যও। তাবারী এখানে তিনটি ব্যাখ্যা সাজান। প্রথমটিতে সুদ্দী বলেন, যেদিন এটা নামবে সেদিনটাকে আমরা ঈদ বানাব, আমরা আর আমাদের পরের লোকেরা দিনটার সম্মান করব। সুফিয়ানের ব্যাখ্যা, এমন একটা দিন, যেদিন আমরা সালাত আদায় করব। দ্বিতীয় ব্যাখ্যা ইবন আব্বাসের: শেষের লোকেরাও তা থেকে খেয়েছিল, যেমন খেয়েছিল প্রথমেরা। তৃতীয় ব্যাখ্যায় ঈদ মানে আল্লাহর দিক থেকে ফিরে ফিরে আসা অনুগ্রহ, আর প্রমাণ।"
+          },
+          {
+            "en": "At-Tabari chooses the first: a day on which they would worship their Lord and pray to Him, as people worship on their festivals. That is what 'id means in the speech people actually use, and the words of Allah are better taken in their known sense than in an unfamiliar sense, wherever that is possible. For the first and the last of us he likewise prefers those alive that day and those of them who would come after.",
+            "bn": "তাবারী প্রথম ব্যাখ্যাটিই বেছে নেন: এমন দিন, যেদিন তারা রবের ইবাদত করবে, তাঁর জন্য সালাত পড়বে, যেমন মানুষ তাদের উৎসবের দিনে ইবাদত করে। কারণ মানুষের চলতি কথায় ঈদ বলতে এটাই বোঝায়। আর যেখানে সম্ভব, আল্লাহর কালামকে অচেনা অর্থে না নিয়ে পরিচিত অর্থে নেওয়াই উত্তম। আমাদের প্রথম ও শেষ বলতেও তিনি বোঝেন সেদিন যারা জীবিত ছিল আর তাদের মধ্যে যারা পরে আসবে।"
+          },
+          {
+            "en": "Al-Baghawi explains the word itself: an 'id is a day of gladness, named from the return out of sorrow into joy, and the days of Fitr and Adha are so called because they come back every year. Al-Qurtubi records two variant readings: Zayd ibn Thabit read li-ulana wa ukhrana in the plural, and al-A'mash read takun, in the jussive, as the answer to the request. As-Sa'di reads the festival as a kept memory, so that this great sign would be guarded and not forgotten as the years turned.",
+            "bn": "শব্দটির নিজের অর্থ বাগাভী বুঝিয়ে দেন। ঈদ হলো আনন্দের দিন। নামটা এসেছে ফিরে আসা থেকে, দুঃখ থেকে খুশিতে ফেরা। ঈদুল ফিতর আর ঈদুল আযহাকে ঈদ বলা হয়, কারণ দুটোই প্রতি বছর ফিরে আসে। কুরতুবী দুটি ভিন্ন কিরাআতের কথা জানান। যায়দ ইবন সাবিত পড়েছেন লি-উলানা ওয়া উখরানা, বহুবচনে। আর আ'মাশ পড়েছেন তাকুন, চাওয়ার জবাব হিসেবে। সা'দী ঈদটাকে দেখেন জিইয়ে রাখা এক স্মৃতি হিসেবে, যাতে এই মহান নিদর্শন সুরক্ষিত থাকে, বছরের পর বছর গড়ালেও ভুলে না যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign, and Then Bread",
+          "bn": "আগে নিদর্শন, পরে রুটি"
+        },
+        "p": [
+          {
+            "en": "Wa-ayatan minka: and a sign from You. At-Tabari reads it as a mark and a proof from You, O Lord, over Your servants, of Your oneness and of my truthfulness as Your messenger to them. Ibn Kathir reads it as a proof You set up of Your power over all things and of Your answering my prayer, so that they believe me in what I convey from You. The Muyassar joins them: a sign and a proof of Your oneness and of the truth of my prophethood.",
+            "bn": "ওয়া আয়াতাম মিনকা: আর তোমার পক্ষ থেকে একটি নিদর্শন। তাবারীর ব্যাখ্যায় এর মানে, হে রব, তোমার বান্দাদের সামনে তোমার পক্ষ থেকে চিহ্ন ও প্রমাণ, তোমার একত্বের এবং আমি যে তাদের কাছে তোমার সত্য রাসূল, তার। ইবন কাসীরের ব্যাখ্যায়, এ এমন প্রমাণ যা তুমি দাঁড় করাবে সবকিছুর উপর তোমার ক্ষমতার, আর আমার দোয়া কবুলের, যাতে তোমার কাছ থেকে যা পৌঁছে দিই তাতে তারা আমাকে বিশ্বাস করে। মুয়াসসার এগুলো একসঙ্গে বলে: তোমার একত্ব আর আমার নবুওয়াতের সত্যতার নিদর্শন ও প্রমাণ।"
+          },
+          {
+            "en": "Then wa-rzuqna, and provide for us. Ibn Kathir: provision from You, wholesome, without labour or strain. At-Tabari explains the closing praise, wa anta khayru r-raziqin, as: You are the best of those who give and the most generous of those who bestow, because no reminder of favour and no grudging enters His giving. As-Sa'di sums the prayer up as asking two goods at once: a good of religion, that the table be a lasting sign, and a good of this world, that it be provision.",
+            "bn": "তারপর ওয়ারযুকনা: আর আমাদের রিযিক দাও। ইবন কাসীর বলেন, তোমার কাছ থেকে তৃপ্তিকর রিযিক, যাতে খাটুনি নেই, কষ্টও নেই। শেষের প্রশংসা, ওয়া আনতা খাইরুর রাযিকীন, তাবারী ব্যাখ্যা করেন এভাবে: যারা দেয় তাদের মধ্যে তুমিই সেরা, অনুগ্রহকারীদের মধ্যে সবচেয়ে উদার। কারণ তাঁর দানে খোঁটা নেই, কার্পণ্যের ছোঁয়াও নেই। সা'দী পুরো দোয়াটাকে দেখেন একসঙ্গে দুই কল্যাণের চাওয়া হিসেবে। একটা দ্বীনের কল্যাণ, দস্তরখান হবে স্থায়ী নিদর্শন। আরেকটা দুনিয়ার কল্যাণ, তা হবে রিযিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Did the Table Descend",
+          "bn": "দস্তরখান কি নেমেছিল"
+        },
+        "p": [
+          {
+            "en": "5:115 gives Allah's answer: I will send it down to you; and whoever among you disbelieves afterwards, I will punish him with a punishment I have not given anyone in the worlds. Whether the table then actually came down is a question on which the early commentators differed, and at-Tabari records both sides. Some said it came down and the people ate from it, and that it was later lifted because of things they did. Others said Allah sent no table down to the Children of Israel at all.",
+            "bn": "৫:১১৫ আয়াতে আল্লাহর জবাব: আমি তা তোমাদের কাছে নামাব। এরপর তোমাদের কেউ কুফরি করলে তাকে এমন শাস্তি দেব, যা জগতের আর কাউকে দিইনি। দস্তরখান তারপর সত্যিই নেমেছিল কি না, এ নিয়ে প্রথম যুগের মুফাসসিরদের মধ্যে মতভেদ ছিল। তাবারী দুই পক্ষের কথাই এনেছেন। একদল বলেন, তা নেমেছিল, লোকেরা খেয়েছিল, পরে তাদের কিছু কাজের কারণে তুলে নেওয়া হয়। আরেকদল বলেন, বনী ইসরাঈলের উপর আল্লাহ কোনো দস্তরখান নামাননি।"
+          },
+          {
+            "en": "Those who denied it explained it differently. Mujahid, in at-Tabari's report, called it a parable Allah struck for His creation, forbidding them to ask prophets for signs; nothing was sent down. Al-Hasan said that when they heard the words whoever disbelieves afterwards, they replied that they had no need of it, and so it did not come down. Ibn Kathir calls the chains to Mujahid and al-Hasan sound, and adds that their view may draw support from the fact that the Christians do not know the story of the table and it is not in their book.",
+            "bn": "যাঁরা অস্বীকার করেন, তাঁরা ব্যাখ্যা দেন ভিন্ন ভিন্নভাবে। তাবারীর বর্ণনায় মুজাহিদ বলেন, এটা আল্লাহর দেওয়া একটা দৃষ্টান্ত। এর মাধ্যমে তিনি সৃষ্টিকে নবীদের কাছে নিদর্শন দাবি করতে নিষেধ করেছেন, আসলে কিছুই নামেনি। হাসান বলেন, যখন তাদের শোনানো হলো, এরপর যে কুফরি করবে, তারা বলল, আমাদের এর দরকার নেই। ফলে তা আর নামেনি। ইবন কাসীর বলেন, মুজাহিদ ও হাসান পর্যন্ত সনদগুলো সহীহ। তিনি আরও বলেন, তাঁদের মতের পক্ষে একটা সমর্থন থাকতে পারে, কারণ খ্রিস্টানরা দস্তরখানের এ ঘটনা জানে না, তাদের কিতাবেও এটা নেই।"
+          },
+          {
+            "en": "Against this, at-Tabari holds that it did come down, and his reason is the promise itself. Allah does not break His word, he argues; if He could say I will send it down and then not do so, the threat joined to that promise would have no reality either. Ibn Kathir reports that the majority hold it came down, that at-Tabari chose this, and calls it, Allah knows best, the correct view. Al-Qurtubi also sides with the majority and calls the other two views mistaken. The verse records the promise, and the commentators remain divided over what followed it.",
+            "bn": "এর বিপরীতে তাবারীর মত, দস্তরখান নেমেছিল। তাঁর যুক্তি খোদ প্রতিশ্রুতিটাই। আল্লাহ কথার খেলাপ করেন না। তিনি যদি বলতে পারেন, আমি নামাব, আর তারপর না নামান, তাহলে সেই প্রতিশ্রুতির সঙ্গে জোড়া সতর্কবাণীরও কোনো বাস্তবতা থাকে না। ইবন কাসীর জানান, জুমহুর বা অধিকাংশ আলেমের মত হলো তা নেমেছিল, তাবারীও এটাই বেছে নিয়েছেন। ইবন কাসীর নিজেও বলেন, আল্লাহই ভালো জানেন, এটাই সঠিক। কুরতুবীও জুমহুরের পক্ষে, অন্য দুই মতকে তিনি ভুল বলেন। আয়াত প্রতিশ্রুতিটুকু জানায়। এরপর কী ঘটেছিল, সে প্রশ্নে মুফাসসিররা বিভক্তই থেকে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reports Laid on It",
+          "bn": "বর্ণনায় দস্তরখানে কী ছিল"
+        },
+        "p": [
+          {
+            "en": "On what the table carried, the reports collected by at-Tabari do not agree. Abu Abd ar-Rahman as-Sulami: bread and fish. Ishaq ibn Abdullah: seven loaves and seven fish, and when some stole from it, saying it might not come down tomorrow, it was lifted. Qatada, who opens with it was mentioned to us: fruit from the fruits of Paradise. Maysara and Zadhan: hands reached on it for every food except meat. Wahb ibn Munabbih: a barley loaf and some fish, blessed until all had eaten.",
+            "bn": "দস্তরখানে কী ছিল, তাবারীর সংকলিত বর্ণনাগুলো এ বিষয়ে একমত নয়। আবু আবদির রহমান সুলামী বলেন, রুটি আর মাছ। ইসহাক ইবন আবদিল্লাহ বলেন, সাতটি রুটি আর সাতটি মাছ। কেউ কেউ কাল হয়তো নামবে না ভেবে তা থেকে চুরি করলে দস্তরখান তুলে নেওয়া হয়। কাতাদা শুরু করেন, আমাদের কাছে বলা হয়েছে, বলে, তারপর বলেন জান্নাতের ফলের কথা। মায়সারা ও যাযান বলেন, গোশত ছাড়া সব খাবারের দিকে সেখানে হাত বাড়ত। ওয়াহব ইবন মুনাব্বিহ বলেন, যবের একটি রুটি আর কয়েকটি মাছ, যাতে বরকত দেওয়া হয়, সবাই খেয়ে শেষ করা পর্যন্ত।"
+          },
+          {
+            "en": "One report carries the Prophet's ﷺ name. At-Tirmidhi (3061) records from Ammar ibn Yasir that the Messenger of Allah ﷺ said: \"The Ma'idah was sent down from the heaven, bread and meat, and they were commanded not to betray and not to store up for the next day; but they betrayed, stored up and put away for the next day, and they were transformed into apes and pigs.\" At-Tirmidhi calls it gharib, says others narrated it as Ammar's own words, judges that version more correct, and knows no basis for it as the Prophet's word. No sound hadith, then, is attached to this verse.",
+            "bn": "একটি বর্ণনায় নবী ﷺ-এর নাম আছে। তিরমিযী (৩০৬১) আম্মার ইবন ইয়াসির (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"মায়িদা আসমান থেকে নাযিল হয়েছিল রুটি ও গোশত নিয়ে। তাদের আদেশ দেওয়া হয়েছিল, খেয়ানত করবে না, পরের দিনের জন্য জমিয়ে রাখবে না। কিন্তু তারা খেয়ানত করল, জমাল, পরের দিনের জন্য তুলে রাখল। ফলে তাদের বানর ও শূকরে রূপান্তরিত করা হলো।\" তিরমিযী নিজেই একে গরীব বলেন। তিনি জানান, অন্যরা এটাকে আম্মারের নিজের কথা হিসেবে বর্ণনা করেছেন, সেটাই অধিক সহীহ, আর নবীর বাণী হিসেবে এর কোনো ভিত্তি তাঁর জানা নেই। কাজেই এ আয়াতের সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই।"
+          },
+          {
+            "en": "At-Tabari closes the question himself. The right thing to say, he writes, is that there was food on it. It may have been fish and bread; it may have been fruit of Paradise. Knowing it brings no benefit and not knowing it does no harm, so long as the reciter affirms what the plain wording bears. Ibn Kathir calls one long composite account, through Wahb ibn Munabbih from Salman, very strange. These reports describe one people in one past episode, as the text describes them, and license nothing against any living person or community.",
+            "bn": "তাবারী নিজেই প্রশ্নটার ইতি টানেন। তাঁর মতে সঠিক কথা এটুকু যে, তাতে খাবার ছিল। হতে পারে মাছ আর রুটি, হতে পারে জান্নাতের ফল। এটা জানায় কোনো লাভ নেই, না জানায় কোনো ক্ষতিও নেই, যদি তিলাওয়াতকারী আয়াতের প্রকাশ্য ভাষা যা বহন করে তা মেনে নেয়। ওয়াহব ইবন মুনাব্বিহের মাধ্যমে সালমান থেকে আসা একটি দীর্ঘ জোড়াতালির বর্ণনাকে ইবন কাসীর অত্যন্ত গরীব বলেন। এসব বর্ণনা অতীতের একটি ঘটনায় একটি জনগোষ্ঠীর কথা বলে, পাঠ যেমন বলে ঠিক ততটুকুই। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praying for Those Not Yet Born",
+          "bn": "যারা এখনো আসেনি তাদের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The commentators also draw a caution from the passage. Ibn Kathir paraphrases the reply in 5:112 as: fear Allah, and do not ask for this, for it may become a trial for you; rely on Allah for your provision. Ma'arif al-Qur'an reads it as teaching that a believer should not test his Lord with such demands but seek provision through the means appointed for it, and draws from 5:115 that the more extraordinary a blessing, the greater the gratitude it asks. A prayer can be bold and still carry that weight.",
+            "bn": "মুফাসসিররা এই অংশ থেকে একটা সতর্কতাও বের করেন। ৫:১১২ আয়াতের জবাবকে ইবন কাসীর এভাবে খুলে বলেন: আল্লাহকে ভয় করো, এটা চেয়ো না, হয়তো এটাই তোমাদের জন্য পরীক্ষা হয়ে দাঁড়াবে। রিযিকের ব্যাপারে আল্লাহর উপর ভরসা রাখো। মাআরিফুল কুরআনের শিক্ষা, মুমিন এমন দাবি তুলে রবকে পরীক্ষা করবে না, রিযিক খুঁজবে তার জন্য নির্ধারিত উপায়ে। ৫:১১৫ থেকে সে আরও বের করে: নিয়ামত যত অসাধারণ, শোকরের দাবিও তত বেশি। দোয়া সাহসী হতেই পারে, তবু এই দায়ের ভার তার সঙ্গে থাকে।"
+          },
+          {
+            "en": "Read whole, the prayer teaches a posture: it calls on Allah twice before asking, puts the sign before the food, and ends by praising the Giver. What stays longest is the phrase for the first of us and the last of us. Isa (AS) asked on behalf of those who would come after, and asked for something they could keep. The verse suggests a further question to bring to every prayer. Is there in this request anything that could be kept, a day remembered or a gift thanked for, by those who come after me?",
+            "bn": "পুরো দোয়াটা পড়লে চাওয়ার একটা ভঙ্গি শেখা যায়। চাওয়ার আগে আল্লাহকে দুবার ডাকে, খাবারের আগে চায় নিদর্শন, আর শেষ করে দাতার প্রশংসা দিয়ে। তবে মনে সবচেয়ে বেশি থেকে যায় একটা কথা: আমাদের প্রথম ও শেষ সবার জন্য। ঈসা (আঃ) দোয়া করেছিলেন পরে যারা আসবে তাদের হয়েও। আর চেয়েছিলেন এমন কিছু, যা তারা ধরে রাখতে পারবে। আয়াতটি প্রতিটি দোয়ার সঙ্গে আরেকটা প্রশ্ন জুড়ে দিতে শেখায়। এই চাওয়ার মধ্যে কি এমন কিছু আছে, যা আমার পরে যারা আসবে তারা ধরে রাখতে পারবে, মনে রাখার মতো একটা দিন, কিংবা শোকর করার মতো একটা দান?"
+          }
+        ]
+      }
+    ]
+  },
   "5:119": {
     "sections": [
       {

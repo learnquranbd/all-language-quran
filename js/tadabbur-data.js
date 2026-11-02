@@ -20271,6 +20271,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah guards people's property with a severe, conditioned court penalty and keeps repentance open beside it; turning back means returning what was taken and reforming, not regret alone.",
     "lessonBn": "আল্লাহ মানুষের সম্পদ রক্ষা করেছেন শর্তে বাঁধা এক কঠোর বিচারিক শাস্তি দিয়ে, আর তার পাশেই খোলা রেখেছেন তওবার দরজা। ফিরে আসা মানে শুধু অনুশোচনা নয়, যা নেওয়া হয়েছে তা ফিরিয়ে দেওয়া আর নিজেকে শুধরে নেওয়া।"
+  },
+  "5:114": {
+    "reflectionEn": "A request came to Isa (AS) from the people around him: a table from heaven, so that they could eat from it and be sure. He carried it to Allah, and by the time it became a prayer it had changed shape. He began with Allah's name and Lordship. He asked for a day that would be kept by those present and by those not yet born, and for a sign from Him. Only then did he ask to be fed, and he closed with praise: You are the best of providers. Most of my prayers open with the thing I want. What would they become if they opened with the One I am asking, and reached past me to the people who come after?",
+    "reflectionBn": "চারপাশের লোকেরা ঈসা (আঃ)-এর কাছে একটা আবদার নিয়ে এল: আসমান থেকে খাবারভরা একটা দস্তরখান, যাতে তারা খেতে পারে আর মন নিশ্চিত হয়। তিনি আবদারটা আল্লাহর দরবারে তুললেন, আর দোয়া হয়ে ওঠার পথে সেটার চেহারাই বদলে গেল। শুরু করলেন আল্লাহর নাম আর তাঁর রব হওয়ার কথা দিয়ে। চাইলেন এমন একটা দিন, যা উপস্থিতরা মনে রাখবে, আর যারা এখনো জন্মায়নি তারাও। চাইলেন তাঁর পক্ষ থেকে একটা নিদর্শন। খাবারের কথা এল সবার শেষে, আর দোয়া শেষ হলো প্রশংসায়: তুমিই সর্বোত্তম রিযিকদাতা। আমার বেশির ভাগ দোয়া শুরু হয় যা চাই তা দিয়ে। যদি শুরু হতো যাঁর কাছে চাইছি তাঁকে দিয়ে, আর দোয়াটা আমাকে ছাড়িয়ে পৌঁছে যেত পরে যারা আসবে তাদের পর্যন্ত, তাহলে সেটা কেমন হতো?",
+    "pointsEn": [
+      "When I ask Allah for something, do my first words name what I want, or Whom I am asking?",
+      "Have I asked for a sign when what I needed was to trust the signs I have already been given?",
+      "Which of the people who will come after me have I ever mentioned in a prayer?",
+      "Is there a blessing in my house that could become a day of remembrance rather than only a comfort?",
+      "A larger gift asks for larger thanks: which of mine have I received and never once thanked Him for?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কাছে কিছু চাইলে আমার প্রথম কথায় কী থাকে, আমার চাওয়া জিনিসটা, নাকি যাঁর কাছে চাইছি তাঁর নাম?",
+      "যেসব নিদর্শন আগেই পেয়েছি সেগুলোর উপর ভরসা করাই যখন দরকার ছিল, তখন কি আমি নতুন নিদর্শন চেয়ে বসেছি?",
+      "আমার পরে যারা আসবে, তাদের কারও নাম কি কোনোদিন আমার দোয়ায় এসেছে?",
+      "আমার ঘরে এমন কোনো নিয়ামত কি আছে, যা শুধু আরামের জিনিস না থেকে আল্লাহকে মনে করার একটা দিন হয়ে উঠতে পারে?",
+      "দান যত বড়, শোকরের দাবিও তত বড়। আমার কোন কোন নিয়ামত পেয়েও আমি একবারও তাঁর শোকর আদায় করিনি?"
+    ],
+    "lessonEn": "Bring a need to Allah by His name and Lordship first, ask for what serves faith and those who come after, and remember that a larger gift asks larger gratitude.",
+    "lessonBn": "প্রয়োজন নিয়ে আল্লাহর কাছে গেলে আগে তাঁর নাম আর রুবুবিয়াতের কথা বলুন, এমন কিছু চান যা ঈমানের আর পরের প্রজন্মের কাজে লাগে, আর মনে রাখুন, দান যত বড়, শোকরের দাবিও তত বড়।"
   }
 };
 
