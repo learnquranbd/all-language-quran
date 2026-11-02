@@ -1435,6 +1435,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Question at Death",
+          "bn": "মৃত্যুর মুহূর্তের প্রশ্নের পরে"
+        },
+        "p": [
+          {
+            "en": "The passage opens with an address to all of humanity. 7:35 tells the children of Adam that messengers will come from among them, reciting Allah's verses, and that whoever is mindful of Him and sets things right will have no fear and no grief. 7:36 names the other side: those who deny the verses and are too proud for them are the companions of the Fire. 7:37 follows them to the moment of death, when the angels ask where their invoked partners have gone and they testify against themselves.",
+            "bn": "এ অংশের শুরু গোটা মানবজাতিকে ডেকে। ৭:৩৫ আদম সন্তানদের জানিয়ে দেয়, তাদেরই মধ্য থেকে রসূলরা আসবেন, আল্লাহর আয়াত পড়ে শোনাবেন। যে তাকওয়া অবলম্বন করবে আর নিজেকে শুধরে নেবে, তার কোনো ভয় নেই, দুঃখও নেই। ৭:৩৬ অন্য পক্ষের পরিচয় দেয়: যারা আয়াতগুলো অস্বীকার করে আর অহংকারে মুখ ফিরিয়ে নেয়, তারাই জাহান্নামের বাসিন্দা। ৭:৩৭ তাদের পিছু নেয় মৃত্যুর মুহূর্ত পর্যন্ত। ফেরেশতারা জিজ্ঞেস করে, যাদের তোমরা ডাকতে তারা কোথায়? তারা নিজেরাই নিজেদের বিরুদ্ধে সাক্ষ্য দেয়।"
+          },
+          {
+            "en": "7:38 opens the next scene with a single word, qala: he said, Enter. At-Tabari reads it as Allah's own address on the Day of Resurrection to those who forged lies against Him and denied His messengers, and al-Baghawi agrees. Al-Qurtubi records two views on the speaker, that it is Allah, or that it is Malik, the keeper of the Fire, and leaves them side by side. As-Sa'di's wording has the angels say it.",
+            "bn": "৭:৩৮ পরের দৃশ্য খোলে একটিমাত্র শব্দে: কালা, তিনি বললেন, প্রবেশ করো। তাবারীর মতে এ হলো কিয়ামতের দিন আল্লাহর নিজের সম্বোধন, তাদের প্রতি যারা তাঁর নামে মিথ্যা রচনা করেছিল আর তাঁর রসূলদের অস্বীকার করেছিল। বাগাভীও একই কথা বলেন। কুরতুবী বক্তা নিয়ে দুটি মত পাশাপাশি রাখেন: আল্লাহ নিজে, অথবা জাহান্নামের রক্ষী মালিক। সা'দীর ভাষায় কথাটি বলেন ফেরেশতারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Nation Curses Its Sister",
+          "bn": "প্রতিটি দল অভিশাপ দেয় তার বোনকে"
+        },
+        "p": [
+          {
+            "en": "Udkhulu fi umamin: enter among nations that passed away before you, of jinn and of humankind, into the Fire. Al-Qurtubi reads fi as meaning with, as in the phrase Zayd is in the people, meaning with them; another view he records keeps it as among, in their company. Ibn Kathir explains the nations as those of your kind and your traits, the disbelieving nations that went before. At-Tabari says the nations meant are parties, the peoples of the disbelieving creeds.",
+            "bn": "উদখুলূ ফী উমামিন: তোমাদের আগে জিন আর মানুষের যে জাতিগুলো গত হয়েছে, তাদের সঙ্গে আগুনে প্রবেশ করো। কুরতুবী এখানে ফী শব্দের অর্থ নেন সঙ্গে। যেমন বলা হয়, যায়দ লোকদের মধ্যে আছে, মানে তাদের সঙ্গে আছে। তাঁর উল্লেখ করা আরেক মতে শব্দটি নিজের অর্থেই আছে: তাদের দলভুক্ত হয়ে। ইবন কাসীরের ব্যাখ্যায় এ জাতিগুলো তোমাদেরই মতো, তোমাদেরই স্বভাবের, আগের কাফির জাতি। তাবারী বলেন, উমাম মানে দল, কুফরি ধর্মমতের অনুসারীরা।"
+          },
+          {
+            "en": "Then: every time a nation enters, it curses its sister. Al-Baghawi says sister in religion, not in lineage, and the word is feminine because it means the nation and the group. At-Tabari explains the cursing as one group reviling the other group of its own creed, disowning it. Through as-Suddi he lists the pairs: idolaters curse idolaters, Jews curse Jews, Christians curse Christians, Sabians and Magians likewise, the later cursing the earlier. Al-Qurtubi names the sister as the nation that went into the Fire before it.",
+            "bn": "তারপর: যখনই কোনো দল প্রবেশ করে, সে তার বোনকে অভিশাপ দেয়। বাগাভী বলেন, এ বোন ধর্মের সূত্রে, বংশের সূত্রে নয়। শব্দটি স্ত্রীলিঙ্গ, কারণ উদ্দেশ্য উম্মাহ বা দল। তাবারীর ব্যাখ্যায় অভিশাপ মানে একই ধর্মমতের অন্য দলকে গালমন্দ করা, তার থেকে সম্পর্ক ছিন্ন করা। সুদ্দীর সূত্রে তিনি জোড়াগুলো গুনিয়ে দেন: মুশরিক মুশরিককে, ইহুদি ইহুদিকে, খ্রিস্টান খ্রিস্টানকে অভিশাপ দেয়, সাবিঈ আর অগ্নিপূজকরাও তেমনি। পরের দল অভিশাপ দেয় আগের দলকে। কুরতুবীর মতে বোন হলো সেই দল, যে তার আগে আগুনে ঢুকেছে।"
+          },
+          {
+            "en": "Ibn Kathir sets two passages beside this verse. In 29:25 Ibrahim (AS) tells his people that on the Day of Resurrection they will deny each other and curse each other. In 2:166 and 2:167 those who were followed disown those who followed them, and the followers wish for a return to the world so that they could disown them in turn. As-Sa'di, closing his comment on the next verse, names the lesson plainly: the affection these people shared in the world turns, on the Day of Resurrection, into enmity and mutual cursing.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও দুটি জায়গা রাখেন। ২৯:২৫ আয়াতে ইবরাহীম (আঃ) তাঁর কওমকে বলেন, কিয়ামতের দিন তোমরা একে অপরকে অস্বীকার করবে, একে অপরকে অভিশাপ দেবে। ২:১৬৬ ও ২:১৬৭ আয়াতে যাদের অনুসরণ করা হয়েছিল, তারা অনুসারীদের থেকে সম্পর্ক ছিন্ন করে। অনুসারীরা তখন আকাঙ্ক্ষা করে, একবার যদি দুনিয়ায় ফেরা যেত, তবে তারাও ওদের থেকে এভাবে সম্পর্ক ছিন্ন করত। পরের আয়াতের আলোচনা শেষ করতে গিয়ে সা'দী শিক্ষাটা খোলাখুলি বলেন: দুনিয়ায় এদের মধ্যে যে ভালোবাসা ছিল, কিয়ামতের দিন তা বদলে যায় শত্রুতা আর পরস্পরকে অভিশাপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Last Speak of the First",
+          "bn": "শেষের দল, প্রথম দলের বিরুদ্ধে"
+        },
+        "p": [
+          {
+            "en": "Hatta idha-ddaraku fiha jami'an: until, when they have all caught up with each other there. At-Tabari explains iddaraku as tadaraku, they gathered, the first and the last of the disbelieving creeds together. Al-Qurtubi notes that al-A'mash read tadaraku, the original form before the ta merged into the dal, and records further readings attributed to Ibn Mas'ud and to Abu 'Amr. Then qalat ukhrahum li-ulahum: the last of them said of the first of them. Who the last and the first are is where the commentators part ways.",
+            "bn": "হাত্তা ইযাদ্দারাকূ ফীহা জামীআন: অবশেষে যখন সেখানে সবাই একে অপরের নাগাল পাবে। তাবারী ইদ্দারাকূ-র ব্যাখ্যা দেন তাদারাকূ দিয়ে, মানে তারা একত্র হলো, কুফরি ধর্মমতগুলোর আগের আর পরের সবাই। কুরতুবী জানান, আ'মাশ পড়েছেন তাদারাকূ। এটাই মূল রূপ, পরে তা অক্ষরটি দাল-এর সঙ্গে মিশে গেছে। ইবন মাসউদ আর আবু আমরের নামে আরও কয়েকটি কিরাআতও তিনি উল্লেখ করেন। তারপর কালাত উখরাহুম লি-ঊলাহুম: তাদের শেষের দল প্রথম দল সম্পর্কে বলল। শেষের দল কারা, প্রথম দল কারা, এখানেই মুফাসসিরদের পথ আলাদা হয়।"
+          },
+          {
+            "en": "Al-Baghawi gives three views. Muqatil: the last to enter the Fire, who are the followers, speak of the first to enter, who are the leaders. Ibn 'Abbas: the last of every nation speaks of its first. As-Suddi: the people of the end of time speak of those before them who laid down that religion for them. Ibn Kathir takes the first view and gives a reason: the leaders entered ahead of their followers because they were worse in crime. At-Tabari reads it by time, each later generation of a creed against its forebears.",
+            "bn": "বাগাভী তিনটি মত আনেন। মুকাতিলের মতে, শেষে আগুনে ঢোকা অনুসারীরা কথা বলে প্রথমে ঢোকা নেতাদের সম্পর্কে। ইবন আব্বাস (রাঃ)-এর মতে, প্রতিটি জাতির শেষের লোকেরা তাদের প্রথম লোকদের সম্পর্কে বলে। সুদ্দীর মতে, শেষ যুগের লোকেরা বলে আগের তাদের সম্পর্কে, যারা তাদের জন্য ওই ধর্মমত চালু করেছিল। ইবন কাসীর প্রথম মতটি নেন, সঙ্গে কারণও বলেন: নেতারা অনুসারীদের আগে ঢুকেছে, কারণ তাদের অপরাধ ছিল বেশি গুরুতর। তাবারী পড়েন সময়ের ক্রমে: একই ধর্মমতের প্রতিটি পরের প্রজন্ম তার পূর্বসূরিদের বিরুদ্ধে।"
+          },
+          {
+            "en": "Al-Qurtubi points to a small word. The lam in li-ulahum, he says, means for the sake of, or concerning: the followers did not turn and address the leaders, they spoke about them to their Lord. The verse records a complaint lodged over the heads of those it names. As-Sa'di frames it the same way, the followers complaining to Allah that the leaders misled them and made foul deeds look fair to them. The plea itself is short: Our Lord, these misled us, so give them a double punishment of the Fire.",
+            "bn": "কুরতুবী একটি ছোট্ট অক্ষরের দিকে নজর দেন। লি-ঊলাহুম শব্দের লাম এখানে কারণ বা সম্পর্ক বোঝায়। অনুসারীরা নেতাদের দিকে ফিরে তাদের সম্বোধন করেনি, তাদের সম্পর্কে নিজেদের রবকে বলেছে। অর্থাৎ যাদের কথা হচ্ছে, তাদের মাথার উপর দিয়ে নালিশটা গেছে উপরে। সা'দীও একইভাবে দেখেন: অনুসারীরা আল্লাহর কাছে নালিশ করছে যে নেতারা তাদের পথভ্রষ্ট করেছে, মন্দ কাজকে তাদের চোখে সুন্দর করে দেখিয়েছে। আবেদনটা ছোট: হে আমাদের রব, এরাই আমাদের পথভ্রষ্ট করেছে, তাই এদের আগুনের দ্বিগুণ শাস্তি দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Double Means Here",
+          "bn": "দ্বিগুণ বলতে কী বোঝায়"
+        },
+        "p": [
+          {
+            "en": "The commentators pause on the word di'f. Al-Qurtubi defines it as the like added to its like, once or many times. At-Tabari says the di'f of a thing is its like once over, and from Mujahid he reports a one-word gloss: doubled. Ibn Kathir reads the plea as: multiply the punishment upon them, and he sets 33:66 to 33:68 beside it, where followers ask that their chiefs be given double and cursed with a great curse.",
+            "bn": "মুফাসসিররা দি'ফ শব্দটির কাছে এসে থামেন। কুরতুবীর সংজ্ঞায় দি'ফ মানে কোনো কিছুর সঙ্গে তার সমপরিমাণ আরও যোগ হওয়া, একবার বা বহুবার। তাবারী বলেন, কোনো কিছুর দি'ফ মানে তার সমান আরও একবার। মুজাহিদ থেকে তিনি এক শব্দের ব্যাখ্যা আনেন: দ্বিগুণ করা। ইবন কাসীর আবেদনটির অর্থ করেন: ওদের শাস্তি বাড়িয়ে দিন। পাশে রাখেন ৩৩:৬৬ থেকে ৩৩:৬৮, যেখানে অনুসারীরা চায় তাদের সর্দারদের দ্বিগুণ শাস্তি হোক, তাদের উপর বড় অভিশাপ পড়ুক।"
+          },
+          {
+            "en": "A narration from Ibn Mas'ud gives di'f a concrete form. At-Tabari reports it through as-Suddi and Murrah from 'Abdullah: a double of the Fire, he said, meant vipers, and in a second chain, snakes and vipers. Al-Qurtubi cites the same from Ibn Mas'ud. The plea, then, asks for more of what they are already suffering, heaped on those they blame. The reply does not refuse it. Qala li-kullin di'f: He said, for each there is double. At-Tabari spells out each: all of you, your first and your last, your followers and those you followed.",
+            "bn": "ইবন মাসউদ (রাঃ)-এর একটি বর্ণনা দি'ফ-কে চোখে দেখা যায় এমন রূপ দেয়। তাবারী তা আনেন সুদ্দী ও মুররার সূত্রে আবদুল্লাহ থেকে: আগুনের দ্বিগুণ মানে বিষধর সাপ। আরেক সূত্রে আছে: সাপ আর বিষধর সাপ। কুরতুবীও ইবন মাসউদ থেকে একই কথা উল্লেখ করেন। তাহলে আবেদনটা হলো, নিজেরা যা ভোগ করছে, তারই আরও বেশি চাপানো হোক যাদের তারা দোষ দিচ্ছে তাদের উপর। জবাবে আবেদন ফিরিয়ে দেওয়া হয় না। কালা লিকুল্লিন দি'ফ: তিনি বললেন, প্রত্যেকের জন্যই দ্বিগুণ। তাবারী প্রত্যেক কথাটি খুলে বলেন: তোমাদের সবার জন্য, আগের আর পরের, অনুসারী আর অনুসৃত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Followers Too",
+          "bn": "অনুসারীরাও কেন দ্বিগুণ পায়"
+        },
+        "p": [
+          {
+            "en": "The reply raises an obvious question. The leaders' extra share is easy to see, and Ibn Kathir explains it with three verses: 16:88, where those who disbelieved and blocked others from Allah's path receive punishment upon punishment; 29:13, where they carry their own loads and other loads besides; and 16:25, where they bear part of the burdens of those they misled without knowledge. His gloss on the reply is: We have done that, and recompensed each according to what it did. But why should the followers also have double?",
+            "bn": "জবাবটা একটা স্পষ্ট প্রশ্ন তোলে। নেতারা কেন বাড়তি পাবে, তা বোঝা সহজ। ইবন কাসীর তিনটি আয়াত দিয়ে তা ব্যাখ্যা করেন। ১৬:৮৮ আয়াতে যারা কুফরি করেছে আর অন্যদের আল্লাহর পথ থেকে আটকেছে, তাদের শাস্তির উপর শাস্তি বাড়ানো হয়। ২৯:১৩ আয়াতে তারা নিজেদের বোঝা বয়, সঙ্গে আরও বোঝা। ১৬:২৫ আয়াতে তারা বয় তাদেরও বোঝার অংশ, যাদের তারা না জেনেবুঝে পথভ্রষ্ট করেছে। জবাবটির ব্যাখ্যায় তিনি বলেন: আমি তা করেছি, প্রত্যেককে তার কাজ অনুযায়ী প্রতিফল দিয়েছি। কিন্তু অনুসারীরাও কেন দ্বিগুণ পাবে?"
+          },
+          {
+            "en": "The commentators answer from the very next verse, where the first speak back to the last: you had no merit over us. As-Suddi, reported by at-Tabari and Ibn Kathir, glosses it: you went astray as we went astray. Al-Baghawi: you disbelieved as we disbelieved, so you and we are equal in disbelief and equal in punishment. Al-Qurtubi: you disbelieved and did as we did, so you deserve no lightening. At-Tabari adds the sharpest point. The later nations knew what had befallen the earlier ones, and messengers and warners came to them too. Their complaint had no answer.",
+            "bn": "মুফাসসিররা উত্তর খোঁজেন ঠিক পরের আয়াতে। সেখানে প্রথম দল শেষের দলকে পাল্টা বলে: আমাদের উপর তোমাদের কোনো শ্রেষ্ঠত্ব ছিল না। তাবারী ও ইবন কাসীর সুদ্দীর ব্যাখ্যা আনেন: আমরা যেমন পথ হারিয়েছি, তোমরাও তেমনি হারিয়েছ। বাগাভী বলেন: আমরা যেমন কুফরি করেছি, তোমরাও করেছ। কাজেই কুফরিতে আমরা সমান, শাস্তিতেও সমান। কুরতুবী বলেন: তোমরা কুফরি করেছ, আমরা যা করেছি তা-ই করেছ, তাই শাস্তি হালকা হওয়ার হক তোমাদের নেই। তাবারী সবচেয়ে ধারালো কথাটা যোগ করেন। আগের জাতিদের কী হয়েছিল, পরের জাতিরা তা জানত। রসূল আর সতর্ককারী তাদের কাছেও এসেছিলেন। তাদের নালিশের কোনো জবাব ছিল না।"
+          },
+          {
+            "en": "Two differences are worth keeping. Mujahid took the merit in that reply to mean lightening of punishment, as if the leaders said you get no reduction over us. At-Tabari rejects this: the word kana points back to what they did in the world, not to their present state. And as-Sa'di, while holding that all of them share in the root of the punishment, says its measure differs by their deeds, and that the punishment of leaders in misguidance is graver, just as the reward of leaders in guidance is greater. In his reading, double for each does not make the shares equal.",
+            "bn": "দুটি মতভেদ রেখে দেওয়ার মতো। মুজাহিদ ওই জবাবের শ্রেষ্ঠত্ব কথাটির অর্থ নিয়েছেন শাস্তি হালকা হওয়া, যেন নেতারা বলছে, আমাদের চেয়ে তোমাদের শাস্তি কম হবে না। তাবারী এ মত গ্রহণ করেন না। তাঁর যুক্তি, কানা শব্দটি ইঙ্গিত করে দুনিয়ায় তারা যা করেছিল সেদিকে, এখনকার অবস্থার দিকে নয়। আর সা'দী বলেন, মূল শাস্তিতে সবাই শরিক, তবে এর পরিমাণ আমল অনুযায়ী আলাদা। গোমরাহির নেতাদের শাস্তি বেশি কঠিন, যেমন হেদায়াতের নেতাদের প্রতিদান বেশি বড়। তাঁর ব্যাখ্যায় প্রত্যেকের দ্বিগুণ মানে সবার ভাগ সমান নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Neither Side Knows",
+          "bn": "যা কোনো পক্ষই জানে না"
+        },
+        "p": [
+          {
+            "en": "The verse ends: wa-lakin la ta'lamun, but you do not know. At-Tabari addresses it to the people of the Fire: you do not know the measure of what Allah has prepared for you, and that is why the later nation of disbelief asks for double to be given to its sister, the earlier one. The Muyassar has the followers in view, who do not grasp the punishment and pain that each party has. Al-Baghawi reads it the same way: you do not know what each group among you receives of the punishment.",
+            "bn": "আয়াতের শেষ কথা: ওয়ালাকিন লা তা'লামূন, কিন্তু তোমরা জানো না। তাবারী একে জাহান্নামবাসীদের প্রতি সম্বোধন ধরেন: আল্লাহ তোমাদের জন্য যা প্রস্তুত রেখেছেন, তার পরিমাণ তোমরা জানো না। সে কারণেই পরের কাফির জাতি তার বোন, আগের জাতিটির জন্য দ্বিগুণ চায়। মুয়াসসারের দৃষ্টি অনুসারীদের দিকে: প্রতিটি দলের কী শাস্তি আর কী যন্ত্রণা, তা তারা বুঝতে পারে না। বাগাভীও একইভাবে পড়েন: তোমাদের প্রতিটি দলের ভাগে কী শাস্তি আছে, তোমরা জানো না।"
+          },
+          {
+            "en": "Al-Baghawi records a second reading: Abu Bakr read la ya'lamun, they do not know, and the sense becomes that the followers do not know what the leaders have, nor the leaders what the followers have. Al-Qurtubi draws a striking point from that reading. No party knows what the other suffers, he says, because if anyone in the Fire knew that another's punishment exceeded his own, that would be a kind of consolation to him. Even that comparison is withheld.",
+            "bn": "বাগাভী আরেকটি কিরাআত উল্লেখ করেন। আবু বকর পড়েছেন লা ইয়া'লামূন, তারা জানে না। তখন অর্থ দাঁড়ায়, নেতাদের ভাগে কী আছে অনুসারীরা জানে না, অনুসারীদের ভাগে কী আছে নেতারাও জানে না। এ কিরাআত থেকে কুরতুবী একটি চমকপ্রদ কথা বের করেন। কোনো দলই জানে না অন্য দল কী ভোগ করছে। কারণ জাহান্নামের কেউ যদি জানত, অন্য কারও শাস্তি তার চেয়ে বেশি, তবে সেটাই তার জন্য এক রকম সান্ত্বনা হতো। সেই তুলনার সুযোগটুকুও তাদের দেওয়া হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gates That Will Not Open",
+          "bn": "যে দরজা তাদের জন্য খোলে না"
+        },
+        "p": [
+          {
+            "en": "Two verses on, 7:40 returns to those who deny Our verses and are too proud for them, and names what is closed to them: the gates of heaven. Ibn Kathir reports two readings, that their deeds and supplications do not rise through those gates, from Mujahid, Sa'id ibn Jubayr and Ibn 'Abbas, or that their souls are not let through, from ad-Dahhak via Ibn 'Abbas, and he quotes Ibn Jurayj joining both. Al-Qurtubi favours the souls, says sound reports came on it, and names the narration of al-Bara' ibn 'Azib.",
+            "bn": "দুই আয়াত পরে ৭:৪০ আবার ফিরে আসে তাদের কথায়, যারা আমার আয়াত অস্বীকার করে আর অহংকারে মুখ ফেরায়। তাদের জন্য কী বন্ধ, তা-ও বলে দেয়: আসমানের দরজা। ইবন কাসীর দুটি ব্যাখ্যা আনেন। মুজাহিদ, সাঈদ ইবন জুবাইর ও ইবন আব্বাস (রাঃ) থেকে: তাদের আমল আর দোয়া ওই দরজা দিয়ে উপরে ওঠে না। দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে: তাদের রূহকে ঢুকতে দেওয়া হয় না। ইবন জুরাইজের কথা উদ্ধৃত করে তিনি দুটিকে মিলিয়ে দেন। কুরতুবী রূহের ব্যাখ্যাকে প্রাধান্য দেন। তিনি বলেন, এ বিষয়ে সহীহ বর্ণনা এসেছে, আর বারা ইবন আযিব (রাঃ)-এর হাদীসের নাম নেন।"
+          },
+          {
+            "en": "Ibn Kathir and at-Tabari both cite under this verse a narration of Abu Hurayrah that Ibn Majah records (4262). Of the evil soul it says: “then it is taken up to heaven and it is not opened for it. And it is asked: ‘Who is this?’ It is said: ‘So-and-so.’ And it is said: ‘No welcome to the evil soul that was in an evil body. Go back blameworthy, for the gates of heaven will not be opened to you.’ So it is sent back down from heaven, then it goes to the grave.” Ibn Majah gives no grading of his own.",
+            "bn": "ইবন কাসীর ও তাবারী দুজনেই এ আয়াতের আলোচনায় আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা আনেন, যা ইবন মাজাহ সংকলন করেছেন (৪২৬২)। খবীস রূহ সম্পর্কে তাতে আছে: “তারপর তাকে আসমানের দিকে নিয়ে যাওয়া হয়, কিন্তু তার জন্য দরজা খোলা হয় না। জিজ্ঞেস করা হয়: এ কে? বলা হয়: অমুক। তখন বলা হয়: খবীস দেহে থাকা খবীস রূহের জন্য কোনো স্বাগত নেই। নিন্দিত অবস্থায় ফিরে যাও, তোমার জন্য আসমানের দরজাগুলো খোলা হবে না। তারপর তাকে আসমান থেকে ছেড়ে দেওয়া হয়, আর সে কবরে গিয়ে পৌঁছে।” ইবন মাজাহ নিজে এর কোনো মান নির্ধারণ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Camel, a Rope, a Needle",
+          "bn": "উট, মোটা রশি আর সুইয়ের ছিদ্র"
+        },
+        "p": [
+          {
+            "en": "Nor will they enter Paradise until the jamal passes through the eye of the needle. Al-Baghawi explains the device: hanging a thing on an impossibility seals the refusal, as one says, I will not do it until the crow turns grey. As-Sa'di sets the camel, among the largest of animals, against the needle's eye, among the narrowest of things. Ibn Kathir says the majority read al-jamal, the camel, but reports from Mujahid and 'Ikrimah that Ibn 'Abbas read al-jummal, a thick rope, the choice of Sa'id ibn Jubayr. Al-Qurtubi records it as a ship's cable. Either way, nothing passes.",
+            "bn": "আর তারা জান্নাতে ঢুকবে না, যতক্ষণ না জামাল সুইয়ের ছিদ্র দিয়ে প্রবেশ করে। বাগাভী কৌশলটা বুঝিয়ে দেন: কোনো কিছুকে অসম্ভবের সঙ্গে জুড়ে দিলে নিষেধ পাকা হয়ে যায়। যেমন বলা হয়, কাকের পালক সাদা না হওয়া পর্যন্ত আমি এ কাজ করব না। সা'দী মুখোমুখি দাঁড় করান সবচেয়ে বড় প্রাণীদের একটি উটকে আর সবচেয়ে সরু জিনিসগুলোর একটি সুইয়ের ছিদ্রকে। ইবন কাসীর বলেন, অধিকাংশ কারী পড়েছেন আল-জামাল, মানে উট। তবে মুজাহিদ ও ইকরিমার সূত্রে তিনি জানান, ইবন আব্বাস (রাঃ) পড়তেন আল-জুম্মাল, মানে মোটা রশি। সাঈদ ইবন জুবাইরও এটাই বেছে নিয়েছিলেন। কুরতুবীর উদ্ধৃত ব্যাখ্যায় এটা জাহাজের মোটা কাছি। উট হোক বা রশি, ও পথে কিছুই গলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mirror, Not a Map",
+          "bn": "আয়না, মানচিত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: nations of jinn and humankind who denied Allah's verses and were too proud for them, gathered in the Fire, and their quarrel there. It licenses nothing against any living person or community. The creeds named in the commentaries illustrate the bond of a shared creed; they hand no reader a right to assign a neighbour or a people a place in this scene.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: জিন আর মানুষের সেসব জাতি, যারা আল্লাহর আয়াত অস্বীকার করেছিল আর অহংকারে মুখ ফিরিয়েছিল, আগুনে একত্র হয়েছে, আর সেখানে নিজেদের মধ্যে ঝগড়া করছে। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। তাফসীরে যেসব ধর্মমতের নাম এসেছে, তা শুধু একই বিশ্বাসের বন্ধন বোঝানোর উদাহরণ। কোনো প্রতিবেশী বা কোনো জাতিকে এ দৃশ্যে বসিয়ে দেওয়ার অধিকার তা কোনো পাঠককে দেয় না।"
+          },
+          {
+            "en": "What the verse leaves the reader is a pair of mirrors. The follower learns that following was no defence, since warnings had reached him too. The leader learns that a road shown to others is a load carried for them. And the affection they shared in the world, as-Sa'di says, turns to enmity and cursing. The time to choose whom to follow, and how to lead, is now.",
+            "bn": "আয়াতটি পাঠকের হাতে তুলে দেয় দুটি আয়না। অনুসারী দেখে, অনুসরণ কোনো সাফাই ছিল না, কারণ সতর্কবাণী তার কাছেও পৌঁছেছিল। নেতা দেখে, অন্যকে যে পথ দেখানো হয়, তার বোঝাও তাকে বইতে হয়। আর সা'দী যেমন বলেন, দুনিয়ায় তাদের যে ভালোবাসা ছিল, তা শেষে শত্রুতা আর অভিশাপে গিয়ে ঠেকে। কাকে অনুসরণ করবেন আর কীভাবে নেতৃত্ব দেবেন, তা বেছে নেওয়ার সময় এখনই।"
+          }
+        ]
+      }
+    ]
+  },
   "7:42-43": {
     "sections": [
       {

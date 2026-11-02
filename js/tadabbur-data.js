@@ -20651,6 +20651,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every promise and warning of your Lord will be found true, so live now by what you will one day confirm with a single word.",
     "lessonBn": "আপনার রবের প্রতিটি ওয়াদা আর প্রতিটি সতর্কবাণী সত্য প্রমাণিত হবে। তাই একদিন যা একটিমাত্র শব্দে স্বীকার করতে হবে, আজই সে অনুযায়ী জীবন গড়ুন।"
+  },
+  "7:38": {
+    "reflectionEn": "They held one creed in this world, and they enter the Fire one nation after another. Each, as it enters, curses the one that went in before it. When all are gathered, the latecomers turn on those who led them: our Lord, these misled us, so give them double. The answer comes back: for each there is double, but you do not know. Following was never a shelter. The ones who followed had heard warnings of their own and chose the same road. The ones who led carry the weight of those they led. Two questions follow me out of this verse. Whom do I follow only because they went first? And who, quietly, is following me?",
+    "reflectionBn": "দুনিয়ায় তাদের বিশ্বাস ছিল এক, আর আগুনে তারা ঢোকে এক জাতির পর আরেক জাতি। যে দলই ঢোকে, আগে ঢুকে পড়া দলটিকে সে অভিশাপ দেয়। সবাই যখন একত্র হয়, পরে আসা লোকেরা ঘুরে দাঁড়ায় তাদের দিকে, যারা তাদের পথ দেখিয়েছিল: হে আমাদের রব, এরাই আমাদের পথভ্রষ্ট করেছে, এদের দ্বিগুণ শাস্তি দিন। জবাব আসে: প্রত্যেকের জন্যই দ্বিগুণ, কিন্তু তোমরা জানো না। অনুসরণ কখনো আশ্রয় ছিল না। যারা অনুসরণ করেছিল, সতর্কবাণী তাদের কানেও পৌঁছেছিল, তবু তারা একই পথ বেছে নিয়েছিল। আর যারা নেতৃত্ব দিয়েছিল, তারা বইছে অনুসারীদের বোঝাও। এ আয়াত থেকে দুটো প্রশ্ন আমার সঙ্গে বেরিয়ে আসে। কাকে আমি অনুসরণ করছি শুধু এ কারণে যে সে আগে হেঁটেছে? আর চুপচাপ কে আমার পেছনে হাঁটছে?",
+    "pointsEn": [
+      "Which of my habits did I pick up from someone else without ever asking whether it was right?",
+      "If I had to answer for a choice without naming the person I copied it from, which choices would I change today?",
+      "Who watches what I do and copies it, a child, a younger colleague, a friend, and what am I teaching them without a word?",
+      "Which of my friendships rest on a shared wrong, the kind that would turn to blame the moment the cost arrived?",
+      "When I say someone led me astray, do I also own the part that I chose?"
+    ],
+    "pointsBn": [
+      "আমার কোন অভ্যাসগুলো অন্যের কাছ থেকে নিয়েছি, অথচ একবারও জিজ্ঞেস করিনি সেগুলো ঠিক কি না?",
+      "যার দেখাদেখি করেছি তার নাম না নিয়ে যদি নিজের সিদ্ধান্তের জবাব নিজেকেই দিতে হয়, তাহলে আজ কোন সিদ্ধান্তগুলো বদলাতাম?",
+      "কে আমার কাজ দেখে আর নকল করে? সন্তান, অধীনস্থ কোনো সহকর্মী, নাকি কোনো বন্ধু? মুখে কিছু না বলেও তাদের আমি কী শেখাচ্ছি?",
+      "আমার কোন বন্ধুত্ব দাঁড়িয়ে আছে একসঙ্গে করা কোনো অন্যায়ের উপর, যা মাশুল দেওয়ার সময় এলেই দোষারোপে বদলে যাবে?",
+      "কেউ আমাকে বিপথে নিয়েছে বলার সময় আমি কি নিজের বেছে নেওয়া অংশটুকুর দায়ও স্বীকার করি?"
+    ],
+    "lessonEn": "Following others into wrong is no excuse, and leading others into it adds to your own load, so choose your path as one who will answer for it.",
+    "lessonBn": "অন্যের দেখাদেখি অন্যায় করা কোনো অজুহাত নয়, আর অন্যকে অন্যায়ে টেনে নিলে নিজের বোঝা বাড়ে। তাই এমনভাবে পথ বাছুন, যেন এর জবাব আপনাকেই দিতে হবে।"
   }
 };
 
