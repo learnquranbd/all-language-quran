@@ -20191,6 +20191,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Honour Isa (AS) and Maryam (AS) as the Quran does, a messenger and a woman of truth who both ate food, and keep worship for the One who needs nothing.",
     "lessonBn": "কুরআন যেভাবে সম্মান দেয়, সেভাবেই ঈসা (আঃ) ও মারইয়াম (আঃ)-কে সম্মান করুন: একজন রাসূল, একজন সত্যনিষ্ঠ নারী, দুজনেই খাবার খেতেন। আর ইবাদত রাখুন শুধু তাঁর জন্য, যাঁর কিছুরই দরকার নেই।"
+  },
+  "5:68": {
+    "reflectionEn": "The Messenger is told to say it to people who held revealed books in their hands: you stand on nothing until you uphold them. Not until you own them, recite them or defend them, but until you uphold them, which means living by what they say, including the part that points beyond them. It is a hard sentence, and the verse knows it will be hard to hear. It ends by telling the Prophet ﷺ not to grieve when many turn further away. Then the sentence comes back to us, because we too hold a revealed Book. If what I stand on were measured by what I uphold of it, not by what I own of it, how much ground would be under my feet?",
+    "reflectionBn": "রসূল ﷺ-কে বলা হলো, যাদের হাতে আসমানি কিতাব আছে তাদের এই কথা জানিয়ে দিতে: কিতাব প্রতিষ্ঠা না করা পর্যন্ত তোমরা কোনো ভিত্তির উপরই নেই। কিতাব ঘরে রাখা, পড়া বা তার পক্ষে তর্ক করা নয়, প্রতিষ্ঠা করা। মানে কিতাবে যা আছে তা জীবনে মেনে চলা, তার ভেতরের সেই অংশসহ যা সামনের দিকে ইশারা করে। কথাটা কঠিন, আর আয়াত জানে শুনতেও কঠিন লাগবে। তাই শেষে নবী ﷺ-কে বলা হয়েছে, অনেকে আরও দূরে সরে গেলে তিনি যেন দুঃখ না করেন। তারপর কথাটা আমাদের দিকেই ফিরে আসে, কারণ আমাদের হাতেও আসমানি কিতাব। আমার পায়ের নিচের মাটি যদি মাপা হয় কিতাবের কতটুকু আমার কাছে আছে তা দিয়ে নয়, কতটুকু আমি মেনে চলি তা দিয়ে, তাহলে মাটি কতটুকু থাকবে?",
+    "pointsEn": [
+      "Which instruction in the Quran do I know well and still do not live by?",
+      "Do I treat owning, reciting or defending the Book as though it were the same as upholding it?",
+      "When someone turns away from what I tell them about the faith, does my grief stop me, or do I convey it and leave the result with Allah?",
+      "Can I say a hard truth to someone of another faith in a tone as courteous as the verse's own 'O People of the Book'?",
+      "What one ruling will I begin to uphold this week, rather than only agree with?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোন নির্দেশটা আমি ভালো করে জানি, অথচ এখনো জীবনে মানি না?",
+      "কিতাব ঘরে রাখা, তিলাওয়াত করা বা তার পক্ষে কথা বলাকেই কি আমি কিতাব প্রতিষ্ঠা করা বলে ধরে নিই?",
+      "দ্বীনের কথা শুনে কেউ মুখ ফিরিয়ে নিলে আমার দুঃখ কি আমাকে থামিয়ে দেয়, নাকি আমি পৌঁছে দিয়ে ফলাফল আল্লাহর হাতে ছেড়ে দিই?",
+      "অন্য ধর্মের কাউকে কঠিন সত্য কি আমি আয়াতের 'হে আহলে কিতাব' ডাকের মতো ভদ্র সুরে বলতে পারি?",
+      "এ সপ্তাহে কোন একটা বিধান আমি শুধু মেনে নেওয়া নয়, আমলে আনতে শুরু করব?"
+    ],
+    "lessonEn": "A Book in the hand is not ground under the feet: you stand on something only when you uphold what was sent down to you.",
+    "lessonBn": "হাতে কিতাব থাকলেই পায়ের নিচে মাটি থাকে না। যা নাযিল হয়েছে তা প্রতিষ্ঠা করলেই কেবল আপনি কোনো ভিত্তির উপর দাঁড়ান।"
   }
 };
 

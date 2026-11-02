@@ -1867,6 +1867,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:68": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sentence to Be Conveyed",
+          "bn": "যে কথা পৌঁছে দিতে হবে"
+        },
+        "p": [
+          {
+            "en": "Qul ya ahla al-kitab: say, O People of the Book. The verse before it, 5:67, commanded the Messenger to convey what had been sent down to him from his Lord, and promised that Allah would protect him from the people. 5:68 opens with qul, say, and hands him a sentence to convey. At-Tabari reads it in exactly that way: a command from Allah to His Prophet Muhammad ﷺ to deliver this to the Jews and the Christians who lived around the place to which he had emigrated. Ma'arif al-Qur'an adds that the mention of conveying came in between, prompted by a particular need.",
+            "bn": "কুল ইয়া আহলাল কিতাব: বলো, হে আহলে কিতাব। ঠিক আগের আয়াত ৫:৬৭-এ রসূল ﷺ-কে হুকুম দেওয়া হয়েছে, রবের কাছ থেকে যা নাযিল হয়েছে তা পৌঁছে দাও, আর আল্লাহ মানুষের হাত থেকে তোমাকে রক্ষা করবেন। ৫:৬৮ শুরু হয় কুল দিয়ে, অর্থাৎ বলো। এবার তাঁর হাতে পৌঁছে দেওয়ার মতো একটা কথা তুলে দেওয়া হলো। তাবারী আয়াতটি ঠিক এভাবেই পড়েন। তাঁর ভাষায়, এ হলো নবী মুহাম্মাদ ﷺ-এর প্রতি আল্লাহর আদেশ: হিজরতের শহরের আশপাশে যে ইয়াহূদী ও নাসারারা বাস করত, তাদের কাছে কথাটা পৌঁছে দাও। মাআরিফুল কুরআন যোগ করে, পৌঁছে দেওয়ার প্রসঙ্গটা মাঝখানে এসেছে একটা বিশেষ প্রয়োজনের কারণে।"
+          },
+          {
+            "en": "The first clause takes up a condition stated two verses earlier. 5:66 said: if only they had upheld the Torah, the Injil and what was sent down to them from their Lord, they would have eaten from above them and from beneath their feet; among them is a moderate community, and many of them, evil is what they do. There the condition was spoken about them. Here it is spoken to them, face to face, and the promise of provision gives way to something more basic still: without upholding, there is no ground to stand on at all.",
+            "bn": "আয়াতের প্রথম অংশ দুই আয়াত আগের একটা শর্তকে আবার সামনে আনে। ৫:৬৬ বলেছিল: তারা যদি তাওরাত, ইঞ্জিল আর রবের কাছ থেকে তাদের প্রতি যা নাযিল হয়েছে তা প্রতিষ্ঠা করত, তাহলে উপর থেকে আর পায়ের নিচ থেকে আহার পেত। তাদের মধ্যে একটি মধ্যপন্থী দল আছে, আর অনেকেই যা করে তা মন্দ। সেখানে শর্তটা বলা হয়েছিল তাদের সম্পর্কে। এখানে বলা হচ্ছে সরাসরি তাদেরকেই। রিজিকের প্রতিশ্রুতির জায়গায় এবার আসে আরও গোড়ার কথা: প্রতিষ্ঠা না করলে দাঁড়ানোর মতো কোনো জমিনই থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing, Upholding, Overflowing",
+          "bn": "শূন্য ভিত, প্রতিষ্ঠা, সীমা ছাড়ানো"
+        },
+        "p": [
+          {
+            "en": "Lastum 'ala shay'in: you are not upon anything. Shay' means a thing, any thing, so its negation leaves nothing over, and the preposition 'ala pictures a person standing on a foundation. The commentators supply what the foundation would have been. Ibn Kathir: not upon anything of religion. The Muyassar: you have no share of religion. As-Sa'di: nothing of the matters of religion. At-Tabari: nothing of what you claim to be upon, neither of what Musa (AS) brought you, O Jews, nor of what 'Isa (AS) brought you, O Christians.",
+            "bn": "লাসতুম আলা শাইয়িন: তোমরা কোনো কিছুর উপরই নেই। শাইউন মানে কোনো জিনিস, যেকোনো জিনিস। তাকে নাকচ করলে আর কিছুই বাকি থাকে না। আলা অব্যয়টি এমন মানুষের ছবি আঁকে, যে কোনো ভিতের উপর দাঁড়িয়ে আছে। ভিতটা কী হতে পারত, তাফসীরকারেরা তা বলে দেন। ইবন কাসীর বলেন, দ্বীনের কোনো কিছুর উপর নও। মুয়াসসার বলে, দ্বীনের কোনো অংশই তোমাদের ভাগে নেই। সা'দী বলেন, দ্বীনি বিষয়ের কোনোটির উপরই নও। তাবারী বলেন, তোমরা যার উপর আছ বলে দাবি করো তার কিছুরই উপর নও। হে ইয়াহূদীরা, মূসা (আঃ) যা এনেছিলেন তার উপরও নও, আর হে নাসারারা, ঈসা (আঃ) যা এনেছিলেন তার উপরও নও।"
+          },
+          {
+            "en": "Hatta tuqimu: until you uphold, from the root q-w-m, to stand. It is the verb of aqimu as-salah, establish the prayer, in 2:43, and the commentators read it as making a book stand up in a life. As-Sa'di: that you make the two of them stand, by believing in them, following them and holding to everything they call to. Al-Baghawi: that you uphold their rulings and what is obligatory on you in them. At-Tabari: that you act upon all of it, believe in what it contains of faith in Muhammad ﷺ, and affirm that all of it is from Allah.",
+            "bn": "হাত্তা তুকীমূ: যতক্ষণ না তোমরা প্রতিষ্ঠা করো। ধাতু ক-ও-ম, মানে দাঁড়ানো। ২:৪৩-এ আকীমুস সালাহ, নামায কায়েম করো, সেখানেও এই একই ক্রিয়া। তাফসীরকারেরা একে পড়েন কিতাবকে জীবনের ভেতরে দাঁড় করানো অর্থে। সা'দীর ভাষায়, দুটি কিতাবকে দাঁড় করাও: তাদের প্রতি ঈমান এনে, তাদের অনুসরণ করে, আর তারা যেদিকে ডাকে তার সবকিছু আঁকড়ে ধরে। বাগাভী বলেন, তাদের বিধান আর তাতে তোমাদের উপর যা ফরয তা কায়েম করো। তাবারী বলেন, পুরোটার উপর আমল করো, তাতে মুহাম্মাদ ﷺ-এর প্রতি ঈমানের যে কথা আছে তা বিশ্বাস করো, আর মেনে নাও যে এর সবটাই আল্লাহর কাছ থেকে।"
+          },
+          {
+            "en": "The second half repeats words from 5:64: what was sent down to you will surely increase many of them in tughyan and kufr. Al-Qurtubi defines tughyan as passing the limit in wrongdoing: wrongdoing has minor and major forms, and whoever passes beyond the minor has transgressed, as in 96:6. At-Tabari glosses tughyan as excess in denying the Prophet ﷺ, beyond what they had shown before the Furqan came down, and kufr as rejecting his prophethood. Fa-la ta'sa, do not grieve: both men cite a rajaz line for the word, his eyes streamed from excess of asa, grief.",
+            "bn": "আয়াতের দ্বিতীয় ভাগে ৫:৬৪-এর কথাই ফিরে এসেছে: তোমার প্রতি যা নাযিল হয়েছে, তা তাদের অনেকের তুগইয়ান আর কুফর অবশ্যই বাড়িয়ে দেবে। কুরতুবীর সংজ্ঞায় তুগইয়ান মানে জুলুমে সীমা পার হয়ে যাওয়া। জুলুমের ছোট রূপ আছে, বড় রূপও আছে। যে ছোটর সীমা পেরিয়ে যায়, সে-ই তুগইয়ান করল, যেমন ৯৬:৬-এ। তাবারী তুগইয়ানের ব্যাখ্যা দেন নবী ﷺ-কে অস্বীকারে বাড়াবাড়ি হিসেবে, ফুরকান নাযিলের আগে যতটা ছিল তার চেয়েও বেশি। আর কুফর মানে তাঁর নবুওয়াত অস্বীকার করা। ফালা তা'সা, দুঃখ করো না: শব্দটির প্রমাণে দুজনেই রাজায ছন্দের একটি পঙক্তি আনেন। অতিরিক্ত আসা, মানে শোকে তার দুচোখ বেয়ে অশ্রু গড়াল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Third Thing Named",
+          "bn": "তালিকার তৃতীয় নাম"
+        },
+        "p": [
+          {
+            "en": "Three things are to be upheld: the Torah, the Injil, and wa ma unzila ilaykum min rabbikum, what was sent down to you from your Lord. Several commentators say the third is the Quran. At-Tabari: what Muhammad ﷺ brought you of the Furqan. Ibn Kathir reports from Layth ibn Abi Sulaym, from Mujahid: it means the Mighty Quran. The Muyassar: what Muhammad ﷺ brought you of the Quran. Ma'arif al-Qur'an calls this the view of the majority of commentators among the Companions and their successors, the Quran having been sent through the Prophet ﷺ to every community he called, Jews and Christians included.",
+            "bn": "প্রতিষ্ঠা করতে হবে তিনটি জিনিস: তাওরাত, ইঞ্জিল, আর ওয়া মা উনযিলা ইলাইকুম মিন রাব্বিকুম, তোমাদের রবের কাছ থেকে তোমাদের প্রতি যা নাযিল হয়েছে। একাধিক তাফসীরকার বলেন, তৃতীয়টি হলো কুরআন। তাবারীর ভাষায়, মুহাম্মাদ ﷺ তোমাদের কাছে যে ফুরকান নিয়ে এসেছেন। ইবন কাসীর লাইস ইবন আবী সুলাইমের সূত্রে মুজাহিদ থেকে বর্ণনা করেন: এর মানে মহান কুরআন। মুয়াসসার বলে, মুহাম্মাদ ﷺ তোমাদের কাছে যে কুরআন এনেছেন। মাআরিফুল কুরআনের মতে সাহাবী ও তাবেয়ীদের মধ্যে অধিকাংশ তাফসীরকারের মত এটাই। কারণ কুরআন নবী ﷺ-এর মাধ্যমে পাঠানো হয়েছে তাঁর দাওয়াতের আওতায় থাকা সব জাতির কাছে, ইয়াহূদী ও নাসারাও তার মধ্যে।"
+          },
+          {
+            "en": "At-Tabari also records Ibn Zayd's remark: so we have become among the People of the Book. The Torah is for the Jews, the Injil for the Christians, and what was sent down to you from your Lord is what was sent down to us from our Lord; you stand on nothing until you uphold, that is, until you act on what is in it. Ma'arif al-Qur'an applies the condition twice: descent from prophets, learning and spiritual striving would not save the People of the Book without following the Divine Shari'ah, and for Muslims too no spiritual path, exertion, unveiling or inspiration saves without full adherence to it.",
+            "bn": "তাবারী এ আয়াতে ইবন যায়দের একটি মন্তব্যও এনেছেন: তাহলে তো আমরাও আহলে কিতাবের দলে পড়ে গেলাম। তাওরাত ইয়াহূদীদের জন্য, ইঞ্জিল নাসারাদের জন্য। আর তোমাদের রবের কাছ থেকে তোমাদের প্রতি যা নাযিল হয়েছে, তা হলো আমাদের রবের কাছ থেকে আমাদের প্রতি যা নাযিল হয়েছে। প্রতিষ্ঠা না করা পর্যন্ত, মানে তাতে যা আছে তার উপর আমল না করা পর্যন্ত, তোমরা কোনো কিছুর উপর নও। মাআরিফুল কুরআন শর্তটা দুই দিকেই খাটায়। আল্লাহর শরীআত না মানলে নবীদের বংশধর হওয়া, জ্ঞান বা সাধনা আহলে কিতাবকে বাঁচাবে না। আর মুসলিমদের বেলাতেও শরীআত পুরোপুরি মেনে না চললে কোনো তরিকা, মুজাহাদা, কাশফ বা ইলহাম মুক্তি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Books That Confirm One Another",
+          "bn": "এক কিতাব আরেক কিতাবের সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains why upholding has to take in all three. Affirm that all of it is from Allah, he writes, deny nothing of it, and do not make distinctions between Allah's messengers, believing in some and disbelieving in others; for disbelief in one of these is disbelief in all of them, since the books of Allah confirm one another, and whoever denies part of them has denied the whole. Ibn Kathir makes the same link from the other end: among what the earlier books contain is the command to follow Muhammad ﷺ, believe in his mission and follow his law.",
+            "bn": "তিনটিকেই কেন প্রতিষ্ঠা করতে হবে, তাবারী তার ব্যাখ্যা দেন। তিনি লেখেন, মেনে নাও যে এর সবটাই আল্লাহর কাছ থেকে, কোনো অংশ অস্বীকার কোরো না। আল্লাহর রসূলদের মধ্যে ভেদাভেদও কোরো না যে কাউকে মানবে আর কাউকে মানবে না। কারণ এর একটিকে অস্বীকার করা মানে সবগুলোকে অস্বীকার করা। আল্লাহর কিতাবগুলো একে অন্যকে সত্যায়ন করে, তাই যে এর কিছু অংশ অস্বীকার করে, সে পুরোটাই অস্বীকার করে। ইবন কাসীর একই যোগসূত্র টানেন উল্টো দিক থেকে। আগের কিতাবগুলোতেই আছে মুহাম্মাদ ﷺ-এর অনুসরণের আদেশ, তাঁর আগমনের প্রতি ঈমান আর তাঁর শরীআত অনুসরণের নির্দেশ।"
+          },
+          {
+            "en": "That raises a question the commentators answer differently. How can three books be upheld together when a later one changed rulings of the one before? Al-Qurtubi records from Abu Ali that the verse may have come before the two earlier books were abrogated. Ma'arif al-Qur'an answers another way: since each book that came changed some rulings of the one before it, following the ruling that replaced is itself acting on both books, while holding to the replaced ruling goes against both. Both answers are kept here, each as its author gives it.",
+            "bn": "এখান থেকে একটা প্রশ্ন ওঠে, যার উত্তর তাফসীরকারেরা ভিন্নভাবে দেন। পরের কিতাব যখন আগের কিতাবের কিছু বিধান বদলে দিয়েছে, তখন তিনটি কিতাব একসঙ্গে প্রতিষ্ঠা করা যায় কীভাবে? কুরতুবী আবূ আলীর বরাতে উল্লেখ করেন, হতে পারে আয়াতটি আগের দুই কিতাবের বিধান রহিত হওয়ার আগের। মাআরিফুল কুরআন উত্তর দেয় অন্যভাবে। প্রতিটি নতুন কিতাব আগেরটির কিছু বিধান বদলেছে, তাই বদলে আসা নতুন বিধান মানাটাই দুই কিতাবের উপর আমল। আর রহিত বিধান আঁকড়ে থাকা দুটোরই বিরুদ্ধে যায়। দুটো উত্তরই এখানে রাখা হলো, যিনি যেভাবে দিয়েছেন সেভাবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Visitors and Their Answer",
+          "bn": "চারজন আগন্তুক ও তাদের জবাব"
+        },
+        "p": [
+          {
+            "en": "At-Tabari carries a report of the occasion through Muhammad ibn Ishaq, from Muhammad ibn Abi Muhammad, the client of Zayd ibn Thabit, from Ikrimah or from Sa'id ibn Jubayr, the chain itself unsure which of the two, from Ibn Abbas (RA). Rafi' ibn Harithah, Sallam ibn Mishkam, Malik ibn as-Sayf and Rafi' ibn Huraymilah came to the Messenger of Allah ﷺ and asked: do you not claim to be on the way and religion of Ibrahim, to believe in the Torah that we have, and to bear witness that it is the truth from Allah?",
+            "bn": "তাবারী এ আয়াতের প্রেক্ষাপট নিয়ে একটি বর্ণনা এনেছেন। সূত্রটি এরকম: মুহাম্মাদ ইবন ইসহাক, তিনি যায়দ ইবন সাবিতের মাওলা মুহাম্মাদ ইবন আবী মুহাম্মাদ থেকে, তিনি ইকরিমা অথবা সাঈদ ইবন জুবাইর থেকে, আর তিনি ইবন আব্বাস (রাঃ) থেকে। এ দুজনের কোনজন, সনদে সেটা নিশ্চিত করে বলা নেই। বর্ণনায় আছে, রাফি' ইবন হারিসা, সাল্লাম ইবন মিশকাম, মালিক ইবন সাইফ আর রাফি' ইবন হুরাইমিলা রসূলুল্লাহ ﷺ-এর কাছে এসে জিজ্ঞেস করল: আপনি কি দাবি করেন না যে আপনি ইবরাহীম (আঃ)-এর মিল্লাত ও দ্বীনের উপর আছেন, আমাদের কাছে থাকা তাওরাতের প্রতি ঈমান রাখেন, আর সাক্ষ্য দেন যে তা আল্লাহর কাছ থেকে আসা সত্য?"
+          },
+          {
+            "en": "He said: yes, but you have introduced new things, denied what is in it of the covenant taken from you, and concealed of it what you were commanded to make clear to people, and I am free of what you have introduced. They said: we hold to what is in our hands, we are upon truth and guidance, and we will not believe in you or follow you. Then Allah sent down this verse. That is Ibn Abbas's report as at-Tabari carries it; he gives it no grading, and the edition's note traces it to Ibn Hisham's Sirah.",
+            "bn": "তিনি বললেন: হ্যাঁ, কিন্তু তোমরা তাতে নতুন জিনিস ঢুকিয়েছ, তোমাদের কাছ থেকে নেওয়া অঙ্গীকারের যা তাতে আছে তা অস্বীকার করেছ, আর মানুষের কাছে যা স্পষ্ট করে বলার হুকুম ছিল তা গোপন করেছ। তোমাদের এসব নতুন সংযোজন থেকে আমি মুক্ত। তারা বলল: আমাদের হাতে যা আছে আমরা তা-ই ধরে থাকব, আমরাই সত্য ও হিদায়াতের উপর আছি। আপনার প্রতি ঈমানও আনব না, আপনার অনুসরণও করব না। তখন আল্লাহ এই আয়াত নাযিল করলেন। এ হলো তাবারীর বহন করা ইবন আব্বাস (রাঃ)-এর বর্ণনা। তাবারী এর কোনো মান নির্ধারণ করেননি, আর মুদ্রিত সংস্করণের টীকায় একে ইবন হিশামের সীরাতে চিহ্নিত করা হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives a shorter version from Ibn Abbas without a chain: a group of Jews asked whether he affirmed that the Torah was truth from Allah; he said yes; they said, then we believe in it and in nothing besides it, and the verse came down. No commentator read for this verse attaches a sound hadith to it. The verse itself names no one. What it answers is a position: holding a book while refusing what the book itself points to, and that position is not confined to one community or one century.",
+            "bn": "কুরতুবী সনদ ছাড়াই ইবন আব্বাস (রাঃ) থেকে একটি সংক্ষিপ্ত রূপ দিয়েছেন। ইয়াহূদীদের একটি দল তাঁকে জিজ্ঞেস করল, তিনি কি স্বীকার করেন যে তাওরাত আল্লাহর কাছ থেকে আসা সত্য? তিনি বললেন, হ্যাঁ। তারা বলল, তাহলে আমরা ওটার উপরই ঈমান রাখব, ওটা ছাড়া আর কিছুর উপর নয়। তখন আয়াতটি নাযিল হলো। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। আয়াত নিজে কারও নাম নেয় না। আয়াত জবাব দিচ্ছে একটা অবস্থানের: হাতে কিতাব রাখা, অথচ কিতাব নিজে যেদিকে ইশারা করে সেদিকে যেতে অস্বীকার করা। এ অবস্থান কোনো এক জাতি বা এক যুগের মধ্যে সীমাবদ্ধ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Consolation, Not a Ban on Sorrow",
+          "bn": "দুঃখে নিষেধ নয়, সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "Fa-la ta'sa 'ala al-qawm al-kafirin: so do not grieve over the disbelieving people. Al-Qurtubi calls this a consolation for the Prophet ﷺ and not a prohibition of grief, since grief is not within a person's power; it is consolation, and a prohibition of exposing oneself to grief. He notes that he has treated the meaning fully at the end of Al 'Imran. Ibn Kathir: do not be sad over them, and do not let that from them unsettle you. Ma'arif al-Qur'an: let it be no cause of grief to him, nor should he have any sympathetic concern for them.",
+            "bn": "ফালা তা'সা আলাল কাওমিল কাফিরীন: কাজেই কাফির সম্প্রদায়ের জন্য দুঃখ করো না। কুরতুবী বলেন, এটি নবী ﷺ-এর জন্য সান্ত্বনা, দুঃখ করতে নিষেধ নয়। কারণ দুঃখ মানুষের নিয়ন্ত্রণে থাকে না। এটি সান্ত্বনা, আর নিজেকে দুঃখের মুখে ঠেলে দিতে নিষেধ। তিনি জানান, এ অর্থের পূর্ণ আলোচনা আলে ইমরানের শেষে করা হয়ে গেছে। ইবন কাসীর বলেন, তাদের জন্য দুঃখ কোরো না, তাদের এ আচরণ যেন তোমাকে বিচলিত না করে। মাআরিফুল কুরআনের ভাষায়, এটা যেন তাঁর দুঃখের কারণ না হয়, তাদের জন্য সহানুভূতির উদ্বেগও যেন না থাকে।"
+          },
+          {
+            "en": "At-Tabari gives the consolation a reason: do not grieve, Muhammad, over their denial of you, for such conduct had been a habit of theirs with their own prophets, so how would it be otherwise with you? The Muyassar names the cause it sees behind the increase: envy, because Allah sent him with this final message, in which He made their faults plain. At-Tabari records from Ibn Abbas, through Ali ibn Abi Talhah, that what increases them is the Furqan. The verse says many of them, not all of them, and 5:66 has already named a moderate community among them.",
+            "bn": "তাবারী সান্ত্বনার একটা কারণও বলেন: হে মুহাম্মাদ, তারা তোমাকে অস্বীকার করছে বলে দুঃখ কোরো না। নিজেদের নবীদের সঙ্গেও তাদের এমন আচরণ অভ্যাসে পরিণত হয়েছিল, তোমার বেলায় তা আলাদা হবে কেন? বেড়ে যাওয়ার পেছনে মুয়াসসার যে কারণ দেখে, তা হলো হিংসা। আল্লাহ তাঁকে এই শেষ রিসালাত দিয়ে পাঠিয়েছেন, আর তাতে তাদের দোষত্রুটি স্পষ্ট করে দিয়েছেন। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, যা তাদের বাড়িয়ে দেয় তা হলো ফুরকান। আয়াত বলছে তাদের অনেকের কথা, সবার নয়। আর ৫:৬৬ আগেই তাদের মধ্যে একটি মধ্যপন্থী দলের কথা বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hard Sentence, Courteously Addressed",
+          "bn": "কঠিন কথা, ভদ্র সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a position taken by people who held the earlier books, an increase in rejection among many of them, and an occasion that Ibn Abbas reports about four named men. It licenses nothing against any living person or community: no contempt, no hostility, no harm. Its address is ya ahl al-kitab, a name drawn from the book they carry, and its first word is qul, say. The Messenger ﷺ is given a sentence to speak, not a hand to raise.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: আগের কিতাবধারী মানুষদের একটি অবস্থান, তাদের অনেকের মধ্যে প্রত্যাখ্যান বেড়ে যাওয়া, আর ইবন আব্বাস (রাঃ)-এর বর্ণিত চারজন নির্দিষ্ট লোকের একটি ঘটনা। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুরই অনুমতি এ আয়াত দেয় না। অবজ্ঞার নয়, শত্রুতার নয়, ক্ষতির তো নয়ই। আয়াতের সম্বোধন ইয়া আহলাল কিতাব, তারা যে কিতাব বহন করে সেই কিতাবের নামেই ডাকা। আর প্রথম শব্দটি কুল, বলো। রসূল ﷺ-কে দেওয়া হয়েছে বলার মতো একটা কথা, হাত তোলার অনুমতি নয়।"
+          },
+          {
+            "en": "Tone follows from that. A Muslim who quotes this verse to a Jew or a Christian is quoting a claim the Quran makes about the ground of religion, and the honest way to carry it is the verse's own: name people by what they hold, say the hard thing plainly, and leave the result with Allah. Ibn Zayd's remark puts the one who quotes it under the same measure. The verse names a third thing to be upheld, and the Muslim is the one holding it. The question asked of the People of the Book is asked of him too.",
+            "bn": "সুরটাও সেখান থেকেই আসে। কোনো মুসলিম যখন এ আয়াত কোনো ইয়াহূদী বা খ্রিস্টানকে শোনান, তিনি আসলে দ্বীনের ভিত নিয়ে কুরআনের একটি দাবি তুলে ধরছেন। তা বহন করার সৎ পথ আয়াতের নিজের পথ: মানুষকে ডাকুন তারা যা ধারণ করে সেই নামে, কঠিন কথাটা পরিষ্কার করে বলুন, আর ফলাফল আল্লাহর হাতে ছেড়ে দিন। ইবন যায়দের মন্তব্য যিনি উদ্ধৃত করছেন তাঁকেও একই মাপকাঠিতে দাঁড় করায়। আয়াত প্রতিষ্ঠা করার জন্য তৃতীয় যে জিনিসের নাম নেয়, সেটা তো মুসলিমের হাতেই। আহলে কিতাবকে যে প্রশ্ন করা হয়েছে, সে প্রশ্ন তাকেও করা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground Under My Own Feet",
+          "bn": "আমার নিজের পায়ের নিচের মাটি"
+        },
+        "p": [
+          {
+            "en": "Two practices come out of the verse. The first is to measure my own standing by what I uphold, not by what I own: the mushaf on the shelf, the surahs I can recite, the arguments I can make. Ma'arif's list cuts close, because lineage, learning and spiritual effort are exactly what a religious person is tempted to count instead. The second is the Prophet's ﷺ stance at the verse's end: convey the truth clearly, then do not let grief consume me when people turn away, since 5:67 closes by placing guidance with Allah: Allah does not guide the disbelieving people.",
+            "bn": "আয়াত থেকে দুটি অভ্যাস বেরিয়ে আসে। প্রথমটি হলো নিজের অবস্থান মাপা আমি কী মেনে চলি তা দিয়ে, আমার কাছে কী আছে তা দিয়ে নয়। তাকে রাখা মুসহাফ, মুখস্থ সূরা, যুক্তি দেওয়ার দক্ষতা, এসব দিয়ে নয়। মাআরিফের তালিকাটা গায়ে লাগে। বংশ, জ্ঞান আর আধ্যাত্মিক সাধনা, দ্বীনদার মানুষ ঠিক এগুলোকেই আমলের বদলে গুনতে প্রলুব্ধ হয়। দ্বিতীয়টি আয়াতের শেষে নবী ﷺ-এর অবস্থান: সত্যটা স্পষ্ট করে পৌঁছে দেওয়া, তারপর মানুষ মুখ ফিরিয়ে নিলে দুঃখে নিজেকে শেষ না করা। কারণ ৫:৬৭ শেষ হয়েছে হিদায়াতের ভার আল্লাহর হাতে রেখে: আল্লাহ কাফির সম্প্রদায়কে হিদায়াত দেন না।"
+          },
+          {
+            "en": "Which instruction of the Quran do I know well and still do not live by? If someone measured my religion by what I uphold rather than by what I can quote, what would they find under my feet? When someone I care for turns away from what I say, does my grief make me harsh, or silent, or does it send me back to conveying with more care? And when I speak about other faiths, is my tone as courteous as O People of the Book, and my words as clear as you stand on nothing?",
+            "bn": "কুরআনের কোন নির্দেশটা আমি ভালো করে জানি, অথচ এখনো মেনে চলি না? আমি কতটুকু উদ্ধৃত করতে পারি তা নয়, কতটুকু মেনে চলি তা দিয়ে যদি কেউ আমার দ্বীন মাপে, আমার পায়ের নিচে সে কী পাবে? প্রিয় কেউ আমার কথা থেকে মুখ ফিরিয়ে নিলে আমার দুঃখ কি আমাকে রূঢ় করে দেয়, নাকি চুপ করিয়ে দেয়? নাকি আরও যত্ন নিয়ে পৌঁছে দেওয়ার কাজে ফিরিয়ে আনে? আর অন্য ধর্মের কথা বলার সময় আমার সুর কি 'হে আহলে কিতাব' ডাকের মতো ভদ্র, আর আমার কথা কি 'তোমরা কোনো ভিত্তির উপর নও'-এর মতো স্পষ্ট?"
+          }
+        ]
+      }
+    ]
+  },
   "5:72": {
     "sections": [
       {
