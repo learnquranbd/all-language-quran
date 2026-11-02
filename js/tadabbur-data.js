@@ -20631,6 +20631,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep to the one straight path Allah has named, and see each side road for what it is, because leaving that path usually happens one small turn at a time.",
     "lessonBn": "আল্লাহ যে একটি সরল পথের কথা বলেছেন তা আঁকড়ে থাকুন, আর প্রতিটি পাশের রাস্তাকে চিনে রাখুন, কারণ পথ ছেড়ে যাওয়া সাধারণত ঘটে একটা একটা ছোট মোড়ে।"
+  },
+  "7:44": {
+    "reflectionEn": "Both groups have reached their homes, one in the Garden and one in the Fire, and a voice crosses the distance between them. We have found what our Lord promised us to be true. Have you found what your Lord promised to be true? The answer is one word: yes. No argument is left, no clever reply, no doubt to hide behind. Every promise and every warning the messengers carried has arrived exactly as it was spoken. Then a caller announces the curse on the wrongdoers. That question will be put to everyone, and only now is there still time to answer it differently. What has my Lord promised me, and do I live as though He keeps His word?",
+    "reflectionBn": "দুই দলই নিজ নিজ ঠিকানায় পৌঁছে গেছে। একদল জান্নাতে, আরেকদল জাহান্নামে। তখন এক কণ্ঠ দুই ঠিকানার দূরত্ব পেরিয়ে যায়: আমাদের রব আমাদের যে ওয়াদা দিয়েছিলেন, আমরা তা সত্য পেয়েছি। তোমাদের রব যে ওয়াদা দিয়েছিলেন, তোমরা কি তা সত্য পেয়েছ? জবাব একটিমাত্র শব্দ: হ্যাঁ। তর্ক করার কিছু বাকি নেই, চালাক কোনো উত্তর নেই, লুকানোর মতো কোনো সংশয়ও নেই। রাসূলগণ যত সুসংবাদ আর যত সতর্কবাণী নিয়ে এসেছিলেন, সবই হুবহু তেমনি ঘটেছে, যেমন বলা হয়েছিল। তারপর এক ঘোষক জালিমদের উপর লানতের ঘোষণা দেয়। ওই প্রশ্ন সবার সামনেই আসবে, আর অন্যরকম উত্তর দেওয়ার সময় আছে শুধু এখন। আমার রব আমাকে কী ওয়াদা দিয়েছেন? আর আমি কি এমনভাবে বাঁচি, যেন বিশ্বাস করি তিনি কথা রাখেন?",
+    "pointsEn": [
+      "Which of Allah's promises do I quote easily but live as if it might not come true?",
+      "Which warning in the Quran have I quietly filed away as meant for other people?",
+      "If the answer on that day is a single word, what are my days saying now?",
+      "When I hear the wrongdoers described, do I look first at myself, or at someone I dislike?",
+      "What would change this week if I treated the promised reward as certain, not as a hope I only half hold?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন ওয়াদাটা আমি অনায়াসে মুখে বলি, অথচ এমনভাবে চলি যেন তা সত্য না-ও হতে পারে?",
+      "কুরআনের কোন সতর্কবাণী আমি চুপচাপ অন্যদের জন্য তুলে রেখেছি, যেন আমার জন্য নয়?",
+      "সেদিনের উত্তর যদি একটিমাত্র শব্দ হয়, তবে আজ আমার দিনগুলো কী উত্তর দিচ্ছে?",
+      "জালিমদের বর্ণনা শুনলে আমি আগে নিজের দিকে তাকাই, নাকি অপছন্দের কোনো মানুষের দিকে?",
+      "প্রতিশ্রুত পুরস্কারকে যদি আধা-আশা না ভেবে নিশ্চিত সত্য ধরে নিতাম, এ সপ্তাহে আমার কী বদলাত?"
+    ],
+    "lessonEn": "Every promise and warning of your Lord will be found true, so live now by what you will one day confirm with a single word.",
+    "lessonBn": "আপনার রবের প্রতিটি ওয়াদা আর প্রতিটি সতর্কবাণী সত্য প্রমাণিত হবে। তাই একদিন যা একটিমাত্র শব্দে স্বীকার করতে হবে, আজই সে অনুযায়ী জীবন গড়ুন।"
   }
 };
 

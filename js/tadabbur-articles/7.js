@@ -1595,6 +1595,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Call Across the Divide",
+          "bn": "দুই ঠিকানার মাঝে এক ডাক"
+        },
+        "p": [
+          {
+            "en": "The previous verse leaves the people of Paradise settled, their chests emptied of rancour, praising Him who guided them, and told that the Garden is theirs to inherit for what they used to do. Then the scene widens. Wa-nada ashab al-jannati ashab al-nar: and the companions of the Garden called out to the companions of the Fire. The verb stands in the past tense, telling of the Last Day as though it were already done.",
+            "bn": "আগের আয়াতে জান্নাতবাসীরা থিতু হয়ে গেছে। তাদের বুক থেকে বিদ্বেষ তুলে নেওয়া হয়েছে, যিনি পথ দেখিয়েছেন তাঁর প্রশংসা তাদের মুখে, আর তাদের জানিয়ে দেওয়া হয়েছে: নিজেদের আমলের বিনিময়ে এ জান্নাতের উত্তরাধিকারী তোমরাই। এরপর দৃশ্যটা বড় হয়ে যায়। ওয়া নাদা আসহাবুল জান্নাতি আসহাবান নার: জান্নাতের অধিবাসীরা জাহান্নামের অধিবাসীদের ডেকে বলল। ক্রিয়াটি অতীতকালের। শেষ দিনের কথা বলা হচ্ছে এমনভাবে, যেন তা ঘটেই গেছে।"
+          },
+          {
+            "en": "When does the call come? At-Tabari places it after the people of the Fire have entered it: the people of the Garden call out, O people of the Fire. Ibn Kathir says this is how the people of the Garden address the people of the Fire once each has settled in its dwelling. As-Sa'di opens the same way: Allah mentions both parties settled in the two abodes, having found the reward and punishment the messengers told of and the scriptures spoke of.",
+            "bn": "ডাকটা আসে কখন? তাবারী বলেন, জাহান্নামীরা জাহান্নামে ঢুকে যাওয়ার পর জান্নাতবাসীরা তাদের ডাকে: হে জাহান্নামবাসীরা। ইবন কাসীরের ভাষায়, প্রত্যেক দল নিজ নিজ আবাসে থিতু হওয়ার পর জান্নাতবাসীরা জাহান্নামবাসীদের এভাবে সম্বোধন করবে। সা'দীও একইভাবে শুরু করেন। আল্লাহ দুই দলকে দুই আবাসে স্থির হওয়ার কথা বলেছেন। রাসূলগণ যে সওয়াব ও শাস্তির খবর দিয়েছিলেন, কিতাবগুলো যার কথা বলেছিল, তারা তা পেয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Was Promised, and How",
+          "bn": "কী ওয়াদা, কোন পথে"
+        },
+        "p": [
+          {
+            "en": "An qad wajadna ma wa'adana rabbuna haqqa: that we have found what our Lord promised us to be true. Ibn Kathir explains the grammar: an here spells out an implied verb of saying, and qad is for confirmation. Al-Qurtubi gives that reading and records a second, that the words are the call itself. One difference in the wording: to themselves they say what our Lord promised us; to the people of the Fire, what your Lord promised, with no object at all. The commentaries fetched here do not comment on it.",
+            "bn": "আন কাদ ওয়াজাদনা মা ওয়াআদানা রাব্বুনা হাক্কা: আমাদের রব আমাদের যে ওয়াদা দিয়েছিলেন, আমরা তা সত্য পেয়েছি। ইবন কাসীর ব্যাকরণটা খুলে বলেন। এখানে আন উহ্য 'বলা' ক্রিয়াটির ব্যাখ্যা দিচ্ছে, আর কাদ এসেছে নিশ্চয়তা বোঝাতে। কুরতুবী এ পাঠ উল্লেখ করেন, সঙ্গে আরেকটি মতও রাখেন: কথাগুলোই আসল ডাক। শব্দচয়নে একটা পার্থক্য খেয়াল করুন। নিজেদের বেলায় তারা বলে, আমাদের রব আমাদের যে ওয়াদা দিয়েছিলেন। আর জাহান্নামীদের বেলায় 'তোমাদেরকে' শব্দটা নেই, আছে শুধু: তোমাদের রব যা ওয়াদা করেছিলেন। এ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, সেগুলো এ নিয়ে কিছু বলেনি।"
+          },
+          {
+            "en": "At-Tabari says where the promise was made: in the world, on the tongues of His messengers. To believers it promised reward for faith in Him and in them and for obeying Him; to the others, punishment for disbelief and disobedience. He carries a report from Ibn Abbas that Allah promised the people of Paradise bliss, honour and every good, whether people knew of it or not, and promised the people of the Fire every disgrace and torment, known or unknown. Ibn Abbas links the second half to 38:58.",
+            "bn": "ওয়াদাটা কোথায় দেওয়া হয়েছিল, তাবারী তা বলে দেন: দুনিয়াতে, তাঁর রাসূলদের মুখে। মুমিনদের জন্য ওয়াদা ছিল সওয়াবের, আল্লাহর উপর ও রাসূলদের উপর ঈমান আনা আর তাঁর আনুগত্যের বিনিময়ে। অন্যদের জন্য ছিল শাস্তির ওয়াদা, কুফর ও নাফরমানির কারণে। তিনি ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন। আল্লাহ জান্নাতবাসীদের ওয়াদা দিয়েছেন নিয়ামত, সম্মান আর সব রকম কল্যাণের, মানুষ তা জানুক বা না জানুক। আর জাহান্নামবাসীদের ওয়াদা দিয়েছেন সব রকম লাঞ্ছনা আর আজাবের, জানা হোক বা অজানা। দ্বিতীয় অংশটি ইবন আব্বাস (রাঃ) ৩৮:৫৮ আয়াতের সঙ্গে জুড়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Meant to Rebuke",
+          "bn": "প্রশ্নের ভেতরে ভর্ৎসনা"
+        },
+        "p": [
+          {
+            "en": "Why ask at all, when both sides already know the answer? Ibn Kathir says the address is made by way of taqri' and tawbikh, reproach and rebuke. Al-Qurtubi calls it su'al taqri' wa ta'yir, a question of reproach and shaming. It does not seek information. It draws from the people of the Fire, in their own words, an admission of what they had refused to believe, and whoever asks already holds the proof of his own answer.",
+            "bn": "দুই পক্ষই যখন উত্তর জানে, তখন প্রশ্ন করার দরকার কী? ইবন কাসীর বলেন, এ সম্বোধন তাকরী' ও তাওবীখ হিসেবে, অর্থাৎ ধিক্কার আর তিরস্কার। কুরতুবী একে বলেন সুআলু তাকরী' ওয়া তা'য়ীর: ধিক্কার দেওয়া আর লজ্জা দেওয়ার প্রশ্ন। এ প্রশ্ন কিছু জানতে চায় না। যে কথা জাহান্নামীরা বিশ্বাস করতে রাজি হয়নি, তাদের নিজেদের মুখ দিয়েই তা স্বীকার করিয়ে নেয়। আর যে প্রশ্ন করছে, তার নিজের উত্তরের প্রমাণ তখন তার হাতেই।"
+          },
+          {
+            "en": "Ibn Kathir sets two passages beside it. In 37:55 to 37:59 a man of Paradise looks down and sees his old companion in the middle of the Blaze: by Allah, you nearly ruined me. Ibn Kathir explains that he faults him for what he used to say in the world and reproaches him with the punishment he has come to. In the same way, he adds, the angels reproach them in 52:14 to 52:16: this is the Fire which you used to deny.",
+            "bn": "ইবন কাসীর এর পাশে আরও দুটি অংশ রাখেন। ৩৭:৫৫ থেকে ৩৭:৫৯ আয়াতে জান্নাতের এক ব্যক্তি নিচে তাকিয়ে দেখে, তার পুরোনো সঙ্গী জ্বলন্ত আগুনের মাঝখানে। সে বলে: আল্লাহর কসম, তুমি তো আমাকে প্রায় ধ্বংস করে ফেলেছিলে। ইবন কাসীরের ব্যাখ্যায়, দুনিয়াতে সে যা বলত তার জন্য তাকে দোষ দেওয়া হচ্ছে, আর যে শাস্তিতে সে পৌঁছেছে তা দিয়ে তাকে ধিক্কার দেওয়া হচ্ছে। তিনি যোগ করেন, ৫২:১৪ থেকে ৫২:১৬ আয়াতে ফেরেশতারাও এভাবে ধিক্কার দেয়: এই সেই আগুন, যাকে তোমরা মিথ্যা বলতে।"
+          },
+          {
+            "en": "As-Sa'di's emphasis falls on what the exchange settles. Through it, he says, the truth of Allah's promise was made clear to all creation, with no doubt left in it. The doubts and confusions left them and the matter became certain truth. The believers rejoiced at Allah's promise and were glad; the disbelievers despaired of any good and admitted against themselves that they deserved the punishment. The rebuke of the losing party is, in the same breath, the vindication of the other.",
+            "bn": "সা'দীর জোর পড়ে এ কথোপকথন কী মীমাংসা করে দেয়, তার উপর। তিনি বলেন, এর মাধ্যমে আল্লাহর ওয়াদার সত্যতা সমস্ত সৃষ্টির সামনে এমনভাবে স্পষ্ট হলো যে কোনো সন্দেহ রইল না। সংশয় আর বিভ্রান্তি দূর হয়ে গেল, বিষয়টা পরিণত হলো নিশ্চিত সত্যে। মুমিনরা আল্লাহর ওয়াদায় আনন্দিত হলো, খুশিতে ভরে উঠল। কাফিররা সব কল্যাণ থেকে নিরাশ হলো, আর নিজেরাই স্বীকার করল যে তারা শাস্তির যোগ্য। একপক্ষের জন্য যা ধিক্কার, অন্যপক্ষের জন্য সেটাই সত্যের সাক্ষ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word From the Fire",
+          "bn": "আগুন থেকে একটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Qalu na'am: they said, yes. At-Tabari spells out the reply: the people of the Fire answered, yes, we have found what our Lord promised to be true. Al-Qurtubi explains why the word is na'am and not bala. Na'am answers a question put in the affirmative, as here; bala answers a question that carries a negative, as in 7:172, Am I not your Lord? They said, bala. Here the question is plain, and so is the answer. It comes with no condition and no excuse attached.",
+            "bn": "কালূ নাআম: তারা বলল, হ্যাঁ। তাবারী উত্তরটা খুলে বলেন: জাহান্নামবাসীরা জবাব দিল, হ্যাঁ, আমাদের রব যে ওয়াদা দিয়েছিলেন, আমরা তা সত্য পেয়েছি। শব্দটা কেন নাআম, বালা নয়, কুরতুবী তা ব্যাখ্যা করেন। হ্যাঁ-বাচক প্রশ্নের জবাব নাআম, যেমন এখানে। আর না-বাচক প্রশ্নের জবাব বালা, যেমন ৭:১৭২ আয়াতে: আমি কি তোমাদের রব নই? তারা বলল, বালা। এখানে প্রশ্ন সোজা, উত্তরও সোজা। কোনো শর্ত নেই, কোনো অজুহাতও নেই।"
+          },
+          {
+            "en": "The word was recited two ways. At-Tabari reports that the general reciters of Madinah, Kufa and Basra read na'am, with fatha on the 'ayn, and that some Kufans read na'im, with kasra. He prefers na'am, since it is the widespread reading. Al-Baghawi names al-Kisa'i for na'im wherever it occurs and calls the two simply two dialects. Al-Qurtubi names al-A'mash and al-Kisa'i, and gives Makki's reason: na'im keeps the answer apart from na'am, the word for livestock.",
+            "bn": "শব্দটা দুইভাবে পড়া হয়েছে। তাবারী জানান, মদীনা, কূফা ও বসরার অধিকাংশ কারী পড়েছেন নাআম, আইনে যবর দিয়ে। আর কূফার কেউ কেউ পড়েছেন নাইম, যের দিয়ে। তিনি নাআম পাঠটিকেই অগ্রাধিকার দেন, কারণ এটাই ব্যাপক প্রচলিত পাঠ। বাগাভী বলেন, কিসাঈ সব জায়গায় নাইম পড়েছেন, আর দুটোকে তিনি নিছক দুই আঞ্চলিক রীতি বলেন। কুরতুবী আ'মাশ ও কিসাঈর নাম নেন, আর মাক্কীর দেওয়া কারণ উল্লেখ করেন: নাইম পড়লে জবাবের শব্দটা পশু অর্থের নাআম থেকে আলাদা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Announcer and the Curse",
+          "bn": "ঘোষক আর লানতের ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Fa-adhdhana mu'adhdhinun baynahum: then an announcer announced between them. The verb comes from the same root as the adhan, the call to prayer. At-Tabari glosses it: a caller called, and one who makes known made it known among them. Al-Baghawi adds that the caller made both parties hear. Who is he? Ibn Kathir, at-Tabari and al-Baghawi leave him unnamed. Al-Qurtubi alone says, meaning one of the angels. Nothing more is fixed in the sources, and the verse itself names no one.",
+            "bn": "ফাআয্যানা মুআয্যিনুম বাইনাহুম: তারপর এক ঘোষক তাদের মাঝে ঘোষণা দিল। ক্রিয়াটি এসেছে আযানের ধাতু থেকেই। তাবারী এর অর্থ করেন: এক আহ্বানকারী ডাকল, এক জানানেওয়ালা তাদের মাঝে জানিয়ে দিল। বাগাভী যোগ করেন, ঘোষক দুই দলকেই শুনিয়ে দিল। ঘোষক কে? ইবন কাসীর, তাবারী ও বাগাভী তাঁর পরিচয় দেননি। শুধু কুরতুবী বলেন, অর্থাৎ ফেরেশতাদের একজন। উৎসগুলোতে এর বেশি কিছু নির্দিষ্ট করা নেই, আর আয়াত নিজে কারও নাম বলেনি।"
+          },
+          {
+            "en": "The announcement is an la'natu Allahi 'ala al-zalimin: that the curse of Allah is on the wrongdoers. At-Tabari explains the curse as Allah's anger, His displeasure and His punishment upon whoever disbelieved in Him. As-Sa'di explains it as His distancing and exclusion from every good. Ibn Kathir says it is settled upon them. Al-Baghawi glosses the wrongdoers as the disbelievers. The Muyassar describes them as those who overstepped the limits of Allah and disbelieved in Allah and His messengers.",
+            "bn": "ঘোষণাটি হলো: আল লা'নাতুল্লাহি আলায যালিমীন, জালিমদের উপর আল্লাহর লানত। তাবারী লানতের ব্যাখ্যা দেন এভাবে: যে আল্লাহর সঙ্গে কুফরি করেছে, তার উপর তাঁর ক্রোধ, তাঁর অসন্তোষ আর তাঁর শাস্তি। সা'দীর ব্যাখ্যায় লানত মানে তাঁর পক্ষ থেকে দূরে সরিয়ে দেওয়া, সব কল্যাণ থেকে বঞ্চিত করা। ইবন কাসীর বলেন, লানত তাদের উপর স্থায়ী হয়ে আছে। বাগাভী জালিম বলতে কাফিরদের বুঝিয়েছেন। মুয়াসসারের বর্ণনায় তারা সেই লোক, যারা আল্লাহর সীমা লঙ্ঘন করেছে, আর আল্লাহ ও তাঁর রাসূলদের অস্বীকার করেছে।"
+          },
+          {
+            "en": "The next verse names them by what they did: those who turned people from Allah's path, sought to make it crooked, and disbelieved in the Hereafter (7:45). As-Sa'di gives the reason the word fits: Allah opened the doors of His mercy to them and they turned themselves away from it, wrongfully, and blocked others from His path, so they went astray and led others astray. Ibn Kathir, on 7:45, says they made light of their evil words and deeds because they feared no reckoning or punishment.",
+            "bn": "পরের আয়াত তাদের পরিচয় দেয় তাদের কাজ দিয়ে: যারা মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখত, সে পথকে বাঁকা করতে চাইত, আর আখিরাতকে অস্বীকার করত (৭:৪৫)। জালিম শব্দটা কেন খাটে, সা'দী তার কারণ দেখান। আল্লাহ তাদের জন্য রহমতের দরজাগুলো খুলে দিয়েছিলেন, কিন্তু তারা অন্যায়ভাবে নিজেদের সেখান থেকে সরিয়ে নিয়েছে। অন্যদেরও আল্লাহর পথে বাধা দিয়েছে। ফলে নিজেরা পথ হারিয়েছে, অন্যদেরও পথভ্রষ্ট করেছে। ইবন কাসীর ৭:৪৫ আয়াতের আলোচনায় বলেন, হিসাব বা শাস্তির ভয় ছিল না বলেই তারা নিজেদের মন্দ কথা আর মন্দ কাজকে হালকা করে দেখত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beside the Well at Badr",
+          "bn": "বদরের কূপের ধারে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws one more comparison. In the same way, he writes, the Messenger of Allah ﷺ reproached the slain of the well on the day of Badr, calling their leaders by name and asking whether they had found true what their Lord promised. This is a comparison the commentator draws. It is not the occasion of the verse, and none of the commentaries fetched for 7:44 gives it an occasion of revelation.",
+            "bn": "ইবন কাসীর আরেকটি তুলনা টানেন। তিনি লেখেন, একইভাবে বদরের দিন রাসূলুল্লাহ ﷺ কূপে নিক্ষিপ্ত নিহতদের ধিক্কার দিয়েছিলেন। তাদের নেতাদের নাম ধরে ডেকেছিলেন। জিজ্ঞেস করেছিলেন, তাদের রব যে ওয়াদা দিয়েছিলেন, তারা কি তা সত্য পেয়েছে? এ তুলনা তাফসীরকারের টানা। এটি আয়াতের শানে নুযূল নয়। ৭:৪৪ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই এ আয়াতের নাযিলের কোনো উপলক্ষ উল্লেখ করেনি।"
+          },
+          {
+            "en": "Al-Bukhari records the episode from Abu Talha (no. 3976). Twenty-four leaders of Quraysh had been thrown into one of the wells of Badr, and on the third day the Prophet ﷺ went to it. In the collection's words: \"When he halted at the edge of the well, he addressed the corpses of the Quraish infidels by their names and their fathers' names, 'O so-and-so, son of so-and-so and O so-and-so, son of so-and-so! Would it have pleased you if you had obeyed Allah and His Apostle? We have found true what our Lord promised us. Have you too found true what your Lord promised you?'\"",
+            "bn": "বুখারী ঘটনাটি আবু তালহা (রাঃ) থেকে বর্ণনা করেছেন (হাদীস ৩৯৭৬)। কুরাইশের চব্বিশজন নেতাকে বদরের একটি কূপে ফেলা হয়েছিল। তৃতীয় দিন নবী ﷺ সেখানে গেলেন। বর্ণনার ভাষায়: তিনি কূপের কিনারে গিয়ে দাঁড়ালেন এবং তাদের নাম ও তাদের বাবার নাম ধরে ডাকতে লাগলেন: 'হে অমুকের পুত্র অমুক, হে অমুকের পুত্র অমুক! তোমরা যদি আল্লাহ ও তাঁর রাসূলের আনুগত্য করতে, তাহলে কি তা তোমাদের ভালো লাগত না? আমাদের রব আমাদের যে ওয়াদা দিয়েছিলেন, আমরা তা সত্য পেয়েছি। তোমাদের রব তোমাদের যে ওয়াদা দিয়েছিলেন, তোমরা কি তা সত্য পেয়েছ?'"
+          },
+          {
+            "en": "The report goes on: \"'Umar said, 'O Allah's Messenger (ﷺ)! You are speaking to bodies that have no souls!' Allah's Messenger (ﷺ) said, 'By Him in Whose Hand Muhammad's soul is, you do not hear, what I say better than they do.'\" Qatada, a narrator in its chain, adds that Allah brought them to life to let them hear him, to reprimand and slight them and take revenge on them, and caused them to feel remorse and regret. It stands in al-Bukhari's Sahih, as the collector placed it.",
+            "bn": "বর্ণনাটি এগিয়ে যায়: উমর (রাঃ) বললেন, 'হে আল্লাহর রাসূল! আপনি এমন দেহগুলোর সঙ্গে কথা বলছেন, যাদের প্রাণ নেই!' রাসূলুল্লাহ ﷺ বললেন, 'যাঁর হাতে মুহাম্মাদের প্রাণ, তাঁর কসম! আমি যা বলছি, তা তোমরা তাদের চেয়ে বেশি শুনছ না।' বর্ণনাসূত্রের একজন রাবী কাতাদা যোগ করেন, আল্লাহ তাদের জীবিত করেছিলেন, যাতে তারা নবীর কথা শোনে: তাদের তিরস্কার করতে, হীন করতে, প্রতিশোধ নিতে, আর তাদের মনে আফসোস ও অনুতাপ জাগাতে। হাদীসটি বুখারীর সহীহ গ্রন্থে রয়েছে, সংকলক নিজে তা সেখানে স্থান দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Men Upon the Heights",
+          "bn": "উঁচু প্রাচীরের মানুষেরা"
+        },
+        "p": [
+          {
+            "en": "Two verses on, a third group enters the scene. Between the two abodes is a barrier, and on al-A'raf are men who know everyone by their marks (7:46). At-Tabari identifies the barrier with the wall of 57:13, which has a gate, mercy within and punishment without, and says this is al-A'raf. Al-Qurtubi explains the word: the a'raf are the raised tops of the wall, plural of 'urf, as in the comb of a rooster; Ibn Abbas, in a report he carries, calls it a wall with a crest like a rooster's.",
+            "bn": "দুই আয়াত পরে দৃশ্যে আসে তৃতীয় এক দল। দুই আবাসের মাঝে আছে এক আড়াল, আর আ'রাফের উপর থাকবে কিছু মানুষ, যারা প্রত্যেককে তার চিহ্ন দেখে চেনে (৭:৪৬)। তাবারী এ আড়ালকে ৫৭:১৩ আয়াতের সেই প্রাচীর বলে চিহ্নিত করেন, যার একটি দরজা আছে, ভেতরে রহমত আর বাইরে আজাব। তিনি বলেন, এটাই আ'রাফ। কুরতুবী শব্দটা বুঝিয়ে দেন: আ'রাফ মানে প্রাচীরের উঁচু চূড়াগুলো, এক বচনে উরফ, যেমন মোরগের ঝুঁটি। তাঁর আনা এক বর্ণনায় ইবন আব্বাস (রাঃ) একে বলেছেন মোরগের ঝুঁটির মতো চূড়াওয়ালা প্রাচীর।"
+          },
+          {
+            "en": "Who these men are is a genuine disagreement, and al-Qurtubi counts ten views. Ibn Mas'ud, Hudhayfah ibn al-Yaman, Ibn Abbas, ash-Sha'bi, ad-Dahhak and Ibn Jubayr: people whose good and bad deeds weighed equal. Mujahid: righteous people, jurists and scholars. Al-Mahdawi records that they are the martyrs; Shurahbil ibn Sa'd, martyrs in Allah's path who had gone out in disobedience to their fathers. Az-Zahrawi relates that they are the just witnesses of every nation, a view an-Nahhas called among the best said; az-Zajjaj, a group of prophets; Abu Mijlaz, angels set over the wall.",
+            "bn": "এ মানুষেরা কারা, তা নিয়ে সত্যিকারের মতভেদ আছে। কুরতুবী দশটি মত গুনেছেন। ইবন মাসউদ (রাঃ), হুযাইফা ইবনুল ইয়ামান (রাঃ), ইবন আব্বাস (রাঃ), শা'বী, দাহহাক ও ইবন জুবাইরের মতে, তারা এমন লোক যাদের নেকি আর গুনাহ সমান হয়ে গেছে। মুজাহিদের মতে, তারা নেককার লোক, ফকীহ ও আলিম। মাহদাভী উল্লেখ করেছেন, তারা শহীদ। শুরাহবীল ইবন সা'দের মতে, তারা আল্লাহর পথের এমন শহীদ, যারা বাবার অবাধ্য হয়ে বেরিয়েছিল। যাহরাভীর বর্ণনায় তারা প্রত্যেক উম্মতের ন্যায়পরায়ণ সাক্ষী, আর নাহহাস একে সবচেয়ে ভালো মতগুলোর একটি বলেছেন। যাজ্জাজের মতে, একদল নবী। আবু মিজলাযের মতে, প্রাচীরের দায়িত্বে নিযুক্ত ফেরেশতা।"
+          },
+          {
+            "en": "The commentators weigh these differently. Ibn Kathir holds that the phrasings return to one meaning, people whose good and bad deeds were equal, and calls the views of Abu Mijlaz and Mujahid strange. At-Tabari starts from the wording: they are, as Allah said, men who know both groups by their marks. He finds no sound report from the Prophet ﷺ, and no consensus, that they are angels, and since rijal names the males of Adam's children he sets that view aside. Al-Qurtubi notes that naming them is held back because the reports are unsettled. This article takes no side.",
+            "bn": "তাফসীরকারেরা এ মতগুলোকে ভিন্ন ভিন্নভাবে বিচার করেন। ইবন কাসীরের মতে, বিভিন্ন ভাষ্য শেষে একই অর্থে ফেরে: যাদের নেকি আর গুনাহ সমান। আবু মিজলায ও মুজাহিদের মতকে তিনি অদ্ভুত বলেন। তাবারী শুরু করেন আয়াতের শব্দ থেকে: আল্লাহ যেমন বলেছেন, তারা এমন পুরুষ, যারা দুই দলকেই চিহ্ন দেখে চেনে। তারা ফেরেশতা, এমন কোনো সহীহ বর্ণনা নবী ﷺ থেকে তিনি পান না, এ নিয়ে ইজমাও নেই। আর আরবিতে রিজাল বলতে আদমসন্তানদের পুরুষদের বোঝায়। তাই এ মত তিনি সরিয়ে রাখেন। কুরতুবী উল্লেখ করেন, বর্ণনাগুলো এলোমেলো বলে তাদের নির্দিষ্ট পরিচয় দেওয়া থেকে বিরত থাকা হয়েছে। এ লেখা কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Answer Is Fixed",
+          "bn": "উত্তর স্থির হওয়ার আগে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes people of the Fire on the Last Day, as the text describes them, and the verdict in it is Allah's, announced in that scene. It licenses nothing against any living person or community. No one may point at a neighbour, a rival or a people, cast them as the wrongdoers of this verse, or pronounce its curse over them. Even the men on the heights, who see both sides, turn the sight on themselves: our Lord, do not place us with the wrongdoing people (7:47).",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শেষ দিনের জাহান্নামবাসীদের বর্ণনা দেয়, ঠিক যেমন পাঠে বলা আছে। এর ভেতরের রায় আল্লাহর, সেই দৃশ্যেই তা ঘোষিত। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতির দিকে আঙুল তুলে তাদের এ আয়াতের জালিম বানানোর অধিকার কারও নেই, তাদের উপর এ লানত উচ্চারণেরও না। উঁচু প্রাচীরের মানুষেরা দুই দিকই দেখে, তবু তাদের দৃষ্টি ফেরে নিজেদের দিকে: হে আমাদের রব, আমাদের জালিম সম্প্রদায়ের সঙ্গী করো না (৭:৪৭)।"
+          },
+          {
+            "en": "Al-Qurtubi relates, as a narrated report, that Tawus entered upon Hisham ibn 'Abd al-Malik and said to him: fear Allah, and beware the Day of the Announcement. Hisham asked what that day was. Tawus answered with the words of this verse: then an announcer announced between them, the curse of Allah is on the wrongdoers. Hisham fell senseless. Tawus said: this is the humiliation of hearing it described; how then the humiliation of seeing it?",
+            "bn": "কুরতুবী একটি বর্ণনা হিসেবে উল্লেখ করেন, তাউস একবার হিশাম ইবন আব্দুল মালিকের কাছে গিয়ে বললেন: আল্লাহকে ভয় করুন, আর ঘোষণার দিন সম্পর্কে সাবধান হোন। হিশাম জানতে চাইলেন, ঘোষণার দিন কোনটা? তাউস এ আয়াতের শব্দেই জবাব দিলেন: তারপর এক ঘোষক তাদের মাঝে ঘোষণা দিল যে জালিমদের উপর আল্লাহর লানত। হিশাম বেহুঁশ হয়ে পড়ে গেলেন। তাউস বললেন: এ তো শুধু বর্ণনা শোনার অপমান, চোখে দেখার অপমান তাহলে কেমন হবে?"
+          },
+          {
+            "en": "So the question in the verse can be put now, while an answer can still change. What has my Lord promised, and what has He warned? As-Sa'di names the terms: the Garden promised for faith and righteous deeds, the punishment promised for disbelief and sin. A yes spoken in the Fire changes nothing. A yes spoken now, with a life arranged around it, is the answer that still counts.",
+            "bn": "তাই আয়াতের প্রশ্নটা এখনই করা যায়, যখন উত্তর বদলানোর সময় এখনো আছে। আমার রব আমাকে কী ওয়াদা দিয়েছেন, আর কী নিয়ে সতর্ক করেছেন? সা'দী শর্তগুলো স্পষ্ট করে বলেন: ঈমান আর নেক আমলের জন্য জান্নাতের ওয়াদা, কুফর আর গুনাহর জন্য শাস্তির ওয়াদা। জাহান্নামে বলা হ্যাঁ কিছুই বদলায় না। আর আজ বলা হ্যাঁ, যার চারপাশে গোটা জীবন সাজানো, সেটাই এখনো কাজে আসে।"
+          }
+        ]
+      }
+    ]
+  },
   "7:54": {
     "sections": [
       {
