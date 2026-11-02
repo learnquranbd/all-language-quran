@@ -20511,6 +20511,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Say Allah's name over what you eat, and when a clever argument pulls against what He has made clear, let His word decide rather than the argument.",
     "lessonBn": "যা খান তার উপর আল্লাহর নাম নিন। আর তিনি যা স্পষ্ট করে দিয়েছেন তার বিরুদ্ধে কোনো চতুর যুক্তি টানলে, সিদ্ধান্ত নিক তাঁর কথা, যুক্তি নয়।"
+  },
+  "7:17": {
+    "reflectionEn": "Iblis has just been granted his reprieve, and he spends it on a plan. He will sit in wait on the straight path, then come at people from in front and from behind, from the right and from the left. He even names the result he expects: You will not find most of them grateful. The prize in his boast is not our wealth or our health but our thankfulness. And Allah has told us the whole plan in advance, which is itself a mercy, because a road you know about is a road you can guard. So which side of my life is least guarded today? And when did I last thank Allah for a blessing on purpose, and not out of habit?",
+    "reflectionBn": "অবকাশ পাওয়ামাত্র ইবলীস একটা পরিকল্পনা সাজায়। সে সরল পথের উপর ওঁৎ পেতে বসবে, তারপর মানুষের কাছে আসবে সামনে থেকে, পেছন থেকে, ডান দিক থেকে, বাম দিক থেকে। ফলাফলটাও সে আগেভাগে বলে রাখে: তাদের বেশির ভাগকে তুমি শোকরগুজার পাবে না। তার দম্ভের আসল নিশানা আমাদের ধনসম্পদ বা স্বাস্থ্য নয়, আমাদের কৃতজ্ঞতা। আল্লাহ পুরো পরিকল্পনাটা আমাদের আগেই জানিয়ে দিয়েছেন, আর এটাও এক রহমত। যে রাস্তা চেনা, সেখানে পাহারা বসানো যায়। তাহলে আজ আমার জীবনের কোন দিকটা সবচেয়ে অরক্ষিত? আর শেষ কবে অভ্যাসের বশে নয়, ভেবেচিন্তে কোনো নিয়ামতের জন্য আল্লাহর শোকর আদায় করেছি?",
+    "pointsEn": [
+      "Which side of my life is least guarded right now: doubt about the next life, craving for this one, confusion about my religion, or a sin I have grown comfortable with?",
+      "When I am slow to a good deed, do I see the slowness for what it may be, or simply call it tiredness?",
+      "When did I last thank Allah for one specific blessing, by name and on purpose?",
+      "Do I know the routes by which bad suggestions usually reach me, and have I closed even one of them?",
+      "Do I begin and end my day asking Allah to guard me from every side?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন দিকটা এখন সবচেয়ে অরক্ষিত: আখিরাত নিয়ে সন্দেহ, দুনিয়ার লোভ, দ্বীনের ব্যাপারে বিভ্রান্তি, নাকি এমন কোনো গুনাহ, যাতে আমি অভ্যস্ত হয়ে গেছি?",
+      "কোনো নেক আমলে ঢিলেমি এলে আমি কি বুঝতে চেষ্টা করি এর পেছনে কী থাকতে পারে, নাকি ক্লান্তি বলে পার করে দিই?",
+      "নাম ধরে, ভেবেচিন্তে, একটা নির্দিষ্ট নিয়ামতের জন্য শেষ কবে আল্লাহর শোকর আদায় করেছি?",
+      "কোন কোন পথে খারাপ চিন্তা সাধারণত আমার কাছে পৌঁছায়, তা কি আমি জানি? তার একটা পথও কি বন্ধ করেছি?",
+      "দিনের শুরু আর শেষে আমি কি আল্লাহর কাছে চাই, তিনি যেন সব দিক থেকে আমাকে হেফাজত করেন?"
+    ],
+    "lessonEn": "The enemy announced he would come from every side and leave most people ungrateful; learn his routes, guard each side, and keep thanking Allah.",
+    "lessonBn": "শত্রু ঘোষণা দিয়েছে, সে সব দিক থেকে আসবে আর বেশির ভাগ মানুষকে অকৃতজ্ঞ বানিয়ে ছাড়বে। তার পথগুলো চিনে নিন, প্রতিটি দিক পাহারা দিন, আর আল্লাহর শোকর আদায় করতে থাকুন।"
   }
 };
 

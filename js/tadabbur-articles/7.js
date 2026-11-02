@@ -487,6 +487,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reprieve Spent on a Plan",
+          "bn": "অবকাশ পেয়েই ফন্দি আঁটা"
+        },
+        "p": [
+          {
+            "en": "7:17 is the second half of a vow. In 7:14 Iblis asks to be reprieved until the Day people are raised, and in 7:15 he is told that he is among the reprieved. Ibn Kathir describes what came next: once Iblis had been granted the reprieve and felt secure in it, he set out on obstinacy and rebellion. As-Sa'di, on 7:16, places the words at the moment Iblis had despaired of Allah's mercy. His first act with borrowed time is to announce how he will spend it on others.",
+            "bn": "৭:১৭ আয়াত একটা প্রতিজ্ঞার দ্বিতীয় অংশ। ৭:১৪ আয়াতে ইবলীস মানুষের পুনরুত্থান দিবস পর্যন্ত অবকাশ চায়, আর ৭:১৫ আয়াতে তাকে জানানো হয়, সে অবকাশপ্রাপ্তদের একজন। এরপর কী হলো, ইবন কাসীর তা বলেন: অবকাশ পেয়ে ইবলীস যখন সে ব্যাপারে নিশ্চিন্ত হলো, তখন সে হঠকারিতা আর বিদ্রোহের পথ ধরল। সা'দী ৭:১৬ আয়াতের আলোচনায় এ কথাগুলোকে বসান সেই মুহূর্তে, যখন আল্লাহর রহমত থেকে ইবলীস নিরাশ হয়ে গেছে। ধার করা সময় হাতে পেয়ে সে প্রথমেই ঘোষণা দেয়, এ সময় সে অন্যদের বিরুদ্ধে খরচ করবে।"
+          },
+          {
+            "en": "7:16 gives the first half: I will surely sit in wait for them on Your straight path. Al-Muyassar renders it as a vow to strive hard at leading the children of Adam away from Allah's upright way, and to bar them from the Islam on which He created them. Then 7:17 opens with thumma, then, and the ambush widens. Sitting on one road becomes coming at a person from four sides, and the verse closes on what Iblis expects to come of it: You will not find most of them grateful.",
+            "bn": "প্রথম অংশটা ৭:১৬ আয়াতে: আমি অবশ্যই তোমার সরল পথে তাদের জন্য ওঁৎ পেতে বসে থাকব। মুয়াসসার এর অর্থ করেন এভাবে: আদমসন্তানকে আল্লাহর সঠিক পথ থেকে সরিয়ে নিতে সে প্রাণপণ চেষ্টা করবে, আর যে ইসলামের উপর আল্লাহ তাদের সৃষ্টি করেছেন, তা থেকে তাদের ফিরিয়ে রাখবে। এরপর ৭:১৭ শুরু হয় 'সুম্মা' দিয়ে, অর্থাৎ তারপর। ওঁৎ পাতার পরিধি এবার বড় হয়। একটা রাস্তায় বসে থাকা থেকে কথা গড়ায় চারটি দিক থেকে মানুষের কাছে আসায়। আর আয়াত শেষ হয় ইবলীসের প্রত্যাশিত ফল দিয়ে: তাদের বেশির ভাগকে তুমি শোকরগুজার পাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Words Bima Aghwaytani",
+          "bn": "বিমা আগওয়াইতানী কথাটির ভেতরে"
+        },
+        "p": [
+          {
+            "en": "Fa-bima aghwaytani: because You have sent me astray. At-Tabari gives the gloss of Ibn Abbas, adlaltani, You led me astray, and the same from Ibn Zayd. Some, he reports, read it as ahlaktani, You destroyed me, from the Arab saying for a young camel that loses its milk and dies. He adds that the root sense of ighwa' in Arabic speech is making a thing look fine to someone until he thinks it good, deceiving him. Al-Qurtubi defines it as placing ghayy, error, in the heart.",
+            "bn": "ফাবিমা আগওয়াইতানী: যেহেতু তুমি আমাকে পথভ্রষ্ট করেছ। তাবারী ইবন আব্বাসের ব্যাখ্যা আনেন: আদলালতানী, তুমি আমাকে বিপথে নিয়েছ। ইবন যায়দ থেকেও একই কথা। তিনি জানান, কেউ কেউ এর অর্থ নিয়েছেন আহলাকতানী, তুমি আমাকে ধ্বংস করেছ। এর উৎস আরবদের একটি কথা, যা বলা হয় দুধ না পেয়ে মরে যাওয়া উটের বাচ্চার বেলায়। তাবারী আরও বলেন, আরবদের ভাষায় ইগওয়ার মূল অর্থ হলো, কাউকে ধোঁকা দিয়ে কোনো জিনিস তার চোখে এমন সুন্দর করে তোলা যে সে তাকে ভালো ভাবতে শুরু করে। কুরতুবীর সংজ্ঞা: অন্তরে গাই, অর্থাৎ বিভ্রান্তি ঢেলে দেওয়া।"
+          },
+          {
+            "en": "The small particle bima is read several ways. Al-Baghawi lists them side by side: a question, by what did You lead me astray; a cause, because You led me astray; and an oath. Al-Qurtubi supports the oath reading from 38:82, by Your might I will surely lead them all astray, as if Iblis swore by the thing he counted greatest, because it gave him power over people.",
+            "bn": "ছোট্ট 'বিমা' শব্দটিও কয়েকভাবে পড়া হয়েছে। বাগাভী সবগুলো পাশাপাশি রাখেন। এক, প্রশ্ন: কিসের দ্বারা তুমি আমাকে পথভ্রষ্ট করলে? দুই, কারণ: যেহেতু তুমি আমাকে পথভ্রষ্ট করেছ। তিন, শপথ। কুরতুবী শপথের পাঠকে সমর্থন করেন ৩৮:৮২ আয়াত দিয়ে, যেখানে ইবলীস বলে: তোমার ইজ্জতের কসম, আমি তাদের সবাইকে পথভ্রষ্ট করব। তাঁর মতে ইবলীস যেন সেই জিনিসের কসম খেল, যাকে সে সবচেয়ে বড় মনে করত, কারণ তা-ই তাকে মানুষের উপর ক্ষমতা দিয়েছিল।"
+          },
+          {
+            "en": "Then the harder matter: Iblis ascribes his going astray to Allah. At-Tabari takes it as clear evidence that the cause by which one goes astray is from Allah and differs from the cause by which another is set right, against a group who held otherwise; he adds Muhammad ibn Ka'b al-Qurazi's remark that Iblis knew Allah better than they did. Al-Qurtubi reads it the same way, notes that some said Iblis simply erred in ascribing it to his Lord, and answers from Nuh (AS) in 11:34. The article reports both and adds no ruling of its own.",
+            "bn": "এরপর কঠিনতর প্রশ্ন: ইবলীস নিজের পথভ্রষ্টতাকে আল্লাহর দিকে সম্পর্কিত করছে। তাবারী এতে স্পষ্ট প্রমাণ দেখেন যে, যে কারণে কেউ বিপথে যায় তা আল্লাহর পক্ষ থেকে, আর যে কারণে কেউ সুপথ পায় তা ভিন্ন। এখানে তিনি একটি দলের মত খণ্ডন করছেন, যারা অন্য কথা বলত। সঙ্গে তিনি মুহাম্মাদ ইবন কা'ব কুরাযীর মন্তব্য আনেন: ইবলীস তাদের চেয়ে আল্লাহকে ভালো চিনত। কুরতুবীও একইভাবে পড়েন। তিনি উল্লেখ করেন, কেউ কেউ বলেছে, রবের দিকে এটা সম্পর্কিত করে ইবলীস ভুল করেছে। জবাবে তিনি আনেন ১১:৩৪ আয়াতে নূহ (আঃ)-এর কথা। এ লেখা দুটো পাঠই জানিয়ে দেয়, নিজের কোনো রায় যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Sides, Many Glosses",
+          "bn": "চার দিক, বহু ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying the people of interpretation differed over the four directions. Through Ali ibn Abi Talhah, Ibn Abbas says: from before them, I will make them doubt their hereafter; from behind them, I will make them crave their world; on their right, I will confuse the matter of their religion for them; on their left, I will make sins appealing to them. At-Tabari then reports, by the same chain, a reading that reverses the first pair: before them is this world, behind them the hereafter, the right their good deeds, the left their bad deeds.",
+            "bn": "তাবারী শুরুতেই জানান, চারটি দিকের ব্যাখ্যায় তাফসীরকারদের মধ্যে মতভেদ আছে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস বলেন: সামনে থেকে মানে, আমি তাদের আখিরাত নিয়ে সন্দেহে ফেলব। পেছন থেকে মানে, দুনিয়ার প্রতি তাদের লোভ জাগাব। ডান দিক থেকে মানে, দ্বীনের ব্যাপারটা তাদের কাছে গুলিয়ে দেব। বাম দিক থেকে মানে, গুনাহকে তাদের চোখে লোভনীয় করে তুলব। এরপর তাবারী একই সূত্রে আরেকটি বর্ণনা আনেন, যেখানে প্রথম জোড়াটা উল্টে গেছে। সেখানে সামনে মানে দুনিয়া, পেছনে আখিরাত, ডানে তাদের নেক আমল, আর বামে তাদের বদ আমল।"
+          },
+          {
+            "en": "Qatada fills the four in with Iblis's methods. From in front he came to them and told them there is no resurrection, no Paradise and no Fire; from behind, he made the world beautiful to them and called them to it; from the right, he slowed them in their good deeds; from the left, he made evil deeds and sins attractive and called them to them. Ibrahim an-Nakha'i, al-Hakam and as-Suddi keep this world in front and the hereafter behind. In one report al-Hakam makes the right the truth Iblis bars them from, and the left the falsehood he dresses up.",
+            "bn": "কাতাদা চারটি দিকে ইবলীসের কৌশল বসিয়ে দেন। সামনে থেকে এসে সে তাদের বলেছে, পুনরুত্থান নেই, জান্নাত নেই, জাহান্নামও নেই। পেছন থেকে দুনিয়াকে তাদের চোখে সাজিয়ে তুলে সেদিকে ডেকেছে। ডান দিক থেকে নেক আমলে তাদের ঢিলেমি ধরিয়েছে। আর বাম দিক থেকে মন্দ কাজ ও গুনাহকে আকর্ষণীয় করে সেদিকে ডেকেছে। ইবরাহীম নাখঈ, হাকাম আর সুদ্দী দুনিয়াকে রাখেন সামনে আর আখিরাতকে পেছনে। একটি বর্ণনায় হাকাম ডান দিক বলতে বোঝান সেই হক, যা থেকে ইবলীস মানুষকে ফিরিয়ে রাখে। আর বাম দিক মানে সেই বাতিল, যাকে সে সাজিয়েগুছিয়ে পেশ করে।"
+          },
+          {
+            "en": "Mujahid takes a different line altogether: before them and on their right is where they can see, behind them and on their left where they cannot. Al-Baghawi adds Ibn Jurayj's explanation that where they cannot see means where they do not know they are going wrong. Al-Qurtubi quotes an-Nahhas approving al-Hakam's reading and filling it out: from their world, so that they deny its signs and the reports of earlier nations; from the right, their good deeds and their religion, as in 37:28, where followers tell their leaders, you used to come at us from the right.",
+            "bn": "মুজাহিদ একেবারে আলাদা পথ ধরেন। সামনে আর ডান দিক মানে যেখানে তারা দেখতে পায়, আর পেছন ও বাম দিক মানে যেখানে তারা দেখতে পায় না। বাগাভী এর সঙ্গে ইবন জুরাইজের ব্যাখ্যা যোগ করেন: যেখানে দেখতে পায় না মানে, যেখানে তারা টেরই পায় না যে ভুল করছে। কুরতুবী উদ্ধৃত করেন, নাহহাস হাকামের ব্যাখ্যাকে ভালো বলেছেন এবং তা খুলে বলেছেন। দুনিয়ার দিক থেকে আসা মানে, তারা দুনিয়ার নিদর্শন আর আগের জাতিগুলোর খবর অস্বীকার করবে। ডান দিক মানে তাদের নেক আমল আর দ্বীনের বিষয়। এর পক্ষে আছে ৩৭:২৮ আয়াত, যেখানে অনুসারীরা তাদের নেতাদের বলে: তোমরা তো আমাদের কাছে আসতে ডান দিক থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Road of Truth and Falsehood",
+          "bn": "হক আর বাতিলের প্রতিটি পথে"
+        },
+        "p": [
+          {
+            "en": "After all this, at-Tabari names the reading he thinks most correct: I will come at them from every side of truth and falsehood, barring them from the truth and making falsehood look good to them. His reason is the verse before. Iblis has just said he will sit on the straight path, Allah's true religion, so he comes at people on it from every direction: from the side Allah commanded, to bar them from it, which is before them and on their right; and from the side Allah forbade, to dress it up and call them to it, which is behind them and on their left.",
+            "bn": "এত মতের পর তাবারী জানান, তাঁর কাছে কোন ব্যাখ্যাটি সবচেয়ে সঠিক: হক আর বাতিলের সব দিক থেকে আমি তাদের কাছে আসব, হক থেকে তাদের ফিরিয়ে রাখব আর বাতিলকে তাদের চোখে সুন্দর করে দেখাব। তাঁর যুক্তি আগের আয়াত। ইবলীস এইমাত্র বলেছে, সে সরল পথে বসে থাকবে, আর সে পথ হলো আল্লাহর সত্য দ্বীন। কাজেই সে পথে মানুষের কাছে সে আসবে সব দিক থেকে। আল্লাহ যা আদেশ করেছেন সেদিক থেকে আসবে তাদের ফিরিয়ে রাখতে, আর সেটাই সামনে ও ডান দিক। আল্লাহ যা নিষেধ করেছেন সেদিক থেকে আসবে তা সাজিয়ে তাদের ডাকতে, আর সেটাই পেছন ও বাম দিক।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di read the four simply as every direction and side; as-Sa'di adds, every route by which Iblis can reach some part of his aim in people. Ma'arif al-Qur'an makes the same point at greater length: the purpose of the verse is not to set limits, so being led astray from above or from under the feet does not contradict it.",
+            "bn": "মুয়াসসার আর সা'দী চারটি দিককে সোজাসুজি পড়েন সব দিক ও সব পাশ হিসেবে। সা'দী যোগ করেন: এমন প্রতিটি পথ, যা দিয়ে মানুষের মধ্যে ইবলীস তার উদ্দেশ্যের কিছুটা হলেও হাসিল করতে পারে। মাআরিফুল কুরআন একই কথা আরও বিস্তারে বলে। আয়াতের উদ্দেশ্য কোনো সীমা টেনে দেওয়া নয়। তাই উপর থেকে বা পায়ের নিচ থেকে বিপথে নেওয়ার সম্ভাবনা আয়াতের সঙ্গে সাংঘর্ষিক নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Side Left Open Above",
+          "bn": "উপরের দিক খোলা রইল"
+        },
+        "p": [
+          {
+            "en": "One side is missing from the list. At-Tabari reports through 'Ikrimah that Ibn Abbas said: he did not say from above them, because mercy comes down from above them. Ibn Kathir carries the same report. Qatada, in a narration both give, turns it into an address to the reader: he came at you, son of Adam, from every side, except that he did not come at you from above you; he could not come between you and the mercy of Allah.",
+            "bn": "তালিকা থেকে একটা দিক বাদ পড়েছে। তাবারী ইকরিমার সূত্রে ইবন আব্বাসের কথা বর্ণনা করেন: সে 'উপর থেকে' বলেনি, কারণ রহমত নেমে আসে তাদের উপর থেকে। ইবন কাসীরও একই বর্ণনা এনেছেন। দুজনেরই আনা এক বর্ণনায় কাতাদা কথাটা পাঠকের দিকে ঘুরিয়ে দেন: হে আদমসন্তান, সে তোমার কাছে এসেছে সব দিক থেকে, শুধু তোমার উপর থেকে আসেনি। তোমার আর আল্লাহর রহমতের মাঝখানে সে আড়াল হয়ে দাঁড়াতে পারেনি।"
+          },
+          {
+            "en": "Below is not named either, and none of the tafsirs fetched for this verse gives a separate reason for that; their comment is on above alone. Ma'arif al-Qur'an, reading the four as all directions, counts above and beneath alike within Iblis's reach, which sits differently from the report through 'Ikrimah. Both are set down here without a choice between them. One draws comfort from the open sky; the other warns that the list is not a fence.",
+            "bn": "নিচের দিকের কথাও আয়াতে নেই। তবে এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে এর আলাদা কোনো কারণ বলা নেই। তাদের মন্তব্য শুধু উপরের দিক নিয়ে। মাআরিফুল কুরআন চারটি দিককে সব দিক হিসেবে পড়ে, তাই উপর আর নিচ দুটোকেই ইবলীসের নাগালের ভেতরে ধরে। ইকরিমার সূত্রের বর্ণনার সঙ্গে এর সুর আলাদা। এখানে দুটোই রাখা হলো, কোনোটিকে বেছে নেওয়া হয়নি। একটি খোলা আকাশ থেকে সান্ত্বনা খুঁজে পায়, অন্যটি সতর্ক করে যে তালিকাটা কোনো বেড়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Guess That Hit the Mark",
+          "bn": "আন্দাজ, যা লেগে গেল"
+        },
+        "p": [
+          {
+            "en": "Wa la tajidu aktharahum shakirin: and You will not find most of them grateful. Ibn Abbas, through Ali ibn Abi Talhah, glosses grateful as muwahhidin, those who affirm Allah's oneness; al-Baghawi has believers; al-Qurtubi has those who affirm His oneness, obey Him and show their thanks. At-Tabari spells it out: grateful to You for Your favour to them, such as Your honouring their father Adam (AS) by making the angels prostrate to him. Their gratitude, he says, is obedience: affirming His oneness and following His command and prohibition.",
+            "bn": "ওয়া লা তাজিদু আকসারাহুম শাকিরীন: আর তাদের বেশির ভাগকে তুমি শোকরগুজার পাবে না। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস শাকিরীন শব্দের ব্যাখ্যা দেন মুওয়াহহিদীন, অর্থাৎ যারা আল্লাহর একত্বে বিশ্বাসী। বাগাভীর কাছে এর অর্থ মুমিন। কুরতুবীর কাছে যারা তাওহীদ মানে, আনুগত্য করে আর শোকর প্রকাশ করে। তাবারী খুলে বলেন: তোমার নিয়ামতের জন্য তোমার প্রতি কৃতজ্ঞ, যেমন তাদের পিতা আদম (আঃ)-কে ফেরেশতাদের সিজদা দিয়ে তুমি যে সম্মান দিয়েছ। তাঁর মতে তাদের শোকর মানে আনুগত্য: তাঁর একত্ব স্বীকার করা আর তাঁর আদেশ-নিষেধ মেনে চলা।"
+          },
+          {
+            "en": "How could Iblis know this? Ibn Kathir says it was only a guess and a supposition on his part, which happened to agree with what came to pass, and he cites 34:20: Iblis found his assumption about them true, and they followed him, except a party of the believers. Al-Baghawi raises the question outright, how did the wicked one know it, and answers that he said it as a guess and hit the mark, citing the same verse. As-Sa'di explains the guess: Iblis knew people were weak, that heedlessness overcomes many of them, and he was resolved to spend his whole effort on them.",
+            "bn": "ইবলীস এ কথা জানল কী করে? ইবন কাসীর বলেন, এটা ছিল তার নিছক ধারণা আর অনুমান, যা পরে বাস্তবের সঙ্গে মিলে গেছে। প্রমাণ হিসেবে তিনি আনেন ৩৪:২০ আয়াত: ইবলীস তাদের ব্যাপারে নিজের ধারণা সত্য পেল, আর মুমিনদের একটি দল ছাড়া সবাই তার অনুসরণ করল। বাগাভী প্রশ্নটা সরাসরি তোলেন: এই খবিস তা জানল কীভাবে? তাঁর জবাব: সে আন্দাজে বলেছিল, আর আন্দাজটা লেগে গেছে। তিনিও একই আয়াত আনেন। সা'দী আন্দাজের ভিত্তিটা বুঝিয়ে দেন। ইবলীস জানত মানুষ দুর্বল, অনেকের উপর গাফলতি চেপে বসে। আর সে পণ করেছিল, তাদের বিপথে নিতে নিজের সব শক্তি ঢেলে দেবে।"
+          },
+          {
+            "en": "34:21 adds what the boast leaves out: he had no authority over them, except that We might make evident who believes in the hereafter from who is in doubt of it. And 7:18 answers him at once: whoever follows you among them, I will fill Hell with you all. Most of them is Iblis's prediction about humanity at large. It licenses no one to call any living person or community ungrateful, and the verse that reports the boast leaves every reader free to be among those who prove it wrong.",
+            "bn": "দম্ভের মধ্যে যা বাদ পড়েছে, ৩৪:২১ আয়াত তা জুড়ে দেয়: তাদের উপর তার কোনো ক্ষমতা ছিল না। উদ্দেশ্য ছিল শুধু এটা প্রকাশ করা, কে আখিরাতে ঈমান রাখে আর কে তা নিয়ে সন্দেহে আছে। ৭:১৮ আয়াতে সঙ্গে সঙ্গে জবাব আসে: তাদের মধ্যে যে তোর অনুসরণ করবে, তোদের সবাইকে দিয়ে আমি জাহান্নাম ভরে দেব। 'বেশির ভাগ' কথাটা গোটা মানবজাতি নিয়ে ইবলীসের ভবিষ্যদ্বাণী। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়কে অকৃতজ্ঞ বলে দাগানোর অনুমতি এতে কারও নেই। আর যে আয়াত দম্ভটা শোনায়, সেটাই প্রত্যেক পাঠকের জন্য পথ খোলা রাখে, যাতে তিনি সেই দম্ভকে মিথ্যা প্রমাণ করা মানুষদের একজন হতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarded From Six Sides",
+          "bn": "ছয় দিকের হেফাজত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws a practical line from the verse: this is why the hadith teaches seeking refuge from Shaytan's hold over a person from every direction. He cites it from al-Bazzar and Imam Ahmad, and notes that Abu Dawud, an-Nasa'i, Ibn Majah, Ibn Hibban and al-Hakim also recorded it. The narration is a general one. It does not mention this verse and is not reported as attached to it; Ibn Kathir places it here because the directions are shared.",
+            "bn": "ইবন কাসীর আয়াত থেকে একটা বাস্তব শিক্ষা টানেন। তিনি বলেন, এ কারণেই হাদীসে শিখানো হয়েছে, মানুষের উপর সব দিক থেকে শয়তানের দখল নেওয়া থেকে আশ্রয় চাইতে। তিনি তা আনেন বাযযার ও ইমাম আহমাদ থেকে, আর জানান, আবু দাউদ, নাসাঈ, ইবন মাজাহ, ইবন হিব্বান আর হাকিমও এটি সংকলন করেছেন। বর্ণনাটি সাধারণ। এতে এ আয়াতের উল্লেখ নেই, এ আয়াতের সঙ্গে যুক্ত করে বর্ণিতও হয়নি। দিকগুলো এক বলেই ইবন কাসীর একে এখানে এনেছেন।"
+          },
+          {
+            "en": "Abu Dawud relates from Abdullah ibn Umar (RA) that the Messenger of Allah ﷺ never left these supplications in the evening and the morning: O Allah, I ask You for well-being in this world and the Hereafter. O Allah, I ask You for pardon and well-being in my religion and my worldly affairs, my family and my property. O Allah, conceal my faults and calm my fears. O Allah, guard me from in front of me and behind me, on my right and on my left, and from above me; and I seek refuge in Your greatness from being seized unawares from below me.",
+            "bn": "আবু দাউদ আবদুল্লাহ ইবন উমর (রাঃ) থেকে বর্ণনা করেন, সন্ধ্যায় ও সকালে রাসূলুল্লাহ ﷺ এই দোয়াগুলো কখনো ছাড়তেন না: হে আল্লাহ, আমি তোমার কাছে দুনিয়া ও আখিরাতে নিরাপত্তা চাই। হে আল্লাহ, আমি তোমার কাছে ক্ষমা চাই, আর আমার দ্বীন, দুনিয়া, পরিবার ও সম্পদে নিরাপত্তা চাই। হে আল্লাহ, আমার দোষগুলো ঢেকে রাখো, আমার ভয়গুলো দূর করে নিরাপদ রাখো। হে আল্লাহ, আমাকে হেফাজত করো আমার সামনে থেকে, পেছন থেকে, ডান দিক থেকে, বাম দিক থেকে আর উপর থেকে। আর তোমার মহত্ত্বের আশ্রয় চাই, যেন নিচ থেকে অতর্কিতে আমাকে ধরে ফেলা না হয়।"
+          },
+          {
+            "en": "Abu Dawud adds Waki's gloss: from below means being swallowed by the earth. He gives no grading of his own on the page; Ibn Kathir reports al-Hakim's verdict that its chain is sound. Set beside 7:17, the supplication names all four of the sides in Iblis's vow and adds the two his vow left out, above and below. However the missing sides are read, the morning and evening words cover all six, and they are short enough to learn this week.",
+            "bn": "আবু দাউদ সঙ্গে ওয়াকীর ব্যাখ্যা যোগ করেন: নিচ থেকে মানে মাটিতে ধসে যাওয়া। পৃষ্ঠায় আবু দাউদের নিজের কোনো মান নির্ণয় নেই। ইবন কাসীর জানান, হাকিম এর সনদকে সহীহ বলেছেন। ৭:১৭ আয়াতের পাশে রাখলে দেখা যায়, ইবলীসের প্রতিজ্ঞার চারটি দিকই এ দোয়ায় আছে। সঙ্গে আছে বাদ পড়া দুটি দিকও, উপর আর নিচ। বাদ পড়া দিকগুলোর ব্যাখ্যা যেভাবেই নেওয়া হোক, সকাল-সন্ধ্যার এ কথাগুলো ছয়টি দিকই ঢেকে দেয়। আর এত ছোট যে এ সপ্তাহেই মুখস্থ করে ফেলা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing the Routes In",
+          "bn": "ঢোকার পথগুলো চেনা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment with the reason the plan was disclosed at all. Allah told us what Iblis said and what he resolved to do so that we take our precautions, prepare for our enemy, and guard ourselves, knowing the road he comes by and the openings he slips through; and that, he says, is among Allah's most complete favours to us. He also notes why the boast aims at gratitude: being thankful is part of walking the straight path, and Iblis wants to bar people from it.",
+            "bn": "সা'দী তাঁর আলোচনা শেষ করেন এ প্রশ্নের জবাব দিয়ে: পরিকল্পনাটা আদৌ জানানো হলো কেন? আল্লাহ আমাদের জানিয়েছেন ইবলীস কী বলেছে আর কী করার পণ করেছে, যাতে আমরা সাবধান হই, শত্রুর জন্য প্রস্তুত থাকি। সে কোন পথে আসে আর কোন ফাঁক গলে ঢোকে, তা জেনে নিজেদের রক্ষা করি। সা'দীর ভাষায়, এটা আমাদের উপর আল্লাহর পূর্ণতম নিয়ামতগুলোর একটি। দম্ভের নিশানা কেন কৃতজ্ঞতা, সেটাও তিনি ধরিয়ে দেন। শোকর আদায় করা সরল পথে চলারই অংশ, আর ইবলীস চায় মানুষকে সে পথ থেকে ফিরিয়ে রাখতে।"
+          },
+          {
+            "en": "Take the older glosses as a checklist rather than a compass. Doubt about the next life, craving for this one, confusion over what one's religion asks, sins made to look appealing, and, in Qatada's word, being slowed in good deeds: each is a direction a person can name in his own week. The verse also points to the answer, which is the very thing Iblis predicted would be missing. A specific thanks, said deliberately, for a specific blessing, is one small way of proving his guess about you wrong.",
+            "bn": "পুরনো ব্যাখ্যাগুলোকে দিকের নকশা হিসেবে না দেখে বরং একটা মিলিয়ে দেখার তালিকা হিসেবে নিন। আখিরাত নিয়ে সন্দেহ, দুনিয়ার লোভ, দ্বীন কী চায় তা নিয়ে বিভ্রান্তি, লোভনীয় করে সাজানো গুনাহ, আর কাতাদার ভাষায় নেক আমলে ঢিলেমি। এর প্রতিটি দিক যে কেউ নিজের সপ্তাহের ভেতরেই চিনে নিতে পারেন। জবাবটাও আয়াতেই আছে: ইবলীস যা অনুপস্থিত থাকবে বলে ভবিষ্যদ্বাণী করেছিল, ঠিক সেটাই। নির্দিষ্ট একটা নিয়ামতের জন্য ভেবেচিন্তে নির্দিষ্ট করে শোকর আদায় করা, আপনার ব্যাপারে তার আন্দাজকে মিথ্যা প্রমাণ করার একটা ছোট্ট উপায়।"
+          }
+        ]
+      }
+    ]
+  },
   "7:23": {
     "sections": [
       {
