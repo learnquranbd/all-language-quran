@@ -46,6 +46,8 @@ sunnah.com returns 403, so don't try it.
   upgrade it. If no tafsir attaches a sound hadith, say so in one sentence. A general
   narration must be marked as not attached to the verse.
 - Never say in the article's own voice that a prophet erred.
+- Never name a theological school or sect (Mu'tazila, Qadariyya, Jahmiyya, Ash'ari,
+  Shi'a, etc.), even when a mufassir does: write "some theologians" / "a group".
 - On a destroyed or condemned people, or a wrongdoer in a story: state plainly, in
   both languages, that the verse describes what the text describes and licenses
   nothing against any living person or community.

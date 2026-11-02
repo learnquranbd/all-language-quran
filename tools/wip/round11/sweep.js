@@ -19,6 +19,9 @@ for(const [id,e] of Object.entries(o)){
       if(BN.test(p.en)) problems.push(tag+' Bengali script inside en');
       if(/<[a-z/]/i.test(p.en+p.bn)) problems.push(tag+' HTML');
       if(/Ã|â€|Â/.test(p.en+p.bn)) problems.push(tag+' mojibake');
+      // BRIEF §3: never name a theological school or sect, even when a mufassir does
+      const sect=(p.en+' '+p.bn).match(/Mu['’]?tazil|Qadari|Jahmi|Ash['’]?ari(?:te|yy)|Asha['’]?ira|Murji|Khawarij|Kharijit|Rafid|মু['’]?তা[যজ]িল|কাদারি|কদরি|জাহমি|আশআরিয়|আশ['’]আরিয়|আশায়েরা|মুরজি|খারিজ[ীি]|খাও.{0,3}ারিজ/i);
+      if(sect) problems.push(tag+' SECT NAME "'+sect[0]+'" (BRIEF §3: write "some theologians")');
       const er=p.en.match(REF)||[], br=bn2a(p.bn).match(REF)||[];
       for(const r of er.concat(br)) if(L.badRef(r)) problems.push(tag+' badRef '+r);
       const es=[...new Set(er)].sort().join(','), bs=[...new Set(br)].sort().join(',');

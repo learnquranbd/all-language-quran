@@ -14,13 +14,14 @@ the state, kept short on purpose. Full history of earlier rounds:
 
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
-## WAVE 2 (2026-11-02): more ayahs. USER: "Enrich with 10 agents" -> chose "Tadabbur: more ayahs".
-New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-targets-2.js): 1 per 4 ayahs, same bucket/most-cited method, only buckets with no shipped coverage -> 557 new keys. queue.js reads both target files. Same main-loop pipeline (prep, BRIEF, gate, ship.sh, commit.sh); 10 drafters in parallel (user). Group-ship rule stands: push+deploy once >30 gated.
+## WAVE 2 (2026-11-02): more ayahs.
+GROUP SHIP 1: v1310-v1340 (31 keys) pushed + deployed 2026-11-02. USER: "Enrich with 10 agents" -> chose "Tadabbur: more ayahs".
+New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-targets-2.js): 1 per 4 ayahs, same bucket/most-cited method, only buckets with no shipped coverage -> 557 new keys. queue.js reads both target files. Same main-loop pipeline (prep, BRIEF, gate, ship.sh, commit.sh); 12 drafters in parallel (USER 2026-11-02: "we can run 12 agents - boost production"; was 10). Pause new launches at ~85% 7d, resume after the reset. Group-ship rule stands: push+deploy once >30 gated.
 
 | key | v | status |
 |---|---|---|
 | 2:4-5 | v1311 | DONE |
-| 2:36 | | LAUNCHED |
+| 2:35-39 | v1319 | DONE |
 | 2:55-56 | v1312 | DONE |
 | 2:67-71 | v1313 | DONE |
 | 2:78-79 | v1314 | DONE |
@@ -29,15 +30,39 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 2:109 | v1317 | DONE |
 | 2:116-117 | v1310 | DONE |
 | 2:120-121 | v1318 | DONE |
-| 2:136 | | LAUNCHED |
-| 2:150 | | LAUNCHED |
-| 2:159 | | LAUNCHED |
-| 2:173 | | LAUNCHED |
-| 2:180 | | LAUNCHED |
-| 2:187 | | LAUNCHED |
-| 2:191 | | LAUNCHED |
-| 2:208 | | LAUNCHED |
-| 2:223 | | LAUNCHED |
+| 2:135-138 | v1320 | DONE |
+| 2:150-151 | v1321 | DONE |
+| 2:159-160 | v1322 | DONE |
+| 2:172-173 | v1323 | DONE |
+| 2:180-182 | v1324 | DONE |
+| 2:187 | v1328 | DONE |
+| 2:190-193 | v1329 | DONE |
+| 2:208-209 | v1325 | DONE |
+| 2:223 | v1326 | DONE |
+| 2:233 | v1327 | DONE |
+| 2:246-248 | v1332 | DONE |
+| 2:270-271 | v1331 | DONE |
+| 3:3-4 | v1330 | DONE |
+| 3:10-11 | v1334 | DONE |
+| 3:21-22 | v1333 | DONE |
+| 3:33-37 | v1338 | DONE |
+| 3:39-41 | v1335 | DONE |
+| 3:59-61 | v1337 | DONE |
+| 3:70-71 | v1339 | DONE |
+| 3:96-97 | | LAUNCHED |
+| 3:110-112 | v1340 | DONE |
+| 3:130-132 | v1336 | DONE |
+| 3:144 | | LAUNCHED |
+| 3:154 | | LAUNCHED |
+| 3:164 | | LAUNCHED |
+| 3:171 | | LAUNCHED |
+| 3:183 | | LAUNCHED |
+| 3:195 | | LAUNCHED |
+| 4:6 | | LAUNCHED |
+| 4:29 | | LAUNCHED |
+| 4:46 | | LAUNCHED |
+| 4:52 | | LAUNCHED |
+| 4:65 | | LAUNCHED |
 
 ## LIVE STATE (2026-10-26 16:01, DEPTH PASS COMPLETE 2026-10-26: 301/301 short articles deep; all 1061 Tadabbur articles at deep template. USER (16:12): "run 10 at a time"; USER (later): "stop once all done for now" -> no new launches; ship the 9 in flight, then STOP. USER: no per-ayah deploy reminders; ship + push in GROUPS of >30 gated drafts (not per ayah); deploy once per group. Last group ship v1302-v1308 (7 articles). DEPLOYED 2026-10-26: live sw.js = lq-v1308 (user ran deploy; agent deploy also succeeded this time). 301/301 done. v1099-v1186 pushed, v1187-v1308 committed. LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1186. Budget at stop: 7d 0% (window reset at 16:00, next reset Mon 2 Nov 16:00), 5h ~32% (resets 18:40). In flight: none. Queue: empty. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 32:16 32:17 33:35 are PREPPED (32:16-17 is NOT a key; the shipped articles are 32:16 and 32:17 separately), then prep onward; launch 5 drafters per the skill. Lessons today: when cutting a sentence post-draft, verify the write happened and re-gate BEFORE shipping (55:46-47 shipped once with the line intact and once under the paragraph floor); ship+commit one key before shipping the next (v1147-v1148 bump-only, folded into v1149); when cutting a Bengali sentence match by position, not by pasted string (nukta encoding differs); never force-push)
 
