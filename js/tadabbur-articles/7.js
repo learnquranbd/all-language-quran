@@ -319,6 +319,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Questioning, the Weighing",
+          "bn": "জিজ্ঞাসার পরে ওজন"
+        },
+        "p": [
+          {
+            "en": "Wal-waznu yawma'idhin al-haqq: and the weighing on that Day is the truth. The verse comes straight after 7:6 and 7:7, where Allah swears that He will question those to whom messengers were sent, question the messengers themselves, and then relate to them, with knowledge, what they did. At-Tabari reads the Day through that setting: the weighing on the Day We question those sent to and the messengers is the truth, and by al-haqq, he says, is meant justice. Al-Baghawi glosses yawma'idhin simply as the Day of the questioning.",
+            "bn": "ওয়াল ওয়াযনু ইয়াওমাইযিনিল হাক্ক: আর সেদিনের ওজন সত্য। আয়াতটি এসেছে ৭:৬ ও ৭:৭-এর ঠিক পরে। সেখানে আল্লাহ কসম করে বলেছেন, যাদের কাছে রসূল পাঠানো হয়েছিল তাদের তিনি জিজ্ঞেস করবেন, রসূলদেরও জিজ্ঞেস করবেন, তারপর পূর্ণ জ্ঞানের সঙ্গে তাদের কাজের বিবরণ শোনাবেন। তাবারী 'সেদিন' কথাটা এই প্রসঙ্গ ধরেই পড়েন: যেদিন আমি উম্মত ও রসূলদের জিজ্ঞেস করব, সেদিনের ওজন সত্য। আর তাঁর ব্যাখ্যায় আল-হাক্ক মানে ইনসাফ। বাগাভী ইয়াওমাইযিন শব্দটির ব্যাখ্যা দেন ছোট্ট এক কথায়: জিজ্ঞাসার দিন।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the grammar: al-wazn is the subject and al-haqq its predicate, or al-haqq describes the weighing and yawma'idhin carries the predicate, and grammatically al-haqq could even stand in the accusative as a verbal noun. Ibn Kathir explains al-haqq as Allah wronging no one, and lines the verse up beside others: 21:47, where the scales of justice are set up and a mustard seed's weight is brought; 4:40, where Allah wrongs not an atom's weight; 101:6 to 101:11; and 23:101 to 23:103.",
+            "bn": "কুরতুবী বাক্যের গঠন খুলে দেখান। আল-ওয়াযন উদ্দেশ্য আর আল-হাক্ক বিধেয়, এভাবে পড়া যায়। আবার আল-হাক্ককে ওজনের বিশেষণ ধরে ইয়াওমাইযিনকে বিধেয় ধরা যায়। ব্যাকরণের দিক থেকে আল-হাক্ক মাসদার হিসেবে যবরযুক্তও হতে পারে। ইবন কাসীর আল-হাক্কের অর্থ করেন: আল্লাহ কারও উপর জুলুম করবেন না। তারপর আয়াতটিকে অন্য আয়াতগুলোর পাশে রাখেন। ২১:৪৭-এ ইনসাফের পাল্লা স্থাপন করা হয় আর সরিষার দানা পরিমাণ আমলও হাজির করা হয়। ৪:৪০-এ আল্লাহ অণু পরিমাণও জুলুম করেন না। আছে ১০১:৬ থেকে ১০১:১১, আর ২৩:১০১ থেকে ২৩:১০৩।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Balance, or Justice Itself?",
+          "bn": "সত্যিকারের পাল্লা, নাকি ইনসাফ?"
+        },
+        "p": [
+          {
+            "en": "The first real dispute is over the word wazn. At-Tabari reports, through Ibn Abi Najih, that Mujahid said the weighing in this place is al-qada', the judgment, and through al-A'mash that he took al-haqq here to mean justice. Al-Qurtubi widens the circle to Mujahid, ad-Dahhak and al-A'mash: the weighing and the scale mean justice and judgment, and the mention of weighing is a likeness, as people say this speech is of the weight of that, meaning it matches it, though nothing is weighed.",
+            "bn": "প্রথম আসল মতভেদ ওয়াযন শব্দটি নিয়েই। তাবারী ইবন আবী নাজীহের সূত্রে বর্ণনা করেন, মুজাহিদ বলেছেন, এখানে ওজন মানে আল-কাদা, অর্থাৎ বিচার। আর আমাশের সূত্রে আনেন যে মুজাহিদ এখানে আল-হাক্কের অর্থ করেছেন ইনসাফ। কুরতুবী এ মতকে মুজাহিদ, দাহহাক ও আমাশ পর্যন্ত বিস্তৃত দেখান। তাঁদের মতে ওজন ও পাল্লা মানে ইনসাফ ও বিচার, আর ওজনের উল্লেখ উপমা মাত্র। যেমন বলা হয়, এ কথা ওই কথার সমান ওজনের, মানে দুটো সমতুল্য, অথচ কিছুই আসলে মাপা হয়নি।"
+          },
+          {
+            "en": "Against this al-Baghawi sets the majority, al-akthar: what is meant is the weighing of deeds on a balance, Allah setting up a scale with a tongue and two pans, each pan the size of what lies between east and west. At-Tabari records a second group as well, and then gives his own preference: the saying of 'Amr ibn Dinar, we hold there is a balance and two pans. For at-Tabari it is the known balance used for weighing, because the reports from the Prophet ﷺ about it are many and support one another. The Muyassar says outright that the weighing is with a real balance.",
+            "bn": "এর বিপরীতে বাগাভী অধিকাংশের মত, আল-আকসারুন, তুলে ধরেন। তাঁদের মতে উদ্দেশ্য পাল্লায় আমল মাপা। আল্লাহ এমন একটি পাল্লা স্থাপন করবেন যার কাঁটা আছে আর দুটি পাল্লা আছে, প্রতিটি পাল্লা পূর্ব থেকে পশ্চিমের দূরত্বের সমান। তাবারীও আরেক দলের মত উল্লেখ করেন, তারপর নিজের পছন্দ জানান: আমর ইবন দীনারের কথা, আমরা মনে করি পাল্লা আছে, দুটি পাল্লা। তাবারীর মতে এটি সেই চেনা দাঁড়িপাল্লা যা দিয়ে মাপা হয়, কারণ নবী ﷺ থেকে এ বিষয়ে বর্ণনা অনেক, আর সেগুলো একে অপরকে সমর্থন করে। মুয়াসসার স্পষ্ট বলে, ওজন হবে সত্যিকারের পাল্লায়।"
+          },
+          {
+            "en": "Al-Qurtubi also holds the scale to be real. He cites az-Zajjaj, who allowed Mujahid's sense as sound Arabic but said it is better to follow what the sound chains report of the scale, and al-Qushayri, who praised that judgment: if the scale were read as a figure, the Sirat could be read as the true religion, and Paradise and the Fire as what befalls souls rather than bodies. Mujahid's reading stands in these books as a named minority view; this article reports both and decides neither.",
+            "bn": "কুরতুবীও পাল্লাকে বাস্তব বলে ধরেন। তিনি যাজ্জাজের কথা আনেন। যাজ্জাজ মুজাহিদের অর্থটি আরবি ভাষার দিক থেকে চলনসই মেনেছেন, তবে বলেছেন, সহীহ সনদে পাল্লার যে বিবরণ এসেছে তা মেনে নেওয়াই উত্তম। কুশাইরী এই রায়ের প্রশংসা করে বলেন, পাল্লাকে উপমা ধরলে তো সিরাতকেও সত্য দ্বীন বলে ব্যাখ্যা করা যাবে, আর জান্নাত-জাহান্নামকে শরীর নয়, শুধু আত্মার অভিজ্ঞতা বলা যাবে। এই গ্রন্থগুলোতে মুজাহিদের ব্যাখ্যা নামসহ সংখ্যালঘু মত হিসেবেই আছে। এই লেখা দুটো মতই জানায়, কোনোটির পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Weigh What He Knows?",
+          "bn": "যিনি সব জানেন, তিনি মাপবেন কেন?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the objection himself. Why would Allah weigh anything, when He knew the measure of every thing before creating it? And how can deeds be weighed, when they are not bodies to be called heavy or light? He answers with a comparison. The weighing is like Allah's recording of everything in the Mother of the Book and its copying into the records, done with no need and no fear of forgetting, so that it stands as a proof over His creation, as in 45:28 and 45:29: every nation will be called to its book, and this book of Ours speaks against you with the truth.",
+            "bn": "আপত্তিটা তাবারী নিজেই তোলেন। কেউ প্রশ্ন করতে পারে, যিনি প্রতিটি জিনিস সৃষ্টির আগেই তার পরিমাণ জানেন, তাঁর মাপার কী দরকার? কিংবা আমল তো কোনো দেহ নয় যে তাকে ভারী বা হালকা বলা যাবে, তাহলে আমল মাপা হবে কীভাবে? তাবারী জবাব দেন তুলনা দিয়ে। এই ওজন ঠিক উম্মুল কিতাবে সবকিছু লিখে রাখা আর আমলনামায় তার অনুলিপি তৈরির মতো। আল্লাহর এর কোনো প্রয়োজন নেই, ভুলে যাওয়ার ভয়ও নেই। উদ্দেশ্য হলো, এটা যেন সৃষ্টির উপর প্রমাণ হয়ে থাকে। যেমন ৪৫:২৮ ও ৪৫:২৯ আয়াতে আছে: প্রত্যেক জাতিকে তার আমলনামার দিকে ডাকা হবে, আর আমার এই কিতাব তোমাদের সম্পর্কে সত্য কথা বলবে।"
+          },
+          {
+            "en": "So too, at-Tabari says, the weighing is a proof against people and for them, showing either their neglect of obedience or its completion, much as Allah will make hands and feet speak as witnesses. Weighing creation and its records, he adds, departs from no wisdom and does no injustice. Al-Baghawi names the wisdom in a line: Allah tests His servants with faith in this world and establishes the proof against them in the next. Al-Qurtubi records, through Ibn Furak, that some theologians denied the scale, reasoning that qualities which do not stand by themselves cannot be weighed.",
+            "bn": "তাবারী বলেন, ওজনও তেমনি মানুষের বিপক্ষে আর পক্ষে প্রমাণ। হয় আনুগত্যে তার অবহেলা ধরা পড়বে, নয়তো তার পূর্ণতা। আল্লাহ যেমন হাত-পাকে কথা বলিয়ে সাক্ষী বানাবেন, এটাও সে রকম। তিনি আরও বলেন, সৃষ্টি আর তাদের আমলনামা মাপায় হিকমতের বাইরে যাওয়া নেই, জুলুমও নেই। বাগাভী হিকমতটা এক লাইনে বলেন: দুনিয়ায় আল্লাহ ঈমান দিয়ে বান্দাদের পরীক্ষা করেন, আর আখিরাতে তাদের বিরুদ্ধে প্রমাণ দাঁড় করান। কুরতুবী ইবন ফূরাকের সূত্রে জানান, কিছু ধর্মতাত্ত্বিক পাল্লাকে অস্বীকার করেছিলেন। তাঁদের যুক্তি ছিল, যে গুণ নিজে নিজে টিকে থাকে না, তা মাপা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds, Records, or the Doer",
+          "bn": "আমল, আমলনামা, নাকি মানুষটি"
+        },
+        "p": [
+          {
+            "en": "The second dispute is over what goes on the scale. Ibn Kathir lists three answers, each under 'it is said'. First, the deeds themselves: though they are qualities, Allah turns them into bodies on that Day. He cites al-Baghawi that this is reported from Ibn 'Abbas, and supports it with the report in the Sahih that al-Baqarah and Al 'Imran come like two clouds or two flocks of birds in ranks. Al-Baghawi has good deeds brought in a beautiful form and bad deeds in an ugly form.",
+            "bn": "দ্বিতীয় মতভেদ: পাল্লায় কী রাখা হবে? ইবন কাসীর তিনটি জবাব দেন, প্রতিটির আগে 'বলা হয়েছে'। প্রথমত, আমল নিজেই। আমল তো গুণ মাত্র, তবু সেদিন আল্লাহ সেগুলোকে দেহে রূপ দেবেন। তিনি বাগাভীর বরাতে বলেন, এ মত ইবন আব্বাস (রাঃ) থেকে বর্ণিত। সমর্থনে আনেন সহীহের বর্ণনা যে সূরা বাকারা ও আলে ইমরান কিয়ামতের দিন আসবে দুটি মেঘের মতো, কিংবা সারিবদ্ধ পাখির দুটি ঝাঁকের মতো। বাগাভীর বর্ণনায় নেক আমল আসবে সুন্দর রূপে, বদ আমল কুৎসিত রূপে।"
+          },
+          {
+            "en": "Second, the records. Al-Qurtubi gives Ibn 'Umar's saying that the scrolls of the servants' deeds are weighed, and calls it the correct view, supported by the report. As evidence he quotes Muslim's narration from Ibn 'Umar about the private conversation, in which the believer 'is given the scroll of his good deeds'. A passage in al-Qurtubi that opens by quoting Ibn Furak calls the view of deeds turned into bodies not correct. At-Tabari pictures the servant and the books of his good deeds in a pan, the books of his bad deeds in the other, and Allah creating the heaviness.",
+            "bn": "দ্বিতীয়ত, আমলনামা। কুরতুবী ইবন উমর (রাঃ)-এর কথা আনেন যে বান্দাদের আমলের সহীফা মাপা হবে, আর বলেন, এটাই সঠিক মত, বর্ণনাও এর পক্ষে। প্রমাণ হিসেবে তিনি ইবন উমর (রাঃ) থেকে মুসলিমের সেই বর্ণনা উদ্ধৃত করেন, যেখানে আল্লাহ মুমিনের সঙ্গে একান্তে কথা বলেন, আর শেষে 'তাকে তার নেকির সহীফা দেওয়া হবে'। কুরতুবীর যে অংশ ইবন ফূরাকের উদ্ধৃতি দিয়ে শুরু, সেখানে আমলকে দেহে রূপান্তরের মতকে সঠিক নয় বলা হয়েছে। তাবারীর ছবিতে বান্দা ও তার নেকির আমলনামা থাকবে একটি পাল্লায়, গুনাহর আমলনামা অন্যটিতে, আর ভার ও হালকাভাব সৃষ্টি করবেন আল্লাহ।"
+          },
+          {
+            "en": "Third, the doer. At-Tabari reports from Mujahid, from 'Ubayd ibn 'Umayr: a huge, tall man who ate and drank much will be brought, and he will not weigh a gnat's wing. Ibn Kathir adds a report on the virtues of 'Abdullah ibn Mas'ud, where the Prophet ﷺ said his thin shins weigh heavier in the scale than Uhud. Then he joins the three: all of it may be true, so that at times deeds are weighed, at times their records, at times the doer, and Allah knows best.",
+            "bn": "তৃতীয়ত, আমলকারী নিজে। তাবারী মুজাহিদের সূত্রে উবাইদ ইবন উমাইরের কথা আনেন: বিশাল দেহের, লম্বা, খুব খায়-দায় এমন এক লোককে আনা হবে, অথচ মশার একটা ডানার সমানও তার ওজন হবে না। ইবন কাসীর আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর মর্যাদা বিষয়ক এক বর্ণনা যোগ করেন। সেখানে নবী ﷺ বলেছেন, তাঁর সরু পা দুটি পাল্লায় উহুদ পাহাড়ের চেয়েও ভারী। তারপর ইবন কাসীর তিনটি মত মিলিয়ে দেন: সবই সত্য হতে পারে। কখনো আমল মাপা হবে, কখনো আমলনামা, কখনো আমলকারী, আর আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Scales Are Plural",
+          "bn": "পাল্লা কেন বহুবচনে"
+        },
+        "p": [
+          {
+            "en": "Thaqulat mawazinuhu: his scales are heavy, in the plural, for a single person. Al-Qurtubi explains mawazin as the plural of mizan, whose root form was miwzan. Then he gives the possibilities. A single doer may have several scales, each weighing a kind of his deeds. Or it may be a single scale spoken of in the plural, as Arabs say that a man went to Makkah on mules or to Basra in ships, and as the Qur'an says in 26:105 that the people of Nuh (AS) denied the messengers, though on one interpretation a single messenger is meant.",
+            "bn": "সাকুলাত মাওয়াযীনুহু: তার পাল্লাগুলো ভারী হবে। মানুষ একজন, অথচ পাল্লা বহুবচনে। কুরতুবী বলেন, মাওয়াযীন হলো মীযানের বহুবচন, আর মীযানের মূল রূপ ছিল মিওযান। তারপর তিনি সম্ভাবনাগুলো তুলে ধরেন। হতে পারে একজন আমলকারীর কয়েকটি পাল্লা থাকবে, প্রতিটিতে মাপা হবে তার এক এক ধরনের আমল। আবার হতে পারে পাল্লা একটিই, কেবল বহুবচনে বলা হয়েছে। আরবরা যেমন বলে, লোকটি খচ্চরের পিঠে মক্কা গেল, কিংবা জাহাজে বসরা গেল। কুরআনেও ২৬:১০৫-এ আছে, নূহ (আঃ)-এর কওম রসূলদের অস্বীকার করেছিল, অথচ এক ব্যাখ্যায় সেখানে উদ্দেশ্য একজন রসূলই।"
+          },
+          {
+            "en": "A third view in al-Qurtubi takes mawazin as the plural of mawzun, the thing weighed, so that the word means the weighed deeds. At-Tabari records the same divide on this phrase. Some, Mujahid among them through al-A'mash, said his scales means his good deeds. Others said it means the scales on which good and bad deeds are weighed, the balance people know, with a tongue and two pans. As-Sa'di explains the heaviness as the pan of good deeds outweighing the bad, and the Muyassar says the scales are heavy because the good deeds are many.",
+            "bn": "কুরতুবী তৃতীয় আরেকটি মত আনেন: মাওয়াযীন হলো মাওযূনের বহুবচন, অর্থাৎ যা মাপা হয়। তাহলে শব্দটির মানে দাঁড়ায় মাপা আমলগুলো। তাবারীও এ বাক্যাংশে একই বিভাজন দেখান। কারও মতে, যেমন আমাশের সূত্রে মুজাহিদের মতে, তার পাল্লা মানে তার নেকিগুলো। আবার কারও মতে এর মানে সেই পাল্লা যাতে নেকি ও গুনাহ মাপা হয়, মানুষের চেনা দাঁড়িপাল্লা, যার কাঁটা আছে আর দুটি পাল্লা আছে। সা'দী ভারী হওয়ার ব্যাখ্যা দেন এভাবে: নেকির পাল্লা গুনাহর পাল্লার চেয়ে ঝুঁকে যাবে। মুয়াসসার বলে, নেকি বেশি বলেই পাল্লা ভারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ninety-Nine Scrolls and a Card",
+          "bn": "নিরানব্বইটি দফতর আর একটি কার্ড"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi (2639) narrates from 'Abdullah ibn 'Amr ibn al-'As that the Messenger of Allah ﷺ said: \"Indeed Allah will distinguish a man from my Ummah before all of creation on the Day of Judgement. Ninety-nine scrolls will be laid out for him, each scroll is as far as the eye can see, then He will say: 'Do you deny any of this? Have those who recorded this wronged you?' He will say: 'No, O Lord!' He will say: 'Do you have an excuse?' He will say: 'No, O Lord!' So He will say: 'Rather you have a good deed with us, so you shall not be wronged today.'",
+            "bn": "তিরমিযী (২৬৩৯) আবদুল্লাহ ইবন আমর ইবনুল আস (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"কিয়ামতের দিন আল্লাহ আমার উম্মতের এক ব্যক্তিকে সমস্ত সৃষ্টির সামনে আলাদা করে আনবেন। তার সামনে নিরানব্বইটি দফতর খুলে দেওয়া হবে, প্রতিটি দফতর চোখ যত দূর যায় তত দীর্ঘ। তারপর তিনি বলবেন: 'এর কোনোটি কি তুমি অস্বীকার কর? আমার লেখক সংরক্ষকরা কি তোমার উপর জুলুম করেছে?' সে বলবে: 'না, হে আমার রব।' তিনি বলবেন: 'তোমার কি কোনো ওজর আছে?' সে বলবে: 'না, হে আমার রব।' তিনি বলবেন: 'বরং আমার কাছে তোমার একটি নেকি আছে, আজ তোমার উপর কোনো জুলুম হবে না।'"
+          },
+          {
+            "en": "Then He will bring out a card (Bitaqah); on it will be: 'I testify to La Ilaha Illallah, and I testify that Muhammad is His servant and Messenger.' He will say: 'Bring your scales.' He will say: 'O Lord! What good is this card next to these scrolls?' He will say: 'You shall not be wronged.' He said: 'The scrolls will be put on a pan (of the scale), and the card on (the other) pan: the scrolls will be light, and the card will be heavy, nothing is heavier than the Name of Allah.'\"",
+            "bn": "তখন একটি কার্ড বের করা হবে, তাতে লেখা: 'আমি সাক্ষ্য দিচ্ছি যে আল্লাহ ছাড়া কোনো ইলাহ নেই, আর সাক্ষ্য দিচ্ছি যে মুহাম্মাদ তাঁর বান্দা ও রসূল।' তিনি বলবেন: 'তোমার ওজনের জায়গায় হাজির হও।' সে বলবে: 'হে রব, এত দফতরের পাশে এই কার্ডের কী মূল্য?' তিনি বলবেন: 'তোমার উপর জুলুম করা হবে না।' তিনি ﷺ বললেন: 'দফতরগুলো রাখা হবে একটি পাল্লায়, কার্ডটি অন্য পাল্লায়। দফতরগুলো হালকা হয়ে উঠে যাবে, আর কার্ডটি ভারী হবে। আল্লাহর নামের সঙ্গে কোনো কিছুই ভারী হতে পারে না।'\""
+          },
+          {
+            "en": "At-Tirmidhi graded it hasan gharib, and al-Qurtubi quotes that verdict. At-Tabari carries a shorter version as 'Abdullah ibn 'Amr's own words. Ibn Kathir, al-Baghawi and al-Qurtubi all bring it for the view that the records are weighed. Ma'arif al-Qur'an adds a caution: other verses and reports show believers' deeds weighed with differing outcomes, so salvation through the testimony alone, despite many sins, is a special grace beyond the general rule. The heavy card is a testimony of faith, never a licence to fill the other pan.",
+            "bn": "তিরমিযী একে হাসান গরীব বলেছেন, আর কুরতুবী তাঁর এই রায়ই উদ্ধৃত করেন। তাবারী এর একটি সংক্ষিপ্ত রূপ আনেন আবদুল্লাহ ইবন আমর (রাঃ)-এর নিজের কথা হিসেবে। ইবন কাসীর, বাগাভী ও কুরতুবী তিনজনই বর্ণনাটি আনেন আমলনামা মাপার মতের পক্ষে। মাআরিফুল কুরআন একটি সতর্কতা যোগ করে: অন্য আয়াত ও বর্ণনা দেখায়, মুমিনদের আমলও মাপা হবে আর ফল হবে ভিন্ন ভিন্ন। তাই অনেক গুনাহ সত্ত্বেও শুধু কালেমার জোরে মুক্তি পাওয়া আল্লাহর বিশেষ অনুগ্রহ, সাধারণ নিয়মের বাইরের ব্যাপার। ভারী কার্ডটি ঈমানের সাক্ষ্য। অন্য পাল্লা ভরে তোলার অনুমতি এটি কখনোই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Light on the Tongue",
+          "bn": "জিহ্বায় হালকা, পাল্লায় ভারী"
+        },
+        "p": [
+          {
+            "en": "Two general narrations, not said about this verse, show what the scale favours. Al-Bukhari (7563) narrates from Abu Hurairah that the Prophet ﷺ said: \"(There are) two words which are dear to the Beneficent (Allah) and very light (easy) for the tongue (to say), but very heavy in weight in the balance. They are: 'Subhan Allah wa-bi hamdihi' and 'Subhan Allah Al-'Azim.'\" Ma'arif al-Qur'an cites it under this verse and notes that al-Bukhari closed his Sahih with it.",
+            "bn": "দুটি সাধারণ হাদীস, যা এ আয়াত প্রসঙ্গে বলা হয়নি, দেখায় পাল্লায় কী ভারী হয়। বুখারী (৭৫৬৩) আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"দুটি কালেমা রহমানের কাছে প্রিয়, জিহ্বায় খুব হালকা, কিন্তু পাল্লায় খুব ভারী: সুবহানাল্লাহি ওয়া বিহামদিহি, সুবহানাল্লাহিল আযীম।\" মাআরিফুল কুরআন এ আয়াতের আলোচনায় হাদীসটি আনে, আর জানায়, বুখারী এ হাদীস দিয়েই তাঁর সহীহ গ্রন্থ শেষ করেছেন।"
+          },
+          {
+            "en": "At-Tirmidhi (2002) narrates from Abu ad-Darda' that the Messenger of Allah ﷺ said: \"Nothing is heavier on the believer's Scale on the Day of Judgment than good character. For indeed Allah, Most High, is angered by the shameless obscene person.\" At-Tirmidhi graded it hasan sahih. At-Tabari cites a report in this sense, that nothing placed in the scale is heavier than good character, as one of the many reports showing that the scale is real.",
+            "bn": "তিরমিযী (২০০২) আবুদ দারদা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"কিয়ামতের দিন মুমিনের পাল্লায় সুন্দর চরিত্রের চেয়ে ভারী কিছু হবে না। আর আল্লাহ অশ্লীল, কটুভাষী লোককে ঘৃণা করেন।\" তিরমিযী একে হাসান সহীহ বলেছেন। তাবারী এই অর্থের একটি বর্ণনা আনেন, পাল্লায় রাখা কোনো কিছুই সুন্দর চরিত্রের চেয়ে ভারী নয়। পাল্লা যে বাস্তব, তা প্রমাণকারী অনেক বর্ণনার একটি হিসেবেই তিনি এটি উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Lost Themselves",
+          "bn": "নিজেকেই যারা হারাল"
+        },
+        "p": [
+          {
+            "en": "Fa-ula'ika hum al-muflihun: it is they who succeed. At-Tabari says they won success, reached what they sought, and abide in the gardens; as-Sa'di says they are saved from what they feared and reach what they love. Then 7:9 turns the scale: those whose scales are light have lost their own selves for the wrong they did to Our signs. At-Tabari explains that they cheated themselves of their share of Allah's generous reward, because they denied His proofs and would not affirm them. As-Sa'di says they did not yield to the signs as they were bound to.",
+            "bn": "ফাউলাইকা হুমুল মুফলিহূন: সফল তারাই। তাবারী বলেন, তারা সাফল্য পেয়েছে, যা চেয়েছিল তা পেয়েছে, আর জান্নাতে চিরকাল থাকবে। সা'দী বলেন, যা তারা ভয় করত তা থেকে তারা বেঁচে গেছে, আর যা ভালোবাসত তা পেয়েছে। তারপর ৭:৯ পাল্লার অন্য দিকটা দেখায়: যাদের পাল্লা হালকা, তারা নিজেরাই নিজেদের হারিয়েছে, আমার আয়াতের সঙ্গে অন্যায় করার কারণে। তাবারী বলেন, আল্লাহর বিপুল সওয়াবে তাদের যে অংশ ছিল, তা থেকে তারা নিজেদেরই ঠকিয়েছে, কারণ তাঁর প্রমাণগুলো তারা অস্বীকার করত, মেনে নিত না। সা'দী বলেন, আয়াতের প্রতি যেভাবে আনুগত্য দরকার ছিল, তারা তা করেনি।"
+          },
+          {
+            "en": "The surah then turns from the scale to what was given. In 7:10 people are reminded that they were settled on the earth and given livelihoods, and little do they thank; 7:11 recalls their creation and forming, and the angels' prostration to Adam (AS), all but Iblis, whose story follows in 7:12 and 7:13. Verse 7:9 describes what will happen to those whose scales are light; it licenses nothing against any living person or community, and no one can read another's pan. What a reader can do is use the time between 7:10 and that Day.",
+            "bn": "এরপর সূরাটি পাল্লা থেকে ফিরে যায় যা দেওয়া হয়েছে তার দিকে। ৭:১০ মনে করিয়ে দেয়, মানুষকে যমীনে প্রতিষ্ঠিত করা হয়েছে, জীবিকার উপকরণ দেওয়া হয়েছে, অথচ শোকর খুব কম। ৭:১১ মনে করায় তাদের সৃষ্টি ও আকৃতিদানের কথা, আর আদম (আঃ)-কে ফেরেশতাদের সিজদার কথা। সিজদা করল সবাই, শুধু ইবলিস ছাড়া, যার কাহিনি চলে ৭:১২ ও ৭:১৩-এ। ৭:৯ জানায়, যাদের পাল্লা হালকা হবে তাদের কী হবে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না, আর অন্যের পাল্লা পড়ার সাধ্য কারও নেই। পাঠকের হাতে আছে ৭:১০ থেকে সেই দিন পর্যন্ত সময়টুকু।"
+          }
+        ]
+      }
+    ]
+  },
   "7:12-13": {
     "sections": [
       {

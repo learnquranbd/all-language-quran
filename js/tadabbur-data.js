@@ -20591,6 +20591,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not forbid what Allah made lawful, keep well away from what He did forbid, and never speak about Him without knowledge.",
     "lessonBn": "আল্লাহ যা হালাল করেছেন তা হারাম বানাবেন না, তিনি যা হারাম করেছেন তা থেকে দূরে থাকুন, আর না জেনে কখনো তাঁর নামে কথা বলবেন না।"
+  },
+  "7:8": {
+    "reflectionEn": "After the questioning comes the scale. The verse does not call the weighing harsh or gentle; it calls it true. Nothing is left out, nothing is added, and no hand presses down on either pan. Those whose scales are heavy are the ones who succeed, and those whose scales are light have lost the one thing they could never replace, their own selves, because they dealt unjustly with Allah's signs. So I am filling a pan every day, whether I think of it or not: a kind word, a patient silence, a phrase of praise that costs a single breath. A sharp reply and a broken promise go in too. What would I do differently today if I could watch the pans move?",
+    "reflectionBn": "জিজ্ঞাসাবাদের পরেই আসে পাল্লা। আয়াতটি ওজনকে কঠোরও বলে না, কোমলও বলে না। বলে, সেদিনের ওজন হবে সত্য। কিছু বাদ পড়বে না, কিছু বাড়ানো হবে না, কোনো পাল্লায় কারও হাতের চাপ পড়বে না। যাদের পাল্লা ভারী, সফল তারাই। আর যাদের পাল্লা হালকা, তারা হারিয়েছে এমন জিনিস যার কোনো বদল নেই: নিজেদেরকেই। কারণ আল্লাহর আয়াতের সঙ্গে তারা অন্যায় আচরণ করত। তাহলে আমি তো প্রতিদিনই কোনো না কোনো পাল্লা ভরছি, টের পাই বা না পাই। একটা নরম কথা, ধৈর্যের একটু নীরবতা, এক নিঃশ্বাসে বলা প্রশংসার একটি বাক্য। কড়া জবাব আর ভাঙা ওয়াদাও সেখানেই গিয়ে পড়ে। পাল্লা দুটো ওঠানামা করছে, এ দৃশ্য যদি চোখে দেখতে পেতাম, আজ আমি কী অন্যরকম করতাম?",
+    "pointsEn": [
+      "If this week's deeds were set on a scale tonight, which pan would I be anxious about, and why?",
+      "What do I do often that costs little effort but may weigh much, and what good do I skip because it looks too small?",
+      "Where do I deal unjustly with Allah's signs: hearing a verse and arguing it away, or knowing a command and quietly leaving it?",
+      "Do I weigh people by their size, wealth or presence, when the scale that counts may weigh them very differently?",
+      "When I fear the scale, does that fear push me towards despair, or towards the next good deed and His mercy?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের আমলগুলো যদি আজ রাতেই পাল্লায় তোলা হতো, কোন পাল্লাটা নিয়ে আমার দুশ্চিন্তা হতো, আর কেন?",
+      "কোন কাজ আমি প্রায়ই করি যাতে কষ্ট কম অথচ ওজন হয়তো অনেক? আর কোন নেক কাজ ছোট মনে হয় বলে এড়িয়ে যাই?",
+      "আল্লাহর আয়াতের সঙ্গে আমি কোথায় অন্যায় করি? কোনো আয়াত শুনে যুক্তি দিয়ে পাশ কাটাই, নাকি হুকুম জেনেও চুপচাপ ছেড়ে দিই?",
+      "মানুষকে কি আমি মাপি তার শরীর, টাকা বা প্রভাব দিয়ে? অথচ আসল পাল্লায় তার ওজন হয়তো একেবারেই অন্যরকম।",
+      "পাল্লার ভয় যখন আসে, সে ভয় কি আমাকে হতাশার দিকে ঠেলে দেয়, নাকি পরের নেক কাজ আর তাঁর রহমতের দিকে?"
+    ],
+    "lessonEn": "The weighing that Day is true and misses nothing, so fill your scale now with faith, good character and remembrance, and never belittle a small deed.",
+    "lessonBn": "সেদিনের ওজন সত্য, কিছুই বাদ পড়ে না। তাই এখনই ঈমান, সুন্দর চরিত্র আর জিকির দিয়ে নিজের পাল্লা ভরুন, আর কোনো ছোট আমলকে তুচ্ছ ভাববেন না।"
   }
 };
 
