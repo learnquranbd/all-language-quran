@@ -991,6 +991,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "Grief Named Before Comfort",
+          "bn": "সান্ত্বনার আগে দুঃখের নাম"
+        },
+        "p": [
+          {
+            "en": "The verse before opens with a sentence of knowledge: qad na'lamu innahu la-yahzunuka alladhi yaqulun, We know that what they say grieves you. At-Tabari names what they were saying: that he was a liar. Ibn Kathir reads it as Allah consoling His Prophet over his people's denial, and sets beside it 35:8, do not let your soul go out in regrets over them, with 26:3 and 18:6 on the same grief.",
+            "bn": "আগের আয়াত শুরু হয় জানার একটি বাক্য দিয়ে: কাদ না'লামু ইন্নাহু লা-ইয়াহযুনুকাল্লাযী ইয়াকূলূন, আমি জানি, তারা যা বলে তা তোমাকে দুঃখ দেয়। তারা কী বলত, তাবারী তা খুলে বলেন: তিনি নাকি মিথ্যাবাদী। ইবন কাসীর আয়াতটিকে পড়েন কওমের অস্বীকারে নবীর প্রতি আল্লাহর সান্ত্বনা হিসেবে। পাশে রাখেন ৩৫:৮: তাদের জন্য আফসোসে তোমার প্রাণ যেন বেরিয়ে না যায়। একই দুঃখের কথা আছে ২৬:৩ ও ১৮:৬ আয়াতেও।"
+          },
+          {
+            "en": "Verse 34 answers that grief. At-Tabari calls it tasliya and ta'ziya, consolation and condolence from Allah to His Prophet for the hurt of his people's denial. Ibn Kathir uses the same two words and adds that the verse commands patience, as the messengers of firm resolve were patient, and promises victory, as they were given victory. At-Tabari cites Qatada, ad-Dahhak and Ibn Jurayj, each saying of it: He is consoling His Prophet.",
+            "bn": "৩৪ নম্বর আয়াত সেই দুঃখের জবাব। তাবারী একে বলেন তাসলিয়া ও তা'যিয়া: কওমের অস্বীকারে নবী যে কষ্ট পেয়েছিলেন, তাতে আল্লাহর সান্ত্বনা ও সমবেদনা। ইবন কাসীর একই দুটি শব্দ ব্যবহার করেন। সঙ্গে যোগ করেন, আয়াতে আছে সবরের আদেশ, যেমন দৃঢ়সংকল্প রাসূলগণ সবর করেছিলেন, আর বিজয়ের ওয়াদা, যেমন তাঁরা বিজয় পেয়েছিলেন। তাবারী কাতাদা, দাহহাক ও ইবন জুরাইজের কথা আনেন। এ আয়াত সম্পর্কে তাঁদের প্রত্যেকের কথা: আল্লাহ তাঁর নবীকে সান্ত্বনা দিচ্ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Found Lying, or Called a Liar",
+          "bn": "মিথ্যুক পাওয়া, না মিথ্যুক বলা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the readers differed over 6:33. A group of Kufans read la yukdhibunaka, without the doubled letter: they do not find falsehood in the revelation you bring and do not dispute its soundness, yet they deny it in speech. A group from Madina, Iraq, Kufa and Basra read la yukadhdhibunaka, with the doubled letter: they do not deny you in what they know, for they know you are truthful, but they call you a liar with their tongues, out of stubbornness and envy.",
+            "bn": "তাবারী জানান, ৬:৩৩ আয়াতের পাঠে কারীদের মধ্যে ভিন্নতা ছিল। কুফার একদল পড়েছেন লা ইউকযিবূনাকা, অক্ষরটি দ্বিত্ব ছাড়া। অর্থ: তুমি যে ওহী আনো তাতে তারা মিথ্যা খুঁজে পায় না, তার বিশুদ্ধতা নিয়েও তর্ক করে না, তবু মুখে তা অস্বীকার করে। মদীনা, ইরাক, কুফা ও বসরার আরেক দল পড়েছেন লা ইউকাযযিবূনাকা, দ্বিত্বসহ। অর্থ: জানার দিক থেকে তারা তোমাকে মিথ্যাবাদী ভাবে না, কারণ তারা জানে তুমি সত্যবাদী। কিন্তু জেদ আর হিংসার বশে মুখে তোমাকে মিথ্যাবাদী বলে।"
+          },
+          {
+            "en": "At-Tabari does not choose. Both are well-known readings, he says, each read by a group of reciters and each with a sound meaning, because the idolaters were not all alike. Some called him a poet, a soothsayer or a madman and denied that his recitation came from heaven; others had seen the truth of his prophethood and denied it out of envy and transgression. He cites 6:20 in this surah, those given the Scripture recognise him as they recognise their sons, as the clearest proof that knowing denial existed.",
+            "bn": "তাবারী কোনোটিকে বেছে নেন না। তাঁর কথা, দুটিই প্রসিদ্ধ পাঠ, প্রত্যেকটি একদল কারী পড়েছেন, আর প্রত্যেকটির অর্থই সঠিক। কারণ মুশরিকরা সবাই এক রকম ছিল না। কেউ তাঁকে কবি বলত, কেউ গণক, কেউ পাগল, আর অস্বীকার করত যে তাঁর তিলাওয়াত আসমান থেকে আসে। আবার কেউ তাঁর নবুওয়াতের সত্যতা বুঝে ফেলেছিল, তবু হিংসা আর সীমালঙ্ঘনের কারণে অস্বীকার করত। জেনেশুনে অস্বীকারের এমন লোক যে ছিল, তার সবচেয়ে স্পষ্ট প্রমাণ হিসেবে তিনি এই সূরারই ৬:২০ দেখান: যাদের কিতাব দেওয়া হয়েছে, তারা তাঁকে চেনে যেমন নিজেদের সন্তানদের চেনে।"
+          },
+          {
+            "en": "Al-Qurtubi records the pair, and a view that both mean one thing. Abu Ubayd chose the lighter reading, which al-Qurtubi says was the reading of Ali. An-Nahhas notes that Abu Ubayd was opposed in this, then concludes that his argument holds, because Ali is the one who narrated the report about Abu Jahl and it is authentic from him that he read it light. Al-Qurtubi also reports that Ibn Abbas, hearing the verse recited, explained it this way: they used to call the Prophet al-Amin, the trustworthy.",
+            "bn": "কুরতুবী একই দুটি পাঠের কথা লেখেন, আর একটি মতও আনেন যে দুই রূপের অর্থ একই। আবু উবাইদ হালকা পাঠটি বেছে নিয়েছিলেন, আর কুরতুবীর ভাষ্যমতে সেটি ছিল আলী (রাঃ)-এর পাঠ। নাহহাস জানান, এ বিষয়ে আবু উবাইদের সঙ্গে দ্বিমত হয়েছে। তারপর তিনি সিদ্ধান্ত দেন, আবু উবাইদের যুক্তিই টেকে। কারণ আবু জাহলের ঘটনাটি আলী (রাঃ)-ই বর্ণনা করেছেন, আর তিনি যে হালকা করে পড়তেন তা তাঁর থেকে বিশুদ্ধভাবে প্রমাণিত। কুরতুবী আরও জানান, ইবন আব্বাস (রাঃ) আয়াতটি পড়তে শুনে ব্যাখ্যা দেন: তারা তো নবী ﷺ-কে আল-আমীন, অর্থাৎ বিশ্বস্ত, বলে ডাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Abu Jahl Said Aloud",
+          "bn": "আবু জাহল যা মুখে বলেছিল"
+        },
+        "p": [
+          {
+            "en": "The occasion report is in at-Tirmidhi (3064), from Ali: \"Abu Jahl said to the Prophet (ﷺ): 'We do not deny you, but we deny what you came with.' So Allah Most High revealed: It is not you that they deny but is Allah's Ayat which the wrong-doers reject (6:33).\" At-Tirmidhi then gives the same report through Abd ar-Rahman ibn Mahdi from Sufyan, stopping at Najiyah ibn Ka'b without mentioning Ali, and says: wa-hadha asahh, this is more correct. His own judgement prefers the chain that does not reach Ali.",
+            "bn": "নাযিলের প্রেক্ষাপটের বর্ণনাটি আছে তিরমিযীতে (৩০৬৪), আলী (রাঃ) থেকে: \"আবু জাহল নবী ﷺ-কে বলল, 'আমরা তোমাকে মিথ্যাবাদী বলি না, বরং তুমি যা নিয়ে এসেছ তাকেই মিথ্যা বলি।' তখন মহান আল্লাহ নাযিল করলেন: তারা তোমাকে মিথ্যাবাদী বলে না, বরং যালিমরা আল্লাহর আয়াতকেই অস্বীকার করে (৬:৩৩)।\" এরপর তিরমিযী একই বর্ণনা আনেন আব্দুর রহমান ইবন মাহদী থেকে, তিনি সুফিয়ান থেকে। এ সনদ নাজিয়া ইবন কা'বে গিয়ে থেমে যায়, আলী (রাঃ)-এর নাম তাতে নেই। তিরমিযী বলেন: ওয়া হাযা আসাহহ, এটিই অধিকতর সঠিক। অর্থাৎ তাঁর নিজের বিচারে যে সনদ আলী (রাঃ) পর্যন্ত পৌঁছায় না, সেটিই অগ্রগণ্য।"
+          },
+          {
+            "en": "The commentators carry other reports of the same admission. Al-Qurtubi gives one from Abu Maysara: the Prophet passed Abu Jahl and his companions, who said, Muhammad, by Allah we do not call you a liar, you are truthful in our eyes, but we deny what you have brought. As-Suddi's report, in at-Tabari and quoted by Ibn Kathir, sets a private talk at Badr: al-Akhnas ibn Shurayq asked Abu Jahl whether Muhammad was truthful, and Abu Jahl swore that he was and had never lied.",
+            "bn": "একই স্বীকারোক্তির আরও বর্ণনা তাফসীরকারেরা এনেছেন। কুরতুবী আনেন আবু মাইসারার বর্ণনা: নবী ﷺ আবু জাহল ও তার সঙ্গীদের পাশ দিয়ে যাচ্ছিলেন। তারা বলল, মুহাম্মাদ, আল্লাহর কসম, আমরা তোমাকে মিথ্যাবাদী বলি না, আমাদের চোখে তুমি সত্যবাদী। কিন্তু তুমি যা নিয়ে এসেছ, সেটাকে মিথ্যা বলি। সুদ্দীর বর্ণনা আছে তাবারীতে, ইবন কাসীরও তা উদ্ধৃত করেছেন। তাতে বদরের দিনের এক গোপন আলাপের কথা আছে। আখনাস ইবন শুরাইক আবু জাহলকে জিজ্ঞেস করল, মুহাম্মাদ কি সত্যবাদী? আবু জাহল কসম খেয়ে বলল, অবশ্যই সত্যবাদী, জীবনে কখনো মিথ্যা বলেনি।"
+          },
+          {
+            "en": "Then he gave his reason: if Banu Qusayy take the banner, the watering of the pilgrims, the keeping of the House and prophethood as well, what is left for the rest of Quraysh? Ibn Kathir also brings Ibn Ishaq's report from az-Zuhri, in which Abu Jahl, after nights of listening to the Prophet's recitation in secret, speaks of a race for honour with Banu Abd Manaf. The fetched texts give no grading for these reports.",
+            "bn": "তারপর সে কারণটাও বলল: পতাকা, হাজীদের পানি পান করানো, কা'বার দারোয়ানি, সবই বনু কুসাইয়ের হাতে। এখন নবুওয়াতও যদি তারা নিয়ে যায়, বাকি কুরাইশের জন্য আর কী থাকে? ইবন কাসীর ইবন ইসহাকের সূত্রে যুহরীর একটি বর্ণনাও আনেন। তাতে কয়েক রাত গোপনে নবী ﷺ-এর তিলাওয়াত শোনার পর আবু জাহল বনু আবদে মানাফের সঙ্গে মর্যাদার প্রতিযোগিতার কথা তোলে। যে লেখাগুলো আনা হয়েছে, তাতে এই বর্ণনাগুলোর কোনো মান নির্ণয় নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denied, Hurt, and Still Calling",
+          "bn": "অস্বীকার, কষ্ট, তবু দাওয়াত"
+        },
+        "p": [
+          {
+            "en": "Then 6:34: wa-laqad kudhdhibat rusulun min qablika, messengers before you were denied. Fa-sabaru 'ala ma kudhdhibu wa-udhu: they were patient over being denied, and they were harmed. At-Tabari shows what that patience did: they bore their people's denial and hurt, and it did not turn them from Allah's command to call their people to Him, until Allah judged between them. Al-Baghawi draws the parallel plainly: their people denied them as Quraysh have denied you.",
+            "bn": "তারপর ৬:৩৪: ওয়া লাকাদ কুযযিবাত রুসুলুম মিন কাবলিকা, তোমার আগেও রাসূলদের মিথ্যাবাদী বলা হয়েছে। ফাসাবারূ আলা মা কুযযিবূ ওয়া ঊযূ: মিথ্যাবাদী বলার মুখে তাঁরা সবর করেছেন, আর তাঁদের কষ্ট দেওয়া হয়েছে। সেই সবর কী করেছিল, তাবারী তা দেখান। কওমের অস্বীকার আর কষ্ট তাঁরা সয়ে গেছেন, আর তা তাঁদের আল্লাহর আদেশ থেকে ফেরাতে পারেনি। সে আদেশ ছিল কওমকে আল্লাহর দিকে ডাকা, যতক্ষণ না আল্লাহ তাদের মধ্যে ফয়সালা করে দেন। বাগাভী তুলনাটা সোজাসুজি বলেন: তোমাকে যেমন কুরাইশ মিথ্যাবাদী বলেছে, তেমনি তাঁদেরকেও তাঁদের কওম বলেছিল।"
+          },
+          {
+            "en": "Hatta atahum nasruna, until Our help came to them. Al-Qurtubi glosses nasr as 'awn, Our aid, and draws the line to the Prophet: what you were promised will come to you. Al-Baghawi says the help came through the punishment of those who denied them. Ibn Kathir widens it: help reached them in this world, as victory is theirs in the Hereafter, and the good end was theirs after the denial and severe harm they met. As-Sa'di folds the verse into an instruction: be patient as they were patient, and you will triumph as they triumphed.",
+            "bn": "হাত্তা আতাহুম নাসরুনা, যতক্ষণ না তাঁদের কাছে আমার সাহায্য এসেছে। কুরতুবী নাসরের অর্থ করেন আওন, অর্থাৎ আমার সহায়তা। তারপর রেখাটা টেনে আনেন নবী ﷺ পর্যন্ত: তোমাকে যার ওয়াদা দেওয়া হয়েছে, তা তোমার কাছেও আসবে। বাগাভী বলেন, সে সাহায্য এসেছিল তাঁদের অস্বীকারকারীদের শাস্তির মাধ্যমে। ইবন কাসীর পরিসরটা বড় করেন। দুনিয়াতেই তাঁদের কাছে সাহায্য পৌঁছেছে, যেমন আখিরাতেও বিজয় তাঁদেরই। অস্বীকার আর কঠিন কষ্টের পর শুভ পরিণাম তাঁদের ভাগেই এসেছে। সা'দী গোটা আয়াতকে এক নির্দেশে গুটিয়ে আনেন: তাঁরা যেমন সবর করেছেন, তুমিও সবর করো, তাঁরা যেমন জয়ী হয়েছেন, তুমিও জয়ী হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Words No One Alters",
+          "bn": "যে বাণী কেউ বদলাতে পারে না"
+        },
+        "p": [
+          {
+            "en": "Wa-la mubaddila li-kalimati Allah: none can alter the words of Allah. Which words? At-Tabari answers directly: what Allah sent down to His Prophet of His promise of victory over whoever opposed him, and of triumph over whoever turned his back. Al-Muyassar reads it the same way. Ibn Kathir: what Allah wrote of victory in this world and the next for His believing servants, citing 37:171 to 37:173, Our word has gone forth to Our servants the messengers, that they will be helped, and 58:21.",
+            "bn": "ওয়া লা মুবাদ্দিলা লিকালিমাতিল্লাহ: আল্লাহর বাণী বদলানোর কেউ নেই। কোন বাণী? তাবারী সরাসরি জবাব দেন: আল্লাহ তাঁর নবীর কাছে যে ওয়াদা নাযিল করেছেন। যে তাঁর বিরোধিতা করে, তার উপর সাহায্যের ওয়াদা, আর যে পিঠ ফিরিয়ে চলে যায়, তার উপর বিজয়ের ওয়াদা। মুয়াসসারও একই অর্থ করে। ইবন কাসীর বলেন, এ হলো দুনিয়া ও আখিরাতে মুমিন বান্দাদের জন্য আল্লাহর লিখে রাখা বিজয়। প্রমাণ হিসেবে তিনি আনেন ৩৭:১৭১ থেকে ৩৭:১৭৩: আমার রাসূল বান্দাদের ব্যাপারে আমার কথা আগেই স্থির হয়ে আছে যে তারাই সাহায্যপ্রাপ্ত হবে। সঙ্গে আনেন ৫৮:২১।"
+          },
+          {
+            "en": "Al-Baghawi: none can undo what Allah has decreed, and He has decreed in His Book the help of His prophets, citing 37:171, 40:51 and 58:21; al-Husayn ibn al-Fadl adds that there is no breaking His promises. Al-Qurtubi: no one can push away what Allah has promised, there is no undoing His judgement and no failing His word, and for every term there is a decree, the phrase of 13:38. On their reading the kalimat here are a specific promise.",
+            "bn": "বাগাভী বলেন: আল্লাহ যা ফয়সালা করেছেন, তা ভাঙার কেউ নেই। আর তিনি তাঁর কিতাবে নবীদের সাহায্যের ফয়সালা করে রেখেছেন। প্রমাণ হিসেবে আনেন ৩৭:১৭১, ৪০:৫১ ও ৫৮:২১। হুসাইন ইবনুল ফাদল যোগ করেন: তাঁর ওয়াদার খেলাফ হয় না। কুরতুবী বলেন: আল্লাহ যার ওয়াদা দিয়েছেন, তা ঠেকানোর সাধ্য কারও নেই। তাঁর ফয়সালা ভাঙা যায় না, তাঁর কথার খেলাফ হয় না, আর প্রতিটি মেয়াদের জন্য আছে লিখিত বিধান, যা ১৩:৩৮ আয়াতের ভাষা। তাঁদের পাঠে এখানকার কালিমাত তাই নির্দিষ্ট একটি ওয়াদা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News Handed Over for Company",
+          "bn": "সঙ্গী করে দেওয়া খবর"
+        },
+        "p": [
+          {
+            "en": "The verse closes: wa-laqad ja'aka min naba'i al-mursalin, some of the news of the messengers has already come to you. At-Tabari says the word anba', reports, is left unsaid because min points to it; al-Qurtubi gives the sense as, there has come to you some news of the messengers. Al-Baghawi treats min as connective, as in asabana min matar, some rain fell on us. Part of the record has arrived, and it is already in hand.",
+            "bn": "আয়াতের শেষ বাক্য: ওয়া লাকাদ জাআকা মিন নাবায়িল মুরসালীন, রাসূলদের কিছু খবর তো তোমার কাছে এসেই গেছে। তাবারী বলেন, আম্বা অর্থাৎ খবরসমূহ শব্দটি উহ্য, কারণ মিন শব্দটিই তার দিকে ইঙ্গিত করে। কুরতুবী অর্থ করেন: রাসূলদের কিছু খবর তোমার কাছে এসেছে। বাগাভী মিনকে সংযোজক ধরেন, যেমন বলা হয় আসাবানা মিন মাতার, আমাদের উপর কিছু বৃষ্টি পড়েছে। পুরো ইতিহাস নয়, তার একটা অংশ এসেছে, আর সেটা হাতে এসেই গেছে।"
+          },
+          {
+            "en": "What is the news for? At-Tabari: the reports of the messengers before you and their nations, and what I did with them when they denied My signs, so wait for the like. Ibn Kathir: how those messengers were helped against the people who denied them, so that you have in them an example, uswa, and a model, qudwa. As-Sa'di: that by which your heart is made firm and settles. The Qur'an says the same of its stories in 11:120: all that We relate to you of the news of the messengers is that by which We make firm your heart.",
+            "bn": "এ খবর কিসের জন্য? তাবারী বলেন: তোমার আগের রাসূলদের খবর, তাঁদের উম্মতের খবর, আর তারা যখন আমার আয়াত অস্বীকার করেছে তখন আমি তাদের সঙ্গে কী করেছি তার খবর। কাজেই তুমিও তেমনটার অপেক্ষা করো। ইবন কাসীর বলেন: অস্বীকারকারীদের বিরুদ্ধে সেই রাসূলদের কীভাবে সাহায্য করা হয়েছে, যাতে তাঁদের মধ্যে তুমি পাও উসওয়া, অর্থাৎ আদর্শ, আর কুদওয়া, অর্থাৎ অনুসরণের নমুনা। সা'দী বলেন: যা দিয়ে তোমার হৃদয় দৃঢ় হয় আর মন প্রশান্ত হয়। কুরআন তার কাহিনিগুলো সম্পর্কে ১১:১২০ আয়াতে একই কথা বলে: রাসূলদের যে খবরই আমি তোমাকে শোনাই, তা দিয়ে তোমার হৃদয়কে দৃঢ় করি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Tunnel Down, a Ladder Up",
+          "bn": "নিচে সুড়ঙ্গ, উপরে সিঁড়ি"
+        },
+        "p": [
+          {
+            "en": "Verse 35 carries the address on: if their turning away weighs heavily on you, then if you can seek a tunnel into the earth or a ladder into the sky and bring them a sign, do so. At-Tabari explains the tunnel as a passage like the burrow of the jerboa, the ladder as a means of climbing, and the sign as a proof beyond what was given; Ibn Abbas, in at-Tabari and Ibn Kathir: a sign better than what We gave them. The answer, do so, is left unsaid because the listener knows it.",
+            "bn": "৩৫ নম্বর আয়াতে সম্বোধন চলতে থাকে: তাদের মুখ ফিরিয়ে নেওয়া যদি তোমার কাছে খুব ভারী লাগে, তবে পারলে মাটির নিচে সুড়ঙ্গ বা আকাশে ওঠার সিঁড়ি খুঁজে নিয়ে তাদের কাছে কোনো নিদর্শন এনে দাও। তাবারী সুড়ঙ্গের ব্যাখ্যা দেন মরু-ইঁদুর জারবোয়ার গর্তের মতো পথ হিসেবে। সিঁড়ি মানে উপরে ওঠার উপায়, আর নিদর্শন মানে যা দেওয়া হয়েছে তার বাইরে আরও প্রমাণ। তাবারী ও ইবন কাসীরে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা: আমি তাদের যা দিয়েছি, তার চেয়ে উত্তম কোনো নিদর্শন। শর্তের জবাব, অর্থাৎ তাহলে তা-ই করো, কথাটা উহ্য, কারণ শ্রোতা তা বোঝে।"
+          },
+          {
+            "en": "The commentators read the condition as born of the Prophet's eagerness for his people. Al-Baghawi: he ﷺ was most intensely eager for their faith, and when they asked for a sign he wished Allah would show it to them, hoping they would believe. As-Sa'di: it weighed on you from your eagerness for them and your love of their believing, and guiding whom Allah has not willed to guide is not within your power. Ibn Abbas, in Ibn Kathir: he was eager that all people believe, and only those for whom happiness was written in the first Record would believe.",
+            "bn": "তাফসীরকারেরা এই শর্তবাক্যকে পড়েন কওমের প্রতি নবী ﷺ-এর আকুলতা থেকে জন্ম নেওয়া কথা হিসেবে। বাগাভী বলেন: তিনি ﷺ কওমের ঈমানের জন্য সবচেয়ে বেশি ব্যাকুল ছিলেন। তারা কোনো নিদর্শন চাইলে তিনি চাইতেন আল্লাহ তা দেখিয়ে দিন, এই আশায় যে তারা ঈমান আনবে। সা'দী বলেন: তাদের প্রতি তোমার ব্যাকুলতা আর তাদের ঈমানের প্রতি তোমার ভালোবাসার কারণেই তা ভারী লেগেছে। কিন্তু আল্লাহ যাকে হিদায়াত দিতে চাননি, তাকে হিদায়াত দেওয়া তোমার সাধ্যে নেই। ইবন কাসীরে ইবন আব্বাস (রাঃ)-এর কথা: তিনি চাইতেন সব মানুষ ঈমান আনুক। আর ঈমান আনবে কেবল তারাই, প্রথম লিপিতে যাদের সৌভাগ্য লেখা হয়ে গেছে।"
+          },
+          {
+            "en": "Then: had Allah willed He would have gathered them upon guidance, fa-la takunanna mina al-jahilin, so do not be of the jahilin. At-Tabari: do not be of those who do not know that Allah, had He willed, would gather all creation upon guidance, and that whoever disbelieves does so by choice, not compulsion, as Allah knew beforehand; once you know that, their turning away will not weigh on you. Al-Baghawi: ignorant of this very point. As-Sa'di: those who do not know the realities of things or put them in their places.",
+            "bn": "তারপর: আল্লাহ চাইলে তাদের সবাইকে হিদায়াতের উপর একত্র করতেন, ফালা তাকূনান্না মিনাল জাহিলীন, কাজেই তুমি জাহিলদের অন্তর্ভুক্ত হয়ো না। তাবারী অর্থ করেন: তাদের মতো হয়ো না, যারা জানে না যে আল্লাহ চাইলে তাঁর সব সৃষ্টিকে হিদায়াতের উপর একত্র করতেন। আর যে কুফরি করে, সে করে নিজের ইচ্ছায়, বাধ্য হয়ে নয়, যেমনটা আল্লাহ আগে থেকেই জানতেন। এটা জানলে তাদের মুখ ফেরানো আর তোমার কাছে ভারী লাগবে না। বাগাভী বলেন: ঠিক এই বিষয়টি না জানা লোকদের মতো। সা'দী বলেন: যারা বিষয়ের প্রকৃত রূপ জানে না, সেগুলোকে যথাস্থানে রাখতেও জানে না।"
+          },
+          {
+            "en": "Al-Qurtubi gives two readings. On the first, the jahilin are those whose grief grows until it drives them into severe distress and what is not permitted: do not grieve over their disbelief so that you come near their state. On the second, introduced with it is said, the address is to him while the community is meant, since the Muslims' hearts were constricted by the idolaters' disbelief and harm. Every reading here concerns grief and knowledge, and at-Tabari's makes the line a release from a weight.",
+            "bn": "কুরতুবী দুটি ব্যাখ্যা দেন। প্রথম ব্যাখ্যায় জাহিল তারা, যাদের দুঃখ বাড়তে বাড়তে তাদের তীব্র অস্থিরতায় আর অবৈধ কাজে ঠেলে দেয়। অর্থাৎ তাদের কুফরির জন্য এমন দুঃখ কোরো না, যাতে তুমি ওই অবস্থার কাছাকাছি চলে যাও। দ্বিতীয় ব্যাখ্যা 'বলা হয়' দিয়ে আনা: সম্বোধন নবী ﷺ-কে, কিন্তু উদ্দেশ্য উম্মত। কারণ মুশরিকদের কুফরি আর অত্যাচারে মুসলমানদের মন সংকুচিত হয়ে পড়ছিল। প্রতিটি ব্যাখ্যাই দুঃখ আর জ্ঞান নিয়ে, আর তাবারীর ব্যাখ্যায় বাক্যটি এক বোঝা নামিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Hear Will Answer",
+          "bn": "যারা শোনে, তারাই সাড়া দেয়"
+        },
+        "p": [
+          {
+            "en": "Verse 36 closes the passage: only those who hear will respond, and as for the dead, Allah will raise them, then to Him they will be returned. Ibn Kathir: those who hear the speech and understand it accept the call, and the dead are the disbelievers, whose hearts are dead, to be raised and returned to Him for their recompense. The four verses move from grief named to precedent given, a promise sealed, and the outcome left with Allah.",
+            "bn": "৩৬ নম্বর আয়াতে অংশটি শেষ হয়: সাড়া দেয় কেবল তারাই, যারা শোনে। আর মৃতদের আল্লাহ জীবিত করে ওঠাবেন, তারপর তাঁর কাছেই তাদের ফিরিয়ে নেওয়া হবে। ইবন কাসীর বলেন, যারা কথা শোনে আর বোঝে, দাওয়াত কবুল করে তারাই। আর মৃত মানে কাফিররা, যাদের অন্তর মরে গেছে। তাদের ওঠানো হবে, তারপর প্রতিফলের জন্য তারা তাঁর কাছে ফিরবে। চারটি আয়াত এভাবে এগোয়: দুঃখের নাম নেওয়া, আগের নজির দেখানো, ওয়াদা পাকা করা, আর পরিণাম আল্লাহর হাতে রেখে দেওয়া।"
+          },
+          {
+            "en": "A word on the men in these reports. Abu Jahl, al-Akhnas and the others appear as the narrations describe their conduct in Makka: denial against knowledge, harm, turning away. The verses describe what the text describes and license nothing against any living person or community. They give no one leave to call a neighbour Abu Jahl, to declare another person's heart dead, or to treat a disagreement as the persecution these verses describe. What the Prophet ﷺ is told to do here is to be patient.",
+            "bn": "এই বর্ণনাগুলোর মানুষদের নিয়ে একটি কথা। আবু জাহল, আখনাস ও অন্যরা এখানে এসেছে মক্কায় তাদের আচরণ নিয়ে, বর্ণনাগুলো যেভাবে বলেছে সেভাবে: জেনেশুনে অস্বীকার, কষ্ট দেওয়া, মুখ ফিরিয়ে নেওয়া। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। প্রতিবেশীকে আবু জাহল বলে ডাকার, কারও অন্তর মরে গেছে বলে ঘোষণা দেওয়ার, কিংবা সাধারণ মতভেদকে এই আয়াতে বর্ণিত নির্যাতন বলে ধরে নেওয়ার কোনো অনুমতি এখানে কেউ পায় না। নবী ﷺ-কে এখানে যা করতে বলা হয়েছে, তা হলো সবর।"
+          },
+          {
+            "en": "For a reader who stands for what is right today and meets ridicule for it, the passage offers what the commentators found in it. There is company, in the news of those who went before. There is a direction: patience that keeps doing the work, which at-Tabari describes as the messengers not being turned from Allah's command. There is a promise, words that no one alters. And there is a burden lifted, which as-Sa'di names: guiding whomever Allah has not willed to guide is not within the caller's power.",
+            "bn": "আজকের যে পাঠক সঠিক কিছুর পক্ষে দাঁড়িয়ে ঠাট্টার মুখে পড়েন, তাফসীরকারেরা এ অংশে যা পেয়েছেন, তা তাঁর জন্যও। আছে সঙ্গ, আগে যাঁরা চলে গেছেন তাঁদের খবরে। আছে দিকনির্দেশ: এমন সবর, যা কাজ থামায় না। তাবারী এর বর্ণনা দেন এভাবে যে রাসূলদের আল্লাহর আদেশ থেকে কিছুই ফেরাতে পারেনি। আছে ওয়াদা, যে বাণী কেউ বদলাতে পারে না। আর আছে নামিয়ে রাখা এক বোঝা, সা'দী যার নাম দেন: আল্লাহ যাকে হিদায়াত দিতে চাননি, তাকে হিদায়াত দেওয়া যে ডাকছে তার সাধ্যে নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "6:38": {
     "sections": [
       {

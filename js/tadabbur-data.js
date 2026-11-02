@@ -20311,6 +20311,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What Allah has written for you is reached by walking toward it; turning back out of fear is a loss in itself, not a safe place to wait.",
     "lessonBn": "আল্লাহ আপনার জন্য যা লিখে রেখেছেন, তার দিকে হেঁটেই সেখানে পৌঁছাতে হয়। ভয়ে পিছু হটা নিজেই এক ক্ষতি, অপেক্ষার নিরাপদ জায়গা নয়।"
+  },
+  "6:34": {
+    "reflectionEn": "Before the comfort comes, Allah names the grief: We know that what they say saddens you. Then He turns the Prophet's eyes backwards. Messengers before you were called liars and were hurt, and they held on until Our help reached them. Nothing here promises that the denial will stop soon or that the hurt will be small. The promise is that it ends in help, and that no one can change the words of Allah. Then the news of those messengers is handed over as company for the road. When I am mocked or brushed aside for doing what is right, do I measure the outcome by this week, or by the end Allah has written? And do I keep doing the work while I wait?",
+    "reflectionBn": "সান্ত্বনা দেওয়ার আগে আল্লাহ কষ্টটার নাম নেন: আমি জানি, তারা যা বলে তা তোমাকে দুঃখ দেয়। তারপর নবী ﷺ-এর চোখ ফিরিয়ে দেন পেছনের দিকে। তোমার আগেও রাসূলদের মিথ্যাবাদী বলা হয়েছে, কষ্ট দেওয়া হয়েছে। তাঁরা টিকে ছিলেন, যতক্ষণ না আমার সাহায্য এসে পৌঁছেছে। অস্বীকার শিগগির থামবে, বা কষ্ট হালকা হবে, এমন কোনো কথা এখানে নেই। কথা দেওয়া হয়েছে শুধু এটুকু: শেষটা সাহায্যে গিয়ে থামবে, আর আল্লাহর বাণী বদলানোর সাধ্য কারও নেই। তারপর আগের রাসূলদের খবর হাতে তুলে দেওয়া হয়, পথের সঙ্গী হিসেবে। ঠিক কাজ করতে গিয়ে যখন আমাকে নিয়ে কেউ ঠাট্টা করে বা আমাকে উড়িয়ে দেয়, ফলাফল কি আমি এই সপ্তাহ দিয়ে মাপি, নাকি আল্লাহ যে শেষ লিখে রেখেছেন তা দিয়ে? আর অপেক্ষার সময়টায় কি কাজটা চালিয়ে যাই?",
+    "pointsEn": [
+      "When doing the right thing last cost me ridicule or rejection, did I stop, or did I keep going while I waited?",
+      "Which story of a messenger's patience do I know well enough to lean on in a hard week?",
+      "When people reject what I say, does my sadness turn into anger at them, or do I take it to Allah?",
+      "Is my trust in Allah's promise quietly tied to a timetable I have set for Him?",
+      "When someone turns away from the truth I offered, do I remember that guiding them was never in my hands?"
+    ],
+    "pointsBn": [
+      "শেষবার ঠিক কাজ করতে গিয়ে যখন ঠাট্টা বা প্রত্যাখ্যান সইতে হয়েছে, আমি কি থেমে গেছি, নাকি অপেক্ষার মধ্যেও চালিয়ে গেছি?",
+      "কোনো রাসূলের সবরের কোন কাহিনি আমি এতটা ভালো করে জানি, যার উপর কঠিন সপ্তাহে ভর দিতে পারি?",
+      "মানুষ আমার কথা ফিরিয়ে দিলে আমার দুঃখ কি তাদের উপর রাগে বদলে যায়, নাকি সেটা আল্লাহর কাছে নিয়ে যাই?",
+      "আল্লাহর ওয়াদার উপর আমার ভরসা কি চুপিচুপি এমন এক সময়সূচির সঙ্গে বাঁধা, যা আমি নিজেই তাঁর জন্য ঠিক করে রেখেছি?",
+      "আমার দেওয়া সত্য থেকে কেউ মুখ ফিরিয়ে নিলে আমার কি মনে থাকে যে তাকে হিদায়াত দেওয়া কখনো আমার হাতে ছিল না?"
+    ],
+    "lessonEn": "Hold steady when you are denied or hurt for the truth, as the messengers did, and trust that no one can change Allah's promise of help.",
+    "lessonBn": "সত্যের জন্য অস্বীকার বা কষ্টের মুখে রাসূলদের মতো অটল থাকুন, আর ভরসা রাখুন যে আল্লাহর সাহায্যের ওয়াদা কেউ বদলাতে পারে না।"
   }
 };
 
