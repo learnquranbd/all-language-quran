@@ -4155,6 +4155,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:109": {
+    "sections": [
+      {
+        "h": {
+          "en": "Before the Chiefs Spoke",
+          "bn": "প্রধানেরা মুখ খোলার আগে"
+        },
+        "p": [
+          {
+            "en": "Surah al-A'raf is Makkan, and from 7:103 it follows Musa (AS) into Pharaoh's court without a break. He names his sender (7:104), binds himself to say nothing about Allah but the truth, and asks for the Children of Israel (7:105). Pharaoh answers with a demand: if you have come with a sign, bring it, if you are truthful (7:106). Two signs follow at once. The staff is thrown and becomes a serpent (7:107), and the hand is drawn out white for those watching (7:108).",
+            "bn": "সূরা আল-আ'রাফ মক্কী। ৭:১০৩ থেকে সূরাটি কোনো বিরতি ছাড়াই মূসা (আঃ)-এর পেছন পেছন ফেরাউনের দরবারে ঢোকে। তিনি প্রথমে জানান কে তাঁকে পাঠিয়েছেন (৭:১০৪)। তারপর নিজের ওপর শর্ত চাপান, আল্লাহর ব্যাপারে সত্য ছাড়া কিছু বলবেন না, আর দাবি করেন বনী ইসরাঈলকে তাঁর সঙ্গে ছেড়ে দিতে হবে (৭:১০৫)। ফেরাউনের জবাব একটা পাল্টা দাবি: নিদর্শন এনে থাকলে পেশ কর, যদি সত্যবাদী হও (৭:১০৬)। সঙ্গে সঙ্গে আসে দুটি নিদর্শন। লাঠি ছোড়া হয়, তা হয়ে যায় অজগর (৭:১০৭)। হাত বের করা হয়, দর্শকদের সামনে তা সাদা (৭:১০৮)।"
+          },
+          {
+            "en": "7:109 is the first thing anyone in the room says after that. Qala al-mala'u min qawmi Fir'awn: the chiefs of Pharaoh's people said, this is surely a skilled sorcerer. At-Tabari glosses al-mala' as the company of the men of Pharaoh's people and their nobles, and Ibn Kathir as the main body and the masters among them. No tafsir read for this verse records an occasion of revelation for it. Its meaning comes from where it stands, directly after two signs nobody disputed seeing.",
+            "bn": "এরপর দরবারে প্রথম যে কথাটি উচ্চারিত হয়, সেটাই ৭:১০৯। কালাল মালাউ মিন কাওমি ফির'আওন: ফেরাউনের জাতির প্রধানেরা বলল, এ নিশ্চয়ই এক দক্ষ যাদুকর। তাবারী আল-মালা বলতে বোঝান ফেরাউনের জাতির পুরুষদের দল আর তাদের অভিজাত শ্রেণিকে। ইবনু কাসীরের ভাষায় তারা জাতির মূল অংশ ও নেতৃস্থানীয়রা। এ আয়াতের জন্য পড়া কোনো তাফসীরে এর নাযিলের কোনো উপলক্ষ উল্লেখ নেই। আয়াতটির অর্থ বেরিয়ে আসে তার অবস্থান থেকে: দুটি নিদর্শনের ঠিক পরে, যা দরবারের কেউ দেখেনি বলে দাবি করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Staff and the Shining Hand",
+          "bn": "লাঠি আর উজ্জ্বল হাত"
+        },
+        "p": [
+          {
+            "en": "The commentators keep the two signs close to their words. On thu'ban, at-Tabari reports from Ibn Abbas (RA), through Ali ibn Abi Talhah, and from ad-Dahhak that it is the male snake, and Ibn Kathir adds as-Suddi to the same reading. Al-Qurtubi calls it the huge male snake, the greatest of serpents, and al-Baghawi the great male among snakes. At-Tabari reads mubin as a snake that shows itself plainly to whoever sees it, and as-Sa'di as a serpent in open view, moving, while they watched.",
+            "bn": "তাফসীরকারেরা দুটি নিদর্শনকে আয়াতের শব্দের কাছাকাছিই রাখেন। সু'বান শব্দ নিয়ে তাবারী ইবনু আব্বাস (রাঃ) থেকে আলী ইবনু আবী তালহার সূত্রে এবং দাহহাক থেকে বর্ণনা করেন: এটি পুরুষ সাপ। ইবনু কাসীর একই ব্যাখ্যায় সুদ্দীর নামও যোগ করেন। কুরতুবী বলেন, বিশাল পুরুষ সাপ, সাপের মধ্যে সবচেয়ে বড়। বাগাভীর ভাষায়, সাপের মধ্যে বড়সড় পুরুষটি। মুবীন শব্দের অর্থ তাবারীর মতে, যে দেখবে তার কাছেই স্পষ্ট যে এটা সাপ। সাদী বলেন, চোখের সামনে চলমান এক সাপ, আর তারা তা দেখছিল।"
+          },
+          {
+            "en": "Al-Baghawi raises a question a careful reader will have. Does 27:10 not say that it moved as though it were a jann, a small snake? His answer is that it was like a jann in its movement and lightness, while in its body it was a huge serpent. The Muyassar keeps to the plain sense: the staff turned into a great snake, visible to every eye.",
+            "bn": "বাগাভী একটা প্রশ্ন তোলেন, যা মনোযোগী পাঠকের মনেও জাগবে। ২৭:১০ আয়াতে কি বলা হয়নি যে সেটা নড়ছিল যেন জান্ন, মানে ছোট সাপ? তাঁর জবাব: চলাফেরার ক্ষিপ্রতা আর হালকা ভঙ্গিতে সেটা ছিল জান্নের মতো, কিন্তু দেহে ছিল বিশাল অজগর। মুয়াসসার সরল অর্থেই থাকে: লাঠিটা পরিণত হলো বড় এক সাপে, যা সবার চোখে স্পষ্ট।"
+          },
+          {
+            "en": "On the hand, at-Tabari has Musa draw it out, and it was white, gleaming for whoever looked at it. He adds, as was mentioned to us, that Musa was dark-skinned, so Allah made the hand's turning white without leprosy a sign for him. He reports from Ibn Abbas (RA) and Mujahid that it came out of the opening of his garment white without blemish, meaning without leprosy. Ibn Kathir cites 27:12 for that phrase, and as-Sa'di calls the two great signs proof that Musa was truthful and the messenger of the Lord of the worlds.",
+            "bn": "হাতের ব্যাপারে তাবারী বলেন, মূসা হাত বের করলেন, আর তা হলো সাদা, যে তাকাল তার চোখে ঝলমল করছিল। 'আমাদের কাছে যেমন বলা হয়েছে' কথাটি জুড়ে তিনি যোগ করেন, মূসা ছিলেন শ্যামবর্ণ। তাই কুষ্ঠ ছাড়াই হাতটা সাদা হয়ে যাওয়াকে আল্লাহ তাঁর জন্য নিদর্শন বানিয়েছিলেন। ইবনু আব্বাস (রাঃ) ও মুজাহিদ থেকে তিনি বর্ণনা করেন, হাতটা জামার গলার ফাঁক থেকে বেরিয়েছিল সাদা হয়ে, কোনো দোষ ছাড়া, অর্থাৎ কুষ্ঠ ছাড়া। ইবনু কাসীর এ কথার জন্য ২৭:১২ উদ্ধৃত করেন। আর সাদীর মতে এ দুটি বড় নিদর্শন প্রমাণ করে, মূসা সত্যবাদী এবং বিশ্বজগতের রবের রাসূল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sizes Held as Reports",
+          "bn": "আকারের বিবরণ, শুধুই বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The tafsirs also carry descriptions that grow with each telling, and they are reports, each with a name on it. At-Tabari records from Qatadah only that it became a great snake, then adds that someone else said like the city; Ibn Kathir gives like the city to Qatadah himself. As-Suddi, in at-Tabari, has its lower jaw on the ground and its upper on the palace wall. Mujahid, speaking of 20:20, puts forty cubits between its jaws; al-Baghawi's account from Ibn Abbas and as-Suddi says eighty.",
+            "bn": "তাফসীরগুলোতে এমন কিছু বিবরণও আছে, যা প্রতিবার বলার সঙ্গে সঙ্গে বড় হয়েছে। এগুলো বর্ণনা, প্রতিটির গায়ে বর্ণনাকারীর নাম। তাবারী কাতাদাহ থেকে শুধু এটুকু আনেন যে সেটা বিশাল সাপ হয়ে গেল। তারপর যোগ করেন, অন্য একজন বলেছেন, শহরের মতো। ইবনু কাসীর 'শহরের মতো' কথাটা কাতাদাহরই বলে উল্লেখ করেন। তাবারীতে সুদ্দীর বর্ণনায় সাপটার নিচের চোয়াল মাটিতে, ওপরেরটা প্রাসাদের দেয়ালে। ২০:২০ আয়াতের আলোচনায় মুজাহিদ বলেন, দুই চোয়ালের মাঝে চল্লিশ হাত। বাগাভী ইবনু আব্বাস ও সুদ্দী থেকে বলেন আশি হাত।"
+          },
+          {
+            "en": "The most dramatic comes from Wahb ibn Munabbih: the serpent charged the crowd, twenty-five thousand died in the crush, and Pharaoh fled into his house. At-Tabari records it; Ibn Kathir records it too and closes with his own caution, that there is strangeness in the way it is told. Al-Qurtubi reports from Ibn Abbas that the hand shone with a light reaching between sky and earth, and al-Baghawi, under it is said, that its rays overcame the sun. None of this is a word of the Prophet ﷺ, and the verse commits to none of it.",
+            "bn": "সবচেয়ে নাটকীয় বিবরণটি ওয়াহব ইবনু মুনাব্বিহের। সাপটা লোকজনের ওপর ঝাঁপিয়ে পড়ল, ভিড়ের চাপে মারা গেল পঁচিশ হাজার মানুষ, আর ফেরাউন পালিয়ে ঘরে ঢুকল। তাবারী এটি বর্ণনা করেছেন। ইবনু কাসীরও করেছেন, তবে শেষে নিজের সতর্কবাণী জুড়ে দিয়েছেন: এর বর্ণনাধারায় অস্বাভাবিকতা আছে। কুরতুবী ইবনু আব্বাস থেকে আনেন, হাতের আলো আসমান আর জমিনের মাঝখানটা আলোকিত করত। বাগাভী 'বলা হয়' দিয়ে আনেন, তার রশ্মি সূর্যের আলোকেও হার মানাত। এর কোনোটিই নবী ﷺ-এর বাণী নয়, আর আয়াত এর কোনোটির দায় নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Word Sorcerer Meant",
+          "bn": "যাদুকর বলে কী বোঝানো হলো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains what the chiefs meant by it: that Musa takes hold of people's eyes by deceiving them, until he makes them imagine the staff a snake, the dark-skinned hand white, and a thing other than what it is. Al-Baghawi gives the same reading almost word for word. The Muyassar repeats it and adds the sense of alim: wide in his knowledge of sorcery and expert at it. Al-Qurtubi's whole note on the verse is that alim means knowing in sorcery, and as-Sa'di glosses it as skilled in his sorcery.",
+            "bn": "প্রধানেরা এ কথায় কী বোঝাতে চেয়েছিল, তাবারী তা খুলে বলেন: মূসা ধোঁকা দিয়ে মানুষের চোখ বেঁধে ফেলেন। ফলে তাদের মনে হয় লাঠিটা সাপ, শ্যামলা হাতটা সাদা, আর কোনো জিনিস যা, তা নয়। বাগাভী প্রায় হুবহু একই ব্যাখ্যা দেন। মুয়াসসারও তা-ই বলে, সঙ্গে আলীম শব্দের অর্থ যোগ করে: যাদুবিদ্যায় তার জ্ঞান ব্যাপক, আর সে এতে পারদর্শী। এ আয়াতে কুরতুবীর পুরো মন্তব্য এটুকুই: আলীম মানে যাদুতে জ্ঞানী। সাদী বলেন, নিজের যাদুতে দক্ষ।"
+          },
+          {
+            "en": "At-Tabari then traces the word itself. The Arabs said the rain bewitched the earth, sahara al-matar al-ard, when it fell so heavily that it tore the plants out by their roots and turned the ground over, back to belly. He likens the sorcerer's work to that, because it makes the person bewitched see a thing other than it really is, and he quotes the poet Dhu ar-Rummah describing a mirage as bewitching to the eyes. The charge was precise: nothing changed; your eyes were turned over.",
+            "bn": "তাবারী এরপর শব্দটার শিকড় খোঁজেন। আরবরা বলত, বৃষ্টি জমিনকে যাদু করেছে, সাহারাল মাতারুল আরদ। এমনটা বলা হতো যখন বৃষ্টি এত জোরে নামত যে গাছপালা শিকড়সুদ্ধ উপড়ে ফেলত, মাটির ওপরটা নিচে আর নিচটা ওপরে উল্টে দিত। তাবারী যাদুকরের কাজকে এর সঙ্গে তুলনা করেন। কারণ যাদু যার ওপর চলে, সে জিনিসটাকে তার আসল রূপের বাইরে দেখে। প্রমাণ হিসেবে তিনি কবি যুর রুম্মাহর পঙ্‌ক্তি আনেন, যেখানে মরীচিকাকে বলা হয়েছে চোখের যাদুকর। অভিযোগটা ছিল নিখুঁত: কিছুই বদলায়নি, উল্টে গেছে তোমাদের চোখ।"
+          },
+          {
+            "en": "As-Sa'di names the motive beneath that precision. The chiefs spoke, he says, when what they saw of the signs had dazzled them and they still did not believe, so they went looking for corrupt interpretations of them. That is the tafsirs' reading of the charge: not a failure to see, but a search for an explanation that would leave the viewers where they already stood. Read this way, the label did not end an inquiry; it replaced it.",
+            "bn": "এই নিখুঁত মাপের নিচে কোন উদ্দেশ্য কাজ করছিল, সাদী তা বলে দেন। নিদর্শনগুলো দেখে প্রধানেরা হতবাক হয়েছিল, তবু ঈমান আনেনি। তাই তারা এগুলোর ভ্রান্ত ব্যাখ্যা খুঁজতে নেমেছিল। অভিযোগটার এটাই তাফসীরের পাঠ: চোখে না দেখা নয়, বরং এমন এক ব্যাখ্যার খোঁজ, যাতে দর্শকেরা যেখানে দাঁড়িয়ে ছিল সেখানেই থেকে যেতে পারে। এভাবে পড়লে তকমাটা কোনো যাচাইয়ের শেষে আসেনি, এসেছে যাচাইয়ের জায়গা দখল করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Skilled, and Still Refused",
+          "bn": "দক্ষ মেনেও প্রত্যাখ্যান"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notices the second word. The chiefs had seen nothing all their lives but the tricks of sorcerers, and they took Pharaoh for their god, so they could reach for no other category. Yet they added alim, one who knows, and Ma'arif reads that as a telling admission: they had the impression that what Musa did could not be done by an ordinary magician. The accusation carries its own concession inside it. Even while calling it sorcery, they granted that it was beyond any sorcery they had seen.",
+            "bn": "মাআরিফুল কুরআন দ্বিতীয় শব্দটার দিকে নজর দেয়। প্রধানেরা সারা জীবন যাদুকরদের কারসাজি ছাড়া আর কিছু দেখেনি, আর ফেরাউনকে নিজেদের উপাস্য মানত। তাই অন্য কোনো খোপ তাদের নাগালে ছিল না। তবু তারা আলীম শব্দটা জুড়ে দিল, মানে যে জানে। মাআরিফ একে দেখে একরকম স্বীকারোক্তি হিসেবে: তাদের মনে হয়েছিল, মূসা যা করেছেন তা সাধারণ যাদুকরের সাধ্যের বাইরে। অভিযোগের ভেতরেই লুকিয়ে আছে একটা স্বীকৃতি। যাদু বলেও তারা মেনে নিল, এ তাদের দেখা যেকোনো যাদুর চেয়ে বড়।"
+          },
+          {
+            "en": "Ma'arif then draws the distinction the chiefs blurred. Sorcery, it says, works through physical causes that are merely hidden from ordinary people, while a miracle is a direct manifestation of Allah's power. That is why the Qur'an ascribes miracles to Allah, as when it says that Allah threw (8:17), though it was the Prophet ﷺ who threw the pebbles at Badr. On that reading the chiefs had what they needed to tell the two apart, and their own word alim shows that they half did.",
+            "bn": "এরপর মাআরিফ সেই পার্থক্যটা স্পষ্ট করে, যা প্রধানেরা ঘোলা করে দিয়েছিল। যাদু চলে বস্তুগত কারণের ওপর, শুধু সেই কারণ সাধারণ মানুষের চোখের আড়ালে থাকে। মু'জিযা হলো সরাসরি আল্লাহর কুদরতের প্রকাশ। এজন্যই কুরআন মু'জিযাকে আল্লাহর দিকে সম্পৃক্ত করে, যেমন বলে, আল্লাহই নিক্ষেপ করেছেন (৮:১৭), অথচ বদরে কাঁকর ছুড়েছিলেন নবী ﷺ। এ পাঠ অনুযায়ী দুটি জিনিসকে আলাদা করে চেনার উপকরণ প্রধানদের হাতে ছিল। তাদের নিজেদের আলীম শব্দটাই দেখায়, তারা খানিকটা চিনেও ফেলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir sets the scene from the throne. In the report from Ibn Abbas (RA) that he cites on 7:107, Pharaoh threw himself down from his seat and begged Musa to hold the serpent back. On 7:109 Ibn Kathir says the chiefs were agreeing with what Pharaoh himself had said once his composure returned and he had settled on his throne again: he said to the chiefs around him, this is a skilled sorcerer. Those words are the wording of 26:34, where the line is Pharaoh's. On his reading the king said it, and his court repeated it.",
+            "bn": "ইবনু কাসীর দৃশ্যটা সাজান সিংহাসনের দিক থেকে। ৭:১০৭ আয়াতে তিনি ইবনু আব্বাস (রাঃ)-এর যে বর্ণনা আনেন, তাতে ফেরাউন আসন থেকে লাফিয়ে নেমে পড়ে, আর সাপটাকে থামাতে মূসার কাছে কাকুতি জানায়। ৭:১০৯ আয়াতে ইবনু কাসীর বলেন, প্রধানেরা আসলে ফেরাউনের নিজের কথাতেই সায় দিচ্ছিল। হুঁশ ফিরে পেয়ে আবার সিংহাসনে বসার পর সে চারপাশের প্রধানদের বলেছিল, এ তো এক দক্ষ যাদুকর। এই শব্দগুলো ২৬:৩৪ আয়াতের, যেখানে কথাটা ফেরাউনের মুখে। ইবনু কাসীরের পাঠে রাজা কথাটা বলেছে, তারপর দরবার তা-ই আওড়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Asks What to Do",
+          "bn": "করণীয় জানতে চাইল কে"
+        },
+        "p": [
+          {
+            "en": "7:110 finishes the thought: he wants to expel you from your land, so what do you command? At-Tabari takes the land as Egypt and the address as to the Copts; al-Qurtubi takes it as your rule, lost when Musa puts the Children of Israel ahead of you. Ibn Kathir says they took counsel over how to put out the light Musa brought, fearing he would win people over and prevail over them, and he notes that what they feared did befall them, citing 28:6. As-Sa'di says they used the threat of expulsion to frighten people of weak understanding.",
+            "bn": "৭:১১০ আয়াত কথাটা শেষ করে: সে চায় তোমাদের দেশ থেকে তোমাদের বের করে দিতে, তাহলে তোমরা কী আদেশ দাও? তাবারীর মতে দেশ মানে মিসর, আর সম্বোধন কিবতীদের প্রতি। কুরতুবীর মতে দেশ মানে তোমাদের রাজত্ব, যা হাতছাড়া হবে যখন মূসা বনী ইসরাঈলকে তোমাদের ওপরে তুলে দেবেন। ইবনু কাসীর বলেন, মূসার আনা আলো কীভাবে নেভানো যায় তা নিয়ে তারা শলাপরামর্শ করল। ভয় ছিল, তিনি মানুষকে নিজের দিকে টেনে নিয়ে তাদের ওপর জয়ী হবেন। ২৮:৬ উদ্ধৃত করে তিনি দেখান, যে ভয় তারা করেছিল, শেষে তা-ই ঘটেছিল। সাদী বলেন, বের করে দেওয়ার ভয় দেখিয়ে তারা কম বুঝের মানুষদের আতঙ্কিত করেছিল।"
+          },
+          {
+            "en": "Who asks the closing question is a genuine disagreement, and the commentators keep it so. At-Tabari reads fa-madha ta'murun as Pharaoh speaking to the chiefs: what do you advise us to do about him? Pharaoh is not named, he concedes, which is rare in speech, and he offers 12:51 and 12:52 as a parallel, where Yusuf's words follow the wife of al-Aziz's without his name. The Muyassar also gives the question to Pharaoh, and al-Qurtubi and al-Baghawi each put that reading first.",
+            "bn": "শেষ প্রশ্নটা কে করল, তা নিয়ে সত্যিকারের মতভেদ আছে, আর তাফসীরকারেরা সেটাকে মতভেদ হিসেবেই রেখেছেন। তাবারীর মতে ফামাযা তা'মুরূন ফেরাউনের কথা, প্রধানদের উদ্দেশে: তার ব্যাপারে আমাদের কী করতে পরামর্শ দাও? তিনি মেনে নেন, এখানে ফেরাউনের নাম নেই, আর কথায় এমনটা কমই ঘটে। নজির হিসেবে তিনি আনেন ১২:৫১ ও ১২:৫২, যেখানে আযীযের স্ত্রীর কথার পরপরই ইউসুফের কথা আসে, নাম ছাড়া। মুয়াসসারও প্রশ্নটা ফেরাউনের বলে ধরে। কুরতুবী ও বাগাভী দুজনেই এ মতটা আগে আনেন।"
+          },
+          {
+            "en": "The other side is recorded by the same two under it is said: the chiefs are still speaking. In al-Qurtubi's version they address Pharaoh alone in the plural, the way tyrants and chiefs are addressed, or else Pharaoh and his companions together; in al-Baghawi's, Pharaoh and his inner circle. As-Sa'di reads the plural differently again, as the chiefs taking counsel among themselves about what to do with Musa. The question is left open here, as the sources leave it. Either way an answer came, delay him and gather the magicians, which 7:111 records.",
+            "bn": "অন্য মতটি ওই দুজনই 'বলা হয়' দিয়ে উল্লেখ করেন: কথা তখনো বলছে প্রধানেরাই। কুরতুবীর ভাষ্যে তারা একা ফেরাউনকেই বহুবচনে সম্বোধন করছে, যেভাবে প্রতাপশালী শাসক আর নেতাদের সম্বোধন করা হয়। নয়তো ফেরাউন আর তার সঙ্গীদের একসঙ্গে। বাগাভীর ভাষ্যে, ফেরাউন ও তার ঘনিষ্ঠজনদের। সাদী বহুবচনটা পড়েন আরেকভাবে: মূসার ব্যাপারে কী করা যায়, তা নিয়ে প্রধানেরা নিজেদের মধ্যে পরামর্শ করছিল। উৎসগুলো প্রশ্নটা যেমন খোলা রেখেছে, এখানেও তেমনি খোলা থাকল। যেভাবেই পড়া হোক, জবাব এসেছিল: তাকে অবকাশ দাও আর যাদুকরদের জড়ো কর। সে জবাব আছে ৭:১১১ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Attached, Nothing Licensed",
+          "bn": "হাদীস নেই, অনুমতিও নেই"
+        },
+        "p": [
+          {
+            "en": "No tafsir read for 7:109, or for the verses on either side of it, attaches a narration from the Prophet ﷺ to this verse, and the gap is better reported than filled. The long account of these scenes that Ibn Kathir calls the hadith al-futun reaches at-Tabari and Ibn Kathir through Sa'id ibn Jubayr from Ibn Abbas (RA). It is a Companion's report about the story, not a saying of the Prophet ﷺ, and it is used above only for Pharaoh leaving his throne, under its narrator's name.",
+            "bn": "৭:১০৯ বা এর আগে-পরের আয়াতগুলোর জন্য পড়া কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। এই শূন্যতা ভরাট করার চেয়ে সোজাসুজি জানিয়ে দেওয়াই ভালো। এসব দৃশ্যের যে দীর্ঘ বিবরণকে ইবনু কাসীর হাদীসুল ফুতূন বলেন, তা তাবারী ও ইবনু কাসীরের কাছে পৌঁছেছে সাঈদ ইবনু জুবায়রের সূত্রে ইবনু আব্বাস (রাঃ) থেকে। এটি কাহিনি সম্পর্কে একজন সাহাবীর বর্ণনা, নবী ﷺ-এর বাণী নয়। ওপরে এ থেকে শুধু ফেরাউনের সিংহাসন ছেড়ে নেমে পড়ার কথাটা নেওয়া হয়েছে, তাও বর্ণনাকারীর নাম উল্লেখ করে।"
+          },
+          {
+            "en": "The verse describes the conduct of one court, at one hour, toward one prophet. Musa (AS) did nothing in it but what he was sent to do: he was asked for a sign and he gave two. The word sorcerer was the chiefs' word, and the Qur'an reports it as theirs. The verse describes what the text describes and licenses nothing against any living person or community, whether a nation, a people, or a reader's opponents. Its mirror is turned toward the reader, who is also capable of renaming what he would rather not answer.",
+            "bn": "আয়াতটি বর্ণনা করে একটি দরবারের আচরণ, একটি নির্দিষ্ট মুহূর্তে, একজন নবীর সামনে। মূসা (আঃ) এখানে কেবল সেটুকুই করেছেন, যার জন্য তাঁকে পাঠানো হয়েছিল। তাঁর কাছে নিদর্শন চাওয়া হয়েছিল, তিনি দিয়েছেন দুটি। যাদুকর শব্দটা প্রধানদের, আর কুরআন সেটাকে তাদের কথা হিসেবেই উদ্ধৃত করেছে। আয়াত শুধু সেটুকুই বর্ণনা করে, যা পাঠে আছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না, হোক সে কোনো জাতি, কোনো জনগোষ্ঠী, কিংবা পাঠকের প্রতিপক্ষ। আয়নাটা ঘোরানো পাঠকের দিকেই, কারণ যে কথার জবাব দিতে মন চায় না, তাকে নতুন নাম দিয়ে সরিয়ে রাখার সামর্থ্য তারও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Name Replaces an Answer",
+          "bn": "জবাবের বদলে একটা নাম"
+        },
+        "p": [
+          {
+            "en": "The chiefs did not say the staff was still a staff. They said what it was, and the naming did the refusing for them. Many refusals of truth look like this. Nobody argues with the evidence; it is filed. A sincere person becomes naive, a hard verse becomes old-fashioned, a fair correction becomes jealousy. Each label lets the listener stay where he stood, and each costs less than an answer. The test: did the label come after I weighed the thing, or instead of weighing it?",
+            "bn": "প্রধানেরা বলেনি যে লাঠিটা লাঠিই রয়ে গেছে। তারা বলে দিল সেটা কী, আর নামকরণটাই তাদের হয়ে প্রত্যাখ্যানের কাজ সেরে দিল। সত্যকে ফিরিয়ে দেওয়ার অনেক ঘটনাই এমন। প্রমাণের সঙ্গে কেউ তর্ক করে না, শুধু একটা খোপে ভরে রাখে। আন্তরিক মানুষটা হয়ে যান সরল-সোজা, কঠিন আয়াতটা সেকেলে, ন্যায্য সংশোধনটা হিংসা। প্রতিটি তকমা শ্রোতাকে আগের জায়গায় দাঁড়িয়ে থাকতে দেয়, আর জবাব দেওয়ার চেয়ে প্রতিটিরই দাম কম। পরীক্ষাটা এই: তকমাটা কি জিনিসটা ওজন করার পরে এসেছে, নাকি ওজন করার বদলে?"
+          },
+          {
+            "en": "The second habit is quieter. The chiefs praised what they were rejecting: skilled. Admiration can be a way of keeping a truth at arm's length, honoured and harmless. Beneath both habits lay the fear the next verse names, the land. As-Sa'di's phrase is worth carrying away: they were dazzled, and they did not believe. Being impressed is not the same as being moved. Ask what you would stand to lose if the thing you admire were true, and whether that loss is what is really answering for you.",
+            "bn": "দ্বিতীয় অভ্যাসটা আরও নিঃশব্দ। প্রধানেরা যা প্রত্যাখ্যান করছিল, তারই প্রশংসা করল: দক্ষ। মুগ্ধতাও সত্যকে দূরে ঠেকিয়ে রাখার এক উপায় হতে পারে, সম্মানের আসনে বসানো অথচ নির্বিষ। দুই অভ্যাসের নিচেই ছিল সেই ভয়, যার নাম পরের আয়াতে আছে: দেশ। সাদীর কথাটা মনে রাখার মতো: তারা হতবাক হয়েছিল, তবু ঈমান আনেনি। মুগ্ধ হওয়া আর বদলে যাওয়া এক জিনিস নয়। নিজেকে জিজ্ঞেস করুন, যা আপনাকে মুগ্ধ করে তা সত্য হলে আপনার কী হারাতে হতো। আর সেই হারানোর ভয়ই আসলে আপনার হয়ে জবাব দিচ্ছে কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "7:111": {
     "sections": [
       {

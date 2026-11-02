@@ -20771,6 +20771,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Sleep and busy mornings are where people feel safest and look up least; keep a little fear awake in your ordinary hours, and let ease make you grateful rather than careless.",
     "lessonBn": "ঘুম আর ব্যস্ত সকালেই মানুষ সবচেয়ে নিশ্চিন্ত থাকে, মাথা তোলে সবচেয়ে কম। সাধারণ সময়গুলোতেও একটু ভয় জাগিয়ে রাখুন, আর স্বস্তি যেন আপনাকে গাফিল না করে শোকরগুজার করে।"
+  },
+  "7:109": {
+    "reflectionEn": "Musa (AS) has thrown his staff and it has become a serpent plain to see. He has drawn out his hand and it shines white for everyone watching. The chiefs of Pharaoh's people do not deny what they saw. They name it instead: this is a skilled sorcerer. One word moves the evidence out of a category that would make demands of them and into one they already know how to handle. They even grant him skill, as though praise could stand in for an answer. Then they turn to what frightens them most, losing their land, and ask what is to be done. When something true unsettles me, do I weigh it, or do I file it under a label that lets me keep walking?",
+    "reflectionBn": "মূসা (আঃ) লাঠি ছুড়েছেন, আর তা হয়ে গেছে স্পষ্ট এক অজগর। হাত বের করেছেন, আর তা উপস্থিত সবার চোখের সামনে সাদা হয়ে ঝলমল করছে। ফেরাউনের জাতির প্রধানেরা যা দেখেছে তা অস্বীকার করে না। তারা বরং এর একটা নাম দিয়ে দেয়: এ তো এক দক্ষ যাদুকর। একটিমাত্র শব্দে প্রমাণটা সরে যায় এমন জায়গা থেকে, যা তাদের কাছে কিছু দাবি করত। গিয়ে পড়ে এমন খোপে, যা সামলানো তাদের জানা। তারা তাঁর দক্ষতাও মেনে নেয়, যেন প্রশংসা দিয়েই জবাবের কাজ সারা যায়। তারপর ফেরে নিজেদের সবচেয়ে বড় ভয়ের দিকে, দেশ হারানোর ভয়, আর জানতে চায় এখন কী করা উচিত। সত্য কিছু যখন আমাকে নাড়া দেয়, আমি কি তা ওজন করে দেখি, নাকি এমন একটা তকমা লাগিয়ে দিই, যাতে নিশ্চিন্তে পাশ কাটিয়ে চলে যাওয়া যায়?",
+    "pointsEn": [
+      "What is one truth I have set aside by giving it a name rather than by answering it?",
+      "When an argument genuinely impresses me, do I let it move me, or do I admire it and carry on unchanged?",
+      "Which fear of losing my place, my standing or my comfort has quietly decided what I am willing to see?",
+      "When I ask others what I should do, am I looking for the right course, or for people to agree with a decision already made?",
+      "Whose good work have I belittled with a label so that I would not have to learn anything from it?"
+    ],
+    "pointsBn": [
+      "এমন কোন সত্য আছে, যার জবাব না দিয়ে শুধু একটা নাম দিয়েই আমি তাকে সরিয়ে রেখেছি?",
+      "কোনো যুক্তি সত্যিই মুগ্ধ করলে আমি কি তাকে নিজের ভেতরে কাজ করতে দিই, নাকি তারিফ করে আগের মতোই চলতে থাকি?",
+      "জায়গা, মর্যাদা বা আরাম হারানোর কোন ভয় চুপিচুপি ঠিক করে দিয়েছে, আমি কী দেখতে রাজি আর কী নয়?",
+      "কী করব জানতে যখন অন্যদের জিজ্ঞেস করি, তখন কি সঠিক পথ খুঁজি, নাকি আগেই নেওয়া সিদ্ধান্তে সায় দেওয়ার লোক খুঁজি?",
+      "কার ভালো কাজকে একটা তকমা দিয়ে ছোট করেছি, যাতে তার কাছ থেকে কিছু শিখতে না হয়?"
+    ],
+    "lessonEn": "Answer evidence by weighing it, not by renaming it; a label that spares you the truth also spares you its guidance.",
+    "lessonBn": "প্রমাণের জবাব দিন তা ওজন করে, নতুন নাম দিয়ে নয়। যে তকমা আপনাকে সত্য থেকে রেহাই দেয়, তা সেই সত্যের হিদায়াত থেকেও আপনাকে বঞ্চিত করে।"
   }
 };
 
