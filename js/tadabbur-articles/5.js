@@ -739,6 +739,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:21": {
+    "sections": [
+      {
+        "h": {
+          "en": "Favour Counted Before the Order",
+          "bn": "আদেশের আগে নিয়ামতের হিসাব"
+        },
+        "p": [
+          {
+            "en": "Ya qawmi udkhulu al-arda al-muqaddasata allati kataba Allahu lakum: O my people, enter the holy land which Allah has written for you, and do not turn back on your heels, or you will return as losers. At-Tabari reads the verse as Allah's report of what Musa (AS) said to his people of the Children of Israel, and he adds that Musa gave the order on Allah's own order to him. The words are a prophet passing on a command he had received, not a leader's plan of his own.",
+            "bn": "ইয়া কওমি উদখুলুল আরদাল মুকাদ্দাসাতাল্লাতি কাতাবাল্লাহু লাকুম: হে আমার কওম, আল্লাহ তোমাদের জন্য যে পবিত্র ভূমি লিখে রেখেছেন তাতে প্রবেশ করো, আর পেছনে ফিরে যেও না, তাহলে ক্ষতিগ্রস্ত হয়ে ফিরবে। তাবারীর মতে আয়াতটি আল্লাহর দেওয়া খবর: মূসা (আঃ) বনী ইসরাঈলের মধ্যে তাঁর কওমকে কী বলেছিলেন। তিনি আরও বলেন, মূসা (আঃ) এ আদেশ দিয়েছিলেন আল্লাহর আদেশ পেয়েই। অর্থাৎ এখানে একজন নবী প্রাপ্ত হুকুম পৌঁছে দিচ্ছেন। নিজের বানানো কোনো পরিকল্পনা এটা নয়।"
+          },
+          {
+            "en": "The order does not come first. In 5:20 Musa (AS) reminds them of Allah's favour: prophets among them, kingship, and gifts given to no one else of their time; Ma'arif al-Qur'an calls that verse his introduction to the command. Ibn Kathir supplies the background: the land had been theirs in the days of Ya'qub, who moved to Egypt in Yusuf's time; coming out with Musa, they found it held by a mighty people of the Amalekites. Musa ordered them in, and promised them victory.",
+            "bn": "আদেশটা প্রথমে আসেনি। ৫:২০ আয়াতে মূসা (আঃ) আগে তাদের আল্লাহর নিয়ামত মনে করিয়ে দেন: তাদের মধ্যে নবী, তাদের বাদশাহি, আর এমন দান যা সে যুগে আর কেউ পায়নি। মাআরিফুল কুরআন ওই আয়াতকে আদেশের ভূমিকা বলেছে। পটভূমিটা দেন ইবন কাসীর। ইয়াকূব (আঃ)-এর সময়ে ভূমিটা তাদের হাতেই ছিল, পরে ইউসুফ (আঃ)-এর যুগে তিনি পরিবার নিয়ে মিসরে চলে যান। মূসা (আঃ)-এর সঙ্গে বেরিয়ে এসে তারা দেখল, আমালেকা গোত্রের এক প্রবল জাতি সেটা দখল করে আছে। মূসা (আঃ) তাদের প্রবেশের আদেশ দিলেন, সঙ্গে বিজয়ের সুসংবাদও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purified Ground, Blessed Ground",
+          "bn": "পাক ভূমি, বরকতের ভূমি"
+        },
+        "p": [
+          {
+            "en": "Al-muqaddasah comes from the root q-d-s, holiness and purity. Ibn Kathir, as-Sa'di and the Muyassar all gloss it with one word, al-mutahharah, the purified. At-Tabari records Mujahid's gloss, al-mubarakah, the blessed, and puts the two together: purified and blessed. Ma'arif al-Qur'an gives a reason for the name: the land is called holy because it was home to Allah's blessed prophets.",
+            "bn": "আল-মুকাদ্দাসা শব্দটি এসেছে ক-দ-স ধাতু থেকে, যার মধ্যে আছে পবিত্রতা ও পাক হওয়ার অর্থ। ইবন কাসীর, সা'দী আর মুয়াসসার তিনজনই একটিমাত্র শব্দে এর অর্থ দেন: আল-মুতাহহারা, পাক করা ভূমি। তাবারী মুজাহিদের ব্যাখ্যা আনেন: আল-মুবারাকা, বরকতময়। তারপর দুটি অর্থ এক করে বলেন: পাক ও বরকতময়। মাআরিফুল কুরআন নামের কারণও বলে: এ ভূমিতে আল্লাহর বরকতময় নবীরা বাস করেছেন, তাই একে পবিত্র বলা হয়।"
+          },
+          {
+            "en": "Some commentaries add reports about how the land became holy. Al-Baghawi carries one from al-Kalbi: Ibrahim (AS) climbed a mountain of Lebanon and was told that whatever his sight reached was holy, an inheritance for his descendants; Ma'arif al-Qur'an mentions a similar narration. Al-Baghawi also quotes Ka'b: he found in Allah's revealed Book that al-Sham is Allah's treasure on His earth. These are reports under their narrators' names. The verse itself says two things: the land is holy, and it was written.",
+            "bn": "কোনো কোনো তাফসীরে ভূমিটা কীভাবে পবিত্র হলো, সে বিষয়ে কিছু বর্ণনা আছে। বাগাভী কালবী থেকে একটি আনেন: ইবরাহীম (আঃ) লেবাননের এক পাহাড়ে উঠলেন, আর তাঁকে বলা হলো, তোমার দৃষ্টি যত দূর যায় সবই পবিত্র, তোমার বংশধরদের মীরাস। মাআরিফুল কুরআনেও এরকম একটি বর্ণনার উল্লেখ আছে। বাগাভী কা'বের এ কথাও আনেন যে, তিনি আল্লাহর নাযিলকৃত কিতাবে পেয়েছেন, শাম পৃথিবীতে আল্লাহর ধনভাণ্ডার। এগুলো বর্ণনাকারীদের নামেই বর্ণিত। আয়াত নিজে বলে দুটি কথা: ভূমিটা পবিত্র, আর তা লিখে রাখা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Land, by Whose Account",
+          "bn": "কোন ভূমি, কার মতে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens the question plainly: the people of interpretation differed over which land is meant. Mujahid said al-Tur and what surrounds it, and at-Tabari carries the same from Ibn Abbas in a chain through Mujahid. Qatada said al-Sham. Ibn Zayd and as-Suddi said Ariha, Jericho, and 'Ikrimah reports that from Ibn Abbas too. A further view, which at-Tabari introduces only with the words it was said, gives Damascus, Palestine and part of al-Urdunn.",
+            "bn": "তাবারী প্রশ্নটা সোজাসুজি তোলেন: কোন ভূমির কথা বলা হয়েছে, তা নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ হয়েছে। মুজাহিদ বলেছেন, তূর পাহাড় আর তার আশপাশ। একই কথা তাবারী মুজাহিদের সূত্রে ইবন আব্বাস (রাঃ) থেকেও আনেন। কাতাদা বলেছেন, শাম। ইবন যায়দ আর সুদ্দী বলেছেন, আরীহা, অর্থাৎ জেরিকো। ইকরিমাও ইবন আব্বাস (রাঃ) থেকে এ কথা বর্ণনা করেন। আরেকটি মত তাবারী আনেন শুধু 'বলা হয়েছে' বলে: দামেস্ক, ফিলিস্তিন আর উরদুনের কিছু অংশ।"
+          },
+          {
+            "en": "Al-Baghawi lists the views again with some names changed: ad-Dahhak's Iliya and Bayt al-Maqdis, al-Kalbi for Damascus and Palestine, and Qatada for all of al-Sham. The Muyassar names Bayt al-Maqdis and its surroundings. Ibn Kathir questions the Jericho view: Jericho was not the city they were sent to take, nor on their road out of Egypt, unless Ariha means the land of Bayt al-Maqdis, as as-Suddi said in at-Tabari's report, rather than the known town east of it.",
+            "bn": "বাগাভী মতগুলো আবার তালিকা করেন, কিছু নাম বদলে। দাহহাকের মতে ঈলিয়া ও বায়তুল মাকদিস। দামেস্ক আর ফিলিস্তিনের মতটি তিনি দেন কালবীর নামে, আর কাতাদার মত বলেন গোটা শাম। মুয়াসসার বলে, বায়তুল মাকদিস আর তার আশপাশ। জেরিকোর মত নিয়ে ইবন কাসীর আপত্তি তোলেন। যে শহর জয়ের জন্য তাদের পাঠানো হয়েছিল তা জেরিকো নয়, আর মিসর থেকে আসার পথেও তা পড়ে না। তবে আরীহা বলতে যদি বায়তুল মাকদিসের ভূমি বোঝানো হয়, যেমন তাবারীর বর্ণনায় সুদ্দী বলেছেন, তাহলে আলাদা কথা। তখন পূর্ব দিকের পরিচিত শহরটি উদ্দেশ্য নয়।"
+          },
+          {
+            "en": "At-Tabari's own position is a refusal to choose. The soundest thing to say, he writes, is that it is the holy land, as the prophet Musa said, because naming one land rather than another can be known only by a report, and no report allows certain testimony. He adds one boundary, citing the agreement of commentators, historians and scholars of reports: it lies between the Euphrates and the 'Arish of Egypt. Ma'arif al-Qur'an sees little real contradiction: some described part of al-Sham, others the whole.",
+            "bn": "তাবারীর নিজের মত হলো বাছাই না করা। তিনি লেখেন, সবচেয়ে সঠিক কথা এটুকুই: এটা সেই পবিত্র ভূমি, আল্লাহর নবী মূসা (আঃ) যেমন বলেছেন। কারণ, এই ভূমি, ওই ভূমি নয়, এমন নির্দিষ্ট করা কেবল খবরের মাধ্যমেই জানা যায়, আর নিশ্চিত সাক্ষ্য দেওয়ার মতো কোনো খবর নেই। তবে একটা সীমা তিনি টানেন, ব্যাখ্যাকার, সীরাতবিদ আর বর্ণনাবিশারদদের ঐকমত্যের কথা বলে: ভূমিটা ফোরাত আর মিসরের আরীশের মাঝখানেই। মাআরিফুল কুরআন এসব মতে বড় কোনো বিরোধ দেখে না। কেউ শামের একটা অংশের কথা বলেছেন, কেউ পুরোটার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Readings of Kataba",
+          "bn": "কাতাবা শব্দের চার পাঠ"
+        },
+        "p": [
+          {
+            "en": "Allati kataba Allahu lakum: which Allah has written for you. At-Tabari reads kataba as a decree: Allah fixed in the Preserved Tablet that the land would be their dwellings, not the tyrants' who held it; al-Baghawi gives this first. Ibn Ishaq, in both, reads a gift: which Allah has granted you. As-Suddi reads a command: which Allah has ordered you to enter. Qatada goes further, and both carry his words: they were commanded to it as they were commanded to prayer.",
+            "bn": "আল্লাতি কাতাবাল্লাহু লাকুম: যা আল্লাহ তোমাদের জন্য লিখে রেখেছেন। তাবারী কাতাবাকে তাকদীর হিসেবে পড়েন: আল্লাহ লাওহে মাহফূযে স্থির করে রেখেছেন যে ভূমিটা হবে তাদের বসতি, দখলদার জাব্বারদের নয়। বাগাভীও প্রথমে এ অর্থই দেন। ইবন ইসহাকের পাঠে এটা দান: যা আল্লাহ তোমাদের দিয়েছেন। দুজনের কাছেই তাঁর কথাটি আছে। সুদ্দীর পাঠে এটা আদেশ: যাতে প্রবেশের হুকুম আল্লাহ তোমাদের দিয়েছেন। কাতাদা আরও এক ধাপ এগিয়ে বলেন, আর দুজনেই তাঁর কথা এনেছেন: নামাযের যেমন হুকুম হয়েছিল, এরও তেমন হুকুম হয়েছিল।"
+          },
+          {
+            "en": "At-Tabari's version of Qatada's saying lists prayer, zakah, hajj and 'umrah, and al-Baghawi explains it as an obligation laid on them. A fourth reading comes from Ibn Kathir: which Allah promised you on the tongue of your father Isra'il, that it is the inheritance of those among you who believe. As-Sa'di reads the clause as news to settle their hearts, if they were believers who trusted Allah's word, that He had written for them both the entry and the victory. Decree, gift, command, promise: which of these a reader hears shapes how 5:26 will sound.",
+            "bn": "তাবারীর বর্ণনায় কাতাদার কথায় আছে নামায, যাকাত, হজ আর উমরা। বাগাভী এর ব্যাখ্যা দেন: তোমাদের উপর তা ফরয করা হয়েছিল। চতুর্থ পাঠটি ইবন কাসীরের: যার ওয়াদা আল্লাহ তোমাদের পিতা ইসরাঈলের মুখে দিয়েছিলেন যে, তোমাদের মধ্যে যারা ঈমান আনবে, ভূমিটা তাদের মীরাস। সা'দী একে পড়েন মন শান্ত করার খবর হিসেবে। তারা যদি আল্লাহর কথায় বিশ্বাসী মু'মিন হয়, তবে জেনে রাখুক, প্রবেশ আর শত্রুর উপর বিজয় দুটোই আল্লাহ তাদের জন্য লিখে রেখেছেন। তাকদীর, দান, আদেশ, ওয়াদা: পাঠক কোনটা শোনেন, তার উপর নির্ভর করে ৫:২৬ তার কানে কেমন বাজবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Written for Them, Yet Withheld",
+          "bn": "লেখা হলো, তবু আটকে রইল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the objection himself. How can He say which Allah has written for you, when they did not enter it, by His words in 5:26, then it is forbidden to them? How can the land be fixed in the Preserved Tablet as their dwelling, and its dwelling also be forbidden to them? Whoever reads kataba as a decree meets this question at once, and at-Tabari, who reads it so, answers it.",
+            "bn": "আপত্তিটা তাবারী নিজেই তোলেন। আল্লাহ কীভাবে বলেন, যা তিনি তোমাদের জন্য লিখে রেখেছেন, অথচ তারা সেখানে প্রবেশ করেনি? ৫:২৬ আয়াতেই তো বলা হয়েছে, তা তাদের জন্য নিষিদ্ধ। ভূমিটা লাওহে মাহফূযে তাদের বসতি হিসেবে লেখা, আবার সেখানে বসবাস তাদের জন্য হারাম, এ দুটো একসঙ্গে কীভাবে হয়? কাতাবাকে যিনি তাকদীর অর্থে পড়েন, তিনি এ প্রশ্নের সামনে সঙ্গে সঙ্গেই পড়েন। তাবারী নিজে সে অর্থেই পড়েছেন, তাই উত্তরও দিয়েছেন।"
+          },
+          {
+            "en": "His first answer: the land was written for the Children of Israel as a home, and they did live in it and it became theirs. Musa (AS) meant that Allah had written it for the Children of Israel, and those he addressed were of them; he did not mean it was written for those very individuals. His second answer he also accepts as sound: the wording is general and the meaning particular, since Yusha' and Kalib entered, and both were among those addressed. Ibn Ishaq, he notes, read the clause his way.",
+            "bn": "তাঁর প্রথম উত্তর: ভূমিটা বনী ইসরাঈলের জন্য বাসস্থান হিসেবে লেখা হয়েছিল, আর তারা সেখানে বাস করেছে, ভূমিটা তাদের হয়েছে। মূসা (আঃ) বোঝাতে চেয়েছিলেন, আল্লাহ এটা বনী ইসরাঈলের জন্য লিখেছেন, আর যাদের তিনি সম্বোধন করছিলেন তারা তাদেরই লোক। সামনে দাঁড়ানো ঠিক ওই মানুষগুলোর নামে লেখা হয়েছে, এমন অর্থ তিনি করেননি। দ্বিতীয় উত্তরটাকেও তাবারী সঠিক বলে মানেন: শব্দ সাধারণ, উদ্দেশ্য বিশেষ। কারণ ইউশা আর কালেব প্রবেশ করেছিলেন, আর তাঁরা দুজনই ছিলেন সম্বোধিতদের মধ্যে। তিনি জানান, ইবন ইসহাকও আয়াতটি এভাবে পড়েছেন।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di do not pose at-Tabari's question here, but their wording carries a condition of its own. Ibn Kathir's promise is the inheritance of those among you who believe, and as-Sa'di's good news is for them if they were believers. Ibn Kathir then calls the forty years a punishment for their neglect of Allah's command. In none of these readings is Allah's word broken. The land stayed written; what was withheld, for a set time, was a generation's entry into it.",
+            "bn": "ইবন কাসীর আর সা'দী এখানে তাবারীর প্রশ্নটা তোলেন না। তবে তাঁদের ভাষার মধ্যেই একটা শর্ত আছে। ইবন কাসীরের ওয়াদা হলো, তোমাদের মধ্যে যারা ঈমান আনবে তাদের মীরাস। আর সা'দীর সুসংবাদ তাদের জন্য, যদি তারা মু'মিন হয়। এরপর ইবন কাসীর চল্লিশ বছরকে বলেন আল্লাহর হুকুমে তাদের অবহেলার শাস্তি। এর কোনো পাঠেই আল্লাহর কথা ভাঙেনি। ভূমিটা লেখাই রইল। নির্দিষ্ট সময়ের জন্য আটকে গেল এক প্রজন্মের সেখানে ঢোকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Backward on Their Heels",
+          "bn": "গোড়ালির উপর পিছু হটা"
+        },
+        "p": [
+          {
+            "en": "Wa la tartaddu 'ala adbarikum: and do not turn back on your heels. At-Tabari: do not go back walking backward to what lies behind you; rather go forward, imdu, to Allah's command, onto the people He ordered you to fight, for He has written the land for you. Al-Qurtubi gives two glosses, do not turn back from obedience to Me and from fighting the tyrants, or do not turn from obeying Allah to disobeying Him, and says the meaning is one. Ibn Kathir: do not shrink back from jihad.",
+            "bn": "ওয়া লা তারতাদ্দু আলা আদবারিকুম: আর পেছনে ফিরে যেও না। তাবারীর ব্যাখ্যা: উল্টো পায়ে পিছু হেঁটে যা পেছনে ফেলে এসেছ সেদিকে ফিরো না। বরং এগিয়ে যাও, ইমদূ, আল্লাহর আদেশের দিকে, সেই লোকদের দিকে যাদের সঙ্গে লড়াইয়ের হুকুম তিনি দিয়েছেন, কারণ ভূমিটা তিনি তোমাদের জন্য লিখে রেখেছেন। কুরতুবী দুটি অর্থ দেন। এক, আমার আনুগত্য আর জাব্বারদের সঙ্গে লড়াইয়ের হুকুম থেকে ফিরে যেও না। দুই, আল্লাহর আনুগত্য ছেড়ে নাফরমানির দিকে ফিরো না। তাঁর মতে অর্থ একই। ইবন কাসীর বলেন: জিহাদ থেকে পিছিয়ে যেও না।"
+          },
+          {
+            "en": "Fa-tanqalibu khasirin: or you will return as losers, which at-Tabari glosses as disappointed and ruined. Does a man earn loss by not entering a land given to him, he asks? Yes, he answers, because Allah had commanded them to fight the disbelievers in it and made entry an obligation: they lost by abandoning the obligation of jihad, and by opposing His command when they told their prophet they would never enter. As-Sa'di names the losses differently: this world, through the victory missed, and the next, through reward lost and punishment earned.",
+            "bn": "ফাতানকালিবূ খাসিরীন: তাহলে ক্ষতিগ্রস্ত হয়ে ফিরবে। তাবারীর ব্যাখ্যায়, ব্যর্থ আর ধ্বংসপ্রাপ্ত হয়ে। তারপর তিনি প্রশ্ন তোলেন, নিজেকে দেওয়া কোনো ভূমিতে না ঢুকলেই কি কেউ ক্ষতির যোগ্য হয়? তাঁর উত্তর, হ্যাঁ। আল্লাহ তাদের হুকুম দিয়েছিলেন সেখানকার কাফিরদের সঙ্গে লড়তে, আর প্রবেশ করাকে ফরয করেছিলেন। তারা ক্ষতিগ্রস্ত হলো জিহাদের ফরয ছেড়ে দিয়ে, আর নবীকে 'আমরা কখনো ঢুকব না' বলে আল্লাহর আদেশের বিরোধিতা করে। সা'দী ক্ষতির নাম দেন অন্যভাবে: দুনিয়াতে হাতছাড়া বিজয়, আখিরাতে হারানো সওয়াব আর নাফরমানির প্রাপ্য শাস্তি।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to 5:21 itself. Ibn Kathir, on 5:24, cites al-Bukhari's report from Abdullah ibn Mas'ud, and in Sahih al-Bukhari 4609 it reads: On the day of Badr, al-Miqdad said, \"O Allah's Messenger (ﷺ)! We do not say to you as the children of Israel said to Moses, 'Go you and your Lord and fight you two; we are sitting here,' but (we say), 'Proceed, and we are with you.'\" That seemed to delight Allah's Messenger (ﷺ) greatly. The word al-Miqdad chose, imdi, proceed, is the very verb at-Tabari uses for the opposite of turning back.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই সরাসরি ৫:২১-এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। ইবন কাসীর ৫:২৪-এর আলোচনায় আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বুখারীর বর্ণনা আনেন। সহীহ বুখারী ৪৬০৯-এ তা এভাবে আছে: বদরের দিন মিকদাদ (রাঃ) বললেন, হে আল্লাহর রসূল ﷺ, বনী ইসরাঈল মূসাকে যেমন বলেছিল, তুমি আর তোমার রব যাও, তোমরা দুজন লড়াই করো, আমরা এখানে বসে রইলাম, আমরা আপনাকে তেমন বলি না। বরং আমরা বলি, এগিয়ে চলুন, আমরা আপনার সঙ্গে আছি। এতে আল্লাহর রসূল ﷺ যেন খুব খুশি হলেন। মিকদাদ (রাঃ) যে শব্দটি বেছে নিলেন, ইমদি, এগিয়ে চলুন, তাবারী পিছু হটার বিপরীতে ঠিক সেই ক্রিয়াটিই ব্যবহার করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men at the Gate",
+          "bn": "ফটকের সামনে দুজন"
+        },
+        "p": [
+          {
+            "en": "The answer in 5:22 names the obstacle: inside is a people jabbarin, of overpowering strength, and we will never enter until they leave. Ibn Kathir gives their excuse as a strong, fierce people of great build whom they felt unable to face. Some commentaries carry much longer accounts of the inhabitants' size and the city's vastness; Ma'arif al-Qur'an calls the latter unusual statements. They are reports, not the verse, and nothing here rests on them.",
+            "bn": "৫:২২ আয়াতের জবাবে বাধাটার নাম আছে: সেখানে আছে এক জাব্বার কওম, প্রবল শক্তিধর, ওরা বের না হওয়া পর্যন্ত আমরা কখনো ঢুকব না। ইবন কাসীর তাদের অজুহাতটা ব্যাখ্যা করেন এভাবে: বিশাল দেহের এক শক্তিশালী, হিংস্র জাতি, যাদের মোকাবিলার সাধ্য তারা নিজেদের মধ্যে দেখেনি। কোনো কোনো তাফসীরে সেখানকার লোকদের আকার আর শহরের বিশালতা নিয়ে অনেক লম্বা বিবরণ আছে। শহরের বিবরণগুলোকে মাআরিফুল কুরআন অস্বাভাবিক বর্ণনা বলেছে। এগুলো বর্ণনা মাত্র, আয়াত নয়, আর এ লেখার কিছুই এগুলোর উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "Then 5:23: two men among those who feared, whom Allah had favoured, said: enter upon them through the gate, for once you are in, you will prevail, and rely on Allah if you are believers. Ibn Kathir names them Yusha' son of Nun and Kalib son of Yufna, from Ibn Abbas, Mujahid, 'Ikrimah, as-Suddi and others; at-Tabari's second answer names the same two as having entered. Their counsel ties the command to trust in Allah, and Ibn Kathir notes that it did not help the people at all.",
+            "bn": "তারপর ৫:২৩: যারা ভয় করত তাদের মধ্যে দুজন লোক, যাদের উপর আল্লাহ অনুগ্রহ করেছিলেন, বলল: ফটক দিয়ে ওদের উপর ঢুকে পড়ো, একবার ঢুকলেই তোমরা জয়ী হবে। আর তোমরা মু'মিন হলে আল্লাহর উপর ভরসা করো। ইবন কাসীর এই দুজনের নাম বলেন ইউশা ইবন নূন আর কালেব ইবন ইউফান্না, ইবন আব্বাস (রাঃ), মুজাহিদ, ইকরিমা, সুদ্দী ও আরও অনেকের সূত্রে। তাবারীর দ্বিতীয় উত্তরেও প্রবেশকারী হিসেবে এই দুজনেরই নাম আছে। তাঁদের পরামর্শ আদেশটাকে আল্লাহর উপর ভরসার সঙ্গে জুড়ে দেয়। ইবন কাসীর জানান, এ উপদেশ কওমের কোনো কাজে আসেনি।"
+          },
+          {
+            "en": "Musa (AS) carried the command faithfully, and the verses that follow show him turning to his Lord in prayer, with no fault laid on him. The refusal in 5:22 and 5:24 is conduct the verses describe, of one people at one moment. The verse describes what the text describes and licenses nothing against any living person or community. Nor does it settle any modern question of land or state: the commentators named places to explain where Musa's people were sent, and drew no map for later centuries. This article draws none either.",
+            "bn": "মূসা (আঃ) আদেশটা বিশ্বস্তভাবে পৌঁছে দিয়েছেন। পরের আয়াতগুলোতে দেখা যায় তিনি দোয়া নিয়ে রবের দিকে ফিরছেন, আর তাঁর উপর কোনো দোষ চাপানো হয়নি। ৫:২২ আর ৫:২৪-এর অস্বীকৃতি একটি নির্দিষ্ট সময়ের একটি কওমের আচরণ, আয়াত যেভাবে বর্ণনা করেছে। আয়াত শুধু ততটুকুই বলে যতটুকু তার ভাষায় আছে, আর আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। আধুনিক কোনো ভূমি বা রাষ্ট্রের প্রশ্নেরও মীমাংসা এ আয়াত করে না। মুফাসসিরগণ জায়গার নাম নিয়েছেন মূসা (আঃ)-এর কওমকে কোথায় পাঠানো হয়েছিল তা বোঝাতে। পরের শতাব্দীগুলোর জন্য কোনো মানচিত্র তাঁরা আঁকেননি। এ লেখাও আঁকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Facing Forward With What Is Given",
+          "bn": "যা পেয়েছি তা নিয়ে সামনে"
+        },
+        "p": [
+          {
+            "en": "Begin where Musa (AS) began: with the favour already given. Before deciding that the next step is too hard, count what Allah has already placed in your hands: faith, people, means, years. A hard duty feels different when it arrives after gratitude; it reads as the continuation of a gift, not a demand from nowhere. Name the one thing you are putting off, and write beside it three things you were given that bear on it.",
+            "bn": "শুরু করুন সেখান থেকে, মূসা (আঃ) যেখান থেকে শুরু করেছিলেন: আগেই পাওয়া নিয়ামত দিয়ে। পরের ধাপটাকে খুব কঠিন বলে রায় দেওয়ার আগে গুনে দেখুন আল্লাহ আপনার হাতে আগেই কী কী রেখেছেন: ঈমান, আপনজন, সামর্থ্য, জীবনের বছরগুলো। কঠিন দায়িত্ব শুকরিয়ার পরে এলে অন্যরকম লাগে। তখন তা হঠাৎ চাপানো দাবি মনে হয় না, মনে হয় এক দানেরই ধারাবাহিকতা। যে একটা কাজ পিছিয়ে রাখছেন তার নাম লিখুন, আর পাশে লিখুন এমন তিনটি নিয়ামত যা ওই কাজে লাগে।"
+          },
+          {
+            "en": "Then look at which way you are facing. Qatada set this command beside prayer, and many of our own obligations share its shape: the prayer that keeps slipping, the debt not yet faced, the parent not yet visited, the repentance postponed until we feel ready. The verse calls retreat a loss in itself, in this world and the next as as-Sa'di reads it. Standing still at the edge is rarely neutral; most often we are already backing away without noticing.",
+            "bn": "তারপর দেখুন আপনার মুখ কোন দিকে। কাতাদা এ আদেশকে নামাযের পাশে রেখেছিলেন, আর আমাদের অনেক দায়িত্বের চেহারাও তেমন। যে নামায বারবার ছুটে যায়, যে ঋণের মুখোমুখি এখনো হইনি, যে মা-বাবার কাছে এখনো যাইনি, যে তওবা রেখে দিয়েছি মন তৈরি হওয়ার অপেক্ষায়। আয়াত পিছু হটাকেই ক্ষতি বলেছে, সা'দীর পাঠে দুনিয়াতেও, আখিরাতেও। কিনারায় চুপচাপ দাঁড়িয়ে থাকা যতটা নিরপেক্ষ মনে হয়, আসলে ততটা নয়। বেশির ভাগ সময় টেরও পাই না, অথচ এরই মধ্যে পিছিয়ে যাচ্ছি।"
+          },
+          {
+            "en": "Last, choose your voice. When the people of 5:22 hesitated, two men said go in through the gate and rely on Allah; at Badr al-Miqdad said proceed, and we are with you. Someone near you stands at a door of their own: a friend returning to prayer, a sibling leaving a habit. Be the voice that faces forward with them. And if you are the one at the door, ask Allah for the two men's reliance, and take one step through it this week.",
+            "bn": "শেষে বেছে নিন, আপনার কণ্ঠ কেমন হবে। ৫:২২-এর লোকেরা যখন দ্বিধায়, দুজন মানুষ বলেছিলেন, ফটক দিয়ে ঢুকে পড়ো আর আল্লাহর উপর ভরসা করো। বদরে মিকদাদ (রাঃ) বলেছিলেন, এগিয়ে চলুন, আমরা আপনার সঙ্গে আছি। আপনার কাছেই কেউ নিজের এক দরজার সামনে দাঁড়িয়ে আছে: হয়তো এক বন্ধু আবার নামাযে ফিরছে, এক ভাই কোনো বদভ্যাস ছাড়তে চাইছে। তাদের পাশে সামনে-মুখী কণ্ঠ হোন। আর দরজার সামনে যদি আপনি নিজেই থাকেন, আল্লাহর কাছে ওই দুজনের মতো ভরসা চান, আর এ সপ্তাহেই একটা পা ভেতরে ফেলুন।"
+          }
+        ]
+      }
+    ]
+  },
   "5:25-26": {
     "sections": [
       {

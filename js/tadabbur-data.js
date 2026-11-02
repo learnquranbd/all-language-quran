@@ -20291,6 +20291,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Bring a need to Allah by His name and Lordship first, ask for what serves faith and those who come after, and remember that a larger gift asks larger gratitude.",
     "lessonBn": "প্রয়োজন নিয়ে আল্লাহর কাছে গেলে আগে তাঁর নাম আর রুবুবিয়াতের কথা বলুন, এমন কিছু চান যা ঈমানের আর পরের প্রজন্মের কাজে লাগে, আর মনে রাখুন, দান যত বড়, শোকরের দাবিও তত বড়।"
+  },
+  "5:21": {
+    "reflectionEn": "Musa (AS) does not open with the command. He first reminds his people of what they already hold: prophets raised among them, kingship given to them, gifts no other people of their time had received. Only then does he say it: enter the holy land Allah has written for you, and do not turn back. The land was assigned before they reached it. What stood between them and it was fear of the people inside, and a choice about which way to face. The verse calls turning back a loss in itself, not a safe place to wait. I have doors like that: a duty I know is mine, a good I keep putting off. Am I walking toward them, or backing away slowly and calling it caution?",
+    "reflectionBn": "মূসা (আঃ) আদেশ দিয়ে কথা শুরু করেননি। আগে তিনি কওমকে মনে করিয়ে দিলেন, তাদের হাতে কী কী আছে: তাদের মধ্যে নবী পাঠানো হয়েছে, তাদের বাদশাহ বানানো হয়েছে, আর এমন সব নিয়ামত দেওয়া হয়েছে যা সে যুগে আর কেউ পায়নি। তারপরই আসে আদেশ: আল্লাহ তোমাদের জন্য যে পবিত্র ভূমি লিখে রেখেছেন, তাতে প্রবেশ করো, আর পেছনে ফিরে যেও না। পৌঁছানোর আগেই ভূমিটা তাদের নামে লেখা হয়ে গিয়েছিল। মাঝখানে দাঁড়িয়ে ছিল ভেতরের লোকদের ভয়, আর কোন দিকে মুখ ফেরাবে সেই সিদ্ধান্ত। আয়াত বলছে, পিছু হটাটাই ক্ষতি। ওটা অপেক্ষা করার নিরাপদ জায়গা নয়। আমারও এমন দরজা আছে: যে দায়িত্ব জানি আমারই, যে ভালো কাজ বারবার পিছিয়ে দিই। আমি কি সেদিকে এগোচ্ছি, নাকি ধীরে ধীরে পিছিয়ে যাচ্ছি আর তার নাম দিচ্ছি সাবধানতা?",
+    "pointsEn": [
+      "What has Allah already given me that I forget to count before I decide the next step is too hard?",
+      "Which good thing do I know is meant for me, while I stand at its edge waiting for the difficulty to leave first?",
+      "When I step back from a duty, do I call it retreat, or do I give it a kinder name?",
+      "If turning back is itself a loss, what have I already lost through the steps I did not take?",
+      "Who around me needs to hear from me this week: go forward, and I am with you?"
+    ],
+    "pointsBn": [
+      "আল্লাহ আমাকে আগেই কী কী দিয়েছেন, যা গুনে দেখতে ভুলে যাই, আর তার আগেই ঠিক করে ফেলি যে পরের ধাপটা বড্ড কঠিন?",
+      "কোন ভালো জিনিসটা জানি আমার জন্যই রাখা, অথচ তার কিনারায় দাঁড়িয়ে অপেক্ষা করছি কবে কঠিনটা নিজে থেকে সরে যাবে?",
+      "কোনো দায়িত্ব থেকে পিছিয়ে এলে আমি কি একে পিছু হটা বলি, নাকি একটা নরম নাম খুঁজে নিই?",
+      "পিছু হটাই যদি ক্ষতি হয়, তবে যে ধাপগুলো ফেলিনি, তাতে এরই মধ্যে কী কী হারিয়েছি?",
+      "এ সপ্তাহে আমার আশপাশে কার এই কথাটা শোনা দরকার: এগিয়ে যাও, আমি তোমার সঙ্গে আছি?"
+    ],
+    "lessonEn": "What Allah has written for you is reached by walking toward it; turning back out of fear is a loss in itself, not a safe place to wait.",
+    "lessonBn": "আল্লাহ আপনার জন্য যা লিখে রেখেছেন, তার দিকে হেঁটেই সেখানে পৌঁছাতে হয়। ভয়ে পিছু হটা নিজেই এক ক্ষতি, অপেক্ষার নিরাপদ জায়গা নয়।"
   }
 };
 
