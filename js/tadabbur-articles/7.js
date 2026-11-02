@@ -1131,6 +1131,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Challenge With No Answer",
+          "bn": "যে প্রশ্নের জবাব ছিল না"
+        },
+        "p": [
+          {
+            "en": "Qul man harrama zinata-llahi allati akhraja li-'ibadih: say, who has forbidden the adornment of Allah which He brought out for His servants, and the good things of provision? 7:31 commanded adornment at every masjid; this verse turns the command into a challenge. At-Tabari names who was being asked: the ignorant among the Arabs who stripped when they circled the House and forbade themselves good provision Allah had made lawful. When they were at a loss for a reply, he says, the Prophet was told to give the answer himself.",
+            "bn": "কুল মান হাররামা যীনাতাল্লাহিল্লাতী আখরাজা লি-ইবাদিহ: বলুন, আল্লাহ তাঁর বান্দাদের জন্য যে সাজসজ্জা বের করেছেন, আর পবিত্র রিযিক, কে তা হারাম করল? ৭:৩১ আয়াতে প্রত্যেক মসজিদে সাজসজ্জা গ্রহণের আদেশ এসেছিল। এ আয়াতে সেই আদেশ রূপ নেয় এক চ্যালেঞ্জে। কাদের প্রশ্ন করা হচ্ছে, তাবারী তা বলে দেন: আরবের সেই অজ্ঞ লোকেরা, যারা কাবাঘর তাওয়াফের সময় কাপড় খুলে ফেলত, আর আল্লাহর হালাল করা পবিত্র রিযিক নিজেদের উপর হারাম করে রাখত। তাঁর ভাষায়, তারা যখন জবাব খুঁজে পেল না, তখন নবী ﷺ-কে বলা হলো জবাবটা নিজেই দিয়ে দিতে।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse as a reply to anyone who forbids a food, a drink or a garment on his own account, with no law from Allah behind it. He then cites a report from at-Tabarani, through Sa'id ibn Jubayr, from Ibn Abbas (RA): Quraysh used to circle the House naked, whistling and clapping, so Allah revealed this verse and they were commanded to wear clothes. Ibn Kathir gives the chain without grading it. The verse describes what those people did and answers it; it licenses nothing against any living person or community.",
+            "bn": "ইবন কাসীরের পাঠে আয়াতটি তাদের জবাব, যারা আল্লাহর দেওয়া কোনো বিধান ছাড়াই নিজের মর্জিমতো কোনো খাবার, পানীয় বা পোশাক হারাম করে। এরপর তিনি তাবারানীর একটি বর্ণনা আনেন, সাঈদ ইবন জুবাইরের সূত্রে, ইবন আব্বাস (রাঃ) থেকে: কুরাইশরা উলঙ্গ হয়ে শিস দিতে দিতে আর হাততালি দিতে দিতে কাবাঘর তাওয়াফ করত। তখন আল্লাহ এ আয়াত নাযিল করেন, আর তাদের কাপড় পরার আদেশ দেওয়া হয়। ইবন কাসীর সনদটি উল্লেখ করেছেন, কোনো মান নির্ধারণ করেননি। আয়াতটি সেই লোকদের কাজের বর্ণনা দেয় আর তার জবাব দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Garments, Meat and Milk",
+          "bn": "পোশাক, গোশত আর দুধ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the people of interpretation agree the zinah here is clothing, worn to adorn and beautify oneself, and differ only over the good things of provision. Some said meat, which they would not eat while in ihram; as-Suddi names al-wadak, the fat. Ibn Zayd said that when they went for Hajj or Umrah they forbade themselves the sheep and all that comes from it: its milk, its ghee and its meat.",
+            "bn": "তাবারী জানান, তাফসীরকারেরা একমত যে এখানে যীনাত মানে পোশাক, যা দিয়ে মানুষ নিজেকে সাজায়। মতভেদ শুধু পবিত্র রিযিক নিয়ে। কেউ বলেছেন গোশত, কারণ ইহরামের অবস্থায় তারা গোশত খেত না। সুদ্দী নাম নিয়েছেন ওয়াদাকের, অর্থাৎ চর্বি। ইবন যায়দ বলেন, হজ্জ বা উমরায় গেলে তারা ছাগল-ভেড়া আর তা থেকে যা কিছু আসে, সবই নিজেদের উপর হারাম করে নিত: দুধ, ঘি, গোশত।"
+          },
+          {
+            "en": "Others widened it. Qatada, in at-Tabari, says it is what the people of the Jahiliyyah forbade themselves from their own herds: the bahirah, the sa'ibah, the wasilah and the ham, the four that 5:103 names and says Allah never appointed. Ibn Abbas (RA) says they forbade things Allah had made lawful, of clothing and more, and links it to 10:59: have you seen what Allah sent down to you of provision, and you made some of it unlawful and some lawful?",
+            "bn": "অন্যরা অর্থটা আরও ছড়িয়ে দিয়েছেন। তাবারীর বর্ণনায় কাতাদা বলেন, এ হলো জাহিলিয়াতের লোকেরা নিজেদের পশুপালের যা কিছু নিজেদের উপর হারাম করেছিল: বাহীরা, সাইবা, ওয়াসীলা আর হাম। এই চারটির নামই ৫:১০৩ আয়াতে এসেছে, আর সেখানে বলা হয়েছে, আল্লাহ এগুলো নির্ধারণ করেননি। ইবন আব্বাস (রাঃ) বলেন, আল্লাহ যা হালাল করেছিলেন, পোশাক ও অন্যান্য জিনিস, তারা তা হারাম করত। এর সঙ্গে তিনি জুড়ে দেন ১০:৫৯: আল্লাহ তোমাদের যে রিযিক দিয়েছেন, তা থেকে তোমরা কিছু হারাম আর কিছু হালাল বানিয়ে নিয়েছ, ভেবে দেখেছ কি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shared Here, Kept There",
+          "bn": "এখানে ভাগাভাগি, সেখানে একান্ত"
+        },
+        "p": [
+          {
+            "en": "Qul hiya lilladhina amanu fi-l-hayati-d-dunya khalisatan yawma-l-qiyamah: say, they are for those who believed in the life of this world, purely theirs on the Day of Resurrection. At-Tabari reads it as two stages. In this world the believers have them while disbelievers share in them too; on the Day they are the believers' alone. He reports the same from Ibn Abbas (RA), ad-Dahhak, al-Hasan, as-Suddi, Ibn Jurayj and Ibn Zayd. Ibn Abbas: the Muslims shared the good things with the disbelievers, and were given them purely on the Day.",
+            "bn": "কুল হিয়া লিল্লাযীনা আমানূ ফিল হায়াতিদ দুনইয়া খালিসাতান ইয়াওমাল কিয়ামাহ: বলুন, এগুলো দুনিয়ার জীবনে ঈমানদারদের জন্য, আর কিয়ামতের দিন একান্তভাবে তাঁদেরই। তাবারী একে দুই ধাপে পড়েন। দুনিয়ায় ঈমানদাররা এগুলো পান, তবে কাফিররাও তাতে ভাগ বসায়। কিয়ামতের দিন এগুলো শুধু ঈমানদারদের। ইবন আব্বাস (রাঃ), দাহহাক, হাসান, সুদ্দী, ইবন জুরাইজ ও ইবন যায়দ থেকেও তিনি একই কথা বর্ণনা করেন। ইবন আব্বাসের কথা: মুসলিমরা পবিত্র জিনিসে কাফিরদের সঙ্গে শরিক ছিল, আর কিয়ামতের দিন সেগুলো একান্তভাবে তাঁদের দেওয়া হলো।"
+          },
+          {
+            "en": "Al-Baghawi spells out a word left unsaid: they are for the believers, and for the polytheists, in this world, but in the Hereafter purely the believers', the polytheists having no share. Ibn Kathir: they were created for whoever believes in Allah and worships Him, even if disbelievers share them physically here; on the Day no disbeliever will share them, for Paradise is forbidden to the disbelievers.",
+            "bn": "বাগাভী মনে করেন, এখানে একটা কথা উহ্য আছে, তিনি সেটা খুলে বলেন: দুনিয়ায় এগুলো ঈমানদারদের জন্য, মুশরিকদের জন্যও। কিন্তু আখিরাতে এগুলো একান্তই ঈমানদারদের, মুশরিকদের সেখানে কোনো ভাগ নেই। ইবন কাসীরের ভাষায়, এগুলো সৃষ্টি হয়েছে তাদের জন্য, যারা আল্লাহর উপর ঈমান আনে আর তাঁর ইবাদত করে। দুনিয়ায় কাফিররা বাহ্যিকভাবে ভাগ পেলেও কিয়ামতের দিন কোনো কাফির ভাগ পাবে না, কারণ জান্নাত কাফিরদের জন্য হারাম।"
+          },
+          {
+            "en": "A second line reads khalisah as freedom from consequence. Sa'id ibn Jubayr, in at-Tabari: they benefit from them in this world, and no sin follows them for it. As-Sa'di reads it the same way, and draws the other side: whoever does not believe and uses them to disobey will be asked about the blessing. Al-Baghawi records a third: on the Day they are pure of the spoiling and grief that come with them here. Ma'arif says the readings can sit together.",
+            "bn": "আরেকটি ধারায় খালিসা মানে পরিণামের দায় থেকে মুক্ত। তাবারীর বর্ণনায় সাঈদ ইবন জুবাইর বলেন, তাঁরা দুনিয়ায় এগুলো ভোগ করেন, অথচ এর জন্য কোনো গুনাহ তাঁদের পিছু নেয় না। সা'দীও একইভাবে পড়েন, আর অপর দিকটাও দেখান: যে ঈমান আনে না, বরং এগুলো দিয়ে নাফরমানি করে, তাকে এই নিয়ামত সম্পর্কে জিজ্ঞাসা করা হবে। বাগাভী তৃতীয় একটি মত আনেন: দুনিয়ায় এগুলোর সঙ্গে যে তিক্ততা আর দুশ্চিন্তা লেগে থাকে, কিয়ামতের দিন এগুলো তা থেকে মুক্ত। মাআরিফুল কুরআন বলে, এই ব্যাখ্যাগুলো একসঙ্গে থাকতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Khalisatun or Khalisatan",
+          "bn": "খালিসাতুন, নাকি খালিসাতান"
+        },
+        "p": [
+          {
+            "en": "The word itself is read two ways. At-Tabari reports that some readers of Madinah read khalisatun, in the nominative, meaning: say, it is pure for those who believed. The readers of the other cities read khalisatan, in the accusative, as a description of their state. Al-Baghawi names Nafi' for the nominative; al-Qurtubi names Ibn Abbas (RA) and Nafi'. At-Tabari judges the accusative the sounder of the two, because the Arabs more often use it in this position, while granting that the nominative is permissible.",
+            "bn": "শব্দটি নিজেই দুইভাবে পড়া হয়। তাবারী জানান, মদীনার কিছু কারী পড়েছেন খালিসাতুন, পেশ দিয়ে। তখন অর্থ দাঁড়ায়: বলুন, এগুলো ঈমানদারদের জন্য একান্ত। অন্য শহরগুলোর কারীরা পড়েছেন খালিসাতান, যবর দিয়ে, তাঁদের অবস্থা বোঝাতে। বাগাভী পেশের পাঠের জন্য নাফি'র নাম নেন, আর কুরতুবী নেন ইবন আব্বাস (রাঃ) ও নাফি'র নাম। তাবারীর বিচারে যবরের পাঠটাই বেশি সঠিক, কারণ এ জায়গায় আরবরা বেশিরভাগ সময় যবরই ব্যবহার করে। তবে পেশের পাঠও যে বৈধ, তা তিনি মেনে নেন।"
+          },
+          {
+            "en": "Al-Qurtubi shows what the difference does to a pause. On the nominative reading the sentence is complete at 'the life of this world', and khalisatun opens a new statement whose subject is understood. On the accusative reading, he says, a reader may not stop at ad-dunya, because what follows is tied back to 'for those who believed' as its state. He adds that Sibawayh chose the accusative. Both readings, as at-Tabari and al-Qurtubi explain them, arrive at the same picture: shared in this world, kept for the believers on the Day.",
+            "bn": "এই পার্থক্যে থামার জায়গা কীভাবে বদলায়, কুরতুবী তা দেখান। পেশের পাঠে বাক্যটা 'দুনিয়ার জীবনে' এসে শেষ হয়, আর খালিসাতুন থেকে শুরু হয় নতুন বাক্য, যার উদ্দেশ্য উহ্য। যবরের পাঠে, তাঁর কথায়, আদ-দুনইয়াতে থামা চলবে না, কারণ পরের অংশটা 'ঈমানদারদের জন্য' কথাটার সঙ্গে তাদের অবস্থা হিসেবে বাঁধা। তিনি আরও জানান, সিবাওয়াইহ যবরের পাঠ বেছে নিয়েছেন। তাবারী ও কুরতুবীর ব্যাখ্যায় দুই পাঠই এক ছবিতে গিয়ে মেলে: দুনিয়ায় সবার সঙ্গে ভাগাভাগি, কিয়ামতের দিন শুধু ঈমানদারদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Innama: Only These Are Forbidden",
+          "bn": "ইন্নামা: হারাম শুধু এগুলোই"
+        },
+        "p": [
+          {
+            "en": "7:33 answers 7:32 with innama: my Lord has only forbidden. At-Tabari makes the link explicit. Say to those who strip for tawaf and forbid themselves good provision: Allah did not forbid what you forbid, He made it lawful and good for His believing servants; what He forbade is the ugly things, al-fawahish, what is open of them and what is done in secret. As-Sa'di calls this a list of what Allah forbade in every one of His laws. One list was made up; this one is His.",
+            "bn": "৭:৩৩ আয়াত ৭:৩২-এর জবাব দেয় ইন্নামা দিয়ে: আমার রব তো কেবল হারাম করেছেন। তাবারী সংযোগটা স্পষ্ট করে দেন। যারা তাওয়াফের জন্য কাপড় খুলে ফেলে আর পবিত্র রিযিক নিজেদের উপর হারাম করে, তাদের বলুন: তোমরা যা হারাম করছ, আল্লাহ তা হারাম করেননি। বরং তিনি তা তাঁর মুমিন বান্দাদের জন্য হালাল ও পবিত্র করেছেন। তিনি হারাম করেছেন কদর্য কাজগুলো, আল-ফাওয়াহিশ, তার যা প্রকাশ্য আর যা গোপনে ঘটে। সা'দী বলেন, এ সেই নিষেধের তালিকা যা আল্লাহ তাঁর প্রতিটি শরীয়তে দিয়েছেন। একটা তালিকা ছিল মানুষের বানানো। এটা তাঁর।"
+          },
+          {
+            "en": "The commentators fill 'open and hidden' differently. Mujahid, in at-Tabari, says the open kind was the naked tawaf of the Jahiliyyah and the hidden kind zina. Al-Baghawi has the open as the men's tawaf by day and the hidden as the women's by night, and also records the view that it is zina, secret and public. As-Sa'di reads fawahish as the grave sins found repugnant for their ugliness, such as zina, and takes the hidden ones to be sins of the heart: pride, self-admiration, showing off and hypocrisy.",
+            "bn": "'প্রকাশ্য ও গোপন' কথাটা তাফসীরকারেরা ভিন্ন ভিন্নভাবে পূরণ করেন। তাবারীর বর্ণনায় মুজাহিদ বলেন, প্রকাশ্যটা ছিল জাহিলিয়াতের উলঙ্গ তাওয়াফ, আর গোপনটা যিনা। বাগাভীর বর্ণনায় প্রকাশ্য হলো দিনের বেলা পুরুষদের তাওয়াফ, গোপন হলো রাতে নারীদের তাওয়াফ। তিনি এ মতও উল্লেখ করেন যে এর অর্থ যিনা, গোপনে হোক বা প্রকাশ্যে। সা'দীর মতে ফাওয়াহিশ হলো সেই বড় গুনাহগুলো, যা কদর্যতার কারণে মানুষের কাছে ঘৃণ্য, যেমন যিনা। আর গোপনগুলো তাঁর কাছে অন্তরের গুনাহ: অহংকার, আত্মমুগ্ধতা, লোক দেখানো আর মুনাফিকি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghayrah, and a Fine Garment",
+          "bn": "গাইরাত আর সুন্দর পোশাক"
+        },
+        "p": [
+          {
+            "en": "Under 7:33 al-Baghawi brings a report through al-Bukhari's own chain, and Ibn Kathir notes that both Sahihs carry it. In al-Bukhari's wording (Bukhari 4637), from Abdullah ibn Mas'ud (RA), the Prophet said: \"None has more sense of ghaira than Allah, and for this He has forbidden shameful sins whether committed openly or secretly, and none loves to be praised more than Allah does, and this is why He Praises Himself.\"",
+            "bn": "৭:৩৩ আয়াতের আলোচনায় বাগাভী একটি বর্ণনা আনেন খোদ বুখারীর সনদে, আর ইবন কাসীর জানান, দুই সহীহ গ্রন্থেই এটি আছে। বুখারীর শব্দে (বুখারী ৪৬৩৭), আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে, নবী ﷺ বলেছেন: \"আল্লাহর চেয়ে বেশি গাইরাত (আত্মমর্যাদাবোধ) কারও নেই। এ কারণেই তিনি প্রকাশ্য ও গোপন সব অশ্লীল কাজ হারাম করেছেন। আর আল্লাহর চেয়ে বেশি প্রশংসা কেউ ভালোবাসে না, এ কারণেই তিনি নিজের প্রশংসা নিজে করেছেন।\""
+          },
+          {
+            "en": "On 7:32 al-Qurtubi cites a general narration, not attached to this verse, from Sahih Muslim (Muslim 91), from Abdullah ibn Mas'ud (RA): \"He who has in his heart the weight of a mustard seed of pride shall not enter Paradise. A person (amongst his hearers) said: Verily a person loves that his dress should be fine, and his shoes should be fine. He (the Holy Prophet) remarked: Verily, Allah is Graceful and He loves Grace. Pride is disdaining the truth (out of self-conceit) and contempt for the people.\"",
+            "bn": "৭:৩২ আয়াতের আলোচনায় কুরতুবী সহীহ মুসলিম থেকে (মুসলিম ৯১) একটি সাধারণ বর্ণনা আনেন, যা এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে: \"যার অন্তরে সরিষার দানা পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি বলল: মানুষ তো চায় তার কাপড়টা সুন্দর হোক, জুতাটা সুন্দর হোক। তিনি বললেন: আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হলো সত্যকে অগ্রাহ্য করা আর মানুষকে তুচ্ছ জ্ঞান করা।\""
+          },
+          {
+            "en": "Al-Qurtubi's point in bringing it is narrow: the Prophet did not object to the man's wish for a good garment and good sandals, and located pride elsewhere, in refusing the truth and looking down on people. He adds that the hadiths in this sense are many and all point to cleanliness and a good appearance. Together the two reports hold both verses: what He loves, and what His ghayrah forbids.",
+            "bn": "কুরতুবী হাদীসটি আনেন একটা নির্দিষ্ট কথা বোঝাতে। লোকটি ভালো কাপড় আর ভালো জুতা চেয়েছিল, নবী ﷺ তাতে আপত্তি করেননি। অহংকারকে তিনি দেখিয়েছেন অন্য জায়গায়: সত্যকে প্রত্যাখ্যান করা আর মানুষকে ছোট করে দেখা। কুরতুবী আরও বলেন, এই অর্থে হাদীস অনেক, আর সবগুলোই পরিচ্ছন্নতা আর সুন্দর চেহারা-সুরতের দিকে ইঙ্গিত করে। দুই বর্ণনা মিলে দুই আয়াতকেই ধরে রাখে: তিনি যা ভালোবাসেন, আর তাঁর গাইরাত যা নিষেধ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ithm, Baghy, and Why Both",
+          "bn": "ইসম, বাগয়ি, আর দুটোর আলাদা নাম"
+        },
+        "p": [
+          {
+            "en": "Wa-l-ithma wa-l-baghya bi-ghayri-l-haqq. At-Tabari: ithm is disobedience, and baghy is overbearing conduct towards people; as-Suddi, in his report, makes baghy transgressing against people without right. Mujahid: ithm covers every sin, and the transgressor's transgression comes back upon himself. Ibn Kathir sums it up: ithm is the wrong that stays with the doer, baghy the wrong that reaches others. As-Sa'di puts it as two kinds of right, sins against the right of Allah and transgression against people in their lives, wealth and honour.",
+            "bn": "ওয়াল ইসমা ওয়াল বাগয়া বিগাইরিল হাক্ক। তাবারীর মতে ইসম মানে নাফরমানি, আর বাগয়ি মানে মানুষের উপর দাপট দেখানো। সুদ্দীর বর্ণনায় বাগয়ি হলো অন্যায়ভাবে মানুষের উপর চড়াও হওয়া। মুজাহিদ বলেন, ইসম সব গুনাহকে শামিল করে, আর জুলুমকারীর জুলুম শেষ পর্যন্ত তার নিজের ঘাড়েই ফেরে। ইবন কাসীর সারকথা টানেন: ইসম সেই অন্যায় যা কর্তার নিজের মধ্যে থাকে, বাগয়ি সেই অন্যায় যা অন্যের কাছে পৌঁছায়। সা'দী একে দুই রকম হকের ভাষায় বলেন: আল্লাহর হকে গুনাহ, আর মানুষের জান, মাল ও সম্মানের উপর জুলুম।"
+          },
+          {
+            "en": "Al-Hasan read ithm as wine, and both al-Baghawi and al-Qurtubi record it; ad-Dahhak, in al-Baghawi, made it the sin that carries no fixed penalty. Al-Qurtubi reports that a group rejected this: an-Nahhas said ithm as wine is not known, and Ibn al-Arabi rejected it too. His own view: ithm can cover all sins and, in the language, wine as well, so the two need not clash. He also gives an ordering point. Ithm and baghy belong among the fawahish, yet are named separately because of their gravity, to stress them and warn against them.",
+            "bn": "হাসান ইসমকে মদ অর্থে পড়েছেন। বাগাভী ও কুরতুবী দুজনেই তা উল্লেখ করেছেন। আর বাগাভীর বর্ণনায় দাহহাক বলেছেন, ইসম সেই গুনাহ যার কোনো নির্ধারিত দণ্ড নেই। কুরতুবী জানান, একদল আলেম এ অর্থ মানেননি। নাহহাস বলেছেন, ইসম মানে মদ, এমনটা জানা যায় না। ইবনুল আরাবীও তা নাকচ করেছেন। তাঁর নিজের মত: ভাষায় ইসম সব গুনাহকেও বোঝাতে পারে, মদকেও। তাই দুটোর মধ্যে বিরোধ নেই। ক্রম নিয়েও তিনি একটি কথা বলেন। ইসম আর বাগয়ি আসলে ফাওয়াহিশেরই অংশ, তবু ভয়াবহতার কারণে আলাদা করে নাম নেওয়া হয়েছে, যাতে গুরুত্বটা স্পষ্ট হয় আর মানুষ সতর্ক হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Without Proof, Without Knowledge",
+          "bn": "দলিল ছাড়া, জ্ঞান ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi applies the same reasoning to the last two items: shirk and speaking about Allah are named for emphasis too. Wa an tushriku bi-llahi ma lam yunazzil bihi sultana: at-Tabari glosses sultan as proof and evidence, so the verse forbids giving Him a partner in worship with no argument He ever granted. As-Sa'di adds that He sent down the proof for tawhid instead, and that lesser shirk, such as showing off and swearing by other than Allah, may be included.",
+            "bn": "কুরতুবী শেষ দুটির বেলায়ও একই যুক্তি টানেন: শিরক আর আল্লাহর নামে কথা বলাকেও গুরুত্ব বোঝাতে আলাদা করে আনা হয়েছে। ওয়া আন তুশরিকূ বিল্লাহি মা লাম ইউনাযযিল বিহী সুলতানা: তাবারীর ব্যাখ্যায় সুলতান মানে দলিল ও প্রমাণ। অর্থাৎ যার পক্ষে আল্লাহ কোনো দলিল দেননি, তাঁর ইবাদতে এমন কিছুকে শরিক করা হারাম। সা'দী যোগ করেন, দলিল তো তিনি নাযিল করেছেন তাওহীদের পক্ষে। তাঁর মতে লোক দেখানো আর আল্লাহ ছাড়া অন্য কিছুর নামে কসম খাওয়ার মতো ছোট শিরকও এর আওতায় আসতে পারে।"
+          },
+          {
+            "en": "Wa an taqulu 'ala-llahi ma la ta'lamun. At-Tabari ties it straight back to 7:32: that you say Allah commanded you to strip for tawaf and forbade the cattle you set loose, when you do not know that He forbade or commanded any of it. Muqatil, in al-Baghawi, limits it to forbidding crops and cattle; others in al-Baghawi make it general, any speech in religion without certainty. Ibn Kathir names claiming that He has a son and cites 22:30. As-Sa'di extends it to His names, attributes, acts and law. The passage closes where it opened.",
+            "bn": "ওয়া আন তাকূলূ আলাল্লাহি মা লা তা'লামূন। তাবারী একে সরাসরি ৭:৩২-এর সঙ্গে জুড়ে দেন: তোমরা বলো, আল্লাহ তোমাদের কাপড় খুলে তাওয়াফ করতে বলেছেন, আর যে পশুগুলো তোমরা ছেড়ে দিয়েছ সেগুলো হারাম করেছেন। অথচ তিনি এর কোনোটা হারাম করেছেন বা আদেশ করেছেন কিনা, তোমরা জানো না। বাগাভীর বর্ণনায় মুকাতিল একে ফসল আর পশু হারাম করার মধ্যে সীমিত রাখেন। অন্যরা একে ব্যাপক ধরেন: নিশ্চিত জ্ঞান ছাড়া দ্বীন নিয়ে যেকোনো কথা। ইবন কাসীর উদাহরণ দেন, তাঁর সন্তান আছে এমন দাবি, আর উদ্ধৃত করেন ২২:৩০। সা'দী একে বিস্তৃত করেন তাঁর নাম, গুণ, কাজ আর বিধান পর্যন্ত। যেখান থেকে শুরু, আলোচনা সেখানেই ফিরে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verse Misread From Both Sides",
+          "bn": "দুই দিক থেকেই ভুল পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi takes 7:32 to show that fine clothing is allowed, and beautifying oneself for Fridays and Eids, for meeting people and visiting brothers. He quotes at-Tabari: whoever chose garments of hair and wool over cotton and linen, when he had a lawful way to them, made a mistake. Ma'arif says that wearing rags despite having the means is no teaching of Islam, and sets two guards: dress well neither to show off nor to place yourself above others.",
+            "bn": "কুরতুবীর মতে ৭:৩২ আয়াত দেখায় যে উন্নত কাপড় পরা বৈধ, আর জুমআ ও ঈদে, মানুষের সঙ্গে দেখা করতে বা ভাইদের সঙ্গে সাক্ষাতে যেতে সেজেগুজে যাওয়াও বৈধ। তিনি তাবারীর কথা উদ্ধৃত করেন: হালাল উপায়ে সুতি আর লিনেনের কাপড় জোটানো সম্ভব হলেও যে পশম আর লোমের কাপড় বেছে নিল, সে ভুল করল। মাআরিফুল কুরআন বলে, সামর্থ্য থাকা সত্ত্বেও ছেঁড়াফাটা কাপড়ে থাকা ইসলামের শিক্ষা নয়। সঙ্গে দুটি সতর্কতাও দেয়: ভালো পোশাক যেন লোক দেখানোর জন্য না হয়, আর অন্যের চেয়ে নিজেকে বড় দেখানোর জন্যও না হয়।"
+          },
+          {
+            "en": "The other misreading is recorded by at-Tabari himself, from al-Hasan. He describes corrupt men, consumers of usury and of stolen spoils, who claimed there was no harm in what they ate and drank or in the houses they decorated, and who cited this very verse for it. Al-Qurtubi reports a disagreement on leaving good things aside, and gives the view his teachers' teacher held correct: what is disliked is straining after them, since it was never reported that the Prophet refused a food for being good.",
+            "bn": "উল্টো দিকের ভুল পাঠের কথা তাবারী নিজেই লিখে রেখেছেন, হাসান থেকে। হাসান কিছু অসৎ লোকের বর্ণনা দেন, যারা সুদ খেত আর গনিমতের মাল চুরি করত। তারা দাবি করত, তাদের খাওয়াদাওয়া আর সাজানো ঘরবাড়িতে কোনো দোষ নেই, আর প্রমাণ হিসেবে টানত ঠিক এই আয়াতটিকেই। পবিত্র জিনিস ছেড়ে দেওয়া নিয়ে কুরতুবী একটি মতভেদ উল্লেখ করেন। এরপর তিনি সেই মতটা আনেন, যাকে তাঁর শিক্ষকদের শিক্ষক সঠিক বলেছেন: অপছন্দনীয় হলো এগুলোর পেছনে কষ্ট করে ছোটা। কারণ নবী ﷺ কোনো খাবার ভালো বলে তা খেতে অস্বীকার করেছেন, এমন কথা কখনো বর্ণিত হয়নি।"
+          },
+          {
+            "en": "The verse ends: kadhalika nufassilu-l-ayati li-qawmin ya'lamun, thus do We detail the verses for a people who know. At-Tabari reads it as: as I have made clear to you what is due in dress and adornment, and the lawful and unlawful in food and drink, so I make clear all My proofs. As-Sa'di says the people who know are those who benefit from what Allah has detailed. The two verses together leave little room for a self-made list.",
+            "bn": "আয়াতের শেষ কথা: কাযালিকা নুফাসসিলুল আয়াতি লিকাওমিন ইয়া'লামূন, এভাবেই আমি জ্ঞানী সম্প্রদায়ের জন্য আয়াতগুলো বিশদভাবে বর্ণনা করি। তাবারী এর অর্থ করেন এভাবে: পোশাক ও সাজসজ্জায় তোমাদের করণীয় কী, খাদ্য ও পানীয়ে কী হালাল আর কী হারাম, তা যেমন স্পষ্ট করে দিয়েছি, তেমনি আমার সব দলিল-প্রমাণও স্পষ্ট করে দিই। সা'দী বলেন, জ্ঞানী তারাই, যারা আল্লাহর বিশদ বর্ণনা থেকে উপকৃত হয়। দুই আয়াত পাশাপাশি পড়লে নিজের বানানো তালিকার জায়গা আর বেশি থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "7:42-43": {
     "sections": [
       {

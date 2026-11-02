@@ -20571,6 +20571,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give Allah His due by holding that He speaks to His servants, and take the whole of His Book rather than only the pages that suit you.",
     "lessonBn": "আল্লাহ তাঁর বান্দাদের কাছে বাণী পাঠান, এ বিশ্বাস রেখে তাঁকে তাঁর যথাযোগ্য মর্যাদা দিন, আর তাঁর কিতাবের শুধু পছন্দের পাতা নয়, পুরোটাই গ্রহণ করুন।"
+  },
+  "7:32": {
+    "reflectionEn": "The question comes as a rebuke: who forbade the adornment Allah brought out for His servants, and the good things of His provision? People had made a religion of going without, circling the House unclothed and refusing food they were allowed. The verse hands the right to forbid back to the One who made the thing. The next verse then names what He did forbid: shameful deeds, open and hidden, sin, wronging others, setting up partners with Him, and saying about Him what you do not know. The list is short, and no clean garment or good meal is on it. So which list do I live by: the one He gave, or one I wrote for myself?",
+    "reflectionBn": "প্রশ্নটা আসে ধমকের সুরে: আল্লাহ তাঁর বান্দাদের জন্য যে সাজসজ্জা বের করেছেন, আর তাঁর দেওয়া পবিত্র রিযিক, কে তা হারাম করল? কিছু মানুষ না-পাওয়াকেই ধর্ম বানিয়ে নিয়েছিল। তারা কাপড় খুলে কাবাঘর তাওয়াফ করত, আর হালাল খাবার নিজেদের জন্য নিষিদ্ধ করে রাখত। আয়াতটি হারাম ঘোষণার অধিকার ফিরিয়ে দেয় তাঁর হাতে, যিনি জিনিসটা সৃষ্টি করেছেন। পরের আয়াতেই তিনি জানিয়ে দেন কী তিনি সত্যিই হারাম করেছেন: প্রকাশ্য ও গোপন অশ্লীলতা, গুনাহ, মানুষের উপর জুলুম, তাঁর সঙ্গে শরিক করা, আর না জেনে তাঁর নামে কথা বলা। তালিকাটা ছোট। পরিষ্কার কাপড় বা ভালো খাবার তাতে নেই। তাহলে আমি কোন তালিকা মেনে চলি: তাঁর দেওয়াটা, নাকি নিজের বানানোটা?",
+    "pointsEn": [
+      "Is there something lawful that I treat as suspect, and did that feeling come from Allah or from habit and the people around me?",
+      "When I enjoy a good meal or a decent garment, do I remember who brought it out for me?",
+      "Have I ever said that something is haram, or that it is fine, about a matter I had never actually learned?",
+      "Of the things He did forbid, open and hidden, which one am I careless about while I stay strict over smaller things?",
+      "Do I wrong anyone, in their money, their honour or their rights, while feeling religious about what I avoid?"
+    ],
+    "pointsBn": [
+      "হালাল এমন কোনো জিনিস কি আছে যাকে আমি সন্দেহের চোখে দেখি? সেই অনুভূতি কি আল্লাহর কাছ থেকে এসেছে, নাকি অভ্যাস আর চারপাশের মানুষের কাছ থেকে?",
+      "ভালো খাবার বা ভদ্র পোশাক উপভোগ করার সময় কি মনে পড়ে, কে তা আমার জন্য বের করে দিয়েছেন?",
+      "যে বিষয়ে কখনো কিছু শিখিনি, তা নিয়ে কি কখনো বলে ফেলেছি যে এটা হারাম, বা এতে কোনো সমস্যা নেই?",
+      "তিনি যা সত্যিই হারাম করেছেন, প্রকাশ্য ও গোপন, তার কোনটায় আমি উদাসীন, অথচ ছোটখাটো বিষয়ে কড়াকড়ি করি?",
+      "যা এড়িয়ে চলি তা নিয়ে নিজেকে ধার্মিক ভাবতে ভাবতে আমি কি কারও সম্পদে, সম্মানে বা হকে জুলুম করছি?"
+    ],
+    "lessonEn": "Do not forbid what Allah made lawful, keep well away from what He did forbid, and never speak about Him without knowledge.",
+    "lessonBn": "আল্লাহ যা হালাল করেছেন তা হারাম বানাবেন না, তিনি যা হারাম করেছেন তা থেকে দূরে থাকুন, আর না জেনে কখনো তাঁর নামে কথা বলবেন না।"
   }
 };
 
