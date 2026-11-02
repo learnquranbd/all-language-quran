@@ -1299,6 +1299,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:51": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Judging to Allegiance",
+          "bn": "বিচারের পর আনুগত্যের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha alladhina amanu, la tattakhidhu al-yahuda wa-n-nasara awliya': O you who believe, do not take the Jews and the Christians as awliya'. The verse comes straight after a long passage, 5:42 to 5:50, about judging by what Allah revealed, and it opens a shorter one that runs to 5:56. That passage closes on its own answer: your wali is none but Allah, His Messenger and those who believe (5:55). The question running through it is loyalty: the side a person stands on.",
+            "bn": "ইয়া আইয়ুহাল্লাযীনা আমানূ, লা তাত্তাখিযুল ইয়াহূদা ওয়ান নাসারা আওলিয়া: হে ঈমানদারগণ, ইয়াহূদি ও নাসারাদেরকে আওলিয়া হিসেবে গ্রহণ করো না। আল্লাহর নাযিল করা বিধান অনুযায়ী বিচার নিয়ে ৫:৪২ থেকে ৫:৫০ পর্যন্ত লম্বা আলোচনা। ঠিক তার পরেই এ আয়াত, আর এখান থেকে শুরু হয় ছোট একটি অংশ, যা চলে ৫:৫৬ পর্যন্ত। অংশটি শেষ হয় নিজের জবাব দিয়েই: তোমাদের ওয়ালী কেবল আল্লাহ, তাঁর রাসূল আর মু'মিনগণ (৫:৫৫)। পুরো অংশের প্রশ্ন একটাই, আনুগত্য। মানুষ কার পক্ষে দাঁড়ায়।"
+          },
+          {
+            "en": "The verse has four clauses. A command: do not take them as awliya'. A description: they are awliya' of one another. A consequence: whoever among you takes them so is one of them. And a close: Allah does not guide the wrongdoing people. This verse, more than most, gets quoted without its setting. So this article goes slowly, gives each reading to the mufassir who holds it, and says plainly where the verse stops.",
+            "bn": "আয়াতে চারটি অংশ। প্রথমে নির্দেশ: তাদের আওলিয়া বানিয়ো না। তারপর বিবরণ: তারা একে অপরের আওলিয়া। তারপর পরিণতি: তোমাদের মধ্যে যে তাদের সেভাবে গ্রহণ করে, সে তাদেরই একজন। শেষে সমাপ্তি: আল্লাহ যালিম সম্প্রদায়কে হেদায়েত দেন না। অন্য অনেক আয়াতের চেয়ে এটিকেই বেশি উদ্ধৃত করা হয় প্রসঙ্গ ছাড়া। তাই এ লেখা ধীরে এগোবে। প্রতিটি ব্যাখ্যা যে মুফাসসিরের, তাঁর নামেই বলবে। আর আয়াত কোথায় থামে, তা সোজাসুজি জানিয়ে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allies Against the Believers",
+          "bn": "মু'মিনদের বিপক্ষে মিত্র"
+        },
+        "p": [
+          {
+            "en": "What does awliya' mean here? The Muyassar answers in one phrase: do not take them as hulafa' wa-ansar 'ala ahl al-iman, confederates and helpers against the people of faith. At-Tabari, giving his own preferred reading, uses almost the same words: Allah forbade all the believers to take them as ansar and hulafa' against the people of faith in Allah and His Messenger. In both, the words against the believers sit inside the definition itself. They are not a later qualification.",
+            "bn": "এখানে আওলিয়া মানে কী? মুয়াসসার এক বাক্যে জবাব দেয়: তাদেরকে ঈমানদারদের বিরুদ্ধে হালীফ ও সাহায্যকারী হিসেবে গ্রহণ করো না। তাবারী নিজের পছন্দের ব্যাখ্যা দিতে গিয়ে প্রায় একই শব্দ ব্যবহার করেন। তাঁর ভাষায়, আল্লাহ সব মু'মিনকে নিষেধ করেছেন, আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আনা মানুষের বিরুদ্ধে তাদেরকে সাহায্যকারী ও মিত্র বানাতে। দুজনের কথাতেই 'মু'মিনদের বিরুদ্ধে' কথাটা সংজ্ঞার ভেতরেই আছে। পরে জুড়ে দেওয়া শর্ত নয়।"
+          },
+          {
+            "en": "The others read it the same way. Al-Qurtubi glosses wa man yatawallahum as whoever backs them against the Muslims (ya'duduhum 'ala al-muslimin). Al-Baghawi reads they are allies of one another as in aid and support, their hand being one against the Muslims. As-Sa'di says they support one another and are one hand against everyone else. At-Tabari says the Jews are helpers of one another against the believers, and the Christians likewise against whoever differs from their religion. The picture in every one of them is sides drawn up in a conflict.",
+            "bn": "অন্যরাও একইভাবে পড়েন। কুরতুবী ওয়া মাইঁ ইয়াতাওয়াল্লাহুম-এর ব্যাখ্যা দেন: যে মুসলমানদের বিরুদ্ধে তাদের পিঠ শক্ত করে। বাগাভীর মতে 'তারা একে অপরের আওলিয়া' মানে সাহায্য ও সহযোগিতায়, মুসলমানদের বিরুদ্ধে তাদের হাত এক। সা'দী বলেন, তারা পরস্পরকে সাহায্য করে আর বাকি সবার বিরুদ্ধে এক হাত হয়ে থাকে। তাবারী বলেন, ইয়াহূদিরা মু'মিনদের বিরুদ্ধে একে অপরের সাহায্যকারী, আর নাসারারাও তেমনি, যারা তাদের ধর্মের বিরোধী তাদের বিরুদ্ধে। সবার কথাতেই ছবিটা এক: সংঘাতের সময় দুই পক্ষ মুখোমুখি দাঁড়িয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the line in a different place. It calls the forbidden thing muwalat, deep friendship, and defines it as \"fast friendship and indiscriminating intimacy which may garble the distinctive hallmarks of Islam.\" It is just as explicit about what lies outside it: \"Muslims can deal with non-Muslims in the spirit of tolerance, sympathy, goodwill, equity, justice, favour and kindness.\" So its concern is a closeness that blurs a Muslim's identity, where the Arabic commentators speak of taking sides. Both leave everyday decency outside the prohibition.",
+            "bn": "মাআরিফুল কুরআন সীমারেখা টানে একটু অন্য জায়গায়। নিষিদ্ধ জিনিসটিকে সে বলে মুওয়ালাত, গভীর বন্ধুত্ব। তার সংজ্ঞায় এ এমন ঘনিষ্ঠতা ও বাছবিচারহীন অন্তরঙ্গতা, যা ইসলামের স্বতন্ত্র চিহ্নগুলোকে ঝাপসা করে দিতে পারে। কী এর বাইরে, তাও সে স্পষ্ট বলে: অমুসলিমদের সঙ্গে মুসলমানরা সহনশীলতা, সহমর্মিতা, শুভকামনা, ন্যায্যতা, ন্যায়বিচার, অনুগ্রহ ও দয়ার মনোভাব নিয়ে লেনদেন করতে পারে। আরবি তাফসীরকারেরা কথা বলেন পক্ষ নেওয়া নিয়ে। মাআরিফের চিন্তা এমন ঘনিষ্ঠতা নিয়ে, যা মুসলমানের পরিচয় অস্পষ্ট করে। তবে দুই পক্ষই দৈনন্দিন সদাচারকে নিষেধের বাইরে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Reports, None Proven",
+          "bn": "তিন বর্ণনা, কোনোটিই প্রমাণিত নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying the interpreters differed over whom the verse meant, even though all the believers are commanded by it. One group named 'Ubadah ibn as-Samit and 'Abdullah ibn Ubayy ibn Salul. In the report he carries from 'Atiyyah ibn Sa'd, 'Ubadah came to the Prophet ﷺ, said he had many mawali among the Jews, and disowned their wilayah before Allah and His Messenger. 'Abdullah ibn Ubayy said: I am a man who fears turns of fortune; I will not disown my mawali. Al-Baghawi and al-Qurtubi give the same account.",
+            "bn": "তাবারী শুরুতেই বলেন, আয়াতটি কাদের উদ্দেশে, তা নিয়ে ব্যাখ্যাকারদের মতভেদ আছে, যদিও এর নির্দেশ সব মু'মিনের জন্য। একদল বলেছেন উবাদা ইবনুস সামিত (রাঃ) ও আবদুল্লাহ ইবন উবাই ইবন সালূলের কথা। আতিয়্যা ইবন সা'দ থেকে তাবারী যে বর্ণনা আনেন, তাতে উবাদা (রাঃ) নবী ﷺ-এর কাছে এসে বললেন, ইয়াহূদিদের মধ্যে তাঁর অনেক মিত্র আছে, আর আল্লাহ ও তাঁর রাসূলের সামনে তিনি তাদের মৈত্রী থেকে সম্পর্ক ছিন্ন করছেন। আবদুল্লাহ ইবন উবাই বলল, আমি এমন লোক যে ভাগ্যের পালাবদলকে ভয় করে। আমার মিত্রদের আমি ছাড়ব না। বাগাভী ও কুরতুবীও একই ঘটনা বর্ণনা করেন।"
+          },
+          {
+            "en": "A second account comes from as-Suddi: after Uhud, when the blow weighed on some people and they feared the disbelievers would gain the upper hand, one man said he would go to a certain Jew and take a guarantee of safety from him, and another that he would go to a Christian in Syria. At-Tabari carries this, and so does al-Baghawi. A third, from 'Ikrimah, carried by both, names Abu Lubabah ibn 'Abd al-Mundhir, sent to Banu Qurayzah, who pointed to his throat when they asked what awaited them.",
+            "bn": "দ্বিতীয় বর্ণনাটি সুদ্দীর। উহুদের পর আঘাতটা কিছু মানুষের উপর ভারী হয়ে বসেছিল, তারা ভয় পাচ্ছিল কাফিররা প্রবল হয়ে উঠবে। তখন একজন বলল, সে অমুক ইয়াহূদির কাছে গিয়ে তার কাছ থেকে নিরাপত্তার আশ্বাস নেবে। আরেকজন বলল, সে শামের এক খ্রিস্টানের কাছে যাবে। তাবারী এটি এনেছেন, বাগাভীও এনেছেন। তৃতীয় বর্ণনাটি ইকরিমার, এটিও দুজনেই এনেছেন। তাতে নাম আছে আবু লুবাবা ইবন আবদুল মুনযির (রাঃ)-এর। তাঁকে বনু কুরাইযার কাছে পাঠানো হয়েছিল। তাদের পরিণতি কী হবে জানতে চাইলে তিনি নিজের গলার দিকে ইশারা করেছিলেন।"
+          },
+          {
+            "en": "Then at-Tabari gives his verdict: none of the three is established by a report that could stand as proof, so the verse's wording is to be taken as general in all it covers. He adds that it was certainly revealed about a munafiq who allied himself with Jews or Christians out of fear for himself, because 5:52 says as much; he puts no name to that conclusion. Al-Qurtubi, after the 'Ubadah account, says the man who took them as allies was Ibn Ubayy. No commentary fetched for this verse attaches a sound hadith to it.",
+            "bn": "তারপর তাবারী রায় দেন: এই তিনটির কোনোটিই এমন বর্ণনা দিয়ে প্রমাণিত নয়, যা দলিল হিসেবে দাঁড়াতে পারে। তাই আয়াতের ভাষা যা কিছু বোঝায়, সবকিছুতেই তাকে ব্যাপক হিসেবে নিতে হবে। তিনি আরও বলেন, আয়াতটি নিঃসন্দেহে এমন এক মুনাফিককে নিয়ে নাযিল হয়েছে, যে নিজের ভয়ে ইয়াহূদি বা নাসারাদের সঙ্গে মৈত্রী করত, কারণ ৫:৫২ সেটাই বলে। এই সিদ্ধান্তে তিনি কারও নাম বসাননি। কুরতুবী উবাদার ঘটনার পর বলেন, যে তাদেরকে মিত্র বানিয়েছিল সে ইবন উবাই। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরে এর সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted Among Them",
+          "bn": "তাদের দলে গণ্য হওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa man yatawallahum minkum fa-innahu minhum. At-Tabari reads it this way: whoever takes them as allies and helps them against the believers is of the people of their religion, because no one takes another as an ally unless he is pleased with him and with his way, and having approved it, he has turned hostile to what opposes it. Earlier he puts it as being one of them in partisanship against Allah, His Messenger and the believers.",
+            "bn": "ওয়া মাইঁ ইয়াতাওয়াল্লাহুম মিনকুম ফা-ইন্নাহু মিনহুম। তাবারী এভাবে পড়েন: যে তাদেরকে মিত্র বানায় এবং মু'মিনদের বিরুদ্ধে তাদের সাহায্য করে, সে তাদের ধর্মের লোক। কারণ কেউ কাউকে মিত্র বানায় না, যতক্ষণ না তার প্রতি আর তার পথের প্রতি সে সন্তুষ্ট থাকে। আর যা সে পছন্দ করেছে, তার বিপরীতের সঙ্গে সে শত্রুতায় জড়িয়ে পড়ে। আগে তিনি কথাটা বলেছেন এভাবে: আল্লাহ, তাঁর রাসূল ও মু'মিনদের বিরুদ্ধে দল পাকানোয় সে তাদেরই একজন।"
+          },
+          {
+            "en": "Al-Qurtubi: his ruling is like theirs (hukmuhu ka-hukmihim), and he has become one of them, meaning one of their companions, because he opposed Allah and His Messenger as they did. He also reports a view that the address O you who believe here meant hypocrites who believed only outwardly and passed the Muslims' secrets on. As-Sa'di grades the matter: complete allegiance requires moving over to their religion, while a little allegiance invites more, step by step, until the servant becomes one of them.",
+            "bn": "কুরতুবীর মতে, তার বিধান তাদের বিধানের মতো, আর সে তাদেরই একজন, মানে তাদের সঙ্গীদের একজন, কারণ তারা যেমন আল্লাহ ও তাঁর রাসূলের বিরোধিতা করেছে, সেও তেমনি করেছে। তিনি এমন একটি মতও উল্লেখ করেন যে, এখানে 'হে ঈমানদারগণ' সম্বোধন সেই মুনাফিকদের উদ্দেশে, যারা শুধু বাইরে ঈমান দেখাত আর মুসলমানদের গোপন কথা অন্যদের কাছে পৌঁছে দিত। সা'দী বিষয়টিকে ধাপে ধাপে দেখেন। পূর্ণ মৈত্রী মানুষকে তাদের ধর্মে নিয়ে যায়। অল্প মৈত্রী ডেকে আনে আরও বেশি, একটু একটু করে, শেষে বান্দা তাদেরই একজন হয়ে যায়।"
+          },
+          {
+            "en": "The Muyassar: he comes to be counted among them, and his ruling is theirs. Ma'arif al-Qur'an: he is \"fit to be counted as one of them - and not as a Muslim.\" Ibn 'Abbas used the clause as a legal key. Asked about the slaughtered meat of the Arab Christians, he recited it, in at-Tabari's report; in Ibn Kathir's he first says: eat. In at-Tabari's line from 'Ikrimah he adds marrying their women. Here one of them settles a status, and it opens a table.",
+            "bn": "মুয়াসসার বলে, সে তাদের দলে গণ্য হয়ে যায়, আর তার বিধান তাদের বিধান। মাআরিফুল কুরআনের ভাষায়, সে তাদেরই একজন হিসেবে গণ্য হওয়ার যোগ্য, মুসলিম হিসেবে নয়। ইবন আব্বাস (রাঃ) এই অংশটিকে ব্যবহার করেছেন একটি বিধান খোলার চাবি হিসেবে। আরব খ্রিস্টানদের যবেহ করা পশুর গোশত সম্পর্কে জিজ্ঞেস করা হলে তাবারীর বর্ণনায় তিনি এই অংশটি তিলাওয়াত করলেন। ইবন কাসীরের বর্ণনায় আগে বললেন, খাও। ইকরিমার সূত্রে তাবারীর বর্ণনায় তিনি তাদের নারীদের বিয়ে করার কথাও যোগ করেন। এখানে 'তাদের একজন' কথাটা একটি পরিচয় নির্ধারণ করে, আর খুলে দেয় একসঙ্গে খাওয়ার দস্তরখান।"
+          },
+          {
+            "en": "These are the mufassirun's readings, and each is tied either to siding with them against the believers or to someone entering their faith. This article pronounces no one an unbeliever and draws no such conclusion about any person or group. Applying the clause to a particular human being is the work of qualified scholars weighing a real case, not of a reader holding a single verse.",
+            "bn": "এগুলো মুফাসসিরদের ব্যাখ্যা। প্রতিটিই বাঁধা হয় মু'মিনদের বিরুদ্ধে তাদের পক্ষ নেওয়ার সঙ্গে, নয়তো কারও তাদের ধর্মে ঢুকে পড়ার সঙ্গে। এ লেখা কাউকে কাফির বলে না, কোনো ব্যক্তি বা দল সম্পর্কে এমন কোনো সিদ্ধান্তও টানে না। কোনো নির্দিষ্ট মানুষের উপর এ কথা প্রয়োগ করা যোগ্য আলেমদের কাজ, যাঁরা বাস্তব ঘটনা যাচাই করে দেখেন। একটিমাত্র আয়াত হাতে নিয়ে বসা পাঠকের কাজ এটা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loyalty Put Out of Place",
+          "bn": "ভুল জায়গায় রাখা আনুগত্য"
+        },
+        "p": [
+          {
+            "en": "Inna Allaha la yahdi al-qawma az-zalimin: Allah does not guide the wrongdoing people. At-Tabari: Allah does not grant success (la yuwaffiq) to whoever puts wilayah in other than its place, allying with them against the believers and becoming their backer and helper. He reminds the reader that zulm, as he has explained elsewhere, is putting a thing where it does not belong. On his reading, then, the wrong named here is loyalty misplaced, and he keeps it tied, again, to the side taken against the believers.",
+            "bn": "ইন্নাল্লাহা লা ইয়াহদিল কাওমায যালিমীন: আল্লাহ যালিম সম্প্রদায়কে হেদায়েত দেন না। তাবারীর ব্যাখ্যায়, যে ব্যক্তি আনুগত্যকে তার জায়গার বাইরে রাখে, মু'মিনদের বিরুদ্ধে তাদের সঙ্গে মৈত্রী করে, তাদের পিঠ রক্ষাকারী ও সাহায্যকারী হয়ে যায়, আল্লাহ তাকে তাওফীক দেন না। তিনি মনে করিয়ে দেন, অন্যত্র যেমন বুঝিয়েছেন, যুলম মানে কোনো জিনিসকে তার জায়গার বাইরে রাখা। তাঁর পাঠে তাই এখানে যে অন্যায়ের কথা, তা হলো ভুল জায়গায় রাখা আনুগত্য। আর এখানেও তিনি কথাটা বেঁধে রাখেন মু'মিনদের বিরুদ্ধে পক্ষ নেওয়ার সঙ্গে।"
+          },
+          {
+            "en": "As-Sa'di: they are the people whose description is wrongdoing, to which they return and on which they rely. The Muyassar: Allah does not grant success to the wrongdoers who ally themselves with the disbelievers. The same closing word appears in 60:9, and there the Qur'an names whom it means: \"Allāh only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers.\"",
+            "bn": "সা'দী বলেন, এরা সেই লোক যাদের পরিচয়ই যুলম, যুলমের দিকেই তারা ফেরে, তার উপরেই ভর করে। মুয়াসসার বলে, কাফিরদের সঙ্গে মৈত্রী করে যে যালিমরা, আল্লাহ তাদের তাওফীক দেন না। একই সমাপ্তি-শব্দ আছে ৬০:৯ আয়াতে, আর সেখানে কুরআন নিজেই বলে দেয় কাদের কথা হচ্ছে: \"আল্লাহ তোমাদেরকে কেবল তাদের সঙ্গে বন্ধুত্ব করতে নিষেধ করেছেন যারা তোমাদের সঙ্গে দীনের ব্যাপারে যুদ্ধ করেছে, তোমাদেরকে তোমাদের ঘর-বাড়ী থেকে বের করে দিয়েছে আর তোমাদেরকে বের করে দেয়ার ব্যাপারে সাহায্য করেছে। যারা তাদের সঙ্গে বন্ধুত্ব করে তারাই যালিম।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hurrying Toward a Hedge",
+          "bn": "আড়াল খুঁজতে ছুটে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "The next verse shows the motive. Those in whose hearts is disease hasten into them, saying: we are afraid a da'irah, a turn of misfortune, may strike us (5:52). Ibn Kathir reads the disease as doubt, hesitation and hypocrisy, and their excuse as fear that the disbelievers might defeat the Muslims. In the reports at-Tabari and al-Qurtubi carry, Ibn Ubayy's own words are I fear the dawa'ir: the plural of the very word the verse puts in their mouths.",
+            "bn": "পরের আয়াত কারণটা দেখিয়ে দেয়। যাদের অন্তরে রোগ, তারা তাদের দিকে ছুটে যায় আর বলে: আমাদের ভয় হয়, কোনো দা'ইরা, মানে বিপদের পালা, আমাদের উপর এসে পড়বে (৫:৫২)। ইবন কাসীর এই রোগকে বলেন সন্দেহ, দোটানা আর নিফাক। আর তাদের অজুহাত ছিল, কাফিররা যদি মুসলমানদের হারিয়ে দেয়! তাবারী ও কুরতুবীর আনা বর্ণনায় ইবন উবাইয়ের নিজের কথা ছিল: আমি দাওয়াইরকে ভয় করি। আয়াত তাদের মুখে যে শব্দ বসিয়েছে, এ তারই বহুবচন।"
+          },
+          {
+            "en": "The answer comes in the same verse: perhaps Allah will bring al-fath, or a command from Him, and they will wake regretful over what they hid within themselves. Ibn Kathir reports from as-Suddi that the fath is the conquest of Makkah. Then 5:53: the believers will say, are these the ones who swore by Allah their strongest oaths that they were with you? Ibn Kathir notes that the alliance did not benefit them or protect them from any harm; the hedge built for safety was what exposed them.",
+            "bn": "জবাবটা একই আয়াতে: হয়তো আল্লাহ বিজয় এনে দেবেন, কিংবা নিজের পক্ষ থেকে কোনো ফয়সালা। তখন অন্তরে যা লুকিয়ে রেখেছিল, তার জন্য তারা অনুতপ্ত হয়ে পড়বে। ইবন কাসীর সুদ্দী থেকে বর্ণনা করেন, এখানে ফাতহ মানে মক্কা বিজয়। তারপর ৫:৫৩: মু'মিনরা বলবে, এরাই কি তারা, যারা আল্লাহর নামে কঠিন কসম খেয়ে বলত, তারা তোমাদের সঙ্গেই আছে? ইবন কাসীর লক্ষ করেন, সেই মৈত্রী তাদের কোনো উপকারে আসেনি, কোনো ক্ষতি থেকেও বাঁচায়নি। নিরাপত্তার জন্য যে আড়াল তারা গড়েছিল, সেটাই তাদের মুখোশ খুলে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Stays Open",
+          "bn": "যে পথ খোলাই থাকে"
+        },
+        "p": [
+          {
+            "en": "Because this verse is so often quoted alone, it needs saying plainly what it does not address. It does not forbid justice, kindness, trade or neighbourliness with people of other faiths. The Qur'an says so in its own words: \"Allāh does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allāh loves those who act justly.\" (60:8)",
+            "bn": "এ আয়াত প্রায়ই একা উদ্ধৃত হয়, তাই কোন বিষয়ে এটি কিছু বলে না, তা সোজাসুজি বলা দরকার। অন্য ধর্মের মানুষের সঙ্গে ন্যায়বিচার, সদয় আচরণ, ব্যবসা-বাণিজ্য বা প্রতিবেশীসুলভ সম্পর্ক এ আয়াত নিষেধ করে না। কুরআন নিজের ভাষাতেই তা বলেছে: \"দীনের ব্যাপারে যারা তোমাদের সাথে যুদ্ধ করেনি, আর তোমাদেরকে তোমাদের ঘর-বাড়ী থেকে বের ক’রে দেয়নি তাদের সঙ্গে সদয় ব্যবহার করতে আর ন্যায়নিষ্ঠ আচরণ করতে আল্লাহ নিষেধ করেন নি। আল্লাহ ন্যায়পরায়ণদেরকে ভালবাসেন।\" (৬০:৮)"
+          },
+          {
+            "en": "This same surah makes the food of the People of the Book lawful to Muslims and the Muslims' food lawful to them, and permits marriage to their chaste women (5:5). It commands justice even toward a hated people (5:8). On trade, 'A'ishah reported, in Sahih al-Bukhari (2916): \"Allah's Messenger (ﷺ) died while his (iron) armor was mortgaged to a Jew for thirty Sas of barley.\" That narration is general; no commentary fetched for this verse attaches it here. It shows the Prophet ﷺ himself in ordinary dealings of credit and pledge.",
+            "bn": "এই সূরাই আহলে কিতাবের খাবার মুসলমানদের জন্য হালাল করেছে, আর মুসলিমদের খাবার তাদের জন্য। তাদের সচ্চরিত্রা নারীদের বিয়ে করার অনুমতিও দিয়েছে (৫:৫)। কোনো সম্প্রদায়ের প্রতি বিদ্বেষ থাকলেও তাদের সঙ্গে ইনসাফ করার হুকুম দিয়েছে (৫:৮)। লেনদেনের ব্যাপারে সহীহ বুখারীতে (২৯১৬) আয়েশা (রাঃ) বর্ণনা করেন: রাসূলুল্লাহ ﷺ যখন ইন্তিকাল করেন, তখন তাঁর লোহার বর্মটি ত্রিশ সা' যবের বিনিময়ে এক ইয়াহূদির কাছে বন্ধক রাখা ছিল। বর্ণনাটি সাধারণ। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর একে এখানে যুক্ত করেনি। তবে এতে দেখা যায়, নবী ﷺ নিজেও ধার আর বন্ধকের সাধারণ লেনদেন করেছেন।"
+          },
+          {
+            "en": "The verse describes a specific danger: believers taking sides with others against the believers, out of fear, at a time of open conflict. It licenses nothing against any living person or community. It gives no ground for hostility toward Jews or Christians today, for suspicion of a neighbour or colleague, or for withholding ordinary courtesy, fairness and help. Whoever uses it to sour relations with peaceful people of other faiths has read past 60:8, which the same Book sets out in plain words.",
+            "bn": "আয়াতটি একটি নির্দিষ্ট বিপদের কথা বলে: প্রকাশ্য সংঘাতের সময়ে ভয়ের বশে মু'মিনদের বিরুদ্ধে অন্যদের পক্ষ নেওয়া। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের ইয়াহূদি বা খ্রিস্টানদের প্রতি শত্রুতার কোনো ভিত্তি এতে নেই। প্রতিবেশী বা সহকর্মীকে সন্দেহ করার, কিংবা স্বাভাবিক ভদ্রতা, ন্যায্যতা আর সাহায্য আটকে রাখারও কোনো ভিত্তি নেই। শান্তিপ্রিয় ভিন্নধর্মী মানুষের সঙ্গে সম্পর্ক তিক্ত করতে কেউ যদি এ আয়াত টানে, তবে সে ৬০:৮ পাশ কাটিয়ে গেছে, যা একই কিতাব সোজা ভাষায় বলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where I Lean When Afraid",
+          "bn": "ভয় পেলে কার উপর ভর"
+        },
+        "p": [
+          {
+            "en": "For a reader today, the verse is not a list of people to avoid. Its mirror is the moment 5:52 describes: the fear of being caught on the losing side, and the second loyalty kept quietly in reserve. That pattern turns up in ordinary life whenever someone abandons those he owes loyalty to because the other side looks stronger. The passage gives its own answer in 5:55: your wali is Allah, His Messenger and those who believe.",
+            "bn": "আজকের পাঠকের জন্য এ আয়াত এড়িয়ে চলার মতো মানুষের তালিকা নয়। এর আয়না হলো সেই মুহূর্ত, যার বর্ণনা ৫:৫২ দেয়: হেরে যাওয়া পক্ষে আটকে পড়ার ভয়, আর চুপচাপ জমিয়ে রাখা দ্বিতীয় আনুগত্য। এই ধরন সাধারণ জীবনেও দেখা দেয়, যখনই কেউ অন্য পক্ষকে বেশি শক্তিশালী দেখে, যাদের প্রতি তার আনুগত্যের দায় আছে তাদের ছেড়ে চলে যায়। অংশটি নিজেই জবাব দেয় ৫:৫৫ আয়াতে: তোমাদের ওয়ালী আল্লাহ, তাঁর রাসূল আর মু'মিনগণ।"
+          },
+          {
+            "en": "So the questions are turned inward. When I am afraid of losing, where do I look for safety first? Do I keep my fairness to neighbours of other faiths whole, as 60:8 asks, without letting this verse excuse a coldness it never asked for? And would my loyalty to what is right hold if holding it cost me money or standing? The passage ends on a promise for those who choose that side: \"indeed, the party of Allāh - they will be the predominant\" (5:56).",
+            "bn": "তাই প্রশ্নগুলো নিজের দিকেই ফেরে। হারানোর ভয় পেলে নিরাপত্তা খুঁজতে আমি প্রথমে কোথায় তাকাই? অন্য ধর্মের প্রতিবেশীর সঙ্গে আমার ন্যায্যতা কি পুরো আছে, যেমন ৬০:৮ চায়? নাকি এ আয়াতের দোহাই দিয়ে এমন রুক্ষতা চালিয়ে দিই, যা আয়াত কখনো চায়নি? আর সত্যের পক্ষে থাকতে যদি টাকা বা সম্মান খোয়াতে হয়, তখনো কি আমার আনুগত্য টিকবে? যারা সেই পক্ষ বেছে নেয়, তাদের জন্য প্রতিশ্রুতি দিয়েই অংশটি শেষ হয়: আল্লাহর দলই বিজয়ী হবে (৫:৫৬)।"
+          }
+        ]
+      }
+    ]
+  },
   "5:54": {
     "sections": [
       {

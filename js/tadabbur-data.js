@@ -20151,6 +20151,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah's I am with you came bound to terms: prayer, zakah, faith in and support of His messengers, and a goodly loan. Keep the terms if you seek the companionship.",
     "lessonBn": "আল্লাহর 'আমি তোমাদের সঙ্গে আছি' কথাটি এসেছে শর্তের সঙ্গে বাঁধা: নামাজ, যাকাত, তাঁর রাসূলদের উপর ঈমান ও তাঁদের সাহায্য, আর উত্তম ঋণ। তাঁর সঙ্গ চাইলে শর্তগুলো রক্ষা করুন।"
+  },
+  "5:51": {
+    "reflectionEn": "The verse that follows names the motive in the speakers' own words: we are afraid a misfortune may strike us. So this is not a passage about disliking anyone. It is about where a frightened person places his protection, and whose side he takes when sides are drawn against the believers. Elsewhere the Qur'an leaves kindness and fair dealing with peaceful people of other faiths open, in plain words (60:8). What it closes is the hedge: one hand with the believers, the other quietly holding a second alliance in case things go badly. Fear makes that hedge look like prudence. The mirror, then, is inward. When I am afraid of losing, whom do I lean on? And does my loyalty hold when holding it costs me something?",
+    "reflectionBn": "পরের আয়াতটি তাদের নিজেদের মুখের কথায় কারণটা বলে দেয়: আমাদের ভয় হয়, কোনো বিপদ এসে আমাদের ধরে না ফেলে। তাই এ আয়াত কাউকে অপছন্দ করার পাঠ নয়। প্রশ্নটা হলো, ভয় পেলে মানুষ নিজের নিরাপত্তা কোথায় রাখে, আর মু'মিনদের বিরুদ্ধে যখন পক্ষ ভাগ হয়, তখন সে কার পাশে দাঁড়ায়। অন্য ধর্মের শান্তিপ্রিয় মানুষের সঙ্গে সদাচার আর ন্যায়ের পথ কুরআন অন্যত্র সোজা ভাষায় খোলা রেখেছে (৬০:৮)। এখানে যা বন্ধ করা হয়েছে, তা হলো দুই নৌকায় পা রাখা। এক হাত মু'মিনদের সঙ্গে, আরেক হাতে চুপিচুপি আরেকটা মৈত্রী ধরে রাখা, যদি অবস্থা খারাপের দিকে যায়। ভয় এই দোটানাকে বুদ্ধিমানের কাজ বলে দেখায়। তাই আয়নাটা নিজের দিকে ঘোরাতে হয়। হেরে যাওয়ার ভয় পেলে আমি কার উপর ভর দিই? আর পাশে থাকতে যখন কিছু খোয়াতে হয়, তখনো কি আমার আনুগত্য টিকে থাকে?",
+    "pointsEn": [
+      "When I last felt afraid of losing something, where did I look for safety first, and was Allah anywhere on that list?",
+      "Do I keep a quiet second loyalty in reserve, in case the people I stand with turn out to be the losing side?",
+      "Is my fairness toward neighbours and colleagues of other faiths complete, or do I let a verse about alliances excuse coldness it never asked for?",
+      "Have I ever called something prudence when it was really fear of being on the wrong side when things change?",
+      "Whom would I stand with if standing with them cost me money, standing or comfort?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কিছু হারানোর ভয় পেয়েছি, নিরাপত্তা খুঁজতে প্রথমে কোথায় তাকিয়েছি? সেই তালিকায় কি আল্লাহর নাম ছিল?",
+      "যাদের সঙ্গে আছি তারা হেরে গেলে কাজে লাগবে, এমন কোনো দ্বিতীয় আনুগত্য কি আমি চুপচাপ জমিয়ে রাখি?",
+      "অন্য ধর্মের প্রতিবেশী বা সহকর্মীর সঙ্গে আমার ন্যায়বিচার কি পুরোপুরি? নাকি মৈত্রী নিয়ে এক আয়াতের দোহাই দিয়ে এমন রুক্ষতা চালিয়ে দিই, যা আয়াতটি কখনো চায়নি?",
+      "অবস্থা বদলালে ভুল পক্ষে পড়ে যাওয়ার ভয়কে কি কখনো বুদ্ধিমত্তা বলে চালিয়েছি?",
+      "কারও পাশে দাঁড়াতে গিয়ে যদি টাকা, সম্মান বা আরাম খোয়াতে হয়, তবু আমি কার পাশে দাঁড়াব?"
+    ],
+    "lessonEn": "Deal justly and kindly with everyone, but never let fear make you take sides against the believers to keep a safety net.",
+    "lessonBn": "সবার সঙ্গে ন্যায় ও সদাচার করুন, কিন্তু নিরাপত্তার ফাঁকফোকর রাখতে গিয়ে ভয় যেন আপনাকে মু'মিনদের বিপক্ষে দাঁড় না করায়।"
   }
 };
 
