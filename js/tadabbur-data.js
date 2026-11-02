@@ -20411,6 +20411,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep the promises you make to Allah in hardship, and let your thanks after rescue show as worship of Him alone.",
     "lessonBn": "বিপদের সময় আল্লাহর কাছে যে প্রতিজ্ঞা করেন তা রক্ষা করুন, আর উদ্ধার পাওয়ার পর শুকরিয়া প্রকাশ করুন শুধু তাঁরই ইবাদতে।"
+  },
+  "6:48": {
+    "reflectionEn": "After verses about nations seized and hearing taken away, this one says calmly what every messenger was sent to do: bring good news and give warning. Nothing about producing wonders on demand, nothing about forcing anyone. Two messages, and then the choice is handed back to the listener. Whoever believes and sets things right will have no fear of what lies ahead and no grief over what was left behind. The good news is not a mood, and the warning is not a threat aimed at strangers; both are addressed to me. Which half do I actually let in, the hopeful one or the frightening one? And has my believing reached the point where it has set anything right?",
+    "reflectionBn": "একের পর এক জাতিকে পাকড়াও করা আর শোনা-দেখার শক্তি কেড়ে নেওয়ার কথা বলার পর এ আয়াত শান্ত গলায় জানিয়ে দেয়, রসূলদের কাজ কী ছিল। সুসংবাদ দেওয়া আর সতর্ক করা। চাহিদামতো অলৌকিক কিছু দেখানো তাঁদের কাজ নয়, কাউকে জোর করাও নয়। দুটো বার্তা পৌঁছে যায়, তারপর বেছে নেওয়ার ভার ফিরে আসে শ্রোতার হাতে। যে ঈমান আনে আর নিজেকে শুধরে নেয়, সামনের দিনের ভয় তাকে ছোঁবে না, পেছনে ফেলে আসা জিনিসের দুঃখও না। সুসংবাদ কোনো মেজাজের ব্যাপার নয়। সতর্কবাণীও অচেনা কোনো লোকের দিকে ছুড়ে দেওয়া হুমকি নয়। দুটোই আমাকে বলা হয়েছে। আমি আসলে কোন অংশটা ভেতরে ঢুকতে দিই, আশার অংশ, নাকি ভয়ের অংশ? আর আমার ঈমান কি এতদূর পৌঁছেছে যে তা কিছু একটা শুধরে দিয়েছে?",
+    "pointsEn": [
+      "When I hear a reminder, do I take both the good news and the warning, or only the half that suits my mood that day?",
+      "What have I been waiting for, a sign or a feeling, before acting on something I already know to be right?",
+      "Beyond believing it, what is the one thing that setting right would mean in my life this month?",
+      "What am I afraid of in the days ahead, and what am I still grieving from the past, that this promise speaks to?",
+      "When I advise someone, do I give good news as readily as I give warnings, or do I only frighten?"
+    ],
+    "pointsBn": [
+      "কোনো নসিহত শুনলে আমি কি সুসংবাদ আর সতর্কবাণী দুটোই গ্রহণ করি, নাকি সেদিনের মেজাজের সঙ্গে যে অংশ মেলে শুধু সেটুকু নিই?",
+      "যে কাজটা ঠিক বলে আমি আগে থেকেই জানি, তা করার আগে আমি কিসের অপেক্ষায় বসে আছি, কোনো নিদর্শনের, নাকি কোনো অনুভূতির?",
+      "শুধু বিশ্বাস করার বাইরে, এ মাসে আমার জীবনে নিজেকে শুধরে নেওয়া মানে কোন একটি নির্দিষ্ট কাজ?",
+      "সামনের দিনগুলো নিয়ে আমার কিসের ভয়, আর অতীতের কোন জিনিসের জন্য আমি এখনো দুঃখ বয়ে বেড়াই, যার কথা এই প্রতিশ্রুতি বলছে?",
+      "কাউকে উপদেশ দিলে আমি কি সতর্ক করার মতো সহজে সুসংবাদও দিই, নাকি শুধু ভয়ই দেখাই?"
+    ],
+    "lessonEn": "Take in both the good news and the warning, and let your faith show in something you actually set right, for that is where fear and grief lose their hold.",
+    "lessonBn": "সুসংবাদ আর সতর্কবাণী দুটোই গ্রহণ করুন, আর আপনার ঈমানকে এমন কিছুতে প্রকাশ পেতে দিন যা আপনি সত্যিই শুধরে নিয়েছেন। ভয় আর দুঃখের বাঁধন সেখানেই আলগা হয়।"
   }
 };
 

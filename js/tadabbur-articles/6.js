@@ -1599,6 +1599,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Two Questions",
+          "bn": "দুই প্রশ্নের পরের কথা"
+        },
+        "p": [
+          {
+            "en": "The verses before this one tell a story and then put two questions. 6:42 to 6:45 recall nations to whom messengers were sent: tried with poverty and hardship, then given ease, then seized suddenly, until the wrongdoing people were cut off. 6:46 asks who but Allah could restore hearing, sight and a sealed heart. 6:47 asks whether a punishment, arriving unannounced or in plain view, would destroy anyone except the wrongdoing people. Allah then speaks of Himself: wa ma nursilu al-mursalina, and We do not send the messengers.",
+            "bn": "এ আয়াতের আগের আয়াতগুলো একটা কাহিনি বলে, তারপর দুটি প্রশ্ন রাখে। ৬:৪২ থেকে ৬:৪৫ আয়াতে আছে সেই জাতিগুলোর কথা, যাদের কাছে রসূল পাঠানো হয়েছিল। প্রথমে অভাব আর কষ্ট দিয়ে তাদের পরীক্ষা করা হয়, তারপর সচ্ছলতা দেওয়া হয়, তারপর হঠাৎ পাকড়াও। শেষে জালিম সম্প্রদায়ের শিকড় কেটে দেওয়া হয়। ৬:৪৬ জিজ্ঞেস করে, শোনা ও দেখার শক্তি আর মোহর লাগানো অন্তর আল্লাহ ছাড়া কে ফিরিয়ে দেবে? ৬:৪৭ জিজ্ঞেস করে, আজাব আচমকা বা প্রকাশ্যে এলে জালিমরা ছাড়া আর কেউ কি ধ্বংস হবে? এরপর আল্লাহ নিজের কথা নিজে বলেন: ওয়া মা নুরসিলুল মুরসালীন, আর আমি রসূলদের পাঠাই না..."
+          },
+          {
+            "en": "The verb is present tense, nursilu, We send, so the sentence reads as a standing description of how messengers are sent rather than a report of one occasion. Ibn Kathir's English abridgement reads 6:47 straight into it: the torment strikes only those who wrong themselves by associating others with Allah, while those who worship Him alone are saved and will have no fear or sorrow.",
+            "bn": "ক্রিয়াটি বর্তমান কালের, নুরসিলু, আমি পাঠাই। তাই বাক্যটা কোনো একবারের ঘটনার খবর হিসেবে পড়ায় না, বরং রসূল পাঠানোর চিরকালের নিয়ম হিসেবে পড়ায়। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ৬:৪৭ থেকে সোজা এ আয়াতে চলে আসে। তাঁর কথায়, আজাব কেবল তাদেরই ধরে যারা আল্লাহর সঙ্গে শরিক করে নিজেদের উপর জুলুম করে। আর যারা একমাত্র তাঁরই ইবাদত করে, তারা রক্ষা পায়, তাদের কোনো ভয় বা দুঃখ থাকবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Sent to Take Requests",
+          "bn": "ফরমায়েশ মেটাতে পাঠানো নয়"
+        },
+        "p": [
+          {
+            "en": "The sentence is built as a restriction, ma followed by illa: We do not send the messengers except as bringers of good tidings and warners. A restriction says what something is by saying what it is not. Al-Qurtubi names what is excluded. The meaning, he writes, is that We sent the messengers for this, and not for the signs that people propose to them; and they bring of the signs only what makes their proofs and their truthfulness appear.",
+            "bn": "বাক্যটা গড়া হয়েছে সীমা টেনে, মা আর ইল্লা দিয়ে: আমি রসূলদের পাঠাই না, তবে সুসংবাদদাতা ও সতর্ককারী হিসেবে। এমন বাক্য কোনো কিছুর পরিচয় দেয় সে কী নয় তা জানিয়ে। কী বাদ পড়ল, কুরতুবী তা নাম ধরে বলেন। তাঁর ব্যাখ্যায় অর্থ হলো, আমি রসূলদের পাঠিয়েছি এ কাজের জন্য, লোকেরা যেসব নিদর্শনের ফরমায়েশ করে সেগুলোর জন্য নয়। নিদর্শনের মধ্যে তাঁরা কেবল ততটুকুই আনেন, যাতে তাঁদের প্রমাণ আর সত্যবাদিতা প্রকাশ পায়।"
+          },
+          {
+            "en": "The surah has already recorded such requests. 6:37 has them say: why has a sign not been sent down to him from his Lord? 17:59 gives the other side: nothing prevented Us from sending signs except that the former peoples denied them, and We send the signs only as a warning. The restriction here does not deny that messengers came with signs. It denies that signs on demand were ever their work.",
+            "bn": "এমন ফরমায়েশের কথা এ সূরা আগেই তুলে রেখেছে। ৬:৩৭ আয়াতে তারা বলে, তার রবের কাছ থেকে তার উপর কোনো নিদর্শন নামানো হলো না কেন? ১৭:৫৯ আয়াতে আছে অন্য দিকটা: নিদর্শন পাঠাতে আমাকে কিছুই বাধা দেয়নি, শুধু এটুকু ছাড়া যে আগের লোকেরা সেগুলো অস্বীকার করেছিল, আর আমি নিদর্শন পাঠাই কেবল ভয় দেখানোর জন্য। রসূলরা যে নিদর্শন নিয়ে এসেছেন, এখানকার সীমারেখা তা অস্বীকার করে না। অস্বীকার করে শুধু এটুকু যে চাহিদামতো নিদর্শন দেখানো কখনো তাঁদের কাজ ছিল না।"
+          },
+          {
+            "en": "18:56 repeats the opening of this verse word for word, then continues differently: those who disbelieve dispute by falsehood to refute the truth, and take My verses and what they were warned of in ridicule. Here in al-An'am the same sentence is followed by a promise to whoever believes; in al-Kahf, by a description of those who argue. The task given to the messengers is identical in both places. What differs is what people do once it has reached them.",
+            "bn": "১৮:৫৬ আয়াত এ আয়াতের শুরুটা হুবহু একই শব্দে বলে, তারপর অন্য দিকে যায়: যারা কুফরি করে তারা বাতিল নিয়ে তর্ক করে, যাতে তা দিয়ে সত্যকে টলিয়ে দিতে পারে, আর আমার আয়াত ও যা দিয়ে তাদের সতর্ক করা হয়েছে তা নিয়ে তারা ঠাট্টা করে। সূরা আনআমে একই বাক্যের পরে এসেছে ঈমান আনা মানুষের জন্য প্রতিশ্রুতি। সূরা কাহফে এসেছে তর্ক করা লোকদের বর্ণনা। রসূলদের দায়িত্ব দুই জায়গাতেই এক। ফারাকটা হলো, দাওয়াত পৌঁছার পর মানুষ কী করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Two Words Carry",
+          "bn": "দুই শব্দের ভেতরের বোঝা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the pair by its recipients: the messengers bring good tidings of good things to Allah's believing servants, and warn those who disbelieve in Allah of vengeance and punishments. His English abridgement adds that they also command all that is good and righteous. Al-Qurtubi compresses the pair into two words of his own, targhib and tarhib: making people long for something, and making them afraid of something.",
+            "bn": "ইবন কাসীর জোড়াটা ব্যাখ্যা করেন কার কাছে কী যায় তা দিয়ে। রসূলরা আল্লাহর মুমিন বান্দাদের কল্যাণের সুসংবাদ দেন, আর যারা আল্লাহর সঙ্গে কুফরি করে তাদের সতর্ক করেন প্রতিশোধ আর শাস্তি সম্পর্কে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণ যোগ করে, তাঁরা সব ভালো ও নেক কাজের আদেশও দেন। কুরতুবী জোড়াটাকে নিজের দুটি শব্দে বেঁধে দেন, তারগীব আর তারহীব। একটা হলো কোনো কিছুর প্রতি আগ্রহ জাগানো, অন্যটা কোনো কিছুর ভয় জাগানো।"
+          },
+          {
+            "en": "On what the good tidings promise, the commentators part ways. At-Tabari places it on the Day of Resurrection: the good tidings to the people of obedience are of Paradise and the clear triumph on that day. Al-Qurtubi reports from al-Hasan that the messengers bring good tidings of ample provision in this world and of reward in the next, and cites 7:96 as the evidence: had the people of the towns believed and been mindful, We would have opened to them blessings from the heaven and the earth.",
+            "bn": "সুসংবাদে ঠিক কী আছে, সে প্রশ্নে তাফসীরকারেরা আলাদা পথে যান। তাবারী একে রাখেন কিয়ামতের দিনে। তাঁর ভাষায়, আনুগত্যকারীদের সুসংবাদ হলো জান্নাত আর সেদিনের সুস্পষ্ট সাফল্য। কুরতুবী আল-হাসান থেকে বর্ণনা করেন, রসূলরা সুসংবাদ দেন দুনিয়ায় প্রশস্ত রিজিকের আর আখিরাতে সওয়াবের। প্রমাণ হিসেবে তিনি আনেন ৭:৯৬: জনপদের লোকেরা যদি ঈমান আনত আর তাকওয়া অবলম্বন করত, তাহলে আমি তাদের জন্য আসমান ও জমিনের বরকত খুলে দিতাম।"
+          },
+          {
+            "en": "The Muyassar stays with the Hereafter: good tidings of lasting bliss to the people of obedience, and warning of a painful punishment to the people of disobedience. As-Sa'di calls the pair the cream of what the messengers were sent with, and notes how much it holds: making known who is given good news and of what, who is warned and of what, and the deeds that bring each upon a person.",
+            "bn": "মুয়াসসার আখিরাতের কথাতেই থাকে। আনুগত্যকারীদের জন্য চিরস্থায়ী নিয়ামতের সুসংবাদ, আর নাফরমানদের জন্য যন্ত্রণাদায়ক আজাবের সতর্কবাণী। সা'দী এই জোড়াকে বলেন রসূলদের বার্তার সারনির্যাস। তাঁর মতে এর ভেতরে অনেক কিছু ঢোকানো আছে। কাকে সুসংবাদ দেওয়া হচ্ছে আর কিসের, কাকে সতর্ক করা হচ্ছে আর কিসের, আর কোন কোন আমল মানুষকে সুসংবাদের হকদার বানায় বা সতর্কবাণীর আওতায় ফেলে, সবই খুলে বলতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warned So None Can Plead",
+          "bn": "যাতে কোনো অজুহাত না থাকে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the warning a purpose. The messengers warn whoever disobeys of Allah's punishment on the Day of Resurrection, he writes, so that We leave him no excuse, and so that if he perishes, he perishes upon clear evidence. His phrase, fa-yahlika in halaka 'an bayyina, echoes the wording of 8:42: that whoever perished would perish upon clear evidence. 4:165 gives the same pair the same purpose: messengers as bringers of good tidings and warners, so that people would have no argument against Allah after the messengers.",
+            "bn": "তাবারী সতর্ক করার পেছনের উদ্দেশ্যটাও বলে দেন। তাঁর ভাষায়, যে নাফরমানি করে, রসূলরা তাকে কিয়ামতের দিনে আল্লাহর শাস্তি সম্পর্কে সতর্ক করেন, যাতে তার কোনো অজুহাত বাকি না থাকে। আর সে ধ্বংস হলে যেন সুস্পষ্ট প্রমাণ দেখার পরেই ধ্বংস হয়। তাঁর বাক্যাংশ, ফা ইয়াহলিকা ইন হালাকা আন বাইয়িনাহ, ৮:৪২ আয়াতের শব্দের প্রতিধ্বনি: যে ধ্বংস হবে সে যেন সুস্পষ্ট প্রমাণের পরেই ধ্বংস হয়। ৪:১৬৫ আয়াত এই একই জোড়ার একই উদ্দেশ্য জানায়। রসূলরা সুসংবাদদাতা ও সতর্ককারী, যাতে রসূলদের আসার পর আল্লাহর বিরুদ্ধে মানুষের কোনো যুক্তি না থাকে।"
+          },
+          {
+            "en": "Read beside 6:44, the verse cited with al-Hasan's reading is striking. 7:96 and 6:44 use the same verb of opening. In 7:96 blessings would have been opened to people who believed and were mindful; in 6:44 the doors of everything are opened to people who had forgotten what they were reminded of, and the opening ends in a sudden seizure. What separates them is not the abundance itself but the answer given to the good tidings and the warning this verse describes.",
+            "bn": "৬:৪৪ আয়াতের পাশে রাখলে আল-হাসানের মতের সঙ্গে উদ্ধৃত আয়াতটা আলাদা করে চোখে পড়ে। ৭:৯৬ আর ৬:৪৪, দুই জায়গাতেই খুলে দেওয়ার একই ক্রিয়া। ৭:৯৬ আয়াতে বরকত খুলে দেওয়ার কথা তাদের জন্য, যারা ঈমান আনত আর তাকওয়া অবলম্বন করত। ৬:৪৪ আয়াতে সবকিছুর দরজা খুলে দেওয়া হয় তাদের জন্য, যারা উপদেশ ভুলে গিয়েছিল, আর সেই খুলে দেওয়ার শেষ হয় হঠাৎ পাকড়াওয়ে। দুটোকে আলাদা করে প্রাচুর্য নয়, বরং এ আয়াতের সুসংবাদ আর সতর্কবাণীর প্রতি মানুষের সাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief That Puts Things Right",
+          "bn": "যে ঈমান শুধরে দেয়"
+        },
+        "p": [
+          {
+            "en": "Fa-man amana wa aslaha: so whoever believes and sets right. Ibn Kathir divides the work between the heart and the deed: whoever believes in his heart in what the messengers brought, and sets his deeds right by following them. That last phrase gives islah a measure. Setting right is not left to a person's private sense of what is good; it is measured against the messengers the verse has just described, by following what they did.",
+            "bn": "ফা মান আমানা ওয়া আসলাহা: তাই যে ঈমান আনে আর শুধরে নেয়। ইবন কাসীর কাজটা ভাগ করেন অন্তর আর আমলের মধ্যে। তাঁর ব্যাখ্যায়, যে রসূলদের আনা বিষয়ের উপর অন্তর দিয়ে ঈমান আনে, আর তাঁদের অনুসরণ করে নিজের আমল ঠিক করে নেয়। শেষের এই কথাটা ইসলাহকে একটা মাপকাঠি দেয়। ভালো কী, সে বিচার মানুষের নিজের খেয়ালের উপর ছেড়ে দেওয়া হয়নি। মাপা হবে আয়াতে এইমাত্র যাঁদের কথা এল, সেই রসূলদের অনুসরণ দিয়ে।"
+          },
+          {
+            "en": "At-Tabari builds the sequence in three steps: whoever believed the warning of the messengers sent to him, accepted from them what they brought from Allah, and did righteous work in this world. Al-Baghawi supplies a single word after aslaha, al-'amal: he set right the deed. The Muyassar pairs believing the messengers with doing righteous work. For these commentators, what the second verb adds to the first is action, belief carried into the way a person actually lives.",
+            "bn": "তাবারী ধাপগুলো সাজান তিনটি ধাপে। যার কাছে রসূল পাঠানো হয়েছে, সে তাঁদের সতর্কবাণী সত্য বলে মেনেছে, আল্লাহর কাছ থেকে তাঁরা যা এনেছেন তা গ্রহণ করেছে, আর দুনিয়ায় নেক আমল করেছে। বাগাভী আসলাহা-র পরে মাত্র একটি শব্দ জুড়ে দেন, আল-আমাল: সে আমল শুধরে নিয়েছে। মুয়াসসার রসূলদের সত্য বলে মানার সঙ্গে নেক আমলকে জুড়ে দেয়। এই তাফসীরকারদের কাছে দ্বিতীয় ক্রিয়া প্রথমটার সঙ্গে যা যোগ করে তা হলো আমল। বিশ্বাসটা মানুষের রোজকার জীবনে নেমে আসে।"
+          },
+          {
+            "en": "As-Sa'di reaches further. He spells out the belief in full, in Allah, His angels, His books, His messengers and the Last Day, and then says the person set right his faith, his deeds and his intention. On his reading islah does not only follow iman; it also works on iman itself, and on the intention behind each deed. 7:35 uses the same construction with a different first verb, fa-man ittaqa wa aslaha, whoever is mindful of Allah and sets right, and attaches the same promise to it.",
+            "bn": "সা'দী আরও এক ধাপ এগিয়ে যান। তিনি ঈমানের পুরো তালিকা দেন: আল্লাহ, তাঁর ফেরেশতা, তাঁর কিতাব, তাঁর রসূল আর আখিরাতের দিনের উপর ঈমান। তারপর বলেন, সে শুধরে নিয়েছে নিজের ঈমান, নিজের আমল আর নিজের নিয়ত। তাঁর পাঠে ইসলাহ শুধু ঈমানের পরে আসে না, ঈমানকেও মেরামত করে, আর প্রতিটি আমলের পেছনের নিয়তকেও। ৭:৩৫ আয়াতে একই গঠন আছে, শুধু প্রথম ক্রিয়াটা আলাদা: ফা মানিত্তাকা ওয়া আসলাহা, যে তাকওয়া অবলম্বন করে আর শুধরে নেয়। প্রতিশ্রুতিও সেখানে একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Ahead, Grief Behind",
+          "bn": "সামনের ভয়, পেছনের দুঃখ"
+        },
+        "p": [
+          {
+            "en": "Fa-la khawfun 'alayhim wa la hum yahzanun: no fear upon them, nor will they grieve. Ibn Kathir divides the two by time. Fear concerns what they are about to face; grief concerns what passed them by and what they left behind them of the world and its business. He adds a comfort: Allah is their guardian over what they left, and keeps safe what they had to leave. As-Sa'di gives the same division in fewer words: no fear in what is coming, no grief over what has gone.",
+            "bn": "ফা লা খাওফুন আলাইহিম ওয়া লা হুম ইয়াহযানূন: তাদের কোনো ভয় নেই, তারা দুঃখও পাবে না। ইবন কাসীর দুটিকে ভাগ করেন সময় দিয়ে। ভয়ের সম্পর্ক সামনে যা আসছে তার সঙ্গে। দুঃখের সম্পর্ক যা হাতছাড়া হয়েছে আর দুনিয়ার যে কাজকারবার তারা পেছনে ফেলে এসেছে তার সঙ্গে। তারপর তিনি সান্ত্বনার একটা কথা জুড়ে দেন: তারা যা রেখে এসেছে, আল্লাহই তার অভিভাবক, যা ছেড়ে আসতে হয়েছে তিনিই তা হেফাজত করেন। সা'দী একই ভাগ করেন আরও অল্প কথায়। সামনের ব্যাপারে ভয় নেই, অতীতের ব্যাপারে দুঃখ নেই।"
+          },
+          {
+            "en": "At-Tabari, al-Baghawi and the Muyassar fix the promise at a moment. At-Tabari: no fear when they come before their Lord, of the punishment He prepared for His enemies, and no grief at that time over what they left behind in the world. Al-Baghawi: no fear when the people of the Fire are afraid, and no grief when they grieve. The Muyassar: they will not be afraid at the meeting with their Lord, nor grieve over any worldly share that escaped them.",
+            "bn": "তাবারী, বাগাভী আর মুয়াসসার প্রতিশ্রুতিটাকে একটা নির্দিষ্ট মুহূর্তে বেঁধে দেন। তাবারীর কথায়, রবের সামনে হাজির হওয়ার সময় তাঁর শত্রুদের জন্য তৈরি শাস্তির কোনো ভয় তাদের থাকবে না, আর দুনিয়ায় যা রেখে এসেছে তার জন্য তখন তারা দুঃখ পাবে না। বাগাভীর কথায়, জাহান্নামিরা যখন ভয় পাবে তখন তাদের ভয় থাকবে না, আর ওরা যখন দুঃখ পাবে তখন এদের দুঃখ থাকবে না। মুয়াসসারের কথায়, রবের সঙ্গে সাক্ষাতের সময় তারা ভয় পাবে না, আর দুনিয়ার যে ভাগ হাতছাড়া হয়েছে তার জন্যও আফসোস করবে না।"
+          },
+          {
+            "en": "So the promise is framed two ways, by the direction of time and at the meeting with Allah, and none of the fetched texts sets one against the other. The grammar has a small turn of its own: man, whoever, takes singular verbs, amana and aslaha, and then the promise switches to the plural, 'alayhim and hum. The same closing words end 2:38, 10:62 and 46:13, attached there to following guidance, to the allies of Allah, and to saying our Lord is Allah and then standing firm.",
+            "bn": "তাহলে প্রতিশ্রুতিটা দুইভাবে বলা হয়েছে, একবার সময়ের দিক দিয়ে, আরেকবার আল্লাহর সঙ্গে সাক্ষাতের মুহূর্তে। যে তাফসীরগুলো সামনে আছে, তার কোনোটাই একটাকে অন্যটার বিরুদ্ধে দাঁড় করায় না। বাক্যগঠনেও ছোট্ট একটা মোড় আছে। মান, অর্থাৎ যে, এর সঙ্গে ক্রিয়া আসে একবচনে, আমানা আর আসলাহা। তারপর প্রতিশ্রুতিতে এসে হয়ে যায় বহুবচন, আলাইহিম আর হুম। একই সমাপ্তি-বাক্য আছে ২:৩৮, ১০:৬২ ও ৪৬:১৩ আয়াতে। সেখানে তা জুড়েছে যথাক্রমে হিদায়াতের অনুসরণের সঙ্গে, আল্লাহর বন্ধুদের সঙ্গে, আর আমাদের রব আল্লাহ বলে তার উপর অটল থাকার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warner Who Had Seen It",
+          "bn": "যে সতর্ককারী নিজে দেখেছিলেন"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it. Two narrations in Sahih al-Bukhari, not tied to the verse, put its two roles in the Prophet's own words. Abu Musa (RA) reports (6482) that he ﷺ said: my example and the example of the message with which Allah has sent me is like that of a man who came to some people and said, I have seen with my own eyes the enemy forces, and I am a naked warner, so save yourself, save yourself.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো সামনে আছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে সহীহ বুখারীর দুটি বর্ণনা, যা এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়, এই দুই ভূমিকাকে নবী ﷺ-এর নিজের মুখের কথায় তুলে ধরে। আবু মূসা (রাঃ) বর্ণনা করেন (৬৪৮২), তিনি ﷺ বলেছেন: আমার আর আল্লাহ আমাকে যে বার্তা দিয়ে পাঠিয়েছেন তার উদাহরণ এমন এক লোকের মতো, যে এক সম্প্রদায়ের কাছে এসে বলল, আমি নিজের চোখে শত্রুবাহিনী দেখে এসেছি, আর আমি নগ্ন সতর্ককারী, তাই বাঁচো, বাঁচো।"
+          },
+          {
+            "en": "The narration continues: a group of them obeyed him and went out at night, slowly and stealthily, and were safe, while another group did not believe him, and the army took them in the morning and destroyed them. Anas ibn Malik (RA) reports (69) the other role as a command to those who teach: facilitate things to people and do not make it hard for them, and give them good tidings and do not make them run away.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: তাদের একদল তার কথা মানল, রাতের বেলা ধীরে ও চুপিসারে বেরিয়ে পড়ল আর নিরাপদে রইল। আরেক দল তাকে বিশ্বাস করল না, ফলে ভোরবেলা বাহিনী তাদের উপর চড়াও হয়ে তাদের ধ্বংস করে দিল। আনাস ইবন মালিক (রাঃ) বর্ণনা করেন (৬৯) অন্য ভূমিকাটির কথা, যাঁরা শেখান তাঁদের প্রতি আদেশ হিসেবে: মানুষের জন্য সহজ করো, কঠিন করো না, সুসংবাদ দাও, দূরে সরিয়ে দিয়ো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Punishment Touches",
+          "bn": "আজাব যাদের ছুঁয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the division. 6:49: and those who deny Our verses, the punishment will touch them because they used to disobey. Ibn Kathir's English abridgement gives the cause as a list: disbelieving in the message of the messengers, defying Allah's commands, committing what He prohibited and transgressing His set limits. As-Sa'di had already said that people divide into two according to whether or not they answer the messengers' call, and 6:48 and 6:49 set those two groups side by side.",
+            "bn": "পরের আয়াত ভাগটা সম্পূর্ণ করে। ৬:৪৯: আর যারা আমার আয়াতকে মিথ্যা বলে, তাদের নাফরমানির কারণে আজাব তাদের ছুঁয়ে যাবে। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ কারণগুলো একে একে গোনে। রসূলদের বার্তা অবিশ্বাস করা, আল্লাহর আদেশ অমান্য করা, তিনি যা নিষেধ করেছেন তা করা, আর তাঁর বেঁধে দেওয়া সীমা লঙ্ঘন করা। সা'দী আগেই বলেছেন, রসূলদের দাওয়াতে সাড়া দেওয়া বা না দেওয়ার ভিত্তিতে মানুষ দুই ভাগ হয়ে যায়। ৬:৪৮ আর ৬:৪৯ সেই দুই দলকে পাশাপাশি দাঁড় করায়।"
+          },
+          {
+            "en": "This needs saying plainly. The nations cut off in 6:45 and the deniers of 6:49 are described by what they did: they forgot the reminder, rejoiced in what they were given, denied the verses and kept on disobeying. The verses describe what the text describes, and license nothing against any living person or community. They give no one the right to name others as the wrongdoing people, or to read another person's hardship or ease as proof of where that person stands with Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ৬:৪৫ আয়াতে যাদের শিকড় কাটা হয়েছে, আর ৬:৪৯ আয়াতে যারা আয়াতকে মিথ্যা বলেছে, তাদের পরিচয় দেওয়া হয়েছে তাদের কাজ দিয়ে। তারা উপদেশ ভুলে গিয়েছিল, যা পেয়েছিল তাতে মেতে উঠেছিল, আয়াতকে মিথ্যা বলেছিল আর নাফরমানি চালিয়ে গিয়েছিল। আয়াতগুলো যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। কাউকে জালিম সম্প্রদায় বলে দাগিয়ে দেওয়ার অধিকার কারও নেই। অন্যের কষ্ট বা সচ্ছলতা দেখে আল্লাহর কাছে তার অবস্থান মেপে ফেলারও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking Both Halves Home",
+          "bn": "দুই অংশই সঙ্গে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Some hear only the good news and conclude that nothing they do will be held against them; others hear only the warning and conclude that nothing they do will ever be enough. The verse holds both, then moves straight to the listener's part, believing and setting right. A practical test for this week: when a verse or a talk reaches you, name one thing in it that gives you hope and one that warns you, before deciding what it asks of you.",
+            "bn": "কেউ শুধু সুসংবাদটা শোনে আর ভেবে নেয়, তার কোনো কাজের জন্যই তাকে ধরা হবে না। কেউ শুধু সতর্কবাণী শোনে আর ভেবে নেয়, যা-ই করুক কখনো যথেষ্ট হবে না। আয়াত দুটোকেই ধরে রাখে, তারপর সোজা চলে যায় শ্রোতার দায়িত্বে: ঈমান আনা আর শুধরে নেওয়া। এ সপ্তাহের জন্য একটা সহজ পরীক্ষা। কোনো আয়াত বা বয়ান যখন কানে আসে, তা আপনার কাছে কী চাইছে ঠিক করার আগে এর মধ্যে আশা জাগানো একটা কথা আর সতর্ক করা একটা কথা আলাদা করে চিনে নিন।"
+          },
+          {
+            "en": "For anyone who teaches, the same balance applies from the other side. Al-Qurtubi's two words, targhib and tarhib, describe a single message, and the narration from Anas places good tidings inside the command itself. And since islah, in Ibn Kathir's reading, is measured by following the messengers, the question to put to oneself is specific: which one deed of mine would look different if I measured it against theirs?",
+            "bn": "যাঁরা শেখান, তাঁদের জন্যও একই ভারসাম্য, শুধু উল্টো দিক থেকে। কুরতুবীর দুটো শব্দ, তারগীব আর তারহীব, একটাই বার্তার দুই দিক। আর আনাস (রাঃ)-এর বর্ণনা সুসংবাদ দেওয়াকে আদেশের ভেতরেই রেখে দিয়েছে। ইবন কাসীরের পাঠে ইসলাহ যেহেতু মাপা হয় রসূলদের অনুসরণ দিয়ে, তাই নিজেকে করার প্রশ্নটা নির্দিষ্ট: আমার কোন একটা আমল তাঁদের আমলের পাশে রেখে মাপলে অন্যরকম দেখাত?"
+          }
+        ]
+      }
+    ]
+  },
   "6:50": {
     "sections": [
       {
