@@ -2575,6 +2575,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:87": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Tears, a Limit",
+          "bn": "অশ্রুর পরেই একটি সীমা"
+        },
+        "p": [
+          {
+            "en": "The two verses just before this one, 5:82 and 5:83, speak of those who say, We are Christians. They credit them with priests and monks and with not being arrogant, and picture their eyes overflowing at the truth. Then the surah turns to the believers with a command about good things. Ma'arif al-Qur'an, abridging Ashraf 'Ali Thanavi's Bayan al-Qur'an, explains the link: monasticism had just been mentioned with approval for one feature, leaving worldly desires, and someone might take the whole of it as praiseworthy, so this verse forbids making unlawful what Allah has made lawful.",
+            "bn": "ঠিক আগের দুই আয়াত, ৫:৮২ ও ৫:৮৩, তাদের কথা বলে যারা নিজেদের নাসারা বলে পরিচয় দেয়। তাদের মধ্যে আলিম ও সংসারত্যাগী আছে, তারা অহংকার করে না, আর সত্য চিনতে পেরে তাদের চোখ বেয়ে অশ্রু নামে। এরপর সূরাটি ঈমানদারদের দিকে ফেরে, পবিত্র জিনিস নিয়ে একটি আদেশ নিয়ে। মাআরিফুল কুরআন আশরাফ আলী থানভীর বয়ানুল কুরআন থেকে সংক্ষেপে সংযোগটা দেখায়। একটু আগেই সংসারত্যাগের একটি দিক, দুনিয়ার কামনা ছেড়ে দেওয়া, প্রশংসার সুরে এসেছে। কেউ পুরো বৈরাগ্যকেই প্রশংসনীয় ভেবে বসতে পারে। তাই এখানে আল্লাহর হালালকে হারাম বানাতে নিষেধ করা হলো।"
+          },
+          {
+            "en": "The address is ya ayyuha alladhina amanu, O you who have believed. At-Tabari glosses it as those who affirmed Allah and His Messenger and accepted what their Prophet ﷺ brought as truth from Allah. So the warning is not aimed at the careless. It goes to people whose faith is real and whose danger comes from zeal. Then 5:88 turns the prohibition into a command, eat of what Allah has provided, lawful and good, and 5:89 deals with oaths.",
+            "bn": "সম্বোধন হলো ইয়া আইয়্যুহাল্লাযীনা আমানূ, হে যারা ঈমান এনেছ। তাবারীর ব্যাখ্যায় এরা সেই মানুষ, যারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনেছে, আর নবী ﷺ যা এনেছেন তা আল্লাহর পক্ষ থেকে সত্য বলে স্বীকার করেছে। কাজেই সতর্কবাণীটা গাফেলদের জন্য নয়। এটা তাদের জন্য, যাদের ঈমান খাঁটি আর বিপদ আসে অতি উৎসাহ থেকে। এরপর ৫:৮৮ নিষেধকে আদেশে রূপ দেয়: আল্লাহর দেওয়া হালাল ও পবিত্র রিজিক থেকে খাও। আর ৫:৮৯ আসে কসমের বিধান নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Things, Declared Forbidden",
+          "bn": "পবিত্র জিনিসকে হারাম ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari defines at-tayyibat as the delightful things that souls desire and hearts incline towards. Do not withhold them from yourselves, he says, as the priests and monks did, who forbade themselves women, good food and pleasant drink; some shut themselves in cells and some wandered the land. The Muyassar names the same three areas, food, drink and marriage, and states the fault in a phrase: you would make narrow what Allah has made wide. Then it reads the second prohibition as do not overstep the limits of what Allah has forbidden.",
+            "bn": "তাবারী আত-তাইয়্যিবাতের অর্থ করেন: সেই সব মজার জিনিস, যা মন চায় আর হৃদয় যেদিকে ঝোঁকে। তিনি বলেন, নিজেদের এগুলো থেকে বঞ্চিত কোরো না, যেমন করেছিল পাদ্রি ও সংসারত্যাগীরা। তারা নিজেদের উপর নারী, ভালো খাবার আর সুস্বাদু পানীয় হারাম করেছিল। কেউ নিজেকে উপাসনালয়ের কুঠুরিতে আটকে রেখেছিল, কেউ দেশে দেশে ঘুরে বেড়াত। মুয়াসসারও একই তিনটি ক্ষেত্রের নাম নেয়: খাবার, পানীয় আর বিয়ে। দোষটা সে এক কথায় বলে: আল্লাহ যা প্রশস্ত করেছেন, তোমরা তা সংকীর্ণ করে ফেলবে। দ্বিতীয় নিষেধের অর্থ সে করে: আল্লাহ যা হারাম করেছেন তার সীমা পেরিয়ো না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out three ways a lawful thing can be made forbidden. By belief: if its lawfulness is established by definitive proof, holding it forbidden is disbelief. By word: if someone swears not to eat a lawful food, the oath takes effect, swearing it needlessly is a sin, and he should break it and pay the expiation. By practice: abandoning it for good as an act of merit is innovation and monasticism. Leaving something as treatment for a physical or spiritual illness, it adds, is no sin.",
+            "bn": "মাআরিফুল কুরআন দেখায়, হালাল জিনিস তিনটি উপায়ে হারাম বানানো যায়। এক, বিশ্বাসে। হালাল হওয়াটা যদি অকাট্য দলিলে প্রমাণিত হয়, তবে তাকে হারাম বিশ্বাস করা কুফর। দুই, মুখের কথায়। কেউ যদি কসম খায় যে অমুক হালাল খাবার খাবে না, কসমটা কার্যকর হয়। অকারণে এমন কসম খাওয়া গুনাহ, তাকে কসম ভেঙে কাফফারা দিতে হবে। তিন, আমলে। সওয়াবের আশায় কোনো হালাল চিরতরে ছেড়ে দেওয়া বিদআত ও বৈরাগ্য। তবে শরীর বা মনের কোনো রোগের চিকিৎসা হিসেবে কিছু ছেড়ে দিলে তাতে গুনাহ নেই, এ কথাও সেখানে আছে।"
+          },
+          {
+            "en": "As-Sa'di reads the good things as blessings. Allah granted them, so praise Him for making them lawful and thank Him, and do not return His favour by ingratitude, by refusing it, or by believing it forbidden. Whoever does that, he says, gathers three wrongs at once: a lie spoken against Allah, ingratitude for a blessing, and holding what is lawful and good to be forbidden and foul. And this, he adds, is itself the transgression that the verse goes on to forbid.",
+            "bn": "সা'দী পবিত্র জিনিসগুলোকে দেখেন নিয়ামত হিসেবে। আল্লাহ এগুলো দিয়েছেন। তাই হালাল করার জন্য তাঁর প্রশংসা করো, শোকর আদায় করো। নাশুকরি করে, গ্রহণ না করে বা হারাম বিশ্বাস করে তাঁর দান ফিরিয়ে দিয়ো না। তাঁর মতে যে এমন করে, সে একসঙ্গে তিনটি অন্যায় জড়ো করে: আল্লাহর নামে মিথ্যা বলা, নিয়ামতের নাশুকরি, আর হালাল ও পবিত্রকে হারাম ও নাপাক মনে করা। তিনি যোগ করেন, এটাই সেই সীমালঙ্ঘন, যা থেকে আয়াত পরে নিষেধ করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Companions Who Meant Only Good",
+          "bn": "যাঁরা শুধু কল্যাণই চেয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "The commentators report an occasion, and they name names, though not always the same ones. In at-Tabari's collection, Abu Malik says that 'Uthman ibn Maz'un and others among the Muslims forbade themselves women and good food, and one of them meant to castrate himself. Qatada names 'Ali ibn Abi Talib and 'Uthman ibn Maz'un among those who wanted to withdraw from the world and leave women. Mujahid names 'Uthman ibn Maz'un and 'Abdullah ibn 'Amr. 'Ikrimah, through Ibn Jurayj, lists 'Uthman, 'Ali, Ibn Mas'ud, al-Miqdad ibn al-Aswad and Salim, the freedman of Abu Hudhayfa.",
+            "bn": "তাফসীরকারেরা একটি শানে নুযূল বর্ণনা করেন, নামও বলেন, তবে সবাই একই নাম বলেন না। তাবারীর সংকলনে আবু মালিক বলেন, উসমান ইবনে মাযঊন (রাঃ) ও আরও কয়েকজন মুসলিম নিজেদের উপর স্ত্রী ও ভালো খাবার হারাম করেছিলেন, আর একজন নিজেকে খোজা করার কথা ভেবেছিলেন। কাতাদা বলেন, যাঁরা দুনিয়া থেকে সরে গিয়ে স্ত্রীদের ছাড়তে চেয়েছিলেন, তাঁদের মধ্যে আলী ইবনে আবী তালিব (রাঃ) ও উসমান ইবনে মাযঊন ছিলেন। মুজাহিদ নাম নেন উসমান ইবনে মাযঊন ও আবদুল্লাহ ইবনে আমরের। ইবনে জুরাইজের সূত্রে ইকরিমা বলেন উসমান, আলী, ইবনে মাসঊদ, মিকদাদ ইবনুল আসওয়াদ আর আবু হুযাইফার মুক্ত গোলাম সালিমের (রাঃ) কথা।"
+          },
+          {
+            "en": "As-Suddi, quoted by at-Tabari and Ibn Kathir, tells it most fully. The Prophet ﷺ once sat and reminded the people, adding nothing but warning. About ten Companions, among them 'Ali and 'Uthman ibn Maz'un, felt their fear meant little unless they did something more, since the Christians had forbidden things to themselves. Some forbade meat and fat, or eating by day; some forbade sleep; some forbade women. 'Uthman's wife, called al-Hawla', came to 'A'isha unkempt and without perfume and explained why. The Prophet ﷺ sent for 'Uthman and told him to go back to his wife, and, when he said he was fasting, to break his fast.",
+            "bn": "সবচেয়ে বিস্তারিত বিবরণ সুদ্দীর, যা তাবারী ও ইবনে কাসীর উদ্ধৃত করেছেন। একদিন নবী ﷺ বসে মানুষকে উপদেশ দিলেন, ভয় দেখানো ছাড়া আর কিছু বললেন না। প্রায় ১০ জন সাহাবী, যাঁদের মধ্যে আলী ও উসমান ইবনে মাযঊন (রাঃ) ছিলেন, ভাবলেন নতুন কোনো আমল না করলে তাঁদের ভয়ের কোনো দাম নেই। নাসারারা তো নিজেদের উপর অনেক কিছু হারাম করেছে, আমরাও করব। কেউ গোশত ও চর্বি বা দিনে খাওয়া হারাম করলেন, কেউ ঘুম, কেউ স্ত্রী। উসমানের স্ত্রী, যাঁকে হাওলা বলা হতো, অগোছালো চুলে, সুগন্ধি ছাড়া আয়েশার (রাঃ) কাছে এসে কারণটা জানালেন। নবী ﷺ উসমানকে ডেকে পাঠিয়ে স্ত্রীর কাছে ফিরে যেতে বললেন। উসমান জানালেন তিনি রোজা আছেন। নবী ﷺ বললেন, রোজা ভেঙে ফেলো।"
+          },
+          {
+            "en": "Al-Baghawi, citing the people of tafsir, and al-Qurtubi, under the words it is said, give ten who met in 'Uthman ibn Maz'un's house, adding Abu Bakr, 'Abdullah ibn 'Umar, Abu Dharr, Salman al-Farisi and Ma'qil ibn Muqarrin. Ibn Kathir notes that more than one of the Successors told the story without naming the Companion they heard it from. In Qatada's report they answered, we wanted nothing but good. In another report from Ibn 'Abbas in at-Tabari, told the Prophet ﷺ had not been commanded this, they said, we obey the Messenger of Allah.",
+            "bn": "বাগাভী 'তাফসীরবিদেরা বলেন' বলে, আর কুরতুবী 'বলা হয়' বলে ১০ জনের কথা আনেন, যাঁরা উসমান ইবনে মাযঊনের বাড়িতে একত্র হয়েছিলেন। তাঁদের তালিকায় আরও আছেন আবু বকর, আবদুল্লাহ ইবনে উমর, আবু যর, সালমান ফারসী ও মা'কিল ইবনে মুকাররিন (রাঃ)। ইবনে কাসীর জানান, একজনেরও বেশি তাবেয়ী ঘটনাটি বর্ণনা করেছেন, কিন্তু কোন সাহাবীর কাছ থেকে শুনেছেন তা বলেননি। কাতাদার বর্ণনায় তাঁরা বলেছিলেন, আমরা কল্যাণ ছাড়া আর কিছু চাইনি। তাবারীতে ইবনে আব্বাস (রাঃ) থেকে আরেক বর্ণনায়, যখন শুনলেন নবী ﷺ-কে এমন আদেশ দেওয়া হয়নি, তাঁরা বললেন: আমরা আল্লাহর রাসূলের আনুগত্য করি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whoever Turns From My Sunnah",
+          "bn": "যে আমার সুন্নাহ থেকে মুখ ফেরায়"
+        },
+        "p": [
+          {
+            "en": "Muslim records in his Sahih (1401), from Anas: a group of the Prophet's Companions asked the Prophet's wives about his worship in private. One of them said, I will not marry women. Another said, I will not eat meat. Another said, I will not sleep on a bed. He praised Allah and extolled Him, then said: What is the matter with people who say such and such? But I pray and I sleep, I fast and I break my fast, and I marry women. Whoever turns away from my sunnah is not of me.",
+            "bn": "মুসলিম তাঁর সহীহ গ্রন্থে (১৪০১) আনাস (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ-এর একদল সাহাবী তাঁর স্ত্রীদের কাছে জানতে চাইলেন, একান্তে তিনি কীভাবে ইবাদত করেন। তাঁদের একজন বললেন, আমি বিয়ে করব না। আরেকজন বললেন, আমি গোশত খাব না। আরেকজন বললেন, আমি বিছানায় ঘুমাব না। নবী ﷺ আল্লাহর হামদ ও সানা পাঠ করে বললেন: লোকদের কী হলো যে তারা এমন এমন কথা বলে? অথচ আমি নামাজ পড়ি আবার ঘুমাই, রোজা রাখি আবার ছাড়ি, আর বিয়েও করি। যে আমার সুন্নাহ থেকে মুখ ফিরিয়ে নেয়, সে আমার দলের নয়।"
+          },
+          {
+            "en": "This narration does not mention the verse. Al-Qurtubi brings it after the occasion reports, observing that narrations of this meaning are many even though they say nothing of the revelation. Ibn Kathir calls the report in the two Sahihs a supporting witness for the Successors' account. Al-Bukhari also records (5073) that Sa'd ibn Abi Waqqas said: the Messenger of Allah ﷺ refused 'Uthman ibn Maz'un permission for celibacy, and had he allowed it to him, we would have castrated ourselves. That report, too, names no verse.",
+            "bn": "এই বর্ণনায় আয়াতের উল্লেখ নেই। কুরতুবী শানে নুযূলের বিবরণগুলোর পরে এটি আনেন এবং বলেন, এই অর্থের বর্ণনা অনেক, যদিও তাতে নাযিল হওয়ার কথা নেই। ইবনে কাসীর দুই সহীহ গ্রন্থের বর্ণনাটিকে তাবেয়ীদের বিবরণের সমর্থক সাক্ষ্য বলেছেন। বুখারীও (৫০৭৩) সা'দ ইবনে আবী ওয়াক্কাস (রাঃ) থেকে বর্ণনা করেন: আল্লাহর রাসূল ﷺ উসমান ইবনে মাযঊনকে বিয়ে-বিমুখ নিঃসঙ্গ জীবনের অনুমতি দেননি। তিনি অনুমতি দিলে আমরা নিজেদের খোজা করে ফেলতাম। এই বর্ণনাতেও কোনো আয়াতের নাম নেই।"
+          },
+          {
+            "en": "One report does tie the verse to an event. At-Tirmidhi (3054) narrates from Ibn 'Abbas that a man came to the Prophet ﷺ and said that when he ate meat his desire for women overcame him, so he had made meat unlawful for himself; then Allah revealed this verse and the opening of 5:88. At-Tirmidhi grades it hasan gharib, and adds that some narrate it without Ibn 'Abbas, as does Khalid al-Hadhdha' from 'Ikrimah. So the verse's link to a single event rests on this one route and on the Successors' reports above.",
+            "bn": "একটি বর্ণনা অবশ্য আয়াতটিকে সরাসরি একটি ঘটনার সঙ্গে জোড়ে। তিরমিযী (৩০৫৪) ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন: এক ব্যক্তি নবী ﷺ-এর কাছে এসে বলল, গোশত খেলে তার মধ্যে নারীর প্রতি কামনা প্রবল হয়ে ওঠে, তাই সে নিজের উপর গোশত হারাম করে নিয়েছে। তখন আল্লাহ এই আয়াত আর ৫:৮৮ আয়াতের শুরুর অংশ নাযিল করেন। তিরমিযী একে হাসান গরীব বলেছেন। তিনি আরও জানান, কেউ কেউ ইবনে আব্বাসের নাম ছাড়াই বর্ণনা করেছেন, যেমন খালিদ আল-হাযযা ইকরিমা থেকে। কাজেই আয়াতের সঙ্গে নির্দিষ্ট ঘটনার যোগ দাঁড়িয়ে আছে এই একটি সূত্র আর ওপরের তাবেয়ীদের বিবরণের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Limit Is Overstepped",
+          "bn": "কোন সীমা পেরোনো হয়"
+        },
+        "p": [
+          {
+            "en": "Wa la ta'tadu: and do not transgress. At-Tabari records three views of what it refers to. As-Suddi: the transgression was what 'Uthman ibn Maz'un had resolved on, cutting himself, and he was told, this is the transgression. 'Ikrimah: it was what the group had resolved on, forbidding women, food, clothing and sleep, and following a way other than their Prophet's sunnah. Al-Hasan: it forbids passing from the lawful to the unlawful. Al-Baghawi gives al-Hasan's sense and adds, under it is said, castration.",
+            "bn": "ওয়ালা তা'তাদূ: আর সীমা লঙ্ঘন কোরো না। তাবারী এর অর্থ নিয়ে তিনটি মত উল্লেখ করেন। সুদ্দীর মতে সীমালঙ্ঘন হলো উসমান ইবনে মাযঊন (রাঃ) নিজের অঙ্গচ্ছেদের যে সংকল্প করেছিলেন সেটি, আর তাঁকে বলা হয়েছিল: এটাই সীমালঙ্ঘন। ইকরিমার মতে দলটি যা ঠিক করেছিল তা-ই সীমালঙ্ঘন: স্ত্রী, খাবার, পোশাক আর ঘুম হারাম করা এবং নবীর সুন্নাহ ছেড়ে অন্য পথ ধরা। হাসান বসরীর মতে এটি হালাল পেরিয়ে হারামে ঢুকে পড়ার নিষেধ। বাগাভী হাসানের অর্থটিই দেন, আর 'বলা হয়' বলে যোগ করেন: খোজা হওয়া।"
+          },
+          {
+            "en": "At-Tabari then gives his own judgement. I'tida', he says, is a person's going beyond what is his to what is not his, in anything. Allah made this prohibition general, so it must be kept general unless something binding narrows it. The verse may well have come down about 'Uthman ibn Maz'un and the group, yet its ruling reaches everyone in their position: whoever forbids himself what Allah made lawful, or makes lawful what Allah forbade, or oversteps any limit Allah has set.",
+            "bn": "এরপর তাবারী নিজের রায় দেন। তাঁর মতে ই'তিদা মানে যে কোনো বিষয়ে নিজের যা প্রাপ্য তা পেরিয়ে অপ্রাপ্যের দিকে যাওয়া। আল্লাহ নিষেধটি ব্যাপক রেখেছেন, তাই মেনে নেওয়া বাধ্যতামূলক এমন কোনো দলিল সীমিত না করা পর্যন্ত একে ব্যাপকই রাখতে হবে। আয়াতটি হয়তো উসমান ইবনে মাযঊন আর ওই দলের ব্যাপারেই নাযিল হয়েছে। তবু এর বিধান তাদের মতো অবস্থায় থাকা প্রত্যেকের উপর প্রযোজ্য: যে আল্লাহর হালাল নিজের উপর হারাম করে, বা আল্লাহর হারামকে হালাল করে, বা আল্লাহর বেঁধে দেওয়া কোনো সীমা পেরিয়ে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi sets two readings side by side. Al-Hasan: the two prohibitions cover both extremes, so do not be severe and forbid the lawful, and do not be lax and permit the forbidden. As-Suddi, 'Ikrimah and others: the second only reinforces the first. Al-Qurtubi calls the first better. Ibn Kathir offers two possibilities without choosing: do not go to extremes in narrowing your lives by forbidding what is permitted, or, do not overstep in consuming the lawful but take what meets your need, citing 7:31 and 25:67. Allah's law, he concludes, holds the middle between excess and neglect.",
+            "bn": "কুরতুবী দুটি ব্যাখ্যা পাশাপাশি রাখেন। হাসানের মতে দুই নিষেধ দুই প্রান্তকে ঢেকে দেয়: কড়াকড়ি করে হালালকে হারাম কোরো না, আবার ঢিলেমি করে হারামকে হালাল কোরো না। সুদ্দী, ইকরিমা ও অন্যদের মতে দ্বিতীয় নিষেধটি প্রথমটিকেই জোর দেয়। কুরতুবী প্রথম মতটিকে উত্তম বলেন। ইবনে কাসীর কোনোটি বেছে না নিয়ে দুটি সম্ভাবনা দেখান। এক, মুবাহ জিনিস হারাম করে নিজের জীবন সংকীর্ণ করায় বাড়াবাড়ি কোরো না। দুই, হালাল ভোগেও সীমা ছাড়িয়ো না, প্রয়োজন অনুযায়ী নাও। এখানে তিনি ৭:৩১ ও ২৫:৬৭ আয়াত আনেন। তাঁর উপসংহার: আল্লাহর শরীয়ত বাড়াবাড়ি আর অবহেলার মাঝখানে ভারসাম্য রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eat, and Expiate Your Oath",
+          "bn": "খাও, আর কসমের কাফফারা দাও"
+        },
+        "p": [
+          {
+            "en": "What of someone who has already declared a lawful thing forbidden to himself? Ibn Kathir records, through Masruq, that a dish was brought to 'Abdullah ibn Mas'ud and one man drew back, saying he had forbidden himself to eat it. Ibn Mas'ud told him: come near and eat, and expiate your oath, and he recited this verse. Ibn Kathir notes that al-Hakim judged this report to meet the conditions of al-Bukhari and Muslim.",
+            "bn": "কেউ যদি আগেই কোনো হালাল জিনিস নিজের উপর হারাম ঘোষণা করে থাকে, তখন কী? ইবনে কাসীর মাসরূকের সূত্রে বর্ণনা করেন: আবদুল্লাহ ইবনে মাসঊদের (রাঃ) সামনে একটি খাবার আনা হলো। এক ব্যক্তি সরে গেল, বলল সে এটা খাওয়া নিজের উপর হারাম করেছে। ইবনে মাসঊদ বললেন: কাছে এসো, খাও, আর কসমের কাফফারা দাও। তারপর তিনি এই আয়াত তিলাওয়াত করলেন। ইবনে কাসীর জানান, হাকিম এই বর্ণনাকে বুখারী ও মুসলিমের শর্তে উত্তীর্ণ বলেছেন।"
+          },
+          {
+            "en": "The jurists divide over whether such a declaration needs expiation. Ibn Kathir reports that ash-Shafi'i and others hold that whoever forbids himself a food, a garment or anything other than his wife has not made it forbidden and owes no expiation, since the Prophet ﷺ did not order the man who forbade meat to expiate. Others, among them Ahmad ibn Hanbal, hold that he owes the expiation of an oath, as Ibn 'Abbas ruled, citing 66:1 and 66:2 and the fact that the oath verse follows it directly. Al-Qurtubi reports Malik as holding no expiation and Abu Hanifa as requiring it.",
+            "bn": "এমন ঘোষণার জন্য কাফফারা লাগে কি না, এ নিয়ে ফকীহদের মধ্যে মতভেদ আছে। ইবনে কাসীর জানান, শাফেয়ী ও অন্যদের মত হলো: স্ত্রী ছাড়া অন্য কোনো খাবার, পোশাক বা জিনিস কেউ নিজের উপর হারাম করলে তা হারাম হয় না, কাফফারাও লাগে না। কারণ যে লোকটি গোশত হারাম করেছিল, নবী ﷺ তাকে কাফফারার আদেশ দেননি। আহমাদ ইবনে হাম্বলসহ অন্যদের মতে তার উপর কসমের কাফফারা আসে, যেমন ইবনে আব্বাস (রাঃ) ফাতওয়া দিয়েছিলেন। তাঁরা দলিল আনেন ৬৬:১ ও ৬৬:২ থেকে, আর দেখান যে কসমের আয়াতটি ঠিক এর পরেই এসেছে। কুরতুবী জানান, মালিকের মতে কাফফারা নেই, আর আবু হানীফার মতে আছে।"
+          },
+          {
+            "en": "Then 5:89 sets out the oath itself. Allah does not take you to task for the thoughtless in your oaths, only for what you bound yourselves to. Its expiation is feeding ten needy people from the average of what you feed your families, or clothing them, or freeing a slave; whoever cannot find these fasts three days. Ibn Kathir gives average from Ibn 'Abbas, Sa'id ibn Jubayr and 'Ikrimah, while 'Ata' al-Khurasani read it as the best. He reports consensus that any of the first three suffices, and the reading of Ubayy ibn Ka'b and Ibn Mas'ud, three consecutive days.",
+            "bn": "এরপর ৫:৮৯ কসমের বিধান খুলে বলে। অনিচ্ছায় মুখ ফসকে বেরোনো কসমের জন্য আল্লাহ পাকড়াও করেন না, পাকড়াও করেন যা তোমরা মনে বেঁধে নিয়েছ তার জন্য। এর কাফফারা হলো ১০ জন মিসকিনকে খাওয়ানো, তোমরা পরিবারকে যে মধ্যম মানের খাবার দাও তা থেকে, অথবা তাদের কাপড় দেওয়া, অথবা একজন দাস মুক্ত করা। যে এগুলোর সামর্থ্য পায় না, সে তিন দিন রোজা রাখবে। ইবনে কাসীর 'মধ্যম' অর্থটি আনেন ইবনে আব্বাস, সাঈদ ইবনে জুবাইর ও ইকরিমা থেকে। আতা আল-খুরাসানী এর অর্থ করেছেন সবচেয়ে ভালোটা। তিনি জানান, প্রথম তিনটির যে কোনো একটি যথেষ্ট, এতে ইজমা আছে। উবাই ইবনে কা'ব ও ইবনে মাসঊদের (রাঃ) কিরাআতে আছে: টানা তিন দিন।"
+          },
+          {
+            "en": "As-Sa'di explains the clothing as what is enough to pray in, and the slave as a believer, as other verses specify, and Ibn Kathir agrees. On wa-hfazu aymanakum, guard your oaths, as-Sa'di gives three senses: do not swear falsely by Allah, do not swear often, and do not break an oath once sworn, unless breaking it is the better course, for then keeping faith means doing the good. Ibn Kathir gives at-Tabari's sense: do not leave a broken oath without its expiation.",
+            "bn": "সা'দী ব্যাখ্যা করেন, কাপড় মানে এতটুকু যাতে নামাজ আদায় হয়, আর দাস মানে মুমিন দাস, যেমন অন্য আয়াতে শর্ত দেওয়া আছে। ইবনে কাসীরও তা-ই বলেন। ওয়াহফাযূ আইমানাকুম, তোমাদের কসম রক্ষা করো, এর তিনটি অর্থ দেন সা'দী। আল্লাহর নামে মিথ্যা কসম খেয়ো না। বেশি বেশি কসম খেয়ো না। আর কসম খেলে তা ভেঙো না, তবে ভাঙাটাই যদি উত্তম হয়, তখন কল্যাণের কাজটি করাই কসমের পূর্ণ রক্ষা। ইবনে কাসীর তাবারীর অর্থটি দেন: ভাঙা কসম কাফফারা ছাড়া ফেলে রেখো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks Over Self-Denial",
+          "bn": "কৃচ্ছ্রের চেয়ে শোকর বড়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi quotes at-Tabari's lesson: no Muslim may forbid himself the good food, clothing or marriage Allah made lawful out of fear of the hardship they might bring, which is why the Prophet ﷺ refused celibacy to Ibn Maz'un. There is no merit in leaving what Allah made lawful; merit lies in doing what He urged. A man told al-Hasan al-Basri that his neighbour would not eat faludhaj, a sweet, because he could not thank Allah enough for it. Does he drink cold water? al-Hasan asked. Then he is ignorant: the blessing in cold water is greater.",
+            "bn": "কুরতুবী তাবারীর শিক্ষাটি উদ্ধৃত করেন। কোনো মুসলিম কষ্টের আশঙ্কায় আল্লাহর হালাল করা ভালো খাবার, পোশাক বা বিয়ে নিজের উপর হারাম করতে পারে না। এ কারণেই নবী ﷺ ইবনে মাযঊনের (রাঃ) নিঃসঙ্গ জীবনের সংকল্প ফিরিয়ে দিয়েছিলেন। আল্লাহর হালাল ছেড়ে দেওয়ায় কোনো ফযীলত নেই, ফযীলত তিনি যে কাজে উৎসাহ দিয়েছেন তা করায়। এক ব্যক্তি হাসান বসরীকে জানাল, তার প্রতিবেশী ফালূযাজ নামের মিষ্টান্ন খায় না, কারণ এর শোকর সে ঠিকমতো আদায় করতে পারবে না। হাসান জিজ্ঞেস করলেন, সে কি ঠান্ডা পানি পান করে? লোকটি বলল, হ্যাঁ। হাসান বললেন, তাহলে তোমার প্রতিবেশী অজ্ঞ। ঠান্ডা পানিতে আল্লাহর নিয়ামত ফালূযাজের চেয়েও বেশি।"
+          },
+          {
+            "en": "None of this counts against those Companions. They meant good, they asked, and they obeyed the moment they were answered, and their correction now guides everyone after them. Nor does the verse license contempt for monks or for anyone living today; 5:82 had just credited them with humility. What it asks is narrower and kinder: take what is lawful and good with thanks, as 5:88 says, and fear Allah in whom you believe, neither forbidding His gifts nor overstepping them.",
+            "bn": "এর কোনো কিছুই ওই সাহাবীদের বিরুদ্ধে যায় না। তাঁরা কল্যাণ চেয়েছিলেন, জিজ্ঞেস করেছিলেন, আর জবাব পাওয়ামাত্র মেনে নিয়েছিলেন। তাঁদের সংশোধনই এখন পরবর্তী সবার পথ দেখায়। আয়াতটি সংসারত্যাগী বা আজকের কোনো মানুষকে তুচ্ছ করার অনুমতিও দেয় না। ৫:৮২ আয়াত একটু আগেই তাদের বিনয়ের প্রশংসা করেছে। আয়াত যা চায় তা আরও সরল, আরও কোমল: হালাল ও পবিত্র জিনিস শোকরের সঙ্গে গ্রহণ করুন, যেমন ৫:৮৮ বলে, আর যে আল্লাহর উপর ঈমান এনেছেন তাঁকে ভয় করুন। তাঁর দান হারামও করবেন না, তার সীমাও পেরোবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "5:90-91": {
     "sections": [
       {

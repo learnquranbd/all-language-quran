@@ -20211,6 +20211,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A Book in the hand is not ground under the feet: you stand on something only when you uphold what was sent down to you.",
     "lessonBn": "হাতে কিতাব থাকলেই পায়ের নিচে মাটি থাকে না। যা নাযিল হয়েছে তা প্রতিষ্ঠা করলেই কেবল আপনি কোনো ভিত্তির উপর দাঁড়ান।"
+  },
+  "5:87": {
+    "reflectionEn": "One can give up a good thing for the wrong reason and feel holier for it. Someone stops sleeping enough, stops eating well, turns away from marriage, and calls it devotion. The verse speaks to believers, not to the careless: do not forbid the good things Allah has made lawful for you, and do not transgress. To refuse a lawful gift as if it were impure is quietly to claim to know better than its Giver. Taking without limit is closed too. The next verse says eat of what Allah has provided, lawful and good, and fear Him. Gratitude is the measure, not deprivation. What have I cut out of my life to feel pious, and what have I taken so freely that I forgot to give thanks?",
+    "reflectionBn": "ভুল কারণে ভালো জিনিস ছেড়ে দিয়ে নিজেকে বেশি পবিত্র মনে করা খুব সম্ভব। কেউ ঠিকমতো ঘুমায় না, ভালো খাবার মুখে তোলে না, বিয়ে থেকে মুখ ফিরিয়ে নেয়, আর এর নাম দেয় ইবাদত। আয়াতটি গাফেলদের নয়, ঈমানদারদের ডাকছে: আল্লাহ যে পবিত্র জিনিস তোমাদের জন্য হালাল করেছেন, তা হারাম করো না, আর সীমা ছাড়িয়ে যেয়ো না। হালাল দানকে নাপাকের মতো ফিরিয়ে দেওয়া মানে নীরবে দাবি করা যে দাতার চেয়ে আমি বেশি বুঝি। উল্টো পথটাও বন্ধ, মানে সীমাহীন ভোগ। পরের আয়াত বলে: আল্লাহ যে হালাল ও পবিত্র রিজিক দিয়েছেন তা থেকে খাও, আর তাঁকে ভয় করো। মাপকাঠি তাই শোকর, বঞ্চনা নয়। নিজেকে পরহেজগার ভাবতে আমি জীবন থেকে কী কেটে ফেলেছি? আর কী এত অবাধে নিয়েছি যে শোকর করতেই ভুলে গেছি?",
+    "pointsEn": [
+      "Is there anything lawful I avoid because avoiding it makes me feel more pious, rather than because it harms me?",
+      "When I resolve to do more worship, do I measure the plan against how the Prophet ﷺ actually lived, or against my own zeal?",
+      "Which good thing in my life do I enjoy without ever thanking Allah for it?",
+      "Where do I take more than I need from what is lawful, and call it my right?",
+      "Have I ever sworn to give something up in anger, and then kept the oath even though breaking it and paying its expiation would have been better?"
+    ],
+    "pointsBn": [
+      "এমন কোনো হালাল জিনিস কি আছে, যা আমি এড়িয়ে চলি ক্ষতির ভয়ে নয়, বরং এড়িয়ে চললে নিজেকে বেশি পরহেজগার মনে হয় বলে?",
+      "বেশি ইবাদতের সংকল্প করলে আমি কি পরিকল্পনাটা নবী ﷺ-এর বাস্তব জীবনের সঙ্গে মিলিয়ে দেখি, নাকি শুধু নিজের উৎসাহের সঙ্গে?",
+      "জীবনের কোন ভালো জিনিসটা আমি ভোগ করি, অথচ কখনো তার জন্য আল্লাহর শোকর আদায় করি না?",
+      "হালালের কোন জায়গায় আমি প্রয়োজনের চেয়ে বেশি নিই, আর সেটাকে নিজের অধিকার বলে চালাই?",
+      "রাগের মাথায় কোনো কিছু ছেড়ে দেওয়ার কসম খেয়ে কি কখনো তা আঁকড়ে থেকেছি, যদিও কসম ভেঙে কাফফারা দেওয়াই ভালো ছিল?"
+    ],
+    "lessonEn": "Do not forbid yourself what Allah made lawful in the name of piety, and do not overstep it either; the path is to take His gifts with thanks.",
+    "lessonBn": "তাকওয়ার নামে আল্লাহর হালাল করা জিনিস নিজের উপর হারাম করবেন না, আবার সীমাও ছাড়াবেন না। পথ হলো শোকরের সঙ্গে তাঁর দান গ্রহণ করা।"
   }
 };
 
