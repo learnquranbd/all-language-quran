@@ -4075,6 +4075,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:121": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Food Passage Closes",
+          "bn": "খাবারের আলোচনা যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "This verse closes a short passage about food that opens at 6:118. That verse gives the command, eat of what the name of Allah was mentioned over. 6:119 reproaches the hesitation to eat it, 6:120 turns from food to sin itself, open and hidden, and here the opposite command arrives together with a report of who stands behind the argument. Ma'arif al-Qur'an links the passage to 6:116, where following the misguided majority was forbidden in general, and reads these verses as the same prohibition applied to one particular matter.",
+            "bn": "খাবার নিয়ে ছোট একটি আলোচনা শুরু হয় ৬:১১৮ আয়াতে, আর এ আয়াতে এসে তা শেষ হয়। ৬:১১৮ হুকুম দেয়: যার উপর আল্লাহর নাম নেওয়া হয়েছে, তা খাও। ৬:১১৯ সেটা খেতে দ্বিধা করার জন্য ভর্ৎসনা করে। ৬:১২০ খাবার ছেড়ে সরাসরি গুনাহের কথায় যায়, প্রকাশ্য ও গোপন দুই রকম গুনাহ। আর এখানে আসে উল্টো দিকের নিষেধ, সঙ্গে জানিয়ে দেওয়া হয় তর্কের পেছনে কারা আছে। মাআরিফুল কুরআন এ অংশকে জুড়ে দেয় ৬:১১৬ আয়াতের সঙ্গে। সেখানে পথভ্রষ্ট সংখ্যাগরিষ্ঠের অনুসরণ সাধারণভাবে নিষেধ করা হয়েছিল। মাআরিফের মতে এ আয়াতগুলো সেই নিষেধকেই একটি নির্দিষ্ট বিষয়ে প্রয়োগ করে।"
+          },
+          {
+            "en": "The surah is Makkan. Al-Qurtubi states that the scholars do not differ that this verse came down in al-An'am at Makkah. The verse that follows changes the subject entirely: 6:122 sets one who was dead and was given life and a light to walk by beside one left in darkness he never leaves. So the passage moves from a plate of meat, to the voices arguing over it, to the question of who is alive at all.",
+            "bn": "সূরাটি মাক্কী। কুরতুবী জানান, এ আয়াত যে মক্কায় সূরা আনআমের অংশ হিসেবে নাযিল হয়েছে, এ নিয়ে আলিমদের মধ্যে কোনো মতভেদ নেই। পরের আয়াতে বিষয় পুরো বদলে যায়। ৬:১২২ পাশাপাশি রাখে দুজনকে: একজন মৃত ছিল, তাকে জীবন আর পথ চলার আলো দেওয়া হলো, আরেকজন এমন অন্ধকারে পড়ে আছে যা থেকে সে কখনো বের হয় না। আলোচনা তাই এগোয় এক থালা গোশত থেকে তা নিয়ে তর্ক করা কণ্ঠের দিকে, তারপর এই প্রশ্নে যে আসলে জীবিত কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fisq, Wahy and Jidal",
+          "bn": "ফিসক, ওহি আর জিদাল"
+        },
+        "p": [
+          {
+            "en": "Wa la ta'kulu mimma lam yudhkar-ismu Allahi 'alayh: do not eat of that over which the name of Allah has not been mentioned. At-Tabari explains it as whatever died without being slaughtered by the believers or by a monotheist who follows a revealed law, and whatever the idolaters slaughtered for their idols. The Muyassar gives the same pair, carrion and what was slaughtered for idols and jinn. As-Sa'di adds that carrion is named on its own in 5:3, forbidden to you is the dead animal.",
+            "bn": "ওয়া লা তা'কুলূ মিম্মা লাম ইউযকারিসমুল্লাহি আলাইহ: যার উপর আল্লাহর নাম নেওয়া হয়নি, তা খেয়ো না। তাবারীর ব্যাখ্যায় এর মধ্যে পড়ে দুই জিনিস। এক, যে প্রাণী নিজে মরে গেছে, মুমিনরা বা আসমানি শরীআত মানা কোনো তাওহীদপন্থী তাকে যবেহ করেনি। দুই, মুশরিকরা তাদের মূর্তির জন্য যা যবেহ করেছে। মুয়াসসারও একই জোড়া দেখায়: মৃত প্রাণী, আর মূর্তি ও জিনের নামে যবেহ করা পশু। সা'দী যোগ করেন, মৃত প্রাণীর কথা আলাদা করে এসেছে ৫:৩ আয়াতে: তোমাদের জন্য হারাম করা হয়েছে মৃত প্রাণী।"
+          },
+          {
+            "en": "Then wa innahu la-fisq, and indeed it is fisq. At-Tabari says the pronoun points to the eating, which the verb implies without naming, as the people's saying is implied in 3:173. He reports from Ibn Abbas (RA) that fisq here is disobedience, and from others that it is disbelief; his own gloss calls it disobedience amounting to kufr. Ibn Kathir records two views of the pronoun: that it refers to the eating, or to slaughter for other than Allah. Al-Qurtubi gives the root sense, going out.",
+            "bn": "তারপর ওয়া ইন্নাহূ লাফিসক: আর নিশ্চয়ই তা ফিসক। তাবারী বলেন, সর্বনামটি ফিরে যায় খাওয়ার দিকে। শব্দটা সরাসরি আসেনি, ক্রিয়াই তার ইঙ্গিত দেয়, যেমন ৩:১৭৩ আয়াতে মানুষের কথাটা নাম না নিয়েও বোঝা যায়। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এখানে ফিসক মানে নাফরমানি। অন্যদের মতে এর অর্থ কুফর। তাবারীর নিজের ব্যাখ্যায় এটা কুফরের পর্যায়ের নাফরমানি। ইবন কাসীর সর্বনাম নিয়ে দুটি মত উল্লেখ করেন: এটা খাওয়ার দিকে ফেরে, অথবা আল্লাহ ছাড়া অন্যের নামে যবেহের দিকে। কুরতুবী শব্দের মূল অর্থ দেন: বেরিয়ে যাওয়া।"
+          },
+          {
+            "en": "Layuhuna, they inspire. At-Tabari says their wahy is pointing their allies toward something, by speech, by message or by letter; al-Baghawi and al-Qurtubi gloss it as whispering. The allies, for at-Tabari, are helpers and backers. Li-yujadilukum, to dispute with you: al-Qurtubi offers three roots for jidal: the ajdal, a strong bird; the ground an opponent is pinned to; and the hard twisting of a rope, as though each party twists the other's argument until it snaps.",
+            "bn": "লাইউহূনা, তারা ওহি করে, মানে গোপনে কথা পৌঁছে দেয়। তাবারীর মতে তাদের এই ওহি হলো বন্ধুদের কোনো কিছুর দিকে ইশারা করা: মুখের কথায়, বার্তায় বা চিঠিতে। বাগাভী ও কুরতুবী একে বলেন ওয়াসওয়াসা, কুমন্ত্রণা। তাবারীর কাছে আওলিয়া মানে সাহায্যকারী ও পৃষ্ঠপোষক। লিইউজাদিলূকুম, যাতে তারা তোমাদের সঙ্গে তর্ক করে। কুরতুবী জিদালের তিনটি উৎস দেখান: আজদাল নামের এক শক্তিশালী পাখি, জাদালা মানে মাটি, যেখানে প্রতিপক্ষকে আছড়ে ফেলা হয়, আর জাদল মানে দড়ি শক্ত করে পাকানো। যেন দুজনেই একে অন্যের যুক্তি পাকিয়ে ছিঁড়ে ফেলতে চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Animal Allah Killed",
+          "bn": "আল্লাহ যে পশু মেরেছেন"
+        },
+        "p": [
+          {
+            "en": "Sunan Abu Dawud (2818) records from Ibn Abbas (RA), on the words and indeed the devils inspire their allies: they say, what Allah slaughtered, do not eat it, and what you yourselves slaughtered, eat it. So Allah, Mighty and Majestic, sent down: and do not eat of that over which the name of Allah has not been mentioned. Abu Dawud gives no grading on the page. Ibn Kathir, citing the report through Isra'il from Ibn Majah and Ibn Abi Hatim, calls that isnad sound and says this version is well preserved.",
+            "bn": "সুনান আবু দাউদে (২৮১৮) ইবন আব্বাস (রাঃ) থেকে বর্ণিত, 'আর নিশ্চয়ই শয়তানরা তাদের বন্ধুদের কাছে ওহি করে' কথাটি প্রসঙ্গে তিনি বলেন: তারা বলে, আল্লাহ যা যবেহ করেছেন তা খেয়ো না, আর তোমরা নিজেরা যা যবেহ করেছ তা খাও। তখন মহান আল্লাহ নাযিল করেন: যার উপর আল্লাহর নাম নেওয়া হয়নি, তা খেয়ো না। পৃষ্ঠাটিতে আবু দাউদের কোনো মান নির্ণয় নেই। ইবন মাজাহ ও ইবন আবী হাতিম থেকে ইসরাঈলের মাধ্যমে আসা বর্ণনাটি উল্লেখ করে ইবন কাসীর সেই সনদকে সহীহ বলেন। তাঁর মতে এই ভাষ্যটিই সুরক্ষিত।"
+          },
+          {
+            "en": "Jami' at-Tirmidhi (3069) has it from Ibn Abbas (RA) that some people came to the Prophet ﷺ and asked whether they should eat what they kill and not what Allah kills, and the passage from 6:118 to the end of this verse came down. At-Tirmidhi grades it hasan gharib, noting that some narrate it from Sa'id ibn Jubayr as mursal, without Ibn Abbas. A report in Abu Dawud (2819) makes the questioners Jews. Ibn Kathir doubts it on three counts: the Jews did not hold carrion lawful, the surah is Makkan, and at-Tirmidhi's wording says only people.",
+            "bn": "জামে তিরমিযীতে (৩০৬৯) ইবন আব্বাস (রাঃ) থেকে বর্ণিত, কিছু লোক নবী ﷺ-এর কাছে এসে জিজ্ঞেস করল, আমরা কি নিজেদের মারা প্রাণী খাব, আর আল্লাহ যা মারেন তা খাব না? তখন ৬:১১৮ থেকে এ আয়াতের শেষ পর্যন্ত অংশটি নাযিল হয়। তিরমিযী একে হাসান গরীব বলেছেন। তিনি আরও জানান, কেউ কেউ এটি ইবন আব্বাসকে বাদ দিয়ে সাঈদ ইবন জুবাইর থেকে মুরসাল আকারে বর্ণনা করেন। আবু দাউদের আরেক বর্ণনায় (২৮১৯) প্রশ্নকারীরা ছিল ইহুদি। ইবন কাসীর এই ভাষ্যে তিনটি আপত্তি দেখেন। ইহুদিরা মৃত প্রাণী হালাল মনে করত না যে এ নিয়ে তর্ক করবে। সূরাটি মাক্কী। আর তিরমিযীর ভাষ্যে শুধু 'কিছু লোক' আছে।"
+          },
+          {
+            "en": "At-Tabari collects the wider picture. Through Ikrimah he reports that Persia wrote to its old allies in Quraysh, telling them to say that what Muhammad slaughters is lawful while what Allah slaughtered with a golden knife is forbidden; in another report the letter reached some Muslims and unsettled them. Qatada, in at-Tabari, names Iblis as the prompter of his followers. These reports describe a quarrel in Makkah over carrion, and they license nothing against any people or community living now.",
+            "bn": "তাবারী পুরো ছবিটা জড়ো করেন। ইকরিমার সূত্রে তিনি বর্ণনা করেন, পারস্য কুরাইশের মধ্যে থাকা তাদের পুরোনো মিত্রদের চিঠি লিখে বলল: তোমরা বলো, আল্লাহ সোনার ছুরি দিয়ে যা যবেহ করেন তা হারাম, আর মুহাম্মাদ যা যবেহ করেন তা হালাল! আরেক বর্ণনায় আছে, চিঠির কথা কিছু মুসলমানের কাছে পৌঁছায় আর তাদের মনে খটকা জাগে। তাবারীর উদ্ধৃতিতে কাতাদা বলেন, ইবলিস তার অনুসারীদের এ কথা শিখিয়ে দিয়েছিল। এসব বর্ণনা মক্কায় মৃত প্রাণী নিয়ে হওয়া এক বিবাদের কথা বলে। আজকের কোনো জাতি বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুরই অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Revelation and Its Counterfeit",
+          "bn": "ওহি আর তার নকল"
+        },
+        "p": [
+          {
+            "en": "Who are the devils here? At-Tabari lists the readings. Ikrimah said they were the devils of Persia and the Magians, and their allies the defiant idolaters of Quraysh. Ibn Abbas (RA), in a report, said it was Iblis prompting the idolaters of Quraysh, and in another that the devils of the jinn inspire the devils of mankind. At-Tabari allows all three, human devils, jinn devils, or both together, and prefers the last, because 6:112 has already said that devils of mankind and jinn inspire each other with adorned speech.",
+            "bn": "এখানে শয়তান কারা? তাবারী মতগুলো সাজিয়ে দেন। ইকরিমার মতে তারা পারস্যের অগ্নিপূজক শয়তানরা, আর তাদের বন্ধু কুরাইশের উদ্ধত মুশরিকরা। ইবন আব্বাস (রাঃ) থেকে এক বর্ণনায় আছে, ইবলিস কুরাইশের মুশরিকদের কুমন্ত্রণা দিত। আরেক বর্ণনায় আছে, জিন শয়তানরা মানুষ শয়তানদের কাছে ওহি করে। তাবারী তিনটিকেই সম্ভব মনে করেন: মানুষ শয়তান, জিন শয়তান, অথবা দুই দল মিলে। তবে তাঁর কাছে শেষেরটিই বেশি জোরালো। কারণ ৬:১১২ আয়াত আগেই জানিয়েছে, মানুষ ও জিনের শয়তানরা একে অন্যকে চাকচিক্যময় কথা শেখায়।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir both report through Abu Zumayl that a man told Ibn Abbas (RA) that al-Mukhtar ibn Abi 'Ubayd claimed revelation had come to him the night before. He is telling the truth, said Ibn Abbas, and when Abu Zumayl recoiled he explained: there are two revelations, the revelation of Allah and the revelation of the devil. The revelation of Allah came to Muhammad ﷺ, and the revelation of the devils comes to their allies. Then he recited this verse.",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই আবু যুমাইলের সূত্রে বর্ণনা করেন: এক লোক এসে ইবন আব্বাস (রাঃ)-কে জানাল, মুখতার ইবন আবী উবাইদ দাবি করছে গত রাতে তার কাছে ওহি এসেছে। ইবন আব্বাস বললেন, সে ঠিকই বলেছে। আবু যুমাইল চমকে উঠলেন। তখন ইবন আব্বাস বুঝিয়ে দিলেন: ওহি দুই রকম, আল্লাহর ওহি আর শয়তানের ওহি। আল্লাহর ওহি এসেছে মুহাম্মাদ ﷺ-এর কাছে, আর শয়তানের ওহি যায় তাদের বন্ধুদের কাছে। তারপর তিনি এ আয়াতটি তিলাওয়াত করলেন।"
+          },
+          {
+            "en": "As-Sa'di draws the lesson inward. The verse shows, he says, that inspirations and unveilings that fall into the heart prove nothing by themselves to be true. They are weighed against the Book of Allah and the Sunnah of His Messenger: accepted if those two support them, rejected if those two contradict them, and left unconfirmed and undenied if nothing in either settles it. Inspiration can come from the Most Merciful or from the devil, he writes, and confusing the two has caused untold error.",
+            "bn": "সা'দী শিক্ষাটাকে ভেতরের দিকে ফেরান। তাঁর মতে আয়াতটি দেখায়, অন্তরে যে ইলহাম বা কাশফ জাগে, শুধু সে কারণে তা সত্য প্রমাণিত হয় না। তাকে মাপতে হয় আল্লাহর কিতাব আর তাঁর রাসূলের সুন্নাহ দিয়ে। এ দুটি সমর্থন করলে গ্রহণ করা হবে, বিরোধিতা করলে বাতিল হবে। আর কোনোটিতেই মীমাংসা না পেলে তা সত্যও বলা হবে না, মিথ্যাও না, থেমে থাকতে হবে। তিনি লেখেন, ইলহাম রহমানের পক্ষ থেকেও আসতে পারে, শয়তানের পক্ষ থেকেও। এ দুইয়ের পার্থক্য না করায় যত ভুল আর গোমরাহি হয়েছে, তা আল্লাহ ছাড়া কেউ গুনে শেষ করতে পারবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Name Is Left Out",
+          "bn": "নাম নেওয়া বাদ পড়লে"
+        },
+        "p": [
+          {
+            "en": "What of a believer who slaughters and does not say the name? Ibn Kathir sets out three positions. First, the meat is forbidden whether the name was left out deliberately or forgetfully: reported from Ibn Umar, Nafi', ash-Sha'bi and Ibn Sirin, a narration from Malik and from Ahmad, and the choice of Abu Thawr and Dawud az-Zahiri. Second, the naming is recommended, not a condition: the school of ash-Shafi'i, a narration from Ahmad and from Malik, and reported from Ibn Abbas (RA), Abu Hurayrah (RA) and 'Ata'.",
+            "bn": "কোনো মুসলমান যবেহ করল, কিন্তু আল্লাহর নাম নিল না, তখন কী হবে? ইবন কাসীর তিনটি মত তুলে ধরেন। প্রথম মত: ইচ্ছা করে বাদ দিক বা ভুলে, গোশত হারাম। এটি ইবন উমার, নাফি', শা'বী ও ইবন সীরীন থেকে বর্ণিত, ইমাম মালিক ও ইমাম আহমাদ থেকে এক বর্ণনা, আর আবু সাওর ও দাউদ যাহিরীর পছন্দ। দ্বিতীয় মত: নাম নেওয়া মুস্তাহাব, শর্ত নয়। এটি ইমাম শাফিঈর মাযহাব, আহমাদ ও মালিক থেকে এক বর্ণনা, আর ইবন আব্বাস (রাঃ), আবু হুরাইরা (রাঃ) ও আতা থেকে বর্ণিত।"
+          },
+          {
+            "en": "Third, forgetting does no harm but deliberate omission makes it unlawful: Ibn Kathir calls this the well-known position of Malik and Ahmad, held by Abu Hanifah and his companions and Ishaq ibn Rahawayh. Al-Baghawi reports that al-Khiraqi gave it as Ahmad's school, and Ma'arif al-Qur'an gives it for Abu Hanifah. Al-Qurtubi counts five views, adding that deliberate omission makes the meat disliked, and Ashhab's view that it is eaten unless the man left the name out of contempt. The sources record several narrations from Malik and Ahmad, and they are kept so here.",
+            "bn": "তৃতীয় মত: ভুলে গেলে ক্ষতি নেই, তবে ইচ্ছা করে বাদ দিলে হালাল থাকে না। ইবন কাসীরের ভাষায় এটিই মালিক ও আহমাদের প্রসিদ্ধ মত, আর আবু হানীফা ও তাঁর সঙ্গীরা এবং ইসহাক ইবন রাহাওয়াইহ এ মতই পোষণ করেন। বাগাভী জানান, খিরাকী একে আহমাদের মাযহাব বলে উল্লেখ করেছেন। মাআরিফুল কুরআনও আবু হানীফার মত হিসেবে এটিই দেয়। কুরতুবী মত গোনেন পাঁচটি। তিনি যোগ করেন, এক মতে ইচ্ছা করে বাদ দিলে গোশত মাকরূহ হয়। আর আশহাবের মতে তা খাওয়া যায়, যদি না লোকটি অবজ্ঞা করে নাম বাদ দেয়। মালিক ও আহমাদ থেকে উৎসগুলোতে একাধিক বর্ণনা আছে, এখানেও সেভাবেই রাখা হলো।"
+          },
+          {
+            "en": "At-Tabari takes a firm line on one point. He reads the verse as meaning what was slaughtered for idols, what died, and what was slaughtered by one whose slaughter is not lawful; to say it means a believer who forgot the name is, in his words, a view far from right, because it stands alone against what the proof agrees on.",
+            "bn": "একটি বিষয়ে তাবারী দৃঢ় অবস্থান নেন। তাঁর মতে আয়াতের উদ্দেশ্য মূর্তির জন্য যবেহ করা পশু, নিজে মরে যাওয়া প্রাণী, আর এমন লোকের যবেহ যার যবেহ হালাল নয়। যে মুসলমান ভুলে নাম নেয়নি, আয়াত তার কথা বলছে, এমন মতকে তিনি সঠিক থেকে বহু দূরে বলেন। কারণ এ মত একা দাঁড়িয়ে আছে সেই অবস্থানের বিপরীতে, যার উপর দলিলধারীরা একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meat Brought by Others",
+          "bn": "অন্যের হাতে আসা গোশত"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari (5507) records from 'Aishah (RA) that some people said to the Prophet ﷺ: people bring us meat and we do not know whether the name of Allah was mentioned over it or not. He said: mention the name over it yourselves and eat it. She added that they were new to Islam. Both sides read this. Ibn Kathir says those who require the naming take it as showing the Companions knew the name was necessary; al-Bayhaqi, whom he quotes, argued that if it were a condition, eating would not have been allowed without certainty.",
+            "bn": "সহীহ বুখারীতে (৫৫০৭) আয়িশা (রাঃ) থেকে বর্ণিত, কিছু লোক নবী ﷺ-কে বলল: কিছু মানুষ আমাদের কাছে গোশত নিয়ে আসে, আমরা জানি না তার উপর আল্লাহর নাম নেওয়া হয়েছিল কি না। তিনি বললেন: তোমরা নিজেরা এর উপর আল্লাহর নাম নাও, তারপর খাও। আয়িশা (রাঃ) জানান, তারা সবে ইসলাম গ্রহণ করেছিল। দুই পক্ষই এই হাদীস থেকে দলিল নেয়। ইবন কাসীর বলেন, যারা নাম নেওয়া জরুরি মনে করেন তাদের মতে এ থেকে বোঝা যায়, সাহাবীরা জানতেন নাম নেওয়া আবশ্যক। আর তাঁর উদ্ধৃত বায়হাকীর যুক্তি: এটা শর্ত হলে নিশ্চিত না হয়ে খাওয়ার অনুমতি দেওয়া হতো না।"
+          },
+          {
+            "en": "The slaughter of the People of the Book raised a second question. At-Tabari reports from al-Hasan al-Basri and Ikrimah, and Ibn Kathir from Makhul, that 5:5, the food of those given the Scripture is lawful for you, abrogated this verse or made an exception to it. At-Tabari answers that nothing here is abrogated: the verse forbids carrion and what is offered to false gods, and their slaughter is lawful whether or not they named Allah, unless the name was left out in denial of Him or in worship of another. Ibn Kathir agrees, and says the early scholars who spoke of abrogation meant specification.",
+            "bn": "আহলে কিতাবের যবেহ নিয়ে দ্বিতীয় প্রশ্ন ওঠে। তাবারী হাসান বাসরী ও ইকরিমা থেকে, আর ইবন কাসীর মাকহুল থেকে বর্ণনা করেন: ৫:৫ আয়াত, অর্থাৎ 'যাদের কিতাব দেওয়া হয়েছে তাদের খাবার তোমাদের জন্য হালাল', এ আয়াতকে মানসুখ করেছে বা এর থেকে ব্যতিক্রম করেছে। তাবারীর জবাব, এ আয়াতের কিছুই মানসুখ হয়নি। এটা হারাম করে মৃত প্রাণী আর তাগূতের নামে উৎসর্গ করা পশু। আহলে কিতাবের যবেহ হালাল, তারা আল্লাহর নাম নিক বা না নিক। তবে আল্লাহকে অস্বীকার করে বা অন্য কিছুর ইবাদতের কারণে নাম বাদ দিলে ভিন্ন কথা। ইবন কাসীর এর সঙ্গে একমত। তিনি বলেন, পূর্বসূরিদের যারা মানসুখ বলেছেন, তাঁরা আসলে বুঝিয়েছেন নির্দিষ্টকরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Obedience That Becomes Shirk",
+          "bn": "যে আনুগত্য শিরকে গড়ায়"
+        },
+        "p": [
+          {
+            "en": "Wa in ata'tumuhum innakum la-mushrikun: and if you obey them, you are indeed associators. At-Tabari reads it with Ibn Abbas (RA): if you obey them in eating what I have forbidden you. You would then be like them, he says, since they ate carrion holding it lawful; eat it in the same way and you have become associators as they are. As-Suddi glosses the obedience simply: and you ate the carrion.",
+            "bn": "ওয়া ইন আতা'তুমূহুম ইন্নাকুম লামুশরিকূন: আর যদি তোমরা তাদের কথা মানো, তবে তোমরা অবশ্যই মুশরিক। তাবারী এটি পড়েন ইবন আব্বাস (রাঃ)-এর বক্তব্যের আলোয়: আমি যা খেতে নিষেধ করেছি, তা খাওয়ার ব্যাপারে যদি তাদের কথা মানো। তাবারী বলেন, তখন তোমরা তাদেরই মতো হয়ে যাবে। কারণ তারা মৃত প্রাণী খেত হালাল মনে করে। তোমরাও যদি সেভাবে খাও, তবে তাদের মতো তোমরাও মুশরিক হয়ে গেলে। সুদ্দী আনুগত্যের ব্যাখ্যা দেন সোজা কথায়: আর তোমরা মৃত প্রাণী খেলে।"
+          },
+          {
+            "en": "Others state the principle underneath. Ibn Kathir says that turning from Allah's command and law to someone else's word, and putting that word before His, is the shirk meant, and sets beside it 9:31, they took their rabbis and monks as lords besides Allah. Al-Baghawi quotes az-Zajjaj: whoever makes lawful anything Allah forbade, or forbids what He made lawful, is a mushrik. Al-Qurtubi reasons that carrion is forbidden by explicit text, so whoever accepts its lawfulness from someone else has associated a partner with Him.",
+            "bn": "অন্যরা এর পেছনের মূলনীতিটা বলে দেন। ইবন কাসীরের মতে, আল্লাহর হুকুম ও শরীআত ছেড়ে অন্য কারও কথার দিকে ফিরে যাওয়া, আর সেই কথাকে তাঁর কথার আগে রাখা, এটাই এখানে শিরক। পাশে তিনি রাখেন ৯:৩১ আয়াত: তারা আল্লাহকে বাদ দিয়ে তাদের আলিম ও সংসারবিরাগীদের রব বানিয়ে নিয়েছিল। বাগাভী যাজ্জাজের কথা উদ্ধৃত করেন: আল্লাহ যা হারাম করেছেন তা যে হালাল করে, অথবা তিনি যা হালাল করেছেন তা যে হারাম করে, সে মুশরিক। কুরতুবীর যুক্তি: মৃত প্রাণী স্পষ্ট নস দিয়ে হারাম, তাই অন্য কারও কাছ থেকে যে তার হালাল হওয়া মেনে নেয়, সে শিরক করল।"
+          },
+          {
+            "en": "The commentators also mark a limit. Al-Qurtubi quotes Ibn al-'Arabi: a believer becomes a mushrik by obeying a mushrik only when he obeys him in belief; if he obeys him in the deed while his belief stays sound in tawhid, he is a sinner. As-Sa'di explains the verdict through allegiance: you would have taken them as allies besides Allah and joined them in what set them apart from the Muslims. None of this hands a reader the right to pronounce anyone a mushrik; it is a warning addressed to the one reading.",
+            "bn": "তাফসীরকারেরা একটি সীমাও টেনে দেন। কুরতুবী ইবনুল আরাবীর কথা উদ্ধৃত করেন: মুশরিকের আনুগত্য করে মুমিন তখনই মুশরিক হয়, যখন সে আকীদায় তার আনুগত্য করে। আকীদা তাওহীদের উপর ঠিক রেখে শুধু কাজে আনুগত্য করলে সে গুনাহগার। সা'দী রায়টির কারণ দেখান বন্ধুত্বের দিক থেকে: তোমরা আল্লাহকে বাদ দিয়ে তাদের অভিভাবক বানালে, আর যে বিষয়ে তারা মুসলমানদের থেকে আলাদা, সে বিষয়ে তাদের সঙ্গে একমত হলে। এর কোনোটিই পাঠককে কাউকে মুশরিক ঘোষণা করার অধিকার দেয় না। এ সতর্কবাণী পাঠকের নিজের প্রতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding the Ruling Under Pressure",
+          "bn": "চাপের মুখে বিধান আঁকড়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notices how the verse answers the taunt: with a command, not a debate. Once a ruling is known to come from Allah, it says, an objection raised only to confront it need not be argued point by point. Someone who sincerely wants to understand may be offered possible reasons as extra knowledge, and the verse itself hints at one, the difference between an animal slaughtered with the name and one that simply died.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, আয়াতটি খোঁচার জবাব দিয়েছে হুকুম দিয়ে, তর্ক দিয়ে নয়। তাদের কথা হলো, কোনো বিধান আল্লাহর পক্ষ থেকে এসেছে জানা গেলে, শুধু মোকাবিলার উদ্দেশ্যে তোলা আপত্তির খুঁটিনাটি জবাব দিতে হয় না। কেউ সত্যিই বুঝতে চাইলে বাড়তি জ্ঞান হিসেবে সম্ভাব্য কারণ বলা যায়। আয়াত নিজেও একটির ইঙ্গিত দেয়: নাম নিয়ে যবেহ করা পশু আর নিজে মরে যাওয়া প্রাণীর পার্থক্য।"
+          },
+          {
+            "en": "In practice the verse asks for small things. Say bismillah over what you slaughter, and over meat whose history you do not know, as the Prophet ﷺ told those who asked. Leave the disputed details to a scholar you trust, since the imams themselves differed. And keep the sharpest part of the verse pointed at yourself. When a clever voice makes Allah's ruling sound foolish, the question is not whether you can out-argue it, but whose word will decide what you do next.",
+            "bn": "বাস্তবে আয়াতটি ছোট ছোট জিনিস চায়। যা যবেহ করেন তার উপর বিসমিল্লাহ বলুন। যে গোশতের ইতিহাস জানেন না, তার উপরও বলুন, যেমন প্রশ্নকারীদের নবী ﷺ বলেছিলেন। মতভেদের খুঁটিনাটি ছেড়ে দিন আপনার আস্থাভাজন কোনো আলিমের হাতে, কারণ ইমামরা নিজেরাই এতে ভিন্নমত পোষণ করেছেন। আর আয়াতের সবচেয়ে ধারালো অংশটা নিজের দিকেই তাক করে রাখুন। কোনো চতুর কণ্ঠ যখন আল্লাহর বিধানকে বোকামি বানিয়ে দেখায়, তখন প্রশ্ন এটা নয় যে আপনি তর্কে তাকে হারাতে পারবেন কি না। প্রশ্ন হলো, আপনার পরের কাজটা কার কথায় ঠিক হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "6:128": {
     "sections": [
       {

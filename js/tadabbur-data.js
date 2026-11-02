@@ -20491,6 +20491,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Admit your wrong while admitting still helps; in this verse the blow came in hours of rest, to people who never expected it.",
     "lessonBn": "স্বীকার করা যখন এখনো কাজে আসে, তখনই নিজের অন্যায় স্বীকার করুন; এ আয়াতে আঘাত এসেছিল বিশ্রামের সময়ে, এমন লোকদের উপর যারা তা কল্পনাও করেনি।"
+  },
+  "6:121": {
+    "reflectionEn": "Before the knife, a short sentence is said over the animal: the name of Allah. This verse forbids eating what was not given that name, and then it turns from the plate to the argument around the plate. There will always be voices, it says, prompted from somewhere darker than they know, ready to make the clear thing sound foolish and the forbidden thing sound reasonable. The verse does not ask the believer to win every debate. It asks whose word he will follow once the debate is over, and it draws the line so sharply that obeying those voices against Allah's ruling is called shirk. When a clever case is made against what He has said, whose word actually settles the matter for me?",
+    "reflectionBn": "ছুরি চালানোর আগে পশুর উপর ছোট্ট একটা কথা বলা হয়: আল্লাহর নাম। যার উপর সে নাম নেওয়া হয়নি, এ আয়াত তা খেতে নিষেধ করে। তারপরই আয়াতের নজর থালা থেকে সরে যায় থালা ঘিরে চলা তর্কের দিকে। আয়াত জানিয়ে দেয়, এমন কিছু কণ্ঠ সবসময় থাকবে, যাদের পেছন থেকে কুমন্ত্রণা আসে তাদের ধারণার চেয়েও অন্ধকার জায়গা থেকে। তারা স্পষ্ট বিধানকে বোকামি আর নিষিদ্ধ জিনিসকে যুক্তিসংগত বানিয়ে দেখাতে চায়। মুমিনকে প্রতিটি তর্কে জিততে বলা হয়নি। প্রশ্নটা হলো, তর্ক শেষে সে কার কথা মানবে। সীমারেখা এখানে এত কড়া যে আল্লাহর বিধানের বিপরীতে ওই কণ্ঠের আনুগত্যকে শিরক বলা হয়েছে। তাঁর বলা কথার বিরুদ্ধে কেউ চতুর যুক্তি সাজালে, শেষ পর্যন্ত আমার কাছে কার কথাটা চূড়ান্ত হয়?",
+    "pointsEn": [
+      "Do I say bismillah before I eat, or has the habit thinned into something I remember only when someone is watching?",
+      "When someone mocks a ruling I hold, do I go back to what Allah said, or start bending it until the mockery stops?",
+      "Which voices shape what I count as lawful and unlawful: the revelation, or the crowd, the feed and the clever friend?",
+      "Have I ever held to a ruling only for as long as I could win the argument for it?",
+      "Where in my life has someone else's word quietly come to outrank His?"
+    ],
+    "pointsBn": [
+      "খাওয়ার আগে আমি কি বিসমিল্লাহ বলি, নাকি অভ্যাসটা এতটাই ক্ষীণ হয়ে গেছে যে কেউ দেখলে তবেই মনে পড়ে?",
+      "আমার মেনে চলা কোনো বিধান নিয়ে কেউ ঠাট্টা করলে আমি কি আল্লাহর কথায় ফিরে যাই, নাকি ঠাট্টা থামানো পর্যন্ত বিধানটাকে বাঁকাতে থাকি?",
+      "কোনটা হালাল আর কোনটা হারাম, তা ঠিক করে কে: ওহি, নাকি ভিড়, সোশ্যাল মিডিয়া আর চালাক বন্ধু?",
+      "কোনো বিধান কি আমি ততক্ষণই আঁকড়ে থেকেছি, যতক্ষণ তার পক্ষে তর্কে জিততে পেরেছি?",
+      "আমার জীবনের কোন জায়গায় অন্য কারও কথা চুপচাপ তাঁর কথার উপরে উঠে বসেছে?"
+    ],
+    "lessonEn": "Say Allah's name over what you eat, and when a clever argument pulls against what He has made clear, let His word decide rather than the argument.",
+    "lessonBn": "যা খান তার উপর আল্লাহর নাম নিন। আর তিনি যা স্পষ্ট করে দিয়েছেন তার বিরুদ্ধে কোনো চতুর যুক্তি টানলে, সিদ্ধান্ত নিক তাঁর কথা, যুক্তি নয়।"
   }
 };
 
