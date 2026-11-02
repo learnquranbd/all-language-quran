@@ -171,6 +171,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Count Without Names",
+          "bn": "নামহীন এক গণনা"
+        },
+        "p": [
+          {
+            "en": "Surah al-A'raf opens with a Book sent down to the Prophet ﷺ so that he might warn by it (7:2), and then turns to its hearers: follow what has been sent down to you from your Lord, and do not follow other allies besides Him; little do you remember (7:3). The next verse does not argue. It counts. Wa-kam min qaryatin ahlaknaha: how many a town We have destroyed, and Our might came upon it by night, or while they were resting at midday.",
+            "bn": "সূরা আরাফের শুরু এক কিতাব দিয়ে, যা নবী ﷺ-এর উপর নাযিল হয়েছে, যেন তিনি এর মাধ্যমে সতর্ক করেন (৭:২)। এরপর কথা ঘুরে যায় শ্রোতাদের দিকে: তোমাদের রবের কাছ থেকে তোমাদের প্রতি যা নাযিল হয়েছে তা মেনে চলো, তাঁকে বাদ দিয়ে অন্য অভিভাবকদের অনুসরণ কোরো না; তোমরা খুব কমই উপদেশ নাও (৭:৩)। পরের আয়াত কোনো যুক্তি দেয় না, শুধু গুনে দেখায়। ওয়া কাম মিন কারইয়াতিন আহলাকনাহা: কত জনপদ আমি ধ্বংস করেছি! আমার শাস্তি তাদের উপর এসেছিল রাতে, কিংবা যখন তারা দুপুরে বিশ্রাম নিচ্ছিল।"
+          },
+          {
+            "en": "At-Tabari reads the verse as an instruction to the Prophet ﷺ: warn these people who worship others besides Me of My anger, lest I bring My punishment down on them and destroy them, as I destroyed the nations before them who took the same path, people of towns who disobeyed Me, denied My messengers and worshipped others. As-Sa'di says it in fewer words: He warned them of His punishments on the nations that denied what their messengers brought them, so that they would not come to resemble them.",
+            "bn": "তাবারী আয়াতটিকে পড়েন নবী ﷺ-এর প্রতি এক নির্দেশ হিসেবে। আল্লাহ যেন বলছেন: যারা আমাকে ছেড়ে অন্যের ইবাদত করে, তাদেরকে আমার ক্রোধ সম্পর্কে সাবধান করো, নইলে আমি তাদের উপর শাস্তি নামিয়ে তাদের ধ্বংস করব। ঠিক যেমন ধ্বংস করেছি তাদের আগের জাতিগুলোকে, যারা একই পথে চলেছিল। সেসব জনপদের লোকেরা আমার নাফরমানি করেছিল, আমার রাসূলদের মিথ্যা বলেছিল, আর অন্যের ইবাদত করেছিল। সা'দী একই কথা বলেন আরও অল্প কথায়: রাসূলদের আনা বাণীকে যারা মিথ্যা বলেছিল, সেসব জাতির উপর আসা শাস্তির কথা বলে তিনি এদের সতর্ক করলেন, যেন এরা তাদের মতো না হয়ে যায়।"
+          },
+          {
+            "en": "Kam here is the kam of abundance. Al-Baghawi and al-Qurtubi both set it beside rubba: kam is for many, as rubba is for few. On qarya, al-Qurtubi defines towns as the places where people gather. At-Tabari asks how the ruin of towns tells us their people perished, and answers that a place is not called a town unless it has dwellings with people living in them, so its ruin is theirs.",
+            "bn": "এখানে কাম শব্দটি আধিক্য বোঝায়। বাগাভী ও কুরতুবী দুজনেই একে রুব্বা শব্দের পাশে রাখেন: কাম বোঝায় বেশি, রুব্বা বোঝায় কম। কারইয়া শব্দের ব্যাখ্যায় কুরতুবী বলেন, জনপদ মানে মানুষের একত্র হওয়ার জায়গা। তাবারী প্রশ্ন তোলেন, জনপদ ধ্বংসের খবর থেকে কীভাবে বোঝা যায় যে তার অধিবাসীরাও ধ্বংস হয়েছিল? তাঁর জবাব: যেখানে ঘরবাড়ি আর সেখানে বসবাসকারী মানুষ নেই, তাকে জনপদই বলা হয় না। তাই জনপদের ধ্বংস মানে তার মানুষেরই ধ্বংস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruined, and Then It Came",
+          "bn": "ধ্বংস, তারপর শাস্তির আগমন"
+        },
+        "p": [
+          {
+            "en": "The verse says ahlaknaha, fa-ja'aha ba'suna: We destroyed it, and then Our might came upon it. Yet a town is destroyed by the coming of that might, so how can the might arrive after the destruction? At-Tabari poses the question in full and gives two answers, both of which he calls sound. In the first, ahlaknaha means that Allah forsook the town, leaving it to turn away from the clear proofs and guidance He had sent, once it chose to follow the allies who lured it from obeying its Lord.",
+            "bn": "আয়াতে আছে আহলাকনাহা, ফাজাআহা বা'সুনা: আমি তাকে ধ্বংস করেছি, তারপর তার উপর আমার শাস্তি এসেছে। অথচ জনপদ তো ধ্বংস হয় শাস্তি আসার ফলেই। তাহলে ধ্বংসের পরে শাস্তি আসে কী করে? তাবারী প্রশ্নটা পুরোপুরি তুলে ধরেন, তারপর দুটি জবাব দেন, আর দুটিকেই সঠিক বলেন। প্রথম জবাবে আহলাকনাহা মানে আল্লাহ জনপদটিকে তার নিজের হাতে ছেড়ে দিলেন। তিনি যে স্পষ্ট প্রমাণ আর হেদায়েত পাঠিয়েছিলেন, তা থেকে সে মুখ ফিরিয়ে নিল। কারণ সে বেছে নিয়েছিল সেই অভিভাবকদের, যারা তাকে রবের আনুগত্য থেকে ভুলিয়ে সরিয়ে নিয়েছিল।"
+          },
+          {
+            "en": "Then the might came to it, by night or at midday, as the recompense for that disobedience. In at-Tabari's second answer, the destruction and the might are one thing named twice, so it makes no difference which comes first, just as the Arabs say 'you visited me and honoured me' when the visit was the honour. Al-Baghawi gives two answers: We decreed its destruction, and then Our might came; or the coming of the might explains 'We destroyed it'.",
+            "bn": "এরপর রাতে কিংবা দুপুরে শাস্তি এল, সেই নাফরমানির প্রতিদান হয়ে। তাবারীর দ্বিতীয় জবাবে ধ্বংস আর শাস্তি একই জিনিস, শুধু দুবার দুই নামে বলা। তাই কোনটা আগে এল, তাতে কিছু আসে যায় না। আরবরা যেমন বলে, তুমি আমার কাছে এলে আর আমাকে সম্মান করলে, অথচ আসাটাই ছিল সম্মান। বাগাভীও দুটি জবাব দেন। এক, আমি তার ধ্বংসের ফয়সালা করেছিলাম, তারপর শাস্তি এল। দুই, শাস্তি আসার কথাটা আসলে আমি তাকে ধ্বংস করেছি কথাটারই ব্যাখ্যা।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more readings: Allah intended its destruction, and then the might came, the pattern he also sees in 16:98, when you recite the Qur'an, seek refuge; or some were destroyed first and then the might took them all. He reports from al-Farra' that the fa' here means 'and', which carries no order. At-Tabari, without naming who held it, calls that reading meaningless, since the fa' has a force in Arabic that 'and' lacks, and a word should keep its usual sense while that is possible.",
+            "bn": "কুরতুবী আরও কয়েকটি ব্যাখ্যা একত্র করেন। এক, আল্লাহ তাকে ধ্বংস করার ইচ্ছা করেছিলেন, তারপর শাস্তি এল। একই ধরন তিনি দেখেন ১৬:৯৮ আয়াতে: যখন কুরআন পড়বে, তখন আশ্রয় চাও। দুই, প্রথমে কিছু লোক ধ্বংস হয়েছিল, তারপর শাস্তি সবাইকে গ্রাস করল। তিনি ফাররা থেকে উদ্ধৃত করেন যে এখানে ফা মানে ওয়াও, অর্থাৎ শুধু 'এবং', যাতে আগে-পরের ক্রম নেই। তাবারী মতটি কার তা না বলেই একে অর্থহীন বলেন। তাঁর যুক্তি, আরবিতে ফা-এর এমন ভূমিকা আছে যা ওয়াও-এর নেই, আর যতক্ষণ সম্ভব, শব্দকে তার প্রচলিত অর্থেই রাখা উচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Hours of Unguarded Rest",
+          "bn": "অসতর্ক বিশ্রামের দুই প্রহর"
+        },
+        "p": [
+          {
+            "en": "Bayatan means by night. Ibn Kathir and al-Baghawi both gloss it with a single word, laylan, and at-Tabari says the punishment came to them at night, before they reached the morning. Qa'ilun comes from qaylula. Ibn Kathir defines it as resting in the middle of the day. Al-Qurtubi gives it first as sleep at midday, and then a second view: rest at midday when the heat is fierce, even without sleep. Al-Baghawi likewise says qaylula is midday rest even if no sleep comes with it.",
+            "bn": "বায়াতান মানে রাতে। ইবন কাসীর আর বাগাভী দুজনেই একে এক শব্দে বোঝান: লাইলান, রাতের বেলা। তাবারী বলেন, শাস্তি তাদের কাছে এসেছিল রাতে, সকাল হওয়ার আগেই। কাইলূন এসেছে কাইলূলা থেকে। ইবন কাসীরের সংজ্ঞায় এর মানে দিনের মাঝখানে বিশ্রাম। কুরতুবী প্রথমে বলেন দুপুরের ঘুম, তারপর আরেকটি মত আনেন: প্রচণ্ড গরমে দুপুরের বিশ্রাম, ঘুম না এলেও। বাগাভীও বলেন, কাইলূলা হলো দুপুরের বিশ্রাম, তাতে ঘুম থাকুক বা না থাকুক।"
+          },
+          {
+            "en": "Why these two hours? Ibn Kathir answers that both are times of heedlessness and diversion, and he sets the verse beside 7:97 and 7:98 later in this surah: did the people of the towns feel secure against Our might coming to them by night while they slept, or in the forenoon while they played? Al-Muyassar gives a reason in his own words: Allah singled out these two times because they are times of stillness and rest, so the punishment coming in them is all the more terrible and severe.",
+            "bn": "কেন এই দুই সময়? ইবন কাসীরের জবাব, দুটোই গাফিলতি আর খেলাধুলায় মগ্ন থাকার সময়। তিনি আয়াতটিকে রাখেন এই সূরারই পরের দুই আয়াত, ৭:৯৭ ও ৭:৯৮-এর পাশে: জনপদের লোকেরা কি নিশ্চিন্ত হয়ে গেছে যে আমার শাস্তি রাতে তাদের ঘুমের মধ্যে আসবে না? কিংবা দিনের প্রথম ভাগে, যখন তারা খেলায় মেতে থাকে? মুয়াসসার নিজের ভাষায় কারণ বলেন: আল্লাহ এই দুই সময়কে আলাদা করে বেছে নিয়েছেন, কারণ দুটোই নীরবতা আর বিশ্রামের সময়। তাই এ সময়ে শাস্তি আসা আরও ভয়ংকর, আরও কঠিন।"
+          },
+          {
+            "en": "As-Sa'di puts the stress on the mind rather than the clock: the might came in the time of their heedlessness, when they were off their guard and ruin had never crossed their hearts. Al-Baghawi states the sense of the verse plainly: the might came to them while they were not expecting it, either by night or by day. Al-Qurtubi closes his note in nearly the same words: Our punishment came while they were heedless, by night or by day.",
+            "bn": "সা'দী জোর দেন ঘড়ির চেয়ে মনের অবস্থার উপর। শাস্তি এসেছিল তাদের গাফিলতির সময়ে, যখন তারা ছিল অসতর্ক, আর ধ্বংসের কথা তাদের মনে কখনো উঁকিও দেয়নি। বাগাভী আয়াতের অর্থ সোজা কথায় বলেন: শাস্তি তাদের কাছে এসেছিল এমন অবস্থায় যে তারা তার অপেক্ষাই করছিল না, রাতে হোক বা দিনে। কুরতুবীও প্রায় একই কথায় আলোচনা শেষ করেন: আমার শাস্তি তাদের কাছে এসেছিল যখন তারা গাফিল, হয় রাতে, নয়তো দিনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Small Word Aw",
+          "bn": "ছোট্ট শব্দ আও"
+        },
+        "p": [
+          {
+            "en": "The verse joins its two hours with aw, 'or'. At-Tabari raises an objection himself: aw usually brings in doubt, and there can be no doubt in Allah's report. His answer is that the sense is distribution: some towns the might reached by night, and others while they rested at midday. Had 'and' stood in its place, he says, the sentence would come close to absurdity, telling of one town struck both by night and at midday, as if the might destroyed what was already destroyed. Al-Qurtubi agrees that aw here is not for doubt but for detail.",
+            "bn": "আয়াতে দুই সময়কে জোড়া হয়েছে আও, অর্থাৎ 'অথবা' দিয়ে। তাবারী নিজেই আপত্তি তোলেন: আও সাধারণত সন্দেহ বোঝায়, আর আল্লাহর দেওয়া খবরে সন্দেহের জায়গা নেই। তাঁর জবাব, এখানে অর্থ ভাগ করে দেওয়া। কোনো জনপদে শাস্তি এসেছিল রাতে, আর কোনোটায় দুপুরের বিশ্রামের সময়ে। তিনি বলেন, এর জায়গায় 'এবং' থাকলে বাক্যটা প্রায় অসম্ভব কথা হয়ে যেত। মানে দাঁড়াত, একই জনপদে রাতেও আঘাত এসেছে, দুপুরেও, যেন যা আগেই ধ্বংস হয়ে গেছে তাকে আবার ধ্বংস করা হলো। কুরতুবীও একমত যে এখানে আও সন্দেহের জন্য নয়, বিস্তারিত ভাগ করে বলার জন্য।"
+          },
+          {
+            "en": "Al-Baghawi reports az-Zajjaj saying that aw marks the varying of the punishment, once by night and once by day, and adds a reading that of the people of the towns some were destroyed by night and some by day. A finer point divides the grammarians. A clause of time like 'while they were resting' would normally open with wa. Al-Farra' said the wa was dropped because two conjunctions together are heavy, and at-Tabari says the same. Az-Zajjaj, as al-Qurtubi reports, called that an error: the pronoun hum already ties the clause back, so no wa is needed. Al-Mahdawi said the same as az-Zajjaj.",
+            "bn": "বাগাভী যাজ্জাজের কথা উদ্ধৃত করেন: আও এখানে শাস্তির ধরন বদলানো বোঝায়, একবার রাতে, একবার দিনে। সঙ্গে আরেকটি ব্যাখ্যাও আনেন: জনপদবাসীদের কাউকে রাতে ধ্বংস করা হয়েছিল, কাউকে দিনে। এর চেয়ে সূক্ষ্ম একটি প্রশ্নে ব্যাকরণবিদেরা দুই ভাগ। 'যখন তারা বিশ্রাম নিচ্ছিল' ধরনের সময়বাচক বাক্যাংশ সাধারণত ওয়াও দিয়ে শুরু হয়। ফাররা বলেছেন, দুটি সংযোজক অব্যয় পাশাপাশি ভারী শোনায় বলে ওয়াও বাদ পড়েছে। তাবারীও একই কথা বলেন। কুরতুবীর বর্ণনায় যাজ্জাজ একে ভুল বলেছেন। তাঁর মতে হুম সর্বনামটিই বাক্যাংশকে আগের কথার সঙ্গে বেঁধে দেয়, তাই ওয়াও লাগে না। মাহদাভীও যাজ্জাজের মতোই বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Only Call",
+          "bn": "মুখে শুধু একটি ডাক"
+        },
+        "p": [
+          {
+            "en": "Then 7:5: their da'wa, when Our might came to them, was nothing but that they said, we were indeed wrongdoers. At-Tabari takes da'wa here as their call, and notes the word has two senses in Arabic, a call and a claim. Ibn Kathir and al-Muyassar give its content: they confessed their sins and that they deserved what came. Al-Baghawi adds the edge: they could not turn the punishment back, and all they arrived at was admitting the crime when admitting no longer helped.",
+            "bn": "তারপর ৭:৫ আয়াত: আমার শাস্তি যখন তাদের কাছে এল, তখন তাদের দা'ওয়া ছিল শুধু এটুকু যে তারা বলল, আমরা তো যালিম ছিলাম। তাবারী এখানে দা'ওয়া শব্দের অর্থ নেন তাদের ডাক বা দোয়া। তিনি বলেন, আরবিতে শব্দটির দুই অর্থ: ডাক, আর দাবি। ইবন কাসীর ও মুয়াসসার বলেন ডাকের ভেতরের কথাটা কী ছিল: তারা নিজেদের গুনাহ স্বীকার করল, আর মেনে নিল যে যা এসেছে তা তাদের প্রাপ্য। বাগাভী আরও তীক্ষ্ণ করে বলেন: শাস্তি ফেরানোর ক্ষমতা তাদের ছিল না। শেষমেশ তাদের হাতে রইল শুধু অপরাধের স্বীকারোক্তি, এমন সময়ে যখন স্বীকার করায় আর কোনো লাভ নেই।"
+          },
+          {
+            "en": "At-Tabari asks how people in the act of being destroyed could say anything at all. His answer: not every nation perished in a single instant. Some drowned in the flood, with a clear span between the first sign and the end; others, like the people of Salih (AS), were left alive for three days after the sign of their ruin appeared. When they saw the first of the might, they cried, woe to us, we were wrongdoers, and their faith did not help them once the threat had arrived. As-Sa'di adds that their gods did not avail them, and they did not deny the wrong they had done.",
+            "bn": "তাবারী প্রশ্ন তোলেন, যারা ধ্বংস হয়ে যাচ্ছে, তারা কথা বলে কীভাবে? তাঁর জবাব, সব জাতি এক মুহূর্তে ধ্বংস হয়নি। কেউ ডুবেছিল প্লাবনে, আর প্রথম আলামত থেকে শেষ পর্যন্ত মাঝখানে ছিল স্পষ্ট এক সময়। কেউ কেউ, যেমন সালিহ (আঃ)-এর কওম, ধ্বংসের আলামত চোখের সামনে আসার পরও আরও তিনটি দিন বেঁচে ছিল। শাস্তির শুরুটা দেখেই তারা চিৎকার করে উঠল, হায় আমাদের দুর্ভাগ্য, আমরা তো যালিম ছিলাম! কিন্তু সতর্কবাণী বাস্তব হয়ে আসার পর তাদের ঈমান আর কোনো কাজে আসেনি। সা'দী যোগ করেন, যে উপাস্যদের উপর তারা ভরসা করত, তারা কোনো উপকারে আসেনি, আর নিজেদের করা অন্যায়কেও তারা অস্বীকার করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questioned on Both Sides",
+          "bn": "দুই পক্ষকেই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Verse 7:6 turns from this world to the next: We will surely ask those to whom messengers were sent, and We will surely ask the messengers. At-Tabari explains that the nations will be asked what they did with the commands and prohibitions the messengers brought, and the messengers will be asked whether they delivered what they were given. He cites Ibn 'Abbas (RA) through 'Ali ibn Abi Talha, a report Ibn Kathir also carries: Allah asks the people how they answered the messengers, and asks the messengers what they conveyed.",
+            "bn": "৭:৬ আয়াত দুনিয়া থেকে আখিরাতের দিকে মোড় নেয়: যাদের কাছে রাসূল পাঠানো হয়েছিল, আমি অবশ্যই তাদের জিজ্ঞেস করব, আর রাসূলদেরও অবশ্যই জিজ্ঞেস করব। তাবারী ব্যাখ্যা করেন, জাতিগুলোকে জিজ্ঞেস করা হবে, রাসূলরা যে আদেশ-নিষেধ এনেছিলেন, তা নিয়ে তারা কী করেছে। আর রাসূলদের জিজ্ঞেস করা হবে, তাঁদের যা দেওয়া হয়েছিল তা তাঁরা পৌঁছে দিয়েছেন কি না। তিনি আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন, যা ইবন কাসীরও উদ্ধৃত করেন: আল্লাহ মানুষকে জিজ্ঞেস করবেন তারা রাসূলদের কী জবাব দিয়েছিল, আর রাসূলদের জিজ্ঞেস করবেন তাঁরা কী পৌঁছে দিয়েছেন।"
+          },
+          {
+            "en": "The two questions are not of one kind. Al-Baghawi calls the question to the nations one of rebuke, not of seeking information. Al-Qurtubi calls it a question that draws out confession, rebukes and exposes, while the question to the messengers calls them as witnesses and brings out what their people answered them. As-Sa'di too has the messengers asked about their conveying and about the answer their nations gave. Ibn Kathir sets beside it 5:109, where the gathered messengers answer: we have no knowledge; You alone are the Knower of the unseen.",
+            "bn": "দুই প্রশ্ন একই রকম নয়। বাগাভী বলেন, জাতিগুলোকে করা প্রশ্ন ভর্ৎসনার প্রশ্ন, কিছু জানার জন্য নয়। কুরতুবীর ভাষায় সে প্রশ্ন তাদের মুখ থেকে স্বীকৃতি আদায় করে, তিরস্কার করে, আর তাদের আসল চেহারা খুলে দেয়। অন্যদিকে রাসূলদের প্রশ্ন করা হবে সাক্ষী হিসেবে, যাতে তাঁদের কওম তাঁদের কী জবাব দিয়েছিল তা প্রকাশ পায়। সা'দীও বলেন, রাসূলদের জিজ্ঞেস করা হবে তাঁদের পৌঁছে দেওয়ার কথা, আর তাঁদের উম্মত তাঁদের কী জবাব দিয়েছিল সে কথা। ইবন কাসীর এর পাশে রাখেন ৫:১০৯ আয়াত, যেখানে সমবেত রাসূলরা বলবেন: আমাদের কোনো জ্ঞান নেই, আপনিই গায়েবের সব খবর জানেন।"
+          },
+          {
+            "en": "Then 7:7: We will narrate to them with knowledge, and We were never absent. Ibn 'Abbas (RA), in a report at-Tabari carries on this passage, said the Book will be set down on the Day of Resurrection and will speak of what they used to do. Ibn Kathir explains the close: Allah will tell His servants what they said and did, small or great, since nothing escapes Him. Al-Qurtubi notes that the lam in fa-la-nas'alanna is the lam of oath, and that its force is emphasis.",
+            "bn": "তারপর ৭:৭ আয়াত: পূর্ণ জ্ঞানের ভিত্তিতে আমি অবশ্যই তাদের কাছে সব বর্ণনা করব, আর আমি তো কখনো অনুপস্থিত ছিলাম না। তাবারী এই অংশে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: কিয়ামতের দিন কিতাব সামনে রাখা হবে, আর তা বলে দেবে তারা কী করত। শেষ অংশের ব্যাখ্যায় ইবন কাসীর বলেন, বান্দারা ছোট-বড় যা বলেছে আর করেছে, আল্লাহ সবই তাদের জানিয়ে দেবেন, কারণ কিছুই তাঁর অগোচরে থাকে না। কুরতুবী লক্ষ করেন, ফালানাসআলান্না শব্দের লাম হলো কসমের লাম, আর এর কাজ জোর দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Narrations, Two Chains",
+          "bn": "দুটি বর্ণনা, দুটি সনদ"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to 7:4 itself. On 7:5, at-Tabari says the verse plainly confirms a saying reported from the Prophet ﷺ, that no people perish until they leave themselves without excuse, and gives it through 'Abd al-Malik ibn Maysara from Ibn Mas'ud (RA); Ibn Kathir copies it from him. The editor's note in the printed at-Tabari marks that chain as broken, since 'Abd al-Malik never met Ibn Mas'ud. Abu Dawud (4347) records a related saying from an unnamed Companion, without a grading of his own and without any link to this verse.",
+            "bn": "এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৭:৪ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। ৭:৫ আয়াতের আলোচনায় তাবারী বলেন, নবী ﷺ থেকে বর্ণিত একটি কথাকে এ আয়াত স্পষ্টভাবে সমর্থন করে: কোনো কওম ধ্বংস হয় না, যতক্ষণ না তারা নিজেদের পক্ষে কোনো ওজর বাকি না রাখে। তিনি এটি আনেন আব্দুল মালিক ইবন মাইসারার সূত্রে ইবন মাসউদ (রাঃ) থেকে, আর ইবন কাসীর তাঁর কাছ থেকেই উদ্ধৃত করেন। মুদ্রিত তাবারীর সম্পাদকীয় টীকায় সনদটিকে বিচ্ছিন্ন বলা হয়েছে, কারণ আব্দুল মালিক ইবন মাসউদের সাক্ষাৎ পাননি। আবু দাউদ (৪৩৪৭) কাছাকাছি একটি কথা এক অনামা সাহাবী থেকে বর্ণনা করেছেন। তিনি এর কোনো মান নির্ধারণ করেননি, আর একে এ আয়াতের সঙ্গেও যুক্ত করেননি।"
+          },
+          {
+            "en": "On 7:6, Ibn Kathir brings the hadith of the guardian through Ibn Mardawayh, in a chain where the verse is recited after it, and notes that it is in the two Sahihs without that addition. The hadith is sound; its tie to the verse is not established. Al-Bukhari's wording (893), from Ibn 'Umar (RA): 'All of you are guardians and responsible for your wards and the things under your care.' It then names the ruler, the man in his family, the woman and the servant in turn.",
+            "bn": "৭:৬ আয়াতের আলোচনায় ইবন কাসীর ইবন মারদাওয়াইহের সূত্রে দায়িত্বশীলের হাদীসটি আনেন। সেই সনদে হাদীসের পরে এ আয়াত পড়ার কথা আছে। ইবন কাসীর নিজেই জানান, হাদীসটি দুই সহীহ গ্রন্থ, বুখারী ও মুসলিমে আছে, তবে এই সংযোজন ছাড়া। অর্থাৎ হাদীসটি সহীহ, কিন্তু এ আয়াতের সঙ্গে এর সম্পর্ক প্রমাণিত নয়। ইবন উমর (রাঃ) থেকে বুখারীর (৮৯৩) ভাষ্য: 'তোমরা প্রত্যেকেই দায়িত্বশীল, আর প্রত্যেককেই তার অধীনদের ও তার দায়িত্বে থাকা জিনিসের ব্যাপারে জিজ্ঞেস করা হবে।' এরপর হাদীসটি একে একে শাসক, পরিবারে পুরুষ, নারী ও খাদেমের কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Conduct Described, No One Accused",
+          "bn": "আচরণের বিবরণ, কারও বিরুদ্ধে রায় নয়"
+        },
+        "p": [
+          {
+            "en": "The towns stay unnamed, and what the verse gives is their conduct: Ibn Kathir says they were destroyed for opposing the messengers and denying them, and at-Tabari speaks of people who disobeyed, denied the messengers and worshipped others. The verse describes what it describes, about those towns. It licenses nothing against any living person or community, and gives no one leave to read a flood, a quake or a fire today as a verdict on the people it struck. At-Tabari's reading points the warning the other way, at the hearers themselves.",
+            "bn": "জনপদগুলোর নাম আয়াতে নেই। আয়াত বলে শুধু তাদের আচরণের কথা। ইবন কাসীর বলেন, রাসূলদের বিরোধিতা আর তাঁদের মিথ্যা বলার কারণে তারা ধ্বংস হয়েছিল। তাবারী বলেন এমন লোকদের কথা, যারা নাফরমানি করেছিল, রাসূলদের মিথ্যা বলেছিল আর অন্যের ইবাদত করেছিল। আয়াত যা বলে, তা ওই জনপদগুলোর ব্যাপারেই বলে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো বন্যা, ভূমিকম্প বা অগ্নিকাণ্ডকে আক্রান্ত মানুষদের বিরুদ্ধে রায় বলে পড়ার অধিকারও কাউকে দেয় না। তাবারীর ব্যাখ্যায় সতর্কবাণীর মুখ বরং উল্টো দিকে, শ্রোতাদের নিজেদের দিকে।"
+          },
+          {
+            "en": "Turned inward, the verse asks about rest. Night and midday are not faults; they are where the body is meant to stop. Ibn Kathir and as-Sa'di place the danger in the heedlessness that settles there, when ruin never crosses the heart. And 7:5 shows an admission that was true and came too late. The verse before them, 7:3, still holds the earlier hour open: follow what has come down to you from your Lord; little do you remember. An admission made in that hour is still worth something.",
+            "bn": "নিজের দিকে ফেরালে আয়াতটি প্রশ্ন করে বিশ্রাম নিয়ে। রাত আর দুপুর কোনো দোষ নয়, শরীরকে থামানোর জন্যই তো এই সময়। বিপদটা ইবন কাসীর ও সা'দী খুঁজে পান সেই গাফিলতিতে, যা এ সময়ে মনের উপর জেঁকে বসে, যখন ধ্বংসের কথা মনেও আসে না। আর ৭:৫ আয়াত দেখায় এমন এক স্বীকারোক্তি, যা সত্য ছিল, কিন্তু এসেছিল দেরিতে। তার আগের আয়াত, ৭:৩, আগের সময়টা এখনো খোলা রাখে: তোমাদের রবের কাছ থেকে তোমাদের প্রতি যা নাযিল হয়েছে তা মেনে চলো; তোমরা খুব কমই উপদেশ নাও। সেই সময়ে করা স্বীকারোক্তির মূল্য এখনো আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "7:12-13": {
     "sections": [
       {

@@ -20471,6 +20471,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh every view by what Allah sent down, not by how many people hold it, and never call a guess knowledge, above all when speaking about Allah.",
     "lessonBn": "কতজন মানে তা দিয়ে নয়, আল্লাহ যা নাযিল করেছেন তা দিয়ে প্রতিটি মত যাচাই করুন। আর আন্দাজকে কখনো জ্ঞান বলে চালাবেন না, আল্লাহর ব্যাপারে তো একেবারেই নয়।"
+  },
+  "7:4": {
+    "reflectionEn": "No town is named. The verse only counts: how many We destroyed, and the blow came by night, or while they lay down for the midday rest. Those are the hours when a person feels most at home in the day, the door shut and the body off guard. Nobody in those towns was expecting it, and when it came, the next verse says, their only words were an admission: we were wrongdoers. The admission was true, and it came too late to change anything. This is no invitation to point at anyone else's ruin. It asks about my own unguarded hours. What would I say if the reckoning arrived in the middle of my rest? And is there an admission I could make now, while it still helps?",
+    "reflectionBn": "কোনো জনপদের নাম নেই। আয়াত শুধু গুনে দেখায়: কত জনপদ আমি ধ্বংস করেছি, আর আঘাত এসেছিল রাতে, কিংবা যখন তারা দুপুরের বিশ্রামে শুয়ে ছিল। দিনের এই দুই সময়েই মানুষ সবচেয়ে নিশ্চিন্ত থাকে। দরজা বন্ধ, শরীর ঢিলেঢালা, মন অসতর্ক। ওই জনপদের কেউ এর অপেক্ষায় ছিল না। পরের আয়াত বলছে, আঘাত যখন এল, তাদের মুখে একটাই কথা ছিল, একটা স্বীকারোক্তি: আমরা তো যালিম ছিলাম। কথাটা সত্য ছিল, কিন্তু এল এমন সময়ে, যখন আর কিছুই বদলানোর উপায় নেই। অন্যের ধ্বংসের দিকে আঙুল তোলার দাওয়াত এ আয়াত দেয় না। প্রশ্নটা আমার নিজের অসতর্ক সময়গুলো নিয়ে। বিশ্রামের মাঝখানে হিসাবের ডাক এলে আমি কী বলব? আর এমন কোনো স্বীকারোক্তি কি আছে, যা এখনই করা যায়, যখন তা এখনো কাজে আসে?",
+    "pointsEn": [
+      "Which hour of my day feels so safe that I have stopped remembering Allah in it at all?",
+      "Is there a wrong I already know I am doing, which I keep saving for some later moment to admit?",
+      "When I hear of a place struck by disaster, do I reach for a verdict on its people, or for a question about myself?",
+      "If I were asked this week what I did with the guidance that reached me, what would my honest answer be?",
+      "Whose word do I actually follow when it pulls against what came down from my Lord?"
+    ],
+    "pointsBn": [
+      "আমার দিনের কোন সময়টা এত নিরাপদ মনে হয় যে তখন আল্লাহর কথা একেবারেই মনে পড়ে না?",
+      "এমন কোনো অন্যায় কি আছে, যা আমি করছি বলে জানি, অথচ স্বীকার করাটা পরের কোনো সময়ের জন্য তুলে রাখছি?",
+      "কোনো এলাকায় বিপর্যয়ের খবর শুনলে আমি কি সেখানকার মানুষদের নিয়ে রায় দিতে বসি, নাকি নিজেকে প্রশ্ন করি?",
+      "এ সপ্তাহে যদি জিজ্ঞেস করা হয়, আমার কাছে পৌঁছানো হেদায়েত দিয়ে আমি কী করেছি, সৎ উত্তরটা কী হবে?",
+      "রবের কাছ থেকে যা নাযিল হয়েছে, তার উল্টো দিকে কেউ টানলে আসলে আমি কার কথা মানি?"
+    ],
+    "lessonEn": "Admit your wrong while admitting still helps; in this verse the blow came in hours of rest, to people who never expected it.",
+    "lessonBn": "স্বীকার করা যখন এখনো কাজে আসে, তখনই নিজের অন্যায় স্বীকার করুন; এ আয়াতে আঘাত এসেছিল বিশ্রামের সময়ে, এমন লোকদের উপর যারা তা কল্পনাও করেনি।"
   }
 };
 
