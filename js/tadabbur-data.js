@@ -22191,6 +22191,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a sign reaches you, let it in: a refusing heart never lacks proof, so guard your own heart and ask Allah to keep it open.",
     "lessonBn": "কোনো নিদর্শন আপনার কাছে এলে তাকে ভেতরে আসতে দিন। মুখ ফেরানো অন্তরের কখনো প্রমাণের অভাব হয় না, তাই নিজের অন্তর পাহারা দিন আর আল্লাহর কাছে চান, তিনি যেন তা খোলা রাখেন।"
+  },
+  "15:28": {
+    "reflectionEn": "Before there was any Adam to honour, his Lord spoke of him. The angels were told what was coming, and told plainly what it would be made of: dry clay that rings, from dark mud that had changed. Nothing was hidden about how humble the material was, and nothing was held back about the honour, because the very next verse promises the spirit breathed in and the angels bowing down. So the first words ever said about us were said by Allah, among the angels, before we existed. That steadies me from two sides. I cannot boast of the clay, and I cannot call myself worthless, since I was mentioned before I was made. What am I doing with a name spoken so early?",
+    "reflectionBn": "সম্মান দেওয়ার মতো আদম তখনো কোথাও নেই, অথচ তাঁর রব তাঁর কথা বললেন। ফেরেশতাদের জানিয়ে দেওয়া হলো কী আসছে, আর খোলাখুলি বলা হলো কী দিয়ে তা গড়া হবে: ঠনঠনে শুকনো মাটি, যা এসেছে বদলে যাওয়া কালো কাদা থেকে। উপাদান যে কত সামান্য, তা লুকানো হয়নি। সম্মানের কথাও চেপে রাখা হয়নি, কারণ ঠিক পরের আয়াতেই রূহ ফুঁকে দেওয়া আর ফেরেশতাদের সাজদার প্রতিশ্রুতি। তাহলে আমাদের নিয়ে প্রথম যে কথা বলা হয়েছিল, তা বলেছিলেন আল্লাহ, ফেরেশতাদের মাঝে, আমরা অস্তিত্বে আসার আগেই। এ কথা আমাকে দুই দিক থেকে স্থির রাখে। মাটি নিয়ে আমি গর্ব করতে পারি না। আবার নিজেকে মূল্যহীনও ভাবতে পারি না, কারণ আমাকে বানানোর আগেই আমার কথা বলা হয়েছিল। এত আগে উচ্চারিত এই নাম নিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "When I think about where I came from, which do I forget more easily: the plain clay, or the honour of being spoken of before I existed?",
+      "Is there a pride in me, over family, looks, money or learning, that the plain naming of my material ought to quieten?",
+      "On the days I feel I count for nothing, do I remember that the making of man was announced to the angels before it happened?",
+      "Do I treat the people around me as those whose making Allah announced and honoured, or only by what they have made of themselves?",
+      "If every person I meet this week comes from the same clay as I do, whom have I been looking down on?"
+    ],
+    "pointsBn": [
+      "নিজের শুরুর কথা ভাবলে কোনটা আমি সহজে ভুলে যাই: সাদামাটা মাটির কথা, নাকি অস্তিত্বে আসার আগেই আমার কথা বলা হয়েছিল, সেই সম্মানের কথা?",
+      "বংশ, চেহারা, টাকা বা বিদ্যা নিয়ে আমার ভেতরে কি এমন কোনো অহংকার আছে, যা আমার উপাদানের সাদামাটা বর্ণনা শুনে থেমে যাওয়া উচিত?",
+      "যেদিন মনে হয় আমার কোনো দাম নেই, সেদিন কি মনে রাখি যে মানুষ বানানোর আগেই আল্লাহ ফেরেশতাদের তা জানিয়েছিলেন?",
+      "আশপাশের মানুষদের কি আমি এমনভাবে দেখি যে আল্লাহ তাদের সৃষ্টির ঘোষণা দিয়েছেন আর তাদের সম্মান দিয়েছেন? নাকি শুধু তারা নিজেরা কী হয়েছে, তা দিয়েই মাপি?",
+      "এ সপ্তাহে যার সঙ্গেই দেখা হোক, সে-ও যদি আমার মতো একই মাটি থেকে আসে, তাহলে আমি কাকে ছোট করে দেখছিলাম?"
+    ],
+    "lessonEn": "You were spoken of among the angels before you were made from humble clay: let the clay end your pride, and let that honour keep you from despair.",
+    "lessonBn": "সামান্য মাটি থেকে বানানোর আগেই ফেরেশতাদের মাঝে আপনার কথা বলা হয়েছিল। মাটির কথা আপনার অহংকার ভাঙুক, আর সেই সম্মান আপনাকে হতাশা থেকে দূরে রাখুক।"
   }
 };
 

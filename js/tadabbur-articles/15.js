@@ -1031,6 +1031,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Material to Scene",
+          "bn": "উপাদান থেকে দৃশ্যে"
+        },
+        "p": [
+          {
+            "en": "Wa-idh qala rabbuka lil-mala'ikati inni khaliqun basharan min salsalin min hama'in masnun: and when your Lord said to the angels, I am creating a human being from salsal, from hama' masnun. Two verses earlier, in 15:26, Allah stated the fact: We created man from this clay. 15:27 set the jinn beside him, made before from scorching fire. Now the surah stops stating and starts telling. It opens a scene, with a speaker, a hearer and words spoken, and that scene runs on through the passage that follows.",
+            "bn": "ওয়া ইয কালা রাব্বুকা লিল-মালাইকাতি ইন্নী খালিকুম বাশারাম মিন সালসালিম মিন হামাইম মাসনূন: আর যখন তোমার রব ফেরেশতাদের বললেন, আমি সালসাল থেকে, হামা মাসনূন থেকে এক মানুষ সৃষ্টি করছি। দুই আয়াত আগে, ১৫:২৬-এ, আল্লাহ কথাটা জানিয়ে দিয়েছিলেন: আমি মানুষকে এই মাটি থেকে বানিয়েছি। ১৫:২৭ তার পাশে রেখেছে জিনকে, যাকে আগেই লু-হাওয়ার আগুন থেকে বানানো হয়েছিল। এবার সূরা শুধু তথ্য দেওয়া থামিয়ে ঘটনা বলতে শুরু করে। একটা দৃশ্য খোলে, যেখানে একজন বলছেন, অন্যরা শুনছেন, আর কথাগুলো উচ্চারিত হচ্ছে। এই দৃশ্য চলতে থাকে পরের আয়াতগুলো জুড়ে।"
+          },
+          {
+            "en": "Why tell the story here at all? Maududi's Tafhim al-Qur'an, which treats 15:26 to 15:43 together, reads it against the verses before. Those verses described people following ways that would ruin them, and the story is told to warn them that these are the ways of Satan, their lasting enemy. That is his reading of the passage as a whole. This article keeps to the one verse in front of it: the moment before Adam (AS) existed, when his coming was announced, and what that announcement says.",
+            "bn": "এখানে কাহিনিটা বলা হলো কেন? মওদূদীর তাফহীমুল কুরআন ১৫:২৬ থেকে ১৫:৪৩ একসঙ্গে আলোচনা করে, আর আগের আয়াতগুলোর আলোয় একে পড়ে। সেসব আয়াতে এমন লোকদের কথা ছিল, যারা ধ্বংসের পথে চলছিল। তাঁর মতে কাহিনিটা তাদের সতর্ক করতে বলা হয়েছে যে এগুলো শয়তানের পথ, যে তাদের চিরকালের শত্রু। এটা পুরো অংশ নিয়ে তাঁর পাঠ। এই লেখা থাকবে সামনের একটি আয়াতেই: আদম (আঃ) অস্তিত্বে আসার আগের সেই মুহূর্ত, যখন তাঁর আগমনের ঘোষণা হলো, আর সেই ঘোষণা আমাদের কী বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remember It, Messenger",
+          "bn": "হে রাসূল, স্মরণ করুন"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa-idh, and when, without saying what comes before the when. At-Tabari supplies it in his first line: Allah is saying to His Prophet Muhammad ﷺ, and remember, O Muhammad, when your Lord said to the angels. The Muyassar writes the same verb into its paraphrase, and remember, O Messenger, and Tafsir al-Jalalayn has and mention when your Lord said. The word rabbuka, your Lord, keeps that address in the verse itself. The scene is being placed before one listener first, to hold in mind and to tell.",
+            "bn": "আয়াত শুরু হয় ওয়া ইয দিয়ে, মানে আর যখন। কিন্তু 'যখন'-এর আগে কী, তা বলা নেই। তাবারী প্রথম লাইনেই সেটা পূরণ করেন: আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন, হে মুহাম্মাদ, স্মরণ করুন, যখন আপনার রব ফেরেশতাদের বললেন। মুয়াসসারও তার ব্যাখ্যায় একই ক্রিয়া বসায়: হে রাসূল, স্মরণ করুন। তাফসীরে জালালাইনেও আছে: উল্লেখ করুন, যখন আপনার রব বললেন। রাব্বুকা, তোমার রব, শব্দটাই আয়াতের ভেতরে এই সম্বোধন ধরে রাখে। দৃশ্যটা প্রথমে রাখা হচ্ছে একজন শ্রোতার সামনে, যিনি তা মনে রাখবেন আর অন্যদের শোনাবেন।"
+          },
+          {
+            "en": "Al-Qurtubi says nothing of his own on these words here. He writes that wa-idh qala rabbuka lil-mala'ika has already been treated in al-Baqara, and at 2:30 he does treat it. Idh, he says there, is a particle of time pointing to the past. Abu Ubayda held that it was redundant, meaning simply and your Lord said, and az-Zajjaj, an-Nahhas and, in al-Qurtubi's words, all the commentators rejected that. An-Nahhas gives the reason: idh is a noun, an adverb of time, not a word that gets added for nothing. Al-Qurtubi lists remember when as one way of attaching it.",
+            "bn": "কুরতুবী এখানে এই শব্দগুলো নিয়ে নিজে কিছু বলেন না। তিনি লেখেন, ওয়া ইয কালা রাব্বুকা লিল-মালাইকা নিয়ে আলোচনা আগেই সূরা বাকারায় হয়ে গেছে। ২:৩০-এ গিয়ে দেখা যায়, সত্যিই তিনি সেখানে বিস্তারিত বলেছেন। তাঁর কথায়, ইয হলো সময় বোঝানোর শব্দ, যা অতীতের দিকে ইশারা করে। আবু উবায়দা মনে করতেন শব্দটা অতিরিক্ত, অর্থ শুধু 'আর তোমার রব বললেন'। যাজ্জাজ, নাহহাস আর কুরতুবীর ভাষায় সব মুফাসসির এ মত প্রত্যাখ্যান করেছেন। নাহহাস কারণও বলেন: ইয একটি ইসম, সময়বাচক শব্দ, এমনি এমনি জুড়ে দেওয়ার শব্দ নয়। একে যুক্ত করার একটি উপায় হিসেবে কুরতুবী 'স্মরণ কর, যখন' অর্থটি উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken Of Before Made",
+          "bn": "বানানোর আগেই যাঁর কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a statement of honour, and he places the honour in its timing. Allah, he says, is telling of His tanwih, His raising of Adam's name, by mentioning him among His angels before He created him, and of His honouring him by commanding the angels to prostrate to him. Two honours, then, in his reading: being spoken of in that company before existing at all, and the prostration that follows. The second belongs to the next verse. The first belongs to this verse, and it is easy to read past.",
+            "bn": "ইবন কাসীর আয়াতটিকে সম্মানের ঘোষণা হিসেবে পড়েন, আর সম্মানটা দেখেন এর সময়ের মধ্যে। তাঁর কথায়, আল্লাহ এখানে জানাচ্ছেন তাঁর তানবীহের কথা, মানে আদমের নাম উঁচু করার কথা: সৃষ্টি করার আগেই তিনি ফেরেশতাদের মাঝে তাঁর উল্লেখ করেছেন। আর জানাচ্ছেন ফেরেশতাদের সাজদার আদেশ দিয়ে তাঁকে সম্মানিত করার কথা। তাহলে তাঁর পাঠে সম্মান দুটি। অস্তিত্বে আসার আগেই ওই মজলিসে তাঁর কথা ওঠা, আর তার পরের সাজদা। দ্বিতীয়টি পরের আয়াতের বিষয়। প্রথমটি এই আয়াতের, আর সেটা চোখ এড়িয়ে যাওয়া খুব সহজ।"
+          },
+          {
+            "en": "As-Sa'di frames the verse by intent: when Allah willed to create Adam, He said to the angels what the verse says. The announcement comes first and the making after it. Al-Baghawi makes the timing plain in a gloss of two words, inni khaliqun meaning I will create, and the Jalalayn has I am going to create. Khaliq is shaped like a title, a creator, yet these two read it here as something about to happen. The angels are hearing of a creature who does not yet exist.",
+            "bn": "সা'দী আয়াতটিকে দেখেন ইচ্ছার দিক থেকে: আল্লাহ যখন আদমকে সৃষ্টি করতে চাইলেন, তখন ফেরেশতাদের সেই কথা বললেন, যা আয়াতে আছে। আগে ঘোষণা, পরে সৃষ্টি। বাগাভী দুই শব্দের ব্যাখ্যায় সময়টা পরিষ্কার করে দেন: ইন্নী খালিকুন মানে আমি সৃষ্টি করব। জালালাইনেও আছে, আমি সৃষ্টি করতে যাচ্ছি। খালিক শব্দের গড়ন যেন কারও পরিচয়, যিনি সৃষ্টি করেন। তবু এই দুজন এখানে একে পড়েন সামনে ঘটতে যাওয়া কাজ হিসেবে। ফেরেশতারা শুনছেন এমন এক সৃষ্টির কথা, যে এখনো অস্তিত্বে আসেনি।"
+          },
+          {
+            "en": "Nothing in the verse asks the angels for anything; it tells them. What the telling does, on Ibn Kathir's reading, is set the human being's arrival inside an honour already given. Before the clay was gathered, before any shape or spirit, the angels had heard that a bashar was coming. As-Sa'di closes his short note by saying the angels then obeyed their Lord's command. The obedience lies ahead, in 15:29 and 15:30; the announcement it answered is here.",
+            "bn": "আয়াতে ফেরেশতাদের কাছে কিছু চাওয়া হয়নি, শুধু জানানো হয়েছে। ইবন কাসীরের পাঠে এই জানানোর কাজ হলো মানুষের আগমনকে আগে থেকে দেওয়া এক সম্মানের ভেতরে বসিয়ে দেওয়া। মাটি জড়ো করার আগে, কোনো আকৃতি বা রূহের আগে, ফেরেশতারা শুনে ফেলেছিলেন যে একজন বাশার আসছেন। সা'দী তাঁর ছোট্ট ব্যাখ্যা শেষ করেন এই কথায়: তারপর ফেরেশতারা তাঁদের রবের আদেশ মেনে নিলেন। সেই আনুগত্য সামনে, ১৫:২৯ ও ১৫:৩০-এ। যে ঘোষণার জবাবে তা এসেছিল, সেটা এখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ja'il There, Khaliq Here",
+          "bn": "সেখানে জাইল, এখানে খালিক"
+        },
+        "p": [
+          {
+            "en": "The Qur'an tells this moment more than once, and the opening words recur. At 2:30 they run wa-idh qala rabbuka lil-mala'ikati inni ja'ilun fi al-ardi khalifa: and when your Lord said to the angels, I am placing on the earth a khalifa. At 38:71 they run idh qala rabbuka lil-mala'ikati inni khaliqun basharan min tin: I am creating a human being from clay. Here the same opening carries salsal and hama' masnun instead. Maududi asks the reader of this passage to compare it with 2:30 to 2:39 and 7:11 to 7:25.",
+            "bn": "এই মুহূর্তের কথা কুরআন একাধিকবার বলেছে, আর শুরুর শব্দগুলো ফিরে ফিরে আসে। ২:৩০-এ আছে ওয়া ইয কালা রাব্বুকা লিল-মালাইকাতি ইন্নী জাইলুন ফিল আরদি খালীফা: আর যখন তোমার রব ফেরেশতাদের বললেন, আমি জমিনে এক খলীফা বানাতে যাচ্ছি। ৩৮:৭১-এ আছে ইয কালা রাব্বুকা লিল-মালাইকাতি ইন্নী খালিকুম বাশারাম মিন তীন: আমি মাটি থেকে এক মানুষ সৃষ্টি করছি। এখানে একই শুরুর সঙ্গে এসেছে সালসাল আর হামা মাসনূন। মওদূদী এই অংশের পাঠককে বলেন, ২:৩০ থেকে ২:৩৯ এবং ৭:১১ থেকে ৭:২৫-এর সঙ্গে মিলিয়ে পড়তে।"
+          },
+          {
+            "en": "Al-Qurtubi links the two words. At 2:30 he writes that ja'il there has the sense of khaliq, creating, which at-Tabari reports from Abu Rawq, and he adds a grammatical reason: the word takes a single object here, and that requires the sense of creating. On that reading the announcement in al-Baqara and the announcement here say one thing from two sides. There it is named by role, a khalifa on the earth. Here it is named by kind and by material, a bashar from ringing clay of altered mud.",
+            "bn": "কুরতুবী দুটি শব্দকে এক সুতোয় বাঁধেন। ২:৩০-এ তিনি লেখেন, সেখানে জাইল শব্দের অর্থ খালিক, মানে সৃষ্টিকারী। এ কথা তাবারী বর্ণনা করেছেন আবু রাওক থেকে। কুরতুবী ভাষার দিক থেকে একটা কারণও দেন: বাক্যে শব্দটি এখানে কেবল একটি জিনিসের সঙ্গে জুড়েছে, আর তাতে সৃষ্টি করার অর্থই দাঁড়ায়। এই পাঠে বাকারার ঘোষণা আর এখানকার ঘোষণা একই কথা বলে দুই দিক থেকে। সেখানে পরিচয় দেওয়া হয়েছে দায়িত্ব দিয়ে, জমিনে এক খলীফা। এখানে পরিচয় দেওয়া হয়েছে জাত আর উপাদান দিয়ে: বদলে যাওয়া কাদার ঠনঠনে মাটি থেকে এক বাশার।"
+          },
+          {
+            "en": "The tellings also differ in what follows. In al-Baqara the angels answer with a question, and Allah replies that He knows what they do not. Here nothing comes between the announcement and the instruction: 15:29 goes straight on to the proportioning, the breathing of the spirit and the command to fall in prostration, and 38:72 repeats that verse word for word. Each surah takes from the one moment what its own passage needs. Al-Hijr, which began this story by naming the material, keeps the material in the announcement too.",
+            "bn": "পরে কী আসে, সেখানেও বর্ণনাগুলো আলাদা। বাকারায় ফেরেশতারা একটা প্রশ্ন নিয়ে জবাব দেন, আর আল্লাহ বলেন, তিনি জানেন যা তারা জানে না। এখানে ঘোষণা আর নির্দেশের মাঝে কিছু নেই। ১৫:২৯ সোজা চলে যায় পূর্ণ গঠন, রূহ ফুঁকে দেওয়া আর সাজদায় পড়ে যাওয়ার আদেশে। ৩৮:৭২ হুবহু সেই আয়াতটিই আবার বলে। একই মুহূর্ত থেকে প্রতিটি সূরা নেয় নিজের আলোচনার যতটুকু দরকার। সূরা হিজর এ কাহিনি শুরু করেছিল উপাদানের নাম দিয়ে, তাই ঘোষণার ভেতরেও উপাদানের কথা ধরে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Was Being Told",
+          "bn": "কাদের শোনানো হলো"
+        },
+        "p": [
+          {
+            "en": "The hearers are al-mala'ika, the angels. At 2:30 al-Qurtubi sets out what the word was taken to mean. Ibn Kaysan and others derived malak from mulk, dominion. Abu Ubayda derived it from la'aka, to send; aluka and ma'laka mean a message, and al-Qurtubi quotes Labid on a boy whose mother sent him with an alūk. On that account an angel is, by its very name, one who carries a message. An-Nadr ibn Shumayl, in the same passage, said the Arabs gave the word no derivation at all. Al-Qurtubi records all three and does not choose.",
+            "bn": "শ্রোতারা হলেন আল-মালাইকা, ফেরেশতারা। শব্দটির অর্থ নিয়ে কী কী বলা হয়েছে, কুরতুবী তা ২:৩০-এ তুলে ধরেছেন। ইবন কাইসান ও অন্যরা মালাক শব্দটি এনেছেন মুলক থেকে, যার অর্থ রাজত্ব। আবু উবায়দা এনেছেন লাআকা থেকে, যার অর্থ পাঠানো। আলূকা ও মা'লাকা মানে বার্তা। প্রমাণ হিসেবে কুরতুবী লাবীদের কবিতা আনেন, যেখানে এক ছেলেকে তার মা একটা আলূক দিয়ে পাঠিয়েছিল। এই ব্যাখ্যায় ফেরেশতা নামের ভেতরেই আছে বার্তা বহনের অর্থ। একই জায়গায় নাদর ইবন শুমাইলের মত হলো, আরবরা এ শব্দের কোনো মূল ধাতু ধরেনি। কুরতুবী তিনটি মতই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "Al-Qurtubi also reports, from those he calls the people of meanings, why the angels were addressed at all. Allah spoke to them, they said, not for consultation, but to bring out what was in them, their sight of their own worship, glorification and sanctifying, and then He returned them to their proper measure by saying, prostrate to Adam. That is one reading, reported by al-Qurtubi on 2:30, not a ruling on the matter. Still, it fits the verse here: nothing is asked of the angels, and the instruction that follows is to bow.",
+            "bn": "কেন ফেরেশতাদের সম্বোধন করা হলো, সে বিষয়ে কুরতুবী একদল আলেমের কথা বর্ণনা করেন, যাদের তিনি বলেন অর্থের বিশেষজ্ঞ। তাঁদের মতে আল্লাহ পরামর্শ চাওয়ার জন্য ফেরেশতাদের সঙ্গে কথা বলেননি। বরং তাঁদের ভেতরে যা ছিল তা বের করে আনার জন্য: নিজেদের ইবাদত, তাসবীহ আর তাকদীসের দিকে তাঁদের নিজস্ব দৃষ্টি। তারপর 'আদমকে সাজদা কর' বলে তিনি তাঁদের ফিরিয়ে দিলেন তাঁদের যথাযথ মাপে। এটি একটি পাঠ, যা কুরতুবী ২:৩০-এর আলোচনায় বর্ণনা করেছেন, চূড়ান্ত মীমাংসা নয়। তবু এখানকার আয়াতের সঙ্গে এটা মেলে: ফেরেশতাদের কাছে কিছু চাওয়া হয়নি, আর পরের নির্দেশ হলো সাজদায় পড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Material Said Aloud",
+          "bn": "উপাদানের কথা প্রকাশ্যে"
+        },
+        "p": [
+          {
+            "en": "Min salsalin min hama'in masnun appears three times in this passage: in 15:26, where Allah states what man was made from, here in the words spoken to the angels, and in 15:33, in another mouth. The readings of each word, ringing clay or clay gone off, mud altered or smoothed or poured, were set out under 15:26 and are not repeated here. What is new in this verse is who hears them. The material is not whispered or left for later. It is named in the announcement itself, before the honour is spoken.",
+            "bn": "মিন সালসালিম মিন হামাইম মাসনূন কথাটি এই অংশে তিনবার এসেছে। ১৫:২৬-এ, যেখানে আল্লাহ জানান মানুষকে কী দিয়ে বানানো হয়েছে। এখানে, ফেরেশতাদের শোনানো কথায়। আর ১৫:৩৩-এ, অন্য একজনের মুখে। প্রতিটি শব্দের নানা ব্যাখ্যা, ঠনঠনে মাটি না পচে যাওয়া মাটি, বদলে যাওয়া কাদা না মসৃণ বা ছাঁচে ঢালা কাদা, ১৫:২৬-এর আলোচনায় এসে গেছে। এখানে সেগুলো আর বলা হবে না। এ আয়াতে নতুন হলো, কথাগুলো কারা শুনছেন। উপাদানের কথা ফিসফিস করে বলা হয়নি, পরের জন্যও রেখে দেওয়া হয়নি। সম্মানের কথা আসার আগেই ঘোষণার ভেতরে তার নাম নেওয়া হয়েছে।"
+          },
+          {
+            "en": "The short commentaries keep the wording plain. The Muyassar paraphrases: I am creating an insan, a human being, from dry clay, and this dry clay is from black clay changed in colour. The Jalalayn has a mortal out of dry clay drawn from a malleable mud. The Muyassar's choice of insan for bashar ties this verse back to al-insan in 15:26: the creature announced is the creature already named. This article draws no claim of modern science from the verse, for or against any theory; the reflection it offers lies elsewhere.",
+            "bn": "ছোট তাফসীরগুলো কথাটা সাদামাটা রাখে। মুয়াসসারের ব্যাখ্যা: আমি শুকনো মাটি থেকে এক ইনসান, মানে মানুষ, সৃষ্টি করছি, আর এই শুকনো মাটি এসেছে কালো মাটি থেকে, যার রং বদলে গেছে। জালালাইনে আছে, নরম কাদা থেকে নেওয়া শুকনো মাটি দিয়ে এক মরণশীল সত্তা। বাশার শব্দের জায়গায় মুয়াসসার যে ইনসান বসিয়েছে, তাতে এ আয়াত ফিরে যায় ১৫:২৬-এর আল-ইনসানের কাছে। যার ঘোষণা দেওয়া হচ্ছে, তার নাম আগেই নেওয়া হয়ে গেছে। এই লেখা আয়াত থেকে আধুনিক বিজ্ঞানের কোনো দাবি টানবে না, কোনো তত্ত্বের পক্ষেও না, বিপক্ষেও না। এর ভাবনার জায়গা অন্যখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Handful From All Ground",
+          "bn": "সারা জমিনের এক মুঠো"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. One narration speaks of the same beginning, though it is not tied to this verse. At-Tirmidhi (2955) records from Abu Musa al-Ash'ari (RA) that the Messenger of Allah ﷺ said: Indeed Allah Most High created Adam from a handful that He took from all of the earth, so the children of Adam came according to the earth: among them came the red, the white and the black, and what is between that, the easy and the rough, the bad and the good. At-Tirmidhi grades it hasan sahih.",
+            "bn": "এই আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে একটি বর্ণনা একই শুরুর কথা বলে, যদিও তা এই আয়াতের সঙ্গে যুক্ত নয়। তিরমিযী (২৯৫৫) আবু মূসা আশআরী (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: নিশ্চয়ই মহান আল্লাহ আদমকে সৃষ্টি করেছেন এক মুঠো মাটি থেকে, যা তিনি নিয়েছিলেন সারা জমিন থেকে। তাই আদমের সন্তানেরা এসেছে জমিনের মাপ অনুযায়ী: তাদের মধ্যে এসেছে লাল, সাদা, কালো আর এর মাঝামাঝি, কোমল আর রুক্ষ, মন্দ আর ভালো। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          },
+          {
+            "en": "The narration does not explain salsal or hama', and it should not be made to. What it adds sits beside the verse: Adam, whose making was announced to the angels, was created from a handful gathered from the whole earth, and the differences among Adam's children, in colour and in temper, go back to that one handful. Read with this verse, it leaves no room for one colour or one people to boast over another. Everyone came from the same handful and from the same announcement, and the good and the bad among them are not sorted by their colour.",
+            "bn": "এই বর্ণনা সালসাল বা হামার ব্যাখ্যা দেয় না, আর তাকে দিয়ে সে ব্যাখ্যা করানোও ঠিক হবে না। এটা যা যোগ করে, তা আয়াতের পাশে থাকে। যে আদমের সৃষ্টির কথা ফেরেশতাদের জানানো হয়েছিল, তাঁকে বানানো হয়েছিল পুরো জমিন থেকে নেওয়া এক মুঠো মাটি দিয়ে। আর আদমের সন্তানদের রং ও স্বভাবের পার্থক্য ফিরে যায় সেই এক মুঠোয়। এ আয়াতের সঙ্গে মিলিয়ে পড়লে কোনো রং বা কোনো জাতির অন্যদের উপর গর্ব করার জায়গা থাকে না। সবাই এসেছে একই মুঠো থেকে, একই ঘোষণার ভেতর দিয়ে। আর তাদের মধ্যে ভালো-মন্দের ভাগ রং দিয়ে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named Early, Made Humble",
+          "bn": "আগে নাম, পরে মাটি"
+        },
+        "p": [
+          {
+            "en": "Set the two halves of the verse beside each other and they pull in opposite directions, which is the point. Inni khaliqun basharan: I am creating a human being, announced by the Lord of the worlds to the angels, before the human existed. Min salsalin min hama'in masnun: from dry clay, from dark mud that had changed. The first half lifts, the second lowers, and the verse does not let either cancel the other. Ibn Kathir found honour in the first, and the commentators named the material of the second without softening it.",
+            "bn": "আয়াতের দুই অংশ পাশাপাশি রাখলে দেখা যায়, তারা দুই দিকে টানে, আর এটাই আসল কথা। ইন্নী খালিকুম বাশারা: আমি এক মানুষ সৃষ্টি করছি। জগতসমূহের রব ফেরেশতাদের এ ঘোষণা দিলেন মানুষ অস্তিত্বে আসার আগেই। মিন সালসালিম মিন হামাইম মাসনূন: শুকনো মাটি থেকে, বদলে যাওয়া কালো কাদা থেকে। প্রথম অংশ উঁচু করে, দ্বিতীয় অংশ নিচু করে, আর আয়াত কোনোটিকে অন্যটি মুছে ফেলতে দেয় না। ইবন কাসীর প্রথম অংশে সম্মান খুঁজে পেয়েছেন। আর মুফাসসিরগণ দ্বিতীয় অংশের উপাদানের নাম নিয়েছেন কোনো রাখঢাক ছাড়াই।"
+          },
+          {
+            "en": "That gives the reader something to hold on both kinds of day. On the day I feel above someone, for my family, my degree, my looks or my income, the verse names my material in front of the angels: dry clay, dark mud. Which part of that was I spared? And on the day I feel like nothing, after a failure, a loss or a sin, the same verse reminds me that my making was spoken of in that company before I had done anything at all, good or bad. Neither feeling gets the last word.",
+            "bn": "এতে পাঠকের হাতে দুই রকম দিনের জন্যই কিছু থাকে। যেদিন বংশ, ডিগ্রি, চেহারা বা আয়ের কারণে নিজেকে কারও চেয়ে বড় মনে হয়, সেদিন আয়াতটি ফেরেশতাদের সামনেই আমার উপাদানের নাম বলে দেয়: শুকনো মাটি, কালো কাদা। এর কোন অংশ থেকে আমি রেহাই পেয়েছি? আর যেদিন ব্যর্থতা, ক্ষতি বা কোনো গুনাহর পর নিজেকে কিছুই না মনে হয়, সেদিন এই আয়াতই মনে করিয়ে দেয়: ভালো-মন্দ কিছু করার আগেই ওই মজলিসে আমার সৃষ্টির কথা উঠেছিল। কোনো অনুভূতিই শেষ কথা বলতে পারে না।"
+          },
+          {
+            "en": "The verse is not a supplication, but a composed du'a in its spirit, not a transmitted one, might run: O Allah, You spoke of us before You made us, and You made us from humble clay. Keep me from pride over a material I did not choose, and from despair of an honour I did not earn. Let me see in every person I meet a creature You announced to Your angels. Then the passage moves on to 15:29, to the shaping, the spirit and the prostration, and the reader goes with it.",
+            "bn": "আয়াতটি কোনো দোয়া নয়। তবে এর ভাব নিয়ে বানানো একটি দোয়া, যা কোনো বর্ণিত দোয়া নয়, এমন হতে পারে: হে আল্লাহ, আমাদের বানানোর আগেই আপনি আমাদের কথা বলেছেন, আর বানিয়েছেন সামান্য মাটি থেকে। যে উপাদান আমি বেছে নিইনি, তা নিয়ে অহংকার থেকে আমাকে বাঁচান। আর যে সম্মান আমি অর্জন করিনি, তা থেকে নিরাশ হওয়া থেকেও বাঁচান। যার সঙ্গেই দেখা হোক, তার মধ্যে যেন দেখি এমন এক সৃষ্টি, যার ঘোষণা আপনি ফেরেশতাদের দিয়েছিলেন। এরপর আলোচনা এগিয়ে যায় ১৫:২৯-এর দিকে, গঠন, রূহ আর সাজদার দিকে, আর পাঠকও সঙ্গে চলে।"
+          }
+        ]
+      }
+    ]
+  },
   "15:33": {
     "sections": [
       {
