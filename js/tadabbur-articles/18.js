@@ -2339,6 +2339,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Story Opens on a Vow",
+          "bn": "একটি প্রতিজ্ঞায় কাহিনির শুরু"
+        },
+        "p": [
+          {
+            "en": "Wa-idh qala Musa li-fatahu: and when Musa said to his young man. At-Tabari reads the opening as a word to the Prophet ﷺ: remember, O Muhammad, when Musa ibn 'Imran said to his young man Yusha'. With that line the surah begins a new story, and it opens on a sentence of resolve: I will not cease until I reach the meeting of the two seas, or I go on for a huqub, a long age.",
+            "bn": "ওয়া ইয কালা মূসা লিফাতাহু: আর যখন মূসা তাঁর তরুণ সঙ্গীকে বললেন। তাবারী শুরুর কথাটিকে পড়েন নবী ﷺ-এর প্রতি এক নির্দেশ হিসেবে: হে মুহাম্মাদ, স্মরণ করুন, যখন মূসা ইবন ইমরান তাঁর তরুণ সঙ্গী ইউশাকে বলেছিলেন। এই বাক্য দিয়ে সূরায় নতুন এক কাহিনি শুরু হয়, আর তার প্রথম কথাই এক দৃঢ় সংকল্প: দুই সমুদ্রের মিলনস্থলে না পৌঁছা পর্যন্ত আমি থামব না, অথবা আমি চলতেই থাকব এক 'হুকুব', দীর্ঘ এক যুগ।"
+          },
+          {
+            "en": "Which Musa is this? Al-Qurtubi reports that the majority of scholars and historians hold him to be Musa ibn 'Imran, the Musa named in the Qur'an, since it names no other. A group, Nawf al-Bikali among them, said he was Musa ibn Mansha ibn Yusuf ibn Ya'qub, a prophet before Musa ibn 'Imran. Al-Qurtubi adds that Ibn 'Abbas rejected that view, as recorded in Sahih al-Bukhari and elsewhere. Al-Baghawi records the same two positions and calls the first the sounder one.",
+            "bn": "এই মূসা কে? কুরতুবী জানান, অধিকাংশ আলেম ও ইতিহাসবিদের মতে তিনি মূসা ইবন ইমরান (আঃ), কুরআনে যাঁর নাম এসেছে। কুরআনে অন্য কোনো মূসার উল্লেখ নেই। নাওফ আল-বিকালীসহ একটি দল বলেছিল, তিনি মূসা ইবন মানশা ইবন ইউসুফ ইবন ইয়াকুব, মূসা ইবন ইমরানের আগের এক নবী। কুরতুবী যোগ করেন, সহীহ বুখারী ও অন্যান্য গ্রন্থে আছে যে ইবন আব্বাস (রাঃ) এ মত প্রত্যাখ্যান করেছেন। বাগাভীও এই দুই মত উল্লেখ করেন এবং প্রথমটিকে বেশি সঠিক বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Before the Gathering",
+          "bn": "সমাবেশে করা এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The backbone of the story is a long narration. Sa'id ibn Jubayr told Ibn 'Abbas that Nawf al-Bikali claimed the Musa who accompanied al-Khidr was not the Musa of the Children of Israel. Ibn 'Abbas answered sharply that the enemy of Allah had told a lie, and then narrated from Ubayy ibn Ka'b what he had heard the Messenger of Allah ﷺ say. So the question of which Musa is settled inside the hadith itself, by a Companion who carried the report.",
+            "bn": "কাহিনির মেরুদণ্ড একটি দীর্ঘ বর্ণনা। সাঈদ ইবন জুবাইর ইবন আব্বাস (রাঃ)-কে জানালেন, নাওফ আল-বিকালী দাবি করে যে খিযিরের সঙ্গী মূসা বনী ইসরাঈলের মূসা নন। ইবন আব্বাস (রাঃ) কড়া ভাষায় উত্তর দিলেন: আল্লাহর শত্রু মিথ্যা বলেছে। তারপর তিনি উবাই ইবন কা'ব (রাঃ)-এর সূত্রে বর্ণনা করলেন, রাসূলুল্লাহ ﷺ-কে তিনি কী বলতে শুনেছেন। কোন মূসা, সে প্রশ্নের মীমাংসা তাই হাদীসের ভেতরেই হয়ে যায়, এমন এক সাহাবীর মুখে যিনি নিজে বর্ণনাটি বহন করেছেন।"
+          },
+          {
+            "en": "In al-Bukhari's wording (4725), the Prophet ﷺ said: \"Moses got up to deliver a speech before the children of Israel and he was asked, 'Who is the most learned person among the people?' Moses replied, 'I (am the most learned).' Allah admonished him for he did not ascribe knowledge to Allah alone. So Allah revealed to him: 'At the junction of the two seas there is a slave of Ours who is more learned than you.'\"",
+            "bn": "বুখারীর ভাষ্যে (৪৭২৫) নবী ﷺ বলেছেন: \"মূসা বনী ইসরাঈলের সামনে ভাষণ দিতে দাঁড়ালেন। তাঁকে জিজ্ঞেস করা হলো, মানুষের মধ্যে সবচেয়ে বড় জ্ঞানী কে? তিনি বললেন, আমি। আল্লাহ তাঁকে তিরস্কার করলেন, কারণ তিনি জ্ঞানকে আল্লাহর দিকে ফিরিয়ে দেননি। তখন আল্লাহ তাঁর কাছে ওয়াহী পাঠালেন: দুই সমুদ্রের মিলনস্থলে আমার এক বান্দা আছে, সে তোমার চেয়ে বেশি জ্ঞানী।\""
+          },
+          {
+            "en": "That is only the opening of a much longer report, whose later parts the following verses track. Al-Bukhari recorded it in his Sahih in several chapters (122, 3401 and 4725), and Muslim recorded it in his Sahih (2380). Al-Qurtubi names this same hadith as the cause of the story and gives al-Bukhari's wording. The line about the rebuke is the hadith's own sentence. It is reported here as the hadith says it, and nothing is built on it.",
+            "bn": "এটুকু এক দীর্ঘ বর্ণনার শুরুমাত্র। এর পরের অংশগুলো ধরে ধরে এগোয় পরের আয়াতগুলো। বুখারী তাঁর সহীহ গ্রন্থের কয়েকটি অধ্যায়ে এটি এনেছেন (১২২, ৩৪০১ ও ৪৭২৫), মুসলিমও তাঁর সহীহ গ্রন্থে এনেছেন (২৩৮০)। কুরতুবী এই হাদীসকেই কাহিনির পটভূমি বলে উল্লেখ করেন এবং বুখারীর শব্দ উদ্ধৃত করেন। তিরস্কারের বাক্যটি হাদীসেরই নিজের কথা। এখানে তা হাদীস যেভাবে বলেছে সেভাবেই রাখা হলো, এর উপর বাড়তি কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "More Learned in Which Matters",
+          "bn": "কোন বিষয়ে বেশি জ্ঞানী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays from those he calls our scholars how the words more learned than you should be read. They mean more learned in the rulings of particular events and specific happenings, not more learned without qualification. The proof is al-Khidr's own statement that each of the two held knowledge from Allah that the other did not. So each was more learned than the other in what he alone had been given.",
+            "bn": "'তোমার চেয়ে বেশি জ্ঞানী' কথাটি কীভাবে বুঝতে হবে, কুরতুবী তা উদ্ধৃত করেন তাঁর ভাষায় 'আমাদের আলেমদের' কাছ থেকে। এর অর্থ নির্দিষ্ট কিছু ঘটনা ও বিশেষ পরিস্থিতির বিধানে বেশি জ্ঞানী, সব বিষয়ে নয়। প্রমাণ হলো খিযিরের নিজের কথা: দুজনের প্রত্যেকের কাছে আল্লাহর দেওয়া এমন জ্ঞান আছে, যা অন্যজনের কাছে নেই। ফলে নিজের পাওয়া জ্ঞানের ক্ষেত্রে প্রত্যেকেই অন্যজনের চেয়ে বেশি জ্ঞানী।"
+          },
+          {
+            "en": "What moved Musa (AS) to travel, in al-Qurtubi's telling, was longing. When he heard this, his noble soul and high aspiration yearned to gain the knowledge he did not have and to meet the servant of whom it was said, he is more learned than you. He resolved, asked humbly how the way might be found, was told to set out whatever the conditions, and left with his young man, saying the words of this verse.",
+            "bn": "কুরতুবীর বর্ণনায় মূসা (আঃ)-কে পথে নামিয়েছিল এক তীব্র আকাঙ্ক্ষা। কথাটি শোনার পর তাঁর মহৎ মন আর উঁচু হিম্মত ব্যাকুল হলো অজানা জ্ঞান অর্জনের জন্য, আর সেই মানুষটির সাক্ষাতের জন্য, যাঁর সম্পর্কে বলা হয়েছে, তিনি তোমার চেয়ে বেশি জ্ঞানী। তিনি সংকল্প করলেন, বিনয়ের সঙ্গে জানতে চাইলেন পথ কোথায়। নির্দেশ এল, যে অবস্থাতেই হোক রওনা হও। তিনি তরুণ সঙ্গীকে নিয়ে বেরিয়ে পড়লেন, মুখে এই আয়াতের কথা।"
+          },
+          {
+            "en": "Ibn Kathir says Musa (AS) was told of a servant at the meeting of the two seas who had knowledge Musa had not encompassed, and he loved to go to him. As-Sa'di opens on the verse as Allah's report of His prophet's intense desire for good and for seeking knowledge. The Muyassar says he would keep travelling to reach the righteous servant and learn from him what he did not yet have.",
+            "bn": "ইবন কাসীর বলেন, মূসা (আঃ)-কে জানানো হয়েছিল, দুই সমুদ্রের মিলনস্থলে এক বান্দার কাছে এমন জ্ঞান আছে যা মূসার আয়ত্তে নেই। তাই তাঁর কাছে যেতে তাঁর মন চাইল। সা'দী আয়াতটি শুরু করেন এভাবে: আল্লাহ এখানে জানাচ্ছেন কল্যাণ আর জ্ঞান অন্বেষণের প্রতি তাঁর নবীর গভীর আগ্রহের কথা। মুয়াসসার বলে, সেই নেক বান্দার কাছে পৌঁছে নিজের অজানা জ্ঞান শেখার জন্যই তিনি চলতে থাকবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "I Will Not Cease",
+          "bn": "আমি থামব না"
+        },
+        "p": [
+          {
+            "en": "La abrahu. At-Tabari glosses it as la azalu asir, I will keep on travelling, and gives Ibn Zayd's shorter gloss through his chain: la antahi, I will not stop. He also notes that some scholars of Arabic read it as la azulu, citing a line of al-Farazdaq in which fa-ma barihu is glossed ma zalu, they kept on. Ibn Kathir quotes the same line.",
+            "bn": "লা আবরাহু। তাবারী এর ব্যাখ্যা দেন 'লা আযালু আসীর', অর্থাৎ আমি চলতেই থাকব। নিজের সনদে তিনি ইবন যায়দের আরও ছোট ব্যাখ্যা আনেন: 'লা আনতাহী', আমি থামব না। তিনি এটাও জানান, আরবি ভাষার কোনো কোনো পণ্ডিত একে পড়েছেন 'লা আযূলু' অর্থে। প্রমাণ হিসেবে তাঁরা এনেছেন ফারাযদাকের এক পঙক্তি, যেখানে 'ফামা বারিহু'-র ব্যাখ্যা 'মা যালু', অর্থাৎ তারা লেগেই রইল। ইবন কাসীরও একই পঙক্তি উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same core sense, I will keep on travelling, with a line of verse of his own, and then a second reading introduced with it is said: la abrahu, I will not part from you. As-Sa'di fills out the first sense. I will keep journeying, he paraphrases, even if the distance grows long and hardship overtakes me, until I reach the meeting of the two seas. He calls it a firm resolve, which is why Musa (AS) carried it through.",
+            "bn": "কুরতুবীও মূল অর্থ ধরেন একই, আমি চলতেই থাকব, আর এর সমর্থনে আনেন অন্য এক কবিতার পঙক্তি। তারপর 'বলা হয়' কথাটি জুড়ে দিয়ে দ্বিতীয় এক অর্থ আনেন: লা আবরাহু, আমি তোমাকে ছেড়ে যাব না। সা'দী প্রথম অর্থটিকে আরও খুলে বলেন। তাঁর ভাষ্যে মূসা (আঃ)-এর কথার মানে: দূরত্ব যত বাড়ুক, কষ্ট যত আসুক, দুই সমুদ্রের মিলনস্থলে না পৌঁছা পর্যন্ত আমি সফর চালিয়ে যাব। সা'দী একে বলেন অটল সংকল্প, আর সে কারণেই মূসা (আঃ) তা শেষ পর্যন্ত পূর্ণ করেছিলেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls the sentence a model of the high determination prophets show when they are ready to obey their Lord. Musa (AS) had to reach a particular place, it says, and he was resolved to keep going until he reached it, however long the journey took. The resolve is spoken aloud before a single step is described. The verse records the promise first, and the road only afterwards.",
+            "bn": "মাআরিফুল কুরআন এই বাক্যকে বলে নবীদের উঁচু হিম্মতের এক নমুনা, রবের হুকুম পালনে প্রস্তুত হলে যা তাঁদের মধ্যে দেখা যায়। তাফসীরটির কথায়, মূসা (আঃ)-কে এক নির্দিষ্ট জায়গায় পৌঁছাতে হতো, আর সফর যত লম্বাই হোক, সেখানে না পৌঁছা পর্যন্ত চলার সংকল্প তিনি করে নিয়েছিলেন। পথের একটি কদমের বর্ণনা আসার আগেই সংকল্পটি মুখে উচ্চারিত হয়। আয়াত আগে প্রতিজ্ঞাটা লিখে রাখে, পথের কথা আসে পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Two Waters Meet",
+          "bn": "যেখানে দুই পানি মেলে"
+        },
+        "p": [
+          {
+            "en": "Majma' al-bahrayn, the meeting place of the two seas. At-Tabari explains majma' as a verbal noun from jama'a, to bring together. Which two seas? He gives Qatada, through two chains, as saying the sea of Persia and the sea of Rum, the Roman sea lying toward the west and the Persian toward the east, and Mujahid as saying the same. Ibn Kathir reports this view from Qatada and more than one other authority.",
+            "bn": "মাজমাউল বাহরাইন, দুই সমুদ্রের মিলনস্থল। তাবারী বলেন, 'মাজমা' শব্দটি 'জামাআ' অর্থাৎ একত্র করা থেকে আসা ক্রিয়াবাচক বিশেষ্য। কোন দুই সমুদ্র? তাবারী দুটি সনদে কাতাদার মত আনেন: পারস্য সাগর ও রোম সাগর। রোম সাগর পশ্চিম দিকে, পারস্য সাগর পূর্ব দিকে। মুজাহিদও একই কথা বলেন। ইবন কাসীর এ মত কাতাদা ও আরও একাধিক জনের কাছ থেকে বর্ণনা করেন।"
+          },
+          {
+            "en": "Other places are named too. Muhammad ibn Ka'b al-Qurazi said Tangier. Al-Qurtubi gathers more: Ibn 'Atiyya's arm of the encircling ocean in Persia beyond Azerbaijan; the sea of Jordan and the sea of al-Qulzum, introduced with it is said; Ifriqiya, in a report from Ubayy ibn Ka'b; the Kurr and the Rass in Armenia, from as-Suddi; and the sea of al-Andalus at the ocean, which an-Naqqash relays from some scholars. Ibn Kathir closes the list with Allah knows best.",
+            "bn": "আরও কিছু জায়গার নাম এসেছে। মুহাম্মাদ ইবন কা'ব আল-কুরাযী বলেছেন তানজা। কুরতুবী আরও কয়েকটি মত জড়ো করেন। ইবন আতিয়্যার মতে আযারবাইজানের ওপারে পারস্যের ভূমিতে মহাসাগর থেকে বেরিয়ে আসা একটি শাখা। 'বলা হয়' কথাটি দিয়ে আনেন জর্দান সাগর ও কুলযুম সাগরের কথা। উবাই ইবন কা'ব (রাঃ) থেকে বর্ণিত এক মতে ইফরীকিয়া। সুদ্দীর মতে আর্মেনিয়ার কুর ও রাস। নাক্কাশ কিছু আলেমের সূত্রে বলেন, মহাসাগরের কাছে আন্দালুসের সাগর। ইবন কাসীর তালিকা শেষ করেন এই বলে: আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "One reading al-Qurtubi rejects outright. A group said the two seas were Musa and al-Khidr themselves. He calls this a weak view, notes that it is reported from Ibn 'Abbas but is not authentic from him, and says the hadiths make plain that what was marked out for Musa (AS) was a sea of water. Ma'arif al-Qur'an sums up the rest: neither the Qur'an nor the hadith pins the place down, so the commentators differ. Allah had shown Musa (AS) where to go; this article leaves the map open.",
+            "bn": "একটি ব্যাখ্যা কুরতুবী সরাসরি নাকচ করেন। একদল বলেছিল, দুই সমুদ্র মানে মূসা ও খিযির নিজেরাই। কুরতুবী একে দুর্বল মত বলেন। তিনি জানান, ইবন আব্বাস (রাঃ)-এর নামে এটি বর্ণিত হলেও তাঁর কাছ থেকে তা প্রমাণিত নয়। তাঁর কথায়, হাদীসগুলো থেকে স্পষ্ট যে মূসা (আঃ)-কে যে চিহ্ন দেওয়া হয়েছিল, তা পানির সমুদ্র। বাকিটা মাআরিফুল কুরআন সংক্ষেপে বলে: কুরআন বা হাদীস জায়গাটি নির্দিষ্ট করে দেয়নি, তাই তাফসীরকারদের মতে ভিন্নতা আছে। কোথায় যেতে হবে, আল্লাহ তা মূসা (আঃ)-কে জানিয়েছিলেন। এ লেখা মানচিত্রে কোনো একটি জায়গা চিহ্নিত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Long Is a Huqub",
+          "bn": "হুকুব কত দীর্ঘ"
+        },
+        "p": [
+          {
+            "en": "Aw amdiya huquba: or I go on for a huqub. At-Tabari glosses it as or I travel a time, an age. The word is singular, he says, and the Arabs gather it as ahqab; they also say I stayed with him a huqba of time. He records that some scholars of Arab speech said that in the dialect of Qays a huqub is a year. Then he notes that the people of interpretation differed over it, and lists what they said.",
+            "bn": "আও আমদিয়া হুকুবা: অথবা আমি চলতে থাকব এক হুকুব। তাবারী এর ব্যাখ্যা দেন: অথবা আমি এক কাল, এক যুগ ধরে চলব। তিনি বলেন, শব্দটি একবচন, আরবরা এর বহুবচন করে 'আহকাব'। তারা এভাবেও বলে: আমি তার কাছে কালের এক 'হুকবা' কাটিয়েছি। তাবারী জানান, আরবদের ভাষা নিয়ে কাজ করা কিছু আলেম বলেছেন, কায়স গোত্রের ভাষায় হুকুব মানে এক বছর। তারপর তিনি বলেন, তাফসীরকারেরা এ নিয়ে মতভেদ করেছেন, এবং তাঁদের মতগুলো একে একে উল্লেখ করেন।"
+          },
+          {
+            "en": "In at-Tabari's list, 'Abdullah ibn 'Amr said a huqub is eighty years; al-Qurtubi and al-Baghawi give the same figure under the name 'Abdullah ibn 'Umar. Mujahid said seventy autumns, that is, seventy years. Ibn 'Abbas, in the report of 'Ali ibn Abi Talha, said dahr, an age; Qatada and Ibn Zayd said zaman, a span of time. At-Tabari puts this last group with his own reading, a time and an age.",
+            "bn": "তাবারীর তালিকায় আবদুল্লাহ ইবন আমর (রাঃ) বলেছেন, হুকুব হলো আশি বছর। কুরতুবী ও বাগাভী একই সংখ্যা আনেন আবদুল্লাহ ইবন উমর (রাঃ)-এর নামে। মুজাহিদ বলেছেন সত্তর 'খারীফ', অর্থাৎ সত্তর বছর। আলী ইবন আবী তালহার বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন 'দাহর', এক যুগ। কাতাদা ও ইবন যায়দ বলেছেন 'যামান', এক কাল। এই শেষ দলটিকে তাবারী রাখেন নিজের ব্যাখ্যার সঙ্গে, অর্থাৎ এক কাল, এক যুগ।"
+          },
+          {
+            "en": "Al-Qurtubi adds an-Nahhas: what the people of language know is that huqub and huqba mean an indefinite stretch of time, without a fixed limit, just as raht and qawm name a group without a number. Ma'arif al-Qur'an reaches the same place, that the word refers to a long period with no set limit. As-Sa'di reads it as distance, a long way, and the Muyassar as a long time. On every reading the word measures Musa's willingness, not a calendar.",
+            "bn": "কুরতুবী নাহহাসের কথা আনেন: ভাষাবিদদের জানা অর্থে হুকুব ও হুকবা মানে কালের এক অনির্দিষ্ট বিস্তার, যার কোনো বাঁধা সীমা নেই। যেমন 'রাহত' ও 'কাওম' শব্দ দল বোঝায়, কিন্তু সংখ্যা বলে না। মাআরিফুল কুরআনও একই সিদ্ধান্তে পৌঁছায়: শব্দটি দীর্ঘ সময় বোঝায়, এর নির্দিষ্ট কোনো সীমা নেই। সা'দী একে পড়েন দূরত্ব হিসেবে, দীর্ঘ পথ। মুয়াসসার পড়ে দীর্ঘ সময় হিসেবে। যেভাবেই পড়া হোক, শব্দটি মাপে মূসা (আঃ)-এর মনের প্রস্তুতি, ক্যালেন্ডারের হিসাব নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Young Man at His Side",
+          "bn": "পাশে থাকা তরুণটি"
+        },
+        "p": [
+          {
+            "en": "The verse does not name the fata, but the hadith does: Yusha' ibn Nun. The Muyassar calls him Musa's servant Yusha' ibn Nun, and as-Sa'di describes him as the attendant who kept with Musa (AS) at home and on journeys, adding that Allah made him a prophet afterwards. Al-Qurtubi gives his lineage back to Yusuf (AS) and a report that he was Musa's sister's son.",
+            "bn": "আয়াতে 'ফাতা' বা তরুণ সঙ্গীর নাম নেই, কিন্তু হাদীসে আছে: ইউশা ইবন নূন। মুয়াসসার তাঁকে বলে মূসার খাদেম ইউশা ইবন নূন। সা'দী তাঁর পরিচয় দেন এমন খাদেম হিসেবে, যিনি ঘরে-সফরে সব সময় মূসা (আঃ)-এর সঙ্গে থাকতেন, এবং যোগ করেন যে পরে আল্লাহ তাঁকে নবুওয়াত দান করেন। কুরতুবী তাঁর বংশধারা ইউসুফ (আঃ) পর্যন্ত টেনে নেন, আর এক বর্ণনা আনেন যে তিনি ছিলেন মূসার বোনের ছেলে।"
+          },
+          {
+            "en": "How firm are these details? Here two sources differ. Ibn al-'Arabi, quoted by al-Qurtubi, says the outward wording of the Qur'an suggests a slave, the hadith says Yusha' ibn Nun, and the tafsir says Musa's nephew; none of it, he says, can be stated with certainty, and holding back is safer. Ma'arif al-Qur'an, drawing on al-Qurtubi, says the name Yusha' ibn Nun at least stands on sound narrations, while the rest of the lineage has no proof.",
+            "bn": "এসব খুঁটিনাটি কতটা দৃঢ়? এখানে দুই সূত্রের মধ্যে পার্থক্য আছে। কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী বলেন, কুরআনের বাহ্যিক শব্দ ইঙ্গিত দেয় তিনি ছিলেন গোলাম, হাদীস বলে ইউশা ইবন নূন, আর তাফসীর বলে মূসার ভাগ্নে। তাঁর মতে এর কোনোটিই নিশ্চিতভাবে বলা যায় না, চুপ থাকাই নিরাপদ। মাআরিফুল কুরআন কুরতুবীর সূত্র ধরেই বলে, অন্তত ইউশা ইবন নূন নামটি সহীহ বর্ণনার উপর দাঁড়িয়ে আছে। বংশধারার বাকিটার কোনো প্রমাণ নেই।"
+          },
+          {
+            "en": "Why fata at all? Al-Qurtubi explains that in Arab speech a fata is a young man; because servants were mostly young, a servant was called fata out of good manners. He links this to the Prophet's ﷺ instruction that one should not say my slave but my fata, which al-Bukhari records (2552); it is a general narration, not attached to this verse. Ma'arif al-Qur'an adds that Musa (AS) told his attendant the direction and goal of the journey, a courtesy proud people do not extend.",
+            "bn": "'ফাতা' শব্দই কেন? কুরতুবী বলেন, আরবদের ভাষায় ফাতা মানে তরুণ। খাদেমরা বেশির ভাগ তরুণ হতো বলে ভদ্রতার খাতিরে খাদেমকে ফাতা বলা হতো। তিনি এর সঙ্গে জুড়ে দেন নবী ﷺ-এর নির্দেশ: কেউ যেন 'আমার গোলাম' না বলে, বরং বলে 'আমার ফাতা'। বুখারী এটি বর্ণনা করেছেন (২৫৫২)। এটি একটি সাধারণ হাদীস, এই আয়াতের সঙ্গে যুক্ত নয়। মাআরিফুল কুরআন যোগ করে, মূসা (আঃ) তাঁর খাদেমকে সফরের দিক ও লক্ষ্য জানিয়ে দিয়েছিলেন। অহংকারী মানুষ খাদেমের প্রতি এই সৌজন্য দেখায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving Home to Learn",
+          "bn": "শেখার জন্য ঘর ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling of conduct from the verse. In it, he says, is the scholar's journey in search of more knowledge, the use of a servant and a companion to help in that, and the seizing of every chance to meet the learned and the virtuous, however distant their lands. That, he says, was the habit of the righteous early generations. He recalls from al-Bukhari that Jabir ibn 'Abdullah travelled a month's journey to 'Abdullah ibn Unays for a single hadith.",
+            "bn": "কুরতুবী আয়াতটি থেকে আচরণের একটি শিক্ষা বের করেন। তাঁর কথায়, এতে আছে আলেমের আরও জ্ঞানের খোঁজে সফর, সে কাজে খাদেম ও সঙ্গীর সাহায্য নেওয়া, আর জ্ঞানী ও গুণী মানুষের সাক্ষাতের সুযোগ কাজে লাগানো, তাঁদের দেশ যত দূরেই হোক। তিনি বলেন, সালাফে সালেহীনের রীতি এমনই ছিল। বুখারীর সূত্রে তিনি স্মরণ করান, জাবির ইবন আবদুল্লাহ (রাঃ) একটিমাত্র হাদীসের জন্য এক মাসের পথ পাড়ি দিয়ে আবদুল্লাহ ইবন উনাইস (রাঃ)-এর কাছে গিয়েছিলেন।"
+          },
+          {
+            "en": "Notice who it is that sets out. He is a prophet to whom Allah spoke, who had just stood to address his people, and on being told that a servant of Allah knows what he does not, he does not debate the claim or send for the man. He packs a basket and walks. The verse records only a promise to keep going, made before the journey shows how long it will be.",
+            "bn": "খেয়াল করুন, কে বেরিয়ে পড়ছেন। তিনি একজন নবী, আল্লাহ যাঁর সঙ্গে কথা বলেছেন, এইমাত্র যিনি নিজের জাতির সামনে ভাষণ দিতে দাঁড়িয়েছিলেন। তাঁকে যখন জানানো হলো, আল্লাহর এক বান্দা এমন কিছু জানেন যা তিনি জানেন না, তিনি দাবিটা নিয়ে তর্ক করলেন না, মানুষটিকে ডেকেও পাঠালেন না। থলে গুছিয়ে হাঁটা শুরু করলেন। আয়াতে আছে শুধু চলতে থাকার এক প্রতিশ্রুতি, যা দেওয়া হয়েছে পথের দৈর্ঘ্য জানার আগেই।"
+          },
+          {
+            "en": "Who that servant was, and what he was, belongs to the verses that follow; this verse does not ask the question, and neither does this article. Knowledge is never finished, and some of what we lack sits far from where we are comfortable. When we learn that it is there, the verse shows one answer: tell those who walk with you where you are going, and go.",
+            "bn": "সেই বান্দা কে ছিলেন, তাঁর পরিচয় ও মর্যাদা কী, সে আলোচনা পরের আয়াতগুলোর। এ আয়াত সে প্রশ্ন তোলে না, এ লেখাও তোলে না। জ্ঞান কখনো শেষ হয় না। আমাদের অজানা অনেক কিছু থাকে স্বস্তির জায়গা থেকে অনেক দূরে। সেটা কোথায় আছে জানতে পারলে আয়াতটি একটি উত্তর দেখায়: যারা আপনার সঙ্গে হাঁটে তাদের জানিয়ে দিন কোথায় যাচ্ছেন, তারপর রওনা হয়ে যান।"
+          }
+        ]
+      }
+    ]
+  },
   "18:63": {
     "sections": [
       {

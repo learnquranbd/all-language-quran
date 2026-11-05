@@ -22871,6 +22871,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you must leave what threatens your faith, do what you can, then ask Allah for His mercy and for right guidance in your affair, not for the outcome you chose.",
     "lessonBn": "যা আপনার ঈমানের জন্য হুমকি, তা ছেড়ে আসতে হলে নিজের সাধ্যমতো চেষ্টা করুন। তারপর আল্লাহর কাছে তাঁর রহমত চান, আর চান আপনার ব্যাপারে সঠিক পথ, নিজের বেছে নেওয়া ফলাফল নয়।"
+  },
+  "18:60": {
+    "reflectionEn": "A man of great knowledge is told that a servant of Allah, somewhere, knows what he does not. He does not argue the point, and he does not wait for that servant to come to him. He turns to the young man who travels with him and says: I will not stop until I reach the meeting of the two seas, even if I must walk for ages. The verse gives the resolve before the road, and the resolve is the lesson. Knowledge is never finished. It sits in places we have not yet been, often with people we would not have chosen. When I learn that someone knows what I lack, do I go to them, or do I find reasons to stay where I am?",
+    "reflectionBn": "বড় জ্ঞানী এক মানুষকে জানানো হলো, আল্লাহর এক বান্দা কোথাও আছেন, যিনি এমন কিছু জানেন যা তিনি জানেন না। তিনি এ নিয়ে তর্ক করেননি। সেই বান্দা নিজে এসে দেখা দেবেন, এমন অপেক্ষাতেও বসে থাকেননি। সঙ্গী তরুণের দিকে ফিরে বললেন: দুই সমুদ্রের মিলনস্থলে না পৌঁছা পর্যন্ত আমি থামব না, যুগের পর যুগ হাঁটতে হলেও। আয়াতটি পথের আগে দেখায় সংকল্প, আর শিক্ষাটা ওই সংকল্পেই। জ্ঞান কখনো শেষ হয় না। তা থাকে এমন জায়গায়, যেখানে আমরা এখনো যাইনি, প্রায়ই এমন মানুষের কাছে, যাকে আমরা নিজে বেছে নিতাম না। কেউ আমার অজানা কিছু জানেন শুনলে আমি কি তাঁর কাছে যাই, নাকি না যাওয়ার অজুহাত খুঁজি?",
+    "pointsEn": [
+      "When did I last go out of my way, in time, distance or pride, to learn something I did not know?",
+      "Is there someone I could learn from, but whom I avoid because of their age, their rank or simply because I know them too well?",
+      "What did I once set out to do for Allah's sake and then quietly give up when the road grew long?",
+      "Do I tell the people who help me where we are going and why, or do I treat them as if they did not need to know?",
+      "When I am asked about something I know well, do I still leave room to say that Allah knows best?"
+    ],
+    "pointsBn": [
+      "অজানা কিছু শেখার জন্য শেষ কবে আমি সময়, দূরত্ব বা অহংকারের বাধা পেরিয়ে নিজে থেকে এগিয়ে গেছি?",
+      "এমন কেউ কি আছেন, যাঁর কাছে শেখা যেত, অথচ বয়স, পদমর্যাদা বা বেশি চেনাজানার কারণে আমি তাঁকে এড়িয়ে চলি?",
+      "আল্লাহর জন্য কোন কাজে একদিন বেরিয়ে পড়েছিলাম, তারপর পথ লম্বা হতেই চুপচাপ ছেড়ে দিয়েছি?",
+      "যারা আমার কাজে সাহায্য করে, তাদের কি জানাই আমরা কোথায় যাচ্ছি আর কেন? নাকি ভাবি, তাদের এসব জানার দরকার নেই?",
+      "ভালো করে জানি এমন কিছু নিয়ে প্রশ্ন এলেও কি 'আল্লাহই ভালো জানেন' বলার জায়গাটুকু রাখি?"
+    ],
+    "lessonEn": "Knowledge is never finished. When you learn that something lies beyond what you know, set out for it with resolve, however long the road.",
+    "lessonBn": "জ্ঞান কখনো ফুরায় না। আপনার জানার বাইরে কিছু আছে টের পেলে দৃঢ় সংকল্প নিয়ে তার খোঁজে বেরিয়ে পড়ুন, পথ যত লম্বাই হোক।"
   }
 };
 
