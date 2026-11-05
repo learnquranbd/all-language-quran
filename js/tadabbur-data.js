@@ -22771,6 +22771,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Open your heart to Allah's signs and blessings while repentance is still accepted; the blindness that matters is the heart's, and it can only be cured here.",
     "lessonBn": "তওবা কবুলের সময় থাকতেই আল্লাহর নিদর্শন আর নিয়ামতের দিকে অন্তর খুলে দিন। আসল অন্ধত্ব অন্তরের, আর তার চিকিৎসা কেবল এখানেই সম্ভব।"
+  },
+  "18:15": {
+    "reflectionEn": "A handful of young men look at the people they grew up among, their own families and townsfolk, and say something simple and dangerous: these, our people, have taken gods besides Him. Then they ask a question that needs no shouting: why do they not bring a clear proof for them? The youths are not mocking. They are asking what anyone should ask of a claim about God: show me where it comes from. Habit is not proof, numbers are not proof, and the custom of a whole town is not proof. And to say about Allah what He never said is a wrong with nothing worse above it. I could turn that question on myself. What do I hold about God, and on what ground?",
+    "reflectionBn": "কয়েকজন যুবক তাকাল সেই মানুষগুলোর দিকে, যাদের মাঝে তারা বড় হয়েছে। নিজেদের পরিবার, নিজেদের শহরের লোক। তারপর তারা সহজ কিন্তু বিপজ্জনক একটা কথা বলল: আমাদের এই জাতি তাঁকে ছেড়ে অনেক ইলাহ বানিয়ে নিয়েছে। এরপর চিৎকার ছাড়াই একটা প্রশ্ন রাখল: এদের পক্ষে তারা কোনো স্পষ্ট প্রমাণ আনে না কেন? যুবকেরা ঠাট্টা করছে না। আল্লাহ সম্পর্কে যে কোনো দাবির বেলায় যা জিজ্ঞেস করা উচিত, তারা তা-ই জিজ্ঞেস করছে: কথাটা এল কোথা থেকে? অভ্যাস প্রমাণ নয়, লোকের সংখ্যা প্রমাণ নয়, গোটা শহরের রেওয়াজও প্রমাণ নয়। আর আল্লাহ যা বলেননি তা তাঁর নামে চালিয়ে দেওয়ার চেয়ে বড় জুলুম আর নেই। প্রশ্নটা আমি নিজের দিকেও ফেরাতে পারি। আল্লাহ সম্পর্কে আমি কী বিশ্বাস করি, আর কিসের ভিত্তিতে?",
+    "pointsEn": [
+      "Which of my beliefs about God could I trace to a verse or a sound report, and which did I simply absorb from the people around me?",
+      "When the people I love are wrong about something that matters, can I say so as plainly and as calmly as these young men did?",
+      "Do I ever speak about Allah, about what He loves, hates or has decreed, with more confidence than my knowledge allows?",
+      "If I had to stand where they stood, what would I need in my heart today to say what they said?",
+      "How do I tell the difference between asking for proof and simply refusing whatever I find inconvenient?"
+    ],
+    "pointsBn": [
+      "আল্লাহ সম্পর্কে আমার কোন বিশ্বাসগুলোর উৎস আমি কোনো আয়াত বা সহীহ বর্ণনায় খুঁজে পাব, আর কোনগুলো শুধু আশপাশের মানুষের কাছ থেকে শুষে নিয়েছি?",
+      "প্রিয় মানুষেরা যখন গুরুত্বপূর্ণ কোনো বিষয়ে ভুল করে, তখন এই যুবকদের মতো সোজাসুজি অথচ শান্তভাবে কি আমি সে কথা বলতে পারি?",
+      "আল্লাহ কী ভালোবাসেন, কী অপছন্দ করেন বা কী নির্ধারণ করেছেন, এসব নিয়ে আমি কি কখনো আমার জ্ঞানের চেয়ে বেশি জোর দিয়ে কথা বলি?",
+      "তারা যেখানে দাঁড়িয়েছিল, সেখানে দাঁড়াতে হলে তাদের কথাটা বলার জন্য আজ আমার অন্তরে কী থাকা দরকার?",
+      "প্রমাণ চাওয়া আর অস্বস্তিকর সবকিছু অস্বীকার করা, এ দুইয়ের তফাত আমি কীভাবে চিনব?"
+    ],
+    "lessonEn": "Ask of every claim about God where its proof is, starting with your own beliefs, and never say about Allah what He has not said.",
+    "lessonBn": "আল্লাহ সম্পর্কে প্রতিটি দাবির প্রমাণ কোথায়, তা জিজ্ঞেস করুন, শুরু করুন নিজের বিশ্বাস দিয়ে। আর আল্লাহ যা বলেননি, তা কখনো তাঁর নামে বলবেন না।"
   }
 };
 

@@ -291,6 +291,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "Hearts Tied Before Speaking",
+          "bn": "মুখ খোলার আগে বাঁধা হৃদয়"
+        },
+        "p": [
+          {
+            "en": "This verse is the second half of a speech that begins in 18:14, which opens with what made it possible: wa-rabatna 'ala qulubihim, and We bound their hearts. At-Tabari explains it as: We inspired them with patience and strengthened their hearts with the light of faith, until their souls turned away from the easy living they had known. He cites Qatada: bound them with faith. As-Sa'di reads it as Allah making them patient and steady and setting their hearts at rest in that alarming situation, which he counts among His kindnesses to them.",
+            "bn": "এ আয়াত একটি বক্তব্যের দ্বিতীয় অংশ। বক্তব্য শুরু হয়েছে ১৮:১৪ আয়াতে, আর সে আয়াতের শুরুতেই আছে সেই জিনিস, যা এ কথা বলা সম্ভব করেছিল: ওয়া রাবাতনা আলা কুলূবিহিম, আর আমি তাদের হৃদয় বেঁধে দিলাম। তাবারীর ব্যাখ্যায়, আল্লাহ তাদের অন্তরে ধৈর্য ঢেলে দিলেন, ঈমানের নূরে তাদের হৃদয় শক্ত করলেন। ফলে যে আরামের জীবনে তারা অভ্যস্ত ছিল, তা থেকে তাদের মন উঠে গেল। তিনি কাতাদার কথা আনেন: ঈমান দিয়ে বেঁধে দিলেন। সা'দীর মতে আল্লাহ তাদের ধৈর্য আর দৃঢ়তা দিলেন, সেই ভয়ংকর মুহূর্তে তাদের অন্তরে প্রশান্তি দিলেন। তাঁর কাছে এটা তাদের প্রতি আল্লাহর অনুগ্রহেরই অংশ।"
+          },
+          {
+            "en": "Al-Qurtubi explains the image. Fear and a failing spirit resemble a coming undone, so firmness of soul and strength of resolve are fittingly likened to tying; hence a man who does not fall apart in fright or in war is called rabit al-ja'sh, tied of heart. He links the phrase to the binding of the heart of the mother of Musa (AS), in 28:10, and to 8:11: that He might bind your hearts and plant your feet firm. The order is worth noticing. The hearts are tied first, and only then does the tongue say what 18:14 and this verse say.",
+            "bn": "ছবিটা কুরতুবী খুলে বলেন। ভয় আর মনোবল ভেঙে পড়া অনেকটা বাঁধন খুলে যাওয়ার মতো। তাই মনের দৃঢ়তা আর সংকল্পের জোরকে বাঁধার সঙ্গে তুলনা করা মানানসই। এ থেকেই বলা হয় রাবিতুল জা'শ, অর্থাৎ এমন মানুষ, যে ভয়ে বা যুদ্ধে ভেঙে পড়ে না। তিনি কথাটা মিলিয়ে দেখান মূসা (আঃ)-এর মায়ের হৃদয় বেঁধে দেওয়ার সঙ্গে, ২৮:১০ আয়াতে, আর ৮:১১ আয়াতের সঙ্গে: যাতে তিনি তোমাদের হৃদয় বেঁধে দেন আর পা দৃঢ় রাখেন। ক্রমটা খেয়াল করার মতো। আগে হৃদয় বাঁধা হলো, তারপর জবান থেকে বেরোল ১৮:১৪ আর এ আয়াতের কথাগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the King, or Apart",
+          "bn": "রাজার সামনে, নাকি নিজেদের মাঝে"
+        },
+        "p": [
+          {
+            "en": "Idh qamu: when they stood. Where they stood is not settled. At-Tabari says it was when they stood before the tyrant king, who reproached them for abandoning the worship of his gods. Their reply, in his paraphrase, was that their Lord is the King of the heavens and the earth, that the king's gods are themselves lorded over, and that they may not leave the worship of the Lord to worship what is lorded. Ibn Kathir has the same scene: their people informed on them, the king summoned them, and they answered with the truth and called him to Allah.",
+            "bn": "ইয কামূ: যখন তারা দাঁড়াল। কোথায় দাঁড়াল, তা নিয়ে একমত নেই। তাবারী বলেন, এ সেই সময়, যখন তারা জালিম রাজার সামনে দাঁড়িয়েছিল। রাজা তাদের তিরস্কার করছিল তার দেবতাদের ইবাদত ছেড়ে দেওয়ার জন্য। তাবারীর ভাষ্যে তাদের জবাব ছিল এমন: আমাদের রব আসমান-জমিনের মালিক। তোমার দেবতারা নিজেরাই প্রতিপালিত। রবের ইবাদত ছেড়ে যে প্রতিপালিত, তার ইবাদত করা আমাদের জন্য জায়েয নয়। ইবন কাসীরের বর্ণনাতেও একই দৃশ্য। তাদের জাতির লোকেরা রাজার কাছে তাদের কথা লাগিয়ে দেয়। রাজা তাদের ডেকে পাঠায়, আর তারা সত্য কথাই বলে এবং রাজাকে আল্লাহর দিকে ডাকে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the phrase three possible meanings. It may describe their standing before the disbelieving king, a place that needed a tied heart because they defied his religion and set aside their fear of him for Allah's sake. It may be, as some said, that they were sons of the city's notables who gathered outside it without having arranged to, and then stood up together and declared it. Or the standing may express their rising with resolve to flee to Allah and break with people, as a man is said to rise to a matter he takes up in earnest. He leaves the three side by side.",
+            "bn": "কুরতুবী কথাটার তিনটি সম্ভাব্য অর্থ দেন। এক, এটা কাফির রাজার সামনে তাদের দাঁড়ানোর বর্ণনা। সে জায়গায় হৃদয় বাঁধা থাকা দরকার ছিল, কারণ তারা রাজার ধর্মের বিরোধিতা করেছিল আর আল্লাহর জন্য রাজার ভয় ঝেড়ে ফেলেছিল। দুই, কেউ কেউ বলেছেন, তারা ছিল ওই শহরের গণ্যমান্য লোকদের সন্তান। কোনো পূর্বপরিকল্পনা ছাড়াই শহরের বাইরে তারা একত্র হয়, তারপর সবাই মিলে দাঁড়িয়ে কথাটা ঘোষণা করে। তিন, দাঁড়ানো এখানে সংকল্পের প্রকাশ: আল্লাহর দিকে পালিয়ে যাওয়ার আর মানুষের সঙ্গ ছাড়ার দৃঢ় ইচ্ছা। যেমন বলা হয়, অমুক লোক কাজটার জন্য উঠে দাঁড়াল, অর্থাৎ পুরো উদ্যমে লেগে গেল। তিনটি অর্থই তিনি পাশাপাশি রেখে দেন।"
+          },
+          {
+            "en": "To whom 18:15 was spoken is a further question. Al-Qurtubi and the Muyassar both introduce it with the same words: some of them said to others. At-Tabari says only that Allah is reporting the youths' words. Ma'arif al-Qur'an follows Ibn Kathir's scene for 18:14 and places it in the court of a cruel, idol-worshipping king, a matter of life and death, where love and awe of Allah prevailed over their hearts. Whether the words were said to the king or among themselves, the claim they make and the question they ask are the same.",
+            "bn": "১৮:১৫ আয়াতের কথাগুলো কাকে বলা হয়েছিল, সেটা আলাদা প্রশ্ন। কুরতুবী আর মুয়াসসার দুজনেই আয়াতটির শুরুতে একই কথা জুড়ে দেন: তাদের কেউ কেউ অন্যদের বলল। তাবারী শুধু এটুকু বলেন যে আল্লাহ যুবকদের কথা জানাচ্ছেন। মাআরিফুল কুরআন ১৮:১৪ আয়াতের বেলায় ইবন কাসীরের দৃশ্যটাই নেয়। তার বর্ণনায় এক নিষ্ঠুর, মূর্তিপূজারি রাজার দরবার, যেখানে জীবন-মরণের প্রশ্ন। সেখানে আল্লাহর ভালোবাসা আর ভয় তাদের হৃদয়ে প্রবল হয়ে ওঠে। কথাগুলো রাজাকে বলা হোক বা নিজেদের মধ্যে, দাবিটা আর প্রশ্নটা একই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Our People, Our Own Town",
+          "bn": "আমাদেরই জাতি, আমাদেরই শহর"
+        },
+        "p": [
+          {
+            "en": "Ha'ula'i qawmuna: these, our people. Al-Qurtubi glosses qawmuna as the people of our age and our land, and al-Baghawi as the people of their town. The youths do not disown the word. They name these people as their own, and then say what those people have done: ittakhadhu min dunihi aliha, they have taken gods besides Him. Al-Baghawi says the gods are the idols they worship, and al-Qurtubi adds the charge: they worshipped the idols out of imitation, taqlidan, without any proof.",
+            "bn": "হা-উলা-ই কাওমুনা: এরা, আমাদের জাতি। কুরতুবী কাওমুনার ব্যাখ্যা দেন আমাদের যুগের আর আমাদের দেশের মানুষ, আর বাগাভী বলেন তাদের শহরের লোক। যুবকেরা শব্দটা থেকে নিজেদের আলাদা করে নেয় না। এদের তারা নিজেদের লোক বলেই ডাকে, তারপর বলে এরা কী করেছে: ইত্তাখাযূ মিন দূনিহী আলিহা, তাঁকে ছেড়ে এরা অনেক ইলাহ বানিয়ে নিয়েছে। বাগাভী বলেন, এই ইলাহ মানে সেসব মূর্তি, যাদের তারা পূজা করে। কুরতুবী অভিযোগটাও যোগ করেন: তারা মূর্তিপূজা করত তাকলীদ করে, অর্থাৎ দেখাদেখি, কোনো প্রমাণ ছাড়া।"
+          },
+          {
+            "en": "The wording sets the two verses against each other. In 18:14 the youths said lan nad'uwa min dunihi ilahan, never will we call on any god besides Him, with ilah in the singular; here their people have taken aliha, gods in the plural, and the same min dunihi, besides Him, stands in both. As-Sa'di describes the turn. Having spoken of the faith and guidance Allah had favoured them with, they looked at what their people were upon and detested it, and made clear that their people were not on certainty in their affair but in the depths of ignorance and error.",
+            "bn": "শব্দের গাঁথুনিতে দুই আয়াত মুখোমুখি দাঁড়িয়ে যায়। ১৮:১৪ আয়াতে যুবকেরা বলেছিল, লান নাদউওয়া মিন দূনিহী ইলাহা: তাঁকে ছেড়ে আমরা কখনো কোনো ইলাহকে ডাকব না। সেখানে ইলাহ একবচন। এখানে তাদের জাতি বানিয়েছে আলিহা, বহুবচন। আর মিন দূনিহী, তাঁকে ছেড়ে, কথাটা দুই জায়গাতেই আছে। সা'দী এই মোড়টা বর্ণনা করেন। আল্লাহ তাদের যে ঈমান আর হেদায়েত দিয়ে অনুগ্রহ করেছিলেন, সে কথা বলার পর তারা তাকাল নিজেদের জাতির অবস্থার দিকে। তা দেখে তাদের মনে ঘৃণা জাগল। তারা পরিষ্কার করে দিল, তাদের জাতি নিজেদের বিষয়ে কোনো নিশ্চিত জ্ঞানের ওপর নেই, বরং চরম অজ্ঞতা আর গোমরাহিতে ডুবে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof for What, Exactly",
+          "bn": "প্রমাণ আসলে কিসের"
+        },
+        "p": [
+          {
+            "en": "Lawla ya'tuna 'alayhim bi-sultanin bayyin: why do they not bring for them a clear sultan? At-Tabari notices a difficulty in 'alayhim, for them. The pronoun refers to the gods, yet gods are not something a proof is brought for or asked about; what is asked of the worshippers is a proof for their worship. So, he says, something is left unsaid and understood from what is said, and the meaning is: why do they not bring a clear proof for their worshipping them and their taking them as gods besides Allah?",
+            "bn": "লাওলা ইয়া'তূনা আলাইহিম বিসুলতানিম বাইয়িন: এদের পক্ষে তারা স্পষ্ট কোনো সুলতান আনে না কেন? আলাইহিম, অর্থাৎ এদের পক্ষে, শব্দটায় তাবারী একটা জটিলতা লক্ষ করেন। সর্বনামটা ফিরেছে দেবতাদের দিকে। অথচ দেবতাদের পক্ষে প্রমাণ আনা হয় না, তাদের কাছে প্রমাণ চাওয়াও হয় না। প্রমাণ চাওয়া হয় পূজারিদের কাছে, তাদের পূজার পক্ষে। তাই তাবারী বলেন, এখানে কিছু কথা উহ্য আছে, যা বলা কথা থেকেই বোঝা যায়। পুরো অর্থ দাঁড়ায়: আল্লাহকে ছেড়ে এদের পূজা করা আর এদের ইলাহ বানানোর পক্ষে তারা স্পষ্ট প্রমাণ আনে না কেন?"
+          },
+          {
+            "en": "Al-Qurtubi records both directions. His main gloss is a proof for their worship of the idol. He then gives, introduced as qila, it has been said, the reading that 'alayhim returns to the gods themselves: why have they not set up clear evidence about the idols, that they really are gods? Al-Baghawi and the Muyassar both take it as a proof for their worship. They differ over what the proof would concern, the worship or the worshipped, but both leave the burden on the claimants.",
+            "bn": "কুরতুবী দুই দিকই উল্লেখ করেন। তাঁর মূল ব্যাখ্যা হলো, মূর্তিপূজার পক্ষে প্রমাণ। তারপর কীলা, অর্থাৎ বলা হয়েছে, এই শব্দে তিনি আরেকটি পাঠ আনেন: আলাইহিম ফিরেছে খোদ দেবতাদের দিকে। তখন অর্থ হয়, মূর্তিগুলো যে সত্যিই ইলাহ, তার পক্ষে তারা কোনো স্পষ্ট দলিল দাঁড় করায় না কেন? বাগাভী আর মুয়াসসার দুজনেই প্রথম অর্থটা নেন, পূজার পক্ষে প্রমাণ। দুই পাঠের তফাত প্রমাণের বিষয় নিয়ে: পূজা, নাকি যার পূজা হয়। কিন্তু দুই পাঠেই দায়টা দাবিদারদের কাঁধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Demand Left Unanswered",
+          "bn": "যে দাবির জবাব আসেনি"
+        },
+        "p": [
+          {
+            "en": "Lawla here means halla, why not: al-Qurtubi, al-Baghawi and Ibn Kathir all gloss it so. Al-Qurtubi adds that it is an urging meant as ta'jiz, a showing of inability, and draws the consequence: since they could not produce such a proof, their claim did not need to be attended to. As-Sa'di agrees: they have no way to a proof for the falsehood they are upon, and what they hold is only a fabrication against Allah. Ibn Kathir paraphrases the question: why have they not established a clear, sound evidence that the way they took is right?",
+            "bn": "লাওলা এখানে হাল্লা অর্থে, মানে কেন নয়। কুরতুবী, বাগাভী আর ইবন কাসীর তিনজনেই এভাবে ব্যাখ্যা করেন। কুরতুবী যোগ করেন, এটা তাগিদ, তবে উদ্দেশ্য তা'জীয, অক্ষমতা প্রকাশ করে দেওয়া। এর ফলও তিনি টেনে আনেন: তারা যখন এমন প্রমাণ হাজির করতে পারল না, তখন তাদের দাবিতে কান দেওয়ার দরকার রইল না। সা'দীও একমত। যে বাতিলের ওপর তারা আছে, তার পক্ষে প্রমাণে পৌঁছানোর কোনো পথ তাদের নেই। তাদের বিশ্বাস আল্লাহর নামে বানানো কথা ছাড়া কিছু নয়। ইবন কাসীর প্রশ্নটাকে এভাবে বলেন: তারা যে পথ ধরেছে তা যে ঠিক, তার পক্ষে স্পষ্ট ও সঠিক দলিল তারা দাঁড় করাল না কেন?"
+          },
+          {
+            "en": "What is a sultan? At-Tabari glosses it as a clear proof, hujja bayyina, and says the people of interpretation said the like; then he cites Qatada, who said: a clear excuse. The Qur'an uses the word this way more than once against the worship of other gods. In 12:40 Yusuf (AS) tells his fellow prisoners that what they worship besides Him are only names they and their fathers have named, for which Allah has sent down no sultan; 7:71 and 53:23 carry the same phrase. And 37:156 asks: or do you have a clear sultan?",
+            "bn": "সুলতান কী? তাবারী এর ব্যাখ্যা দেন হুজ্জাতুন বাইয়িনা, অর্থাৎ স্পষ্ট প্রমাণ। তিনি বলেন, তাফসীরকারেরাও এমনই বলেছেন। তারপর কাতাদার কথা আনেন: স্পষ্ট ওজর। অন্য ইলাহের পূজার বিরুদ্ধে কুরআন শব্দটা এই অর্থে একাধিকবার ব্যবহার করেছে। ১২:৪০ আয়াতে ইউসুফ (আঃ) কারাগারের দুই সঙ্গীকে বলেন, আল্লাহকে ছেড়ে তোমরা যাদের পূজা কর, তারা কিছু নাম মাত্র, যা তোমরা আর তোমাদের বাপদাদারা রেখেছ। এগুলোর পক্ষে আল্লাহ কোনো সুলতান নাজিল করেননি। ৭:৭১ আর ৫৩:২৩ আয়াতেও একই কথা আছে। আর ৩৭:১৫৬ আয়াত প্রশ্ন করে: নাকি তোমাদের কাছে কোনো স্পষ্ট সুলতান আছে?"
+          },
+          {
+            "en": "Another point comes from the speech itself. The youths do not only ask for proof; in 18:14 they gave their own first. As-Sa'di says they reasoned from His lordship to His sole right to worship: He who created them, provided for them and raised them is the Creator of the heavens and the earth, alone in creating them, not idols that create nothing, provide nothing and own neither harm nor benefit. The demand for a clear proof comes from people who had already stated theirs.",
+            "bn": "বক্তব্য থেকেই আরেকটা কথা বেরিয়ে আসে। যুবকেরা শুধু প্রমাণ চায়নি, ১৮:১৪ আয়াতে আগে নিজেদের প্রমাণ পেশ করেছে। সা'দী বলেন, তারা তাঁর রুবূবিয়্যাত থেকে দলিল টেনেছে তাঁর একক ইবাদতের হকের পক্ষে। যিনি আমাদের সৃষ্টি করেছেন, রিজিক দিয়েছেন, লালনপালন করেছেন, তিনিই আসমান-জমিনের স্রষ্টা। এসব বিশাল সৃষ্টি তিনি একাই করেছেন। মূর্তিরা কিছু সৃষ্টি করে না, রিজিক দেয় না, কোনো ক্ষতি বা উপকারের মালিকও নয়। তাই স্পষ্ট প্রমাণের দাবি এসেছে এমন মানুষদের মুখ থেকে, যারা নিজেদের প্রমাণ আগেই বলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Partner Invented for Him",
+          "bn": "তাঁর নামে বানানো শরিক"
+        },
+        "p": [
+          {
+            "en": "Fa-man azlamu mimmani ftara 'ala llahi kadhiba: and who is more unjust than whoever invents a lie about Allah? At-Tabari explains it as: who is more given to transgression and to associating others with Allah than whoever fabricated and conjectured a lie about Allah, and set up a partner with Allah in His authority, fi sultanihi, worshipping it besides Him and taking it as a god. The word sultan, which the youths asked their people for, returns in his gloss as the authority their people had falsely shared out.",
+            "bn": "ফামান আযলামু মিম্মানিফতারা আলাল্লাহি কাযিবা: আল্লাহর নামে যে মিথ্যা রচনা করে, তার চেয়ে বড় জালিম আর কে? তাবারীর ব্যাখ্যায়: তার চেয়ে বেশি সীমালঙ্ঘনকারী আর আল্লাহর সঙ্গে বেশি শরিককারী কে, যে আল্লাহর নামে মিথ্যা বানিয়েছে, অনুমানে কথা গড়েছে, আর আল্লাহর সঙ্গে তাঁর কর্তৃত্বে, ফী সুলতানিহী, শরিক দাঁড় করিয়েছে? সে তাঁকে ছেড়ে ওই শরিকের পূজা করে, তাকে ইলাহ বানায়। যুবকেরা তাদের জাতির কাছে যে সুলতান চেয়েছিল, তাবারীর ব্যাখ্যায় সেই শব্দটাই ফিরে আসে। এবার তা আল্লাহর সেই কর্তৃত্ব, যার ভাগ ওই লোকেরা মিথ্যা করে অন্যকে দিয়েছিল।"
+          },
+          {
+            "en": "The others name the lie. The Muyassar: there is none more unjust than whoever fabricates the lie against Allah by ascribing a partner to Him in His worship. Al-Baghawi: and claimed that He has a partner and a son. As-Sa'di calls this the greatest of wrongs, and Ibn Kathir gives the youths' meaning as: no, they are wrongdoers and liars in saying that. The question man azlamu, who is more unjust, recurs across the Qur'an in several forms. The article on 10:17 traces those forms, so they are not surveyed again here.",
+            "bn": "অন্যরা মিথ্যাটার নাম বলে দেন। মুয়াসসার বলে, ইবাদতে আল্লাহর শরিক আছে বলে যে তাঁর নামে মিথ্যা বানায়, তার চেয়ে বড় জালিম কেউ নেই। বাগাভী বলেন, আর যে দাবি করে তাঁর শরিক আছে, সন্তান আছে। সা'দী একে সবচেয়ে বড় জুলুম বলেন। ইবন কাসীরের ভাষ্যে যুবকদের কথার মর্ম: বরং তারাই জালিম, এ কথা বলে তারা মিথ্যা বলছে। মান আযলামু, অর্থাৎ কে বেশি জালিম, প্রশ্নটা কুরআনে নানা রূপে বারবার এসেছে। সেই রূপগুলোর খোঁজ নেওয়া হয়েছে ১০:১৭ আয়াতের প্রবন্ধে, তাই এখানে আবার সে তালিকা দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Respite That Became Escape",
+          "bn": "অবকাশ হলো পালানোর পথ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir continues with a report he introduces as fa-yuqal, it is said. When they called their king to faith in Allah, he refused them, threatened them, ordered that the adornment of their people be stripped from them, and gave them time to reconsider, hoping they would return to the religion they had been on. He reads that delay as a kindness from Allah to them, because in that respite they found their way to flee from him, escaping with their religion from the trial. It is a report, marked as one, and the verse itself does not narrate it.",
+            "bn": "ইবন কাসীর এরপর একটি বর্ণনা আনেন, শুরু করেন ফায়ুকাল, অর্থাৎ বলা হয়, এই শব্দে। তারা যখন রাজাকে আল্লাহর প্রতি ঈমানের দাওয়াত দিল, রাজা তা ফিরিয়ে দিল। তাদের হুমকি দিল, ভয় দেখাল। তাদের গা থেকে তাদের জাতির সাজসজ্জার পোশাক খুলে নেওয়ার হুকুম দিল। তারপর ভেবে দেখার জন্য সময় দিল, এই আশায় যে তারা আগের ধর্মে ফিরে আসবে। ইবন কাসীর এই অবকাশকে দেখেন তাদের প্রতি আল্লাহর মেহেরবানি হিসেবে। কারণ ওই সময়ের মধ্যেই তারা রাজার কাছ থেকে পালানোর পথ পেয়ে যায়, ফিতনা থেকে নিজেদের দ্বীন নিয়ে সরে পড়ে। এটা একটি বর্ণনা, সেভাবেই চিহ্নিত, আয়াত নিজে এ ঘটনা বলে না।"
+          },
+          {
+            "en": "From it he draws a ruling: this is what is prescribed when trials befall people, that a servant flees from them fearing for his religion. He supports it with a hadith, without naming its collector. It is in al-Bukhari's Sahih, number 19, and in the quranx English reads: \"Narrated Abu Said Al-Khudri: Allah's Messenger (ﷺ) said, 'A time will soon come when the best property of a Muslim will be sheep which he will take on the top of mountains and the places of rainfall (valleys) so as to flee with his religion from afflictions.'\" It is a general narration, not one attached to this verse.",
+            "bn": "এ থেকে তিনি একটি বিধান টানেন: মানুষের মধ্যে ফিতনা দেখা দিলে শরিয়তের পথ এটাই যে বান্দা নিজের দ্বীনের ভয়ে তাদের কাছ থেকে পালিয়ে যাবে। এর সমর্থনে তিনি একটি হাদীস আনেন, তবে সংকলকের নাম বলেন না। হাদীসটি সহীহ বুখারীতে আছে, নম্বর ১৯। কুরানএক্সের ইংরেজির অনুবাদ: আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন, 'শীঘ্রই এমন সময় আসবে, যখন মুসলিমের সবচেয়ে ভালো সম্পদ হবে কিছু ভেড়া, যা নিয়ে সে পাহাড়ের চূড়ায় আর বৃষ্টির জায়গায় (উপত্যকায়) চলে যাবে, ফিতনা থেকে নিজের দ্বীন নিয়ে পালাতে।' এটা একটা সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Ibn Kathir then fences the ruling. In such a state withdrawal from people is prescribed, and it is not prescribed in any other, because of what it loses: the congregations and the Friday prayer. None of the tafsirs read for this verse attaches a sound hadith to the verse itself. The youths' actual withdrawal to the cave is the subject of 18:16, the verse that follows.",
+            "bn": "তারপর ইবন কাসীর বিধানটার সীমা টেনে দেন। এমন অবস্থায় মানুষের সঙ্গ ছেড়ে নির্জনে চলে যাওয়া শরিয়তসম্মত। অন্য কোনো অবস্থায় নয়, কারণ তাতে হাতছাড়া হয় জামাআত আর জুমআ। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। আর যুবকদের গুহায় সরে যাওয়ার কথা আছে পরের আয়াতে, ১৮:১৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past People, Not a Label",
+          "bn": "অতীতের জাতি, কারও তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The people the youths describe are a past people, in a story the Qur'an tells about them, and the verse reports what the youths said about their own town in their own time. It licenses nothing against any living person or community. No one today may be called an idolater, or treated as one, on the strength of this verse. What it hands on is not a label for others but a question, and the question was asked by a few young people of their own families and neighbours.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। যুবকেরা যে জাতির কথা বলছে, তারা অতীতের এক জাতি। কুরআন তাদের নিয়ে একটি কাহিনি বলছে, আর আয়াতটি জানাচ্ছে যুবকেরা নিজেদের সময়ে নিজেদের শহর সম্পর্কে কী বলেছিল। বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এ আয়াতের জোরে আজ কাউকে মূর্তিপূজারি বলা যাবে না, তার সঙ্গে সেভাবে আচরণও করা যাবে না। আয়াতটি যা পৌঁছে দেয়, তা অন্যের গায়ে লাগানোর তকমা নয়, একটা প্রশ্ন। আর প্রশ্নটা করেছিল কয়েকজন তরুণ, নিজেদের পরিবার আর প্রতিবেশীদের কাছে।"
+          },
+          {
+            "en": "The question can be turned inward without accusing anyone. Al-Qurtubi names what the youths' people had in place of proof: imitation. At-Tabari's gloss on the forger joins fabrication to conjecture, a lie made up and a guess passed off as knowledge. Both can live in a believer's speech about Allah: what He loves, what He has decreed, why something happened. Say about Allah only what has a clear sultan behind it, and where there is none, say less.",
+            "bn": "কাউকে অভিযুক্ত না করেও প্রশ্নটা নিজের দিকে ফেরানো যায়। প্রমাণের জায়গায় যুবকদের জাতির কাছে কী ছিল, কুরতুবী তার নাম বলে দেন: দেখাদেখি অনুকরণ। মিথ্যা রচনাকারীর ব্যাখ্যায় তাবারী বানানো কথার সঙ্গে অনুমানকে জুড়ে দেন। অর্থাৎ মনগড়া মিথ্যা, আর জ্ঞানের নামে চালানো আন্দাজ। আল্লাহ সম্পর্কে একজন মুমিনের কথাতেও এ দুটো ঢুকে পড়তে পারে: তিনি কী ভালোবাসেন, কী নির্ধারণ করেছেন, কোনো ঘটনা কেন ঘটল। আল্লাহ সম্পর্কে শুধু সেটুকুই বলুন, যার পেছনে স্পষ্ট সুলতান আছে। যেখানে তা নেই, সেখানে কম বলুন।"
+          }
+        ]
+      }
+    ]
+  },
   "18:18": {
     "sections": [
       {
