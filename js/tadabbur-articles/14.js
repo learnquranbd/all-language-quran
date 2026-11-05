@@ -327,6 +327,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "News Pressed on the Hearer",
+          "bn": "শ্রোতার সামনে চেনা খবর"
+        },
+        "p": [
+          {
+            "en": "A-lam ya'tikum naba'u alladhina min qablikum: has the news of those before you not reached you? The verse follows 14:8, where Musa (AS) tells his people that if they and everyone on earth were ungrateful, Allah is free of need and praiseworthy. The question does not ask for information. It presses on the hearers something they already hold. Al-Qurtubi glosses naba' simply as khabar, news, with the plural anba'. The news named first is that of three peoples: the people of Nuh, 'Ad and Thamud.",
+            "bn": "আলাম ইয়া'তিকুম নাবাউল্লাযীনা মিন কাবলিকুম: তোমাদের আগে যারা ছিল, তাদের খবর কি তোমাদের কাছে পৌঁছায়নি? আয়াতটি এসেছে ১৪:৮-এর পরে। সেখানে মূসা (আঃ) তাঁর জাতিকে বলেন, তোমরা আর পৃথিবীর সবাই অকৃতজ্ঞ হলেও আল্লাহ অমুখাপেক্ষী, প্রশংসিত। এ প্রশ্ন কিছু জানতে চায় না। শ্রোতারা যা আগে থেকেই জানে, সেটাই তাদের সামনে চেপে ধরে। কুরতুবী নাবা শব্দের অর্থ দেন সোজাসুজি খাবার, মানে খবর, বহুবচনে আনবা। প্রথমে যে খবরের নাম আসে, তা তিনটি জাতির: নূহের জাতি, ‘আদ আর সামূদ।"
+          },
+          {
+            "en": "At-Tabari reads the sentence in order. Those before you are the nations that passed away before you; the people of Nuh are named to explain who 'those' are, and 'Ad is joined to them. Then wa-lladhina min ba'dihim, and those after them, which at-Tabari takes as those after the people of Nuh, 'Ad and Thamud. Al-Qurtubi calls the story of the three well known, told by Allah in His Book. As-Sa'di likewise says Allah mentions their stories in His Book and sets them out at length.",
+            "bn": "তাবারী বাক্যটি পড়েন ধাপে ধাপে। তোমাদের আগে যারা ছিল, মানে তোমাদের আগে যেসব জাতি গত হয়েছে। 'যারা' বলতে কারা, তা বোঝাতে নূহের জাতির নাম এসেছে, আর ‘আদকে তাদের সঙ্গে জুড়ে দেওয়া হয়েছে। তারপর ওয়াল্লাযীনা মিন বা'দিহিম, আর তাদের পরে যারা এসেছে। তাবারীর মতে এর অর্থ নূহের জাতি, ‘আদ ও সামূদের পরবর্তীরা। কুরতুবী বলেন, এই তিনটি জাতির কাহিনি সুপরিচিত, আল্লাহ তাঁর কিতাবে তা শুনিয়েছেন। সা'দীও বলেন, আল্লাহ তাঁর কিতাবে তাদের কাহিনি উল্লেখ করেছেন এবং বিস্তারিত বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Musa's Words, or a Fresh Address",
+          "bn": "মূসার কথা, নাকি নতুন সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Who speaks the verse is itself disputed. At-Tabari opens his comment by saying that Allah is relating what Musa (AS) said to his people: O my people, has the news of those before you not reached you? Ibn Kathir quotes Ibn Jarir, which is at-Tabari's own name, as saying that the verse completes Musa's speech, part of his reminding them of the days of Allah, meaning His retribution on the nations that denied the messengers. Then Ibn Kathir adds that what Ibn Jarir said is open to question.",
+            "bn": "আয়াতের কথাগুলো কার মুখের, তা নিয়েই মতভেদ আছে। তাবারী শুরুতেই বলেন, আল্লাহ এখানে মূসা (আঃ)-এর কথা শোনাচ্ছেন, যা তিনি নিজের জাতিকে বলেছিলেন: হে আমার জাতি, তোমাদের আগের লোকদের খবর কি তোমাদের কাছে আসেনি? ইবন কাসীর ইবন জারীরের উক্তি উদ্ধৃত করেন। ইবন জারীর তাবারীরই নাম। তাঁর কথা, আয়াতটি মূসা (আঃ)-এর বক্তব্যের শেষাংশ। মূসা (আঃ) তাদের আল্লাহর দিনগুলোর কথা মনে করিয়ে দিচ্ছিলেন, মানে রাসূলদের অস্বীকারকারী জাতিগুলোর উপর আল্লাহর প্রতিশোধ। তারপর ইবন কাসীর যোগ করেন, ইবন জারীরের এ কথা প্রশ্নসাপেক্ষ।"
+          },
+          {
+            "en": "His own view is that the verse is a fresh statement from Allah to this community. He gives the reason with caution: it has been said that the story of 'Ad and Thamud is not in the Torah, and had Musa told it to his people, both stories would surely be there. He closes with 'and Allah knows best'. Al-Qurtubi lists three views and settles none: the words are Musa's; they are Allah's, as if the Prophet ﷺ is told to recall what his Lord said; or they open a new address from Allah. The Muyassar addresses the verse to the community of Muhammad ﷺ.",
+            "bn": "ইবন কাসীরের নিজের মত, আয়াতটি এই উম্মতের প্রতি আল্লাহর নতুন বক্তব্য। কারণটা তিনি সাবধানে বলেন: বলা হয়ে থাকে, ‘আদ ও সামূদের কাহিনি তাওরাতে নেই। মূসা (আঃ) যদি নিজের জাতিকে তা শোনাতেন, তবে দুটি কাহিনিই নিশ্চয় তাওরাতে থাকত। শেষে তিনি বলেন, আল্লাহই ভালো জানেন। কুরতুবী তিনটি মত উল্লেখ করেন, কোনোটির পক্ষে রায় দেন না। এক, কথাগুলো মূসা (আঃ)-এর। দুই, কথাগুলো আল্লাহর, যেন নবী ﷺ-কে বলা হচ্ছে, তোমার রব যা বলেছেন তা স্মরণ করো। তিন, এখান থেকে আল্লাহর নতুন সম্বোধন শুরু। মুয়াসসার আয়াতটিকে মুহাম্মাদ ﷺ-এর উম্মতের প্রতি সম্বোধন হিসেবে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known to Allah Alone",
+          "bn": "যাদের চেনেন শুধু আল্লাহ"
+        },
+        "p": [
+          {
+            "en": "La ya'lamuhum illa-llah: none knows them but Allah. At-Tabari explains it as none counts their number or knows their full extent but Allah. Al-Qurtubi gives it two sides: none counts their number, and none knows their lineage, except Allah. He adds that genealogists, even when they trace descent back to Adam (AS), do not claim to have counted every nation; they trace some lines and keep silent about others. As-Sa'di names two causes: the sheer number of these peoples, and the fact that their reports have been effaced.",
+            "bn": "লা ইয়া'লামুহুম ইল্লাল্লাহ: আল্লাহ ছাড়া কেউ তাদের জানে না। তাবারীর ব্যাখ্যা, তাদের সংখ্যা গুনে শেষ করা আর তারা কত ছিল তা জানা আল্লাহ ছাড়া কারও পক্ষে সম্ভব নয়। কুরতুবী কথাটির দুটি দিক দেখান। তাদের সংখ্যা আল্লাহ ছাড়া কেউ গুনতে পারে না, আর তাদের বংশও তিনি ছাড়া কেউ জানে না। তিনি যোগ করেন, বংশবিশারদেরা আদম (আঃ) পর্যন্ত বংশ টানলেও সব জাতিকে গুনে ফেলার দাবি করেন না। কিছু ধারা তাঁরা মেলান, বাকিগুলো নিয়ে চুপ থাকেন। সা'দী দুটি কারণ বলেন: এই জাতিগুলোর বিপুল সংখ্যা, আর তাদের খবর মুছে যাওয়া।"
+          },
+          {
+            "en": "Here the commentators bring a saying of 'Abdullah ibn Mas'ud. At-Tabari carries it by four chains through Abu Ishaq from 'Amr ibn Maymun, three of them naming Ibn Mas'ud. In one, Ibn Mas'ud is described reciting the passage up to la ya'lamuhum illa-llah and then saying: the genealogists have lied. Ibn Kathir gives it through Ibn Ishaq from 'Amr ibn Maymun from 'Abdullah; al-Baghawi introduces it with 'it is narrated'; al-Qurtubi presents it as something Ibn Mas'ud used to say whenever he recited the verse.",
+            "bn": "এখানে তাফসীরকারেরা আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর একটি উক্তি আনেন। তাবারী তা এনেছেন চারটি সনদে, আবু ইসহাক থেকে, তিনি আমর ইবন মাইমূন থেকে। এর তিনটিতে ইবন মাসউদ (রাঃ)-এর নাম আছে। একটি বর্ণনায় আছে, ইবন মাসউদ (রাঃ) লা ইয়া'লামুহুম ইল্লাল্লাহ পর্যন্ত তিলাওয়াত করতেন, তারপর বলতেন: বংশবিশারদেরা মিথ্যা বলেছে। ইবন কাসীর তা এনেছেন ইবন ইসহাকের সূত্রে, আমর ইবন মাইমূন থেকে, তিনি আবদুল্লাহ (রাঃ) থেকে। বাগাভী শুরু করেন 'বর্ণিত আছে' বলে। কুরতুবী বলেন, আয়াতটি পড়লেই ইবন মাসউদ (রাঃ) এ কথা বলতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Family Lines Stop",
+          "bn": "যেখানে থেমে যায় বংশতালিকা"
+        },
+        "p": [
+          {
+            "en": "Two further remarks are attached to the verse, and the books do not give them in one wording. Ibn Kathir has 'Urwa ibn az-Zubayr saying: we have found no one who knows what lies beyond Ma'add ibn 'Adnan. Al-Qurtubi, opening with 'it is narrated', has 'Urwa say that no one knows what lies between 'Adnan and Isma'il (AS). For Ibn 'Abbas, al-Qurtubi gives thirty unknown forefathers between 'Adnan and Isma'il, while al-Baghawi gives thirty generations between Ibrahim (AS) and 'Adnan whom only Allah knows. Neither cites a chain for these.",
+            "bn": "আয়াতটির সঙ্গে আরও দুটি মন্তব্য যুক্ত আছে, তবে বিভিন্ন গ্রন্থে সেগুলো একই ভাষায় আসেনি। ইবন কাসীরের বর্ণনায় উরওয়া ইবনুয যুবাইর বলেন: মাআদ ইবন আদনানের পরে কী আছে, তা জানে এমন কাউকে আমরা পাইনি। কুরতুবী 'বর্ণিত আছে' বলে উরওয়ার কথা আনেন অন্যভাবে: আদনান আর ইসমাঈল (আঃ)-এর মাঝখানে কী আছে, তা কেউ জানে না। ইবন আব্বাস (রাঃ)-এর বেলায় কুরতুবী বলেন, আদনান ও ইসমাঈলের মাঝে ত্রিশজন পূর্বপুরুষ আছেন, যাদের কেউ চেনে না। বাগাভী বলেন, ইবরাহীম (আঃ) ও আদনানের মাঝে ত্রিশ প্রজন্ম, যাদের আল্লাহ ছাড়া কেউ জানে না। এসব বর্ণনার কোনো সনদ দুজনের কেউই দেননি।"
+          },
+          {
+            "en": "Al-Baghawi adds that Malik ibn Anas disliked a person tracing his own line father by father back to Adam, and the same for the Prophet ﷺ, because no one but Allah knows those forefathers. Al-Qurtubi also records, with 'it is narrated' and no chain, a version that puts 'the genealogists have lied' in the Prophet's own mouth. It is not confirmed here in any collection, and no fetched commentary attaches a confirmed sound hadith to this verse. So these reports ground no genealogy. What they share is a limit: human records end where Allah's knowledge does not.",
+            "bn": "বাগাভী যোগ করেন, মালিক ইবন আনাস পছন্দ করতেন না যে কেউ বাবার পর বাবা ধরে নিজের বংশ আদম (আঃ) পর্যন্ত টেনে নেবে। নবী ﷺ-এর বেলায়ও তিনি একই কথা বলতেন, কারণ সেই পূর্বপুরুষদের আল্লাহ ছাড়া কেউ জানে না। কুরতুবী 'বর্ণিত আছে' বলে, কোনো সনদ ছাড়াই, এমন এক বর্ণনাও আনেন, যেখানে 'বংশবিশারদেরা মিথ্যা বলেছে' কথাটি নবী ﷺ-এর নিজের মুখে। কোনো হাদীসগ্রন্থে এখানে তা যাচাই করা যায়নি। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে যাচাই করা সহীহ হাদীস যুক্ত করেনি। তাই এসব বর্ণনা দিয়ে কোনো বংশতালিকা দাঁড় করানো যায় না। এগুলোর মিল একটা সীমায়: মানুষের লেখা ইতিহাস যেখানে ফুরায়, আল্লাহর জ্ঞান সেখানে ফুরায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proofs Answered With Suspicion",
+          "bn": "প্রমাণের জবাবে সন্দেহ"
+        },
+        "p": [
+          {
+            "en": "Ja'athum rusuluhum bi-l-bayyinat: their messengers came to them with clear proofs. At-Tabari says the messengers came calling these nations to worship Allah sincerely, bringing proofs and indications of the truth of that call, meaning miracles. Ibn Kathir stacks the adjectives: arguments and evidences that were clear, dazzling and decisive. As-Sa'di adds a general rule, that Allah sent no messenger without giving him signs of a kind people would believe in. Yet when these proofs came, he says, the peoples did not yield to them but held themselves above them.",
+            "bn": "জাআতহুম রুসুলুহুম বিল-বাইয়্যিনাত: তাদের রাসূলেরা তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। তাবারী বলেন, রাসূলেরা এই জাতিগুলোকে একনিষ্ঠভাবে আল্লাহর ইবাদতের দিকে ডেকেছিলেন। সেই ডাক যে সত্য, তার দলিল ও নিদর্শনও সঙ্গে এনেছিলেন, মানে মুজিযা। ইবন কাসীর একের পর এক বিশেষণ জোড়েন: স্পষ্ট, চোখ ধাঁধানো, অকাট্য যুক্তি ও প্রমাণ। সা'দী একটা সাধারণ নিয়মের কথা বলেন। আল্লাহ যে রাসূলকেই পাঠিয়েছেন, তাঁকে এমন নিদর্শন দিয়েছেন, যা দেখে মানুষ ঈমান আনতে পারে। তবু এসব প্রমাণ যখন এল, জাতিগুলো তার সামনে মাথা নোয়াল না, বরং অহংকারে মুখ ফিরিয়ে নিল।"
+          },
+          {
+            "en": "Then their words: inna kafarna bima ursiltum bihi, we disbelieve in what you have been sent with. Al-Qurtubi notes that 'sent' here means sent as you claim; they were not conceding that anyone had sent them. At-Tabari names what they rejected: the call to leave the worship of idols. They add wa-inna la-fi shakkin mimma tad'unana ilayhi murib, and we are in disquieting doubt about what you call us to. At-Tabari explains murib as a doubt that makes us suspicious, and al-Qurtubi gives the suspicion its content: we think you are after kingship and worldly gain.",
+            "bn": "তারপর তাদের কথা: ইন্না কাফারনা বিমা উরসিলতুম বিহী, তোমাদের যা দিয়ে পাঠানো হয়েছে, আমরা তা অস্বীকার করি। কুরতুবী খেয়াল করিয়ে দেন, 'পাঠানো' মানে এখানে তোমাদের দাবি অনুযায়ী পাঠানো। কেউ তাঁদের পাঠিয়েছেন, এ কথা তারা মেনে নিচ্ছিল না। তাবারী বলেন, তারা প্রত্যাখ্যান করছিল মূর্তিপূজা ছাড়ার আহ্বান। এরপর তারা বলে, ওয়া ইন্না লাফী শাক্কিম মিম্মা তাদ‘উনানা ইলাইহি মুরীব, তোমরা আমাদের যেদিকে ডাকছ, তা নিয়ে আমরা অস্থির করা সন্দেহে আছি। তাবারীর ব্যাখ্যায় মুরীব হলো এমন সন্দেহ, যা আমাদের মনে অবিশ্বাস জাগায়। কুরতুবী সেই অবিশ্বাসের চেহারাও দেখান: আমাদের ধারণা, তোমরা রাজত্ব আর দুনিয়া চাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fingers Bitten in Fury",
+          "bn": "রাগে কামড়ানো আঙুল"
+        },
+        "p": [
+          {
+            "en": "Fa-raddu aydiyahum fi afwahihim: literally, they returned their hands into their mouths. At-Tabari opens by saying the people of interpretation differ over it, and the commentators list more readings of this clause than of any other in the verse. The first comes from Ibn Mas'ud, through Abu al-Ahwas and through Hubayra: they bit on their hands in rage. The narrations differ only in detail, on their fingers or on their fingertips, and in one the narrator says 'like this' and bites his own hand.",
+            "bn": "ফারাদ্দূ আইদিয়াহুম ফী আফওয়াহিহিম: শাব্দিক অর্থে, তারা নিজেদের হাত মুখের ভেতর ফিরিয়ে দিল। তাবারী শুরুতেই বলেন, এর ব্যাখ্যায় তাফসীরবিদদের মতভেদ আছে। আসলে এ আয়াতের আর কোনো অংশে তাফসীরকারেরা এত বেশি ব্যাখ্যা আনেননি। প্রথম ব্যাখ্যা ইবন মাসউদ (রাঃ)-এর, আবুল আহওয়াস ও হুবাইরার সূত্রে: তারা রাগে নিজেদের হাত কামড়েছিল। বর্ণনাগুলোর তফাত শুধু খুঁটিনাটিতে। কোথাও আঙুল কামড়ানো, কোথাও আঙুলের ডগা। একটি বর্ণনায় বর্ণনাকারী 'এভাবে' বলে নিজের হাত কামড়ে দেখান।"
+          },
+          {
+            "en": "The chains even keep the gesture. At-Tabari reports that Shu'ba, one of its narrators, put the fingertips of his left hand to his mouth, and that 'Affan, after him, showed it by putting the tips of his outspread fingers into his mouth. Ibn Zayd held the same reading and recited 3:119, where the hypocrites, alone, bite their fingertips in rage. At-Tabari judges this the most likely meaning, citing the same verse, and calls it the familiar usage and the understood sense of returning the hand to the mouth.",
+            "bn": "সনদগুলো এমনকি ভঙ্গিটাও ধরে রেখেছে। তাবারী জানান, বর্ণনাকারীদের একজন শু‘বা তাঁর বাম হাতের আঙুলের ডগা মুখে রেখেছিলেন। তাঁর পরে আফফান হাতের আঙুল ছড়িয়ে ডগাগুলো মুখের ভেতর ঢুকিয়ে দেখিয়েছিলেন। ইবন যায়দও এই ব্যাখ্যা নিয়েছেন এবং ৩:১১৯ আয়াত পড়েছেন। সেখানে মুনাফিকেরা একা হলে রাগে আঙুলের ডগা কামড়ায়। তাবারী একই আয়াতের দলিল দিয়ে এ অর্থকেই সবচেয়ে সঠিকের কাছাকাছি বলেন। তাঁর মতে হাত মুখে ফিরিয়ে দেওয়ার পরিচিত ব্যবহার আর বোধগম্য অর্থ এটাই।"
+          },
+          {
+            "en": "Al-Qurtubi calls this the reading with the soundest chain, and explains the rage: the messengers' message called the people foolish in their judgement and spoke against their idols. He quotes al-Qutabi as saying he never heard an Arab use the phrase for abandoning what one is told to do; it means biting the hands in fury. The Muyassar takes the same line: they bit their hands in rage and in disdain for accepting faith. A related report from Ibn 'Abbas, through al-'Awfi, says that when they heard Allah's Book they were amazed and put their hands back to their mouths.",
+            "bn": "কুরতুবী বলেন, সনদের দিক থেকে এ ব্যাখ্যাই সবচেয়ে মজবুত। রাগের কারণও তিনি বলেন: রাসূলদের বার্তা তাদের বুদ্ধিকে নির্বোধ বলেছিল, আর তাদের মূর্তিগুলোর নিন্দা করেছিল। তিনি কুতাবীর কথা উদ্ধৃত করেন: আদেশ পালন না করা বোঝাতে কোনো আরবকে তিনি এ কথা বলতে শোনেননি। এর অর্থ ক্রোধে হাত কামড়ানো। মুয়াসসারও একই পথে: তারা রাগে আর ঈমান গ্রহণে নাক সিঁটকে হাত কামড়েছিল। কাছাকাছি আরেকটি বর্ণনা ইবন আব্বাস (রাঃ)-এর, আওফীর সূত্রে। আল্লাহর কিতাব শুনে তারা অবাক হয়েছিল এবং হাত মুখের কাছে ফিরিয়ে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rebuttal, Silencing, or Idiom",
+          "bn": "প্রত্যাখ্যান, মুখ বন্ধ, না প্রবাদ"
+        },
+        "p": [
+          {
+            "en": "A second group reads the words another way. Mujahid and Qatada, with Muhammad ibn Ka'b in Ibn Kathir's list, say the peoples rebutted the messengers' words and called them liars with their mouths. On this view fi carries the sense of bi, by, and at-Tabari cites the Arab saying 'may Allah admit you by Paradise' for 'into Paradise'. He adds that Mujahid seems to take aydi as Allah's favours, which they would have had if they had accepted them. Ibn Kathir says Mujahid's reading is supported by the rest of the verse, where they state their disbelief outright.",
+            "bn": "আরেক দল কথাটি পড়েন ভিন্নভাবে। মুজাহিদ ও কাতাদা, আর ইবন কাসীরের তালিকায় মুহাম্মাদ ইবন কা'বও, বলেন: জাতিগুলো রাসূলদের কথা ফিরিয়ে দিয়েছিল আর মুখে তাঁদের মিথ্যাবাদী বলেছিল। এ মতে ফী শব্দটি বি-এর অর্থে, মানে 'দিয়ে'। তাবারী আরবদের একটি কথার নজির দেন, যেখানে 'জান্নাতে প্রবেশ করান' বোঝাতে 'জান্নাত দিয়ে প্রবেশ করান' বলা হয়। তিনি যোগ করেন, মুজাহিদ সম্ভবত আইদী শব্দকে আল্লাহর নিয়ামত অর্থে নিয়েছেন, যা গ্রহণ করলে তারা পেত। ইবন কাসীর বলেন, আয়াতের বাকি অংশ মুজাহিদের ব্যাখ্যার পক্ষে যায়, কারণ সেখানে তারা নিজেরাই খোলাখুলি অস্বীকারের কথা বলেছে।"
+          },
+          {
+            "en": "Others turn the hands toward the messengers. Al-Qurtubi gives al-Hasan and others: they put their hands on the messengers' mouths to rebut them. Muqatil, in al-Qurtubi, has them take the messengers' own hands and place them on the messengers' mouths to cut them off; in al-Baghawi he has the people's hands on the messengers' mouths. Abu Salih, in al-Qurtubi, says they pointed with their fingers to their own mouths, meaning 'be quiet', and al-Kalbi in al-Baghawi says much the same. Al-Qurtubi calls the readings of Ibn Mas'ud, Ibn 'Abbas and Abu Salih close in meaning.",
+            "bn": "কেউ কেউ হাতগুলোকে রাসূলদের দিকে ঘুরিয়ে দেন। কুরতুবী আনেন হাসান ও আরও কয়েকজনের মত: তাঁদের কথা ফিরিয়ে দিতে তারা রাসূলদের মুখে হাত চাপা দিয়েছিল। কুরতুবীর বর্ণনায় মুকাতিল বলেন, তারা রাসূলদের নিজেদের হাত ধরে তাঁদেরই মুখে চেপে দিয়েছিল, যাতে তাঁদের কথা থেমে যায়। বাগাভীর বর্ণনায় মুকাতিলের কথা হলো, তারা নিজেদের হাত রাসূলদের মুখে রেখেছিল। কুরতুবীর বর্ণনায় আবু সালিহ বলেন, তারা আঙুল দিয়ে নিজেদের মুখের দিকে ইশারা করত, মানে চুপ করো। বাগাভীর বর্ণনায় কালবীর কথাও প্রায় তাই। কুরতুবী বলেন, ইবন মাসউদ, ইবন আব্বাস ও আবু সালিহের ব্যাখ্যা অর্থের দিক থেকে কাছাকাছি।"
+          },
+          {
+            "en": "A last reading makes the phrase an idiom. Abu 'Ubayda, joined by al-Akhfash in al-Qurtubi, says the Arabs say of a man who will not answer that he returned his hand into his mouth: they simply did not respond or believe. At-Tabari rejects this as baseless, because the verse goes on to report their answer, a denial. As-Sa'di reads it as their refusing to believe or to utter a word that points to faith, and likens it to 2:19, fingers thrust in ears. At-Tabari prefers the biting, al-Qurtubi finds it the best attested, and Ibn Kathir leans toward Mujahid. The disagreement stands.",
+            "bn": "শেষ ব্যাখ্যায় কথাটি একটি প্রবাদ। আবু উবাইদা বলেন, আর কুরতুবীর বর্ণনায় আখফাশও তাঁর সঙ্গে: কেউ জবাব না দিলে আরবরা বলে, সে নিজের হাত মুখে ফিরিয়ে দিয়েছে। অর্থাৎ তারা সাড়াও দেয়নি, ঈমানও আনেনি। তাবারী এ মত বাতিল করেন। কারণ আয়াত নিজেই তাদের জবাব জানিয়েছে, আর সে জবাব অস্বীকার। সা'দীর পাঠে এর অর্থ, তারা ঈমান আনেনি, ঈমানের দিকে ইঙ্গিত করে এমন একটি শব্দও মুখে আনেনি। তিনি একে তুলনা করেন ২:১৯ আয়াতের সঙ্গে, যেখানে কানে আঙুল গোঁজার কথা আছে। তাবারী কামড়ানোর ব্যাখ্যাকে অগ্রাধিকার দেন, কুরতুবী একে সবচেয়ে ভালোভাবে বর্ণিত বলেন, আর ইবন কাসীর ঝুঁকেছেন মুজাহিদের দিকে। মতভেদটা মতভেদ হিসেবেই থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Past Peoples, Present Hearers",
+          "bn": "অতীতের জাতি, আজকের শ্রোতা"
+        },
+        "p": [
+          {
+            "en": "The reply comes in 14:10. The messengers answer the doubt with a question of their own: is there doubt about Allah, Originator of the heavens and the earth, who calls you so that He may forgive you your sins and defer you to a stated term? The peoples answer that the messengers are only men like them. In 14:11 the messengers grant this, and say that Allah favours whom He wills and that they bring no authority except by His leave. In 14:12 they ask why they should not rely on Allah, who has guided them, and vow patience under the harm done to them.",
+            "bn": "জবাব আসে ১৪:১০ আয়াতে। রাসূলেরা তাদের সন্দেহের উত্তর দেন পাল্টা প্রশ্নে: আল্লাহ সম্পর্কে সন্দেহ? যিনি আসমান ও যমীনের স্রষ্টা, যিনি তোমাদের ডাকছেন যাতে তোমাদের গুনাহ মাফ করেন আর নির্দিষ্ট সময় পর্যন্ত অবকাশ দেন? জাতিগুলো বলে, তোমরা তো আমাদেরই মতো মানুষ। ১৪:১১ আয়াতে রাসূলেরা তা মেনে নেন। তবে বলেন, আল্লাহ তাঁর বান্দাদের মধ্যে যাকে চান অনুগ্রহ করেন, আর তাঁর অনুমতি ছাড়া কোনো প্রমাণ হাজির করা তাঁদের কাজ নয়। ১৪:১২ আয়াতে তাঁরা বলেন, আমরা আল্লাহর উপর ভরসা করব না কেন, তিনিই তো আমাদের পথ দেখিয়েছেন। তোমরা যত কষ্টই দাও, আমরা সবর করব।"
+          },
+          {
+            "en": "This needs saying plainly. The people of Nuh, 'Ad and Thamud, and the generations after them, are past peoples. The verse describes what they said and did when their messengers came, and it licenses nothing against any person or community living now. No one may be cast as their heirs, or as the people with hands at their mouths, on the strength of this verse. Its question turns toward the hearer instead: has the news not reached you? Whoever hears it is being asked.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। নূহের জাতি, ‘আদ, সামূদ এবং তাদের পরের প্রজন্মগুলো অতীতের জাতি। রাসূলেরা আসার পর তারা কী বলেছিল আর কী করেছিল, আয়াত শুধু সেটাই বর্ণনা করে। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এ আয়াতের জোরে কাউকে তাদের উত্তরসূরি বানানো যায় না, কাউকে মুখে হাত চাপা দেওয়া সেই লোকদের দলে ফেলাও যায় না। আয়াতের প্রশ্নটা বরং শ্রোতার দিকেই ফেরে: খবর কি তোমাদের কাছে পৌঁছায়নি? যে শুনছে, প্রশ্নটা তাকেই করা হচ্ছে।"
+          },
+          {
+            "en": "What the verse keeps is striking. Of generations so many that only Allah knows them, it preserves no names, no dates and no family lines, only the shape of an answer: a hand raised to the mouth in rage or refusal, a declared disbelief, and a doubt that bred suspicion of the messengers. The first lesson is humility about how little human records hold. The second is harder. A clear proof can be heard in full and still be refused, and to the one refusing, the refusal can feel like nothing more than honest doubt.",
+            "bn": "আয়াত কী ধরে রেখেছে, সেটা ভাবার মতো। এত প্রজন্ম, যাদের আল্লাহ ছাড়া কেউ জানে না, অথচ তাদের কোনো নাম নেই, সময় নেই, বংশতালিকা নেই। আছে শুধু একটা জবাবের চেহারা: রাগে বা প্রত্যাখ্যানে মুখে তোলা হাত, ঘোষণা দিয়ে অস্বীকার, আর এমন সন্দেহ যা রাসূলদের প্রতিই অবিশ্বাস জাগিয়েছিল। প্রথম শিক্ষা বিনয়ের: মানুষের লেখা ইতিহাসে কত অল্পই ধরা থাকে। দ্বিতীয় শিক্ষা কঠিন। স্পষ্ট প্রমাণ পুরোটা শোনার পরেও তা ফিরিয়ে দেওয়া যায়। আর যে ফিরিয়ে দেয়, তার কাছে সেটা নিছক সৎ সন্দেহ বলেই মনে হতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "14:13": {
     "sections": [
       {

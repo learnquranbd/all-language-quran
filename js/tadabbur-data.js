@@ -22071,6 +22071,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the sky rumbles, join its praise of Allah instead of only fearing the noise, and spend less breath arguing about Him than glorifying Him.",
     "lessonBn": "আকাশ গর্জালে শুধু শব্দকে ভয় না করে তার সঙ্গে আল্লাহর প্রশংসায় গলা মেলান, আর তাঁকে নিয়ে তর্কে যত কথা খরচ করেন, তার চেয়ে বেশি করুন তাঁর তাসবীহ।"
+  },
+  "14:9": {
+    "reflectionEn": "The verse asks a question that expects a yes: has the news not reached you? The people of Nuh, 'Ad and Thamud, and after them generations so many that only Allah knows them. To each came messengers with clear proofs, and each gave much the same answer: hands pushed to mouths, and a flat 'we reject what you were sent with, and we are in deep doubt about it.' The verse says almost nothing about who these people were. It records how they answered. Most of history's names are lost, but no answer is lost to Allah, and mine will not be either. When something clear reaches me, do I give it a hearing, or reach for my doubts before I have heard it out?",
+    "reflectionBn": "আয়াতটি এমন এক প্রশ্ন করে, যার উত্তর 'হ্যাঁ' ছাড়া কিছু হয় না: তোমাদের কাছে কি সেই খবর পৌঁছায়নি? নূহের জাতি, ‘আদ আর সামূদ, তারপর আরও এত প্রজন্ম যে আল্লাহ ছাড়া কেউ তাদের জানে না। প্রত্যেকের কাছে রাসূলেরা এসেছিলেন স্পষ্ট প্রমাণ নিয়ে। আর প্রায় সবার জবাব ছিল একই রকম: মুখে হাত চেপে ধরা, তারপর সাফ কথা, তোমাদের যা দিয়ে পাঠানো হয়েছে আমরা তা মানি না, আর এ নিয়ে আমরা গভীর সন্দেহে আছি। এরা কারা ছিল, আয়াত প্রায় কিছুই বলে না। বলে শুধু, তারা কী জবাব দিয়েছিল। ইতিহাসের বেশির ভাগ নাম হারিয়ে গেছে, কিন্তু কারও জবাব আল্লাহর কাছে হারায় না। আমার জবাবও হারাবে না। স্পষ্ট কিছু যখন আমার কাছে পৌঁছায়, আমি কি মন দিয়ে শুনি, নাকি পুরোটা শোনার আগেই সন্দেহের আশ্রয় নিই?",
+    "pointsEn": [
+      "When something is plainly true but unwelcome to me, what is my own version of a hand raised to the mouth?",
+      "Do I ever call my doubt honest when it is really a way of not having to change?",
+      "Which story of a past people do I read only as news about others, and never as news about me?",
+      "If my name is forgotten like those generations only Allah knows, which of my answers would I want Him to find?",
+      "Has anger at the one who brought a message ever kept me from weighing whether the message was true?"
+    ],
+    "pointsBn": [
+      "কোনো কথা স্পষ্ট সত্য অথচ আমার অপছন্দের হলে, মুখে হাত চাপা দেওয়ার আমার নিজের ধরনটা কী?",
+      "আমি কি কখনো নিজের সন্দেহকে সৎ সন্দেহ বলে চালাই, অথচ আসলে সেটা নিজেকে না বদলানোর একটা উপায়?",
+      "অতীতের কোন জাতির কাহিনি আমি শুধু অন্যদের খবর হিসেবে পড়ি, কখনো নিজের খবর হিসেবে পড়ি না?",
+      "আল্লাহ ছাড়া কেউ জানে না এমন সেই প্রজন্মগুলোর মতো আমার নামও যদি হারিয়ে যায়, তবে আমার কোন জবাবটা আমি চাইব তিনি পান?",
+      "যে বার্তা এনেছে তার উপর রাগ কি কখনো আমাকে বার্তাটা সত্য কি না, তা যাচাই করা থেকে আটকে রেখেছে?"
+    ],
+    "lessonEn": "Meet clear truth with a hearing, not a closed hand: whole nations were forgotten, but how they answered their messengers is what the Qur'an kept.",
+    "lessonBn": "স্পষ্ট সত্যের সামনে মুখে হাত চাপা না দিয়ে মন দিয়ে শুনুন। গোটা গোটা জাতি হারিয়ে গেছে, কিন্তু রাসূলদের তারা কী জবাব দিয়েছিল, কুরআন সেটাই ধরে রেখেছে।"
   }
 };
 
