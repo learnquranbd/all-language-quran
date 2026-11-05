@@ -22431,6 +22431,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never stand between anyone and the way of Allah. Turning others back is weighed more heavily than straying alone, so make the road easier for those around you.",
     "lessonBn": "আল্লাহর পথে কারও সামনে বাধা হয়ে দাঁড়াবেন না। একা পথ হারানোর চেয়ে অন্যকে ফিরিয়ে দেওয়ার ভার বেশি, তাই আশপাশের মানুষের জন্য পথটা সহজ করে দিন।"
+  },
+  "16:84": {
+    "reflectionEn": "The verses before this one count out gifts: hearing and sight, homes and tents, shade and garments. Then comes a hard sentence: they recognise the favour of Allah, and then they deny it. This verse shows where that denial ends. On a coming Day a witness is raised from every nation, the one who brought them the message, and he tells how they answered. After that, those who disbelieved are given no leave to excuse themselves, and no one asks them to make amends. The door of excuse and of return is open now, and the verse says it will not stay open. Which favour have I recognised this week and left unthanked? And if I owe my Lord an apology, what am I waiting for?",
+    "reflectionBn": "এর আগের আয়াতগুলো একে একে নিয়ামত গুনিয়েছে: শোনার শক্তি, দেখার শক্তি, ঘর আর তাঁবু, ছায়া আর পোশাক। তারপর এসেছে কঠিন এক বাক্য: তারা আল্লাহর নিয়ামত চেনে, তারপরও তা অস্বীকার করে। এ আয়াত দেখায় সেই অস্বীকারের শেষ কোথায়। সামনে এক দিন আসছে, যেদিন প্রত্যেক জাতি থেকে একজন সাক্ষী দাঁড় করানো হবে। তিনিই সেই জন, যিনি তাদের কাছে বাণী নিয়ে গিয়েছিলেন, আর তিনি জানাবেন তারা কী জবাব দিয়েছিল। এরপর কাফিরদের অজুহাত দেখানোর অনুমতি দেওয়া হবে না, কেউ তাদের কাছে সন্তুষ্ট করার সুযোগও চাইবে না। অজুহাত আর ফিরে আসার দরজা এখন খোলা, আর আয়াতটি জানিয়ে দেয়, এ দরজা চিরকাল খোলা থাকবে না। এ সপ্তাহে কোন নিয়ামত আমি চিনেছি, অথচ শুকরিয়া আদায় করিনি? আর রবের কাছে যদি আমার ক্ষমা চাওয়ার কিছু থাকে, আমি কিসের অপেক্ষায় আছি?",
+    "pointsEn": [
+      "If the one who brought me the message were asked how I answered it, what could he say about my last month?",
+      "Which of the favours named in the verses before this one do I use every day without once thinking of the Giver?",
+      "What excuse am I quietly saving for later, as if there will always be a hearing for it?",
+      "Is there a wrong between me and Allah that I could set right today, while seeking His pleasure is still asked of me?",
+      "When I read of a Day without excuses, do I look at myself, or do I start counting other people?"
+    ],
+    "pointsBn": [
+      "যিনি আমার কাছে বাণী পৌঁছে দিয়েছেন, তাঁকে যদি জিজ্ঞেস করা হয় আমি কী জবাব দিয়েছি, আমার গত এক মাস নিয়ে তিনি কী বলতে পারবেন?",
+      "আগের আয়াতগুলোতে যেসব নিয়ামতের নাম এসেছে, তার কোনটা আমি রোজ ব্যবহার করি, অথচ একবারও দাতার কথা মনে করি না?",
+      "কোন অজুহাতটা আমি চুপচাপ পরের জন্য জমিয়ে রাখছি, যেন তা শোনার সুযোগ সবসময়ই থাকবে?",
+      "আমার আর আল্লাহর মাঝে এমন কোনো অন্যায় কি আছে, যা আজই ঠিক করে নিতে পারি, যখন তাঁর সন্তুষ্টি খোঁজার সুযোগ এখনো দেওয়া হচ্ছে?",
+      "অজুহাতহীন এক দিনের কথা পড়ে আমি কি নিজের দিকে তাকাই, নাকি অন্যদের হিসাব কষতে বসে যাই?"
+    ],
+    "lessonEn": "Make amends with Allah now, while repentance is still asked of you; on the Day the witnesses speak, no excuse is heard and no return is given.",
+    "lessonBn": "আল্লাহর সঙ্গে সম্পর্ক এখনই ঠিক করে নিন, যখন তওবার সুযোগ দেওয়া হচ্ছে। যেদিন সাক্ষীরা কথা বলবেন, সেদিন কোনো অজুহাত শোনা হবে না, ফিরে আসারও সুযোগ থাকবে না।"
   }
 };
 

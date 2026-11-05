@@ -2799,6 +2799,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:84": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where Denied Favour Leads",
+          "bn": "অস্বীকৃত নিয়ামতের শেষ ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "The verses before this one are a run of gifts. 16:78 brings people out of their mothers' wombs knowing nothing and gives them hearing, sight and hearts; 16:80 and 16:81 add homes, tents, shade and garments. 16:82 tells the Prophet ﷺ that if they turn away, his duty is only the clear conveying, and 16:83 says they recognise the favour of Allah and then deny it. At-Tabari ties this verse straight to that sentence: they recognise the favour of Allah, then deny it today and disown it, on the Day We raise from every nation a witness.",
+            "bn": "এর আগের আয়াতগুলো একটানা নিয়ামতের বিবরণ। ১৬:৭৮ বলে, মানুষ মায়ের পেট থেকে বের হয় কিছুই না জেনে, আর আল্লাহ তাকে দেন শোনার শক্তি, দেখার শক্তি ও অন্তর। ১৬:৮০ ও ১৬:৮১ এর সঙ্গে যোগ করে ঘর, তাঁবু, ছায়া আর পোশাক। ১৬:৮২ নবী ﷺ-কে জানায়, তারা মুখ ফিরিয়ে নিলে তাঁর দায়িত্ব শুধু স্পষ্টভাবে পৌঁছে দেওয়া। আর ১৬:৮৩ বলে, তারা আল্লাহর নিয়ামত চেনে, তারপর তা অস্বীকার করে। তাবারী এ আয়াতকে সরাসরি ওই বাক্যের সঙ্গে জুড়ে দেন: তারা আল্লাহর নিয়ামত চেনে, তারপর আজ তা অস্বীকার করে, মানতে চায় না; আর সেদিন, যেদিন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী দাঁড় করাব।"
+          },
+          {
+            "en": "The Muyassar reads the opening wa-yawma as an instruction to the Messenger: and mention to them, O Messenger, what will happen on the Day of Resurrection. Counted in the Arabic text, the verse is fourteen words. The first six set the scene: the Day We raise from every nation a witness. The remaining eight, opened by thumma, then, close two doors on those who disbelieved: they are given no leave, and they are not asked to make amends. The sections below take the witness first, then each of the two doors in turn.",
+            "bn": "মুয়াসসার শুরুর ওয়া ইয়াওমা শব্দকে রাসূলের প্রতি একটি নির্দেশ হিসেবে পড়ে: হে রাসূল, কিয়ামতের দিন কী ঘটবে, তা তাদের স্মরণ করিয়ে দিন। আরবি পাঠে গুনলে আয়াতটি চৌদ্দ শব্দের। প্রথম ৬টি শব্দ দৃশ্যটা সাজায়: যেদিন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী দাঁড় করাব। বাকি ৮টি শব্দ শুরু হয় সুম্মা দিয়ে, যার অর্থ তারপর। এরপর কাফিরদের সামনে দুটি দরজা বন্ধ হয়ে যায়: তাদের অনুমতি দেওয়া হবে না, আর তাদের কাছে সন্তুষ্ট করার সুযোগও চাওয়া হবে না। নিচের অংশগুলো আগে সাক্ষীর কথা বলবে, তারপর একে একে দুই দরজার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Nation's Own Messenger",
+          "bn": "প্রত্যেক জাতির নিজের রাসূল"
+        },
+        "p": [
+          {
+            "en": "The verse says only shahid, a witness, and the commentators who name him all name him the same way. Ibn Kathir: he is its prophet, who testifies against it with what it answered him in what he conveyed to it from Allah. At-Tabari: he is the witness against it with what it answered the caller of Allah, and he is their messenger who was sent to them. Al-Baghawi says in one word, a messenger. The Muyassar: its messenger, a witness to the faith of whoever believed among it and the disbelief of whoever disbelieved.",
+            "bn": "আয়াতে শুধু আছে শাহীদ, একজন সাক্ষী। যেসব তাফসীর তাঁর পরিচয় দেয়, সবগুলো তাঁকে একইভাবে চিনিয়ে দেয়। ইবন কাসীর বলেন, তিনি ওই জাতির নবী। আল্লাহর পক্ষ থেকে তিনি যা পৌঁছে দিয়েছিলেন, তাতে জাতি তাঁকে কী জবাব দিয়েছে, সে বিষয়ে তিনি তাদের বিরুদ্ধে সাক্ষ্য দেবেন। তাবারী বলেন, আল্লাহর আহ্বানকারীকে তারা কী জবাব দিয়েছে, তিনি তার সাক্ষী, আর তিনিই তাদের কাছে পাঠানো রাসূল। বাগাভী এক কথায় বলেন: একজন রাসূল। মুয়াসসার বলে, সাক্ষী হলেন জাতির রাসূল। কে ঈমান এনেছে আর কে কুফরি করেছে, দুটোরই তিনি সাক্ষী।"
+          },
+          {
+            "en": "At-Tabari then cites Qatada for the same reading, with a turn of his own: its witness is its prophet, that he has conveyed the messages of his Lord. Qatada closes with words from a few verses on, wa ji'na bika shahidan 'ala ha'ula', and We will bring you as a witness over these. Set side by side, the two glosses cover both ends of one message. At-Tabari and Ibn Kathir have the messenger testify to how the nation answered; Qatada has him testify that he delivered it. At-Tabari adds that the people of interpretation said as he did.",
+            "bn": "এরপর তাবারী একই ব্যাখ্যার পক্ষে কাতাদার কথা আনেন, তবে কাতাদা তাতে নিজের একটি দিক যোগ করেন: জাতির সাক্ষী তার নবী, তিনি সাক্ষ্য দেবেন যে রবের বার্তা তিনি পৌঁছে দিয়েছেন। কাতাদা শেষ করেন কয়েক আয়াত পরের শব্দ দিয়ে: ওয়া জি'না বিকা শাহীদান আলা হা-উলা, আর আমি তোমাকে এদের উপর সাক্ষী হিসেবে আনব। দুটো ব্যাখ্যা পাশাপাশি রাখলে একই বার্তার দুই প্রান্ত ধরা পড়ে। তাবারী ও ইবন কাসীরের কথায় রাসূল সাক্ষ্য দেন জাতি কী জবাব দিয়েছে তার। কাতাদার কথায় তিনি সাক্ষ্য দেন যে বার্তা তিনি পৌঁছে দিয়েছেন। তাবারী আরও জানান, তাফসীরবিদেরা তাঁর মতোই বলেছেন।"
+          },
+          {
+            "en": "As-Sa'di, who treats this verse together with the next, says the witness testifies against them with their deeds and with what they answered the caller to guidance. Then he describes the witnesses themselves: the purest of witnesses and the most just of them, the messengers, who, when they testify, the judgement against them is complete. That last phrase sits well with the way the verse moves at once to the closing of doors: once the messenger has spoken, nothing is left open to argue, and the next two clauses say what that means for those who disbelieved.",
+            "bn": "সা'দী এ আয়াত আর পরের আয়াত একসঙ্গে ব্যাখ্যা করেন। তিনি বলেন, সাক্ষী তাদের বিরুদ্ধে সাক্ষ্য দেবেন তাদের আমল নিয়ে, আর হিদায়াতের দিকে যিনি ডেকেছিলেন, তাঁকে তারা কী জবাব দিয়েছিল তা নিয়ে। এরপর তিনি সাক্ষীদের পরিচয় দেন: সাক্ষীদের মধ্যে সবচেয়ে পবিত্র আর সবচেয়ে ন্যায়নিষ্ঠ, অর্থাৎ রাসূলগণ। তাঁরা সাক্ষ্য দিলে তাদের বিরুদ্ধে রায় পূর্ণ হয়ে যায়। এই শেষ কথাটার সঙ্গে আয়াতের গতিও মিলে যায়, কারণ সাক্ষীর পরপরই আসে দরজা বন্ধের কথা। রাসূল কথা বলার পর তর্কের আর কিছু বাকি থাকে না। পরের দুই বাক্য বলে, কাফিরদের জন্য এর অর্থ কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Scene, Told Three Times",
+          "bn": "এক দৃশ্য, তিন বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his note with one word, nazir, its counterpart, and quotes 4:41: so how will it be when We bring from every nation a witness. Five verses after this one, 16:89 returns to the same scene in fuller words. There the witness is fi kulli ummatin shahidan 'alayhim min anfusihim, a witness over them from among themselves, and the verse adds, and We will bring you as a witness over these. The line from Qatada that at-Tabari cites ends with exactly those words of 16:89.",
+            "bn": "কুরতুবী তাঁর আলোচনা শুরু করেন একটি শব্দে: নাযীর, অর্থাৎ এর সমতুল্য আয়াত। তারপর উদ্ধৃত করেন ৪:৪১: তখন কেমন হবে, যখন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী আনব? এ আয়াতের পাঁচ আয়াত পরে ১৬:৮৯ একই দৃশ্যে ফিরে আসে, আরও বিস্তারিত শব্দে। সেখানে সাক্ষী হলেন ফী কুল্লি উম্মাতিন শাহীদান আলাইহিম মিন আনফুসিহিম, তাদের উপর তাদেরই মধ্য থেকে একজন সাক্ষী। সঙ্গে আছে: আর আমি তোমাকে এদের উপর সাক্ষী হিসেবে আনব। তাবারী কাতাদার যে কথা উদ্ধৃত করেন, তা ঠিক ১৬:৮৯-এর এই শব্দগুলো দিয়েই শেষ হয়।"
+          },
+          {
+            "en": "Beside those two, this verse is the barest telling. It names the witness and his nation and stops there, then turns at once to what follows for those who disbelieved. What the fuller verse adds, the witness drawn from the nation's own people and the Prophet ﷺ standing as witness over his own, belongs to 16:89 and is left for that verse. Here the weight falls on the consequence. A witness is raised, and the rest of the verse is spent on what the disbelievers are then refused.",
+            "bn": "ওই দুই আয়াতের পাশে এ আয়াতের বর্ণনা সবচেয়ে সংক্ষিপ্ত। এখানে সাক্ষী আর তাঁর জাতির উল্লেখ করেই থেমে যাওয়া হয়েছে, তারপর সোজা চলে যাওয়া হয়েছে কাফিরদের পরিণতির কথায়। বিস্তারিত আয়াতটি যা যোগ করে, অর্থাৎ সাক্ষী আসবেন জাতির নিজেদের লোকদের মধ্য থেকে, আর নবী ﷺ সাক্ষী হবেন নিজের উম্মতের উপর, তা ১৬:৮৯-এর বিষয়, সেখানেই তার আলোচনা। এখানে জোর পরিণতির উপর। একজন সাক্ষী দাঁড় করানো হয়, আর আয়াতের বাকি অংশ জুড়ে থাকে কাফিরদের কী কী থেকে বঞ্চিত করা হবে, সেই কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough for Now, He Said",
+          "bn": "এখন যথেষ্ট, তিনি বললেন"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it, and none is borrowed here as if one did. The best-known narration on this scene belongs to its counterpart, 4:41, the verse al-Qurtubi points to. Al-Bukhari records it in his Sahih, number 5050, from 'Abdullah ibn Mas'ud (RA). It is quoted below whole, in one wording, and it is marked plainly as narrated on 4:41, not on 16:84. It is brought for one reason: it shows how this same scene was heard when it was recited aloud.",
+            "bn": "এ আয়াতের যত তাফসীর দেখা হয়েছে, কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানেও এমন কোনো হাদীস টেনে আনা হচ্ছে না, যেন তা এ আয়াতের। এ দৃশ্য নিয়ে সবচেয়ে পরিচিত বর্ণনাটি এর সমতুল্য আয়াত ৪:৪১-এর, যে আয়াতের দিকে কুরতুবী ইশারা করেছেন। বুখারী তাঁর সহীহ গ্রন্থে, ৫০৫০ নম্বরে, আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে তা বর্ণনা করেছেন। নিচে একটি বর্ণনার শব্দেই পুরোটা উদ্ধৃত হলো, আর স্পষ্ট করে বলা থাকল যে তা ৪:৪১ প্রসঙ্গে, ১৬:৮৪ প্রসঙ্গে নয়। এটি আনার কারণ একটাই: তিলাওয়াতের সময় এই একই দৃশ্য কীভাবে শোনা হয়েছিল, তা দেখা।"
+          },
+          {
+            "en": "'Abdullah ibn Mas'ud said: The Prophet ﷺ said to me, \"Recite (the Qur'an) to me.\" I said, \"O Allah's Messenger ﷺ, shall I recite (the Qur'an) to you while it has been revealed to you?\" He said, \"Yes.\" So I recited Surat an-Nisa' (The Women), but when I recited the verse, 'How (will it be) then when We bring from each nation a witness and We bring you (O Muhammad) as a witness against these people' (4:41), he said, \"Enough for the present.\" I looked at him and behold, his eyes were overflowing with tears.",
+            "bn": "আবদুল্লাহ ইবন মাসউদ (রাঃ) বলেন: নবী ﷺ আমাকে বললেন, \"আমাকে (কুরআন) পড়ে শোনাও।\" আমি বললাম, \"হে আল্লাহর রাসূল ﷺ, আমি আপনাকে পড়ে শোনাব, অথচ তা আপনার উপরই নাযিল হয়েছে?\" তিনি বললেন, \"হ্যাঁ।\" তখন আমি সূরা নিসা পড়তে লাগলাম। যখন এই আয়াতে পৌঁছলাম, 'তখন কেমন হবে, যখন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী আনব, আর (হে মুহাম্মাদ) তোমাকে আনব এদের বিরুদ্ধে সাক্ষী হিসেবে' (৪:৪১), তিনি বললেন, \"এখন যথেষ্ট।\" আমি তাঁর দিকে তাকিয়ে দেখি, তাঁর দুই চোখ দিয়ে অশ্রু ঝরছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leave for What, Exactly",
+          "bn": "অনুমতি ঠিক কিসের"
+        },
+        "p": [
+          {
+            "en": "Thumma la yu'dhanu li-lladhina kafaru: then those who disbelieved are given no leave. The verse does not say leave for what, and the commentators supply it. Ibn Kathir, at-Tabari, as-Sa'di and the Muyassar all read it as leave to offer an excuse. At-Tabari spells it out: they are not permitted to excuse themselves, so as to excuse themselves for the disbelief in Allah and His Messenger they used to hold. Ibn Kathir gives the reason in a clause: because they know the excuse to be false and a lie.",
+            "bn": "সুম্মা লা ইউ'যানু লিল্লাযীনা কাফারূ: তারপর কাফিরদের অনুমতি দেওয়া হবে না। কিসের অনুমতি, আয়াত তা বলে না, তাফসীরকারেরা তা খুলে বলেন। ইবন কাসীর, তাবারী, সা'দী ও মুয়াসসার, সবাই একে পড়েন অজুহাত পেশ করার অনুমতি হিসেবে। তাবারী বিষয়টা পরিষ্কার করেন: আল্লাহ ও তাঁর রাসূলের প্রতি যে কুফরি তারা করত, সে কুফরির জন্য ওজর পেশ করার অনুমতি তাদের দেওয়া হবে না। ইবন কাসীর এক বাক্যে কারণটাও জানান: কারণ তারা নিজেরাই জানে, সে অজুহাত মিথ্যা আর বাতিল।"
+          },
+          {
+            "en": "As-Sa'di makes the same point from the other side. An excuse offered after they have come to know with certainty that what they were upon is false would be a lying excuse, and it would do them no good at all. Two commentators widen the clause. Al-Qurtubi reads it as leave for excuse and for speech together. Al-Baghawi reads it as leave for excuse, and then records, with the words it is said, a second view: leave for speech altogether. That is a real difference of reach, and it is kept as one.",
+            "bn": "সা'দী একই কথা বলেন অন্য দিক থেকে। তারা যে পথে ছিল, তা যে বাতিল, এ কথা নিশ্চিতভাবে জেনে ফেলার পর যে অজুহাত দেওয়া হবে, তা হবে মিথ্যা অজুহাত, তাতে তাদের কোনো লাভই হবে না। দুজন তাফসীরকার বাক্যটির পরিধি বাড়িয়ে দেন। কুরতুবী একে পড়েন অজুহাত ও কথা, দুটোরই অনুমতি হিসেবে। বাগাভী একে পড়েন অজুহাতের অনুমতি হিসেবে, তারপর 'বলা হয়' শব্দ দিয়ে দ্বিতীয় একটি মত উল্লেখ করেন: কথা বলারই কোনো অনুমতি নেই। এটা পরিধি নিয়ে সত্যিকারের মতভেদ, আর তা মতভেদ হিসেবেই রাখা হলো।"
+          },
+          {
+            "en": "At-Tabari, Ibn Kathir and al-Qurtubi all set 77:35 and 77:36 beside the clause: this is a Day they will not speak, nor will they be permitted to offer excuses. Al-Qurtubi also places the moment: that is when Hell closes over them, as he said at the opening of al-Hijr. Other verses show people speaking and pleading on that Day; the article on 11:105 sets out how al-Qurtubi fits the two together, and it is not retold here. What this verse adds is the order: the witness first, then the silence of the excuse.",
+            "bn": "তাবারী, ইবন কাসীর ও কুরতুবী, তিনজনই এ বাক্যের পাশে রাখেন ৭৭:৩৫ ও ৭৭:৩৬: এটা সেই দিন, যেদিন তারা কথা বলবে না, আর তাদের অজুহাত পেশ করার অনুমতিও দেওয়া হবে না। কুরতুবী মুহূর্তটাও চিহ্নিত করেন: তখন জাহান্নাম তাদের ঘিরে বন্ধ হয়ে যাবে, যেমন তিনি সূরা হিজরের শুরুতে বলেছেন। অন্য আয়াতে দেখা যায় মানুষ সেদিন কথা বলছে, নিজের পক্ষে যুক্তি দিচ্ছে। দুই ধরনের বর্ণনা কীভাবে মেলে, কুরতুবীর সেই ব্যাখ্যা ১১:১০৫-এর প্রবন্ধে আছে, এখানে আর বলা হচ্ছে না। এ আয়াত যা যোগ করে, তা ক্রম: আগে সাক্ষী, তারপর অজুহাতের নীরবতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From a Word for Reproach",
+          "bn": "অভিমানের শব্দ থেকে"
+        },
+        "p": [
+          {
+            "en": "Wa la hum yusta'tabun. Al-Qurtubi traces the word to al-'atb, which he defines as al-mawjida, displeasure held against someone. One says 'ataba 'alayhi when he is displeased with him. When he talks over with him the thing he was displeased about, he 'atabahu. When the other comes back to what pleases you, he has a'taba. The noun al-'utba is the return of the one reproached to what pleases the one who reproached him. Al-Qurtubi gives this on the authority of al-Harawi, and adds a verse of an-Nabigha.",
+            "bn": "ওয়া লা হুম ইউসতা'তাবূন। কুরতুবী শব্দটির মূল খোঁজেন আল-আতব শব্দে, যার অর্থ তাঁর ভাষায় আল-মাওজিদা, অর্থাৎ কারও প্রতি মনে জমে থাকা অসন্তোষ। কেউ কারও উপর অসন্তুষ্ট হলে বলা হয়, আতাবা আলাইহি। যে বিষয়ে অসন্তোষ, তা নিয়ে তার সঙ্গে কথা বললে বলা হয়, আতাবাহু। আর অপর পক্ষ যখন আপনার পছন্দের দিকে ফিরে আসে, তখন বলা হয়, সে আ'তাবা করেছে। বিশেষ্য আল-উতবা মানে, যাকে দোষ দেওয়া হয়েছে, দোষদাতা যাতে খুশি হন সেদিকে তার ফিরে আসা। কুরতুবী এ ব্যাখ্যা নেন হারাভী থেকে, আর সঙ্গে জুড়ে দেন নাবিগার একটি পঙ্‌ক্তি।"
+          },
+          {
+            "en": "Both al-Qurtubi and al-Baghawi gloss yusta'tabun with one word, yustardawn, they are asked to win approval, and the verse denies it. Al-Baghawi then names the core of the matter: the real meaning of istitab is to put oneself forward to seek approval, at-ta'arrud li-talab ar-rida, and this door, he says, is shut in the Hereafter to the disbelievers. The verb is passive, and so is the gloss. The verse is not about what they try to do on that Day. It is about what is no longer asked of them.",
+            "bn": "কুরতুবী ও বাগাভী, দুজনই ইউসতা'তাবূন শব্দের অর্থ দেন একটি শব্দে: ইউসতারদাওন, অর্থাৎ তাদের কাছে সন্তুষ্ট করার সুযোগ চাওয়া হবে, আর আয়াত সেটাই নাকচ করে। এরপর বাগাভী বিষয়ের মূল কথাটা বলেন: ইসতি'তাবের আসল অর্থ সন্তুষ্টি পাওয়ার জন্য নিজেকে পেশ করা, আত-তাআররুদ লি-তালাবির রিদা। আর আখিরাতে কাফিরদের জন্য এই দরজা বন্ধ। ক্রিয়াটি কর্মবাচ্যে, ব্যাখ্যার শব্দটিও তাই। আয়াতটি সেদিন তারা কী করতে চাইবে, সে কথা বলছে না। বলছে, তাদের কাছে আর কী চাওয়া হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Task Left, No Road Back",
+          "bn": "দায়ও নেই, ফেরার পথও নেই"
+        },
+        "p": [
+          {
+            "en": "The commentators then read the clause in two ways, and the difference is worth keeping. The first takes it as the end of obligation. Al-Qurtubi and al-Baghawi say, in nearly the same words, that they are not charged to please their Lord, because the Hereafter is not an abode of taklif, of being tasked. The Muyassar puts it more plainly: no one asks them to please their Lord through repentance and righteous deeds, for the time for that has passed. On this reading, nothing more is asked of them.",
+            "bn": "এরপর তাফসীরকারেরা বাক্যটি দুইভাবে পড়েন, আর পার্থক্যটা মনে রাখার মতো। প্রথম পাঠে এটি দায়িত্বের সমাপ্তি। কুরতুবী ও বাগাভী প্রায় একই শব্দে বলেন, রবকে সন্তুষ্ট করার দায় তাদের উপর আর চাপানো হবে না, কারণ আখিরাত তাকলীফের জায়গা নয়, সেখানে কাউকে কোনো কাজের দায়িত্ব দেওয়া হয় না। মুয়াসসার আরও সহজ করে বলে: তওবা আর নেক আমল দিয়ে রবকে সন্তুষ্ট করতে তাদের আর বলা হবে না, কারণ তার সময় পেরিয়ে গেছে। এ পাঠ অনুযায়ী তাদের কাছে আর কিছুই চাওয়া হবে না।"
+          },
+          {
+            "en": "The second takes it as the end of return. At-Tabari reads the clause this way alone: they are not left to go back to the world, so that they might turn and repent. As-Sa'di says that even if they ask to return to the world to make up what they missed, they are not answered and not granted that amends. The abridged English Ibn Kathir renders the clause in the same sense, with a bracket: nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness. His Arabic note on the verse gives no gloss of the word.",
+            "bn": "দ্বিতীয় পাঠে এটি ফিরে আসার পথের সমাপ্তি। তাবারী বাক্যটি কেবল এভাবেই পড়েন: তাদের দুনিয়ায় ফিরে যেতে দেওয়া হবে না, যাতে তারা ফিরে এসে তওবা করতে পারত। সা'দী বলেন, যা ছুটে গেছে তা পুষিয়ে নিতে তারা দুনিয়ায় ফেরার আবেদন করলেও সাড়া দেওয়া হবে না, সন্তুষ্ট করার সেই সুযোগও দেওয়া হবে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও বাক্যটির অর্থ করে এভাবেই, বন্ধনী দিয়ে: তওবা করতে আর আল্লাহর কাছে ক্ষমা চাইতে তাদের (দুনিয়ায় ফিরে যেতে) দেওয়া হবে না। তবে এ আয়াতে ইবন কাসীরের আরবি মূল লেখায় শব্দটির কোনো ব্যাখ্যা নেই।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi hold both. After the first reading they add that the disbelievers are not left to go back, or do not go back, to the world so as to repent. The two readings meet at one point. The pleasing of the Lord that was asked of them in the world is not asked of them there, and the road back to the world where it could still be done is closed. As-Sa'di, carrying on into 16:85, adds that the punishment then comes upon them without respite from the moment they see it.",
+            "bn": "কুরতুবী ও বাগাভী দুটো পাঠই রাখেন। প্রথম পাঠের পরপরই তাঁরা যোগ করেন, তওবা করার জন্য তাদের দুনিয়ায় ফিরতে দেওয়া হবে না, কিংবা তারা দুনিয়ায় ফিরবে না। দুই পাঠ একটি জায়গায় এসে মেলে। দুনিয়ায় তাদের কাছে রবকে সন্তুষ্ট করার যে দাবি ছিল, সেখানে তা আর থাকবে না। আর যে দুনিয়ায় সে কাজ এখনো করা যেত, সেখানে ফেরার পথও বন্ধ। সা'দী ১৬:৮৫-এর আলোচনায় এগিয়ে গিয়ে বলেন, আযাব দেখার মুহূর্ত থেকেই তা কোনো অবকাশ ছাড়া তাদের উপর নেমে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Door Still Open Here",
+          "bn": "এখানে দরজা এখনো খোলা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a Day, a witness raised from every nation, and those who disbelieved left without excuse and without a way back. It licenses nothing against any living person or community. It does not tell a reader who among the living will stand with those who disbelieved, and it hands no one the witness's place. The commentators name the witnesses as the messengers, and the judgement that follows their testimony is Allah's, not the reader's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একটি দিন, প্রত্যেক জাতি থেকে দাঁড় করানো একজন সাক্ষী, আর অজুহাত ও ফেরার পথ হারানো কাফিররা। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু বলার বা করার অনুমতি এ আয়াত দেয় না। জীবিতদের মধ্যে কে সেদিন কাফিরদের সারিতে দাঁড়াবে, তা আয়াত পাঠককে জানায় না, আর সাক্ষীর আসনও কাউকে দেয় না। তাফসীরকারদের কথায় সাক্ষী হলেন রাসূলগণ, আর তাঁদের সাক্ষ্যের পর রায় দেবেন আল্লাহ, পাঠক নয়।"
+          },
+          {
+            "en": "Read from this side of that Day, the verse speaks to the present. The door al-Baghawi calls shut in the Hereafter is the door of seeking approval, and here it still stands open. The Muyassar's words, the time for that has passed, describe that Day; the reader still lives in the time those words call past. The favours of 16:78 to 16:81 are still arriving each morning, and what 16:83 calls recognising and then denying can still become, for anyone who reads it, recognising and then giving thanks.",
+            "bn": "সেই দিনের এপার থেকে পড়লে আয়াতটি বর্তমানের কথা বলে। বাগাভী যে দরজাকে আখিরাতে বন্ধ বলেছেন, তা সন্তুষ্টি খোঁজার দরজা, আর এখানে তা এখনো খোলা। মুয়াসসারের কথা, তার সময় পেরিয়ে গেছে, সেই দিনের বর্ণনা। পাঠক এখনো বাস করছেন সেই সময়ে, যাকে ওই কথা অতীত বলছে। ১৬:৭৮ থেকে ১৬:৮১ আয়াতের নিয়ামত এখনো প্রতিদিন সকালে আসছে। আর ১৬:৮৩ যাকে বলে চিনে তারপর অস্বীকার করা, যে-কোনো পাঠকের জন্য তা এখনো হয়ে উঠতে পারে চিনে তারপর শুকরিয়া আদায় করা।"
+          }
+        ]
+      }
+    ]
+  },
   "16:88": {
     "sections": [
       {
