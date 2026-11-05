@@ -17,6 +17,8 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## WAVE 2 (2026-11-02): more ayahs.
 WAVE 2 resumed 2026-11-05 (USER: "continue enrich waves"): 7d 22% at start, NORMAL.
 USER 2026-11-05: "don't push and deploy, until I said so - keep running the Enrich wave, with 10 agents". -> commit locally only; NO push, NO firebase deploy until the user says; 10 drafters in parallel (overrides budget.js cap of 5). Unpushed from 76364b2d (v1396) on.
+STOPPED 2026-11-05 at v1531 (21:49 last; this session v1396-v1531 = 136 ayat). Nothing in flight. Pushed origin+pro and deployed (see below). RESUME in a FRESH session: queue.js -> 21:81 21:96 (PREP ready) ...; 10 drafters.
+USER 2026-11-05 (latest): "once done, stop for today, deploy and commit" + "push both remotes too" -> no new launches; ship the 10 in flight, commit, push origin+pro, firebase deploy.
 RESUMED 2026-11-05 after v1511 (USER: "don't push and deploy, until I said so - keep running the Enrich wave, with 10 agents"): 10 drafters; NO push/deploy.
 STOPPED 2026-11-05 at v1511 (116 ayat this run, v1396-v1511, 19:82 last). Nothing in flight. 7d 36% (reset Mon 9 Nov 16:00). ALL v1396-v1511 COMMITTED LOCALLY, NOT PUSHED, NOT DEPLOYED (user hold). RESUME: queue.js -> 19:87 (PREP ready) 19:91 20:18 ...; 10 drafters.
 USER 2026-11-05 (later): "once done, stop for today" -> NO new launches; ship the 10 in flight, then stop. Still NO push/deploy.
@@ -200,16 +202,26 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 19:62 | v1510 | DONE |
 | 19:72 | v1509 | DONE |
 | 19:82 | v1511 | DONE |
-| 19:87 | - | LAUNCHED 2026-11-05 |
-| 19:91 | - | LAUNCHED 2026-11-05 |
-| 20:18 | - | LAUNCHED 2026-11-05 |
-| 20:32 | - | LAUNCHED 2026-11-05 |
-| 20:38 | - | LAUNCHED 2026-11-05 |
-| 20:51 | - | LAUNCHED 2026-11-05 |
-| 20:60 | - | LAUNCHED 2026-11-05 |
-| 20:64 | - | LAUNCHED 2026-11-05 |
-| 20:73 | - | LAUNCHED 2026-11-05 |
-| 20:76 | - | LAUNCHED 2026-11-05 |
+| 19:87 | v1521 | DONE |
+| 19:91 | v1519 | DONE |
+| 20:18 | v1520 | DONE |
+| 20:32 | v1512 | DONE |
+| 20:38 | v1513 | DONE |
+| 20:51 | v1514 | DONE |
+| 20:60 | v1517 | DONE |
+| 20:64 | v1516 | DONE |
+| 20:73 | v1515 | DONE |
+| 20:76 | v1518 | DONE |
+| 20:97 | v1530 | DONE |
+| 20:108 | v1529 | DONE |
+| 20:117 | v1524 | DONE |
+| 20:130 | v1528 | DONE |
+| 21:11 | v1526 | DONE |
+| 21:22 | v1523 | DONE |
+| 21:39 | v1522 | DONE |
+| 21:49 | v1531 | DONE |
+| 21:59 | v1527 | DONE |
+| 21:73 | v1525 | DONE |
 
 ## LIVE STATE (2026-10-26 16:01, DEPTH PASS COMPLETE 2026-10-26: 301/301 short articles deep; all 1061 Tadabbur articles at deep template. USER (16:12): "run 10 at a time"; USER (later): "stop once all done for now" -> no new launches; ship the 9 in flight, then STOP. USER: no per-ayah deploy reminders; ship + push in GROUPS of >30 gated drafts (not per ayah); deploy once per group. Last group ship v1302-v1308 (7 articles). DEPLOYED 2026-10-26: live sw.js = lq-v1308 (user ran deploy; agent deploy also succeeded this time). 301/301 done. v1099-v1186 pushed, v1187-v1308 committed. LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1186. Budget at stop: 7d 0% (window reset at 16:00, next reset Mon 2 Nov 16:00), 5h ~32% (resets 18:40). In flight: none. Queue: empty. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 32:16 32:17 33:35 are PREPPED (32:16-17 is NOT a key; the shipped articles are 32:16 and 32:17 separately), then prep onward; launch 5 drafters per the skill. Lessons today: when cutting a sentence post-draft, verify the write happened and re-gate BEFORE shipping (55:46-47 shipped once with the line intact and once under the paragraph floor); ship+commit one key before shipping the next (v1147-v1148 bump-only, folded into v1149); when cutting a Bengali sentence match by position, not by pasted string (nukta encoding differs); never force-push)
 
