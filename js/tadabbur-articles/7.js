@@ -6419,6 +6419,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:176": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Signs He Slipped Out Of",
+          "bn": "যে নিদর্শন থেকে সে খসে পড়ল"
+        },
+        "p": [
+          {
+            "en": "The verse before this one opens a story: recite to them the news of the man to whom We gave Our signs, and he slipped out of them, so Satan caught up with him and he became one of those gone astray (7:175). Al-Qurtubi explains insilakh there as going out, the way a snake slips out of its skin; at-Tabari says he left the signs and disowned them. Verse 176 tells what could have happened, what did, and what he became like.",
+            "bn": "আগের আয়াতে একটি কাহিনির শুরু: তাদেরকে সেই লোকের খবর পড়ে শোনাও, যাকে আমি আমার নিদর্শন দিয়েছিলাম, কিন্তু সে সেগুলো থেকে বেরিয়ে গেল, তখন শয়তান তার পিছু নিল, আর সে পথভ্রষ্টদের দলে ঢুকে পড়ল (৭:১৭৫)। কুরতুবী সেখানে ইনসিলাখের ব্যাখ্যা দেন বেরিয়ে যাওয়া বলে, সাপ যেমন খোলস ছেড়ে বেরিয়ে আসে। তাবারী বলেন, সে নিদর্শনগুলো ছেড়ে দিল, সেগুলোর সঙ্গে সম্পর্ক অস্বীকার করল। ১৭৬ নম্বর আয়াত বলে, কী হতে পারত, কী হলো, আর সে কিসের মতো হয়ে গেল।"
+          },
+          {
+            "en": "The verse moves in steps. A possibility held back: had We willed, We would have raised him by them. The cause of the fall, in two verbs. A likeness, the dog that pants whether chased or left, widened at once to a whole people. Then a command to the Prophet ﷺ to relate the stories, so that they may reflect. First, though, the question of who the man was.",
+            "bn": "আয়াতটি এগোয় ধাপে ধাপে। প্রথমে এমন এক সম্ভাবনা, যা ঘটানো হয়নি: আমি চাইলে এগুলো দিয়ে তাকে উঁচু করতাম। তারপর পতনের কারণ, দুটি ক্রিয়ায়। তারপর উপমা, সেই কুকুর যে তাড়ালেও হাঁপায়, ছাড়লেও হাঁপায়, আর সঙ্গে সঙ্গে উপমাটি ছড়িয়ে পড়ে গোটা এক সম্প্রদায়ের উপর। শেষে নবী ﷺ-কে নির্দেশ, কাহিনিগুলো শোনাও, যাতে তারা ভাবে। তবে তার আগে প্রশ্নটা হলো, লোকটি কে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name the Verse Withholds",
+          "bn": "যে নাম আয়াত বলেনি"
+        },
+        "p": [
+          {
+            "en": "The verse gives no name, and the commentators disagree over one. At-Tabari gathers the reports under 7:175. Ibn Mas'ud, through several chains, said he was a man of the Children of Israel called Bal'am ibn Abar; Ibn Abbas, Mujahid and Ikrimah also named him Bal'am. Other reports from Ibn Abbas place him differently: one makes him a man of Yemen, and another a man of the city of the tyrants, which at-Tabari files under those who said he was one of the Canaanites.",
+            "bn": "আয়াতে কোনো নাম নেই, আর নাম নিয়ে তাফসীরকারদের মতভেদ আছে। তাবারী ৭:১৭৫ আয়াতের অধীনে বর্ণনাগুলো জড়ো করেছেন। ইবন মাসউদ (রাঃ) একাধিক সূত্রে বলেছেন, সে ছিল বনী ইসরাঈলের এক লোক, নাম বালআম ইবন আবার। ইবন আব্বাস (রাঃ), মুজাহিদ ও ইকরিমাও তার নাম বলেছেন বালআম। তবে ইবন আব্বাস (রাঃ)-এর অন্য বর্ণনায় তার পরিচয় ভিন্ন। একটিতে সে ইয়ামানের লোক। আরেকটিতে সে জাব্বারদের শহরের লোক, আর তাবারী এ বর্ণনাকে রেখেছেন তাদের মতের নিচে, যারা বলেছেন সে কানআনীদের একজন।"
+          },
+          {
+            "en": "A second line points to a man of the Prophet's own time. Abdullah ibn Amr, in several reports at-Tabari lists, said it was Umayya ibn Abi as-Salt of Thaqif, and al-Kalbi agreed, while Qatada said people were unsure between Bal'am and Umayya. Al-Qurtubi adds Zayd ibn Aslam to Umayya's side, and records that Sa'id ibn al-Musayyab named Abu Amir ibn Sayfi, who wore sackcloth before Islam and then rejected the Prophet ﷺ. A report from Ubada ibn as-Samit makes it Quraysh.",
+            "bn": "দ্বিতীয় একটি মত ইঙ্গিত করে নবী ﷺ-এর সমকালের এক লোকের দিকে। তাবারীর উদ্ধৃত কয়েকটি বর্ণনায় আবদুল্লাহ ইবন আমর (রাঃ) বলেছেন, সে সাকীফ গোত্রের উমাইয়া ইবন আবিস সালত। কালবীও তা-ই বলেছেন। কাতাদা অবশ্য বলেছেন, লোকেরা বালআম আর উমাইয়ার মধ্যে নিশ্চিত হতে পারেনি। কুরতুবী উমাইয়ার পক্ষে যায়দ ইবন আসলামের নামও যোগ করেন। তিনি আরও জানান, সাঈদ ইবনুল মুসাইয়্যিব নাম নিয়েছেন আবু আমির ইবন সাইফীর, যে জাহিলী যুগে চটের পোশাক পরত, পরে নবী ﷺ-কে অস্বীকার করে। উবাদা ইবনুস সামিত (রাঃ)-এর এক বর্ণনায় আয়াতটি কুরাইশকে নিয়ে।"
+          },
+          {
+            "en": "The commentators weigh these differently. Al-Qurtubi calls Bal'am the best-known view and the view most scholars hold, and Ibn Kathir's abridged commentary calls it well known, from Ibn Mas'ud and others of the early generations, that the verse concerns an Israelite of ancient times. At-Tabari will not decide. It may be Bal'am, he says, and it may be Umayya; no report establishes which man is meant and reason gives no pointer, so the right course is to say what Allah said. Some reports call Bal'am a prophet; al-Qurtubi quotes al-Mawardi rejecting that.",
+            "bn": "এসব মতকে তাফসীরকারেরা ভিন্ন ভিন্ন ওজন দেন। কুরতুবীর মতে বালআমের মতটিই সবচেয়ে প্রসিদ্ধ, আর অধিকাংশ আলেম এ মতেই। ইবন কাসীরের সংক্ষিপ্ত তাফসীরও বলে, ইবন মাসউদ (রাঃ) ও প্রথম যুগের আরও কয়েকজনের সূত্রে এটাই সুপরিচিত যে আয়াতটি প্রাচীন কালের এক ইসরাঈলীকে নিয়ে। তাবারী কোনো পক্ষ নেন না। তাঁর কথা, সে বালআম হতে পারে, উমাইয়াও হতে পারে। কোন লোক উদ্দেশ্য, তা কোনো বর্ণনায় প্রমাণিত নয়, যুক্তিতেও এর কোনো ইঙ্গিত নেই। তাই সঠিক পথ হলো, আল্লাহ যা বলেছেন ততটুকুই বলা। কিছু বর্ণনায় বালআমকে নবী বলা হয়েছে। কুরতুবী মাওয়ারদীর উক্তি এনেছেন, যিনি একে নাকচ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Raising Would Have Meant",
+          "bn": "উঁচু করা মানে কী হতো"
+        },
+        "p": [
+          {
+            "en": "Wa-law shi'na la-rafa'nahu biha: had We willed, We would have raised him by them. At-Tabari reports two early readings. Ibn Abbas said Allah would have raised him by his knowledge of them. Mujahid, in two chains, said we would have removed it from him, meaning, at-Tabari explains, the state of disbelief he came to. Al-Baghawi gives Mujahid and Ata as saying We would have lifted the disbelief from him and protected him by the signs. At-Tabari's own judgement is that the raising is left general.",
+            "bn": "ওয়া লাও শি'না লারাফা'নাহু বিহা: আমি চাইলে এগুলো দিয়ে তাকে উঁচু করতাম। তাবারী প্রথম যুগের দুটি ব্যাখ্যা আনেন। ইবন আব্বাস (রাঃ) বলেছেন, এগুলোর জ্ঞান দিয়েই আল্লাহ তাকে উঁচু করতেন। মুজাহিদ দুটি সূত্রে বলেছেন, আমি তার থেকে তা সরিয়ে দিতাম। তাবারী বুঝিয়ে দেন, সরানোর কথা সেই কুফরির অবস্থা নিয়ে, যেখানে সে গিয়ে পৌঁছেছিল। বাগাভী মুজাহিদ ও আতার কথা এভাবে আনেন: আমি তার থেকে কুফর তুলে নিতাম, আর নিদর্শনগুলো দিয়ে তাকে রক্ষা করতাম। তাবারীর নিজের রায় হলো, এখানে উঁচু করার কথাটা খোলা রাখা হয়েছে, কোনো একটি অর্থে বাঁধা হয়নি।"
+          },
+          {
+            "en": "Raising, at-Tabari says, covers many things: rank with Allah, honour in this world, a good name and high praise. Allah may have meant all of it, given by enabling the man to act on his signs, and since no report or reason narrows it, none of it should be singled out. As-Sa'di reads it the same way: helped to act on them, he would have risen in this world and the next. Al-Qurtubi differs: had We willed, We would have caused him to die before he disobeyed, and so raised him to Paradise.",
+            "bn": "তাবারী বলেন, উঁচু করার মধ্যে অনেক কিছু পড়ে: আল্লাহর কাছে মর্যাদা, দুনিয়ার সম্মান, সুনাম আর উঁচু প্রশংসা। আল্লাহ হয়তো এর সবই বুঝিয়েছেন, আর তা আসত নিদর্শন অনুযায়ী আমল করার তাওফীক দিয়ে। কোনো বর্ণনা বা যুক্তি যেহেতু অর্থটাকে সংকুচিত করে না, তাই এর কোনো অংশকে আলাদা করে বেছে নেওয়া ঠিক নয়। সা'দীর পাঠও একই রকম: নিদর্শন অনুযায়ী চলার তাওফীক পেলে সে দুনিয়া ও আখিরাতে উপরে উঠত। কুরতুবীর ব্যাখ্যা ভিন্ন। তাঁর মতে অর্থ এই: আমি চাইলে নাফরমানির আগেই তার মৃত্যু দিতাম, আর এভাবে তাকে জান্নাতে তুলে নিতাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Settled Into the Ground",
+          "bn": "মাটিতেই সে থিতু হলো"
+        },
+        "p": [
+          {
+            "en": "Wa-lakinnahu akhlada ila al-ard: but he clung to the earth. At-Tabari gives the root sense in Arabic speech as lingering and staying: akhlada fulan bil-makan, someone stayed on in a place. He cites a line of Zuhayr in which al-mukhlid is the one that stays put, and some Basran grammarians who glossed the verb as clung, held back and lagged. Al-Qurtubi likewise says the root is to stick fast, and that the earth stands for its pleasures, because the goods of this world lie on its face.",
+            "bn": "ওয়া লাকিন্নাহু আখলাদা ইলাল আরদ: কিন্তু সে মাটি আঁকড়ে ধরল। তাবারী জানান, আরবদের ভাষায় ইখলাদের মূল অর্থ দেরি করা আর থেকে যাওয়া। কেউ কোনো জায়গায় রয়ে গেলে বলা হয়, আখলাদা ফুলানুন বিল মাকান। তিনি যুহাইরের একটি চরণ আনেন, যেখানে আল-মুখলিদ মানে যে এক জায়গায় পড়ে থাকে। বসরার কিছু ব্যাকরণবিদের ব্যাখ্যাও আনেন: আঁকড়ে থাকা, পিছিয়ে থাকা, ঢিলেমি করা। কুরতুবীও বলেন, শব্দটির মূলে আছে লেগে থাকা। আর মাটি বলে বোঝানো হয়েছে মাটির ভোগবিলাস, কারণ দুনিয়ার সব সামগ্রী মাটির উপরেই।"
+          },
+          {
+            "en": "The early glosses vary the picture. Sa'id ibn Jubayr, in at-Tabari, says he leaned on the earth, and in another chain that he was drawn toward it; Mujahid says he settled in it. Ibn Abbas, in a report at-Tabari gives, says he clung to the earth's desires, its pleasure and its wealth, and did not profit from the Book he was given. As-Sa'di reads the earth as low desires and worldly aims, and al-Baghawi says it means this world, whose goods are all drawn out of the ground.",
+            "bn": "প্রথম যুগের ব্যাখ্যাগুলো ছবিটাকে নানা দিক থেকে দেখায়। তাবারীর বর্ণনায় সাঈদ ইবন জুবাইর বলেন, সে মাটির উপর ভর দিল। অন্য সূত্রে তিনি বলেন, সে মাটির দিকে ঝুঁকে গেল। মুজাহিদ বলেন, সে মাটিতে থিতু হলো। তাবারীর আনা এক বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, সে আঁকড়ে ধরল মাটির কামনা, তার ভোগ আর তার ধনসম্পদ, আর যে কিতাব তাকে দেওয়া হয়েছিল তা থেকে কোনো উপকার নিল না। সা'দীর কাছে মাটি মানে নিচু কামনা আর দুনিয়াবি লক্ষ্য। বাগাভী বলেন, মাটি এখানে দুনিয়া, কারণ দুনিয়ার সব সামগ্রী মাটি থেকেই বের করা হয়।"
+          },
+          {
+            "en": "Then wa-ttaba'a hawahu: and he followed his desire. At-Tabari explains it as refusing obedience to Allah and going against His command. Ibn Zayd said his desire lay with the people, and Ata, in al-Baghawi, said he wanted this world and obeyed his devil. The two verbs belong together. The ground holds him from below, and desire leads him away from the signs he had been given.",
+            "bn": "তারপর ওয়াত্তাবাআ হাওয়াহু: আর সে নিজের খেয়ালখুশির পেছনে চলল। তাবারীর ব্যাখ্যায় এর মানে, আল্লাহর আনুগত্য প্রত্যাখ্যান করা আর তাঁর হুকুমের বিরুদ্ধে যাওয়া। ইবন যায়দ বলেছেন, তার মন পড়ে ছিল ওই লোকদের সঙ্গে। বাগাভীর বর্ণনায় আতা বলেন, সে দুনিয়া চেয়েছিল আর নিজের শয়তানের কথা মেনেছিল। দুটি ক্রিয়া একসঙ্গেই চলে। মাটি তাকে নিচ থেকে আটকে রাখে, আর খেয়ালখুশি তাকে পাওয়া নিদর্শন থেকে দূরে সরিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Panting, Chased or Left Alone",
+          "bn": "তাড়ালেও হাঁপায়, ছাড়লেও"
+        },
+        "p": [
+          {
+            "en": "Fa-mathaluhu ka-mathali al-kalb: his likeness is the likeness of the dog; if you drive at it, it pants, or if you leave it, it pants. Al-Qurtubi gives al-Jawhari's definition: lahatha is said when a dog puts out its tongue from tiredness or thirst. He and al-Baghawi both cite al-Qutaybi: every other creature pants only from exhaustion or thirst, but the dog pants when worn out and when at rest, sick and healthy, thirsty and watered. That is the force of the image: a state that does not change with the circumstance.",
+            "bn": "ফামাসালুহু কামাসালিল কালব: তার উপমা কুকুরের উপমা। তাড়া করলে হাঁপায়, ছেড়ে দিলেও হাঁপায়। কুরতুবী জাওহারীর সংজ্ঞা আনেন: ক্লান্তি বা পিপাসায় কুকুর জিভ বের করলে বলা হয় লাহাসা। কুরতুবী ও বাগাভী দুজনেই কুতাইবীর কথা উদ্ধৃত করেন। অন্য সব প্রাণী হাঁপায় কেবল ক্লান্ত হলে বা পিপাসা পেলে। কিন্তু কুকুর হাঁপায় ক্লান্তিতেও, বিশ্রামেও, অসুখেও, সুস্থ অবস্থাতেও, পিপাসায়ও, পেট ভরা থাকলেও। উপমার জোর এখানেই। অবস্থা যা-ই হোক, তার দশা বদলায় না।"
+          },
+          {
+            "en": "At-Tabari reports two explanations of the likeness. The first: he abandoned acting on the signs, so that warned or not warned, he stayed as he was. Mujahid said it is the likeness of someone who reads the Book and does not act on it; Ibn Abbas, that if you load wisdom on him he does not carry it. Qatada called it the likeness of the disbeliever with a dead heart, and reported al-Hasan as saying he is the hypocrite. The second is as-Suddi's: Bal'am actually panted as a dog pants.",
+            "bn": "এ উপমার দুটি ব্যাখ্যা তাবারী আনেন। প্রথমটি হলো, সে নিদর্শন অনুযায়ী আমল ছেড়ে দিয়েছিল। ফলে উপদেশ দেওয়া হোক বা না হোক, সে যেমন ছিল তেমনই থাকত। মুজাহিদ বলেন, এ উপমা সেই লোকের, যে কিতাব পড়ে কিন্তু সে অনুযায়ী চলে না। ইবন আব্বাস (রাঃ) বলেন, তার উপর হিকমতের বোঝা দিলে সে তা বয় না। কাতাদা বলেন, এ উপমা মরা অন্তরের কাফিরের। তিনি হাসানের এ কথাও বর্ণনা করেন যে সে মুনাফিক। দ্বিতীয় ব্যাখ্যাটি সুদ্দীর: বালআম সত্যিই কুকুরের মতো হাঁপাত।"
+          },
+          {
+            "en": "Ibn Kathir links that second view to Ibn Ishaq's account, in which Bal'am's tongue fell out onto his chest. At-Tabari prefers the first, reasoning from the verse itself: it calls this the likeness of the people who denied Our signs, and panting is not part of every denier's make-up, so it must be a likeness. Al-Baghawi and al-Qurtubi both set beside it 7:193, it is the same to you whether you call them or stay silent; Ibn Kathir sets 2:6 and 9:80.",
+            "bn": "ইবন কাসীর দ্বিতীয় মতটিকে মিলিয়ে দেখান ইবন ইসহাকের বর্ণনার সঙ্গে, যেখানে বালআমের জিভ বেরিয়ে বুকের উপর ঝুলে পড়েছিল। তাবারী প্রথম মতটিকে অগ্রাধিকার দেন, আর যুক্তিটা নেন আয়াত থেকেই। আয়াত একে বলছে তাদের উপমা, যারা আমার নিদর্শনকে মিথ্যা বলেছে। অথচ মিথ্যা প্রতিপন্নকারী সবার শরীরে হাঁপানো নেই। তাই এটা উপমাই। বাগাভী ও কুরতুবী দুজনেই এর পাশে রাখেন ৭:১৯৩ আয়াত: তোমরা তাদের ডাকো বা চুপ থাকো, তোমাদের জন্য দুটোই সমান। ইবন কাসীর পাশে রাখেন ২:৬ ও ৯:৮০ আয়াত।"
+          },
+          {
+            "en": "Others read the panting from inside. Ibn Kathir reports a third view, traced to al-Hasan al-Basri and others: a heart empty of guidance is weak, and so it throbs without rest. As-Sa'di reads it as greed: in the strength of his craving for the world, the man is like the dog that never stops panting, and nothing of this world fills his need. Al-Qurtubi quotes others calling it the worst of likenesses, since desire has so mastered the man that he cannot stop himself.",
+            "bn": "কেউ কেউ হাঁপানোটা বোঝেন ভেতরের দিক থেকে। ইবন কাসীর তৃতীয় একটি মত আনেন, যা হাসান বসরী ও অন্যদের সূত্রে এসেছে: হিদায়াত থেকে খালি অন্তর দুর্বল, তাই তা অবিরাম ধুকপুক করে। সা'দী একে দেখেন লোভ হিসেবে। দুনিয়ার প্রতি তীব্র লালসার কারণে লোকটি সেই কুকুরের মতো, যার হাঁপানো কখনো থামে না, আর দুনিয়ার কোনো কিছুই তার অভাব মেটায় না। কুরতুবী অন্যদের উক্তি আনেন যে এটি সবচেয়ে মন্দ উপমা, কারণ খেয়ালখুশি লোকটিকে এমনভাবে কাবু করেছে যে সে নিজেকে থামাতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From One Man to a People",
+          "bn": "এক মানুষ থেকে গোটা সম্প্রদায়"
+        },
+        "p": [
+          {
+            "en": "Dhalika mathalu al-qawmi alladhina kadhdhabu bi-ayatina: that is the likeness of the people who denied Our signs. At-Tabari says the likeness belongs to all who denied Allah's proofs and took the same road, leaving off acting on what they were given. Al-Baghawi says Allah here made the likeness general to all who deny His signs, and adds, as something said, that it concerns the disbelievers of Makkah, who had wished for a guide and then denied him when he came.",
+            "bn": "যালিকা মাসালুল কাওমিল্লাযীনা কায্যাবূ বিআয়াতিনা: এটাই তাদের উপমা, যারা আমার নিদর্শনকে মিথ্যা বলেছে। তাবারী বলেন, উপমাটি খাটে তাদের সবার উপর, যারা আল্লাহর প্রমাণগুলো অস্বীকার করেছে আর একই পথে হেঁটেছে, যা পেয়েছিল সে অনুযায়ী আমল ছেড়ে দিয়েছে। বাগাভীর মতে, আল্লাহ এখানে উপমাটিকে নিদর্শন অস্বীকারকারী সবার জন্য সাধারণ করে দিয়েছেন। তিনি 'বলা হয়' দিয়ে আরও আনেন যে এটি মক্কার কাফিরদের নিয়ে। তারা একজন পথপ্রদর্শকের আশা করেছিল, অথচ তিনি এলে তাঁকেই অস্বীকার করল।"
+          },
+          {
+            "en": "Al-Qurtubi reports that many scholars hold the likeness general for everyone given the Qur'an who does not act on it; others say every hypocrite, and he calls the first sounder. Then the command: fa-qsusi al-qasas la'allahum yatafakkarun. At-Tabari says it is addressed to the Prophet ﷺ, to relate this to Quraysh and the Jews near him. The story was hidden learning of their rabbis, so an unlettered man telling it was proof of revelation. As-Sa'di adds: if they reflect, they will know, and if they know, they will act.",
+            "bn": "কুরতুবী জানান, অনেক আলেমের মতে উপমাটি সাধারণ, যাকেই কুরআন দেওয়া হয়েছে অথচ সে অনুযায়ী চলে না, সবার জন্য। অন্যরা বলেন, এটি প্রত্যেক মুনাফিকের জন্য। কুরতুবী প্রথম মতটিকে বেশি সঠিক বলেন। এরপর নির্দেশ: ফাকসুসিল কাসাসা লাআল্লাহুম ইয়াতাফাক্কারূন। তাবারী বলেন, কথাটি নবী ﷺ-কে বলা, তিনি যেন কুরাইশ আর আশপাশের ইহুদিদের এ কাহিনি শোনান। এ কাহিনি ছিল তাদের পণ্ডিতদের গোপন জ্ঞান। তাই লিখতে-পড়তে না জানা একজনের মুখে তা শোনাটাই ওহির প্রমাণ। সা'দী যোগ করেন: তারা ভাবলে জানবে, আর জানলে আমল করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hardest Verse on Scholars",
+          "bn": "আলেমদের উপর সবচেয়ে কঠিন আয়াত"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi calls this the hardest verse on scholars. Allah tells of a man given knowledge, wisdom and prayers that were answered, who by settling into this world and following desire brought on himself the loss of that blessing. And who, al-Baghawi asks, is safe from these two traits, except the one Allah protects? He then cites, with his own chain through Ibn al-Mubarak, a saying of the Prophet ﷺ that at-Tirmidhi also records, as number 2376, from Ka'b ibn Malik.",
+            "bn": "বাগাভী একে বলেছেন আলেমদের উপর সবচেয়ে কঠিন আয়াত। আল্লাহ এমন এক লোকের খবর দিচ্ছেন, যাকে জ্ঞান, হিকমত আর কবুল হওয়া দোয়া দেওয়া হয়েছিল। দুনিয়াতে থিতু হয়ে আর খেয়ালখুশির পেছনে চলে সে নিজেই সেই নিয়ামত হারানোর পথ তৈরি করল। বাগাভীর প্রশ্ন: আল্লাহ যাকে রক্ষা করেন, সে ছাড়া এ দুই স্বভাব থেকে কে নিরাপদ? এরপর তিনি ইবনুল মুবারকের মধ্য দিয়ে নিজের সনদে নবী ﷺ-এর একটি বাণী আনেন। তিরমিযীও কা'ব ইবন মালিক (রাঃ)-এর সূত্রে এটি ২৩৭৬ নম্বরে বর্ণনা করেছেন।"
+          },
+          {
+            "en": "In at-Tirmidhi's wording, the Prophet ﷺ said: \"Two hungry wolves let loose among sheep do no more damage to them than a man's greed for wealth and status does to his religion.\" At-Tirmidhi grades it hasan sahih. The narration is general and does not mention this verse; al-Baghawi places it here as a gloss on the two traits. Al-Qurtubi draws his own lessons: no one should be deceived by his deeds or his learning, since he does not know how his life will be sealed.",
+            "bn": "তিরমিযীর ভাষ্যে নবী ﷺ বলেছেন: \"ছাগলের পালে ছেড়ে দেওয়া দুটি ক্ষুধার্ত নেকড়ে পালের যতটা ক্ষতি করে, সম্পদ আর মর্যাদার প্রতি মানুষের লোভ তার দ্বীনের ক্ষতি করে তার চেয়ে কম নয়।\" তিরমিযী একে হাসান সহীহ বলেছেন। বর্ণনাটি সাধারণ, এতে এ আয়াতের উল্লেখ নেই। বাগাভী এখানে এনেছেন ওই দুই স্বভাবের ব্যাখ্যা হিসেবে। কুরতুবী নিজের কিছু শিক্ষা টানেন। কেউ যেন নিজের আমল বা জ্ঞান নিয়ে ধোঁকায় না পড়ে, কারণ তার শেষটা কেমন হবে সে জানে না।"
+          },
+          {
+            "en": "He also infers that no scholar is to be followed without a proof he makes clear, since Allah tells of a man given His signs who slipped out of them, and the same must be feared for others. That is a caution about following, not a charge against anyone. This verse describes what the text describes: an unnamed man, and the people who denied Allah's signs. It licenses nothing against any living person or community, and gives no one leave to call a scholar or a group the dog of this verse.",
+            "bn": "কুরতুবী আরও সিদ্ধান্ত টানেন, স্পষ্ট দলিল ছাড়া কোনো আলেমের অনুসরণ করা যাবে না। কারণ আল্লাহ জানিয়েছেন, এক লোককে তাঁর নিদর্শন দেওয়া হয়েছিল, তবু সে তা থেকে বেরিয়ে গেছে। কাজেই অন্যদের বেলাতেও এমন আশঙ্কা থাকে। এটা অনুসরণের বিষয়ে সতর্কতা, কারও বিরুদ্ধে অভিযোগ নয়। আয়াতটি ততটুকুই বর্ণনা করে, যতটুকু এর ভাষায় আছে: নামহীন এক লোক, আর সেই সম্প্রদায়, যারা আল্লাহর নিদর্শনকে মিথ্যা বলেছে। জীবিত কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো আলেম বা দলকে এ আয়াতের কুকুর বলার অধিকারও কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Settling Sets In",
+          "bn": "থিতিয়ে পড়ার আগেই"
+        },
+        "p": [
+          {
+            "en": "The verse places the failure not in what the man lacked but in where he leaned. He had the signs, and they could have raised him in rank, honour and name. What held him down was akhlada, a slow settling that the commentators trace to staying put. Few people decide in a moment to abandon what they know. They settle, little by little, into what the ground offers, and desire does the walking. The verse asks you to notice the settling while it is still small.",
+            "bn": "আয়াতটি ব্যর্থতার কারণ খোঁজে না লোকটির কী ছিল না তাতে, বরং সে কোন দিকে ঝুঁকেছিল তাতে। নিদর্শন তার কাছে ছিল, আর সেগুলো তাকে মর্যাদায়, সম্মানে আর সুনামে উঁচু করতে পারত। তাকে নিচে আটকে রাখল আখলাদা, ধীরে ধীরে থিতিয়ে পড়া। তাফসীরকারেরা শব্দটির মূল খুঁজে পান এক জায়গায় পড়ে থাকার মধ্যে। খুব কম মানুষই হঠাৎ ঠিক করে যে জানা জিনিস ছেড়ে দেবে। তারা অল্প অল্প করে থিতিয়ে পড়ে মাটি যা দেয় তাতে, আর বাকি পথটা হাঁটিয়ে নেয় খেয়ালখুশি। আয়াত চায়, থিতিয়ে পড়াটা ছোট থাকতেই আপনি টের পান।"
+          },
+          {
+            "en": "Two habits answer it. The first is to turn knowledge into action quickly, since the commentators read the dog as a man for whom being warned and not being warned had become the same. The second is to keep al-Baghawi's question, who is safe from these two traits, aimed at yourself. Ask Allah to make what you know a means of raising you, not a cause of disgrace. Then relate this story, as the verse commands, and be the first to reflect on it.",
+            "bn": "এর জবাব দুটি অভ্যাসে। প্রথমটি হলো, যা জানলেন তা দ্রুত আমলে নামানো। তাফসীরকারেরা কুকুরের উপমায় এমন মানুষকেই দেখেছেন, যার কাছে সতর্ক করা আর না করা একই হয়ে গেছে। দ্বিতীয়টি হলো, বাগাভীর প্রশ্নটা, এ দুই স্বভাব থেকে কে নিরাপদ, নিজের দিকেই তাক করে রাখা। আল্লাহর কাছে চান, আপনার জানা যেন আপনাকে উপরে তোলার মাধ্যম হয়, অপমানের কারণ না হয়। তারপর আয়াতের নির্দেশমতো কাহিনিটা শোনান, আর তা নিয়ে প্রথমে ভাবুন আপনি নিজেই।"
+          }
+        ]
+      }
+    ]
+  },
   "7:180": {
     "sections": [
       {

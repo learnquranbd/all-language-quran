@@ -20851,6 +20851,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take what Allah has given you with a resolve that does not slacken, reach for the best of it rather than the least of it, and let the ruins of the defiant warn you.",
     "lessonBn": "আল্লাহ যা দিয়েছেন তা এমন দৃঢ় সংকল্পে ধরুন যা ঢিলে হয় না। এর সবচেয়ে কমটুকু নয়, উত্তমটুকু আঁকড়ে ধরুন, আর নাফরমানদের ধ্বংসাবশেষ থেকে নিজে সতর্ক হোন।"
+  },
+  "7:176": {
+    "reflectionEn": "He was given signs, and the verse says they could have lifted him. Instead he clung to the ground and went after what he wanted. Then comes a picture no reader forgets: a dog that pants when you chase it and pants when you leave it alone. Warning him and leaving him had come to the same thing. Knowledge was never what he lacked. He knew, and the knowing did not move him, because his heart had settled somewhere lower. The verse is told so that people will think, and the thinking is meant for me before anyone else. What do I know that has not yet lifted me? Which pleasure keeps pulling me down? And when I am warned, does anything in me change?",
+    "reflectionBn": "তাকে নিদর্শন দেওয়া হয়েছিল। আয়াত বলছে, সেগুলো দিয়েই তাকে উঁচুতে তোলা যেত। কিন্তু সে মাটি আঁকড়ে রইল, ছুটল নিজের চাওয়ার পেছনে। তারপর এমন এক ছবি, যা একবার পড়লে ভোলা যায় না: কুকুর, তাড়া করলেও হাঁপায়, ছেড়ে দিলেও হাঁপায়। তাকে সতর্ক করা আর না করা তখন একই কথা। তার জ্ঞানের অভাব ছিল না। সে জানত, কিন্তু জানাটা তাকে নড়াতে পারেনি, কারণ মন থিতু হয়ে গিয়েছিল আরও নিচে। কাহিনিটা শোনানো হয় যাতে মানুষ ভাবে, আর সেই ভাবনা আগে আমার নিজের জন্য। এমন কী জানি, যা এখনো আমাকে উপরে তোলেনি? কোন ভোগ আমাকে বারবার নিচে টানে? আর কেউ সতর্ক করলে আমার ভেতরে কি কিছু বদলায়?",
+    "pointsEn": [
+      "Which thing I already know about my Lord has stayed in my head and never reached my habits?",
+      "What pulls me toward the ground most often: money, standing, comfort, or the approval of the people around me?",
+      "The last time I was reminded of something I was neglecting, did anything change, or did I carry on exactly as before?",
+      "Do I use what I have learned to come closer to Allah, or to win arguments and impress people?",
+      "When I hear this verse, do I think first of someone else, or do I check my own heart?"
+    ],
+    "pointsBn": [
+      "আমার রব সম্পর্কে যা আমি আগেই জানি, তার কোনটা মাথাতেই আটকে আছে, অভ্যাসে কখনো নামেনি?",
+      "কোন জিনিস আমাকে সবচেয়ে বেশি মাটির দিকে টানে: টাকা, পদমর্যাদা, আরাম, নাকি চারপাশের মানুষের বাহবা?",
+      "শেষবার যখন অবহেলা করা কোনো কাজের কথা কেউ মনে করিয়ে দিয়েছিল, কিছু কি বদলেছিল, নাকি আমি আগের মতোই চলেছি?",
+      "যা শিখেছি তা দিয়ে কি আমি আল্লাহর কাছে যেতে চাই, নাকি তর্কে জিততে আর মানুষকে মুগ্ধ করতে?",
+      "এ আয়াত শুনলে আগে কি অন্য কারও কথা মনে পড়ে, নাকি নিজের মনটা যাচাই করি?"
+    ],
+    "lessonEn": "Knowledge lifts only the one who acts on it; do not let the pull of the world and your own desire turn what you know into a weight.",
+    "lessonBn": "জ্ঞান কেবল তাকেই উপরে তোলে, যে সে অনুযায়ী আমল করে। দুনিয়ার টান আর নিজের খেয়ালখুশি যেন আপনার জানাকে বোঝা বানিয়ে না ফেলে।"
   }
 };
 
