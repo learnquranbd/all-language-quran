@@ -21131,6 +21131,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the hypocrites' verdict as a warning to yourself, not a label for others: search your own speech, promises and remembrance, and leave what you find there.",
     "lessonBn": "মুনাফিকদের পরিণতির আয়াতকে অন্যের গায়ে সাঁটার তকমা না বানিয়ে নিজের জন্য সতর্কবার্তা হিসেবে পড়ুন। নিজের কথা, ওয়াদা আর জিকির খুঁজে দেখুন, আর যা পান তা ছেড়ে দিন।"
+  },
+  "9:14": {
+    "reflectionEn": "Some wrongs do not leave when the people who did them leave. They stay lodged in the chest, sore, and the mind keeps going back to them. This verse was spoken to the believers of the Prophet's own time, about a people who had broken their oaths and struck first, and it promises that Allah would heal the breasts of those they had wronged. The healing is Allah's act, not the hurt person's. The next verse adds that He would take away the rage of their hearts, and that He turns to whom He wills, perhaps even to the one who did the wrong. So the verse is no warrant for anyone's anger today. It asks me where I take the wound I carry.",
+    "reflectionBn": "কিছু অন্যায় এমন, যারা করেছে তারা চলে গেলেও অন্যায়টা যায় না। বুকের ভেতর আটকে থাকে, টনটন করে, আর মন বারবার সেখানেই ফিরে যায়। এ আয়াত নাযিল হয়েছিল নবী ﷺ-এর নিজের যুগের মুমিনদের উদ্দেশে, এমন এক সম্প্রদায় সম্পর্কে, যারা শপথ ভেঙেছিল আর আগে আঘাত করেছিল। আয়াতটি কথা দেয়, যাদের উপর তারা জুলুম করেছে, আল্লাহ তাদের বুক শীতল করবেন। নিরাময়টা আল্লাহর কাজ, আহত মানুষের নিজের হাতের কাজ নয়। পরের আয়াত যোগ করে, তিনি তাদের অন্তরের ক্ষোভ দূর করবেন, আর যাকে চান তার তওবা কবুল করেন, হয়তো যে জুলুম করেছিল তারও। তাই আজ কারও রাগের পক্ষে এ আয়াত কোনো সনদ নয়। এ আয়াত বরং আমাকে জিজ্ঞেস করে: বুকের এই ক্ষত নিয়ে আমি কার কাছে যাই?",
+    "pointsEn": [
+      "Which old wrong still sits in my chest, and how often this week has my mind gone back to it?",
+      "Have I tried to heal that soreness myself, by getting even in words or in silence, instead of asking Allah to heal it?",
+      "If Allah turned the person who hurt me to repentance, would I be glad, or would part of me feel cheated?",
+      "When I read a verse about fighting, do I first ask whom it was addressed to and why, or do I reach for it to feed a quarrel of my own?",
+      "What would it look like for me to leave the settling of a grievance to Allah's justice and get on with doing right?"
+    ],
+    "pointsBn": [
+      "কোন পুরোনো অন্যায় এখনো আমার বুকে বসে আছে? এ সপ্তাহে কতবার মন সেখানে ফিরে গেছে?",
+      "সেই ব্যথা কি আমি নিজেই সারাতে চেয়েছি, কথায় বা চুপ থেকে শোধ নিয়ে, আল্লাহর কাছে নিরাময় না চেয়ে?",
+      "যে আমাকে কষ্ট দিয়েছে, আল্লাহ যদি তাকে তওবার পথে ফিরিয়ে আনেন, আমি কি খুশি হব, নাকি মনের এক কোণে ঠকে যাওয়ার অনুভূতি জাগবে?",
+      "যুদ্ধের কোনো আয়াত পড়লে আমি কি আগে জিজ্ঞেস করি এটা কাদের উদ্দেশে আর কেন নাযিল হয়েছিল, নাকি নিজের কোনো বিবাদে ইন্ধন জোগাতে সেটা টেনে আনি?",
+      "অভিযোগের নিষ্পত্তি আল্লাহর ইনসাফের হাতে ছেড়ে দিয়ে নিজে সৎ কাজে লেগে থাকা আমার জীবনে দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Healing a wounded heart is Allah's work: carry your grievance to Him instead of taking revenge yourself, and leave room for Him to turn even the wrongdoer to repentance.",
+    "lessonBn": "আহত অন্তরের নিরাময় আল্লাহর কাজ। নিজে প্রতিশোধ না নিয়ে অভিযোগটা তাঁর কাছে নিয়ে যান, আর জুলুমকারীকেও তিনি তওবার পথে ফিরিয়ে আনতে পারেন, সে জায়গাটুকু খোলা রাখুন।"
   }
 };
 

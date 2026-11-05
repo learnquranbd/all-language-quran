@@ -451,6 +451,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer to Three Questions",
+          "bn": "তিন প্রশ্নের পরের জবাব"
+        },
+        "p": [
+          {
+            "en": "The verse before this one ends in questions. 9:13 asks whether the believers would not fight a people who broke their oaths, who determined to expel the Messenger, and who began against them the first time. Then it asks, do you fear them? and answers that Allah has more right to be feared, if you are believers. 9:14 opens with no connecting word at all. Qatiluhum, fight them: one imperative, and its pronoun points straight back at the people 9:13 has just described by three deeds.",
+            "bn": "আগের আয়াতটি শেষ হয়েছে কয়েকটি প্রশ্নে। ৯:১৩ জানতে চায়, যারা শপথ ভেঙেছে, রসূলকে বের করে দেওয়ার সংকল্প করেছে আর প্রথমবার তোমাদের বিরুদ্ধে তারাই শুরু করেছে, তাদের বিরুদ্ধে কি তোমরা লড়বে না? তারপর প্রশ্ন: তোমরা কি তাদের ভয় পাও? জবাবও সেখানেই আছে: তোমরা মুমিন হলে ভয় পাওয়ার বেশি হকদার আল্লাহ। ৯:১৪ শুরু হয় কোনো সংযোজক শব্দ ছাড়াই। কাতিলূহুম, তাদের বিরুদ্ধে লড়াই করো। একটিমাত্র আদেশ, আর তার সর্বনামটি সোজা ফিরে যায় সেই লোকদের দিকে, ৯:১৩ যাদের পরিচয় দিয়েছে তিনটি কাজ দিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir introduces the verse as a resolve laid upon the believers and an explanation of Allah's wisdom in what He legislated for them, while He was able to destroy the enemies by a command from Himself. At-Tabari names the addressees and the targets together: fight, O you who believe in Allah and His Messenger, these idolaters who broke their oaths, undid the covenants between you and them, and drove the Messenger of Allah ﷺ out from among them. As-Sa'di calls the whole passage a spur and a rousing of the believers.",
+            "bn": "ইবন কাসীর আয়াতটির পরিচয় দেন এভাবে: এটি মুমিনদের উপর আরোপিত এক দৃঢ় নির্দেশ, আর তাদের জন্য যে বিধান দেওয়া হয়েছে তাতে আল্লাহর হিকমতের ব্যাখ্যা। অথচ নিজের এক আদেশেই শত্রুদের ধ্বংস করে দেওয়ার ক্ষমতা তাঁর ছিল। কাদের বলা হচ্ছে আর কাদের বিরুদ্ধে, তাবারী তা একসঙ্গেই বলে দেন। হে আল্লাহ ও তাঁর রসূলের প্রতি ঈমান আনা লোকেরা, লড়াই করো এই মুশরিকদের বিরুদ্ধে, যারা শপথ ভেঙেছে, তোমাদের সঙ্গে করা চুক্তি ছিন্ন করেছে আর আল্লাহর রসূল ﷺ-কে নিজেদের মাঝ থেকে বের করে দিয়েছে। সা'দী পুরো অংশটিকে বলেন মুমিনদের প্রতি উৎসাহ আর তাদের জাগিয়ে তোলার আহ্বান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Results, One Agent",
+          "bn": "পাঁচ ফল, একজন কর্তা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi parses the sentence. Qatiluhum is a command and yu'adhdhibhum is its answer, in the jussive with the sense of a condition, so the meaning runs: if you fight them, Allah will punish them by your hands, disgrace them, give you victory over them and heal the breasts of a believing people. All of it, he adds, is joined by coordination. The next verse carries the chain one step further with wa-yudhhib, and He will remove. That makes five results, and in every one of them the subject of the verb is Allah.",
+            "bn": "কুরতুবী বাক্যটির ব্যাকরণ খুলে দেখান। কাতিলূহুম হলো আদেশ, আর ইউআযযিবহুম তার জবাব। ক্রিয়াটি জযমযুক্ত, অর্থে শর্ত আর তার ফল। মানে দাঁড়ায়: যদি তোমরা তাদের বিরুদ্ধে লড়াই করো, আল্লাহ তোমাদের হাতে তাদের শাস্তি দেবেন, তাদের লাঞ্ছিত করবেন, তাদের বিরুদ্ধে তোমাদের সাহায্য করবেন আর মুমিন সম্প্রদায়ের বুক শীতল করবেন। তিনি যোগ করেন, এর সবই একটির সঙ্গে আরেকটি জোড়া। পরের আয়াত ওয়া ইউযহিব, আর তিনি দূর করবেন, দিয়ে শিকলটা আরও এক ধাপ টেনে নেয়। ফল দাঁড়াল পাঁচটি, আর প্রতিটি ক্রিয়ার কর্তা আল্লাহ।"
+          },
+          {
+            "en": "At-Tabari glosses each result in turn. Yu'adhdhibhum: Allah will kill them by your hands. Yukhzihim: He will humble them by captivity and subjugation. Yansurkum: He will give you triumph and the upper hand over them. Al-Baghawi repeats the first two glosses almost word for word. The Muyassar renders the disgrace as humiliation by defeat, and slips in a phrase of its own, that He will raise His word. As-Sa'di stops at the promise of victory and calls it a promise and glad tidings from Allah which He fulfilled.",
+            "bn": "তাবারী একে একে প্রতিটি ফলের ব্যাখ্যা দেন। ইউআযযিবহুম: আল্লাহ তোমাদের হাতে তাদের হত্যা করবেন। ইউখযিহিম: বন্দিত্ব আর পরাভবের মাধ্যমে তাদের অপদস্থ করবেন। ইয়ানসুরকুম: তাদের উপর তোমাদের জয় আর প্রাধান্য দেবেন। বাগাভী প্রথম দুটি ব্যাখ্যা প্রায় হুবহু একই কথায় বলেন। মুয়াসসার লাঞ্ছনার অর্থ করে পরাজয়ের অপমান, আর নিজের দিক থেকে একটি কথা জুড়ে দেয়: তিনি তাঁর বাণীকে সমুন্নত করবেন। সা'দী থামেন বিজয়ের প্রতিশ্রুতিতে। তাঁর ভাষায় এটি আল্লাহর ওয়াদা আর সুসংবাদ, যা তিনি পূরণ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hands, Not the Sky",
+          "bn": "আসমান থেকে নয়, হাত দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an dwells on bi-aydikum, by your hands. The enemies, it says, had already become deserving of divine punishment because of their evil deeds, but this punishment would not come down on them from the heavens or rise up from beneath the earth; it would come at the believers' hands. Ibn Kathir's framing makes the same point from the other side: Allah was able to destroy them by a command from Himself, and the verse explains why He chose instead to work through people.",
+            "bn": "মাআরিফুল কুরআন থামে বিআইদীকুম শব্দে, তোমাদের হাতে। তাদের মন্দ কাজের কারণে শত্রুরা আগেই আল্লাহর শাস্তির উপযুক্ত হয়ে গিয়েছিল। কিন্তু সেই শাস্তি আসমান থেকে নামবে না, মাটির নিচ থেকেও উঠবে না, আসবে মুমিনদের হাত দিয়ে। ইবন কাসীরের ভূমিকাও একই কথা বলে, তবে অন্য দিক থেকে। আল্লাহ চাইলে নিজের এক আদেশেই তাদের ধ্বংস করতে পারতেন। আয়াতটি ব্যাখ্যা করে, তবু কেন তিনি কাজটা করালেন মানুষের হাত দিয়ে।"
+          },
+          {
+            "en": "The grammar holds that line firmly. The one who punishes, disgraces, helps and heals is Allah; the believers fight, and what follows is His. Even the victory is put as something He does for them, yansurkum, He will help you, not something they seize. A reader who keeps the subject of each verb in view will not mistake the hands for the source. They were the means of one judgment, on one people, at one moment of the Prophet's ﷺ mission, and the verse fixes that moment with the pronoun it opens on.",
+            "bn": "ব্যাকরণ এই সীমারেখা শক্ত করে ধরে রাখে। শাস্তি দেন, লাঞ্ছিত করেন, সাহায্য করেন আর বুক শীতল করেন আল্লাহ। মুমিনরা লড়াই করে, এরপর যা ঘটে তা তাঁর কাজ। বিজয়টাও বলা হয়েছে তাঁর দান হিসেবে: ইয়ানসুরকুম, তিনি তোমাদের সাহায্য করবেন। এমন নয় যে তারা নিজেরা ছিনিয়ে নেবে। প্রতিটি ক্রিয়ার কর্তার দিকে চোখ রাখলে পাঠক হাতকে উৎস বলে ভুল করবেন না। নবী ﷺ-এর মিশনের এক নির্দিষ্ট মুহূর্তে, এক নির্দিষ্ট সম্প্রদায়ের উপর, একটি ফয়সালার মাধ্যম ছিল সেই হাত। আয়াতের শুরুর সর্বনামটিই সেই মুহূর্তকে বেঁধে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Khuza'a and a Broken Peace",
+          "bn": "খুযাআ আর ভাঙা সন্ধি"
+        },
+        "p": [
+          {
+            "en": "Who are the believing people whose breasts are healed? At-Tabari's own gloss is broad: a people who believe in Allah and His Messenger, healed by the killing and subduing of these idolaters. Then he records that it was said Allah meant the breasts of Khuza'a, allies of the Messenger of Allah ﷺ, because Quraysh broke the covenant between themselves and the Messenger ﷺ by helping Bakr against them. He gives this through several chains from Mujahid, and from as-Suddi in the words: Khuza'a, He heals their breasts from Banu Bakr.",
+            "bn": "কোন মুমিন সম্প্রদায়ের বুক শীতল হবে? তাবারীর নিজের ব্যাখ্যা বিস্তৃত: যারা আল্লাহ ও তাঁর রসূলের প্রতি ঈমান এনেছে, এই মুশরিকদের হত্যা ও পরাভূত করার মাধ্যমে তাদের বুক সুস্থ হবে। এরপর তিনি উল্লেখ করেন, বলা হয়েছে আল্লাহ এখানে খুযাআর বুক বুঝিয়েছেন। তারা ছিল আল্লাহর রসূল ﷺ-এর মিত্র। কারণ কুরাইশ বকরকে তাদের বিরুদ্ধে সাহায্য করে রসূল ﷺ-এর সঙ্গে নিজেদের চুক্তি ভেঙেছিল। এই মত তিনি মুজাহিদ থেকে কয়েকটি সনদে আনেন। সুদ্দী থেকে আনেন এই কথায়: খুযাআ, বনু বকরের ব্যাপারে তিনি তাদের বুক শীতল করবেন।"
+          },
+          {
+            "en": "Ibn Kathir names Mujahid, 'Ikrima and as-Suddi for this reading; al-Baghawi names Mujahid and as-Suddi. Al-Qurtubi tells the incident, without a chain. A man of Banu Bakr recited verses satirising the Messenger ﷺ; a man of Khuza'a threatened to break his mouth if he repeated them, he repeated them, and the threat was carried out. Fighting broke out, Quraysh helped Bakr, and a number of Khuza'a were killed. 'Amr ibn Salim al-Khuza'i came with a group and told the Prophet ﷺ, who ordered preparations to march on Makkah, and the conquest followed.",
+            "bn": "ইবন কাসীর এই মতের পক্ষে মুজাহিদ, ইকরিমা ও সুদ্দীর নাম নেন। বাগাভী নেন মুজাহিদ ও সুদ্দীর নাম। কুরতুবী ঘটনাটি বর্ণনা করেন, তবে কোনো সনদ ছাড়া। বনু বকরের এক লোক আল্লাহর রসূল ﷺ-কে নিয়ে ব্যঙ্গ কবিতা আবৃত্তি করল। খুযাআর একজন বলল, আবার বললে তোমার মুখ ভেঙে দেব। সে আবার বলল, আর তার মুখ ভেঙে দেওয়া হলো। লড়াই বেধে গেল, কুরাইশ বকরকে সাহায্য করল, আর খুযাআর বেশ কিছু লোক নিহত হলো। আমর ইবন সালিম আল-খুযাঈ একদল লোক নিয়ে নবী ﷺ-এর কাছে এসে খবর দিলেন। তিনি মক্কা অভিমুখে যাত্রার প্রস্তুতির নির্দেশ দিলেন, আর তার পরেই এল মক্কা বিজয়।"
+          },
+          {
+            "en": "The two readings are not set against each other. Ibn Kathir says the verse covers all the believers, even though Mujahid, 'Ikrima and as-Suddi said it refers to Khuza'a. A related difference touches 9:13. Ibn Kathir reads its they began against you the first time as Badr, where the idolaters marched to protect their caravan and pressed on to fight after it had escaped. He then reports that it was also said these verses refer to the breach of the peace by aiding Banu Bakr against Khuza'a, which is why the Messenger ﷺ marched on Makkah in the year of the conquest.",
+            "bn": "দুটি মত একটি আরেকটির বিরোধী নয়। ইবন কাসীর বলেন, আয়াতটি সব মুমিনকেই শামিল করে, যদিও মুজাহিদ, ইকরিমা ও সুদ্দী বলেছেন এর দ্বারা খুযাআ উদ্দেশ্য। এর সঙ্গে জড়িত আরেকটি মতভেদ ৯:১৩ নিয়ে। সেখানে আছে, প্রথমবার তারাই তোমাদের বিরুদ্ধে শুরু করেছে। ইবন কাসীর এর অর্থ করেন বদর। সেখানে মুশরিকরা নিজেদের কাফেলা রক্ষা করতে বেরিয়েছিল, কাফেলা নিরাপদে বেরিয়ে যাওয়ার পরও লড়াইয়ের দিকে এগিয়ে গিয়েছিল। তারপর তিনি উল্লেখ করেন, এটাও বলা হয়েছে যে এই আয়াতগুলোর প্রসঙ্গ খুযাআর বিরুদ্ধে বনু বকরকে সাহায্য করে সন্ধি ভাঙা। এ কারণেই বিজয়ের বছর আল্লাহর রসূল ﷺ মক্কা অভিমুখে যাত্রা করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grievance Called a Sickness",
+          "bn": "ক্ষোভ, যাকে বলা হলো রোগ"
+        },
+        "p": [
+          {
+            "en": "Yashfi is the verb used for curing the sick, and at-Tabari reads it that way: He will cure the illness in the breasts of a believing people. He also names the illness. It is al-mawjida, the grievance in their hearts against these people for the harm and the hateful things they had been made to suffer at their hands. Al-Baghawi says the same in fewer words, an illness of the hearts from the harm they used to receive. The Muyassar speaks to the reader directly: by their defeat He will heal your breasts, which grief and distress had long afflicted through the plotting of these idolaters.",
+            "bn": "ইয়াশফি শব্দটি রোগীর আরোগ্যের ক্রিয়া, আর তাবারী অর্থও করেন সেভাবে: তিনি মুমিন সম্প্রদায়ের বুকের রোগ সারিয়ে দেবেন। রোগটার নামও তিনি বলে দেন: আল-মাওজিদা। এই লোকদের হাতে যে কষ্ট আর অপছন্দনীয় আচরণ তারা সয়েছিল, তার জন্য অন্তরে জমে থাকা ক্ষোভ। বাগাভী একই কথা বলেন আরও অল্প কথায়: তারা যে কষ্ট পেত, তা থেকে অন্তরের রোগ। মুয়াসসার পাঠককে সরাসরি সম্বোধন করে। তাদের পরাজয়ের মাধ্যমে তিনি তোমাদের বুক শীতল করবেন, এই মুশরিকদের চক্রান্তে যে বুকে বহুদিন ধরে দুঃখ আর মনোবেদনা জমে ছিল।"
+          },
+          {
+            "en": "The next verse names the same thing from inside: wa-yudhhib ghayza qulubihim, and He will remove the rage of their hearts. Al-Qurtubi takes the phrase as evidence that their rage had grown severe. At-Tabari, on 9:15, ties it to the same people again: He will take away the anguish in the hearts of these believers from Khuza'a, and their distress, against those idolaters who broke their oaths by helping Bakr against them. In both verses the one who heals and removes is Allah. The wound is acknowledged, and the wounded are not told to tend it by themselves.",
+            "bn": "পরের আয়াত একই জিনিসের নাম দেয় ভেতরের দিক থেকে: ওয়া ইউযহিব গাইযা কুলূবিহিম, আর তিনি তাদের অন্তরের ক্ষোভ দূর করবেন। কুরতুবী এ কথাকে প্রমাণ হিসেবে নেন যে তাদের ক্ষোভ তীব্র হয়ে উঠেছিল। ৯:১৫-এর ব্যাখ্যায় তাবারী আবার একই লোকদের সঙ্গে কথাটা জুড়ে দেন। খুযাআর এই মুমিনদের অন্তরে যে মনোবেদনা আর কষ্ট ছিল, তিনি তা দূর করবেন। সে কষ্ট ছিল সেই মুশরিকদের বিরুদ্ধে, যারা বকরকে তাদের বিরুদ্ধে সাহায্য করে শপথ ভেঙেছিল। দুই আয়াতেই সারিয়ে তোলেন আর দূর করেন আল্লাহ। ক্ষতটাকে স্বীকার করা হয়েছে, কিন্তু আহতকে বলা হয়নি একা একা তার শুশ্রূষা করতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Ending Changes",
+          "bn": "যেখানে ক্রিয়ার রূপ বদলায়"
+        },
+        "p": [
+          {
+            "en": "Then the endings change. The verbs that answer the command are jussive, and at wa-yatubu Allahu 'ala man yasha', and Allah turns to whom He wills, the verb is indicative. At-Tabari explains why. This is a fresh statement and so it is raised, while the letters before it were made jussive as consequences, because fighting does not bring about repentance from Allah; it brings about punishment, disgrace, the healing of the believers' breasts and the removal of their rage. Al-Qurtubi gives the same reason and adds that repentance can be found without any fighting, for whomever Allah wills, in every state.",
+            "bn": "এরপর ক্রিয়ার রূপ বদলে যায়। আদেশের জবাবে যে ক্রিয়াগুলো এসেছে, সবগুলো জযমযুক্ত। কিন্তু ওয়া ইয়াতূবুল্লাহু আলা মান ইয়াশা, আর আল্লাহ যাকে চান তার তওবা কবুল করেন, এখানে ক্রিয়াটি রফাযুক্ত। কেন, তাবারী তা বুঝিয়ে দেন। এটি নতুন করে শুরু হওয়া এক বিবৃতি, তাই রফা পেয়েছে। আগের ক্রিয়াগুলো ফল হিসেবে জযম পেয়েছে। কারণ লড়াই আল্লাহর পক্ষ থেকে তওবা কবুলকে অনিবার্য করে না। লড়াই অনিবার্য করে শাস্তি, লাঞ্ছনা, মুমিনদের বুকের আরোগ্য আর তাদের ক্ষোভ দূর হওয়া। কুরতুবীও একই কারণ দেন। সঙ্গে যোগ করেন, আল্লাহ যার তওবা কবুল করতে চান, কোনো লড়াই ছাড়াই যেকোনো অবস্থায় তা ঘটতে পারে।"
+          },
+          {
+            "en": "At-Tabari's meaning for the clause is that Allah favours whom He wills of His disbelieving servants and brings them to repentance by His enabling. Al-Qurtubi names some to whom Allah turned: Abu Sufyan, 'Ikrima ibn Abi Jahl and Sulaym ibn Abi 'Amr, who accepted Islam. He also reports a reading with the verb in the subjunctive, from Ibn Abi Ishaq and others, under which the repentance joins the chain of results, and he judges the indicative the better reading. The Muyassar ends on whoever repents of these stubborn opponents: Allah knows the truth of the penitent's repentance.",
+            "bn": "তাবারীর মতে বাক্যটির অর্থ: আল্লাহ তাঁর কাফির বান্দাদের মধ্যে যাকে চান অনুগ্রহ করেন, নিজের তাওফীক দিয়ে তাকে তওবার দিকে নিয়ে আসেন। কুরতুবী এমন কয়েকজনের নাম বলেন যাদের তওবা আল্লাহ কবুল করেছিলেন: আবু সুফিয়ান, ইকরিমা ইবন আবী জাহল আর সুলাইম ইবন আবী আমর। তাঁরা ইসলাম গ্রহণ করেছিলেন। তিনি ইবন আবী ইসহাক ও আরও কয়েকজনের একটি কিরাআতও উল্লেখ করেন, যেখানে ক্রিয়াটি নসবযুক্ত। সে পাঠে তওবাও ফলের শিকলে ঢুকে যায়। তবে তাঁর বিচারে রফার পাঠই উত্তম। মুয়াসসার শেষ করে এই কথায়: এই হঠকারীদের মধ্যে যে তওবা করে, তার তওবা কতটা খাঁটি, আল্লাহ তা জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bound to Its Own Hour",
+          "bn": "নিজের সময়েই বাঁধা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The command in this verse was addressed to the Prophet's ﷺ community about a particular enemy of that time: people who, in 9:13's own words, had broken their oaths, determined to expel the Messenger and begun against the believers first. The commentators read for it tie that first attack to Badr, or the passage to a broken treaty that the Messenger ﷺ answered by marching on Makkah. The verse describes what that conflict was, and licenses nothing against any person or community living now. None of the commentaries read for it attaches a hadith to it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ আয়াতের আদেশ ছিল নবী ﷺ-এর উম্মতের প্রতি, সে যুগের এক নির্দিষ্ট শত্রুর ব্যাপারে। ৯:১৩-এর নিজের ভাষায় তারা শপথ ভেঙেছিল, রসূলকে বের করে দেওয়ার সংকল্প করেছিল, আর মুমিনদের বিরুদ্ধে তারাই আগে শুরু করেছিল। এখানে পড়া তাফসীরগুলো সেই প্রথম আক্রমণকে মেলায় বদরের সঙ্গে, অথবা পুরো অংশটিকে এমন এক সন্ধিভঙ্গের সঙ্গে, যার জবাবে আল্লাহর রসূল ﷺ মক্কা অভিমুখে যাত্রা করেছিলেন। আয়াতটি সেই সংঘাতের বর্ণনা দেয়। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "It gives no mandate for violence by any person or group today, and none for anyone to decide that some other people are this verse's people. The passage bounds its own fighting: 9:12 ends with that they may cease, and 9:15 keeps repentance open to the very people being fought. Ma'arif al-Qur'an draws the inward line from 9:12: believers were told not to fight a people merely to release their anger, but to make correction the aim, and when the intention is cleansed for Allah alone, He removes the anger and sorrow Himself.",
+            "bn": "আজ কোনো ব্যক্তি বা দলের সহিংসতার পক্ষে এটি কোনো সনদ নয়। অন্য কোনো লোকদের এই আয়াতের লোক বলে সাব্যস্ত করার অধিকারও এটি কাউকে দেয় না। আয়াতগুচ্ছ নিজেই তার লড়াইকে সীমায় বেঁধে দিয়েছে। ৯:১২ শেষ হয়েছে এই কথায়: যাতে তারা নিবৃত্ত হয়। আর ৯:১৫ তওবার দরজা খোলা রেখেছে ঠিক সেই লোকদের জন্যই, যাদের বিরুদ্ধে লড়াই হচ্ছিল। মাআরিফুল কুরআন ৯:১২ থেকে ভেতরের একটি সীমারেখা টানে। মুমিনদের বলা হয়েছিল, শুধু রাগ মেটানোর জন্য কোনো সম্প্রদায়ের বিরুদ্ধে লড়বে না, সংশোধনকেই লক্ষ্য বানাবে। নিয়ত শুধু আল্লাহর জন্য খাঁটি হলে রাগ আর দুঃখ তিনি নিজেই দূর করে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking a Wound to Allah",
+          "bn": "ক্ষত নিয়ে আল্লাহর কাছে"
+        },
+        "p": [
+          {
+            "en": "What the verse leaves a reader now is its order of agents. A hurt person wants two things, for the wrong to be answered and for the soreness to stop, and is tempted to get both by his own hand. Here the answering and the healing are both Allah's verbs. The reader's part is to stop treating revenge as the cure. A grievance can be brought to Allah in du'a, pursued only through what is lawful and just, and then set down in trust. Ibn Kathir, closing on 9:15, says that not even the weight of an atom of good or evil is neglected with Him.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি রেখে যায় কর্তাদের ক্রম। আহত মানুষ দুটি জিনিস চায়: অন্যায়ের জবাব হোক, আর ব্যথাটা থামুক। দুটোই নিজের হাতে আদায় করে নেওয়ার লোভ জাগে। এখানে জবাব দেওয়া আর সারিয়ে তোলা, দুটোই আল্লাহর ক্রিয়া। পাঠকের কাজ প্রতিশোধকে ওষুধ ভাবা বন্ধ করা। অভিযোগটা দোয়ায় আল্লাহর কাছে তোলা যায়, কেবল বৈধ ও ন্যায়সংগত পথে তার প্রতিকার চাওয়া যায়, তারপর ভরসা করে নামিয়ে রাখা যায়। ৯:১৫-এর আলোচনা শেষ করতে গিয়ে ইবন কাসীর বলেন, অণু পরিমাণ ভালো বা মন্দও তাঁর কাছে উপেক্ষিত হয় না।"
+          },
+          {
+            "en": "And the verse that removes the rage goes on, in the same breath, to say that Allah turns to whom He wills. The person who wronged you stands inside that sentence too. Al-Qurtubi's short list of men who had been the enemy and later accepted Islam is a reminder that the story did not end where anger wanted it to. A request in the verse's own vocabulary can be made, and claimed as no more than that: O Allah, heal my chest, remove the rage of my heart, and turn to whom You will. It is not a Sunnah du'a.",
+            "bn": "যে আয়াত ক্ষোভ দূর করার কথা বলে, সেটাই একই নিঃশ্বাসে বলে, আল্লাহ যাকে চান তার তওবা কবুল করেন। আপনার উপর যে জুলুম করেছে, সেও এই বাক্যের ভেতরে আছে। যারা একসময় শত্রু ছিল আর পরে ইসলাম গ্রহণ করেছিল, কুরতুবীর সেই ছোট তালিকা মনে করিয়ে দেয়, রাগ যেখানে গল্পটা শেষ করতে চেয়েছিল, গল্পটা সেখানে শেষ হয়নি। আয়াতের নিজের শব্দ দিয়ে একটি প্রার্থনা করা যায়, তবে এর বেশি কোনো দাবি নেই: হে আল্লাহ, আমার বুক শীতল করো, আমার অন্তরের ক্ষোভ দূর করো, আর যাকে চাও তার তওবা কবুল করো। এটি সুন্নাহর কোনো দোয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for a Sore Chest",
+          "bn": "ব্যথিত বুকের জন্য প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse names a grievance as an illness: which grievance in me has gone untreated long enough to become one, and what has it done to how I see the person behind it? The healing is Allah's verb, not mine: where have I tried to cure myself by getting even, in words, in silence, or in how I speak of someone when they are absent? And have I ever asked Allah plainly to heal my chest, rather than asking Him only to deal with the other person?",
+            "bn": "আয়াতটি ক্ষোভকে রোগ বলেছে। আমার ভেতরের কোন ক্ষোভ এতদিন চিকিৎসাহীন পড়ে আছে যে রোগে পরিণত হয়েছে? যার কারণে সেই ক্ষোভ, তাকে দেখার চোখ সেটা কতটা বদলে দিয়েছে? সারিয়ে তোলা আল্লাহর কাজ, আমার নয়। তাহলে কোথায় আমি নিজেকে সারাতে চেয়েছি শোধ নিয়ে, কথায়, নীরবতায়, কিংবা কারও অনুপস্থিতিতে তার সম্পর্কে যেভাবে কথা বলি তাতে? আর আমি কি কখনো সোজাসুজি আল্লাহর কাছে চেয়েছি যে তিনি আমার বুক শীতল করুন, শুধু অন্য লোকটার একটা ব্যবস্থা করতে বলার বদলে?"
+          },
+          {
+            "en": "Two more. The next clause leaves room for the wrongdoer to be turned to repentance: if that happened to the person I resent, would I be glad, or would part of me feel robbed of something? And when I meet a verse about fighting, do I first ask to whom it was spoken and against whom, as the commentators do, or do I reach for it because it suits a quarrel of my own that it was never about?",
+            "bn": "আরও দুটি প্রশ্ন। পরের বাক্যটি জুলুমকারীর তওবার জন্যও জায়গা রেখেছে। যার উপর আমার ক্ষোভ, তার বেলায় যদি তা-ই ঘটে, আমি কি খুশি হব, নাকি মনের এক কোণে মনে হবে কিছু একটা কেড়ে নেওয়া হলো? আর লড়াইয়ের কোনো আয়াতের সামনে এলে আমি কি তাফসীরকারদের মতো আগে জিজ্ঞেস করি, কাদের বলা হয়েছিল আর কাদের বিরুদ্ধে? নাকি আয়াতটা টেনে আনি, কারণ আমার নিজের এমন এক বিবাদে সেটা কাজে লাগে, যে বিবাদ নিয়ে আয়াতটি কখনো নাযিলই হয়নি?"
+          }
+        ]
+      }
+    ]
+  },
   "9:18": {
     "sections": [
       {
