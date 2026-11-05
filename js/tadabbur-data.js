@@ -21391,6 +21391,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nothing you own can ransom you on that Day. Turn back now, while regret can still become repentance and the price asked is only your return.",
     "lessonBn": "সেদিন আপনার কোনো সম্পদ আপনাকে ছাড়িয়ে আনতে পারবে না। এখনই ফিরে আসুন, যতক্ষণ অনুশোচনা তওবায় বদলাতে পারে আর দাম হিসেবে চাওয়া হচ্ছে শুধু আপনার ফিরে আসা।"
+  },
+  "9:103": {
+    "reflectionEn": "The verse tells the Prophet ﷺ to take, and in the same breath says what the taking does to the giver. The charity purifies them, and by it they are made to grow. Money leaves the hand and something is washed out of the heart. Then comes a second command: pray over them, for your prayer is a calm for them. The one who receives is not told to take and say nothing. He answers the gift with a prayer, and the giver walks away lighter. When I give, do I think only of the purse I am emptying, or also of what is being cleaned in me? And when someone gives to me, do they leave with a prayer they can hear?",
+    "reflectionBn": "আয়াতটি নবী ﷺ-কে গ্রহণ করতে বলছে, আর একই নিঃশ্বাসে জানিয়ে দিচ্ছে, এই গ্রহণ দাতার ভেতরে কী ঘটায়। সদকা তাদের পবিত্র করে, আর তা দিয়েই তারা বেড়ে ওঠে। টাকা হাত থেকে বেরিয়ে যায়, আর অন্তর থেকে কিছু একটা ধুয়ে যায়। তারপর আসে দ্বিতীয় আদেশ: তাদের জন্য দোয়া করুন, আপনার দোয়া তাদের জন্য প্রশান্তি। যে নিচ্ছে, তাকে বলা হয়নি চুপচাপ নিয়ে নিতে। দানের জবাব সে দেয় দোয়া দিয়ে, আর দাতা হালকা মন নিয়ে ফিরে যায়। আমি যখন দিই, তখন কি শুধু খালি হতে থাকা থলের কথাই ভাবি, নাকি এটাও ভাবি যে আমার ভেতরে কী পরিষ্কার হচ্ছে? আর কেউ যখন আমাকে দেয়, সে কি এমন একটা দোয়া নিয়ে ফেরে, যা সে নিজের কানে শুনতে পায়?",
+    "pointsEn": [
+      "When I last gave something away, was my mind on what I was losing or on what in me needed washing?",
+      "Is there a trait in me, a grip on money or a pride in having it, that giving would loosen if I let it?",
+      "When someone gives to me or to a cause I run, do I thank them aloud and pray for them where they can hear?",
+      "Whose giving have I received so often that I stopped answering it with a prayer?",
+      "Do I give as one paying a bill, or as one asking to be made clean and to grow?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কিছু দান করেছি, আমার মন কোথায় ছিল: যা হারাচ্ছি তার উপর, নাকি আমার ভেতরের যা ধোয়া দরকার তার উপর?",
+      "টাকার প্রতি টান কিংবা টাকা থাকার অহংকার, এমন কোনো স্বভাব কি আমার মধ্যে আছে, যা দান করলে আলগা হয়ে যেত, যদি আমি হতে দিতাম?",
+      "কেউ যখন আমাকে বা আমার চালানো কোনো কাজে দান করে, আমি কি মুখ খুলে তাকে ধন্যবাদ দিই আর তার কানে পৌঁছায় এমনভাবে দোয়া করি?",
+      "কার দান আমি এত বার পেয়েছি যে দোয়া দিয়ে তার জবাব দেওয়াই ভুলে গেছি?",
+      "আমি কি বিল মেটানোর মতো করে দান করি, নাকি পবিত্র হওয়ার আর বেড়ে ওঠার আশা নিয়ে?"
+    ],
+    "lessonEn": "Give as one being washed and made to grow, not as one being taxed; and when anything is given to you, send the giver away with a prayer.",
+    "lessonBn": "কর মেটানোর মতো নয়, বরং ধুয়ে-মুছে বেড়ে ওঠার আশায় দান করুন; আর কেউ আপনাকে কিছু দিলে দোয়া দিয়ে তাকে বিদায় দিন।"
   }
 };
 

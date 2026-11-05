@@ -3979,6 +3979,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:103": {
+    "sections": [
+      {
+        "h": {
+          "en": "Their Wealth Brought Forward",
+          "bn": "সম্পদ নিয়ে হাজির যারা"
+        },
+        "p": [
+          {
+            "en": "Khudh min amwalihim sadaqatan: take from their wealth a charity. The verse follows directly on 9:102, about others who acknowledged their sins, and at-Tabari reads the pronoun in their wealth as those very people: take, O Muhammad, from the wealth of these who acknowledged their sins and repented of them. He then gathers reports, from Ibn Abbas, Zayd ibn Aslam, Sa'id ibn Jubayr and ad-Dahhak, that name Abu Lubabah and the men who had tied themselves to the pillars and were then released.",
+            "bn": "খুয মিন আমওয়ালিহিম সাদাকাতান: তাদের সম্পদ থেকে সদকা গ্রহণ করুন। আয়াতটি এসেছে ঠিক ৯:১০২-এর পরে, যেখানে বলা হয়েছে আরেক দল মানুষের কথা, যারা নিজেদের গুনাহ স্বীকার করেছে। তাবারীর মতে 'তাদের সম্পদ' বলতে ঠিক ওই লোকদেরই বোঝানো হয়েছে: হে মুহাম্মাদ, যারা গুনাহ স্বীকার করে তওবা করেছে, তাদের সম্পদ থেকে নিন। এরপর তিনি ইবন আব্বাস (রাঃ), যায়দ ইবন আসলাম, সাঈদ ইবন জুবায়র ও দাহহাক থেকে কয়েকটি বর্ণনা আনেন। সেগুলোতে নাম এসেছে আবু লুবাবা (রাঃ)-এর, আর সেই লোকদের, যারা নিজেদের খুঁটির সঙ্গে বেঁধে রেখেছিলেন, পরে যাঁদের বাঁধন খুলে দেওয়া হয়।"
+          },
+          {
+            "en": "In those reports the men came with their wealth and said: Messenger of Allah, here is our wealth; give it in charity on our behalf and ask forgiveness for us. He answered, in one report from Ibn Abbas, that he had not been commanded to take anything of their wealth. Then the verse came down. In another report through Ibn Abbas he then took a part of their wealth and gave it away for them; al-Qurtubi and Ma'arif al-Qur'an put that part at a third.",
+            "bn": "বর্ণনাগুলোতে আছে, তাঁরা সম্পদ নিয়ে এসে বললেন: হে আল্লাহর রাসূল, এই আমাদের সম্পদ। আমাদের পক্ষ থেকে এগুলো সদকা করে দিন, আর আমাদের জন্য ইস্তিগফার করুন। ইবন আব্বাস (রাঃ)-এর একটি বর্ণনায় তিনি জবাব দিলেন, তোমাদের সম্পদ থেকে কিছু নেওয়ার আদেশ আমাকে দেওয়া হয়নি। তারপর আয়াতটি নাযিল হলো। ইবন আব্বাস (রাঃ)-এর সূত্রে আরেক বর্ণনায় আছে, এরপর তিনি তাঁদের সম্পদের একটি অংশ নিয়ে তাঁদের পক্ষ থেকে সদকা করে দিলেন। কুরতুবী ও মাআরিফুল কুরআন সেই অংশের পরিমাণ বলেছেন এক-তৃতীয়াংশ।"
+          },
+          {
+            "en": "Qatada, in at-Tabari, names four: Jadd ibn Qays, Abu Lubabah, Haram and Aws, men who had promised to spend, to strive and to give. Ibn Zayd identifies them differently, as hypocrites among those who stayed behind from Tabuk, who confessed their doubt and offered a new repentance and a charity from their wealth. At-Tabari cites these reports without grading their chains, and the repentance itself belongs to 9:102. What this verse adds is the answer to their offer.",
+            "bn": "তাবারীর গ্রন্থে কাতাদা চারজনের নাম বলেন: জাদ্দ ইবন কায়স, আবু লুবাবা, হারাম ও আওস। তাঁরা নিজেরাই কথা দিয়েছিলেন যে খরচ করবেন, জিহাদ করবেন, সদকা দেবেন। ইবন যায়দ তাঁদের চিনিয়েছেন অন্যভাবে। তাঁর মতে এরা তাবুক অভিযান থেকে পিছিয়ে থাকা মুনাফিকদের একদল, যারা নিজেদের সন্দেহের কথা স্বীকার করে নতুন তওবা আর সম্পদ থেকে সদকা নিয়ে এসেছিল। তাবারী এ বর্ণনাগুলো আনেন, তবে সনদের মান যাচাই করেন না। আর তওবার কাহিনিটা ৯:১০২-এর বিষয়। এ আয়াত যোগ করে তাঁদের প্রস্তাবের জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Offering or Every Zakah",
+          "bn": "একটি দান, নাকি সব যাকাত"
+        },
+        "p": [
+          {
+            "en": "Which charity is meant? The commentators differ, and al-Qurtubi sets out both answers. On the first view it is the obligatory charity, which he reports from Ibn Abbas through Juwaybir and from Ikrimah. On the other it is particular to those about whom it came down: the Prophet ﷺ took a third of their wealth, which is nothing of the obligatory zakah. Hence, he adds, Malik held that when a man gives his whole wealth in charity, giving out a third suffices him.",
+            "bn": "এখানে কোন সদকার কথা বলা হচ্ছে? তাফসীরকারেরা একমত নন, আর কুরতুবী দুটি জবাবই সাজিয়ে দেন। প্রথম মতে এটা ফরয সদকা। এ মত তিনি জুওয়াইবিরের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন, আর ইকরিমা থেকেও। অন্য মতে এটা শুধু তাঁদের জন্য, যাঁদের ব্যাপারে আয়াতটি নাযিল হয়েছে। নবী ﷺ তাঁদের সম্পদের এক-তৃতীয়াংশ নিয়েছিলেন, আর ফরয যাকাতের সঙ্গে এর কোনো সম্পর্ক নেই। এ কারণেই, তিনি যোগ করেন, ইমাম মালিক বলেছেন: কেউ তার সমস্ত সম্পদ সদকা করে দিলে এক-তৃতীয়াংশ বের করাই তার জন্য যথেষ্ট।"
+          },
+          {
+            "en": "Al-Baghawi carries the same split in two named voices: Ibn Kaysan said this is not about the obligatory charity, and Ikrimah said it is the obligatory charity. As-Sa'di states plainly that it is the obligatory zakah, and draws from the verse that zakah is due on wealth that grows. At-Tabari and the Muyassar read the command as addressed to the repentant men of 9:102. Ibn Kathir takes it as general, while noting that some returned the pronoun to those who confessed.",
+            "bn": "বাগাভীর কাছেও একই বিভাজন, দুজনের নাম ধরে। ইবন কায়সান বলেছেন, এটা ফরয সদকার ব্যাপারে নয়। ইকরিমা বলেছেন, এটা ফরয সদকাই। সা'দী সোজাসুজি বলেন, এ হলো ফরয যাকাত। আয়াত থেকে তিনি এটাও বের করেন যে যাকাত ওয়াজিব হয় সেই সম্পদে, যা বাড়ে। তাবারী ও মুয়াসসার আদেশটিকে পড়েন ৯:১০২-এর তওবাকারীদের উদ্দেশে বলা কথা হিসেবে। ইবন কাসীর একে ব্যাপক ধরেন। সঙ্গে উল্লেখ করেন, কেউ কেউ 'তাদের' সর্বনামটিকে স্বীকারকারীদের দিকেই ফিরিয়েছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing al-Qurtubi and al-Jassas, holds that whatever the background, the words are general and the ruling stands until the Last Day. The disagreement is kept here as it stands, with no side taken. Whichever charity it was, a single offering or every zakah, the verse names what it does to whoever gives it, and that is where this article stays.",
+            "bn": "মাআরিফুল কুরআন কুরতুবী ও জাসসাসের বরাতে বলে, প্রেক্ষাপট যা-ই হোক, শব্দগুলো ব্যাপক, আর বিধানটি কিয়ামত পর্যন্ত বহাল। মতভেদটা এখানে যেমন আছে তেমনই রাখা হলো, কোনো পক্ষ নেওয়া হলো না। সদকাটা একবারের দান হোক কিংবা প্রতিটি যাকাত, যে দেয় তার ভেতরে এটা কী করে, আয়াতটি সে কথা বলে দিয়েছে। এ লেখা সেখানেই থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Washed, Then Made to Grow",
+          "bn": "আগে ধোয়া, পরে বাড়ানো"
+        },
+        "p": [
+          {
+            "en": "Tutahhiruhum wa tuzakkihim biha: by which you purify them and cause them increase. At-Tabari gives the two verbs two different subjects. Tutahhiruhum describes the charity, he says, because the reciters agree on its indicative ending, and that marks it as part of the charity's description: a charity that purifies them. Wa tuzakkihim biha he takes as a fresh statement, meaning and you, by means of it, make them grow. The charity washes; the Messenger ﷺ, by taking it, raises.",
+            "bn": "তুতাহহিরুহুম ওয়া তুযাক্কীহিম বিহা: যা দিয়ে আপনি তাদের পবিত্র করবেন আর বৃদ্ধি দেবেন। তাবারী দুটি ক্রিয়ার দুই রকম কর্তা ধরেন। তাঁর মতে প্রথম ক্রিয়া তুতাহহিরুহুম সদকারই বিশেষণ, অর্থাৎ এমন সদকা, যা তাদের পবিত্র করে। কারণ হিসেবে তিনি বলেন, কারীরা সবাই এ ক্রিয়ার শেষ অক্ষরে পেশ পড়েন, আর সেটাই ইঙ্গিত দেয় যে এটা সদকার বর্ণনার অংশ। দ্বিতীয় অংশ ওয়া তুযাক্কীহিম বিহা তাঁর মতে নতুন বাক্য, মানে: আর আপনি এর মাধ্যমে তাদের বাড়িয়ে তোলেন। ধোয়ার কাজ করে সদকা, আর তা গ্রহণ করে উপরে তোলেন রাসূল ﷺ।"
+          },
+          {
+            "en": "What is washed out? At-Tabari says the filth of their sins, and as-Sa'di widens it to sins and base traits of character. For tuzakkihim at-Tabari gives growth, and a raising from the lowly ranks of the hypocrites to the ranks of the sincere; the Muyassar and al-Baghawi have that raising too, and al-Baghawi adds another view, that it makes their wealth grow. As-Sa'di gathers growth in good character, in righteous deeds, in reward in this world and the next, and in the wealth itself.",
+            "bn": "কী ধুয়ে যায়? তাবারী বলেন, তাদের গুনাহের ময়লা। সা'দী পরিসরটা বাড়িয়ে দেন: গুনাহ আর নিচু স্বভাব, দুটোই। তুযাক্কীহিম শব্দের অর্থে তাবারী বলেন বৃদ্ধি, আর মুনাফিকদের হীন স্তর থেকে তুলে মুখলিসদের স্তরে পৌঁছে দেওয়া। মুয়াসসার আর বাগাভীতেও এই উত্তোলনের কথা আছে। বাগাভী আরেকটি মতও আনেন: এটা তাদের সম্পদ বাড়িয়ে দেয়। সা'দী সব একসঙ্গে জড়ো করেন। উত্তম চরিত্রে বৃদ্ধি, নেক আমলে বৃদ্ধি, দুনিয়া ও আখিরাতের সওয়াবে বৃদ্ধি, আর খোদ সম্পদেও বৃদ্ধি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an raises the obvious question. If their repentance had already been accepted, their sins were forgiven, so what was left to purify? Its answer is that the sin was forgiven, but it may have left traces behind that could lead back into sin, and the charity removes those and completes the purification. As-Sa'di puts it more broadly: a servant cannot be purified and made to grow until he pays the zakah of his wealth.",
+            "bn": "মাআরিফুল কুরআন স্বাভাবিক প্রশ্নটা তোলে। তাঁদের তওবা তো আগেই কবুল হয়েছে, গুনাহ মাফ হয়ে গেছে। তাহলে আর পবিত্র করার কী বাকি ছিল? জবাবে বলা হয়েছে, গুনাহ ঠিকই মাফ হয়েছে। কিন্তু হয়তো তার কিছু ছাপ রয়ে গেছে, যা আবার গুনাহের দিকে টেনে নিতে পারে। সদকা সেই ছাপ মুছে দেয়, পবিত্রতাকে পূর্ণ করে। সা'দী কথাটা আরও ব্যাপকভাবে বলেন: সম্পদের যাকাত না দেওয়া পর্যন্ত বান্দা পবিত্র হতে পারে না, বেড়েও উঠতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Drawn From Sidq",
+          "bn": "সিদক থেকে আসা শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi derives the word sadaqah from sidq, truthfulness. The charity, he says, is evidence that a person's faith is sound and that his inside agrees with his outside, and that he is not among the hypocrites who find fault with the believers who give freely, the people described in 9:79. Here, in a passage about staying behind, what the men brought in their hands is allowed to speak for them.",
+            "bn": "কুরতুবী সাদাকা শব্দটিকে সিদক থেকে নেওয়া বলে উল্লেখ করেন, যার অর্থ সত্যবাদিতা। তাঁর ভাষায়, সদকা প্রমাণ দেয় যে মানুষটির ঈমান খাঁটি, তার ভেতর আর বাইরে একই রকম। আরও প্রমাণ দেয় যে সে সেই মুনাফিকদের দলে নয়, যারা খুশিমনে দানকারী মুমিনদের খোঁটা দেয়। ৯:৭৯ আয়াতে এদেরই বর্ণনা এসেছে। পিছিয়ে থাকার আলোচনার মাঝখানে এখানে লোকগুলো হাতে করে যা এনেছেন, সেটাই তাঁদের হয়ে কথা বলছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an finds a hint in the verse's order: take from their wealth is followed at once by a charity that purifies them. Zakah and sadaqah, it says, are therefore not like a tax that a government collects to run its affairs. Their first purpose is to cleanse the owner of wealth, from sin and from the moral sickness that greed breeds. Support for the weak follows from that, and the verse here names only the first benefit.",
+            "bn": "মাআরিফুল কুরআন আয়াতের বিন্যাসে একটা ইঙ্গিত খুঁজে পায়। 'তাদের সম্পদ থেকে নিন' কথাটির পরপরই আসে 'এমন সদকা, যা তাদের পবিত্র করে'। মাআরিফের মতে তাই যাকাত ও সদকা সেই করের মতো নয়, যা সরকার নিজের কাজ চালাতে আদায় করে। এর প্রথম উদ্দেশ্য সম্পদের মালিককে পরিষ্কার করা, গুনাহ থেকে এবং লোভ থেকে জন্মানো চরিত্রের রোগ থেকে। দুর্বলদের সহায়তা আসে এরই ফল হিসেবে। আর এখানে আয়াতটি শুধু প্রথম উপকারের কথাই বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pray Over the One Giving",
+          "bn": "দাতার জন্য দোয়ার আদেশ"
+        },
+        "p": [
+          {
+            "en": "Wa salli 'alayhim: and pray over them. At-Tabari explains it as: pray for them that their sins be forgiven, and ask forgiveness for them. Al-Baghawi notes that in the language salah means du'a, and gives another view, that it is the collector's word to the person paying: may Allah reward you for what you have given, and bless you in what you have kept. As-Sa'di reads it as du'a for the believers in general, and especially when they bring their zakah.",
+            "bn": "ওয়া সাল্লি আলাইহিম: আর তাদের জন্য দোয়া করুন। তাবারীর ব্যাখ্যা: তাদের গুনাহ মাফের জন্য দোয়া করুন, তাদের জন্য ইস্তিগফার করুন। বাগাভী মনে করিয়ে দেন, ভাষার দিক থেকে সালাত মানে দোয়া। তিনি আরেকটি মতও আনেন: এটা হলো যাকাত আদায়কারীর মুখের কথা, দাতাকে উদ্দেশ করে, 'তুমি যা দিলে আল্লাহ তার প্রতিদান দিন, আর যা রেখে দিলে তাতে বরকত দিন।' সা'দীর মতে এটা সাধারণভাবে সব মুমিনের জন্য দোয়া, বিশেষ করে যখন তারা যাকাত নিয়ে আসে।"
+          },
+          {
+            "en": "The Prophet ﷺ did exactly this. Al-Bukhari records in his Sahih, hadith 1497, from 'Abdullah ibn Abi Awfa: Whenever a person came to the Prophet ﷺ with his alms, the Prophet ﷺ would say, O Allah! Send your blessings upon so and so. My father went to the Prophet ﷺ with his alms and the Prophet ﷺ said, O Allah! Send your blessings upon the offspring of Abu Aufa. Ibn Kathir and al-Qurtubi both cite this narration on the verse from Sahih Muslim.",
+            "bn": "নবী ﷺ ঠিক এটাই করতেন। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (হাদীস ১৪৯৭) আবদুল্লাহ ইবন আবী আওফা (রাঃ) থেকে বর্ণনা করেছেন: কেউ যখন নিজের সদকা নিয়ে নবী ﷺ-এর কাছে আসত, তিনি বলতেন, 'হে আল্লাহ, অমুকের উপর রহমত বর্ষণ করুন।' আমার পিতা তাঁর সদকা নিয়ে নবী ﷺ-এর কাছে গেলেন। তখন নবী ﷺ বললেন, 'হে আল্লাহ, আবু আওফার বংশধরদের উপর রহমত বর্ষণ করুন।' ইবন কাসীর ও কুরতুবী দুজনেই এ আয়াতের আলোচনায় বর্ণনাটি সহীহ মুসলিম থেকে আনেন।"
+          },
+          {
+            "en": "Is the prayer a duty on whoever receives? Al-Baghawi records four positions: that it is obligatory; that it is recommended; that it is obligatory with the obligatory charity and recommended with the voluntary; and that it is obligatory on the ruler, while it is recommended for a poor recipient to pray for the giver. Al-Qurtubi reports a view that the practice was abrogated by 9:84, leaving salah for no one but the Prophet ﷺ, and judges the first view more correct, since the address is not confined to him.",
+            "bn": "যে গ্রহণ করে, দোয়া করা কি তার উপর ফরয? বাগাভী চারটি মত উল্লেখ করেন। এক, এটা ওয়াজিব। দুই, এটা মুস্তাহাব। তিন, ফরয সদকার বেলায় ওয়াজিব, নফল সদকার বেলায় মুস্তাহাব। চার, শাসকের উপর ওয়াজিব, আর দরিদ্র গ্রহীতার জন্য দাতার পক্ষে দোয়া করা মুস্তাহাব। কুরতুবী একটি মতের কথা জানান, যাতে বলা হয়েছে এ আমল ৯:৮৪ আয়াত দিয়ে রহিত হয়ে গেছে, ফলে নবী ﷺ ছাড়া আর কারও উপর সালাত পড়া চলে না। কুরতুবী অবশ্য প্রথম মতটিকেই বেশি সঠিক বলেন, কারণ এ সম্বোধন শুধু নবী ﷺ-এর মধ্যে সীমাবদ্ধ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Sakan Gives the Heart",
+          "bn": "সাকান অন্তরকে যা দেয়"
+        },
+        "p": [
+          {
+            "en": "Inna salataka sakanun lahum: your prayer is a calm for them. At-Tabari records two glosses, a mercy for them from Ibn Abbas and a dignity, waqar, from Qatada. His own explanation is a reassurance to them that Allah has pardoned them and accepted their repentance. Al-Baghawi adds from Abu 'Ubaydah a firming of their hearts. Al-Qurtubi defines sakan as whatever souls settle by and hearts are reassured by, and says the prayer settled their hearts and made them glad.",
+            "bn": "ইন্না সালাতাকা সাকানুল লাহুম: আপনার দোয়া তাদের জন্য প্রশান্তি। তাবারী দুটি ব্যাখ্যা উল্লেখ করেন। ইবন আব্বাস (রাঃ) বলেছেন, তাদের জন্য রহমত। কাতাদা বলেছেন, তাদের জন্য মর্যাদা ও স্থিরতা, আরবিতে ওয়াকার। তাবারীর নিজের ব্যাখ্যা: এ দোয়া তাদের মনে নিশ্চয়তা আনে যে আল্লাহ তাদের মাফ করেছেন, তওবা কবুল করেছেন। বাগাভী আবু উবায়দা থেকে যোগ করেন: তাদের অন্তরকে দৃঢ় করা। কুরতুবীর সংজ্ঞায় সাকান হলো সেই জিনিস, যাতে প্রাণ থিতু হয়, অন্তর নিশ্চিন্ত হয়। তাঁর ভাষায়, এ দোয়ায় তাদের অন্তর শান্ত হতো, তারা খুশি হতো।"
+          },
+          {
+            "en": "The reciters differ on one word. At-Tabari reports that the readers of Madinah read salawatika, your prayers, in the plural, and those of Iraq and some of Makkah read salataka, in the singular, as do Hafs, Hamza and al-Kisa'i, according to al-Qurtubi. At-Tabari prefers the singular, since the verse reports that the prayer was a calm for them, not how many prayers there were. Then the close: Hearing, says at-Tabari, of your prayer; Knowing, says Ibn Kathir, of who deserves it from you.",
+            "bn": "একটি শব্দের পাঠে কারীদের মধ্যে ভিন্নতা আছে। তাবারী জানান, মদীনার কারীরা পড়েছেন সালাওয়াতিকা, বহুবচনে, অর্থাৎ আপনার দোয়াসমূহ। আর ইরাক ও মক্কার কিছু কারী পড়েছেন সালাতাকা, একবচনে। কুরতুবীর বর্ণনায় হাফস, হামযা ও কিসাঈর পাঠও একবচন। তাবারী একবচনকেই অগ্রাধিকার দেন, কারণ আয়াতটি জানাচ্ছে যে দোয়াটা তাদের জন্য প্রশান্তি, দোয়া কতবার হলো সেটা নয়। তারপর আয়াতের শেষ অংশ। তাবারী বলেন, আল্লাহ সামী', আপনার দোয়া তিনি শোনেন। ইবন কাসীর বলেন, তিনি আলীম, আপনার দোয়া পাওয়ার যোগ্য কে, তা তিনি জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read as Meant for Him Alone",
+          "bn": "শুধু তাঁর জন্য বলে পড়া"
+        },
+        "p": [
+          {
+            "en": "After the Prophet's death ﷺ, the command take became an argument. Ibn Kathir reports that some Arab tribes who withheld zakah believed it was not to be paid to the ruler, that this had been particular to the Messenger ﷺ, and cited this verse for it. Al-Qurtubi gives their reasoning in their own terms: he used to give us in return purification, growth and his prayer over us, and we have lost those from anyone else. Abu Bakr and the rest of the Companions, Ibn Kathir says, rejected this reading and fought them until they paid zakah to the caliph.",
+            "bn": "'নিন' আদেশটি নবী ﷺ-কে সম্বোধন করে বলা। তাঁর ইন্তেকালের পর এ শব্দটাই হয়ে উঠল এক যুক্তি। ইবন কাসীর জানান, আরবের কিছু গোত্র যাকাত দেওয়া বন্ধ করে দিয়েছিল। তাদের ধারণা ছিল, শাসকের হাতে যাকাত দিতে হয় না, এটা কেবল রাসূল ﷺ-এর জন্য নির্দিষ্ট ছিল। নিজেদের পক্ষে তারা এ আয়াতই পেশ করত। কুরতুবী তাদের যুক্তি তাদের ভাষাতেই তুলে ধরেন: তিনি এর বিনিময়ে আমাদের দিতেন পবিত্রতা, বৃদ্ধি আর আমাদের জন্য দোয়া। আর কারও কাছ থেকে তো সেসব আমরা পাই না। ইবন কাসীর বলেন, আবু বকর (রাঃ) ও বাকি সাহাবীরা এ ব্যাখ্যা প্রত্যাখ্যান করলেন, আর তাদের বিরুদ্ধে লড়লেন, যতক্ষণ না তারা খলীফার কাছে যাকাত দিল।"
+          },
+          {
+            "en": "Ibn Kathir quotes Abu Bakr: by Allah, if they withheld from me a hobbling cord, or in another narration a young goat, that they used to pay to the Messenger ﷺ, I would fight them over it. Al-Qurtubi then quotes Ibn al-'Arabi: some commands are for the whole community, some are the Prophet's alone, such as the night prayer in 17:79, and some are addressed to him in wording while the community shares them in meaning, such as the prayer at the decline of the sun in 17:78. This verse, he says, is of the third kind.",
+            "bn": "ইবন কাসীর আবু বকর (রাঃ)-এর কথা উদ্ধৃত করেন: আল্লাহর কসম, রাসূল ﷺ-কে তারা যা দিত, তার মধ্য থেকে উট বাঁধার একটা রশি, আরেক বর্ণনায় একটা ছাগলছানা, যদি আমাকে না দেয়, তার জন্যও আমি তাদের সঙ্গে লড়ব। এরপর কুরতুবী ইবনুল আরাবীর কথা আনেন। কিছু আদেশ গোটা উম্মাহর জন্য। কিছু কেবল নবী ﷺ-এর, যেমন ১৭:৭৯ আয়াতে তাহাজ্জুদ। আর কিছু আদেশ শব্দে তাঁকে বলা, কিন্তু অর্থে গোটা উম্মাহ তাতে শরিক, যেমন ১৭:৭৮ আয়াতে সূর্য হেলে পড়লে নামায কায়েমের আদেশ। তাঁর মতে এ আয়াত তৃতীয় ধরনের।"
+          },
+          {
+            "en": "This is history, reported about one dispute early in the caliphate of Abu Bakr, and it is kept here as history. Like the reports of hypocrites in the first section, it describes what those books describe and licenses nothing against any living person or community. Nor does it settle any present question about rulers or the collection of zakah today; that belongs to qualified scholars.",
+            "bn": "এ হলো ইতিহাস, আবু বকর (রাঃ)-এর খিলাফতের শুরুর দিকের একটি বিরোধের বর্ণনা, আর এখানে একে ইতিহাস হিসেবেই রাখা হলো। প্রথম অংশে মুনাফিকদের যে বর্ণনা এসেছে, সেটার মতোই এটাও কেবল তা-ই বর্ণনা করে, যা ওই গ্রন্থগুলো বর্ণনা করে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এর কোনোটিই কোনো অনুমতি দেয় না। শাসক বা আজকের দিনে যাকাত আদায় নিয়ে বর্তমানের কোনো প্রশ্নেরও মীমাংসা এটা করে না। সেটা যোগ্য আলেমদের কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Giving and Receiving With Du'a",
+          "bn": "দোয়াসহ দেওয়া, দোয়াসহ নেওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws practical lessons from the closing commands. The prayer over whoever paid should be said aloud, so that the giver hears it and is put at rest by it. More broadly, he says, a believer should be given joy with gentle words, with du'a and with whatever settles his heart, and anyone who has spent or done a good deed should be encouraged with du'a and with praise. A reader can carry that well past the collector of zakah, to anyone at all who receives.",
+            "bn": "শেষ আদেশগুলো থেকে সা'দী কিছু ব্যবহারিক শিক্ষা বের করেন। যে যাকাত দিল, তার জন্য দোয়া করতে হবে জোরে, যাতে দাতা নিজে শুনতে পায় আর তাতে তার মন শান্ত হয়। আরও বড় পরিসরে তিনি বলেন, নরম কথা, দোয়া আর যা কিছুতে অন্তর থিতু হয়, তা দিয়ে মুমিনের মনে আনন্দ পৌঁছে দেওয়া উচিত। আর কেউ কিছু খরচ করলে বা কোনো নেক কাজ করলে দোয়া ও প্রশংসা দিয়ে তাকে উৎসাহ দেওয়া উচিত। পাঠক কথাটা যাকাত আদায়কারীর গণ্ডি ছাড়িয়ে যে কোনো গ্রহীতার বেলায় নিয়ে যেতে পারেন।"
+          },
+          {
+            "en": "For the giver, the verse moves the attention from the purse to the heart. If what leaves the hand is a washing and a growth, then the question before giving is not only how much will remain, but what in me needs washing. The formula al-Baghawi reports for the collector holds both halves together: may Allah reward you for what you have given and bless you in what you have kept. Whoever gives can hope for both. Whoever receives can say both aloud.",
+            "bn": "দাতার জন্য আয়াতটি মনোযোগ সরিয়ে আনে থলে থেকে অন্তরে। হাত থেকে যা বেরিয়ে যায়, তা যদি ধোয়া আর বৃদ্ধি হয়, তবে দেওয়ার আগে প্রশ্ন শুধু এটা নয় যে কতটুকু বাকি থাকবে। প্রশ্ন এটাও যে আমার ভেতরের কোন জিনিসটা ধোয়া দরকার। আদায়কারীর মুখে বাগাভী যে বাক্যটি উল্লেখ করেন, তাতে দুটো দিকই একসঙ্গে আছে: যা দিলে আল্লাহ তার প্রতিদান দিন, আর যা রেখে দিলে তাতে বরকত দিন। যে দেয়, সে দুটোরই আশা রাখতে পারে। আর যে নেয়, সে দুটো কথাই মুখ ফুটে বলতে পারে।"
+          },
+          {
+            "en": "A supplication can be drawn from the verse's own words, claiming no more than that; it is not a Sunnah du'a. O Allah, make what I give a purification for me and a growth, accept it from me, and let the prayers of those I give to be a calm for my heart. As-Sa'di reads Knowing as His knowledge of His servants' intentions, and He knows the intention with which the charity left the hand.",
+            "bn": "আয়াতের নিজের শব্দ থেকে একটা দোয়া সাজানো যায়, তবে এর বেশি কিছু দাবি না করে। এটা সুন্নাহর কোনো দোয়া নয়। হে আল্লাহ, আমি যা দিই, তা আমার জন্য পবিত্রতা আর বৃদ্ধি বানিয়ে দিন, আমার কাছ থেকে কবুল করুন, আর যাদের দিই তাদের দোয়াকে আমার অন্তরের প্রশান্তি বানিয়ে দিন। সা'দী আলীম নামের ব্যাখ্যায় বলেন, আল্লাহ বান্দাদের নিয়ত জানেন। সদকাটা কোন নিয়তে হাত থেকে বেরিয়েছে, তিনি তা জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {
