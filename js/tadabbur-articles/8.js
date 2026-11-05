@@ -1987,6 +1987,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:62": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Doubt Peace Leaves Behind",
+          "bn": "সন্ধির পরেও যে খটকা থাকে"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa-in, and if, and it answers the verse before it. In 8:61 the Prophet ﷺ is told that if they incline to peace he should incline to it and rely on Allah, for He is the Hearing, the Knowing. At-Tabari's gloss on those two closing names already bears on this verse. Allah hears what you and the party you make peace with say when the peace is agreed, and the conditions each side sets; and He knows what each side conceals, whether it means to keep faith or holds the opposite in its heart.",
+            "bn": "আয়াতের শুরু ওয়া ইন দিয়ে, অর্থাৎ আর যদি। এটি আগের আয়াতের জবাব। ৮:৬১ আয়াতে নবী ﷺ-কে বলা হয়েছে, তারা সন্ধির দিকে ঝুঁকলে তুমিও ঝুঁকে পড়ো এবং আল্লাহর উপর ভরসা রাখো, তিনিই সর্বশ্রোতা, সর্বজ্ঞ। শেষের এই দুই নামের যে ব্যাখ্যা তাবারী দেন, তা এ আয়াতের সঙ্গেও মেলে। সন্ধি স্থির হওয়ার সময় আপনি আর অপর পক্ষ যা বলেন, আর প্রত্যেকে যে শর্ত জুড়ে দেয়, আল্লাহ তা শোনেন। আর কে মনে মনে কথা রাখার ইচ্ছা পুষছে, কে ভেতরে উল্টোটা লুকিয়ে রেখেছে, তা তিনি জানেন।"
+          },
+          {
+            "en": "As-Sa'di names the one worry that remains. Nothing is feared from peace, he writes, except a single thing: that the disbelievers mean by it to deceive the Muslims and seize their chance against them. So Allah told them that He is their sufficiency against that deception, and that its harm returns on those who attempt it. The verse, then, does not withdraw the permission just given. It meets the objection a careful mind would raise, and answers it before it can harden into a refusal.",
+            "bn": "সা'দী সেই একটিমাত্র দুশ্চিন্তার কথা বলেন, যা থেকে যায়। তাঁর ভাষায়, সন্ধি থেকে ভয়ের কিছু নেই, একটা বিষয় ছাড়া: কাফিররা হয়তো এর আড়ালে মুসলিমদের ধোঁকা দিতে আর সুযোগ বুঝে আঘাত হানতে চায়। তাই আল্লাহ জানিয়ে দিলেন, সেই ধোঁকার মোকাবিলায় তিনিই যথেষ্ট, আর এর ক্ষতি ফিরে যাবে ধোঁকাবাজদের ঘাড়েই। অর্থাৎ সদ্য দেওয়া অনুমতি আয়াতটি ফিরিয়ে নেয় না। সাবধানী মনে যে আপত্তি জাগবে, আয়াত আগেভাগেই তার জবাব দেয়, যাতে সেটা জমে প্রত্যাখ্যানে পরিণত না হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ruling Some Called Repealed",
+          "bn": "রহিত হওয়ার দাবি ও জবাব"
+        },
+        "p": [
+          {
+            "en": "Because 8:62 rests on 8:61, a short word on the dispute over that verse. At-Tabari reports from Qatada, by two chains, that 8:61 was abrogated by 9:5, kill the idolaters wherever you find them, and that Bara'a annulled every truce. He reports from 'Ikrima and al-Hasan al-Basri that the abrogating verse was 9:29, and from Ibn Zayd that jihad abrogated it. Al-Qurtubi records the dispute too, naming Qatada and 'Ikrima among those who held it abrogated, and Ibn 'Abbas as naming 47:35 the abrogating verse.",
+            "bn": "৮:৬২ যেহেতু ৮:৬১-এর উপর দাঁড়িয়ে, তাই সেই আয়াত নিয়ে মতভেদের কথা সংক্ষেপে বলা দরকার। তাবারী দুই সূত্রে কাতাদা থেকে বর্ণনা করেন, ৯:৫ আয়াত ৮:৬১-কে রহিত করেছে, যেখানে বলা হয়েছে মুশরিকদের যেখানে পাও হত্যা করো। কাতাদার মতে সূরা বারাআ সব সন্ধিচুক্তি বাতিল করে দিয়েছে। ইকরিমা ও হাসান বসরী থেকে তিনি আনেন, রহিতকারী আয়াত হলো ৯:২৯। আর ইবন যায়দের মতে জিহাদের বিধান একে রহিত করেছে। কুরতুবীও মতভেদটি উল্লেখ করেন। রহিত হওয়ার পক্ষে তিনি কাতাদা ও ইকরিমার নাম নেন, আর জানান যে ইবন আব্বাস রহিতকারী হিসেবে ৪৭:৩৫ আয়াতের কথা বলেছেন।"
+          },
+          {
+            "en": "At-Tabari rejects the claim. It has, he says, no evidence from the Book, the Sunnah or sound reason, since an abrogating verse must negate the earlier ruling in every respect, and 9:5 does not. In his reading 8:61 meant Banu Qurayza, People of the Book from whom jizya could be accepted, while 9:5 meant the idol-worshipping Arabs; each verse stays in force in its own field. Ibn Kathir lists those who held it abrogated and says the claim needs scrutiny: Bara'a orders fighting when that is possible, but when the enemy is numerous a truce is allowed, as at al-Hudaybiyah. No contradiction, no abrogation, no restriction.",
+            "bn": "তাবারী এই দাবি মানেন না। তাঁর মতে কিতাব, সুন্নাহ বা সুস্থ বিবেক, কোথাও এর পক্ষে প্রমাণ নেই। কারণ রহিতকারী আয়াতকে আগের বিধান সব দিক থেকে নাকচ করতে হয়, আর ৯:৫ তা করে না। তাঁর ব্যাখ্যায় ৮:৬১ আয়াতের লক্ষ্য বনু কুরাইযা, যারা ছিল আহলে কিতাব এবং যাদের কাছ থেকে জিযয়া গ্রহণ করা যেত। আর ৯:৫ আয়াতের লক্ষ্য মূর্তিপূজারি আরব মুশরিকরা। ফলে দুটি আয়াতই যার যার ক্ষেত্রে বহাল। ইবন কাসীর রহিত হওয়ার পক্ষের লোকদের নাম উল্লেখ করে বলেন, কথাটা পুনর্বিবেচনার দাবি রাখে। সূরা বারাআ লড়াইয়ের আদেশ দেয় যখন তা সম্ভব। কিন্তু শত্রু সংখ্যায় ভারী হলে সন্ধি জায়েয, যেমন হুদায়বিয়ায় হয়েছিল। তাই এখানে কোনো বিরোধ নেই, রহিতও নয়, সীমিতকরণও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Peace Shown, Treachery Hidden",
+          "bn": "বাইরে সন্ধি, ভেতরে গাদ্দারি"
+        },
+        "p": [
+          {
+            "en": "Yakhda'uka: they deceive you. Al-Qurtubi explains it as their showing you peace while concealing treachery and betrayal. Al-Baghawi glosses it with two verbs, to act treacherously and to plot against you. At-Tabari pairs it with makr, scheming, and identifies the people meant from the passage itself: those the Prophet ﷺ was ordered to throw the treaty back to if he feared betrayal from them, and to make peace with if they inclined to peace. The Muyassar says it plainly: those who made a covenant with you.",
+            "bn": "ইয়াখদাঊকা: তারা তোমাকে ধোঁকা দেবে। কুরতুবীর ব্যাখ্যায় এর মানে, তারা তোমার সামনে সন্ধি দেখাবে আর ভেতরে গাদ্দারি ও বিশ্বাসঘাতকতা লুকিয়ে রাখবে। বাগাভী দুটি ক্রিয়া দিয়ে অর্থ করেন: চুক্তি ভাঙা আর তোমার বিরুদ্ধে ষড়যন্ত্র করা। তাবারী এর সঙ্গে জুড়ে দেন মাকর, অর্থাৎ চক্রান্ত। কারা উদ্দেশ্য, তা তিনি এই আলোচনা থেকেই বের করেন। এরা সেই লোক, যাদের দিক থেকে খিয়ানতের আশঙ্কা হলে নবী ﷺ-কে চুক্তি ফিরিয়ে দিতে বলা হয়েছিল, আর সন্ধির দিকে ঝুঁকলে সন্ধি করতে বলা হয়েছিল। মুয়াসসার সোজা কথায় বলে: যারা তোমার সঙ্গে চুক্তি করেছে।"
+          },
+          {
+            "en": "Ibn Kathir supplies the motive that would turn such a peace into a trick: they want by the truce a deception, so that they can grow strong and make ready. The verb is yuridu, they intend. The verse does not say they will deceive, only what follows if they mean to. Ma'arif al-Qur'an reads it that way: should this very possibility prove to be the reality, that their intention is bad and they stop at nothing short of a deceptive strike, even then he need not be troubled by it.",
+            "bn": "এমন সন্ধি কেন ফাঁদ হতে পারে, ইবন কাসীর তার কারণ বলেন: তারা সন্ধির আড়ালে ধোঁকা দিতে চায়, যাতে শক্তি সঞ্চয় করে প্রস্তুত হয়ে নিতে পারে। আয়াতে ক্রিয়াটি ইউরীদূ, অর্থাৎ তারা চায় বা ইচ্ছা করে। আয়াত বলছে না যে তারা ধোঁকা দেবেই। বলছে, যদি তেমন ইচ্ছা করে, তবে কী। মাআরিফুল কুরআনও এভাবেই বোঝে। এই আশঙ্কাই যদি বাস্তব হয়ে দাঁড়ায়, তাদের নিয়্যাত যদি খারাপ হয় আর তারা ধোঁকা দিয়ে আঘাত হানতে মরিয়া হয়, তবুও এ নিয়ে তাঁর দুশ্চিন্তার কিছু নেই।"
+          },
+          {
+            "en": "Al-Qurtubi then draws the practical line: fa-jnah, incline to it anyway, for their corrupt intentions are not your burden. The Prophet ﷺ deals with what is shown; what is hidden lies with Him whom the previous verse called the Knowing. This is not the whole law of agreements. The fear of betrayal from a people is addressed earlier, in 8:58. The concern here is narrower: an intention he cannot see, behind an offer he has been told to accept.",
+            "bn": "এরপর কুরতুবী বাস্তব সীমারেখাটা টানেন: ফাজনাহ, তবুও সন্ধির দিকে ঝোঁকো, কারণ তাদের খারাপ নিয়্যাতের দায় তোমার উপর নেই। নবী ﷺ চলবেন প্রকাশ্য আচরণ দেখে। যা লুকানো, তা তাঁর হাতে, আগের আয়াত যাঁকে সর্বজ্ঞ বলেছে। চুক্তির সব বিধান এখানে নেই। কোনো সম্প্রদায়ের দিক থেকে বিশ্বাসঘাতকতার আশঙ্কার কথা আগেই এসেছে ৮:৫৮ আয়াতে। এখানে বিষয়টা আরও সরু: এমন এক নিয়্যাত, যা চোখে দেখা যায় না, এমন এক প্রস্তাবের আড়ালে, যা গ্রহণ করতে তাঁকে বলা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Some Attached",
+          "bn": "কেউ কেউ যাদের নাম নেন"
+        },
+        "p": [
+          {
+            "en": "Who are they? At-Tabari reports from Mujahid, on this verse, a single word: Qurayza. Al-Baghawi repeats it: Mujahid said it means Banu Qurayza. At-Tabari had taken the same view on 8:61, as the ground for his rejection of abrogation. He adds a remark of Ibn Ishaq on these words, briefer still: He is behind that. Mujahid's is the only report in the commentaries fetched for this verse that names them.",
+            "bn": "তারা কারা? তাবারী এ আয়াতের ব্যাখ্যায় মুজাহিদ থেকে একটিমাত্র শব্দ বর্ণনা করেন: কুরাইযা। বাগাভীও তা উল্লেখ করেন: মুজাহিদ বলেছেন, এর দ্বারা বনু কুরাইযা উদ্দেশ্য। ৮:৬১ আয়াতেও তাবারী একই মত নিয়েছিলেন, আর রহিত হওয়ার দাবি নাকচ করার ভিত্তি ছিল সেটাই। তিনি এই অংশে ইবন ইসহাকের আরও ছোট একটি মন্তব্য আনেন: তিনি এর পেছনে আছেন। এ আয়াতের জন্য দেখা তাফসীরগুলোতে তাদের নাম নেওয়া বর্ণনা কেবল মুজাহিদেরটাই।"
+          },
+          {
+            "en": "Ibn Kathir, on 8:61, reports Mujahid's view that it was revealed about Banu Qurayza and says that it needs scrutiny, because the whole context concerns the battle of Badr and the mention of Badr surrounds all of it. As-Sa'di speaks of the disbelievers in general, the Muyassar of those who made a covenant with you, and al-Qurtubi of those who show peace and hide treachery, without naming anyone. The identification is one reading, held by named scholars and questioned by another, and it is kept here as exactly that.",
+            "bn": "ইবন কাসীর ৮:৬১ আয়াতের আলোচনায় মুজাহিদের মত উল্লেখ করেন যে আয়াতটি বনু কুরাইযা সম্পর্কে নাযিল হয়েছে। তারপর বলেন, এ কথা পুনর্বিবেচনার দাবি রাখে, কারণ গোটা প্রসঙ্গ বদর যুদ্ধ নিয়ে, আর বদরের আলোচনাই এর আগে-পিছে ঘিরে আছে। সা'দী সাধারণভাবে কাফিরদের কথা বলেন। মুয়াসসার বলে যারা তোমার সঙ্গে চুক্তি করেছে তাদের কথা, আর কুরতুবী বলেন যারা সন্ধি দেখিয়ে গাদ্দারি লুকায় তাদের কথা। কেউই কারও নাম নেন না। তাই এই চিহ্নিতকরণ একটি ব্যাখ্যা মাত্র। কয়েকজন আলিম তা বলেছেন, আরেকজন তাতে প্রশ্ন তুলেছেন, আর এখানে সেটাকে ঠিক সেভাবেই রাখা হলো।"
+          },
+          {
+            "en": "This needs saying plainly. On any reading, the verse speaks about a party in the Prophet's ﷺ own time and about an intention Allah promised to deal with. It licenses nothing against any living person or community, Jews today included. A report about one tribe in his time gives no one leave to suspect a people of deceit, or to treat their offers of peace as tricks in advance. The verse's own instruction runs the other way: accept the peace that is offered, and leave the hidden heart to Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। যে ব্যাখ্যাই নেওয়া হোক, আয়াতটি নবী ﷺ-এর নিজের যুগের একটি পক্ষ নিয়ে কথা বলে, আর এমন এক নিয়্যাত নিয়ে, যার মোকাবিলার ভার আল্লাহ নিজে নিয়েছেন। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, আজকের ইহুদিরাও যার মধ্যে পড়েন, এ আয়াত কোনো কিছুর অনুমতি দেয় না। তাঁর যুগের একটি গোত্র নিয়ে একটি বর্ণনা কাউকে এই অধিকার দেয় না যে কোনো জাতিকে ধোঁকাবাজ বলে সন্দেহ করবে, কিংবা তাদের সন্ধির প্রস্তাবকে আগেভাগেই ফাঁদ ধরে নেবে। আয়াতের নিজের নির্দেশ বরং উল্টো দিকে: যে সন্ধি সামনে আসে তা গ্রহণ করো, আর লুকানো মনের ভার আল্লাহর উপর ছেড়ে দাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough, and Enough Alone",
+          "bn": "তিনিই যথেষ্ট, একাই যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "Fa-inna hasbaka Allah: then Allah is your sufficiency. Ibn Kathir glosses it in two words, kafika wahdahu: He suffices you, He alone. At-Tabari spells out the scope. Allah suffices you against them, and against their deceiving you. His reason looks past the single treaty: Allah has taken it upon Himself to make your religion prevail over the religions, and has guaranteed to make His word the highest and the word of His enemies the lowest. A hidden plan in one negotiation cannot undo a guarantee of that size.",
+            "bn": "ফাইন্না হাসবাকাল্লাহ: তাহলে আল্লাহই তোমার জন্য যথেষ্ট। ইবন কাসীর এর অর্থ করেন দুই শব্দে, কাফীকা ওয়াহদাহু: তিনি তোমার জন্য যথেষ্ট, একাই। তাবারী পরিধিটা খুলে বলেন। আল্লাহ তাদের মোকাবিলায় তোমার জন্য যথেষ্ট, তাদের ধোঁকার মোকাবিলাতেও। এর কারণ হিসেবে তিনি একটি চুক্তির গণ্ডি ছাড়িয়ে যান। আল্লাহ নিজেই দায়িত্ব নিয়েছেন তোমার দ্বীনকে সব দ্বীনের উপর বিজয়ী করার, আর নিশ্চয়তা দিয়েছেন তাঁর বাণীকে সবার উপরে আর শত্রুদের কথাকে সবার নিচে রাখার। একটি আলোচনার টেবিলে লুকানো কোনো ফন্দি এত বড় নিশ্চয়তাকে নড়াতে পারে না।"
+          },
+          {
+            "en": "Al-Qurtubi gives hasb as kafi, the one who suffices, and says Allah takes charge of both your sufficiency and your protection, hiyata, a word for guarding someone on every side. He cites a line of poetry to show the usage: when war comes and the staff is split, then enough for you and for ad-Dahhak is an Indian sword. As-Sa'di widens it to all that harms. He suffices you against what hurts you, He undertakes your interests and concerns, and what has already reached you of His sufficiency and help is enough to settle your heart.",
+            "bn": "কুরতুবী হাসব শব্দের অর্থ করেন কাফী, অর্থাৎ যিনি যথেষ্ট। তিনি বলেন, তোমার প্রয়োজন মেটানো আর তোমাকে আগলে রাখা, দুটোরই ভার আল্লাহ নিজে নেন। আগলে রাখার জন্য তাঁর শব্দ হিয়াতা, যার মানে চারদিক থেকে ঘিরে রক্ষা করা। শব্দের এই ব্যবহার দেখাতে তিনি একটি কবিতার চরণ আনেন: যুদ্ধ যখন বাধে আর লাঠি দুভাগ হয়ে যায়, তখন তোমার আর দাহহাকের জন্য একখানা হিন্দি তলোয়ারই যথেষ্ট। সা'দী একে সব ক্ষতির ক্ষেত্রে ছড়িয়ে দেন। যা তোমাকে কষ্ট দেয় তার মোকাবিলায় তিনি যথেষ্ট, তোমার স্বার্থ ও প্রয়োজনের দেখাশোনা তিনিই করেন। আর তাঁর কাছ থেকে যে সাহায্য আর যে যথেষ্টতা তুমি আগেই পেয়েছ, তা-ই তোমার মনকে নিশ্চিন্ত করার জন্য যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Help, and the Believers",
+          "bn": "তাঁর সাহায্য, আর মু'মিনরা"
+        },
+        "p": [
+          {
+            "en": "Huwa alladhi ayyadaka bi-nasrihi: He is the One who strengthened you with His help. At-Tabari: Allah made you strong by helping you against His enemies. Al-Qurtubi specifies the occasion: He means the day of Badr. As-Sa'di calls it a heavenly aid, help from Allah that nothing can withstand. The argument moves from the past to the future. The One who has already done this is the One making the promise now. Ma'arif al-Qur'an makes the same move, noting that this had been true earlier too.",
+            "bn": "হুওয়াল্লাযী আইয়াদাকা বিনাসরিহী: তিনিই তো নিজের সাহায্য দিয়ে তোমাকে শক্তিশালী করেছেন। তাবারীর ব্যাখ্যা: শত্রুদের বিরুদ্ধে তোমাকে সাহায্য করে আল্লাহ তোমাকে শক্তি জুগিয়েছেন। কুরতুবী উপলক্ষটা নির্দিষ্ট করেন: এখানে বদরের দিন উদ্দেশ্য। সা'দী একে বলেন আসমানি সাহায্য, আল্লাহর এমন সাহায্য যার সামনে কিছুই টিকতে পারে না। যুক্তিটা অতীত থেকে ভবিষ্যতের দিকে এগোয়। যিনি আগে এ কাজ করেছেন, তিনিই এখন ওয়াদা দিচ্ছেন। মাআরিফুল কুরআনও একই পথে চলে। সেখানে বলা হয়েছে, এ কথা আগেও সত্য ছিল।"
+          },
+          {
+            "en": "Wa-bi-l-mu'minin: and with the believers. Here the commentators differ over who is meant. At-Tabari says the Ansar, and reports the same from as-Suddi. Al-Qurtubi reports an-Nu'man ibn Bashir saying it was revealed about the Ansar, and al-Baghawi glosses it: the Ansar. Ibn Kathir and the Muyassar say the believers of the Muhajirun and the Ansar together. As-Sa'di keeps it general: aid through the believers, whom Allah appointed to support you. Either way, the believers appear in the verse as something Allah gave him.",
+            "bn": "ওয়াবিল মু'মিনীন: আর মু'মিনদের দিয়ে। এখানে কারা উদ্দেশ্য, তা নিয়ে তাফসীরকারদের মধ্যে ভিন্নতা আছে। তাবারী বলেন আনসার, আর সুদ্দী থেকেও একই কথা আনেন। কুরতুবী নু'মান ইবন বাশীর (রাঃ)-এর বক্তব্য উদ্ধৃত করেন যে আয়াতটি আনসারদের ব্যাপারে নাযিল হয়েছে। বাগাভীও অর্থ করেন: আনসার। ইবন কাসীর ও মুয়াসসার বলেন মুহাজির ও আনসার, দুই দলের মু'মিনরাই। সা'দী কথাটা সাধারণ রাখেন: মু'মিনদের মাধ্যমে সাহায্য, যাদেরকে আল্লাহ তোমার সহায়তার জন্য দাঁড় করিয়েছেন। যে ব্যাখ্যাই হোক, আয়াতে মু'মিনরা এসেছেন আল্লাহর দেওয়া দান হিসেবে।"
+          },
+          {
+            "en": "The next verse, 8:63, says what made those believers a support: He joined their hearts. Ibn Kathir, under that clause, recalls the wars between the Aws and the Khazraj before Islam, and cites the Prophet's ﷺ address to the Ansar after Hunayn. In Sahih al-Bukhari 4330 he says: \"O, the assembly of Ansar! Didn't I find you astray, and then Allah guided you on the Right Path through me? You were divided into groups, and Allah brought you together through me; you were poor and Allah made you rich through me.\" That narration belongs to the next clause; no tafsir fetched attaches a hadith to the words of 8:62 itself.",
+            "bn": "পরের আয়াত ৮:৬৩ বলে দেয়, এই মু'মিনরা কীসের জোরে সহায় হয়ে উঠেছিলেন: তিনি তাদের অন্তর জুড়ে দিয়েছেন। ইবন কাসীর সেই অংশের আলোচনায় ইসলামের আগে আওস ও খাযরাজের যুদ্ধগুলোর কথা মনে করিয়ে দেন। তারপর হুনাইনের পর আনসারদের উদ্দেশে নবী ﷺ-এর ভাষণ উদ্ধৃত করেন। সহীহ বুখারী ৪৩৩০-এ তিনি বলেন: \"হে আনসার সমাজ! আমি কি তোমাদের পথভ্রষ্ট অবস্থায় পাইনি, তারপর আল্লাহ আমার মাধ্যমে তোমাদের সঠিক পথ দেখিয়েছেন? তোমরা ছিলে দলে দলে বিভক্ত, আল্লাহ আমার মাধ্যমে তোমাদের একত্র করেছেন; তোমরা ছিলে অভাবী, আল্লাহ আমার মাধ্যমে তোমাদের সচ্ছল করেছেন।\" এই বর্ণনা পরের অংশের সঙ্গে যুক্ত। দেখা তাফসীরগুলোর কোনোটি ৮:৬২-এর নিজস্ব শব্দের সঙ্গে কোনো হাদীস জুড়ে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise Particular to Him",
+          "bn": "বিশেষভাবে তাঁর জন্য ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an ties the promise to the Prophet ﷺ himself. It observes that after this verse came down, throughout his life, no deceit or ambush from his enemies brought him harm, and it likens the promise to 5:67, and Allah will protect you from the people. On that basis, citing Bayan al-Qur'an, it concludes that this promise was special to the Prophet ﷺ. As for others, it says, they should make formal arrangements after assessing the conditions they face.",
+            "bn": "মাআরিফুল কুরআন এই ওয়াদাকে নবী ﷺ-এর সঙ্গেই যুক্ত করে দেখে। সেখানে বলা হয়েছে, এ আয়াত নাযিল হওয়ার পর তাঁর গোটা জীবনে শত্রুদের কোনো ধোঁকা বা ওত পেতে থাকা আক্রমণ তাঁর ক্ষতি করতে পারেনি। এই ওয়াদাকে সেখানে তুলনা করা হয়েছে ৫:৬৭ আয়াতের সঙ্গে: আল্লাহ তোমাকে মানুষের হাত থেকে রক্ষা করবেন। এর ভিত্তিতে বায়ানুল কুরআনের বরাতে মাআরিফ সিদ্ধান্ত টানে, এ ওয়াদা নবী ﷺ-এর জন্য বিশেষ। অন্যদের ব্যাপারে বলা হয়েছে, তারা পরিস্থিতি যাচাই করে যথাযথ ব্যবস্থা নেবে।"
+          },
+          {
+            "en": "That keeps the verse from being stretched either way. It is not a guarantee that whoever trusts Allah will never be cheated, and it is not a rule for how states should handle wars or treaties today; this article draws no such policy from it. What carries over is the shape of the reasoning. The verse answers a danger no one can see by recalling a favour everyone saw. That shape is open to every believer, on the scale of an ordinary life.",
+            "bn": "এতে আয়াতটিকে কোনো দিকেই টেনে লম্বা করার সুযোগ থাকে না। আল্লাহর উপর ভরসা করলে কেউ কখনো প্রতারিত হবে না, এমন নিশ্চয়তা এ আয়াত দেয় না। আজকের রাষ্ট্রগুলো কীভাবে যুদ্ধ বা চুক্তি সামলাবে, তার নিয়মও এটা নয়, আর এ লেখা তা থেকে এমন কোনো নীতি বের করে না। যা থেকে যায়, তা যুক্তির ধরনটা। যে বিপদ কেউ দেখতে পায় না, আয়াত তার জবাব দেয় এমন এক অনুগ্রহ মনে করিয়ে, যা সবাই দেখেছে। সাধারণ জীবনের মাপে এই ধরনটা প্রত্যেক মু'মিনের জন্য খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Hearts Stay Unreadable",
+          "bn": "মন যখন পড়া যায় না"
+        },
+        "p": [
+          {
+            "en": "In daily life the verse's situation returns in small forms. A relative who wronged you asks to make up. A colleague who once worked against you offers to cooperate. A neighbour sends greetings after a long quarrel. The mind asks at once what they are after. Sometimes that question is wisdom; often it is a way of never having to forgive. The verse does not ask you to stop seeing. It asks you not to make certainty about another heart the price of every peace.",
+            "bn": "দৈনন্দিন জীবনে আয়াতের এই পরিস্থিতি ছোট ছোট রূপে ফিরে আসে। যে আত্মীয় আপনার উপর অন্যায় করেছিল, সে মিটমাট করতে চায়। যে সহকর্মী একসময় আপনার বিরুদ্ধে কাজ করেছিল, সে এখন সহযোগিতার প্রস্তাব দেয়। লম্বা ঝগড়ার পর প্রতিবেশী সালাম পাঠায়। মন সঙ্গে সঙ্গে প্রশ্ন তোলে, এর মতলবটা কী। কখনো এই প্রশ্ন বিচক্ষণতা, কিন্তু অনেক সময় এটা ক্ষমা না করার একটা বাহানা। আয়াত আপনাকে চোখ বন্ধ করতে বলে না। বলে, অন্যের মনের খবর নিশ্চিত জানাকে প্রতিটি সন্ধির শর্ত বানাবেন না।"
+          },
+          {
+            "en": "Al-Qurtubi's line fits here: their corrupt intentions, if they exist, are not your burden. You answer for your own part: accepting fairly, keeping your word, staying alert to what is actually shown. The rest belongs to the Hearing, the Knowing, who in at-Tabari's words hears what is said when the peace is made and knows what each side keeps inside. Leaving it there is not carelessness. It is what tawakkul, reliance on Allah, means in this passage.",
+            "bn": "কুরতুবীর কথাটা এখানে খাটে: তাদের খারাপ নিয়্যাত যদি থেকেও থাকে, তার দায় আপনার নয়। আপনার জবাবদিহি নিজের অংশের জন্য: ন্যায্যভাবে গ্রহণ করা, কথা রাখা, আর যা প্রকাশ্যে দেখা যায় সে ব্যাপারে সজাগ থাকা। বাকিটা সর্বশ্রোতা, সর্বজ্ঞের হাতে। তাবারীর ভাষায়, সন্ধির সময় যা বলা হয় তিনি তা শোনেন, আর প্রত্যেক পক্ষ মনে যা পুষে রাখে তা জানেন। সেখানে ছেড়ে দেওয়া অবহেলা নয়। এই আলোচনায় তাওয়াক্কুল, অর্থাৎ আল্লাহর উপর ভরসার মানে এটাই।"
+          },
+          {
+            "en": "The verse also shows a way to steady a fearful heart: look back. As-Sa'di says that what Allah had already done for the Prophet ﷺ was enough to settle his heart. Most of us can name help we never arranged, and people beside us whom we did not choose. Before a new worry takes over, count them. Then ask Allah, who suffices, to guard you from what you cannot see, and to keep you honest in what you can.",
+            "bn": "ভীত মনকে স্থির করার একটা পথও আয়াত দেখায়: পেছনে তাকানো। সা'দী বলেন, আল্লাহ নবী ﷺ-এর জন্য আগে যা করেছেন, তা-ই তাঁর মনকে নিশ্চিন্ত করার জন্য যথেষ্ট ছিল। আমাদের বেশির ভাগই এমন সাহায্যের কথা বলতে পারি, যার ব্যবস্থা আমরা নিজেরা করিনি। এমন মানুষের কথাও, যারা পাশে দাঁড়িয়েছে অথচ তাদের আমরা বেছে নিইনি। নতুন দুশ্চিন্তা মন দখল করার আগে সেগুলো গুনে দেখুন। তারপর যিনি যথেষ্ট, সেই আল্লাহর কাছে দোয়া করুন, যা দেখতে পান না তা থেকে যেন তিনি আপনাকে রক্ষা করেন, আর যা দেখতে পান তাতে যেন সৎ রাখেন।"
+          }
+        ]
+      }
+    ]
+  },
   "8:67": {
     "sections": [
       {

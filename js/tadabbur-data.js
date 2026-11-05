@@ -20991,6 +20991,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the truth is put to you, ask to be guided to it, not to be proved right; daring Allah to strike is ignorance of how to speak to Him.",
     "lessonBn": "সত্য সামনে এলে নিজেকে সঠিক প্রমাণের দাবি নয়, সেই সত্যের পথ চেয়ে দোয়া করুন। আল্লাহকে শাস্তির চ্যালেঞ্জ ছোড়া মানে তাঁর সঙ্গে কথা বলার আদব না জানা।"
+  },
+  "8:62": {
+    "reflectionEn": "The verse before tells the Prophet to accept peace when it is offered and to rely on Allah. This one names the doubt that peace leaves behind: what if the offer is a trick, a pause to regroup before the next blow? The answer is neither to refuse the offer nor to pretend the doubt away. It is a reminder: Allah is enough for you. He has already backed you with His help and with believers whose hearts He joined together. You cannot read hidden intentions, and you were not asked to. Sometimes I hold back from a reconciliation because I cannot be sure of the other heart. Is my caution protecting me, or has my own watchfulness become the thing I trust?",
+    "reflectionBn": "আগের আয়াতে নবী ﷺ-কে বলা হয়েছে, সন্ধির প্রস্তাব এলে তা গ্রহণ করতে আর আল্লাহর উপর ভরসা রাখতে। এ আয়াত সেই সংশয়ের নাম নেয়, যা সন্ধির পরেও মনে থেকে যায়। প্রস্তাবটা যদি ফাঁদ হয়? যদি পরের আঘাতের আগে দম নেওয়ার ফন্দি হয়? জবাবে প্রস্তাব ফিরিয়ে দিতে বলা হয়নি, সংশয়টাকে চেপে রাখতেও বলা হয়নি। বলা হয়েছে একটা কথা মনে করিয়ে দিয়ে: আল্লাহই তোমার জন্য যথেষ্ট। তিনি আগেও নিজের সাহায্য দিয়ে আর মু'মিনদের দিয়ে তোমাকে শক্তি জুগিয়েছেন, যাদের অন্তর তিনিই জুড়ে দিয়েছেন। মনের লুকানো নিয়্যাত পড়ার সাধ্য আপনার নেই, সে দায়িত্বও আপনাকে দেওয়া হয়নি। অনেক সময় আমি মিটমাট থেকে পিছিয়ে থাকি, কারণ অপর মানুষটির মনের খবর নিশ্চিত জানি না। আমার এই সতর্কতা কি আমাকে রক্ষা করছে, নাকি নিজের পাহারাদারিকেই আমি ভরসার জায়গা বানিয়ে ফেলেছি?",
+    "pointsEn": [
+      "Is there a reconciliation I keep postponing only because I cannot be certain what the other person really intends?",
+      "When I suspect someone's motive, do I deal with what they show me and leave what they hide to the One who knows it?",
+      "What help have I already received, from Allah and through people He placed beside me, that I forget each time a new worry arrives?",
+      "Whose hearts has faith joined to mine, and have I thanked Allah for them, or only leaned on them?",
+      "Does my sense of being safe rest on my own vigilance, or on Allah being enough?"
+    ],
+    "pointsBn": [
+      "এমন কোনো মিটমাট কি আছে, যা আমি বারবার পিছিয়ে দিচ্ছি শুধু এই কারণে যে অপর পক্ষের আসল মতলব আমি নিশ্চিত জানি না?",
+      "কারও উদ্দেশ্য নিয়ে সন্দেহ হলে আমি কি তার প্রকাশ্য আচরণ দেখে চলি, আর যা সে লুকায় তা ছেড়ে দিই তাঁর হাতে, যিনি সব জানেন?",
+      "আল্লাহর কাছ থেকে, আর তাঁর পাশে দাঁড় করানো মানুষদের মাধ্যমে, কোন কোন সাহায্য আমি আগেই পেয়েছি, যা নতুন কোনো দুশ্চিন্তা এলেই ভুলে যাই?",
+      "ঈমান কাদের অন্তরকে আমার অন্তরের সঙ্গে জুড়ে দিয়েছে? তাদের জন্য কি আমি আল্লাহর শুকরিয়া আদায় করি, নাকি শুধু তাদের উপর ভর দিয়ে থাকি?",
+      "নিজেকে নিরাপদ ভাবার ভিত্তি কি আমার নিজের সজাগ পাহারা, নাকি এই বিশ্বাস যে আল্লাহই যথেষ্ট?"
+    ],
+    "lessonEn": "Do not let a suspicion you cannot prove keep you from an offered peace; what it may hide is Allah's to guard you from, and He has guarded you before.",
+    "lessonBn": "যে সন্দেহ প্রমাণ করতে পারবেন না, তার জন্য সামনে আসা সন্ধির সুযোগ ফিরিয়ে দেবেন না। ভেতরে যা লুকানো থাকতে পারে, তা থেকে রক্ষা করার ভার আল্লাহর, আর তিনি আগেও রক্ষা করেছেন।"
   }
 };
 
