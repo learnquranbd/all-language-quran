@@ -21271,6 +21271,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not use oaths to buy silence about a failing; being left alone is not the same as being forgiven, and only the truth opens the way back.",
     "lessonBn": "নিজের ব্যর্থতা ঢাকতে কসম দিয়ে চুপ করানোর পথ ধরবেন না। কেউ কিছু না বলা মানেই মাফ পাওয়া নয়, ফেরার পথ খোলে কেবল সত্য দিয়ে।"
+  },
+  "9:34": {
+    "reflectionEn": "The verse looks at two kinds of people who hold other people's trust: people of religion and people of means. Of the first it says that many, not all, eat people's wealth unjustly and turn them from the way of Allah. Of the second it names gold and silver kept back from the way of Allah, and it announces their end in the language of good news, which here is a warning of pain. Neither charge is against knowing or owning. One is about using religion to take; the other is about holding what was meant to move. The verse speaks to believers, so the mirror is mine. Has what I know ever earned me what it should not? Is anything I hold still owing?",
+    "reflectionBn": "আয়াতটি এমন দুই ধরনের মানুষের দিকে তাকায়, যাদের হাতে অন্যদের ভরসা থাকে: ধর্মের মানুষ আর সম্পদের মানুষ। প্রথম দল সম্পর্কে বলে, সবাই নয়, অনেকেই অন্যায়ভাবে মানুষের সম্পদ খায় আর মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে। দ্বিতীয় দল সম্পর্কে বলে সেই সোনা-রুপার কথা, যা আল্লাহর পথে খরচ না করে আটকে রাখা হয়। তাদের পরিণামের খবর দেয় সুসংবাদের ভাষায়, অথচ খবরটা যন্ত্রণাদায়ক শাস্তির। কোনো অভিযোগই জানার বিরুদ্ধে নয়, মালিক হওয়ার বিরুদ্ধেও নয়। একটা হলো ধর্মকে নেওয়ার উপায় বানানো, অন্যটা হলো যা হাত বদলানোর কথা, তা আটকে রাখা। কথাটা বলা হয়েছে মুমিনদের, তাই আয়নাটা আমারই সামনে। আমার জ্ঞান কি কখনো আমাকে এমন কিছু এনে দিয়েছে, যা পাওয়ার কথা ছিল না? আমার হাতে যা আছে, তার কোনো পাওনা কি এখনো বাকি?",
+    "pointsEn": [
+      "What is due this year on what I own, and have I actually worked it out, or only assumed it is paid?",
+      "Has payment, praise or deference for what I know of the religion ever made me soften something I should have said plainly?",
+      "When I speak about another community, do I keep the word many, or do I let it quietly become all?",
+      "Who depends on me for what I am obliged to give them, and am I late in giving it?",
+      "Is there money I keep only because letting it go frightens me, not because I need it?"
+    ],
+    "pointsBn": [
+      "এ বছর আমার সম্পদে কী পাওনা হয়েছে? আমি কি সত্যিই হিসাব করে দেখেছি, নাকি ধরে নিয়েছি যে আদায় হয়ে গেছে?",
+      "দ্বীনের যতটুকু জানি, তার বিনিময়ে পাওয়া টাকা, প্রশংসা বা খাতির কি কখনো আমাকে এমন কথা নরম করে বলতে বাধ্য করেছে, যা সোজাসুজি বলা দরকার ছিল?",
+      "অন্য কোনো সম্প্রদায়ের কথা বলার সময় আমি কি 'অনেকে' শব্দটা ধরে রাখি, নাকি চুপচাপ সেটা 'সবাই' হয়ে যায়?",
+      "যা দেওয়া আমার উপর ফরজ, তার জন্য কারা আমার দিকে তাকিয়ে আছে? দিতে কি আমার দেরি হচ্ছে?",
+      "এমন কোনো টাকা কি আছে, যা আমি রেখে দিই প্রয়োজনের জন্য নয়, শুধু ছেড়ে দিতে ভয় লাগে বলে?"
+    ],
+    "lessonEn": "Neither knowledge nor wealth is blamed in itself; the blame falls on religion used as a way to take, and on wealth held back from what is due on it.",
+    "lessonBn": "জ্ঞান বা সম্পদ নিজে দোষের নয়; দোষ তখনই, যখন ধর্মকে নেওয়ার উপায় বানানো হয়, আর সম্পদের পাওনা আটকে রাখা হয়।"
   }
 };
 

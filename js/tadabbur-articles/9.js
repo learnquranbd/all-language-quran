@@ -1195,6 +1195,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turned Toward the Believers",
+          "bn": "মুমিনদের দিকে ফেরানো কথা"
+        },
+        "p": [
+          {
+            "en": "The passage before this verse has been about the People of the Book: the claims of 9:30 and, in 9:31, the charge of taking ahbar and ruhban as lords besides Allah. Our verse keeps the same two groups in view but changes who is spoken to. It opens with ya ayyuha alladhina amanu, O you who have believed. As-Sa'di calls it a warning from Allah to His believing servants about many of the ahbar and ruhban. In Ma'arif al-Qur'an's reading, the conduct described is theirs, and the alertness asked for is the Muslims' own.",
+            "bn": "এর আগের অংশটা আহলে কিতাবকে নিয়ে। ৯:৩০ আয়াতে তাদের দাবির কথা, আর ৯:৩১ আয়াতে অভিযোগ যে তারা আল্লাহকে বাদ দিয়ে তাদের আহবার ও রুহবানকে রব বানিয়ে নিয়েছে। আমাদের আয়াতেও সেই দুই দল চোখের সামনে থাকে, কিন্তু সম্বোধন বদলে যায়। শুরু হয় ইয়া আইয়ুহাল্লাযীনা আমানূ দিয়ে: হে মুমিনগণ। সা'দী একে বলেন মুমিন বান্দাদের প্রতি আল্লাহর সতর্কবাণী, আহবার ও রুহবানের অনেকের ব্যাপারে। মাআরিফুল কুরআনও সম্বোধনটা এভাবেই পড়ে। আচরণটা তাদের, কিন্তু সজাগ থাকার দায় মুসলিমদের নিজেদের।"
+          },
+          {
+            "en": "As-Suddi, in at-Tabari's report, says the ahbar are from the Jews and the ruhban from the Christians, and Ibn Kathir agrees. Ibn Kathir then states the purpose: a warning against scholars of evil and devotees of misguidance. None of the commentaries read gives an occasion of revelation. For its setting we have its place: after the charge of lordship, and before 9:35 and its branding.",
+            "bn": "তাবারীর বর্ণনায় সুদ্দী বলেন, আহবার ইয়াহুদিদের মধ্য থেকে আর রুহবান খ্রিস্টানদের মধ্য থেকে। ইবন কাসীরও তা-ই বলেন। তারপর তিনি আয়াতের উদ্দেশ্য খুলে বলেন: মন্দ আলিম আর পথভ্রষ্ট আবেদদের ব্যাপারে সতর্ক করা। যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এ আয়াতের শানে নুযূল দেয় না। প্রেক্ষাপট বলতে তাই আয়াতের অবস্থান: রব বানানোর অভিযোগের পরে, আর ৯:৩৫ আয়াতের দাগ দেওয়ার বর্ণনার আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many, a Heap, and Glad Tidings",
+          "bn": "অনেকে, স্তূপ, আর সুসংবাদ"
+        },
+        "p": [
+          {
+            "en": "The first word to weigh is kathiran, many. The verse does not say the ahbar and ruhban eat people's wealth; it says many of them do. Ma'arif al-Qur'an stops on this. When a practice is widespread in a group, it says, people tend to make a sweeping statement and call everyone bad, and here the Qur'an, by adding kathiran, teaches Muslims to mind their words even about opponents. The verse describes those men as it describes them. It licenses nothing against Jews and Christians today, or against any living clergy or community.",
+            "bn": "প্রথম যে শব্দটা ওজন করে দেখার মতো, তা হলো কাসীরান: অনেকে। আয়াত বলে না যে আহবার ও রুহবান মানুষের সম্পদ খায়। বলে, তাদের অনেকে খায়। মাআরিফুল কুরআন এখানে থামে। কোনো দলে একটা অভ্যাস ছড়িয়ে পড়লে মানুষ সাধারণত ঢালাও মন্তব্য করে, সবাইকে খারাপ বলে দেয়। কুরআন এখানে কাসীরান শব্দ জুড়ে দিয়ে মুসলিমদের শেখায়, প্রতিপক্ষের ব্যাপারেও কথা মেপে বলতে হয়। আয়াতটি ওই মানুষদের যেভাবে বর্ণনা করে, সেভাবেই বর্ণনা করে। আজকের ইয়াহুদি ও খ্রিস্টানদের বিরুদ্ধে, কিংবা জীবিত কোনো ধর্মগুরু বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না।"
+          },
+          {
+            "en": "The second is yaknizuna, they hoard. At-Tabari says that kanz in the speech of the Arabs is anything gathered one part onto another, inside the earth or on its surface, and cites a line of old poetry about wheat lying heaped, makkanuz, in a host's store. Al-Qurtubi gives the root sense as joining and gathering, and says gold and silver are named because they can be kept out of sight, unlike other property. Then comes fa-bashshirhum, give them glad tidings, which al-Baghawi glosses simply as warn them: the word for good news is made to carry a painful punishment.",
+            "bn": "দ্বিতীয় শব্দ ইয়াকনিযূন: তারা জমা করে রাখে। তাবারী বলেন, আরবদের ভাষায় কানয মানে এমন সবকিছু, যার একটা অংশ আরেকটা অংশের উপর জমানো, মাটির নিচে হোক বা উপরে। প্রমাণ হিসেবে তিনি এক পুরোনো কবিতার পঙ্ক্তি আনেন, যেখানে মেজবানের ঘরে গম স্তূপ করে রাখা (মাকনূয)। কুরতুবী ধাতুর মূল অর্থ বলেন মেলানো ও জড়ো করা। তাঁর মতে সোনা-রুপার নাম আলাদা করে এসেছে, কারণ অন্য সম্পদের মতো নয়, এ দুটি চোখের আড়ালে রাখা যায়। এরপর আসে ফাবাশশিরহুম: তাদের সুসংবাদ দাও। বাগাভী এর সোজা অর্থ করেন, তাদের সতর্ক করো। সুসংবাদের শব্দ দিয়েই এখানে যন্ত্রণাদায়ক শাস্তির খবর দেওয়া হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Religion Made Into a Living",
+          "bn": "ধর্মকে রুজির পথ বানানো"
+        },
+        "p": [
+          {
+            "en": "What does eating people's wealth bil-batil, unjustly, mean here? At-Tabari answers with a list: they take bribes in their judgments, they alter the Book of Allah, and they write books with their own hands, say this is from Allah, selling them to their lowly followers for a small price. Al-Baghawi repeats the list and adds the earnings they drew from those followers for altering the description of the Prophet ﷺ. Ma'arif al-Qur'an names the core of it as giving rulings against the Torah for money.",
+            "bn": "মানুষের সম্পদ বিল-বাতিল, অর্থাৎ অন্যায়ভাবে খাওয়ার মানে এখানে কী? তাবারী একটা তালিকা দেন। তারা বিচারের রায়ে ঘুষ নেয়, আল্লাহর কিতাব বিকৃত করে, নিজের হাতে বই লিখে বলে 'এটা আল্লাহর কাছ থেকে', আর তার বিনিময়ে নিচু স্তরের অনুসারীদের কাছ থেকে সামান্য দাম আদায় করে। বাগাভীও এই তালিকা দেন। সঙ্গে যোগ করেন সেই আয়ের কথা, যা তারা অনুসারীদের কাছ থেকে পেত নবী ﷺ-এর বর্ণনা বদলে দেওয়ার বিনিময়ে। মাআরিফুল কুরআনের মতে এর মূল কথা হলো টাকার বিনিময়ে তাওরাতের বিধানের উল্টো ফতোয়া দেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi gathers several readings, each introduced with it is said. They took levies from their followers in the name of churches and houses of worship, making them think such spending was required by the Law and brought them near to Allah, while the takers held the money back. They took levies in the name of protecting the religion. They took bribes in judgments, as many governors and judges, he says, do today. Bil-batil, he concludes, gathers it all.",
+            "bn": "কুরতুবী কয়েকটি মত জড়ো করেন, প্রতিটির শুরুতে 'বলা হয়'। তারা গির্জা ও উপাসনালয়ের নামে অনুসারীদের কাছ থেকে কর আদায় করত। মানুষকে বোঝাত, এই খরচ শরিয়তের দাবি আর আল্লাহর নৈকট্যের পথ। অথচ আদায়কারীরা নিজেরাই টাকাটা আটকে রাখত। আরেক মত, তারা দ্বীন রক্ষার নামে কর নিত। আরেক মত, তারা রায় দিতে ঘুষ নিত, কুরতুবীর ভাষায় যেমনটা আজও বহু শাসক ও বিচারক করে। তাঁর উপসংহার: বিল-বাতিল শব্দটি এর সবকিছুকে ধারণ করে।"
+          },
+          {
+            "en": "As-Sa'di looks at it from the side of the givers. Stipends and gifts from people's wealth were given to these men for their knowledge and worship, and so that they would guide; taken by men who then turn people from the way of Allah, they become suht and injustice. So does payment to issue a fatwa or a judgment by other than what Allah sent down. Ibn Kathir calls it eating the world by means of religion and rank. Of wa yasudduna, at-Tabari says they kept whoever wanted to enter Islam from entering it.",
+            "bn": "সা'দী বিষয়টা দেখেন দাতাদের দিক থেকে। মানুষের সম্পদ থেকে এদের যে ভাতা বা হাদিয়া দেওয়া হতো, তা দেওয়া হতো তাদের জ্ঞান আর ইবাদতের জন্য, যাতে তারা পথ দেখায়। সেই টাকা নিয়ে যারা মানুষকে আল্লাহর পথ থেকেই ফিরিয়ে রাখে, তাদের জন্য তা হয়ে যায় সুহত, হারাম আর জুলুম। আল্লাহর নাযিল করা বিধানের বাইরে ফতোয়া বা রায় দেওয়ার বিনিময়ে টাকা নেওয়াও তা-ই। ইবন কাসীর একে বলেন দ্বীন আর পদমর্যাদা দিয়ে দুনিয়া খাওয়া। ওয়া ইয়াসুদ্দূন সম্পর্কে তাবারী বলেন, কেউ ইসলামে প্রবেশ করতে চাইলে তারা তাকে বাধা দিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Us, or Only Them?",
+          "bn": "আমরা, নাকি শুধু তারা?"
+        },
+        "p": [
+          {
+            "en": "Who are those who hoard? Al-Qurtubi says the Companions differed. Mu'awiya held that the verse means the People of the Book, because it comes straight after the ahbar and ruhban. Abu Dharr and others held that it means them and the Muslims too, and al-Qurtubi judges this correct on grammar: had only the People of the Book been meant, the verse would have said wa yaknizuna, and they hoard, while walladhina begins a new sentence. As-Suddi, in at-Tabari's report, said it means the people of the qibla. At-Tabari also reports Ibn 'Abbas: it is the People of the Book, and it is specific and general.",
+            "bn": "জমা করে রাখে কারা? কুরতুবী বলেন, সাহাবিদের মধ্যে এ নিয়ে মতভেদ ছিল। মুআবিয়া (রাঃ)-এর মত, আয়াতটি আহলে কিতাবের ব্যাপারে, কারণ তা এসেছে আহবার ও রুহবানের কথার ঠিক পরেই। আবু যার (রাঃ) ও আরও কয়েকজনের মত, এতে তারা আর মুসলিমরা দুই দলই আছে। কুরতুবী ব্যাকরণের যুক্তিতে এই মতকে সঠিক বলেন। শুধু আহলে কিতাব উদ্দেশ্য হলে আয়াতে আসত ওয়া ইয়াকনিযূন (আর তারা জমা করে), অথচ ওয়াল্লাযীনা দিয়ে নতুন বাক্য শুরু হয়েছে। তাবারীর বর্ণনায় সুদ্দী বলেন, এরা কিবলার অনুসারী, অর্থাৎ মুসলিম। তাবারী ইবন আব্বাস (রাঃ)-এর কথাও আনেন: এরা আহলে কিতাব, আর আয়াতটি একই সঙ্গে বিশেষ ও সাধারণ।"
+          },
+          {
+            "en": "At-Tabari reads that as specific to Muslims who withhold zakat, and general for the People of the Book. Al-Bukhari records the dispute (4660), from Zayd ibn Wahb: \"I passed by (visited) Abu Dhar at Ar-Rabadha and said to him, 'What has brought you to this land?' He said, 'We were at Sham and I recited the Verse: \"They who hoard up gold and silver and spend them not in the way of Allah; announce to them a painful torment,\" where upon Muawiya said, \"This Verse is not for us, but for the people of the Scripture.\" Then I said, \"But it is both for us (Muslim) and for them.\"'\"",
+            "bn": "তাবারীর ব্যাখ্যায়, মুসলিমদের মধ্যে আয়াতটি বিশেষ, যারা যাকাত আটকে রাখে শুধু তাদের জন্য। আর আহলে কিতাবের ক্ষেত্রে তা সাধারণ। বিরোধটি বুখারী এনেছেন (৪৬৬০) যায়দ ইবন ওয়াহবের সূত্রে: \"আমি রাবাযায় আবু যারের কাছে গেলাম এবং তাঁকে বললাম, 'কোন জিনিস আপনাকে এই এলাকায় নিয়ে এল?' তিনি বললেন, 'আমরা শামে ছিলাম। আমি এই আয়াত পড়লাম: \"যারা সোনা ও রুপা জমা করে রাখে আর তা আল্লাহর পথে খরচ করে না, তাদের যন্ত্রণাদায়ক শাস্তির সুসংবাদ দাও।\" তখন মুআবিয়া বললেন, \"এ আয়াত আমাদের ব্যাপারে নয়, এ শুধু আহলে কিতাবের ব্যাপারে।\" আমি বললাম, \"এটা আমাদের (মুসলিমদের) ব্যাপারেও, তাদের ব্যাপারেও।\"'\""
+          },
+          {
+            "en": "Al-Bukhari's longer version (1406) gives the sequel in Abu Dharr's words. The two of them quarrelled, Mu'awiya wrote to 'Uthman complaining of him, and 'Uthman wrote telling him to come to Madina. In Madina people crowded round him as if they had never seen him, and 'Uthman said he could withdraw and live nearby if he wished. That, Abu Dharr says, is what brought him to ar-Rabadha, and even had an Ethiopian been made his ruler, he would have heard and obeyed. Two Companions held two readings, and neither is settled here.",
+            "bn": "বুখারীর দীর্ঘতর বর্ণনায় (১৪০৬) এর পরের ঘটনাটা আছে আবু যার (রাঃ)-এর নিজের মুখে। দুজনের মধ্যে কথা কাটাকাটি হলো। মুআবিয়া (রাঃ) উসমান (রাঃ)-এর কাছে তাঁর বিরুদ্ধে অভিযোগ লিখে পাঠালেন। উসমান (রাঃ) তাঁকে মদিনায় চলে আসতে লিখলেন। মদিনায় মানুষ তাঁর চারপাশে এমনভাবে ভিড় করল, যেন আগে কখনো তাঁকে দেখেনি। উসমান (রাঃ) বললেন, চাইলে আপনি সরে গিয়ে কাছাকাছি কোথাও থাকতে পারেন। আবু যার (রাঃ) বলেন, এ কারণেই তিনি রাবাযায়। আর কোনো হাবশিকেও যদি তাঁর উপর শাসক বানানো হতো, তিনি শুনতেন ও মানতেন। দুই সাহাবির দুই রকম পাঠ, এখানে কোনোটির পক্ষে রায় দেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Wealth Becomes a Kanz",
+          "bn": "সম্পদ কখন কানয হয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that some said the kanz is wealth whose zakat was due and unpaid, and cites Ibn 'Umar by several chains: wealth whose zakat is paid is no kanz even if buried, and wealth whose zakat is unpaid is the kanz Allah mentioned, even if not buried. In a report al-Bukhari opens with \"Ahmad ibn Shabib said\" (1404), Ibn 'Umar answers a bedouin's question on the verse: \"Whoever hoarded them and did not pay the Zakat thereof, then woe to him. But these holy Verses were revealed before the Verses of Zakat. So when the Verses of Zakat were revealed, Allah made Zakat a purifier of the property.\"",
+            "bn": "তাবারী জানান, কেউ কেউ বলেছেন, কানয হলো সেই সম্পদ, যার যাকাত ফরজ হয়েছিল কিন্তু দেওয়া হয়নি। এ বিষয়ে তিনি কয়েকটি সনদে ইবন উমর (রাঃ)-এর কথা আনেন: যে সম্পদের যাকাত দেওয়া হয়েছে, তা মাটিতে পুঁতে রাখলেও কানয নয়। আর যার যাকাত দেওয়া হয়নি, পোঁতা না থাকলেও সেটাই আল্লাহর উল্লেখ করা কানয। বুখারীর এক বর্ণনায়, যার শুরু 'আহমাদ ইবন শাবীব বলেছেন' দিয়ে (১৪০৪), এক বেদুইন ইবন উমর (রাঃ)-কে আয়াতটি সম্পর্কে জিজ্ঞেস করে। তিনি জবাব দেন: \"যে তা জমা করে রাখল আর তার যাকাত দিল না, তার জন্য দুর্ভোগ। তবে এ আয়াতগুলো নাযিল হয়েছিল যাকাতের আয়াতের আগে। যাকাতের আয়াত নাযিল হলে আল্লাহ যাকাতকে সম্পদের পবিত্রকারী বানিয়ে দিলেন।\""
+          },
+          {
+            "en": "At-Tabari reports from 'Ali that 4,000 dirhams and less is maintenance and anything above it is a kanz; Ibn Kathir calls this strange, and al-Qurtubi says it is not sound. At-Tabari also lists those who said the kanz is whatever exceeds its owner's need, and al-Qurtubi names this as Abu Dharr's position, among the strict views he alone held. Al-Baghawi places beside it a hadith from Muslim (990): in the shade of the Ka'ba the Prophet ﷺ told Abu Dharr that the ones with the most wealth are the losers, except those who give it out this way and that, and they are few.",
+            "bn": "তাবারী আলী (রাঃ) থেকে বর্ণনা করেন, ৪,০০০ দিরহাম বা তার কম হলো খরচের টাকা, তার বেশি হলেই কানয। ইবন কাসীর একে বলেন গরীব, অর্থাৎ বিরল বর্ণনা, আর কুরতুবী বলেন তা সহীহ নয়। তাবারী তাঁদের কথাও আনেন, যাঁরা বলেছেন, মালিকের প্রয়োজনের অতিরিক্ত সবই কানয। কুরতুবী এটিকে আবু যার (রাঃ)-এর মত বলে চিহ্নিত করেন, তাঁর কঠোর মতগুলোর একটি, যাতে তিনি একা ছিলেন। বাগাভী এর পাশে রাখেন মুসলিমের একটি হাদিস (৯৯০)। কাবার ছায়ায় বসে নবী ﷺ আবু যার (রাঃ)-কে বলেছিলেন, যাদের সম্পদ সবচেয়ে বেশি, তারাই ক্ষতিগ্রস্ত। তবে যারা এদিকে-ওদিকে দু'হাতে বিলিয়ে দেয়, তারা বাদে, আর এমন মানুষ অল্পই।"
+          },
+          {
+            "en": "At-Tabari judges Ibn 'Umar's view the soundest. Allah, through His Messenger, set the due on gold and silver at a quarter of a tenth; if keeping what remained still earned the threat, the due would have been the whole of it, as usurped property must be returned whole. Al-Baghawi agrees that the verse is about withholding zakat, not gathering lawful wealth, and Ma'arif al-Qur'an calls this the approach of most jurists. Al-Qurtubi suggests Abu Dharr's view may rest on the verse's coming at a time of severe need among the Muhajirun, before Allah opened wealth to the Muslims.",
+            "bn": "তাবারীর বিচারে ইবন উমর (রাঃ)-এর মতই সবচেয়ে সঠিক। রাসূলের মুখে আল্লাহ সোনা-রুপার পাওনা ঠিক করেছেন চল্লিশ ভাগের এক ভাগ। বাকিটা রেখে দিলেও যদি শাস্তির হুমকি থাকত, তাহলে পাওনা হতো পুরোটাই, যেমন জবরদখল করা সম্পদ পুরোটাই মালিককে ফেরত দিতে হয়। বাগাভীও একমত: আয়াতের বিষয় যাকাত আটকে রাখা, হালাল সম্পদ জমানো নয়। মাআরিফুল কুরআন বলে, অধিকাংশ ফকিহ এই পথই নিয়েছেন। কুরতুবীর ধারণা, আবু যার (রাঃ)-এর মতের পেছনে হয়তো এই কথা আছে যে আয়াতটি এসেছিল মুহাজিরদের চরম অভাবের সময়ে, আল্লাহ মুসলিমদের জন্য সম্পদের দরজা খুলে দেওয়ার আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Stand Alongside",
+          "bn": "কানযের আয়াতের সঙ্গী আয়াত"
+        },
+        "p": [
+          {
+            "en": "9:35 completes the threat: the hoarded metal heated in the fire of Hell and pressed on foreheads, flanks and backs. 3:180 warns those who withhold what Allah gave them of His bounty that it will be a collar on them. 9:103, take from their wealth a charity to purify them, is the verse that 'Umar ibn 'Abd al-'Aziz and 'Irak ibn Malik, in Ibn Kathir's report, held to have abrogated ours.",
+            "bn": "৯:৩৫ আয়াত হুমকিটা পূর্ণ করে: জমানো ধাতু জাহান্নামের আগুনে উত্তপ্ত করে কপাল, পাঁজর আর পিঠে চেপে ধরা হবে। ৩:১৮০ আয়াত সতর্ক করে, আল্লাহ নিজ অনুগ্রহে যা দিয়েছেন, তাতে যারা কৃপণতা করে, সেটাই তাদের গলার বেড়ি হবে। ৯:১০৩ আয়াত বলে, তাদের সম্পদ থেকে সদকা নাও, যা দিয়ে তাদের পবিত্র করবে। ইবন কাসীরের বর্ণনায়, উমর ইবন আবদুল আযীয ও ইরাক ইবন মালিক মনে করতেন, এ আয়াতই আমাদের আয়াতকে রহিত করেছে।"
+          },
+          {
+            "en": "5:63, which Ibn Kathir cites, asks why the rabbis and scholars did not forbid their people from devouring the unlawful. 5:82, also cited by him, says that among the Christians are priests and monks who are not arrogant: the same word ruhban, this time in praise. 2:188 forbids consuming one another's wealth bil-batil, the very phrase of our verse, and sending it to judges as a bribe.",
+            "bn": "ইবন কাসীর ৫:৬৩ আয়াত উল্লেখ করেন, যেখানে প্রশ্ন: রব্বানী ও আহবারেরা কেন তাদের লোকদের হারাম খাওয়া থেকে নিষেধ করে না? তার পাশে তিনি আনেন ৫:৮২ আয়াত, যা বলে, খ্রিস্টানদের মধ্যে এমন আলিম ও রুহবান আছে, যারা অহংকার করে না। একই রুহবান শব্দ, এবার প্রশংসায়। ২:১৮৮ আয়াত নিষেধ করে পরস্পরের সম্পদ বিল-বাতিল খেতে, ঠিক আমাদের আয়াতের শব্দে, আর ঘুষ দিয়ে বিচারকের কাছে তা পৌঁছাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Settling What Is Owed",
+          "bn": "পাওনা মিটিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir calls the hoarders the third kind of people's heads, after scholars and devotees: people depend on all three, and when they go bad, people go bad. So the verse reaches anyone whom others rely on. In practice, fix one date a year to work out the zakat on gold, silver and savings, rather than guessing, and pay it before the money finds other uses.",
+            "bn": "ইবন কাসীর এই জমাকারীদের বলেন সমাজের মাথাদের তৃতীয় শ্রেণি, আলিম আর আবেদদের পরে। মানুষ এই তিনটি দলের উপরই নির্ভর করে। তারা নষ্ট হলে মানুষও নষ্ট হয়। তাই যার উপর অন্যরা ভরসা করে, আয়াত তার কাছেও পৌঁছায়। কাজের কথা হলো: বছরে একটা নির্দিষ্ট দিন ঠিক করুন। সেদিন অনুমানে নয়, হিসাব করে সোনা, রুপা আর সঞ্চয়ের যাকাত বের করুন। টাকাটা অন্য কোথাও খরচ হয়ে যাওয়ার আগেই তা আদায় করে দিন।"
+          },
+          {
+            "en": "As-Sa'di counts the maintenance owed to a wife and relatives among what may not be held back, so holding back what a dependent parent is owed falls under it too. Al-Qurtubi adds that whoever spends wealth in sin is worse off than whoever hoards it. And for anyone paid to teach, preach or judge, as-Sa'di gives the test: the money was given so that you would guide.",
+            "bn": "সা'দী স্ত্রী ও আত্মীয়দের প্রাপ্য খরচকেও সেই জিনিসের মধ্যে গোনেন, যা আটকে রাখা যায় না। তাই নির্ভরশীল মা-বাবার প্রাপ্য আটকে রাখাও এর আওতায় পড়ে। কুরতুবী যোগ করেন, যে সম্পদ গুনাহের পথে খরচ করে, তার অবস্থা জমাকারীর চেয়েও খারাপ। আর যারা পড়ানো, ওয়াজ বা বিচারের জন্য টাকা পান, তাদের জন্য সা'দীর কথাই কষ্টিপাথর: টাকাটা দেওয়া হয়েছিল, যাতে আপনি পথ দেখান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words to Hoard Instead",
+          "bn": "জমিয়ে রাখার মতো কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment with a report from Ahmad's Musnad in which Shaddad ibn Aws relates that when people hoard gold and silver, these words should be hoarded instead. That link could not be confirmed here on a collection page. An-Nasa'i (1304) records the supplication itself from Shaddad, as something the Prophet ﷺ used to say in his prayer, without the hoarding preface and with no grading given.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন আহমাদের মুসনাদ থেকে একটি বর্ণনা দিয়ে। সেখানে শাদ্দাদ ইবন আওস (রাঃ) জানান, মানুষ যখন সোনা-রুপা জমাবে, তখন তার বদলে এই কথাগুলো জমিয়ে রাখতে হবে। এই যোগসূত্রটি এখানে কোনো হাদিস-সংকলনের পাতায় যাচাই করা যায়নি। দোয়াটি নিজে নাসাঈ (১৩০৪) শাদ্দাদ (রাঃ) থেকে এনেছেন, নবী ﷺ নামাযে যা বলতেন। তবে সেখানে জমানোর ভূমিকাটি নেই, আর হাদিসটির মান সম্পর্কেও সেখানে কিছু বলা নেই।"
+          },
+          {
+            "en": "In an-Nasa'i's wording: \"O Allah, I ask You for steadfastness in all my affairs and determination in following the right path, I ask You to make me thankful for Your blessings and to make me worship You properly. I ask You for a sound heart and a truthful tongue. I ask You for the best of what You know and I seek refuge in You from the worst of what You know and I seek Your forgiveness for what You know.\"",
+            "bn": "নাসাঈর ভাষায়: \"হে আল্লাহ, আমি তোমার কাছে চাই সব কাজে অবিচলতা আর সঠিক পথে দৃঢ় সংকল্প। তোমার কাছে চাই তোমার নিয়ামতের শোকর আর তোমার সুন্দর ইবাদত। তোমার কাছে চাই সুস্থ অন্তর আর সত্যবাদী জিহ্বা। তুমি যা জানো তার কল্যাণ তোমার কাছে চাই, তুমি যা জানো তার অনিষ্ট থেকে তোমার আশ্রয় চাই, আর তুমি যা জানো তার জন্য তোমার কাছে ক্ষমা চাই।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Gold",
+          "bn": "আপনার সোনা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When did I last work out, rather than assume, what is due on what I own? Is there money I keep only because letting it go frightens me, not because I need it? Who depends on me for what I am obliged to give, and am I late with it? If the words of 9:35 were spoken over my savings, what would they find there?",
+            "bn": "শেষ কবে আমি অনুমান না করে হিসাব কষে দেখেছি, আমার সম্পদে কী পাওনা হয়েছে? এমন টাকা কি আছে, যা রেখে দিই প্রয়োজনের জন্য নয়, ছেড়ে দিতে ভয় লাগে বলে? যা দেওয়া আমার উপর ফরজ, তার জন্য কারা আমার দিকে তাকিয়ে আছে, আর দিতে কি আমার দেরি হচ্ছে? ৯:৩৫ আয়াতের কথাগুলো যদি আমার সঞ্চয়ের উপর বলা হয়, সেখানে কী পাওয়া যাবে?"
+          },
+          {
+            "en": "Has payment, praise or deference for what I know of the religion ever softened what I should have said plainly? When I speak of another community, do I keep the word many, or let it quietly become all? And when two Companions read one verse two ways, as here, can I hold both readings with respect and still act on what is clearly due?",
+            "bn": "দ্বীনের যতটুকু জানি, তার বিনিময়ে পাওয়া টাকা, প্রশংসা বা খাতির কি কখনো আমার সোজা কথাকে নরম করে দিয়েছে? অন্য কোনো সম্প্রদায়ের কথা বলার সময় আমি কি 'অনেকে' শব্দটা ধরে রাখি, নাকি চুপচাপ তা 'সবাই' হয়ে যায়? আর এখানে যেমন দুই সাহাবি একই আয়াত দুইভাবে পড়েছেন, আমি কি দুটি পাঠকেই সম্মান করতে পারি, আর যা স্পষ্টভাবে পাওনা, তা আদায়ও করতে পারি?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {
