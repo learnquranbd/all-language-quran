@@ -23111,6 +23111,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Garden is described as a place where no idle or hurtful word is heard, only peace. Begin now: guard your tongue and your ears, and answer harshness with salam.",
     "lessonBn": "জান্নাতের বর্ণনা এমন এক জায়গা হিসেবে, যেখানে কোনো অনর্থক বা আঘাতের কথা শোনা যায় না, শোনা যায় শুধু শান্তির কথা। শুরুটা এখনই করুন: জিহ্বা আর কান সামলে রাখুন, আর রূঢ়তার জবাব দিন সালাম দিয়ে।"
+  },
+  "19:82": {
+    "reflectionEn": "They took gods besides Allah so that those gods would be a source of honour for them, a strength to stand behind. The answer comes in six Arabic words: no. On the Day of Resurrection those gods will deny the worship that was given to them, and will stand against the very people who leaned on them. What was meant to raise them up turns into an opponent. Few of us carve idols, but the habit the verse exposes is close at hand: looking for standing in what people think of me, in money, in a name, in a circle of friends. Whatever I lean on for honour, will it stand with me on that Day, or against me?",
+    "reflectionBn": "আল্লাহকে বাদ দিয়ে তারা অনেক উপাস্য ধরেছিল, যাতে সেগুলো তাদের সম্মানের উৎস হয়, পেছনে দাঁড়ানোর মতো এক শক্তি হয়। জবাব এসেছে আরবি ছয়টি শব্দে: কক্ষনো না। কিয়ামতের দিন সেই উপাস্যরাই তাদের ইবাদত অস্বীকার করবে, আর যারা তাদের উপর ভর দিয়েছিল তাদেরই বিপক্ষে দাঁড়াবে। যাকে ধরা হয়েছিল উঁচু হওয়ার সিঁড়ি হিসেবে, সে-ই হয়ে যাবে প্রতিপক্ষ। আমাদের বেশির ভাগ মানুষ মূর্তি গড়ে না। কিন্তু আয়াতটি যে অভ্যাস ধরিয়ে দেয়, তা খুব কাছেই থাকে: মানুষ আমাকে কী ভাবে, টাকা, বংশের নাম, বন্ধুমহল, এসবের মধ্যে মর্যাদা খোঁজা। সম্মানের জন্য আমি যার উপর ভর দিচ্ছি, সেদিন সে কি আমার পাশে দাঁড়াবে, নাকি আমার বিরুদ্ধে?",
+    "pointsEn": [
+      "When I feel small, what is the first thing I reach for to feel important again?",
+      "Whose approval would I be most afraid to lose, and have I ever asked what it can do for me before Allah?",
+      "Is there anything I have relied on so heavily that I would feel betrayed if it failed me?",
+      "Do I seek honour from Allah by obeying Him, or from people by pleasing them?",
+      "What would it mean for my week if the things I lean on were already standing against me?"
+    ],
+    "pointsBn": [
+      "নিজেকে ছোট মনে হলে আবার গুরুত্বপূর্ণ বোধ করতে আমি সবার আগে কিসের দিকে হাত বাড়াই?",
+      "কার সমর্থন হারানোর ভয় আমার সবচেয়ে বেশি? আল্লাহর সামনে সে আমার কী কাজে আসবে, এ প্রশ্ন কি কখনো নিজেকে করেছি?",
+      "এমন কিছু কি আছে, যার উপর এত বেশি ভরসা করেছি যে সে ব্যর্থ হলে মনে হবে আমার সঙ্গে বিশ্বাসঘাতকতা হয়েছে?",
+      "আমি কি আল্লাহর আনুগত্য করে তাঁর কাছ থেকে সম্মান চাই, নাকি মানুষকে খুশি করে মানুষের কাছ থেকে?",
+      "যে জিনিসগুলোর উপর আমি ভর দিই, সেগুলো যদি এখনই আমার বিপক্ষে দাঁড়িয়ে থাকে, তবে এ সপ্তাহটা আমি কীভাবে কাটাতাম?"
+    ],
+    "lessonEn": "Do not seek honour in anything besides Allah; whatever you lean on in His place will deny you on the Day of Resurrection and stand against you.",
+    "lessonBn": "আল্লাহকে ছেড়ে অন্য কিছুর মধ্যে সম্মান খুঁজবেন না। তাঁর জায়গায় যার উপর ভর দেবেন, কিয়ামতের দিন সে আপনাকে অস্বীকার করবে আর আপনার বিপক্ষে দাঁড়াবে।"
   }
 };
 

@@ -2923,6 +2923,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:82": {
+    "sections": [
+      {
+        "h": {
+          "en": "Honour Sought From Below",
+          "bn": "ভুল জায়গায় খোঁজা সম্মান"
+        },
+        "p": [
+          {
+            "en": "The verses before this verse follow a single man. In 19:77 he rejects Allah's signs and still swears that he will be given wealth and children; 19:79 and 19:80 answer that his words are recorded and that he will come to Allah alone. Then 19:81 widens from that man to a whole practice: they took gods besides Allah, li-yakunu lahum 'izzan, so that these would be a source of honour for them.",
+            "bn": "এর আগের আয়াতগুলো এক ব্যক্তির পিছু নেয়। ১৯:৭৭-এ সে আল্লাহর নিদর্শন অস্বীকার করে, তবু কসম খেয়ে বলে, তাকে সম্পদ আর সন্তান দেওয়া হবেই। ১৯:৭৯ ও ১৯:৮০ তার জবাব দেয়: তার কথা লিখে রাখা হচ্ছে, আর সে আল্লাহর কাছে আসবে একা। এরপর ১৯:৮১ সেই মানুষটি থেকে সরে পুরো এক রীতির দিকে তাকায়: তারা আল্লাহকে বাদ দিয়ে উপাস্য ধরেছে, লিইয়াকূনূ লাহুম ইযযা, যাতে সেগুলো তাদের জন্য সম্মানের উৎস হয়।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, spells out what they expected: they thought these gods would give them power and make them victorious. Al-Muyassar on 19:81 says it in two clauses: so that the gods would help them, and so that they would gain strength and standing through them. Then comes 19:82, six Arabic words: kalla, sa-yakfuruna bi-'ibadatihim wa-yakununa 'alayhim diddan. The verse does not argue about what the gods are. It says what they will do on the Day, and what they do is the reverse of what was hoped.",
+            "bn": "তারা কী আশা করেছিল, ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তা খুলে বলে: তাদের ধারণা ছিল, এই উপাস্যরা তাদের শক্তি দেবে, বিজয়ী করবে। মুয়াসসার ১৯:৮১-এর ব্যাখ্যায় কথাটা বলে দুই টুকরায়: যাতে উপাস্যরা তাদের সাহায্য করে, আর যাতে তারা এদের মাধ্যমে শক্তি ও মর্যাদা পায়। এরপর আসে ১৯:৮২, আরবি ছয়টি শব্দ: কাল্লা, সাইয়াকফুরূনা বিইবাদাতিহিম ওয়া ইয়াকূনূনা আলাইহিম দিদ্দা। উপাস্যরা আসলে কী, আয়াতটি সে তর্কে যায় না। সেদিন তারা কী করবে, শুধু সেটাই বলে। আর তারা যা করবে, তা আশার ঠিক উল্টো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A No That Also Affirms",
+          "bn": "যে না-এর ভেতরে হ্যাঁ"
+        },
+        "p": [
+          {
+            "en": "Kalla opens the verse. Ibn Kathir, al-Baghawi and al-Muyassar read it as a refusal of what came before: the matter is not as they claimed, and, Ibn Kathir adds, it will not turn out as they hoped. Al-Muyassar names what is refused: the gods will not be an honour for them. Al-Qurtubi gives the same first sense, not as they supposed and imagined, and then a second: kalla may mean haqqan, truly, so that the verse runs, truly, they will deny their worship.",
+            "bn": "আয়াতের শুরু কাল্লা দিয়ে। ইবন কাসীর, বাগাভী আর মুয়াসসার একে আগের কথার প্রত্যাখ্যান হিসেবে পড়েন: তারা যা দাবি করেছে, ব্যাপারটা তেমন নয়। ইবন কাসীর যোগ করেন, তারা যা আশা করেছে, তাও ঘটবে না। কী প্রত্যাখ্যাত হচ্ছে, মুয়াসসার তা নাম ধরে বলে: উপাস্যরা তাদের জন্য সম্মান হবে না। কুরতুবীও প্রথমে এই অর্থ দেন, তারা যেমন ধারণা ও কল্পনা করেছিল তেমন নয়। তারপর দ্বিতীয় অর্থ আনেন: কাল্লা হাক্কান অর্থেও হতে পারে, মানে সত্যিই। তখন আয়াতের অর্থ দাঁড়ায়, সত্যিই তারা তাদের ইবাদত অস্বীকার করবে।"
+          },
+          {
+            "en": "He relays al-Mahdawi on the particle: kalla is deterrence, rebuke, a warning and a rejection of the speech before it, and it can also come to make firm what follows and call attention to it, as in kalla inna al-insana la-yatgha (96:6). On the first sense the reciter may pause on it; on the second he does not. Where both senses fit, a reciter may pause on it and also begin from it. Al-Qurtubi then counts four meanings: affirming, negating, alerting, and a link to an oath.",
+            "bn": "এই অব্যয় নিয়ে তিনি মাহদাভীর কথা উদ্ধৃত করেন। কাল্লা মানে থামিয়ে দেওয়া, ধমক, সতর্ক করা, আর আগের কথাকে ফিরিয়ে দেওয়া। আবার পরের কথাকে পাকা করতে আর সেদিকে মনোযোগ টানতেও এটি আসে, যেমন কাল্লা ইন্নাল ইনসানা লাইয়াতগা (৯৬:৬)। প্রথম অর্থে পাঠক এর উপর থামতে পারেন, দ্বিতীয় অর্থে থামেন না। যেখানে দুই অর্থই খাটে, সেখানে এর উপর থামাও চলে, এখান থেকে নতুন করে শুরু করাও চলে। এরপর কুরতুবী চারটি অর্থ গুনে দেন: সত্য প্রতিষ্ঠা, নাকচ, সতর্ক করা আর কসমের সঙ্গে জোড়া লাগানো।"
+          },
+          {
+            "en": "Al-Qurtubi also cites al-Kisa'i on how kalla differs from la. La only negates; kalla negates one thing and affirms another. If someone says, you ate dates, you answer, kalla, I ate honey, not dates. The verse has that shape: it denies that the gods will be honour and affirms that they will be deniers. Ibn Kathir, at-Tabari and al-Qurtubi also record a variant from Abu Nahik. Al-Qurtubi gives it as kallan, with tanwin, and relays from him the vowelling kullan as well: the gods, all of them, will deny.",
+            "bn": "লা আর কাল্লার পার্থক্য বোঝাতে কুরতুবী কিসায়ীর কথাও আনেন। লা শুধু নাকচ করে। কাল্লা একটা জিনিস নাকচ করে, আরেকটা প্রতিষ্ঠা করে। কেউ বলল, তুমি খেজুর খেয়েছ। আপনি বললেন, কাল্লা, আমি মধু খেয়েছি, খেজুর নয়। আয়াতটির গড়নও তেমন। উপাস্যরা সম্মান হবে, এ কথা সে নাকচ করে, আর প্রতিষ্ঠা করে যে তারা অস্বীকারকারী হবে। ইবন কাসীর, তাবারী ও কুরতুবী আবু নাহীকের একটি ভিন্ন পাঠও উল্লেখ করেন। কুরতুবী তা দেন তানবীনসহ কাল্লান রূপে, আর তাঁর থেকে কুল্লান উচ্চারণটিও বর্ণনা করেন। তখন অর্থ: উপাস্যরা সবাই অস্বীকার করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Disowns Whom",
+          "bn": "কে কাকে অস্বীকার করে"
+        },
+        "p": [
+          {
+            "en": "Who is the subject of sa-yakfuruna? At-Tabari takes it as the gods. In the Hereafter the gods will deny the worship these idolaters gave them, and their denial is their saying to their Lord: we declare our innocence before You, it was not us they were worshipping. They denied, he says, that the idolaters had worshipped them or that they had ordered it, and they disowned them; that is their kufr of the worship. Al-Baghawi reads it the same way and cites those words by their place, 28:63.",
+            "bn": "সাইয়াকফুরূনা, তারা অস্বীকার করবে: এখানে তারা কারা? তাবারীর মতে উপাস্যরা। আখিরাতে এই মুশরিকদের দেওয়া ইবাদত উপাস্যরাই অস্বীকার করবে। সেই অস্বীকার হলো রবের কাছে তাদের এই কথা: আমরা তোমার কাছে দায়মুক্তি ঘোষণা করছি, এরা আমাদের ইবাদত করত না। তাবারী বলেন, মুশরিকরা যে তাদের ইবাদত করেছে বা তারা যে এর হুকুম দিয়েছে, দুটোই তারা অস্বীকার করবে আর তাদের থেকে সম্পর্ক ছিন্ন করবে। ইবাদতের প্রতি তাদের কুফর বলতে এটাই বোঝায়। বাগাভীও এভাবেই পড়েন, আর ওই কথাগুলোর জায়গা উল্লেখ করেন: ২৮:৬৩।"
+          },
+          {
+            "en": "Al-Qurtubi keeps both possibilities open. Either the worshippers will deny that they ever worshipped the idols, or the gods will reject the idolaters' worship of them. He adds a reason for the second: the idols are lifeless things that do not know they are worshipped. Al-Muyassar takes the gods as the subject: these gods will deny in the Hereafter the worship given them. As-Suddi, in Ibn Kathir, glosses the phrase only as the worship of the idols, which names the object and leaves the speaker unstated.",
+            "bn": "কুরতুবী দুই সম্ভাবনাই খোলা রাখেন। হয় উপাসকেরা অস্বীকার করবে যে তারা কখনো মূর্তির ইবাদত করেছিল, নয়তো উপাস্যরা মুশরিকদের ইবাদতকে প্রত্যাখ্যান করবে। দ্বিতীয়টির পক্ষে তিনি একটা কারণও দেন: মূর্তি তো জড় বস্তু, কেউ যে তার ইবাদত করছে, সে তা জানেই না। মুয়াসসার উপাস্যদেরই কর্তা ধরে: এই উপাস্যরা আখিরাতে তাদের প্রতি করা ইবাদত অস্বীকার করবে। ইবন কাসীরের বর্ণনায় সুদ্দী বাক্যটির ব্যাখ্যা দেন শুধু এটুকু: মূর্তিপূজা। এতে কিসের অস্বীকার তা বলা হয়, কিন্তু কে অস্বীকার করবে তা বলা হয় না।"
+          },
+          {
+            "en": "So the verse can be heard two ways. On the first reading the worshipped turn on their worshippers. On the second, the worshippers themselves, faced with the outcome, deny what they did, which is the possibility al-Qurtubi allows. At-Tabari, al-Baghawi and al-Muyassar take the first; al-Qurtubi sets out both and does not choose. On either reading the bond the worship was meant to build breaks at the very moment it was meant to pay out.",
+            "bn": "তাহলে আয়াতটি দুইভাবে শোনা যায়। প্রথম পাঠে উপাস্যরা উপাসকদের বিরুদ্ধে ঘুরে দাঁড়ায়। দ্বিতীয় পাঠে পরিণতি চোখের সামনে দেখে উপাসকেরা নিজেরাই নিজেদের কাজ অস্বীকার করে। কুরতুবী এই সম্ভাবনাটিও রেখেছেন। তাবারী, বাগাভী ও মুয়াসসার প্রথমটি নেন। কুরতুবী দুটোই সাজিয়ে রাখেন, কোনোটিকে বেছে নেন না। যে পাঠই ধরা হোক, ইবাদত দিয়ে যে বন্ধন গড়ার কথা ছিল, ঠিক যে মুহূর্তে তার কাজে আসার কথা, তখনই তা ছিঁড়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Diddan, Six Ways Glossed",
+          "bn": "দিদ্দ শব্দের ছয় ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Diddan carries most of the disagreement. At-Tabari says plainly that the people of interpretation differed over it, and sets the views out in groups. The first: the gods will be 'awn, a help, against them. He reports it from Ibn Abbas (RA) through Ali ibn Abi Talha, a'wanan, helpers, and from Mujahid: a help against them, disputing with them and calling them liars. Through Ibn Jurayj, Mujahid also says where: their idols, on the Day of Resurrection, in the Fire.",
+            "bn": "মতভেদের বড় অংশ দিদ্দা শব্দটিকে ঘিরে। তাবারী সোজাসুজি বলেন, ব্যাখ্যাকারেরা এর অর্থে একমত হননি। তারপর মতগুলো দলে দলে সাজান। প্রথম মত: উপাস্যরা তাদের বিরুদ্ধে আওন, অর্থাৎ সহায়ক হবে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে তিনি এ মত বর্ণনা করেন: আ'ওয়ানা, সহায়কেরা। মুজাহিদ থেকেও: তাদের বিরুদ্ধে সাহায্যকারী, যারা তাদের সঙ্গে বিবাদ করবে আর তাদের মিথ্যাবাদী বলবে। ইবন জুরাইজের সূত্রে মুজাহিদ জায়গাটাও বলে দেন: কিয়ামতের দিন জাহান্নামে তাদের মূর্তিগুলো।"
+          },
+          {
+            "en": "The second view makes them qurana', companions tied to them. Ibn Abbas (RA) gives it, through al-Awfi as Ibn Kathir names the line, and at-Tabari has it from Qatada too: companions in the Fire, cursing and disowning each other. The third is ad-Dahhak's: enemies. The fourth is Ibn Zayd's: an affliction upon them. Ibn Kathir gives these and adds two more, as-Suddi's adversaries hard in dispute and Ikrima's saying that the didd is regret. Al-Baghawi leads with enemies, noting that they had been their allies in the world, and gives helpers against them, belying and cursing them, as another.",
+            "bn": "দ্বিতীয় মত: তারা হবে কুরানা, তাদের সঙ্গে বাঁধা সাথি। ইবন আব্বাস (রাঃ) এ মত দিয়েছেন, ইবন কাসীরের ভাষায় আওফীর সূত্রে। তাবারী কাতাদা থেকেও এটি এনেছেন। কাতাদার কথায়: জাহান্নামের সাথি, যারা একে অপরকে লানত করবে, একে অপরের থেকে দায়মুক্ত হবে। তৃতীয় মত দাহহাকের: শত্রু। চতুর্থ মত ইবন যায়দের: তাদের উপর এক বিপদ। ইবন কাসীর এগুলো উল্লেখ করে আরও দুটি যোগ করেন। সুদ্দীর মতে, বিবাদে কঠোর প্রতিপক্ষ। ইকরিমার মতে, দিদ্দ মানে আফসোস। বাগাভী শুরু করেন শত্রু অর্থ দিয়ে, আর মনে করিয়ে দেন, দুনিয়ায় এরাই ছিল তাদের বন্ধু। দ্বিতীয় মত হিসেবে আনেন: তাদের বিরুদ্ধে সহায়ক, যারা তাদের মিথ্যাবাদী বলবে, লানত করবে।"
+          },
+          {
+            "en": "At-Tabari then reasons from the language. Didd in the speech of the Arabs is khilaf, contrariness: a man is said to yudaddu another in some matter when he works against him in what he does, spoiling what the other set right. Since these gods disown their worshippers and pull away from them on that Day, they become their opposites, and the word describes them. Al-Muyassar joins two glosses in a single line: helpers against them in disputing with them and belying them, contrary to what they had thought of them.",
+            "bn": "এরপর তাবারী ভাষা থেকে যুক্তি দেন। আরবদের কথায় দিদ্দ মানে খিলাফ, বিপরীতে চলা। কেউ কোনো ব্যাপারে আরেকজনের কাজের উল্টো কাজ করলে, সে যা ঠিক করে তা নষ্ট করে দিলে বলা হয়, লোকটি তার সঙ্গে ইউদাদ্দু করছে। সেদিন এই উপাস্যরা যেহেতু উপাসকদের থেকে দায়মুক্তি ঘোষণা করবে, তাদের থেকে সরে যাবে, তাই তারা হয়ে যাবে তাদের বিপরীত। শব্দটি তাদের এই অবস্থারই বর্ণনা। মুয়াসসার এক বাক্যে দুই ব্যাখ্যা জুড়ে দেয়: বিবাদে আর মিথ্যাবাদী সাব্যস্ত করায় তারা হবে তাদের বিরুদ্ধে সহায়ক, তাদের ধারণার ঠিক উল্টো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Turned Inside Out",
+          "bn": "সম্মান উল্টে প্রতিপক্ষ"
+        },
+        "p": [
+          {
+            "en": "Why is diddan singular when it describes a group? At-Tabari reports the grammarians differing. Some of Basra said the word serves for one and for many alike, like rasad, a watch, said of one watcher or many. Some of Kufa said it is singular because its sense is 'awn, help. Al-Qurtubi gives both: didd can be one or many, like 'aduw, enemy, and rasul, messenger; or it stands where a verbal noun would, so that the meaning is they will be a help against them.",
+            "bn": "দিদ্দা শব্দটি একটা দলের বর্ণনা দিচ্ছে, তবু একবচন কেন? তাবারী জানান, ব্যাকরণবিদেরা এখানে ভিন্নমত পোষণ করেছেন। বসরার কেউ কেউ বলেছেন, শব্দটি এক ও বহু দুইয়ের জন্যই চলে, যেমন রাসাদ, অর্থাৎ পাহারা, যা একজন পাহারাদারকেও বোঝায়, অনেককেও। কুফার কেউ কেউ বলেছেন, একবচন কারণ এর অর্থ আওন, সাহায্য। কুরতুবী দুটোই দেন। দিদ্দ এক বা বহু দুই-ই হতে পারে, যেমন আদুউ, শত্রু, আর রাসূল, বার্তাবাহক। নয়তো শব্দটি ক্রিয়াবাচক বিশেষ্যের জায়গায় বসেছে, তখন অর্থ হবে, তারা তাদের বিরুদ্ধে সাহায্যকারী হবে।"
+          },
+          {
+            "en": "Then al-Qurtubi makes the observation that ties the verse to the one before it: this stands opposite li-yakunu lahum 'izzan. 'Izz is a verbal noun, so the word set against it takes the same form. The text itself shows the rest. They wanted the gods to be lahum, for them, an 'izz; the gods will be 'alayhim, against them, a didd. Ibn Kathir says the same thing without the grammar: contrary to what they thought of them, and contrary to what they hoped from them.",
+            "bn": "এরপর কুরতুবী এমন এক কথা বলেন, যা আয়াতটিকে আগের আয়াতের সঙ্গে বেঁধে দেয়। এটি দাঁড়িয়ে আছে লিইয়াকূনূ লাহুম ইযযা কথাটির মুখোমুখি। ইযয ক্রিয়াবাচক বিশেষ্য, তাই তার বিপরীতে রাখা শব্দটিও একই গড়ন নিয়েছে। বাকিটা পাঠ নিজেই দেখায়। তারা চেয়েছিল উপাস্যরা হবে লাহুম, তাদের পক্ষে, এক ইযয। সেই উপাস্যরা হবে আলাইহিম, তাদের বিপক্ষে, এক দিদ্দ। ব্যাকরণে না গিয়ে ইবন কাসীর একই কথা বলেন: তারা এদের সম্পর্কে যা ভেবেছিল তার উল্টো, আর এদের কাছে যা আশা করেছিল তারও উল্টো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Stone Is Given Speech",
+          "bn": "পাথর যখন কথা পায়"
+        },
+        "p": [
+          {
+            "en": "How can an idol deny anything? Al-Qurtubi notes one reading on which the verse concerns the worshippers of idols and speaks of the idols as beings with understanding, following the imagining of those who worshipped them. Ibn Zayd, in al-Qurtubi, pictures it: their gods will be gathered, minds will be fitted into them so that they speak, and they will say, our Lord, punish these who worshipped us besides You. Ma'arif al-Qur'an gives the same scene: God will grant them speech, and they will ask Him to finish those who made them objects of worship.",
+            "bn": "মূর্তি কীভাবে কিছু অস্বীকার করবে? কুরতুবী একটি পাঠ উল্লেখ করেন, যাতে আয়াতটি মূর্তিপূজারীদের নিয়ে, আর মূর্তিগুলোকে বিবেকবান সত্তার মতো করে বলা হয়েছে, পূজারীদের নিজেদের কল্পনার ধারা ধরে। কুরতুবীর বর্ণনায় ইবন যায়দ ছবিটা সরাসরি আঁকেন। তাদের উপাস্যদের একত্র করা হবে, তাদের ভেতরে বুদ্ধি বসিয়ে দেওয়া হবে, ফলে তারা কথা বলবে। তারা বলবে, হে আমাদের রব, আপনাকে ছেড়ে যারা আমাদের ইবাদত করেছে, এদের শাস্তি দিন। মাআরিফুল কুরআনেও একই দৃশ্য: আল্লাহ তাদের বাকশক্তি দেবেন, আর যারা তাদের ইবাদতের বস্তু বানিয়েছিল, তাদের শেষ করে দিতে তারা আল্লাহর কাছে আবেদন জানাবে।"
+          },
+          {
+            "en": "Al-Qurtubi records a second view of who the gods are: the verse may concern those who worshipped the Messiah, 'Isa (AS), or the angels, or the jinn, or the devils. He closes with, and Allah knows best. The verb sa-yakfuruna covers them all alike, whether the worshipped is a stone that must be granted speech or a being that could speak all along. The verse does not narrow it, and al-Qurtubi leaves it open.",
+            "bn": "উপাস্য কারা, এ নিয়ে কুরতুবী আরেকটি মতও লিখে রাখেন: আয়াতটি হতে পারে তাদের সম্পর্কে, যারা মাসীহ ঈসা (আঃ)-এর ইবাদত করেছে, কিংবা ফেরেশতাদের, কিংবা জিনের, কিংবা শয়তানদের। শেষে তিনি বলেন, আল্লাহই ভালো জানেন। সাইয়াকফুরূনা ক্রিয়াটি সবার বেলায় সমানভাবে খাটে। উপাস্য পাথর হোক, যাকে কথা বলার শক্তি দিতে হবে, কিংবা এমন কেউ, যে আগে থেকেই কথা বলতে পারত। আয়াত একে সীমিত করে না, কুরতুবীও প্রশ্নটা খোলা রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Announced Before It Happens",
+          "bn": "ঘটার আগেই জানিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets 46:5 and 46:6 beside the verse: who is further astray than he who calls, besides Allah, on what will not answer him until the Day of Resurrection and is unaware of his calling; and when people are gathered, those called on will be enemies to them and deniers of their worship. 35:14 says it to the worshippers directly: if you call on them they do not hear, if they heard they would not answer, and on the Day of Resurrection they will deny your shirk.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে রাখেন ৪৬:৫ ও ৪৬:৬। তার চেয়ে বড় পথভ্রষ্ট কে, যে আল্লাহকে ছেড়ে এমন কাউকে ডাকে, যে কিয়ামত পর্যন্তও তার ডাকে সাড়া দেবে না, এমনকি তার ডাকের খবরও রাখে না? আর যখন মানুষকে একত্র করা হবে, যাদের ডাকা হতো তারা হবে এদের শত্রু, আর এদের ইবাদতকে অস্বীকার করবে। ৩৫:১৪ কথাটা উপাসকদের মুখের উপরই বলে দেয়: তোমরা ডাকলে তারা শোনে না, শুনলেও সাড়া দিত না, আর কিয়ামতের দিন তারা তোমাদের শিরক অস্বীকার করবে।"
+          },
+          {
+            "en": "10:28 shows the scene itself, the partners saying that it was not them their worshippers had served; it is taken up at its own place and not retold here. What these verses share is timing. The denial is announced in this life, long before it happens, so that whoever leans on a partner cannot say he was not told. The next verse, 19:83, then speaks of the devils sent upon the disbelievers, urging them on.",
+            "bn": "১০:২৮ দৃশ্যটাই দেখায়: শরীকেরা বলবে, উপাসকেরা আসলে তাদের ইবাদত করত না। সে আয়াত নিজ জায়গায় আলোচিত, এখানে আর তা বলা হলো না। এই আয়াতগুলোর মিল সময়ের দিক থেকে। অস্বীকারের খবর দেওয়া হচ্ছে এই দুনিয়াতেই, ঘটনা ঘটার অনেক আগে। ফলে শরীকের উপর ভর দেওয়া কেউ বলতে পারবে না যে তাকে জানানো হয়নি। এর পরের আয়াত, ১৯:৮৩, বলে কাফিরদের উপর ছেড়ে দেওয়া শয়তানদের কথা, যারা তাদের উসকে দেয়।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse, at-Tabari, Ibn Kathir, al-Qurtubi, al-Baghawi, al-Muyassar and Ma'arif al-Qur'an, attaches a prophetic narration to it, and none gives an occasion of revelation; as-Sa'di's commentary was not available for this verse in the source used. So this article quotes no hadith. What the commentators bring instead is the Qur'an explaining the Qur'an, and the reports from Ibn Abbas (RA) and the Successors on what diddan means, given above with the lines they come through.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তাবারী, ইবন কাসীর, কুরতুবী, বাগাভী, মুয়াসসার আর মাআরিফুল কুরআন, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, শানে নুযূলও দেয়নি। ব্যবহৃত উৎসে এ আয়াতের জন্য সা'দীর তাফসীর পাওয়া যায়নি। তাই এই লেখায় কোনো হাদীস উদ্ধৃত হয়নি। এর বদলে তাফসীরকারেরা এনেছেন কুরআন দিয়ে কুরআনের ব্যাখ্যা, আর দিদ্দা শব্দের অর্থ নিয়ে ইবন আব্বাস (রাঃ) ও তাবিঈদের বর্ণনা। সেগুলো ওপরে তাদের সূত্রসহ দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where I Look for Standing",
+          "bn": "মর্যাদা খুঁজি কোথায়"
+        },
+        "p": [
+          {
+            "en": "The verse describes those it describes: people who took gods besides Allah for honour, and what those gods will do on the Day. It is a statement about the Hereafter, and it licenses nothing against any living person or community, neither contempt nor harm; the judgment it speaks of belongs to Allah on that Day. Its use for the reader is a question turned inward. 19:81 names the motive exactly, 'izz, honour and strength, and that motive is not rare.",
+            "bn": "আয়াতটি যাদের কথা বলে, শুধু তাদেরই কথা বলে: যারা সম্মানের আশায় আল্লাহকে বাদ দিয়ে উপাস্য ধরেছিল, আর সেদিন সেই উপাস্যরা কী করবে। এ হলো আখিরাতের খবর। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না, না অবজ্ঞার, না ক্ষতির। যে বিচারের কথা এখানে, তা সেদিন আল্লাহর হাতে। পাঠকের কাজ হলো প্রশ্নটা নিজের দিকে ফেরানো। ১৯:৮১ উদ্দেশ্যটার নাম ঠিক ঠিক বলে দেয়: ইযয, সম্মান আর শক্তি। আর এই উদ্দেশ্য মোটেই বিরল নয়।"
+          },
+          {
+            "en": "Few readers carve idols, yet honour is still sought in a family name, in wealth, in a following, in the regard of people whose opinion I fear. The man of 19:77 leaned on wealth and children, and 19:80 says he comes to Allah alone. The warning in this verse goes a step beyond loss. What was trusted does not simply fall silent on the Day; it stands on the other side.",
+            "bn": "খুব কম পাঠকই মূর্তি গড়েন। তবু সম্মান খোঁজা হয় বংশের নামে, টাকায়, অনুসারীর সংখ্যায়, এমন মানুষের চোখে, যাদের মতামতকে আমি ভয় পাই। ১৯:৭৭-এর লোকটি ভর দিয়েছিল সম্পদ আর সন্তানের উপর, আর ১৯:৮০ বলে, সে আল্লাহর কাছে আসবে একা। এই আয়াতের সতর্কবাণী হারানোর চেয়েও এক ধাপ এগিয়ে। যার উপর ভরসা ছিল, সেদিন সে শুধু চুপ করে থাকে না, অপর পক্ষে গিয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "When I feel lowered, where do I go to feel raised again? If the answer is a person, a possession or a group, the verse asks whether that support will speak for me or against me when everyone is gathered. The wish for honour is not what the verse condemns; it condemns seeking it from what is taken besides Allah. The habit worth building is to seek standing through obedience to Him, and to hold every other support loosely, as help and not as the ground I stand on.",
+            "bn": "নিজেকে ছোট মনে হলে আবার বড় বোধ করতে আমি কোথায় যাই? উত্তর যদি হয় কোনো মানুষ, কোনো সম্পদ বা কোনো দল, তাহলে আয়াত জিজ্ঞেস করে: সবাইকে যখন একত্র করা হবে, সেই অবলম্বন আমার পক্ষে কথা বলবে, নাকি বিপক্ষে? সম্মান চাওয়াটা আয়াতের নিন্দার বিষয় নয়। নিন্দা হলো আল্লাহকে বাদ দিয়ে ধরা কিছুর কাছ থেকে তা চাওয়া। গড়ে তোলার মতো অভ্যাস হলো তাঁর আনুগত্যের মধ্য দিয়ে মর্যাদা খোঁজা। আর বাকি সব অবলম্বনকে আলগা হাতে ধরা, সাহায্য হিসেবে, পায়ের নিচের মাটি হিসেবে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "19:85-86": {
     "sections": [
       {
