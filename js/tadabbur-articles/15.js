@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "15:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words at the Threshold",
+          "bn": "দোরগোড়ায় ছয়টি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Surat al-Hijr opens with six words. The first is three letters read out by their names, Alif, Lam, Ra. Then comes tilka ayatu al-kitabi wa-qur'anin mubin: these are the verses of the Book and of a clear Qur'an. Al-Baghawi heads the surah as Meccan, and the abridged Ibn Kathir says it was revealed in Makkah. The same three letters open Yunus, Hud, Yusuf and Ibrahim as well, and in 10:1 and 12:1 they are followed, as here, by tilka ayatu al-kitab.",
+            "bn": "সূরা হিজরের শুরু ছয়টি শব্দে। প্রথমটি তিনটি হরফ, যা পড়া হয় নাম ধরে: আলিফ, লাম, রা। তারপর আসে তিলকা আয়াতুল কিতাবি ওয়া কুরআনিম মুবীন: এগুলো কিতাবের আয়াত, আর এক সুস্পষ্ট কুরআনের। বাগাভী সূরাটিকে মাক্কী বলে শুরু করেন, আর ইবন কাসীরের সংক্ষিপ্ত সংস্করণ বলে, এটি মক্কায় নাজিল হয়েছে। এই তিন হরফ দিয়েই শুরু হয়েছে সূরা ইউনুস, হুদ, ইউসুফ ও ইবরাহীম। ১০:১ ও ১২:১ আয়াতেও হরফগুলোর ঠিক পরে এখানকার মতো আসে তিলকা আয়াতুল কিতাব।"
+          },
+          {
+            "en": "One small difference is visible on the page. In 12:1 the word mubin, clear, describes the Book; here it describes the Qur'an, and the Book stands alone. What follows the verse is how this Book was received: a wish that comes too late in 15:2, a command in 15:3 to leave the mockers to their eating and enjoyment, and the taunt of 15:6 that the one receiving the Reminder is mad. This article stays at the doorway: the letters, the pairing of Book and Qur'an, and the word mubin.",
+            "bn": "পাতার উপরেই একটা ছোট পার্থক্য চোখে পড়ে। ১২:১ আয়াতে মুবীন, মানে সুস্পষ্ট, শব্দটি কিতাবের বিশেষণ। এখানে তা কুরআনের বিশেষণ, আর কিতাব শব্দটি একা দাঁড়িয়ে। আয়াতের পরে আসে এই কিতাবকে মানুষ কীভাবে নিয়েছিল তার কথা। ১৫:২ আয়াতে এক আকাঙ্ক্ষা, যা আসবে বড় দেরিতে। ১৫:৩ আয়াতে আদেশ, বিদ্রূপকারীদের খাওয়া আর ভোগে মত্ত থাকতে ছেড়ে দাও। আর ১৫:৬ আয়াতে সেই খোঁচা, যার উপর যিকর নাজিল হয়েছে সে পাগল। এই লেখা দোরগোড়াতেই থাকবে: হরফগুলো, কিতাব ও কুরআনের জোড়, আর মুবীন শব্দটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Returned to Its Owner",
+          "bn": "যাঁর জ্ঞান, তাঁর কাছেই ফেরত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and the Muyassar do not explain the letters here; both say they already discussed them earlier, the Muyassar pointing back to the opening of al-Baqara. Ibn Kathir's text on this verse is a long survey, and it opens with a plain statement: the commentators differed. Some said these letters are among what Allah kept to Himself in His knowledge, so they returned their knowledge to Allah and did not explain them. Ibn Kathir notes that al-Qurtubi reports this from Abu Bakr, 'Umar, 'Uthman, 'Ali and Ibn Mas'ud, that ash-Sha'bi, Sufyan ath-Thawri and ar-Rabi' ibn Khuthaym said it, and that Ibn Hibban chose it.",
+            "bn": "তাবারী ও মুয়াসসার এখানে হরফগুলোর ব্যাখ্যায় যান না। দুজনেই বলেন, আগেই এ নিয়ে কথা হয়ে গেছে, আর মুয়াসসার পাঠককে ফেরত পাঠায় সূরা বাকারার শুরুতে। ইবন কাসীরের লেখা এ আয়াতে দীর্ঘ এক পর্যালোচনা, আর শুরুতেই তিনি সোজা বলে দেন: তাফসীরকারেরা এ বিষয়ে একমত নন। একদল বলেছেন, এই হরফগুলো সেই জ্ঞানের অংশ, যা আল্লাহ নিজের কাছে রেখে দিয়েছেন। তাই তাঁরা এর জ্ঞান আল্লাহর কাছে সোপর্দ করেছেন, ব্যাখ্যা করেননি। ইবন কাসীর জানান, কুরতুবী এ মত বর্ণনা করেছেন আবু বকর, উমর, উসমান, আলী ও ইবন মাসউদ (রাঃ) থেকে। শা'বী, সুফিয়ান সাওরী ও রাবী ইবন খুসাইমও এ কথা বলেছেন, আর ইবন হিব্বান এটিই গ্রহণ করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir then quotes a summary by a scholar he leaves unnamed. These letters, it says, were not sent down in vain or to no purpose, and whoever claims the Qur'an holds something recited as worship with no meaning at all has made a grave mistake. They have a meaning in reality. If something sound reaches us about them from the Prophet, protected from error, we say it; if not, we stop where we stopped and say, we believe in it, all is from our Lord, the words of 3:7. The scholars never agreed on a single meaning; whoever sees a view proved follows it, and the rest wait.",
+            "bn": "এরপর ইবন কাসীর এক আলিমের সারকথা উদ্ধৃত করেন, যাঁর নাম তিনি বলেননি। সেই সারকথা বলছে, এই হরফগুলো আল্লাহ অনর্থক বা উদ্দেশ্যহীনভাবে নাজিল করেননি। যে দাবি করে, কুরআনে এমন কিছু আছে যা শুধু ইবাদত হিসেবে পড়া হয় অথচ তার কোনো অর্থই নেই, সে মারাত্মক ভুল করেছে। বাস্তবে এগুলোর অর্থ আছে। নিষ্পাপ নবী ﷺ থেকে এ বিষয়ে সহীহ কিছু পৌঁছালে আমরা তা-ই বলব। না পৌঁছালে যেখানে থামার সেখানেই থামব, আর বলব: আমরা এতে ঈমান এনেছি, সবই আমাদের রবের পক্ষ থেকে। এ কথাটি ৩:৭ আয়াতের। আলিমেরা নির্দিষ্ট এক অর্থে একমত হননি। যার কাছে কোনো মত দলিলে প্রমাণিত মনে হয়, সে তা মানবে, বাকিরা অপেক্ষা করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Called Out",
+          "bn": "নাম ধরে ডাকা সূরা"
+        },
+        "p": [
+          {
+            "en": "Among those who did explain the letters, a frequent answer is that they are names. In al-Qurtubi, Qatada says Alif Lam Ra is the name of the surah, and so is every spelled-out letter group in the Qur'an. Ibn Kathir gives the same view from 'Abd ar-Rahman ibn Zayd ibn Aslam and reports az-Zamakhshari's remark that most scholars hold it. Mujahid's answer is close: in al-Qurtubi the letters are the openings of the surahs, and in at-Tabari's chain from him, Alif Lam Ra is among the openings with which Allah begins His speech.",
+            "bn": "যাঁরা হরফগুলোর ব্যাখ্যা দিয়েছেন, তাঁদের মধ্যে প্রচলিত এক উত্তর হলো, এগুলো নাম। কুরতুবীর বর্ণনায় কাতাদা বলেন, আলিফ লাম রা এই সূরার নাম। কুরআনে বানান করে পড়া প্রতিটি হরফগুচ্ছই তেমন নাম। ইবন কাসীর একই মত আনেন আবদুর রহমান ইবন যায়দ ইবন আসলাম থেকে, আর যামাখশারীর মন্তব্যও জানান যে অধিকাংশ আলিম এ মতেই আছেন। মুজাহিদের উত্তর এর কাছাকাছি। কুরতুবীতে তিনি বলেন, এগুলো সূরাগুলোর সূচনা। আর তাবারী তাঁর থেকে যে সনদে বর্ণনা করেন, তাতে আলিফ লাম রা হলো সেই সূচনাগুলোর একটি, যা দিয়ে আল্লাহ তাঁর কালাম শুরু করেন।"
+          },
+          {
+            "en": "Ibn Kathir supports the naming view with a report found in the two Sahihs from Abu Hurayra (RA). Translated from al-Bukhari's Arabic, in his Sahih, number 891, it reads: The Prophet (ﷺ) used to recite on Friday, in the Fajr prayer, Alif Lam Mim Tanzil, as-Sajda, and Hal ata 'ala al-insan. The narrator names a surah by its opening letters and words. The narration is general and is not attached to 15:1, and none of the tafsirs read for this verse attaches a hadith to the verse itself.",
+            "bn": "নামের মতটির পক্ষে ইবন কাসীর দুই সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে আসা একটি বর্ণনা আনেন। বুখারী তাঁর সহীহ গ্রন্থে ৮৯১ নম্বরে তা এনেছেন। বুখারীর আরবি থেকে অনুবাদ: নবী ﷺ জুমার দিন ফজরের নামাজে পড়তেন আলিফ লাম মীম তানযীল, আস-সাজদা, আর হাল আতা আলাল ইনসান। বর্ণনাকারী এখানে সূরার নাম বলছেন তার শুরুর হরফ ও শব্দ দিয়ে। হাদীসটি সাধারণ, ১৫:১ আয়াতের সঙ্গে যুক্ত নয়। আর এ আয়াতের জন্য পড়া কোনো তাফসীর আয়াতটির সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "Shorter answers sit beside these in al-Qurtubi. Al-Hasan and 'Ikrima said Alif Lam Ra is an oath. Muhammad ibn Yazid said it is a call to attention, as the letters of spelling are. Ibn Kathir, discussing Alif Lam Mim, adds a report through 'Ali ibn Abi Talha from Ibn 'Abbas that it is an oath Allah swore and one of His names. Al-Qurtubi also records that Alif Lam Ra was read both without imala and with it, the vowel leaning towards i, so that it would not resemble the particles ma and la.",
+            "bn": "কুরতুবীতে এগুলোর পাশে আরও কিছু ছোট উত্তর আছে। হাসান ও ইকরিমা বলেছেন, আলিফ লাম রা একটি শপথ। মুহাম্মাদ ইবন ইয়াযীদ বলেছেন, এটি মনোযোগ আকর্ষণের ডাক, বানানের হরফগুলো যেমন হয়ে থাকে। আলিফ লাম মীম প্রসঙ্গে ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা যোগ করেন: এটি আল্লাহর করা এক শপথ, আর তাঁর নামগুলোর একটি। কুরতুবী আরও জানান, আলিফ লাম রা পড়া হয়েছে ইমালা ছাড়াও, ইমালা দিয়েও। ইমালায় স্বরটা ই-এর দিকে হেলে পড়ে, যাতে এটি মা ও লা অব্যয়ের মতো না শোনায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letters Standing for Names",
+          "bn": "হরফে লুকানো নামের মত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his list with two reports from Ibn 'Abbas. In the first, through 'Ikrima, Alif Lam Ra, Ha Mim and Nun are the letters of ar-Rahman, scattered across surahs; when a narrator passed this on to al-A'mash, he asked, you have things like this and do not tell me? In the other, Alif Lam Ra stands for ana Allahu ara, I am Allah, I see. Al-Baghawi gives only this second reading, and introduces it with qila, it is said, the formula for a reported view.",
+            "bn": "কুরতুবী তাঁর তালিকা শুরু করেন ইবন আব্বাস (রাঃ)-এর দুটি বর্ণনা দিয়ে। ইকরিমার সূত্রে আসা প্রথমটিতে আছে, আলিফ লাম রা, হা মীম আর নূন মিলে আর-রাহমান নামের হরফ, যা ছড়িয়ে আছে বিভিন্ন সূরায়। এক বর্ণনাকারী কথাটা আ'মাশকে শোনালে তিনি বলেন, তোমার কাছে এমন জিনিস আছে, অথচ আমাকে বলো না? দ্বিতীয় বর্ণনায় আলিফ লাম রা মানে আনাল্লাহু আরা: আমি আল্লাহ, আমি দেখি। বাগাভী শুধু এই দ্বিতীয় অর্থটিই আনেন, আর শুরু করেন কীলা শব্দ দিয়ে, মানে বলা হয়েছে। বর্ণিত মত জানাতে এটাই প্রচলিত রীতি।"
+          },
+          {
+            "en": "An-Nahhas, quoted by al-Qurtubi, says he saw Abu Ishaq leaning towards the I am Allah, I see reading, because Sibawayh had reported the like from the Arabs: a word cut down to a single letter. The line of verse cited ends its two halves on a bare fa and a bare ta. Ibn Kathir, quoting the same line, explains it as and if evil, then evil, and I want no evil unless you wish: the poet let the fa and the ta stand for the rest of the two words.",
+            "bn": "কুরতুবী নাহহাসের কথা উদ্ধৃত করেন। নাহহাস বলেন, তিনি আবু ইসহাককে 'আমি আল্লাহ, আমি দেখি' অর্থের দিকে ঝুঁকতে দেখেছেন। কারণ সীবাওয়াইহ আরবদের কাছ থেকে এমন নজির বর্ণনা করেছেন, যেখানে একটা শব্দ ছেঁটে একটিমাত্র হরফে নামিয়ে আনা হয়। যে কবিতার চরণ এখানে আনা হয়, তার দুই অংশ শেষ হয় শুধু একটা ফা আর একটা তা দিয়ে। ইবন কাসীরও একই চরণ উদ্ধৃত করে তার ব্যাখ্যা দেন: মন্দ হলে মন্দই, আর তুমি না চাইলে আমি কোনো মন্দ চাই না। কবি দুটি শব্দের বাকি অংশের বদলে শুধু ফা আর তা রেখে দিয়েছেন।"
+          },
+          {
+            "en": "Here Ibn Kathir parts from at-Tabari. Ibn Kathir reports that Ibn Jarir at-Tabari, in his longer discussion, saw no contradiction among these views: the letters are names of surahs and also among Allah's names, each pointing to a name and an attribute of His. Ibn Kathir does not accept this. In the poetry, he says, the context shows what was dropped. A single letter that could point to one name as easily as another, with nothing to prefer either, can only be known by instruction from revelation, and the question has no consensus to settle it.",
+            "bn": "এখানে ইবন কাসীরের পথ তাবারী থেকে আলাদা হয়ে যায়। ইবন কাসীর জানান, ইবন জারীর তাবারী তাঁর দীর্ঘ আলোচনায় এই মতগুলোর মধ্যে কোনো বিরোধ দেখেননি। তাঁর মতে হরফগুলো সূরার নামও, আবার আল্লাহর নামগুলোরও অংশ, প্রতিটি হরফ তাঁর কোনো নাম ও গুণের দিকে ইঙ্গিত করে। ইবন কাসীর এ কথা মানেন না। তিনি বলেন, কবিতায় প্রসঙ্গই দেখিয়ে দেয় কোন অংশ বাদ পড়েছে। কিন্তু যে একটি হরফ এক নামের দিকেও ইঙ্গিত করতে পারে, অন্য নামের দিকেও, আর কোনোটিকে প্রাধান্য দেওয়ার কিছু নেই, তার অর্থ ওহীর শিক্ষা ছাড়া জানা যায় না। এ প্রশ্নে এমন কোনো ইজমাও নেই, যা দিয়ে ফয়সালা করা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Built From Their Own Alphabet",
+          "bn": "তাদেরই বর্ণমালায় গড়া"
+        },
+        "p": [
+          {
+            "en": "Another family of answers asks less what each letter means and more why the letters are there at all. Ibn Kathir reports two such explanations and calls both weak. One says they mark where surahs begin, though the basmala already does that in recitation and in writing. The other says they were meant to open the ears of the polytheists, who had agreed among themselves to turn away from the Qur'an; if so, he replies, they would head every surah, and most surahs do not begin with them.",
+            "bn": "আরেক ধরনের উত্তর প্রতিটি হরফের অর্থ নিয়ে ততটা ভাবে না, বরং প্রশ্ন তোলে, হরফগুলো আদৌ সেখানে কেন। ইবন কাসীর এমন দুটি ব্যাখ্যা বর্ণনা করেন, আর দুটিকেই দুর্বল বলেন। একটির দাবি, এগুলো সূরার শুরু চিনিয়ে দেয়। অথচ তিলাওয়াতে আর লেখায় বিসমিল্লাহই সে কাজ করে দেয়। অন্যটির দাবি, মুশরিকরা নিজেদের মধ্যে কুরআন থেকে মুখ ফিরিয়ে রাখার পরামর্শ করেছিল, তাই তাদের কান খোলানোর জন্য এগুলো আনা হয়েছে। তিনি জবাব দেন, তা-ই যদি হতো, প্রতিটি সূরাই এভাবে শুরু হতো। অথচ বেশির ভাগ সূরা এই হরফ দিয়ে শুরু হয় না।"
+          },
+          {
+            "en": "The explanation Ibn Kathir sets out at length is the challenge. Others said the letters were placed there to show that the Qur'an cannot be matched: people are unable to produce its like, though it is composed of the very letters they speak with. He says ar-Razi reports this from al-Mubarrad and a group of careful scholars, al-Qurtubi gives something close from al-Farra' and Qutrub, az-Zamakhshari argued for it in full, and Ibn Taymiyya and al-Mizzi held it. The Muyassar, in the note on 2:1 to which it sends the reader, says the same.",
+            "bn": "যে ব্যাখ্যা ইবন কাসীর বিস্তারিত তুলে ধরেন, তা হলো চ্যালেঞ্জের ব্যাখ্যা। অন্যরা বলেছেন, কুরআনের সমকক্ষ যে কিছু আনা যায় না, তা দেখাতেই হরফগুলো রাখা হয়েছে। মানুষ এর মতো কিছু আনতে অক্ষম, অথচ এটি গড়া সেই হরফগুলো দিয়েই, যা দিয়ে তারা নিজেরা কথা বলে। ইবন কাসীর জানান, রাযী এ মত বর্ণনা করেছেন মুবাররাদ ও একদল গবেষক আলিম থেকে। কুরতুবী কাছাকাছি কথা এনেছেন ফাররা ও কুতরুব থেকে। যামাখশারী পুরো জোর দিয়ে এর পক্ষে দাঁড়িয়েছেন, আর ইবন তাইমিয়া ও মিযযী এ মত পোষণ করতেন। মুয়াসসারও ২:১ আয়াতের যে টীকায় পাঠককে পাঠায়, সেখানে একই কথা বলে।"
+          },
+          {
+            "en": "That note puts it simply: the polytheists were challenged with the Qur'an and could not answer, though it is made of the letters from which the Arabs' language is formed, and their failure, the most eloquent of people as they were, showed it to be revelation from Allah. Ibn Kathir adds that every surah opening with such letters goes on to speak up for the Qur'an and its greatness, citing al-Baqara, al-A'raf, Ibrahim and as-Sajda. He also rejects reading the dates of future events out of the letters, and calls the report used for it weak.",
+            "bn": "সেই টীকা কথাটা সহজ করে বলে। মুশরিকদের কুরআন দিয়ে চ্যালেঞ্জ করা হয়েছিল, তারা জবাব দিতে পারেনি, অথচ কুরআন গড়া সেই হরফ দিয়েই, যা দিয়ে আরবদের ভাষা তৈরি। আর তারা ছিল মানুষের মধ্যে সবচেয়ে বাগ্মী। তাদের এই অক্ষমতাই প্রমাণ করেছে, কুরআন আল্লাহর ওহী। ইবন কাসীর যোগ করেন, যত সূরা এমন হরফ দিয়ে শুরু, প্রত্যেকটিতেই এরপর কুরআনের পক্ষে কথা আর তার মহত্ত্বের বর্ণনা আসে। নজির হিসেবে তিনি আনেন বাকারা, আ'রাফ, ইবরাহীম ও সাজদার শুরু। হরফগুলো থেকে ভবিষ্যৎ ঘটনার সময় বের করার চেষ্টাও তিনি প্রত্যাখ্যান করেন, আর এর পক্ষে আনা বর্ণনাকে দুর্বল বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Earlier Scriptures or This Qur'an",
+          "bn": "আগের কিতাব, নাকি এই কুরআন"
+        },
+        "p": [
+          {
+            "en": "Then tilka ayatu al-kitab. At-Tabari reads al-kitab as the scriptures before the Qur'an: these verses are the verses of the books that came before it, such as the Torah and the Injil, and wa-qur'anin means and the verses of a Qur'an. He gives Mujahid saying the Book here is the Torah and the Injil, and Qatada saying it is the books that were before the Qur'an. Al-Qurtubi records this as one view: the Book names the whole class of earlier scriptures, the Torah and the Injil, which are then paired with what he calls the clear Book.",
+            "bn": "এরপর তিলকা আয়াতুল কিতাব। তাবারী এখানে কিতাব বলতে কুরআনের আগের কিতাবগুলো বোঝেন। তাঁর ব্যাখ্যায়, এই আয়াতগুলো সেই কিতাবগুলোর আয়াত, যা কুরআনের আগে এসেছিল, যেমন তাওরাত ও ইনজীল। আর ওয়া কুরআনিন মানে, এবং এক কুরআনের আয়াত। তিনি মুজাহিদের কথা আনেন, এখানে কিতাব মানে তাওরাত ও ইনজীল। কাতাদার কথাও আনেন, এ হলো কুরআনের আগের কিতাবগুলো। কুরতুবী এটিকে একটি মত হিসেবে উল্লেখ করেন: কিতাব শব্দটি আগের সব আসমানি কিতাবের সাধারণ নাম, অর্থাৎ তাওরাত ও ইনজীলের। তারপর এ দুটির সঙ্গে জুড়ে দেওয়া হয়েছে সেই কিতাবকে, যাকে তিনি বলেন সুস্পষ্ট কিতাব।"
+          },
+          {
+            "en": "The other view in al-Qurtubi is that the Book is the Qur'an itself, given both names together, and the Muyassar holds it: the Book is the Qur'an, and Allah joined the two names for it. Al-Baghawi poses the question outright: why name the Book and then add a clear Qur'an, when both are one? His answer, itself given as a reported view, is that each carries its own sense: kitab is what is written, and qur'an is what is gathered, part joined to part. He then reports, with it is said, the Torah and Injil reading as well. The sources keep both readings, and so does this article.",
+            "bn": "কুরতুবীর উল্লেখ করা অন্য মতটি হলো, কিতাব মানে কুরআন নিজেই, এখানে তার দুটি নাম একসঙ্গে এসেছে। মুয়াসসার এই মতের: কিতাব হলো কুরআন, আল্লাহ তার জন্য দুটি নাম একত্র করেছেন। বাগাভী প্রশ্নটা সরাসরি তোলেন: দুটোই যখন এক, তখন কিতাবের কথা বলে আবার সুস্পষ্ট কুরআন যোগ করা কেন? উত্তরটাও তিনি দেন একটি বর্ণিত মত হিসেবে: প্রতিটি নাম আলাদা একটা অর্থ দেয়। কিতাব মানে যা লেখা হয়, আর কুরআন মানে যা জমা করা হয়, এক অংশ আরেক অংশের সঙ্গে জুড়ে। এরপর তিনি 'বলা হয়েছে' দিয়ে তাওরাত ও ইনজীলের মতটিও আনেন। উৎসগুলোতে দুটি মতই আছে, এই লেখাও দুটিকেই রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Mubin Brings to Light",
+          "bn": "মুবীন যা আলোয় আনে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and al-Baghawi both gloss tilka, literally those, as hadhihi, these. Mubin then names what the Qur'an does. At-Tabari says it makes plain, to whoever contemplates it and ponders it, his right course and his guidance, and he gives Qatada's words: it makes clear, by Allah, its guidance, its right course and its good. Al-Baghawi names a different thing made plain: it sets the lawful apart from the forbidden, and the truth apart from falsehood.",
+            "bn": "তাবারী ও বাগাভী দুজনেই তিলকা শব্দের ব্যাখ্যা দেন হাযিহী দিয়ে। শব্দে তিলকা মানে ওইগুলো, তাঁদের ব্যাখ্যায় অর্থ এগুলো। এরপর মুবীন শব্দটি জানায় কুরআন কী করে। তাবারী বলেন, যে এ নিয়ে চিন্তা করে আর তাদাব্বুর করে, তার সামনে কুরআন তার সঠিক পথ ও হিদায়াত স্পষ্ট করে দেয়। তিনি কাতাদার কথাও আনেন: আল্লাহর কসম, এটি তার হিদায়াত, তার সঠিক পথ আর তার কল্যাণ স্পষ্ট করে দেয়। বাগাভী অন্য একটি দিক বলেন: কুরআন হালালকে হারাম থেকে আলাদা করে দেখায়, সত্যকে মিথ্যা থেকে।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di use nearly the same words: a Qur'an that makes the realities clear in the best and clearest wording, the most telling of what is meant. As-Sa'di reads the whole verse as Allah honouring and praising His Book, its verses pointing to the finest meanings and the highest aims. Then he draws the consequence for the hearer: this obliges people to yield to it, to submit to its ruling, and to receive it with acceptance, with joy and with gladness.",
+            "bn": "মুয়াসসার আর সা'দী প্রায় একই ভাষায় বলেন: এ এমন কুরআন, যা সত্যগুলোকে স্পষ্ট করে সবচেয়ে সুন্দর ও সবচেয়ে পরিষ্কার শব্দে, যে শব্দ উদ্দেশ্যটা সবচেয়ে ভালোভাবে বুঝিয়ে দেয়। সা'দীর চোখে পুরো আয়াতটাই আল্লাহর পক্ষ থেকে তাঁর কিতাবের মর্যাদা ঘোষণা ও প্রশংসা। এর আয়াতগুলো দেখিয়ে দেয় শ্রেষ্ঠ অর্থ আর সর্বোচ্চ লক্ষ্যের দিকে। তারপর তিনি শ্রোতার জন্য ফলাফলটা টেনে আনেন: এ কারণেই মানুষের কর্তব্য এর কাছে নত হওয়া, এর ফয়সালা মেনে নেওয়া, আর একে কবুল করে নেওয়া আনন্দ ও খুশির সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Wish Comes Late",
+          "bn": "আকাঙ্ক্ষা দেরিতে আসার আগে"
+        },
+        "p": [
+          {
+            "en": "The next verse turns from the Book to those who refused it: perhaps those who disbelieve will wish they had been Muslims. The abridged Ibn Kathir reads it as regret for a life lived in disbelief, and gives reports from 'Abdullah, and through Ibn Jarir from Ibn 'Abbas and Anas, that the wish comes when believers who sinned are brought out of the Fire. The verse describes what it describes. It licenses nothing against any living person or community, and gives no one the right to say who will be found wishing.",
+            "bn": "পরের আয়াত কিতাব থেকে ফিরে তাকায় তাদের দিকে, যারা তা প্রত্যাখ্যান করেছিল: হয়তো কাফিররা কামনা করবে, হায়, যদি তারা মুসলিম হতো। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ একে দেখে কুফরিতে কাটানো জীবনের আক্ষেপ হিসেবে। সেখানে আবদুল্লাহ থেকে, আর ইবন জারীরের সূত্রে ইবন আব্বাস ও আনাস (রাঃ) থেকে বর্ণনা আছে যে, গুনাহগার মুমিনদের যখন আগুন থেকে বের করে আনা হবে, তখনই আসবে সেই কামনা। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। কে সেদিন এমন কামনা করবে, তা বলার অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "For the reader, the opening verse sets two attitudes side by side. Of the letters, the sources record honest disagreement and a line of Companions and later scholars who left the meaning with Allah. Of the verses that follow, at-Tabari says they make guidance plain to whoever contemplates and ponders them. The door that stays shut asks for the words we believe in it, all is from our Lord. The door that stands open asks, in as-Sa'di's terms, to be walked through with acceptance and with joy, now, before any wish like that of 15:2 comes too late.",
+            "bn": "পাঠকের সামনে শুরুর আয়াতটি দুটি মনোভাব পাশাপাশি রাখে। হরফগুলোর ব্যাপারে উৎসগুলো সৎ মতভেদ লিখে রেখেছে। আর লিখে রেখেছে সাহাবি ও পরবর্তী আলিমদের এমন এক ধারা, যাঁরা এর অর্থ আল্লাহর কাছে ছেড়ে দিয়েছেন। পরের আয়াতগুলোর ব্যাপারে তাবারী বলেন, যে চিন্তা করে আর তাদাব্বুর করে, তার সামনে এগুলো হিদায়াত স্পষ্ট করে দেয়। যে দরজা বন্ধ থাকে, তার সামনে বলতে হয়: আমরা এতে ঈমান এনেছি, সবই আমাদের রবের পক্ষ থেকে। আর যে দরজা খোলা, সা'দীর ভাষায় তাতে ঢুকতে হয় কবুল আর আনন্দ নিয়ে। ঢুকতে হয় এখনই, ১৫:২ আয়াতের মতো কোনো কামনা দেরিতে আসার আগেই।"
+          }
+        ]
+      }
+    ]
+  },
   "15:4": {
     "sections": [
       {

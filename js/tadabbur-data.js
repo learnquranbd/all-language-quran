@@ -22151,6 +22151,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every familiar ground will be replaced on that Day, so build now on what you will carry before Allah, the One, the Prevailing.",
     "lessonBn": "সেদিন প্রতিটি চেনা মাটি বদলে যাবে। তাই এখনই সেই জিনিসের উপর জীবন গড়ুন, যা নিয়ে আপনি এক ও প্রবল আল্লাহর সামনে দাঁড়াবেন।"
+  },
+  "15:1": {
+    "reflectionEn": "Al-Hijr opens with three letters, Alif, Lam, Ra, and the verse does not stop to explain them. Then it speaks plainly: these are the verses of the Book and of a Qur'an that makes things clear. The order is worth noticing. Some of what Allah sent down is recited and honoured while its full meaning stays with Him, and nobody is asked to invent one. Far more is set before us to be understood, obeyed and lived. A reader can go wrong in two directions: forcing secrets out of what was left closed, or treating what was made clear as though it were closed. Which of the two is my habit?",
+    "reflectionBn": "সূরা হিজর শুরু হয় তিনটি হরফ দিয়ে: আলিফ, লাম, রা। আয়াত থেমে এগুলোর ব্যাখ্যা দেয় না। তারপরই সোজা কথা: এগুলো কিতাবের আয়াত, আর এমন এক কুরআনের, যা সব স্পষ্ট করে দেয়। এই ক্রমটা খেয়াল করার মতো। আল্লাহর নাজিল করা কিছু অংশ আমরা তিলাওয়াত করি, সম্মান করি, অথচ তার পূর্ণ অর্থ তাঁর কাছেই থাকে। নিজে থেকে একটা অর্থ বানিয়ে নিতে কাউকে বলা হয়নি। আর এর চেয়ে অনেক বেশি অংশ রাখা হয়েছে আমাদের সামনে, বোঝার জন্য, মানার জন্য, জীবনে ধরে রাখার জন্য। পাঠক দুই দিকেই ভুল করতে পারে। যা বন্ধ রাখা হয়েছে, জোর করে তার ভেতর থেকে গোপন রহস্য বের করা। কিংবা যা খুলে বলা হয়েছে, তাকে বন্ধ দরজার মতো ফেলে রাখা। এ দুটোর কোনটা আমার অভ্যাস?",
+    "pointsEn": [
+      "When I meet a passage of the Qur'an I do not understand, do I admit it honestly, or fill the gap with a confident guess?",
+      "Which plain instruction of the Qur'an do I already understand well, yet keep treating as if it were unclear?",
+      "How much of my week went into reciting the Book, and how much into asking what it is making clear to me?",
+      "Do I receive the verses I hear with gladness, or as one more task to get through?",
+      "Have I been drawn to theories about hidden codes in the text while leaving its open guidance untouched?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোনো অংশ বুঝতে না পারলে আমি কি সৎভাবে তা স্বীকার করি, নাকি আত্মবিশ্বাসী এক অনুমান দিয়ে ফাঁকটা ভরিয়ে দিই?",
+      "কুরআনের কোন সোজা নির্দেশটা আমি ভালো করেই বুঝি, অথচ এমন ভাব করি যেন তা অস্পষ্ট?",
+      "এ সপ্তাহে কিতাব তিলাওয়াতে কতটা সময় দিয়েছি, আর তা আমাকে কী স্পষ্ট করে দিচ্ছে সেই প্রশ্নে কতটা?",
+      "যে আয়াত শুনি, তা কি আনন্দ নিয়ে গ্রহণ করি, নাকি আরেকটা কাজ শেষ করার মতো করে?",
+      "কুরআনের ভেতরে লুকানো সংকেত নিয়ে নানা তত্ত্বের দিকে কি আমি ঝুঁকেছি, আর খোলা হিদায়াত পড়ে থেকেছে অছোঁয়া?"
+    ],
+    "lessonEn": "Leave with Allah what He has not explained, and take up what He has made clear: the Qur'an's plain guidance is enough to act on today.",
+    "lessonBn": "আল্লাহ যা ব্যাখ্যা করেননি তা তাঁর কাছেই ছেড়ে দিন, আর যা তিনি স্পষ্ট করেছেন তা আঁকড়ে ধরুন: আজই আমল শুরু করার জন্য কুরআনের সোজা হিদায়াতই যথেষ্ট।"
   }
 };
 
