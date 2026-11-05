@@ -1175,6 +1175,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "After a Grave Saying",
+          "bn": "এক ভয়ানক কথার পর"
+        },
+        "p": [
+          {
+            "en": "Al-Isra' has just run through a long string of commands, opened in 17:22 and closed in 17:39 with the same charge: do not set up another god beside Allah. Then 17:40 confronts a specific claim. Has your Lord chosen sons for you and taken daughters for Himself from among the angels? Indeed, you say a grave saying. The verse after that charge steps back from the argument and speaks about the Qur'an itself: how it has been delivered, what it was meant to do, and what it actually did to those who heard it.",
+            "bn": "সূরা ইসরা একটানা অনেকগুলো আদেশ শুনিয়েছে। ১৭:২২ আয়াতে শুরু, ১৭:৩৯ আয়াতে শেষ, আর দুই জায়গাতেই একই কথা: আল্লাহর সঙ্গে আর কোনো ইলাহ স্থির করো না। এরপর ১৭:৪০ আয়াত একটি নির্দিষ্ট দাবির মুখোমুখি হয়। তোমাদের রব কি তোমাদের জন্য পুত্র বেছে দিয়েছেন, আর নিজের জন্য ফেরেশতাদের মধ্য থেকে কন্যা নিয়েছেন? তোমরা তো বড় ভয়ানক কথা বলছ। সেই অভিযোগের পরের আয়াতে আলোচনা একটু থেমে কুরআনের নিজের দিকে ফেরে: কীভাবে তা পৌঁছানো হয়েছে, কী করার জন্য এসেছে, আর যারা শুনেছে তাদের উপর আসলে কী প্রভাব ফেলেছে।"
+          },
+          {
+            "en": "At-Tabari ties the two verses together in his first clause. We have varied, he says, for these idolaters who fabricate lies against Allah. The verse is ten Arabic words, opening with wa-la-qad, an emphatic 'and indeed'. Its two halves sit side by side without comment: a purpose, that they may take heed, and an outcome, that it increased them only in aversion. Straight afterwards, 17:42 and 17:43 return to the argument, answering those who say there are other gods with Him.",
+            "bn": "দুই আয়াতকে তাবারী তাঁর প্রথম বাক্যেই জুড়ে দেন। তাঁর ভাষায়, আমি নানাভাবে বর্ণনা করেছি এই মুশরিকদের জন্য, যারা আল্লাহর নামে মিথ্যা রটায়। আয়াতটি আরবিতে ১০টি শব্দের। শুরু হয়েছে ওয়া লাকাদ দিয়ে, জোর দিয়ে বলা: নিশ্চয়ই। তার দুটি অংশ পাশাপাশি বসানো, মাঝে কোনো মন্তব্য নেই। একদিকে উদ্দেশ্য: যাতে তারা উপদেশ নেয়। অন্যদিকে ফল: তা তাদের বিমুখতাই শুধু বাড়িয়েছে। ঠিক পরেই ১৭:৪২ ও ১৭:৪৩ আয়াত আবার যুক্তিতে ফেরে, তাদের জবাব দিতে যারা বলে তাঁর সঙ্গে আরও ইলাহ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned From Side to Side",
+          "bn": "নানা দিক থেকে বলা কথা"
+        },
+        "p": [
+          {
+            "en": "Sarrafna comes from tasrif. Al-Qurtubi gives the root sense first: tasrif is turning a thing from one direction to another. Then he sets out what it means here. One gloss is bayyanna, We have made clear; another, introduced with qila, is karrarna, We have repeated; and he concludes that the tasrif intended is clarification and repetition. A further qila takes it as variation: We made the admonitions differ from one another, so that they might take heed, reflect and be admonished.",
+            "bn": "সাররাফনা এসেছে তাসরীফ থেকে। কুরতুবী আগে মূল অর্থটা বলেন: কোনো জিনিসকে এক দিক থেকে আরেক দিকে ঘুরিয়ে দেওয়াই তাসরীফ। তারপর এখানে এর মানে কী, তা খুলে বলেন। এক ব্যাখ্যায় এর অর্থ বাইয়্যান্না, আমি স্পষ্ট করেছি। কীলা বলে আনা আরেক ব্যাখ্যায় কাররারনা, আমি বারবার বলেছি। তাঁর সিদ্ধান্ত, এখানে তাসরীফ মানে বর্ণনা আর পুনরাবৃত্তি। কীলা দিয়ে আনা আরও এক মত একে বৈচিত্র্য হিসেবে পড়ে: আমি উপদেশগুলোকে একটি থেকে আরেকটি আলাদা করে দিয়েছি, যাতে তারা শিক্ষা নেয়, ভাবে আর সতর্ক হয়।"
+          },
+          {
+            "en": "The other commentators fill in what was turned. At-Tabari lists lessons, signs and proofs, and adds that parables were struck for them, and that they were cautioned and warned. Al-Baghawi names lessons, wisdom, parables, rulings, proofs and tidings, and explains the doubled consonant of sarrafna as conveying abundance and repetition. Ibn Kathir narrows it to the warnings, min al-wa'id, a phrase that also stands in 20:113. Al-Muyassar puts it in two verbs, We made plain and We made varied, the rulings, parables and admonitions.",
+            "bn": "কী কী ঘুরিয়ে বলা হয়েছে, অন্য তাফসীরকারেরা তা ভরিয়ে দেন। তাবারী গোনেন শিক্ষা, নিদর্শন আর প্রমাণ। সঙ্গে যোগ করেন, তাদের জন্য উপমা দেওয়া হয়েছে, তাদের সাবধান করা হয়েছে, ভয় দেখানো হয়েছে। বাগাভী নাম করেন শিক্ষা, হিকমত, উপমা, বিধান, প্রমাণ আর সংবাদের। তিনি বলেন, সাররাফনা শব্দের তাশদীদ বোঝায় আধিক্য আর পুনরাবৃত্তি। ইবন কাসীর একে সীমিত করেন সতর্কবাণীতে, মিনাল ওয়াঈদ। এই শব্দবন্ধটি ২০:১১৩ আয়াতেও আছে। মুয়াসসার দুই ক্রিয়ায় বলে দেয়: বিধান, উপমা আর উপদেশ আমি স্পষ্ট করেছি, নানা রকম করেছি।"
+          },
+          {
+            "en": "As-Sa'di reads the verb as Allah varying the rulings for His servants and making them clear, multiplying the proofs for what He calls to, admonishing and reminding, so that they would recall what benefits them and take that path, and what harms them and leave it. He then names the matter on which the Qur'an turns its signs most of all: tawhid, which he calls the root of roots. It commanded it, forbade its opposite, and raised so many proofs of reason and of revelation that whoever listens to even some of them is left without doubt.",
+            "bn": "সা'দীর পাঠে এর অর্থ: আল্লাহ তাঁর বান্দাদের জন্য বিধানগুলো নানা রকম করে স্পষ্ট করেছেন, যেদিকে ডাকেন তার পক্ষে প্রমাণ বাড়িয়েছেন, উপদেশ দিয়েছেন, স্মরণ করিয়েছেন। উদ্দেশ্য, তারা যেন মনে রাখে কী তাদের উপকার করে, আর সে পথে চলে, কী তাদের ক্ষতি করে, আর তা ছেড়ে দেয়। তারপর তিনি সেই বিষয়ের নাম করেন, যা নিয়ে কুরআন সবচেয়ে বেশি নিদর্শন ঘুরিয়ে এনেছে: তাওহীদ। তাঁর ভাষায়, এটাই সব মূলের মূল। কুরআন এর আদেশ দিয়েছে, এর বিপরীত থেকে নিষেধ করেছে, আর বুদ্ধি ও ওহীর এত প্রমাণ দাঁড় করিয়েছে যে কেউ তার কিছু অংশেও কান দিলে মনে আর সন্দেহ থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like Winds From Every Quarter",
+          "bn": "চার দিকের বাতাসের মতো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also quotes ath-Tha'labi, who heard Abu al-Qasim al-Husayn say, in the presence of the shaykh Abu at-Tayyib, that sarrafna carries two meanings. The first is that Allah did not make the Qur'an a single kind. It is promise and threat, clear and ambiguous, prohibition and command, abrogating and abrogated, reports and parables. He likens it to the tasrif of the winds, which blow as saba, dabur, janub and shamal, and to the way a verb is turned through past and future, command and prohibition, doer and done-to.",
+            "bn": "কুরতুবী সা'লাবীর একটি বক্তব্যও উদ্ধৃত করেন। সা'লাবী শুনেছিলেন, শায়খ আবুত তাইয়িবের উপস্থিতিতে আবুল কাসিম হুসাইন বলছেন, সাররাফনা শব্দের দুটি অর্থ। প্রথম অর্থ: আল্লাহ কুরআনকে এক রকম করে রাখেননি। এতে আছে ওয়াদা আর হুঁশিয়ারি, মুহকাম আর মুতাশাবিহ, নিষেধ আর আদেশ, নাসিখ আর মানসূখ, সংবাদ আর উপমা। তিনি একে তুলনা করেন বাতাসের তাসরীফের সঙ্গে। বাতাস কখনো বয় পূবালি হয়ে, কখনো পশ্চিমা, কখনো দখিনা, কখনো উত্তুরে। আবার তুলনা করেন ক্রিয়াপদের রূপবদলের সঙ্গে: অতীত আর ভবিষ্যৎ, আদেশ আর নিষেধ, কর্তা আর কর্ম।"
+          },
+          {
+            "en": "The second meaning is that the Qur'an was not sent down all at once but in portions, as in wa-qur'anan faraqnahu, a Qur'an We have divided, later in this surah at 17:106. The sense then is: We sent Jibril (AS) to you many times. Al-Qurtubi records another view, on fi hadha l-qur'an. Some take the fi as extra, so that it means We have varied this Qur'an, comparing wa-aslih li fi dhurriyyati in 46:15. Otherwise, he says, it means the parables, lessons, wisdom, admonitions, rulings and tidings within it.",
+            "bn": "দ্বিতীয় অর্থ: কুরআন একবারে নাযিল হয়নি, এসেছে কিস্তিতে কিস্তিতে। যেমন এ সূরারই ১৭:১০৬ আয়াতে আছে, ওয়া কুরআনান ফারাকনাহু, এমন কুরআন যাকে আমি ভাগ ভাগ করে দিয়েছি। তখন অর্থ দাঁড়ায়: আমি জিবরীল (আঃ)-কে তোমার কাছে বহুবার পাঠিয়েছি। ফী হাযাল কুরআন নিয়েও কুরতুবী আরেকটি মত উল্লেখ করেন। কেউ কেউ এই ফী-কে অতিরিক্ত ধরেন। তখন অর্থ হয়, আমি এই কুরআনকেই নানাভাবে বর্ণনা করেছি। তুলনা হিসেবে তাঁরা আনেন ৪৬:১৫ আয়াতের ওয়া আসলিহ লী ফী যুররিয়্যাতী। নইলে, তিনি বলেন, এর মানে কুরআনের ভেতরের উপমা, শিক্ষা, হিকমত, উপদেশ, বিধান আর সংবাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Readings of Taking Heed",
+          "bn": "উপদেশ গ্রহণের দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "The reading of the majority, al-Qurtubi notes, is sarrafna with the doubled ra', conveying frequency, wherever the verb occurs; al-Hasan read it light. The next verb has its own two readings. Al-Qurtubi names Yahya, al-A'mash, Hamza and al-Kisa'i as reading li-yadhkuru, light, and says they read the same in al-Furqan, in wa-la-qad sarrafnahu baynahum li-yadhdhakkaru at 25:50. The rest read it doubled. Al-Baghawi confirms the light reading from Hamza and al-Kisa'i, with the dhal unvowelled and the kaf with damma, and likewise in al-Furqan.",
+            "bn": "কুরতুবী জানান, অধিকাংশ কারীর পাঠ সাররাফনা, রা-তে তাশদীদ দিয়ে। এই ক্রিয়া যেখানেই এসেছে, সেখানেই এভাবে পড়া হয়, আর তাশদীদ বোঝায় বারবার করা। হাসান একে হালকা করে পড়েছেন। পরের ক্রিয়াটিরও দুই পাঠ আছে। কুরতুবী নাম করেন ইয়াহইয়া, আ'মাশ, হামযা আর কিসাঈর, যাঁরা হালকা করে পড়েছেন লিয়াযকুরূ। তিনি বলেন, সূরা ফুরকানের ২৫:৫০ আয়াতেও, ওয়া লাকাদ সাররাফনাহু বাইনাহুম লিয়াযযাক্কারূ, তাঁরা একইভাবে পড়েছেন। বাকিরা পড়েছেন তাশদীদসহ। বাগাভীও হামযা আর কিসাঈর হালকা পাঠের কথা বলেন: যাল সাকিন আর কাফে পেশ। ফুরকানেও তাঁদের পাঠ একই।"
+          },
+          {
+            "en": "The difference is more than a sound. Abu 'Ubayd preferred the doubled reading, al-Qurtubi reports, because its meaning is to take heed and be admonished. Al-Mahdawi says that whoever reads it doubled intends tadabbur, pondering. Al-Qurtubi then pairs each reading with a verse. The doubled one matches 28:51, We have conveyed the word to them in succession that they might take heed, yatadhakkarun. The light one matches 2:63, wa-dhkuru ma fihi, remember what is in it. One asks for reflection worked at; the other for keeping in mind what was said.",
+            "bn": "পার্থক্যটা শুধু উচ্চারণের নয়। কুরতুবী জানান, আবু উবাইদ তাশদীদের পাঠ পছন্দ করেছেন, কারণ এর অর্থ শিক্ষা নেওয়া আর উপদেশ গ্রহণ করা। মাহদাবী বলেন, যে তাশদীদ দিয়ে পড়ে, সে বোঝাতে চায় তাদাব্বুর, অর্থাৎ গভীরভাবে ভাবা। এরপর কুরতুবী প্রতিটি পাঠের পাশে একটি করে আয়াত রাখেন। তাশদীদের পাঠের মিল ২৮:৫১ আয়াতের সঙ্গে: আমি তাদের কাছে একের পর এক বাণী পৌঁছে দিয়েছি, যাতে তারা উপদেশ নেয়, ইয়াতাযাক্কারূন। হালকা পাঠের মিল ২:৬৩ আয়াতের সঙ্গে: ওয়াযকুরূ মা ফীহি, এতে যা আছে তা মনে রাখো। একটি চায় খেটে খুটে ভাবনা, অন্যটি চায় শোনা কথা মনে ধরে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reminding Added",
+          "bn": "উপদেশ যা বাড়িয়ে দিল"
+        },
+        "p": [
+          {
+            "en": "Wa ma yaziduhum illa nufura. The commentators supply the subject the verse leaves unstated. At-Tabari: our reminding them. Al-Baghawi: our varying and our reminding. Al-Qurtubi: the tasrif and the reminder. Al-Muyassar: the explanation and the making clear. That is the sharp edge of the sentence. What added to the aversion was not neglect or silence but the very care taken over them. At-Tabari explains nufur as going away from the truth, distance from it and flight, and notes that it is the verbal noun of nafara, as when someone shies away from a matter.",
+            "bn": "ওয়া মা ইয়াযীদুহুম ইল্লা নুফূরা। আয়াতে কর্তাটা উহ্য, তাফসীরকারেরা তা বসিয়ে দেন। তাবারীর মতে, তাদের প্রতি আমার উপদেশ। বাগাভীর মতে, আমার নানাভাবে বলা আর স্মরণ করানো। কুরতুবীর মতে, তাসরীফ আর উপদেশ। মুয়াসসারের মতে, বর্ণনা আর স্পষ্ট করে দেওয়া। বাক্যের ধারালো দিকটা এখানেই। তাদের বিমুখতা বাড়িয়েছে অবহেলা বা নীরবতা নয়, বরং তাদের জন্য নেওয়া এত যত্নই। তাবারী নুফূর ব্যাখ্যা করেন সত্য থেকে সরে যাওয়া, দূরে থাকা আর পালানো হিসেবে। তিনি বলেন, এটি নাফারা ক্রিয়ার মাসদার, যেমন বলা হয়, অমুক লোক এই ব্যাপার থেকে ছিটকে সরে গেল।"
+          },
+          {
+            "en": "Ibn Kathir has the same two notes, aversion from the truth and distance from it, and he limits who is meant: the wrongdoers among them. Al-Qurtubi and al-Muyassar add a second element, heedlessness of looking and of taking lesson. The word itself returns five verses later. In 17:46, when the Lord is mentioned alone in the Qur'an, they turn on their backs, nufura, in aversion. The aversion named here is given a picture there: backs turned at the very mention of Allah alone, the matter that 17:40 to 17:43 are arguing.",
+            "bn": "ইবন কাসীরেও একই দুই কথা: সত্য থেকে বিমুখতা আর তা থেকে দূরে সরে যাওয়া। সঙ্গে তিনি সীমা টেনে দেন কাদের কথা হচ্ছে: তাদের মধ্যে যারা যালিম। কুরতুবী আর মুয়াসসার আরেকটি দিক যোগ করেন: ভেবে দেখা আর শিক্ষা নেওয়ার ব্যাপারে গাফলতি। শব্দটি পাঁচ আয়াত পরে আবার আসে। ১৭:৪৬ আয়াতে বলা হয়েছে, কুরআনে যখন শুধু তোমার রবের কথা বলা হয়, তারা নুফূরা, বিমুখ হয়ে পিঠ ফিরিয়ে চলে যায়। এখানে যে বিমুখতার নাম, সেখানে তার ছবি: আল্লাহর একত্বের কথা উঠতেই ফিরিয়ে নেওয়া পিঠ। আর ১৭:৪০ থেকে ১৭:৪৩ আয়াতের তর্কও ঠিক এই বিষয় নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Healing for Some, Loss for Others",
+          "bn": "কারও জন্য শিফা, কারও জন্য ক্ষতি"
+        },
+        "p": [
+          {
+            "en": "Why would more clarity yield more distance? The commentators on this verse place the reason in the hearers. Al-Qurtubi: because they had decided that the Qur'an was a trick, magic, soothsaying and poetry. As-Sa'di: most people refused all but aversion from Allah's signs, out of hatred for the truth and love for the falsehood they were on, until they clung to that falsehood out of partisanship, gave the signs no hearing and paid them no heed. At-Tabari puts it simply: they took no lesson from the signs and warnings that kept coming to them.",
+            "bn": "স্পষ্টতা বাড়লে দূরত্ব বাড়ে কেন? এ আয়াতের তাফসীরকারেরা কারণটা খোঁজেন শ্রোতাদের ভেতরে। কুরতুবী বলেন, কারণ তারা আগেই ধরে নিয়েছিল কুরআন এক চালাকি, জাদু, গণকের কথা আর কবিতা। সা'দী বলেন, বেশিরভাগ মানুষ আল্লাহর আয়াত থেকে বিমুখ হওয়া ছাড়া আর কিছুতেই রাজি হলো না। কারণ তারা সত্যকে ঘৃণা করত, আর যে বাতিলের উপর ছিল তাকে ভালোবাসত। শেষে দলীয় জেদে নিজেদের বাতিল আঁকড়ে ধরল, আয়াতের দিকে কান দিল না, মনও দিল না। তাবারী সোজা কথায় বলেন: একের পর এক যে নিদর্শন আর সতর্কবাণী আসছিল, তা থেকে তারা কোনো শিক্ষা নেয়নি।"
+          },
+          {
+            "en": "The Qur'an describes this pattern elsewhere in its own words. Later in this surah, 17:82: We send down of the Qur'an what is healing and mercy for the believers, and it increases the wrongdoers only in loss. In at-Tawba, 9:124 and 9:125: when a surah is sent down, it increases those who believe in faith, and they rejoice, while those in whose hearts is disease it increases in evil upon their evil. And 17:60: We warn them, and it increases them only in great transgression. These links are the article's own; none of the tafsirs fetched on 17:41 cites them.",
+            "bn": "কুরআন অন্য জায়গাতেও নিজের ভাষায় এই ধারা বর্ণনা করেছে। এ সূরারই ১৭:৮২ আয়াতে: আমি কুরআনে এমন জিনিস নাযিল করি যা মুমিনদের জন্য শিফা ও রহমত, আর যালিমদের তা কেবল ক্ষতিই বাড়ায়। সূরা তাওবার ৯:১২৪ ও ৯:১২৫ আয়াতে: কোনো সূরা নাযিল হলে মুমিনদের ঈমান বাড়ে, তারা আনন্দিত হয়। আর যাদের অন্তরে রোগ, তাদের নোংরামির উপর আরও নোংরামি যোগ হয়। আবার ১৭:৬০ আয়াতে: আমি তাদের ভয় দেখাই, কিন্তু তা তাদের সীমালঙ্ঘনই বাড়িয়ে দেয়। এই সংযোগগুলো এ লেখার নিজের। ১৭:৪১ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এগুলো উল্লেখ করেনি।"
+          },
+          {
+            "en": "Then 17:45 and 17:46 speak of a hidden partition set between the Prophet ﷺ and those who do not believe in the Hereafter, and of coverings placed over their hearts, and they describe that as Allah's act. The commentators read here do not take up how that act and the hearers' own hatred fit together; on this verse they keep to the hearers' side. How the two meet is a question theologians have long discussed. This article does not settle it, and leaves both halves as the Qur'an gives them.",
+            "bn": "এরপর ১৭:৪৫ ও ১৭:৪৬ আয়াত বলে, নবী ﷺ আর আখিরাতে অবিশ্বাসীদের মাঝে এক অদৃশ্য পর্দা দেওয়া হয়েছে, আর তাদের অন্তরের উপর আবরণ রাখা হয়েছে। আয়াত দুটি একে আল্লাহর কাজ বলেই উল্লেখ করে। সেই কাজ আর শ্রোতাদের নিজেদের সত্যবিদ্বেষ কীভাবে একসঙ্গে মেলে, এখানে উদ্ধৃত তাফসীরকারেরা সে প্রশ্নে যান না। এ আয়াতে তাঁরা শ্রোতাদের দিকটাই বলেন। দুটো কীভাবে মেলে, তা নিয়ে আলেমরা বহুকাল ধরে আলোচনা করেছেন। এ লেখা সেই মীমাংসায় যায় না। কুরআন যেভাবে দুটো দিক রেখেছে, সেভাবেই রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Proof For or Against",
+          "bn": "পক্ষে অথবা বিপক্ষে প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched on 17:41 attaches a hadith to the verse. One sound narration, which none of them links to it, states its principle in general terms: the same Qur'an does not leave its hearer where it found him. It is in the Sahih of Imam Muslim, and that placement is the only grading given here. It is cited on that footing alone, as a general teaching and not as commentary on this verse.",
+            "bn": "১৭:৪১ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। একটি সহীহ বর্ণনা আছে, যাকে তাঁদের কেউ এ আয়াতের সঙ্গে যুক্ত করেননি, তবে আয়াতের মূল কথাটা তাতে সাধারণভাবে এসেছে: একই কুরআন শ্রোতাকে যেখানে পেয়েছিল, সেখানে রেখে যায় না। হাদীসটি ইমাম মুসলিমের সহীহ গ্রন্থে আছে, আর এখানে তার মান বলতে শুধু সেটুকুই। এটি আনা হলো সাধারণ শিক্ষা হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়।"
+          },
+          {
+            "en": "In Sahih Muslim 223: 'Abu Malik al-Ash'ari reported: The Messenger of Allah ﷺ said: Cleanliness is half of faith and al-Hamdu Lillah (all praise and gratitude is for Allah alone) fills the scale, and Subhan Allah (Glory be to Allah) and al-Hamdu Lillah fill up what is between the heavens and the earth, and prayer is a light, and charity is proof (of one's faith) and endurance is a brightness and the Holy Qur'an is a proof on your behalf or against you. All men go out early in the morning and sell themselves, thereby setting themselves free or destroying themselves.'",
+            "bn": "সহীহ মুসলিম ২২৩: আবু মালিক আশআরী (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: পবিত্রতা ঈমানের অর্ধেক। আলহামদুলিল্লাহ মীযান ভরে দেয়। সুবহানাল্লাহ আর আলহামদুলিল্লাহ আসমান ও যমীনের মাঝখান ভরে দেয়। নামায আলো, সাদাকা প্রমাণ, সবর উজ্জ্বল দীপ্তি। আর কুরআন এমন একটি প্রমাণ, যা হয় তোমার পক্ষে, নয়তো তোমার বিপক্ষে। প্রত্যেক মানুষ ভোরে বের হয় আর নিজেকে বিক্রি করে। তাতে কেউ নিজেকে মুক্ত করে, কেউ ধ্বংস করে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes. At-Tabari names its subject as the idolaters who fabricated against Allah, and Ibn Kathir narrows it to the wrongdoers among them. It licenses nothing against any living person or community. It gives no one the right to look at someone who turns away today and pronounce that the Qur'an has only increased them in aversion. That report belongs to Allah, about those He meant, and the stated purpose of all the varying remains li-yadhdhakkaru, that they may take heed.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, ততটুকুই বর্ণনা করে। তাবারী এর বিষয় বলেছেন সেই মুশরিকদের, যারা আল্লাহর নামে মিথ্যা রটাত। ইবন কাসীর আরও সীমিত করে বলেছেন, তাদের মধ্যে যারা যালিম। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কেউ মুখ ফিরিয়ে নিলে তার দিকে তাকিয়ে কেউ রায় দিতে পারে না যে কুরআন তার বিমুখতাই শুধু বাড়িয়েছে। সে খবর আল্লাহর, যাদের কথা তিনি বলেছেন তাদের ব্যাপারে। আর এত বৈচিত্র্যের ঘোষিত উদ্দেশ্য এখনো লিয়াযযাক্কারূ: যাতে তারা উপদেশ নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing It the Hundredth Time",
+          "bn": "শততম বার শোনার সময়"
+        },
+        "p": [
+          {
+            "en": "Turned inward, the verse asks how I hear what I have heard before. Tasrif means a reminder rarely comes in only one form. The warning I let pass as a command may return as a story, then as a parable, then as a plain argument. As-Sa'di's words for the refusers are exact: they gave the signs no hearing and paid them no heed. A person can recite a verse every day and do the same, letting familiarity do to him what hostility did to them.",
+            "bn": "নিজের দিকে ফেরালে আয়াতটি প্রশ্ন করে: আগে যা শুনেছি, তা এখন কীভাবে শুনি? তাসরীফ মানে উপদেশ খুব কমই এক রূপে আসে। যে সতর্কবাণী আদেশ হিসেবে এসে আমার পাশ কাটিয়ে গেছে, তা ফিরে আসতে পারে কাহিনি হয়ে, তারপর উপমা হয়ে, তারপর সোজা যুক্তি হয়ে। অস্বীকারকারীদের নিয়ে সা'দীর কথাটা একদম ঠিক: তারা আয়াতের দিকে কান দেয়নি, মনও দেয়নি। কেউ রোজ একটি আয়াত তিলাওয়াত করেও একই কাজ করতে পারে। তাদের বেলায় যা করেছিল শত্রুতা, তার বেলায় তা করে দেয় অভ্যস্ততা।"
+          },
+          {
+            "en": "So the practice is simple and hard. When a reminder returns, treat its new form as a fresh approach from Him who sent it, not as a repetition to be waved through. Ask which of the winds has reached you today: a promise, a warning, a parable, a ruling. Watch for the small signs of aversion in yourself, the impatience, the ready answer, the quiet sense that this reminder is meant for someone else. The verse names its purpose as remembrance; let it reach that end in you.",
+            "bn": "তাই করণীয় সহজ, আবার কঠিনও। কোনো উপদেশ ফিরে এলে তার নতুন রূপটাকে দেখুন যিনি পাঠিয়েছেন তাঁর পক্ষ থেকে নতুন করে কাছে ডাকা হিসেবে, পুরোনো কথার পুনরাবৃত্তি ভেবে পাশ কাটাবেন না। নিজেকে জিজ্ঞেস করুন, আজ কোন দিকের বাতাস এসে পৌঁছাল: ওয়াদা, সতর্কবাণী, উপমা, নাকি বিধান? নিজের ভেতরে বিমুখতার ছোট ছোট আলামত খেয়াল করুন: অধৈর্য, মুখে তৈরি জবাব, আর চুপচাপ এই ভাবনা যে কথাটা অন্য কারও জন্য। আয়াত তার উদ্দেশ্য বলেছে উপদেশ গ্রহণ। আপনার ভেতরে সে যেন সেই লক্ষ্যে পৌঁছাতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:44": {
     "sections": [
       {

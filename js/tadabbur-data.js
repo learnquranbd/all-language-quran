@@ -22571,6 +22571,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Many generations were destroyed before us, and none was dearer to Allah than another; live as one whose every sin is known and seen, and turn back while there is time.",
     "lessonBn": "আমাদের আগে বহু প্রজন্ম ধ্বংস হয়েছে, আর আল্লাহর কাছে কেউ কারও চেয়ে বেশি প্রিয় ছিল না। এমনভাবে বাঁচুন যেন আপনার প্রতিটি গুনাহ জানা ও দেখা, আর সময় থাকতেই ফিরে আসুন।"
+  },
+  "17:41": {
+    "reflectionEn": "A reminder can come in many shapes: a story, a parable, a warning, a promise, a plain argument. This verse says Allah turned His words in the Qur'an every way, so that people would take heed. Then it reports what that did to some of them: it only added to their aversion. Nothing was missing from the words. The difference lay in the hearts that heard them. So the verse becomes a question about me. When a reminder returns for the tenth time, dressed in a new form, do I lean towards it? Or do I already have my answer ready before it has finished speaking?",
+    "reflectionBn": "উপদেশ নানা চেহারায় আসতে পারে: কখনো কাহিনি, কখনো উপমা, কখনো সতর্কবাণী, কখনো সুসংবাদ, কখনো সোজা যুক্তি। এ আয়াত বলছে, আল্লাহ কুরআনে তাঁর কথা নানাভাবে ঘুরিয়ে ফিরিয়ে বলেছেন, যাতে মানুষ শিক্ষা নেয়। তারপর জানিয়ে দিচ্ছে, কিছু লোকের বেলায় এর ফল কী হলো: তাদের বিমুখতাই শুধু বেড়ে গেল। কথায় কোনো ঘাটতি ছিল না। পার্থক্য ছিল যে অন্তর শুনছিল, সেখানে। তাই আয়াতটি আমার দিকেই প্রশ্ন হয়ে ফিরে আসে। কোনো উপদেশ যখন দশম বার নতুন রূপে আমার কাছে আসে, আমি কি তার দিকে ঝুঁকি? নাকি কথা শেষ হওয়ার আগেই আমার জবাব তৈরি থাকে?",
+    "pointsEn": [
+      "Which reminder have I heard so often that I now let it pass without really hearing it?",
+      "When a verse warns, do I look for myself in it, or only for other people?",
+      "Is there a truth I push away mainly because I do not like where it would lead me?",
+      "What would change if I met the next familiar reminder as though it had been sent to me today?",
+      "When the Qur'an is recited, do I give it my attention, or only my ears?"
+    ],
+    "pointsBn": [
+      "কোন উপদেশ এত বার শুনেছি যে এখন আর মন দিয়ে না শুনেই পাশ কাটিয়ে যাই?",
+      "কোনো আয়াত যখন সতর্ক করে, আমি কি সেখানে নিজেকে খুঁজি, নাকি শুধু অন্যদের?",
+      "এমন কোনো সত্য কি আছে, যা আমি মূলত এজন্যই ঠেলে সরাই যে তা আমাকে কোথায় নিয়ে যাবে সেটা আমার পছন্দ নয়?",
+      "পরের চেনা উপদেশটিকে যদি এমনভাবে গ্রহণ করি যেন আজই আমার জন্য পাঠানো হয়েছে, তাহলে কী বদলাবে?",
+      "কুরআন তিলাওয়াত হলে আমি কি তাকে আমার মনোযোগ দিই, নাকি শুধু কান দুটো?"
+    ],
+    "lessonEn": "When a reminder returns in a new form, meet it with an open heart; the same words that draw one listener near can drive another further away.",
+    "lessonBn": "উপদেশ নতুন রূপে ফিরে এলে খোলা মনে তাকে গ্রহণ করুন। যে কথা একজনকে কাছে টানে, সেই একই কথা আরেকজনকে আরও দূরে সরিয়ে দিতে পারে।"
   }
 };
 
