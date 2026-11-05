@@ -22591,6 +22591,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a reminder returns in a new form, meet it with an open heart; the same words that draw one listener near can drive another further away.",
     "lessonBn": "উপদেশ নতুন রূপে ফিরে এলে খোলা মনে তাকে গ্রহণ করুন। যে কথা একজনকে কাছে টানে, সেই একই কথা আরেকজনকে আরও দূরে সরিয়ে দিতে পারে।"
+  },
+  "17:29": {
+    "reflectionEn": "Two pictures of one hand. In the first it is chained to the neck, so it can neither reach out nor give. In the second it is opened so wide that everything it held runs through the fingers. Both end in the same place: sitting down, blamed and worn out, like a riding animal that can go no further. The verse does not praise holding back, and it does not ask me to empty my hand for the first request that comes. It asks for a hand that stays open and still holds something tomorrow, for the next person who asks and for those who depend on me. So which way does my own hand lean, and does my giving come from thought or from impulse?",
+    "reflectionBn": "একই হাতের দুটি ছবি। প্রথমটিতে হাত গলার সঙ্গে শিকলে বাঁধা, তা বাড়ানোও যায় না, কিছু দেওয়াও যায় না। দ্বিতীয়টিতে হাত এতটাই মেলে দেওয়া যে যা ছিল সব আঙুলের ফাঁক গলে বেরিয়ে যায়। দুটোরই শেষ এক জায়গায়: বসে পড়া, লোকের তিরস্কার আর ক্লান্ত অবসাদ, যেমন সওয়ারির পশু আর এক পা-ও চলতে পারে না। আয়াতটি হাত গুটিয়ে রাখার প্রশংসা করে না। আবার প্রথম যে চাইতে এল তার জন্য হাত খালি করে ফেলতেও বলে না। সে চায় এমন হাত, যা খোলা থাকে, আর কালকের জন্যও কিছু ধরে রাখে, পরের প্রার্থীর জন্য, আমার উপর যারা নির্ভর করে তাদের জন্য। তাহলে আমার নিজের হাত কোন দিকে ঝুঁকে আছে? আর আমার দান কি ভেবেচিন্তে আসে, নাকি হঠাৎ আবেগে?",
+    "pointsEn": [
+      "When a request reaches me, is my first reflex to look for a reason to say no?",
+      "Is there a right in my wealth that I have kept back this year, from a relative, a neighbour or someone in need?",
+      "Have I ever given in a rush and then been unable to meet what my own family needed?",
+      "Do I set aside something regular for giving, so that my generosity does not depend on my mood?",
+      "If I cannot give today, what gentle word can I offer instead of a cold refusal?"
+    ],
+    "pointsBn": [
+      "কেউ কিছু চাইতে এলে আমার প্রথম প্রতিক্রিয়া কি না বলার একটা অজুহাত খোঁজা?",
+      "আমার সম্পদে কোনো আত্মীয়, প্রতিবেশী বা অভাবী মানুষের এমন কোনো হক আছে কি, যা এ বছর আমি আটকে রেখেছি?",
+      "কখনো কি তাড়াহুড়ো করে দান করে ফেলেছি, আর পরে নিজের পরিবারের প্রয়োজনটুকুও মেটাতে পারিনি?",
+      "দানের জন্য কি নিয়মিত কিছু আলাদা করে রাখি, যাতে আমার উদারতা মেজাজের উপর নির্ভর না করে?",
+      "আজ যদি দিতে না পারি, তবে ঠান্ডা প্রত্যাখ্যানের বদলে কোন নরম কথাটা বলতে পারি?"
+    ],
+    "lessonEn": "Keep your hand neither chained shut nor emptied out: give steadily and within your means, so that you can still give tomorrow and no one who depends on you goes without.",
+    "lessonBn": "হাত শিকলে বেঁধেও রাখবেন না, একেবারে খালিও করে ফেলবেন না। সামর্থ্যের ভেতরে নিয়মিত দান করুন, যাতে কালও দিতে পারেন আর আপনার উপর নির্ভরশীল কেউ বঞ্চিত না হয়।"
   }
 };
 

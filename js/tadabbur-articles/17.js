@@ -879,6 +879,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Hand Shackled to the Neck",
+          "bn": "গলার সঙ্গে শিকলে বাঁধা হাত"
+        },
+        "p": [
+          {
+            "en": "The passage has just told the believer to give the relative his right without squandering, in 17:26, and to offer a gentle word when there is nothing to give, in 17:28. Now it turns to the giver's own hand. Wa la taj'al yadaka maghlulatan ila 'unuqika: do not make your hand chained to your neck. At-Tabari calls this a parable Allah strikes for whoever refuses to spend in the rights He made obligatory in the wealth of those who own it, so that he is like a man whose hand is bound to his neck and can neither take with it nor give.",
+            "bn": "আত্মীয়কে তার হক দেওয়া আর অপচয় না করার কথা আয়াতগুলো এইমাত্র বলেছে ১৭:২৬ আয়াতে। দেওয়ার মতো কিছু না থাকলে নরম কথা বলার নির্দেশ এসেছে ১৭:২৮ আয়াতে। এবার কথা দাতার নিজের হাত নিয়ে। ওয়া লা তাজআল ইয়াদাকা মাগলূলাতান ইলা উনুকিকা: তোমার হাত গলার সঙ্গে শিকলে বেঁধে রেখো না। তাবারী বলেন, এ এক উপমা। সম্পদশালীর সম্পদে আল্লাহ যেসব হক ফরয করেছেন, তাতে যে খরচ করতে অস্বীকার করে, আল্লাহ তার জন্য এই উপমা দিয়েছেন। সে যেন এমন লোক, যার হাত গলার সঙ্গে বাঁধা, তা দিয়ে সে কিছু নিতেও পারে না, দিতেও পারে না।"
+          },
+          {
+            "en": "The others name the figure in their own terms. Al-Qurtubi calls it a metaphor for the miser who cannot bring himself, from within his heart, to part with anything of his wealth; the image chosen is the shackle, which stops the hand from doing anything at all. As-Sa'di calls it an allusion to extreme withholding and stinginess. Al-Baghawi paraphrases: do not hold your hand back from spending in what is right, like the man whose hand is chained and cannot stretch it out. Ibn Kathir opens with the verse's whole aim: a command to moderation in living, a censure of miserliness and a ban on extravagance.",
+            "bn": "অন্য তাফসীরকারেরা উপমাটির নাম দেন নিজেদের ভাষায়। কুরতুবীর কাছে এটি রূপক, সেই কৃপণের ছবি যে মন থেকে নিজের সম্পদের কিছুই বের করতে পারে না। ছবি হিসেবে বেছে নেওয়া হয়েছে শিকল, যা হাতকে কোনো কাজই করতে দেয় না। সা'দী বলেন, এটি চরম আঁকড়ে ধরা আর কৃপণতার ইঙ্গিত। বাগাভীর ব্যাখ্যা: হক পথে খরচ থেকে নিজের হাত গুটিয়ে রেখো না, সেই লোকের মতো যার হাত শিকলে বাঁধা, বাড়াতে পারে না। ইবন কাসীর শুরুতেই আয়াতের পুরো উদ্দেশ্য বলে দেন: জীবনযাপনে মিতব্যয়ের নির্দেশ, কৃপণতার নিন্দা আর অপচয়ের নিষেধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Palm Opened All the Way",
+          "bn": "পুরোপুরি মেলে দেওয়া হাতের তালু"
+        },
+        "p": [
+          {
+            "en": "Wa la tabsutha kulla al-bast: nor extend it with the whole of extending. Al-Qurtubi explains the figure: the opening of the hand is struck as a parable for wealth going, since a closed palm holds what is in it and an opened palm lets it fall. At-Tabari paraphrases: do not open it with giving to the full, so that nothing is left with you, and when you are asked you find nothing to give whoever asks. Al-Baghawi: so that you give away all you have. Ibn Kathir: do not be extravagant, giving beyond your capacity and paying out more than comes in.",
+            "bn": "ওয়া লা তাবসুতহা কুল্লাল বাসত: আর তা পুরোপুরি মেলেও দিয়ো না। কুরতুবী উপমাটি খুলে বলেন। হাত মেলে দেওয়াকে সম্পদ চলে যাওয়ার উপমা করা হয়েছে, কারণ মুঠো বন্ধ থাকলে ভেতরের জিনিস থেকে যায়, আর মুঠো খুললে সব পড়ে যায়। তাবারীর ব্যাখ্যা: দান করতে গিয়ে হাত এতটা খুলে দিয়ো না যে তোমার কাছে কিছুই না থাকে, আর কেউ চাইতে এলে তাকে দেওয়ার মতো কিছু খুঁজে না পাও। বাগাভী বলেন: ফলে তোমার যা আছে সবই দিয়ে ফেলো। ইবন কাসীর বলেন: খরচে বাড়াবাড়ি কোরো না, সামর্থ্যের বেশি দিয়ো না, আয়ের চেয়ে বেশি ব্যয় কোরো না।"
+          },
+          {
+            "en": "At-Tabari's chains carry the early readings. Al-Hasan: do not keep it chained from spending, and do not extend it, squandering in excess. Ibn 'Abbas (RA): this is about spending, and extending it fully means tabdhir. Qatadah: do not hold it back from obeying Allah or from His right, and do not spend it in disobedience to Him or in what is not fitting for you; that, he says, is israf. Ibn Zayd: extending it in right and wrong alike, until what you hold runs out. As-Sa'di names two forms: spending on what is not fitting, or more than is fitting.",
+            "bn": "প্রথম যুগের ব্যাখ্যাগুলো তাবারী বিভিন্ন সনদে আনেন। হাসান বসরী বলেন: খরচ থেকে হাত বেঁধে রেখো না, আবার হাত মেলে দিয়ে বাড়াবাড়ি করে উড়িয়েও দিয়ো না। ইবন আব্বাস (রাঃ) বলেন: এ কথা খরচ নিয়ে, আর পুরোপুরি মেলে দেওয়া মানে তাবযীর। কাতাদা বলেন: আল্লাহর আনুগত্য আর তাঁর হক থেকে হাত গুটিয়ে রেখো না। আবার আল্লাহর নাফরমানিতে বা যা তোমার জন্য শোভন নয় তাতেও খরচ কোরো না। তাঁর ভাষায় এটাই ইসরাফ। ইবন যায়দ বলেন: হক-নাহক সব পথেই হাত খুলে দেওয়া, যতক্ষণ না হাতের সব ফুরিয়ে যায়। সা'দী দুটি রূপ দেখান: অনুচিত খাতে খরচ, অথবা উচিত পরিমাণের চেয়ে বেশি খরচ।"
+          },
+          {
+            "en": "Al-Qurtubi draws a boundary that keeps the two halves from being misread. All of this, he says, concerns spending on good. Spending on corruption is another matter: a little of it and a lot of it are equally forbidden. So the second image is not about money thrown at wrong, which needs no measure to condemn it. It is about too much given to what is right, all at once, by someone who will then have nothing. Ibn Kathir adds that Ibn 'Abbas, al-Hasan, Qatadah, Ibn Jurayj, Ibn Zayd and others read the verse this way, as miserliness and extravagance.",
+            "bn": "কুরতুবী একটি সীমারেখা টানেন, যাতে দুই অংশের ভুল পাঠ না হয়। তিনি বলেন, এসবই ভালো কাজে খরচের কথা। ফাসাদের পথে খরচ আলাদা বিষয়, তার অল্পও হারাম, বেশিও হারাম। তাই দ্বিতীয় ছবিটি অন্যায় পথে টাকা ছোড়ার কথা বলছে না। সেটা নিন্দা করতে কোনো মাপজোখ লাগে না। এখানে কথা হলো হক কাজেই একসঙ্গে এত বেশি দিয়ে ফেলা, যার পর দাতার হাতে আর কিছু থাকে না। ইবন কাসীর জানান, ইবন আব্বাস, হাসান বসরী, কাতাদা, ইবন জুরাইজ, ইবন যায়দ ও আরও অনেকে আয়াতটিকে এভাবেই পড়েছেন: কৃপণতা আর অপচয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blamed, and by Whom",
+          "bn": "তিরস্কার, তবে কার কাছে"
+        },
+        "p": [
+          {
+            "en": "Fa-taq'uda maluman mahsura: so that you sit down, blamed and worn out. Ibn Kathir reads the two words as laff wa nashr, a pattern in which two conditions are named and then two outcomes, each returning to its own. If you are miserly you sit malum: people blame you, censure you and learn to do without you. He cites a line of Zuhayr ibn Abi Sulma's Mu'allaqa: whoever has wealth and withholds it from his people, they will do without him and he will be censured. If you open your hand beyond your means, you sit mahsur, with nothing left to spend.",
+            "bn": "ফাতাকউদা মালূমান মাহসূরা: ফলে তুমি বসে পড়বে তিরস্কৃত ও ক্লান্ত-নিঃস্ব হয়ে। ইবন কাসীর এখানে লাফ্ফ ওয়া নাশর দেখেন। এ এমন এক বিন্যাস, যেখানে আগে দুটি অবস্থা আসে, পরে দুটি পরিণাম, আর প্রতিটি পরিণাম ফিরে যায় নিজের অবস্থার কাছে। কৃপণতা করলে তুমি হবে মালূম: লোকে তোমাকে দোষ দেবে, নিন্দা করবে, তোমাকে ছাড়াই চলতে শিখে যাবে। প্রমাণে তিনি যুহাইর ইবন আবী সুলমার মুআল্লাকা থেকে একটি চরণ আনেন: যার সম্পদ আছে অথচ নিজের লোকদের তা থেকে বঞ্চিত রাখে, লোকে তাকে ছাড়াই চলে, আর তার নিন্দা হয়। আর সামর্থ্যের বাইরে হাত খুলে দিলে তুমি হবে মাহসূর, খরচ করার মতো কিছুই আর থাকবে না।"
+          },
+          {
+            "en": "At-Tabari lets both words fall on the second fault. You sit with those who asked blaming you, because you gave them nothing when they asked, and with your own self blaming you for having rushed through your wealth until it was gone. Al-Baghawi has the askers blame you for holding back when you do not give them, and defines al-malum as a person who has done what makes him blame himself or makes others blame him. Al-Qurtubi gives two senses side by side: a man blamed for having destroyed his own wealth, or a man blamed by the person he does not give to.",
+            "bn": "তাবারী দুটি শব্দই ফেলেন দ্বিতীয় দোষের উপর। তুমি বসে থাকবে, আর যারা চেয়েছিল তারা তোমাকে দোষ দেবে, কারণ চাওয়ার সময় তুমি তাদের কিছুই দাওনি। তোমার নিজের মনও তোমাকে দোষ দেবে, কারণ তুমি তাড়াহুড়ো করে সম্পদ শেষ করে ফেলেছ। বাগাভীর বর্ণনায় প্রার্থীরা তোমাকে দোষ দেয় আটকে রাখার জন্য, যখন তুমি তাদের দাও না। তিনি মালূমের সংজ্ঞা দেন এভাবে: যে এমন কাজ করেছে, যার জন্য সে নিজেকে দোষ দেয় বা অন্যরা তাকে দোষ দেয়। কুরতুবী দুটি অর্থ পাশাপাশি রাখেন: নিজের সম্পদ নষ্ট করার জন্য যাকে দোষ দেওয়া হয়, অথবা যাকে সে দেয় না সেই লোক যাকে দোষ দেয়।"
+          },
+          {
+            "en": "The early authorities in at-Tabari divide in the same way. Ibn 'Abbas (RA): he blames himself for the wealth he has lost. Qatadah: blamed among Allah's servants. Ibn Jurayj takes malum as mudhnib, one at fault. Ibn Zayd describes the scene: what you had runs out, then someone comes wanting you to give, and he blames you for having given to those others and not to him. As-Sa'di keeps it wide: you are blamed for what you did. So the sources hold two readings, one word for each fault or both words for overspending, and the article leaves the difference as they leave it.",
+            "bn": "তাবারীর আনা প্রথম যুগের ব্যাখ্যাতেও একই ভাগ দেখা যায়। ইবন আব্বাস (রাঃ) বলেন: হাতছাড়া হওয়া সম্পদের জন্য সে নিজেকেই দোষ দেয়। কাতাদা বলেন: আল্লাহর বান্দাদের মাঝে সে তিরস্কৃত। ইবন জুরাইজ মালূমের অর্থ করেন মুযনিব, অর্থাৎ দোষী। ইবন যায়দ দৃশ্যটা এঁকে দেন: তোমার কাছে যা ছিল ফুরিয়ে গেল। তারপর কেউ এল তোমার কাছে কিছু পাওয়ার আশায়। সে তোমাকে দোষ দেয়, ওদের দিয়েছ অথচ তাকে দাওনি। সা'দী কথাটা খোলা রাখেন: তোমার কাজের জন্য তোমাকে তিরস্কার করা হবে। তাহলে উৎসগুলোতে দুটি পাঠ পাওয়া যায়। একটিতে দুই দোষের জন্য দুই শব্দ, অন্যটিতে দুটি শব্দই অপচয়ের পরিণাম। মতভেদটা তাঁরা যেভাবে রেখেছেন, এখানেও সেভাবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Mount That Gives Out",
+          "bn": "পথে বসে পড়া সওয়ারি"
+        },
+        "p": [
+          {
+            "en": "Mahsur is where the image turns physical. At-Tabari glosses it as faulted, cut off, with nothing left to spend, and traces it to what the Arabs say of a riding beast driven until it can go no further, worn out and collapsing on the road: it is hasir. From the same root, he says, one has worn out a mount by travel, pressed a man by asking until he is drained, and the eye tires when it reaches the farthest it can see, as in 67:4. Al-Qurtubi relays Ibn 'Arafah: like the exhausted camel whose strength is gone and cannot be roused.",
+            "bn": "মাহসূর শব্দে এসে ছবিটা শরীরী হয়ে ওঠে। তাবারী এর অর্থ করেন দোষযুক্ত, পথে আটকে পড়া, খরচ করার মতো কিছুই যার নেই। শব্দটির মূল তিনি খুঁজে পান আরবদের একটি কথায়। সওয়ারির পশুকে চালাতে চালাতে যখন তা আর চলতে পারে না, ক্লান্ত হয়ে পথে লুটিয়ে পড়ে, তখন তাকে বলে হাসীর। তাবারী বলেন, একই ধাতু থেকে আসে সফরে পশুকে নিঃশেষ করে ফেলা, চেয়ে চেয়ে কাউকে নিংড়ে ফেলা, আর দৃষ্টি শেষ সীমায় পৌঁছে ক্লান্ত হয়ে পড়া, যেমন আছে ৬৭:৪ আয়াতে। কুরতুবী ইবন আরাফার কথা আনেন: সেই ক্লান্ত উটের মতো, যার শক্তি ফুরিয়ে গেছে, আর তাকে ওঠানো যায় না।"
+          },
+          {
+            "en": "Qatadah reads it differently: regretful over what you let slip, which takes the word from hasrah, remorse. Al-Qurtubi records that reading and calls it unlikely, because the agent noun from hasrah is hasir or hasran, and mahsur is not said in that sense. Al-Baghawi keeps both: cut off, with nothing to spend, then Qatadah's regret. As-Sa'di pictures the hand itself, bare and empty, with neither the wealth left in it nor praise standing in its place. The Muyassar joins the two strands: blamed and censured by people, and regretful over your waste and the loss of your wealth.",
+            "bn": "কাতাদা শব্দটি অন্যভাবে পড়েন: যা হাতছাড়া করেছ তার জন্য অনুতপ্ত। এতে শব্দটি আসে হাসরাত থেকে, যার অর্থ আফসোস। কুরতুবী এই পাঠ উল্লেখ করে বলেন, এটা দূরবর্তী। কারণ হাসরাত থেকে কর্তাবাচক শব্দ হয় হাসির বা হাসরান, এ অর্থে মাহসূর বলা হয় না। বাগাভী দুটোই রাখেন: প্রথমে পথে আটকে পড়া, খরচের কিছু না থাকা, তারপর কাতাদার আফসোস। সা'দী হাতটারই ছবি আঁকেন। হাত শূন্য, খালি। তাতে সম্পদও আর নেই, সম্পদের বদলে প্রশংসাও আসেনি। মুয়াসসার দুটি ধারা মিলিয়ে দেয়: লোকে তোমাকে দোষ দেবে, নিন্দা করবে, আর তুমি অপচয় আর সম্পদ হারানোর জন্য অনুতপ্ত হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said to Him, Meant for All",
+          "bn": "সম্বোধন তাঁকে, উদ্দেশ্য সবাই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's paraphrase names the addressee: do not hold back your hand, O Muhammad, from spending in the rights of Allah. Al-Qurtubi says the verse speaks to the Prophet ﷺ while meaning his community, as often in the Qur'an, since he was their leader and their link to their Lord. Ma'arif al-Qur'an agrees, and gives the purpose: a moderate course in spending that neither stops a person helping others nor lands him in hardship. Al-Qurtubi then records a second view, introduced with it is said: the address is to the Prophet ﷺ himself, teaching him how to spend.",
+            "bn": "তাবারীর ব্যাখ্যায় সম্বোধিত ব্যক্তির নাম আছে: হে মুহাম্মাদ, আল্লাহর হকে খরচ থেকে তোমার হাত গুটিয়ে রেখো না। কুরতুবী বলেন, আয়াতটি নবী ﷺ-কে সম্বোধন করছে, কিন্তু উদ্দেশ্য তাঁর উম্মত। কুরআনে এমন প্রায়ই ঘটে, কারণ তিনি ছিলেন তাদের নেতা, তাদের আর তাদের রবের মাঝে মাধ্যম। মাআরিফুল কুরআনও তাই বলে, আর উদ্দেশ্যটাও জানায়: খরচে এমন মাঝামাঝি পথ, যা মানুষকে অন্যের সাহায্য থেকেও বিরত রাখে না, আবার তাকে কষ্টেও ফেলে না। এরপর কুরতুবী 'বলা হয়' দিয়ে দ্বিতীয় একটি মত আনেন: সম্বোধন নবী ﷺ-এর নিজের প্রতি, তাঁকে খরচের পদ্ধতি শেখানো হচ্ছে।"
+          },
+          {
+            "en": "With that second view comes a report. Al-Qurtubi gives it from Jabir and Ibn Mas'ud (RA): a boy came and said his mother was asking for something; the Prophet ﷺ said there was nothing with them that day; the boy said that she then asked him to clothe her with his shirt, and he took it off, gave it, and sat at home without it. In Jabir's version Bilal (RA) called the prayer, the people waited, some went in and found him so, and the verse came down. Al-Baghawi gives Jabir's version; Ma'arif names Ibn Marduwayh from Ibn Mas'ud and al-Baghawi from Jabir.",
+            "bn": "এই দ্বিতীয় মতের সঙ্গে একটি বর্ণনা আসে। কুরতুবী তা আনেন জাবির ও ইবন মাসঊদ (রাঃ) থেকে। এক বালক এসে বলল, তার মা কিছু চাইছেন। নবী ﷺ বললেন, আজ আমাদের কাছে কিছু নেই। বালক তখন বলল, মা বলছেন, আপনার জামাটা দিয়ে আমাকে কাপড় পরান। তিনি জামা খুলে তাকে দিয়ে দিলেন, আর খালি গায়ে ঘরে বসে রইলেন। জাবিরের বর্ণনায় আছে, বিলাল (রাঃ) নামাযের আযান দিলেন, লোকেরা অপেক্ষা করল, কেউ কেউ ভেতরে গিয়ে তাঁকে এ অবস্থায় দেখল, আর তখন আয়াতটি নাযিল হলো। বাগাভী জাবিরের বর্ণনাটি আনেন। মাআরিফ জানায়, ইবন মারদুওয়াইহ এটি এনেছেন ইবন মাসঊদ থেকে, আর বাগাভী জাবির থেকে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse gives the report a chain or a grading. Al-Qurtubi files it under a view introduced with it is said, and at-Tabari and Ibn Kathir do not bring it. It is a report the tafsirs carry, not a settled occasion of revelation; the verse's place between the gentle word of 17:28 and the provision of 17:30 is enough to explain it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই বর্ণনাটির সনদ বা মান উল্লেখ করেনি। কুরতুবী একে রেখেছেন 'বলা হয়' দিয়ে শুরু করা একটি মতের অধীনে। তাবারী ও ইবন কাসীর বর্ণনাটি আনেনইনি। তাই এটি তাফসীরে উল্লিখিত একটি বর্ণনা, নাযিলের নিশ্চিত প্রেক্ষাপট নয়। আয়াতটি বুঝতে এর অবস্থানই যথেষ্ট: আগে ১৭:২৮ আয়াতের নরম কথা, পরে ১৭:৩০ আয়াতের রিযকের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Gave Everything",
+          "bn": "যাঁরা সবটুকুই দিয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi raises the obvious objection himself. The Prophet ﷺ stored nothing for the next day, and went hungry until he tied a stone over his stomach. Many of the Companions spent all their wealth in the path of Allah, and he did not rebuke them or object, because their certainty was sound and their insight strong. What Allah forbade, al-Qurtubi says, is excess in spending, emptying the hand by someone who is feared to be overtaken by regret for what has left it. Whoever trusts Allah's promise and the reward of what he spends is not the person the verse means.",
+            "bn": "আপত্তিটা কুরতুবী নিজেই তোলেন। নবী ﷺ পরের দিনের জন্য কিছুই জমিয়ে রাখতেন না, ক্ষুধায় পেটে পাথর বাঁধতেন। অনেক সাহাবি আল্লাহর পথে নিজের সব সম্পদ খরচ করেছেন। তিনি তাঁদের ভর্ৎসনা করেননি, আপত্তিও করেননি, কারণ তাঁদের ইয়াকীন ছিল খাঁটি আর অন্তর্দৃষ্টি ছিল গভীর। কুরতুবী বলেন, আল্লাহ যা নিষেধ করেছেন তা হলো খরচে বাড়াবাড়ি। হাত খালি করে ফেলা নিষেধ সেই লোকের জন্য, যার ব্যাপারে আশঙ্কা আছে যে হাতছাড়া সম্পদের জন্য তার আফসোস জাগবে। আল্লাহর প্রতিশ্রুতি আর খরচের বিপুল সওয়াবের উপর যার ভরসা আছে, আয়াত তাকে উদ্দেশ্য করেনি।"
+          },
+          {
+            "en": "His third point turns this into a measure. The verse, he says, forbids pouring out everything one has on the first requests that arrive, so that those who come later find nothing, or the giver leaves his own dependents without. He adds a saying of wisdom: I never saw extravagance without a right neglected beside it. And he calls this one of the verses whose ruling depends on the person's state, made clear only by looking at each person in turn. The Qur'an praises the same middle in 25:67: those who, when they spend, are neither extravagant nor stingy, but stand between.",
+            "bn": "তাঁর তৃতীয় আলোচনা কথাটিকে মাপকাঠিতে নিয়ে আসে। তিনি বলেন, প্রথমে যে চাওয়াগুলো আসে, তাতেই সব ঢেলে দেওয়া আয়াতটি নিষেধ করেছে। তাতে পরে যারা আসবে তারা কিছুই পাবে না, অথবা দাতা নিজের পরিবারকেই বঞ্চিত করবে। এর সঙ্গে তিনি একটি প্রজ্ঞার কথা জুড়ে দেন: যেখানেই অপচয় দেখেছি, তার পাশেই দেখেছি কোনো হক নষ্ট হয়েছে। তিনি আরও বলেন, এ সেই আয়াতগুলোর একটি, যার বিধান মানুষের অবস্থার উপর নির্ভর করে। প্রত্যেক মানুষকে আলাদা করে দেখলেই তা স্পষ্ট হয়। এই মাঝামাঝি পথের প্রশংসা কুরআন করেছে ২৫:৬৭ আয়াতে: যারা খরচ করার সময় অপব্যয়ও করে না, কৃপণতাও করে না, বরং এ দুয়ের মাঝে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Cloaks of Iron",
+          "bn": "লোহার দুটি জামা"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari's Sahih (1443) records from Abu Hurayrah (RA) the Prophet's ﷺ words: \"The example of an almsgiver and a miser is like the example of two persons who have two iron cloaks on them from their breasts to their collar bones, and when the almsgiver wants to give in charity, the cloak becomes capacious till it covers his whole body to such an extent that it hides his fingertips and covers his footprints (obliterates his tracks). And when the miser wants to spend, it (the iron cloak) sticks and every ring gets stuck to its place and he tries to widen it, but it did not become wide.\"",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (১৪৪৩) আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"দানশীল আর কৃপণের দৃষ্টান্ত এমন দুই ব্যক্তির মতো, যাদের গায়ে বুক থেকে কণ্ঠার হাড় পর্যন্ত লোহার দুটি জামা। দানশীল যখনই দান করতে চায়, জামাটি প্রশস্ত হয়ে তার সারা শরীর ঢেকে ফেলে, এমনকি তার আঙুলের ডগা ঢেকে যায় আর পায়ের চিহ্ন মুছে যায়। আর কৃপণ যখন কিছু খরচ করতে চায়, প্রতিটি কড়া নিজের জায়গায় এঁটে বসে যায়। সে তা ঢিলা করতে চায়, কিন্তু তা ঢিলা হয় না।\""
+          },
+          {
+            "en": "Ibn Kathir and al-Qurtubi both bring this hadith here, and neither presents it as the occasion of the verse. It is a general narration on giving and withholding, placed beside the verse for its theme. The two pictures meet all the same. The miser's rings that will not loosen answer the hand shackled to the neck, and the giver's cloak, spreading until it covers his tracks, answers the hand that opens to give.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনেই এখানে হাদীসটি আনেন, তবে কেউই একে আয়াত নাযিলের প্রেক্ষাপট বলেননি। এটি দান আর কৃপণতা নিয়ে একটি সাধারণ হাদীস, বিষয়ের মিলের কারণে আয়াতের পাশে রাখা। তবু দুই ছবি এক জায়গায় এসে মেলে। কৃপণের যে কড়াগুলো কিছুতেই ঢিলা হয় না, তা গলার সঙ্গে বাঁধা হাতেরই জবাব। আর দাতার যে জামা ছড়িয়ে গিয়ে পায়ের চিহ্ন পর্যন্ত ঢেকে দেয়, তা দানের জন্য খুলে যাওয়া হাতের ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hand Only Passes On",
+          "bn": "হাত শুধু পৌঁছে দেয়"
+        },
+        "p": [
+          {
+            "en": "The next verse, 17:30, gives the ground beneath both warnings: your Lord extends provision for whom He wills and restricts it. Ibn Kathir, commenting on the two verses together, says it is Allah who provides and withholds, enriching and impoverishing by His wisdom, and knows who is fit for which. The giver's hand only passes on what was extended to it. Kept open for the rights it carries and closed enough for tomorrow, it leaves the exact measure, as al-Qurtubi said, to each person's state.",
+            "bn": "পরের আয়াত, ১৭:৩০, দুটি সতর্কবাণীর নিচের ভিতটা দেখিয়ে দেয়: তোমার রব যার জন্য ইচ্ছা রিযক প্রশস্ত করেন, যার জন্য ইচ্ছা সীমিত করেন। দুই আয়াত একসঙ্গে ব্যাখ্যা করতে গিয়ে ইবন কাসীর বলেন, রিযক দেওয়া আর আটকে রাখা আল্লাহরই কাজ। নিজের প্রজ্ঞায় তিনি কাউকে ধনী করেন, কাউকে গরিব, আর জানেন কে কিসের উপযুক্ত। দাতার হাত তাই শুধু পৌঁছে দেয়, যা তার দিকে প্রসারিত করা হয়েছে। হাতে যে হকগুলো আছে তার জন্য খোলা থাকুক, আর কালকের জন্য কিছুটা বন্ধ। ঠিক কতটা, কুরতুবীর কথামতো, তা নির্ভর করে প্রত্যেকের নিজের অবস্থার উপর।"
+          }
+        ]
+      }
+    ]
+  },
   "17:33": {
     "sections": [
       {
