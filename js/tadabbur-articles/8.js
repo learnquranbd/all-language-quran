@@ -1839,6 +1839,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Other Companion on the March",
+          "bn": "অভিযাত্রীদের আরেক সঙ্গী"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa-idh, and remember when, the hinge the surah keeps returning to in its account of Badr, as in 8:42 and 8:44. Just before it, 8:47 forbids the believers to be like the army that marched out in swagger and to be seen. This verse turns to that army's other companion. Al-Muyassar sets the scene in a line: the polytheists with Satan among them, the Muslims with the angels among them, the two sides meeting face to face.",
+            "bn": "আয়াতটি শুরু হয় ওয়া ইয, অর্থাৎ স্মরণ করো যখন, এই শব্দ দিয়ে। বদরের বিবরণে সূরাটি বারবার এই কবজায় ফিরে আসে, যেমন ৮:৪২ ও ৮:৪৪ আয়াতে। ঠিক আগের আয়াত ৮:৪৭ মুমিনদের নিষেধ করেছে সেই বাহিনীর মতো হতে, যারা দম্ভ নিয়ে আর লোক দেখাতে ঘর ছেড়ে বেরিয়েছিল। এবার আয়াতটি নজর দেয় সেই বাহিনীর আরেক সঙ্গীর দিকে। মুয়াসসার এক বাক্যে দৃশ্যটা এঁকে দেয়: মুশরিকদের সঙ্গে শয়তান, মুসলমানদের সঙ্গে ফেরেশতারা, আর দুই দল মুখোমুখি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notes that the surah has dealt from its start with the events of Badr, and counts this among them: the Satan who misled the disbelievers of Makkah, urged them into battle, and then left them by themselves in the middle of the field. The next verse, 8:49, turns to the hypocrites, who said of the believers that their religion had deluded them. The passage sets a false confidence beside a mocking one.",
+            "bn": "মাআরিফুল কুরআন মনে করিয়ে দেয়, সূরাটি শুরু থেকেই বদরের ঘটনাবলি নিয়ে কথা বলছে, আর এটিও সেগুলোর একটি। শয়তান মক্কার কাফিরদের বিভ্রান্ত করেছিল, যুদ্ধে উসকে দিয়েছিল, তারপর ময়দানের মাঝখানে তাদের একা ফেলে চলে গিয়েছিল। পরের আয়াত ৮:৪৯ চলে যায় মুনাফিকদের কথায়। তারা মুমিনদের সম্পর্কে বলেছিল, এদের দ্বীন এদের ধোঁকায় ফেলেছে। এভাবে অংশটি এক মিথ্যা ভরসার পাশে রাখে এক বিদ্রূপকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Adorned, Sheltered, Then Abandoned",
+          "bn": "সাজানো, আশ্রয়ের কথা, তারপর পলায়ন"
+        },
+        "p": [
+          {
+            "en": "Zayyana is the verb of adornment, of making a thing look fair. As-Sa'di glosses it: he made their deeds seem good in their hearts and deceived them. Al-Muyassar says what was made fair was what they had come for and what they intended. At-Tabari's own paraphrase names the deed: Satan made their march out against the believers, to fight them, look good to them, and urged them on. The object is a'malahum, their deeds, so the adornment is laid over something they were already doing.",
+            "bn": "যাইয়ানা ক্রিয়াটি সাজানোর, কোনো জিনিসকে সুন্দর করে দেখানোর। সা'দী এর ব্যাখ্যা দেন এভাবে: সে তাদের অন্তরে তাদের কাজগুলোকে ভালো করে দেখাল আর তাদের ধোঁকা দিল। মুয়াসসার বলে, যা সুন্দর করে দেখানো হয়েছিল তা হলো যে উদ্দেশ্যে তারা এসেছিল আর যা তারা করতে চেয়েছিল। তাবারী নিজের ভাষায় কাজটার নাম বলে দেন: মুমিনদের বিরুদ্ধে লড়াই করতে তাদের বেরিয়ে আসাটাকেই শয়তান তাদের চোখে সুন্দর করেছিল, আর তাদের উসকে দিয়েছিল। ক্রিয়ার কর্ম হলো আ'মালাহুম, তাদের কাজ। অর্থাৎ সাজসজ্জাটা চাপানো হয়েছিল এমন কিছুর উপর, যা তারা আগে থেকেই করছিল।"
+          },
+          {
+            "en": "Then two sentences in Satan's mouth. La ghaliba lakum al-yawma min al-nas: no one among the people will overcome you today. As-Sa'di supplies the reasoning behind it: you have numbers, equipment and a bearing that Muhammad and those with him cannot stand against. The second is inni jarun lakum, I am your jar, a neighbour who gives protection. At-Tabari spells it out: I shelter you and keep Kinana from coming at you from behind, so do not fear them, and turn your full force on Muhammad and his Companions.",
+            "bn": "এরপর শয়তানের মুখে দুটি বাক্য। লা গালিবা লাকুমুল ইয়াওমা মিনান নাস: মানুষের মধ্যে আজ কেউ তোমাদের উপর জয়ী হবে না। এ কথার পেছনের যুক্তিটা সা'দী জুড়ে দেন: তোমাদের লোকবল আছে, অস্ত্রশস্ত্র আছে, এমন প্রস্তুতি আর চেহারা আছে যার সামনে মুহাম্মাদ আর তাঁর সঙ্গীরা টিকতে পারবে না। দ্বিতীয় বাক্য ইন্নী জারুল লাকুম, আমি তোমাদের জার, মানে আশ্রয়দাতা প্রতিবেশী। তাবারী খুলে বলেন: আমি তোমাদের আশ্রয় দেব, কিনানা গোত্র যেন পেছন থেকে তোমাদের উপর চড়াও না হয় তা ঠেকাব। কাজেই ওদের ভয় কোরো না, তোমাদের পুরো শক্তি মুহাম্মাদ আর তাঁর সাহাবিদের উপর ঢেলে দাও।"
+          },
+          {
+            "en": "Nakasa 'ala 'aqibayhi: he turned back on his two heels. At-Tabari explains it as retreating backward in flight, and cites a line of Zuhayr praising men who do not nakasa when the fighting closes on them. Al-Baghawi reports ad-Dahhak's gloss, he turned his back, and an-Nadr ibn Shumayl's, he retreated backward, fleeing. Al-Qurtubi says the word means returned in the dialect of Sulaym, then adds that here it is not a walk backward at all but plain flight.",
+            "bn": "নাকাসা আলা আকিবাইহি: সে তার দুই গোড়ালির উপর ভর করে পিছু হটল। তাবারীর ব্যাখ্যায় এর মানে পালানোর জন্য উল্টো দিকে পিছিয়ে যাওয়া। সঙ্গে তিনি কবি যুহাইরের একটি পঙক্তি আনেন, যেখানে এমন যোদ্ধাদের প্রশংসা আছে যারা লড়াই ঘিরে ধরলেও নাকাসা করে না, পিছু হটে না। বাগাভী দুটি ব্যাখ্যা উল্লেখ করেন। দাহহাকের মতে, সে পিঠ ফিরিয়ে চলে গেল। নাদর ইবন শুমাইলের মতে, সে পালাতে গিয়ে উল্টো দিকে পিছিয়ে গেল। কুরতুবী বলেন, সুলাইম গোত্রের ভাষায় শব্দটির মানে ফিরে যাওয়া। তারপর যোগ করেন, এখানে এটা ধীরে পেছনে হাঁটা নয়, সোজা পলায়ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Face Borrowed from Banu Mudlij",
+          "bn": "বনু মুদলিজের ধার করা চেহারা"
+        },
+        "p": [
+          {
+            "en": "Most of the reports at-Tabari gathers give the promise a face. Through 'Ali ibn Abi Talha, Ibn 'Abbas says Iblis came on the day of Badr with an army of devils and his banner, in the form of a man of Banu Mudlij, Satan himself in the form of Suraqa ibn Malik ibn Ju'shum. As-Suddi has him ride up on a horse and, asked who he is, answer: I am your protector Suraqa, and these are Kinana come to you.",
+            "bn": "তাবারী যত বর্ণনা জড়ো করেছেন, তার বেশিরভাগেই এই প্রতিশ্রুতির একটা চেহারা আছে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, বদরের দিন ইবলীস এসেছিল শয়তানদের এক বাহিনী আর নিজের পতাকা নিয়ে, বনু মুদলিজের এক লোকের রূপে। আর শয়তান নিজে এসেছিল সুরাকা ইবন মালিক ইবন জু'শুমের রূপে। সুদ্দীর বর্ণনায় সে ঘোড়ায় চড়ে আসে। তুমি কে, জিজ্ঞেস করা হলে উত্তর দেয়: আমি তোমাদের আশ্রয়দাতা সুরাকা, আর এই যে কিনানা তোমাদের কাছে এসে গেছে।"
+          },
+          {
+            "en": "'Urwa ibn az-Zubayr, through Ibn Ishaq, places it at the start, when Quraysh had resolved to march and fear of Banu Bakr nearly turned them back; al-Qurtubi says they feared Banu Bakr because they had killed a man of theirs. Ibn Ishaq adds that they saw him at every halt in Suraqa's form and did not suspect him. Al-Baghawi, through al-Kalbi, gives the sequel: back in Makkah, Suraqa swore he had known nothing of their march until news of their defeat reached him.",
+            "bn": "ইবন ইসহাকের সূত্রে উরওয়া ইবন যুবাইর ঘটনাটিকে রাখেন একেবারে শুরুতে। কুরাইশ তখন রওনা হওয়ার সিদ্ধান্ত নিয়ে ফেলেছে, কিন্তু বনু বকরের ভয় তাদের প্রায় ফিরিয়ে দিচ্ছিল। কুরতুবী বলেন, এই ভয়ের কারণ ছিল, কুরাইশ বনু বকরের এক লোককে হত্যা করেছিল। ইবন ইসহাক যোগ করেন, প্রতিটি যাত্রাবিরতিতে তারা তাকে সুরাকার রূপে দেখত, কেউ সন্দেহ করত না। বাগাভী কালবীর সূত্রে পরের ঘটনাও জানান। মক্কায় ফেরার পর সুরাকা কসম খেয়ে বলেছিলেন, তাদের পরাজয়ের খবর পৌঁছানোর আগে তিনি তাদের যাত্রার কথা জানতেনই না।"
+          },
+          {
+            "en": "Other reports word it differently. Ibn Jurayj from Ibn 'Abbas, al-Hasan in at-Tabari, and ad-Dahhak in al-Qurtubi have Iblis march with his banner and troops and cast into the polytheists' hearts that no one would defeat them, with no borrowed face mentioned, though Ibn Kathir lists al-Hasan and ad-Dahhak among those who also report the Suraqa account. As-Sa'di allows that Satan may only have whispered it in their breasts. Ma'arif al-Qur'an calls both possible, and says the Qur'an's wording seems to favour the human form.",
+            "bn": "অন্য কিছু বর্ণনার ভাষা আলাদা। ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ), তাবারীতে হাসান বসরী, আর কুরতুবীতে দাহহাক বলেন, ইবলীস পতাকা আর সৈন্যদল নিয়ে মুশরিকদের সঙ্গে চলেছিল এবং তাদের অন্তরে ঢেলে দিয়েছিল যে কেউ তাদের হারাতে পারবে না। এসব বর্ণনায় ধার করা চেহারার কোনো উল্লেখ নেই। তবে ইবন কাসীর হাসান বসরী আর দাহহাককেও তাঁদের মধ্যে গণ্য করেন, যাঁদের কাছ থেকে সুরাকার ঘটনাটিও বর্ণিত। সা'দী সম্ভাবনা রাখেন যে শয়তান হয়তো শুধু তাদের বুকে কুমন্ত্রণা দিয়েছিল। মাআরিফুল কুরআন দুটিকেই সম্ভব বলে, তবে তার মতে কুরআনের শব্দ মানুষের রূপে আসার দিকেই বেশি ইঙ্গিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What He Saw and Feared",
+          "bn": "সে কী দেখল, কিসের ভয় পেল"
+        },
+        "p": [
+          {
+            "en": "Inni ara ma la tarawn: I see what you do not see. The commentators read here agree on the sight. At-Tabari says he saw the angels Allah had sent to reinforce the believers, whom the polytheists could not see, and Ibn Ishaq adds that the enemy of Allah spoke the truth. Qatada says he saw Jibril (AS) descending with the angels. Al-Hasan pictures Jibril with a cloak wound about his head, walking in front of the Prophet ﷺ, reins in hand, not riding.",
+            "bn": "ইন্নী আরা মা লা তারাওন: আমি যা দেখি, তোমরা তা দেখো না। এখানে যাঁদের তাফসীর পড়া হয়েছে, দৃশ্যটা নিয়ে তাঁরা একমত। তাবারী বলেন, সে দেখেছিল সেই ফেরেশতাদের, যাদের আল্লাহ মুমিনদের সাহায্যে পাঠিয়েছিলেন আর মুশরিকরা যাদের দেখতে পাচ্ছিল না। ইবন ইসহাক যোগ করেন, আল্লাহর শত্রু এ কথাটা সত্যিই বলেছিল। কাতাদা বলেন, সে দেখেছিল জিবরীল (আঃ) ফেরেশতাদের নিয়ে নেমে আসছেন। হাসান বসরীর ছবিটা সবচেয়ে জীবন্ত: জিবরীলের মাথায় চাদর পাগড়ির মতো জড়ানো, তিনি নবী ﷺ-এর সামনে হেঁটে চলেছেন, হাতে লাগাম, সওয়ার হননি।"
+          },
+          {
+            "en": "In the report through 'Ali ibn Abi Talha the moment is physical. When the ranks were drawn up, the Prophet ﷺ threw a handful of dust in the polytheists' faces, and Jibril (AS) came toward Iblis. Iblis's hand was in the hand of one of the polytheists; he pulled it free and turned away with his followers. The man called after him: Suraqa, did you not claim to be our protector? The answer was the verse. Al-Baghawi, through al-Kalbi, names the man as al-Harith ibn Hisham.",
+            "bn": "আলী ইবন আবী তালহার সূত্রের বর্ণনায় মুহূর্তটা একেবারে চোখে দেখা যায়। সারি সাজানো হয়ে গেলে নবী ﷺ এক মুঠো মাটি নিয়ে মুশরিকদের মুখের দিকে ছুড়ে মারলেন, আর জিবরীল (আঃ) এগিয়ে এলেন ইবলীসের দিকে। ইবলীসের হাত তখন একজন মুশরিকের হাতে ধরা। সে হাত ছাড়িয়ে নিয়ে নিজের দলবলসহ পিঠ ফিরিয়ে চলল। লোকটি পেছন থেকে ডাকল: সুরাকা, তুমি না বলেছিলে তুমি আমাদের আশ্রয়দাতা? উত্তর ছিল এই আয়াতের কথাগুলো। বাগাভী কালবীর সূত্রে লোকটির নাম বলেন: হারিস ইবন হিশাম।"
+          },
+          {
+            "en": "Then inni akhafu Allah, I fear Allah, and here the commentators divide. Qatada, quoted by at-Tabari, Ibn Kathir and al-Baghawi, says the enemy of Allah lied: there was no fear of Allah in him, only the knowledge that he had no strength and no defence. At-Tabari's own gloss agrees. Others take the fear as real but narrow it: 'Ata, in al-Baghawi, says he feared being destroyed among those destroyed; as-Sa'di, that Allah would hasten his punishment in this world; al-Qurtubi reports that he feared Badr was the day of his appointed respite.",
+            "bn": "তারপর ইন্নী আখাফুল্লাহ, আমি আল্লাহকে ভয় করি। এখানে তাফসীরকারদের মত ভাগ হয়ে যায়। তাবারী, ইবন কাসীর ও বাগাভী তিনজনই কাতাদার কথা উদ্ধৃত করেন: আল্লাহর শত্রু মিথ্যা বলেছিল। তার মধ্যে আল্লাহর ভয় বলে কিছু ছিল না। সে শুধু বুঝে গিয়েছিল, তার শক্তিও নেই, বাঁচার উপায়ও নেই। তাবারীর নিজের ব্যাখ্যাও তাই। অন্যরা ভয়টাকে সত্য ধরেন, তবে তার সীমা টেনে দেন। বাগাভীতে আতা বলেন, সে ভয় পেয়েছিল যারা ধ্বংস হবে তাদের সঙ্গে নিজেও ধ্বংস হওয়ার। সা'দীর মতে, ভয় ছিল আল্লাহ দুনিয়াতেই তাকে দ্রুত শাস্তি দেবেন। কুরতুবী বর্ণনা করেন, সে ভয় পেয়েছিল বদরের দিনটাই বুঝি তার অবকাশের নির্ধারিত শেষ দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning His Back at the Call",
+          "bn": "আযানের ডাকে পিঠ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir read for this verse attaches a sound hadith to it. The one prophetic report they bring, through Malik, on what Satan saw at Badr, is called mursal by al-Baghawi and by Ibn Kathir, and it could not be checked against a collection page here, so it is not quoted. What follows is a general narration, sound, and not attached to this verse.",
+            "bn": "এ আয়াতের যত তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। তাঁরা মালিকের সূত্রে নবী ﷺ-এর একটিমাত্র বর্ণনা আনেন, বদরে শয়তান কী দেখেছিল সে বিষয়ে। বাগাভী ও ইবন কাসীর দুজনেই একে মুরসাল বলেছেন। কোনো হাদীস সংকলনের পাতায় এখানে তা মিলিয়ে দেখাও যায়নি, তাই তা উদ্ধৃত করা হলো না। নিচের বর্ণনাটি সহীহ, তবে সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Al-Bukhari (608) narrates from Abu Huraira that the Messenger of Allah ﷺ said: \"When the Adhan is pronounced Satan takes to his heels and passes wind with noise during his flight in order not to hear the Adhan. When the Adhan is completed he comes back and again takes to his heels when the Iqama is pronounced and after its completion he returns again till he whispers into the heart of the person (to divert his attention from his prayer) and makes him remember things which he does not recall to his mind before the prayer and that causes him to forget how much he has prayed.\"",
+            "bn": "বুখারী (৬০৮) আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"যখন সালাতের জন্য আযান দেওয়া হয়, শয়তান বায়ু ছাড়তে ছাড়তে পিঠ ফিরিয়ে পালায়, যাতে আযান শুনতে না পায়। আযান শেষ হলে সে ফিরে আসে। ইকামত দেওয়া হলে আবার পিঠ ফিরিয়ে পালায়। ইকামত শেষ হলে আবার ফিরে আসে, শেষে মানুষ আর তার মনের মাঝখানে ঢুকে পড়ে। সে বলে, এটা মনে করো, ওটা মনে করো, এমন সব কথা যা আগে তার মনে ছিল না। শেষে লোকটি বুঝতেই পারে না, সে কত রাকআত পড়েছে।\""
+          },
+          {
+            "en": "Al-Qurtubi points to this narration only for its opening, that Satan turns his back at the call, to show that nakasa here means flight. Read beside the verse, it shows the same two movements in an ordinary day: he runs from what names Allah aloud, then returns once the call is over, to work on a person quietly from within.",
+            "bn": "কুরতুবী এ হাদীসের শুধু প্রথম অংশের দিকে ইঙ্গিত করেন, আযানের ডাকে শয়তানের পিঠ ফেরানোর কথাটুকু। উদ্দেশ্য দেখানো যে এ আয়াতে নাকাসা মানে পলায়ন। আয়াতের পাশে রেখে পড়লে সাধারণ একটা দিনের মধ্যেই সেই দুই চলন চোখে পড়ে। যা উঁচু গলায় আল্লাহর নাম নেয়, সে তা থেকে পালায়। ডাক থেমে গেলে আবার ফিরে আসে, আর চুপিচুপি ভেতর থেকে মানুষের উপর কাজ শুরু করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in Al-Hashr",
+          "bn": "সূরা হাশরে একই কথা"
+        },
+        "p": [
+          {
+            "en": "Qatada calls what happened at Badr the habit of the enemy of Allah with whoever obeys him: when truth and falsehood meet, he hands them over in the worst way and disowns them. Ibn Kathir says Qatada meant verses like 59:16, where Satan tells a man to disbelieve and then says I am disassociated from you, I fear Allah, Lord of the worlds, the same two phrases as here. As-Sa'di cites it too. For the adornment, Ibn Kathir cites 4:120: he promises them and arouses desire, and promises nothing but delusion.",
+            "bn": "বদরে যা ঘটেছিল, কাতাদা তাকে বলেন আল্লাহর শত্রুর পুরোনো অভ্যাস, যে তার কথা মানে তার সঙ্গে এমনই করে। হক আর বাতিল যখন মুখোমুখি হয়, তখন সে তাদের সবচেয়ে বাজেভাবে শত্রুর হাতে তুলে দেয় আর তাদের সঙ্গে সম্পর্ক অস্বীকার করে। ইবন কাসীর বলেন, কাতাদা বুঝিয়েছেন ৫৯:১৬ আয়াতের মতো জায়গা। সেখানে শয়তান মানুষকে কুফরি করতে বলে, আর সে কুফরি করলে বলে: তোমার সঙ্গে আমার কোনো সম্পর্ক নেই, আমি বিশ্বজগতের রব আল্লাহকে ভয় করি। এখানকার দুটি কথাই হুবহু সেখানে আছে। সা'দীও এ আয়াতটি উল্লেখ করেন। আর সাজিয়ে দেখানোর প্রসঙ্গে ইবন কাসীর আনেন ৪:১২০: সে তাদের আশ্বাস দেয়, লোভ জাগায়, অথচ ছলনা ছাড়া আর কিছুর আশ্বাস দেয় না।"
+          },
+          {
+            "en": "The other verse Ibn Kathir names is 14:22, where Satan, once the matter is decided, admits that he promised and broke his promise, and that he had no authority over them except that he called and they answered. That line keeps this verse from becoming an excuse: he made the deeds look good, but the marching was theirs. And 2:268 sets two promises side by side: Satan threatens you with poverty and orders immorality, while Allah promises forgiveness and bounty.",
+            "bn": "ইবন কাসীর আরেকটি আয়াতের নাম করেন, ১৪:২২। সেখানে বিচার শেষ হওয়ার পর শয়তান স্বীকার করে, সে ওয়াদা দিয়েছিল আর তা ভেঙেছে। তাদের উপর তার কোনো ক্ষমতা ছিল না, সে শুধু ডেকেছিল আর তারা সাড়া দিয়েছিল। এই কথাটুকু আমাদের আয়াতকে অজুহাত বানাতে দেয় না। কাজগুলো সে সুন্দর করে দেখিয়েছিল ঠিকই, কিন্তু হেঁটে গিয়েছিল তারা নিজেরাই। আর ২:২৬৮ দুটি প্রতিশ্রুতিকে পাশাপাশি রাখে: শয়তান তোমাদের দারিদ্র্যের ভয় দেখায় আর অশ্লীলতার হুকুম দেয়, আর আল্লাহ তোমাদের মাগফিরাত ও অনুগ্রহের ওয়াদা দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ask What the Promise Costs",
+          "bn": "প্রতিশ্রুতির দাম কত, জিজ্ঞেস করুন"
+        },
+        "p": [
+          {
+            "en": "First, what the verse does not license. The Quraysh army at Badr is a past people, and the verse describes what it describes: one army, one day, one deceiver who left them. It licenses nothing against any living person or community, nor against the man whose form the reports say was borrowed; by al-Kalbi's account he was not even there. The verse is turned toward the reader, who was told in 8:45 to stand firm and remember Allah much.",
+            "bn": "আগে বলে নেওয়া দরকার, এ আয়াত কিসের অনুমতি দেয় না। বদরের কুরাইশ বাহিনী অতীতের এক দল। আয়াতটি ঠিক ততটুকুই বলে যতটুকু বলে: একটি বাহিনী, একটি দিন, আর একজন প্রতারক যে তাদের ফেলে পালিয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। বর্ণনামতে যাঁর চেহারা ধার করা হয়েছিল, তাঁর বিরুদ্ধেও না। কালবীর বর্ণনা অনুযায়ী তিনি সেখানে উপস্থিতই ছিলেন না। আয়াতের মুখ আসলে পাঠকের দিকে, যাকে ৮:৪৫ আয়াতে বলা হয়েছে অবিচল থাকতে আর আল্লাহকে বেশি বেশি স্মরণ করতে।"
+          },
+          {
+            "en": "In practice the verse gives a test for any assurance: ask what it costs the one who gives it. The promise at Badr cost its speaker nothing; he kept the right to leave and used it the moment the cost appeared. A plan that looks good mainly because it flatters what I already want deserves a second look, and so does a crowd or a screen that says no one can stop me. Ma'arif al-Qur'an adds that fear of Allah without faith and obedience is useless.",
+            "bn": "বাস্তব জীবনে আয়াতটি যেকোনো আশ্বাস যাচাইয়ের একটা মাপকাঠি দেয়: যে আশ্বাস দিচ্ছে, তার কত খরচ হচ্ছে? বদরের প্রতিশ্রুতিতে বক্তার কোনো খরচ ছিল না। চলে যাওয়ার পথ সে খোলা রেখেছিল, আর দাম দেওয়ার সময় আসামাত্র সেই পথ ধরেছে। যে পরিকল্পনা ভালো লাগে মূলত এই কারণে যে তা আমার মনের চাওয়াকে তোষামোদ করে, তাকে আরেকবার দেখা দরকার। তেমনি দেখা দরকার সেই ভিড় বা সেই পর্দাকে, যা বলে তোমাকে কেউ থামাতে পারবে না। মাআরিফুল কুরআন যোগ করে, ঈমান আর আনুগত্য ছাড়া আল্লাহর ভয় কোনো কাজে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge From the Devils' Prodding",
+          "bn": "শয়তানের খোঁচা থেকে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "The Qur'an gives a supplication for this pressure in 23:97 and 23:98: Rabbi a'udhu bika min hamazati sh-shayatin, wa a'udhu bika rabbi an yahdurun. My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me. No commentator read here links it to this verse; it is offered because its words fit.",
+            "bn": "এমন চাপের জন্য কুরআন নিজেই একটি দোয়া শিখিয়েছে, ২৩:৯৭ ও ২৩:৯৮ আয়াতে: রব্বি আঊযু বিকা মিন হামাযাতিশ শায়াতীন, ওয়া আঊযু বিকা রব্বি আঁই ইয়াহদুরূন। হে আমার রব, শয়তানদের প্ররোচনা থেকে আমি আপনার আশ্রয় চাই। আর হে আমার রব, তারা আমার কাছে হাজির হওয়া থেকেও আপনার আশ্রয় চাই। এখানে পড়া কোনো তাফসীর এ দোয়াকে আমাদের আয়াতের সঙ্গে যুক্ত করেনি। শব্দগুলো মিলে যায় বলেই এটি এখানে রাখা হলো।"
+          },
+          {
+            "en": "And a short supplication in this verse's own vocabulary, offered as a personal prayer, not a narrated one: O Allah, do not let Satan make my deeds look fair to me when they are not, and do not let me lean on a protector who turns on his heels. Let me see what I need to see before the two sides meet, and give me a fear of You that ends in obedience, not in flight.",
+            "bn": "আর এ আয়াতের নিজের শব্দ দিয়ে ছোট একটি দোয়া। এটি কোনো বর্ণিত দোয়া নয়, নিজের পক্ষ থেকে করা প্রার্থনা: হে আল্লাহ, আমার যে কাজ সুন্দর নয়, শয়তান যেন তাকে আমার চোখে সুন্দর করে দেখাতে না পারে। এমন আশ্রয়দাতার উপর আমাকে ভর দিতে দেবেন না, যে উল্টো পায়ে সরে পড়ে। দুই দল মুখোমুখি হওয়ার আগেই যা দেখা দরকার তা আমাকে দেখিয়ে দিন। আর আমাকে আপনার এমন ভয় দিন, যা আমাকে আনুগত্যের দিকে নিয়ে যায়, পলায়নের দিকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Still Standing Beside You",
+          "bn": "শেষে কে পাশে থাকবে"
+        },
+        "p": [
+          {
+            "en": "Which of my current plans did I test against what Allah asks, and which did I test only against how good it made me feel? Whose assurance am I leaning on right now that costs the person who gives it nothing? When someone tells me that no one can stop me, do I hear encouragement, or the line this verse gives to Satan?",
+            "bn": "আমার এখনকার পরিকল্পনাগুলোর কোনটা আমি আল্লাহর চাওয়ার সঙ্গে মিলিয়ে দেখেছি, আর কোনটা শুধু এই দেখে যে তা আমার কত ভালো লাগে? এই মুহূর্তে কার আশ্বাসের উপর ভর দিয়ে আছি, যে আশ্বাসে দাতার কিছুই খরচ হয় না? কেউ যখন বলে, তোমাকে কেউ থামাতে পারবে না, আমি কি তাতে উৎসাহ শুনি, নাকি সেই বাক্য শুনি যা এ আয়াত শয়তানের মুখে দিয়েছে?"
+          },
+          {
+            "en": "Have I ever urged someone forward and then stepped back when the cost arrived? When I was left alone with a choice I had been talked into, did I blame the voice, or own the step I took, as 14:22 says I must? And when I say I fear Allah, does that fear end in obedience, or only in getting away?",
+            "bn": "আমি কি কখনো কাউকে সামনে ঠেলে দিয়ে দাম দেওয়ার সময় নিজে পিছিয়ে গেছি? কারও প্ররোচনায় নেওয়া সিদ্ধান্তের সামনে একা পড়ে গেলে আমি কি সেই কণ্ঠকে দোষ দিয়েছি, নাকি নিজের পদক্ষেপের দায় নিয়েছি, যেমনটা ১৪:২২ আয়াত বলে দেয়? আর যখন বলি আমি আল্লাহকে ভয় করি, সেই ভয় কি আমাকে আনুগত্যে পৌঁছে দেয়, নাকি শুধু পালিয়ে বাঁচার পথ দেখায়?"
+          }
+        ]
+      }
+    ]
+  },
   "8:55": {
     "sections": [
       {

@@ -21031,6 +21031,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every gain arrives already marked: before you count what is yours, remember the share named for Allah and for those who have no one to stand for them.",
     "lessonBn": "প্রতিটি প্রাপ্তি আগে থেকেই চিহ্নিত হয়ে আসে। নিজের ভাগ গোনার আগে মনে রাখুন, এতে আল্লাহর জন্য নির্ধারিত অংশ আছে, আর আছে তাদের হক, যাদের পাশে দাঁড়ানোর কেউ নেই।"
+  },
+  "8:48": {
+    "reflectionEn": "The verse lets us watch a promise from both ends. First comes the voice that makes a plan look good: no one can beat you today, and I am standing by you. Then the two armies come in sight of each other, and the same voice turns on its heels: I have nothing to do with you, I see what you do not see. Nothing in the promise sounded false; it was false in its cost, because the one who gave it never meant to pay. So I ask about the voices I lean on. Which of them only flatters what I already want? And when a plan of mine meets its hour, who will still be standing beside me?",
+    "reflectionBn": "এ আয়াতে একটা প্রতিশ্রুতিকে দুই মাথা থেকে দেখা যায়। প্রথমে আসে সেই কণ্ঠ, যে পরিকল্পনাটাকে সুন্দর করে দেখায়: আজ কেউ তোমাদের হারাতে পারবে না, আমি তোমাদের পাশে আছি। তারপর দুই বাহিনী যখন মুখোমুখি হয়, সেই কণ্ঠই উল্টো পায়ে সরে পড়ে: তোমাদের সঙ্গে আমার কোনো সম্পর্ক নেই, আমি যা দেখি তোমরা তা দেখো না। কথাগুলো শুনতে মিথ্যা লাগেনি। মিথ্যা ছিল তার দামে, কারণ যে কথা দিয়েছিল, দাম দেওয়ার ইচ্ছা তার কখনো ছিল না। তাই নিজের দিকে তাকাই, কোন কোন কণ্ঠের উপর আমি ভর দিয়ে আছি? তাদের কোনটা শুধু আমার মনের চাওয়াটাকেই তোষামোদ করে? আর আমার কোনো পরিকল্পনার আসল সময় যখন আসবে, তখন কে আমার পাশে দাঁড়িয়ে থাকবে?",
+    "pointsEn": [
+      "Which of my current plans have I tested against what Allah asks of me, and which only against how good they make me feel?",
+      "Whose reassurance am I leaning on right now that would cost the person giving it nothing to take back?",
+      "When someone tells me that nothing can stop me, do I hear encouragement, or the words this verse puts in Satan's mouth?",
+      "Have I ever urged someone forward and then stepped back once the cost arrived?",
+      "When I was left alone with a choice I had been talked into, did I blame the voice, or own the step I took?"
+    ],
+    "pointsBn": [
+      "আমার এখনকার পরিকল্পনাগুলোর কোনটা আমি যাচাই করেছি আল্লাহ যা চান তার সঙ্গে মিলিয়ে, আর কোনটা শুধু এই দেখে যে তা আমাকে কত ভালো অনুভব করায়?",
+      "এই মুহূর্তে কার আশ্বাসের উপর আমি ভর দিয়ে আছি, যা ফিরিয়ে নিতে আশ্বাসদাতার এক পয়সাও খরচ হবে না?",
+      "কেউ যখন বলে, তোমাকে কেউ থামাতে পারবে না, আমি কি তাতে উৎসাহ শুনি, নাকি সেই কথাই শুনি যা এ আয়াত শয়তানের মুখে দিয়েছে?",
+      "আমি কি কখনো কাউকে সামনে এগিয়ে দিয়েছি, আর দাম দেওয়ার সময় এলে নিজে পিছিয়ে গেছি?",
+      "কারও প্ররোচনায় নেওয়া কোনো সিদ্ধান্তের সামনে যখন একা পড়ে গেছি, তখন কি সেই কণ্ঠকে দোষ দিয়েছি, নাকি নিজের নেওয়া পদক্ষেপের দায় নিজে নিয়েছি?"
+    ],
+    "lessonEn": "Distrust the voice that makes your plans look good and promises you cover; it disowns you at the very moment the cost arrives.",
+    "lessonBn": "যে কণ্ঠ আপনার পরিকল্পনাকে সুন্দর করে দেখায় আর আড়াল দেওয়ার আশ্বাস দেয়, তাকে বিশ্বাস করবেন না। ঠিক যখন দাম দেওয়ার সময় আসে, তখনই সে আপনাকে অস্বীকার করে।"
   }
 };
 
