@@ -22291,6 +22291,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take the night for rest and the day for work as gifts set to serve you by Allah's command, and let the ordered sky lead your reason to Him.",
     "lessonBn": "রাতের বিশ্রাম আর দিনের কাজকে আল্লাহর হুকুমে আপনার সেবায় নিয়োজিত উপহার হিসেবে নিন, আর সুশৃঙ্খল আকাশ আপনার বুদ্ধিকে তাঁর দিকে নিয়ে যাক।"
+  },
+  "15:94": {
+    "reflectionEn": "The verb at the heart of this verse means to split: to break something open so what was inside can be seen. Proclaim what you are commanded, and turn away from those who set up partners with Allah. Two commands, side by side. One brings the message out into the open; the other declines the quarrel that openness invites. The truth is said clearly, and the mockery thrown back is left where it falls. Nothing here licenses provoking anyone, and the verse speaks of one moment in the Prophet's ﷺ mission, not of anyone living now. It asks me something quieter. When I know what is right, do I say it plainly? And when I am mocked for it, do I keep my dignity, or answer insult with insult?",
+    "reflectionBn": "এ আয়াতের মূল ক্রিয়াটির অর্থ চিরে ফেলা, অর্থাৎ কোনো কিছু ফাটিয়ে খুলে দেওয়া, যাতে ভেতরে যা আছে তা দেখা যায়। তোমাকে যার আদেশ দেওয়া হয়েছে তা প্রকাশ্যে ঘোষণা করো, আর মুশরিকদের থেকে মুখ ফিরিয়ে নাও। পাশাপাশি দুটি আদেশ। একটি বার্তাকে বের করে আনে খোলা ময়দানে। অন্যটি সেই ঝগড়ায় জড়াতে মানা করে, প্রকাশ্যে বললে যা ধেয়ে আসে। সত্য বলা হয় স্পষ্ট করে, আর জবাবে ছুড়ে দেওয়া বিদ্রূপ যেখানে পড়ে সেখানেই পড়ে থাকে। কাউকে উসকে দেওয়ার অনুমতি এখানে নেই। আয়াতটি নবী ﷺ-এর দাওয়াতের একটি বিশেষ মুহূর্তের কথা বলে, আজকের কোনো মানুষের কথা নয়। আমার কাছে সে চায় আরও শান্ত একটা জিনিস। যা সঠিক বলে জানি, তা কি আমি সোজাসুজি বলি? আর সে জন্য কেউ ঠাট্টা করলে আমি কি মর্যাদা ধরে রাখি, নাকি অপমানের জবাব দিই অপমান দিয়ে?",
+    "pointsEn": [
+      "Is there something true that I have kept quiet about, not out of wisdom but out of fear of how it would be received?",
+      "When I do speak up, is my aim to make the truth clear, or to win the argument?",
+      "The last time someone mocked what I hold dear, did I answer the mockery, or carry on with what I was doing?",
+      "Do I mistake being open for being harsh, and being gentle for staying silent?",
+      "What would it look like this week to say one honest thing calmly, and then let it stand?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সত্য কি আছে, যা নিয়ে আমি চুপ করে আছি প্রজ্ঞার কারণে নয়, বরং লোকে কীভাবে নেবে সেই ভয়ে?",
+      "যখন মুখ খুলি, আমার লক্ষ্য কি সত্যটা স্পষ্ট করা, নাকি তর্কে জেতা?",
+      "শেষবার কেউ যখন আমার প্রিয় বিশ্বাস নিয়ে ঠাট্টা করেছে, আমি কি ঠাট্টার জবাব দিতে গেছি, নাকি নিজের কাজে লেগে থেকেছি?",
+      "খোলাখুলি বলা মানেই কি কড়া হওয়া, আর নরম হওয়া মানেই কি চুপ থাকা? এ দুটো কি আমি গুলিয়ে ফেলি?",
+      "এ সপ্তাহে শান্তভাবে একটা সত্য কথা বলে তারপর সেটাকে নিজের জায়গায় থাকতে দেওয়া, আমার জীবনে সেটা দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Say the truth openly and with dignity, and when you are mocked for it, do not answer insult with insult; carry on with what you were given to say.",
+    "lessonBn": "সত্য বলুন খোলাখুলি ও মর্যাদার সঙ্গে। সে জন্য কেউ বিদ্রূপ করলে অপমানের জবাব অপমান দিয়ে দেবেন না, যা বলার দায়িত্ব পেয়েছেন তা বলে যান।"
   }
 };
 

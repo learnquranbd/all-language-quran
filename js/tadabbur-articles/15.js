@@ -3203,6 +3203,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:94": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Oath, the Order",
+          "bn": "শপথের পরে আদেশ"
+        },
+        "p": [
+          {
+            "en": "The verse comes at the close of a short run. In 15:89 the Prophet ﷺ was told to say, I am the clear warner. In 15:92 and 15:93 came an oath: by your Lord, We will surely question them all about what they used to do. Then a fa, so, and six Arabic words carrying two commands: fasda' bima tu'mar, proclaim what you are commanded, and wa a'rid 'ani al-mushrikin, and turn away from the idolaters. The next verse, 15:95, adds a promise: We suffice you against the mockers.",
+            "bn": "আয়াতটি এসেছে ছোট একটি ধারার শেষে। ১৫:৮৯ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছিল: আমি তো স্পষ্ট সতর্ককারী। ১৫:৯২ ও ১৫:৯৩ আয়াতে এসেছে শপথ: তোমার রবের কসম, তারা যা করত সে বিষয়ে তাদের সবাইকে আমি অবশ্যই জিজ্ঞেস করব। তারপর একটি ফা, অর্থাৎ কাজেই। আরবিতে মাত্র ছয়টি শব্দ, তাতে দুটি আদেশ। ফাসদা' বিমা তু'মার: তোমাকে যার আদেশ দেওয়া হয়েছে তা প্রকাশ্যে ঘোষণা করো। ওয়া আ'রিদ আনিল মুশরিকীন: আর মুশরিকদের থেকে মুখ ফিরিয়ে নাও। পরের আয়াত ১৫:৯৫ এর সঙ্গে জুড়ে দেয় একটি প্রতিশ্রুতি: বিদ্রূপকারীদের বিরুদ্ধে তোমার জন্য আমিই যথেষ্ট।"
+          },
+          {
+            "en": "The commentators frame the whole verse in a few lines. Ibn Kathir opens with Allah commanding His Messenger to convey what He sent him with, to carry it through and to proclaim it, and he defines that proclaiming as confronting the idolaters with it. At-Tabari calls it a command to convey His message to his people and to everyone to whom he was sent. Al-Qurtubi has him convey Allah's message to all creation, so that the proof stands against them. The Muyassar is shortest: announce openly the call to the truth, and do not mind the idolaters.",
+            "bn": "পুরো আয়াতের কাঠামো তাফসীরকারেরা কয়েক লাইনেই দাঁড় করান। ইবন কাসীর শুরু করেন এভাবে: আল্লাহ তাঁর রাসূলকে আদেশ দিচ্ছেন, যা দিয়ে তাঁকে পাঠানো হয়েছে তা পৌঁছে দিতে, তা কার্যকর করতে আর প্রকাশ্যে বলতে। আর এই প্রকাশ্যে বলার অর্থ তিনি করেন মুশরিকদের মুখোমুখি হয়ে তা তাদের সামনে রাখা। তাবারীর ভাষায় এটি আদেশ, নিজের কওম এবং যাদের কাছে তাঁকে পাঠানো হয়েছে তাদের সবার কাছে আল্লাহর বার্তা পৌঁছানোর। কুরতুবী বলেন, সমস্ত সৃষ্টির কাছে আল্লাহর বার্তা পৌঁছে দাও, যাতে তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়। মুয়াসসার সবচেয়ে সংক্ষেপে বলে: সত্যের দাওয়াত প্রকাশ্যে দাও, আর মুশরিকদের পরোয়া কোরো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word That Splits",
+          "bn": "যে শব্দ চিরে দেয়"
+        },
+        "p": [
+          {
+            "en": "As-sad' is a split. Al-Qurtubi defines it as ash-shaqq, splitting, and gives the cognates: tasadda'a al-qawm, the people dispersed, and 30:43, yawma'idhin yassadda'un, on that day they will be split apart. The root, he says, is separating and splitting. He and at-Tabari both cite a line of the poet Abu Dhu'ayb on an ass and his mares, likening him to a man dealing out gaming arrows who yasda', and both gloss it as parting the arrows. At-Tabari's own gloss on the verse is two verbs: go forward, and separate.",
+            "bn": "আস-সাদ' মানে ফাটল। কুরতুবী এর অর্থ করেন আশ-শাক্ক, অর্থাৎ চিরে ফেলা, আর একই ধাতুর কয়েকটি ব্যবহার দেখান। তাসাদ্দাআল কওম মানে লোকজন ছড়িয়ে পড়ল। ৩০:৪৩ আয়াতে আছে ইয়াওমাইযিন ইয়াস্সাদ্দাঊন: সেদিন তারা বিভক্ত হয়ে পড়বে। তাঁর মতে ধাতুটির মূল অর্থ আলাদা করা ও চিরে ফেলা। তিনি এবং তাবারী দুজনেই কবি আবু যুআইবের একটি পঙক্তি উদ্ধৃত করেন। পঙক্তিটিতে আছে একটি গাধা আর তার মাদিগুলোর বর্ণনা। গাধাটিকে তুলনা করা হয়েছে জুয়ার তীর বণ্টনকারী লোকের সঙ্গে, যে ইয়াসদাউ। দুজনেই এর ব্যাখ্যা দেন: তীরগুলো আলাদা করে দেয়। আয়াতের অর্থ তাবারী নিজে করেন দুটি ক্রিয়ায়: এগিয়ে যাও, আর আলাদা করে দাও।"
+          },
+          {
+            "en": "Al-Baghawi gathers several glosses. From Ibn Abbas: make it manifest, and, reported from him as well, carry it through. Ad-Dahhak: make it known. Al-Akhfash: separate, that is, separate truth from falsehood by the Qur'an. Sibawayh: decide by what you are commanded. He gives the root as al-fasl and al-farq, cutting apart and dividing, and states the upshot: in this verse the Prophet ﷺ was commanded to make the call public. Al-Qurtubi adds a gloss from Ibn al-A'rabi, aim for it, and another from al-Farra', make your religion manifest.",
+            "bn": "বাগাভী কয়েকটি ব্যাখ্যা একসঙ্গে আনেন। ইবন আব্বাস (রাঃ) থেকে: এটা প্রকাশ করো। তাঁর থেকে আরেক বর্ণনায়: এটা কার্যকর করো। দাহহাক বলেন: জানিয়ে দাও। আখফাশ বলেন: আলাদা করো, অর্থাৎ কুরআন দিয়ে সত্য আর মিথ্যাকে আলাদা করে দাও। সিবাওয়াইহ বলেন: যার আদেশ পেয়েছ সে অনুযায়ী ফয়সালা করো। ধাতুর মূল তিনি বলেন আল-ফাসল ও আল-ফারক, কেটে আলাদা করা আর ভাগ করা। আর সারকথা দাঁড় করান এভাবে: এ আয়াতে নবী ﷺ-কে দাওয়াত প্রকাশ্যে আনার আদেশ দেওয়া হয়েছে। কুরতুবী আরও আনেন ইবনুল আ'রাবীর ব্যাখ্যা, এর দিকে লক্ষ্য স্থির করো, আর ফাররার ব্যাখ্যা, তোমার দ্বীন প্রকাশ করো।"
+          },
+          {
+            "en": "Al-Qurtubi then records a reading, introduced with qila, it is said, in which the splitting falls on the listeners rather than on the message. Split their gathering and their united word by calling them to tawhid, for they will divide when some of them respond. On this reading, he says, the sad' comes back to the splitting of the disbelievers' assembly. He records it as one gloss beside the others and does not choose between them. What it describes is what a clear call does to a crowd that had spoken with one voice.",
+            "bn": "এরপর কুরতুবী কীলা, অর্থাৎ বলা হয়, শব্দ দিয়ে আরেকটি ব্যাখ্যা আনেন। এখানে চিরে ফেলার কাজটা বার্তার উপর নয়, শ্রোতাদের উপর পড়ে। তাদের তাওহীদের দিকে ডেকে তাদের জোট আর তাদের এক সুরের কথা ভেঙে দাও। কেননা কেউ কেউ সাড়া দিলেই তারা ভাগ হয়ে যাবে। তাঁর কথায়, এ ব্যাখ্যায় সাদ' ফিরে যায় কাফিরদের দলের ভেঙে যাওয়ার দিকে। অন্য ব্যাখ্যাগুলোর পাশে তিনি এটিকেও একটি মত হিসেবে রাখেন, কোনোটিকে বেছে নেন না। এ ব্যাখ্যা যা বর্ণনা করে তা হলো, যে জনতা এতদিন এক গলায় কথা বলত, স্পষ্ট দাওয়াত তাদের মধ্যে কী ঘটায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proclaim What, Exactly?",
+          "bn": "ঘোষণাটা ঠিক কীসের"
+        },
+        "p": [
+          {
+            "en": "What was he to bring into the open? At-Tabari lists Mujahid through several chains, and the answers narrow step by step: with the Qur'an; it is the Qur'an; and, in other chains, recite the Qur'an aloud in the prayer. Ibn Zayd, also in at-Tabari, says it is the Qur'an revealed to him, which he is to convey to them. Ibn Kathir and al-Qurtubi both carry Mujahid's gloss about reciting aloud in prayer. On this reading the first open act is the recitation itself, heard where it had not been heard before.",
+            "bn": "প্রকাশ্যে আনার বিষয়টা কী ছিল? তাবারী কয়েকটি সূত্রে মুজাহিদের বক্তব্য আনেন, আর উত্তরগুলো ধাপে ধাপে নির্দিষ্ট হয়ে আসে। কুরআন দিয়ে। সেটা কুরআনই। আর অন্য কয়েকটি সূত্রে: নামাযে কুরআন জোরে পড়ো। তাবারীতে ইবন যায়দও বলেন, এ হলো তাঁর উপর নাযিল হওয়া কুরআন, যা তাদের কাছে পৌঁছে দেওয়ার দায়িত্ব তাঁর। নামাযে জোরে তিলাওয়াতের এই ব্যাখ্যা ইবন কাসীর ও কুরতুবী দুজনেই মুজাহিদ থেকে উদ্ধৃত করেন। এ ব্যাখ্যা অনুযায়ী প্রকাশ্যে আসার প্রথম কাজটি তিলাওয়াত নিজেই। আগে যেখানে তা শোনা যেত না, এখন সেখানে শোনা যায়।"
+          },
+          {
+            "en": "Ibn Abbas, in at-Tabari's chains, gives the plainest sense: carry it through, or, in another chain, do what you are commanded. At-Tabari then pauses on the grammar. The verse says bima tu'mar, not bima tu'maru bihi, although the verb usually takes the preposition bi. He reads ma as a verbal noun: proclaim Our command, for We have commanded you to call to the religion We sent you with, and We have permitted you to make it manifest. He compares the words of Ibrahim's son in 37:102, if'al ma tu'mar, do what you are commanded, and al-Qurtubi reports the same view of ma from al-Farra'.",
+            "bn": "তাবারীর সূত্রে ইবন আব্বাস (রাঃ) সবচেয়ে সরল অর্থটি দেন: এটা কার্যকর করো। আরেক সূত্রে: যার আদেশ পেয়েছ তা করো। এরপর তাবারী একটু ব্যাকরণে থামেন। আয়াতে আছে বিমা তু'মার, বিমা তু'মারু বিহি নয়, যদিও এ ক্রিয়ার সঙ্গে সাধারণত বি অব্যয়টি আসে। তিনি মা-কে ধরেন ক্রিয়াবাচক বিশেষ্য হিসেবে। তখন অর্থ দাঁড়ায়: আমার আদেশ প্রকাশ্যে ঘোষণা করো। তোমাকে যে দ্বীন দিয়ে পাঠিয়েছি তার দিকে ডাকার আদেশ আমি দিয়েছি, আর তা প্রকাশ করার অনুমতিও দিয়েছি। তুলনা হিসেবে তিনি আনেন ৩৭:১০২ আয়াতে ইবরাহীম (আঃ)-এর পুত্রের কথা: ইফআল মা তু'মার, আপনাকে যার আদেশ দেওয়া হয়েছে তা করুন। মা নিয়ে ফাররার একই মত কুরতুবী উদ্ধৃত করেন।"
+          },
+          {
+            "en": "He also relates a Kufan grammarian who held that the preposition was simply dropped, following those Arabs who say amartuka amran, I commanded you a command, beside amartuka bi-amrin. For him the two usages were equal, and he cited a line of Husayn ibn al-Mundhir to support it. The passage sets beside it 11:60, Ad disbelieved their Lord, where the verb again stands without bi. The point is small, but on either account the object of the proclaiming is the command itself: the message as Allah gave it, said as it was given.",
+            "bn": "তাবারী কূফার এক ব্যাকরণবিদের মতও আনেন। তাঁর মতে অব্যয়টি এখানে স্রেফ বাদ পড়েছে, সেই আরবদের রীতিতে যারা আমারতুকা বি-আমরিন না বলে বলে আমারতুকা আমরান। তাঁর কাছে দুটো রীতিই সমান, আর নিজের কথার পক্ষে তিনি হুসাইন ইবনুল মুনযিরের একটি পঙক্তি আনেন। এর পাশেই আসে ১১:৬০ আয়াত, আদ জাতি তাদের রবকে অস্বীকার করল। সেখানেও ক্রিয়াটি বি ছাড়াই বসেছে। বিষয়টা ছোট। তবে দুই ব্যাখ্যাতেই যা প্রকাশ্যে বলতে হবে তা হলো আদেশটি নিজেই: আল্লাহ যেভাবে বার্তা দিয়েছেন, ঠিক সেভাবে বলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Concealed Until It Came Down",
+          "bn": "নাযিল হওয়া পর্যন্ত আড়ালে"
+        },
+        "p": [
+          {
+            "en": "Several commentators tie the verse to a turn in the mission. At-Tabari relates, through Musa ibn Ubayda from his brother Abd Allah ibn Ubayda: the Prophet ﷺ remained concealed until fasda' bima tu'mar wa a'rid 'ani al-mushrikin came down, and then he and his Companions went out. Al-Baghawi gives the same report with ruwiya, it is reported, from Abd Allah ibn Ubayda. Al-Qurtubi gives the same words from Abd Allah ibn Ubayd.",
+            "bn": "কয়েকজন তাফসীরকার আয়াতটিকে দাওয়াতের এক মোড় বদলের সঙ্গে যুক্ত করেন। তাবারী বর্ণনা করেন মূসা ইবন উবাইদার সূত্রে, তাঁর ভাই আবদুল্লাহ ইবন উবাইদা থেকে: নবী ﷺ আড়ালেই থাকতেন, যতক্ষণ না ফাসদা' বিমা তু'মার ওয়া আ'রিদ আনিল মুশরিকীন নাযিল হলো। তখন তিনি ও তাঁর সাহাবিরা বেরিয়ে এলেন। বাগাভী একই বর্ণনা আনেন রুউইয়া, অর্থাৎ বর্ণিত আছে, শব্দ দিয়ে, আবদুল্লাহ ইবন উবাইদা থেকে। কুরতুবী একই কথা আনেন আবদুল্লাহ ইবন উবাইদ নামে।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic gives the report through Abu Ubayda from Abd Allah ibn Mas'ud, and the abridged English renders it the same way: the Prophet was still practising and preaching Islam secretly until this verse was revealed, and then he and his Companions came out into the open. None of the fetched tafsirs grades the report in either form, and in three of them it stands on Abd Allah ibn Ubayda's word with no Companion named. No fetched tafsir attaches a sound hadith to this verse.",
+            "bn": "ইবন কাসীরের আরবি পাঠে বর্ণনাটি এসেছে আবু উবাইদার সূত্রে আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে, আর সংক্ষিপ্ত ইংরেজি অনুবাদও একই কথা বলে। নবী ﷺ তখনো গোপনে ইসলাম পালন ও প্রচার করছিলেন। এ আয়াত নাযিল হলে তিনি ও তাঁর সাহাবিরা প্রকাশ্যে বেরিয়ে এলেন। সংগৃহীত কোনো তাফসীরই কোনো রূপে বর্ণনাটির মান যাচাই করে বলেনি। আর তিনটি তাফসীরে এটি দাঁড়িয়ে আছে আবদুল্লাহ ইবন উবাইদার কথার উপর, কোনো সাহাবির নাম ছাড়া। সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an fills in what concealment meant. Before this verse, it says, the Prophet ﷺ and his Companions prayed and recited the Qur'an in secret, lest they be seen and harmed, and teaching was kept to a counted few. From that time onwards the mission went on openly in all its parts: recitation, worship, the call and its spread. It heads the passage with the idea of conveying the message stage by stage, as circumstances allowed.",
+            "bn": "আড়ালে থাকা মানে কী ছিল, মাআরিফুল কুরআন তা খুলে বলে। এ আয়াতের আগে নবী ﷺ ও তাঁর সাহাবিরা গোপনে নামায পড়তেন আর কুরআন তিলাওয়াত করতেন, যাতে কেউ দেখে ফেলে ক্ষতি করতে না পারে। শিক্ষা দেওয়ার কাজও সীমিত থাকত হাতে গোনা কয়েকজনের মধ্যে। সেই সময় থেকে দাওয়াতের সব দিক চলতে লাগল প্রকাশ্যে: তিলাওয়াত, ইবাদত, আহ্বান আর প্রচার। আলোচনাটির শিরোনামে মাআরিফ একটি ভাবনা রাখে: পরিস্থিতি যেমন অনুমতি দেয়, সে অনুযায়ী ধাপে ধাপে বার্তা পৌঁছানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Ways to Turn Aside",
+          "bn": "মুখ ফেরানোর দুই অর্থ"
+        },
+        "p": [
+          {
+            "en": "The second command divides the commentators over what the turning away was. At-Tabari reads it as: convey to your people what you were sent with, and hold back from war with the idolaters and from fighting them. That, he says, was before fighting them was made obligatory, and it was then abrogated by 9:5, kill the idolaters wherever you find them. Through one chain he gives Ibn Abbas: wa a'rid 'ani al-mushrikin is among the abrogated.",
+            "bn": "দ্বিতীয় আদেশে এসে তাফসীরকারেরা মুখ ফেরানোর অর্থ নিয়ে দুই ভাগ হয়ে যান। তাবারীর পাঠে অর্থ হলো: যা দিয়ে তোমাকে পাঠানো হয়েছে তা তোমার কওমের কাছে পৌঁছে দাও, আর মুশরিকদের সঙ্গে যুদ্ধ ও লড়াই থেকে বিরত থাকো। তাঁর কথায়, এটা ছিল তাদের বিরুদ্ধে জিহাদ ফরয হওয়ার আগের কথা। পরে ৯:৫ আয়াত, মুশরিকদের যেখানে পাও হত্যা করো, এ আদেশ রহিত করে দেয়। একটি সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: ওয়া আ'রিদ আনিল মুশরিকীন রহিত আয়াতগুলোর অন্তর্ভুক্ত।"
+          },
+          {
+            "en": "He adds ad-Dahhak, who sets this verse beside 45:14, tell those who believe to forgive, and says that everything of this kind in the Qur'an was commanded first and then fighting was commanded, abrogating it all. Al-Baghawi says the verse of fighting abrogated it. Al-Qurtubi reports Ibn Abbas: it is abrogated by kill the idolaters. Yet al-Qurtubi's own first gloss runs differently: turn away from concerning yourself with their mockery and from caring what they say, for Allah has cleared you of it.",
+            "bn": "তিনি দাহহাকের কথাও আনেন। দাহহাক এ আয়াতকে রাখেন ৪৫:১৪ আয়াতের পাশে, মুমিনদের বলো তারা যেন ক্ষমা করে। তাঁর মতে কুরআনে এ ধরনের যত আদেশ আছে, সবই আগে দেওয়া হয়েছিল, তারপর যুদ্ধের আদেশ এসে সেগুলো রহিত করেছে। বাগাভী বলেন, যুদ্ধের আয়াত একে রহিত করেছে। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে আনেন যে মুশরিকদের হত্যা করো আয়াত দিয়ে এটি রহিত। অথচ কুরতুবীর নিজের প্রথম ব্যাখ্যা অন্য দিকে যায়: তাদের বিদ্রূপ নিয়ে মাথা ঘামানো আর তাদের কথার পরোয়া করা থেকে মুখ ফিরিয়ে নাও, কেননা আল্লাহ তোমাকে তাদের কথা থেকে মুক্ত ঘোষণা করেছেন।"
+          },
+          {
+            "en": "As-Sa'di: do not mind them, and leave off trading insults and abuse with them, turning to your own task. The Muyassar says: do not mind the idolaters. Ibn Kathir: do not turn towards the idolaters who want to bar you from Allah's signs, and he cites 68:9, they wish you would compromise so that they could compromise. These glosses never raise abrogation. The fetched texts set the two readings down without one refuting the other, and this article leaves them so. It records how commentators read a Makkan command; it gives no ruling for today and licenses nothing against any living person or community.",
+            "bn": "সা'দীর ব্যাখ্যা: তাদের পরোয়া কোরো না, তাদের সঙ্গে গালাগালি আর কটূক্তির লেনদেন ছেড়ে দাও, নিজের কাজে মন দাও। মুয়াসসার বলে: মুশরিকদের পরোয়া কোরো না। ইবন কাসীর বলেন: যে মুশরিকরা তোমাকে আল্লাহর আয়াত থেকে ফিরিয়ে রাখতে চায়, তাদের দিকে ফিরে তাকিয়ো না। সঙ্গে তিনি আনেন ৬৮:৯ আয়াত: তারা চায় তুমি নমনীয় হও, তাহলে তারাও নমনীয় হবে। এই ব্যাখ্যাগুলোতে রহিত হওয়ার প্রসঙ্গই ওঠে না। সংগৃহীত তাফসীরগুলো দুটি পাঠ পাশাপাশি রেখেছে, একটি দিয়ে অন্যটি খণ্ডন করেনি। এ প্রবন্ধও সেভাবেই রেখে দিচ্ছে। মক্কার একটি আদেশ তাফসীরকারেরা কীভাবে পড়েছেন, এখানে কেবল তার বিবরণ। আজকের জন্য এ থেকে কোনো বিধান বের হয় না, আর জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতিও এতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sufficed Against the Mockers",
+          "bn": "বিদ্রূপকারীদের বেলায় তিনিই যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "The next verse answers the fear that open speech would invite. Ibn Kathir reads 15:94 and 15:95 together: convey what was revealed to you, and do not fear them, for Allah suffices you against them and guards you from them. He pairs it with 5:67, Allah will protect you from the people. Ma'arif al-Qur'an makes 15:95 the hinge of the change: Allah Himself took on the keeping of the believers safe from those who derided their faith, and so the mission went public.",
+            "bn": "প্রকাশ্যে বললে যে ভয় ধেয়ে আসে, পরের আয়াত তার জবাব দেয়। ইবন কাসীর ১৫:৯৪ ও ১৫:৯৫ একসঙ্গে পড়েন: তোমার উপর যা নাযিল হয়েছে তা পৌঁছে দাও, তাদের ভয় কোরো না। কেননা তাদের বিরুদ্ধে আল্লাহই তোমার জন্য যথেষ্ট, তিনিই তোমাকে তাদের থেকে রক্ষা করবেন। এর সঙ্গে তিনি মিলিয়ে দেন ৫:৬৭ আয়াত: আল্লাহ তোমাকে মানুষের হাত থেকে রক্ষা করবেন। মাআরিফুল কুরআন ১৫:৯৫ আয়াতকেই এ পরিবর্তনের কেন্দ্র ধরে। যারা মুমিনদের ঈমান নিয়ে ঠাট্টা করত, তাদের থেকে মুমিনদের নিরাপদ রাখার দায়িত্ব আল্লাহ নিজেই নিলেন। তাই দাওয়াত চলে এল প্রকাশ্যে।"
+          },
+          {
+            "en": "Who the mockers were comes from reports, not from the verse. Ibn Kathir carries Muhammad ibn Ishaq, through Yazid ibn Ruman from Urwa ibn az-Zubayr, naming five elders of standing: al-Aswad ibn al-Muttalib, al-Aswad ibn Abd Yaghuth, al-Walid ibn al-Mughira, al-As ibn Wa'il and al-Harith ibn at-Talatila. A second account of how each was struck down comes from Urwa or another of the scholars, as Ibn Ishaq puts it. No fetched text grades either account. These verses describe men who mocked the Prophet ﷺ in Makkah, and license nothing against any living person or community.",
+            "bn": "বিদ্রূপকারীরা কারা ছিল, তা আয়াত থেকে নয়, বর্ণনা থেকে জানা যায়। ইবন কাসীর মুহাম্মাদ ইবন ইসহাকের বক্তব্য আনেন, ইয়াযীদ ইবন রূমানের মাধ্যমে উরওয়া ইবনুয যুবাইর থেকে। সেখানে কওমের পাঁচজন প্রবীণ ও সম্ভ্রান্ত লোকের নাম আছে: আসওয়াদ ইবনুল মুত্তালিব, আসওয়াদ ইবন আবদ ইয়াগূস, ওয়ালীদ ইবনুল মুগীরা, আস ইবন ওয়াইল আর হারিস ইবনুত তালাতিলা। তাদের প্রত্যেকে কীভাবে আঘাতপ্রাপ্ত হলো, তার আরেকটি বিবরণ ইবন ইসহাকের ভাষায় এসেছে উরওয়া অথবা অন্য কোনো আলিম থেকে। সংগৃহীত কোনো লেখা এ দুটি বিবরণের মান যাচাই করেনি। এ আয়াতগুলো মক্কায় নবী ﷺ-কে নিয়ে বিদ্রূপকারী লোকদের বর্ণনা দেয়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loud Message, Quiet Tongue",
+          "bn": "বার্তা উঁচু, জিভ সংযত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di holds the two commands together. Proclaim what Allah commanded and announce it to everyone, he writes; let no obstacle hold you back from it and let no words of the reckless turn you aside. Then: do not mind them, leave off trading insults with them, and turn to your own task. On his reading openness and restraint are not opposites. The voice is raised for the message and kept low before the abuse.",
+            "bn": "সা'দী দুটি আদেশকে একসঙ্গে ধরেন। তিনি লেখেন, আল্লাহ যার আদেশ দিয়েছেন তা প্রকাশ্যে বলো, সবার কাছে ঘোষণা করো। কোনো বাধা যেন তোমাকে আটকে না রাখে, বেপরোয়া লোকদের কথা যেন তোমাকে ফিরিয়ে না দেয়। তারপর: তাদের পরোয়া কোরো না, তাদের সঙ্গে গালাগালির লেনদেন ছেড়ে দাও, নিজের কাজে মন দাও। তাঁর পাঠে খোলাখুলি বলা আর সংযম পরস্পরবিরোধী নয়। বার্তার জন্য কণ্ঠ উঁচু হয়, কিন্তু গালির সামনে তা নিচু থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi and the Muyassar give the same reason for not minding the idolaters: Allah has cleared you of what they say. A messenger already cleared has no need to clear himself in a shouting match. Proclaiming is therefore not provoking. The command is to make the message plain, not to wound the listeners, and on as-Sa'di's reading the second half of the verse closes the door on trading insults. What is commanded is the truth said clearly, and what is left alone is the quarrel around it.",
+            "bn": "মুশরিকদের পরোয়া না করার একই কারণ দেখায় কুরতুবী ও মুয়াসসার: তারা যা বলে, আল্লাহ তা থেকে তোমাকে মুক্ত ঘোষণা করেছেন। যাঁকে আগেই নির্দোষ বলে দেওয়া হয়েছে, চেঁচামেচির লড়াইয়ে নিজেকে নির্দোষ প্রমাণের দরকার তাঁর নেই। কাজেই প্রকাশ্যে বলা মানে উসকানি নয়। আদেশটা বার্তাকে স্পষ্ট করার, শ্রোতাকে আঘাত করার নয়। আর সা'দীর পাঠে আয়াতের দ্বিতীয় অংশ গালাগালির লেনদেনের পথ বন্ধ করে দেয়। আদেশ আছে স্পষ্ট করে সত্য বলার, আর ছেড়ে দিতে বলা হয়েছে তাকে ঘিরে ওঠা ঝগড়াকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clear Words, Level Voice",
+          "bn": "স্পষ্ট কথা, শান্ত স্বর"
+        },
+        "p": [
+          {
+            "en": "The command was given to the Prophet ﷺ at one moment of his mission, and the commentators keep it there. What a reader can take from it is a manner rather than a ruling. What is true and needs saying can be said plainly, without apology and without heat. Silence that comes from fear is not the same as wisdom, and loudness is not the same as clarity. The verse asks for clarity and leaves the noise to others.",
+            "bn": "আদেশটি দেওয়া হয়েছিল নবী ﷺ-কে, তাঁর দাওয়াতের একটি নির্দিষ্ট সময়ে, আর তাফসীরকারেরা একে সেখানেই রাখেন। পাঠক এ থেকে নিতে পারেন একটি আচরণ, কোনো বিধান নয়। যে সত্য বলা দরকার, তা সোজাসুজি বলা যায়, কৈফিয়ত ছাড়া, উত্তেজনা ছাড়া। ভয় থেকে আসা নীরবতা আর প্রজ্ঞা এক জিনিস নয়। তেমনি গলার জোর আর কথার স্পষ্টতাও এক নয়। আয়াতটি চায় স্পষ্টতা, আর হইচই ছেড়ে দেয় অন্যদের হাতে।"
+          },
+          {
+            "en": "The second half carries its own lesson. When someone mocks what you hold true, you are not obliged to answer each jibe, and answering insult with insult is exactly what as-Sa'di's gloss sets aside. You can say what you came to say, let the words thrown back fall where they fall, and keep to your work, trusting, as 15:95 promises the Prophet ﷺ, that Allah is enough against the mockers. The task is to be clear and dignified; the outcome is not in your hands.",
+            "bn": "আয়াতের দ্বিতীয় অংশেও আলাদা শিক্ষা আছে। আপনি যাকে সত্য বলে জানেন, কেউ তা নিয়ে ঠাট্টা করলে প্রতিটি খোঁচার জবাব দেওয়া আপনার দায় নয়। অপমানের জবাবে অপমান, সা'দীর ব্যাখ্যা ঠিক এটাকেই সরিয়ে রাখে। যা বলতে এসেছেন তা বলুন। জবাবে ছুড়ে দেওয়া কথা যেখানে পড়ে পড়ুক, আপনি নিজের কাজে থাকুন। ১৫:৯৫ আয়াতে নবী ﷺ-কে যে প্রতিশ্রুতি দেওয়া হয়েছে, বিদ্রূপকারীদের বিরুদ্ধে আল্লাহই যথেষ্ট, তার উপর ভরসা রাখুন। আপনার কাজ স্পষ্ট ও মর্যাদাপূর্ণ থাকা। ফলাফল আপনার হাতে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "15:99": {
     "sections": [
       {
