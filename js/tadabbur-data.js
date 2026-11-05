@@ -22971,6 +22971,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never make light of what God takes seriously, and never let the feeling of doing well stand in for checking your deeds against His guidance.",
     "lessonBn": "আল্লাহ যা গুরুত্ব দিয়ে বলেন, তাকে কখনো হালকা করবেন না। আর ভালো করছি, এই অনুভূতিকে কখনো তাঁর হেদায়াতের সঙ্গে আমল মিলিয়ে দেখার বিকল্প হতে দেবেন না।"
+  },
+  "19:2": {
+    "reflectionEn": "Before the story begins, the surah tells you how it ends. This is a mention of your Lord's mercy to His servant Zakariyya. An old man is about to pray, quietly, for something every outward sign says has passed its time, and the verse has already named what he will meet: mercy. It also names him first by what he is to Allah, His servant, and only then by his own name. Whatever else a person is, old, tired, unnoticed, that is the title under which the mercy is told. So the verse turns a question on me. When I come to Allah, do I come as someone owed, or as His servant? And do I read my own life as a story that mercy has already framed?",
+    "reflectionBn": "কাহিনি শুরু হওয়ার আগেই সূরা জানিয়ে দেয় শেষটা কী। এ হলো তাঁর বান্দা যাকারিয়্যার প্রতি আপনার রবের রহমতের বিবরণ। একজন বৃদ্ধ মানুষ এখনই চুপিচুপি দোয়া করবেন এমন জিনিসের জন্য, বাইরের সব আলামত বলছে যার সময় পেরিয়ে গেছে। অথচ তিনি কী পাবেন, আয়াত আগেই তার নাম বলে দিয়েছে: রহমত। আরেকটা ব্যাপার। আয়াত তাঁকে প্রথমে ডাকে আল্লাহর সঙ্গে তাঁর সম্পর্ক দিয়ে, তাঁর বান্দা বলে। নিজের নামটা আসে তার পরে। মানুষ আর যা-ই হোক, বুড়ো, ক্লান্ত, দুনিয়ার চোখে অচেনা, রহমতের কাহিনি বলা হয় এই পরিচয়েই। তাই প্রশ্নটা ফিরে আসে আমার দিকে। আল্লাহর কাছে আমি কি পাওনাদারের মতো যাই, নাকি বান্দা হয়ে? আর নিজের জীবনটাকে কি এমন এক কাহিনি হিসেবে পড়ি, যার চারপাশে রহমত আগে থেকেই ঘিরে আছে?",
+    "pointsEn": [
+      "If my life were told as a mention of Allah's mercy to me, which parts would I have to read again with new eyes?",
+      "Do I think of myself first as His servant, or does some other title sit higher in my mind?",
+      "When I ask for something that looks too late, do I let my circumstances decide the outcome before Allah has?",
+      "Whose quiet story of answered prayer have I heard and passed by without taking its lesson?",
+      "What do I ask Allah for only in private, and is that privacy for His sake or for fear of how I look?"
+    ],
+    "pointsBn": [
+      "আমার জীবনটা যদি আমার প্রতি আল্লাহর রহমতের বিবরণ হিসেবে বলা হতো, কোন অংশগুলো আমাকে নতুন চোখে আবার পড়তে হতো?",
+      "নিজেকে কি আমি সবার আগে তাঁর বান্দা ভাবি, নাকি অন্য কোনো পরিচয় আমার মনে তার চেয়ে উঁচুতে বসে আছে?",
+      "যা চাইছি তার সময় পেরিয়ে গেছে মনে হলে, আল্লাহ ফয়সালা করার আগেই কি আমি পরিস্থিতিকে ফয়সালা করতে দিই?",
+      "কবুল হওয়া দোয়ার কোন নীরব কাহিনি আমি শুনেছি, অথচ শিক্ষা না নিয়েই পাশ কাটিয়ে গেছি?",
+      "কোন জিনিস আমি আল্লাহর কাছে শুধু একান্তে চাই? সেই গোপনীয়তা কি তাঁর জন্য, নাকি লোকে কী ভাববে সেই ভয়ে?"
+    ],
+    "lessonEn": "Read your life as a record of your Lord's mercy, and come to Him first as His servant; that is the name under which His mercy is told.",
+    "lessonBn": "নিজের জীবনকে আপনার রবের রহমতের দলিল হিসেবে পড়ুন, আর তাঁর কাছে যান সবার আগে তাঁর বান্দা হয়ে। এই পরিচয়েই তাঁর রহমতের কাহিনি বলা হয়।"
   }
 };
 

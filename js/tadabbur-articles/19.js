@@ -11,6 +11,162 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "19:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Title Over the Tale",
+          "bn": "কাহিনির মাথায় শিরোনাম"
+        },
+        "p": [
+          {
+            "en": "Dhikru rahmati rabbika 'abdahu Zakariyya: a mention of the mercy of your Lord to His servant Zakariyya. Five words, and the surah's first story has its title. Ma'arif al-Qur'an notes that Surah Maryam is placed straight after al-Kahf and suggests a likeness as the reason: al-Kahf tells of unusual happenings, and Maryam too covers a number of extraordinary events. The first of them is about to be told, and the verse has said in advance what kind of event it will be.",
+            "bn": "যিকরু রাহমাতি রাব্বিকা আবদাহু যাকারিয়্যা: তোমার রবের রহমতের বিবরণ, তাঁর বান্দা যাকারিয়্যার প্রতি। পাঁচটি শব্দেই সূরার প্রথম কাহিনি পেয়ে গেল তার শিরোনাম। মাআরিফুল কুরআন লক্ষ করে, সূরা মারইয়াম রাখা হয়েছে ঠিক সূরা কাহফের পরে। কারণ হিসেবে সে দুই সূরার মিলের কথা বলে। কাহফে আছে অসাধারণ সব ঘটনার বিবরণ, মারইয়ামেও আছে বেশ কিছু আশ্চর্য ঘটনা। তার প্রথমটি এখনই শুরু হবে। আর ঘটনাটি কেমন, আয়াত তা আগেভাগেই বলে রেখেছে।"
+          },
+          {
+            "en": "The Muyassar gives the sense in a single line: this is the mention of your Lord's mercy to His servant Zakariyya; We will narrate it to you, for in it is a lesson for those who take lessons. As-Sa'di uses almost the same words and goes further. We will narrate it, he says, and set it out in detail, so that the state of His prophet Zakariyya, his righteous traces and his fine qualities become known. In telling it there is a lesson for those who reflect and a model for those who follow.",
+            "bn": "মুয়াসসার ছোট্ট এক বাক্যে অর্থটা বলে দেয়: এ হলো তোমার রবের রহমতের বিবরণ, তাঁর বান্দা যাকারিয়্যার প্রতি। আমি তা তোমাকে শোনাব, কারণ এতে শিক্ষা আছে শিক্ষা নিতে চাওয়া মানুষের জন্য। সা'দী প্রায় একই কথা বলেন, তারপর আরও এগিয়ে যান। তাঁর ভাষায়, আমি তা শোনাব, খুলে খুলে বিস্তারিত বলব, যাতে তাঁর নবী যাকারিয়্যার অবস্থা, তাঁর নেক কাজের ছাপ আর তাঁর সুন্দর গুণগুলো জানা যায়। এ কাহিনিতে চিন্তাশীলদের জন্য আছে শিক্ষা, আর অনুসরণ করতে চাওয়াদের জন্য আছে আদর্শ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Letters at the Door",
+          "bn": "দরজায় পাঁচটি হরফ"
+        },
+        "p": [
+          {
+            "en": "The verse is preceded by 19:1, Kaf, Ha, Ya, 'Ayn, Sad, the separate letters that open a number of surahs. The Muyassar refers the reader back to its discussion at the start of al-Baqara. As-Sa'di states his position in one sentence: the safest course is to keep silent about their meaning where there is no basis in the revealed law, while being certain that Allah did not send them down in vain but for a wisdom we do not know. Ma'arif al-Qur'an says their meaning is known only to Allah.",
+            "bn": "এ আয়াতের আগে আছে ১৯:১, কাফ-হা-ইয়া-আইন-সাদ। এগুলো সেই আলাদা আলাদা হরফ, যা দিয়ে বেশ কয়েকটি সূরা শুরু হয়েছে। মুয়াসসার পাঠককে ফিরিয়ে দেয় সূরা বাকারার শুরুর আলোচনায়। সা'দী নিজের অবস্থান জানান একটি বাক্যেই: শরীয়তের কোনো ভিত্তি না থাকলে এগুলোর অর্থ নিয়ে চুপ থাকাই সবচেয়ে নিরাপদ। তবে এ বিশ্বাস পাকা রাখতে হবে যে আল্লাহ এগুলো অনর্থক নাযিল করেননি, করেছেন এমন হিকমতে যা আমরা জানি না। মাআরিফুল কুরআনের কথা, এগুলোর অর্থ কেবল আল্লাহই জানেন।"
+          },
+          {
+            "en": "Others did report meanings. Al-Baghawi records from Ibn 'Abbas that the letters are one of Allah's names, from Qatada that they are one of the names of the Qur'an, and, as further opinions, that they name the surah or are an oath. He also relays, with the words it is narrated, through Sa'id ibn Jubayr from Ibn 'Abbas, that each letter opens one of Allah's names: kaf from Karim and Kabir, ha from Hadi, and so on. Al-Qurtubi lists reports of the same kind. They stand here as what these commentators relay, not as a settled meaning.",
+            "bn": "কেউ কেউ অবশ্য অর্থও বর্ণনা করেছেন। বাগাভী ইবন আব্বাস (রাঃ) থেকে আনেন, এটি আল্লাহর নামগুলোর একটি। কাতাদা থেকে আনেন, এটি কুরআনের নামগুলোর একটি। আরও দুটি মত তিনি উল্লেখ করেন: এটি সূরার নাম, অথবা এটি এক শপথ। 'বর্ণিত আছে' বলে তিনি সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) থেকে আরও আনেন যে প্রতিটি হরফ আল্লাহর একেকটি নামের শুরু। কাফ এসেছে কারীম ও কাবীর থেকে, হা এসেছে হাদী থেকে, এভাবে বাকিগুলো। কুরতুবীও এ ধরনের বর্ণনা তুলে ধরেন। এগুলো এখানে রইল এই তাফসীরকারদের বর্ণনা হিসেবে, চূড়ান্ত অর্থ হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Carries the First Word",
+          "bn": "প্রথম শব্দের ভার কে বইছে"
+        },
+        "p": [
+          {
+            "en": "The first word puzzled the grammarians. Dhikru stands in the nominative, and the sentence shows nothing for it to be the predicate of. At-Tabari opens by saying that the scholars of Arabic differed over what puts dhikr in the nominative and what puts 'abd in the accusative. Some grammarians of Basra read it as though it said: among what We narrate to you is the mention of your Lord's mercy. Some grammarians of Kufa made Kaf-Ha-Ya-'Ayn-Sad the word that carries dhikr, or else, they said, supply an unspoken this.",
+            "bn": "প্রথম শব্দটি নিয়েই ব্যাকরণবিদেরা ধাঁধায় পড়েছিলেন। যিকরু শব্দে পেশ, অথচ বাক্যে এমন কিছু দেখা যায় না যার বিধেয় হয়ে সে বসবে। তাবারী শুরুতেই বলেন, আরবি ভাষার আলেমরা একমত হতে পারেননি, যিকর শব্দে পেশ এল কিসের কারণে, আর আবদ শব্দে যবর এল কিসের কারণে। বসরার কিছু ব্যাকরণবিদ অর্থ করেছেন এভাবে: আমি তোমাকে যা শোনাই, তার মধ্যে আছে তোমার রবের রহমতের বিবরণ। কুফার কিছু ব্যাকরণবিদের মতে কাফ-হা-ইয়া-আইন-সাদই যিকর শব্দের ভার বহন করছে। নয়তো, তাঁরা বলেন, ধরে নিতে হবে না-বলা একটি শব্দ: এটি।"
+          },
+          {
+            "en": "At-Tabari then gives the view he holds correct: dhikr is in the nominative by an elided, unspoken word, and that word is hadha, this, as is done at the start of other surahs. He points to bara'atun min Allahi wa-rasulihi at the opening of 9:1, and suratun anzalnaha at the opening of 24:1. So the plain sense, in his paraphrase, is: this is a mention of your Lord's mercy to His servant Zakariyya. Al-Baghawi takes the same line, supplying: this which We recite to you is a mention.",
+            "bn": "এরপর তাবারী জানান, তাঁর কাছে কোন মতটি সঠিক। যিকর শব্দে পেশ এসেছে উহ্য একটি শব্দের কারণে, আর সেই শব্দ হলো হাযা, অর্থাৎ এটি। অন্য সূরার শুরুতেও এমনটাই করা হয়েছে। তিনি দেখান ৯:১ আয়াতের শুরু, বারাআতুম মিনাল্লাহি ওয়া রাসূলিহি, আর ২৪:১ আয়াতের শুরু, সূরাতুন আনযালনাহা। তাহলে সরল অর্থ, তাঁর নিজের ভাষায়: এটি তোমার রবের রহমতের বিবরণ, তাঁর বান্দা যাকারিয়্যার প্রতি। বাগাভীও একই পথ ধরেন। তিনি উহ্য অংশটা পূরণ করেন এভাবে: আমি তোমাকে যা পড়ে শোনাচ্ছি, তা এক বিবরণ।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the same dispute with names attached. Al-Farra' held that dhikr is carried by Kaf-Ha-Ya-'Ayn-Sad. Az-Zajjaj called that impossible, because these letters are not part of what Allah told about Zakariyya: Allah told of him and of the glad tidings given to him, and the letters are not part of his story. Al-Akhfash supplied: among what is narrated to you. A further view supplied: this which is recited to you. Whether the letters also belong inside the story's first sentence is exactly what these grammarians disputed.",
+            "bn": "কুরতুবী একই বিতর্ক তুলে ধরেন, সঙ্গে নামও জুড়ে দেন। ফাররার মতে যিকর শব্দের ভার বহন করছে কাফ-হা-ইয়া-আইন-সাদ। যাজ্জাজ বলেন, তা অসম্ভব। কারণ যাকারিয়্যা সম্পর্কে আল্লাহ যা জানিয়েছেন, এ হরফগুলো তার অংশ নয়। আল্লাহ জানিয়েছেন তাঁর কথা আর তাঁকে দেওয়া সুসংবাদের কথা, আর এ হরফগুলো তাঁর কাহিনির অংশ নয়। আখফাশ উহ্য অংশটা ধরেছেন এভাবে: তোমাদের যা শোনানো হয়, তার মধ্যে। আরেক মতে উহ্য অংশটা হলো: তোমাদের যা পড়ে শোনানো হচ্ছে, তা। হরফগুলো কাহিনির প্রথম বাক্যেরও অংশ কি না, ঠিক এ প্রশ্নেই এই ব্যাকরণবিদদের মতভেদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy Reaching, Lord Remembering",
+          "bn": "রহমত পৌঁছায়, রব স্মরণ করেন"
+        },
+        "p": [
+          {
+            "en": "The second question is 'abdahu, His servant, which stands in the accusative. What acts on it? At-Tabari says it is governed by rahma, mercy, and al-Qurtubi reports the same from al-Akhfash. The illustration, which at-Tabari gives from some grammarians of Basra and al-Qurtubi from al-Akhfash, is dhikru darbi Zaydin 'Amran, the mention of Zayd's striking of 'Amr, where 'Amr is the one struck. Mercy is the action, the Lord its doer, and the servant the one it reaches. At-Tabari calls Zakariyya an explanation of the servant; al-Akhfash, in al-Qurtubi's report, calls it a substitute for it.",
+            "bn": "দ্বিতীয় প্রশ্ন আবদাহু শব্দ নিয়ে, অর্থাৎ তাঁর বান্দা। এতে যবর কেন, কোন শব্দ একে চালাচ্ছে? তাবারী বলেন, একে চালাচ্ছে রাহমা, অর্থাৎ রহমত। কুরতুবী আখফাশ থেকেও একই কথা আনেন। উদাহরণটা তাবারী আনেন বসরার কিছু ব্যাকরণবিদ থেকে, আর কুরতুবী আনেন আখফাশ থেকে: যিকরু দারবি যাইদিন আমরান, যায়দের আমরকে মারার বিবরণ। এখানে মার খাচ্ছে আমর। তেমনি রহমত হলো কাজটা, রব তার কর্তা, আর বান্দা সেই জন, যার কাছে রহমত পৌঁছায়। তাবারী যাকারিয়্যা নামটিকে বলেন বান্দা শব্দের ব্যাখ্যা। আর কুরতুবীর বর্ণনায় আখফাশ একে বলেন তার বদল।"
+          },
+          {
+            "en": "The other reading reorders the words. Al-Qurtubi reports it from az-Zajjaj and al-Farra': the sense is your Lord's remembering of His servant Zakariyya with mercy, so that 'abdahu is governed by dhikr. At-Tabari records this from some grammarians of Kufa, your Lord's remembering of His servant with His mercy, as a case of fronting and postponement, and al-Baghawi gives the same paraphrase. On the first reading the verse tells of mercy reaching a servant. On the second, it tells of a Lord who remembered him.",
+            "bn": "অন্য ব্যাখ্যায় শব্দগুলোর ক্রম বদলে পড়া হয়। কুরতুবী তা আনেন যাজ্জাজ ও ফাররা থেকে। অর্থ দাঁড়ায়: তোমার রব রহমতের সঙ্গে তাঁর বান্দা যাকারিয়্যাকে স্মরণ করলেন। তাহলে আবদাহু শব্দকে চালাচ্ছে যিকর। তাবারী কুফার কিছু ব্যাকরণবিদের সূত্রে এই অর্থটি আনেন, তোমার রব তাঁর রহমত দিয়ে তাঁর বান্দাকে স্মরণ করলেন। তাঁর ভাষায় এখানে শব্দ আগে-পিছে হয়েছে। বাগাভীও ঠিক এই অর্থই করেন। প্রথম ব্যাখ্যায় আয়াত বলে এক বান্দার কাছে রহমত পৌঁছানোর কথা। দ্বিতীয় ব্যাখ্যায় বলে এমন এক রবের কথা, যিনি সেই বান্দাকে স্মরণ করলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Ways It Was Recited",
+          "bn": "ভিন্ন কিরাআতের খবর"
+        },
+        "p": [
+          {
+            "en": "The commentators also record readings other than the one in the mushaf. Ibn Kathir reports that Yahya ibn Ya'mar recited the first word as a verb, dhakkara, which the abridged English renders: He has reminded of your Lord's mercy to His servant Zakariyya. Al-Qurtubi lists a reading of Yahya ibn Ya'mar on the same word as well, along with one that read it as a command, and one by Abu al-'Aliya with 'abduhu Zakariyya in the nominative. In every one of them the mercy and the servant are still the subject.",
+            "bn": "মুসহাফে যেভাবে আছে, তার বাইরের কিছু কিরাআতও তাফসীরকারেরা উল্লেখ করেছেন। ইবন কাসীর জানান, ইয়াহইয়া ইবন ইয়া'মার প্রথম শব্দটি ক্রিয়া হিসেবে পড়েছেন, যাক্কারা। সংক্ষিপ্ত ইংরেজি ভাষ্যে তার অর্থ: তিনি তাঁর বান্দা যাকারিয়্যার প্রতি তোমার রবের রহমতের কথা স্মরণ করিয়ে দিলেন। কুরতুবীও এই শব্দে ইয়াহইয়া ইবন ইয়া'মারের একটি কিরাআত উল্লেখ করেন। সঙ্গে আছে আদেশসূচক করে পড়ার একটি কিরাআত, আর আবুল আলিয়ার কিরাআত, যেখানে আবদুহু যাকারিয়্যা পেশ দিয়ে পড়া। প্রতিটিতেই আলোচনার বিষয় সেই রহমত আর সেই বান্দা।"
+          },
+          {
+            "en": "The name itself comes in two forms. Ibn Kathir notes that Zakariyya is read both with a lengthened ending and with a shortened one, and calls them two well-known readings; al-Qurtubi refers the reader back to his discussion of the name in Al 'Imran. Ibn Kathir then says who the man was in a single line: he was a great prophet from among the prophets of the Children of Israel.",
+            "bn": "নামটিও পড়া হয় দুইভাবে। ইবন কাসীর জানান, যাকারিয়্যা নামের শেষটা টেনে লম্বা করেও পড়া হয়, ছোট করেও পড়া হয়। দুটিকেই তিনি বলেন সুপরিচিত কিরাআত। কুরতুবী পাঠককে পাঠিয়ে দেন সূরা আলে ইমরানে এ নাম নিয়ে তাঁর আলোচনায়। এরপর ইবন কাসীর ছোট্ট এক বাক্যে বলে দেন মানুষটি কে ছিলেন: বনী ইসরাঈলের নবীদের মধ্যে তিনি ছিলেন একজন মহান নবী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servant Before the Name",
+          "bn": "নামের আগে বান্দা পরিচয়"
+        },
+        "p": [
+          {
+            "en": "The order of the words is worth slowing down for. Before the verse says Zakariyya, it says 'abdahu, His servant, and the pronoun ties him back to rabbika, your Lord, a word earlier. At-Tabari's grammar makes the name an explanation of the servant: the relation comes first, and the name then tells you who holds it. No commentary fetched for this verse dwells on 'abd as a title of honour, so none is credited with that point.",
+            "bn": "শব্দগুলোর ক্রম একটু থেমে দেখার মতো। আয়াত যাকারিয়্যা বলার আগে বলে আবদাহু, তাঁর বান্দা। আর এই 'তাঁর' সর্বনাম তাঁকে বেঁধে দেয় ঠিক আগের শব্দ রাব্বিকা, তোমার রব, এর সঙ্গে। তাবারীর ব্যাকরণে নামটি বান্দা শব্দের ব্যাখ্যা। মানে সম্পর্কটা আসে আগে, আর নাম এসে জানায় সেই সম্পর্কের মানুষটি কে। এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আবদ শব্দকে সম্মানের উপাধি হিসেবে আলাদা করে ব্যাখ্যা করেনি। তাই সে কথা কারও নামে বলা হচ্ছে না।"
+          },
+          {
+            "en": "What as-Sa'di does say comes at the honour from another side. Allah, he writes, chose and selected Zakariyya, upon him be peace, for His message and singled him out with His revelation. Zakariyya carried it out as his fellow messengers did: he called the servants to their Lord, taught them what Allah had taught him, and gave them sincere counsel in his life and after his death, like his brothers among the messengers and those who followed them. The servant named here was one who also served.",
+            "bn": "সা'দী যা বলেন, তা এ সম্মানের কাছে পৌঁছায় অন্য দিক দিয়ে। তাঁর ভাষায়, আল্লাহ যাকারিয়্যা (আঃ)-কে বেছে নিয়েছিলেন, মনোনীত করেছিলেন তাঁর রিসালাতের জন্য, আর তাঁকে বিশেষভাবে দিয়েছিলেন তাঁর ওহী। যাকারিয়্যা (আঃ) সে দায়িত্ব পালন করেছেন অন্য রাসূলদের মতোই। বান্দাদের তিনি ডেকেছেন তাদের রবের দিকে, আল্লাহ তাঁকে যা শিখিয়েছিলেন তা তাদের শিখিয়েছেন, জীবদ্দশায় ও মৃত্যুর পরেও তাদের কল্যাণ চেয়েছেন, তাঁর রাসূল ভাইদের আর তাঁদের অনুসারীদের মতো। এখানে যাঁকে বান্দা বলা হলো, তিনি নিজেও ছিলেন সেবায় নিবেদিত একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prophet Who Worked Wood",
+          "bn": "কাঠের কাজ করা নবী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir adds a detail about his livelihood. His text names Sahih al-Bukhari for it and glosses it himself: Zakariyya used to eat from the work of his own hands, in carpentry. The wording that could be confirmed is in Sahih Muslim, number 2379, from Abu Hurayra, that the Messenger of Allah ﷺ said: Zakariyya was a carpenter. That is the whole hadith in Muslim's collection, which he included in his Sahih. The gloss about eating from his own earnings is Ibn Kathir's explanation, not part of the Prophet's words.",
+            "bn": "ইবন কাসীর তাঁর জীবিকা নিয়ে একটি তথ্য যোগ করেন। তাঁর লেখায় এর উৎস হিসেবে সহীহ বুখারীর নাম আছে, আর ব্যাখ্যাটা তিনি নিজেই দেন: যাকারিয়্যা (আঃ) কাঠমিস্ত্রির কাজ করে নিজের হাতের উপার্জন খেতেন। যে বর্ণনাটি মিলিয়ে নিশ্চিত করা গেছে, তা সহীহ মুসলিমে, ২৩৭৯ নম্বরে। আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: যাকারিয়্যা ছিলেন কাঠমিস্ত্রি। মুসলিমের সংকলনে হাদীসটি পুরো এটুকুই, আর তিনি এটি তাঁর সহীহ গ্রন্থে রেখেছেন। নিজের উপার্জন খাওয়ার কথাটা ইবন কাসীরের ব্যাখ্যা, নবী ﷺ-এর কথার অংশ নয়।"
+          },
+          {
+            "en": "Ibn Kathir returns to the point when he reaches 19:5 and 19:6. A carpenter who ate from his own earnings, he argues, would not usually have amassed wealth, and this is one of his reasons for reading the inheritance Zakariyya (AS) asked for as prophethood rather than property. For this verse the hadith does something simpler. The prophet whose story is about to be told under the word mercy was a working man who lived by his craft, and the title the verse gives him is servant.",
+            "bn": "১৯:৫ ও ১৯:৬ আয়াতে পৌঁছে ইবন কাসীর আবার কথাটায় ফেরেন। তাঁর যুক্তি, যে কাঠমিস্ত্রি নিজের উপার্জনে খান, তাঁর হাতে সাধারণত বিপুল সম্পদ জমে না। যাকারিয়্যা (আঃ) যে উত্তরাধিকার চেয়েছিলেন, তাকে সম্পদ নয়, নবুওয়াত বলে বোঝার পেছনে এটি তাঁর একটি কারণ। এ আয়াতের বেলায় হাদীসটির কাজ আরও সরল। যে নবীর কাহিনি এখনই রহমতের শিরোনামে বলা হবে, তিনি ছিলেন খেটে খাওয়া মানুষ, নিজের হাতের কাজে চলতেন। আর আয়াত তাঁকে যে উপাধি দেয়, তা হলো বান্দা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Call Nobody Overheard",
+          "bn": "যে ডাক কেউ শোনেনি"
+        },
+        "p": [
+          {
+            "en": "The next verse begins the story itself: idh nada rabbahu nida'an khafiyya, when he called to his Lord a hidden call. Why hidden? Al-Qurtubi says the commentators differed. One view: he hid it from his people so that he would not be blamed for asking for a child in old age, and because it was a worldly matter; if it were answered he would have what he wanted, and if not, no one would know. Others: he was sincere in it, with none but Allah aware; hidden deeds are better and further from showing off; it was secret from his people, in the depth of the night.",
+            "bn": "পরের আয়াতেই কাহিনির শুরু: ইয নাদা রাব্বাহু নিদাআন খাফিয়্যা, যখন তিনি তাঁর রবকে ডেকেছিলেন গোপন ডাকে। গোপনে কেন? কুরতুবী বলেন, তাফসীরকারদের মধ্যে মতভেদ আছে। একটি মত: তিনি কওমের কাছ থেকে দোয়াটা লুকিয়েছিলেন, যাতে বুড়ো বয়সে সন্তান চাওয়ার জন্য কেউ তাঁকে দোষ না দেয়। তা ছাড়া বিষয়টা ছিল দুনিয়াবি। কবুল হলে তিনি চাওয়াটা পেয়ে যাবেন, না হলে কেউ জানবেও না। অন্য মতগুলো: দোয়াটা ছিল খাঁটি, আল্লাহ ছাড়া কেউ জানতেন না। গোপন আমল উত্তম, লোক দেখানো থেকে দূরে। আর ডাকটা ছিল কওমের অগোচরে, গভীর রাতে।"
+          },
+          {
+            "en": "Al-Qurtubi calls all of these possible and the first the most apparent, and Allah knows best. Ibn Kathir records the first view in other words, from some commentators as al-Mawardi relates it: he hid his prayer so that, given his age, the request for a child would not be put down to foolishness. He then gives the second: he hid it because that is more beloved to Allah, with Qatada's comment on the verse. At-Tabari explains the secrecy as his dislike of showing off, and brings Ibn Jurayj: he did not want display.",
+            "bn": "কুরতুবী বলেন, সবগুলো মতই সম্ভব, তবে প্রথমটাই বেশি স্পষ্ট, আর আল্লাহই ভালো জানেন। ইবন কাসীর প্রথম মতটি আনেন অন্য ভাষায়, কিছু তাফসীরকার থেকে, মাওয়ার্দীর বর্ণনায়: বয়সের কারণে সন্তান চাওয়াটাকে কেউ যেন বোকামি বলে না ধরে, তাই তিনি দোয়া গোপন রেখেছিলেন। তারপর দ্বিতীয় মত: গোপন রেখেছিলেন, কারণ সেটাই আল্লাহর কাছে বেশি প্রিয়। সঙ্গে আয়াতটির ওপর কাতাদার মন্তব্যও আনেন। তাবারী গোপনীয়তার কারণ বলেন লোক দেখানোর প্রতি তাঁর অপছন্দ। সঙ্গে আনেন ইবন জুরাইজের কথা: তিনি লোক দেখাতে চাননি।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar both say he called in secret so that it would be more complete in sincerity, and the Muyassar adds: more hopeful of an answer. Al-Qurtubi draws a ruling from it: the verse is a plain text that quietness is the preferred way to supplicate, because Allah praised Zakariyya for it. None of these views finds fault in him; the blame, where it appears, is what people might have said. What he said in that call, in 19:4, has its own article.",
+            "bn": "সা'দী ও মুয়াসসার দুজনেই বলেন, তিনি গোপনে ডেকেছিলেন, যাতে ইখলাস হয় আরও পূর্ণ। মুয়াসসার যোগ করে: কবুলের আশাও তাতে বেশি। কুরতুবী এ থেকে একটি বিধান টানেন। তাঁর মতে আয়াতটি স্পষ্ট দলিল যে দোয়া চুপিচুপি করাই উত্তম, কারণ এ জন্য আল্লাহ যাকারিয়্যা (আঃ)-এর প্রশংসা করেছেন। এই মতগুলোর কোনোটিই তাঁর কোনো দোষ ধরে না। দোষারোপের কথা যেখানে এসেছে, তা লোকে কী বলতে পারত সেই প্রসঙ্গে। সেই ডাকে তিনি কী বলেছিলেন, তা ১৯:৪ আয়াতে, আর তার আলাদা লেখা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told So He Is Loved",
+          "bn": "ভালোবাসা জাগাতে বলা কাহিনি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives a reason for telling such stories at all. In setting out Allah's mercy to those close to Him, and the cause by which it reached them, there is something that calls to the love of Allah, to remembering Him often and knowing Him, and to the means that lead to Him. On that reading the verse is more than a heading. It is an invitation: here is how mercy came to one servant; look at the cause, and take the same road.",
+            "bn": "এমন কাহিনি কেন বলা হয়, সা'দী তার একটা কারণ দেখান। আল্লাহ তাঁর প্রিয় বান্দাদের প্রতি কীভাবে রহমত করেছেন, আর কোন কারণে সে রহমত তাদের কাছে পৌঁছেছে, তা খুলে বললে মানুষের মনে আল্লাহর প্রতি ভালোবাসা জাগে। তাঁকে বেশি বেশি স্মরণ করার আর চেনার টান তৈরি হয়, তাঁর কাছে পৌঁছানোর পথের দিকেও মন যায়। এভাবে দেখলে আয়াতটি শুধু শিরোনাম নয়, একটা দাওয়াত। একজন বান্দার কাছে রহমত এভাবে এসেছিল। কারণটা দেখুন, আর সেই পথ ধরুন।"
+          },
+          {
+            "en": "Beyond the carpenter report, no commentary fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. What remains is the shape of the sentence. Mercy is named before the prayer, the servant before his name, and the Lord before both. The reader of Surah Maryam meets the outcome first, so that every word of the hidden call that follows can be heard as the words of a man whose story was already titled mercy.",
+            "bn": "কাঠমিস্ত্রির বর্ণনাটি ছাড়া এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে আর কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও বলেনি। বাকি থাকে বাক্যটির গড়ন। দোয়ার আগে আসে রহমতের নাম, নামের আগে আসে বান্দা পরিচয়, আর দুটোরই আগে রব। সূরা মারইয়ামের পাঠক তাই ফলাফলটা আগে জেনে নেন। পরের গোপন ডাকের প্রতিটি কথা তখন শোনা যায় এমন এক মানুষের কথা হিসেবে, যাঁর কাহিনির শিরোনাম আগেই লেখা হয়ে গেছে: রহমত।"
+          }
+        ]
+      }
+    ]
+  },
   "19:4": {
     "sections": [
       {
