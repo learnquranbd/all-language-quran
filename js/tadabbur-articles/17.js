@@ -2471,6 +2471,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:64": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Reply to a Boast",
+          "bn": "দম্ভের জবাব"
+        },
+        "p": [
+          {
+            "en": "This verse is the second half of a reply. In 17:61 Iblis refuses to prostrate to one created from clay, and in 17:62 he boasts: if You delay me to the Day of Resurrection, I will bring his descendants under my sway, all but a few. 17:63 answers: Go, and whoever of them follows you, Hell is the recompense of you all, an ample recompense. Ibn Kathir reads that Go as the granting of respite, citing 38:80 and 38:81, where Iblis is given time until the appointed day.",
+            "bn": "এ আয়াত একটা জবাবের দ্বিতীয় অংশ। ১৭:৬১ আয়াতে ইবলীস মাটি থেকে তৈরি একজনকে সিজদা করতে অস্বীকার করে। ১৭:৬২ আয়াতে সে দম্ভ করে বলে: আপনি যদি আমাকে কিয়ামত পর্যন্ত অবকাশ দেন, তবে অল্প কয়েকজন ছাড়া তার বংশধরদের আমি কব্জা করে ফেলব। ১৭:৬৩ আয়াতে জবাব আসে: যাও, তাদের মধ্যে যে তোমার অনুসরণ করবে, জাহান্নামই তোমাদের সবার প্রতিফল, পূর্ণ প্রতিফল। ইবন কাসীর এই 'যাও' কথাটিকে অবকাশ মঞ্জুর করা হিসেবে পড়েন। প্রমাণ হিসেবে আনেন ৩৮:৮০ ও ৩৮:৮১ আয়াত, যেখানে ইবলীসকে নির্ধারিত দিন পর্যন্ত সময় দেওয়া হয়েছে।"
+          },
+          {
+            "en": "Then 17:64 sets out, in four commands, the means Iblis may use: his voice, his riders and men on foot, a partnership in wealth and children, and his promises. Ma'arif al-Qur'an reads the passage as Allah's answer to the boast: even if Shaytan rallied his entire forces, he would have no control over Allah's sincere servants, which is what 17:65 goes on to say. The verse in between is a picture of those forces, drawn so that they can be recognised.",
+            "bn": "তারপর ১৭:৬৪ আয়াত চারটি আদেশে সাজিয়ে দেয় ইবলীস কী কী উপায় কাজে লাগাতে পারে: তার আওয়াজ, তার অশ্বারোহী ও পদাতিক, সম্পদ ও সন্তানে অংশীদারি, আর তার প্রতিশ্রুতি। মাআরিফুল কুরআন পুরো অংশটিকে ওই দম্ভের জবাব হিসেবে পড়ে। শয়তান তার সব বাহিনী জড়ো করলেও আল্লাহর মুখলিস বান্দাদের উপর তার কোনো কর্তৃত্ব চলবে না, আর ১৭:৬৫ আয়াত ঠিক সেটাই বলে। মাঝখানের এ আয়াতটি সেই বাহিনীর ছবি, আঁকা হয়েছে যাতে তাকে চেনা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Commands That Are Warnings",
+          "bn": "হুকুমের আড়ালে হুমকি"
+        },
+        "p": [
+          {
+            "en": "Wa-stafziz: unsettle. At-Tabari glosses it as make light and make foolish, from the Arab saying that someone istafazza another into this or that. Al-Qurtubi gives make slip and make light, and traces the word to cutting: a garment is said to tafazzaza when it tears apart. The sense, he says, is to make a person slip by cutting him off from the truth. The Muyassar says simply: make light of them.",
+            "bn": "ওয়াসতাফযিয: টলিয়ে দাও। তাবারী এর অর্থ করেন হালকা করে ফেলা আর বোকা বানানো। আরবরা বলে, অমুক অমুককে এ কাজে ইসতাফাযযা করেছে, শব্দটা সেখান থেকে। কুরতুবীর ব্যাখ্যায় অর্থ পা পিছলে দেওয়া আর হালকা করা। শব্দের মূলে তিনি দেখান কেটে যাওয়া: কাপড় ছিঁড়ে আলাদা হলে বলা হয় তাফাযযাযা। তাঁর মতে ভাবটা হলো, মানুষকে সত্য থেকে কেটে আলাদা করে পিছলে দেওয়া। মুয়াসসার সোজা কথায় বলে: তাদের হালকা করে ফেলো।"
+          },
+          {
+            "en": "Why would Allah command Iblis to do any of this? Al-Baghawi raises the question himself: how can these things be said when Allah says He does not command indecency (7:28)? His answer is that the words come by way of threat, like do what you will in 41:40. Al-Qurtubi calls istafziz a command of challenge to his inability: you cannot lead anyone astray and have no authority over anyone, so do what you like. Later he adds: a threat to Shaytan, or contempt for him and his followers.",
+            "bn": "আল্লাহ কেন ইবলীসকে এসব করার আদেশ দেবেন? প্রশ্নটা বাগাভী নিজেই তোলেন। আল্লাহ তো বলেছেন তিনি অশ্লীলতার আদেশ দেন না (৭:২৮), তবে এসব কথা কীভাবে এল? তাঁর জবাব: এ কথাগুলো এসেছে হুমকি হিসেবে, যেমন ৪১:৪০ আয়াতে বলা হয়েছে, যা ইচ্ছা করো। কুরতুবী ইসতাফযিযকে বলেন অক্ষমতা দেখিয়ে দেওয়ার আদেশ: তুমি কাউকে পথভ্রষ্ট করতে পারো না, কারও উপর তোমার কর্তৃত্ব নেই, কাজেই যা খুশি করো। পরে তিনি যোগ করেন: এ আদেশ শয়তানের জন্য হুমকি, কিংবা তাকে ও তার অনুসারীদের তুচ্ছ করা।"
+          },
+          {
+            "en": "Ibn Kathir reads the same words differently. He calls them a command of decree, of the kind 19:83 describes: We have sent the devils against the disbelievers, driving them on. In his reading Allah lets Iblis loose to use every power he has. So al-Baghawi and al-Qurtubi hear a threat, and Ibn Kathir hears a decree that permits a trial. As-Sa'di's summary sits with the trial: what is meant, he says, is that Allah has tested His servants with this open enemy who calls them to disobedience by his words and his deeds.",
+            "bn": "ইবন কাসীর একই কথা পড়েন অন্যভাবে। তাঁর মতে এটি তাকদীরের আদেশ, ঠিক যেমন ১৯:৮৩ আয়াতে আছে: আমি কাফিরদের বিরুদ্ধে শয়তানদের ছেড়ে দিয়েছি, তারা তাদের উস্কে দেয়। তাঁর পাঠে আল্লাহ ইবলীসকে ছেড়ে দিচ্ছেন, যাতে সে তার সব ক্ষমতা খাটাতে পারে। অর্থাৎ বাগাভী ও কুরতুবী এখানে শোনেন হুমকি, আর ইবন কাসীর শোনেন এমন এক তাকদীর, যা একটা পরীক্ষার সুযোগ খুলে দেয়। সা'দীর সারকথা পরীক্ষার দিকেই: আসল উদ্দেশ্য হলো, আল্লাহ তাঁর বান্দাদের এই প্রকাশ্য দুশমন দিয়ে পরীক্ষা করেছেন, যে কথা ও কাজ দিয়ে তাদের আল্লাহর নাফরমানির দিকে ডাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Voice Is It?",
+          "bn": "আওয়াজটা কার?"
+        },
+        "p": [
+          {
+            "en": "Bi-sawtika: with your voice. At-Tabari says the interpreters differed over which voice is meant. Some said the sound of singing and play: Mujahid, in two reports through Layth, glosses it as amusement and singing, and as play and amusement. Others said it is his calling people to obey him and disobey Allah. Ibn 'Abbas, in the report through 'Ali ibn Abi Talhah, says his voice is every caller who calls to disobedience of Allah, and Qatadah says simply: by your calling.",
+            "bn": "বিসাওতিকা: তোমার আওয়াজ দিয়ে। তাবারী জানান, কোন আওয়াজ বোঝানো হয়েছে তা নিয়ে মুফাসসিরদের মতভেদ আছে। কেউ বলেছেন গান আর খেলাধুলার আওয়াজ। লাইসের সূত্রে মুজাহিদের দুটি বর্ণনায় এর অর্থ এসেছে আমোদ ও গান, আবার খেলা ও আমোদ। অন্যরা বলেছেন, এ হলো আল্লাহর নাফরমানি আর নিজের আনুগত্যের দিকে তার ডাক। আলী ইবন আবী তালহার বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, আল্লাহর নাফরমানির দিকে যে-ই ডাকে, সে-ই তার আওয়াজ। আর কাতাদা সংক্ষেপে বলেন: তোমার ডাক দিয়ে।"
+          },
+          {
+            "en": "The others record the same split. Al-Qurtubi gives Ibn 'Abbas's every caller, Mujahid's singing, pipes and amusement, ad-Dahhak's the sound of the pipe, and a further view, said without a name: your whispering. Al-Baghawi has Ibn 'Abbas and Qatadah on the call to disobedience and Mujahid on singing and pipes. At-Tabari then gives his own choice: Allah did not single out one voice, so every voice that calls to Iblis and his work, against the call to obey Allah, is included.",
+            "bn": "অন্য তাফসীরগুলোতেও একই ভাগ। কুরতুবী আনেন ইবন আব্বাস (রাঃ)-এর মত, যে-ই নাফরমানির দিকে ডাকে। মুজাহিদের মত: গান, বাঁশি আর আমোদ। দাহহাকের মত: বাঁশির আওয়াজ। আর নাম ছাড়া আরেকটি মত: তোমার ওয়াসওয়াসা দিয়ে। বাগাভীর কাছে ইবন আব্বাস (রাঃ) ও কাতাদা বলেন নাফরমানির দিকে ডাকের কথা, আর মুজাহিদ বলেন গান ও বাঁশির কথা। এরপর তাবারী নিজের মত দেন: আল্লাহ কোনো একটি আওয়াজকে আলাদা করে নির্দিষ্ট করেননি। কাজেই আল্লাহর আনুগত্যের ডাকের বিপরীতে যে আওয়াজই ইবলীস ও তার কাজের দিকে ডাকে, তা এর ভেতরে পড়ে।"
+          },
+          {
+            "en": "Because Mujahid names singing and pipes, the verse has a place in the long debate over music. Al-Qurtubi, in the sixth of his questions on this verse, says it points to the prohibition of pipes, singing and amusement on Mujahid's reading, and that whatever is of Shaytan's voice or deed should be avoided. At-Tabari, as above, keeps the voice general. This article reports what the commentators said and does not settle that question. What every one of their glosses shares is the call to disobey.",
+            "bn": "মুজাহিদ গান ও বাঁশির নাম নিয়েছেন বলে সংগীত নিয়ে দীর্ঘ বিতর্কে এ আয়াতের একটা জায়গা আছে। কুরতুবী এ আয়াতের ষষ্ঠ মাসআলায় বলেন, মুজাহিদের ব্যাখ্যা ধরলে আয়াতটি বাঁশি, গান ও আমোদ হারাম হওয়ার দিকে ইঙ্গিত করে, আর শয়তানের আওয়াজ বা কাজ যা কিছু, তা থেকে দূরে থাকা জরুরি। তাবারী, যেমনটা আগে এসেছে, আওয়াজকে ব্যাপক অর্থেই রাখেন। এ লেখা কেবল মুফাসসিরদের কথা তুলে ধরে, ওই প্রশ্নের মীমাংসা করে না। তাঁদের প্রতিটি ব্যাখ্যায় যা এক, তা হলো নাফরমানির দিকে ডাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Riders, Walkers and Clamour",
+          "bn": "সওয়ার, পদাতিক আর হইচই"
+        },
+        "p": [
+          {
+            "en": "Wa-ajlib 'alayhim: and rally against them. At-Tabari notes that ajlaba 'ala someone means to shout at him, and jalabah is noise; al-Qurtubi gives the root as driving animals with the driver's shouting, and ajlaba 'ala the enemy as gathering against them. Rajl is the plural of rajil, a man on foot, as sahb is of sahib. Hafs reads rajilika, with a kasrah, and al-Qurtubi and al-Baghawi call the two forms two dialects; al-Qurtubi records 'Ikrimah and Qatadah reading rijalika.",
+            "bn": "ওয়া আজলিব আলাইহিম: আর তাদের বিরুদ্ধে জড়ো হয়ে চড়াও হও। তাবারী জানান, কারও উপর আজলাবা মানে তার উপর চিৎকার করা, আর জালাবা মানে শোরগোল। কুরতুবীর মতে মূল অর্থ হাঁকডাক দিয়ে পশু তাড়িয়ে নেওয়া, আর শত্রুর উপর আজলাবা মানে তাদের বিরুদ্ধে দল জড়ো করা। রাজল হলো রাজিল, অর্থাৎ পায়ে হাঁটা লোকের বহুবচন, যেমন সাহিবের বহুবচন সাহব। হাফস পড়েন রাজিলিকা, জীমে যের দিয়ে। কুরতুবী ও বাগাভী বলেন দুটোই আরবির দুই রূপ। কুরতুবী আরও জানান, ইকরিমা ও কাতাদা পড়েছেন রিজালিকা।"
+          },
+          {
+            "en": "Who are these riders and walkers? Ibn 'Abbas, through 'Ali ibn Abi Talhah, says his horses are every rider in disobedience to Allah and his men every walker in it. Mujahid says whatever rider fights in disobedience to Allah is of Iblis's horses, and whatever man on foot in disobedience is of his men. Qatadah says he has horses and men from jinn and humans, those who obey him. Ma'arif al-Qur'an adds that this need not mean a literal cavalry, only his full force, though a literal force cannot be denied either.",
+            "bn": "এই সওয়ার আর পদাতিক কারা? আলী ইবন আবী তালহার বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, আল্লাহর নাফরমানিতে যে-ই সওয়ার হয়ে চলে সে তার ঘোড়সওয়ার, আর যে পায়ে হেঁটে চলে সে তার পদাতিক। মুজাহিদ বলেন, আল্লাহর নাফরমানিতে যে সওয়ার লড়াই করে সে ইবলীসের অশ্বারোহী, আর নাফরমানিতে যে পায়ে হেঁটে চলে সে তার পদাতিক। কাতাদা বলেন, জিন ও মানুষের মধ্যে তার সওয়ার ও পদাতিক আছে, তারা তার আনুগত্য করে। মাআরিফুল কুরআন যোগ করে, এর মানে আক্ষরিক অশ্বারোহী বাহিনী হওয়া জরুরি নয়, তার পুরো শক্তিও হতে পারে। তবে আক্ষরিক বাহিনী থাকলেও তা অস্বীকার করা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Partner in the Purse",
+          "bn": "টাকার থলিতে অংশীদার"
+        },
+        "p": [
+          {
+            "en": "Wa-sharik-hum fi l-amwal: share with them in wealth. Mujahid: wealth they took from other than its lawful source, and whatever they spent outside its right. 'Ata' ibn Abi Rabah: the share in riba. Al-Hasan: he commanded them to earn it from what is foul and spend it on what is forbidden, which Ibn Kathir also gives as Qatadah's view. Ibn 'Abbas, in the report through 'Ali ibn Abi Talhah: all wealth used in disobedience to Allah.",
+            "bn": "ওয়া শারিকহুম ফিল আমওয়াল: সম্পদে তাদের সঙ্গে অংশীদার হও। তাবারীর বর্ণনায় মুজাহিদ: যে সম্পদ তারা হালাল পথ ছাড়া অন্যভাবে পেয়েছে, আর যা তারা হকের বাইরে খরচ করেছে। আতা ইবন আবী রাবাহ: সুদের মধ্যে তার ভাগ। হাসান: শয়তান তাদের হুকুম দিয়েছে নোংরা পথে কামাতে আর হারাম পথে খরচ করতে। ইবন কাসীর এটাকে কাতাদারও মত বলেন। আর আলী ইবন আবী তালহার বর্ণনায় ইবন আব্বাস (রাঃ): আল্লাহর নাফরমানিতে লাগানো সব সম্পদ।"
+          },
+          {
+            "en": "Others tied it to the customs of the Arabs before Islam. Ibn 'Abbas, through al-'Awfi and through Abu Salih, says it is the livestock they forbade themselves, the bahirah, sa'ibah and wasilah, set apart for other than Allah, and Qatadah says the same. Ad-Dahhak says it is what they slaughtered to their gods. At-Tabari will not narrow it: every wealth in which Allah is disobeyed, by earning, spending, sacrifice or any other way, is a partnership with Iblis. As-Sa'di widens it to withholding zakat, expiations and other due rights.",
+            "bn": "অন্যরা একে জাহেলি যুগের আরব রীতির সঙ্গে মিলিয়েছেন। আওফী ও আবু সালিহের সূত্রে ইবন আব্বাস (রাঃ) বলেন, এ হলো সেসব গবাদিপশু, যা তারা নিজেদের জন্য হারাম করে নিয়েছিল: বাহীরা, সাইবা, ওয়াসীলা, যা আল্লাহ ছাড়া অন্যের নামে আলাদা করে রাখা হতো। কাতাদাও একই কথা বলেন। দাহহাক বলেন, তাদের দেবতাদের নামে যা জবাই হতো। তাবারী অর্থটাকে সংকীর্ণ করেন না। কামাই, খরচ, কুরবানি বা অন্য যেকোনোভাবে যে সম্পদে আল্লাহর নাফরমানি হয়, তা-ই ইবলীসের সঙ্গে অংশীদারি। সা'দী এর পরিধি আরও বাড়িয়ে আনেন যাকাত, কাফফারা আর অন্যান্য প্রাপ্য হক আটকে রাখা পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Share in the Children",
+          "bn": "সন্তানে তার ভাগ"
+        },
+        "p": [
+          {
+            "en": "Wal-awlad: and children. Here too at-Tabari records a spread. Ibn 'Abbas through al-'Awfi, Mujahid through several chains, and ad-Dahhak say children born of zina, ad-Dahhak adding that he means the people of shirk. Ibn 'Abbas, through 'Ali ibn Abi Talhah, says the children they killed and the forbidden things they did to them. Al-Hasan and Qatadah say they raised them as Magians, Jews and Christians, dyed in other than the dye of Islam. Ibn 'Abbas, through Abu Salih, says the names: 'Abd al-Harith, 'Abd Shams, 'Abd so-and-so.",
+            "bn": "ওয়াল আওলাদ: আর সন্তানে। এখানেও তাবারী নানা মত তুলে ধরেন। আওফীর সূত্রে ইবন আব্বাস (রাঃ), কয়েক সূত্রে মুজাহিদ, আর দাহহাক বলেন: যিনার মাধ্যমে জন্ম নেওয়া সন্তান। দাহহাক যোগ করেন, এতে মুশরিকদের বোঝানো হয়েছে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন: যে সন্তানদের তারা হত্যা করেছে, আর তাদের ব্যাপারে যেসব হারাম কাজ করেছে। হাসান ও কাতাদা বলেন: তারা তাদের অগ্নিপূজক, ইহুদি ও খ্রিস্টান বানিয়ে বড় করেছে, ইসলামের রঙ ছাড়া অন্য রঙে রাঙিয়েছে। আবু সালিহের সূত্রে ইবন আব্বাস (রাঃ) বলেন: নাম। আবদুল হারিস, আবদু শামস, আবদু অমুক।"
+          },
+          {
+            "en": "At-Tabari again takes them all. Every child concerning whom Allah was disobeyed, by a name Allah dislikes, by being brought into a religion other than that which He approved, by zina with the mother, by being killed or buried alive, or anything else, falls under this sharing. Ibn Kathir calls that view sound and says each of the early scholars explained a part of the sharing. As-Sa'di adds failing to discipline children and raise them on good. Ma'arif al-Qur'an, relaying al-Qurtubi, adds raising them on unlawful income.",
+            "bn": "তাবারী এবারও সব মত একসঙ্গে নেন। যে সন্তানের ব্যাপারে আল্লাহর নাফরমানি হয়েছে, আল্লাহ অপছন্দ করেন এমন নাম রেখে, তাঁর মনোনীত দ্বীন ছাড়া অন্য ধর্মে ঢুকিয়ে, তার মায়ের সঙ্গে যিনা করে, তাকে হত্যা করে বা জীবন্ত কবর দিয়ে, কিংবা অন্য যেকোনোভাবে, সবই এই অংশীদারির মধ্যে পড়ে। ইবন কাসীর এ মতকে যথার্থ বলেন। তাঁর ভাষায়, সালাফের প্রত্যেকে অংশীদারির একেকটা দিক ব্যাখ্যা করেছেন। সা'দী যোগ করেন সন্তানকে আদব না শেখানো আর ভালোর উপর গড়ে না তোলা। মাআরিফুল কুরআন কুরতুবীর বরাতে যোগ করে হারাম উপার্জনে তাদের লালনপালন।"
+          },
+          {
+            "en": "One thing must be clear. At-Tabari's wording places the partnership with the one who disobeyed Allah in the child or through him; the child is where the wrong was done, not the one who did it. The same surah says no bearer of burdens bears another's burden (17:15). These glosses describe practices the commentators named in their own times. They license nothing against any child, whatever the circumstances of his birth, and nothing against any living person or community. The question they leave is the parent's own.",
+            "bn": "একটা কথা পরিষ্কার থাকা দরকার। তাবারীর ভাষায় অংশীদারিটা তার, যে সন্তানের ব্যাপারে বা সন্তানকে দিয়ে আল্লাহর নাফরমানি করেছে। সন্তান সেখানে অন্যায়ের শিকার, অন্যায়কারী নয়। একই সূরায় আল্লাহ বলেছেন, কোনো বোঝা বহনকারী অন্যের বোঝা বইবে না (১৭:১৫)। এসব ব্যাখ্যা সেই রীতিগুলোর বর্ণনা, যা মুফাসসিররা তাঁদের সময়ে চিহ্নিত করেছেন। জন্মের পরিস্থিতি যা-ই হোক, কোনো সন্তানের বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধেও না। এগুলো যে প্রশ্ন রেখে যায়, তা মা-বাবার নিজের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Said Beforehand",
+          "bn": "আগেভাগে নেওয়া নাম"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reports that many commentators also place under this sharing the leaving of Allah's name at eating, drinking and intimacy: when Allah is not named, Shaytan takes part, as the hadith says. Ibn Kathir cites the narration from the two Sahihs. In al-Bukhari's wording (5165), from Ibn 'Abbas, the Prophet ﷺ said: If one of them, when he comes to his wife, were to say, In the name of Allah; O Allah, keep Satan away from me, and keep Satan away from what You provide us, and then it is decreed between them in that, or a child is ordained, no devil will ever harm him.",
+            "bn": "সা'দী জানান, বহু মুফাসসির এ অংশীদারির মধ্যে আরও ধরেছেন খাওয়া, পান করা ও স্ত্রী-সহবাসের সময় আল্লাহর নাম না নেওয়া। আল্লাহর নাম না নিলে শয়তান তাতে শরিক হয়ে যায়, যেমনটা হাদীসে এসেছে। ইবন কাসীর বর্ণনাটি দুই সহীহ গ্রন্থ, বুখারী ও মুসলিমের বরাতে উল্লেখ করেন। বুখারীর ভাষ্যে (৫১৬৫), ইবন আব্বাস (রাঃ)-এর সূত্রে, নবী ﷺ বলেছেন: তাদের একজন যদি স্ত্রীর কাছে যাওয়ার সময় বলে, বিসমিল্লাহ, হে আল্লাহ, আমাকে শয়তান থেকে দূরে রাখুন, আর আমাদের আপনি যা দান করবেন তা থেকে শয়তানকে দূরে রাখুন, তারপর সে মিলনে তাদের জন্য সন্তান নির্ধারিত হয়, কিংবা ফয়সালা হয়, তবে কোনো শয়তান কখনো তার ক্ষতি করতে পারবে না।"
+          },
+          {
+            "en": "The narration is in al-Bukhari's Sahih. It does not mention this verse; the link to the sharing in children is the commentators', not the hadith's. Al-Qurtubi and al-Baghawi relay further reports about jinn taking part in intercourse; none of these is confirmed here from a sound collection, and they are left aside. What remains is small and practical: the share Iblis reaches for can be closed off with a name said beforehand.",
+            "bn": "বর্ণনাটি সহীহ বুখারীতে আছে। এতে এ আয়াতের কোনো উল্লেখ নেই। সন্তানে অংশীদারির সঙ্গে এর সম্পর্ক মুফাসসিরদের জোড়া, হাদীসের নিজের নয়। কুরতুবী ও বাগাভী সহবাসে জিনের অংশ নেওয়া নিয়ে আরও কিছু বর্ণনা আনেন। এগুলোর কোনোটিই এখানে কোনো সহীহ সংকলন থেকে নিশ্চিত করা যায়নি, তাই বাদ রাখা হলো। যা থাকে, তা ছোট ও কাজের কথা: যে ভাগে ইবলীস হাত বাড়ায়, আগেভাগে আল্লাহর নাম নিয়ে সে পথ বন্ধ করা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Falsehood Made to Glitter",
+          "bn": "চকচকে মিথ্যার প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "Wa 'id-hum: and make them promises. At-Tabari says the promise is to his followers of victory over anyone who means them harm, and it is empty because he can avail them nothing against Allah's punishment when it comes. Al-Qurtubi gives false hopes: that there is no resurrection and no reckoning, and that if there is a Garden and a Fire, you are more deserving of the Garden than others. Al-Baghawi has two: promise them good for obeying you, or tell them there is no Garden, no Fire and no raising.",
+            "bn": "ওয়া ইদহুম: আর তাদের প্রতিশ্রুতি দাও। তাবারী বলেন, অনুসারীদের সে কথা দেয়, যে তাদের ক্ষতি করতে চাইবে তার বিরুদ্ধে সাহায্য মিলবে। এ প্রতিশ্রুতি ফাঁপা, কারণ আল্লাহর আযাব যখন নেমে আসে, তখন সে তাদের কোনো কাজেই আসে না। কুরতুবী বলেন মিথ্যা আশার কথা: কিয়ামত নেই, হিসাব নেই, আর জান্নাত-জাহান্নাম যদি থেকেও থাকে, জান্নাতের হকদার অন্যদের চেয়ে তোমরাই বেশি। বাগাভী দুটি মত দেন: তার আনুগত্যের বিনিময়ে তাদের ভালো কিছুর আশ্বাস দাও, কিংবা তাদের বলো, জান্নাত নেই, জাহান্নাম নেই, পুনরুত্থানও নেই।"
+          },
+          {
+            "en": "Then Allah's own comment: wa ma ya'iduhumu sh-shaytanu illa ghurura, and Satan promises them nothing but delusion. Al-Baghawi defines ghurur as adorning falsehood with what makes it seem true. As-Sa'di calls it falsehood that fades away, as when Shaytan makes sins and corrupt beliefs look fine and promises reward for them, so that people think themselves in the right. The same clause closes 4:120, and at-Tabari here, as there, points to 14:22, where Shaytan disowns his promises on the Day itself.",
+            "bn": "এরপর আল্লাহর নিজের মন্তব্য: ওয়া মা ইয়াইদুহুমুশ শাইতানু ইল্লা গুরূরা, শয়তান তাদের যে প্রতিশ্রুতি দেয় তা ধোঁকা ছাড়া কিছু নয়। বাগাভী গুরূরের সংজ্ঞা দেন এভাবে: মিথ্যাকে এমনভাবে সাজানো, যাতে তা সত্য মনে হয়। সা'দীর ভাষায় এ এমন মিথ্যা যা মিলিয়ে যায়। যেমন শয়তান গুনাহ আর ভ্রান্ত বিশ্বাসকে সুন্দর করে দেখায়, তার উপর সওয়াবেরও আশ্বাস দেয়, ফলে মানুষ ভাবে সে ঠিক পথেই আছে। ঠিক এই বাক্যেই ৪:১২০ আয়াত শেষ হয়েছে। সেখানের মতো এখানেও তাবারী দেখিয়ে দেন ১৪:২২ আয়াত, যেখানে সেই দিনে শয়তান নিজেই তার প্রতিশ্রুতি অস্বীকার করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Learning to Hear Him",
+          "bn": "তার আওয়াজ চিনতে শেখা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's rule on the voice turns the verse into a test anyone can carry: every voice that calls to Iblis and his work, against the call to obey Allah, belongs to him. Read inward: his voice rarely announces itself. It can arrive as a friend's suggestion, a screen, a crowd, or one's own thought, and the test is not where it comes from but where it calls. The next verse says that over Allah's servants he has no authority; the work of this verse is learning to hear him before following.",
+            "bn": "আওয়াজ নিয়ে তাবারীর নিয়মটা আয়াতটিকে এমন এক কষ্টিপাথর বানিয়ে দেয়, যা যে কেউ সঙ্গে রাখতে পারে। আল্লাহর আনুগত্যের ডাকের বিপরীতে যে আওয়াজই ইবলীস ও তার কাজের দিকে ডাকে, তা তারই আওয়াজ। নিজের ভেতরের দিকে তাকিয়ে পড়লে বোঝা যায়, এ আওয়াজ খুব কমই নিজের পরিচয় দিয়ে আসে। আসতে পারে বন্ধুর পরামর্শ হয়ে, একটা পর্দা হয়ে, ভিড়ের হইচই হয়ে, কিংবা নিজেরই কোনো ভাবনা হয়ে। পরখের বিষয় সেটা কোথা থেকে এল তা নয়, কোন দিকে ডাকছে সেটা। পরের আয়াত বলে, আল্লাহর বান্দাদের উপর তার কোনো কর্তৃত্ব নেই। এ আয়াতের কাজ হলো, পিছু নেওয়ার আগেই তাকে চিনে ফেলা।"
+          },
+          {
+            "en": "The rest of the list gives the same kind of check. Wealth: how was this earned, how will it be spent, and has the zakat gone out? Children: what names, what faith and what habits are they receiving from me? Intimacy and meals: was Allah named first? And the promises: as-Sa'di's gloss suggests asking whether a thought is promising reward for what Allah has forbidden. If it is, the verse has already said what that promise is worth.",
+            "bn": "তালিকার বাকি অংশও একই রকম যাচাইয়ের সুযোগ দেয়। সম্পদ: এটা কীভাবে কামানো, কীভাবে খরচ হবে, যাকাত কি বের হয়েছে? সন্তান: আমার কাছ থেকে তারা কোন নাম, কোন দ্বীন, কোন অভ্যাস পাচ্ছে? সহবাস আর খাবার: শুরুতে কি আল্লাহর নাম নেওয়া হয়েছে? আর প্রতিশ্রুতি: সা'দীর ব্যাখ্যা থেকে একটা প্রশ্ন উঠে আসে। মনের কোনো ভাবনা কি আল্লাহর হারাম করা কাজের জন্য সওয়াবের আশ্বাস দিচ্ছে? যদি দেয়, সে প্রতিশ্রুতির দাম কত, আয়াত আগেই বলে দিয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:70": {
     "sections": [
       {

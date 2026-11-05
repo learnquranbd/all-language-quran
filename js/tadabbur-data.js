@@ -22671,6 +22671,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not wait for a bigger sign; take every warning as a call to turn back to Allah while the door is still open.",
     "lessonBn": "আরও বড় নিদর্শনের অপেক্ষায় থাকবেন না। দরজা খোলা থাকতেই প্রতিটি সতর্কবাণীকে আল্লাহর দিকে ফিরে আসার ডাক হিসেবে গ্রহণ করুন।"
+  },
+  "17:64": {
+    "reflectionEn": "Iblis has just boasted that he will bring the children of Adam under his control, all but a few. The reply is not an argument. It is a list: unsettle whom you can with your voice, rally your riders and foot soldiers against them, share with them in their wealth and their children, and make them promises. Then the verse says what all of it comes to: Satan promises them nothing but delusion. Read slowly, the list looks like a map of an ordinary day. Which voice moved me today? Which money did I earn or spend in a way he could count as his? What did my children learn from me without my meaning it? And which of his promises am I still waiting on?",
+    "reflectionBn": "ইবলীস এইমাত্র দম্ভ করে বলেছে, অল্প কয়েকজন ছাড়া আদমের সন্তানদের সে নিজের কব্জায় নিয়ে আসবে। জবাবে কোনো যুক্তিতর্ক নেই। আছে একটা তালিকা: তোমার আওয়াজ দিয়ে যাকে পারো টলিয়ে দাও, তোমার অশ্বারোহী আর পদাতিক নিয়ে তাদের উপর চড়াও হও, তাদের ধনসম্পদ আর সন্তানে ভাগ বসাও, আর তাদের প্রতিশ্রুতি দাও। তারপর আয়াত জানিয়ে দেয় এ সবের শেষ পরিণতি: শয়তান তাদের যে প্রতিশ্রুতি দেয়, তা ধোঁকা ছাড়া কিছু নয়। ধীরে পড়লে তালিকাটা যেন সাধারণ একটা দিনের নকশা। আজ কোন আওয়াজ আমাকে টলিয়েছে? কোন টাকা আমি এমনভাবে কামিয়েছি বা খরচ করেছি, যাতে সে নিজের ভাগ দাবি করতে পারে? না চাইতেই আমার সন্তানেরা আমার কাছ থেকে কী শিখল? আর তার কোন প্রতিশ্রুতির আশায় আমি এখনো বসে আছি?",
+    "pointsEn": [
+      "Which voice in my day most easily pulls me off what I know is right, and when did I last recognise it as his?",
+      "Is there money in my hands, in how I earned it or how I spend it, in which he could claim a share?",
+      "What are my children learning from me about Allah, in the names I choose, the habits I keep and the faith they watch me live?",
+      "Which of his promises am I still leaning on: that there is time later, that this one does not count, that it will all work out?",
+      "Do I say Allah's name at the start of the very things he wants a share in?"
+    ],
+    "pointsBn": [
+      "আমার দিনের কোন আওয়াজটা সবচেয়ে সহজে আমাকে জানা সঠিক পথ থেকে সরিয়ে দেয়? শেষ কবে আমি সেটাকে তার আওয়াজ বলে চিনতে পেরেছি?",
+      "আমার হাতে কি এমন টাকা আছে, কামানোর ধরনে বা খরচের ধরনে, যাতে সে ভাগ দাবি করতে পারে?",
+      "আমার সন্তানেরা আমার কাছ থেকে আল্লাহ সম্পর্কে কী শিখছে? আমার রাখা নামে, আমার অভ্যাসে, আর তাদের চোখের সামনে আমি যে দ্বীন যাপন করি তাতে?",
+      "তার কোন প্রতিশ্রুতির উপর আমি এখনো ভর দিয়ে আছি? পরে অনেক সময় আছে, এবারেরটা ধরা হবে না, সব ঠিক হয়ে যাবে?",
+      "যেসব কাজে সে ভাগ বসাতে চায়, সেগুলোর শুরুতেই কি আমি আল্লাহর নাম নিই?"
+    ],
+    "lessonEn": "Learn to recognise Satan's voice, keep his share out of your wealth and your children, and do not lean on his promises: they end in nothing but delusion.",
+    "lessonBn": "শয়তানের আওয়াজ চিনতে শিখুন, আপনার সম্পদ ও সন্তানে তার ভাগ ঢুকতে দেবেন না, আর তার প্রতিশ্রুতির উপর ভরসা করবেন না: তার শেষ শুধুই ধোঁকা।"
   }
 };
 
