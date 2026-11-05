@@ -1627,6 +1627,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:48-49": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Four Warnings, a Sight",
+          "bn": "চার সতর্কবাণীর পর এক দৃশ্য"
+        },
+        "p": [
+          {
+            "en": "The three verses before this one hold a warning over those who plotted evil deeds: the earth might swallow them, punishment might reach them from where they do not sense it, or they might be seized in their comings and goings, or while they live in dread. Then 16:47 closes on mercy: your Lord is Kind, Merciful. Verse 48 does not add a fifth threat. It asks a question instead, a-wa-lam yaraw, have they not seen, and points at something lying on the ground in front of everyone.",
+            "bn": "এর আগের তিনটি আয়াতে যারা মন্দ কাজের চক্রান্ত করেছিল, তাদের মাথার উপর সতর্কবাণী ঝুলছে। জমিন তাদের গিলে নিতে পারে। এমন দিক থেকে আজাব আসতে পারে, যা তারা টেরও পাবে না। চলাফেরার মাঝখানে, কিংবা ভয়ে ভয়ে দিন কাটানোর সময় তাদের পাকড়াও করা হতে পারে। তারপর ১৬:৪৭ শেষ হয় রহমতের কথায়: তোমাদের রব অবশ্যই দয়ার্দ্র, পরম দয়ালু। ৪৮ নম্বর আয়াত পঞ্চম কোনো হুমকি যোগ করে না। বরং একটা প্রশ্ন তোলে, আওয়া লাম ইয়ারাও, তারা কি দেখেনি? আর ইশারা করে এমন এক জিনিসের দিকে, যা সবার চোখের সামনে মাটিতে পড়ে আছে।"
+          },
+          {
+            "en": "The reciters differ over the verb. Al-Baghawi and al-Qurtubi report that Hamza and al-Kisa'i read it with ta, have you not seen, which al-Qurtubi takes as address to all people. The rest read ya, a report about the plotters. At-Tabari and al-Qurtubi both prefer ya, at-Tabari because the passage is telling their story and goes straight on to how they turned from Allah's proof and His signs.",
+            "bn": "এই ক্রিয়াপদের পাঠ নিয়ে কারীদের মধ্যে ভিন্নতা আছে। বাগাভী ও কুরতুবী জানান, হামযা ও কিসাঈ পড়েছেন তা দিয়ে, অর্থাৎ 'তোমরা কি দেখোনি'। কুরতুবী একে সব মানুষের প্রতি সম্বোধন হিসেবে নেন। বাকিরা পড়েছেন ইয়া দিয়ে, চক্রান্তকারীদের সম্পর্কে খবর হিসেবে। তাবারী ও কুরতুবী দুজনেই ইয়া-র পাঠ পছন্দ করেন। তাবারীর যুক্তি, আলোচনাটা তাদেরই কাহিনি বলছে, আর এরপরই আসছে আল্লাহর প্রমাণ ও নিদর্শন থেকে তাদের মুখ ফিরিয়ে নেওয়ার কথা।"
+          },
+          {
+            "en": "As-Sa'di names the audience as those who doubt the oneness of their Lord, His greatness and His perfection. The Muyassar puts the question sharply: have these disbelievers gone blind, that they do not look? The verse describes people of its own time who plotted against the message and shut their eyes to it. It licenses nothing against any person or community living now. Its question is for every reader to put to himself first, before turning it on anyone else.",
+            "bn": "সা'দী শ্রোতাদের পরিচয় দেন এভাবে: যারা তাদের রবের একত্ব, মহত্ত্ব ও পূর্ণতা নিয়ে সন্দেহে আছে। মুয়াসসার প্রশ্নটা আরও ধারালো করে বলে: এই কাফেররা কি অন্ধ হয়ে গেছে যে তাকিয়েও দেখে না? আয়াতটি বর্ণনা করছে সেই যুগের কিছু মানুষের কথা, যারা দাওয়াতের বিরুদ্ধে চক্রান্ত করেছিল আর তা থেকে চোখ বন্ধ করে রেখেছিল। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এর প্রশ্নটা বরং প্রত্যেক পাঠক আগে নিজেকেই করবেন, অন্যের দিকে ঘোরানোর আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whatever Stands and Casts Shade",
+          "bn": "যা দাঁড়িয়ে আছে, যার ছায়া পড়ে"
+        },
+        "p": [
+          {
+            "en": "Min shay', of any thing, is a wide phrase, and the commentators narrow it to what the verse needs. Al-Qurtubi, citing Ibn 'Abbas, explains it as a standing body that has a shadow, a tree or a mountain, though all things in any case hear and obey Allah. At-Tabari and al-Baghawi give the same gloss. The sign is chosen for its plainness: nobody goes through a sunlit day without a shadow at their feet.",
+            "bn": "মিন শাই, যেকোনো জিনিস, কথাটা অনেক বিস্তৃত। তাফসীরকারেরা একে আয়াতের প্রয়োজন পর্যন্ত সংকুচিত করে আনেন। কুরতুবী ইবন আব্বাস (রাঃ)-এর বরাতে বলেন, এর মানে দাঁড়িয়ে থাকা এমন দেহ যার ছায়া আছে, যেমন গাছ বা পাহাড়। যদিও এমনিতেও সব জিনিসই আল্লাহর কথা শোনে ও মানে। তাবারী ও বাগাভীর ব্যাখ্যাও একই। নিদর্শনটা বাছা হয়েছে তার সহজলভ্যতার জন্য। রোদেলা দিনে পায়ের কাছে ছায়া ছাড়া কেউ দিন কাটায় না।"
+          },
+          {
+            "en": "Then yatafayya'u zilaluhu, its shadows turn. Ibn 'Abbas, in at-Tabari's report, glosses it as tatamayyal, they lean. At-Tabari describes the movement: the shade lies one way at the start of the day, contracts, then comes back another way at its end. Al-Qurtubi and al-Baghawi explain the root: the afternoon shade is called fay' because it fa'a, returned, from west to east. Al-Qurtubi hears the same word in 49:9: until it returns to the command of Allah.",
+            "bn": "তারপর ইয়াতাফাইয়াউ যিলালুহু, তার ছায়াগুলো ঘুরে যায়। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) এর অর্থ করেন তাতামাইয়াল, হেলে পড়ে। তাবারী নড়াচড়াটা খুলে বলেন। দিনের শুরুতে ছায়া এক অবস্থায় থাকে, তারপর গুটিয়ে আসে, দিনের শেষে আবার অন্য অবস্থায় ফেরে। কুরতুবী ও বাগাভী শব্দমূলটা ব্যাখ্যা করেন। বিকেলের ছায়াকে ফাই বলা হয়, কারণ তা পশ্চিম থেকে পূর্বে ফা-আ, অর্থাৎ ফিরে আসে। কুরতুবী একই শব্দ শোনেন ৪৯:৯ আয়াতে: যতক্ষণ না তা আল্লাহর হুকুমের দিকে ফিরে আসে।"
+          },
+          {
+            "en": "The Muyassar adds the night. Things that have a shadow, like mountains and trees, have their shade lean now right, now left, following the sun by day and the moon by night, all of it humbled before its Lord's greatness, under His subjugation and control. The verse points at what anyone can watch, not at angles to be measured. Its demand is smaller and harder: to look at a thing seen a thousand times and, for once, see it as a sign.",
+            "bn": "মুয়াসসার রাতের কথাও যোগ করে। পাহাড়, গাছ, যেসব জিনিসের ছায়া আছে, তাদের ছায়া কখনো ডানে, কখনো বামে হেলে পড়ে। দিনে সূর্যের সঙ্গে, রাতে চাঁদের সঙ্গে। আর সবই রবের মহত্ত্বের সামনে বিনীত, তাঁর নিয়ন্ত্রণ ও পরিচালনার অধীন। আয়াতটি ইশারা করে এমন জিনিসের দিকে, যা যে কেউ দেখতে পারে, কোণ মাপার দিকে নয়। এর দাবি তার চেয়ে ছোট, আবার কঠিনও: হাজারবার দেখা জিনিসের দিকে তাকিয়ে অন্তত একবার তাকে নিদর্শন হিসেবে দেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Right and Many Lefts",
+          "bn": "ডান একবচনে, বাম বহুবচনে"
+        },
+        "p": [
+          {
+            "en": "The verse says 'an al-yamini wa-sh-shama'il: from the right, in the singular, and from the lefts, in the plural. At-Tabari explains the pairing through the word ma at the head of the clause, whose form is singular and whose meaning is plural. So al-yamin follows the form, the right of what He created, and ash-shama'il follows the meaning, the lefts of all those many things. Al-Baghawi gives the same account, with the right going back to ma and the lefts to its sense.",
+            "bn": "আয়াতে আছে আনিল ইয়ামীনি ওয়াশ শামাইল: ডান থেকে, একবচনে, আর বামগুলো থেকে, বহুবচনে। তাবারী জোড়াটা ব্যাখ্যা করেন বাক্যের শুরুর মা শব্দ দিয়ে। শব্দটার গঠন একবচনের, কিন্তু অর্থ বহুবচনের। তাই আল-ইয়ামীন গেছে শব্দের গঠনের দিকে, মানে যা তিনি সৃষ্টি করেছেন তার ডান। আর আশ-শামাইল গেছে অর্থের দিকে, মানে সেই অসংখ্য জিনিসের বাম দিকগুলো। বাগাভীও একই কথা বলেন: ডান ফেরে মা-র দিকে, বাম ফেরে তার অর্থের দিকে।"
+          },
+          {
+            "en": "Al-Qurtubi starts elsewhere. Al-yamin, he says, though singular, carries a plural meaning, and any pairing would have been sound Arabic, the rights and the lefts, or the right and the left, because the sense is of many. He then names an Arab habit: when two markers meet in one thing, they pluralise one and keep the other singular. His examples are 2:7, upon their hearts and upon their hearing, and 2:257, out of the darknesses into the light. Al-Baghawi cites the same two verses for the same habit.",
+            "bn": "কুরতুবী শুরু করেন অন্য জায়গা থেকে। তাঁর মতে আল-ইয়ামীন একবচন হলেও এর অর্থ বহুবচনের। যেকোনো জোড়াই আরবিতে শুদ্ধ হতো, ডানগুলো ও বামগুলো, কিংবা ডান ও বাম, কারণ বোঝানো হচ্ছে অনেককে। তারপর তিনি আরবদের এক রীতির কথা বলেন। একই জিনিসে দুটি চিহ্ন একসঙ্গে এলে তারা একটাকে বহুবচন করে, অন্যটাকে একবচনে রাখে। তাঁর উদাহরণ ২:৭, তাদের অন্তরসমূহে ও তাদের শ্রবণে, আর ২:২৫৭, অন্ধকাররাশি থেকে আলোর দিকে। বাগাভীও এই রীতির জন্য একই দুই আয়াত আনেন।"
+          },
+          {
+            "en": "At-Tabari also relays a grammarian's reason: most speech is one person facing another, as in take to your right, so the singular goes back to one of the group. He cites poetry that uses a singular where a plural was meant. Al-Qurtubi records a further view under 'it is said': face the qibla at sunrise and the shade spreads to your right, then moves left through state after state, hence shama'il in the plural.",
+            "bn": "তাবারী এক ব্যাকরণবিদের যুক্তিও তুলে ধরেন। বেশির ভাগ কথা হয় একজনের সঙ্গে আরেকজনের মুখোমুখি, যেমন বলা হয়, তোমার ডানে ধরো। তাই একবচনটা দলের একজনের দিকে ফেরে। তিনি এমন কবিতাও আনেন, যেখানে বহুবচনের জায়গায় একবচন বসেছে। কুরতুবী 'বলা হয়' বলে আরেকটি মত লেখেন। সূর্য ওঠার সময় কিবলামুখী হয়ে দাঁড়ালে ছায়া ছড়ায় আপনার ডানে। তারপর ধাপে ধাপে, এক অবস্থা থেকে আরেক অবস্থায়, বাম দিকে সরে যায়। সেই কারণে বাম এসেছে শামাইল, বহুবচনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Morning Shade, Evening Shade",
+          "bn": "সকালের ছায়া, বিকেলের ছায়া"
+        },
+        "p": [
+          {
+            "en": "What do the right and the left stand for? Qatada, in at-Tabari's report and again in al-Baghawi, says the right is the first part of the day and the left its last part. Ibn Jurayj, as at-Tabari reports him, reads it as the mornings and the late afternoons: when the shadows of everything turn in the morning they prostrate to Allah, and when they turn in the evening they prostrate to Allah. Ad-Dahhak says the shadows prostrate from early morning until the shade turns, and then prostrate again until night.",
+            "bn": "ডান আর বাম আসলে কী বোঝায়? তাবারীর বর্ণনায় এবং বাগাভীতেও কাতাদা বলেন, ডান মানে দিনের প্রথম ভাগ, বাম মানে দিনের শেষ ভাগ। তাবারী ইবন জুরাইজের ব্যাখ্যা আনেন সকাল ও বিকেল হিসেবে। সকালে যখন সব জিনিসের ছায়া ঘোরে, তারা আল্লাহকে সিজদা করে। বিকেলে যখন ঘোরে, তখনো আল্লাহকে সিজদা করে। দাহহাক বলেন, ভোর থেকে ছায়া ঘুরে যাওয়া পর্যন্ত ছায়াগুলো আল্লাহকে সিজদা করে। তারপর আবার সিজদা করে রাত নামা পর্যন্ত।"
+          },
+          {
+            "en": "Ibn Kathir compresses it: right and left means morning and evening. On the next verse he sets beside it the wording of 13:15: to Allah prostrates whoever is in the heavens and the earth, willingly or unwillingly, and their shadows in the mornings and the late afternoons. Two surahs, then, carry the same picture of shade at both ends of the day. Mujahid adds a moment inside the day: when the sun passes its zenith, everything prostrates to Allah. Ibn Kathir notes that Qatada, ad-Dahhak and others said the same.",
+            "bn": "ইবন কাসীর সংক্ষেপে বলেন: ডান ও বাম মানে সকাল ও সন্ধ্যা। পরের আয়াতের আলোচনায় তিনি এর পাশে রাখেন ১৩:১৫ আয়াতের ভাষ্য: আসমান ও জমিনে যে আছে, সে ইচ্ছায় হোক বা অনিচ্ছায়, আল্লাহকেই সিজদা করে, আর তাদের ছায়াগুলোও, সকালে ও বিকেলে। তাহলে দুটি সূরায় একই ছবি পাওয়া গেল: দিনের দুই প্রান্তে ছায়া। মুজাহিদ দিনের ভেতরের একটা মুহূর্তের কথাও বলেন। সূর্য যখন মাথার উপর থেকে হেলে পড়ে, তখন সবকিছু আল্লাহকে সিজদা করে। ইবন কাসীর জানান, কাতাদা, দাহহাক ও আরও অনেকে একই কথা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Doing the Bowing?",
+          "bn": "সিজদা করছে আসলে কে?"
+        },
+        "p": [
+          {
+            "en": "Here at-Tabari records a genuine disagreement over sujjadan lillah, prostrating to Allah. Some said the shadow of each thing is its prostration; that is Qatada, and ad-Dahhak in one report adds that the believer's shadow prostrates willingly and the disbeliever's unwillingly. Others said the things themselves prostrate, turning right and left, and that this is other than their shadows. A third group said the shadows alone prostrate, not what casts them, which at-Tabari gives to Mujahid through Ibn Jurayj.",
+            "bn": "সুজ্জাদান লিল্লাহ, আল্লাহর উদ্দেশে সিজদারত, এই কথাটা নিয়ে তাবারী সত্যিকারের একটা মতভেদ লিপিবদ্ধ করেন। কেউ বলেছেন, প্রতিটি জিনিসের ছায়াই তার সিজদা। এটা কাতাদার মত। এক বর্ণনায় দাহহাক যোগ করেন, মুমিনের ছায়া সিজদা করে স্বেচ্ছায়, কাফেরের ছায়া অনিচ্ছায়। অন্যরা বলেছেন, সিজদা করে জিনিসগুলো নিজেরাই, ডানে-বামে ঘুরে ঘুরে, আর তা তাদের ছায়া থেকে আলাদা। তৃতীয় দল বলেছেন, সিজদা করে শুধু ছায়াগুলো, ছায়া যার সে নয়। তাবারী এ মত ইবন জুরাইজের সূত্রে মুজাহিদের বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "At-Tabari then gives his own preference: Allah reports in this verse that it is the shadows of things that prostrate, and their prostration is their leaning and turning from side to side, as Ibn 'Abbas said. He grounds it in usage. The Arabs say a palm tree sajadat when it leans, and a camel sajada when it is made to lower itself for riding. Al-Qurtubi relays az-Zajjaj on another line: the prostration of a body is its compliance and the trace of craftsmanship seen in it, and that holds for every body.",
+            "bn": "এরপর তাবারী নিজের পছন্দের মত জানান। আল্লাহ এ আয়াতে জানাচ্ছেন, সিজদা করে জিনিসগুলোর ছায়া। আর তাদের সিজদা হলো এক পাশ থেকে আরেক পাশে হেলে পড়া ও ঘুরে যাওয়া, যেমনটা ইবন আব্বাস (রাঃ) বলেছেন। এর ভিত্তি তিনি দেখান ভাষার ব্যবহারে। খেজুরগাছ হেলে পড়লে আরবরা বলে, সাজাদাত। উটকে চড়ার জন্য নিচু করানো হলে বলে, সাজাদা। কুরতুবী যাজ্জাজের ভিন্ন এক ব্যাখ্যা আনেন। তাঁর মতে দেহের সিজদা হলো তার আনুগত্য, আর তার মধ্যে চোখে পড়া কারিগরের ছাপ। আর এ কথা খাটে প্রতিটি দেহের বেলায়।"
+          },
+          {
+            "en": "Ibn Kathir gives Mujahid another line: the prostration of everything is within it, the mountains' too. Abu Ghalib ash-Shaybani said the waves of the sea are its prayer. Al-Baghawi, on the next verse, gathers three more readings: sujud as obedience, since heaven and earth said we come willingly (41:11); as being subjected to what each thing was made for; or as the Maker's visible mark, which calls the heedless to prostrate when they reflect (41:53). The commentators leave these side by side, and so does this article.",
+            "bn": "ইবন কাসীর মুজাহিদের আরেকটি কথা আনেন: প্রতিটি জিনিসের সিজদা তার নিজের মধ্যেই, পাহাড়েরও। আবু গালিব শায়বানী বলেছেন, সাগরের ঢেউই তার নামাজ। বাগাভী পরের আয়াতের আলোচনায় আরও তিনটি ব্যাখ্যা একত্র করেন। এক, সিজদা মানে আনুগত্য, কেননা আসমান ও জমিন বলেছিল, আমরা স্বেচ্ছায় এলাম (৪১:১১)। দুই, যে কাজের জন্য যাকে বানানো হয়েছে, তার কাছে বশীভূত হয়ে থাকা। তিন, স্রষ্টার চোখে পড়া ছাপ, যা ভাবলে গাফেল মানুষকেও সিজদার দিকে ডাকে (৪১:৫৩)। তাফসীরকারেরা এগুলো পাশাপাশি রেখে দেন, এ লেখাও তা-ই করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought Low, Spoken of as Knowing",
+          "bn": "নত, তবু বোধসম্পন্নের ভাষায়"
+        },
+        "p": [
+          {
+            "en": "The verse ends wa hum dakhirun, while they are humbled. Mujahid and Qatada, in at-Tabari's chains, gloss it as saghirun, brought low. At-Tabari explains the verb: a man dakhara to Allah when he is abased before Him and submits. Al-Qurtubi defines ad-dukhur as smallness and abasement, and quotes a line of verse to show the usage.",
+            "bn": "আয়াতটি শেষ হয় ওয়া হুম দাখিরূন দিয়ে, আর তারা বিনীত। তাবারীর সনদে মুজাহিদ ও কাতাদা এর অর্থ করেন সাগিরূন, হীন ও নত। তাবারী ক্রিয়াটা বুঝিয়ে বলেন: কেউ আল্লাহর সামনে অপদস্থ হয়ে মাথা নোয়ালে বলা হয়, সে দাখারা করেছে। কুরতুবী আদ-দুখূরের সংজ্ঞা দেন ক্ষুদ্রতা ও হীনতা হিসেবে, আর ব্যবহার দেখাতে একটা কবিতার পঙক্তি উদ্ধৃত করেন।"
+          },
+          {
+            "en": "As-Sa'di fills the word with content: abased under His subjection, management and dominance, not one of them but that its forelock is in Allah's hand. Ibn Kathir notices the grammar. Hum, they, and the plural of dakhirun belong to beings with reason, yet the subject is shadows, trees and mountains. The verse, he explains, gives them the standing of those who understand, since it has attributed prostration to them.",
+            "bn": "সা'দী শব্দটার ভেতরে অর্থ ভরে দেন। তারা তাঁর নিয়ন্ত্রণ, পরিচালনা ও আধিপত্যের নিচে নত। তাদের এমন একজনও নেই, যার কপালের চুল আল্লাহর হাতে নয়। ইবন কাসীর নজর দেন ব্যাকরণে। হুম, তারা, আর দাখিরূন-এর বহুবচনের রূপ সাধারণত বোধসম্পন্ন সত্তার জন্য বসে। অথচ এখানে কর্তা ছায়া, গাছ আর পাহাড়। তাঁর ব্যাখ্যা, আয়াত এদের বোধসম্পন্নের মর্যাদায় বসিয়েছে, কারণ সিজদার কাজটা এদের দিকেই সম্পর্কিত করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Creature, Then the Angels",
+          "bn": "সব প্রাণী, তারপর ফেরেশতারা"
+        },
+        "p": [
+          {
+            "en": "Verse 49 widens the frame: wa lillahi yasjudu ma fi s-samawati wa ma fi l-ard, to Allah prostrates whatever is in the heavens and whatever is on the earth. At-Tabari glosses yasjudu as submitting and yielding to His command. Al-Baghawi asks why the verse says ma, what, rather than man, who: because things without reason outnumber those with it, and the ruling goes to the larger share, as the masculine is made to cover the feminine. The word set first is lillah, to Allah, and the Muyassar makes the restriction explicit: to Allah alone.",
+            "bn": "৪৯ নম্বর আয়াত দৃষ্টির পরিধি বাড়িয়ে দেয়: ওয়া লিল্লাহি ইয়াসজুদু মা ফিস সামাওয়াতি ওয়া মা ফিল আরদ, আসমানে যা আছে আর জমিনে যা আছে, সবই আল্লাহকে সিজদা করে। তাবারী ইয়াসজুদু-র অর্থ করেন তাঁর হুকুমের কাছে নত হওয়া ও আত্মসমর্পণ করা। বাগাভী প্রশ্ন তোলেন, আয়াতে মান, যে, না বলে মা, যা, কেন বলা হলো। উত্তর দেন, বোধহীন জিনিসের সংখ্যা বোধসম্পন্নদের চেয়ে বেশি, আর বিধান চলে বেশির ভাগের হিসাবে। যেমন পুংলিঙ্গ দিয়ে স্ত্রীলিঙ্গকেও ধরা হয়। আয়াতের শুরুতেই বসানো লিল্লাহ, আল্লাহর জন্য। মুয়াসসার সীমাটা খুলে বলে: একমাত্র আল্লাহকেই।"
+          },
+          {
+            "en": "Min dabbah, of creatures, names what moves. Al-Qurtubi takes it as everything that creeps upon the earth; as-Sa'di as animals, those that speak and those that are mute. At-Tabari records two grammarians on that min: a Basran said a single creature is named in place of all, and a Kufan that min explains the open-ended ma. Then the verse makes its turn: wa-l-mala'ikatu, and the angels.",
+            "bn": "মিন দাব্বাহ, প্রাণীর মধ্য থেকে, কথাটা চলমান সবকিছুকে বোঝায়। কুরতুবী এর অর্থ নেন জমিনে চলাফেরা করে এমন সবকিছু। সা'দী বলেন প্রাণী, যারা কথা বলে আর যারা নির্বাক। এই মিন নিয়ে তাবারী দুই ব্যাকরণবিদের মত উল্লেখ করেন। বসরার একজন বলেছেন, সবার বদলে একটি প্রাণীর নাম নেওয়া হয়েছে। কুফার একজন বলেছেন, মিন এসেছে অনির্দিষ্ট মা-কে ব্যাখ্যা করতে। তারপর আয়াত মোড় নেয়: ওয়াল মালাইকাতু, আর ফেরেশতারা।"
+          },
+          {
+            "en": "Why name the angels when the heavens already hold them? The Muyassar and as-Sa'di answer alike: they are singled out after the general for their merit, honour and abundant worship. Al-Qurtubi gives that reason too, comparing 55:68, where palms and pomegranates follow fruit. He and al-Baghawi add two more: angels have wings and so fall outside what creeps; or the verse means angels in the heavens and creatures on earth. At-Tabari reads the angels as those in the heavens, al-Qurtubi as those on earth.",
+            "bn": "আসমানে তো ফেরেশতারা আছেনই, তবু আলাদা করে তাদের নাম কেন? মুয়াসসার ও সা'দীর উত্তর একই: সাধারণ কথার পর তাদের আলাদা করে আনা হয়েছে তাদের মর্যাদা, সম্মান আর বিপুল ইবাদতের কারণে। কুরতুবীও এ কারণ দেন, আর তুলনা টানেন ৫৫:৬৮ আয়াতের সঙ্গে, যেখানে ফলের পর খেজুর ও ডালিমের নাম আলাদা এসেছে। তিনি ও বাগাভী আরও দুটি কারণ যোগ করেন। এক, ফেরেশতাদের ডানা আছে, তাই তারা চলাফেরা করা প্রাণীর দলে পড়েন না। দুই, আয়াতের অর্থ আসমানের ফেরেশতা আর জমিনের প্রাণী। তাবারীর মতে এখানে আসমানের ফেরেশতারা, কুরতুবীর মতে জমিনের ফেরেশতারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mighty, Many, and Not Proud",
+          "bn": "শক্তিমান, অগণিত, তবু অহংকারহীন"
+        },
+        "p": [
+          {
+            "en": "The verse closes wa hum la yastakbirun, and they are not arrogant. At-Tabari: not too proud to humble themselves before Him in obedience. Ibn Kathir: not too proud to worship Him. As-Sa'di stresses the scale, despite their great number, mighty make and strength, and cites 4:172: never would the Messiah disdain to be a servant of Allah, nor would the angels brought near. Al-Qurtubi hears in it an answer to Quraysh, who claimed the angels were Allah's daughters.",
+            "bn": "আয়াতটি শেষ হয় ওয়া হুম লা ইয়াসতাকবিরূন দিয়ে, আর তারা অহংকার করে না। তাবারীর ব্যাখ্যা: আনুগত্যের মাধ্যমে তাঁর সামনে নত হতে তারা অহংকার করে না। ইবন কাসীরের ব্যাখ্যা: তাঁর ইবাদত করতে তারা অহংকার করে না। সা'দী জোর দেন পরিমাণের উপর। সংখ্যায় এত বেশি, গঠনে এত বিশাল, এত শক্তিশালী হয়েও তাদের অহংকার নেই। তিনি ৪:১৭২ আয়াত আনেন: মসীহ (আঃ) আল্লাহর বান্দা হতে কখনো অবজ্ঞা করবেন না, নৈকট্যপ্রাপ্ত ফেরেশতারাও না। কুরতুবী এতে কুরাইশের দাবির জবাব শোনেন, যারা ফেরেশতাদের আল্লাহর কন্যা বলত।"
+          },
+          {
+            "en": "The surah has used this root before. In 16:22 those who do not believe in the Hereafter have hearts that deny, wa hum mustakbirun, and they are arrogant. Here the same word returns, negated, for the angels. The sentence runs on into 16:50, they fear their Lord above them and do what they are commanded, which Ibn Kathir reads as prostrating in fear and awe of Him. As-Sa'di there divides prostration in two: one of compulsion, common to every creature, believer or denier, and one of choice, kept for His believing servants.",
+            "bn": "এই সূরায় শব্দমূলটা আগেও এসেছে। ১৬:২২ আয়াতে যারা আখেরাতে ঈমান আনে না, তাদের অন্তর অস্বীকার করে, ওয়া হুম মুসতাকবিরূন, আর তারা অহংকারী। এখানে একই শব্দ ফিরে এসেছে, তবে না-বাচক রূপে, ফেরেশতাদের জন্য। বাক্যটা গড়িয়ে যায় ১৬:৫০ আয়াতে: তারা তাদের উপরে থাকা রবকে ভয় করে, আর যা আদেশ করা হয় তা-ই করে। ইবন কাসীর এর অর্থ করেন, তারা তাঁর ভয়ে কম্পিত হয়ে সিজদা করে। সা'দী সেখানে সিজদাকে দুই ভাগে ভাগ করেন। এক, বাধ্যতার সিজদা, যা মুমিন-কাফের নির্বিশেষে প্রতিটি সৃষ্টির। দুই, পছন্দের সিজদা, যা তাঁর মুমিন বান্দাদের জন্য নির্দিষ্ট।"
+          },
+          {
+            "en": "In the mushaf the prostration sign ۩ stands at the end of 16:50, so whoever recites these verses reaches a place where the forehead goes down. The commentaries fetched for 16:48 and 16:49 do not discuss it, and none attaches a hadith to either verse; the articles on 22:18 and 84:21 treat recitation-prostration. What stays is the plain sight. The shadow bowed all day without choosing. The reader can choose, and the angels show how: with nothing held back out of pride.",
+            "bn": "মুসহাফে সিজদার চিহ্ন ۩ বসানো আছে ১৬:৫০ আয়াতের শেষে। তাই এ আয়াতগুলো যিনি তিলাওয়াত করেন, তিনি এমন জায়গায় পৌঁছান যেখানে কপাল মাটিতে নামে। ১৬:৪৮ ও ১৬:৪৯ আয়াতের যেসব তাফসীর এখানে দেখা হয়েছে, সেগুলো এ নিয়ে আলোচনা করেনি। কোনোটিই এই দুই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তিলাওয়াতের সিজদা নিয়ে কথা আছে ২২:১৮ ও ৮৪:২১ আয়াতের লেখায়। যা থেকে যায়, তা সেই সাদামাটা দৃশ্য। ছায়াটা সারাদিন সিজদা করেছে, বেছে নেওয়ার সুযোগ ছাড়াই। পাঠক বেছে নিতে পারেন। আর কীভাবে, তা ফেরেশতারা দেখিয়ে দেন: অহংকারে কিছুই আটকে না রেখে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:53": {
     "sections": [
       {

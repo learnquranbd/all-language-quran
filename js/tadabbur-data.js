@@ -22451,6 +22451,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Make amends with Allah now, while repentance is still asked of you; on the Day the witnesses speak, no excuse is heard and no return is given.",
     "lessonBn": "আল্লাহর সঙ্গে সম্পর্ক এখনই ঠিক করে নিন, যখন তওবার সুযোগ দেওয়া হচ্ছে। যেদিন সাক্ষীরা কথা বলবেন, সেদিন কোনো অজুহাত শোনা হবে না, ফিরে আসারও সুযোগ থাকবে না।"
+  },
+  "16:48-49": {
+    "reflectionEn": "Stand outside on a clear day and watch a tree. In the morning its shadow lies long to one side, it draws in as the day climbs, and by evening it stretches out on the other side. The Qur'an asks people who had turned away from its signs to look at exactly this: every standing thing leaning its shade right and left, bowing to Allah, humbled. Then the view widens. Every creature in the heavens and on the earth bows, and the angels too, and they are not too proud. The tree never chose its bowing. I can choose mine. Do I give my prostration as fully as the shadow beside me gives its own, or does something in me still hold back?",
+    "reflectionBn": "পরিষ্কার একটা দিনে বাইরে দাঁড়িয়ে একটা গাছের দিকে তাকিয়ে থাকুন। সকালে তার ছায়া এক দিকে লম্বা হয়ে পড়ে থাকে। বেলা বাড়লে ছায়া গুটিয়ে আসে, আর বিকেলের দিকে আবার অন্য দিকে ছড়িয়ে যায়। যারা কুরআনের নিদর্শন থেকে মুখ ফিরিয়ে নিয়েছিল, কুরআন তাদের ঠিক এই দৃশ্যটাই দেখতে বলে: দাঁড়িয়ে থাকা প্রতিটি জিনিসের ছায়া ডানে-বামে হেলে পড়ছে, আল্লাহকে সিজদা করছে, বিনীত হয়ে। তারপর দৃষ্টি আরও প্রশস্ত হয়। আসমান ও জমিনের প্রতিটি প্রাণী সিজদা করে, ফেরেশতারাও করে, আর তারা অহংকার করে না। গাছটা নিজে বেছে নিয়ে সিজদা করেনি। আমি আমারটা বেছে নিতে পারি। পাশের ছায়াটা যতখানি পুরোপুরি নিজের সিজদা দিয়ে দেয়, আমিও কি ততখানি দিই? নাকি ভেতরের কিছু একটা এখনো পিছিয়ে থাকে?",
+    "pointsEn": [
+      "When did I last stop at something ordinary, a shadow on a wall or a tree in a yard, and let it turn my thoughts to Allah?",
+      "The angels, mighty and many, are not too proud to worship. What small pride of mine stands between me and a prayer, an apology or an admission?",
+      "Does my humility before Allah end when the prayer ends, or does some of it move with me through the day, the way the shade moves?",
+      "Which sign do I walk past every day because I have seen it too often to notice it?",
+      "When my forehead touches the ground, is my heart lowered with it?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি সাধারণ কিছুর সামনে থেমেছি, দেয়ালে পড়া ছায়া বা উঠোনের একটা গাছ, আর সেটাকে আমার ভাবনা আল্লাহর দিকে ফিরিয়ে দিতে দিয়েছি?",
+      "ফেরেশতারা এত শক্তিশালী, সংখ্যায় এত বেশি, তবু ইবাদতে তাদের অহংকার নেই। আমার কোন ছোট্ট অহংকার আমাকে একটা নামাজ, একটা ক্ষমা চাওয়া বা একটা দোষ স্বীকার থেকে আটকে রাখে?",
+      "নামাজ শেষ হতেই কি আল্লাহর সামনে আমার বিনয়ও শেষ হয়ে যায়? নাকি ছায়ার মতো তার কিছুটা সারাদিন আমার সঙ্গে চলে?",
+      "কোন নিদর্শনের পাশ দিয়ে আমি রোজ হেঁটে যাই, শুধু এত বেশি দেখেছি বলে আর চোখেই পড়ে না?",
+      "সিজদায় যখন কপাল মাটি ছোঁয়, আমার অন্তরও কি তার সঙ্গে নত হয়?"
+    ],
+    "lessonEn": "Shadows, creatures and angels all bow to Allah. Give your own prostration willingly, and let no pride hold you back from worshipping Him.",
+    "lessonBn": "ছায়া, প্রাণী আর ফেরেশতা সবাই আল্লাহকে সিজদা করে। আপনিও নিজের সিজদা খুশিমনে দিন, আর কোনো অহংকার যেন তাঁর ইবাদত থেকে আপনাকে আটকে না রাখে।"
   }
 };
 
