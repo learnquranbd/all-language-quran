@@ -21371,6 +21371,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah judges no one before His message reaches them, and it has reached you. Live by what you were told, for the judgment will be just.",
     "lessonBn": "বার্তা পৌঁছানোর আগে আল্লাহ কাউকে বিচার করেন না, আর আপনার কাছে তা পৌঁছে গেছে। যা জানানো হয়েছে সে অনুযায়ী চলুন, কারণ ফায়সালা হবে ন্যায়ের সঙ্গে।"
+  },
+  "10:54": {
+    "reflectionEn": "Picture owning everything on the earth, every coin, field and house, and handing all of it over for one way out. The verse says a soul that did wrong would do that, if it had it. It does not say the offer would be taken. Then it turns to faces as the punishment comes into view: regret held back behind them, or spilling out because nothing can be held back any more. After that comes judgement, in justice, and no one is wronged. The price that buys nothing there is enormous; the price asked here is a turning back while regret still counts. What am I holding onto that I would give away in a moment on that Day? And what keeps me from loosening my grip on it today?",
+    "reflectionBn": "ভাবুন, পৃথিবীর সব কিছু আপনার: প্রতিটি মুদ্রা, প্রতিটি জমি, প্রতিটি ঘর। আর একটুখানি বাঁচার পথের জন্য আপনি সবটুকু দিয়ে দিচ্ছেন। আয়াত বলছে, যুলম করেছে এমন প্রাণের হাতে এসব থাকলে সে ঠিক তা-ই করত। কিন্তু সেই দান কবুল হবে, এ কথা আয়াত বলে না। তারপর আয়াতের চোখ যায় চেহারাগুলোর দিকে, যখন শাস্তি চোখের সামনে এসে দাঁড়ায়। অনুশোচনা কোথাও চেপে রাখা, কোথাও আর চেপে রাখা যায় না বলে উপচে পড়া। এরপর ন্যায়ের সঙ্গে ফায়সালা, কারও উপর যুলম নেই। সেখানে বিশাল দামও কিছু কিনতে পারে না। এখানে যে দাম চাওয়া হচ্ছে তা কেবল ফিরে আসা, যতক্ষণ অনুশোচনার মূল্য আছে। কোন জিনিস আমি আঁকড়ে আছি, যা সেদিন এক মুহূর্তে দিয়ে দিতাম? আর আজ তার উপর থেকে মুঠি একটু আলগা করতে আমাকে কী আটকে রাখছে?",
+    "pointsEn": [
+      "If everything I own were gone tomorrow, what would I still have that counts before Allah?",
+      "Is there a regret I keep private because admitting it would cost me face before people who look up to me?",
+      "What am I spending my years and money on that I would gladly hand back on that Day?",
+      "Do I believe a wrong I have done can still be put right while I live, and have I started?",
+      "When I picture a judgement in which no one is wronged at all, does it frighten me, comfort me, or both?"
+    ],
+    "pointsBn": [
+      "কাল যদি আমার সব সম্পদ হারিয়ে যায়, তবু আল্লাহর কাছে মূল্য আছে এমন কী আমার কাছে থাকবে?",
+      "এমন কোনো অনুশোচনা কি আছে যা আমি গোপন রাখি, কারণ স্বীকার করলে যারা আমাকে মান্য করে তাদের সামনে মুখ ছোট হবে?",
+      "কোন জিনিসের পেছনে আমি বছরের পর বছর আর টাকাপয়সা ঢালছি, যা সেদিন খুশিমনে ফিরিয়ে দিতে চাইতাম?",
+      "আমি কি বিশ্বাস করি, বেঁচে থাকতেই আমার করা অন্যায় শুধরে নেওয়া যায়? আর শুধরানো কি শুরু করেছি?",
+      "যে বিচারে কারও উপর এতটুকু যুলম হবে না, তার কথা ভাবলে আমার ভয় লাগে, ভরসা লাগে, নাকি দুটোই?"
+    ],
+    "lessonEn": "Nothing you own can ransom you on that Day. Turn back now, while regret can still become repentance and the price asked is only your return.",
+    "lessonBn": "সেদিন আপনার কোনো সম্পদ আপনাকে ছাড়িয়ে আনতে পারবে না। এখনই ফিরে আসুন, যতক্ষণ অনুশোচনা তওবায় বদলাতে পারে আর দাম হিসেবে চাওয়া হচ্ছে শুধু আপনার ফিরে আসা।"
   }
 };
 

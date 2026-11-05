@@ -1731,6 +1731,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:54": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Oath",
+          "bn": "কসমের ঠিক পরেই"
+        },
+        "p": [
+          {
+            "en": "A few verses earlier, in 10:48, the deniers asked mata hadha al-wa'd, when is this promise? The answer runs through 10:49 to 10:52: every nation has its term, the punishment may come by night or by day, and belief offered once it has fallen is met with one word, al-an, now? In 10:53 they ask whether it is true, and the Messenger ﷺ is told to answer on oath: yes, by my Lord, it is the truth. This verse follows straight on, and shows what that truth looks like when it arrives.",
+            "bn": "কয়েক আয়াত আগে, ১০:৪৮ আয়াতে, অস্বীকারকারীরা জানতে চেয়েছিল: মাতা হাযাল ওয়া'দ, এই প্রতিশ্রুতি কবে? জবাব চলেছে ১০:৪৯ থেকে ১০:৫২ পর্যন্ত। প্রত্যেক জাতির জন্য নির্দিষ্ট সময় আছে। শাস্তি রাতে আসতে পারে, দিনেও আসতে পারে। আর শাস্তি নেমে আসার পর যে ঈমান আনা হয়, তার জবাব একটি শব্দ: আল-আন, এখন? ১০:৫৩ আয়াতে তারা জিজ্ঞেস করে, এটা কি সত্য? রাসূল ﷺ-কে কসম করে জবাব দিতে বলা হয়: হ্যাঁ, আমার রবের কসম, এটা সত্য। এই আয়াত ঠিক তার পরেই আসে। সেই সত্য যখন সামনে এসে দাঁড়াবে, তখন দৃশ্যটা কেমন হবে, আয়াত তা দেখায়।"
+          },
+          {
+            "en": "The verse has twenty-one words and four movements. First comes a condition that can never be met: wa law anna li-kulli nafsin zalamat ma fi al-ard, if every soul that did wrong owned all that is in the earth, la-iftadat bihi, it would offer it as ransom. Then a scene: wa asarru an-nadama lamma ra'awu al-'adhab, they kept, or showed, their regret when they saw the punishment. Then a verdict: wa qudiya baynahum bi-l-qist, judgement was given between them in justice. Last, a guarantee: wa hum la yuzlamun, and they are not wronged.",
+            "bn": "আয়াতে একুশটি শব্দ, আর তার চারটি ধাপ। প্রথমে এমন এক শর্ত, যা কখনো পূরণ হওয়ার নয়: ওয়া লাও আন্না লিকুল্লি নাফসিন যালামাত মা ফিল আরদ, যুলম করেছে এমন প্রত্যেক প্রাণ যদি পৃথিবীর সব কিছুর মালিক হত, লাফতাদাত বিহী, তবে মুক্তিপণ হিসেবে সবটাই দিয়ে দিত। তারপর একটি দৃশ্য: ওয়া আসাররুন নাদামাতা লাম্মা রাআউল আযাব, শাস্তি দেখে তারা অনুশোচনা গোপন করল, অথবা প্রকাশ করল। তারপর রায়: ওয়া কুদিয়া বাইনাহুম বিলকিসত, ন্যায়ের সঙ্গে তাদের মাঝে ফায়সালা হল। শেষে একটি নিশ্চয়তা: ওয়া হুম লা ইউযলামূন, তাদের উপর যুলম করা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Wrong Is Meant",
+          "bn": "কোন যুলমের কথা"
+        },
+        "p": [
+          {
+            "en": "Nafsin zalamat: a soul that did wrong. The commentators take the wrong here to be the gravest kind, and they name it in slightly different ways. At-Tabari glosses it as a soul that disbelieved in Allah, and then defines its zulm in this place: its worship of one who has no right to be worshipped, and its leaving the obedience of the One whose obedience was due. Al-Qurtubi and al-Baghawi both gloss zalamat as ashrakat, it associated partners with Allah; al-Qurtubi adds wa kafarat, and disbelieved, and the Muyassar says the same.",
+            "bn": "নাফসিন যালামাত: যুলম করেছে এমন প্রাণ। তাফসীরকারদের মতে এখানে যুলম মানে সবচেয়ে বড় যুলম, যদিও প্রত্যেকে তা একটু ভিন্নভাবে বলেন। তাবারী বলেন, এ সেই প্রাণ যে আল্লাহকে অস্বীকার করেছে। তারপর তিনি এই জায়গায় যুলমের সংজ্ঞা দেন। যে ইবাদতের হকদার নয় তার ইবাদত করা, আর যাঁর আনুগত্য করা ফরজ ছিল তাঁর আনুগত্য ছেড়ে দেওয়া। কুরতুবী ও বাগাভী দুজনেই যালামাত-এর অর্থ করেন আশরাকাত, অর্থাৎ সে আল্লাহর সঙ্গে শরিক করেছে। কুরতুবী সঙ্গে যোগ করেন ওয়া কাফারাত, আর কুফরি করেছে। মুয়াসসারও একই কথা বলে।"
+          },
+          {
+            "en": "As-Sa'di draws the line a little wider: a soul that wronged bi-l-kufr wa-l-ma'asi, by disbelief and by acts of disobedience. The other texts keep to shirk and disbelief, and the difference is left visible. Notice also a turn in the Arabic grammar. The verse begins with a single soul, kull nafs, and its verb zalamat is singular; with asarru the verb becomes plural. The offer is pictured soul by soul, each alone with what it would hand over. The regret is pictured as a crowd.",
+            "bn": "সা'দী সীমাটা একটু বড় করে টানেন: যে প্রাণ যুলম করেছে বিলকুফরি ওয়াল মাআসী, কুফরি দিয়ে এবং নাফরমানি দিয়ে। এই আয়াতের জন্য সংগৃহীত বাকি তাফসীরগুলো শিরক ও কুফরিতেই থেমে থাকে। তাই পার্থক্যটা সত্যিকারের, আর এখানে তা খোলা রাখা হল। আরবি ব্যাকরণের একটা মোড়ও লক্ষ করার মতো। আয়াত শুরু হয় একক প্রাণ দিয়ে, কুল্লু নাফস, আর তার ক্রিয়া যালামাত একবচন। আসাররূ-তে এসে ক্রিয়া হয়ে যায় বহুবচন। মুক্তিপণের প্রস্তাবের ছবি আঁকা হয় প্রাণ ধরে ধরে, প্রত্যেকে একা, নিজের দেওয়ার জিনিস হাতে নিয়ে। আর অনুশোচনার ছবি আঁকা হয় এক ভিড়ের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Whole Earth, Still Refused",
+          "bn": "গোটা পৃথিবী দিয়েও না"
+        },
+        "p": [
+          {
+            "en": "Ma fi al-ard: all that is in the earth. At-Tabari adds min qalil aw kathir, whether little or much, and says the soul would ransom itself with all of it from the punishment of Allah once it saw that punishment with its own eyes. As-Sa'di names the contents: gold, silver and everything else. Al-Qurtubi reads it as possession, mulkan, as though the whole earth were the soul's property. Al-Baghawi defines the act itself: al-iftida' here is handing over that by which a person would be saved from the punishment.",
+            "bn": "মা ফিল আরদ: পৃথিবীতে যা কিছু আছে। তাবারী যোগ করেন মিন কালীলিন আও কাসীর, অল্প হোক বা বেশি। তিনি বলেন, আল্লাহর শাস্তি নিজের চোখে দেখার পর সেই প্রাণ এর সবটা দিয়েই নিজেকে ছাড়িয়ে নিতে চাইত। সা'দী জিনিসগুলোর নাম বলেন: সোনা, রুপা আর বাকি সব। কুরতুবী একে পড়েন মালিকানা হিসেবে, মুলকান, যেন গোটা পৃথিবী ওই প্রাণের সম্পত্তি। বাগাভী কাজটার সংজ্ঞা দেন। তাঁর মতে এখানে ইফতিদা মানে এমন কিছু দিয়ে দেওয়া, যার বিনিময়ে শাস্তি থেকে রেহাই মেলে।"
+          },
+          {
+            "en": "The verse says the soul would offer. It does not say the offer would be taken, and the commentators fill that silence. Ibn Kathir's Arabic puts it as a wish: when the Resurrection comes, the disbeliever will wish he could ransom himself with the earth's fill of gold. Al-Qurtubi adds wa la yuqbalu minha, and it would not be accepted, and cites 3:91, where the earth's fill of gold is refused from whoever died a disbeliever. As-Sa'di says it would not have helped, for benefit and harm, reward and punishment, rest on deeds, good and bad.",
+            "bn": "আয়াত বলে, সেই প্রাণ দিতে চাইত। দান কবুল হবে কি না, সে কথা আয়াত বলে না, আর তাফসীরকারেরা এই নীরবতা পূরণ করেন। ইবন কাসীরের আরবি তাফসীরে এটা এক আকাঙ্ক্ষা। কিয়ামত কায়েম হলে কাফির চাইবে, পৃথিবীভরা সোনা দিয়ে যদি নিজেকে ছাড়িয়ে নিতে পারত! কুরতুবী যোগ করেন ওয়া লা ইউকবালু মিনহা, অর্থাৎ তা কবুল করা হবে না। প্রমাণ হিসেবে তিনি আনেন ৩:৯১, যেখানে কাফির অবস্থায় মৃত ব্যক্তির কাছ থেকে পৃথিবীভরা সোনাও গ্রহণ করা হবে না। সা'দী বলেন, এতে কোনো লাভ হত না। কারণ লাভ-ক্ষতি আর সওয়াব-শাস্তি, সবই নির্ভর করে ভালো আর মন্দ আমলের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ransom Across the Book",
+          "bn": "কুরআনের পাতায় পাতায় মুক্তিপণ"
+        },
+        "p": [
+          {
+            "en": "The image recurs, and each time something is added. In 5:36 those who disbelieve have all that is in the earth and the like of it with it, to ransom themselves from the punishment of the Day of Resurrection, and it is not accepted. In 13:18 it is those who did not answer their Lord, and in 39:47 those who did wrong, with the same doubled earth; 39:47 adds that there will appear to them from Allah what they had never reckoned with.",
+            "bn": "ছবিটা বারবার ফিরে আসে, আর প্রতিবার কিছু না কিছু যোগ হয়। ৫:৩৬ আয়াতে কাফিরদের হাতে পৃথিবীর সব কিছু, সঙ্গে আরও ততখানি, কিয়ামতের শাস্তি থেকে বাঁচার মুক্তিপণ হিসেবে। তবু তা কবুল হয় না। ১৩:১৮ আয়াতে তারা, যারা রবের ডাকে সাড়া দেয়নি। ৩৯:৪৭ আয়াতে তারা, যারা যুলম করেছে, আর সেখানেও পৃথিবী দ্বিগুণ। ৩৯:৪৭ আরও বলে, আল্লাহর কাছ থেকে তাদের সামনে এমন কিছু প্রকাশ পাবে যা তারা কখনো কল্পনাও করেনি।"
+          },
+          {
+            "en": "Surat al-Ma'arij turns the price from property to people. In 70:11 to 70:14 the criminal would ransom himself from that Day's punishment with his children, his wife and his brother, the kin who sheltered him, and everyone on earth, if only it would save him. Read together, these verses close every exit that wealth or family seem to offer, and leave what 3:91 names: the state in which a person dies.",
+            "bn": "সূরা মাআরিজ দামের তালিকা সম্পদ থেকে সরিয়ে মানুষে নিয়ে যায়। ৭০:১১ থেকে ৭০:১৪ আয়াতে অপরাধী সেদিনের শাস্তি থেকে বাঁচতে দিয়ে দিতে চাইবে তার সন্তানদের, স্ত্রীকে, ভাইকে, যে আত্মীয়গোষ্ঠী তাকে আশ্রয় দিত তাদের, এমনকি দুনিয়ার সবাইকে, যদি তাতে সে রক্ষা পায়। আয়াতগুলো পাশাপাশি পড়লে দেখা যায়, সম্পদ বা পরিবার যত পথ খোলা রাখে বলে মনে হয়, সবই বন্ধ। বাকি থাকে শুধু সেটা, যার নাম ৩:৯১ আয়াত দিয়েছে: মানুষ কোন অবস্থায় মারা গেল।"
+          },
+          {
+            "en": "A sound narration makes the same point as a conversation, though none of the commentaries fetched for this verse attaches it here. Al-Bukhari records from Anas ibn Malik (RA) that the Prophet ﷺ used to say: \"A disbeliever will be brought on the Day of Resurrection and will be asked, 'Suppose you had as much gold as to fill the earth, would you offer it to ransom yourself?' He will reply, 'Yes.' Then it will be said to him, 'You were asked for something easier than that.'\" It is in his Sahih, number 6538; the translator glosses the easier thing as joining none in worship with Allah.",
+            "bn": "একটি সহীহ বর্ণনা একই কথা বলে কথোপকথনের ভঙ্গিতে, যদিও এই আয়াতের জন্য সংগৃহীত কোনো তাফসীর একে এখানে যুক্ত করেনি। বুখারী আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলতেন: \"কিয়ামতের দিন এক কাফিরকে আনা হবে এবং তাকে জিজ্ঞেস করা হবে, 'বল তো, তোমার যদি পৃথিবীভরা সোনা থাকত, তুমি কি তা দিয়ে নিজেকে ছাড়িয়ে নিতে?' সে বলবে, 'হ্যাঁ।' তখন তাকে বলা হবে, 'তোমার কাছে তো এর চেয়ে অনেক সহজ জিনিস চাওয়া হয়েছিল।'\" হাদীসটি তাঁর সহীহ গ্রন্থে আছে, হাদীস নম্বর ৬৫৩৮। অনুবাদক সেই সহজ জিনিসের ব্যাখ্যা দিয়েছেন এভাবে: আল্লাহর ইবাদতে কাউকে শরিক না করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hidden From Those Who Followed",
+          "bn": "অনুসারীদের কাছ থেকে আড়াল"
+        },
+        "p": [
+          {
+            "en": "Wa asarru an-nadama. The verb asarra usually means to keep a thing secret, and at-Tabari reads it so, with a particular cast. He says the leaders of these idolaters hid their regret from their weak and lowly followers, when they saw the punishment of Allah surrounding them and were certain it would fall on them. Al-Baghawi gives the same reading as one opinion and supplies its motive: the leaders hid it from the weak for fear of their blame and their taunts. Al-Qurtubi's first gloss agrees: they hid it, meaning their leaders, from their followers.",
+            "bn": "ওয়া আসাররুন নাদামাহ। আসাররা ক্রিয়ার সাধারণ অর্থ কোনো কিছু গোপন রাখা। তাবারী এ অর্থই নেন, তবে একটা বিশেষ রং দিয়ে। তাঁর মতে এই মুশরিকদের নেতারা তাদের দুর্বল ও নিচুতলার অনুসারীদের কাছ থেকে নিজেদের অনুশোচনা লুকিয়ে রেখেছিল। তখন তারা দেখছিল আল্লাহর শাস্তি তাদের ঘিরে ফেলেছে, আর নিশ্চিত হয়ে গিয়েছিল যে তা তাদের উপর পড়বেই। বাগাভী একই পাঠকে একটি মত হিসেবে আনেন, আর কারণটাও বলেন: দুর্বলদের তিরস্কার আর খোঁটার ভয়ে নেতারা তা লুকিয়েছিল। কুরতুবীর প্রথম ব্যাখ্যাও এক: তারা মানে তাদের নেতারা, অনুসারীদের কাছ থেকে তা গোপন করেছিল।"
+          },
+          {
+            "en": "The Muyassar keeps the secrecy but not the leaders: those who did wrong hid their grief, hasratahum, when they saw the punishment falling on all of them. Ibn Kathir's Arabic repeats the clause without a gloss, and the English abridgement renders it, they would feel in their hearts regret. The Qur'an uses the same five Arabic words once more, in 34:33, and there they come inside an exchange between those who were made weak and those who were arrogant, in 34:31 to 34:33. The commentaries fetched here do not draw that link.",
+            "bn": "মুয়াসসার গোপন রাখার অর্থটা রাখে, কিন্তু নেতাদের কথা আনে না। তার ভাষায়, যারা যুলম করেছিল তারা নিজেদের আফসোস, হাসরাতাহুম, লুকিয়ে রাখল, যখন দেখল শাস্তি তাদের সবার উপর নেমে আসছে। ইবন কাসীরের আরবি তাফসীর বাক্যটি ব্যাখ্যা ছাড়াই উদ্ধৃত করে। তার ইংরেজি সংক্ষেপে অর্থ করা হয়েছে, তারা মনে মনে অনুশোচনা অনুভব করবে। আরবি এই পাঁচটি শব্দ কুরআনে আরেকবার এসেছে, ৩৪:৩৩ আয়াতে। সেখানে তা আসে দুর্বল করে রাখা লোক আর অহংকারীদের পারস্পরিক কথাকাটাকাটির মাঝে, ৩৪:৩১ থেকে ৩৪:৩৩ পর্যন্ত। এখানে সংগৃহীত তাফসীরগুলো এই যোগসূত্র টানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb With Two Faces",
+          "bn": "এক ক্রিয়ার দুই মুখ"
+        },
+        "p": [
+          {
+            "en": "Others read the verb the opposite way. Al-Baghawi reports from Abu 'Ubayda that asarru here means azharu, they showed their regret, because that Day is not a day for holding back and keeping up appearances, yawm tasabbur wa tasannu'. Al-Qurtubi records the same view and gives its lexical ground: asarra belongs to the addad, words that carry two opposite meanings. The evidence he gives for it is that the Hereafter is not a place for putting on a brave face, dar tajallud wa tasabbur.",
+            "bn": "কেউ কেউ ক্রিয়াটা পড়েন ঠিক উল্টো অর্থে। বাগাভী আবু উবাইদা থেকে বর্ণনা করেন, এখানে আসাররূ মানে আযহারূ, তারা অনুশোচনা প্রকাশ করল। কারণ সেদিন নিজেকে সামলে রাখা আর ভান করে থাকার দিন নয়, ইয়াওমু তাসাব্বুরিন ওয়া তাসান্নু। কুরতুবীও এই মত উল্লেখ করেন এবং তার ভাষাগত ভিত্তি দেখান। আসাররা শব্দটি আযদাদের অন্তর্ভুক্ত, অর্থাৎ এমন শব্দ যার দুটি পরস্পরবিরোধী অর্থ আছে। এর পক্ষে তাঁর দলিল: আখিরাত সাহস দেখানোর বা ধৈর্যের মুখোশ পরার জায়গা নয়, দারু তাজাল্লুদিন ওয়া তাসাব্বুর।"
+          },
+          {
+            "en": "Al-Qurtubi then records two further readings. One says they felt the pain of grief inside their hearts, because regret is not something that can be put on display, and he quotes the poet Kuthayyir using fa-asrartu an-nadama, so I hid my regret, in a line about the day a crier called for Ghadira's camels. The other is from al-Mubarrad: the regret showed in the asirra of their faces, the creases of the forehead, singular sirar. The texts hold both, hidden and shown, and this article leaves the two standing.",
+            "bn": "এরপর কুরতুবী আরও দুটি পাঠ উল্লেখ করেন। একটি হল, তারা অন্তরের ভেতরে আফসোসের যন্ত্রণা অনুভব করেছিল, কারণ অনুশোচনা বাইরে দেখানোর জিনিস নয়। এর সমর্থনে তিনি কবি কুসাইয়িরের একটি পঙক্তি আনেন, যেখানে আছে ফা-আসরারতুন নাদামাহ, আমি অনুশোচনা লুকিয়ে রাখলাম। পঙক্তিটি সেই দিনের, যেদিন এক ঘোষক গাদিরার উটের কথা হাঁক দিয়েছিল। অন্যটি মুবাররাদের মত: অনুশোচনা ফুটে উঠেছিল তাদের চেহারার আসিররায়, অর্থাৎ কপালের ভাঁজে, যার একবচন সিরার। তাফসীরে দুটিই আছে, লুকানো আর প্রকাশিত। এই প্রবন্ধ দুটিকেই দাঁড়িয়ে থাকতে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Regret That Clings",
+          "bn": "যে অনুশোচনা লেগে থাকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also stops on the noun. An-nadama, he says, is grief, hasra, at something that happened or something that was missed, and its root sense is luzum, clinging. From it comes nadim, a boon companion, because he keeps to the gatherings. Another view he records takes nadam as a reversal of d-m-n, which also means clinging: the mudmin is the man who cannot leave the wine, and dimna is the rancour that stays lodged in the breast. On this account regret is not a passing pang. It stays.",
+            "bn": "কুরতুবী বিশেষ্যটির কাছেও থামেন। তাঁর মতে আন-নাদামাহ হল হাসরাহ, এমন কিছুর জন্য আফসোস যা ঘটে গেছে বা হাতছাড়া হয়ে গেছে। এর মূল অর্থ লুযূম, লেগে থাকা। এখান থেকেই নাদীম শব্দ, অর্থাৎ আসরের সঙ্গী, কারণ সে মজলিস ছেড়ে নড়ে না। তিনি আরেকটি মতও উল্লেখ করেন। সে মতে নাদাম শব্দটি দ-ম-ন ধাতুর উল্টানো রূপ, যার অর্থও লেগে থাকা। মুদমিন সে, যে মদ ছাড়তে পারে না। আর দিমনাহ হল সেই বিদ্বেষ, যা বুকের ভেতর গেঁথে থাকে। এই ব্যাখ্যায় অনুশোচনা ক্ষণিকের খোঁচা নয়। তা থেকে যায়।"
+          },
+          {
+            "en": "As-Sa'di gives the content of the regret and its timing in a few words: nadimu 'ala ma qaddamu, they regretted what they had sent ahead, wa lata hina manas, and it was no time for escape, a phrase the Qur'an uses in 38:3. Ma'arif al-Qur'an, explaining the word now? in 10:51, says that once the punishment has struck, repentance is not accepted, and that believing and repenting at the agony of death is not credible before Allah. Regret felt before that point can still become tawbah. Regret felt after it only clings.",
+            "bn": "অনুশোচনার বিষয় আর তার সময়, দুটোই সা'দী অল্প কথায় বলে দেন: নাদিমূ আলা মা কাদ্দামূ, যা আগে পাঠিয়েছিল তার জন্য তারা অনুতপ্ত হল, ওয়া লাতা হীনা মানাস, অথচ তখন আর পালানোর সময় নেই। শেষ কথাটি কুরআনে এসেছে ৩৮:৩ আয়াতে। মাআরিফুল কুরআন ১০:৫১ আয়াতের আল-আন, এখন?, শব্দটির ব্যাখ্যায় বলে, শাস্তি নেমে এলে তওবা আর কবুল হয় না। মৃত্যুযন্ত্রণার সময় ঈমান আনা বা তওবা করাও আল্লাহর কাছে গ্রহণযোগ্য নয়। সেই সীমার আগে যে অনুশোচনা, তা এখনো তওবায় বদলাতে পারে। সীমার পরে অনুশোচনা শুধু লেগেই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judged Between Them in Qist",
+          "bn": "কিসতের সঙ্গে ফায়সালা"
+        },
+        "p": [
+          {
+            "en": "Wa qudiya baynahum bi-l-qist: and judgement was given between them in justice. Between whom? At-Tabari answers that Allah judged that Day between the followers and the leaders among them, with justice. Al-Qurtubi says the same: between the leaders and the lowly, bi-l-'adl. As-Sa'di does not name the parties and describes the qist instead: complete justice, with no wrong and no injustice in it in any respect.",
+            "bn": "ওয়া কুদিয়া বাইনাহুম বিলকিসত: আর ন্যায়ের সঙ্গে তাদের মাঝে ফায়সালা করা হল। কাদের মাঝে? তাবারীর জবাব, সেদিন আল্লাহ তাদের অনুসারী আর নেতাদের মাঝে ন্যায়বিচার করলেন। কুরতুবীও একই কথা বলেন: নেতা আর নিচুতলার লোকদের মাঝে, বিল-আদল। সা'দী পক্ষগুলোর নাম বলেন না। তিনি বরং কিসতের বর্ণনা দেন: পূর্ণ ন্যায়, যাতে কোনো দিক থেকে এতটুকু যুলম বা অবিচার নেই।"
+          },
+          {
+            "en": "Al-Baghawi glosses the clause differently: furigha min 'adhabihim, their punishment was settled and done with. Ibn Kathir's Arabic glosses bi-l-qist as bi-l-haqq, with the truth, and the Muyassar simply says Allah judged between them with justice. Then the last clause, wa hum la yuzlamun, and they are not wronged. At-Tabari explains it in three parts: Allah punishes none of them except for his own offence, takes no one for another's sin, and punishes only one whom He had, in this world, left without excuse, warned, and sent proof after proof.",
+            "bn": "বাগাভী বাক্যটির ব্যাখ্যা দেন ভিন্নভাবে: ফুরিগা মিন আযাবিহিম, তাদের শাস্তির বিষয়টি চূড়ান্ত করে শেষ করা হল। ইবন কাসীরের আরবি তাফসীরে বিলকিসত-এর অর্থ বিলহাক্ক, সত্যের সঙ্গে। মুয়াসসার সোজা বলে, আল্লাহ ন্যায়ের সঙ্গে তাদের মাঝে ফায়সালা করলেন। তারপর শেষ বাক্য, ওয়া হুম লা ইউযলামূন, তাদের উপর যুলম করা হবে না। তাবারী এর তিনটি দিক খুলে বলেন। আল্লাহ কাউকে তার নিজের অপরাধ ছাড়া শাস্তি দেন না। একজনের গুনাহে আরেকজনকে ধরেন না। আর শাস্তি দেন কেবল তাকেই, দুনিয়াতে যার সব ওজর তিনি শেষ করে দিয়েছিলেন, যাকে সতর্ক করেছিলেন, যার কাছে একের পর এক প্রমাণ পাঠিয়েছিলেন।"
+          },
+          {
+            "en": "The Muyassar gives the reason in one line: Allah punishes no one except for his sin. Notice how the verse closes on its opening. It began with nafsin zalamat, a soul that did wrong, and it ends with la yuzlamun, they are not wronged, the same Arabic root z-l-m turned from active to passive. Nothing on that Day is laid on them that was not theirs, and nothing they did is laid on anyone else.",
+            "bn": "মুয়াসসার কারণটা এক বাক্যে বলে: আল্লাহ কাউকে তার গুনাহ ছাড়া শাস্তি দেন না। লক্ষ করুন, আয়াত যেখানে শুরু, সেখানেই ফিরে এসে শেষ হয়। শুরু হয়েছিল নাফসিন যালামাত দিয়ে, যে প্রাণ যুলম করেছে। শেষ হয় লা ইউযলামূন দিয়ে, তাদের উপর যুলম করা হবে না। আরবি একই ধাতু য-ল-ম, কর্তৃবাচ্য থেকে কর্মবাচ্যে ঘুরে গেছে। সেদিন তাদের ঘাড়ে এমন কিছু চাপানো হবে না যা তাদের নয়, আর তাদের কাজের ভার অন্য কারও উপর পড়বে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Paying the Easier Price Now",
+          "bn": "সহজ দামটা এখনই দেওয়া"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes souls that did wrong, and leaders and followers, on the Day of Judgement, as the text describes them. It licenses nothing against any living person or community. It does not tell anyone which of the people around him are those souls, and it gives no warrant to point at a group and say: those are the ones who will offer the earth. The verdict here belongs to Allah alone, given bi-l-qist, and the soul this verse is facing is the reader's own.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বিচার দিবসে যুলমকারী প্রাণগুলোর, নেতা আর অনুসারীদের বর্ণনা দেয়, ঠিক যেভাবে কুরআন তাদের বর্ণনা দিয়েছে। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আশপাশের কারা সেই প্রাণ, এ আয়াত কাউকে তা বলে দেয় না। কোনো দলের দিকে আঙুল তুলে বলার অধিকারও দেয় না যে, এরাই পৃথিবী দিয়ে মুক্তি কিনতে চাইবে। এখানে রায় কেবল আল্লাহর, আর তা কিসতের সঙ্গে। আয়াত যে প্রাণের মুখোমুখি দাঁড়িয়ে, সে পাঠকের নিজের প্রাণ।"
+          },
+          {
+            "en": "Turned inward, the verse asks about two things. The first is price. Everything I am working to own would, on that Day, be handed over in a moment and still buy nothing; as-Sa'di's line moves the weight onto deeds. The narration of Anas (RA) names the easier price, asked of me already. The second is regret. If the leaders hid theirs from those who followed them, then anyone whom others follow, a parent, a teacher, an elder, has reason to admit a wrong now, in front of them, while admitting it can still change something.",
+            "bn": "নিজের দিকে ফেরালে আয়াত দুটি বিষয়ে প্রশ্ন করে। প্রথমটি দাম। যা কিছুর মালিক হতে আমি খাটছি, সেদিন তা এক মুহূর্তে দিয়ে দিতাম, তবু কিছুই কেনা যেত না। সা'দীর কথা ভারটা সরিয়ে আমলের উপর রাখে। আনাস (রাঃ)-এর বর্ণনা সেই সহজ দামের কথা বলে, যা আমার কাছে আগেই চাওয়া হয়েছে। দ্বিতীয়টি অনুশোচনা। নেতারা যদি অনুসারীদের কাছ থেকে নিজেদের অনুশোচনা লুকিয়ে থাকে, তবে যাকে অন্যরা অনুসরণ করে, বাবা-মা, শিক্ষক বা মুরুব্বি, তার কারণ আছে এখনই তাদের সামনে ভুল স্বীকার করার। যতক্ষণ স্বীকারে কিছু বদলায়, ততক্ষণই।"
+          }
+        ]
+      }
+    ]
+  },
   "10:57": {
     "sections": [
       {
