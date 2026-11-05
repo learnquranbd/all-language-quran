@@ -2651,6 +2651,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:70": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Half of the Reply",
+          "bn": "জবাবের বাকি অর্ধেক"
+        },
+        "p": [
+          {
+            "en": "This verse closes a short exchange. 10:68 reports a claim, that Allah has taken a son, and answers it with His self-sufficiency and a demand for proof. 10:69 then gives the Prophet ﷺ a single sentence to say: those who invent falsehood about Allah will not succeed. Our verse does not repeat the refutation. It measures what the inventors actually receive, and what comes after it, in thirteen Arabic words. With 10:71 the surah turns to the news of Nuh (AS). None of the commentaries consulted for 10:70 reports an occasion of revelation, so it is read here by its place in the passage.",
+            "bn": "ছোট একটি কথোপকথনের শেষ টানে এ আয়াত। ১০:৬৮ আয়াতে একটি দাবির কথা আছে, আল্লাহ নাকি পুত্র গ্রহণ করেছেন। সেখানেই তাঁর অমুখাপেক্ষিতা আর প্রমাণের দাবি দিয়ে তার জবাব দেওয়া হয়েছে। ১০:৬৯ আয়াতে নবী ﷺ-কে একটিমাত্র বাক্য বলতে বলা হয়: যারা আল্লাহর নামে মিথ্যা রচনা করে, তারা সফল হবে না। আমাদের আয়াতটি খণ্ডনের কথা আর ফিরিয়ে আনে না। তেরোটি আরবি শব্দে এটি মেপে দেখায়, মিথ্যা রচনাকারীরা আসলে কী পায় আর তারপর কী আসে। ১০:৭১ থেকে সূরা চলে যায় নূহ (আঃ)-এর কাহিনিতে। ১০:৭০ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে নাযিলের প্রেক্ষাপট নেই। তাই আয়াতটি এখানে পড়া হচ্ছে আলোচনার ভেতরে এর অবস্থান ধরে।"
+          },
+          {
+            "en": "Who are they? The verse names no one; its pronouns reach back to 10:68. On that verse at-Tabari identifies the speakers as the idolaters of the Prophet's own people, whose claim was that the angels are the daughters of Allah, and al-Baghawi reads it the same way. Al-Muyassar names that claim and a second beside it, that the Messiah is the son of Allah. Al-Qurtubi says only the disbelievers. On 10:70 itself Ibn Kathir speaks of the liars who fabricated the claim of a son, and the others describe them by their disbelief, to which as-Sa'di and al-Muyassar add their lying.",
+            "bn": "এরা কারা? আয়াতে কারও নাম নেই, এর সর্বনামগুলো ফিরে যায় ১০:৬৮ আয়াতে। সেই আয়াতের ব্যাখ্যায় তাবারী বলেন, কথাটি নবী ﷺ-এর নিজের কওমের মুশরিকদের। তাদের দাবি ছিল, ফেরেশতারা আল্লাহর কন্যা। বাগাভীও একইভাবে পড়েন। মুয়াসসার এই দাবির পাশে আরেকটি দাবির নাম নেয়: মাসীহ আল্লাহর পুত্র। কুরতুবী শুধু বলেন, এরা কাফিররা। ১০:৭০ আয়াতে এসে ইবন কাসীর বলেন সেই মিথ্যাবাদীদের কথা, যারা পুত্রের দাবি বানিয়েছিল। বাকিরা তাদের চেনান তাদের কুফর দিয়ে, আর সা'দী ও মুয়াসসার তার সঙ্গে যোগ করেন তাদের মিথ্যাচার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Noun Without Its Partner",
+          "bn": "যে শব্দের সঙ্গী উহ্য"
+        },
+        "p": [
+          {
+            "en": "The verse opens on one noun, mata'un, enjoyment or goods for use, in the nominative, with nothing visible beside it to complete the sentence. The English translation fills the gap with a bracket, [For them is brief] enjoyment, and the Bengali translation with the same words, for them. The commentators fill it too, and not all in the same way. At-Tabari says the word is raised by something implied before it, either dhalika, that, or hadha, this: that is an enjoyment in the world. A footnote in his printed text points to al-Farra', who gives the pair as huwa, it, or dhaka.",
+            "bn": "আয়াত শুরু হয় একটিমাত্র বিশেষ্য দিয়ে, মাতাউন, অর্থাৎ ভোগ বা ভোগের সামগ্রী। শব্দটি পেশযুক্ত, অথচ বাক্য পূর্ণ করার মতো আর কোনো শব্দ পাশে চোখে পড়ে না। ইংরেজি অনুবাদ বন্ধনী দিয়ে ফাঁকটা ভরেছে: [তাদের জন্য আছে ক্ষণিকের] ভোগ। বাংলা অনুবাদও লিখেছে \"তাদের জন্য\"। তাফসীরকারেরাও ফাঁকটা ভরেন, তবে সবাই একভাবে নয়। তাবারী বলেন, শব্দটি পেশ পেয়েছে আগে উহ্য থাকা একটি শব্দের কারণে। সেটা হয় যালিকা, অর্থাৎ ওটা, নয়তো হাযা, অর্থাৎ এটা। মানে দাঁড়ায়: ওটা দুনিয়ার একটু ভোগ। তাঁর মুদ্রিত গ্রন্থের এক টীকা ফাররার দিকে ইঙ্গিত করে, যিনি জোড়াটি দেন হুয়া, অর্থাৎ তা, অথবা যাকা।"
+          },
+          {
+            "en": "Al-Qurtubi reports two framings. Al-Kisa'i reads dhalika mata'un or huwa mata'un, that is, or it is, an enjoyment in this world, the same implied word at-Tabari supplies. Al-Akhfash supplies something else: lahum mata'un, for them is an enjoyment in this world, which is the shape the English bracket matches. Al-Qurtubi then adds from Abu Ishaq that outside the Qur'an the accusative would also be allowed, with the sense they enjoy an enjoyment. Al-Baghawi keeps to one reading, that mata' is raised by an implied word, huwa mata'un, it is an enjoyment.",
+            "bn": "কুরতুবী দুটি কাঠামো উল্লেখ করেন। কিসাঈর মতে এর রূপ যালিকা মাতাউন বা হুয়া মাতাউন: ওটা, কিংবা তা, দুনিয়ার একটু ভোগ। তাবারীও এই উহ্য শব্দটিই বসান। আখফাশ বসান অন্য কিছু: লাহুম মাতাউন, তাদের জন্য আছে দুনিয়ার একটু ভোগ। ইংরেজি অনুবাদের বন্ধনী এই গড়নের সঙ্গেই মেলে। এরপর কুরতুবী আবু ইসহাক থেকে আনেন, কুরআনের বাইরে হলে শব্দটিকে যবর দিয়ে পড়াও চলত। তখন অর্থ হতো, তারা একটু ভোগ ভোগ করে নেয়। বাগাভী একটিমাত্র পাঠে থাকেন: মাতা পেশ পেয়েছে একটি উহ্য শব্দের কারণে, হুয়া মাতাউন, অর্থাৎ তা একটু ভোগ।"
+          },
+          {
+            "en": "At-Tabari's own paraphrase opens with a link back to 10:69: wa lakin lahum mata'un, but they have an enjoyment in this world. Whichever word the grammarians supply, the sentence does the same thing: it names the gain, and in the same breath it sets the gain in its place. The Qur'an uses the same opening elsewhere. 3:196 tells the Prophet ﷺ not to be deceived by the disbelievers' movement through the land, and 3:197 begins with this raised noun: mata'un qalilun, a small enjoyment, then their refuge is Hell.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা শুরু হয় ১০:৬৯ আয়াতের সঙ্গে একটা যোগসূত্র দিয়ে: ওয়া লাকিন লাহুম মাতাউন, তবে দুনিয়ায় তাদের জন্য একটু ভোগ আছে। ব্যাকরণবিদেরা যে শব্দই উহ্য ধরুন, বাক্যটা একই কাজ করে। লাভের নাম নেয়, আর একই নিঃশ্বাসে লাভটাকে তার আসল জায়গায় বসিয়ে দেয়। কুরআনের অন্য জায়গাতেও একই শুরু আছে। ৩:১৯৬ আয়াতে নবী ﷺ-কে বলা হয়, দেশে দেশে কাফিরদের দাপটে চলাফেরা যেন আপনাকে ধোঁকায় না ফেলে। আর ৩:১৯৭ শুরু হয় এই পেশযুক্ত বিশেষ্য দিয়েই: মাতাউন কালীলুন, সামান্য ভোগ, তারপর তাদের ঠিকানা জাহান্নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Long the Goods Last",
+          "bn": "ভোগের মেয়াদ কতদিন"
+        },
+        "p": [
+          {
+            "en": "The Arabic says only mata'un fi d-dunya, an enjoyment in this world. The word brief in the English bracket is not in the verse; it is the commentators' reading carried into the translation, and they agree on it. Ibn Kathir glosses the phrase as mudda qariba, a near span, and the English abridgement of his tafsir renders it only a short period. Al-Muyassar says mata'an qasiran, a short enjoyment. As-Sa'di and al-Baghawi both use qalil, little. The verse gives no figure. The commentators measure it small.",
+            "bn": "আরবিতে আছে শুধু মাতাউন ফিদ দুনইয়া, দুনিয়ায় একটু ভোগ। ইংরেজি বন্ধনীর \"ক্ষণিকের\" শব্দটি আয়াতে নেই। তাফসীরকারদের ব্যাখ্যাই অনুবাদে ঢুকে পড়েছে, আর এ ব্যাপারে তাঁরা একমত। ইবন কাসীর এর ব্যাখ্যা দেন মুদ্দাতুন কারীবা, অল্প কিছু সময়। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ লিখেছে, কেবল অল্প কিছুদিন। মুয়াসসার বলে মাতাআন কাসীরা, স্বল্পস্থায়ী ভোগ। সা'দী আর বাগাভী দুজনেই বলেন কালীল, সামান্য। আয়াত নিজে কোনো মাপ দেয় না। তাফসীরকারেরা একে ছোট বলেই মাপেন।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi pair mata' with a second word, balagh, something that gets a traveller to where he is going. For at-Tabari it is a provision by which they reach the term in which their perishing was written. For al-Baghawi it is a means they benefit from until their terms run out. On this reading the enjoyment is not only short; it is a provision with a destination, and in at-Tabari's words the term at the end of it was written.",
+            "bn": "তাবারী আর বাগাভী মাতা শব্দের সঙ্গে আরেকটি শব্দ জুড়ে দেন: বালাগ, যা দিয়ে মুসাফির তার গন্তব্যে পৌঁছায়। তাবারীর কাছে এটা সেই পাথেয়, যা দিয়ে তারা পৌঁছে যায় সেই মেয়াদে, যখন তাদের বিনাশ লেখা আছে। বাগাভীর কাছে এটা এমন উপকরণ, যা থেকে তারা ফায়দা নেয় মেয়াদ ফুরানো পর্যন্ত। এই পাঠে ভোগটা শুধু ক্ষণিকের নয়, এটা এমন পাথেয়, যার একটা গন্তব্য আছে। তাবারীর ভাষায়, এর শেষে যে মেয়াদ, তা লিখে রাখা।"
+          },
+          {
+            "en": "As-Sa'di and al-Muyassar add where the enjoyment happens. As-Sa'di: they only take their enjoyment, in their disbelief and their lying, in this world, a little. Al-Muyassar: they only enjoy themselves in this world with their disbelief and their lying, a short enjoyment. Both begin with innama, only, so that the enjoyment is all there is for them, and both tie it to the state it is enjoyed in. The comfort is not set beside the lie as a separate thing. It is had inside the lie, and it lasts no longer than the life in which the lie is told.",
+            "bn": "সা'দী আর মুয়াসসার যোগ করেন, ভোগটা ঘটে কোথায়। সা'দী বলেন: তারা কেবল দুনিয়ায় নিজেদের কুফর আর মিথ্যার ভেতরে থেকে সামান্য ভোগ করে নেয়। মুয়াসসার বলে: তারা কেবল দুনিয়ায় তাদের কুফর আর মিথ্যা নিয়েই ভোগ করে, স্বল্পস্থায়ী ভোগ। দুজনেই শুরু করেন ইন্নামা দিয়ে, অর্থাৎ কেবল। তাদের জন্য ভোগটুকুই সব। আর দুজনেই ভোগকে বেঁধে দেন সেই অবস্থার সঙ্গে, যার ভেতরে তা ভোগ করা হয়। আরামটা মিথ্যার পাশে আলাদা কিছু হয়ে বসে নেই। মিথ্যার ভেতরেই তার ভোগ। আর যে জীবনে মিথ্যাটা বলা হয়, আরামের আয়ুও তার চেয়ে বেশি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then, and Then Again",
+          "bn": "তারপর, আবার তারপর"
+        },
+        "p": [
+          {
+            "en": "After the enjoyment the verse moves in two steps, each opened by thumma, then. The first is thumma ilayna marji'uhum, then to Us is their return. At-Tabari explains it as: when the term written for them has run out, to Us is their destination and their turning back, masiruhum wa munqalabuhum. Al-Muyassar says the same, tying the return to the end of the term. Ibn Kathir places it on the Day of Resurrection. Al-Qurtubi gives the plain sense of the word: marji' here means ruju', their returning. The voice has changed as well. 10:69 told the Prophet ﷺ what to say; here the verb is Allah's own We.",
+            "bn": "ভোগের পর আয়াত দুই ধাপে এগোয়, প্রতিটির শুরুতে ছুম্মা, তারপর। প্রথম ধাপ: ছুম্মা ইলাইনা মারজিউহুম, তারপর আমার কাছেই তাদের ফেরা। তাবারী ব্যাখ্যা করেন: তাদের জন্য লেখা মেয়াদ যখন ফুরিয়ে যায়, তখন আমার কাছেই তাদের গন্তব্য আর প্রত্যাবর্তন, মাসীরুহুম ওয়া মুনকালাবুহুম। মুয়াসসারও একই কথা বলে, ফেরাকে বাঁধে মেয়াদ শেষ হওয়ার সঙ্গে। ইবন কাসীর এর সময় বলেন কিয়ামতের দিন। কুরতুবী শব্দটির সোজা অর্থ দেন: মারজি মানে এখানে রুজূ, ফিরে আসা। বলার ভঙ্গিও বদলে গেছে। ১০:৬৯ আয়াতে নবী ﷺ-কে বলা হয়েছিল কী বলতে হবে। এখানে ক্রিয়ার কর্তা আল্লাহ নিজে, \"আমি\" বলে।"
+          },
+          {
+            "en": "The second step is thumma nudhiquhumu l-'adhaba sh-shadid, then We will make them taste the severe punishment. The commentators gloss shadid in different words. Al-Qurtubi gives al-ghaliz, heavy or harsh. Ibn Kathir gives al-muji' al-mu'lim, aching and painful. At-Tabari names what it is, their being made to enter and burn in Jahannam, and al-Muyassar likewise calls it the punishment of Jahannam. Ibn Kathir sets beside this verse 31:24, which runs on the same line: We give them enjoyment a little, then We will force them to a ghaliz punishment, the very word al-Qurtubi uses for shadid here.",
+            "bn": "দ্বিতীয় ধাপ: ছুম্মা নুযীকুহুমুল আযাবাশ শাদীদ, তারপর আমি তাদের কঠিন শাস্তির স্বাদ নেওয়াব। শাদীদ শব্দের ব্যাখ্যা তাফসীরকারেরা দেন ভিন্ন ভিন্ন শব্দে। কুরতুবী বলেন আল-গালীয, অর্থাৎ ভারী, রূঢ়। ইবন কাসীর বলেন আল-মূজি আল-মুলিম, যন্ত্রণাদায়ক, কষ্টদায়ক। তাবারী বলে দেন শাস্তিটা কী: তাদের জাহান্নামে ঢুকিয়ে দগ্ধ করা। মুয়াসসারও একে বলে জাহান্নামের শাস্তি। ইবন কাসীর এ আয়াতের পাশে রাখেন ৩১:২৪, যার গড়ন একই: আমি তাদের সামান্য ভোগ করতে দিই, তারপর তাদের বাধ্য করব এক গালীয শাস্তির দিকে। কুরতুবী এখানে শাদীদের ব্যাখ্যায় ঠিক এই শব্দটিই ব্যবহার করেছেন।"
+          },
+          {
+            "en": "Set the two words side by side and the verse's own contrast shows. Mata' is something used and enjoyed; nudhiquhum, We make them taste, is also a word of the mouth and the senses. The enjoyment came first and was brief. What is tasted after the return carries the adjective shadid, and where the commentators were quick to call the enjoyment little, they call this painful, harsh and heavy. The verse does not say that the comforts were false. It says they were comforts, and that they were followed, after a return no one avoids, by something else to taste.",
+            "bn": "শব্দ দুটি পাশাপাশি রাখলে আয়াতের নিজস্ব বৈপরীত্য চোখে পড়ে। মাতা এমন জিনিস, যা ব্যবহার করা হয়, ভোগ করা হয়। নুযীকুহুম, আমি তাদের স্বাদ নেওয়াব, এটাও মুখ আর ইন্দ্রিয়ের শব্দ। ভোগ এসেছিল আগে, আর তা ছিল ক্ষণিকের। ফেরার পর যার স্বাদ নিতে হবে, তার বিশেষণ শাদীদ। ভোগকে তাফসীরকারেরা এক কথায় সামান্য বলে দিয়েছিলেন, আর একে বলেন যন্ত্রণাদায়ক, রূঢ়, ভারী। আয়াত বলে না যে আরামগুলো ভুয়া ছিল। বলে, সেগুলো আরামই ছিল। তবে তার পরে এসেছে এমন এক ফেরা, যা কেউ এড়াতে পারে না, আর তারপর অন্য কিছুর স্বাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Cause Named Last",
+          "bn": "কারণের কথা সবার শেষে"
+        },
+        "p": [
+          {
+            "en": "The verse keeps its cause for the end: bima kanu yakfurun, because they used to disbelieve. The English renders kanu yakfurun as used to, a practice carried on rather than a single moment. At-Tabari spells out what the practice was: they disbelieved in Allah in the world, denying His messengers and rejecting His signs. Al-Muyassar gives the same three. Ibn Kathir joins the end of the passage to its beginning: because of their disbelief, and their fabrication and lying against Allah in the falsehood and slander they claimed. Al-Qurtubi keeps it to two words, bi-kufrihim, by their disbelief.",
+            "bn": "আয়াত কারণটা রেখে দেয় একেবারে শেষে: বিমা কানূ ইয়াকফুরূন, কারণ তারা কুফরি করত। ইংরেজি অনুবাদ কানূ ইয়াকফুরূন-কে লিখেছে \"used to\", অর্থাৎ একবারের ঘটনা নয়, চালিয়ে যাওয়া অভ্যাস। অভ্যাসটা কী ছিল, তাবারী খুলে বলেন: দুনিয়ায় তারা আল্লাহকে অস্বীকার করত, তাঁর রাসূলদের মিথ্যাবাদী বলত, তাঁর আয়াতগুলো প্রত্যাখ্যান করত। মুয়াসসারও এই তিনটিই বলে। ইবন কাসীর আলোচনার শেষকে জুড়ে দেন শুরুর সঙ্গে: তাদের কুফরের কারণে, আর তারা যে মিথ্যা আর অপবাদের দাবি করেছিল, তাতে আল্লাহর বিরুদ্ধে বানোয়াট কথা আর মিথ্যাচারের কারণে। কুরতুবী থামেন দুই শব্দে: বিকুফরিহিম, তাদের কুফরের কারণে।"
+          },
+          {
+            "en": "As-Sa'di ends his comment on these verses with a Qur'anic clause of his own choosing: wa ma zalamahumu llahu wa lakin anfusahum yazlimun, Allah did not wrong them, but they wrong themselves, the wording found in 3:117. The surah has already said it in its own words at 10:44: Allah does not wrong people at all, but it is people who wrong themselves. Ibn Kathir's gloss bi-sabab, by reason of, reads the bi of bima as a cause. What they taste is tied to what they did, and the verse names their own doing as the reason.",
+            "bn": "সা'দী এ আয়াতগুলোর ব্যাখ্যা শেষ করেন নিজের বেছে নেওয়া কুরআনের একটি বাক্য দিয়ে: ওয়া মা যালামাহুমুল্লাহু ওয়া লাকিন আনফুসাহুম ইয়াযলিমূন, আল্লাহ তাদের উপর যুলম করেননি, বরং তারা নিজেরাই নিজেদের উপর যুলম করে। ৩:১১৭ আয়াতে ঠিক এই শব্দগুলোই আছে। এই সূরাও ১০:৪৪ আয়াতে নিজের ভাষায় কথাটা বলে এসেছে: আল্লাহ মানুষের উপর একটুও যুলম করেন না, বরং মানুষই নিজেদের উপর যুলম করে। ইবন কাসীর ব্যাখ্যায় লেখেন বিসাবাবি, অর্থাৎ কারণে। এতে বিমা শব্দের বি কারণ বোঝায়। তারা যার স্বাদ নেবে, তা তাদের কাজের সঙ্গে বাঁধা, আর আয়াত কারণ হিসেবে দেখায় তাদের নিজেদের কাজকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort Is Not Prospering",
+          "bn": "আরাম মানেই কল্যাণ নয়"
+        },
+        "p": [
+          {
+            "en": "An objection waits here. 10:69 says they will not succeed, and they plainly seem to. The commentators answer by defining the word. As-Sa'di explains la yuflihun as: they do not obtain what they seek, and their aim is not realised; they only enjoy a little. Al-Muyassar, on 10:69, says they attain their aim neither in this world nor in the Hereafter. Ibn Kathir, in the English abridgement, says Allah leads them step by step to their ruin, gives them respite, puts up with them for a while and allows them a little enjoyment. Respite is not approval.",
+            "bn": "এখানে একটা আপত্তি ওঠে। ১০:৬৯ বলে তারা সফল হবে না, অথচ দেখে মনে হয় তারা দিব্যি সফল। তাফসীরকারেরা জবাব দেন শব্দটার মানে ঠিক করে দিয়ে। সা'দী লা ইউফলিহূন-এর ব্যাখ্যা দেন এভাবে: তারা যা চায় তা পায় না, তাদের উদ্দেশ্য পূরণ হয় না, তারা শুধু সামান্য ভোগ করে। মুয়াসসার ১০:৬৯ আয়াতে বলে, দুনিয়াতেও তারা লক্ষ্যে পৌঁছায় না, আখিরাতেও না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, আল্লাহ তাদের ধাপে ধাপে ধ্বংসের দিকে নিয়ে যান, অবকাশ দেন, কিছুকাল সহ্য করেন, সামান্য ভোগ করতে দেন। অবকাশ মানে সম্মতি নয়।"
+          },
+          {
+            "en": "No commentary consulted attaches a narration to this verse. One sound report shares Ibn Kathir's word respite and is brought as a general principle, not as tied to this ayah. Sahih al-Bukhari 4686, narrated Abu Musa: Allah's Messenger ﷺ said, \"Allah gives respite to the oppressor, but when He takes him over, He never releases him.\" Then he recited: \"Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: painful indeed, and severe is His seizure\" (11:102). Al-Bukhari gives no grading beyond placing it in his Sahih. Its last word, shadid, is our verse's word.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো বর্ণনা জুড়ে দেয়নি। একটি সহীহ বর্ণনায় ইবন কাসীরের \"অবকাশ\" কথাটি আছে, তাই সেটি এখানে আনা হলো সাধারণ নীতি হিসেবে, এ আয়াতের সঙ্গে বাঁধা বর্ণনা হিসেবে নয়। সহীহ বুখারী ৪৬৮৬, আবু মূসা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আল্লাহ যালিমকে অবকাশ দেন, কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না।\" তারপর তিনি তিলাওয়াত করলেন: \"তোমার রবের পাকড়াও এমনই, যখন তিনি জনপদগুলোকে পাকড়াও করেন তাদের যুলমে লিপ্ত অবস্থায়। নিশ্চয় তাঁর পাকড়াও যন্ত্রণাদায়ক, কঠিন\" (১১:১০২)। ইমাম বুখারী তাঁর সহীহ গ্রন্থে রাখা ছাড়া আলাদা কোনো মান উল্লেখ করেননি। বর্ণনার শেষ শব্দ শাদীদ, আমাদের আয়াতেরও সেই শব্দ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sentence Kept for Allah",
+          "bn": "রায় আল্লাহর হাতে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: the people the commentators identify, their brief enjoyment and their end as Allah announces it. It licenses nothing against any living person or community, Christians today included, though al-Muyassar names the claim about the Messiah among those meant in 10:68. Notice who acts in the sentence. To Us is their return; We will make them taste. No human hand appears in it, and nobody is given a verdict to carry out.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ততটুকুই বলে, যতটুকু বলে: তাফসীরকারেরা যাদের চিহ্নিত করেছেন তাদের কথা, তাদের ক্ষণিকের ভোগ, আর আল্লাহ তাদের যে পরিণতির ঘোষণা দিয়েছেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না, আজকের খ্রিস্টানদের বিরুদ্ধেও নয়, যদিও মুয়াসসার ১০:৬৮ আয়াতের উদ্দিষ্ট দাবিগুলোর মধ্যে মাসীহ সম্পর্কিত দাবির নাম নিয়েছে। খেয়াল করুন, বাক্যে কাজটা কে করছেন। আমার কাছেই তাদের ফেরা, আমিই তাদের স্বাদ নেওয়াব। এতে কোনো মানুষের হাত নেই, কাউকে কোনো রায় কার্যকর করার ভারও দেওয়া হয়নি।"
+          },
+          {
+            "en": "The Prophet ﷺ was given a sentence to say in 10:69, and in 10:65 he was told not to let their speech grieve him. The passage asks nothing more of a reader who meets the same claim today. Watching another person's comfort and waiting for it to end is not what the verse teaches; it moves the question of the return away from oneself. The measure the verse applies to their enjoyment fits every enjoyment of this world, and the only one a reader can do anything about is his own.",
+            "bn": "১০:৬৯ আয়াতে নবী ﷺ-কে একটি বাক্য বলতে দেওয়া হয়েছিল, আর ১০:৬৫ আয়াতে বলা হয়েছিল, ওদের কথা যেন তাঁকে দুঃখ না দেয়। আজ যে পাঠক একই দাবির মুখোমুখি হন, তাঁর কাছে এ আলোচনা এর বেশি কিছু চায় না। অন্যের আরাম দেখে তা কবে শেষ হবে সেই অপেক্ষায় বসে থাকা আয়াতের শিক্ষা নয়। তাতে ফেরার প্রশ্নটা নিজের কাছ থেকে সরে যায়। তাদের ভোগকে আয়াত যে মাপে মাপে, দুনিয়ার সব ভোগের বেলায় সেই মাপ খাটে। আর পাঠক কিছু করতে পারেন কেবল নিজের ভোগটুকু নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "My Own Short Season",
+          "bn": "আমার নিজের ছোট্ট মৌসুম"
+        },
+        "p": [
+          {
+            "en": "3:185 calls the whole life of this world mata'u l-ghurur, the enjoyment of delusion, and gives success another address: whoever is drawn away from the Fire and admitted to the Garden has succeeded. Every reader lives inside mata'. At-Tabari's balagh fits us all: provision that carries a person to his written term. The question is what that provision is spent on, and what it is enjoyed inside.",
+            "bn": "৩:১৮৫ আয়াত দুনিয়ার গোটা জীবনকে বলে মাতাউল গুরূর, ছলনার ভোগ। আর সাফল্যের ঠিকানা দেয় অন্য জায়গায়: যাকে আগুন থেকে দূরে সরিয়ে জান্নাতে ঢোকানো হলো, সে-ই সফল। প্রত্যেক পাঠকই মাতার ভেতরে বাস করেন। তাবারীর বালাগ কথাটা আমাদের সবার বেলায় খাটে: এমন পাথেয়, যা মানুষকে তার লেখা মেয়াদ পর্যন্ত পৌঁছে দেয়। প্রশ্ন হলো, সে পাথেয় কোথায় খরচ হচ্ছে, আর কোন অবস্থার ভেতরে তা ভোগ করা হচ্ছে।"
+          },
+          {
+            "en": "Three questions to sit with. Which comfort have I begun to read as proof that I am right? What do I enjoy that I could keep only by a lie? And if my term ended tonight, what would I be carrying back? A supplication in the verse's vocabulary, composed here and not narrated: O Allah, make what You give me in this world a provision toward You, and make my return to You a good one.",
+            "bn": "তিনটি প্রশ্ন নিয়ে ভাবুন। কোন আরামটাকে আমি নিজের সঠিক থাকার প্রমাণ ভাবতে শুরু করেছি? কী এমন উপভোগ করছি, যা ধরে রাখতে মিথ্যা বলতে হয়? আর আজ রাতেই মেয়াদ ফুরালে কী নিয়ে ফিরব? আয়াতের শব্দ দিয়ে এখানে বানানো একটি দোয়া, কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, দুনিয়ায় আমাকে যা দিয়েছেন, তা আপনার দিকে যাওয়ার পাথেয় করে দিন, আর আপনার কাছে আমার ফেরাকে সুন্দর করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "10:78": {
     "sections": [
       {

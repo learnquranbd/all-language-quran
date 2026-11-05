@@ -21451,6 +21451,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you follow anyone, ask whether they can guide without being guided. Only Allah guides to the truth by Himself; follow others only as far as they follow Him.",
     "lessonBn": "কারও অনুসরণ করার আগে দেখে নিন, অন্যের পথ দেখানো ছাড়া সে নিজে পথ পায় কি না। নিজে থেকে সত্যের পথ দেখান কেবল আল্লাহ। অন্যদের অনুসরণ করুন ততটুকুই, যতটুকু তারা তাঁর অনুসরণ করে।"
+  },
+  "10:70": {
+    "reflectionEn": "Two verses earlier a claim was made about Allah, and the reply came that those who invent lies about Him will not succeed. Yet they seem to. They eat well, trade, laugh and grow old in comfort. This verse settles the puzzle in thirteen Arabic words: an enjoyment in this world, then to Us is their return. The enjoyment is real, it is short, and it is not the measure. Everything I enjoy is enjoyment of the same kind, from the morning cup of tea to years of good health, and all of it ends at the same return. So the verse leaves me asking what my own comforts are carrying me toward.",
+    "reflectionBn": "দুই আয়াত আগে আল্লাহ সম্পর্কে একটি দাবি উঠেছিল, আর জবাব এসেছিল: যারা তাঁর নামে মিথ্যা রচনা করে, তারা সফল হবে না। অথচ দেখে মনে হয় তারা দিব্যি সফল। ভালো খায়, ব্যবসা করে, হাসে, আরামে বুড়ো হয়। এ আয়াত তেরোটি আরবি শব্দে ধাঁধাটার মীমাংসা করে দেয়: দুনিয়ায় কিছু ভোগ, তারপর আমার কাছেই তাদের ফেরা। ভোগটা সত্যি, তবে ক্ষণিকের। আর আসল মাপকাঠি সেটা নয়। আমি যা কিছু উপভোগ করি, সকালের এক কাপ চা থেকে বছরের পর বছর সুস্বাস্থ্য পর্যন্ত, সবই এই একই জাতের ভোগ। সবকিছুর শেষ ওই একই ফেরায়। তাই আয়াতটি আমাকে প্রশ্নের সামনে দাঁড় করায়: আমার নিজের আরাম-আয়েশ আমাকে কোন দিকে নিয়ে যাচ্ছে?",
+    "pointsEn": [
+      "Which comfort in my life have I quietly started treating as proof that I am on the right path?",
+      "If my enjoyments are provision for a road, do I know where that road ends?",
+      "When I see someone thriving while doing wrong, do I envy him, judge him, or remember the return that waits for us both?",
+      "What would change today if I really believed that every pleasure I have is brief and what follows the return is not?",
+      "Is there anything I enjoy that I could only keep by telling a lie, to others or to myself?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন আরামটাকে আমি মনে মনে এই প্রমাণ ধরে নিয়েছি যে আমি ঠিক পথেই আছি?",
+      "আমার ভোগের জিনিসগুলো যদি পথের পাথেয় হয়, তবে সে পথ কোথায় গিয়ে থামছে, তা কি আমি জানি?",
+      "অন্যায় করেও কাউকে ফুলেফেঁপে উঠতে দেখলে আমি কি হিংসা করি, তার বিচার করতে বসি, নাকি মনে করি যে আমাদের দুজনেরই একদিন ফিরতে হবে?",
+      "আমার প্রতিটি আনন্দ ক্ষণিকের, কিন্তু ফেরার পরে যা আসে তা ক্ষণিকের নয়, এ কথা সত্যিই বিশ্বাস করলে আজ আমার কী কী বদলে যেত?",
+      "এমন কিছু কি আমি উপভোগ করছি, যা ধরে রাখতে অন্যকে বা নিজেকে মিথ্যা বলতে হয়?"
+    ],
+    "lessonEn": "Enjoyment is not success. Whatever this world gives is brief and ends in the return to Allah, so use it as provision for the road, not as proof you were right.",
+    "lessonBn": "ভোগ মানেই সাফল্য নয়। দুনিয়া যা দেয় তা ক্ষণিকের, আর তার শেষ আল্লাহর কাছে ফেরায়। তাই একে পথের পাথেয় হিসেবে কাজে লাগান, নিজে সঠিক থাকার প্রমাণ হিসেবে নয়।"
   }
 };
 
