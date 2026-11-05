@@ -439,6 +439,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Plain Question at Ṭuwā",
+          "bn": "তুওয়ায় এক সাদামাটা প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The call at Ṭuwā has named the Lord, commanded worship and prayer, and warned of the Hour (20:12 to 20:16). Then comes a plain question: and what is that in your right hand, O Mūsā? (20:17). This verse is the answer: he said, it is my staff; I lean on it, I beat down leaves with it for my sheep, and I have other uses for it. The staff becomes a moving snake in the verses that follow (20:19 to 20:21). This article stays with the answer, before that happens.",
+            "bn": "তুওয়া উপত্যকার ডাক রবের পরিচয় দিয়েছে, ইবাদত ও নামাজের হুকুম দিয়েছে, কিয়ামতের সতর্কবাণী শুনিয়েছে (২০:১২ থেকে ২০:১৬)। এরপর আসে এক সহজ প্রশ্ন: হে মূসা, তোমার ডান হাতে ওটা কী? (২০:১৭)। এ আয়াত তারই জবাব। তিনি বললেন, এটা আমার লাঠি। আমি এতে ভর দিই, এ দিয়ে আমার মেষপালের জন্য পাতা ঝরাই, আর এতে আমার আরও কাজ আছে। পরের আয়াতগুলোতে লাঠি ছুটন্ত সাপ হয়ে যায় (২০:১৯ থেকে ২০:২১)। এ লেখা থেমে থাকে তার আগের মুহূর্তে, জবাবটুকুর কাছে।"
+          },
+          {
+            "en": "Why would Allah ask what He knows? At-Tabari answers that He meant to turn this piece of wood into a moving snake, so He drew Mūsā's attention to it and had him affirm that it was wood he leaned on, to make known His power and the reach of His command. Al-Baghawi calls it a question of affirmation, so that the tongue's admission joins the heart's knowledge. Ibn Kathir gives two readings, each as something said: to put Mūsā at ease, or to affirm that this was the staff he knew.",
+            "bn": "যা আল্লাহ জানেন, তা তিনি জিজ্ঞেস করবেন কেন? তাবারীর জবাব, তিনি কাঠের এই টুকরোটাকে ছুটন্ত সাপে বদলে দিতে চাইছিলেন। তাই মূসা (আঃ)-এর মনোযোগ এর দিকে টানলেন, আর তাঁর মুখেই স্বীকার করিয়ে নিলেন যে এটা কাঠ, এতে তিনি ভর দেন। উদ্দেশ্য, নিজের ক্ষমতা আর হুকুমের নাগাল চিনিয়ে দেওয়া। বাগাভী একে বলেন স্বীকৃতি আদায়ের প্রশ্ন, যাতে মনের জানার সঙ্গে মুখের স্বীকারোক্তিও যুক্ত হয়। ইবন কাসীর 'বলা হয়' দিয়ে দুটি ব্যাখ্যা আনেন: মূসা (আঃ)-কে স্বস্তি দেওয়া, অথবা এটা যে তাঁর চেনা লাঠি, তা পাকা করে নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer Longer Than Asked",
+          "bn": "প্রশ্নের চেয়ে লম্বা জবাব"
+        },
+        "p": [
+          {
+            "en": "\"A staff\" would have answered the question. Al-Qurtubi counts four things Mūsā (AS) said instead: he joined the staff to himself, \"my staff\", where \"a staff\" was his due; he named leaning on it; he named beating leaves with it; and he named other uses without listing them. He named, al-Qurtubi says, the staff's greatest benefits and gathered the rest into a phrase. The verse, he adds, is evidence that a question may be answered with more than was asked.",
+            "bn": "'একটা লাঠি' বললেই প্রশ্নের জবাব হয়ে যেত। কুরতুবী গুনে দেখান, মূসা (আঃ) তার বদলে চারটি কথা বলেছেন। লাঠিকে নিজের সঙ্গে যুক্ত করেছেন, 'আমার লাঠি', যেখানে 'লাঠি' বললেই চলত। ভর দেওয়ার কথা বলেছেন। পাতা ঝরানোর কথা বলেছেন। আর বাকি কাজের কথা বলেছেন, কিন্তু খুলে বলেননি। কুরতুবীর ভাষায়, লাঠির বড় বড় উপকারগুলো তিনি নাম ধরে বলেছেন, বাকিগুলো এক কথায় গুছিয়ে দিয়েছেন। তিনি আরও বলেন, জিজ্ঞাসিত বিষয়ের চেয়ে বেশি বলে জবাব দেওয়া যায়, এ আয়াত তার দলিল।"
+          },
+          {
+            "en": "As-Sa'di reads the same length as courtesy. The question could have meant what the thing was or what it was for, so Mūsā (AS) answered both: its identity and its uses. Ma'arif al-Qur'an, citing the commentaries it calls Ruh and Mazhari, sees two pulls held together. Love wants to prolong a conversation with someone kind and attentive; reverence wants it kept within bounds. So he spoke at length, then closed with \"I have other uses for it\" and gave no detail of them.",
+            "bn": "সাদী এই লম্বা জবাবকে দেখেন আদব হিসেবে। প্রশ্নটা জিনিসটা কী তা নিয়েও হতে পারত, আবার তা কী কাজে লাগে তা নিয়েও। তাই মূসা (আঃ) দুটোরই জবাব দিলেন, জিনিসটার পরিচয় আর তার উপকার। মাআরিফুল কুরআন, যে দুই তাফসীরকে সে রূহ ও মাযহারী বলে উল্লেখ করে তাদের সূত্রে, এখানে দুটি টান একসঙ্গে দেখে। ভালোবাসা চায়, দয়ালু ও মনোযোগী সেই সত্তার সঙ্গে কথা দীর্ঘ হোক। আর গভীর শ্রদ্ধা চায়, কথা সীমার ভেতরে থাকুক। তাই তিনি কিছুটা বিস্তারিত বললেন, তারপর 'এতে আমার আরও কাজ আছে' বলে থামলেন, সেগুলোর বিবরণ দিলেন না।"
+          },
+          {
+            "en": "Al-Qurtubi sets beside the verse examples from the Prophet's own answers. One, in Jami' at-Tirmidhi (69), from Abu Hurairah: \"A man asked Allah's Messenger 'O Messenger of Allah! We sail the seas, and we only carry a little water with us. If we use it for Wudu then we will go thirsty. So shall we perform Wudu from the (water of the) sea?' Allah's Messenger said: 'Its water is pure, and its dead are lawful.'\" At-Tirmidhi grades it hasan sahih. The narration is not about this verse; it shows the same pattern, an answer that gives what the asker will also need.",
+            "bn": "কুরতুবী আয়াতের পাশে রাখেন নবী ﷺ-এর নিজের জবাবের কিছু দৃষ্টান্ত। একটি আছে জামি তিরমিযীতে (৬৯), আবু হুরায়রা (রাঃ) থেকে: এক ব্যক্তি আল্লাহর রাসূল ﷺ-কে জিজ্ঞেস করল, হে আল্লাহর রাসূল, আমরা সাগরে চলাচল করি, সঙ্গে সামান্য পানি রাখি। তা দিয়ে অজু করলে আমরা পিপাসায় কষ্ট পাব। তাহলে কি সাগরের পানি দিয়ে অজু করব? আল্লাহর রাসূল ﷺ বললেন, এর পানি পবিত্র, আর এর মৃত প্রাণী হালাল। তিরমিযী একে হাসান সহীহ বলেছেন। বর্ণনাটি এ আয়াত নিয়ে নয়। এতে একই ধরন দেখা যায়: প্রশ্নকারীর আরও যা লাগবে, জবাবে তাও দিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wood That Carries a Walker",
+          "bn": "যে কাঠ পথিককে ধরে রাখে"
+        },
+        "p": [
+          {
+            "en": "Atawakka'u 'alayha: I lean on it. Ibn Kathir and the Muyassar gloss it as relying on it while walking. Al-Qurtubi widens it to bearing his weight on it in walking and in standing. Al-Baghawi names three moments: when I walk, when I tire, and when I leap. Ibn Zayd, in at-Tabari's chains, places it inside the shepherd's day: he leans on it as he walks with the sheep.",
+            "bn": "আতাওয়াক্কাউ আলাইহা: আমি এতে ভর দিই। ইবন কাসীর ও মুয়াসসার এর অর্থ করেন, হাঁটার সময় এর ওপর নির্ভর করা। কুরতুবী অর্থটা একটু বড় করেন: হাঁটতে আর দাঁড়িয়ে থাকতে এর ওপর শরীরের ভার রাখা। বাগাভী তিনটি মুহূর্তের কথা বলেন: যখন হাঁটি, যখন ক্লান্ত হই, আর যখন লাফ দিই। তাবারীর সনদে ইবন যায়েদ একে বসান রাখালের দিনের ভেতরে: মেষপালের সঙ্গে হাঁটার সময় তিনি এতে ভর দেন।"
+          },
+          {
+            "en": "As-Sa'di calls this the first of the two benefits named, the benefit for the human being himself: an aid in standing and in walking. Al-Qurtubi relays Imam Malik's remark that a man grown old is not like the young and gains strength from a staff when he rises, and quotes a line of verse: I used to walk on two legs, and now I walk on another of wood. The first use Mūsā (AS) names is the humblest.",
+            "bn": "সাদী বলেন, উল্লিখিত দুই উপকারের প্রথমটি এটাই, মানুষের নিজের উপকার: দাঁড়াতে আর হাঁটতে সহায়তা। কুরতুবী ইমাম মালিকের কথা আনেন: বয়স হয়ে গেলে মানুষ আর যুবকের মতো থাকে না, উঠে দাঁড়ানোর সময় লাঠি থেকে শক্তি পায়। তিনি এক কবির পঙ্ক্তিও তুলে দেন: একসময় দুই পায়ে হাঁটতাম, এখন হাঁটি কাঠের আরেক পায়ে। মূসা (আঃ) প্রথমে যে কাজের নাম নেন, সেটাই সবচেয়ে সাধারণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shaking Branches for the Flock",
+          "bn": "মেষের জন্য ডাল নাড়ানো"
+        },
+        "p": [
+          {
+            "en": "Wa ahushshu biha 'ala ghanami: and I bring down leaves with it for my sheep. At-Tabari explains: I strike the dry trees with it so that their leaves fall and my sheep graze on them. He says the interpreters said the like, and his chains bring Qatada (\"I beat the trees with it\"), as-Suddi, Ikrima (\"so the leaves fall on my sheep\") and ad-Dahhak (\"until what my sheep eat falls from it\").",
+            "bn": "ওয়া আহুশশু বিহা আলা গানামী: আর এ দিয়ে আমি আমার মেষপালের জন্য পাতা ঝরাই। তাবারী ব্যাখ্যা করেন: এ দিয়ে আমি শুকনো গাছে আঘাত করি, তাতে পাতা ঝরে পড়ে, আর আমার মেষ তা চরে খায়। তাবারী বলেন, ব্যাখ্যাকারেরা এমনই বলেছেন। তাঁর সনদে আসেন কাতাদা (এ দিয়ে গাছে বাড়ি দিই), সুদ্দী, ইকরিমা (যাতে পাতা আমার মেষের ওপর ঝরে পড়ে) আর দাহহাক (যতক্ষণ না আমার মেষের খাবার ঝরে পড়ে)।"
+          },
+          {
+            "en": "Ibn Kathir explains it as shaking the tree so its leaves fall for the sheep, and quotes Imam Malik, through Abd ar-Rahman ibn al-Qasim: hashsh is when a man sets his crook in a branch and moves it until its leaves and fruit fall, without breaking the wood; that is hashsh, and he does not beat. Maymun ibn Mihran, he adds, said the same. So the glosses differ: at-Tabari's own word is \"strike\" and Qatada's is \"beat\", while Ibn Kathir's is \"shake\" and Malik's definition rules beating out. The difference stays as the sources leave it.",
+            "bn": "ইবন কাসীর অর্থ করেন, গাছ নাড়ানো, যাতে পাতা ঝরে মেষের জন্য। তারপর আবদুর রহমান ইবনুল কাসিমের সূত্রে ইমাম মালিকের কথা আনেন: হাশশ হলো, লোকটি তার বাঁকা মাথার লাঠি ডালে আটকে নাড়াবে, যতক্ষণ না পাতা আর ফল ঝরে পড়ে, অথচ ডাল ভাঙবে না। এটাই হাশশ, এতে সে পেটায় না। ইবন কাসীর বলেন, মাইমুন ইবন মিহরানও একই কথা বলেছেন। তাই ব্যাখ্যায় ফারাক আছে। তাবারীর নিজের শব্দ 'আঘাত করা', কাতাদার শব্দ 'বাড়ি দেওয়া'। ইবন কাসীরের শব্দ 'নাড়ানো', আর মালিকের সংজ্ঞা পেটানোকে বাদ দেয়। সূত্রগুলো ফারাকটা যেভাবে রেখেছে, এখানেও সেভাবেই রইল।"
+          },
+          {
+            "en": "Ikrima read wa ahussu, with a plain s. Al-Baghawi takes it as driving the sheep with the staff, hass being the cry that drives a flock. Al-Qurtubi reports both views: that the two forms share one meaning, or that they differ, hashsh being beating down leaves and hass driving the flock. As-Sa'di calls this the second benefit, one for the animals, and finds in it Mūsā's good character: care for dumb beasts and kindness to them, which pointed to Allah's care for him and His choosing.",
+            "bn": "ইকরিমা পড়েছেন ওয়া আহুসসু, নুকতাবিহীন সীন দিয়ে। বাগাভী এর অর্থ করেন লাঠি দিয়ে মেষ হাঁকিয়ে নেওয়া। হাসস মানে পাল তাড়ানোর হাঁক। কুরতুবী দুই মতই আনেন। কেউ বলেছেন, দুটো একই অর্থের দুই উচ্চারণ। কেউ বলেছেন, অর্থ আলাদা: হাশশ মানে গাছ থেকে পাতা ঝরানো, আর হাসস মানে মেষ হাঁকানো। সাদী একে বলেন দ্বিতীয় উপকার, পশুর জন্য। এতে তিনি মূসা (আঃ)-এর সুন্দর চরিত্র দেখেন: অবলা পশুর যত্ন নেওয়া, তাদের প্রতি দয়া। আর এই চরিত্রই নির্দেশ করে তাঁর প্রতি আল্লাহর যত্ন আর তাঁকে বেছে নেওয়ার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Needs He Left Unlisted",
+          "bn": "যে প্রয়োজনের তালিকা দেননি"
+        },
+        "p": [
+          {
+            "en": "Wa liya fiha ma'aribu ukhra: and I have other ma'arib in it. At-Tabari glosses it as other needs. The word is the plural of ma'raba, said with u, a or i on the r, from the phrase la arab li fi hadha, I have no need in this. Ibn Abbas, through Ikrima, said: other needs which I have known. Mujahid and Qatada said needs and benefits, and as-Suddi named some: I carry the provisions bag and the waterskin on it.",
+            "bn": "ওয়া লিয়া ফীহা মাআরিবু উখরা: আর এতে আমার আরও মাআরিব আছে। তাবারী এর অর্থ করেন, অন্যান্য প্রয়োজন। শব্দটি মারাবা-র বহুবচন। আরবরা র-এর ওপর পেশ, যবর বা যের দিয়ে এটা উচ্চারণ করে। মূল এসেছে 'লা আরাবা লী ফী হাযা' কথা থেকে, মানে এ ব্যাপারে আমার কোনো প্রয়োজন নেই। ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন: আরও প্রয়োজন, যা আমি জানি। মুজাহিদ ও কাতাদা বলেছেন, প্রয়োজন আর উপকার। সুদ্দী কয়েকটার নাম বলেছেন: এর ওপর আমি খাবারের থলে আর পানির মশক বহন করি।"
+          },
+          {
+            "en": "Ma'arib is plural, yet its adjective is the singular ukhra, not ukhar, and the sources explain this two ways. At-Tabari compares al-asma' al-husna, the most beautiful names, and al-Qurtubi states the rule: the adjectives of a plural of non-rational things normally take the feminine singular, as in 7:180 and the address to the mountains in 34:10. Al-Baghawi gives another reason: the singular was chosen for the verse endings, which in this passage fall on a long a.",
+            "bn": "মাআরিব বহুবচন, অথচ এর বিশেষণ একবচন উখরা, বহুবচনের উখার নয়। সূত্রগুলো এর ব্যাখ্যা দেয় দুইভাবে। তাবারী একে মেলান আল-আসমাউল হুসনা, মানে সবচেয়ে সুন্দর নামসমূহের সঙ্গে। কুরতুবী নিয়মটা বলেন: বোধহীন বস্তুর বহুবচনের বিশেষণ সাধারণত স্ত্রীলিঙ্গ একবচনে আসে, যেমন ৭:১৮০ আয়াতে, আর ৩৪:১০ আয়াতে পাহাড়কে সম্বোধনে। বাগাভী অন্য কারণ দেন: আয়াতের শেষ মেলানোর জন্য একবচন নেওয়া হয়েছে। সূরার এ অংশে আয়াতগুলো দীর্ঘ আ-ধ্বনিতেই শেষ হয়।"
+          },
+          {
+            "en": "Mūsā (AS) left the other uses unnamed, and later scholars filled in the ordinary ones. Al-Qurtubi relays from Ibn Abbas: joining it to a rope too short for the well, planting it in the ground to hang shade from in the sun, killing vermin with it, hanging bow, quiver and feed bag on it over the shoulder, and fighting wild beasts off the sheep. Al-Baghawi's traveller's list is similar. Al-Qurtubi's own verdict is short: the staff's benefits are many.",
+            "bn": "মূসা (আঃ) বাকি কাজগুলোর নাম বলেননি, পরের আলেমেরা সাধারণ কাজগুলো খুলে বলেছেন। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন: কূপের দড়ি ছোট হলে লাঠি জুড়ে দেওয়া, রোদে মাটিতে পুঁতে তার ওপর কিছু ফেলে ছায়া করা, পোকামাকড় মারা, কাঁধে রেখে তাতে ধনুক, তূণ আর খাবারের থলে ঝোলানো, আর মেষপাল থেকে বন্য পশু তাড়ানো। বাগাভীর দেওয়া পথিকের তালিকাও প্রায় এমনই। কুরতুবীর নিজের রায় সংক্ষিপ্ত: লাঠির উপকার অনেক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Marvels the Reports Attach",
+          "bn": "বর্ণনায় জোড়া অলৌকিক কাহিনি"
+        },
+        "p": [
+          {
+            "en": "Some reports fill the unnamed uses with wonders. Al-Baghawi brings one with the word ruwiya, it is reported, from Ibn Abbas: the staff walked beside Mūsā (AS) and talked with him, brought out his day's food when he struck the ground and water when he planted it, bore fruit when he wished, lengthened to reach down a well, gave light at night like a lamp, and fought for him against an enemy. Al-Baghawi gives no chain for it here and passes no judgement on it.",
+            "bn": "কিছু বর্ণনা নাম-না-বলা কাজগুলোকে অলৌকিক ঘটনায় ভরিয়ে দেয়। বাগাভী 'রুউইয়া', মানে বর্ণিত আছে, বলে ইবন আব্বাস (রাঃ) থেকে একটি কাহিনি আনেন। লাঠিটি নাকি মূসা (আঃ)-এর পাশে হাঁটত, তাঁর সঙ্গে কথা বলত। মাটিতে আঘাত করলে দিনের খাবার বের হতো, পুঁতে দিলে পানি উঠত। ইচ্ছা হলে ফল ধরত, কূপে নামালে লম্বা হয়ে তলা ছুঁত, রাতে প্রদীপের মতো আলো দিত, আর শত্রুর বিরুদ্ধে তাঁর হয়ে লড়ত। বাগাভী এখানে এর কোনো সনদ দেননি, এর মান নিয়ে মন্তব্যও করেননি।"
+          },
+          {
+            "en": "Ibn Kathir answers such reports directly. Some, he says, burdened themselves with naming what was left unstated: that it lit his way at night, guarded the sheep while he slept, grew into a shading tree when planted, and other things that break the ordinary course. The apparent sense is that it was not so; had it been, Mūsā (AS) would not have been startled when it became a serpent, nor turned from it. All of that, he concludes, is from the Isra'iliyyat, reports drawn from earlier peoples' lore.",
+            "bn": "ইবন কাসীর এ ধরনের বর্ণনার সরাসরি জবাব দেন। তিনি বলেন, কেউ কেউ অযথা কষ্ট করে আয়াতে অস্পষ্ট রাখা কাজগুলোর নাম বলতে গেছেন: রাতে এটা আলো দিত, তিনি ঘুমালে মেষপাল পাহারা দিত, পুঁতে দিলে ছায়াদার গাছ হয়ে যেত, আর এমন আরও অস্বাভাবিক ব্যাপার। তাঁর মতে বাহ্যিক অর্থ বলে, এমন ছিল না। যদি থাকত, লাঠিকে সাপ হতে দেখে মূসা (আঃ) চমকে উঠতেন না, পিছু ফিরেও যেতেন না। তাঁর উপসংহার, এর সবই ইসরাইলিয়্যাত, অর্থাৎ পূর্ববর্তী জাতিগুলোর কাহিনি থেকে আসা বর্ণনা।"
+          },
+          {
+            "en": "So al-Baghawi relays the marvels as reported, while Ibn Kathir judges such reports Isra'ili and sets the plain sense against them. No sound chain settles any of them in the texts fetched for this verse. The verse itself is enough: to Mūsā (AS) the staff was a familiar tool with known uses, and the wonder of 20:20 came to him as something new.",
+            "bn": "তাহলে বাগাভী অলৌকিক কাহিনিগুলো বর্ণিত হিসেবে আনেন, আর ইবন কাসীর এমন বর্ণনাকে ইসরাইলী বলেন, আয়াতের সরল অর্থকে এর বিপক্ষে দাঁড় করান। এ আয়াতের জন্য আনা তাফসীরগুলোতে এর কোনোটিই সহীহ সনদে প্রতিষ্ঠিত নয়। আয়াত নিজে যা বলে তাই যথেষ্ট। মূসা (আঃ)-এর কাছে লাঠিটা ছিল চেনা এক যন্ত্র, যার কাজ তিনি জানতেন। আর ২০:২০ আয়াতের বিস্ময় তাঁর কাছে এসেছিল একেবারে নতুন হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Origin, Its Name, Unknown",
+          "bn": "উৎস আর নাম, অজানাই রইল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir lists, among the Isra'ili reports, the saying of some that it had belonged to Adam (AS), and another's claim that it is the beast that will emerge before the Day of Resurrection. He adds that it is reported from Ibn Abbas that its name was Masha, and closes: Allah knows best what is correct. Al-Baghawi, under \"it is said\", describes it as having two prongs, a spike at its foot and a crook, and reports from Muqatil that its name was Nab'a.",
+            "bn": "ইবন কাসীর ইসরাইলী বর্ণনার মধ্যে গণ্য করেন কারও কারও এই কথা যে এটা ছিল আদম (আঃ)-এর। আরেকজনের দাবি, এটাই সেই প্রাণী যা কিয়ামতের আগে বের হবে, সেটাও তিনি এ তালিকায় রাখেন। তিনি যোগ করেন, ইবন আব্বাস (রাঃ) থেকে বর্ণিত আছে, এর নাম ছিল মাশা। তারপর শেষ করেন: সঠিকটা আল্লাহই ভালো জানেন। বাগাভী 'বলা হয়' দিয়ে এর বর্ণনা দেন: এর দুটি শাখা ছিল, নিচের দিকে একটি ফলা, আর একটা বাঁকা আঁকশি। মুকাতিল থেকে তিনি আনেন, এর নাম ছিল নাবআ।"
+          },
+          {
+            "en": "The names disagree, and the origin stories come only as reports, so nothing here is settled. Nor do the commentaries fetched for this verse say how Mūsā (AS) came to have the staff, and the Qur'an does not say. It calls the staff his, in his own words, and no more. What the verse cares about is what the staff was in his hand that day: wood he leaned on and used for his flock, about to be shown for more.",
+            "bn": "নাম দুটি মেলে না, আর উৎসের কাহিনিগুলো এসেছে শুধু বর্ণনা হিসেবে, তাই এখানে কিছুই নিষ্পত্তি হয়নি। মূসা (আঃ) লাঠিটা কীভাবে পেয়েছিলেন, এ আয়াতের জন্য আনা তাফসীরগুলো তাও বলে না, আর কুরআনও বলে না। কুরআন শুধু তাঁর নিজের মুখের কথায় লাঠিটাকে তাঁর বলে উল্লেখ করে, এর বেশি নয়। আয়াতের আগ্রহ সেদিন তাঁর হাতে লাঠিটা কী ছিল তাতে: যে কাঠে তিনি ভর দিতেন, যা পালের কাজে লাগাতেন, আর যার আরও পরিচয় এক্ষুনি প্রকাশ পেতে যাচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known and Named in Hand",
+          "bn": "হাতে ধরা, নামে চেনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi says the staff enters rulings of the Sharia, citing the spear the Prophet ﷺ prayed towards. Sahih al-Bukhari (494) has it from Ibn Umar: \"Whenever Allah's Messenger (ﷺ) came out on 'Id day, he used to order that a Harba (a short spear) to be planted in front of him (as a Sutra for his prayer) and then he used to pray facing it with the people behind him and used to do the same while on a journey. After the Prophet (ﷺ), this practice was adopted by the Muslim rulers (who followed his traditions).\" It is general, not attached to this verse.",
+            "bn": "কুরতুবী বলেন, শরীয়তের বিধানেও লাঠির জায়গা আছে, আর দৃষ্টান্ত দেন সেই বর্শার, যার দিকে ফিরে নবী ﷺ নামাজ পড়তেন। সহীহ বুখারীতে (৪৯৪) ইবন উমর (রাঃ) থেকে আছে: ঈদের দিন আল্লাহর রাসূল ﷺ যখনই বের হতেন, হুকুম দিতেন তাঁর সামনে একটি হারবা, মানে ছোট বর্শা পুঁতে দিতে, নামাজের সুতরা হিসেবে। তারপর তিনি সেদিকে ফিরে নামাজ পড়তেন, লোকেরা থাকত তাঁর পেছনে। সফরেও তিনি এমনই করতেন। নবী ﷺ-এর পরে মুসলিম শাসকেরা, যারা তাঁর সুন্নাহ অনুসরণ করতেন, এ রীতি গ্রহণ করেন। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a practical rule from the verse: carrying a staff is a practice of the prophets. The deeper movement lies in at-Tabari's reading of the question. Mūsā (AS) said in his own words what the staff was and what he did with it, so its plain nature was fixed before Allah's power was shown in it. Al-Qurtubi says Allah gathered great proofs in this staff, by which even the stubborn sorcerers came to believe. That belongs to other verses; here the wood is still only wood.",
+            "bn": "মাআরিফুল কুরআন আয়াত থেকে একটি ব্যবহারিক বিধান বের করে: লাঠি রাখা নবীদের রীতি। তবে আয়াতের গভীর টানটা ধরা পড়ে প্রশ্নটা নিয়ে তাবারীর ব্যাখ্যায়। মূসা (আঃ) নিজের মুখে বললেন লাঠিটা কী, আর তিনি এ দিয়ে কী করেন। এভাবে আগে এর সাধারণ পরিচয় পাকা হলো, তারপর এর মধ্যে আল্লাহর ক্ষমতা দেখানো হলো। কুরতুবী বলেন, এই লাঠিতেই আল্লাহ বড় বড় প্রমাণ জড়ো করেছিলেন, যা দেখে জেদি জাদুকরেরাও ঈমান এনেছিল। সে কাহিনি অন্য আয়াতের। এখানে কাঠ এখনো শুধুই কাঠ।"
+          },
+          {
+            "en": "That is the lesson to carry. Most of what fills our hands is ordinary: a skill, a trade, a tool, people who depend on us. Mūsā (AS) knew his staff well enough to name its uses, and he used it with care for the animals in his charge. Know what you hold, use it well, and answer your Lord with the courtesy of someone glad to be addressed. The meaning of the ordinary things in your hands is His to show, in His time.",
+            "bn": "এটাই সঙ্গে নিয়ে যাওয়ার শিক্ষা। আমাদের হাতে যা থাকে, তার বেশিরভাগই সাধারণ: একটা দক্ষতা, একটা পেশা, একটা যন্ত্র, আর কিছু মানুষ, যারা আমাদের ওপর নির্ভর করে। মূসা (আঃ) নিজের লাঠিকে এত ভালো চিনতেন যে তার কাজগুলোর নাম বলতে পারতেন। আর তা ব্যবহার করতেন নিজের দায়িত্বে থাকা পশুদের যত্নে। আপনার হাতে যা আছে, তা চিনুন, ভালো কাজে লাগান। আর রবকে জবাব দিন সেই আদবে, যে তাঁর ডাকে খুশি। হাতের সাধারণ জিনিসগুলোর আসল অর্থ দেখানো তাঁরই কাজ, তাঁর নির্ধারিত সময়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "20:22": {
     "sections": [
       {

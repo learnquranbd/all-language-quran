@@ -23291,6 +23291,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold Allah's greatness in your heart and on your tongue: say nothing of Him lightly, and let His Oneness be what you fear, hope and turn by.",
     "lessonBn": "আল্লাহর মহত্ত্ব অন্তরে আর জবানে ধরে রাখুন। তাঁর সম্পর্কে হালকা কোনো কথা বলবেন না, আর আপনার ভয়, আশা ও ফিরে যাওয়া চলুক তাঁর একত্বকে ঘিরে।"
+  },
+  "20:18": {
+    "reflectionEn": "Asked what is in his right hand, Mūsā (AS) does not stop at the name. It is my staff, he says: I lean on it, I shake down leaves with it for my sheep, and I have other uses for it too. A shepherd's stick, known by touch and worn by years of walking. A moment later the same wood will be shown to be far more than he knew. The verse holds the ordinary thing still, owned and described, before its meaning is shown. Most of what fills my own hands is just as plain: a skill, a job, a few tools, the people I look after. Do I know them well enough to say what they are for? And do I remember who placed them there?",
+    "reflectionBn": "ডান হাতে কী, এ প্রশ্নের জবাবে মূসা (আঃ) শুধু নামটা বলে থামেন না। তিনি বলেন, এটা আমার লাঠি। আমি এতে ভর দিই, এ দিয়ে আমার মেষপালের জন্য গাছের পাতা ঝরাই, আর এতে আমার আরও কাজ আছে। রাখালের লাঠি, হাতের ছোঁয়ায় চেনা, বছরের পর বছর হাঁটার ঘষায় মসৃণ। একটু পরেই দেখা যাবে, এই কাঠ তাঁর জানার চেয়ে অনেক বেশি কিছু। আয়াতটি সাধারণ জিনিসটাকে এক মুহূর্ত স্থির করে রাখে। আগে সেটা নিজের বলে চেনা হয়, তার কাজ বলা হয়, তারপর আসে তার আসল অর্থ। আমার হাতেও যা আছে, বেশিরভাগই এমন সাদামাটা: একটা দক্ষতা, একটা কাজ, কয়েকটা যন্ত্র, যাদের দেখাশোনা করি সেই মানুষগুলো। এগুলো কীসের জন্য, তা কি আমি ঠিকমতো বলতে পারি? আর কে এগুলো আমার হাতে দিয়েছেন, তা কি মনে রাখি?",
+    "pointsEn": [
+      "What is in my right hand today, the tools, skills and duties I handle without thinking, and could I say what each one is for?",
+      "Mūsā (AS) named his flock in the same breath as himself. Who depends on the work of my hands, and do I look after them with that kind of attention?",
+      "When I stand before my Lord in prayer or du'a, do I hurry to be done, or do I stay a little longer, glad to be spoken to?",
+      "Which ordinary thing in my life have I stopped seeing simply because it is so familiar?",
+      "Do I hold what I own as a trust from Allah, open to purposes I cannot yet see?"
+    ],
+    "pointsBn": [
+      "আজ আমার ডান হাতে কী আছে? যে যন্ত্র, দক্ষতা আর দায়িত্ব না ভেবেই নাড়াচাড়া করি, তার প্রতিটি কীসের জন্য, তা কি বলতে পারব?",
+      "মূসা (আঃ) নিজের কথার সঙ্গে সঙ্গেই মেষপালের কথা বলেছেন। আমার হাতের কাজের ওপর কারা নির্ভর করে, আর আমি কি তাদের সেই যত্নে দেখি?",
+      "নামাজে বা দোয়ায় যখন রবের সামনে দাঁড়াই, তখন কি তাড়াতাড়ি শেষ করতে চাই, নাকি তিনি কথা বলছেন বলে খুশি মনে আরেকটু থাকি?",
+      "আমার জীবনের কোন সাধারণ জিনিসটা এত চেনা হয়ে গেছে যে আর চোখেই পড়ে না?",
+      "যা আমার মালিকানায় আছে, তা কি আল্লাহর দেওয়া আমানত হিসেবে ধরি, যার এমন কাজও থাকতে পারে যা এখনো দেখতে পাচ্ছি না?"
+    ],
+    "lessonEn": "Know the ordinary things in your hands and use them well; the Lord who gave them can show in them a meaning you never saw.",
+    "lessonBn": "হাতের সাধারণ জিনিসগুলো চিনে নিন, ভালো কাজে লাগান। যিনি এগুলো দিয়েছেন, সেই রব এগুলোর ভেতরে এমন অর্থ দেখাতে পারেন যা আপনি কখনো দেখেননি।"
   }
 };
 
