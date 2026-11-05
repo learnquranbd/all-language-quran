@@ -2635,6 +2635,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:76": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Arrivals Before the Lord",
+          "bn": "রবের সামনে দুই হাজিরা"
+        },
+        "p": [
+          {
+            "en": "This verse completes a pair. In 20:74, whoever comes to his Lord as a criminal has Hell, where he neither dies nor lives. In 20:75, whoever comes to Him as a believer who has done righteous deeds has al-darajat al-'ula, the highest ranks. Verse 76 then says what those ranks are. At-Tabari reads jannatu 'adnin as referring back to the ranks and naming them; al-Qurtubi calls it an explanation of the ranks and a substitute for them, as does Ibn Kathir.",
+            "bn": "আয়াতটি একটি জোড়ার শেষ অংশ। ২০:৭৪ আয়াতে বলা হয়েছে, যে তার রবের কাছে অপরাধী হয়ে আসবে, তার জন্য জাহান্নাম, সেখানে সে না মরবে, না বাঁচবে। ২০:৭৫ আয়াতে বলা হয়েছে, যে মুমিন হয়ে নেক আমল নিয়ে আসবে, তার জন্য আদ-দারাজাতুল উলা, সবচেয়ে উঁচু মর্যাদা। ৭৬ নম্বর আয়াত জানায়, সেই মর্যাদা আসলে কী। তাবারী জান্নাতু আদনকে দেখেন মর্যাদাগুলোর দিকে ফিরে গিয়ে তাদের নাম বলে দেওয়া হিসেবে। কুরতুবী বলেন, এটি মর্যাদাগুলোর ব্যাখ্যা এবং তাদের স্থলাভিষিক্ত শব্দ। ইবন কাসীরও তা-ই বলেন।"
+          },
+          {
+            "en": "The two arrivals frame the reward. At-Tabari glosses the criminal of 20:74 as one who earned disbelief in his Lord, and al-Baghawi as an idolater who died upon idolatry. Al-Qurtubi gives the disbeliever and, in a second view, the one who commits sins and earns them, then notes that the contrast with the believer shows the idolater is meant. All of this describes the state in which a soul reaches its Lord, which only He sees. It licenses no verdict on any living person or community.",
+            "bn": "পুরস্কারের কথা আসে এই দুই হাজিরার মাঝখানে। ২০:৭৪ আয়াতের অপরাধীর ব্যাখ্যায় তাবারী বলেন, সে রবের প্রতি কুফর অর্জন করেছে। বাগাভীর ভাষায়, সে মুশরিক, শিরকের উপরেই যার মৃত্যু হয়েছে। কুরতুবী প্রথমে বলেন কাফির, তারপর আরেক মতে যে গুনাহ করে এবং গুনাহ কামায়। এরপর তিনি দেখান, মুমিনের সঙ্গে তুলনা থেকেই বোঝা যায় এখানে মুশরিক উদ্দেশ্য। এসব কথা সেই অবস্থার, যে অবস্থায় একজন মানুষ রবের কাছে পৌঁছায়, আর তা কেবল তিনিই দেখেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের উপর রায় দেওয়ার অনুমতি এখান থেকে মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Still the Magicians Speaking?",
+          "bn": "এখনো কি যাদুকরদের কথা?"
+        },
+        "p": [
+          {
+            "en": "The magicians' reply opens with \"they said\" in 20:72, and no new speaker is named after it, so a question arises: are 20:74 to 20:76 still their words to Pharaoh, or does Allah's own speech begin? The translation shown in this app closes the quotation at the end of 20:73, reading what follows as Allah's own words. At-Tabari takes the other side: he opens 20:74 with \"Allah says, reporting the saying of the sorcerers to Pharaoh\". Ibn Kathir judges that what appears from the context is that these verses complete the sorcerers' admonition of Pharaoh.",
+            "bn": "যাদুকরদের জবাব শুরু হয় ২০:৭২ আয়াতে, \"তারা বলল\" দিয়ে। এরপর আর নতুন কোনো বক্তার নাম আসেনি। তাই প্রশ্ন ওঠে: ২০:৭৪ থেকে ২০:৭৬ পর্যন্ত কথাগুলো কি তখনও ফেরাউনের প্রতি তাদেরই কথা, নাকি এখান থেকে আল্লাহর নিজের কথা শুরু? এই অ্যাপে দেখানো অনুবাদ উদ্ধৃতিচিহ্ন বন্ধ করেছে ২০:৭৩ আয়াতের শেষে, অর্থাৎ পরের কথাগুলোকে পড়েছে আল্লাহর নিজের কথা হিসেবে। তাবারী অন্য দিকটা নেন। ২০:৭৪ আয়াতের ব্যাখ্যা তিনি শুরু করেন এভাবে: আল্লাহ বলছেন, ফেরাউনের প্রতি যাদুকরদের কথা জানিয়ে। ইবন কাসীরের বিচারে প্রসঙ্গ থেকে যা স্পষ্ট, তা হলো এ আয়াতগুলো ফেরাউনকে দেওয়া যাদুকরদের উপদেশেরই শেষাংশ।"
+          },
+          {
+            "en": "Ibn Kathir describes that admonition: they warned Pharaoh of Allah's vengeance and lasting punishment and drew him towards His everlasting reward. Ma'arif al-Qur'an also says these words were spoken by the magicians. Al-Qurtubi and al-Baghawi report both readings without choosing. Al-Qurtubi writes that it is said to be the sorcerers' words once they believed, and it is said to be the beginning of speech from Allah. Al-Baghawi gives the same two, placing Allah's speech first. As-Sa'di explains 20:74 as Allah informing, without mentioning the sorcerers.",
+            "bn": "সেই উপদেশের বিবরণও ইবন কাসীর দেন: তারা ফেরাউনকে আল্লাহর প্রতিশোধ আর স্থায়ী শাস্তির ভয় দেখিয়েছিল, আর তাঁর চিরস্থায়ী সওয়াবের দিকে ডেকেছিল। মাআরিফুল কুরআনও বলে, কথাগুলো যাদুকরদের মুখের। কুরতুবী ও বাগাভী দুটি মতই উল্লেখ করেন, কোনোটিকে বেছে নেন না। কুরতুবী লেখেন, বলা হয় এটি ঈমান আনার পর যাদুকরদের কথা, আবার বলা হয় এখান থেকে আল্লাহর কথা শুরু। বাগাভীও এই দুটি মত আনেন, তবে আল্লাহর কথার মতটি আগে রাখেন। সা'দী ২০:৭৪ আয়াতকে ব্যাখ্যা করেন আল্লাহর দেওয়া সংবাদ হিসেবে, যাদুকরদের কথা সেখানে তোলেন না।"
+          },
+          {
+            "en": "Neither al-Qurtubi nor al-Baghawi names who held the second view, and this article leaves the question where they leave it. The meaning of the verse does not wait on settling it. On the first reading, the newest believers in Egypt are preaching the Hereafter to the king who has just threatened to crucify them. On the second, Allah's own words follow theirs and set out what lies ahead for both kinds of arrival. Either way the listener hears the same two outcomes and the same condition for the Garden.",
+            "bn": "দ্বিতীয় মতটি কাদের, কুরতুবী বা বাগাভী কেউই তা বলেননি। এ লেখাও প্রশ্নটিকে সেখানেই রাখছে, যেখানে তাঁরা রেখেছেন। আয়াতের অর্থ বোঝার জন্য এর মীমাংসা জরুরি নয়। প্রথম মতে মিসরের একেবারে নতুন মুমিনেরা সেই বাদশাহকে আখিরাতের কথা শোনাচ্ছে, যে এইমাত্র তাদের শূলে চড়ানোর হুমকি দিয়েছে। দ্বিতীয় মতে তাদের কথার পর আল্লাহর নিজের কথা আসে, আর দুই রকম হাজিরার পরিণাম তিনি খুলে বলেন। যেভাবেই পড়া হোক, শ্রোতা শোনেন একই দুই পরিণাম, আর জান্নাতের একই শর্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Such Knowledge Came From",
+          "bn": "এ জ্ঞান তারা পেল কোথায়"
+        },
+        "p": [
+          {
+            "en": "If the words are the magicians', how did men who had believed only that day know of Gardens of 'Adn and a Fire without death? Al-Qurtubi, on this verse, reports the answer of those who hold the first reading. Perhaps the magicians had heard it from Musa (AS), or from the Children of Israel, since communities of them lived in Egypt, and among them too was the believer from Pharaoh's own family. Al-Qurtubi then adds his own remark: it may instead have been inspiration from Allah, who made them speak it once they believed.",
+            "bn": "কথাগুলো যদি যাদুকরদেরই হয়, তাহলে যারা সেদিনই ঈমান এনেছে, তারা আদন জান্নাত আর মৃত্যুহীন আগুনের কথা জানল কীভাবে? এ আয়াতের ব্যাখ্যায় কুরতুবী জানান, প্রথম মতের লোকেরা এর কী উত্তর দেন। হয়তো যাদুকরেরা এ কথা শুনেছিল মূসা (আঃ)-এর কাছে, অথবা বনী ইসরাঈলের কাছে, কারণ মিসরে তাদের বেশ কিছু গোষ্ঠী বাস করত। তাদের মধ্যে ছিলেন ফেরাউনের নিজের পরিবারের সেই মুমিন ব্যক্তিও। এরপর কুরতুবী নিজের মন্তব্য যোগ করেন: এমনও হতে পারে যে এটি আল্লাহর পক্ষ থেকে ইলহাম, ঈমান আনার পর তিনিই তাদের মুখে এ কথা তুলে দিয়েছেন। শেষে তিনি বলেন, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says these words about belief and the Hereafter came from magicians who had only just become Muslims and had not yet been taught the principles of their new faith. It traces this to their brief association with Musa (AS) and to Allah opening the faith's meanings to them in an instant, so that they gave scarce heed to Pharaoh's threats. Citing Ibn Kathir, it reports that Ibn 'Abbas and 'Ubayd ibn 'Umayr called it a marvel: they began the day as disbelievers and ended it as saints.",
+            "bn": "মাআরিফুল কুরআন বলে, ঈমান আর আখিরাত নিয়ে এ কথাগুলো এসেছে এমন যাদুকরদের মুখ থেকে, যারা মাত্রই মুসলিম হয়েছে, নতুন দ্বীনের মূলনীতি তখনও যাদের শেখানো হয়নি। মাআরিফুল কুরআনের মতে এর পেছনে ছিল মূসা (আঃ)-এর সঙ্গে তাদের অল্প সময়ের সাহচর্য, আর আল্লাহ মুহূর্তের মধ্যে তাদের সামনে দ্বীনের রহস্য খুলে দিয়েছিলেন। তাই ফেরাউনের হুমকিতে তারা প্রায় কানই দেয়নি। ইবন কাসীরের বরাতে সেখানে ইবন আব্বাস ও উবাইদ ইবন উমাইরের কথা আনা হয়েছে: এ ছিল আল্লাহর এক বিস্ময়কর নিদর্শন, দিনের শুরুতে যারা কাফির, দিনের শেষে তারা আল্লাহর ওলি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gardens Without Departure",
+          "bn": "যে বাগান ছেড়ে যেতে হয় না"
+        },
+        "p": [
+          {
+            "en": "Jannatu 'adnin: Ibn Kathir explains 'adn as residence, and al-Qurtubi says plainly that al-'adn is al-iqama, staying in a place. At-Tabari spells it out: gardens of residence from which there is no moving on, which do not run out and do not pass away. Under 20:75 he also reports from Ibn Jurayj a single word for the highest ranks: 'Adn. Al-Muyassar joins the two verses in one sentence, giving the believer who did righteous deeds high stations in the gardens of lasting residence.",
+            "bn": "জান্নাতু আদন। ইবন কাসীর আদনের অর্থ বলেন বসবাস, আর কুরতুবী সরাসরি বলেন, আল-আদন মানে আল-ইকামা, কোনো জায়গায় থেকে যাওয়া। তাবারী আরও খুলে বলেন: এমন বসবাসের বাগান, যেখান থেকে আর কোথাও সরে যেতে হয় না, যা ফুরিয়ে যায় না, যার বিনাশ নেই। ২০:৭৫ আয়াতের আলোচনায় তিনি ইবন জুরাইজ থেকে সবচেয়ে উঁচু মর্যাদার ব্যাখ্যায় একটিমাত্র শব্দ আনেন: আদন। মুয়াসসার দুই আয়াতকে এক বাক্যে জুড়ে দেয়। নেক আমলকারী মুমিনের জন্য সেখানে আছে স্থায়ী বসবাসের বাগানে উঁচু উঁচু মঞ্জিল।"
+          },
+          {
+            "en": "Tajri min tahtiha al-anhar: rivers flow beneath it. At-Tabari and al-Muyassar both place the rivers beneath its trees. Al-Qurtubi places them beneath its chambers and couches, and names them as rivers of wine, honey, milk and water, referring back to what he explained earlier. Khalidina fiha: Ibn Kathir glosses it as remaining there forever, al-Qurtubi as staying and lasting, and at-Tabari as remaining there to no set limit. The verse thus names its permanence twice, once in 'adn and again in khalidin.",
+            "bn": "তাজরী মিন তাহতিহাল আনহার: যার নিচ দিয়ে নহর বয়ে চলে। তাবারী ও মুয়াসসার দুজনেই বলেন, নহরগুলো বয়ে যায় জান্নাতের গাছপালার নিচ দিয়ে। কুরতুবী বলেন, তা বয়ে যায় তার কামরা আর আসনগুলোর নিচ দিয়ে, আর আগের আলোচনার দিকে ইঙ্গিত করে নহরগুলোর নামও বলেন: মদ, মধু, দুধ ও পানির নহর। খালিদীনা ফীহা: ইবন কাসীরের ব্যাখ্যায় সেখানে চিরকাল থাকা, কুরতুবীর ব্যাখ্যায় থেকে যাওয়া ও স্থায়ী হওয়া, আর তাবারীর ব্যাখ্যায় এমন থাকা যার কোনো নির্দিষ্ট সীমা নেই। এভাবে আয়াতটি স্থায়িত্বের কথা বলে দুবার, একবার আদন শব্দে, আরেকবার খালিদীন শব্দে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stars Seen From Below",
+          "bn": "নিচ থেকে দেখা তারা"
+        },
+        "p": [
+          {
+            "en": "The commentators on 20:75 dwell on these ranks. Al-Qurtubi calls them the lofty ranks short of which descriptions fall. As-Sa'di lists high stations, adorned chambers, unbroken delights, running rivers and a lasting stay. Ibn Kathir describes Paradise with its high ranks, safe chambers and good dwellings, and then cites narrations on how its ranks differ. These are general reports about Paradise. No commentator fetched for this verse attaches a sound hadith to it as the occasion of its revelation.",
+            "bn": "২০:৭৫ আয়াতের তাফসীরকারেরা এই মর্যাদাগুলো নিয়ে বিশদ কথা বলেছেন। কুরতুবী বলেন, এ এমন উঁচু মর্যাদা, যার বর্ণনা দিতে গিয়ে সব বিশেষণ ফুরিয়ে যায়। সা'দী গুনে গুনে বলেন: উঁচু মঞ্জিল, সাজানো কামরা, বিরামহীন আনন্দ, বয়ে চলা নহর আর চিরস্থায়ী থাকা। ইবন কাসীর জান্নাতের বর্ণনা দেন উঁচু মর্যাদা, নিরাপদ কামরা আর উত্তম বাসস্থানের জায়গা হিসেবে, তারপর মর্যাদার তারতম্য নিয়ে কয়েকটি বর্ণনা আনেন। এগুলো জান্নাত সম্পর্কে সাধারণ বর্ণনা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই কোনো সহীহ হাদীসকে এ আয়াত নাযিলের উপলক্ষ হিসেবে জুড়ে দেয়নি।"
+          },
+          {
+            "en": "One of them Ibn Kathir cites from al-Bukhari and Muslim. In al-Bukhari's wording (3256), Abu Sa'id al-Khudri narrates that the Prophet ﷺ said: \"The people of Paradise will see the people of the chambers above them as you see a brilliant star lingering on the horizon in the east or the west, because of the difference in rank between them.\" They said: \"O Messenger of Allah, those are the dwellings of the prophets, which none but they will reach?\" He said: \"Rather, by the One in whose hand is my soul: men who believed in Allah and believed the messengers.\"",
+            "bn": "এর একটি ইবন কাসীর এনেছেন বুখারী ও মুসলিম থেকে। বুখারীর (৩২৫৬) ভাষায়, আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"জান্নাতবাসীরা তাদের উপরের কামরাবাসীদের এমনভাবে দেখবে, যেমন তোমরা পূর্ব বা পশ্চিম দিগন্তে টিকে থাকা উজ্জ্বল তারকা দেখ। এর কারণ তাদের মধ্যকার মর্যাদার তারতম্য।\" সাহাবিরা বললেন: \"হে আল্লাহর রাসূল, ওগুলো তো নবীদের মঞ্জিল, অন্য কেউ সেখানে পৌঁছাতে পারবে না?\" তিনি বললেন: \"বরং সেই সত্তার কসম, যাঁর হাতে আমার প্রাণ, তারা এমন মানুষ, যারা আল্লাহর উপর ঈমান এনেছে এবং রাসূলদের সত্য বলে মেনেছে।\""
+          },
+          {
+            "en": "Ibn Kathir also cites, from Ahmad and at-Tirmidhi, the narration of 'Ubada ibn as-Samit. In at-Tirmidhi's wording (2531): \"In Paradise there are a hundred ranks; between every two ranks is like what is between the heaven and the earth. Al-Firdaws is its highest rank, from it the four rivers of Paradise burst forth, and above it is the Throne. So when you ask Allah, ask Him for al-Firdaws.\" The page consulted shows no grading from at-Tirmidhi for it, so none is given here.",
+            "bn": "উবাদা ইবনুস সামিত (রাঃ)-এর বর্ণনাও ইবন কাসীর আনেন আহমাদ ও তিরমিযী থেকে। তিরমিযীর (২৫৩১) ভাষায়: \"জান্নাতে একশটি স্তর আছে। প্রতি দুই স্তরের মাঝে আসমান ও জমিনের মাঝখানের সমান দূরত্ব। ফিরদাউস তার সবচেয়ে উঁচু স্তর, সেখান থেকেই জান্নাতের চারটি নহর উৎসারিত হয়, আর তার উপরে আরশ। তাই তোমরা আল্লাহর কাছে চাইলে ফিরদাউস চাও।\" যে পৃষ্ঠা দেখা হয়েছে, সেখানে এ হাদীসের উপর তিরমিযীর কোনো মান-নির্ণয় নেই, তাই এখানেও কোনো মান উল্লেখ করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Purified Left Behind",
+          "bn": "পবিত্র মানুষ যা পেছনে ফেলে"
+        },
+        "p": [
+          {
+            "en": "Wa dhalika jaza'u man tazakka: and that is the reward of whoever purified himself. Ibn Kathir explains: he purified his soul of dirt, filth and idolatry, worshipped Allah alone with no partner, and believed the messengers in what they brought, both their reports and their commands. That last clause meets the hadith of the chambers, which gives the same description of their people. Al-Muyassar is close to Ibn Kathir and adds that he obeyed Allah, avoided disobeying Him, and met his Lord associating no one in His worship.",
+            "bn": "ওয়া যালিকা জাযাউ মান তাযাক্কা: আর এটাই তার পুরস্কার, যে নিজেকে পবিত্র করেছে। ইবন কাসীর ব্যাখ্যা করেন: সে নিজের নফসকে ময়লা, নোংরামি আর শিরক থেকে পাক করেছে, শরীক ছাড়া এক আল্লাহর ইবাদত করেছে, আর রাসূলেরা যা এনেছেন, তার সংবাদ ও তার হুকুম, দুটোতেই তাঁদের সত্য বলে মেনেছে। শেষ কথাটি কামরার হাদীসের সঙ্গে মিলে যায়, কারণ সেখানেও কামরাবাসীদের বর্ণনা একই। মুয়াসসারের ব্যাখ্যা ইবন কাসীরের কাছাকাছি। তার সঙ্গে সে যোগ করে: সে আল্লাহর আনুগত্য করেছে, তাঁর নাফরমানি থেকে দূরে থেকেছে, আর এমন অবস্থায় রবের সঙ্গে সাক্ষাৎ করেছে যে তাঁর ইবাদতে কাউকে শরীক করেনি।"
+          },
+          {
+            "en": "Others draw the circle around sin as a whole. Al-Qurtubi says he purified himself of disbelief and acts of disobedience, and al-Baghawi says simply of sins. At-Tabari, whose text on 20:76 is filed under the next verse, says he purified himself of sins, obeyed Allah in what He commanded, and did not soil himself with disobedience in what He forbade. Al-Baghawi also reports from al-Kalbi that he gave the zakat of his soul and said la ilaha illa Allah. These are differences of emphasis, not a dispute.",
+            "bn": "অন্যরা সীমাটা টানেন সব ধরনের গুনাহ ঘিরে। কুরতুবী বলেন, সে নিজেকে কুফর আর নাফরমানি থেকে পবিত্র করেছে। বাগাভী শুধু বলেন, গুনাহ থেকে। তাবারীর ২০:৭৬ আয়াতের ব্যাখ্যা রাখা আছে পরের আয়াতের ঘরে। সেখানে তিনি বলেন, সে গুনাহ থেকে পবিত্র হয়েছে, আল্লাহ যা আদেশ করেছেন তাতে তাঁর আনুগত্য করেছে, আর তিনি যা নিষেধ করেছেন, সেই নাফরমানি দিয়ে নিজেকে কলুষিত করেনি। বাগাভী কালবী থেকেও বর্ণনা করেন: সে নিজের নফসের যাকাত দিয়েছে এবং লা ইলাহা ইল্লাল্লাহ বলেছে। এগুলো জোর দেওয়ার পার্থক্য, মতবিরোধ নয়।"
+          },
+          {
+            "en": "One thing runs through every gloss: the person is the one doing the work. Ibn Kathir and al-Muyassar say he purified his soul; at-Tabari, al-Qurtubi and al-Baghawi say he purified himself; at-Tabari adds that he did not soil himself. The two verses before it speak the same way, of what a person brings when he comes to his Lord, whether crimes or faith with righteous deeds. The Garden is called a recompense, and the recompense answers something done by the one who receives it.",
+            "bn": "প্রতিটি ব্যাখ্যায় একটি কথা আছেই: কাজটা মানুষ নিজে করছে। ইবন কাসীর ও মুয়াসসার বলেন, সে নিজের নফসকে পবিত্র করেছে। তাবারী, কুরতুবী ও বাগাভী বলেন, সে নিজে পবিত্র হয়েছে। তাবারী আরও বলেন, সে নিজেকে কলুষিত করেনি। আগের দুই আয়াতও একই ভঙ্গিতে কথা বলে: রবের কাছে আসার সময় মানুষ কী নিয়ে আসে, অপরাধ, নাকি ঈমান আর নেক আমল। জান্নাতকে এখানে বলা হয়েছে জাযা, প্রতিদান। আর প্রতিদান আসে তারই কোনো কাজের জবাবে, যে তা পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Washing Away and Growing",
+          "bn": "ধুয়ে ফেলা, বাড়িয়ে তোলা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the fullest account. Whoever purified himself, he says, cleansed himself of idolatry, disbelief, wickedness and disobedience, in one of two ways: either he never did them at all, or he repented of whatever of them he had done. And he also purified his soul in the other sense, making it grow through faith and righteous action. Tazkiya, as-Sa'di explains, has two meanings: cleansing and the removal of filth, and increase through the gaining of good. Zakat, he adds, is called zakat for both.",
+            "bn": "সবচেয়ে পূর্ণ ব্যাখ্যা দেন সা'দী। তাঁর মতে যে নিজেকে পবিত্র করেছে, সে শিরক, কুফর, পাপাচার আর নাফরমানি থেকে নিজেকে পরিষ্কার করেছে দুই পথের একটিতে। হয় সে এগুলো কখনো করেইনি, নয়তো যা করে ফেলেছে, তা থেকে তওবা করেছে। এর সঙ্গে সে নিজের নফসকে আরেক অর্থেও পবিত্র করেছে: ঈমান আর নেক আমল দিয়ে তাকে বাড়িয়ে তুলেছে। সা'দী বুঝিয়ে বলেন, তাযকিয়ার দুটি অর্থ। একটি হলো পরিষ্কার করা, নোংরা দূর করা। অন্যটি হলো ভালো কিছু অর্জনের মাধ্যমে বৃদ্ধি। তিনি যোগ করেন, যাকাতকে যাকাত বলা হয় এই দুই কারণেই।"
+          },
+          {
+            "en": "The same root returns across the Qur'an. In 87:14, \"He has certainly succeeded who purifies himself\", the word is the one used here, tazakka. In 91:9 the soul is the object: \"He has succeeded who purifies it.\" In 35:18, \"whoever purifies himself only purifies himself for his own sake.\" The shipped articles on 87:14 to 87:17 and on 91:9 look closely at what that purification covers. Here the word has a narrower job: it names who receives the Gardens just described.",
+            "bn": "একই ধাতু কুরআনের নানা জায়গায় ফিরে আসে। ৮৭:১৪ আয়াতে, \"নিশ্চয়ই সফল হয়েছে সে, যে নিজেকে পবিত্র করেছে\", শব্দটি হুবহু এখানকার মতোই, তাযাক্কা। ৯১:৯ আয়াতে নফস কর্ম হিসেবে এসেছে: \"সে-ই সফল, যে তাকে পবিত্র করেছে।\" ৩৫:১৮ আয়াতে আছে, \"যে নিজেকে পবিত্র করে, সে পবিত্র করে নিজেরই কল্যাণে।\" এই পবিত্রতা কতদূর বিস্তৃত, তা নিয়ে ৮৭:১৪ থেকে ৮৭:১৭ এবং ৯১:৯ আয়াতের প্রকাশিত প্রবন্ধে বিস্তারিত আলোচনা আছে। এখানে শব্দটির কাজ আরও নির্দিষ্ট: সদ্য বর্ণিত বাগানগুলো কে পাবে, শব্দটি তা জানিয়ে দেয়।"
+          },
+          {
+            "en": "One occurrence sits inside this very story. In 79:17 and 79:18, Musa (AS) is told: \"Go to Pharaoh; indeed, he has transgressed. And say: would you purify yourself?\" The offer made to the king was this same word, an tazakka. Verse 79:21 records his answer: he denied and disobeyed. In Surah Ta Ha, the magicians who had served him took up what he turned down, and the reward named for it is a garden of lasting residence. The offer was open to the king and to his servants alike.",
+            "bn": "এর একটি উদাহরণ এই কাহিনির ভেতরেই। ৭৯:১৭ ও ৭৯:১৮ আয়াতে মূসা (আঃ)-কে বলা হয়েছে: \"ফেরাউনের কাছে যাও, সে সীমালঙ্ঘন করেছে। আর তাকে বলো: তুমি কি পবিত্র হতে চাও?\" বাদশাহকে দেওয়া প্রস্তাবটি ছিল এই একই শব্দে, আন তাযাক্কা। ৭৯:২১ আয়াত তার জবাব জানায়: সে মিথ্যা বলে উড়িয়ে দিল এবং অমান্য করল। সূরা ত্বাহায় তারই সেবক যাদুকরেরা সেই জিনিসটি গ্রহণ করল, যা সে ফিরিয়ে দিয়েছিল। আর এর পুরস্কার হিসেবে নাম এসেছে স্থায়ী বসবাসের বাগানের। প্রস্তাবটা বাদশাহ আর তার সেবক, দুজনের জন্যই খোলা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purification as Daily Work",
+          "bn": "প্রতিদিনের কাজ পবিত্রতা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's two meanings turn easily into a daily practice. The first side is removal. At the end of a day, name one thing that should not have been there: a harsh word, a glance held too long, a right owed and not yet paid. If it can be avoided tomorrow, avoid it; if it has already been done, repent of it tonight and repair what can be repaired.",
+            "bn": "সা'দীর বলা দুই অর্থকে সহজেই প্রতিদিনের অভ্যাসে বদলে নেওয়া যায়। প্রথম দিকটা হলো সরিয়ে ফেলা। দিনের শেষে এমন একটি জিনিসের নাম নিন, যা থাকার কথা ছিল না। হতে পারে একটা কড়া কথা, বেশিক্ষণ ধরে রাখা একটা দৃষ্টি, কিংবা কারও এমন হক যা এখনো আদায় হয়নি। আগামীকাল তা এড়ানো গেলে এড়িয়ে চলুন। আর যা ঘটে গেছে, তার জন্য আজ রাতেই তওবা করুন, যতটুকু শোধরানো যায় শুধরে নিন।"
+          },
+          {
+            "en": "The second side is growth, and it is easy to forget. A soul emptied of faults but given nothing new has met only one of as-Sa'di's two meanings. So add something each day, however small: a prayer prayed with more attention, a portion of Qur'an read with its meaning, a kindness no one will notice. At-Tabari's gloss adds a third habit, guarding: he did not soil himself with what Allah forbade. Washing is wasted on a garment walked straight back into the mud.",
+            "bn": "দ্বিতীয় দিকটা হলো বাড়িয়ে তোলা, আর এটাই সহজে ভুলে যাওয়া হয়। যে নফস থেকে দোষ সরানো হলো কিন্তু নতুন কিছু দেওয়া হলো না, সে সা'দীর বলা দুই অর্থের কেবল একটি পূরণ করেছে। তাই প্রতিদিন কিছু না কিছু যোগ করুন, যত ছোটই হোক। একটু বেশি মনোযোগ দিয়ে পড়া এক ওয়াক্ত নামাজ, অর্থ বুঝে পড়া কুরআনের একটি অংশ, কিংবা এমন কোনো সদয় আচরণ, যা কেউ খেয়ালই করবে না। তাবারীর ব্যাখ্যা তৃতীয় একটি অভ্যাসের কথাও মনে করিয়ে দেয়, হেফাজত: আল্লাহ যা নিষেধ করেছেন, তা দিয়ে সে নিজেকে কলুষিত করেনি। ধোয়া কাপড় পরে সোজা কাদায় হেঁটে গেলে ধোয়াটাই বৃথা।"
+          },
+          {
+            "en": "Finally, the verse speaks to its reader, not about others. The two arrivals of 20:74 and 20:75 give no one a list to sort friends and enemies into; each person is asked about his own arrival. The magicians had come to the contest as Pharaoh's sorcerers, yet their turning came in a single day. No one is too far gone to start washing, and no one is clean enough to stop.",
+            "bn": "শেষ কথা, আয়াতটি কথা বলে তার পাঠকের সঙ্গে, অন্যদের নিয়ে নয়। ২০:৭৪ ও ২০:৭৫ আয়াতের দুই হাজিরা এমন কোনো তালিকা দেয় না, যাতে বন্ধু আর শত্রুদের ভাগ করে বসানো যায়। প্রত্যেককে জিজ্ঞেস করা হচ্ছে তার নিজের হাজিরার কথা। যাদুকরেরা প্রতিযোগিতায় এসেছিল ফেরাউনের যাদুকর হয়ে, তবু তাদের ফিরে আসা ঘটেছিল একটিমাত্র দিনে। ধোয়া শুরু করার জন্য কেউই খুব বেশি দূরে চলে যায়নি, আবার থেমে যাওয়ার মতো যথেষ্ট পরিষ্কারও কেউ নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "20:82": {
     "sections": [
       {

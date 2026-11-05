@@ -23251,6 +23251,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you gather arguments and allies against something, ask whether you have already turned away from it, since a plan built after turning away rarely seeks the truth.",
     "lessonBn": "কোনো কিছুর বিরুদ্ধে যুক্তি আর সঙ্গী জড়ো করার আগে নিজেকে জিজ্ঞেস করুন, আপনি কি আগেই তা থেকে মুখ ফিরিয়ে নিয়েছেন। মুখ ফেরানোর পরে গড়া কৌশল খুব কমই সত্যের খোঁজ করে।"
+  },
+  "20:76": {
+    "reflectionEn": "A few hours earlier these men were the king's magicians. Now, facing his threat of hands and feet cut off and bodies hung on palm trunks, the passage sets out two arrivals before the Lord: one as a criminal, to a Fire where he neither dies nor lives, and one as a believer who did good, to the highest ranks. Then the ranks are named: gardens of lasting residence, rivers running beneath, a stay without end. And one short phrase says who receives them: whoever purified himself. Not whoever was born clean, but whoever did the washing, by leaving wrong, by turning back from it, and by adding good. What in me needs washing today, and what good can I add to it?",
+    "reflectionBn": "কয়েক ঘণ্টা আগেও এরা ছিল বাদশাহর যাদুকর। এখন তাদের সামনে হাত-পা কেটে খেজুর গাছের কাণ্ডে ঝোলানোর হুমকি। সেই মুহূর্তে রবের সামনে দুই রকম হাজিরার কথা শোনা যায়। একজন আসবে অপরাধী হয়ে, তার ঠিকানা এমন আগুন যেখানে সে না মরবে, না বাঁচবে। আরেকজন আসবে মুমিন হয়ে, নেক আমল সঙ্গে নিয়ে, তার জন্য সবচেয়ে উঁচু মর্যাদা। তারপর সেই মর্যাদার নাম বলা হয়: স্থায়ী বসবাসের বাগান, নিচ দিয়ে বয়ে চলা নহর, শেষ না হওয়া থাকা। আর ছোট্ট এক কথায় জানানো হয় কে তা পাবে: যে নিজেকে পবিত্র করেছে। যে পবিত্র হয়ে জন্মেছে সে নয়, যে নিজে ধোয়ার কাজটা করেছে। অন্যায় ছেড়ে, করে ফেললে তওবা করে, আর তার সঙ্গে ভালো কাজ যোগ করে। আজ আমার ভেতরের কোন জিনিসটা ধোয়া দরকার, আর তার সঙ্গে কোন ভালো কাজটা আমি যোগ করতে পারি?",
+    "pointsEn": [
+      "Which habit or wrong in my life have I treated as permanent, when this verse calls purification something a person does?",
+      "When I slip, how long do I wait before I turn back to Allah, and what does that delay cost me?",
+      "Purifying the self has two sides, removing what is bad and growing what is good. Which side do I neglect?",
+      "The magicians changed their whole direction in one day. What step have I been postponing because I think change must be slow?",
+      "If I met my Lord tonight, would I come as one who had been washing, or as one who had stopped trying?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন অভ্যাস বা অন্যায়কে আমি চিরস্থায়ী ধরে নিয়েছি, অথচ এ আয়াত বলছে পবিত্র হওয়া মানুষের নিজের করা কাজ?",
+      "পা পিছলে গেলে আল্লাহর দিকে ফিরতে আমি কতক্ষণ দেরি করি? সেই দেরির দাম আমাকে কী দিতে হয়?",
+      "নিজেকে পবিত্র করার দুটি দিক আছে: মন্দকে সরানো আর ভালোকে বাড়ানো। কোন দিকটা আমার কাছে অবহেলিত থেকে যায়?",
+      "যাদুকরেরা একদিনেই নিজেদের গোটা পথ বদলে ফেলেছিল। বদল ধীরে আসতে হয় ভেবে আমি কোন পদক্ষেপটা পিছিয়ে রেখেছি?",
+      "আজ রাতেই যদি রবের সঙ্গে দেখা হয়, আমি কি যাব নিজেকে ধুতে থাকা একজন হয়ে, নাকি চেষ্টা ছেড়ে দেওয়া একজন হয়ে?"
+    ],
+    "lessonEn": "Paradise is promised to the one who purifies himself, so make purification daily work: leave a wrong, repent quickly when you fall, and add one good deed in its place.",
+    "lessonBn": "জান্নাতের প্রতিশ্রুতি তার জন্য, যে নিজেকে পবিত্র করে। তাই পবিত্র হওয়াকে প্রতিদিনের কাজ বানান: অন্যায় ছাড়ুন, পড়ে গেলে দ্রুত তওবা করুন, আর তার জায়গায় একটি ভালো কাজ যোগ করুন।"
   }
 };
 
