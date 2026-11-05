@@ -3211,6 +3211,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:84": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer That Opens With We",
+          "bn": "জবাবের শুরু ‘আমি’ দিয়ে"
+        },
+        "p": [
+          {
+            "en": "They ask you about Dhul-Qarnayn; say, I will recite to you about him a report (18:83). The very next words are not his name, his people or his century. They are Inna makkanna lahu fi l-ard: Indeed, We established him upon the earth. The first actor in his story is Allah. As-Sa'di, on 18:83, says Allah recited of his affairs what carries remembrance and a lesson, and what lay beyond that He did not recite. This verse is where that chosen report begins, and it begins with a gift.",
+            "bn": "তারা তোমাকে যুলকারনাইন সম্পর্কে জিজ্ঞেস করছে; বলো, আমি তোমাদের কাছে তাঁর কিছু বৃত্তান্ত পড়ে শোনাব (১৮:৮৩)। ঠিক পরের কথাগুলোতে তাঁর নাম নেই, জাতির পরিচয় নেই, যুগের উল্লেখও নেই। আছে ইন্না মাক্কান্না লাহু ফিল আরদ: নিশ্চয় আমি তাঁকে পৃথিবীতে প্রতিষ্ঠিত করেছিলাম। তাঁর কাহিনির প্রথম কর্তা আল্লাহ নিজে। সা'দী ১৮:৮৩-এর ব্যাখ্যায় বলেন, আল্লাহ তাঁর অবস্থার সেটুকুই শুনিয়েছেন যাতে উপদেশ আর শিক্ষা আছে, বাকিটা শোনাননি। বাছাই করা সেই বৃত্তান্ত শুরু হয় এই আয়াতে, আর শুরু হয় একটি দান দিয়ে।"
+          },
+          {
+            "en": "Who asked is reported two ways. Ibn Kathir recalls that the disbelievers of Makkah sent to the People of the Book for questions to test the Prophet ﷺ, and were told to ask about a man who roamed the earth, some young men no one knew the fate of, and the spirit; then Surat al-Kahf came down. At-Tabari names the polytheists as the askers and adds that it is also said they were a group from the People of the Book. As-Sa'di leaves it as either. None of them grades the report here.",
+            "bn": "প্রশ্নটা কারা করেছিল, সে বিষয়ে দুই রকম বর্ণনা আছে। ইবন কাসীর মনে করিয়ে দেন, মক্কার কাফেররা নবী ﷺ-কে পরীক্ষা করার মতো প্রশ্ন জানতে আহলে কিতাবের কাছে লোক পাঠিয়েছিল। তাদের বলা হয়েছিল তিনটি বিষয়ে জিজ্ঞেস করতে: পৃথিবী ঘুরে বেড়ানো এক ব্যক্তি, কয়েকজন যুবক যাদের পরিণতি কেউ জানে না, আর রূহ। এরপর সূরা কাহফ নাজিল হয়। তাবারী প্রশ্নকারী হিসেবে মুশরিকদের কথা বলেন, সঙ্গে যোগ করেন যে এ কথাও বলা হয়েছে, তারা ছিল আহলে কিতাবের একদল লোক। সা'দী দুটোর যেকোনোটি হতে পারে বলে রেখে দেন। এখানে তাঁদের কেউই বর্ণনাটির মান যাচাই করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground Made Level Beneath Him",
+          "bn": "পায়ের নিচের মাটি সমান করা"
+        },
+        "p": [
+          {
+            "en": "What does makkanna mean? At-Tabari glosses it as watta'na: We made the ground level and settled for him. Al-Baghawi uses the related awta'na and adds a definition, that tamkin is the preparing of the means in advance. He then relays from Ali that the clouds were made subject to him, the means were stretched out for him and light was spread for him, so that night and day were alike to him. That, al-Baghawi says, is what his establishment means: travel through the land was made easy and its roads were made to yield.",
+            "bn": "মাক্কান্না শব্দের অর্থ কী? তাবারী এর ব্যাখ্যা দেন ওয়াত্তা'না দিয়ে: আমি তাঁর জন্য মাটি সমান ও স্থির করে দিয়েছিলাম। বাগাভী কাছাকাছি শব্দ আওতা'না ব্যবহার করেন, সঙ্গে একটি সংজ্ঞা জোড়েন: তামকীন মানে আগে থেকে উপায়গুলো প্রস্তুত করে রাখা। এরপর তিনি আলী (রাঃ) থেকে বর্ণনা করেন, মেঘকে তাঁর অধীন করা হয়েছিল, উপায়গুলো তাঁর জন্য বিস্তৃত করা হয়েছিল, আর আলো তাঁর জন্য ছড়িয়ে দেওয়া হয়েছিল, ফলে রাত আর দিন তাঁর কাছে সমান হয়ে গিয়েছিল। বাগাভী বলেন, প্রতিষ্ঠা দানের মানে এটাই: পৃথিবীতে চলাফেরা তাঁর জন্য সহজ করা হয়েছিল, আর পথগুলো তাঁর বশে এনে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Ibn Kathir describes the same gift as a kingdom. Allah gave him a great and firmly held dominion with everything kings are given: establishment, troops, the instruments of war and of siege. So he ruled the easts and wests of the earth, lands yielded to him, kings bowed to him, and nations Arab and non-Arab served him. As-Sa'di puts it more briefly: Allah gave him rule, the power to pass through the regions of the earth, and the compliance of their people.",
+            "bn": "ইবন কাসীর একই দানকে বর্ণনা করেন এক রাজত্ব হিসেবে। আল্লাহ তাঁকে দিয়েছিলেন বিশাল ও মজবুত সাম্রাজ্য, বাদশাহদের যা কিছু দেওয়া হয় তার সবই: প্রতিষ্ঠা, সৈন্যবাহিনী, যুদ্ধ আর অবরোধের সরঞ্জাম। ফলে তিনি পৃথিবীর পূর্ব-পশ্চিমের মালিক হলেন, দেশগুলো তাঁর অধীন হলো, বাদশাহরা মাথা নোয়াল, আরব-অনারব জাতিগুলো তাঁর সেবা করল। সা'দী কথাটা বলেন আরও সংক্ষেপে: আল্লাহ তাঁকে রাজত্ব দিয়েছিলেন, পৃথিবীর নানা অঞ্চলে প্রবেশের সামর্থ্য দিয়েছিলেন, আর সেখানকার মানুষকে তাঁর অনুগত করেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir brings the report from Ali through al-Diya al-Maqdisi's al-Mukhtara. A man asked him how Dhul-Qarnayn reached the easts and the wests, and Ali answered: Glory be to Allah. He made the clouds subject to him, measured out the means for him, and spread out his hand. Al-Qurtubi carries a close version, and none of the three grades the report. Every verb in Ali's answer has Allah as its subject, which is the verse's own grammar: the reach was a thing done for him.",
+            "bn": "আলী (রাঃ)-এর বর্ণনাটি ইবন কাসীর আনেন যিয়া আল-মাকদিসীর আল-মুখতারা গ্রন্থের সূত্রে। এক লোক তাঁকে জিজ্ঞেস করল, যুলকারনাইন পূর্ব আর পশ্চিমের প্রান্তে পৌঁছালেন কীভাবে? তিনি বললেন: সুবহানাল্লাহ! আল্লাহ মেঘকে তাঁর অধীন করে দিয়েছিলেন, তাঁর জন্য উপায়গুলো মেপে ঠিক করে দিয়েছিলেন, আর তাঁর হাত প্রশস্ত করে দিয়েছিলেন। কুরতুবীও কাছাকাছি একটি ভাষ্য আনেন, আর তিনজনের কেউই বর্ণনাটির মান বলেননি। আলী (রাঃ)-এর জবাবে প্রতিটি ক্রিয়ার কর্তা আল্লাহ, আয়াতের নিজের ব্যাকরণও তাই: তাঁর নাগাল ছিল তাঁর জন্য করে দেওয়া জিনিস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rope That Reaches",
+          "bn": "যে রশি গন্তব্যে পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "Wa ataynahu min kulli shay'in sababa: and We gave him of everything a means. Al-Qurtubi goes to the root of the word. The original sabab is a rope, and the word was borrowed for anything by which one reaches something else. Al-Baghawi defines it the same way: the sabab is what brings one thing to another. Ma'arif al-Qur'an, citing al-Bahr al-Muhit, says the word covers everything harnessed to reach a goal, material instruments and resources as well as knowledge, insight and experience. A sabab is never the goal itself. It is what gets you there.",
+            "bn": "ওয়া আতাইনাহু মিন কুল্লি শাইয়িন সাবাবা: আর আমি তাঁকে সব কিছুর উপায় দিয়েছিলাম। কুরতুবী শব্দটির মূলে যান। সাবাবের আসল অর্থ রশি, পরে শব্দটি ধার করা হয়েছে এমন সব কিছুর জন্য যার মাধ্যমে অন্য কিছুতে পৌঁছানো যায়। বাগাভীর সংজ্ঞাও একই: সাবাব হলো যা এক জিনিসকে আরেক জিনিসের কাছে পৌঁছে দেয়। মাআরিফুল কুরআন আল-বাহরুল মুহীতের বরাতে বলে, লক্ষ্যে পৌঁছাতে কাজে লাগানো সব কিছুই এ শব্দের আওতায়: বস্তুগত যন্ত্র ও সম্পদ যেমন, তেমনি জ্ঞান, অন্তর্দৃষ্টি আর অভিজ্ঞতাও। সাবাব নিজে কখনো গন্তব্য নয়। গন্তব্যে নিয়ে যাওয়ার পথ।"
+          },
+          {
+            "en": "The word does not stay in this verse. The next verse is two words long, fa-atba'a sababa: so he followed a means (18:85). The same phrase, opened by then, returns at 18:89 and again at 18:92, each time before a new journey. As-Sa'di reads 18:84 and 18:85 together as a single thought. Allah gave him the means that brought him where he arrived, the means with which he could overcome lands and reach with ease the farthest settled places. Then he acted on those means. The gift comes first, and the one who receives it must follow it.",
+            "bn": "শব্দটি এই আয়াতেই থেমে থাকে না। পরের আয়াতটি মাত্র দুই শব্দের, ফাআতবাআ সাবাবা: অতঃপর তিনি এক উপায় অনুসরণ করলেন (১৮:৮৫)। একই বাক্যাংশ ‘তারপর’ শব্দ দিয়ে শুরু হয়ে আবার ফিরে আসে ১৮:৮৯ ও ১৮:৯২ আয়াতে, প্রতিবার নতুন এক যাত্রার আগে। সা'দী ১৮:৮৪ ও ১৮:৮৫ মিলিয়ে একটি ভাবনা হিসেবে পড়েন। আল্লাহ তাঁকে সেসব উপায় দিয়েছিলেন যা তাঁকে গন্তব্যে পৌঁছে দিয়েছিল, যার সাহায্যে তিনি দেশের পর দেশ জয় করতে আর সহজে লোকালয়ের শেষ প্রান্তে পৌঁছাতে পারতেন। তারপর তিনি সেই উপায়গুলো কাজে লাগালেন। দান আসে আগে, আর যে পায় তাকে সেই পথ ধরে চলতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Most Read It as Knowledge",
+          "bn": "অধিকাংশের মতে জ্ঞান"
+        },
+        "p": [
+          {
+            "en": "What was the means? The largest group says knowledge. Ibn Kathir names Ibn Abbas, Mujahid, Sa'id ibn Jubayr, Ikrimah, as-Suddi, Qatadah, ad-Dahhak and others for the single word ilm. At-Tabari makes it his own reading: of everything, that by which a person reaches it, and that is knowledge of it. He adds that the people of interpretation said likewise and gives his chains to Ibn Abbas, Qatadah, Ibn Zayd, Ibn Jurayj and ad-Dahhak. Al-Qurtubi's version from Ibn Abbas is fuller: of everything, a knowledge by which he could reach what he wanted.",
+            "bn": "উপায়টা কী ছিল? সবচেয়ে বড় দলটি বলে: জ্ঞান। ইবন কাসীর ইবন আব্বাস, মুজাহিদ, সাঈদ ইবন জুবাইর, ইকরিমা, সুদ্দী, কাতাদা, দাহহাকসহ আরও অনেকের নাম নেন, যাঁরা সবাই এক শব্দে বলেছেন: ইলম। তাবারী এটিকে নিজের ব্যাখ্যা হিসেবেই গ্রহণ করেন: প্রতিটি জিনিসের ক্ষেত্রে যা দিয়ে তাতে পৌঁছানো যায়, আর তা হলো সে বিষয়ের জ্ঞান। তিনি বলেন, তাফসীরের আলেমরাও এমনই বলেছেন, আর ইবন আব্বাস, কাতাদা, ইবন যায়দ, ইবন জুরাইজ ও দাহহাক পর্যন্ত নিজের সনদগুলো উল্লেখ করেন। কুরতুবীর বর্ণনায় ইবন আব্বাসের কথাটি আরও পূর্ণ: প্রতিটি বিষয়ের এমন জ্ঞান, যা দিয়ে তিনি যা চাইতেন তাতে পৌঁছাতে পারতেন।"
+          },
+          {
+            "en": "Others named something narrower. Qatadah, in a second report in Ibn Kathir, said the stations of the earth and its landmarks. Abd al-Rahman ibn Zayd ibn Aslam said it was the teaching of languages: he never marched on a people without speaking to them in their own tongue. Al-Hasan, in al-Qurtubi and al-Baghawi, said a reaching to wherever he wished. Al-Baghawi also relays that the regions of the earth were brought near to him. These readings do not cancel one another; each names one rope among many.",
+            "bn": "অন্যরা আরও নির্দিষ্ট কিছুর কথা বলেছেন। ইবন কাসীরে কাতাদার দ্বিতীয় এক বর্ণনায় আছে: পৃথিবীর মনজিল আর তার চিহ্নগুলো। আবদুর রহমান ইবন যায়দ ইবন আসলাম বলেছেন, তা ছিল ভাষা শেখানো। তিনি কোনো জাতির বিরুদ্ধে অভিযানে গেলে আগে তাদের সঙ্গে তাদের নিজের ভাষায় কথা বলতেন। কুরতুবী ও বাগাভীতে হাসানের মত: যেখানে চাইতেন সেখানে পৌঁছে যাওয়ার সামর্থ্য। বাগাভী আরেকটি মতও আনেন: পৃথিবীর অঞ্চলগুলো তাঁর কাছে নিকটে এনে দেওয়া হয়েছিল। এসব ব্যাখ্যা একটি আরেকটিকে বাতিল করে না। প্রত্যেকে অনেক রশির মধ্যে একটির নাম বলেছেন।"
+          },
+          {
+            "en": "A last pair of readings looks at what the means were for. Al-Qurtubi and al-Baghawi both record, as something said, everything that creation needs, and everything kings use to open cities and overcome enemies. Al-Muyassar takes the second as the plain sense: We gave him means and paths by which he reached what he wanted, the opening of cities, the subduing of enemies and more. So the means were knowledge, and they were also tools.",
+            "bn": "শেষ দুটি ব্যাখ্যা দেখে উপায়গুলো কিসের জন্য ছিল। কুরতুবী ও বাগাভী দুজনেই ‘বলা হয়’ বলে আনেন: সৃষ্টিজগতের যা কিছু প্রয়োজন তার সবই, আর শহর জয় ও শত্রু দমনে বাদশাহরা যা কিছু কাজে লাগান তার সবই। মুয়াসসার দ্বিতীয়টিকেই সরল অর্থ হিসেবে নেয়: আমি তাঁকে এমন উপায় ও পথ দিয়েছিলাম, যা দিয়ে তিনি নিজের লক্ষ্যে পৌঁছাতেন, শহর জয়, শত্রু দমন এবং আরও অনেক কিছু। তাহলে উপায় ছিল জ্ঞানও, আবার সরঞ্জামও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of Everything, Within Measure",
+          "bn": "সব কিছু, তবে মাপমতো"
+        },
+        "p": [
+          {
+            "en": "Of everything sounds unlimited, and Ibn Kathir stops the reader from taking it that way. He sets beside it what the hoopoe said of the queen of Saba: wa utiyat min kulli shay', and she has been given of all things (27:23). That means, he says, of what is given to such as her among kings. So too Dhul-Qarnayn: Allah made easy for him the paths and instruments for opening regions, districts and lands, breaking enemies, humbling the kings of the earth and abasing the people of shirk. He was given, of everything, what one like him needs.",
+            "bn": "‘সব কিছু’ শুনলে মনে হয় সীমাহীন, আর ইবন কাসীর পাঠককে সেভাবে বুঝতে দেন না। তিনি এর পাশে রাখেন সাবার রানি সম্পর্কে হুদহুদের কথা: ওয়া উতিয়াত মিন কুল্লি শাই, আর তাকে সব কিছুই দেওয়া হয়েছে (২৭:২৩)। এর মানে, তিনি বলেন, তার মতো বাদশাহদের যা দেওয়া হয় তার সব। যুলকারনাইনের বেলাতেও তাই। আল্লাহ তাঁর জন্য সহজ করে দিয়েছিলেন অঞ্চল, জনপদ আর দেশ জয়ের পথ ও সরঞ্জাম, শত্রুকে পরাস্ত করা, পৃথিবীর বাদশাহদের দমন করা আর শিরককারীদের অবনত করা। তাঁর মতো একজনের যা দরকার, প্রতিটি বিষয় থেকে তা-ই তাঁকে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads of everything the same way: all things a ruler needs to run the affairs of a state. It calls him the righteous king and says Allah supplied what that time required so he could keep a just rule and extend his reach. Notice where Ibn Kathir's comparison leads. The same words, of all things, were said of a queen whom the very next verse finds prostrating to the sun with her people (27:24). Being given of everything settles nothing about a person's worth. What settles it is what the means are used for.",
+            "bn": "মাআরিফুল কুরআনও ‘সব কিছু’ এভাবেই বোঝে: রাষ্ট্র চালাতে একজন শাসকের যা কিছু লাগে তার সব। মাআরিফ তাঁকে বলে নেককার বাদশাহ, আর জানায়, ন্যায়ের শাসন টিকিয়ে রাখতে ও প্রভাব বাড়াতে সেই যুগে যা প্রয়োজন ছিল আল্লাহ তাঁকে তা জুগিয়েছিলেন। ইবন কাসীরের তুলনাটা কোথায় নিয়ে যায়, খেয়াল করুন। ‘সব কিছু’ কথাটা বলা হয়েছিল এমন এক রানি সম্পর্কে, ঠিক পরের আয়াতেই যাকে তার জাতিসহ সূর্যকে সেজদা করতে দেখা যায় (২৭:২৪)। সব কিছু পাওয়া কারও মর্যাদা ঠিক করে দেয় না। মর্যাদা ঠিক হয় উপায়গুলো কোন কাজে লাগল তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Horses Tethered to the Pleiades",
+          "bn": "সুরাইয়া তারায় ঘোড়া বাঁধা"
+        },
+        "p": [
+          {
+            "en": "Large words invite large stories. Ibn Kathir reports, through Ibn Lahi'ah, that Mu'awiyah ibn Abi Sufyan asked Ka'b al-Ahbar: Is it you who says Dhul-Qarnayn used to tether his horses to the Pleiades? Ka'b replied: If I said it, Allah has said, and We gave him of everything a means. Ka'b had used the verse's of everything to vouch for what he found in his scrolls, a cavalry stabled among the stars. Mu'awiyah would not accept it, and Ibn Kathir sides with him without hesitation.",
+            "bn": "বড় শব্দ বড় গল্প ডেকে আনে। ইবন কাসীর ইবন লাহীআর সূত্রে বর্ণনা করেন, মুআবিয়া ইবন আবী সুফিয়ান (রাঃ) কা'ব আল-আহবারকে জিজ্ঞেস করলেন: আপনিই কি বলেন যে যুলকারনাইন সুরাইয়া তারায় নিজের ঘোড়া বেঁধে রাখতেন? কা'ব জবাব দিলেন: যদি বলেও থাকি, আল্লাহ তো বলেছেন, আর আমি তাঁকে সব কিছুর উপায় দিয়েছিলাম। নিজের পুঁথিপত্রে যা পেয়েছিলেন, তারাদের মাঝে আস্তাবল বানানো সেই ঘোড়সওয়ার বাহিনীর পক্ষে কা'ব সাক্ষী মেনেছিলেন আয়াতের ‘সব কিছু’ কথাটাকে। মুআবিয়া (রাঃ) তা মানেননি, আর ইবন কাসীর কোনো দ্বিধা ছাড়াই তাঁর পক্ষ নেন।"
+          },
+          {
+            "en": "Mu'awiyah's rejection, Ibn Kathir writes, is the right view, and the truth is with him. Mu'awiyah used to say of Ka'b that they would come upon falsehood in him, meaning in what he passed on, not that he knowingly invented. The trouble was his scrolls: Israelite reports, most of them changed, distorted and made up, and with the report of Allah and His Messenger we have no need of them at all. Ka'b's reading is neither sound nor fitting, for humans have no way to such things, nor to climbing the paths of the heavens.",
+            "bn": "ইবন কাসীর লেখেন, মুআবিয়া (রাঃ) যা অস্বীকার করেছিলেন সেটাই সঠিক, সত্য তাঁর পক্ষেই। তিনি কা'ব সম্পর্কে বলতেন, আমরা তাঁর কথায় মিথ্যা খুঁজে পেতাম। মানে তিনি যা বর্ণনা করতেন তাতে, জেনেশুনে বানিয়ে বলতেন এমন নয়। সমস্যা ছিল তাঁর পুঁথিগুলোতে। সেগুলো ইসরাঈলী বর্ণনা, যার বেশির ভাগই বদলানো, বিকৃত আর বানানো, আর আল্লাহ ও তাঁর রাসূলের সংবাদ থাকতে এসবের কোনো প্রয়োজনই আমাদের নেই। কা'বের ব্যাখ্যা সঠিকও নয়, মানানসইও নয়। কারণ মানুষের পক্ষে এমন কিছুতে পৌঁছানোর কোনো পথ নেই, আসমানের পথ বেয়ে ওপরে ওঠারও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Names, No Verdict",
+          "bn": "নাম অনেক, রায় নেই"
+        },
+        "p": [
+          {
+            "en": "The verse names no man, and the reports rushed to fill the gap. On this verse al-Qurtubi relays, without comment, a report from Uqbah ibn Amir that the Prophet ﷺ told some People of the Book that Dhul-Qarnayn began as a youth of the Romans and built a city called Alexandria. Ibn Kathir, on 18:83, judges that report weak: long, containing things that are objectionable, not soundly traced to the Prophet ﷺ, and at most a report of the Children of Israel. The commentaries consulted here trace nothing else on this verse to the Prophet ﷺ, so it has no sound hadith of its own.",
+            "bn": "আয়াতে কোনো মানুষের নাম নেই, আর বর্ণনাগুলো সেই ফাঁক ভরাতে ছুটে এসেছে। এই আয়াতের ব্যাখ্যায় কুরতুবী কোনো মন্তব্য ছাড়াই উকবা ইবন আমির (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে আছে, নবী ﷺ কয়েকজন আহলে কিতাবকে বলেছিলেন, যুলকারনাইন শুরুতে ছিলেন রোমের এক যুবক, আর তিনি আলেকজান্দ্রিয়া নামে এক শহর বানিয়েছিলেন। ইবন কাসীর ১৮:৮৩-এর ব্যাখ্যায় বর্ণনাটিকে দুর্বল বলেন। তাঁর মতে এটি দীর্ঘ, এতে আপত্তিকর কথা আছে, নবী ﷺ পর্যন্ত এর সূত্র সঠিক নয়, আর বড়জোর বলা যায় এটি বনী ইসরাঈলের বর্ণনা। এখানে দেখা তাফসীরগুলোতে এ আয়াত সম্পর্কে নবী ﷺ পর্যন্ত পৌঁছানো আর কিছু নেই, ফলে এ আয়াতের নিজস্ব কোনো সহীহ হাদীস নেই।"
+          },
+          {
+            "en": "Ibn Kathir then separates two men. The man from the Romans was the second Alexander, son of Philip the Macedonian, whose minister was Aristotle, about 300 years before the Messiah. The first, the figure in the Qur'an, al-Azraqi and others place in the time of Ibrahim (AS), circling the House with him when he built it. Others do not separate them. Al-Baghawi lists two names, Marzuban ibn Marzubah the Greek and al-Iskandar ibn Filfus the Roman, and al-Qurtubi records many more, with eras ranging from the age of Ibrahim (AS) to the interval after Isa (AS).",
+            "bn": "এরপর ইবন কাসীর দুজন মানুষকে আলাদা করেন। রোমের যিনি, তিনি দ্বিতীয় ইসকান্দার, মেসিডোনিয়ার ফিলিপের পুত্র, অ্যারিস্টটল ছিলেন যাঁর মন্ত্রী, আর তাঁর সময় মাসীহের প্রায় ৩০০ বছর আগে। প্রথমজন, কুরআনে যাঁর কথা, তাঁকে আজরাকী ও অন্যরা ইবরাহীম (আঃ)-এর যুগে রাখেন। ইবরাহীম (আঃ) কাবাঘর নির্মাণ করলে তিনি তাঁর সঙ্গে তাওয়াফ করেছিলেন। অন্যরা দুজনকে আলাদা করেন না। বাগাভী দুটি নাম উল্লেখ করেন: মারযুবান ইবন মারযুবা আল-ইউনানী, আর ইসকান্দার ইবন ফিলফুস আর-রূমী। কুরতুবী আরও অনেক নাম আনেন। তাঁর যুগ নিয়েও মত ছড়িয়ে আছে ইবরাহীম (আঃ)-এর সময় থেকে ঈসা (আঃ)-এর পরের বিরতিকাল পর্যন্ত।"
+          },
+          {
+            "en": "For the title, al-Baghawi gathers the reasons given: al-Zuhri said he reached the two horns of the sun, its east and its west; or he ruled Rome and Persia; or he dreamed he held the sun by its two horns; or he had two locks of hair. At-Tabari carries Ali's report that he called his people to Allah and they struck him on the side of his head and he died; Allah revived him, and they struck the other side. Whether he was a prophet, al-Baghawi says, was disputed, and most held him a just, righteous king. None of this is settled, and the verse does not need it settled.",
+            "bn": "উপাধির কারণ হিসেবে বাগাভী নানা মত একসঙ্গে আনেন। যুহরী বলেছেন, তিনি সূর্যের দুই শিং, অর্থাৎ পূর্ব ও পশ্চিম প্রান্তে পৌঁছেছিলেন। কেউ বলেছেন, তিনি রোম ও পারস্য শাসন করতেন। কেউ বলেছেন, তিনি স্বপ্নে দেখেছিলেন সূর্যের দুই শিং ধরে আছেন। কারও মতে তাঁর চুলের দুটি গোছা ছিল। তাবারী আলী (রাঃ)-এর বর্ণনা আনেন: তিনি নিজের জাতিকে আল্লাহর দিকে ডেকেছিলেন, তারা তাঁর মাথার এক পাশে আঘাত করলে তিনি মারা যান। আল্লাহ তাঁকে জীবিত করেন, তারা আবার আরেক পাশে আঘাত করে। তিনি নবী ছিলেন কি না, বাগাভী বলেন তা নিয়ে মতভেদ আছে, আর অধিকাংশের মতে তিনি ছিলেন ন্যায়পরায়ণ নেককার বাদশাহ। এর কোনোটিরই মীমাংসা হয়নি, আর আয়াতের বক্তব্যের জন্য মীমাংসার দরকারও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Power Placed in the Hand",
+          "bn": "হাতে তুলে দেওয়া ক্ষমতা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the lesson from the pairing of gift and action. Not everyone who holds some of the means walks that path, he says, nor is everyone able to use them; when ability over the true means meets acting on it, the aim is reached. The verse adds who gives: Allah establishes, Allah grants. Power is placed in a hand and held by leave. The verse describes a ruler in his own story, by Allah's grant, and licenses no one today to claim conquest in His name, nor judges any living people. A general narration, not tied to this verse, names the trust.",
+            "bn": "দান আর আমলের এই জোড় থেকে সা'দী শিক্ষাটা বের করেন। তিনি বলেন, যার কাছে কিছু উপায় আছে সে-ই যে সেই পথে চলে তা নয়, আর সবাই উপায় কাজে লাগাতেও পারে না। সত্যিকারের উপায়ের উপর সামর্থ্য আর তা দিয়ে কাজ করা যখন একসঙ্গে হয়, তখনই লক্ষ্য অর্জিত হয়। আয়াত জানিয়ে দেয় দাতা কে: প্রতিষ্ঠা দেন আল্লাহ, উপায়ও দেন আল্লাহ। ক্ষমতা হাতে তুলে দেওয়া জিনিস, তাঁর অনুমতিতেই ধরে রাখা। আয়াতটি আল্লাহর দানে নিজের কাহিনির ভেতরে এক শাসকের বর্ণনা দেয়। আজ কাউকে আল্লাহর নামে দেশ দখলের অনুমতি দেয় না, কোনো জীবিত জাতি সম্পর্কে রায়ও দেয় না। এ আয়াতের সঙ্গে যুক্ত নয় এমন এক সাধারণ বর্ণনা সেই আমানতের কথা বলে।"
+          },
+          {
+            "en": "Sahih al-Bukhari (7138) records from Abdullah ibn Umar that Allah's Messenger ﷺ said: \"Surely! Everyone of you is a guardian and is responsible for his charges: The Imam (ruler) of the people is a guardian and is responsible for his subjects; a man is the guardian of his family (household) and is responsible for his subjects; a woman is the guardian of her husband's home and of his children and is responsible for them; and the slave of a man is a guardian of his master's property and is responsible for it. Surely, everyone of you is a guardian and responsible for his charges.\"",
+            "bn": "সহীহ বুখারী (৭১৩৮) আবদুল্লাহ ইবন উমর (রাঃ) থেকে উল্লেখ করে, আল্লাহর রাসূল ﷺ বলেছেন: ‘জেনে রাখো, তোমরা প্রত্যেকেই দায়িত্বশীল, আর প্রত্যেকেই নিজের দায়িত্বাধীনদের বিষয়ে জিজ্ঞাসিত হবে। মানুষের উপর যে ইমাম, সে দায়িত্বশীল এবং নিজের প্রজাদের বিষয়ে জিজ্ঞাসিত হবে। পুরুষ তার পরিবারের দায়িত্বশীল এবং তাদের বিষয়ে জিজ্ঞাসিত হবে। নারী তার স্বামীর ঘর ও সন্তানদের দায়িত্বশীল এবং তাদের বিষয়ে জিজ্ঞাসিত হবে। মানুষের দাস তার মনিবের সম্পদের দায়িত্বশীল এবং সে বিষয়ে জিজ্ঞাসিত হবে। জেনে রাখো, তোমরা প্রত্যেকেই দায়িত্বশীল, আর প্রত্যেকেই নিজের দায়িত্বাধীনদের বিষয়ে জিজ্ঞাসিত হবে।’"
+          }
+        ]
+      }
+    ]
+  },
   "18:87": {
     "sections": [
       {

@@ -22991,6 +22991,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read your life as a record of your Lord's mercy, and come to Him first as His servant; that is the name under which His mercy is told.",
     "lessonBn": "নিজের জীবনকে আপনার রবের রহমতের দলিল হিসেবে পড়ুন, আর তাঁর কাছে যান সবার আগে তাঁর বান্দা হয়ে। এই পরিচয়েই তাঁর রহমতের কাহিনি বলা হয়।"
+  },
+  "18:84": {
+    "reflectionEn": "They asked about a famous king, and the answer opens with what God did, not with who the king was: We established him on the earth, and We gave him of everything a means. The armies, the roads, the reach to the far west and east, the knowledge of how to get where he was going: all of it arrived as a gift, measured to what a man in his place would need. Then the next verse says he followed a means. He put the gift to work. Power reaches every one of us the same way, as something handed over. Whatever reach I have today, at home, at work, in one small room, was given. What am I doing with it, and for whom?",
+    "reflectionBn": "লোকেরা এক বিখ্যাত বাদশাহর কথা জিজ্ঞেস করেছিল। জবাব শুরু হলো তিনি কে ছিলেন তা দিয়ে নয়, আল্লাহ কী করেছিলেন তা দিয়ে: আমি তাকে পৃথিবীতে প্রতিষ্ঠিত করেছিলাম, আর তাকে সব কিছুর উপায় দিয়েছিলাম। বাহিনী, পথঘাট, পশ্চিম আর পূর্বের দূর প্রান্ত পর্যন্ত নাগাল, কোথায় কীভাবে পৌঁছাতে হয় সেই জ্ঞান, সবই এসেছিল দান হয়ে, তাঁর জায়গার একজন মানুষের যতটুকু দরকার ঠিক ততটুকু মেপে। পরের আয়াত বলে, তিনি এক উপায় ধরে এগোলেন। দানটা তিনি কাজে লাগালেন। ক্ষমতা আমাদের প্রত্যেকের হাতেও আসে এভাবেই, কারও হাত দিয়ে তুলে দেওয়া জিনিস হয়ে। ঘরে, কর্মস্থলে, ছোট্ট একটা ঘরের ভেতরেও আজ আমার যতটুকু প্রভাব আছে, সবটাই দেওয়া। আমি তা দিয়ে কী করছি, আর কার জন্য?",
+    "pointsEn": [
+      "Which skill, position or resource in my hands have I quietly started to treat as my own making rather than a gift?",
+      "The means were given, yet he still had to follow them. Which gift of mine is lying unused?",
+      "Who lives under whatever authority I hold, at home or at work, and would they call my power a mercy to them?",
+      "Do I chase the dramatic tales about a person or an event more eagerly than the lesson God chose to tell about it?",
+      "If every means I have were taken back tomorrow, what would I wish I had done with it today?"
+    ],
+    "pointsBn": [
+      "আমার হাতে থাকা কোন দক্ষতা, পদ বা সম্পদকে আমি চুপিসারে নিজের অর্জন ভাবতে শুরু করেছি, আল্লাহর দান না ভেবে?",
+      "উপায় তাঁকে দেওয়া হয়েছিল, তবু সেই পথ ধরে তাঁকে নিজেকেই চলতে হয়েছে। আমার কোন দান অকেজো পড়ে আছে?",
+      "ঘরে বা কর্মস্থলে আমার সামান্য কর্তৃত্বের নিচেও যারা আছে, তারা কি আমার ক্ষমতাকে নিজেদের জন্য রহমত বলবে?",
+      "কোনো মানুষ বা ঘটনা নিয়ে চমকপ্রদ গল্পের পেছনে আমি কি বেশি ছুটি, আল্লাহ যে শিক্ষাটুকু বলতে চেয়েছেন তার চেয়ে?",
+      "কাল যদি আমার সব উপায় ফিরিয়ে নেওয়া হয়, আজ সেগুলো দিয়ে কী করা উচিত ছিল বলে আফসোস হবে?"
+    ],
+    "lessonEn": "Every power you hold, from strength to knowledge to reach, is a means God gave. Use it fully and rightly, and never mistake the gift for your own making.",
+    "lessonBn": "শক্তি, জ্ঞান, প্রভাব, আপনার হাতের প্রতিটি ক্ষমতা আল্লাহর দেওয়া উপায়। তা পুরোপুরি ও সঠিক পথে কাজে লাগান, আর দানকে কখনো নিজের বানানো জিনিস ভাববেন না।"
   }
 };
 
