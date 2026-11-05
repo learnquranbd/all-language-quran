@@ -21551,6 +21551,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When hardship lifts, name the One who lifted it. Rejoice in His gift without boasting over others, and keep being patient and doing good in ease as in difficulty.",
     "lessonBn": "কষ্ট কেটে গেলে যিনি কাটালেন, তাঁর নাম নিন। তাঁর দানে খুশি হোন, কিন্তু অন্যের উপর বড়াই করবেন না। কষ্টে যেমন, সুদিনেও তেমনি সবর আর নেক আমল ধরে রাখুন।"
+  },
+  "11:33": {
+    "reflectionEn": "They have heard enough. You argue with us too much, they tell Nuh; now bring what you keep threatening, if you are telling the truth. A man taunted like that might try to sound bigger than he is. Instead: only Allah will bring it, he says, if He wills, and you will not slip out of His reach. He claims no power over the punishment and names no day for it. He hands the matter back to its Owner and stays a warner. This gives nobody a licence to promise ruin to anyone alive today. It is a question for me. When someone mocks what I believe, do I leave the outcome with Allah, or reach for threats that were never mine to make?",
+    "reflectionBn": "তাদের আর শোনার ধৈর্য নেই। নূহ (আঃ)-কে তারা বলে, তুমি আমাদের সঙ্গে বড্ড বেশি তর্ক করেছ। সত্যবাদী হলে যার ভয় দেখাচ্ছ, এবার তা এনে দেখাও। এমন খোঁচার মুখে মানুষ নিজেকে বড় করে দেখাতে চায়। তিনি বরং বলেন, আল্লাহই তা আনবেন, যদি তিনি চান। আর তাঁর নাগাল থেকে তোমরা পালাতে পারবে না। শাস্তির উপর তিনি নিজের কোনো ক্ষমতা দাবি করেন না, কোনো দিনক্ষণও বেঁধে দেন না। বিষয়টা তার মালিকের হাতে ফিরিয়ে দিয়ে তিনি সতর্ককারীই থেকে যান। আজকের কোনো জীবিত মানুষের ধ্বংসের ঘোষণা দেওয়ার অনুমতি এখানে নেই। প্রশ্নটা বরং আমার নিজের কাছে। কেউ আমার বিশ্বাস নিয়ে বিদ্রূপ করলে আমি কি ফলাফল আল্লাহর হাতে ছেড়ে দিই, নাকি এমন হুমকির আশ্রয় নিই, যা দেওয়ার অধিকার আমার কোনোদিন ছিল না?",
+    "pointsEn": [
+      "When someone says to me, prove it then, do I answer with what I was given to say, or with promises I have no power to keep?",
+      "Have I ever spoken of Allah's punishment as though it were a weapon in my own hand, to be aimed at people who annoy me?",
+      "Do I read Allah's delay as a sign that nothing is coming, whether for others or for myself?",
+      "Where in my own life do I behave as though I could slip out of His reach?",
+      "When an argument has gone on far too long, can I say the truth once more, plainly, and leave the decision with Allah?"
+    ],
+    "pointsBn": [
+      "কেউ যখন বলে, তাহলে প্রমাণ করে দেখাও, আমি কি সেটুকুই বলি যা আমাকে বলতে দেওয়া হয়েছে, নাকি এমন প্রতিশ্রুতি দিয়ে বসি যা রাখার ক্ষমতা আমার নেই?",
+      "আল্লাহর শাস্তির কথা আমি কি কখনো এমনভাবে বলেছি, যেন ওটা আমার হাতের অস্ত্র, যাদের উপর বিরক্ত তাদের দিকে তাক করার জন্য?",
+      "আল্লাহ সময় দিচ্ছেন বলে আমি কি ধরে নিই যে কিছুই আসছে না, অন্যের বেলায় হোক বা নিজের বেলায়?",
+      "জীবনের কোন জায়গায় আমি এমন চলি, যেন তাঁর নাগালের বাইরে চলে যেতে পারব?",
+      "তর্ক যখন অনেক দূর গড়িয়ে যায়, আমি কি সত্য কথাটা আরেকবার সোজাসুজি বলে সিদ্ধান্ত আল্লাহর হাতে ছেড়ে দিতে পারি?"
+    ],
+    "lessonEn": "The messenger was sent to warn, not to bring the punishment. Leave outcomes with Allah, and remember that nobody, yourself included, slips out of His reach.",
+    "lessonBn": "রাসূলের কাজ ছিল সতর্ক করা, শাস্তি এনে দেওয়া নয়। ফলাফল আল্লাহর হাতে ছেড়ে দিন, আর মনে রাখুন, আপনি নিজেও তাঁর নাগালের বাইরে যেতে পারবেন না।"
   }
 };
 

@@ -1115,6 +1115,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "When They Called the Debate Off",
+          "bn": "তর্ক থামিয়ে দেওয়ার দাবি"
+        },
+        "p": [
+          {
+            "en": "From 11:25 Nuh (AS) has been speaking to his people as a plain warner. Worship none but Allah, he tells them in 11:26, for I fear for you the punishment of a painful day. The chiefs reply with objections in 11:27, and he answers them one by one through 11:31. Then, in 11:32, they stop arguing altogether: O Nuh, you have disputed with us and multiplied the dispute, so bring us what you threaten us with, if you are of the truthful.",
+            "bn": "১১:২৫ থেকে নূহ (আঃ) তাঁর জাতির সঙ্গে কথা বলছেন একজন স্পষ্ট সতর্ককারী হিসেবে। ১১:২৬ আয়াতে তিনি বলেন, আল্লাহ ছাড়া কারও ইবাদত কোরো না, আমি তোমাদের উপর এক যন্ত্রণাদায়ক দিনের আযাবের ভয় করি। নেতারা ১১:২৭ আয়াতে আপত্তি তোলে, আর তিনি ১১:৩১ পর্যন্ত একে একে তার জবাব দেন। এরপর ১১:৩২ আয়াতে তারা তর্কই বন্ধ করে দেয়। বলে, হে নূহ, তুমি আমাদের সঙ্গে ঝগড়া করেছ, বড্ড বেশি ঝগড়া করেছ। সত্যবাদী হলে যার ভয় দেখাচ্ছ, এবার তা এনে দেখাও।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, reads their words as: you have argued with us long enough, and we are still not going to follow you. He adds that they were seeking to hasten Allah's vengeance and punishment, as if saying, supplicate against us however you wish, and let whatever you call for come to us. At-Tabari opens his comment on 11:33 with the same setting: Nuh said this to his people when they demanded that he hasten the punishment. The verse is his whole reply, in ten Arabic words.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরে তাদের কথার অর্থ দাঁড়ায়: অনেক তর্ক করেছ, তবু আমরা তোমার কথা মানছি না। তিনি আরও বলেন, তারা আল্লাহর প্রতিশোধ আর শাস্তি তাড়াতাড়ি ডেকে আনতে চাইছিল। যেন বলছিল, যত খুশি আমাদের বিরুদ্ধে বদদোয়া করো, যা চাইবে তা-ই আমাদের উপর আসুক। তাবারীও ১১:৩৩-এর ব্যাখ্যা শুরু করেন এই প্রেক্ষাপট দিয়ে। জাতির লোকেরা যখন তাঁর কাছে আযাব তাড়াতাড়ি এনে দেওয়ার দাবি তুলল, তখন নূহ তাদের এ কথা বললেন। আয়াতটি আরবিতে মাত্র দশটি শব্দের, আর পুরোটাই তাঁর জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Verb, His Subject",
+          "bn": "তাদের ক্রিয়া, নতুন কর্তা"
+        },
+        "p": [
+          {
+            "en": "Qala innama ya'tikum bihi Allahu in sha'a: he said, only Allah will bring it to you, if He wills. They had said fa'tina, bring us. He answers with the same verb, a-t-y, to come or to bring, and changes who does it. In their sentence the bringer was Nuh; in his, it is Allah. Innama restricts the statement, so the sense is only Allah and nobody else, which is exactly how at-Tabari paraphrases it: that matter belongs to Allah, not to anyone besides Him.",
+            "bn": "কালা ইন্নামা ইয়াতীকুম বিহিল্লাহু ইন শা-আ: তিনি বললেন, কেবল আল্লাহই তা তোমাদের কাছে আনবেন, যদি তিনি চান। তারা বলেছিল ফাতিনা, আমাদের কাছে নিয়ে এসো। তিনি জবাব দেন সেই একই ক্রিয়া দিয়ে, আ-ত-ই ধাতু, যার অর্থ আসা বা আনা। শুধু কর্তা বদলে যায়। তাদের বাক্যে আনার দায় ছিল নূহের, তাঁর বাক্যে সে দায় আল্লাহর। ইন্নামা শব্দটি কথাটাকে সীমিত করে দেয়। অর্থ হয়, কেবল আল্লাহ, আর কেউ নয়। তাবারীও ঠিক এভাবেই খুলে বলেন: বিষয়টা আল্লাহর হাতে, তিনি ছাড়া আর কারও হাতে নয়।"
+          },
+          {
+            "en": "Bihi, it, points back to ma ta'iduna in 11:32, what you threaten us with. Al-Baghawi glosses it in two words, ya'ni bil-'adhab, meaning the punishment, and the Muyassar writes the punishment into its paraphrase. Al-Qurtubi's gloss, if He wills your destruction He punishes you, assumes the same. So the pronoun carries the whole of their dare. Then comes in sha'a, if He wills, a short condition that will matter in a later section, because it leaves both the timing and the event itself with Allah rather than with the one who warned of it.",
+            "bn": "বিহি, অর্থাৎ 'তা', ফিরে যায় ১১:৩২-এর মা তা'ইদুনা কথাটির দিকে: যার ভয় তুমি আমাদের দেখাচ্ছ। বাগাভী দুই শব্দে ব্যাখ্যা দেন, ইয়া'নী বিল আযাব, মানে শাস্তি। মুয়াসসার তার ব্যাখ্যায় শাস্তি শব্দটাই বসিয়ে দেয়। কুরতুবীর ব্যাখ্যাও একই অর্থ ধরে নেয়: তিনি তোমাদের ধ্বংস চাইলে শাস্তি দেবেন। তাহলে এই ছোট্ট সর্বনামের ভেতরে তাদের পুরো চ্যালেঞ্জটাই ধরা আছে। এরপর আসে ইন শা-আ, যদি তিনি চান। ছোট এই শর্তটির কথা পরের এক অংশে আবার আসবে। কারণ শাস্তি কবে আসবে, আদৌ আসবে কি না, দুটো সিদ্ধান্তই এটি আল্লাহর হাতে রাখে, সতর্ককারীর হাতে নয়।"
+          },
+          {
+            "en": "The second clause is wa ma antum bi-mu'jizin: and you are not ones who can render Him unable. Mu'jiz is an active participle from the root '-j-z, the root that carries the sense of inability. The object is not stated in the Arabic. As-Sa'di supplies it as lillah, to Allah, and at-Tabari as bi-mu'jizihi, Him. Several commentators then gloss the word by its effect rather than its root: bi-fa'itin, people who slip away and get past. That gloss, and another beside it, are taken up below.",
+            "bn": "দ্বিতীয় অংশ ওয়া মা আনতুম বিমু'জিযীন: আর তোমরা তাঁকে অক্ষম করে দিতে পারবে না। মু'জিয শব্দটি আইন-জীম-যা ধাতুর কর্তৃবাচক রূপ। এ ধাতুর মূল অর্থ অক্ষমতা। আরবিতে কাকে অক্ষম করা, সেটা উল্লেখ নেই। সা'দী জুড়ে দেন লিল্লাহ, আল্লাহকে। তাবারী লেখেন বিমু'জিযীহি, তাঁকে। এরপর কয়েকজন তাফসীরকার শব্দটির মূল অর্থের চেয়ে তার ফলের দিক থেকে ব্যাখ্যা দেন: বিফা-ইতীন, অর্থাৎ যারা ফসকে বেরিয়ে যায়। এই ব্যাখ্যা আর আরেকটি ভিন্ন ব্যাখ্যার কথা সামনে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing of It in His Hand",
+          "bn": "শাস্তির চাবি তাঁর হাতে নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari puts the answer into Nuh's mouth at length: O my people, the punishment you are hastening is not up to me. It is only up to Allah, not to anyone else; He is the One who brings it upon you if He wills. Ibn Kathir's Arabic says the same in one line: the One who punishes you and hastens it for you is Allah, whom nothing renders incapable. The Muyassar adds a single word that sharpens it, wahdahu: Allah alone is the One who brings you the punishment when He wills.",
+            "bn": "তাবারী জবাবটা নূহের মুখে বিস্তারিত বসিয়ে দেন: হে আমার জাতি, যে আযাব তোমরা তাড়াতাড়ি চাইছ, তা আমার এখতিয়ারে নেই। তা কেবল আল্লাহর এখতিয়ারে, আর কারও নয়। তিনিই চাইলে তা তোমাদের উপর আনবেন। ইবন কাসীরের আরবি তাফসীর একই কথা বলে এক লাইনে: যিনি তোমাদের শাস্তি দেবেন আর তা তোমাদের জন্য ত্বরান্বিত করবেন, তিনি আল্লাহ, কোনো কিছুই যাঁকে অক্ষম করতে পারে না। মুয়াসসার একটিমাত্র শব্দ যোগ করে কথাটা আরও ধারালো করে, ওয়াহদাহু: একমাত্র আল্লাহই তাঁর ইচ্ছামতো তোমাদের কাছে শাস্তি আনেন।"
+          },
+          {
+            "en": "As-Sa'di closes his comment with a clause in Nuh's own voice: wa ana laysa bi-yadi min al-amri shay', and nothing of the matter is in my hand. The dare had been aimed at him personally. Ibn Kathir's reading makes that plain: call down whatever you like on us. The answer lifts the matter off him altogether. He does not withdraw the warning he gave in 11:26. He denies that carrying it out was ever his to do, and that denial is the whole substance of the verse.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন নূহের নিজের ভাষায় একটি বাক্য দিয়ে: ওয়া আনা লাইসা বিইয়াদী মিনাল আমরি শাই, এ বিষয়ের কিছুই আমার হাতে নেই। চ্যালেঞ্জটা ছোড়া হয়েছিল সরাসরি তাঁর দিকে। ইবন কাসীরের ব্যাখ্যায় সেটা পরিষ্কার: আমাদের উপর যা খুশি ডেকে আনো। জবাবটা বিষয়টাকে তাঁর কাঁধ থেকে পুরোপুরি নামিয়ে দেয়। ১১:২৬ আয়াতে দেওয়া সতর্কবাণী তিনি ফিরিয়ে নেন না। তিনি শুধু অস্বীকার করেন যে তা কার্যকর করার দায়িত্ব কখনো তাঁর ছিল। আয়াতের মূল কথা এটুকুই।"
+          },
+          {
+            "en": "This is not a retreat. A warner who claimed he could bring the punishment would be taking on a power this whole exchange never gives him, and every day it failed to arrive would count against him. By placing the punishment with Allah, Nuh (AS) keeps the warning true however long it is delayed. The warning was his to give; whether and when it falls was never his to decide. That division of roles is what the rest of the verse rests on.",
+            "bn": "এটা পিছু হটা নয়। কোনো সতর্ককারী যদি দাবি করতেন যে শাস্তি তিনি নিজেই এনে দিতে পারেন, তাহলে তিনি এমন ক্ষমতা নিজের বলে দাবি করতেন, যা এ পুরো আলাপে কোথাও তাঁকে দেওয়া হয়নি। আর শাস্তি না আসা প্রতিটি দিন তাঁর বিরুদ্ধে প্রমাণ হয়ে দাঁড়াত। শাস্তিকে আল্লাহর হাতে রেখে নূহ (আঃ) সতর্কবাণীকে সত্য রাখেন, তা যত দেরিতেই আসুক। সতর্ক করা ছিল তাঁর কাজ। শাস্তি আসবে কি না, কবে আসবে, সে সিদ্ধান্ত কখনো তাঁর ছিল না। আয়াতের বাকি অংশ দাঁড়িয়ে আছে দায়িত্বের এই ভাগের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whether, and When, Is His",
+          "bn": "কবে আসবে, তা তাঁর ইচ্ছা"
+        },
+        "p": [
+          {
+            "en": "The condition in sha'a, if He wills, is glossed in three ways that sit together. As-Sa'di: if His will and His wisdom require that He send it down upon you, He will do so. Al-Qurtubi: if He wills your destruction, He punishes you. The Muyassar: idha sha'a, when He wills. At-Tabari, explaining the second clause, speaks of the moment He wills to punish them. As-Sa'di's pairing of will with wisdom is worth noticing: on his reading the timing answers to wisdom, not to their taunt.",
+            "bn": "ইন শা-আ, যদি তিনি চান, এই শর্তের তিনটি ব্যাখ্যা পাওয়া যায়, আর তিনটিই পাশাপাশি চলে। সা'দী বলেন, তাঁর ইচ্ছা আর তাঁর হিকমত যদি দাবি করে যে তিনি তা তোমাদের উপর নামাবেন, তবে তিনি তা-ই করবেন। কুরতুবী বলেন, তিনি তোমাদের ধ্বংস চাইলে তোমাদের শাস্তি দেবেন। মুয়াসসার বলে, ইযা শা-আ, যখন তিনি চাইবেন। দ্বিতীয় অংশের ব্যাখ্যায় তাবারী বলেন সেই মুহূর্তের কথা, যখন তিনি তাদের শাস্তি দিতে চাইবেন। সা'দী যে ইচ্ছার সঙ্গে হিকমতকে জুড়ে দেন, সেটা লক্ষ করার মতো। তাঁর ব্যাখ্যায় সময় ঠিক হয় হিকমত দিয়ে, তাদের খোঁচা দিয়ে নয়।"
+          },
+          {
+            "en": "Their demand had tied Nuh's truthfulness to delivery on request: bring it, if you are of the truthful. The condition cuts that tie. A warning can be true and not yet fulfilled, because He who fulfils it is not the warner who gave it, and He does not act on the schedule of those who mock. Nothing in the verse names a day. When the end does come, in the verses after 11:36, it comes by revelation and command, not because the people asked for it.",
+            "bn": "তাদের দাবিতে নূহের সত্যবাদিতা বাঁধা পড়েছিল হুকুম মাফিক শাস্তি হাজির করার সঙ্গে: সত্যবাদী হলে এনে দেখাও। শর্তটা সেই বাঁধন কেটে দেয়। সতর্কবাণী সত্য হতে পারে, অথচ এখনো পূর্ণ না-ও হতে পারে। কারণ যিনি তা পূর্ণ করবেন, তিনি সতর্ককারী নন। আর যারা বিদ্রূপ করে, তাদের বেঁধে দেওয়া সময়সূচি মেনে তিনি কাজ করেন না। আয়াতে কোনো দিনের নাম নেই। শেষ পরিণতি যখন আসে, ১১:৩৬-এর পরের আয়াতগুলোতে, তা আসে ওহি আর আদেশের মাধ্যমে, তাদের চাওয়ার কারণে নয়।"
+          },
+          {
+            "en": "The next verse, 11:34, continues on the same footing: my advice will not benefit you, though I wish to advise you, if Allah intends to leave you in error; He is your Lord, and to Him you will be returned. Ibn Kathir's abridged English closes it by naming Him the Judge, the Most Just, who does no injustice. That verse raises questions about will and guidance that this article does not try to settle. What 11:33 itself asserts is narrower: the punishment rests with Allah, not with His messenger.",
+            "bn": "পরের আয়াত ১১:৩৪ একই ভিত্তির উপর এগোয়: আমি তোমাদের উপদেশ দিতে চাইলেও আমার উপদেশ তোমাদের কাজে আসবে না, যদি আল্লাহ তোমাদের পথভ্রষ্ট রাখতে চান। তিনিই তোমাদের রব, আর তাঁর কাছেই তোমাদের ফিরে যেতে হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর আয়াতটির ব্যাখ্যা শেষ করে তাঁকে বিচারক, সবচেয়ে ন্যায়পরায়ণ বলে, যিনি কোনো অবিচার করেন না। ইচ্ছা আর হেদায়াত নিয়ে ওই আয়াত যে প্রশ্নগুলো তোলে, এ লেখা সেগুলোর মীমাংসা করতে যাবে না। ১১:৩৩ নিজে যা বলে, তা এর চেয়ে সীমিত: শাস্তি আল্লাহর হাতে, তাঁর রাসূলের হাতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Slipping Away or Holding Out",
+          "bn": "পালিয়ে যাওয়া, নাকি রুখে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators fetched gloss mu'jizin as escaping. Al-Baghawi gives the single word bi-fa'itin, ones who get away. The Muyassar: you will not slip past Him when He wills to punish you, because nothing in the earth or in the heaven renders Him incapable. At-Tabari gives the reason in spatial terms: you will not get past Him by fleeing, because wherever you are, you are within His dominion, His authority and His power, and His judgement over you is in force.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার বেশির ভাগই মু'জিযীন শব্দের ব্যাখ্যা করে পালিয়ে যাওয়া অর্থে। বাগাভী একটিমাত্র শব্দ দেন, বিফা-ইতীন, যারা ফসকে বেরিয়ে যায়। মুয়াসসার বলে, তিনি তোমাদের শাস্তি দিতে চাইলে তোমরা তাঁকে এড়িয়ে যেতে পারবে না, কারণ জমিনে বা আসমানে কোনো কিছুই তাঁকে অক্ষম করতে পারে না। তাবারী কারণটা বোঝান জায়গার ভাষায়। পালিয়ে তোমরা তাঁকে এড়াতে পারবে না, কারণ যেখানেই থাকো, তোমরা তাঁর রাজত্ব, কর্তৃত্ব আর ক্ষমতার ভেতরেই আছ। আর তোমাদের উপর তাঁর ফয়সালা চালু রয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same gloss, bi-fa'itin, and then a second under the word qila, it has been said: bi-ghalibin bi-kathratikum, overpowering Him by your numbers. He explains why that reading fits these people: they were impressed with their own multitude, and he says they had filled the land, plain and mountain, a point he takes up further on in the story. So one reading pictures them running, the other standing their ground in strength. Al-Qurtubi records the second without ranking it.",
+            "bn": "কুরতুবীও একই ব্যাখ্যা দেন, বিফা-ইতীন। তারপর 'কীলা', বলা হয়েছে, কথাটি দিয়ে আনেন দ্বিতীয় একটি ব্যাখ্যা: বিগালিবীনা বিকাসরাতিকুম, অর্থাৎ সংখ্যার জোরে তাঁকে হারিয়ে দেওয়া। এ জাতির বেলায় ব্যাখ্যাটি কেন খাটে, তা-ও তিনি বলেন। নিজেদের বিপুল সংখ্যা নিয়ে তারা মুগ্ধ ছিল। তাঁর ভাষায়, সমতল আর পাহাড় মিলিয়ে তারা গোটা ভূমি ভরে ফেলেছিল, যে কথা তিনি কাহিনির পরের অংশে আবার তুলবেন। তাহলে এক ব্যাখ্যায় তারা পালাচ্ছে, অন্য ব্যাখ্যায় শক্তির জোরে দাঁড়িয়ে আছে। কুরতুবী দ্বিতীয়টি উল্লেখ করেন, তবে কোনোটিকে প্রাধান্য দেন না।"
+          },
+          {
+            "en": "At-Tabari, on the same phrase in 10:53, names both routes in one breath: you will not render Allah unable, when He wills that for you, bi-harabin aw imtina', by flight or by resistance, for you are in His grasp. On 6:134, what you are promised is coming, and you will not render Him unable, he returns to flight alone. The phrase recurs in 29:22 with the words in the earth or in the heaven added, the same pairing the Muyassar uses here. However it is glossed, the clause closes every exit.",
+            "bn": "১০:৫৩ আয়াতে একই কথার ব্যাখ্যায় তাবারী দুটো পথের কথাই একসঙ্গে বলেন: তিনি যখন তোমাদের ব্যাপারে তা চাইবেন, তোমরা আল্লাহকে অক্ষম করতে পারবে না, বিহারাবিন আও ইমতিনা', না পালিয়ে, না রুখে দাঁড়িয়ে, কারণ তোমরা তাঁর মুঠোর ভেতরে। ৬:১৩৪ আয়াতে, যার ওয়াদা তোমাদের দেওয়া হচ্ছে তা আসবেই, আর তোমরা তাঁকে অক্ষম করতে পারবে না, সেখানে তিনি শুধু পালানোর কথাই বলেন। ২৯:২২ আয়াতে কথাটি আবার আসে, সঙ্গে যোগ হয় জমিনে বা আসমানে। মুয়াসসার এখানে ঠিক এই জোড়াটাই ব্যবহার করে। যেভাবেই ব্যাখ্যা করা হোক, এ অংশ বেরোনোর সব পথ বন্ধ করে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Dare Other Prophets Heard",
+          "bn": "অন্য নবীদের কানে একই খোঁচা"
+        },
+        "p": [
+          {
+            "en": "Nuh's people were not the last to say it. 'Ad say almost the same words to Hud (AS) in 7:70, fa'tina bima ta'iduna in kunta min as-sadiqin, then bring us what you promise us, if you are of the truthful, and they say them again in 46:22. Hud's reply in 46:23 runs on the same rails as Nuh's: innama al-'ilmu 'inda Allah, knowledge of it is only with Allah, and I convey to you what I was sent with.",
+            "bn": "এ কথা নূহের জাতিই শেষবারের মতো বলেনি। ৭:৭০ আয়াতে আদ জাতি হুদ (আঃ)-কে প্রায় হুবহু একই কথা বলে: ফাতিনা বিমা তা'ইদুনা ইন কুনতা মিনাস সাদিকীন, সত্যবাদী হলে যার ওয়াদা করছ তা এনে দেখাও। ৪৬:২২ আয়াতে তারা কথাটা আবার বলে। ৪৬:২৩ আয়াতে হুদের জবাব চলে নূহের জবাবের পথ ধরেই: ইন্নামাল ইলমু ইনদাল্লাহ, এর জ্ঞান কেবল আল্লাহর কাছে। আমাকে যা দিয়ে পাঠানো হয়েছে, আমি তোমাদের কাছে শুধু তা-ই পৌঁছে দিই।"
+          },
+          {
+            "en": "The people Shu'ayb (AS) was sent to make a sharper version of the same demand in 26:187: cause fragments of the sky to fall on us, if you are of the truthful. His whole answer in 26:188 is four words: my Lord knows best what you do. Each prophet keeps the same two things apart. The warning, and the message it belongs to, are his to deliver in full. The punishment, its form and its hour, he leaves where Nuh (AS) left it.",
+            "bn": "শু'আইব (আঃ)-কে যাদের কাছে পাঠানো হয়েছিল, তারা ২৬:১৮৭ আয়াতে একই দাবি তোলে আরও কড়া ভাষায়: সত্যবাদী হলে আকাশের এক টুকরো আমাদের উপর ফেলে দাও। ২৬:১৮৮ আয়াতে তাঁর পুরো জবাব আরবিতে চারটি শব্দের: তোমরা যা করো, আমার রব তা সবচেয়ে ভালো জানেন। প্রত্যেক নবী একই দুটি জিনিসকে আলাদা রাখেন। সতর্কবাণী আর তার বার্তা পুরোপুরি পৌঁছে দেওয়া তাঁর দায়িত্ব। আর শাস্তি, তার রূপ আর তার সময়, তিনি রেখে দেন সেখানেই, যেখানে নূহ (আঃ) রেখেছিলেন।"
+          },
+          {
+            "en": "The Prophet Muhammad ﷺ is given the same answer to speak in 6:57 and 6:58: I do not have that which you are impatient for; the judgement is only Allah's. And then: if I had that which you are impatient for, the matter would already have been decided between me and you, and Allah knows best the wrongdoers. In 10:48 and 10:49, asked when this promise will come, he is told to say that he holds no harm or benefit even for himself, except as Allah wills, and every nation has its term.",
+            "bn": "৬:৫৭ ও ৬:৫৮ আয়াতে নবী মুহাম্মাদ ﷺ-কেও একই জবাব শিখিয়ে দেওয়া হয়: যার জন্য তোমরা তাড়াহুড়া করছ, তা আমার কাছে নেই, হুকুম কেবল আল্লাহর। তারপর: তোমরা যার জন্য অধীর, তা যদি আমার কাছে থাকত, তাহলে আমার আর তোমাদের মাঝে ব্যাপারটার ফয়সালা এতক্ষণে হয়ে যেত। আর জালিমদের আল্লাহ সবচেয়ে ভালো চেনেন। ১০:৪৮ ও ১০:৪৯ আয়াতে যখন জানতে চাওয়া হয় এ প্রতিশ্রুতি কবে আসবে, তাঁকে বলতে বলা হয়: আল্লাহ যা চান তার বাইরে নিজের জন্যও আমি কোনো ক্ষতি বা উপকারের মালিক নই। আর প্রত্যেক জাতির জন্য আছে নির্ধারিত সময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A People Long Gone",
+          "bn": "বহু আগে বিদায় নেওয়া এক জাতি"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it or reports an occasion of revelation, so none is cited here. The verse sits inside a continuous narrative, the exchange between Nuh (AS) and his people that runs from 11:25, and its meaning is drawn from that placement and from the commentators' glosses on its words. Ma'arif al-Qur'an, whose grouped text for this passage stays with the earlier verse 11:31, has nothing on these two clauses and is not used.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদিস যুক্ত করে না, কোনো শানে নুযূলও বলে না। তাই এখানে কোনোটি উদ্ধৃত হয়নি। আয়াতটি একটি ধারাবাহিক কাহিনির ভেতরে বসানো: ১১:২৫ থেকে শুরু হওয়া নূহ (আঃ) আর তাঁর জাতির কথোপকথন। এর অর্থ বোঝা যায় এই অবস্থান থেকে, আর শব্দগুলোর উপর তাফসীরকারদের ব্যাখ্যা থেকে। মাআরিফুল কুরআনের এই অংশের একত্রিত লেখা আগের আয়াত ১১:৩১-এর আলোচনাতেই থেকে যায়। এ দুই অংশ নিয়ে সেখানে কিছু নেই, তাই সেটি ব্যবহার করা হয়নি।"
+          },
+          {
+            "en": "The verse describes what the text describes: a past people who demanded their punishment from their prophet, and the answer he gave them. It licenses nothing against any living person or community. Nobody today may name a people as the next to be destroyed, or speak of Allah's punishment as theirs to call down on opponents. Nuh's own words rule that out. If a prophet, taunted to his face, would not claim the punishment as his to bring, no one reading his story can claim it for themselves.",
+            "bn": "আয়াতটি শুধু সেটুকুই বর্ণনা করে, যা এর শব্দে আছে: বিগত এক জাতি তাদের নবীর কাছে নিজেদের শাস্তি দাবি করেছিল, আর তিনি তাদের এই জবাব দিয়েছিলেন। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো জাতিকে পরবর্তী ধ্বংসপ্রাপ্ত বলে চিহ্নিত করার অধিকার আজ কারও নেই। প্রতিপক্ষের উপর আল্লাহর শাস্তি ডেকে আনার মালিক নিজেকে ভাবারও অধিকার নেই। নূহের নিজের কথাই তা নাকচ করে দেয়। মুখের উপর খোঁচা খেয়েও একজন নবী যখন শাস্তিকে নিজের আনার জিনিস বলে দাবি করেননি, তখন তাঁর কাহিনির পাঠক তা নিজের জন্য দাবি করতে পারেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering a Taunt With Truth",
+          "bn": "খোঁচার জবাবে শুধু সত্য"
+        },
+        "p": [
+          {
+            "en": "The taunt still comes in a familiar shape: if your faith is true, let your God do something. The answer this verse teaches is Nuh's. Say what you were given to say, and refuse what was never yours to control. Do not invent threats in Allah's name, do not forecast disasters for your opponents, and do not read His delay as proof that nothing is coming.",
+            "bn": "খোঁচাটা আজও আসে চেনা চেহারায়: তোমার বিশ্বাস সত্য হলে তোমার আল্লাহ কিছু একটা করে দেখাক। এ আয়াত যে জবাব শেখায়, তা নূহের জবাব। যা বলার দায়িত্ব আপনাকে দেওয়া হয়েছে, তা বলুন। যা কখনো আপনার নিয়ন্ত্রণে ছিল না, তার দাবি ছেড়ে দিন। আল্লাহর নামে হুমকি বানাবেন না, প্রতিপক্ষের উপর বিপদের ভবিষ্যদ্বাণী করবেন না। আর তিনি সময় দিচ্ছেন বলে ধরে নেবেন না যে কিছুই আসছে না।"
+          },
+          {
+            "en": "Then turn the second clause towards yourself. Wa ma antum bi-mu'jizin was said to people who thought they could outrun or outnumber what was coming. The reader cannot slip out of His reach either, and that is a warning before it is a comfort. Here Nuh (AS) meets the dare without a curse and without a boast: the matter is Allah's, and no one gets past Him.",
+            "bn": "এরপর দ্বিতীয় অংশটা নিজের দিকে ফেরান। ওয়া মা আনতুম বিমু'জিযীন বলা হয়েছিল এমন লোকদের, যারা ভেবেছিল যা আসছে তার আগে দৌড়ে পালাবে, বা সংখ্যার জোরে ঠেকিয়ে দেবে। পাঠকও তাঁর নাগালের বাইরে যেতে পারেন না। সান্ত্বনা হওয়ার আগে কথাটা এক সতর্কবাণী। এখানে নূহ (আঃ) চ্যালেঞ্জের জবাব দেন বদদোয়া ছাড়া, অহংকার ছাড়া। বিষয়টা আল্লাহর, আর তাঁকে এড়িয়ে কেউ যেতে পারে না।"
+          }
+        ]
+      }
+    ]
+  },
   "11:40": {
     "sections": [
       {
