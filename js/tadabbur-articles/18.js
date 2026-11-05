@@ -1311,6 +1311,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Answer to a Condition",
+          "bn": "এক শর্তের জবাব"
+        },
+        "p": [
+          {
+            "en": "Fa-'asa rabbi an yu'tiyani khayran min jannatika wa yursila 'alayha husbanan mina s-sama'i fa-tusbiha sa'idan zalaqa: perhaps my Lord will give me something better than your garden, and send upon it a husban from the sky, so that it becomes bare, slippery ground. The sentence begins in the verse before. Al-Qurtubi reads in tarani ana aqalla minka malan wa waladan, if you see me as less than you in wealth and children (18:39), as a condition, and names fa-'asa rabbi as its answer. At-Tabari's paraphrase joins the two verses in the same way.",
+            "bn": "ফাআসা রাব্বী আন ইউতিয়ানি খাইরান মিন জান্নাতিকা ওয়া ইউরসিলা আলাইহা হুসবানান মিনাস সামায়ি ফাতুসবিহা সাঈদান যালাকা: হয়তো আমার রব আমাকে তোমার বাগানের চেয়ে উত্তম কিছু দেবেন, আর তোমার বাগানের উপর আকাশ থেকে হুসবান পাঠাবেন, ফলে তা হয়ে যাবে খালি, পিচ্ছিল মাটি। বাক্যটার শুরু আসলে আগের আয়াতে। ইন তারানি আনা আকাল্লা মিনকা মালান ওয়া ওয়ালাদা, অর্থাৎ যদি তুমি আমাকে ধনে ও সন্তানে তোমার চেয়ে কম দেখ (১৮:৩৯)। কুরতুবী এ অংশকে শর্ত হিসেবে পড়েন, আর বলেন ফাআসা রাব্বী তারই জবাব। তাবারীর ব্যাখ্যাও দুই আয়াতকে ঠিক এভাবেই জুড়ে দেয়।"
+          },
+          {
+            "en": "At-Tabari introduces the speaker as the believer who is certain of his return to Allah, speaking to the disbeliever who doubts that the Hour will come. Both halves of the verse answer something the rich man had said. He had entered his garden and said he did not think it would ever perish (18:35); Ibn Kathir glosses 'upon it' as upon your garden in this world, which you thought would never come to an end. He had also claimed he would find something better if returned to his Lord (18:36). Now khayr, better, returns, from a man who expects that return.",
+            "bn": "তাবারী বক্তার পরিচয় দেন এভাবে: আল্লাহর কাছে ফিরে যাওয়ায় দৃঢ় বিশ্বাসী মুমিন, যিনি কথা বলছেন এমন এক কাফিরের সঙ্গে, কিয়ামত আদৌ হবে কি না তা নিয়েই যার সন্দেহ। আয়াতের দুই অংশই ধনী লোকটির কোনো না কোনো কথার জবাব। সে বাগানে ঢুকে বলেছিল, এটা কোনোদিন ধ্বংস হবে বলে সে মনে করে না (১৮:৩৫)। ইবন কাসীর 'তার উপর' কথাটির ব্যাখ্যা দেন: দুনিয়ার তোমার সেই বাগান, যা কখনো শেষ হবে না বলে তুমি ভেবেছিলে। সে আরও দাবি করেছিল, রবের কাছে ফিরলে এর চেয়ে ভালো কিছু পাবে (১৮:৩৬)। এখন খাইর, মানে উত্তম, শব্দটা আবার ফিরে আসে, এমন একজনের মুখে যিনি সেই ফেরার অপেক্ষায় আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words at the Garden Gate",
+          "bn": "বাগানের দরজায় যে কথা"
+        },
+        "p": [
+          {
+            "en": "The counsel this verse completes has a practice attached to it, and the commentators spell it out. Ibn Kathir calls 18:39 an urging and an encouragement: why, when your garden pleased you as you entered it and looked at it, did you not praise Allah for what He had given you and say ma sha'a llah, la quwwata illa billah? He then reports that one of the early generations said that whoever is pleased by something in his circumstances, his wealth or his children should say these words, and that this is taken from this verse.",
+            "bn": "এ আয়াত যে উপদেশটি পূর্ণ করে, তার সঙ্গে একটি আমল জুড়ে আছে, আর তাফসীরকারেরা তা খুলে বলেছেন। ইবন কাসীর ১৮:৩৯-কে বলেন তাগিদ ও উৎসাহ: বাগানে ঢুকে যখন তা দেখে তোমার ভালো লাগল, তখন আল্লাহ তোমাকে যা দিয়েছেন তার জন্য কেন তাঁর প্রশংসা করলে না, কেন বললে না মা শা আল্লাহ, লা কুওয়াতা ইল্লা বিল্লাহ? এরপর তিনি পূর্বসূরিদের একজনের কথা আনেন: নিজের অবস্থা, সম্পদ বা সন্তানের কোনো কিছু যাকে মুগ্ধ করে, সে যেন এ কথাটি বলে। ইবন কাসীর জানান, এ শিক্ষা এই আয়াত থেকেই নেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi records the practice in further voices. Ashhab reports that Malik said everyone who enters his home ought to say this, and Ibn Wahb reports from Hafs ibn Maysara that he saw ma sha'a llah, la quwwata illa billah written on the door of Wahb ibn Munabbih. Al-Baghawi adds that 'Urwa, by the report of his son Hisham, would say it whenever he saw something of his wealth that pleased him, or entered any of his walled gardens.",
+            "bn": "কুরতুবী আরও কয়েকজনের মুখে এই আমলের কথা আনেন। আশহাব বর্ণনা করেন, ইমাম মালিক বলেছেন, যে-ই নিজের ঘরে ঢোকে, তার এ কথা বলা উচিত। ইবন ওয়াহব বর্ণনা করেন হাফস ইবন মাইসারা থেকে: তিনি ওয়াহব ইবন মুনাব্বিহের দরজায় লেখা দেখেছেন, মা শা আল্লাহ, লা কুওয়াতা ইল্লা বিল্লাহ। বাগাভী যোগ করেন, উরওয়ার ছেলে হিশামের বর্ণনামতে উরওয়া নিজের সম্পদের কোনো কিছু দেখে মুগ্ধ হলে, কিংবা নিজের কোনো প্রাচীরঘেরা বাগানে ঢুকলে, এ কথাটি বলতেন।"
+          },
+          {
+            "en": "The glosses give the two phrases their weight. At-Tabari reads ma sha'a llah as a clause whose answer is left unsaid: what Allah willed came to be. Al-Baghawi puts 'the matter is what Allah wills' first and records that reading second. Al-Qurtubi adds that the words are meant with the heart. For la quwwata illa billah, at-Tabari has no strength for the obedience we attempt except through Him; al-Baghawi, I cannot guard my wealth or repel anything from it except by Allah's leave; al-Qurtubi, what you gathered came by Allah's power, not yours, and had He willed He would have withdrawn its blessing.",
+            "bn": "ব্যাখ্যাগুলো দুটি বাক্যের ওজন বুঝিয়ে দেয়। তাবারী মা শা আল্লাহ-কে পড়েন এমন বাক্য হিসেবে, যার জবাবটা উহ্য: আল্লাহ যা চেয়েছেন, তা-ই হয়েছে। বাগাভী প্রথমে আনেন 'বিষয়টা আল্লাহ যা চান তা-ই', আর এই পাঠটি আনেন দ্বিতীয় মত হিসেবে। কুরতুবী যোগ করেন, কথাটা বলতে হয় অন্তর দিয়ে। লা কুওয়াতা ইল্লা বিল্লাহ প্রসঙ্গে তাবারী বলেন, আমরা যে আনুগত্যের চেষ্টা করি, তাঁর সাহায্য ছাড়া তার শক্তি নেই। বাগাভীর ভাষায়: আল্লাহর অনুমতি ছাড়া আমি নিজের সম্পদ রক্ষা করতে পারি না, তা থেকে কোনো বিপদও ঠেকাতে পারি না। কুরতুবীর ভাষায়: তোমার যা জমেছে তা আল্লাহর ক্ষমতায় জমেছে, তোমার ক্ষমতায় নয়। তিনি চাইলে এর বরকত তুলে নিতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Treasure of Paradise",
+          "bn": "জান্নাতের ভাণ্ডার থেকে"
+        },
+        "p": [
+          {
+            "en": "Two of the commentators bring a sound narration to 18:39, for the phrase it shares. Ibn Kathir says it is established in the Sahih from Abu Musa that the Prophet ﷺ pointed him to a treasure of Paradise, la hawla wa la quwwata illa billah, and al-Qurtubi notes that Muslim records it from Abu Musa. The wording given below is Bukhari's, taken from his own collection.",
+            "bn": "১৮:৩৯-এর আলোচনায় দুজন তাফসীরকার একটি সহীহ বর্ণনা আনেন, কারণ বাক্যটি দুই জায়গাতেই আছে। ইবন কাসীর বলেন, সহীহ গ্রন্থে আবু মূসা (রাঃ) থেকে প্রমাণিত যে নবী ﷺ তাঁকে জান্নাতের এক ভাণ্ডারের সন্ধান দিয়েছিলেন: লা হাওলা ওয়া লা কুওয়াতা ইল্লা বিল্লাহ। কুরতুবী জানান, মুসলিম এটি আবু মূসা থেকে বর্ণনা করেছেন। নিচের ভাষ্যটি বুখারীর, তাঁর নিজের সংকলন থেকে নেওয়া।"
+          },
+          {
+            "en": "Bukhari's wording (6409), rendered from his Arabic, reads in full: Abu Musa al-Ash'ari (RA) said, the Prophet ﷺ took a mountain road, or he said a pass, and when a man reached its top he called out, raising his voice, there is no god but Allah, and Allah is greatest. He said, and the Messenger of Allah ﷺ was on his mule: 'For you are not calling upon one who is deaf or absent.' Then he said: 'O Abu Musa, or O 'Abdullah, shall I not direct you to a word from the treasure of Paradise?' I said: Certainly. He said: 'La hawla wa la quwwata illa billah.'",
+            "bn": "বুখারীর ভাষ্য (৬৪০৯), তাঁর আরবি থেকে অনুবাদ করে, পুরোটা এই: আবু মূসা আশআরী (রাঃ) বলেন, নবী ﷺ একটি পাহাড়ি পথ ধরলেন, কিংবা তিনি বলেছেন একটি গিরিপথ। একজন লোক তার চূড়ায় উঠে উঁচু গলায় ডাক দিল: লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার। তিনি বলেন, রাসূলুল্লাহ ﷺ তখন তাঁর খচ্চরের পিঠে। তিনি বললেন, 'তোমরা তো কোনো বধির বা অনুপস্থিতকে ডাকছ না।' তারপর বললেন, 'হে আবু মূসা, অথবা হে আবদুল্লাহ, আমি কি তোমাকে জান্নাতের ভাণ্ডারের একটি বাক্যের সন্ধান দেব না?' আমি বললাম, অবশ্যই। তিনি বললেন, 'লা হাওলা ওয়া লা কুওয়াতা ইল্লা বিল্লাহ।'"
+          },
+          {
+            "en": "Bukhari placed it in his Sahih, the collection he restricted to reports he held sound. It is a general narration, not attached to this verse or to the parable, and its wording is not the verse's: the verse has la quwwata illa billah alone, while the hadith adds la hawla before it. None of the tafsirs fetched for 18:40 itself attaches a sound hadith to this verse.",
+            "bn": "বুখারী এটি তাঁর সহীহ গ্রন্থে রেখেছেন, যে সংকলনে তিনি কেবল সেসব বর্ণনাই নিয়েছেন যেগুলো তাঁর বিচারে বিশুদ্ধ। এটি সাধারণ বর্ণনা, এ আয়াত বা এই উপমার সঙ্গে যুক্ত নয়। শব্দও আয়াতের হুবহু নয়: আয়াতে শুধু লা কুওয়াতা ইল্লা বিল্লাহ, হাদীসে তার আগে লা হাওলা যোগ হয়েছে। ১৮:৪০-এর জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Perhaps, and Better Where",
+          "bn": "হয়তো, তবে উত্তম কোথায়"
+        },
+        "p": [
+          {
+            "en": "Fa-'asa rabbi: al-Qurtubi and al-Baghawi both gloss 'asa as la'alla, perhaps. The believer passes no sentence on the garden and claims no knowledge of what his Lord will do; he speaks in hope, and names no resource but rabbi, my Lord. Better than your garden, but where? Ibn Kathir and al-Baghawi place it in the Hereafter. Al-Qurtubi gives that reading first and then records a second, introduced with 'it was said': in this world. He does not choose between them. At-Tabari and al-Muyassar leave the word unplaced.",
+            "bn": "ফাআসা রাব্বী: কুরতুবী ও বাগাভী দুজনেই আসা-র অর্থ করেন লা'আল্লা, অর্থাৎ হয়তো। মুমিন লোকটি বাগানের উপর কোনো রায় ঘোষণা করেন না, তাঁর রব কী করবেন তা জানার দাবিও করেন না। তিনি কথা বলেন আশার ভাষায়, আর ভরসা হিসেবে একটাই নাম নেন: রাব্বী, আমার রব। কিন্তু তোমার বাগানের চেয়ে উত্তম, সেটা কোথায়? ইবন কাসীর ও বাগাভী বলেন, আখিরাতে। কুরতুবী প্রথমে এই মতটিই আনেন, তারপর 'বলা হয়েছে' দিয়ে দ্বিতীয় একটি মত উল্লেখ করেন: দুনিয়াতেই। তিনি কোনোটিকে বেছে নেন না। তাবারী ও মুয়াসসার জায়গাটা নির্দিষ্ট করেন না।"
+          },
+          {
+            "en": "As-Sa'di, on 18:39, draws out the conviction under the hope. Even if you boast over me of your many possessions and children, the believer tells his friend, and see me with less, what is with Allah is better and more lasting, and the good and kindness hoped for from Him are better than the whole of the world over which its rivals compete. The poorer man is not consoling himself with the dream of a richer orchard. He is setting the thing he can see beside its Giver.",
+            "bn": "সা'দী ১৮:৩৯-এর ব্যাখ্যায় এই আশার নিচের বিশ্বাসটা বের করে আনেন। মুমিন বন্ধুকে বলছেন: তুমি সম্পদ আর সন্তানের প্রাচুর্য নিয়ে আমার উপর গর্ব করলেও, আমাকে কম দেখলেও, আল্লাহর কাছে যা আছে তা-ই উত্তম ও বেশি স্থায়ী। তাঁর কাছ থেকে যে কল্যাণ আর অনুগ্রহের আশা করা যায়, তা গোটা দুনিয়ার চেয়ে ভালো, যে দুনিয়া নিয়ে প্রতিযোগীরা কাড়াকাড়ি করে। গরিব লোকটি আরও সমৃদ্ধ কোনো বাগানের স্বপ্ন দেখে নিজেকে সান্ত্বনা দিচ্ছেন না। চোখে দেখা জিনিসটাকে তিনি পাশে রাখছেন সেই সত্তার, যিনি তা দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Husban From the Sky",
+          "bn": "আকাশ থেকে হুসবান"
+        },
+        "p": [
+          {
+            "en": "Husbanan mina s-sama': no word in the verse draws more readings. The broadest is simply punishment. At-Tabari reports it with chains from Qatada, ad-Dahhak and Ibn 'Abbas (RA); Ibn Kathir names Ibn 'Abbas, ad-Dahhak and Qatada, and adds Malik's report from az-Zuhri. Ibn Zayd, in at-Tabari, calls a husban a decree that Allah decrees, and al-Jawhari, in al-Qurtubi, defines husban as punishment.",
+            "bn": "হুসবানান মিনাস সামা: আয়াতের আর কোনো শব্দ এত রকম ব্যাখ্যা টানেনি। সবচেয়ে ব্যাপক অর্থটি সোজা: শাস্তি। তাবারী এ অর্থ সনদসহ আনেন কাতাদা, দাহহাক ও ইবন আব্বাস (রাঃ) থেকে। ইবন কাসীরও ইবন আব্বাস, দাহহাক ও কাতাদার নাম নেন, সঙ্গে যোগ করেন যুহরী থেকে ইমাম মালিকের বর্ণনা। তাবারীর উদ্ধৃতিতে ইবন যায়দ বলেন, হুসবান হলো আল্লাহর এক ফয়সালা, যা তিনি কার্যকর করেন। আর কুরতুবীর উদ্ধৃতিতে জাওহারী হুসবানের অর্থ বলেন শাস্তি।"
+          },
+          {
+            "en": "Others give the word a shape. At-Tabari explains it as a punishment hurled from the sky, the plural of husbana, meaning missiles; al-Qurtubi gives the same from al-Akhfash, al-Qutaybi and Abu 'Ubayda, and mentions short arrows loosed in a single volley. Al-Baghawi records al-Qutaybi's 'missiles' and glosses them as something like a thunderbolt, or anything that destroys the garden. Ibn al-A'rabi, in al-Qurtubi, counts the cloud and the thunderbolt among the senses of husbana, and Abu Ziyad al-Kilabi uses the word for locusts striking the land.",
+            "bn": "অন্যরা শব্দটিকে একটা আকার দেন। তাবারী একে বলেন আকাশ থেকে ছুড়ে মারা শাস্তি। তাঁর মতে হুসবান শব্দটি হুসবানার বহুবচন, যার অর্থ নিক্ষেপের বস্তু। কুরতুবী একই কথা আনেন আখফাশ, কুতাইবী ও আবু উবাইদা থেকে, আর উল্লেখ করেন এক ঝাঁকে ছোড়া ছোট ছোট তীরের কথা। বাগাভী কুতাইবীর 'নিক্ষেপের বস্তু' ব্যাখ্যাটি এনে বলেন, তা বজ্রপাতের মতো কিছু, কিংবা এমন যেকোনো কিছু যা বাগান ধ্বংস করে। কুরতুবীর উদ্ধৃতিতে ইবনুল আ'রাবী হুসবানার অর্থের মধ্যে মেঘ ও বজ্রপাতও গোনেন। আর আবু যিয়াদ কিলাবী শব্দটি ব্যবহার করেন জমিতে পঙ্গপাল হানা দেওয়া বোঝাতে।"
+          },
+          {
+            "en": "The reports from Ibn 'Abbas (RA) do not agree. At-Tabari and Ibn Kathir carry 'punishment' from him; al-Baghawi and Ma'arif al-Qur'an carry 'fire'. Ma'arif leans towards fire, observing that the Qur'an names no particular calamity, and closes with 'Allah knows best'. Ibn Kathir holds that the apparent sense is a mighty, violent rain that uproots crops and trees; as-Sa'di says a punishment, by great rain or something else. Al-Qurtubi also records az-Zajjaj's reading from hisab, reckoning, as in 55:5: the punishment of reckoning, for what your own hands have earned.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকে আসা বর্ণনাগুলো এক রকম নয়। তাবারী ও ইবন কাসীর তাঁর থেকে আনেন 'শাস্তি', আর বাগাভী ও মাআরিফুল কুরআন আনেন 'আগুন'। মাআরিফ আগুনের দিকেই ঝোঁকে। সেখানে বলা হয়, কুরআন নির্দিষ্ট কোনো বিপদের নাম নেয়নি, আর শেষে বলা হয়: আল্লাহই ভালো জানেন। ইবন কাসীরের মতে বাহ্যিক অর্থ হলো প্রচণ্ড, তছনছ করা বৃষ্টি, যা ফসল আর গাছ উপড়ে ফেলে। সা'দী বলেন, শাস্তি, প্রবল বৃষ্টির মাধ্যমে কিংবা অন্য কিছুর মাধ্যমে। কুরতুবী যাজ্জাজের একটি পাঠও আনেন, যা এসেছে হিসাব শব্দ থেকে, যেমন ৫৫:৫-এ: হিসাবের শাস্তি, তোমার নিজের হাতের কামাইয়ের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground Where No Foot Holds",
+          "bn": "যেখানে পা টেকে না"
+        },
+        "p": [
+          {
+            "en": "Fa-tusbiha sa'idan zalaqa: and it becomes sa'id, bare earth, that is zalaq. At-Tabari describes smooth land with nothing on it, every planting and growth gone, a ruin on which no foot can stand, because it is so smooth and all that grew there has been wiped away. Ibn Kathir has an empty waste of smooth dust where no foot stays firm; al-Muyassar joins the two strands, no foot holds on it and no plant grows. Al-Qurtubi notes the reversal: the most harmful of lands, after it had been the most useful.",
+            "bn": "ফাতুসবিহা সাঈদান যালাকা: ফলে তা হয়ে যাবে সাঈদ, অর্থাৎ খালি মাটি, যা যালাক। তাবারী বর্ণনা করেন এমন মসৃণ জমির কথা, যাতে কিছুই নেই। সব চারা আর গাছপালা উধাও, পড়ে আছে কেবল ধ্বংসস্তূপ। এত মসৃণ, আর যা কিছু জন্মেছিল সব এমনভাবে মুছে গেছে যে তাতে পা টেকে না। ইবন কাসীরের ভাষায়: মসৃণ ধুলোর শূন্য প্রান্তর, যেখানে পা স্থির থাকে না। মুয়াসসার দুটি দিক একসঙ্গে বলে: পা-ও টেকে না, গাছও গজায় না। কুরতুবী উল্টে যাওয়াটা লক্ষ করেন: সবচেয়ে উপকারী জমি হয়ে গেল সবচেয়ে ক্ষতিকর জমি।"
+          },
+          {
+            "en": "Is zalaq about slipping or about bareness? Al-Qurtubi reads it as strengthening sa'id, ground from which feet slide for its smoothness, and al-Baghawi records, as 'it was said', that feet slip on it. But al-Qurtubi also cites al-Jawhari that zalaq can mean shaving, and records al-Qushayri's view: the point is not slipperiness but that no plant is left, as no hair is left on a shaven head. Ibn 'Abbas (RA) likens it to juruz, ground that grows nothing; Ibn Zayd says sa'id zalaq and sa'id juruz are one and the same; al-Baghawi adds Mujahid's reading, a great expanse of sand.",
+            "bn": "যালাক কি পিছলে যাওয়ার কথা, নাকি শূন্যতার? কুরতুবী একে সাঈদ শব্দের জোরদার বিশেষণ হিসেবে পড়েন: এমন মাটি, যার মসৃণতায় পা পিছলে যায়। বাগাভীও 'বলা হয়েছে' দিয়ে আনেন যে তাতে পা পিছলায়। কিন্তু কুরতুবী জাওহারী থেকে এটাও আনেন যে যালাক মানে মুণ্ডন করাও হয়। তারপর কুশাইরীর মত উল্লেখ করেন: উদ্দেশ্য পিছলানো নয়, উদ্দেশ্য হলো তাতে কোনো গাছ থাকবে না, যেমন মাথা মুড়ালে কোনো চুল থাকে না। ইবন আব্বাস (রাঃ) একে তুলনা করেন জুরুযের সঙ্গে, যে জমিতে কিছু জন্মায় না। ইবন যায়দ বলেন, সাঈদ যালাক আর সাঈদ জুরুয একই জিনিস। বাগাভী আনেন মুজাহিদের পাঠ: বিশাল বালুর প্রান্তর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Against the Garden",
+          "bn": "বাগানের বিরুদ্ধে দোয়া"
+        },
+        "p": [
+          {
+            "en": "Was the believer wishing harm on his companion? The commentators read his words with care. As-Sa'di, at the close of the speech in 18:41, says that the believer prayed against his friend's garden out of anger for his Lord's sake, because it had deluded him and made him transgress and he had come to rest in it, and that he did so in the hope that the man might turn back, recover his judgement, and see his own situation clearly. The object of the prayer is the garden; its purpose is the man.",
+            "bn": "মুমিন লোকটি কি বন্ধুর অমঙ্গল কামনা করছিলেন? তাফসীরকারেরা তাঁর কথা সাবধানে পড়েন। সা'দী ১৮:৪১-এ, বক্তব্যের একেবারে শেষে, বলেন: মুমিন বন্ধুর বাগানের বিরুদ্ধে দোয়া করেছিলেন রবের জন্য রাগ থেকে। কারণ বাগানটি তাকে ধোঁকায় ফেলেছিল, সীমালঙ্ঘনে ঠেলে দিয়েছিল, আর সে এর উপরই নিশ্চিন্ত হয়ে বসেছিল। আর এ দোয়া তিনি করেছিলেন এই আশায় যে লোকটি হয়তো ফিরে আসবে, সুবুদ্ধি ফিরে পাবে, নিজের অবস্থাটা পরিষ্কার দেখবে। দোয়ার নিশানা বাগান, উদ্দেশ্য মানুষটি।"
+          },
+          {
+            "en": "Al-Qurtubi frames the exchange in other words. He calls the believer's speech in 18:39 a rebuke and a counsel, an answer to the claim that the garden would never perish, and at the end of 18:41 he marks where the debate and the warning of the rich man's brother, as he calls the believer, came to a close. Al-Muyassar names the cause in the paraphrase itself: perhaps my Lord will strip you of the blessing because of your disbelief. None of them reads the words as spite, and as-Sa'di names their aim outright.",
+            "bn": "কুরতুবী কথোপকথনটিকে অন্যভাবে চিহ্নিত করেন। ১৮:৩৯-এ মুমিনের কথাকে তিনি বলেন তিরস্কার ও উপদেশ, বাগান কখনো ধ্বংস হবে না, এই দাবির জবাব। আর ১৮:৪১-এর শেষে তিনি লেখেন, ধনী লোকটির ভাইয়ের বিতর্ক আর সতর্কবাণী এখানেই শেষ হলো। মুমিনকে তিনি ভাই বলেই উল্লেখ করেন। মুয়াসসার কারণটি ব্যাখ্যার মধ্যেই বলে দেয়: হয়তো আমার রব তোমার কুফরের কারণে তোমার কাছ থেকে নিয়ামত কেড়ে নেবেন। কেউই এ কথাকে বিদ্বেষ হিসেবে পড়েননি, আর সা'দী তো এর লক্ষ্য সরাসরি বলে দিয়েছেন।"
+          },
+          {
+            "en": "This article does not take the believer's words as a model for calling down loss on anyone's home, wealth or family. They belong to a coined example, spoken by a man of faith to one who had denied the Hour, and the commentators read them as warning and as hope for his return. What the reader is given to carry is the self-examination of 18:39: to notice what pleases him in his own garden, and to say, with the heart, ma sha'a llah, la quwwata illa billah.",
+            "bn": "এ লেখা মুমিনের কথাগুলোকে কারও ঘরবাড়ি, সম্পদ বা পরিবারের উপর ক্ষতি ডেকে আনার নমুনা হিসেবে নেয় না। কথাগুলো একটি উপমার অংশ। একজন ঈমানদার তা বলেছিলেন এমন একজনকে, যে কিয়ামত অস্বীকার করেছিল। তাফসীরকারেরা এগুলো পড়েন সতর্কবাণী হিসেবে, তার ফিরে আসার আশা হিসেবে। পাঠকের জন্য যা নিয়ে যাওয়ার, তা ১৮:৩৯-এর আত্মজিজ্ঞাসা: নিজের বাগানে কী তাকে মুগ্ধ করে তা খেয়াল করা, আর অন্তর থেকে বলা, মা শা আল্লাহ, লা কুওয়াতা ইল্লা বিল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then the Water Sank",
+          "bn": "তারপর পানি তলিয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "The believer adds a second possibility in 18:41: or its water may sink into the ground, so that you can never seek it out. Ibn Kathir explains ghawr as water going down, the opposite of a spring that seeks the surface; al-Qurtubi again marks the reversal, the driest of lands after the best watered; as-Sa'di adds that no pick could reach it. The next verse (18:42) gives the outcome without naming its means: the fruit was encompassed, the garden lay fallen on its trellises, and the man wrung his hands, wishing he had associated no one with his Lord.",
+            "bn": "১৮:৪১-এ মুমিন আরেকটি সম্ভাবনার কথা যোগ করেন: অথবা তার পানি মাটির গভীরে তলিয়ে যাবে, তুমি আর কখনো তা খুঁজে পাবে না। ইবন কাসীর গাওরের ব্যাখ্যা দেন নিচে নেমে যাওয়া পানি হিসেবে, ঝরনার উল্টো, যা উপরে ওঠার পথ খোঁজে। কুরতুবী আবার উল্টে যাওয়াটা দেখান: সবচেয়ে পানিসমৃদ্ধ জমি হয়ে গেল সবচেয়ে পানিহীন। সা'দী যোগ করেন, কোদাল-শাবলেও তার নাগাল মিলবে না। পরের আয়াত (১৮:৪২) পরিণতি জানায়, মাধ্যমের নাম না নিয়েই: ফল ধ্বংসে ঘেরাও হলো, বাগান মাচাসহ ভেঙে পড়ল, আর লোকটি হাত কচলে বলল, হায়, যদি রবের সঙ্গে কাউকে শরীক না করতাম!"
+          },
+          {
+            "en": "It needs saying plainly. This is a coined example, and the verse describes what the text describes: one man's warning inside a parable, and one garden's end. It licenses nothing against any living person, rich or poor, nor against any neighbour or community, and gives no one leave to read another person's loss as a verdict on him. Its mirror is turned on the reader. The garden the reader admires today is held by Allah's will alone, and the right words for it are the ones the proud man never said.",
+            "bn": "সোজা কথায় বলা দরকার। এটি একটি উপমা, আর আয়াতটি কেবল ততটুকুই বর্ণনা করে যতটুকু আয়াতে আছে: একটি গল্পের ভেতরে একজনের সতর্কবাণী, আর একটি বাগানের পরিণতি। কোনো জীবিত মানুষ, ধনী হোক বা গরিব, কিংবা কোনো প্রতিবেশী বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। অন্যের ক্ষতিকে তার উপর আল্লাহর রায় বলে পড়ার অধিকারও কাউকে দেয় না। এর আয়না পাঠকের নিজের দিকে ঘোরানো। আজ যে বাগান দেখে আপনি মুগ্ধ, তা টিকে আছে শুধু আল্লাহর ইচ্ছায়। আর তার জন্য সঠিক কথাগুলো সেগুলোই, যা অহংকারী লোকটি কখনো বলেনি।"
+          }
+        ]
+      }
+    ]
+  },
   "18:45": {
     "sections": [
       {

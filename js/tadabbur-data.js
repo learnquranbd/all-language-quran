@@ -22831,6 +22831,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guidance that has reached you is enough. Do not wait for a blow before you believe sincerely and ask your Lord's forgiveness; turn back while turning is still your choice.",
     "lessonBn": "যে হিদায়াত আপনার কাছে পৌঁছেছে, সেটাই যথেষ্ট। ধাক্কা খাওয়ার অপেক্ষা না করে খাঁটি মনে ঈমান আনুন আর রবের কাছে ক্ষমা চান। ফিরে আসা যতক্ষণ আপনার হাতে, ততক্ষণেই ফিরে আসুন।"
+  },
+  "18:40": {
+    "reflectionEn": "The poorer man has just told his friend what he should have said at the garden gate: what Allah wills; there is no power except with Allah. Now he finishes the thought. You see me with less, he says, but perhaps my Lord will give me something better than your garden, and send upon yours a reckoning from the sky, until it lies bare, smooth ground where no foot can hold. He does not boast of what he lacks. He weighs everything against his Lord, who gives and who takes away. And his hard words aim at the garden that deceived his friend, in the hope that the friend may yet turn back. What in my own life do I look at as if it could never end?",
+    "reflectionBn": "গরিব লোকটি একটু আগে বন্ধুকে বলেছেন, বাগানে ঢোকার সময় তার কী বলা উচিত ছিল: মা শা আল্লাহ, আল্লাহ ছাড়া কোনো শক্তি নেই। এবার তিনি কথাটা শেষ করেন। তুমি আমাকে কম সম্পদের মানুষ দেখছ, কিন্তু হয়তো আমার রব আমাকে তোমার বাগানের চেয়ে ভালো কিছু দেবেন। আর তোমার বাগানের উপর আকাশ থেকে এমন বিপদ পাঠাবেন যে তা হয়ে যাবে খালি, মসৃণ মাটি, যেখানে পা টেকে না। নিজের অভাব নিয়ে তিনি গর্ব করেন না। সবকিছু তিনি মাপেন তাঁর রবের সঙ্গে, যিনি দেন, আবার নিয়েও নেন। তাঁর কঠিন কথার নিশানা সেই বাগান, যা বন্ধুকে ধোঁকায় ফেলেছে, এই আশায় যে বন্ধু হয়তো এখনো ফিরে আসবে। আমার জীবনে কোন জিনিসের দিকে আমি এমনভাবে তাকাই, যেন তা কোনোদিন শেষ হবে না?",
+    "pointsEn": [
+      "When something I own pleases me, do I say 'what Allah wills' and mean it, or do I quietly credit myself?",
+      "Which of my comforts would I find hardest to picture as bare ground, and what does that tell me about where my trust sits?",
+      "When someone looks down on me for having less, do I answer with resentment, or with hope in what my Lord may give?",
+      "When I warn a friend, is my aim his return, or the satisfaction of being proved right?",
+      "What 'better' am I really hoping for: more of this world, or what lasts with Allah?"
+    ],
+    "pointsBn": [
+      "আমার কোনো জিনিস যখন আমাকে মুগ্ধ করে, আমি কি মন থেকে 'মা শা আল্লাহ' বলি, নাকি চুপিচুপি কৃতিত্বটা নিজেকেই দিই?",
+      "আমার কোন আরামটাকে খালি মাঠ হিসেবে কল্পনা করা আমার কাছে সবচেয়ে কঠিন? আমার ভরসা আসলে কোথায় দাঁড়িয়ে আছে, তা থেকে কী বোঝা যায়?",
+      "কম আছে বলে কেউ আমাকে ছোট করে দেখলে আমি কি ক্ষোভ নিয়ে জবাব দিই, নাকি রব কী দিতে পারেন সেই আশা নিয়ে?",
+      "বন্ধুকে সতর্ক করার সময় আমার লক্ষ্য কি তার ফিরে আসা, নাকি নিজে সঠিক প্রমাণিত হওয়ার তৃপ্তি?",
+      "যে 'ভালো'-র আশা আমি সত্যিই করি, তা কি দুনিয়ার আরও কিছু, নাকি আল্লাহর কাছে যা টিকে থাকে?"
+    ],
+    "lessonEn": "Weigh what you own and what you lack against your Lord, who gives and takes away, and let every blessing you admire bring 'what Allah wills' to your tongue.",
+    "lessonBn": "যা আছে আর যা নেই, দুটোই মাপুন সেই রবের সঙ্গে যিনি দেন এবং নিয়ে নেন। আর যে নিয়ামত দেখে মুগ্ধ হন, তা যেন আপনার মুখে 'মা শা আল্লাহ' এনে দেয়।"
   }
 };
 
