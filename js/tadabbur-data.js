@@ -23431,6 +23431,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Wrongdoing can break a people beyond mending, and the earth passes to others; set right what you have misplaced while admitting it can still help you.",
     "lessonBn": "জুলুম একটা জাতিকে এমনভাবে ভেঙে দিতে পারে যে আর জোড়া লাগে না, আর পৃথিবী চলে যায় অন্যদের হাতে; স্বীকার করা যতক্ষণ কাজে আসে, তার আগেই ভুল জায়গায় রাখা জিনিসগুলো ঠিক করে নিন।"
+  },
+  "21:59": {
+    "reflectionEn": "They came back from their festival and found their gods in pieces on the temple floor. Their first words held a question and a verdict together: who has done this to our gods? Surely he is one of the wrongdoers. Not one of them stopped to ask what kind of god lies broken and cannot even say who broke it. The man they called a wrongdoer had done the one just thing in that room, and the wrong they named was the wrong they had been living in for years. The verse holds a mirror up to me. When something I trusted is shown to be empty, do I look at what failed me, or turn on the one who showed it?",
+    "reflectionBn": "উৎসব থেকে ফিরে তারা দেখল, মন্দিরের মেঝেতে তাদের দেবতারা টুকরো টুকরো হয়ে পড়ে আছে। মুখ থেকে প্রথম যে কথা বেরোল, তাতে প্রশ্ন আর রায় একসঙ্গে: আমাদের উপাস্যদের সাথে এ কাজ কে করল? সে নিশ্চয়ই যালিমদের একজন। কেউ একবারও থেমে ভাবল না, এ কেমন উপাস্য, যে ভেঙে পড়ে থাকে অথচ বলতেও পারে না কে ভাঙল। যাকে তারা যালিম বলল, ওই ঘরে ন্যায়ের কাজটা সে-ই করেছিল। আর যে জুলুমের নাম তারা মুখে আনল, বছরের পর বছর তারা নিজেরাই তার ভেতরে বাস করছিল। আয়াতটি আমার সামনে আয়না ধরে। যার উপর ভরসা করতাম, তা ফাঁপা বলে ধরা পড়লে আমি কি দেখি কোথায় ঠকেছি? নাকি যে চোখে আঙুল দিয়ে দেখাল, তার ঘাড়েই দোষ চাপাই?",
+    "pointsEn": [
+      "When a habit or belief of mine is shown to be hollow, is my first move to examine it, or to find the person who exposed it?",
+      "Have I ever called someone a wrongdoer for disturbing something I was attached to, when the wrong lay in the attachment itself?",
+      "What do I lean on that could not protect itself, or even tell me who harmed it, if it were broken tomorrow?",
+      "When I ask who is responsible, am I looking for the truth, or only for someone to punish?",
+      "Whose honesty have I resented because it cost me a comfortable illusion?"
+    ],
+    "pointsBn": [
+      "আমার কোনো অভ্যাস বা বিশ্বাস ফাঁপা বলে ধরা পড়লে আমি কি আগে সেটাকে যাচাই করি, নাকি খুঁজি কে সেটা ফাঁস করল?",
+      "যে জিনিসের মায়ায় আমি জড়িয়ে ছিলাম, তাতে হাত দেওয়ার জন্য কাউকে কি কখনো যালিম বলেছি, অথচ অন্যায়টা ছিল ওই মায়াতেই?",
+      "কাল যদি ভেঙে পড়ে, তবে নিজেকে বাঁচাতে পারবে না, এমনকি কে ক্ষতি করল তাও বলতে পারবে না, এমন কিসের উপর আমি ভর দিয়ে আছি?",
+      "দায়ী কে, এ প্রশ্ন যখন তুলি, তখন কি আমি সত্যটা খুঁজি, নাকি শুধু শাস্তি দেওয়ার মতো একজনকে?",
+      "কার সততা আমার গায়ে লেগেছে, শুধু এ কারণে যে তা আমার আরামের এক ভ্রম ভেঙে দিয়েছে?"
+    ],
+    "lessonEn": "When something you trusted is shown to be powerless, look at what failed you instead of hunting for someone to blame; exposing a falsehood is not the wrong.",
+    "lessonBn": "যার উপর ভরসা করেছিলেন, তা অক্ষম বলে ধরা পড়লে দোষ চাপানোর লোক না খুঁজে দেখুন কোথায় ঠকেছেন। মিথ্যাকে উন্মোচন করা অন্যায় নয়।"
   }
 };
 

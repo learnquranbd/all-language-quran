@@ -1895,6 +1895,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "Home From the Festival",
+          "bn": "উৎসব শেষে ফিরে"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier Ibrahim (AS) had sworn by Allah that he would plot against their idols once they had turned their backs and gone (21:57). Then he broke them into fragments, all but the largest of them, that they might return to it (21:58). Now the people come home. Al-Qurtubi sets the scene in a line: when they returned from their festival and saw what had been done to their gods. The Muyassar adds that they found their idols smashed and humiliated, and asked one another who had done it.",
+            "bn": "দুই আয়াত আগে ইবরাহীম (আঃ) আল্লাহর কসম খেয়ে বলেছিলেন, তারা পিঠ ফিরিয়ে চলে গেলেই তিনি তাদের মূর্তিগুলোর বিরুদ্ধে একটা কৌশল নেবেন (২১:৫৭)। তারপর তিনি সেগুলো ভেঙে টুকরো টুকরো করলেন, শুধু সবচেয়ে বড়টা রেখে দিলেন, যাতে তারা ওটার দিকেই ফেরে (২১:৫৮)। এবার লোকেরা ঘরে ফিরছে। কুরতুবী এক বাক্যে দৃশ্যটা আঁকেন: উৎসব থেকে ফিরে তারা দেখল, তাদের উপাস্যদের কী দশা করা হয়েছে। মুয়াসসার যোগ করে, তারা দেখল মূর্তিগুলো চুরমার, অপমানিত হয়ে পড়ে আছে। তখন তারা একে অন্যকে জিজ্ঞেস করল, এ কাজ কে করেছে।"
+          },
+          {
+            "en": "At-Tabari paints the same moment with one detail of his own: they saw their gods hewn to pieces, except the one to which Ibrahim had tied the axe. Ibn Kathir names what they were looking at: the humiliation and abasement that al-Khalil had dealt their idols. Their reply runs to eight Arabic words: qalu man fa'ala hadha bi-alihatina, innahu la-mina z-zalimin. They said, who has done this to our gods? Surely he is one of the wrongdoers. The sentence has two halves, a question and a verdict, and both deserve a closer look.",
+            "bn": "তাবারী একই মুহূর্ত আঁকেন, সঙ্গে নিজের একটা খুঁটিনাটি জুড়ে: তারা দেখল তাদের উপাস্যরা কেটে টুকরো করা, শুধু সেইটি বাদে, যার গায়ে ইবরাহীম কুড়ালটা বেঁধে রেখেছিলেন। ইবন কাসীর বলেন তারা কী দেখছিল: খলীল তাদের মূর্তিগুলোর যে অপমান আর লাঞ্ছনা ঘটিয়েছিলেন, সেটাই। তাদের জবাব আরবিতে মাত্র আটটি শব্দের: কালূ মান ফাআলা হাযা বিআলিহাতিনা, ইন্নাহু লামিনায যালিমীন। তারা বলল, আমাদের উপাস্যদের সাথে এ কাজ কে করল? সে নিশ্চয়ই যালিমদের একজন। বাক্যের দুটি ভাগ, একটা প্রশ্ন আর একটা রায়। দুটোই একটু কাছ থেকে দেখার মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking and Convicting at Once",
+          "bn": "প্রশ্নের সঙ্গেই রায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads the first half as a real question, asked 'ala jihat al-bahth wa-l-inkar: by way of searching and of outrage. They sought the culprit and denounced the deed. He then records a second view, introduced with it is said: that man here is not a question at all but the subject of a statement, whose predicate is la-mina z-zalimin. On that reading the sentence means simply that whoever did this is a wrongdoer.",
+            "bn": "কুরতুবী প্রথম ভাগটাকে সত্যিকারের প্রশ্ন হিসেবেই পড়েন, যা তারা করেছিল খোঁজ আর ক্ষোভ দুই মিলিয়ে। তারা অপরাধীকে খুঁজছিল, আর কাজটাকে ধিক্কারও দিচ্ছিল। এরপর তিনি 'বলা হয়' বলে আরেকটা মত আনেন। সে মতে এখানে মান শব্দটা প্রশ্নবোধক নয়। এটা একটা বাক্যের উদ্দেশ্য, আর লামিনায যালিমীন তার বিধেয়। এভাবে পড়লে বাক্যের অর্থ দাঁড়ায় সোজা একটা ঘোষণা: যে এ কাজ করেছে, সে যালিম।"
+          },
+          {
+            "en": "Al-Qurtubi judges the first reading the sounder, and his reason sits in the next verse. We heard a young man mention them, some answered, a youth called Ibrahim (21:60), and that, he says, is the reply to who did this. A question that receives an answer was a question. Yet on either reading the verdict arrives before the evidence. In the same breath that asks who the doer was, they have settled what he is. They do not yet know his name, but they already know he is a wrongdoer.",
+            "bn": "কুরতুবীর বিচারে প্রথম পাঠটাই বেশি সঠিক, আর তার কারণ পরের আয়াতে। কেউ কেউ বলল, আমরা এক যুবককে এদের কথা বলতে শুনেছি, তাকে ইবরাহীম বলা হয় (২১:৬০)। কুরতুবী বলেন, এটাই 'কে করল' প্রশ্নের জবাব। যে কথার জবাব আসে, সেটা প্রশ্নই ছিল। তবে যেভাবেই পড়া হোক, প্রমাণের আগেই রায় এসে গেছে। যে নিঃশ্বাসে তারা জানতে চাইছে কাজটা কে করল, সেই নিঃশ্বাসেই ঠিক করে ফেলেছে লোকটা কেমন। তার নাম তখনো তারা জানে না, অথচ জানে সে যালিম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrong by Whose Measure",
+          "bn": "কার মাপে অন্যায়"
+        },
+        "p": [
+          {
+            "en": "What did they mean by a wrongdoer? The commentators give their words a plain sense. At-Tabari glosses la-mina z-zalimin as one of those who did to the idols what he had no right to do. Al-Baghawi offers a single word for it: one of the criminals, al-mujrimin. Ibn Kathir ties the charge to the deed alone, fi sani'ihi hadha, in this act of his. None of them makes the accusation larger than it was: it is a judgement on what was done to stone, spoken by those who worshipped the stone.",
+            "bn": "যালিম বলতে তারা কী বোঝাল? তাফসীরকারেরা তাদের কথার একটা সাদামাটা অর্থ দেন। তাবারী লামিনায যালিমীনের ব্যাখ্যা দেন এভাবে: যে মূর্তিগুলোর সাথে এমন কাজ করেছে, যা করার অধিকার তার ছিল না। বাগাভী এক শব্দে বলেন: অপরাধীদের একজন। ইবন কাসীর অভিযোগটাকে শুধু ঘটনার সঙ্গেই বাঁধেন, তার এই কাজের বেলায়। তাঁদের কেউই অভিযোগকে যতটা ছিল তার চেয়ে বড় করেন না। এ রায় পাথরের সঙ্গে যা ঘটেছে তা নিয়ে, আর রায় দিচ্ছে সেই পাথরের পূজারীরা।"
+          },
+          {
+            "en": "The Muyassar spells out the logic from inside their own world. He is a wrongdoer, it has them saying, in his daring against the gods that deserve veneration and reverence. The words deserving of veneration are theirs, reported, not the Muyassar's judgement. In their eyes the idols had rights, and to break them was to trespass on those rights. The charge makes sense only inside that frame, and the whole passage sets out to break the frame.",
+            "bn": "মুয়াসসার তাদের নিজেদের জগতের ভেতর থেকে যুক্তিটা খুলে দেখায়। তাদের মুখে সে কথাটা এভাবে রাখে: সে যালিম, কারণ সম্মান আর ভক্তি পাওয়ার যোগ্য দেবতাদের বিরুদ্ধে সে দুঃসাহস দেখিয়েছে। 'সম্মানের যোগ্য' কথাটা তাদের, মুয়াসসার শুধু তা তুলে ধরছে। এটা তার নিজের রায় নয়। তাদের চোখে মূর্তিগুলোর হক ছিল, আর সেগুলো ভাঙা মানে সেই হকে হাত দেওয়া। অভিযোগটা অর্থ পায় শুধু এই কাঠামোর ভেতরে, আর গোটা কাহিনিটা ঠিক এই কাঠামোটাই ভাঙতে চায়।"
+          },
+          {
+            "en": "There is an irony in the word they chose. The Qur'an uses the same root for the very thing they were doing. Luqman tells his son, do not associate anything with Allah: inna sh-shirka la-zulmun 'azim, association is a tremendous wrong (31:13). Ibrahim's people reached for zulm to describe the breaking of idols, while the Qur'an reserves its gravest zulm for the worship of them. The accusation was right that a great wrong had been done in that temple. It was wrong only about who had done it.",
+            "bn": "যে শব্দটা তারা বেছে নিল, তার মধ্যেই একটা পরিহাস আছে। তারা নিজেরা যা করছিল, কুরআন ঠিক সেটার জন্যই এই ধাতু ব্যবহার করে। লুকমান ছেলেকে বলেন, আল্লাহর সঙ্গে শরিক কোরো না: ইন্নাশ শিরকা লাযুলমুন আযীম, নিশ্চয়ই শিরক বিরাট জুলুম (৩১:১৩)। ইবরাহীমের (আঃ) কওম মূর্তি ভাঙাকে বলল জুলুম। অথচ কুরআন সবচেয়ে বড় জুলুম বলে রেখেছে মূর্তির পূজাকেই। ওই মন্দিরে একটা বড় অন্যায় যে হয়েছিল, অভিযোগের এই অংশটা ঠিক। ভুল শুধু একটা জায়গায়: অন্যায়টা করেছিল কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Charge Comes Home",
+          "bn": "অভিযোগ ফিরল নিজেদের দিকে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di says it outright. They threw the charge of zulm at Ibrahim, he writes, when they themselves were more deserving of it: fa-ramaw Ibrahima bi-z-zulmi alladhi hum awla bihi. He had broken the idols, and they did not realise that breaking them was among the finest of his merits, min afdal manaqibihi, and an expression of his justice and his tawhid. What they called wrongdoing was, in as-Sa'di's reading, an act of justice.",
+            "bn": "সা'দী কথাটা সরাসরিই বলেন। তাঁর ভাষায়, তারা ইবরাহীমের (আঃ) গায়ে জুলুমের অপবাদ ছুড়ে দিল, অথচ সে অপবাদের বেশি যোগ্য তারা নিজেরাই। তিনি মূর্তিগুলো ভেঙেছিলেন। তারা বুঝল না যে এই ভাঙাটাই ছিল তাঁর শ্রেষ্ঠ গুণগুলোর একটি, তাঁর ন্যায়পরায়ণতা আর তাওহীদের প্রকাশ। সা'দীর পাঠে, যাকে তারা জুলুম বলল, তা আসলে ছিল ন্যায়ের কাজ।"
+          },
+          {
+            "en": "Then as-Sa'di names the true wrongdoer: whoever took these things as gods, wa-qad ra'a ma yuf'alu biha, when he had seen with his own eyes what could be done to them. The worshippers were standing over the proof. Their gods had been knocked down and could not get up, had been struck and could not strike back. Whoever looks at that and still bows to it has wronged himself, and wronged Him to whom all worship is owed.",
+            "bn": "এরপর সা'দী আসল যালিমের পরিচয় দেন। আসল যালিম সে, যে এগুলোকে উপাস্য বানিয়ে নিয়েছে, অথচ নিজের চোখেই দেখেছে এগুলোর সাথে কী করা যায়। পূজারীরা দাঁড়িয়ে ছিল প্রমাণের ঠিক উপরে। তাদের দেবতাদের ধাক্কা দিয়ে ফেলে দেওয়া হয়েছে, তারা উঠতে পারেনি। আঘাত করা হয়েছে, পাল্টা আঘাত করতে পারেনি। এসব দেখার পরও যে তার সামনে মাথা নোয়ায়, সে জুলুম করে নিজের উপর। জুলুম করে তাঁর উপরও, ইবাদত যাঁর হক।"
+          },
+          {
+            "en": "The Qur'an's own sequence bears this out within five verses. A moment comes when fa-raja'u ila anfusihim, they returned to themselves, and said, innakum antumu z-zalimun: it is you who are the wrongdoers (21:64). The same word now points back at the people who used it. The insight did not hold, for the very next verse has them turned on their heads again (21:65). But for one moment the accusation had found its proper address.",
+            "bn": "পাঁচ আয়াতের মধ্যেই কুরআনের নিজের বর্ণনাক্রম এ কথার সাক্ষ্য দেয়। একটা মুহূর্ত আসে। তারা নিজেদের দিকে ফিরে তাকায় আর বলে, ইন্নাকুম আনতুমুয যালিমূন: যালিম তো তোমরা নিজেরাই (২১:৬৪)। যে শব্দ তারা ব্যবহার করেছিল, এবার সেটা তাদের দিকেই ঘুরে এল। বোধটা টেকেনি, পরের আয়াতেই তাদের মাথা আবার উল্টে যায় (২১:৬৫)। তবু এক মুহূর্তের জন্য অভিযোগটা তার সঠিক ঠিকানায় পৌঁছেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gods Who Saw Nothing",
+          "bn": "যে দেবতারা কিছুই দেখেনি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws the lesson from the wreckage itself. What had been done to the idols, he says, was a humiliation and abasement that pointed to their lack of divinity, al-dall 'ala 'adam ilahiyyatiha, and to the feeble minds of those who worshipped them. Ibrahim (AS) had not yet said a word to the crowd. The broken pieces on the floor were already making his argument. A god that can be shattered has answered, without speaking, the question of whether it is a god.",
+            "bn": "ইবন কাসীর ধ্বংসস্তূপ থেকেই শিক্ষাটা বের করে আনেন। তিনি বলেন, মূর্তিগুলোর সাথে যা করা হয়েছিল, সেই অপমান আর লাঞ্ছনাই প্রমাণ করছিল যে এগুলো উপাস্য নয়। প্রমাণ করছিল তাদের পূজারীদের বুদ্ধির দৈন্যও। ইবরাহীম (আঃ) তখনো জনতার সামনে একটা কথাও বলেননি। মেঝেতে ছড়িয়ে থাকা টুকরোগুলোই তাঁর হয়ে যুক্তি দিচ্ছিল। যে উপাস্যকে ভেঙে ফেলা যায়, সে মুখ না খুলেই জবাব দিয়ে দিয়েছে, সে আসলে উপাস্য কি না।"
+          },
+          {
+            "en": "Notice, too, whom they ask. The Muyassar has them asking each other, and the question itself gives them away: who has done this to our gods? The gods were in the room when it happened, and they cannot say. The worshippers must turn to each other for a witness because the objects of their worship saw nothing and know nothing. Ibrahim (AS) will later say it aloud, ask them if they can speak (21:63); here the people have already conceded it in the way they frame their question.",
+            "bn": "আরেকটা জিনিস খেয়াল করার মতো: তারা প্রশ্নটা করছে কাকে। মুয়াসসারের বর্ণনায় তারা একে অন্যকে জিজ্ঞেস করছে, আর প্রশ্নটাই তাদের ধরিয়ে দেয়: আমাদের উপাস্যদের সাথে এ কাজ কে করল? ঘটনার সময় দেবতারা তো ঘরেই ছিল, অথচ তারা কিছু বলতে পারে না। সাক্ষীর জন্য পূজারীদের তাই একে অন্যের দিকে তাকাতে হয়, কারণ তাদের উপাস্যরা কিছু দেখেনি, কিছু জানেও না। পরে ইবরাহীম (আঃ) এ কথাটা মুখেই বলবেন, যদি কথা বলতে পারে তবে ওদেরই জিজ্ঞেস করো (২১:৬৩)। কিন্তু এই আয়াতেই প্রশ্ন সাজানোর ধরনে লোকেরা কথাটা মেনে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Idol Left Whole",
+          "bn": "অক্ষত রাখা বড় মূর্তি"
+        },
+        "p": [
+          {
+            "en": "The scene they walked into had one figure still standing: illa kabiran lahum, except a large one of theirs (21:58). Ma'arif al-Qur'an allows that it was larger either in size or in the esteem of its worshippers. It then gives three explanations of la'allahum ilayhi yarji'un. The pronoun may refer to Ibrahim (AS), who wanted them to come and ask him, so that he could show them that what they worshipped could not look after itself. Or the hope was that the sight of the fragments would bring them back towards his religion.",
+            "bn": "যে দৃশ্যে তারা ঢুকল, সেখানে একটা মূর্তিই দাঁড়িয়ে ছিল: ইল্লা কাবীরাল লাহুম, শুধু তাদের বড়টা ছাড়া (২১:৫৮)। মাআরিফুল কুরআনের মতে সেটা হয় আকারে বড় ছিল, নয়তো পূজারীদের চোখে মর্যাদায় বড়। এরপর লাআল্লাহুম ইলাইহি ইয়ারজিঊন কথাটার তিনটি ব্যাখ্যা দেওয়া হয়েছে। সর্বনামটা ইবরাহীমের (আঃ) দিকে ফিরতে পারে। তিনি চাইছিলেন তারা তাঁর কাছে এসে জিজ্ঞেস করুক, যাতে তিনি দেখাতে পারেন, যার পূজা তারা করে, সে নিজের দেখভালও করতে পারে না। অথবা আশা ছিল, টুকরোগুলো দেখে তারা হয়তো তাঁর দ্বীনের দিকে ফিরে আসবে।"
+          },
+          {
+            "en": "The third explanation Ma'arif credits to al-Kalbi: the pronoun points to the big idol. Seeing it intact with a hammer resting on its shoulder, they might turn to it for an account of what happened, get no answer, and see its helplessness for themselves. The tool appears in other commentators too, in different places. At-Tabari, as quoted above, says plainly that Ibrahim tied the axe to it. Ibn Kathir's abridged tafsir, under it was said, has him put a hammer in its hands, so they would think it had grown jealous and broken the smaller ones.",
+            "bn": "তৃতীয় ব্যাখ্যাটা মাআরিফুল কুরআন কালবীর নামে দেয়: সর্বনামটা বড় মূর্তিটার দিকেই ফেরে। তারা সেটাকে অক্ষত দেখবে, কাঁধে একটা হাতুড়ি রাখা। তখন ঘটনার ব্যাখ্যা জানতে হয়তো সেটার দিকেই ফিরবে, কোনো জবাব পাবে না, আর নিজেরাই দেখবে সেটা কতটা অসহায়। হাতিয়ারটার কথা অন্য তাফসীরেও আছে, তবে ভিন্ন ভিন্ন জায়গায়। আগে যেমন বলা হলো, তাবারী সোজাসুজি বলেন, ইবরাহীম কুড়ালটা সেটার গায়ে বেঁধে দিয়েছিলেন। ইবন কাসীরের সংক্ষিপ্ত তাফসীর 'বলা হয়' কথাটা জুড়ে আনে যে তিনি হাতুড়িটা সেটার হাতে দিয়েছিলেন। উদ্দেশ্য ছিল, লোকে ভাববে সেটা ঈর্ষায় জ্বলে ছোটগুলোকে ভেঙেছে।"
+          },
+          {
+            "en": "So the detail is reported in three different forms: tied to the idol in at-Tabari, placed in its hands in Ibn Kathir's abridgement, resting on its shoulder in al-Kalbi as Ma'arif relays him. At-Tabari gives it without qualification; the abridged Ibn Kathir marks it as something said. The verse itself names no tool. Al-Kalbi's reading states the purpose most plainly: the idol left whole was there to be asked, and to be seen failing to answer.",
+            "bn": "অর্থাৎ খুঁটিনাটিটা এসেছে তিনটি ভিন্ন রূপে। তাবারীর বর্ণনায় মূর্তির গায়ে বাঁধা, ইবন কাসীরের সংক্ষিপ্ত তাফসীরে তার হাতে রাখা, আর মাআরিফুল কুরআনে উদ্ধৃত কালবীর বর্ণনায় তার কাঁধে রাখা। তাবারী কোনো শর্ত ছাড়াই বলেন। সংক্ষিপ্ত ইবন কাসীর এটাকে 'বলা হয়' বলে চিহ্নিত করে। আয়াত নিজে কোনো হাতিয়ারের নাম নেয় না। উদ্দেশ্যটা সবচেয়ে পরিষ্কার করে বলে কালবীর পাঠ: অক্ষত মূর্তিটা রাখা হয়েছিল জিজ্ঞাসার জন্য, আর জবাব দিতে না পারার দৃশ্যটা দেখানোর জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prophet's Act, Not Ours",
+          "bn": "নবীর কাজ, আমাদের নয়"
+        },
+        "p": [
+          {
+            "en": "None of the eight tafsirs read for this verse attaches a hadith to it. What 21:59 records is the people's own speech, and the commentators explain it from its language and its scene. The narration most often linked to this passage, which the abridged Ibn Kathir cites from the two Sahihs about Ibrahim's three statements and which al-Bukhari records as 3358, comes in his tafsir at Ibrahim's reply in 21:63, and it belongs to that verse rather than to this.",
+            "bn": "এ আয়াতের জন্য পড়া আটটি তাফসীরের কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ২১:৫৯ আয়াতে আছে লোকদের নিজেদের মুখের কথা, আর তাফসীরকারেরা তা ব্যাখ্যা করেছেন ভাষা আর দৃশ্য থেকে। এই অংশের সঙ্গে সবচেয়ে বেশি যে বর্ণনাটা জোড়া হয়, সংক্ষিপ্ত ইবন কাসীর তা দুই সহীহ গ্রন্থ থেকে উদ্ধৃত করে। তাতে ইবরাহীমের (আঃ) তিনটি কথার উল্লেখ আছে, আর বুখারীতে এর নম্বর ৩৩৫৮। ইবন কাসীর এটা এনেছেন ২১:৬৩ আয়াতে ইবরাহীমের জবাবের আলোচনায়। হাদীসটির জায়গা সেই আয়াতে, এখানে নয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse reports the words of a past people, Ibrahim's own community, in a story the Qur'an tells. It licenses nothing against any living person or community, and it endorses no destruction of anyone's property, images or places of worship today. What Ibrahim (AS) did was a prophet's act, done by his station, among his own people, to call them to their Lord; he made no secret of his intent beforehand (21:57), and he answered for it before the whole gathering. That station belongs to no one who reads the story now.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কুরআনের বলা এক কাহিনিতে অতীতের এক জাতির, ইবরাহীমের (আঃ) নিজের কওমের মুখের কথা তুলে ধরে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কারও সম্পদ, মূর্তি বা উপাসনালয় ধ্বংস করাকেও এ আয়াত সমর্থন করে না। ইবরাহীম (আঃ) যা করেছিলেন, তা ছিল একজন নবীর কাজ, তাঁর নবুওয়াতের মর্যাদা থেকে, নিজের কওমের মাঝে, তাদের রবের দিকে ডাকার জন্য। নিজের সংকল্প তিনি আগে থেকে গোপন রাখেননি (২১:৫৭), আর পরে গোটা জনতার সামনে তার জবাবও দিয়েছিলেন। কাহিনিটা আজ যে পড়ে, সেই মর্যাদা তার নয়।"
+          },
+          {
+            "en": "The Qur'an's own instruction to believers points the same way. Do not revile those whom they call upon besides Allah, it says, lest they revile Allah in enmity, without knowledge (6:108). The story around 21:59 teaches the powerlessness of false gods; it does not hand anyone a method for treating other people's sacred things. Its target is the heart that worships what cannot help it, and the reader is meant to find that heart first in himself, not in a neighbour across the street.",
+            "bn": "মুমিনদের প্রতি কুরআনের নিজের নির্দেশও একই দিকে ইশারা করে। কুরআন বলে, আল্লাহকে ছেড়ে তারা যাদের ডাকে, তাদের গালি দিয়ো না, তাহলে তারাও শত্রুতাবশে না জেনে আল্লাহকে গালি দেবে (৬:১০৮)। ২১:৫৯ আয়াত ঘিরে যে কাহিনি, তা মিথ্যা উপাস্যের অক্ষমতা শেখায়। অন্যের পবিত্র জিনিসের সঙ্গে কেমন আচরণ করতে হবে, তার কোনো পদ্ধতি এটা কারও হাতে তুলে দেয় না। এর লক্ষ্য সেই অন্তর, যে এমন কিছুর ইবাদত করে যা তার কোনো কাজে আসে না। আর পাঠককে সেই অন্তর খুঁজতে হবে আগে নিজের ভেতরে, রাস্তার ওপারের প্রতিবেশীর মধ্যে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blaming the One Who Shows",
+          "bn": "যে দেখায়, দোষ তারই"
+        },
+        "p": [
+          {
+            "en": "The pattern in this verse outlives the temple. When something a person has trusted is exposed as empty, the anger rarely lands on the thing that failed. It lands on whoever made the failure visible. Ibrahim's people could not be angry with their gods for being breakable, since that would mean admitting what the fragments already said. So the anger went to the man, and the word wrongdoer went with it. The question who did this is easier to ask than the question what was it worth.",
+            "bn": "এ আয়াতের ধাঁচটা ওই মন্দিরের চেয়ে অনেক বেশি দিন টিকে আছে। মানুষ যার উপর ভরসা করেছিল, তা ফাঁপা বলে ধরা পড়লে রাগটা খুব কমই গিয়ে পড়ে ব্যর্থ জিনিসটার উপর। রাগ গিয়ে পড়ে তার উপর, যে ব্যর্থতাটা চোখের সামনে এনে দিল। ইবরাহীমের (আঃ) কওম ভঙ্গুর হওয়ার জন্য তাদের দেবতাদের উপর রাগ করতে পারেনি। তা করলে মেনে নিতে হতো, টুকরোগুলো যা আগেই বলে দিয়েছে। তাই রাগটা গেল মানুষটার দিকে, সঙ্গে গেল যালিম শব্দটাও। 'কে করল' জিজ্ঞেস করা সহজ। 'এর দাম কী ছিল' জিজ্ঞেস করা কঠিন।"
+          },
+          {
+            "en": "Few readers keep idols of stone, but most keep something they would defend in the same tone: a habit inherited from their elders, a standing among people, an opinion they have built a life around. When a fact or a friend knocks one of these over, the first words that rise are often theirs: who has done this, and how dare he? The verse asks for a pause before the verdict, long enough to ask whether the thing on the floor could ever have helped.",
+            "bn": "পাথরের মূর্তি খুব কম পাঠকই রাখেন। কিন্তু প্রায় সবারই এমন কিছু আছে, যাকে তারা ঠিক ওই সুরেই আগলে রাখেন: মুরব্বিদের কাছ থেকে পাওয়া কোনো অভ্যাস, মানুষের মাঝে নিজের অবস্থান, কিংবা এমন কোনো মত, যাকে ঘিরে গোটা জীবন সাজানো। কোনো সত্য বা কোনো বন্ধু যখন এর একটাকে ধাক্কা দিয়ে ফেলে দেয়, মুখে প্রথম যে কথা আসে, প্রায়ই তা ওদেরই কথা: এ কাজ কে করল, তার এত সাহস? আয়াতটি রায় দেওয়ার আগে একটু থামতে বলে। এতটুকু থামা, যাতে প্রশ্ন করা যায়, মেঝেতে পড়ে থাকা জিনিসটা কি কখনো কোনো কাজে আসতে পারত?"
+          },
+          {
+            "en": "The passage that opens with their accusation turns, five verses on, to a moment of honesty: you are the wrongdoers (21:64). Zulm, in this story, is measured by the truth and not by what the speakers loved. The reader who learns to name the wrong rightly, even when it falls on himself, has taken the step that Ibrahim's people took for a moment and then let go.",
+            "bn": "যে কাহিনি তাদের অভিযোগ দিয়ে শুরু, পাঁচ আয়াত পরে তা পৌঁছায় সততার এক মুহূর্তে: যালিম তো তোমরাই (২১:৬৪)। এ কাহিনিতে জুলুম মাপা হয় সত্য দিয়ে, বক্তারা কী ভালোবাসত তা দিয়ে নয়। যে পাঠক অন্যায়কে ঠিক নামে ডাকতে শেখেন, দোষটা নিজের ঘাড়ে পড়লেও, তিনি সেই পা-টা ফেলেছেন। ইবরাহীমের (আঃ) কওম এক মুহূর্তের জন্য সে পা ফেলেছিল, তারপর ছেড়ে দিয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "21:61": {
     "sections": [
       {
