@@ -2167,6 +2167,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:73": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Gift to Leadership",
+          "bn": "দান থেকে নেতৃত্বে"
+        },
+        "p": [
+          {
+            "en": "The verse continues a list of favours. Ibrahim (AS) has been delivered from the fire (21:69), brought with Lut (AS) to the blessed land (21:71), and given Ishaq (AS) and Ya'qub (AS), each made righteous (21:72). Now comes a gift of another order. Wa-ja'alnahum a'immatan yahduna bi-amrina: and We made them leaders who guide by Our command. Four things follow in fifteen Arabic words: a rank, a mandate, a revelation of deeds, and a closing description of who these men were before Allah.",
+            "bn": "আয়াতটি একের পর এক অনুগ্রহের তালিকা এগিয়ে নেয়। ইবরাহীম (আঃ) আগুন থেকে রক্ষা পেয়েছেন (২১:৬৯), লূত (আঃ)-কে সঙ্গে নিয়ে পৌঁছেছেন বরকতময় ভূমিতে (২১:৭১), আর পেয়েছেন ইসহাক (আঃ) ও ইয়াকুব (আঃ)-কে, যাঁদের প্রত্যেককে সৎকর্মশীল বানানো হয়েছে (২১:৭২)। এবার আসে ভিন্ন স্তরের এক দান। ওয়া জাআলনাহুম আইম্মাতান ইয়াহদূনা বিআমরিনা: আর আমি তাঁদের বানালাম নেতা, যাঁরা আমার নির্দেশে পথ দেখান। মাত্র পনেরোটি আরবি শব্দে চারটি কথা আসে। একটি মর্যাদা, একটি দায়িত্ব, আমলের ওহী, আর শেষে আল্লাহর কাছে এই মানুষগুলো কেমন ছিলেন তার বিবরণ।"
+          },
+          {
+            "en": "Who are they? At-Tabari names them in his paraphrase: We made Ibrahim, Ishaq and Ya'qub imams. Al-Muyassar names the same three. Neither adds Lut (AS), whose own gifts of judgement and knowledge open the very next verse (21:74), so the commentators fetched here leave him to his own passage. As-Sa'di ties the verse to the one before it. He opens with min salahihim, of their righteousness: part of what it meant that Allah made them righteous was that He made them leaders guiding by His command.",
+            "bn": "তাঁরা কারা? তাবারী তাঁর ব্যাখ্যায় নাম বলে দেন: আমি ইবরাহীম, ইসহাক ও ইয়াকুবকে ইমাম বানালাম। মুয়াসসারও এই তিনজনের নাম নেয়। দুজনের কেউই এখানে লূত (আঃ)-কে যোগ করেননি। তাঁর নিজের বিচারশক্তি ও জ্ঞানের দান শুরু হয় ঠিক পরের আয়াতে (২১:৭৪)। তাই এখানে যে তাফসীরগুলো দেখা হয়েছে, সেগুলো তাঁর কথা তাঁর নিজের অংশের জন্য রেখে দেয়। সা'দী আয়াতটিকে আগের আয়াতের সঙ্গে জুড়ে দেন। তিনি শুরু করেন মিন সালাহিহিম দিয়ে, অর্থাৎ তাঁদের সৎকর্মশীলতারই অংশ। আল্লাহ তাঁদের সৎ বানিয়েছিলেন, আর সেই সততার একটি রূপ হলো তাঁর নির্দেশে পথ দেখানোর নেতৃত্ব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Followed in What Is Good",
+          "bn": "কল্যাণে যাঁদের অনুসরণ"
+        },
+        "p": [
+          {
+            "en": "An imam, in every commentary read here, is first of all someone others follow. At-Tabari says they were made imams who are followed in good, in obedience to Allah, in keeping His command and His prohibition, imitated and followed in it. He brings Qatadah, by his chain: Allah made them imams who are imitated in the affair of Allah. Al-Qurtubi calls them ru'asa', heads, imitated in good deeds and acts of obedience. Al-Baghawi has followed in good; Ibn Kathir, examples to be followed; al-Muyassar, a model for people.",
+            "bn": "এখানে পড়া প্রতিটি তাফসীরে ইমাম মানে সবার আগে এমন মানুষ, যাঁকে অন্যরা অনুসরণ করে। তাবারী বলেন, তাঁদের এমন ইমাম বানানো হয়েছিল যাঁদের অনুসরণ করা হয় কল্যাণে, আল্লাহর আনুগত্যে, তাঁর আদেশ ও নিষেধ মানায়। মানুষ এসবে তাঁদের দেখে চলে, তাঁদের পেছনে হাঁটে। নিজের সনদে তিনি কাতাদার কথা আনেন: আল্লাহ তাঁদের এমন ইমাম বানিয়েছেন, আল্লাহর বিষয়ে যাঁদের অনুকরণ করা হয়। কুরতুবী তাঁদের বলেন রুআসা, অর্থাৎ প্রধান, যাঁদের দেখে মানুষ ভালো কাজ ও আনুগত্যের আমল করে। বাগাভী বলেন, কল্যাণে যাঁদের অনুসরণ হয়। ইবন কাসীর বলেন অনুসরণীয় আদর্শ, আর মুয়াসসার বলে মানুষের জন্য নমুনা।"
+          },
+          {
+            "en": "Notice what all these definitions share. None of them speaks of rule over people; even al-Qurtubi's heads are heads who are imitated. Each makes the imam a pattern for conduct, followed in good and in obedience. The authority lies in the example. Al-Jalalayn adds a note on the word itself: a'immatan may be read pronouncing both hamzas, or with the second softened into a ya'. Either way it is the plural of imam, and his gloss matches the others: those whose example of good conduct is followed.",
+            "bn": "এই সব সংজ্ঞার মিলটা খেয়াল করুন। কোনোটিই মানুষের ওপর শাসনের কথা বলে না। কুরতুবীর প্রধানরাও এমন প্রধান, যাঁদের দেখে মানুষ চলে। প্রত্যেকে ইমামকে বানিয়েছেন আচরণের নমুনা, যাঁকে কল্যাণে ও আনুগত্যে অনুসরণ করা হয়। কর্তৃত্ব এখানে দৃষ্টান্তের ভেতরেই। জালালাইন শব্দটি নিয়ে একটি টীকা যোগ করেন। আইম্মাতান পড়া যায় দুটি হামযা উচ্চারণ করে, আবার দ্বিতীয় হামযাকে নরম করে ইয়া বানিয়েও। দুই পাঠেই এটি ইমাম শব্দের বহুবচন। তাঁর ব্যাখ্যাও অন্যদের সঙ্গে মেলে: যাঁদের ভালো আচরণের দৃষ্টান্ত মানুষ অনুসরণ করে।"
+          },
+          {
+            "en": "As-Sa'di calls this one of the greatest blessings Allah gives a servant: to be an imam by whom the guided are guided, and behind whom the travellers on the path walk. He adds a reason, in words that echo 32:24, where the same phrase, imams who guide by Our command, is said of others: that was because they were patient and were certain of Allah's signs. The rank, on his reading, was not handed out at random. It came to men already tested.",
+            "bn": "সা'দী একে বলেন বান্দার প্রতি আল্লাহর সবচেয়ে বড় নিয়ামতগুলোর একটি। এমন ইমাম হওয়া, যাঁর মাধ্যমে হিদায়াতপ্রাপ্তরা পথ পায়, আর পথের যাত্রীরা যাঁর পেছনে হাঁটে। তিনি একটি কারণও বলেন, এমন শব্দে যা ৩২:২৪ আয়াতের কথা মনে করিয়ে দেয়। সেখানে অন্যদের সম্পর্কে একই বাক্যাংশ এসেছে: ইমাম, যাঁরা আমার নির্দেশে পথ দেখান। সা'দীর কারণটি হলো, তাঁরা সবর করেছিলেন এবং আল্লাহর আয়াতে দৃঢ় বিশ্বাস রাখতেন। তাঁর পাঠে এই মর্যাদা এলোমেলোভাবে দেওয়া হয়নি। এসেছিল আগেই পরীক্ষিত মানুষদের কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Readings of Bi-Amrina",
+          "bn": "বিআমরিনা: তিন রকম পাঠ"
+        },
+        "p": [
+          {
+            "en": "Yahduna bi-amrina: they guide by Our command. What does the preposition carry? At-Tabari reads it as a mandate: they guide people by Allah's commanding them to do so, and call them to Allah and to His worship. The guidance is a task they were given. Al-Qurtubi gives this as a second view, introduced with qila, it is said: they guide people to Our religion by Our commanding them to direct creation and call it to tawhid.",
+            "bn": "ইয়াহদূনা বিআমরিনা: তাঁরা আমার নির্দেশে পথ দেখান। এখানে 'বি' অব্যয়টি কী অর্থ বহন করে? তাবারী একে দেখেন দায়িত্ব হিসেবে। আল্লাহ তাঁদের হুকুম দিয়েছিলেন বলেই তাঁরা মানুষকে পথ দেখান, ডাকেন আল্লাহর দিকে আর তাঁর ইবাদতের দিকে। অর্থাৎ পথ দেখানো ছিল তাঁদের ওপর অর্পিত কাজ। কুরতুবী এটিকে আনেন দ্বিতীয় মত হিসেবে, কীলা অর্থাৎ 'বলা হয়' দিয়ে শুরু করে। সে মতে তাঁরা মানুষকে আমার দ্বীনের দিকে পথ দেখান, কারণ আমি তাঁদের হুকুম দিয়েছি সৃষ্টিকে পথ দেখাতে আর তাওহীদের দিকে ডাকতে।"
+          },
+          {
+            "en": "Al-Qurtubi's first view looks at the content instead: by Our command means by what We sent down to them of revelation, command and prohibition, as if He had said, they guide by Our Book. As-Sa'di reads it the same way and sharpens it: they guide people by Our religion. They do not command by their own desires, but by Allah's command and His religion and the pursuit of His pleasure. And he adds a rule: a servant is not an imam until he calls to the command of Allah.",
+            "bn": "কুরতুবীর প্রথম মত তাকায় বিষয়বস্তুর দিকে। আমার নির্দেশে মানে, ওহী, আদেশ ও নিষেধের যা কিছু আমি তাঁদের ওপর নাযিল করেছি তা দিয়ে। যেন আল্লাহ বলছেন, তাঁরা আমার কিতাব দিয়ে পথ দেখান। সা'দীও এভাবেই পড়েন, আর কথাটাকে আরও ধারালো করেন: তাঁরা মানুষকে পথ দেখান আমার দ্বীন দিয়ে। নিজের মনের খেয়ালে তাঁরা হুকুম দেন না। হুকুম দেন আল্লাহর আদেশ, তাঁর দ্বীন আর তাঁর সন্তুষ্টির অনুসরণে। এরপর তিনি একটি নিয়ম জুড়ে দেন: বান্দা ততক্ষণ ইমাম হয় না, যতক্ষণ না সে আল্লাহর হুকুমের দিকে ডাকে।"
+          },
+          {
+            "en": "A third shade comes from Ibn Kathir and al-Muyassar, who both gloss bi-amrina as by His leave, bi-idhnihi: they call to Allah with His permission. Al-Qurtubi sets his two views side by side and does not choose. The readings sit together without strain. The prophets were commissioned by Allah, guided with what He revealed, and acted with His leave. Every reading keeps the source of the guidance outside the guide.",
+            "bn": "তৃতীয় একটি রং আসে ইবন কাসীর ও মুয়াসসার থেকে। দুজনেই বিআমরিনার ব্যাখ্যা করেন বিইযনিহি দিয়ে, অর্থাৎ তাঁর অনুমতিতে। তাঁরা আল্লাহর দিকে ডাকেন তাঁরই অনুমতি নিয়ে। কুরতুবী তাঁর দুটি মত পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। পাঠগুলো একসঙ্গে থাকতে কোনো টানাপোড়েন নেই। নবীরা আল্লাহর পক্ষ থেকে দায়িত্বপ্রাপ্ত ছিলেন, তাঁর নাযিল করা বাণী দিয়ে পথ দেখাতেন, আর কাজ করতেন তাঁর অনুমতিতে। প্রতিটি পাঠেই হিদায়াতের উৎস থাকে পথপ্রদর্শকের বাইরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Revealed as Deeds, Not Ideas",
+          "bn": "ওহী এল আমল হয়ে"
+        },
+        "p": [
+          {
+            "en": "Wa-awhayna ilayhim fi'la al-khayrat: and We revealed to them the doing of good deeds. The object of the revelation is not a doctrine but a doing. At-Tabari turns it into direct speech: among what We revealed, We revealed, do good deeds, and establish the prayer, by Our commanding them to do so. Al-Qurtubi: that they should do acts of obedience. Al-Baghawi: acting upon the laws. Al-Muyassar: acting upon the laws of the prophets.",
+            "bn": "ওয়া আওহাইনা ইলাইহিম ফি'লাল খাইরাত: আর আমি তাঁদের প্রতি ওহী করলাম ভালো কাজ করার কথা। ওহীর বিষয় এখানে কোনো মতবাদ নয়, একটি করা। তাবারী একে সরাসরি আদেশের ভাষায় বলেন: যা যা ওহী করেছি তার মধ্যে এটাও ছিল যে, ভালো কাজ করো আর নামায কায়েম করো। আমি তাঁদের এর হুকুম দিয়েছিলাম। কুরতুবী বলেন, যেন তাঁরা আনুগত্যের কাজ করেন। বাগাভী বলেন, শরীয়ত অনুযায়ী আমল। মুয়াসসার বলে, নবীদের শরীয়ত অনুযায়ী আমল।"
+          },
+          {
+            "en": "Who was meant to do these deeds? As-Sa'di answers briefly: they do them, and call people to them. He also widens the phrase: it covers all good deeds of every kind, the rights of Allah and the rights of His servants alike. Al-Jalalayn reads the same double reach into it: We revealed that these good deeds be done, the prayer kept and the zakat paid, by them and by their followers. The leaders were not exempt from what they taught. It was revealed to them first.",
+            "bn": "এই আমলগুলো কাদের করার কথা ছিল? সা'দীর উত্তর ছোট: তাঁরা নিজেরা তা করেন, আর মানুষকে তার দিকে ডাকেন। তিনি শব্দটির পরিধিও বাড়িয়ে দেন। এর মধ্যে আছে সব ধরনের ভালো কাজ, আল্লাহর হক আর বান্দার হক দুটোই। জালালাইনও এতে এই দুই দিকের টান দেখেন। আমি ওহী করেছিলাম যে, এই ভালো কাজগুলো করা হোক, নামায কায়েম হোক, যাকাত আদায় হোক, তাঁদের নিজেদের দ্বারা এবং তাঁদের অনুসারীদের দ্বারা। যা তাঁরা শেখাতেন, তা থেকে নেতারা ছাড় পাননি। ওহী আগে এসেছিল তাঁদেরই কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Deeds Named Twice",
+          "bn": "দুই আমল, দুবার উল্লেখ"
+        },
+        "p": [
+          {
+            "en": "Prayer and zakat are already good deeds, so why name them after the general phrase? Ibn Kathir answers with a term of the grammarians: min babi 'atfi al-khassi 'ala al-'amm, joining the specific to the general. The English abridgement of his tafsir puts it as: here the general is followed by the specific. The device singles out a member of a class for honour by naming it again after the class has been named. As-Sa'di uses the same term, and then gives reasons.",
+            "bn": "নামায ও যাকাত তো এমনিতেই ভালো কাজ। তাহলে সাধারণ কথার পর এদের আলাদা করে নাম নেওয়া কেন? ইবন কাসীর উত্তর দেন ব্যাকরণবিদদের একটি পরিভাষায়: মিন বাবি আতফিল খাসসি আলাল আম্ম, অর্থাৎ সাধারণের পরে বিশেষকে জুড়ে দেওয়া। তাঁর তাফসীরের ইংরেজি সংক্ষেপেও একই কথা: এখানে সাধারণের পর বিশেষ এসেছে। এই রীতিতে একটি শ্রেণির নাম নেওয়ার পর তার কোনো একটি সদস্যের নাম আবার নিয়ে তাকে সম্মান দেওয়া হয়। সা'দীও একই পরিভাষা ব্যবহার করেন, তারপর কারণগুলো খুলে বলেন।"
+          },
+          {
+            "en": "First, the nobility and excellence of these two acts of worship. Second, whoever completes them as commanded is upholding his religion, and whoever neglects them will neglect everything else even more. Third, and most finely: prayer is the best of the deeds that hold Allah's right, and zakat the best of the deeds that hold kindness to His creation. Named together, the two stand for both directions of a servant's duty, upward to his Lord and outward to people.",
+            "bn": "প্রথম কারণ, এই দুই ইবাদতের মর্যাদা ও শ্রেষ্ঠত্ব। দ্বিতীয়, যে আদেশমতো এ দুটিকে পূর্ণ করে, সে তার দ্বীনকে দাঁড় করিয়ে রাখে। আর যে এ দুটি নষ্ট করে, বাকি সবকিছু সে আরও বেশি নষ্ট করবে। তৃতীয় কারণটি সবচেয়ে সূক্ষ্ম। নামায হলো সেই আমলগুলোর মধ্যে শ্রেষ্ঠ, যাতে আল্লাহর হক আছে। আর যাকাত সেই আমলগুলোর মধ্যে শ্রেষ্ঠ, যাতে আছে তাঁর সৃষ্টির প্রতি ইহসান। দুটিকে একসঙ্গে উল্লেখ করায় বান্দার দায়িত্বের দুই দিকই ধরা পড়ে, ওপরে রবের দিকে আর বাইরে মানুষের দিকে।"
+          },
+          {
+            "en": "Even the word for establishing is worth a glance. The verse says iqam as-salah, not the more usual iqamat as-salah. Al-Jalalayn notes it: the final ha' of iqama has been dropped to lighten the reading. Al-Baghawi glosses iqam as guarding the prayer, al-muhafazah 'alayha, and al-Muyassar as establishing it in its proper manner. Both glosses point the same way. Establishing prayer means keeping it, done properly and kept up, not merely performing it once.",
+            "bn": "কায়েম করা বোঝাতে যে শব্দ এসেছে, তার গঠনও একবার দেখে নেওয়ার মতো। আয়াতে আছে ইকামাস সালাহ, বেশি প্রচলিত ইকামাতুস সালাহ নয়। জালালাইন এ কথা উল্লেখ করেন: উচ্চারণ হালকা করতে ইকামাহ শব্দের শেষের হা বাদ দেওয়া হয়েছে। বাগাভী ইকামের ব্যাখ্যা করেন নামাযের হেফাজত দিয়ে, আল-মুহাফাযাতু আলাইহা। মুয়াসসার বলে, নামাযকে তার সঠিক নিয়মে কায়েম করা। দুই ব্যাখ্যা একই দিকে ইশারা করে। নামায কায়েম মানে শুধু একবার আদায় করা নয়, নিয়ম মেনে আর নিয়মিত তা ধরে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Deed Dearest to Allah",
+          "bn": "আল্লাহর কাছে প্রিয়তম আমল"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read here attaches a hadith to this verse. A general narration sits close to as-Sa'di's point that prayer is the best of deeds, and is offered as that, not as the verse's explanation. Al-Bukhari records in his Sahih (527) that 'Abdullah ibn Mas'ud (RA) said: I asked the Prophet ﷺ, which deed is dearest to Allah? He said: the prayer at its time. I said: then what? He said: then dutifulness to parents. I said: then what? He said: jihad in the way of Allah. 'Abdullah said: he told me these, and had I asked for more, he would have told me more.",
+            "bn": "এখানে পড়া কোনো তাফসীর এই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা সা'দীর সেই কথার কাছাকাছি, যে নামায শ্রেষ্ঠ আমল। এটি এখানে সেভাবেই আনা হলো, আয়াতের ব্যাখ্যা হিসেবে নয়। বুখারী তাঁর সহীহ গ্রন্থে (৫২৭) বর্ণনা করেন, আবদুল্লাহ ইবন মাসউদ (রাঃ) বলেছেন: আমি নবী ﷺ-কে জিজ্ঞেস করলাম, কোন আমল আল্লাহর কাছে সবচেয়ে প্রিয়? তিনি বললেন: সময়মতো নামায। আমি বললাম: তারপর কোনটি? তিনি বললেন: তারপর পিতামাতার সঙ্গে সদ্ব্যবহার। আমি বললাম: তারপর কোনটি? তিনি বললেন: আল্লাহর পথে জিহাদ। আবদুল্লাহ বলেন: তিনি আমাকে এগুলো বললেন, আরও জানতে চাইলে তিনি আরও বলতেন।"
+          },
+          {
+            "en": "The order is worth noticing beside the verse. The first answer is a right owed to Allah, the second a right owed to people. That is the same pairing as-Sa'di saw in prayer and zakat, though the narration was not said about this verse and should not be pressed into it. What the two share is a priority. The verse names prayer first among the deeds it singles out, and the hadith puts prayer at its time first among the deeds dearest to Allah. Whatever else a believer builds, it rests on that.",
+            "bn": "আয়াতের পাশে রাখলে ক্রমটি চোখে পড়ে। প্রথম উত্তরটি আল্লাহর প্রাপ্য হক, দ্বিতীয়টি মানুষের প্রাপ্য হক। নামায আর যাকাতে সা'দী ঠিক এই জোড়াই দেখেছিলেন। তবে বর্ণনাটি এই আয়াত নিয়ে বলা হয়নি, তাই একে আয়াতের ভেতরে টেনে আনা ঠিক হবে না। দুটির মিল একটি অগ্রাধিকারে। আয়াতটি আলাদা করে যে আমলগুলোর নাম নেয়, তার প্রথমটি নামায। আর হাদীসটি আল্লাহর কাছে প্রিয় আমলগুলোর মধ্যে প্রথমে রাখে সময়মতো নামাযকে। মুমিন আর যা কিছুই গড়ে তুলুক, তার ভিত এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worshippers of Us Alone",
+          "bn": "শুধু আমারই ইবাদতকারী"
+        },
+        "p": [
+          {
+            "en": "Wa-kanu lana 'abidin: and they were worshippers of Us. As-Sa'di glosses lana, to Us, as la li-ghayrina, not to anyone other than Us. Al-Muyassar says the same in plainer words: submissive and obedient to Allah alone, apart from any other. Al-Baghawi gives a single word, muwahhidin, people who affirmed His oneness. Coming after a fire lit for the sake of idols (21:68), the phrase settles whom this family served.",
+            "bn": "ওয়া কানূ লানা আবিদীন: আর তাঁরা ছিলেন আমারই ইবাদতকারী। সা'দী 'লানা' অর্থাৎ 'আমার জন্য' শব্দের ব্যাখ্যা দেন ছোট্ট এক কথায়: লা লিগাইরিনা, আমি ছাড়া অন্য কারও জন্য নয়। মুয়াসসার সহজ ভাষায় একই কথা বলে: তাঁরা ছিলেন কেবল আল্লাহর অনুগত ও বাধ্য, আর কারও নয়। বাগাভী একটি শব্দেই বলেন, মুওয়াহহিদীন, অর্থাৎ তাওহীদে বিশ্বাসী। মূর্তির পক্ষ নিয়ে যে আগুন জ্বালানো হয়েছিল (২১:৬৮), তার পরে এই বাক্যাংশ স্থির করে দেয়, এই পরিবার কার বন্দেগি করত।"
+          },
+          {
+            "en": "The other commentators describe the quality of that worship. At-Tabari: they were humble before Us, khashi'in, not too proud to obey and worship Us. Al-Qurtubi: obedient. As-Sa'di: they kept up the worship of the heart, the tongue and the body through most of their time, so that worship became their description. They took on, he says, the very thing Allah commanded all creation to do and created them for. On his reading, 'abidin names what they were, not something they did once.",
+            "bn": "অন্য মুফাসসিররা সেই ইবাদতের ধরন বর্ণনা করেন। তাবারী বলেন, তাঁরা আমার সামনে বিনয়ী ছিলেন, খাশিঈন, আমার আনুগত্য ও ইবাদতে অহংকার করতেন না। কুরতুবী বলেন, অনুগত। সা'দী বলেন, অন্তরের, মুখের ও দেহের ইবাদত তাঁরা জীবনের বেশির ভাগ সময় ধরে রাখতেন, ফলে ইবাদতই হয়ে গিয়েছিল তাঁদের পরিচয়। তাঁর ভাষায়, আল্লাহ সব সৃষ্টিকে যে কাজের হুকুম দিয়েছেন আর যার জন্য তাদের সৃষ্টি করেছেন, তাঁরা নিজেদের সেই গুণেই গুণান্বিত করেছিলেন। তাঁর পাঠে আবিদীন বোঝায় তাঁরা কী ছিলেন, এক বার করা কোনো কাজ নয়।"
+          },
+          {
+            "en": "Ibn Kathir reads the clause another way, and it is the sharpest of all: they were worshippers of Us means they did what they commanded people to do. On his reading the verse ends by closing the gap that ruins leaders, the gap between what is preached and what is practised. The order of the verse supports it. First they are made guides; then the deeds are revealed to them; last comes the statement that they themselves lived those deeds.",
+            "bn": "ইবন কাসীর বাক্যাংশটি পড়েন অন্যভাবে, আর তাঁর পাঠটি সবচেয়ে ধারালো। তাঁরা আমার ইবাদতকারী ছিলেন মানে, মানুষকে যা করতে বলতেন, নিজেরাও তা করতেন। তাঁর পাঠে আয়াতটি শেষ হয় সেই ফাঁক বন্ধ করে, যা নেতাদের সর্বনাশ করে: মুখের কথা আর নিজের আমলের মধ্যকার ফাঁক। আয়াতের ক্রমও এর পক্ষে কথা বলে। প্রথমে তাঁদের পথপ্রদর্শক বানানো হয়, তারপর তাঁদের প্রতি আমলের ওহী আসে। আর শেষে আসে এই ঘোষণা যে, সেই আমল তাঁরা নিজেরাই জীবনে ধারণ করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leading From the Prayer Mat",
+          "bn": "জায়নামায থেকে নেতৃত্ব"
+        },
+        "p": [
+          {
+            "en": "The rank in this verse belongs to prophets, and no one reading it inherits their station. What can be inherited is the pattern, which is why they were made imams to be followed at all. Most people lead someone: a parent leads a household, a teacher a class, an elder a family, a manager a team, a friend whoever comes to them for advice. Each of these is a small imama, and the verse gives it three tests.",
+            "bn": "এই আয়াতের মর্যাদা নবীদের। আয়াত পড়ে কেউ তাঁদের সেই আসনের উত্তরাধিকারী হয় না। উত্তরাধিকার পাওয়া যায় তাঁদের দেখানো ধারাটির, আর সেজন্যই তো তাঁদের অনুসরণীয় ইমাম বানানো হয়েছিল। প্রায় সবাই কাউকে না কাউকে পথ দেখায়। বাবা-মা পরিবারকে, শিক্ষক ক্লাসকে, মুরব্বি আত্মীয়দের, কর্মকর্তা তাঁর দলকে, আর বন্ধু সেই মানুষটিকে যে পরামর্শ চাইতে আসে। এর প্রত্যেকটিই ছোট এক ইমামত। আয়াতটি তার জন্য তিনটি পরীক্ষা রেখে যায়।"
+          },
+          {
+            "en": "Where am I taking them? As-Sa'di's line holds here: by Allah's command and His religion, not by personal desire. Am I doing it myself? Ibn Kathir's reading asks whether I do what I tell others to do. And what lies underneath? The verse ends not with their influence but with their worship, the prayer kept and the zakat given. Leadership that grows from that root guides people toward Allah. Leadership cut off from it guides them only toward the leader.",
+            "bn": "আমি তাদের কোথায় নিয়ে যাচ্ছি? এখানে সা'দীর কথাটি খাটে: আল্লাহর হুকুম ও তাঁর দ্বীন অনুযায়ী, নিজের খেয়াল অনুযায়ী নয়। আমি কি নিজে তা করি? ইবন কাসীরের পাঠ জানতে চায়, অন্যকে যা করতে বলি, আমি নিজে তা করি কি না। আর নিচে কী আছে? আয়াতটি শেষ হয় তাঁদের প্রভাব দিয়ে নয়, তাঁদের ইবাদত দিয়ে, কায়েম করা নামায আর আদায় করা যাকাত দিয়ে। এই শিকড় থেকে যে নেতৃত্ব জন্মায়, তা মানুষকে আল্লাহর দিকে নিয়ে যায়। আর এই শিকড় থেকে বিচ্ছিন্ন নেতৃত্ব মানুষকে নিয়ে যায় শুধু নেতার দিকেই।"
+          }
+        ]
+      }
+    ]
+  },
   "21:79": {
     "sections": [
       {

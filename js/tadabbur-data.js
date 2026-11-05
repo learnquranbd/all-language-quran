@@ -23391,6 +23391,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Know your enemy before he speaks, count the ease you already have, and weigh what stepping out of it would cost before you take the first step.",
     "lessonBn": "শত্রু কথা বলার আগেই তাকে চিনে রাখুন, যে আরামে আছেন তার হিসাব রাখুন, আর প্রথম পা বাড়ানোর আগে মেপে নিন সেখান থেকে বেরিয়ে গেলে কী হারাবেন।"
+  },
+  "21:73": {
+    "reflectionEn": "The fire is behind them now, the gift of sons and grandsons already given. Then comes a different kind of gift: We made them leaders. Not leaders who set their own direction, but leaders guiding by Our command. Before anyone followed them, they were told what to do themselves: good deeds, prayer kept up, zakat given. And the verse closes on what lay underneath it all: they were worshippers of Us. Their leading grew out of their kneeling, not the other way round. Most of us lead someone, a child, a class, a team, a friend who asks our advice. The question the verse leaves is simple. When people follow me, where am I taking them, and do I walk that road myself?",
+    "reflectionBn": "আগুনের ঘটনা পেছনে পড়ে আছে, পুত্র ও পৌত্রের দানও দেওয়া হয়ে গেছে। এবার আসে অন্য রকম এক দান: আমি তাদের নেতা বানালাম। নিজের খেয়ালে পথ ঠিক করা নেতা নন, তাঁরা পথ দেখাতেন আল্লাহর নির্দেশে। কেউ তাঁদের অনুসরণ করার আগেই তাঁদের নিজেদের বলে দেওয়া হয়েছিল কী করতে হবে: ভালো কাজ, নামায কায়েম, যাকাত আদায়। আর আয়াত শেষ হয় সবকিছুর গোড়ার কথায়: তাঁরা ছিলেন আমারই ইবাদতকারী। তাঁদের নেতৃত্ব জন্মেছিল তাঁদের সিজদা থেকে, উল্টোটা নয়। আমরা প্রায় সবাই কাউকে না কাউকে পথ দেখাই। সন্তান, ছাত্র, সহকর্মী, কিংবা পরামর্শ চাইতে আসা কোনো বন্ধু। আয়াতটি সহজ একটা প্রশ্ন রেখে যায়। মানুষ যখন আমার পেছনে চলে, আমি তাদের কোথায় নিয়ে যাই? আর সেই পথে কি আমি নিজে হাঁটি?",
+    "pointsEn": [
+      "Who follows my lead today, at home, at work or among friends, and where exactly am I taking them?",
+      "When I advise someone, is it Allah's command I point to, or my own preference dressed up as wisdom?",
+      "Which good deed do I urge on others that I have quietly stopped doing myself?",
+      "Is my prayer the steady centre of my day, or the first thing that gives way when I am busy?",
+      "If my influence grew tomorrow, would my worship be deep enough to carry it?"
+    ],
+    "pointsBn": [
+      "আজ ঘরে, কর্মস্থলে বা বন্ধুদের মাঝে কারা আমার দেখানো পথে চলে? আর আমি তাদের ঠিক কোন দিকে নিয়ে যাচ্ছি?",
+      "কাউকে পরামর্শ দেওয়ার সময় আমি কি আল্লাহর হুকুমের দিকে ইশারা করি, নাকি জ্ঞানের পোশাক পরিয়ে নিজের পছন্দটাই চাপিয়ে দিই?",
+      "কোন ভালো কাজের জন্য আমি অন্যদের তাগিদ দিই, অথচ নিজে চুপচাপ তা ছেড়ে দিয়েছি?",
+      "আমার নামায কি দিনের স্থির কেন্দ্র, নাকি ব্যস্ততা এলে সবার আগে সেটাই সরে যায়?",
+      "কাল যদি আমার প্রভাব বেড়ে যায়, আমার ইবাদত কি সেই ভার বইবার মতো গভীর?"
+    ],
+    "lessonEn": "Lead only toward what Allah commands, and do it yourself first; leadership that lasts grows out of steady prayer, giving and worship.",
+    "lessonBn": "শুধু আল্লাহর হুকুমের দিকেই পথ দেখান, আর আগে নিজে তা করুন। যে নেতৃত্ব টেকে, তা জন্মায় নিয়মিত নামায, দান আর ইবাদত থেকে।"
   }
 };
 
