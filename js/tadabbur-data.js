@@ -22651,6 +22651,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A warning given in advance is a mercy; heed it in yourself, for corruption and arrogance can overtake any community, and the good you do returns to you.",
     "lessonBn": "আগেভাগে দেওয়া সাবধানবাণী রহমত। নিজের বেলায় তা মেনে চলুন, কারণ বিপর্যয় আর ঔদ্ধত্য যেকোনো সমাজকে পেয়ে বসতে পারে, আর আপনার করা ভালো আপনার কাছেই ফিরে আসে।"
+  },
+  "17:59": {
+    "reflectionEn": "They asked for a hill of gold. Turn as-Safa into gold, they said, and we will believe. The reply weighed mercy: a sign granted and then denied brings the end that came to earlier peoples, while a sign held back leaves the door open. Thamud were given their she-camel, clear enough to open any eye, and they wronged her. So the signs that are sent come as warnings, not as shows put on to order. When the ground shakes, the sun darkens, or a hard week arrives, what do I ask for? Another proof, or the turning back the warning was sent to bring? And how much of what I already know have I acted on before asking for more?",
+    "reflectionBn": "তারা সোনার পাহাড় চেয়েছিল। বলেছিল, সাফা পাহাড়কে সোনা বানিয়ে দাও, তাহলে ঈমান আনব। জবাবে রহমতের হিসাব এল। চাওয়া নিদর্শন দেওয়ার পর যদি অস্বীকার করে, তবে আগের জাতিগুলোর পরিণতিই নেমে আসে। আর নিদর্শন আটকে রাখলে তওবার দরজা খোলা থাকে। সামূদ জাতিকে উটনী দেওয়া হয়েছিল, এমন স্পষ্ট যে যেকোনো চোখ খুলে দেয়। তবু তারা তার উপর যুলম করল। তাই যে নিদর্শন আসে, তা ফরমায়েশি তামাশা নয়, সতর্কবাণী। মাটি কেঁপে উঠলে, সূর্য অন্ধকার হয়ে গেলে, কিংবা কঠিন কোনো সপ্তাহ এলে আমি কী চাই? আরেকটা প্রমাণ, নাকি সেই ফিরে আসা, যার জন্য সতর্কবাণী পাঠানো হয়েছে? আর আরও চাওয়ার আগে, যা ইতিমধ্যে জানি তার কতটুকু আমলে এনেছি?",
+    "pointsEn": [
+      "What proof am I still waiting for before I change something I already know I should change?",
+      "When a frightening event fills the news, do I turn to remembrance, prayer and asking forgiveness, or only to explanation and talk?",
+      "Which signs already given to me, in my body, my passing years and my blessings, have I come to treat as ordinary?",
+      "Can I see a delay or an unanswered request in my life as room left open for me to turn back?",
+      "When I read of a people destroyed, do I look for someone else to fit the story, or at my own denials first?"
+    ],
+    "pointsBn": [
+      "যা বদলানো উচিত বলে আমি ইতিমধ্যে জানি, তা বদলানোর আগে আর কোন প্রমাণের অপেক্ষায় বসে আছি?",
+      "ভয়ংকর কোনো ঘটনায় খবর ভরে গেলে আমি কি জিকির, দোয়া আর ইস্তিগফারের দিকে ছুটে যাই, নাকি শুধু ব্যাখ্যা আর আলোচনায় ডুবে থাকি?",
+      "আমার শরীরে, পার হয়ে যাওয়া বছরগুলোতে আর নিয়ামতের মধ্যে যেসব নিদর্শন আগেই পেয়েছি, তার কোনগুলোকে আমি মামুলি ভাবতে শুরু করেছি?",
+      "জীবনের কোনো দেরি বা পূরণ না হওয়া চাওয়াকে কি আমি দেখতে পারি ফিরে আসার জন্য খোলা রাখা সুযোগ হিসেবে?",
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়লে আমি কি গল্পটার সঙ্গে মেলাতে অন্য কাউকে খুঁজি, নাকি আগে নিজের অস্বীকারগুলোর দিকে তাকাই?"
+    ],
+    "lessonEn": "Do not wait for a bigger sign; take every warning as a call to turn back to Allah while the door is still open.",
+    "lessonBn": "আরও বড় নিদর্শনের অপেক্ষায় থাকবেন না। দরজা খোলা থাকতেই প্রতিটি সতর্কবাণীকে আল্লাহর দিকে ফিরে আসার ডাক হিসেবে গ্রহণ করুন।"
   }
 };
 

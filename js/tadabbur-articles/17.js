@@ -2179,6 +2179,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "Why the Asked-For Signs Waited",
+          "bn": "চাওয়া নিদর্শন কেন এল না"
+        },
+        "p": [
+          {
+            "en": "The verse before, 17:58, has just said that every town will be destroyed or severely punished before the Day of Resurrection, as it stands written in the Book. Then 17:59 answers the demand the Makkans kept pressing: why no sign? Its twenty-one Arabic words make three statements. Earlier peoples' denial alone withheld the signs. Thamud were given the she-camel as a clear sign, and they wronged her. And signs are sent only to warn.",
+            "bn": "আগের আয়াত, ১৭:৫৮, সবে বলেছে যে কিয়ামতের আগে প্রতিটি জনপদ হয় ধ্বংস হবে, নয়তো কঠিন শাস্তি পাবে, আর এ কথা কিতাবে লেখা আছে। এরপর ১৭:৫৯ জবাব দেয় মক্কাবাসীর সেই দাবির, যা তারা বারবার তুলত: নিদর্শন কোথায়? আয়াতের একুশটি আরবি শব্দে তিনটি কথা। আগের লোকদের অস্বীকারই কেবল নিদর্শন আটকে রেখেছে। সামূদকে স্পষ্ট নিদর্শন হিসেবে উটনী দেওয়া হয়েছিল, আর তারা তার উপর যুলম করেছিল। আর নিদর্শন পাঠানো হয় কেবল সতর্ক করতে।"
+          },
+          {
+            "en": "The fetched commentators read the opening alike. At-Tabari paraphrases: nothing prevented Us, O Muhammad, from sending the signs your people asked for, except that nations before them asked the like, received it, still denied their messengers, and were hastened to punishment; had Quraysh been sent the signs and denied them, the same road awaited them. The Muyassar puts it briefly: those before them were answered, denied, and perished.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, সবগুলো শুরুর অংশটা একইভাবে বোঝে। তাবারীর ব্যাখ্যা: হে মুহাম্মাদ, তোমার কওম যে নিদর্শন চেয়েছে, তা পাঠাতে আমাকে কিছুই আটকায়নি। আটকেছে শুধু এটুকু যে তাদের আগের জাতিগুলোও এমনটাই চেয়েছিল, পেয়েওছিল, তবু রাসূলদের মিথ্যা বলেছিল, আর তাড়াতাড়ি শাস্তিতে ধরা পড়েছিল। কুরাইশকে নিদর্শন দেওয়ার পর তারা অস্বীকার করলে তাদের জন্যও সেই পথই অপেক্ষা করত। মুয়াসসার সংক্ষেপে বলে: আগের লোকদের চাওয়া পূরণ হয়েছিল, তারা অস্বীকার করেছিল, তারপর ধ্বংস হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gold on the Hill of as-Safa",
+          "bn": "সাফা পাহাড়ে সোনার দাবি"
+        },
+        "p": [
+          {
+            "en": "The commentators tie the verse to a single demand. At-Tabari gives it with his chain to Sa'id ibn Jubayr from Ibn Abbas (RA): the people of Makkah asked the Prophet ﷺ to turn as-Safa into gold and move the mountains away so they could farm. He was told: if you wish, We will be patient with them, that perhaps We may gather some of them in; or We will give them what they asked, and if they then disbelieve they will be destroyed like those before them. He said: rather, be patient with them. Then Allah revealed this verse.",
+            "bn": "তাফসীরকারেরা আয়াতটিকে একটি নির্দিষ্ট দাবির সঙ্গে জোড়েন। তাবারী নিজের সনদে সাঈদ ইবন জুবাইরের মাধ্যমে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: মক্কাবাসী নবী ﷺ-এর কাছে চেয়েছিল সাফা পাহাড়কে সোনা বানিয়ে দিতে আর পাহাড়গুলো সরিয়ে দিতে, যাতে তারা চাষাবাদ করতে পারে। তাঁকে বলা হলো: তুমি চাইলে আমি তাদের অবকাশ দেব, হয়তো তাদের মধ্য থেকে কিছু মানুষকে তুলে আনতে পারব। নয়তো তাদের চাওয়া জিনিস দিয়ে দেব, তবে তারপর কুফরি করলে আগের লোকদের মতো তারাও ধ্বংস হবে। তিনি বললেন: বরং তাদের অবকাশ দিন। তখন আল্লাহ এ আয়াত নাযিল করেন।"
+          },
+          {
+            "en": "Ibn Kathir gives the same report through Imam Ahmad, noting an-Nasa'i's narration by way of Jarir; al-Baghawi gives it from Ibn Abbas without a chain. In a second report in Ahmad, Jibril (AS) brings his Lord's greeting of peace and a choice: as-Safa turned to gold, with a punishment unlike any other for whoever then disbelieves, or the gate of repentance and mercy opened. He chose the gate of repentance and mercy. Qatada and Ibn Jurayj give the same outline. None of the fetched commentators grades these reports, so they stand as the occasion the tafsirs give, not as a graded hadith.",
+            "bn": "ইবন কাসীর একই বর্ণনা আনেন ইমাম আহমাদের সূত্রে, আর জানান যে নাসাঈ তা জারীরের সূত্রে বর্ণনা করেছেন। বাগাভী সনদ ছাড়াই ইবন আব্বাস (রাঃ) থেকে তা উল্লেখ করেন। আহমাদের আরেকটি বর্ণনায় জিবরীল (আঃ) রবের সালাম নিয়ে আসেন, সঙ্গে দুটি পথের একটি বেছে নেওয়ার সুযোগ। হয় সাফা সোনা হয়ে যাবে, আর তারপর যে কুফরি করবে তাকে এমন শাস্তি দেওয়া হবে যা আর কাউকে দেওয়া হয়নি। নয়তো তওবা ও রহমতের দরজা খুলে দেওয়া হবে। তিনি তওবা ও রহমতের দরজাই বেছে নিলেন। কাতাদা ও ইবন জুরাইজও একই কাঠামো দেন। দেখা তাফসীরগুলোর কোনোটিই এসব বর্ণনার মান নির্ধারণ করেনি। তাই এগুলো তাফসীরে বর্ণিত শানে নুযূল হিসেবেই থাকছে, মান-নির্ধারিত হাদীস হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Refusal Read as Mercy",
+          "bn": "না-বলার ভেতরে রহমত"
+        },
+        "p": [
+          {
+            "en": "Why would withholding a sign be kind? Al-Hasan, in at-Tabari, answers directly: it was a mercy for you, O community; had We sent the signs and you denied them, what struck those before you would have struck you. Al-Qurtubi gives the reason for the delay: Allah postponed the punishment because He knew that among the disbelievers of Quraysh were some who would believe, and some who would be born believers. At-Tabari's first report carries the same hope: perhaps We may gather some of them in.",
+            "bn": "নিদর্শন আটকে রাখা দয়া হয় কীভাবে? তাবারীর আনা বর্ণনায় হাসান সরাসরি জবাব দেন: হে উম্মত, এ ছিল তোমাদের প্রতি রহমত। আমি নিদর্শন পাঠাতাম আর তোমরা অস্বীকার করতে, তাহলে আগের লোকদের যা হয়েছিল তোমাদেরও তা-ই হতো। দেরির কারণ কুরতুবী খুলে বলেন। আল্লাহ শাস্তি পিছিয়ে দিয়েছিলেন, কারণ তিনি জানতেন কুরাইশের কাফিরদের মধ্যে কেউ কেউ ঈমান আনবে, আর কেউ কেউ মুমিন হয়েই জন্ম নেবে। তাবারীর প্রথম বর্ণনার শব্দেও একই আশা: হয়তো তাদের মধ্য থেকে কিছু মানুষকে তুলে আনতে পারব।"
+          },
+          {
+            "en": "As-Sa'di begins there too: Allah is recalling His mercy in not sending the signs the deniers propose. What kept them from faith, he adds, was not that the message was hidden or doubtful, for many proofs of its truth had already come, enough for anyone seeking guidance. Further signs would have been treated as the earlier ones were, so leaving them unsent was better and more beneficial for them. The article on 17:90 follows the same thread through a later list of demands.",
+            "bn": "সা'দীও শুরু করেন এখান থেকেই: মিথ্যারোপকারীরা যেসব নিদর্শনের ফরমায়েশ করে, তা না পাঠিয়ে আল্লাহ নিজের রহমতের কথা স্মরণ করাচ্ছেন। তিনি যোগ করেন, তাদের ঈমান আনতে বাধা দিয়েছিল বার্তার অস্পষ্টতা বা সন্দেহ নয়। সত্যতার পক্ষে অনেক প্রমাণ আগেই এসে গিয়েছিল, হিদায়াত যে খোঁজে তার জন্য তা-ই যথেষ্ট। নতুন নিদর্শনের সঙ্গেও তারা আগেরগুলোর মতোই আচরণ করত। তাই না পাঠানোই ছিল তাদের জন্য ভালো ও বেশি উপকারী। ১৭:৯০ আয়াতের প্রবন্ধ পরের দাবিগুলোর তালিকা ধরে একই সূত্র অনুসরণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Can Allah Be Prevented?",
+          "bn": "আল্লাহকে কি কিছু আটকায়?"
+        },
+        "p": [
+          {
+            "en": "'Nothing prevented Us' raises a question that al-Qurtubi meets head on. Allah, he says, is not prevented from anything; the expression emphasises that He will not do it, as though He were prevented. He and at-Tabari parse the two an-clauses alike, the first as the object of 'prevented', the second as its subject: nothing prevented Our sending the signs except the earlier peoples' denial. Al-Qurtubi also takes the ba in bi-l-ayat as an added particle, so the phrase means simply sending the signs.",
+            "bn": "‘আমাকে কিছুই আটকায়নি’ কথাটা একটা প্রশ্ন তোলে, আর কুরতুবী সরাসরি তার মুখোমুখি হন। তিনি বলেন, আল্লাহকে কোনো কিছুই আটকাতে পারে না। এ প্রকাশভঙ্গি জোর দিয়ে বোঝায় যে তিনি কাজটা করবেন না, যেন তাঁকে আটকে রাখা হয়েছে। আন দিয়ে শুরু হওয়া দুটি অংশের বিশ্লেষণে তিনি ও তাবারী একমত। প্রথমটি ‘আটকানো’ ক্রিয়ার কর্ম, দ্বিতীয়টি তার কর্তা। অর্থ দাঁড়ায়: আগের জাতিগুলোর অস্বীকারই কেবল আমার নিদর্শন পাঠানো আটকে রেখেছে। কুরতুবী বিল-আয়াতের বা অক্ষরকে অতিরিক্ত ধরেন, ফলে কথাটার মানে সোজাসুজি নিদর্শন পাঠানো।"
+          },
+          {
+            "en": "Ibn Kathir says it plainly: sending what your people asked of you is easy for Us. What stands in the way is a pattern. Earlier peoples asked for signs and denied them once they came, and Our way with them and their like is that they are given no respite after denying a sign that was sent. He points to the Table in 5:115, where Allah says He will send it down, and that whoever disbelieves afterwards He will punish as He punishes no other in the worlds.",
+            "bn": "ইবন কাসীর সহজ ভাষায় বলেন: তোমার কওম যা চেয়েছে, তা পাঠানো আমার পক্ষে সহজ। পথে দাঁড়িয়ে আছে একটা নিয়ম। আগের জাতিগুলো নিদর্শন চেয়েছিল, আর তা আসার পর অস্বীকার করেছিল। তাদের ও তাদের মতো লোকদের বেলায় আমার রীতি এই যে, পাঠানো নিদর্শন অস্বীকার করার পর আর অবকাশ দেওয়া হয় না। দৃষ্টান্ত হিসেবে তিনি ৫:১১৫ আয়াতের খাদ্যভরা দস্তরখানের কথা আনেন। সেখানে আল্লাহ বলেন, তিনি তা নাযিল করবেন, তবে এরপর যে কুফরি করবে তাকে এমন শাস্তি দেবেন যা জগতের আর কাউকে দেবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign That Gives Sight",
+          "bn": "যে নিদর্শন চোখ খুলে দেয়"
+        },
+        "p": [
+          {
+            "en": "The verse then names a people. At-Tabari explains that Thamud, before Quraysh, asked for a sign and were given a she-camel described as mubsiratan, literally seeing, or giving sight. The seeing is attributed to the camel, he says, the way Arabs call a head wound that bares the bone mudiha, revealing, or call a proof clear. What is meant is a bright, plain sign, such that whoever saw it gained insight that it was Allah's proof, as in the phrase 'and the day giving sight' at 10:67.",
+            "bn": "এরপর আয়াত এক জাতির নাম নেয়। তাবারী ব্যাখ্যা করেন, কুরাইশের আগে সামূদ নিদর্শন চেয়েছিল, আর পেয়েছিল এক উটনী, যার বিশেষণ মুবসিরাহ। শব্দের অর্থ দেখছে এমন, কিংবা দেখিয়ে দেয় এমন। তাবারী বলেন, দেখার কাজটা উটনীর সঙ্গে জোড়া হয়েছে আরবদের এক চেনা রীতিতে। মাথার যে ক্ষত হাড় বের করে দেয়, তাকে তারা বলে মূদিহা, অর্থাৎ প্রকাশকারী, আর প্রমাণকে বলে স্পষ্ট। উদ্দেশ্য উজ্জ্বল, পরিষ্কার নিদর্শন, যে দেখবে সে বুঝবে এটি আল্লাহর প্রমাণ। ঠিক যেমন ১০:৬৭ আয়াতে দিনকে বলা হয়েছে ‘দেখার উপযোগী’।"
+          },
+          {
+            "en": "The surah itself has already used the word: at 17:12 the sign of the day is made mubsiratan, so that people may seek their Lord's bounty. At-Tabari records Qatada's gloss, clear, and Mujahid's, a sign. Al-Qurtubi calls her a sign that points, shining and bright, to the truthfulness of Salih (AS) and to the power of Allah; al-Baghawi says shining and clear. Ibn Kathir names what she proved: the oneness of her Creator, and the truth of the messenger whose prayer was answered in her.",
+            "bn": "এ সূরা নিজেও শব্দটা আগে ব্যবহার করেছে। ১৭:১২ আয়াতে দিনের নিদর্শনকে করা হয়েছে মুবসিরাহ, যাতে মানুষ রবের অনুগ্রহ খুঁজতে পারে। তাবারী কাতাদার ব্যাখ্যা দেন: স্পষ্ট। মুজাহিদের ব্যাখ্যা: নিদর্শন। কুরতুবীর ভাষায় উটনী ছিল উজ্জ্বল, আলোকিত এক নিদর্শন, যা সালিহ (আঃ)-এর সত্যতা আর আল্লাহর কুদরতের দিকে ইঙ্গিত করে। বাগাভী বলেন, আলোকিত ও স্পষ্ট। উটনী কী প্রমাণ করেছিল, ইবন কাসীর তা বলে দেন: তার স্রষ্টার একত্ব, আর সেই রাসূলের সত্যতা, যাঁর দোয়া উটনীর মাধ্যমে কবুল হয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di counts her among the greatest signs, a mighty, dazzling camel that the whole tribe drew from. Her story is told elsewhere and is not retold here: the sign named to Thamud at 7:73 and 11:64, the drinking by turns at 26:155, 'Allah's camel and her drink' at 91:13, the trial at 54:27. Ibn Kathir's account of her coming out of a rock Thamud had chosen belongs with 26:155. Here she is an example of what befell a people who asked and then denied.",
+            "bn": "সা'দী উটনীকে সবচেয়ে বড় নিদর্শনগুলোর মধ্যে গণ্য করেন। বিশাল, বিস্ময়কর এক উটনী, যার কাছ থেকে গোটা গোত্র পানীয় নিত। তার কাহিনি অন্য জায়গায় বলা আছে, এখানে আবার বলা হবে না। ৭:৭৩ ও ১১:৬৪ আয়াতে সামূদের সামনে তাকে নিদর্শন বলা হয়েছে, ২৬:১৫৫ আয়াতে পালা করে পানি পানের কথা, ৯১:১৩ আয়াতে ‘আল্লাহর উটনী ও তার পানি’, আর ৫৪:২৭ আয়াতে পরীক্ষার কথা। সামূদের বেছে দেওয়া পাথর থেকে উটনী বের হওয়ার যে বর্ণনা ইবন কাসীর দেন, তার জায়গা ২৬:১৫৫। এখানে উটনী কেবল দৃষ্টান্ত, চেয়ে নিয়ে অস্বীকার করা জাতির কী পরিণতি হয় তার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wronged by Means of Her",
+          "bn": "উটনীকে ঘিরে যুলম"
+        },
+        "p": [
+          {
+            "en": "Fa-zalamu biha: and they did wrong by her. The commentators part over what the wrong was. At-Tabari takes the ba as cause: their wrongdoing came by means of her, in that they hamstrung and killed her. He reports that some said the meaning is 'they disbelieved in her', and answers that this has no sense unless whoever says it means they disbelieved in Allah by killing her; read that way, he allows it as a possible sense.",
+            "bn": "ফাজালামূ বিহা: আর তারা তাকে ঘিরে যুলম করল। যুলমটা কী ছিল, এ নিয়ে তাফসীরকারদের পথ আলাদা। তাবারী বা অক্ষরকে কারণ অর্থে নেন। উটনীর মাধ্যমেই তাদের যুলম ঘটেছিল, কারণ তারা তার পা কেটে তাকে হত্যা করেছিল। তিনি জানান, কেউ কেউ অর্থ করেছেন ‘তারা উটনীকে অস্বীকার করল’। তাঁর জবাব: এ অর্থের কোনো ভিত্তি নেই, যদি না বক্তা বোঝাতে চান যে উটনীকে হত্যা করে তারা আল্লাহকে অস্বীকার করেছিল। সেভাবে পড়লে তিনি একে সম্ভাব্য অর্থ বলে মেনে নেন।"
+          },
+          {
+            "en": "Others put the denial first. Al-Qurtubi glosses it as wronging by denying her, then gives 'they rejected that she came from Allah' under 'it was said'. Al-Baghawi leads with the rejection reading, citing 7:9, 'because they used to wrong Our signs', where the same verb means to reject, and adds as another view that they wronged themselves by denying her. Ibn Kathir joins them: they disbelieved in her, kept her from her drink and killed her, and Allah destroyed them to the last. The Muyassar says they disbelieved in her.",
+            "bn": "অন্যরা অস্বীকারকেই আগে রাখেন। কুরতুবীর ব্যাখ্যা: উটনীকে মিথ্যা বলে তারা যুলম করেছিল। তারপর ‘বলা হয়’ দিয়ে আনেন আরেকটি মত: উটনী যে আল্লাহর পক্ষ থেকে, তা তারা মানতে অস্বীকার করেছিল। বাগাভী এই অস্বীকারের অর্থ দিয়েই শুরু করেন, আর প্রমাণ হিসেবে আনেন ৭:৯ আয়াত, ‘কারণ তারা আমার নিদর্শনের প্রতি যুলম করত’, যেখানে একই ক্রিয়ার মানে অস্বীকার করা। আরেকটি মত হিসেবে যোগ করেন, তাকে মিথ্যা বলে তারা নিজেদের উপরই যুলম করেছিল। ইবন কাসীর দুই মত মেলান: তারা উটনীকে অস্বীকার করল, তার পানি বন্ধ করল, তাকে হত্যা করল, আর আল্লাহ তাদের শেষ মানুষটি পর্যন্ত ধ্বংস করলেন। মুয়াসসার বলে, তারা উটনীকে অস্বীকার করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Readings of Takhwif",
+          "bn": "তাখওয়ীফের পাঁচ ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "The last clause widens from the camel to every sign: wa ma nursilu bi-l-ayati illa takhwifa, and We do not send the signs except to cause fear. At-Tabari reads the signs here as lessons and reminders, sent to put fear into the servants. Al-Qurtubi lists five views of which signs are meant: the lessons and miracles on the messengers' hands, as warnings to the deniers; signs of retribution, warning against sins; the Qur'an; al-Hasan's view, sweeping death; and a view he gives from Ahmad ibn Hanbal.",
+            "bn": "শেষ বাক্যে কথা উটনী থেকে সব নিদর্শনে ছড়িয়ে পড়ে: ওয়া মা নুরসিলু বিল-আয়াতি ইল্লা তাখওয়ীফা, আর আমি নিদর্শন পাঠাই কেবল ভয় দেখানোর জন্য। তাবারীর মতে এখানে নিদর্শন মানে শিক্ষা ও উপদেশ, যা বান্দাদের মনে ভয় জাগাতে পাঠানো হয়। কোন নিদর্শন বোঝানো হয়েছে, এ নিয়ে কুরতুবী পাঁচটি মত উল্লেখ করেন। এক, রাসূলদের হাতে আসা শিক্ষা ও মুজিযা, মিথ্যারোপকারীদের সতর্ক করতে। দুই, প্রতিশোধের নিদর্শন, গুনাহ থেকে ভয় দেখাতে। তিন, কুরআন। চার, হাসানের মত: ব্যাপক মৃত্যু। আর পাঁচ, আহমাদ ইবন হাম্বল থেকে বর্ণিত একটি মত।"
+          },
+          {
+            "en": "Ahmad's reading turns the verse inward. The signs, on this view, are the changes in a person's own states, from childhood to youth, then to middle age, then to grey hair, so that you take a lesson from your changing condition and fear how your affair will end. As-Sa'di defines the purpose by contrast: the signs were not meant to be what alone produces faith; they were meant to frighten and deter, so that people hold back from what they are doing.",
+            "bn": "আহমাদের ব্যাখ্যা আয়াতটিকে মানুষের নিজের দিকে ফিরিয়ে দেয়। এ মতে নিদর্শন হলো মানুষের নিজের অবস্থার পালাবদল। শৈশব থেকে যৌবন, তারপর মাঝবয়স, তারপর চুলে পাক ধরা। উদ্দেশ্য, নিজের বদলে যাওয়া অবস্থা থেকে শিক্ষা নিয়ে শেষ পরিণতির কথা ভেবে ভয় পাওয়া। সা'দী উদ্দেশ্যটা বোঝান উল্টো দিক থেকে। নিদর্শনের কাজ এমন নয় যে শুধু তার মাধ্যমেই ঈমান আসবে। তার কাজ ভয় দেখানো ও সতর্ক করা, যাতে মানুষ যে পথে চলছে তা থেকে থেমে যায়।"
+          },
+          {
+            "en": "Qatada, quoted by at-Tabari, al-Baghawi and Ibn Kathir, says Allah frightens people with whatever signs He wills, so that they may take heed, remember and return. At-Tabari and Ibn Kathir then relay, under Qatada's 'we were told', that Kufa shook in the time of Ibn Mas'ud (RA), who said: O people, your Lord is asking you to make amends, so make them. Ibn Kathir adds, as something reported, that Madinah quaked several times under Umar (RA), who told its people they had brought about something new, and warned them if it came again.",
+            "bn": "তাবারী, বাগাভী ও ইবন কাসীর কাতাদার কথা উদ্ধৃত করেন: আল্লাহ যে নিদর্শন দিয়ে চান মানুষকে ভয় দেখান, যাতে তারা শিক্ষা নেয়, মনে করে এবং ফিরে আসে। তারপর তাবারী ও ইবন কাসীর কাতাদারই ‘আমাদের জানানো হয়েছে’ কথাটির অধীনে একটি ঘটনা আনেন। ইবন মাসঊদ (রাঃ)-এর সময়ে কুফা কেঁপে উঠেছিল। তিনি বলেছিলেন, হে লোকসকল, তোমাদের রব চান তোমরা তাঁর সন্তুষ্টি ফিরিয়ে আনো, তাই তা ফিরিয়ে আনো। ইবন কাসীর ‘বর্ণিত আছে’ বলে যোগ করেন, উমর (রাঃ)-এর সময়ে মদীনা কয়েকবার কেঁপেছিল। তিনি লোকদের বলেছিলেন, তোমরা নতুন কিছু ঘটিয়েছ, আর আবার এমন হলে কঠোর হওয়ার হুঁশিয়ারি দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Sun Went Dark",
+          "bn": "সূর্য যেদিন অন্ধকার হলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir ends with an eclipse hadith he calls agreed upon. Al-Bukhari's Sahih (1059) has this version from Abu Musa (RA): 'The sun eclipsed and the Prophet (ﷺ) got up, being afraid that it might be the Hour. He went to the Mosque and offered the prayer with the longest Qiyam, bowing and prostration that I had ever seen him doing. Then he said, \"These signs which Allah sends do not occur because of the life or death of somebody, but Allah makes His worshipers afraid by them. So when you see anything thereof, proceed to remember Allah, invoke Him and ask for His forgiveness.\"'",
+            "bn": "ইবন কাসীর শেষ করেন সূর্যগ্রহণের একটি হাদীস দিয়ে, যাকে তিনি মুত্তাফাক আলাইহি বলেন। সহীহ বুখারীতে (১০৫৯) আবু মূসা (রাঃ) থেকে এর একটি রূপ এভাবে এসেছে: ‘সূর্যগ্রহণ হলো। নবী ﷺ কিয়ামত এসে গেল কিনা, এই ভয়ে উঠে দাঁড়ালেন। তিনি মসজিদে এলেন এবং এমন দীর্ঘ কিয়াম, রুকু ও সিজদা দিয়ে নামায পড়লেন, যা তাঁকে আমি আর কখনো করতে দেখিনি। তারপর বললেন, “আল্লাহ যেসব নিদর্শন পাঠান, তা কারও মৃত্যু বা জীবনের কারণে ঘটে না। বরং আল্লাহ এর মাধ্যমে তাঁর বান্দাদের ভয় দেখান। তাই এর কিছু দেখলে আল্লাহর জিকির, তাঁর কাছে দোয়া আর ইস্তিগফারের দিকে ছুটে যাও।”’"
+          },
+          {
+            "en": "The hadith does not mention this verse; Ibn Kathir places it here, and quotes it in a different wording. Its Arabic meets the verse's own: yursilu, 'which Allah sends', shares its verb with nursilu, 'We send', and yukhawwifu, 'makes afraid', shares its root with takhwifa. The Prophet's response shows what the fear was for. He did not stop to explain the eclipse or to blame anyone. He went to the mosque, prayed at length, and sent people to remembrance, supplication and asking forgiveness.",
+            "bn": "হাদীসটিতে এ আয়াতের উল্লেখ নেই। ইবন কাসীরই একে এখানে এনেছেন, আর উদ্ধৃত করেছেন ভিন্ন শব্দে। তবু হাদীসের আরবি আয়াতের আরবির সঙ্গে মিলে যায়। ‘আল্লাহ যা পাঠান’ বোঝাতে হাদীসে ইউরসিলু, আর আয়াতে ‘আমি পাঠাই’ বোঝাতে নুরসিলু, একই ক্রিয়া। ‘ভয় দেখান’ বোঝাতে হাদীসে ইউখাওয়িফু, যার ধাতু আয়াতের তাখওয়ীফার সঙ্গে এক। ভয়টা কিসের জন্য, নবী ﷺ-এর আচরণই তা দেখিয়ে দেয়। তিনি গ্রহণের কারণ ব্যাখ্যা করতে বা কাউকে দোষ দিতে বসেননি। তিনি মসজিদে গেলেন, দীর্ঘ নামায পড়লেন, আর মানুষকে জিকির, দোয়া ও ইস্তিগফারের দিকে পাঠালেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Past Peoples, Present Readers",
+          "bn": "অতীতের জাতি, আজকের পাঠক"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes Thamud, who killed the camel, and the Quraysh of the Prophet's time who demanded gold; both are past peoples. It says what it says about them and licenses nothing against any living person or community. Nor do the tafsirs' earthquake reports hand anyone a verdict on others struck by disaster. Ibn Mas'ud (RA) told his own town that their Lord was asking them to make amends, and Umar (RA) spoke to his own city. As they used it, the warning points at whoever hears it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে সামূদের কথা, যারা উটনী হত্যা করেছিল, আর নবী ﷺ-এর সময়ের কুরাইশের কথা, যারা সোনা দাবি করেছিল। দুটোই অতীতের জাতি। তাদের সম্পর্কে আয়াত যা বলে তা-ই বলে, আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুর অনুমতি দেয় না। তাফসীরে বর্ণিত ভূমিকম্পের ঘটনাগুলোও দুর্যোগে আক্রান্ত অন্য কারও উপর রায় দেওয়ার সুযোগ দেয় না। ইবন মাসঊদ (রাঃ) নিজের শহরের মানুষকেই বলেছিলেন রবের সন্তুষ্টি ফিরিয়ে আনতে, আর উমর (রাঃ) কথা বলেছিলেন নিজের শহরকে। তাঁদের হাতে সতর্কবাণীর আঙুল ছিল শ্রোতার নিজের দিকেই।"
+          },
+          {
+            "en": "The next verse, 17:60, carries the thought on, 'And We threaten them, but it increases them not except in great transgression', and its own article follows that through. Here the verse leaves a quieter lesson. The askers wanted a spectacle on their terms; they were given time. A reader with the Qur'an, the passing years Ahmad pointed to, and signs that still darken the sky has no shortage of proof. What the verse asks is whether the fear it sends ends in turning back.",
+            "bn": "পরের আয়াত, ১৭:৬০, কথাটা আরও এগিয়ে নেয়: ‘আমি তাদের ভয় দেখাই, কিন্তু তাতে তাদের চরম অবাধ্যতাই বাড়ে।’ সে আয়াতের প্রবন্ধ বিষয়টা নিজের মতো করে দেখেছে। এখানে আয়াত রেখে যায় শান্ত একটি শিক্ষা। দাবিদাররা চেয়েছিল নিজেদের শর্তে একটা চমক। তারা পেয়েছিল সময়। যে পাঠকের হাতে কুরআন আছে, আহমাদ যে বয়সের পালাবদলের কথা বলেছিলেন তা আছে, আর আকাশ অন্ধকার করা নিদর্শন আজও আছে, তার প্রমাণের অভাব নেই। আয়াতের প্রশ্ন এই: সে যে ভয় পাঠায়, তা কি শেষ পর্যন্ত ফিরে আসায় গিয়ে পৌঁছায়?"
+          }
+        ]
+      }
+    ]
+  },
   "17:60": {
     "sections": [
       {
