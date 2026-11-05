@@ -22811,6 +22811,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What you own was placed in your hands, as the two gardens were. Hold it as a trust from Allah, and never let it lift you above those who have less.",
     "lessonBn": "দুটি বাগানের মতো আপনার সম্পদও আপনার হাতে তুলে দেওয়া হয়েছে। একে আল্লাহর আমানত হিসেবে ধরে রাখুন, আর যাদের কম আছে তাদের ওপরে নিজেকে কখনো তুলবেন না।"
+  },
+  "18:55": {
+    "reflectionEn": "The verse before this one says every kind of example has been set out for people, and still man argues more than anything. This verse asks the question that follows. The guidance has arrived. What is still holding people back from believing and asking their Lord to forgive them? Not a lack of clarity. What is left is waiting, and a fearful kind: for what befell the peoples before them, or for the punishment itself to stand in front of them. Some even dared it to come. It is easy to read this about others. It is harder to see my own version: the repentance I keep for later, the forgiveness I mean to ask once something forces me. What am I waiting to see before I turn back?",
+    "reflectionBn": "আগের আয়াত বলেছে, মানুষের জন্য সব ধরনের দৃষ্টান্ত নানাভাবে তুলে ধরা হয়েছে, তবু মানুষ সবচেয়ে বেশি তর্ক করে। এ আয়াত তার পরের প্রশ্নটা তোলে। হিদায়াত তো এসে গেছে। তাহলে ঈমান আনতে আর রবের কাছে ক্ষমা চাইতে মানুষকে আটকে রাখছে কী? বুঝতে না পারা নয়। বাকি থাকে শুধু অপেক্ষা, আর সে অপেক্ষা ভয়ের। আগের জাতিগুলোর যে পরিণতি হয়েছিল, তার অপেক্ষা, নয়তো আযাব নিজে চোখের সামনে এসে দাঁড়ানোর অপেক্ষা। কেউ কেউ তো সেটাকেই আসতে বলে চ্যালেঞ্জ দিয়েছিল। অন্যদের কথা ভেবে এ আয়াত পড়া সহজ। কঠিন হলো নিজের ভেতরের চেহারাটা চেনা: যে তওবা পরে করব বলে তুলে রেখেছি, কোনো ধাক্কা খেলে তবে যে ইস্তিগফার করব বলে ভেবে রেখেছি। ফিরে আসার আগে আমি আসলে কী দেখার অপেক্ষায় আছি?",
+    "pointsEn": [
+      "Which change am I putting off until something forces it, when the guidance on it is already clear to me?",
+      "The last time I was shown I was wrong, did I turn back, or did I look for one more argument?",
+      "Is asking Allah's forgiveness a habit of my ordinary days, or something I reach for only when trouble is already at the door?",
+      "What reminder have I already been given that I keep treating as if it still needs more proof?",
+      "If the only thing between me and turning back is time, how sure am I that I have it?"
+    ],
+    "pointsBn": [
+      "যে বিষয়ে হিদায়াত আমার কাছে আগেই পরিষ্কার, কোন পরিবর্তনটা আমি ফেলে রাখছি যতক্ষণ না কিছু এসে আমাকে বাধ্য করে?",
+      "শেষবার যখন দেখিয়ে দেওয়া হলো যে আমি ভুল, আমি কি ফিরে এসেছিলাম, নাকি আরও একটা যুক্তি খুঁজেছিলাম?",
+      "আল্লাহর কাছে ক্ষমা চাওয়া কি আমার সাধারণ দিনগুলোর অভ্যাস, নাকি বিপদ দরজায় এসে দাঁড়ালে তবেই তা মনে পড়ে?",
+      "কোন নসিহত আমি আগেই পেয়ে গেছি, অথচ এমন ভাব করছি যেন তার আরও প্রমাণ দরকার?",
+      "আমার আর ফিরে আসার মাঝে যদি বাধা শুধু সময় হয়, সে সময় যে আমার হাতে আছে, তা কতটা নিশ্চিত?"
+    ],
+    "lessonEn": "Guidance that has reached you is enough. Do not wait for a blow before you believe sincerely and ask your Lord's forgiveness; turn back while turning is still your choice.",
+    "lessonBn": "যে হিদায়াত আপনার কাছে পৌঁছেছে, সেটাই যথেষ্ট। ধাক্কা খাওয়ার অপেক্ষা না করে খাঁটি মনে ঈমান আনুন আর রবের কাছে ক্ষমা চান। ফিরে আসা যতক্ষণ আপনার হাতে, ততক্ষণেই ফিরে আসুন।"
   }
 };
 

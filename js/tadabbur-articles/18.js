@@ -1751,6 +1751,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "What Is Left to Wait For",
+          "bn": "অপেক্ষার আর কী বাকি"
+        },
+        "p": [
+          {
+            "en": "The verse before this one closes a thought: in this Qur'an every kind of example has been set out for people, and man, more than anything, is given to argument. If the examples have been given and the arguing goes on, what is holding people back? Wa-ma mana'a al-nasa an yu'minu idh ja'ahumu al-huda wa-yastaghfiru rabbahum: and nothing kept the people from believing, when the guidance came to them, and from asking their Lord's forgiveness, except two things the verse then names.",
+            "bn": "আগের আয়াতটি একটি কথা শেষ করে: এই কুরআনে মানুষের জন্য সব ধরনের দৃষ্টান্ত তুলে ধরা হয়েছে, আর মানুষ সবকিছুর চেয়ে বেশি তর্কপ্রিয়। দৃষ্টান্ত যদি দেওয়াই হয়ে থাকে আর তর্ক তবু চলতে থাকে, তাহলে মানুষকে আটকে রাখছে কী? ওয়ামা মানাআন নাসা আঁই ইউ'মিনূ ইয জাআহুমুল হুদা ওয়া ইয়াসতাগফিরূ রাব্বাহুম: যখন হিদায়াত তাদের কাছে এল, তখন ঈমান আনতে আর রবের কাছে ক্ষমা চাইতে মানুষকে কিছুই বাধা দেয়নি। বাধা শুধু দুটি জিনিস, যা আয়াত এরপর নিজেই বলে দেয়।"
+          },
+          {
+            "en": "At-Tabari makes the speaker's aim and the people specific. He reads the verse as addressed to the Prophet (ﷺ): what kept these idolaters, O Muhammad, from faith in Allah when the guidance came to them, which is Allah's clear statement, and when they had come to know the soundness and the truth of what you were calling them to? On his reading the answer is not ignorance. They knew. The verse names what they were left waiting for.",
+            "bn": "তাবারী কথাটা কাকে বলা হচ্ছে আর কাদের নিয়ে, দুটোই নির্দিষ্ট করে দেন। তাঁর মতে আয়াতে নবী ﷺ-কে সম্বোধন করা হয়েছে: হে মুহাম্মাদ, হিদায়াত, অর্থাৎ আল্লাহর সুস্পষ্ট বর্ণনা যখন এই মুশরিকদের কাছে এল, আর তুমি যেদিকে ডাকছ তার সত্যতা ও যথার্থতা যখন তারা জেনেই ফেলল, তখন আল্লাহর প্রতি ঈমান আনতে তাদের বাধা দিল কী? তাঁর ব্যাখ্যায় উত্তরটা অজ্ঞতা নয়। তারা জানত। আয়াত বলে দেয় তারা কিসের অপেক্ষায় পড়ে রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guidance Already in Hand",
+          "bn": "হিদায়াত তো হাতেই ছিল"
+        },
+        "p": [
+          {
+            "en": "Idh ja'ahumu al-huda: when the guidance came to them. The commentators name what came in slightly different lists. Al-Qurtubi says it is the Qur'an, Islam and Muhammad (ﷺ). Al-Baghawi gives the Qur'an, Islam and the clear statement from Allah, and adds, with it was said, that it is the Messenger (ﷺ). The Muyassar puts it as a scene: when the Messenger Muhammad (ﷺ) came to them, and the Qur'an with him. However the list is drawn, the guidance is something that arrived, at a time, among people who saw it.",
+            "bn": "ইয জাআহুমুল হুদা: যখন হিদায়াত তাদের কাছে এল। কী এসেছিল, তাফসীরকারেরা তার তালিকা দেন একটু ভিন্ন ভিন্নভাবে। কুরতুবী বলেন, তা হলো কুরআন, ইসলাম আর মুহাম্মাদ ﷺ। বাগাভী বলেন কুরআন, ইসলাম আর আল্লাহর পক্ষ থেকে সুস্পষ্ট বর্ণনা। তারপর 'বলা হয়' কথাটি জুড়ে যোগ করেন, এর অর্থ রাসূল ﷺ। মুয়াসসার পুরো দৃশ্যটা এঁকে দেয়: যখন রাসূল মুহাম্মাদ ﷺ তাদের কাছে এলেন, সঙ্গে কুরআন নিয়ে। তালিকা যেভাবেই সাজানো হোক, হিদায়াত এমন জিনিস যা একটা নির্দিষ্ট সময়ে এসে পৌঁছেছিল, এমন মানুষের মাঝে যারা নিজের চোখে তা দেখেছিল।"
+          },
+          {
+            "en": "As-Sa'di draws the consequence. The guidance had reached them, he says, the guidance by which the line is drawn between right guidance and error, between truth and falsehood, and Allah's proof stood established against them. So it was not a lack of clear explanation that kept them back. What kept them from faith was wrongdoing and hostility, al-zulm wa-l-'udwan. On this reading the barrier sits in the will and not in the information.",
+            "bn": "সা'দী এ থেকে ফলাফলটা টেনে আনেন। তিনি বলেন, হিদায়াত তাদের কাছে পৌঁছে গিয়েছিল। এ সেই হিদায়াত, যা দিয়ে সঠিক পথ আর গোমরাহি, হক আর বাতিলের মধ্যে সীমারেখা টানা হয়। আর আল্লাহর হুজ্জত তাদের বিরুদ্ধে প্রতিষ্ঠিত হয়ে গিয়েছিল। কাজেই সুস্পষ্ট বর্ণনার অভাব তাদের আটকায়নি। ঈমান থেকে তাদের আটকেছিল যুলম আর সীমালঙ্ঘন। এ ব্যাখ্যায় বাধাটা তথ্যের ঘাটতিতে নয়, ইচ্ছার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief Paired With Istighfar",
+          "bn": "ঈমানের পাশে ইস্তিগফার"
+        },
+        "p": [
+          {
+            "en": "The verse does not stop at belief. It joins a second act to it: wa-yastaghfiru rabbahum, and that they ask their Lord's forgiveness. At-Tabari spells out what the forgiveness would be for: asking pardon for what they were persisting in, their associating partners with Allah. The Muyassar says the same in softer words, asking forgiveness of their Lord and seeking His pardon for them. On both readings istighfar here is no extra added after faith. It is the turning away from what one was on.",
+            "bn": "আয়াত শুধু ঈমানে থেমে যায় না। তার সঙ্গে আরেকটি কাজ জুড়ে দেয়: ওয়া ইয়াসতাগফিরূ রাব্বাহুম, আর তারা যেন রবের কাছে ক্ষমা চায়। কিসের জন্য ক্ষমা, তাবারী তা খুলে বলেন: তারা যে শিরকে অটল হয়ে ছিল, তার জন্য ক্ষমা চাওয়া। মুয়াসসার একই কথা বলে নরম ভাষায়: রবের কাছে ইস্তিগফার করা, তাঁর মাফ চেয়ে। দুই ব্যাখ্যাতেই এখানে ইস্তিগফার ঈমানের পরে জোড়া কোনো বাড়তি জিনিস নয়। যে অবস্থায় মানুষ ছিল, তা থেকে মুখ ফিরিয়ে নেওয়াই এখানে ইস্তিগফার।"
+          },
+          {
+            "en": "As-Sa'di ends his note on the verse by turning it into an instruction: let them fear that, and let them repent of their disbelief, before the punishment comes that cannot be turned back. The practical weight is in the word before. Belief and asking forgiveness are offered while the guidance is present and the choice is still free. The verse sets them against what comes after: a fate or a punishment that leaves nothing to choose.",
+            "bn": "সা'দী আয়াতটির আলোচনা শেষ করেন একটি নির্দেশ দিয়ে: তারা যেন এর ভয় করে, আর যে আযাব ফেরানো যায় না তা আসার আগেই যেন কুফর থেকে তওবা করে। কাজের কথাটা লুকিয়ে আছে 'আগেই' শব্দে। হিদায়াত যতক্ষণ সামনে, আর বেছে নেওয়ার স্বাধীনতা যতক্ষণ আছে, ততক্ষণ ঈমান আর ইস্তিগফারের দরজা খোলা। আয়াত এ দুটিকে দাঁড় করায় পরে যা আসে তার বিপরীতে: এমন এক পরিণতি বা আযাব, যার পর বেছে নেওয়ার আর কিছু থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Custom Kept With Earlier Nations",
+          "bn": "আগের উম্মতদের সঙ্গে আচরণের ধারা"
+        },
+        "p": [
+          {
+            "en": "Illa an ta'tiyahum sunnatu al-awwalin: except that the way of the former peoples should come upon them. At-Tabari reads it as Our way with their like among the nations who denied their messengers before them. Al-Qurtubi calls it Our way in destroying them, the custom of the former peoples in the punishment of uprooting. Ibn Kathir describes it as the punishment covering them and seizing them to the last of them. As-Sa'di frames it as Allah's way and His custom with the earlier peoples: when they did not believe, the punishment was hastened upon them.",
+            "bn": "ইল্লা আন তা'তিয়াহুম সুন্নাতুল আওওয়ালীন: তবে এটুকুই যে পূর্ববর্তীদের রীতি তাদের উপরও এসে পড়ুক। তাবারী এর অর্থ করেন: তাদের আগে যেসব জাতি রাসূলদের মিথ্যা বলেছিল, তাদের মতো লোকদের সঙ্গে আমার যে রীতি। কুরতুবী বলেন, এ হলো তাদের ধ্বংস করার ব্যাপারে আমার রীতি, অর্থাৎ সমূলে উৎখাতের আযাবে পূর্ববর্তীদের বেলায় যা ঘটেছিল। ইবন কাসীরের বর্ণনায় এর মানে আযাব তাদের ঢেকে ফেলা আর একেবারে শেষজন পর্যন্ত সবাইকে পাকড়াও করা। সা'দী একে বলেন আগের জাতিগুলোর বেলায় আল্লাহর রীতি ও অভ্যাস: তারা ঈমান না আনলে তাদের উপর দ্রুত আযাব নেমে আসত।"
+          },
+          {
+            "en": "How can a coming fate be what prevented belief? Al-Qurtubi records two answers. On the first, the sentence means that nothing kept them from faith except My judgement against them; had I judged faith for them, they would have believed. On the second, introduced with it was said, a word has been dropped from the sentence: nothing kept them from faith except their demand that the way of the former peoples should come upon them. The way of the former peoples, on this reading, is seeing the punishment.",
+            "bn": "সামনে আসা কোনো পরিণতি কীভাবে ঈমানে বাধা হতে পারে? কুরতুবী দুটি উত্তর উল্লেখ করেন। প্রথম ব্যাখ্যায় বাক্যের অর্থ: তাদের ব্যাপারে আমার ফয়সালা ছাড়া আর কিছুই তাদের ঈমান থেকে আটকায়নি। আমি যদি তাদের জন্য ঈমানের ফয়সালা করতাম, তারা ঈমান আনত। দ্বিতীয় ব্যাখ্যাটি তিনি আনেন 'বলা হয়' বলে। এ মতে বাক্য থেকে একটি শব্দ উহ্য রাখা হয়েছে: পূর্ববর্তীদের রীতি তাদের উপর আসুক, এই দাবি ছাড়া আর কিছুই তাদের ঈমান থেকে আটকায়নি। এ ব্যাখ্যায় পূর্ববর্তীদের রীতি মানে আযাব চোখে দেখা।"
+          },
+          {
+            "en": "The other commentators line up along these two. Ibn Kathir takes the demand reading as the plain sense: nothing kept them from following the truth except their demand to see with their own eyes the punishment they had been promised. The Muyassar names their challenge to the Messenger (ﷺ) and their demand that Allah's way of destroying those before them should strike them. Al-Baghawi gives Our way in destroying them if they do not believe first, and then, with it was said, the demand. Both readings are left standing here.",
+            "bn": "বাকি তাফসীরকারেরা এই দুই ব্যাখ্যার আশপাশেই থাকেন। ইবন কাসীর দাবির ব্যাখ্যাটিকেই সরল অর্থ হিসেবে নেন: যে আযাবের ওয়াদা তাদের দেওয়া হয়েছিল, তা নিজের চোখে দেখার দাবি ছাড়া আর কিছুই তাদের হকের অনুসরণ থেকে আটকায়নি। মুয়াসসার বলে রাসূল ﷺ-কে তাদের চ্যালেঞ্জ দেওয়ার কথা, আর তাদের আগের লোকদের ধ্বংস করার যে রীতি আল্লাহর, তা তাদের উপরও আসুক, এই দাবির কথা। বাগাভী আগে আনেন এই অর্থ: ঈমান না আনলে তাদের ধ্বংস করার ব্যাপারে আমার রীতি। তারপর 'বলা হয়' বলে আনেন দাবির ব্যাখ্যা। দুটি ব্যাখ্যাই এখানে পাশাপাশি থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Daring the Sky to Fall",
+          "bn": "আকাশ ভেঙে পড়ার চ্যালেঞ্জ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with the larger picture: the deniers' defiance in ancient times and recent ones, rejecting the plain truth while they watched signs and clear proofs. Then he lists what they asked for. One people said to their prophet, so make fragments of the sky fall on us, if you are of the truthful, in 26:187. Others said, bring us Allah's punishment, if you are of the truthful, in 29:29. And some asked, in 15:6 and 15:7, why the angels were not brought to them.",
+            "bn": "ইবন কাসীর শুরু করেন বড় ছবিটা দিয়ে: পুরোনো ও নতুন সব কালের অস্বীকারকারীদের অবাধ্যতা। নিদর্শন আর সুস্পষ্ট প্রমাণ চোখের সামনে দেখেও তারা স্পষ্ট সত্যকে মিথ্যা বলেছিল। তারপর তিনি তুলে ধরেন তারা কী কী চেয়েছিল। এক জাতি তাদের নবীকে বলেছিল, তুমি সত্যবাদী হলে আকাশের একটা টুকরো আমাদের উপর ফেলে দাও (২৬:১৮৭)। আরেক দল বলেছিল, তুমি সত্যবাদী হলে আমাদের উপর আল্লাহর আযাব নিয়ে এসো (২৯:২৯)। আর কেউ কেউ জানতে চেয়েছিল, ফেরেশতাদের কেন তাদের সামনে আনা হয় না (১৫:৬ ও ১৫:৭)।"
+          },
+          {
+            "en": "He also cites the words of Quraysh in 8:32: O Allah, if this is indeed the truth from You, then rain stones down on us from the sky, or bring us a painful punishment. Al-Qurtubi and al-Baghawi both quote the same verse under the demand reading. The plea sounds like a condition for belief, yet what it asks for is exactly the thing the verse warns of, the moment the custom with earlier nations arrives. A person can phrase his refusal as a request for proof.",
+            "bn": "তিনি ৮:৩২ আয়াতে কুরাইশের কথাটাও উল্লেখ করেন: হে আল্লাহ, এটা যদি সত্যিই তোমার পক্ষ থেকে আসা হক হয়, তবে আকাশ থেকে আমাদের উপর পাথর বর্ষণ করো, নয়তো আমাদের উপর যন্ত্রণাদায়ক আযাব আনো। কুরতুবী আর বাগাভী দুজনেই দাবির ব্যাখ্যার নিচে এই আয়াতই উদ্ধৃত করেন। কথাটা শুনতে মনে হয় ঈমানের শর্ত, অথচ যা চাওয়া হচ্ছে, তা ঠিক সেই জিনিস যার ব্যাপারে আয়াত সতর্ক করছে: আগের জাতিগুলোর সঙ্গে আচরণের ধারা এসে পড়ার মুহূর্ত। মানুষ নিজের অস্বীকারকে প্রমাণের দাবির পোশাক পরিয়েও বলতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Suddenly, or Before Their Eyes",
+          "bn": "আচমকা, নাকি চোখের সামনে"
+        },
+        "p": [
+          {
+            "en": "The second thing awaited is aw ya'tiyahumu al-'adhabu qubula: or that the punishment should come upon them qubulan. At-Tabari reports that the people of interpretation differed over the word. Some said it means suddenly, and he gives this from Mujahid through two chains. Others said it means openly seen, and he gives Ibn Zayd: qubulan is seeing it face to face. Al-Baghawi records the same pair, Ibn 'Abbas for openly, from facing, and Mujahid for suddenly.",
+            "bn": "অপেক্ষার দ্বিতীয় জিনিস: আও ইয়া'তিয়াহুমুল আযাবু কুবুলা, অথবা আযাব তাদের উপর কুবুলান আসুক। তাবারী জানান, শব্দটির ব্যাখ্যায় তাফসীরবিদদের মধ্যে মতভেদ আছে। কেউ বলেছেন এর অর্থ আচমকা, আর এ মত তিনি মুজাহিদ থেকে দুটি সনদে আনেন। অন্যরা বলেছেন এর অর্থ প্রকাশ্যে চোখের সামনে। এ মতে তিনি আনেন ইবন যায়দকে: কুবুলান মানে মুখোমুখি তা দেখতে পাওয়া। বাগাভী একই জোড়া উল্লেখ করেন: ইবন আব্বাস (রাঃ) বলেন প্রকাশ্যে, মুখোমুখি হওয়া থেকে, আর মুজাহিদ বলেন আচমকা।"
+          },
+          {
+            "en": "Al-Qurtubi widens the list. He gives Ibn 'Abbas for openly, al-Kalbi for the sword on the day of Badr, and Muqatil for suddenly. Ibn Kathir keeps to one sense: they see it with their own eyes, meeting it and facing it. As-Sa'di pictures it advancing: or they see the punishment approaching them, and see it facing them and before their eyes. Sudden or face to face, both pictures describe a moment with no room left to weigh anything.",
+            "bn": "কুরতুবী তালিকাটা আরও বড় করেন। ইবন আব্বাস (রাঃ)-এর মত, প্রকাশ্যে। কালবীর মত, বদরের দিনের তরবারি। আর মুকাতিলের মত, আচমকা। ইবন কাসীর একটি অর্থেই থাকেন: তারা নিজের চোখে তা দেখবে, তার মুখোমুখি দাঁড়িয়ে। সা'দী ছবিটা আঁকেন এগিয়ে আসা অবস্থায়: অথবা তারা দেখবে আযাব তাদের দিকে এগিয়ে আসছে, আর চোখের সামনে মুখোমুখি তা দেখবে। আচমকা হোক বা মুখোমুখি, দুই ছবিতেই এমন এক মুহূর্ত, যখন কিছু বিবেচনা করার আর অবকাশ থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qubulan and Qibalan",
+          "bn": "কুবুলান আর কিবালান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then turns to the readers, who differed over the vowels. A large group read qubulan, with damma on both the qaf and the ba', meaning that the punishment comes to them in colours and kinds. They took qubul as the plural of qabil, as qatil gives qutul and jadid gives judud. Another group read qibalan, with kasra on the qaf and fatha on the ba', meaning openly, from the expression kallamtuhu qibalan, I spoke to him face to face.",
+            "bn": "এরপর তাবারী যান কারীদের কথায়, যাঁরা হরকতে ভিন্ন ভিন্নভাবে পড়েছেন। বড় এক দল পড়েছেন কুবুলান, কাফ আর বা দুটিতেই পেশ দিয়ে। এর অর্থ, আযাব তাদের কাছে আসবে নানা রঙে, নানা ধরনে। তাঁরা কুবুলকে ধরেছেন কাবীলের বহুবচন, যেমন কাতীল থেকে কুতুল, জাদীদ থেকে জুদুদ। আরেক দল পড়েছেন কিবালান, কাফে যের আর বায়ে যবর দিয়ে। এর অর্থ প্রকাশ্যে, এসেছে 'কাল্লামতুহু কিবালান' কথাটি থেকে, অর্থাৎ আমি তার সঙ্গে মুখোমুখি কথা বলেছি।"
+          },
+          {
+            "en": "Al-Qurtubi names the readers of the two-damma form: Abu Ja'far, 'Asim, al-A'mash, Hamza, Yahya and al-Kisa'i, who meant by it every kind of punishment, qubul as the plural of qabil like subul from sabil. He relays from an-Nahhas that al-Farra' took it as that plural, meaning scattered, one part following another, while allowing that it may also mean openly. Al-Baghawi says Abu Ja'far and the people of Kufa read qubulan, plural of qabil: kinds of punishment, one kind after another. The text printed above reads qubulan.",
+            "bn": "দুই পেশের রূপটি যাঁরা পড়েছেন, কুরতুবী তাঁদের নাম দেন: আবু জা'ফর, আসিম, আ'মাশ, হামযা, ইয়াহইয়া আর কিসাঈ। তাঁরা এর দ্বারা সব ধরনের আযাব বুঝিয়েছেন। সাবীল থেকে যেমন সুবুল, তেমনি কাবীল থেকে কুবুল। তিনি নাহহাসের সূত্রে জানান, ফাররা একে সেই বহুবচনই ধরেছেন, অর্থাৎ বিক্ষিপ্তভাবে, একটার পর একটা। তবে তাঁর মতে এর অর্থ প্রকাশ্যে হওয়াও সম্ভব। বাগাভী বলেন, আবু জা'ফর আর কুফার কারীরা পড়েছেন কুবুলান, কাবীলের বহুবচন: আযাবের নানা ধরন, একটার পর আরেকটা। উপরে ছাপা আয়াতের পাঠ কুবুলান।"
+          },
+          {
+            "en": "Al-Bukhari, in the glosses on Surat al-Kahf printed with narration 4724 of his Sahih, sets three forms side by side, qibalan, qubulan and qabalan, and explains them with a single word, isti'nafan, a word for something begun afresh. The readings do not pull the verse in opposite directions. One vowelling shows the punishment standing face to face with those who asked for it; the other shows it arriving in kinds, one after another. Either way, it is the end the deniers were left waiting for.",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে ৪৭২৪ নম্বর বর্ণনার সঙ্গে ছাপা সূরা কাহফের শব্দ-ব্যাখ্যায় তিনটি রূপ পাশাপাশি রাখেন: কিবালান, কুবুলান আর কাবালান। তিনটির ব্যাখ্যা দেন একটিমাত্র শব্দে, ইসতি'নাফান, যার অর্থ নতুন করে শুরু হওয়া কিছু। এই পাঠগুলো আয়াতকে দুই বিপরীত দিকে টানে না। এক উচ্চারণে আযাব মুখোমুখি দাঁড়ায় তাদের সামনে, যারা তা চেয়েছিল। অন্য উচ্চারণে তা আসে নানা ধরনে, একটার পর আরেকটা। যেভাবেই পড়া হোক, অস্বীকারকারীরা এই পরিণতিরই অপেক্ষায় বসে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Knock at Night",
+          "bn": "রাতের দরজায় কড়া"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this verse attaches a sound hadith to 18:55 itself. The best-known narration on this stretch belongs to the verse before it, 18:54, and the line it quotes is that verse's closing words about man's love of argument. It is given here, marked as attached to 18:54, because that verse is the doorway into this one, and its scene has the same shape on a small scale.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ১৮:৫৫-এর সঙ্গে নির্দিষ্ট কোনো সহীহ হাদীস যুক্ত করেনি। এ অংশের সবচেয়ে পরিচিত বর্ণনাটি আগের আয়াত ১৮:৫৪-এর, আর তাতে যে বাক্য উদ্ধৃত হয়েছে, তা সেই আয়াতেরই শেষ কথা: মানুষের তর্কপ্রিয়তা। এখানে বর্ণনাটি আনা হলো ১৮:৫৪-এর সঙ্গে যুক্ত বলে চিহ্নিত করেই। কারণ সেই আয়াত এ আয়াতে ঢোকার দরজা, আর বর্ণনার দৃশ্যটির গড়নও ছোট আকারে একই রকম।"
+          },
+          {
+            "en": "Al-Bukhari records it in his Sahih (1127) from 'Ali ibn Abi Talib (RA): \"One night Allah's Messenger (ﷺ) came to me and Fatima, the daughter of the Prophet (ﷺ) and asked, 'Won't you pray (at night)?' I said, 'O Allah's Messenger (ﷺ)! Our souls are in the hands of Allah and if He wants us to get up He will make us get up.' When I said that, he left us without saying anything and I heard that he was hitting his thigh and saying, 'But man is more quarrelsome than anything.'\"",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (১১২৭) আলী ইবন আবী তালিব (রাঃ) থেকে একটি বর্ণনা এনেছেন। তিনি বলেন: এক রাতে আল্লাহর রাসূল ﷺ আমার আর নবী ﷺ-এর কন্যা ফাতিমার কাছে এলেন এবং বললেন, 'তোমরা কি (রাতে) নামায পড়বে না?' আমি বললাম, 'হে আল্লাহর রাসূল ﷺ! আমাদের প্রাণ তো আল্লাহর হাতে। তিনি যখন আমাদের জাগাতে চাইবেন, জাগিয়ে দেবেন।' আমি এ কথা বলার পর তিনি আমাদের কিছু না বলে ফিরে গেলেন। আর আমি শুনলাম, তিনি নিজের ঊরুতে হাত চাপড়াচ্ছেন আর বলছেন, 'মানুষ সবকিছুর চেয়ে বেশি তর্কপ্রিয়।'"
+          },
+          {
+            "en": "The Prophet (ﷺ) did not open a debate. He left without a reply and recited a verse. What 'Ali said is true in itself, that souls are in Allah's hand, and the narration shows how even a true sentence can be set in the place of an act. Verse 18:55 describes the same turn at a far graver scale, among people who had the guidance and answered it with a demand. The reader may test himself on both scales.",
+            "bn": "নবী ﷺ তর্কে নামেননি। কোনো জবাব না দিয়ে ফিরে গেছেন, আর একটি আয়াত তিলাওয়াত করেছেন। আলী (রাঃ) যা বলেছিলেন, তা নিজে সত্য কথা: প্রাণ আল্লাহরই হাতে। বর্ণনাটি দেখায়, একটি সত্য বাক্যও কীভাবে কাজের জায়গা দখল করে বসতে পারে। ১৮:৫৫ আয়াত একই মোড় দেখায় অনেক গুরুতর মাপে, এমন লোকদের মধ্যে যাদের কাছে হিদায়াত এসেছিল আর তারা তার জবাব দিয়েছিল একটা দাবি দিয়ে। পাঠক দুই মাপেই নিজেকে যাচাই করে দেখতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning Back Before the Showing",
+          "bn": "দেখানোর আগেই ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people who had the guidance before them, the fate that came on earlier nations who denied their messengers, and, in the commentators' account, deniers who asked for the punishment outright. It licenses nothing against any living person or community. It gives no one the right to say who among the living is waiting for punishment, to wish it on anyone, or to read a disaster that strikes a people as a verdict on them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বর্ণনা করে, যতটুকু তার ভাষায় আছে: এমন লোক, যাদের সামনে হিদায়াত ছিল; আগের যেসব জাতি রাসূলদের মিথ্যা বলেছিল, তাদের পরিণতি; আর তাফসীরকারদের বর্ণনায়, এমন অস্বীকারকারী যারা সরাসরি আযাব চেয়ে বসেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। জীবিতদের মধ্যে কে আযাবের অপেক্ষায় আছে, তা বলার অধিকার এ আয়াত কাউকে দেয় না। কারও জন্য আযাব কামনা করার, কিংবা কোনো জাতির উপর নেমে আসা বিপদকে তাদের বিরুদ্ধে রায় বলে পড়ার অধিকারও দেয় না।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question turned inward. The waiting is usually quiet: I know, and I will, later, once something makes it necessary. As-Sa'di's closing words answer that delay directly: fear it, and repent before the punishment comes that cannot be turned back. The guidance has already come. The two acts the verse names, believing and asking one's Lord for forgiveness, need nothing further to be shown first.",
+            "bn": "আয়াত পাঠকের হাতে যা রেখে যায়, তা ভেতরের দিকে ফেরানো একটি প্রশ্ন। এমন অপেক্ষা সাধারণত চুপচাপ: জানি, করব, পরে, যখন কিছু একটা এসে বাধ্য করবে। সা'দীর শেষ কথাগুলো এই গড়িমসির সরাসরি জবাব: এর ভয় করো, আর যে আযাব ফেরানো যায় না তা আসার আগেই তওবা করো। হিদায়াত তো এসেই গেছে। আয়াত যে দুটি কাজের কথা বলে, ঈমান আনা আর রবের কাছে ক্ষমা চাওয়া, তার জন্য আগে আর কিছু দেখানোর দরকার নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "18:57": {
     "sections": [
       {
