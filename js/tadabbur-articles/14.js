@@ -1523,6 +1523,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Promise Lands",
+          "bn": "ওয়াদা যেখানে পূর্ণ হয়"
+        },
+        "p": [
+          {
+            "en": "Yawma tubaddalu al-ardu ghayra al-ardi wa-s-samawat: on the Day the earth is changed into another earth, and the heavens. It leans on the verse just before, 14:47: never think that Allah will fail His promise to His messengers; Allah is Mighty, Owner of Retribution. Ibn Kathir reads the link through the promise: this promise of His comes to pass on the Day the earth is changed. At-Tabari reads it through the retribution. For him the Day belongs to the word intiqam, retribution taken from the idolaters of Quraysh and from all who denied.",
+            "bn": "ইয়াওমা তুবাদ্দালুল আরদু গাইরাল আরদি ওয়াস সামাওয়াত: যেদিন এই পৃথিবীকে বদলে অন্য পৃথিবী করা হবে, আসমানগুলোকেও। আয়াতটি ভর দেয় ঠিক আগের আয়াতে, ১৪:৪৭-এ: কক্ষনো ভেবো না আল্লাহ তাঁর রসূলদের দেওয়া ওয়াদা ভঙ্গ করবেন; আল্লাহ মহাপরাক্রমশালী, প্রতিশোধ গ্রহণকারী। ইবন কাসীর সংযোগটা দেখেন ওয়াদার দিক থেকে। তাঁর কথায়, তাঁর এই ওয়াদা বাস্তবে ঘটবে সেদিন, যেদিন পৃথিবী বদলে যাবে। তাবারী দেখেন প্রতিশোধের দিক থেকে। তাঁর মতে 'দিন' শব্দটি জুড়ে আছে ইনতিকাম শব্দের সঙ্গে, অর্থাৎ কুরাইশের মুশরিকদের এবং যারাই অস্বীকার করেছে তাদের কাছ থেকে নেওয়া প্রতিশোধের সঙ্গে।"
+          },
+          {
+            "en": "Al-Qurtubi offers two other links. It may mean remember the Day the earth is changed, tied to what precedes; or, as some said, it describes the Day the reckoning is established, yawma yaqumu al-hisab, the words that close Ibrahim's prayer at 14:41. The Muyassar joins the two verses in a single sentence: Allah's retribution on His enemies on the Day of Resurrection, the Day this earth is changed. As-Sa'di: when He wills to take retribution from anyone, that person does not escape Him or outrun Him, and that is on the Day of Resurrection.",
+            "bn": "কুরতুবী শব্দটিকে আগের কথার সঙ্গে জোড়ার আরও দুটি পথ দেখান। এক, এর অর্থ হতে পারে: স্মরণ করো সেই দিনকে, যেদিন পৃথিবী বদলে যাবে। তখন এটি আগের আয়াতের সঙ্গে যুক্ত। দুই, কেউ কেউ বলেছেন, এটি সেই দিনেরই বিশেষণ, যেদিন হিসাব কায়েম হবে। ইয়াওমা ইয়াকূমুল হিসাব, ১৪:৪১-এ ইবরাহীম (আঃ)-এর দোয়া এ কথাতেই শেষ হয়েছিল। মুয়াসসার দুই আয়াতকে একটি বাক্যে বেঁধে দেয়: কিয়ামতের দিন আল্লাহ তাঁর শত্রুদের থেকে প্রতিশোধ নেবেন, যেদিন এই পৃথিবী বদলে যাবে। সা'দীর ভাষায়, তিনি যখন কারও থেকে প্রতিশোধ নিতে চান, সে তাঁর হাত ফসকে যেতে পারে না, তাঁকে অক্ষমও করতে পারে না। আর তা ঘটবে কিয়ামতের দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This Ground, Reshaped",
+          "bn": "এই মাটিই, নতুন চেহারায়"
+        },
+        "p": [
+          {
+            "en": "What does the change consist of? Al-Qurtubi says plainly that it was disputed: ikhtulifa fi kayfiyyati tabdil al-ard. Many, he reports, held that it means a change in the earth's attributes: its hills levelled, its mountains blown away, its ground stretched out. As-Sa'di takes this side in so many words: tabdilu sifat, la tabdilu dhat, a change of attributes, not of essence. The earth will be levelled and stretched like a hide, everything on its back, mountain and landmark alike, cast off, until it is a bare, level plain in which you see no crookedness and no rise.",
+            "bn": "বদলটা আসলে কী ধরনের? কুরতুবী সোজাসুজি বলেন, পৃথিবী কীভাবে বদলাবে তা নিয়ে মতভেদ আছে। তাঁর বর্ণনায় অনেকে বলেছেন, এর অর্থ পৃথিবীর গুণাবলির বদল: টিলাগুলো সমান হবে, পাহাড় উড়িয়ে দেওয়া হবে, জমিন টেনে বিছিয়ে দেওয়া হবে। সা'দী এ মতটাই নেন স্পষ্ট ভাষায়। তাবদীলু সিফাত, লা তাবদীলু যাত: গুণের বদল, সত্তার বদল নয়। পৃথিবীকে সমান করে চামড়ার মতো টেনে বিছানো হবে। পিঠের উপর যা আছে, পাহাড় হোক বা চিহ্ন, সব ফেলে দেওয়া হবে। শেষে তা হবে এক ধু-ধু সমতল ময়দান, যেখানে কোনো বাঁক বা উঁচু জায়গা চোখে পড়বে না।"
+          },
+          {
+            "en": "Al-Baghawi records the same reading under qila, it has been said: a change from one form to another, its mountains moved, its rivers filled in, its valleys levelled, its trees cut down. For the heavens he lists the sun wound up, the moon eclipsed, the stars scattered, the sky one time like dihan and another like molten metal. Ibn Kathir's Arabic gloss leans the same way: it is this very earth, but not in its familiar, known description.",
+            "bn": "বাগাভী একই মত আনেন 'বলা হয়েছে' কথাটি দিয়ে। পৃথিবী এক চেহারা থেকে আরেক চেহারায় যাবে: পাহাড় সরানো হবে, নদী ভরাট হবে, উপত্যকা সমান হবে, গাছ কেটে ফেলা হবে। আসমানের বেলায় তিনি গুনে দেখান: সূর্য গুটিয়ে নেওয়া হবে, চাঁদ আলো হারাবে, তারারা ঝরে পড়বে, আকাশ কখনো হবে দিহানের মতো, কখনো গলিত ধাতুর মতো। ইবন কাসীরের আরবি ব্যাখ্যাও এদিকেই ঝোঁকে। তাঁর কথায়, এটা এই পৃথিবীই, তবে চেনা-জানা রূপে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silver, Fire, or Bread",
+          "bn": "রুপা, আগুন, নাকি রুটি"
+        },
+        "p": [
+          {
+            "en": "The other side reads another earth as another earth in substance. At-Tabari opens his list with 'Abdullah ibn Mas'ud (RA), through several chains: an earth like silver, pure, on which no blood was shed and no sin committed. One chain adds that the caller will make them all hear, sight will take them all in, and they will stand barefoot and naked as they were created, until sweat bridles them. Ibn Kathir carries the same report, and the Muyassar draws the same picture in its own words: this earth will be exchanged for another, white and pure like silver, and the heavens for others.",
+            "bn": "অন্য পক্ষ 'অন্য পৃথিবী' কথাটিকে পড়েন সত্তার দিক থেকেই অন্য এক পৃথিবী হিসেবে। তাবারী তাঁর তালিকা শুরু করেন আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর কথা দিয়ে, কয়েকটি সূত্রে: রুপার মতো এক পরিষ্কার জমিন, যেখানে কোনো রক্ত ঝরেনি, কোনো গুনাহ হয়নি। এক সূত্রে আরও আছে: আহ্বানকারী সবাইকে শোনাবেন, দৃষ্টি সবাইকে দেখে নেবে। মানুষ দাঁড়িয়ে থাকবে খালি পায়ে, বস্ত্রহীন, যেমন তাদের সৃষ্টি করা হয়েছিল, যতক্ষণ না ঘাম তাদের মুখ পর্যন্ত পৌঁছে লাগামের মতো আটকে দেয়। ইবন কাসীরও এ বর্ণনা আনেন। মুয়াসসারও নিজের ভাষায় একই ছবি আঁকে: এ পৃথিবীর বদলে আসবে রুপার মতো সাদা, পরিষ্কার আরেক পৃথিবী, আসমানগুলোর বদলেও অন্য আসমান।"
+          },
+          {
+            "en": "At-Tabari then gives other sayings under their own headings. Some said fire: Ibn Mas'ud is reported saying the whole earth will be fire on the Day of Resurrection, with Paradise beyond it in view. Some said silver: 'Ali (RA) is reported saying the earth will be of silver and Paradise of gold, while al-Qurtubi and al-Baghawi give his words as the earth of silver and the sky of gold. Some said bread: Sa'id ibn Jubayr, a white loaf the believer eats from beneath his feet. Al-Qurtubi calls 'Ali's reading a change of the essence itself.",
+            "bn": "এরপর তাবারী অন্য মতগুলো আলাদা শিরোনামে আনেন। কেউ বলেছেন আগুন। ইবন মাসঊদ (রাঃ) থেকে বর্ণিত, কিয়ামতের দিন গোটা পৃথিবী হবে আগুন, আর তার ওপাশে জান্নাত দেখা যাবে। কেউ বলেছেন রুপা। আলী (রাঃ) থেকে বর্ণিত, পৃথিবী হবে রুপার আর জান্নাত সোনার। কুরতুবী ও বাগাভী অবশ্য তাঁর কথা আনেন এভাবে: পৃথিবী রুপার, আকাশ সোনার। কেউ বলেছেন রুটি। সাঈদ ইবন জুবাইরের কথায়, এক সাদা রুটি, মুমিন নিজের পায়ের নিচ থেকে তা খাবে। আলী (রাঃ)-এর মতকে কুরতুবী বলেন খোদ সত্তারই বদল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Ways of Weighing It",
+          "bn": "মাপার তিন রকম পাল্লা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does choose. He says he set the question out at length in his book at-Tadhkira, and that the sound view is the removal of this earth, as established from the Prophet ﷺ. His evidence is the narrations in which the Prophet ﷺ is asked where people will be on the Day the earth is changed, and he places them at the bridge. These hadiths, he concludes, state that the heavens and the earth will be changed and removed, and that Allah will create another earth on which people will be after they have been on the bridge.",
+            "bn": "কুরতুবী একটা পক্ষ বেছে নেন। তিনি জানান, নিজের আত-তাযকিরা গ্রন্থে প্রশ্নটি বিস্তারিত আলোচনা করেছেন। তাঁর মতে সঠিক কথা হলো, এই পৃথিবী সরিয়ে দেওয়া হবে, যেমনটা নবী ﷺ থেকে প্রমাণিত। দলিল হিসেবে তিনি সেই বর্ণনাগুলো আনেন, যেখানে নবী ﷺ-কে জিজ্ঞেস করা হয়, পৃথিবী যেদিন বদলে যাবে সেদিন মানুষ কোথায় থাকবে। উত্তরে তিনি তাদের রাখেন পুলের কাছে বা পুলের উপর। কুরতুবীর সিদ্ধান্ত: এ হাদীসগুলো স্পষ্ট বলে, আসমান ও জমিন বদলে সরিয়ে দেওয়া হবে, আর আল্লাহ আরেকটি পৃথিবী সৃষ্টি করবেন। পুল পার হওয়ার পর মানুষ থাকবে সেই পৃথিবীর উপর।"
+          },
+          {
+            "en": "At-Tabari chooses too, but less. The soundest saying, he writes, is that the earth we stand on today will be replaced on the Day of Resurrection by another, and the heavens likewise, as Allah said. The new earth may be silver, it may be fire, it may be bread, it may be something else. There is no report of the kind that must be accepted saying which, so nothing can be said soundly beyond what the plain wording of the revelation shows. He affirms another earth and stops short of naming its material.",
+            "bn": "তাবারীও একটা মত বেছে নেন, তবে কম দূর পর্যন্ত যান। তিনি লেখেন, সবচেয়ে সঠিক কথা হলো, আজ আমরা যে পৃথিবীর উপর আছি, কিয়ামতের দিন তার বদলে আসবে অন্য পৃথিবী, আসমানগুলোর বেলাতেও তাই, যেমন আল্লাহ বলেছেন। নতুন পৃথিবী রুপার হতে পারে, আগুনের হতে পারে, রুটির হতে পারে, অন্য কিছুরও হতে পারে। কোনটা হবে, সে বিষয়ে এমন কোনো বর্ণনা নেই যা মেনে নেওয়া বাধ্যতামূলক। তাই আয়াতের বাহ্যিক শব্দ যা দেখায়, তার বাইরে সঠিকভাবে কিছু বলা যায় না। অন্য পৃথিবীর কথা তিনি মানেন, কিন্তু তা কী দিয়ে তৈরি, সে কথায় যান না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets the readings side by side: some narrations point to a change of features, others to a change of the thing itself. It reports Maulana Ashraf Thanavi in Bayan al-Qur'an saying there is no contradiction, since the present earth's features may change when the first Horn is blown, and people may then be moved to another earth for the reckoning. It closes by saying the reality is known to Allah alone. As-Sa'di speaks of attributes, al-Qurtubi of essence, and both are reading the same words; this article reports the difference and does not settle it.",
+            "bn": "মাআরিফুল কুরআন দুই মতকে পাশাপাশি রাখে। কিছু বর্ণনা ইঙ্গিত দেয় চেহারার বদলের দিকে, কিছু খোদ জিনিসটার বদলের দিকে। এরপর বায়ানুল কুরআন থেকে মাওলানা আশরাফ থানভীর কথা আনে: এখানে কোনো বিরোধ নেই। প্রথম শিঙায় ফুঁ দেওয়ার সময় বর্তমান পৃথিবীর চেহারা বদলে যেতে পারে, তারপর হিসাবের জন্য মানুষকে নেওয়া হতে পারে অন্য এক পৃথিবীতে। শেষে মাআরিফুল কুরআন বলে, আসল ব্যাপার আল্লাহই জানেন। সা'দী বলেন গুণের বদলের কথা, কুরতুবী বলেন সত্তার বদলের কথা, অথচ দুজনেই পড়ছেন একই শব্দ। এ লেখা মতভেদটা তুলে ধরে, মীমাংসা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sirat and the Bridge",
+          "bn": "সিরাত আর পুল"
+        },
+        "p": [
+          {
+            "en": "Two narrations in Sahih Muslim take up the verse directly. 'A'isha (RA) said: 'I asked the Messenger of Allah ﷺ about the words of Allah, Mighty and Majestic: On the Day the earth is changed into another earth, and the heavens. Where will the people be on that Day, O Messenger of Allah? He said: On the Sirat.' That is Muslim's wording (2791). Ibn Kathir notes that Muslim recorded it and al-Bukhari did not, and al-Qurtubi and al-Baghawi both cite it under this verse.",
+            "bn": "সহীহ মুসলিমের দুটি বর্ণনা সরাসরি এ আয়াত নিয়ে কথা বলে। আয়িশা (রাঃ) বলেন: 'আমি রাসূলুল্লাহ ﷺ-কে মহান আল্লাহর এ বাণী সম্পর্কে জিজ্ঞেস করলাম: যেদিন এই পৃথিবীকে বদলে অন্য পৃথিবী করা হবে, আসমানগুলোকেও। হে আল্লাহর রাসূল, সেদিন মানুষ কোথায় থাকবে? তিনি বললেন: সিরাতের উপর।' এ হলো মুসলিমের ভাষ্য (২৭৯১)। ইবন কাসীর জানান, এটি মুসলিম বর্ণনা করেছেন, বুখারী করেননি। কুরতুবী ও বাগাভী দুজনেই এ আয়াতের আলোচনায় হাদীসটি এনেছেন।"
+          },
+          {
+            "en": "The second is longer. Thawban (RA), the freed slave of the Messenger of Allah ﷺ, describes a Jewish rabbi who came with a string of questions, and Muslim records it in full (315). The first question was this verse: 'Where will people be on the Day the earth is changed into another earth, and the heavens?' The Messenger of Allah ﷺ said: 'They will be in the darkness, short of the Bridge.' The rest of the narration turns to other questions, outside this verse. Ma'arif al-Qur'an draws from it that people will be moved from this earth to the other by way of the Sirat.",
+            "bn": "দ্বিতীয় বর্ণনাটি দীর্ঘ। রাসূলুল্লাহ ﷺ-এর আযাদকৃত গোলাম সাওবান (রাঃ) বর্ণনা করেন, ইহুদিদের এক আলেম একগুচ্ছ প্রশ্ন নিয়ে এসেছিল। মুসলিম পুরো ঘটনাটি বর্ণনা করেছেন (৩১৫)। প্রথম প্রশ্নটি ছিল এ আয়াত নিয়েই: 'যেদিন এই পৃথিবীকে বদলে অন্য পৃথিবী করা হবে, আসমানগুলোকেও, সেদিন মানুষ কোথায় থাকবে?' রাসূলুল্লাহ ﷺ বললেন: 'তারা থাকবে অন্ধকারে, পুলের এপারে।' বর্ণনার বাকি অংশ অন্য প্রশ্নের দিকে যায়, যা এ আয়াতের বিষয় নয়। মাআরিফুল কুরআন এখান থেকে বুঝে নেয়, মানুষ এই পৃথিবী থেকে অন্য পৃথিবীতে যাবে সিরাতের পথ ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plain Without Landmarks",
+          "bn": "চিহ্নহীন এক ময়দান"
+        },
+        "p": [
+          {
+            "en": "A third narration describes the ground itself. Sahl ibn Sa'd (RA) reported that the Messenger of Allah ﷺ said: 'People will be gathered on the Day of Resurrection on a white earth with a reddish tinge, like a loaf of pure flour, with no landmark on it for anyone.' That is Muslim's wording (2790). Al-Bukhari records the same report (6521), but there the last clause, no landmark on it for anyone, is given as the words of Sahl or someone else. Ibn Kathir cites it from both Sahihs, and al-Qurtubi and al-Baghawi from Muslim.",
+            "bn": "তৃতীয় একটি বর্ণনা খোদ মাটির ছবি আঁকে। সাহল ইবন সা'দ (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: 'কিয়ামতের দিন মানুষকে একত্র করা হবে লালচে আভার সাদা এক জমিনে, মিহি ময়দার রুটির মতো, সেখানে কারও জন্য কোনো চিহ্ন থাকবে না।' এ হলো মুসলিমের ভাষ্য (২৭৯০)। বুখারীও একই বর্ণনা এনেছেন (৬৫২১), তবে সেখানে শেষ বাক্যটি, কারও জন্য কোনো চিহ্ন না থাকার কথা, সাহল কিংবা অন্য কারও কথা বলে উল্লেখ আছে। ইবন কাসীর হাদীসটি আনেন দুই সহীহ থেকে, কুরতুবী ও বাগাভী মুসলিম থেকে।"
+          },
+          {
+            "en": "Ibn Kathir also marks the edge of these reports. Ibn Mas'ud's words about a white earth on which no blood was shed reach him through chains that stop at Ibn Mas'ud. Al-Bazzar recorded a version raising them to the Prophet ﷺ, then said no one is known to have raised it except Jarir ibn Ayyub, who is not strong. So the saying stands as a Companion's. Ma'arif al-Qur'an cites al-Bayhaqi for a version from the Prophet ﷺ; that source was not fetched here, so Ibn Kathir's caution is kept.",
+            "bn": "এসব বর্ণনার সীমাও ইবন কাসীর চিহ্নিত করে দেন। রক্ত না ঝরা সাদা জমিনের কথাটি তাঁর কাছে পৌঁছায় এমন সূত্রে, যা থেমে যায় ইবন মাসঊদ (রাঃ)-এ। বাযযার একটি ভাষ্যে কথাটিকে নবী ﷺ পর্যন্ত পৌঁছে দেন, তারপর নিজেই বলেন, জারীর ইবন আইয়ুব ছাড়া আর কেউ একে নবী ﷺ পর্যন্ত নিয়েছেন বলে জানা নেই, আর তিনি মজবুত নন। তাই কথাটি থাকে একজন সাহাবীর কথা হিসেবে। মাআরিফুল কুরআন বায়হাকীর সূত্রে নবী ﷺ থেকে একটি ভাষ্য আনে। সে উৎস এখানে যাচাই করা হয়নি, তাই ইবন কাসীরের সতর্কতাই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Out of the Graves, Into View",
+          "bn": "কবর থেকে খোলা ময়দানে"
+        },
+        "p": [
+          {
+            "en": "Wa-barazu li-llah: and they come out before Allah. The commentators fetched here agree on the core of it. At-Tabari: they appear, zaharu, to Allah, coming from their graves alive for the standing of the Resurrection. Ibn Kathir: all creatures come out of their graves for Allah. Al-Baghawi: they come out of their graves. The Muyassar joins the two senses: creatures come out of their graves alive and visible, for the meeting with Allah. As-Sa'di adds where they come out to: a place in which nothing of them is hidden from Allah.",
+            "bn": "ওয়া বারাযূ লিল্লাহ: আর তারা বেরিয়ে আসবে আল্লাহর সামনে। এখানে যাঁদের তাফসীর দেখা হয়েছে, মূল কথায় তাঁরা একমত। তাবারী বলেন, তারা আল্লাহর সামনে প্রকাশিত হবে, যাহারূ, কিয়ামতের অবস্থানের জন্য কবর থেকে জীবিত হয়ে উঠে আসবে। ইবন কাসীরের কথায়, সব সৃষ্টি আল্লাহর জন্য কবর থেকে বেরিয়ে আসবে। বাগাভী বলেন, তারা কবর থেকে বের হবে। মুয়াসসার দুটি অর্থকে এক করে: সৃষ্টিকুল কবর থেকে জীবিত ও দৃশ্যমান হয়ে বেরিয়ে আসবে আল্লাহর সাক্ষাতের জন্য। সা'দী যোগ করেন তারা কোথায় বেরোবে: এমন জায়গায়, যেখানে তাদের কিছুই আল্লাহর কাছে গোপন থাকবে না।"
+          },
+          {
+            "en": "Every gloss turns on one idea: being out in plain view. Set beside Sahl's report of a plain with no landmark for anyone, the picture is of a ground with nothing to step behind: no wall, no hill, no house that marks a person as its owner. On such ground, whatever a person was before, they stand there as themselves.",
+            "bn": "প্রতিটি ব্যাখ্যা ঘুরছে একটি কথাকে ঘিরে: সবার চোখের সামনে বেরিয়ে আসা। এর পাশে রাখুন সাহল (রাঃ)-এর বর্ণনা, যেখানে ময়দানে কারও জন্য কোনো চিহ্ন নেই। তখন ছবিটা দাঁড়ায় এমন এক জমিনের, যেখানে আড়াল হওয়ার কিছু নেই। কোনো দেয়াল নেই, টিলা নেই, এমন কোনো ঘর নেই যা দেখে বোঝা যায় এটা কার। এমন মাটিতে মানুষ আগে যা-ই থাকুক, সেখানে দাঁড়াবে নিজের আসল রূপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Subdues All",
+          "bn": "যিনি সবকিছুকে বশ করেন"
+        },
+        "p": [
+          {
+            "en": "Then the two names: al-Wahid al-Qahhar, the One, the Prevailing. At-Tabari explains them together: the One alone in lordship, al-munfarid bi-r-rububiyya, who subdues everything, overcomes it and turns it as He wills, gives His creation life when He wills and death when He wills, and whom nothing overcomes. Ibn Kathir: the One who subdued everything and overcame it, to whom the necks have yielded and the minds have humbled themselves. As-Sa'di: alone in His greatness, names, attributes and mighty acts, subduing all the worlds, so that nothing moves and nothing rests except by His leave.",
+            "bn": "এরপর দুটি নাম: আল-ওয়াহিদ, আল-কাহহার, এক ও প্রবল। তাবারী দুটিকে একসঙ্গে ব্যাখ্যা করেন। তিনি রুবূবিয়্যাতে একমাত্র ও একক, আল-মুনফারিদ বির-রুবূবিয়্যাহ। তিনি সবকিছুকে বশ করেন, পরাজিত করেন, যেভাবে চান সেভাবে ঘোরান। যখন চান সৃষ্টিকে জীবন দেন, যখন চান মৃত্যু দেন, আর কোনো কিছুই তাঁকে পরাজিত করতে পারে না। ইবন কাসীরের কথায়, তিনি সবকিছুকে বশ করেছেন, সবকিছুর উপর জয়ী হয়েছেন। সব ঘাড় তাঁর সামনে নত, সব বুদ্ধি তাঁর কাছে বিনীত। সা'দী বলেন, তিনি নিজের মহত্ত্বে, নামে, গুণে ও মহান কাজে একক। সব জগৎ তাঁর বশে, তাঁর অনুমতি ছাড়া কোনো কিছু নড়ে না, থামেও না।"
+          },
+          {
+            "en": "None of the commentators fetched here says in so many words why these two names close this verse. What their glosses supply is the fit. The verse before called Him Mighty and Owner of Retribution, and at-Tabari, on that verse, explains Mighty as one whom nothing prevents from punishing whom He wills, able over everyone He seeks, whom no one escapes by flight. A Day on which every creature comes out of its grave into open ground, before One who subdues everything, is the Day that description is seen.",
+            "bn": "কেন এ আয়াত এই দুটি নামেই শেষ হলো, এখানে দেখা তাফসীরগুলোর কোনোটিই তা সরাসরি বলে না। তাঁদের ব্যাখ্যা থেকে যা মেলে, তা হলো দুটির মানানসই হওয়া। আগের আয়াতে তাঁকে বলা হয়েছে মহাপরাক্রমশালী, প্রতিশোধ গ্রহণকারী। সে আয়াতে তাবারী 'আযীয'-এর ব্যাখ্যা দেন এভাবে: তিনি যাকে শাস্তি দিতে চান, কোনো কিছু তাঁকে বাধা দিতে পারে না। যাকে খোঁজেন, তার উপর তিনি সক্ষম, পালিয়ে কেউ তাঁকে এড়াতে পারে না। যেদিন প্রতিটি সৃষ্টি কবর থেকে খোলা ময়দানে বেরিয়ে আসবে সবকিছুকে বশকারী একমাত্র সত্তার সামনে, সেদিনই এ বর্ণনা চোখে দেখা যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Building on Ground That Crosses",
+          "bn": "যে ভিত সঙ্গে পার হয়"
+        },
+        "p": [
+          {
+            "en": "The next verse, 14:49, turns to the criminals bound together in fetters, and an article on it already ships; this article stops at the open plain. The verse names no person and no people. The Muyassar speaks of Allah's retribution on His enemies, and at-Tabari names the idolaters of Quraysh among those first meant, but the verse describes a Day that every creature reaches. It licenses nothing against any living person or community. Ma'arif al-Qur'an ends its own comment with the servant's part: to live by his commitment to Allah rather than go searching into the causes of His workings.",
+            "bn": "পরের আয়াত, ১৪:৪৯, শিকলে একসঙ্গে বাঁধা অপরাধীদের কথা বলে, আর সে আয়াতের লেখা আগেই প্রকাশিত হয়েছে। এ লেখা খোলা ময়দানে এসে থামে। এ আয়াত কোনো ব্যক্তি বা কোনো জাতির নাম নেয় না। মুয়াসসার আল্লাহর শত্রুদের থেকে প্রতিশোধের কথা বলে, তাবারী প্রথম লক্ষ্য হিসেবে কুরাইশের মুশরিকদের নাম নেন। কিন্তু আয়াতটি এমন এক দিনের বর্ণনা দেয়, যেখানে প্রতিটি সৃষ্টিই পৌঁছাবে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। মাআরিফুল কুরআন নিজের আলোচনা শেষ করে বান্দার করণীয় দিয়ে: আল্লাহর কাছে দেওয়া অঙ্গীকার মেনে চলা, তাঁর কাজের কারণ খুঁজে বেড়ানো নয়।"
+          },
+          {
+            "en": "A person's sense of who they are rests on familiar ground: a home, a city, a name others recognise. The verse says that ground will be replaced, and Sahl's report says the new one will hold no landmark for anyone. What reaches the other earth is the person and their deeds, and there they stand before their Lord. Living now for that Day means building on what can cross: prayer that is kept, wrongs set right while the people wronged are still within reach, and a heart that turns to the One before it is brought before Him.",
+            "bn": "মানুষ নিজেকে যে পরিচয়ে চেনে, তা দাঁড়িয়ে আছে চেনা মাটির উপর: একটা বাড়ি, একটা শহর, লোকে চেনে এমন একটা নাম। আয়াত বলছে, এই মাটি বদলে যাবে। আর সাহল (রাঃ)-এর বর্ণনা বলছে, নতুন মাটিতে কারও জন্য কোনো চিহ্ন থাকবে না। অন্য পৃথিবীতে পৌঁছাবে মানুষ নিজে আর তার আমল, আর সেখানেই সে দাঁড়াবে তার রবের সামনে। সেদিনের জন্য আজ বাঁচার মানে, যা পার হতে পারে তার উপর ভিত গড়া। নিয়মিত নামায, যাদের উপর অন্যায় করেছি তারা নাগালে থাকতেই সে অন্যায় শুধরে নেওয়া, আর এমন এক হৃদয়, যা তাঁর সামনে হাজির করার আগেই সেই একক সত্তার দিকে ফিরে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "14:49": {
     "sections": [
       {

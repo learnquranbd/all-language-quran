@@ -22131,6 +22131,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Thank Allah for the ordinary means you use daily, the rain, the river, the boat, and let that thanks show in your prayer and your giving.",
     "lessonBn": "রোজ যে সাধারণ উপায়গুলো ব্যবহার করেন, বৃষ্টি, নদী, নৌকা, সেগুলোর জন্য আল্লাহর শুকরিয়া আদায় করুন, আর সেই শুকরিয়া আপনার নামায ও দানে ফুটে উঠুক।"
+  },
+  "14:48": {
+    "reflectionEn": "Everything I lean on has ground under it: the house I come home to, the streets I know by heart, the people who know my name. This verse names a Day when that ground is changed for another earth, and the heavens too, and every creature comes out before Allah, the One, the Prevailing. Out in the open, there is no wall to stand behind and no title that speaks for me. What I built my standing on stays behind; what I did, and whom I turned to, comes with me. So the real question is not where I will stand that Day, but what I am standing on now. If the familiar ground were taken away today, what would still hold me up?",
+    "reflectionBn": "আমি যা কিছুর উপর ভর দিয়ে চলি, তার সবকিছুর নিচেই মাটি আছে। যে ঘরে ফিরি, যে রাস্তাগুলো মুখস্থ, যে মানুষগুলো আমার নাম জানে। এ আয়াত এমন এক দিনের কথা বলে, যেদিন এই মাটিই বদলে যাবে অন্য এক পৃথিবীতে, আসমানগুলোও বদলে যাবে, আর সব সৃষ্টি বেরিয়ে আসবে এক ও প্রবল পরাক্রমশালী আল্লাহর সামনে। খোলা ময়দানে আড়াল করার মতো কোনো দেয়াল থাকবে না, আমার হয়ে কথা বলার মতো কোনো পদবিও না। যা দিয়ে নিজের মর্যাদা গড়েছি, তা পেছনে পড়ে থাকবে। সঙ্গে যাবে শুধু আমার আমল, আর আমি কার দিকে মুখ ফিরিয়েছিলাম সেটুকু। তাই আসল প্রশ্ন এটা নয় যে সেদিন আমি কোথায় দাঁড়াব। প্রশ্ন হলো, আজ আমি কিসের উপর দাঁড়িয়ে আছি। চেনা মাটিটা যদি আজই সরিয়ে নেওয়া হয়, তখন কী আমাকে ধরে রাখবে?",
+    "pointsEn": [
+      "Which familiar things in my life, a place, a role or a circle of people, do I lean on as if they could never be taken away?",
+      "If I came out before Allah today with nothing to stand behind, what would I most wish I had done differently this week?",
+      "He is called the One here: whose approval am I still chasing alongside His?",
+      "He is the Prevailing over everything: where do I let fear of other people's power make my choices for me?",
+      "What one deed can I begin now that would still be mine on a ground I have never seen?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন চেনা জিনিসগুলোর উপর, কোনো জায়গা, কোনো পদ বা কিছু মানুষের উপর, আমি এমনভাবে ভর দিই যেন সেগুলো কখনো কেড়ে নেওয়া হবে না?",
+      "আড়াল করার মতো কিছু ছাড়াই যদি আজ আল্লাহর সামনে বেরিয়ে আসতে হতো, এ সপ্তাহের কোন কাজটা ভিন্নভাবে করলে ভালো হতো বলে মনে হতো?",
+      "এখানে তাঁকে বলা হয়েছে এক, একক। তাঁর সন্তুষ্টির পাশাপাশি আমি আর কার সন্তুষ্টির পেছনে এখনো ছুটছি?",
+      "সবকিছুর উপর তিনিই প্রবল। কোথায় আমি মানুষের ক্ষমতার ভয়কে আমার সিদ্ধান্ত নিতে দিই?",
+      "এমন কোন একটা আমল আজই শুরু করতে পারি, যা আমার না-দেখা এক মাটিতেও আমার সঙ্গে থাকবে?"
+    ],
+    "lessonEn": "Every familiar ground will be replaced on that Day, so build now on what you will carry before Allah, the One, the Prevailing.",
+    "lessonBn": "সেদিন প্রতিটি চেনা মাটি বদলে যাবে। তাই এখনই সেই জিনিসের উপর জীবন গড়ুন, যা নিয়ে আপনি এক ও প্রবল আল্লাহর সামনে দাঁড়াবেন।"
   }
 };
 
