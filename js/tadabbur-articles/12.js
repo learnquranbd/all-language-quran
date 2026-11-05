@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "12:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "At the Door of the Surah",
+          "bn": "সূরার দোরগোড়ায়"
+        },
+        "p": [
+          {
+            "en": "Surat Yusuf opens with three separate letters, Alif, Lam, Ra, and then a claim about what follows: these are the verses of the clear Book (12:1). Our verse is six words in Arabic: inna anzalnahu qur'anan 'arabiyyan la'allakum ta'qilun, indeed We have sent it down as an Arabic Qur'an, that you might understand. Then 12:3 announces the best of stories, and from 12:4 Yusuf (AS) is telling his father about a dream. The verse stands at the door of the surah, between the description of the Book and the story itself.",
+            "bn": "সূরা ইউসুফ শুরু হয় তিনটি আলাদা হরফ দিয়ে: আলিফ, লাম, রা। তারপর সামনে যা আসছে তার পরিচয়: এগুলো সুস্পষ্ট কিতাবের আয়াত (১২:১)। আমাদের আয়াতটি আরবীতে ছয়টি শব্দ: ইন্না আনযালনাহু কুরআনান আরাবিয়্যান লাআল্লাকুম তা'কিলূন। নিশ্চয়ই আমি একে আরবী কুরআন হিসেবে নাযিল করেছি, যাতে তোমরা বুঝতে পার। এরপর ১২:৩ ঘোষণা দেয় সর্বোত্তম কাহিনির, আর ১২:৪ থেকে ইউসুফ (আঃ) বাবাকে নিজের স্বপ্নের কথা বলছেন। কিতাবের পরিচয় আর কাহিনির মাঝখানে, সূরার একেবারে দোরগোড়ায় দাঁড়িয়ে আছে এ আয়াত।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, reads the opening verses as one movement. The clear Book is the Qur'an that is plain and apparent, which explains, clarifies and makes known what is unclear; it was sent down in Arabic; and so, he writes, Allah went on to say that He relates the best of stories. At-Tabari keeps the same link in his gloss: We sent down this clear Book as an Arabic Qur'an. A Book described as making things plain is followed at once by the language it was sent down in.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরে শুরুর আয়াতগুলো একটানা এক বক্তব্য। সুস্পষ্ট কিতাব মানে সেই কুরআন, যা নিজে স্পষ্ট, প্রকাশ্য, আর যা অস্পষ্ট বিষয়কে ব্যাখ্যা করে, খুলে বলে, জানিয়ে দেয়। সেটি নাযিল হয়েছে আরবীতে। তাই, তিনি লেখেন, আল্লাহ এরপর বললেন যে তিনি সর্বোত্তম কাহিনি বর্ণনা করছেন। তাবারীর ব্যাখ্যাতেও একই যোগসূত্র: আমি এই সুস্পষ্ট কিতাবকে আরবী কুরআন হিসেবে নাযিল করেছি। যে কিতাবের পরিচয় দেওয়া হলো স্পষ্টকারী বলে, তার ঠিক পরেই আসছে সে কোন ভাষায় নাযিল হলো সেই কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When They Asked for Stories",
+          "bn": "গল্প শোনার আবদার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, under 12:3, records a report about why these opening verses came. Sa'd ibn Abi Waqqas said that the Qur'an was sent down to the Prophet ﷺ and he recited it to them for a time, and they said: Messenger of Allah, if only you would tell us stories. Then Allah sent down Alif Lam Ra, these are the verses of the clear Book, up to la'allakum ta'qilun, the end of our verse. He recited to them for another time, they asked him to speak to them, and 39:23 came: Allah has sent down the best of speech.",
+            "bn": "তাবারী ১২:৩ আয়াতের আলোচনায় একটি বর্ণনা আনেন, শুরুর এ আয়াতগুলো কেন এল সে বিষয়ে। সা'দ ইবন আবী ওয়াক্কাস (রাঃ) বলেন, নবী ﷺ-এর উপর কুরআন নাযিল হলো, তিনি কিছুকাল তাঁদের তা পড়ে শোনালেন। তাঁরা বললেন, হে আল্লাহর রাসূল, আপনি যদি আমাদের কিছু কাহিনি শোনাতেন! তখন আল্লাহ নাযিল করলেন আলিফ লাম রা, এগুলো সুস্পষ্ট কিতাবের আয়াত, লাআল্লাকুম তা'কিলূন পর্যন্ত, অর্থাৎ আমাদের আয়াতের শেষ অবধি। আরও কিছুকাল পর তাঁরা বললেন, আমাদের কিছু কথা শোনান। তখন এল ৩৯:২৩: আল্লাহ নাযিল করেছেন সর্বোত্তম বাণী।"
+          },
+          {
+            "en": "No collector's own grading of this report was confirmed on a fetched page, so this article gives it none. A version from Ibn 'Abbas ties the request to 12:3 alone. A third version, from 'Awn ibn 'Abdillah, is mursal, with a missing link in its chain. Ibn Kathir's abridged English carries the Ibn 'Abbas wording under 12:3. The fuller story of the request belongs with that verse, and it is left there.",
+            "bn": "এই বর্ণনার কোনো সংকলকের নিজস্ব মান-নির্ণয় সংগৃহীত কোনো পৃষ্ঠায় নিশ্চিত করা যায়নি, তাই এ লেখা তার কোনো মান উল্লেখ করে না। ইবন আব্বাস (রাঃ)-এর সূত্রে আরেক বর্ণনায় আবদারটি শুধু ১২:৩ আয়াতের সঙ্গে যুক্ত। আউন ইবন আবদুল্লাহর সূত্রে তৃতীয় বর্ণনাটি মুরসাল, সনদের একটি কড়ি সেখানে নেই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ১২:৩ আয়াতের অধীনে ইবন আব্বাসের ভাষ্যটি আনে। আবদারের পূর্ণ কাহিনি সেই আয়াতেরই বিষয়, তাই সেখানেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book, or Yusuf's Story",
+          "bn": "কিতাব, নাকি ইউসুফের কাহিনি"
+        },
+        "p": [
+          {
+            "en": "What is the it in anzalnahu, We sent it down? Al-Baghawi answers in a word: the Book. At-Tabari reads it the same way, this clear Book. Al-Qurtubi records a second view, that the phrase means We sent down the account of Yusuf, and quotes an-Nahhas: this is closer to the meaning, because it is narrated that the Jews said, ask him why the family of Ya'qub moved from Sham to Egypt, and about Yusuf. So Allah sent this down in Makkah, agreeing with what is in the Torah, with additions they did not have.",
+            "bn": "আনযালনাহু, আমি একে নাযিল করেছি: এখানে 'একে' বলতে কী? বাগাভী এক শব্দে উত্তর দেন: কিতাব। তাবারীও তাই পড়েন: এই সুস্পষ্ট কিতাব। কুরতুবী আরেকটি মত উল্লেখ করেন। সে মতে কথাটির অর্থ, আমি ইউসুফের ঘটনা নাযিল করেছি। এর পক্ষে তিনি নাহহাসের কথা আনেন: অর্থের দিক থেকে এটাই বেশি মানানসই। কারণ বর্ণিত আছে, ইহুদিরা বলেছিল, তাঁকে জিজ্ঞেস করো, ইয়াকূবের পরিবার শাম ছেড়ে মিসরে গেল কেন, আর ইউসুফের ঘটনাই বা কী। তখন আল্লাহ মক্কায় এটি নাযিল করলেন, তাওরাতে যা আছে তার সঙ্গে মিলিয়ে, আর সঙ্গে এমন কিছু বাড়তি কথা, যা তাদের কাছে ছিল না।"
+          },
+          {
+            "en": "Al-Qurtubi gives no chain for that narration and opens it with it is narrated. Ma'arif al-Qur'an likewise says those who had asked about Yusuf (AS) were the Jews of Arabia, and that the story came in their language so they would ponder it and affirm the Prophet's truthfulness. Al-Qurtubi draws out the point: the Prophet ﷺ told them this though he had never read a book and did not live where books were, so it stood for him as raising the dead stood for 'Isa (AS). The Sa'd report and this narration name different askers; only the first comes with a grading in these sources.",
+            "bn": "কুরতুবী ঐ বর্ণনার কোনো সনদ দেননি, শুরু করেছেন 'বর্ণিত আছে' বলে। মাআরিফুল কুরআনও বলে, যারা ইউসুফ (আঃ)-এর ঘটনা জানতে চেয়েছিল তারা ছিল আরবের ইহুদি। কাহিনিটি এসেছে তাদের ভাষায়, যাতে তারা ভেবে দেখে এবং নবী ﷺ-এর সত্যতা মেনে নেয়। কুরতুবী এখান থেকে মূল কথাটা বের করে আনেন। নবী ﷺ জীবনে কখনো কোনো বই পড়েননি, এমন জায়গাতেও থাকতেন না যেখানে বইপত্র ছিল। তবু তিনি এ ঘটনা শোনালেন। তাই তাঁর জন্য এটি ছিল ঈসা (আঃ)-এর মৃতকে জীবিত করার মতো এক নিদর্শন। সা'দের বর্ণনা আর এ বর্ণনা ভিন্ন ভিন্ন প্রশ্নকারীর কথা বলে। এ উৎসগুলোতে মান নির্ণয় এসেছে কেবল প্রথমটির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Noblest, Six Times Over",
+          "bn": "ছয় দিক থেকে শ্রেষ্ঠ"
+        },
+        "p": [
+          {
+            "en": "Why Arabic? Ibn Kathir's Arabic gives the reason in four terms. The language of the Arabs is the most eloquent of languages, the clearest, the widest, and the best at conveying the meanings that stand in the soul. The abridged English renders the four as most eloquent, plain, deep and expressive, so where the Arabic has widest, awsa', the English has deep. The claim is about range and precision: a tongue able to carry exactly what a person means.",
+            "bn": "আরবী কেন? ইবন কাসীরের আরবী তাফসীর কারণটা দেন চারটি গুণে। আরবদের ভাষা সব ভাষার মধ্যে সবচেয়ে বিশুদ্ধ ও অলংকারপূর্ণ, সবচেয়ে স্পষ্ট, সবচেয়ে প্রশস্ত। আর মনের ভেতরে যে অর্থ জাগে, তা প্রকাশে এ ভাষাই সবচেয়ে সক্ষম। সংক্ষিপ্ত ইংরেজি তাফসীরে এ চারটি গুণ এসেছে এভাবে: সবচেয়ে বাগ্মী, সরল, গভীর ও প্রকাশক্ষম। অর্থাৎ আরবীতে যেখানে আওসা', সবচেয়ে প্রশস্ত, ইংরেজিতে সেখানে গভীর। দাবিটা ভাষার পরিসর আর নিখুঁততা নিয়ে: এমন ভাষা, যা মানুষের মনের কথা ঠিক ঠিক বহন করতে পারে।"
+          },
+          {
+            "en": "Then comes his chain of six. So the noblest of Books was sent down in the noblest of languages, to the noblest of messengers, through the noblest of angels, in the noblest place on earth, and its sending down began in the noblest month of the year, Ramadan. So it was complete in every respect, he concludes. Ramadan is the month that 2:185 names as the one in which the Qur'an was sent down, and Ibn Kathir places the choice of language inside that single pattern of honour.",
+            "bn": "এরপর ছয়টি কড়িতে গাঁথা তাঁর শিকল। তাই সর্বশ্রেষ্ঠ কিতাব নাযিল হলো সর্বশ্রেষ্ঠ ভাষায়, সর্বশ্রেষ্ঠ রাসূলের উপর, সর্বশ্রেষ্ঠ ফেরেশতার মাধ্যমে, পৃথিবীর সর্বশ্রেষ্ঠ ভূখণ্ডে। আর এর নাযিল শুরু হলো বছরের সর্বশ্রেষ্ঠ মাসে, রমযানে। ফলে সব দিক থেকেই তা পূর্ণাঙ্গ হলো, এই তাঁর উপসংহার। রমযানকে ২:১৮৫ আয়াত সেই মাস বলে উল্লেখ করেছে, যে মাসে কুরআন নাযিল হয়েছে। ভাষার নির্বাচনকে ইবন কাসীর এই একই মর্যাদার নকশার ভেতরে রাখেন।"
+          },
+          {
+            "en": "As-Sa'di counts the Arabic tongue as part of the Book's clarity: He sent it down in the Arabic tongue, the noblest of tongues and the clearest, which makes plain every useful truth that people need. At-Tabari gives a plainer reason, and it matters for what follows. He sent it as an Arabic Qur'an to the Arabs, because their tongue and their speech were Arabic, so He sent this Book in their tongue that they might understand it and grasp it. The Muyassar says only: in the language of the Arabs.",
+            "bn": "সা'দী আরবী ভাষাকে কিতাবের স্পষ্টতারই অংশ গণ্য করেন। তিনি একে নাযিল করেছেন আরবী ভাষায়, যা সব ভাষার মধ্যে সবচেয়ে মর্যাদাপূর্ণ আর সবচেয়ে স্পষ্ট, যা মানুষের প্রয়োজনীয় প্রতিটি উপকারী সত্যকে পরিষ্কার করে দেয়। তাবারী দেন আরও সাদামাটা কারণ, আর সামনের আলোচনার জন্য সেটা গুরুত্বপূর্ণ। আরবদের কাছে তিনি পাঠিয়েছেন আরবী কুরআন, কারণ তাদের ভাষা ও কথাবার্তা আরবী। তাই এ কিতাব তিনি তাদের ভাষায় পাঠালেন, যাতে তারা বোঝে আর এর থেকে জ্ঞান লাভ করে। মুয়াসসার শুধু বলে: আরবদের ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What La'alla Is Doing Here",
+          "bn": "লাআল্লা শব্দের কাজ"
+        },
+        "p": [
+          {
+            "en": "La'allakum ta'qilun: al-Baghawi and al-Qurtubi gloss it in the same words, so that you may know its meanings and grasp what is in it. La'alla usually voices a hope, and al-Qurtubi pauses on the word. Some Arabs, he notes, bring an after la'alla, treating it like 'asa; the lam at its start, he says, is extra, for emphasis, and he cites a line of verse, ya abata 'allaka aw 'asaka. He then records a reading: so that you may be in hope of reflecting on it. The note of uncertainty, he says, then belongs to them, not to the Book and not to Allah.",
+            "bn": "লাআল্লাকুম তা'কিলূন: বাগাভী আর কুরতুবী হুবহু একই কথায় এর ব্যাখ্যা দেন, যাতে তোমরা এর অর্থ জানতে পার এবং এতে যা আছে তা বুঝতে পার। লাআল্লা সাধারণত আশা প্রকাশ করে, আর কুরতুবী শব্দটির কাছে একটু থামেন। তিনি জানান, কোনো কোনো আরব লাআল্লার পরে আন ব্যবহার করে, একে আসা শব্দের মতো ধরে। তাঁর মতে শুরুর লামটি অতিরিক্ত, জোর দেওয়ার জন্য। সাক্ষী হিসেবে তিনি একটি কবিতার চরণ আনেন: ইয়া আবাতা আল্লাকা আও আসাকা। এরপর তিনি একটি মত উল্লেখ করেন: যাতে তোমরা এ নিয়ে ভাবনার আশায় থাকো। তখন অনিশ্চয়তার ভাবটা ফেরে শ্রোতাদের দিকে, কিতাবের দিকে নয়, আল্লাহর দিকেও নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads la'alla here in the sense of so that, and ties the choice of the word to its listeners: their frame of mind was already known, that with very clear verses before them they would still doubt and delay accepting the truth. The Muyassar carries the purpose past the mind: that you, O Arabs, may understand its meanings and grasp them, and act by its guidance. Understanding, on that gloss, is the first step of a walk, not the end of it.",
+            "bn": "মাআরিফুল কুরআন এখানে লাআল্লাকে 'যাতে' অর্থে পড়ে, আর শব্দটির নির্বাচনকে মেলায় শ্রোতাদের মনের অবস্থার সঙ্গে। তাদের মানসিকতা আগেই জানা ছিল: একদম স্পষ্ট আয়াত সামনে থাকলেও তারা সন্দেহ করবে, সত্য মেনে নিতে গড়িমসি করবে। মুয়াসসার উদ্দেশ্যটাকে বুদ্ধির গণ্ডি পেরিয়ে নিয়ে যায়: হে আরবরা, যাতে তোমরা এর অর্থ বোঝো, অনুধাবন করো, আর এর হেদায়েত অনুযায়ী আমল করো। এ ব্যাখ্যায় বোঝা হলো পথচলার প্রথম ধাপ, পথের শেষ নয়।"
+          },
+          {
+            "en": "As-Sa'di gives the clause two layers. First, that you may understand its limits, its roots and branches, its commands and prohibitions; and when you have understood that with certainty and your hearts are marked by knowing it, it bears fruit in the action of the limbs and in submitting to it. Second, that your minds may grow, as the noble and lofty meanings come round to them again and again, so that you move from one state to states higher and more complete.",
+            "bn": "সা'দী বাক্যটির দুটি স্তর দেখান। প্রথমত, যাতে তোমরা এর সীমারেখা, মূলনীতি ও শাখা-প্রশাখা, এর আদেশ ও নিষেধ বুঝতে পার। দৃঢ় বিশ্বাসের সঙ্গে তা বুঝলে, আর অন্তর সে জ্ঞানে রঙিন হলে, তার ফল ফলে অঙ্গপ্রত্যঙ্গের আমলে, আনুগত্যে। দ্বিতীয়ত, যাতে তোমাদের বুদ্ধি বাড়তে থাকে। মহৎ ও উঁচু অর্থগুলো বারবার মনের উপর ফিরে আসে, আর তোমরা একটি অবস্থা থেকে উঠে যাও আরও উঁচু, আরও পূর্ণ অবস্থায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Addressed First to the Arabs",
+          "bn": "প্রথম সম্বোধন আরবদের প্রতি"
+        },
+        "p": [
+          {
+            "en": "Who is the you of la'allakum? The commentaries fetched for 12:2 answer: the Arabs. At-Tabari has an Arabic Qur'an to the Arabs; the Muyassar inserts O Arabs into the address; al-Qurtubi has recited in your language, O company of Arabs. That is a statement about the first audience, the people in whose speech the words came down. None of them says that anyone else is shut out from understanding it, and two notes they give on parallel verses show how they treat the wider audience.",
+            "bn": "লাআল্লাকুম-এর 'তোমরা' কারা? ১২:২ আয়াতের যেসব তাফসীর আনা হয়েছে, সবার উত্তর: আরবরা। তাবারী বলেন, আরবদের প্রতি আরবী কুরআন। মুয়াসসার সম্বোধনের ভেতরেই জুড়ে দেয়, হে আরবরা। কুরতুবী বলেন, তোমাদের ভাষায় পড়া হয়, হে আরব সম্প্রদায়। এ কথা প্রথম শ্রোতাদের নিয়ে, যাদের ভাষায় শব্দগুলো নেমে এসেছিল। তাঁদের কেউই বলেন না যে আর কেউ এটি বোঝার সুযোগ থেকে বাদ। আর সমার্থক আয়াতে তাঁদের দুটি টীকা দেখায়, বৃহত্তর শ্রোতাদের তাঁরা কীভাবে দেখেন।"
+          },
+          {
+            "en": "The same clause, word for word, closes 43:3, and there al-Qurtubi records a difference. Ibn 'Isa takes ta'qilun as understanding its rulings and meanings, and on that reading, al-Qurtubi says, the address is particular to the Arabs and not the non-Arabs. Ibn Zayd takes it as so that you reflect, and on that reading the address is general, to Arabs and non-Arabs alike. Al-Qurtubi sets the two side by side without choosing. Both readings concern whom the sentence addresses; neither says a non-Arab cannot come to understand it.",
+            "bn": "হুবহু এ বাক্যটি দিয়েই শেষ হয়েছে ৪৩:৩ আয়াত, আর সেখানে কুরতুবী একটি মতভেদ উল্লেখ করেন। ইবন ঈসা তা'কিলূন অর্থ নেন এর বিধান ও অর্থ বোঝা। কুরতুবী বলেন, এ মতে সম্বোধনটি আরবদের জন্য নির্দিষ্ট, অনারবদের জন্য নয়। ইবন যায়দ অর্থ নেন, যাতে তোমরা চিন্তা কর। এ মতে সম্বোধনটি সাধারণ, আরব-অনারব সবার প্রতি। কুরতুবী দুটি মত পাশাপাশি রেখেছেন, কোনোটিকে বেছে নেননি। দুই মতই সম্বোধন কাদের প্রতি সে প্রশ্নে। কোনো মতই বলে না যে একজন অনারব তা বুঝতে পারবে না।"
+          },
+          {
+            "en": "On 14:4, every messenger sent in the tongue of his people to make things clear to them, al-Qurtubi meets the objection head on. The verse gives no argument to non-Arabs or anyone else, he writes, because whoever has what the Prophet ﷺ brought translated for him, in a translation he understands, is bound by its proof. He cites 34:28: We have not sent you except to all people, as a bringer of good news and a warner. Ibn Kathir, on the same verse, says each prophet was sent to his own nation and Muhammad ﷺ was singled out with a message to all people, citing 7:158.",
+            "bn": "১৪:৪ আয়াত বলে, প্রত্যেক রাসূলকে পাঠানো হয়েছে তাঁর জাতির ভাষায়, যাতে তিনি তাদের কাছে স্পষ্ট করে বলেন। এখানে কুরতুবী আপত্তিটির সরাসরি জবাব দেন। তিনি লেখেন, এ আয়াতে অনারব বা অন্য কারও পক্ষে কোনো যুক্তি নেই। কারণ নবী ﷺ যা এনেছেন, তা কারও জন্য এমন অনুবাদে তুলে ধরা হলে যা সে বোঝে, তার উপর দলিল প্রতিষ্ঠিত হয়ে যায়। তিনি ৩৪:২৮ আয়াত উদ্ধৃত করেন: আমি তোমাকে সমগ্র মানবজাতির জন্যই সুসংবাদদাতা ও সতর্ককারী করে পাঠিয়েছি। ইবন কাসীর একই আয়াতে বলেন, প্রত্যেক নবী প্রেরিত হতেন নিজের জাতির কাছে, আর মুহাম্মাদ ﷺ-কে বিশেষভাবে দেওয়া হয়েছে সব মানুষের কাছে রিসালাত। প্রমাণ হিসেবে তিনি আনেন ৭:১৫৮।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Things, the Last for Everyone",
+          "bn": "পাঁচটি দান, শেষটি সবার জন্য"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for 12:2 attaches a sound hadith to it. Ibn Kathir, on 14:4, brings one from the two Sahihs to make the point above. It is a general narration, not attached to this verse. In al-Bukhari's wording (Sahih al-Bukhari 335, Dar-us-Salam numbering), quoted whole: Narrated Jabir bin `Abdullah: The Prophet (ﷺ) said, \"I have been given five things which were not given to any one else before me. -1. Allah made me victorious by terror, (by His frightening my enemies) for a distance of one month's journey.",
+            "bn": "১২:২ আয়াতের যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ইবন কাসীর ১৪:৪ আয়াতে ওপরের কথাটি বোঝাতে দুই সহীহ গ্রন্থ থেকে একটি হাদীস আনেন। এটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। বুখারীর ভাষ্যে (সহীহ বুখারী ৩৩৫, দারুস সালাম ক্রম), পুরোটা: জাবির ইবন আবদুল্লাহ (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: আমাকে পাঁচটি জিনিস দেওয়া হয়েছে, যা আমার আগে আর কাউকে দেওয়া হয়নি। ১. শত্রুর মনে ভীতি সঞ্চারের মাধ্যমে আমাকে সাহায্য করা হয়েছে, একটা মাসের পথের দূরত্ব পর্যন্ত।"
+          },
+          {
+            "en": "\"-2. The earth has been made for me (and for my followers) a place for praying and a thing to perform Tayammum, therefore anyone of my followers can pray wherever the time of a prayer is due. -3. The booty has been made Halal (lawful) for me yet it was not lawful for anyone else before me. -4. I have been given the right of intercession (on the Day of Resurrection). -5. Every Prophet used to be sent to his nation only but I have been sent to all mankind.\" The fifth is what bears on our verse.",
+            "bn": "২. গোটা পৃথিবীকে আমার (ও আমার উম্মতের) জন্য নামাজের জায়গা আর তায়াম্মুমের উপকরণ করে দেওয়া হয়েছে। তাই আমার উম্মতের যে কেউ, যেখানেই নামাজের সময় হোক, সেখানেই নামাজ পড়তে পারে। ৩. গনীমতের মাল আমার জন্য হালাল করা হয়েছে, অথচ আমার আগে কারও জন্য তা হালাল ছিল না। ৪. আমাকে (কিয়ামতের দিন) শাফাআতের অধিকার দেওয়া হয়েছে। ৫. প্রত্যেক নবী প্রেরিত হতেন শুধু নিজের জাতির কাছে, আর আমি প্রেরিত হয়েছি সমগ্র মানবজাতির কাছে। এর মধ্যে পঞ্চমটিই আমাদের আয়াতের সঙ্গে সম্পর্কিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Understood, and Still Refused",
+          "bn": "বুঝেও ফিরিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, on 26:195, explains why the Qur'an says it came in a clear Arabic tongue: to tell the idolaters of Quraysh it was sent that way, so they could not say it came in another tongue and they turned from it for not understanding. Their turning away, he says, was not because the meanings escaped them; they understood them, and turned away in denial and arrogance. That describes those first deniers as at-Tabari reads them, and licenses no verdict on anyone alive today. Its edge is meant for the reader.",
+            "bn": "তাবারী ২৬:১৯৫ আয়াতের আলোচনায় ব্যাখ্যা করেন, কুরআন কেন বলে যে তা এসেছে সুস্পষ্ট আরবী ভাষায়। উদ্দেশ্য কুরাইশের মুশরিকদের জানিয়ে দেওয়া, এভাবেই তা পাঠানো হয়েছে, যাতে তারা বলতে না পারে যে এটি অন্য ভাষায় এসেছে, না বুঝেই তারা মুখ ফিরিয়েছে। তিনি বলেন, অর্থ তাদের অজানা ছিল বলে তারা মুখ ফেরায়নি। তারা ঠিকই বুঝেছিল, তবু মিথ্যা মনে করে আর অহংকারে মুখ ফিরিয়ে নিয়েছিল। এ বর্ণনা তাবারীর পাঠে সেই প্রথম অস্বীকারকারীদের নিয়ে। আজকের কোনো জীবিত মানুষের ব্যাপারে রায় দেওয়ার কোনো অনুমতি এতে নেই। এর ধার পাঠকের নিজের দিকে।"
+          },
+          {
+            "en": "On 43:3 at-Tabari voices the excuse that was taken away: had it come in a foreign tongue, you would say, we are Arabs, and this is foreign speech whose meanings we do not grasp. The Qur'an makes the same point in 41:44. So the verse removes one excuse and leaves a question. Understanding was the purpose, and as-Sa'di's fruit of it is action and growth. For a reader without Arabic, al-Qurtubi counts a translation one understands as carrying the proof. What remains is whether what I understand reaches what I do.",
+            "bn": "৪৩:৩ আয়াতে তাবারী সেই অজুহাতটা তুলে ধরেন, যা কেড়ে নেওয়া হয়েছে: অনারব ভাষায় এলে তোমরা বলতে, আমরা আরব, আর এ তো বিদেশি ভাষা, এর অর্থ আমরা বুঝি না। ৪১:৪৪ আয়াতে কুরআন নিজেও একই কথা বলে। তাই আয়াতটি একটা অজুহাত সরিয়ে দিয়ে রেখে যায় একটা প্রশ্ন। বোঝাই ছিল উদ্দেশ্য, আর সা'দীর ভাষায় তার ফল আমল ও উন্নতি। যিনি আরবী জানেন না, তাঁর জন্য কুরতুবীর কথা: যে অনুবাদ মানুষ বোঝে, তা দিয়েও দলিল প্রতিষ্ঠিত হয়। বাকি থাকে শুধু এটুকু: যা বুঝি, তা কি আমার কাজে পৌঁছায়?"
+          }
+        ]
+      }
+    ]
+  },
   "12:5-6": {
     "sections": [
       {

@@ -21751,6 +21751,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are shaken, read the prophets' stories for what kept them standing, and take your firmness from those who held on before you.",
     "lessonBn": "মন নড়ে উঠলে নবীদের কাহিনি পড়ুন, খুঁজুন কী তাঁদের অবিচল রেখেছিল। আপনার আগে যাঁরা টিকে ছিলেন, তাঁদের থেকেই দৃঢ়তা নিন।"
+  },
+  "12:2": {
+    "reflectionEn": "Before the story of Yusuf begins, Allah says why it comes in the words it does. We sent it down as an Arabic Qur'an, so that you might understand. Its first listeners heard it in their own tongue, with nothing standing between them and its meaning. Understanding is the stated purpose, and it is not kept for those born into the language: the message went out to all people, and its meanings can be carried to anyone. Yet hearing it in their own language did not make everyone listen. Some understood every word and still turned away. So the verse asks two things of me. Do I try to understand what I recite? And once I understand, do I let it change me?",
+    "reflectionBn": "ইউসুফ (আঃ)-এর কাহিনি শুরু হওয়ার আগে আল্লাহ জানিয়ে দেন, কেন তা এই ভাষায় এসেছে। আমি একে আরবী কুরআন হিসেবে নাযিল করেছি, যাতে তোমরা বুঝতে পার। প্রথম শ্রোতারা শুনেছিলেন নিজেদের ভাষায়, অর্থ আর তাঁদের মাঝে কোনো আড়াল ছিল না। বোঝাই এখানে ঘোষিত উদ্দেশ্য। আর এ বোঝা শুধু আরবী-ভাষী ঘরে জন্মানো মানুষের জন্য তোলা নেই। এ বার্তা গেছে সব মানুষের কাছে, এর অর্থ যে-কারও কাছে পৌঁছে দেওয়া যায়। তবু নিজের ভাষায় শুনলেই সবাই কান দেয়নি। কেউ কেউ প্রতিটি শব্দ বুঝেও মুখ ফিরিয়ে নিয়েছে। তাই আয়াতটি আমার কাছে দুটো জিনিস চায়। যা তিলাওয়াত করি, তা কি বোঝার চেষ্টা করি? আর বুঝে ফেলার পর কি তাকে আমার জীবন বদলাতে দিই?",
+    "pointsEn": [
+      "How much of what I recite in prayer do I actually understand, and what small step could I take this month to understand more?",
+      "When I finish reading a passage of the Qur'an, can I say in my own words what it asked of me?",
+      "Is there a verse I understand perfectly well and keep turning away from, as if not understanding it were the problem?",
+      "Do I treat the Qur'an's meanings as something only for scholars, when it was sent down so that people like me might understand?",
+      "Whom could I help this week to understand one verse, in a language they know?"
+    ],
+    "pointsBn": [
+      "নামাজে যা পড়ি, তার কতটুকু আসলে বুঝি? আরও একটু বোঝার জন্য এ মাসে কোন ছোট্ট পদক্ষেপটা নিতে পারি?",
+      "কুরআনের একটা অংশ পড়া শেষ হলে আমি কি নিজের ভাষায় বলতে পারি, সেটা আমার কাছে কী চাইল?",
+      "এমন কোনো আয়াত কি আছে, যা আমি ভালোভাবেই বুঝি, অথচ বারবার এড়িয়ে যাই, যেন না-বোঝাটাই আসল সমস্যা?",
+      "কুরআনের অর্থকে কি আমি শুধু আলেমদের বিষয় ভাবি, অথচ তা নাযিল হয়েছে যাতে আমার মতো মানুষও বুঝতে পারে?",
+      "এ সপ্তাহে কাকে তার জানা ভাষায় একটা আয়াত বুঝতে সাহায্য করতে পারি?"
+    ],
+    "lessonEn": "The Qur'an was sent down to be understood. Seek its meaning in a language you know, keep growing in it, and let what you understand reach your actions.",
+    "lessonBn": "কুরআন নাযিল হয়েছে বোঝার জন্য। নিজের জানা ভাষায় এর অর্থ খুঁজুন, সে বোঝায় ক্রমে এগিয়ে চলুন, আর যা বুঝলেন তা আমলে পৌঁছাতে দিন।"
   }
 };
 
