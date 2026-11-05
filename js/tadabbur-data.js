@@ -22251,6 +22251,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When people are set on doing wrong, point them calmly to the lawful way, and never let a craving deafen you to the voice that points you there.",
     "lessonBn": "মানুষ যখন অন্যায়ের জেদ ধরে, শান্তভাবে তাদের হালাল পথটা দেখিয়ে দিন, আর কোনো লোভ যেন আপনাকে সেই পথের দিকে ডাকা কণ্ঠের প্রতি বধির করে না দেয়।"
+  },
+  "15:53": {
+    "reflectionEn": "Strangers walk in and greet him with peace, and Ibrahim says plainly what he feels: we are afraid of you. The reply takes up his own word and lifts it: do not be afraid. Then, before any errand is explained, comes the gift: we bring you good news of a boy who will be knowing. The guests who unsettled him were carrying the best news his house would hear. The verse does not scold the fear; it answers it, and then it gives. That is a pattern worth keeping. When someone tells me they are afraid, do I settle the fear first, or hurry past it to my own business? And when something unsettles me, am I ready to find that it came bearing good?",
+    "reflectionBn": "অচেনা কয়েকজন ঘরে ঢুকে সালাম দিলেন। ইবরাহীম (আঃ) মনের কথাটা সোজাসুজি বলে ফেললেন: তোমাদের দেখে আমরা শঙ্কিত। জবাবে তাঁরা তাঁর নিজের শব্দটাই তুলে নিলেন, আর ভয়টা নামিয়ে দিলেন: শঙ্কা করবেন না। তারপর কেন এসেছেন সে কথা বলার আগেই এল উপহার: আমরা আপনাকে এক জ্ঞানী পুত্রের সুসংবাদ দিচ্ছি। যাঁদের দেখে তিনি শঙ্কিত হয়েছিলেন, তাঁরাই বয়ে এনেছিলেন তাঁর ঘরের সবচেয়ে বড় খুশির খবর। আয়াতটি ভয়ের জন্য তিরস্কার করে না। ভয়ের জবাব দেয়, তারপর দান করে। এই ধারাটা মনে রাখার মতো। কেউ যখন আমাকে বলে সে ভয় পাচ্ছে, আমি কি আগে তার ভয়টা শান্ত করি, নাকি তাড়াহুড়ো করে নিজের কাজের কথায় চলে যাই? আর কোনো কিছু যখন আমাকে অস্থির করে, আমি কি মেনে নিতে প্রস্তুত যে সেটা হয়তো কল্যাণ নিয়েই এসেছে?",
+    "pointsEn": [
+      "When someone admits to me that they are afraid, are my first words meant to calm them or to correct them?",
+      "Is there a visit, a change or a piece of news I met with fear that later turned out to carry something good?",
+      "When I have both good and hard news to give, do I ever think about which the listener needs to hear first?",
+      "What kind of knowledge do I hope for in the children in my care, and am I asking Allah for it as well as working for it?",
+      "When I am uneasy, do I say so honestly, or hide it and let it grow into suspicion?"
+    ],
+    "pointsBn": [
+      "কেউ যখন আমার কাছে স্বীকার করে যে সে ভয় পাচ্ছে, আমার প্রথম কথাগুলো কি তাকে শান্ত করার জন্য, নাকি তার ভুল ধরার জন্য?",
+      "এমন কোনো আগমন, পরিবর্তন বা খবর কি আছে, যাকে আমি ভয় নিয়ে গ্রহণ করেছিলাম, অথচ পরে দেখা গেল তাতে কল্যাণ লুকিয়ে ছিল?",
+      "যখন আমার কাছে একই সঙ্গে সুখবর আর কঠিন খবর থাকে, শ্রোতার আগে কোনটা শোনা দরকার, তা কি কখনো ভেবে দেখি?",
+      "আমার দায়িত্বে থাকা সন্তানদের মধ্যে আমি কেমন জ্ঞান দেখতে চাই? এর জন্য আমি কি শুধু চেষ্টাই করি, নাকি আল্লাহর কাছে চেয়েও নিই?",
+      "মনে অস্বস্তি জাগলে আমি কি সেটা সৎভাবে বলে ফেলি, নাকি চেপে রেখে সন্দেহে পরিণত হতে দিই?"
+    ],
+    "lessonEn": "Meet another's fear first with a word that settles it, and do not assume that what unsettles you cannot be carrying good news from Allah.",
+    "lessonBn": "অন্যের ভয়কে আগে এমন কথা দিয়ে সামলান যা তাকে শান্ত করে, আর যা আপনাকে অস্থির করছে তা আল্লাহর পক্ষ থেকে সুসংবাদ বয়ে আনতে পারে না, এমন ধরে নেবেন না।"
   }
 };
 

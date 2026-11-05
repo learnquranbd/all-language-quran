@@ -1891,6 +1891,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Fear Spoken, Then Answered",
+          "bn": "মুখে বলা ভয়, তারপর জবাব"
+        },
+        "p": [
+          {
+            "en": "Al-Hijr tells the visit briefly. 15:51 bids the Prophet ﷺ to inform them about the guests of Ibrahim (AS). In 15:52 the guests enter and say salaman, peace, and Ibrahim replies, inna minkum wajilun, we are afraid of you. Then our verse, seven Arabic words: qalu la tawjal, inna nubashshiruka bi-ghulamin 'alim. They said, do not be afraid; we give you good tidings of a knowing boy. The first clause answers the fear, and the second delivers the news.",
+            "bn": "সূরা হিজর মেহমানদের কাহিনি বলে অল্প কথায়। ১৫:৫১ আয়াতে নবী ﷺ-কে বলা হয়, তাদের ইবরাহীম (আঃ)-এর মেহমানদের খবর জানিয়ে দিন। ১৫:৫২ আয়াতে মেহমানরা ঢুকে বলেন সালামান, শান্তি। ইবরাহীম (আঃ) বলেন, ইন্না মিনকুম ওয়াজিলুন, তোমাদের দেখে আমরা শঙ্কিত। তারপর আমাদের আয়াত, সাতটি আরবি শব্দ: কালু লা তাওজাল, ইন্না নুবাশশিরুকা বিগুলামিন আলীম। তাঁরা বললেন, শঙ্কা করবেন না, আমরা আপনাকে এক জ্ঞানী পুত্রের সুসংবাদ দিচ্ছি। প্রথম অংশ ভয়ের জবাব দেয়, দ্বিতীয় অংশ খবরটা পৌঁছে দেয়।"
+          },
+          {
+            "en": "In this surah the fear is said aloud. At 11:70 and at 51:28 the verb is awjasa: a fear he conceived within himself. Here Ibrahim (AS) puts it into words to the guests themselves, so the verse that follows is a reply to a sentence, not to a look. What comes after it, his question about old age in 15:54, the guests' answer in 15:55 and his words on despair in 15:56, belongs to those verses and is only pointed to here.",
+            "bn": "এই সূরায় ভয়টা মুখে উচ্চারিত। ১১:৭০ ও ৫১:২৮ আয়াতে ক্রিয়াটি আওজাসা, অর্থাৎ মনের ভেতরে জেগে ওঠা ভয়। এখানে ইবরাহীম (আঃ) কথাটা মেহমানদের সামনেই বলে দেন। তাই পরের আয়াত কোনো চাহনির জবাব নয়, একটি উচ্চারিত বাক্যের জবাব। এর পরে যা আসে, ১৫:৫৪ আয়াতে বার্ধক্য নিয়ে তাঁর প্রশ্ন, ১৫:৫৫ আয়াতে মেহমানদের উত্তর, আর ১৫:৫৬ আয়াতে নিরাশা নিয়ে তাঁর কথা, সেগুলো ওই আয়াতগুলোরই বিষয়। এখানে শুধু সেদিকে ইশারা করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wajilun Met With La Tawjal",
+          "bn": "ওয়াজিলুনের জবাবে লা তাওজাল"
+        },
+        "p": [
+          {
+            "en": "The guests do not reach for a new word. Wajilun in 15:52 and la tawjal in 15:53 come from the same root, w-j-l, so his statement comes back to him as a prohibition: you said you are afraid; do not be. The commentators gloss both with the commoner word for fear. On 15:52, Ibn Kathir, at-Tabari, as-Sa'di and al-Baghawi all give kha'ifun, afraid, while al-Qurtubi doubles it: fazi'un kha'ifun, alarmed and afraid.",
+            "bn": "মেহমানরা নতুন কোনো শব্দ খোঁজেননি। ১৫:৫২ আয়াতের ওয়াজিলুন আর ১৫:৫৩ আয়াতের লা তাওজাল একই ধাতু থেকে এসেছে: ও-জ-ল। ফলে তাঁর নিজের কথাটাই নিষেধ হয়ে তাঁর কাছে ফিরে আসে। আপনি বলেছেন আপনি শঙ্কিত, শঙ্কিত হবেন না। তাফসীরকারেরা দুটি শব্দকেই ভয়ের বেশি প্রচলিত শব্দ দিয়ে ব্যাখ্যা করেন। ১৫:৫২ আয়াতে ইবন কাসীর, তাবারী, সা'দী ও বাগাভী সবাই লেখেন খাইফুন, ভীত। কুরতুবী দুটি শব্দ পাশাপাশি রাখেন: ফাযিউন খাইফুন, আতঙ্কিত ও ভীত।"
+          },
+          {
+            "en": "On 15:53 the glosses repeat. At-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi each explain la tawjal as la takhaf, do not fear, which is the very wording the guests use in the parallel tellings at 11:70 and 51:28. Al-Muyassar reaches for a third verb, la tafza', do not be alarmed, and names the speakers: the angels said to him. At-Tabari keeps the story's own word for them, ad-dayf, the guest: the guest said to Ibrahim, do not be afraid.",
+            "bn": "১৫:৫৩ আয়াতেও একই ব্যাখ্যা ফিরে আসে। তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী প্রত্যেকে লা তাওজালের অর্থ করেন লা তাখাফ, ভয় পাবেন না। ১১:৭০ ও ৫১:২৮ আয়াতে একই কাহিনিতে মেহমানদের মুখে ঠিক এই কথাটাই আছে। মুয়াসসার তৃতীয় একটি ক্রিয়া বেছে নেয়, লা তাফযা, আতঙ্কিত হবেন না। বক্তাদের পরিচয়ও সে জানিয়ে দেয়: ফেরেশতারা তাঁকে বললেন। তাবারী কাহিনির নিজের শব্দটাই রেখে দেন, আদ-দাইফ, মেহমান: মেহমান ইবরাহীমকে বললেন, ভয় পাবেন না।"
+          },
+          {
+            "en": "That singular noun explains a small puzzle in the grammar. At-Tabari notes on 15:52 that ad-dayf serves for one, two or many, like the nouns wazn and 'adl, which is why the verbs reporting the guests are plural. Al-Qurtubi says the same, adding that it behaves like a verbal noun and serves for masculine and feminine alike. So the qalu that opens our verse, they said, is the plural reply of a group the story names with a single word.",
+            "bn": "এই একবচন বিশেষ্যটি ব্যাকরণের একটা ছোট্ট প্রশ্নের উত্তর দেয়। তাবারী ১৫:৫২ আয়াতের আলোচনায় বলেন, আদ-দাইফ শব্দটি একজন, দুজন বা অনেকজন, সবার জন্যই চলে, যেমন চলে ওয়াযন বা আদল। এ কারণেই মেহমানদের কথা জানাতে ক্রিয়াগুলো বহুবচনে এসেছে। কুরতুবীও একই কথা বলেন। তিনি যোগ করেন, শব্দটি মাসদারের মতো আচরণ করে, পুরুষ ও নারী উভয়ের জন্যই খাটে। তাই আমাদের আয়াতের শুরুর কালু, তাঁরা বললেন, এমন এক দলের জবাব, কাহিনি যাদের একটি শব্দে নাম দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Meal This Telling Omits",
+          "bn": "এই বর্ণনায় খাবারের কথা নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Hijr says nothing of food. The guests enter and greet, and at once Ibrahim (AS) says he is afraid. The commentators fill the gap from the other tellings. Ibn Kathir says the cause of his fear has already been given: he saw their hands not reaching the hospitality he had brought near them, a fattened roasted calf. Al-Qurtubi says Ibrahim spoke these words only after he had set the calf before them and seen them not eating, as he had explained under Surah Hud. Al-Baghawi puts it briefly: because they did not eat his food.",
+            "bn": "সূরা হিজর খাবারের কথা কিছুই বলে না। মেহমানরা ঢুকলেন, সালাম দিলেন, আর সঙ্গে সঙ্গে ইবরাহীম (আঃ) বললেন তিনি শঙ্কিত। ফাঁকটা তাফসীরকারেরা পূরণ করেন অন্য বর্ণনাগুলো থেকে। ইবন কাসীর বলেন, ভয়ের কারণ আগেই বলা হয়েছে। মেহমানদারির যে খাবার তিনি তাঁদের সামনে এনে রেখেছিলেন, মোটাতাজা ভুনা বাছুর, সেদিকে তাঁদের হাত যাচ্ছিল না। কুরতুবী বলেন, বাছুর সামনে রেখে তাঁদের না খেতে দেখার পরেই ইবরাহীম (আঃ) কথাটা বলেছিলেন, যেমন তিনি সূরা হূদে ব্যাখ্যা করেছেন। বাগাভী বলেন এক কথায়: কারণ তাঁরা তাঁর খাবার খাননি।"
+          },
+          {
+            "en": "As-Sa'di tells the sequence in full. When they came in, Ibrahim (AS) took them for guests, went quickly to his house and brought their hospitality, a roasted calf, and set it before them. When he saw that their hands did not reach it, he feared they might be thieves or the like. In this account the fear follows from what he saw at his own table: strangers who had been served the best of the house, and who left it untouched.",
+            "bn": "সা'দী পুরো ঘটনাক্রমটা বলেন। তাঁরা ঢুকলে ইবরাহীম (আঃ) তাঁদের মেহমান ভাবলেন। দ্রুত ঘরে গিয়ে তাঁদের জন্য মেহমানদারির খাবার আনলেন, একটি ভুনা বাছুর, আর তাঁদের সামনে রাখলেন। যখন দেখলেন তাঁদের হাত সেদিকে যাচ্ছে না, তখন ভয় পেলেন যে তাঁরা হয়তো চোর বা এ জাতীয় কেউ। এই বর্ণনায় ভয়ের উৎস তাঁর নিজের দস্তরখানে দেখা একটি দৃশ্য। অচেনা লোকদের সামনে ঘরের সেরা খাবার রাখা হয়েছে, আর তাঁরা তা ছুঁয়েও দেখেননি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a second explanation, marked qila, it is said: Ibrahim found their greeting of peace strange, since salam was not the custom of greeting in their land. At-Tabari, for his part, does not reopen the matter here. He says he has already set out the reason for Ibrahim's fear, the disagreement over it and which view is sound, in an earlier place, and will not repeat it. Every reason the commentators give is something Ibrahim saw or heard. None of them treats the fear as a fault in him.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে দ্বিতীয় একটি ব্যাখ্যা আনেন: তাঁদের সালাম ইবরাহীম (আঃ)-এর কাছে অপরিচিত ঠেকেছিল, কারণ তাঁদের দেশে সালাম দিয়ে অভিবাদনের রেওয়াজ ছিল না। তাবারী এখানে প্রসঙ্গটা আর খোলেন না। তিনি বলেন, ইবরাহীমের ভয়ের কারণ, তা নিয়ে মতভেদ, আর কোন মতটি সঠিক, সবই তিনি আগের এক জায়গায় বলে এসেছেন, তাই আবার বলবেন না। তাফসীরকারেরা যত কারণ দেন, সবই এমন কিছু যা ইবরাহীম (আঃ) দেখেছিলেন বা শুনেছিলেন। তাঁদের কেউই ভয়টাকে তাঁর কোনো দোষ হিসেবে দেখেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good News Before the Errand",
+          "bn": "কাজের কথার আগে সুসংবাদ"
+        },
+        "p": [
+          {
+            "en": "Set the three tellings side by side and the order of the reply differs. In 11:70 the guests say la takhaf, do not fear, and go straight on: inna ursilna ila qawmi Lut, we have been sent to the people of Lut; the tidings of Ishaq follow in 11:71, given to his wife. In 51:28 the comfort is followed by the narrator's report, wa-bashsharuhu, and they gave him tidings. Here the guests speak the tidings themselves, directly to him: inna nubashshiruka, we give you good news.",
+            "bn": "তিনটি বর্ণনা পাশাপাশি রাখলে জবাবের ক্রম আলাদা দেখা যায়। ১১:৭০ আয়াতে মেহমানরা বলেন লা তাখাফ, ভয় পাবেন না, আর সঙ্গে সঙ্গেই বলেন: ইন্না উরসিলনা ইলা কাওমি লূত, আমাদের পাঠানো হয়েছে লূতের সম্প্রদায়ের কাছে। ইসহাকের সুসংবাদ আসে পরে, ১১:৭১ আয়াতে, তাঁর স্ত্রীকে দেওয়া হয়। ৫১:২৮ আয়াতে সান্ত্বনার পরে আসে বর্ণনাকারীর ভাষ্য, ওয়া বাশশারূহু, তাঁরা তাঁকে সুসংবাদ দিলেন। আর এখানে মেহমানরা নিজেরাই সরাসরি তাঁকে সুসংবাদ শোনান: ইন্না নুবাশশিরুকা, আমরা আপনাকে সুসংবাদ দিচ্ছি।"
+          },
+          {
+            "en": "The errand waits. Only at 15:57 does Ibrahim (AS) ask, what is your business, O messengers, and only at 15:58 do they say they have been sent to a criminal people. That description belongs to the people of Lut as the text describes them, and it licenses nothing against any living person or community. In al-Hijr, then, the first answer to his fear is news of a son. The punishment comes later, and only when he asks.",
+            "bn": "কাজের কথা অপেক্ষায় থাকে। ১৫:৫৭ আয়াতে গিয়ে ইবরাহীম (আঃ) জিজ্ঞেস করেন, হে প্রেরিতরা, তোমাদের কী কাজ? আর ১৫:৫৮ আয়াতে তাঁরা বলেন, তাঁদের পাঠানো হয়েছে এক অপরাধী সম্প্রদায়ের কাছে। এ বিবরণ লূতের সম্প্রদায়ের, কুরআন তাদের যেমন বর্ণনা করেছে। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। তাহলে হিজরে তাঁর ভয়ের প্রথম জবাব হলো এক পুত্রের খবর। শাস্তির কথা আসে পরে, তাও তিনি জিজ্ঞেস করার পর।"
+          },
+          {
+            "en": "The surah had opened the story straight after 15:49 and 15:50: inform My servants that I am the Forgiving, the Merciful, and that My punishment is the painful punishment. The guests bring both, and the good news comes first. The verb nubashshiru, from the root b-sh-r of good tidings, is in the present tense, so the guests' sentence is itself the delivering of the news, addressed to him with ka, you. Ibrahim takes the same verb up in 15:54, abashshartumuni, and the guests again in 15:55.",
+            "bn": "১৫:৪৯ ও ১৫:৫০ আয়াতের ঠিক পরেই সূরাটি কাহিনিটা শুরু করেছিল: আমার বান্দাদের জানিয়ে দিন, আমিই ক্ষমাশীল, পরম দয়ালু, আর আমার শাস্তিই যন্ত্রণাদায়ক শাস্তি। মেহমানরা দুটোই নিয়ে আসেন, আর সুসংবাদটা আসে আগে। নুবাশশিরু ক্রিয়াটি সুসংবাদের ধাতু ব-শ-র থেকে, বর্তমান কালে। তাই মেহমানদের বাক্যটিই খবর পৌঁছে দেওয়ার কাজ, আর তা সরাসরি তাঁকে উদ্দেশ করে, কা, আপনাকে। ১৫:৫৪ আয়াতে ইবরাহীম (আঃ) একই ক্রিয়া তুলে নেন, আবাশশারতুমূনী, আর ১৫:৫৫ আয়াতে মেহমানরাও আবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Boy in Childhood, Knowing Grown",
+          "bn": "শৈশবে বালক, বড় হয়ে জ্ঞানী"
+        },
+        "p": [
+          {
+            "en": "Ghulam is a boy, and the commentators notice that the one word already carries part of the news. As-Sa'di says the tidings included that the child would be male and not female. Al-Muyassar renders it plainly as walad, a child, and Ibn Kathir's abridged English as a boy. Al-Baghawi joins the noun to its adjective in a neat pair: ghulamun fi sigharihi, 'alimun fi kibarihi, a boy in his childhood, knowing in his maturity.",
+            "bn": "গুলাম মানে বালক, আর তাফসীরকারেরা লক্ষ করেন যে এই একটি শব্দেই খবরের একটা অংশ ধরা আছে। সা'দী বলেন, সুসংবাদের মধ্যেই ছিল যে সন্তানটি হবে ছেলে, মেয়ে নয়। মুয়াসসার সোজা ভাষায় বলে ওয়ালাদ, সন্তান, আর ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে বালক। বাগাভী বিশেষ্য আর বিশেষণকে জুড়ে দেন সুন্দর এক জোড়ায়: গুলামুন ফী সিগারিহী, আলীমুন ফী কিবারিহী। শৈশবে সে বালক, বড় হলে জ্ঞানী।"
+          },
+          {
+            "en": "Al-Baghawi's pair answers a question the phrase quietly raises: how can a boy not yet born be called knowing? At-Tabari answers it under 51:28, where the same words appear: 'alim there means knowing once he has grown. He reports the grammarian al-Farra' on the usage, that someone in whom knowledge is awaited may be called knowing in advance. The 51:28 article sets that note out; here it is enough that the adjective is a promise about the man the child will become.",
+            "bn": "বাগাভীর জোড়াটা এমন এক প্রশ্নের জবাব দেয়, যা বাক্যাংশটি চুপচাপ তুলে ধরে: যে শিশু এখনো জন্মায়নি, তাকে জ্ঞানী বলা হয় কীভাবে? তাবারী এর জবাব দেন ৫১:২৮ আয়াতে, যেখানে একই শব্দগুলো আছে। সেখানে আলীম মানে বড় হয়ে জ্ঞানী। তিনি এই প্রয়োগ নিয়ে ব্যাকরণবিদ ফাররার মত উদ্ধৃত করেন: যার মধ্যে জ্ঞানের অপেক্ষা আছে, তাকে আগেভাগেই জ্ঞানী বলা যায়। ৫১:২৮ আয়াতের প্রবন্ধে সে আলোচনা আছে। এখানে এটুকুই যথেষ্ট যে বিশেষণটি সেই মানুষটির প্রতিশ্রুতি, শিশুটি বড় হয়ে যা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing, or Forbearing",
+          "bn": "জ্ঞানী, নাকি সহনশীল"
+        },
+        "p": [
+          {
+            "en": "On this verse al-Qurtubi records a difference over the adjective itself. Muqatil read 'alim as halim, forbearing. The majority, al-jumhur, said it means 'alim, one who knows. Al-Qurtubi sets the two side by side and passes no verdict between them on this verse. One reading names knowledge as the promised son's quality, the other forbearance. The article leaves the difference where al-Qurtubi leaves it, with both names attached.",
+            "bn": "এ আয়াতের আলোচনায় কুরতুবী বিশেষণটি নিয়েই একটি মতভেদ উল্লেখ করেন। মুকাতিল আলীমের অর্থ করেছেন হালীম, সহনশীল। আর জুমহুর, অর্থাৎ অধিকাংশ আলেম, বলেছেন এর অর্থ আলিম, যিনি জানেন। কুরতুবী দুটি মত পাশাপাশি রাখেন, এ আয়াতে কোনোটির পক্ষে রায় দেন না। এক মতে প্রতিশ্রুত পুত্রের গুণ জ্ঞান, অন্য মতে সহনশীলতা। কুরতুবী মতভেদটা যেখানে রেখেছেন, এই প্রবন্ধও তা সেখানেই রাখছে, দুই পক্ষের নামসহ।"
+          },
+          {
+            "en": "Those who read it as knowing say what the knowledge is. Al-Muyassar calls him a child kathir al-'ilm bi-d-din, of abundant knowledge of the religion. As-Sa'di explains 'alim as kathir al-'ilm, of much knowledge, and then sets another verse beside it: wa-bashsharnahu bi-Ishaqa nabiyyan min as-salihin, and We gave him tidings of Ishaq, a prophet among the righteous (37:112). He spells out no link between the two; he simply places them together and leaves the reader to read one with the other.",
+            "bn": "যাঁরা জ্ঞানী অর্থ নেন, তাঁরা সেই জ্ঞানের ধরনও বলে দেন। মুয়াসসার তাকে বলে কাসীরুল ইলমি বিদ্দীন, দীনের গভীর জ্ঞানের অধিকারী সন্তান। সা'দী আলীমের ব্যাখ্যা করেন কাসীরুল ইলম, প্রচুর জ্ঞানের অধিকারী। তারপর পাশে রাখেন আরেকটি আয়াত: ওয়া বাশশারনাহু বিইসহাকা নাবিয়্যাম মিনাস সালিহীন, আর আমি তাঁকে ইসহাকের সুসংবাদ দিলাম, সৎকর্মশীলদের অন্তর্ভুক্ত একজন নবী (৩৭:১১২)। দুটির মধ্যে সম্পর্কটা তিনি খুলে বলেন না। শুধু পাশাপাশি রেখে দেন, একটিকে অন্যটির আলোয় পড়ার ভার পাঠকের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Son the Commentators Name",
+          "bn": "তাফসীরকারেরা যে পুত্রের নাম বলেন"
+        },
+        "p": [
+          {
+            "en": "The verse gives no name, and five of the six Arabic commentaries fetched for it supply it. Ibn Kathir: that is Ishaq, as came before in Surah Hud. Al-Qurtubi, after his note on the adjective: and he is Ishaq. Al-Muyassar and as-Sa'di both close with Ishaq, as-Sa'di adding the blessing and peace upon him, and al-Baghawi says, meaning Ishaq. At-Tabari's entry on 15:53 paraphrases the verse and does not name the son.",
+            "bn": "আয়াতে কোনো নাম নেই। এ আয়াতের জন্য আনা ছয়টি আরবি তাফসীরের পাঁচটি নামটা জানিয়ে দেয়। ইবন কাসীর: তিনি ইসহাক, যেমন সূরা হূদে আগে এসেছে। কুরতুবী বিশেষণ নিয়ে আলোচনার পর বলেন: আর তিনি ইসহাক। মুয়াসসার ও সা'দী দুজনেই শেষ করেন ইসহাকের নামে, সা'দী সঙ্গে তাঁর উপর দরুদ ও সালাম জুড়ে দেন। বাগাভী বলেন, অর্থাৎ ইসহাক। তাবারী ১৫:৫৩ আয়াতে শুধু আয়াতটির অর্থ বলেন, কারও নাম নেন না।"
+          },
+          {
+            "en": "Under 51:28, where the words bi-ghulamin 'alim recur, two of them record a dissent. At-Tabari reports through his chains that Mujahid said: Isma'il. He holds to Ishaq and gives his reason: the tidings were of a child from Sarah, and Isma'il was Hajar's son. Al-Qurtubi records that the majority say Ishaq and that Mujahid alone said Isma'il, and he rejects it, citing wa-bashsharnahu bi-Ishaq as an explicit text. In both places the question is only whom these tidings name.",
+            "bn": "৫১:২৮ আয়াতে, যেখানে বিগুলামিন আলীম কথাটি আবার এসেছে, দুজন তাফসীরকার একটি ভিন্নমত উল্লেখ করেন। তাবারী নিজের সনদে বর্ণনা করেন, মুজাহিদ বলেছেন: ইসমাঈল। তাবারী নিজে ইসহাকের মতেই থাকেন, আর কারণও বলেন: সুসংবাদ ছিল সারার গর্ভের সন্তানের, আর ইসমাঈল হাজারের ছেলে। কুরতুবী জানান, অধিকাংশের মতে তিনি ইসহাক, ইসমাঈল বলেছেন একা মুজাহিদ। তিনি সে মত নাকচ করেন, আর দলিল দেন ওয়া বাশশারনাহু বিইসহাক আয়াত দিয়ে, যাকে তিনি স্পষ্ট নস বলেন। দুই জায়গাতেই প্রশ্নটা শুধু এই সুসংবাদ কার নাম বহন করে।"
+          },
+          {
+            "en": "Al-Baghawi then turns the reader to what follows: so Ibrahim (AS) wondered at his own old age and his wife's. Ibn Kathir's abridged English says he spoke with wonder and astonishment, asking for confirmation. That wonder, and the guests' reply that the news is true, belong to 15:54 and 15:55, and the 15:56 article follows them. What this verse sets in place is the news itself, delivered before any question could be asked.",
+            "bn": "এরপর বাগাভী পাঠকের দৃষ্টি ফেরান পরের অংশের দিকে: ইবরাহীম (আঃ) নিজের ও স্ত্রীর বার্ধক্যের কথা ভেবে বিস্মিত হলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে, তিনি বিস্ময় নিয়ে কথা বলেছিলেন, নিশ্চিত হতে চেয়েছিলেন। সেই বিস্ময় আর মেহমানদের জবাব যে খবরটা সত্য, তা ১৫:৫৪ ও ১৫:৫৫ আয়াতের বিষয়। ১৫:৫৬ আয়াতের প্রবন্ধে সে আলোচনা আছে। এ আয়াত যা প্রতিষ্ঠা করে তা খবরটা নিজেই, যা পৌঁছে গেছে কোনো প্রশ্ন ওঠার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calm First, Then the Gift",
+          "bn": "আগে প্রশান্তি, তারপর উপহার"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. A general narration, not attached to this verse, sits close to its order. Al-Bukhari records in his Sahih (69) from Anas bin Malik that the Prophet ﷺ said: \"Facilitate things to people (concerning religious matters), and do not make it hard for them and give them good tidings and do not make them run away (from Islam).\"",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও বলেনি। তবে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, অথচ আয়াতের ক্রমের খুব কাছাকাছি। বুখারী তাঁর সহীহ গ্রন্থে (৬৯) আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"তোমরা সহজ করো, কঠিন করো না। সুসংবাদ দাও, দূরে সরিয়ে দিয়ো না।\""
+          },
+          {
+            "en": "The guests' reply has a shape any host, parent or friend can learn from. A man said plainly what he felt. They took up his own word and lifted it, then gave him something to hold before telling him anything else they had come to do. The commentators found a reason for the fear, not a flaw to correct. To read the verse well is to notice that a visit which unsettles us may, in Allah's arrangement, be the one carrying the news we were waiting for.",
+            "bn": "মেহমানদের জবাবের একটা গড়ন আছে, যা থেকে যেকোনো মেজবান, বাবা-মা বা বন্ধু শিখতে পারেন। একজন মানুষ মনের কথা সোজাসুজি বললেন। তাঁরা তাঁর নিজের শব্দটা তুলে নিয়ে ভয়টা নামিয়ে দিলেন। তারপর আর কোনো কাজের কথা বলার আগেই তাঁর হাতে তুলে দিলেন আঁকড়ে ধরার মতো কিছু। তাফসীরকারেরা ভয়ের পেছনে কারণ খুঁজে পেয়েছেন, শোধরানোর মতো কোনো দোষ নয়। আয়াতটি ভালো করে পড়ার মানে এটা খেয়াল করা যে, যে আগমন আমাদের অস্থির করে, আল্লাহর ব্যবস্থায় হয়তো সেটাই বয়ে আনছে সেই খবর, যার অপেক্ষায় আমরা ছিলাম।"
+          }
+        ]
+      }
+    ]
+  },
   "15:56": {
     "sections": [
       {
