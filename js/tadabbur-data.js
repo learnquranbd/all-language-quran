@@ -21891,6 +21891,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep doing good through the long wait. Whatever ease comes is Allah's mercy, the reward of good is never lost, and the reward of the Hereafter is better still.",
     "lessonBn": "দীর্ঘ অপেক্ষার মধ্যেও ভালো কাজ করে যান। যে স্বস্তিই আসুক, তা আল্লাহর রহমত। সৎকর্মের প্রতিদান কখনো নষ্ট হয় না, আর আখিরাতের প্রতিদান আরও উত্তম।"
+  },
+  "12:62": {
+    "reflectionEn": "The brothers came to buy grain and paid for it. Before they left, Yusuf (AS) had their payment slipped back into their packs, unseen, in the hope that they would find it at home and come back. The commentators give several reasons. Perhaps he feared they had nothing left to pay with. Perhaps he could not bring himself to take money from his own father. Perhaps he knew they were not people who keep what is not theirs. Every one of those reasons is a kindness. He gave without being thanked, and left the gift to do its work later. When I help someone, do I need them to see my hand? And when kindness reaches me, does it bring me back, or do I simply keep it?",
+    "reflectionBn": "ভাইয়েরা শস্য কিনতে এসেছিল, দামও দিয়েছিল। রওনা হওয়ার আগে ইউসুফ (আঃ) চুপিসারে সেই দাম তাদের বস্তায় ফিরিয়ে রাখার ব্যবস্থা করলেন। আশা ছিল, বাড়ি গিয়ে তারা তা খুঁজে পাবে আর আবার আসবে। তাফসীরকারেরা কয়েকটি কারণ বলেন। হয়তো তিনি ভয় পেয়েছিলেন, দাম দেওয়ার মতো আর কিছু তাদের কাছে নেই। হয়তো নিজের বাবার কাছ থেকে টাকা নিতে তাঁর মন সায় দেয়নি। হয়তো তিনি জানতেন, পরের জিনিস নিজের কাছে রেখে দেওয়ার লোক তারা নয়। প্রতিটি কারণই আসলে দয়া। তিনি দিলেন, অথচ ধন্যবাদ পাওয়ার কোনো সুযোগ রাখলেন না। উপহারটা নিজের কাজ পরে নিজেই করবে, সেটুকুর উপর ভরসা রাখলেন। কাউকে সাহায্য করলে আমার হাতটা কি তার চোখে পড়তেই হবে? আর দয়া যখন আমার কাছে আসে, তা কি আমাকে ফিরিয়ে আনে, নাকি আমি শুধু রেখে দিই?",
+    "pointsEn": [
+      "When did I last give something in a way that left the other person no chance to thank me?",
+      "Is there anyone I charge, in money or in favours, who can barely afford what I ask of them?",
+      "What am I holding that belongs to someone else, even something small, and what keeps me from handing it back?",
+      "Has someone's quiet kindness ever drawn me back to them, and has mine ever done that for anyone?",
+      "Do the people who know me trust that I will return what is not mine?"
+    ],
+    "pointsBn": [
+      "শেষ কবে এমনভাবে কিছু দিয়েছি যে মানুষটা আমাকে ধন্যবাদ দেওয়ারও সুযোগ পায়নি?",
+      "টাকায় হোক বা উপকারের হিসাবে, এমন কারও কাছে কি আমি দাম চাই, যার পক্ষে তা দেওয়া প্রায় অসম্ভব?",
+      "অন্যের এমন কী জিনিস, ছোট হলেও, আমার কাছে পড়ে আছে? সেটা ফিরিয়ে দিতে কী আমাকে আটকে রাখছে?",
+      "কারও নীরব দয়া কি কখনো আমাকে তার কাছে টেনে নিয়ে গেছে? আমার দয়া কি কাউকে কখনো এভাবে টেনেছে?",
+      "যারা আমাকে চেনে, তারা কি নিশ্চিত যে পরের জিনিস আমি ফিরিয়ে দেব?"
+    ],
+    "lessonEn": "Give in a way that does not ask to be seen, and be someone who cannot rest while holding what belongs to another.",
+    "lessonBn": "এমনভাবে দিন যাতে দেখানোর কিছু না থাকে, আর এমন মানুষ হোন, পরের জিনিস হাতে রেখে যার স্বস্তি আসে না।"
   }
 };
 

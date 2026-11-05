@@ -2415,6 +2415,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:62": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Price Slipped Back",
+          "bn": "দামটা ফিরল বস্তায়"
+        },
+        "p": [
+          {
+            "en": "The scene is still Yusuf's (AS) court. In 12:58 his brothers came for grain; he knew them and they did not know him. In 12:59 and 12:60 he furnished their supplies, asked them to bring a brother of theirs from their father, and told them there would be no measure for them without him. In 12:61 they promised to try to win their father over. Now, as they prepare to leave, he gives one more instruction, and this time it is spoken to his own men rather than to them.",
+            "bn": "দৃশ্যটা তখনো ইউসুফ (আঃ)-এর দরবারে। ১২:৫৮ আয়াতে ভাইয়েরা শস্য নিতে এসেছিল। তিনি তাদের চিনলেন, তারা তাঁকে চিনল না। ১২:৫৯ ও ১২:৬০ আয়াতে তিনি তাদের রসদ বুঝিয়ে দিলেন, বাবার দিকের এক ভাইকে নিয়ে আসতে বললেন, আর জানিয়ে দিলেন, তাকে ছাড়া এলে তাদের জন্য আর কোনো বরাদ্দ নেই। ১২:৬১ আয়াতে তারা কথা দিল, বাবাকে রাজি করানোর চেষ্টা করবে। এবার তারা ফেরার পথ ধরছে। ঠিক তখন তিনি আরও একটা নির্দেশ দেন, তবে এবার ভাইদের নয়, নিজের লোকদের।"
+          },
+          {
+            "en": "Wa-qala li-fityanihi: and he said to his young men. At-Tabari glosses fityan as his ghilman, his attendants, and cites Qatada for the same. As-Sa'di calls them those who were in his service. Al-Qurtubi notes that these men were the ones arranging the brothers' provisions, which is why they were able to put the payment into the packs at all, and he allows that they may have been free men who worked as his helpers rather than slaves. Ibn Kathir and the Muyassar both use at-Tabari's word, ghilman.",
+            "bn": "ওয়া কালা লি-ফিতয়ানিহী: আর তিনি তাঁর যুবক কর্মচারীদের বললেন। তাবারী ফিতয়ানের অর্থ করেন গিলমান, অর্থাৎ তাঁর সেবক, আর কাতাদা থেকেও একই কথা আনেন। সা'দী বলেন, যারা তাঁর খেদমতে ছিল। কুরতুবী খেয়াল করিয়ে দেন, ভাইদের রসদ গুছিয়ে দিচ্ছিল এরাই, তাই বস্তায় দাম রেখে দেওয়া তাদের পক্ষেই সম্ভব ছিল। তাঁর মতে এরা গোলাম না হয়ে স্বাধীন মানুষও হতে পারে, যারা তাঁর সহকারী হিসেবে কাজ করত। ইবন কাসীর ও মুয়াসসার দুজনেই তাবারীর শব্দটা, গিলমান, ব্যবহার করেন।"
+          },
+          {
+            "en": "The instruction itself: ij'alu bida'atahum fi rihalihim, put their goods in their saddlebags. Ibn Kathir adds the phrase min haythu la yash'urun, in a way they would not perceive, and the Muyassar says sirran, quietly. Ibn Ishaq, in at-Tabari's report, says the goods with which they had paid for the food were placed in their bags while they did not know. As-Suddi, also in at-Tabari, places the order in the middle of the work: Yusuf (AS) said it to his men while he was measuring out their grain.",
+            "bn": "নির্দেশটা হলো: ইজআলূ বিদাআতাহুম ফী রিহালিহিম, তাদের পণ্য তাদের বস্তায় রেখে দাও। ইবন কাসীর জুড়ে দেন মিন হাইসু লা ইয়াশউরূন, এমনভাবে যে তারা টের পাবে না। মুয়াসসার বলে সিররান, চুপিসারে। তাবারীর বর্ণনায় ইবন ইসহাক বলেন, যে পণ্যের বদলে তারা খাদ্য পেয়েছিল, তাদের অজান্তে সেটাই তাদের মালপত্রে রেখে দেওয়া হলো। তাবারীতেই সুদ্দীর বর্ণনা নির্দেশটাকে কাজের মাঝখানে বসায়: শস্য মেপে দিতে দিতেই ইউসুফ (আঃ) লোকদের এ কথা বলেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fityan and Fitya",
+          "bn": "ফিতয়ান না ফিতয়া"
+        },
+        "p": [
+          {
+            "en": "The word his young men was read in two ways. Al-Baghawi reports that Hamza, al-Kisa'i and Hafs read li-fityanihi, with an alif and a nun, which is the text printed with this verse, and that the rest read li-fityatihi, with a ta. Al-Qurtubi's list differs at one point. He gives li-fityatihi to the people of Madinah, Abu 'Amr and 'Asim, as the choice of Abu Hatim and an-Nahhas, and li-fityanihi to the rest of the Kufans, as the choice of Abu 'Ubayd, who said it stands so in the codex of 'Abd Allah.",
+            "bn": "'তাঁর যুবকেরা' শব্দটি দুইভাবে পড়া হয়েছে। বাগাভী জানান, হামযা, কিসাঈ ও হাফস পড়েছেন লি-ফিতয়ানিহী, আলিফ ও নূনসহ। এই আয়াতের সঙ্গে ছাপা পাঠ এটাই। বাকিরা পড়েছেন লি-ফিতয়াতিহী, তা দিয়ে। কুরতুবীর তালিকা একটা জায়গায় আলাদা। তিনি লি-ফিতয়াতিহী দেন মদীনাবাসী, আবূ আমর ও আসিমের নামে, আর বলেন এটি আবূ হাতিম ও নাহহাসের পছন্দ। লি-ফিতয়ানিহী দেন বাকি কূফীদের নামে, আবূ উবাইদের পছন্দ হিসেবে। আবূ উবাইদ বলেছেন, আবদুল্লাহর মুসহাফে শব্দটা এভাবেই আছে।"
+          },
+          {
+            "en": "So the two lists place 'Asim differently: al-Qurtubi counts him with fitya, while al-Baghawi names Hafs, who transmits from him, with fityan. Both reports are given here as each mufassir gives them. On meaning, the two agree. Al-Qurtubi quotes ath-Tha'labi that they are two good usages, like sibyan and sibya for boys, and al-Baghawi says nearly the same. An-Nahhas, in al-Qurtubi, preferred fitya because Arabs use it for a smaller number, and a few hands fit the task of slipping goods into packs.",
+            "bn": "তাহলে আসিমের জায়গা দুই তালিকায় দুই রকম। কুরতুবী তাঁকে ফিতয়ার দলে রাখেন, আর বাগাভী তাঁর কাছ থেকে বর্ণনাকারী হাফসের নাম দেন ফিতয়ানের দলে। দুটি বর্ণনাই এখানে রাখা হলো, যেভাবে প্রত্যেক মুফাসসির দিয়েছেন। অর্থ নিয়ে অবশ্য দুজন একমত। কুরতুবী সা'লাবী থেকে আনেন, দুটোই ভালো প্রয়োগ, যেমন বালকদের বেলায় সিবয়ান ও সিবয়া। বাগাভীও প্রায় একই শব্দে তা বলেন। কুরতুবীর বর্ণনায় নাহহাস ফিতয়া পছন্দ করেছিলেন। কারণ আরবরা শব্দটা কম সংখ্যার জন্য ব্যবহার করে, আর বস্তায় চুপিচুপি পণ্য রাখার কাজে অল্প কয়েকজন হাতই বেশি মানানসই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silver, Leather or Meal",
+          "bn": "রুপা, চামড়া, না ছাতু"
+        },
+        "p": [
+          {
+            "en": "Bida'a is what they had brought to trade. Ibn Kathir defines it as the goods they came with to buy provisions in exchange, and at-Tabari and as-Sa'di both call it the price of the food. What that price consisted of is reported, not settled. Qatada, in at-Tabari, says awraqahum, their silver coin. Al-Qurtubi gives dirhams and dinars under it is said, and Ibn Abbas's view that it was sandals, leather and a traveller's goods. Al-Baghawi says dirhams, cites ad-Dahhak from Ibn Abbas for sandals and leather, mentions a report of eight sacks of doum-palm meal, and judges the first view more correct.",
+            "bn": "বিদাআ হলো তারা বেচাকেনার জন্য যা নিয়ে এসেছিল। ইবন কাসীরের সংজ্ঞায়, খাদ্যের বদলে দেওয়ার জন্য যে পণ্য তারা সঙ্গে এনেছিল। তাবারী ও সা'দী দুজনেই একে বলেন খাদ্যের দাম। সেই দামটা ঠিক কী ছিল, তা নিয়ে কেবল বর্ণনা আছে, মীমাংসা নেই। তাবারীর বর্ণনায় কাতাদা বলেন আওরাকাহুম, তাদের রুপার মুদ্রা। কুরতুবী 'বলা হয়' দিয়ে আনেন দিরহাম ও দীনার, আর ইবন আব্বাসের মত আনেন: জুতা, চামড়া আর মুসাফিরের মালপত্র। বাগাভী বলেন দিরহাম। ইবন আব্বাস থেকে দাহহাকের সূত্রে জুতা ও চামড়ার কথা আনেন, আটটি বস্তা খেজুরজাতীয় ফলের ছাতুর এক বর্ণনাও উল্লেখ করেন। তারপর রায় দেন, প্রথম মতটাই বেশি সঠিক।"
+          },
+          {
+            "en": "Rihal is the plural of rahl. At-Tabari stops on the grammar: rihal is the plural for many, while arhul serves for three to ten. Al-Qurtubi quotes Ibn al-Anbari that rahl is said of a container and also of a house, and al-Baghawi glosses the word as aw'iyatihim, their containers. The picture is plain enough. The payment went back inside the very loads of grain the brothers would unpack at home, among the food it had bought. What they found when they opened them belongs to 12:65.",
+            "bn": "রিহাল শব্দটি রাহলের বহুবচন। তাবারী এখানে ব্যাকরণে একটু থামেন: রিহাল বেশি সংখ্যার বহুবচন, আর তিনটি থেকে দশটি পর্যন্ত বোঝাতে আসে আরহুল। কুরতুবী ইবনুল আনবারী থেকে আনেন, রাহল বলা হয় পাত্রকেও, ঘরকেও। বাগাভী শব্দটার অর্থ করেন আওইয়াতিহিম, তাদের পাত্রগুলো। ছবিটা তাই সহজ। দামটা ফিরে গেল শস্যের সেই বোঝাগুলোর ভেতরেই, যেগুলো ভাইয়েরা বাড়ি গিয়ে খুলবে, যে খাদ্য সে দাম দিয়ে কেনা তার মাঝখানে। খোলার পর তারা কী পেল, সেটা ১২:৬৫ আয়াতের আলোচনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Several Reasons, None Settled",
+          "bn": "কারণ কয়েকটি, মীমাংসা নেই"
+        },
+        "p": [
+          {
+            "en": "Why did he do it? The verse names the aim, la'allahum yarji'un, perhaps they will return, but not the reason behind it, and the commentators set out several without fixing on one. Ibn Kathir lists three, each with qila, it was said. Yusuf (AS) feared they had no other goods to come back with for provisions. Or tadhammama, he felt it beneath him to take payment for food from his father and brothers. Or he wanted them, on finding it, to come back out of scruple and caution, because he knew that trait in them. He closes with wallahu a'lam, and Allah knows best.",
+            "bn": "তিনি এমন করলেন কেন? আয়াতটি উদ্দেশ্য বলে দেয়, লাআল্লাহুম ইয়ারজিঊন, হয়তো তারা ফিরে আসবে। কিন্তু এর পেছনের কারণ বলে না। তাফসীরকারেরা কয়েকটি কারণ সাজান, কোনো একটিকে চূড়ান্ত করেন না। ইবন কাসীর তিনটি কারণ আনেন, প্রতিটির আগে কীলা, বলা হয়েছে। এক, ইউসুফ (আঃ) ভয় পেয়েছিলেন, রসদ নিতে আবার আসার মতো আর কোনো পণ্য তাদের কাছে নেই। দুই, তাযাম্মামা: বাবা ও ভাইদের কাছ থেকে খাদ্যের দাম নেওয়া তিনি নিজের মর্যাদার পরিপন্থী মনে করেছিলেন। তিন, তিনি চেয়েছিলেন, দামটা পেয়ে তারা সংকোচ আর সাবধানতা থেকেই ফিরে আসুক, কারণ তাদের এই স্বভাব তাঁর জানা ছিল। শেষে তিনি বলেন, ওয়াল্লাহু আলাম, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "At-Tabari poses the same question and answers that the act allows several aspects. First, he feared his father had no dirhams left, since it was a year of drought and famine, so that taking them would hurt him. Second, he wanted his father and brothers to have more room to live, given their need, and returned it without their knowing why, out of generosity and favour. Third, he wanted them to keep their promise to return. Finding in their packs a price now owned by another, they would not feel free to keep it, and that would draw them back all the more.",
+            "bn": "তাবারীও একই প্রশ্ন তোলেন, তারপর বলেন, কাজটির কয়েকটি দিক হতে পারে। প্রথমত, তিনি ভয় পেয়েছিলেন যে বাবার কাছে আর দিরহাম নেই, কারণ সেটা ছিল খরা আর দুর্ভিক্ষের বছর। তাই এ দাম নিলে বাবার ক্ষতি হবে। দ্বিতীয়ত, প্রয়োজনের সময়ে বাবা ও ভাইদের হাতে একটু বেশি সচ্ছলতা থাকুক, এই ছিল তাঁর ইচ্ছা। তাই দয়া আর অনুগ্রহ থেকে তিনি তা ফিরিয়ে দিলেন, কেন দিলেন তা তাদের জানতে না দিয়ে। তৃতীয়ত, তিনি চেয়েছিলেন ফিরে আসার ওয়াদা তারা যেন না ভাঙে। বস্তায় এমন দাম পেলে, যার মালিক এখন অন্য কেউ, তা নিজেদের কাছে রেখে দিতে তাদের মন সায় দেবে না। এতে ফিরে আসার টান আরও বাড়বে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an relays Ibn Kathir's three possibilities and fills in the second: unable to bear taking the price from them, Yusuf (AS) paid the amount himself into the royal treasury. That detail is Ma'arif's own, since Ibn Kathir's Arabic as fetched does not carry it. Ma'arif then sums up briefly. All these arrangements were made so that the brothers would keep coming to him, and so that he could meet his younger full brother. The English abridgement of Ibn Kathir keeps only the first reason, that he feared they had no more merchandise to bring.",
+            "bn": "মাআরিফুল কুরআন ইবন কাসীরের তিনটি সম্ভাবনাই আনে, আর দ্বিতীয়টিতে একটা কথা যোগ করে: তাদের কাছ থেকে দাম নেওয়া সহ্য করতে না পেরে ইউসুফ (আঃ) নিজেই টাকাটা রাজকোষে জমা দিয়েছিলেন। এ তথ্য মাআরিফের নিজস্ব। ইবন কাসীরের যে আরবি পাঠ আনা হয়েছে, তাতে এটি নেই। এরপর মাআরিফ সংক্ষেপে সারকথা বলে। এত আয়োজন ছিল একটাই উদ্দেশ্যে: ভাইয়েরা যেন আসতে থাকে, আর তিনি যেন ছোট আপন ভাইয়ের দেখা পান। ইবন কাসীরের ইংরেজি সংক্ষেপে কেবল প্রথম কারণটাই আছে: তিনি ভয় পেয়েছিলেন, বিনিময়ে আনার মতো আর কোনো পণ্য তাদের কাছে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scruple or Eager Return",
+          "bn": "সংকোচ, না দয়ার টান"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi says outright that they differed over the reason, and gives four. It is said he wanted to show his generosity, pledging kindness in advance so that they would return. It is said he thought it lu'm, meanness, to take the price of food from his father and brothers in their need. Al-Kalbi said he feared his father had no silver to come back with. And it is said he knew their religion would make them return the goods to undo a mistake, since they would not think keeping them lawful. Al-Qurtubi's list adds one more: to help them come back and buy again.",
+            "bn": "বাগাভী সরাসরি বলেন, কারণ নিয়ে তাঁরা মতভেদ করেছেন, আর চারটি মত আনেন। বলা হয়, তিনি নিজের উদারতা দেখাতে চেয়েছিলেন, আগেভাগেই সদাচরণের একটা নিশ্চয়তা দিয়ে রাখতে চেয়েছিলেন, যাতে তারা ফিরে আসতে আরও আগ্রহী হয়। বলা হয়, অভাবের সময়ে বাবা ও ভাইদের কাছ থেকে খাদ্যের দাম নেওয়াকে তিনি লু'ম, অর্থাৎ হীনতা মনে করেছিলেন। কালবী বলেছেন, তাঁর ভয় ছিল, আবার আসার মতো রুপা বাবার কাছে নেই। আরও বলা হয়, তিনি জানতেন তাদের দ্বীনদারি তাদের দিয়ে পণ্যটা ফেরত দেওয়াবে, ভুল শুধরে নেওয়ার জন্য, কারণ তা রেখে দেওয়া তারা হালাল মনে করবে না। কুরতুবীর তালিকায় আরেকটি কারণ আছে: আবার এসে খাদ্য কেনায় যেন এ দাম তাদের কাজে লাগে।"
+          },
+          {
+            "en": "As-Sa'di is the one who weighs. He mentions the scruple reading with as was said, then gives what he takes to be the apparent sense: Yusuf (AS) wanted to make them eager for his kindness, having measured their grain in full and then returned their goods in a way they would not sense, with an eye to what was coming. His reason is a sentence about people: kindness obliges a person to complete loyalty towards the one who was kind. The Muyassar is close to him. They would recognise it, value our generosity to them, and come back hoping for more.",
+            "bn": "এখানে মাপজোখ করে রায় দেন সা'দী। সংকোচের মতটা তিনি আনেন 'যেমন বলা হয়েছে' বলে। তারপর যেটাকে আয়াতের বাহ্যিক অর্থ মনে করেন তা বলেন: ইউসুফ (আঃ) চেয়েছিলেন তাঁর সদাচরণের প্রতি তাদের আগ্রহ জাগাতে। প্রথমে পুরো মাপে শস্য দিলেন, তারপর তাদের পণ্য এমনভাবে ফিরিয়ে দিলেন যে তারা টেরই পেল না, সামনে যা আসছে সেদিকে চোখ রেখে। তাঁর যুক্তি মানুষের স্বভাব নিয়ে একটি বাক্য: ইহসান মানুষকে ইহসানকারীর প্রতি পূর্ণ বিশ্বস্ততায় বেঁধে ফেলে। মুয়াসসারও তাঁর কাছাকাছি। তারা দামটা চিনবে, আমাদের সম্মান দেখানোর কদর করবে, আর আরও পাওয়ার আশায় ফিরে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Perhaps in One Verse",
+          "bn": "এক আয়াতে দুই 'হয়তো'"
+        },
+        "p": [
+          {
+            "en": "The verse says la'alla twice: la'allahum ya'rifunaha, perhaps they will recognise it, and la'allahum yarji'un, perhaps they will return. Why only perhaps they will recognise it? Al-Qurtubi gives a reason: because it might not come through the road safely. The goods could be lost on the way, and then there would be nothing to find. Al-Baghawi reads the recognition another way, as recognising our regard for them. On his reading, what they would know on unpacking was not only their payment but the hand that had put it back.",
+            "bn": "আয়াতে লাআল্লা এসেছে দুবার: লাআল্লাহুম ইয়ারিফূনাহা, হয়তো তারা তা চিনবে, আর লাআল্লাহুম ইয়ারজিঊন, হয়তো তারা ফিরে আসবে। চেনার বেলাতেও কেবল 'হয়তো' কেন? কুরতুবী এর কারণ বলেন: পথে জিনিসটা নিরাপদে না-ও পৌঁছাতে পারে। পণ্য পথেই হারিয়ে যেতে পারে, তখন খুঁজে পাওয়ার মতো কিছুই থাকবে না। বাগাভী চেনাটাকে অন্যভাবে পড়েন: আমরা তাদের যে সম্মান দিয়েছি, সেটা চেনা। তাঁর পাঠে বস্তা খুলে তারা কেবল নিজেদের দাম চিনবে না, চিনবে সেই হাতটাকেও, যে তা ফিরিয়ে রেখেছিল।"
+          },
+          {
+            "en": "The second perhaps is completed in two ways. As-Suddi, in at-Tabari, ends it with ilayya, perhaps they will return to me. Ibn Kathir ends it with biha, perhaps they will return with it, which sits with the scruple reading: they would come back bringing the price. The clause between the two, idha inqalabu ila ahlihim, when they have turned back to their families, al-Baghawi glosses as insarafu, when they have gone off. The verse places the finding at home, among their own people, and not in his court.",
+            "bn": "দ্বিতীয় 'হয়তো'টি দুইভাবে পূর্ণ করা হয়েছে। তাবারীর বর্ণনায় সুদ্দী শেষে যোগ করেন ইলাইয়া: হয়তো তারা আমার কাছে ফিরে আসবে। ইবন কাসীর যোগ করেন বিহা: হয়তো তারা এটা নিয়ে ফিরে আসবে। এ পাঠ সংকোচের মতের সঙ্গে মেলে, অর্থাৎ তারা দামটা সঙ্গে নিয়ে ফিরবে। মাঝের অংশ ইযানকালাবূ ইলা আহলিহিম, যখন তারা পরিবারের কাছে ফিরে যাবে। বাগাভী এর অর্থ করেন ইনসারাফূ, যখন তারা চলে যাবে। আয়াতটি খুঁজে পাওয়ার মুহূর্তটা রাখে বাড়িতে, নিজেদের লোকজনের মাঝে, তাঁর দরবারে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift Kept Out of Sight",
+          "bn": "আড়ালে রাখা উপহার"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched here reads this as a trick. Each reason they give is a form of care: fear for a father's means in a famine, reluctance to take money from one's own family, generosity, trust in the brothers' honesty, or the hope of drawing them back by kindness. At-Tabari and al-Baghawi both use the word takarruman, out of generosity. In their reading, what was hidden was a gift, and hiding it kept it from feeling like a favour waiting to be repaid. The verse narrates a prophet's action within one story, and the plan it serves unfolds in the verses after it.",
+            "bn": "এখানে যেসব তাফসীর আনা হয়েছে, তার কোনোটিই কাজটাকে ছলনা হিসেবে পড়ে না। তাঁদের দেওয়া প্রতিটি কারণই যত্নের একেকটা রূপ: দুর্ভিক্ষে বাবার সামর্থ্য নিয়ে দুশ্চিন্তা, নিজের পরিবারের কাছ থেকে টাকা নিতে অনীহা, উদারতা, ভাইদের সততার উপর আস্থা, কিংবা দয়া দিয়ে তাদের ফিরিয়ে আনার আশা। তাবারী ও বাগাভী দুজনেই শব্দ ব্যবহার করেন তাকাররুমান, অর্থাৎ উদারতা থেকে। তাঁদের পাঠে যা লুকানো হয়েছিল তা উপহার। লুকিয়ে রাখায় সেটা আর শোধ করার অপেক্ষায় থাকা অনুগ্রহের মতো মনে হয়নি। আয়াতটি একটি কাহিনির ভেতরে একজন নবীর কাজের বর্ণনা দেয়, আর যে পরিকল্পনার অংশ এটি, তা খুলতে থাকে পরের আয়াতগুলোতে।"
+          },
+          {
+            "en": "Why not simply tell them who he was? Ma'arif al-Qur'an asks this directly, after dwelling on how long Ya'qub (AS) grieved. It answers that Allah, in His wisdom, had held Yusuf (AS) back from making himself known, and says it found this stated in al-Qurtubi: that Allah, through revelation, stopped him from sending news of himself home. Ma'arif suggests the wisdom was to complete Ya'qub's (AS) trial, and adds that only Allah knows the workings of His wisdom. Al-Qurtubi's comment on this verse, as fetched, does not itself carry the point.",
+            "bn": "তিনি নিজের পরিচয় সরাসরি বলে দিলেন না কেন? ইয়াকুব (আঃ) কত দীর্ঘ সময় শোক বয়ে বেড়িয়েছেন, তা নিয়ে কথা বলার পর মাআরিফুল কুরআন সোজাসুজি এ প্রশ্ন তোলে। জবাবে বলে, আল্লাহ তাঁর হিকমতে ইউসুফ (আঃ)-কে আত্মপ্রকাশ থেকে বিরত রেখেছিলেন। মাআরিফ জানায়, কুরতুবীতে কথাটা স্পষ্ট পাওয়া যায়: আল্লাহ ওহীর মাধ্যমে তাঁকে বাড়িতে নিজের খবর পাঠাতে নিষেধ করেছিলেন। মাআরিফের ধারণা, হিকমতটা ছিল ইয়াকুব (আঃ)-এর পরীক্ষা পূর্ণ করা। সঙ্গে এ কথাও বলে, আল্লাহর হিকমতের রহস্য কেবল তিনিই জানেন। এ আয়াতে কুরতুবীর যে আলোচনা আনা হয়েছে, তাতে অবশ্য কথাটা নেই।"
+          },
+          {
+            "en": "A word on the brothers, since the story has told of their wrong against Yusuf (AS). Here two commentators credit them with something good: Ibn Kathir says Yusuf (AS) knew their scruple, and al-Baghawi says their religion would not let them keep what was not theirs. The verse describes one family in one account, and it licenses nothing against any living person or community. The same men, in the commentators' reading, carry both a past wrong and a known honesty. No tafsir fetched for this verse attaches a hadith to it.",
+            "bn": "ভাইদের নিয়েও একটা কথা, কারণ কাহিনিতে ইউসুফ (আঃ)-এর প্রতি তাদের অন্যায়ের কথা এসেছে। এখানে দুজন তাফসীরকার তাদের একটা ভালো গুণের কথা বলেন। ইবন কাসীর বলেন, তাদের সংকোচের স্বভাব ইউসুফ (আঃ)-এর জানা ছিল। বাগাভী বলেন, তাদের দ্বীনদারি পরের জিনিস রেখে দিতে দেবে না। আয়াতটি একটি কাহিনিতে একটি পরিবারের কথা বলে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু বলার অনুমতি এটি দেয় না। তাফসীরকারদের পাঠে একই মানুষগুলোর মধ্যে অতীতের অন্যায় আর পরিচিত সততা পাশাপাশি থাকে। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kindness That Asks Nothing Back",
+          "bn": "প্রতিদান না চাওয়া দয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's sentence is where a reader can stop: kindness binds a person to the one who was kind. A gift given quietly, with no claim attached, holds more firmly than a demand. In a general narration that is not attached to this verse, Sahih al-Bukhari (2585) records from 'A'isha (RA): Allah's Messenger ﷺ used to accept gifts and used to give something in return. Kindness received is meant to be answered, and the brothers' unease at holding what was not theirs is that same instinct at work.",
+            "bn": "সা'দীর বাক্যটাতে পাঠক থেমে ভাবতে পারেন: ইহসান মানুষকে ইহসানকারীর সঙ্গে বেঁধে দেয়। দাবি ছাড়া চুপচাপ দেওয়া উপহার জোর করে চাওয়ার চেয়ে অনেক শক্ত করে ধরে রাখে। এ আয়াতের সঙ্গে যুক্ত নয়, এমন এক সাধারণ বর্ণনায় সহীহ বুখারী (২৫৮৫) আয়েশা (রাঃ) থেকে উল্লেখ করে: আল্লাহর রাসূল ﷺ হাদিয়া গ্রহণ করতেন এবং তার বিনিময়ে কিছু দিতেন। দয়া পেলে তার জবাব দিতে হয়। পরের জিনিস হাতে রাখতে ভাইদের যে অস্বস্তি, তা সেই একই স্বভাবের প্রকাশ।"
+          },
+          {
+            "en": "For most readers the setting is smaller than famine and treasuries: a relative who cannot pay what they owe, a shopkeeper who hands back too much change, a friend who helped and asked for nothing. The verse suggests two habits. When I can afford it, I can give in a way that spares the other person's dignity, without making them watch me give. And when something that is not mine ends up in my bag, I can be the kind of person who does not rest until it goes back.",
+            "bn": "বেশিরভাগ পাঠকের জীবনে প্রেক্ষাপটটা দুর্ভিক্ষ আর রাজকোষের চেয়ে অনেক ছোট। এমন আত্মীয়, যে পাওনা শোধ করতে পারছে না। এমন দোকানি, যে ভুল করে বেশি টাকা ফেরত দিয়েছে। এমন বন্ধু, যে উপকার করে কিছুই চায়নি। আয়াতটি দুটি অভ্যাসের দিকে ইশারা করে। সামর্থ্য থাকলে এমনভাবে দেওয়া, যাতে মানুষটার সম্মান বাঁচে, আমার দেওয়াটা তাকে চেয়ে চেয়ে দেখতে না হয়। আর পরের কোনো জিনিস আমার থলেতে চলে এলে এমন মানুষ হওয়া, যে তা ফিরিয়ে না দেওয়া পর্যন্ত স্বস্তি পায় না।"
+          }
+        ]
+      }
+    ]
+  },
   "12:64": {
     "sections": [
       {
