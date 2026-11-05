@@ -20931,6 +20931,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask of anything you lean on whether it ever created a thing; what was itself created has no share in the worship and thanks owed to the Creator.",
     "lessonBn": "যার উপর ভর দেন, তাকে জিজ্ঞেস করুন সে কখনো কিছু সৃষ্টি করেছে কি না। যা নিজেই সৃষ্ট, স্রষ্টার প্রাপ্য ইবাদত ও শুকরিয়ায় তার কোনো ভাগ নেই।"
+  },
+  "7:201": {
+    "reflectionEn": "The verse does not describe people the Shaytan never reaches. It describes people he does reach. Something touches them: a flare of anger, a pull towards a sin, a slip already made. What marks them out is what happens next. They remember the One they answer to, what He has promised and what He has warned, and what they owe Him. Then, all at once, they see. The fog lifts, the fault shows itself for what it is, and they step back from it. The verse after describes the others, whose companions keep feeding their error and never let up. Between the touch and the turning there is often only a moment. What do I fill that moment with?",
+    "reflectionBn": "এ আয়াত এমন মানুষের কথা বলে না, যাদের কাছে শয়তান কখনো পৌঁছায় না। বলে তাদের কথা, যাদের কাছে সে পৌঁছায়। কিছু একটা তাদের ছুঁয়ে যায়। হঠাৎ জ্বলে ওঠা রাগ, কোনো গুনাহর দিকে টান, কিংবা ঘটে যাওয়া কোনো পদস্খলন। তাদের আলাদা করে চেনা যায় এর পরের মুহূর্তে। তারা মনে করে, কার কাছে জবাব দিতে হবে, তিনি কী ওয়াদা দিয়েছেন আর কী সতর্ক করেছেন, তাঁর প্রতি তাদের কী দায়। তারপর হঠাৎই তারা দেখতে পায়। কুয়াশা কেটে যায়, ভুলটা নিজের আসল চেহারায় ধরা দেয়, আর তারা সেখান থেকে সরে আসে। পরের আয়াত বলে অন্যদের কথা, যাদের সঙ্গীরা তাদের ভ্রান্তিতে আরও ইন্ধন দেয় আর কখনো থামে না। স্পর্শ আর ফিরে আসার মাঝে অনেক সময় থাকে মাত্র একটা মুহূর্ত। সেই মুহূর্তটা আমি কী দিয়ে ভরি?",
+    "pointsEn": [
+      "The last time anger rose in me, how long was it before I remembered Allah, and what had I already said by then?",
+      "Which door does the Shaytan usually use with me: temper, desire, envy, or plain carelessness?",
+      "After a slip, do I turn back quickly, or do I let one fault keep company with the next?",
+      "Who or what around me makes my errors easier, rather than calling me back from them?",
+      "What one remembrance can I keep ready for the moment I feel myself being pulled?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন আমার রাগ উঠেছিল, আল্লাহকে মনে পড়তে কত সময় লেগেছিল? আর ততক্ষণে মুখ দিয়ে কী কী বেরিয়ে গিয়েছিল?",
+      "শয়তান সাধারণত কোন দরজা দিয়ে আমার কাছে আসে: মেজাজ, কামনা, হিংসা, নাকি নিছক গাফিলতি?",
+      "পা পিছলে গেলে আমি কি তাড়াতাড়ি ফিরে আসি, নাকি একটা ভুলের পেছনে আরেকটাকে জায়গা করে দিই?",
+      "আমার আশপাশের কোন মানুষ বা কোন অভ্যাস আমাকে ফিরিয়ে আনার বদলে ভুলের পথ সহজ করে দেয়?",
+      "যে মুহূর্তে টের পাই আমাকে টানা হচ্ছে, সে সময়ের জন্য কোন একটি জিকির আমি তৈরি রাখতে পারি?"
+    ],
+    "lessonEn": "When anger or temptation touches you, remember Allah, His promise and His warning, and you will see the fault clearly enough to step back from it.",
+    "lessonBn": "রাগ বা প্রলোভন যখন ছুঁয়ে যায়, আল্লাহকে, তাঁর ওয়াদা আর সতর্কবাণীকে মনে করুন। তখন ভুলটা এত স্পষ্ট দেখবেন যে তা থেকে সরে আসতে পারবেন।"
   }
 };
 

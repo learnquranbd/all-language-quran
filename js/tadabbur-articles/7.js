@@ -7635,6 +7635,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:201": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Refuge",
+          "bn": "আশ্রয় চাওয়ার ঠিক পরেই"
+        },
+        "p": [
+          {
+            "en": "The verse sits near the end of al-A'raf. In 7:199 comes the command to take what is given freely, enjoin what is good and turn away from the ignorant. In 7:200: if an incitement, nazgh, comes to you from the Shaytan, seek refuge in Allah, for He is Hearing and Knowing. Then 7:201, in twelve Arabic words: inna alladhina ttaqaw idha massahum ta'ifun mina sh-shaytani tadhakkaru fa-idha hum mubsirun. Indeed those who are mindful of Allah, when something from the Shaytan touches them, remember, and at once they see.",
+            "bn": "আয়াতটি সূরা আ‘রাফের শেষ দিকে। ৭:১৯৯ আয়াতে নির্দেশ আসে: ক্ষমার পথ ধরো, ভালো কাজের আদেশ দাও, অজ্ঞদের এড়িয়ে চলো। ৭:২০০ আয়াতে বলা হয়, শয়তানের পক্ষ থেকে কোনো উস্কানি, নাযগ, যদি তোমাকে পেয়ে বসে, তবে আল্লাহর আশ্রয় চাও, তিনি সব শোনেন, সব জানেন। তারপর বারোটি আরবি শব্দে ৭:২০১: ইন্নাল্লাযীনাত্তাকাও ইযা মাসসাহুম তাইফুম মিনাশ শাইতানি তাযাক্কারূ ফাইযা হুম মুবসিরূন। যারা আল্লাহকে ভয় করে চলে, শয়তানের দিক থেকে কিছু তাদের ছুঁয়ে গেলে তারা স্মরণ করে, আর সঙ্গে সঙ্গে তাদের চোখ খুলে যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads 7:200 as the complement of 7:199. To pardon the ignorant and not answer their evil with evil is hard on human temperament, it says, and on just such occasions the Shaytan coaxes even a calm person into anger. When anger flares while patience is under test, one should recognise the instigation as his and seek refuge with Allah. Ma'arif adds that the same stress carries on into 7:201 and 7:202. This verse, then, describes those who keep that command, and the next describes those who do not.",
+            "bn": "মাআরিফুল কুরআন ৭:২০০ আয়াতকে দেখে ৭:১৯৯ আয়াতের পরিপূরক হিসেবে। তার কথায়, অজ্ঞের ভুল মাফ করে দেওয়া আর মন্দের জবাবে মন্দ না করা মানুষের স্বভাবের উপর বড় কঠিন। ঠিক এমন সময়েই শয়তান শান্ত মানুষকেও রাগের দিকে উস্কে দেয়। ধৈর্যের পরীক্ষার মুহূর্তে রাগ জ্বলে উঠলে বুঝে নিতে হবে, উস্কানিটা তারই, আর তখন আল্লাহর আশ্রয় চাইতে হবে। মাআরিফ যোগ করে, একই জোর ৭:২০১ ও ৭:২০২ আয়াতেও চলেছে। কাজেই এ আয়াত বলছে তাদের কথা, যারা সেই নির্দেশ মেনে চলে। পরের আয়াত বলছে যারা মানে না, তাদের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ta'if or Tayf",
+          "bn": "তাইফ, নাকি তায়ফ"
+        },
+        "p": [
+          {
+            "en": "The word for what touches them is read in two ways. Al-Baghawi names the readers: Ibn Kathir, the people of Basra and al-Kisa'i read tayf, and the others read ta'if, with the long vowel and the hamza. The Ibn Kathir in that list is the Meccan reader of the Qur'an, not the commentator of the same name quoted below. Al-Qurtubi maps it by city: tayf for Basra and Mecca, ta'if for Medina and Kufa, and from Sa'id ibn Jubayr a reported tayyif, with a doubled ya. At-Tabari has the general readers of Medina and Kufa on ta'if, and some Meccans, Basrans and Kufans on tayf.",
+            "bn": "যা তাদের ছুঁয়ে যায়, সেই শব্দটি দুইভাবে পড়া হয়। বাগাভী কারীদের নাম দেন: ইবন কাসীর, বসরার কারীরা আর কিসাঈ পড়েছেন 'তায়ফ' (طيف), বাকিরা দীর্ঘ স্বর ও হামযাসহ 'তাইফ' (طائف)। এ তালিকার ইবন কাসীর মক্কার কুরআন-কারী, নিচে যে একই নামের তাফসীরকারের কথা আসবে তিনি নন। কুরতুবী ভাগ করেন শহর ধরে: বসরা ও মক্কায় 'তায়ফ', মদীনা ও কুফায় 'তাইফ'। সাঈদ ইবন জুবাইর থেকে ইয়া-তে তাশদীদসহ 'তাইয়িফ' পাঠও বর্ণিত। তাবারীর হিসাবে মদীনা ও কুফার অধিকাংশ কারী পড়েছেন 'তাইফ', আর মক্কা, বসরা ও কুফার কিছু কারী 'তায়ফ'।"
+          },
+          {
+            "en": "The three maps do not fully match, and are left as each gives them. At-Tabari then states his own preference: ta'if is the more correct reading in his view. His reason is that the interpreters took the word to mean anger and the slip that comes over a person it surrounds, and that sense fits ta'if, whatever circles a person from the Shaytan's means, such as anger and whispering. The Shaytan circles the son of Adam, he says, to make him slip from obedience to his Lord or to whisper to him, and that is the ta'if from the Shaytan.",
+            "bn": "তিনটি হিসাব খুঁটিনাটিতে পুরোপুরি মেলে না। প্রত্যেকে যেভাবে দিয়েছেন, এখানে সেভাবেই রাখা হলো। এরপর তাবারী নিজের পছন্দ জানান: তাঁর মতে 'তাইফ' পাঠটিই বেশি সঠিক। কারণ তাফসীরকারেরা শব্দটির অর্থ করেছেন রাগ, আর সেই পদস্খলন, যা কাউকে ঘিরে ধরলে তার উপর এসে পড়ে। এ অর্থ 'তাইফ'-এর সঙ্গেই মানায়, অর্থাৎ শয়তানের উপকরণ থেকে যা কিছু মানুষকে ঘিরে চক্কর দেয়, যেমন রাগ আর কুমন্ত্রণা। তিনি বলেন, শয়তান আদমসন্তানের চারপাশে ঘোরে, যাতে রবের আনুগত্য থেকে তার পা পিছলে দিতে পারে বা তাকে কুমন্ত্রণা দিতে পারে। এটাই শয়তানের 'তাইফ'।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Phantom, or Something Circling",
+          "bn": "কল্পছায়া, নাকি চারপাশে ঘোরা"
+        },
+        "p": [
+          {
+            "en": "Do the two forms mean the same? Ibn Kathir the commentator calls them two well-known readings, and records that some took them as one meaning and others drew a difference. Al-Baghawi calls them two dialect forms, like mayyit and ma'it, both meaning something that comes upon you. Abu Amr, in al-Baghawi, drew the line: the ta'if is what circles around a thing, the tayf is a passing touch, lamma, and a whisper. At-Tabari sets out the grammarians: some Basrans held the two equal, like a phantom; some Kufans said the ta'if is the Shaytan's whispering that circles you, the tayf a light touch, mass.",
+            "bn": "দুই রূপের অর্থ কি একই? তাফসীরকার ইবন কাসীর দুটিকে বলেন প্রসিদ্ধ দুই পাঠ। তিনি জানান, কেউ দুটির অর্থ এক ধরেছেন, কেউ পার্থক্য করেছেন। বাগাভীর মতে এ দুটি একই শব্দের দুই আঞ্চলিক রূপ, যেমন 'মাইয়িত' ও 'মাইত'। অর্থ দুটিরই এক: যা এসে তোমাকে ছুঁয়ে যায়। বাগাভী আবু আমরের পার্থক্যটা উল্লেখ করেন: 'তাইফ' হলো যা কোনো কিছুর চারপাশে ঘোরে, আর 'তায়ফ' হলো ক্ষণিকের ছোঁয়া, লাম্মা, আর কুমন্ত্রণা। তাবারী ব্যাকরণবিদদের মত সাজান। বসরার কেউ কেউ দুটিকে সমান ধরেছেন, কল্পছায়ার মতো কিছু। কুফার কেউ কেউ বলেছেন, 'তাইফ' শয়তানের সেই কুমন্ত্রণা যা তোমাকে ঘিরে ঘোরে, আর 'তায়ফ' হালকা ছোঁয়া, মাস।"
+          },
+          {
+            "en": "Al-Qurtubi quotes an-Nahhas: in the language, tayf is what is imagined in the heart or seen in sleep, and ta'if means the same. Others, he reports, made them two meanings, the first an imagining and the second the Shaytan himself, and as-Suhayli explains that the tayf is an imagining with no reality behind it. Mujahid, in al-Qurtubi, said the tayf is anger. Madness, anger and whispering are all called tayf, al-Qurtubi says, because each is a lamma from the Shaytan that resembles the brief visit of a phantom.",
+            "bn": "কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: ভাষায় 'তায়ফ' মানে যা মনের ভেতর কল্পনায় ভাসে বা ঘুমের মধ্যে দেখা যায়, আর 'তাইফ'-এর অর্থও তাই। তিনি জানান, অন্যরা দুটিকে দুই অর্থে নিয়েছেন। প্রথমটি কল্পনা, দ্বিতীয়টি স্বয়ং শয়তান। সুহাইলী ব্যাখ্যা দেন, 'তায়ফ' এমন কল্পনা যার পেছনে বাস্তব কিছু নেই। কুরতুবীর বর্ণনায় মুজাহিদ বলেছেন, 'তায়ফ' মানে রাগ। কুরতুবী বলেন, পাগলামি, রাগ আর কুমন্ত্রণা সবকিছুকেই 'তায়ফ' বলা হয়। কারণ প্রত্যেকটিই শয়তানের দিক থেকে আসা এক লাম্মা, যা ক্ষণিকের জন্য ভেসে আসা কল্পছায়ার মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anger, a Slip, a Sin",
+          "bn": "রাগ, পদস্খলন, গুনাহ"
+        },
+        "p": [
+          {
+            "en": "Whatever the form, what is it that touches them? At-Tabari records two main answers. The first is anger: Sa'id ibn Jubayr said the tayf is anger, and Mujahid said it is anger, in four reports through different narrators. The other is the lamma and the slip. Ibn Abbas, through Ali ibn Abi Talha, said the ta'if is a lamma from the Shaytan; through another chain he called it nazgh, the very word 7:200 uses for incitement. As-Suddi put it in a single line: when they slip, they repent.",
+            "bn": "রূপ যেটাই হোক, তাদের ছোঁয় আসলে কী? তাবারী দুটি প্রধান উত্তর লিপিবদ্ধ করেন। প্রথমটি রাগ। সাঈদ ইবন জুবাইর বলেছেন, 'তায়ফ' মানে রাগ। মুজাহিদও বলেছেন রাগ, ভিন্ন ভিন্ন বর্ণনাকারীর মাধ্যমে চারটি বর্ণনায়। দ্বিতীয় উত্তর হলো লাম্মা আর পদস্খলন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, 'তাইফ' হলো শয়তানের দিক থেকে আসা লাম্মা। আরেক সূত্রে তিনি একে বলেছেন নাযগ, ঠিক যে শব্দটি ৭:২০০ আয়াত উস্কানির জন্য ব্যবহার করেছে। সুদ্দী কথাটা বলেছেন অল্প কথায়: পা পিছলালে তারা তওবা করে।"
+          },
+          {
+            "en": "At-Tabari then declines to choose. The two readings are close in meaning, he says, because anger is one of the Shaytan's ways of making a person slip, and the lamma of a sin comes from him too, and all of it is ta'if from the Shaytan. So there is no ground for limiting the word to one sense over another; it should stay as general as Allah made it. Those who are mindful, when any occurrence from the Shaytan's means comes upon them, whatever it may be, remember Allah's command and come back to it.",
+            "bn": "এরপর তাবারী কোনো একটিকে বেছে নিতে রাজি হন না। তিনি বলেন, দুই ব্যাখ্যার অর্থ কাছাকাছি। রাগ শয়তানের পা পিছলে দেওয়ার একটা উপায়, আর গুনাহর লাম্মাও তারই দিক থেকে আসে। সবই শয়তানের 'তাইফ'। তাই শব্দটিকে এক অর্থে আটকে রাখার কোনো যুক্তি নেই। আল্লাহ যেভাবে একে ব্যাপক রেখেছেন, সেভাবেই ব্যাপক থাকা উচিত। অর্থাৎ যারা আল্লাহকে ভয় করে চলে, শয়তানের উপকরণ থেকে যেকোনো কিছু তাদের সামনে এসে পড়লে, তা যা-ই হোক, তারা আল্লাহর আদেশ স্মরণ করে আর সেই আদেশের দিকে ফিরে আসে।"
+          },
+          {
+            "en": "Ibn Kathir lists four readings without ranking them: anger; the Shaytan's touch by seizure and the like; intending a sin; and committing one. For the seizure reading he notes a hadith that Ibn Marduyah brought here, from Abu Hurayra: a woman came to the Prophet ﷺ with a tayf upon her and asked him to pray for her cure. Ibn Kathir adds that several compilers of the Sunan narrated it with her words 'I have seizures and become uncovered'; no collector's own grading of it was confirmed on a fetched page. No fetched commentary gives an occasion of revelation for this verse.",
+            "bn": "ইবন কাসীর চারটি ব্যাখ্যা দেন, কোনোটিকে আগে-পিছে না করে: রাগ, মৃগী বা এ ধরনের কিছুর মাধ্যমে শয়তানের ছোঁয়া, গুনাহর ইচ্ছা, আর গুনাহ করে ফেলা। মৃগীর ব্যাখ্যার পক্ষে তিনি একটি হাদীসের কথা বলেন, যা ইবন মারদুইয়া এ আয়াতের আলোচনায় এনেছেন আবু হুরাইরা (রাঃ) থেকে। এক মহিলা নবী ﷺ-এর কাছে আসেন, তাঁর উপর তখন 'তায়ফ' ছিল, আর তিনি আরোগ্যের জন্য দু‘আ চান। ইবন কাসীর যোগ করেন, সুনান সংকলকদের কয়েকজন মহিলার এ কথাসহ বর্ণনা করেছেন: 'আমার মৃগী হয় আর আমার শরীর অনাবৃত হয়ে যায়।' এর কোনো সংকলকের নিজস্ব মান-নির্ণয় সংগৃহীত কোনো পৃষ্ঠায় নিশ্চিত করা যায়নি। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে এ আয়াতের শানে নুযূল নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Comes Back to Mind",
+          "bn": "যা আবার মনে পড়ে"
+        },
+        "p": [
+          {
+            "en": "Tadhakkaru: they remember. The verb stands without an object, and the English translation supplies [Him] in brackets; the commentators supply more. At-Tabari: they remember Allah's punishment and His reward, His promise and His threat, then see the truth and act on it, and come back to obeying Allah in what He made obligatory, leaving obedience to the Shaytan. Ibn Kathir gives nearly the same list, punishment and abundant reward, promise and threat, and adds what follows from it: they repent, turn back, seek refuge in Allah and return to Him soon.",
+            "bn": "তাযাক্কারূ: তারা স্মরণ করে। ক্রিয়াটির পরে কোনো কর্ম নেই। ইংরেজি অনুবাদ বন্ধনীতে [তাঁকে] বসিয়ে দেয়, আর তাফসীরকারেরা যোগ করেন আরও বেশি। তাবারীর ব্যাখ্যায় তারা মনে করে আল্লাহর শাস্তি ও পুরস্কার, তাঁর ওয়াদা ও হুঁশিয়ারি। তারপর হক চিনতে পেরে সে অনুযায়ী আমল করে, আল্লাহ যা ফরয করেছেন তাতে তাঁর আনুগত্যে ফিরে আসে, শয়তানের কথা শোনা ছেড়ে দেয়। ইবন কাসীরের তালিকাও প্রায় একই: শাস্তি আর বিপুল প্রতিদান, ওয়াদা আর হুঁশিয়ারি। সঙ্গে তিনি জুড়ে দেন এর ফল: তারা তওবা করে, ফিরে আসে, আল্লাহর আশ্রয় চায়, আর দেরি না করে তাঁর দিকে ফেরে।"
+          },
+          {
+            "en": "Others name a different object. For the Muyassar, they remember the obedience and the repentance that Allah has made binding on them. Al-Qurtubi has them reflect on Allah's power and on His blessings upon them, and so leave the sin. Al-Baghawi glosses tadhakkaru simply as 'arafu, they recognised, and then gives two pictures from the early generation. Sa'id ibn Jubayr said it is the man who is angered, remembers Allah, and swallows his rage. Mujahid said it is the man who intends a sin, remembers Allah, and leaves it.",
+            "bn": "অন্যরা স্মরণের বিষয় বলেন ভিন্নভাবে। মুয়াসসারের মতে তারা মনে করে সেই আনুগত্য আর তওবার কথা, যা আল্লাহ তাদের উপর অবশ্যকর্তব্য করেছেন। কুরতুবীর ব্যাখ্যায় তারা আল্লাহর কুদরত আর নিজেদের উপর তাঁর নিয়ামত নিয়ে ভাবে, ফলে গুনাহ ছেড়ে দেয়। বাগাভী তাযাক্কারূর অর্থ করেন সংক্ষেপে: 'আরাফূ, তারা চিনে ফেলল। তারপর তিনি পূর্বসূরিদের কাছ থেকে দুটি ছবি দেন। সাঈদ ইবন জুবাইর বলেছেন, এ সেই লোক যার রাগ ওঠে, সে আল্লাহকে মনে করে আর রাগ গিলে ফেলে। মুজাহিদ বলেছেন, এ সেই লোক যে গুনাহর ইচ্ছা করে, তারপর আল্লাহকে মনে করে তা ছেড়ে দেয়।"
+          },
+          {
+            "en": "As-Sa'di reads the verse realistically. The servant, he says, is bound to be heedless at times, and the Shaytan keeps watch, waiting for his unguarded moment. So Allah gave the sign that tells the mindful from the misled. The God-fearing person, when he senses a sin, or something from the Shaytan touches him and he sins by doing what is forbidden or leaving what is obligatory, remembers by which door he was reached and through which entrance the Shaytan came in, and remembers what Allah has made binding on him.",
+            "bn": "সা'দী আয়াতটিকে দেখেন বাস্তবের চোখে। তিনি বলেন, বান্দা কখনো না কখনো গাফেল হবেই, আর শয়তান পাহারায় বসে থাকে, তার অসতর্ক মুহূর্তের অপেক্ষায়। তাই আল্লাহ এমন এক আলামত জানিয়ে দিলেন, যা দিয়ে মুত্তাকীকে পথভ্রষ্ট থেকে আলাদা করে চেনা যায়। মুত্তাকী যখন কোনো গুনাহ টের পায়, বা শয়তানের কিছু তাকে ছুঁয়ে যায় আর সে হারাম কাজ করে বা ফরয ছেড়ে দিয়ে গুনাহ করে ফেলে, তখন সে মনে করে কোন দরজা দিয়ে তার কাছে আসা হয়েছিল, কোন পথ দিয়ে শয়তান ঢুকেছিল। আর মনে করে, আল্লাহ তার উপর কী অবশ্যকর্তব্য করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then the Eyes Clear",
+          "bn": "তারপর চোখ পরিষ্কার হয়"
+        },
+        "p": [
+          {
+            "en": "Then fa-idha hum mubsirun: and at once they see. At-Tabari reads it as seeing Allah's guidance, His clear statement and obedience to Him, and so desisting from what the Shaytan's ta'if called them to. He supports it from Ibn Abbas: then they desist from disobedience, take hold of Allah's command, and disobey the Shaytan; the Muyassar uses almost the same words, adding 'on insight'. Al-Qurtubi gives two senses: they are desisting, muntahun, and, it is said, they are on clear insight. Al-Baghawi makes it specific: they see where their sins have fallen, through remembering and reflecting.",
+            "bn": "তারপর ফাইযা হুম মুবসিরূন: আর সঙ্গে সঙ্গে তারা দেখতে পায়। তাবারীর ব্যাখ্যায় তারা দেখে আল্লাহর হিদায়াত, তাঁর সুস্পষ্ট বর্ণনা আর তাঁর আনুগত্যের পথ। ফলে শয়তানের 'তাইফ' তাদের যেদিকে ডাকছিল, সেখান থেকে থেমে যায়। সমর্থনে তিনি আনেন ইবন আব্বাস (রাঃ)-এর কথা: তখন তারা নাফরমানি থেকে বিরত হয়, আল্লাহর আদেশ আঁকড়ে ধরে, আর শয়তানের অবাধ্য হয়। মুয়াসসার প্রায় একই কথা বলে, সঙ্গে যোগ করে 'অন্তর্দৃষ্টির সাথে'। কুরতুবী দুটি অর্থ দেন: তারা বিরত হয়, মুনতাহূন; আবার বলা হয়, তারা স্পষ্ট অন্তর্দৃষ্টির উপর থাকে। বাগাভী আরও নির্দিষ্ট করে বলেন, স্মরণ আর চিন্তার মাধ্যমে তারা দেখে, তাদের গুনাহ কোথায় গিয়ে পড়েছে।"
+          },
+          {
+            "en": "Muqatil, in al-Baghawi, gives the whole sequence: the God-fearing person, when an incitement from the Shaytan reaches him, remembers, recognises it as disobedience, sees, and pulls back from opposing Allah. Ibn Kathir: they have gone straight again and recovered from the state they were in. As-Sa'di ends his picture with a reversal. The servant sees, asks Allah's forgiveness, and makes up what he neglected through sincere repentance and many good deeds, and so sends his devil back driven off and defeated, having undone for him everything the devil had gained from him.",
+            "bn": "বাগাভীর বর্ণনায় মুকাতিল পুরো ধাপগুলো তুলে ধরেন। মুত্তাকীর কাছে শয়তানের উস্কানি পৌঁছালে সে স্মরণ করে, বুঝে ফেলে যে এটা নাফরমানি, দেখতে পায়, আর আল্লাহর বিরুদ্ধাচরণ থেকে নিজেকে টেনে সরিয়ে আনে। ইবন কাসীর বলেন, তারা আবার সোজা পথে দাঁড়ায়, যে অবস্থায় পড়েছিল তা থেকে সেরে ওঠে। সা'দী তাঁর ছবি শেষ করেন এক উল্টো মোড়ে। বান্দা দেখতে পায়, আল্লাহর কাছে ইস্তিগফার করে, খাঁটি তওবা আর অনেক নেক আমল দিয়ে নিজের ঘাটতি পূরণ করে। এভাবে সে নিজের শয়তানকে লাঞ্ছিত ও ব্যর্থ করে ফিরিয়ে দেয়। শয়তান তার কাছ থেকে যা কিছু আদায় করেছিল, সবই তার জন্য পণ্ড হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reddened Face, One Sentence",
+          "bn": "লাল হয়ে ওঠা মুখ, একটি বাক্য"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, explaining 7:200, mentions a hadith on anger, and the scene is in Sahih al-Bukhari, though neither ties it to these verses as an occasion of revelation. Ma'arif's retelling has the angry man repeat the words after the Prophet ﷺ and his anger leave him. Al-Bukhari's wording, quoted below, ends differently. Al-Bukhari records the scene from Sulayman ibn Surad (RA) in more than one place, among them 3282 and 6115; the version quoted here is 6115.",
+            "bn": "মাআরিফুল কুরআন ৭:২০০ আয়াতের ব্যাখ্যায় রাগ নিয়ে একটি হাদীসের কথা বলে, আর দৃশ্যটি সহীহ বুখারীতে আছে। তবে কোনোটিই একে এ আয়াতগুলোর শানে নুযূল বলে না। মাআরিফের বর্ণনায় রাগান্বিত লোকটি নবী ﷺ-এর পরে কথাটা আওড়ায়, আর তার রাগ চলে যায়। বুখারীর ভাষ্য, যা নিচে হুবহু দেওয়া হলো, শেষ হয় অন্যভাবে। বুখারী সুলাইমান ইবন সুরাদ (রাঃ) থেকে দৃশ্যটি একাধিক জায়গায় এনেছেন, তার মধ্যে ৩২৮২ ও ৬১১৫। এখানে উদ্ধৃত হলো ৬১১৫।"
+          },
+          {
+            "en": "Sulayman ibn Surad (RA) narrated: \"Two men abused each other in front of the Prophet ﷺ while we were sitting with him. One of the two abused his companion furiously and his face became red. The Prophet ﷺ said, 'I know a word (sentence) the saying of which will cause him to relax if this man says it. Only if he said, \"I seek refuge with Allah from Satan, the outcast.\"' So they said to that (furious) man, 'Don't you hear what the Prophet ﷺ is saying?' He said, 'I am not mad.'\" (al-Bukhari 6115)",
+            "bn": "সুলাইমান ইবন সুরাদ (রাঃ) বর্ণনা করেছেন: \"আমরা নবী ﷺ-এর কাছে বসে ছিলাম, তখন তাঁর সামনে দুই ব্যক্তি একে অপরকে গালি দিচ্ছিল। তাদের একজন রাগে অপরজনকে গালি দিচ্ছিল, তার চেহারা লাল হয়ে গিয়েছিল। নবী ﷺ বললেন, 'আমি এমন একটি কথা জানি, এ লোকটি যদি তা বলে, তবে তার ভেতরে যা হচ্ছে তা চলে যাবে। যদি সে বলে: আ‘ঊযু বিল্লাহি মিনাশ শাইতানির রাজীম, আমি বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাই।' তখন লোকেরা সেই লোকটিকে বলল, 'নবী ﷺ কী বলছেন, তুমি কি শুনছ না?' সে বলল, 'আমি তো পাগল নই।'\" (বুখারী ৬১১৫)"
+          },
+          {
+            "en": "The man's reply is worth noticing. He seems to have heard seeking refuge as a cure for madness, not for anger. On the reading that Sa'id ibn Jubayr and Mujahid gave this verse, anger is itself something from the Shaytan that touches a sane person, and whoever is mindful of Allah treats it that way. Ma'arif adds that the Shaytan takes a special interest in quarrels, and that a person who sees his anger getting out of control should know the Shaytan is winning against his better self, and turn to Allah for refuge.",
+            "bn": "লোকটির জবাব খেয়াল করার মতো। মনে হয়, সে ধরে নিয়েছিল আশ্রয় চাওয়া পাগলামির চিকিৎসা, রাগের নয়। অথচ সাঈদ ইবন জুবাইর ও মুজাহিদ এ আয়াতের যে ব্যাখ্যা দিয়েছেন, তাতে রাগ নিজেই শয়তানের দিক থেকে আসা এমন এক ছোঁয়া, যা সুস্থ মানুষকেও লাগে। আর যে আল্লাহকে ভয় করে চলে, সে রাগকে সেভাবেই দেখে। মাআরিফ যোগ করে, ঝগড়া-বিবাদে শয়তানের বিশেষ আগ্রহ। কেউ যখন দেখে তার রাগ নিয়ন্ত্রণের বাইরে চলে যাচ্ছে, তখন তার বোঝা উচিত, শয়তান তার ভালো সত্তার উপর জিতে যাচ্ছে। তখনই আল্লাহর দিকে ফিরে আশ্রয় চাওয়া দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recited in Reply to Abuse",
+          "bn": "গালির জবাবে তিলাওয়াত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relates, without a chain, an account from Isam ibn al-Mustaliq. Entering Medina, he saw al-Hasan ibn Ali and was struck by his bearing, and envy stirred an old grudge against his father, so he abused them both at length. Al-Hasan looked at him with kindness, sought refuge in Allah from the accursed Shaytan, and recited from 7:199 to the words fa-idha hum mubsirun. Then he said: go easy on yourself; I ask Allah's forgiveness for me and for you. Had you sought our help, we would have helped you. Isam says he left wishing the earth would swallow him.",
+            "bn": "কুরতুবী কোনো সনদ ছাড়া ইসাম ইবনুল মুসতালিকের একটি ঘটনা বর্ণনা করেন। মদীনায় ঢুকে তিনি হাসান ইবন আলী (রাঃ)-কে দেখেন, তাঁর চালচলন তাঁকে মুগ্ধ করে। কিন্তু হিংসা তাঁর বুকে চাপা পড়ে থাকা পিতার প্রতি পুরোনো বিদ্বেষ জাগিয়ে তোলে, আর তিনি দুজনকেই অনেক গালমন্দ করেন। হাসান (রাঃ) তাঁর দিকে স্নেহের দৃষ্টিতে তাকালেন, বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাইলেন, আর ৭:১৯৯ থেকে 'ফাইযা হুম মুবসিরূন' পর্যন্ত তিলাওয়াত করলেন। তারপর বললেন, শান্ত হও, আমি আমার ও তোমার জন্য আল্লাহর কাছে মাফ চাই। তুমি সাহায্য চাইলে আমরা সাহায্য করতাম। ইসাম বলেন, তিনি সেখান থেকে বেরিয়েছিলেন এই কামনা নিয়ে, যেন মাটি তাঁকে গিলে ফেলে।"
+          },
+          {
+            "en": "Then 7:202: but their brothers, the devils keep them in error, and then they do not stop short. Ibn Kathir reads the brothers as the devils' brothers among mankind, whom the devils help into sin, making that path easy and appealing; from Ibn Abbas, neither do these people stop short of their evil, nor do the devils stop short of luring them. The verse describes a pattern and licenses no one to brand a living person or community as the Shaytan's brother. Its question is for the reader: when something touches me, who is near enough to call me back?",
+            "bn": "তারপর ৭:২০২: আর তাদের ভাইয়েরা, শয়তানেরা তাদের ভ্রান্তিতে টেনে নিয়ে যায়, তারপর আর থামে না। ইবন কাসীরের ব্যাখ্যায় এই ভাইয়েরা মানুষের মধ্যে শয়তানদের ভাই। শয়তানেরা তাদের গুনাহয় সাহায্য করে, সে পথ সহজ ও লোভনীয় করে দেখায়। ইবন আব্বাস (রাঃ) থেকে তিনি আনেন: এই মানুষেরা নিজেদের মন্দ কাজ থেকে থামে না, শয়তানেরাও তাদের প্রলুব্ধ করা থেকে থামে না। আয়াতটি একটি ধরনের বর্ণনা দেয়। কোনো জীবিত মানুষ বা জনগোষ্ঠীকে শয়তানের ভাই বলে দাগিয়ে দেওয়ার অনুমতি এ আয়াত কাউকে দেয় না। এর প্রশ্নটা পাঠকের জন্য: কিছু যখন আমাকে ছুঁয়ে যায়, আমাকে ফিরিয়ে ডাকার মতো কাছে কে থাকে?"
+          }
+        ]
+      }
+    ]
+  },
   "7:205": {
     "sections": [
       {
