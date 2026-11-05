@@ -623,6 +623,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four More Strokes",
+          "bn": "ছবিতে আরও চারটি রেখা"
+        },
+        "p": [
+          {
+            "en": "This verse is the third panel of a single portrait. In 13:19 Allah asks whether the one who knows that what was revealed to the Prophet ﷺ is the truth is like one who is blind, and answers that only ulu al-albab, people of understanding, take heed. In 13:20 and 13:21 they keep Allah's covenant, do not break the pledge, join what He ordered joined, fear their Lord and dread an evil reckoning. Here come four more traits, and then the verdict: those will have 'uqba ad-dar.",
+            "bn": "এ আয়াত একটি ছবির তৃতীয় অংশ। ১৩:১৯ আয়াতে আল্লাহ প্রশ্ন করেন, নবী ﷺ-এর প্রতি যা নাযিল হয়েছে তা যে সত্য, এ কথা যে জানে, সে কি অন্ধের মতো? তারপর নিজেই বলেন, উপদেশ নেয় কেবল উলুল আলবাব, বোধসম্পন্ন মানুষেরা। ১৩:২০ ও ১৩:২১ আয়াতে তাদের পরিচয় শুরু হয়। তারা আল্লাহর অঙ্গীকার পূরণ করে, প্রতিশ্রুতি ভাঙে না। আল্লাহ যা জুড়ে রাখতে বলেছেন তা জুড়ে রাখে, রবকে ভয় করে, মন্দ হিসাবের আশঙ্কায় থাকে। এখানে যোগ হয় আরও চারটি গুণ, তারপর রায়: উকবাদ দার তাদেরই।"
+          },
+          {
+            "en": "The verbs change tense on the way. The earlier traits are in the present, yufuna and yasiluna; this verse opens in the past, sabaru, aqamu, anfaqu, then returns to the present with yadra'una. Al-Qurtubi records two views. Some take alladhina here as a fresh start, since a past verb cannot be joined to yufuna. Others take it as further description of the same people: a description may come in past or future wording, because alladhina carries the sense of a condition, whoever does this has that, and in a condition the past counts as the future.",
+            "bn": "পথে ক্রিয়াপদের কাল বদলে যায়। আগের গুণগুলো বর্তমান কালে, ইউফূনা, ইয়াসিলূনা। এ আয়াত শুরু হয় অতীত কালে, সাবারূ, আকামূ, আনফাকূ। তারপর আবার বর্তমানে ফেরে, ইয়াদরাঊনা। কুরতুবী দুটি মত উল্লেখ করেন। কারও মতে এখানকার আল্লাযীনা নতুন বাক্যের সূচনা, কারণ অতীত কালের ক্রিয়াকে ইউফূনার সঙ্গে জোড়া যায় না। অন্যদের মতে এটি একই মানুষদের আরও বর্ণনা। গুণ বর্ণনা অতীত বা ভবিষ্যৎ দুই রূপেই আসতে পারে, কারণ আল্লাযীনার ভেতরে শর্তের অর্থ আছে: যে এমন করে, সে এমন পায়। আর শর্তের ভেতরে অতীত কাল ভবিষ্যতের মতোই গণ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Turned Toward Him",
+          "bn": "যে ধৈর্যের মুখ রবের দিকে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari ties the patience to what came before: they were patient in keeping Allah's covenant, in not breaking the pledge and in joining ties of kinship. Ibtigha' wajh rabbihim, seeking the face of their Lord, he explains as seeking to magnify Allah and to keep Him above being opposed in His command, or having something He dislikes done in defiance of Him. Al-Baghawi gives the same gloss more briefly. Ibn Kathir reads the patience as holding back from what is forbidden: they weaned themselves from sin for Allah, seeking His pleasure and His generous reward.",
+            "bn": "তাবারী এই ধৈর্যকে আগের আয়াতগুলোর সঙ্গে জুড়ে দেন। তারা ধৈর্য ধরেছে আল্লাহর অঙ্গীকার পূরণে, প্রতিশ্রুতি না ভাঙায় আর আত্মীয়তার বন্ধন রক্ষায়। ইবতিগাআ ওয়াজহি রাব্বিহিম, রবের চেহারা কামনা করে। তাবারীর ব্যাখ্যায় এর মানে আল্লাহর মর্যাদা বড় করে দেখা, আর তাঁকে এ থেকে পবিত্র রাখা যে তাঁর হুকুম অমান্য হবে বা তাঁর অপছন্দের কাজ করে তাঁর নাফরমানি করা হবে। বাগাভী একই কথা আরও সংক্ষেপে বলেন। ইবন কাসীরের পাঠে এ ধৈর্য হারাম থেকে বিরত থাকার ধৈর্য। আল্লাহর জন্য তারা নিজেদের গুনাহ থেকে ছাড়িয়ে এনেছে, তাঁর সন্তুষ্টি আর বিপুল প্রতিদানের আশায়।"
+          },
+          {
+            "en": "At-Tabari also carries Ibn Zayd's definition: patience is staying put. It comes in two forms, patience for Allah in what He loves even when it weighs on souls and bodies, and patience away from what He dislikes even when desires pull toward it; whoever is like this is among the patient. Al-Qurtubi and al-Baghawi widen the field with other early voices. 'Ata' says patience under calamities and misfortunes, and Abu 'Imran al-Jawni says patience on their religion. The fuller debate over which patience is meant belongs to 13:24.",
+            "bn": "তাবারী ইবন যায়দের দেওয়া সংজ্ঞাও আনেন: ধৈর্য মানে টিকে থাকা, জায়গা না ছাড়া। এর দুটি রূপ। আল্লাহ যা ভালোবাসেন তার উপর তাঁর জন্য ধৈর্য, মন আর শরীরের উপর তা যত ভারীই হোক। আর তিনি যা অপছন্দ করেন তা থেকে দূরে থাকার ধৈর্য, প্রবৃত্তি সেদিকে যত টানুক। যে এমন, সে-ই ধৈর্যশীলদের একজন। কুরতুবী আর বাগাভী আরও কয়েকজন পূর্বসূরির কথা এনে পরিসর বাড়ান। আতা বলেন, বিপদ-মুসিবতে ধৈর্য। আবূ ইমরান আল-জাওনী বলেন, নিজের দীনের উপর অটল থাকার ধৈর্য। কোন ধৈর্য উদ্দেশ্য, এ নিয়ে বিস্তারিত আলোচনা ১৩:২৪ আয়াতের প্রসঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Endurance Alone Earns Nothing",
+          "bn": "শুধু সয়ে যাওয়া যথেষ্ট নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di makes the phrase a condition. Patience in carrying out commands, in holding back from prohibitions and under Allah's painful decrees, without resentment, counts only if it is for His face and not for some corrupt aim. That patience, by which a servant holds himself back seeking his Lord's pleasure and nearness, belongs to people of faith. There is another, shared patience whose goal is toughness and whose end is pride. It comes from the righteous and the wicked, the believer and the disbeliever, and it is not truly the praised kind.",
+            "bn": "সা'দী এই অংশকে শর্ত হিসেবে পড়েন। হুকুম পালনে, নিষেধ থেকে বিরত থাকায়, আর আল্লাহর দেওয়া কষ্টের ফয়সালায় অসন্তোষ না দেখিয়ে ধৈর্য ধরা, এসবের দাম তখনই, যখন তা তাঁর চেহারার জন্য, অন্য কোনো মন্দ উদ্দেশ্যে নয়। যে ধৈর্যে বান্দা রবের সন্তুষ্টি আর নৈকট্যের আশায় নিজেকে আটকে রাখে, তা ঈমানদারদের বৈশিষ্ট্য। আরেক রকম ধৈর্য আছে, যা সবার মধ্যেই মেলে। তার লক্ষ্য শক্ত হয়ে থাকা, শেষ ঠিকানা অহংকার। নেককার-বদকার, মুমিন-কাফির সবার কাছ থেকেই তা আসে, আর প্রকৃত অর্থে তা প্রশংসার যোগ্য নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an makes the same point from another side. Sooner or later even the most impatient person settles into his lot, so patience that is not chosen has no merit. Its example is a man who enters a house to steal, finds no chance, and goes home. His restraint was forced on him and earns no reward. Restraint brings reward, Ma'arif says, only when a person leaves the sin out of fear of Allah and the wish to please Him.",
+            "bn": "মাআরিফুল কুরআন একই কথা বলে অন্য দিক থেকে। সবচেয়ে অধৈর্য মানুষটিও আগে বা পরে নিজের অবস্থা মেনে নেয়। তাই যে ধৈর্য নিজে বেছে নেওয়া নয়, তার কোনো মর্যাদা নেই। মাআরিফ উদাহরণ দেয়: কেউ চুরির নিয়তে অন্যের ঘরে ঢুকল, সুযোগ পেল না, ফিরে গেল। তার বিরত থাকাটা বাধ্য হয়ে, এতে কোনো সওয়াব নেই। মাআরিফের কথায়, সওয়াব আসে তখনই, যখন মানুষ আল্লাহর ভয়ে আর তাঁর সন্তুষ্টির আশায় গুনাহ ছেড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayer Upright, Provision Shared",
+          "bn": "কায়েম নামায, ভাগ করা রিযিক"
+        },
+        "p": [
+          {
+            "en": "Wa-aqamu as-salah: and they established the prayer. Ibn Kathir spells out what establishing means: keeping its limits, its times, its bowing and prostration and its humility, in the manner the law has set. At-Tabari says they performed the obligatory prayer with its limits in its times, and reports from Ibn 'Abbas that the five prayers are meant. As-Sa'di adds its pillars, conditions and completing parts, outwardly and inwardly. Ma'arif al-Qur'an notes that the Qur'an's word here is iqama, which asks for more than saying the prayer as a matter of routine.",
+            "bn": "ওয়া আকামুস সালাহ: আর তারা নামায কায়েম করেছে। কায়েম করা মানে কী, ইবন কাসীর তা খুলে বলেন: শরীয়তের নির্ধারিত পদ্ধতিতে এর সীমা, সময়, রুকু-সিজদা আর খুশু রক্ষা করা। তাবারী বলেন, তারা ফরয নামায তার সীমা মেনে সময়মতো আদায় করেছে। ইবন আব্বাস (রাঃ) থেকে তিনি বর্ণনা করেন, এখানে পাঁচ ওয়াক্ত নামাযই উদ্দেশ্য। সা'দী যোগ করেন এর রুকন, শর্ত আর পূর্ণতাদানকারী অংশগুলো, বাইরে ও ভেতরে দুই দিকেই। মাআরিফুল কুরআন খেয়াল করায়, কুরআন এখানে ইকামা শব্দ ব্যবহার করেছে, যা অভ্যাসবশে নামায পড়ে যাওয়ার চেয়ে বেশি কিছু দাবি করে।"
+          },
+          {
+            "en": "Wa-anfaqu mimma razaqnahum: and they spent from what We provided them. Ibn 'Abbas, in both at-Tabari and al-Qurtubi, says the zakat. At-Tabari widens it to the obligatory zakat together with spending in every way Allah ordered. Ibn Kathir names the receivers: those they are bound to support, wives and relatives, then strangers, the poor, the needy and the destitute. As-Sa'di includes the obligatory dues, zakat and expiations, and the voluntary, given wherever need calls. Ma'arif reads a hint in the wording: what is asked is only a portion of what He gave.",
+            "bn": "ওয়া আনফাকূ মিম্মা রাযাকনাহুম: আর আমি তাদের যে রিযিক দিয়েছি তা থেকে তারা খরচ করেছে। তাবারী ও কুরতুবী দুজনের বর্ণনাতেই ইবন আব্বাস (রাঃ) বলেন, এর মানে যাকাত। তাবারী পরিসর বাড়িয়ে ফরয যাকাতের সঙ্গে আল্লাহর নির্দেশিত সব পথে খরচকেও ধরেন। ইবন কাসীর জানান কারা পাবে: যাদের ভরণপোষণ তাদের দায়িত্ব, অর্থাৎ স্ত্রী ও আত্মীয়স্বজন, তারপর অনাত্মীয়, ফকির, অভাবী আর মিসকিন। সা'দী ধরেন ফরয দায়, যেমন যাকাত ও কাফফারা, আর নফল দানও, যেখানে প্রয়োজন ডাক দেয়। মাআরিফ এই শব্দচয়নে একটা ইঙ্গিত দেখে: চাওয়া হয়েছে তাঁর দেওয়া সম্পদের একটা অংশমাত্র।"
+          },
+          {
+            "en": "Sirran wa-'alaniyatan: secretly and openly. Ibn Kathir reads it as constancy: no state kept them from giving, through the hours of the night and the ends of the day. The Muyassar applies it to both the obligatory zakat and the recommended spending. Ma'arif al-Qur'an draws a ruling, credited to religious scholars: obligatory zakat is better given openly, so that others are encouraged to do the same, while voluntary charity is better given secretly. The narrations that praise hidden giving, it says, concern those voluntary gifts.",
+            "bn": "সিররান ওয়া আলানিয়াতান: গোপনে ও প্রকাশ্যে। ইবন কাসীর একে ধারাবাহিকতা হিসেবে পড়েন: কোনো অবস্থাই তাদের দান থেকে আটকাতে পারেনি, রাতের প্রহরে হোক বা দিনের প্রান্তে প্রান্তে। মুয়াসসার কথাটা ফরয যাকাত আর মুস্তাহাব খরচ দুটোর বেলাতেই খাটায়। মাআরিফুল কুরআন আলেমদের বরাতে একটা বিধান টানে। ফরয যাকাত প্রকাশ্যে দেওয়া উত্তম, যাতে অন্যরাও উৎসাহ পায়। আর নফল সদকা গোপনে দেওয়া উত্তম। মাআরিফের কথায়, গোপন দানের প্রশংসায় যেসব বর্ণনা এসেছে, সেগুলো এই নফল দান নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pushing Harm Back With Kindness",
+          "bn": "কষ্টের জবাবে সদাচরণ"
+        },
+        "p": [
+          {
+            "en": "Wa-yadra'una bi-l-hasanati as-sayyi'a: and they push back the bad with the good. At-Tabari glosses the verb as yadfa'una, they repel, and reads the clause about other people: they push back the wrong done to them by doing good to those who did it. He narrates the same from Ibn Zayd, whose words al-Qurtubi also gives: they push back evil with good, they do not repay evil with evil, but push it back with good.",
+            "bn": "ওয়া ইয়াদরাঊনা বিল হাসানাতিস সাইয়্যিআহ: আর তারা ভালো দিয়ে মন্দকে ঠেলে সরায়। তাবারী ক্রিয়াটির অর্থ করেন ইয়াদফাঊনা, অর্থাৎ প্রতিহত করে। তিনি বাক্যটি পড়েন মানুষের সঙ্গে আচরণের প্রসঙ্গে: কেউ তাদের সঙ্গে অন্যায় করলে তারা তার সঙ্গে সদাচরণ করে সেই অন্যায় ফিরিয়ে দেয়। একই কথা তিনি ইবন যায়দ থেকে বর্ণনা করেন, আর কুরতুবীও তাঁর কথা আনেন: তারা মন্দকে ঠেলে সরায় ভালো দিয়ে, মন্দের বদলা মন্দ দিয়ে দেয় না।"
+          },
+          {
+            "en": "Ibn Kathir puts it as pushing back the ugly with the beautiful: when anyone harms them, they meet him with grace, out of patience, forbearance, overlooking and pardon. He cites 41:34 and 41:35, where Allah commands repelling with what is better, so that the one between whom and you was enmity becomes like a devoted friend, and none is granted it but those who are patient. The same command, idfa' bi-llati hiya ahsanu as-sayyi'a, repel the bad with what is better, stands in 23:96. The verse that opened with patience shows here what patience is for.",
+            "bn": "ইবন কাসীর বলেন, তারা কুৎসিতকে সুন্দর দিয়ে ঠেকায়। কেউ তাদের কষ্ট দিলে তারা ধৈর্য, সহনশীলতা, উপেক্ষা আর ক্ষমা দিয়ে তার সঙ্গে সুন্দর ব্যবহার করে। তিনি ৪১:৩৪ ও ৪১:৩৫ আয়াত উদ্ধৃত করেন। সেখানে আল্লাহ উত্তম পন্থায় প্রতিহত করার আদেশ দেন, যাতে যার সঙ্গে শত্রুতা ছিল সে অন্তরঙ্গ বন্ধুর মতো হয়ে যায়। আর ধৈর্যশীলরা ছাড়া এ গুণ কেউ পায় না। একই আদেশ আছে ২৩:৯৬ আয়াতে: ইদফা বিল্লাতী হিয়া আহসানুস সাইয়্যিআহ, যা উত্তম তা দিয়ে মন্দকে প্রতিহত করো। যে আয়াত ধৈর্য দিয়ে শুরু হয়েছিল, এখানে এসে দেখা যায় সেই ধৈর্যের কাজটা কী।"
+          },
+          {
+            "en": "As-Sa'di makes it concrete. Whoever wrongs them in word or deed, they do not answer with his own act; they give to whoever withheld from them, pardon whoever wronged them, keep ties with whoever cut them, and do good to whoever did them ill. If this is how they treat the wrongdoer, he asks, what do you suppose of how they treat everyone else? Al-Baghawi has nearly the same three pairs from al-Hasan, and from Qatada that they returned kindness, citing 25:63.",
+            "bn": "সা'দী বিষয়টা হাতে-কলমে দেখান। কেউ কথায় বা কাজে তাদের সঙ্গে অন্যায় করলে তারা তার মতো করে জবাব দেয় না। যে তাদের বঞ্চিত করে, তাকে দেয়। যে জুলুম করে, তাকে ক্ষমা করে। যে সম্পর্ক ছিন্ন করে, তার সঙ্গে সম্পর্ক জোড়ে। যে মন্দ করে, তার প্রতি সদয় হয়। তিনি প্রশ্ন রাখেন: অন্যায়কারীর সঙ্গেই যদি এমন আচরণ, তবে বাকিদের সঙ্গে তাদের আচরণ কেমন হবে ভাবুন। বাগাভী হাসান থেকে প্রায় এই তিনটি জোড়াই আনেন। আর কাতাদা থেকে আনেন, তারা উত্তম আচরণ ফিরিয়ে দিত, সঙ্গে ২৫:৬৩ আয়াতের উল্লেখ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Wrong Is Mine",
+          "bn": "মন্দটা যখন নিজের"
+        },
+        "p": [
+          {
+            "en": "The same words carry a second reading, deed against deed. Al-Qurtubi and al-Baghawi both report from Ibn 'Abbas: they push back the bad among their deeds with righteous deeds. Al-Baghawi calls this the sense of 11:114, good deeds remove bad deeds, and al-Qurtubi cites the same verse. Ibn Shajara in al-Qurtubi and Ibn Kaysan in al-Baghawi say they push back sin with repentance. Al-Qurtubi adds unnamed views: when they intend a bad deed they turn back and seek forgiveness, and they push back shirk with the testimony that there is no god but Allah.",
+            "bn": "একই শব্দে দ্বিতীয় পাঠও আছে: আমলের বদলে আমল। কুরতুবী ও বাগাভী দুজনেই ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: তারা নেক আমল দিয়ে নিজেদের মন্দ আমলকে ঠেলে সরায়। বাগাভী বলেন, ১১:১১৪ আয়াতের অর্থও এটাই, নেক আমল মন্দ আমলকে মিটিয়ে দেয়। কুরতুবীও একই আয়াত উল্লেখ করেন। কুরতুবীতে ইবন শাজারা আর বাগাভীতে ইবন কায়সান বলেন, তারা তওবা দিয়ে গুনাহকে ঠেকায়। কুরতুবী নাম ছাড়া আরও দুটি মত আনেন। মন্দ কাজের ইচ্ছা জাগলে তারা ফিরে আসে আর ইস্তিগফার করে। আর লা ইলাহা ইল্লাল্লাহর সাক্ষ্য দিয়ে তারা শিরককে প্রতিহত করে।"
+          },
+          {
+            "en": "Al-Qurtubi gathers nine sayings in all. Besides those already named, Sa'id ibn Jubayr says the wrong with the right, ad-Dahhak says obscenity with a greeting of peace, Juwaybir says injustice with pardon, and al-Qutabi says the folly of the ignorant with forbearance. His verdict: their meanings are close, and the first, Ibn 'Abbas's, takes in all of them by its generality. Ma'arif al-Qur'an gives the interpersonal sense first and the sin-and-repentance sense from some commentators. So on al-Qurtubi's account the two faces of the clause are not rivals.",
+            "bn": "সব মিলিয়ে কুরতুবী নয়টি মত জড়ো করেন। ওপরে যাদের নাম এসেছে, তাঁদের বাইরে সাঈদ ইবন জুবায়র বলেন, অন্যায়কে ন্যায় দিয়ে। দাহহাক বলেন, অশ্লীলতাকে সালাম দিয়ে। জুওয়াইবির বলেন, জুলুমকে ক্ষমা দিয়ে। কুতাবী বলেন, অজ্ঞের নির্বুদ্ধিতাকে সহনশীলতা দিয়ে। কুরতুবীর রায়: সবগুলোর অর্থ কাছাকাছি, আর প্রথমটি, অর্থাৎ ইবন আব্বাসের মত, ব্যাপকতার কারণে সবগুলোকেই ধারণ করে। মাআরিফুল কুরআন আগে মানুষের সঙ্গে আচরণের অর্থটি দেয়, তারপর কয়েকজন তাফসীরকারের বরাতে গুনাহ ও তওবার অর্থ। কুরতুবীর হিসাবে তাই বাক্যটির দুই দিক পরস্পরের প্রতিদ্বন্দ্বী নয়।"
+          },
+          {
+            "en": "Al-Qurtubi sets beside the verse the Prophet's ﷺ words to Mu'adh: follow the bad deed with a good one and it will wipe it out. At-Tirmidhi records it, number 1987, from Abu Dharr: \"Have Taqwa of Allah wherever you are, and follow an evil deed with a good one to wipe it out, and treat the people with good behavior.\" He grades it hasan sahih. He also gives a chain through Mu'adh, and reports from Mahmud ibn Ghaylan, who narrated it to him, that the sound version is Abu Dharr's. It is general counsel, not narrated about this verse.",
+            "bn": "কুরতুবী আয়াতের পাশে রাখেন মুআয (রাঃ)-কে বলা নবী ﷺ-এর কথা: মন্দ কাজের পর একটা ভালো কাজ করো, তা মন্দটাকে মুছে দেবে। তিরমিযী আবূ যার (রাঃ) থেকে হাদিসটি বর্ণনা করেছেন, নম্বর ১৯৮৭: \"তুমি যেখানেই থাকো আল্লাহকে ভয় করো, মন্দ কাজের পর ভালো কাজ করো, তা মন্দটাকে মুছে দেবে, আর মানুষের সঙ্গে সুন্দর আচরণ করো।\" তিনি একে হাসান সহীহ বলেছেন। মুআযের সূত্রেও তিনি একটি সনদ দেন, আর যিনি তাঁকে হাদিসটি শুনিয়েছেন সেই মাহমূদ ইবন গাইলানের বরাতে জানান, সঠিক বর্ণনা আবূ যারেরটি। এটি সাধারণ উপদেশ, এ আয়াত প্রসঙ্গে বর্ণিত নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing the same counsel to Mu'adh, adds a condition: the good deed washes off the sin when the person reflects, feels ashamed, repents and makes amends. Simply doing something good, without first feeling remorse and repenting, is not enough for that sin to be forgiven. The Muyassar's short gloss uses the hadith's own verb: they push back the bad with the good, and it wipes it out.",
+            "bn": "মুআয (রাঃ)-কে দেওয়া একই উপদেশ উল্লেখ করে মাআরিফুল কুরআন একটা শর্ত জুড়ে দেয়। মানুষ যখন ভেবে দেখে, লজ্জিত হয়, তওবা করে আর শুধরে নেয়, তখনই নেক আমল গুনাহকে ধুয়ে দেয়। আগে অনুতপ্ত না হয়ে, তওবা না করে শুধু একটা ভালো কাজ করে ফেললে সেই গুনাহ মাফের জন্য তা যথেষ্ট নয়। মুয়াসসারের সংক্ষিপ্ত ব্যাখ্যায় হাদিসের সেই ক্রিয়াটিই এসেছে: তারা ভালো দিয়ে মন্দকে ঠেলে সরায়, আর তা মন্দটাকে মুছে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Home That Follows",
+          "bn": "যে ঘর পরে আসে"
+        },
+        "p": [
+          {
+            "en": "Ula'ika lahum 'uqba ad-dar: those will have the sequel of the home. At-Tabari reads 'uqba as an exchange: Allah gave them, in place of the home in the Fire that would have been theirs had they not believed, the home of the Gardens. He adds a second reading, introduced with it has been said: theirs, following their obedience to their Lord in this world, is the home of the Gardens. Al-Qurtubi says the outcome of the Hereafter, the Garden in place of the Fire, since tomorrow there are only two homes, and the obedient have the Garden.",
+            "bn": "উলাইকা লাহুম উকবাদ দার: ঘরের শুভ পরিণাম এদেরই জন্য। তাবারী উকবাকে পড়েন বদল হিসেবে। ঈমান না আনলে জাহান্নামে যে ঘর তাদের হতো, তার বদলে আল্লাহ তাদের দিয়েছেন জান্নাতের ঘর। 'বলা হয়েছে' কথাটি দিয়ে তিনি দ্বিতীয় একটি পাঠও আনেন: দুনিয়ায় রবের আনুগত্যের পর তাদের প্রাপ্য জান্নাতের ঘর। কুরতুবী বলেন, এর মানে আখেরাতের পরিণাম, জাহান্নামের বদলে জান্নাত। কারণ আগামীকাল ঘর মাত্র দুটি, অনুগতদের জন্য জান্নাত আর নাফরমানদের জন্য জাহান্নাম। অনুগতদের গুণ যেহেতু বলা হলো, তাদের ঘর নিশ্চয়ই জান্নাত।"
+          },
+          {
+            "en": "Some read ad-dar as this world. Al-Qurtubi reports that they have the reward of their obedience in the home of this world. Ma'arif al-Qur'an gives the Hereafter first, then the view that good people, though they meet hardship here, are in the end the ones who succeed here too; Ibn Kathir's abridged commentary speaks of triumph in this life and the Hereafter. Al-Baghawi says the Garden, then reports 'Abdullah ibn al-Mubarak: these are eight traits pointing to the eight gates of the Garden. The next verse, 13:23, names that Garden, and 13:24 has its own article.",
+            "bn": "কেউ কেউ দার বলতে দুনিয়া বোঝেন। কুরতুবী একটি মত আনেন: দুনিয়ার ঘরেই তারা আনুগত্যের প্রতিদান পায়। মাআরিফুল কুরআন আগে আখেরাতের কথা বলে, তারপর এ মত আনে যে নেককাররা দুনিয়ায় কষ্টের মুখোমুখি হলেও শেষ পর্যন্ত এখানেও তারাই সফল। ইবন কাসীরের সংক্ষিপ্ত তাফসীরে আছে দুনিয়া ও আখেরাত দুই জায়গার বিজয়ের কথা। বাগাভী বলেন, এর মানে জান্নাত। তারপর আবদুল্লাহ ইবনুল মুবারকের কথা আনেন: এগুলো আটটি গুণ, যা জান্নাতের আটটি দরজার দিকে ইঙ্গিত করে। পরের আয়াত ১৩:২৩ সেই জান্নাতের নাম বলে, আর ১৩:২৪ নিয়ে আলাদা লেখা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Good Answer This Week",
+          "bn": "এ সপ্তাহের একটি ভালো জবাব"
+        },
+        "p": [
+          {
+            "en": "The Qur'an repeats the clause word for word in 28:54, yadra'una bi-l-hasanati as-sayyi'a, again beside patience and spending, and promises its people their reward twice. Take the outward face first. Think of one person whose word or act still sits in your chest. Before the week ends, choose a single good to send back, from as-Sa'di's list: a gift where they withheld, a pardon where they wronged, a call where they cut you off, a kindness where they did ill.",
+            "bn": "কুরআন ২৮:৫৪ আয়াতে বাক্যটি হুবহু আবার এনেছে, ইয়াদরাঊনা বিল হাসানাতিস সাইয়্যিআহ। সেখানেও পাশে আছে ধৈর্য আর খরচের কথা, আর সেখানে তাদের দ্বিগুণ প্রতিদানের প্রতিশ্রুতি। আগে বাইরের দিকটা ধরুন। এমন একজন মানুষের কথা ভাবুন, যার কোনো কথা বা কাজ এখনো আপনার বুকে চেপে আছে। সপ্তাহ শেষ হওয়ার আগে সা'দীর তালিকা থেকে একটা ভালো কাজ বেছে নিন। সে বঞ্চিত করেছে, আপনি কিছু দিন। সে জুলুম করেছে, আপনি ক্ষমা করুন। সে সম্পর্ক কেটেছে, আপনি ফোন করুন। সে মন্দ করেছে, আপনি সদয় হোন।"
+          },
+          {
+            "en": "Answering with good does not mean pretending the harm never happened, and where harm is ongoing, seeking help is no failure of this trait. Then the inward face. The next time you slip, do not let the day close on it. Turn back to Allah in repentance, as Ma'arif's condition asks, and set a specific good deed behind the slip: a prayer, a word of remembrance, or a gift given in secret. Patience opens the verse and this trait closes its list, and the two belong together.",
+            "bn": "ভালো দিয়ে জবাব দেওয়া মানে এই ভান করা নয় যে কষ্টটা ঘটেনি। আর কষ্ট যদি চলতেই থাকে, তবে সাহায্য চাওয়া এ গুণের খেলাপ নয়। এবার ভেতরের দিকটা। পরের বার ভুল করে ফেললে সেটা নিয়ে দিন শেষ হতে দেবেন না। মাআরিফের শর্ত মেনে তওবা করে আল্লাহর দিকে ফিরুন, তারপর ভুলটার পেছনে নির্দিষ্ট একটা নেক আমল জুড়ে দিন: একটু নামায, কিছু জিকির, কিংবা গোপনে একটা দান। আয়াতের শুরুতে ধৈর্য, তালিকার শেষে এই গুণ, আর দুটি একসঙ্গেই চলে।"
+          }
+        ]
+      }
+    ]
+  },
   "13:24": {
     "sections": [
       {

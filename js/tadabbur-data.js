@@ -21991,6 +21991,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let an ordinary, comfortable day persuade you that you are safe; turn back to Allah now, because His punishment and the Hour come without warning.",
     "lessonBn": "সাধারণ, আরামের একটা দিন যেন আপনাকে নিশ্চিন্ত করে না দেয়। এখনই আল্লাহর দিকে ফিরে আসুন, কারণ তাঁর শাস্তি আর কিয়ামত আসে কোনো আগাম খবর ছাড়াই।"
+  },
+  "13:22": {
+    "reflectionEn": "The portrait of the people of understanding keeps growing, and this verse adds four strokes. They were patient, and their patience faced their Lord, not the crowd. They kept the prayer upright. They gave from what He had given them, in private and in the open. And they push back evil with good. That last trait can face outward, when someone wrongs me and I answer with kindness, or inward, when I have done wrong and I follow it at once with a good deed. Both are the work of a lifetime, and the verse promises them the best end of the home. So whose harm is sitting with me now, and what good could I send back?",
+    "reflectionBn": "বোধসম্পন্ন মানুষদের ছবিটা আঁকা চলছে, আর এ আয়াত তাতে আরও চারটি রেখা যোগ করে। তারা ধৈর্য ধরেছে, আর সেই ধৈর্য ছিল রবের দিকে মুখ করে, মানুষের বাহবার দিকে নয়। নামায তারা ঠিকঠাক কায়েম রেখেছে। তাদের যা দেওয়া হয়েছে, তা থেকে গোপনে আর প্রকাশ্যে খরচ করেছে। আর মন্দকে তারা ঠেলে সরায় ভালো দিয়ে। এই শেষ গুণটার মুখ বাইরের দিকেও হতে পারে: কেউ আমার সঙ্গে অন্যায় করল, আমি জবাব দিলাম সদয় আচরণে। ভেতরের দিকেও হতে পারে: আমি নিজে গুনাহ করে ফেললাম, আর সঙ্গে সঙ্গে তার পেছনে একটা নেক আমল জুড়ে দিলাম। দুটোই সারা জীবনের সাধনা, আর আয়াতটি এদের জন্যই ঘরের শুভ পরিণামের কথা দেয়। তাহলে কার দেওয়া কষ্ট এখন আমার মনে চেপে বসে আছে, আর তার বদলে আমি কোন ভালোটা ফিরিয়ে দিতে পারি?",
+    "pointsEn": [
+      "When I hold back from something wrong, who am I really holding back for: my Lord, my reputation, or simply because I had no chance?",
+      "Is my prayer upright, kept on time and with my heart present, or only said?",
+      "Do I give only where I can be seen, or only where I can hide, when the verse praises both?",
+      "Who hurt me recently, and what is one good thing I could do in return this week?",
+      "After my last sin, what good deed did I set behind it, and did I first turn back to Allah in repentance?"
+    ],
+    "pointsBn": [
+      "অন্যায় থেকে যখন নিজেকে সামলে রাখি, আসলে কার জন্য রাখি? রবের জন্য, নিজের সুনামের জন্য, নাকি শুধু সুযোগ পাইনি বলে?",
+      "আমার নামায কি সত্যিই কায়েম, সময়মতো আর মন হাজির রেখে? নাকি শুধু মুখে পড়ে যাওয়া?",
+      "আয়াত গোপন আর প্রকাশ্য দুই রকম দানেরই প্রশংসা করে। আমি কি কেবল লোকের চোখের সামনে দিই, নাকি কেবল আড়ালে?",
+      "সম্প্রতি কে আমাকে কষ্ট দিয়েছে? এ সপ্তাহে তার বদলে আমি কোন একটা ভালো কাজ করতে পারি?",
+      "শেষ যে গুনাহটা করেছি, তার পেছনে কোন নেক আমল জুড়ে দিয়েছি? আর তার আগে কি তওবা করে আল্লাহর দিকে ফিরেছি?"
+    ],
+    "lessonEn": "When someone wrongs you this week, answer with one deliberate good, and when you slip, follow the slip at once with repentance and a good deed.",
+    "lessonBn": "এ সপ্তাহে কেউ আপনার সঙ্গে অন্যায় করলে জেনেবুঝে একটা ভালো কাজ দিয়ে জবাব দিন, আর নিজে ভুল করে ফেললে সঙ্গে সঙ্গে তওবা করে তার পেছনে একটা নেক আমল জুড়ে দিন।"
   }
 };
 
