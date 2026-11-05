@@ -23511,6 +23511,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever takes Allah's place in the heart can be burned and scattered in a day; let go of it now, before it leaves you as alone as it left him.",
     "lessonBn": "অন্তরে আল্লাহর জায়গা যা দখল করে, তা এক দিনেই পুড়ে ছাই হয়ে উড়ে যেতে পারে। তা আপনাকে ওই লোকটির মতো একা করে ফেলার আগেই এখন তা ছেড়ে দিন।"
+  },
+  "21:49": {
+    "reflectionEn": "The verse before this one names a light and a reminder given to Moses and Aaron for the God-fearing. This verse says who they are: people who fear their Lord unseen, though they have never seen Him, and in the hours when no one sees them; and who are apprehensive of the Hour. Three verses back, others cry woe to us only once a breath of punishment has touched them. The God-fearing do not wait for the touch. Their fear comes early, and it does its work in private: it keeps them from what is forbidden and holds them to what is required. So the verse leaves me a plain question. Who am I when the door is shut and no one would ever know?",
+    "reflectionBn": "আগের আয়াতে বলা হয়েছে, মূসা (আঃ) ও হারূন (আঃ)-কে দেওয়া হয়েছিল আলো আর উপদেশ, মুত্তাকীদের জন্য। এ আয়াত জানিয়ে দেয় তারা কারা। তারা না দেখেই রবকে ভয় করে। তাঁকে তারা কখনো দেখেনি, আর ভয়টা থাকে সেই সময়েও, যখন কেউ তাদের দেখছে না। কিয়ামাতের কথা ভেবেও তারা শঙ্কিত থাকে। তিন আয়াত আগে আরেক দলের কথা আছে। আযাবের একটু ঝাপটা গায়ে লাগলে তবেই তারা হায় হায় করে ওঠে। মুত্তাকীরা সেই ঝাপটার অপেক্ষায় বসে থাকে না। তাদের ভয় আসে আগেভাগে, আর কাজ করে নিভৃতে। হারাম থেকে তাদের সরিয়ে রাখে, ফরযের উপর ধরে রাখে। তাই আয়াতটা আমার সামনে একটা সাদামাটা প্রশ্ন রেখে যায়। দরজা বন্ধ, কেউ কোনোদিন জানবে না, তখন আমি আসলে কে?",
+    "pointsEn": [
+      "What do I do differently when I am sure no one is watching, and what does that difference say about whom I really fear?",
+      "Is my care with what is forbidden the same in a closed room as in a crowded one?",
+      "Do I wait for a scare, an illness or a loss before I turn back, or does the thought of the Hour move me while things are well?",
+      "If the Hour came before my next repentance, which neglected duty would I most regret?",
+      "Which private habit could I change this week so that my unseen hours match my seen ones?"
+    ],
+    "pointsBn": [
+      "কেউ দেখছে না বলে নিশ্চিত হলে আমি কী কী অন্যভাবে করি? আর সেই তফাতটা বলে দেয়, আসলে আমি কাকে ভয় করি?",
+      "হারাম থেকে বাঁচার যে সতর্কতা ভিড়ের মধ্যে থাকে, বন্ধ ঘরেও কি তা একই রকম থাকে?",
+      "ফিরে আসার জন্য আমি কি কোনো ভয়, অসুখ বা ক্ষতির অপেক্ষায় থাকি? নাকি সব ঠিকঠাক থাকতেই কিয়ামাতের কথা আমাকে নাড়া দেয়?",
+      "পরের তওবার আগেই যদি কিয়ামাত এসে যায়, অবহেলায় ফেলে রাখা কোন ফরযের জন্য সবচেয়ে বেশি আফসোস হবে?",
+      "এ সপ্তাহে নিভৃতের কোন অভ্যাসটা বদলালে আমার না-দেখা সময় আর দেখা সময় এক রকম হয়ে যাবে?"
+    ],
+    "lessonEn": "Fear Allah where no one sees you, and keep the Hour in mind before any warning touches you; what you do in private is the truest measure of your sincerity.",
+    "lessonBn": "যেখানে কেউ দেখে না, সেখানেও আল্লাহকে ভয় করুন, আর কোনো সতর্কসংকেত গায়ে লাগার আগেই কিয়ামাতের কথা মনে রাখুন। নিভৃতে আপনি যা করেন, সেটাই আপনার ইখলাসের সবচেয়ে সত্য মাপকাঠি।"
   }
 };
 

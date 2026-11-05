@@ -1763,6 +1763,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who the Muttaqin Are",
+          "bn": "মুত্তাকী কারা, তার উত্তর"
+        },
+        "p": [
+          {
+            "en": "Alladhina yakhshawna rabbahum bi-l-ghaybi wa hum mina s-sa'ati mushfiqun: those who fear their Lord unseen, while they are apprehensive of the Hour. The verse opens with alladhina, those who, and has no main clause of its own. It completes a sentence begun in 21:48, where Allah says He gave Musa and Harun (AS) al-Furqan, a light and a reminder li-l-muttaqin, for the God-fearing. That verse, with the scales of 21:47, has its own article. Here it is the frame: 21:49 says who those God-fearing are.",
+            "bn": "আল্লাযীনা ইয়াখশাওনা রাব্বাহুম বিল-গায়বি ওয়া হুম মিনাস সাআতি মুশফিকূন: যারা না দেখেই তাদের রবকে ভয় করে, আর কিয়ামাতের ব্যাপারে থাকে শঙ্কিত। আয়াতটি শুরু হয়েছে আল্লাযীনা দিয়ে, অর্থাৎ যারা। এর নিজের কোনো মূল বাক্য নেই। ২১:৪৮ আয়াতে যে কথা শুরু হয়েছিল, এ আয়াত সেটাকেই পূর্ণ করে। সেখানে আল্লাহ বলেছেন, তিনি মূসা (আঃ) ও হারূন (আঃ)-কে দিয়েছিলেন ফুরকান, আলো আর উপদেশ, লিল-মুত্তাকীন, মুত্তাকীদের জন্য। ২১:৪৭ আয়াতের মানদণ্ডসহ সেই আয়াতের আলোচনা আলাদা প্রবন্ধে আছে। এখানে তার কাজ শুধু প্রেক্ষাপট দেওয়া। ২১:৪৯ জানিয়ে দেয়, সেই মুত্তাকীরা কারা।"
+          },
+          {
+            "en": "The commentators read it so. Ibn Kathir opens with thumma wasafahum, then He described them. As-Sa'di writes thumma fassara al-muttaqin, then He explained who the God-fearing are. At-Tabari carries the sentence straight on: the reminder given to the two brothers is for the muttaqin who fear their Lord unseen. Al-Muyassar runs both verses as one statement: a Book, the Torah, by which truth was parted from falsehood, and a light that guides the God-fearing who fear their Lord's punishment. Taqwa is not left as a title of honour; it is defined, in eight Arabic words.",
+            "bn": "তাফসীরকারেরা আয়াতটিকে ঠিক এভাবেই পড়েন। ইবন কাসীর শুরু করেন ছুম্মা ওয়াসাফাহুম বলে: তারপর তিনি তাদের পরিচয় দিলেন। সা'দী লেখেন ছুম্মা ফাসসারাল মুত্তাকীন: তারপর তিনি বুঝিয়ে দিলেন মুত্তাকী কারা। তাবারী বাক্যটাকে থামতে দেন না। তাঁর ভাষায়, দুই ভাইকে দেওয়া উপদেশ সেই মুত্তাকীদের জন্য, যারা না দেখে রবকে ভয় করে। মুয়াসসার দুই আয়াতকে একটানা এক বক্তব্য হিসেবে পড়ে: এক কিতাব, তাওরাত, যা দিয়ে হক ও বাতিল আলাদা করা হয়েছে, আর এক আলো, যা পথ দেখায় সেই মুত্তাকীদের, যারা রবের শাস্তিকে ভয় করে। তাকওয়া তাই এখানে শুধু সম্মানের উপাধি নয়। আরবির মাত্র আটটি শব্দে তার সংজ্ঞা দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear That Guards the Limits",
+          "bn": "যে ভয় সীমার পাহারা দেয়"
+        },
+        "p": [
+          {
+            "en": "Yakhshawna, they fear. At-Tabari glosses it yakhafuna, al-Baghawi yakhafunahu, they fear Him, and al-Muyassar names the object more closely: they fear the punishment of their Lord. At-Tabari says what that punishment is for. They fear that He will punish them in the Hereafter, when they come before Him, for having let slip the obligations He laid on them. The verse itself names rabbahum, their Lord, as the object; the commentators hold both together, the Lord and the reckoning that is His.",
+            "bn": "ইয়াখশাওনা, তারা ভয় করে। তাবারী এর অর্থ করেন ইয়াখাফূনা, বাগাভী ইয়াখাফূনাহু, অর্থাৎ তাঁকে ভয় করে। মুয়াসসার ভয়ের বিষয়টা আরও খুলে বলে: তারা ভয় করে রবের শাস্তিকে। শাস্তিটা কীসের জন্য, তাবারী তাও বলেন। তারা আশঙ্কা করে, আখিরাতে যখন তাঁর সামনে হাজির হবে, তখন তিনি তাদের ধরবেন। কারণ তিনি যে ফরযগুলো তাদের উপর দিয়েছিলেন, সেগুলো তারা নষ্ট করেছে। আয়াত নিজে ভয়ের লক্ষ্য হিসেবে নাম নেয় রাব্বাহুম, তাদের রবের। তাফসীরকারেরা দুটোকে একসঙ্গে রাখেন: রব, আর তাঁর হাতের হিসাব।"
+          },
+          {
+            "en": "Both at-Tabari and as-Sa'di measure the fear by what it produces. At-Tabari: fa-hum min khashyatihi yuhafizuna 'ala hududihi wa fara'idihi, out of their fear of Him they keep watch over His limits and His obligations. As-Sa'di: fa-yatawarra'una 'amma harrama wa yaquomuna bima alzama, they hold back scrupulously from what He forbade and carry out what He required. Neither describes a feeling and stops there; both describe a life arranged around it. A dread that changes nothing in conduct is not what these two commentators find in the word.",
+            "bn": "তাবারী ও সা'দী দুজনেই ভয়কে মাপেন তার ফল দিয়ে। তাবারী বলেন: ফাহুম মিন খাশইয়াতিহী ইউহাফিযূনা আলা হুদূদিহী ওয়া ফারাইদিহী। তাঁর ভয়েই তারা তাঁর সীমারেখা আর ফরযগুলোর পাহারা দেয়। সা'দী বলেন: ফাইয়াতাওয়াররাঊনা আম্মা হাররামা ওয়া ইয়াকূমূনা বিমা আলযামা। যা তিনি হারাম করেছেন, তা থেকে তারা সযত্নে দূরে থাকে, আর যা তিনি বাধ্যতামূলক করেছেন, তা পালন করে। কেউই শুধু একটা অনুভূতির কথা বলে থেমে যান না। দুজনেই বর্ণনা করেন এমন এক জীবন, যা সেই ভয়কে ঘিরে সাজানো। যে আতঙ্ক আমলে কিছুই বদলায় না, এ দুই তাফসীরকার শব্দটির মধ্যে সেটা খুঁজে পান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unseen, Yet Reasoned Out",
+          "bn": "না দেখেও যুক্তিতে চেনা"
+        },
+        "p": [
+          {
+            "en": "Bi-l-ghayb, in the unseen, is where the commentators spend most of their words, and they find more than one layer in it. Al-Baghawi gives the plainest: yakhafunahu wa lam yarawhu, they fear Him though they have not seen Him. Al-Qurtubi says the same and then explains how such fear is possible. They are gha'ibin, unseeing, because they have not seen Allah; bal 'arafu bi-n-nazar wa-l-istidlal, rather they came to know, by reflection and by reasoning from evidence, that they have a Lord who is able and who requites deeds.",
+            "bn": "বিল-গায়ব, অর্থাৎ অদৃশ্যে। তাফসীরকারেরা সবচেয়ে বেশি কথা বলেছেন এ শব্দটি নিয়েই, আর এর ভেতরে একাধিক স্তর খুঁজে পেয়েছেন। সবচেয়ে সরল ব্যাখ্যা বাগাভীর: ইয়াখাফূনাহু ওয়া লাম ইয়ারাওহু, তারা তাঁকে ভয় করে, অথচ তাঁকে দেখেনি। কুরতুবীও একই কথা বলেন, তারপর বুঝিয়ে দেন এমন ভয় কীভাবে সম্ভব। তারা গায়িবীন, দেখা থেকে দূরে, কারণ আল্লাহকে তারা দেখেনি। বাল আরাফূ বিন-নাযারি ওয়াল-ইসতিদলাল: বরং চিন্তা করে আর প্রমাণ থেকে যুক্তি টেনে তারা জেনে নিয়েছে, তাদের একজন রব আছেন, যিনি সর্বশক্তিমান এবং আমলের প্রতিদান দেন।"
+          },
+          {
+            "en": "This fear is not the fright of someone who has seen a thing and recoiled. It is the end of a line of thought: there is a Lord, He is able, and He repays what is done. A person who has reasoned that far carries the fear into every room, because it does not depend on anything being visible. The surah has already set such evidence before its listeners, in 21:30 among other places; what the God-fearing add is not a sight but the reasoning that turns it into reverence.",
+            "bn": "কিছু একটা দেখে কেউ আঁতকে উঠল, এ ভয় তেমন নয়। এ ভয় একটা চিন্তার শেষ ধাপ। একজন রব আছেন, তিনি সব পারেন, আর যা করা হয় তার প্রতিদান তিনি দেবেন। যে মানুষ এতদূর ভেবে পৌঁছেছে, তার ভয় সঙ্গে চলে প্রতিটি ঘরে, কারণ কিছু চোখের সামনে থাকা না থাকার উপর তা নির্ভর করে না। এমন প্রমাণ সূরাটি আগেই শ্রোতাদের সামনে রেখেছে, ২১:৩০ আয়াতসহ আরও কয়েক জায়গায়। মুত্তাকীরা বাড়তি যা যোগ করে, তা নতুন কোনো দেখা নয়। তা সেই চিন্তা, যা দেখাকে ভক্তিতে বদলে দেয়।"
+          },
+          {
+            "en": "At-Tabari adds another angle. He glosses bi-l-ghayb as ya'ni fi d-dunya, meaning in this world: they fear, here and now, that He will punish them in the Hereafter. On his reading the unseen is everything that still lies ahead. These are emphases rather than rival positions: the Lord who is not seen, in al-Baghawi and al-Qurtubi, and the life to come that is not yet seen, in at-Tabari. A third layer, which most readers feel first, comes next.",
+            "bn": "তাবারী আরেকটি দিক যোগ করেন। বিল-গায়বের ব্যাখ্যায় তিনি বলেন: ইয়া'নী ফিদ-দুনইয়া, অর্থাৎ এই দুনিয়াতে। তারা এখনই, এখানে বসেই ভয় করে যে আখিরাতে তিনি তাদের শাস্তি দেবেন। তাঁর পাঠে অদৃশ্য মানে সামনে যা কিছু অপেক্ষা করছে, তার সবটা। এগুলো পরস্পরবিরোধী মত নয়, একেকজনের জোর একেক জায়গায়। বাগাভী ও কুরতুবীর কাছে অদৃশ্য সেই রব, যাঁকে দেখা যায় না। তাবারীর কাছে অদৃশ্য সেই পরকাল, যা এখনো দেখা হয়নি। তৃতীয় স্তরটি, পাঠক সাধারণত যা আগে টের পান, আসছে পরের অংশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Absent From Every Eye",
+          "bn": "সব চোখের আড়ালে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's comment goes on past the unseen Lord to the unseen servant: fa-hum yakhshawnahu fi sara'irihim wa khalawatihim allati yaghibuna fiha 'an an-nas, so they fear Him in their inmost selves and in their times alone, in which they are absent from people. Here the ghayb is the person's own absence from view. As-Sa'di reads the phrase in just this way: yakhshawnahu fi hali ghaybatihim wa 'adami mushahadati n-nasi lahum, they fear Him when they are out of sight and people do not see them.",
+            "bn": "অদৃশ্য রবের কথা বলেই কুরতুবী থামেন না, এগিয়ে যান অদৃশ্য বান্দার কথায়: ফাহুম ইয়াখশাওনাহু ফী সারাইরিহিম ওয়া খালাওয়াতিহিম। তারা তাঁকে ভয় করে মনের গভীরে, আর সেই নির্জন সময়গুলোতে, যখন তারা মানুষের চোখের আড়ালে থাকে। এখানে গায়ব মানে মানুষটার নিজেরই চোখের বাইরে থাকা। সা'দী শব্দটিকে ঠিক এভাবেই পড়েন: ফী হালি গায়বাতিহিম ওয়া আদামি মুশাহাদাতিন নাসি লাহুম। তারা তাঁকে ভয় করে তখনও, যখন তারা আড়ালে থাকে আর লোকে তাদের দেখতে পায় না।"
+          },
+          {
+            "en": "As-Sa'di then adds three words that carry the whole argument: fa-ma'a l-mushahada awla, and when they are seen, all the more so. If they fear Him where no one is looking, they will certainly fear Him where everyone is. Piety in public proves nothing about piety in private, but piety in private carries over into public. Al-Qurtubi holds both readings in a single comment, the Lord unseen and the servant unseen, while al-Baghawi gives only the first; none of them sets the readings against each other.",
+            "bn": "তারপর সা'দী মাত্র তিনটি শব্দ জুড়ে দেন, যার উপর পুরো যুক্তিটা দাঁড়িয়ে: ফামাআল মুশাহাদাতি আওলা। লোকের সামনে থাকলে তো আরও বেশি। যেখানে কেউ দেখছে না, সেখানেই যদি তারা তাঁকে ভয় করে, তবে সবার সামনে নিশ্চয়ই করবে। প্রকাশ্যে তাকওয়া দেখালেই প্রমাণ হয় না যে নিভৃতেও তা আছে। কিন্তু নিভৃতের তাকওয়া প্রকাশ্যেও সঙ্গে আসে। কুরতুবী এক মন্তব্যেই দুই পাঠ রাখেন, অদৃশ্য রব আর অদৃশ্য বান্দা। বাগাভী দেন শুধু প্রথমটি। তাঁদের কেউই এক পাঠকে অন্যটির বিপক্ষে দাঁড় করান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Verses That Echo It",
+          "bn": "দুই আয়াতে একই প্রতিধ্বনি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the phrase by setting two other verses beside it, in both his Arabic text and the English abridgement. The first is 50:33: man khashiya r-Rahmana bi-l-ghaybi wa ja'a bi-qalbin munib, whoever feared the Most Merciful unseen and came with a heart that turns back to Him. The second is 67:12: inna lladhina yakhshawna rabbahum bi-l-ghaybi lahum maghfiratun wa ajrun kabir, those who fear their Lord unseen will have forgiveness and a great reward. The second repeats almost word for word the opening of 21:49.",
+            "bn": "শব্দবন্ধটি বোঝাতে ইবন কাসীর এর পাশে আরও দুটি আয়াত রাখেন, তাঁর আরবি তাফসীরে এবং ইংরেজি সংক্ষেপেও। প্রথমটি ৫০:৩৩: মান খাশিয়ার রাহমানা বিল-গায়বি ওয়া জাআ বিকালবিম মুনীব। যে না দেখে পরম দয়াময়কে ভয় করেছে, আর এসেছে এমন এক হৃদয় নিয়ে, যা বারবার তাঁর দিকে ফেরে। দ্বিতীয়টি ৬৭:১২: ইন্নাল্লাযীনা ইয়াখশাওনা রাব্বাহুম বিল-গায়বি লাহুম মাগফিরাতুঁও ওয়া আজরুন কাবীর। যারা না দেখে রবকে ভয় করে, তাদের জন্য আছে মাগফিরাত আর বিরাট প্রতিদান। দ্বিতীয় আয়াতের শুরুটা প্রায় হুবহু ২১:৪৯-এর শুরুর মতো।"
+          },
+          {
+            "en": "Read together, the three verses fill in one portrait. Here, in 21:49, we learn who these people are and what they dread. In 50:33 we learn what they bring with them: a heart that keeps returning. In 67:12 we learn what waits for them: forgiveness and a great reward. In 50:33, notably, it is the Most Merciful who is feared. The fear these verses praise is not despair of Allah; it is the fear of people who also know His mercy and hope for His forgiveness.",
+            "bn": "তিনটি আয়াত পাশাপাশি পড়লে একটি পূর্ণ ছবি দাঁড়ায়। এখানে, ২১:৪৯ আয়াতে, জানা যায় এরা কারা আর কীসের আশঙ্কা করে। ৫০:৩৩ বলে তারা সঙ্গে কী নিয়ে আসে: এমন হৃদয়, যা বারবার ফিরে আসে। ৬৭:১২ বলে তাদের জন্য কী অপেক্ষা করছে: মাগফিরাত আর বিরাট প্রতিদান। খেয়াল করার মতো, ৫০:৩৩-এ যাঁকে ভয় করা হচ্ছে, তিনি আর-রাহমান, পরম দয়াময়। এ আয়াতগুলো যে ভয়ের প্রশংসা করে, তা আল্লাহর রহমত থেকে নিরাশ হওয়া নয়। এ সেই মানুষদের ভয়, যারা তাঁর রহমতও চেনে, তাঁর মাগফিরাতের আশাও রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dreading the Hour Unready",
+          "bn": "অপ্রস্তুত অবস্থায় কিয়ামাতের শঙ্কা"
+        },
+        "p": [
+          {
+            "en": "Wa hum mina s-sa'ati mushfiqun: and of the Hour they are apprehensive. Ibn Kathir, al-Qurtubi, as-Sa'di and al-Muyassar all gloss mushfiqun with the same pair, kha'ifun wajilun, afraid and in dread; al-Baghawi gives kha'ifun alone. At-Tabari chooses a different word, hadhirun, on their guard. He and al-Muyassar also say which hour is meant: as-sa'a allati taqumu fiha l-qiyama, the Hour in which the Resurrection takes place. No more is needed: the surah opened with the people's reckoning drawing near, and set out the scales of the Day of Resurrection two verses back.",
+            "bn": "ওয়া হুম মিনাস সাআতি মুশফিকূন: আর কিয়ামাতের ব্যাপারে তারা শঙ্কিত। ইবন কাসীর, কুরতুবী, সা'দী ও মুয়াসসার, চারজনই মুশফিকূনের অর্থ করেন একই জোড়া শব্দে: খাইফূনা ওয়াজিলূন, ভীত ও কম্পিত। বাগাভী শুধু বলেন খাইফূন। তাবারী বেছে নেন আলাদা শব্দ, হাযিরূন, অর্থাৎ সতর্ক, পাহারায় থাকা। কোন সাআর কথা হচ্ছে, তা তিনি ও মুয়াসসার স্পষ্ট করেন: সেই সময়, যখন কিয়ামাত সংঘটিত হবে। আয়াতে শুধু আস-সাআহ বলাই যথেষ্ট। সূরাটি শুরুই হয়েছে মানুষের হিসাব ঘনিয়ে আসার কথা দিয়ে, আর দুই আয়াত আগেই কিয়ামাত দিবসের মানদণ্ডের কথা এসেছে।"
+          },
+          {
+            "en": "What exactly do they dread? At-Tabari answers: that it should rise upon them and they come before their Lord having fallen short in what they owed Allah, so that He punishes them with a punishment they have no power to bear. Al-Qurtubi compresses it into a short phrase: min qiyamiha qabla t-tawba, of its coming before repentance. On both readings the dread is not of the Hour as such but of being caught by it unready. As-Sa'di names the cause of that dread: li-kamali ma'rifatihim bi-rabbihim, because of the completeness of their knowledge of their Lord.",
+            "bn": "ঠিক কীসের আশঙ্কা তাদের? তাবারী উত্তর দেন: কিয়ামাত তাদের উপর এসে পড়বে, আর তারা রবের সামনে হাজির হবে আল্লাহর হক আদায়ে কমতি নিয়ে। তখন তিনি এমন শাস্তি দেবেন, যা সহ্য করার শক্তি তাদের নেই। কুরতুবী একে ছোট করে বলেন: মিন কিয়ামিহা কাবলাত তাওবাহ, তওবার আগেই তার এসে পড়ার ভয়। দুই পাঠেই আশঙ্কাটা কিয়ামাত নিয়ে নয়, অপ্রস্তুত অবস্থায় তার মুখোমুখি হওয়া নিয়ে। এ আশঙ্কার কারণও সা'দী বলে দেন: লিকামালি মা'রিফাতিহিম বিরাব্বিহিম। রবকে তারা পুরোপুরি চেনে বলেই এই ভয়।"
+          },
+          {
+            "en": "Fear here is the fruit of knowledge, not of ignorance: the better a person knows their Lord, the more seriously they take the meeting with Him. The verse's own form also shifts. Its first half uses a verb, yakhshawna, they fear; its second is a nominal clause built on a participle, wa hum mushfiqun, they are apprehensive. No commentary read here remarks on the shift, so it is noted only as the shape of the words: a fear they act on, and a wariness they carry.",
+            "bn": "এখানে ভয় অজ্ঞতার ফল নয়, জ্ঞানের ফল। মানুষ রবকে যত ভালো চেনে, তাঁর সঙ্গে সাক্ষাৎকে তত গুরুত্ব দেয়। আয়াতের নিজের গড়নেও একটা বদল আছে। প্রথম অংশে ক্রিয়া: ইয়াখশাওনা, তারা ভয় করে। দ্বিতীয় অংশে কোনো ক্রিয়া নেই, আছে তাদের অবস্থার বর্ণনা: ওয়া হুম মুশফিকূন, তারা শঙ্কিত। এ আয়াতের যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এ বদল নিয়ে কিছু বলেনি। তাই একে শুধু শব্দের গড়ন হিসেবেই উল্লেখ করা হলো: এক ভয়, যা নিয়ে তারা কাজ করে, আর এক সতর্কতা, যা তারা সবসময় বয়ে বেড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One People, Two Marks",
+          "bn": "এক দল, দুই চিহ্ন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment with a point of grammar that settles who is being described. The waw joining the two halves, he says, is min babi 'atfi s-sifat al-mutaghayirat al-warida 'ala shay'in wahid wa mawsufin wahid: a conjunction of distinct attributes that fall on one and the same described party. The verse does not name one group who fear their Lord unseen and a second group who dread the Hour. It names one people, and both marks belong to them. In his words, fa-jama'u bayna l-ihsan wa-l-khawf, they joined excellence in deed with fear.",
+            "bn": "সা'দী তাঁর মন্তব্য শেষ করেন ব্যাকরণের একটি কথা দিয়ে, যা ঠিক করে দেয় কাদের বর্ণনা হচ্ছে। দুই অংশের মাঝের ওয়াও, তাঁর ভাষায়, মিন বাবি আতফিস সিফাতিল মুতাগায়িরাতিল ওয়ারিদাতি আলা শাইয়িন ওয়াহিদ। অর্থাৎ ভিন্ন ভিন্ন গুণ, কিন্তু সবগুলো একই দলের। আয়াতটি এমন বলছে না যে একদল না দেখে রবকে ভয় করে, আর আরেকদল কিয়ামাতের আশঙ্কা করে। মানুষ একই, দুই চিহ্নই তাদের গায়ে। সা'দীর ভাষায়, ফাজামাঊ বাইনাল ইহসানি ওয়াল খাওফ: তারা উত্তম আমল আর ভয়, দুটোকে একসঙ্গে ধরেছে।"
+          },
+          {
+            "en": "The next verse turns from Musa (AS) to the listener. Wa hadha dhikrun mubarakun anzalnahu, afa-antum lahu munkirun: and this is a blessed reminder which We have sent down; will you then deny it? Ibn Kathir, in the English abridgement, identifies it as the Magnificent Qur'an, and notes that Allah often mentions Musa and Muhammad ﷺ together, and their Books together. The word dhikr links the verses: a reminder for the God-fearing then, a blessed reminder now. Between them stands the definition in 21:49, so the reader can measure himself against it first.",
+            "bn": "পরের আয়াত মূসা (আঃ)-এর কাহিনি থেকে সরাসরি শ্রোতার দিকে ফেরে: ওয়া হাযা যিকরুম মুবারাকুন আনযালনাহু, আফাআনতুম লাহু মুনকিরূন। আর এ এক বরকতময় উপদেশ, যা আমি নাযিল করেছি। তবুও কি তোমরা একে অস্বীকার করবে? ইবন কাসীরের ইংরেজি সংক্ষেপ বলে, এ হলো মহান কুরআন। তিনি এও লক্ষ করেন, আল্লাহ প্রায়ই মূসা (আঃ) ও মুহাম্মাদ ﷺ-কে একসঙ্গে উল্লেখ করেন, তাঁদের কিতাবকেও একসঙ্গে। যিকর শব্দটি দুটোকে জুড়ে দেয়: তখন মুত্তাকীদের জন্য উপদেশ, এখন বরকতময় উপদেশ। মাঝখানে দাঁড়িয়ে আছে ২১:৪৯-এর সংজ্ঞা। প্রশ্নটা আসার আগেই পাঠক যেন নিজেকে তার সঙ্গে মিলিয়ে দেখতে পারেন।"
+          },
+          {
+            "en": "None of the eight commentaries consulted for this verse attaches a prophetic hadith to it, and none reports an occasion of revelation. Their work here is the meaning of the words and the two parallel verses Ibn Kathir brings, and this article adds nothing to that from elsewhere. The verse is short and its commentators brief, because the definition is clear. What remains is not to explain it further but to stand in front of it and ask whether the description fits.",
+            "bn": "এ আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। নাযিলের কোনো উপলক্ষের কথাও কেউ বলেনি। এখানে তাঁদের কাজ শব্দের অর্থ বোঝানো, আর ইবন কাসীরের আনা দুটি সমার্থক আয়াত। এ প্রবন্ধও বাইরে থেকে কিছু জুড়ে দিচ্ছে না। আয়াতটি ছোট, তাফসীরকারেরাও সংক্ষিপ্ত, কারণ সংজ্ঞাটা পরিষ্কার। বাকি থাকে আর ব্যাখ্যা করা নয়, বরং তার সামনে দাঁড়িয়ে নিজেকে জিজ্ঞেস করা: বর্ণনাটা কি আমার সঙ্গে মেলে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Breath Arrives",
+          "bn": "ঝাপটা লাগার আগেই"
+        },
+        "p": [
+          {
+            "en": "Three verses earlier the surah described another kind of fear. Of those who would not hear the warning, 21:46 says that if a mere breath of your Lord's punishment touched them, they would cry: woe to us, we were wrongdoers. Their fear comes late, at the touch, when it can only confess. The God-fearing of 21:49 fear before anything is seen. That contrast describes what the text describes, people in the setting of these verses; it gives no reader a label to fix on anyone living. Its use is as a mirror: which of the two fears is mine?",
+            "bn": "তিনটি আয়াত আগে সূরাটি আরেক রকম ভয়ের কথা বলেছে। যারা সতর্কবাণী শুনতে চায়নি, তাদের সম্পর্কে ২১:৪৬ বলে: রবের আযাবের সামান্য এক ঝাপটাও যদি তাদের ছোঁয়, তারা চেঁচিয়ে উঠবে, হায় আমাদের দুর্ভাগ্য, আমরাই তো জালিম ছিলাম। তাদের ভয় আসে দেরিতে, ছোঁয়া লাগার পর, যখন শুধু স্বীকার করা ছাড়া আর কিছু করার থাকে না। ২১:৪৯-এর মুত্তাকীরা ভয় করে কিছু দেখার আগেই। এ তুলনা শুধু তা-ই বর্ণনা করে, যা আয়াতে আছে, এই আয়াতগুলোর প্রেক্ষাপটের মানুষদের কথা। জীবিত কারও গায়ে তকমা লাগানোর অনুমতি এ থেকে কোনো পাঠক পান না। এর কাজ আয়নার: দুই ভয়ের কোনটা আমার?"
+          },
+          {
+            "en": "As-Sa'di's three words, all the more so when seen, can be turned into a test. If private fear carries over into public, then what a person does in private is the truer measure of their sincerity. Public conduct has many props: reputation, habit, the eyes of family and colleagues. In a closed room, on a private screen, at an hour when no one will ask, the props fall away. What is left there is the fear the verse describes, or its absence. Sincerity is not proven by what others see; it is shown in what no one sees.",
+            "bn": "সা'দীর সেই তিনটি শব্দ, লোকের সামনে তো আরও বেশি, একটা পরীক্ষায় রূপ নিতে পারে। নিভৃতের ভয় যদি প্রকাশ্যেও সঙ্গে আসে, তবে নিভৃতে মানুষ যা করে, সেটাই তার ইখলাসের সত্যিকার মাপ। প্রকাশ্য আচরণের অনেক ঠেকনা থাকে: সুনাম, অভ্যাস, পরিবার আর সহকর্মীদের চোখ। বন্ধ ঘরে, নিজের একান্ত পর্দার সামনে, এমন সময়ে যখন কেউ কিছু জিজ্ঞেস করবে না, সেই ঠেকনাগুলো সরে যায়। সেখানে যা বাকি থাকে, তা হয় আয়াতে বর্ণিত সেই ভয়, নয়তো তার অভাব। অন্যরা যা দেখে, তা দিয়ে ইখলাস প্রমাণ হয় না। তা ধরা পড়ে সেখানে, যা কেউ দেখে না।"
+          },
+          {
+            "en": "The commentators also give the test its content. At-Tabari and as-Sa'di both measure this fear by limits kept and duties done, so the private hour is checked by the same two questions: what forbidden thing did I leave there, and what required thing did I keep? Al-Qurtubi's phrase, before repentance, adds a third: is there anything I am leaving for later that I would not want the Hour to find unfinished? A short honest account of one such hour each night is a small practice, but it trains exactly the fear this verse names.",
+            "bn": "পরীক্ষাটার বিষয়বস্তুও তাফসীরকারেরা দিয়ে দেন। তাবারী ও সা'দী দুজনেই এ ভয় মাপেন সীমা রক্ষা আর ফরয আদায় দিয়ে। তাই নিভৃতের সময়টাও যাচাই হবে সেই দুই প্রশ্নে: সেখানে কোন হারাম কাজ আমি ছেড়েছি, আর কোন জরুরি কাজ আমি ধরে রেখেছি? কুরতুবীর কথা, তওবার আগেই, তৃতীয় একটি প্রশ্ন যোগ করে: এমন কিছু কি আমি পরে করব বলে ফেলে রাখছি, যা অসমাপ্ত অবস্থায় কিয়ামাতের হাতে পড়ুক, তা আমি চাই না? প্রতি রাতে এমন একটি সময়ের সৎ হিসাব নেওয়া ছোট্ট একটি অভ্যাস। কিন্তু এ আয়াত যে ভয়ের নাম নেয়, ঠিক সেটাকেই তা গড়ে তোলে।"
+          }
+        ]
+      }
+    ]
+  },
   "21:54": {
     "sections": [
       {
