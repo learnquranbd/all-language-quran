@@ -22391,6 +22391,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The same fruit can become good provision or a drink that clouds the mind. Intoxicants are forbidden, so use Allah's gifts in ways that keep your reason clear and your gratitude alive.",
     "lessonBn": "একই ফল হতে পারে উত্তম রিজিক, আবার হতে পারে বুদ্ধি ঘোলা করা পানীয়। মাদক হারাম। তাই আল্লাহর নিয়ামত এমনভাবে কাজে লাগান, যাতে বুদ্ধি থাকে পরিষ্কার আর শুকরিয়া থাকে জীবন্ত।"
+  },
+  "16:75": {
+    "reflectionEn": "Picture two men. One owns nothing, not even the say over his own day; whatever passes through his hands belongs to someone else. The other has been given good provision and spends from it, sometimes where no one sees and sometimes in plain view. Nobody needs to be told that they are not equal. The verse then asks the listener to carry that obvious answer one step further: if the one who can give nothing is not the equal of the one who gives, how can anything that owns nothing be set beside the One who provides everything? And it turns the question back on me. What have I been given, and how much of it ever leaves my hands?",
+    "reflectionBn": "দুজন মানুষকে কল্পনা করুন। একজনের কিছুই নেই, নিজের দিনটা কীভাবে কাটবে সে সিদ্ধান্তও তার হাতে নেই। তার হাত দিয়ে যা-ই যায়, তা অন্যের। আরেকজনকে উত্তম রিযক দেওয়া হয়েছে, আর সে তা থেকে খরচ করে, কখনো কেউ না দেখার মতো করে, কখনো সবার সামনে। এরা যে সমান নয়, তা কাউকে বুঝিয়ে বলতে হয় না। আয়াতটি শ্রোতাকে এই সহজ উত্তরটা আরেক ধাপ এগিয়ে নিতে বলে। যে কিছুই দিতে পারে না, সে যদি দাতার সমান না হয়, তবে যার নিজের কিছুই নেই, তাকে কীভাবে সেই সত্তার পাশে বসানো যায়, যিনি সবকিছুর রিযক দেন? তারপর প্রশ্নটা আমার দিকেই ফিরে আসে। আমাকে কী কী দেওয়া হয়েছে, আর তার কতটুকু কখনো আমার হাত ছেড়ে অন্যের কাছে যায়?",
+    "pointsEn": [
+      "What do I rely on, or quietly fear, that has no power to give me anything or to take anything from me?",
+      "When something good reaches me, whom do my first words thank?",
+      "Of what I was given this month, how much left my hands for someone else, in secret or in the open?",
+      "Do I give only when I am seen, or only when I am not, and what does that pattern say about me?",
+      "If the answer to 'are they equal?' is so plain, where in my life have I acted as though it were not?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসের উপর আমি ভরসা করি, কিংবা মনে মনে ভয় পাই, যার আমাকে কিছু দেওয়ার বা আমার কাছ থেকে কিছু কেড়ে নেওয়ার কোনো ক্ষমতাই নেই?",
+      "ভালো কিছু হাতে এলে আমার মুখের প্রথম কথায় কার শুকরিয়া থাকে?",
+      "এ মাসে যা পেয়েছি, তার কতটুকু গোপনে বা প্রকাশ্যে অন্যের জন্য আমার হাত ছেড়ে গেছে?",
+      "আমি কি কেবল লোকে দেখলে দান করি, নাকি কেবল কেউ না দেখলে? এই অভ্যাস আমার সম্পর্কে কী বলে?",
+      "'এরা কি সমান?' প্রশ্নের উত্তর যদি এত স্পষ্ট হয়, তবে জীবনের কোথায় আমি এমনভাবে চলেছি, যেন উত্তরটা স্পষ্ট নয়?"
+    ],
+    "lessonEn": "Give from what Allah has provided you, in secret and in the open, and never set beside Him anything that owns nothing and can give nothing.",
+    "lessonBn": "আল্লাহ যা দিয়েছেন, তা থেকে গোপনে ও প্রকাশ্যে দান করুন, আর যার নিজের কিছুই নেই, কিছু দিতেও পারে না, তাকে কখনো তাঁর পাশে দাঁড় করাবেন না।"
   }
 };
 

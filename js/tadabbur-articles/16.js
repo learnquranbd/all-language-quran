@@ -2351,6 +2351,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:75": {
+    "sections": [
+      {
+        "h": {
+          "en": "Struck Right After the Ban",
+          "bn": "নিষেধের ঠিক পরেই দৃষ্টান্ত"
+        },
+        "p": [
+          {
+            "en": "The verse before this one closes a run of reminders with a prohibition: fa-la tadribu lillahi al-amthal, so do not strike likenesses for Allah; Allah knows and you do not know (16:74). Just before that, 16:73 describes people who worship, besides Allah, what owns no provision for them from the heavens or the earth. Then this verse opens: daraba Allahu mathalan, Allah strikes a likeness. People have just been told not to coin comparisons for Him, and He at once supplies one Himself, of His own choosing.",
+            "bn": "এর আগের আয়াতে একের পর এক স্মরণ করিয়ে দেওয়ার পর আসে এক নিষেধ: ফালা তাদরিবূ লিল্লাহিল আমসাল, অর্থাৎ আল্লাহর জন্য দৃষ্টান্ত গড়ো না; আল্লাহ জানেন, তোমরা জানো না (১৬:৭৪)। তার ঠিক আগে ১৬:৭৩ আয়াত বলেছে এমন লোকদের কথা, যারা আল্লাহকে ছেড়ে এমন কিছুর ইবাদত করে, আকাশ বা জমিন থেকে যার হাতে তাদের জন্য কোনো রিযক নেই। তারপর এই আয়াত শুরু হয়: দারাবাল্লাহু মাসালান, আল্লাহ একটি দৃষ্টান্ত দিচ্ছেন। মানুষকে সবে বলা হলো তাঁর জন্য তুলনা বানিয়ো না। আর সঙ্গে সঙ্গে তিনি নিজেই একটি তুলনা দিলেন, নিজের বাছাই করা।"
+          },
+          {
+            "en": "Al-Qurtubi reads the parable as joined to what came before it: Allah has been listing His favours on the idolaters and the absence of anything like them from their gods, and now He alerts them to their misguidance. As-Sa'di opens with the same link, saying that for this reason Allah struck two parables, for Himself and for what is worshipped besides Him. The second of the two, the mute man who is a burden to his master set against the one who commands justice, is 16:76.",
+            "bn": "কুরতুবীর মতে দৃষ্টান্তটি আগের কথার সঙ্গেই গাঁথা। আল্লাহ মুশরিকদের উপর নিজের নেয়ামতগুলো গুনিয়ে দেখাচ্ছিলেন, আর দেখাচ্ছিলেন যে তাদের উপাস্যদের কাছ থেকে এর কিছুই আসেনি। এবার তিনি তাদের পথভ্রষ্টতার দিকে মনোযোগ টানছেন। সা'দীও শুরু করেন একই যোগসূত্র দিয়ে। তিনি বলেন, এ কারণেই আল্লাহ দুটি দৃষ্টান্ত দিয়েছেন, একটি নিজের জন্য, আরেকটি তাঁকে ছেড়ে যাদের পূজা করা হয় তাদের জন্য। দ্বিতীয় দৃষ্টান্তটি ১৬:৭৬ আয়াতে, যেখানে মনিবের বোঝা হয়ে থাকা বোবা লোকটিকে দাঁড় করানো হয়েছে ন্যায়ের আদেশদাতার পাশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owned and Unable, Given and Giving",
+          "bn": "অক্ষম দাস, দানশীল স্বাধীন"
+        },
+        "p": [
+          {
+            "en": "The first figure is 'abdan mamlukan la yaqdiru 'ala shay'in: a slave, owned, unable to do a thing. Each phrase narrows what precedes it. Al-Qurtubi describes a slave of this description, owned, with power over nothing of wealth and nothing of his own affairs, moved only by his master's will. Al-Muyassar calls him an owned man, unable to manage anything and owning nothing. As-Sa'di says he owns neither himself nor anything of wealth or of the world.",
+            "bn": "প্রথম চরিত্রটি আবদান মামলূকান লা ইয়াকদিরু আলা শাইয়িন: এক দাস, অন্যের মালিকানাধীন, কিছুই করার সামর্থ্য নেই। প্রতিটি শব্দ আগেরটির পরিধি আরও ছোট করে আনে। কুরতুবী তাকে বর্ণনা করেন এমন এক দাস হিসেবে, যে অন্যের মালিকানায়, সম্পদের উপরও তার কোনো ক্ষমতা নেই, নিজের ব্যাপারেও নেই, সে চলে কেবল মনিবের ইচ্ছায়। মুয়াসসার বলে, সে এক মালিকানাধীন মানুষ, কোনো কিছুতে হাত দেওয়ার সামর্থ্য নেই, নিজের বলেও কিছু নেই। সা'দী বলেন, সে নিজের মালিকও নয়, দুনিয়ার কোনো সম্পদেরও নয়।"
+          },
+          {
+            "en": "The second is wa man razaqnahu minna rizqan hasanan, fa-huwa yunfiqu minhu sirran wa jahran: he whom We gave good provision from Us, so he spends from it secretly and openly. Al-Muyassar makes him a free man with lawful wealth that Allah provided, free to dispose of it, giving from it in private and in public. As-Sa'di calls him free and rich, given every kind of wealth, generous and fond of doing good. The verse names the provision as coming from Us before the man spends any of it.",
+            "bn": "দ্বিতীয়জন: ওয়া মান রাযাকনাহু মিন্না রিযকান হাসানান, ফাহুয়া ইউনফিকু মিনহু সিররান ওয়া জাহরান। অর্থাৎ যাকে আমি নিজের পক্ষ থেকে উত্তম রিযক দিয়েছি, আর সে তা থেকে গোপনে ও প্রকাশ্যে খরচ করে। মুয়াসসারের ভাষায় সে এক স্বাধীন মানুষ। আল্লাহ তাকে হালাল সম্পদ দিয়েছেন, তা খরচ করার অধিকারও তার আছে, আর সে তা থেকে গোপনে ও প্রকাশ্যে দান করে। সা'দী তাকে বলেন স্বাধীন ও ধনী, সব রকম সম্পদ তাকে দেওয়া হয়েছে, সে উদার, ভালো কাজ করতে ভালোবাসে। লক্ষ করুন, লোকটি কিছু খরচ করার আগেই আয়াত জানিয়ে দেয় যে রিযকটা এসেছে আল্লাহর কাছ থেকে।"
+          },
+          {
+            "en": "Then comes hal yastawun, are they equal? Al-Baghawi and al-Qurtubi both explain why the verb is plural rather than dual: man is a word that can stand for one, two or many. Al-Baghawi compares la yastati'una in 16:73, plural because of ma. Al-Qurtubi also records the view that both figures were meant as whole kinds. The question expects no. Al-Qurtubi glosses it simply as they are not equal, and Qatada, in at-Tabari's report, answers it with an oath: by Allah, they are not.",
+            "bn": "তারপর আসে হাল ইয়াসতাউন, এরা কি সমান? ক্রিয়াটি দ্বিবচন না হয়ে বহুবচন কেন, বাগাভী ও কুরতুবী দুজনেই তা ব্যাখ্যা করেন। 'মান' শব্দটি একজন, দুজন বা অনেকজন সবাইকে বোঝাতে পারে। বাগাভী এর সঙ্গে মিলিয়ে দেখান ১৬:৭৩ আয়াতের লা ইয়াসতাতীঊন, যা 'মা' শব্দের কারণে বহুবচন। কুরতুবী আরেকটি মতও উল্লেখ করেন: দুটি চরিত্র দিয়েই পুরো এক একটি শ্রেণি বোঝানো হয়েছে। প্রশ্নটির উত্তর যে 'না', তা ধরে নেওয়া। কুরতুবী সোজা অর্থ করেন, এরা সমান নয়। আর তাবারীর বর্ণনায় কাতাদা কসম খেয়ে উত্তর দেন: আল্লাহর কসম, এরা সমান নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idol and God, or Two Men?",
+          "bn": "মূর্তি ও আল্লাহ, নাকি দুই মানুষ?"
+        },
+        "p": [
+          {
+            "en": "The commentators divide over what the two figures stand for. Mujahid, in the report of Ibn Abi Najih that Ibn Kathir gives, says it is a likeness struck for the idol and for the True God, exalted. In at-Tabari's report, Mujahid says Allah struck this parable and the next for Himself and for the gods worshipped besides Him. Al-Qurtubi sets this reading out first, as you would not hold an owned slave equal to a well-provided free man, so I and these idols are not equal, and says the majority of interpreters hold it.",
+            "bn": "দুটি চরিত্র কাকে বোঝায়, এ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। ইবন কাসীর ইবন আবী নাজীহের সূত্রে মুজাহিদের কথা আনেন: এ দৃষ্টান্ত মূর্তি আর মহান সত্য সত্তার জন্য। তাবারীর বর্ণনায় মুজাহিদ বলেন, এই দৃষ্টান্ত আর এর পরেরটি আল্লাহ দিয়েছেন নিজের জন্য এবং তাঁকে ছেড়ে যেসব উপাস্যের পূজা হয় তাদের জন্য। কুরতুবী এই ব্যাখ্যাটিই প্রথমে আনেন। তোমাদের কাছে যেমন মালিকানাধীন দাস আর সচ্ছল স্বাধীন মানুষ সমান নয়, তেমনি আমি আর এই মূর্তিগুলোও সমান নই। তিনি বলেন, অধিকাংশ তাফসীরকার এই মতের।"
+          },
+          {
+            "en": "Al-Muyassar, as-Sa'di and Ma'arif al-Qur'an read it the same way. The other reading makes the two men the disbeliever and the believer. Ibn Kathir gives it from Ibn Abbas through al-Awfi, says Qatada held it too, and notes that Ibn Jarir chose it; at-Tabari indeed opens his gloss with it. The disbeliever neither obeys Allah nor spends in His way, he says, like the owned slave with nothing to spend; the believer spends like the free man. Al-Baghawi leads with the same reading.",
+            "bn": "মুয়াসসার, সা'দী ও মাআরিফুল কুরআনও আয়াতটি এভাবেই পড়ে। অন্য ব্যাখ্যায় দুই মানুষ হলো কাফির আর মুমিন। ইবন কাসীর এটি আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন, বলেন কাতাদাও এ কথা বলেছেন, আর জানান যে ইবন জারীর এ মতটিই বেছে নিয়েছেন। তাবারী আসলেই নিজের ব্যাখ্যা শুরু করেন এ দিয়ে। তাঁর কথায়, কাফির আল্লাহর আনুগত্য করে না, তাঁর পথে খরচও করে না, ঠিক যেমন মালিকানাধীন দাসের খরচ করার মতো কিছু নেই। আর মুমিন খরচ করে সেই স্বাধীন মানুষের মতো। বাগাভীও শুরু করেন এই ব্যাখ্যা দিয়ে।"
+          },
+          {
+            "en": "Qatada, in at-Tabari's report, fills the picture in: the disbeliever was given wealth and put nothing good forward with it, while the believer obeyed Allah with his and was repaid with lasting provision in Paradise. Ibn Abbas adds that this parable is about spending. Al-Baghawi also relays, from Ibn Jurayj from Ata, that the owned slave is Abu Jahl ibn Hisham and the provided man Abu Bakr as-Siddiq; no other fetched commentator carries it. Both main readings stand here side by side, unchosen. The verse describes a likeness and licenses nothing against any living person or community.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা ছবিটা পূর্ণ করেন। কাফিরকে সম্পদ দেওয়া হয়েছিল, কিন্তু সে তা দিয়ে কোনো ভালো কাজ আগে পাঠায়নি। মুমিন নিজের সম্পদ দিয়ে আল্লাহর আনুগত্য করেছে, আর আল্লাহ তাকে প্রতিদান দিয়েছেন জান্নাতের চিরস্থায়ী রিযক। ইবন আব্বাস (রাঃ) যোগ করেন, এই দৃষ্টান্ত খরচ করা নিয়ে। বাগাভী আরও আনেন ইবন জুরাইজের সূত্রে আতার কথা: দাসটি আবু জাহল ইবন হিশাম, আর রিযকপ্রাপ্ত লোকটি আবু বকর সিদ্দীক (রাঃ)। আমাদের পড়া আর কোনো তাফসীরে এ কথা নেই। মূল দুটি ব্যাখ্যা এখানে পাশাপাশি রইল, কোনোটিকে বেছে নেওয়া হলো না। আয়াতটি একটি দৃষ্টান্ত তুলে ধরে মাত্র। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on the Enslaved",
+          "bn": "দাসদের মর্যাদার রায় নয়"
+        },
+        "p": [
+          {
+            "en": "The verse draws on an arrangement its first hearers knew from daily life, slavery, and uses it as a picture of having no power at all. It does not praise the arrangement, and it passes no judgement on the worth of any human being held in it. Al-Qurtubi makes a related point in grammatical terms: nothing in the verse requires that all slaves fit this description, because an indefinite noun in an affirmative statement, by the usage of Arabic speakers, refers to one, not to every member of a class.",
+            "bn": "আয়াতটি এমন এক সামাজিক ব্যবস্থা থেকে ছবি নিয়েছে, যা এর প্রথম শ্রোতারা রোজকার জীবনে দেখত: দাসপ্রথা। আর ছবিটা নিয়েছে শুধু এটুকু দেখাতে যে কারও হাতে কোনো ক্ষমতাই না থাকা কেমন। আয়াত ওই ব্যবস্থার প্রশংসা করে না, আর তাতে আটকে থাকা কোনো মানুষের মূল্য নিয়েও কোনো রায় দেয় না। কুরতুবী ব্যাকরণের দিক থেকে কাছাকাছি একটা কথা বলেন। আয়াত থেকে এ কথা আসে না যে সব দাসই এমন। কারণ আরবিভাষীদের রীতিতে হ্যাঁ-বাচক বাক্যে অনির্দিষ্ট বিশেষ্য একজনকে বোঝায়, পুরো শ্রেণির প্রত্যেককে নয়।"
+          },
+          {
+            "en": "Al-Qurtubi also relays al-Asamm: the owned slave in view may be stronger in build and brighter of face than his master, yet before his master he is humbled, able to do only what he is permitted. The lack lies in the condition laid on him, not in the person. Al-Asamm draws his conclusion against idolatry: if that is how things stand between you and those you own, how have you made lifeless stones, which neither reason nor hear, partners with Allah? The verse measures power and giving, and nothing else.",
+            "bn": "কুরতুবী আসাম্মের কথাও আনেন। যে দাসের কথা বলা হচ্ছে, সে হয়তো গড়নে মনিবের চেয়ে শক্তপোক্ত, চেহারায় মনিবের চেয়ে উজ্জ্বল। তবু মনিবের সামনে সে অসহায়, অনুমতি পেলে তবেই কিছু করতে পারে। অর্থাৎ ঘাটতিটা তার উপর চাপানো অবস্থায়, মানুষটার মধ্যে নয়। আসাম্ম এ থেকে শিরকের বিরুদ্ধে যুক্তি টানেন। তোমাদের আর তোমাদের দাসদের মধ্যে ব্যাপারটা যদি এমনই হয়, তবে নিষ্প্রাণ পাথরকে তোমরা কীভাবে আল্লাহর শরিক বানালে, যা বোঝে না, শোনেও না? আয়াতের মাপকাঠি শুধু ক্ষমতা আর দান, এর বেশি কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Jurists' Debate, Now History",
+          "bn": "ফকীহদের এক পুরোনো বিতর্ক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records that Muslims understood from this verse and the one before it that a slave stood below a free person in ownership, and then reports a dispute. The people of Iraq held that slavery excludes ownership altogether; he names this as ash-Shafi'i's later view and the position of al-Hasan and Ibn Sirin. Others held that a slave owns, but incompletely, since his master may take it back at any time: Malik and his followers, ash-Shafi'i's earlier view, and the literalists. Al-Qurtubi favours the second, citing 30:40, where Allah creates and then provides for slave and free alike.",
+            "bn": "কুরতুবী জানান, এই আয়াত ও এর আগের আয়াত থেকে মুসলমানরা বুঝেছিলেন যে মালিকানার ক্ষেত্রে দাসের অবস্থান স্বাধীন মানুষের নিচে। তারপর তিনি একটি মতভেদ তুলে ধরেন। ইরাকের আলেমদের মতে দাসত্ব আর মালিকানা একসঙ্গে চলে না, দাস কিছুরই মালিক হয় না। তিনি বলেন, এটি শাফিঈর পরবর্তী মত, আর হাসান ও ইবন সীরীনেরও মত। অন্যদের মতে দাস মালিক হয়, তবে অসম্পূর্ণ মালিক, কারণ মনিব যখন খুশি তা ফেরত নিতে পারেন। এ মত মালিক ও তাঁর অনুসারীদের, শাফিঈর আগের মত, আর বাহ্যিক অর্থপন্থী আলেমদেরও। কুরতুবী দ্বিতীয় মতটিকে প্রাধান্য দেন। দলিল হিসেবে আনেন ৩০:৪০ আয়াত, যেখানে আল্লাহ সৃষ্টি করেন, তারপর রিযক দেন, দাস ও স্বাধীন সবাইকে সমানভাবে।"
+          },
+          {
+            "en": "He adds that some scholars took la yaqdiru 'ala shay'in to mean the slave can do nothing at all, so that even his divorce lay in his master's hand, and he answers that reports from Ibn Umar and Ibn Abbas narrow that reading. These positions belong to a legal world that no longer exists. They are reported here only as history, to show how closely the commentators weighed a single phrase, and the article draws no ruling from them for anyone today.",
+            "bn": "তিনি আরও বলেন, কিছু আলেম লা ইয়াকদিরু আলা শাইয়িন কথাটির অর্থ ধরেছিলেন, দাস কিছুই করতে পারে না, এমনকি তার তালাকও মনিবের হাতে। কুরতুবী জবাব দেন, ইবন উমর (রাঃ) ও ইবন আব্বাস (রাঃ)-এর বর্ণনা এই অর্থকে সীমিত করে দেয়। এসব মত এমন এক আইনি জগতের, যা আজ আর নেই। এখানে সেগুলো আনা হলো শুধু ইতিহাস হিসেবে, যাতে বোঝা যায় একটি শব্দবন্ধকে তাফসীরকারেরা কত যত্নে ওজন করেছেন। আজকের কারও জন্য এ লেখা এগুলো থেকে কোনো বিধান বের করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision Wider Than Food",
+          "bn": "খাবারের চেয়ে বড় রিযক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's fourth point concerns the word rizq. Abu Mansur, in his creed, had defined it as that by which one is nourished. Al-Qurtubi says this verse refutes the limit, since what the provided man spends is wealth, and so do wa mimma razaqnahum yunfiqun (2:3) and anfiqu mimma razaqnakum (2:254). Everything that can rightly be put to use is rizq, he says, and it comes in grades, the highest being what nourishes.",
+            "bn": "কুরতুবীর চতুর্থ আলোচনা রিযক শব্দ নিয়ে। আবু মানসূর তাঁর আকীদার বইয়ে রিযকের সংজ্ঞা দিয়েছিলেন, যা দিয়ে শরীর পুষ্টি পায়। কুরতুবী বলেন, এই আয়াত সে সীমা ভেঙে দেয়, কারণ রিযকপ্রাপ্ত লোকটি খরচ করে সম্পদ। একই কথা বলে ওয়া মিম্মা রাযাকনাহুম ইউনফিকূন (২:৩) আর আনফিকূ মিম্মা রাযাকনাকুম (২:২৫৪)। তাঁর মতে যা কিছু বৈধভাবে কাজে লাগানো যায়, সবই রিযক। আর রিযকের স্তর আছে, সবচেয়ে উঁচু স্তর হলো যা পুষ্টি দেয়।"
+          },
+          {
+            "en": "He then cites the Prophet's ﷺ words on the ways wealth serves its owner. Sahih Muslim (2958) records from Mutarrif, from his father: I came to the Prophet ﷺ while he was reciting Alhakumu at-takathur (102:1). He said: The son of Adam says: My wealth, my wealth. He said: And do you have, O son of Adam, of your wealth anything but what you ate and consumed, or wore and wore out, or gave in charity and sent ahead? Muslim placed it in his Sahih. It is not attached to this verse.",
+            "bn": "এরপর তিনি নবী ﷺ-এর সেই বাণী আনেন, যেখানে সম্পদ মালিকের কোন কোন কাজে আসে তা গুনিয়ে বলা হয়েছে। সহীহ মুসলিম (২৯৫৮) মুতাররিফ থেকে, তিনি তাঁর পিতা থেকে বর্ণনা করেন: আমি নবী ﷺ-এর কাছে এলাম, তিনি তখন পড়ছিলেন আলহাকুমুত তাকাসুর (১০২:১)। তিনি বললেন: আদমসন্তান বলে, আমার সম্পদ, আমার সম্পদ। তিনি বললেন: হে আদমসন্তান, তোমার সম্পদের মধ্যে তোমার বলে কী আছে, শুধু যা খেয়ে শেষ করেছ, বা পরে পুরোনো করেছ, বা সদকা করে আগে পাঠিয়ে দিয়েছ, তা ছাড়া? মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন। এটি এই আয়াতের সঙ্গে যুক্ত বর্ণনা নয়।"
+          },
+          {
+            "en": "Set beside the verse, the narration sharpens the second figure. The provided man is described by one act only: he spends. Of the three uses the hadith names, only charity is sent ahead; the other two end with the eating and the wearing. Qatada, in at-Tabari's report, describes the same outcome from the other side: the believer put his wealth to work in obedience, and Allah repaid him with provision that lasts. Secretly and openly, in at-Tabari's gloss, means whether people know of it or not.",
+            "bn": "আয়াতের পাশে রাখলে হাদীসটি দ্বিতীয় চরিত্রটিকে আরও স্পষ্ট করে তোলে। রিযকপ্রাপ্ত লোকটির পরিচয় আয়াতে একটিমাত্র কাজ দিয়ে: সে খরচ করে। হাদীসে যে তিনটি ব্যবহারের কথা আছে, তার মধ্যে শুধু সদকাই আগে পাঠানো হয়। বাকি দুটি খাওয়া আর পরার সঙ্গেই ফুরিয়ে যায়। তাবারীর বর্ণনায় কাতাদা একই পরিণতির কথা বলেন অন্য দিক থেকে। মুমিন নিজের সম্পদ আনুগত্যের কাজে লাগিয়েছে, আর আল্লাহ তাকে এমন রিযক দিয়ে প্রতিদান দিয়েছেন যা কখনো ফুরায় না। তাবারীর ব্যাখ্যায় গোপনে ও প্রকাশ্যে মানে, লোকে জানুক বা না জানুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Praise Comes Here",
+          "bn": "এখানে কেন আলহামদু লিল্লাহ"
+        },
+        "p": [
+          {
+            "en": "After the question comes al-hamdu lillah, and the commentators give different reasons for praise at this point. At-Tabari: complete praise belongs to Allah alone, not to the idols you call on besides Him, so praise Him and not them; the idols have done these people no favour and no kindness for which they could be praised. Al-Baghawi says nearly the same and names the reason: He is the Bestower, the Creator and the Provider. Al-Qurtubi likewise: the complete praise is His, because He is the Bestower and the Creator.",
+            "bn": "প্রশ্নের পরেই আসে আলহামদু লিল্লাহ। এখানে প্রশংসা কেন, তাফসীরকারেরা এর ভিন্ন ভিন্ন কারণ বলেন। তাবারীর কথায়, পূর্ণ প্রশংসা কেবল আল্লাহর, তাঁকে ছেড়ে তোমরা যে মূর্তিদের ডাকো তাদের নয়। তাই প্রশংসা তাঁরই করো, ওদের নয়। এই লোকদের প্রতি মূর্তিগুলোর কোনো অনুগ্রহ নেই, কোনো উপকার নেই, যার জন্য ওদের প্রশংসা করা যায়। বাগাভী প্রায় একই কথা বলে কারণটাও জানিয়ে দেন: তিনিই নেয়ামতদাতা, স্রষ্টা ও রিযকদাতা। কুরতুবীও বলেন, পূর্ণ প্রশংসা তাঁরই, কারণ তিনিই নেয়ামত দেন, তিনিই সৃষ্টি করেন।"
+          },
+          {
+            "en": "Ibn Kathir reads the praise from the plainness of the answer: since the difference between the two is so clear and obvious that only a dullard could miss it, Allah said, al-hamdu lillah. As-Sa'di says Allah praised Himself and claimed every kind of praise as His own; then, as if someone had asked why, in that case, the idolaters set their gods level with Allah, the reply came: bal aktharuhum la ya'lamun. Al-Muyassar keeps it short: praise is for Allah alone, who alone deserves praise and commendation.",
+            "bn": "ইবন কাসীর প্রশংসার কারণ খোঁজেন উত্তরের স্পষ্টতায়। দুজনের পার্থক্য এতই পরিষ্কার, এতই চোখে পড়ার মতো যে একেবারে নির্বোধ ছাড়া কেউ তা না বুঝে পারে না। তাই আল্লাহ বললেন, আলহামদু লিল্লাহ। সা'দীর মতে আল্লাহ এখানে নিজের প্রশংসা করেছেন এবং সব ধরনের প্রশংসা নিজের জন্য নির্দিষ্ট করেছেন। তারপর যেন কেউ জিজ্ঞেস করল, ব্যাপার যদি এমনই হয়, মুশরিকরা তবে নিজেদের উপাস্যদের আল্লাহর সমান করল কেন? উত্তর এল: বাল আকসারুহুম লা ইয়া'লামূন। মুয়াসসার সংক্ষেপে বলে, প্রশংসা কেবল আল্লাহর, তিনিই প্রশংসা ও গুণগানের যোগ্য।"
+          },
+          {
+            "en": "But most of them do not know. Al-Qurtubi: most of the idolaters do not know that the praise is Mine and every blessing is from Me; most is said and all are meant. He also records the view that it means most of creation, since most of them are idolaters. At-Tabari: they do not know that it is so, and out of that ignorance they make the idols partners with Allah in worship and in praise. As-Sa'di: had they known with real knowledge, they would not have dared so great a shirk.",
+            "bn": "কিন্তু তাদের অধিকাংশই জানে না। কুরতুবীর ব্যাখ্যায়, অধিকাংশ মুশরিক জানে না যে প্রশংসা আমারই, আর সব নেয়ামত আমার কাছ থেকেই আসে। এখানে 'অধিকাংশ' বলা হলেও বোঝানো হয়েছে সবাইকে। তিনি আরেকটি মতও আনেন: এর অর্থ সৃষ্টির অধিকাংশ, কারণ তাদের অধিকাংশই মুশরিক। তাবারী বলেন, তারা জানে না যে ব্যাপারটা এমনই। আর এই অজ্ঞতা থেকেই তারা মূর্তিগুলোকে ইবাদতে ও প্রশংসায় আল্লাহর শরিক বানায়। সা'দী বলেন, প্রকৃত জ্ঞান থাকলে এত বড় শিরক করার দুঃসাহস তারা দেখাত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing on the Giving Side",
+          "bn": "দাতার পাশে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "Whichever reading one follows, the comparison turns on the same two things: the power to give, and what is done with it. As-Sa'di notes that both men are created beings, so their being equal is not impossible, and still no one would call them equal; how then could the creature, who owns nothing and has no power and is needy in every respect, be equal to the Lord who owns every dominion and has power over all things? Ma'arif al-Qur'an makes the same move from two of one kind to creature and Creator.",
+            "bn": "যে ব্যাখ্যাই গ্রহণ করা হোক, তুলনাটা ঘোরে একই দুটি জিনিস ঘিরে: দেওয়ার ক্ষমতা, আর সে ক্ষমতা দিয়ে কী করা হয়। সা'দী লক্ষ করেন, দুজনেই সৃষ্ট মানুষ, তাদের সমান হওয়া অসম্ভব কিছু নয়, তবু কেউ তাদের সমান বলবে না। তাহলে যে সৃষ্টির নিজের কিছুই নেই, কোনো ক্ষমতা নেই, যে সব দিক থেকেই মুখাপেক্ষী, সে কীভাবে সেই রবের সমান হয়, যিনি সব রাজত্বের মালিক এবং সবকিছুর উপর ক্ষমতাবান? মাআরিফুল কুরআনও একই পথে এগোয়। একই জাতের দুজন যদি সমান না হয়, তবে সৃষ্টি কী করে স্রষ্টার সমান হয়?"
+          },
+          {
+            "en": "For the reader the verse works twice. It clears the heart of whatever has been quietly set beside Allah: a patron, a charm, a fortune, a fear of something that, in the words of 16:73, owns no provision for anyone. And it holds up the second man as a picture worth becoming: one who knows his provision came from Us, and so lets it pass on, seen and unseen. The verse that follows, 16:76, strikes a second likeness on the same pattern, the mute man and the one who commands justice.",
+            "bn": "পাঠকের জন্য আয়াতটি দুইভাবে কাজ করে। প্রথমত, আল্লাহর পাশে চুপিসারে যা কিছু বসানো হয়েছে, অন্তর থেকে তা সরিয়ে দেয়। হতে পারে সেটা কোনো পৃষ্ঠপোষক, কোনো তাবিজ, কোনো ভাগ্য, কিংবা এমন কিছুর ভয়, ১৬:৭৩ আয়াতের ভাষায় যার হাতে কারও জন্য কোনো রিযক নেই। দ্বিতীয়ত, দ্বিতীয় লোকটিকে সে তুলে ধরে এমন এক ছবি হিসেবে, যেমনটি হয়ে ওঠা যায়। সে জানে তার রিযক এসেছে আল্লাহর কাছ থেকে, তাই তা আটকে রাখে না, লোকে দেখুক বা না দেখুক, অন্যের কাছে পৌঁছে দেয়। পরের আয়াত ১৬:৭৬ একই ধাঁচে আরেকটি দৃষ্টান্ত দেয়: বোবা লোকটি আর ন্যায়ের আদেশদাতা।"
+          }
+        ]
+      }
+    ]
+  },
   "16:78": {
     "sections": [
       {
