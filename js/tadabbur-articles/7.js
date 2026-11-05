@@ -6571,6 +6571,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:172": {
+    "sections": [
+      {
+        "h": {
+          "en": "Wider Than One People's Covenant",
+          "bn": "এক জাতির অঙ্গীকার ছাড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "The verses just before this concern a covenant taken from the Children of Israel. In 7:169 their successors are asked whether the covenant of the Book was not taken from them, that they would say nothing about Allah but the truth; in 7:171 the mountain is raised over them. Then the frame widens. Al-Qurtubi reads wa-idh akhadha rabbuka as: remind them, alongside the covenants recalled from their own scripture, of the covenant taken from all servants on the day of the dharr.",
+            "bn": "ঠিক আগের আয়াতগুলো বানী ইসরাঈলের কাছ থেকে নেওয়া এক অঙ্গীকার নিয়ে। ৭:১৬৯ আয়াতে তাদের উত্তরসূরিদের জিজ্ঞেস করা হয়, কিতাবের অঙ্গীকার কি তাদের কাছ থেকে নেওয়া হয়নি যে তারা আল্লাহর ব্যাপারে সত্য ছাড়া কিছু বলবে না? ৭:১৭১ আয়াতে তাদের মাথার উপর পাহাড় তুলে ধরা হয়। এরপর ছবিটা বড় হয়ে যায়। কুরতুবী ওয়া ইয আখাযা রাব্বুকা-র অর্থ করেন এভাবে: তাদের কিতাবের যেসব অঙ্গীকারের কথা মনে করানো হলো, তার সঙ্গে সেই অঙ্গীকারের কথাও তাদের মনে করিয়ে দাও, যা যর-এর দিনে সব বান্দার কাছ থেকে নেওয়া হয়েছিল।"
+          },
+          {
+            "en": "At-Tabari hears the verse as addressed to the Prophet ﷺ: remember when your Lord brought the children of Adam out of their fathers' loins, made them affirm His oneness, and made some of them witnesses over others. The verse moves in four steps: descendants taken from the backs of the children of Adam; a calling of them to witness; the question, am I not your Lord, answered bala, shahidna; and a purpose, lest you say on the Day of Resurrection that you were unaware. Al-Qurtubi calls it a difficult verse.",
+            "bn": "তাবারী আয়াতটিকে নবী ﷺ-এর প্রতি সম্বোধন হিসেবে পড়েন: স্মরণ করো, যখন তোমার রব আদম সন্তানদের তাদের বাপদাদার পিঠ থেকে বের করে আনলেন, তাদের দিয়ে নিজের একত্বের স্বীকৃতি আদায় করলেন, আর তাদের একদলকে আরেক দলের সাক্ষী বানালেন। আয়াতটি চারটি ধাপে এগোয়। প্রথমে আদম সন্তানদের পিঠ থেকে বংশধরদের নেওয়া। তারপর তাদের সাক্ষী বানানো। তারপর প্রশ্ন, আমি কি তোমাদের রব নই, আর উত্তর, বালা, শাহিদনা। শেষে উদ্দেশ্য: যাতে কিয়ামতের দিন তোমরা না বলো, আমরা বেখবর ছিলাম। কুরতুবী একে কঠিন আয়াত বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Backs, Not His",
+          "bn": "আদমের পিঠ নয়, তাদের পিঠ"
+        },
+        "p": [
+          {
+            "en": "The verse does not say your Lord took from Adam, or from his back. It says min bani Adam, from the children of Adam, min zuhurihim, from their backs. Yet the narrations brought under it speak of Adam's own back being wiped. Al-Baghawi asks what from their backs can mean, then, when He brought them out of Adam's back. His answer: Allah brought them out one from the backs of another, as sons come from fathers, and left Adam's back unmentioned because all of them are known to be his children.",
+            "bn": "আয়াতটি বলে না যে তোমার রব আদম থেকে, বা তাঁর পিঠ থেকে নিলেন। বলে মিন বানী আদাম, আদম সন্তানদের থেকে, মিন যুহূরিহিম, তাদের পিঠগুলো থেকে। অথচ আয়াতের নিচে যেসব বর্ণনা আনা হয়, তাতে আদম (আঃ)-এর নিজের পিঠ মোছার কথা আছে। বাগাভী প্রশ্নটা তোলেন: তিনি তো তাদের আদমের পিঠ থেকে বের করেছেন, তাহলে 'তাদের পিঠ থেকে' কথাটার মানে কী? তাঁর উত্তর: বাবা থেকে যেভাবে ছেলে আসে, সেভাবেই আল্লাহ তাদের একজনকে আরেকজনের পিঠ থেকে বের করেছেন। আর সবাই যে আদমেরই সন্তান, তা জানা কথা বলে আদমের পিঠের উল্লেখ বাদ রাখা হয়েছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sees no conflict either: Adam's direct descendants are described as coming from his back, and those after them from the backs of his descendants. Ibn Kathir reports that the commentators who read the verse figuratively drew the opposite conclusion from the same wording. Had a single extraction from Adam been meant, they argue, the verse would have said from Adam and from his back. It said neither, and that argument returns below.",
+            "bn": "মাআরিফুল কুরআনও এখানে কোনো বিরোধ দেখে না। আদমের সরাসরি সন্তানদের কথা বলা হয়েছে তাঁর পিঠ থেকে আসা হিসেবে, আর তাদের পরে যারা এসেছে, তাদের কথা তাঁর বংশধরদের পিঠ থেকে আসা হিসেবে। ইবন কাসীর জানান, যাঁরা আয়াতটিকে রূপক অর্থে পড়েন, তাঁরা একই শব্দ থেকে উল্টো সিদ্ধান্ত টেনেছেন। তাঁদের যুক্তি, আদম থেকে একবারের বের করা যদি উদ্দেশ্য হতো, তাহলে আয়াত বলত 'আদম থেকে', 'তাঁর পিঠ থেকে'। আয়াত এর কোনোটাই বলেনি। এই যুক্তিতে নিচে আবার ফিরব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drawn Out and Made to Speak",
+          "bn": "বের করে এনে কথা বলানো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gathers a long run of reports for the literal reading, most of them from Ibn 'Abbas. In one, asked by Sa'id ibn Jubayr, he said: your Lord wiped the back of Adam, and every soul He would create until the Day of Resurrection came out at Na'man, here, pointing with his hand; then He took their covenants. Al-Qurtubi and al-Baghawi list the place as disputed: Na'man beside 'Arafa, a land in India where Adam was sent down, between Makkah and at-Ta'if (al-Kalbi), or the lowest heaven, before Adam came down (as-Suddi).",
+            "bn": "আক্ষরিক অর্থের পক্ষে তাবারী লম্বা এক সারি বর্ণনা জড়ো করেন, যার বেশির ভাগ ইবন আব্বাস (রাঃ) থেকে। একটিতে সাঈদ ইবন জুবাইরের প্রশ্নের উত্তরে তিনি বলেন: তোমার রব আদমের পিঠ মুছলেন, আর কিয়ামত পর্যন্ত যত প্রাণ তিনি সৃষ্টি করবেন, সবাই বেরিয়ে এল এই না'মানে। বলতে বলতে তিনি হাত দিয়ে ইশারা করলেন। তারপর আল্লাহ তাদের অঙ্গীকার নিলেন। কুরতুবী ও বাগাভী জায়গাটিকে মতভেদের বিষয় হিসেবে উল্লেখ করেন: আরাফার পাশে না'মান, ভারতের সেই ভূখণ্ড যেখানে আদম (আঃ)-কে নামানো হয়েছিল, মক্কা ও তায়েফের মাঝখানে (কালবী), নাকি আদম নামার আগে দুনিয়ার নিকটতম আসমানেই (সুদ্দী)।"
+          },
+          {
+            "en": "The fullest of these reports is from Ubayy ibn Ka'b, given by at-Tabari and Ibn Kathir as Ubayy's own words. He gathered them all that day, made them spirits, then gave them forms, then made them speak. He called the seven heavens, the seven earths and their father Adam to witness against them, and they answered: we bear witness that You are our Lord and our God. Adam saw among them rich and poor, and asked why they were not made equal. He said: I love to be thanked.",
+            "bn": "এসব বর্ণনার মধ্যে সবচেয়ে পূর্ণাঙ্গটি উবাই ইবন কা'ব (রাঃ)-এর। তাবারী ও ইবন কাসীর এটি উবাইয়ের নিজের কথা হিসেবেই এনেছেন। সেদিন তিনি সবাইকে একসঙ্গে জড়ো করলেন। প্রথমে তাদের রূহ বানালেন, তারপর আকৃতি দিলেন, তারপর কথা বলালেন। সাতটি আসমান, সাতটি জমিন আর তাদের পিতা আদমকে তাদের বিরুদ্ধে সাক্ষী রাখলেন। তারা বলল: আমরা সাক্ষ্য দিচ্ছি, আপনিই আমাদের রব, আমাদের ইলাহ। আদম (আঃ) তাদের মধ্যে ধনী-গরিব দেখে জানতে চাইলেন, সবাইকে সমান করা হলো না কেন। আল্লাহ বললেন: আমি চাই, আমার শোকর আদায় করা হোক।"
+          },
+          {
+            "en": "How could such beings understand and reply? Al-Baghawi reports that Allah gave them minds to know with and tongues to speak with, and addressed them face to face. Ma'arif al-Qur'an holds that they had a body of some fine kind, not spirit alone, the size of a small ant. Al-Qurtubi, after listing a figurative view and a view that spirits came out before bodies, says the hadith gives something other than both: forms with spirits in them, drawn from Adam's back.",
+            "bn": "এত ক্ষুদ্র সৃষ্টি কীভাবে বুঝল আর উত্তর দিল? বাগাভী বর্ণনা করেন, আল্লাহ তাদের জানার জন্য বুদ্ধি আর বলার জন্য জিহ্বা দিয়েছিলেন, তারপর সামনাসামনি সম্বোধন করেছিলেন। মাআরিফুল কুরআনের মত, তারা শুধু রূহ ছিল না, সূক্ষ্ম কোনো উপাদানের দেহও ছিল, আকারে ছোট পিঁপড়ার মতো। কুরতুবী একটি রূপক মত আর দেহের আগে রূহ বের করার আরেকটি মত উল্লেখ করার পর বলেন, হাদীসে এ দুটোর বাইরে ভিন্ন এক ছবি আছে: রূহসহ আকৃতি, যা আদম (আঃ)-এর পিঠ থেকে বের করা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Testimony Written Into Nature",
+          "bn": "স্বভাবে লেখা সাক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi first reports a group who read the verse otherwise, a view he says al-Qaffal held and argued at length. On this reading Allah brought the children of Adam out of one another's backs. Made them testify over themselves means He pointed them, through the way He created them, to His oneness, because every adult knows by necessity that he has one Lord. Compare 41:11, where the heavens and the earth are addressed and answer, we come willingly.",
+            "bn": "কুরতুবী প্রথমেই এমন একদলের কথা আনেন, যাঁরা আয়াতটি অন্যভাবে পড়েন। তিনি বলেন, কাফফাল এই মত গ্রহণ করে বিস্তারিত যুক্তি দিয়েছেন। এই পাঠে আল্লাহ আদম সন্তানদের একজনকে আরেকজনের পিঠ থেকে বের করেছেন। 'তাদের নিজেদের উপর সাক্ষী বানালেন' মানে, তাদের যেভাবে সৃষ্টি করেছেন, সেই সৃষ্টির ভেতর দিয়েই নিজের একত্বের দিকে পথ দেখিয়েছেন। কারণ প্রত্যেক প্রাপ্তবয়স্ক মানুষ না ভেবেই জানে, তার রব একজনই। তুলনা করুন ৪১:১১ আয়াত, যেখানে আসমান ও জমিনকে সম্বোধন করা হয়, আর তারা বলে, আমরা স্বেচ্ছায় এলাম।"
+          },
+          {
+            "en": "Ibn Kathir reports the same reading from some scholars of the early and later generations: the calling to witness is simply that He created them upon tawhid. He names al-Hasan al-Basri as one who explained the verse this way. These scholars, he says, point to the wording: from the children of Adam, not from Adam; from their backs, not from his back; their descendants, meaning He made their offspring follow one generation after another, as in 6:165, where He made you successors on the earth.",
+            "bn": "ইবন কাসীর জানান, পূর্ববর্তী ও পরবর্তী যুগের কিছু আলেমও একই কথা বলেন: সাক্ষী বানানোর অর্থ শুধু এই যে তিনি তাদের তাওহীদের উপর সৃষ্টি করেছেন। যাঁরা আয়াতটির এ ব্যাখ্যা দিয়েছেন, তাঁদের একজন হিসেবে তিনি হাসান বসরীর নাম করেন। ইবন কাসীর বলেন, এই আলেমরা আয়াতের শব্দের দিকে আঙুল তোলেন। আয়াত বলেছে আদম সন্তানদের থেকে, আদম থেকে নয়। তাদের পিঠ থেকে, তাঁর পিঠ থেকে নয়। আর তাদের বংশধর, মানে তিনি তাদের বংশ চালিয়েছেন প্রজন্মের পর প্রজন্ম, যেমন ৬:১৬৫ আয়াতে তিনি তোমাদের পৃথিবীতে স্থলাভিষিক্ত করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir then gives their two further arguments. Testimony can be given by a person's state as well as by words: in 9:17 idolaters are witnesses over themselves to disbelief, meaning their condition testifies, not that they said so. And the verse makes this testimony a proof against them; had it happened as the others say, everyone would remember it. Is the Messenger's report not enough? Deniers reject everything the messengers bring, they reply, while this is set down as a proof on its own.",
+            "bn": "এরপর ইবন কাসীর তাঁদের আরও দুটি যুক্তি তুলে ধরেন। প্রথম যুক্তি: সাক্ষ্য শুধু মুখের কথায় হয় না, মানুষের অবস্থাও সাক্ষ্য দেয়। ৯:১৭ আয়াতে মুশরিকদের বলা হয়েছে কুফরির ব্যাপারে নিজেদের উপর সাক্ষী। মানে তাদের অবস্থাই সাক্ষ্য দিচ্ছে, তারা মুখে তা বলেনি। দ্বিতীয় যুক্তি: আয়াতটি এই সাক্ষ্যকে তাদের বিরুদ্ধে দলিল বানিয়েছে। অন্যরা যেমন বলেন, ঘটনাটা সেভাবে ঘটলে প্রত্যেকের তা মনে থাকত। রাসূলের জানিয়ে দেওয়াই কি যথেষ্ট নয়? তাঁদের উত্তর: অস্বীকারকারীরা তো রাসূলদের আনা সবকিছুই অস্বীকার করে, অথচ এখানে এই সাক্ষ্যকে স্বতন্ত্র দলিল হিসেবে রাখা হয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir himself pairs the verse with 30:30 and with a hadith al-Bukhari (1385) records from Abu Hurayrah: \"Every child is born upon the fitra, then his parents make him a Jew, a Christian or a Magian, just as an animal gives birth to an animal: do you see any mutilated?\" The hadith does not mention this verse. As-Sa'di and the Muyassar say the affirmation was secured through what Allah placed in their fitra, and as-Sa'di reads the taking as birth itself, generation after generation.",
+            "bn": "ইবন কাসীর নিজেও আয়াতটির সঙ্গে ৩০:৩০ আয়াত জুড়ে দেন, আর আনেন সেই হাদীস, যা বুখারী (১৩৮৫) আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন: \"প্রত্যেক শিশু ফিতরাতের উপর জন্ম নেয়। তারপর তার বাবা-মা তাকে ইহুদি, খ্রিস্টান বা অগ্নিপূজক বানায়, যেমন পশু পশুর জন্ম দেয়: তাতে কি কোনো অঙ্গকাটা দেখো?\" হাদীসটিতে এ আয়াতের উল্লেখ নেই। সা'দী ও মুয়াসসার বলেন, স্বীকৃতিটা আদায় হয়েছে তাদের ফিতরাতে আল্লাহ যা রেখে দিয়েছেন তার মাধ্যমে। আর সা'দী 'নেওয়া'-কে পড়েন জন্ম হিসেবেই, যুগের পর যুগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Event, or Nature Itself",
+          "bn": "ঘটনা, নাকি স্বভাব"
+        },
+        "p": [
+          {
+            "en": "The commentators fetched for this verse do not merge the two readings, so neither does this page. The reports at-Tabari gathers, al-Baghawi and Ma'arif take the extraction as an event; al-Qaffal and the scholars Ibn Kathir describes take the testimony as nature itself. Ibn Kathir also sorts the evidence: the narrations show Adam's offspring drawn from his back and the people of Paradise set apart from the people of the Fire, while the asking them to testify appears only in reports from Ibn 'Abbas and 'Abdullah ibn 'Amr, which he judges to stop at those Companions.",
+            "bn": "এ আয়াতের যেসব তাফসীর পড়া হয়েছে, সেগুলো দুই পাঠকে এক করে না, তাই এখানেও এক করা হলো না। তাবারীর জড়ো করা বর্ণনাগুলো, বাগাভী ও মাআরিফুল কুরআন বের করে আনাকে একটি ঘটনা হিসেবে নেয়। কাফফাল আর ইবন কাসীর যে আলেমদের কথা বলেন, তাঁরা সাক্ষ্যকে স্বভাব হিসেবেই নেন। ইবন কাসীর প্রমাণগুলোও আলাদা করে দেখান। বর্ণনাগুলো দেখায় আদমের পিঠ থেকে তাঁর বংশধর বের করা হয়েছিল, আর জান্নাতবাসীদের জাহান্নামবাসীদের থেকে আলাদা করা হয়েছিল। কিন্তু সাক্ষ্য চাওয়ার কথা শুধু ইবন আব্বাস (রাঃ) ও আবদুল্লাহ ইবন আমর (রাঃ)-এর বর্ণনায় আছে, আর তাঁর বিচারে দুটিই ওই সাহাবিদের কথা, নবী ﷺ পর্যন্ত পৌঁছায় না।"
+          },
+          {
+            "en": "The literal side answers the objection about memory. Al-Baghawi asks how the proof binds someone who does not remember the covenant, and replies that Allah has made the signs of His oneness plain and the truthful messenger has told of it, so forgetting does not cancel the argument. Who spoke the word shahidna is disputed too: as-Suddi says Allah and His angels; at-Tabari, not finding the angels' version soundly the Prophet's ﷺ, takes it as the children of Adam witnessing for each other.",
+            "bn": "স্মৃতির আপত্তির জবাব আক্ষরিক পক্ষও দেয়। বাগাভী প্রশ্ন তোলেন, যে অঙ্গীকারের কথা মনে নেই, তা দিয়ে কারও বিরুদ্ধে দলিল কীভাবে দাঁড়ায়? তাঁর উত্তর: আল্লাহ তাঁর একত্বের নিদর্শন স্পষ্ট করে দিয়েছেন, আর সত্যবাদী রাসূল তা জানিয়ে দিয়েছেন। তাই ভুলে যাওয়ায় দলিল বাতিল হয় না। 'শাহিদনা' কে বলেছিল, তা নিয়েও মতভেদ আছে। সুদ্দী বলেন, আল্লাহ ও তাঁর ফেরেশতারা। তাবারী ফেরেশতাদের কথা-সংবলিত বর্ণনাটিকে নবী ﷺ থেকে নির্ভরযোগ্যভাবে প্রমাণিত পাননি, তাই একে আদম সন্তানদের পরস্পরের পক্ষে সাক্ষ্য হিসেবে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When 'Umar Was Asked",
+          "bn": "উমর (রাঃ)-কে যখন জিজ্ঞেস করা হলো"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi (3075) records from Muslim ibn Yasar al-Juhani that 'Umar ibn al-Khattab was asked about this verse, and said: \"I heard the Messenger of Allah ﷺ being asked about it. So the Messenger of Allah ﷺ said: 'Indeed Allah created Adam, then He wiped his back with His Right Hand, and his offspring came out of him. So He said: \"I created these for Paradise, and they will do the deeds of the people of Paradise.\" Then He wiped his back, and his offspring came out of him. So He said: \"I created these for the Fire, and they will do the deeds of the people of the Fire.\"'",
+            "bn": "তিরমিযী (৩০৭৫) মুসলিম ইবন ইয়াসার জুহানী থেকে বর্ণনা করেন, উমর ইবনুল খাত্তাব (রাঃ)-কে এ আয়াত সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন: \"আমি শুনেছি, রাসূলুল্লাহ ﷺ-কে এ সম্পর্কে জিজ্ঞেস করা হয়েছিল। তখন রাসূলুল্লাহ ﷺ বললেন: 'আল্লাহ আদমকে সৃষ্টি করলেন, তারপর ডান হাত দিয়ে তাঁর পিঠ মুছলেন, আর তা থেকে তাঁর বংশধর বেরিয়ে এল। তিনি বললেন: \"এদের আমি জান্নাতের জন্য সৃষ্টি করেছি, আর এরা জান্নাতবাসীদের আমল করবে।\" তারপর আবার তাঁর পিঠ মুছলেন, আর তা থেকে তাঁর বংশধর বেরিয়ে এল। তিনি বললেন: \"এদের আমি জাহান্নামের জন্য সৃষ্টি করেছি, আর এরা জাহান্নামবাসীদের আমল করবে।\"'"
+          },
+          {
+            "en": "\"A man said: 'Then of what good is doing deeds, O Messenger of Allah?' The Messenger of Allah ﷺ said: 'Verily, when Allah created a man for Paradise, He makes him perform the deeds of the people of Paradise, until he dies doing one of the deeds of the people of Paradise, so Allah will admit him into Paradise. And when He created a man for the Fire, He makes him perform the deeds of the people of the Fire until he dies doing the deeds of the people of the Fire, so Allah will enter him into the Fire.'\"",
+            "bn": "\"একজন লোক বলল: 'হে আল্লাহর রাসূল, তাহলে আমল করে কী লাভ?' রাসূলুল্লাহ ﷺ বললেন: 'আল্লাহ যখন কোনো মানুষকে জান্নাতের জন্য সৃষ্টি করেন, তাকে দিয়ে জান্নাতবাসীদের আমল করান, শেষে সে জান্নাতবাসীদের কোনো আমলের উপর থাকা অবস্থায় মারা যায়, ফলে আল্লাহ তাকে জান্নাতে প্রবেশ করান। আর যখন কোনো মানুষকে জাহান্নামের জন্য সৃষ্টি করেন, তাকে দিয়ে জাহান্নামবাসীদের আমল করান, শেষে সে জাহান্নামবাসীদের আমলের উপর থাকা অবস্থায় মারা যায়, ফলে আল্লাহ তাকে জাহান্নামে প্রবেশ করান।'\""
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan, and adds that Muslim ibn Yasar did not hear from 'Umar, and that some put an unknown man between them in the chain. Abu Dawud (4703) records it too. Al-Qurtubi quotes Abu 'Umar calling the chain broken, then adds that its meaning is established from the Prophet ﷺ through many routes. The hadith is quoted here as the narration tied to this verse, not as a ruling on questions of decree. It turns the questioner back to deeds, and it tells no reader which group any living person belongs to.",
+            "bn": "তিরমিযী এটিকে হাসান বলেছেন। সঙ্গে জানিয়েছেন, মুসলিম ইবন ইয়াসার উমর (রাঃ)-এর কাছ থেকে শোনেননি, আর কেউ কেউ সনদে তাঁদের মাঝে এক অজ্ঞাত ব্যক্তির নাম আনেন। আবু দাউদও (৪৭০৩) এটি বর্ণনা করেছেন। কুরতুবী আবু উমরের কথা উদ্ধৃত করেন যে সনদটি বিচ্ছিন্ন। তারপর যোগ করেন, এর মর্ম নবী ﷺ থেকে বহু সূত্রে প্রমাণিত। হাদীসটি এখানে এসেছে এ আয়াতের সঙ্গে যুক্ত বর্ণনা হিসেবে, তাকদীরের প্রশ্নের মীমাংসা হিসেবে নয়। এটি প্রশ্নকারীকে আমলের দিকেই ফিরিয়ে দেয়। আর কোনো জীবিত মানুষ কোন দলের, তা এ হাদীস কোনো পাঠককে জানায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Something Easier Than This",
+          "bn": "এর চেয়ে সহজ কিছু"
+        },
+        "p": [
+          {
+            "en": "Among the narrations on the taking from Adam's loins, Ibn Kathir brings a hadith of Anas ibn Malik that both Sahihs record. Al-Bukhari (6557) has the Prophet ﷺ saying: \"Allah the Exalted will say to the one of the people of the Fire with the lightest punishment on the Day of Resurrection: if you had whatever is on the earth, would you ransom yourself with it? He will say: yes. He will say: I wanted from you something easier than this while you were in the loins of Adam, that you associate nothing with Me, but you refused, except to associate partners with Me.\"",
+            "bn": "আদমের পিঠ থেকে নেওয়ার বর্ণনাগুলোর মধ্যে ইবন কাসীর আনাস ইবন মালিক (রাঃ)-এর একটি হাদীস আনেন, যা দুই সহীহ গ্রন্থেই আছে। বুখারীর (৬৫৫৭) বর্ণনায় নবী ﷺ বলেছেন: \"কিয়ামতের দিন জাহান্নামবাসীদের মধ্যে যার শাস্তি সবচেয়ে হালকা, মহান আল্লাহ তাকে বলবেন: পৃথিবীতে যা কিছু আছে, সব যদি তোমার হতো, তুমি কি তা দিয়ে নিজেকে ছাড়িয়ে নিতে? সে বলবে: হ্যাঁ। তিনি বলবেন: তুমি যখন আদমের পিঠে ছিলে, তখন তোমার কাছে এর চেয়ে সহজ জিনিস চেয়েছিলাম: আমার সঙ্গে কিছুকে শরিক করবে না। কিন্তু তুমি অস্বীকার করলে, শরিক করা ছাড়া আর কিছুতেই রাজি হলে না।\""
+          },
+          {
+            "en": "Muslim (2805) records it as well. The hadith does not quote this verse; the link is Ibn Kathir's. A report naming Na'man near 'Arafa, from Ibn 'Abbas with the Prophet ﷺ in its chain, is carried by at-Tabari and Ibn Kathir. Ibn Kathir judges the versions that stop at Ibn 'Abbas to be more numerous and firmer, and its Musnad text could not be checked on a hadith page, so it is not quoted here as the Prophet's ﷺ words.",
+            "bn": "মুসলিমও (২৮০৫) এটি বর্ণনা করেছেন। হাদীসটিতে এ আয়াতের উদ্ধৃতি নেই, আয়াতের সঙ্গে একে জুড়েছেন ইবন কাসীর। না'মানের কথা-সংবলিত আরেকটি বর্ণনা, যার সনদ ইবন আব্বাস (রাঃ) হয়ে নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে, তাবারী ও ইবন কাসীর দুজনেই এনেছেন। ইবন কাসীরের বিচারে যে বর্ণনাগুলো ইবন আব্বাসের নিজের কথা হিসেবে থেমে যায়, সেগুলোই সংখ্যায় বেশি ও বেশি মজবুত। মুসনাদের পাঠটিও কোনো হাদীস-পাতায় মিলিয়ে দেখা যায়নি। তাই এখানে এটি নবী ﷺ-এর বাণী হিসেবে উদ্ধৃত হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Covers the First Yes",
+          "bn": "প্রথম 'হ্যাঁ'-কে যা ঢেকে দেয়"
+        },
+        "p": [
+          {
+            "en": "Whichever reading you hold, the verse names its own purpose: lest you say on the Day of Resurrection, we were unaware of this. As-Sa'di draws the consequence plainly. Allah created His servants upon the upright religion; that nature can be altered by corrupt beliefs that come upon it; and on that Day the excuse is cut off and Allah's conclusive proof stands. The next verse, 7:173, answers a second excuse, the plea of having followed the forefathers, and is read in its own place.",
+            "bn": "যে পাঠই গ্রহণ করুন, আয়াতটি নিজের উদ্দেশ্য নিজেই বলে দেয়: যাতে কিয়ামতের দিন তোমরা না বলো, আমরা এ বিষয়ে বেখবর ছিলাম। সা'দী এর ফল সোজাসুজি বলেন। আল্লাহ তাঁর বান্দাদের সঠিক, একনিষ্ঠ দ্বীনের উপর সৃষ্টি করেছেন। বাইরে থেকে আসা ভ্রান্ত বিশ্বাস সেই স্বভাবকে বদলে দিতে পারে। আর সেদিন অজুহাতের পথ বন্ধ হয়ে যাবে, আল্লাহর অকাট্য দলিল প্রতিষ্ঠিত থাকবে। পরের আয়াত, ৭:১৭৩, আরেকটি অজুহাতের জবাব দেয়, বাপদাদার অনুসরণের অজুহাত। সেটি তার নিজের জায়গায় পড়া হবে।"
+          },
+          {
+            "en": "For the reader, the sharper question is not how the moment happened but what has been covering it since. Ma'arif al-Qur'an speaks of a seed of faith sown in every heart, fed whether a person is aware of it or not. A prayer fits the verse: O Allah, I answered You once; let the rest of my life give the same answer. And a question to carry away: when I say I did not know, is that true, or did I choose not to look?",
+            "bn": "পাঠকের জন্য আসল প্রশ্নটা এই নয় যে মুহূর্তটা কীভাবে ঘটেছিল। প্রশ্ন হলো, তারপর থেকে কী জিনিস তা ঢেকে রেখেছে। মাআরিফুল কুরআন বলে, প্রতিটি মানুষের অন্তরে ঈমানের একটি বীজ বোনা আছে, মানুষ টের পাক বা না পাক, সে বীজ পুষ্টি পেতে থাকে। আয়াতের সঙ্গে মানানসই একটি দোয়া: হে আল্লাহ, আমি একবার আপনাকে উত্তর দিয়েছিলাম, আমার বাকি জীবনও যেন সেই একই উত্তর দেয়। আর সঙ্গে নিয়ে যাওয়ার মতো একটি প্রশ্ন: যখন বলি আমি জানতাম না, তা কি সত্যি, নাকি আমি দেখতেই চাইনি?"
+          }
+        ]
+      }
+    ]
+  },
   "7:176": {
     "sections": [
       {

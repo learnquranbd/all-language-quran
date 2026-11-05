@@ -20891,6 +20891,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A pause after hardship is both mercy and test; spend it on returning to Allah, not on explaining away what He sent.",
     "lessonBn": "কষ্টের পরের বিরতি একই সঙ্গে রহমত ও পরীক্ষা। সে সময়টা আল্লাহর দিকে ফেরায় কাজে লাগান, তাঁর পাঠানো নিদর্শনকে উড়িয়ে দেওয়ার যুক্তি খুঁজে নয়।"
+  },
+  "7:172": {
+    "reflectionEn": "Before any of us had spoken a word, the verse says, a question was put to us: am I not your Lord? And the answer came back: yes, we testify. The commentators differ over how that moment took place. Some say the descendants were drawn out and made to speak; others say the answer is the knowledge of Him set into every person's nature. Both readings agree on what the verse says it was for: so that no one can say on the Day of Resurrection, we were unaware of this. The question was not asked so that it could be forgotten. So I ask myself: what in my days has been covering that first yes? And when I say I did not know, is it true, or only convenient?",
+    "reflectionBn": "আমরা কেউ একটা শব্দ উচ্চারণ করার আগেই, আয়াতটি বলছে, আমাদের সামনে একটি প্রশ্ন রাখা হয়েছিল: আমি কি তোমাদের রব নই? উত্তর এসেছিল: হ্যাঁ, আমরা সাক্ষ্য দিচ্ছি। সেই মুহূর্তটা কীভাবে ঘটেছিল, তা নিয়ে তাফসীরকারদের মত ভিন্ন। কেউ বলেন, বংশধরদের বের করে এনে তাদের মুখে কথা ফোটানো হয়েছিল। কেউ বলেন, এই উত্তর আসলে প্রতিটি মানুষের স্বভাবে বসিয়ে দেওয়া তাঁর পরিচয়। তবে দুই মতই একমত, আয়াত নিজেই এর উদ্দেশ্য বলে দিয়েছে: যাতে কিয়ামতের দিন কেউ বলতে না পারে, আমরা তো এ বিষয়ে বেখবর ছিলাম। প্রশ্নটা ভুলে যাওয়ার জন্য করা হয়নি। তাই নিজেকে জিজ্ঞেস করি: আমার দিনগুলোর কোন জিনিস সেই প্রথম 'হ্যাঁ'-কে ঢেকে দিচ্ছে? আর যখন বলি আমি জানতাম না, তা কি সত্যি, নাকি শুধু সুবিধাজনক?",
+    "pointsEn": [
+      "When did I last feel, without anyone teaching me, that I belong to a Lord, and what did I do with that feeling?",
+      "Which habits, voices or company in my life have been slowly covering the first yes?",
+      "If the question were put to me today, would the way I spent this week answer it the way my tongue would?",
+      "Where am I sheltering behind 'I didn't know' about something I knew well enough to avoid looking into?",
+      "With a child in my care, do I treat faith as something foreign to be taught, or as something they already carry and need reminding of?"
+    ],
+    "pointsBn": [
+      "কেউ শিখিয়ে না দিলেও আমি একজন রবের বান্দা, এই অনুভূতি শেষ কবে হয়েছিল? আর সেই অনুভূতি নিয়ে আমি কী করেছিলাম?",
+      "আমার জীবনের কোন অভ্যাস, কোন কণ্ঠ বা কোন সঙ্গ ধীরে ধীরে সেই প্রথম 'হ্যাঁ'-কে ঢেকে দিচ্ছে?",
+      "প্রশ্নটা যদি আজ আমাকে করা হয়, আমার মুখ যে উত্তর দেবে, এ সপ্তাহের কাটানো দিনগুলোও কি সেই উত্তরই দেবে?",
+      "কোন বিষয়ে আমি 'জানতাম না' বলে আড়াল খুঁজছি, অথচ এতটুকু জানতাম যে খোঁজ নিতে চাইনি?",
+      "আমার দায়িত্বে থাকা কোনো শিশুর বেলায় আমি কি ঈমানকে বাইরের অচেনা জিনিস ভেবে শেখাই, নাকি এমন কিছু ভাবি যা সে আগে থেকেই বয়ে বেড়াচ্ছে, শুধু মনে করিয়ে দিতে হয়?"
+    ],
+    "lessonEn": "You were asked once and you answered yes; live as one who meant it, and never let 'I was unaware' become your excuse.",
+    "lessonBn": "আপনাকে একবার জিজ্ঞেস করা হয়েছিল, আর আপনি 'হ্যাঁ' বলেছিলেন। সেই কথা মন থেকে বলেছিলেন, এমনভাবে বাঁচুন, আর 'আমি বেখবর ছিলাম' কথাটাকে কখনো অজুহাত বানাবেন না।"
   }
 };
 
