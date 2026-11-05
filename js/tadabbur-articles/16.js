@@ -3675,6 +3675,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:102": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reply to the Forger Charge",
+          "bn": "মিথ্যা রচনার অভিযোগের জবাব"
+        },
+        "p": [
+          {
+            "en": "In 16:101, when a verse was put in the place of another, the deniers said to the Prophet ﷺ: innama anta muftar, you are only a forger. That verse answers in part: Allah knows best what He sends down, and most of them do not know. Verse 16:102 then gives the Prophet ﷺ words of his own to say. At-Tabari reads the opening qul as an instruction: say, O Muhammad, to those who tell you that you are a forger in what you recite to them.",
+            "bn": "১৬:১০১ আয়াতে আছে, এক আয়াতের জায়গায় অন্য আয়াত এলে অস্বীকারকারীরা নবী ﷺ-কে বলত: ইন্নামা আনতা মুফতার, তুমি তো কেবল বানিয়ে বলো। ওই আয়াতেই আংশিক জবাব আছে: আল্লাহ ভালো জানেন তিনি কী নাযিল করেন, আর তাদের বেশিরভাগই জানে না। এরপর ১৬:১০২ আয়াত নবী ﷺ-কে নিজের মুখে বলার মতো কথা দিয়ে দেয়। তাবারী শুরুর 'কুল' শব্দটিকে নির্দেশ হিসেবে পড়েন: হে মুহাম্মাদ, যারা তোমাকে বলে তুমি যা তিলাওয়াত করো তা বানানো, তাদের বলে দাও।"
+          },
+          {
+            "en": "Ibn Kathir introduces the verse with the words: Allah said, answering them. The Muyassar puts the reply in the Prophet's voice in one line: the Qur'an is not something I invented, rather Jibril brought it down from your Lord. Ma'arif al-Qur'an reads 16:101 to 16:105 together and links them to the command at 16:98 to seek refuge before reciting. That command, it says, indicates that Satan plants doubts when the Qur'an is recited, and these verses refute such doubts.",
+            "bn": "ইবন কাসীর আয়াতটির পরিচয় দেন এভাবে: আল্লাহ তাদের জবাবে বললেন। মুয়াসসার জবাবটা নবী ﷺ-এর মুখে একটি বাক্যে বসিয়ে দেয়: কুরআন আমার বানানো কিছু নয়, জিবরীল একে তোমার রবের কাছ থেকে নামিয়ে এনেছেন। মাআরিফুল কুরআন ১৬:১০১ থেকে ১৬:১০৫ একসঙ্গে পড়ে। এগুলোকে জুড়ে দেয় ১৬:৯৮ আয়াতের সেই নির্দেশের সঙ্গে, যেখানে তিলাওয়াতের আগে আশ্রয় চাইতে বলা হয়েছে। তার মতে ওই নির্দেশ বোঝায়, কুরআন পড়ার সময় শয়তান মনে সংশয় ঢুকিয়ে দেয়। আর এ আয়াতগুলো সেই সংশয়েরই খণ্ডন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Changed Verse Was",
+          "bn": "আয়াত বদলের মানে কী"
+        },
+        "p": [
+          {
+            "en": "The tafsirs on 16:101 read tabdil there as abrogation of rulings. At-Tabari glosses it: when We abrogate the ruling of a verse and put the ruling of another in its place. Mujahid says: We lifted it and sent down another; in another chain, We abrogated it, replaced it, lifted it and established another. Qatada likens it to 2:106, whatever verse We abrogate or cause to be forgotten. Ibn Zayd states it outright: this replacement is abrogation, and no verse is put in another's place except by abrogation.",
+            "bn": "১৬:১০১ আয়াতের তাফসীরগুলো সেখানে 'তাবদীল'কে বিধান রহিত হওয়া অর্থে পড়ে। তাবারীর ব্যাখ্যা: আমি যখন কোনো আয়াতের বিধান রহিত করি এবং তার জায়গায় অন্য আয়াতের বিধান বসাই। মুজাহিদের বর্ণনায় আছে: আমি সেটি তুলে নিয়েছি আর অন্যটি নাযিল করেছি। তাঁর থেকে আরেক সূত্রে আছে: রহিত করেছি, বদলে দিয়েছি, তুলে নিয়েছি, আর অন্যটি বহাল করেছি। কাতাদা একে ২:১০৬ আয়াতের মতো বলেন, যেখানে আছে: আমি যে আয়াত রহিত করি বা ভুলিয়ে দিই। ইবন যায়দ সরাসরি বলেন, এই বদল মানেই নাসখ, নাসখ ছাড়া এক আয়াতের জায়গায় অন্য আয়াত আসে না।"
+          },
+          {
+            "en": "Al-Qurtubi records a second reading beside this one. Ibn Bahr, he reports, took the meaning to be: We replaced an earlier law with a newly begun one. The majority, al-Qurtubi says, read it as: We abrogated a verse with a verse that was heavier upon them. He defines naskh and tabdil alike as lifting a thing and putting another in its place, and refers to his fuller discussion under al-Baqarah. Both readings are reported here as he gives them, with no side taken in the wider debates over abrogation.",
+            "bn": "কুরতুবী এর পাশে দ্বিতীয় একটি পাঠও উল্লেখ করেন। তাঁর বর্ণনায় ইবন বাহর অর্থ নিয়েছেন এভাবে: আমি আগের এক শরীয়তকে নতুন শুরু হওয়া শরীয়ত দিয়ে বদলে দিয়েছি। কুরতুবী বলেন, অধিকাংশ আলিম পড়েছেন এভাবে: আমি এক আয়াতকে এমন আয়াত দিয়ে রহিত করেছি যা তাদের উপর আরও কঠিন। নাসখ আর তাবদীল দুটোরই সংজ্ঞা তিনি দেন একভাবে: কোনো কিছু তুলে নিয়ে তার জায়গায় অন্য কিছু রাখা। বিস্তারিত আলোচনার জন্য তিনি সূরা বাকারার দিকে পাঠান। দুটো পাঠই এখানে তাঁর ভাষায় রাখা হলো। নাসখ নিয়ে বড় বিতর্কে কোনো পক্ষ নেওয়া হচ্ছে না।"
+          },
+          {
+            "en": "Al-Baghawi gives the deniers' words in fuller form: Muhammad mocks his companions, commanding them to do a thing today and forbidding it tomorrow; he is nothing but a forger who makes it up himself. As-Sa'di describes the same move from the other side. Allah is the wise Judge who sets rulings and replaces one with another out of His wisdom and mercy, and the deniers seized on this as a proof for themselves. Their fault-finding, he adds, came from ignorance, and criticism without knowledge carries no weight.",
+            "bn": "বাগাভী অস্বীকারকারীদের কথাটা আরও খুলে উদ্ধৃত করেন: মুহাম্মাদ তার সঙ্গীদের নিয়ে তামাশা করে। আজ এক কাজের হুকুম দেয়, কাল সেটাই নিষেধ করে। সে মিথ্যা রচনাকারী ছাড়া কিছু নয়, নিজের মন থেকে বানিয়ে বলে। সা'দী একই ঘটনা দেখেন উল্টো দিক থেকে। আল্লাহ প্রজ্ঞাময় বিধানদাতা। নিজের হিকমত ও রহমতে তিনি বিধান দেন, এক বিধানের জায়গায় আরেকটি আনেন। অস্বীকারকারীরা এটাকেই নিজেদের পক্ষের দলিল বানিয়ে নিল। সা'দী যোগ করেন, তাদের দোষ ধরা এসেছিল অজ্ঞতা থেকে। আর না জেনে দোষ ধরার কোনো মূল্য নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Holy Spirit as Carrier",
+          "bn": "বাণী বহনকারী পবিত্র রূহ"
+        },
+        "p": [
+          {
+            "en": "Ruh al-qudus, the Spirit of holiness, is identified as Jibril in every tafsir fetched for this verse: Ibn Kathir, al-Baghawi and al-Qurtubi name him in their glosses, and the Muyassar names him in its paraphrase. At-Tabari renders the clause as: say, Jibril brought it from my Lord with the truth. He notes that he has explained the term elsewhere, says the people of interpretation held the same, and cites the Successor Muhammad ibn Ka'b: Ruh al-qudus is Jibril.",
+            "bn": "রুহুল কুদুস, অর্থাৎ পবিত্রতার রূহ। এ আয়াতের জন্য সংগ্রহ করা প্রতিটি তাফসীর তাঁকে জিবরীল (আঃ) বলে চিনিয়েছে। ইবন কাসীর, বাগাভী ও কুরতুবী ব্যাখ্যায় তাঁর নাম নেন, মুয়াসসারও সারকথায় তাঁর নামই বলে। তাবারী অংশটিকে এভাবে বলেন: বলো, জিবরীল আমার রবের কাছ থেকে সত্যসহ এটি এনেছেন। তিনি জানান, শব্দটির অর্থ অন্য জায়গায় ব্যাখ্যা করেছেন, আর তাফসীরবিদদের মতও এমনই। প্রমাণ হিসেবে আনেন তাবিয়ী মুহাম্মাদ ইবন কা'বের কথা: রুহুল কুদুস হলেন জিবরীল।"
+          },
+          {
+            "en": "As-Sa'di dwells on the description: Jibril, the sanctified messenger, kept clear of every flaw, every breach of trust and every blight. Al-Qurtubi and at-Tabari both add what he brought: the whole Qur'an, its abrogating verses and its abrogated ones. On that reading the verse that was replaced and the verse that replaced it came by the same carrier, from the same Lord, and that is the reply to the charge of forgery.",
+            "bn": "সা'দী এই গুণটির উপর জোর দেন। জিবরীল (আঃ) পবিত্র বার্তাবাহক, সব দোষ, সব খেয়ানত আর সব ত্রুটি থেকে মুক্ত। তিনি কী এনেছিলেন, কুরতুবী ও তাবারী দুজনেই তা যোগ করেন: পুরো কুরআন, রহিতকারী আয়াত আর রহিত আয়াত দুটোই। এ পাঠ অনুযায়ী যে আয়াত বদলানো হলো আর যে আয়াত তার জায়গা নিল, দুটোই এসেছে একই বাহকের হাতে, একই রবের কাছ থেকে। মিথ্যা রচনার অভিযোগের জবাব এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Notes in al-Qurtubi",
+          "bn": "কুরতুবীর দুটি টীকা"
+        },
+        "p": [
+          {
+            "en": "Beside his gloss al-Qurtubi places two reports. The first is from the Successor Amir ash-Sha'bi, which al-Qurtubi says is narrated with a sound chain: Israfil was assigned to Muhammad ﷺ for three years, bringing him a word and then a word, and then Jibril came down to him with the Qur'an. This is a Successor's account, not a saying of the Prophet ﷺ. For the second he points to Sahih Muslim, where it is recorded (806) from Ibn Abbas (RA). No tafsir fetched attaches a hadith of the Prophet ﷺ to 16:102 itself.",
+            "bn": "ব্যাখ্যার পাশে কুরতুবী দুটি বর্ণনা রাখেন। প্রথমটি তাবিয়ী আমির আশ-শা'বীর, যার সনদ কুরতুবীর ভাষায় সহীহ: ৩ বছর ইসরাফীলকে মুহাম্মাদ ﷺ-এর সঙ্গে নিযুক্ত রাখা হয়েছিল। তিনি একটি একটি করে কথা নিয়ে আসতেন। তারপর জিবরীল (আঃ) কুরআন নিয়ে তাঁর কাছে নামলেন। এটি একজন তাবিয়ীর বর্ণনা, নবী ﷺ-এর বাণী নয়। দ্বিতীয়টির জন্য কুরতুবী সহীহ মুসলিমের দিকে ইশারা করেন, যেখানে এটি (৮০৬) ইবন আব্বাস (রাঃ) থেকে বর্ণিত। সংগ্রহ করা কোনো তাফসীর ১৬:১০২ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি।"
+          },
+          {
+            "en": "\"While Gabriel was sitting with the Apostle (ﷺ) he heard a creaking sound above him. He lifted his head and said: This is a gate opened in heaven today which had never been opened before. Then when an angel descended through it, he said: This is an angel who came down to the earth who had never come down before. He greeted and said: Rejoice in two lights given to you which have not been given to any prophet before you: Fatihat al-Kitab and the concluding verses of Surah al-Baqara. You will never recite a letter from them for which you will not be given (a reward).\"",
+            "bn": "জিবরীল (আঃ) নবী ﷺ-এর কাছে বসে ছিলেন। এমন সময় উপর থেকে একটা শব্দ শুনলেন। মাথা তুলে বললেন: আসমানের এই দরজা আজ খোলা হলো, আজকের আগে কখনো খোলা হয়নি। সেখান দিয়ে একজন ফেরেশতা নামলেন। জিবরীল বললেন: এই ফেরেশতা আজ প্রথম পৃথিবীতে নামলেন, এর আগে কখনো নামেননি। ফেরেশতা সালাম দিয়ে বললেন: দুটি নূরের সুসংবাদ নিন, যা আপনার আগে কোনো নবীকে দেওয়া হয়নি: ফাতিহাতুল কিতাব আর সূরা বাকারার শেষ আয়াতগুলো। এর যে হরফই আপনি পড়বেন, তার প্রতিদান আপনাকে দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truthful and Just in Descent",
+          "bn": "সত্য ও ন্যায়ের সঙ্গে অবতরণ"
+        },
+        "p": [
+          {
+            "en": "Min rabbika bi-l-haqq: from your Lord, with the truth. Ibn Kathir glosses bi-l-haqq as with truthfulness and justice, and the Muyassar uses the same pair. Al-Baghawi gives truthfulness alone. Al-Qurtubi reads min rabbika as from the speech of your Lord, placing the source of the words themselves with Allah. At-Tabari's paraphrase shifts the pronoun because the Prophet ﷺ is now the speaker: Jibril brought it from my Lord with the truth. A forger's words begin with himself; these began with the Lord.",
+            "bn": "মিন রাব্বিকা বিল-হাক্ক: তোমার রবের কাছ থেকে, সত্যসহ। ইবন কাসীর 'বিল-হাক্ক'-এর অর্থ করেন সত্যবাদিতা ও ন্যায়ের সঙ্গে। মুয়াসসারও এই দুটি শব্দই ব্যবহার করে। বাগাভী শুধু সত্যবাদিতার কথা বলেন। কুরতুবী 'মিন রাব্বিকা' পড়েন তোমার রবের কালাম থেকে, অর্থাৎ শব্দগুলোর উৎসই আল্লাহ। তাবারীর সারকথায় সর্বনাম বদলে যায়, কারণ এখানে বক্তা নবী ﷺ নিজে: জিবরীল আমার রবের কাছ থেকে সত্যসহ এটি এনেছেন। মিথ্যা রচনাকারীর কথা শুরু হয় তার নিজের কাছ থেকে, আর এ বাণী শুরু হয়েছে রবের কাছ থেকে।"
+          },
+          {
+            "en": "As-Sa'di separates two senses. Its descent is with the truth, and it contains the truth, in its reports, its commands and its prohibitions. From this he draws a conclusion: no one has a way to fault it with a valid criticism, because once it is known to be the truth, whatever opposes and contradicts it is known to be false. Read beside his note on 16:101, the line closes the argument. The deniers criticised without knowledge, and what they criticised was the truth.",
+            "bn": "সা'দী এখানে দুটি অর্থ আলাদা করেন। এর অবতরণ সত্যসহ, আর এর ভেতরেও আছে সত্য: এর সংবাদে, এর আদেশে, এর নিষেধে। এখান থেকে তিনি সিদ্ধান্ত টানেন। কেউ একে সঠিক যুক্তিতে দোষী করতে পারবে না। কারণ একবার যখন জানা গেল এটা সত্য, তখন এর বিরোধী ও বিপরীত সবকিছুই যে বাতিল, তা-ও জানা হয়ে গেল। ১৬:১০১ আয়াতে তাঁর মন্তব্যের পাশে রাখলে যুক্তিটা পূর্ণ হয়। অস্বীকারকারীরা না জেনে দোষ ধরেছিল, আর যা নিয়ে দোষ ধরেছিল তা ছিল সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Feet Made Firm in Faith",
+          "bn": "ঈমানে পা শক্ত করা"
+        },
+        "p": [
+          {
+            "en": "Li-yuthabbita lladhina amanu: to make firm those who believe. The tafsirs tie this first purpose to the change that unsettled the deniers. At-Tabari says the Qur'an, its abrogating and its abrogated, came down to make the believers firm and strengthen their faith, so that by affirming both they would add faith to their faith. Ibn Kathir: so that they believe in what was sent down first and second, and their hearts humble themselves before Him.",
+            "bn": "লিয়ুসাব্বিতাল্লাযীনা আমানু: যারা ঈমান এনেছে তাদের দৃঢ় রাখার জন্য। যে পরিবর্তন অস্বীকারকারীদের টলিয়ে দিয়েছিল, তাফসীরকারেরা এই প্রথম উদ্দেশ্যকে সেটার সঙ্গেই জুড়ে দেন। তাবারী বলেন, নাসিখ ও মানসুখসহ কুরআন নেমেছে মুমিনদের দৃঢ় করতে, তাদের ঈমান মজবুত করতে। যাতে দুটোকেই সত্য বলে মেনে নিয়ে তারা ঈমানের উপর আরও ঈমান বাড়ায়। ইবন কাসীরের কথা: যাতে আগে যা নেমেছে আর পরে যা নেমেছে, দুটোতেই তারা বিশ্বাস রাখে, আর তাদের অন্তর তাঁর সামনে বিনীত হয়।"
+          },
+          {
+            "en": "Al-Baghawi words it as making firm the hearts of the believers, so that they increase in faith and certainty. Al-Qurtubi places the firmness elsewhere: it comes by the proofs and signs the Qur'an contains. As-Sa'di adds a point that faces the charge in 16:101 directly. Believers know the Qur'an is the truth, so when Allah lays down a ruling and then abrogates it, they know He replaced it with its like or with something better for them, and that the abrogation fits divine wisdom and sound reason.",
+            "bn": "বাগাভীর ভাষায়: মুমিনদের অন্তর দৃঢ় করা, যাতে তাদের ঈমান ও ইয়াকীন বাড়ে। কুরতুবী দৃঢ়তার উৎস দেখান অন্য জায়গায়। তাঁর মতে তা আসে কুরআনের ভেতরের দলিল-প্রমাণ আর নিদর্শন থেকে। সা'দী এমন একটি কথা যোগ করেন, যা ১৬:১০১ আয়াতের অভিযোগের ঠিক মুখোমুখি দাঁড়ায়। মুমিনরা জানে কুরআন সত্য। তাই আল্লাহ যখন কোনো বিধান দিয়ে পরে তা রহিত করেন, তারা বোঝে তিনি এর জায়গায় সমান বা এর চেয়ে ভালো কিছু দিয়েছেন। তারা এটাও বোঝে, এই রহিতকরণ আল্লাহর হিকমত আর সুস্থ বিবেক দুটোরই সঙ্গে মেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truth Arriving Bit by Bit",
+          "bn": "একটু একটু করে আসা সত্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di also ties the firming to the way revelation arrived. Its verses came down and reached the believers time after time, so the truth kept reaching their hearts bit by bit, until their faith stood firmer than the anchoring mountains. Coming down piece by piece, the Qur'an was greater guidance and glad tidings than if it had come all at once, when thought would have scattered over it. Allah sent a ruling, and once they had understood it and drunk from it, He sent another like it.",
+            "bn": "সা'দী দৃঢ়তাকে ওহী আসার ধরনের সঙ্গেও যুক্ত করেন। আয়াতগুলো নামত আর মুমিনদের কাছে পৌঁছাত বারবার, সময়ের ব্যবধানে। ফলে সত্য তাদের অন্তরে পৌঁছাতে থাকত একটু একটু করে। শেষে তাদের ঈমান অটল পাহাড়ের চেয়েও মজবুত হয়ে দাঁড়াল। অল্প অল্প করে নামার কারণে কুরআন বেশি হিদায়াত আর বেশি সুসংবাদ হয়েছে। একসঙ্গে সব এলে চিন্তা ছড়িয়ে-ছিটিয়ে যেত। আল্লাহ একটি বিধান পাঠাতেন। তারা তা বুঝে নিয়ে তৃপ্ত হলে তিনি তার মতো আরেকটি পাঠাতেন।"
+          },
+          {
+            "en": "That, as-Sa'di says, is how the Companions reached so great a station through it: their characters and natures changed, and they moved to manners, customs and deeds by which they surpassed those before and after them. A narration in Sahih al-Bukhari (4993), not attached to this verse by any tafsir fetched, records Aisha (RA) telling a man from Iraq that the first revealed was a surah from al-Mufassal mentioning Paradise and the Fire, and only when people had turned to Islam were the lawful and unlawful revealed.",
+            "bn": "সা'দী বলেন, এভাবেই সাহাবিরা (রাঃ) এর মাধ্যমে এত উঁচু মর্যাদায় পৌঁছেছিলেন। তাঁদের চরিত্র আর স্বভাব বদলে গিয়েছিল। তাঁরা এমন আখলাক, অভ্যাস আর আমলে উঠে এসেছিলেন, যা দিয়ে আগের ও পরের সবাইকে ছাড়িয়ে গেছেন। সহীহ বুখারীর (৪৯৯৩) একটি বর্ণনা আছে, যা সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে যুক্ত করেনি। সেখানে আয়িশা (রাঃ) ইরাকের এক লোককে জানান, প্রথমে নেমেছিল মুফাসসাল অংশের একটি সূরা, যাতে জান্নাত ও জাহান্নামের কথা ছিল। মানুষ যখন ইসলামের দিকে ফিরে এল, তখনই হালাল-হারামের বিধান নামল।"
+          },
+          {
+            "en": "Her next words, in the same narration, are: \"If the first thing to be revealed was: 'Do not drink alcoholic drinks.' people would have said, 'We will never leave alcoholic drinks,' and if there had been revealed, 'Do not commit illegal sexual intercourse,' they would have said, 'We will never give up illegal sexual intercourse.'\" It speaks of revelation's order in general, and is set beside as-Sa'di's point as a parallel only.",
+            "bn": "একই বর্ণনায় তাঁর পরের কথা: প্রথমেই যদি নামত, 'তোমরা মদ পান কোরো না', লোকেরা বলত, 'আমরা কখনো মদ ছাড়ব না।' আর যদি নামত, 'তোমরা যিনা কোরো না', তারা বলত, 'আমরা কখনো যিনা ছাড়ব না।' বর্ণনাটি সাধারণভাবে ওহী নাযিলের ক্রম নিয়ে। সা'দীর বক্তব্যের পাশে এটি কেবল তুলনা হিসেবে রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guidance and Good News Named",
+          "bn": "হিদায়াত আর সুসংবাদের কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-hudan wa-bushra li-l-muslimin: and guidance and glad tidings for the Muslims. Three purposes, then: the first as a verb, the other two as nouns, linked by the tafsirs in different ways. Ibn Kathir supplies a verb: and He made it a guide and glad tidings. Al-Qurtubi supplies a subject: and it is guidance and glad tidings. At-Tabari runs all three together as aims of the one sending down: to make the believers firm, as guidance for them out of error, and as glad tidings for the Muslims.",
+            "bn": "ওয়া হুদাওঁ ওয়া বুশরা লিল-মুসলিমীন: আর মুসলিমদের জন্য হিদায়াত ও সুসংবাদ। তাহলে উদ্দেশ্য তিনটি। প্রথমটি ক্রিয়াপদে, বাকি দুটি বিশেষ্যে, আর তাফসীরকারেরা এদের জোড়েন ভিন্ন ভিন্নভাবে। ইবন কাসীর একটি ক্রিয়া যোগ করেন: আর তিনি একে বানিয়েছেন পথপ্রদর্শক ও সুসংবাদ। কুরতুবী শুরুতে 'এটি' বসিয়ে দেন: আর এটি হিদায়াত ও সুসংবাদ। তাবারী তিনটিকেই একই অবতরণের লক্ষ্য হিসেবে একসঙ্গে বলেন: মুমিনদের দৃঢ় করা, তাদের গোমরাহি থেকে বের করে পথ দেখানো, আর মুসলিমদের সুসংবাদ দেওয়া।"
+          },
+          {
+            "en": "Who are al-muslimin here? At-Tabari defines them as those who surrendered to Allah's command, yielded to His command and prohibition and to all He sent down in His Book, affirmed all of it, and believed it in word and deed. Ibn Kathir: the Muslims who believe in Allah and His messengers. The Muyassar: those who submitted and humbled themselves to Allah, Lord of the worlds. Firming is named for believers and glad tidings for those who submit; at-Tabari's definition joins the two.",
+            "bn": "এখানে 'মুসলিমীন' কারা? তাবারীর সংজ্ঞায় তারা সেই লোক, যারা আল্লাহর হুকুমের কাছে আত্মসমর্পণ করেছে। তাঁর আদেশ-নিষেধ আর কিতাবে তিনি যা নাযিল করেছেন সবকিছুর অনুগত হয়েছে, সব মেনে নিয়েছে, কথায় ও কাজে সত্য বলে গ্রহণ করেছে। ইবন কাসীরের ভাষায়: যে মুসলিমরা আল্লাহ ও তাঁর রাসূলদের উপর ঈমান এনেছে। মুয়াসসারের ভাষায়: যারা বিশ্বজগতের রব আল্লাহর কাছে আত্মসমর্পণ করেছে, তাঁর সামনে নত হয়েছে। দৃঢ়তার কথা এসেছে মুমিনদের জন্য, সুসংবাদের কথা আত্মসমর্পণকারীদের জন্য। তাবারীর সংজ্ঞা দুটিকে মিলিয়ে দেয়।"
+          },
+          {
+            "en": "As-Sa'di fills in both nouns. As guidance it leads them to the realities of things and makes clear to them truth from falsehood and guidance from error. As glad tidings it tells them they have a fine reward in which they will remain forever. He closes with a charge: those who came after should be raised on its knowledge, take on its character, seek its light in the darkness of error, and make it their guide in every state.",
+            "bn": "সা'দী দুটি বিশেষ্যেরই অর্থ খুলে বলেন। হিদায়াত হিসেবে কুরআন তাদের জিনিসের প্রকৃত রূপ পর্যন্ত নিয়ে যায়। সত্য আর বাতিল, হিদায়াত আর গোমরাহির পার্থক্য স্পষ্ট করে দেয়। সুসংবাদ হিসেবে জানায়, তাদের জন্য আছে উত্তম প্রতিদান, যেখানে তারা চিরকাল থাকবে। শেষে তিনি একটি আহ্বান রাখেন। যারা পরে এসেছে, তাদের উচিত কুরআনের জ্ঞানে বেড়ে ওঠা, এর আখলাকে গড়ে ওঠা, গোমরাহির অন্ধকারে এর আলো খোঁজা, আর সব অবস্থায় একে নিজেদের ইমাম বানানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Next Charge, and Its Limits",
+          "bn": "পরের অভিযোগ ও তার সীমা"
+        },
+        "p": [
+          {
+            "en": "Verse 16:103 turns to a second charge: only a human being teaches him. The verse answers that the man they point to speaks a foreign tongue, while this is clear Arabic. Ibn Kathir and al-Baghawi, who notes they differed, list the names in the reports. Ibn Ishaq names Jabr, a Christian slave, prefacing it with as it reached me. Ikrima names Ya'ish; a report from Ibn Abbas names Bal'am. Ibn Kathir calls ad-Dahhak's naming of Salman al-Farisi weak: the verse is Meccan, and Salman accepted Islam in Madinah.",
+            "bn": "১৬:১০৩ আয়াত দ্বিতীয় এক অভিযোগে যায়: একজন মানুষই তাকে শেখায়। আয়াতের জবাব, তারা যার দিকে ইশারা করে তার ভাষা অনারব, আর এ কুরআন স্পষ্ট আরবি। ইবন কাসীর ও বাগাভী বর্ণনায় আসা নামগুলো উল্লেখ করেন, আর বাগাভী জানান এ নিয়ে মতভেদ আছে। ইবন ইসহাক নাম বলেন জাবর, এক খ্রিস্টান দাস। তবে শুরুতে জুড়ে দেন 'আমার কাছে যেমন পৌঁছেছে'। ইকরিমা বলেন ইয়াঈশ, আর ইবন আব্বাস থেকে এক বর্ণনায় নাম বালআম। দাহহাক বলেছেন সালমান ফারসী। ইবন কাসীর এ মতকে দুর্বল বলেন, কারণ আয়াতটি মাক্কী আর সালমান ইসলাম গ্রহণ করেছেন মদীনায়।"
+          },
+          {
+            "en": "These names belong to that verse and appear here only as context. Al-Baghawi adds a report that the man they pointed to accepted Islam and was good in his Islam. The verses describe what the deniers said and how the charge was answered. They license nothing against Christians, non-Arabs or any living person or community. What 16:102 leaves the reader with is simpler: the words came down from the Lord, by a trusted carrier, to steady the believer, guide him and give him glad tidings.",
+            "bn": "এই নামগুলো ওই আয়াতের আলোচনার, এখানে কেবল প্রেক্ষাপট হিসেবে রাখা হলো। বাগাভী একটি বর্ণনা যোগ করেন যে, তারা যার দিকে ইশারা করত সে লোক ইসলাম গ্রহণ করেছিল এবং ভালো মুসলিম হয়েছিল। আয়াতগুলো শুধু বর্ণনা করে অস্বীকারকারীরা কী বলেছিল আর অভিযোগের জবাব কীভাবে এল। খ্রিস্টান, অনারব কিংবা জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। ১৬:১০২ পাঠককে যা দিয়ে যায় তা আরও সরল। এ বাণী রবের কাছ থেকে নেমেছে, বিশ্বস্ত বাহকের হাতে, মুমিনকে স্থির রাখতে, পথ দেখাতে আর সুসংবাদ দিতে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:106": {
     "sections": [
       {

@@ -22471,6 +22471,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Shadows, creatures and angels all bow to Allah. Give your own prostration willingly, and let no pride hold you back from worshipping Him.",
     "lessonBn": "ছায়া, প্রাণী আর ফেরেশতা সবাই আল্লাহকে সিজদা করে। আপনিও নিজের সিজদা খুশিমনে দিন, আর কোনো অহংকার যেন তাঁর ইবাদত থেকে আপনাকে আটকে না রাখে।"
+  },
+  "16:102": {
+    "reflectionEn": "The charge in the verse before is blunt: you are only making this up. The reply does not argue at length. It names who brought the words down, the Holy Spirit, from your Lord, with the truth. Then it names what the words are for. They are sent to make firm those who already believe, and to be guidance and glad tidings to those who submit. A change that unsettled the doubters was meant to steady the faithful. That turns the question inward. When a teaching asks something new of me, or comes in an order I did not expect, does it shake me or settle me? Am I reading the Qur'an to be made firm, or only to be confirmed in what I already want?",
+    "reflectionBn": "আগের আয়াতের অভিযোগটা সোজা: তুমি তো এসব বানিয়ে বলছ। জবাবে লম্বা তর্ক নেই। প্রথমে বলা হয়েছে কে এই বাণী নামিয়ে এনেছেন: রুহুল কুদুস, তোমার রবের কাছ থেকে, সত্যসহ। তারপর বলা হয়েছে বাণীটা কিসের জন্য। যারা ঈমান এনেছে তাদের দৃঢ় রাখতে, আর যারা আত্মসমর্পণ করেছে তাদের জন্য হিদায়াত ও সুসংবাদ হতে। যে পরিবর্তন সন্দেহকারীদের টলিয়ে দিল, তা-ই মুমিনদের পা শক্ত করার জন্য এসেছিল। প্রশ্নটা তাই নিজের দিকে ফেরে। কোনো শিক্ষা যখন আমার কাছে নতুন কিছু চায়, কিংবা এমন ক্রমে আসে যা আমি ভাবিনি, তখন তা আমাকে নাড়িয়ে দেয়, না স্থির করে? আমি কি কুরআন পড়ি দৃঢ় হওয়ার জন্য, নাকি শুধু নিজের পছন্দের কথাটা মিলিয়ে নেওয়ার জন্য?",
+    "pointsEn": [
+      "When I hear that a ruling changed over the years of revelation, does it unsettle my trust or deepen it?",
+      "Which verse has made me firmer in a hard season, and do I return to it when I waver?",
+      "Do I treat the Qur'an as guidance that may correct me, or only as glad tidings that comfort me?",
+      "What would it mean for me to receive the Qur'an a little at a time, living each part before asking for the next?",
+      "When someone mocks what I believe, do I answer with heat, or point calmly to where it came from?"
+    ],
+    "pointsBn": [
+      "নাযিলের বছরগুলোতে কোনো বিধান বদলেছিল শুনলে আমার আস্থা কি টলে যায়, নাকি আরও গভীর হয়?",
+      "কঠিন সময়ে কোন আয়াত আমাকে দৃঢ় রেখেছে? মন টললে আমি কি সেই আয়াতের কাছে ফিরে যাই?",
+      "কুরআনকে আমি কি এমন হিদায়াত মনে করি যা আমাকে শুধরে দিতে পারে, নাকি কেবল সান্ত্বনার সুসংবাদ?",
+      "অল্প অল্প করে কুরআন গ্রহণ করা, এক অংশ জীবনে ফলিয়ে তারপর পরেরটা চাওয়া, আমার জন্য এর মানে কী হতে পারে?",
+      "কেউ আমার বিশ্বাস নিয়ে ঠাট্টা করলে আমি কি রেগে জবাব দিই, নাকি শান্তভাবে দেখিয়ে দিই এ বাণী কোথা থেকে এসেছে?"
+    ],
+    "lessonEn": "Read the Qur'an as a revelation sent to make your faith firm, and let it guide and gladden you even when it asks for change.",
+    "lessonBn": "কুরআন পড়ুন এমন বাণী হিসেবে, যা আপনার ঈমান দৃঢ় করতে নেমেছে। পরিবর্তন চাইলেও তাকে আপনার পথ দেখাতে আর মন খুশি করতে দিন।"
   }
 };
 
