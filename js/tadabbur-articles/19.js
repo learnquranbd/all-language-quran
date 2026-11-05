@@ -1639,6 +1639,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:43-44": {
+    "sections": [
+      {
+        "h": {
+          "en": "Every Sentence Opens With Father",
+          "bn": "প্রতিটি বাক্যের শুরুতে বাবা"
+        },
+        "p": [
+          {
+            "en": "The account opens in 19:41, which calls Ibrahim (AS) a man of truth and a prophet, and 19:42 gives his first question: why worship what neither hears nor sees? Our two verses carry his second and third sentences, and each opens the same way: ya abati, O my father. Ibn Kathir, in the abridged English on 19:41 to 19:45, reads the passage as said to the Prophet ﷺ: recite this to your people who worship idols, who are Ibrahim's descendants and claim to follow his religion.",
+            "bn": "কাহিনির শুরু ১৯:৪১ আয়াতে, যেখানে ইবরাহীম (আঃ)-কে বলা হয়েছে সত্যনিষ্ঠ ও নবী। ১৯:৪২ আয়াতে তাঁর প্রথম প্রশ্ন: যা শোনে না, দেখে না, তার ইবাদত কেন করেন? আমাদের দুই আয়াতে আছে তাঁর দ্বিতীয় ও তৃতীয় কথা, আর দুটিই শুরু হয় একইভাবে: ইয়া আবাতি, হে আমার পিতা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ১৯:৪১ থেকে ১৯:৪৫ পর্যন্ত অংশটিকে পড়ে নবী ﷺ-এর প্রতি নির্দেশ হিসেবে। আপনার মূর্তিপূজারি কওমকে এ কথা শোনান। তারা ইবরাহীমেরই বংশধর, আর তাঁর দ্বীন মানার দাবিও করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, on 19:42 to 19:46, says that in Arabic ya abati conveys deep respect and intense love for one's father, and that Ibrahim (AS) placed it at the beginning of each sentence of the address. He found his father in unbelief and calling others to it, the very thing he was sent to end, and he still felt a son's love and respect. Ma'arif's point is how he held the two together: not one word to wound, no 'infidel' or 'sinner', only his father's attention drawn to the helplessness of the idols.",
+            "bn": "মাআরিফুল কুরআন ১৯:৪২ থেকে ১৯:৪৬ আয়াতের আলোচনায় বলে, আরবিতে ইয়া আবাতি শব্দে বাবার প্রতি গভীর শ্রদ্ধা আর তীব্র ভালোবাসা ফুটে ওঠে। ইবরাহীম (আঃ) প্রতিটি বাক্যের শুরুতেই এ ডাক রেখেছেন। তিনি দেখছিলেন, বাবা কুফরে ডুবে আছেন, অন্যদেরও সেদিকে ডাকছেন। অথচ ঠিক এটা মুছে দিতেই তাঁকে পাঠানো হয়েছে। আবার মনের ভেতরে ছেলের ভালোবাসা আর সম্মানও আছে। মাআরিফের মতে লক্ষ করার বিষয় হলো, দুটিকে তিনি একসঙ্গে ধরে রেখেছেন। একটিও আঘাত দেওয়া শব্দ নেই, কাফির বা গুনাহগার বলে ডাকা নেই। শুধু বাবার চোখ টেনে নিয়েছেন মূর্তিগুলোর অসহায়ত্বের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ta Where My Stood",
+          "bn": "‘আমার’-এর জায়গায় একটি তা"
+        },
+        "p": [
+          {
+            "en": "The form is unusual. Elsewhere the Qur'an says li-abihi, to his father, and the plain vocative would be ya abi, O my father; here it is ya abati, with a ta'. At-Tabari, on 19:42, where the call first occurs in this passage, reports that grammarians differed over the letter. Some Basran grammarians held it was an added ha', said ya abah in pause, made binding because ab has only two letters. Some Kufan grammarians held it began as a pausal ha' that grew so common it was treated like the feminine ending, and whoever means my must say it with ta'.",
+            "bn": "রূপটা একটু ব্যতিক্রমী। অন্য জায়গায় কুরআন বলে লি-আবীহি, তার পিতাকে, আর সাধারণ সম্বোধন হতো ইয়া আবী, হে আমার পিতা। এখানে আছে ইয়া আবাতি, শেষে একটি তা। এ অংশে ডাকটা প্রথম এসেছে ১৯:৪২ আয়াতে। সেখানে তাবারী জানান, এ অক্ষর নিয়ে ব্যাকরণবিদদের মতভেদ আছে। বসরার কিছু ব্যাকরণবিদ বলেন, এটি বাড়তি একটি হা, থামলে বলা হয় ইয়া আবাহ। শব্দ আব মাত্র দুই অক্ষরের বলে হা-টি স্থায়ী হয়ে গেছে। কুফার কিছু ব্যাকরণবিদ বলেন, শুরুতে এটি ছিল থামার হা। মুখে মুখে এত চলেছে যে স্ত্রীলিঙ্গের চিহ্নের মতো ধরা হয়। আর যে ‘আমার’ বোঝাতে চায়, তাকে তা দিয়েই বলতে হয়।"
+          },
+          {
+            "en": "Al-Qurtubi, on 19:42, refers back to his discussion at 12:4, where Yusuf (AS) uses the same call to his father. There he gives the Basran view that the ta' is the feminine marker, brought onto ab in the vocative only, in place of the ya' of my; an-Nahhas reports that for Sibawayh the ta' replaces that ya', and so no one says ya abatiya, since the two are never combined. Al-Farra' held that the vowel still points to an intended ya'; Abu Ishaq called that a mistake. Neither commentator says that the ta' itself adds tenderness.",
+            "bn": "কুরতুবী ১৯:৪২ আয়াতে এসে পাঠককে পাঠান ১২:৪ আয়াতের আলোচনায়, যেখানে ইউসুফ (আঃ) তাঁর পিতাকে একই ডাকে ডেকেছেন। সেখানে তিনি বসরার মত তুলে ধরেন। তাঁদের মতে তা হলো স্ত্রীলিঙ্গের চিহ্ন, শুধু সম্বোধনের সময় আব শব্দে বসে, ‘আমার’ বোঝানো ইয়া-এর বদলে। নাহহাস জানান, সিবাওয়াইহের মতেও তা ওই ইয়া-এর স্থান নিয়েছে। তাই কেউ ইয়া আবাতিয়া বলে না, দুটো একসঙ্গে বসে না। ফাররার মতে স্বরচিহ্নটি এখনো উহ্য ইয়া-এর দিকে ইশারা করে। আবু ইসহাক একে ভুল বলেছেন। তবে দুই মুফাসসিরের কেউই বলেননি যে তা অক্ষরটি নিজে আলাদা কোমলতা যোগ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Claimed Without Contempt",
+          "bn": "জ্ঞানের দাবি, তাচ্ছিল্য ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Ya abati, inni qad ja'ani mina l-'ilmi ma lam ya'tika: there has come to me of knowledge what has not come to you. Ibn Kathir voices what the sentence answers. Though I am from your loins, and you see me as lesser than you because I am your son, know that I have been shown knowledge from Allah that you do not know, and that has not reached you. As-Sa'di puts it more directly in the son's mouth: do not look down on me, saying, I am your son, and you have what I do not.",
+            "bn": "ইয়া আবাতি, ইন্নী কাদ জাআনী মিনাল ইলমি মা লাম ইয়াতিক: আমার কাছে এমন জ্ঞান এসেছে, যা আপনার কাছে আসেনি। বাক্যটা কোন কথার জবাব, ইবন কাসীর তা খুলে বলেন। আমি আপনারই ঔরসের সন্তান, ছেলে বলে আপনি আমাকে নিজের চেয়ে ছোট ভাবেন। তবু জেনে রাখুন, আল্লাহর কাছ থেকে আমাকে এমন জ্ঞান জানানো হয়েছে, যা আপনি জানেন না, আপনার কাছে তা পৌঁছায়নি। সা'দী কথাটা আরও সরাসরি ছেলের মুখে বসান: আমাকে তুচ্ছ ভাববেন না, বলবেন না যে আমি আপনার ছেলে আর আপনার কাছে এমন কিছু আছে যা আমার কাছে নেই।"
+          },
+          {
+            "en": "As-Sa'di then names the gentleness in the wording. Ibrahim (AS) did not say, father, I am learned and you are ignorant, or, you have no knowledge at all. He chose a form implying that both of them have knowledge, and that what reached him had not reached his father; so the father ought to follow the proof and yield to it. At-Tabari and the Muyassar make the giver explicit in their paraphrase: Allah has given me of knowledge what He has not given you. The claim rests on a gift received, not on the son's own standing.",
+            "bn": "এরপর সা'দী শব্দচয়নের কোমলতাটা চিনিয়ে দেন। ইবরাহীম (আঃ) বলেননি, বাবা, আমি জ্ঞানী আর আপনি মূর্খ। বলেননি, আপনার কাছে কোনো জ্ঞানই নেই। তিনি এমন ভঙ্গি বেছেছেন, যাতে বোঝা যায় দুজনের কাছেই জ্ঞান আছে, শুধু তাঁর কাছে যা পৌঁছেছে তা বাবার কাছে পৌঁছায়নি। কাজেই বাবার উচিত দলিলের পেছনে চলা, দলিল মেনে নেওয়া। তাবারী আর মুয়াসসার নিজেদের ব্যাখ্যায় দাতার নামটা স্পষ্ট করে দেন: আল্লাহ আমাকে এমন জ্ঞান দিয়েছেন, যা আপনাকে দেননি। দাবির ভিত্তি তাই পাওয়া এক দান, ছেলের নিজের মর্যাদা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Level Road on Offer",
+          "bn": "সোজা সমান পথের প্রস্তাব"
+        },
+        "p": [
+          {
+            "en": "What that knowledge was, the commentators fill in. Al-Qurtubi: certainty, and knowledge of Allah and of what comes after death, and that whoever worships other than Allah will be punished. Al-Baghawi: knowledge of Allah and recognition of Him. Ma'arif speaks of the prophetic knowledge granted to him by Allah. As-Sa'di says the knowledge clause is there for the sake of what follows it: fattabi'ni ahdika siratan sawiyya, so follow me, and I will guide you to an even path.",
+            "bn": "সেই জ্ঞান কী ছিল, মুফাসসিরেরা তা বলে দেন। কুরতুবীর মতে, ইয়াকীন, আল্লাহর পরিচয়, মৃত্যুর পরে কী ঘটে তার জ্ঞান, আর এ জ্ঞান যে আল্লাহ ছাড়া অন্যের ইবাদত করে তার আযাব হবে। বাগাভীর মতে, আল্লাহর জ্ঞান ও তাঁকে চেনা। মাআরিফুল কুরআন বলে, আল্লাহর দেওয়া নবুওয়াতের জ্ঞান। সা'দী বলেন, জ্ঞানের কথাটা এসেছে পরের কথার জন্যই: ফাত্তাবি'নী আহদিকা সিরাতান সাওয়িয়্যা, কাজেই আমার অনুসরণ করুন, আমি আপনাকে সোজা পথ দেখাব।"
+          },
+          {
+            "en": "At-Tabari glosses fattabi'ni as: accept my counsel. He reads ahdika as: I will show you the guidance of the level road, on which you will not go astray if you keep to it, and that is the religion of Allah, in which there is no crookedness. Ibn Kathir: a straight road that brings you to what is sought and saves you from what is feared. As-Sa'di: straight and balanced, which is worshipping Allah alone, with no partner, and obeying Him in every state. Al-Qurtubi: a straight religion in which there is salvation.",
+            "bn": "তাবারী ফাত্তাবি'নী-র ব্যাখ্যা করেন এভাবে: আমার নসিহত কবুল করুন। আহদিকা-র অর্থ তাঁর কাছে: আমি আপনাকে সমান পথের দিশা দেখাব। সে পথ আঁকড়ে থাকলে আপনি পথ হারাবেন না। সেটাই আল্লাহর দ্বীন, যাতে কোনো বাঁক নেই। ইবন কাসীর বলেন, এমন সোজা পথ, যা কাঙ্ক্ষিত লক্ষ্যে পৌঁছে দেয় আর ভয়ের জিনিস থেকে বাঁচায়। সা'দী বলেন, সোজা ও ভারসাম্যপূর্ণ পথ, আর তা হলো শরিকহীনভাবে এক আল্লাহর ইবাদত, প্রতিটি অবস্থায় তাঁর আনুগত্য। কুরতুবীর ভাষায়, এক সোজা দ্বীন, যাতে মুক্তি আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Obeying Him Is Worshipping Him",
+          "bn": "যার কথা মানা, তারই ইবাদত"
+        },
+        "p": [
+          {
+            "en": "Ya abati, la ta'budi sh-shaytan: O my father, do not worship Satan. The father bowed to idols, not to Satan by name, and the commentators read the command through obedience. Ibn Kathir: do not obey him in this worship of yours, these idols, for it is he who calls to it and is pleased with it. Al-Baghawi: do not obey him in the disbelief and shirk he makes attractive to you. The Muyassar: do not obey Satan and so worship these idols. The idol is what the eye sees; the obedience runs to someone else.",
+            "bn": "ইয়া আবাতি, লা তা'বুদিশ শাইতান: হে আমার পিতা, শয়তানের ইবাদত করবেন না। বাবা তো মাথা নোয়াতেন মূর্তির সামনে, নাম ধরে শয়তানের সামনে নয়। তাই মুফাসসিরেরা নিষেধটা পড়েন আনুগত্যের অর্থে। ইবন কাসীর বলেন, এই যে মূর্তিপূজা, এতে তার কথা মানবেন না। সে-ই এর দিকে ডাকে, আর এতেই সে খুশি। বাগাভী বলেন, যে কুফর আর শিরক সে আপনার চোখে সুন্দর করে দেখায়, তাতে তার আনুগত্য করবেন না। মুয়াসসার বলে, শয়তানের কথা মেনে এসব মূর্তির ইবাদত করবেন না। চোখে পড়ে মূর্তি, অথচ আনুগত্য যায় অন্য কারও কাছে।"
+          },
+          {
+            "en": "Al-Qurtubi states the principle in one line: whoever obeys something in disobedience to Allah has worshipped it. As-Sa'di frames it from the other side: whoever worships other than Allah has worshipped Satan. Ibn Kathir and as-Sa'di both cite 36:60, Did I not enjoin you, children of Adam, not to worship Satan?, and Ibn Kathir adds 4:117, where those who call on others besides Him call on none but a rebellious Satan. As-Sa'di draws the consequence: whoever follows his footsteps has taken him as a patron, and becomes, like him, disobedient to Allah.",
+            "bn": "কুরতুবী মূলনীতিটা বলেন এক বাক্যে: আল্লাহর নাফরমানিতে যে কারও কথা মানে, সে তারই ইবাদত করল। সা'দী একই কথা বলেন উল্টো দিক থেকে: যে আল্লাহ ছাড়া অন্যের ইবাদত করে, সে আসলে শয়তানেরই ইবাদত করে। ইবন কাসীর ও সা'দী দুজনেই আনেন ৩৬:৬০ আয়াত: হে আদমসন্তান, আমি কি তোমাদের থেকে অঙ্গীকার নিইনি যে শয়তানের ইবাদত করবে না? ইবন কাসীর যোগ করেন ৪:১১৭ আয়াত, যেখানে আল্লাহকে ছেড়ে যারা অন্যকে ডাকে, তারা আসলে ডাকে এক বিদ্রোহী শয়তানকেই। সা'দী পরিণতিটাও টানেন: যে তার পদচিহ্ন ধরে চলে, সে তাকে অভিভাবক বানিয়ে নিল, আর তারই মতো আল্লাহর নাফরমান হয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rebel Against the Most Merciful",
+          "bn": "দয়াময়ের বিরুদ্ধে নাফরমান"
+        },
+        "p": [
+          {
+            "en": "Inna sh-shaytana kana li-r-Rahmani 'asiyya: Satan has ever been, to the Most Merciful, disobedient. At-Tabari explains 'asiyy as the one possessed of disobedience, as 'alim is the one possessed of knowledge, and adds that some scholars of Arabic took it simply as 'asi, the one who disobeys, citing a line of Tarif al-'Anbari. Al-Qurtubi reports al-Kisa'i: the two forms mean one thing. On kana he lists three views: an added word, or it means became, or it describes a present state; al-Baghawi takes the last.",
+            "bn": "ইন্নাশ শাইতানা কানা লির রাহমানি আসিয়্যা: শয়তান তো দয়াময়ের বড় নাফরমান। তাবারী আসিয়্যু শব্দের ব্যাখ্যা দেন নাফরমানির অধিকারী হিসেবে, যেমন আলীম মানে জ্ঞানের অধিকারী। তিনি আরও জানান, আরবি ভাষার কিছু আলেম একে সরাসরি আসি, অর্থাৎ যে অমান্য করে, অর্থে নিয়েছেন। প্রমাণ হিসেবে তাঁরা তারীফ আল-আনবারীর এক পঙক্তি এনেছেন। কুরতুবী কিসাঈর কথা উদ্ধৃত করেন: দুটি রূপের অর্থ একই। কানা শব্দ নিয়ে তিনি তিনটি মত দেন। এটি বাড়তি শব্দ, অথবা এর অর্থ হয়ে গেল, অথবা এটি বর্তমান অবস্থা বোঝায়। বাগাভী শেষ মতটি নেন।"
+          },
+          {
+            "en": "Ibn Kathir gives the sense: opposing, and too proud to obey his Lord, so He expelled him and drove him far; then he turns it into the son's warning: do not follow him, or you will become like him. Why ar-Rahman here? As-Sa'di answers that tying the disobedience to the name the Most Merciful signals that sins bar the servant from Allah's mercy and close its doors on him, just as obedience is the greatest means of reaching it. The next verse, 19:45, keeps the name: I fear that a punishment from the Most Merciful will touch you.",
+            "bn": "ইবন কাসীর অর্থটা বলেন এভাবে: বিরোধী, রবের আনুগত্যের ব্যাপারে অহংকারী। তাই আল্লাহ তাকে তাড়িয়ে দূরে সরিয়ে দিয়েছেন। তারপর তিনি কথাটাকে ছেলের সতর্কবাণী বানিয়ে দেন: তার পেছনে চলবেন না, নইলে আপনিও তার মতো হয়ে যাবেন। এখানে আর-রাহমান নামটাই কেন? সা'দীর জবাব, নাফরমানিকে দয়াময় নামের সঙ্গে জুড়ে দেওয়ার ইশারা হলো, গুনাহ বান্দাকে আল্লাহর রহমত থেকে আটকে দেয়, রহমতের দরজাগুলো তার সামনে বন্ধ করে দেয়। আর আনুগত্যই রহমত পাওয়ার সবচেয়ে বড় উপায়। পরের আয়াত ১৯:৪৫-ও নামটা ধরে রাখে: আমার ভয় হয়, দয়াময়ের পক্ষ থেকে কোনো আযাব আপনাকে ছুঁয়ে ফেলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reply, and a Name",
+          "bn": "বাবার জবাব, আর একটি নাম"
+        },
+        "p": [
+          {
+            "en": "In 19:46 the father answers without softness: are you turning from my gods, Ibrahim? If you do not stop, I will stone you; so leave me for a long while. Ma'arif notes that the repeated ya abati should have drawn a tender ya bunayya, my dear son, and instead he called him by his bare name. In 19:47 Ibrahim (AS) answers with peace and a promise to ask his Lord's forgiveness for him. Of that promise, 9:114 says his asking was only because of a promise he had made.",
+            "bn": "১৯:৪৬ আয়াতে বাবার জবাবে কোনো নরমভাব নেই: ইবরাহীম, তুমি কি আমার দেবতাদের থেকে মুখ ফিরিয়ে নিচ্ছ? না থামলে তোমাকে পাথর মেরে শেষ করব। দীর্ঘ সময়ের জন্য আমার কাছ থেকে দূর হও। মাআরিফুল কুরআন লক্ষ করে, বারবার ইয়া আবাতি ডাকের জবাবে আসা উচিত ছিল স্নেহের ইয়া বুনাইয়া, আমার বাছা। অথচ বাবা তাঁকে ডাকলেন শুধু নাম ধরে। ১৯:৪৭ আয়াতে ইবরাহীম (আঃ) জবাব দেন সালাম দিয়ে, আর রবের কাছে বাবার জন্য মাগফিরাত চাওয়ার ওয়াদা দিয়ে। সেই ওয়াদা সম্পর্কে ৯:১১৪ আয়াত বলে, তাঁর ইস্তিগফার ছিল কেবল এক প্রতিশ্রুতির কারণে।"
+          },
+          {
+            "en": "Ibn Kathir, on 9:114, relays from Ibn Abbas that Ibrahim (AS) kept asking forgiveness for his father until he died, and when it became clear he had died an enemy of Allah, he dissociated himself from him. The name is a separate question. Al-Qurtubi and al-Baghawi, on 19:42, call the father Azar, as 6:74 does. On 6:74 Ibn Kathir relays from Ibn Abbas that his name was Tarih and that Azar was an idol, a view also given from Mujahid and as-Suddi; he reports that at-Tabari held the name was Azar, allowing two names or a title, and calls that strong.",
+            "bn": "ইবন কাসীর ৯:১১৪ আয়াতের আলোচনায় ইবন আব্বাস (রাঃ) থেকে বর্ণনা আনেন: বাবার মৃত্যু পর্যন্ত ইবরাহীম (আঃ) তাঁর জন্য মাগফিরাত চেয়ে গেছেন। যখন স্পষ্ট হলো যে তিনি আল্লাহর শত্রু অবস্থায় মারা গেছেন, তখন তিনি তাঁর থেকে সম্পর্কমুক্ত হলেন। নামের প্রশ্নটা আলাদা। কুরতুবী ও বাগাভী ১৯:৪২ আয়াতে বাবার নাম বলেন আযর, যেমন ৬:৭৪ আয়াতে আছে। ৬:৭৪ আয়াতের আলোচনায় ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে আনেন, তাঁর নাম ছিল তারিহ, আর আযর এক মূর্তির নাম। মুজাহিদ ও সুদ্দী থেকেও এ মত আছে। তিনি জানান, তাবারীর মতে নাম আযরই, হয়তো দুটি নাম ছিল, বা একটি উপাধি। ইবন কাসীর এ জবাবকে মজবুত বলেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds Muqatil's view that Azar was a title and Tarih the name, and notes that it could be the reverse. The commentators fetched here do not settle it, and neither does this article. For these two verses the Qur'an's own word is enough: abihi, his father, and ya abati in every sentence. Whatever the name, the address is a son's, and the son is a prophet whom 19:41 calls a man of truth; nothing in the disagreement touches his standing.",
+            "bn": "কুরতুবী মুকাতিলের মতও আনেন: আযর উপাধি, তারিহ আসল নাম। তিনি বলেন, উল্টোটাও হতে পারে। এখানে আনা মুফাসসিরদের লেখায় প্রশ্নটার মীমাংসা হয়নি, এ লেখাও কোনো পক্ষ নেয় না। এই দুই আয়াতের জন্য কুরআনের নিজের শব্দই যথেষ্ট: আবীহি, তাঁর পিতা, আর প্রতিটি বাক্যে ইয়া আবাতি। নাম যা-ই হোক, সম্বোধনটা এক ছেলের। আর সেই ছেলে এমন নবী, যাঁকে ১৯:৪১ আয়াত সত্যনিষ্ঠ বলেছে। এ মতভেদ তাঁর মর্যাদায় কোনো দাগ ফেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Father and Son, Met Again",
+          "bn": "আবার মুখোমুখি বাবা ও ছেলে"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched on 19:43 or 19:44 attaches a hadith. One sound narration, not attached to them, takes up the same father and son. Al-Bukhari reports from Abu Huraira that the Prophet ﷺ said: “Ibrahim will meet his father Azar on the Day of Resurrection, and on Azar's face will be darkness and dust. Ibrahim will say to him: Did I not tell you not to disobey me? His father will say: Today I will not disobey you. Ibrahim will say: My Lord, You promised me that You would not disgrace me on the Day they are raised; what disgrace is greater than my father, the most distant?",
+            "bn": "১৯:৪৩ বা ১৯:৪৪ আয়াতে যেসব মুফাসসিরের লেখা আনা হয়েছে, তাঁদের কেউ এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেননি। তবে একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই বাবা-ছেলের কথা বলে। বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: “কিয়ামতের দিন ইবরাহীম তাঁর পিতা আযরের দেখা পাবেন। আযরের মুখে থাকবে কালিমা আর ধুলো। ইবরাহীম তাঁকে বলবেন: আমি কি আপনাকে বলিনি, আমার অবাধ্য হবেন না? তাঁর পিতা বলবে: আজ আর তোমার অবাধ্য হব না। ইবরাহীম বলবেন: হে আমার রব, আপনি আমাকে কথা দিয়েছিলেন, পুনরুত্থানের দিন আমাকে লাঞ্ছিত করবেন না। দূরতম হয়ে যাওয়া আমার পিতার চেয়ে বড় লাঞ্ছনা আর কী হতে পারে?"
+          },
+          {
+            "en": "Allah the Exalted will say: I have forbidden Paradise to the disbelievers. Then it will be said: Ibrahim, what is beneath your feet? He will look, and there is a hyena, smeared, and it is taken by its legs and thrown into the Fire.” It is Bukhari 3350, and its grading is its place in al-Bukhari's Sahih. Its question, did I not tell you not to disobey me, reads like a late echo of follow me in 19:43; the hadith itself does not draw that line.",
+            "bn": "মহান আল্লাহ বলবেন: আমি কাফিরদের জন্য জান্নাত হারাম করেছি। তারপর বলা হবে: ইবরাহীম, তোমার পায়ের নিচে ওটা কী? তিনি তাকাবেন, দেখবেন এক হায়েনা, সারা গায়ে লেপটানো। তার পা ধরে তাকে আগুনে ছুড়ে ফেলা হবে।” এটি বুখারী ৩৩৫০, আর এর মান হলো বুখারীর সহীহ গ্রন্থে এর স্থান পাওয়া। আমার অবাধ্য হবেন না বলিনি কি, এ প্রশ্নটা যেন ১৯:৪৩ আয়াতের আমার অনুসরণ করুন কথাটার দেরিতে আসা প্রতিধ্বনি। তবে হাদীস নিজে এ যোগসূত্র টানেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gentleness at One's Own Door",
+          "bn": "নিজের ঘরের দরজায় কোমলতা"
+        },
+        "p": [
+          {
+            "en": "The model is in the verses themselves. He began with the bond, ya abati, and kept returning to it. He spoke of his knowledge as something that came to him, and the commentators name Allah as its giver. He asked to be followed toward a road, not to be agreed with for his own sake. He named the danger plainly, Satan's pull and its end, without one insult to the man. As-Sa'di's phrase for it is gentleness and softness of address, and Ma'arif heads its note on the passage: how to give counsel to elders.",
+            "bn": "আদর্শটা আয়াতগুলোর ভেতরেই আছে। তিনি শুরু করেছেন সম্পর্কের টান দিয়ে, ইয়া আবাতি, আর বারবার সেখানেই ফিরেছেন। নিজের জ্ঞানের কথা বলেছেন এমনভাবে, যেন তা তাঁর কাছে এসে পৌঁছেছে। মুফাসসিরেরা সে জ্ঞানের দাতা বলেছেন আল্লাহকে। তিনি চেয়েছেন বাবা এক পথে তাঁর সঙ্গী হোন, নিজের খাতিরে তাঁর কথায় সায় দিন, এমন নয়। বিপদের কথা বলেছেন খোলাখুলি, শয়তানের টান আর তার পরিণাম। অথচ মানুষটাকে একটিও অপমানের কথা বলেননি। সা'দী একে বলেন কথার কোমলতা ও নরমভাব। মাআরিফুল কুরআন এ অংশের আলোচনার শিরোনাম দিয়েছে: বড়দের কীভাবে নসিহত করতে হয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verses describe one father in one story, and what the Qur'an says of him belongs to that story. They give no licence to treat any living parent or relative with contempt, to cut them off, or to pronounce on anyone's end; they describe what they describe and license nothing against any living person. The model runs the other way: the son who was right still spoke as a son. And when gentle words met a threat, 19:47 shows his next words: peace upon you.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতগুলো একটি কাহিনির একজন বাবার কথা বলে, আর তাঁর সম্পর্কে কুরআন যা বলেছে তা সেই কাহিনিরই অংশ। জীবিত কোনো মা-বাবা বা আত্মীয়কে তাচ্ছিল্য করার, তাদের সঙ্গে সম্পর্ক ছিন্ন করার, বা কারও শেষ পরিণতি নিয়ে রায় দেওয়ার কোনো অনুমতি এ আয়াত দেয় না। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। জীবিত কোনো মানুষের বিরুদ্ধে কিছুরই অনুমতি দেয় না। আদর্শটা বরং উল্টো দিকে টানে। যে ছেলে সঠিক ছিলেন, তিনিও কথা বলেছেন ছেলে হয়েই। আর নরম কথার জবাবে হুমকি এলে তাঁর পরের কথা কী ছিল, ১৯:৪৭ আয়াত দেখায়: আপনার প্রতি সালাম।"
+          }
+        ]
+      }
+    ]
+  },
   "19:49": {
     "sections": [
       {

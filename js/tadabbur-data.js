@@ -23051,6 +23051,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pain can feel meaningless while it lasts. Do not judge the hour by how it feels; what Allah has decreed may be carrying a mercy you cannot yet see.",
     "lessonBn": "কষ্ট চলার সময় তাকে অর্থহীন মনে হতে পারে। অনুভূতি দিয়ে সেই মুহূর্তের বিচার করবেন না। আল্লাহর ফয়সালা হয়তো এমন রহমত বয়ে আনছে, যা এখনো আপনার চোখে পড়েনি।"
+  },
+  "19:43-44": {
+    "reflectionEn": "A son stands before his father with something hard to say. He does not open with a verdict. He opens with the word for father, and he keeps returning to it. Something has come to me that has not come to you, he says, and he leaves it there: no boast, no insult, only knowledge that arrived. So follow me, and I will show you a level road. Then, still calling him father: do not worship Satan, who has always defied the Most Merciful. Every sentence carries a warning, and every sentence begins with love. With the people closest to us, most of us manage one or the other. Can I tell someone I love a hard truth without letting go of either?",
+    "reflectionBn": "এক ছেলে তার বাবার সামনে দাঁড়িয়েছে। বলার কথাটা কঠিন। তবু সে রায় দিয়ে শুরু করে না, শুরু করে 'আব্বা' ডেকে, আর বারবার সেই ডাকেই ফিরে আসে। সে বলে, আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি। এটুকুই। কোনো বড়াই নেই, কোনো খোঁচা নেই, শুধু এসে পৌঁছানো এক জ্ঞানের কথা। তাই আমার কথা মানুন, আমি আপনাকে সোজা সমান পথ দেখাব। তারপর আবার সেই ডাক দিয়ে: শয়তানের ইবাদত করবেন না, সে তো সবসময় দয়াময়ের নাফরমান। প্রতিটি বাক্যে সতর্কবাণী আছে, আর প্রতিটি বাক্য শুরু হয় ভালোবাসা দিয়ে। কাছের মানুষের বেলায় আমরা বেশিরভাগ সময় এ দুটোর একটাই পারি। যাকে ভালোবাসি, তাকে কি আমি কঠিন সত্যটা বলতে পারি, সত্য আর ভালোবাসা কোনোটাই না ছেড়ে?",
+    "pointsEn": [
+      "When I have to correct someone older than me in my own family, do I begin with what binds us or with what divides us?",
+      "Do I speak of what I know as something that reached me, or as proof that I am better than the person in front of me?",
+      "In the habits I defend most fiercely, whose voice am I really obeying?",
+      "Is there someone at home I stopped inviting to the good because the first attempt went badly?",
+      "If my gentle words were answered with a threat, would my next words still be gentle?"
+    ],
+    "pointsBn": [
+      "নিজের পরিবারের কোনো বড়জনকে শুধরে দিতে হলে আমি কি শুরু করি আমাদের বাঁধনের কথা দিয়ে, নাকি দূরত্বের কথা দিয়ে?",
+      "যা জানি তা কি আমি এমনভাবে বলি যেন তা আমার কাছে এসে পৌঁছেছে, নাকি এমনভাবে যেন তা প্রমাণ করে আমি সামনের মানুষটার চেয়ে ভালো?",
+      "যে অভ্যাসগুলো আমি সবচেয়ে জোর দিয়ে আঁকড়ে রাখি, সেখানে আসলে কার কথা মেনে চলছি?",
+      "ঘরের এমন কেউ কি আছে, প্রথমবার ভালো না যাওয়ায় যাকে আমি ভালোর দিকে ডাকা ছেড়ে দিয়েছি?",
+      "নরম কথার জবাবে যদি হুমকি আসে, আমার পরের কথাগুলো কি তখনো নরম থাকবে?"
+    ],
+    "lessonEn": "Call those closest to you to the truth with tenderness: speak to what binds you, credit your knowledge to Allah, and warn without contempt.",
+    "lessonBn": "সবচেয়ে কাছের মানুষদের সত্যের দিকে ডাকুন কোমলভাবে: সম্পর্কের টান দিয়ে কথা বলুন, নিজের জ্ঞানকে আল্লাহর দান বলে মানুন, আর তাচ্ছিল্য ছাড়া সতর্ক করুন।"
   }
 };
 
