@@ -22311,6 +22311,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Say the truth openly and with dignity, and when you are mocked for it, do not answer insult with insult; carry on with what you were given to say.",
     "lessonBn": "সত্য বলুন খোলাখুলি ও মর্যাদার সঙ্গে। সে জন্য কেউ বিদ্রূপ করলে অপমানের জবাব অপমান দিয়ে দেবেন না, যা বলার দায়িত্ব পেয়েছেন তা বলে যান।"
+  },
+  "16:14": {
+    "reflectionEn": "A plate of fish, a string of pearls, a ship on the horizon: the verse draws all three from one sea and says the same of each, that it was made to serve you. The fish comes fresh, with no knife needed at its throat. The pearl is brought up from a place where no one lives. The ship cuts through the water and returns carrying someone's living. Each of them reached me through other people's hands, the fisher, the diver, the sailor, the trader, so it is easy to thank the hands and stop there. The verse closes on perhaps you will be grateful. What from the sea is on my table or in my home today, and whom did I thank for it?",
+    "reflectionBn": "এক থালা মাছ, এক ছড়া মুক্তা, দিগন্তে একটা জাহাজ। আয়াতটি তিনটিকেই একই সমুদ্র থেকে তুলে আনে, আর প্রতিটির বেলায় একই কথা বলে: তোমাদের কাজে লাগানোর জন্যই একে বশ করা হয়েছে। মাছ আসে তাজা, তার গলায় ছুরি চালানোর দরকার পড়ে না। মুক্তা উঠে আসে এমন জায়গা থেকে, যেখানে কোনো মানুষ থাকে না। জাহাজ পানি চিরে এগোয়, আর ফিরে আসে কারও রুজি বয়ে নিয়ে। এর প্রতিটি আমার কাছে পৌঁছেছে অন্য মানুষের হাত ঘুরে: জেলে, ডুবুরি, মাঝি, ব্যবসায়ী। তাই হাতগুলোকে ধন্যবাদ দিয়ে থেমে যাওয়া সহজ। আয়াতটি শেষ হয় এই কথায়: যাতে তোমরা শোকর আদায় কর। আজ আমার থালায় বা ঘরে সমুদ্রের কী আছে? আর তার জন্য আমি কার শোকর আদায় করেছি?",
+    "pointsEn": [
+      "The last time I ate fish, did I stop for a moment to think where it came from and who placed it there for me?",
+      "Which ornament or beautiful thing in my home do I enjoy without ever linking it to the One who made it?",
+      "Do I see what I earn through trade and work as bounty sought from Allah, or as something I produced alone?",
+      "Whose work on the water, a fisher's, a sailor's, a porter's, reaches my life without my ever noticing them?",
+      "What would change in my day if one meal, one purchase and one journey each ended with al-hamdu lillah?"
+    ],
+    "pointsBn": [
+      "শেষবার মাছ খাওয়ার সময় কি এক মুহূর্ত থেমে ভেবেছি, এটা কোথা থেকে এল, আর কে আমার জন্য এখানে পৌঁছে দিলেন?",
+      "ঘরের কোন অলংকার বা সুন্দর জিনিস আমি উপভোগ করি, অথচ যিনি তা বানিয়েছেন তাঁর কথা কখনো মনে আনি না?",
+      "ব্যবসা আর পরিশ্রমে যা উপার্জন করি, তাকে কি আল্লাহর কাছ থেকে চেয়ে নেওয়া অনুগ্রহ মনে করি, নাকি একা নিজের বানানো জিনিস ভাবি?",
+      "জেলে, মাঝি, কুলি: পানির উপর কাদের খাটুনি আমার জীবনে এসে পৌঁছায়, অথচ তাদের দিকে আমি কখনো তাকাই না?",
+      "একবেলার খাবার, একটা কেনাকাটা আর একটা সফর যদি আলহামদুলিল্লাহ বলে শেষ করি, তাহলে আমার দিনটা কতটা বদলে যাবে?"
+    ],
+    "lessonEn": "The sea feeds, adorns and carries you by Allah's leave. Eat, wear and trade from it as His bounty, and let each use of it end in thanks to Him.",
+    "lessonBn": "সমুদ্র আপনাকে খাবার দেয়, সাজায়, বয়ে নিয়ে যায়, সবই আল্লাহর হুকুমে। তা থেকে খান, পরুন, ব্যবসা করুন তাঁর অনুগ্রহ হিসেবে, আর প্রতিবার ব্যবহারের শেষে তাঁর শোকর আদায় করুন।"
   }
 };
 

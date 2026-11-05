@@ -451,6 +451,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Orchards to Open Water",
+          "bn": "বাগান পেরিয়ে খোলা পানিতে"
+        },
+        "p": [
+          {
+            "en": "Wa huwa alladhi sakhkhara al-bahr: and He it is who made the sea subject. The verses before it stay on land: rain and pasture in 16:10, crops and fruit in 16:11, the night, the day and the heavenly bodies in 16:12, the many-coloured things of the earth in 16:13. Ma'arif al-Qur'an marks the turn: from the heavens and the earth, the text now moves to the high seas, where Divine wisdom has placed many more benefits. At-Tabari reads the opening as one more link: the One who did all this for you, O people, is the One who subjected the sea.",
+            "bn": "ওয়া হুওয়াল্লাযী সাখখারাল বাহর: আর তিনিই সমুদ্রকে বশ করে দিয়েছেন। এর আগের আয়াতগুলো স্থলভাগেই ঘোরে। ১৬:১০ আয়াতে বৃষ্টি আর চারণভূমি, ১৬:১১ আয়াতে শস্য আর ফল, ১৬:১২ আয়াতে রাত, দিন আর আকাশের জ্যোতিষ্ক, ১৬:১৩ আয়াতে যমীনের নানা রঙের জিনিস। মাআরিফুল কুরআন মোড়টা চিনিয়ে দেয়: আসমান-যমীনের কথা বলার পর এবার আলোচনা যায় গভীর সমুদ্রে, যেখানে আল্লাহর হিকমত মানুষের জন্য আরও বহু উপকার রেখে দিয়েছে। তাবারী শুরুটাকে পড়েন একই শিকলের আরেকটা আংটা হিসেবে: হে মানুষ, যিনি তোমাদের জন্য এতসব করেছেন, তিনিই সমুদ্রকে তোমাদের বশে দিয়েছেন।"
+          },
+          {
+            "en": "What does it mean to subject the sea? Al-Qurtubi defines it as enabling human beings to make use of it, making it tractable for riding, for anchoring and the like, and he counts it among Allah's favours to us: had He willed, he says, He would have set it against us and drowned us. As-Sa'di dwells on the pronoun huwa: He alone, with no partner, prepared it for your many kinds of benefit. At-Tabari widens the noun. Al-bahr, he says, is every nahr, its water salt or sweet, so on his reading rivers are inside the verse too.",
+            "bn": "সমুদ্রকে বশ করার মানে কী? কুরতুবী বলেন, মানুষকে তা ব্যবহারের ক্ষমতা দেওয়া, তাতে চলাচল, নোঙর ফেলা ইত্যাদির জন্য তাকে বাধ্য করে দেওয়া। তিনি একে আমাদের প্রতি আল্লাহর এক নিয়ামত বলে গণ্য করেন। তাঁর কথায়, আল্লাহ চাইলে সমুদ্রকে আমাদের উপর চড়াও করে দিতেন, আমাদের ডুবিয়ে দিতেন। সা'দী জোর দেন 'হুওয়া' সর্বনামটির উপর। তিনি একাই, কোনো শরিক ছাড়া, সমুদ্রকে তোমাদের নানা রকম উপকারের জন্য প্রস্তুত করেছেন। তাবারী শব্দটার পরিধি বাড়িয়ে দেন। তাঁর মতে আল-বাহর মানে প্রতিটি 'নাহর', পানি লোনা হোক বা মিঠা। তাই তাঁর পাঠে নদীও আয়াতের ভেতরে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meat That Needs No Knife",
+          "bn": "যে গোশতে ছুরি লাগে না"
+        },
+        "p": [
+          {
+            "en": "Li-ta'kulu minhu lahman tariyya: that you may eat from it fresh, tender meat. The commentators agree on what is meant. At-Tabari says it is the fish that is caught from the sea, and he gives Qatada's gloss, the fish of the sea; as-Sa'di names the fish and whales that people catch; al-Baghawi says fish, and the Muyassar, the fish you catch. Ibn Kathir adds what Allah made lawful of them. He placed fish and whales in the sea, he says, and made their flesh lawful to His servants, living and dead, in ihram and out of it.",
+            "bn": "লিতা'কুলূ মিনহু লাহমান তারিয়্যা: যাতে তোমরা তা থেকে তাজা, নরম গোশত খেতে পার। কী বোঝানো হয়েছে, তাতে তাফসীরকারেরা একমত। তাবারী বলেন, এ হলো সমুদ্র থেকে শিকার করা মাছ, আর তিনি কাতাদার ব্যাখ্যা আনেন: সাগরের মাছ। সা'দী বলেন মাছ আর তিমির কথা, যা মানুষ শিকার করে। বাগাভীর কথায় মাছ। মুয়াসসারের কথায়, যে মাছ তোমরা শিকার কর। ইবন কাসীর যোগ করেন, এর কতটা আল্লাহ হালাল করেছেন। তিনি সমুদ্রে মাছ ও তিমি রেখেছেন, আর বান্দাদের জন্য সেগুলোর গোশত হালাল করেছেন, জীবিত হোক বা মৃত, ইহরামে থাকুক বা ইহরামের বাইরে।"
+          },
+          {
+            "en": "Why call fish meat at all, and fresh meat? Ma'arif al-Qur'an finds a hint in the naming. By calling the fish fresh meat, it says, the verse signals that it is free of the condition of slaughter that other animals require, as though it were meat made ready without anyone having to prepare it. Set that beside al-Qurtubi's remark that the sea could have drowned us. The water that could swallow its riders sets a meal before them, and the verse asks the reader to hold both facts at once.",
+            "bn": "মাছকে গোশত বলা কেন, আবার তাজা গোশত? মাআরিফুল কুরআন নামকরণের মধ্যেই একটা ইঙ্গিত খুঁজে পায়। তার মতে মাছকে তাজা গোশত বলে আয়াতটি জানিয়ে দিচ্ছে, অন্য প্রাণীর বেলায় যে জবাইয়ের শর্ত আছে, মাছ তা থেকে মুক্ত। যেন গোশত আগে থেকেই তৈরি, কাউকে কষ্ট করে প্রস্তুত করতে হয় না। এর পাশে রাখুন কুরতুবীর কথাটি: এই সমুদ্র আমাদের ডুবিয়েও দিতে পারত। যে পানি সওয়ারিকে গিলে খেতে পারত, সেই পানিই তার সামনে খাবার সাজিয়ে দেয়। আয়াতটি চায়, পাঠক দুটো সত্যকে একসঙ্গে মনে রাখুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Jurists Say Meat",
+          "bn": "ফকীহদের মুখে গোশত শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notes that Allah calls fish meat here, and reports that for Malik meats are of three kinds, the flesh of four-legged animals, of birds and of water creatures, so one kind may not be traded for the same kind in unequal amounts, while different kinds may. Abu Hanifa, he reports, held that meats are as many kinds as the animals they come from, and that is one of ash-Shafi'i's two views; the other makes all meat a single kind. Al-Qurtubi argues from this verse: lahman tariyya gathers every sort of fish, small and large, under one name.",
+            "bn": "কুরতুবী লক্ষ করেন, আল্লাহ এখানে মাছকে গোশত বলেছেন। তারপর জানান, মালিকের মতে গোশতের জাত তিনটি: চারপেয়ে প্রাণীর গোশত, পাখির গোশত আর পানির প্রাণীর গোশত। তাই এক জাতের গোশত একই জাতের সঙ্গে কমবেশি করে বদল করা যায় না, ভিন্ন জাতের সঙ্গে যায়। আবু হানীফার মত তিনি এভাবে বর্ণনা করেন: যত প্রাণী, গোশতের জাতও তত। শাফেয়ীর দুই মতের একটি এটাই, অন্যটিতে সব গোশত এক জাত। কুরতুবী দলিল টানেন এই আয়াত থেকেই। 'লাহমান তারিয়্যা' ছোট-বড় সব রকম মাছকে একটিমাত্র নামে জড়ো করেছে।"
+          },
+          {
+            "en": "He then records a disagreement about oaths. If a man swears not to eat meat and then eats fish, has he broken it? Ibn al-Qasim said he breaks it by eating any of the kinds just listed. Ashhab said he breaks it only with the flesh of livestock, giving custom and ordinary usage precedence over the bare dictionary sense, and al-Qurtubi calls that view the better one. The reader can take a method from it, not a verdict: a word may be weighed by its language or by its use. Such questions belong with a qualified scholar, and this page rules on none of them.",
+            "bn": "এরপর তিনি কসম নিয়ে একটা মতভেদ উল্লেখ করেন। কেউ যদি কসম খায় যে গোশত খাবে না, তারপর মাছ খায়, তার কসম কি ভাঙল? ইবনুল কাসিম বলেন, ওপরে বলা যেকোনো জাতের গোশত খেলেই ভাঙবে। আশহাব বলেন, ভাঙবে কেবল গবাদি পশুর গোশতে। তিনি অভিধানের নিছক অর্থের চেয়ে প্রচলন আর লোকের সাধারণ ব্যবহারকে আগে রাখেন। কুরতুবী এই মতটিকেই উত্তম বলেন। পাঠকের জন্য এখানে শেখার জিনিস কোনো ফতোয়া নয়, একটা পদ্ধতি: একই শব্দকে ভাষার অর্থে মাপা যায়, আবার মানুষের ব্যবহারেও। আজকের দিনে এমন প্রশ্নের উত্তর দেবেন যোগ্য আলেম। এ লেখা এর কোনোটির বিষয়ে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Half a Month From One Fish",
+          "bn": "এক মাছে আধা মাস"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a sound hadith to it. A narration in Sahih al-Bukhari (5493), not tied to the verse, shows its first clause lived. Jabir (RA) narrated: We went out in a campaign and the army was called The Army of the Khabt, and Abu 'Ubaida was our commander. We were struck with severe hunger. Then the sea threw a huge dead fish called Al-'Anbar, the like of which had never been seen. We ate of it for half a month, and then Abu 'Ubaida took one of its bones (and made an arch of it) so that a rider could easily pass under it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। সহীহ বুখারীর একটি বর্ণনা (৫৪৯৩) আয়াতের সঙ্গে বাঁধা নয়, তবে তার প্রথম অংশটা বাস্তব জীবনে কেমন ছিল, তা দেখায়। জাবির (রাঃ) বর্ণনা করেন: আমরা এক অভিযানে বের হলাম। বাহিনীর নাম ছিল জাইশুল খাবাত, আর আবু উবায়দা ছিলেন আমাদের আমীর। আমরা প্রচণ্ড ক্ষুধায় পড়লাম। তখন সমুদ্র বিশাল এক মৃত মাছ তীরে ছুঁড়ে দিল, যার মতো আগে কখনো দেখা যায়নি, তাকে বলা হয় আল-আম্বার। আমরা আধা মাস তা থেকে খেলাম। তারপর আবু উবায়দা তার একটা হাড় নিলেন (এবং তা দিয়ে খিলান বানালেন), ফলে একজন আরোহী সহজেই তার নিচ দিয়ে চলে গেল।"
+          },
+          {
+            "en": "Al-Bukhari placed it in his Sahih, the collection of reports he judged sound. The report does not mention 16:14, and none of the fetched commentators cites it here, so it stands beside the verse rather than explaining it. It does fit what Ibn Kathir says of the sea's creatures, that their flesh is lawful dead as well as alive. A troop of Companions, hungry and far from supplies, ate for half a month from one thing the sea cast up. In Jabir's account the sea itself brought the food ashore.",
+            "bn": "বুখারী এটি তাঁর সহীহ গ্রন্থে রেখেছেন, যেখানে তিনি কেবল সেসব বর্ণনা এনেছেন যা তাঁর বিচারে সহীহ। বর্ণনাটিতে ১৬:১৪ আয়াতের উল্লেখ নেই, আর আনা তাফসীরগুলোর কেউ এখানে এটি উদ্ধৃত করেননি। তাই এটি আয়াতের ব্যাখ্যা নয়, পাশে রাখা এক ছবি। তবে সমুদ্রের প্রাণী নিয়ে ইবন কাসীরের কথার সঙ্গে এটি মেলে: তাদের গোশত জীবিত অবস্থায় যেমন হালাল, মৃত অবস্থায়ও তেমনি। রসদ থেকে বহু দূরে ক্ষুধার্ত একদল সাহাবী সমুদ্রের ছুঁড়ে দেওয়া একটিমাত্র জিনিস থেকে আধা মাস খেয়েছেন। জাবিরের বর্ণনায় সমুদ্র নিজেই খাবার তীরে এনে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ornament Drawn From the Deep",
+          "bn": "গভীর থেকে তোলা অলংকার"
+        },
+        "p": [
+          {
+            "en": "Wa tastakhriju minhu hilyatan talbasunaha: and that you may bring out of it ornament that you wear. At-Tabari, al-Baghawi and the Muyassar all name it pearls and coral. Al-Qurtubi supports the pair from another verse, 55:22, from both of them come pearls and coral, and adds that, as far as is known, ornament is drawn only from the salt sea; he notes that a poet of Hudhayl was faulted for describing a pearl as coming out of sweet water. Ibn Kathir adds precious jewels, which Allah made easy to bring up from where they lie.",
+            "bn": "ওয়া তাসতাখরিজূ মিনহু হিলইয়াতান তালবাসূনাহা: আর যাতে তোমরা তা থেকে অলংকার বের করে আন, যা তোমরা পর। তাবারী, বাগাভী আর মুয়াসসার তিনজনই একে বলেন মুক্তা ও প্রবাল। কুরতুবী জোড়াটির পক্ষে আরেকটি আয়াত আনেন, ৫৫:২২: উভয় থেকে বের হয় মুক্তা ও প্রবাল। তিনি যোগ করেন, যতদূর জানা যায়, অলংকার ওঠে কেবল লোনা সমুদ্র থেকে। হুযাইল গোত্রের এক কবি মিঠা পানি থেকে মুক্তা ওঠার বর্ণনা দিয়েছিলেন, কুরতুবী জানান সে কথাকে ভুল ধরা হয়েছে। ইবন কাসীর এর সঙ্গে মূল্যবান রত্নের কথাও বলেন। যেখানে সেগুলো পড়ে থাকে, সেখান থেকে তুলে আনা আল্লাহ সহজ করে দিয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di gives the ornament's purpose in a phrase: it adds beauty and loveliness to your loveliness. Ma'arif al-Qur'an explains hilyah as zinah, that which beautifies, and says these are the pearls and coral that women wear as necklaces and earrings. Then it notices the grammar. Though women are the ones who wear them, the verb is in the masculine plural, talbasunaha, you wear. Its explanation is that women's wearing of ornaments is, in reality, in the interest of men as well, so the gift is announced to both. Al-Qurtubi draws a wider conclusion from the same address.",
+            "bn": "অলংকারের উদ্দেশ্য সা'দী এক কথায় বলে দেন: তা তোমাদের সৌন্দর্যের সঙ্গে আরও সৌন্দর্য ও লাবণ্য যোগ করে। মাআরিফুল কুরআন হিলইয়ার অর্থ বলে যীনাত, অর্থাৎ যা সাজায়। এর মতে এগুলো সেই মুক্তা আর প্রবাল, যা নারীরা গলার হার আর কানের দুল হিসেবে পরে। তারপর এটি ব্যাকরণের দিকে নজর দেয়। পরেন নারীরা, অথচ ক্রিয়াটি পুরুষবাচক বহুবচনে: তালবাসূনাহা, তোমরা পর। মাআরিফের ব্যাখ্যা হলো, নারীর অলংকার পরা আসলে পুরুষেরও স্বার্থে, তাই নিয়ামতের ঘোষণা দুজনের উদ্দেশেই। একই সম্বোধন থেকে কুরতুবী আরও বিস্তৃত সিদ্ধান্ত টানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift Addressed to Both",
+          "bn": "দুজনকেই সম্বোধন করা দান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads talbasunaha as spoken to men and women alike. Allah, he says, conferred a general favour on both in what comes out of the sea, so nothing of it is forbidden to them; what Allah forbade to men is gold and silk. Ma'arif al-Qur'an, having explained the masculine verb through women's adornment, adds that men too can use precious stones in their rings. This page reports both and gives no ruling on what anyone should wear; that question belongs with a qualified scholar.",
+            "bn": "কুরতুবী 'তালবাসূনাহা'-কে পড়েন নারী-পুরুষ উভয়ের প্রতি সম্বোধন হিসেবে। তাঁর কথায়, সমুদ্র থেকে যা বের হয়, তাতে আল্লাহ দুজনের উপরই সাধারণভাবে অনুগ্রহ করেছেন, তাই এর কোনো কিছুই তাদের জন্য হারাম নয়। আল্লাহ পুরুষের জন্য হারাম করেছেন সোনা আর রেশম। মাআরিফুল কুরআন পুরুষবাচক ক্রিয়াটিকে নারীর সাজের দিক থেকে ব্যাখ্যা করার পর যোগ করে, পুরুষেরাও আংটিতে মূল্যবান পাথর ব্যবহার করতে পারে। এ লেখা দুটো মতই তুলে ধরে, কে কী পরবে সে বিষয়ে কোনো রায় দেয় না। সে প্রশ্ন যোগ্য আলেমের কাছে করার।"
+          },
+          {
+            "en": "Al-Qurtubi also records an older dispute that turns on the same words. If someone swears not to wear jewellery and then wears pearls, has the oath been broken? Abu Hanifa held that it has not, and Ibn Khuwayz Mindad explains why: oaths follow custom, just as a man who swears not to sleep on a bed has not broken his oath by sleeping on the ground, though Allah calls the earth a bed. Ash-Shafi'i, Abu Yusuf and Muhammad held that it has, because this verse names pearls ornament that you wear. It is recorded here without a verdict.",
+            "bn": "একই শব্দকে ঘিরে কুরতুবী আরও পুরোনো একটা মতভেদ উল্লেখ করেন। কেউ কসম খেল যে অলংকার পরবে না, তারপর মুক্তা পরল। কসম কি ভাঙল? আবু হানীফার মতে ভাঙেনি। কারণটা ইবন খুওয়াইয মিনদাদ বুঝিয়ে দেন: কসম চলে প্রচলিত অর্থে। যেমন কেউ বিছানায় না ঘুমানোর কসম খেয়ে মাটিতে ঘুমালে কসম ভাঙে না, যদিও আল্লাহ যমীনকে বিছানা বলেছেন। শাফেয়ী, আবু ইউসুফ ও মুহাম্মাদের মতে কসম ভেঙেছে, কারণ এই আয়াতই মুক্তাকে বলেছে এমন অলংকার যা তোমরা পর। মতভেদটি এখানে রাখা হলো কোনো রায় ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ships That Part the Water",
+          "bn": "পানি চিরে চলা নৌযান"
+        },
+        "p": [
+          {
+            "en": "Wa tara al-fulka mawakhira fih: and you see the ships cleaving through it. The address narrows to one onlooker, you see, as though watching from the shore. At-Tabari explains mawakhir as the plural of makhira and then sets out how the early interpreters differed. Al-Hasan said they are laden ships. 'Ikrima said the mawakhir is the water pushed aside to the right and the left of a ship, and in another report that it is the ship parting the water like this. Abu Salih said they run across it. Mujahid said the ship cleaves the winds, and only great ships do so.",
+            "bn": "ওয়া তারাল ফুলকা মাওয়াখিরা ফীহ: আর তুমি দেখ নৌযানগুলো তা চিরে চলছে। সম্বোধন এখানে একজন দর্শকে এসে ঠেকে, তুমি দেখ, যেন কেউ তীরে দাঁড়িয়ে তাকিয়ে আছে। তাবারী বলেন, মাওয়াখির হলো মাখিরার বহুবচন। তারপর প্রথম যুগের ব্যাখ্যাকারদের মতভেদ সাজিয়ে দেন। হাসানের মতে এগুলো বোঝাই জাহাজ। ইকরিমা বলেন, নৌকার ডানে-বামে যে পানি সরে যায়, তা-ই মাওয়াখির। আরেক বর্ণনায় তিনি বলেন, এ সেই নৌকা যা পানিকে এভাবে চিরে দেয়। আবু সালিহের মতে নৌকাগুলো আড়াআড়ি চলে। মুজাহিদ বলেন, নৌকা বাতাস চিরে যায়, আর তা পারে কেবল বড় জাহাজ।"
+          },
+          {
+            "en": "Qatada and al-Hasan, in at-Tabari's reports, give the most vivid picture: ships coming and going on a single wind. Al-Baghawi spells it out: you see two ships, one arriving and one departing, both running on the same wind. At-Tabari then turns to the word. Makhr in the speech of the Arabs, he says, is the sound of the wind when it blows hard, and here it is the sound of a ship running with the wind when it gusts, as its breast splits the water. Al-Qurtubi gives the root sense as parting the water to right and left, and says the ship runs splitting the water with a sound.",
+            "bn": "তাবারীর আনা বর্ণনায় কাতাদা আর হাসান সবচেয়ে জীবন্ত ছবিটা দেন: একই বাতাসে নৌকা আসছে, নৌকা যাচ্ছে। বাগাভী খুলে বলেন: তুমি দুটি নৌকা দেখ, একটা আসছে, একটা যাচ্ছে, দুটোই চলছে একই বাতাসে। এরপর তাবারী শব্দটার দিকে ফেরেন। তাঁর কথায়, আরবদের ভাষায় মাখর হলো জোরে বয়ে যাওয়া বাতাসের শব্দ। আর এখানে তা দমকা হাওয়ায় ছুটে চলা নৌকার শব্দ, যখন তার বুক পানিকে চিরে দেয়। কুরতুবী ধাতুর মূল অর্থ বলেন ডানে-বামে পানি চিরে দেওয়া। তাঁর ভাষায়, নৌকা চলে শব্দ তুলে, পানি চিরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Profit by Another Name",
+          "bn": "লাভের আরেক নাম"
+        },
+        "p": [
+          {
+            "en": "Wa li-tabtaghu min fadlih: and that you may seek of His bounty. At-Tabari reads it as the purpose: He made the sea subject so that you may go about seeking your livelihood by trade, and he gives Mujahid's gloss, trade by land and by sea. Al-Baghawi says simply trade; al-Qurtubi, that you ride it for trade and the seeking of profit; the Muyassar, that you seek Allah's provision by trade and the gain in it. Ma'arif al-Qur'an calls sea-borne trade an excellent means of seeking His bounty, that is, rizq.",
+            "bn": "ওয়া লিতাবতাগূ মিন ফাদলিহ: আর যাতে তোমরা তাঁর অনুগ্রহ তালাশ কর। তাবারী একে পড়েন পুরো বশ করার উদ্দেশ্য হিসেবে। আল্লাহ সমুদ্রকে বশ করেছেন, যাতে তোমরা ব্যবসার মাধ্যমে রুজির খোঁজে ঘুরে বেড়াতে পার। সঙ্গে আনেন মুজাহিদের ব্যাখ্যা: স্থলের ও সমুদ্রের ব্যবসা। বাগাভী শুধু বলেন, ব্যবসা। কুরতুবী বলেন, যাতে তোমরা ব্যবসা আর লাভের খোঁজে তাতে চড়। মুয়াসসারের ভাষায়, যাতে তোমরা ব্যবসা আর তার মুনাফার মাধ্যমে আল্লাহর রিযিক তালাশ কর। মাআরিফুল কুরআন সমুদ্রপথের ব্যবসাকে বলে তাঁর অনুগ্রহ, অর্থাৎ রিযিক তালাশের উত্তম উপায়।"
+          },
+          {
+            "en": "What the commentators share is the word itself. Profit made at sea is not called wages or winnings here but fadl, His bounty, something sought from Him. The trader still loads the cargo, watches the weather and haggles at the market, and the verse leaves all of that in place; it changes only whose gift the margin is. As-Sa'di joins the ship and the trade in a single sentence: the ships cross from region to region carrying travellers with their provisions, goods and merchandise, by which they seek provision and the bounty of Allah upon them.",
+            "bn": "তাফসীরকারদের সবার কথায় যা মেলে, তা হলো শব্দটি নিজেই। সমুদ্রপথে যে লাভ হয়, এখানে তাকে মজুরি বা জিতে নেওয়া টাকা বলা হয়নি, বলা হয়েছে ফাদল, তাঁর অনুগ্রহ, যা তাঁর কাছেই চাইতে হয়। ব্যবসায়ী তবু মাল বোঝাই করেন, আবহাওয়ার খবর রাখেন, বাজারে দরদাম করেন। আয়াত এর কিছুই সরিয়ে দেয় না। বদলায় কেবল এটুকু: লাভের অংশটা কার দান। সা'দী নৌকা আর ব্যবসাকে এক বাক্যে বাঁধেন। জাহাজ এক অঞ্চল থেকে আরেক অঞ্চলে যায়, মুসাফির আর তাদের রসদ, মালপত্র ও পণ্য নিয়ে, যা দিয়ে তারা রিযিক আর তাদের প্রতি আল্লাহর অনুগ্রহ তালাশ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks at the Water's Edge",
+          "bn": "পানির কিনারে শোকর"
+        },
+        "p": [
+          {
+            "en": "Wa la'allakum tashkurun: and perhaps you will be grateful. At-Tabari reads it as purpose: so that you thank your Lord for what He has blessed you with in subjecting all the things He listed in these verses. Al-Baghawi ties the thanks to sight: when you see Allah's handiwork in what He has subjected to you. The Muyassar adds where the thanks must lead: that you thank Allah for His great favour to you, and so worship none but Him. As-Sa'di makes it praise of Him who made these things easy for you and prepared them.",
+            "bn": "ওয়া লাআল্লাকুম তাশকুরূন: আর যাতে তোমরা শোকর আদায় কর। তাবারী একে পড়েন উদ্দেশ্য হিসেবে: এসব আয়াতে যা যা গুনে বলা হয়েছে, সেগুলো বশ করে দিয়ে তোমাদের রব যে নিয়ামত দিয়েছেন, তার জন্য যেন তোমরা তাঁর শোকর কর। বাগাভী শোকরকে বাঁধেন চোখে দেখার সঙ্গে: যখন তোমরা দেখবে, তোমাদের জন্য যা বশ করা হয়েছে তাতে আল্লাহর কারিগরি। মুয়াসসার জানিয়ে দেয় শোকর কোথায় গিয়ে দাঁড়ায়: তোমাদের প্রতি আল্লাহর বিরাট অনুগ্রহের জন্য তাঁর শোকর কর, আর তাই তিনি ছাড়া কারও ইবাদত কোরো না। সা'দী একে পরিণত করেন তাঁর প্রশংসায়, যিনি এগুলো তোমাদের জন্য সহজ ও প্রস্তুত করে দিয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di then widens it. To Allah belong praise, thanks and acclaim, he says, for He gave His servants more of what serves them than they ask, and higher than they hope; we cannot fully count His praise. That looks ahead to 16:18, which has its own page. Here the practice can stay small and particular. A meal of fish can begin with bismillah and end with al-hamdu lillah. A pearl or a coral bead can be worn as a gift received rather than a boast. And part of a sale's profit can reach someone who has none.",
+            "bn": "এরপর সা'দী কথাটা আরও বড় করেন। তাঁর কথায়, সব প্রশংসা, শোকর আর গুণগান আল্লাহর, কারণ তিনি বান্দাদের যা কাজে লাগে তা দিয়েছেন তাদের চাওয়ার চেয়েও বেশি, আশার চেয়েও উঁচু। তাঁর প্রশংসা আমরা গুনে শেষ করতে পারি না। এখান থেকে দৃষ্টি যায় ১৬:১৮ আয়াতের দিকে, যার আলাদা পাতা আছে। এখানে আমলটা ছোট আর নির্দিষ্ট রাখা যায়। মাছের একবেলার খাবার শুরু হোক বিসমিল্লাহ দিয়ে, শেষ হোক আলহামদুলিল্লাহ দিয়ে। মুক্তা বা প্রবালের দানা পরা হোক পাওয়া উপহার হিসেবে, বড়াই হিসেবে নয়। আর বেচাকেনার লাভের একটা অংশ পৌঁছাক এমন কারও কাছে, যার কিছুই নেই।"
+          }
+        ]
+      }
+    ]
+  },
   "16:18": {
     "sections": [
       {
