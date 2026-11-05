@@ -1003,6 +1003,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "Struck for the Proud Ones",
+          "bn": "অহংকারীদের সামনে দৃষ্টান্ত"
+        },
+        "p": [
+          {
+            "en": "Wa-drib lahum mathalan: and strike for them a likeness. At-Tabari names the them precisely. Allah tells His Prophet ﷺ: strike, O Muhammad, for these people who associate partners with Allah, the ones who asked you to drive away those who call on their Lord morning and evening seeking His face, the likeness of two men. That request is the one 18:28 answers, where the Prophet ﷺ is told to keep himself patiently with those very callers.",
+            "bn": "ওয়াদরিব লাহুম মাছালান: আর তাদের সামনে একটি দৃষ্টান্ত তুলে ধরো। এই 'তাদের' কারা, তাবারী তা নির্দিষ্ট করে বলেন। আল্লাহ তাঁর নবী ﷺ-কে বলছেন: হে মুহাম্মাদ, আল্লাহর সঙ্গে শরীককারী এই লোকদের সামনে দুই ব্যক্তির দৃষ্টান্ত পেশ করো। এরাই তোমার কাছে দাবি তুলেছিল, যারা সকাল-সন্ধ্যা রবের সন্তুষ্টি চেয়ে তাঁকে ডাকে, তাদের তাড়িয়ে দাও। সেই দাবির জবাব এসেছে ১৮:২৮ আয়াতে। সেখানে নবী ﷺ-কে বলা হয়েছে, ঠিক ওই ডাকনেওয়ালাদের সঙ্গেই ধৈর্য ধরে থাকতে।"
+          },
+          {
+            "en": "Ibn Kathir places the verse at the same point. Allah says this, he writes, after mentioning the idolaters who were too proud to sit with the weak and poor among the Muslims, and who boasted over them with their wealth and their lineage; so He struck for them a likeness of two men. Al-Qurtubi gives it a wider address: a likeness for anyone who takes pride in the world and disdains sitting with the believers. He ties it explicitly to wa-sbir nafsak, keep yourself patient, in 18:28.",
+            "bn": "ইবন কাসীরও আয়াতটিকে একই জায়গায় বসান। তাঁর ভাষায়, আল্লাহ এ কথা বলছেন সেই মুশরিকদের কথা বলার পর, যারা দুর্বল ও গরিব মুসলমানদের সঙ্গে বসাকে নিজেদের মর্যাদার নিচে ভাবত। সম্পদ আর বংশ নিয়ে তারা ওদের ওপর বড়াই করত। তাই আল্লাহ তাদের জন্য দুই ব্যক্তির দৃষ্টান্ত দিলেন। কুরতুবী সম্বোধনটা আরেকটু বড় করে দেখেন। তাঁর মতে, যে-ই দুনিয়া নিয়ে গর্ব করে আর মুমিনদের মজলিসে বসতে নাক সিঁটকায়, দৃষ্টান্তটা তারই জন্য। তিনি এটিকে সরাসরি ১৮:২৮ আয়াতের ওয়াসবির নাফসাকা, নিজেকে ধৈর্যের সঙ্গে ধরে রাখো, কথাটির সঙ্গে জুড়ে দেন।"
+          },
+          {
+            "en": "The Muyassar reads lahum as the disbelievers of your people, the Prophet's own community. As-Sa'di draws the circle widest: strike for people the likeness of these two men, so that they take a lesson from their condition and are admonished by what befell them. The readings differ in how wide the circle is, not in its centre. At the centre stand people who measured worth by wealth, and who wanted the poor believers moved out of sight before they would sit and listen.",
+            "bn": "মুয়াসসার লাহুম-এর অর্থ করে: তোমার কওমের কাফেররা, অর্থাৎ নবী ﷺ-এর নিজের সমাজের লোকেরা। সা'দী বৃত্তটা সবচেয়ে বড় করে টানেন। তাঁর ভাষায়, মানুষের সামনে এই দুই ব্যক্তির দৃষ্টান্ত তুলে ধরো, যাতে তাদের অবস্থা থেকে তারা শিক্ষা নেয় আর তাদের পরিণতি দেখে উপদেশ গ্রহণ করে। ব্যাখ্যাগুলোর পার্থক্য বৃত্তের আকারে, কেন্দ্রে নয়। কেন্দ্রে আছে সেই লোকেরা, যারা মানুষের দাম মাপত টাকা দিয়ে। আর বসে কথা শোনার আগে যারা চাইত, গরিব মুমিনদের চোখের সামনে থেকে সরিয়ে দেওয়া হোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men, Known by Their Answer",
+          "bn": "দুজন মানুষ, চেনা যায় জবাবে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi glosses the command in plain words: mention to them the report of two men. The Muyassar says what kind of men: two men from the nations before, one a believer and the other a disbeliever, and it was to the disbeliever, it says, that the two gardens were given. The verse itself gives neither man a name, a town or a century. It calls them only rajulayn, two men, and then hands one of them everything the rest of the verse describes.",
+            "bn": "বাগাভী আদেশটির ব্যাখ্যা দেন সাদা কথায়: তাদের কাছে দুই ব্যক্তির খবর বলো। লোক দুজন কেমন ছিল, মুয়াসসার তা জানায়। আগের জাতিগুলোর দুজন মানুষ, একজন মুমিন, অন্যজন কাফের। মুয়াসসারের কথায়, বাগান দুটি দেওয়া হয়েছিল কাফের লোকটিকেই। আয়াত নিজে কারও নাম বলে না, শহর বা যুগের কথাও বলে না। শুধু বলে রাজুলাইন, দুজন পুরুষ। তারপর আয়াতের বাকি অংশে যা কিছুর বর্ণনা, তার সবটাই তুলে দেয় একজনের হাতে।"
+          },
+          {
+            "en": "As-Sa'di identifies the two by what they did with a gift rather than by who they were: the one grateful for Allah's blessing and the one ungrateful for it. The likeness, he says, sets out what came from each of them in word and deed, and what followed from that, the punishment in this world and the next, and the reward. On his reading the gardens are where the story starts, and the two responses to them are what it is about.",
+            "bn": "সা'দী দুজনকে চেনান তাদের পরিচয় দিয়ে নয়, দান পেয়ে তারা কী করল তা দিয়ে। একজন আল্লাহর নিয়ামতের শোকরগুজার, অন্যজন সেই নিয়ামতের নাশোকর। তাঁর মতে দৃষ্টান্তটি দেখায়, দুজনের কাছ থেকে কথায় ও কাজে কী বেরিয়ে এল, আর তার ফলে কী ঘটল। দুনিয়ায় ও আখিরাতে শাস্তি এল একজনের, প্রতিদান অন্যজনের। এই পাঠে বাগান হলো গল্পের শুরুর জায়গা। আর গল্পের আসল বিষয় সেই বাগানের সামনে দুজনের দুই রকম জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Brothers of Makhzum",
+          "bn": "মাখযূম গোত্রের দুই ভাই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his discussion of the men with a plain statement: their names and identities were disputed. The first report he gives is al-Kalbi's, that the verse came down about two brothers of Makkah from the clan of Makhzum. The believer was Abu Salama 'Abdullah ibn 'Abd al-Asad, husband of Umm Salama before the Prophet ﷺ; the disbeliever was al-Aswad ibn 'Abd al-Asad. Each inherited four thousand dinars, the report adds; one spent his in the path of Allah, then asked his brother for something, and received the answer he received.",
+            "bn": "লোক দুজনের আলোচনা কুরতুবী শুরু করেন সোজা একটা কথা দিয়ে: তাদের নাম ও পরিচয় নিয়ে মতভেদ আছে। প্রথম যে বর্ণনা তিনি আনেন তা কালবীর। আয়াতটি নাকি নাযিল হয়েছিল মক্কার মাখযূম গোত্রের দুই ভাইকে নিয়ে। মুমিন ভাই আবু সালামা আব্দুল্লাহ ইবন আব্দিল আসাদ, নবী ﷺ-এর আগে যিনি ছিলেন উম্মে সালামা (রাঃ)-এর স্বামী। কাফের ভাই আসওয়াদ ইবন আব্দিল আসাদ। বর্ণনায় আরও আছে, দুজনেই ৪ হাজার দিনার করে উত্তরাধিকার পেয়েছিল। একজন নিজের ভাগ আল্লাহর পথে খরচ করে ফেলল। পরে ভাইয়ের কাছে কিছু চাইতে গেলে যে জবাব পাওয়ার, তা-ই পেল।"
+          },
+          {
+            "en": "Al-Qurtubi says ath-Tha'labi and al-Qushayri mention this, and he gives it no chain and no verdict. Al-Baghawi has the same identification but opens it with qila, it was said, the commentators' mark for a reported view rather than an established one. In al-Qurtubi's text al-Kalbi's report also makes these brothers the two companions of Surah as-Saffat, where a man in Paradise recalls: I had a companion (37:51). Neither commentator treats it as settled, and al-Qurtubi moves straight on to rival identifications.",
+            "bn": "কুরতুবী জানান, সা'লাবী ও কুশাইরী এ বর্ণনা উল্লেখ করেছেন। তিনি এর কোনো সনদ দেন না, এর ব্যাপারে কোনো রায়ও দেন না। বাগাভী একই পরিচয় আনেন, তবে শুরু করেন কীলা দিয়ে, অর্থাৎ বলা হয়েছে। তাফসীরকারেরা এ শব্দ ব্যবহার করেন প্রতিষ্ঠিত মত নয়, বর্ণিত একটি মত বোঝাতে। কুরতুবীর উদ্ধৃত কালবীর বর্ণনা দুই ভাইকে সূরা আস-সাফফাতের সেই দুই সঙ্গী বলেও ধরে, যেখানে জান্নাতের একজন মনে করে বলে: আমার এক সঙ্গী ছিল (৩৭:৫১)। দুই তাফসীরকারের কেউই একে চূড়ান্ত ধরেন না। কুরতুবী সঙ্গে সঙ্গে অন্য পরিচয়গুলোর দিকে চলে যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Pairs the Reports Name",
+          "bn": "বর্ণনায় আরও যে জোড়ার নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then lists the alternatives, each under qila. It came down about the Prophet ﷺ and the people of Makkah. It is a likeness for everyone who believed in Allah and everyone who disbelieved. Or it is a likeness for 'Uyayna ibn Hisn and his companions set against Salman, Suhayb and their companions, whom Allah likened to two brothers of the Children of Israel. Al-Baghawi gives this last view too, with Salman and his companions. The Israelite brothers then acquire names of their own.",
+            "bn": "এরপর কুরতুবী বিকল্প মতগুলো একে একে আনেন, প্রতিটির শুরুতে কীলা। এক মতে আয়াত নাযিল হয়েছে নবী ﷺ ও মক্কাবাসীদের নিয়ে। আরেক মতে এ দৃষ্টান্ত আল্লাহর প্রতি ঈমান আনা সব মানুষ আর কুফরি করা সব মানুষের জন্য। আরেক মতে এটি উয়াইনা ইবন হিসন ও তার সঙ্গীদের বিপরীতে সালমান, সুহাইব ও তাঁদের সঙ্গীদের দৃষ্টান্ত। আল্লাহ তাদের তুলনা দিয়েছেন বনী ইসরাঈলের দুই ভাইয়ের সঙ্গে। বাগাভীও শেষ মতটি আনেন, সালমান ও তাঁর সঙ্গীদের নাম দিয়ে। এরপর ইসরাঈলী দুই ভাইয়েরও আলাদা নাম জুটে যায়।"
+          },
+          {
+            "en": "For the believing brother al-Qurtubi gives Yahudha on Ibn 'Abbas's word and Tamlikha on Muqatil's; al-Baghawi spells Muqatil's name Yamlikha. For the other, al-Qurtubi has Qurtush, while al-Baghawi has Qutrus and adds Qitfir from Wahb. Al-Qurtubi also relays from Ibn 'Atiyya a writer's claim, in a book on the wonders of lands, that the lake of Tinnis had been these two gardens, drowned by Allah in a single night. The spellings shift from one commentary to the next, and neither author chooses among them.",
+            "bn": "মুমিন ভাইয়ের নাম হিসেবে কুরতুবী আনেন ইবন আব্বাসের বরাতে ইয়াহূযা, আর মুকাতিলের বরাতে তামলীখা। বাগাভী মুকাতিলের দেওয়া নামটি লেখেন ইয়ামলীখা। অন্য ভাইয়ের নাম কুরতুবীর কাছে কুরতূশ, বাগাভীর কাছে কুতরূস, সঙ্গে ওয়াহবের বরাতে কিতফীর। কুরতুবী ইবন আতিয়্যার সূত্রে আরও একটি দাবি আনেন। দেশ-দেশান্তরের আজব কথা নিয়ে লেখা এক বইয়ের লেখক বলেছেন, তিন্নীসের হ্রদটাই নাকি ছিল এই দুই বাগান, আল্লাহ এক রাতে যা ডুবিয়ে দেন। এক তাফসীর থেকে আরেক তাফসীরে নামের বানান বদলে যায়। আর দুই লেখকের কেউই এগুলোর মধ্যে কোনোটি বেছে নেন না।"
+          },
+          {
+            "en": "Names need a word of care. Abu Salama (RA), Salman (RA) and Suhayb (RA) are Companions, and al-Aswad and 'Uyayna appear only because a report sets them in the ungrateful man's place. Every identification here is a report the commentators relay without confirming. The verse describes what it describes, a man ungrateful for his gardens, and it licenses nothing against any living person, any family or clan, or any community today. Its subject is a disposition that can take root in any heart with money in its keeping.",
+            "bn": "নামের ব্যাপারে একটু সাবধান থাকা দরকার। আবু সালামা (রাঃ), সালমান (রাঃ) ও সুহাইব (রাঃ) সাহাবী। আসওয়াদ ও উয়াইনার নাম এখানে এসেছে শুধু এই কারণে যে কোনো বর্ণনা তাদের নাশোকর লোকটির জায়গায় বসিয়েছে। এখানকার প্রতিটি পরিচয়ই এমন বর্ণনা, যা তাফসীরকারেরা উদ্ধৃত করেন কিন্তু নিশ্চিত করেন না। আয়াত যা বলে তা-ই বলে: বাগান পেয়ে নাশোকর হওয়া এক মানুষের কথা। আজকের কোনো জীবিত মানুষ, কোনো পরিবার বা গোত্র, কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এর বিষয় একটা মনোভাব, যার হাতে টাকা আছে এমন যে-কোনো হৃদয়ে যা শিকড় গাড়তে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Thousand Dinars at a Time",
+          "bn": "হাজার দিনার করে দান"
+        },
+        "p": [
+          {
+            "en": "Behind several of these identifications sits a story. Al-Baghawi relays it through 'Abdullah ibn al-Mubarak from Ma'mar from 'Ata' al-Khurasani, and al-Qurtubi from 'Ata' through ath-Tha'labi. Two partners, or two brothers who had inherited from their father, held eight thousand dinars and divided it. One bought land for a thousand dinars. The other prayed: O Allah, so-and-so has bought land for a thousand dinars, and I buy from You land in Paradise for a thousand. Then he gave that sum away in charity.",
+            "bn": "এসব পরিচয়ের কয়েকটির পেছনে একটা গল্প আছে। বাগাভী তা আনেন আব্দুল্লাহ ইবনুল মুবারক থেকে, তিনি মা'মার থেকে, তিনি আতা আল-খুরাসানী থেকে। কুরতুবীও আতার বরাতে আনেন, সা'লাবীর মাধ্যমে। দুজন অংশীদার ছিল, কারও মতে পিতার উত্তরাধিকার পাওয়া দুই ভাই। তাদের ৮ হাজার দিনার ছিল, সেটা তারা ভাগ করে নিল। একজন এক হাজার দিনারে জমি কিনল। অন্যজন দোয়া করল: হে আল্লাহ, অমুক এক হাজার দিনারে জমি কিনেছে। আমি তোমার কাছ থেকে এক হাজারে জান্নাতের জমি কিনছি। তারপর সে ওই অর্থ সদকা করে দিল।"
+          },
+          {
+            "en": "The pattern repeats. His partner built a house for a thousand, and he bought a house in Paradise with a thousand given away. His partner married and spent a thousand on his bride, and he asked Allah for a wife from the women of Paradise for a thousand. His partner bought servants and goods for a thousand, and he bought their like in Paradise. Then severe need struck him. He waited by his old partner's road, hoping for some kindness, and told him where his share had gone.",
+            "bn": "একই ঘটনা বারবার ঘটতে থাকল। অংশীদার এক হাজারে বাড়ি বানাল, আর সে এক হাজার দান করে জান্নাতের বাড়ি কিনল। অংশীদার বিয়ে করে স্ত্রীর পেছনে এক হাজার খরচ করল, আর সে এক হাজারের বিনিময়ে আল্লাহর কাছে জান্নাতের নারীদের মধ্য থেকে স্ত্রী চাইল। অংশীদার এক হাজারে চাকর-বাকর আর আসবাব কিনল, আর সে জান্নাতে তার সমতুল্য কিনে নিল। তারপর তার ওপর কঠিন অভাব নেমে এল। কিছু সাহায্যের আশায় সে পুরোনো অংশীদারের চলার পথে বসে রইল। দেখা হলে জানাল, নিজের ভাগের টাকা কোথায় গেছে।"
+          },
+          {
+            "en": "The answer, in al-Baghawi's wording, was: are you really one of those who believe in this? Go, I will give you nothing; and he drove him away. Both died, and the report says these verses of as-Saffat came down about them: then they will turn to one another, asking; one of them will say, I had a companion (37:50 and 37:51). Al-Qurtubi draws the frame: this surah shows the two brothers in this world, and as-Saffat shows them in the next. Neither commentator grades the story.",
+            "bn": "বাগাভীর ভাষায় জবাব এল: তুমি কি সত্যিই এসব বিশ্বাস করো? যাও, তোমাকে আমি কিছুই দেব না। এই বলে সে তাকে তাড়িয়ে দিল। পরে দুজনেরই মৃত্যু হলো। বর্ণনা বলে, তাদের নিয়েই সূরা আস-সাফফাতের এ আয়াতগুলো নাযিল হয়: তারপর তারা একে অপরের দিকে ফিরে জিজ্ঞাসাবাদ করবে; তাদের একজন বলবে, আমার এক সঙ্গী ছিল (৩৭:৫০ ও ৩৭:৫১)। কুরতুবী পুরো ছবিটা এভাবে সাজান: এ সূরা দেখায় দুই ভাইয়ের দুনিয়ার অবস্থা, আর আস-সাফফাত দেখায় আখিরাতের অবস্থা। দুই তাফসীরকারের কেউই গল্পটির মান নির্ণয় করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Account or a Pure Likeness",
+          "bn": "ঘটে যাওয়া কাহিনি, নাকি নিছক উপমা"
+        },
+        "p": [
+          {
+            "en": "Was there ever such a pair? Al-Qurtubi records a view he credits to al-Mawardi: that this is a likeness Allah struck for this community, not a report of something that happened before, meant to make people do without the world and long for the next, and set as a rebuke and a warning. He answers it in a single line: the context of the verse points the other way, and Allah knows best. He does not spell out which part of the context he means.",
+            "bn": "এমন দুজন মানুষ কি সত্যিই ছিল? কুরতুবী একটি মত উল্লেখ করেন, যা তিনি মাওয়ারদীর বলে জানান। সে মতে এটি এই উম্মতের জন্য আল্লাহর দেওয়া এক দৃষ্টান্ত, অতীতে ঘটে যাওয়া কোনো ঘটনার খবর নয়। উদ্দেশ্য, মানুষ যেন দুনিয়ার প্রতি অনাসক্ত হয় আর আখিরাতের প্রতি আগ্রহী হয়। আল্লাহ একে ধমক ও সতর্কবাণী হিসেবে রেখেছেন। কুরতুবী এর জবাব দেন এক বাক্যে: আয়াতের প্রসঙ্গ এর উল্টো দিকেই ইঙ্গিত করে, আর আল্লাহই ভালো জানেন। প্রসঙ্গের ঠিক কোন অংশের কথা বলছেন, তা তিনি খুলে বলেন না।"
+          },
+          {
+            "en": "As-Sa'di sets the question aside rather than answering it. Knowing who the two men were, he writes, and in what time or place they lived, brings no benefit and no result; the result comes from their story alone, and going into anything beyond it is takalluf, a needless straining. So the disagreement stays open: al-Qurtubi reading an account of real men, al-Mawardi a likeness only, and as-Sa'di judging the question not worth the effort.",
+            "bn": "সা'দী প্রশ্নটার জবাব দেন না, বরং একে পাশে সরিয়ে রাখেন। তাঁর কথা, লোক দুজন কে ছিল, কোন যুগে বা কোন জায়গায় ছিল, তা জেনে কোনো লাভ নেই, কোনো ফলও নেই। ফল যা পাওয়ার, তা তাদের কাহিনি থেকেই পাওয়া যায়। এর বাইরের বিষয়ে ঢোকা তাকাল্লুফ, অর্থাৎ অনর্থক টানাহেঁচড়া। মতভেদটা তাই খোলাই থাকে। কুরতুবী একে বাস্তব মানুষের কাহিনি হিসেবে পড়েন। মাওয়ারদী একে কেবল উপমা মনে করেন। আর সা'দীর বিচারে প্রশ্নটা এত খাটুনির যোগ্যই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Vines Inside a Ring of Palms",
+          "bn": "খেজুরের বেষ্টনীতে আঙুরলতা"
+        },
+        "p": [
+          {
+            "en": "Now the gardens themselves. Jannatayni min a'nab: at-Tabari renders it two orchards of vines, and Ibn Kathir two orchards of grapes. Then wa-hafafnahuma bi-nakhl, which at-Tabari glosses: We made palms go round these two orchards. Al-Baghawi and al-Qurtubi explain the root: al-hifaf is the side, its plural ahiffa, and Arabs say the people haffu bi-fulan when they go round someone on every side. Al-Qurtubi adds the root's use in the Qur'an itself, the angels haffina min hawl al-'arsh, surrounding the Throne (39:75).",
+            "bn": "এবার বাগানগুলোর কথা। জান্নাতাইনি মিন আ'নাব: তাবারী এর অর্থ করেন আঙুরলতার দুটি বাগিচা, ইবন কাসীর বলেন আঙুরের দুটি বাগিচা। তারপর ওয়া হাফাফনাহুমা বিনাখল। তাবারীর ব্যাখ্যায়: এই দুই বাগিচার চারদিক আমি খেজুরগাছ দিয়ে ঘিরে দিয়েছিলাম। বাগাভী ও কুরতুবী ধাতুটা খুলে বলেন। হিফাফ মানে পাশ, এর বহুবচন আহিফফা। কোনো লোককে সবদিক থেকে ঘিরে ধরলে আরবরা বলে, হাফফাল কওমু বিফুলান। কুরতুবী কুরআনেই এ ধাতুর ব্যবহার দেখান: ফেরেশতারা হাফফীনা মিন হাওলিল আরশ, আরশের চারপাশ ঘিরে আছেন (৩৯:৭৫)।"
+          },
+          {
+            "en": "As-Sa'di explains why the arrangement matters. The gardens held every kind of fruit, he says, and above all the two noblest trees, the vine and the palm: the vines in the middle, the palms ringed round them. That gave the gardens a fine look, and it set the trees and palms out to the sun and the winds by which fruit is completed, ripens and reaches its best quality. Ibn Kathir pictures the palms standing close along the gardens' sides, every tree and crop bearing fruit at the height of excellence.",
+            "bn": "এই বিন্যাসের গুরুত্ব কোথায়, সা'দী তা বুঝিয়ে দেন। তাঁর মতে বাগান দুটিতে সব রকম ফল ছিল, বিশেষ করে সবচেয়ে সম্মানিত দুই গাছ, আঙুর আর খেজুর। মাঝখানে আঙুর, চারপাশে খেজুরের বেড়। এতে বাগানের চেহারা হয়েছিল মনোরম। আবার গাছ ও খেজুর খোলা পেয়েছিল রোদ আর বাতাস, যার ছোঁয়ায় ফল পূর্ণতা পায়, পাকে, আর সেরা মানে পৌঁছায়। ইবন কাসীরের ছবিতে খেজুরগাছগুলো বাগানের পাশগুলো ঘেঁষে দাঁড়িয়ে। প্রতিটি গাছ, প্রতিটি ফসল চরম উৎকর্ষে ফল দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Ground Left Waste",
+          "bn": "এক চিলতে জমিও পড়ে নেই"
+        },
+        "p": [
+          {
+            "en": "Wa-ja'alna baynahuma zar'a: and We placed crops between them. The commentators read baynahuma, between the two, in two ways. At-Tabari puts the crops in the middle of the two orchards, and al-Baghawi and al-Qurtubi say: palms round the vines, crops in the middle of the vines. Al-Baghawi then gives a second reading with qila: between the two gardens lay crops, meaning there was no spot between them lying in ruin. Either way the land is used to its edges.",
+            "bn": "ওয়া জাআলনা বাইনাহুমা যার'আ: আর দুটির মাঝে আমি ফসল রেখেছিলাম। বাইনাহুমা, অর্থাৎ দুটির মাঝে, কথাটি তাফসীরকারেরা দুইভাবে পড়েন। তাবারীর মতে ফসল ছিল দুই বাগিচার মাঝখানে। বাগাভী ও কুরতুবী বলেন: আঙুরের চারপাশে খেজুর, আর আঙুরের মাঝখানে ফসল। তারপর বাগাভী কীলা দিয়ে দ্বিতীয় একটি পাঠ আনেন: দুই বাগানের মাঝের জমিতে ফসল ছিল। মানে, দুই বাগানের মধ্যে এক টুকরো জায়গাও পতিত পড়ে ছিল না। যেভাবেই পড়ুন, জমির শেষ কিনারা পর্যন্ত কাজে লাগানো।"
+          },
+          {
+            "en": "The Muyassar calls the crops varied and beneficial, and as-Sa'di notes that, with all the rest, crops were set between the trees. The picture is of an estate with three layers working at once: a ring of palms, a body of vines, and field crops in the gaps, so that it gave fruit from the trees and grain from the ground. The next verse completes the scene, each garden yielding its produce without falling short and a river made to gush between them (18:33).",
+            "bn": "মুয়াসসার ফসলগুলোকে বলে নানা রকম ও উপকারী। সা'দী লক্ষ করেন, এত কিছুর পরও গাছগুলোর ফাঁকে ফসল বসানো হয়েছিল। ছবিটা এমন এক খামারের, যার তিনটি স্তর একসঙ্গে কাজ করছে। বাইরে খেজুরের বেষ্টনী, ভেতরে আঙুরলতা, ফাঁকে ফাঁকে খেতের ফসল। গাছ থেকে ফল আসে, মাটি থেকে শস্য। পরের আয়াত দৃশ্যটা পূর্ণ করে। প্রতিটি বাগান কোনো কমতি ছাড়াই ফল দিত, আর দুটির মাঝ দিয়ে একটি নহর বইয়ে দেওয়া হয়েছিল (১৮:৩৩)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Placed in His Hands",
+          "bn": "তার হাতে তুলে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Every gift in this verse arrives with a verb whose subject is Allah: ja'alna, We made, then hafafnahuma, We bordered them, then ja'alna again, We placed. As-Sa'di's paraphrase keeps that subject: Allah made for him two gardens. Two verses later the owner tells his companion, I am greater than you in wealth (18:34), and the gift has turned into a credential. The parable's opening has already answered him. What a person holds was put there, and what was put there can be asked about.",
+            "bn": "এ আয়াতের প্রতিটি দানের সঙ্গে এমন ক্রিয়া, যার কর্তা আল্লাহ। জাআলনা, আমি দিয়েছিলাম। তারপর হাফাফনাহুমা, আমি ঘিরে দিয়েছিলাম। তারপর আবার জাআলনা, আমি রেখেছিলাম। সা'দীর ব্যাখ্যাতেও কর্তা বদলায় না: আল্লাহ তার জন্য দুটি বাগান বানিয়েছিলেন। দুই আয়াত পরেই মালিক তার সঙ্গীকে বলে, সম্পদে আমি তোমার চেয়ে বেশি (১৮:৩৪)। দান তখন হয়ে গেছে বড়াইয়ের সনদ। অথচ দৃষ্টান্তের শুরুতেই তার জবাব দেওয়া হয়ে গেছে। মানুষের হাতে যা আছে, তা কেউ তুলে দিয়েছেন। আর যা তুলে দেওয়া, তার হিসাবও চাওয়া হতে পারে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. The practical lesson stays close to the occasion at-Tabari and Ibn Kathir describe, where wealth had become a reason to keep certain believers out of the room. The likeness asks a reader to hold property as a trust, to be the grateful man of as-Sa'di's reading, and to check, in any gathering, whether money is deciding who sits nearest. It does not condemn owning gardens. It warns against what owning them can lead a person to think.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। বাস্তব শিক্ষাটা তাই তাবারী ও ইবন কাসীরের বলা প্রেক্ষাপটের কাছাকাছিই থাকে। সেখানে সম্পদ হয়ে উঠেছিল কিছু মুমিনকে মজলিস থেকে দূরে রাখার অজুহাত। দৃষ্টান্তটি পাঠকের কাছে চায়, সম্পদকে আমানত হিসেবে ধরতে, সা'দীর ব্যাখ্যার সেই শোকরগুজার মানুষটি হতে। আর যে-কোনো মজলিসে নিজেকে যাচাই করতে, কে কার কাছে বসবে তা কি টাকা ঠিক করে দিচ্ছে? বাগানের মালিক হওয়াকে আয়াত দোষ দেয় না। সতর্ক করে সেই ভাবনা থেকে, মালিকানা যা মানুষের মাথায় ঢুকিয়ে দিতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "18:37": {
     "sections": [
       {

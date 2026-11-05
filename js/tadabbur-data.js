@@ -22791,6 +22791,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask of every claim about God where its proof is, starting with your own beliefs, and never say about Allah what He has not said.",
     "lessonBn": "আল্লাহ সম্পর্কে প্রতিটি দাবির প্রমাণ কোথায়, তা জিজ্ঞেস করুন, শুরু করুন নিজের বিশ্বাস দিয়ে। আর আল্লাহ যা বলেননি, তা কখনো তাঁর নামে বলবেন না।"
+  },
+  "18:32": {
+    "reflectionEn": "The parable begins before anyone speaks. Two men are set side by side, and one of them is given two gardens of grapevines, ringed with palms, with crops sown in the ground between. Read the verbs and notice who is doing the work: We made, We bordered, We placed. The verse never says he planted the palms; it says they were placed around him. The likeness was struck for people who had wealth and thought it entitled them to keep the poor at a distance. Before the story shows what the man does with his gardens, it has already settled whose gardens they are. What in my hands do I speak of as my own making, and whom have I kept at arm's length because of it?",
+    "reflectionBn": "কেউ মুখ খোলার আগেই দৃষ্টান্তটা শুরু হয়ে যায়। দুজন মানুষকে পাশাপাশি দাঁড় করানো হয়। তাদের একজনকে দেওয়া হয় আঙুরের দুটি বাগান, চারপাশে খেজুরগাছের বেষ্টনী, মাঝখানের জমিতে ফসল। ক্রিয়াগুলো একবার খেয়াল করুন, কাজটা কে করছেন: আমি দিয়েছিলাম, আমি ঘিরে দিয়েছিলাম, আমি রেখেছিলাম। লোকটি নিজে খেজুরগাছ লাগিয়েছে, আয়াত কোথাও এমন কথা বলে না। বলে, এগুলো তার চারপাশে বসিয়ে দেওয়া হয়েছিল। দৃষ্টান্তটা দেওয়া হয়েছিল এমন লোকদের সামনে, যাদের হাতে সম্পদ ছিল আর যারা ভাবত, সে কারণেই গরিবদের দূরে সরিয়ে রাখার হক তাদের আছে। লোকটি বাগান নিয়ে কী করে, সে গল্পে যাওয়ার আগেই আয়াত মীমাংসা করে দেয়, বাগান আসলে কার দেওয়া। আমার হাতের কোন জিনিসকে আমি নিজের গড়া বলে চালাই? আর সেই অহংকারে কাকে আমি দূরে ঠেলে রেখেছি?",
+    "pointsEn": [
+      "When I talk about what I own, how often do I say 'I built' where the truer words would be 'I was given'?",
+      "Is there someone I keep at a distance, in a gathering or in my thoughts, because they have less than I do?",
+      "Which of my blessings have I stopped noticing simply because they arrive in full, season after season?",
+      "If what I hold is a trust, what would its Owner expect me to do with it this month?",
+      "Whose company do I seek out, and is it their wealth or their faith that draws me?"
+    ],
+    "pointsBn": [
+      "নিজের সম্পদের কথা বলতে গিয়ে কতবার আমি বলি 'আমি গড়েছি', যেখানে সত্যি কথাটা হতো 'আমাকে দেওয়া হয়েছে'?",
+      "এমন কেউ কি আছে, যাকে আমি মজলিসে বা মনে মনে দূরে রাখি শুধু এই কারণে যে তার আমার চেয়ে কম আছে?",
+      "কোন নিয়ামতগুলো আমার চোখে পড়া বন্ধ হয়ে গেছে, কেবল এই কারণে যে সেগুলো মৌসুমের পর মৌসুম পুরোপুরি আসতেই থাকে?",
+      "আমার হাতে যা আছে তা যদি আমানত হয়, তবে এর মালিক এ মাসে আমার কাছে কী আশা করেন?",
+      "আমি কাদের সঙ্গ খুঁজি? তাদের দিকে আমাকে টানে কোনটা, তাদের টাকা নাকি তাদের ঈমান?"
+    ],
+    "lessonEn": "What you own was placed in your hands, as the two gardens were. Hold it as a trust from Allah, and never let it lift you above those who have less.",
+    "lessonBn": "দুটি বাগানের মতো আপনার সম্পদও আপনার হাতে তুলে দেওয়া হয়েছে। একে আল্লাহর আমানত হিসেবে ধরে রাখুন, আর যাদের কম আছে তাদের ওপরে নিজেকে কখনো তুলবেন না।"
   }
 };
 
