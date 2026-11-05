@@ -22111,6 +22111,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When your truthful word is denied, let Allah's witness be enough for you, and stay steady in the work you were given to do.",
     "lessonBn": "আপনার সত্য কথা কেউ অস্বীকার করলে আল্লাহর সাক্ষ্যকেই যথেষ্ট মনে করুন, আর যে কাজের দায়িত্ব পেয়েছেন তাতে অবিচল থাকুন।"
+  },
+  "14:32": {
+    "reflectionEn": "The verse before this one tells the believers to pray and to spend from what they were given. This one names the Giver and opens His accounts: the heavens and the earth, rain from the sky, fruit brought out by that rain, ships that keep afloat on the sea by His command, rivers that run through the land. None of it is rare. I drink water that fell as rain, eat fruit I did not make grow, and cross water on things that should sink. The verse says each was set to work for me, though none of it obeys me. So I owe the thanks to the One it does obey. When did I last thank Him for a glass of water, and not only for a windfall?",
+    "reflectionBn": "আগের আয়াতে ঈমানদারদের বলা হয়েছে নামায কায়েম করতে আর যা দেওয়া হয়েছে তা থেকে খরচ করতে। এ আয়াত দাতার নাম বলে, তারপর তাঁর দানের হিসাব খুলে দেয়: আসমান ও যমীন, আকাশ থেকে বৃষ্টি, সেই বৃষ্টিতে জন্মানো ফল, তাঁর হুকুমে সাগরে ভেসে চলা নৌযান, দেশের বুক চিরে বয়ে যাওয়া নদী। এর কোনোটাই দুর্লভ নয়। যে পানি আমি পান করি, তা একদিন বৃষ্টি হয়ে নেমেছিল। যে ফল খাই, তা আমি জন্মাইনি। যে জিনিসের ডুবে যাওয়ার কথা, তাতে চড়ে আমি পানি পার হই। আয়াত বলছে, এর প্রতিটি আমার কাজে লাগিয়ে দেওয়া হয়েছে, অথচ কোনোটাই আমার হুকুম মানে না। তাই শুকরিয়া পাওনা তাঁর, যাঁর হুকুম এরা মানে। শেষ কবে এক গ্লাস পানির জন্য তাঁকে ধন্যবাদ দিয়েছি, শুধু হঠাৎ পাওয়া কোনো সৌভাগ্যের জন্য নয়?",
+    "pointsEn": [
+      "Which of these five gifts did I use today without once thinking of who sent it?",
+      "When I feel proud of something I built or fixed, do I remember who made the wood, the metal and the mind I used?",
+      "Is my gratitude kept for the unusual blessing, while the daily rain, river and bread go unthanked?",
+      "The verse before this one asks for prayer and spending. Does my thanks reach my prayer and my wallet, or stop at my tongue?",
+      "What ordinary means do I lean on, a bus, a boat, a tap, a market, that I could start greeting with a word of praise?"
+    ],
+    "pointsBn": [
+      "এই পাঁচ দানের কোনটা আজ ব্যবহার করেছি, অথচ একবারও ভাবিনি কে পাঠিয়েছেন?",
+      "নিজের বানানো বা সারানো কোনো কিছু নিয়ে যখন গর্ব হয়, তখন কি মনে পড়ে কাঠ, লোহা আর যে বুদ্ধি খাটিয়েছি, সেগুলো কে বানিয়েছেন?",
+      "আমার শুকরিয়া কি শুধু অসাধারণ নিয়ামতের জন্য তোলা থাকে, আর রোজকার বৃষ্টি, নদী আর রুটি থেকে যায় ধন্যবাদ ছাড়া?",
+      "আগের আয়াত নামায আর দানের কথা বলে। আমার শুকরিয়া কি নামায আর খরচের হাত পর্যন্ত পৌঁছায়, নাকি মুখেই থেমে যায়?",
+      "কোন সাধারণ উপায়ের উপর আমি রোজ ভর করি, বাস, নৌকা, কল, বাজার, যেগুলোর সামনে এক শব্দের হামদ দিয়ে শুরু করা যায়?"
+    ],
+    "lessonEn": "Thank Allah for the ordinary means you use daily, the rain, the river, the boat, and let that thanks show in your prayer and your giving.",
+    "lessonBn": "রোজ যে সাধারণ উপায়গুলো ব্যবহার করেন, বৃষ্টি, নদী, নৌকা, সেগুলোর জন্য আল্লাহর শুকরিয়া আদায় করুন, আর সেই শুকরিয়া আপনার নামায ও দানে ফুটে উঠুক।"
   }
 };
 

@@ -1047,6 +1047,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Call to Pray",
+          "bn": "নামাযের ডাকের পরে"
+        },
+        "p": [
+          {
+            "en": "The verses just before draw a hard line. In 14:28 come those who exchanged the favour of Allah for disbelief and settled their people in the home of ruin, and in 14:30 those who set up rivals to Allah to lead others from His way. Then 14:31 turns to the believers: tell My servants to establish prayer and to spend, secretly and openly, from what We have provided them, before a Day comes with no trading and no friendship.",
+            "bn": "ঠিক আগের আয়াতগুলো স্পষ্ট এক সীমারেখা টানে। ১৪:২৮ আয়াতে আছে তাদের কথা, যারা আল্লাহর নিয়ামতের বদলে কুফর বেছে নিয়েছে আর নিজের জাতিকে নামিয়ে এনেছে ধ্বংসের ঘরে। ১৪:৩০ আয়াতে আছে তারা, যারা মানুষকে তাঁর পথ থেকে সরাতে আল্লাহর সমকক্ষ দাঁড় করিয়েছে। তারপর ১৪:৩১ আয়াত ফেরে ঈমানদারদের দিকে: আমার বান্দাদের বলে দাও, তারা যেন নামায কায়েম করে, আর আমি যা দিয়েছি তা থেকে গোপনে ও প্রকাশ্যে খরচ করে, সেই দিন আসার আগে, যেদিন কোনো বেচাকেনা নেই, কোনো বন্ধুত্বও নেই।"
+          },
+          {
+            "en": "That command speaks of what We have provided them, and 14:32 at once names the Provider and opens the account: Allahu alladhi, it is Allah who. The call to thank through prayer and giving is followed by the reasons. At-Tabari draws the conclusion inside his gloss: worship and sincere obedience are owed to Him whose attributes these are, not to the idols of the idolaters, which can bring neither harm nor benefit to themselves or to anyone else.",
+            "bn": "সেই আদেশে কথা ছিল 'আমি যা দিয়েছি' তা নিয়ে। ১৪:৩২ আয়াত সঙ্গে সঙ্গে দাতার নাম বলে, তারপর হিসাবের খাতা খুলে দেয়: আল্লাহু আল্লাযী, তিনিই আল্লাহ, যিনি...। যে আয়াত নামায আর দানের মধ্য দিয়ে শুকরিয়া চেয়েছিল, তার পরেই এল শুকরিয়ার কারণগুলো। তাবারী নিজের ব্যাখ্যার ভেতরেই উপসংহার টেনে দেন। তাঁর কথায়, তোমাদের ইবাদত আর খাঁটি আনুগত্য পাওয়ার হক তাঁরই, যাঁর গুণ এমন। মুশরিকদের সেই মূর্তিগুলোর নয়, যারা নিজের বা অন্য কারও কোনো ক্ষতি বা উপকার করার ক্ষমতা রাখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Roof Above, a Bed Below",
+          "bn": "উপরে ছাদ, নিচে বিছানা"
+        },
+        "p": [
+          {
+            "en": "The list begins with the largest things: alladhi khalaqa al-samawati wal-ard, who created the heavens and the earth. Al-Qurtubi explains khalaqa as He originated and devised them with no earlier model to follow. At-Tabari and the Muyassar both say He brought them into being from nothing. As-Sa'di stresses the word alone: Allah tells that He by Himself created them, for all their breadth and greatness. Set beside 14:30, the word is pointed: rivals were raised up beside a Creator who had no partner.",
+            "bn": "তালিকা শুরু হয় সবচেয়ে বড় জিনিস দিয়ে: আল্লাযী খালাকাস সামাওয়াতি ওয়াল আরদ, যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন। কুরতুবী খালাকা শব্দের ব্যাখ্যা দেন এভাবে: পূর্বের কোনো নমুনা ছাড়াই তিনি এগুলো উদ্ভাবন ও সৃষ্টি করেছেন। তাবারী ও মুয়াসসার দুজনেই বলেন, তিনি এগুলোকে শূন্য থেকে অস্তিত্বে এনেছেন। সা'দী জোর দেন 'একা' কথাটির উপর। আল্লাহ জানাচ্ছেন, এত বিশাল আর এত বিস্তৃত হওয়া সত্ত্বেও এগুলো তিনি একাই সৃষ্টি করেছেন। ১৪:৩০ আয়াতের পাশে রাখলে কথাটা আরও ধারালো হয়। যাঁর সৃষ্টিতে কোনো শরিক ছিল না, তাঁরই পাশে লোকেরা সমকক্ষ দাঁড় করাচ্ছিল।"
+          },
+          {
+            "en": "Ibn Kathir reads the pair as a gift and not only as a display of power. Allah enumerates His favours to His creation, he says, in that He created the heavens for them as a guarded roof and the earth as a spread bed. People live under a roof and rest on a bed; both are words of a home. Before rain or fruit or ships are named, the verse has already given the house in which all of them are used.",
+            "bn": "ইবন কাসীর এ জোড়াকে শুধু ক্ষমতার প্রদর্শনী হিসেবে পড়েন না, দান হিসেবেও পড়েন। তাঁর ভাষায়, আল্লাহ তাঁর সৃষ্টির উপর নিজের নিয়ামতগুলো গুনে গুনে বলছেন। তিনি তাদের জন্য আসমানকে বানিয়েছেন সুরক্ষিত ছাদ, আর যমীনকে বিছানো শয্যা। ছাদের নিচে মানুষ বাস করে, বিছানায় বিশ্রাম নেয়। দুটোই ঘরের শব্দ। বৃষ্টি, ফল বা নৌযানের নাম আসার আগেই আয়াত সেই ঘরটা দিয়ে দিয়েছে, যার ভেতরে এসবের ব্যবহার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water From the Clouds",
+          "bn": "মেঘ থেকে নামা পানি"
+        },
+        "p": [
+          {
+            "en": "Wa anzala min al-sama'i ma'an: and He sent down water from the sky. Al-Qurtubi and as-Sa'di both take al-sama' here to mean the clouds, and as-Sa'di names the water plainly as the rain Allah sends down from them. At-Tabari calls it ghayth, a relieving rain, by which He gave life to trees and crops. The Muyassar uses the same picture of life: He sent the rain from the clouds and revived the earth with it after its death.",
+            "bn": "ওয়া আনযালা মিনাস সামায়ি মাআ: আর তিনি আকাশ থেকে পানি নামিয়েছেন। কুরতুবী ও সা'দী দুজনেই এখানে আস-সামা মানে নিয়েছেন মেঘ। সা'দী পানিটার নামও সোজা বলে দেন: বৃষ্টি, যা আল্লাহ মেঘ থেকে নামান। তাবারী একে বলেন গাইস, স্বস্তি আনা বৃষ্টি, যা দিয়ে তিনি গাছপালা ও ফসলকে জীবন দিয়েছেন। মুয়াসসারও জীবনের সেই ছবিই আঁকে। তিনি মেঘ থেকে বৃষ্টি নামালেন, আর তা দিয়ে মরে যাওয়া মাটিকে আবার জীবিত করলেন।"
+          },
+          {
+            "en": "Fa-akhraja bihi min al-thamarati rizqan lakum: and by it He brought out fruits as provision for you. In at-Tabari's words, the trees and crops bore fruit as provision that you eat. Ibn Kathir widens the harvest: pairs of many kinds of plants, between fruits and crops, differing in colour and shape, in taste, scent and use. As-Sa'di adds a second set of mouths, provision for you and provision for your livestock, so the same rain that feeds a household also feeds the animals it keeps.",
+            "bn": "ফাআখরাজা বিহী মিনাস সামারাতি রিযকাল লাকুম: আর তা দিয়ে তিনি তোমাদের রিযিক হিসেবে ফলফলাদি বের করে আনলেন। তাবারীর ভাষায়, গাছ আর ফসলে ফল ধরল, তোমাদের খাওয়ার রিযিক হয়ে। ইবন কাসীর ফসলের পরিধি বাড়িয়ে দেন: নানা জাতের উদ্ভিদ জোড়ায় জোড়ায়, কিছু ফল, কিছু শস্য। রঙে আর আকারে আলাদা, স্বাদে, গন্ধে আর উপকারেও আলাদা। সা'দী আরেক দল খাইয়েকে যোগ করেন: তোমাদের রিযিক, আর তোমাদের গবাদিপশুর রিযিক। যে বৃষ্টি একটা পরিবারকে খাওয়ায়, সেই বৃষ্টিই সে পরিবারের পোষা পশুগুলোকেও খাওয়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set to Serve, Not Handed Over",
+          "bn": "কাজে লাগানো, মালিকানা নয়"
+        },
+        "p": [
+          {
+            "en": "Then the verb changes. Twice in this verse, and twice more in 14:33, Allah says sakhkhara lakum: He made subject for you. The Muyassar and al-Baghawi both render it dhallala, He made tractable, made easy to manage. Ma'arif al-Qur'an explains the verb in this verse as meaning that Allah has made the use of these things easy for you. Nothing in either gloss says the ships or rivers now answer to human beings as their owners.",
+            "bn": "এরপর ক্রিয়া বদলে যায়। এ আয়াতে দুবার, আর ১৪:৩৩ আয়াতে আরও দুবার আল্লাহ বলেন সাখখারা লাকুম: তিনি তোমাদের জন্য অধীন করে দিয়েছেন। মুয়াসসার আর বাগাভী দুজনেই এর অর্থ করেন যাল্লালা, অর্থাৎ বশ মানিয়ে দিয়েছেন, সামলানো সহজ করে দিয়েছেন। মাআরিফুল কুরআন এ আয়াতে ক্রিয়াটির ব্যাখ্যা দেয় এভাবে: আল্লাহ এ জিনিসগুলোর ব্যবহার তোমাদের জন্য সহজ করে দিয়েছেন। কোনো ব্যাখ্যাতেই বলা নেই যে নৌযান বা নদী এখন মালিক হিসেবে মানুষের কাছে জবাবদিহি করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an makes the point outright on the next verse, where the same verb governs the sun and the moon. Sakhkhara lakum, it says, does not mean that they move at your command. Were the sun subject to people in that sense, one would want it to rise two hours late because of a long night's work and another two hours early, and they would quarrel. It has been put to serve human beings at all times, under a wise divine arrangement, without its rising and setting bending to human wishes.",
+            "bn": "পরের আয়াতে, যেখানে একই ক্রিয়া সূর্য আর চাঁদের বেলায় এসেছে, মাআরিফুল কুরআন কথাটা খোলাখুলি বলে। সেখানে বলা হয়েছে, সাখখারা লাকুম মানে এই নয় যে এরা তোমাদের হুকুমে চলবে। সূর্য যদি সেই অর্থে মানুষের অধীন হতো, তবে রাতে অনেক কাজ থাকায় কেউ চাইত আজ সূর্য দুই ঘণ্টা দেরিতে উঠুক। আরেকজন চাইত দুই ঘণ্টা আগে উঠুক। বিরোধ লেগেই থাকত। আসলে প্রজ্ঞাময় এক ঐশী ব্যবস্থায় একে সব সময় মানুষের সেবায় লাগিয়ে রাখা হয়েছে, কিন্তু এর ওঠা-ডোবা মানুষের ইচ্ছার অধীন নয়।"
+          },
+          {
+            "en": "At-Tabari, on that next verse, reports from Ibn Abbas (RA) that the constancy of the sun and moon is their constancy in obedience to Allah, and he says they alternate over people for the good of their selves and their livelihood. Put together, the readings give a precise sense. These things obey Allah, and He has turned their obedience towards human benefit. People are given the use, and with it the duty to thank Him whom the ships, the rivers and the sun all obey.",
+            "bn": "পরের সেই আয়াতে তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, সূর্য আর চাঁদের অবিরাম চলা মানে আল্লাহর আনুগত্যে তাদের অবিরাম থাকা। তিনি আরও বলেন, এরা পালাক্রমে মানুষের উপর আসে, তাদের নিজেদের আর জীবিকার কল্যাণে। ব্যাখ্যাগুলো মিলিয়ে পড়লে অর্থটা পরিষ্কার হয়। এ জিনিসগুলো আনুগত্য করে আল্লাহর, আর সেই আনুগত্যকে তিনি ঘুরিয়ে দিয়েছেন মানুষের উপকারের দিকে। মানুষ পেয়েছে ব্যবহারের সুযোগ। সেই সুযোগের সঙ্গে এসেছে দায়ও: তাঁর শুকরিয়া আদায় করা, যাঁর হুকুম নৌযান, নদী আর সূর্য সবাই মানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heavy Hulls on Moving Water",
+          "bn": "চলমান পানিতে ভারী নৌকা"
+        },
+        "p": [
+          {
+            "en": "Wa sakhkhara lakumu al-fulka li-tajriya fi al-bahri bi-amrih: and He made ships subject to you, to run on the sea by His command. At-Tabari glosses al-fulk as ships, which you ride and in which you carry your goods from land to land. Al-Qurtubi says the meaning was already given in al-Baqarah, and there, on 2:164, he names the sign in them: Allah's subjecting them so that they run on the surface of the water and stay upon it, for all their weight.",
+            "bn": "ওয়া সাখখারা লাকুমুল ফুলকা লিতাজরিয়া ফিল বাহরি বিআমরিহী: আর তিনি নৌযানকে তোমাদের অধীন করেছেন, যাতে তাঁর হুকুমে তা সাগরে চলে। তাবারী আল-ফুলকের অর্থ করেন সোজাসুজি: জাহাজ-নৌকা, যাতে তোমরা চড়ো আর এক দেশ থেকে আরেক দেশে মালপত্র বয়ে নাও। কুরতুবী বলেন, এর অর্থ সূরা বাকারায় আগেই বলা হয়েছে। সেখানে ২:১৬৪ আয়াতের আলোচনায় তিনি নৌযানের নিদর্শনটা চিহ্নিত করেন। এত ভারী হওয়া সত্ত্বেও আল্লাহ এগুলোকে এমনভাবে বশ করেছেন যে এরা পানির উপর দিয়ে চলে, আর পানির উপরেই ভেসে থাকে।"
+          },
+          {
+            "en": "Ibn Kathir describes the subjection from both sides. He made the ships float on the current of the sea, running on it by the command of Allah, and He made the sea carry them, so that travellers cross from region to region, bringing what is here to there and what is there to here. As-Sa'di keeps the same two sides: Allah preserves the ships on the current of the water so that they carry you, and carry your trade and your goods to whatever land you are making for.",
+            "bn": "ইবন কাসীর এই বশ করাকে দুই দিক থেকে দেখান। তিনি নৌযানগুলোকে সাগরের স্রোতের উপর ভাসিয়ে রেখেছেন, আল্লাহর হুকুমে সেগুলো তার উপর দিয়ে চলে। আর সাগরকেও বশ করেছেন, যাতে সাগর এগুলোকে বহন করে। ফলে মুসাফিররা এক অঞ্চল থেকে আরেক অঞ্চলে পার হয়, এখানের জিনিস নিয়ে যায় ওখানে, ওখানের জিনিস আনে এখানে। সা'দীও এই দুই দিক রাখেন। আল্লাহ পানির স্রোতে নৌযানকে রক্ষা করেন, যাতে তা তোমাদের বহন করে, আর তোমাদের ব্যবসার মাল ও আসবাব পৌঁছে দেয় যে দেশের দিকে তোমরা রওনা দাও।"
+          },
+          {
+            "en": "Al-Qurtubi, on 2:164, also relays Ibn al-'Arabi's reason why the sea route matters at all. Allah set the sea in the middle of the earth and placed people on its two shores, and divided the benefits between the two sides, so that they could be fetched only by crossing it; then He made the way easy with ships. Bi-amrih, by His command, keeps the whole voyage in His hand: the hull, the current and the safe arrival.",
+            "bn": "২:১৬৪ আয়াতের আলোচনায় কুরতুবী ইবনুল আরাবীর একটা কথাও উদ্ধৃত করেন, সাগরপথ আদৌ কেন জরুরি। আল্লাহ সাগরকে রেখেছেন পৃথিবীর মাঝখানে, আর মানুষকে বসিয়েছেন তার দুই তীরে। উপকারগুলো ভাগ করে দিয়েছেন দুই দিকে, ফলে সাগর পাড়ি না দিয়ে সেগুলো আনা যায় না। তারপর নৌযান দিয়ে তিনি সেই পথ সহজ করে দিয়েছেন। বিআমরিহী, তাঁর হুকুমে, কথাটি পুরো যাত্রাকেই তাঁর হাতে রাখে: জাহাজের খোল, পানির স্রোত, নিরাপদে পৌঁছানো, সবকিছু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Taught the Shipwright",
+          "bn": "নৌকা গড়ার বিদ্যা কার দান"
+        },
+        "p": [
+          {
+            "en": "A ship, unlike rain, is something people build, and the verse still says Allah made it subject. As-Sa'di explains how: it is He who made shipbuilding easy for you and gave you the ability for it. The skill in the boatbuilder's hands is counted inside the gift, not outside it. A hull planed and sealed by a craftsman is his work, and the verse does not deny it; it asks who supplied the timber, the water and the craftsman's understanding.",
+            "bn": "বৃষ্টি মানুষ বানায় না, কিন্তু নৌকা বানায়। তবু আয়াত বলছে, নৌযানকে বশ করেছেন আল্লাহ। কীভাবে, সা'দী তা বুঝিয়ে দেন। তিনিই তোমাদের জন্য নৌযান বানানো সহজ করেছেন, আর তা বানানোর সামর্থ্য তোমাদের দিয়েছেন। নৌকার কারিগরের হাতের দক্ষতা তাই দানের বাইরে নয়, ভেতরেই গোনা। কারিগর যে খোল চেঁছে মসৃণ করেছেন আর ফাঁক বন্ধ করেছেন, সেটা তাঁরই কাজ, আয়াত তা অস্বীকার করে না। আয়াতের প্রশ্ন অন্যখানে: কাঠ কে দিলেন, পানি কে দিলেন, আর কারিগরের বুঝ কোথা থেকে এল?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an presses the same point against pride. Wood and steel and the means to build ships exist, it says, but the intelligence and ability to use them well were given by Him. Those proud of having invented or made such things should think twice before claiming all the credit, since the materials were not created by them, nor could they be. Our very existence, our hands and feet, our minds and our intelligence, are not things we made.",
+            "bn": "মাআরিফুল কুরআন একই কথা অহংকারের বিপরীতে দাঁড় করায়। কাঠ আছে, লোহা আছে, জাহাজ বানানোর সরঞ্জামও আছে। কিন্তু এগুলো ঠিকভাবে, দক্ষতার সঙ্গে ব্যবহারের বুদ্ধি আর সামর্থ্য, সবই তাঁর দেওয়া। যারা এমন কিছু আবিষ্কার বা তৈরি করে গর্ব করে, পুরো কৃতিত্ব নিজের ঘাড়ে নেওয়ার আগে তাদের দুবার ভাবা উচিত। কারণ যে উপকরণ দিয়ে কাজ হয়েছে, তার কোনোটাই তারা সৃষ্টি করেনি, করতেও পারত না। আমাদের অস্তিত্ব, হাত-পা, মন আর বুদ্ধি, এর কিছুই আমাদের বানানো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A River for Every Land",
+          "bn": "প্রতিটি জনপদের নদী"
+        },
+        "p": [
+          {
+            "en": "Wa sakhkhara lakumu al-anhar: and He made the rivers subject to you. At-Tabari's gloss is brief, their water is drink for you, and he reports Mujahid's: in every land. Ibn Kathir pictures the rivers cutting through the earth from region to region as provision for the servants, for drinking and watering and other kinds of benefit. As-Sa'di names the fields and the trees they water, and the Muyassar adds the animals: rivers for your drinking and for your livestock, your crops and all your needs.",
+            "bn": "ওয়া সাখখারা লাকুমুল আনহার: আর তিনি নদীগুলোকে তোমাদের অধীন করেছেন। তাবারীর ব্যাখ্যা ছোট: এর পানি তোমাদের পানীয়। মুজাহিদের কথাও তিনি আনেন: প্রতিটি জনপদে। ইবন কাসীরের ছবিতে নদীগুলো যমীন চিরে এক অঞ্চল থেকে আরেক অঞ্চলে বয়ে যায়, বান্দাদের রিযিক হয়ে: পান করা, সেচ দেওয়া আর নানা রকম উপকারের জন্য। সা'দী উল্লেখ করেন খেত আর গাছের কথা, যেগুলোতে নদী পানি দেয়। মুয়াসসার যোগ করে পশুদের: নদী তোমাদের পানের জন্য, তোমাদের পশু আর ফসলের জন্য, আর তোমাদের সব প্রয়োজনের জন্য।"
+          },
+          {
+            "en": "Al-Baghawi reads the subjection as something people do with the rivers: He made them tractable for you, and you make them flow wherever you wish. Al-Qurtubi takes al-anhar to mean the sweet waters, for drinking, watering and farming, and then adds the salt seas too, for the different benefits that come from different places. So the verse that opened with water sent down from the sky closes with water running across the land, which people can lead to their door.",
+            "bn": "বাগাভী এই বশ করাকে দেখেন মানুষের কাজের দিক থেকে: তিনি নদীগুলোকে তোমাদের বশে এনে দিয়েছেন, ফলে তোমরা যেখানে চাও সেখানে এদের প্রবাহ নিয়ে যাও। কুরতুবী আল-আনহার মানে নেন মিঠা পানির ধারা, পান করা, সেচ দেওয়া আর চাষাবাদের জন্য। তারপর তিনি লোনা সাগরকেও যোগ করেন, কারণ ভিন্ন ভিন্ন দিক থেকে আসে ভিন্ন ভিন্ন উপকার। ফলে যে আয়াত শুরু হয়েছিল আকাশ থেকে নামা পানি দিয়ে, তা শেষ হয় যমীনের উপর বয়ে চলা পানিতে, যা মানুষ টেনে আনতে পারে নিজের দোরগোড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Water Is Pure",
+          "bn": "এর পানি পবিত্র"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. On 2:164, the passage he points back to, al-Qurtubi cites a report as evidence that riding the sea is permitted, and at-Tirmidhi records it (69). Abu Hurairah (RA) narrated: a man asked Allah's Messenger ﷺ, O Messenger of Allah, we sail the seas and carry only a little water with us; if we use it for wudu we will go thirsty, so shall we perform wudu from the water of the sea? Allah's Messenger ﷺ said: its water is pure, and its dead are lawful.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। কুরতুবী যে ২:১৬৪ আয়াতের দিকে ফিরে যেতে বলেন, সেখানে সাগরে চড়া জায়েয হওয়ার দলিল হিসেবে তিনি একটি বর্ণনা আনেন। তিরমিযী সেটি সংকলন করেছেন (৬৯)। আবু হুরায়রা (রাঃ) বর্ণনা করেন, এক ব্যক্তি আল্লাহর রাসূল ﷺ-কে জিজ্ঞেস করল: হে আল্লাহর রাসূল, আমরা সাগরে চলাচল করি, সঙ্গে অল্প পানি নিই। সেটা দিয়ে ওযু করলে আমরা পিপাসায় কষ্ট পাব। তাহলে কি আমরা সাগরের পানি দিয়ে ওযু করব? আল্লাহর রাসূল ﷺ বললেন: এর পানি পবিত্র, আর এর মৃত প্রাণী হালাল।"
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan sahih, and notes that most of the jurists among the Companions, Abu Bakr, Umar and Ibn Abbas among them, saw no harm in sea water, while some, Ibn Umar and Abdullah ibn Amr among them, disliked wudu with it. The report is general: it does not mention 14:32 and is not attached to the verse. It does show the verse's world as lived: sailors short of fresh water, and an answer that made the sea around them a means of purity and a source of food.",
+            "bn": "তিরমিযী একে হাসান সহীহ বলেছেন। তিনি আরও জানান, সাহাবীদের মধ্যে অধিকাংশ ফকীহ, যাঁদের মধ্যে আবু বকর, উমর ও ইবন আব্বাস (রাঃ) আছেন, সাগরের পানিতে কোনো দোষ দেখতেন না। আবার ইবন উমর ও আবদুল্লাহ ইবন আমর (রাঃ)-সহ কয়েকজন এ পানিতে ওযু করা অপছন্দ করতেন। বর্ণনাটি সাধারণ। এতে ১৪:৩২ আয়াতের উল্লেখ নেই, আর এটি এ আয়াতের সঙ্গে যুক্তও নয়। তবু আয়াতের জগৎ মানুষের জীবনে কেমন ছিল, তা এতে দেখা যায়। মাঝিমাল্লাদের মিঠা পানি ফুরিয়ে আসছে, আর জবাবটা চারপাশের সাগরকেই বানিয়ে দিল পবিত্রতার উপায়, সঙ্গে খাবারের উৎসও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks for the Unremarkable",
+          "bn": "সাধারণের জন্য শুকরিয়া"
+        },
+        "p": [
+          {
+            "en": "The list does not end here. The next verse adds the sun and the moon, the night and the day, and 14:34 closes the run with the favours no one could count; those verses have their own pages. What 14:32 gives on its own is a short inventory of the plainest things: a sky, ground, rain, fruit, a boat, a river. None is a marvel in the usual sense, which is why they are so easily received without thanks.",
+            "bn": "তালিকা এখানে শেষ হয় না। পরের আয়াতে যোগ হয় সূর্য আর চাঁদ, রাত আর দিন, আর ১৪:৩৪ আয়াত এ ধারা শেষ করে সেই নিয়ামতের কথা বলে, যা কেউ গুনে শেষ করতে পারবে না। সেই আয়াতগুলোর আলাদা পাতা আছে। ১৪:৩২ নিজে যা দেয়, তা একেবারে সাধারণ জিনিসের ছোট্ট এক তালিকা: আকাশ, মাটি, বৃষ্টি, ফল, নৌকা, নদী। প্রচলিত অর্থে এর কোনোটাই তাক লাগানো কিছু নয়। ঠিক এ কারণেই শুকরিয়া ছাড়া এগুলো গ্রহণ করে ফেলা এত সহজ।"
+          },
+          {
+            "en": "The verse's placement suggests a practice. Before it, 14:31 asks for prayer and for spending from what Allah provided; after it, the provision is named item by item. So thanks can be made concrete. Say al-hamdu lillah over a glass of water or a piece of fruit. On a ferry, a bus or a bridge over a river, remember whose command keeps it running. When work you built goes well, credit the One who gave the material and the mind, as the commentators above do.",
+            "bn": "আয়াতটির অবস্থান থেকেই একটা অভ্যাসের ইঙ্গিত মেলে। এর আগে ১৪:৩১ আয়াত চায় নামায, আর আল্লাহর দেওয়া রিযিক থেকে খরচ। এর পরে সেই রিযিকের নাম আসে একটা একটা করে। তাই শুকরিয়াকেও হাতে-কলমে আনা যায়। এক গ্লাস পানি বা একটা ফল হাতে নিয়ে আলহামদুলিল্লাহ বলুন। ফেরিতে, বাসে বা নদীর উপরের সেতুতে মনে করুন, কার হুকুমে এগুলো চলছে। নিজের হাতে গড়া কোনো কাজ ভালোভাবে হলে কৃতিত্ব দিন তাঁকে, যিনি উপকরণ আর বুদ্ধি দিয়েছেন, ঠিক যেমন ওপরের তাফসীরকারেরা দেন।"
+          },
+          {
+            "en": "And let the thanks reach the two acts 14:31 named. A share of the fruit, the water or the fare can go to someone who lacks it, in secret or in the open. The prayer can carry what the day held: the rain that fell, the river crossed, the meal eaten. In at-Tabari's reading the list exists to show who deserves worship, and the simplest way to agree with the verse is to give that worship to the One who sends the rain.",
+            "bn": "আর সেই শুকরিয়া যেন ১৪:৩১ আয়াতে বলা দুই আমল পর্যন্ত পৌঁছায়। ফল, পানি বা ভাড়ার একটা অংশ চলে যেতে পারে এমন কারও কাছে, যার তা নেই, গোপনে হোক বা প্রকাশ্যে। নামাযে বয়ে আনা যায় দিনের ঘটনাগুলো: যে বৃষ্টি নেমেছে, যে নদী পার হয়েছি, যে খাবার খেয়েছি। তাবারীর পাঠে এ তালিকার উদ্দেশ্যই দেখানো, ইবাদতের হক কার। আয়াতের সঙ্গে একমত হওয়ার সবচেয়ে সহজ পথ হলো সেই ইবাদত তাঁকেই দেওয়া, যিনি বৃষ্টি পাঠান।"
+          }
+        ]
+      }
+    ]
+  },
   "14:34": {
     "sections": [
       {
