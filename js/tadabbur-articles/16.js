@@ -4271,6 +4271,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:120": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Food Laws, a Father",
+          "bn": "খাদ্যের বিধানের পর পিতার কথা"
+        },
+        "p": [
+          {
+            "en": "Inna Ibrahima kana ummatan qanitan li-llahi hanifan wa lam yaku min al-mushrikin: Ibrahim was an umma, devoutly obedient to Allah, a hanif, and he was not of those who associate partners with Him. The verses before it dealt with food: what Allah made lawful in 16:114, what He forbade in 16:115, and the lie of calling things lawful and forbidden without His word in 16:116. Ma'arif al-Qur'an explains why Ibrahim (AS) appears at this point: the idolaters of Makkah, the Qur'an's first addressees, claimed to belong to his community and to act on his teaching.",
+            "bn": "ইন্না ইবরাহীমা কানা উম্মাতান কানিতাল লিল্লাহি হানীফা, ওয়া লাম ইয়াকু মিনাল মুশরিকীন: ইবরাহীম ছিলেন এক উম্মত, আল্লাহর একান্ত অনুগত, একনিষ্ঠ, আর তিনি মুশরিকদের দলে ছিলেন না। এর আগের আয়াতগুলোর আলোচনা ছিল খাবার নিয়ে। ১৬:১১৪ আয়াতে আল্লাহ কী হালাল করেছেন, ১৬:১১৫ আয়াতে কী হারাম করেছেন, আর ১৬:১১৬ আয়াতে তাঁর কোনো বাণী ছাড়াই কিছুকে হালাল আর কিছুকে হারাম বলার মিথ্যা। ঠিক এখানে ইবরাহীম (আঃ)-এর প্রসঙ্গ কেন এল, মাআরিফুল কুরআন তা খুলে বলে। কুরআনের প্রথম শ্রোতা মক্কার মুশরিকরা দাবি করত, তারা তাঁরই সম্প্রদায়ের লোক, তাঁর শিক্ষা মেনেই চলে।"
+          },
+          {
+            "en": "So the rebuttal, Ma'arif says, was built on what they themselves already believed. It adds that 16:124 carries a hint in the same direction: the good things they had forbidden themselves were never forbidden in Ibrahim's community. Al-Qurtubi gives the setting from another side: the Arab idolaters were called to the religion of Ibrahim because he was their father and the builder of the House through which they had their standing. At-Tabari ends his short comment the same way: the verse informs the idolaters of Quraysh that Ibrahim is free of them, and they of him.",
+            "bn": "মাআরিফের ভাষায়, তাই জবাবটা দাঁড় করানো হয়েছে তাদের নিজেদের বিশ্বাসের উপরেই। সেখানে আরও আছে, ১৬:১২৪ আয়াতেও একই দিকে ইঙ্গিত: যেসব ভালো জিনিস তারা নিজেদের জন্য হারাম বানিয়ে নিয়েছিল, ইবরাহীমের সম্প্রদায়ে সেগুলো কখনো হারাম ছিল না। কুরতুবী প্রেক্ষাপটটা দেখান আরেক দিক থেকে। আরবের মুশরিকদের ইবরাহীমের মিল্লাতের দিকে ডাকা হয়েছিল, কারণ তিনি তাদের পিতা, আর সেই ঘরের নির্মাতা, যার কারণে তাদের মান-মর্যাদা। তাবারীও তাঁর সংক্ষিপ্ত আলোচনা শেষ করেন একই কথায়: এ আয়াত কুরাইশের মুশরিকদের জানিয়ে দেয়, ইবরাহীম তাদের থেকে মুক্ত, তারাও তাঁর থেকে মুক্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Man Called an Umma",
+          "bn": "একজন মানুষ, নাম তাঁর উম্মত"
+        },
+        "p": [
+          {
+            "en": "The verse's first claim about him is a single noun, umma. Ma'arif al-Qur'an notes that the word has several meanings but that its well-known sense is a community, nation or group, and that this is its meaning here as reported from Ibn 'Abbas: Ibrahim (AS) was in his own person a community, almost a compendium of its perfections and merits. It records the other meaning as well, the leader of a community who gathers many perfections in himself, and says some commentators took exactly that sense here.",
+            "bn": "আয়াতে তাঁর পরিচয়ের প্রথম কথাটি একটিমাত্র শব্দ: উম্মত। মাআরিফুল কুরআন বলে, শব্দটির আরও কয়েকটি অর্থ আছে, তবে প্রসিদ্ধ অর্থ সম্প্রদায়, জাতি বা দল। ইবন আব্বাস (রাঃ) থেকে বর্ণনা আছে যে এখানেও অর্থ সেটাই। অর্থাৎ ইবরাহীম (আঃ) একাই নিজের মধ্যে ছিলেন একটি সম্প্রদায়, যেন সম্প্রদায়ের যত পূর্ণতা আর গুণ, সব তাঁর ভেতরে জমা। মাআরিফ অন্য অর্থটাও উল্লেখ করে: সম্প্রদায়ের নেতা, যার নিজের মধ্যে বহু পূর্ণতা একত্র হয়েছে। কোনো কোনো তাফসীরকার এখানে ঠিক এ অর্থটাই নিয়েছেন।"
+          },
+          {
+            "en": "Most of the Arabic commentaries take the leader's sense. Ibn Kathir says the umma is the imam who is followed, and reports Qatada: he was an imam of guidance. The Muyassar says an imam in good. As-Sa'di joins the senses into one phrase: an imam who gathered the qualities of good, guiding others and himself guided. Al-Qurtubi defines the umma as the man who gathers good, and al-Baghawi says that the praiseworthy qualities which are found together in a whole nation were found together in him.",
+            "bn": "আরবি তাফসীরগুলোর বেশির ভাগ নিয়েছে নেতার অর্থ। ইবন কাসীর বলেন, উম্মত হলেন সেই ইমাম, যাঁকে মানুষ অনুসরণ করে। তিনি কাতাদার কথাও আনেন: তিনি ছিলেন হিদায়াতের ইমাম। মুয়াসসারের ভাষায়, কল্যাণের ইমাম। সা'দী দুই অর্থ এক বাক্যে মিলিয়ে দেন: এমন ইমাম, যাঁর মধ্যে কল্যাণের সব গুণ একত্র হয়েছে, যিনি নিজে হিদায়াতপ্রাপ্ত, অন্যকেও পথ দেখান। কুরতুবী উম্মতের সংজ্ঞা দেন, যে মানুষ কল্যাণ একত্র করেছেন। আর বাগাভী বলেন, একটি গোটা জাতির মধ্যে যত প্রশংসনীয় গুণ মেলে, তার সবই মিলেছিল তাঁর একার মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believing When No One Did",
+          "bn": "কেউ যখন ঈমান আনেনি"
+        },
+        "p": [
+          {
+            "en": "A third sense rests on numbers. Ibn Kathir reports Mujahid twice: umma means an umma on his own, and Ibrahim was an umma in that he was a believer alone while all the people of that time were disbelievers. Al-Baghawi carries the same saying of Mujahid. On this reading the word describes his situation as well as his rank. One man held, by himself, the faith that a whole people should have held, and the verse counts him as that people.",
+            "bn": "তৃতীয় অর্থটি সংখ্যার হিসাবে। ইবন কাসীর মুজাহিদের কথা আনেন দুবার। একবার: উম্মত মানে তিনি একাই এক উম্মত। আরেকবার: ইবরাহীম ছিলেন উম্মত, কারণ তিনি একাই ছিলেন মুমিন, আর সে সময়ের সব মানুষ ছিল কাফির। বাগাভীতেও মুজাহিদের এ কথা আছে। এ ব্যাখ্যায় শব্দটা শুধু তাঁর মর্যাদা নয়, তাঁর অবস্থাও বলে দেয়। একটা গোটা জাতির যে ঈমান থাকার কথা, একজন মানুষ একাই তা ধরে রেখেছিলেন। আয়াত তাঁকে গুনছে সেই জাতি হিসেবেই।"
+          },
+          {
+            "en": "A fourth line, from Qatada in al-Baghawi, looks at what came later: there is no people of any religion who do not claim him as their own and are not pleased with him. Ma'arif al-Qur'an makes the same observation for its own reader. Jews, Christians and Muslims revere him, and even the idolaters of Arabia were proud to claim his way, though he had been, in its words, the foremost breaker of idols in human history. The man who once stood alone became the one every community wanted to be counted with.",
+            "bn": "চতুর্থ ব্যাখ্যা এসেছে বাগাভীতে, কাতাদা থেকে। এটি তাকায় পরবর্তী কালের দিকে: এমন কোনো ধর্মের অনুসারী নেই, যারা তাঁকে নিজেদের বলে দাবি করে না আর তাঁর প্রতি সন্তুষ্ট নয়। মাআরিফুল কুরআন নিজের পাঠকের জন্য একই কথা বলে। ইহুদি, খ্রিস্টান আর মুসলমান সবাই তাঁকে শ্রদ্ধা করে। এমনকি আরবের মূর্তিপূজকরাও তাঁর পথে আছে বলে গর্ব করত, অথচ মাআরিফের ভাষায় তিনিই ছিলেন মানব ইতিহাসে মূর্তি ভাঙার অগ্রপথিক। যে মানুষটি একদিন একা দাঁড়িয়েছিলেন, পরে প্রতিটি সম্প্রদায় চেয়েছে তাঁর দলে গণ্য হতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Teacher of Good",
+          "bn": "যিনি কল্যাণ শেখান"
+        },
+        "p": [
+          {
+            "en": "Then comes the meaning the Companions gave. Ibn Kathir reports, through Sufyan ath-Thawri, that Abu al-'Ubaydayn asked 'Abdullah ibn Mas'ud about al-umma al-qanit, and he answered: the umma is the teacher of good, and the qanit is he who obeys Allah and His Messenger. A second chain, through al-A'mash, has the questioner say, whom shall we ask if we do not ask you? Ibn Mas'ud seemed to soften towards him, and when asked about the umma he said: he who teaches people good.",
+            "bn": "এরপর আসে সাহাবিদের দেওয়া অর্থ। ইবন কাসীর সুফইয়ান সাওরীর সূত্রে বর্ণনা করেন, আবুল উবাইদাইন আবদুল্লাহ ইবন মাসউদ (রাঃ)-কে 'আল-উম্মাতুল কানিত' সম্পর্কে জিজ্ঞেস করেছিলেন। তিনি বললেন, উম্মত হলেন কল্যাণের শিক্ষক, আর কানিত হলেন যিনি আল্লাহ ও তাঁর রাসূলের আনুগত্য করেন। আ'মাশের সূত্রে আরেক বর্ণনায় প্রশ্নকারী বলেন, আপনাকে জিজ্ঞেস না করলে আর কাকে জিজ্ঞেস করব? ইবন মাসউদ (রাঃ) যেন তার প্রতি নরম হলেন। উম্মত সম্পর্কে জানতে চাইলে বললেন: যিনি মানুষকে কল্যাণ শেখান।"
+          },
+          {
+            "en": "From Malik, Ibn Kathir reports Ibn 'Umar: the umma is the one who teaches people their religion. At-Tabari makes this the head of his own gloss: Ibrahim, the friend of Allah, was a mu'allim khayr, a teacher of good, whom the people of guidance take as their imam. Al-Baghawi puts Ibn Mas'ud's definition first and explains it: he was a teacher of good, followed by the people of the world. On this reading, what makes one man a nation is the good that passes from him to others.",
+            "bn": "ইবন কাসীর মালিকের সূত্রে ইবন উমার (রাঃ)-এর কথা আনেন: উম্মত তিনি, যিনি মানুষকে তাদের দ্বীন শেখান। তাবারী তাঁর নিজের ব্যাখ্যা শুরুই করেন এ অর্থে। আল্লাহর খলীল ইবরাহীম ছিলেন মুআল্লিমু খাইর, কল্যাণের শিক্ষক, হিদায়াতের পথের লোকেরা যাঁকে ইমাম মেনে চলে। বাগাভীও প্রথমে ইবন মাসউদের সংজ্ঞাটি রাখেন, তারপর ব্যাখ্যা করেন: তিনি কল্যাণ শেখাতেন, আর দুনিয়ার মানুষ তাঁকে অনুসরণ করে। এ ব্যাখ্যায় একজন মানুষকে জাতি বানায় সেই কল্যাণ, যা তাঁর কাছ থেকে অন্যদের কাছে পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn Mas'ud Says It of Mu'adh",
+          "bn": "ইবন মাসউদের মুখে মুআযের কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir then gives the report about Mu'adh. Ash-Sha'bi said that Farwa ibn Nawfal al-Ashja'i told him: Ibn Mas'ud said, Mu'adh was an umma, qanit to Allah, hanif. Farwa thought to himself that Abu 'Abd ar-Rahman had slipped, since Allah said this of Ibrahim. Ibn Mas'ud asked, do you know what the umma and the qanit are? Farwa said Allah and His Messenger know best. Ibn Mas'ud said: the umma teaches people good, and the qanit obeys Allah and His Messenger, and Mu'adh was like that.",
+            "bn": "এরপর ইবন কাসীর মুআয (রাঃ) সম্পর্কে বর্ণনাটি আনেন। শা'বী বলেন, ফারওয়া ইবন নাওফাল আশজাঈ তাঁকে জানিয়েছেন: ইবন মাসউদ (রাঃ) বললেন, মুআয ছিলেন উম্মত, আল্লাহর অনুগত, একনিষ্ঠ। ফারওয়া মনে মনে ভাবলেন, আবু আবদুর রহমান ভুল বলে ফেলেছেন। আল্লাহ তো এ কথা বলেছেন ইবরাহীম সম্পর্কে। ইবন মাসউদ জিজ্ঞেস করলেন, জানো উম্মত কী, কানিত কী? ফারওয়া বললেন, আল্লাহ ও তাঁর রাসূলই ভালো জানেন। তিনি বললেন, উম্মত যিনি মানুষকে কল্যাণ শেখান, আর কানিত যিনি আল্লাহ ও তাঁর রাসূলের আনুগত্য করেন। মুআয ছিলেন এমনই।"
+          },
+          {
+            "en": "Al-Qurtubi has a shorter form, through Ibn Wahb and Ibn al-Qasim from Malik, who said: it reached me that Ibn Mas'ud said, may Allah have mercy on Mu'adh, he was an umma, qanit. Told that Allah said this of Ibrahim, he gave the same two definitions. On its standing, Ibn Kathir says only that it has been narrated from Ibn Mas'ud by more than one route and that Ibn Jarir set it out. Neither commentary grades it, and it is a Companion's explanation, not a saying of the Prophet ﷺ.",
+            "bn": "কুরতুবীতে আছে এর সংক্ষিপ্ত রূপ, ইবন ওয়াহব ও ইবনুল কাসিমের মাধ্যমে মালিক থেকে। মালিক বলেন, আমার কাছে খবর পৌঁছেছে যে ইবন মাসউদ বলেছিলেন, আল্লাহ মুআযের উপর রহম করুন, তিনি ছিলেন উম্মত, কানিত। তাঁকে বলা হলো, আল্লাহ তো এ কথা ইবরাহীম সম্পর্কে বলেছেন। তখন তিনি সেই দুটি সংজ্ঞাই দিলেন। বর্ণনাটির মান নিয়ে ইবন কাসীর শুধু এটুকু বলেন যে ইবন মাসউদ থেকে এটি একটিমাত্র নয়, একাধিক সূত্রে এসেছে, আর ইবন জারীর তা গুছিয়ে উল্লেখ করেছেন। কোনো তাফসীরই এর মান নির্ধারণ করেনি। এটি সাহাবির ব্যাখ্যা, নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "No commentary fetched for this verse attaches a hadith of the Prophet ﷺ to it. One narration, not attached to the verse, shows both men in the role Ibn Mas'ud described. In Sahih al-Bukhari (3806), 'Abdullah ibn 'Amr said: I heard the Prophet ﷺ saying, \"Learn the recitation of Qur'an from four persons: Ibn Mas'ud, Salim, the freed slave of Abu Hudhaifa, Ubai and Mu'adh bin Jabal.\" Read beside it, Ibn Mas'ud's point is clear: the words of this verse name qualities, teaching good and obeying, that a follower can carry too.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই নবী ﷺ-এর কোনো হাদীস এ আয়াতের সঙ্গে যুক্ত করেনি। আয়াতের সঙ্গে যুক্ত নয়, এমন একটি বর্ণনায় ইবন মাসউদ যে ভূমিকার কথা বলেছেন, সেই ভূমিকায় দুজনকেই দেখা যায়। সহীহ বুখারীতে (৩৮০৬) আবদুল্লাহ ইবন আমর (রাঃ) বলেন, আমি নবী ﷺ-কে বলতে শুনেছি: \"চারজনের কাছ থেকে কুরআন পড়া শেখো: ইবন মাসউদ, আবু হুযাইফার মুক্ত দাস সালিম, উবাই আর মুআয ইবন জাবাল।\" পাশাপাশি রাখলে ইবন মাসউদের কথাটা পরিষ্কার হয়। এ আয়াতের শব্দগুলো এমন গুণের নাম, কল্যাণ শেখানো আর আনুগত্য, যা একজন অনুসারীও নিজের মধ্যে ধারণ করতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Obedience That Does Not Lapse",
+          "bn": "যে আনুগত্যে ছেদ পড়ে না"
+        },
+        "p": [
+          {
+            "en": "Qanitan li-llah. Ibn Kathir defines the qanit as the one who is humble and obedient, al-khashi' al-muti'. At-Tabari says obedient to Allah, as do Mujahid and Qatada in Ibn Kathir's reports. The Muyassar pairs the two ideas: obedient and submissive to Allah. Al-Baghawi gives obedient to Him, and records a second sense with \"it was said\": one who stands by the commands of Allah. As-Sa'di adds the element of time: one who keeps up the obedience of his Lord without break, making his religion purely His.",
+            "bn": "কানিতাল লিল্লাহ। ইবন কাসীর কানিতের সংজ্ঞা দেন: বিনয়ী ও অনুগত, আল-খাশিউল মুতী'। তাবারী বলেন, আল্লাহর অনুগত। ইবন কাসীরের বর্ণনায় মুজাহিদ আর কাতাদাও একই কথা বলেন। মুয়াসসার দুটি দিক একসঙ্গে রাখে: আল্লাহর প্রতি অনুগত ও বিনয়াবনত। বাগাভী বলেন, তাঁর অনুগত, আর 'বলা হয়' কথাটি জুড়ে আরেক অর্থ আনেন: যিনি আল্লাহর আদেশগুলো পালনে দৃঢ় থাকেন। সা'দী এতে যোগ করেন সময়ের মাত্রা। কানিত সেই ব্যক্তি, যিনি রবের আনুগত্যে বিরতি দেন না, দ্বীনকে খাঁটিভাবে তাঁরই জন্য রাখেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says that Ibrahim's (AS) distinction as qanit is made plain by the trials this friend of Allah passed through, and names three: the fire of Namrud, the command to go elsewhere leaving his family in a wilderness, and his readiness to sacrifice his dear son. The verse joins the word to li-llah, for Allah. His obedience is described by where it was directed, and each trial Ma'arif lists was a moment when obeying Allah meant giving up something the heart held close.",
+            "bn": "মাআরিফুল কুরআনের ভাষায়, কানিত হিসেবে ইবরাহীম (আঃ)-এর বিশেষ মর্যাদা স্পষ্ট হয় আল্লাহর এই খলীলের পরীক্ষাগুলো থেকে। মাআরিফ তিনটি পরীক্ষার কথা বলে। নমরূদের আগুন। পরিবারকে বিজন প্রান্তরে রেখে অন্যত্র চলে যাওয়ার আদেশ। আর প্রিয় সন্তানকে কুরবানি করতে প্রস্তুত হয়ে যাওয়া। আয়াত শব্দটির সঙ্গে জুড়ে দিয়েছে লিল্লাহ, আল্লাহর জন্য। অর্থাৎ তাঁর আনুগত্যের পরিচয় তার লক্ষ্য দিয়ে। মাআরিফের তালিকার প্রতিটি পরীক্ষাই ছিল এমন মুহূর্ত, যখন আল্লাহর আনুগত্য মানে ছিল মনের খুব কাছের কিছু ছেড়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hanif, Turned by Choice",
+          "bn": "হানীফ, জেনেবুঝে মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Hanifan. Ibn Kathir defines the hanif as one who turns away from shirk towards tawhid deliberately, al-munharif qasdan, and ties the verse's last clause to that definition: for this reason He said, and he was not of the idolaters. At-Tabari reads hanif as upright on the religion of Islam. Al-Baghawi has a Muslim, upright on the religion of Islam, and with \"it was said\", sincere. The Muyassar puts it as one who did not swerve from the religion of Islam, affirming Allah's oneness and associating nothing with Him.",
+            "bn": "হানীফা। ইবন কাসীর হানীফের সংজ্ঞা দেন: এমন একজন, যিনি জেনেবুঝে শিরক থেকে সরে তাওহীদের দিকে ঝুঁকেছেন, আল-মুনহারিফু কাসদান। আয়াতের শেষ বাক্যটিকে তিনি এ সংজ্ঞার সঙ্গেই বাঁধেন: এ কারণেই আল্লাহ বলেছেন, তিনি মুশরিকদের দলে ছিলেন না। তাবারীর ব্যাখ্যায় হানীফ মানে ইসলামের দ্বীনের উপর অবিচল। বাগাভী বলেন, মুসলিম, ইসলামের দ্বীনের উপর অবিচল, আর 'বলা হয়' জুড়ে আনেন আরেক অর্থ: মুখলিস, খাঁটি। মুয়াসসারের ভাষায়, যিনি ইসলামের দ্বীন থেকে সরে যাননি, আল্লাহকে এক বলে মেনেছেন, তাঁর সঙ্গে কাউকে শরিক করেননি।"
+          },
+          {
+            "en": "As-Sa'di describes the word from the inside: facing Allah with love, with turning back to Him and with servanthood, and turning away from everything besides Him. The two halves belong together. A hanif is not only someone who refuses false gods; he is someone whose love has been given a direction. Al-Qurtubi notes that he treated hanif earlier, under al-An'am, and qunut under al-Baqara, which is why his comment on the attributes here stays brief.",
+            "bn": "সা'দী শব্দটির ভেতরের দিকটা দেখান: ভালোবাসা নিয়ে, বারবার তাঁর দিকে ফিরে এসে আর বান্দা হয়ে আল্লাহর দিকে মুখ করা, আর তিনি ছাড়া বাকি সব থেকে মুখ ফিরিয়ে নেওয়া। দুই অংশ একসঙ্গেই চলে। হানীফ শুধু মিথ্যা উপাস্যকে অস্বীকারকারী নন। তাঁর ভালোবাসা একটা নির্দিষ্ট দিক পেয়ে গেছে। কুরতুবী জানিয়ে দেন, হানীফ নিয়ে তিনি আগেই সূরা আনআমে আলোচনা করেছেন, আর কুনূত নিয়ে সূরা বাকারায়। তাই এখানে গুণগুলো নিয়ে তাঁর কথা সংক্ষিপ্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Clause the Qur'an Repeats",
+          "bn": "কুরআনে বারবার ফেরা এক বাক্য"
+        },
+        "p": [
+          {
+            "en": "Wa lam yaku min al-mushrikin. At-Tabari explains it: he associated nothing with Allah, and so was not among the allies of those who do. As-Sa'di extends it to the whole man: not in his speech, his action or any of his states, because he is the imam of those who affirm Allah's oneness. Ibn Kathir reads the verse as Allah praising His servant, messenger and friend, the imam of the hunafa' and father of the prophets, and clearing him of the idolaters, and of Judaism and Christianity as well.",
+            "bn": "ওয়া লাম ইয়াকু মিনাল মুশরিকীন। তাবারী ব্যাখ্যা করেন, তিনি আল্লাহর সঙ্গে কিছুই শরিক করেননি, তাই শিরককারীদের বন্ধুদের দলেও তিনি ছিলেন না। সা'দী কথাটাকে ছড়িয়ে দেন তাঁর পুরো জীবনে। কথায় নয়, কাজে নয়, কোনো অবস্থাতেই তিনি মুশরিক ছিলেন না, কারণ তিনি তাওহীদপন্থীদের ইমাম। ইবন কাসীর আয়াতটি পড়েন এভাবে: আল্লাহ এখানে তাঁর বান্দা, রাসূল ও খলীলের প্রশংসা করছেন, যিনি হানীফদের ইমাম, নবীদের পিতা। আর তাঁকে মুক্ত ঘোষণা করছেন মুশরিকদের থেকে, ইহুদি ও খ্রিস্টান ধর্ম থেকেও।"
+          },
+          {
+            "en": "The Qur'an says the same of Ibrahim in five other verses, each with wa ma kana min al-mushrikin: 2:135, the reply to those who said be Jews or Christians; 3:67, which says he was neither a Jew nor a Christian but a hanif and a Muslim; 3:95 and 6:161; and 16:123, three verses on. Here alone the verb is lam yaku. At 16:123 the abridged Ibn Kathir sets 6:161 beside the command, and says the Prophet ﷺ was told to follow Ibrahim because of his perfection and the soundness of his tawhid and his way.",
+            "bn": "ইবরাহীম সম্পর্কে কুরআন একই কথা বলেছে আরও পাঁচটি আয়াতে, প্রতিবারই 'ওয়া মা কানা মিনাল মুশরিকীন' শব্দে। ২:১৩৫ আয়াতে, যারা বলেছিল ইহুদি বা খ্রিস্টান হয়ে যাও, তাদের জবাবে। ৩:৬৭ আয়াতে, যেখানে বলা হয়েছে তিনি ইহুদিও ছিলেন না, খ্রিস্টানও না, বরং ছিলেন একনিষ্ঠ মুসলিম। তারপর ৩:৯৫ ও ৬:১৬১ আয়াতে, আর তিনটি আয়াত পেরিয়ে ১৬:১২৩ আয়াতে। কেবল এ আয়াতেই ক্রিয়াটি 'লাম ইয়াকু'। ১৬:১২৩ আয়াতের আলোচনায় সংক্ষিপ্ত ইবন কাসীর আদেশটির পাশে ৬:১৬১ আয়াত রাখেন। তিনি বলেন, ইবরাহীমের পূর্ণতা আর তাঁর তাওহীদ ও পথের বিশুদ্ধতার কারণেই নবী ﷺ-কে তাঁকে অনুসরণ করতে বলা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Umma in Your Own Place",
+          "bn": "নিজের জায়গায় এক উম্মত"
+        },
+        "p": [
+          {
+            "en": "The next verses complete the portrait. He was grateful for Allah's favours, chosen and guided to a straight path (16:121); given good in this world, which Mujahid in the abridged Ibn Kathir calls a truthful tongue and the Muyassar calls praise among later generations, people taking him as their model, and righteous offspring; and among the righteous in the Hereafter (16:122). Then the Prophet ﷺ is told to follow his religion (16:123). Ma'arif al-Qur'an draws the conclusion for the Makkans: people so ungrateful could not call themselves his followers.",
+            "bn": "পরের আয়াতগুলো ছবিটা পূর্ণ করে। তিনি আল্লাহর নিয়ামতের শোকরগুজার ছিলেন, আল্লাহ তাঁকে বেছে নিয়েছেন, সরল পথ দেখিয়েছেন (১৬:১২১)। দুনিয়াতে তাঁকে কল্যাণ দিয়েছেন। সংক্ষিপ্ত ইবন কাসীরে মুজাহিদ এর অর্থ বলেন সত্যবাদী জবান। মুয়াসসার বলে পরবর্তী প্রজন্মের মুখে তাঁর প্রশংসা, মানুষের তাঁকে আদর্শ মানা, আর নেককার সন্তান। আর আখিরাতে তিনি নেককারদের অন্তর্ভুক্ত (১৬:১২২)। তারপর নবী ﷺ-কে বলা হয় তাঁর মিল্লাত অনুসরণ করতে (১৬:১২৩)। মাআরিফুল কুরআন মক্কাবাসীদের জন্য সিদ্ধান্ত টানে: এত অকৃতজ্ঞ লোকেরা নিজেদের তাঁর অনুসারী বলে কীভাবে?"
+          },
+          {
+            "en": "That point needs care in our own time. The verse describes the idolaters of Makkah and their claim as the commentaries describe them, and it licenses nothing against any living person or community. Ma'arif's warning works best turned inward: a claim to Ibrahim (AS), or to any great name, cannot rest on lineage or label. The verse measures following him by obedience, sincerity and freedom from shirk, and those are traits a person either carries in his own life or does not.",
+            "bn": "আমাদের যুগে কথাটা সাবধানে বলা দরকার। তাফসীরগুলো মক্কার মুশরিক আর তাদের দাবিকে যেভাবে বর্ণনা করে, আয়াতও সেটুকুই বর্ণনা করে। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। মাআরিফের সতর্কবাণীটা বরং নিজের দিকে ঘোরালেই সবচেয়ে কাজে আসে। ইবরাহীম (আঃ) বা অন্য কোনো মহান নামের উপর দাবি বংশ বা পরিচয়ের তকমার উপর দাঁড়ায় না। আয়াত তাঁর অনুসরণ মাপে আনুগত্য, ইখলাস আর শিরকমুক্ত থাকা দিয়ে। এ গুণগুলো মানুষের নিজের জীবনে হয় থাকে, নয়তো থাকে না।"
+          },
+          {
+            "en": "And the word umma offers a practical aim. Ibn Mas'ud found it in Mu'adh, a teacher of good who obeyed Allah and His Messenger. In a family, an office or a street where no one else prays on time, gives honest measure or speaks of Allah, one person can still be the place where good is kept and handed on. The verse does not wait for a crowd. It honours one who obeys steadily, turns wholly to Allah, keeps clear of every rival to Him and teaches what he knows.",
+            "bn": "আর উম্মত শব্দটি দেয় একটা বাস্তব লক্ষ্য। ইবন মাসউদ (রাঃ) তা দেখেছিলেন মুআযের মধ্যে, যিনি কল্যাণ শেখাতেন আর আল্লাহ ও তাঁর রাসূলের আনুগত্য করতেন। এমন পরিবার, অফিস বা মহল্লা থাকতে পারে, যেখানে আর কেউ সময়মতো নামাজ পড়ে না, মাপে ঠিক দেয় না, আল্লাহর কথা মুখে আনে না। সেখানেও একজন মানুষ হতে পারেন সেই জায়গা, যেখানে কল্যাণ টিকে থাকে আর অন্যের হাতে পৌঁছায়। আয়াত ভিড়ের অপেক্ষা করে না। সম্মান দেয় তাঁকে, যিনি অবিচল আনুগত্য করেন, পুরোপুরি আল্লাহমুখী হন, তাঁর সঙ্গে কাউকে শরিক করেন না, আর যা জানেন তা শেখান।"
+          }
+        ]
+      }
+    ]
+  },
   "16:125": {
     "sections": [
       {

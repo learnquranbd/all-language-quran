@@ -22491,6 +22491,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the Qur'an as a revelation sent to make your faith firm, and let it guide and gladden you even when it asks for change.",
     "lessonBn": "কুরআন পড়ুন এমন বাণী হিসেবে, যা আপনার ঈমান দৃঢ় করতে নেমেছে। পরিবর্তন চাইলেও তাকে আপনার পথ দেখাতে আর মন খুশি করতে দিন।"
+  },
+  "16:120": {
+    "reflectionEn": "One man, and the verse calls him an umma, a whole people. One reading holds that in his time he was the only believer on earth, and still he did not wait for company before he obeyed, turned to Allah alone and taught the good he knew. Numbers did not make his faith, and loneliness did not unmake it. A few verses later the last Prophet is told to follow his way. So the verse asks something of me, wherever I live and work: am I one more voice in the crowd, or someone through whom good is learned? I need not be many to be an umma of good. I need to be steady in obedience, sincere in turning to Him, and clear of every rival to Allah.",
+    "reflectionBn": "মানুষ একজন, অথচ আয়াত তাঁকে বলছে উম্মত, একটি গোটা জাতি। এক ব্যাখ্যায় আছে, তাঁর যুগে পৃথিবীতে মুমিন ছিলেন কেবল তিনিই। তবু আনুগত্য করতে, একমাত্র আল্লাহর দিকে মুখ ফেরাতে আর জানা কল্যাণ মানুষকে শেখাতে তিনি সঙ্গীর অপেক্ষায় বসে থাকেননি। লোকের সংখ্যা তাঁর ঈমান গড়েনি, একাকীত্বও তা ভাঙতে পারেনি। কয়েক আয়াত পরেই শেষ নবীকে বলা হচ্ছে তাঁর পথ অনুসরণ করতে। তাই আয়াতটি আমাকেও জিজ্ঞেস করে, যেখানে থাকি আর কাজ করি সেখানে আমি কী? ভিড়ের আরেকটা কণ্ঠ, নাকি এমন কেউ, যার কাছ থেকে মানুষ ভালো কিছু শেখে? কল্যাণের উম্মত হতে আমাকে অনেক হতে হবে না। দরকার আনুগত্যে অটল থাকা, খাঁটি মনে তাঁর দিকে ফেরা, আর আল্লাহর সঙ্গে কাউকে শরিক না করা।",
+    "pointsEn": [
+      "If I were the only one around me trying to obey Allah, would my practice stay the same, or does it lean on the company I keep?",
+      "What good do I know well enough to teach someone this week, and who might learn it from me?",
+      "Is my obedience a steady habit, or does it rise and fall with my mood?",
+      "What in my life quietly competes with Allah for my trust or my love?",
+      "Do I claim great names as my own while walking a different road from theirs?"
+    ],
+    "pointsBn": [
+      "আশপাশে যদি কেবল আমিই আল্লাহর আনুগত্যের চেষ্টা করতাম, আমার আমল কি একই থাকত? নাকি তা সঙ্গীদের উপর ভর দিয়ে চলে?",
+      "কোন ভালো কথাটা আমি এত ভালো জানি যে এ সপ্তাহেই কাউকে শেখাতে পারি? কে আমার কাছ থেকে তা শিখতে পারে?",
+      "আমার আনুগত্য কি স্থির অভ্যাস, নাকি মেজাজের সঙ্গে ওঠানামা করে?",
+      "আমার জীবনে কোন জিনিস চুপিচুপি আমার ভরসা বা ভালোবাসা নিয়ে আল্লাহর সঙ্গে পাল্লা দেয়?",
+      "বড় বড় নাম কি আমি নিজের বলে দাবি করি, অথচ হাঁটি তাঁদের পথ ছেড়ে অন্য পথে?"
+    ],
+    "lessonEn": "Be an umma of good where you stand: steady in obedience, turned wholly to Allah, teaching the good you know, even if you stand alone.",
+    "lessonBn": "যেখানে আছেন সেখানেই কল্যাণের এক উম্মত হোন: আনুগত্যে অটল, পুরোপুরি আল্লাহমুখী, জানা ভালো কথা মানুষকে শেখান, একা দাঁড়াতে হলেও।"
   }
 };
 
