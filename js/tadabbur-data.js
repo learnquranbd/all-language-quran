@@ -21971,6 +21971,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "One water brings out sweet and sour from neighbouring ground; see the Maker's will in it, and tend your own heart so that the same guidance grows something good there.",
     "lessonBn": "একই পানি পাশাপাশি জমি থেকে মিষ্টি আর টক দুই-ই বের করে। এর মধ্যে স্রষ্টার ইচ্ছা দেখুন, আর নিজের অন্তরের যত্ন নিন, যাতে একই হিদায়াত সেখানে ভালো কিছু জন্মায়।"
+  },
+  "12:107": {
+    "reflectionEn": "Most of us live as if tomorrow were guaranteed. Shops open, plans are made for next month, and the thought of an ending stays politely in the background. This verse follows a description of people who affirm God yet set partners beside Him, and it puts one pointed question to them: do they feel secure? Secure from a punishment that covers them on every side, or from the Hour arriving all at once while they notice nothing? It names no date. It takes away the feeling that props up every delay: that there is still time. I would rather hear the question as mine. What am I putting off because today feels safe, and what would I mend first if I believed the end could come unannounced?",
+    "reflectionBn": "আমরা বেশির ভাগ মানুষ এমনভাবে বাঁচি, যেন আগামীকাল আসবেই। দোকান খোলে, সামনের মাসের পরিকল্পনা হয়, আর শেষ হয়ে যাওয়ার ভাবনাটা চুপচাপ পেছনে পড়ে থাকে। এ আয়াত আসে ঠিক সেই মানুষদের বর্ণনার পর, যারা আল্লাহকে মানে, আবার তাঁর সঙ্গে শরিকও দাঁড় করায়। তাদের কাছে আয়াতটি একটাই তীক্ষ্ণ প্রশ্ন রাখে: তারা কি নিশ্চিন্ত হয়ে গেছে? চারদিক থেকে ঢেকে ফেলা শাস্তি থেকে, কিংবা হঠাৎ এসে পড়া কিয়ামত থেকে, যখন তারা কিছুই টের পাবে না? কোনো তারিখ এখানে নেই। আছে শুধু সেই অনুভূতিটা কেড়ে নেওয়া, যার ভরসায় সব দেরি টিকে থাকে: এখনো তো সময় আছে। প্রশ্নটা আমি নিজের দিকেই ঘুরিয়ে শুনতে চাই। আজকের দিনটা নিরাপদ মনে হয় বলে আমি কী কী ফেলে রাখছি? আর শেষটা যদি না জানিয়েই আসতে পারে, তবে সবার আগে কোনটা ঠিক করে নিতাম?",
+    "pointsEn": [
+      "What am I postponing, a repentance, an apology, a missed prayer made up, only because today feels secure?",
+      "When I hear of a sudden disaster somewhere else, do I turn it into a verdict on the people struck, or into a question about myself?",
+      "Is there anything I quietly set beside Allah in my heart, a fear, a hope or a person, that divides my trust in Him?",
+      "If the Hour came in the middle of an ordinary day of mine, which part of that day would I want it to find me in?",
+      "Does my sense of safety come from hope in Allah's mercy, or simply from not thinking about Him?"
+    ],
+    "pointsBn": [
+      "আজকের দিনটা নিরাপদ মনে হয় বলেই আমি কী ফেলে রাখছি? কোনো তওবা, কারও কাছে মাফ চাওয়া, নাকি কাজা নামাজ?",
+      "অন্য কোথাও হঠাৎ বিপর্যয়ের খবর শুনলে আমি কি সেটাকে আক্রান্ত মানুষদের বিরুদ্ধে রায় বানিয়ে ফেলি, নাকি নিজের দিকে একটা প্রশ্ন হিসেবে ফিরিয়ে আনি?",
+      "মনের ভেতরে আমি কি চুপিসারে আল্লাহর পাশে কিছু দাঁড় করিয়ে রেখেছি? কোনো ভয়, কোনো আশা, কোনো মানুষ, যা তাঁর উপর আমার ভরসাকে ভাগ করে দেয়?",
+      "আমার কোনো সাধারণ দিনের মাঝখানে যদি কিয়ামত এসে পড়ে, দিনের কোন অংশে থাকা অবস্থায় আমি চাইব সে আমাকে পাক?",
+      "আমার নিশ্চিন্ত ভাবটা কোথা থেকে আসে? আল্লাহর রহমতের আশা থেকে, নাকি তাঁকে নিয়ে না ভাবা থেকে?"
+    ],
+    "lessonEn": "Do not let an ordinary, comfortable day persuade you that you are safe; turn back to Allah now, because His punishment and the Hour come without warning.",
+    "lessonBn": "সাধারণ, আরামের একটা দিন যেন আপনাকে নিশ্চিন্ত করে না দেয়। এখনই আল্লাহর দিকে ফিরে আসুন, কারণ তাঁর শাস্তি আর কিয়ামত আসে কোনো আগাম খবর ছাড়াই।"
   }
 };
 

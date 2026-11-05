@@ -4047,6 +4047,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:107": {
+    "sections": [
+      {
+        "h": {
+          "en": "To Whom the Question Goes",
+          "bn": "প্রশ্নটা কাদের কাছে"
+        },
+        "p": [
+          {
+            "en": "Afa-aminu an ta'tiyahum ghashiyatun min 'adhabi-llah, aw ta'tiyahumu as-sa'atu baghtatan wa hum la yash'urun: do they then feel secure that an overwhelming portion of Allah's punishment will not come upon them, or that the Hour will not come upon them suddenly while they do not perceive? The verse belongs to a short run that follows the story of Yusuf (AS). In 12:103 most people will not believe, however much the Prophet ﷺ longs for it; in 12:105 they pass by signs in the heavens and the earth and turn away.",
+            "bn": "আফাআমিনূ আন তা'তিয়াহুম গাশিয়াতুম মিন 'আযাবিল্লাহ, আও তা'তিয়াহুমুস সা'আতু বাগতাতাও ওয়া হুম লা ইয়াশ'উরূন: তারা কি তবে নিশ্চিন্ত হয়ে গেছে যে আল্লাহর আযাবের সর্বগ্রাসী কোনো অংশ তাদের উপর আসবে না, কিংবা কিয়ামত হঠাৎ তাদের উপর এসে পড়বে না, যখন তারা কিছুই টের পাবে না? ইউসুফ (আঃ)-এর কাহিনি শেষ হওয়ার পর কয়েকটি আয়াতের যে ছোট ধারা, এ আয়াত তারই অংশ। ১২:১০৩ আয়াতে বলা হয়, নবী ﷺ যত আগ্রহই রাখুন, অধিকাংশ মানুষ ঈমান আনবে না। ১২:১০৫ আয়াতে তারা আসমান আর জমিনের নিদর্শনের পাশ দিয়ে চলে যায়, মুখ ফিরিয়ে নেয়।"
+          },
+          {
+            "en": "Then 12:106: most of them do not believe in Allah except while associating others with Him. The commentators read that line in more than one way. Ibn Kathir's English abridgement gives Ibn 'Abbas (RA): they have a part of faith, for asked who created the heavens and the earth they say Allah, yet they join others with Him in worship. Al-Hasan al-Basri applied it to the hypocrite who does good deeds to be seen, and Hudhayfah (RA) recited it as he tore a cord from a sick man's arm.",
+            "bn": "তারপর ১২:১০৬: তাদের অধিকাংশ আল্লাহর উপর ঈমান আনে, অথচ সঙ্গে সঙ্গে শিরকও করে। এ বাক্যের ব্যাখ্যা তাফসীরকারেরা একভাবে করেননি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ইবন আব্বাস (রাঃ)-এর কথা আছে: তাদের ভেতর ঈমানের একটা অংশ আছে। আসমান-জমিন কে সৃষ্টি করেছেন, জিজ্ঞেস করলে তারা বলে আল্লাহ। তবু ইবাদতে তারা অন্যদের তাঁর শরিক করে। হাসান বসরী একে মুনাফিকের উপর প্রয়োগ করেছেন, যে লোক দেখানোর জন্য নেক আমল করে। আর হুযাইফা (রাঃ) এক অসুস্থ লোকের বাহুতে বাঁধা সুতা ছিঁড়ে ফেলার সময় এ আয়াত তিলাওয়াত করেছিলেন।"
+          },
+          {
+            "en": "Those readings belong to 12:106, and this verse needs only their outline. At-Tabari names the people questioned in 12:107 from it: those who do not affirm that Allah is their Lord except while associating others with Him in their worship. As-Sa'di reaches a little further back, to those who do these things and turn away from Allah's signs. The question that follows is put to them, and to the mind that has grown comfortable with that mixture.",
+            "bn": "এসব ব্যাখ্যা ১২:১০৬ আয়াতের, এখানে শুধু তার রূপরেখাটুকু দরকার। তাবারী সেখান থেকেই ১২:১০৭ আয়াতের প্রশ্নের লক্ষ্য চিহ্নিত করেন: যারা আল্লাহকে নিজেদের রব বলে স্বীকার করে, কিন্তু ইবাদতে তাঁর সঙ্গে অন্যকেও শরিক করে। সা'দী আরেকটু পেছনে যান। তাঁর মতে এরা সেই লোক, যারা এসব কাজ করে আর আল্লাহর নিদর্শন থেকে মুখ ফিরিয়ে রাখে। পরের প্রশ্নটা তাদেরই উদ্দেশে। আর সেই মনের উদ্দেশেও, যে এমন মিশ্রণে অভ্যস্ত হয়ে আরামে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Secure on What Grounds?",
+          "bn": "কিসের ভরসায় নিশ্চিন্ত?"
+        },
+        "p": [
+          {
+            "en": "The verse opens with a question, and it is not a request for information. Ma'arif al-Qur'an says that here their heedlessness is questioned and deplored: how could people who deny and rebel grow so carefree about a punishment that might overtake them from all sides, or about the Hour descending on them while they are not ready for it? The Muyassar puts the same question in plainer words: is there anything with them that makes them safe from a punishment of Allah that falls on all of them, or from the Hour coming suddenly?",
+            "bn": "আয়াতের শুরুতে প্রশ্ন, কিন্তু এ প্রশ্ন কিছু জানতে চাওয়ার জন্য নয়। মাআরিফুল কুরআন বলে, এখানে তাদের গাফলতিকে প্রশ্নের মুখে দাঁড় করিয়ে নিন্দা করা হচ্ছে। যারা অস্বীকার আর বিদ্রোহ করে, তারা কী করে এতটা বেপরোয়া হয়ে গেল? চারদিক থেকে ঘিরে ধরা শাস্তি আসতে পারে, কিংবা তারা তৈরি না থাকতেই কিয়ামত নেমে আসতে পারে, অথচ তাদের কোনো ভাবনা নেই। মুয়াসসার একই প্রশ্ন আরও সহজ ভাষায় রাখে: তাদের কাছে কি এমন কিছু আছে, যা তাদের নিরাপদ রাখবে আল্লাহর সেই শাস্তি থেকে, যা সবাইকে ছেয়ে ফেলবে, কিংবা হঠাৎ এসে পড়া কিয়ামত থেকে?"
+          },
+          {
+            "en": "That second phrasing shows how the question works. It does not threaten a date. It asks for the ground on which their calm rests, and leaves them with none to give. Ibn Kathir's Arabic gloss runs close to it: have these idolaters felt safe that a matter should come to them, covering them, from where they do not perceive? Their security, put another way, is real as a feeling and empty as a fact, and the question is built to make that gap visible.",
+            "bn": "দ্বিতীয় ভাষ্যটা দেখিয়ে দেয় প্রশ্নটা কীভাবে কাজ করে। এখানে কোনো তারিখের হুমকি নেই। প্রশ্নটা জানতে চায়, তাদের এই নিশ্চিন্ত ভাব দাঁড়িয়ে আছে কিসের উপর। আর উত্তর দেওয়ার মতো কিছুই তাদের হাতে থাকে না। ইবন কাসীরের আরবি ব্যাখ্যাও কাছাকাছি: এই মুশরিকরা কি নিশ্চিন্ত হয়ে গেছে যে এমন কোনো বিষয় তাদের উপর আসবে না, যা তাদের ঢেকে ফেলবে এমন দিক থেকে, যা তারা টেরও পাবে না? অন্যভাবে বললে, তাদের নিরাপত্তা অনুভূতি হিসেবে সত্য, কিন্তু বাস্তবে ফাঁপা। প্রশ্নটা গড়াই হয়েছে এই ফাঁকটা চোখের সামনে আনতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghashiya in the Glosses",
+          "bn": "ব্যাখ্যাকারদের মুখে গাশিয়াহ"
+        },
+        "p": [
+          {
+            "en": "The glosses on ghashiya keep returning to the verb inside it. Mujahid's, carried by at-Tabari through several chains, is a single word: taghshahum, it covers them. Al-Qurtubi gives Ibn 'Abbas (RA) as saying mujallila, all-enveloping, and al-Baghawi uses the same word without naming a source: 'uquba mujallila, an enveloping penalty. As-Sa'di stacks three verbs: a punishment that covers them, takes in all of them and uproots them. The Muyassar's word is ya'ummuhum, it includes them all.",
+            "bn": "গাশিয়াহর ব্যাখ্যাগুলো বারবার ফিরে আসে শব্দটার ভেতরের ক্রিয়ায়। মুজাহিদের ব্যাখ্যা তাবারী কয়েকটি সূত্রে এনেছেন, আর তা মাত্র একটি শব্দ: তাগশাহুম, তা তাদের ঢেকে ফেলবে। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন মুজাল্লিলাহ, অর্থাৎ পুরোপুরি মুড়ে ফেলা। বাগাভী কোনো সূত্রের নাম না নিয়ে একই শব্দ ব্যবহার করেন: উকূবাহ মুজাল্লিলাহ, সবকিছু মুড়ে ফেলা শাস্তি। সা'দী পরপর তিনটি ক্রিয়া বসান: এমন আযাব যা তাদের ঢেকে ফেলে, সবাইকে ঘিরে নেয়, আর শিকড়সুদ্ধ উপড়ে ফেলে। মুয়াসসারের শব্দ ইয়া'উম্মুহুম, তা সবাইকে শামিল করে নেবে।"
+          },
+          {
+            "en": "Qatada is reported twice in at-Tabari. In one chain he says 'uquba, a penalty from Allah's punishment; in the other, waqi'a, a blow that falls on them. Al-Qurtubi and al-Baghawi carry the second word from him too. A footnote in at-Tabari's edited text records that the printed edition had waqi'a with a long first vowel, an event, and that the editor kept the manuscript's word, which he calls entirely correct. Ad-Dahhak, in al-Qurtubi and al-Baghawi alike, names concrete forms: thunderbolts, and qawari', calamities that strike.",
+            "bn": "তাবারীতে কাতাদা থেকে দুটি বর্ণনা আছে। একটি সূত্রে তিনি বলেন উকূবাহ, আল্লাহর আযাব থেকে আসা দণ্ড। অন্য সূত্রে বলেন ওয়াকী'আহ, এমন আঘাত যা তাদের উপর এসে পড়ে। কুরতুবী আর বাগাভীও তাঁর থেকে এই দ্বিতীয় শব্দটাই এনেছেন। তাবারীর সম্পাদিত পাঠের এক টীকায় আছে, ছাপা সংস্করণে শব্দটা ছিল ওয়াকি'আহ, অর্থাৎ ঘটনা। সম্পাদক পাণ্ডুলিপির শব্দটাই রেখেছেন এবং বলেছেন, সেটাই পুরোপুরি সঠিক। দাহহাক থেকে কুরতুবী ও বাগাভী দুজনেই নির্দিষ্ট রূপের কথা আনেন: বজ্রপাত, আর কাওয়ারি', অর্থাৎ আঘাত হেনে যাওয়া বিপর্যয়।"
+          },
+          {
+            "en": "Right after Mujahid's gloss, al-Qurtubi and al-Baghawi both set a parallel beside it: yawma yaghshahumu al-'adhabu min fawqihim wa min tahti arjulihim, the Day the punishment covers them from above them and from beneath their feet (29:55). Ma'arif speaks in the same spirit of a punishment that overtakes them from all sides. Each gloss pictures the same thing from a different angle: nothing left uncovered, and no one left out of it.",
+            "bn": "মুজাহিদের ব্যাখ্যার ঠিক পরেই কুরতুবী আর বাগাভী দুজনেই তার পাশে একটি সমান্তরাল আয়াত রাখেন: ইয়াওমা ইয়াগশাহুমুল 'আযাবু মিন ফাওকিহিম ওয়া মিন তাহতি আরজুলিহিম, যেদিন আযাব তাদের ঢেকে ফেলবে উপর থেকে আর পায়ের নিচ থেকে (২৯:৫৫)। মাআরিফও একই সুরে বলে, এমন শাস্তি যা চারদিক থেকে তাদের ঘিরে ধরবে। প্রতিটি ব্যাখ্যা একই জিনিস দেখায়, শুধু ভিন্ন দিক থেকে। কিছুই খোলা থাকবে না, কেউ বাদ পড়বে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In This Life, or After?",
+          "bn": "দুনিয়ায়, নাকি পরে?"
+        },
+        "p": [
+          {
+            "en": "Where does this covering punishment fall, in this life or after it? The verse sets it beside the Hour with aw, or, which at least makes them two things. At-Tabari reads it that way: a punishment from Allah that covers them for their shirk, or else the Resurrection coming on them suddenly while they persist in it, after which Allah keeps them forever in His Fire. Ad-Dahhak's thunderbolts are earthly events, and as-Sa'di's verb yasta'siluhum, it uproots them, describes the end of a people within history.",
+            "bn": "এই ঢেকে ফেলা আযাব কোথায় আসবে, দুনিয়ায় নাকি তার পরে? আয়াত একে কিয়ামতের পাশে বসিয়েছে আও, অর্থাৎ 'অথবা' দিয়ে। এতে অন্তত বোঝা যায়, এরা দুটি আলাদা জিনিস। তাবারী এভাবেই পড়েন: শিরকের কারণে আল্লাহর এমন শাস্তি যা তাদের ঢেকে ফেলবে, নয়তো তারা শিরকে লেগে থাকা অবস্থায় হঠাৎ কিয়ামত এসে পড়বে, তারপর আল্লাহ তাদের চিরকাল তাঁর আগুনে রাখবেন। দাহহাকের বজ্রপাত দুনিয়ার ঘটনা। সা'দীর ক্রিয়া ইয়াসতা'সিলুহুম, শিকড়সুদ্ধ উপড়ে ফেলা, ইতিহাসের ভেতরেই কোনো জাতির শেষ হয়ে যাওয়ার ছবি।"
+          },
+          {
+            "en": "That parallel, though, comes from a passage about the next world: the verse before it, 29:54, says that Hell will encompass the disbelievers. None of the commentators read for this verse argues the point out or calls it a disagreement. Side by side, they leave two pictures in view, a blow in this world and a covering on the Day, and the question holds against both. This article does not choose between them, because the sources it rests on do not.",
+            "bn": "অথচ সেই সমান্তরাল আয়াতটি আখেরাতের প্রসঙ্গ থেকে নেওয়া। তার আগের আয়াত ২৯:৫৪ বলে, জাহান্নাম কাফিরদের ঘিরে রাখবে। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই বিষয়টা নিয়ে তর্ক তোলেনি, একে মতভেদও বলেনি। পাশাপাশি রাখলে দুটি ছবি চোখে থাকে: দুনিয়ার কোনো আঘাত, আর সেই দিনের ঢেকে ফেলা আযাব। প্রশ্নটা দুটোর বেলাতেই খাটে। এই লেখা কোনো একটিকে বেছে নেয় না, কারণ যে উৎসগুলোর উপর এটি দাঁড়িয়ে, সেগুলোও বেছে নেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Baghtatan, and the Unaware",
+          "bn": "বাগতাতান, আর অসচেতন মানুষ"
+        },
+        "p": [
+          {
+            "en": "The second half names as-sa'a, the Hour, which al-Qurtubi and at-Tabari both gloss as al-qiyama, the Resurrection. Then baghtatan, suddenly. Al-Qurtubi treats its grammar: it stands in the accusative as a hal, a word describing the state in which the Hour arrives, and in origin it is a verbal noun. He cites al-Mubarrad that the Arabs do place a hal after an indefinite noun, as in waqa'a amrun baghtatan wa fuj'atan, a matter happened suddenly and abruptly.",
+            "bn": "আয়াতের দ্বিতীয় ভাগে আছে আস-সা'আহ, সেই মুহূর্ত। কুরতুবী আর তাবারী দুজনেই এর ব্যাখ্যা দেন আল-কিয়ামাহ দিয়ে, অর্থাৎ পুনরুত্থান। তারপর বাগতাতান, হঠাৎ। কুরতুবী এর ব্যাকরণ নিয়ে কথা বলেন। শব্দটি নসব অবস্থায় হাল হয়ে এসেছে, মানে কিয়ামত কোন অবস্থায় আসবে তার বর্ণনা। মূলে এটি মাসদার, ক্রিয়াবাচক বিশেষ্য। তিনি মুবাররাদের কথা আনেন যে আরবরা অনির্দিষ্ট বিশেষ্যের পরেও হাল ব্যবহার করে, যেমন তারা বলে ওয়াকা'আ আমরুন বাগতাতাও ওয়া ফুজ'আতান, একটা ব্যাপার হঠাৎ আর আচমকা ঘটে গেল।"
+          },
+          {
+            "en": "An-Nahhas, in al-Qurtubi's quotation, gives the sense: baghta is to be struck from where one did not expect it. The Muyassar and as-Sa'di both gloss the word with fuj'atan, all at once. It carries two ideas together, speed and surprise, and the clause that follows completes the surprise. Wa hum la yash'urun, while they do not perceive: al-Qurtubi calls it tawkid, emphasis, since baghtatan has already said as much, and al-Baghawi names what escapes them, its rising.",
+            "bn": "কুরতুবীর উদ্ধৃতিতে নাহহাস অর্থটা বলে দেন: বাগতাহ মানে এমন দিক থেকে আঘাত আসা, যেখান থেকে কেউ আশা করেনি। মুয়াসসার আর সা'দী দুজনেই শব্দটির ব্যাখ্যা দেন ফুজ'আতান দিয়ে, আচমকা। এতে দুটো ভাব একসঙ্গে আছে, দ্রুততা আর অপ্রস্তুত অবস্থা। পরের বাক্যাংশ সেই অপ্রস্তুত ভাবটাকে পূর্ণ করে। ওয়া হুম লা ইয়াশ'উরূন, তারা টেরও পাবে না। কুরতুবী একে তাওকীদ বলেন, জোর দেওয়া, কারণ বাগতাতান আগেই প্রায় একই কথা বলেছে। আর বাগাভী বলে দেন কী তাদের অজানা থাকে: কিয়ামতের সংঘটন।"
+          },
+          {
+            "en": "At-Tabari says they will not know of its coming and its arrival, and his paraphrase holds the detail that matters most: it finds them still persisting in their shirk and their disbelief in their Lord. Surprise alone is not the loss the verse warns of; no one is told the Hour's time. The loss is to be surprised before a person has turned back, with the mixture of 12:106 still unexamined and unrepented.",
+            "bn": "তাবারী বলেন, তারা এর আগমন আর সংঘটন সম্পর্কে কিছুই জানবে না। তাঁর ব্যাখ্যায় সবচেয়ে জরুরি কথাটাও আছে: কিয়ামত তাদের পাবে এমন অবস্থায়, যখন তারা শিরক আর রবকে অস্বীকারে তখনো লেগে আছে। শুধু চমকে যাওয়াটা সেই ক্ষতি নয়, যার ব্যাপারে আয়াত সতর্ক করছে। কিয়ামতের সময় তো কাউকেই জানানো হয়নি। আসল ক্ষতি হলো ফিরে আসার আগেই ধরা পড়া, যখন ১২:১০৬ আয়াতের সেই মিশ্রণ তখনো খতিয়ে দেখা হয়নি, তার জন্য তওবাও করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Caught in the Middle of Business",
+          "bn": "কাজের মাঝখানে ধরা পড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi both relate from Ibn 'Abbas (RA) a picture of baghtatan: the Cry will sound over people while they are in their markets. Al-Qurtubi links it to another verse, ma yanzuruna illa sayhatan wahidatan ta'khudhuhum wa hum yakhissimun: they await nothing but a single Blast that will seize them while they are disputing (36:49). The Hour, in that picture, does not wait for a pause in ordinary life. It cuts into the middle of it.",
+            "bn": "কুরতুবী আর বাগাভী দুজনেই ইবন আব্বাস (রাঃ) থেকে বাগতাতানের একটা ছবি বর্ণনা করেন: মানুষ যখন তাদের বাজারে ব্যস্ত, তখনই তাদের উপর বিকট আওয়াজ উঠবে। কুরতুবী একে আরেকটি আয়াতের সঙ্গে মেলান: মা ইয়ানযুরূনা ইল্লা সাইহাতাও ওয়াহিদাতান তা'খুযুহুম ওয়া হুম ইয়াখিসসিমূন, তারা কেবল একটি বিকট আওয়াজেরই অপেক্ষায়, যা তাদের পাকড়াও করবে যখন তারা বাদানুবাদে লিপ্ত (৩৬:৪৯)। এই ছবিতে কিয়ামত দৈনন্দিন জীবনের কোনো বিরতির জন্য অপেক্ষা করে না। জীবনের ঠিক মাঝখানে কেটে ঢুকে পড়ে।"
+          },
+          {
+            "en": "None of the commentaries consulted attaches a prophetic hadith to 12:107 itself. A general narration, not reported about this verse, describes the same suddenness. Al-Bukhari relates it from Abu Hurayrah (RA) at number 6506 of his Sahih; its inclusion there is the collector's own judgement of it as sound. The Prophet ﷺ said: \"The Hour will not be established till the sun rises from the west, and when it rises (from the west) and the people see it, then all of them will believe (in Allah). But that will be the time when 'No good it will do to a soul to believe then, if it believed not before' (6:158).",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ১২:১০৭ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এই আয়াত সম্পর্কে বর্ণিত নয়, সেই একই আকস্মিকতার কথা বলে। বুখারী তাঁর সহীহ গ্রন্থের ৬৫০৬ নম্বরে আবু হুরায়রা (রাঃ) থেকে এটি বর্ণনা করেছেন। সহীহ গ্রন্থে স্থান পাওয়াটাই একে বিশুদ্ধ বলে সংকলকের নিজের বিচার। বুখারীর ভাষ্যে নবী ﷺ বলেছেন: \"সূর্য পশ্চিম দিক থেকে উদিত না হওয়া পর্যন্ত কিয়ামত কায়েম হবে না। যখন তা পশ্চিম দিক থেকে উদিত হবে আর মানুষ তা দেখবে, তখন সবাই ঈমান আনবে। কিন্তু সেটা হবে সেই সময়, যখন 'কোনো প্রাণের ঈমান তার কাজে আসবে না, যদি সে আগে ঈমান না এনে থাকে' (৬:১৫৮)।"
+          },
+          {
+            "en": "He went on: \"The Hour will be established (so suddenly) that two persons spreading a garment between them will not be able to finish their bargain, nor will they be able to fold it up. The Hour will be established while a man is carrying the milk of his she-camel, but cannot drink it; and the Hour will be established when someone is not able to prepare the tank to water his livestock from it; and the Hour will be established when some of you has raised his food to his mouth but cannot eat it.\"",
+            "bn": "তিনি আরও বললেন: \"কিয়ামত এমনভাবে কায়েম হবে যে দুজন লোক তাদের মাঝে একটা কাপড় মেলে ধরেছে, কিন্তু কেনাবেচা শেষ করতে পারবে না, কাপড়টা ভাঁজও করতে পারবে না। কিয়ামত কায়েম হবে যখন একজন তার উটনীর দুধ নিয়ে ফিরছে, কিন্তু তা পান করতে পারবে না। কিয়ামত কায়েম হবে যখন কেউ তার পশুদের পানি খাওয়ানোর হাউজ মেরামত করছে, কিন্তু তাতে পানি খাওয়াতে পারবে না। আর কিয়ামত কায়েম হবে যখন তোমাদের কেউ মুখের কাছে খাবার তুলেছে, কিন্তু তা খেতে পারবে না।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Passages That Ask Alike",
+          "bn": "একই প্রশ্নের আরও দুই জায়গা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in his Arabic text and in the English abridgement, explains the verse by two others that ask the same question with the same verb. In 16:45 to 16:47: do those who plotted evil deeds feel secure that Allah will not make the earth swallow them, or that the punishment will not come on them from where they do not perceive, or that He will not seize them in their going to and fro, or seize them in a state of dread? That passage closes: truly your Lord is Kind, Merciful.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে এবং ইংরেজি সংক্ষিপ্ত সংস্করণে আয়াতটি ব্যাখ্যা করেন আরও দুটি জায়গা দিয়ে, যেখানে একই ক্রিয়ায় একই প্রশ্ন করা হয়েছে। ১৬:৪৫ থেকে ১৬:৪৭ আয়াতে: যারা মন্দ চক্রান্ত করেছে, তারা কি নিশ্চিন্ত যে আল্লাহ তাদের মাটিতে ধসিয়ে দেবেন না? কিংবা এমন দিক থেকে আযাব আসবে না, যা তারা টেরও পাবে না? কিংবা চলাফেরার মধ্যেই তিনি তাদের পাকড়াও করবেন না? কিংবা ভয়ে কাঁপতে থাকা অবস্থায় ধরবেন না? সে অংশের শেষ কথা: নিশ্চয়ই তোমাদের রব বড়ই দয়ার্দ্র, পরম দয়ালু।"
+          },
+          {
+            "en": "And in 7:97 to 7:99: did the people of the towns feel secure that Our punishment would not come on them by night while they slept, or in the forenoon while they played? Did they feel secure from the plan of Allah? None feels secure from the plan of Allah except the people who are losers. Together the three passages draw one pattern: a punishment that arrives in an hour of rest or play, from a side no one is watching, and a sense of safety that the Qur'an treats as the mark of loss.",
+            "bn": "আর ৭:৯৭ থেকে ৭:৯৯ আয়াতে: জনপদের লোকেরা কি নিশ্চিন্ত হয়ে গেছে যে আমার আযাব তাদের উপর রাতে আসবে না, যখন তারা ঘুমিয়ে? কিংবা দিনের প্রথম ভাগে আসবে না, যখন তারা খেলায় মগ্ন? তারা কি আল্লাহর কৌশল থেকে নিশ্চিন্ত হয়ে গেছে? ক্ষতিগ্রস্ত সম্প্রদায় ছাড়া আল্লাহর কৌশল থেকে কেউ নিশ্চিন্ত থাকে না। তিনটি অংশ মিলিয়ে একটাই নকশা ফুটে ওঠে। আযাব আসে বিশ্রাম বা খেলার সময়, এমন দিক থেকে যেদিকে কেউ চোখ রাখেনি। আর যে নিরাপদ বোধকে কুরআন ক্ষতির চিহ্ন বলে গণ্য করে, সেটাই তাদের ভরসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Asked of Me",
+          "bn": "প্রশ্নটা ভেতরের দিকে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his comment with the warning's purpose: they have made themselves deserving of it, so let them repent to Allah and leave what would cause their punishment. Read so, the verse is an opening as much as a threat, and the close of the Nahl passage says the same in its own way, naming the Lord as Kind and Merciful right after the ways a seizing could come. Next, 12:108 turns to the Prophet ﷺ and his way of calling to Allah with clear sight.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন সতর্কবাণীর উদ্দেশ্য বলে: তারা নিজেরাই এর উপযুক্ত হয়ে গেছে, তাই তারা আল্লাহর কাছে তওবা করুক, আর যা তাদের শাস্তির কারণ হবে তা ছেড়ে দিক। এভাবে পড়লে আয়াতটি যতটা হুমকি, ততটাই খোলা দরজা। সূরা নাহলের অংশটাও নিজের ভঙ্গিতে একই কথা বলে। পাকড়াওয়ের নানা পথের কথা বলেই সে রবকে দয়ার্দ্র ও পরম দয়ালু বলে উল্লেখ করে। এর পরের আয়াত, ১২:১০৮, ফিরে যায় নবী ﷺ আর তাঁর পথের দিকে, যে পথে তিনি স্পষ্ট জ্ঞান নিয়ে আল্লাহর দিকে ডাকেন।"
+          },
+          {
+            "en": "The verse describes the people it describes: those who acknowledged Allah and still joined others to Him in worship, and who turned away from His signs. It licenses nothing against any living person or community. It gives no one the right to name a flood, an earthquake or a sudden death as Allah's verdict on those it struck, and no right to point at a neighbour and call him the one meant. Its question has a single proper addressee for each reader, and that is the reader.",
+            "bn": "আয়াতটি যাদের বর্ণনা দেয়, শুধু তাদেরই দেয়: যারা আল্লাহকে স্বীকার করত, তবু ইবাদতে অন্যদের তাঁর শরিক করত, আর তাঁর নিদর্শন থেকে মুখ ফিরিয়ে নিত। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। বন্যা, ভূমিকম্প বা হঠাৎ মৃত্যুকে আক্রান্ত মানুষদের উপর আল্লাহর রায় বলে ঘোষণা করার অধিকার এ আয়াত কাউকে দেয় না। প্রতিবেশীর দিকে আঙুল তুলে 'এই সেই লোক' বলারও অধিকার দেয় না। প্রত্যেক পাঠকের জন্য এর প্রশ্নের একজনই আসল শ্রোতা আছে, আর সে পাঠক নিজে।"
+          },
+          {
+            "en": "The security the verse rebukes is a feeling of having time, held without any ground beneath it. Its remedy is not fear for its own sake. It is the hidden shirk the commentators find in 12:106, the deed done to be seen and the cord Hudhayfah (RA) tore away, checked now; the tawba postponed, made today; and the ordinary day lived as a day the Hour could interrupt. The verse's own question then becomes a daily question: on what grounds do I feel secure?",
+            "bn": "আয়াত যে নিরাপদ বোধের নিন্দা করে, তা হলো হাতে সময় আছে এমন অনুভূতি, যার নিচে কোনো ভিত্তি নেই। এর প্রতিকার শুধু ভয় পাওয়া নয়। প্রতিকার হলো ১২:১০৬ আয়াতে তাফসীরকারেরা যে গোপন শিরক খুঁজে পান, লোক দেখানো আমল কিংবা হুযাইফা (রাঃ) যে সুতা ছিঁড়ে ফেলেছিলেন, সেগুলো এখনই খতিয়ে দেখা। ফেলে রাখা তওবা আজই করে নেওয়া। আর সাধারণ দিনটাকে এমনভাবে কাটানো, যেন কিয়ামত যেকোনো মুহূর্তে তা থামিয়ে দিতে পারে। তখন আয়াতের প্রশ্নটাই হয়ে ওঠে রোজকার প্রশ্ন: আমি কিসের ভরসায় নিশ্চিন্ত?"
+          }
+        ]
+      }
+    ]
+  },
   "12:109": {
     "sections": [
       {
