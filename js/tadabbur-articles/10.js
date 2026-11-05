@@ -491,6 +491,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Lifetime, Then a Question",
+          "bn": "এক জীবন, তারপর এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Fa-man azlamu: so who does greater wrong? The opening fa ties this verse to the two before it. In 10:15 those who do not hope to meet Allah asked for a Qur'an other than this one, or a changed one, and the Prophet ﷺ was told to answer that he follows only what is revealed to him. In 10:16 he was given a second answer: had Allah willed, he would not have recited it to them, and he had lived among them a lifetime before it. Will you not reason?",
+            "bn": "ফামান আযলামু: তবে কে বেশি যালিম? শুরুর ফা অক্ষরটি এ আয়াতকে আগের দুটি আয়াতের সঙ্গে বেঁধে দেয়। ১০:১৫ আয়াতে যারা আল্লাহর সাক্ষাতের আশা রাখে না, তারা দাবি করেছিল এ কুরআন বাদ দিয়ে অন্য কুরআন আনতে, নয়তো এটাকেই বদলে দিতে। নবী ﷺ-কে জবাব দিতে বলা হয়েছিল: আমার কাছে যা ওহি আসে, আমি শুধু তারই অনুসরণ করি। ১০:১৬ আয়াতে এল দ্বিতীয় জবাব। আল্লাহ চাইলে আমি তোমাদের এটা পড়ে শোনাতাম না। এর আগে আমি তো তোমাদের মাঝে গোটা একটা জীবন কাটিয়েছি। তবু কি তোমরা বুঝবে না?"
+          },
+          {
+            "en": "At-Tabari reads 10:17 as the next thing the Prophet ﷺ is told to say, and he names the audience: say to these polytheists who ascribed what you brought them from your Lord to lying. So the charge on the table is forgery. The verse does not answer it with a protest of innocence, which 10:16 has already supplied. It answers with a question about who, in this quarrel, is the one doing wrong, and it leaves the listener to work out where he stands.",
+            "bn": "তাবারী ১০:১৭-কে পড়েন নবী ﷺ-কে দেওয়া পরের কথাটি হিসেবে, আর শ্রোতাদেরও তিনি চিনিয়ে দেন। বলুন এই মুশরিকদের, রবের কাছ থেকে আপনি যা এনেছেন, তাকে যারা মিথ্যা বলে চালিয়েছে। অভিযোগটা তাহলে জালিয়াতির। নির্দোষ হওয়ার দাবি তো ১০:১৬ আয়াতেই এসে গেছে, এ আয়াত আর সে পথে যায় না। জবাব আসে একটি প্রশ্ন হয়ে: এই বিবাদে আসল যালিম কে? নিজে কোথায় দাঁড়িয়ে আছে, সেটা শ্রোতাকেই খুঁজে নিতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fourteen Words, Two Falsifications",
+          "bn": "চৌদ্দ শব্দে দুই রকম মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "The verse runs to fourteen Arabic words, and it is built as a question that is not really asking. Al-Qurtubi calls it an interrogative carrying the sense of denial: nobody is more unjust than whoever invents a lie about Allah. The Muyassar states it the same way, as a flat negative. At-Tabari glosses azlam with two phrases: which creature goes further in transgression, and which puts his speech more completely out of its proper place. That second phrase is the old sense of zulm, setting a thing where it does not belong.",
+            "bn": "আয়াতটি আরবিতে চৌদ্দ শব্দের। গড়ন প্রশ্নের, কিন্তু আসলে কিছু জানতে চাওয়া হচ্ছে না। কুরতুবী একে বলেন অস্বীকৃতির অর্থে প্রশ্ন: আল্লাহর নামে যে মিথ্যা বানায়, তার চেয়ে বড় যালিম কেউ নেই। মুয়াসসারও কথাটা বলে সোজা না-বাচক বাক্যে। আযলাম শব্দের ব্যাখ্যায় তাবারী দুটি কথা বলেন। কোন সৃষ্টি সীমালঙ্ঘনে এর চেয়ে বেশি এগোয়? আর কে নিজের কথাকে এর চেয়ে বেশি বেজায়গায় বসায়? দ্বিতীয় কথাটিই যুলুমের পুরোনো অর্থ: কোনো জিনিসকে তার জায়গা থেকে সরিয়ে ভুল জায়গায় রাখা।"
+          },
+          {
+            "en": "The root k-dh-b appears twice. Iftara 'ala Allahi kadhiban: he forged a lie against Allah. Kadhdhaba bi-ayatihi: he called His signs a lie. The first says Allah said what He did not say; the second says Allah did not say what He did say. Between them they close both doors through which revelation is falsified, adding to it and subtracting from it. Ma'arif al-Qur'an frames the verse in just those terms: attributing to Allah a statement that was not His Word, or denying what actually was, are crimes deserving severe punishment.",
+            "bn": "ক-য-ব ধাতুটি এখানে আসে দুবার। ইফতারা আলাল্লাহি কাযিবান: সে আল্লাহর নামে মিথ্যা বানিয়েছে। কাযযাবা বিআয়াতিহি: সে তাঁর আয়াতকে মিথ্যা বলেছে। প্রথমজন বলে, আল্লাহ এমন কথা বলেছেন যা তিনি বলেননি। দ্বিতীয়জন বলে, আল্লাহ যা বলেছেন তা তিনি বলেননি। ওহিকে বিকৃত করার দুটো পথই এতে বন্ধ হয়ে যায়: বাড়িয়ে দেওয়া আর কমিয়ে ফেলা। মাআরিফুল কুরআন আয়াতটিকে ঠিক এভাবেই দেখে। আল্লাহর কথা নয় এমন কিছু তাঁর নামে চালানো, আর যা সত্যিই তাঁর কথা তা অস্বীকার করা, দুটোই কঠিন শাস্তির যোগ্য অপরাধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Accusation Lands Twice",
+          "bn": "অভিযোগ ফিরে আসে দুবার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari makes the turn explicit. Having glossed the question, he puts into the Prophet's mouth the reply it implies: say to them, what you have ascribed to me is no more astonishing than your own lying about your Lord, your inventing against Him, and your denial of His signs. The people who accused him of the first wrong were, on this reading, committing it themselves in what they said about Allah, and committing the second as well by rejecting what he recited. The charge they threw at him comes back to them on both counts.",
+            "bn": "তাবারী মোড়টা স্পষ্ট করে দেন। প্রশ্নের ব্যাখ্যা দেওয়ার পর প্রশ্নের ভেতরের জবাবটা তিনি নবী ﷺ-এর মুখে তুলে দেন। ওদের বলুন, তোমরা আমার ঘাড়ে যা চাপিয়েছ, তা তোমাদের নিজেদের কাজের চেয়ে বেশি আশ্চর্যের নয়। তোমরাই তো রবের নামে মিথ্যা বলো, তাঁর উপর অপবাদ বানাও, তাঁর আয়াতকে মিথ্যা বলো। এ পাঠ অনুযায়ী যারা তাঁকে প্রথম অপরাধে অভিযুক্ত করেছিল, আল্লাহ সম্পর্কে নিজেদের কথায় তারা নিজেরাই সে অপরাধ করছিল। তিনি যা পড়ে শোনাতেন তা প্রত্যাখ্যান করে দ্বিতীয়টাও করছিল। ছুড়ে দেওয়া অভিযোগ দুই দিক থেকেই ওদের কাছে ফিরে আসে।"
+          },
+          {
+            "en": "As-Sa'di sets the two halves side by side as a choice his hearers cannot escape. If I were making it up, he has the Prophet ﷺ say, I would be the most unjust of people, success would have slipped from me, and my condition would not have stayed hidden from you. But I brought you the signs of Allah and you denied them, so the wrong has fastened on you. Whichever way the verse is read, it lands on somebody; there is no version of it in which both parties walk away innocent.",
+            "bn": "সা'দী দুই অংশকে পাশাপাশি রাখেন, যেন শ্রোতার সামনে এমন দুটি পথ, যার বাইরে যাওয়ার উপায় নেই। তাঁর ব্যাখ্যায় নবী ﷺ যেন বলছেন: আমি বানিয়ে বললে মানুষের মধ্যে আমিই হতাম সবচেয়ে বড় যালিম, সফলতা আমার হাতছাড়া হতো, আর আমার আসল অবস্থা তোমাদের কাছে গোপন থাকত না। কিন্তু আমি তোমাদের কাছে আল্লাহর আয়াত এনেছি, আর তোমরা তা মিথ্যা বলেছ। কাজেই যুলুম তোমাদের ঘাড়েই চেপেছে। আয়াতটা যেভাবেই পড়া হোক, দায় কারও না কারও উপর পড়েই। দুই পক্ষই নির্দোষ থেকে যাবে, এমন কোনো পাঠ এতে নেই।"
+          },
+          {
+            "en": "Al-Qurtubi arrives at the same two-sided reading. Nobody is more unjust, he writes, than whoever invents the lie against Allah, alters His speech and attributes to Him something He did not send down; and likewise nobody is more unjust than you, when you reject the Qur'an, invent the lie against Allah and say this is not His speech. On his reading the deniers fall under both halves at once, since saying of revelation that it is not Allah's speech is, for him, itself a lie told about Allah.",
+            "bn": "কুরতুবীও পৌঁছান এই দুই-দিকের পাঠে। তিনি লেখেন, তার চেয়ে বড় যালিম কেউ নেই, যে আল্লাহর নামে মিথ্যা বানায়, তাঁর কালাম বদলে দেয়, আর তিনি যা নাযিল করেননি তা তাঁর নামে জুড়ে দেয়। তেমনি তোমাদের চেয়ে বড় যালিমও কেউ নেই, যখন তোমরা কুরআন অস্বীকার করো, আল্লাহর নামে মিথ্যা বানাও আর বলো, এটা তাঁর কালাম নয়। তাঁর পাঠে অস্বীকারকারীরা একসঙ্গে দুই অংশেরই আওতায় পড়ে। কারণ ওহি সম্পর্কে 'এটা আল্লাহর কালাম নয়' বলাটাই তাঁর দৃষ্টিতে আল্লাহর নামে এক মিথ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Words, Aimed at Whom",
+          "bn": "কার কথা, কাকে লক্ষ্য করে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a difference over whose words these are. His own running gloss treats the verse as one of the things the Messenger ﷺ was commanded to say to them, which matches at-Tabari's framing. Then, under the formula it is said, he gives the other view: that this is Allah's own speech, opening afresh. Under the same formula he records a second difference, over the two halves: that the inventor is the polytheist, and the denier of the signs is the People of the Book. He reports both views and argues neither.",
+            "bn": "এ কথাগুলো কার মুখের, তা নিয়ে কুরতুবী একটি মতভেদ উল্লেখ করেন। তাঁর নিজের ধারাবাহিক ব্যাখ্যায় আয়াতটি সেই কথাগুলোর একটি, যা ওদের বলার জন্য রাসূল ﷺ-কে আদেশ করা হয়েছিল। তাবারীর ব্যাখ্যার সঙ্গে এটি মেলে। তারপর 'বলা হয়েছে' কথাটি দিয়ে তিনি আনেন অন্য মত: এটা শুরু থেকেই আল্লাহর নিজের বাণী। একই ভঙ্গিতে তিনি দুই অংশ নিয়ে আরেকটি মতভেদও জানান। কেউ বলেছেন, মিথ্যা রচনাকারী হলো মুশরিক, আর আয়াত অস্বীকারকারী আহলে কিতাব। দুটো মতই তিনি বর্ণনা করেন, কোনোটির পক্ষে যুক্তি দেন না।"
+          },
+          {
+            "en": "The other commentators each give the two halves a particular content. Al-Baghawi says the inventor of a lie is whoever claims that Allah has a partner or a child, and the denier of His signs is whoever denies Muhammad ﷺ and the Qur'an. At-Tabari widens the signs to His proofs, His messengers and the verses of His Book. Ibn Kathir reads the first half as the false claim to prophethood itself: a man who speaks falsely of Allah and claims that Allah sent him, when it was not so.",
+            "bn": "বাকি তাফসীরকারেরা দুই অংশের প্রত্যেকটিতে নির্দিষ্ট বিষয় বসান। বাগাভী বলেন, মিথ্যা রচনাকারী সে, যে দাবি করে আল্লাহর শরীক আছে বা সন্তান আছে। আর আয়াত অস্বীকারকারী সে, যে মুহাম্মাদ ﷺ ও কুরআনকে অস্বীকার করে। তাবারী আয়াতের অর্থ আরও বড় করে দেখেন: আল্লাহর প্রমাণসমূহ, তাঁর রাসূলগণ আর তাঁর কিতাবের আয়াত। ইবন কাসীর প্রথম অংশকে পড়েন নবুওয়াতের মিথ্যা দাবি হিসেবে। সে আল্লাহর নামে মিথ্যা বলে আর দাবি করে, আল্লাহ তাকে পাঠিয়েছেন, অথচ আসলে তা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Success Withheld From the Guilty",
+          "bn": "অপরাধীর ভাগে সফলতা নেই"
+        },
+        "p": [
+          {
+            "en": "Innahu la yuflihu al-mujrimun: indeed, the guilty will not succeed. The clause is stated as a rule, and at-Tabari places it on the farthest horizon. Those who committed the crime of disbelief in this world, he says, will not prosper on the Day of Resurrection when they meet their Lord, and will not attain success. His phrase for the guilty, alladhina ijtaramu al-kufr, keeps the root of al-mujrimun, j-r-m: they are the ones who took disbelief upon themselves as their crime.",
+            "bn": "ইন্নাহু লা ইউফলিহুল মুজরিমূন: নিশ্চয়ই অপরাধীরা সফল হয় না। বাক্যটি এসেছে একটি নিয়ম হিসেবে, আর তাবারী একে রাখেন সবচেয়ে দূরের দিগন্তে। তিনি বলেন, দুনিয়ায় যারা কুফরের অপরাধ করেছে, কিয়ামতের দিন রবের সঙ্গে সাক্ষাতের সময় তারা কামিয়াব হবে না, সফলতার নাগাল পাবে না। অপরাধীদের বোঝাতে তিনি যে কথা বলেন, আল্লাযীনাজতারামুল কুফর, তাতে মুজরিমূন শব্দের জ-র-ম ধাতুটাই থেকে যায়। অর্থাৎ এরা সেই লোক, যারা কুফরকে নিজেদের অপরাধ হিসেবে কাঁধে তুলে নিয়েছে।"
+          },
+          {
+            "en": "The shorter commentaries word the clause differently. Al-Baghawi: the polytheists will not be saved. The Muyassar: whoever denied the prophets and messengers of Allah will not prosper, and they will not attain success. As-Sa'di, still speaking in the Prophet's voice, adds a nearer horizon: your affair is bound to dwindle, and you will not attain success for as long as you remain so. That closing condition matters. The door he describes stays shut only while they stay where they are. The verdict is on a condition, not on a name.",
+            "bn": "ছোট তাফসীরগুলো বাক্যটি বলে ভিন্ন ভিন্ন শব্দে। বাগাভী: মুশরিকরা মুক্তি পাবে না। মুয়াসসার: যে আল্লাহর নবী ও রাসূলদের অস্বীকার করেছে, সে কামিয়াব হবে না, সফলতার নাগাল পাবে না। সা'দী নবী ﷺ-এর জবানিতেই আরেকটি কাছের দিগন্ত যোগ করেন: তোমাদের ব্যাপারটা ক্ষয়ে যাবেই, আর যতদিন তোমরা এ অবস্থায় থাকবে, ততদিন সফলতা পাবে না। শেষের শর্তটা গুরুত্বপূর্ণ। তাঁর বর্ণিত দরজা বন্ধ থাকে কেবল ততক্ষণ, যতক্ষণ তারা যেখানে আছে সেখানেই থাকে। রায়টা একটা অবস্থার উপর, কোনো নামের উপর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question Elsewhere in the Mushaf",
+          "bn": "মুসহাফের অন্য জায়গায় এই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The question man azlamu mimman recurs across the Qur'an, and its wording shifts. 6:21 stands closest to this verse: the same words after an opening wa instead of fa, ending la yuflihu az-zalimun, the wrongdoers will not succeed, where this verse has al-mujrimun, the guilty. That word had just been used in 10:13: thus do We recompense the criminal people. 7:37 opens with the same first ten words as this verse, fa included, and then turns to the hour of death, when Our messengers come to take them and ask where are those you used to call on besides Allah.",
+            "bn": "মান আযলামু মিম্মান, এই প্রশ্ন কুরআনে বারবার আসে, তবে শব্দ বদলায়। এ আয়াতের সবচেয়ে কাছের আয়াত ৬:২১। শুরুতে ফা-এর জায়গায় ওয়া, বাকি শব্দ একই। শেষে আছে লা ইউফলিহুয যালিমূন, যালিমরা সফল হয় না। এখানে সেই জায়গায় আছে আল-মুজরিমূন, অপরাধীরা। শব্দটি একটু আগে ১০:১৩ আয়াতে এসেছে: এভাবেই আমি অপরাধী জাতিকে প্রতিফল দিই। ৭:৩৭ শুরু হয় এ আয়াতের প্রথম দশটি শব্দ দিয়েই, ফা-সহ। তারপর আয়াতটি চলে যায় মৃত্যুর মুহূর্তে। জান কবজ করতে আমার ফেরেশতারা এসে জিজ্ঞেস করে, আল্লাহকে ছেড়ে যাদের ডাকতে, তারা কোথায়?"
+          },
+          {
+            "en": "Others vary it. 11:18 asks only about whoever invents a lie against Allah, and says such people will be presented before their Lord. 29:68 has the truth in place of the signs: or denies the truth when it has come to him. 39:32 uses a different verb for the first wrong, kadhaba 'ala Allah, lied against Allah, and pairs it with denying the truth when it came. Near the end of his comment Ibn Kathir cites 6:93, which names forms of the lie: saying it has been revealed to me when nothing was, and saying I will send down the like of what Allah sent down.",
+            "bn": "অন্য আয়াতগুলোতে এর রূপ কিছুটা বদলায়। ১১:১৮ আয়াতে প্রশ্ন কেবল আল্লাহর নামে মিথ্যা রচনাকারীকে নিয়ে, আর বলা হয়েছে এদের রবের সামনে হাজির করা হবে। ২৯:৬৮ আয়াতে আয়াতের জায়গায় এসেছে সত্য: অথবা সত্য তার কাছে আসার পর যে তা মিথ্যা বলে। ৩৯:৩২ আয়াতে প্রথম অপরাধের জন্য ভিন্ন ক্রিয়া, কাযাবা আলাল্লাহ, আল্লাহর নামে মিথ্যা বলল। সঙ্গে আছে সত্য আসার পর তা অস্বীকার করা। আলোচনার শেষ দিকে ইবন কাসীর ৬:৯৩ উদ্ধৃত করেন। সেখানে এ মিথ্যার কয়েকটি রূপের নাম আছে: কিছুই ওহি না এলেও বলা, আমার কাছে ওহি এসেছে। আর বলা, আল্লাহ যা নাযিল করেছেন, আমিও তেমন নাযিল করব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mid-Morning Beside Midnight",
+          "bn": "সকালের রোদ আর মাঝরাত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir is the one commentator here who turns to history, and he does so to make a point about evidence. Such a claim, he argues, cannot stay hidden even from the dull-witted, so how could its maker be confused with the prophets? Whoever makes it, truthfully or falsely, Allah sets up proofs around him, of his integrity or his corruption, clearer than the sun. He names Musaylima, Sajah and al-Aswad al-Ansi, and says that for anyone who saw both men, the difference between Muhammad ﷺ and Musaylima was plainer than that between mid-morning and the middle of a pitch-black night.",
+            "bn": "এখানে একমাত্র ইবন কাসীরই ইতিহাসের দিকে যান, আর যান প্রমাণ নিয়ে একটা কথা বোঝাতে। তাঁর যুক্তি, এমন দাবি স্থূলবুদ্ধির মানুষের কাছেও লুকিয়ে থাকে না। তাহলে দাবিদারকে নবীদের সঙ্গে গুলিয়ে ফেলা যাবে কী করে? দাবি সত্য হোক বা মিথ্যা, আল্লাহ দাবিদারের চারপাশে তার সততা বা পাপাচারের এমন প্রমাণ দাঁড় করিয়ে দেন, যা সূর্যের চেয়েও স্পষ্ট। তিনি মুসাইলামা, সাজাহ ও আসওয়াদ আনসীর নাম নেন। তিনি বলেন, যে দুজনকেই দেখেছে, তার কাছে মুহাম্মাদ ﷺ আর মুসাইলামার পার্থক্য ছিল সকালের রোদ আর ঘুটঘুটে অন্ধকার মাঝরাতের পার্থক্যের চেয়েও স্পষ্ট।"
+          },
+          {
+            "en": "He brings witnesses for that plainness, none of them a report about this verse's revelation. The first is Abdullah ibn Salam (RA), whose words in Jami' at-Tirmidhi 2485 run: when the Messenger of Allah ﷺ came to al-Madinah, the people rushed to him, and it was said the Messenger of Allah has come. I came among the people to look at him, and when I saw his face clearly, I knew that his face was not the face of a liar. The first thing he said was: O people, spread the salam, feed others, and pray while people sleep; you will enter Paradise in peace. At-Tirmidhi grades it sahih.",
+            "bn": "এই স্পষ্টতার পক্ষে তিনি কয়েকজন সাক্ষী আনেন। তাদের কারও কথাই এ আয়াত নাযিলের ঘটনা নয়। প্রথমজন আবদুল্লাহ ইবন সালাম (রাঃ)। জামি তিরমিযী ২৪৮৫-এ তাঁর কথা এরকম: রাসূলুল্লাহ ﷺ মদীনায় এলে লোকেরা তাঁর দিকে ছুটে গেল, আর বলাবলি হলো, রাসূলুল্লাহ এসেছেন। তাঁকে দেখতে আমিও লোকদের সঙ্গে গেলাম। যখন তাঁর চেহারা ভালো করে দেখলাম, বুঝলাম এ চেহারা কোনো মিথ্যুকের চেহারা নয়। তিনি প্রথম যে কথা বললেন তা হলো: হে লোকসকল, সালাম ছড়িয়ে দাও, খাবার খাওয়াও, আর মানুষ যখন ঘুমিয়ে থাকে তখন নামায পড়ো। শান্তির সঙ্গে জান্নাতে প্রবেশ করবে। তিরমিযী একে সহীহ বলেছেন।"
+          },
+          {
+            "en": "The second is an anecdote Ibn Kathir introduces only with they mentioned, without a chain. Amr ibn al-As, before he embraced Islam, visited Musaylima, a friend from the days of ignorance, and was asked what had lately been revealed to his companion. Amr recited Surat al-'Asr. Musaylima thought for a while, produced some lines about a wabr, a small desert animal, its two ears and its chest, and asked his opinion. By Allah, Amr answered, you know that I know you are lying. Ibn Kathir's conclusion: if a man still in his idolatry could tell the two apart, what of people of insight?",
+            "bn": "দ্বিতীয়টি একটি ঘটনা, যা ইবন কাসীর আনেন শুধু 'লোকেরা উল্লেখ করেছে' বলে, কোনো সনদ ছাড়া। আমর ইবনুল আস তখনো ইসলাম গ্রহণ করেননি। জাহিলিয়াতের দিনের বন্ধু মুসাইলামার কাছে তিনি গেলে মুসাইলামা জানতে চাইল, ইদানীং তোমাদের সঙ্গীর উপর কী নাযিল হয়েছে? আমর সূরা আসর পড়ে শোনালেন। মুসাইলামা কিছুক্ষণ ভেবে ওয়াবর নামের ছোট এক মরু-প্রাণী নিয়ে কয়েকটা চরণ বানাল, তার দুটো কান আর বুক নিয়ে, তারপর আমরের মত চাইল। আমর বললেন, আল্লাহর কসম, তুমি ভালোই জানো যে আমি জানি তুমি মিথ্যা বলছ। ইবন কাসীরের সিদ্ধান্ত: শিরকে থাকা অবস্থায় একজন মানুষই যদি দুজনের পার্থক্য ধরতে পারে, তবে অন্তর্দৃষ্টির মানুষদের কথা কী বলব?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question to Turn Inward",
+          "bn": "প্রশ্নটা নিজের দিকে ফেরান"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse answers people who called a truthful man a forger, and it describes what the text describes: the gravest wrong, and a verdict of no success on those who persist in it. It licenses nothing against any living person or community. It gives no one the standing to brand a neighbour, a scholar he disagrees with, or a whole people as liars against Allah on its strength. The men Ibn Kathir names are figures of history whom he judged by evidence; the verse itself names no one.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এক সত্যবাদী মানুষকে যারা জালিয়াত বলেছিল, আয়াতটি তাদের জবাব। পাঠ যা বর্ণনা করে, আয়াত তা-ই বর্ণনা করে: সবচেয়ে বড় যুলুম, আর তাতে যারা অটল থাকে তাদের ব্যর্থতার রায়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এর জোরে প্রতিবেশীকে, দ্বিমত আছে এমন কোনো আলেমকে, কিংবা গোটা কোনো জাতিকে আল্লাহর নামে মিথ্যাবাদী ঘোষণা করার অধিকার কারও নেই। ইবন কাসীর যাদের নাম নেন, তারা ইতিহাসের চরিত্র, প্রমাণ দেখে তিনি তাদের বিচার করেছেন। আয়াত নিজে কারও নাম নেয় না।"
+          },
+          {
+            "en": "What it does give the reader is a question to put to himself. Al-Qurtubi's gloss on the first wrong includes attributing to Allah something He did not send down, and 16:116 shows how ordinary that can look: do not say of what your tongues falsely describe, this is lawful and this is forbidden, so as to invent a lie against Allah; those who invent a lie against Allah will not succeed. The same verdict, la yuflihun, closes both verses. A ruling announced with confidence and without knowledge is not a small slip.",
+            "bn": "পাঠককে আয়াতটি যা দেয়, তা হলো নিজেকে করার মতো একটি প্রশ্ন। প্রথম অপরাধের ব্যাখ্যায় কুরতুবী আল্লাহ যা নাযিল করেননি তা তাঁর নামে জুড়ে দেওয়ার কথাও বলেন। ব্যাপারটা কত সাধারণ চেহারায় আসতে পারে, ১৬:১১৬ তা দেখিয়ে দেয়। তোমাদের জিহ্বা মিথ্যা বানিয়ে যা বলে, সে অনুযায়ী বোলো না যে এটা হালাল আর এটা হারাম, আল্লাহর নামে মিথ্যা রটানোর জন্য। যারা আল্লাহর নামে মিথ্যা রটায়, তারা সফল হয় না। দুই আয়াতেরই শেষে একই রায়, লা ইউফলিহূন। না জেনে জোর গলায় দেওয়া ফতোয়া তাই ছোটখাটো ভুল নয়।"
+          },
+          {
+            "en": "The second half is quieter. Denying the signs need not be a speech against them; at-Tabari's signs are His proofs, His messengers and the verses of His Book, and a proof can be refused simply by never being weighed. As-Sa'di, closing his comment on this passage, says that what drove the demand in 10:15 was their not believing in the meeting with Allah and not hoping for it. Whoever does believe in that meeting, he adds, must yield to this Book and believe in it, because such a person's intention is sound.",
+            "bn": "দ্বিতীয় অংশটা নীরব। আয়াত অস্বীকার করতে তার বিরুদ্ধে বক্তৃতা দেওয়া লাগে না। তাবারীর কাছে আয়াত মানে আল্লাহর প্রমাণসমূহ, তাঁর রাসূলগণ আর তাঁর কিতাবের আয়াত। আর কোনো প্রমাণকে কখনো যাচাই না করেও তা প্রত্যাখ্যান করা যায়। এই অংশের আলোচনা শেষ করতে গিয়ে সা'দী বলেন, ১০:১৫ আয়াতের দাবির পেছনে আসল চালিকা ছিল আল্লাহর সাক্ষাতে তাদের ঈমান না থাকা, সে সাক্ষাতের আশা না থাকা। তিনি যোগ করেন, যে সেই সাক্ষাতে ঈমান রাখে, সে এ কিতাবের কাছে নত হবেই, এতে ঈমান আনবেই, কারণ তার নিয়ত খাঁটি।"
+          }
+        ]
+      }
+    ]
+  },
   "10:24": {
     "sections": [
       {

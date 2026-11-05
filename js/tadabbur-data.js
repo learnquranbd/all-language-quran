@@ -21311,6 +21311,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Each year's hardships are knocks at the door. Answer them by turning back from past sins and taking heed for what is still to come.",
     "lessonBn": "প্রতি বছরের কষ্টগুলো দরজায় কড়া নাড়া। আগের গুনাহ থেকে তওবা করে আর সামনের দিনের জন্য শিক্ষা নিয়ে সেই ডাকে সাড়া দিন।"
+  },
+  "10:17": {
+    "reflectionEn": "They called him a liar. He had lived among them a lifetime and nobody had ever caught him in a lie, yet when the verses came they said: bring another Qur'an, or change it. This verse answers with a question that cuts both ways. Who does more wrong than the one who invents a lie about Allah? If he were inventing, that would be him. Who does more wrong than the one who denies Allah's signs? If he is truthful, that is them. There is no third seat. Then it closes: the guilty will not prosper. This is no stone for throwing at others. It asks where I sit. Do I put words in Allah's mouth that He never said, or set His words aside when they cost me?",
+    "reflectionBn": "ওরা তাঁকে মিথ্যাবাদী বলল। সারাটা জীবন তিনি ওদের মাঝে কাটিয়েছেন, কেউ কোনোদিন তাঁকে মিথ্যা বলতে ধরেনি। তবু আয়াত আসতেই ওরা বলল: অন্য একটা কুরআন আনো, নয়তো এটাকেই বদলে দাও। এ আয়াত জবাব দেয় এমন এক প্রশ্নে, যার ধার দুই দিকেই। আল্লাহর নামে যে মিথ্যা বানায়, তার চেয়ে বড় যালিম কে? তিনি বানিয়ে থাকলে সে তো তিনিই। আল্লাহর আয়াতকে যে মিথ্যা বলে, তার চেয়ে বড় যালিম কে? তিনি সত্যবাদী হলে সে তো ওরাই। মাঝখানে তৃতীয় কোনো জায়গা নেই। শেষে আয়াত জানিয়ে দেয়: অপরাধীরা সফল হয় না। এ প্রশ্ন অন্যের দিকে ছুড়ে মারার পাথর নয়। প্রশ্নটা আমাকেই জিজ্ঞেস করে, আমি কোথায় দাঁড়িয়ে আছি। আল্লাহ যা বলেননি, তা কি আমি তাঁর নামে চালিয়ে দিই? নাকি তাঁর যে কথা আমার কাছে ভারী লাগে, সেটাই সরিয়ে রাখি?",
+    "pointsEn": [
+      "When I say that Allah wants something or that the religion says something, do I know it, or am I filling a gap with what suits me?",
+      "Which verse have I pushed aside, not by arguing with it, but by never letting it touch the way I live?",
+      "When the truth reaches me from someone I dislike, do I examine it, or reach first for the charge that he is lying?",
+      "What do I count as success, and would it still count as success on the day I meet my Lord?",
+      "Before I call anyone a liar against Allah, have I asked whether this question is first of all about me?"
+    ],
+    "pointsBn": [
+      "আল্লাহ এটা চান বা দ্বীন এটা বলে, এমন কথা যখন বলি, আমি কি সত্যিই জানি? নাকি ফাঁকা জায়গাটা নিজের সুবিধামতো কথা দিয়ে ভরে দিচ্ছি?",
+      "কোন আয়াতকে আমি সরিয়ে রেখেছি, তর্ক করে নয়, নিজের জীবনে কখনো ঢুকতে না দিয়ে?",
+      "অপছন্দের কোনো মানুষের মুখ থেকে সত্য কথা এলে আমি কি যাচাই করে দেখি? নাকি প্রথমেই তাকে মিথ্যুক বলে বসি?",
+      "সফলতা বলতে আমি কী বুঝি? রবের সঙ্গে সাক্ষাতের দিনেও কি সেটা সফলতা বলে গণ্য হবে?",
+      "কাউকে আল্লাহর নামে মিথ্যা রটনাকারী বলার আগে নিজেকে কি জিজ্ঞেস করেছি, প্রশ্নটা সবার আগে আমার নিজের দিকেই কিনা?"
+    ],
+    "lessonEn": "Never put words in Allah's mouth, and never push His words aside. Both are the gravest wrong, and neither ends in success.",
+    "lessonBn": "আল্লাহ যা বলেননি তা কখনো তাঁর নামে চালাবেন না, আর তাঁর কথাকে কখনো সরিয়ে রাখবেন না। দুটোই সবচেয়ে বড় যুলুম, আর কোনোটার শেষেই সফলতা নেই।"
   }
 };
 
