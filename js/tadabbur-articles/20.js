@@ -3547,6 +3547,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:97": {
+    "sections": [
+      {
+        "h": {
+          "en": "Then Go, From Among Us",
+          "bn": "তবে চলে যাও, আমাদের মাঝ থেকে"
+        },
+        "p": [
+          {
+            "en": "This is the sentence. In 20:95 Musa (AS) asked the Samiri what his business was, and in 20:96 the Samiri gave his answer: he saw what the others did not see, took a handful from the track of the messenger, threw it, and his own soul made it look fine to him. The reply, twenty-eight Arabic words, does not argue. It passes judgment in three parts: a life without touch, an appointment he cannot miss, and the end of the calf.",
+            "bn": "এটা রায়ের আয়াত। ২০:৯৫ আয়াতে মূসা (আঃ) সামিরীর কাছে জানতে চেয়েছেন, তোমার ব্যাপারটা কী। ২০:৯৬ আয়াতে সামিরী জবাব দিয়েছে: সে এমন কিছু দেখেছিল যা অন্যরা দেখেনি, দূতের পদচিহ্ন থেকে এক মুঠো নিয়ে ছুড়ে দিয়েছিল, আর তার মন কাজটাকে তার চোখে ভালো করে দেখিয়েছিল। এবার সে যে উত্তর পায়, আরবিতে তা আটাশ শব্দের। এতে কোনো তর্ক নেই। রায় আসে তিনটি ভাগে: স্পর্শহীন এক জীবন, এড়ানো যায় না এমন এক নির্ধারিত সময়, আর বাছুরের পরিণতি।"
+          },
+          {
+            "en": "It opens with fa-dhhab, then go. Al-Qurtubi reads it as go from among us; as-Sa'di as keep away from me and stand back from me. The word removes the man before the sentence says why. Then the first clause: fa-inna laka fi al-hayati an taqula la misas, for it is yours in this life to say, no touching. Al-Baghawi glosses fi al-hayat as for as long as you live, and at-Tabari as in the days of your life. It runs to the end of his life.",
+            "bn": "শুরু ফাযহাব দিয়ে: তবে চলে যাও। কুরতুবী এর অর্থ করেন, আমাদের মাঝ থেকে চলে যাও। সাদীর ব্যাখ্যায়, আমার কাছ থেকে দূরে সরো, পিছিয়ে যাও। কারণ বলার আগেই শব্দটা লোকটিকে সরিয়ে দেয়। তারপর প্রথম অংশ: ফাইন্না লাকা ফিল হায়াতি আন তাকূলা লা মিসাস, এ জীবনে তোমার জন্য এটাই রইল যে তুমি বলবে, ছোঁয়া নেই। বাগাভী ফিল হায়াতের অর্থ করেন, যত দিন তুমি বেঁচে থাকবে। তাবারী বলেন, তোমার জীবনের দিনগুলোতে। শাস্তি চলবে বাকি জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "I Touch No One",
+          "bn": "আমি কাউকে ছুঁই না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives la misas in a few words: la amassu wa la umassu, I will not touch and I will not be touched. He adds, as something reported, that Musa (AS) ordered the Children of Israel not to eat with him, not to mix with him and not to trade with him, and that is why he said this to him. Al-Qurtubi says Musa exiled him from his people and ordered them not to mix with him, come near him or speak to him, as a punishment for him.",
+            "bn": "লা মিসাসের অর্থ তাবারী অল্প কথায় বলেন: লা আমাসসু ওয়া লা উমাসসু, আমি কাউকে ছোঁব না, আমাকেও কেউ ছোঁবে না। তিনি বর্ণিত কথা হিসেবে যোগ করেন, মূসা (আঃ) বনী ইসরাঈলকে আদেশ দিয়েছিলেন যেন তারা তার সঙ্গে না খায়, না মেশে, কেনাবেচাও না করে। সে কারণেই তিনি তাকে এ কথা বলেছিলেন। কুরতুবী বলেন, মূসা (আঃ) তাকে তার জাতি থেকে নির্বাসিত করেন। বনী ইসরাঈলকে আদেশ দেন, কেউ যেন তার সঙ্গে না মেশে, তার কাছে না যায়, তার সঙ্গে কথাও না বলে। এ ছিল তার শাস্তি।"
+          },
+          {
+            "en": "Al-Baghawi defines the word: al-misas comes from al-mumassa, mutual touching, so its sense is let none of us touch another. He reports Ibn 'Abbas (RA) saying: no touching for you and for your child. He goes on that the Samiri came to wander the wilderness with the wild animals and beasts of prey, touching no one and touched by no one, and saying to anyone he met: do not come near me, do not touch me. The Muyassar puts it as living cast out, saying to everyone, I do not touch and am not touched.",
+            "bn": "বাগাভী শব্দটার সংজ্ঞা দেন: আল-মিসাস এসেছে আল-মুমাসসা থেকে, অর্থাৎ পরস্পরকে ছোঁয়া। তাই এর মানে, আমরা কেউ কাউকে ছোঁব না। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: তোমার জন্যও ছোঁয়া নেই, তোমার সন্তানের জন্যও নেই। এরপর বাগাভী বলেন, সামিরী বনে-জঙ্গলে বুনো জন্তু আর হিংস্র প্রাণীর সঙ্গে ঘুরে বেড়াত। সে কাউকে ছুঁত না, কেউ তাকেও ছুঁত না। কারও সঙ্গে দেখা হলেই বলত: আমার কাছে এসো না, আমাকে ছুঁয়ো না। মুয়াসসার বলে, সে সমাজচ্যুত হয়ে বাঁচবে, আর সবাইকে বলবে: আমি ছুঁই না, আমাকেও ছোঁয়া হয় না।"
+          },
+          {
+            "en": "The form itself is unusual. Al-Qurtubi records that the Arabs also say la masasi, with the final vowel fixed as in names like qatami. Al-Jawhari, whom he quotes, says it is fixed on that vowel because it is turned aside from the plain verbal noun al-mass, touching. Whatever the grammar, the phrase is something the Samiri must say himself, to anyone who comes near. The refusal is spoken by the man refused.",
+            "bn": "শব্দের গড়নটাও অস্বাভাবিক। কুরতুবী জানান, আরবরা লা মাসাসি-ও বলে, কাতামি জাতীয় নামের মতো শেষ স্বরটা স্থির রেখে। তাঁর উদ্ধৃত জাওহারী বলেন, সাধারণ ক্রিয়াবিশেষ্য আল-মাস্স, অর্থাৎ ছোঁয়া, থেকে ঘুরিয়ে আনা বলেই শব্দটা ওই স্বরে স্থির। ব্যাকরণ যা-ই হোক, কথাটা সামিরীকে নিজের মুখেই বলতে হবে, যে-ই কাছে আসুক তাকে। প্রত্যাখ্যানের কথাটা উচ্চারণ করে প্রত্যাখ্যাত মানুষটি নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Law, or an Affliction",
+          "bn": "বিধান, নাকি ব্যাধি"
+        },
+        "p": [
+          {
+            "en": "Who imposed it, and how? Ma'arif al-Qur'an leaves the question open in plain words. Whether Musa (AS) imposed it as a law binding on the Samiri and the Children of Israel alike, or whether the Samiri was struck by some peculiar affliction that kept people from touching him, it says, is not known. The commentators fall on both sides. Al-Qurtubi gives al-Hasan's view that Allah made it the Samiri's punishment, as though He had made the trial heavy on him, and al-Baghawi too says Allah punished him with it.",
+            "bn": "শাস্তিটা কে দিলেন, আর কীভাবে? মাআরিফুল কুরআন এর উত্তর খোলা রেখে দেয়। মূসা (আঃ) কি এটা এমন বিধান হিসেবে দিয়েছিলেন, যা সামিরী আর বনী ইসরাঈল দুই পক্ষের উপরই বাধ্যতামূলক? নাকি সামিরীর গায়ে এমন অদ্ভুত কোনো রোগ দেখা দিয়েছিল, যার কারণে কেউ তাকে ছুঁত না? মাআরিফ বলে, তা জানা নেই। তাফসীরকারেরা দুই দিকেই আছেন। কুরতুবী হাসানের মত আনেন: আল্লাহ এটাকে সামিরীর শাস্তি বানিয়েছিলেন, যেন তার পরীক্ষাকে তিনি ভারী করে দিলেন। বাগাভীও বলেন, আল্লাহ তাকে এ দিয়েই শাস্তি দিয়েছিলেন।"
+          },
+          {
+            "en": "The other reading makes it bodily. Al-Baghawi, under qila, and al-Qurtubi, from Qatada, report that if he touched anyone or was touched, both fell into a fever; that report is already set out under 7:152. Al-Qurtubi adds two more, each under yuqal, it is said. One is that he was afflicted with waswas, compulsive misgiving, and that it began from that time. The other is that he took fright at the sentence and fled, wandering with the beasts until, far from people, he became like one who says la misas.",
+            "bn": "অন্য পাঠে শাস্তিটা শরীরের। বাগাভী 'কীলা' বলে, আর কুরতুবী কাতাদা থেকে, বর্ণনা করেন: সে কাউকে ছুঁলে বা কেউ তাকে ছুঁলে দুজনেরই জ্বর আসত। ৭:১৫২ আয়াতের আলোচনায় এ বর্ণনা আগেই এসেছে। কুরতুবী আরও দুটি কথা আনেন, দুটোই 'ইউকালু', অর্থাৎ বলা হয়, দিয়ে। একটি হলো, সে ওয়াসওয়াসা, মানে অবিরাম সংশয়ের রোগে আক্রান্ত হয়েছিল, আর এ রোগের শুরু সেই সময় থেকেই। অন্যটি হলো, রায় শুনে সে ভয়ে পালিয়ে যায়। বুনো জন্তুর সঙ্গে ঘুরতে ঘুরতে, মানুষ থেকে দূরে থেকে সে হয়ে যায় এমন একজন, যে যেন বলছে লা মিসাস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured to the Hand",
+          "bn": "হাতের মাপে শাস্তি"
+        },
+        "p": [
+          {
+            "en": "Why this punishment and not another? Ibn Kathir answers with a symmetry. Just as you took and touched what you had no right to take and touch, from the track of the messenger, so your punishment in this world is that you say la misas: you will not touch people and they will not touch you. As-Sa'di gives the same reason in his own words. It was a punishment for that, he says, since he touched what no one else had touched and set going what no one else had set going.",
+            "bn": "অন্য কোনো শাস্তি নয়, এটাই কেন? ইবন কাসীর জবাব দেন এক মিল দেখিয়ে। দূতের পদচিহ্ন থেকে যা নেওয়ার আর ছোঁয়ার অধিকার তোমার ছিল না, তুমি যেমন তা নিয়েছ আর ছুঁয়েছ, তেমনি দুনিয়াতে তোমার শাস্তি হলো তুমি বলবে লা মিসাস। তুমি মানুষকে ছোঁবে না, মানুষও তোমাকে ছোঁবে না। সাদী একই কারণ বলেন নিজের ভাষায়। এ ছিল সেই কাজের শাস্তি, কারণ সে এমন জিনিস ছুঁয়েছিল যা আর কেউ ছোঁয়নি, আর এমন কিছু চালু করেছিল যা আর কেউ চালু করেনি।"
+          },
+          {
+            "en": "Read this way, the sentence answers the deed in its own kind. The hand that reached for a forbidden handful is the hand no one will now take. The man who gathered a crowd around a figure of his own making now lives with no one near him at all. Nothing has to be added to the text to see this. The two commentators simply notice that touch is both the offence and the penalty, and that the single word misas holds them together.",
+            "bn": "এভাবে পড়লে শাস্তিটা অপরাধের জাতেরই। যে হাত নিষিদ্ধ এক মুঠোর দিকে বাড়ানো হয়েছিল, সেই হাত এখন কেউ ধরবে না। যে লোক নিজের বানানো এক মূর্তির চারপাশে ভিড় জমিয়েছিল, এখন তার কাছে কেউই নেই। এটা দেখতে আয়াতের সঙ্গে বাড়তি কিছু জুড়তে হয় না। দুই তাফসীরকার শুধু খেয়াল করেন, ছোঁয়াই এখানে অপরাধ, ছোঁয়াই শাস্তি। আর মিসাস শব্দটা দুটোকে এক সুতোয় বেঁধে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Meeting He Cannot Miss",
+          "bn": "যে সাক্ষাৎ এড়ানো যাবে না"
+        },
+        "p": [
+          {
+            "en": "Then the second clause: wa-inna laka maw'idan lan tukhlafahu, and you have an appointment you will not fail to keep. Ibn Kathir, al-Qurtubi and al-Baghawi place it on the Day of Resurrection. Al-Qurtubi notes that maw'id is a verbal noun, a promise, here the promise of your punishment. The Muyassar calls it an appointment for your punishment and penalty, which Allah will not break and which you will meet. The sentence in this world is only the part he sees before he dies.",
+            "bn": "তারপর দ্বিতীয় অংশ: ওয়া ইন্না লাকা মাওইদান লান তুখলাফাহু, আর তোমার জন্য আছে এক নির্ধারিত সময়, যার কোনো ব্যতিক্রম হবে না। ইবন কাসীর, কুরতুবী ও বাগাভী একে কিয়ামতের দিন বলে ধরেন। কুরতুবী জানান, মাওইদ ক্রিয়াবিশেষ্য, অর্থাৎ প্রতিশ্রুতি। এখানে তা তোমার শাস্তির প্রতিশ্রুতি। মুয়াসসারের ভাষায়, এ তোমার আযাব ও শাস্তির নির্ধারিত সময়, আল্লাহ যা ভঙ্গ করবেন না, আর তুমি তার মুখোমুখি হবেই। দুনিয়ার শাস্তি হলো তার সেই অংশ, যা সে মরার আগেই দেখে যাবে।"
+          },
+          {
+            "en": "The verb is read two ways, and at-Tabari sets out both. The readers of Medina and Kufa say lan tukhlafahu, with the lam voweled a: Allah will not fail you in it, but will make you taste it. Al-Hasan, Qatada and Abu Nahik say lan tukhlifahu, with the lam voweled i: you will not fail it, which they explained as lan taghiba 'anhu, you will not be absent from it. Al-Baghawi gives that second reading to the reciters Ibn Kathir, Abu 'Amr and Ya'qub; al-Qurtubi, to Ibn Kathir and Abu 'Amr.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়, তাবারী দুটোই তুলে ধরেন। মদীনা ও কূফার কারীরা পড়েন লান তুখলাফাহু, লামে যবর দিয়ে। অর্থ: আল্লাহ এর ব্যতিক্রম করবেন না, বরং তোমাকে এর স্বাদ চাখাবেন। হাসান, কাতাদা ও আবু নাহীক পড়েন লান তুখলিফাহু, লামে যের দিয়ে। অর্থ: তুমি একে এড়াতে পারবে না। তাঁরা এর ব্যাখ্যা করেন লান তাগীবা আনহু, সেখানে তুমি অনুপস্থিত থাকতে পারবে না। বাগাভী এই দ্বিতীয় পাঠ কারী ইবন কাসীর, আবু আমর ও ইয়াকুবের বলে জানান। কুরতুবী বলেন ইবন কাসীর ও আবু আমরের।"
+          },
+          {
+            "en": "At-Tabari will not choose between them. Both are well-known readings close in meaning, he says, since Allah will surely keep His promise to gather creation for the reckoning, and creation will surely arrive. Neither side fails the appointment, so either reading is right. Al-Qurtubi gives the i-reading two senses: you will come to it and find it kept, or, as a threat, you must arrive at it. As-Sa'di keeps it plain: there you will be repaid for your deeds, good and bad.",
+            "bn": "তাবারী এ দুয়ের মধ্যে কোনোটিকে বেছে নেন না। তিনি বলেন, দুটোই প্রসিদ্ধ পাঠ, অর্থও কাছাকাছি। কারণ হিসাবের জন্য সৃষ্টিকে একত্র করার ওয়াদা আল্লাহ নিশ্চয়ই পূরণ করবেন, আর সৃষ্টিও সেদিন নিশ্চয়ই হাজির হবে। কোনো পক্ষই সেই সাক্ষাৎ ফসকাবে না। তাই যে পাঠেই পড়া হোক, ঠিক। কুরতুবী যেরের পাঠের দুটি অর্থ দেন: তুমি সেখানে পৌঁছবে আর দেখবে ওয়াদা ঠিক আছে, অথবা হুমকির সুরে, সেখানে তোমাকে যেতেই হবে। সাদী সহজ করে বলেন: সেখানে তোমার ভালো-মন্দ সব আমলের প্রতিদান দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The God He Sat Beside",
+          "bn": "যার পাশে বসে দিন কাটত"
+        },
+        "p": [
+          {
+            "en": "Then Musa (AS) turns him toward the calf: wa-nzur ila ilahika alladhi zalta 'alayhi 'akifa, and look at your god, to which you remained devoted. Al-Baghawi adds two words that carry the irony: your god, bi-za'mik, by your own claim. Ibn Kathir glosses it as the one you worshipped. Al-Qurtubi gives 'akif as mulazim, clinging to it, and notes that zaliltu af'alu kadha means I did it through the day; zalta is that verb with a letter dropped. The picture is of a man who stayed by his calf all day and kept on staying.",
+            "bn": "এরপর মূসা (আঃ) তার দৃষ্টি ফেরান বাছুরের দিকে: ওয়ানযুর ইলা ইলাহিকাল্লাযী যালতা আলাইহি আকিফা, আর তাকিয়ে দেখো তোমার সেই ইলাহের দিকে, যাকে আঁকড়ে তুমি পড়ে ছিলে। বাগাভী দুটি শব্দ জুড়ে দেন, যাতে বিদ্রূপটা ধরা পড়ে: তোমার ইলাহ, বি-যা'মিক, তোমার নিজের দাবি অনুযায়ী। ইবন কাসীর এর অর্থ করেন, যার তুমি ইবাদত করতে। কুরতুবী আকিফের অর্থ বলেন মুলাযিম, সারাক্ষণ লেগে থাকা। তিনি জানান, যালিলতু আফআলু কাযা মানে আমি সারা দিন ধরে এ কাজ করেছি। যালতা সেই ক্রিয়াই, একটি বর্ণ বাদ দিয়ে। ছবিটা এমন এক মানুষের, যে সারা দিন তার বাছুরের পাশে বসে থাকত, আর বসেই থাকত।"
+          },
+          {
+            "en": "Then the vow, la-nuharriqannahu. At-Tabari records three readings. Most reciters of the Hijaz and Iraq double the r: we will burn it in the fire, piece by piece. Al-Hasan al-Basri read it light, la-nuhriqannahu, a single burning. Abu Ja'far the reciter read la-nahruqannahu: we will file it down with files. At-Tabari chooses the first, burning by fire, because the authoritative reciters agree on it. Al-Qurtubi gives the filing reading to 'Ali, Ibn 'Abbas, Abu Ja'far and others. Al-Baghawi lists it differently: Abu Ja'far read the light form, meaning burning, and the filing reading is Ibn Muhaysin's.",
+            "bn": "তারপর শপথের সুরে ঘোষণা: লানুহাররিকান্নাহু। তাবারী তিনটি পাঠ উল্লেখ করেন। হিজায ও ইরাকের অধিকাংশ কারী 'রা' তাশদীদ দিয়ে পড়েন: আমরা একে আগুনে টুকরো টুকরো করে পোড়াব। হাসান বসরী পড়েছেন হালকা করে, লানুহরিকান্নাহু, অর্থাৎ একবারে পুড়িয়ে ফেলা। কারী আবু জা'ফর পড়েছেন লানাহরুকান্নাহু: আমরা একে উখা দিয়ে ঘষে গুঁড়ো করব। তাবারী প্রথম পাঠটি, অর্থাৎ আগুনে পোড়ানো, বেছে নেন, কারণ নির্ভরযোগ্য কারীগণ এতে একমত। কুরতুবী উখার পাঠটি আলী, ইবন আব্বাস, আবু জা'ফর ও আরও কয়েকজনের বলে জানান। বাগাভীর তালিকা আলাদা: তাঁর মতে আবু জা'ফর হালকা পাঠে পড়েছেন, যার অর্থ পোড়ানো, আর উখার পাঠটি ইবন মুহাইসিনের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fire, File and Open Sea",
+          "bn": "আগুন, উখা আর খোলা সাগর"
+        },
+        "p": [
+          {
+            "en": "But gold does not burn to ash. Al-Qurtubi meets the problem by joining the readings. As-Suddi says the calf was slaughtered and bled as a calf bleeds, then its bones were filed and it was burned, and Ibn Mas'ud's text reads, we will slaughter it, then burn it. Flesh and blood, once burned, become ash that can be scattered; gold does not, and, it is said, Musa (AS) knew what would turn gold to ash, as one of his signs. In Ibn Kathir, Qatada says the calf had turned from gold into flesh and blood.",
+            "bn": "কিন্তু সোনা তো পুড়ে ছাই হয় না। কুরতুবী পাঠগুলো মিলিয়ে এ সমস্যার সমাধান করেন। সুদ্দী বলেন, বাছুরটাকে যবেহ করা হয়েছিল, আর বাছুর যবেহ করলে যেমন রক্ত ঝরে তেমনি ঝরেছিল। তারপর তার হাড় উখা দিয়ে ঘষা হয়, এরপর পোড়ানো হয়। ইবন মাসঊদের পাঠে আছে: আমরা একে যবেহ করব, তারপর পোড়াব। গোশত আর রক্ত পুড়লে ছাই হয়, সেই ছাই ছড়ানো যায়। সোনা ছাই হয় না। তবে বলা হয়, সোনাকে ছাই বানানোর উপায় মূসা (আঃ) জানতেন, আর এটা ছিল তাঁর নিদর্শনগুলোর একটি। ইবন কাসীরে কাতাদা বলেন, বাছুরটা সোনা থেকে বদলে গোশত-রক্তের হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Then thumma la-nansifannahu fi al-yammi nasfa: then we will blow it into the sea with a blast. At-Tabari explains nasf by winnowing, as when a man tosses grain so that its husks and dust fly off, and Ibn 'Abbas (RA), in his report, gives al-yamm as the sea. The Muyassar adds the purpose: so the wind carries it away and no trace of it remains. As-Suddi, in at-Tabari, says no sea was left that day without something of it falling into it.",
+            "bn": "তারপর সুম্মা লানানসিফান্নাহু ফিল ইয়াম্মি নাসফা: তারপর একে সাগরে ছড়িয়ে উড়িয়ে দেব। তাবারী নাসফ বোঝান কুলায় শস্য ঝাড়ার উপমায়, যখন মানুষ শস্য ছুড়ে দেয় আর তার খোসা ও ধুলো উড়ে যায়। তাঁর আনা বর্ণনায় ইবন আব্বাস (রাঃ) আল-ইয়াম্মের অর্থ বলেন সাগর। মুয়াসসার উদ্দেশ্যটাও বলে দেয়: যেন বাতাস তা উড়িয়ে নিয়ে যায়, আর তার কোনো চিহ্নই না থাকে। তাবারীর বর্ণনায় সুদ্দী বলেন, সেদিন এমন কোনো সাগর বাকি ছিল না, যেখানে তার কিছু না কিছু গিয়ে পড়েনি।"
+          },
+          {
+            "en": "As-Sa'di asks why it had to be done so thoroughly. Had it been a god, he says, it would have kept off whoever meant it harm. The love of the calf had been made to sink into their hearts, so Musa (AS) wanted it destroyed while they watched, in a way that could not be undone, so that its love would leave their hearts as its form had left the world. Keeping it would have been a trial, since the soul has the strongest pull toward falsehood. Then, in 20:98, he told them who alone deserves worship.",
+            "bn": "সাদী প্রশ্ন তোলেন, এত পুরোপুরি ধ্বংস করার দরকার কী ছিল? তিনি বলেন, এটা যদি সত্যিই ইলাহ হতো, তবে যে তার ক্ষতি করতে চায় তাকে ঠেকিয়ে দিত। বাছুরের ভালোবাসা তাদের অন্তরে গেঁথে দেওয়া হয়েছিল। তাই মূসা (আঃ) চেয়েছিলেন তাদের চোখের সামনেই এমনভাবে তা ধ্বংস করতে, যাতে আর ফিরিয়ে আনা না যায়। এর চেহারা যেমন মুছে গেল, অন্তর থেকে এর ভালোবাসাও যেন তেমনি মুছে যায়। রেখে দিলে তা পরীক্ষার কারণ হয়ে থাকত, কারণ বাতিলের দিকে মনের টানই সবচেয়ে প্রবল। তারপর ২০:৯৮ আয়াতে তিনি তাদের জানিয়ে দিলেন, ইবাদতের হকদার একমাত্র কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shunning, and Its Limits",
+          "bn": "বর্জন, আর তার সীমা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling: this verse is a basis for exiling and shunning people of innovation and of sins, and not mixing with them, and the Prophet ﷺ did this with Ka'b ibn Malik and the three who were left behind. His other examples are a jurists' ruling on a fugitive in the Haram and the exile within a prescribed penalty. Every one is a measure taken by a prophet or set by law, not a private grudge. None of the tafsirs fetched attaches a hadith to this verse itself.",
+            "bn": "কুরতুবী এখান থেকে একটি বিধান বের করেন: বিদআতি ও গুনাহগার লোকদের নির্বাসন দেওয়া, তাদের বর্জন করা আর তাদের সঙ্গে না মেশার ভিত্তি এই আয়াত। নবী ﷺ কা'ব ইবন মালিক ও পেছনে থেকে যাওয়া তিনজনের সঙ্গে এমনটাই করেছিলেন। তাঁর অন্য উদাহরণগুলো হলো হারামে আশ্রয় নেওয়া এক পলাতক সম্পর্কে ফকীহদের একটি মত, আর নির্ধারিত দণ্ডের অংশ হিসেবে নির্বাসন। প্রতিটিই কোনো নবীর নেওয়া বা আইনে নির্ধারিত ব্যবস্থা, ব্যক্তিগত আক্রোশ নয়। যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই সরাসরি এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "This must be said plainly. The verse sentences one man, for one deed, in a story of the past. Two reports reach past him: al-Hasan, in al-Qurtubi, extends the punishment to those who came from him, and Qatada says his remnants still said la misas in Qatada's day. Neither names anyone living now. The verse licenses nothing against any living person or community, Jews today included, and makes no reader a judge who may cast anyone out. Its question is for me: what have I reached for that was not mine, and what have I sat beside all day?",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের এক কাহিনিতে একজন মানুষকে তার একটি কাজের জন্য রায় শোনায়। দুটি বর্ণনা তাকে ছাড়িয়ে যায়। কুরতুবীতে হাসান শাস্তিটাকে তার থেকে আসা লোকদের উপরও বিস্তৃত করেন, আর কাতাদা বলেন, তাঁর নিজের যুগেও সামিরীর অবশিষ্টরা লা মিসাস বলত। এর কোনোটিই আজকের কোনো জীবিত মানুষের নাম নেয় না। আজকের ইহুদিসহ কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কোনো পাঠককে বিচারক বানিয়ে কাউকে একঘরে করার অধিকারও দেয় না। এর প্রশ্নটা আমার জন্য: যা আমার ছিল না, এমন কিসের দিকে আমি হাত বাড়িয়েছি? আর সারা দিন কিসের পাশে বসে কাটাই?"
+          }
+        ]
+      }
+    ]
+  },
   "20:102": {
     "sections": [
       {

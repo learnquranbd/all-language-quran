@@ -23491,6 +23491,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day every voice falls silent before the Most Merciful. Let your voice be humble now, and answer the call to good while answering still counts.",
     "lessonBn": "সেদিন দয়াময়ের সামনে সব কণ্ঠ থেমে যাবে। তাই এখনই নিজের কণ্ঠকে বিনয়ী করুন, আর ভালোর ডাকে সাড়া দিন যখন সাড়া দেওয়ার মূল্য এখনো আছে।"
+  },
+  "20:97": {
+    "reflectionEn": "He had reached for what was not his to touch, a handful from the track of the messenger, and with it he made a god for others. Now the sentence fits the hand. Go: for as long as you live you will say, no touching. People will keep their distance, and you will keep yours. A meeting still waits that you cannot miss. And the calf, the thing a crowd had clung to, is burned and scattered on the sea until nothing of it is left to love. I do not stand where he stood, but the verse still asks me: what am I gripping that was never mine, and what has my heart clung to that one fire could end?",
+    "reflectionBn": "যা ছোঁয়ার অধিকার তার ছিল না, সে তা-ই ছুঁয়েছিল: দূতের পায়ের চিহ্ন থেকে এক মুঠো মাটি। আর তা দিয়েই সে অন্যদের জন্য এক উপাস্য বানিয়েছিল। এখন শাস্তিটা ঠিক সেই হাতের মাপে। চলে যাও, যত দিন বাঁচবে, তুমি বলবে: ছোঁয়া নেই। মানুষ তার থেকে দূরে থাকবে, সে-ও থাকবে দূরে। তবু একটা নির্ধারিত সাক্ষাৎ বাকি রইল, যা এড়ানোর উপায় নেই। আর যে বাছুরকে ঘিরে একদল মানুষ বসে ছিল, তাকে পুড়িয়ে সাগরে ছড়িয়ে দেওয়া হবে, ভালোবাসার মতো কিছুই তার আর অবশিষ্ট থাকবে না। আমি তার জায়গায় দাঁড়িয়ে নেই। তবু আয়াতটি আমাকে প্রশ্ন করে: যা কখনো আমার ছিল না, এমন কী আমি আঁকড়ে ধরে আছি? আর কোন জিনিসে আমার মন জুড়ে আছে, যা এক আগুনেই শেষ হয়ে যেতে পারে?",
+    "pointsEn": [
+      "What have I taken or used that was not mine to touch, and has it begun to put distance between me and the people around me?",
+      "Is there something I keep returning to and staying beside, as they stayed beside the calf, that would not survive one honest look?",
+      "When a wrong I did comes back to me in its own shape, do I see the fairness in it, or only the pain?",
+      "Do I live as someone with an appointment I cannot miss, or as if that meeting could be put off?",
+      "When I turn away from a wrong, do I also remove what keeps pulling me back to it, or do I keep it nearby just in case?"
+    ],
+    "pointsBn": [
+      "যা ছোঁয়ার অধিকার আমার ছিল না, এমন কী আমি নিয়েছি বা কাজে লাগিয়েছি? সেটা কি আমার আর চারপাশের মানুষের মাঝে দূরত্ব তৈরি করতে শুরু করেছে?",
+      "এমন কিছু কি আছে, যার কাছে আমি বারবার ফিরে যাই, তার পাশেই পড়ে থাকি, যেমন তারা বাছুরের পাশে পড়ে ছিল? অথচ একবার খোলা চোখে তাকালেই যা টিকবে না?",
+      "আমার করা কোনো অন্যায় যখন নিজের চেহারাতেই আমার কাছে ফিরে আসে, আমি কি তার মধ্যে ইনসাফটা দেখি, নাকি শুধু কষ্টটাই দেখি?",
+      "আমি কি এমন মানুষের মতো বাঁচি, যার একটা নির্ধারিত সাক্ষাৎ আছে যা কিছুতেই এড়ানো যাবে না? নাকি এমনভাবে, যেন সেই সাক্ষাৎ পিছিয়ে দেওয়া যায়?",
+      "কোনো অন্যায় থেকে ফিরে আসার সময় যা আমাকে বারবার সেদিকে টানে, তা কি সরিয়ে ফেলি? নাকি 'দরকার হলে' ভেবে হাতের কাছেই রেখে দিই?"
+    ],
+    "lessonEn": "Whatever takes Allah's place in the heart can be burned and scattered in a day; let go of it now, before it leaves you as alone as it left him.",
+    "lessonBn": "অন্তরে আল্লাহর জায়গা যা দখল করে, তা এক দিনেই পুড়ে ছাই হয়ে উড়ে যেতে পারে। তা আপনাকে ওই লোকটির মতো একা করে ফেলার আগেই এখন তা ছেড়ে দিন।"
   }
 };
 
