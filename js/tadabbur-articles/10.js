@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "10:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "Answering the Magician Charge",
+          "bn": "জাদুকর অপবাদের জবাব"
+        },
+        "p": [
+          {
+            "en": "Surah Yunus opens with the letters Alif, Lam, Ra and a claim about what follows: these are the verses of the wise Book. 10:2 then reports how it was received. People were amazed that revelation had come to a man from among them, and the disbelievers said that this is plainly a magician. The next sentence does not defend the man or answer the word magician. It turns the listener from the messenger to the One who sent him.",
+            "bn": "সূরা ইউনুস শুরু হয় আলিফ-লাম-রা হরফগুলো দিয়ে, সঙ্গে একটি ঘোষণা: এগুলো প্রজ্ঞাময় কিতাবের আয়াত। এরপর ১০:২ জানায়, মানুষ তা কীভাবে নিল। তাদেরই একজন মানুষের কাছে ওয়াহী এসেছে, এতেই তারা অবাক। কাফিররা বলে দিল, এ তো স্পষ্ট জাদুকর। পরের বাক্যটি মানুষটির পক্ষে সাফাই দেয় না, জাদুকর শব্দটিরও জবাব দেয় না। শ্রোতার চোখ বাহকের উপর থেকে সরিয়ে নিয়ে যায় তাঁর দিকে, যিনি তাঁকে পাঠিয়েছেন।"
+          },
+          {
+            "en": "That turn shapes the whole of 10:3. It names the Lord, says what He made and how He governs, shuts out any intercessor without leave, and draws one command from it all: worship Him. 10:4 follows with the return of everyone to Him, and 10:5, on the sun and the moon, has its own article. Al-Qurtubi and al-Baghawi both read one clause of it as a reply to the idolaters, and Ibn Kathir hears its closing question as addressed to them directly.",
+            "bn": "এই মোড় ঘোরানোটাই ১০:৩ আয়াতের পুরো চেহারা ঠিক করে দেয়। আয়াতটি রবের নাম বলে, তিনি কী বানিয়েছেন আর কীভাবে পরিচালনা করেন তা জানায়, অনুমতি না পাওয়া সব সুপারিশকারীর পথ বন্ধ করে দেয়, তারপর সব কিছু থেকে একটাই আদেশ বের করে আনে: তাঁর ইবাদত কর। পরে ১০:৪ আয়াতে আসে সবার তাঁর কাছে ফিরে যাওয়ার কথা। সূর্য ও চাঁদ নিয়ে ১০:৫ আয়াতের আলাদা প্রবন্ধ আছে। কুরতুবী ও বাগাভী দুজনেই এর একটি অংশকে মুশরিকদের দাবির জবাব হিসেবে পড়েন। আর শেষের প্রশ্নটিকে ইবন কাসীর সরাসরি তাদের উদ্দেশেই বলা কথা হিসেবে শোনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Name, Then the Credentials",
+          "bn": "আগে নাম, তারপর পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Inna rabbakumu Allah: indeed your Lord is Allah. At-Tabari fills out what the name carries. Your Lord, he writes, is He to whom the worship of everything belongs, and worship befits Him alone. He created the seven heavens and the seven earths in six days, and He was alone in creating them, with no partner and no helper. Read this way, the rest of the verse lists credentials, and its closing command, worship Him, is why they were listed.",
+            "bn": "ইন্না রাব্বাকুমুল্লাহ: নিশ্চয়ই তোমাদের রব আল্লাহ। নামটির ভেতরে কী আছে, তাবারী তা খুলে বলেন। তাঁর ভাষায়, তোমাদের রব তিনিই, সব কিছুর ইবাদত যাঁর প্রাপ্য, আর ইবাদত শোভা পায় একমাত্র তাঁরই জন্য। তিনি ছয়টি দিনে সাতটি আসমান ও সাতটি জমিন সৃষ্টি করেছেন। সৃষ্টিতে তিনি একা ছিলেন, কোনো শরিক ছিল না, কোনো সাহায্যকারীও না। এভাবে পড়লে আয়াতের বাকি অংশ তাঁর পরিচয়ের একেকটি সনদ। আর শেষের আদেশ, তাঁর ইবাদত কর, সেই সনদগুলো গুনিয়ে বলার কারণ।"
+          },
+          {
+            "en": "As-Sa'di introduces the verse as Allah making plain His lordship, His divinity and His greatness. Ma'arif al-Qur'an sets it out as an argument. No one shares with Allah in creating the heavens and the earth, or in managing and running the whole system of the universe. Once that stands, it asks, how could anyone be made a partner in His divinity, in worship of Him or in obedience to Him? Doing so, it says, is the highest injustice conceivable.",
+            "bn": "সা'দী আয়াতটির ভূমিকা টানেন এভাবে: আল্লাহ এখানে তাঁর রুবূবিয়্যাত, উলূহিয়্যাত আর মহিমা স্পষ্ট করে দিচ্ছেন। মাআরিফুল কুরআন একে সাজায় যুক্তির আকারে। আকাশ ও পৃথিবী সৃষ্টিতে আল্লাহর কোনো অংশীদার নেই। গোটা বিশ্বব্যবস্থা চালানো ও পরিচালনাতেও কেউ তাঁর শরিক নয়। এ কথা প্রতিষ্ঠিত হলে প্রশ্ন ওঠে, তাঁর উলূহিয়্যাতে, তাঁর ইবাদতে বা তাঁর আনুগত্যে অন্য কাউকে শরিক করা যায় কীভাবে? মাআরিফের মতে এটাই কল্পনাযোগ্য সবচেয়ে বড় জুলুম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Days Like Ours, or Longer",
+          "bn": "আমাদের মতো দিন, নাকি দীর্ঘ"
+        },
+        "p": [
+          {
+            "en": "Fi sittati ayyam: in six days. Ibn Kathir, on this verse, gives two readings and does not choose. It was said that they were days like these, and it was said that each day was like a thousand years of what you count, which is the wording of 22:47. In his comment on 7:54 he names Mujahid and Imam Ahmad for the longer reading. Ma'arif al-Qur'an notes that a day as we know it runs from sunrise to sunset, and there was no sun yet; what is meant is that measure of time.",
+            "bn": "ফী সিত্তাতি আইয়াম: ছয়টি দিনে। এ আয়াতে ইবন কাসীর দুটি মত উল্লেখ করেন, কোনোটিকে বেছে নেন না। কেউ বলেছেন, দিনগুলো আমাদের এই দিনের মতোই। আবার কেউ বলেছেন, প্রতিটি দিন তোমাদের গণনার এক হাজার বছরের সমান। শেষের কথাটি ২২:৪৭ আয়াতের শব্দ। ৭:৫৪ আয়াতের আলোচনায় তিনি দীর্ঘ দিনের মতের পক্ষে মুজাহিদ ও ইমাম আহমাদের নাম নেন। মাআরিফুল কুরআন মনে করিয়ে দেয়, আমাদের চেনা দিন সূর্যোদয় থেকে সূর্যাস্ত পর্যন্ত। তখন সূর্যই ছিল না, তাই এখানে বোঝানো হয়েছে ততটুকু সময়ের পরিমাণ।"
+          },
+          {
+            "en": "As-Sa'di asks the other question, why a span at all. Allah was able to create them in a single moment, he says, but did it this way for a divine wisdom, and because He is rafiq, gentle and unhurried, in His acts. Part of that wisdom is that He created them with the truth and for the truth, so that He would be known by His names and attributes and be singled out in worship. The day-by-day reports, and why six, are taken up in the articles on 41:12 and 32:4.",
+            "bn": "সা'দী অন্য প্রশ্নটি তোলেন: আদৌ সময় নিলেন কেন? তিনি বলেন, আল্লাহ এক পলকেই সব সৃষ্টি করতে পারতেন। কিন্তু এভাবে করেছেন এক ঐশী হিকমতের কারণে, আর এজন্য যে তিনি তাঁর কাজে রাফীক, কোমল ও ধীরস্থির। সেই হিকমতের একটি অংশ হলো, তিনি এগুলো সত্যসহ এবং সত্যের জন্য সৃষ্টি করেছেন, যাতে তাঁর নাম ও গুণাবলি দিয়ে তাঁকে চেনা যায় আর একমাত্র তাঁরই ইবাদত হয়। দিনভিত্তিক বর্ণনা আর ছয়টি দিনের প্রশ্নের আলোচনা আছে ৪১:১২ ও ৩২:৪ আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Istawa, Each in His Words",
+          "bn": "ইসতাওয়া, যাঁর যেমন ভাষা"
+        },
+        "p": [
+          {
+            "en": "Thumma istawa 'ala al-'arsh: then He rose over the Throne. This clause concerns an attribute of Allah; the article reports the commentators and adds no reading of its own. At-Tabari, on this verse, says only that He rose over His Throne, managing the affairs; his editor's note points to his longer treatments earlier. The Muyassar glosses istawa as 'ala wa irtafa'a, He was high and rose, a rising that befits His majesty and greatness. As-Sa'di reads thumma as after creating the heavens and the earth, and says: a rising that befits His greatness.",
+            "bn": "সুম্মাসতাওয়া আলাল আরশ: তারপর তিনি আরশের উপর সমুন্নত হলেন। এটি আল্লাহর এক গুণের কথা। তাই এখানে তাফসীরকারদের লেখাই তুলে ধরা হচ্ছে, প্রবন্ধ নিজের কোনো ব্যাখ্যা যোগ করছে না। এ আয়াতে তাবারী শুধু বলেন, তিনি তাঁর আরশের উপর সমুন্নত হলেন, সব বিষয় পরিচালনা করে। সম্পাদকের টীকা দেখিয়ে দেয় গ্রন্থের আগের দীর্ঘ আলোচনা। মুয়াসসার ইসতাওয়ার অর্থ দেয় আলা ওয়া ইরতাফা‘আ: তিনি উঁচু হলেন ও ঊর্ধ্বে উঠলেন, এমনভাবে যা তাঁর মহিমা ও বড়ত্বের উপযুক্ত। সা'দী সুম্মা শব্দটি পড়েন আকাশ ও পৃথিবী সৃষ্টির পরে অর্থে, আর বলেন: তাঁর বড়ত্বের উপযুক্ত ইসতাওয়া।"
+          },
+          {
+            "en": "Ibn Kathir, on this verse, describes the Throne rather than the rising: it is the greatest of created things and their roof. His comment on the rising stands at 7:54, which has its own article. There he says people hold very many views on this point, and that the way followed is that of the righteous predecessors, among them Malik, al-Awza'i, ath-Thawri, al-Layth, ash-Shafi'i, Ahmad and Ishaq: passing it on as it came, without takyif, tashbih or ta'til, that is, without asking how, likening it to creation, or denying it.",
+            "bn": "এ আয়াতে ইবন কাসীর ইসতাওয়ার চেয়ে আরশের বর্ণনাই দেন: আরশ সবচেয়ে বড় সৃষ্টি, আর সব সৃষ্টির ছাদ। ইসতাওয়া নিয়ে তাঁর বক্তব্য আছে ৭:৫৪ আয়াতে, যার নিজস্ব প্রবন্ধ আছে। সেখানে তিনি বলেন, এ বিষয়ে মানুষের মত অনেক। আর অনুসরণ করা হয় সালাফে সালিহীনের পথ, যাঁদের মধ্যে আছেন মালিক, আওযাঈ, সাওরী, লাইস, শাফিঈ, আহমাদ ও ইসহাক। সে পথ হলো, যেভাবে এসেছে সেভাবেই মেনে নিয়ে এগিয়ে যাওয়া, তাকয়ীফ, তাশবীহ বা তা‘তীল ছাড়া। অর্থাৎ ধরন জিজ্ঞেস না করা, সৃষ্টির সঙ্গে তুলনা না করা, অর্থশূন্যও না করা।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, says only that the clause was treated in al-A'raf. At 7:54 he reports that he set out fourteen views in another book. He records the view he ascribes to most scholars and calls the theologians', that Allah is free of direction; then, that the first generations affirmed direction and none of them denied that He rose over His Throne in reality, while they did not know how. He quotes Malik: the rising is known, its how unknown.",
+            "bn": "এ আয়াতে কুরতুবী শুধু জানান, অংশটির আলোচনা সূরা আ‘রাফে হয়ে গেছে। ৭:৫৪ আয়াতে তিনি বলেন, অন্য এক গ্রন্থে তিনি চৌদ্দটি মত লিখেছেন। তিনি একটি মত উল্লেখ করেন, যা তাঁর ভাষায় বেশির ভাগ আলিমের এবং কালামশাস্ত্রবিদদের মত: আল্লাহ দিক থেকে পবিত্র। তারপর জানান, প্রথম যুগের মনীষীরা দিক সাব্যস্ত করতেন, আর তিনি যে প্রকৃতই আরশে সমুন্নত হয়েছেন তা তাঁদের কেউ অস্বীকার করেননি, যদিও তার ধরন তাঁরা জানতেন না। সঙ্গে তিনি ইমাম মালিকের কথা আনেন: ইসতাওয়া জানা, এর ধরন অজানা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, on this verse, counts the clause among the mutashabihat and cites 3:7. The belief of most scholars, it says, is to hold these words true in their place, to hold that what Allah means by them is right, and to set aside the question of their nature. Later scholars who offered meanings did so only as probabilities, and the plain course is that of the Companions, the Successors and the early generations, who entrusted the reality to Allah's knowledge. These formulations are not identical, and each is left here in its author's own words.",
+            "bn": "মাআরিফুল কুরআন এ আয়াতে অংশটিকে মুতাশাবিহাতের মধ্যে গণ্য করে এবং ৩:৭ আয়াত উদ্ধৃত করে। তার ভাষায়, বেশির ভাগ আলিমের আকীদা হলো, এ শব্দগুলো নিজ জায়গায় সত্য, এগুলো দিয়ে আল্লাহ যা বোঝান তা সঠিক, আর এর স্বরূপ জানার চিন্তা সরিয়ে রাখা। পরবর্তী যুগের যে আলিমরা কিছু অর্থ প্রস্তাব করেছেন, তাঁরা তা করেছেন কেবল সম্ভাবনা হিসেবে। সোজা পথ সাহাবা, তাবিঈন ও সালাফের পথ, যাঁরা এর প্রকৃত রূপ আল্লাহর জ্ঞানের উপর সোপর্দ করেছিলেন। এই ভাষ্যগুলো হুবহু এক নয়। প্রত্যেকটি এখানে তার লেখকের নিজের ভাষাতেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Decrees It Alone",
+          "bn": "ফয়সালা তাঁর একার"
+        },
+        "p": [
+          {
+            "en": "Yudabbiru al-amr: He arranges the matter. At-Tabari records Mujahid's gloss through five chains, each time in the same words: yaqdihi wahdah, He decrees it alone. Al-Qurtubi gives Mujahid as He decrees and measures it alone, and Ibn Abbas as no one shares with Him in managing His creation. At-Tabari's own paraphrase spells out what alone excludes: He decrees in His creation what He loves, no one opposes Him in His decree, no one comes after Him to revise His arranging, and no flaw enters His affairs.",
+            "bn": "ইউদাব্বিরুল আমর: তিনি সব বিষয় পরিচালনা করেন। তাবারী পাঁচটি সনদে মুজাহিদের ব্যাখ্যা আনেন, প্রতিবারই একই শব্দে: ইয়াকদীহি ওয়াহদাহ, তিনি একাই তার ফয়সালা করেন। কুরতুবীর বর্ণনায় মুজাহিদ বলেন, তিনি একাই তা ফয়সালা করেন ও পরিমাপ ঠিক করেন। আর ইবন আব্বাস (রাঃ) বলেন, সৃষ্টির পরিচালনায় কেউ তাঁর শরিক নয়। একা কথাটি কী কী বাদ দেয়, তাবারী নিজের ব্যাখ্যায় তা খুলে বলেন। তিনি সৃষ্টির মধ্যে যা পছন্দ করেন তা-ই ফয়সালা করেন। তাঁর ফয়সালার বিরোধিতা কেউ করতে পারে না। তাঁর পরিচালনা পরে এসে কেউ শুধরে দেয় না। তাঁর কাজে কোনো ত্রুটি ঢোকে না।"
+          },
+          {
+            "en": "Al-Qurtubi adds further glosses under it is said: He sends the command, He sends it down, He commands it and carries it out, and he says the meanings are close. He then names the angels through whom it is carried: Jibril for revelation, Mika'il for rain, Israfil for the Trumpet, and 'Azra'il for taking souls. On the word itself, he says tadbir is derived from dubur, the back or end of a thing, and that its reality is setting matters in their ranks according to what their outcomes require.",
+            "bn": "কুরতুবী 'বলা হয়' বলে আরও কয়েকটি ব্যাখ্যা যোগ করেন: তিনি আদেশ পাঠান, আদেশ নাজিল করেন, আদেশ দেন ও তা কার্যকর করেন। তাঁর মতে অর্থগুলো কাছাকাছি। তারপর তিনি সেই ফেরেশতাদের নাম বলেন, যাঁদের মাধ্যমে আদেশ বাস্তবায়িত হয়: ওয়াহীর জন্য জিবরীল, বৃষ্টির জন্য মীকাঈল, শিঙার জন্য ইসরাফীল, আর রূহ কবজের জন্য আযরাঈল। শব্দটি নিয়ে তিনি বলেন, তাদবীর এসেছে দুবুর থেকে, যার অর্থ কোনো কিছুর পেছন বা শেষ প্রান্ত। আর তাদবীরের প্রকৃত অর্থ হলো, পরিণতি যা দাবি করে সেই অনুযায়ী প্রতিটি বিষয়কে তার নিজ স্তরে বসানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Never Wearied by Asking",
+          "bn": "চাওয়ায় তিনি ক্লান্ত হন না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gives the clause its widest reach. He arranges the affairs of the creatures, and not a speck's weight escapes Him in the heavens or the earth, he says, citing 34:3. No affair distracts Him from another, the questions do not weigh on Him, the persistence of those who insist does not annoy Him, and arranging the great does not divert Him from the small. He joins 11:6, on provision for every creature, and 6:59, on the leaf that never falls unknown.",
+            "bn": "ইবন কাসীর অংশটিকে সবচেয়ে বিস্তৃত অর্থে পড়েন। তিনি সৃষ্টির সব বিষয় পরিচালনা করেন, আকাশ ও পৃথিবীতে অণু পরিমাণ কিছুও তাঁর অগোচরে থাকে না, বলে তিনি ৩৪:৩ আয়াত উদ্ধৃত করেন। এক কাজ তাঁকে অন্য কাজ থেকে অন্যমনস্ক করে না। প্রশ্নের ভিড় তাঁর উপর ভারী হয় না। নাছোড় প্রার্থনাকারীর পীড়াপীড়িতে তিনি বিরক্ত হন না। বড় বিষয় সামলাতে গিয়ে ছোট বিষয় তাঁর নজর এড়ায় না। এরপর তিনি জুড়ে দেন ১১:৬, প্রতিটি প্রাণীর রিজিকের কথা, আর ৬:৫৯, যে পাতাই ঝরে তিনি তা জানেন।"
+          },
+          {
+            "en": "As-Sa'di lists the matters by kind, in the upper world and the lower: causing death and giving life, sending down provision, turning the days among people, lifting harm from those it has struck, and answering those who ask. Every kind of arranging, he says, comes down from Him and goes up to Him, and all creation yields to His might. Beside Ibn Kathir's line about the persistent, this turns practical: asking a hundred times for the same thing wears nothing out on the other side.",
+            "bn": "সা'দী বিষয়গুলো ধরন অনুযায়ী সাজান, ঊর্ধ্বজগতে ও নিম্নজগতে: মৃত্যু দেওয়া ও জীবন দেওয়া, রিজিক নাজিল করা, মানুষের মধ্যে দিনের পালাবদল ঘটানো, বিপদগ্রস্তের বিপদ দূর করা, প্রার্থনাকারীর প্রার্থনায় সাড়া দেওয়া। তাঁর ভাষায়, সব রকম পরিচালনা তাঁর কাছ থেকে নামে, আবার তাঁর কাছেই ওঠে। গোটা সৃষ্টি তাঁর প্রতাপের সামনে নত। নাছোড় প্রার্থনাকারী নিয়ে ইবন কাসীরের কথাটির পাশে রাখলে বিষয়টা একেবারে দৈনন্দিন হয়ে যায়: একই জিনিস একশো বার চাইলেও ওপারে কিছুই ফুরিয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speaking Only When Permitted",
+          "bn": "অনুমতি পেলে তবেই কথা"
+        },
+        "p": [
+          {
+            "en": "Ma min shafi'in illa min ba'di idhnih: there is no intercessor except after His permission. At-Tabari places it on the Day of Resurrection: no intercessor intercedes with Him for anyone until He permits the intercession. Al-Qurtubi says no one, prophet or other, intercedes except by His leave, and names whom the clause answers. It is a reply to the disbelievers who said of what they worshipped besides Allah, these are our intercessors with Allah, the claim this surah quotes at 10:18. If no one intercedes for anyone without His leave, al-Qurtubi asks, what then of idols that do not reason?",
+            "bn": "মা মিন শাফী‘ইন ইল্লা মিন বা‘দি ইযনিহ: তাঁর অনুমতির পর ছাড়া কোনো সুপারিশকারী নেই। তাবারী একে কিয়ামতের দিনের সঙ্গে যুক্ত করেন: সেদিন কোনো সুপারিশকারী কারও জন্য তাঁর কাছে সুপারিশ করবে না, যতক্ষণ না তিনি সুপারিশের অনুমতি দেন। কুরতুবী বলেন, নবী হোন বা অন্য কেউ, তাঁর অনুমতি ছাড়া কেউ সুপারিশ করতে পারে না। তারপর তিনি জানান, অংশটি কাদের জবাব। আল্লাহকে ছেড়ে যাদের পূজা করত, কাফিররা তাদের সম্পর্কে বলত: এরা আল্লাহর কাছে আমাদের সুপারিশকারী। এ সূরাই ১০:১৮ আয়াতে দাবিটি উদ্ধৃত করেছে। কুরতুবীর প্রশ্ন, তাঁর অনুমতি ছাড়া কেউ যখন কারও জন্য সুপারিশ করতে পারে না, তখন বোধহীন মূর্তির সুপারিশের কী দাম?"
+          },
+          {
+            "en": "Al-Baghawi makes the reply particular. It answers an-Nadr ibn al-Harith, he says, who used to claim that on the Day of Resurrection al-Lat and al-'Uzza would intercede for him; he gives no chain for it. The verse answers what the text says was claimed, and it licenses nothing against any living person. It denies an intercessor who steps forward on his own standing. The same Qur'an affirms intercession that comes by permission, in 2:255, who could intercede with Him except by His leave, and in 20:109, where intercession benefits only one whom the Most Merciful has permitted and whose word He approves.",
+            "bn": "বাগাভী জবাবটিকে নির্দিষ্ট একজনের দিকে ফেরান। তাঁর মতে এটি নাদর ইবনুল হারিসের জবাব, যে বলে বেড়াত কিয়ামতের দিন লাত ও উযযা তার জন্য সুপারিশ করবে। এর কোনো সনদ তিনি দেন না। আয়াত জবাব দেয় সেই দাবির, যা পাঠ্যে উল্লেখ আছে। আজকের কোনো জীবিত মানুষের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। আয়াত যা নাকচ করে তা হলো এমন সুপারিশকারী, যে নিজের মর্যাদার জোরে এগিয়ে আসে। অনুমতিসাপেক্ষ সুপারিশ এই কুরআনই সাব্যস্ত করে। ২:২৫৫ আয়াতে আছে, তাঁর অনুমতি ছাড়া কে তাঁর কাছে সুপারিশ করবে? আর ২০:১০৯ আয়াতে আছে, সেদিন সুপারিশ কাজে আসবে শুধু তার, যাকে পরম দয়াময় অনুমতি দেন এবং যার কথায় তিনি সন্তুষ্ট।"
+          },
+          {
+            "en": "As-Sa'di states the conditions. No one, even the best of creation, steps forward to intercede until Allah permits, and He permits only for whoever He is pleased with, and He is pleased only with the people of sincerity and tawhid. Ibn Kathir sets the clause beside 2:255; 53:26, on the angels whose intercession avails nothing until Allah gives leave; and 34:23. 2:255 and 32:4 have their own articles, and 10:28, a few verses on, shows the claimed intercessors disowning their worshippers.",
+            "bn": "সা'দী শর্তগুলো বলে দেন। সৃষ্টির শ্রেষ্ঠ জনও আল্লাহর অনুমতি ছাড়া সুপারিশে এগোবেন না। তিনি অনুমতি দেন কেবল তার জন্য, যার উপর তিনি সন্তুষ্ট। আর তিনি সন্তুষ্ট কেবল ইখলাস ও তাওহীদের লোকদের উপর। ইবন কাসীর অংশটির পাশে রাখেন ২:২৫৫, ৫৩:২৬ আর ৩৪:২৩ আয়াত। ৫৩:২৬ আয়াত বলে, আকাশে বহু ফেরেশতা আছে, আল্লাহ অনুমতি না দেওয়া পর্যন্ত যাদের সুপারিশ কোনো কাজে আসে না। ২:২৫৫ ও ৩২:৪ আয়াতের আলাদা প্রবন্ধ আছে। আর কয়েক আয়াত পরে ১০:২৮ দেখায়, কল্পিত সুপারিশকারীরা তাদের উপাসকদের অস্বীকার করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembering What You Know",
+          "bn": "যা জানেন, তা মনে করা"
+        },
+        "p": [
+          {
+            "en": "Dhalikumu Allahu rabbukum fa'buduh: that is Allah, your Lord, so worship Him. At-Tabari reads that as pointing back over the whole description. He who has these attributes is your master and patron, not the gods and idols that neither hear nor see nor arrange nor decree. Make the worship sincere, he says, and single Him out in divinity and lordship. As-Sa'di says the name Allah carries divinity, which gathers the attributes of perfection, and Lord carries lordship, which gathers the attributes of action; worship means singling Him out with every kind of servitude you are able to give.",
+            "bn": "যালিকুমুল্লাহু রাব্বুকুম ফা‘বুদূহ: তিনিই আল্লাহ, তোমাদের রব, অতএব তাঁর ইবাদত কর। তাবারীর মতে যালিকুম শব্দটি পুরো বর্ণনার দিকে ফিরে ইঙ্গিত করে। এসব গুণ যাঁর, তিনিই তোমাদের মালিক ও অভিভাবক। সেই দেবদেবী ও মূর্তি নয়, যারা শোনে না, দেখে না, পরিচালনা করে না, ফয়সালাও করে না। তিনি বলেন, ইবাদত খাঁটি কর, আর উলূহিয়্যাত ও রুবূবিয়্যাত তাঁর জন্যই নির্দিষ্ট কর। সা'দী বলেন, আল্লাহ নামটি বহন করে উলূহিয়্যাত, যা সব পূর্ণতার গুণ ধারণ করে। আর রব শব্দটি বহন করে রুবূবিয়্যাত, যা তাঁর কাজের গুণগুলো ধারণ করে। ইবাদত মানে, বান্দেগির যত রকম আপনার সাধ্যে আছে, সব তাঁর জন্য নির্দিষ্ট করা।"
+          },
+          {
+            "en": "Afala tadhakkarun: will you not then remember? Ibn Kathir hears it addressed to the idolaters, who worship others with Allah while knowing that He alone creates, and cites 43:87, if you asked them who created them they would say Allah, and 23:86 and 23:87. At-Tabari reads it as: will you not take admonition from these signs and proofs, turn to submit to His oneness, and cast off the rivals? Al-Qurtubi: remember that these are His creations, so that you reason from them to Him. Remembering here means drawing the conclusion from what is already known.",
+            "bn": "আফালা তাযাক্কারূন: তবুও কি তোমরা মনে করবে না? ইবন কাসীর এ প্রশ্নকে মুশরিকদের উদ্দেশে বলা কথা হিসেবে শোনেন। তারা আল্লাহর সঙ্গে অন্যের ইবাদত করে, অথচ জানে যে সৃষ্টি তিনি একাই করেছেন। তিনি উদ্ধৃত করেন ৪৩:৮৭, তাদের জিজ্ঞেস করলে কে তাদের সৃষ্টি করেছে, তারা বলবে আল্লাহ। সঙ্গে আনেন ২৩:৮৬ ও ২৩:৮৭। তাবারী পড়েন এভাবে: এসব নিদর্শন ও প্রমাণ থেকে কি তোমরা উপদেশ নেবে না, তাঁর একত্ব মেনে নিতে ফিরে আসবে না, শরিকদের ছুড়ে ফেলবে না? কুরতুবীর ব্যাখ্যা: মনে কর যে এগুলো তাঁর সৃষ্টি, যাতে এগুলো থেকে তাঁর দিকে পৌঁছাতে পার। এখানে মনে করা মানে, যা আগে থেকেই জানা তা থেকে সিদ্ধান্তে পৌঁছানো।"
+          },
+          {
+            "en": "None of the commentators fetched for this verse attaches a sound hadith to it, so none is quoted here. The verse leaves a short chain of questions for an ordinary day. Who made what I see? Who arranges what I cannot control? Who may speak for me, and on whose permission? If the answers are already Allah, Allah, and no one except by His leave, then what remains is the step the verse asks for, worship Him, and the only question is whether I have taken it.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি। আয়াতটি রেখে যায় সাধারণ দিনের জন্য ছোট কয়েকটি প্রশ্ন। যা দেখছি, তা কে বানিয়েছেন? যা আমার হাতে নেই, তা কে পরিচালনা করেন? আমার হয়ে কে কথা বলতে পারে, কার অনুমতিতে? উত্তরগুলো যদি আগে থেকেই হয় আল্লাহ, আল্লাহ, আর তাঁর অনুমতি ছাড়া কেউ নয়, তবে বাকি থাকে শুধু সেই ধাপ, যা আয়াত চাইছে: তাঁর ইবাদত। প্রশ্ন কেবল এটুকু, সে ধাপ আমি নিয়েছি কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "10:5": {
     "sections": [
       {

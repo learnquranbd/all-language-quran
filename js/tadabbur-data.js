@@ -21411,6 +21411,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give as one being washed and made to grow, not as one being taxed; and when anything is given to you, send the giver away with a prayer.",
     "lessonBn": "কর মেটানোর মতো নয়, বরং ধুয়ে-মুছে বেড়ে ওঠার আশায় দান করুন; আর কেউ আপনাকে কিছু দিলে দোয়া দিয়ে তাকে বিদায় দিন।"
+  },
+  "10:3": {
+    "reflectionEn": "The verse before this one records a charge: a man from among them brings revelation, so he must be a magician. This verse does not argue about the man. It points past him to the One who sent him: your Lord is Allah, who made the heavens and the earth, rose over the Throne, and arranges every matter. No one speaks for anyone before Him unless He gives leave. Then the conclusion is drawn for us: that is your Lord, so worship Him. The closing question brings no new information. Will you not remember? Most of us already know who made the sky. The test is whether that knowledge decides where we take our needs, our fears and our worship.",
+    "reflectionBn": "আগের আয়াতে একটা অভিযোগের কথা আছে: তাদেরই একজন মানুষ ওয়াহী নিয়ে এসেছে, অতএব সে নিশ্চয়ই জাদুকর। এ আয়াত মানুষটিকে নিয়ে তর্কে যায় না। দৃষ্টি সরিয়ে নিয়ে যায় তাঁর দিকে, যিনি তাঁকে পাঠিয়েছেন। আপনাদের রব আল্লাহ। তিনি আকাশ ও পৃথিবী বানিয়েছেন, আরশের উপর সমুন্নত হয়েছেন, আর সব বিষয় তিনিই পরিচালনা করেন। তাঁর অনুমতি ছাড়া কেউ কারও হয়ে তাঁর কাছে মুখ খুলতে পারে না। তারপর উপসংহারটা আমাদের সামনে রাখা হয়: তিনিই তোমাদের রব, অতএব তাঁরই ইবাদত কর। শেষের প্রশ্নে নতুন কোনো তথ্য নেই। তোমরা কি মনে করবে না? আকাশ কে বানিয়েছেন, আমাদের বেশির ভাগই তা জানি। পরীক্ষা হলো, এই জানা আমাদের প্রয়োজন, ভয় আর ইবাদতকে কোথায় নিয়ে যায়।",
+    "pointsEn": [
+      "Which matter in my life do I carry as though I must arrange it alone, when the verse says He arranges the matter?",
+      "When I want something from Allah, do I ask Him directly, or first look for someone whose standing I hope will carry my request?",
+      "What do I already know about Allah that has not yet changed how I spend a single day?",
+      "Have I ever stopped asking because I felt I had asked too often, and what would change if I believed that asking does not weary Him?",
+      "When someone mocks the message, do I argue about the messenger, or point, as this verse does, to the One who sent it?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন বিষয়টা আমি এমনভাবে বয়ে বেড়াই, যেন সব আমাকেই একা সামলাতে হবে? অথচ আয়াত বলছে, সব বিষয় তিনিই পরিচালনা করেন।",
+      "আল্লাহর কাছে কিছু চাইলে আমি কি সরাসরি তাঁর কাছেই চাই, নাকি আগে এমন কাউকে খুঁজি যার মর্যাদার জোরে আমার আবেদন পৌঁছে যাবে বলে আশা করি?",
+      "আল্লাহ সম্পর্কে এমন কী আমি জানি, যা আজও আমার একটা দিন কাটানোর ধরন বদলায়নি?",
+      "বেশি চেয়ে ফেলেছি ভেবে আমি কি কখনো চাওয়া বন্ধ করে দিয়েছি? যদি বিশ্বাস করতাম যে বারবার চাওয়ায় তিনি ক্লান্ত হন না, তাহলে কী বদলাত?",
+      "কেউ দাওয়াত নিয়ে ঠাট্টা করলে আমি কি বাহককে নিয়ে তর্ক জুড়ি, নাকি এ আয়াতের মতো তাঁর দিকে ইঙ্গিত করি, যিনি তা পাঠিয়েছেন?"
+    ],
+    "lessonEn": "Your Lord made the heavens, rose over the Throne and arranges every matter; let that knowledge decide where you take your worship and your needs.",
+    "lessonBn": "আপনার রব আকাশ বানিয়েছেন, আরশের উপর সমুন্নত হয়েছেন এবং সব বিষয় পরিচালনা করেন। এই জানা ঠিক করে দিক, আপনার ইবাদত আর প্রয়োজন আপনি কার কাছে নিয়ে যাবেন।"
   }
 };
 
