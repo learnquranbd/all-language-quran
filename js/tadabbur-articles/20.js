@@ -1023,6 +1023,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Favour From Before Memory",
+          "bn": "স্মৃতির আগের অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "Idh awhayna ila ummika ma yuha: when We inspired to your mother what was inspired. The verse opens with idh, when, and leans on the line before it. Musa (AS) has just been told that his requests are granted (20:36), and Allah adds, wa laqad mananna 'alayka marratan ukhra, We had already conferred favour on you another time (20:37). Ibn Kathir reads the passage as two things at once: an answer to what Musa asked of his Lord, and a reminder of the favours that went before. The first he names is the favour in this verse.",
+            "bn": "ইয আওহাইনা ইলা উম্মিকা মা ইউহা: যখন আমি তোমার মায়ের প্রতি ওহি পাঠিয়েছিলাম, যা ওহি করার ছিল। আয়াতের শুরু ইয শব্দে, যার মানে ‘যখন’। কথাটা আগের আয়াতের সঙ্গে জোড়া। মূসা (আঃ)-কে এইমাত্র জানানো হয়েছে, তাঁর সব চাওয়া কবুল (২০:৩৬)। তারপর আল্লাহ বলেন, ওয়া লাকাদ মানান্না আলাইকা মাররাতান উখরা: আমি তো আরেকবারও তোমার উপর অনুগ্রহ করেছিলাম (২০:৩৭)। ইবন কাসীর পুরো অংশটাকে একসঙ্গে দুই জিনিস হিসেবে পড়েন। মূসা রবের কাছে যা চেয়েছিলেন, এটা তার জবাব, আবার আগের অনুগ্রহগুলোর স্মরণও। সেই অনুগ্রহের তালিকায় প্রথমটিই এ আয়াতে।"
+          },
+          {
+            "en": "The other commentators gloss the word for favour without strain. At-Tabari explains mananna as tatawwalna: We were bountiful to you, O Musa, once before this time. Al-Baghawi says an'amna, We blessed you. Al-Qurtubi defines al-mann as ihsan and ifdal, kindness and generous giving, and he names the earlier favour: Allah's protection of Musa from the evil of his enemies at the very start, at the time of the slaughter. He closes the note with wallahu a'lam, and Allah knows best.",
+            "bn": "অনুগ্রহ বোঝাতে যে শব্দ, বাকি তাফসীরকারেরা তা সহজভাবেই ব্যাখ্যা করেন। তাবারী মানান্না-র অর্থ করেন তাতাওয়ালনা: হে মূসা, এর আগেও একবার আমি তোমার প্রতি দানের হাত বাড়িয়েছিলাম। বাগাভী বলেন আনআমনা, আমি তোমাকে নিয়ামত দিয়েছিলাম। কুরতুবী আল-মান্ন-এর সংজ্ঞা দেন ইহসান ও ইফদাল, অর্থাৎ সদয় আচরণ আর উদার দান। আগের অনুগ্রহটা কী, তাও তিনি বলে দেন: একেবারে শুরুতে, শিশুহত্যার সেই সময়ে, শত্রুদের অনিষ্ট থেকে আল্লাহ মূসাকে রক্ষা করেছিলেন। কথাটা তিনি শেষ করেন ওয়াল্লাহু আলাম বলে, আর আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nursing in the Killing Year",
+          "bn": "হত্যার বছরে দুধের শিশু"
+        },
+        "p": [
+          {
+            "en": "At-Tabari fixes the moment in a single clause: Allah inspired her when she had given birth to Musa in the year in which Pharaoh was killing every male newborn of Musa's people. Ibn Kathir adds the picture of a mother at the breast. She was nursing him and afraid that Pharaoh and his chiefs would kill him, because he had been born in the year they were killing the boys. As-Sa'di says she hid him and feared for him intensely, since Pharaoh had ordered the sons of the Children of Israel slaughtered.",
+            "bn": "তাবারী এক বাক্যে সময়টা ধরিয়ে দেন। যে বছর ফেরাউন মূসার কওমের প্রতিটি নবজাত ছেলেকে হত্যা করছিল, সে বছরই তিনি মূসাকে জন্ম দেন, আর তখনই আল্লাহ তাঁর প্রতি ওহি পাঠান। ইবন কাসীর ছবিটায় যোগ করেন বুকের দুধ খাওয়ানো এক মাকে। তিনি ছেলেকে দুধ খাওয়াচ্ছিলেন আর ভয় পাচ্ছিলেন, ফেরাউন ও তার সভাসদরা তাকে মেরে ফেলবে। কারণ ছেলেটির জন্ম হয়েছিল ঠিক সেই বছর, যে বছর তারা ছেলে শিশুদের হত্যা করছিল। সা'দী বলেন, মা তাকে লুকিয়ে রেখেছিলেন আর তাকে নিয়ে ভীষণ ভয়ে ছিলেন, কেননা ফেরাউন বনী ইসরাঈলের ছেলেদের জবাই করার হুকুম দিয়েছিল।"
+          },
+          {
+            "en": "One thing must be said plainly. The verse recalls what one regime did in one land at one time: Pharaoh, his chiefs and their order to kill newborn boys, which the Qur'an condemns. It describes what the text describes, and it licenses nothing against any living person or community, the people of Egypt today or anyone else. The story asks the reader to recognise oppression and to trust Allah under it, not to look for an enemy among the people who live beside him.",
+            "bn": "একটা কথা সোজাসুজি বলে রাখা দরকার। আয়াতটি মনে করিয়ে দেয় এক দেশে, এক সময়ে, এক শাসকগোষ্ঠীর কাজ: ফেরাউন, তার সভাসদ আর নবজাত ছেলেদের হত্যার সেই হুকুম, যার নিন্দা কুরআন নিজেই করেছে। আয়াতে যা বর্ণিত, আয়াত কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এতে নেই, আজকের মিসরবাসীর বিরুদ্ধে নয়, আর কারও বিরুদ্ধেও নয়। কাহিনিটি পাঠককে শেখায় জুলুম চিনতে আর জুলুমের মধ্যেও আল্লাহর উপর ভরসা রাখতে। পাশের মানুষের মধ্যে শত্রু খুঁজতে শেখায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heart, Dream, or Messenger",
+          "bn": "অন্তর, স্বপ্ন, নাকি বার্তা"
+        },
+        "p": [
+          {
+            "en": "What kind of wahy was this? Al-Qurtubi gives three answers and does not choose between them. It is said, he writes, that awhayna means alhamna, We inspired her, the word used for a prompting placed in the heart. It is said, too, that the message came to her in her sleep. And Ibn Abbas, he reports, said: He revealed to her as He revealed to the prophets. Al-Qurtubi sets the three side by side and adds no ruling of his own, and the question is best left where he left it.",
+            "bn": "এ ওহি কোন ধরনের ছিল? কুরতুবী তিনটি উত্তর দেন, কোনোটিকে বেছে নেন না। বলা হয়, আওহাইনা মানে আলহামনা, আমি তাঁকে ইলহাম করেছিলাম। অন্তরে ঢেলে দেওয়া কথাকে এ শব্দেই বোঝানো হয়। এও বলা হয়, বার্তাটা তাঁর কাছে এসেছিল ঘুমের মধ্যে। আর ইবন আব্বাস বলেছেন, কুরতুবীর বর্ণনায়: নবীদের কাছে যেভাবে ওহি পাঠিয়েছেন, তাঁর কাছেও সেভাবে পাঠিয়েছেন। তিনটি মত তিনি পাশাপাশি রেখে দেন, নিজে কোনো রায় দেন না। প্রশ্নটা তিনি যেখানে রেখে গেছেন, সেখানেই রাখা ভালো।"
+          },
+          {
+            "en": "The other commentaries fetched for this verse take the first sense as plain. Al-Baghawi calls it wahy ilham, the wahy of inspiration, and glosses ma yuha as ma yulham, what is inspired. The Muyassar opens with hina alhamna ummaka, when We inspired your mother, and as-Sa'di uses the same verb. Ibn Kathir, too, speaks of what Allah had alhama, inspired, in Musa's mother while she nursed him. None of them goes further and describes how the inspiration reached her.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার বাকিগুলো প্রথম অর্থটাকেই সোজা ধরে নেয়। বাগাভী একে বলেন ওয়াহয়ু ইলহাম, অর্থাৎ ইলহামের ওহি, আর মা ইউহা-র অর্থ করেন মা ইউলহাম: যা অন্তরে ঢেলে দেওয়া হয়। মুয়াসসার শুরু করে হীনা আলহামনা উম্মাকা দিয়ে, যখন আমি তোমার মায়ের অন্তরে ইলহাম করেছিলাম। সা'দীও একই ক্রিয়া ব্যবহার করেন। ইবন কাসীরও বলেন, দুধ খাওয়ানোর দিনগুলোতে আল্লাহ মূসার মায়ের অন্তরে কী ইলহাম করেছিলেন। ইলহামটা ঠিক কীভাবে তাঁর কাছে পৌঁছাল, তাঁদের কেউ এর বেশি বলেন না।"
+          },
+          {
+            "en": "The line from Ibn Abbas needs careful reading. As al-Qurtubi records it, it speaks of the manner of the message, as He revealed to the prophets. It says nothing about her rank, and none of the texts fetched for this verse calls her a prophet. Ma'arif al-Qur'an says outright that the word here does not mean she was a prophet, and it is the only fetched commentary that explains where it draws the line. That explanation is worth following step by step.",
+            "bn": "ইবন আব্বাসের কথাটা সাবধানে পড়া দরকার। কুরতুবী যেভাবে এনেছেন, তাতে কথা হচ্ছে বার্তা আসার ধরন নিয়ে: নবীদের কাছে যেভাবে আসে। তাঁর মর্যাদা নিয়ে এতে কিছু বলা নেই। এ আয়াতের যত তাফসীর দেখা হয়েছে, কোনোটিই তাঁকে নবী বলে না। মাআরিফুল কুরআন স্পষ্ট বলে দেয়, এখানকার শব্দ থেকে তিনি নবী ছিলেন এমন বোঝায় না। সীমারেখাটা কোথায়, তাও ব্যাখ্যা করে দেখা তাফসীরগুলোর মধ্যে কেবল এটিই। সেই ব্যাখ্যাটা ধাপে ধাপে দেখে নেওয়া যাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Wider Than Prophethood",
+          "bn": "নবুওয়াতের চেয়ে প্রশস্ত শব্দ"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an starts from the word itself. Literally, it says, wahy is a secret message understood only by the person to whom it is addressed. In that sense the word is not restricted to prophets; it can be used of people at large and even of animals. Its example is awha rabbuka ila an-nahl, your Lord inspired the bee (16:68), where the word means instructing the bees. Here, it says, awhayna ila ummika carries the same general sense, and it does not mean that she was a prophet.",
+            "bn": "মাআরিফুল কুরআন শুরু করে শব্দটা থেকেই। আভিধানিক অর্থে ওহি হলো গোপন বার্তা, যাকে বলা হয় কেবল সে-ই তা বোঝে। এ অর্থে শব্দটা নবীদের জন্য সীমাবদ্ধ নয়। সাধারণ মানুষের বেলায়, এমনকি প্রাণীর বেলায়ও এর ব্যবহার আছে। উদাহরণ হিসেবে মাআরিফুল কুরআন আনে আওহা রব্বুকা ইলান নাহল: তোমার রব মৌমাছিকে ওহি করলেন (১৬:৬৮)। সেখানে শব্দটার মানে মৌমাছিকে পথ দেখানো। এখানেও আওহাইনা ইলা উম্মিকা সেই সাধারণ অর্থে, আর এর মানে এই নয় যে তিনি নবী ছিলেন।"
+          },
+          {
+            "en": "It then compares her with Maryam (AS), who also received messages from Allah, though, Ma'arif says, the scholars unanimously hold that she was not a prophet. Wahy of this kind, it explains, is ilham: Allah puts an idea into someone's heart and then settles that person in the conviction that it is from Him. It adds that Abu Hayyan and some other scholars hold that such inspiration can sometimes come through angels, as it did for Maryam when Jibril (AS) appeared to her in human form.",
+            "bn": "এরপর মাআরিফুল কুরআন তাঁকে মারইয়াম (আঃ)-এর সঙ্গে তুলনা করে। মারইয়ামও আল্লাহর কাছ থেকে বার্তা পেয়েছিলেন, অথচ এ তাফসীরের ভাষায়, তিনি নবী ছিলেন না, এ ব্যাপারে আলেমরা একমত। এ ধরনের ওহিকে বলা হয় ইলহাম। আল্লাহ কারও অন্তরে একটা ভাবনা জাগিয়ে দেন, তারপর তার মনে এই বিশ্বাস পাকা করে দেন যে কথাটা তাঁরই কাছ থেকে। মাআরিফুল কুরআন আরও জানায়, আবু হাইয়ান ও আরও কিছু আলেমের মতে এমন ইলহাম কখনো ফেরেশতার মাধ্যমেও আসে। মারইয়ামের বেলায় তা-ই হয়েছিল, যখন জিবরাঈল (আঃ) মানুষের রূপে তাঁর সামনে এসেছিলেন।"
+          },
+          {
+            "en": "The line it draws turns on purpose. Inspiration of this kind, Ma'arif says, belongs to whoever receives it and is not meant for the public or for spreading the faith. The wahy given to a prophet appoints him to reform people and call them to the truth, and binds others to accept it. The literal kind has always existed, it says, while prophethood and its wahy ended with the Prophet ﷺ, the last of them. Her message, in that light, was for her alone.",
+            "bn": "মাআরিফুল কুরআন সীমারেখাটা টানে উদ্দেশ্য দিয়ে। এ ধরনের ইলহাম যে পায় কেবল তার জন্য, জনসাধারণের জন্য নয়, দীন প্রচারের জন্যও নয়। নবীর কাছে যে ওহি আসে, তা তাঁকে মানুষকে সংশোধন করার আর সত্যের দিকে ডাকার দায়িত্ব দেয়, আর অন্যদের জন্য তা মেনে নেওয়া জরুরি করে দেয়। এ তাফসীর বলে, আভিধানিক অর্থের ওহি সব কালেই ছিল, কিন্তু নবুওয়াত আর নবুওয়াতের ওহি শেষ হয়ে গেছে শেষ নবী মুহাম্মাদ ﷺ-এর মাধ্যমে। সেই আলোয় দেখলে মূসার মায়ের বার্তাটা ছিল একান্ত তাঁরই জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back, Then Spelled Out",
+          "bn": "আগে আড়াল, পরে খোলাসা"
+        },
+        "p": [
+          {
+            "en": "Ma yuha, what was inspired, holds the content back for a moment. At-Tabari explains how the sentence then fills it in. Allah, he says, went on to explain what He had inspired to her: it was an iqdhifihi fi at-tabut, that you cast him into the chest. Grammatically, he notes, that an in the next verse stands in the accusative as a restatement of the ma in ma yuha, a rendering of it. Al-Baghawi says the same in fewer words: then He explained that inspiration and went on counting His favours.",
+            "bn": "মা ইউহা, যা ওহি করা হয়েছিল: কথাটা এক মুহূর্তের জন্য বিষয়বস্তু আড়ালে রাখে। তাবারী দেখান, বাক্যটা তারপর কীভাবে সেই ফাঁক পূরণ করে। তাঁর ভাষায়, আল্লাহ এরপর খুলে বলেছেন মাকে কী ওহি করেছিলেন: আনিকযিফীহি ফিত তাবূত, তাকে সিন্দুকে রাখো। ব্যাকরণের দিক থেকে তিনি বলেন, পরের আয়াতের এই আন নসবের অবস্থানে আছে, মা ইউহা-র মা-কে সে নতুন করে বলে দিচ্ছে, যেন তারই অনুবাদ। বাগাভী একই কথা বলেন আরও সংক্ষেপে: তারপর আল্লাহ সেই ইলহামের ব্যাখ্যা দিলেন আর তাঁর অনুগ্রহগুলো একে একে গুনে চললেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an points to the kind of knowledge it was. What Musa's mother was told, it says, could be learned only through revelation: that to save her son she should put him in a box and set it on the river, and that she need not fear, because Allah would protect him and return him to her. No one reaches that by guesswork, it says; the promise and the plan were beyond human reckoning. What the chest and the river meant belongs to 20:39, and the return to 20:40.",
+            "bn": "মাআরিফুল কুরআন মনোযোগ দেয় জ্ঞানটার ধরনে। এ তাফসীর বলে, মূসার মাকে যা জানানো হয়েছিল, ওহি ছাড়া তা জানার উপায় ছিল না। ছেলেকে বাঁচাতে তাকে একটা বাক্সে রেখে নদীতে ভাসিয়ে দিতে হবে। আর ভয়ের কিছু নেই, কারণ আল্লাহ তাকে রক্ষা করবেন, তাঁর কাছে ফিরিয়েও দেবেন। অনুমান করে কেউ এ কথায় পৌঁছায় না। আল্লাহর ওয়াদা আর শিশুটিকে বাঁচানোর পরিকল্পনা মানুষের হিসাবের বাইরে। সিন্দুক আর নদীর কথা ২০:৩৯ আয়াতের বিষয়, আর মায়ের কোলে ফেরার কথা ২০:৪০ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known Only as His Mother",
+          "bn": "পরিচয় শুধু ‘তোমার মা’"
+        },
+        "p": [
+          {
+            "en": "This verse does not give her a name; it calls her ummika, your mother. Ma'arif al-Qur'an collects what later books report, and those reports do not agree, so they are given here only as reports. It says that Ruh al-Ma'ani gives her name as Yuhanadh, that al-Itqan calls her Lihyana daughter of Yasmad ibn Lawi, and that others say Barkha or Bazakht. These forms come from that commentary's own citations; nothing else fetched for this verse confirms any of them.",
+            "bn": "এ আয়াত তাঁর নাম বলে না, তাঁকে ডাকে উম্মিকা, তোমার মা বলে। পরবর্তী কালের বইপত্রে কী আছে, মাআরিফুল কুরআন তা জড়ো করেছে। বর্ণনাগুলো একমত নয়, তাই এখানে সেগুলো কেবল বর্ণনা হিসেবেই থাকছে। এ তাফসীর জানায়, রূহুল মাআনীতে তাঁর নাম ইউহানায, আল-ইতকানে লিহয়ানা বিনতে ইয়াসমাদ ইবন লাভি। অন্য কেউ বলেন বারখা, কেউ বলেন বাযাখত। নামগুলো এসেছে ওই তাফসীরের নিজের উদ্ধৃতি থেকে। এ আয়াতের জন্য দেখা আর কোনো সূত্র এর একটিকেও সমর্থন করে না।"
+          },
+          {
+            "en": "Ma'arif adds a warning drawn from Ruh al-Ma'ani. Some people who deal in charms and amulets claim strange powers for her name, and that work, it says, finds no basis for the belief and judges it most likely a hoax to entice the innocent. The verse's own way of speaking is the better guide. Allah calls her by what she is to the one He is addressing, and in this passage that is honour enough: she is remembered by the child she placed in His keeping.",
+            "bn": "মাআরিফুল কুরআন রূহুল মাআনী থেকে একটা সতর্কবাণীও আনে। তাবিজ-কবজের কারবারিদের কেউ কেউ তাঁর নামের নানা আজব গুণের কথা বলে। রূহুল মাআনীর মতে এ বিশ্বাসের কোনো ভিত্তি নেই, খুব সম্ভব এটা সরল মানুষকে ফাঁদে ফেলার ছল। আয়াতের নিজের বলার ধরনটাই বরং ভালো পথ দেখায়। আল্লাহ যাঁর সঙ্গে কথা বলছেন, তাঁর সঙ্গে সম্পর্ক ধরেই মাকে ডাকেন। এ অংশে সেটুকুই যথেষ্ট সম্মান। তাঁকে মনে রাখা হয় সেই সন্তানের সূত্রে, যাকে তিনি আল্লাহর হেফাজতে তুলে দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kinder Than Any Mother",
+          "bn": "যে কোনো মায়ের চেয়ে দয়ালু"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. What follows is a general narration on Allah's mercy, not a report about this verse or about the mother of Musa (AS). It is placed here because it speaks of a mother and her child, and of Him who is more merciful still. Al-Bukhari records it in his Sahih, number 5999, from Umar ibn al-Khattab, and it is given here in full.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। নিচের বর্ণনাটি আল্লাহর রহমত নিয়ে একটি সাধারণ হাদীস। এ আয়াত বা মূসা (আঃ)-এর মাকে নিয়ে এটি বর্ণিত হয়নি। এখানে আনা হয়েছে, কারণ এতে আছে এক মা আর তার সন্তানের কথা, আর তাঁর কথা, যিনি তার চেয়েও বেশি দয়ালু। ইমাম বুখারী তাঁর সহীহ গ্রন্থে, ৫৯৯৯ নম্বরে, উমর ইবনুল খাত্তাব (রাঃ) থেকে হাদীসটি এনেছেন। এখানে তা পুরোটাই দেওয়া হলো।"
+          },
+          {
+            "en": "\"Some Sabi (i.e. war prisoners, children and woman only) were brought before the Prophet (ﷺ) and behold, a woman amongst them was milking her breasts to feed and whenever she found a child amongst the captives, she took it over her chest and nursed it (she had lost her child but later she found him) the Prophet said to us, 'Do you think that this lady can throw her son in the fire?' We replied, 'No, if she has the power not to throw it (in the fire).' The Prophet (ﷺ) then said, 'Allah is more merciful to His slaves than this lady to her son.'\"",
+            "bn": "“নবী ﷺ-এর কাছে কিছু যুদ্ধবন্দী আনা হলো। দেখা গেল, তাদের মধ্যে এক মহিলার স্তন থেকে দুধ ঝরছে, আর বন্দীদের মধ্যে কোনো শিশু পেলেই সে তাকে তুলে নিয়ে পেটের সঙ্গে চেপে ধরে দুধ খাওয়াচ্ছে। নবী ﷺ আমাদের বললেন, ‘তোমরা কি মনে কর, এই মহিলা তার সন্তানকে আগুনে ফেলে দিতে পারে?’ আমরা বললাম, ‘না, না ফেলার সাধ্য যতক্ষণ তার আছে, ততক্ষণ কখনো না।’ তখন তিনি বললেন, ‘এই মহিলা তার সন্তানের প্রতি যতটা দয়ালু, আল্লাহ তাঁর বান্দাদের প্রতি তার চেয়েও বেশি দয়ালু।’”"
+          },
+          {
+            "en": "The narration and the verse meet at a single point. A mother who would never throw her child into the fire was told to cast hers into the river, and she did it. He who told her is, in the Prophet's ﷺ words, more merciful to His servants than any mother to her child. The command that looked like danger came from a mercy greater than her own. As-Sa'di, as the next section shows, names that care with two of Allah's names.",
+            "bn": "হাদীস আর আয়াত এক জায়গায় এসে মেলে। যে মা কখনো নিজের সন্তানকে আগুনে ফেলবেন না, তাঁকেই বলা হলো সন্তানকে নদীতে ভাসিয়ে দিতে, আর তিনি তা-ই করলেন। যিনি এ হুকুম দিলেন, নবী ﷺ-এর ভাষায় তিনি যে কোনো মায়ের চেয়ে তাঁর বান্দাদের প্রতি বেশি দয়ালু। যে হুকুম দেখতে বিপদের মতো, তা এসেছিল মায়ের নিজের মমতার চেয়েও বড় রহমত থেকে। সা'দী এই যত্নকে আল্লাহর দুটি নাম ধরে চিনিয়ে দেন, পরের অংশে সেটা দেখা যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Placing the Beloved in His Care",
+          "bn": "প্রিয়জনকে তাঁর হাতে সঁপে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di, writing on this verse and the next together, draws one thread through the account. Musa, he says, did not move from one state to another except that Allah arranged it for his good. And he asks: what watching and guardianship could be more majestic and complete than the care of al-Barr ar-Rahim, the Kind, the Merciful, who is able to bring His servant what is good for him and turn harm away? The mother's part was to act on what she was given. The arranging was Allah's.",
+            "bn": "সা'দী এ আয়াত আর পরের আয়াত একসঙ্গে ব্যাখ্যা করতে গিয়ে পুরো ঘটনার ভেতর দিয়ে একটা সুতো টেনে দেন। তিনি বলেন, মূসা এক অবস্থা থেকে আরেক অবস্থায় গেছেন কেবল এভাবে যে আল্লাহ তাঁর কল্যাণের জন্য সবকিছু সাজিয়ে রেখেছিলেন। তারপর প্রশ্ন করেন: আল-বার্র আর-রাহীম, সেই পরম সদয়, পরম দয়ালুর তত্ত্বাবধানের চেয়ে মহিমাময় আর পূর্ণ নজরদারি আর কী হতে পারে? তিনিই তো বান্দার কাছে তার মঙ্গল পৌঁছে দিতে আর তার ক্ষতি সরিয়ে দিতে সক্ষম। মায়ের কাজ ছিল যা জানানো হয়েছে তা পালন করা। বাকি সব সাজানো আল্লাহর।"
+          },
+          {
+            "en": "Her fear is not hidden, and the commentators do not blame her for it. Ibn Kathir describes her nursing the child and setting him in the chest on the river, holding it to the house by a rope, until once it slipped from her and the water carried him off. He quotes 28:10: the heart of Musa's mother became empty, and she nearly disclosed him, had We not bound her heart. As-Sa'di says she was gravely anxious and Allah made her firm. Trust here was obedience while afraid.",
+            "bn": "মায়ের ভয় আড়াল করা হয়নি, তাফসীরকারেরাও এর জন্য তাঁকে দোষ দেন না। ইবন কাসীর বর্ণনা করেন, তিনি শিশুকে দুধ খাওয়াতেন, তারপর সিন্দুকে রেখে নদীতে ছেড়ে দিতেন, আর একটা রশি দিয়ে সেটা ঘরের সঙ্গে বেঁধে রাখতেন। একদিন বাঁধতে গিয়ে রশিটা হাত ফসকে যায়, আর পানি শিশুকে ভাসিয়ে নিয়ে যায়। তিনি ২৮:১০ আয়াত উদ্ধৃত করেন: মূসার মায়ের অন্তর অস্থির হয়ে পড়ল, আমি তাঁর মন শক্ত না করলে তিনি প্রায় সব ফাঁস করে দিতেন। সা'দীও বলেন, তিনি ভীষণ উৎকণ্ঠায় ছিলেন, আর আল্লাহ তাঁকে অবিচল রাখেন। এখানে ভরসা মানে ভয় নিয়েও হুকুম মানা।"
+          },
+          {
+            "en": "Ibn Ishaq, in a report at-Tabari carries on the next verse, puts her obedience in one plain phrase: when Pharaoh ordered the killing of that year's newborns, she went to her son and did with him what Allah had commanded her. That is the lesson the verse leaves. When a command of Allah seems to put the thing you love most at risk, it is no sign that He cares for it less than you do. Place it where He tells you, and leave the keeping to Him.",
+            "bn": "তাবারী পরের আয়াতের ব্যাখ্যায় ইবন ইসহাকের একটি বর্ণনা আনেন, যেখানে মায়ের আনুগত্য ধরা আছে এক সরল বাক্যে: ফেরাউন যখন সে বছরের নবজাতকদের হত্যার হুকুম দিল, তিনি ছেলের কাছে গেলেন, আর আল্লাহ তাঁকে যা করতে বলেছিলেন, ছেলেকে নিয়ে তা-ই করলেন। আয়াতের রেখে যাওয়া শিক্ষা এটাই। আল্লাহর কোনো হুকুম যখন মনে হয় আপনার সবচেয়ে প্রিয় জিনিসকে ঝুঁকিতে ফেলছে, তার মানে এই নয় যে আপনার চেয়ে তিনি তার কম যত্ন নেন। তিনি যেখানে রাখতে বলেন, সেখানে রাখুন। হেফাজতের ভার তাঁর উপরই ছেড়ে দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "20:40": {
     "sections": [
       {

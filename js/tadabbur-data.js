@@ -23151,6 +23151,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not carry good work alone: ask Allah for a true partner in it, share the task and its counsel, and keep the aim His remembrance.",
     "lessonBn": "ভালো কাজ একা বয়ে নেবেন না। আল্লাহর কাছে তাতে একজন খাঁটি শরিক চেয়ে নিন, কাজ আর পরামর্শ দুটোই ভাগ করুন, আর লক্ষ্য রাখুন তাঁর স্মরণ।"
+  },
+  "20:38": {
+    "reflectionEn": "Before Allah sends Musa to Pharaoh, He reminds him of a favour from a time he cannot remember: what He once placed in his mother's heart. A woman nursing a baby boy, in a year when baby boys were being killed, is given a plan no mother would reach for on her own. The verse does not spell out the plan yet. It names its source first: We inspired your mother. She did not invent it, and she did not act on a guess. She acted on what came from her Lord, and her fear stayed real while she did it. What have I been asked to put into Allah's keeping? And am I still gripping it with both hands?",
+    "reflectionBn": "ফেরাউনের কাছে পাঠানোর আগে আল্লাহ মূসাকে (আঃ) এমন এক অনুগ্রহের কথা মনে করিয়ে দেন, যা তাঁর নিজের মনে থাকার কথা নয়। তাঁর মায়ের অন্তরে আল্লাহ একদিন একটা কথা ঢেলে দিয়েছিলেন। যে বছর ছেলে শিশুদের মেরে ফেলা হচ্ছিল, সে বছর এক মা তাঁর দুধের ছেলেকে বুকে নিয়ে আছেন। এমন অবস্থায় তাঁকে যে পথ দেখানো হলো, কোনো মা নিজে থেকে তা ভাবতেই পারতেন না। আয়াতটি এখনই সেই পথের বিবরণ দেয় না। আগে উৎসটা জানিয়ে দেয়: আমি তোমার মায়ের প্রতি ওহি পাঠিয়েছিলাম। পরিকল্পনাটা তাঁর বানানো নয়, অনুমানের উপর ভর করেও তিনি চলেননি। রবের কাছ থেকে যা এসেছিল, তিনি তা-ই করেছেন, আর করার সময়ও তাঁর ভয় মিথ্যে হয়ে যায়নি। আমাকে কোন জিনিস আল্লাহর হেফাজতে ছেড়ে দিতে বলা হয়েছে? আমি কি এখনো সেটা দুই হাতে আঁকড়ে ধরে আছি?",
+    "pointsEn": [
+      "What do I love so much that I find it hard to leave it in anyone's keeping, even Allah's?",
+      "When a command of Allah seems to put something dear to me at risk, do I look for the care that comes with the command?",
+      "Which favours did Allah do for me before I was old enough to know them, and when did I last thank Him for one?",
+      "Can I let my fear be real and still obey, instead of waiting for the fear to leave first?",
+      "When I tell the story of someone's hardest choice, do I speak of them with the respect the Qur'an gives this mother?"
+    ],
+    "pointsBn": [
+      "কোন জিনিস আমার এত প্রিয় যে কারও হেফাজতে ছেড়ে দিতে মন সায় দেয় না, আল্লাহর হেফাজতেও না?",
+      "আল্লাহর কোনো হুকুম যখন মনে হয় আমার প্রিয় কিছুকে ঝুঁকিতে ফেলছে, তখন কি আমি হুকুমের সঙ্গে আসা তাঁর যত্নটুকু খুঁজি?",
+      "বোঝার বয়স হওয়ার আগেই আল্লাহ আমার উপর কোন কোন অনুগ্রহ করেছেন? শেষ কবে তার একটির জন্যও শুকরিয়া জানিয়েছি?",
+      "ভয় চলে যাওয়ার অপেক্ষায় না থেকে, ভয় বুকে নিয়েই কি আমি হুকুম মানতে পারি?",
+      "কারও জীবনের কঠিনতম সিদ্ধান্তের গল্প বলার সময় কি আমি তাকে সেই সম্মান দিই, যে সম্মান কুরআন এই মাকে দিয়েছে?"
+    ],
+    "lessonEn": "When Allah's command seems to risk what you love most, trust the One who gave it; He is kinder to what you love than you are.",
+    "lessonBn": "আল্লাহর হুকুম যখন মনে হয় আপনার সবচেয়ে প্রিয় জিনিসকে ঝুঁকিতে ফেলছে, তখন হুকুমদাতার উপর ভরসা রাখুন। আপনার প্রিয়জনের প্রতি আপনার চেয়ে তিনিই বেশি দয়ালু।"
   }
 };
 
