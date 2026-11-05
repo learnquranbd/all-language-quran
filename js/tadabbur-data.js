@@ -23311,6 +23311,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Know the ordinary things in your hands and use them well; the Lord who gave them can show in them a meaning you never saw.",
     "lessonBn": "হাতের সাধারণ জিনিসগুলো চিনে নিন, ভালো কাজে লাগান। যিনি এগুলো দিয়েছেন, সেই রব এগুলোর ভেতরে এমন অর্থ দেখাতে পারেন যা আপনি কখনো দেখেননি।"
+  },
+  "19:87": {
+    "reflectionEn": "The verses before this showed two crowds on the Day, one arriving honoured and one driven to the Fire. Now comes the question of who will have any say there. Those driven own no intercession, and no one will speak for them, except the one who took a covenant with the Most Merciful. A covenant is made before the deadline, not at it. Read plainly, it is the testimony that there is no god but Allah, kept with what it asks, and hope placed in Him alone. The verse tells no one who will be spoken for. It asks something closer to home: is there a word between me and the Most Merciful that I am keeping today, or one I gave once and quietly let lapse?",
+    "reflectionBn": "আগের আয়াতগুলোতে সেই দিনের দুটি দল দেখা গেছে। একদল আসছে সম্মানের সঙ্গে, আরেক দলকে হাঁকিয়ে নেওয়া হচ্ছে জাহান্নামের দিকে। এবার প্রশ্ন: সেখানে কার কথা চলবে? যাদের হাঁকিয়ে নেওয়া হচ্ছে, সুপারিশের কোনো অধিকার তাদের নেই, তাদের হয়ে কেউ কথাও বলবে না। ব্যতিক্রম কেবল সে, যে দয়াময়ের কাছ থেকে অঙ্গীকার নিয়ে রেখেছে। অঙ্গীকার করতে হয় সময় ফুরানোর আগে, ফুরানোর মুহূর্তে নয়। সোজা কথায় সে অঙ্গীকার হলো এই সাক্ষ্য যে আল্লাহ ছাড়া কোনো ইলাহ নেই, সঙ্গে তার দাবিগুলো পালন, আর ভরসা শুধু তাঁরই উপর। কার জন্য সুপারিশ হবে, আয়াত কাউকে তা জানিয়ে দেয় না। সে বরং আরও কাছের একটা প্রশ্ন রাখে: দয়াময়ের সঙ্গে আমার যে কথা, আজ কি আমি তা রক্ষা করে চলেছি? নাকি একবার দিয়ে চুপচাপ তা ভুলে বসে আছি?",
+    "pointsEn": [
+      "If my covenant with Allah is the testimony I say each day, what does this week show about whether I keep its rights or only its words?",
+      "Whose help am I counting on for the Day, and have I remembered that the matter is not theirs to arrange but Allah's?",
+      "When I pray, do I ask Allah not to leave me to my own deeds, or do I quietly lean on them?",
+      "Is there a promise I made to Allah in a hard season that I have since let slip?",
+      "Do I ever speak of another person's end as if the intercession, or the verdict, were mine to hand out?"
+    ],
+    "pointsBn": [
+      "আমার অঙ্গীকার যদি হয় সেই সাক্ষ্য যা আমি রোজ মুখে বলি, তবে এ সপ্তাহের জীবন কী দেখায়: আমি কি তার হক আদায় করছি, নাকি শুধু শব্দগুলো আওড়াচ্ছি?",
+      "সেই দিনের জন্য আমি কার সাহায্যের ভরসায় আছি? আমার কি মনে আছে, ব্যাপারটা তাদের হাতে নয়, আল্লাহর হাতে?",
+      "দোয়ার সময় আমি কি আল্লাহর কাছে চাই যেন তিনি আমাকে আমার আমলের হাতে ছেড়ে না দেন, নাকি মনে মনে সেই আমলের উপরই ভর দিয়ে থাকি?",
+      "কঠিন কোনো সময়ে আল্লাহকে আমি কি কোনো কথা দিয়েছিলাম, যা পরে হাত থেকে ফসকে গেছে?",
+      "অন্য কারও পরিণতি নিয়ে আমি কি কখনো এমনভাবে কথা বলি, যেন সুপারিশ বা রায় দেওয়ার মালিক আমি নিজে?"
+    ],
+    "lessonEn": "Intercession belongs to Allah and reaches only those who hold a covenant with Him. Keep yours now: the testimony of His oneness, lived out, with your hope in Him alone.",
+    "lessonBn": "সুপারিশের মালিক আল্লাহ, আর তা পৌঁছায় কেবল তাঁর সঙ্গে অঙ্গীকারে থাকা মানুষের কাছে। নিজের অঙ্গীকারটি এখনই রক্ষা করুন: তাঁর একত্বের সাক্ষ্য, জীবনে তার প্রমাণ, আর ভরসা শুধু তাঁরই উপর।"
   }
 };
 

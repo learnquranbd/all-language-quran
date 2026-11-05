@@ -3207,6 +3207,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:87": {
+    "sections": [
+      {
+        "h": {
+          "en": "Owning No Say on That Day",
+          "bn": "সেদিন কারও হাতে নেই"
+        },
+        "p": [
+          {
+            "en": "La yamlikuna ash-shafa'ata: they will not own intercession. The line follows straight on from the two processions of 19:85 and 19:86, and at-Tabari ties it to that Day: these disbelievers will not hold intercession when the God-fearing are gathered to Him as a delegation and the people of faith intercede for each other before Allah. The verb is yamlikuna, to own or to control, and as-Sa'di presses on it: intercession is not their possession, and they have no share of it at all.",
+            "bn": "লা ইয়ামলিকূনাশ শাফাআতা: তারা সুপারিশের মালিক হবে না। ১৯:৮৫ ও ১৯:৮৬ আয়াতের দুই মিছিলের ঠিক পরেই এই কথা, আর তাবারী একে সোজাসুজি সেই দিনের সঙ্গে জুড়ে দেন। যখন মুত্তাকীদের প্রতিনিধিদল হিসেবে আল্লাহর কাছে জড়ো করা হবে, আর ঈমানদারেরা আল্লাহর কাছে পরস্পরের জন্য সুপারিশ করবে, তখন এই কাফিররা সুপারিশের কোনো অধিকার পাবে না। ক্রিয়াটি ইয়ামলিকূন, মানে মালিক হওয়া, নিজের এখতিয়ারে রাখা। সা'দী এই শব্দের উপরই জোর দেন: সুপারিশ তাদের সম্পত্তি নয়, তাতে তাদের কোনো ভাগই নেই।"
+          },
+          {
+            "en": "As-Sa'di finishes the thought: intercession belongs to Allah, and he cites qul lillahi ash-shafa'atu jami'a, say: to Allah belongs all intercession (39:44). Ibn Kathir reads the same negation from the side of those who need it: they will have no one to intercede for them, as the believers intercede for each other. Beside it he sets the confession the Qur'an gives the people of the Fire: so now we have no intercessors, nor any devoted friend (26:100 and 26:101).",
+            "bn": "সা'দী কথাটা শেষ করেন এভাবে: সুপারিশ আল্লাহর। প্রমাণ হিসেবে আনেন কুল লিল্লাহিশ শাফাআতু জামীআ, বলুন, সমস্ত সুপারিশ আল্লাহরই (৩৯:৪৪)। ইবন কাসীর একই নাকচকে দেখেন যাদের সুপারিশ দরকার, তাদের দিক থেকে। তাদের হয়ে সুপারিশ করার কেউ থাকবে না, যেমন ঈমানদারেরা পরস্পরের জন্য করবে। পাশে তিনি রাখেন জাহান্নামিদের সেই স্বীকারোক্তি, যা কুরআন তাদের মুখে দিয়েছে: আমাদের কোনো সুপারিশকারী নেই, কোনো অন্তরঙ্গ বন্ধুও নেই (২৬:১০০ ও ২৬:১০১)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Hands Are Empty",
+          "bn": "কাদের হাত খালি"
+        },
+        "p": [
+          {
+            "en": "Who, then, are they? At-Tabari, the Muyassar and al-Qurtubi's first reading answer: the disbelievers. Al-Qurtubi ties that reading back to 19:81, where they took gods besides Allah as a source of honour. On it, no intercession by the idol-worshippers will be accepted for anyone, nor any by the idols, and no one's intercession for them will avail them, as in fa-ma tanfa'uhum shafa'atu ash-shafi'in, the intercession of intercessors will not benefit them (74:48). What became of those gods was the subject of 19:82; this verse adds only the word on intercession.",
+            "bn": "তাহলে 'তারা' কারা? তাবারী, মুয়াসসার আর কুরতুবীর প্রথম ব্যাখ্যা একই উত্তর দেয়: কাফিররা। কুরতুবী এই ব্যাখ্যাকে জুড়ে দেন ১৯:৮১ আয়াতের সঙ্গে, যেখানে তারা আল্লাহকে বাদ দিয়ে অন্য ইলাহ গ্রহণ করেছিল নিজেদের মর্যাদার উৎস বানাতে। এ পাঠে মূর্তিপূজকদের কোনো সুপারিশ কারও জন্য কবুল হবে না, মূর্তিগুলোর সুপারিশও না। তাদের জন্য কারও সুপারিশও তাদের কাজে আসবে না, যেমন বলা হয়েছে ফামা তানফাউহুম শাফাআতুশ শাফিঈন, সুপারিশকারীদের সুপারিশ তাদের কোনো উপকারে আসবে না (৭৪:৪৮)। ওই ইলাহগুলোর পরিণতি ১৯:৮২ আয়াতের বিষয়। এ আয়াত তাতে শুধু সুপারিশের কথাটুকু যোগ করে।"
+          },
+          {
+            "en": "Al-Qurtubi then opens a wider reading. Al-mujrimin, the criminals driven to Hell in the verse before, takes in both the disbelievers and the disobedient. On that view none of them owns intercession except the disobedient believers, who have it in the sense that others intercede for them. He supports this with a report in which the Prophet keeps interceding until he asks for those who said la ilaha illa Allah, and says Muslim recorded it in meaning. He gives a summary, not the wording, so it is not quoted here.",
+            "bn": "এরপর কুরতুবী আরও বিস্তৃত একটি পাঠ খোলেন। আগের আয়াতে জাহান্নামের দিকে হাঁকিয়ে নেওয়া আল-মুজরিমীন, অর্থাৎ অপরাধীরা, শব্দটির মধ্যে কাফির আর নাফরমান দুই দলই পড়ে। এ দৃষ্টিতে তাদের কেউ সুপারিশের মালিক নয়, তবে নাফরমান মুমিনরা ছাড়া। তারা এর মালিক এই অর্থে যে অন্যরা তাদের হয়ে সুপারিশ করবে। এর সমর্থনে তিনি এমন এক বর্ণনা আনেন, যেখানে নবী ﷺ সুপারিশ করতেই থাকেন, শেষে লা ইলাহা ইল্লাল্লাহ বলেছে এমন মানুষদের জন্য অনুমতি চান। কুরতুবী বলেন, মুসলিম অর্থগতভাবে এটি বর্ণনা করেছেন। তিনি মূল শব্দ দেননি, দিয়েছেন সারকথা। তাই এখানে তা উদ্ধৃত করা হলো না।"
+          },
+          {
+            "en": "A third reading, introduced by al-Qurtubi with it is said, takes the subject as everyone gathered, the God-fearing and the criminals alike: no one holds intercession except the covenant-holder, meaning when Allah gives him leave. He points to man dha alladhi yashfa'u 'indahu illa bi-idhnihi, who could intercede with Him except by His leave? (2:255). So the pronoun is read three ways: the disbelievers, the criminals of every kind, or all who are gathered. The commentators set the three side by side, and so does this page.",
+            "bn": "তৃতীয় একটি পাঠ কুরতুবী আনেন 'বলা হয়' কথাটি দিয়ে। এতে 'তারা' মানে জড়ো হওয়া সবাই, মুত্তাকী ও অপরাধী নির্বিশেষে: অঙ্গীকারধারী ছাড়া কেউই সুপারিশের মালিক নয়, অর্থাৎ যখন আল্লাহ তাকে অনুমতি দেন। এখানে তিনি ইশারা করেন মান যাল্লাযী ইয়াশফাউ ইনদাহু ইল্লা বিইযনিহ আয়াতের দিকে: কে আছে যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে? (২:২৫৫)। ফলে সর্বনামটির তিনটি পাঠ পাওয়া যায়: কাফিররা, সব ধরনের অপরাধী, অথবা জড়ো হওয়া সবাই। তাফসীরকারেরা তিনটিকে পাশাপাশি রেখেছেন, এ লেখাও তাই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Exception, Two Grammars",
+          "bn": "এক ব্যতিক্রম, দুই ব্যাকরণ"
+        },
+        "p": [
+          {
+            "en": "Then comes illa man ittakhadha 'inda ar-Rahmani 'ahda, except whoever has taken a covenant with the Most Merciful. Ibn Kathir calls it a disconnected exception, meaning: but whoever took a covenant with the Most Merciful. Al-Qurtubi gives that reading first, as excepting a thing from outside its kind: the covenant-holders, who are not among the disbelievers, are the ones who intercede. He then records a second grammar, in which man replaces the subject of yamlikuna: no one holds intercession with Allah except the covenant-holder, and the exception is connected.",
+            "bn": "এরপর আসে ইল্লা মানিত তাখাযা ইনদার রাহমানি আহদা: তবে সে ছাড়া, যে দয়াময়ের কাছ থেকে অঙ্গীকার নিয়েছে। ইবন কাসীর একে বলেন বিচ্ছিন্ন ব্যতিক্রম, যার মানে: বরং যে দয়াময়ের কাছ থেকে অঙ্গীকার নিয়েছে। কুরতুবীও প্রথমে এই পাঠটি দেন, ভিন্ন জাতের জিনিসকে বাদ দেওয়া হিসেবে। অঙ্গীকারধারীরা কাফিরদের দলের নয়, আর সুপারিশ করবে তারাই। তারপর তিনি আরেকটি ব্যাকরণ উল্লেখ করেন, যেখানে মান শব্দটি ইয়ামলিকূন ক্রিয়ার কর্তার জায়গায় বসে। তখন অর্থ দাঁড়ায়: আল্লাহর কাছে অঙ্গীকারধারী ছাড়া কেউই সুপারিশের মালিক নয়। এখানে ব্যতিক্রমটি যুক্ত।"
+          },
+          {
+            "en": "At-Tabari shows that the choice of grammar hangs on the choice of subject. If they do not own intercession is said of the criminals, man is a disconnected exception and the meaning is: they do not own it, but whoever took a covenant with the Most Merciful owns it. Whoever reads it instead as except for whoever took a covenant must make the God-fearing the subject. Then the sense becomes: the delegation gathered to the Most Merciful will hold no intercession except on behalf of those who took a covenant.",
+            "bn": "তাবারী দেখান, কোন ব্যাকরণ নেওয়া হবে তা নির্ভর করে কর্তা কে, তার উপর। 'তারা সুপারিশের মালিক নয়' কথাটি যদি অপরাধীদের সম্পর্কে হয়, তবে মান বিচ্ছিন্ন ব্যতিক্রম। তখন অর্থ হয়: তারা এর মালিক নয়, বরং যে দয়াময়ের কাছ থেকে অঙ্গীকার নিয়েছে, সে-ই এর মালিক। আর কেউ যদি পড়েন 'তবে তার জন্য, যে অঙ্গীকার নিয়েছে', তাহলে তাঁকে মুত্তাকীদেরই কর্তা ধরতে হবে। তখন অর্থ দাঁড়ায়: দয়াময়ের কাছে প্রতিনিধিদল হয়ে আসা মানুষেরা কেবল অঙ্গীকারধারীদের পক্ষেই সুপারিশ করতে পারবে।"
+          },
+          {
+            "en": "In the first grammar the covenant-holder intercedes; in the second, he is interceded for. Al-Baghawi keeps both in view. After glossing the covenant as la ilaha illa Allah, he gives, as it is said, that intercessors intercede only for those with a covenant, the believers, citing wa la yashfa'una illa li-mani irtada, they do not intercede except for whom He approves (21:28). Then, again as it is said: none intercedes but the believer who testified there is no god but Allah.",
+            "bn": "প্রথম ব্যাকরণে অঙ্গীকারধারী নিজে সুপারিশকারী, দ্বিতীয়টিতে তার জন্যই সুপারিশ করা হবে। বাগাভী দুটোকেই সামনে রাখেন। অঙ্গীকারের ব্যাখ্যা লা ইলাহা ইল্লাল্লাহ দিয়ে দেওয়ার পর তিনি 'বলা হয়' কথাটি দিয়ে আনেন: সুপারিশকারীরা কেবল অঙ্গীকারধারীদের, অর্থাৎ মুমিনদের জন্য সুপারিশ করবে। প্রমাণ হিসেবে আনেন ওয়া লা ইয়াশফাঊনা ইল্লা লিমানির তাদা, যাকে তিনি পছন্দ করেন, তার ছাড়া আর কারও জন্য তারা সুপারিশ করে না (২১:২৮)। তারপর আবার 'বলা হয়' দিয়ে: লা ইলাহা ইল্লাল্লাহর সাক্ষ্য দেওয়া মুমিন ছাড়া কেউ সুপারিশ করবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Testimony and Its Rights",
+          "bn": "সাক্ষ্য ও তার হক"
+        },
+        "p": [
+          {
+            "en": "What, then, is the 'ahd, the covenant? The first answer the commentators give comes from Ibn Abbas (RA), relayed through 'Ali ibn Abi Talhah by both at-Tabari and Ibn Kathir. The covenant is the testimony that there is no god but Allah, that a person disowns before Allah any power and strength of his own, and that he hopes in none but Allah. Al-Qurtubi gives the short form from Ibn Abbas, that the covenant is la ilaha illa Allah, and the longer form from Muqatil and Ibn Abbas together.",
+            "bn": "তাহলে আহদ, অর্থাৎ অঙ্গীকার, কী? তাফসীরকারেরা প্রথম যে উত্তর আনেন, তা ইবন আব্বাস (রাঃ) থেকে। তাবারী ও ইবন কাসীর দুজনেই তা আনেন আলী ইবন আবী তালহার সূত্রে। অঙ্গীকার হলো এই সাক্ষ্য যে আল্লাহ ছাড়া কোনো ইলাহ নেই। সঙ্গে মানুষ আল্লাহর সামনে নিজের সব শক্তি-সামর্থ্যের দাবি ছেড়ে দেয়, আর আল্লাহ ছাড়া কারও কাছে কিছু আশা করে না। কুরতুবী ইবন আব্বাস (রাঃ) থেকে সংক্ষিপ্ত রূপটি দেন: অঙ্গীকার হলো লা ইলাহা ইল্লাল্লাহ। দীর্ঘ রূপটি দেন মুকাতিল ও ইবন আব্বাস (রাঃ) দুজনের নামে।"
+          },
+          {
+            "en": "Others in at-Tabari's chains widen it. Ibn Jurayj says the covenant is righteous deeds. Qatada says it is obedience to Him. At-Tabari's own wording joins them: the covenant is faith in Allah, belief in His Messenger, acknowledging what he brought, and acting on what He commanded. Ibn Kathir keeps the testimony at the centre and adds standing by what it requires. The early answers differ in emphasis more than in substance: a word that is said, and a life that answers to it.",
+            "bn": "তাবারীর অন্য সনদগুলোতে কেউ কেউ অর্থটাকে আরও ছড়িয়ে দেন। ইবন জুরাইজ বলেন, অঙ্গীকার হলো নেক আমল। কাতাদা বলেন, তাঁর আনুগত্য। তাবারী নিজের ভাষায় এগুলো একসঙ্গে বাঁধেন: অঙ্গীকার মানে আল্লাহর প্রতি ঈমান, তাঁর রাসূলকে সত্য বলে মানা, তিনি যা এনেছেন তা স্বীকার করা, আর আল্লাহ যা আদেশ করেছেন সে অনুযায়ী আমল করা। ইবন কাসীর সাক্ষ্যকেই কেন্দ্রে রাখেন, সঙ্গে জুড়ে দেন তার দাবিগুলো পালনের কথা। প্রথম যুগের এসব উত্তরের ফারাক মূলত জোরের জায়গায়, মর্মে নয়। একটা কথা যা মুখে বলা হয়, আর একটা জীবন যা সেই কথার জবাব দেয়।"
+          },
+          {
+            "en": "Al-Qurtubi gathers it into a single phrase: 'ahd is a comprehensive word for faith and all the good deeds by which a person reaches the rank of those who intercede. He also links it to the man who said he would surely be given wealth and children (19:77) and was asked, has he looked into the unseen, or has he taken a covenant with the Most Merciful? (19:78). Ma'arif al-Qur'an, citing Ruh al-Ma'ani, adds that some took the covenant to mean committing the Qur'an to memory.",
+            "bn": "কুরতুবী সবটা এক কথায় গুছিয়ে দেন: আহদ এমন এক ব্যাপক শব্দ, যার মধ্যে আছে ঈমান আর সেই সব নেক আমল, যা দিয়ে মানুষ সুপারিশকারীদের মর্যাদায় পৌঁছায়। তিনি একে সেই লোকের প্রসঙ্গের সঙ্গেও যুক্ত করেন, যে বলেছিল তাকে অবশ্যই ধন আর সন্তান দেওয়া হবে (১৯:৭৭)। তাকে প্রশ্ন করা হয়েছিল: সে কি অদৃশ্য দেখে ফেলেছে, নাকি দয়াময়ের কাছ থেকে কোনো অঙ্গীকার নিয়েছে? (১৯:৭৮)। মাআরিফুল কুরআন রূহুল মাআনীর বরাতে যোগ করে, কেউ কেউ অঙ্গীকার বলতে কুরআন মুখস্থ করা বুঝেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Faith Is Named a Covenant",
+          "bn": "ঈমানের নাম কেন অঙ্গীকার"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di asks why faith is called a covenant at all, and answers from the other side of the bond. Allah named faith in Him and following His messengers a covenant because He pledged, in His books and on the tongues of His messengers, a fine reward for whoever follows them. The servant's faith is half the bond; Allah's promise is the rest. The believer who followed is among those Allah approves, and intercession reaches him.",
+            "bn": "ঈমানকে অঙ্গীকার বলা হলো কেন, সা'দী এই প্রশ্ন তোলেন, আর উত্তর দেন বন্ধনের অপর প্রান্ত থেকে। আল্লাহ তাঁর প্রতি ঈমান আর রাসূলদের অনুসরণকে অঙ্গীকার নাম দিয়েছেন, কারণ তিনি নিজের কিতাবগুলোতে আর রাসূলদের মুখে কথা দিয়েছেন: যে তাঁদের অনুসরণ করবে, তার জন্য আছে সুন্দর প্রতিদান। বান্দার ঈমান বন্ধনের অর্ধেক, বাকিটা আল্লাহর প্রতিশ্রুতি। যে ঈমান এনে অনুসরণ করেছে, সে তাদের একজন যাদের আল্লাহ পছন্দ করেছেন, সুপারিশ তার কাছে পৌঁছাবে।"
+          },
+          {
+            "en": "Notice where the covenant is held: 'inda ar-Rahman, with the Most Merciful, the name that runs through this passage, from the delegation gathered to the Most Merciful (19:85) to the answer to the claim of a son (19:88 to 19:93). A covenant kept with the Most Merciful is not a credit banked. The very report from Ibn Abbas that defines it includes disowning any power and strength of his own and hoping in Allah alone. Its holder has handed his case over; he has not built it himself.",
+            "bn": "খেয়াল করুন, অঙ্গীকার রাখা হয়েছে কোথায়: ইনদার রাহমান, দয়াময়ের কাছে। এই নাম গোটা অংশজুড়ে ফিরে ফিরে আসে, দয়াময়ের কাছে প্রতিনিধিদল জড়ো হওয়ার কথা থেকে (১৯:৮৫) সন্তান দাবির জবাব পর্যন্ত (১৯:৮৮ থেকে ১৯:৯৩)। দয়াময়ের কাছে রাখা অঙ্গীকার এমন কোনো সঞ্চয় নয়, যা মানুষ নিজের নামে জমা করে। ইবন আব্বাস (রাঃ)-এর যে বর্ণনা এর সংজ্ঞা দেয়, তাতেই আছে নিজের শক্তি-সামর্থ্যের দাবি ছেড়ে দেওয়া আর শুধু আল্লাহর কাছে আশা রাখা। অঙ্গীকারধারী নিজের মামলা আল্লাহর হাতে সঁপে দিয়েছে, নিজে তা সাজিয়ে তোলেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Covenant Put Into Words",
+          "bn": "অঙ্গীকারের ভাষা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir relays from Ibn Abi Hatim, by a chain to al-Aswad ibn Yazid, that Abdullah ibn Mas'ud (RA) recited this verse and said: take a covenant with Allah, for on the Day of Resurrection Allah will say, let whoever has a covenant with Allah stand. Asked to teach it, he said: say, O Allah, Originator of the heavens and the earth, Knower of the unseen and the seen, I make a covenant with You in this worldly life: if You leave me to my deeds, You bring me near to evil and far from good, and I trust in nothing but Your mercy.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিম থেকে আল-আসওয়াদ ইবন ইয়াযীদ পর্যন্ত সনদে বর্ণনা আনেন। আবদুল্লাহ ইবন মাসউদ (রাঃ) এই আয়াত তিলাওয়াত করে বললেন, আল্লাহর কাছে অঙ্গীকার নিয়ে রাখো। কারণ কিয়ামতের দিন আল্লাহ বলবেন, যার আল্লাহর কাছে অঙ্গীকার আছে, সে দাঁড়াক। লোকেরা শিখিয়ে দিতে বললে তিনি বললেন, এভাবে বলো: হে আল্লাহ, আসমান ও জমিনের স্রষ্টা, গোপন ও প্রকাশ্যের জ্ঞানী, এই দুনিয়ার জীবনে আমি আপনার কাছে অঙ্গীকার করছি। আপনি যদি আমাকে আমার আমলের হাতে ছেড়ে দেন, তবে আমাকে মন্দের কাছে আর কল্যাণ থেকে দূরে নিয়ে যাবেন। আমি আপনার রহমত ছাড়া আর কিছুর উপর ভরসা করি না।"
+          },
+          {
+            "en": "It closes: so make for me a covenant with You that You will fulfil for me on the Day of Resurrection; You do not break the promise. Al-Mas'udi adds from al-Qasim that Ibn Mas'ud would join to it: fearing, seeking refuge, asking forgiveness, in awe and longing toward You. In Ibn Kathir this is Ibn Mas'ud's own teaching, and he gives it no grading. Al-Qurtubi gives a longer version as heard from the Prophet, with no chain or source. Neither grades it, so it stands here as a supplication they relay, not as a sound hadith.",
+            "bn": "দোয়াটি শেষ হয় এভাবে: অতএব আপনার কাছে আমার জন্য এমন এক অঙ্গীকার রাখুন, যা কিয়ামতের দিন আপনি আমাকে পূর্ণ করে দেবেন। নিশ্চয়ই আপনি প্রতিশ্রুতি ভঙ্গ করেন না। আল-মাসঊদী আল-কাসিম থেকে যোগ করেন, ইবন মাসউদ (রাঃ) এর সঙ্গে জুড়ে দিতেন: ভীত, আশ্রয়প্রার্থী, ক্ষমাপ্রার্থী, ভয় ও আকাঙ্ক্ষা নিয়ে আপনার দিকে ফেরা। ইবন কাসীরের কাছে এটি ইবন মাসউদ (রাঃ)-এর নিজের শিক্ষা, এর কোনো মান তিনি বলেননি। কুরতুবী এর দীর্ঘ একটি রূপ আনেন নবী ﷺ থেকে শোনা কথা হিসেবে, কিন্তু কোনো সনদ বা উৎস দেননি। কেউই এর মান বলেননি, তাই এখানে এটি তাঁদের বর্ণিত দোয়া হিসেবেই থাকছে, সহীহ হাদীস হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believers Speaking for Believers",
+          "bn": "মুমিনের জন্য মুমিনের সুপারিশ"
+        },
+        "p": [
+          {
+            "en": "Behind the negation stands something the commentators take as given: on that Day the believers will intercede for each other. At-Tabari and Ibn Kathir say so, and Ibn Jurayj says it outright: the believers on that Day are intercessors for each other. Qatada read the verse with on that Day intercession will not benefit except whom the Most Merciful permits and whose word He approves (20:109), so that people would know Allah lets the believers intercede for each other. Al-Qurtubi adds that the reports are mutually supporting: people of virtue, knowledge and righteousness will intercede and be granted it.",
+            "bn": "এই নাকচের পেছনে এমন এক কথা আছে, যা তাফসীরকারেরা স্বতঃসিদ্ধ ধরে নেন: সেদিন মুমিনরা পরস্পরের জন্য সুপারিশ করবে। তাবারী ও ইবন কাসীর এ কথা বলেন, আর ইবন জুরাইজ সরাসরি বলেন, সেদিন মুমিনরা পরস্পরের সুপারিশকারী। কাতাদা আয়াতটি পড়েন আরেকটি আয়াতের পাশে রেখে: সেদিন কারও সুপারিশ কাজে আসবে না, তবে দয়াময় যাকে অনুমতি দেন আর যার কথায় তিনি সন্তুষ্ট (২০:১০৯)। তাঁর মতে এটা এজন্য, যাতে মানুষ জানে আল্লাহ মুমিনদের পরস্পরের পক্ষে সুপারিশ করতে দেবেন। কুরতুবী যোগ করেন, বহু বর্ণনা একে অন্যকে সমর্থন করে: মর্যাদাবান, জ্ঞানী ও নেককার মানুষেরা সুপারিশ করবে, আর তাদের সুপারিশ কবুল হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Supplication Held Back",
+          "bn": "তুলে রাখা দোয়া"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched for this verse attaches a sound hadith to it, so the report below is general, not tied to the verse. In the quranx English of Sahih Muslim 199a, Abu Huraira said that the Messenger of Allah (ﷺ) said: There is for every apostle a prayer which is granted, but every prophet showed haste in his prayer. I have, however, reserved my prayer for the intercession of my Ummah on the Day of Resurrection, and it would be granted, if Allah so willed, in case of everyone amongst my Ummah provided he dies without associating anything with Allah.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জোড়েনি। তাই নিচের বর্ণনাটি সুপারিশ বিষয়ে একটি সাধারণ হাদীস, এ আয়াতের সঙ্গে বাঁধা নয়। সহীহ মুসলিম ১৯৯ক-তে আবু হুরায়রা (রাঃ) বলেন, রাসূলুল্লাহ ﷺ বলেছেন: প্রত্যেক নবীর একটি দোয়া আছে যা কবুল হয়। প্রত্যেক নবী নিজের দোয়া আগেভাগে করে ফেলেছেন। আর আমি আমার দোয়া কিয়ামতের দিন আমার উম্মতের জন্য সুপারিশ হিসেবে তুলে রেখেছি। ইনশাআল্লাহ তা পৌঁছাবে আমার উম্মতের এমন প্রত্যেকের কাছে, যে আল্লাহর সঙ্গে কোনো কিছুকে শরীক না করে মারা যায়।"
+          },
+          {
+            "en": "At-Tabari relays through Qatada a report from 'Awf ibn Malik (RA) with the same condition. That chain appears in Jami' at-Tirmidhi 2441, and the page fetched shows no grading from at-Tirmidhi, so none is given here. Muslim's report meets the verse twice. Its condition, dying without associating anything with Allah, is the testimony Ibn Abbas named the covenant. And if Allah so willed rests even the reserved prayer on Allah's leave, as-Sa'di's point that intercession is His. How intercession unfolds, theologians have long discussed; this page keeps to the lines the verse and its commentators draw.",
+            "bn": "তাবারী কাতাদার সূত্রে আওফ ইবন মালিক (রাঃ) থেকে একই শর্তসহ একটি বর্ণনা আনেন। সেই সনদ জামে তিরমিযী ২৪৪১-এ আছে। যে পাতা দেখা হয়েছে, তাতে তিরমিযীর কোনো মান-নির্ণয় নেই, তাই এখানেও কোনো মান বলা হলো না। মুসলিমের বর্ণনা আয়াতের সঙ্গে দুই জায়গায় মেলে। এর শর্ত, আল্লাহর সঙ্গে কিছু শরীক না করে মৃত্যু, ঠিক সেই সাক্ষ্য, যাকে ইবন আব্বাস (রাঃ) অঙ্গীকার বলেছেন। আর ইনশাআল্লাহ কথাটি নবী ﷺ-এর তুলে রাখা দোয়াকেও আল্লাহর অনুমতির উপর রাখে। সা'দীর কথাও এটাই, সুপারিশ আল্লাহর। সুপারিশ কীভাবে ঘটবে, তা নিয়ে আলেমরা দীর্ঘ আলোচনা করেছেন। আয়াত আর তার তাফসীরকারেরা যে সীমারেখা টানেন, এ লেখা তার বাইরে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Being Kept Now",
+          "bn": "এখন যে কথা রাখছি"
+        },
+        "p": [
+          {
+            "en": "One thing must be said plainly. The verse describes the criminals of that Day and what they lack there; it licenses nothing against any living person or community. It names no one now and hands no reader the intercession or the verdict. The commentators state the condition, a covenant with the Most Merciful, but who meets it at the end is Allah's knowledge. Whoever uses this verse to place another person in the driven crowd has claimed the very ownership the verse denies.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি সেই দিনের অপরাধীদের কথা বলে, আর সেখানে তাদের কী থাকবে না, তা জানায়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আজ এটি কারও নাম নেয় না, কোনো পাঠকের হাতে সুপারিশ বা রায়ের ক্ষমতা তুলে দেয় না। তাফসীরকারেরা শর্তটা বলে দিয়েছেন: দয়াময়ের সঙ্গে অঙ্গীকার। কিন্তু শেষ পর্যন্ত কে সেই শর্ত পূরণ করবে, তা আল্লাহর জ্ঞানে। কেউ যদি এ আয়াত দিয়ে অন্যকে হাঁকিয়ে নেওয়া দলে বসিয়ে দেয়, তবে আয়াত যে মালিকানা অস্বীকার করেছে, সে নিজেই সেটার দাবি করে বসল।"
+          },
+          {
+            "en": "What the verse hands the living is a question about the present. Ibn Mas'ud's words make it concrete: I make a covenant with You in this worldly life. A covenant is taken here, before the Day, and kept here: in the testimony said and the life that answers to it, in disowning one's own strength and hoping in Allah alone. Which covenant am I keeping with the Most Merciful today, and which have I let lapse?",
+            "bn": "জীবিত মানুষের হাতে আয়াত যা তুলে দেয়, তা বর্তমান সম্পর্কে একটি প্রশ্ন। ইবন মাসউদ (রাঃ)-এর কথা একে স্পষ্ট করে দেয়: এই দুনিয়ার জীবনে আমি আপনার কাছে অঙ্গীকার করছি। অঙ্গীকার নিতে হয় এখানেই, সেই দিনের আগে। রক্ষাও করতে হয় এখানেই: মুখে বলা সাক্ষ্যে আর সেই সাক্ষ্যের জবাব দেওয়া জীবনে, নিজের শক্তির দাবি ছেড়ে দেওয়ায় আর শুধু আল্লাহর কাছে আশা রাখায়। দয়াময়ের সঙ্গে আজ আমি কোন অঙ্গীকার রক্ষা করছি, আর কোনটা ভুলে বসে আছি?"
+          }
+        ]
+      }
+    ]
+  },
   "19:91": {
     "sections": [
       {
