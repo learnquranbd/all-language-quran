@@ -3831,6 +3831,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:108": {
+    "sections": [
+      {
+        "h": {
+          "en": "On the Levelled Ground",
+          "bn": "সমান করা মাটির উপর"
+        },
+        "p": [
+          {
+            "en": "Yawma'idhin, on that Day, opens the verse and ties it to what has just been described. In 20:105 to 20:107 the mountains are blown away and the earth is left a level plain, with no dip and no rise in it. Ibn Kathir reads the new verse from inside that scene: on the Day they see these states and these terrors, they will answer the caller in haste. The same word yawma'idhin opens 20:109 as well, so the verse belongs to a short run of sentences that each begin by pointing at the one Day.",
+            "bn": "ইয়াওমাইযিন, সেদিন: এই শব্দে আয়াত শুরু, আর এই শব্দই আয়াতকে আগের বর্ণনার সঙ্গে বেঁধে দেয়। ২০:১০৫ থেকে ২০:১০৭ আয়াতে পাহাড় উড়িয়ে দেওয়া হয়, পৃথিবী পড়ে থাকে সমতল মাঠ হয়ে, কোথাও নিচু নেই, উঁচুও নেই। ইবন কাসীর নতুন আয়াতটি পড়েন সেই দৃশ্যের ভেতর থেকেই। যেদিন তারা এসব অবস্থা আর ভয়াবহতা দেখবে, সেদিন তারা দ্রুত ডাকদাতার ডাকে সাড়া দেবে। ২০:১০৯ আয়াতও শুরু হয়েছে ইয়াওমাইযিন দিয়ে। ফলে আয়াতটি কয়েকটি বাক্যের এক ছোট সারির অংশ, যার প্রতিটি শুরুতেই আঙুল তোলে একই দিনের দিকে।"
+          },
+          {
+            "en": "A small echo joins the two verses, and it is visible on the page. Of the levelled earth, 20:107 says you will see in it no 'iwaj, no crookedness. Of the call, 20:108 says la 'iwaja lahu, no crookedness to it, or from it. The ground keeps nothing to turn behind, and the call leaves nothing to turn aside to.",
+            "bn": "দুই আয়াতের মাঝে ছোট্ট একটা প্রতিধ্বনি আছে, পাতায় চোখ রাখলেই দেখা যায়। সমান মাটির কথা বলতে গিয়ে ২০:১০৭ বলে, তাতে তুমি কোনো ইওয়াজ, কোনো বক্রতা দেখবে না। আর ডাকের কথা বলতে গিয়ে ২০:১০৮ বলে, লা ইওয়াজা লাহু: তাতে কোনো বক্রতা নেই, কিংবা তা থেকে সরে যাওয়ার উপায় নেই। মাটিতে আড়াল নেওয়ার মতো কিছু থাকে না, আর ডাক থেকে সরে যাওয়ার মতো কোনো দিকও থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Calls Them",
+          "bn": "যিনি ডাক দেবেন"
+        },
+        "p": [
+          {
+            "en": "The verse does not name the caller, ad-da'i. Al-Qurtubi does: he means Israfil (AS), when he blows into the Horn. Al-Baghawi says the same and reports the words of the call: Israfil sets the Horn to his mouth and says, O worn-out bones, torn skins and scattered flesh, come to the presentation before ar-Rahman. At-Tabari keeps to a description: the people follow the voice of Allah's caller, who calls them to the standing-place of the Resurrection and gathers them there.",
+            "bn": "আয়াতে ডাকদাতা, আদ-দাঈর নাম নেই। কুরতুবী নামটি বলেন: এখানে উদ্দেশ্য ইসরাফীল (আঃ), যখন তিনি শিঙায় ফুঁ দেবেন। বাগাভীও তা-ই বলেন, আর ডাকের কথাগুলোও উদ্ধৃত করেন। ইসরাফীল শিঙা মুখে নিয়ে বলবেন: হে জীর্ণ হাড়, ছেঁড়া চামড়া আর ছড়িয়ে থাকা মাংস, আর-রহমানের সামনে হাজির হতে চলে এসো। তাবারী নাম না নিয়ে শুধু বর্ণনা দেন। মানুষ আল্লাহর সেই ডাকদাতার আওয়াজের পেছনে চলবে, যিনি তাদের কিয়ামতের অবস্থানস্থলের দিকে ডাকবেন এবং সেখানে জড়ো করবেন।"
+          },
+          {
+            "en": "Ibn Kathir relays a picture from Muhammad ibn Ka'b al-Qurazi: Allah gathers the people on the Day of Resurrection in darkness, and a caller calls out, so the people follow the voice and come to it. As-Sa'di places the moment at the rising from the graves, when the caller summons them to come and assemble for the Standing. Al-Qurtubi points to 50:41 as the parallel: and listen for the Day when the caller calls from a near place.",
+            "bn": "ইবন কাসীর মুহাম্মাদ ইবন কা'ব আল-কুরাযীর একটি বর্ণনা আনেন। কিয়ামতের দিন আল্লাহ মানুষকে অন্ধকারে একত্র করবেন। তখন একজন আহ্বানকারী ডাক দেবেন, আর মানুষ সেই আওয়াজের পেছনে চলে তাঁর কাছে পৌঁছাবে। সা'দী মুহূর্তটিকে রাখেন কবর থেকে ওঠার সময়ে, যখন ডাকদাতা তাদের হাজির হতে আর অবস্থানের জন্য জড়ো হতে ডাকবেন। কুরতুবী এর সমান্তরাল হিসেবে দেখান ৫০:৪১ আয়াত: আর শোনো, যেদিন আহ্বানকারী কাছের এক জায়গা থেকে ডাক দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Is the Straightness?",
+          "bn": "সরলতা কার, ডাকের না মানুষের?"
+        },
+        "p": [
+          {
+            "en": "The phrase la 'iwaja lahu, literally no crookedness to him, is where the commentators divide. At-Tabari takes it to describe the people: no crookedness for them away from him and no swerving, but they flock to him in haste. The wording says lahu, to him, he explains, while the meaning is that they do not bend away from him, as people say in ordinary speech: so-and-so called me with a call I had no crookedness from. Ibn Kathir records Qatada, they do not incline away from him, and Abu Salih, no crookedness from him.",
+            "bn": "লা ইওয়াজা লাহু, শব্দে শব্দে 'তার কোনো বক্রতা নেই'। এখানেই তাফসীরকারদের পথ আলাদা হয়েছে। তাবারী একে মানুষের বিবরণ ধরেন: তার থেকে তাদের কোনো বাঁক নেই, কোনো সরে যাওয়া নেই, বরং তারা দ্রুত তার দিকে জড়ো হবে। তিনি ব্যাখ্যা করেন, শব্দে আছে লাহু, তার, কিন্তু অর্থ হলো তারা তার থেকে বেঁকে যাবে না। সাধারণ কথাতেও লোকে বলে, অমুক আমাকে এমনভাবে ডাকল যে ডাক থেকে আমার সরে যাওয়ার উপায় ছিল না। ইবন কাসীর কাতাদার কথা আনেন, তারা তার থেকে সরে যাবে না, আর আবূ সালিহের কথা, তার থেকে কোনো বাঁক নেই।"
+          },
+          {
+            "en": "Al-Qurtubi gives this as the view of most scholars: no turning-aside for them from his call; they hasten to it and do not swerve. Al-Baghawi calls the phrase maqlub, inverted, meaning no crookedness for them from the caller's call: they do not swerve from it to the right or the left, are not able to. Al-Qurtubi then records two further views without choosing between them. Some said the absence of crookedness belongs to his call. Others took the phrase as describing the following itself: they follow the caller with a following that has no crookedness.",
+            "bn": "কুরতুবী একে অধিকাংশ আলেমের মত বলে উল্লেখ করেন: তার ডাক থেকে তাদের সরে যাওয়ার কোনো পথ নেই, তারা সেদিকে ছুটে যাবে, কোথাও হেলবে না। বাগাভী বাক্যটিকে বলেন মাকলূব, উল্টে বলা। অর্থ দাঁড়ায়, ডাকদাতার ডাক থেকে তাদের কোনো বাঁক নেই। ডানে বা বাঁয়ে তারা সরবে না, সরার ক্ষমতাও থাকবে না। এরপর কুরতুবী আরও দুটি মত আনেন, কোনোটিকে বেছে না নিয়ে। কারও মতে বক্রতা না থাকার কথাটা তার ডাকের বিবরণ। আবার কারও মতে এটা অনুসরণেরই বিবরণ: তারা ডাকদাতার পেছনে চলবে এমনভাবে, যাতে কোনো বক্রতা নেই।"
+          },
+          {
+            "en": "As-Sa'di takes the second meaning. No crookedness belongs to the call itself: it is true and sincere for all creation, it reaches each of them, and it cries out to them all, so they come to the Standing. Al-Muyassar joins the two: there is no turning away from the caller's call, because it is truth and sincerity for all creation. The difference is real, even if the readings sit close together. On the first reading, the straightness lies in the crowd, who can no longer turn away; on the second, it lies in the voice, which leads no one astray.",
+            "bn": "সা'দী দ্বিতীয় অর্থটি নেন। বক্রতা নেই ডাকের ভেতরেই। সে ডাক সমস্ত সৃষ্টির জন্য সত্য ও খাঁটি, প্রত্যেকের কানে তা পৌঁছায়, সবাইকে একসঙ্গে ডেকে তোলে, আর তারা অবস্থানস্থলে হাজির হয়। মুয়াসসার দুটোকে মিলিয়ে দেয়: ডাকদাতার ডাক থেকে মুখ ফেরানোর কোনো পথ নেই, কারণ সে ডাক সব সৃষ্টির জন্য সত্য ও খাঁটি। দুই ব্যাখ্যা কাছাকাছি হলেও পার্থক্যটা সত্যিকারের। এক ব্যাখ্যায় সরলতা ভিড়ের মধ্যে, যারা আর মুখ ফিরিয়ে নিতে পারে না। অন্য ব্যাখ্যায় সরলতা কণ্ঠের মধ্যে, যে কাউকে ভুল পথে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swift, and Too Late",
+          "bn": "দ্রুত, কিন্তু অসময়ে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws out the edge in that haste. Wherever they are commanded, he says, they will rush to it; had they been like this in the world, it would have been of more benefit to them, but now it comes where it does not benefit them. He sets two verses beside it. In 19:38: how clearly they will hear and see on the Day they come to Us. And in 54:8: racing ahead toward the caller, the disbelievers saying, this is a difficult Day. Hearing, sight and speed all arrive in full, and arrive late.",
+            "bn": "ইবন কাসীর এই দ্রুততার ভেতরের ধারটা দেখিয়ে দেন। তাঁর কথায়, যেখানেই তাদের যেতে বলা হবে, তারা সেদিকে ছুটে যাবে। দুনিয়াতে যদি তারা এমন হতো, তবে তা তাদের বেশি কাজে আসত। কিন্তু এখন তা এমন জায়গায় এসেছে, যেখানে আর কোনো উপকার নেই। পাশে তিনি দুটি আয়াত রাখেন। ১৯:৩৮: যেদিন তারা আমার কাছে আসবে, সেদিন তারা কত স্পষ্ট শুনবে আর দেখবে! আর ৫৪:৮: তারা ছুটে যাবে আহ্বানকারীর দিকে, আর কাফিররা বলবে, এ তো কঠিন দিন। শোনা, দেখা, ছুটে চলা সবই আসে পুরোপুরি, কিন্তু আসে দেরিতে।"
+          },
+          {
+            "en": "As-Sa'di describes them hurrying towards the caller, not glancing away from him and not veering right or left. The obedience is complete, yet it is no longer a choice that earns anything. Read this way, the verse's sharpest question is not about the speed of that Day. It is about the speed of today, while a turn towards the call can still be taken freely.",
+            "bn": "সা'দীর বর্ণনায় তারা ছুটে চলবে ডাকদাতার দিকে, তাঁর দিক থেকে চোখ ফেরাবে না, ডানে বা বাঁয়ে হেলবে না। আনুগত্য তখন পুরোপুরি, কিন্তু সেটা আর এমন বেছে নেওয়া নয় যার কোনো প্রতিদান আছে। এভাবে পড়লে আয়াতের সবচেয়ে তীক্ষ্ণ প্রশ্নটা সেদিনের গতি নিয়ে নয়। প্রশ্ন আজকের গতি নিয়ে, যখন ডাকের দিকে ফেরা এখনো নিজের ইচ্ছায় সম্ভব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Voices Humbled, Owners Meant",
+          "bn": "আওয়াজের বিনয়, মানুষের বিনয়"
+        },
+        "p": [
+          {
+            "en": "Wa-khasha'ati l-aswatu li-r-rahman: and the voices are humbled before the Most Merciful. Ibn Abbas, in Ibn Kathir's report and in at-Tabari's chain through Ali ibn Abi Talha, glosses khasha'at with one word: sakanat, they fell still. Al-Qurtubi gives two words, dhallat wa-sakanat, they were abased and fell still, and al-Baghawi three: they fell still, were abased and submitted. Khushu', humility, is a word one expects of hearts and bodies. Here the verse says it of voices.",
+            "bn": "ওয়া খাশাআতিল আসওয়াতু লির-রহমান: আর দয়াময়ের সামনে সব আওয়াজ বিনীত হয়ে যাবে। ইবন কাসীরের বর্ণনায়, আর আলী ইবন আবী তালহার সূত্রে তাবারীর সনদে, ইবন আব্বাস (রাঃ) খাশাআত শব্দের ব্যাখ্যা দেন একটিমাত্র শব্দে: সাকানাত, থেমে গেল। কুরতুবী দেন দুটি শব্দ, যাল্লাত ওয়া সাকানাত, হীন হলো আর থেমে গেল। বাগাভী দেন তিনটি: থেমে গেল, হীন হলো, অবনত হলো। খুশূ বা বিনয়ের কথা সাধারণত শোনা যায় মন আর শরীরের বেলায়। এখানে আয়াত তা বলছে আওয়াজের বেলায়।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi both stop on that choice of word. The voices are described with humility, says at-Tabari, but the meaning is for those who own them: all of them are humbled before their Lord, so you will not hear from any speaker among them a word, except whoever ar-Rahman permits. That clause leans forward into 20:109. Al-Qurtubi reads li-r-rahman as for His sake, and gives the reason for the hush: every tongue there is silent out of awe. As-Sa'di adds what they are silent for: they listen, waiting for ar-Rahman's judgment upon them.",
+            "bn": "তাবারী আর বাগাভী দুজনেই এই শব্দ বাছাইয়ের কাছে থামেন। তাবারী বলেন, বিনয়ের গুণটা দেওয়া হয়েছে আওয়াজকে, কিন্তু উদ্দেশ্য আওয়াজের মালিকেরা। তারা সবাই তাদের রবের সামনে অবনত। তাই আর-রহমান যাকে অনুমতি দেবেন সে ছাড়া কোনো বক্তার মুখে তুমি কোনো কথা শুনবে না। এই শেষ কথাটা সামনের ২০:১০৯ আয়াতের দিকে ঝুঁকে আছে। কুরতুবী লির-রহমানের অর্থ করেন, তাঁরই কারণে। নীরবতার কারণও তিনি বলেন: সেখানে প্রতিটি জিহ্বা ভয়মিশ্রিত শ্রদ্ধায় চুপ। সা'দী যোগ করেন তারা কীসের জন্য চুপ: তারা কান পেতে আছে, আর-রহমানের ফয়সালার অপেক্ষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Footsteps or Moving Lips",
+          "bn": "পায়ের শব্দ, নাকি ঠোঁটের নড়া"
+        },
+        "p": [
+          {
+            "en": "Fa-la tasma'u illa hamsa: so you will hear nothing but hams. Two meanings come down from Ibn Abbas himself. Through Sa'id ibn Jubayr, Ibn Kathir reports, he said: the tread of feet; and Ibn Kathir lists Ikrima, Mujahid, ad-Dahhak, ar-Rabi' ibn Anas, Qatada and Ibn Zayd as saying the same. Through Ali ibn Abi Talha he said: the hidden voice, which is also reported from Ikrima and ad-Dahhak.",
+            "bn": "ফালা তাসমাউ ইল্লা হামসা: তুমি শুনবে না হামস ছাড়া আর কিছু। ইবন আব্বাস (রাঃ) থেকেই দুটি অর্থ এসেছে। ইবন কাসীর জানান, সাঈদ ইবন জুবাইরের সূত্রে তিনি বলেছেন: পায়ের চাপ, পা ফেলার শব্দ। ইবন কাসীর আরও জানান, ইকরিমা, মুজাহিদ, দাহহাক, রাবী' ইবন আনাস, কাতাদা আর ইবন যায়দও একই কথা বলেছেন। আবার আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন: চাপা কণ্ঠস্বর। এ কথা ইকরিমা ও দাহহাক থেকেও বর্ণিত।"
+          },
+          {
+            "en": "Mujahid, in at-Tabari's chains, leans to speech: hushed talk, a lowering of the voice, and in one line a man's speech that you do not hear, as he moves his lips and tongue. Al-Baghawi has Mujahid's lowered talk too, and then a report from Sa'id ibn Jubayr from Ibn Abbas: the moving of lips without speaking. In Ibn Kathir and at-Tabari that same route carries the tread of feet. The books record different words through one chain, and this article leaves them as recorded. As-Sa'di gives both meanings side by side: the tread of feet, or a whisper made only by moving the lips.",
+            "bn": "তাবারীর সনদগুলোতে মুজাহিদ ঝুঁকেছেন কথার দিকে: চাপা স্বরের কথাবার্তা, গলা নামিয়ে বলা। এক বর্ণনায় তিনি বলেন, মানুষের এমন কথা, যা তুমি শুনতে পাও না, শুধু তার ঠোঁট আর জিহ্বা নড়ে। বাগাভীও মুজাহিদের নিচু স্বরের কথা আনেন। তারপর আনেন সাঈদ ইবন জুবাইরের মাধ্যমে ইবন আব্বাস (রাঃ)-এর বর্ণনা: কথা না বলে শুধু ঠোঁট নাড়া। অথচ ইবন কাসীর আর তাবারীতে এই একই সূত্রে এসেছে পা ফেলার শব্দ। একই সনদে বইগুলো ভিন্ন ভিন্ন শব্দ লিখেছে, এই লেখা সেগুলো যেমন আছে তেমনই রাখছে। সা'দী দুই অর্থ পাশাপাশি রাখেন: পা ফেলার শব্দ, অথবা শুধু ঠোঁট নেড়ে চুপিচুপি কথা।"
+          },
+          {
+            "en": "Sa'id ibn Jubayr, in his own words, joined the two: talk, its secret, and the tread of feet. Ibn Kathir finds the combination possible and explains each half. The tread of feet is the people's going to the place of gathering, walking in stillness and submission. The hidden speech may belong to one state of the Day and not another, as Allah says in 11:105: the Day it comes no soul will speak except by His permission. Al-Qurtubi records that Ubayy ibn Ka'b read the verse as fa-la yantiquna illa hamsa, they will not speak except in hams, and calls the meanings close.",
+            "bn": "সাঈদ ইবন জুবাইর নিজের কথায় দুটোকে মিলিয়েছেন: কথা, তার গোপন অংশ, আর পা ফেলার শব্দ। ইবন কাসীর এই মিলনকে সম্ভব মনে করেন এবং দুই অংশেরই ব্যাখ্যা দেন। পা ফেলার শব্দ মানে মানুষের হাশরের মাঠের দিকে চলা, শান্ত ও অবনত হয়ে হাঁটা। আর চাপা কথা হয়তো সেদিনের কোনো একটি অবস্থায় থাকবে, অন্য অবস্থায় নয়। যেমন আল্লাহ ১১:১০৫ আয়াতে বলেন: যেদিন তা আসবে, তাঁর অনুমতি ছাড়া কেউ কথা বলবে না। কুরতুবী জানান, উবাই ইবন কা'ব (রাঃ) আয়াতটি পড়েছেন ফালা ইয়ানতিকূনা ইল্লা হামসা, তারা হামস ছাড়া কথা বলবে না। কুরতুবীর মতে অর্থ কাছাকাছি।"
+          },
+          {
+            "en": "At-Tabari gives the root sense behind both readings: the hidden sound, as when one says a man hamasa his talk to another, meaning he confided it and kept it low. He cites a rajaz line, wa-hunna yamshina bina hamisa, and they walk with us in a hush, where hams is the sound of camels' padded feet on the move. Al-Qurtubi states the rule outright: the root h-m-s means hiddenness however it turns. Footsteps and moving lips are both sounds a person barely makes, and the verse says that is all the whole gathering will make.",
+            "bn": "দুই ব্যাখ্যার পেছনের মূল অর্থটি তাবারী জানিয়ে দেন: চাপা আওয়াজ। কেউ যখন কাউকে নিজের কথা গোপনে, নিচু স্বরে বলে, তখন আরবিতে বলা হয়, সে কথাটা হামস করল। তিনি একটি রাজায কবিতার চরণ আনেন, ওয়া হুন্না ইয়ামশীনা বিনা হামীসা, তারা আমাদের নিয়ে চলে নিঃশব্দে। সেখানে হামস মানে চলার সময় উটের নরম খুরের শব্দ। কুরতুবী নিয়মটা খোলাখুলি বলেন: হা-মীম-সীন ধাতু যেভাবেই ঘুরুক, মূলে তার অর্থ গোপনীয়তা। পা ফেলার শব্দ আর ঠোঁটের নড়া, দুটোই এমন আওয়াজ যা মানুষ প্রায় করেই না। আয়াত বলছে, গোটা সমাবেশের আওয়াজ হবে কেবল এটুকুই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silence Before the Merciful",
+          "bn": "দয়াময়ের সামনে নিস্তব্ধতা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di widens the picture of the silence. In that great Standing, he writes, you will see the rich and the poor, men and women, the free and the enslaved, kings and common people, all silent and listening, eyes lowered and necks bowed, not knowing what will be decided for each or done with each. Each is taken up with himself, away from father and brother, friend and beloved, and he cites 80:37: for every man, that Day, a matter adequate for him.",
+            "bn": "সা'দী নীরবতার ছবিটা আরও বড় করে দেখান। তিনি লেখেন, সেই মহান অবস্থানস্থলে দেখা যাবে ধনী আর গরিব, পুরুষ আর নারী, স্বাধীন আর দাস, বাদশাহ আর সাধারণ মানুষ, সবাই চুপ, কান পেতে আছে। চোখ নত, ঘাড় নোয়ানো। কারও জানা নেই তার ব্যাপারে কী ফয়সালা হবে, তার সঙ্গে কী করা হবে। প্রত্যেকে নিজেকে নিয়েই ব্যস্ত, বাবা ও ভাই, বন্ধু ও প্রিয়জনের কথা ভুলে। এখানে তিনি ৮০:৩৭ আয়াত আনেন: সেদিন প্রত্যেকের এমন অবস্থা হবে, যা তাকে ব্যস্ত রাখার জন্য যথেষ্ট।"
+          },
+          {
+            "en": "Then he turns from fear to hope, and draws it from the very name this verse uses. The voices are humbled for ar-Rahman; none speaks except whom ar-Rahman permits; and in 25:26 true sovereignty that Day belongs to ar-Rahman. From these verses and from His mercy outrunning His anger, he hopes that creation will then see from the Generous Lord a grace and forgiveness no tongue can express.",
+            "bn": "এরপর তিনি ভয় থেকে আশার দিকে ফেরেন। আশাটা তিনি নেন এই আয়াতে ব্যবহৃত নামটি থেকেই। আওয়াজ বিনীত হবে আর-রহমানের জন্য। আর-রহমান যাকে অনুমতি দেবেন সে ছাড়া কেউ কথা বলবে না। আর ২৫:২৬ আয়াতে, সেদিন প্রকৃত রাজত্ব আর-রহমানের। এই আয়াতগুলো থেকে, আর তাঁর রহমত তাঁর ক্রোধকে ছাড়িয়ে যায় এ কথা থেকে তিনি আশা করেন, সৃষ্টি তখন দয়ালু রবের কাছ থেকে এমন অনুগ্রহ আর মাগফিরাত দেখবে, যা কোনো ভাষায় বলা যায় না।"
+          },
+          {
+            "en": "No tafsir consulted attaches a sound hadith to this verse. As-Sa'di cites a general narration, not tied to it, from Muslim's Sahih, narrated by Abu Huraira (2752c): There are one hundred (parts of) mercy for Allah and He has sent down out of these one part of mercy upon the jinn and human beings and animals and the insects, and it is because of this (one part) that they love one another, show kindness to one another and even the beast treats its young one with affection, and Allah has reserved ninety nine parts of mercy with which He would treat His servants on the Day of Resurrection.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। সা'দী নবী ﷺ-এর একটি সাধারণ হাদীস আনেন, যা এ আয়াতের সঙ্গে যুক্ত নয়। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে আবূ হুরায়রা (রাঃ) থেকে তা বর্ণনা করেছেন (2752c): আল্লাহর আছে একশো রহমত। তার মধ্য থেকে একটি রহমত তিনি নাযিল করেছেন জিন, মানুষ, পশু আর কীটপতঙ্গের মধ্যে। এর কারণেই তারা পরস্পরকে ভালোবাসে, একে অপরের প্রতি দয়া করে, এমনকি বন্য প্রাণীও নিজের বাচ্চার প্রতি মমতা দেখায়। আর নিরানব্বইটি রহমত আল্লাহ রেখে দিয়েছেন, যা দিয়ে কিয়ামতের দিন তিনি তাঁর বান্দাদের প্রতি রহম করবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Voice We Use Now",
+          "bn": "আজকের কণ্ঠস্বর"
+        },
+        "p": [
+          {
+            "en": "The verse is not an invitation to picture that crowd in detail. Its reflection turns inward. On that Day every voice will be lowered, with no choice in it. Now, the lowering is still a choice. A person can carry into ordinary speech the humility that will then be laid on every voice: speaking less to win and more to be true, and lowering the voice in a quarrel. What the Day will take from everyone, a believer can give freely beforehand.",
+            "bn": "আয়াতটি সেই ভিড়ের খুঁটিনাটি ছবি আঁকার আমন্ত্রণ নয়। এর ভাবনা ভেতরের দিকে। সেদিন প্রতিটি কণ্ঠ নেমে যাবে, কারও বেছে নেওয়ার সুযোগ থাকবে না। আজ কণ্ঠ নামানো এখনো নিজের হাতে। সেদিন যে বিনয় প্রতিটি আওয়াজের উপর চাপানো হবে, মানুষ চাইলে তা আজই নিজের রোজকার কথায় নিয়ে আসতে পারে। জেতার জন্য কম বলা, সত্যের জন্য বেশি। ঝগড়ার সময় গলা নামানো। যা সেদিন সবার কাছ থেকে নিয়ে নেওয়া হবে, মুমিন তা আগেভাগেই খুশিমনে দিয়ে দিতে পারে।"
+          },
+          {
+            "en": "The following can be learned now as well. Ibn Kathir's remark is the hinge: had they answered so quickly in this world, it would have profited them. A call to good, to prayer, to turning back, to putting right a wrong, reaches most people more than once. The verse asks how straight the answer is, before the Day when no one can turn right or left. Whoever learns to come to it without crookedness now, and to stand hushed before ar-Rahman in prayer now, has begun, while it still counts, what that Day will ask of everyone.",
+            "bn": "অনুসরণ করাটাও আজই শেখা যায়। ইবন কাসীরের কথাটাই এখানে মূল: দুনিয়াতে যদি তারা এত দ্রুত সাড়া দিত, তবে তা তাদের কাজে আসত। ভালোর ডাক, নামাজের ডাক, তওবার ডাক, কোনো অন্যায় শুধরে নেওয়ার ডাক, বেশির ভাগ মানুষের কাছে একাধিকবার আসে। আয়াত জানতে চায়, সেই ডাকে সাড়া কতটা সোজা, সেই দিনের আগে, যেদিন কেউ ডানে বা বাঁয়ে ফিরতে পারবে না। যে আজই বাঁক ছাড়া সাড়া দিতে শেখে, আজই নামাজে আর-রহমানের সামনে চুপচাপ দাঁড়াতে শেখে, সে সেই দিনের দাবি পূরণ শুরু করে দিল, যখন তার মূল্য এখনো আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "20:114": {
     "sections": [
       {

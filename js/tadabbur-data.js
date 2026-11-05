@@ -23471,6 +23471,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet hurtful words with patience and with praise of your Lord at the fixed times of prayer, and seek your contentment in what He gives.",
     "lessonBn": "আঘাত করা কথার জবাব দিন ধৈর্য দিয়ে আর নামাজের বাঁধা সময়ে রবের প্রশংসা দিয়ে। আর নিজের সন্তুষ্টি খুঁজুন তিনি যা দেন তার মধ্যে।"
+  },
+  "20:108": {
+    "reflectionEn": "The mountains are gone and the ground lies level. Then a single voice calls, and everyone follows it, with no one turning to the right or the left. The verse then listens for sound. Every voice is stilled before the Most Merciful, and all that can be heard is a hush: the soft tread of feet, or lips that move without words. People who argued, boasted and shouted all their lives now walk in silence. The verse does not ask me to picture that crowd. It asks about my voice now. How loud is it, and what is it for? And when a call to good reaches me today, do I come straight to it, or do I take the long way round?",
+    "reflectionBn": "পাহাড়গুলো আর নেই, মাটি সমান হয়ে পড়ে আছে। তারপর একটি ডাক আসে, আর সবাই সেই ডাকের পেছনে চলে। কেউ ডানে বা বাঁয়ে ফেরে না। এরপর আয়াত কান পাতে আওয়াজের দিকে। দয়াময়ের সামনে সব আওয়াজ থেমে যায়। শোনা যায় শুধু মৃদু শব্দ: পায়ের চাপা আওয়াজ, কিংবা শব্দহীন ঠোঁটের নড়াচড়া। যারা সারা জীবন তর্ক করেছে, বড়াই করেছে, গলা চড়িয়েছে, তারাও এখন হাঁটছে চুপচাপ। আয়াতটি আমাকে সেই ভিড়ের ছবি আঁকতে বলছে না। প্রশ্নটা আমার আজকের কণ্ঠ নিয়ে। সেটা কতটা উঁচু, আর কীসের জন্য? আর আজ যখন ভালোর দিকে কোনো ডাক আমার কাছে পৌঁছায়, আমি কি সোজা চলে আসি, নাকি ঘুরপথ ধরি?",
+    "pointsEn": [
+      "When a call to what is right reaches me, how long do I usually take before I answer it?",
+      "Which of my words this week would I be glad to have said, if I knew every voice will one day fall silent?",
+      "Where do I raise my voice to win, when a lower one would have been enough?",
+      "When I know the straight way, which turning aside to the right or the left have I made into a habit?",
+      "In my prayer, do I stand before the Most Merciful with a hushed heart, or with a crowded one?"
+    ],
+    "pointsBn": [
+      "ন্যায়ের দিকে কোনো ডাক এলে সাধারণত কতক্ষণ পর আমি সাড়া দিই?",
+      "একদিন সব কণ্ঠ থেমে যাবে, এ কথা মনে রাখলে এ সপ্তাহে আমার মুখের কোন কথাগুলো নিয়ে আমি খুশি থাকতাম?",
+      "কোথায় আমি জেতার জন্য গলা চড়াই, যেখানে নিচু স্বরই যথেষ্ট ছিল?",
+      "সোজা পথ জানার পরও ডানে বা বাঁয়ে সরে যাওয়ার কোন অভ্যাস আমি গড়ে তুলেছি?",
+      "নামাজে আমি কি দয়াময়ের সামনে শান্ত মন নিয়ে দাঁড়াই, নাকি ভিড়ে ঠাসা মন নিয়ে?"
+    ],
+    "lessonEn": "On that Day every voice falls silent before the Most Merciful. Let your voice be humble now, and answer the call to good while answering still counts.",
+    "lessonBn": "সেদিন দয়াময়ের সামনে সব কণ্ঠ থেমে যাবে। তাই এখনই নিজের কণ্ঠকে বিনয়ী করুন, আর ভালোর ডাকে সাড়া দিন যখন সাড়া দেওয়ার মূল্য এখনো আছে।"
   }
 };
 
