@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "9:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Notice for the Whole Gathering",
+          "bn": "গোটা জমায়েতের জন্য ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Wa-adhanun mina Allahi wa rasulihi ila an-nas: and an announcement from Allah and His Messenger to the people. Al-Baghawi explains adhan as i'lam, making something known, and links it to the call to prayer: you say adhantuhu when you have informed someone, and the root is the ear, udhun, as though the news were set inside the listener's ear. Al-Qurtubi says the word means making known, without any disagreement among the linguists, and that the people here means all of creation.",
+            "bn": "ওয়া আযানুম মিনাল্লাহি ওয়া রসূলিহী ইলান নাস: আর আল্লাহ ও তাঁর রসূলের পক্ষ থেকে মানুষের প্রতি ঘোষণা। বাগাভী বলেন, আযান মানে ই'লাম, কোনো কিছু জানিয়ে দেওয়া। নামাযের আযানও এই অর্থেই। কাউকে খবর দিলে আরবিতে বলা হয় আযানতুহু, আর শব্দটির মূল উযুন, অর্থাৎ কান। যেন খবরটা শ্রোতার কানের ভেতরে পৌঁছে দেওয়া হলো। কুরতুবী বলেন, ভাষাবিদদের মধ্যে কোনো মতভেদ ছাড়াই আযানের অর্থ জানিয়ে দেওয়া, আর এখানে 'মানুষ' বলতে সমগ্র সৃষ্টি।"
+          },
+          {
+            "en": "That is a widening from the verse before. 9:1 is addressed to those of the polytheists with whom you had made a treaty; 9:3 turns to an-nas, the people at large. At-Tabari explains the grammar of the opening word: adhan is nominative because it is joined to bara'a in 9:1, as though the sentence ran, this is a disassociation from Allah and His Messenger, and an announcement from Allah.",
+            "bn": "আগের আয়াতের তুলনায় এখানে সম্বোধন বড় হয়েছে। ৯:১ আয়াতের কথা ছিল মুশরিকদের সেই লোকদের প্রতি, যাদের সঙ্গে তোমরা চুক্তি করেছিলে। ৯:৩ আয়াত ফিরেছে আন-নাস, অর্থাৎ সাধারণ মানুষের দিকে। প্রথম শব্দটির ব্যাকরণ তাবারী খুলে বলেন: আযান শব্দে পেশ, কারণ তা ৯:১ আয়াতের বারাআ শব্দের সঙ্গে যুক্ত। যেন বাক্যটা এমন: এ হলো আল্লাহ ও তাঁর রসূলের পক্ষ থেকে সম্পর্কচ্ছেদ, আর আল্লাহর পক্ষ থেকে ঘোষণা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Arafa, or the Tenth?",
+          "bn": "আরাফা, নাকি দশ তারিখ?"
+        },
+        "p": [
+          {
+            "en": "Yawm al-hajj al-akbar, the day of the greater pilgrimage, is where the commentators divide, and at-Tabari opens the clause by saying the people of knowledge differ over it. The first view holds that it is the Day of 'Arafa. Al-Baghawi lists for it 'Umar ibn al-Khattab, Ibn 'Abbas in the report of 'Ikrima, and Ibn az-Zubayr, and names it the view of 'Ata', Tawus, Mujahid and Sa'id ibn al-Musayyib. Al-Qurtubi adds 'Uthman, and calls it the position of Abu Hanifa and of ash-Shafi'i. Ibn Kathir cites 'Umar saying: this is the Day of 'Arafa, the day of the greater pilgrimage, so let no one fast it.",
+            "bn": "ইয়াওমুল হাজ্জিল আকবার, অর্থাৎ বড় হজ্জের দিন। এখানে এসে তাফসীরকারেরা ভাগ হয়ে যান, আর তাবারী আলোচনা শুরুই করেন এই বলে যে আলেমদের মধ্যে এ নিয়ে মতভেদ আছে। এক পক্ষের মতে এটি আরাফার দিন। বাগাভী এ পক্ষে উল্লেখ করেন উমর ইবনুল খাত্তাব (রাঃ), ইকরিমার বর্ণনায় ইবন আব্বাস (রাঃ) এবং ইবনুয যুবাইর (রাঃ)-এর নাম, আর বলেন এটি আতা, তাউস, মুজাহিদ ও সাঈদ ইবনুল মুসাইয়্যিবের মত। কুরতুবী এর সঙ্গে উসমান (রাঃ)-এর নাম যোগ করেন এবং বলেন, এটি আবু হানীফা ও শাফেয়ীর মত। ইবন কাসীর উমর (রাঃ)-এর এ কথা উদ্ধৃত করেন: আজ আরাফার দিন, আজ বড় হজ্জের দিন, কাজেই কেউ যেন আজ রোযা না রাখে।"
+          },
+          {
+            "en": "The other side says it is the Day of Sacrifice, yawm an-nahr, the tenth of Dhu'l-Hijja. Al-Qurtubi names for it 'Ali, Ibn 'Abbas in another report, Ibn Mas'ud, Ibn Abi Awfa and al-Mughira ibn Shu'ba, and calls it the position of Malik. Ibn Kathir, as-Sa'di and the Muyassar all gloss the day as the Day of Sacrifice, and Ibn Kathir calls it the best of the days of the rites, the most visible, and the day of the largest gathering. Al-Baghawi tells of a man who seized the bridle of 'Ali's white mule on that day and asked; 'Ali said: it is this day of yours, let her go.",
+            "bn": "অন্য পক্ষের মতে এটি কুরবানির দিন, ইয়াওমুন নাহর, যিলহজ্জের দশ তারিখ। কুরতুবী এ পক্ষে উল্লেখ করেন আলী (রাঃ), আরেক বর্ণনায় ইবন আব্বাস (রাঃ), ইবন মাসঊদ (রাঃ), ইবন আবী আওফা (রাঃ) ও মুগীরা ইবন শু'বা (রাঃ)-এর নাম। তিনি বলেন, এটি ইমাম মালিকের মত। ইবন কাসীর, সা'দী ও মুয়াসসার তিনজনই দিনটিকে কুরবানির দিন বলে ব্যাখ্যা করেন। ইবন কাসীরের ভাষায়, হজ্জের দিনগুলোর মধ্যে এটি সবচেয়ে উত্তম, সবচেয়ে প্রকাশ্য, আর এ দিনেই সবচেয়ে বড় জমায়েত হয়। বাগাভী এক ঘটনা বলেন: সেদিন আলী (রাঃ) সাদা খচ্চরে চড়ে যাচ্ছিলেন, এক লোক লাগাম ধরে এ দিনের কথা জিজ্ঞেস করল। তিনি বললেন: তোমার আজকের এই দিনটাই, লাগাম ছেড়ে দাও।"
+          },
+          {
+            "en": "'Ali stands on both sides of the question. At-Tabari and Ibn Kathir carry a report through Abu as-Sahba' al-Bakri in which 'Ali says he was sent with Abu Bakr carrying forty verses of Bara'a; Abu Bakr preached at 'Arafa, then told him to rise and deliver the message, and he read the verses; at Mina he went round the tents reading them to those who had missed it. From that, he says, I think you supposed it was the Day of Sacrifice; no, it is the Day of 'Arafa. A third view, from Mujahid and Sufyan ath-Thawri, takes the day as a span, like the day of Siffin.",
+            "bn": "মজার ব্যাপার, আলী (রাঃ)-কে দুই পক্ষেই পাওয়া যায়। তাবারী ও ইবন কাসীর আবুস সাহবা আল-বাকরীর সূত্রে এক বর্ণনা আনেন। সেখানে আলী (রাঃ) বলেন, তাঁকে আবু বকর (রাঃ)-এর সঙ্গে পাঠানো হয়েছিল বারাআর চল্লিশটি আয়াত দিয়ে। আবু বকর (রাঃ) আরাফায় খুতবা দিলেন, তারপর তাঁকে বললেন, উঠে রসূলের বার্তা পৌঁছে দাও। তিনি আয়াতগুলো পড়ে শোনালেন। পরে মিনায় যারা তা শোনেনি, তাঁবুতে তাঁবুতে ঘুরে তাদের পড়ে শোনালেন। তিনি বলেন, আমার ধারণা এ থেকেই তোমরা ভেবেছ এটা কুরবানির দিন; না, এটা আরাফার দিন। তৃতীয় এক মত মুজাহিদ ও সুফিয়ান সাওরীর। তাঁদের কাছে এ 'দিন' মানে একটা সময়কাল, যেমন সিফফীনের দিন বলতে গোটা যুদ্ধকাল বোঝায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Reasons From the Rites",
+          "bn": "হজ্জের আমল থেকে তাবারীর যুক্তি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives reasons for his choice. First, the reports from a group of the Companions are consistent that 'Ali proclaimed the message the Prophet ﷺ sent with him, and recited Bara'a to the polytheists, on the Day of Sacrifice. Second, there are reports that the Prophet ﷺ said on that day: do you know what day this is? This is the day of the greater pilgrimage. Third, a day is named after what happens in it: the Day of 'Arafa for the standing at 'Arafa, the Day of Adha for the sacrifice, the Day of Fitr for breaking the fast.",
+            "bn": "তাবারী নিজের পছন্দের পক্ষে যুক্তি দেন। প্রথমত, একদল সাহাবীর বর্ণনা একই কথা বলে: নবী ﷺ আলী (রাঃ)-কে যে বার্তা দিয়ে পাঠিয়েছিলেন, তিনি তা কুরবানির দিনেই মুশরিকদের কাছে ঘোষণা করেন এবং বারাআ পড়ে শোনান। দ্বিতীয়ত, বর্ণনায় আছে, নবী ﷺ সেদিন বলেছিলেন: তোমরা কি জানো আজ কোন দিন? আজ বড় হজ্জের দিন। তৃতীয়ত, দিনের নাম হয় সেদিন যা ঘটে তা দিয়ে। আরাফায় অবস্থানের জন্য আরাফার দিন, কুরবানির জন্য আযহার দিন, রোযা ভাঙার জন্য ফিতরের দিন।"
+          },
+          {
+            "en": "So the day of the Hajj is the day on which people complete their pilgrimage, and that, he argues, is the Day of Sacrifice. The standing at 'Arafa can still be made in the night that opens it, until dawn, and in its morning the works of the Hajj are done: the whole Hajj, he writes, is the Day of Sacrifice. Al-Qurtubi gives Malik's reason in the same shape: the standing falls in its night, and the stoning, sacrifice, shaving and circling fall in its morning.",
+            "bn": "তাহলে হজ্জের দিন সেটাই, যেদিন মানুষ তাদের হজ্জ সম্পন্ন করে। তাবারীর যুক্তিতে সেটা কুরবানির দিন। কারণ আরাফায় অবস্থানের সুযোগ থাকে কুরবানির দিনের আগের রাতে ফজর পর্যন্ত, আর সকালে হজ্জের আমলগুলো আদায় হয়। তাঁর ভাষায়, গোটা হজ্জই কুরবানির দিন। কুরতুবী ইমাম মালিকের যুক্তিও একইভাবে দেন: অবস্থান পড়ে এর রাতে, আর কংকর মারা, কুরবানি, মাথা মুণ্ডানো ও তাওয়াফ পড়ে এর সকালে।"
+          },
+          {
+            "en": "On Mujahid's span of days, at-Tabari grants that the usage is possible in Arabic but says it is not the best-known sense: a day, to the Arabs, runs from sunset to the next sunset, and the Book is read on the best-known meaning of the language it came down in. The 'Arafa side had its evidence as well. Al-Qurtubi says they argued from a report of Makhrama that the Prophet ﷺ called the Day of 'Arafa the day of the greater pilgrimage, and Ibn Kathir calls a report of this kind, through Muhammad ibn Qays ibn Makhrama, mursal. Both views are kept here as the commentators keep them.",
+            "bn": "মুজাহিদের 'দিনের সমষ্টি' ব্যাখ্যা নিয়ে তাবারী মানেন যে আরবিতে এমন ব্যবহার সম্ভব। তবে তাঁর মতে এটা সবচেয়ে পরিচিত অর্থ নয়। আরবদের কাছে দিন মানে এক সূর্যাস্ত থেকে পরের সূর্যাস্ত। আর যে ভাষায় কিতাব নাযিল হয়েছে, তার সবচেয়ে পরিচিত অর্থেই কিতাবের ব্যাখ্যা করতে হয়। আরাফার পক্ষেরও দলিল ছিল। কুরতুবী বলেন, তাঁরা মাখরামার এক বর্ণনা থেকে দলিল নেন, যেখানে নবী ﷺ আরাফার দিনকে বড় হজ্জের দিন বলেছেন। ইবন কাসীর মুহাম্মাদ ইবন কায়স ইবন মাখরামার সূত্রে এ ধরনের এক বর্ণনাকে মুরসাল বলেন। এখানে দুই মতই রাখা হলো, যেভাবে তাফসীরকারেরা রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greater Than What?",
+          "bn": "কার চেয়ে বড়?"
+        },
+        "p": [
+          {
+            "en": "A greater pilgrimage implies a lesser one, and here too the commentators differ. At-Tabari's preferred answer is the plainest: the greater pilgrimage is the Hajj, greater than the 'umra because its works are more, while the 'umra is the lesser because its works are fewer. Al-Baghawi gives the same from az-Zuhri, ash-Sha'bi and 'Ata', and at-Tabari records from az-Zuhri that the people of the Jahiliyya called the 'umra the lesser pilgrimage. One report from Mujahid makes the greater one qiran and the lesser one a Hajj on its own; al-Qurtubi says this has nothing to do with the verse.",
+            "bn": "বড় হজ্জ বললে ছোট একটা হজ্জের কথাও এসে যায়, আর এখানেও তাফসীরকারদের মত ভিন্ন। তাবারীর পছন্দের উত্তরটাই সবচেয়ে সরল: বড় হজ্জ মানে হজ্জ। উমরার চেয়ে এর আমল বেশি, তাই এটা বড়। আর উমরার আমল কম, তাই সেটা ছোট। বাগাভী যুহরী, শা'বী ও আতা থেকে একই কথা আনেন। তাবারী যুহরী থেকে উল্লেখ করেন, জাহিলিয়্যাতের লোকেরা উমরাকে বলত ছোট হজ্জ। মুজাহিদের এক বর্ণনায় বড় হজ্জ মানে কিরান, আর ছোট হজ্জ মানে শুধু হজ্জ। কুরতুবী সাফ বলেন, এ কথার সঙ্গে আয়াতের কোনো সম্পর্ক নেই।"
+          },
+          {
+            "en": "Others tied the name to that one year. At-Tabari records al-Hasan saying it was called greater because Abu Bakr's pilgrimage gathered Muslims and polytheists together and fell on a festival of the Jews and the Christians; al-Qurtubi quotes Ibn 'Atiyya calling it weak that Allah would name a day greater for that. Al-Baghawi reports from Ibn Sirin that it was the day the Prophet ﷺ performed Hajj, when the Muslims' Hajj fell on the festivals of the Jews, the Christians and the polytheists, as never before or after.",
+            "bn": "কেউ কেউ নামটিকে ওই এক বছরের সঙ্গে জুড়েছেন। তাবারী হাসান বসরীর কথা উল্লেখ করেন: একে বড় বলা হয়েছে, কারণ আবু বকর (রাঃ)-এর সে হজ্জে মুসলিম ও মুশরিক একসঙ্গে জমা হয়েছিল, আর দিনটা পড়েছিল ইহুদি ও খ্রিস্টানদের উৎসবের সঙ্গে। কুরতুবী ইবন আতিয়্যার মন্তব্য আনেন: শুধু এই কারণে আল্লাহ তাঁর কিতাবে কোনো দিনকে বড় বলবেন, এ কথা দুর্বল। বাগাভী ইবন সীরীন থেকে আনেন, এটা সেই দিন যেদিন নবী ﷺ হজ্জ করেছিলেন, যখন মুসলিমদের হজ্জ আর ইহুদি, খ্রিস্টান ও মুশরিকদের উৎসব একই দিনে পড়েছিল, যা আগে বা পরে কখনো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abu Hurayra's Voice at Mina",
+          "bn": "মিনায় আবু হুরাইরার ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "The clearest account of the day comes from Abu Hurayra (RA), in Sahih al-Bukhari 3177: Abu Bakr sent me among those who made the announcement on the Day of Sacrifice at Mina: no polytheist shall perform Hajj after this year, and no naked person shall circle the House. And the day of the greater pilgrimage is the Day of Sacrifice; it was called the greater only because people speak of the lesser pilgrimage. So Abu Bakr threw back [the pacts] to the people that year, and in the year of the Farewell Hajj, in which the Prophet ﷺ performed Hajj, no polytheist performed Hajj.",
+            "bn": "সেদিনের সবচেয়ে স্পষ্ট বিবরণ আবু হুরাইরা (রাঃ)-এর, সহীহ বুখারী ৩১৭৭ নম্বরে: আবু বকর আমাকে তাদের সঙ্গে পাঠালেন, যারা কুরবানির দিন মিনায় ঘোষণা দিচ্ছিল: এ বছরের পর কোনো মুশরিক হজ্জ করবে না, আর কোনো উলঙ্গ ব্যক্তি বাইতুল্লাহর তাওয়াফ করবে না। আর বড় হজ্জের দিন হলো কুরবানির দিন। একে 'বড়' বলা হয়েছে শুধু এজন্য যে লোকে 'ছোট হজ্জ' বলে থাকে। এভাবে আবু বকর সে বছর মানুষের কাছে [চুক্তিগুলো] ফিরিয়ে দিলেন। ফলে বিদায় হজ্জের বছর, যে বছর নবী ﷺ হজ্জ করেন, কোনো মুশরিক হজ্জ করেনি।"
+          },
+          {
+            "en": "The report is in al-Bukhari's Sahih. In another of his chains, 4655, Humayd ibn 'Abd ar-Rahman adds that the Prophet ﷺ then sent 'Ali ibn Abi Talib after Abu Bakr and ordered him to proclaim Bara'a, and Abu Hurayra says: 'Ali proclaimed with us among the people of Mina on the Day of Sacrifice, Bara'a, and that no polytheist should perform Hajj after this year nor any naked person circle the House. As-Sa'di dates it to the year 9: Abu Bakr led the people in Hajj, and the Prophet's cousin 'Ali proclaimed Bara'a on the Day of Sacrifice.",
+            "bn": "বর্ণনাটি সহীহ বুখারীতে আছে। বুখারীর আরেক সনদে, ৪৬৫৫ নম্বরে, হুমাইদ ইবন আবদির রহমান যোগ করেন: এরপর নবী ﷺ আবু বকর (রাঃ)-এর পেছনে আলী ইবন আবী তালিব (রাঃ)-কে পাঠান এবং তাঁকে বারাআ ঘোষণা করার নির্দেশ দেন। আবু হুরাইরা (রাঃ) বলেন: কুরবানির দিন আলী আমাদের সঙ্গে মিনাবাসীদের মধ্যে বারাআ ঘোষণা করলেন, আর ঘোষণা করলেন যে এ বছরের পর কোনো মুশরিক হজ্জ করবে না, কোনো উলঙ্গ ব্যক্তি বাইতুল্লাহর তাওয়াফ করবে না। সা'দী ঘটনাটিকে হিজরি ৯ সনের বলে উল্লেখ করেন: সে বছর আবু বকর (রাঃ) হজ্জের নেতৃত্ব দেন, আর নবী ﷺ-এর চাচাতো ভাই আলী (রাঃ) কুরবানির দিনে বারাআ ঘোষণা করেন।"
+          },
+          {
+            "en": "Ibn Kathir also relays a report of Ibn Ishaq from Abu Ja'far Muhammad ibn 'Ali, without grading it, in which 'Ali rode out on the Prophet's camel al-'Adba' and caught up with Abu Bakr on the road. Abu Bakr asked: a commander, or commanded? 'Ali said: commanded. Then the two went on, and Abu Bakr led the people in the Hajj. Where another report has Abu Bakr going back, Ibn Kathir explains that he did not turn back at once but after finishing the rites he had been put in charge of.",
+            "bn": "ইবন কাসীর আবু জা'ফর মুহাম্মাদ ইবন আলী থেকে ইবন ইসহাকের এক বর্ণনাও আনেন, কোনো মান উল্লেখ না করে। সেখানে আছে, আলী (রাঃ) নবী ﷺ-এর উটনী আযবায় চড়ে রওনা হন এবং পথে আবু বকর (রাঃ)-কে ধরে ফেলেন। আবু বকর (রাঃ) জিজ্ঞেস করলেন: আমীর হয়ে এসেছ, নাকি আদেশ পালনকারী হয়ে? আলী (রাঃ) বললেন: আদেশ পালনকারী হয়ে। তারপর দুজন একসঙ্গে চললেন, আর আবু বকর (রাঃ) মানুষকে নিয়ে হজ্জ আদায় করলেন। আরেক বর্ণনায় আবু বকর (রাঃ)-এর ফিরে যাওয়ার কথা আছে। ইবন কাসীর ব্যাখ্যা করেন, তিনি সঙ্গে সঙ্গে ফেরেননি, দায়িত্বে থাকা হজ্জের আমল শেষ করেই ফিরেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Vowel on Rasuluhu",
+          "bn": "রসূলুহু শব্দের একটি হরকত"
+        },
+        "p": [
+          {
+            "en": "The sentence runs: anna Allaha bari'un mina al-mushrikina wa rasuluhu, that Allah is free of the polytheists, and His Messenger. The last word carries a damma, and the case matters. Al-Qurtubi sets out the grammar: bari' is the predicate, and rasuluhu is joined either to the sentence's position or to the pronoun inside bari', both good because the clause has grown long; or it opens a new clause with its predicate understood: and His Messenger is free of them.",
+            "bn": "বাক্যটি এমন: আন্নাল্লাহা বারীউম মিনাল মুশরিকীনা ওয়া রসূলুহু, অর্থাৎ আল্লাহ মুশরিকদের থেকে দায়মুক্ত, আর তাঁর রসূলও। শেষ শব্দে পেশ, আর এই হরকতটাই অর্থ ঠিক রাখে। কুরতুবী এর ব্যাকরণ বুঝিয়ে দেন। বারী শব্দটি বিধেয়। রসূলুহু যুক্ত হয়েছে হয় বাক্যের অবস্থানের সঙ্গে, নয়তো বারী শব্দের ভেতরের সর্বনামের সঙ্গে। বাক্য লম্বা হয়েছে বলে দুটোই চলে। অথবা এখান থেকে নতুন বাক্য শুরু, যার বিধেয় উহ্য: আর তাঁর রসূলও তাদের থেকে দায়মুক্ত।"
+          },
+          {
+            "en": "Ya'qub read rasulahu, joined to the name of Allah, al-Baghawi notes. On either reading the Messenger ﷺ stands beside Allah in the disassociation, and at-Tabari puts the meaning plainly: Allah and His Messenger are both free of the covenant of the polytheists, after this Hajj. Al-Qurtubi lists a genitive among the irregular readings, taken as an oath, and refers back to a story of 'Umar told at the start of his book. That story is not in the text fetched for this verse, so it is not retold here.",
+            "bn": "বাগাভী উল্লেখ করেন, ইয়া'কূব পড়েছেন রসূলাহু, যবর দিয়ে, আল্লাহর নামের সঙ্গে যুক্ত করে। যেভাবেই পড়া হোক, রসূল ﷺ আল্লাহর পাশেই দাঁড়িয়ে আছেন, দায়মুক্তির ঘোষণাদাতা হিসেবে। তাবারী অর্থটা সোজা কথায় বলেন: এই হজ্জের পর আল্লাহ ও তাঁর রসূল দুজনেই মুশরিকদের চুক্তি থেকে দায়মুক্ত। কুরতুবী অপ্রচলিত কিরাআতের মধ্যে যের দিয়ে পড়ার কথা বলেন, শপথ অর্থে, এবং তাঁর গ্রন্থের শুরুতে বলা উমর (রাঃ)-এর এক ঘটনার দিকে ইঙ্গিত করেন। এ আয়াতের জন্য সংগ্রহ করা লেখায় সে ঘটনা নেই, তাই এখানে তা বলা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pacts Ended, With Notice",
+          "bn": "আগাম জানিয়ে চুক্তির অবসান"
+        },
+        "p": [
+          {
+            "en": "What was ended was a set of pacts. At-Tabari glosses the disassociation as freedom from the covenant of the polytheists, and 9:4 at once excepts those who kept their treaty and backed no one against the Muslims. At-Tirmidhi (3092) has 'Ali say: I was sent with four: no one shall circle the House naked; whoever had a treaty with the Prophet ﷺ, it runs to its term, and whoever had none, his term is four months; none enters Paradise but a believing soul; and the polytheists and the Muslims shall not gather after this year of theirs. At-Tirmidhi calls it hasan.",
+            "bn": "যা শেষ করা হয়েছিল, তা ছিল কতগুলো চুক্তি। তাবারী এই দায়মুক্তির ব্যাখ্যা করেন মুশরিকদের চুক্তি থেকে মুক্তি বলে। আর ৯:৪ আয়াত সঙ্গে সঙ্গেই তাদের বাদ রাখে, যারা চুক্তি রক্ষা করেছে এবং মুসলিমদের বিরুদ্ধে কাউকে সাহায্য করেনি। তিরমিযীর বর্ণনায় (৩০৯২) আলী (রাঃ) বলেন: আমাকে চারটি কথা দিয়ে পাঠানো হয়েছিল। কেউ উলঙ্গ হয়ে বাইতুল্লাহর তাওয়াফ করবে না। নবী ﷺ-এর সঙ্গে যার চুক্তি আছে, তা তার মেয়াদ পর্যন্ত থাকবে, আর যার চুক্তি নেই, তার মেয়াদ চার মাস। মুমিন প্রাণ ছাড়া কেউ জান্নাতে প্রবেশ করবে না। আর এ বছরের পর মুশরিক ও মুসলিম একত্র হবে না। তিরমিযী একে হাসান বলেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws from the passage that a treaty may not be acted against without public notice first, and that a treaty being kept is better left to run its course. That is what this verse is: a notice, given once, in the year 9, about the pacts of that time and place. It describes what the text describes and licenses nothing against any living person or community. Its terms of war belong to 9:5 and are not retold here.",
+            "bn": "মাআরিফুল কুরআন এ আয়াতগুলো থেকে শিক্ষা নেয়: আগে প্রকাশ্যে না জানিয়ে কোনো চুক্তির বিরুদ্ধে পদক্ষেপ নেওয়া চলে না, আর যে চুক্তি রক্ষা করা হচ্ছে, তা মেয়াদ পর্যন্ত চলতে দেওয়াই ভালো। এ আয়াত ঠিক তা-ই: একবারের এক ঘোষণা, হিজরি ৯ সনে, সে সময়ের ও সে ভূখণ্ডের চুক্তি নিয়ে। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। যুদ্ধের বিধান ৯:৫ আয়াতের বিষয়, এখানে তা আবার বলা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Repentance Left on Offer",
+          "bn": "খোলা রাখা তওবার সুযোগ"
+        },
+        "p": [
+          {
+            "en": "Then the verse turns to its hearers: fa-in tubtum fa-huwa khayrun lakum, so if you repent, that is better for you. At-Tabari explains: if you turn from your disbelief and return to the oneness of Allah, that return is better for you than staying in shirk, in this world and the next. As-Sa'di says Allah here draws them toward repentance and warns them off persisting, and Ma'arif al-Qur'an notes that alongside the proclamation the note of earnest goodwill carries on. And if you turn away, you cannot escape Allah; as-Sa'di says you are in His grasp.",
+            "bn": "এরপর আয়াত তার শ্রোতাদের দিকে ফেরে: ফাইন তুবতুম ফাহুয়া খাইরুল লাকুম, যদি তোমরা তওবা কর, তবে তা তোমাদেরই জন্য ভালো। তাবারী ব্যাখ্যা করেন: কুফর থেকে ফিরে আল্লাহর একত্বের দিকে এলে, শিরকে থেকে যাওয়ার চেয়ে এই ফেরা তোমাদের জন্য দুনিয়া ও আখিরাতে উত্তম। সা'দী বলেন, আল্লাহ এখানে তাদের তওবার প্রতি আগ্রহী করছেন আর শিরকে অটল থাকার ব্যাপারে ভয় দেখাচ্ছেন। মাআরিফুল কুরআন লক্ষ করে, ঘোষণার পাশাপাশি আন্তরিক কল্যাণকামনার সুরটাও চলতে থাকে। আর যদি মুখ ফিরিয়ে নাও, আল্লাহকে এড়িয়ে যেতে পারবে না। সা'দীর ভাষায়, তোমরা তাঁর মুঠোর মধ্যেই আছ।"
+          },
+          {
+            "en": "That offer was spoken to people whose treaties were being ended, and it is the clause a reader can take home. Khayrun lakum: the gain of turning back belongs to whoever turns. If the way back stayed open inside a declaration of severance, then no fault a reader carries today has shut it. The question the verse leaves is not about anyone else's standing. It is whether I will walk through a door held open even there.",
+            "bn": "এই প্রস্তাব শোনানো হয়েছিল এমন লোকদের, যাদের চুক্তির অবসান ঘোষণা করা হচ্ছিল। পাঠক নিজের জন্য যে কথাটা ঘরে নিয়ে যেতে পারেন, তা এটাই। খাইরুল লাকুম: ফিরে আসার লাভ যে ফেরে, তারই। সম্পর্ক ছিন্ন করার ঘোষণার ভেতরেও যদি ফেরার পথ খোলা থাকে, তবে আজ কোনো পাঠকের কোনো গুনাহ সে পথ বন্ধ করে দেয়নি। আয়াত যে প্রশ্ন রেখে যায়, তা অন্য কারও অবস্থান নিয়ে নয়। প্রশ্নটা হলো, সেখানেও যে দরজা খোলা রাখা হয়েছিল, আমি কি সেটা দিয়ে ঢুকব?"
+          }
+        ]
+      }
+    ]
+  },
   "9:5": {
     "sections": [
       {

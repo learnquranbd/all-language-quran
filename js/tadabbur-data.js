@@ -21071,6 +21071,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah makes a thing lawful, take it without lingering guilt, and keep to the limits that came with the permission.",
     "lessonBn": "আল্লাহ কোনো কিছু হালাল করলে অপরাধবোধ ঝেড়ে ফেলে তা গ্রহণ করুন, আর অনুমতির সঙ্গে যে সীমা এসেছে তা মেনে চলুন।"
+  },
+  "9:3": {
+    "reflectionEn": "The largest crowd of the year is gathered at Mina, and a voice goes round the tents: Allah is free of the polytheists, and so is His Messenger. It is a public ending of pacts, given with notice and in everyone's hearing, so that no one could say he was taken unawares. Yet in the middle of the severance one sentence is left open: so if you repent, that is better for you. The very people told that their treaties are over are told, in the same breath, that the way back is still there. That was said to people who had broken their word. What, then, keeps me from turning back, when nobody has shut that way on me?",
+    "reflectionBn": "বছরের সবচেয়ে বড় জমায়েত মিনায়। তাঁবু থেকে তাঁবুতে একটা আওয়াজ ঘুরে বেড়াচ্ছে: আল্লাহ মুশরিকদের থেকে দায়মুক্ত, তাঁর রসূলও। চুক্তি শেষ করার ঘোষণা হচ্ছে খোলাখুলি, আগাম জানিয়ে, সবার কানে, যাতে কেউ বলতে না পারে যে তাকে অজান্তে ধরা হয়েছে। অথচ সম্পর্ক ছিন্ন করার এই ঘোষণার ভেতরেই একটা বাক্য খোলা রাখা হয়েছে: যদি তোমরা তওবা কর, তাতেই তোমাদের ভালো। যাদের শোনানো হচ্ছে যে তাদের চুক্তির দিন ফুরিয়েছে, একই নিঃশ্বাসে তাদের জানানো হচ্ছে, ফেরার পথ এখনো আছে। এ কথা বলা হয়েছিল এমন লোকদের, যারা নিজেদের কথা ভেঙেছিল। তাহলে আমাকে ফিরতে কী আটকে রাখছে, যখন আমার জন্য সে পথ কেউ বন্ধ করেনি?",
+    "pointsEn": [
+      "When I end something with a person, do I end it openly and with fair notice, or do I let them find out when it is too late?",
+      "This notice was given where everyone could hear it; what have I been hinting at in private that ought to be said plainly?",
+      "If repentance was offered inside a proclamation of severance, which of my own faults have I been treating as past the point of return?",
+      "The verse says turning back is better for you; do I repent as though doing Allah a favour, or as the thing I most need?",
+      "Whom have I quietly written off, when this verse kept the way back open even for its hardest audience?"
+    ],
+    "pointsBn": [
+      "কারও সঙ্গে কোনো কিছু শেষ করলে আমি কি তা খোলাখুলি আর যথেষ্ট আগে জানিয়ে করি, নাকি তাকে এমন সময় জানতে দিই যখন আর কিছু করার থাকে না?",
+      "এ ঘোষণা দেওয়া হয়েছিল এমন জায়গায়, যেখানে সবাই শুনতে পায়। কোন কথা আমি আড়ালে ইশারায় বলে চলেছি, যা সোজাসুজি বলা দরকার?",
+      "সম্পর্ক ছিন্ন করার ঘোষণার ভেতরেও যদি তওবার সুযোগ দেওয়া হয়ে থাকে, তবে আমার কোন গুনাহকে আমি ফেরার সীমা পেরিয়ে যাওয়া বলে ধরে নিয়েছি?",
+      "আয়াত বলছে, ফিরে আসা তোমাদেরই ভালো। আমি কি তওবা করি যেন আল্লাহর উপর দয়া করছি, নাকি সেটাকেই আমার সবচেয়ে বড় প্রয়োজন বলে জানি?",
+      "কাকে আমি মনে মনে চুপচাপ বাতিলের খাতায় তুলে দিয়েছি, যখন এ আয়াত তার সবচেয়ে কঠিন শ্রোতাদের জন্যও ফেরার পথ খোলা রেখেছে?"
+    ],
+    "lessonEn": "Even a public declaration of severance kept repentance on offer as better for its hearers; no fault of mine has shut a way back that Allah leaves open.",
+    "lessonBn": "সম্পর্ক ছিন্ন করার প্রকাশ্য ঘোষণাতেও তওবাকে শ্রোতাদের জন্য কল্যাণ বলে খোলা রাখা হয়েছে; আল্লাহ যে পথ খোলা রাখেন, আমার কোনো গুনাহ তা বন্ধ করে দেয়নি।"
   }
 };
 
