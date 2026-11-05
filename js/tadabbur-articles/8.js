@@ -1083,6 +1083,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Plot and the Boast",
+          "bn": "ষড়যন্ত্র আর বড়াইয়ের পর"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal pauses in its account of Badr to recall what Quraysh said and did against the Messenger in Makkah. 8:30 remembers the night they plotted to confine him, kill him or drive him out. 8:31 records their answer when the verses were recited: we have heard; if we wished we could say the like of this; it is nothing but the tales of the ancients. 8:32 goes a step further. Having called the message borrowed, they now ask Allah to destroy them if it is true.",
+            "bn": "বদরের বিবরণের মাঝখানে সূরা আনফাল একটু থেমে মনে করিয়ে দেয়, মক্কায় কুরাইশ রসূল ﷺ-এর বিরুদ্ধে কী বলেছিল আর কী করেছিল। ৮:৩০ মনে করায় সেই রাতের কথা, যখন তারা তাঁকে বন্দী করার, হত্যা করার কিংবা দেশছাড়া করার ষড়যন্ত্র করেছিল। ৮:৩১ জানায়, আয়াত শুনে তারা কী বলত: শুনলাম তো, চাইলে আমরাও এমন বলতে পারি, এ তো আগের লোকদের কেচ্ছা ছাড়া কিছু নয়। ৮:৩২ আরও এক ধাপ এগোয়। বার্তাটাকে ধার করা বলে উড়িয়ে দেওয়ার পর এবার তারা আল্লাহকেই বলে, এটা সত্য হলে আমাদের ধ্বংস করে দাও।"
+          },
+          {
+            "en": "At-Tabari reads the opening wa-idh as a command to remember, and he spells out what is to be remembered. Remember also, O Muhammad, he paraphrases, what befell those who said this, when I plotted against them and brought them a painful punishment; and that punishment, he adds, was their being killed by the sword on the day of Badr. His reading ties the verse back to 8:30, where they plan and Allah plans, and sets the stones they asked for against what actually came to them.",
+            "bn": "তাবারী শুরুর ওয়া ইয শব্দকে স্মরণ করার নির্দেশ হিসেবে পড়েন, আর কী স্মরণ করতে হবে তা খুলে বলেন। তাঁর ব্যাখ্যায় কথাটা এমন: হে মুহাম্মাদ, এটাও স্মরণ কর, যারা এ কথা বলেছিল তাদের কী দশা হয়েছিল, যখন আমি তাদের বিরুদ্ধে কৌশল করলাম আর তাদের উপর যন্ত্রণাদায়ক শাস্তি আনলাম। তিনি যোগ করেন, সেই শাস্তি ছিল বদরের দিন তরবারির আঘাতে তাদের নিহত হওয়া। এ পাঠ আয়াতটিকে ৮:৩০-এর সঙ্গে জুড়ে দেয়, যেখানে তারা কৌশল করে আর আল্লাহও কৌশল করেন। যে পাথর তারা চেয়েছিল, তার পাশে রাখা হয় আসলে যা তাদের উপর নেমেছিল।"
+          },
+          {
+            "en": "Ibn Ishaq, quoted by at-Tabari, names the mood behind it: Allah then mentioned the ghirra of Quraysh and their seeking a verdict against themselves. The editor's note glosses ghirra as being deceived by their own standing and heedless of the truth. In Ibn Ishaq's gloss, this is what Muhammad brought. The Muyassar keeps the speakers general, the idolaters of the Prophet's own people, calling on Allah. Both take the sentence as more than a heckle. It was addressed upward, to Allah by name, and that is worth stopping on.",
+            "bn": "তাবারী ইবন ইসহাকের যে উক্তি এনেছেন, তাতে এর পেছনের মনোভাবটা ধরা পড়ে: এরপর আল্লাহ কুরাইশের গিররা আর নিজেদের বিরুদ্ধে ফয়সালা চেয়ে বসার কথা উল্লেখ করলেন। সম্পাদকের টীকায় গিররার অর্থ: নিজেদের অবস্থান নিয়ে ধোঁকায় পড়া আর সত্য সম্পর্কে গাফিল থাকা। ইবন ইসহাকের ব্যাখ্যায় 'এটা' মানে মুহাম্মাদ ﷺ যা নিয়ে এসেছেন। মুয়াসসার বক্তাদের পরিচয় সাধারণ রাখে: নবী ﷺ-এর নিজের কওমের মুশরিকরা, যারা আল্লাহকে ডেকে এ কথা বলেছিল। দুই ব্যাখ্যাই বাক্যটিকে নিছক টিটকারির চেয়ে বেশি কিছু ধরে। কথাটা বলা হয়েছিল উপরের দিকে, নাম ধরে আল্লাহকে, আর সেখানেই থেমে ভাবার বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Huwa, Haqq and Amtir",
+          "bn": "হুয়া, হাক্ক আর আমতির"
+        },
+        "p": [
+          {
+            "en": "The sentence is worded at full strength. In in kana hadha huwa al-haqqa, the pronoun huwa stands between this and the truth, and al-Qurtubi explains it as the pronoun of separation, with al-haqq in the accusative as the predicate of kana. At-Tabari records the grammarians' argument over it. Some Basrans held that huwa is added for emphasis, the way ma can be added; some Kufans insisted it enters only for a real meaning, as when someone says Zayd is standing and you reply, no, it is Amr who is standing.",
+            "bn": "বাক্যটি বলা হয়েছে সর্বোচ্চ জোর দিয়ে। ইন কানা হাযা হুয়াল হাক্কা অংশে 'এটা' আর 'সত্য'-এর মাঝখানে বসেছে সর্বনাম হুয়া। কুরতুবী একে বলেন পার্থক্যকারী সর্বনাম, আর আল-হাক্ক শব্দে যবর, কারণ সেটি কানা-র খবর। এ নিয়ে ব্যাকরণবিদদের বিতর্ক তাবারী লিপিবদ্ধ করেছেন। বসরার কেউ কেউ বলতেন, মা যেমন বাড়তি বসে, হুয়াও তেমনি জোর দেওয়ার জন্য বাড়তি এসেছে। কুফার কেউ কেউ জোর দিয়ে বলতেন, প্রকৃত কোনো অর্থ ছাড়া এটি বাক্যে ঢোকে না। যেমন কেউ বলল, যায়দ দাঁড়িয়ে আছে, আর আপনি জবাব দিলেন, না, দাঁড়িয়ে আছে তো আমর।"
+          },
+          {
+            "en": "Either way, the condition is pressed hard: if this, and nothing else, is the truth from You. At-Tabari adds that the tribe of Tamim would put al-haqq in the nominative here, and al-Qurtubi agrees the grammar allows it. But he quotes az-Zajjaj, who knew of no one who recited it that way and said that recitation is a sunnah, read only in an approved reading. The verse stands as it has always been recited, with the emphasis intact.",
+            "bn": "যেভাবেই পড়া হোক, শর্তটা খুব চেপে বলা: এটাই যদি, আর কিছু নয়, তোমার কাছ থেকে আসা সত্য হয়। তাবারী যোগ করেন, বনু তামীম এখানে আল-হাক্ক শব্দে পেশ দিয়ে পড়ত, আর কুরতুবীও মানেন যে ব্যাকরণে তা চলে। তবে তিনি যাজ্জাজের কথা আনেন, যিনি এভাবে কাউকে তিলাওয়াত করতে শোনেননি। যাজ্জাজের মতে কিরাআত হলো সুন্নাহ, অনুমোদিত কিরাআত ছাড়া অন্যভাবে পড়া যায় না। আয়াতটি যেমন বরাবর পড়া হয়েছে, জোরটুকু নিয়ে তেমনই আছে।"
+          },
+          {
+            "en": "Then fa-amtir, rain down. Al-Qurtubi reports from Abu Ubayda that amtara is said of punishment and matara of mercy, so the very verb they chose names what they were asking for. Stones from the sky, in al-Baghawi and in Ibn Ishaq, means as You rained them on the people of Lut, the scene 11:82 describes; a painful punishment means some of what You punished the earlier nations with.",
+            "bn": "এরপর ফা-আমতির, বর্ষণ কর। কুরতুবী আবু উবায়দা থেকে বর্ণনা করেন, আমতারা শব্দ বলা হয় শাস্তির বেলায়, আর মাতারা রহমতের বেলায়। অর্থাৎ যে ক্রিয়াটি তারা বেছে নিল, সেটাই বলে দেয় তারা কী চাইছিল। আকাশ থেকে পাথর মানে, বাগাভী ও ইবন ইসহাকের ভাষায়, যেমন তুমি লূত (আঃ)-এর কওমের উপর বর্ষণ করেছিলে, যে দৃশ্য ১১:৮২ বর্ণনা করে। আর যন্ত্রণাদায়ক শাস্তি মানে, আগের জাতিগুলোকে যেসব শাস্তি দিয়েছিলে তার কোনো একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Names for the Speaker",
+          "bn": "বক্তা কে, তিন উত্তর"
+        },
+        "p": [
+          {
+            "en": "Who said it is a real disagreement, and al-Qurtubi states it as such. Mujahid and Ibn Jubayr name an-Nadr ibn al-Harith; Anas ibn Malik (RA) names Abu Jahl, a report al-Qurtubi says al-Bukhari and Muslim relate. At-Tabari carries only the an-Nadr side: from Sa'id ibn Jubayr, from Mujahid in several chains, from as-Suddi, and from Ata, who calls him a man of Banu Abd ad-Dar. Ibn Kathir gives Anas first, then Ibn Abbas (RA) through al-A'mash from an unnamed man, naming an-Nadr and adding that 70:1 came down about him.",
+            "bn": "কথাটা কে বলেছিল, তা নিয়ে সত্যিকারের মতভেদ আছে, আর কুরতুবী একে মতভেদ হিসেবেই তুলে ধরেন। মুজাহিদ ও ইবন জুবায়রের মতে বক্তা নাযর ইবনুল হারিস। আনাস ইবন মালিক (রাঃ) বলেন, বক্তা আবু জাহল, আর কুরতুবী জানান, এ বর্ণনা বুখারী ও মুসলিম এনেছেন। তাবারী কেবল নাযরের পক্ষের বর্ণনাগুলো আনেন: সাঈদ ইবন জুবায়র থেকে, একাধিক সনদে মুজাহিদ থেকে, সুদ্দী থেকে, আর আতা থেকে, যিনি তাকে বনু আবদুদ দারের এক লোক বলে চেনান। ইবন কাসীর আগে আনাস (রাঃ)-এর বর্ণনা দেন। তারপর আ'মাশ থেকে, তিনি এক অনামা ব্যক্তি থেকে, ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন: বক্তা নাযর, আর তার ব্যাপারেই ৭০:১ নাযিল হয়।"
+          },
+          {
+            "en": "Al-Baghawi opens with an-Nadr and closes with Anas, and between them sets a scene from Ibn Abbas. When the Messenger told the stories of past generations, an-Nadr answered with the words of 8:31. Uthman ibn Maz'un (RA) told him to fear Allah, for Muhammad speaks the truth. So do I, said an-Nadr. I too say there is no god but Allah, he went on, but these are the daughters of Allah, meaning the idols. Then he said: O Allah, if this is the truth from You. At-Tabari, Ibn Kathir and al-Baghawi all carry Ata's remark that more than ten verses came down about him.",
+            "bn": "বাগাভী শুরু করেন নাযরকে দিয়ে, শেষ করেন আনাস (রাঃ)-এর বর্ণনায়। মাঝখানে ইবন আব্বাস (রাঃ) থেকে একটা দৃশ্য তুলে ধরেন। রসূল ﷺ যখন আগের প্রজন্মগুলোর কাহিনি শোনালেন, নাযর জবাব দিল ৮:৩১-এর সেই কথাগুলো দিয়ে। উসমান ইবনে মাযউন (রাঃ) তাকে বললেন, আল্লাহকে ভয় কর, মুহাম্মাদ ﷺ সত্য বলেন। নাযর বলল, আমিও সত্য বলি। উসমান (রাঃ) বললেন, মুহাম্মাদ ﷺ বলেন আল্লাহ ছাড়া কোনো ইলাহ নেই। নাযর বলল, আমিও তা বলি, তবে এরা আল্লাহর কন্যা, অর্থাৎ মূর্তিগুলো। তারপরই সে বলল: হে আল্লাহ, এটা যদি তোমার কাছ থেকে আসা সত্য হয়। তাবারী, ইবন কাসীর ও বাগাভী তিনজনই আতার মন্তব্য এনেছেন: তার ব্যাপারে দশটির বেশি আয়াত নাযিল হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anas's Report in al-Bukhari",
+          "bn": "বুখারীতে আনাস (রাঃ)-এর বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The report the commentators trace to al-Bukhari is Anas's, and his wording reads in full: Narrated Anas bin Malik: Abu Jahl said, 'O Allah! If this (Qur'an) is indeed the Truth from You, then rain down on us a shower of stones from the sky or bring on us a painful torment.' So Allah revealed: 'But Allah would not punish them while you were amongst them, nor He will punish them while they seek (Allah's) forgiveness...' (8:33) 'And why Allah should not punish them while they turn away (men) from Al-Masjid-al-Haram (the Sacred Mosque of Mecca)...' (8:33 and 8:34)",
+            "bn": "তাফসীরকারেরা যে বর্ণনাটি বুখারী পর্যন্ত পৌঁছে দেন, সেটি আনাস (রাঃ)-এর। বুখারীর ভাষ্য পুরোটা এই: আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত, আবু জাহল বলেছিল, 'হে আল্লাহ, এটা (কুরআন) যদি সত্যিই তোমার কাছ থেকে আসা সত্য হয়, তবে আকাশ থেকে আমাদের উপর পাথর বর্ষণ কর, অথবা আমাদের উপর যন্ত্রণাদায়ক শাস্তি নিয়ে এসো।' তখন আল্লাহ নাযিল করলেন: 'কিন্তু তুমি তাদের মাঝে থাকা অবস্থায় আল্লাহ তাদের শাস্তি দেবেন না, আর তারা ক্ষমা চাইতে থাকা অবস্থায়ও আল্লাহ তাদের শাস্তি দেবেন না...' (৮:৩৩) 'আর আল্লাহ তাদের শাস্তি দেবেন না কেন, যখন তারা (মানুষকে) মাসজিদুল হারাম থেকে বাধা দেয়...' (৮:৩৩ ও ৮:৩৪)"
+          },
+          {
+            "en": "It is number 4648 in the Dar-us-Salam numbering, and al-Bukhari placed it in his Sahih; that is the grading it carries. Muslim records the same report as 2796, through Ubaydullah ibn Mu'adh from his father from Shu'ba, the chain Ibn Kathir also traces. The report names one speaker and the verse revealed in reply. The an-Nadr reports name another, and al-Qurtubi, Ibn Kathir and al-Baghawi keep both on the page without striking either out. The verb qalu, they said, is plural, and none of them reconciles the names. This article leaves the matter there.",
+            "bn": "দারুস সালাম নম্বরে এটি ৪৬৪৮, আর বুখারী একে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। এর মান সেটুকুই। মুসলিমও একই বর্ণনা এনেছেন, নম্বর ২৭৯৬, উবায়দুল্লাহ ইবন মুআয থেকে, তিনি তাঁর পিতা থেকে, তিনি শু'বা থেকে। ইবন কাসীরও এই সনদই উল্লেখ করেন। বর্ণনাটি একজন বক্তার নাম বলে, আর জবাবে নাযিল হওয়া আয়াতের কথা বলে। নাযরের বর্ণনাগুলো বলে আরেকজনের নাম। কুরতুবী, ইবন কাসীর ও বাগাভী দুটোকেই পাতায় রেখেছেন, কোনোটাই বাতিল করেননি। ক্রিয়াপদ কালূ, তারা বলল, বহুবচনে, আর তাঁদের কেউই নামগুলোর মধ্যে সমন্বয় করেননি। এ লেখাও বিষয়টা সেখানেই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Should Have Said",
+          "bn": "যা তাদের বলা উচিত ছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir calls the sentence a mark of their great ignorance, insolence and denial, and something they were faulted for. Then he writes the prayer they ought to have made: O Allah, if this is the truth from You, guide us to it and grant us success in following it. Instead, he says, they sought a verdict against themselves and hurried the punishment on. As-Sa'di reaches the same alternative. They spoke, he writes, from certainty in their falsehood and ignorance of what speech is fitting; guide us to it would have been better for them and more covering of their wrong.",
+            "bn": "ইবন কাসীর বলেন, এ কথা তাদের প্রবল অজ্ঞতা, ঔদ্ধত্য আর অস্বীকারের চিহ্ন, এবং এর জন্যই তাদের দোষ ধরা হয়েছে। তারপর তিনি সেই দোয়াটা লিখে দেন, যা তাদের করা উচিত ছিল: হে আল্লাহ, এটা যদি তোমার কাছ থেকে আসা সত্য হয়, তবে আমাদের এর পথ দেখাও আর এটা মেনে চলার তাওফীক দাও। কিন্তু তারা উল্টো নিজেদের বিরুদ্ধে ফয়সালা চেয়ে বসল, শাস্তিকে তাড়াতাড়ি ডেকে আনল। সা'দীও একই বিকল্পে পৌঁছান। তাঁর মতে তারা কথাটা বলেছিল নিজেদের বাতিল মতের উপর পাকা বিশ্বাস থেকে, আর কোন কথা বলা মানায় সে বিষয়ে অজ্ঞতা থেকে। 'আমাদের এর পথ দেখাও' বললে সেটা তাদের জন্য ভালো হতো, তাদের জুলুমকেও বেশি ঢেকে রাখত।"
+          },
+          {
+            "en": "Al-Qurtubi allows two motives: a doubt lodged in their chests, or obstinacy, meant to make people think they acted on clear sight. He also relates, without a chain, an exchange in which the guidance point is made by a Jewish man to Ibn Abbas: you are of the people who said this; could they not have said, guide us to it? These are a people who are ignorant. Ibn Abbas answered by recalling those whose feet were still wet from the sea when they asked Musa (AS) for a god like the idolaters' gods, and the man fell silent.",
+            "bn": "কুরতুবী দুটি সম্ভাব্য কারণ মেনে নেন: হয় তাদের মনে কোনো সংশয় বাসা বেঁধেছিল, নয়তো এটা ছিল জেদ, যাতে লোকে ভাবে তারা চোখ খুলেই চলছে। তিনি সনদ ছাড়া একটা কথোপকথনও বর্ণনা করেন, যেখানে পথ দেখানোর কথাটা তোলে এক ইহুদি লোক, ইবন আব্বাস (রাঃ)-এর সামনে। সে বলল, তুমি তো সেই কওমের লোক, যারা এ কথা বলেছিল। তারা কি বলতে পারত না, আমাদের এর পথ দেখাও? এরা তো অজ্ঞ লোক। ইবন আব্বাস (রাঃ) জবাবে মনে করিয়ে দিলেন তাদের কথা, যাদের পা সমুদ্রের পানি থেকে তখনো শুকায়নি, অথচ তারা মূসা (আঃ)-এর কাছে মুশরিকদের দেবতার মতো একটা দেবতা চেয়ে বসেছিল। লোকটি তখন চুপ হয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Older Peoples, Same Request",
+          "bn": "পুরোনো জাতি, একই আবদার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse among others in which people hurried a punishment upon themselves: 29:53, those who ask the Messenger to hasten the torment; 38:16, our Lord, hasten our share to us before the Day of Account; 70:1 to 70:3, a questioner who asked for a punishment bound to fall. The ignorant among earlier nations said the same, he notes, and cites the people of Shu'ayb (AS) in 26:187: cause a piece of the sky to fall on us, if you are of the truthful.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন সেই আয়াতগুলোর পাশে, যেখানে মানুষ নিজের উপর শাস্তি তাড়াতাড়ি ডেকে আনতে চেয়েছে। ২৯:৫৩-তে তারা রসূল ﷺ-কে শাস্তি দ্রুত আনতে বলে। ৩৮:১৬-তে তারা বলে, হে আমাদের রব, হিসাবের দিনের আগেই আমাদের ভাগটা দ্রুত দিয়ে দাও। ৭০:১ থেকে ৭০:৩ শুরু হয় এক প্রশ্নকারীকে দিয়ে, যে এমন শাস্তি চেয়েছিল যা আসবেই। ইবন কাসীর বলেন, আগের জাতিগুলোর অজ্ঞরাও এমন বলত। উদাহরণ দেন শুআইব (আঃ)-এর কওমের, ২৬:১৮৭-তে: তুমি সত্যবাদী হলে আকাশের একটা টুকরো আমাদের উপর ফেলে দাও।"
+          },
+          {
+            "en": "The word Ibn Kathir and Ibn Ishaq both use for what Quraysh did here is istiftah, seeking a verdict, and it is the verb of 8:19: if you sought a decision, the decision has come to you. There the request is answered by its outcome. Here the answer comes first, in the very next verse, and it is a statement of restraint. The same people who asked for stones are told why the stones were not falling.",
+            "bn": "এখানে কুরাইশ যা করেছিল, ইবন কাসীর ও ইবন ইসহাক দুজনেই তাকে বলেছেন ইস্তিফতাহ, অর্থাৎ ফয়সালা চাওয়া। ৮:১৯ আয়াতেও এই ক্রিয়া: তোমরা যদি ফয়সালা চেয়ে থাক, তবে ফয়সালা তো তোমাদের কাছে এসে গেছে। সেখানে চাওয়ার জবাব দেয় তার পরিণাম। এখানে জবাব আসে আগে, ঠিক পরের আয়াতেই, আর সে জবাব সংযমের ঘোষণা। যারা পাথর চেয়েছিল, তাদেরই জানিয়ে দেওয়া হয় পাথর কেন পড়ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Stones Did Not Fall",
+          "bn": "পাথর কেন পড়েনি"
+        },
+        "p": [
+          {
+            "en": "8:33 replies: Allah would not punish them while you are among them, and Allah would not punish them while they seek forgiveness. It is the verse the Bukhari report says came down in answer. Ibn Kathir, on 8:33, carries from Ibn Abbas through Ibn Abi Hatim that they had two safeguards, the Prophet and their seeking forgiveness: the Prophet went, and seeking forgiveness remained. Qatada, in at-Tabari and Ibn Kathir, says the foolish and ignorant of this community said it, and Allah turned back to them with His kindness and mercy.",
+            "bn": "৮:৩৩ জবাব দেয়: তুমি তাদের মাঝে থাকা অবস্থায় আল্লাহ তাদের শাস্তি দেবেন না, আর তারা ক্ষমা চাইতে থাকলেও আল্লাহ তাদের শাস্তি দেবেন না। বুখারীর বর্ণনা অনুযায়ী এ আয়াতই জবাব হিসেবে নাযিল হয়েছিল। ইবন কাসীর ৮:৩৩-এর আলোচনায় ইবন আবী হাতিমের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: তাদের দুটি নিরাপত্তা ছিল, নবী ﷺ আর তাদের ইস্তিগফার। নবী ﷺ চলে গেলেন, ইস্তিগফার রয়ে গেল। তাবারী ও ইবন কাসীর দুজনেই কাতাদার কথা আনেন: এ কথা বলেছিল এই উম্মতের নির্বোধ আর অজ্ঞরা, তবু আল্লাহ নিজের অনুগ্রহ আর রহমত নিয়ে তাদের দিকে ফিরে এলেন।"
+          },
+          {
+            "en": "What came later came in another form. At-Tabari names it as their killing by the sword at Badr, and al-Qurtubi says what they asked for befell them that day; al-Baghawi has Sa'id ibn Jubayr say an-Nadr was among three men of Quraysh the Messenger had put to death as captives there. This needs saying plainly: the verse describes particular men of Makkah who dared Allah, and what befell some of them in a war long past. It licenses nothing against any living person or community, and Ibn Abbas's retort in al-Qurtubi's report singles out no people either; its point is only that no community has been spared such a moment.",
+            "bn": "যা পরে এসেছিল, তা এসেছিল অন্য রূপে। তাবারী বলেন, সেটা ছিল বদরে তরবারির আঘাতে তাদের নিহত হওয়া। কুরতুবী বলেন, তারা যা চেয়েছিল, বদরের দিন তা-ই তাদের উপর নেমে আসে। বাগাভী সাঈদ ইবন জুবায়রের বর্ণনা আনেন: বদরে রসূল ﷺ কুরাইশের যে তিনজনকে বন্দী অবস্থায় মৃত্যুদণ্ড দিয়েছিলেন, নাযর তাদের একজন। কথাটা সোজাসুজি বলা দরকার। আয়াতটি মক্কার নির্দিষ্ট কিছু লোকের কথা বলে, যারা আল্লাহকে চ্যালেঞ্জ ছুড়েছিল, আর বহু আগের এক যুদ্ধে তাদের কয়েকজনের কী পরিণতি হয়েছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ)-এর জবাবও কোনো জাতিকে আলাদা করে চিহ্নিত করে না। তার কথা শুধু এটুকু: এমন অজ্ঞতার মুহূর্ত কোনো সম্প্রদায়ই এড়াতে পারেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guide Us to It Instead",
+          "bn": "বরং বলুন, পথ দেখাও"
+        },
+        "p": [
+          {
+            "en": "The verse offers a test for the moment something claiming to be true is put before you and accepting it would cost. If this is the truth: anyone can say that much. What follows them decides. Quraysh followed them with rain down stones, a condition built so that only ruin could answer it. Ibn Kathir and as-Sa'di follow them with guide us to it, which leaves room for having been wrong and asks to be shown.",
+            "bn": "কোনো কিছু সত্য বলে দাবি নিয়ে সামনে এলে, আর তা মেনে নিলে কিছু ছাড়তে হলে, সেই মুহূর্তের জন্য আয়াতটি একটা পরীক্ষা রেখে যায়। 'এটা যদি সত্য হয়' কথাটা যে কেউ বলতে পারে। আসল ফয়সালা হয় এরপর কী বলা হলো তা দিয়ে। কুরাইশ এর পরে বলেছিল, পাথর বর্ষণ কর। শর্তটা এমনভাবে বাঁধা যে ধ্বংস ছাড়া কিছুই তার জবাব হতে পারত না। ইবন কাসীর ও সা'দী এর পরে বসান, আমাদের এর পথ দেখাও। এতে নিজের ভুল থাকার জায়গা থাকে, আর দেখিয়ে দেওয়ার আবেদন থাকে।"
+          },
+          {
+            "en": "The supplication is already written, in Ibn Kathir's phrasing of what they should have said: O Allah, if this is the truth from You, guide us to it and grant us success in following it. It is his sentence, not a narrated du'a, and it can be said as your own over any question you are tempted to settle by force of certainty. The Qur'an's own prayer for the same thing is said in every rak'ah: guide us to the straight path, at 1:6.",
+            "bn": "দোয়াটা লেখাই আছে, ইবন কাসীরের ভাষায়, যা তাদের বলা উচিত ছিল: হে আল্লাহ, এটা যদি তোমার কাছ থেকে আসা সত্য হয়, তবে আমাদের এর পথ দেখাও আর এটা মেনে চলার তাওফীক দাও। এটা তাঁর গড়া বাক্য, কোনো বর্ণিত দোয়া নয়। যে প্রশ্নের মীমাংসা শুধু নিজের নিশ্চয়তার জোরে করে ফেলতে ইচ্ছে করে, সেখানে আপনি এটা নিজের দোয়া হিসেবে পড়তে পারেন। একই জিনিসের জন্য কুরআনের নিজের দোয়া পড়া হয় প্রতি রাকআতে, ১:৬ আয়াতে: আমাদের সরল পথ দেখাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Certainty",
+          "bn": "নিজের নিশ্চয়তা নিয়ে কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Which truth have I been holding at arm's length, and what exactly would accepting it cost me? If I said my condition for it aloud, would the sentence end in guide me to it, or in something closer to prove it? When I argue about faith, or about anything I care for, how much of my certainty is for the people watching, and how much of it would survive if no one were?",
+            "bn": "কোন সত্যকে আমি এতদিন দূরে ঠেলে রেখেছি, আর সেটা মেনে নিলে ঠিক কী হারাতে হবে? সেটা মানার জন্য আমার শর্তটা যদি জোরে বলি, বাক্যটা কি শেষ হবে 'আমাকে এর পথ দেখাও' দিয়ে, নাকি 'পারলে প্রমাণ কর' ধরনের কিছু দিয়ে? ঈমান নিয়ে, বা প্রিয় কোনো বিষয় নিয়ে তর্ক করার সময় আমার নিশ্চয়তার কতটা থাকে আশপাশের লোকদের দেখানোর জন্য? কেউ না দেখলে তার কতটুকু টিকে থাকত?"
+          },
+          {
+            "en": "And the question the next verse raises: whose presence, and whose seeking of forgiveness, has been standing between me and the consequences of things I have said? If I cannot answer, Ibn Abbas's remark points to a start, the safeguard that did not leave: asking forgiveness, today, for the sentences I would not want taken at their word.",
+            "bn": "আর পরের আয়াত যে প্রশ্ন তোলে: কার উপস্থিতি আর কার ইস্তিগফার এতদিন আমার আর আমার বলা কথার পরিণামের মাঝখানে দাঁড়িয়ে ছিল? উত্তর না জানলে ইবন আব্বাস (রাঃ)-এর কথাটা একটা শুরু দেখায়, সেই নিরাপত্তা যা চলে যায়নি। যেসব কথা হুবহু কবুল হয়ে যাক তা আমি চাই না, সেগুলোর জন্য আজই ইস্তিগফার করা।"
+          }
+        ]
+      }
+    ]
+  },
   "8:36": {
     "sections": [
       {

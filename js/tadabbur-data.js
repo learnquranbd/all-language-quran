@@ -20971,6 +20971,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hearing is not yet listening: let the truth you hear reach your heart and your tongue, and use the faculties you were given for what they were made for.",
     "lessonBn": "কানে শোনা মানেই শোনা নয়। যে সত্য শুনলেন, তা অন্তর পর্যন্ত আর মুখ পর্যন্ত পৌঁছাতে দিন, আর যে ক্ষমতাগুলো পেয়েছেন, সেগুলো কাজে লাগান যে কাজের জন্য সেগুলো দেওয়া হয়েছে।"
+  },
+  "8:32": {
+    "reflectionEn": "They were sure enough to stake their lives on it. If this really is the truth from You, they said, then rain stones down on us. It sounds like courage, and it is the opposite of an open mind: a condition built so that the only answer it could accept was ruin. A better prayer was within reach, and shorter: if this is the truth, guide us to it. The next verse shows how much mercy was holding back the very thing they asked for. When something true is put to me that would cost me to accept, do I ask to be shown, or do I dare it to prove itself? And how sure am I of the things I never think to pray about?",
+    "reflectionBn": "তারা এতটাই নিশ্চিত ছিল যে নিজেদের জীবন বাজি ধরে বসল। বলল, এটা যদি সত্যিই তোমার কাছ থেকে আসা সত্য হয়, তবে আকাশ থেকে আমাদের উপর পাথর বর্ষণ কর। শুনতে সাহসের মতো লাগে, অথচ এ হলো খোলা মনের ঠিক উল্টো। শর্তটা এমনভাবে বাঁধা যে ধ্বংস ছাড়া আর কোনো উত্তর তাতে খাটে না। এর চেয়ে ভালো আর ছোট একটা দোয়া হাতের কাছেই ছিল: এটা যদি সত্য হয়, তবে আমাদের এর পথ দেখাও। পরের আয়াত জানিয়ে দেয়, তারা যা চেয়েছিল, কত বড় রহমত তা ঠেকিয়ে রেখেছিল। যে সত্য মেনে নিলে আমার কিছু ছাড়তে হবে, তা সামনে এলে আমি কি পথ দেখানোর দোয়া করি, নাকি চ্যালেঞ্জ ছুড়ে দিই যে পারলে প্রমাণ করে দেখাও? আর যেসব বিষয়ে কখনো দোয়া করার কথা মনেই আসে না, সেগুলোতে আমি আসলে কতটা নিশ্চিত?",
+    "pointsEn": [
+      "When a truth reaches me that would cost me something to accept, is my first response to ask for guidance or to set conditions?",
+      "Is there a belief of mine I hold so firmly that I have stopped asking Allah whether it is right?",
+      "In an argument, do I ever use certainty as a show, to look sure in front of others rather than to be right?",
+      "How often do I ask Allah to show me the truth and help me follow it, rather than to prove me right?",
+      "Whose patience with me, and whose forgiveness, have I been living under without noticing?"
+    ],
+    "pointsBn": [
+      "যে সত্য মেনে নিলে আমার কিছু ছাড়তে হবে, তা সামনে এলে আমি প্রথমে কী করি: পথ দেখানোর দোয়া, নাকি শর্ত জুড়ে দেওয়া?",
+      "এমন কোনো বিশ্বাস কি আমার আছে, যা এত শক্ত করে ধরে আছি যে সেটা ঠিক কি না, আল্লাহর কাছে জিজ্ঞেস করাই ছেড়ে দিয়েছি?",
+      "তর্কের সময় আমি কি কখনো নিশ্চয়তাকে লোক দেখানোর জিনিস বানাই, সঠিক হওয়ার জন্য নয়, বরং অন্যের সামনে দৃঢ় দেখানোর জন্য?",
+      "আমাকে সঠিক প্রমাণ করার বদলে সত্যটা দেখিয়ে দিতে আর তা মেনে চলার তাওফীক দিতে আমি আল্লাহর কাছে কতবার চাই?",
+      "কার ধৈর্য আর কার ক্ষমার ছায়ায় আমি না জেনেই এতদিন বেঁচে আছি?"
+    ],
+    "lessonEn": "When the truth is put to you, ask to be guided to it, not to be proved right; daring Allah to strike is ignorance of how to speak to Him.",
+    "lessonBn": "সত্য সামনে এলে নিজেকে সঠিক প্রমাণের দাবি নয়, সেই সত্যের পথ চেয়ে দোয়া করুন। আল্লাহকে শাস্তির চ্যালেঞ্জ ছোড়া মানে তাঁর সঙ্গে কথা বলার আদব না জানা।"
   }
 };
 
