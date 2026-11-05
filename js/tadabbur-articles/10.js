@@ -1251,6 +1251,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "Asked a Third Time",
+          "bn": "তৃতীয়বার একই ধাঁচের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The passage presses one argument through a run of questions. 10:31 asked who provides, who owns hearing and sight, who brings the living out of the dead, and the idolaters' own answer was: Allah. 10:34 asked whether any of their partners begins creation and then repeats it. This verse asks for the third thing a god would have to do, which is to guide. Without its pause marks it is twenty-nine words, in four steps: a question, its answer, a comparison and a rebuke.",
+            "bn": "এই অংশ একের পর এক প্রশ্ন দিয়ে একটি যুক্তিকে এগিয়ে নিচ্ছে। ১০:৩১ জিজ্ঞেস করেছে, কে রিযিক দেন, শ্রবণ আর দৃষ্টির মালিক কে, মৃত থেকে জীবিতকে কে বের করেন। মুশরিকদের নিজেদের উত্তর ছিল: আল্লাহ। ১০:৩৪ জানতে চেয়েছে, তাদের শরীকদের কেউ কি সৃষ্টির সূচনা করে আবার তার পুনরাবৃত্তি ঘটায়? এই আয়াত চায় তৃতীয় জিনিসটি, যা কোনো উপাস্যকে অবশ্যই পারতে হতো: পথ দেখানো। বিরতিচিহ্ন বাদ দিলে আয়াতে উনত্রিশটি শব্দ, আর তা এগোয় চারটি ধাপে: প্রশ্ন, তার উত্তর, একটি তুলনা, তারপর ভর্ৎসনা।"
+          },
+          {
+            "en": "At-Tabari reads the opening as a challenge the idolaters could not take up. Which of your partners, the gods and idols you call on besides Allah, directs one who has strayed to the right course, and sets one who has swerved onto the plain straight road? They could not claim it for them, he says: what they saw would give them the lie, and testing the idols before their eyes would show their helplessness. Al-Qurtubi and al-Baghawi add the same aside: when they say no, and they must, say: Allah guides to the truth.",
+            "bn": "তাবারীর চোখে আয়াতের শুরুটা এমন এক চ্যালেঞ্জ, যা মুশরিকরা গ্রহণ করতে পারেনি। আল্লাহকে ছেড়ে যেসব দেবতা আর মূর্তিকে তোমরা ডাকো, তাদের কেউ কি পথহারাকে সঠিক পথে আনতে পারে, হিদায়াত থেকে সরে যাওয়া মানুষকে সোজা সরল রাস্তায় তুলে দিতে পারে? তাবারী বলেন, এ দাবি তারা মূর্তিদের পক্ষে করতে পারত না। করলে চোখের দেখাই তাদের মিথ্যুক প্রমাণ করত, আর সামনাসামনি যাচাই করলেই মূর্তিদের অক্ষমতা ধরা পড়ত। কুরতুবী ও বাগাভী একই কথা জুড়ে দেন: তারা যখন বলবে না, আর না বলা ছাড়া উপায়ও নেই, তখন বলো, আল্লাহই সত্যের পথ দেখান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ila and Li, One Road",
+          "bn": "ইলা আর লি, একই রাস্তা"
+        },
+        "p": [
+          {
+            "en": "Of the partners the verse asks who yahdi ila al-haqq, guides to the truth; of Allah it answers yahdi li-l-haqq, with a different particle. The commentators consulted here make nothing of the change. Al-Qurtubi notes that the Arabs say hadahu li-t-tariq and hadahu ila t-tariq with one meaning, he guided him to the road, and al-Baghawi glosses li-l-haqq simply as ila al-haqq. What the guiding itself consists of is spelled out most fully by as-Sa'di.",
+            "bn": "শরীকদের বেলায় আয়াত জিজ্ঞেস করে, কে ইয়াহদী ইলাল হাক্ক, অর্থাৎ সত্যের দিকে পথ দেখায়? আর আল্লাহর বেলায় উত্তর দেয় ইয়াহদী লিল হাক্ক, অন্য একটি ছোট শব্দ দিয়ে। এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁরা এই বদলকে আলাদা গুরুত্ব দেননি। কুরতুবী বলেন, আরবরা হাদাহু লিত তারীক আর হাদাহু ইলাত তারীক একই অর্থে বলে: সে তাকে রাস্তা দেখাল। বাগাভীও লিল হাক্কের ব্যাখ্যা করেন সোজা ইলাল হাক্ক বলে। পথ দেখানো বলতে আসলে কী বোঝায়, তা সবচেয়ে পূর্ণভাবে খুলে বলেন সা'দী।"
+          },
+          {
+            "en": "As-Sa'di reads the question as asking whether any partner guides to the truth by making it clear and pointing the way, or by inspiring a heart and granting it success. Allah alone, he says, guides to it with proofs and demonstrations, with inspiration and enabling, and with help to walk the most upright road. Ibn Kathir puts it from the other side: you know your partners cannot guide one who has strayed. It is Allah, besides whom there is no god, who guides the bewildered and the lost and turns hearts from error to right conduct.",
+            "bn": "সা'দীর ব্যাখ্যায় প্রশ্নটা এই: শরীকদের কেউ কি সত্যকে স্পষ্ট করে বুঝিয়ে আর রাস্তা দেখিয়ে পথ দেখাতে পারে? কিংবা অন্তরে ইলহাম দিয়ে আর তাওফীক দিয়ে? তিনি বলেন, একমাত্র আল্লাহই সত্যের পথ দেখান দলিল ও প্রমাণ দিয়ে, ইলহাম ও তাওফীক দিয়ে, আর সবচেয়ে সোজা রাস্তায় চলার সাহায্য দিয়ে। ইবন কাসীর একই কথা বলেন উল্টো দিক থেকে। তোমরা তো জানো, পথহারাকে পথ দেখানোর ক্ষমতা তোমাদের শরীকদের নেই। দিশেহারা আর পথভ্রষ্টকে পথ দেখান আল্লাহ, যিনি ছাড়া কোনো ইলাহ নেই। তিনিই অন্তরগুলোকে ভ্রান্তি থেকে সঠিক পথের দিকে ফিরিয়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Ways With One Verb",
+          "bn": "এক ক্রিয়া, ছয় রকম পাঠ"
+        },
+        "p": [
+          {
+            "en": "The verb in the comparison, la yahiddi, is recited in several ways, and at-Tabari reports four. The general readers of Madinah read it with a silent ha and a doubled dal, so that two silent letters meet; they took the base to be yahtadi, to be guided, with the ta merged into the dal. Some readers of Makkah, ash-Sham and Basrah read yahaddi, moving the ta's vowel onto the ha. Some readers of Kufah read yahiddi, giving the ha a kasrah. And the general Kufans read yahdi, light, saying that the Arabs use hadaytu for ihtadaytu.",
+            "bn": "তুলনার অংশে যে ক্রিয়া, লা ইয়াহিদ্দী, তা কয়েক রকমে পড়া হয়। তাবারী চারটি পাঠের কথা বলেন। মদীনার সাধারণ কারীরা পড়েছেন হা সাকিন রেখে আর দালে তাশদীদ দিয়ে, ফলে দুটি সাকিন হরফ পাশাপাশি এসে পড়ে। তাঁদের ধারণা, মূল শব্দ ইয়াহতাদী, অর্থাৎ পথ পায়, আর তা হরফটি দালের সঙ্গে মিশে গেছে। মক্কা, শাম ও বসরার কিছু কারী পড়েছেন ইয়াহাদ্দী, তা-এর হরকত হা-এর উপর সরিয়ে দিয়ে। কূফার কিছু কারী পড়েছেন ইয়াহিদ্দী, হা-তে যের দিয়ে। আর কূফার সাধারণ কারীরা পড়েছেন হালকা করে, ইয়াহদী। তাঁদের যুক্তি, আরবরা ইহতাদাইতু অর্থে হাদাইতু বলে।"
+          },
+          {
+            "en": "At-Tabari himself prefers yahaddi as the most eloquent usage, whose soundness no one learned in Arabic disputes. Al-Qurtubi counts six readings and names the readers: the people of Madinah except Warsh with the silent ha; Abu 'Amr, and Qalun in one transmission, between a vowel and silence; Ibn 'Amir, Ibn Kathir the reader, Warsh and Ibn Muhaysin with yahaddi; Hafs, Ya'qub and al-A'mash from Abu Bakr with yahiddi; Abu Bakr from 'Asim with yihiddi; and Hamza, al-Kisa'i, Khalaf, Yahya ibn Waththab and al-A'mash with yahdi.",
+            "bn": "তাবারী নিজে ইয়াহাদ্দী পাঠকে অগ্রাধিকার দেন সবচেয়ে প্রাঞ্জল রূপ হিসেবে, যার বিশুদ্ধতা আরবি ভাষায় জ্ঞানী কেউ অস্বীকার করেন না। কুরতুবী গোনেন ছয়টি পাঠ, কারীদের নামসহ। ওয়ারশ ছাড়া মদীনাবাসীরা পড়েছেন হা সাকিন রেখে। আবূ আমর, আর একটি বর্ণনায় কালূন, পড়েছেন হরকত আর সাকিনের মাঝামাঝি। ইবন আমির, কারী ইবন কাসীর, ওয়ারশ ও ইবন মুহাইসিন পড়েছেন ইয়াহাদ্দী। হাফস, ইয়াকূব এবং আবূ বকর থেকে আমাশ পড়েছেন ইয়াহিদ্দী। আসিম থেকে আবূ বকর পড়েছেন ইয়িহিদ্দী। আর হামযা, কিসাঈ, খালাফ, ইয়াহইয়া ইবন ওয়াসসাব ও আমাশ পড়েছেন ইয়াহদী।"
+          },
+          {
+            "en": "Al-Baghawi's list differs at one point: he puts Abu Ja'far and Qalun with the silent ha, and Abu 'Amr with a half-voiced ha. He agrees that Hafs reads an open ya with a kasrah on the ha, and the text printed with this verse, yahiddi, is that form. Then he states what holds all the readings together: in every one of them the meaning is yahtadi, is guided. Al-Qurtubi adds an-Nahhas's remark that no one can actually pronounce two silent letters together.",
+            "bn": "বাগাভীর তালিকা একটি জায়গায় আলাদা। তিনি আবূ জাফর ও কালূনকে রাখেন হা সাকিনের পাঠে, আর আবূ আমরকে হা-এর আধা উচ্চারণের পাঠে। হাফসের বেলায় তিনিও একমত: ইয়া-তে যবর, হা-তে যের। এ আয়াতের সঙ্গে ছাপা পাঠ, ইয়াহিদ্দী, সেই রূপই। তারপর বাগাভী সব পাঠকে এক সুতোয় বাঁধেন: প্রতিটির অর্থই ইয়াহতাদী, পথ পায়। কুরতুবী নাহহাসের মন্তব্যও আনেন যে, দুটি সাকিন হরফ একসঙ্গে উচ্চারণ করা কারও পক্ষে আসলে সম্ভব নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Moved Only When Carried",
+          "bn": "বয়ে নিলে তবেই নড়ে"
+        },
+        "p": [
+          {
+            "en": "Who is the one who does not guide unless he is guided? Mujahid, in two reports that at-Tabari carries, answers: the idols, and in the other, the idol. At-Tabari also records that some of the people of interpretation took the phrase to mean one who cannot move from his place unless he is moved. Al-Qurtubi says the same of the idols: they guide no one, they do not walk unless they are carried, and they do not shift from their place unless they are shifted.",
+            "bn": "যে নিজে পথ পায় না যতক্ষণ না তাকে পথ দেখানো হয়, সে কে? তাবারী মুজাহিদের দুটি বর্ণনা আনেন। একটিতে উত্তর: মূর্তিগুলো। অন্যটিতে: মূর্তি। তাবারী আরও জানান, তাফসীরকারদের কেউ কেউ বাক্যটির অর্থ করেছেন এভাবে: যে নিজের জায়গা থেকে নড়তে পারে না, যতক্ষণ না তাকে সরানো হয়। কুরতুবীও মূর্তি সম্পর্কে একই কথা বলেন। তারা কাউকে পথ দেখায় না, বহন না করলে হাঁটে না, সরিয়ে না দিলে নিজের জায়গা থেকে সরে না।"
+          },
+          {
+            "en": "Al-Baghawi raises the obvious difficulty. How can the verse say unless he is guided, when an idol cannot be imagined either finding guidance or being given it? He offers two answers. In the first, guidance for an idol means moving: it does not pass from place to place unless it is carried and moved, and that exposes its helplessness. In the second, the wording is figurative: because the idolaters made idols gods and gave them the rank of beings that hear and understand, the Qur'an describes them in the terms used for those who know and reason.",
+            "bn": "বাগাভী স্বাভাবিক প্রশ্নটা তোলেন। মূর্তির পক্ষে নিজে পথ পাওয়া বা কারও কাছ থেকে পথ পাওয়া, কোনোটাই তো কল্পনা করা যায় না। তাহলে আয়াত কীভাবে বলে, যতক্ষণ না তাকে পথ দেখানো হয়? তিনি দুটি জবাব দেন। প্রথম জবাবে, মূর্তির বেলায় হিদায়াত মানে স্থানান্তর। বহন করে না সরালে সে কোথাও যায় না, আর এতেই তার অক্ষমতা প্রকাশ পায়। দ্বিতীয় জবাবে, কথাটা রূপক। মুশরিকরা মূর্তিকে ইলাহ বানিয়ে শোনে-বোঝে এমন সত্তার আসনে বসিয়েছিল। তাই কুরআন তাদের বর্ণনা দিয়েছে জ্ঞান ও বুদ্ধিসম্পন্নদের ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chiefs Who Need a Guide",
+          "bn": "যে সর্দারের নিজেরই দিশা লাগে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then records a second view, introduced with it is said: that the ones meant are the chiefs, ar-ru'asa', and the misleaders, who do not direct even themselves to guidance unless they are directed. On this reading the comparison is no longer only between Allah and a statue. It sets Allah beside the men whose word the worshippers obeyed. Al-Qurtubi gives the idols first and this view second, without arguing between them, and both are kept here as he leaves them.",
+            "bn": "এরপর কুরতুবী 'বলা হয়' কথাটি দিয়ে দ্বিতীয় একটি মত উল্লেখ করেন। এখানে উদ্দেশ্য সর্দাররা, আর-রুআসা, আর সেই পথভ্রষ্টকারীরা, যারা নিজেরাই হিদায়াতের দিকে যেতে পারে না, যতক্ষণ না কেউ তাদের পথ দেখায়। এই পাঠে তুলনাটা আর শুধু আল্লাহ আর একটা মূর্তির মধ্যে থাকে না। এক পাশে আল্লাহ, অন্য পাশে সেই মানুষগুলো, যাদের কথা উপাসকেরা মেনে চলত। কুরতুবী আগে মূর্তির কথা বলেন, পরে এই মত, আর দুটোর মধ্যে কোনো মীমাংসা টানেন না। তাই দুটোকেই রাখা হলো যেভাবে তিনি রেখেছেন।"
+          },
+          {
+            "en": "Two commentaries keep a wording that fits either reading. Al-Muyassar asks which is more worthy to be followed: the One who alone guides to the truth, or one who is not guided because of his lack of knowledge and his straying; these are your partners, who neither guide nor are guided unless they are guided. As-Sa'di uses nearly the same words. The Bengali Ahsanul Bayaan pictures a man blind and deaf, who cannot walk the road until someone sets him on it or leads him by the hand.",
+            "bn": "দুটি তাফসীর এমন ভাষা ব্যবহার করে, যা দুই ব্যাখ্যাতেই খাটে। মুয়াসসার জিজ্ঞেস করে, অনুসরণের বেশি হকদার কে? যিনি একাই সত্যের পথ দেখান তিনি, নাকি সে, যে নিজের অজ্ঞতা আর পথভ্রষ্টতার কারণে পথ পায় না? এরাই তোমাদের শরীক, যারা পথ দেখায় না, পথ পায়ও না, যতক্ষণ না তাদের পথ দেখানো হয়। সা'দীও প্রায় একই শব্দ ব্যবহার করেন। বাংলা তাফসীর আহসানুল বায়ান ছবিটা আঁকে এভাবে: এক অন্ধ ও বধির মানুষ, যে রাস্তায় চলতেও পারে না, যতক্ষণ না অন্য কেউ তাকে পথে রেখে আসে বা হাত ধরে নিয়ে যায়।"
+          },
+          {
+            "en": "A point of grammar in al-Qurtubi bears on the same question. For the light reading yahdi, al-Kisa'i and al-Farra' said it means yahtadi, is guided. Abu l-'Abbas answered that this usage is not known, and read it as one who does not guide anyone else, the sentence complete there. Unless he is guided then begins afresh, an exception cut off from what precedes: but he himself needs to be guided. It is like saying of someone, he makes no one hear unless he is made to hear.",
+            "bn": "কুরতুবীর একটি ব্যাকরণগত আলোচনাও এই প্রশ্নের সঙ্গে যুক্ত। হালকা পাঠ ইয়াহদীর বেলায় কিসাঈ ও ফাররা বলেছেন, এর অর্থ ইয়াহতাদী, পথ পায়। আবুল আব্বাস জবাবে বলেন, এমন প্রয়োগ পরিচিত নয়। তাঁর মতে অর্থ হলো: যে অন্য কাউকে পথ দেখায় না, আর বাক্য সেখানেই শেষ। এরপর 'যতক্ষণ না তাকে পথ দেখানো হয়' নতুন করে শুরু হয়, আগের অংশ থেকে বিচ্ছিন্ন এক ব্যতিক্রম হিসেবে: বরং তার নিজেরই পথ দেখানোর দরকার। যেমন কারও সম্পর্কে বলা হয়, সে কাউকে শোনায় না যতক্ষণ না তাকে শোনানো হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sight Given After Blindness",
+          "bn": "অন্ধত্বের পরে দৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir turns the comparison into a choice set before the servant. Shall he follow the One who guides to the truth and gives sight after blindness, or the one who guides to nothing unless he is guided, because he is blind and dumb? He then brings Ibrahim (AS), speaking to his father in 19:42: why do you worship that which does not hear and does not see and avails you nothing? And to his people, in 37:95 and 37:96: do you worship what you carve, when Allah created you and what you make?",
+            "bn": "ইবন কাসীর তুলনাটাকে বান্দার সামনে একটি বাছাই হিসেবে রাখেন। সে কি তাঁর অনুসরণ করবে, যিনি সত্যের পথ দেখান আর অন্ধত্বের পর দৃষ্টি দেন? নাকি তার, যে অন্ধ ও বোবা বলে কাউকে কোনো দিকে পথ দেখায় না, যতক্ষণ না তাকেই পথ দেখানো হয়? এরপর তিনি ইবরাহীম (আঃ)-এর কথা আনেন। ১৯:৪২ আয়াতে পিতাকে তিনি বলেন: যে শোনে না, দেখে না, আর আপনার কোনো কাজেই আসে না, তার ইবাদাত কেন করেন? আর ৩৭:৯৫ ও ৩৭:৯৬ আয়াতে নিজের কওমকে বলেন: তোমরা কি নিজেদের খোদাই করা জিনিসের ইবাদাত করো, অথচ আল্লাহই তোমাদের আর তোমাদের বানানো জিনিসকে সৃষ্টি করেছেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Has Come Over You",
+          "bn": "তোমাদের হলোটা কী"
+        },
+        "p": [
+          {
+            "en": "Fa-ma lakum kayfa tahkumun: then what is wrong with you, how do you judge? Ibn Kathir hears a question about the mind: what has carried off your reason, that you made Allah and His creation equal and worshipped both? Why did you not single out the Lord, the Owner, the Judge, the One who guides out of error, with worship alone, and turn to Him sincerely? At-Tabari expands it the same way, with a detail of his own: follow the One who guides you through the darknesses of land and sea.",
+            "bn": "ফা মা লাকুম কাইফা তাহকুমূন: তোমাদের হয়েছে কী, কীভাবে তোমরা সিদ্ধান্ত নিচ্ছ? ইবন কাসীর এখানে শোনেন বুদ্ধির ব্যাপারে এক প্রশ্ন। কী এমন হলো যে তোমাদের বিবেক উধাও হয়ে গেল, আল্লাহ আর তাঁর সৃষ্টিকে সমান বানালে, দুটোরই ইবাদাত করলে? কেন তোমরা রবকে, যিনি মালিক, যিনি বিচারক, যিনি পথভ্রষ্টতা থেকে পথ দেখান, একাই ইবাদাতের জন্য নির্দিষ্ট করলে না, খাঁটি মনে তাঁর দিকেই ফিরলে না? তাবারীও একইভাবে কথাটা খুলে বলেন, নিজের একটি সংযোজনসহ: অনুসরণ করো তাঁর, যিনি স্থল ও সমুদ্রের অন্ধকারে তোমাদের পথ দেখান।"
+          },
+          {
+            "en": "Al-Qurtubi reports Abu Ishaq dividing the phrase in two. Fa-ma lakum is a complete sentence: what is there for you in worshipping idols? Then kayfa tahkumun: how do you rule by this plain falsehood, worshipping gods that avail themselves nothing unless something is done to them, and leaving the worship of Allah, who does what He wills? Al-Baghawi keeps it short: how do you decide, when you have claimed that Allah has a partner? As-Sa'di asks what made them judge it sound to worship anyone alongside Allah, after the proof had appeared.",
+            "bn": "কুরতুবী জানান, আবূ ইসহাক বাক্যটিকে দুই ভাগে ভাগ করেছেন। ফা মা লাকুম নিজেই পূর্ণ বাক্য: মূর্তিপূজায় তোমাদের কী আছে? তারপর কাইফা তাহকুমূন: তোমরা কীভাবে এমন খোলাখুলি বাতিল রায় দাও? এমন উপাস্যের ইবাদাত করো, যারা নিজেদেরও কোনো উপকার করতে পারে না, যতক্ষণ না কেউ তাদের নিয়ে কিছু করে। আর ছেড়ে দাও আল্লাহর ইবাদাত, যিনি যা চান তা-ই করেন। বাগাভী সংক্ষেপে বলেন: আল্লাহর শরীক আছে দাবি করে তোমরা কীভাবে ফয়সালা করো? সা'দী জিজ্ঞেস করেন, প্রমাণ স্পষ্ট হওয়ার পরও কিসে তোমাদের এই রায় দেওয়াল যে, আল্লাহর সঙ্গে অন্য কারও ইবাদাত ঠিক?"
+          },
+          {
+            "en": "As-Sa'di then draws the conclusion of the passage. Their gods have no qualities and no deeds that would call for their worship beside Allah; they carry instead the deficiencies that cancel any claim to godhood. So why were they set up beside Him? The next verse, 10:36, gives the reason the idolaters never stated. In Ibn Kathir's English abridgment: they did not hold their religion on evidence and proof, but followed conjecture, and conjecture is no substitute for the truth.",
+            "bn": "এরপর সা'দী গোটা অংশের উপসংহার টানেন। তাদের উপাস্যদের মধ্যে এমন কোনো গুণ নেই, এমন কোনো কাজও নেই, যার কারণে আল্লাহর সঙ্গে তাদের ইবাদাত করা যায়। উল্টো তাদের গায়ে লেগে আছে সেই সব ত্রুটি, যা তাদের ইলাহ হওয়ার দাবিকেই বাতিল করে দেয়। তাহলে কিসের ভিত্তিতে তাদের আল্লাহর পাশে বসানো হলো? পরের আয়াত, ১০:৩৬, সেই কারণটা জানায়, যা মুশরিকরা নিজেরা কখনো মুখে বলেনি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটা এমন: তারা দলিল ও প্রমাণের উপর নিজেদের ধর্ম ধরে রাখেনি, চলেছে অনুমানের পেছনে। আর অনুমান কোনোভাবেই সত্যের বিকল্প নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fear Named for the Ummah",
+          "bn": "উম্মাহর জন্য যে ভয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted here attaches a hadith to this verse. One general narration speaks to the second reading, and it is not tied to the verse. In Jami' at-Tirmidhi 2229, Thawban (RA) narrated that the Messenger of Allah ﷺ said: I only fear for my Ummah the misguiding imams. And he said that the Messenger of Allah ﷺ said: there will never cease to be a group from my Ummah manifest upon the truth; they will not be harmed by those who forsake them until Allah's decree comes. At-Tirmidhi grades it hasan sahih.",
+            "bn": "এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের কেউই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেননি। দ্বিতীয় ব্যাখ্যার সঙ্গে মেলে এমন একটি সাধারণ হাদীস আছে, তবে তা এ আয়াতের সঙ্গে যুক্ত নয়। জামি তিরমিযীর ২২২৯ নম্বর হাদীসে সাওবান (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আমি আমার উম্মাহর ব্যাপারে কেবল পথভ্রষ্টকারী ইমামদের ভয় করি। তিনি আরও বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: আমার উম্মাহর একটি দল সবসময় সত্যের উপর বিজয়ী থাকবে। যারা তাদের সঙ্গ ছেড়ে দেবে, তারা আল্লাহর ফয়সালা আসা পর্যন্ত তাদের কোনো ক্ষতি করতে পারবে না। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: people who set partners beside Allah and followed what could not guide, addressed through the Prophet ﷺ in his own time. It licenses nothing against any living person or community. The reading about chiefs gives no one a label to fasten on a teacher, scholar or ruler he dislikes, and the hadith names a danger, not a list of people. The verse asks each hearer whom he himself follows, not whom others follow.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে: সেই লোকদের কথা, যারা আল্লাহর সঙ্গে শরীক বানিয়েছিল আর এমন কিছুর অনুসরণ করেছিল, যা পথ দেখাতে পারে না। নবী ﷺ-এর মাধ্যমে তাঁর নিজের যুগে তাদেরকেই সম্বোধন করা হয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। সর্দারদের ব্যাখ্যা কাউকে এমন তকমা দেয় না, যা সে অপছন্দের কোনো শিক্ষক, আলিম বা শাসকের গায়ে লাগিয়ে দেবে। হাদীসটিও একটি বিপদ চেনায়, কোনো মানুষের তালিকা দেয় না। আয়াত প্রত্যেক শ্রোতাকে জিজ্ঞেস করে, সে নিজে কার অনুসরণ করছে। অন্যরা কার অনুসরণ করে, সে প্রশ্ন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Can They Guide Unguided",
+          "bn": "দিশা না পেয়ে কি দিশা দেয়"
+        },
+        "p": [
+          {
+            "en": "The test the verse hands over can be carried anywhere. Most of what steers a life is not a statue but a voice: a parent's habit, a crowd's opinion, a speaker who sounds certain. The verse does not forbid learning from people. It asks where their direction comes from. Does this voice guide to the truth, or does it itself need guiding, and has the One who guides guided it? A teacher is worth following as far as he follows that guidance, and no further.",
+            "bn": "আয়াতটি যে পরীক্ষা হাতে তুলে দেয়, তা যেকোনো জায়গায় নিয়ে যাওয়া যায়। জীবনকে যা চালায়, তার বেশির ভাগ কোনো মূর্তি নয়, কোনো না কোনো কণ্ঠ: বাবা-মায়ের অভ্যাস, ভিড়ের মত, কিংবা নিশ্চিত সুরে কথা বলা কোনো বক্তা। মানুষের কাছ থেকে শেখা আয়াত নিষেধ করে না। সে জানতে চায়, তাদের দিশা আসে কোথা থেকে। এই কণ্ঠ কি সত্যের পথ দেখায়, নাকি তার নিজেরই পথ দেখানোর দরকার? আর যিনি পথ দেখান, তাঁর কাছ থেকে কি সে পথ পেয়েছে? একজন শিক্ষক অনুসরণের যোগ্য ততটুকুই, যতটুকু তিনি সেই হিদায়াতের অনুসরণ করেন। এর বেশি নয়।"
+          },
+          {
+            "en": "Then turn the question inward, because 10:36 says most of them followed only conjecture. Which of my convictions did I examine, and which did I simply inherit? When I last changed my mind on something that matters, was the truth shown to me, or did the people around me move? Whom do I go to first when I am lost, and can that person find the road without being led? And when did I last ask Allah, who alone guides to the truth, to guide me before I chose?",
+            "bn": "এরপর প্রশ্নটা নিজের দিকে ফেরান, কারণ ১০:৩৬ বলে, তাদের অধিকাংশই কেবল অনুমানের অনুসরণ করত। আমার কোন বিশ্বাসগুলো আমি যাচাই করে নিয়েছি, আর কোনগুলো শুধু উত্তরাধিকার সূত্রে পেয়েছি? গুরুত্বপূর্ণ কোনো বিষয়ে শেষবার যখন মত বদলেছি, তা কি সত্য স্পষ্ট হয়েছিল বলে, নাকি আশপাশের লোকেরা সরে গিয়েছিল বলে? পথ হারালে প্রথমে কার কাছে যাই, আর সে কি কারও হাত ধরা ছাড়া নিজে পথ খুঁজে পায়? আর শেষ কবে বাছাই করার আগে আল্লাহর কাছে হিদায়াত চেয়েছি, যিনি একাই সত্যের পথ দেখান?"
+          }
+        ]
+      }
+    ]
+  },
   "10:39": {
     "sections": [
       {

@@ -21431,6 +21431,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your Lord made the heavens, rose over the Throne and arranges every matter; let that knowledge decide where you take your worship and your needs.",
     "lessonBn": "আপনার রব আকাশ বানিয়েছেন, আরশের উপর সমুন্নত হয়েছেন এবং সব বিষয় পরিচালনা করেন। এই জানা ঠিক করে দিক, আপনার ইবাদত আর প্রয়োজন আপনি কার কাছে নিয়ে যাবেন।"
+  },
+  "10:35": {
+    "reflectionEn": "A guide is worth following only if he knows the road without being led along it. The verse puts to the idolaters a question they cannot answer yes to: can any of your partners guide to the truth? Allah does. Then it asks which is more worthy to be followed, the One who guides, or the one who cannot find the way unless someone else guides him. A stone that has to be carried to move at all is the plainest case. Yet the same test reaches every voice I let steer me: a habit, a crowd, a person I admire. Before I follow, I can ask where their own guidance comes from, and whether it comes from Allah at all.",
+    "reflectionBn": "পথপ্রদর্শক তখনই অনুসরণের যোগ্য, যখন অন্য কেউ হাত ধরে না নিলেও তিনি নিজে পথ চেনেন। আয়াতটি মুশরিকদের সামনে এমন এক প্রশ্ন রাখে, যার উত্তরে তারা হ্যাঁ বলতে পারে না: তোমাদের শরীকদের কেউ কি সত্যের পথ দেখাতে পারে? আল্লাহ দেখান। তারপর প্রশ্ন: অনুসরণের বেশি হকদার কে? যিনি পথ দেখান তিনি, নাকি সে, যাকে অন্য কেউ পথ না দেখালে নিজেই পথ পায় না? যে পাথরকে বয়ে না নিলে এক পা-ও নড়ে না, সে এর সবচেয়ে সাদা উদাহরণ। কিন্তু একই পরীক্ষা আমার জীবনের প্রতিটি চালকের বেলাতেও খাটে: কোনো অভ্যাস, কোনো ভিড়, কিংবা কোনো প্রিয় মানুষ। কারও পেছনে হাঁটার আগে আমি জিজ্ঞেস করতে পারি, তার নিজের পথনির্দেশ আসে কোথা থেকে, আর তা আদৌ আল্লাহর কাছ থেকে আসে কি না।",
+    "pointsEn": [
+      "Whose voice actually decides what I do when the choice is hard, and could that voice find the road without being led?",
+      "Which of my habits did I take up only because someone near me already had it?",
+      "When I follow a teacher or a leader, do I check where his guidance comes from, or only how confidently he speaks?",
+      "Is there anything I keep turning to for direction that has never once shown me the truth?",
+      "If Allah alone guides to the truth, when did I last ask Him for guidance before I decided?"
+    ],
+    "pointsBn": [
+      "কঠিন সিদ্ধান্তের সময় আসলে কার কথায় আমি চলি? সেই কণ্ঠ কি কারও হাত ধরা ছাড়া নিজে পথ খুঁজে পেত?",
+      "আমার কোন অভ্যাসগুলো শুধু এ কারণে গড়ে উঠেছে যে আশপাশের কারও আগে থেকেই তা ছিল?",
+      "কোনো শিক্ষক বা নেতার অনুসরণ করার সময় আমি কি দেখি তাঁর পথনির্দেশ কোথা থেকে আসে, নাকি শুধু দেখি তিনি কত জোর দিয়ে কথা বলেন?",
+      "দিশা পেতে বারবার এমন কিছুর কাছে কি আমি যাই, যা আজ পর্যন্ত একবারও আমাকে সত্য দেখায়নি?",
+      "সত্যের পথ যদি একমাত্র আল্লাহই দেখান, তবে শেষ কবে সিদ্ধান্ত নেওয়ার আগে তাঁর কাছে হিদায়াত চেয়েছি?"
+    ],
+    "lessonEn": "Before you follow anyone, ask whether they can guide without being guided. Only Allah guides to the truth by Himself; follow others only as far as they follow Him.",
+    "lessonBn": "কারও অনুসরণ করার আগে দেখে নিন, অন্যের পথ দেখানো ছাড়া সে নিজে পথ পায় কি না। নিজে থেকে সত্যের পথ দেখান কেবল আল্লাহ। অন্যদের অনুসরণ করুন ততটুকুই, যতটুকু তারা তাঁর অনুসরণ করে।"
   }
 };
 
