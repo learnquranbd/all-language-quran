@@ -2755,6 +2755,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Between Two Ruins",
+          "bn": "দুই ধ্বংসের মাঝে পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Surah al-Hijr has just closed the story of Lut (AS). The cry seized his people at sunrise, their town was overturned, and 15:77 says that in this is a sign for the believers. Then, before the surah turns to al-Hijr itself, it gives another people two verses. This verse has five words: wa-in kana ashabu al-aykati la-zalimin, and the companions of the thicket were indeed wrongdoers. The next, 15:79, adds that Allah took retribution from them, and that the two lie on a clear road.",
+            "bn": "সূরা হিজর সবে লূত (আঃ)-এর কাহিনি শেষ করেছে। সূর্যোদয়ের সময় প্রচণ্ড ধ্বনি তাঁর জাতিকে পাকড়াও করেছে, তাদের জনপদ উল্টে দেওয়া হয়েছে, আর ১৫:৭৭ বলছে, এতে মুমিনদের জন্য নিদর্শন আছে। এরপর হিজরের কথায় যাওয়ার আগে সূরাটি আরেক জাতিকে দুটি আয়াত দেয়। এ আয়াত পাঁচ শব্দের: ওয়া ইন কানা আসহাবুল আইকাতি লাযালিমীন, আর আইকাবাসীরা অবশ্যই যালিম ছিল। পরের আয়াত, ১৫:৭৯, যোগ করে যে আল্লাহ তাদের থেকে প্রতিশোধ নিয়েছেন, আর দুটিই রয়েছে স্পষ্ট পথের উপর।"
+          },
+          {
+            "en": "The surah does not stop to tell their story. It names them by a place, calls them wrongdoers, and moves on. The fuller telling is in Surah ash-Shu'ara, from 26:176 to 26:190, where Shu'ayb (AS) is named and his words are given. This article stays with the five words of al-Hijr: the opening particles, the thicket, the shape of their wrong, and a question on which the pages read for this verse divide: were these people Madyan, or another nation?",
+            "bn": "তাদের কাহিনি বলতে সূরাটি থামে না। একটি জায়গার নামে তাদের ডাকে, যালিম বলে, তারপর এগিয়ে যায়। পুরো বর্ণনা আছে সূরা শুআরায়, ২৬:১৭৬ থেকে ২৬:১৯০ পর্যন্ত। সেখানে শুআইব (আঃ)-এর নাম আছে, তাঁর কথাগুলোও আছে। এ লেখা হিজরের এই পাঁচ শব্দের মধ্যেই থাকবে: শুরুর অব্যয়, আইকা, তাদের যুলমের ধরন, আর একটি প্রশ্ন, যেখানে এ আয়াতের জন্য পড়া তাফসীরগুলো দুই ভাগ হয়ে যায়। এরা কি মাদইয়ানবাসী, নাকি আলাদা এক জাতি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wa-in Kana, Read as Qad",
+          "bn": "ওয়া ইন কানা, অর্থ কাদ"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa-in kana. In another sentence those words could begin a condition: and if the companions of the thicket were. The commentators do not read them that way here. At-Tabari restates the verse as wa-qad kana: the companions of the thicket were indeed wrongdoers. Al-Baghawi does the same in two words, writing wa-qad kana beside wa-in kana, and adds a note on the end of the verse: the lam prefixed to zalimin is for emphasis. Read so, the sentence states a fact and presses it home.",
+            "bn": "আয়াতের শুরু ওয়া ইন কানা দিয়ে। অন্য কোনো বাক্যে এ শব্দগুলো শর্তের সূচনা হতে পারত: আর যদি আইকাবাসীরা হতো। এখানে তাফসীরকারেরা সেভাবে পড়েন না। তাবারী আয়াতটিকে নতুন করে বলেন ওয়া কাদ কানা দিয়ে, অর্থাৎ আইকাবাসীরা সত্যিই যালিম ছিল। বাগাভীও দুই শব্দে একই কাজ করেন। ওয়া ইন কানার পাশে লেখেন ওয়া কাদ কানা, আর আয়াতের শেষ নিয়ে একটি টীকা যোগ করেন: যালিমীন শব্দের আগের লাম জোর দেওয়ার জন্য। এভাবে পড়লে বাক্যটি একটি ঘটনা জানায়, আর জোর দিয়েই জানায়।"
+          },
+          {
+            "en": "The same two commentators also narrow the word zalimin. At-Tabari explains it at once: they were disbelievers in Allah. Al-Baghawi writes la-kafirin, disbelievers, against la-zalimin. The Muyassar keeps the word and gives it an object: wrongdoers against themselves. It names the cause as their disbelief in Allah and in their noble messenger. On these readings the core of their wrong was what they refused to believe. Other commentators, as a later section shows, widen the word to take in what these people did to others.",
+            "bn": "এই দুজন তাফসীরকার যালিমীন শব্দের অর্থও সংকীর্ণ করে আনেন। তাবারী সঙ্গে সঙ্গে ব্যাখ্যা করেন: তারা আল্লাহকে অস্বীকারকারী ছিল। বাগাভী লাযালিমীনের পাশে লেখেন লাকাফিরীন, অর্থাৎ কাফির। মুয়াসসার শব্দটি রেখে দেয়, তবে তার সঙ্গে জুড়ে দেয় কার উপর যুলম: নিজেদের উপর। কারণও বলে দেয়, আল্লাহ ও তাদের সম্মানিত রাসূলকে অস্বীকার করা। এ ব্যাখ্যাগুলো অনুযায়ী তাদের যুলমের মূল হলো যা তারা বিশ্বাস করতে রাজি হয়নি। অন্য তাফসীরকারেরা, পরের এক অংশে যেমন আসবে, শব্দটিকে আরও প্রশস্ত করেন। মানুষের সঙ্গে তারা যা করেছে, তাও এর মধ্যে আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grove Thick With Dawm",
+          "bn": "দাওম গাছে ঘন এক বন"
+        },
+        "p": [
+          {
+            "en": "Al-ayka, the commentators agree, is a mass of trees. At-Tabari defines it as trees intertwined and gathered together, and supports the sense with a line of the poet Umayya about doves weeping on the branches of the ayk. He then lists early glosses through his chains. Sa'id ibn Jubayr said the companions of al-ayka were the people of a ghayda, a thicket, and ad-Dahhak said the same. In a report from Ibn Jurayj, Ibn Abbas says al-ayka had dense growth and trees, and they lived in it. Ibn Kathir carries ad-Dahhak and Qatadah: intertwined trees.",
+            "bn": "আইকা মানে গাছের ঘন সমাবেশ, এ ব্যাপারে তাফসীরকারেরা একমত। তাবারী সংজ্ঞা দেন: একে অপরের সঙ্গে জড়ানো, একত্র হয়ে থাকা গাছ। অর্থটির পক্ষে তিনি কবি উমাইয়ার একটি পঙ্‌ক্তি আনেন, যেখানে আইকের ডালে বসে ঘুঘুর কান্নার কথা আছে। এরপর নিজের সনদে আগের যুগের ব্যাখ্যাগুলো সাজান। সাঈদ ইবন জুবাইর বলেছেন, আইকাবাসী মানে এক গাইদা, অর্থাৎ ঝোপঝাড়ে ভরা বনের লোক। দাহহাকও একই কথা বলেছেন। ইবন জুরাইজের এক বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, আইকায় ছিল ঘন ঝোপ আর গাছ, আর তারা সেখানেই থাকত। ইবন কাসীর দাহহাক ও কাতাদার কথা আনেন: জড়াজড়ি করা গাছ।"
+          },
+          {
+            "en": "What grew there comes in small details. Qatadah, through at-Tabari, says most of their trees were the dawm, and al-Baghawi agrees, identifying the dawm as the muql; al-Qurtubi, who calls them people of thickets, meadows and fruiting trees, gives it as narrated. Khusayf, also through at-Tabari, says they ate fresh fruit in summer and dried fruit in winter. As-Sa'di draws out the meaning: Allah attached them to al-ayka, a garden of many trees, to recall His favour upon them, and they did not rise to it.",
+            "bn": "সেখানে কী জন্মাত, ছোট ছোট কথায় তা আসে। তাবারীর সূত্রে কাতাদা বলেন, তাদের বেশির ভাগ গাছ ছিল দাওম। বাগাভীও তা-ই বলেন, আর জানান দাওম হলো মুকল। কুরতুবী তাদের বলেন ঝোপ, বাগান আর ফলবান গাছের অধিবাসী, আর দাওমের কথাটি আনেন বর্ণিত বিষয় হিসেবে। খুসাইফ, তিনিও তাবারীর সূত্রে, বলেন তারা গ্রীষ্মে খেত তাজা ফল আর শীতে শুকনো ফল। সা'দী এর তাৎপর্য বের করে আনেন। বহু গাছে ভরা বাগান আইকার সঙ্গে আল্লাহ তাদের নাম জুড়ে দিয়েছেন নিজের নিয়ামতের কথা মনে করিয়ে দিতে। আর তারা সে নিয়ামতের হক আদায় করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Against the Creator and Creation",
+          "bn": "স্রষ্টার হকে, সৃষ্টির হকে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gives the fullest list in a single line. Their wrong, he says, was their shirk with Allah, their cutting of the road, and their shortening of the measure and the scale. His abridged English renders the three as associating partners with Allah, banditry, and cheating in weights and measures. The first is a wrong against the Creator. The other two fall on people: on travellers along the road, and on buyers at the scale. Ibn Kathir does not rank them. He sets all three together under the single word the verse uses.",
+            "bn": "সবচেয়ে পূর্ণ তালিকা দেন ইবন কাসীর, এক লাইনে। তাঁর মতে তাদের যুলম ছিল আল্লাহর সঙ্গে শিরক, রাস্তায় ডাকাতি, আর মাপ ও ওজনে কম দেওয়া। তাঁর সংক্ষিপ্ত ইংরেজি তাফসীরেও এই তিনটিই আছে: আল্লাহর সঙ্গে শরীক করা, রাহাজানি, আর ওজন ও মাপে প্রতারণা। প্রথমটি স্রষ্টার হকে যুলম। বাকি দুটির শিকার মানুষ, পথের মুসাফির আর পাল্লার সামনে দাঁড়ানো ক্রেতা। ইবন কাসীর এদের মধ্যে কোনোটিকে আগে-পিছে করেন না। আয়াতের একটিমাত্র শব্দের নিচে তিনটিকেই একসঙ্গে রাখেন।"
+          },
+          {
+            "en": "As-Sa'di explains why the word chosen is zulm. Their prophet Shu'ayb (AS) came to them, he writes, and called them to tawhid, and to giving up their wronging of people in measures and weights. They kept to their wrong, in the right of the Creator and in the right of creation, and for this Allah describes them here as wrongdoers. On his reading the one word covers both halves of the call they refused: what they owed their Lord, and what they owed the people they dealt with every day.",
+            "bn": "শব্দটি কেন যুলম, সা'দী তার ব্যাখ্যা দেন। তিনি লেখেন, তাদের নবী শুআইব (আঃ) এসে তাদের তাওহীদের দিকে ডেকেছিলেন, আর ডেকেছিলেন মাপে ও ওজনে মানুষের উপর যুলম ছেড়ে দিতে। কিন্তু তারা যুলমের উপরেই অটল থাকল, স্রষ্টার হকেও, সৃষ্টির হকেও। এ কারণেই আল্লাহ এখানে তাদের যালিম বলেছেন। তাঁর পাঠ অনুযায়ী একটি শব্দই তাদের প্রত্যাখ্যাত দাওয়াতের দুই অংশকে ঢেকে নেয়। একদিকে রবের প্রতি তাদের দায়, অন্যদিকে রোজ যাদের সঙ্গে লেনদেন করত সেই মানুষদের প্রতি দায়।"
+          },
+          {
+            "en": "The words of that call are given in Surah ash-Shu'ara. In 26:181 Shu'ayb (AS) tells them to give full measure and not to be among those who cause loss. 26:182 adds: weigh with the even balance. 26:183 widens it: do not deprive people of their things, and do not go about the earth spreading corruption. The object in that last command is broad, ashya'ahum, their things. On a plain reading the scale is one case of something larger, the quiet taking from other people of a part of what is theirs.",
+            "bn": "সেই দাওয়াতের কথাগুলো আছে সূরা শুআরায়। ২৬:১৮১ আয়াতে শুআইব (আঃ) তাদের বলেন, মাপ পুরো দাও, আর যারা মানুষকে ক্ষতিগ্রস্ত করে তাদের দলে থেকো না। ২৬:১৮২ যোগ করে: সঠিক দাঁড়িপাল্লায় ওজন করো। ২৬:১৮৩ কথাটিকে আরও ছড়িয়ে দেয়: মানুষকে তাদের জিনিসপত্রে কম দিয়ো না, আর পৃথিবীতে ফাসাদ করে বেড়িয়ো না। শেষ নির্দেশের বিষয়টি অনেক প্রশস্ত, আশইয়াআহুম, তাদের জিনিসপত্র। সাদামাটা পাঠে পাল্লা তাই বড় একটা জিনিসের একটি উদাহরণমাত্র। সেটা হলো, অন্যের যা প্রাপ্য, তার একটা অংশ চুপিচুপি নিজের দিকে টেনে নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Madyan, or a Nation Beside It",
+          "bn": "মাদইয়ান, নাকি পাশের আরেক জাতি"
+        },
+        "p": [
+          {
+            "en": "The commentators read here agree on one thing: these were the people of Shu'ayb. Ibn Kathir, as-Sa'di, al-Baghawi, al-Qurtubi and the Muyassar say so, and at-Tabari reports it from Ibn Jurayj and ad-Dahhak. What the pages read for this verse do not agree on is whether the companions of the thicket are Madyan under another name. Qatadah, through at-Tabari, says they are not. Their messenger, as it reached us, was Shu'ayb, he says, sent to them and to the people of Madyan: sent to two nations, which were punished with two different punishments.",
+            "bn": "এখানে পড়া তাফসীরকারেরা একটি বিষয়ে একমত: এরা শুআইবের জাতি। ইবন কাসীর, সা'দী, বাগাভী, কুরতুবী আর মুয়াসসার এ কথা বলেন, আর তাবারী তা বর্ণনা করেন ইবন জুরাইজ ও দাহহাক থেকে। এ আয়াতের জন্য পড়া তাফসীরগুলো যেখানে একমত নয়, তা হলো: আইকাবাসীরা কি অন্য নামে মাদইয়ানবাসীই? তাবারীর সূত্রে কাতাদা বলেন, না। তিনি বলেন, আমাদের কাছে যতটুকু পৌঁছেছে, তাদের রাসূল ছিলেন শুআইব। তাঁকে পাঠানো হয়েছিল তাদের কাছে এবং মাদইয়ানবাসীর কাছে, অর্থাৎ দুটি জাতির কাছে। আর দুই জাতিকে শাস্তি দেওয়া হয়েছিল দুই রকম শাস্তিতে।"
+          },
+          {
+            "en": "He names the two. The people of Madyan were seized by the cry. The companions of the thicket, it was mentioned to us, were given over to heat for seven days, with no shade to shelter them. Then Allah sent a cloud. They gathered beneath it seeking relief, and He made it their punishment, sending fire that blazed over them and consumed them. That, says Qatadah, is the punishment of the day of the canopy, the words of 26:189. He gives it as a report that reached him, not as a saying of the Prophet ﷺ.",
+            "bn": "দুটি শাস্তির কথা তিনি আলাদা করে বলেন। মাদইয়ানবাসীকে পাকড়াও করেছিল প্রচণ্ড ধ্বনি। আর আইকাবাসী, তাঁর ভাষায় আমাদের কাছে যেমন বলা হয়েছে, সাতটি দিন প্রচণ্ড গরমের কবলে ছিল, কোনো ছায়া তাদের আড়াল করেনি। তারপর আল্লাহ এক মেঘ পাঠালেন। একটু আরামের খোঁজে তারা তার নিচে জড়ো হলো, আর আল্লাহ সেটাকেই তাদের শাস্তি বানালেন। আগুন পাঠালেন, যা দাউদাউ করে জ্বলে তাদের গ্রাস করল। কাতাদা বলেন, এটাই মেঘাচ্ছন্ন দিনের শাস্তি, ২৬:১৮৯ আয়াতের কথা। তিনি এটি এনেছেন তাঁর কাছে পৌঁছানো এক বর্ণনা হিসেবে, নবী ﷺ-এর বাণী হিসেবে নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out both positions without naming their holders. Some commentators say there was a dense forest near Madyan, so that Aikah is a title of the people of Madyan. Others say the two were different peoples, and that Shu'ayb (AS) was sent to one after the other had been destroyed. The abridged Ibn Kathir, without arguing the point, gathers under this one people the cry, the earthquake and the torment of the day of the shadow. The Muyassar, on 15:79, names the quake and the day of the canopy together as their retribution.",
+            "bn": "মাআরিফুল কুরআন দুই মতই তুলে ধরে, তবে কারা কোন মতের, নাম বলে না। কিছু তাফসীরকার বলেন, মাদইয়ানের কাছে ছিল এক ঘন বন, তাই আইকা আসলে মাদইয়ানবাসীরই একটি উপাধি। অন্যরা বলেন, এরা দুই আলাদা জাতি, আর একটি ধ্বংস হওয়ার পর শুআইব (আঃ)-কে পাঠানো হয়েছিল অন্যটির কাছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বিষয়টি নিয়ে কোনো যুক্তি না দিয়েই এই এক জাতির উপর তিনটি শাস্তি জড়ো করে: প্রচণ্ড ধ্বনি, ভূমিকম্প আর ছায়ার দিনের শাস্তি। মুয়াসসার ১৫:৭৯ আয়াতের আলোচনায় তাদের উপর প্রতিশোধ হিসেবে ভূমিকম্প আর মেঘাচ্ছন্ন দিনের শাস্তি, দুটির কথাই একসঙ্গে বলে।"
+          },
+          {
+            "en": "The Qur'an's wording sits alongside the question without closing it. Madyan is introduced in 7:85, 11:84 and 29:36 with akhahum shu'ayba, their brother Shu'ayb, while 26:177 says only, when Shu'ayb said to them. The article on 26:178 sets out what Ibn Kathir makes of that difference there. No page read for this verse raises it. The sides are recorded here as these sources give them, and this article takes neither. Both agree that Shu'ayb (AS) was sent to the companions of the thicket, and that they were wrongdoers.",
+            "bn": "কুরআনের শব্দচয়ন প্রশ্নটির পাশে থাকে, তবে তার মীমাংসা করে না। ৭:৮৫, ১১:৮৪ ও ২৯:৩৬ আয়াতে মাদইয়ানের কথা এসেছে আখাহুম শুআইবা, তাদের ভাই শুআইব, এই শব্দে। আর ২৬:১৭৭ বলে শুধু: যখন শুআইব তাদের বললেন। এ পার্থক্য থেকে ইবন কাসীর সেখানে কী বুঝেছেন, ২৬:১৭৮ আয়াতের লেখায় তা আছে। এ আয়াতের জন্য পড়া কোনো তাফসীর বিষয়টি তোলেনি। দুই মতই এখানে রাখা হলো এই সূত্রগুলো যেভাবে দেয় সেভাবে, আর এ লেখা কোনো পক্ষ নেয় না। দুই পক্ষই একমত যে শুআইব (আঃ)-কে আইকাবাসীর কাছে পাঠানো হয়েছিল, আর তারা যালিম ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Ruins on a Plain Road",
+          "bn": "স্পষ্ট পথের ধারে দুই ধ্বংসাবশেষ"
+        },
+        "p": [
+          {
+            "en": "15:79 completes the pair: fa-ntaqamna minhum, so We took retribution from them, wa-innahuma la-bi-imamin mubin, and the two are on a clear road. Al-Qurtubi reads the two as the city of Lut's people and the place of the companions of the thicket, on a road clear in itself, from which passers-by take a lesson. The Muyassar agrees: their dwellings lie on a plain road that travellers use, and they take heed. The abridged Ibn Kathir reports Ibn Abbas, Mujahid and ad-Dahhak: a visible route.",
+            "bn": "১৫:৭৯ জোড়াটি পূর্ণ করে: ফানতাকামনা মিনহুম, অতঃপর আমি তাদের থেকে প্রতিশোধ নিলাম, ওয়া ইন্নাহুমা লাবিইমামিম মুবীন, আর দুটিই স্পষ্ট পথের উপর। কুরতুবীর মতে দুটি মানে লূতের জাতির শহর আর আইকাবাসীর এলাকা। দুটিই এমন পথের ধারে, যা নিজেই স্পষ্ট, আর পথচারী সেখান থেকে শিক্ষা নেয়। মুয়াসসারও একমত: তাদের বসতি এমন স্পষ্ট পথের উপর, যে পথে মুসাফিররা চলে আর শিক্ষা নেয়। ইবন কাসীরের সংক্ষিপ্ত তাফসীর ইবন আব্বাস (রাঃ), মুজাহিদ ও দাহহাকের কথা আনে: চোখে পড়ার মতো পথ।"
+          },
+          {
+            "en": "Ibn Kathir also says why the two are paired. The companions of the thicket lived near the people of Lut, though later, and knew of them. He points to 11:89, where Shu'ayb (AS) warns his people that the people of Lut are not far from you. In 15:76 the surah said Lut's towns lie on a road still in use, a verse read in the article on 15:74. Here a second ruin is set beside such a road. The pages give no more geography than this, and none is added.",
+            "bn": "দুটিকে কেন একসঙ্গে আনা হলো, ইবন কাসীর তাও বলেন। আইকাবাসীরা লূতের জাতির কাছাকাছি থাকত, তবে পরের যুগে, আর তাদের কথা জানত। তিনি ১১:৮৯ আয়াতের দিকে ইঙ্গিত করেন, যেখানে শুআইব (আঃ) তাঁর জাতিকে সতর্ক করেন: লূতের জাতি তোমাদের থেকে দূরে নয়। ১৫:৭৬ আয়াতে সূরাটি বলেছে, লূতের জনপদ এখনো চালু এক পথের ধারে। সে আয়াত পড়া হয়েছে ১৫:৭৪ আয়াতের লেখায়। এখানে দ্বিতীয় এক ধ্বংসাবশেষকে রাখা হলো তেমনই এক পথের পাশে। তাফসীরগুলো এর বেশি ভূগোল দেয় না, এখানেও যোগ করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past People, Named Only",
+          "bn": "অতীতের জাতি, শুধু নামটুকু"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted for this verse attaches a sound hadith to it, and none is offered here; the account of the heat and the cloud is Qatadah's report, and is presented as his. Then the limit, plainly stated. The verse describes a people of the past, as the Qur'an describes them, and what Allah did to them. It licenses nothing against any living person or community, including anyone living today in a land a reader might connect with Madyan or the thicket.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, এখানেও কোনো হাদীস আনা হলো না। গরম আর মেঘের ঘটনাটি কাতাদার বর্ণনা, আর সেভাবেই রাখা হয়েছে। এবার সীমাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের এক জাতির কথা বলে, কুরআন তাদের যেভাবে বর্ণনা করেছে সেভাবে, আর আল্লাহ তাদের সঙ্গে যা করেছেন তা জানায়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজ যারা এমন কোনো দেশে থাকে, যাকে কেউ মাদইয়ান বা আইকার সঙ্গে মেলাতে পারে, তাদের বিরুদ্ধেও নয়।"
+          },
+          {
+            "en": "Nor does it make any reader a judge of whose dealings turn them into wrongdoers of this kind. The verse names the companions of the thicket. It does not hand anyone a word to throw at a trader, a neighbour or a rival community. As-Sa'di's reading, that their wrong ran against the Creator and against creation at once, works as a mirror rather than a verdict. What follows turns it on the reader, and it is reflection, not something the commentators themselves said.",
+            "bn": "কার লেনদেন তাকে এ ধরনের যালিম বানিয়ে দেয়, সে বিচারের ভারও এ আয়াত কোনো পাঠককে দেয় না। আয়াতটি নাম নিয়েছে আইকাবাসীর। কোনো ব্যবসায়ী, প্রতিবেশী বা প্রতিপক্ষ সম্প্রদায়ের দিকে ছুড়ে মারার মতো কোনো শব্দ সে কারও হাতে তুলে দেয় না। সা'দীর পাঠ, তাদের যুলম একসঙ্গে স্রষ্টার হকে আর সৃষ্টির হকে, রায় হিসেবে নয়, আয়না হিসেবে কাজ করে। এর পরের কথাগুলো সেই আয়না পাঠকের দিকে ঘুরিয়ে দেয়। এগুলো চিন্তার কথা, তাফসীরকারেরা নিজেরা বলেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Full Measure Where No One Checks",
+          "bn": "কেউ না দেখলেও পুরো মাপ"
+        },
+        "p": [
+          {
+            "en": "Begin with what they were given. As-Sa'di says the thicket is in their name to recall a favour: dense trees, fresh fruit in summer and dried fruit in winter, as Khusayf described it. The verse that names them by their blessing calls them wrongdoers in the same breath. Plenty did not protect them; it was the thing they were asked to be grateful for. A reader can ask what his own grove is, the income, the skill, the household or the health, and whether the way he uses it looks like thanks.",
+            "bn": "শুরু করা যাক তাদের যা দেওয়া হয়েছিল তা দিয়ে। সা'দী বলেন, নিয়ামতের কথা মনে করিয়ে দিতেই আইকা তাদের নামে জুড়ে আছে। ঘন গাছ, গ্রীষ্মে তাজা ফল আর শীতে শুকনো ফল, খুসাইফ যেমন বলেছেন। যে আয়াত নিয়ামতের নামে তাদের ডাকে, সে আয়াতই একই নিঃশ্বাসে তাদের যালিম বলে। প্রাচুর্য তাদের রক্ষা করেনি। প্রাচুর্য ছিল সেই জিনিস, যার জন্য তাদের কাছে শুকরিয়া চাওয়া হয়েছিল। পাঠক নিজেকে জিজ্ঞেস করতে পারেন, আমার আইকা কোনটা? আয়, দক্ষতা, পরিবার, নাকি সুস্থতা? আর যেভাবে তা ব্যবহার করি, তাতে কি শুকরিয়ার ছাপ আছে?"
+          },
+          {
+            "en": "Then the scale. Few readers sell grain by weight, but almost everyone holds a measure that others cannot check. An employee holds the hours he is paid for. A tradesman holds the quality of the part he fits. A writer holds the credit owed to the person whose idea he used. A reviewer holds the honesty of the score. The command in 26:183 is not to deprive people of their things, and none of these is too small to count. The short measure is rarely dramatic. It is a little, kept back, many times.",
+            "bn": "তারপর পাল্লা। খুব কম পাঠকই ওজন করে শস্য বেচেন। কিন্তু প্রায় সবার হাতেই এমন কোনো মাপ আছে, যা অন্যরা যাচাই করতে পারে না। কর্মচারীর হাতে সেই ঘণ্টাগুলো, যার বেতন তিনি পান। মিস্ত্রির হাতে যে যন্ত্রাংশ তিনি লাগান, তার মান। লেখকের হাতে সেই মানুষের কৃতিত্ব, যার ভাবনা তিনি কাজে লাগিয়েছেন। মূল্যায়নকারীর হাতে নম্বরের সততা। ২৬:১৮৩ আয়াতের নির্দেশ, মানুষকে তাদের জিনিসপত্রে কম দিয়ো না। এর কোনোটিই গোনার বাইরে থাকার মতো ছোট নয়। কম মাপ সাধারণত চোখে পড়ার মতো কিছু নয়। অল্প একটু করে রেখে দেওয়া, বারবার।"
+          },
+          {
+            "en": "Last, the two rooms. Ibn Kathir set shirk, banditry and short measure under one word, and as-Sa'di joined the right of the Creator to the right of creation. A believer can keep the first room clean, praying and fasting, while the second goes untended: a debt delayed, a wage shaved, a promise treated as open to bargaining. The verse does not allow that separation. Its five words ask the reader to check his own scale before anyone else's, and to give full measure where no one is watching it.",
+            "bn": "শেষে দুই ঘরের কথা। ইবন কাসীর শিরক, ডাকাতি আর কম মাপকে এক শব্দের নিচে রেখেছেন, আর সা'দী স্রষ্টার হকের সঙ্গে সৃষ্টির হক জুড়ে দিয়েছেন। একজন মুমিন প্রথম ঘরটি পরিষ্কার রাখতে পারেন, নামায পড়েন, রোযা রাখেন। অথচ দ্বিতীয় ঘরে কেউ হাত দেয় না। ঋণ শোধে দেরি, মজুরি থেকে একটু কেটে রাখা, দেওয়া কথাকে দরকষাকষির বিষয় বানানো। আয়াতটি এই ভাগাভাগি মেনে নেয় না। এর পাঁচটি শব্দ পাঠককে বলে, অন্যের আগে নিজের পাল্লা যাচাই করুন। আর যেখানে কেউ পাল্লার দিকে তাকিয়ে নেই, সেখানেও পুরো মাপ দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "15:80": {
     "sections": [
       {

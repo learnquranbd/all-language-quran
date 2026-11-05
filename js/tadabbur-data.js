@@ -22331,6 +22331,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The sea feeds, adorns and carries you by Allah's leave. Eat, wear and trade from it as His bounty, and let each use of it end in thanks to Him.",
     "lessonBn": "সমুদ্র আপনাকে খাবার দেয়, সাজায়, বয়ে নিয়ে যায়, সবই আল্লাহর হুকুমে। তা থেকে খান, পরুন, ব্যবসা করুন তাঁর অনুগ্রহ হিসেবে, আর প্রতিবার ব্যবহারের শেষে তাঁর শোকর আদায় করুন।"
+  },
+  "15:78": {
+    "reflectionEn": "After the ruin of Lut's towns, Surah al-Hijr gives another people five words: the companions of the thicket were wrongdoers. They are named for what they had been given, a land of dense and fruiting trees. Shu'ayb (AS) was sent to them, and elsewhere the Qur'an records what he asked of them: give full measure, weigh with an even balance, and do not deprive people of what is theirs. Their wrong ran two ways, against their Lord and against the people they traded with. A short measure looks small at the counter. The verse counts it with the rest. Where in my own dealings does a little go missing, in the weight, the hours or the credit, and who pays for it?",
+    "reflectionBn": "লূত (আঃ)-এর জনপদ ধ্বংসের কথা শেষ হতেই সূরা হিজর আরেক জাতির কথা বলে মাত্র পাঁচ শব্দে: আয়কাবাসীরাও যালিম ছিল। তাদের নাম এসেছে তাদের পাওয়া নিয়ামত থেকে, ঘন আর ফলভরা গাছের এক দেশ। তাদের কাছে পাঠানো হয়েছিল শুআইব (আঃ)-কে। কুরআনের অন্য জায়গায় আছে তিনি কী চেয়েছিলেন: মাপ পুরো দাও, সঠিক দাঁড়িপাল্লায় ওজন করো, মানুষকে তার প্রাপ্য থেকে কম দিয়ো না। তাদের যুলম ছিল দুই দিকে। রবের হকেও, আবার যাদের সঙ্গে তারা কেনাবেচা করত তাদের হকেও। দোকানের পাল্লায় একটু কম দেওয়া ছোট ব্যাপার মনে হয়। আয়াতটি সেটাকেও বাকিগুলোর সঙ্গেই গোনে। আমার নিজের লেনদেনে কোথায় একটু করে হারিয়ে যায়, ওজনে, সময়ে, নাকি কৃতিত্বে? আর তার দাম দেয় কে?",
+    "pointsEn": [
+      "What have I been given in plenty, and does the way I use it look like thanks?",
+      "Is there a measure in my work, an hour, a count or a report, that I quietly let run short?",
+      "When I deal with someone who cannot check my scale, do I weigh as if they could?",
+      "Do I keep my worship and my dealings in separate rooms, as if a wrong done to people never reached my Lord?",
+      "When I read of a ruined people, do I look for them in the story, or for myself?"
+    ],
+    "pointsBn": [
+      "আমাকে কী কী জিনিস প্রচুর দেওয়া হয়েছে? সেগুলো যেভাবে ব্যবহার করি, তাতে কি শুকরিয়ার ছাপ আছে?",
+      "আমার কাজে কি এমন কোনো মাপ আছে, একটা ঘণ্টা, একটা হিসাব বা একটা রিপোর্ট, যা আমি চুপচাপ কম রেখে দিই?",
+      "যে আমার পাল্লা যাচাই করতে পারে না, তার সঙ্গে লেনদেনেও কি আমি এমনভাবে মাপি যেন সে দেখছে?",
+      "আমি কি ইবাদত আর লেনদেনকে আলাদা দুই ঘরে রেখেছি, যেন মানুষের উপর করা অন্যায় আমার রব পর্যন্ত পৌঁছায় না?",
+      "ধ্বংস হওয়া কোনো জাতির কথা পড়ার সময় আমি কি কাহিনিতে তাদের খুঁজি, নাকি নিজেকে?"
+    ],
+    "lessonEn": "Give people their full due in every measure you hold, for a wrong done to people stands beside a wrong done to your Lord, and plenty is a trust to be thanked for.",
+    "lessonBn": "আপনার হাতে যত রকম মাপ আছে, সবকটিতে মানুষকে তার পুরো প্রাপ্য দিন। মানুষের হক নষ্ট করা রবের হক নষ্ট করার পাশেই দাঁড়ায়, আর প্রাচুর্য এক আমানত, যার শুকরিয়া আদায় করতে হয়।"
   }
 };
 
