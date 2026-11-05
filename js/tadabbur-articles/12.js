@@ -747,6 +747,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:21": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Well to a House",
+          "bn": "কূপ থেকে এক ঘরে"
+        },
+        "p": [
+          {
+            "en": "The verse opens in Egypt. The two before it left Yusuf (AS) drawn up from the well by a travelling company and sold for a few counted dirhams. Ma'arif al-Qur'an notes that the Qur'an skips the whole journey and the sale in Egypt, because those parts can be understood without being told. What it keeps is a sentence spoken in a house: wa-qala alladhi shtarahu min Misra li-mra'atihi, and the one from Egypt who bought him said to his wife.",
+            "bn": "আয়াতটি শুরু হয় মিসরে। আগের দুই আয়াতে আমরা দেখেছি, এক যাত্রীদল ইউসুফ (আঃ)-কে কূপ থেকে তুলে আনে, তারপর গোনা কয়েকটা দিরহামে তাঁকে বিক্রি করে দেওয়া হয়। মাআরিফুল কুরআন লক্ষ করে, মিসর পর্যন্ত পুরো পথ আর সেখানকার বিক্রির ঘটনা কুরআন বাদ দিয়ে গেছে। কারণ ওই অংশগুলো না বললেও বোঝা যায়। কুরআন রেখেছে শুধু এক ঘরের ভেতরে বলা একটি বাক্য: ওয়া কালাল্লাযিশ তারাহু মিম মিসরা লিমরাআতিহি, মিসরের যে লোক তাঁকে কিনেছিল, সে তার স্ত্রীকে বলল।"
+          },
+          {
+            "en": "Then the verse turns from the buyer's words to Allah's: thus We established Yusuf in the land, that We might teach him something of the interpretation of events, and Allah prevails over His affair, but most of the people do not know. The man speaks of what the boy might become for his household. Allah speaks of what He is making of him. The verse lives in the distance between those two sentences: a man making a modest plan, and his Lord using it for a far larger one.",
+            "bn": "এরপর আয়াত ক্রেতার কথা থেকে চলে যায় আল্লাহর কথায়: এভাবেই আমি ইউসুফকে সে দেশে প্রতিষ্ঠিত করলাম, যাতে তাঁকে কথার ব্যাখ্যার কিছু জ্ঞান শেখাই। আল্লাহ তাঁর কাজে জয়ী, কিন্তু বেশিরভাগ মানুষ জানে না। লোকটি ভাবছে, ছেলেটা তার সংসারের জন্য কী হয়ে উঠতে পারে। আল্লাহ বলছেন, তিনি তাঁকে কী বানাচ্ছেন। এ দুই বাক্যের মাঝখানের দূরত্বেই আয়াতের প্রাণ। একজন মানুষ ছোট্ট এক পরিকল্পনা করছে, আর তার রব সেটাকে কাজে লাগাচ্ছেন অনেক বড় এক উদ্দেশ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Buyer the Verse Leaves Unnamed",
+          "bn": "নামহীন এক ক্রেতা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an names the buyer only by his act: he who bought him. The commentators fill in the rest, and they do it as reports. At-Tabari says it is mentioned that his name was Qitfir, with a chain to Ibn 'Abbas. He adds that it is also said his name was Itfir ibn Ruhayb, that he was al-'Aziz and over the treasuries of Egypt, and that the king then was al-Rayyan ibn al-Walid, an Amalekite; this he takes from Ibn Ishaq. Ibn Kathir carries the same two names.",
+            "bn": "কুরআন ক্রেতার পরিচয় দেয় শুধু তার কাজ দিয়ে: যে তাঁকে কিনেছিল। বাকিটা তাফসীরকারেরা পূরণ করেন, আর করেন বর্ণনা হিসেবে। তাবারী বলেন, উল্লেখ আছে যে তার নাম ছিল কিতফীর, আর এর সনদ তিনি ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছান। তিনি আরও আনেন, এ কথাও বলা হয় যে তার নাম ইতফীর ইবন রুহাইব। তিনিই ছিলেন আযীয, মিসরের ধনভাণ্ডারের দায়িত্বে। আর তখনকার রাজা ছিলেন আমালেকা গোত্রের রাইয়ান ইবন ওয়ালীদ। এ বর্ণনা তিনি নেন ইবন ইসহাক থেকে। ইবন কাসীরও এই দুই নামই উল্লেখ করেন।"
+          },
+          {
+            "en": "His wife is named by Ibn Ishaq, in at-Tabari's report, as Ra'il bint Ra'a'il. Ibn Kathir adds that others called her Zulaykha, and al-Baghawi gives Ra'il and then Zulaykha with it is said. Whether the buyer was a minister or the king is not settled either. Ibn Kathir and the Muyassar make him the minister, as does Ibn 'Abbas in al-Qurtubi; at-Tabari carries from as-Suddi al-'Aziz, king of Egypt, and al-Qurtubi gives ad-Dahhak's view that he was its king. None of this is in the verse.",
+            "bn": "তাবারীর বর্ণনায় ইবন ইসহাক তার স্ত্রীর নাম বলেন রাঈল বিনতে রাআঈল। ইবন কাসীর যোগ করেন, অন্যরা তাকে যুলাইখা বলেছেন। বাগাভী আগে রাঈল নামটি দেন, তারপর 'বলা হয়' জুড়ে যুলাইখা। ক্রেতা মন্ত্রী ছিলেন নাকি স্বয়ং রাজা, সেটাও মীমাংসিত নয়। ইবন কাসীর আর মুয়াসসার তাকে মন্ত্রী বলেন, কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ)-ও তা-ই বলেন। অন্যদিকে তাবারী সুদ্দী থেকে আনেন: আযীয, মিসরের রাজা। কুরতুবী দাহহাকের মত দেন যে তিনি ছিলেন মিসরের রাজা। এর কোনোটিই আয়াতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour the Place He Stays",
+          "bn": "ওর থাকার জায়গাটা সম্মানের করো"
+        },
+        "p": [
+          {
+            "en": "Akrimi mathwahu. Mathwa comes from thawa, to stay in a place, and at-Tabari explains the command as: honour the place of his residence, where he stays and lives. Qatada and Ibn Jurayj, in his chains, gloss it as his standing. Al-Baghawi gives his dwelling and his place of residence, and, as another view, honour him in food, clothing and lodging. Al-Qurtubi's gloss runs close to that: his dwelling and his stay, with good food and fine clothing.",
+            "bn": "আকরিমী মাসওয়াহু। মাসওয়া এসেছে সাওয়া থেকে, যার অর্থ কোনো জায়গায় থাকা। তাবারী আদেশটির ব্যাখ্যা দেন এভাবে: সে যেখানে থাকে, যেখানে বাস করে, সেই জায়গাটাকে সম্মানিত করো। তাঁর সনদে কাতাদা আর ইবন জুরাইজ এর অর্থ বলেন: তার মর্যাদা। বাগাভী বলেন তার বাসস্থান ও অবস্থানের জায়গা। আরেকটি মত হিসেবে আনেন: খাবার, পোশাক আর থাকার ব্যবস্থায় তাকে সম্মান দাও। কুরতুবীর ব্যাখ্যাও কাছাকাছি: তার বাসস্থান ও অবস্থান, ভালো খাবার আর সুন্দর পোশাক দিয়ে।"
+          },
+          {
+            "en": "The Muyassar says: treat him well and make his place among us an honourable one. Ma'arif al-Qur'an reads it as an order not to treat him like common slaves. Al-Qurtubi raises a quieter point about the verb itself. Some say ishtara here means taking one thing in exchange for another, since it was no real contract, as in those who bought error for guidance; others say the people took it outwardly for a purchase, and the word follows what they supposed. On the first view, the word names an exchange that took place, not a sale that held.",
+            "bn": "মুয়াসসার বলে: তার সঙ্গে ভালো ব্যবহার করো, আমাদের কাছে তার থাকাটা সম্মানের করো। মাআরিফুল কুরআনের পাঠে এ হলো সাধারণ দাসের মতো আচরণ না করার নির্দেশ। কুরতুবী ক্রিয়াটি নিয়ে আরেকটি সূক্ষ্ম কথা তোলেন। কেউ বলেন, এখানে ইশতারা মানে এক জিনিসের বদলে আরেক জিনিস নেওয়া, কারণ এটা আসলে কোনো বৈধ চুক্তি ছিল না। যেমন বলা হয়েছে, তারা হিদায়াতের বদলে গোমরাহি কিনে নিয়েছে। আবার কেউ বলেন, বাইরে থেকে লোকেরা একে কেনা-বেচাই ভেবেছিল, শব্দটা তাদের সেই ধারণা অনুযায়ী এসেছে। প্রথম মত অনুযায়ী শব্দটা বোঝায় একটা বদলাবদলি ঘটেছিল, এমন কোনো বিক্রি নয় যা টিকে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of Use, or a Son",
+          "bn": "কাজের লোক, নাকি ছেলে"
+        },
+        "p": [
+          {
+            "en": "'Asa an yanfa'ana aw nattakhidhahu waladan: perhaps he will benefit us, or we will take him as a son. At-Tabari reads the benefit as the boy in time sparing them some of the affairs they carry, once he understands the tasks he is given. Al-Baghawi offers two: that they could sell him at a profit if they chose to, or that when grown he could take some of their affairs off their hands. As-Sa'di sets the pair side by side: the benefit servants give through every kind of service, or the joy people take in their own children.",
+            "bn": "আসা আঁই ইয়ানফাআনা আও নাত্তাখিযাহু ওয়ালাদা: হয়তো সে আমাদের উপকারে আসবে, কিংবা আমরা তাকে ছেলে করে নেব। তাবারীর পাঠে উপকার মানে, যে কাজ তাকে দেওয়া হবে তা বুঝে নেওয়ার পর একদিন সে তাদের কিছু দায়িত্ব নিজের কাঁধে নেবে। বাগাভী দুটি অর্থ দেন। চাইলে তাকে লাভে বিক্রি করা যাবে, অথবা বড় হলে সে তাদের কিছু কাজ সামলে দেবে। সা'দী জোড়াটাকে পাশাপাশি রাখেন: হয় খাদেমরা নানা রকম সেবা দিয়ে যে উপকার করে সেই উপকার, নয়তো নিজের সন্তানকে নিয়ে মানুষ যে আনন্দ পায় সেই আনন্দ।"
+          },
+          {
+            "en": "Why speak of a son at all? At-Tabari says it is mentioned that the man said this because he had no child, and brings Ibn Ishaq's report that Itfir did not approach women. Al-Qurtubi gives Ibn 'Abbas's view that he could not have children, and Ibn Ishaq's to the same effect. As-Sa'di is more careful still: perhaps, he says, the two of them had no child. These are reports about the household; the verse itself says only that a son was hoped for.",
+            "bn": "ছেলের কথা উঠল কেন? তাবারী বলেন, উল্লেখ আছে যে লোকটির কোনো সন্তান ছিল না, তাই সে এ কথা বলেছিল। সঙ্গে আনেন ইবন ইসহাকের বর্ণনা যে ইতফীর স্ত্রীসঙ্গ করতেন না। কুরতুবী ইবন আব্বাস (রাঃ)-এর মত দেন যে তার সন্তান হওয়ার সামর্থ্য ছিল না, ইবন ইসহাকও একই কথা বলেন। সা'দী আরও সাবধানী। তিনি বলেন, সম্ভবত তাদের দুজনের কোনো সন্তান ছিল না। এগুলো ঘরটির ব্যাপারে বর্ণনামাত্র। আয়াত নিজে শুধু এটুকু বলে যে একটি ছেলের আশা করা হয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi answers an objection: how could a man speak of taking as a son someone he owns, when sonship and servitude contradict each other? He would free him first and then adopt him, al-Qurtubi replies, since adoption was known among the nations and in early Islam, and he leaves its ruling to his commentary on al-Ahzab. The buyer's hope, then, was not a small one. Out of what had looked like a cheap purchase he pictured an heir.",
+            "bn": "কুরতুবী একটি আপত্তির জবাব দেন। যাকে মানুষ মালিক হিসেবে অধিকারে রেখেছে, তাকে সে ছেলে বানানোর কথা বলে কী করে? ছেলে হওয়া আর দাস হওয়া তো পরস্পরবিরোধী। কুরতুবীর জবাব: আগে তাকে মুক্ত করবে, তারপর পালক ছেলে হিসেবে নেবে। পালক নেওয়ার প্রথা জাতিগুলোর মধ্যে পরিচিত ছিল, ইসলামের শুরুতেও ছিল। এর বিধানের আলোচনা তিনি রেখে দেন সূরা আহযাবের তাফসীরের জন্য। তাহলে ক্রেতার আশাটা ছোট ছিল না। যে কেনাকে সস্তা সওদা মনে হয়েছিল, তার ভেতরেই সে একজন উত্তরাধিকারীর ছবি দেখছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Who Read People Rightly",
+          "bn": "মানুষ চেনায় তিন পারদর্শী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi all carry a saying of 'Abdullah ibn Mas'ud (RA): the most discerning of people were three. The 'Aziz, when he read Yusuf rightly and said to his wife, honour his lodging. The woman who said to her father about Musa (AS), O my father, hire him, the best you can hire is the strong and trustworthy (28:26); al-Baghawi and al-Qurtubi call her the daughter of Shu'ayb. And Abu Bakr (RA), when he read 'Umar (RA) rightly and appointed him his successor.",
+            "bn": "তাবারী, ইবন কাসীর, বাগাভী আর কুরতুবী সবাই আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর একটি উক্তি আনেন: মানুষের মধ্যে সবচেয়ে বিচক্ষণ ছিলেন তিনজন। একজন আযীয, যিনি ইউসুফকে ঠিকঠাক চিনে স্ত্রীকে বলেছিলেন, ওর থাকার জায়গাটা সম্মানের করো। আরেকজন সেই নারী, যিনি মূসা (আঃ)-এর ব্যাপারে বাবাকে বলেছিলেন, আব্বা, তাঁকে কাজে রাখুন, আপনি যাকে কাজে রাখবেন তার মধ্যে সেরা সে-ই যে শক্তিশালী ও বিশ্বস্ত (২৮:২৬)। বাগাভী ও কুরতুবী তাঁকে শুআইব (আঃ)-এর কন্যা বলেন। তৃতীয়জন আবু বকর (রাঃ), যিনি উমর (রাঃ)-কে চিনে নিজের পরে খলীফা মনোনীত করেছিলেন।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith of the Prophet ﷺ to it. The Ibn Mas'ud report is a Companion's saying, carried with chains in at-Tabari, and none of these commentators grades it. Al-Qurtubi also brings Ibn al-'Arabi's reservation. He wondered that the commentators agreed on citing it, since discernment, firasa, is a rare kind of knowledge, and Abu Bakr chose 'Umar from long experience of his work and company, while the daughter had a clear sign before her. Only the 'Aziz's case, he allows, can count as discernment, since he had no visible sign.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই নবী ﷺ-এর কোনো সহীহ হাদীস এর সঙ্গে যুক্ত করেনি। ইবন মাসউদ (রাঃ)-এর বর্ণনাটি একজন সাহাবীর উক্তি। তাবারী সনদসহ এটি আনেন, তবে এই তাফসীরকারদের কেউ এর মান নির্ণয় করেননি। কুরতুবী ইবনুল আরাবীর একটি আপত্তিও আনেন। তাফসীরকারেরা সবাই এ বর্ণনা টেনে আনায় তিনি বিস্মিত হন, কারণ ফিরাসা বা অন্তর্দৃষ্টি এক বিরল ধরনের জ্ঞান। আবু বকর (রাঃ) উমর (রাঃ)-কে বেছেছিলেন তাঁর কাজ আর দীর্ঘ সাহচর্যের অভিজ্ঞতা থেকে। আর কন্যাটির সামনে ছিল স্পষ্ট আলামত। তাঁর মতে শুধু আযীযের ঘটনাকেই ফিরাসা বলা যায়, কারণ তার সামনে কোনো দৃশ্যমান আলামত ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Settled Through a Stranger's Purchase",
+          "bn": "অচেনা লোকের কেনায় প্রতিষ্ঠা"
+        },
+        "p": [
+          {
+            "en": "Wa-kadhalika makkanna li-Yusufa fi l-ard: and thus We established Yusuf in the land. At-Tabari unpacks the thus: just as We rescued Yusuf from brothers who had meant to kill him, brought him out of the well after he was thrown in, and carried him to honour and high standing with the 'Aziz, so We established him in the land and placed him over its treasuries. Al-Qurtubi says Allah turned the heart of the king who bought him towards him, until he could command and forbid in that land.",
+            "bn": "ওয়া কাযালিকা মাক্কান্না লি-ইউসুফা ফিল আরদ: আর এভাবেই আমি ইউসুফকে সে দেশে প্রতিষ্ঠিত করলাম। 'এভাবেই' কথাটি তাবারী খুলে বলেন। ভাইয়েরা তাঁকে মেরে ফেলতে চেয়েছিল, আমি তাঁকে তাদের হাত থেকে বাঁচালাম। কূপে ফেলে দেওয়ার পর সেখান থেকে বের করে আনলাম। আযীযের কাছে তাঁকে সম্মান আর উঁচু মর্যাদায় পৌঁছে দিলাম। ঠিক তেমনি দেশে তাঁকে প্রতিষ্ঠা দিলাম, তার ধনভাণ্ডারের দায়িত্ব তাঁর হাতে দিলাম। কুরতুবী বলেন, যে রাজা তাঁকে কিনেছিল, আল্লাহ তার মন তাঁর দিকে ফিরিয়ে দিলেন। শেষে সে দেশে আদেশ-নিষেধের ক্ষমতা তাঁর হাতে এল।"
+          },
+          {
+            "en": "As-Sa'di sees the house as the first step: just as We made it easy for the 'Aziz to buy him and honour him like this, We made it a prelude to establishing him in the land by this road. Ma'arif al-Qur'an calls the sentence good news of what was coming, since the boy who entered as a slave would in time hold the highest rank in the country. The verse already calls it establishment while he is still a servant in someone else's house.",
+            "bn": "সা'দী ঘরটাকে দেখেন প্রথম ধাপ হিসেবে। আযীযের জন্য তাঁকে কেনা আর এভাবে সম্মান করা আমি সহজ করে দিলাম, আর এটাকেই এই পথ ধরে দেশে তাঁর প্রতিষ্ঠার সূচনা বানালাম। মাআরিফুল কুরআন বাক্যটিকে বলে সামনে যা ঘটবে তার সুসংবাদ। যে বালক এ ঘরে ঢুকেছে দাস হয়ে, একদিন সে-ই হবে দেশের সবচেয়ে উঁচু পদের মানুষ। অথচ তিনি যখন অন্যের ঘরে এক খাদেম মাত্র, তখনই আয়াত একে প্রতিষ্ঠা বলে ফেলেছে।"
+          },
+          {
+            "en": "Wa-li-nu'allimahu min ta'wili l-ahadith. Mujahid and as-Suddi, in at-Tabari and Ibn Kathir, take it as interpreting dreams, and the Muyassar adds that through it he would know what was to happen. Others widen it. Al-Qurtubi links the clause to Ya'qub's words in 12:6 and gives as one view that Allah would reveal speech to him and teach him its meaning, along with dreams. As-Sa'di says a life free of other cares let him learn much: rulings, the reading of dreams and more. Ma'arif al-Qur'an includes understanding revelation and acting on it.",
+            "bn": "ওয়া লিনুআল্লিমাহু মিন তা'বীলিল আহাদীস। তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ আর সুদ্দী এর অর্থ বলেন স্বপ্নের ব্যাখ্যা। মুয়াসসার যোগ করে, এর মাধ্যমে তিনি জানতে পারবেন সামনে কী ঘটবে। অন্যরা অর্থটা আরও প্রশস্ত করেন। কুরতুবী বাক্যটিকে জুড়ে দেন ১২:৬ আয়াতে ইয়াকূব (আঃ)-এর কথার সঙ্গে। একটি মত হিসেবে তিনি আনেন, আল্লাহ তাঁর কাছে নিজের বাণী পাঠাবেন আর তার অর্থ শেখাবেন, সঙ্গে স্বপ্নের ব্যাখ্যাও। সা'দী বলেন, অন্য কোনো ব্যস্ততা আর দুশ্চিন্তা না থাকায় তিনি অনেক জ্ঞান অর্জন করেন: বিধিবিধান, স্বপ্নের ব্যাখ্যা, আরও অনেক কিছু। মাআরিফুল কুরআন এর মধ্যে ধরে ওহী বোঝা আর সে অনুযায়ী আমল করাকেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Affair Prevails?",
+          "bn": "কার কাজের উপর জয়ী?"
+        },
+        "p": [
+          {
+            "en": "Wa-llahu ghalibun 'ala amrihi. The final pronoun, his, can point two ways, and the commentators divide. At-Tabari takes it firmly as Yusuf: Allah has charge of Yusuf's affair, governing it, directing it and guarding it, and he states that the ha' returns to Yusuf. Ibn Kathir, as-Sa'di and the Muyassar read it as Allah's own affair: when He wills a thing it is not turned back, His command goes through and no one undoes it. Ibn Kathir adds Sa'id ibn Jubayr: He does whatever He wills.",
+            "bn": "ওয়াল্লাহু গালিবুন আলা আমরিহি। শেষের সর্বনাম 'তার' দুই দিকে ইঙ্গিত করতে পারে, আর তাফসীরকারেরা এখানে দুই ভাগ। তাবারী দৃঢ়ভাবে একে ইউসুফের দিকে ফেরান: আল্লাহ ইউসুফের ব্যাপারের কর্তৃত্ব নিজের হাতে রেখেছেন, তা পরিচালনা করেন, গুছিয়ে দেন, আগলে রাখেন। তিনি স্পষ্ট বলেন, সর্বনামটি ফিরেছে ইউসুফের দিকে। ইবন কাসীর, সা'দী আর মুয়াসসারের পাঠে এটা আল্লাহর নিজের কাজ। তিনি কিছু চাইলে তা ফেরানো যায় না, তাঁর আদেশ কার্যকর হয়, কেউ তা বাতিল করতে পারে না। ইবন কাসীর সাঈদ ইবন জুবাইরের কথা যোগ করেন: তিনি যা চান তা-ই করেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi keep both readings. Al-Qurtubi gives Allah first: nothing overcomes Him, and He prevails over His own affair in whatever He wills, saying to it be, and it is. Then, it is said, the pronoun is Yusuf's: Allah prevails over Yusuf's affair, directing and guarding it and leaving it to no one else, so that no schemer's plot reaches him. Al-Baghawi gives the same two in the same order. Both readings stand in the sources, and neither is set aside here.",
+            "bn": "কুরতুবী আর বাগাভী দুটি পাঠই রাখেন। কুরতুবী আগে আনেন আল্লাহর দিকটি: কোনো কিছু আল্লাহকে পরাজিত করতে পারে না, তিনি যা চান সে ব্যাপারে নিজের কাজে তিনিই জয়ী, বলেন 'হও', আর তা হয়ে যায়। তারপর 'বলা হয়' জুড়ে আনেন ইউসুফের দিকটি। আল্লাহ ইউসুফের ব্যাপারে জয়ী, তা পরিচালনা করেন, আগলে রাখেন, অন্য কারও হাতে ছেড়ে দেন না, যাতে কোনো চক্রান্তকারীর চক্রান্ত তাঁর কাছে না পৌঁছায়। বাগাভীও একই ক্রমে এই দুই মত দেন। উৎসগুলোতে দুটি পাঠই আছে, এখানে কোনোটিকেই বাদ দেওয়া হচ্ছে না।"
+          },
+          {
+            "en": "Either way, the lesson rests on one fact: Allah's purpose works through other people's plans. Al-Qurtubi records the sages tracing it through the surah. The brothers wanted him dead, and he became a ruler before whom they bowed. They wanted their father's face to themselves, and his love and longing for Yusuf only grew. They tried to deceive him with tears and a shirt, and he was not deceived, saying your souls have enticed you to something. Each time the plan was theirs, and the outcome was His.",
+            "bn": "যে পাঠই ধরা হোক, শিক্ষাটা একই সত্যের উপর দাঁড়িয়ে: আল্লাহর উদ্দেশ্য অন্যদের পরিকল্পনার ভেতর দিয়েই এগোয়। কুরতুবী জ্ঞানীদের কথা আনেন, যারা গোটা সূরা জুড়ে এর ছাপ দেখিয়েছেন। ভাইয়েরা তাঁর মৃত্যু চেয়েছিল, অথচ তিনি হলেন শাসক, আর তারা তাঁর সামনে সিজদায় লুটাল। তারা বাবার মনোযোগ নিজেদের জন্য চেয়েছিল, অথচ ইউসুফের প্রতি বাবার ভালোবাসা আর ব্যাকুলতা কেবল বাড়লই। কান্না আর জামা দিয়ে বাবাকে ধোঁকা দিতে চেয়েছিল, কিন্তু তিনি ধোঁকা খাননি। বললেন, বরং তোমাদের মন তোমাদের জন্য একটা কাহিনি সাজিয়ে দিয়েছে। প্রতিবার পরিকল্পনা ছিল তাদের, পরিণতি ছিল আল্লাহর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing Past the Hands",
+          "bn": "হাতের পেছনের হাত"
+        },
+        "p": [
+          {
+            "en": "Wa-lakinna akthara n-nasi la ya'lamun: but most of the people do not know. At-Tabari names them. Those who thought little of Yusuf and sold him at a mean price, and the people of Egypt among whom he was sold, did not know what Allah would do with him or where his affair would end. Ibn Kathir says they do not know His wisdom in His creation and His gentleness in bringing about what He wills; the Muyassar, that they do not know the whole affair is in Allah's hand.",
+            "bn": "ওয়া লাকিন্না আকসারান নাসি লা ইয়া'লামূন: কিন্তু বেশিরভাগ মানুষ জানে না। তাবারী তাদের চিনিয়ে দেন। যারা ইউসুফকে তুচ্ছ ভেবে খুব কম দামে বেচে দিয়েছিল, আর মিসরের যে লোকদের মাঝে তিনি বিক্রি হলেন, তারা জানত না আল্লাহ তাঁকে নিয়ে কী করবেন, তাঁর ব্যাপারটা কোথায় গিয়ে থামবে। ইবন কাসীর বলেন, তারা সৃষ্টির মধ্যে আল্লাহর হিকমত জানে না, জানে না তিনি যা চান তা কত সূক্ষ্মভাবে ঘটিয়ে দেন। মুয়াসসার বলে, তারা জানে না যে সব কিছু আল্লাহরই হাতে।"
+          },
+          {
+            "en": "As-Sa'di draws the consequence: because they do not know, they act as if they could contest what Allah has decreed, though they are far too weak for it. Ma'arif al-Qur'an says most people keep their eyes on the visible causes, take them to be everything, and rarely think of Him who causes the causes. In the story, the brothers, the travellers and the buyer each saw only the next step in front of them. None of them saw the road.",
+            "bn": "সা'দী এর পরিণামটা দেখান। তারা জানে না বলেই এমনভাবে চলে, যেন আল্লাহর নির্ধারিত ফয়সালার সঙ্গে পাল্লা দিতে পারবে, অথচ তারা এর জন্য একেবারেই দুর্বল। মাআরিফুল কুরআন বলে, বেশিরভাগ মানুষ চোখের সামনের উপায়-উপকরণের দিকেই তাকিয়ে থাকে, ওগুলোকেই সব মনে করে। যিনি সব উপকরণের স্রষ্টা, তাঁর কথা কদাচিৎ ভাবে। এ কাহিনিতে ভাইয়েরা, যাত্রীদল আর ক্রেতা, প্রত্যেকে দেখেছিল শুধু সামনের এক ধাপ। পুরো পথটা কেউ দেখেনি।"
+          },
+          {
+            "en": "The verse describes what these particular people did and knew, the brothers who sold a brother and the strangers who bought him, and it licenses nothing against any living person or community. Its demand falls on the reader. When we are moved by choices we did not make, it asks us to honour whoever is placed in our care, as this man honoured a boy he had bought, to learn wherever we are set down, and to remember that the plans around us are never the last word.",
+            "bn": "আয়াতটি বর্ণনা করে নির্দিষ্ট কিছু মানুষ কী করেছিল আর কী জানত: যে ভাইয়েরা নিজেদের ভাইকে বেচে দিল, আর যে অচেনা লোকেরা তাঁকে কিনল। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। এর দাবি পাঠকের কাছে। নিজের বাছাই করা নয় এমন সিদ্ধান্ত যখন আমাদের জীবনকে সরিয়ে নেয়, আয়াত আমাদের বলে: যাকে আমাদের দায়িত্বে দেওয়া হয় তাকে সম্মান করুন, যেমন এই লোকটি কেনা এক বালককে সম্মান দিয়েছিল। যেখানে রাখা হয় সেখানেই শিখুন। আর মনে রাখুন, চারপাশের পরিকল্পনাগুলো কখনোই শেষ কথা নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "12:25": {
     "sections": [
       {

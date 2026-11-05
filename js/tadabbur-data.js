@@ -21791,6 +21791,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When others agree on harm, be the voice that slows it, and never mistake a lesser wrong for a right one.",
     "lessonBn": "অন্যরা যখন কারও ক্ষতি করতে একমত হয়, আপনি সেই কণ্ঠ হোন যা তা ধীর করে দেয়, আর ছোট অন্যায়কে কখনো ন্যায় ভেবে ভুল করবেন না।"
+  },
+  "12:21": {
+    "reflectionEn": "A boy pulled from a well and sold for a few coins is led into a house in Egypt. The man who bought him turns to his wife: give him an honourable place to stay; perhaps he will be useful to us, or we may take him as a son. He sees a servant, and perhaps an heir. Then Allah says what He sees: this is how He settled Yusuf in the land and began to teach him. Every hand in the story follows its own plan, the brothers, the travellers, the buyer, and Allah's affair prevails over all of them. Most people never notice. When my life is moved by other people's choices, do I see only their hands, or the One above them?",
+    "reflectionBn": "কূপ থেকে তোলা এক বালক, বিক্রি হয়েছে কয়েকটা মুদ্রায়। এখন তাকে নিয়ে যাওয়া হচ্ছে মিসরের এক ঘরে। যে লোক তাকে কিনেছে, সে স্ত্রীকে বলে: ওর থাকার জায়গাটা সম্মানের করো, হয়তো ও আমাদের কাজে আসবে, কিংবা আমরা ওকে ছেলে করে নেব। লোকটি দেখছে একজন খাদেম, হয়তো একজন উত্তরাধিকারী। তারপর আল্লাহ বলেন তিনি কী দেখছেন: এভাবেই তিনি ইউসুফকে সে দেশে প্রতিষ্ঠিত করলেন, আর তাঁকে শেখাতে শুরু করলেন। কাহিনির প্রতিটি হাত চলছে নিজের পরিকল্পনায়: ভাইয়েরা, যাত্রীদল, ক্রেতা। আর আল্লাহর ফয়সালা সবার উপর জয়ী। বেশিরভাগ মানুষ তা খেয়ালই করে না। অন্যদের সিদ্ধান্ত যখন আমার জীবনকে এদিক-ওদিক সরায়, আমি কি শুধু তাদের হাতই দেখি, নাকি তাদের উপরে যিনি আছেন তাঁকেও?",
+    "pointsEn": [
+      "Where in my life has a door I never chose turned out to be the place Allah was preparing me in?",
+      "When someone comes under my care with nothing to offer, do I honour them, or first measure what they can do for me?",
+      "Whose plans am I resenting right now, and can I trust that Allah's affair prevails over theirs?",
+      "What could I be learning in the place I am now, instead of waiting to be somewhere else?",
+      "Do I look only at the causes in front of me, or do I remember the One who arranges them?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে কোন দরজাটা আমি নিজে বেছে নিইনি, অথচ পরে দেখা গেল আল্লাহ সেখানেই আমাকে তৈরি করছিলেন?",
+      "কেউ যখন কিছু দেওয়ার সামর্থ্য ছাড়াই আমার দায়িত্বে আসে, আমি কি তাকে সম্মান দিই, নাকি আগে মেপে দেখি সে আমার কী কাজে লাগবে?",
+      "এখন কার পরিকল্পনা নিয়ে আমার মনে ক্ষোভ জমে আছে? আমি কি ভরসা রাখতে পারি যে আল্লাহর ফয়সালা তাদের পরিকল্পনার উপর জয়ী?",
+      "অন্য কোথাও পৌঁছানোর অপেক্ষায় না থেকে, আমি এখন যেখানে আছি সেখানে কী শিখতে পারি?",
+      "আমি কি শুধু চোখের সামনের উপায়-উপকরণই দেখি, নাকি যিনি এগুলো সাজিয়ে দেন তাঁকেও মনে রাখি?"
+    ],
+    "lessonEn": "Other people's plans may move you, but Allah's affair prevails over them all. Honour those placed in your care, and learn wherever you are set down.",
+    "lessonBn": "অন্যদের পরিকল্পনা আপনাকে এদিক-ওদিক নিতে পারে, কিন্তু আল্লাহর ফয়সালা সবার উপর জয়ী। যাকে আপনার দায়িত্বে দেওয়া হয় তাকে সম্মান করুন, আর যেখানে রাখা হয় সেখানেই শিখুন।"
   }
 };
 
