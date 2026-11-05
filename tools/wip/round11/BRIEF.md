@@ -45,6 +45,9 @@ sunnah.com returns 403, so don't try it.
 - One collection's wording, quoted whole. Report the collector's grading and never
   upgrade it. If no tafsir attaches a sound hadith, say so in one sentence. A general
   narration must be marked as not attached to the verse.
+- Never report a grading or a narrator judgement that comes only from a printed
+  edition's editor or footnote (e.g. at-Tabari's editor), or one a tafsir relays for
+  another collector (al-Hakim via a footnote). Keep it in the LEDGER, not the article.
 - Never say in the article's own voice that a prophet erred.
 - Never name a theological school or sect (Mu'tazila, Qadariyya, Jahmiyya, Ash'ari,
   Shi'a, etc.), even when a mufassir does: write "some theologians" / "a group".
