@@ -3979,6 +3979,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:110": {
+    "sections": [
+      {
+        "h": {
+          "en": "Thumma Opens Another Door",
+          "bn": "'সুম্মা' দিয়ে খোলা নতুন দরজা"
+        },
+        "p": [
+          {
+            "en": "The verses just before it end on the passage's hardest note. Whoever willingly opens his breast to disbelief has wrath from Allah upon him (16:106); such people preferred this world to the Hereafter (16:107), their hearts, hearing and sight are sealed (16:108), and in the Hereafter they are the losers (16:109). Then this verse begins with thumma, 'then', and turns to someone else. Ibn Kathir names the turn plainly: these are another category, the weak of Makka, held in contempt among their own people.",
+            "bn": "এর আগের আয়াতগুলো পুরো অংশের সবচেয়ে কঠিন কথায় এসে থামে। যে স্বেচ্ছায় কুফরীর জন্য বুক খুলে দেয়, তার উপর আল্লাহর গযব (১৬:১০৬)। এরা আখিরাতের চেয়ে দুনিয়াকে বেশি ভালোবেসেছে (১৬:১০৭), তাদের অন্তর, কান আর চোখে মোহর মারা (১৬:১০৮), আর আখিরাতে এরাই ক্ষতিগ্রস্ত (১৬:১০৯)। তারপর এ আয়াত শুরু হয় 'সুম্মা' দিয়ে, অর্থাৎ 'তারপর', আর কথা ঘুরে যায় অন্য মানুষের দিকে। ইবন কাসীর মোড়টা সোজাসুজি ধরিয়ে দেন: এরা আরেক দল, মক্কার দুর্বল মানুষ, নিজেদের লোকদের কাছেই যারা ছিল অবহেলিত।"
+          },
+          {
+            "en": "16:106 has already given its excuse to whoever is compelled while his heart stays at rest with faith, and the account of 'Ammar ibn Yasir that the commentators attach to it belongs there; it is not retold here. This verse looks further down the road. It names three things these people did after their trial: they emigrated, they strove, and they were patient. And it says inna rabbaka, 'indeed your Lord', twice, once before that list and once after it, so that what they did is held between two mentions of their Lord.",
+            "bn": "যাকে বাধ্য করা হয় অথচ তার অন্তর ঈমানে স্থির থাকে, তার ওজর ১৬:১০৬ আয়াত আগেই দিয়ে দিয়েছে। আম্মার ইবন ইয়াসির (রাঃ)-এর যে ঘটনা তাফসীরকারেরা সেখানে জুড়ে দেন, তার জায়গাও সেটাই, এখানে আবার বলা হচ্ছে না। এ আয়াত তাকায় পথের আরও সামনে। পরীক্ষার পর এই মানুষেরা তিনটি কাজ করেছিল: হিজরত করেছে, জিহাদ করেছে, ধৈর্য ধরেছে। আর আয়াতে 'ইন্না রাব্বাকা', অর্থাৎ 'নিশ্চয় তোমার রব', এসেছে দুবার। একবার এই তালিকার আগে, একবার পরে। ফলে তাদের সব কাজ রবের দুই উল্লেখের মাঝখানে ধরা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Futinu: Pressed Until They Gave",
+          "bn": "ফুতিনূ: চাপে পড়ে মুখে মেনে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Min ba'di ma futinu: after they had been put to trial. Al-Baghawi glosses the word in a phrase: they were tortured and prevented from Islam; the polytheists put them to trial. Al-Muyassar spells out what that trial produced. These were the weak in Makka whom the polytheists tormented until they went along with them outwardly. They were made to say words that pleased their tormentors while their hearts were at rest with faith, and when a way out became possible, they emigrated to Madina.",
+            "bn": "মিন বা'দি মা ফুতিনূ: তাদের পরীক্ষায় ফেলার পর। বাগাভী শব্দটার ব্যাখ্যা দেন এক কথায়: তাদের নির্যাতন করা হয়েছিল, ইসলাম থেকে আটকে রাখা হয়েছিল, মুশরিকরা তাদের ফিতনায় ফেলেছিল। সেই ফিতনা থেকে কী দাঁড়িয়েছিল, মুয়াসসার তা খুলে বলে। এরা মক্কার দুর্বল মানুষ। মুশরিকরা তাদের এমন কষ্ট দিয়েছিল যে বাইরে বাইরে তারা ওদের কথায় সায় দিয়েছিল। নির্যাতনকারীদের খুশি করার মতো কথা তাদের মুখে উচ্চারণ করানো হয়েছিল, অথচ অন্তর ছিল ঈমানে স্থির। আর বেরোনোর পথ যখন খুলল, তারা মদীনায় হিজরত করল।"
+          },
+          {
+            "en": "Ibn Kathir reads it the same way. They went along with their people in the trial; then escape by emigration became possible, so they left their land, their families and their wealth, seeking the pleasure and forgiveness of Allah, and took their place in the ranks of the believers. At-Tabari, explaining why their Lord is called Forgiving here, names exactly what was forgiven: the word of disbelief they gave the polytheists on their tongues, while inwardly they held to something else and believed.",
+            "bn": "ইবন কাসীরও একইভাবে পড়েন। ফিতনার সময় তারা নিজেদের লোকদের কথায় সায় দিয়েছিল। তারপর হিজরত করে বাঁচার সুযোগ এলে আল্লাহর সন্তুষ্টি আর মাগফিরাতের আশায় দেশ, পরিবার, সম্পদ সব ছেড়ে তারা মুমিনদের কাতারে এসে দাঁড়াল। এখানে রবকে কেন 'ক্ষমাশীল' বলা হলো, তাবারী তা বোঝাতে গিয়ে ঠিক কী ক্ষমা করা হয়েছে তার নাম নেন: মুশরিকদের সামনে মুখে তারা কুফরীর যে কথা বলে ফেলেছিল, তা। অথচ ভেতরে তারা অন্য কিছু লুকিয়ে রেখেছিল, ঈমানই ছিল তাদের বিশ্বাস।"
+          },
+          {
+            "en": "On this reading the verse speaks to a real lapse. The word was spoken, and it is not hidden. Yet it is not the willingly opened breast of 16:106 either, for at-Tabari is careful to say their hearts held to faith. The mercy here meets people who carried a wound out of Makka with them and did not let it decide where they would go next.",
+            "bn": "এই পাঠ অনুযায়ী আয়াতটি সত্যিকারের এক পদস্খলনের কথা বলছে। কথাটা মুখ থেকে বেরিয়েছিল, আর তা লুকানো হয়নি। আবার তা ১৬:১০৬ আয়াতের সেই স্বেচ্ছায় খুলে দেওয়া বুকও নয়, কারণ তাবারী সাবধানে বলে দেন, তাদের অন্তর ঈমান আঁকড়ে ছিল। এখানে রহমত এসে দাঁড়ায় এমন মানুষদের সামনে, যারা মক্কা থেকে একটা ক্ষত বয়ে নিয়ে বেরিয়েছিল, কিন্তু পরের পথ কোন দিকে যাবে, সে সিদ্ধান্ত সেই ক্ষতকে নিতে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or Tried and Unbroken",
+          "bn": "নাকি পরীক্ষায়ও অটুট"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the same words another way. For him the person in this verse emigrated in Allah's path, leaving home and wealth for His pleasure, and was tried in his religion so that he would go back to disbelief, and he stood firm on faith (fa-thabata 'ala al-iman), keeping his certainty pure. He then strove against Allah's enemies with tongue and hand, to bring them into Allah's religion, and bore with patience acts of worship that weigh heavily on most people. His gloss never says they gave way.",
+            "bn": "সা'দী একই শব্দ পড়েন অন্যভাবে। তাঁর ব্যাখ্যায় এ আয়াতের মানুষটি আল্লাহর পথে হিজরত করেছে, তাঁর সন্তুষ্টির জন্য ঘরবাড়ি আর সম্পদ ছেড়ে এসেছে। তাকে দ্বীনের ব্যাপারে পরীক্ষায় ফেলা হয়েছিল, যাতে সে কুফরীতে ফিরে যায়, কিন্তু সে ঈমানের উপর অটল থেকেছে, নিজের ইয়াকীনকে খাঁটি রেখেছে। তারপর জবান আর হাত দিয়ে আল্লাহর দুশমনদের বিরুদ্ধে জিহাদ করেছে, তাদের আল্লাহর দ্বীনে আনার জন্য। আর অধিকাংশ মানুষের কাছে যে ইবাদত ভারী লাগে, ধৈর্য ধরে তা পালন করেছে। তারা নুয়ে পড়েছিল, এমন কোনো কথা তাঁর ব্যাখ্যায় নেই।"
+          },
+          {
+            "en": "So the commentators differ over what the trial left behind. For Ibn Kathir, at-Tabari and al-Muyassar, it left a mark: words were given, and the closing forgiveness covers them. For as-Sa'di, the trial was a test they passed, and the forgiveness and mercy at the end are a reward. He calls emigration, striving and patience the greatest means by which the greatest gifts are won: forgiveness of sins small and large, and a mercy that set their religion and their world in order. Both readings stand here, side by side.",
+            "bn": "অর্থাৎ পরীক্ষা পেছনে কী রেখে গেল, এ নিয়ে তাফসীরকারদের মত ভিন্ন। ইবন কাসীর, তাবারী আর মুয়াসসারের মতে পরীক্ষা একটা দাগ রেখে গিয়েছিল। মুখে কথা দেওয়া হয়েছিল, আর শেষের মাগফিরাত সেটাকেই ঢেকে দেয়। সা'দীর মতে পরীক্ষাটা ছিল এমন এক যাচাই, যাতে তারা উতরে গেছে, আর শেষের মাগফিরাত ও রহমত তার পুরস্কার। তিনি হিজরত, জিহাদ আর সবরকে বলেন সবচেয়ে বড় উপায়, যা দিয়ে সবচেয়ে বড় দান পাওয়া যায়: ছোট-বড় সব গুনাহের মাগফিরাত, আর এমন রহমত, যা তাদের দ্বীন-দুনিয়া দুটোই গুছিয়ে দেয়। এখানে দুটো পাঠই পাশাপাশি থাকছে।"
+          },
+          {
+            "en": "A reading of the text adds a third angle. Al-Baghawi reports that Ibn 'Amir recited fatanu, with fatha on both the fa' and the ta', in the active voice: after they had put others to trial. He refers it to those polytheists who accepted Islam after having persecuted the believers. On that recitation the verse's mercy reaches people who had once been the persecutors and then turned. Al-Baghawi gives it in a single line; no other commentator fetched here mentions it.",
+            "bn": "কিরাআতের দিক থেকে আসে তৃতীয় আরেকটি দৃষ্টিকোণ। বাগাভী জানান, ইবন আমির পড়েছেন 'ফাতানূ', ফা আর তা দুটোতেই যবর দিয়ে, কর্তৃবাচ্যে: অন্যদের ফিতনায় ফেলার পর। তিনি এটিকে সেই মুশরিকদের দিকে ফেরান, যারা মুসলমানদের উপর নির্যাতন চালানোর পর নিজেরাই ইসলাম গ্রহণ করেছিল। এই কিরাআতে আয়াতের রহমত পৌঁছে যায় তাদের কাছেও, যারা একসময় নিজেরাই ছিল নির্যাতনকারী, তারপর ফিরে এসেছে। বাগাভী কথাটা বলেন এক লাইনে। এখানে যেসব তাফসীর দেখা হয়েছে, তার আর কোনোটিতে এর উল্লেখ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letters Sent Down the Road",
+          "bn": "মদীনা থেকে মক্কায় চিঠি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens the occasion with a report he introduces as mentioned from some of the interpreters: a group of the Prophet's Companions had stayed behind in Makka after his emigration; the polytheists pressed them until they turned them from their religion, and they despaired of repentance, so Allah sent down this verse about them, and they emigrated and joined the Messenger. He then gives Mujahid's account, under the wording of 16:106, of believers in Makka who were told by Companions in Madina that they would not be counted among them until they emigrated.",
+            "bn": "শানে নুযূলের আলোচনা তাবারী শুরু করেন এমন এক বর্ণনা দিয়ে, যা তিনি 'কিছু মুফাসসির থেকে উল্লেখ করা হয়' বলে আনেন। নবী ﷺ-এর হিজরতের পর তাঁর কিছু সাহাবী মক্কায় রয়ে গিয়েছিলেন। মুশরিকরা তাঁদের উপর এত চাপ দিল যে তাঁদের দ্বীন থেকে সরিয়ে দিল, আর তাঁরা তওবার আশা ছেড়ে দিলেন। তখন আল্লাহ তাঁদের ব্যাপারে এ আয়াত নাযিল করলেন, আর তাঁরা হিজরত করে রাসূলুল্লাহ ﷺ-এর সঙ্গে মিলিত হলেন। এরপর তাবারী ১৬:১০৬ আয়াতের শব্দের অধীনে মুজাহিদের বর্ণনা আনেন। মক্কার কিছু মুমিনকে মদীনার সাহাবীরা লিখেছিলেন, হিজরত না করা পর্যন্ত তোমাদের আমরা নিজেদের লোক বলে গণ্য করি না।"
+          },
+          {
+            "en": "In Mujahid's account they set out for Madina, Quraysh overtook them on the road and put them to trial, and they disbelieved under compulsion. Ibn Jurayj, in the next report, links the two verses: Allah said, whoever disbelieves in Allah after his belief, and then abrogated and made an exception, saying this verse. Qatada's report, also in at-Tabari, has the Muslims of Makka pledge among themselves to set out and, if overtaken, to fight until they escaped or met Allah. They were overtaken and fought; some were killed and some escaped, and the verse came down.",
+            "bn": "মুজাহিদের বর্ণনায় তাঁরা মদীনার পথে রওনা হলেন। পথে কুরাইশ তাঁদের ধরে ফেলল, ফিতনায় ফেলল, আর বাধ্য হয়ে তাঁরা কুফরীর কথা বললেন। পরের বর্ণনায় ইবন জুরাইজ দুই আয়াতকে জুড়ে দেন: আল্লাহ বলেছেন, যে ঈমানের পর আল্লাহকে অস্বীকার করে, তারপর তা মানসূখ করেছেন আর ব্যতিক্রম করেছেন, এই আয়াত দিয়ে। তাবারীতেই কাতাদার বর্ণনা আছে। মক্কার মুসলমানরা নিজেদের মধ্যে অঙ্গীকার করলেন, তাঁরা বেরিয়ে পড়বেন, আর মুশরিকরা ধরে ফেললে লড়বেন, যতক্ষণ না বেঁচে যান বা আল্লাহর কাছে পৌঁছে যান। তাঁদের ধরা হলো, তাঁরা লড়লেন। কেউ নিহত হলেন, কেউ বেঁচে গেলেন, আর আয়াতটি নাযিল হলো।"
+          },
+          {
+            "en": "The fullest version is Ibn 'Abbas's, through 'Ikrima, in at-Tabari. Muslims of Makka who hid their Islam were brought out by the polytheists to Badr, and some were killed; 4:97 came down, and it was written to those still in Makka that they had no excuse. They set out, were overtaken, and gave the polytheists what they demanded, and 29:10 came down. They set out again despairing of all good, and then this verse came down. The Muslims wrote to them: Allah has made a way out for you. They set out, were overtaken and fought; some escaped and some were killed.",
+            "bn": "সবচেয়ে পূর্ণ বর্ণনাটি ইবন আব্বাস (রাঃ)-এর, ইকরিমার সূত্রে, তাবারীতে। মক্কার কিছু মুসলমান ইসলাম গোপন রাখতেন। মুশরিকরা বদরের দিন তাঁদের সঙ্গে করে নিয়ে গেল, আর তাঁদের কেউ কেউ নিহত হলেন। তখন ৪:৯৭ আয়াত নাযিল হলো, আর মক্কায় যাঁরা রয়ে গিয়েছিলেন তাঁদের লিখে জানানো হলো, তাঁদের আর কোনো ওজর নেই। তাঁরা বেরোলেন, ধরা পড়লেন, মুশরিকরা যা চাইল তা দিয়ে দিলেন। তখন নাযিল হলো ২৯:১০ আয়াত। সব কল্যাণের আশা ছেড়ে তাঁরা আবার বেরোলেন, তারপর নাযিল হলো এ আয়াত। মুসলমানরা লিখলেন: আল্লাহ তোমাদের জন্য বেরোনোর পথ করে দিয়েছেন। তাঁরা বেরোলেন, ধরা পড়লেন, লড়লেন। কেউ বেঁচে গেলেন, কেউ নিহত হলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Names in the Reports",
+          "bn": "বর্ণনায় যাঁদের নাম আসে"
+        },
+        "p": [
+          {
+            "en": "Some reports put names to the group. Ibn Ishaq, in at-Tabari, says the verse came down about 'Ammar ibn Yasir, 'Ayyash ibn Abi Rabi'a and al-Walid ibn al-Walid. Al-Baghawi's list is longer: 'Ayyash ibn Abi Rabi'a, Abu Jandal ibn Suhayl ibn 'Amr, al-Walid ibn al-Walid ibn al-Mughira, Salama ibn Hisham and 'Abd Allah ibn Usayd ath-Thaqafi. The polytheists put them to trial, he writes, and they gave some of what was wanted to be safe from their harm; then they emigrated and strove. Al-Qurtubi opens his comment on the verse with a single line: all of this concerns 'Ammar.",
+            "bn": "কিছু বর্ণনা এই দলের মানুষদের নাম বলে দেয়। তাবারীতে ইবন ইসহাক বলেন, আয়াতটি নাযিল হয়েছে আম্মার ইবন ইয়াসির (রাঃ), আইয়াশ ইবন আবী রাবীআ (রাঃ) আর ওয়ালীদ ইবনুল ওয়ালীদ (রাঃ)-এর ব্যাপারে। বাগাভীর তালিকা আরও লম্বা: আইয়াশ ইবন আবী রাবীআ (রাঃ), আবূ জানদাল ইবন সুহাইল ইবন আমর (রাঃ), ওয়ালীদ ইবনুল ওয়ালীদ ইবনুল মুগীরা (রাঃ), সালামা ইবন হিশাম (রাঃ) আর আবদুল্লাহ ইবন উসাইদ সাকাফী (রাঃ)। তিনি লেখেন, মুশরিকরা তাঁদের ফিতনায় ফেলেছিল, আর তাদের অনিষ্ট থেকে বাঁচতে তাঁরা ওদের চাওয়ার কিছুটা দিয়েছিলেন। তারপর তাঁরা হিজরত ও জিহাদ করেছেন। কুরতুবী এ আয়াতের আলোচনা শুরু করেন এক বাক্যে: এর সবটাই আম্মার (রাঃ)-কে নিয়ে।"
+          },
+          {
+            "en": "None of this is settled. At-Tabari sets the reports side by side without choosing. Some reach him with chains, from Mujahid, Qatada, Ibn 'Abbas and Ibn Ishaq; al-Baghawi's list and al-Qurtubi's line come without one in the text fetched. What they share is a picture: believers in Makka, too weak to resist, who gave ground under pressure and then made their way out. The Companions named are honoured men whose trial is recorded so that later believers can see the road back. Weighing anyone's final standing belongs to Allah alone.",
+            "bn": "এর কোনোটিই চূড়ান্ত নয়। তাবারী বর্ণনাগুলো পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। কিছু বর্ণনা তাঁর কাছে সনদসহ পৌঁছেছে, মুজাহিদ, কাতাদা, ইবন আব্বাস (রাঃ) আর ইবন ইসহাক থেকে। বাগাভীর তালিকা আর কুরতুবীর বাক্যটি এখানে দেখা পাঠে সনদ ছাড়াই এসেছে। সবগুলোর মধ্যে মিল একটা ছবিতে: মক্কার এমন মুমিন, প্রতিরোধের শক্তি যাঁদের ছিল না, চাপের মুখে যাঁরা কিছুটা পিছু হটেছিলেন, তারপর বেরিয়ে আসার পথ করে নিয়েছিলেন। যে সাহাবীদের নাম এসেছে, তাঁরা সম্মানিত মানুষ। তাঁদের পরীক্ষার কথা লেখা আছে, যাতে পরের মুমিনেরা ফেরার পথটা দেখতে পায়। কারও শেষ পরিণতির বিচার একমাত্র আল্লাহর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Scribe Granted Protection",
+          "bn": "যে কাতিব আশ্রয় পেলেন"
+        },
+        "p": [
+          {
+            "en": "Others, at-Tabari writes, said the verse concerns Ibn Abi Sarh, and he relays this from 'Ikrima and al-Hasan al-Basri; al-Qurtubi and al-Baghawi give it too. An-Nasa'i records it in his Sunan (no. 4069). Ibn 'Abbas said, concerning Surat an-Nahl, \"Whoever disbelieves in Allah after his belief, except him who is compelled\" up to His words \"theirs is a great punishment\": \"That was abrogated, and an exception was made from it, when He said: Then indeed your Lord, for those who emigrated after they had been put to trial, then strove and were patient, indeed your Lord after that is Forgiving, Merciful.",
+            "bn": "তাবারী লেখেন, অন্যরা বলেছেন আয়াতটি ইবন আবী সারহ (রাঃ)-এর ব্যাপারে। কথাটি তিনি ইকরিমা আর হাসান বাসরী থেকে বর্ণনা করেন, কুরতুবী আর বাগাভীও তা এনেছেন। নাসাঈ তাঁর সুনানে (৪০৬৯ নং) বর্ণনাটি রেখেছেন। ইবন আব্বাস (রাঃ) সূরা নাহল সম্পর্কে বলেন, \"যে ঈমানের পর আল্লাহকে অস্বীকার করে, তবে যাকে বাধ্য করা হয় সে নয়\" থেকে \"তাদের জন্য আছে মহাশাস্তি\" পর্যন্ত: \"এটি মানসূখ হয়েছে, আর তা থেকে ব্যতিক্রম করা হয়েছে, যখন তিনি বললেন: তারপর নিশ্চয় তোমার রব, যারা ফিতনায় পড়ার পর হিজরত করেছে, তারপর জিহাদ করেছে ও ধৈর্য ধরেছে, নিশ্চয় তোমার রব এরপর ক্ষমাশীল, দয়ালু।"
+          },
+          {
+            "en": "The report goes on: \"He is 'Abd Allah ibn Sa'd ibn Abi Sarh, who was over Egypt. He used to write for the Messenger of Allah, and Satan made him slip, and he joined the disbelievers, so he ordered that he be killed on the day of the Conquest. 'Uthman ibn 'Affan sought protection for him, and the Messenger of Allah granted him protection.\" An-Nasa'i attaches no grading of his own to it. Abu Dawud (no. 4358) records the account of the scribe through the same line, from 'Ikrima from Ibn 'Abbas, without the verse.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: \"তিনি আবদুল্লাহ ইবন সা'দ ইবন আবী সারহ, যিনি মিসরের দায়িত্বে ছিলেন। তিনি রাসূলুল্লাহ ﷺ-এর জন্য লিখতেন। শয়তান তাঁর পা পিছলে দিল, তিনি কাফিরদের সঙ্গে গিয়ে মিললেন। তাই বিজয়ের দিন তিনি তাঁকে হত্যার নির্দেশ দিলেন। উসমান ইবন আফফান তাঁর জন্য আশ্রয় চাইলেন, আর রাসূলুল্লাহ ﷺ তাঁকে আশ্রয় দিলেন।\" নাসাঈ এর সঙ্গে নিজের কোনো মান নির্ধারণ জুড়ে দেননি। আবূ দাউদ (৪৩৫৮ নং) একই সূত্রে, ইকরিমা থেকে ইবন আব্বাস (রাঃ)-এর বরাতে, কাতিবের এ ঘটনা এনেছেন, তবে সেখানে আয়াতের উল্লেখ নেই।"
+          },
+          {
+            "en": "Al-Baghawi closes his version with a sentence of his own: he then accepted Islam, and his Islam was good. The report pairs the word abrogated with an exception, and the commentators set it beside the reports about the weak of Makka without ranking it above them. 'Abd Allah ibn Sa'd wrote for the Messenger of Allah, and he is spoken of here with the respect owed to a Companion. What the reports record is a slip and a protection granted, not a verdict for the reader to pass.",
+            "bn": "বাগাভী নিজের বর্ণনা শেষ করেন নিজের এক বাক্যে: এরপর তিনি ইসলাম গ্রহণ করেন, আর তাঁর ইসলাম হয় সুন্দর। বর্ণনাটি 'মানসূখ' শব্দের সঙ্গে 'ব্যতিক্রম' জুড়ে দেয়। তাফসীরকারেরা একে মক্কার দুর্বল মানুষদের বর্ণনাগুলোর পাশেই রাখেন, ওগুলোর উপরে স্থান দেন না। আবদুল্লাহ ইবন সা'দ (রাঃ) রাসূলুল্লাহ ﷺ-এর জন্য লিখতেন, আর এখানে তাঁর কথা বলা হচ্ছে একজন সাহাবীর প্রাপ্য সম্মান রেখেই। বর্ণনাগুলো লিখে রেখেছে একটি পদস্খলন আর একটি আশ্রয়দানের কথা। পাঠকের হাতে কোনো রায় দেওয়ার ভার সেখানে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After It, but After What",
+          "bn": "এরপর, কিন্তু কিসের পর"
+        },
+        "p": [
+          {
+            "en": "The verse closes on inna rabbaka min ba'diha la-ghafurun rahim: indeed your Lord, after it, is Forgiving, Merciful. The commentators fill that 'it' differently. For Ibn Kathir it is that deed, the giving in to the trial. For al-Baghawi it is that trial and the heedlessness with it. Al-Muyassar says after their repentance. At-Tabari says after this doing of theirs, straight after his account of their emigration, striving and patience. Ibn Kathir places the mercy on the Day of their return; at-Tabari reads it as Allah not punishing them, given their turning back to Him and their repentance.",
+            "bn": "আয়াত শেষ হয় এভাবে: ইন্না রাব্বাকা মিন বা'দিহা লাগাফূরুর রাহীম, নিশ্চয় তোমার রব এরপর ক্ষমাশীল, দয়ালু। এই 'এরপর' মানে কিসের পর, তাফসীরকারেরা তা ভিন্ন ভিন্নভাবে পূরণ করেন। ইবন কাসীরের মতে সেই কাজের পর, অর্থাৎ ফিতনার কাছে নতি স্বীকারের পর। বাগাভীর মতে সেই ফিতনা আর তার সঙ্গের গাফলতির পর। মুয়াসসার বলে, তাদের তওবার পর। তাবারী বলেন, তাদের এই কাজের পর, আর কথাটা আসে তাদের হিজরত, জিহাদ ও সবরের বিবরণের ঠিক পরেই। ইবন কাসীর রহমতকে রাখেন তাদের পুনরুত্থানের দিনে। তাবারীর ব্যাখ্যায় রহমত মানে, আল্লাহর দিকে তাদের ফিরে আসা আর তওবার কারণে তিনি তাদের শাস্তি দেবেন না।"
+          },
+          {
+            "en": "Each verb has its gloss. Emigration, for at-Tabari, is leaving their homes, dwellings and kin among the polytheists for the land of the people of Islam. Striving is against the polytheists with the hand, by the sword, and with the tongue, by disowning them and what they worshipped besides Allah. Patience, he says, is patience in that striving, and al-Qurtubi relays the same from an-Nahhas. Al-Baghawi makes it patience on faith, emigration and striving; al-Muyassar, patience under the hardships of what the religion asks.",
+            "bn": "তিনটি ক্রিয়ার প্রতিটিরই আলাদা ব্যাখ্যা আছে। তাবারীর কাছে হিজরত মানে মুশরিকদের মাঝে নিজেদের ঘরবাড়ি, বসতি আর গোত্র ছেড়ে মুসলমানদের দেশে চলে যাওয়া। জিহাদ মুশরিকদের বিরুদ্ধে, হাত দিয়ে তলোয়ারে, আর জবান দিয়ে তাদের ও আল্লাহ ছাড়া তারা যাদের ইবাদত করে তাদের থেকে সম্পর্কহীনতা ঘোষণা করে। তাঁর মতে সবর মানে সেই জিহাদে ধৈর্য। কুরতুবীও নাহহাস থেকে একই কথা আনেন। বাগাভী একে বলেন ঈমান, হিজরত আর জিহাদের উপর ধৈর্য। মুয়াসসারের কাছে তা দ্বীনের দায়িত্বগুলোর কষ্ট সয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict, Only a Way Back",
+          "bn": "রায় নয়, ফেরার পথ"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what its text describes: believers in Makka put to trial, the polytheists who persecuted them, and a promise to those who came back. It licenses nothing against any living person or community. It gives no ruling on emigration or fighting today, questions for qualified scholars rather than for a reflection, and it hands no reader a verdict on any of the people its reports name.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা তার শব্দে আছে: মক্কায় পরীক্ষায় পড়া মুমিনেরা, তাদের উপর নির্যাতন চালানো মুশরিকরা, আর যারা ফিরে এসেছিল তাদের জন্য এক প্রতিশ্রুতি। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের দিনে হিজরত বা যুদ্ধ নিয়েও এ আয়াত কোনো বিধান দেয় না। সেসব প্রশ্ন যোগ্য আলেমদের, কোনো আয়াত নিয়ে তাদাব্বুরের নয়। আর বর্ণনাগুলোতে যাঁদের নাম এসেছে, তাঁদের কারও সম্পর্কে রায় দেওয়ার ভারও এ আয়াত কোনো পাঠকের হাতে তুলে দেয় না।"
+          },
+          {
+            "en": "What it does give is an order of events. The trial came, and in most readings a lapse came with it. Then came steps: leaving what had broken them, striving, and holding on with patience. Only after all of that does the verse speak of the outcome, and it speaks of their Lord, twice. Whoever has given way under pressure, in a small matter or a large, is not told to wait in shame. He is shown a road back, and at its end the Forgiving, the Merciful is named.",
+            "bn": "এ আয়াত যা দেয়, তা হলো ঘটনার এক ক্রম, যা আঁকড়ে রাখার মতো। প্রথমে এসেছে পরীক্ষা, আর অধিকাংশ পাঠ অনুযায়ী তার সঙ্গে এক পদস্খলন। তারপর কয়েকটি কদম: যা তাদের ভেঙে দিয়েছিল তা ছেড়ে আসা, জিহাদ, আর ধৈর্য ধরে টিকে থাকা। এ সবের পরেই আয়াত পরিণতির কথা বলে, আর বলে তাদের রবের কথা, দুবার। চাপের মুখে যে নুয়ে পড়েছে, ছোট ব্যাপারে হোক বা বড় ব্যাপারে, তাকে লজ্জায় মুখ লুকিয়ে বসে থাকতে বলা হয় না। তাকে দেখানো হয় ফেরার পথ, আর সেই পথের শেষে উচ্চারিত হয় ক্ষমাশীল, দয়ালু রবের নাম।"
+          }
+        ]
+      }
+    ]
+  },
   "16:114": {
     "sections": [
       {

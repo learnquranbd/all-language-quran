@@ -22511,6 +22511,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Be an umma of good where you stand: steady in obedience, turned wholly to Allah, teaching the good you know, even if you stand alone.",
     "lessonBn": "যেখানে আছেন সেখানেই কল্যাণের এক উম্মত হোন: আনুগত্যে অটল, পুরোপুরি আল্লাহমুখী, জানা ভালো কথা মানুষকে শেখান, একা দাঁড়াতে হলেও।"
+  },
+  "16:110": {
+    "reflectionEn": "The verses before this one shut a door hard: wrath, a sealed heart, the losers of the Hereafter. Then comes the word thumma, and another door opens. It is for people who were put to trial and, in most of the commentators' accounts, gave way under it. They did not stay where they had fallen. They left home, strove, and held on with patience, and the verse ends by naming their Lord twice, Forgiving and Merciful after all of it. The fall is not hidden here; it is answered. Most of us know a moment when we gave less than our faith asked. The verse does not ask whether I fell. It asks what I did next, and whether I kept walking after the first step back.",
+    "reflectionBn": "এর আগের আয়াতগুলো একটা দরজা শক্ত করে বন্ধ করে দেয়: আল্লাহর গযব, মোহর মারা অন্তর, আখিরাতের ক্ষতিগ্রস্ত দল। তারপর আসে 'সুম্মা' শব্দটি, আর খুলে যায় আরেকটা দরজা। এ দরজা তাদের জন্য, যাদের পরীক্ষায় ফেলা হয়েছিল, আর অধিকাংশ তাফসীরকারের বর্ণনা অনুযায়ী যারা সেই চাপে নুয়ে পড়েছিল। কিন্তু যেখানে পড়েছিল, সেখানেই তারা পড়ে থাকেনি। ঘর ছেড়েছে, চেষ্টা করেছে, ধৈর্য ধরে টিকে থেকেছে। আয়াতটি শেষ হয় তাদের রবের নাম দুবার নিয়ে: এ সবের পর তিনি ক্ষমাশীল, দয়ালু। পড়ে যাওয়ার কথা এখানে লুকানো হয়নি, তার জবাব দেওয়া হয়েছে। আমাদের প্রায় সবার জীবনেই এমন মুহূর্ত আছে, যখন ঈমান যা চেয়েছিল তার চেয়ে কম দিয়েছি। আয়াতটি জানতে চায় না আমি পড়েছিলাম কি না। জানতে চায়, তারপর কী করেছি, আর ফেরার প্রথম কদমের পরেও হাঁটা চালিয়ে গেছি কি না।",
+    "pointsEn": [
+      "Where have I given way under pressure, and have I taken a real step back since, or only felt bad about it?",
+      "What would leaving look like for me: a place, a circle of people, or a habit that keeps pulling me back to the same fall?",
+      "After I turned back, did I keep going when it got hard, or did my patience run out after the first effort?",
+      "Do I truly believe Allah's forgiveness can reach a fall like mine, or do I quietly count myself beyond it?",
+      "When someone I know returns after a lapse, do I make the road easier for them, or keep reminding them where they slipped?"
+    ],
+    "pointsBn": [
+      "চাপের মুখে কোথায় আমি নুয়ে পড়েছি? তারপর কি সত্যিই ফেরার কোনো কদম ফেলেছি, নাকি শুধু মন খারাপ করে বসে থেকেছি?",
+      "আমার বেলায় 'ছেড়ে আসা' মানে কী হতে পারে: কোনো জায়গা, কোনো সঙ্গ, নাকি এমন কোনো অভ্যাস, যা আমাকে বারবার একই জায়গায় টেনে নিয়ে ফেলে?",
+      "ফিরে আসার পর কঠিন সময়েও কি লেগে থেকেছি, নাকি প্রথম চেষ্টার পরেই ধৈর্য ফুরিয়ে গেছে?",
+      "আমি কি সত্যিই বিশ্বাস করি, আমার মতো পতনের পরেও আল্লাহর মাগফিরাত পৌঁছাতে পারে? নাকি মনে মনে নিজেকে তার বাইরে ধরে রেখেছি?",
+      "পরিচিত কেউ ভুলের পর ফিরে এলে আমি কি তার পথটা সহজ করে দিই, নাকি বারবার মনে করিয়ে দিই সে কোথায় পা পিছলেছিল?"
+    ],
+    "lessonEn": "A fall under trial need not be the end: turn back, move away from what broke you, keep going with patience, and trust that your Lord is Forgiving and Merciful.",
+    "lessonBn": "পরীক্ষায় পড়ে নুয়ে যাওয়াই শেষ কথা নয়। ফিরে আসুন, যা আপনাকে ভেঙে দিয়েছিল তা থেকে সরে আসুন, ধৈর্য ধরে লেগে থাকুন, আর ভরসা রাখুন যে আপনার রব ক্ষমাশীল, দয়ালু।"
   }
 };
 
