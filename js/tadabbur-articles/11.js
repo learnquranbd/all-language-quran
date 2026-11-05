@@ -3955,6 +3955,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:99": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Verses for Pharaoh",
+          "bn": "ফিরআউনের জন্য চার আয়াত"
+        },
+        "p": [
+          {
+            "en": "Of the prophets' accounts Surah Hud gives back to back, Musa's (AS) is the shortest: four verses, 11:96 to 11:99. In 11:96 he is sent with Our signs and a clear authority. In 11:97 he is sent to Pharaoh and his chiefs, and they followed the command of Pharaoh, and the command of Pharaoh was not rashid, not sound. In 11:98 Pharaoh goes ahead of his people on the Day of Resurrection and leads them down into the Fire. Our verse closes the account.",
+            "bn": "সূরা হূদে নবীদের কাহিনি এসেছে পরপর, তার মধ্যে মূসা (আঃ)-এর কাহিনিটি সবচেয়ে ছোট। মাত্র চারটি আয়াত, ১১:৯৬ থেকে ১১:৯৯। ১১:৯৬ আয়াতে তাঁকে পাঠানো হয় আমার নিদর্শন আর স্পষ্ট প্রমাণ দিয়ে। ১১:৯৭ আয়াতে বলা হয়, তাঁকে পাঠানো হয়েছিল ফিরআউন আর তার সভাসদদের কাছে। কিন্তু তারা ফিরআউনের হুকুমই মেনে চলল, আর ফিরআউনের হুকুম রাশীদ ছিল না, সঠিক ছিল না। ১১:৯৮ আয়াতে কিয়ামতের দিন ফিরআউন তার জাতির আগে আগে চলবে আর তাদের নামিয়ে নেবে আগুনে। আমাদের আয়াত এ কাহিনির শেষ কথা।"
+          },
+          {
+            "en": "So the passage never shows the staff, the sorcerers or the sea, which this module treats at other verses. It keeps only three things: a message, a people who chose to follow a ruler instead, and where that following ended. Ibn Kathir, in the abridged English of his comment on 11:96 to 11:99 read together, draws the line between the second and the third: just as they followed him in this life, and he was their leader and chief, so he will lead them to the Hellfire on the Day of Resurrection.",
+            "bn": "তাই এ অংশে লাঠি, জাদুকর বা সাগরের কোনো দৃশ্য নেই। সেগুলো এ মডিউলের অন্য আয়াতে আলোচিত হয়েছে। এখানে আছে কেবল তিনটি জিনিস। একটি বার্তা, একটি জাতি যারা বার্তা ছেড়ে এক শাসককে অনুসরণ করল, আর সে অনুসরণ শেষে কোথায় গিয়ে ঠেকল। ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ১১:৯৬ থেকে ১১:৯৯ একসাথে আলোচিত হয়েছে। সেখানে তিনি দ্বিতীয় আর তৃতীয় কথাটিকে জুড়ে দেন। দুনিয়ায় তারা যেমন তার পেছনে চলেছিল, আর সে ছিল তাদের নেতা ও সর্দার, কিয়ামতের দিনও সে তেমনি তাদের আগে আগে নিয়ে যাবে জাহান্নামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Curse Made to Follow",
+          "bn": "পেছনে লাগিয়ে দেওয়া অভিশাপ"
+        },
+        "p": [
+          {
+            "en": "Wa-utbi'u fi hadhihi la'natan wa-yawma al-qiyamah: and they were made to be followed, in this, by a curse, and on the Day of Resurrection. A pause mark follows, and then the last clause: bi'sa ar-rifdu al-marfud, wretched is the rifd that is given. The verb is passive and names no one, so the commentators supply the agent. At-Tabari: Allah made His curse follow them. Ibn Kathir, in the first person of the verse's Speaker: We made a curse follow them.",
+            "bn": "ওয়া উতবি‘উ ফী হাযিহী লা‘নাতাঁও ওয়া ইয়াওমাল কিয়ামাহ: এতে তাদের পেছনে লাগিয়ে দেওয়া হলো অভিশাপ, আর কিয়ামতের দিনেও। এরপর থামার চিহ্ন, তারপর শেষ বাক্য: বি’সার রিফদুল মারফূদ, কত নিকৃষ্ট সে রিফদ যা দেওয়া হলো! ক্রিয়াটি কর্মবাচ্যে, কর্তার নাম নেই। তাই মুফাসসিররা কর্তা বসিয়ে দেন। তাবারী বলেন, আল্লাহ তাঁর অভিশাপ তাদের পেছনে লাগিয়ে দিলেন। ইবন কাসীর আয়াতের বক্তার জবানিতে বলেন, আমি তাদের পেছনে অভিশাপ লাগিয়ে দিলাম।"
+          },
+          {
+            "en": "Fi hadhihi, in this, leaves its noun unsaid, and at-Tabari, al-Qurtubi, al-Baghawi and as-Sa'di all supply the same one: this world. The surah has already said it in full once. 11:60, closing the account of Aad, opens with the same words and the noun spelled out: wa-utbi'u fi hadhihi ad-dunya la'natan wa-yawma al-qiyamah. At-Tabari adds what this world held for Pharaoh's people besides the curse: the punishment Allah hastened for them in it, the drowning in the sea.",
+            "bn": "ফী হাযিহী, অর্থাৎ এতে। কিসে, সে শব্দটি আয়াত উহ্য রেখেছে। তাবারী, কুরতুবী, বাগাভী আর সা'দী চারজনই একই শব্দ বসান: দুনিয়া। এ সূরা আগে একবার কথাটা পুরো বলেছে। ১১:৬০ আয়াতে আদ জাতির কাহিনি শেষ হয় একই শব্দ দিয়ে, সেখানে দুনিয়া শব্দটা স্পষ্ট লেখা: ওয়া উতবি‘উ ফী হাযিহিদ দুনইয়া লা‘নাতাঁও ওয়া ইয়াওমাল কিয়ামাহ। তাবারী আরও জানান, দুনিয়ায় ফিরআউনের লোকদের ভাগে অভিশাপের সঙ্গে আর কী এসেছিল। আল্লাহ সেখানেই তাদের শাস্তি ত্বরান্বিত করেছিলেন, সাগরে ডুবিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Followed, Then Were Followed",
+          "bn": "অনুসরণের পিছু নিল অভিশাপ"
+        },
+        "p": [
+          {
+            "en": "Read 11:97 beside our verse and one root runs through both. There they ittaba'u, followed, the command of Pharaoh. Here they are utbi'u, made to be followed, by a curse. The first verb is their own act; the second is done to them. This is an observation on the Arabic, and none of the commentaries consulted for this verse draws it out, but the surah sets the two verbs two verses apart around the same people. Between them stands 11:98, yaqdumu qawmahu: Pharaoh walks ahead of his people.",
+            "bn": "১১:৯৭ আর আমাদের আয়াত পাশাপাশি পড়ুন, দুটির ভেতর দিয়ে একই ধাতু চলে গেছে। সেখানে তারা ইত্তাবা‘উ, অনুসরণ করল ফিরআউনের হুকুম। এখানে তারা উতবি‘উ, তাদের পেছনে লাগিয়ে দেওয়া হলো অভিশাপ। প্রথম ক্রিয়া তাদের নিজেদের কাজ, দ্বিতীয়টি তাদের উপর ঘটানো হয়েছে। এটি আরবি শব্দের দিকে আমাদের নিজেদের দৃষ্টি। এ আয়াতের জন্য দেখা কোনো তাফসীরে এ কথা নেই। তবে সূরাটি একই লোকদের ঘিরে দুই আয়াতের ব্যবধানে ক্রিয়া দুটি বসিয়েছে। মাঝখানে আছে ১১:৯৮, ইয়াকদুমু কাওমাহু: ফিরআউন তার জাতির আগে আগে হাঁটে।"
+          },
+          {
+            "en": "So the three verses make a single file. Pharaoh is at the front, his people walk behind him, and behind them comes the curse. They chose whom to follow in this world, and what followed them was the result of that choice. Ibn Kathir's abridged English on the grouped verses keeps both ends of the file accountable. Those who were followed, he says, will have a great share of the punishment on the Day of Resurrection, and he gives Pharaoh a great share in it. The followers are not excused for having been led.",
+            "bn": "তিনটি আয়াত মিলে তাই একটি সারি তৈরি হয়। সবার আগে ফিরআউন, তার পেছনে তার জাতি, আর তাদের পেছনে অভিশাপ। দুনিয়ায় কার পেছনে হাঁটবে, তা তারা নিজেরাই বেছে নিয়েছিল। তাদের পেছনে যা লেগে রইল, তা সেই বাছাইয়েরই ফল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর সারির দুই মাথাকেই দায়ী রাখে। তিনি বলেন, কিয়ামতের দিন যাদের অনুসরণ করা হয়েছিল, শাস্তিতে তাদের ভাগ হবে বড়, আর সে ভয়াবহ শাস্তিতে ফিরআউনের ভাগও বড়। কিন্তু নেতার পেছনে চলেছিল বলে অনুসারীরা ছাড় পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Curse on Another's Heels",
+          "bn": "এক অভিশাপের পিঠে আরেক অভিশাপ"
+        },
+        "p": [
+          {
+            "en": "How many curses does the verse name? Mujahid answers two, and at-Tabari carries his answer in five reports with different chains. In one: they were given, on top of His curse, another curse, so those are two curses. In another: al-la'natu fi ithri al-la'nah, the curse on the track of the curse. In Ibn Jurayj's report from him: one in this world, and on the Day of Resurrection ardifu, another curse was set riding behind the first. Ibn Kathir quotes Mujahid's two curses too.",
+            "bn": "আয়াতে কয়টি অভিশাপের কথা? মুজাহিদের উত্তর, দুটি। তাবারী তাঁর এ উত্তর এনেছেন পাঁচটি বর্ণনায়, ভিন্ন ভিন্ন সনদে। একটিতে আছে, তাঁর অভিশাপের উপর তাদের আরেকটি অভিশাপ বাড়িয়ে দেওয়া হলো, তাই অভিশাপ দুটি। আরেকটিতে আছে, আল-লা‘নাতু ফী ইসরিল লা‘নাহ, অভিশাপের পায়ের ছাপ ধরে আরেক অভিশাপ। ইবন জুরাইজ তাঁর থেকে বর্ণনা করেন, এক অভিশাপ দুনিয়ায়, আর কিয়ামতের দিন উরদিফূ, প্রথমটির পেছনে সওয়ার করিয়ে দেওয়া হলো আরেকটি। ইবন কাসীরও মুজাহিদের দুই অভিশাপের কথা উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Qatada says the same in three reports at-Tabari carries: Allah cursed them in this world, and the curse was increased for them in the next; in one wording, the two curses from Allah came upon them one after the other. Ibn 'Abbas (RA), in the report of 'Ali ibn Abi Talha, glosses bi'sa ar-rifdu al-marfud as the curse of this world and the Hereafter. Ibn Kathir says ad-Dahhak held the same, and at-Tabari gives ad-Dahhak's own image: two curses struck them, one of them rafadat the other, propped it up.",
+            "bn": "তাবারীর আনা তিনটি বর্ণনায় কাতাদাও একই কথা বলেন। আল্লাহ দুনিয়ায় তাদের অভিশাপ দিলেন, আর আখিরাতে তাদের জন্য অভিশাপ আরও বাড়ানো হলো। এক বর্ণনার ভাষা এমন: আল্লাহর দুই অভিশাপ একটার পর একটা তাদের উপর এসে পড়ল। ইবন আব্বাস (রাঃ), আলী ইবন আবী তালহার বর্ণনায়, বি’সার রিফদুল মারফূদের ব্যাখ্যা দেন এভাবে: দুনিয়ার অভিশাপ আর আখিরাতের অভিশাপ। ইবন কাসীর জানান, দাহহাকেরও একই মত। দাহহাকের নিজের ভাষাটা তাবারী তুলে দেন। দুটি অভিশাপ তাদের উপর পড়ল, একটি আরেকটিকে রাফাদাত করল, মানে ঠেকা দিয়ে দাঁড় করিয়ে রাখল।"
+          },
+          {
+            "en": "On who curses and what the second curse is, the readings differ in emphasis, not in substance. As-Sa'di names those who curse: Allah, His angels and all of mankind curse them, in this world and the next, words that match 2:161. Al-Muyassar makes the second curse concrete: on the Day of Resurrection, another curse, by their being entered into the Fire. Ibn Kathir's Arabic starts from the Fire instead: in addition to the punishment of the Fire with which We requited them, We made a curse follow them in this life.",
+            "bn": "কারা অভিশাপ দেয়, আর দ্বিতীয় অভিশাপটা কী, এ নিয়ে ব্যাখ্যাগুলোর ঝোঁক আলাদা, মূল কথা এক। সা'দী অভিশাপদাতাদের নাম বলেন: আল্লাহ, তাঁর ফেরেশতারা আর সমস্ত মানুষ দুনিয়া ও আখিরাতে তাদের লানত করে। শব্দগুলো ২:১৬১ আয়াতের সঙ্গে মিলে যায়। মুয়াসসার দ্বিতীয় অভিশাপকে স্পষ্ট করে দেন। কিয়ামতের দিন আরেক অভিশাপ, তাদের জাহান্নামে ঢুকিয়ে দেওয়ার মধ্য দিয়ে। ইবন কাসীরের আরবি তাফসীর শুরু করে জাহান্নাম থেকে। জাহান্নামের যে শাস্তি দিয়ে আমি তাদের প্রতিফল দিয়েছি, তার উপর বাড়তি হিসেবে দুনিয়ার জীবনেও তাদের পেছনে অভিশাপ লাগিয়ে দিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aid, Gift, Cup or Prop",
+          "bn": "সাহায্য, দান, পেয়ালা, ঠেকনা"
+        },
+        "p": [
+          {
+            "en": "Then the word rifd. At-Tabari gives its root sense as 'awn, help: one says a man rafada another before the ruler when he backed him there. With the first vowel changed, rafd is watering from a great cup, and the rafd is the huge cup itself, for which he cites a line of al-A'sha. One also says a man rafada his wall when he propped it with a timber so it would not fall. And rifd is the thing a person is given. His gloss: wretched is the aid that is aided, the curse to which another like it is added.",
+            "bn": "এবার রিফদ শব্দটি। তাবারী এর মূল অর্থ বলেন আওন, সাহায্য। আরবরা বলে, অমুক শাসকের সামনে অমুকের রিফদ করল, মানে সেখানে তার পাশে দাঁড়াল। স্বরবর্ণ বদলে রাফদ বললে অর্থ হয় বড় পেয়ালায় পান করানো, আর রাফদ মানে সেই বিশাল পেয়ালাও। এর পক্ষে তিনি কবি আ‘শার একটি পঙক্তি আনেন। আবার কেউ দেয়ালে কাঠের ঠেকনা দিলে, যাতে দেয়াল পড়ে না যায়, তাকেও বলে রাফাদা। আর রিফদ হলো মানুষকে যে জিনিস দেওয়া হয়। তাবারীর ব্যাখ্যা: কত নিকৃষ্ট সে সাহায্য যাকে আরও সাহায্য জোগানো হলো, অর্থাৎ সেই অভিশাপ যার সঙ্গে তারই মতো আরেকটি জুড়ে দেওয়া হলো।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more voices. Al-Kisa'i and Abu 'Ubayda report rafadtuhu, I helped him and gave to him, with rifd as the name of the gift: so, wretched is the giving and the helping. Al-Jawhari gives the great cup. Al-Mawardi relates from al-Asma'i that rafd is the cup and rifd what is in it to drink, as though the verse disparaged what they are given to drink in the Fire. Al-Kalbi takes rifd as increase: wretched is what they are increased with after the drowning, the Fire.",
+            "bn": "কুরতুবী আরও কয়েকজনের মত জড়ো করেন। কিসাঈ আর আবু উবায়দা জানান, রাফাদতুহু মানে আমি তাকে সাহায্য করলাম, তাকে দিলাম, আর রিফদ হলো দানের নাম। তাহলে অর্থ দাঁড়ায়, কত নিকৃষ্ট সে দান আর সে সাহায্য! জাওহারী বলেন, রিফদ বিশাল পেয়ালা। মাওয়ার্দী আসমাঈর সূত্রে বলেন, রাফদ হলো পেয়ালা আর রিফদ পেয়ালার ভেতরের পানীয়। তাহলে আয়াত যেন জাহান্নামে তাদের যা পান করানো হবে তারই নিন্দা করছে। কালবীর মতে রিফদ মানে বাড়তি। ডুবে মরার পর তাদের যা বাড়িয়ে দেওয়া হলো, সেই আগুন কত নিকৃষ্ট!"
+          },
+          {
+            "en": "Al-Baghawi gives two glosses in order: the aid that is aided, and, it is said, the gift that is given, and both, he explains, because the two curses came upon them in succession. So the readings are aid, gift, drink and increase. At-Tabari states his own choice and says the people of interpretation take the same line; al-Qurtubi sets the rest side by side without choosing. They stay that way here.",
+            "bn": "বাগাভী পরপর দুটি ব্যাখ্যা দেন। প্রথমটি, সেই সাহায্য যাকে আরও সাহায্য জোগানো হলো। তারপর বলেন, কেউ কেউ বলেছেন, সেই দান যা দেওয়া হলো। দুটির কারণ একই: দুই অভিশাপ একটার পর একটা তাদের উপর এসেছিল। তাহলে মত দাঁড়াল চারটি: সাহায্য, দান, পানীয় আর বাড়তি। তাবারী নিজের পছন্দ জানিয়ে বলেন, তাফসীরকারেরাও এ পথেই গেছেন। কুরতুবী বাকিগুলো পাশাপাশি রাখেন, কোনোটি বেছে নেন না। এখানেও সেগুলো সেভাবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Watering Place, Then a Cup",
+          "bn": "পানির ঘাট, তারপর পেয়ালা"
+        },
+        "p": [
+          {
+            "en": "The endings of 11:98 and 11:99 are built on one frame. Wa-bi'sa al-wirdu al-mawrud, wretched is the wird to which they are brought; bi'sa ar-rifdu al-marfud, wretched is the rifd that is given. Each is bi'sa, then a noun, then a passive participle from the same root. Ibn Kathir's abridged English says of 11:98 that they will drink from springs of destruction. Set that beside al-Mawardi's cup and the two endings both speak of drink. That pairing is this article's, not a claim any commentary consulted here makes.",
+            "bn": "১১:৯৮ আর ১১:৯৯ আয়াতের শেষাংশ একই ছাঁচে গড়া। ওয়া বি’সাল ওয়িরদুল মাওরূদ, কত নিকৃষ্ট সে ওয়িরদ যেখানে তাদের নামানো হলো। বি’সার রিফদুল মারফূদ, কত নিকৃষ্ট সে রিফদ যা দেওয়া হলো। দুটিতেই প্রথমে বি’সা, তারপর একটি বিশেষ্য, তারপর একই ধাতু থেকে কর্মবাচ্য বিশেষণ। ১১:৯৮ নিয়ে ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে, তারা ধ্বংসের ঝর্ণা থেকে পান করবে। মাওয়ার্দীর পেয়ালার ব্যাখ্যা এর পাশে রাখলে দুই আয়াতের শেষেই পানীয়ের কথা। এ মিল এ লেখার নিজের পর্যবেক্ষণ। এখানে দেখা কোনো তাফসীর এ দাবি করে না।"
+          },
+          {
+            "en": "Whichever sense of rifd one takes, the word belongs to good things: help that backs a man, a gift, a great cup, a prop that keeps a wall standing. These men had been Pharaoh's mala', his chiefs, the men around his command. The backing the verse finally names for them is a curse propped on a curse. As-Sa'di and al-Muyassar gloss it in the same words: wretched is what was gathered for them and came upon them one after another, of Allah's punishment and the curse of this world and the next.",
+            "bn": "রিফদের যে অর্থই ধরা হোক, শব্দটা ভালো জিনিসের শব্দ। পাশে দাঁড়ানো সাহায্য, দান, বড় পেয়ালা, দেয়াল খাড়া রাখার ঠেকনা। এ লোকেরা ছিল ফিরআউনের মালা, তার সভাসদ, তার হুকুমের চারপাশের লোক। শেষ পর্যন্ত আয়াত তাদের জন্য যে ঠেকনার নাম নেয়, তা অভিশাপের গায়ে ঠেকা দেওয়া আরেক অভিশাপ। সা'দী আর মুয়াসসার একই ভাষায় এর ব্যাখ্যা দেন। কত নিকৃষ্ট সেই জিনিস যা তাদের জন্য জমা হলো আর একের পর এক তাদের উপর এসে পড়ল: আল্লাহর শাস্তি, আর দুনিয়া ও আখিরাতের অভিশাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Passages Ibn Kathir Sets Beside",
+          "bn": "ইবন কাসীরের আনা দুই আয়াত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets two passages beside this verse. The first is 28:41 and 28:42: We made them leaders calling to the Fire, and on the Day of Resurrection they will not be helped; and We made a curse follow them in this world, and on the Day of Resurrection they are among the maqbuhin. That passage has its own reflection in this module, so it is not retold here. The second is 40:46: the Fire, they are exposed to it morning and evening, and on the Day the Hour comes, admit Pharaoh's people to the severest punishment.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও দুটি অংশ রাখেন। প্রথমটি ২৮:৪১ ও ২৮:৪২। আমি তাদের বানিয়েছিলাম এমন নেতা যারা আগুনের দিকে ডাকে, আর কিয়ামতের দিন তারা কোনো সাহায্য পাবে না। আর এ দুনিয়ায় আমি তাদের পেছনে অভিশাপ লাগিয়ে দিলাম, আর কিয়ামতের দিন তারা হবে মাকবূহীনদের দলে। সে অংশ নিয়ে এ মডিউলে আলাদা লেখা আছে, তাই এখানে আবার বলা হলো না। দ্বিতীয়টি ৪০:৪৬। আগুন, সকাল-সন্ধ্যা তাদের এর সামনে পেশ করা হয়। আর যেদিন কিয়ামত কায়েম হবে, সেদিন বলা হবে: ফিরআউনের লোকদের কঠিনতম শাস্তিতে ঢোকাও।"
+          },
+          {
+            "en": "His abridged English, on 11:98 within the grouped verses, adds two more about leaders and those they lead. In 7:38 a later nation in the Fire asks double punishment for the earlier nation that misled it, and is told that each has double. In 33:67 and 33:68 the followers say they obeyed their masters and their great ones, who misled them, and ask that they be given double punishment. No commentary consulted for 11:99 attaches a hadith to it, so none is offered here, and none reports an occasion of revelation.",
+            "bn": "তাঁর সংক্ষিপ্ত ইংরেজি তাফসীর, একসাথে আলোচিত আয়াতগুলোর মধ্যে ১১:৯৮ প্রসঙ্গে, নেতা আর অনুসারীদের নিয়ে আরও দুটি আয়াত আনে। ৭:৩৮ আয়াতে জাহান্নামে পরের এক জাতি আগের জাতির জন্য দ্বিগুণ শাস্তি চায়, কারণ তারাই তাদের পথভ্রষ্ট করেছিল। উত্তর আসে, প্রত্যেকের জন্যই দ্বিগুণ। ৩৩:৬৭ ও ৩৩:৬৮ আয়াতে অনুসারীরা বলে, আমরা আমাদের নেতা আর বড়দের কথা মেনেছিলাম, তারাই আমাদের পথ থেকে সরিয়েছে। তারপর তাদের জন্য দ্বিগুণ শাস্তি চায়। ১১:৯৯ নিয়ে দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হলো না। শানে নুযূলের কোনো বর্ণনাও তাঁরা দেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Added in Our Voice",
+          "bn": "আমাদের মুখে বাড়তি কিছু নয়"
+        },
+        "p": [
+          {
+            "en": "This verse describes what the text describes: Pharaoh and his chiefs, named in 11:97, and what Allah did to them. It licenses nothing against any living person or community, Egyptians today included, and it gives no reader a method for deciding that someone alive stands under the same curse. The curse in the verse is Allah's act, reported in the passive. This article quotes the verse and the words of the commentators about it, and it adds no curse of its own, against Pharaoh's people or anyone else.",
+            "bn": "এ আয়াত যা বলে, শুধু তা-ই বলে। ১১:৯৭ আয়াতে যাদের নাম এসেছে, সেই ফিরআউন আর তার সভাসদ, আর আল্লাহ তাদের সঙ্গে যা করেছেন। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না, আজকের মিসরবাসীর বিরুদ্ধেও নয়। আজকের কোনো মানুষ একই অভিশাপের নিচে আছে কি না, তা ঠিক করার কোনো পদ্ধতিও এ আয়াত পাঠককে দেয় না। আয়াতের অভিশাপ আল্লাহর কাজ, কর্মবাচ্যে বর্ণিত। এ লেখা আয়াত আর তাফসীরকারদের কথা উদ্ধৃত করেছে মাত্র। ফিরআউনের লোকদের বা অন্য কারও বিরুদ্ধে নিজের পক্ষ থেকে কোনো অভিশাপ যোগ করেনি।"
+          },
+          {
+            "en": "As-Sa'di's line that mankind curses them is his account of who curses Pharaoh's people. It is not an instruction to the reader to spend the tongue on anyone. What the verse does hand the reader is smaller and closer to home. Two verses earlier, the people in it are described by one act above all: they followed. This verse traces where that following led. That is a question anyone can ask of himself without saying a word about another person.",
+            "bn": "সা'দী যে বলেন মানুষও তাদের লানত করে, সেটি ফিরআউনের লোকদের কারা অভিশাপ দেয় তার বিবরণ। কাউকে লানত করতে জিহ্বা খরচ করার জন্য পাঠকের প্রতি নির্দেশ নয়। আয়াত পাঠকের হাতে যা তুলে দেয়, তা আরও ছোট, আরও কাছের। দুই আয়াত আগে এ লোকদের পরিচয় দেওয়া হয়েছে সবার আগে একটি কাজ দিয়ে: তারা অনুসরণ করেছিল। এ আয়াত দেখায়, সে অনুসরণ কোথায় গিয়ে শেষ হলো। এ প্রশ্ন যে কেউ নিজেকে করতে পারে, অন্য কারও সম্পর্কে একটি কথাও না বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Command I Walk Behind",
+          "bn": "আমি কার হুকুমের পেছনে হাঁটি"
+        },
+        "p": [
+          {
+            "en": "Everyone walks behind some command. It may be a manager's, a family's, a crowd's, a feed's, or simply my own wants dressed as necessity. 11:97 gives the test in four words: wa-ma amru Fir'awna bi-rashid, and the command of Pharaoh was not sound. The question is not whether I follow, but whether what I follow is rashid. And 11:98 adds a hard truth: the leader at the front led them in, and they went in. Walking behind him spared none of them the end of the road, and each arrived there on his own feet.",
+            "bn": "প্রত্যেকেই কোনো না কোনো হুকুমের পেছনে হাঁটে। হতে পারে তা বসের, পরিবারের, ভিড়ের, মোবাইলের পর্দার, কিংবা নিজের খেয়ালের, যা প্রয়োজনের পোশাক পরে আসে। ১১:৯৭ আয়াত মাপকাঠি দেয় চারটি শব্দে: ওয়া মা আমরু ফিরআউনা বি-রাশীদ, আর ফিরআউনের হুকুম সঠিক ছিল না। প্রশ্নটা এই নয় যে আমি অনুসরণ করি কি না। প্রশ্ন হলো, যার অনুসরণ করি তা রাশীদ কি না। আর ১১:৯৮ আয়াত এক কঠিন সত্য যোগ করে। সামনের লোকটি তাদের নিয়ে ঢুকল, আর তারাও ঢুকল। তার পেছনে হেঁটেছিল বলে পথের শেষ থেকে কেউ রেহাই পায়নি। প্রত্যেকে সেখানে পৌঁছেছে নিজের পায়ে হেঁটে।"
+          },
+          {
+            "en": "The other side is just as near. Someone walks behind me: a child, a younger colleague, a friend who copies my habits. If I am at the front of anyone's file, the question is what I am leading them towards. A short prayer, composed here and not a transmitted du'a: O Allah, let me follow only what is sound, and make what follows me in this world and on the Day a mercy and not a curse. Let no one be led by me to a place I would not want to reach.",
+            "bn": "উল্টো দিকটাও ততটাই কাছে। আমার পেছনেও কেউ হাঁটে। সন্তান, কম বয়সী সহকর্মী, বা এমন বন্ধু যে আমার অভ্যাস নকল করে। কারও সারির সামনে যদি আমি থাকি, তাহলে প্রশ্ন হলো, তাদের আমি কোন দিকে নিয়ে যাচ্ছি। এখানে রচিত একটি ছোট দোয়া, হাদীসে বর্ণিত দোয়া নয়: হে আল্লাহ, আমাকে কেবল সঠিক জিনিসেরই অনুসরণ করতে দিন। দুনিয়ায় আর কিয়ামতের দিন আমার পেছনে যা আসবে, তাকে রহমত বানান, অভিশাপ নয়। আমার পেছনে চলে কেউ যেন এমন জায়গায় না পৌঁছায়, যেখানে আমি নিজে পৌঁছাতে চাই না।"
+          }
+        ]
+      }
+    ]
+  },
   "11:100": {
     "sections": [
       {

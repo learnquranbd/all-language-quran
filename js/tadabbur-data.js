@@ -21671,6 +21671,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Working ears are not the same as hearing. Find the voice or the truth you have become unable to bear, and start listening to it while you still can.",
     "lessonBn": "কান সচল থাকা আর শোনা এক কথা নয়। যে কণ্ঠ বা যে সত্য আপনি আর সহ্য করতে পারেন না, তা খুঁজে বের করুন, আর সময় থাকতেই তা শুনতে শুরু করুন।"
+  },
+  "11:99": {
+    "reflectionEn": "Two verses earlier they followed Pharaoh's command, and the Qur'an said plainly that his command was not sound. One verse earlier he walked ahead of them into the Fire. Now the same verb turns round: they followed, and a curse was made to follow them, in this world and on the Day of Resurrection. Then the verse names what they were handed at the end, a gift, and calls it wretched. Nothing here lets me curse anyone; the verse is about the cost of the walk. Every life follows someone's command: a crowd's, an employer's, a screen's, my own wants. Whose command am I walking behind, and where does that road end?",
+    "reflectionBn": "দুই আয়াত আগে তারা ফির‘আওনের হুকুম মেনে চলেছিল, আর কুরআন সাফ বলে দিয়েছে, তার হুকুম সঠিক ছিল না। এক আয়াত আগে সে তাদের সামনে সামনে হেঁটে আগুনে নিয়ে গেছে। এবার সেই একই ক্রিয়া উল্টো দিক থেকে ফিরে আসে। তারা অনুসরণ করেছিল, এখন অভিশাপ তাদের অনুসরণ করছে, এই দুনিয়ায় আর কিয়ামতের দিনেও। তারপর আয়াত জানায়, শেষে তাদের হাতে যা দেওয়া হলো তা এক উপহার, আর সে উপহার কত নিকৃষ্ট! কাউকে অভিশাপ দেওয়ার অনুমতি এখানে নেই। আয়াতের কথা হলো পথ চলার মাশুল নিয়ে। প্রত্যেক জীবনই কারও না কারও হুকুমের পেছনে হাঁটে। ভিড়ের, মালিকের, পর্দার, কিংবা নিজের খেয়ালের। আমি কার হুকুমের পেছনে হাঁটছি, আর সে পথ গিয়ে থামে কোথায়?",
+    "pointsEn": [
+      "Whose command do I follow most quickly, without first asking whether it is sound?",
+      "If the person I follow were walking ahead of me to the end of the road, where would we both arrive?",
+      "When I go along with something wrong, do I comfort myself that the blame is all theirs?",
+      "Who follows me, at home or at work, and what am I leading them towards?",
+      "What have I accepted as a gift from the people around me that I would not want handed to me on the Last Day?"
+    ],
+    "pointsBn": [
+      "কার হুকুম আমি সবচেয়ে তাড়াতাড়ি মেনে নিই, হুকুমটা সঠিক কি না সেটা আগে না ভেবেই?",
+      "যাকে আমি অনুসরণ করি, সে যদি পথের শেষ পর্যন্ত আমার আগে আগে হাঁটে, আমরা দুজন গিয়ে পৌঁছাব কোথায়?",
+      "অন্যায় কিছুতে যখন সায় দিই, তখন কি মনকে এই বলে সান্ত্বনা দিই যে দোষ পুরোটাই ওদের?",
+      "ঘরে বা কর্মস্থলে কে আমার পেছনে চলে, আর আমি তাকে কোন দিকে নিয়ে যাচ্ছি?",
+      "চারপাশের মানুষের কাছ থেকে কোন জিনিস আমি উপহার বলে নিয়েছি, যা শেষ দিনে নিজের হাতে পেতে চাইব না?"
+    ],
+    "lessonEn": "Those who follow a leader into wrong share his road and its end. Ask whose command you walk behind, and who is walking behind you.",
+    "lessonBn": "যারা কোনো নেতার পেছনে অন্যায়ের পথে হাঁটে, তারা তার পথেরও শরিক, পরিণামেরও। ভেবে দেখুন, আপনি কার হুকুমের পেছনে হাঁটছেন, আর আপনার পেছনে কে হাঁটছে।"
   }
 };
 
