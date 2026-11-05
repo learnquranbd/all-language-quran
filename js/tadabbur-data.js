@@ -21651,6 +21651,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah gave the tidings to her directly, naming a son and the son's son before either was born. Do not decide for yourself what you are too old or too late to receive.",
     "lessonBn": "আল্লাহ সুসংবাদটা সরাসরি তাঁকেই দিয়েছিলেন, ছেলে আর ছেলের ছেলের নাম বলে, দুজনের কেউ জন্মানোর আগেই। কী পাওয়ার জন্য আপনি বেশি বুড়ো বা বেশি দেরি করে ফেলেছেন, সে সিদ্ধান্ত নিজে নিয়ে ফেলবেন না।"
+  },
+  "11:20": {
+    "reflectionEn": "The people this verse describes were not deaf or blind in body. They had working ears and eyes, and still it says of them that they could not hear and did not see. A person can lose the ability to listen without anything happening to the ear. Dislike of the speaker does it, and so does a mind already full of its own case, or the cost of what the words would ask. Arabic has a phrase for it: a man cannot bear to look at someone whose presence weighs on him. The verse is not given to me for diagnosing others. It asks what I have already become unable to hear: which voice, which verse, which true sentence about myself I switch off before it arrives.",
+    "reflectionBn": "এ আয়াত যাদের কথা বলছে, তাদের শরীরে কোনো বধিরতা বা অন্ধত্ব ছিল না। কান কাজ করত, চোখও কাজ করত। তবু আয়াত বলছে, তারা শুনতে পারত না, দেখতও না। কানে কিছু না ঘটেও মানুষ শোনার ক্ষমতা হারাতে পারে। বক্তার প্রতি বিরাগ এ কাজ করে। নিজের যুক্তিতে আগে থেকেই ঠাসা মনও করে। কথাটা মেনে নিলে যে দাম দিতে হবে, সেই ভয়ও করে। আরবিতে এর একটা চলতি কথা আছে: যার উপস্থিতি মনের উপর ভারী, তার দিকে কেউ তাকাতেই পারে না। এ আয়াত আমাকে অন্যের রোগ ধরার জন্য দেওয়া হয়নি। এটা আমাকেই জিজ্ঞেস করে: কোন জিনিস আমি ইতিমধ্যে শুনতে অক্ষম হয়ে পড়েছি? কার কণ্ঠ, কোন আয়াত, নিজের সম্পর্কে কোন সত্য কথা কানে পৌঁছানোর আগেই আমি বন্ধ করে দিই?",
+    "pointsEn": [
+      "Whose voice do I stop hearing before it has finished, and is it the person or what they might say that I am avoiding?",
+      "Is there a verse I read faster than the rest because it describes me too closely?",
+      "When was I last so taken up with my own case that someone's words reached my ears and none of them got in?",
+      "If someone I trust told me something true and unwelcome about myself tomorrow, what would I do in the first minute?",
+      "Do I read verses like this one as a description of other people, or as a warning about what I could become?"
+    ],
+    "pointsBn": [
+      "কার কথা শেষ হওয়ার আগেই আমি শোনা বন্ধ করে দিই? আমি কি মানুষটাকে এড়াচ্ছি, নাকি সে যা বলতে পারে সেটাকে?",
+      "এমন কোনো আয়াত কি আছে, যা আমি বাকিগুলোর চেয়ে তাড়াতাড়ি পড়ে ফেলি, কারণ তা আমার সঙ্গে খুব বেশি মিলে যায়?",
+      "শেষ কবে নিজের ব্যাপার নিয়ে এতটা ডুবে ছিলাম যে কারও কথা কানে এসেছে, অথচ তার একটা শব্দও ভেতরে ঢোকেনি?",
+      "কাল যদি আমার কোনো আস্থার মানুষ আমার সম্পর্কে অপ্রিয় কিন্তু সত্য কিছু বলে, প্রথম এক মিনিটে আমি কী করব?",
+      "এমন আয়াত কি আমি অন্যদের বর্ণনা হিসেবে পড়ি, নাকি আমি নিজে কী হয়ে যেতে পারি তার সতর্কবাণী হিসেবে?"
+    ],
+    "lessonEn": "Working ears are not the same as hearing. Find the voice or the truth you have become unable to bear, and start listening to it while you still can.",
+    "lessonBn": "কান সচল থাকা আর শোনা এক কথা নয়। যে কণ্ঠ বা যে সত্য আপনি আর সহ্য করতে পারেন না, তা খুঁজে বের করুন, আর সময় থাকতেই তা শুনতে শুরু করুন।"
   }
 };
 

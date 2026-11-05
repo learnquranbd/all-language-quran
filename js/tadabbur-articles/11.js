@@ -791,6 +791,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Middle Panel of a Verdict",
+          "bn": "এক রায়ের মাঝের অংশ"
+        },
+        "p": [
+          {
+            "en": "This verse sits in the opening argument of Surah Hud, before its prophet stories begin. 11:18 asked who is more unjust than whoever invents a lie about Allah, and 11:19 named such people by their deeds: they turned others from the way of Allah, wanted it crooked, and disbelieved in the Hereafter. Our verse opens on ula'ika, those, and at-Tabari fixes the pointer: the ones just described as barring others from His way. It adds three things: no escape, no protector, and a doubled punishment.",
+            "bn": "সূরা হূদের প্রথম দিকের যুক্তির ভেতরে এ আয়াত, নবীদের কাহিনি শুরুর আগে। ১১:১৮ আয়াত প্রশ্ন তুলেছিল, আল্লাহর নামে যে মিথ্যা রচনা করে, তার চেয়ে বড় যালিম কে? ১১:১৯ আয়াত সেই লোকদের চিনিয়ে দিয়েছে তাদের কাজ দিয়ে: তারা মানুষকে আল্লাহর পথ থেকে ফেরাত, সে পথকে বাঁকা করতে চাইত, আর আখিরাত অস্বীকার করত। আমাদের আয়াত শুরু হয় উলাইকা দিয়ে, অর্থাৎ ওরাই। তাবারী ইশারাটা স্পষ্ট করেন: এরা সেই লোক, যাদের এইমাত্র আল্লাহর পথে বাধাদানকারী বলা হলো। তাদের সম্পর্কে আয়াতটি তিনটি কথা যোগ করে: পালানোর পথ নেই, রক্ষাকারী নেই, আর শাস্তি দ্বিগুণ।"
+          },
+          {
+            "en": "11:21 follows with the loss: they lost themselves, and what they used to invent has strayed from them. 11:22 seals it: in the Hereafter they are the greatest losers. Then 11:24 turns our verse's closing words into a parable of the blind and deaf against the seeing and hearing. None of the commentaries consulted reports an occasion of revelation for this verse, so the placement is the context, and it makes the verse the middle of a single verdict.",
+            "bn": "পরে ১১:২১ আয়াত ক্ষতির কথা বলে: তারা নিজেদের হারিয়েছে, আর যা তারা রচনা করত তা তাদের কাছ থেকে উধাও হয়ে গেছে। ১১:২২ আয়াত তাতে সিলমোহর দেয়: আখিরাতে এরাই সবচেয়ে ক্ষতিগ্রস্ত। তারপর ১১:২৪ আয়াত আমাদের আয়াতের শেষ শব্দগুলো দিয়ে উপমা গড়ে: অন্ধ ও বধির একদিকে, দেখতে ও শুনতে পাওয়া মানুষ অন্যদিকে। এখানে দেখা কোনো তাফসীর এ আয়াতের শানে নুযূল উল্লেখ করেনি। তাই আয়াতের অবস্থানই এর প্রেক্ষাপট, আর সেই অবস্থান একে একই রায়ের মাঝের অংশ বানিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Negatives, or Only Two",
+          "bn": "চারটি না, নাকি মাত্র দুটি"
+        },
+        "p": [
+          {
+            "en": "In the text of Surah Hud the verse runs to 24 Arabic words, with two pause marks not counted. On its face it is built from denials. Lam yakunu mu'jizina fi al-ard: they were not ones who frustrate, on the earth. Wa ma kana lahum min duni Allahi min awliya': nor had they, apart from Allah, any protectors; al-Qurtubi notes that the second min is za'idah, extra, in the grammarians' term. Then comes yuda'afu lahum al-'adhab, the only affirmative clause, with a passive verb.",
+            "bn": "সূরা হূদের পাঠে আয়াতটি ২৪টি আরবি শব্দের। দুটি ওয়াকফ চিহ্ন গোনা হয়নি। বাইরে থেকে দেখলে আয়াতটি গড়া অস্বীকারের বাক্য দিয়ে। লাম ইয়াকূনূ মু'জিযীনা ফিল আরদ: পৃথিবীতে তারা আল্লাহকে অক্ষম করে দেওয়ার লোক ছিল না। ওয়া মা কানা লাহুম মিন দূনিল্লাহি মিন আওলিয়া: আল্লাহ ছাড়া তাদের কোনো রক্ষাকারীও ছিল না। কুরতুবী বলেন, এখানে দ্বিতীয় মিন হলো যায়িদা, ব্যাকরণবিদদের ভাষায় অতিরিক্ত। এরপর আসে ইউদাআফু লাহুমুল আযাব, তাদের শাস্তি দ্বিগুণ করা হবে। পুরো আয়াতে এটিই একমাত্র হ্যাঁ-বাচক বাক্য, আর এর ক্রিয়া কর্মবাচ্যে।"
+          },
+          {
+            "en": "The last two clauses look like denials too: ma kanu yastati'una as-sam'a wa ma kanu yubsirun, they were not able to hear, nor did they see. Whether that ma truly negates is the oldest question about the verse. Read as a negation, it gives four denials around one affirmation. On another reading, which at-Tabari and al-Qurtubi both report, ma is no negative, and the clause explains the doubling. Note the asymmetry too: for hearing the verse says they were not able; for sight, only that they did not see.",
+            "bn": "শেষ দুটি বাক্যও দেখতে অস্বীকারের মতো: মা কানূ ইয়াসতাতীঊনাস সাম'আ ওয়া মা কানূ ইউবসিরূন, তারা শুনতে পারত না, আর দেখতও না। এখানকার মা সত্যিই না-বোধক কি না, এ আয়াত নিয়ে সেটাই সবচেয়ে পুরোনো প্রশ্ন। না-বোধক ধরলে একটি হ্যাঁ-বাচক বাক্যকে ঘিরে চারটি অস্বীকার। কিন্তু তাবারী ও কুরতুবী দুজনেই আরেকটি পাঠ উল্লেখ করেন, যেখানে মা মোটেই না-বোধক নয়, আর বাক্যটি শাস্তি দ্বিগুণ হওয়ার কারণ বলে দেয়। শব্দচয়নের অসমতাও লক্ষ করার মতো। শোনার বেলায় আয়াত বলছে, তারা পারত না। দেখার বেলায় শুধু বলছে, তারা দেখত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Outrunning, Fleeing, Slipping Away",
+          "bn": "আগে ছোটা, পালানো, ফসকে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Mu'jizin is the participle of a'jaza, to leave someone powerless, and the commentators gloss it as escape. Al-Baghawi lists three early glosses: Ibn Abbas (RA), sabiqin, ones who outrun; Qatadah, haribin, ones who flee; Muqatil, fa'itin, ones who slip away. At-Tabari: they could not frustrate their Lord by running from Him on the earth when He willed to punish them, for they are in His grasp and dominion. Al-Qurtubi reports from Ibn Abbas a starker line: they did not make Me unable to command the earth to swallow them.",
+            "bn": "মু'জিযীন শব্দটি আ'জাযা ক্রিয়া থেকে, যার মানে কাউকে অক্ষম করে দেওয়া। তাফসীরকারেরা একে ব্যাখ্যা করেন পালিয়ে যাওয়ার ছবি দিয়ে। বাগাভী প্রথম যুগের তিনটি ব্যাখ্যা আনেন। ইবন আব্বাস (রাঃ): সাবিকীন, যারা আগে ছুটে বেরিয়ে যায়। কাতাদা: হারিবীন, যারা পালায়। মুকাতিল: ফাইতীন, যারা ফসকে যায়। তাবারী বলেন, আল্লাহ যখন তাদের শাস্তি দিতে চান, তখন পৃথিবীতে পালিয়ে তারা তাঁকে ব্যর্থ করতে পারত না, কারণ তারা তাঁর মুঠোয়, তাঁর রাজত্বে। কুরতুবী ইবন আব্বাস থেকে আরও কঠিন একটি ভাষ্য আনেন: আমি পৃথিবীকে আদেশ দিলে তা তাদের গিলে ফেলবে, তা ঠেকানোর ক্ষমতা তাদের ছিল না।"
+          },
+          {
+            "en": "The second denial is about help. At-Tabari reads awliya' as supporters who would stand between them and Allah when He punished them, and adds that in this world they did have man'ah, a protection by which they held off people who meant them harm. That protection was real, and it reached no further than people. As-Sa'di gives a protector two jobs, pushing harm away or bringing benefit, and says the means were cut from them. Al-Qurtubi reports another view from Ibn Abbas: neither they nor their protectors could frustrate Him.",
+            "bn": "দ্বিতীয় অস্বীকারটি সাহায্য নিয়ে। তাবারী আওলিয়া বলতে বোঝেন এমন সাহায্যকারী, যারা আল্লাহ শাস্তি দিলে তাদের আর তাঁর মাঝখানে আড়াল হয়ে দাঁড়াবে। তিনি এটাও বলেন, দুনিয়াতে তাদের সত্যিই একটা রক্ষাব্যবস্থা ছিল, মান'আ, যা দিয়ে তারা ক্ষতি করতে চাওয়া মানুষদের ঠেকিয়ে রাখত। সে রক্ষা মিথ্যা ছিল না, কিন্তু তার দৌড় ছিল মানুষ পর্যন্তই। সা'দী রক্ষাকারীর দুটি কাজ বলেন: বিপদ সরিয়ে দেওয়া, অথবা উপকার এনে দেওয়া। আর বলেন, তাদের সব উপায় কেটে গেছে। কুরতুবী ইবন আব্বাস থেকে আরেকটি মত আনেন: তারা নিজেরাও না, তাদের রক্ষাকারীরাও না, কেউই তাঁকে অক্ষম করতে পারত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Is Not Release",
+          "bn": "ঢিল মানে ছাড় নয়"
+        },
+        "p": [
+          {
+            "en": "Why, then, are they not seized at once? Ibn Kathir answers that Allah can take vengeance in this world, but in the words of 14:42 He only delays them for a Day when eyes will stare. He cites a narration he places in the two Sahihs. Al-Bukhari's wording, hadith 4686: Narrated Abu Musa: Allah's Messenger ﷺ said, \"Allah gives respite to the oppressor, but when He takes him over, He never releases him.\" Then he recited: \"Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure\" (11:102).",
+            "bn": "তারা যদি পালাতেই না পারে, তবে এখনই ধরা হচ্ছে না কেন? ইবন কাসীর জবাব দেন, দুনিয়াতেই তাদের থেকে প্রতিশোধ নিতে আল্লাহ সক্ষম। কিন্তু ১৪:৪২ আয়াতের ভাষায়, তিনি তাদের অবকাশ দিচ্ছেন সেই দিন পর্যন্ত, যেদিন চোখ আতঙ্কে স্থির হয়ে যাবে। তারপর তিনি একটি বর্ণনা আনেন, যা তাঁর কথায় দুই সহীহ গ্রন্থে আছে। বুখারীর ভাষ্য, হাদীস ৪৬৮৬: আবূ মূসা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন, \"আল্লাহ যালিমকে অবকাশ দেন, কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না।\" তারপর তিনি তিলাওয়াত করলেন: \"তোমার রবের পাকড়াও এমনই হয়, যখন তিনি জনপদসমূহকে পাকড়াও করেন তাদের যুলমে লিপ্ত অবস্থায়। নিশ্চয় তাঁর পাকড়াও বেদনাদায়ক, কঠিন\" (১১:১০২)।"
+          },
+          {
+            "en": "Al-Bukhari gives no grading of his own beyond placing it in his Sahih. The narration ends on 11:102, not on this verse; Ibn Kathir is the one who brings it here. None of the other commentaries consulted attaches a prophetic narration to this verse. Beside it, the verse removes a quiet inference: that delay means indifference, or that someone not yet stopped has got away. Lam yakunu mu'jizin negates the past. They were never out of reach, even in the years they seemed to be.",
+            "bn": "বুখারী নিজের সহীহ গ্রন্থে স্থান দেওয়া ছাড়া আলাদা কোনো মান উল্লেখ করেননি। বর্ণনাটি শেষ হয় ১১:১০২ আয়াতে, এ আয়াতে নয়। একে এখানে টেনে আনেন ইবন কাসীর। এখানে দেখা অন্য কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি। বর্ণনাটির পাশে রেখে পড়লে আয়াতটি চুপিসারে জন্মানো একটা ধারণা ভেঙে দেয়: দেরি মানে উদাসীনতা, কিংবা যাকে এখনো থামানো হয়নি সে বুঝি পার পেয়ে গেছে। লাম ইয়াকূনূ মু'জিযীন অতীতের অস্বীকার। তারা কখনোই নাগালের বাইরে ছিল না, যে বছরগুলোতে বাইরে মনে হচ্ছিল তখনও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Punishment Made Two",
+          "bn": "এক শাস্তি হলো দুই"
+        },
+        "p": [
+          {
+            "en": "Yuda'afu lahum al-'adhab. At-Tabari defines it plainly: their punishment is increased, two given in place of one. Over the reason, the commentators divide. As-Sa'di says it is made heavy because they went astray themselves and led others astray. Al-Baghawi reports the same under qila, it is said: for misleading others, and for their followers taking them as a model. That fits 11:19, which describes them as turning people from the way. 16:25, cited by none of them here, says those who mislead carry some of the burdens of those they misguide.",
+            "bn": "ইউদাআফু লাহুমুল আযাব। তাবারী সাদামাটা অর্থ বলেন: তাদের শাস্তি বাড়ানো হবে, একটার জায়গায় দুটি। কারণ নিয়ে অবশ্য তাফসীরকারদের মত আলাদা। সা'দী বলেন, শাস্তি কঠিন হবে, কারণ তারা নিজেরা পথ হারিয়েছে, অন্যদেরও পথ হারিয়েছে। বাগাভী 'বলা হয়' কথাটি দিয়ে একই মত আনেন: অন্যদের গুমরাহ করার কারণে, আর অনুসারীরা তাদের আদর্শ মেনে চলার কারণে। এটা ১১:১৯ আয়াতের সঙ্গে মেলে, যেখানে তাদের মানুষকে আল্লাহর পথ থেকে ফেরানো লোক বলা হয়েছে। আর ১৬:২৫ আয়াত, যা এখানে কেউ উল্লেখ করেননি, বলছে গুমরাহকারীরা যাদের গুমরাহ করেছে তাদের বোঝারও কিছু অংশ বইবে।"
+          },
+          {
+            "en": "Al-Qurtubi gives another measure: the punishment is in proportion to their disbelief and their sins. Ibn Kathir reads the doubling through the end of the verse. Allah gave them hearing, sight and hearts, and none of it availed them; they were deaf to hearing the truth and blind to following it. He cites 16:88: those who disbelieved and barred from the way of Allah, We will add punishment over the punishment for the corruption they caused. So, he concludes, they are punished for every command they left and every prohibition they committed.",
+            "bn": "কুরতুবী অন্য একটা মাপ দেন: শাস্তি হবে তাদের কুফর ও গুনাহের পরিমাণ অনুযায়ী। ইবন কাসীর দ্বিগুণ হওয়াটা পড়েন আয়াতের শেষাংশের আলোয়। আল্লাহ তাদের কান, চোখ ও অন্তর দিয়েছিলেন, কিন্তু কোনোটাই তাদের কাজে আসেনি। সত্য শোনার বেলায় তারা ছিল বধির, সত্য মানার বেলায় অন্ধ। তিনি ১৬:৮৮ আয়াত আনেন: যারা কুফরি করেছে আর আল্লাহর পথে বাধা দিয়েছে, তাদের ফাসাদের কারণে আমি শাস্তির উপর শাস্তি বাড়িয়ে দেব। তাই তাঁর সিদ্ধান্ত, যে আদেশ তারা ছেড়েছে আর যে নিষেধ তারা ভেঙেছে, তার প্রতিটির জন্যই তাদের শাস্তি হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Could Not, or Would Not",
+          "bn": "পারত না, নাকি চাইত না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records a dispute over this clause and lists three positions. The first: Allah describes their hearing and sight as sealed, so that they neither hear the truth as those who benefit nor see His proofs as those who are guided. Qatadah: deaf to the truth so they do not hear it, dumb so they do not speak it, blind so they do not see it. Ibn Abbas (RA): Allah came between the people of shirk and obedience to Him in this world and the next, the next being 68:42 and 68:43.",
+            "bn": "তাবারী এ বাক্যের অর্থ নিয়ে মতভেদের কথা জানান, আর তিনটি মত উল্লেখ করেন। প্রথম মত: আল্লাহ বলছেন, তাদের কান ও চোখে মোহর পড়েছে। তাই উপকার পাওয়া শ্রোতার মতো তারা সত্য শোনে না, হিদায়াত পাওয়া দর্শকের মতো আল্লাহর প্রমাণ দেখে না। কাতাদা বলেন: সত্যের ব্যাপারে বধির, তাই শোনে না; বোবা, তাই বলে না; অন্ধ, তাই দেখে না। ইবন আব্বাস (রাঃ) বলেন: আল্লাহ মুশরিকদের আর তাঁর আনুগত্যের মাঝে আড়াল টেনে দিয়েছেন, দুনিয়াতেও, আখিরাতেও। আখিরাতের কথা আছে ৬৮:৪২ ও ৬৮:৪৩ আয়াতে।"
+          },
+          {
+            "en": "The second position reads the protectors as their gods: they and their gods could not frustrate Allah, and it is the gods that had no hearing and no sight. At-Tabari reports this from Ibn Abbas only to set it aside, saying its route was too weak to mention. The third is grammatical, credited to some scholars of Arabic: the punishment is doubled because they could hear and did not, and could see and did not reflect on His proofs. A bi has dropped before ma, as in 2:10, and Arabic allows both.",
+            "bn": "দ্বিতীয় মতে রক্ষাকারী মানে তাদের উপাস্যরা। তারা আর তাদের উপাস্যরা আল্লাহকে অক্ষম করতে পারেনি, আর কান ও চোখ ছিল না ওই উপাস্যদেরই। তাবারী মতটি ইবন আব্বাস থেকে উল্লেখ করেন শুধু তা বাদ দেওয়ার জন্য। তিনি বলেন, এর সূত্র এতটাই দুর্বল যে তার উল্লেখই তিনি অপছন্দ করেন। তৃতীয় মতটি ব্যাকরণগত, আর এর কৃতিত্ব তিনি দেন কিছু আরবি ভাষাবিদকে। এ মতে শাস্তি দ্বিগুণ হবে, কারণ তারা শুনতে পারত অথচ শোনেনি, দেখতে পারত অথচ আল্লাহর প্রমাণ নিয়ে ভাবেনি। মা-এর আগে একটা বা অক্ষর উহ্য, যেমন ২:১০ আয়াতে আছে, আর আরবিতে দুই রূপই চলে।"
+          },
+          {
+            "en": "Al-Qurtubi adds two more. Ma may be temporal: the punishment is doubled for as long as they are able to hear and see, which is for ever, since Allah keeps them able in Hell. Or ma negates, and he reports why they could not. Al-Farra: because Allah sent them astray in the Preserved Tablet. Az-Zajjaj: their hatred and enmity for the Prophet ﷺ left them unable to listen to him or understand him. An-Nahhas adds that Arabs say a man cannot bear to look at someone when doing so weighs on him.",
+            "bn": "কুরতুবী আরও দুটি সম্ভাবনা যোগ করেন। মা হতে পারে সময়বাচক। তখন অর্থ: যতদিন তারা শুনতে ও দেখতে সক্ষম, ততদিন শাস্তি দ্বিগুণ, আর সেটা চিরকাল, কারণ আল্লাহ জাহান্নামে তাদের সে ক্ষমতা বহাল রাখবেন। অথবা মা না-বোধক। তখন তিনি জানান, তারা পারত না কেন। ফাররা বলেন, কারণ লাওহে মাহফূযে আল্লাহ তাদের গুমরাহ করেছেন। যাজ্জাজ বলেন, নবী ﷺ-এর প্রতি ঘৃণা ও শত্রুতা তাদের এমন করেছিল যে তাঁর কথা তারা শুনতেও পারত না, বুঝতেও পারত না। নাহহাস যোগ করেন, আরবরা বলে, কারও দিকে তাকানো মনের উপর ভারী হলে লোকে তার দিকে তাকাতেই পারে না।"
+          },
+          {
+            "en": "As-Sa'di takes az-Zajjaj's road: hating the truth and averse to it, they could not hear the signs of Allah with any benefit. At-Tabari chooses the reading of Ibn Abbas and Qatadah, and his reason holds both sides: they could not hear the truth or see it to any profit, because they were taken up with the disbelief they persisted in, away from using their faculties in obedience to Allah, and they did have hearing and sight. Al-Muyassar repeats that reason. The commentators' difference over sealing and refusal is left here as they left it.",
+            "bn": "সা'দী যাজ্জাজের পথ ধরেন। সত্যকে ঘৃণা করত আর তা থেকে দূরে সরে থাকত বলে তারা আল্লাহর আয়াত উপকার পাওয়ার মতো করে শুনতে পারত না। তাবারী বেছে নেন ইবন আব্বাস ও কাতাদার মত, আর তাঁর দেওয়া কারণ দুই দিকই ধরে রাখে। তারা সত্য শুনতে বা দেখতে পারত না এমনভাবে যাতে লাভ হয়, কারণ যে কুফরিতে তারা অটল ছিল তাতেই ব্যস্ত ছিল, আল্লাহর আনুগত্যে অঙ্গগুলো কাজে লাগানোর বদলে। অথচ তাদের কান ও চোখ ছিল। মুয়াসসার এই কারণটিই বলে। মোহর আর প্রত্যাখ্যান নিয়ে তাফসীরকারদের মতভেদ এখানে তেমনই রইল, যেমন তাঁরা রেখে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ears That Testify Later",
+          "bn": "কান সাক্ষ্য দেবে পরে"
+        },
+        "p": [
+          {
+            "en": "The cross-references show the same faculties at both ends of a life. Ibn Kathir cites 67:10, where the people of the Blaze say: had we been listening or reasoning, we would not be among its companions. Listening there is something they could have done and did not. As-Sa'di cites 74:49 to 74:51: what is the matter with them, turning from the reminder as if they were frightened donkeys fleeing from a lion? That is aversion drawn as a picture: people running from what they hear, not people who hear nothing.",
+            "bn": "তাফসীরকারদের উদ্ধৃত আয়াতগুলো জীবনের দুই প্রান্তে একই অঙ্গগুলোর ছবি দেখায়। ইবন কাসীর আনেন ৬৭:১০ আয়াত, যেখানে জাহান্নামবাসীরা বলবে: আমরা যদি শুনতাম বা বুঝতাম, তাহলে এই আগুনের বাসিন্দা হতাম না। সেখানে শোনা এমন কাজ, যা তারা করতে পারত অথচ করেনি। সা'দী আনেন ৭৪:৪৯ থেকে ৭৪:৫১ আয়াত: তাদের হলো কী যে উপদেশ থেকে মুখ ফিরিয়ে নেয়, যেন ভয় পাওয়া গাধা সিংহের সামনে থেকে পালাচ্ছে? এটা বিরাগের জীবন্ত ছবি। এরা কিছুই শোনে না এমন নয়, বরং যা শুনছে তা থেকেই দৌড়ে পালাচ্ছে।"
+          },
+          {
+            "en": "Other verses share the vocabulary. 7:179 speaks of those with eyes they do not see with and ears they do not hear with, a sentence that grants the organs and denies their use. 41:26 has the deniers telling each other not to listen to this Qur'an and to drown its recitation in noise, a refusal planned in advance. And 11:24, just after, turns this verse's last words into the parable of the blind and deaf against the seeing and hearing, and asks whether they are equal.",
+            "bn": "অন্য আয়াতেও একই শব্দভান্ডার। ৭:১৭৯ আয়াত এমন লোকদের কথা বলে, যাদের চোখ আছে কিন্তু তা দিয়ে দেখে না, কান আছে কিন্তু তা দিয়ে শোনে না। বাক্যটি অঙ্গগুলো স্বীকার করে, শুধু তাদের ব্যবহার অস্বীকার করে। ৪১:২৬ আয়াতে অবিশ্বাসীরা পরস্পরকে বলে, এই কুরআন শুনো না, তিলাওয়াতের সময় হট্টগোল করো। এ প্রত্যাখ্যান আগে থেকেই ঠিক করা। আর কাছেই ১১:২৪ আয়াত এ আয়াতের শেষ শব্দগুলোকে উপমায় রূপ দেয়, অন্ধ ও বধির বনাম দেখতে ও শুনতে পাওয়া মানুষ, তারপর জিজ্ঞেস করে, তারা কি সমান?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Diagnosis of Anyone",
+          "bn": "কারও রোগ ধরার আয়াত নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the people of 11:18 and 11:19, who invented lies about Allah and turned others from His way, and their state before Him. It licenses nothing against any living person or community. Nobody can see a seal on another's hearing, and the commentators who discuss it were explaining a verse, not passing sentence on neighbours. Nor is the verse about people whose ears or eyes do not work: at-Tabari and Ibn Kathir both say these people had hearing and sight.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সেটুকুই বর্ণনা করে, যা এর ভাষা বর্ণনা করে: ১১:১৮ ও ১১:১৯ আয়াতের সেই লোকেরা, যারা আল্লাহর নামে মিথ্যা রচনা করেছে আর মানুষকে তাঁর পথ থেকে ফিরিয়েছে, আর আল্লাহর সামনে তাদের অবস্থা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অন্যের কানে মোহর পড়েছে কি না, কেউ তা দেখতে পায় না। যে তাফসীরকারেরা মোহরের আলোচনা করেছেন, তাঁরা আয়াতের ব্যাখ্যা দিচ্ছিলেন, প্রতিবেশীর উপর রায় দিচ্ছিলেন না। যাদের কান বা চোখ কাজ করে না, আয়াতটি তাদের নিয়েও নয়। তাবারী ও ইবন কাসীর দুজনেই বলেন, এই লোকদের কান ছিল, চোখও ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Voice You Cannot Bear",
+          "bn": "যে কণ্ঠ সহ্য হয় না"
+        },
+        "p": [
+          {
+            "en": "Turned inward, the verse asks what I have stopped being able to hear. An-Nahhas's idiom is the place to start: a man cannot bear to look at someone when it weighs on him. The relative whose advice cannot be heard because of who gives it, the colleague whose correction lands as an attack, the verse read faster because it describes us. The ear is fine in each case. At-Tabari's word for what has taken its place is ishtighal: being so taken up with something that the faculties never turn elsewhere.",
+            "bn": "নিজের দিকে ফেরালে আয়াতটি জিজ্ঞেস করে, আমি কী শুনতে আর পারি না। শুরু করা যায় নাহহাসের উদ্ধৃত সেই চলতি কথা দিয়ে: কারও দিকে তাকানো মনের উপর ভারী হলে মানুষ তার দিকে তাকাতেই পারে না। এমন আত্মীয়, যাঁর উপদেশ শোনা যায় না শুধু তিনি দিচ্ছেন বলে। এমন সহকর্মী, যাঁর সংশোধন কানে আসে আক্রমণ হয়ে। এমন আয়াত, যা দ্রুত পড়ে ফেলি কারণ তা আমাদেরই কথা বলে। এর কোনোটিতেই কানের দোষ নেই। তাবারী অন্য যে জিনিসের কথা বলেন, তা হলো ইশতিগাল: কিছুতে এতটা ব্যস্ত থাকা যে অঙ্গগুলো আর অন্য দিকে ফেরেই না।"
+          },
+          {
+            "en": "So test what gets in, not whether you were present. When criticism reaches you this week, write down what was actually said before writing down what you think of the person who said it. When a verse seems aimed at you, slow down and read it twice. Ibn Kathir names the stakes: the hearing, sight and hearts were given, and the punishment is doubled because they availed nothing. The faculties are a trust, and the account is kept on their use.",
+            "bn": "তাই হিসাব নিন কী ভেতরে ঢুকল, শুধু উপস্থিত ছিলেন কি না তার নয়। এ সপ্তাহে কোনো সমালোচনা কানে এলে আগে লিখে রাখুন আসলে কী বলা হয়েছিল, তারপর লিখুন যিনি বলেছেন তাঁর সম্পর্কে আপনার কী মনে হয়। কোনো আয়াত আপনাকে লক্ষ্য করে বলা মনে হলে গতি কমান, আর আয়াতটা দুবার পড়ুন। ইবন কাসীর বলে দিয়েছেন কী ঝুঁকিতে আছে। কান, চোখ ও অন্তর দেওয়া হয়েছিল, আর শাস্তি দ্বিগুণ হয় এ কারণেই যে সেগুলো কোনো কাজে আসেনি। এই অঙ্গগুলো আমানত। হিসাব হবে এদের ব্যবহার নিয়ে।"
+          },
+          {
+            "en": "Carry these questions away. Whose voice do I stop hearing before it has finished? Is there a true sentence about me that I have quietly arranged never to be told? What am I so occupied with that the Qur'an I recite arrives as sound and leaves as sound? The verse closes on what those people could not hear and did not see. It leaves its reader asking what he can still hear today, and what he will do with it.",
+            "bn": "এই প্রশ্নগুলো সঙ্গে নিয়ে যান। কার কথা শেষ হওয়ার আগেই আমি শোনা বন্ধ করি? আমার সম্পর্কে এমন কোনো সত্য কথা কি আছে, যা কেউ যেন কখনো আমাকে না বলে, তার ব্যবস্থা আমি চুপচাপ করে রেখেছি? কোন জিনিসে আমি এতটা ডুবে আছি যে তিলাওয়াত করা কুরআন শব্দ হয়ে আসে আর শব্দ হয়েই চলে যায়? আয়াত শেষ হয় সেই লোকেরা কী শুনতে পারত না আর কী দেখত না, তা দিয়ে। পাঠকের কাছে সে রেখে যায় এই প্রশ্ন: আজ আমি এখনো কী শুনতে পাই, আর তা নিয়ে কী করব।"
+          }
+        ]
+      }
+    ]
+  },
   "11:24": {
     "sections": [
       {
