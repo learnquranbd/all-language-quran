@@ -451,6 +451,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Asked to Send Him Tomorrow",
+          "bn": "কাল ওকে পাঠিয়ে দিন"
+        },
+        "p": [
+          {
+            "en": "Surah Yusuf sets the scene in a few verses. In 12:8 and 12:9 the brothers resent that Yusuf and his brother are dearer to their father than they are, and talk of killing him or casting him out to some land; in 12:10 one of them proposes the well instead. Then they go to Ya'qub (AS). In 12:11 they ask why he does not trust them with Yusuf when they wish him well, and in 12:12 they ask outright: send him with us tomorrow, let him enjoy himself and play, and we will guard him.",
+            "bn": "সূরা ইউসুফ কয়েকটি আয়াতেই পটভূমি সাজিয়ে দেয়। ১২:৮ ও ১২:৯ আয়াতে ভাইদের ক্ষোভ, ইউসুফ আর তার ভাই বাবার কাছে তাদের চেয়ে বেশি প্রিয়। তারা তাকে মেরে ফেলার বা দূরে কোথাও ফেলে আসার কথা বলাবলি করে। ১২:১০ আয়াতে তাদেরই একজন বদলে কূপের প্রস্তাব দেয়। এরপর তারা ইয়াকুব (আঃ)-এর কাছে যায়। ১২:১১ আয়াতে জানতে চায়, আমরা তো ওর ভালোই চাই, তবু আপনি ইউসুফের ব্যাপারে আমাদের বিশ্বাস করেন না কেন? আর ১২:১২ আয়াতে সরাসরি আবদার: কাল ওকে আমাদের সঙ্গে পাঠিয়ে দিন, ও মজা করবে, খেলবে, আমরা ওকে আগলে রাখব।"
+          },
+          {
+            "en": "12:13 is the father's answer, thirteen Arabic words. Ibn Kathir frames it exactly so: Ya'qub said to his sons, in reply to what they had asked of him, sending Yusuf with them to graze in the open country. The answer is short and it has two halves, a grief and a fear. In 12:14 the brothers reply, and in 12:15 they take him. What happened at the well, and how they came home, belongs to the verses after; this one stays inside the house, on the eve of the journey.",
+            "bn": "১২:১৩ আয়াত বাবার জবাব, আরবিতে মোট ১৩টি শব্দ। ইবন কাসীর ঠিক এভাবেই প্রসঙ্গটা ধরেন: ছেলেরা ইউসুফকে সঙ্গে নিয়ে মাঠে পশু চরাতে যাওয়ার অনুমতি চেয়েছিল, তার জবাবে ইয়াকুব (আঃ) এ কথা বলেন। জবাবটা ছোট, আর তার দুটি ভাগ। একটা দুঃখ, একটা ভয়। ১২:১৪ আয়াতে ভাইয়েরা উত্তর দেয়, আর ১২:১৫ আয়াতে তাকে নিয়ে যায়। কূপের কাছে কী ঘটল, তারা কীভাবে ঘরে ফিরল, সেসব পরের আয়াতের কথা। এ আয়াত ঘরের ভেতরেই থাকে, যাত্রার আগের দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Obstacles in One Sentence",
+          "bn": "এক বাক্যে দুই বাধা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as a father laying two separate obstacles in the way of the request. The first: the mere fact of your going with him grieves me and weighs on me, because I cannot bear to be parted from him even for a short while; this, he writes, is one obstacle to sending him. Then, at the wa, and, comes a second obstacle: I fear the wolf will eat him while you are heedless of him, because he is young and cannot hold off a wolf.",
+            "bn": "সা'দী আয়াতটিকে এভাবে পড়েন: বাবা ছেলেদের আবদারের সামনে আলাদা দুটি বাধা রাখছেন। প্রথমটা হলো, তোমরা ওকে নিয়ে যাবে, শুধু এটুকুই আমাকে কষ্ট দেয়, ভারী লাগে। কারণ অল্প সময়ের জন্যও ওর বিচ্ছেদ আমি সইতে পারি না। সা'দী বলেন, ওকে পাঠানোর পথে এটা একটা বাধা। তারপর 'ওয়া', অর্থাৎ 'আর', থেকে শুরু দ্বিতীয় বাধা: আমার ভয় হয়, তোমরা যখন ওর দিকে খেয়াল রাখবে না, নেকড়ে ওকে খেয়ে ফেলবে। কারণ ও ছোট, নেকড়ের হাত থেকে নিজেকে বাঁচাতে পারবে না।"
+          },
+          {
+            "en": "At-Tabari joins the halves instead of separating them. His paraphrase: Ya'qub said to them, it grieves me that you take him with you to the open country, out of fear for him from the wolf, that it eat him while you are heedless and do not perceive. In his wording the fear is the reason for the grief, one feeling with its cause, where as-Sa'di counts two. The Arabic carries both readings, and neither commentator argues against the other; the difference lies in how each lays out the sentence.",
+            "bn": "তাবারী দুই ভাগকে আলাদা না করে জুড়ে দেন। তাঁর ভাষ্য: ইয়াকুব তাদের বললেন, তোমরা ওকে সঙ্গে করে মাঠে নিয়ে যাবে, এতে আমার দুঃখ হয়। দুঃখটা ওর জন্য নেকড়ের ভয়ে, পাছে তোমরা বেখেয়াল থাকো, টেরও না পাও, আর নেকড়ে ওকে খেয়ে ফেলে। তাবারীর বাক্যে ভয়টাই দুঃখের কারণ, অর্থাৎ অনুভূতি একটাই, সঙ্গে তার কারণ। সা'দী সেখানে দুটো গোনেন। আরবি বাক্যে দুই পাঠেরই জায়গা আছে, আর কোনো মুফাসসির অন্যজনের বিরুদ্ধে যুক্তি দেন না। তফাতটা শুধু বাক্যটা সাজানোর ধরনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ache Before Parting",
+          "bn": "বিদায়ের আগেই ব্যথা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi defines the word itself: huzn here is the pain of the heart at parting from one who is loved. The Muyassar says the same in its own words: his separation from me, when you take him to the pastures, pains my soul. Al-Qurtubi notes the grammar. An tadhhabu bihi stands in the position of the subject, meaning your going with him, so that it is the going itself that grieves. He is, al-Qurtubi says, telling them of his grief at Yusuf's absence.",
+            "bn": "বাগাভী শব্দটার সংজ্ঞাই দিয়ে দেন: এখানে 'হুযন' মানে প্রিয়জনের বিচ্ছেদে হৃদয়ের ব্যথা। মুয়াসসার নিজের ভাষায় একই কথা বলে: তোমরা ওকে চারণভূমিতে নিয়ে গেলে ওর বিচ্ছেদ আমার মনকে ব্যথা দেয়। কুরতুবী ব্যাকরণের দিকটা দেখান। 'আন তাযহাবূ বিহী' বাক্যে কর্তার জায়গায় বসেছে, মানে তোমাদের ওকে নিয়ে যাওয়া। অর্থাৎ দুঃখ দিচ্ছে যাওয়াটাই। কুরতুবীর ভাষায়, ইউসুফ চোখের আড়াল হলে তাঁর যে দুঃখ হবে, তিনি ছেলেদের সেটাই জানাচ্ছেন।"
+          },
+          {
+            "en": "Ibn Kathir explains where the grief comes from. It is hard on me, he has Ya'qub (AS) say, to be parted from him for as long as you are away with him, until he returns. He gives the reason: the excess of his love for the boy, because of the great good he discerned in him, the marks of prophethood, and completeness in character and in form. In this reading the grief is not weakness; it is a father who sees what his son is. Notice too the tense: yahzununi, it grieves me, is present. The parting has not happened yet, and the grief already has.",
+            "bn": "দুঃখটা কোথা থেকে আসে, ইবন কাসীর তা খুলে বলেন। তাঁর ভাষ্যে ইয়াকুব (আঃ) বলছেন: তোমরা ওকে নিয়ে যতক্ষণ বাইরে থাকবে, ও ফিরে না আসা পর্যন্ত ওর থেকে আলাদা থাকা আমার জন্য কঠিন। কারণটাও তিনি বলে দেন: ছেলের প্রতি বাবার গভীর ভালোবাসা। তিনি ওর মধ্যে বড় কল্যাণের আভাস দেখতেন, নবুওয়াতের লক্ষণ, স্বভাবে আর চেহারায় পূর্ণতা। এ পাঠে দুঃখটা দুর্বলতা নয়। এ এমন এক বাবার দুঃখ, যিনি জানেন তাঁর ছেলে কে। আরবি ক্রিয়াটাও খেয়াল করার মতো। 'ইয়াহযুনুনী', আমাকে দুঃখ দেয়, বর্তমান কালের ক্রিয়া। বিচ্ছেদ এখনো ঘটেনি, অথচ দুঃখ শুরু হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Beast From Every Side",
+          "bn": "যে আসে সব দিক থেকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi pauses on the word for wolf. Adh-dhi'b, he reports from Ahmad ibn Yahya, is taken from tadha'abat ar-rih, said of the wind when it comes from every direction; the word carries a hamza, Ahmad ibn Yahya says, because the wolf comes from every side. Al-Qurtubi then notes a reading. Warsh, from Nafi', reads adh-dhib without the hamza, because the hamza there is silent and follows a kasra, so it was lightened and became a ya.",
+            "bn": "কুরতুবী নেকড়ে শব্দটার কাছে একটু থামেন। আহমাদ ইবন ইয়াহইয়ার বরাতে তিনি জানান, 'আয-যি'ব' এসেছে 'তাযাআবাতির রীহ' থেকে। বাতাস যখন চারদিক থেকে বইতে থাকে, তখন এ কথা বলা হয়। আহমাদ ইবন ইয়াহইয়া বলেন, শব্দটায় হামযা আছে, কারণ নেকড়ে আসে সব দিক থেকে। তারপর কুরতুবী একটি কিরাআতের কথা বলেন। ওয়ারশ নাফি' থেকে হামযা ছাড়াই 'আয-যীব' পড়েন। সেখানে হামযা সাকিন, তার আগে কাসরা, তাই উচ্চারণ হালকা করতে গিয়ে হামযা 'ইয়া' হয়ে গেছে।"
+          },
+          {
+            "en": "The second half of the fear is wa-antum 'anhu ghafilun, while you are heedless of him. Every gloss of ghafilun in these commentaries describes distraction. Al-Qurtubi: occupied with the grazing. The Muyassar: heedless and busy. Ibn Kathir fills in the scene: I fear you will be taken up with your shooting and your herding, and a wolf will come and eat him while you do not notice. At-Tabari glosses the word as la tash'urun, you do not perceive, and as-Sa'di reads the clause as a state: at the time of your heedlessness.",
+            "bn": "ভয়ের দ্বিতীয় অংশ 'ওয়া আনতুম আনহু গাফিলূন', আর তোমরা থাকবে ওর ব্যাপারে বেখেয়াল। এ তাফসীরগুলোতে 'গাফিলূন' শব্দের যত ব্যাখ্যা এসেছে, সবই অন্যমনস্কতার কথা বলে। কুরতুবী: পশু চরানোয় ব্যস্ত। মুয়াসসার: বেখেয়াল, অন্য কাজে মগ্ন। ইবন কাসীর পুরো দৃশ্যটা এঁকে দেন: আমার ভয় হয়, তোমরা তীর ছোড়া আর পশু চরানো নিয়ে মেতে থাকবে, এর মধ্যে নেকড়ে এসে ওকে খেয়ে ফেলবে, আর তোমরা টেরও পাবে না। তাবারী শব্দটার অর্থ করেন 'লা তাশউরূন', তোমরা টের পাবে না। আর সা'দী অংশটাকে অবস্থার বর্ণনা হিসেবে পড়েন: তোমাদের বেখেয়াল থাকার মুহূর্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Dream Behind the Fear",
+          "bn": "ভয়ের পেছনে এক স্বপ্ন"
+        },
+        "p": [
+          {
+            "en": "Why a wolf, of all dangers? Two commentators answer with a dream, and they report it with different degrees of confidence. Al-Qurtubi gives it as the account of al-Kalbi: Ya'qub (AS) saw in his sleep that the wolf attacked Yusuf, and that is why he feared it for him. Al-Baghawi states the same dream without naming anyone, as the reason behind the words: Ya'qub had seen in a dream that a wolf sprang on Yusuf, he feared it, and so he said this. Neither gives a chain of narration for it in the text.",
+            "bn": "এত বিপদ থাকতে নেকড়ে কেন? দুজন মুফাসসির এর উত্তরে একটি স্বপ্নের কথা আনেন, তবে দুজনের ভাষায় নিশ্চয়তার মাত্রা আলাদা। কুরতুবী একে কালবীর বর্ণনা হিসেবে দেন: ইয়াকুব (আঃ) ঘুমের মধ্যে দেখেছিলেন, নেকড়ে ইউসুফের উপর ঝাঁপিয়ে পড়ছে। সে কারণেই তিনি ওর জন্য নেকড়েকে ভয় করতেন। বাগাভী কারও নাম না নিয়ে একই স্বপ্নকে এ কথার কারণ হিসেবে বলেন: ইয়াকুব স্বপ্নে দেখেছিলেন একটি নেকড়ে ইউসুফের উপর হামলা করছে, তাই তাঁর ভয় ছিল, আর সেজন্যই এ কথা বলেন। দুজনের কেউই পাঠে এর বর্ণনাসূত্র দেন না।"
+          },
+          {
+            "en": "Al-Qurtubi then brings a fuller version under the words it is said. Ya'qub saw himself on the top of a mountain, with Yusuf in the bed of the valley; ten wolves had surrounded the boy, wanting to eat him, and one of them held the rest off; then the earth split and Yusuf hid in it for three days. The report explains itself: the ten were his brothers, when they joined in plotting to kill him; the one who defended him was the eldest, Yahudha; and the hiding in the earth was his three days in the pit. Ma'arif al-Qur'an retells it, citing al-Qurtubi. The verse itself mentions no dream.",
+            "bn": "এরপর কুরতুবী 'বলা হয়' কথাটি জুড়ে দিয়ে আরও বিস্তারিত একটি রূপ আনেন। ইয়াকুব দেখলেন, তিনি পাহাড়ের চূড়ায়, আর ইউসুফ নিচে উপত্যকার মাঝখানে। দশটি নেকড়ে ছেলেটাকে ঘিরে ধরেছে, খেয়ে ফেলতে চায়। তাদের একটি বাকিদের ঠেকিয়ে রাখল। তারপর মাটি ফেটে গেল, আর ইউসুফ তাতে তিন দিন লুকিয়ে রইলেন। বর্ণনাটি নিজেই নিজের ব্যাখ্যা দেয়। দশ নেকড়ে তাঁর ভাইয়েরা, যখন তারা তাঁকে হত্যার চক্রান্তে একজোট হলো। যে তাঁকে রক্ষা করল, সে বড় ভাই ইয়াহুদা। আর মাটিতে লুকানো মানে কূপে কাটানো তাঁর তিনটি দিন। মাআরিফুল কুরআন কুরতুবীর বরাত দিয়ে কাহিনিটা আবার বলে। আয়াতে নিজে কোনো স্বপ্নের উল্লেখ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wolf, or the Brothers Themselves?",
+          "bn": "নেকড়ে, নাকি ভাইয়েরাই?"
+        },
+        "p": [
+          {
+            "en": "A sharper question follows, and al-Qurtubi keeps both answers. The first, under it is said: he spoke out of fear of them, not of any animal, and his fear was that they would kill the boy. He meant them by the wolf, and named the wolf to keep his meaning veiled from them, musataratan lahum. Al-Qurtubi adds: Ibn 'Abbas said, so he called them wolves. The fetched text gives no chain for that line. Ma'arif al-Qur'an, citing al-Qurtubi, gives it as a narration from Ibn 'Abbas: because of the dream Ya'qub (AS) sensed danger at their hands, but out of wisdom he did not lay the truth bare.",
+            "bn": "এখান থেকে আরও তীক্ষ্ণ একটি প্রশ্ন ওঠে, আর কুরতুবী দুটো উত্তরই রেখে দেন। প্রথমটা 'বলা হয়' দিয়ে: তিনি কোনো পশুর ভয়ে নয়, ছেলেদের ভয়েই এ কথা বলেছিলেন। ভয় ছিল, তারাই ওকে মেরে ফেলবে। নেকড়ে বলে তিনি তাদেরই বুঝিয়েছেন, আর আসল কথাটা তাদের কাছে ঢেকে রাখতে নেকড়ের নাম নিয়েছেন। কুরতুবী যোগ করেন, ইবন আব্বাস (রাঃ) বলেছেন: এভাবে তিনি তাদের নেকড়ে নাম দিলেন। হাতে থাকা পাঠে এ কথার কোনো সূত্র নেই। মাআরিফুল কুরআন কুরতুবীর বরাতে একে ইবন আব্বাস (রাঃ)-এর বর্ণনা হিসেবে আনে: স্বপ্নের কারণে ইয়াকুব (আঃ) ভাইদের হাতে বিপদের আশঙ্কা করেছিলেন, কিন্তু প্রজ্ঞার কারণে সত্যটা খুলে বলেননি।"
+          },
+          {
+            "en": "The second answer follows in al-Qurtubi, also under it is said: he did not fear them for Yusuf, and had he feared them he would not have sent him with them. He feared the wolf, because it is the commonest thing feared in open country. Ma'arif al-Qur'an names a cause of the same plain kind, the abundance of wolves in Canaan, as one of two possibilities beside the dream. Al-Qurtubi does not choose between the readings, and the verse does not settle it; both are left standing here.",
+            "bn": "দ্বিতীয় উত্তরটাও কুরতুবী আনেন 'বলা হয়' দিয়ে: ইউসুফকে নিয়ে তিনি ছেলেদের ভয় করেননি। ভয় করলে তাদের সঙ্গে ওকে পাঠাতেনই না। তিনি ভয় করেছিলেন নেকড়েকেই, কারণ খোলা প্রান্তরে মানুষ সবচেয়ে বেশি ভয় পায় এটাকেই। মাআরিফুল কুরআনও একই রকম সাদামাটা একটা কারণ বলে: কেনান অঞ্চলে নেকড়ের আধিক্য। স্বপ্নের পাশাপাশি এটাকে সে দুই সম্ভাবনার একটি হিসেবে রাখে। কুরতুবী কোনো পাঠকে বেছে নেন না, আয়াতও প্রশ্নটার মীমাংসা করে না। তাই দুটোই এখানে পাশাপাশি থাকল।"
+          },
+          {
+            "en": "What can be said is what the words themselves do. On either reading, Ya'qub (AS) named a wolf and their inattention, not their envy or their intentions. Ma'arif al-Qur'an, on the next verse, explains why a father might speak so: saying it plainly would have been painful for all of them, and might have deepened the brothers' enmity, so that even if they dropped their plan now they could return to it later under some other excuse. That is Ma'arif's reading of his restraint; the verse records only his words.",
+            "bn": "নিশ্চিত করে বলা যায় শুধু এটুকু, শব্দগুলো নিজে কী করে। যে পাঠই ধরা হোক, ইয়াকুব (আঃ) নাম নিয়েছেন একটি নেকড়ের আর ছেলেদের অমনোযোগের, তাদের হিংসা বা মতলবের নয়। মাআরিফুল কুরআন পরের আয়াতের আলোচনায় এর একটা কারণ দেখায়। খোলাখুলি বললে সবার জন্যই কথাটা হতো কষ্টের, আর ভাইদের শত্রুতা হয়তো আরও বাড়ত। তখন এবার পরিকল্পনা ছেড়ে দিলেও পরে অন্য কোনো অজুহাতে তারা আবার সেদিকে ফিরতে পারত। বাবার এই সংযম নিয়ে এটা মাআরিফের ব্যাখ্যা। আয়াত শুধু তাঁর কথাগুলোই তুলে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Worry Made Into Cover",
+          "bn": "দুশ্চিন্তা যখন আড়াল হলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment on the verse with one sentence: fa-akhadhu min fihi hadhihi l-kalimah, wa-ja'aluha 'udhrahum fima fa'aluh. They took this word from his mouth and made it their excuse for what they did. His English abridgement says the same: they heard these words from his mouth and used them in their response afterwards. The wolf a father feared became the wolf his sons would name. The fault Ibn Kathir describes lies in the taking. How the excuse was delivered, and how the father received it, belongs to 12:17 and 12:18.",
+            "bn": "ইবন কাসীর এ আয়াতের ব্যাখ্যা শেষ করেন একটি বাক্যে: 'ফাআখাযূ মিন ফীহি হাযিহিল কালিমাহ, ওয়া জাআলূহা উযরাহুম ফীমা ফাআলূহ।' তারা তাঁর মুখ থেকে কথাটা তুলে নিল, আর সেটাকেই নিজেদের কাজের অজুহাত বানাল। তাঁর ইংরেজি সংক্ষেপেও একই কথা: তারা তাঁর মুখে এ কথা শুনেছিল, পরে নিজেদের জবাবে সেটাই কাজে লাগায়। বাবা যে নেকড়ের ভয় করেছিলেন, ছেলেরা পরে সেই নেকড়ের নামই নেবে। ইবন কাসীর যে দোষের কথা বলেন, তা কথাটা তুলে নেওয়ায়। অজুহাতটা কীভাবে পেশ হলো আর বাবা কীভাবে তা নিলেন, সেটা ১২:১৭ ও ১২:১৮ আয়াতের বিষয়।"
+          },
+          {
+            "en": "Their reply in 12:14 came, as Ibn Kathir puts it, there and then: if the wolf should set on him and eat him from among us, while we are a band, we would then be ruined and helpless. Al-Qurtubi: a band who would see the wolf and not drive it off? Then we are losers in keeping our flocks, for if we cannot defend our brother from a wolf, we are still less able to defend our sheep. He also records two other glosses of khasirun, ignorant of his right, and helpless. They answer the wolf. To the father's grief, the first half of 12:13, no reply comes.",
+            "bn": "১২:১৪ আয়াতে তাদের জবাব, ইবন কাসীরের ভাষায়, এল সঙ্গে সঙ্গেই: আমরা একটা দল থাকতে নেকড়ে যদি আমাদের মাঝখান থেকে ওর উপর হামলা করে খেয়ে ফেলে, তাহলে তো আমরা ধ্বংস, অক্ষম। কুরতুবীর ব্যাখ্যা: আমরা এমন দল যে নেকড়ে দেখেও তাড়াতে পারব না? তাহলে তো পাল পাহারাতেও আমরা ব্যর্থ। ভাইকে নেকড়ের হাত থেকে বাঁচাতে না পারলে ছাগল-ভেড়াকে বাঁচাতে আরও কম পারব। 'খাসিরূন' শব্দের আরও দুটি অর্থ তিনি উল্লেখ করেন: ওর হক সম্পর্কে অজ্ঞ, আর অক্ষম। তারা জবাব দেয় নেকড়ের কথার। বাবার দুঃখের কথা, অর্থাৎ ১২:১৩ আয়াতের প্রথম অংশ, জবাব পায় না।"
+          },
+          {
+            "en": "As-Sa'di closes the exchange. Once they had smoothed the way for their father, setting out the reasons for sending the boy and removing the obstacles, he allowed him to go with them, li-ajli unsihi, for the sake of his enjoyment. None of the commentaries fetched for this verse faults that consent. The brothers' own word for themselves in 12:12, la-hafizun, guardians, comes back in 12:63 over a younger brother, and the father's reply there, in 12:64, is treated in its own place.",
+            "bn": "সা'দী কথোপকথনটা শেষ করেন এভাবে। ছেলেরা যখন বাবার সামনে পথ পরিষ্কার করে দিল, পাঠানোর কারণগুলো তুলে ধরল আর বাধাগুলো সরিয়ে দিল, তখন তিনি ওকে তাদের সঙ্গে যেতে দিলেন, 'লিআজলি উনসিহী', ওর আনন্দের জন্য। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর তাঁর এই সম্মতিতে দোষ ধরে না। ১২:১২ আয়াতে ভাইয়েরা নিজেদের বলেছিল 'লাহাফিযূন', রক্ষক। শব্দটা ১২:৬৩ আয়াতে আবার ফেরে ছোট আরেক ভাইকে নিয়ে, আর সেখানে বাবার জবাব, ১২:৬৪ আয়াত, আলাদা জায়গায় আলোচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Spoken Without Blame",
+          "bn": "অভিযোগ ছাড়া ভয়ের কথা"
+        },
+        "p": [
+          {
+            "en": "The verse gives a reader something rare: a prophet naming his own feelings aloud. Ya'qub (AS) does not hide his grief, as if love for one child were something to be embarrassed about, and he does not dress his fear up as an accusation. He says what he feels and what he fears, in the plainest words, to the very people he is anxious about. Many conversations in a family go wrong in the opposite way, with worry spoken as anger, or love left unsaid until it is too late to say.",
+            "bn": "আয়াতটি পাঠকের সামনে বিরল একটা জিনিস রাখে: একজন নবী মুখ ফুটে নিজের অনুভূতির কথা বলছেন। ইয়াকুব (আঃ) দুঃখ লুকান না, যেন এক সন্তানের প্রতি ভালোবাসা লজ্জার কিছু। আবার ভয়কে অভিযোগের পোশাকও পরান না। যাদের নিয়ে তাঁর উদ্বেগ, তাদেরকেই তিনি সবচেয়ে সহজ ভাষায় জানান, কী অনুভব করছেন আর কিসের ভয় পাচ্ছেন। পরিবারের অনেক কথাবার্তা ভেঙে যায় ঠিক উল্টো পথে। দুশ্চিন্তা বেরোয় রাগ হয়ে, আর ভালোবাসার কথা না-বলাই থেকে যায়, যতক্ষণ না বলার সময় পেরিয়ে যায়।"
+          },
+          {
+            "en": "The verse speaks as well to whoever is entrusted. The brothers had said, we will guard him; the father's fear was the hour when guardians are busy with something else. Parents, teachers, anyone handed the care of a child or of someone weaker can ask where that hour falls in their own day. And Ibn Kathir's sentence is a warning to listeners. Another person's honest worry, heard and stored away, can become someone's script. The wrong in that belongs to whoever takes the words, never to the person who spoke them.",
+            "bn": "যার হাতে কারও দায়িত্ব, আয়াতটি তাকেও কিছু বলে। ভাইয়েরা বলেছিল, আমরা ওকে আগলে রাখব। বাবার ভয় ছিল সেই মুহূর্তটা নিয়ে, যখন পাহারাদার অন্য কাজে ব্যস্ত। বাবা-মা, শিক্ষক, যার হাতেই কোনো শিশু বা দুর্বল মানুষের দেখভাল, তিনি ভেবে দেখতে পারেন, নিজের দিনে সেই মুহূর্তটা কোথায় আসে। আর ইবন কাসীরের বাক্যটি শ্রোতার জন্য সতর্কবার্তা। অন্যের সরল দুশ্চিন্তা শুনে মনে রেখে দিলে তা কারও সাজানো গল্পের উপকরণ হয়ে যেতে পারে। সে অন্যায়ের দায় কথাটা যে তুলে নেয় তার, যিনি বলেছেন তাঁর কখনো নয়।"
+          },
+          {
+            "en": "Two cautions belong here. The verse describes what these brothers planned and said, inside one family's story; it licenses nothing against any living person or community, and no reader may cast a sibling, a step-relative or a rival family as Yusuf's brothers on its strength. And none of the commentaries fetched for this verse attaches a prophetic hadith to it; the dreams and the wolves-as-brothers reading come as reports, labelled as such above. What stays is the father: a man who loved openly, feared honestly, and said both without wounding anyone.",
+            "bn": "দুটি সতর্কতা এখানে জরুরি। এ আয়াত একটি পরিবারের কাহিনির ভেতরে এই ভাইদের পরিকল্পনা আর কথার বর্ণনা দেয়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এর জোরে কোনো পাঠক নিজের ভাই, সৎ আত্মীয় বা প্রতিপক্ষ পরিবারকে ইউসুফের ভাইদের জায়গায় বসাতে পারেন না। আর এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করে না। স্বপ্নগুলো আর নেকড়ে মানে ভাইয়েরা, এই পাঠ এসেছে বর্ণনা হিসেবে, উপরে সেভাবেই চিহ্নিত। থেকে যান বাবা নিজে, যিনি খোলাখুলি ভালোবেসেছেন, সৎভাবে ভয় পেয়েছেন, আর কাউকে আঘাত না করে দুটোই বলেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "12:16": {
     "sections": [
       {

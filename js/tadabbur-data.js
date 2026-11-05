@@ -21831,6 +21831,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold firm when refusing what is wrong begins to cost you, and never use your power over another person to push them toward what Allah has forbidden.",
     "lessonBn": "অন্যায়কে 'না' বলতে যখন দাম দিতে হয়, তখনও অটল থাকুন। আর অন্যের উপর আপনার ক্ষমতা দিয়ে কখনো তাকে আল্লাহর নিষিদ্ধ কাজের দিকে ঠেলবেন না।"
+  },
+  "12:13": {
+    "reflectionEn": "His sons ask for Yusuf for a single day: send him with us tomorrow, let him graze and play, and we will guard him. Ya'qub answers with two plain feelings. It grieves me that you would take him away. And I fear a wolf may eat him while you are not watching. He accuses no one, and he does not pretend to be at ease. He names the ache of parting and the danger of one careless hour. The next verses show what was later made of his words, but a worried father's honesty is not the wrong in this story. When I fear for someone I love, can I say so without blaming anyone? And when someone trusts me with what they love, do I truly keep watch?",
+    "reflectionBn": "ছেলেরা মাত্র একদিনের জন্য ইউসুফকে চাইছে: কাল ওকে আমাদের সঙ্গে পাঠিয়ে দিন, ও ঘুরেফিরে খাবে, খেলবে, আমরা ওকে আগলে রাখব। ইয়াকুব (আঃ) জবাবে দুটো সোজা অনুভূতির কথা বলেন। তোমরা ওকে নিয়ে যাবে, এতেই আমার কষ্ট হয়। আর ভয় হয়, তোমরা যখন খেয়াল রাখবে না, তখন নেকড়ে এসে ওকে খেয়ে ফেলবে। তিনি কাউকে দোষ দেন না, আবার নিশ্চিন্ত থাকার ভানও করেন না। বিচ্ছেদের ব্যথা আর এক মুহূর্তের অসাবধানতার বিপদ, দুটোই তিনি মুখ ফুটে বলেন। পরের আয়াতগুলো দেখায় তাঁর কথাকে পরে কী কাজে লাগানো হয়েছিল। কিন্তু উদ্বিগ্ন বাবার সততা এ কাহিনির অন্যায় নয়। প্রিয় কারও জন্য ভয় হলে আমি কি কাউকে দোষ না দিয়ে সেটা বলতে পারি? আর কেউ যখন তার প্রিয় কিছু আমার হাতে তুলে দেয়, আমি কি সত্যিই চোখ রাখি?",
+    "pointsEn": [
+      "When I last feared for someone I love, did I say it plainly, or did it come out as anger or silence?",
+      "Whom have I been trusted to look after, a child, a parent, a friend, and where has my attention drifted from them?",
+      "When someone worries about me, do I hear it as an insult, or as love that deserves a gentle answer?",
+      "Have I ever taken another person's honest words and turned them into cover for what I had already decided?",
+      "What do I find hard to let go of even for a day, and have I entrusted it to Allah as well as to people?"
+    ],
+    "pointsBn": [
+      "শেষবার প্রিয় কারও জন্য যখন ভয় পেয়েছি, সেটা কি সোজাসুজি বলেছি, নাকি রাগ বা চুপ থাকার ভেতর দিয়ে বেরিয়ে এসেছে?",
+      "সন্তান, বাবা-মা, বন্ধু, কাকে দেখে রাখার দায়িত্ব আমার উপর? কোথায় তাদের থেকে আমার মনোযোগ সরে গেছে?",
+      "কেউ আমাকে নিয়ে দুশ্চিন্তা করলে আমি কি সেটাকে অপমান ভাবি, নাকি ভালোবাসা ভেবে নরম করে জবাব দিই?",
+      "অন্যের সরল কথাকে কি কখনো আগে থেকে ঠিক করে রাখা কাজের আড়াল বানিয়েছি?",
+      "কোন জিনিস একদিনের জন্যও ছাড়তে আমার কষ্ট হয়? সেটা কি মানুষের পাশাপাশি আল্লাহর হাতেও সঁপে দিয়েছি?"
+    ],
+    "lessonEn": "Name your love and your fear honestly, without accusing anyone, and when you are trusted with what someone loves, stay watchful over it.",
+    "lessonBn": "কাউকে দোষ না দিয়ে নিজের ভালোবাসা আর ভয়ের কথা সৎভাবে বলুন, আর কেউ তার প্রিয় কিছু আপনার জিম্মায় দিলে সেদিকে সজাগ থাকুন।"
   }
 };
 
