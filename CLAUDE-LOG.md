@@ -15,6 +15,11 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## Usage at last check (2026-10-17): v1002 live. Tadabbur articles: Bengali review, EN cleanup and every logged Open EN item DONE. Next: RESUME block below.
 
 ## WAVE 2 (2026-11-02): more ayahs.
+WAVE 2 resumed 2026-11-05 (USER: "continue enrich waves"): 7d 22% at start, NORMAL.
+USER 2026-11-05: "don't push and deploy, until I said so - keep running the Enrich wave, with 10 agents". -> commit locally only; NO push, NO firebase deploy until the user says; 10 drafters in parallel (overrides budget.js cap of 5). Unpushed from 76364b2d (v1396) on.
+STOPPED 2026-11-05 at v1511 (116 ayat this run, v1396-v1511, 19:82 last). Nothing in flight. 7d 36% (reset Mon 9 Nov 16:00). ALL v1396-v1511 COMMITTED LOCALLY, NOT PUSHED, NOT DEPLOYED (user hold). RESUME: queue.js -> 19:87 (PREP ready) 19:91 20:18 ...; 10 drafters.
+USER 2026-11-05 (later): "once done, stop for today" -> NO new launches; ship the 10 in flight, then stop. Still NO push/deploy.
+NOTE for future drafters: shipped 18:74 (v1500) already explains 18:80-81 in one paragraph + Muslim 2662; an 18:80 draft must not retell it.
 GROUP SHIP 1: v1310-v1340 (31 keys) pushed + deployed 2026-11-02. USER: "Enrich with 10 agents" -> chose "Tadabbur: more ayahs".
 GROUP SHIP 3: v1363-v1393 live 2026-11-02 ~15:45. GROUP SHIP 4: v1394-v1395 (7:109, 7:119) pushed + deployed ~16:15. STOPPED at user request ("once done, stop"); nothing in flight. 7d reset Mon 2 Nov 16:00 (now ~0%, next reset Mon 9 Nov 16:00). RESUME: queue.js -> 7:133 (PREP.md ready) 7:145 7:152 ...; user pacing last said: 2 drafters at a time until 98%, then 1.
 RESUME: after the 16:00 reset, 12 drafters; 504 targets left; next: 5:21 5:33 5:38 5:51 5:68 5:75 5:87 5:101 5:114 6:10 6:21 6:34. Superseded single-key audit folders (audit/2_4, 2_68, 3_33, ...) are leftovers, safe to delete.
@@ -78,6 +83,122 @@ New target list tools/tadabbur-targets-2.json (generator tools/make-tadabbur-tar
 | 4:152-153 | v1359 | DONE |
 | 4:176 | v1361 | DONE |
 | 5:12 | v1362 | DONE |
+| 7:133 | v1399 | DONE |
+| 7:145 | v1397 | DONE |
+| 7:152 | v1396 | DONE |
+| 7:172 | v1400 | DONE |
+| 7:176 | v1398 | DONE |
+| 7:191 | v1401 | DONE |
+| 7:201 | v1402 | DONE |
+| 8:22 | v1403 | DONE |
+| 8:32 | v1404 | DONE |
+| 8:41 | v1406 | DONE |
+| 8:48 | v1407 | DONE |
+| 8:62 | v1405 | DONE |
+| 8:69 | v1408 | DONE |
+| 9:3 | v1409 | DONE |
+| 9:14 | v1412 | DONE |
+| 9:28 | v1416 | DONE |
+| 9:34 | v1419 | DONE |
+| 9:45 | v1413 | DONE |
+| 9:61 | v1414 | DONE |
+| 9:68 | v1411 | DONE (shared commit with 9:82) |
+| 9:74 | v1417 | DONE |
+| 9:82 | v1411 | DONE |
+| 9:91 | v1415 | DONE |
+| 9:95 | v1418 | DONE |
+| 9:103 | v1425 | DONE |
+| 9:113 | v1422 | DONE |
+| 9:126 | v1420 | DONE |
+| 10:3 | v1426 | DONE |
+| 10:17 | v1421 | DONE |
+| 10:35 | v1427 | DONE |
+| 10:47 | v1423 | DONE |
+| 10:54 | v1424 | DONE |
+| 10:70 | v1428 | DONE |
+| 10:75 | v1429 | DONE |
+| 10:93 | v1430 | DONE |
+| 10:104 | v1431 | DONE |
+| 11:10 | v1432 | DONE |
+| 11:20 | v1438 | DONE |
+| 11:33 | v1433 | DONE |
+| 11:37 | v1435 | DONE |
+| 11:49 | v1434 | DONE |
+| 11:52 | v1436 | DONE |
+| 11:71 | v1437 | DONE |
+| 11:78 | v1441 | DONE |
+| 11:99 | v1439 | DONE |
+| 11:105 | v1440 | DONE |
+| 11:120 | v1442 | DONE |
+| 12:2 | v1443 | DONE |
+| 12:10 | v1444 | DONE |
+| 12:13 | v1447 | DONE |
+| 12:21 | v1445 | DONE |
+| 12:32 | v1446 | DONE |
+| 12:45 | v1448 | DONE |
+| 12:56 | v1449 | DONE |
+| 12:62 | v1450 | DONE |
+| 12:83 | v1452 | DONE |
+| 12:92 | v1451 | DONE |
+| 12:107 | v1454 | DONE |
+| 13:4 | v1453 | DONE |
+| 13:13 | v1458 | DONE |
+| 13:22 | v1455 | DONE |
+| 13:33 | v1456 | DONE |
+| 13:43 | v1460 | DONE |
+| 14:9 | v1459 | DONE |
+| 14:18 | v1457 | DONE |
+| 14:32 | v1461 | DONE |
+| 14:48 | v1462 | DONE |
+| 15:1 | v1463 | DONE |
+| 15:15 | v1464 | DONE |
+| 15:28 | v1465 | DONE |
+| 15:40 | v1466 | DONE |
+| 15:53 | v1468 | DONE |
+| 15:71 | v1467 | DONE |
+| 15:78 | v1472 | DONE |
+| 15:94 | v1470 | DONE |
+| 16:12 | v1469 | DONE |
+| 16:14 | v1471 | DONE |
+| 16:27 | v1473 | DONE |
+| 16:48-49 | v1478 | DONE |
+| 16:67 | v1474 | DONE |
+| 16:75 | v1475 | DONE |
+| 16:84 | v1477 | DONE |
+| 16:88 | v1476 | DONE |
+| 16:102 | v1479 | DONE |
+| 16:110 | v1481 | DONE |
+| 16:120 | v1480 | DONE |
+| 16:124 | v1482 | DONE |
+| 17:4 | v1487 | DONE |
+| 17:17 | v1483 | DONE |
+| 17:29 | v1485 | DONE |
+| 17:41 | v1484 | DONE |
+| 17:49 | v1486 | DONE |
+| 17:59 | v1488 | DONE |
+| 17:64 | v1489 | DONE |
+| 17:72 | v1493 | DONE |
+| 17:85 | v1490 | DONE |
+| 17:95 | v1491 | DONE |
+| 17:101 | v1492 | DONE |
+| 18:10 | v1498 | DONE |
+| 18:15 | v1494 | DONE |
+| 18:32 | v1495 | DONE |
+| 18:40 | v1497 | DONE |
+| 18:55 | v1496 | DONE |
+| 18:60 | v1499 | DONE |
+| 18:74 | v1500 | DONE |
+| 18:84 | v1505 | DONE |
+| 18:96 | v1501 | DONE |
+| 18:106 | v1503 | DONE |
+| 19:2 | v1504 | DONE |
+| 19:12 | v1502 | DONE |
+| 19:23 | v1507 | DONE |
+| 19:32 | v1506 | DONE |
+| 19:43-44 | v1508 | DONE |
+| 19:62 | v1510 | DONE |
+| 19:72 | v1509 | DONE |
+| 19:82 | v1511 | DONE |
 
 ## LIVE STATE (2026-10-26 16:01, DEPTH PASS COMPLETE 2026-10-26: 301/301 short articles deep; all 1061 Tadabbur articles at deep template. USER (16:12): "run 10 at a time"; USER (later): "stop once all done for now" -> no new launches; ship the 9 in flight, then STOP. USER: no per-ayah deploy reminders; ship + push in GROUPS of >30 gated drafts (not per ayah); deploy once per group. Last group ship v1302-v1308 (7 articles). DEPLOYED 2026-10-26: live sw.js = lq-v1308 (user ran deploy; agent deploy also succeeded this time). 301/301 done. v1099-v1186 pushed, v1187-v1308 committed. LIVE = v1098: NOT DEPLOYED, firebase deploy is blocked for the agent by the permission classifier, USER MUST RUN `firebase deploy --only hosting` and verify live sw.js = lq-v1186. Budget at stop: 7d 0% (window reset at 16:00, next reset Mon 2 Nov 16:00), 5h ~32% (resets 18:40). In flight: none. Queue: empty. NEXT: `node tools/wip/round11/upgrade-queue.js` -> 32:16 32:17 33:35 are PREPPED (32:16-17 is NOT a key; the shipped articles are 32:16 and 32:17 separately), then prep onward; launch 5 drafters per the skill. Lessons today: when cutting a sentence post-draft, verify the write happened and re-gate BEFORE shipping (55:46-47 shipped once with the line intact and once under the paragraph floor); ship+commit one key before shipping the next (v1147-v1148 bump-only, folded into v1149); when cutting a Bengali sentence match by position, not by pasted string (nukta encoding differs); never force-push)
 
