@@ -4423,6 +4423,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:130": {
+    "sections": [
+      {
+        "h": {
+          "en": "Held Back to a Term",
+          "bn": "নির্দিষ্ট সময় পর্যন্ত মুলতবি"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa, so, and the so points back to 20:129: had a word not gone before from your Lord, and a named term, the punishment would have been binding at once. Al-Qurtubi draws the link in one line: the meaning is, pay them no heed, for their punishment has a fixed time that comes neither earlier nor later. Ibn Kathir says Allah spoke this to His Prophet ﷺ to console him. The reckoning is not his to bring; his part is what follows.",
+            "bn": "আয়াতের শুরুতে আছে ফা, অর্থাৎ কাজেই। এই কাজেই ফিরে যায় ২০:১২৯-এর দিকে: রবের পক্ষ থেকে আগে একটি কথা স্থির না হলে, আর একটি নির্ধারিত মেয়াদ না থাকলে, শাস্তি তখনই অবধারিত হয়ে যেত। কুরতুবী সংযোগটা এক লাইনে ধরিয়ে দেন: অর্থ হলো, ওদের নিয়ে মাথা ঘামাবেন না, কারণ ওদের শাস্তির একটা বাঁধা সময় আছে, যা আগেও আসবে না, পিছিয়েও যাবে না। ইবন কাসীর বলেন, আল্লাহ তাঁর নবী ﷺ-কে সান্ত্বনা দিতেই এ কথা বলেছেন। হিসাব নেওয়ার দায় তাঁর নয়। তাঁর কাজ এর পরে যা আসছে, সেটুকু।"
+          },
+          {
+            "en": "Fa-sbir 'ala ma yaquluna: so be patient over what they say. The commentators fill in the words. At-Tabari names the deniers of Allah's signs among the Prophet's own people, saying that he is a sorcerer, that he is mad, a poet, and the like. Al-Qurtubi's list is sorcerer, soothsayer and liar. The Muyassar speaks of descriptions and falsehoods, and Ibn Kathir of their denial of him. The verse describes what those men said to him; it licenses nothing against any living person or community.",
+            "bn": "ফাসবির আলা মা ইয়াকূলূন: কাজেই তারা যা বলে তাতে ধৈর্য ধরুন। কী বলত, তা তাফসীরকারেরা খুলে বলেন। তাবারী বলেন, নবীর নিজ কওমের যারা আল্লাহর আয়াতকে মিথ্যা বলত, তারা বলত তিনি জাদুকর, তিনি পাগল, তিনি কবি, আরও এ ধরনের কথা। কুরতুবীর তালিকায় আছে জাদুকর, গণক আর মিথ্যাবাদী। মুয়াসসার বলে নানা অপবাদ আর বানোয়াট কথার কথা, ইবন কাসীর বলেন তাঁকে মিথ্যা প্রতিপন্ন করার কথা। আয়াত শুধু জানায়, সেই লোকেরা তাঁকে কী বলত। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ থেকে মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Was the Patience Lifted?",
+          "bn": "ধৈর্যের হুকুম কি উঠে গেছে?"
+        },
+        "p": [
+          {
+            "en": "On the first clause the commentators part ways. Al-Baghawi states it flatly: the verse of fighting abrogated it. Al-Qurtubi reports that view with it is said, and beside it the opposite: it is not abrogated, since the disbelievers were not wiped out after the verse of fighting; most of them remained. Both views stand in the sources, and this article does not choose between them. Neither commentator applies the abrogation to the second half of the verse, the command to glorify.",
+            "bn": "প্রথম বাক্যটি নিয়ে তাফসীরকারদের পথ আলাদা হয়ে যায়। বাগাভী সোজা বলে দেন, কিতালের আয়াত এ হুকুম রহিত করেছে। কুরতুবী এই মত আনেন 'বলা হয়' দিয়ে, আর পাশে রাখেন উল্টো মতটিও: হুকুম রহিত হয়নি, কারণ কিতালের আয়াতের পরেও কাফিরদের নির্মূল করা হয়নি, তাদের বেশির ভাগই রয়ে গিয়েছিল। দুটো মতই উৎসে আছে, এ লেখা কোনোটি বেছে নেয় না। তবে রহিত হওয়ার কথা দুজনের কেউই আয়াতের দ্বিতীয় অংশে, পবিত্রতা ঘোষণার হুকুমে, টানেননি।"
+          },
+          {
+            "en": "As-Sa'di reads the two commands as one movement. Allah ordered His Messenger to be patient with the harm of their words, and ordered him to take something in exchange for it and to seek help against it through glorifying his Lord with praise, in these times of special merit. Ma'arif al-Qur'an calls patience and prayer the two weapons the Qur'an gave him against the torments aimed at him. Its reasoning is practical: one who turns to prayer trusts that no one can harm him without Allah's will, and is freed from brooding on anger and revenge.",
+            "bn": "সা'দী দুটো হুকুমকে একটাই চলার পথ হিসেবে পড়েন। আল্লাহ তাঁর রসূলকে আদেশ দিলেন, ওদের মুখের কষ্ট সয়ে নিন। সঙ্গে আদেশ দিলেন, এর বদলে অন্য কিছু নিয়ে নিন, আর এর মোকাবিলায় সাহায্য চান রবের প্রশংসাসহ তাসবীহের মাধ্যমে, এই বিশেষ মর্যাদার সময়গুলোতে। মাআরিফুল কুরআন ধৈর্য আর নামাজকে বলে দুটি হাতিয়ার, যা কুরআন তাঁকে দিয়েছিল তাঁর দিকে ছোড়া যন্ত্রণার জবাবে। এর যুক্তিটা বাস্তব জীবনের। যে নামাজের দিকে ফেরে, সে ভরসা রাখে, আল্লাহর ইচ্ছা ছাড়া কেউ তার ক্ষতি করতে পারে না। ফলে রাগ আর প্রতিশোধের চিন্তায় পুড়তে হয় না তাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With the Praise of Your Lord",
+          "bn": "রবের প্রশংসার সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Wa-sabbih bi-hamdi rabbika: and glorify with the praise of your Lord. At-Tabari glosses it as pray, with your praise of your Lord, and pauses on the grammar. The phrase says the praise of your Lord, but the sense is your praising your Lord, the way people say the beating of Zayd pleased me and means my beating Zayd. Al-Baghawi gives two glosses: pray by your Lord's command, or, as another saying has it, pray to Allah with praise and extolling of Him.",
+            "bn": "ওয়া সাব্বিহ বিহামদি রব্বিকা: আর আপনার রবের প্রশংসার সঙ্গে তাঁর পবিত্রতা ঘোষণা করুন। তাবারী এর ব্যাখ্যা দেন, রবের প্রতি আপনার প্রশংসা নিয়ে নামাজ পড়ুন। তারপর ব্যাকরণের দিকে একটু থামেন। শব্দে আছে আপনার রবের প্রশংসা, কিন্তু অর্থ হলো রবকে আপনার প্রশংসা করা। যেমন বলা হয়, যায়দের মার খাওয়া আমাকে খুশি করেছে, আর বোঝায় আমার হাতে যায়দের মার খাওয়া। বাগাভী দুটো ব্যাখ্যা দেন। এক, রবের আদেশে নামাজ পড়ুন। দুই, আরেক মতে, আল্লাহর প্রশংসা ও গুণগান করতে করতে তাঁর জন্য নামাজ পড়ুন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a lesson from the order of the two words. Glorifying comes first and praise follows, a hint that whoever is enabled to remember Allah or to worship Him should not grow proud of it, but should praise Allah, since without His enabling the worship would not have happened. It allows that the words could mean remembrance and praise in general, or the prescribed prayers, and then notes that the fixed times named next plainly point to the times of prayer.",
+            "bn": "মাআরিফুল কুরআন শব্দ দুটির ক্রম থেকে একটা শিক্ষা বের করে। আগে তাসবীহ, পরে হামদ। এতে ইঙ্গিত আছে, যাকে আল্লাহর যিকির বা ইবাদতের তাওফীক দেওয়া হয়েছে, সে যেন এ নিয়ে অহংকার না করে। বরং আল্লাহর প্রশংসা করে, কারণ তাঁর তাওফীক ছাড়া সেই ইবাদত তার পক্ষে সম্ভবই হতো না। তাফসীরটি মেনে নেয়, শব্দগুলো সাধারণভাবে যিকির ও প্রশংসাও বোঝাতে পারে, ফরজ নামাজও বোঝাতে পারে। তারপর বলে, ঠিক পরেই যে বাঁধা সময়গুলোর নাম এসেছে, সেগুলো পরিষ্কারভাবে নামাজের সময়ের দিকেই ইশারা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Sunrise, Before Sunset",
+          "bn": "সূর্য ওঠার আগে, ডোবার আগে"
+        },
+        "p": [
+          {
+            "en": "Qabla tulu'i sh-shamsi wa-qabla ghurubiha: before the rising of the sun and before its setting. Here the sources come closest to agreement. At-Tabari, al-Baghawi, Ibn Kathir and the Muyassar take the first as the dawn prayer and the second as 'Asr, and at-Tabari reports the same from Qatada. Al-Qurtubi says most interpreters read the verse as a pointer to the five prayers. At-Tabari also reports Ibn 'Abbas (RA) on these words: the prescribed prayer, and Ibn Jurayj: 'Asr.",
+            "bn": "কাবলা তুলূইশ শামসি ওয়া কাবলা গুরূবিহা: সূর্য ওঠার আগে আর ডোবার আগে। এখানে এসে উৎসগুলো ঐকমত্যের সবচেয়ে কাছাকাছি। তাবারী, বাগাভী, ইবন কাসীর ও মুয়াসসার প্রথমটিকে ধরেন ফজরের নামাজ, দ্বিতীয়টিকে আসর। তাবারী কাতাদা থেকেও একই কথা বর্ণনা করেন। কুরতুবী বলেন, অধিকাংশ ব্যাখ্যাকার আয়াতটিকে পাঁচ ওয়াক্ত নামাজের ইঙ্গিত হিসেবে পড়েছেন। তাবারী এ শব্দগুলো সম্পর্কে ইবন আব্বাস (রাঃ)-এর কথাও আনেন: ফরজ নামাজ। আর ইবন জুরাইজের কথা: আসর।"
+          },
+          {
+            "en": "One source draws the line differently. Ma'arif al-Qur'an takes before the sunrise as Fajr, but reads before it sets as covering both the midday prayer, Zuhr, and 'Asr. At-Tabari, al-Qurtubi, al-Baghawi and the Muyassar place Zuhr later in the verse, under the ends of the day. The same pairing of times returns in 50:39, which has almost the same words: be patient over what they say, and glorify with the praise of your Lord before the rising of the sun and before the setting.",
+            "bn": "একটি উৎস রেখাটা টানে অন্যভাবে। মাআরিফুল কুরআন সূর্য ওঠার আগে বলতে ফজর ধরে, কিন্তু ডোবার আগে বলতে ধরে দুপুরের যোহর আর আসর দুটোই। তাবারী, কুরতুবী, বাগাভী ও মুয়াসসার যোহরকে রাখেন আয়াতের পরের অংশে, দিনের প্রান্তগুলোর মধ্যে। সময়ের এই জোড়া আবার ফিরে আসে ৫০:৩৯ আয়াতে, প্রায় একই শব্দে: তারা যা বলে তাতে ধৈর্য ধরুন, আর সূর্য ওঠার আগে ও ডোবার আগে রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hours Taken From the Night",
+          "bn": "রাত থেকে নেওয়া প্রহর"
+        },
+        "p": [
+          {
+            "en": "Wa-min ana'i l-layli fa-sabbih: and in hours of the night, glorify. Ana' are the night's hours; at-Tabari, al-Qurtubi and al-Baghawi give the singular as 'iny. At-Tabari takes it as the last 'Isha', prayed once some hours of night have passed; Ibn Zayd, in his report, calls it al-'atama. Qatada, also via at-Tabari, says Maghrib and 'Isha', and al-Baghawi says the same. Ibn Kathir reads it as night prayer, tahajjud, in its hours, and adds that some take it to mean Maghrib and 'Isha'. Ma'arif al-Qur'an includes all three.",
+            "bn": "ওয়া মিন আনাইল লাইলি ফাসাব্বিহ: আর রাতের কিছু প্রহরেও পবিত্রতা ঘোষণা করুন। আনা মানে রাতের প্রহরগুলো। তাবারী, কুরতুবী ও বাগাভী এর একবচন দেন ইনয়। তাবারী একে ধরেন এশার নামাজ, যা পড়া হয় রাতের কয়েক প্রহর পেরিয়ে গেলে। তাঁর বর্ণনায় ইবন যায়দ একে বলেন আতামা। তাবারীর বর্ণনাতেই কাতাদা বলেন মাগরিব ও এশা, বাগাভীও একই কথা বলেন। ইবন কাসীর একে পড়েন রাতের প্রহরে তাহাজ্জুদ হিসেবে, আর যোগ করেন, কেউ কেউ এর অর্থ নিয়েছেন মাগরিব ও এশা। মাআরিফুল কুরআন তিনটিকেই ধরে।"
+          },
+          {
+            "en": "Others widen the hours. Al-Qurtubi records a group who said the verse means voluntary prayer, and names al-Hasan as holding it. At-Tabari carries three reports on the word itself: Ibn 'Abbas (RA), prayer across the whole of the night; al-Hasan, its beginning, its middle and its end; and Ibn 'Abbas again by another chain, the depth of the night. Al-Baghawi reports Ibn 'Abbas as meaning the first part of the night.",
+            "bn": "কেউ কেউ প্রহরের পরিসর আরও বাড়ান। কুরতুবী একটি দলের কথা উল্লেখ করেন, যারা বলেছেন আয়াতের উদ্দেশ্য নফল নামাজ, আর এ মতের ধারক হিসেবে নাম নেন হাসানের। শব্দটি নিয়ে তাবারী তিনটি বর্ণনা আনেন। ইবন আব্বাস (রাঃ): গোটা রাত জুড়েই নামাজ। হাসান: রাতের শুরু, মাঝখান আর শেষ। আবার অন্য সূত্রে ইবন আব্বাস (রাঃ): রাতের গভীর অংশ। বাগাভী ইবন আব্বাস (রাঃ)-এর বরাতে বলেন, রাতের প্রথম অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Day Has Ends",
+          "bn": "দিনের প্রান্ত কেন একাধিক"
+        },
+        "p": [
+          {
+            "en": "Wa-atrafa n-nahar: and at the ends of the day. At-Tabari and the Muyassar say Zuhr and Maghrib. In at-Tabari's reports Qatada says Zuhr alone, Ibn Zayd says Maghrib and the dawn prayer, and Ibn Jurayj says the prescribed prayer. Al-Baghawi's first gloss is Zuhr, then he gives Zuhr and Maghrib under it is said. As-Sa'di reads the ends as the day's beginning and its close, a general term after particular ones. Ibn Kathir pairs them with the hours of the night as their counterpart, and Ma'arif al-Qur'an sees added stress on Fajr and Maghrib.",
+            "bn": "ওয়া আতরাফান নাহার: আর দিনের প্রান্তগুলোতে। তাবারী ও মুয়াসসার বলেন যোহর ও মাগরিব। তাবারীর বর্ণনায় কাতাদা বলেন শুধু যোহর, ইবন যায়দ বলেন মাগরিব ও ফজর, আর ইবন জুরাইজ বলেন ফরজ নামাজ। বাগাভীর প্রথম ব্যাখ্যা যোহর, তারপর 'বলা হয়' দিয়ে আনেন যোহর ও মাগরিব। সা'দী প্রান্তগুলো পড়েন দিনের শুরু ও শেষ হিসেবে, নির্দিষ্টের পরে আসা এক ব্যাপক শব্দ। ইবন কাসীর এগুলোকে রাখেন রাতের প্রহরের জোড়া হিসেবে, তার বিপরীত দিকে। আর মাআরিফুল কুরআন এখানে দেখে ফজর ও মাগরিবের উপর বাড়তি জোর।"
+          },
+          {
+            "en": "A day has two ends, so why ends in the plural? At-Tabari answers that Zuhr falls at the close of the day's first half and the opening of its second, two edges at once, and sunset makes a third. Or only the two edges that meet at Zuhr are meant, put in the plural as in 66:4, which says qulubukuma, your hearts, of two people. Al-Qurtubi gives both, notes that Ibn Furak pointed to the second, then adds a third: the day is meant as a kind, and its edges recur every day. In 11:114 the Qur'an does use the dual, tarafayi n-nahar.",
+            "bn": "দিনের তো প্রান্ত দুটি, তাহলে বহুবচন কেন? তাবারীর জবাব, যোহর পড়ে দিনের প্রথম ভাগের শেষে আর দ্বিতীয় ভাগের শুরুতে, তাই সে একসঙ্গে দুই প্রান্তে। আর সূর্যাস্ত হলো তৃতীয় প্রান্ত। অথবা উদ্দেশ্য শুধু যোহরের সময়ে মিলে যাওয়া দুই প্রান্ত, বলা হয়েছে বহুবচনে। যেমন ৬৬:৪ আয়াতে দুজনের বেলায় বলা হয়েছে কুলূবুকুমা, তোমাদের অন্তরসমূহ। কুরতুবী দুটো ব্যাখ্যাই দেন, আর জানান, দ্বিতীয়টির দিকে ইঙ্গিত করেছেন ইবন ফুরাক। তারপর যোগ করেন তৃতীয় একটি: দিন শব্দটি এখানে জাতিবাচক, প্রতিদিনই তার প্রান্ত ফিরে আসে, তাই বহুবচন। ১১:১১৪ আয়াতে অবশ্য কুরআন দ্বিবচনই ব্যবহার করেছে, তারাফায়িন নাহার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Jarir and the Full Moon",
+          "bn": "জারীর আর পূর্ণিমার চাঁদ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, al-Baghawi and Ibn Kathir all cite Jarir ibn 'Abdullah (RA) here. Muslim's wording (633) runs: \"We were sitting with the Messenger of Allah ﷺ when he looked at the moon on the night of the full moon and said: 'You will see your Lord as you see this moon; you will not crowd each other in seeing Him. So if you are able not to be overcome in a prayer before the rising of the sun and before its setting,' meaning 'Asr and Fajr. Then Jarir recited: And glorify with the praise of your Lord before the rising of the sun and before its setting.\"",
+            "bn": "তাবারী, বাগাভী ও ইবন কাসীর তিনজনই এখানে জারীর ইবন আবদুল্লাহ (রাঃ)-এর বর্ণনা আনেন। মুসলিমের পাঠ (৬৩৩) এরকম: \"আমরা আল্লাহর রসূল ﷺ-এর কাছে বসে ছিলাম। পূর্ণিমার রাতে তিনি চাঁদের দিকে তাকিয়ে বললেন: 'তোমরা তোমাদের রবকে দেখবে যেমন এই চাঁদকে দেখছ। তাঁকে দেখতে তোমাদের একে অন্যের সঙ্গে ভিড় করতে হবে না। কাজেই যদি পারো যে সূর্য ওঠার আগের আর ডোবার আগের নামাজে তোমরা পরাস্ত হবে না,' অর্থাৎ আসর ও ফজর। তারপর জারীর তিলাওয়াত করলেন: আর সূর্য ওঠার আগে ও ডোবার আগে আপনার রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করুন।\""
+          },
+          {
+            "en": "In Muslim's text the Prophet's sentence stops at before its setting, and it is Jarir who then recites this verse. Al-Bukhari's wording of the same report (554) closes the sentence with then do so, and the verse recited there is in the words of 50:39, before the setting. The narration speaks of the believers seeing their Lord; the article reports that as the hadith states it and adds nothing to it. What binds it to this verse is the pair of prayers.",
+            "bn": "মুসলিমের পাঠে নবী ﷺ-এর বাক্য থেমে যায় ডোবার আগে পর্যন্ত এসে, আর এরপর এ আয়াত তিলাওয়াত করেন জারীর নিজে। একই বর্ণনা বুখারীর পাঠে (৫৫৪) বাক্যটি শেষ হয় 'তাহলে তা-ই করো' দিয়ে, আর সেখানে তিলাওয়াত করা আয়াতের শব্দ ৫০:৩৯-এর, অর্থাৎ ডোবার আগে। বর্ণনাটি মুমিনদের রবকে দেখার কথা বলে। হাদীস যেমন বলেছে, এ লেখা তেমনই জানাল, নিজের পক্ষ থেকে কিছু যোগ করল না। এ আয়াতের সঙ্গে এর বাঁধন হলো ওই দুই নামাজ।"
+          },
+          {
+            "en": "Ibn Kathir sets a second report beside it, which Muslim also records (634) from Abu Bakr ibn 'Umara ibn Ruwayba, from his father: \"I heard the Messenger of Allah ﷺ say: 'No one who prayed before the rising of the sun and before its setting will enter the Fire,' meaning Fajr and 'Asr. A man from Basra said to him: Did you hear this from the Messenger of Allah ﷺ? He said: Yes. The man said: And I bear witness that I heard it from the Messenger of Allah ﷺ; my ears heard it and my heart retained it.\" It does not mention the verse.",
+            "bn": "ইবন কাসীর এর পাশে রাখেন আরেকটি বর্ণনা, যা মুসলিমও এনেছেন (৬৩৪), আবু বকর ইবন উমারা ইবন রুআইবা থেকে, তিনি তাঁর পিতা থেকে: \"আমি আল্লাহর রসূল ﷺ-কে বলতে শুনেছি: 'যে সূর্য ওঠার আগে আর ডোবার আগে নামাজ পড়েছে, সে কখনো জাহান্নামে ঢুকবে না,' অর্থাৎ ফজর ও আসর। বসরার এক লোক তাঁকে বলল: আপনি কি নিজে আল্লাহর রসূল ﷺ-এর কাছে এটা শুনেছেন? তিনি বললেন: হ্যাঁ। লোকটি বলল: আমিও সাক্ষ্য দিচ্ছি, আমি আল্লাহর রসূল ﷺ-এর কাছে এটা শুনেছি। আমার দুই কান শুনেছে, আর আমার অন্তর তা ধরে রেখেছে।\" এ বর্ণনায় আয়াতটির উল্লেখ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tarda or Turda",
+          "bn": "তারদা, নাকি তুরদা"
+        },
+        "p": [
+          {
+            "en": "La'allaka tarda: that you may be content. At-Tabari records that the readers differed. The general body of readers of Medina and Iraq read tarda, with the ta' open: you will be pleased. 'Asim and al-Kisa'i read turda, with the ta' rounded: you will be made pleased, and the same is reported from Abu 'Abd ar-Rahman as-Sulami. Al-Qurtubi and al-Baghawi name the turda readers more narrowly, as al-Kisa'i and Abu Bakr's transmission from 'Asim.",
+            "bn": "লাআল্লাকা তারদা: যাতে আপনি সন্তুষ্ট হতে পারেন। তাবারী জানান, কারীদের মধ্যে পাঠের মতভেদ ছিল। মদীনা ও ইরাকের অধিকাংশ কারী পড়েছেন তারদা, তা-তে যবর দিয়ে: আপনি সন্তুষ্ট হবেন। আসিম ও কিসাঈ পড়েছেন তুরদা, তা-তে পেশ দিয়ে: আপনাকে সন্তুষ্ট করা হবে। আবু আবদুর রহমান সুলামী থেকেও এমন বর্ণনা আছে। কুরতুবী ও বাগাভী তুরদা পাঠকদের নাম দেন আরও সুনির্দিষ্টভাবে: কিসাঈ, আর আসিম থেকে আবু বকরের বর্ণনা।"
+          },
+          {
+            "en": "On tarda, at-Tabari says the sense is that Allah gives to you until you are pleased with His gift and reward, and he reports Ibn Zayd, the reward, and Ibn Jurayj, with what you are given. On turda, the sense becomes: may Allah make you pleased for your worship of Him. His verdict is that both are widespread readings of the cities, agreed in meaning, since when Allah pleases him he is pleased, so whoever reads either is correct. Al-Qurtubi's glosses run parallel: rewarded with what pleases you, or given what pleases you.",
+            "bn": "তারদা পাঠে তাবারীর মতে অর্থ হলো, আল্লাহ আপনাকে দিতে থাকবেন, যতক্ষণ না আপনি তাঁর দান ও প্রতিদানে সন্তুষ্ট হন। তিনি ইবন যায়দের কথা আনেন: প্রতিদান। আর ইবন জুরাইজের কথা: যা আপনাকে দেওয়া হবে তাতে। তুরদা পাঠে অর্থ দাঁড়ায়: আপনার ইবাদতের বিনিময়ে আল্লাহ যেন আপনাকে সন্তুষ্ট করে দেন। তাবারীর রায়, দুটোই বিভিন্ন শহরে প্রচলিত পাঠ, অর্থেও এক। কারণ আল্লাহ যখন তাঁকে সন্তুষ্ট করেন, তিনি সন্তুষ্ট হন। তাই যে পাঠই কেউ পড়ুক, সে ঠিক পড়ল। কুরতুবীর ব্যাখ্যাও একই ধারায় চলে: যাতে আপনি এমন প্রতিদান পান, যাতে আপনি খুশি হন, অথবা যাতে আপনাকে খুশি হওয়ার মতো কিছু দেওয়া হয়।"
+          },
+          {
+            "en": "Al-Baghawi widens it with two further sayings: that Allah will be pleased with you, as 19:55 says of Isma'il (AS) that he was pleasing to his Lord, and that you will be pleased with intercession, as 93:5 says, your Lord will give you and you will be pleased. Ibn Kathir also points to 93:5. As-Sa'di reads it as contentment with the reward Allah gives now and later, a heart at rest and an eye cooled by worship, so that the harm is consoled and patience grows light.",
+            "bn": "বাগাভী আরও দুটি মত এনে পরিসর বাড়ান। এক, আল্লাহ আপনার উপর সন্তুষ্ট হবেন, যেমন ১৯:৫৫ আয়াতে ইসমাঈল (আঃ) সম্পর্কে বলা হয়েছে, তিনি ছিলেন রবের কাছে সন্তোষভাজন। দুই, আপনি শাফাআত পেয়ে সন্তুষ্ট হবেন, যেমন ৯৩:৫ বলে, আপনার রব আপনাকে দেবেন, আর আপনি সন্তুষ্ট হবেন। ইবন কাসীরও ৯৩:৫-এর দিকেই ইশারা করেন। সা'দী এটিকে পড়েন আল্লাহর দেওয়া দুনিয়া ও আখিরাতের প্রতিদানে সন্তুষ্টি হিসেবে। মন স্থির হয়, ইবাদতে চোখ জুড়ায়। ফলে কষ্টের সান্ত্বনা মেলে, আর ধৈর্য হালকা হয়ে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pleasure Never Withdrawn",
+          "bn": "যে সন্তুষ্টি আর ফেরানো হবে না"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records (6549) from Abu Sa'id al-Khudri (RA) that the Messenger of Allah ﷺ said: \"Allah will say to the people of Paradise: O people of Paradise. They will say: Here we are, our Lord, at Your service. He will say: Are you pleased? They will say: Why should we not be pleased, when You have given us what You have not given anyone of Your creation? He will say: I will give you better than that. They will say: O Lord, what is better than that? He will say: I will bestow My good pleasure upon you, and I will never be displeased with you after it.\"",
+            "bn": "বুখারী (৬৫৪৯) আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: \"আল্লাহ জান্নাতবাসীদের বলবেন: হে জান্নাতবাসীরা! তারা বলবে: হে আমাদের রব, আমরা হাজির, আপনার খেদমতে। তিনি বলবেন: তোমরা কি সন্তুষ্ট? তারা বলবে: কেন সন্তুষ্ট হব না, আপনি তো আমাদের এমন কিছু দিয়েছেন যা আপনার সৃষ্টির আর কাউকে দেননি? তিনি বলবেন: আমি তোমাদের এর চেয়েও উত্তম কিছু দেব। তারা বলবে: হে রব, এর চেয়ে উত্তম আর কী হতে পারে? তিনি বলবেন: আমি তোমাদের উপর আমার সন্তুষ্টি নাযিল করব, এরপর আর কখনো তোমাদের উপর অসন্তুষ্ট হব না।\""
+          },
+          {
+            "en": "The narration is general and does not name this verse; Ibn Kathir cites it from the Sahih beside the word tarda. Read whole, the verse begins with what they say and ends with what you will be content with, and between them it sets prayer at fixed points of the day and night. The next verse turns his eyes from what others were given to enjoy, and 20:132 carries the same prayer into his household, telling him to bid his family pray and to persevere in it.",
+            "bn": "বর্ণনাটি সাধারণ, এ আয়াতের নাম এতে নেই। ইবন কাসীর সহীহ থেকে এটি এনে রেখেছেন তারদা শব্দের পাশে। একসঙ্গে পড়লে দেখা যায়, আয়াত শুরু হয় তারা যা বলে তা দিয়ে, আর শেষ হয় আপনি যাতে সন্তুষ্ট হবেন তা দিয়ে। মাঝখানে বসানো দিন আর রাতের বাঁধা সময়ের নামাজ। পরের আয়াত অন্যদের ভোগের সামগ্রী থেকে তাঁর চোখ ফিরিয়ে নেয়। আর ২০:১৩২ সেই নামাজকেই নিয়ে যায় তাঁর ঘরের ভেতরে: পরিবারকে নামাজের আদেশ দিন, আর নিজে তাতে অবিচল থাকুন।"
+          }
+        ]
+      }
+    ]
+  },
   "20:132": {
     "sections": [
       {

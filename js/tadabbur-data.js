@@ -23451,6 +23451,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When something you trusted is shown to be powerless, look at what failed you instead of hunting for someone to blame; exposing a falsehood is not the wrong.",
     "lessonBn": "যার উপর ভরসা করেছিলেন, তা অক্ষম বলে ধরা পড়লে দোষ চাপানোর লোক না খুঁজে দেখুন কোথায় ঠকেছেন। মিথ্যাকে উন্মোচন করা অন্যায় নয়।"
+  },
+  "20:130": {
+    "reflectionEn": "The verse before has just said that the reckoning for those who mock is held back to an appointed term. So the Prophet ﷺ is not told to answer them, or to wait for their ruin. He is told to bear what they say, and then he is handed a timetable: glorify your Lord with His praise before the sun rises and before it sets, in hours of the night, and at the ends of the day. Words that wound are met with words of praise, set at fixed points of every day, and the verse closes on a promise: that you may be content. When people's talk cuts me, where do I go first, and does my day have fixed places to go back to?",
+    "reflectionBn": "আগের আয়াত জানিয়ে দিয়েছে, যারা বিদ্রূপ করে তাদের হিসাব এক নির্দিষ্ট সময় পর্যন্ত মুলতবি। তাই নবী ﷺ-কে বলা হয়নি তাদের জবাব দিতে, কিংবা তাদের পতনের অপেক্ষায় বসে থাকতে। বলা হয়েছে, তারা যা বলে তাতে ধৈর্য ধরুন। তারপর হাতে তুলে দেওয়া হয়েছে একটা সময়সূচি: সূর্য ওঠার আগে আর ডোবার আগে রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করুন, রাতের কিছু প্রহরে, আর দিনের প্রান্তগুলোতেও। যে কথা আঘাত করে, তার জবাব আসে প্রশংসার কথায়, প্রতিদিনের বাঁধা সময়ে। আর আয়াত শেষ হয় একটি আশ্বাসে: যাতে আপনি সন্তুষ্ট হতে পারেন। মানুষের কথা যখন আমাকে কাটে, আমি প্রথমে কোথায় যাই? আমার দিনে কি এমন বাঁধা জায়গা আছে, যেখানে বারবার ফিরে যাওয়া যায়?",
+    "pointsEn": [
+      "When someone's words hurt me this week, did I reach first for a reply, or for my Lord?",
+      "Which of the prayers before sunrise and before sunset do I most often let slip, and what usually crowds it out?",
+      "Do I treat the fixed times of prayer as interruptions to my day, or as the places my day is built around?",
+      "Can I bear an insult without waiting, even secretly, to see the one who said it brought down?",
+      "What would it look like for me to be content with what my Lord gives, rather than with what people say of me?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কারও কথায় কষ্ট পেয়ে আমি প্রথমে কী খুঁজেছি, জবাব দেওয়ার কথা, নাকি আমার রবকে?",
+      "সূর্য ওঠার আগের আর ডোবার আগের নামাজের মধ্যে কোনটা আমার সবচেয়ে বেশি ছুটে যায়? সাধারণত কী এসে সেটাকে ঠেলে সরিয়ে দেয়?",
+      "নামাজের বাঁধা সময়গুলোকে আমি কি দিনের কাজে বাধা মনে করি, নাকি এগুলোকে ঘিরেই আমার দিন সাজাই?",
+      "অপমান সয়ে নিতে পারি কি, মনে মনে এই অপেক্ষাও না করে যে যে বলেছে তার পতন দেখব?",
+      "মানুষ আমার সম্পর্কে কী বলে তাতে নয়, রব যা দেন তাতে সন্তুষ্ট থাকা আমার জীবনে দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Meet hurtful words with patience and with praise of your Lord at the fixed times of prayer, and seek your contentment in what He gives.",
+    "lessonBn": "আঘাত করা কথার জবাব দিন ধৈর্য দিয়ে আর নামাজের বাঁধা সময়ে রবের প্রশংসা দিয়ে। আর নিজের সন্তুষ্টি খুঁজুন তিনি যা দেন তার মধ্যে।"
   }
 };
 
