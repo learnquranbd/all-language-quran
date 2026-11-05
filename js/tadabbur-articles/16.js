@@ -899,6 +899,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "Then, After the Roof Fell",
+          "bn": "ছাদ ধসে পড়ার পরে"
+        },
+        "p": [
+          {
+            "en": "Thumma yawma l-qiyamati yukhzihim: then on the Day of Resurrection He will disgrace them. The verse before it tells of those before them who plotted, whose building Allah came at from the foundations, so that the roof fell in on them from above. At-Tabari reads the two verses as one sequence. Allah did to these plotters what He did in this world, hastening punishment for them and taking retribution for their disbelief, and then, with all that, on the Day of Resurrection He disgraces them.",
+            "bn": "সুম্মা ইয়াওমাল কিয়ামাতি ইউখযীহিম: তারপর কিয়ামতের দিন তিনি তাদের লাঞ্ছিত করবেন। আগের আয়াতে আছে তাদের পূর্ববর্তীদের কথা, যারা চক্রান্ত করেছিল। আল্লাহ তাদের ইমারতকে ভিত থেকে উপড়ে দিলেন, আর উপর থেকে ছাদ তাদের ঘাড়ে ভেঙে পড়ল। তাবারী দুই আয়াতকে একটানা ঘটনা হিসেবে পড়েন। দুনিয়াতে আল্লাহ এই চক্রান্তকারীদের সঙ্গে যা করার করেছেন: দ্রুত শাস্তি দিয়েছেন, তাদের কুফরির বদলা নিয়েছেন। এত কিছুর পরও কিয়ামতের দিন তিনি তাদের লাঞ্ছিত করবেন।"
+          },
+          {
+            "en": "As-Sa'di draws the same line and names the irony in it. They thought and calculated over what the messengers brought, laid down for themselves foundations of falsehood to fall back on, and schemed to bring harm on the messengers and those who followed them. Their plot turned into ruin for them; in his phrase, their planning held their own destruction. He cites 35:43, that evil plotting encompasses none but its own people, and adds that this was in the world, while the punishment of the Hereafter is more disgraceful still.",
+            "bn": "সা'দীও একই রেখা টানেন, আর তার ভেতরের পরিহাসটা ধরিয়ে দেন। রাসূলগণ যা নিয়ে এসেছিলেন, তা নিয়ে তারা ভেবেছে, হিসাব কষেছে। নিজেদের জন্য বাতিলের কিছু মূলনীতি আর ভিত বানিয়ে নিয়েছে, যার দোহাই দিয়ে তারা রাসূলদের আনা বাণী ফিরিয়ে দিত। রাসূল আর তাঁদের অনুসারীদের ক্ষতি করার ফন্দিও এঁটেছে। শেষে সেই চক্রান্ত তাদের নিজেদের ঘাড়েই বিপদ হয়ে নামল। তাঁর ভাষায়, তাদের পরিকল্পনার ভেতরেই ছিল তাদের ধ্বংস। তিনি ৩৫:৪৩ উদ্ধৃত করেন: মন্দ চক্রান্ত তার হোতাদেরই ঘিরে ধরে। তারপর বলেন, এ তো দুনিয়ার কথা, আখিরাতের শাস্তি আরও বেশি লাঞ্ছনার।"
+          },
+          {
+            "en": "Who the earlier plotters were is a question for the verse before, and it can stay brief here. Ibn Kathir, in the abridged English, reports from al-'Awfi that Ibn 'Abbas said it refers to Nimrod, who built the tower, and that others said Nebuchadnezzar. He then gives his own judgement: the correct view is that the verse speaks by way of example, refuting what was done by all who disbelieved in Allah and associated others with Him.",
+            "bn": "আগের চক্রান্তকারীরা কারা ছিল, সে প্রশ্ন আগের আয়াতের। এখানে সংক্ষেপে বললেই চলে। ইবন কাসীর, তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে, আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর বক্তব্য আনেন: এখানে নমরূদের কথা বলা হয়েছে, যে মিনার বানিয়েছিল। অন্যরা বলেছেন বুখতনাসরের কথা। তারপর ইবন কাসীর নিজের মত দেন। সঠিক কথা হলো, আয়াতটি দৃষ্টান্ত হিসেবে এসেছে। যারাই আল্লাহকে অস্বীকার করেছে আর তাঁর সঙ্গে শরীক করেছে, তাদের কাজের জবাব এতে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shame Brought Into the Open",
+          "bn": "প্রকাশ্যে আনা লাঞ্ছনা"
+        },
+        "p": [
+          {
+            "en": "For Ibn Kathir the disgrace is exposure. He will make their scandals appear, he writes, and what their hearts used to conceal, and turn it into something public. He sets beside it 86:9, the Day when the secrets are put to the test, which he glosses as their becoming visible and widely known. So it is with these people: what they hid of their plotting is shown to everyone, and Allah disgraces them over the heads of all creation. As-Sa'di has the same scene, before the heads of creation, with their lie and fabrication against Allah laid bare.",
+            "bn": "ইবন কাসীরের কাছে এ লাঞ্ছনা মানে মুখোশ খুলে যাওয়া। তিনি লেখেন, আল্লাহ তাদের কেলেঙ্কারিগুলো সামনে আনবেন। তাদের মন যা গোপন রাখত, তা প্রকাশ্য করে দেবেন। পাশে তিনি রাখেন ৮৬:৯, যেদিন গোপন বিষয়গুলো যাচাই করা হবে। তাঁর ব্যাখ্যায় এর মানে, সেগুলো দৃশ্যমান হবে, সবার মুখে মুখে ছড়াবে। এদের বেলাতেও তা-ই। চক্রান্তের যা কিছু তারা লুকিয়ে রেখেছিল, সবার সামনে তা খুলে যাবে, আর আল্লাহ গোটা সৃষ্টির সামনে তাদের লাঞ্ছিত করবেন। সা'দীর বর্ণনাতেও একই দৃশ্য। সৃষ্টিকুলের সামনে আল্লাহর নামে তাদের মিথ্যা আর বানানো কথা উন্মুক্ত হয়ে যাবে।"
+          },
+          {
+            "en": "Ibn Kathir supports the point with a narration he cites from the two Sahihs, from Ibn 'Umar. It is a general report about betrayal and is not attached to this verse; he brings it as a likeness of shame made public. In al-Bukhari's wording, from his Sahih (6178), the Messenger of Allah ﷺ said: \"A flag will be fixed on the Day of Resurrection for every betrayer, and it will be announced: This is the betrayal of so-and-so, the son of so-and-so.\"",
+            "bn": "কথাটির সমর্থনে ইবন কাসীর ইবন উমর (রাঃ)-এর একটি বর্ণনা আনেন, যা তিনি দুই সহীহ থেকে উদ্ধৃত করেন। বর্ণনাটি বিশ্বাসঘাতকতা নিয়ে একটি সাধারণ হাদীস, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। প্রকাশ্য লাঞ্ছনার উপমা হিসেবেই তিনি এটি আনেন। বুখারী তাঁর সহীহতে (৬১৭৮) যে শব্দে এনেছেন, তাতে রাসূলুল্লাহ ﷺ বলেছেন: \"কিয়ামতের দিন প্রত্যেক বিশ্বাসঘাতকের জন্য একটি পতাকা গাড়া হবে, আর ঘোষণা করা হবে: এ হলো অমুকের পুত্র অমুকের বিশ্বাসঘাতকতা।\""
+          },
+          {
+            "en": "The other commentators put the weight on the punishment. Al-Baghawi glosses yukhzihim in a short phrase: He humiliates them with the punishment. At-Tabari has Him abasing them with a painful punishment. The Muyassar and al-Qurtubi use the verb for exposing and tie it to the same thing: He exposes them through the punishment and humiliates them by it. Read together, the disgrace is both the uncovering and the punishment that follows it, and in Ibn Kathir's and as-Sa'di's telling it happens in front of everyone.",
+            "bn": "অন্য তাফসীরকারেরা জোর দেন শাস্তির উপর। বাগাভী ইউখযীহিমের ব্যাখ্যা দেন ছোট্ট কথায়: শাস্তি দিয়ে তিনি তাদের হেয় করবেন। তাবারীর ভাষায়, যন্ত্রণাদায়ক শাস্তি দিয়ে তিনি তাদের অপদস্থ করবেন। মুয়াসসার আর কুরতুবী 'ফাদাহা' ক্রিয়াটি ব্যবহার করেন, যার মানে মুখোশ খুলে দেওয়া, আর সেটাকেও শাস্তির সঙ্গে বাঁধেন। শাস্তি দিয়েই তিনি তাদের অপমান প্রকাশ করবেন, শাস্তি দিয়েই তাদের নিচু করবেন। সব মিলিয়ে পড়লে লাঞ্ছনা মানে গোপন কথা ফাঁস হওয়া, আর তার পেছনে আসা শাস্তি। ইবন কাসীর ও সা'দীর বর্ণনায় দুটোই ঘটে সবার চোখের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called For, and Absent",
+          "bn": "ডাক পড়ল, কেউ এল না"
+        },
+        "p": [
+          {
+            "en": "Wa yaqulu ayna shuraka'iya: and He will say, where are My partners? Al-Qurtubi explains My partners as by your claim and in your assertion, that is, the gods you worshipped apart from Me, and he names the question for what it is: a question of rebuke, not a request for information. At-Tabari spells the rebuke out. Where are those you used to claim, in the world, were My partners? Why are they not here with you today, to push away from you the punishment I am bringing down on you?",
+            "bn": "ওয়া ইয়াকূলু আইনা শুরাকাঈয়া: আর তিনি বলবেন, কোথায় আমার শরীকেরা? কুরতুবী 'আমার শরীক' কথাটির ব্যাখ্যা দেন এভাবে: তোমাদের ধারণা আর দাবি অনুযায়ী যারা শরীক, অর্থাৎ আমাকে ছেড়ে যেসব উপাস্যের তোমরা ইবাদত করতে। প্রশ্নটার আসল চেহারাও তিনি বলে দেন। এটা তিরস্কারের প্রশ্ন, কিছু জানতে চাওয়া নয়। তাবারী তিরস্কারটা খুলে বলেন। দুনিয়াতে যাদের তোমরা আমার শরীক বলে দাবি করতে, তারা কোথায়? আজ তারা তোমাদের কাছে হাজির হচ্ছে না কেন? আমি যে শাস্তি তোমাদের উপর নামাচ্ছি, তা ঠেকাতে তারা আসছে না কেন?"
+          },
+          {
+            "en": "At-Tabari then names the principle that makes their absence a rebuke. You worshipped them in the world and took them as your patrons, and a patron helps the one in his care. Ibn Kathir makes the same point through two verses: 26:93, can they help you or help themselves, and 86:10, then he will have no power and no helper. The partners were defended in the world as protectors. On the Day they are called for, they are simply not there.",
+            "bn": "তাবারী এরপর সেই নীতির কথা বলেন, যার কারণে তাদের অনুপস্থিতিটাই তিরস্কার হয়ে দাঁড়ায়। দুনিয়াতে তোমরা তাদের ইবাদত করতে, তাদের অভিভাবক বানিয়ে নিয়েছিলে। আর অভিভাবক তো তার আশ্রিতকে সাহায্য করে। ইবন কাসীর একই কথা বলেন দুটি আয়াত দিয়ে। ২৬:৯৩: তারা কি তোমাদের সাহায্য করতে পারে, নাকি নিজেদেরই বাঁচাতে পারে? আর ৮৬:১০: সেদিন তার না থাকবে কোনো শক্তি, না কোনো সাহায্যকারী। দুনিয়াতে রক্ষাকর্তা ভেবে এদের পক্ষ নেওয়া হতো। যেদিন তাদের ডাক পড়বে, সেদিন তারা সেখানে থাকবেই না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Side Making It Hard",
+          "bn": "দুই পক্ষের টানাপোড়েন"
+        },
+        "p": [
+          {
+            "en": "Alladhina kuntum tushaqquna fihim: those over whom you used to oppose. At-Tabari goes to the root. It comes, he says, from shaqaqtu fulanan fa-huwa yushaqqini, I opposed so-and-so and he opposes me, which is said when each of the two does to the other what is hard on him. Their opposition to Allah over their idols, at-Tabari concludes, was their going against Him in their worship. He supports the gloss with a report from Ibn 'Abbas: tushaqquna means you go against Me.",
+            "bn": "আল্লাযীনা কুনতুম তুশাক্কূনা ফীহিম: যাদের নিয়ে তোমরা বিরোধ করতে। তাবারী শব্দের মূলে যান। তিনি বলেন, এটা এসেছে 'শাকাকতু ফুলানান ফাহুয়া ইউশাক্কুনী' থেকে: আমি অমুকের বিরোধিতা করেছি, সে-ও আমার বিরোধিতা করে। দুজনের প্রত্যেকে যখন অন্যজনের সঙ্গে এমন আচরণ করে যা তার কাছে কষ্টকর, তখন এ কথা বলা হয়। তাবারীর উপসংহার: মূর্তিদের নিয়ে আল্লাহর সঙ্গে তাদের বিরোধ মানে ইবাদতের বেলায় তাঁর হুকুমের উল্টো চলা। এ ব্যাখ্যার পক্ষে তিনি ইবন আব্বাস (রাঃ)-এর বর্ণনা আনেন: তুশাক্কূনা মানে তোমরা আমার বিরুদ্ধে চলতে।"
+          },
+          {
+            "en": "Against whom was the opposition aimed? The commentators supply different objects, and read side by side they widen the verse rather than split it. At-Tabari and the report from Ibn 'Abbas make it Allah Himself. Al-Qurtubi makes it His prophets: you were hostile to My prophets because of them. Al-Baghawi makes it the believers, and the Muyassar names both: you used to fight the prophets and the believers and treat them as enemies for the sake of those gods. As-Sa'di joins the two sides: you fought and showed enmity to Allah and His party for their sake.",
+            "bn": "বিরোধটা ছিল কার বিরুদ্ধে? তাফসীরকারেরা ভিন্ন ভিন্ন লক্ষ্যের কথা বলেন। পাশাপাশি পড়লে এগুলো আয়াতকে ভাগ করে না, বরং তার পরিসর বাড়ায়। তাবারী আর ইবন আব্বাস (রাঃ)-এর বর্ণনায় বিরোধ স্বয়ং আল্লাহর সঙ্গে। কুরতুবীর মতে তাঁর নবীদের সঙ্গে: ওদের কারণে তোমরা আমার নবীদের সঙ্গে শত্রুতা করতে। বাগাভীর মতে মুমিনদের সঙ্গে। মুয়াসসার দুটোই বলে: ওই উপাস্যদের খাতিরে তোমরা নবী আর মুমিনদের সঙ্গে লড়তে, তাঁদের শত্রু ভাবতে। সা'দী দুই দিককে এক করেন: ওদের জন্য তোমরা আল্লাহ আর তাঁর দলের বিরুদ্ধে লড়েছ, শত্রুতা করেছ।"
+          },
+          {
+            "en": "Two readings are recorded in the question's wording. In shuraka'i, al-Qurtubi reports, the Qur'an reader Ibn Kathir, not the commentator of that name, read shurakaya, with an open ya' and no hamza, while the rest kept the hamza. In tushaqquna, Nafi' read the nun with a kasra, tushaqquni, which attaches the first person to the verb, and al-Qurtubi glosses it as you were hostile to Me over them; the rest read it with a fatha. Al-Baghawi records the same difference over Nafi'.",
+            "bn": "প্রশ্নের শব্দে দুটি কিরাআতের কথা পাওয়া যায়। কুরতুবী জানান, 'শুরাকাঈ' শব্দটি কারী ইবন কাসীর পড়েছেন 'শুরাকায়া', ইয়া-তে যবর দিয়ে, হামযা ছাড়া। ইনি কারী, একই নামের তাফসীরকার নন। বাকিরা হামযা রেখেই পড়েছেন। 'তুশাক্কূনা' শব্দে নাফে' নূনের নিচে যের দিয়ে পড়েছেন 'তুশাক্কূনি', তাতে ক্রিয়ার সঙ্গে 'আমাকে' যুক্ত হয়। কুরতুবী এর অর্থ করেন: ওদের নিয়ে তোমরা আমার সঙ্গে শত্রুতা করতে। বাকিরা যবর দিয়ে পড়েছেন। বাগাভীও নাফে'র এই পার্থক্যের কথা উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silenced Before the Verdict",
+          "bn": "রায়ের আগে নিস্তব্ধতা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notices a pause between the question and the reply. Only when the proof has been turned against them, the evidence stands against them and the word has come due upon them, and they have been silenced from making excuses at a time when there is no escape, do those who were given knowledge speak. The disbelievers never answer the question in the verse. Others speak once they have fallen silent, and what those others say is a verdict, not a defence.",
+            "bn": "প্রশ্ন আর জবাবের মাঝখানে ইবন কাসীর একটা বিরতি লক্ষ করেন। যখন তাদের বিরুদ্ধে দলিল দাঁড়িয়ে যাবে, প্রমাণ প্রতিষ্ঠিত হবে, তাদের উপর আল্লাহর কথা অবধারিত হবে, আর পালানোর পথ না থাকায় তারা অজুহাত দিতেও নির্বাক হয়ে যাবে, ঠিক তখনই মুখ খুলবেন তাঁরা, যাদের জ্ঞান দেওয়া হয়েছিল। আয়াতে কাফিররা প্রশ্নের জবাব দেয়ই না। তারা চুপ হয়ে গেলে অন্যরা কথা বলেন। আর তাঁদের কথা আত্মপক্ষ সমর্থন নয়, সেটা রায়।"
+          },
+          {
+            "en": "As-Sa'di reaches the same silence by another road. When this question is put to them, he writes, they have no answer except to admit their misguidance and confess their stubbornness. He gives their words in the language of 7:37: they will say, they have strayed from us, and they will bear witness against themselves that they were disbelievers. The Muyassar, reading on into the next verse, has them submit to Allah's command when they see death, disown what they used to worship and then claim they did no wrong. That scene belongs to 16:28, and the verse here stops before it.",
+            "bn": "সা'দী অন্য পথে একই নীরবতায় পৌঁছান। তিনি লেখেন, এ প্রশ্ন যখন তাদের করা হবে, নিজেদের পথভ্রষ্টতা মেনে নেওয়া আর একগুঁয়েমি স্বীকার করা ছাড়া তাদের আর কোনো জবাব থাকবে না। তাদের কথা তিনি তুলে আনেন ৭:৩৭ আয়াতের ভাষায়: তারা বলবে, ওরা আমাদের কাছ থেকে হারিয়ে গেছে। আর তারা নিজেদের বিরুদ্ধেই সাক্ষ্য দেবে যে তারা কাফির ছিল। মুয়াসসার পরের আয়াত পর্যন্ত টেনে পড়ে। মৃত্যু দেখে তারা আল্লাহর হুকুমের কাছে আত্মসমর্পণ করে, যাদের ইবাদত করত তাদের অস্বীকার করে, তারপর দাবি করে যে তারা কোনো অন্যায় করেনি। সে দৃশ্য ১৬:২৮ আয়াতের, আর এ আয়াত তার আগেই থেমে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels, Believers or Scholars",
+          "bn": "ফেরেশতা, মুমিন, নাকি আলিম"
+        },
+        "p": [
+          {
+            "en": "Qala alladhina utu l-'ilm: those who were given knowledge will say. Who are they? The commentators answer in more than one way. Al-Qurtubi reports from Ibn 'Abbas that they are the angels, and then adds, under the words it is said, that they are the believers. Al-Baghawi's printed text, in a bracketed clause, identifies them as the believers. As-Sa'di and the Muyassar use the same phrase, al-'ulama' ar-rabbaniyyun, the scholars devoted to their Lord. Ibn Kathir describes rather than names: they are the masters in this world and the Hereafter, who told of the truth in both.",
+            "bn": "কালাল্লাযীনা ঊতুল ইলম: যাদের জ্ঞান দেওয়া হয়েছিল, তাঁরা বলবেন। এঁরা কারা? তাফসীরকারেরা এর একাধিক জবাব দেন। কুরতুবী ইবন আব্বাস (রাঃ)-এর সূত্রে বলেন, এঁরা ফেরেশতা। তারপর 'বলা হয়' কথাটি দিয়ে যোগ করেন, এঁরা মুমিন। বাগাভীর মুদ্রিত পাঠে বন্ধনীর ভেতরের এক বাক্যে এঁদের মুমিন বলা হয়েছে। সা'দী আর মুয়াসসার একই শব্দ ব্যবহার করেন: আল-উলামাউর রব্বানিয়্যূন, অর্থাৎ রবের প্রতি নিবেদিত আলিমগণ। ইবন কাসীর নাম না দিয়ে পরিচয় দেন। তাঁর ভাষায়, এঁরা দুনিয়া ও আখিরাতের নেতা, যাঁরা দুই জগতেই সত্যের খবর দিয়েছেন।"
+          },
+          {
+            "en": "None of the commentators read here rules between these views, and this article does not either. At-Tabari, in the passage on this verse, does not stop to identify the speakers at all; he moves straight to what they say. What the descriptions share is plain enough. The speakers are marked by knowledge, and the verse gives them the last word on a Day when every other voice has fallen quiet. Whether they are angels, believers or scholars, the verse names them by what they were given, not by who they were.",
+            "bn": "এখানে যাদের তাফসীর পড়া হয়েছে, তাঁদের কেউ এ মতগুলোর মধ্যে ফয়সালা দেননি, এ লেখাও দেবে না। তাবারী এ আয়াতের আলোচনায় বক্তাদের পরিচয় নিয়ে থামেনই না। সরাসরি চলে যান তাঁরা কী বলবেন, সেই কথায়। তবে বর্ণনাগুলোর মিলটা স্পষ্ট। বক্তাদের পরিচয় জ্ঞানে। আর যেদিন আর সব কণ্ঠ থেমে গেছে, সেদিন শেষ কথাটি আয়াত তাঁদের মুখেই দেয়। তাঁরা ফেরেশতা হোন, মুমিন হোন বা আলিম, আয়াত তাঁদের চেনায় তাঁদের কী দেওয়া হয়েছিল তা দিয়ে, তাঁরা কারা ছিলেন তা দিয়ে নয়।"
+          },
+          {
+            "en": "As-Sa'di draws a lesson from their place in the scene. In this, he writes, is the excellence of the people of knowledge: they are the ones who speak the truth in this world and on the Day the witnesses stand, and their word carries weight with Allah and with His creation. Ibn Kathir's description links the two worlds in the same way. Those who told of the truth in this life are the ones who tell of it on that Day.",
+            "bn": "দৃশ্যে তাঁদের অবস্থান থেকে সা'দী একটি শিক্ষা টানেন। তিনি লেখেন, এতে আছে জ্ঞানীদের মর্যাদা। এ দুনিয়াতে আর যেদিন সাক্ষীরা দাঁড়াবে সেদিন, সত্য বলেন তাঁরাই। আর আল্লাহর কাছে ও তাঁর সৃষ্টির কাছে তাঁদের কথার মূল্য আছে। ইবন কাসীরের বর্ণনাও একইভাবে দুই জগৎকে জোড়া দেয়। যাঁরা এ জীবনে সত্যের খবর দিয়েছেন, সেদিনও তাঁরাই সত্যের খবর দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shame Joined to Punishment",
+          "bn": "লাঞ্ছনার সঙ্গে শাস্তি"
+        },
+        "p": [
+          {
+            "en": "Inna l-khizya l-yawma wa-s-su'a 'ala l-kafirin: indeed disgrace this Day, and evil, are upon the disbelievers. At-Tabari glosses al-khizy as abasement and degradation, and as-su' as the punishment of Allah upon the disbelievers. Al-Qurtubi and al-Baghawi give the same pair: degradation for the first word and the punishment for the second, with al-Qurtubi fixing al-yawm as the Day of Resurrection. As-Sa'di likewise reads al-yawm as the Day of Resurrection and as-su' as the punishment.",
+            "bn": "ইন্নাল খিযইয়াল ইয়াওমা ওয়াসসূআ আলাল কাফিরীন: নিশ্চয়ই আজ লাঞ্ছনা আর অমঙ্গল কাফিরদের উপর। তাবারী 'খিযই'-এর অর্থ করেন অপমান আর হীনতা। আর 'সূ' মানে কাফিরদের উপর আল্লাহর শাস্তি। কুরতুবী আর বাগাভীও একই জোড়া দেন: প্রথম শব্দের অর্থ হীনতা, দ্বিতীয়টির অর্থ শাস্তি। কুরতুবী আরও স্পষ্ট করেন, 'আল-ইয়াওম' মানে কিয়ামতের দিন। সা'দীও 'আল-ইয়াওম' বলতে কিয়ামতের দিন আর 'সূ' বলতে শাস্তি বোঝান।"
+          },
+          {
+            "en": "Ibn Kathir puts the reason inside the definition. Exposure and punishment, he writes, are today upon whoever disbelieved in Allah and associated with Him what neither harms him nor benefits him. The last clause returns to the question about partners: they were worshipped and fought over, and they could neither hurt nor help. The passage then runs on. In 16:28 and 16:29 the disbelievers are those whom the angels take in death while wronging themselves, who are then told to enter the gates of Hell. The Muyassar reads this verse straight into that description, and the contrast in 16:30 belongs to its own place.",
+            "bn": "ইবন কাসীর সংজ্ঞার ভেতরেই কারণটা জুড়ে দেন। তিনি লেখেন, আজ লাঞ্ছনা আর শাস্তি নেমে আসে তার উপর, যে আল্লাহকে অস্বীকার করেছে আর তাঁর সঙ্গে এমন কিছুকে শরীক করেছে যা তার কোনো ক্ষতিও করতে পারে না, উপকারও না। শেষ অংশটা আবার শরীকদের প্রশ্নে ফিরে যায়। তাদের ইবাদত হয়েছে, তাদের নিয়ে লড়াই হয়েছে, অথচ তারা না পারত ক্ষতি করতে, না পারত সাহায্য করতে। এরপর বক্তব্য সামনে এগোয়। ১৬:২৮ ও ১৬:২৯ আয়াতে কাফিররা তারাই, নিজেদের উপর জুলুমরত অবস্থায় ফেরেশতারা যাদের প্রাণ নেয়, তারপর জাহান্নামের দরজা দিয়ে ঢুকতে বলা হয়। মুয়াসসার এ আয়াতকে সরাসরি সেই বর্ণনার সঙ্গে জুড়ে পড়ে। আর ১৬:৩০ আয়াতের বিপরীত চিত্রের আলোচনা তার নিজের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict Handed Out Early",
+          "bn": "আগাম রায় দেওয়ার অধিকার নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a scene on the Day of Resurrection, in which Allah disgraces those who opposed Him and His people over false partners, and those given knowledge announce that disgrace and evil are upon the disbelievers. No living person or community may be called among the disbelievers disgraced on the strength of this verse. The announcement in the verse is made on that Day, by those the verse names. No reader is handed it in advance, to pronounce over a neighbour.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বলে, ঠিক ততটুকুই বর্ণনা করে। কিয়ামতের দিনের একটি দৃশ্য: মিথ্যা শরীকদের নিয়ে যারা আল্লাহ ও তাঁর লোকদের বিরোধিতা করেছিল, আল্লাহ তাদের লাঞ্ছিত করেন। আর জ্ঞানপ্রাপ্তরা ঘোষণা করেন, লাঞ্ছনা আর অমঙ্গল কাফিরদের উপর। এ আয়াতের জোরে জীবিত কোনো মানুষ বা সম্প্রদায়কে লাঞ্ছিত কাফিরদের দলে ফেলা যায় না। আয়াতের ঘোষণা আসে সেই দিনে, আয়াত যাঁদের কথা বলে তাঁদের মুখে। কোনো পাঠকের হাতে তা আগেভাগে তুলে দেওয়া হয়নি, যাতে সে প্রতিবেশীর উপর তা ঘোষণা করে।"
+          },
+          {
+            "en": "What the verse leaves the reader with is a question to put to oneself. In at-Tabari's account of the root, this opposition is the kind in which each side makes things hard for the other. It is worth asking what I would quarrel over in that way, and whether it would be there to answer for me if I were asked about it. The other half of the verse holds a hope. Knowledge that speaks the truth here, in as-Sa'di's words, is heard there and carries weight. Learning in order to be truthful, rather than in order to win, is a choice open today.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় নিজের কাছে করার মতো একটি প্রশ্ন। শব্দমূলের যে ব্যাখ্যা তাবারী দেন, তাতে এ বিরোধ এমন, যেখানে প্রত্যেক পক্ষ অন্যের জন্য ব্যাপারটা কঠিন করে তোলে। নিজেকে জিজ্ঞেস করা দরকার, কোন জিনিস নিয়ে আমি এভাবে ঝগড়ায় নামি? সে বিষয়ে আমাকে জিজ্ঞেস করা হলে তা কি আমার হয়ে জবাব দিতে সেখানে থাকবে? আয়াতের বাকি অর্ধেকে আছে আশা। সা'দীর কথায়, যে জ্ঞান এখানে সত্য বলে, সেখানে তা শোনা হয়, তার মূল্যও থাকে। জেতার জন্য নয়, সত্যবাদী হওয়ার জন্য শেখা, এ পথ বেছে নেওয়ার সুযোগ আজই আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:30": {
     "sections": [
       {

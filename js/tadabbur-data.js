@@ -22351,6 +22351,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give people their full due in every measure you hold, for a wrong done to people stands beside a wrong done to your Lord, and plenty is a trust to be thanked for.",
     "lessonBn": "আপনার হাতে যত রকম মাপ আছে, সবকটিতে মানুষকে তার পুরো প্রাপ্য দিন। মানুষের হক নষ্ট করা রবের হক নষ্ট করার পাশেই দাঁড়ায়, আর প্রাচুর্য এক আমানত, যার শুকরিয়া আদায় করতে হয়।"
+  },
+  "16:27": {
+    "reflectionEn": "The roof has already fallen on the plotters of the verse before. Now the scene moves to the Day of Resurrection, and the shame is of another kind. Allah asks one question: where are My partners, the ones you used to quarrel over? Nobody answers, because the things they fought for are not there to answer. Then those who were given knowledge speak, and the verdict is theirs to announce: disgrace and evil today fall on those who disbelieved. The verse is not a list of people I may call disgraced. It asks me something harder. What do I argue for most fiercely, and will it be standing beside me on the Day I am asked about it?",
+    "reflectionBn": "আগের আয়াতে চক্রান্তকারীদের মাথার উপর ছাদ ভেঙে পড়েছে। এবার দৃশ্য সরে যায় কিয়ামতের দিনে, আর সেখানকার লাঞ্ছনা অন্য রকম। আল্লাহ একটিমাত্র প্রশ্ন করেন: কোথায় আমার সেই শরীকেরা, যাদের নিয়ে তোমরা ঝগড়া করতে? কেউ জবাব দেয় না। যাদের জন্য তারা লড়েছিল, জবাব দেওয়ার জন্য তারা সেখানে নেই। তখন মুখ খোলেন তাঁরা, যাদের জ্ঞান দেওয়া হয়েছিল। রায় ঘোষণার ভার তাঁদের: আজ লাঞ্ছনা আর অমঙ্গল কাফিরদের উপর। কাকে লাঞ্ছিত বলে ডাকা যায়, এ আয়াত তার তালিকা নয়। এ আয়াত আমাকে আরও কঠিন প্রশ্ন করে। আমি সবচেয়ে জোর দিয়ে কীসের পক্ষে তর্ক করি? যেদিন আমাকে সে বিষয়ে জিজ্ঞেস করা হবে, সেদিন কি তা আমার পাশে দাঁড়িয়ে থাকবে?",
+    "pointsEn": [
+      "What do I defend most fiercely in arguments, and would it stand beside me on the Day I am asked about it?",
+      "Is there anything I keep hidden now that I would be ashamed to see brought out before everyone?",
+      "When I quarrel with people over a cause, have I first checked that the cause is one Allah approves?",
+      "Am I seeking knowledge that would let me speak the truth on that Day, or only knowledge that wins arguments today?",
+      "When I read about the disgraced, do I look at myself first, or start naming other people?"
+    ],
+    "pointsBn": [
+      "তর্কে আমি সবচেয়ে জোর দিয়ে কীসের পক্ষ নিই? যেদিন এ নিয়ে আমাকে জিজ্ঞেস করা হবে, সেদিন কি তা আমার পাশে থাকবে?",
+      "এমন কিছু কি আমি এখন লুকিয়ে রাখছি, যা সবার সামনে বেরিয়ে পড়লে আমি লজ্জায় মাথা তুলতে পারব না?",
+      "কোনো কিছুর জন্য মানুষের সঙ্গে বিবাদে নামার আগে কি আমি দেখে নিই, বিষয়টা আল্লাহর পছন্দের কি না?",
+      "আমি কি এমন জ্ঞান খুঁজছি যা সেদিন আমাকে সত্য বলতে দেবে, নাকি শুধু এমন জ্ঞান যা আজকের তর্কে জেতায়?",
+      "লাঞ্ছিতদের কথা পড়ে আমি কি আগে নিজের দিকে তাকাই, নাকি অন্যদের নাম ধরে ডাকতে শুরু করি?"
+    ],
+    "lessonEn": "Ask what you argue for and lean on, and let go of whatever will not stand with you before Allah. Seek knowledge that speaks the truth.",
+    "lessonBn": "আপনি কীসের পক্ষে তর্ক করেন আর কীসের উপর ভরসা রাখেন, ভেবে দেখুন। আল্লাহর সামনে যা আপনার পাশে দাঁড়াবে না, তা ছেড়ে দিন। এমন জ্ঞান খুঁজুন যা সত্য বলে।"
   }
 };
 
