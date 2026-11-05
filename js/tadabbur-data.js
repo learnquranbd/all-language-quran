@@ -22011,6 +22011,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When someone wrongs you this week, answer with one deliberate good, and when you slip, follow the slip at once with repentance and a good deed.",
     "lessonBn": "এ সপ্তাহে কেউ আপনার সঙ্গে অন্যায় করলে জেনেবুঝে একটা ভালো কাজ দিয়ে জবাব দিন, আর নিজে ভুল করে ফেললে সঙ্গে সঙ্গে তওবা করে তার পেছনে একটা নেক আমল জুড়ে দিন।"
+  },
+  "13:33": {
+    "reflectionEn": "The verse asks a question and leaves it unfinished: is the One who stands over every soul, knowing what it has earned, like... like what? The listener has to complete it, and the only honest ending is: like nothing. Then comes the challenge: name them. Say who these partners are and what they have ever done. The names turn out to be only names. That is easy to see in idols of stone. It is harder to see in what I quietly set up beside Him: the person whose approval I work for, the fear that decides for me, the scheme I have dressed up as good sense. He stands over my soul too, and sees what it earns. Do I live as if He does?",
+    "reflectionBn": "আয়াতটি প্রশ্ন তুলে মাঝপথে থেমে যায়: যিনি প্রতিটি প্রাণের উপর দাঁড়িয়ে আছেন, সে কী উপার্জন করে সব জানেন, তিনি কি তাদের মতো...? কাদের মতো, সে কথা শ্রোতাকেই শেষ করতে হয়। সৎ উত্তর একটাই: কারও মতো নন। তারপর আসে চ্যালেঞ্জ: ওদের নাম বলো। এই শরীকরা কারা, কবে কী করেছে, বলো তো। দেখা যায়, নামগুলো শুধুই নাম। পাথরের মূর্তির বেলায় কথাটা বোঝা সহজ। কঠিন হলো নিজের ভেতরে তাঁর পাশে যা দাঁড় করিয়েছি, তা চেনা। যার খুশির জন্য খাটি সেই মানুষ, যে ভয় আমার হয়ে সিদ্ধান্ত নেয়, যে ফন্দিকে বুদ্ধি বলে সাজিয়ে রেখেছি। তিনি আমার প্রাণের উপরও দাঁড়িয়ে আছেন, দেখছেন সে কী কামাই করছে। আমি কি এমনভাবে চলি, যেন তিনি দেখছেন?",
+    "pointsEn": [
+      "If I had to name what I really lean on when things go wrong, which names would come out first?",
+      "Which of my habits survives only because I have never said plainly what it is?",
+      "Is there a plan of mine that looks wise to me mainly because it is mine?",
+      "What would I do differently today if I remembered, hour by hour, that He stands over my soul and what it earns?",
+      "When I see someone far from guidance, do I pray for him, or quietly decide he is beyond it?"
+    ],
+    "pointsBn": [
+      "বিপদে পড়লে আসলে কীসের উপর ভর দিই, তার নাম বলতে হলে কোন নামগুলো আগে মুখে আসবে?",
+      "আমার কোন অভ্যাস টিকে আছে শুধু এ কারণে যে, সেটা আসলে কী, তা কখনো সোজাসুজি মুখে আনিনি?",
+      "আমার এমন কোনো পরিকল্পনা কি আছে, যা বুদ্ধিমানের কাজ মনে হয় মূলত এ জন্য যে, সেটা আমারই?",
+      "প্রতিটি ঘণ্টায় যদি মনে রাখতাম যে তিনি আমার প্রাণের উপর দাঁড়িয়ে আছেন আর সে যা কামাই করে তা দেখছেন, তাহলে আজ কী অন্যভাবে করতাম?",
+      "কাউকে হিদায়াত থেকে দূরে দেখলে আমি কি তার জন্য দোয়া করি, নাকি মনে মনে ধরে নিই, তার আর আশা নেই?"
+    ],
+    "lessonEn": "Live knowing that Allah stands over your soul and sees what it earns, and name honestly whatever else you lean on, so that its emptiness shows.",
+    "lessonBn": "মনে রেখে চলুন, আল্লাহ আপনার প্রাণের উপর দাঁড়িয়ে আছেন আর সে যা কামাই করে তা দেখছেন। আর যার উপরই ভর দেন, সৎভাবে তার নাম বলুন, তাতে তার ফাঁপা চেহারা বেরিয়ে আসবে।"
   }
 };
 

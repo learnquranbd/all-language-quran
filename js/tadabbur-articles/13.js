@@ -1203,6 +1203,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question After the Seizure",
+          "bn": "পাকড়াওয়ের পরে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The passage has been answering the demand for a sign made in 13:27. Verse 13:31 has said that the affair belongs to Allah entirely, and 13:32 has just reminded the Prophet ﷺ that messengers before him were mocked: Allah gave those who disbelieved respite, then seized them, and how severe His punishment was. Verse 13:33 now turns from what befell the mockers to the One who seized them. It opens with a question that stops halfway and closes with a sentence about guidance.",
+            "bn": "১৩:২৭ আয়াতে নিদর্শনের যে দাবি উঠেছিল, এই অংশটা তারই জবাব দিয়ে চলেছে। ১৩:৩১ বলেছে, সব বিষয় পুরোপুরি আল্লাহর হাতে। ১৩:৩২ এইমাত্র নবী ﷺ-কে মনে করিয়ে দিয়েছে, তাঁর আগের রাসূলদেরও ঠাট্টা করা হয়েছিল। আল্লাহ কাফিরদের ঢিল দিয়েছিলেন, তারপর পাকড়াও করেছিলেন, আর কত কঠিন ছিল সেই শাস্তি। ১৩:৩৩ আয়াত এবার বিদ্রূপকারীদের পরিণতি থেকে চোখ ফেরায় সেই সত্তার দিকে, যিনি তাদের পাকড়াও করেছিলেন। শুরুতে এক প্রশ্ন, যা মাঝপথে থেমে যায়, আর শেষে হিদায়াত নিয়ে একটি বাক্য।"
+          },
+          {
+            "en": "Al-Qurtubi finds the link to the previous verse in the grammar. The clause wa-ja'alu lillahi shuraka', and they have assigned partners to Allah, can be circumstantial, meaning: when they have already assigned them. Or it is joined to ustuhzi'a in 13:32: they mocked, and they assigned. After the verse, 13:34 promises them punishment in this life and a harder punishment in the Hereafter, with no protector from Allah, and 13:35 describes the Garden promised to the God-fearing. Ma'arif al-Qur'an reads the verse as exposing a failure of sense: putting inert idols on a level with the Being who watches everyone and reckons every deed.",
+            "bn": "আগের আয়াতের সঙ্গে যোগসূত্রটা কুরতুবী খুঁজে পান ব্যাকরণে। ওয়া জাআলূ লিল্লাহি শুরাকা, আর তারা আল্লাহর জন্য শরীক বানিয়েছে, এই অংশটা অবস্থাবাচক হতে পারে। তখন অর্থ দাঁড়ায়: অথচ তারা আগেই শরীক বানিয়ে বসে আছে। আবার এটা ১৩:৩২ আয়াতের উসতুহযিআ শব্দের সঙ্গেও যুক্ত হতে পারে: তারা ঠাট্টা করেছে, আর শরীকও বানিয়েছে। এ আয়াতের পরে ১৩:৩৪ তাদের জন্য দুনিয়ার শাস্তি আর আখিরাতের আরও কঠিন শাস্তির কথা বলে, আল্লাহর হাত থেকে বাঁচানোর কেউ নেই। আর ১৩:৩৫ মুত্তাকীদের প্রতিশ্রুত জান্নাতের বর্ণনা দেয়। মাআরিফুল কুরআনের চোখে আয়াতটি এক বুদ্ধিহীনতার মুখোশ খুলে দেয়: যিনি সবার উপর নজর রাখেন আর প্রতিটি আমলের হিসাব নেন, তাঁর সমান করে ফেলা হয়েছে নিষ্প্রাণ মূর্তিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking Charge, Not Standing Up",
+          "bn": "দাঁড়ানো নয়, দায়িত্ব নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Afa-man huwa qa'imun 'ala kulli nafsin bi-ma kasabat: is then He who stands over every soul with what it has earned...? Al-Qurtubi warns against the obvious picture. This standing is not the opposite of sitting; it means taking charge of the affairs of creatures, as one says a man stands to a task. He stands over every soul with what it earns: He gives it the power to earn, creates it, provides for it, guards it and repays it for its work. The sense, he concludes, is a Guardian who is never heedless. Al-Baghawi lists the same: its guardian, provider, knower and repayer.",
+            "bn": "আফামান হুয়া কাইমুন আলা কুল্লি নাফসিম বিমা কাসাবাত: যিনি প্রতিটি প্রাণের উপর তার উপার্জনসহ দাঁড়িয়ে আছেন, তিনি কি...? কুরতুবী সাবধান করেন, চোখের সামনে যে ছবি ভেসে ওঠে সেটা নয়। এখানে দাঁড়ানো বসার বিপরীত কিছু নয়। এর মানে সৃষ্টির সব কাজের দায়িত্ব নেওয়া, যেমন বলা হয়, অমুক লোক অমুক কাজে দাঁড়িয়ে গেছে। প্রতিটি প্রাণ যা উপার্জন করে, তার উপর তিনি দাঁড়িয়ে: তাকে উপার্জনের সামর্থ্য দেন, সৃষ্টি করেন, রিযিক দেন, হেফাজত করেন, আর তার আমলের প্রতিদান দেন। কুরতুবীর সারকথা: তিনি এমন রক্ষক, যিনি কখনো গাফিল হন না। বাগাভীও একই কথা জড়ো করেন: তিনি প্রাণটির রক্ষক, রিযিকদাতা, তাকে জানেন, আর তার কাজের প্রতিদান দেন।"
+          },
+          {
+            "en": "At-Tabari's paraphrase is fullest: the Lord who endures and does not perish, who undertakes the provision of all creation, knows them and what they earn, watches over them, and from whom nothing is hidden wherever they are. Qatada: your Lord stands over the children of Adam with their provision and their appointed terms, and keeps their deeds against them. Ad-Dahhak: He stands over every soul, righteous and wicked, providing for them and protecting them, and then some of them associate others with Him.",
+            "bn": "সবচেয়ে বিস্তারিত ব্যাখ্যা দেন তাবারী। তিনি সেই রব, যিনি চিরস্থায়ী, যাঁর বিনাশ নেই। সমস্ত সৃষ্টির রিযিকের দায়িত্ব তাঁর। তিনি তাদের চেনেন, তারা কী আমল কামাই করে তাও জানেন, তাদের উপর নজর রাখেন, আর তারা যেখানেই থাকুক, তাঁর কাছে কিছুই গোপন থাকে না। কাতাদা বলেন, তোমাদের রব আদমসন্তানদের উপর দাঁড়িয়ে আছেন তাদের রিযিক আর নির্ধারিত আয়ুসহ, আর তাদের আমল সংরক্ষণ করে রাখছেন। দাহহাক বলেন, তিনি নেককার ও পাপী সব প্রাণের উপর দাঁড়িয়ে, সবাইকে রিযিক দেন, হেফাজত করেন, তারপরও তাদের কেউ কেউ তাঁর সঙ্গে শরীক করে।"
+          },
+          {
+            "en": "Al-Qurtubi reports from al-A'mash that qa'im here means knowing, and cites a line of poetry in which Allah is qa'im in that sense: Allah knows what every soul earns. He also reports from ad-Dahhak that the angels assigned to the children of Adam are meant. At-Tabari carries a report from Ibn Abbas, through the chain of Muhammad ibn Sa'd, that Allah means Himself: He is with you wherever you are, and no one does a deed but Allah is present with him.",
+            "bn": "কুরতুবী আ'মাশ থেকে বর্ণনা করেন, এখানে কাইম মানে জ্ঞাত। এর পক্ষে তিনি একটি কবিতার চরণ আনেন, যেখানে আল্লাহকে এই অর্থেই কাইম বলা হয়েছে। তাহলে অর্থ: প্রতিটি প্রাণ যা কামাই করে, আল্লাহ তা জানেন। দাহহাক থেকে তিনি আরও বর্ণনা করেন, এখানে উদ্দেশ্য আদমসন্তানদের দায়িত্বে নিয়োজিত ফেরেশতারা। তাবারী মুহাম্মাদ ইবন সা'দের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা আনেন: আল্লাহ এখানে নিজের কথাই বলছেন। তিনি তোমাদের সঙ্গে আছেন, তোমরা যেখানেই থাকো, আর কেউ এমন কোনো কাজ করে না যেখানে আল্লাহ উপস্থিত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Comparison Left Unfinished",
+          "bn": "যে তুলনা শেষ করা হয়নি"
+        },
+        "p": [
+          {
+            "en": "The question never states its second half. Ibn Kathir completes it: is He who is like this like the idols they worship, which neither hear nor see nor understand, and own no benefit for themselves or for those who worship them, and cannot lift harm from either? The answer, he says, was left out because the context points to it, namely the words that follow: and they have assigned partners to Allah. At-Tabari supplies the same missing term, like their partners whom they took as gods, and says it was dropped because the listener knows from what was said what was left unsaid.",
+            "bn": "প্রশ্নের দ্বিতীয় অর্ধেক কখনো উচ্চারিত হয় না। ইবন কাসীর সেটা পূর্ণ করেন: যিনি এমন, তিনি কি সেই মূর্তিগুলোর মতো, যাদের ওরা পূজা করে? যারা শোনে না, দেখে না, বোঝে না। নিজের বা পূজারির কোনো উপকার করার ক্ষমতা যাদের নেই, কারও উপর থেকে বিপদ সরানোরও না। তাঁর মতে উত্তরটা বাদ দেওয়া হয়েছে, কারণ প্রসঙ্গই তা বলে দেয়, অর্থাৎ ঠিক পরের কথাটি: আর তারা আল্লাহর জন্য শরীক বানিয়েছে। তাবারীও একই বাদ পড়া অংশ বসান: তাদের সেই শরীকদের মতো, যাদের তারা উপাস্য বানিয়েছে। তিনি বলেন, যা বলা হয়েছে তা থেকেই শ্রোতা বুঝে নেয় কী বলা হয়নি, তাই অংশটা ফেলে রাখা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari backs this habit of speech with a piece of rajaz verse in which the poet sets out a choice between two men but leaves part of the choice unspoken, letting the next line carry it. The others phrase the missing half each in his own way. Al-Qurtubi: is He who guards and is never heedless like one who is heedless? Al-Baghawi: like one who does not stand over anything, but is helpless even over himself. As-Sa'di: like one who is not so. The Muyassar turns it into a choice: is He more deserving of worship, or these helpless created things?",
+            "bn": "কথার এই রীতির পক্ষে তাবারী রাজায ছন্দের কয়েকটি চরণ আনেন। সেখানে কবি দুই পুরুষের মধ্যে বেছে নিতে বলেন, কিন্তু বাছাইয়ের একটা অংশ মুখে আনেন না, পরের চরণ সেটা বয়ে নেয়। অন্য তাফসীরকারেরা বাদ পড়া অর্ধেকটা যে যার ভাষায় বলেন। কুরতুবী: যিনি রক্ষা করেন আর কখনো গাফিল হন না, তিনি কি গাফিলের মতো? বাগাভী: তার মতো, যে কিছুর উপরই দাঁড়িয়ে নেই, বরং নিজের ব্যাপারেও অক্ষম? সা'দী: যে এমন নয়, তার মতো? মুয়াসসার প্রশ্নটাকে বাছাইয়ে পরিণত করে: ইবাদতের বেশি হকদার কি তিনি, নাকি এই অসহায় সৃষ্টিগুলো?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names With Nothing Named",
+          "bn": "নাম আছে, নামধারী নেই"
+        },
+        "p": [
+          {
+            "en": "Qul sammuhum: say, name them. Al-Qurtubi hears a threat in it: say to them, Muhammad, make their names plain, for all they could name are al-Lat, al-'Uzza, Manat and Hubal. Al-Baghawi gives clarify their names, and a second view: describe them, then look whether they are fit to be worshipped. The Muyassar combines them: mention their names and attributes, and they will find nothing in those attributes that makes them worthy of worship. As-Sa'di puts a condition into the command: say it to them, if they are truthful, so that their state becomes known.",
+            "bn": "কুল সাম্মূহুম: বলো, ওদের নাম বলো। কুরতুবী এতে হুমকির সুর শোনেন: হে মুহাম্মাদ, ওদের বলো, নামগুলো খোলাসা করো। কেননা নাম বলতে গেলে ওরা বলতে পারবে শুধু লাত, উযযা, মানাত আর হুবাল। বাগাভী অর্থ দেন, ওদের নাম স্পষ্ট করো। আরেকটি মতও আনেন: ওদের গুণাবলি বর্ণনা করো, তারপর দেখো, ওরা ইবাদতের যোগ্য কি না। মুয়াসসার দুই অর্থ মিলিয়ে বলে: ওদের নাম আর গুণ উল্লেখ করো, সেসব গুণে এমন কিছুই ওরা পাবে না যা ওদের ইবাদতের যোগ্য করে। সা'দী আদেশের ভেতরে একটা শর্ত জুড়ে দেন: ওরা সত্যবাদী হলে ওদের বলো, যাতে ওদের আসল অবস্থা জানা যায়।"
+          },
+          {
+            "en": "Ibn Kathir explains it as: make them known to us, uncover them so that they are known, for they have no reality. He then cites 53:23: they are nothing but names you have named, you and your fathers, for which Allah has sent down no authority. The same words stand in Yusuf's (AS) speech to his fellow prisoners in 12:40, and in Hud's (AS) reply to his people in 7:71. At-Tabari reports ad-Dahhak: had they named them gods, they would have lied, since Allah has no partner. In another report he carries, Ibn Abbas adds a short phrase: and Allah created them.",
+            "bn": "ইবন কাসীর ব্যাখ্যা করেন: ওদের আমাদের চিনিয়ে দাও, পর্দা সরিয়ে দেখাও যাতে সবাই চেনে, কারণ ওদের কোনো বাস্তবতাই নেই। তারপর তিনি ৫৩:২৩ আয়াত আনেন: এগুলো কেবল কিছু নাম, যা তোমরা আর তোমাদের বাপদাদারা রেখেছ, আল্লাহ এর পক্ষে কোনো দলিল নাযিল করেননি। হুবহু এই কথা আছে ১২:৪০ আয়াতে, কারাগারের সঙ্গীদের উদ্দেশে ইউসুফ (আঃ)-এর বক্তব্যে, আর ৭:৭১ আয়াতে, নিজের কওমকে দেওয়া হূদ (আঃ)-এর জবাবে। তাবারী দাহহাকের কথা আনেন: ওরা যদি এদের উপাস্য বলে নাম দিত, তবে মিথ্যা বলত, কারণ আল্লাহর কোনো শরীক নেই। তাবারীর আনা আরেক বর্ণনায় ইবন আব্বাস (রাঃ) ছোট্ট একটি কথা যোগ করেন: অথচ আল্লাহই এদের সৃষ্টি করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Informing the One Who Knows",
+          "bn": "সর্বজ্ঞকে খবর দেওয়া?"
+        },
+        "p": [
+          {
+            "en": "Am tunabbi'unahu bi-ma la ya'lamu fi al-ard: or do you inform Him of something in the earth that He does not know? Ibn Kathir: such a thing does not exist, for if it existed on earth He would know it, since nothing is hidden from Him. As-Sa'di: He knows the unseen and the seen, and knows of no partner for Himself, so the claim is void, and its makers are like someone presuming to teach Allah of a partner He does not know. At-Tabari: do you tell Him there is a god in the earth, when there is none but Him in earth or heaven?",
+            "bn": "আম তুনাব্বিঊনাহূ বিমা লা ইয়া'লামু ফিল আরদ: নাকি তোমরা তাঁকে পৃথিবীর এমন কিছুর খবর দিচ্ছ, যা তিনি জানেন না? ইবন কাসীর বলেন: এমন কিছুর অস্তিত্বই নেই। পৃথিবীতে থাকলে তিনি অবশ্যই জানতেন, কারণ তাঁর কাছে কিছুই গোপন নয়। সা'দী বলেন, তিনি দৃশ্য-অদৃশ্য সব জানেন, অথচ নিজের কোনো শরীক জানেন না। তাহলে দাবিটাই বাতিল। যারা এ দাবি করে, তারা যেন আল্লাহকে এমন শরীকের কথা শেখাতে বসেছে, যা তিনি জানেন না। তাবারী বলেন: তোমরা কি তাঁকে জানাচ্ছ যে পৃথিবীতে কোনো ইলাহ আছে, অথচ আসমান বা যমীনে তিনি ছাড়া কোনো ইলাহ নেই?"
+          },
+          {
+            "en": "Am bi-zahirin min al-qawl: or is it by an outward kind of speech? At-Tabari defines it as speech that is heard, but in reality is falsehood with no truth in it. He notes that the early authorities gave the meaning the word points to rather than its exact sense: Mujahid said by conjecture, Qatada said falsehood, ad-Dahhak falsehood and lies. As-Sa'di: the most a claim of partnership can ever be is the outward show of your words; in reality there is no god but Allah. The Muyassar: you call them partners by the surface of a word, with no reality behind it.",
+            "bn": "আম বিযাহিরিম মিনাল কাওল: নাকি শুধু বাইরের কথা? তাবারীর সংজ্ঞায় এ এমন কথা যা কানে শোনা যায়, কিন্তু আসলে বাতিল, তাতে সত্যের কিছু নেই। তিনি খেয়াল করিয়ে দেন, পূর্বসূরিরা শব্দটার ঠিক অর্থ খুলে না বলে, শব্দটা যেদিকে ইঙ্গিত করে সেই অর্থ দিয়েছেন। মুজাহিদ বলেছেন, অনুমানের ভিত্তিতে। কাতাদা বলেছেন, বাতিল কথা। দাহহাক বলেছেন, বাতিল আর মিথ্যা। সা'দী বলেন, শরীকের দাবি বড়জোর তোমাদের মুখের বাইরের কথা পর্যন্ত যায়। আসলে আল্লাহ ছাড়া কোনো ইলাহ নেই। মুয়াসসার বলে: শব্দের বাইরের খোলস দিয়ে তোমরা ওদের শরীক বলো, ভেতরে কোনো বাস্তবতা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scheme Dressed as Success",
+          "bn": "সাফল্যের সাজে ফন্দি"
+        },
+        "p": [
+          {
+            "en": "Bal zuyyina li-lladhina kafaru makruhum: rather, their scheming has been made fair-seeming to those who disbelieve. At-Tabari paraphrases: Allah has no partner in the heavens or the earth, but their makr has been adorned for them, and that makr is their fabrication and lying against Allah. Mujahid, in the reports of at-Tabari and Ibn Kathir, took makr here as their speech, their talk of partners. Al-Baghawi gives their plotting and, from Mujahid, their shirk and lie against Allah; as-Sa'di, their disbelief, shirk and denial of His signs.",
+            "bn": "বাল যুইয়িনা লিল্লাযীনা কাফারূ মাকরুহুম: বরং কাফিরদের চোখে তাদের ফন্দিকে সুন্দর করে দেখানো হয়েছে। তাবারীর ব্যাখ্যা: আসমান-যমীনে আল্লাহর কোনো শরীক নেই, কিন্তু ওদের চোখে ওদের মাকর সাজিয়ে দেওয়া হয়েছে। আর সেই মাকর হলো আল্লাহর নামে ওদের বানানো কথা আর মিথ্যা। তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ এখানে মাকর মানে নিয়েছেন ওদের কথা, অর্থাৎ শরীক নিয়ে ওদের বুলি। বাগাভী অর্থ দেন ওদের চক্রান্ত, আর মুজাহিদ থেকে আনেন: ওদের শিরক আর আল্লাহর নামে মিথ্যা। সা'দীর কাছে এ হলো ওদের কুফর, শিরক আর আল্লাহর আয়াতকে মিথ্যা বলা।"
+          },
+          {
+            "en": "Who did the adorning? The verb is passive and names no one. Al-Qurtubi gives two answers on the majority reading: Allah, and, it is said, Shaytan. He also reports that Ibn Abbas and Mujahid read the verb in the active voice, with its doer named. The Muyassar names Shaytan, who made their false speech fair to them. Ibn Kathir cites 41:25, on companions assigned to them who made fair what lay before them and behind them. Ma'arif al-Qur'an says Shaytan made their very ignorance look good, so that they took it for achievement and success.",
+            "bn": "সাজিয়ে দিল কে? ক্রিয়াটি কর্মবাচ্যে, কর্তার নাম নেই। অধিকাংশের পাঠ ধরে কুরতুবী দুটি উত্তর দেন: আল্লাহ, আর কারও কারও মতে শয়তান। তিনি আরও জানান, ইবন আব্বাস (রাঃ) ও মুজাহিদ ক্রিয়াটি কর্তৃবাচ্যে পড়তেন, কর্তার উল্লেখসহ। মুয়াসসার শয়তানের নাম নেয়: সে-ই ওদের বাতিল কথাকে ওদের কাছে সুন্দর করে তুলেছে। ইবন কাসীর ৪১:২৫ আয়াত আনেন, যেখানে ওদের জন্য সঙ্গী জুটিয়ে দেওয়ার কথা আছে, যারা ওদের সামনে-পেছনের সবকিছু ওদের চোখে সুন্দর করে দেখিয়েছে। মাআরিফুল কুরআন বলে, শয়তান ওদের মূর্খতাকেই ওদের চোখে ভালো করে দেখিয়েছে, ফলে ওরা সেটাকেই কৃতিত্ব আর সাফল্য বলে ধরে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Away, or Turning Others",
+          "bn": "ফেরানো হলো, নাকি ফেরাল"
+        },
+        "p": [
+          {
+            "en": "Wa suddu 'an as-sabil: and they have been turned away from the path. The reciters differ here, and the commentators name them. At-Tabari reports the Kufan reciters generally reading suddu, Allah turned them from His path for their disbelief, and those of the Hijaz and Basra reading saddu: the idolaters turned people away. Al-Qurtubi names Hamza and al-Kisa'i for suddu; al-Baghawi names the Kufans and Ya'qub. Abu Hatim, in al-Qurtubi's report, preferred saddu, and Abu 'Ubayd chose suddu. At-Tabari's verdict is that both are well-known readings, each read by leading reciters, close in meaning, and he cites 8:36.",
+            "bn": "ওয়া সুদ্দূ আনিস সাবীল: আর তাদের পথ থেকে ফিরিয়ে রাখা হয়েছে। এখানে কারীদের পাঠে ভিন্নতা আছে, আর তাফসীরকারেরা তাঁদের নামও বলেন। তাবারী জানান, কূফার কারীরা সাধারণত পড়েছেন সুদ্দূ: আল্লাহ তাদের কুফরের কারণে তাদের নিজের পথ থেকে ফিরিয়ে রেখেছেন। আর হিজায ও বসরার কারীরা পড়েছেন সাদ্দূ: মুশরিকরাই মানুষকে ফিরিয়ে রেখেছে। কুরতুবী সুদ্দূ পাঠের জন্য হামযা ও কিসাঈর নাম বলেন, বাগাভী বলেন কূফাবাসী ও ইয়াকূবের নাম। কুরতুবীর বর্ণনায় আবূ হাতিম সাদ্দূ পছন্দ করেছেন, আর আবূ উবাইদ বেছে নিয়েছেন সুদ্দূ। তাবারীর রায়: দুটিই প্রসিদ্ধ পাঠ, প্রত্যেকটি বড় বড় কারীরা পড়েছেন, অর্থও কাছাকাছি। সঙ্গে তিনি ৮:৩৬ আয়াত উল্লেখ করেন।"
+          },
+          {
+            "en": "Wa man yudlili-llahu fa-ma lahu min had: and whomever Allah sends astray has no guide. At-Tabari explains it as one whom Allah leaves astray from reaching the truth by forsaking him: no one can guide him to it, because it is reached only through Allah's granting of success and His help. As-Sa'di gives the reason that no one has any share in the affair; Ibn Kathir sets beside it 5:41 and 16:37. Al-Qurtubi finds in the clause support for the reading suddu, the same doer standing behind both, and says that reading affirms decree. The article does not settle that question.",
+            "bn": "ওয়া মাই ইউদলিলিল্লাহু ফামা লাহূ মিন হাদ: আর আল্লাহ যাকে পথভ্রষ্ট করেন, তার কোনো পথপ্রদর্শক নেই। তাবারী ব্যাখ্যা করেন: যাকে আল্লাহ সাহায্য তুলে নিয়ে সত্যে পৌঁছানো থেকে বিপথে রাখেন, কেউ তাকে সেখানে পৌঁছে দিতে পারে না। কারণ সেখানে পৌঁছানো যায় কেবল আল্লাহর তাওফীক আর সাহায্যে। সা'দী কারণ দেন: সিদ্ধান্তে আর কারও কোনো অংশ নেই। ইবন কাসীর পাশে রাখেন ৫:৪১ আর ১৬:৩৭ আয়াত। কুরতুবী এই অংশে সুদ্দূ পাঠের সমর্থন পান, কারণ দুই জায়গাতেই কর্তা একই। তিনি বলেন, এই পাঠ তাকদীর প্রমাণ করে। এটা তাঁর নিজস্ব কাঠামো, এ লেখা প্রশ্নটার মীমাংসা করে না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes particular people: the idolaters the Prophet ﷺ was sent to, who in al-Qurtubi's gloss could name only al-Lat, al-'Uzza, Manat and Hubal. It licenses nothing against any living person or community. Its closing sentence about whom Allah sends astray is a statement about Allah, not a tool for sorting one's neighbours, and no reader is given the knowledge of who falls under it. Even the command name them is an argument put to people, not a verdict pronounced on them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নির্দিষ্ট কিছু মানুষের বর্ণনা দেয়: সেই মুশরিকরা, যাদের কাছে নবী ﷺ প্রেরিত হয়েছিলেন, কুরতুবীর ব্যাখ্যায় যারা নাম বলতে পারত শুধু লাত, উযযা, মানাত আর হুবালের। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আল্লাহ কাকে পথভ্রষ্ট করেন, শেষ বাক্যের এই কথা আল্লাহ সম্পর্কে একটি সংবাদ। প্রতিবেশীদের ভাগ করে চিহ্নিত করার হাতিয়ার এটা নয়, আর কে এর আওতায় পড়ে, সে জ্ঞান কোনো পাঠককে দেওয়া হয়নি। এমনকি ওদের নাম বলো আদেশটাও মানুষের সামনে রাখা যুক্তি, তাদের উপর ঘোষিত রায় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living as One Watched Over",
+          "bn": "নজরের নিচে বেঁচে থাকা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A general narration, not reported about this verse, speaks to the same awareness. It is in Sahih al-Bukhari (50), from Abu Hurayra (RA), inside the longer hadith in which Jibril came to the Prophet ﷺ and asked about faith, Islam, ihsan and the Hour. Its exchange on ihsan, in the Dar-us-Salam translation, reads: 'Then he further asked, What is Ihsan (perfection)? Allah's Messenger (ﷺ) replied, To worship Allah as if you see Him, and if you cannot achieve this state of devotion then you must consider that He is looking at you.'",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াত প্রসঙ্গে আসেনি, একই সচেতনতার কথা বলে। হাদীসটি সহীহ বুখারীতে (৫০) আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। দীর্ঘ এক হাদীসের ভেতরে এর অবস্থান, যেখানে জিবরীল (আঃ) নবী ﷺ-এর কাছে এসে ঈমান, ইসলাম, ইহসান আর কিয়ামত সম্পর্কে প্রশ্ন করেন। ইহসান নিয়ে কথোপকথনটুকু এমন: তিনি জিজ্ঞেস করলেন, ইহসান কী? তিনি বললেন, তুমি আল্লাহর ইবাদত করবে যেন তুমি তাঁকে দেখছ। আর যদি তুমি তাঁকে না দেখো, তবে তিনি তো তোমাকে দেখছেন।"
+          },
+          {
+            "en": "Turned inward, the verse asks less about idols than about attention. Ibn Kathir's word for Him who stands over every soul is raqib, watcher, and from that root comes muraqaba, the habit of keeping His watch in view. He stands over my provision, my term and every deed I do, hidden or open. Before I lean on a person, a plan or a fear, muraqaba asks the verse's own question: name it. Said plainly, much of what I lean on turns out to be a name with little behind it, and a scheme that looked fair because it was mine.",
+            "bn": "ভেতরের দিকে ফেরালে আয়াতটির প্রশ্ন মূর্তি নিয়ে যতটা, তার চেয়ে বেশি মনোযোগ নিয়ে। প্রতিটি প্রাণের উপর যিনি দাঁড়িয়ে, তাঁর জন্য ইবন কাসীরের শব্দ রাকীব, অর্থাৎ নজরদার। এই ধাতু থেকেই মুরাকাবা: তাঁর নজরকে সবসময় চোখের সামনে রাখার অভ্যাস। তিনি দাঁড়িয়ে আছেন আমার রিযিক, আমার আয়ু আর আমার প্রতিটি গোপন ও প্রকাশ্য আমলের উপর। কোনো মানুষ, পরিকল্পনা বা ভয়ের উপর ভর দেওয়ার আগে মুরাকাবা আয়াতেরই প্রশ্ন তোলে: নাম বলো। সোজাসুজি নাম বললে দেখা যায়, যার উপর ভর দিই তার অনেকটাই ফাঁপা নাম। আর যে ফন্দি সুন্দর লাগছিল, তা লাগছিল কারণ সেটা আমার।"
+          }
+        ]
+      }
+    ]
+  },
   "13:38": {
     "sections": [
       {
