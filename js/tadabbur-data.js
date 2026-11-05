@@ -21931,6 +21931,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When someone who wronged you admits it and you hold the upper hand, forgive without reproach, do not raise it again, and ask Allah to forgive them.",
     "lessonBn": "যে আপনার উপর অন্যায় করেছে সে যখন তা স্বীকার করে, আর ক্ষমতা আপনার হাতে, তখন খোঁটা না দিয়ে মাফ করুন, বিষয়টা আর তুলবেন না, আর তার জন্য আল্লাহর কাছে মাগফিরাত চান।"
+  },
+  "12:83": {
+    "reflectionEn": "The brothers come home with hard news, and this time they report what they saw: Binyamin was held in Egypt for theft, and the eldest stayed behind. Their father answers with the sentence he spoke years earlier over a bloodied shirt: your souls have made a matter look fair to you. An old wrong can make even a true report hard to hear. Then he says, a second time, that patience is fitting, and adds what he did not add before: perhaps Allah will bring them all back to me. Three sons are now away from him, and all three are in his hope. When loss comes again, does my heart close a little more, or does my hope widen to hold all I have lost?",
+    "reflectionBn": "ভাইয়েরা কঠিন এক খবর নিয়ে ঘরে ফেরে। এবার তারা যা দেখেছে, তা-ই বলে: চুরির দায়ে বিনয়ামীন মিসরে আটক, আর বড় ভাই সেখানেই রয়ে গেছে। পিতা জবাব দেন সেই বাক্যে, যা বহু বছর আগে রক্তমাখা এক জামার সামনে বলেছিলেন: তোমাদের মন একটা ব্যাপারকে তোমাদের চোখে সুন্দর করে দেখিয়েছে। পুরোনো অন্যায় সত্য খবরকেও শুনতে কঠিন করে তোলে। তারপর তিনি দ্বিতীয়বার বলেন, সবরই শ্রেয়। এবার যোগ করেন এমন কথা, যা আগেরবার বলেননি: হয়তো আল্লাহ তাদের সবাইকে আমার কাছে ফিরিয়ে আনবেন। তিন ছেলেই এখন তাঁর কাছ থেকে দূরে, আর তিনজনই আছে তাঁর আশায়। ক্ষতি যখন আবার আসে, আমার মন কি আরেকটু বন্ধ হয়ে যায়? নাকি আমার আশা এত বড় হয় যে যা কিছু হারিয়েছি, সবই তাতে জায়গা পায়?",
+    "pointsEn": [
+      "Is there someone who still finds it hard to believe me because of something I did long ago, and what have I done to repair it?",
+      "When a loss like an old one returns, do I meet it with the patience I promised the first time?",
+      "Do I let my hope reach for everything I have lost, the way he asked for all three together?",
+      "When I cannot tell who is telling the truth, do I leave the final word to the One who knows?",
+      "Whose return have I stopped praying for, as though it were beyond Allah?"
+    ],
+    "pointsBn": [
+      "অনেক আগে করা কোনো কাজের কারণে কেউ কি এখনো আমাকে বিশ্বাস করতে পারে না? সেটা মেরামতের জন্য আমি কী করেছি?",
+      "পুরোনো কোনো ক্ষতির মতো ক্ষতি যখন আবার আসে, প্রথমবার যে সবরের কথা দিয়েছিলাম, তা দিয়েই কি তার মোকাবিলা করি?",
+      "তিনি যেমন তিনজনকেই একসঙ্গে চেয়েছিলেন, আমার আশাও কি তেমনি হারানো সবকিছুর দিকে হাত বাড়ায়?",
+      "কে সত্য বলছে, যখন বুঝতে পারি না, তখন শেষ কথাটা কি সেই মহান সত্তার হাতে ছেড়ে দিই, যিনি সব জানেন?",
+      "কার ফিরে আসার জন্য দোয়া করা আমি ছেড়ে দিয়েছি, যেন তা আল্লাহর সাধ্যের বাইরে?"
+    ],
+    "lessonEn": "Guard your word, because one old lie can make a true report hard to believe; and when loss returns, meet it with patience again and hope for all you have lost.",
+    "lessonBn": "নিজের কথার আমানত রক্ষা করুন, কারণ একটি পুরোনো মিথ্যা সত্য খবরকেও অবিশ্বাস্য করে তোলে। আর ক্ষতি আবার এলে আবারও সবর করুন, আর যা হারিয়েছেন, তার সবটার জন্যই আশা রাখুন।"
   }
 };
 

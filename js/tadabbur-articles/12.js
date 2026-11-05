@@ -3135,6 +3135,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:83": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Same Words, Years Later",
+          "bn": "বহু বছর পর একই কথা"
+        },
+        "p": [
+          {
+            "en": "The verse opens with qala, he said, and says nothing of the journey home. At-Tabari notes that something has been left out of the telling: the brothers of Binyamin went back to their father, Rubil stayed behind, and they gave him the news; when they told him that Binyamin had stolen, he said this. Al-Baghawi marks the same compression. They returned and repeated what their eldest had told them to say in 12:81 and 12:82: your son has stolen; ask the town and the caravan; we are truthful.",
+            "bn": "আয়াতটি শুরু হয় 'কালা', তিনি বললেন, দিয়ে। ফেরার পথের কোনো কথা এতে নেই। তাবারী বলেন, এখানে বর্ণনার একটা অংশ উহ্য রাখা হয়েছে। বিনয়ামীনের ভাইয়েরা পিতার কাছে ফিরে গেল, রূবীল পেছনে রয়ে গেল, আর তারা পিতাকে খবরটা দিল। বিনয়ামীন চুরি করেছে, এ কথা শুনেই তিনি এ জবাব দিলেন। বাগাভীও এই সংক্ষেপের কথা বলেন। তারা ফিরে এসে সেটাই বলল, যা ১২:৮১ ও ১২:৮২ আয়াতে বড় ভাই তাদের শিখিয়ে দিয়েছিল: আপনার ছেলে চুরি করেছে, জনপদ আর কাফেলাকে জিজ্ঞেস করুন, আমরা সত্যবাদী।"
+          },
+          {
+            "en": "Ibn Kathir begins with the echo: he said to them what he had said when they came with false blood on Yusuf's shirt. The seven Arabic words after qala are the words of 12:18 exactly: bal sawwalat lakum anfusukum amran fa-sabrun jamil. Then the two verses part. 12:18 closes by asking Allah's help against what the brothers describe; 12:83 closes with a hope and two names of Allah. As-Sa'di describes the father on hearing the news: his grief grew intense and his sorrow doubled.",
+            "bn": "ইবন কাসীর শুরু করেন এই প্রতিধ্বনি দিয়ে। ইউসুফের জামায় মিথ্যা রক্ত নিয়ে তারা যখন এসেছিল, তখন যা বলেছিলেন, এবারও তাদের তা-ই বললেন। 'কালা'-র পরের সাতটি আরবি শব্দ হুবহু ১২:১৮ আয়াতের: বাল সাওওয়ালাত লাকুম আনফুসুকুম আমরা, ফাসাবরুন জামীল। এরপর দুই আয়াতের পথ আলাদা হয়ে যায়। ১২:১৮ শেষ হয় ভাইদের বানানো কথার বিপরীতে আল্লাহর সাহায্য চেয়ে। ১২:৮৩ শেষ হয় একটি আশা আর আল্লাহর দুটি নাম দিয়ে। খবর শুনে পিতার কী অবস্থা হলো, সা'দী তা বলেন: তাঁর শোক তীব্র হলো, দুঃখ দ্বিগুণ হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A True Report, an Old Shadow",
+          "bn": "সত্য খবর, পুরোনো ছায়া"
+        },
+        "p": [
+          {
+            "en": "What makes the repetition striking is that this time the brothers were not inventing what they reported. The cup had been drawn from Binyamin's bag in 12:76, and in 12:81 they testify only to what they know. Ma'arif al-Qur'an says it outright: since Ya'qub (AS) knew they had lied to him before in Yusuf's case, he could not believe them this time either, though in fact this time they had told him no lie.",
+            "bn": "পুনরাবৃত্তিটা চোখে পড়ার মতো, কারণ এবার ভাইয়েরা কিছু বানিয়ে বলেনি। ১২:৭৬ আয়াতে বিনয়ামীনের বস্তা থেকেই পাত্রটি বের করা হয়েছিল। ১২:৮১ আয়াতে তারা কেবল সেটুকুরই সাক্ষ্য দেয়, যা তারা জানে। মাআরিফুল কুরআন কথাটা সরাসরি বলে। ইউসুফের ব্যাপারে তারা আগে মিথ্যা বলেছিল, ইয়াকুব (আঃ) তা জানতেন। তাই এবারও তিনি তাদের বিশ্বাস করতে পারেননি, যদিও এবার আসলে তারা কোনো মিথ্যা বলেনি।"
+          },
+          {
+            "en": "Ibn Ishaq's report, in at-Tabari and in Ibn Kathir, gives the father's thought: when they brought him this, he suspected them and supposed it was like what they had done with Yusuf. As-Sa'di says the same in his own words: he suspected them in this affair as he had suspected them in the first. The Muyassar writes the suspicion into its gloss: your souls, which command evil, made fair to you a plot you devised, as you did before with Yusuf.",
+            "bn": "পিতার মনে কী ভাবনা এসেছিল, তা পাওয়া যায় ইবন ইসহাকের বর্ণনায়, তাবারী ও ইবন কাসীর দুজনেই যা এনেছেন। তারা যখন এ খবর নিয়ে এল, তিনি তাদের সন্দেহ করলেন। ভাবলেন, ইউসুফের সঙ্গে তারা যা করেছিল, এটাও তেমনই কিছু। সা'দী নিজের ভাষায় একই কথা বলেন: প্রথম ঘটনায় যেমন তাদের সন্দেহ করেছিলেন, এ ঘটনাতেও তেমনি করলেন। মুয়াসসার সন্দেহটাকে ব্যাখ্যার ভেতরেই বসিয়ে দেয়: মন্দের দিকে ঠেলে দেওয়া তোমাদের মন একটা চক্রান্তকে তোমাদের চোখে সুন্দর করে দেখিয়েছে, যেমন আগে ইউসুফের সঙ্গে করেছিলে।"
+          },
+          {
+            "en": "On these readings the weight falls on the brothers. A deed done years before now stands between them and their father, so that a true account arrives already doubted. Once they asked him to believe a shirt; now they ask him to believe a town and a caravan. The verse shows what a lie goes on costing, long after it was told.",
+            "bn": "এসব ব্যাখ্যায় ভারটা পড়ে ভাইদের উপর। বহু বছর আগের এক কাজ এখন তাদের আর পিতার মাঝখানে দাঁড়িয়ে আছে। তাই সত্য খবরও পৌঁছায় সন্দেহ মাথায় নিয়ে। একসময় তারা পিতাকে একটা জামা বিশ্বাস করাতে চেয়েছিল। এখন চাইছে একটা জনপদ আর একটা কাফেলার কথা বিশ্বাস করাতে। মিথ্যা বলার অনেক পরেও তার দাম দিয়ে যেতে হয়, আয়াতটি তা দেখিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Matter This Time?",
+          "bn": "এবার কোন ব্যাপার?"
+        },
+        "p": [
+          {
+            "en": "What is the amr, the matter, this time? The commentators answer differently. Al-Baghawi names something the brothers had really done: your souls made fair to you the carrying of your brother to Egypt, in pursuit of a quick gain. It was they who had asked, in 12:63, that Binyamin be sent with them so that they could be given grain. On this reading the matter is not a theft but a request.",
+            "bn": "এবার 'আমর', অর্থাৎ ব্যাপারটা কী? তাফসীরকারেরা ভিন্ন ভিন্ন উত্তর দেন। বাগাভী এমন একটা কাজের কথা বলেন, যা ভাইয়েরা সত্যিই করেছিল। তাঁর ব্যাখ্যায়: তোমাদের মন তোমাদের চোখে সুন্দর করে দেখিয়েছে ভাইকে মিসরে নিয়ে যাওয়া, তাড়াতাড়ি কিছু লাভের আশায়। ১২:৬৩ আয়াতে তারাই চেয়েছিল, বিনয়ামীনকে তাদের সঙ্গে পাঠানো হোক, যাতে শস্য পাওয়া যায়। এ ব্যাখ্যায় ব্যাপারটা চুরি নয়, সেই আবদার।"
+          },
+          {
+            "en": "Ibn Kathir reports a second explanation from some people: because this new deed of theirs grew out of their earlier deed, the ruling on that deed was carried over to it, and so his words were sound. The earlier wrong colours the later event. Ibn Ishaq and as-Sa'di speak of suspicion; this view speaks of a ruling carried forward, without calling the second report a lie.",
+            "bn": "ইবন কাসীর কিছু লোকের আরেকটি ব্যাখ্যা আনেন। তাদের এই নতুন কাজটা যেহেতু আগের কাজের উপর দাঁড়িয়ে, তাই আগের কাজের বিধান এর উপরও টেনে আনা হলো। সেই হিসেবে তাঁর কথাটা ঠিকই ছিল। এখানে আগের অন্যায় পরের ঘটনার রং বদলে দেয়। ইবন ইসহাক ও সা'দী বলেন সন্দেহের কথা। আর এ মত বলে আগের বিধান সামনে টেনে আনার কথা। দ্বিতীয় খবরটা মিথ্যা ছিল, এমন দাবি সে মত করে না।"
+          },
+          {
+            "en": "Al-Qurtubi reads it a third way and turns the sentence towards Binyamin: your souls made it seem to you that my son stole, and he did not steal; that happened only for a matter Allah wills. Ma'arif al-Qur'an offers the same possibility: Ya'qub (AS) may have meant what was arranged in Egypt, where Binyamin was held on a charge of theft for a purpose whose outcome would unfold later, and in a better form. The article keeps these readings side by side and chooses none.",
+            "bn": "কুরতুবী তৃতীয় একভাবে পড়েন, আর বাক্যটাকে ঘুরিয়ে দেন বিনয়ামীনের দিকে। তাঁর ব্যাখ্যায়: তোমাদের মন তোমাদের বুঝিয়েছে যে আমার ছেলে চুরি করেছে, অথচ সে চুরি করেনি। এটা ঘটেছে শুধু আল্লাহর চাওয়া একটা উদ্দেশ্যে। মাআরিফুল কুরআনও একই সম্ভাবনার কথা বলে। ইয়াকুব (আঃ) হয়তো মিসরে সাজানো সেই ব্যবস্থার দিকেই ইঙ্গিত করেছিলেন, যেখানে একটা উদ্দেশ্যে চুরির অভিযোগে বিনয়ামীনকে আটকানো হয়েছিল। তার ফল পরে আরও সুন্দর রূপে প্রকাশ পাবে। এ লেখা ব্যাখ্যাগুলো পাশাপাশি রাখে, কোনোটিকে বেছে নেয় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an closes its discussion by saying that both sides spoke truly. On the father's side, there had been no real theft, Binyamin had not really been arrested for theft, and the truth of the matter lay elsewhere; that was true in its place. On the sons' side, what they said, as they knew it, was not wrong either. The scene holds two honest positions: men reporting what they saw, and a father sensing that what they saw was not the whole of it.",
+            "bn": "মাআরিফুল কুরআন আলোচনা শেষ করে এই বলে যে দুই পক্ষই সত্য বলেছিল। পিতার দিক থেকে দেখলে, আসলে কোনো চুরি হয়নি, চুরির জন্য বিনয়ামীন সত্যিকার অর্থে আটকও হননি। আসল ঘটনা ছিল অন্য জায়গায়, আর সে হিসেবে তাঁর কথা ছিল ঠিক। ছেলেদের দিক থেকে দেখলে, নিজেরা যতটুকু জানত, সেটুকুই বলেছিল। সেটাও ভুল ছিল না। দৃশ্যটিতে তাই দুটি সৎ অবস্থান। একদিকে কিছু মানুষ, যারা নিজের চোখে দেখা ঘটনা জানাচ্ছে। অন্যদিকে এক পিতা, যাঁর মন বলছে, তারা যা দেখেছে, সেটাই পুরো ঘটনা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Over More Than One",
+          "bn": "একজনের বেশি হারানোর সবর"
+        },
+        "p": [
+          {
+            "en": "Fa-sabrun jamil is explained at 12:18, and the commentators here mostly point back to it. Al-Qurtubi says so in as many words: my course is beautiful patience, or beautiful patience is more fitting for me, as at the beginning of the surah. What is new is what the patience has to carry. At-Tabari's gloss on 12:83 is in the plural: my patience over what has befallen me in the loss of my children. The first time it was one son.",
+            "bn": "ফাসাবরুন জামীলের ব্যাখ্যা ১২:১৮ আয়াতেই এসেছে, আর এখানে তাফসীরকারেরা মূলত সেদিকেই ইশারা করেন। কুরতুবী তা সরাসরি বলেন: আমার পথ সুন্দর সবর, অথবা সুন্দর সবরই আমার জন্য শ্রেয়, যেমন সূরার শুরুতে বলা হয়েছে। নতুন বিষয় হলো সবরকে এবার কী বইতে হবে। ১২:৮৩ আয়াতে তাবারীর ব্যাখ্যা বহুবচনে: আমার সন্তানদের হারিয়ে যা আমার উপর এসেছে, তার উপর আমার সবর। প্রথমবার ছিল একটি ছেলে।"
+          },
+          {
+            "en": "As-Sa'di describes the order of what follows. He took refuge first in beautiful patience, whose marks were given at 12:18; then he turned to the hope of relief, when he saw that the matter had grown severe and the distress had reached its end. Patience comes first in his reading, and hope rises from inside it.",
+            "bn": "এরপর কী কী এল, তার ক্রম সা'দী তুলে ধরেন। তিনি প্রথমে আশ্রয় নিলেন সুন্দর সবরে, যার পরিচয় ১২:১৮ আয়াতেই এসেছে। তারপর যখন দেখলেন ব্যাপারটা কঠিন হয়ে গেছে আর কষ্ট শেষ সীমায় পৌঁছেছে, তখন মুক্তির আশার দিকে ফিরলেন। সা'দীর ব্যাখ্যায় সবর আগে আসে, আর আশা জন্ম নেয় তার ভেতর থেকেই।"
+          },
+          {
+            "en": "Al-Qurtubi adds a saying of al-Hasan, through Qatadah: no two draughts that a servant swallows are dearer to Allah than a draught of calamity swallowed with good patience and good consolation, and a draught of anger swallowed with forbearance and pardon. This is al-Hasan's word, not a hadith. The verse sets the first kind before us: a fresh calamity, on top of an old one, received with the words of patience a second time.",
+            "bn": "কুরতুবী কাতাদার সূত্রে হাসানের একটি কথা আনেন। বান্দা যত ঢোক গেলে, তার মধ্যে দুটি ঢোক আল্লাহর কাছে সবচেয়ে প্রিয়। একটি বিপদের ঢোক, যা সে গেলে উত্তম সবর আর উত্তম সান্ত্বনার সঙ্গে। আরেকটি রাগের ঢোক, যা সে গেলে সহনশীলতা আর ক্ষমার সঙ্গে। এটি হাসানের নিজের কথা, হাদীস নয়। আয়াতটি প্রথম ঢোকটির ছবি সামনে আনে: পুরোনো বিপদের উপর নতুন বিপদ, আর দ্বিতীয়বারও তাকে গ্রহণ করা সবরের কথা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bihim: Three, Not Two",
+          "bn": "বিহিম: দুজন নয়, তিনজন"
+        },
+        "p": [
+          {
+            "en": "'Asa Allahu an ya'tiyani bihim jami'an: perhaps Allah will bring them to me, all together. The commentators agree on whom the word gathers. Qatadah and Ibn Ishaq, both in at-Tabari: Yusuf, his brother and Rubil. Al-Baghawi and as-Sa'di: Yusuf, Binyamin and their brother who stayed in Egypt. The Muyassar: my three sons, Yusuf, his full brother, and their eldest, who stayed behind for his brother's sake.",
+            "bn": "আসাল্লাহু আঁই ইয়াতিয়ানী বিহিম জামীআ: হয়তো আল্লাহ তাদের সবাইকে একসঙ্গে আমার কাছে এনে দেবেন। শব্দটি কাদের একত্র করে, সে ব্যাপারে তাফসীরকারেরা একমত। তাবারীতে কাতাদা ও ইবন ইসহাক দুজনেই বলেন: ইউসুফ, তাঁর ভাই আর রূবীল। বাগাভী ও সা'দীর ভাষায়: ইউসুফ, বিনয়ামীন আর তাদের সেই ভাই, যে মিসরে রয়ে গেছে। মুয়াসসার বলে: আমার তিনজন ছেলে। ইউসুফ, তাঁর সহোদর ভাই, আর তাদের বড় ভাই, যে ভাইয়ের জন্য পেছনে থেকে গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi explains why the word is bihim, them, at all: because they are three, Yusuf, his brother, and the brother who stayed behind for his brother's sake, the speaker of I will never leave the land in 12:80. Ibn Kathir adds why that brother stayed. He was waiting in Egypt for Allah's command concerning him: either his father would be content with him and order him home, or he would take his brother away in secret.",
+            "bn": "শব্দটি কেন 'বিহিম', তাদের, সেটা কুরতুবী ব্যাখ্যা করেন: কারণ তারা তিনজন: ইউসুফ, তাঁর ভাই, আর সেই ভাই, যে ভাইয়ের জন্য পেছনে থেকে গেছে। ১২:৮০ আয়াতে 'আমি কিছুতেই এ দেশ ছাড়ব না' কথাটি তারই। সে ভাই কেন থেকে গেল, ইবন কাসীর তা যোগ করেন। নিজের ব্যাপারে আল্লাহর ফয়সালার অপেক্ষায় সে মিসরে ছিল। হয় পিতা তার উপর সন্তুষ্ট হয়ে তাকে ফিরে আসতে বলবেন, নয়তো সে গোপনে ভাইকে নিয়ে আসবে।"
+          },
+          {
+            "en": "So the hope is wider than the news. He had just heard of a son held and another who would not come home, yet the prayer reaches past both to the son lost years before, of whom no word had come since. After a second blow he does not narrow what he asks for. He asks for all of them, together.",
+            "bn": "আশাটা তাই খবরের চেয়েও বড়। তিনি সবে শুনেছেন, এক ছেলে আটক, আরেক ছেলে ফিরবে না। অথচ দোয়াটা দুজনকে ছাড়িয়ে পৌঁছে যায় সেই ছেলের কাছে, যাকে বহু বছর আগে হারিয়েছেন, যার কোনো খবর তারপর আর আসেনি। দ্বিতীয় আঘাতের পরেও তিনি চাওয়াটা ছোট করেন না। সবাইকে চান, একসঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Yusuf Is Counted In",
+          "bn": "ইউসুফকেও কেন গোনা হলো"
+        },
+        "p": [
+          {
+            "en": "Why count Yusuf among those to be brought back, when his brothers had long ago reported him eaten by a wolf? Al-Qurtubi answers that Ya'qub (AS) held that Yusuf had not died; only news of him had been cut off. He then explains the silence from Yusuf's side. Yusuf was carried off as a slave who had no say over himself; then the king bought him, and he was kept in his house, not seen by people; then he was imprisoned.",
+            "bn": "বহু বছর আগে ভাইয়েরা তো জানিয়ে দিয়েছিল, ইউসুফকে নেকড়ে খেয়ে ফেলেছে। তবু যাদের ফিরে পাওয়ার আশা, তাদের মধ্যে ইউসুফকে কেন গোনা হলো? কুরতুবীর উত্তর: ইয়াকুব (আঃ)-এর বিশ্বাস ছিল, ইউসুফ মারা যাননি, শুধু তাঁর খবর আসা বন্ধ হয়ে গেছে। এরপর তিনি ইউসুফের দিক থেকে এই নীরবতার কারণ বলেন। ইউসুফকে নিয়ে যাওয়া হয়েছিল দাস হিসেবে, নিজের উপর যার কোনো এখতিয়ার ছিল না। তারপর রাজা তাঁকে কিনে নেন, আর তিনি তাঁর ঘরে থাকতেন, লোকের সামনে আসতেন না। তারপর তাঁকে কারাগারে পাঠানো হয়।"
+          },
+          {
+            "en": "When Yusuf gained power, al-Qurtubi goes on, he found a way for his father to learn of him, and sent no messenger because he did not want his brothers to know of it, lest they keep the messenger from reaching their father. Ma'arif al-Qur'an hears a hint in this clause too: the hope for them all together may point to an outcome already taking shape.",
+            "bn": "কুরতুবী আরও বলেন, ক্ষমতা হাতে পাওয়ার পর ইউসুফ এমন উপায় বের করলেন, যাতে পিতা তাঁর খবর জানতে পারেন। কোনো দূত পাঠাননি, কারণ চাননি ভাইয়েরা তা জানুক। জানলে তারা হয়তো দূতকে পিতার কাছে পৌঁছাতেই দিত না। মাআরিফুল কুরআন এ অংশেও একটি ইঙ্গিত দেখে। সবাইকে একসঙ্গে ফিরে পাওয়ার এ আশা হয়তো এমন এক পরিণতির দিকে ইশারা করে, যা তখনই আকার নিচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Knows My Aloneness",
+          "bn": "আমার একাকীত্বও তিনি জানেন"
+        },
+        "p": [
+          {
+            "en": "Innahu huwa al-'Alimu al-Hakim: it is He who is the Knowing, the Wise. The glosses of al-'Alim run close. Al-Qurtubi, Ibn Kathir and the Muyassar: knowing of my state. Al-Baghawi: of my grief and my anguish at losing them. As-Sa'di: He knows my state, my need of His relief and favour, and how wholly I depend on His kindness. At-Tabari's list is the fullest: knowing of my aloneness, of their loss and my grief over them, and of the truth of what they say as against its falsehood.",
+            "bn": "ইন্নাহু হুওয়াল আলীমুল হাকীম: তিনিই সর্বজ্ঞ, প্রজ্ঞাময়। 'আলীম' শব্দের ব্যাখ্যাগুলো কাছাকাছি। কুরতুবী, ইবন কাসীর আর মুয়াসসার বলেন: আমার অবস্থা তিনি জানেন। বাগাভী বলেন: তাদের হারিয়ে আমার শোক আর মনের যন্ত্রণা তিনি জানেন। সা'দী বলেন: তিনি জানেন আমার অবস্থা, তাঁর দেওয়া মুক্তি ও অনুগ্রহের জন্য আমার প্রয়োজন, আর তাঁর দয়ার উপর আমি কতটা নির্ভরশীল। সবচেয়ে বিস্তারিত তালিকা তাবারীর। তিনি জানেন আমার একাকীত্ব, তাদের হারানো আর তাদের জন্য আমার শোক। আর জানেন, তারা যা বলছে তার কোনটা সত্য, কোনটা মিথ্যা।"
+          },
+          {
+            "en": "At-Tabari's last clause matters here. A father who cannot check his sons' account leaves its truth with the One who knows it. Al-Hakim is glossed as wise in His management of creation by at-Tabari, al-Baghawi and the Muyassar; in His acts, His decree and His measuring out by Ibn Kathir; in what He decrees by al-Qurtubi. As-Sa'di: He who has set for everything a measure and for every matter an end.",
+            "bn": "তাবারীর শেষ কথাটি এখানে গুরুত্বপূর্ণ। যে পিতা ছেলেদের কথা যাচাই করতে পারছেন না, তিনি তার সত্যতার ভার রেখে দেন সেই সত্তার কাছে, যিনি তা জানেন। 'হাকীম' শব্দের ব্যাখ্যায় তাবারী, বাগাভী আর মুয়াসসার বলেন: সৃষ্টির ব্যবস্থাপনায় তিনি প্রজ্ঞাময়। ইবন কাসীর বলেন: তাঁর কাজে, তাঁর ফয়সালায় আর তাকদীরে। কুরতুবী বলেন: তিনি যা ফয়সালা করেন তাতে। সা'দীর ভাষায়: তিনি প্রতিটি জিনিসের একটা পরিমাণ আর প্রতিটি ব্যাপারের একটা শেষ ঠিক করে রেখেছেন।"
+          },
+          {
+            "en": "The pair frames the story. In 12:6 Ya'qub (AS) told the young Yusuf, after hearing his dream, that your Lord is Knowing, Wise. Here, with three sons gone from him, he says it again of the same Lord. And in 12:100, with his parents raised on the throne and the dream fulfilled, Yusuf (AS) closes his words with the very phrase of this verse: innahu huwa al-'Alimu al-Hakim.",
+            "bn": "এই নামজোড়া গোটা কাহিনিকে ঘিরে রেখেছে। ১২:৬ আয়াতে স্বপ্নের কথা শুনে ইয়াকুব (আঃ) কিশোর ইউসুফকে বলেছিলেন, তোমার রব সর্বজ্ঞ, প্রজ্ঞাময়। এখানে তিনজন ছেলেই কাছ থেকে দূরে, আর তিনি একই রবের ব্যাপারে আবার সেই কথা বলেন। আর ১২:১০০ আয়াতে, যখন বাবা-মাকে সিংহাসনে তোলা হয়েছে আর স্বপ্ন সত্য হয়েছে, ইউসুফ (আঃ) নিজের কথা শেষ করেন হুবহু এ আয়াতের বাক্যে: ইন্নাহু হুওয়াল আলীমুল হাকীম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At the Second Shock",
+          "bn": "দ্বিতীয় আঘাতে"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it. Al-Qurtubi gives one report raised to the Prophet ﷺ, whoever spreads his grief abroad has not been patient, through Muqatil ibn Sulayman from 'Ata' from Abu Hurayra, with no grading, and it is not relied on here. He also refers back to his remark under al-Baqara that patience is at the first shock. Those words close a narration in al-Bukhari that is general, about a woman at a grave, and not attached to this verse.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয় না। কুরতুবী নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন: যে নিজের শোক চারদিকে ছড়িয়ে দেয়, সে সবর করেনি। এর সূত্র মুকাতিল ইবন সুলাইমান থেকে আতা হয়ে আবু হুরাইরা (রাঃ)। কোনো মান উল্লেখ নেই, তাই এখানে এর উপর ভর করা হয়নি। কুরতুবী সূরা বাকারায় তাঁর একটি কথার দিকেও ইশারা করেন: সবর হলো প্রথম আঘাতের সময়। এ কথাগুলো দিয়েই শেষ হয় বুখারীর একটি বর্ণনা। সেটি সাধারণ, কবরের পাশে এক নারীকে নিয়ে, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "In al-Bukhari's wording (1283), Anas ibn Malik narrated: \"The Prophet (ﷺ) passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. She said to him, 'Go away, for you have not been afflicted with a calamity like mine.' And she did not recognize him. Then she was informed that he was the Prophet (ﷺ). so she went to the house of the Prophet (ﷺ) and there she did not find any guard. Then she said to him, 'I did not recognize you.' He said, 'Verily, the patience is at the first stroke of a calamity.'\" Al-Bukhari placed it in his Sahih.",
+            "bn": "বুখারীর ভাষ্যে (১২৮৩) আনাস ইবন মালিক (রাঃ) বর্ণনা করেন: \"নবী ﷺ এক নারীর পাশ দিয়ে যাচ্ছিলেন, যে একটি কবরের পাশে কাঁদছিল। তিনি তাকে আল্লাহকে ভয় করতে আর সবর করতে বললেন। সে বলল, 'আমার কাছ থেকে সরে যান, আমার মতো বিপদ তো আপনার উপর আসেনি।' সে তাঁকে চিনতে পারেনি। পরে তাকে জানানো হলো, ইনি ছিলেন নবী ﷺ। তখন সে নবী ﷺ-এর ঘরের দরজায় এল, সেখানে কোনো পাহারাদার পেল না। সে বলল, 'আমি আপনাকে চিনতে পারিনি।' তিনি বললেন, 'সবর তো বিপদের প্রথম আঘাতের সময়।'\" বুখারী এটি তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন।"
+          },
+          {
+            "en": "In 12:84 he turns from them and says, O my sorrow for Yusuf, and his eyes whiten with grief. Ibn Kathir's abridged English says the new grief, losing Binyamin and Rubil, renewed the old sorrow he had kept to himself. This patience, said at a second shock, holds tears inside it; 12:86, where he complains of his grief only to Allah, has its own article. The verse describes these brothers' deeds within one family's story and licenses nothing against any living person or community.",
+            "bn": "১২:৮৪ আয়াতে তিনি তাদের দিক থেকে মুখ ফিরিয়ে নেন, বলেন, হায় ইউসুফের জন্য আমার দুঃখ! শোকে তাঁর চোখ সাদা হয়ে যায়। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ বলে, বিনয়ামীন আর রূবীলকে হারানোর নতুন শোক সেই পুরোনো দুঃখকে নতুন করে জাগিয়ে দিল, যা তিনি নিজের ভেতরে চেপে রেখেছিলেন। দ্বিতীয় আঘাতে বলা এ সবরের ভেতরে তাই চোখের পানিও আছে। ১২:৮৬ আয়াত, যেখানে তিনি বলেন নিজের শোকের অভিযোগ কেবল আল্লাহর কাছেই করেন, তার আলাদা লেখা আছে। আয়াতটি একটি পরিবারের কাহিনির ভেতরে এই ভাইদের কাজের বর্ণনা দেয়, কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "12:86-87": {
     "sections": [
       {
