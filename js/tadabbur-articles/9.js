@@ -1347,6 +1347,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "Only These Come Asking",
+          "bn": "অনুমতি চাইতে আসে কেবল এরাই"
+        },
+        "p": [
+          {
+            "en": "The verses around this one belong to a single scene. Ibn Kathir's abridged commentary on 9:42 places it at the expedition of Tabuk, where some hung back and asked the Prophet ﷺ for permission to remain behind, falsely pretending to have legitimate reasons. As-Sa'di on the same verse says the reproach there is for the hypocrites who stayed behind from Tabuk with false excuses. 9:43 then turns to the Prophet ﷺ himself and opens with Allah's pardon. 9:44 gives the mirror image of our verse: the believers, who never ask leave to be excused from striving with their wealth and their lives.",
+            "bn": "এই আয়াতের আশপাশের আয়াতগুলো একই ঘটনার ভেতর দিয়ে চলে। ৯:৪২-এর আলোচনায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর একে স্থাপন করে তাবুক অভিযানে। কিছু লোক সেখানে পিছিয়ে ছিল, আর বানানো কারণ দেখিয়ে নবী ﷺ-এর কাছে থেকে যাওয়ার অনুমতি চেয়েছিল। একই আয়াতে সা'দী বলেন, সেখানকার তিরস্কার সেই মুনাফিকদের জন্য, যারা মিথ্যা অজুহাত দেখিয়ে তাবুক থেকে পিছিয়ে ছিল। ৯:৪৩ এরপর সরাসরি নবী ﷺ-কে সম্বোধন করে, আর শুরু হয় আল্লাহর ক্ষমার ঘোষণা দিয়ে। ৯:৪৪ দেখায় আমাদের আয়াতের ঠিক উল্টো ছবি: মুমিনরা নিজেদের মাল ও জান দিয়ে জিহাদ থেকে অব্যাহতি চাইতে কখনো আসে না।"
+          },
+          {
+            "en": "Our verse completes the pair with innama, only: only those ask your leave who do not believe in Allah and the Last Day, whose hearts have doubted, so in their doubt they waver. The commentators fill in what the asking was for. At-Tabari: leave to stay behind after you and abandon striving with you, without a clear excuse. Ibn Kathir: leave to sit at home, from someone who has no excuse. Both qualifications matter, because the verse concerns a particular kind of request, made at a particular call, by people with nothing real to plead. The rest of the verse explains where such a request comes from.",
+            "bn": "আমাদের আয়াত জোড়াটা পূর্ণ করে ইন্নামা শব্দ দিয়ে, যার অর্থ কেবল। তোমার কাছে অনুমতি চায় কেবল তারাই, যারা আল্লাহ ও শেষ দিবসে ঈমান আনে না, যাদের অন্তর সন্দেহে পড়েছে, ফলে নিজেদের সন্দেহের ভেতরেই তারা দোদুল্যমান। কীসের অনুমতি, তা তাফসীরকারেরা খুলে বলেন। তাবারীর কথায়: তোমাকে ছেড়ে পেছনে থেকে যাওয়ার আর তোমার সঙ্গে জিহাদ ত্যাগ করার অনুমতি, কোনো স্পষ্ট ওজর ছাড়াই। ইবন কাসীরের কথায়: ঘরে বসে থাকার অনুমতি, এমন লোকের পক্ষ থেকে যার কোনো ওজর নেই। দুটি শর্তই গুরুত্বপূর্ণ। আয়াতটি এক ধরনের অনুরোধের কথা বলছে, এক বিশেষ ডাকের সময়ে, এমন লোকদের কাছ থেকে যাদের দেখানোর মতো আসল কোনো কারণ ছিল না। এমন অনুরোধ জন্মায় কোথা থেকে, আয়াতের বাকি অংশ সেটাই বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Faith, or No Full Faith",
+          "bn": "ঈমান নেই, নাকি পূর্ণ ঈমান নেই"
+        },
+        "p": [
+          {
+            "en": "The first description is the weightiest: alladhina la yu'minuna billahi wal-yawmi al-akhir, those who do not believe in Allah and the Last Day. At-Tabari reads it at the root of belief: they do not affirm Allah as true and do not acknowledge His oneness. Ibn Kathir reads the second half practically: they do not hope for Allah's reward in the next abode for what they do. The Muyassar joins the two and adds a third, that they do no righteous deeds. Each gloss names a different failure, and each finds something missing long before any request was made.",
+            "bn": "প্রথম বর্ণনাটিই সবচেয়ে ভারী: আল্লাযীনা লা ইউমিনূনা বিল্লাহি ওয়াল ইয়াওমিল আখির, যারা আল্লাহ ও শেষ দিবসে ঈমান আনে না। তাবারী একে পড়েন ঈমানের একেবারে গোড়া থেকে: তারা আল্লাহকে সত্য বলে মানে না, তাঁর একত্ব স্বীকার করে না। ইবন কাসীর দ্বিতীয় অংশটা পড়েন বাস্তব জীবনের দিক থেকে: নিজেদের আমলের জন্য পরকালে আল্লাহর কাছে তারা কোনো সওয়াবের আশা রাখে না। মুয়াসসার দুটিকে একসঙ্গে রাখে, সঙ্গে তৃতীয় একটি কথা যোগ করে: তারা নেক আমলও করে না। প্রত্যেক ব্যাখ্যা আলাদা এক ঘাটতির নাম নেয়। আর প্রত্যেকেই দেখায়, অনুমতি চাওয়ার অনেক আগেই ভেতরে কিছু একটা অনুপস্থিত ছিল।"
+          },
+          {
+            "en": "As-Sa'di frames it differently, and the difference is worth keeping. He does not say they had no faith; he says they had no complete faith and no truthful certainty. From that he draws a chain: for that reason their desire for good grew small, they shrank in cowardice from the fighting, and they came to need to ask leave to abandon it. Where at-Tabari describes an absence at the foundation, as-Sa'di describes a deficiency that works outward until it becomes a request. Both are readings of one clause, and neither cancels the other.",
+            "bn": "সা'দী বিষয়টা দেখেন অন্যভাবে, আর এই পার্থক্যটা মনে রাখার মতো। তিনি বলেন না যে তাদের ঈমান ছিল না। তিনি বলেন, তাদের পূর্ণ ঈমান ছিল না, সত্যিকারের ইয়াকীনও ছিল না। সেখান থেকে তিনি একটা শৃঙ্খল টানেন। এ কারণেই কল্যাণের প্রতি তাদের আগ্রহ কমে গিয়েছিল, যুদ্ধের সামনে তারা ভীরু হয়ে পড়েছিল, আর যুদ্ধ ছেড়ে থাকার জন্য অনুমতি চাওয়া তাদের দরকার হয়ে পড়েছিল। তাবারী দেখান ভিতের মধ্যেই এক শূন্যতা। সা'দী দেখান এমন এক কমতি, যা ভেতর থেকে ধীরে ধীরে বাইরে আসে, শেষে অনুমতি চাওয়ার রূপ নেয়। একই বাক্যের দুটি পাঠ, কোনোটি অন্যটিকে বাতিল করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Hearts Doubted",
+          "bn": "অন্তর সন্দেহ করেছিল কীসে"
+        },
+        "p": [
+          {
+            "en": "Wa-rtabat qulubuhum: and their hearts have doubted. The verb shares its root with raybihim, their doubt, later in the verse, so one root is heard twice in a short line. The subject is the hearts, not the tongues. Nothing here says these men voiced their doubt; the Quran places it where no one at the scene could see it. Al-Baghawi glosses the verb with two words, they doubted and they became hypocrites, joining the inner state to what it produced. Al-Qurtubi keeps to one: their hearts doubted in the religion.",
+            "bn": "ওয়ারতাবাত কুলূবুহুম: আর তাদের অন্তর সন্দেহে পড়েছে। ক্রিয়াটির ধাতু আর আয়াতের পরের অংশের রাইবিহিম, তাদের সন্দেহ, শব্দটির ধাতু একই। ফলে ছোট্ট একটি আয়াতে একই ধাতু দুবার শোনা যায়। কর্তা এখানে অন্তর, জিহ্বা নয়। আয়াত কোথাও বলে না যে তারা মুখে সন্দেহ প্রকাশ করেছিল। কুরআন সন্দেহটা রেখেছে এমন জায়গায়, যা সেদিন উপস্থিত কেউ দেখতে পায়নি। বাগাভী ক্রিয়াটির ব্যাখ্যা দেন দুই শব্দে: তারা সন্দেহ করেছে এবং মুনাফিক হয়ে গেছে। ভেতরের অবস্থা আর তার ফল তিনি এক সঙ্গে বেঁধে দেন। কুরতুবী থামেন এক কথায়: দ্বীনের ব্যাপারে তাদের অন্তর সন্দেহ করেছে।"
+          },
+          {
+            "en": "The commentators differ on what exactly was doubted. At-Tabari reaches furthest down: their hearts doubted the reality of Allah's oneness, and the reward of those who obey Him and the punishment of those who disobey Him. Ibn Kathir and the Muyassar point at the message: they doubted the soundness of what the Prophet ﷺ had brought them, the Muyassar specifying Islam and its laws. The difference lies in depth, not in direction. A heart unsure of the recompense will soon be unsure of the cost of earning it, and 9:42 has already said the journey was far for them.",
+            "bn": "ঠিক কোন বিষয়ে সন্দেহ, তা নিয়ে তাফসীরকারদের কথা এক নয়। তাবারী নামেন সবচেয়ে গভীরে। তাঁর মতে আল্লাহর একত্বের বাস্তবতায় তাদের অন্তর সন্দেহ করেছিল, সন্দেহ করেছিল আনুগত্যকারীদের প্রতিদানে আর নাফরমানদের শাস্তিতেও। ইবন কাসীর ও মুয়াসসার আঙুল তোলেন রিসালাতের দিকে: নবী ﷺ তাদের কাছে যা নিয়ে এসেছিলেন, তার সত্যতায় তারা সন্দেহ করেছিল। মুয়াসসার আরও নির্দিষ্ট করে বলে, ইসলাম ও তার বিধিবিধানে। পার্থক্যটা গভীরতার, দিকের নয়। প্রতিদান নিয়ে যে অন্তর নিশ্চিত নয়, তা অর্জনের দাম দিতেও সে শিগগিরই দ্বিধায় পড়ে। আর ৯:৪২ আগেই বলে দিয়েছে, পথটা তাদের কাছে দীর্ঘ মনে হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Foot Forward, One Back",
+          "bn": "এক পা সামনে, এক পা পেছনে"
+        },
+        "p": [
+          {
+            "en": "Fa-hum fi raybihim yataraddadun: so in their doubt they waver. The phrasing puts them inside the doubt, and calls the doubt theirs. Ibn Kathir gives the fullest picture of the verb: they are bewildered, putting one foot forward and drawing the other back, with no firm footing in anything, a people perplexed and perishing, neither with these nor with those. That last phrase is the wording of 4:143, where the hypocrites are described as swaying between, belonging neither to these nor to those, and he closes with the end of that same verse: whomever Allah leaves astray, you will not find for him a way.",
+            "bn": "ফাহুম ফী রাইবিহিম ইয়াতারাদ্দাদূন: ফলে নিজেদের সন্দেহের ভেতরেই তারা দোদুল্যমান। বাক্যটি তাদের রেখেছে সন্দেহের ভেতরে, আর সন্দেহটাকে বলেছে তাদের নিজের। ক্রিয়াটির সবচেয়ে পূর্ণ ছবি আঁকেন ইবন কাসীর। তারা দিশেহারা, এক পা সামনে বাড়ায় তো আরেক পা পিছিয়ে নেয়। কোনো কিছুতেই তাদের পা স্থির নয়। তারা দিশেহারা, ধ্বংসের পথের লোক, না এদের দিকে, না ওদের দিকে। শেষ কথাটি হুবহু ৪:১৪৩-এর ভাষা, যেখানে মুনাফিকদের বর্ণনা এসেছে দুইয়ের মাঝে দোল খাওয়া লোক হিসেবে, না এদের, না ওদের। আর তিনি শেষ করেন একই আয়াতের শেষাংশ দিয়ে: আল্লাহ যাকে পথভ্রষ্ট করেন, তুমি তার জন্য কোনো পথ পাবে না।"
+          },
+          {
+            "en": "The others confirm the motion and add to it. Al-Qurtubi: in their doubt they go and come back. As-Sa'di: they never cease to be in doubt and bewilderment, which makes the wavering a condition rather than a passing mood. At-Tabari explains why the motion never resolves: in their doubt they are bewildered, wavering in the darkness of bewilderment, not knowing truth from falsehood so that they might act with insight. On his reading the wavering is not indecision about a plan. It is the state of someone who cannot see well enough to choose, and so keeps stepping and retreating in the dark.",
+            "bn": "অন্যরাও এই আসা-যাওয়ার কথা বলেন, সঙ্গে কিছু যোগ করেন। কুরতুবীর কথায়: নিজেদের সন্দেহের মধ্যে তারা যায় আর ফিরে আসে। সা'দীর কথায়: সন্দেহ আর দিশেহারা অবস্থা থেকে তারা কখনো বের হয় না। তাহলে এই দোলাচল ক্ষণিকের মেজাজ নয়, স্থায়ী অবস্থা। তাবারী বলেন, দোলাচল কেন কখনো থামে না। সন্দেহের মধ্যে তারা দিশেহারা, বিভ্রান্তির অন্ধকারে ঘুরপাক খায়। সত্য-মিথ্যা চিনতে পারে না যে বুঝেশুনে আমল করবে। তাঁর পাঠে এটা কোনো পরিকল্পনা নিয়ে দ্বিধা নয়। এ এমন মানুষের অবস্থা, যে বেছে নেওয়ার মতো স্পষ্ট দেখতে পায় না। তাই অন্ধকারে সে বারবার এগোয় আর পিছোয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Doubt to the Request",
+          "bn": "সন্দেহ থেকে অনুমতির আবেদন"
+        },
+        "p": [
+          {
+            "en": "Read as a whole, the verse runs backward from what was seen to what was hidden. The visible thing is the request for leave. Beneath it the commentators find the wavering; beneath that, the doubting heart; beneath that, a faith in Allah and the Last Day that was absent or, in as-Sa'di's wording, incomplete. The request is the last link of the chain and the only link anyone at the scene could see. That is why 9:44 could mark the believers by its absence: a heart settled on Allah and the Day had nothing to produce it from.",
+            "bn": "পুরো আয়াতটা একসঙ্গে পড়লে দেখা যায়, তা চোখে পড়া জিনিস থেকে পেছনের দিকে, লুকানো জিনিসের দিকে এগোয়। চোখে পড়ে শুধু অনুমতি চাওয়াটা। তার নিচে তাফসীরকারেরা পান দোলাচল। তার নিচে সন্দেহে পড়া অন্তর। তারও নিচে আল্লাহ ও শেষ দিবসের প্রতি এমন ঈমান, যা হয় ছিলই না, অথবা সা'দীর ভাষায় অপূর্ণ ছিল। অনুমতির আবেদন এই শৃঙ্খলের শেষ কড়া, আর সেদিন উপস্থিত লোকেরা কেবল এটাই দেখতে পেয়েছিল। এ কারণেই ৯:৪৪ মুমিনদের চিনিয়েছে এর অনুপস্থিতি দিয়ে। যে অন্তর আল্লাহ ও শেষ দিবসে স্থির, তার ভেতরে এমন আবেদন জন্মানোর মতো কিছু নেই।"
+          },
+          {
+            "en": "9:46 supplies the outward evidence: had they meant to go out, they would have made some preparation for it. As-Sa'di uses that verse to define a real excuse. It is the obstacle that stops a servant after he has spent his effort and worked at the means of going out, and then a lawful obstacle holds him back; that, he says, is the person who is excused. The doubter's excuse fails this test because nothing came before it. Nothing was made ready. The wavering never had to end in a decision, because the excuse arrived first.",
+            "bn": "বাইরের প্রমাণটা দেয় ৯:৪৬: তারা যদি সত্যিই বের হতে চাইত, তাহলে তার জন্য কিছু না কিছু প্রস্তুতি নিত। এ আয়াত দিয়ে সা'দী আসল ওজরের সংজ্ঞা দেন। ওজর হলো সেই বাধা, যা আসে বান্দা সাধ্যমতো চেষ্টা করার পর, বের হওয়ার উপকরণ জোগাড়ে খাটার পর। তারপর শরীয়তসম্মত কোনো বাধা তাকে আটকে দেয়। তাঁর মতে এমন মানুষই মাজুর। সন্দেহে পড়া লোকের অজুহাত এই পরীক্ষায় টেকে না, কারণ তার আগে কিছুই ছিল না। কোনো প্রস্তুতিই নেওয়া হয়নি। দোলাচলকে কোনো সিদ্ধান্তে পৌঁছাতে হয়নি, কারণ তার আগেই অজুহাত হাজির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lifted by An-Nur, or Not",
+          "bn": "সূরা নূর কি বিধানটি তুলে নিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his comment with a report about the ruling. A group of the people of knowledge, he says, held that these two verses, 9:44 and 9:45, were abrogated by a verse in Surah an-Nur. He names two of them through a single chain: 'Ikrimah and al-Hasan al-Basri said that the passage from those who believe in Allah do not ask your leave down to so in their doubt they waver was abrogated by the verse in an-Nur, only those are the believers who believe in Allah, as far as indeed Allah is Forgiving, Merciful, which is 24:62. He argues abrogation elsewhere, not here.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন বিধান-সংক্রান্ত এক বর্ণনা দিয়ে। তিনি বলেন, আলেমদের একটি দলের মত ছিল, এ দুটি আয়াত, অর্থাৎ ৯:৪৪ ও ৯:৪৫, সূরা নূরের একটি আয়াত দ্বারা মানসূখ হয়েছে। এক সনদে তিনি তাঁদের দুজনের নাম আনেন। ইকরিমা ও হাসান বসরী বলেছেন: 'যারা আল্লাহতে ঈমান রাখে তারা তোমার কাছে অনুমতি চায় না' থেকে 'ফলে নিজেদের সন্দেহের ভেতরেই তারা দোদুল্যমান' পর্যন্ত অংশটি রহিত করেছে নূরের আয়াত: 'মুমিন তো কেবল তারাই, যারা আল্লাহতে ঈমান আনে', 'নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু' পর্যন্ত। এটি ২৪:৬২। নাসখ নিয়ে নিজের বিস্তারিত আলোচনার জন্য তিনি পাঠককে অন্য জায়গায় পাঠান, এখানে বিতর্কে যান না।"
+          },
+          {
+            "en": "Al-Qurtubi, on our verse, cites the same view from Ibn 'Abbas (RA) through Abu Dawud, and the report is in Abu Dawud's Sunan (2771): Ibn 'Abbas said \"The verse \"Those who believe in Allaah and the Last Day ask thee for no exemption from fighting with their goods and persons\" was abrogated by the verse \"Only those are believers who believe in Allaah and His Apostle....For Allaah is Oft-Forgiving, Most Merciful.\" His wording names only 9:44. It is Ibn 'Abbas's own statement, not a saying of the Prophet ﷺ, and the copy consulted shows no grading for it. Like at-Tabari's, its chain runs from al-Husayn through Yazid to 'Ikrimah.",
+            "bn": "আমাদের আয়াতের আলোচনায় কুরতুবী একই মত উদ্ধৃত করেন ইবন আব্বাস (রাঃ) থেকে, আবু দাউদের সূত্রে। বর্ণনাটি আছে আবু দাউদের সুনানে (২৭৭১): ইবন আব্বাস (রাঃ) বলেন, 'যারা আল্লাহ ও শেষ দিবসে ঈমান রাখে তারা তোমার কাছে অনুমতি চায় না' আয়াতটি রহিত করেছে সূরা নূরের আয়াত: 'মুমিন তো কেবল তারাই, যারা আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আনে', 'ক্ষমাশীল, পরম দয়ালু' পর্যন্ত। তাঁর কথায় নাম এসেছে শুধু ৯:৪৪-এর। এটি ইবন আব্বাস (রাঃ)-এর নিজের উক্তি, নবী ﷺ-এর বাণী নয়। যে কপি দেখা হয়েছে, তাতে এর কোনো মান উল্লেখ নেই। তাবারীর বর্ণনার মতো এর সনদও হুসাইন থেকে ইয়াযীদ হয়ে ইকরিমা পর্যন্ত গেছে।"
+          },
+          {
+            "en": "Not every report runs the same way. Al-Qurtubi, commenting on 24:62 itself, records Qatadah saying the reverse: that its words, give leave to whom you will of them, were abrogated by 9:43, Allah has pardoned you, why did you give them leave. Ibn Kathir's abridged commentary on 9:43 has Qatadah describing the order the other way round, the reproach first and the permission of an-Nur revealed later. So the texts consulted here carry reports in both directions, with Qatadah named on each side by a different book. The disagreement is recorded here as it stands, and no position is taken on it.",
+            "bn": "সব বর্ণনা কিন্তু এক দিকে যায় না। ২৪:৬২-এর আলোচনায় কুরতুবী কাতাদার উল্টো একটি কথা আনেন: সেখানকার 'তাদের মধ্যে যাকে চাও অনুমতি দাও' অংশটি রহিত হয়েছে ৯:৪৩ দিয়ে, 'আল্লাহ তোমাকে ক্ষমা করেছেন, তুমি কেন তাদের অনুমতি দিলে'। আবার ৯:৪৩-এর আলোচনায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর কাতাদার মুখেই ক্রমটা উল্টো করে বলে: আগে তিরস্কার, পরে সূরা নূরে অনুমতি নাযিল। তাহলে এখানে যেসব গ্রন্থ দেখা হয়েছে, তাতে দুই দিকেরই বর্ণনা আছে। দুই ভিন্ন গ্রন্থে দুই পক্ষেই কাতাদার নাম। মতভেদটা যেমন আছে তেমনই রাখা হলো, কোনো পক্ষ নেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Portrait, Not a Charge",
+          "bn": "ছবি আঁকা, কারও বিরুদ্ধে অভিযোগ নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's summary is short: this is the description of the hypocrites. He means the men of that moment, who asked to stay behind without an excuse, and the commentators tie the passage to Tabuk and the people around it. The verse describes what it describes. It licenses nothing against any living person or community, and no living person may be called a hypocrite on the strength of this verse. Its own test lies in the heart, in belief and in doubt, and the Quran placed that test where no human eye reaches. A request for leave, seen from outside, proves nothing.",
+            "bn": "তাবারীর সারকথা ছোট: এ হলো মুনাফিকদের বৈশিষ্ট্য। তিনি বোঝাচ্ছেন সেই সময়ের লোকদের, যারা কোনো ওজর ছাড়াই পেছনে থেকে যাওয়ার অনুমতি চেয়েছিল। তাফসীরকারেরা অংশটিকে জুড়ে দেন তাবুক আর তার আশপাশের মানুষের সঙ্গে। আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি সে দেয় না। এ আয়াতের জোরে জীবিত কাউকে মুনাফিক বলা যায় না। আয়াতের নিজের মাপকাঠি অন্তরে, ঈমানে আর সন্দেহে। কুরআন সেই মাপকাঠি রেখেছে এমন জায়গায়, যেখানে মানুষের চোখ পৌঁছায় না। বাইরে থেকে দেখা একটা অনুমতি চাওয়া কিছুই প্রমাণ করে না।"
+          },
+          {
+            "en": "The same passage leaves room for those with real reasons. As-Sa'di's definition of an excuse, on 9:46, turns on effort already spent and a lawful obstacle after it, and 9:91 clears the weak, the ill and those who find nothing to spend, when they are sincere to Allah and His Messenger ﷺ. A man who wanted to go and was truly held back stands outside this verse altogether. What it exposes is a request with doubt underneath, and only Allah sees underneath. No tafsir consulted for this verse attaches a hadith of the Prophet ﷺ to it.",
+            "bn": "যাদের আসল কারণ আছে, তাদের জন্য এই অংশেই জায়গা রাখা আছে। ৯:৪৬-এর আলোচনায় সা'দীর দেওয়া ওজরের সংজ্ঞা দাঁড়িয়ে আছে আগে করা চেষ্টা আর তারপর আসা শরীয়তসম্মত বাধার উপর। আর ৯:৯১ দুর্বল, অসুস্থ আর খরচ করার মতো কিছু না পাওয়া লোকদের দায়মুক্ত করে, যদি তারা আল্লাহ ও তাঁর রাসূল ﷺ-এর প্রতি আন্তরিক থাকে। যে যেতে চেয়েছিল অথচ সত্যিই আটকে গেছে, সে এ আয়াতের আওতার বাইরে। আয়াত যা খুলে দেখায় তা হলো এমন অনুমতি চাওয়া, যার নিচে সন্দেহ আছে। আর নিচে কী আছে, তা দেখেন কেবল আল্লাহ। এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground That Holds",
+          "bn": "পায়ের নিচে শক্ত মাটি"
+        },
+        "p": [
+          {
+            "en": "Turned inward, the verse offers an anatomy rather than an accusation. Doubt that is never examined does not stay still. It becomes bewilderment, then the back-and-forth that Ibn Kathir describes, one foot forward and one back, and finally an excuse that ends the discomfort without ending the doubt. At-Tabari's phrase names the alternative: to know truth from falsehood and act with insight. The verse's own order suggests the repair comes earlier than the moment of the call. It begins with clarity about Allah and the Last Day, the kind that makes the call itself unsurprising.",
+            "bn": "নিজের দিকে ফেরালে আয়াতটা অভিযোগ নয়, বরং সন্দেহের ভেতরটা কাটাছেঁড়া করে দেখায়। যে সন্দেহ কখনো খতিয়ে দেখা হয় না, তা একই জায়গায় থেমে থাকে না। প্রথমে তা দিশেহারা অবস্থা হয়। তারপর আসে সেই আগুপিছু, যার কথা ইবন কাসীর বলেছেন: এক পা সামনে, এক পা পেছনে। শেষে আসে এমন এক অজুহাত, যা অস্বস্তি থামায়, কিন্তু সন্দেহ থামায় না। তাবারীর কথায় বিকল্পটাও আছে: সত্য-মিথ্যা চিনে বুঝেশুনে আমল করা। আয়াতের নিজের ক্রম বলে দেয়, মেরামতের কাজ শুরু হয় ডাক আসার অনেক আগে। শুরু হয় আল্লাহ ও শেষ দিবস সম্পর্কে এমন স্পষ্টতা দিয়ে, যাতে ডাক এলে তা আর অপ্রত্যাশিত লাগে না।"
+          },
+          {
+            "en": "A practical test comes from 9:46: what have I prepared for the good thing I say I intend? Where the answer is nothing, the verse invites a harder question about what I believe its reward to be. Doubt faced does less harm than doubt lived in, and the picture of people stepping forward and back inside their doubt is what doubt left alone looks like. A prayer can be framed from the verse's own words and claimed as nothing more: O Allah, settle my heart on You and on the Last Day, and do not leave me wavering. It is not a Sunnah du'a.",
+            "bn": "৯:৪৬ থেকে একটা বাস্তব পরীক্ষা পাওয়া যায়: যে ভালো কাজটা করব বলে দাবি করি, তার জন্য কী প্রস্তুতি নিয়েছি? উত্তর যদি হয় কিছুই না, তাহলে আয়াতটা আরও কঠিন এক প্রশ্নের দিকে ঠেলে দেয়: ওই কাজের প্রতিদান সম্পর্কে আমি আসলে কী বিশ্বাস করি? যে সন্দেহের মুখোমুখি হওয়া হয়, তার ক্ষতি কম। যে সন্দেহের ভেতরে বাস করা হয়, ক্ষতি তার বেশি। নিজেদের সন্দেহের ভেতরে এগোনো আর পিছোনো লোকদের যে ছবি, সেটাই ফেলে রাখা সন্দেহের চেহারা। আয়াতের শব্দ থেকে একটা দোয়া বানানো যায়, শুধু ততটুকু দাবি নিয়েই: হে আল্লাহ, আমার অন্তরকে তোমার উপর আর শেষ দিবসের উপর স্থির করে দাও, আমাকে দোদুল্যমান রেখো না। এটি সুন্নাহর কোনো দোয়া নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "9:51": {
     "sections": [
       {

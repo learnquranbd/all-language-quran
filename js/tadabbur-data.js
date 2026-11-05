@@ -21151,6 +21151,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Healing a wounded heart is Allah's work: carry your grievance to Him instead of taking revenge yourself, and leave room for Him to turn even the wrongdoer to repentance.",
     "lessonBn": "আহত অন্তরের নিরাময় আল্লাহর কাজ। নিজে প্রতিশোধ না নিয়ে অভিযোগটা তাঁর কাছে নিয়ে যান, আর জুলুমকারীকেও তিনি তওবার পথে ফিরিয়ে আনতে পারেন, সে জায়গাটুকু খোলা রাখুন।"
+  },
+  "9:45": {
+    "reflectionEn": "The verse before this one marks the believers by something they never do: come asking to be let off. This one names who does come, and traces the request back to its root. Behind it is a heart that has doubted, and the doubt has become a place to live: in their doubt they waver. One step forward, one step back, and no ground that holds. Wavering is tiring, and the easiest way out of it is an excuse, because an excuse lets a person stay put without ever deciding. The verse describes people at one moment and gives no one a way to read another's heart. It is a question to carry inward: where am I still going back and forth, and what doubt sits underneath?",
+    "reflectionBn": "আগের আয়াত মুমিনদের চিনিয়েছে এমন এক কাজ দিয়ে, যা তারা কখনো করে না: অব্যাহতি চাইতে আসা। এ আয়াত বলছে কারা আসে। আর শুধু অনুমতি চাওয়াতেই থেমে থাকে না, চাওয়াটার শিকড় পর্যন্ত নেমে যায়। তার পেছনে আছে এমন এক অন্তর, যা সন্দেহে পড়েছে। সেই সন্দেহ এখন তাদের থাকার জায়গা হয়ে গেছে: নিজেদের সন্দেহের ভেতরেই তারা দোদুল্যমান। এক পা সামনে, এক পা পেছনে, পায়ের নিচে শক্ত মাটি নেই। এভাবে দোল খেতে খেতে মানুষ ক্লান্ত হয়, আর বেরোনোর সবচেয়ে সহজ পথ একটা অজুহাত। অজুহাত থাকলে কোনো সিদ্ধান্ত না নিয়েই যেখানে আছি সেখানে বসে থাকা যায়। আয়াতটি এক বিশেষ মুহূর্তের কিছু মানুষের বর্ণনা দেয়। অন্যের অন্তর পড়ার কোনো উপায় সে কাউকে দেয় না। প্রশ্নটা নিজের দিকেই ফেরানোর: কোন বিষয়ে আমি এখনো আগুপিছু করছি, আর তার নিচে কোন সন্দেহ লুকিয়ে আছে?",
+    "pointsEn": [
+      "What have I gone back and forth on for so long that the wavering itself has become my answer?",
+      "The last time I asked to be excused from something good, what doubt lay under the reason I gave?",
+      "If I truly meant to do the thing I keep putting off, what would I already have prepared for it?",
+      "Is there a good deed I would do without hesitating if I were certain of its reward, and what does my hesitation say about that certainty?",
+      "Have I ever reached for a verse like this to judge someone else's heart, when it was handed to me to examine my own?"
+    ],
+    "pointsBn": [
+      "কোন বিষয়ে আমি এত দিন ধরে আগুপিছু করছি যে এই দোলাচলটাই এখন আমার উত্তর হয়ে দাঁড়িয়েছে?",
+      "শেষবার কোনো ভালো কাজ থেকে অব্যাহতি চেয়েছিলাম যখন, যে কারণ দেখিয়েছিলাম তার নিচে কোন সন্দেহ ছিল?",
+      "যে কাজটা বারবার পিছিয়ে দিচ্ছি, সত্যিই করতে চাইলে এতদিনে তার জন্য কী কী প্রস্তুতি নিয়ে ফেলতাম?",
+      "এমন কোনো নেক আমল কি আছে, যার প্রতিদানে পুরো নিশ্চিত হলে আমি দ্বিধা ছাড়াই করে ফেলতাম? তাহলে আমার দ্বিধা আমার নিশ্চয়তা সম্পর্কে কী বলে?",
+      "এমন আয়াত কি কখনো অন্যের অন্তরের বিচার করতে টেনে এনেছি, অথচ তা আমার হাতে এসেছিল নিজের অন্তর যাচাই করার জন্য?"
+    ],
+    "lessonEn": "Asking to be let off often grows out of an unsettled heart; find the doubt you keep circling and settle it, instead of living inside it.",
+    "lessonBn": "অব্যাহতি চাওয়ার পেছনে প্রায়ই থাকে অস্থির এক অন্তর। যে সন্দেহের চারপাশে বারবার ঘুরছেন, তার ভেতরে বাস না করে সেটার মীমাংসা করুন।"
   }
 };
 
