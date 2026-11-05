@@ -22851,6 +22851,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh what you own and what you lack against your Lord, who gives and takes away, and let every blessing you admire bring 'what Allah wills' to your tongue.",
     "lessonBn": "যা আছে আর যা নেই, দুটোই মাপুন সেই রবের সঙ্গে যিনি দেন এবং নিয়ে নেন। আর যে নিয়ামত দেখে মুগ্ধ হন, তা যেন আপনার মুখে 'মা শা আল্লাহ' এনে দেয়।"
+  },
+  "18:10": {
+    "reflectionEn": "A few young men leave their city with nothing settled. They have no store of food, no idea how long they must hide, and no promise that no one will follow. At the mouth of the cave they do not ask for victory or for a way home. They ask for two things: mercy from their Lord's own presence, and right guidance in the affair they are caught in. They had already done what was theirs to do; they had walked away. What remained, they handed over in a single sentence. When the road ahead is dark for me, do I pray for the outcome I have already chosen, or for the right course, whatever it turns out to be?",
+    "reflectionBn": "কয়েকজন যুবক শহর ছেড়ে বেরিয়ে পড়ে, কিছুই তখনো ঠিক হয়নি। সঙ্গে খাবারের মজুত নেই, কতদিন লুকিয়ে থাকতে হবে জানা নেই, কেউ পিছু নেবে না এমন ভরসাও নেই। গুহার মুখে দাঁড়িয়ে তারা বিজয় চায় না, ঘরে ফেরার পথও চায় না। চায় শুধু দুটি জিনিস: রবের নিজের কাছ থেকে রহমত, আর যে অবস্থায় তারা আটকে আছে, তাতে সঠিক পথ। নিজেদের যা করার ছিল, তারা তা করে ফেলেছে। পা বাড়িয়ে সরে এসেছে। বাকিটা এক বাক্যে তাঁর হাতে সঁপে দিয়েছে। সামনের পথ যখন আমার কাছে অন্ধকার, আমি কি নিজের আগে থেকে বেছে রাখা ফলাফলটাই চাই, নাকি চাই সঠিক পথ, তা যেমনই হোক?",
+    "pointsEn": [
+      "What have I already done with my own feet, and what am I still waiting for someone else to do for me?",
+      "When I pray in a hard moment, do I name the result I want, or ask for what is right in my affair?",
+      "When I am afraid, where do I look first for mercy: to people and means, or to my Lord?",
+      "Which company or setting is slowly pulling me away from my faith, and what would it cost me to step back from it?",
+      "Can I hold my plans loosely enough to let Him prepare the course for me?"
+    ],
+    "pointsBn": [
+      "নিজের পায়ে হেঁটে আমি কতটুকু করে ফেলেছি, আর কোন কাজটা অন্য কেউ করে দেবে বলে এখনো বসে আছি?",
+      "কঠিন মুহূর্তে দোয়া করার সময় আমি কি নিজের পছন্দের ফলাফলটার নাম ধরে চাই, নাকি চাই আমার ব্যাপারে যা সঠিক?",
+      "ভয় পেলে রহমতের জন্য আমি প্রথমে কোথায় তাকাই: মানুষ আর উপায়-উপকরণের দিকে, নাকি আমার রবের দিকে?",
+      "কোন সঙ্গ বা কোন পরিবেশ আমাকে ধীরে ধীরে ঈমান থেকে দূরে টেনে নিচ্ছে? সেখান থেকে সরে আসতে আমার কী দাম দিতে হবে?",
+      "নিজের পরিকল্পনা কি আমি এতটা আলগা করে ধরতে পারি, যাতে পথটা তিনিই আমার জন্য তৈরি করে দেন?"
+    ],
+    "lessonEn": "When you must leave what threatens your faith, do what you can, then ask Allah for His mercy and for right guidance in your affair, not for the outcome you chose.",
+    "lessonBn": "যা আপনার ঈমানের জন্য হুমকি, তা ছেড়ে আসতে হলে নিজের সাধ্যমতো চেষ্টা করুন। তারপর আল্লাহর কাছে তাঁর রহমত চান, আর চান আপনার ব্যাপারে সঠিক পথ, নিজের বেছে নেওয়া ফলাফল নয়।"
   }
 };
 

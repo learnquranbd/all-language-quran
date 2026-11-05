@@ -291,6 +291,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Into a Hollow of the Mountain",
+          "bn": "পাহাড়ের কোটরে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Idh awa al-fityatu ila al-kahf: when the youths took refuge in the cave. As-Sa'di notes that 18:9 gave the story in brief and that its detail now follows. At-Tabari ties this verse to the question just asked, whether the people of the Cave were a wonder among Allah's signs: that was when the youths took shelter in the mountain's cave, fleeing with their religion to Allah. Al-Baghawi explains the verb: you say awa so-and-so to a place when he takes it as his dwelling.",
+            "bn": "ইয আওয়াল ফিতয়াতু ইলাল কাহফ: যখন যুবকেরা গুহায় আশ্রয় নিল। সা'দী লক্ষ করেন, ১৮:৯ আয়াতে কাহিনিটা এসেছে সংক্ষেপে, এবার আসছে তার বিস্তার। তাবারী আয়াতটিকে জুড়ে দেন ঠিক আগের প্রশ্নের সঙ্গে: গুহাবাসীরা কি আল্লাহর নিদর্শনের মধ্যে বিস্ময়কর ছিল? সেটা সেই সময়ের কথা, যখন যুবকেরা নিজেদের দ্বীন নিয়ে আল্লাহর দিকে পালিয়ে পাহাড়ের গুহায় ঠাঁই নিয়েছিল। বাগাভী ক্রিয়াটির অর্থ বুঝিয়ে দেন: কেউ কোনো জায়গাকে নিজের আবাস বানিয়ে নিলে বলা হয়, সে সেখানে আওয়া করেছে।"
+          },
+          {
+            "en": "Fitya, Ma'arif al-Qur'an notes, is the plural of fata, a young man, and as-Sa'di glosses it simply as the young. Kahf, Ma'arif adds, is a large mountain cave; a small cave is a ghar. As for why they went, Ibn Kathir says they fled with their religion from their people lest they be turned away from it, and sought a cave in a mountain to hide. The Muyassar names the fear: their people's pressure and being forced to worship idols. As-Sa'di says they meant by it to fortify and guard themselves against that trial.",
+            "bn": "মাআরিফুল কুরআন জানায়, ফিতয়া শব্দটি ফাতা-র বহুবচন, অর্থ তরুণ। সা'দী সোজা অর্থ করেন: যুবকেরা। মাআরিফ আরও বলে, কাহফ হলো পাহাড়ের বড় গুহা, ছোট হলে তাকে বলে গার। কেন তারা গেল? ইবন কাসীর বলেন, নিজেদের দ্বীন বাঁচাতে তারা জাতির কাছ থেকে পালিয়েছিল, যাতে জাতি তাদের দ্বীন থেকে সরিয়ে দিতে না পারে। লুকানোর জন্য খুঁজে নিয়েছিল পাহাড়ের এক গুহা। মুয়াসসার ভয়টার নাম বলে দেয়: জাতির চাপ, আর জোর করে মূর্তিপূজা করানো। সা'দী বলেন, গুহায় গিয়ে তারা সেই ফিতনা থেকে নিজেদের দুর্গের মতো আগলে রাখতে চেয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy Asked From His Presence",
+          "bn": "তাঁর নিজের কাছের রহমত"
+        },
+        "p": [
+          {
+            "en": "Then the words they said on entering. Rabbana atina min ladunka rahmatan: our Lord, give us from Yourself mercy. The commentators gloss min ladunka with min 'indika, from Your own side. At-Tabari reads the request as the youths' longing that their Lord grant them mercy from Himself. Ibn Kathir has them say: bestow on us mercy from You, and he describes them as asking Allah for His mercy and His gentleness towards them. The Muyassar uses the same gloss. The prayer names the source of the mercy before its content.",
+            "bn": "তারপর গুহায় ঢুকে তারা যে কথা বলেছিল: রাব্বানা আতিনা মিল লাদুনকা রাহমাহ, হে আমাদের রব, তোমার নিজের কাছ থেকে আমাদের রহমত দাও। তাফসীরকারেরা মিল লাদুনকা-র অর্থ করেন মিন ইনদিকা দিয়ে, অর্থাৎ তোমার নিজের পক্ষ থেকে। তাবারীর ব্যাখ্যায় এ হলো রবের প্রতি যুবকদের আকুতি, যেন তিনি নিজের কাছ থেকে তাদের রহমত দান করেন। ইবন কাসীরের ভাষায় তারা বলছে: তোমার কাছ থেকে আমাদের রহমত দান করো। তিনি বলেন, তারা আল্লাহর কাছে চাইছিল তাঁর রহমত আর তাদের প্রতি তাঁর কোমল যত্ন। মুয়াসসারও একই অর্থ করে। দোয়াটা কী চাইছে, তার আগে বলে দেয় কার কাছ থেকে চাইছে।"
+          },
+          {
+            "en": "What the mercy consists of, the commentators read differently. Ibn Kathir: a mercy by which You have mercy on us and keep us hidden from our people. The Muyassar and as-Sa'di: a mercy by which You make us firm and guard us from evil, as-Sa'di adding, and grant us success in good. Al-Qurtubi says it means forgiveness and provision. Al-Baghawi gives the meaning as guidance in religion, and relays provision as another view. The article sets these readings side by side and chooses none.",
+            "bn": "রহমত বলতে এখানে ঠিক কী, তা নিয়ে তাফসীরকারদের পাঠ আলাদা। ইবন কাসীর বলেন: এমন রহমত, যা দিয়ে তুমি আমাদের উপর দয়া করবে আর জাতির চোখ থেকে আমাদের আড়াল করে রাখবে। মুয়াসসার ও সা'দীর মতে: এমন রহমত, যা দিয়ে তুমি আমাদের অটল রাখবে আর অনিষ্ট থেকে বাঁচাবে। সা'দী সঙ্গে যোগ করেন: আর আমাদের ভালো কাজের তাওফীক দাও। কুরতুবীর মতে এর অর্থ মাগফিরাত ও রিযিক। বাগাভী অর্থ করেন দ্বীনের হিদায়াত, আর ভিন্ন মত হিসেবে রিযিকের কথাও আনেন। এ লেখা মতগুলো পাশাপাশি রাখে, কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rashad in a Tangled Affair",
+          "bn": "জট-লাগা ব্যাপারে রাশাদ"
+        },
+        "p": [
+          {
+            "en": "Wa hayyi' lana min amrina rashada: and make ready for us, out of our affair, right guidance. At-Tabari glosses the verb as make easy: ease for us what we seek and strive for, Your good pleasure and flight from disbelief in You and from the idol worship our people call us to. Rashad, he says, means sadad, a soundness that leads to doing what You love. Al-Baghawi likewise reads hayyi' as yassir, make easy, and rashad as what is sought of Your pleasure and what holds our right guidance.",
+            "bn": "ওয়া হাইয়ি' লানা মিন আমরিনা রাশাদা: আর আমাদের ব্যাপারটা থেকে আমাদের জন্য সঠিক পথ প্রস্তুত করে দাও। তাবারী ক্রিয়াটির অর্থ করেন সহজ করে দেওয়া। আমরা যা খুঁজছি, যার জন্য চেষ্টা করছি, তা আমাদের জন্য সহজ করো: তোমার সন্তুষ্টি, তোমার সঙ্গে কুফরি থেকে পালানো, আর জাতি আমাদের যে মূর্তিপূজার দিকে ডাকছে তা থেকে বাঁচা। তাঁর ব্যাখ্যায় রাশাদ মানে সাদাদ, এমন সঠিকতা যা তুমি যা ভালোবাসো সেই আমলের দিকে নিয়ে যায়। বাগাভীও হাইয়ি' পড়েন ইয়াসসির অর্থে, অর্থাৎ সহজ করো। আর রাশাদ তাঁর মতে তোমার সন্তুষ্টির যা কাম্য এবং যাতে আমাদের হিদায়াত আছে।"
+          },
+          {
+            "en": "Ibn Kathir reads it as a request about the outcome: decree for us in this affair of ours rashad, that is, make our end one of rashad. He links it to a supplication introduced with the words as came in the hadith: whatever You decree for us, make its outcome right. He adds from the Musnad, through Busr ibn Abi Arta'a, that the Prophet ﷺ used to pray: O Allah, make good our outcome in all affairs, and shield us from the disgrace of this world and the punishment of the next. Ibn Kathir grades neither, and nor does this article.",
+            "bn": "ইবন কাসীর একে পড়েন পরিণতির প্রার্থনা হিসেবে: আমাদের এ ব্যাপারে আমাদের জন্য রাশাদ নির্ধারণ করো, অর্থাৎ আমাদের শেষটা সঠিক করে দাও। এর সঙ্গে তিনি জুড়ে দেন একটি দোয়া, যার আগে লেখেন 'যেমন হাদীসে এসেছে': তুমি আমাদের জন্য যা ফয়সালা করো, তার পরিণতি সঠিক করে দাও। তিনি মুসনাদ থেকে বুসর ইবন আবী আরতাআর সূত্রে আরও আনেন, নবী ﷺ দোয়া করতেন: হে আল্লাহ, সব বিষয়ে আমাদের পরিণতি সুন্দর করো, আর দুনিয়ার লাঞ্ছনা ও আখিরাতের আযাব থেকে আমাদের রক্ষা করো। ইবন কাসীর কোনোটিরই মান উল্লেখ করেননি, এ লেখাও কোনো মান দিচ্ছে না।"
+          },
+          {
+            "en": "Others narrow or widen the word. Al-Qurtubi gives tawfiq, granted success towards right guidance, and adds that it was said: correctness. Al-Qurtubi and al-Baghawi both relay from Ibn 'Abbas a concrete reading: a way out of the cave in safety. As-Sa'di goes the other way: make easy for us every means that leads to rashad, and set right for us the affairs of our religion and our world. The article leaves that difference standing.",
+            "bn": "কেউ শব্দটির পরিধি ছোট করেন, কেউ বড়। কুরতুবী অর্থ করেন তাওফীক, অর্থাৎ হিদায়াতের পথে চলার সামর্থ্য। সঙ্গে যোগ করেন, বলা হয়েছে এর অর্থ সঠিক কাজ। কুরতুবী ও বাগাভী দুজনেই ইবন আব্বাস (রাঃ) থেকে একটা বাস্তব অর্থ আনেন: নিরাপদে গুহা থেকে বেরোনোর পথ। সা'দী যান উল্টো দিকে: যত উপায় রাশাদের দিকে নিয়ে যায়, সব আমাদের জন্য সহজ করো, আর আমাদের দ্বীন ও দুনিয়ার ব্যাপার ঠিক করে দাও। এ লেখা ভিন্নতাটুকু যেমন আছে তেমনই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "First the Feet, Then the Hands",
+          "bn": "আগে পা, তারপর হাত তোলা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws out the order of what they did. The youths, he says, joined two things: effort, in fleeing from the trial to a place where hiding was possible, and humble pleading with Allah to make their affairs easy, without relying on themselves or on other people. For that reason, he concludes, Allah answered their prayer. The next verse opens with the answer's first part: so We cast a cover over their ears in the cave for a number of years.",
+            "bn": "যুবকেরা কোন কাজ আগে আর কোনটা পরে করেছিল, সা'দী তা খুলে দেখান। তিনি বলেন, তারা দুটি জিনিস একসঙ্গে করেছে। একটি হলো চেষ্টা: ফিতনা থেকে পালিয়ে এমন জায়গায় যাওয়া, যেখানে লুকিয়ে থাকা যায়। অন্যটি বিনয়ের সঙ্গে আল্লাহর কাছে কাকুতি, যেন তিনি তাদের কাজ সহজ করে দেন। ভরসা তারা নিজেদের উপরও করেনি, মানুষের উপরও না। সা'দীর উপসংহার: এ কারণেই আল্লাহ তাদের দোয়া কবুল করেছেন। পরের আয়াতই শুরু হয় সেই জবাবের প্রথম অংশ দিয়ে: তারপর আমি গুহায় কয়েক বছরের জন্য তাদের কানের উপর পর্দা ফেলে দিলাম।"
+          },
+          {
+            "en": "Al-Qurtubi sees the same sequence. When they had fled from those hunting them, he writes, they busied themselves with supplication and took refuge in Allah. And of this meaning, he adds, is that the Prophet ﷺ, when a matter weighed on him, would hasten to prayer. Abu Dawud records the narration (1319) from Hudhayfah in these words: when a matter distressed the Prophet ﷺ, he prayed. The page fetched shows no grading from Abu Dawud, and the narration is general, not a comment on this verse.",
+            "bn": "কুরতুবীও একই ক্রম দেখেন। তিনি লেখেন, যারা তাদের খুঁজছিল তাদের হাত থেকে পালিয়ে যাওয়ার পর তারা দোয়ায় মগ্ন হলো, আশ্রয় নিল আল্লাহর কাছে। তিনি আরও বলেন, এই অর্থেরই অংশ হলো নবী ﷺ-এর অভ্যাস: কোনো বিষয় তাঁকে ভারাক্রান্ত করলে তিনি দ্রুত সালাতের দিকে ছুটে যেতেন। আবু দাউদ (১৩১৯) হুযাইফা (রাঃ) থেকে বর্ণনাটি এ শব্দে এনেছেন: কোনো বিষয় নবী ﷺ-কে পেরেশান করলে তিনি সালাত আদায় করতেন। যে পৃষ্ঠা দেখা হয়েছে, তাতে আবু দাউদের নিজের কোনো মান উল্লেখ নেই। বর্ণনাটি সাধারণ, এ আয়াতের ব্যাখ্যা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving Home to Keep Faith",
+          "bn": "ঈমান বাঁচাতে ঘর ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's second point is a ruling. The verse, he says, is explicit on fleeing with one's religion, and on leaving family, children, relatives, friends, homeland and wealth for fear of being tried and of the ordeal a person may meet. The Prophet ﷺ, he recalls, went out fleeing with his religion, as did his Companions, and sat in the cave. Living in mountains and caves, withdrawing to be alone with the Creator, and the permission to flee the oppressor are, in his words, the way of the prophets and the friends of Allah.",
+            "bn": "কুরতুবীর দ্বিতীয় আলোচনা একটি বিধান নিয়ে। তিনি বলেন, দ্বীন নিয়ে পালিয়ে যাওয়ার ব্যাপারে আয়াতটি স্পষ্ট। ফিতনার ভয়ে আর মানুষের সামনে যে কঠিন পরীক্ষা আসতে পারে তার ভয়ে পরিবার, সন্তান, আত্মীয়, বন্ধু, জন্মভূমি ও সম্পদ ছেড়ে যাওয়ার কথাও এতে আছে। তিনি মনে করিয়ে দেন, নবী ﷺ নিজের দ্বীন নিয়ে পালিয়ে বেরিয়েছিলেন, সাহাবিরাও তাই করেছিলেন, আর তিনি গুহায় অবস্থান করেছিলেন। কুরতুবীর ভাষায় পাহাড়ে ও গুহায় বাস করা, সরে গিয়ে স্রষ্টার সঙ্গে একান্ত হওয়া আর জালিমের কাছ থেকে পালানোর অনুমতি, এ সবই নবীদের ও আল্লাহর ওলিদের পথ।"
+          },
+          {
+            "en": "For the ruling he cites al-Bukhari's hadith of the sheep followed to the mountain tops, which the article on 18:15 quotes whole. He ends the discussion with another narration, which he says an-Nasa'i records. Its wording there (666), from 'Uqbah ibn 'Amir, reads in full: your Lord wonders at a shepherd on a mountain crag who calls the adhan for the prayer and prays. Allah says: look at this servant of Mine, he calls the adhan and establishes the prayer, fearing Me; I have forgiven My servant and admitted him to Paradise. The page shows no grading from an-Nasa'i, and neither narration speaks of the youths.",
+            "bn": "বিধানটির পক্ষে তিনি বুখারীর সেই হাদীস আনেন, যেখানে ছাগল-ভেড়া নিয়ে পাহাড়ের চূড়ায় চলে যাওয়ার কথা আছে। ১৮:১৫ আয়াতের লেখায় হাদীসটি পুরো উদ্ধৃত হয়েছে। আলোচনার শেষে তিনি আরেকটি বর্ণনা আনেন, যা তাঁর ভাষায় নাসাঈ বর্ণনা করেছেন। নাসাঈর (৬৬৬) শব্দে উকবা ইবন আমির (রাঃ) থেকে পুরো বর্ণনাটি এই: পাহাড়ের চূড়ায় থাকা যে রাখাল সালাতের আযান দেয় আর সালাত আদায় করে, তোমার রব তাকে দেখে বিস্ময় প্রকাশ করেন। আল্লাহ বলেন: আমার এই বান্দাকে দেখো, সে আযান দেয়, সালাত কায়েম করে, আমাকে ভয় করে। আমি আমার বান্দাকে মাফ করে দিলাম আর জান্নাতে দাখিল করলাম। পৃষ্ঠায় নাসাঈর নিজের কোনো মান উল্লেখ নেই। দুটি বর্ণনার কোনোটিতেই যুবকদের কথা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Measures of Withdrawal",
+          "bn": "সরে থাকার তিন মাপ"
+        },
+        "p": [
+          {
+            "en": "Then al-Qurtubi tempers the ruling: people's states in this matter differ. A man may have the strength to live in caves and mountain hollows, and that, he says, is the highest state, the state Allah chose for His Prophet ﷺ at the start of his mission and recorded of the youths in 18:16. For another, seclusion in his own house is lighter and easier; men of Badr, he notes, kept to their houses after 'Uthman was killed. A third stands between: strong enough to bear mixing with people and their harm, with them outwardly and apart from them inwardly.",
+            "bn": "এরপর কুরতুবী বিধানটিকে মাপমতো করেন: এ ব্যাপারে মানুষের অবস্থা এক রকম নয়। কারও গুহায় আর পাহাড়ের কোটরে থাকার শক্তি আছে। তাঁর মতে সেটাই সবচেয়ে উঁচু অবস্থা, যা আল্লাহ নবী ﷺ-এর জন্য তাঁর দাওয়াতের শুরুতে বেছে নিয়েছিলেন, আর ১৮:১৬ আয়াতে যুবকদের কথায় তা উল্লেখ করেছেন। কারও জন্য নিজের ঘরে নির্জন থাকা হালকা ও সহজ। তিনি জানান, উসমান (রাঃ) নিহত হওয়ার পর বদরের কয়েকজন সাহাবি ঘরেই থেকে গিয়েছিলেন। আর কেউ মাঝামাঝি: মানুষের সঙ্গে মেশা আর তাদের দেওয়া কষ্ট সইবার শক্তি তার আছে। বাইরে সে তাদের সঙ্গে, ভেতরে তাদের থেকে আলাদা।"
+          },
+          {
+            "en": "He gathers definitions that keep withdrawal from becoming mere absence. Some scholars, he says, made 'uzla a withdrawal from evil and its people with your heart and your deeds, if you live among them. Ibn al-Mubarak explained it: be with the people, and when they plunge into the remembrance of Allah, plunge in with them; when they plunge into anything else, keep silent. And Wahb ibn Munabbih told a man who wanted to stop mixing with people: do not, for you cannot do without them nor they without you; be among them deaf yet hearing, blind yet seeing, silent yet speaking.",
+            "bn": "সরে থাকা যেন শুধু অনুপস্থিতিতে পরিণত না হয়, সে জন্য কুরতুবী কয়েকটি সংজ্ঞা একত্র করেন। তিনি বলেন, একদল আলেম উযলার অর্থ করেছেন: মানুষের মাঝে থাকলেও অন্তর আর আমল দিয়ে মন্দ ও মন্দ লোকদের থেকে আলাদা থাকা। ইবনুল মুবারকের ব্যাখ্যা: মানুষের সঙ্গে থাকুন। তারা আল্লাহর জিকিরে মগ্ন হলে আপনিও তাদের সঙ্গে মগ্ন হোন, অন্য কিছুতে মগ্ন হলে চুপ থাকুন। আর এক লোক মানুষের সঙ্গে মেলামেশা ছেড়ে দিতে চাইলে ওয়াহব ইবন মুনাব্বিহ তাকে বললেন: এমন করো না। তোমার মানুষের দরকার, মানুষেরও তোমার দরকার। তাদের মাঝে থাকো বধির অথচ শোনে এমন, অন্ধ অথচ দেখে এমন, চুপ অথচ কথা বলে এমন হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Verse Leaves Out",
+          "bn": "যে নাম আয়াত বলে না"
+        },
+        "p": [
+          {
+            "en": "The verse names no king, city or era; the commentaries fill that silence. Al-Qurtubi relays that the youths were sons of the nobles of the city of an unbelieving king, Daqyus, by another spelling Daqyanus; that they were of the Rum and followed the religion of 'Isa (AS); and, under it was said, that they lived before him, closing with Allah knows best. He reports from Ibn 'Abbas that a king named Daqyanus took control of a Roman city called Afsus, or by another report Tarsus, after the time of 'Isa (AS), and that seven young men there worshipped Allah in secret.",
+            "bn": "আয়াতে কোনো রাজা, শহর বা যুগের নাম নেই। তাফসীরগুলো এই নীরবতা ভরিয়েছে বর্ণনা দিয়ে। কুরতুবী জানান, বর্ণিত আছে যে যুবকেরা ছিল দাকইয়ুস নামের এক কাফের রাজার শহরের অভিজাতদের সন্তান, অন্য বানানে দাকইয়ানুস। তারা ছিল রোমের লোক, ঈসা (আঃ)-এর দ্বীনের অনুসারী। 'বলা হয়' বলে তিনি আরও আনেন যে তারা ছিল ঈসা (আঃ)-এর আগের যুগের, আর যোগ করেন: আল্লাহই ভালো জানেন। ইবন আব্বাস (রাঃ) থেকে তিনি বর্ণনা করেন, দাকইয়ানুস নামের এক রাজা ঈসা (আঃ)-এর পরের যুগে আফসুস নামের এক রোমান শহর দখল করেছিল, অন্য বর্ণনায় শহরটি তারসুস। সেখানে ৭ জন তরুণ গোপনে আল্লাহর ইবাদত করত।"
+          },
+          {
+            "en": "At-Tabari says the scholars differed over why the youths went to the cave. Some said they were Muslims on the religion of 'Isa (AS), fleeing an idol-worshipping king lest he turn them from their religion or kill them. Ibn Ishaq's long account, which at-Tabari and al-Baghawi both carry, calls the king Daqyanus, makes the youths eight and gives their names. Others, through Wahb ibn Munabbih, said they fled a ruler who was hunting them over a crime charged against a companion of theirs. Even the count differs: seven in the Ibn 'Abbas report, eight in Ibn Ishaq's.",
+            "bn": "তাবারী বলেন, যুবকেরা কেন গুহায় গিয়েছিল, তা নিয়ে আলেমদের মত ভিন্ন। কারও মতে তারা ছিল ঈসা (আঃ)-এর দ্বীনের উপর থাকা মুসলিম। এক মূর্তিপূজারী রাজা তাদের দ্বীন থেকে সরিয়ে দেবে বা হত্যা করবে, এই ভয়ে তারা পালিয়েছিল। ইবন ইসহাকের দীর্ঘ বর্ণনা তাবারী ও বাগাভী দুজনেই এনেছেন। তাতে রাজার নাম দাকইয়ানুস, যুবকেরা ৮ জন, তাদের নামও দেওয়া আছে। অন্যরা ওয়াহব ইবন মুনাব্বিহের সূত্রে বলেছেন, তাদের এক সঙ্গীর বিরুদ্ধে একটা অপরাধের অভিযোগ ছিল, সে কারণে এক শাসক তাদের খুঁজছিল, আর তারা তার হাত থেকে পালিয়েছিল। সংখ্যাতেও মিল নেই: ইবন আব্বাস (রাঃ)-এর বর্ণনায় ৭, ইবন ইসহাকের বর্ণনায় ৮।"
+          },
+          {
+            "en": "Those who record these reports also weigh them. Al-Qurtubi says the names are non-Arabic and the chain for knowing them is weak. Ma'arif al-Qur'an says the Qur'an tells only the parts of the story that serve its purpose, which it describes as an answer to a question the Jews had asked and guidance for Muslims; the questions themselves belong to 18:23 and 18:24. It quotes the early rule: leave vague what Allah has left vague. 18:22 leaves the number disputed. These reports describe a king and a city in their own past and license nothing against any living person or community, Jews and Christians included.",
+            "bn": "যে আলেমেরা এসব বর্ণনা লিখে রেখেছেন, তাঁরাই সেগুলো যাচাইও করেছেন। কুরতুবী বলেন, নামগুলো অনারবি, আর সেগুলো জানার সূত্র দুর্বল। মাআরিফুল কুরআন বলে, কুরআন কাহিনির শুধু সেটুকুই বলেছে, যা তার উদ্দেশ্যের কাজে আসে। সেই উদ্দেশ্য হলো ইহুদিদের এক প্রশ্নের জবাব আর মুসলিমদের জন্য দিকনির্দেশনা। প্রশ্নগুলোর আলোচনা ১৮:২৩ ও ১৮:২৪ আয়াতের। মাআরিফ পূর্বসূরিদের এক নীতিও উদ্ধৃত করে: আল্লাহ যা অস্পষ্ট রেখেছেন, তোমরাও তা অস্পষ্ট রাখো। ১৮:২২ আয়াত তাদের সংখ্যা বিতর্কিতই রেখে দিয়েছে। এসব বর্ণনা তাদের নিজেদের অতীতের এক রাজা আর এক শহরের কথা বলে, এর ভিত্তিতে আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছুর অনুমতি মেলে না, ইহুদি ও খ্রিস্টানদের বিরুদ্ধেও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer for Unmapped Roads",
+          "bn": "অচেনা পথের দোয়া"
+        },
+        "p": [
+          {
+            "en": "The prayer is short enough to carry anywhere. It names its Lord first, then asks for mercy from His own presence, with every other refuge left behind in the city. And it asks not for a named result but for rashad in their affair: soundness, a right end, or, in Ibn 'Abbas's reading, a safe way out. In 18:16 the youths' own words return to both requests: your Lord will spread out for you of His mercy and make ready for you, out of your affair, ease.",
+            "bn": "দোয়াটা এত ছোট যে যেকোনো জায়গায় সঙ্গে রাখা যায়। শুরুতেই রবের নাম, তারপর তাঁর নিজের কাছ থেকে রহমত চাওয়া। আর সব আশ্রয় তখন শহরে ফেলে আসা। আর কোনো নির্দিষ্ট ফলাফল নয়, চাওয়া হয়েছে নিজেদের ব্যাপারে রাশাদ: সঠিকতা, ভালো পরিণতি, কিংবা ইবন আব্বাস (রাঃ)-এর ব্যাখ্যায় নিরাপদে বেরোনোর পথ। ১৮:১৬ আয়াতে যুবকদের নিজেদের কথায় এই দুই চাওয়াই আবার ফিরে আসে: তোমাদের রব তোমাদের জন্য তাঁর রহমত ছড়িয়ে দেবেন, আর তোমাদের ব্যাপারটা থেকে তোমাদের জন্য সহজ ব্যবস্থা করে দেবেন।"
+          },
+          {
+            "en": "The verse also sits among the surah's opening verses, which a hadith in Muslim's Sahih singles out. Muslim records (809) from Abu ad-Darda that the Prophet ﷺ said: whoever memorises ten verses from the beginning of Surat al-Kahf will be protected from the Dajjal. Muslim adds that in Shu'ba's transmission the words are from the end of al-Kahf, while Hammam said from the beginning. The article on 18:2 treats this virtue. No fetched tafsir attaches a hadith to this verse's meaning, and the narration names a merit of the opening verses, not the meaning of this prayer.",
+            "bn": "আয়াতটি সূরার শুরুর আয়াতগুলোর একটি, আর সহীহ মুসলিমের একটি হাদীস এই আয়াতগুলোকে আলাদা মর্যাদা দিয়েছে। মুসলিম (৮০৯) আবুদ দারদা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে সূরা কাহফের শুরুর ১০টি আয়াত মুখস্থ করবে, সে দাজ্জাল থেকে রক্ষা পাবে। মুসলিম আরও জানান, শু'বার বর্ণনায় শব্দটি কাহফের শেষ থেকে, আর হাম্মাম বলেছেন শুরু থেকে। এ ফযিলতের আলোচনা আছে ১৮:২ আয়াতের লেখায়। দেখা কোনো তাফসীর এ আয়াতের অর্থের সঙ্গে কোনো হাদীস জোড়েনি। বর্ণনাটি শুরুর আয়াতগুলোর ফযিলত বলে, এই দোয়ার অর্থ নয়।"
+          },
+          {
+            "en": "For a reader whose surroundings press on their faith, the verse suggests an order. Step back as far as you truly can, by whichever of al-Qurtubi's measures fits your strength: a real departure, a quieter home, or a heart kept apart while you stay. Then ask. Ask for mercy from Him rather than from the people you are stepping away from, and ask for rashad in your affair rather than for the outcome you have already planned. The youths could not have named what was coming. They asked well, and left the preparing to the One they asked.",
+            "bn": "চারপাশের পরিবেশ যাঁর ঈমানের উপর চাপ দিচ্ছে, তাঁর জন্য আয়াতটি একটা ক্রম দেখায়। প্রথমে যতটা সত্যিই পারেন, সরে আসুন। কুরতুবীর মাপগুলোর মধ্যে যেটা আপনার শক্তির সঙ্গে মেলে: সত্যিকার স্থান ত্যাগ, নিরিবিলি ঘর, কিংবা মানুষের মাঝে থেকেও অন্তরকে আলাদা রাখা। তারপর চান। যাদের কাছ থেকে সরে আসছেন, তাদের কাছে নয়, রহমত চান তাঁর কাছে। আর আগে থেকে ঠিক করে রাখা ফলাফল নয়, চান নিজের ব্যাপারে রাশাদ। সামনে কী আসছে, যুবকেরা তার নাম জানত না। তারা ঠিকভাবে চেয়েছিল, আর ব্যবস্থা করার ভার ছেড়ে দিয়েছিল যাঁর কাছে চেয়েছিল তাঁর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "18:15": {
     "sections": [
       {
