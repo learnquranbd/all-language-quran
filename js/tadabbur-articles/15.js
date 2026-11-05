@@ -443,6 +443,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Whole Day Climbing",
+          "bn": "সারা দিনের আরোহণ"
+        },
+        "p": [
+          {
+            "en": "La-qalu innama sukkirat absaruna, bal nahnu qawmun mashurun: they would say, our eyes have only been sukkirat; rather, we are a people bewitched. It completes a sentence begun in 15:14: and even if We opened to them a gate from the heaven and they went on ascending through it. Al-Qurtubi notes that zalla, the verb behind went on, is said of doing a thing by daylight. The picture is a whole day spent in open sight of the sky, and at its end, an excuse.",
+            "bn": "লাকালূ ইন্নামা সুক্কিরাত আবসারুনা বাল নাহনু কাওমুম মাসহূরূন: তারা বলত, আমাদের চোখকে কেবল সুক্কিরাত করা হয়েছে, বরং আমরা জাদুগ্রস্ত এক সম্প্রদায়। আয়াতটি সেই বাক্যটি শেষ করে, যার শুরু ১৫:১৪ আয়াতে: আর যদি আমি তাদের জন্য আকাশের একটি দরজা খুলে দিতাম, আর তারা তাতে উঠতেই থাকত। কুরতুবী লক্ষ করেন, এখানে 'থাকত' বোঝাতে যে ক্রিয়া, সেই যাল্লা বলা হয় দিনের আলোয় কোনো কাজ করে যাওয়া বোঝাতে। ছবিটা তাই আকাশকে চোখের সামনে রেখে কাটানো পুরো একটা দিনের। আর দিনশেষে হাতে থাকে শুধু একটা অজুহাত।"
+          },
+          {
+            "en": "The sentence answers a demand. In 15:6 and 15:7 the deniers called the Prophet ﷺ mad and asked why he did not bring them the angels, and 15:8 replied that the angels are sent down only with truth. On 15:14 Ibn Kathir says Allah is telling of the strength of their disbelief, their obstinacy and their resistance to the truth: were a gate opened and they climbed through it, they would still not believe. As-Sa'di goes wider: had every great sign come to them, they would not have believed, and would have held out in arrogance.",
+            "bn": "বাক্যটি একটি দাবির জবাব। ১৫:৬ ও ১৫:৭ আয়াতে অস্বীকারকারীরা নবী ﷺ-কে পাগল বলেছিল, আর জানতে চেয়েছিল তিনি কেন তাদের সামনে ফেরেশতাদের হাজির করেন না। ১৫:৮ আয়াত জবাব দিয়েছে, ফেরেশতা নাযিল হয় কেবল যথাযথ কারণেই। ইবন কাসীর ১৫:১৪ আয়াতের আলোচনা শুরু করেন এ কথা দিয়ে যে আল্লাহ এখানে তাদের কুফরের জোর, তাদের জেদ আর সত্যের বিরুদ্ধে তাদের অহংকারী প্রতিরোধের খবর দিচ্ছেন। দরজা খুলে দেওয়া হলে আর তারা তা দিয়ে উঠতে থাকলেও তারা বিশ্বাস করত না। সা'দী কথাটা আরও বড় করে দেখেন। তাঁর মতে প্রতিটি বড় নিদর্শনও যদি তাদের কাছে আসত, তবুও তারা ঈমান আনত না, বরং অহংকারে অটল থাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels on the Stair, or Them",
+          "bn": "সিঁড়িতে ফেরেশতা, নাকি তারাই"
+        },
+        "p": [
+          {
+            "en": "Who does the climbing? On 15:14 at-Tabari reports that the interpreters differed. One group says the angels. Ibn Abbas (RA), through several chains, says: had a gate been opened and the angels kept ascending through it, the people of shirk would say our sight has been seized, we have been confused, we have only been bewitched. Through Qatada he adds that the angels would come and go, the children of Adam watching them with their own eyes. Ad-Dahhak says the same, and points back to their demand: why do you not bring us the angels?",
+            "bn": "উঠছে কে? তাবারী ১৫:১৪ আয়াতের আলোচনা শুরু করেন এ কথা বলে যে তাফসীরবিদেরা এখানে কাদের কথা বলা হয়েছে তা নিয়ে ভিন্নমত করেছেন। এক দলের মতে, ফেরেশতারা। ইবন আব্বাস (রাঃ) একাধিক সূত্রে বলেন: দরজা খুলে দেওয়া হলে আর ফেরেশতারা তা দিয়ে উঠতে থাকলে মুশরিকরা বলত, আমাদের দৃষ্টি কেড়ে নেওয়া হয়েছে, আমাদের সব গুলিয়ে দেওয়া হয়েছে, আমাদের উপর জাদু করা হয়েছে মাত্র। কাতাদার সূত্রে তিনি আরও বলেন, ফেরেশতারা আসা-যাওয়া করত, আর আদমসন্তানেরা নিজের চোখে তাদের দেখত। দাহহাকও একই কথা বলেন, আর মনে করিয়ে দেন তাদের আগের দাবি: তুমি আমাদের কাছে ফেরেশতা আনো না কেন?"
+          },
+          {
+            "en": "Ibn Jurayj, on the same reading, says the passage returns to that demand, and his report, carrying Ibn Abbas (RA), ends: it is Quraysh who say it. The other view is al-Hasan's. Qatada reports him saying that if this were done for the children of Adam, and they themselves went on climbing up and down through it, they would still say their eyes had been sukkirat. On this reading the deniers make the ascent in person. At-Tabari sets out both, with their chains.",
+            "bn": "একই মতের পক্ষে ইবন জুরাইজ বলেন, এখানে কথা ফিরে গেছে সেই দাবির দিকেই। ইবন আব্বাস (রাঃ)-এর সূত্রে আসা তাঁর বর্ণনাটি শেষ হয় এ কথায়: কথাটা বলে কুরাইশ। অন্য মতটি হাসানের। কাতাদা তাঁর এ কথা বর্ণনা করেন: আদমসন্তানদের জন্যই যদি এমন করা হতো, আর তারা নিজেরাই তা দিয়ে ওঠানামা করতে থাকত, তবুও তারা বলত, আমাদের চোখ সুক্কিরাত হয়ে গেছে। এ ব্যাখ্যায় অস্বীকারকারীরা নিজেরাই আকাশে ওঠে। তাবারী দুটি মতই তুলে ধরেন, প্রতিটির সঙ্গে তার বর্ণনাসূত্র দিয়ে।"
+          },
+          {
+            "en": "The later commentators divide along the same line. Al-Baghawi calls the angels reading the view of the majority, gives al-Hasan's as the other, and says the first is sounder. Al-Qurtubi gives al-Hasan's view first: had they climbed to the heaven and seen the dominion and the angels, they would still persist in disbelief. He then brings the angels reading from Ibn Abbas (RA) and Qatada, introduced with it is said. Ibn Kathir, as-Sa'di and the Muyassar all picture the deniers climbing themselves. Whoever climbs, the sight leaves them unmoved.",
+            "bn": "পরবর্তী তাফসীরকারেরাও একই রেখায় ভাগ হয়ে যান। বাগাভী ফেরেশতাদের মতটিকে অধিকাংশের মত বলেন, হাসানের মতটি অন্য মত হিসেবে আনেন, আর বলেন প্রথমটিই বেশি সঠিক। কুরতুবী আগে আনেন হাসানের মত: তারা আকাশে উঠে আল্লাহর রাজত্ব আর ফেরেশতাদের দেখলেও কুফরেই অটল থাকত। এরপর 'বলা হয়' কথাটি দিয়ে তিনি ইবন আব্বাস (রাঃ) ও কাতাদা থেকে ফেরেশতাদের মতটি আনেন। ইবন কাসীর, সা'দী ও মুয়াসসার তিনজনই ছবি আঁকেন অস্বীকারকারীদের নিজেদের ওঠার। যে-ই উঠুক, দৃশ্যটা তাদের একটুও নাড়া দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes Dammed Like a River",
+          "bn": "বাঁধ দেওয়া নদীর মতো চোখ"
+        },
+        "p": [
+          {
+            "en": "Sukkirat is passive: something has been done to our eyes. Mujahid, ad-Dahhak and Ibn Kathir all gloss it suddat, blocked. The Ibn Kathir in these chains is an early authority whom Ibn Jurayj heard in person, not the later commentator who quotes him. Ibn Abbas (RA), through Qatada, says ukhidhat, taken: our sight has been seized. Al-Awfi's chain from him has: we were confused, and we have only been bewitched. Al-Kalbi says umiyat, blinded. Ibn Zayd reaches for the drunk: the sakran is the one who cannot reason.",
+            "bn": "সুক্কিরাত কর্মবাচ্য: আমাদের চোখের উপর কিছু একটা করা হয়েছে। মুজাহিদ, দাহহাক ও ইবন কাসীর তিনজনই এর অর্থ করেন সুদ্দাত, আটকে দেওয়া হয়েছে। এই সূত্রগুলোর ইবন কাসীর একজন প্রাচীন বর্ণনাকারী, যাঁর কাছ থেকে ইবন জুরাইজ সরাসরি শুনেছেন। যে পরবর্তী তাফসীরকার তাঁর কথা উদ্ধৃত করেন, তিনি ভিন্ন মানুষ। কাতাদার সূত্রে ইবন আব্বাস (রাঃ) বলেন উখিযাত, অর্থাৎ আমাদের দৃষ্টি কেড়ে নেওয়া হয়েছে। আওফীর সূত্রে তাঁর কথা: আমাদের সব গুলিয়ে দেওয়া হয়েছে, আমাদের উপর জাদু করা হয়েছে মাত্র। কালবী বলেন উমিয়াত, অন্ধ করে দেওয়া হয়েছে। ইবন যাইদ মাতালের উপমা টানেন: সাকরান সে-ই, যার বোধ কাজ করে না।"
+          },
+          {
+            "en": "At-Tabari explains what Mujahid meant by blocked: the sight was kept from looking, as water is kept from flowing when it is held back by the sukr, the dam built to stop it. Al-Baghawi uses the same picture for the lighter reading discussed below: held back and kept from seeing, as a river is dammed to hold its water. A dammed river is still water; the eyes in the excuse still work. Something has simply been set across them.",
+            "bn": "মুজাহিদ 'আটকে দেওয়া' বলতে কী বুঝিয়েছেন, তাবারী তা খুলে বলেন। পানির পথে সুকর, অর্থাৎ বাঁধ দিলে পানি যেমন আর বইতে পারে না, তেমনি দৃষ্টিকেও দেখা থেকে আটকে রাখা হয়েছে। সামনে যে হালকা কিরাআতের কথা আসছে, বাগাভী সেটার ব্যাখ্যায় একই ছবি ব্যবহার করেন: দৃষ্টিকে আটকে দেওয়া হয়েছে, দেখতে দেওয়া হচ্ছে না, যেমন পানি ধরে রাখতে নদীতে বাঁধ দেওয়া হয়। বাঁধ দেওয়া নদীতেও পানি পানিই থাকে। অজুহাতের ভেতরেও চোখ দুটো ঠিকই কাজ করছে। শুধু তাদের সামনে কিছু একটা আড়াল করে দাঁড় করানো হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more glosses: al-Hasan, bewitched; al-Kalbi, overlaid, and in another report, blinded; Qatada, taken; Mu'arrij, made to spin, so that our eyes became drunken; Juwaybir, deceived. Then he says these sayings are close to one another, and one word gathers them all: prevented. He quotes Ibn Aziz tying it to sakartu n-nahr, I dammed the river, and adds that it is also said to come from the drunkenness of drink, as if the eye were struck by what strikes a drinker.",
+            "bn": "কুরতুবী আরও কয়েকটি অর্থ জড়ো করেন। হাসান বলেন, জাদু করা হয়েছে। কালবী বলেন, ঢেকে দেওয়া হয়েছে, আর তাঁর আরেক বর্ণনায়, অন্ধ করে দেওয়া হয়েছে। কাতাদা বলেন, কেড়ে নেওয়া হয়েছে। মুআররিজ বলেন, আমাদের ঘুরপাক খাওয়ানো হয়েছে, ফলে চোখ মাতালের মতো হয়ে গেছে। জুওয়াইবির বলেন, ধোঁকা দেওয়া হয়েছে। এরপর কুরতুবী বলেন, এসব কথা কাছাকাছি, আর একটি শব্দেই সবগুলো ধরা যায়: বাধা দেওয়া হয়েছে। তিনি ইবন আযীযের কথা আনেন, যিনি একে যুক্ত করেন সাকারতুন নাহর কথাটির সঙ্গে, অর্থাৎ আমি নদীতে বাঁধ দিলাম। সঙ্গে এটাও বলেন যে কারও মতে শব্দটি এসেছে মদের নেশা থেকে, যেন মদ্যপের যা হয়, চোখেরও তা-ই হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drunk Eyes or Dimmed Light",
+          "bn": "নেশাগ্রস্ত চোখ, নাকি নিভে আসা আলো"
+        },
+        "p": [
+          {
+            "en": "Abu Amr ibn al-Ala, as at-Tabari was told, took sukkirat to mean covered and veiled, and he is also reported to derive it from the drunkenness of drink: intoxication has overlaid our eyes. Al-Qurtubi quotes an-Nahhas finding all these sayings close and their root to be what Abu Amr said, and the passage calls that a good saying: something covered their sight as something covers the drunkard's mind. At-Tabari records an Arab idiom on the same line, said of a man whose judgment is jumbled until he cannot tell the right course from the wrong: his opinion has been sukkira.",
+            "bn": "তাবারীকে যেমন জানানো হয়েছে, আবূ আমর ইবনুল আলা সুক্কিরাতের অর্থ করতেন ঢেকে দেওয়া ও আড়াল করা। তাঁর কাছ থেকে এ কথাও বর্ণিত যে শব্দটি মদের নেশা থেকে নেওয়া: নেশা আমাদের চোখ ছেয়ে ফেলেছে। কুরতুবী নাহহাসের কথা উদ্ধৃত করেন। তাঁর মতে এসব কথা কাছাকাছি, আর সবগুলোর মূল আবূ আমরের কথাটিই। উদ্ধৃতিতে একে ভালো মত বলা হয়েছে: মাতালের বুদ্ধিকে যেমন কিছু একটা ঢেকে দেয়, তেমনি তাদের দৃষ্টিকেও ঢেকে দিয়েছে। তাবারী একই ধারার একটি আরবি বাগধারাও আনেন। কারও বিচারবুদ্ধি এমন গুলিয়ে গেলে, যে সে আর ঠিক পথ আর ভুল পথ আলাদা করতে পারে না, আরবরা বলে: তার মত সুক্কিরা হয়ে গেছে।"
+          },
+          {
+            "en": "At-Tabari then gives his own preference. The soundest of these sayings, he says, is that their sight was taken and bewitched, so that it does not see a thing as it is; its sharpness has gone and its light has been put out, as is said of something hot whose heat has subsided: it has sakara. He cites a line of old verse on winter, when the eye of the heat goes still, and one of Dhu r-Rumma on the night when its surge subsides. In his reading the eyes are not broken. Their light has been dimmed.",
+            "bn": "এরপর তাবারী নিজের পছন্দের মত জানান। তাঁর মতে সবচেয়ে সঠিক কথা হলো, তাদের দৃষ্টি কেড়ে নেওয়া হয়েছে, তার উপর জাদু করা হয়েছে। ফলে কোনো জিনিস যেমন, দৃষ্টি তাকে তেমন দেখে না। তার ধার চলে গেছে, আলো নিভে গেছে। গরম কোনো জিনিসের তাপ থিতিয়ে এলে আরবরা যেমন বলে, সাকারা। প্রমাণ হিসেবে তিনি শীত নিয়ে প্রাচীন একটি কবিতার চরণ আনেন, যখন গ্রীষ্মের তাপের চোখ স্থির হয়ে আসে। যুর রুম্মার একটি চরণও আনেন রাত নিয়ে, যখন তার জোয়ার থেমে আসে। তাঁর ব্যাখ্যায় চোখ ভেঙে যায়নি। তার আলোটা ম্লান করে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Kaf Instead of Two",
+          "bn": "দুই কাফের জায়গায় এক কাফ"
+        },
+        "p": [
+          {
+            "en": "There is also a reading with a single kaf, sukirat. At-Tabari says the people of Madinah and Iraq read sukkirat with the doubled kaf, and reports, through al-Kisa'i from Hamza from Shibl, that Mujahid read it light. Mujahid took that form from the sukur of the wind, its falling still: our sight has been held back from seeing and looking. Qatada draws the line between the two forms: whoever reads it doubled means blocked, and whoever reads it light means bewitched.",
+            "bn": "এক কাফ দিয়ে সুকিরাত পড়ার একটি কিরাআতও আছে। তাবারী বলেন, মদীনা ও ইরাকের লোকেরা দুই কাফ দিয়ে সুক্কিরাত পড়েন। আর কিসাঈ থেকে, তিনি হামযা থেকে, তিনি শিবল থেকে বর্ণনা করেন যে মুজাহিদ শব্দটি হালকা করে পড়তেন। মুজাহিদ এ রূপটি নিয়েছেন বাতাসের সুকূর থেকে, মানে বাতাস থেমে স্থির হয়ে যাওয়া। অর্থ দাঁড়ায়, আমাদের দৃষ্টিকে দেখা ও তাকানো থেকে আটকে রাখা হয়েছে। কাতাদা দুটি রূপের পার্থক্য টেনে দেন: যে দুই কাফ দিয়ে পড়ে, তার কাছে অর্থ আটকে দেওয়া। আর যে হালকা করে পড়ে, তার কাছে অর্থ জাদু করা।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both name Ibn Kathir as the reader of the light form, and al-Qurtubi adds that the rest read it doubled. He quotes al-Mahdawi, that both forms are clear, the doubling for intensity and the light form carrying the same sense, and an-Nahhas, that the known reading of Mujahid and al-Hasan is the light one. At-Tabari judges the two meanings close, yet says he permits only the doubled form in the Qur'an, because the authoritative body of readers agreed on it. The difference is left as they give it.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই হালকা রূপটির কারী হিসেবে ইবন কাসীরের নাম বলেন। কুরতুবী আরও বলেন, বাকিরা দুই কাফ দিয়ে পড়েছেন। তিনি মাহদাভীর কথা আনেন: দুটি রূপই স্পষ্ট, দুই কাফে আছে আধিক্যের ভাব, আর হালকা রূপও একই অর্থ বহন করে। নাহহাসের কথাও আনেন: মুজাহিদ ও হাসানের পরিচিত কিরাআত হালকা রূপটিই। তাবারী দুটি অর্থকে কাছাকাছি মনে করেন। তবু তিনি বলেন, কুরআনে তিনি কেবল দুই কাফের রূপটিই অনুমোদন করেন, কারণ নির্ভরযোগ্য কারীদের সমষ্টি এর উপর একমত। উৎসগুলোর এ পার্থক্য এখানে যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Our Eyes to Ourselves",
+          "bn": "চোখ থেকে গোটা মানুষ"
+        },
+        "p": [
+          {
+            "en": "The excuse corrects itself in one breath. Innama, only, first confines the matter to the eyes: nothing really happened, our sight was tampered with. At-Tabari gives the sense as: this is not true; our eyes have only been sukkirat. Then bal, rather, reaches further: we are a people bewitched. As-Sa'di reads that second clause as: this is no reality, it is magic. The excuse grows from one faculty to the whole person, and the one thing it never allows is that the sign might be real.",
+            "bn": "অজুহাতটা এক নিঃশ্বাসেই নিজেকে শুধরে নেয়। প্রথমে ইন্নামা, অর্থাৎ 'কেবল', বিষয়টাকে চোখের মধ্যে আটকে রাখে: আসলে কিছুই ঘটেনি, আমাদের দৃষ্টির সঙ্গে কারসাজি হয়েছে। তাবারী এর অর্থ করেন এভাবে: এটা সত্য নয়, আমাদের চোখকে কেবল সুক্কিরাত করা হয়েছে। তারপর বাল, অর্থাৎ 'বরং', আরও এগিয়ে যায়: আমরা জাদুগ্রস্ত এক সম্প্রদায়। সা'দী এই দ্বিতীয় অংশের অর্থ করেন: এটা বাস্তব নয়, এ তো জাদু। অজুহাতটা একটি ইন্দ্রিয় থেকে বেড়ে গোটা মানুষকে ঢেকে ফেলে। শুধু একটি সম্ভাবনাকে সে কখনো জায়গা দেয় না: নিদর্শনটা হয়তো সত্যি।"
+          },
+          {
+            "en": "The commentators name the bewitcher. Al-Baghawi: magic has worked on us; Muhammad ﷺ has bewitched us. The Muyassar: our sight has been bewitched so that we saw what we did not see, and we are nothing but people bewitched in our minds by Muhammad. As-Sa'di says they would say it out of their wrongdoing and obstinacy, denying the sign, and that a people whose state has reached this denial leave no ground for hope or expectation.",
+            "bn": "জাদুকর কে, তাফসীরকারেরা তার নামও বলেন। বাগাভী বলেন, তাদের কথা হতো: আমাদের উপর জাদু কাজ করেছে, মুহাম্মাদ ﷺ আমাদের জাদু করেছেন। মুয়াসসারের ভাষায় তারা বলত: আমাদের দৃষ্টিতে জাদু করা হয়েছে, তাই আমরা এমন কিছু দেখেছি যা আসলে দেখিনি। আমরা আর কিছু নই, মুহাম্মাদ আমাদের বুদ্ধিতে জাদু করেছেন। সা'দী বলেন, তারা এ কথা বলত নিজেদের যুলম আর জেদের কারণে, নিদর্শনটিকে অস্বীকার করে। আর যে সম্প্রদায়ের অবস্থা এ রকম অস্বীকার পর্যন্ত গড়িয়েছে, তাদের নিয়ে কোনো আশা বা প্রত্যাশার জায়গা থাকে না।"
+          },
+          {
+            "en": "The Qur'an gives the same answer to other imagined proofs. In 6:7, had a written scripture come down on a page and they touched it with their hands, the disbelievers would say this is nothing but obvious magic. In 6:111, had angels been sent down, the dead spoken to them and everything gathered before them, they would not believe unless Allah should will. Al-Qurtubi on 15:14 draws the link to the Qur'an itself: granted the signs they asked for, they would cling to disbelief and plead illusions, just as they called the miraculous Qur'an magic.",
+            "bn": "কল্পিত অন্য প্রমাণগুলোর বেলাতেও কুরআন একই উত্তর দেয়। ৬:৭ আয়াতে বলা হয়েছে, কাগজে লেখা কিতাব নাযিল হলে আর তারা নিজের হাতে তা ছুঁয়ে দেখলেও কাফিররা বলত, এ তো স্পষ্ট জাদু ছাড়া কিছু নয়। ৬:১১১ আয়াতে বলা হয়েছে, ফেরেশতা নাযিল হলে, মৃতরা তাদের সঙ্গে কথা বললে, আর সব কিছু তাদের সামনে জড়ো করে দিলেও আল্লাহ না চাইলে তারা ঈমান আনত না। কুরতুবী ১৫:১৪ আয়াতের আলোচনায় কুরআনের সঙ্গেই যোগসূত্রটা টানেন। চাওয়া নিদর্শনগুলো দেওয়া হলেও তারা কুফর আঁকড়ে থাকত আর কল্পনার অজুহাত দিত, ঠিক যেমন অলৌকিক কুরআনকে তারা জাদু বলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Label for Anyone",
+          "bn": "কারও গায়ে লাগানোর তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the deniers who demanded angels of the Prophet ﷺ, whom the Muyassar names as the disbelievers of Makkah, and whom Ibn Jurayj's report from Ibn Abbas (RA) names as Quraysh. It licenses nothing against any living person or community. No living person or community may be called bewitched or sign-proof on the strength of this verse. As-Sa'di's no hope describes the people of the hypothetical, and 6:111 itself leaves the matter with Allah: unless Allah should will.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কেবল তা-ই বর্ণনা করে, যা পাঠ বর্ণনা করে: সেই অস্বীকারকারীরা, যারা নবী ﷺ-এর কাছে ফেরেশতা দাবি করেছিল। মুয়াসসার তাদের বলেছে মক্কার কাফির, আর ইবন আব্বাস (রাঃ) থেকে ইবন জুরাইজের বর্ণনায় তাদের বলা হয়েছে কুরাইশ। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এ আয়াতের জোরে কোনো জীবিত মানুষ বা সম্প্রদায়কে জাদুগ্রস্ত বলা যাবে না, এমনও বলা যাবে না যে কোনো নিদর্শন তার উপর কাজ করবে না। সা'দীর 'কোনো আশা নেই' কথাটি ওই কল্পিত দৃশ্যের লোকদের নিয়ে। আর ৬:১১১ আয়াত নিজেই বিষয়টি আল্লাহর হাতে রেখে দেয়: আল্লাহ না চাইলে।"
+          },
+          {
+            "en": "Nor does the verse fault the search for evidence. The very next verse, 15:16, turns to the sky as something adorned for those who look. What this passage exposes is a refusal settled before the proof arrives, one that will rename any sign to keep its place. A person who honestly asks, doubts or struggles is not its subject. And the question it leaves a believer is not about other people at all.",
+            "bn": "প্রমাণ খোঁজাকেও আয়াতটি দোষ দেয় না। ঠিক পরের আয়াত, ১৫:১৬, আকাশের দিকেই দৃষ্টি ফেরায়, যা দর্শকদের জন্য সাজানো। এ অংশটি যা উন্মোচন করে, তা হলো প্রমাণ আসার আগেই পাকা হয়ে যাওয়া অস্বীকার। নিজের জায়গা ধরে রাখতে সে যেকোনো নিদর্শনকে অন্য নাম দিয়ে দেবে। যে সৎভাবে প্রশ্ন করে, সন্দেহে ভোগে বা ভেতরে লড়াই করে, এ আয়াত তার কথা বলছে না। আর একজন মুমিনের জন্য এ আয়াত যে প্রশ্ন রেখে যায়, তা অন্য মানুষদের নিয়ে মোটেই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Filing Away My Own Signs",
+          "bn": "নিজের নিদর্শন চাপা দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Turned inward, the verse asks what I do with the signs I am given. Few are offered a gate in the sky. We are offered smaller things: a warning in an illness, an answered prayer, an ayah that lands on the very matter I was hiding, a death in the family. Each can be filed away with a ready word: coincidence, nerves, a mood. The deniers' words deserve hearing because they sound so reasonable. They never said, we refuse. They said, our eyes were tricked.",
+            "bn": "নিজের দিকে ফেরালে আয়াতটি জানতে চায়, যে নিদর্শনগুলো আমাকে দেওয়া হয়, সেগুলো নিয়ে আমি কী করি। আকাশের দরজা খুব কম মানুষের সামনেই খোলে। আমাদের সামনে আসে ছোট ছোট জিনিস। অসুখের ভেতরে একটা সতর্কবার্তা, কবুল হয়ে যাওয়া কোনো দোয়া, এমন কোনো আয়াত যা ঠিক সেই বিষয়ে গিয়ে লাগে যা আমি লুকিয়ে রাখছিলাম, পরিবারে কারও মৃত্যু। প্রতিটিকেই একটা তৈরি কথায় সরিয়ে রাখা যায়: কাকতালীয়, মনের ভুল, মেজাজ। অস্বীকারকারীদের কথাগুলো শোনার মতো, কারণ শুনতে এত যুক্তিসংগত লাগে। তারা কখনো বলেনি, আমরা মানব না। তারা বলেছে, আমাদের চোখকে ধোঁকা দেওয়া হয়েছে।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. A general narration, not tied to it, fits the turn inward. At-Tirmidhi (2140) gives it from Anas (RA): \"The Messenger of Allah ﷺ would often say: Ya Muqallibal-qulub, thabbit qalbi 'ala dinik ('O Changer of the Hearts! Strengthen my heart upon Your Religion.') So I said: 'O Prophet of Allah! We believe in you and what you have come with, but do you fear for us?' He said: 'Yes. Indeed the hearts are between two Fingers of Allah's Fingers, He changes them as He wills.'\" At-Tirmidhi grades it hasan.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, নিজের দিকে ফেরার সঙ্গে মিলে যায়। তিরমিযী (২১৪০) আনাস (রাঃ) থেকে বর্ণনা করেন: \"রাসূলুল্লাহ ﷺ প্রায়ই বলতেন: ইয়া মুকাল্লিবাল কুলূব, সাব্বিত কালবী আলা দীনিক (হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে তোমার দীনের উপর দৃঢ় রাখো)। আমি বললাম: হে আল্লাহর রাসূল, আমরা আপনার উপর ও আপনি যা নিয়ে এসেছেন তার উপর ঈমান এনেছি, তবুও কি আপনি আমাদের নিয়ে ভয় করেন? তিনি বললেন: হ্যাঁ। নিশ্চয় অন্তরগুলো আল্লাহর আঙুলসমূহের দুই আঙুলের মাঝে, তিনি যেভাবে চান সেগুলোকে ঘুরিয়ে দেন।\" তিরমিযী হাদীসটিকে হাসান বলেছেন।"
+          },
+          {
+            "en": "The Prophet ﷺ said this often, and when Anas (RA) asked whether he feared for those who already believed, he said yes. If the heart is where a sign is received or refused, guarding it is daily work. When the next reminder comes, the practice is simple and hard: do not reach for the excuse first. Let the sign in, ask what it asks of me, and ask Allah to keep my heart from becoming a gate that will not open.",
+            "bn": "নবী ﷺ প্রায়ই এ দোয়া করতেন। আর যারা আগেই ঈমান এনেছে তাদের নিয়েও তিনি ভয় করেন কি না, আনাস (রাঃ) জানতে চাইলে তিনি বলেছেন, হ্যাঁ। নিদর্শন গ্রহণ বা প্রত্যাখ্যান যদি অন্তরেই হয়, তবে অন্তর পাহারা দেওয়া প্রতিদিনের কাজ। পরের উপদেশটা যখন আসবে, কাজটা সহজও, কঠিনও: আগেভাগে অজুহাতের দিকে হাত বাড়াবেন না। নিদর্শনটাকে ভেতরে আসতে দিন, ভাবুন সে আপনার কাছে কী চায়। আর আল্লাহর কাছে চান, আপনার অন্তর যেন এমন দরজা না হয়ে যায়, যা আর কখনো খোলে না।"
+          }
+        ]
+      }
+    ]
+  },
   "15:16": {
     "sections": [
       {

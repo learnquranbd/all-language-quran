@@ -22171,6 +22171,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Leave with Allah what He has not explained, and take up what He has made clear: the Qur'an's plain guidance is enough to act on today.",
     "lessonBn": "আল্লাহ যা ব্যাখ্যা করেননি তা তাঁর কাছেই ছেড়ে দিন, আর যা তিনি স্পষ্ট করেছেন তা আঁকড়ে ধরুন: আজই আমল শুরু করার জন্য কুরআনের সোজা হিদায়াতই যথেষ্ট।"
+  },
+  "15:15": {
+    "reflectionEn": "Imagine a gate opening in the sky and a whole day spent climbing through it. That would surely settle everything. The verse says it would not. Those who had already decided would come down with an explanation ready: our eyes were blocked, our sight was dazzled, no, we are under a spell. The trouble was never a shortage of proof. A heart that has refused will call even the plainest sign a trick. The verse describes the deniers of its own time and passes no verdict on anyone alive. Its question is for me. When a sign reaches me, a warning, a mercy, a verse that strikes home, do I let it in, or find a word for it that lets me stay as I am?",
+    "reflectionBn": "ভাবুন, আকাশে একটা দরজা খুলে গেল, আর সারা দিন ধরে কেউ সেই দরজা দিয়ে উঠতেই থাকল। এরপর তো আর কোনো সন্দেহ থাকার কথা নয়। আয়াত বলছে, তবুও থাকত। যারা আগেই মন ঠিক করে ফেলেছে, তারা নেমে এসে ব্যাখ্যা হাজির করত: আমাদের চোখ আটকে দেওয়া হয়েছিল, দৃষ্টি ধাঁধিয়ে গিয়েছিল, না, আমরা আসলে জাদুগ্রস্ত। সমস্যাটা কখনো প্রমাণের অভাব ছিল না। যে অন্তর মুখ ফিরিয়ে নিয়েছে, সে সবচেয়ে স্পষ্ট নিদর্শনকেও ভেলকি বলে উড়িয়ে দেয়। আয়াতটি তার নিজের সময়ের অস্বীকারকারীদের কথা বলে, আজকের কোনো জীবিত মানুষের উপর রায় দেয় না। এর প্রশ্নটা আমার জন্য। কোনো সতর্কবার্তা, কোনো রহমত, কিংবা মনে গিয়ে লাগা কোনো আয়াত যখন আমার কাছে আসে, আমি কি তাকে ভেতরে ঢুকতে দিই? নাকি এমন একটা নাম খুঁজে নিই, যাতে আমাকে যেমন আছি তেমনই থেকে যেতে হয়?",
+    "pointsEn": [
+      "What sign has already reached me this year that I explained away instead of answering?",
+      "When the truth would cost me something, do I start asking for more proof than I ask of anything else?",
+      "Which ready words do I reach for, such as coincidence, nerves or a passing mood, to keep a reminder from changing me?",
+      "Have I ever written someone off as beyond reach, when this verse gives me no right to judge any living person?",
+      "How often do I ask Allah to keep my own heart firm, instead of assuming it is safe?"
+    ],
+    "pointsBn": [
+      "এ বছর কোন নিদর্শন আমার কাছে এসেছিল, যার জবাব না দিয়ে আমি একটা ব্যাখ্যা দাঁড় করিয়ে পাশ কাটিয়ে গেছি?",
+      "সত্য মানতে গেলে যখন আমার কিছু হারাতে হয়, তখন কি আমি অন্য সব বিষয়ের চেয়ে বেশি প্রমাণ চাইতে শুরু করি?",
+      "কোনো উপদেশ যাতে আমাকে বদলে দিতে না পারে, সে জন্য কোন তৈরি কথাগুলো আমি হাতে রাখি? কাকতালীয়, মনের ভুল, নাকি সাময়িক মেজাজ?",
+      "আমি কি কখনো কাউকে একেবারে হাতছাড়া বলে বাদ দিয়েছি, অথচ এ আয়াত কোনো জীবিত মানুষের বিচার করার অধিকার আমাকে দেয় না?",
+      "নিজের অন্তর নিরাপদ ধরে না নিয়ে কতবার আমি আল্লাহর কাছে চাই, তিনি যেন সেটাকে দৃঢ় রাখেন?"
+    ],
+    "lessonEn": "When a sign reaches you, let it in: a refusing heart never lacks proof, so guard your own heart and ask Allah to keep it open.",
+    "lessonBn": "কোনো নিদর্শন আপনার কাছে এলে তাকে ভেতরে আসতে দিন। মুখ ফেরানো অন্তরের কখনো প্রমাণের অভাব হয় না, তাই নিজের অন্তর পাহারা দিন আর আল্লাহর কাছে চান, তিনি যেন তা খোলা রাখেন।"
   }
 };
 
