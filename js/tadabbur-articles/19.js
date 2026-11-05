@@ -311,6 +311,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between the Sign and the Son",
+          "bn": "নীরব পিতা থেকে আহূত পুত্র"
+        },
+        "p": [
+          {
+            "en": "Ya Yahya, khudhi l-kitaba bi-quwwa: O Yahya, take the Book with strength. One verse earlier, in 19:11, Zakariyya (AS) came out of the prayer chamber and signalled to his people to glorify Allah morning and evening. Now the son promised in 19:7 is spoken to by name. Ibn Kathir says the verse carries an unspoken step: the boy who had been promised was found, he was Yahya (AS), and Allah taught him the Book. Al-Qurtubi calls it a compression that the speech itself points to: a son was born to him, and Allah said to the newborn.",
+            "bn": "ইয়া ইয়াহইয়া, খুযিল কিতাবা বিকুওয়াহ: হে ইয়াহইয়া, কিতাবটি শক্ত করে ধরো। ঠিক আগের আয়াতে, ১৯:১১-এ, যাকারিয়া (আঃ) ইবাদতের কক্ষ থেকে বেরিয়ে ইশারায় লোকদের সকাল-সন্ধ্যা আল্লাহর তাসবীহ পড়তে বলেছিলেন। আর এখানে ১৯:৭-এ যে পুত্রের সুসংবাদ এসেছিল, তাকেই নাম ধরে ডাকা হচ্ছে। ইবন কাসীর বলেন, আয়াতের ভেতরে একটা ধাপ উহ্য আছে: প্রতিশ্রুত ছেলেটি এসেছে, সে-ই ইয়াহইয়া (আঃ), আর আল্লাহ তাঁকে কিতাব শিখিয়েছেন। কুরতুবী একে বলেন এমন সংক্ষেপ, যা কথার ধারাই বুঝিয়ে দেয়। অর্থাৎ তাঁর একটি ছেলে জন্মাল, আর আল্লাহ সেই নবজাতককে বললেন।"
+          },
+          {
+            "en": "Where the leap lands is pictured a little differently. At-Tabari's paraphrase names only the birth: Yahya was born to Zakariyya, and once he was born Allah said to him, O Yahya, take this Book with strength. Al-Baghawi supplies a similar missing clause: We granted him Yahya and said to him. As-Sa'di and the Muyassar place the address later. In as-Sa'di's words, what came before points to Yahya's birth, youth and upbringing, and the command came when he reached a state in which he could understand being spoken to. The verse itself gives only the address.",
+            "bn": "লাফটা ঠিক কোথায় গিয়ে থামে, তার ছবি একটু ভিন্ন ভিন্ন। তাবারীর ব্যাখ্যায় শুধু জন্মের কথা আছে: যাকারিয়ার ঘরে ইয়াহইয়া জন্মালেন, আর জন্মের পর আল্লাহ তাঁকে বললেন, হে ইয়াহইয়া, এই কিতাব শক্ত করে ধরো। বাগাভীও প্রায় একই রকম উহ্য বাক্য বসান: আমি তাঁকে ইয়াহইয়া দান করলাম এবং তাঁকে বললাম। সা'দী ও মুয়াসসার সম্বোধনটাকে আরও পরে রাখেন। সা'দীর ভাষায়, আগের কথাগুলো ইয়াহইয়ার জন্ম, বেড়ে ওঠা আর লালনপালনের ইঙ্গিত দেয়। তারপর যখন তিনি কথা বোঝার বয়সে পৌঁছালেন, তখন এল আদেশ। আয়াত নিজে শুধু সম্বোধনটুকুই জানায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scripture Already Given",
+          "bn": "আগে থেকেই নাজিল কিতাব"
+        },
+        "p": [
+          {
+            "en": "Which Book? Al-Qurtubi answers at once: the Torah, without disagreement. At-Tabari says the Book of Allah that He sent down to Musa (AS), which is the Torah, and al-Baghawi and the Muyassar name it the same way. Ibn Kathir describes it as the Torah that they used to study among themselves, by which the prophets who submitted judged for the Jews, and the rabbis and scholars too. His wording echoes 5:44. Yahya (AS) is not handed a new scripture here; he is told to hold one already in his people's hands.",
+            "bn": "কোন কিতাব? কুরতুবী উত্তর দেন অল্প কথায়: তাওরাত, এতে কোনো মতভেদ নেই। তাবারী বলেন, আল্লাহর সেই কিতাব যা তিনি মূসা (আঃ)-এর উপর নাজিল করেছিলেন, অর্থাৎ তাওরাত। বাগাভী আর মুয়াসসারও একই নাম বলেন। ইবন কাসীরের বর্ণনায় এ সেই তাওরাত, যা তারা নিজেদের মধ্যে পড়াশোনা করত। আল্লাহর অনুগত নবীরা ইহুদিদের মাঝে এর দ্বারাই বিচার করতেন, আর আলেম ও ধর্মযাজকেরাও করতেন। তাঁর এ কথায় ৫:৪৪ আয়াতের প্রতিধ্বনি শোনা যায়। মানে ইয়াহইয়া (আঃ)-কে এখানে নতুন কোনো কিতাব দেওয়া হচ্ছে না। তাঁকে বলা হচ্ছে, তাঁর জাতির হাতে যে কিতাব আগে থেকেই আছে, সেটাকে দৃঢ়ভাবে ধরতে।"
+          },
+          {
+            "en": "The imperative is familiar. Khudh, take, is what Musa (AS) heard about the tablets in 7:145, and the page on that verse already sets out how the commentators read bi-quwwa there and where else the order recurs, so that ground is not covered again here. What is distinct in 19:12 is who receives it. The command is not given at the moment a scripture first comes down, but to a later prophet, still young, about a Book that came long before him.",
+            "bn": "আদেশসূচক শব্দটা পরিচিত। খুয, অর্থাৎ ধরো, এই কথাটাই মূসা (আঃ) শুনেছিলেন ফলকগুলো নিয়ে, ৭:১৪৫ আয়াতে। সেখানে বিকুওয়াহ শব্দটা তাফসীরকারেরা কীভাবে বুঝেছেন আর এই আদেশ কুরআনে আর কোথায় কোথায় ফিরে এসেছে, ওই আয়াতের পাতায় তা বলা আছে। তাই এখানে সে আলোচনা আবার করা হচ্ছে না। ১৯:১২ আয়াতের বিশেষত্ব হলো, আদেশটা কে পাচ্ছেন। কিতাব প্রথম নাজিলের মুহূর্তে এ আদেশ আসছে না। আসছে পরবর্তী এক নবীর কাছে, যিনি তখনো বয়সে ছোট, আর কিতাবটি এসেছিল তাঁর বহু আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Strength Means Earnestness",
+          "bn": "শক্তি মানে একাগ্রতা"
+        },
+        "p": [
+          {
+            "en": "Bi-quwwa, with strength. At-Tabari glosses it with a single word, bi-jidd, with earnestness, and supports it with two early authorities: Qatadah, through Ma'mar, and Mujahid, through more than one chain, both saying bi-jidd. Al-Qurtubi gives Mujahid's gloss as earnestness and effort. Ibn Kathir reads the command as learn the Book, and explains the strength as jidd, hirs and ijtihad: earnestness, eagerness and striving. His abridged English puts it as learning it well, with zeal and studious effort.",
+            "bn": "বিকুওয়াহ, শক্তির সঙ্গে। তাবারী এর ব্যাখ্যা দেন একটি শব্দে: বিজিদ্দ, অর্থাৎ ঐকান্তিকতায়। এর পক্ষে তিনি আনেন দুজন প্রাথমিক যুগের আলেমকে। মা'মারের সূত্রে কাতাদা, আর একাধিক সূত্রে মুজাহিদ, দুজনেই বলেন বিজিদ্দ। কুরতুবী মুজাহিদের ব্যাখ্যা উল্লেখ করেন ঐকান্তিকতা ও প্রাণপণ চেষ্টা হিসেবে। ইবন কাসীর আদেশটাকে পড়েন কিতাব শেখার নির্দেশ হিসেবে। আর শক্তির ব্যাখ্যায় তিন শব্দ আনেন: জিদ্দ, হিরস আর ইজতিহাদ, মানে ঐকান্তিকতা, আগ্রহ আর অক্লান্ত চেষ্টা। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, ভালো করে শেখো, উদ্যম আর মনোযোগী পরিশ্রম নিয়ে।"
+          },
+          {
+            "en": "A second gloss moves from study to practice. Ibn Zayd, in at-Tabari, says that strength here is that he do what Allah commanded him and keep away from what Allah forbade him. Al-Qurtubi gives nearly the same reading under the words it was said: knowing the Book, keeping it and acting on it, which is holding to its commands and refraining from its prohibitions. He credits it to Zayd ibn Aslam, where at-Tabari has Ibn Zayd, and both names are kept here as each mufassir gives them.",
+            "bn": "দ্বিতীয় এক ব্যাখ্যা পড়াশোনা থেকে আমলের দিকে নিয়ে যায়। তাবারীতে ইবন যায়দ বলেন, এখানে শক্তি মানে আল্লাহ যা আদেশ করেছেন তা পালন করা, আর যা নিষেধ করেছেন তা থেকে দূরে থাকা। কুরতুবী 'বলা হয়েছে' বলে প্রায় একই ব্যাখ্যা আনেন: কিতাবকে জানা, সংরক্ষণ করা আর সে অনুযায়ী আমল করা। অর্থাৎ এর আদেশগুলো আঁকড়ে থাকা আর নিষেধগুলো থেকে বিরত থাকা। কুরতুবী কথাটা যায়দ ইবন আসলামের নামে বলেন, অথচ তাবারীতে নাম আছে ইবন যায়দের। প্রত্যেক মুফাসসির যে নাম দিয়েছেন, এখানে সেটাই রাখা হলো।"
+          },
+          {
+            "en": "Neither treats the phrase as new ground. At-Tabari says he has already explained its meaning, with supporting evidence, earlier in his commentary, and will not repeat it. Al-Qurtubi points back to al-Baqarah, where the Children of Israel were given the same command in 2:63. Across every gloss quoted, the strength is not physical force. It is earnestness in learning and firmness in obeying, a grip on the Book that shows in effort and in conduct, the two halves that the next commentators join together.",
+            "bn": "দুজনের কেউই শব্দটাকে নতুন কিছু হিসেবে দেখেন না। তাবারী বলেন, প্রমাণসহ এর অর্থ তিনি তাঁর তাফসীরের আগের অংশে ব্যাখ্যা করেছেন, তাই আর পুনরাবৃত্তি করবেন না। কুরতুবী ফিরিয়ে নেন সূরা বাকারায়, যেখানে ২:৬৩ আয়াতে বনী ইসরাঈলকে একই আদেশ দেওয়া হয়েছিল। উদ্ধৃত সব ব্যাখ্যাতেই শক্তি মানে গায়ের জোর নয়। শক্তি মানে শেখায় ঐকান্তিকতা আর মানায় দৃঢ়তা। কিতাবকে এমনভাবে ধরা, যা চেষ্টায় আর আচরণে চোখে পড়ে। পরের তাফসীরকারেরা এই দুই দিককে এক জায়গায় জুড়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Memorise, Understand, Obey",
+          "bn": "মুখস্থ, অনুধাবন, আমল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di turns the gloss into three tasks. With strength, he says, means with earnestness and effort, and that is by striving to memorise its words, to understand its meanings, and to act on its commands and prohibitions; this, he adds, is the complete taking of the Book with strength. The Muyassar gives the same three in almost the same words: take the Torah with earnestness and effort, by keeping its wording, understanding its meanings and acting on it. Neither lets one part stand in for the whole.",
+            "bn": "সা'দী ব্যাখ্যাটাকে তিনটি কাজে ভাগ করেন। তিনি বলেন, শক্তির সঙ্গে মানে ঐকান্তিকতা ও চেষ্টার সঙ্গে। আর তা হয় এর শব্দ মুখস্থ করার চেষ্টায়, অর্থ বোঝায় আর আদেশ-নিষেধ মেনে চলায়। তাঁর ভাষায়, কিতাবকে শক্ত করে ধরার পূর্ণতা এটাই। মুয়াসসারও প্রায় একই ভাষায় এই তিনটি বলে: ঐকান্তিকতা ও চেষ্টা নিয়ে তাওরাত ধরো, এর শব্দ সংরক্ষণ করে, অর্থ বুঝে আর সে অনুযায়ী আমল করে। কেউই একটি অংশকে পুরোটার জায়গা নিতে দেন না।"
+          },
+          {
+            "en": "As-Sa'di then tells what Yahya (AS) did with the command. He obeyed his Lord, turned to the Book, memorised it and understood it, and Allah placed in him a sharpness and insight not found in others; for this reason, he says, Allah said: and We gave him hukm as a boy. In his reading the two halves of the verse are joined, the gift following the taking. The other commentators fetched for this verse set the two clauses side by side without stating that link.",
+            "bn": "এরপর সা'দী জানান, আদেশ পেয়ে ইয়াহইয়া (আঃ) কী করলেন। তিনি রবের আদেশ মানলেন, কিতাবের দিকে মন দিলেন, তা মুখস্থ করলেন আর বুঝলেন। আল্লাহ তাঁর মধ্যে এমন মেধা আর তীক্ষ্ণ বুদ্ধি দিলেন, যা অন্যদের মধ্যে পাওয়া যায় না। সা'দী বলেন, এ কারণেই আল্লাহ বলেছেন: আর আমি তাঁকে শৈশবেই হুকম দান করেছিলাম। তাঁর পাঠে আয়াতের দুই অংশ পরস্পর যুক্ত। আগে কিতাব ধরা, তারপর দান। এ আয়াতের জন্য দেখা অন্য তাফসীরগুলো দুটি বাক্যকে পাশাপাশি রাখে, তবে এই সম্পর্কের কথা স্পষ্ট করে বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hukm Before Manhood",
+          "bn": "যৌবনের আগেই হুকম"
+        },
+        "p": [
+          {
+            "en": "Wa ataynahu l-hukma sabiyya: and We gave him hukm as a boy. What is hukm here? Ibn Abbas, in al-Baghawi, says prophethood. Al-Baghawi then gives a second view, under the words it was said: hukm meant understanding the Book, so that he read the Torah while he was small. At-Tabari takes the understanding side: We gave him understanding of the Book of Allah in the state of his boyhood, before he reached the years of men. The two readings are not the same claim, and both are kept.",
+            "bn": "ওয়া আতাইনাহুল হুকমা সাবিয়্যা: আর আমি তাঁকে শৈশবেই হুকম দান করেছিলাম। এখানে হুকম কী? বাগাভীতে ইবন আব্বাস (রাঃ) বলেন, নবুওয়াত। এরপর বাগাভী 'বলা হয়েছে' বলে আরেকটি মত আনেন: হুকম মানে কিতাবের বুঝ, তাই ছোট বয়সেই তিনি তাওরাত পড়েছিলেন। তাবারী বুঝের পক্ষেই যান। তাঁর ভাষায়, আমি তাঁকে শৈশবে, পুরুষের বয়সে পৌঁছানোর আগেই আল্লাহর কিতাবের বুঝ দান করেছিলাম। দুটি পাঠ এক কথা বলে না, তাই দুটোই এখানে রাখা হলো।"
+          },
+          {
+            "en": "Others widen the understanding reading. Ibn Kathir gives hukm as understanding and knowledge, earnestness and resolve, turning towards good, giving himself to it and striving in it, while he was small and young in years. As-Sa'di says knowledge of Allah's rulings and judging by them, in the state of his childhood. Al-Qurtubi records, under it was said, the rulings and knowledge of them. The Muyassar has wisdom and sound understanding while he was young in age. Each gloss pairs knowing with acting.",
+            "bn": "অন্যরা বুঝের ব্যাখ্যাটাকে আরও প্রশস্ত করেন। ইবন কাসীরের মতে হুকম মানে বুঝ ও জ্ঞান, ঐকান্তিকতা ও সংকল্প, কল্যাণের দিকে মনোযোগ, তাতে নিজেকে ঢেলে দেওয়া আর তার জন্য চেষ্টা করা, তাও আবার অল্প বয়সে। সা'দী বলেন, আল্লাহর বিধানের জ্ঞান আর সে অনুযায়ী ফয়সালা করা, শৈশব অবস্থাতেই। কুরতুবী 'বলা হয়েছে' বলে উল্লেখ করেন: বিধিবিধান ও সেগুলোর জ্ঞান। মুয়াসসার বলে, প্রজ্ঞা আর সুন্দর বুঝ, তখনো তিনি অল্পবয়সী। প্রতিটি ব্যাখ্যাতেই জানা আর করা হাত ধরাধরি করে চলে।"
+          },
+          {
+            "en": "So the readings fall into two families. In one, hukm is prophethood, given to Yahya (AS) as a boy, as Ibn Abbas says in al-Baghawi. In the other, it is understanding, knowledge or rulings, as at-Tabari, Ibn Kathir, as-Sa'di and the Muyassar give it. The texts fetched for this verse do not settle between them. Al-Qurtubi adds a point of grammar: sabiyyan is in the accusative as a hal, a state. It fixes when the gift came, in boyhood, and leaves the number of years open.",
+            "bn": "তাহলে ব্যাখ্যাগুলো দুই ভাগে পড়ে। এক ভাগে হুকম মানে নবুওয়াত, যা ইয়াহইয়া (আঃ) শৈশবেই পেয়েছিলেন। বাগাভীতে ইবন আব্বাস (রাঃ) এ কথাই বলেন। অন্য ভাগে হুকম মানে বুঝ, জ্ঞান বা বিধিবিধান। তাবারী, ইবন কাসীর, সা'দী আর মুয়াসসার এভাবেই ব্যাখ্যা করেন। এ আয়াতের জন্য সংগৃহীত লেখাগুলো এ দুইয়ের মধ্যে মীমাংসা করে না। কুরতুবী একটি ব্যাকরণগত কথা যোগ করেন: সাবিয়্যান শব্দটি হাল হিসেবে মানসূব, অর্থাৎ অবস্থা বোঝায়। দানটা কখন এসেছিল তা এ শব্দ ঠিক করে দেয়, শৈশবে। কিন্তু বয়স কত ছিল, সে প্রশ্ন খোলা রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Years or Three",
+          "bn": "দুই বছর, নাকি তিন"
+        },
+        "p": [
+          {
+            "en": "Some early commentators did put a number on it. Al-Qurtubi relays Qatadah: he was two or three years old; and Muqatil: he was three. Al-Baghawi, straight after Ibn Abbas's gloss of hukm as prophethood, adds and he was three years old, without making clear whether Ibn Abbas is still speaking. None of these comes with a chain in the texts read here, and none is a word of the Prophet ﷺ. They are the views of early commentators, and the verse itself says only as a boy.",
+            "bn": "প্রাথমিক যুগের কয়েকজন তাফসীরকার অবশ্য বয়সের সংখ্যাও বলেছেন। কুরতুবী কাতাদার কথা উল্লেখ করেন: তখন তাঁর বয়স ২ বা ৩ বছর। আর মুকাতিলের কথা: ৩ বছর। বাগাভী ইবন আব্বাস (রাঃ)-এর 'হুকম মানে নবুওয়াত' ব্যাখ্যার ঠিক পরেই লেখেন, তখন তাঁর বয়স ৩ বছর। তবে এ কথাও ইবন আব্বাসের কি না, তা স্পষ্ট নয়। এখানে পড়া লেখাগুলোতে এর কোনোটারই সনদ নেই, কোনোটাই নবী ﷺ-এর বাণী নয়। এগুলো প্রাথমিক তাফসীরকারদের মত। আয়াত নিজে শুধু বলে, শৈশবে।"
+          },
+          {
+            "en": "A different saying brings the phrase within reach of ordinary readers. Al-Qurtubi relays from Ibn Abbas that whoever recites the Qur'an before reaching puberty is among those given hukm as a boy, and al-Baghawi gives the same from some of the early generations. The saying does not make such a child a prophet. It borrows the verse's words for a child who meets the Book early, and so turns a description of Yahya (AS) into something a household can aim for.",
+            "bn": "আরেকটি উক্তি আয়াতের এ কথাটিকে সাধারণ পাঠকের নাগালে এনে দেয়। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: যে বালেগ হওয়ার আগে কুরআন পড়ে, সে তাদের একজন যাদের শৈশবেই হুকম দেওয়া হয়েছে। বাগাভী একই কথা আনেন সালাফের কারও কারও কাছ থেকে। এ কথা ওই শিশুকে নবী বানায় না। যে শিশু ছোটবেলাতেই কিতাবের সঙ্গে পরিচিত হয়, তার জন্য আয়াতের শব্দটা ধার নেওয়া হয়েছে মাত্র। ফলে ইয়াহইয়া (আঃ)-এর এক গুণের বর্ণনা হয়ে ওঠে এমন এক লক্ষ্য, যা যেকোনো পরিবার সামনে রাখতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Made for Play",
+          "bn": "খেলার জন্য সৃষ্টি নই"
+        },
+        "p": [
+          {
+            "en": "The best-known story about Yahya's childhood comes through Ma'mar. Ibn Kathir gives it from Abdullah ibn al-Mubarak, from Ma'mar: the boys said to Yahya ibn Zakariyya, come with us and let us play. He said, I was not created for play. So Allah sent down: and We gave him hukm as a boy. At-Tabari gives it through Ahmad ibn Mani', from Ibn al-Mubarak, with Ma'mar saying it reached me, and notes that Ma'mar did not ascribe it to anyone. Al-Qurtubi simply says Ma'mar narrated it.",
+            "bn": "ইয়াহইয়া (আঃ)-এর শৈশব নিয়ে সবচেয়ে পরিচিত ঘটনাটি এসেছে মা'মারের সূত্রে। ইবন কাসীর তা আনেন আবদুল্লাহ ইবনুল মুবারকের মাধ্যমে, মা'মার থেকে: ছেলেরা ইয়াহইয়া ইবন যাকারিয়াকে বলল, চলো আমাদের সঙ্গে, খেলি। তিনি বললেন, আমাকে খেলার জন্য সৃষ্টি করা হয়নি। তখন আল্লাহ নাজিল করলেন: আর আমি তাঁকে শৈশবেই হুকম দান করেছিলাম। তাবারী বর্ণনাটি আনেন আহমাদ ইবন মানী' থেকে, ইবনুল মুবারকের মাধ্যমে। সেখানে মা'মার বলেন, কথাটা আমার কাছে পৌঁছেছে। তাবারী জানিয়ে দেন, মা'মার এটি কারও নামে বর্ণনা করেননি। কুরতুবী শুধু বলেন, মা'মার বর্ণনা করেছেন।"
+          },
+          {
+            "en": "That is its status: a saying that reached Ma'mar from no named source. It is not a hadith of the Prophet ﷺ, and its link between the verse and the incident rests on nothing named either. Told with that status, it pictures a boy who already knew what his days were for, which is the picture the verse paints in its own words. It gives no ruling on children's play, and none of the commentaries fetched for this verse draws such a ruling from it.",
+            "bn": "বর্ণনাটির অবস্থান তাহলে এই: কোনো নামহীন সূত্র থেকে মা'মারের কাছে পৌঁছানো এক কথা। এটি নবী ﷺ-এর হাদীস নয়। আয়াত আর ঘটনার মধ্যে যে সম্পর্ক এখানে জোড়া হয়েছে, তারও কোনো নির্দিষ্ট ভিত্তি দেখানো হয়নি। এই মর্যাদা মাথায় রেখে বললে কাহিনিটি এমন এক বালকের ছবি আঁকে, যে আগেই জানত তার দিনগুলো কিসের জন্য। আয়াতও নিজের ভাষায় সেই ছবিই আঁকে। তবে শিশুদের খেলাধুলা নিয়ে এটি কোনো বিধান দেয় না। এ আয়াতের জন্য দেখা কোনো তাফসীরও এ থেকে তেমন বিধান বের করেনি।"
+          },
+          {
+            "en": "Al-Qurtubi relays two more portraits, each as a Successor's saying with no chain given. Qatadah: Yahya (AS) never disobeyed Allah in anything small or great, and never inclined towards a woman. Mujahid: his food was grass and wild herbs, and his tears had worn lasting channels down his cheeks. Al-Qurtubi also relays a narration ascribed to the Prophet ﷺ about Yahya (AS); its source and grading could not be confirmed in the collections checked for this page, so it is not quoted here.",
+            "bn": "কুরতুবী আরও দুটি বর্ণনা আনেন, দুটোই তাবেঈদের উক্তি, কোনো সনদ ছাড়া। কাতাদা বলেন, ইয়াহইয়া (আঃ) কখনো ছোট বা বড় কোনো ব্যাপারে আল্লাহর নাফরমানি করেননি, কোনো নারীর প্রতি ঝোঁকেননি। মুজাহিদ বলেন, তাঁর খাবার ছিল মাটির ঘাস-লতা, আর কাঁদতে কাঁদতে তাঁর দুই গালে চোখের পানির স্থায়ী দাগ পড়ে গিয়েছিল। ইয়াহইয়া (আঃ) সম্পর্কে নবী ﷺ-এর নামে একটি বর্ণনাও কুরতুবী উল্লেখ করেন। কিন্তু এ পাতার জন্য যাচাই করা হাদীসগ্রন্থগুলোতে এর উৎস ও মান নিশ্চিত করা যায়নি, তাই এখানে তা উদ্ধৃত করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The First of Several Gifts",
+          "bn": "দানের তালিকার শুরু"
+        },
+        "p": [
+          {
+            "en": "The gift in 19:12 opens a list that runs on. At-Tabari reads the next verse as joined to it: and as mercy from Us and love for him, We gave him hukm as a boy. For hanan he relays Ibn Abbas, through Ali ibn Abi Talha, and Ikrimah: mercy. Ibn Kathir's abridged English draws the same link, reading the clauses together as We gave him wisdom, compassion and purity, and adds that zakah means purity from filth, wickedness and sins.",
+            "bn": "১৯:১২ আয়াতের দান আসলে একটি দীর্ঘ তালিকার শুরু। তাবারী পরের আয়াতকে এর সঙ্গে জুড়ে পড়েন: আমার পক্ষ থেকে রহমত আর তাঁর প্রতি ভালোবাসাস্বরূপ আমি তাঁকে শৈশবেই হুকম দিয়েছিলাম। হানান শব্দের অর্থে তিনি আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) আর ইকরিমার কথা আনেন: রহমত। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও একই সম্পর্ক টানে। বাক্যগুলো একসঙ্গে পড়ে সেখানে অর্থ দাঁড়ায়: আমি তাঁকে দিলাম প্রজ্ঞা, কোমলতা আর পবিত্রতা। সেখানে আরও বলা হয়, যাকাত মানে নোংরামি, মন্দ আর গুনাহ থেকে পবিত্রতা।"
+          },
+          {
+            "en": "Then 19:13 to 19:15 complete the portrait: he was God-fearing, dutiful to his parents, never a tyrant or disobedient, and peace is upon him the day he was born, the day he dies and the day he is raised alive. Ibn Kathir reads the order as obedience to his Lord first, then good treatment of his parents, then the reward of peace. Those verses are a passage of their own. Here they show the setting of the command: the boy told to take the Book is the boy described by all that follows.",
+            "bn": "এরপর ১৯:১৩ থেকে ১৯:১৫ আয়াত ছবিটা পূর্ণ করে। তিনি ছিলেন আল্লাহভীরু, পিতা-মাতার অনুগত, কখনো উদ্ধত বা অবাধ্য নন। আর শান্তি তাঁর উপর, যেদিন তিনি জন্মেছেন, যেদিন মারা যাবেন আর যেদিন জীবিত অবস্থায় উত্থিত হবেন। ইবন কাসীর এ ধারাবাহিকতা পড়েন এভাবে: আগে রবের আনুগত্য, তারপর পিতা-মাতার সঙ্গে সদাচরণ, তারপর পুরস্কারস্বরূপ শান্তি। ওই আয়াতগুলোর আলোচনা আলাদা। এখানে সেগুলো শুধু আদেশের প্রেক্ষাপট দেখায়। যে বালককে কিতাব ধরতে বলা হলো, পরের সব গুণ তাঁরই বর্ণনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Book, Taken Firmly",
+          "bn": "নিজের কিতাব, শক্ত হাতে"
+        },
+        "p": [
+          {
+            "en": "For a Muslim the Book in hand is the Qur'an, and the three tasks give a usable check. Words: is some part of it memorised and revised so that it stays? Meanings: is a verse understood before moving on, with a tafsir read slowly? Commands: is there one ruling already known and not yet practised? Strength, on every gloss above, is earnestness rather than force, so the measure is steadiness across months, not a burst of fervour in one good week.",
+            "bn": "একজন মুসলিমের হাতে যে কিতাব, তা কুরআন। আর ওই তিনটি কাজ দিয়ে নিজেকে সহজে যাচাই করা যায়। শব্দ: এর কোনো অংশ কি মুখস্থ আছে, আর তা কি নিয়মিত ঝালিয়ে নেওয়া হয়, যাতে হারিয়ে না যায়? অর্থ: পরের আয়াতে যাওয়ার আগে কি আগেরটা বুঝে নেওয়া হয়, ধীরে ধীরে কোনো তাফসীর পড়ে? আদেশ: এমন কোনো বিধান কি আছে, যা জানা কিন্তু এখনো মানা হয়নি? উপরের সব ব্যাখ্যাতেই শক্তি মানে ঐকান্তিকতা, জোরজবরদস্তি নয়। তাই আসল মাপকাঠি মাসের পর মাস অবিচল থাকা, এক ভালো সপ্তাহের উচ্ছ্বাস নয়।"
+          },
+          {
+            "en": "Ibn Abbas's saying speaks to parents and teachers: a child who recites the Qur'an early has met the Book in the years the verse names. That is a gift to hand on with gentleness, not a load to press down. And for whoever began late, the command does not lapse. Hukm, on every reading, is Allah's to give. Taking the Book with strength is what is asked of whoever holds it, at whatever age the holding begins.",
+            "bn": "ইবন আব্বাস (রাঃ)-এর উক্তিটি মা-বাবা আর শিক্ষকদের জন্য এক বার্তা। যে শিশু ছোটবেলাতেই কুরআন পড়ে, সে আয়াতে বলা সেই বয়সেই কিতাবের দেখা পেয়েছে। এ দান কোমলতার সঙ্গে তুলে দেওয়ার জিনিস, চাপিয়ে দেওয়ার বোঝা নয়। আর যিনি দেরিতে শুরু করেছেন, তাঁর জন্যও আদেশটা বাতিল হয়ে যায় না। হুকম, যে ব্যাখ্যাই ধরা হোক, আল্লাহরই দান। আর কিতাব শক্ত করে ধরা হলো তার কাজ, যার হাতে কিতাব আছে, যে বয়সেই সে ধরতে শুরু করুক।"
+          }
+        ]
+      }
+    ]
+  },
   "19:16": {
     "sections": [
       {

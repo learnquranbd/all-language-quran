@@ -22931,6 +22931,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Protection is built by skill joined to many willing hands: offer what you know, ask others for their strength, and credit the result to Allah.",
     "lessonBn": "নিরাপত্তার দেয়াল ওঠে দক্ষতা আর অনেকের স্বেচ্ছাশ্রম মিলে। যা জানেন তা দিন, অন্যদের কাছে তাদের শক্তি চান, আর ফলের কৃতিত্ব আল্লাহকে দিন।"
+  },
+  "19:12": {
+    "reflectionEn": "The story leaps. One verse earlier Zakariyya (AS) stands silent before his people, signalling them to glorify their Lord; now his son is being addressed by name. The waiting, the birth and the early years are passed over, and the first words the boy hears are a command: take the Book with strength. Not read it, not own it, but take it with resolve. Then comes the gift: understanding, while he was still a child. The verse puts duty and gift side by side, as if the second were opened through the first. I have a Book too. Do I hold it the way one holds something heavy and precious, or the way one carries a parcel for someone else?",
+    "reflectionBn": "কাহিনি এখানে এক লাফে এগিয়ে যায়। আগের আয়াতে যাকারিয়া (আঃ) নিজের লোকদের সামনে নির্বাক দাঁড়িয়ে, ইশারায় রবের তাসবীহ পড়তে বলছেন। আর এ আয়াতে তাঁর ছেলেকে নাম ধরে ডাকা হচ্ছে। অপেক্ষা, জন্ম, শৈশবের বছরগুলো সব পেরিয়ে যায় নীরবে। ছেলেটি প্রথম যে কথা শোনে, তা এক আদেশ: কিতাবটি শক্ত করে ধরো। শুধু পড়ো না, শুধু কাছে রেখো না, দৃঢ় সংকল্পে আঁকড়ে ধরো। তারপর আসে দান: শিশু বয়সেই তাঁকে দেওয়া হলো বুঝ ও প্রজ্ঞা। দায়িত্ব আর দান পাশাপাশি দাঁড়িয়ে, যেন প্রথমটির পথ ধরেই দ্বিতীয়টির দরজা খোলে। আমার হাতেও একটা কিতাব আছে। আমি কি সেটা ধরি ভারী আর দামি কোনো জিনিসের মতো, নাকি অন্যের পার্সেলের মতো বয়ে বেড়াই?",
+    "pointsEn": [
+      "If someone watched how I handle the Qur'an for one ordinary week, would they say I take it with strength?",
+      "Of the three ways to hold a book, memorising its words, understanding its meanings and acting on them, which one have I let go slack?",
+      "Which single command in the Qur'an do I already understand but still do not act on?",
+      "What am I doing to help a child near me meet the Book early, with love rather than burden?",
+      "When I decide what my time is for, does the Book have a share in it, or only what is left over?"
+    ],
+    "pointsBn": [
+      "সাধারণ একটা সপ্তাহে কেউ যদি দেখে আমি কুরআনের সঙ্গে কেমন আচরণ করি, সে কি বলবে আমি এটা শক্ত করে ধরেছি?",
+      "কিতাব ধরার তিনটি দিক আছে: শব্দ মুখস্থ রাখা, অর্থ বোঝা আর সে অনুযায়ী আমল করা। এর কোনটাতে আমার হাত ঢিলে হয়ে গেছে?",
+      "কুরআনের কোন আদেশটা আমি বুঝি ঠিকই, কিন্তু এখনো মানি না?",
+      "আমার কাছের কোনো শিশু যেন বোঝা হিসেবে নয়, ভালোবাসা নিয়ে ছোটবেলাতেই কিতাবের সঙ্গে পরিচিত হয়, সে জন্য আমি কী করছি?",
+      "আমার সময় কিসের জন্য, তা ঠিক করার সময় কিতাব কি তার ভাগ পায়, নাকি পায় শুধু বেঁচে যাওয়া সময়টুকু?"
+    ],
+    "lessonEn": "Take your Book with resolve: keep its words, learn its meanings and live by its commands. Understanding is a gift Allah gives, and it grows in the one who holds on.",
+    "lessonBn": "নিজের কিতাবকে দৃঢ়ভাবে ধরুন: এর শব্দ মনে রাখুন, অর্থ শিখুন, আদেশ মেনে চলুন। বুঝ আল্লাহর দান, আর যে আঁকড়ে থাকে তার মধ্যেই তা বাড়ে।"
   }
 };
 
