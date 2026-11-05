@@ -2031,6 +2031,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words, Three Movements",
+          "bn": "ছয় শব্দে তিন পদক্ষেপ"
+        },
+        "p": [
+          {
+            "en": "Fa-tawalla Fir'awnu fa-jama'a kaydahu thumma ata: so Pharaoh turned away, gathered his plan, then came. The verse is six words long in Arabic, and it covers more time than any verse around it. In 20:58 Pharaoh promised magic to match what Musa (AS) had shown and asked for a fixed meeting; in 20:59 Musa (AS) named the day and the hour. In 20:61 he is already standing before the gathered sorcerers. Everything between the agreement and the encounter is folded into these three verbs.",
+            "bn": "ফাতাওয়াল্লা ফিরআউনু ফাজামাআ কাইদাহু সুম্মা আতা: তখন ফেরাউন মুখ ফিরিয়ে চলে গেল, নিজের কৌশল জড়ো করল, তারপর এল। আরবিতে আয়াতটি মাত্র ছয়টি শব্দের, অথচ আশপাশের যেকোনো আয়াতের চেয়ে বেশি সময় এর ভেতরে ধরা আছে। ২০:৫৮ আয়াতে ফেরাউন কথা দিয়েছিল, মূসা (আঃ) যা দেখিয়েছেন তার সমান যাদু সে হাজির করবে, আর একটা নির্দিষ্ট সাক্ষাতের দাবি করেছিল। ২০:৫৯ আয়াতে মূসা (আঃ) দিন আর সময় ঠিক করে দেন। ২০:৬১ আয়াতে তিনি জড়ো হওয়া যাদুকরদের সামনে দাঁড়িয়ে। চুক্তি থেকে মুখোমুখি হওয়া পর্যন্ত যা কিছু ঘটেছে, সবই গুটিয়ে আছে এই তিনটি ক্রিয়ায়।"
+          },
+          {
+            "en": "The verbs are joined by two different particles. The first two are linked by fa, which in Arabic carries the sense of what follows next; the last is introduced by thumma, which leaves room for an interval. So the turning away and the gathering read as one movement, and the arrival comes later, after the time it took to assemble what was gathered. The commentators below give that interval its contents: men sent through the cities, sorcerers summoned, a crowd brought out to watch.",
+            "bn": "ক্রিয়াগুলো জুড়েছে দুই রকম অব্যয় দিয়ে। প্রথম দুটির মাঝে আছে ফা, আরবিতে যা বোঝায় ঠিক তার পরেই যা ঘটে। শেষটির আগে এসেছে সুম্মা, যা মাঝখানে খানিকটা বিরতির জায়গা রাখে। ফলে মুখ ফেরানো আর জড়ো করা পড়া যায় একটানা এক চলন হিসেবে, আর আগমন আসে পরে, জোগাড়ের কাজে যতটা সময় লেগেছে তার শেষে। সেই বিরতির ভেতরে কী ছিল, নিচের তাফসীরকারেরা তা ভরে দেন: শহরে শহরে লোক পাঠানো, যাদুকরদের তলব, আর দেখার জন্য জনতাকে বের করে আনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Away, or Turned To It",
+          "bn": "মুখ ফেরানো, না কাজে লাগা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the first verb as a turning of the back. Fa-tawalla Fir'awnu, he says, means that Pharaoh went away, mu'ridan 'amma atahu bihi min al-haqq, averse to the truth that Musa (AS) had brought him. Al-Muyassar uses nearly the same words: Pharaoh went off, turning aside from the truth Musa brought him. On this reading the verse opens with a judgement of the heart before it records any action. The planning that follows is the work of a man who has already looked at the truth and decided not to face it.",
+            "bn": "তাবারী প্রথম ক্রিয়াটিকে পড়েন পিঠ ফিরিয়ে নেওয়া হিসেবে। তাঁর ব্যাখ্যায় ফাতাওয়াল্লা ফিরআউনু মানে ফেরাউন চলে গেল, মুরিদান আম্মা আতাহু বিহি মিনাল হাক্ক, মূসা (আঃ) তার কাছে যে সত্য নিয়ে এসেছিলেন তা থেকে বিমুখ হয়ে। মুয়াসসারের ভাষাও প্রায় একই: মূসার আনা সত্য থেকে মুখ ঘুরিয়ে ফেরাউন চলে গেল। এই পাঠে আয়াতের শুরুটা কোনো কাজের বিবরণ নয়, অন্তরের একটা রায়। পরে যত পরিকল্পনা, সব এমন এক মানুষের, যে সত্যটা দেখে ফেলেছে এবং তার মুখোমুখি না হওয়ার সিদ্ধান্ত নিয়ে ফেলেছে।"
+          },
+          {
+            "en": "Ibn Kathir takes tawalla differently. In his Arabic comment he glosses it as shara'a, he set about: once the time and place had been agreed, Pharaoh began gathering the sorcerers from the cities of his kingdom, everyone in that age who was connected with magic. Here the verb is a turning toward a task rather than away from a truth. Neither commentator argues against the other, and this article does not choose between them. They put the weight in different places, one on the refusal and one on the business that followed it.",
+            "bn": "ইবন কাসীর তাওয়াল্লাকে নেন অন্য অর্থে। আরবি তাফসীরে তিনি এর ব্যাখ্যা দেন শারাআ দিয়ে, অর্থাৎ সে কাজে লেগে গেল। সময় আর জায়গা ঠিক হয়ে যাওয়ার পর ফেরাউন তার রাজ্যের শহরগুলো থেকে যাদুকর জড়ো করতে শুরু করল, সে যুগে যাদুর সঙ্গে যার যেটুকু সম্পর্ক ছিল, তাকেই। এখানে ক্রিয়াটি সত্য থেকে মুখ ফেরানো নয়, একটা কাজের দিকে ফেরা। দুই তাফসীরকারের কেউ অন্যজনের বিরুদ্ধে যুক্তি দেননি, আর এই লেখাও কোনো একটিকে বেছে নিচ্ছে না। দুজনের জোর দুই জায়গায়: একজনের প্রত্যাখ্যানে, অন্যজনের তার পরের তৎপরতায়।"
+          },
+          {
+            "en": "The other commentaries fetched for this verse pass over the first verb. Al-Qurtubi and al-Baghawi begin directly at fa-jama'a kaydahu, as-Sa'di quotes the opening words without giving tawalla a gloss of its own, and Ma'arif al-Qur'an starts from the plot. The difference therefore rests on two sides: at-Tabari and al-Muyassar reading aversion, and Ibn Kathir reading a man setting about his work.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা বাকি তাফসীরগুলো প্রথম ক্রিয়াটি পেরিয়ে যায়। কুরতুবী আর বাগাভী শুরু করেন সরাসরি ফাজামাআ কাইদাহু থেকে। সা'দী শুরুর শব্দগুলো উদ্ধৃত করেন, তাওয়াল্লার আলাদা ব্যাখ্যা দেন না। মাআরিফুল কুরআনও শুরু করে চক্রান্ত থেকে। তাই মতপার্থক্যটা দুই পক্ষে দাঁড়িয়ে: তাবারী ও মুয়াসসার পড়েন বিমুখতা, আর ইবন কাসীর পড়েন কাজে লেগে যাওয়া এক মানুষকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Went Into His Kayd",
+          "bn": "তার কাইদে যা ছিল"
+        },
+        "p": [
+          {
+            "en": "Fa-jama'a kaydahu: and he gathered his kayd. The noun is the Qur'an's word for a plot or scheme, and the commentators fill it in from the story. Al-Qurtubi gives hiyalahu wa sihrahu, his ruses and his magic, and then says what is meant: the gathering of the sorcerers. Al-Baghawi lists three things, his makr, his stratagem and his sorcerers. Al-Muyassar keeps only the last: he gathered his sorcerers. Ma'arif al-Qur'an says he assembled his magicians and their tools. In each of them the plan is not an idea but a body of people and equipment.",
+            "bn": "ফাজামাআ কাইদাহু: আর সে তার কাইদ জড়ো করল। কাইদ কুরআনে চক্রান্ত বা ফন্দির শব্দ, আর তাফসীরকারেরা কাহিনি থেকে এর ভেতরটা ভরে দেন। কুরতুবী বলেন হিয়ালাহু ওয়া সিহরাহু, তার কূটকৌশল আর তার যাদু। তারপর জানিয়ে দেন উদ্দেশ্য কী: যাদুকরদের জড়ো করা। বাগাভী তিনটি জিনিস গোনেন: তার মাকর, তার কৌশল আর তার যাদুকরেরা। মুয়াসসার রাখে শুধু শেষটি: সে তার যাদুকরদের জড়ো করল। মাআরিফুল কুরআন বলে, সে তার যাদুকর আর তাদের সরঞ্জাম একত্র করল। সবার ব্যাখ্যাতেই কৌশলটা মাথার কোনো ভাবনা নয়, রক্তমাংসের মানুষ আর তাদের সাজসরঞ্জাম।"
+          },
+          {
+            "en": "At-Tabari glosses kayd as makr, his scheming, and then adds a detail of his own: that was his gathering of his sorcerers ba'da akhdhihi iyyahum bi-ta'allumihi, after he had held them to learning it. On his reading these were not volunteers who happened to be skilled. They had been put to the craft under Pharaoh's hand before the day came. The reader of Surah Ta Ha meets a similar thought later from the sorcerers' own side, in 20:73, when, having believed, they ask forgiveness for wa ma akrahtana 'alayhi min as-sihr, the magic you compelled us to.",
+            "bn": "তাবারী কাইদের অর্থ করেন মাকর, তার চক্রান্ত। তারপর নিজের দিক থেকে একটা খুঁটিনাটি যোগ করেন: এ হল তার যাদুকরদের জড়ো করা, বা'দা আখযিহি ইয়্যাহুম বিতাআল্লুমিহি, তাদেরকে যাদু শিখতে বাধ্য করার পর। তাঁর পাঠে এরা দক্ষতার জোরে নিজে থেকে এগিয়ে আসা লোক নয়। দিনটি আসার আগেই ফেরাউনের হাতে তাদের এই বিদ্যায় লাগানো হয়েছিল। সূরা ত্বা-হা পড়তে গিয়ে পাঠক পরে যাদুকরদের নিজেদের মুখে কাছাকাছি একটা কথা পান, ২০:৭৩ আয়াতে। ঈমান আনার পর তারা মাফ চায় ওয়া মা আকরাহতানা আলাইহি মিনাস সিহর, সেই যাদুর জন্য, যাতে তুমি আমাদের বাধ্য করেছিলে।"
+          },
+          {
+            "en": "As-Sa'di widens the word as far as it will go. Kaydahu, he writes, is jami' ma yaqdiru 'alayhi, all that he was able to muster to plot against Musa (AS). So Pharaoh sent men into his cities to round up the sorcerers skilled in their magic. Magic in that age, he adds, was plentiful and its knowledge much sought, and Pharaoh gathered a great multitude of them. Ibn Kathir agrees that magic among them was abundant and in demand, and cites Pharaoh's order in 10:79: bring me every learned sorcerer.",
+            "bn": "সা'দী শব্দটিকে যতদূর সম্ভব প্রশস্ত করেন। তিনি লেখেন, কাইদাহু মানে জামীউ মা ইয়াকদিরু আলাইহি, মূসা (আঃ)-এর বিরুদ্ধে চক্রান্তের জন্য যা কিছু তার সাধ্যে ছিল, সবটা। তাই ফেরাউন তার শহরে শহরে লোক পাঠাল, যাদুতে পাকা যাদুকরদের ধরে আনতে। সা'দী যোগ করেন, সে যুগে যাদু ছিল প্রচুর, আর এর জ্ঞান ছিল মানুষের কাঙ্ক্ষিত বিদ্যা। ফেরাউন তাদের বিশাল এক দল জড়ো করেছিল। ইবন কাসীরও বলেন, তাদের মধ্যে যাদু ছিল অনেক, আর এর কদর ছিল খুব। তিনি ১০:৭৯ আয়াতে ফেরাউনের হুকুমটি উদ্ধৃত করেন: আমার কাছে প্রত্যেক বিজ্ঞ যাদুকরকে নিয়ে এসো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counts That Never Agree",
+          "bn": "যে গণনা কখনো মেলে না"
+        },
+        "p": [
+          {
+            "en": "How many came? The Qur'an does not say, and the reports that try to say do not agree. Al-Qurtubi lists them in turn. From Ibn Abbas (RA): seventy-two sorcerers, each with his ropes and staffs. Then, under it is said: 400, twelve thousand, fourteen thousand. From Ibn al-Munkadir: eighty thousand. A last report, again under it is said, adds three regions together, three hundred thousand each from al-Fayyum, upper Egypt and the countryside, nine hundred thousand in all.",
+            "bn": "কতজন এসেছিল? কুরআন তা বলে না, আর যেসব বর্ণনা বলতে চায়, সেগুলো একে অন্যের সঙ্গে মেলে না। কুরতুবী একটার পর একটা সাজিয়ে দেন। ইবন আব্বাস (রাঃ) থেকে: ৭২ জন যাদুকর, প্রত্যেকের সঙ্গে রশি আর লাঠি। তারপর 'বলা হয়' শব্দে আরও কয়েকটি সংখ্যা: ৪০০, ১২ হাজার, ১৪ হাজার। ইবনুল মুনকাদির থেকে: ৮০ হাজার। শেষ বর্ণনাটিও 'বলা হয়' দিয়ে আসে, আর তিন অঞ্চলের হিসাব যোগ করে: ফাইয়ুম, উচ্চ মিসর আর গ্রামাঞ্চল, প্রতিটি থেকে ৩ লাখ, সব মিলিয়ে ৯ লাখ।"
+          },
+          {
+            "en": "He records reports about their leadership in the same way. It is said they were united under one chief called Sham'un; it is said his name was Yuhanna, with twelve captains under him, each with twenty officers, and each officer with a thousand sorcerers; and the largest report ends by saying their chief was blind. Ma'arif al-Qur'an condenses this: seventy-two according to Ibn Abbas (RA), others from 400 to nine hundred thousand, and a blind leader named Sham'un. Ma'arif states the name and the blindness flatly, where al-Qurtubi gives both only under it is said.",
+            "bn": "নেতৃত্ব নিয়ে বর্ণনাগুলোও কুরতুবী রাখেন একইভাবে। বলা হয়, তারা শামঊন নামের একজন প্রধানের অধীনে একজোট ছিল। আবার বলা হয়, প্রধানের নাম ইউহান্না, তার নিচে ১২ জন নকীব, প্রত্যেক নকীবের নিচে ২০ জন আরীফ, আর প্রত্যেক আরীফের সঙ্গে এক হাজার যাদুকর। সবচেয়ে বড় সংখ্যার বর্ণনাটি শেষ হয় এই কথায় যে তাদের প্রধান ছিল অন্ধ। মাআরিফুল কুরআন এসবকে সংক্ষেপ করে: ইবন আব্বাস (রাঃ)-এর মতে ৭২, অন্যদের মতে ৪০০ থেকে ৯ লাখ, আর শামঊন নামে এক অন্ধ নেতা। মাআরিফ নাম আর অন্ধত্ব দুটোই বলে সোজাসুজি, অথচ কুরতুবী দুটোই এনেছেন কেবল 'বলা হয়' দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi gives no chain for any of these figures, and he does not choose among them. The spread itself is the finding: seventy-two at one end and nine hundred thousand at the other is a gap no single account can close. None of these numbers is settled, and the rest of this article uses none of them. The verse says enough for its point: Pharaoh gathered, and as-Sa'di reads what he gathered as everything within his power.",
+            "bn": "এই সংখ্যাগুলোর কোনোটির জন্যই কুরতুবী সনদ দেন না, আর এগুলোর মধ্যে কোনোটিকে বেছেও নেন না। ব্যবধানটাই আসল তথ্য। এক প্রান্তে ৭২, অন্য প্রান্তে ৯ লাখ, এত বড় ফাঁক কোনো একক বর্ণনা দিয়ে ভরানো যায় না। এর একটি সংখ্যাও প্রতিষ্ঠিত নয়, আর এ লেখার বাকি অংশে এর কোনোটিই ব্যবহার হবে না। আয়াত যা বলে, তার বক্তব্যের জন্য সেটুকুই যথেষ্ট: ফেরাউন জড়ো করেছিল, আর সা'দীর পাঠে সে জড়ো করেছিল তার ক্ষমতার ভেতরে যা ছিল, তার সবটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then He Came, in Full Array",
+          "bn": "তারপর এল, পুরো সাজে"
+        },
+        "p": [
+          {
+            "en": "Thumma ata: then he came. At-Tabari explains it as: then he came to the appointment Musa (AS) had made with him, and he came with his sorcerers. Al-Qurtubi and al-Baghawi give it in two words, ata al-mi'ad, he came to the appointment, and al-Muyassar adds the timing: he came, after that, to the appointed meeting. As-Sa'di reads the verb more widely, as the arrival of both sides. Then each of the two came to the appointment, he writes, and the people gathered for it.",
+            "bn": "সুম্মা আতা: তারপর সে এল। তাবারীর ব্যাখ্যা: তারপর মূসা (আঃ) তার সঙ্গে যে সময় ঠিক করেছিলেন, সেই সাক্ষাতে সে এল, আর এল তার যাদুকরদের নিয়ে। কুরতুবী আর বাগাভী একে বলেন দুই শব্দে, আতাল মীআদ, নির্ধারিত সাক্ষাতে এল। মুয়াসসার সময়টাও জুড়ে দেয়: এরপর সে মিলনের নির্ধারিত সময়ে এল। সা'দী ক্রিয়াটিকে আরও প্রশস্তভাবে পড়েন, দুই পক্ষেরই আগমন হিসেবে। তিনি লেখেন, তারপর দুজনের প্রত্যেকে নির্ধারিত সাক্ষাতে এলেন, আর মানুষও সেখানে জড়ো হল।"
+          },
+          {
+            "en": "As-Sa'di then describes the assembly. It was a packed gathering, attended by men and women, the court and the nobles, the common people, the young and the old. They urged the people to come, he writes, and said to them, in the words of 26:39 and 26:40: will you gather, so that we may follow the sorcerers if they are the victors? The words show what the crowd was for. It was called out to watch a result that Pharaoh's side was already counting as its own.",
+            "bn": "এরপর সা'দী সমাবেশের বর্ণনা দেন। ভিড় ছিল উপচে পড়া। এসেছিল পুরুষ ও নারী, দরবারের লোক ও অভিজাতেরা, সাধারণ মানুষ, ছোট আর বড় সবাই। তিনি লেখেন, মানুষকে আসার জন্য তাগিদ দেওয়া হচ্ছিল, তাদের বলা হচ্ছিল ২৬:৩৯ ও ২৬:৪০ আয়াতের ভাষায়: তোমরা কি জড়ো হবে, যাতে যাদুকরেরা জিতলে আমরা তাদেরই অনুসরণ করতে পারি? কথাগুলো থেকে বোঝা যায় জনতাকে কেন ডাকা হয়েছিল। তাদের ডাকা হয়েছিল এমন এক ফল দেখতে, যা ফেরাউনের পক্ষ আগেই নিজেদের ঘরে তুলে রেখেছিল।"
+          },
+          {
+            "en": "Ibn Kathir, naming no source, describes the scene that thumma ata opens onto. The people assembled on the known day, the day of adornment. Pharaoh sat on his throne with the great men of his state lined up for him and his subjects to the right and the left. Musa (AS) came forward leaning on his staff, with his brother Harun (AS). The sorcerers stood in rows before Pharaoh as he urged them on, and they asked him, in the words of 26:41 and 26:42, for a reward if they won. He said yes, and that they would be among those brought near.",
+            "bn": "সুম্মা আতা যে দৃশ্যের দরজা খোলে, ইবন কাসীর কোনো সূত্রের নাম না নিয়ে তার ছবি আঁকেন। পরিচিত সেই দিনে, সাজসজ্জার দিনে, মানুষ জড়ো হল। ফেরাউন বসল তার সিংহাসনে। রাষ্ট্রের বড় বড় লোক তার জন্য সারি বেঁধে দাঁড়াল, প্রজারা দাঁড়াল ডানে আর বাঁয়ে। মূসা (আঃ) এগিয়ে এলেন লাঠিতে ভর দিয়ে, সঙ্গে ভাই হারূন (আঃ)। যাদুকরেরা ফেরাউনের সামনে সারি বেঁধে দাঁড়িয়ে, আর সে তাদের উসকে দিচ্ছে। তারা ২৬:৪১ ও ২৬:৪২ আয়াতের ভাষায় জানতে চাইল, জিতলে পুরস্কার মিলবে কি না। সে বলল হ্যাঁ, আর তখন তোমরা আমার ঘনিষ্ঠদের দলে থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Rankles Before the Plan",
+          "bn": "পরিকল্পনার আগের খচখচানি"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it, and none gives an occasion of revelation; they treat the verse as narrative. The figures and names in al-Qurtubi are reports about the past, not narrations from the Prophet ﷺ. One general narration bears on the inner side of the lesson drawn below, and it is quoted as a general teaching, not as a comment on this verse or on Pharaoh.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও উল্লেখ করেনি। তাঁরা আয়াতটিকে ঘটনার বিবরণ হিসেবেই পড়েছেন। কুরতুবীর সংখ্যা আর নামগুলো অতীত সম্পর্কে বর্ণনা, নবী ﷺ থেকে বর্ণিত হাদীস নয়। নিচে যে শিক্ষার কথা আসবে, তার ভেতরের দিকটির সঙ্গে একটি সাধারণ হাদীসের সম্পর্ক আছে। সেটি এখানে আনা হচ্ছে সাধারণ শিক্ষা হিসেবে, এ আয়াত বা ফেরাউন সম্পর্কে কোনো ব্যাখ্যা হিসেবে নয়।"
+          },
+          {
+            "en": "Sahih Muslim 2553 has it in these words: Nawwas b. Sam'an al-Ansari reported: I asked Allah's Messenger ﷺ about virtue and vice. He said: Virtue is a kind disposition and vice is what rankles in your heart and that you disapprove that people should come to know of it. Muslim included it in his Sahih. The hadith gives a test that works before any plan is made. What a person is about to gather against the truth often announces itself first as a discomfort he would rather nobody saw.",
+            "bn": "সহীহ মুসলিম ২৫৫৩-এ হাদীসটি এভাবে এসেছে: নাওয়াস ইবন সামআন আনসারী (রাঃ) বলেন, আমি রাসূলুল্লাহ ﷺ-কে নেকি ও গুনাহ সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন: নেকি হল উত্তম চরিত্র, আর গুনাহ হল যা তোমার অন্তরে খচখচ করে এবং মানুষ তা জেনে ফেলুক, তা তুমি অপছন্দ কর। মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন। পরিকল্পনা করার আগেই কাজে লাগে, এমন একটা পরীক্ষা এ হাদীস দেয়। সত্যের বিরুদ্ধে মানুষ যা জড়ো করতে যাচ্ছে, তা প্রায়ই প্রথমে জানান দেয় এক অস্বস্তি হয়ে, যা সে চায় না কেউ দেখুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A King's Plot, Nobody's Warrant",
+          "bn": "এক রাজার চক্রান্ত, কারও ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "The verse describes what one king did, in one contest, against a messenger of Allah. It licenses nothing against any living person or community, Egyptians today included, and gives no ground for treating a people, a land or a profession as heirs of Pharaoh's plan. The Qur'an names the man, Fir'awn, and puts the plan in his hands with a pronoun: kaydahu, his scheme. Whatever blame the passage carries rests where the verse sets it.",
+            "bn": "আয়াতটি বলে, এক রাজা এক প্রতিযোগিতায় আল্লাহর এক রাসূলের বিরুদ্ধে কী করেছিল। আজকের মিসরবাসীসহ কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো কিছুরই অনুমতি দেয় না। কোনো জাতি, কোনো দেশ বা কোনো পেশাকে ফেরাউনের চক্রান্তের উত্তরাধিকারী ভাবারও কোনো ভিত্তি দেয় না। কুরআন লোকটির নাম নিয়েছে, ফিরআউন, আর একটি সর্বনাম দিয়ে চক্রান্তটা তুলে দিয়েছে তারই হাতে: কাইদাহু, তার চক্রান্ত। এ অংশে যত দোষ, তা থাকে ঠিক সেখানেই, যেখানে আয়াত তা রেখেছে।"
+          },
+          {
+            "en": "The story itself rules out the easy generalisation. The very sorcerers whom Pharaoh gathered as the substance of his plot are, a few verses later, cast down in prostration and declaring faith in the Lord of Harun and Musa (20:70). Those who were summoned as instruments of the plan were not fixed in it. A reader who takes this verse as a reason to write anyone off has missed what happens to the people the verse gathers.",
+            "bn": "কাহিনিটি নিজেই সহজ ঢালাও সিদ্ধান্তের পথ বন্ধ করে দেয়। যে যাদুকরদের ফেরাউন তার চক্রান্তের মূল উপকরণ হিসেবে জড়ো করেছিল, কয়েক আয়াত পরেই তারা সিজদায় লুটিয়ে পড়ে আর হারূন ও মূসার রবের প্রতি ঈমানের ঘোষণা দেয় (২০:৭০)। চক্রান্তের হাতিয়ার হিসেবে যাদের ডাকা হয়েছিল, তারা সেখানে আটকে থাকেনি। এ আয়াতকে কেউ যদি কাউকে বাতিলের খাতায় তোলার কারণ বানায়, তবে আয়াত যাদের জড়ো করে, তাদের শেষ পর্যন্ত কী হল, সেটাই সে দেখতে পায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gathering Against What You Saw",
+          "bn": "যা দেখেছেন, তার বিরুদ্ধে জোগাড়"
+        },
+        "p": [
+          {
+            "en": "Read at-Tabari's sense of the first verb beside as-Sa'di's sense of the second, and a sequence appears that is not only Pharaoh's. First the turning: a truth is seen and the face moves away from it. Then the gathering: everything within reach is brought in, to win rather than to find out. A plan assembled after the turning has its conclusion before it has a single argument, and every piece added to it, however clever, only serves that conclusion.",
+            "bn": "প্রথম ক্রিয়ার তাবারীর অর্থ আর দ্বিতীয়টির সা'দীর অর্থ পাশাপাশি রাখলে একটা ক্রম চোখে পড়ে, যা শুধু ফেরাউনের নয়। আগে মুখ ফেরানো: একটা সত্য চোখে পড়ে, আর মুখটা তার থেকে সরে যায়। তারপর জোগাড়: হাতের নাগালে যা আছে সব টেনে আনা হয়, জানার জন্য নয়, জেতার জন্য। মুখ ফেরানোর পরে যে পরিকল্পনা গড়ে ওঠে, একটা যুক্তি আসার আগেই তার সিদ্ধান্ত তৈরি থাকে। এরপর যা-ই তাতে যোগ হোক, যত চতুরই হোক, তা কেবল সেই সিদ্ধান্তেরই সেবা করে।"
+          },
+          {
+            "en": "In ordinary life the gathering rarely looks like a muster of sorcerers. It looks like collecting quotations that agree with a view already held, recruiting relatives before a family disagreement, reading only the reviews that support a purchase already made, or preparing a reply while the other person is still speaking. None of these is wrong in itself. What makes any of them a kayd is the turning that came first, when a truth was glimpsed and quietly declined.",
+            "bn": "রোজকার জীবনে এই জোগাড় খুব কমই যাদুকরদের সমাবেশের মতো দেখায়। দেখায় এমন: আগে থেকে ধরে রাখা মতের পক্ষে উদ্ধৃতি জমানো, পারিবারিক মতবিরোধের আগে আত্মীয়দের দলে টানা, কেনা হয়ে যাওয়া জিনিসের পক্ষে যায় শুধু এমন রিভিউ পড়া, কিংবা অন্যজনের কথা শেষ হওয়ার আগেই জবাব সাজিয়ে রাখা। এর কোনোটিই নিজে থেকে অন্যায় নয়। এগুলোকে কাইদ বানায় তার আগের মুখ ফেরানোটা, যখন একটা সত্যের ঝলক দেখা গিয়েছিল আর নিঃশব্দে তা ফিরিয়ে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Then he came. A gathered plan always arrives somewhere: a meeting, a conversation, a decision made in front of others. Pharaoh came in full array, and in 20:69 what his side had made is named kaydu sahir, a sorcerer's trick, the same word his plan carried here. The reader can stop at the first step instead. Before collecting anything, ask whether you have already turned your back, and whether what you are about to gather would rankle in you if anyone saw it. If it would, turning around is still possible.",
+            "bn": "তারপর সে এল। জড়ো করা পরিকল্পনা কোথাও না কোথাও গিয়ে পৌঁছায়: কোনো বৈঠকে, কোনো আলাপে, অন্যদের সামনে নেওয়া কোনো সিদ্ধান্তে। ফেরাউন এসেছিল পুরো সাজে। অথচ তার পক্ষ যা বানিয়েছিল, ২০:৬৯ আয়াত তাকে বলে কাইদু সাহির, এক যাদুকরের ফন্দি মাত্র। এখানে তার পরিকল্পনার নামও এই একই শব্দ। পাঠক বরং প্রথম ধাপেই থামতে পারেন। কিছু জোগাড়ের আগে নিজেকে জিজ্ঞেস করুন, আমি কি আগেই পিঠ ফিরিয়েছি? যা জড়ো করতে যাচ্ছি, কেউ দেখে ফেললে কি তা আমার ভেতরে খচখচ করবে? যদি করে, তবে ফিরে দাঁড়ানোর পথ এখনো খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "20:64": {
     "sections": [
       {

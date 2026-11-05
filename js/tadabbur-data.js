@@ -23231,6 +23231,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let one contest define success. Ask first which side of the truth you stand on, for winning the day is worth nothing if it is won against Allah's signs.",
     "lessonBn": "একটা প্রতিযোগিতাকে সফলতার সংজ্ঞা বানাবেন না। আগে দেখুন আপনি সত্যের কোন পাশে দাঁড়িয়ে, কারণ আল্লাহর নিদর্শনের বিরুদ্ধে জেতা দিনের কোনো দাম নেই।"
+  },
+  "20:60": {
+    "reflectionEn": "Six words, three verbs. Pharaoh turned away, gathered his plan, then came. He had seen the signs and called them magic, and now he had a date, a place and a crowd to face. He did not go back to weigh what he had seen. He went back to collect: every skilled sorcerer the kingdom held, every trick and every means of winning. Then he arrived on the appointed day, sure of his numbers. The order is the warning. The turning away came first and the plan came after it, so the plan was never a search for the truth. When I gather arguments, allies and evidence, have I already turned my back? And would I still be gathering if I let myself look again?",
+    "reflectionBn": "ছয়টি শব্দ, তিনটি ক্রিয়া। ফেরাউন মুখ ফিরিয়ে নিল, নিজের কৌশল জড়ো করল, তারপর এসে হাজির হল। নিদর্শন সে নিজের চোখে দেখেছিল, দেখে বলেছিল যাদু। এখন তার সামনে একটা দিন, একটা জায়গা আর একদল মানুষ। যা দেখেছে তা আরেকবার ভেবে দেখতে সে ফেরেনি। ফিরেছে জোগাড় করতে: রাজ্যের যত দক্ষ যাদুকর, যত কারসাজি, জেতার যত উপায়। তারপর নির্ধারিত দিনে এসে দাঁড়াল, নিজের সংখ্যার ভরসায়। সতর্কবার্তাটা লুকিয়ে আছে ক্রমের মধ্যে। মুখ ফেরানো আগে, কৌশল পরে। তাই সেই কৌশল কখনো সত্যের খোঁজ ছিল না। আমি যখন যুক্তি, সমর্থক আর প্রমাণ জড়ো করি, তখন কি আগেই পিঠ ফিরিয়ে বসে আছি? আর আরেকবার তাকানোর সুযোগ নিজেকে দিলে, আমি কি তখনও জড়ো করতে থাকতাম?",
+    "pointsEn": [
+      "What have I already decided against, and am I now only gathering reasons to keep it decided?",
+      "When I prepare for a disagreement, do I collect what is true or only what will win?",
+      "Whose support am I counting on so that I never have to face a question on my own?",
+      "Is there a truth I keep meeting at an appointed hour, in prayer or in a reminder, and in what state do I arrive to meet it?",
+      "If something I have gathered unsettles me inside, what would it cost me to set it down?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসের বিরুদ্ধে আমি মনে মনে আগেই সিদ্ধান্ত নিয়ে ফেলেছি, আর এখন শুধু সেই সিদ্ধান্ত টিকিয়ে রাখার কারণ জোগাড় করছি?",
+      "কোনো মতভেদের প্রস্তুতি নিতে গিয়ে আমি কি সত্যটা খুঁজি, নাকি শুধু সেটুকু, যা দিয়ে জেতা যায়?",
+      "কার সমর্থনের ভরসায় আছি, যাতে কোনো প্রশ্নের মুখোমুখি আমাকে একা দাঁড়াতে না হয়?",
+      "এমন কোনো সত্য কি আছে, যার সঙ্গে নির্ধারিত সময়ে বারবার দেখা হয়, নামাজে বা কোনো নসিহতে? সেখানে আমি কোন অবস্থায় হাজির হই?",
+      "যা জড়ো করেছি, তার কিছু যদি ভেতরে খচখচ করে, সেটা নামিয়ে রাখতে আমার কী হারাতে হবে?"
+    ],
+    "lessonEn": "Before you gather arguments and allies against something, ask whether you have already turned away from it, since a plan built after turning away rarely seeks the truth.",
+    "lessonBn": "কোনো কিছুর বিরুদ্ধে যুক্তি আর সঙ্গী জড়ো করার আগে নিজেকে জিজ্ঞেস করুন, আপনি কি আগেই তা থেকে মুখ ফিরিয়ে নিয়েছেন। মুখ ফেরানোর পরে গড়া কৌশল খুব কমই সত্যের খোঁজ করে।"
   }
 };
 
