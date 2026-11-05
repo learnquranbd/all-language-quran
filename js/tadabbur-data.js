@@ -22951,6 +22951,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take your Book with resolve: keep its words, learn its meanings and live by its commands. Understanding is a gift Allah gives, and it grows in the one who holds on.",
     "lessonBn": "নিজের কিতাবকে দৃঢ়ভাবে ধরুন: এর শব্দ মনে রাখুন, অর্থ শিখুন, আদেশ মেনে চলুন। বুঝ আল্লাহর দান, আর যে আঁকড়ে থাকে তার মধ্যেই তা বাড়ে।"
+  },
+  "18:106": {
+    "reflectionEn": "Three verses build to a question: shall We tell you who lost most by their deeds? The answer is not people who did nothing. It is people who worked hard, whose effort came to nothing while they were sure they were doing well. This verse closes the account. Their recompense is Hell, for two things: they denied, and they made God's signs and His messengers something to laugh at. The commentators named different groups, but the verse gives a description, not a list of enemies, and it is safer read as a mirror than pointed like a finger. What do I treat lightly that God takes seriously? And when I feel most certain I am doing well, have I ever checked that certainty against His word?",
+    "reflectionBn": "তিনটি আয়াত ধাপে ধাপে একটি প্রশ্নে পৌঁছায়: আমলের দিক থেকে সবচেয়ে বেশি ক্ষতিগ্রস্ত কারা, তোমাদের কি জানাব? উত্তরে যারা কিছুই করেনি তাদের কথা আসে না। আসে তাদের কথা, যারা খেটেছে খুব, অথচ তাদের সব চেষ্টা বৃথা গেছে, আর তারা নিশ্চিত ছিল যে ভালো কাজই করছে। এ আয়াত সেই হিসাবের শেষ লাইন। তাদের প্রতিফল জাহান্নাম, দুটি কারণে: তারা কুফরি করেছে, আর আল্লাহর নিদর্শন ও রাসূলদের হাসি-তামাশার বিষয় বানিয়েছে। তাফসীরকারেরা ভিন্ন ভিন্ন দলের নাম করেছেন, কিন্তু আয়াত দেয় কিছু বৈশিষ্ট্যের বর্ণনা, শত্রুর তালিকা নয়। তাই একে অন্যের দিকে আঙুল বানানোর চেয়ে নিজের সামনে আয়না বানানোই নিরাপদ। আল্লাহ যা গুরুত্ব দিয়ে বলেন, তার কোনটা আমি হালকাভাবে নিই? আর যখন সবচেয়ে নিশ্চিত থাকি যে ভালো করছি, সেই নিশ্চয়তাকে কি কখনো তাঁর কালামের সঙ্গে মিলিয়ে দেখেছি?",
+    "pointsEn": [
+      "Is there anything God calls a sign, a verse, a warning, a messenger, that I have joked about, or let pass in silence while others did?",
+      "When did I last test a practice I am sure of against what God and His Messenger actually taught?",
+      "Reading a verse like this, did my mind go first to other people, or to myself?",
+      "What would change in my week if I measured my deeds by their weight with God rather than by how busy they keep me?",
+      "Where does my confidence that I am doing well come from: from the source itself, or from habit and the people around me?"
+    ],
+    "pointsBn": [
+      "আল্লাহ যাকে নিদর্শন, আয়াত, সতর্কবাণী বা রাসূল বলেছেন, এমন কিছু নিয়ে কি আমি কখনো ঠাট্টা করেছি? অথবা অন্যেরা করার সময় চুপ করে থেকেছি?",
+      "যে আমল নিয়ে আমি নিশ্চিত, শেষ কবে সেটাকে আল্লাহ ও তাঁর রাসূল ﷺ আসলে যা শিখিয়েছেন তার সঙ্গে মিলিয়ে দেখেছি?",
+      "এমন একটি আয়াত পড়ে আমার মন আগে কার দিকে গেল, অন্যদের দিকে, নাকি নিজের দিকে?",
+      "আমলকে যদি ব্যস্ততা দিয়ে না মেপে আল্লাহর কাছে তার ওজন দিয়ে মাপতাম, তাহলে আমার এই সপ্তাহটা কেমন বদলে যেত?",
+      "আমি যে ভালো করছি, এই ভরসা আসে কোথা থেকে: মূল উৎস থেকে, নাকি অভ্যাস আর আশপাশের মানুষ থেকে?"
+    ],
+    "lessonEn": "Never make light of what God takes seriously, and never let the feeling of doing well stand in for checking your deeds against His guidance.",
+    "lessonBn": "আল্লাহ যা গুরুত্ব দিয়ে বলেন, তাকে কখনো হালকা করবেন না। আর ভালো করছি, এই অনুভূতিকে কখনো তাঁর হেদায়াতের সঙ্গে আমল মিলিয়ে দেখার বিকল্প হতে দেবেন না।"
   }
 };
 

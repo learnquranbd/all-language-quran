@@ -3807,6 +3807,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:106": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sentence After the Scales",
+          "bn": "মীযানের পরে রায়"
+        },
+        "p": [
+          {
+            "en": "This verse closes a short passage. In 18:103 the Prophet ﷺ is told to ask: shall We inform you of the greatest losers in their deeds? 18:104 answers: those whose effort went astray in the life of this world while they reckoned they were doing well. 18:105 names them as those who disbelieved in the signs of their Lord and the meeting with Him, so their deeds came to nothing, and no weight will be set up for them on the Day of Resurrection. Then the verdict: dhalika jaza'uhum jahannamu, that is their recompense, Hell.",
+            "bn": "এ আয়াত দিয়ে একটি ছোট অংশ শেষ হয়। ১৮:১০৩ আয়াতে নবী ﷺ-কে প্রশ্ন করতে বলা হয়: আমলের দিক থেকে সবচেয়ে বেশি ক্ষতিগ্রস্ত কারা, তোমাদের কি জানাব? ১৮:১০৪ উত্তর দেয়: তারা, দুনিয়ার জীবনে যাদের চেষ্টা পথ হারিয়েছে, অথচ তারা ভাবছে ভালো কাজই করছে। ১৮:১০৫ তাদের পরিচয় দেয়: তারা রবের নিদর্শন আর তাঁর সঙ্গে সাক্ষাৎকে অস্বীকার করেছে, ফলে তাদের আমল নিষ্ফল হয়ে গেছে, কিয়ামতের দিন তাদের জন্য কোনো ওজনই দাঁড় করানো হবে না। তারপর আসে রায়: যালিকা জাযাউহুম জাহান্নামু, এটাই তাদের প্রতিফল, জাহান্নাম।"
+          },
+          {
+            "en": "What does \"that\" point back to? Al-Qurtubi says dhalika refers to the withholding of the weight. He parses it as the subject, with jaza'uhum as its predicate and jahannam standing in apposition to dhalika. Al-Baghawi takes it to mean what was just mentioned, the voiding of their deeds and the meanness of their worth, and then reads a fresh sentence: their recompense is Hell. As-Sa'di glosses it as the voiding of their deeds and the denial of any weight, because of their worthlessness.",
+            "bn": "\"এটাই\" শব্দটি পেছনের কোন কথার দিকে ইঙ্গিত করছে? কুরতুবী বলেন, যালিকা ইঙ্গিত করছে ওজন না দেওয়ার দিকে। ব্যাকরণে তিনি একে উদ্দেশ্য ধরেন, জাযাউহুম তার বিধেয়, আর জাহান্নাম যালিকা-র বদল। বাগাভী এর অর্থ নেন সদ্য বলা কথাটি: তাদের আমল বাতিল হওয়া আর তাদের মর্যাদার হীনতা। এরপর তিনি নতুন বাক্য শুরু করেন: তাদের প্রতিফল জাহান্নাম। সা'দী এর ব্যাখ্যা দেন আমল বাতিল হওয়া আর কোনো ওজন না পাওয়া দিয়ে, তাদের তুচ্ছতার কারণে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Charges, One Verdict",
+          "bn": "দুই অভিযোগ, এক রায়"
+        },
+        "p": [
+          {
+            "en": "The cause comes in two parts. Al-Qurtubi notes that ma in bima kafaru is the kind that turns a verb into a noun: because of their disbelieving. To that is joined a second charge: and they took My signs and My messengers in mockery. At-Tabari paraphrases with a pointed word, thawabuhum, their reward is Hell, for their disbelief in Allah, their taking the verses of His Book and the proofs of His messengers as a thing to scoff at, and their mockery of His messengers.",
+            "bn": "কারণটি আসে দুই ভাগে। কুরতুবী বলেন, বিমা কাফারূ-র মা শব্দটি ক্রিয়াকে বিশেষ্যে রূপ দেয়: তাদের কুফরি করার কারণে। এর সঙ্গে জুড়ে দেওয়া হয় দ্বিতীয় অভিযোগ: আর তারা আমার নিদর্শন ও আমার রাসূলদের বিদ্রূপের বিষয় বানিয়েছে। তাবারী ব্যাখ্যায় একটি তীক্ষ্ণ শব্দ বেছে নেন, সাওয়াবুহুম: তাদের পুরস্কার জাহান্নাম। কারণ তারা আল্লাহকে অস্বীকার করেছে, তাঁর কিতাবের আয়াত আর তাঁর রাসূলদের প্রমাণকে ঠাট্টার বস্তু বানিয়েছে, আর তাঁর রাসূলদের নিয়ে উপহাস করেছে।"
+          },
+          {
+            "en": "What are \"My signs\" here? Al-Baghawi says plainly: the Qur'an. At-Tabari reads more widely, the verses of His Book and the proofs His messengers brought. Either way the verse sets the message beside its bearers, so contempt for one reaches the other. 18:105 had named disbelief in the signs and in the meeting with their Lord; this verse adds the messengers, and adds mockery. The surah has used the phrase before, in 18:56: they took My verses, and what they were warned of, in ridicule.",
+            "bn": "এখানে \"আমার নিদর্শন\" বলতে কী বোঝায়? বাগাভী সোজা বলেন: কুরআন। তাবারী অর্থটা একটু প্রশস্ত করে নেন: তাঁর কিতাবের আয়াত, আর রাসূলেরা যেসব প্রমাণ নিয়ে এসেছেন। যেভাবেই পড়ুন, আয়াত বার্তাকে রাখে তার বাহকদের পাশে। একটিকে তুচ্ছ করলে অবজ্ঞা অন্যটিতেও গিয়ে পড়ে। ১৮:১০৫ আয়াতে ছিল নিদর্শন আর রবের সঙ্গে সাক্ষাৎ অস্বীকারের কথা। এ আয়াত তার সঙ্গে যোগ করে রাসূলদের, আর যোগ করে বিদ্রূপ। সূরাটি এ কথা আগেও বলেছে, ১৮:৫৬ আয়াতে: তারা আমার আয়াত আর যা দিয়ে তাদের সতর্ক করা হয়েছিল, তাকে হাসি-তামাশার বিষয় বানিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Making Light of Signs",
+          "bn": "নিদর্শনকে হালকা করা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines the word in one line: al-hazʾ is al-istikhfaf wa-s-sukhriya, treating something as light and scoffing at it, and points back to his comment on 2:67. There Musa (AS) tells his people that Allah commands them to slaughter a cow, and they answer: do you take us in ridicule? He replies: I seek refuge in Allah from being among the ignorant. To turn from answering someone who asks for guidance to mockery, al-Qurtubi explains, is ignorance, and prophets are free of it.",
+            "bn": "কুরতুবী শব্দটির সংজ্ঞা দেন এক লাইনে: আল-হায্উ মানে আল-ইসতিখফাফ ওয়াস-সুখরিয়া, অর্থাৎ কোনো কিছুকে হালকা ভাবা আর তা নিয়ে ঠাট্টা করা। সঙ্গে ফিরিয়ে নেন ২:৬৭ আয়াতে তাঁর আগের আলোচনায়। সেখানে মূসা (আঃ) তাঁর কওমকে জানালেন, আল্লাহ তোমাদের একটি গরু যবেহ করার আদেশ দিচ্ছেন। তারা জবাব দিল: আপনি কি আমাদের নিয়ে ঠাট্টা করছেন? তিনি বললেন: আমি আল্লাহর আশ্রয় চাই, যেন অজ্ঞদের দলে না পড়ি। কুরতুবী বুঝিয়ে দেন, যে পথ জানতে চায়, তাকে উত্তর না দিয়ে উপহাসে চলে যাওয়া অজ্ঞতা, আর নবীগণ এ দোষ থেকে মুক্ত।"
+          },
+          {
+            "en": "From that verse al-Qurtubi draws a ruling: it is evidence that mocking the religion of Allah, the religion of the Muslims and whoever must be honoured is forbidden, that doing so is ignorance, and that the one who does it deserves the threatened punishment. Then he draws a line. Joking, al-mizah, is not mockery, since the Prophet ﷺ joked, and so did the leading scholars after him. The sin is not laughter. It is contempt aimed at what God has sent.",
+            "bn": "ওই আয়াত থেকে কুরতুবী একটি বিধান বের করেন। আল্লাহর দীন, মুসলমানদের দীন এবং যাদের সম্মান করা ওয়াজিব, তাদের নিয়ে উপহাস করা নিষিদ্ধ। এটা অজ্ঞতা, আর যে তা করে সে শাস্তির হুমকির যোগ্য। তারপর তিনি একটি সীমারেখা টানেন। রসিকতা, আল-মিযাহ, উপহাস নয়। নবী ﷺ রসিকতা করতেন, তাঁর পরের ইমামরাও করতেন। গুনাহটা হাসিতে নয়। গুনাহ হলো আল্লাহ যা পাঠিয়েছেন তার প্রতি অবজ্ঞা।"
+          },
+          {
+            "en": "As-Sa'di describes the mockery by its opposite. What is owed to the signs of Allah and His messengers, he writes, is complete faith in them, reverence for them and upholding them in the fullest way. These people turned the matter on its head, so their own affair was turned on its head: they came to ruin and were overturned into the punishment. Seen this way, ridicule is not a light offence added to disbelief. It is reverence turned inside out, and the recompense mirrors the reversal.",
+            "bn": "সা'দী উপহাসকে চেনান তার বিপরীত দিয়ে। তিনি লেখেন, আল্লাহর নিদর্শন ও রাসূলদের প্রাপ্য হলো তাঁদের প্রতি পূর্ণ ঈমান, তাঁদের সম্মান করা আর পুরোপুরি তাঁদের মেনে চলা। এরা ব্যাপারটাকে উল্টে দিয়েছে, তাই তাদের নিজেদের পরিণতিও উল্টে গেছে। তারা ধ্বংস হয়েছে, মুখ থুবড়ে পড়েছে আযাবের ভেতরে। এভাবে দেখলে বিদ্রূপ কুফরির সঙ্গে জোড়া কোনো ছোটখাটো দোষ নয়। এ হলো সম্মানকে উল্টো করে পরা, আর প্রতিফলও সেই উল্টে দেওয়ারই প্রতিচ্ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom Did They Mean",
+          "bn": "তাঁরা কাদের কথা বলেছেন"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari (4728) records a question Mus'ab put to his father, Sa'd ibn Abi Waqqas (RA): \"I asked my father, 'Was the Verse:-- Say: (O Muhammad) Shall We tell you the greatest losers in respect of their deeds? (18:103) revealed regarding Al-Haruriyya?' He said, 'No, but regarding the Jews and the Christians, for the Jews disbelieved Muhammad and the Christians disbelieved in Paradise and say that there are neither meals nor drinks therein. Al-Hururiyya are those people who break their pledge to Allah after they have confirmed that they will fulfill it,' and Sa'd used to call them Al-Fasiqin.\"",
+            "bn": "সহীহ বুখারীর ৪৭২৮ নম্বরে আছে, মুসআব তাঁর পিতা সা'দ ইবন আবী ওয়াক্কাস (রাঃ)-কে জিজ্ঞেস করেছিলেন: \"আমি আমার পিতাকে জিজ্ঞেস করলাম, 'বলো, আমলের দিক থেকে সবচেয়ে বেশি ক্ষতিগ্রস্ত কারা, তোমাদের কি জানাব? (১৮:১০৩) এরা কি হারুরিয়্যা?' তিনি বললেন, 'না, এরা ইহুদি ও খ্রিস্টান। ইহুদিরা মুহাম্মাদ ﷺ-কে মিথ্যা বলেছে, আর খ্রিস্টানরা জান্নাতকে অস্বীকার করেছে এবং বলেছে, সেখানে খাবারও নেই, পানীয়ও নেই। আর হারুরিয়্যা তারা, যারা আল্লাহর সঙ্গে পাকা অঙ্গীকারের পর তা ভঙ্গ করে।' সা'দ (রাঃ) তাদের বলতেন আল-ফাসিকীন।\""
+          },
+          {
+            "en": "Al-Bukhari placed this report in his Sahih, and it is Sa'd's own explanation, the view of a Companion, not a saying of the Prophet ﷺ. At-Tabari's chains show Sa'd answering the same question another way: in reports through Mansur, he says they are the people of the hermitages, and in one he adds that the Haruriyya are a people who swerved, so Allah made their hearts swerve. 'Ali (RA), in a report through Abu Khumaysa, said: the monks who shut themselves away in hermitages.",
+            "bn": "বুখারী এ বর্ণনাটি তাঁর সহীহতে রেখেছেন। তবে এটা সা'দ (রাঃ)-এর নিজের ব্যাখ্যা, একজন সাহাবীর মত, নবী ﷺ-এর বাণী নয়। তাবারীর সনদগুলো দেখায়, একই প্রশ্নের জবাব সা'দ (রাঃ) অন্যভাবেও দিয়েছেন। মানসূরের সূত্রে বর্ণনাগুলোতে তিনি বলেন, এরা আশ্রমবাসী সন্ন্যাসীরা। একটিতে আরও বলেন, হারুরিয়্যা এমন লোক যারা বাঁকা পথে গেছে, তাই আল্লাহও তাদের অন্তর বাঁকা করে দিয়েছেন। আর আলী (রাঃ) আবূ খুমাইসার সূত্রে এক বর্ণনায় বলেছেন: তারা সেই সন্ন্যাসীরা, যারা নিজেদের আশ্রমে বন্দি করে রেখেছে।"
+          },
+          {
+            "en": "Other reports go elsewhere. Through Zadhan, 'Ali (RA) says they are the disbelievers of the People of the Book, whose first generations were on the truth until they associated partners with their Lord and innovated in their religion, striving in falsehood while thinking themselves rightly guided. Asked by Ibn al-Kawwa', he answered in several reports: you and your companions, or, the people of Harura' are among them. Al-Qurtubi relays from Ibn 'Abbas: the disbelievers of Makkah. The Muyassar says: the idolaters of the Prophet's people and others who strayed.",
+            "bn": "অন্য বর্ণনাগুলো যায় অন্য দিকে। যাযানের সূত্রে আলী (রাঃ) বলেন, এরা আহলে কিতাবের কাফিররা। তাদের প্রথম প্রজন্ম হকের উপর ছিল, পরে তারা রবের সঙ্গে শরিক করেছে, দীনে নতুন জিনিস ঢুকিয়েছে। বাতিলের পথে তারা প্রাণপণ খাটে, আর ভাবে তারা হেদায়াতের উপর আছে। ইবনুল কাওয়া জিজ্ঞেস করলে কয়েকটি বর্ণনায় আলী (রাঃ) জবাব দেন: তুমি আর তোমার সঙ্গীরা। কোনোটিতে বলেন: হারুরার লোকেরা এদেরই অন্তর্ভুক্ত। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন: মক্কার কাফিররা। মুয়াসসার বলে: নবী ﷺ-এর কওমের মুশরিকরা এবং আরও যারা সোজা পথ হারিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wider Than Any Name",
+          "bn": "যেকোনো নামের চেয়ে প্রশস্ত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, after laying out these views, gives his own. What Allah meant, he says, is every person who does a deed reckoning himself right in it, obedient to Allah and pleasing Him, while by that very deed he angers Him and leaves the path of the people of faith: monks, deacons and others like them who strive hard in their error, while being, for all that, disbelievers in Allah, of whatever religion they were. His answer widens the circle, but it keeps the condition that 18:105 sets, disbelief.",
+            "bn": "মতগুলো সাজিয়ে তাবারী নিজের রায় দেন। তিনি বলেন, আল্লাহ এখানে বুঝিয়েছেন প্রত্যেক সেই মানুষকে, যে কোনো আমল করে আর ভাবে সে ঠিক পথে আছে, এ কাজে সে আল্লাহর অনুগত, তাঁর পছন্দের পথে। অথচ ঠিক সেই কাজ দিয়েই সে আল্লাহকে নারাজ করছে, ঈমানদারদের পথ ছেড়ে যাচ্ছে। যেমন সন্ন্যাসী, গির্জার সহকারী আর তাদের মতো যারা গোমরাহির পথে খুব খাটে। এর সঙ্গে তারা আল্লাহকে অস্বীকারকারীও, যে ধর্মেরই হোক। তাঁর জবাব পরিধিটা বড় করে, তবে ১৮:১০৫ যে শর্ত রেখেছে, কুফরি, সেটা ধরে রাখে।"
+          },
+          {
+            "en": "Ibn Kathir reconciles the reports. 'Ali's words mean that the verse includes the Haruriyya just as it includes the Jews, the Christians and others, not that it was revealed about any of them in particular. The verse is Makkan, he argues, revealed before the Qur'an addressed the Jews and Christians and before the Haruriyya existed at all. So it covers everyone who worships Allah in a way He does not accept, thinking himself right and his deeds accepted, while he is mistaken and his deed rejected.",
+            "bn": "ইবন কাসীর বর্ণনাগুলোর মধ্যে মিল ঘটান। আলী (রাঃ)-এর কথার অর্থ, আয়াতটি হারুরিয়্যাকেও শামিল করে, যেমন শামিল করে ইহুদি, খ্রিস্টান ও অন্যদের। এর মানে এই নয় যে আয়াতটি বিশেষভাবে এদের কারও ব্যাপারে নাযিল হয়েছে। তাঁর যুক্তি, আয়াতটি মাক্কী। কুরআন তখনো ইহুদি-খ্রিস্টানদের সম্বোধন শুরু করেনি, আর হারুরিয়্যার তখন কোনো অস্তিত্বই ছিল না। তাই এটা প্রত্যেক সেই মানুষের জন্য, যে আল্লাহর ইবাদত করে এমন পথে যা তিনি কবুল করেন না। সে ভাবে সে ঠিক আছে, তার আমল কবুল হচ্ছে, অথচ সে ভুলে আছে আর তার আমল ফেরত যাচ্ছে।"
+          },
+          {
+            "en": "Two tensions remain. At-Tabari opens his comment by saying the address is to those of the two Peoples of the Book who argued with the Prophet ﷺ, while Ibn Kathir holds that the verse came in Makkah before they were addressed. And Ibn 'Atiyya, as al-Qurtubi relays him, says each of these particular identifications is weakened by the words that follow: those are the ones who disbelieved in the signs of their Lord and the meeting with Him. Al-Qurtubi himself says the meaning here is disbelief.",
+            "bn": "দুটি টানাপোড়েন থেকে যায়। তাবারী তাঁর ব্যাখ্যা শুরু করেন এই বলে যে, সম্বোধন সেই আহলে কিতাবদের প্রতি, ইহুদি ও খ্রিস্টান, যারা নবী ﷺ-এর সঙ্গে তর্ক করত। অথচ ইবন কাসীরের মতে আয়াতটি নাযিল হয়েছে মক্কায়, তাদের সম্বোধন করার আগেই। আর কুরতুবী ইবন আতিয়্যার কথা আনেন: এই নির্দিষ্ট পরিচয়গুলোর প্রতিটিকেই দুর্বল করে দেয় পরের কথা, এরাই তারা যারা রবের নিদর্শন ও তাঁর সঙ্গে সাক্ষাৎকে অস্বীকার করেছে। কুরতুবী নিজে বলেন, এখানে উদ্দেশ্য কুফরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Label for the Living",
+          "bn": "জীবিত কারও গায়ে তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: people whose deeds came to nothing because they disbelieved in the signs of their Lord and the meeting with Him, and made His signs and messengers a joke. It licenses nothing against any living person or community, Jews and Christians today included. Sa'd's answer is a Companion's reading of a description; it gives no one the right to call a living Jew or Christian one of the greatest losers, to insult them, or to deal with them unjustly.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এমন লোক, যাদের আমল নিষ্ফল হয়েছে, কারণ তারা রবের নিদর্শন ও তাঁর সঙ্গে সাক্ষাৎকে অস্বীকার করেছে, আর তাঁর নিদর্শন ও রাসূলদের নিয়ে তামাশা করেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, আজকের ইহুদি ও খ্রিস্টানরাও এর বাইরে নয়। সা'দ (রাঃ)-এর জবাব আয়াতে বর্ণিত বৈশিষ্ট্যগুলোর উপর একজন সাহাবীর ব্যাখ্যা। কোনো জীবিত ইহুদি বা খ্রিস্টানকে সবচেয়ে ক্ষতিগ্রস্তদের একজন বলার, তাদের অপমান করার বা তাদের সঙ্গে অন্যায় আচরণের অধিকার এটা কাউকে দেয় না।"
+          },
+          {
+            "en": "The same holds inside the Muslim community, and here it bites harder. 'Ali's reply to Ibn al-Kawwa' was a Companion's word to a questioner in his own day, and Ibn Kathir reads it as saying the verse includes such people, not that it was revealed about them. No Muslim group, school or movement today may be branded the greatest losers on the strength of this verse, and no Muslim may brand another. Whoever uses it as a label has turned a warning about misplaced certainty into a display of his own.",
+            "bn": "মুসলিম সমাজের ভেতরেও একই কথা, আর এখানে কথাটা আরও কঠিনভাবে লাগে। ইবনুল কাওয়াকে দেওয়া আলী (রাঃ)-এর জবাব ছিল তাঁর নিজের যুগের এক প্রশ্নকারীকে একজন সাহাবীর কথা। ইবন কাসীর তা পড়েন এভাবে যে, আয়াতটি এমন লোকদেরও শামিল করে, তাদের ব্যাপারে নাযিল হয়নি। আজকের কোনো মুসলিম দল, মত বা আন্দোলনকে এ আয়াতের জোরে সবচেয়ে ক্ষতিগ্রস্ত বলে দাগানো যাবে না। কোনো মুসলমানও অন্য মুসলমানকে এভাবে দাগাতে পারে না। যে এ আয়াতকে তকমা বানায়, ভুল নিশ্চয়তা নিয়ে আসা সতর্কবাণীকে সে নিজের ভুল নিশ্চয়তার প্রদর্শনী বানিয়ে ফেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sure, and Still Lost",
+          "bn": "নিশ্চিত, তবু পথহারা"
+        },
+        "p": [
+          {
+            "en": "The sharpest words in the passage sit in 18:104: wa-hum yahsabuna annahum yuhsinuna sun'a, while they reckon they are doing well in their work. At-Tabari explains that their work was not on guidance and uprightness but on error, done otherwise than Allah commanded, while they thought that by it they were obeying Allah. He calls this among the clearest proofs against those who claimed that no one disbelieves except by setting out to disbelieve after knowing God's oneness. Feeling sincere did not save them.",
+            "bn": "এ অংশের সবচেয়ে ধারালো কথাটি ১৮:১০৪ আয়াতে: ওয়া হুম ইয়াহসাবূনা আন্নাহুম ইউহসিনূনা সুন'আ, অথচ তারা ভাবছে তারা ভালো কাজই করছে। তাবারী বুঝিয়ে দেন, তাদের আমল হেদায়াত ও সঠিকতার উপর ছিল না, ছিল গোমরাহির উপর। আল্লাহ যা আদেশ করেছেন, তা বাদ দিয়ে অন্যভাবে করা। অথচ তারা ভাবত, এভাবে তারা আল্লাহর আনুগত্য করছে। তাবারীর মতে, যারা দাবি করে যে আল্লাহর একত্ব জেনে ইচ্ছা করে অস্বীকার না করলে কেউ কাফির হয় না, তাদের বিরুদ্ধে এটা সবচেয়ে স্পষ্ট প্রমাণগুলোর একটি। মনের আন্তরিকতা তাদের বাঁচাতে পারেনি।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi give the loss a trader's picture. The greatest losers are those who wore themselves out hoping for gain and reaped ruin instead, like a man who buys goods hoping to profit and loses on the bargain. Ibn Kathir says on 18:104 that their deeds were void, not on a law Allah had laid down and accepts, while they believed they stood on something. As-Sa'di adds a question: if even the deeds they thought good were wiped away, what of the deeds they knew were false?",
+            "bn": "তাবারী ও বাগাভী এ ক্ষতির ছবি আঁকেন ব্যবসায়ীর উপমায়। সবচেয়ে ক্ষতিগ্রস্ত তারা, যারা লাভের আশায় খেটে খেটে ক্লান্ত হয়েছে, অথচ পেয়েছে ধ্বংস। যেন কেউ লাভের আশায় মাল কিনে পুরো সওদাতেই লোকসান গুনল। ইবন কাসীর ১৮:১০৪ আয়াতে বলেন, তাদের আমল ছিল বাতিল, আল্লাহর দেওয়া এবং তাঁর কবুল করা শরীয়তের উপর নয়। অথচ তারা বিশ্বাস করত তারা কোনো কিছুর উপর দাঁড়িয়ে আছে। সা'দী একটি প্রশ্ন জুড়ে দেন: যে আমলকে তারা ভালো ভেবেছে তা-ই যদি মুছে যায়, তবে যে আমলকে তারা নিজেরাই বাতিল বলে জানত, তার কী হবে?"
+          },
+          {
+            "en": "Al-Qurtubi draws the general point on 18:103: the verse shows that some people do a deed thinking they are doing good while their effort has already been voided. What voids an effort, he says, is either corrupt belief or showing off, al-mura'a, and what is meant here is disbelief. The second cause is taken up where the surah ends, in 18:110. Here it is enough to see that a deed can be lost from either side: what a person believes, and whom they work for.",
+            "bn": "কুরতুবী ১৮:১০৩ আয়াতে সাধারণ শিক্ষাটা বের করেন। আয়াতটি দেখায়, কিছু মানুষ আমল করে আর ভাবে ভালো করছে, অথচ তাদের চেষ্টা ততক্ষণে বাতিল হয়ে গেছে। তিনি বলেন, চেষ্টা বাতিল হয় দুই কারণে: হয় আকীদার বিকৃতি, নয়তো লোক দেখানো, আল-মুরাআ। আর এখানে উদ্দেশ্য কুফরি। দ্বিতীয় কারণটির আলোচনা আসে সূরার শেষে, ১৮:১১০ আয়াতে। এখানে এটুকু দেখাই যথেষ্ট যে আমল হারাতে পারে দুই দিক থেকে: মানুষ কী বিশ্বাস করে, আর কার জন্য খাটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding the Mirror Up",
+          "bn": "আয়না নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "The verse's strongest pull is inward. Its losers are marked not by idleness but by untested certainty: they reckon they are doing well. So the useful question is not who they were but whether my own confidence has ever been checked. Do I hold a practice because the Qur'an and the Sunnah teach it, or because I grew up with it and the people around me do it? Do I ask those with knowledge, and accept an answer I did not want? Busy hands are not proof of a heavy scale.",
+            "bn": "এ আয়াতের সবচেয়ে জোরালো টান ভেতরের দিকে। এর ক্ষতিগ্রস্তদের চেনা যায় অলসতা দিয়ে নয়, যাচাই না করা নিশ্চয়তা দিয়ে: তারা ভাবে ভালো করছে। তাই কাজের প্রশ্ন এটা নয় যে তারা কারা ছিল। প্রশ্ন হলো, আমার নিজের ভরসা কি কখনো যাচাই হয়েছে? কোনো আমল কি আমি ধরে রাখি কুরআন ও সুন্নাহ তা শেখায় বলে, নাকি ছোটবেলা থেকে দেখে আসছি আর আশপাশের সবাই করে বলে? আমি কি জানা মানুষদের জিজ্ঞেস করি, আর এমন উত্তর মেনে নিই যা শুনতে চাইনি? হাত ব্যস্ত থাকা মানেই মীযান ভারী হওয়া নয়।"
+          },
+          {
+            "en": "The second charge asks for the same honesty. Mockery rarely announces itself; it lives in the joke that makes light of a verse, a ruling or a prophet, and in the laugh that goes along. Then the very next verse, 18:107, opens another door: those who believe and do righteous deeds have the Gardens of Firdaws as a nuzul, the same word 18:102 used for the Hell prepared for the disbelievers. As-Sa'di notes the turn: having shown the end of the disbelievers and their deeds, He shows the deeds of the believers and their end.",
+            "bn": "দ্বিতীয় অভিযোগও একই সততা চায়। উপহাস সাধারণত ঢাক পিটিয়ে আসে না। সে থাকে সেই রসিকতায়, যা কোনো আয়াত, বিধান বা নবীকে হালকা করে দেয়, আর সেই হাসিতে, যা তাতে তাল মেলায়। তারপর ঠিক পরের আয়াত, ১৮:১০৭, আরেকটি দরজা খোলে: যারা ঈমান আনে আর নেক আমল করে, তাদের আপ্যায়নের জন্য আছে ফিরদাউসের বাগান। নুযুল শব্দটিই ১৮:১০২ আয়াতে এসেছিল কাফিরদের জন্য প্রস্তুত জাহান্নামের বেলায়। সা'দী এই মোড়টা দেখিয়ে দেন: কাফিরদের পরিণতি আর তাদের আমলের কথা বলার পর আল্লাহ বলেন মুমিনদের আমল আর তাদের পরিণতির কথা।"
+          }
+        ]
+      }
+    ]
+  },
   "18:109-110": {
     "sections": [
       {
