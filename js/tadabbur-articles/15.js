@@ -2327,6 +2327,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words After a Rebuke",
+          "bn": "ধমকের পরে ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Surah al-Hijr tells the night at Lut's house in a tight run of short verses. The city arrives rejoicing in 15:67, a verse read on its own page. Lut (AS) speaks in 15:68 and 15:69: these are my guests, so do not shame me; fear Allah and do not disgrace me. The crowd answers in 15:70 with a question that is really a rebuke: awa lam nanhaka 'an al-'alamin, did we not forbid you from people? Ibn Kathir's abridged English commentary glosses it: did we not tell you to take no one as a guest?",
+            "bn": "লূত (আঃ)-এর ঘরের সেই রাতের কথা সূরা হিজর বলে একের পর এক ছোট ছোট আয়াতে। ১৫:৬৭ আয়াতে শহরের লোকেরা আনন্দ করতে করতে আসে, সে আয়াত তার নিজের পাতায় পড়া হয়েছে। ১৫:৬৮ ও ১৫:৬৯ আয়াতে লূত (আঃ) বলেন: এরা আমার মেহমান, আমাকে লজ্জায় ফেলো না। আল্লাহকে ভয় করো, আমাকে অপমান করো না। ১৫:৭০ আয়াতে ভিড় জবাব দেয় এক প্রশ্নে, যা আসলে ধমক: আওয়ালাম নানহাকা আনিল আলামীন, দুনিয়ার লোকজনের ব্যাপারে আমরা কি তোমাকে নিষেধ করিনি? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এর ব্যাখ্যা দেয়: আমরা কি বলিনি, কাউকে মেহমান বানাবে না?"
+          },
+          {
+            "en": "Then comes our verse, six Arabic words: qala ha'ula'i banati in kuntum fa'ilin, he said, these are my daughters, if you would be doers. They are Lut's last recorded words to the crowd in this surah. Surah Hud carries the same opening in a longer verse, and who the daughters are, his own or the women of his nation, is read at length on the page for 11:78 and not repeated here. This page stays with what al-Hijr adds. None of the commentaries consulted gives the verse an occasion of revelation.",
+            "bn": "এরপর আমাদের আয়াত, আরবিতে ছয়টি শব্দ: কালা হা-উলাই বানাতী ইন কুনতুম ফা-ইলীন। তিনি বললেন, এরা আমার কন্যা, যদি তোমরা কিছু করতেই চাও। এই সূরায় ভিড়ের উদ্দেশে লূত (আঃ)-এর মুখের শেষ কথা এটাই। সূরা হূদে একই কথা দিয়ে শুরু হয় আরও দীর্ঘ এক আয়াত। কন্যা বলতে কারা, তাঁর নিজের মেয়েরা নাকি তাঁর জাতির নারীরা, সে আলোচনা বিস্তারিত হয়েছে ১১:৭৮ আয়াতের পাতায়, এখানে আর তা ফিরিয়ে আনা হচ্ছে না। এই পাতা থাকবে হিজর যা যোগ করে, তার সঙ্গে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের শানে নুযূল উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Pointing Word, Three Groups",
+          "bn": "এক ইশারা, তিন দল"
+        },
+        "p": [
+          {
+            "en": "One small word binds this passage together. Ha'ula'i, these, occurs only three times in the whole of Surah al-Hijr, and all three fall within six verses. In 15:66 Allah tells Lut (AS) that the last remnant of ha'ula'i, these people, would be cut off by morning. In 15:68 Lut says inna ha'ula'i dayfi, these are my guests. In 15:71 he says ha'ula'i banati, these are my daughters. The same pointing word is aimed, in quick succession, at three different groups of people.",
+            "bn": "ছোট্ট একটি শব্দ এই অংশটাকে এক সুতোয় বেঁধে রেখেছে। হা-উলাই, অর্থাৎ এরা। গোটা সূরা হিজরে শব্দটি এসেছে মাত্র তিনবার, আর তিনবারই ছয়টি আয়াতের ভেতরে। ১৫:৬৬ আয়াতে আল্লাহ লূত (আঃ)-কে জানান, সকাল হতেই হা-উলাই, এই লোকদের শেষ চিহ্নটুকুও কেটে ফেলা হবে। ১৫:৬৮ আয়াতে লূত (আঃ) বলেন, ইন্না হা-উলাই দাইফী, এরা আমার মেহমান। আর ১৫:৭১ আয়াতে বলেন, হা-উলাই বানাতী, এরা আমার কন্যা। একই ইশারার শব্দ পরপর তিনটি ভিন্ন দলের দিকে।"
+          },
+          {
+            "en": "Read together, the three tell the night in miniature. One group is already under a decree, though it does not know it. One is under Lut's protection as his guests. One he holds out as the lawful alternative. A reader who keeps 15:66 in mind hears the crowd's demand differently: those pressing to reach the guests are the very ha'ula'i whose end has been settled. This is an observation drawn from the wording, not a point any of the commentators consulted makes, and it is offered only as that.",
+            "bn": "তিনটিকে একসঙ্গে পড়লে পুরো রাতটা ছোট করে দেখা যায়। একটি দলের উপর ফায়সালা হয়ে গেছে, যদিও তারা তা জানে না। আরেক দল মেহমান হয়ে লূত (আঃ)-এর আশ্রয়ে। আর তৃতীয় দলকে তিনি সামনে আনেন হালাল বিকল্প হিসেবে। ১৫:৬৬ মনে রেখে পড়লে ভিড়ের দাবিটা অন্যভাবে কানে বাজে। যারা মেহমানদের কাছে পৌঁছানোর জন্য চাপ দিচ্ছে, তারাই সেই হা-উলাই, যাদের পরিণতি আগেই স্থির হয়ে গেছে। কথাটা শব্দের গঠন থেকে পাঠকের নিজের লক্ষ করা। যেসব তাফসীর দেখা হয়েছে, তার কোনোটি এ কথা বলেনি, তাই এটা কেবল পর্যবেক্ষণ হিসেবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Order of Speech Reversed",
+          "bn": "কথার ক্রম উল্টো"
+        },
+        "p": [
+          {
+            "en": "The order of speech differs between the two surahs, and the difference is plain on the page. In 11:78 Lut (AS) speaks first of his daughters, then tells them to fear Allah, then pleads over his guests, then asks whether there is a man of sound mind among them; their reply about his daughters follows in 11:79. In al-Hijr the guests come first. He names them in 15:68, calls on the fear of Allah in 15:69, and only after the crowd's rebuke in 15:70 does he speak of his daughters.",
+            "bn": "দুই সূরায় কথার ক্রম আলাদা, আর পার্থক্যটা চোখের সামনেই। ১১:৭৮ আয়াতে লূত (আঃ) প্রথমে বলেন কন্যাদের কথা। তারপর আল্লাহকে ভয় করতে বলেন, তারপর মেহমানদের ব্যাপারে অনুনয় করেন, শেষে জিজ্ঞেস করেন, তোমাদের মধ্যে কি একজনও সুবুদ্ধিসম্পন্ন লোক নেই? কন্যাদের নিয়ে তাদের জবাব আসে ১১:৭৯ আয়াতে। হিজরে মেহমানদের কথা আগে। ১৫:৬৮ আয়াতে তিনি তাদের কথা বলেন, ১৫:৬৯ আয়াতে আল্লাহর ভয়ের দোহাই দেন। আর ১৫:৭০ আয়াতে ভিড়ের ধমক শোনার পরই কেবল কন্যাদের কথা তোলেন।"
+          },
+          {
+            "en": "The wording differs too. Hud opens his words with ya qawmi, O my people, and gives a reason: hunna atharu lakum, they are purer for you. Al-Hijr has no vocative and no stated reason; in their place stands the condition in kuntum fa'ilin. Hud's verse runs to twenty-six Arabic words, this one to six. Ibn Kathir's abridged English commentary adds, on 15:68, that Lut spoke those words before he knew his guests were messengers, as Hud has it; that question of order is read on the page for 15:67.",
+            "bn": "শব্দেও পার্থক্য আছে। হূদে তাঁর কথা শুরু হয় ইয়া কাওমি, হে আমার জাতি, এই সম্বোধনে, আর সঙ্গে আসে একটা কারণ: হুন্না আতহারু লাকুম, এরা তোমাদের জন্য বেশি পবিত্র। হিজরে কোনো সম্বোধন নেই, কোনো কারণও বলা নেই। তার জায়গায় আছে শর্তটি: ইন কুনতুম ফা-ইলীন। হূদের আয়াত আরবিতে ছাব্বিশ শব্দের, এটি মাত্র ছয়টি শব্দের। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ১৫:৬৮ আয়াতের আলোচনায় যোগ করে, মেহমানরা যে আল্লাহর পাঠানো দূত, তা জানার আগেই লূত (আঃ) ওই কথা বলেছিলেন, যেমন হূদে আছে। ঘটনার ক্রমের সেই প্রশ্ন ১৫:৬৭ আয়াতের পাতায় আলোচিত হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glosses That Point Back",
+          "bn": "যে ব্যাখ্যা হূদে ফেরায়"
+        },
+        "p": [
+          {
+            "en": "The commentators themselves treat this verse as already explained. Al-Qurtubi gives it a single line: marry them, wa la tarkanu ila al-haram, and do not incline to the unlawful; the explanation of this, he adds, has gone before in Hud. Ibn Kathir says Lut guided them to their women and to what their Lord had created for them of the lawful, and that the discussion has come already, enough to spare repeating it. Both send the reader back to Hud, and this page follows their lead.",
+            "bn": "তাফসীরকারেরা নিজেরাই এ আয়াতকে আগে ব্যাখ্যা করা বলে ধরে নেন। কুরতুবী এক লাইনেই শেষ করেন: তাদের বিয়ে করো, ওয়া লা তারকানূ ইলাল হারাম, হারামের দিকে ঝুঁকো না। এর ব্যাখ্যা, তিনি বলেন, হূদে আগেই গেছে। ইবন কাসীর বলেন, লূত (আঃ) তাদের পথ দেখালেন তাদের নিজেদের নারীদের দিকে, তাদের রব তাদের জন্য যে হালাল সম্পর্ক সৃষ্টি করেছেন সেদিকে। সঙ্গে বলেন, আলোচনা আগেই হয়ে গেছে, আবার বলার দরকার নেই। দুজনেই পাঠককে হূদে ফেরত পাঠান, আর এই পাতাও তাঁদের পথ ধরে।"
+          },
+          {
+            "en": "What they keep here is brief. Al-Muyassar paraphrases: these are your women, my daughters, so marry them, and says he called them his daughters because a nation's prophet stands to it as a father. Al-Baghawi has Lut say, I will marry them to you if you accept Islam, so come to the lawful and leave the unlawful, then records, as something said, that the daughters are the women of his nation. At-Tabari carries Qatada: Lut commanded them to marry women, and wished to shield his guests with his daughters.",
+            "bn": "এখানে তাঁরা যা রাখেন, তা সংক্ষিপ্ত। মুয়াসসারের ভাষ্য: এরা তোমাদের নারী, আমার কন্যা, তাদের বিয়ে করো। তাদের নিজের কন্যা বলার কারণ, জাতির নবী জাতির কাছে পিতার মতো। বাগাভীর বর্ণনায় লূত (আঃ) বলছেন, তোমরা ইসলাম গ্রহণ করলে আমি তাদের তোমাদের সঙ্গে বিয়ে দেব, কাজেই হালালের কাছে এসো, হারাম ছাড়ো। তারপর তিনি 'বলা হয়' কথাটি জুড়ে আনেন যে কন্যা মানে তাঁর জাতির নারীরা। তাবারী আনেন কাতাদার কথা: আল্লাহর নবী লূত তাদের নারীদের বিয়ে করতে আদেশ দিলেন, আর চাইলেন নিজের কন্যাদের দিয়ে মেহমানদের রক্ষা করতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Doers of What, Exactly",
+          "bn": "কী করার শর্ত"
+        },
+        "p": [
+          {
+            "en": "The verse closes on in kuntum fa'ilin. Fa'ilin is the plural active participle of fa'ala, to do: if you are doers. The condition leaves its object unstated, and the commentators supply it in two ways. At-Tabari reads it as obedience: marry women, approach them, and do not do what Allah has forbidden you, in kuntum fa'ilina ma amurukum bihi, if you will do what I command you and heed my command. Al-Baghawi gives the same object in the same words: if you will do what I command you.",
+            "bn": "আয়াতটি শেষ হয় ইন কুনতুম ফা-ইলীন দিয়ে। ফা-ইলীন এসেছে ফা-আলা, অর্থাৎ করা থেকে, বহুবচনের কর্তৃবাচক রূপ: যদি তোমরা কর্তা হও। কী করবে, শর্তটা তা খুলে বলে না। তাফসীরকারেরা তা পূরণ করেন দুইভাবে। তাবারীর পাঠ আনুগত্যের: নারীদের বিয়ে করো, তাদের কাছে যাও, আর আল্লাহ যা হারাম করেছেন তা কোরো না। ইন কুনতুম ফা-ইলীনা মা আমুরুকুম বিহি, যদি তোমরা আমার আদেশ পালন করো আর আমার কথা মেনে চলো। বাগাভীও একই শব্দে একই কথা বলেন: যদি তোমরা আমার আদেশ পালন করো।"
+          },
+          {
+            "en": "Al-Muyassar reads the condition from the other side. Its paraphrase runs: so marry them, in kuntum turiduna qada'a watarikum, if you want to satisfy your need. On this reading the condition takes up the crowd's own intent: if you are set on acting, here is the lawful way to do it. On at-Tabari's and al-Baghawi's reading it points to Lut's command: if you will act as I tell you. No text consulted here weighs one reading against the other, and this page keeps them as two readings without choosing.",
+            "bn": "মুয়াসসার শর্তটাকে পড়ে উল্টো দিক থেকে। তার ভাষ্য: তাদের বিয়ে করো, ইন কুনতুম তুরীদূনা কাদাআ ওয়াতারিকুম, যদি তোমরা নিজেদের চাহিদা মেটাতে চাও। এই পাঠে শর্তটা ধরে ভিড়ের নিজের মতলব: কিছু করতেই যদি চাও, তবে করার হালাল পথ এই। তাবারী ও বাগাভীর পাঠে শর্তটা ইঙ্গিত করে লূত (আঃ)-এর আদেশের দিকে: আমি যেভাবে বলছি সেভাবে যদি করো। যেসব তাফসীর দেখা হয়েছে, তার কোনোটি একটি পাঠকে অন্যটির উপর প্রাধান্য দেয়নি। এই পাতাও কোনোটি বেছে না নিয়ে দুটিকেই রাখছে।"
+          },
+          {
+            "en": "Both readings keep the same direction. Neither has Lut (AS) bargaining with the wrong they intended; each has him turning a will to act toward what is lawful. Al-Qurtubi's gloss, do not incline to the unlawful, and al-Baghawi's, come to the lawful and leave the unlawful, sum up the whole verse in that one contrast. The condition is not a concession to what the crowd wanted. It is a redirection: whatever doing you have in you, let it be this doing, the one Allah permits.",
+            "bn": "দুই পাঠেরই দিক কিন্তু এক। কোনোটিতেই লূত (আঃ) তাদের মতলবের সঙ্গে দরকষাকষি করছেন না। দুটিতেই তিনি কিছু করার ইচ্ছাকে ঘুরিয়ে দিচ্ছেন হালালের দিকে। কুরতুবীর ব্যাখ্যা, হারামের দিকে ঝুঁকো না, আর বাগাভীর কথা, হালালের কাছে এসো, হারাম ছাড়ো, গোটা আয়াতকে এই একটি বৈপরীত্যে ধরে ফেলে। শর্তটা ভিড়ের চাওয়ার কাছে কোনো ছাড় নয়। এ এক মোড় ফেরানো: তোমাদের ভেতরে করার যে তাগিদ আছে, তা খাটাও এখানে, আল্লাহ যা বৈধ করেছেন সেখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Verses, One Clause",
+          "bn": "তিন আয়াতে একই শর্ত"
+        },
+        "p": [
+          {
+            "en": "The exact words in kuntum fa'ilin close three verses of the Qur'an. In 12:10 one of Yusuf's brothers says: do not kill Yusuf, but cast him into the bottom of the well, if you would act. In 21:68 the people of Ibrahim (AS) say: burn him and support your gods, if you would act. And here, in 15:71, Lut (AS) says it to a crowd at his door. The page for 12:10 reads that verse's clause with its own commentators, and it is not reopened here.",
+            "bn": "হুবহু ইন কুনতুম ফা-ইলীন শব্দগুলো দিয়ে কুরআনের তিনটি আয়াত শেষ হয়েছে। ১২:১০ আয়াতে ইউসুফ (আঃ)-এর এক ভাই বলে: ইউসুফকে মেরো না, বরং তাকে কূপের গভীরে ফেলে দাও, যদি কিছু করতেই চাও। ২১:৬৮ আয়াতে ইবরাহীম (আঃ)-এর জাতি বলে: তাকে পুড়িয়ে দাও, তোমাদের দেবতাদের সাহায্য করো, যদি কিছু করতেই চাও। আর এখানে, ১৫:৭১ আয়াতে, দরজার সামনের ভিড়কে লূত (আঃ) একই কথা বলেন। ১২:১০ আয়াতের শর্তটি তার নিজের তাফসীরকারদের সঙ্গে সে আয়াতের পাতায় পড়া হয়েছে, এখানে আর খোলা হচ্ছে না।"
+          },
+          {
+            "en": "Set side by side, the three show a pattern the reader can see in the text alone. In each, the speaker faces people already resolved to do something. In 21:68 the clause urges them on to the fire. In 12:10 a brother uses it to steer a plot toward a lesser harm. In 15:71 a prophet uses it to turn a crowd away from wrong altogether, toward marriage. The same three words can push, brake or redirect; what they serve depends on who speaks them and on what he points to.",
+            "bn": "তিনটিকে পাশাপাশি রাখলে একটা ছক চোখে পড়ে, যা শুধু আয়াতের শব্দ থেকেই দেখা যায়। প্রতিটিতে বক্তার সামনে এমন লোক, যারা কিছু একটা করার জন্য আগেই মন স্থির করে ফেলেছে। ২১:৬৮ আয়াতে শর্তটা তাদের আগুনের দিকে উসকে দেয়। ১২:১০ আয়াতে এক ভাই একে কাজে লাগায় ষড়যন্ত্রটাকে তুলনামূলক কম ক্ষতির দিকে সরাতে। আর ১৫:৭১ আয়াতে একজন নবী একে কাজে লাগান ভিড়কে অন্যায় থেকে পুরোপুরি ফিরিয়ে বিয়ের দিকে নিতে। একই তিনটি শব্দ ঠেলে দিতে পারে, থামাতে পারে, আবার মোড়ও ঘোরাতে পারে। কোন কাজে লাগবে, তা নির্ভর করে কে বলছে আর কোন দিকে দেখাচ্ছে তার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Reply in al-Hijr",
+          "bn": "হিজরে জবাব নেই"
+        },
+        "p": [
+          {
+            "en": "In Hud the crowd answers Lut (AS): you know well that we have no claim on your daughters. In al-Hijr no answer is recorded. As-Sa'di explains what happened instead. Lut said this, he writes, min shiddat al-amr alladhi asabahu, from the severity of what had come upon him, fa-lam yubalu bi-qawlihi, and they paid no heed to what he said. The next verse is not theirs. It turns from the house to the Prophet ﷺ himself: la-'amruka, by your life, they were wandering blindly in their intoxication.",
+            "bn": "হূদে ভিড় লূত (আঃ)-কে জবাব দেয়: তুমি তো ভালোই জানো, তোমার কন্যাদের ব্যাপারে আমাদের কোনো দাবি নেই। হিজরে কোনো জবাবই নেই। তার বদলে কী ঘটেছিল, সা'দী তা বলেন। তাঁর ভাষায়, লূত (আঃ) কথাটা বলেছিলেন মিন শিদ্দাতিল আমরিল্লাযী আসাবাহু, তাঁর উপর নেমে আসা কঠিন অবস্থার চাপে। ফালাম ইউবালূ বিকাওলিহি, আর তারা তাঁর কথার কোনো পরোয়াই করল না। পরের আয়াত তাদের মুখের কথা নয়। সেখানে কথা ঘর ছেড়ে সরাসরি নবী ﷺ-এর দিকে ফেরে: লা-আমরুকা, তোমার জীবনের শপথ, তারা নিজেদের নেশায় অন্ধের মতো ঘুরপাক খাচ্ছিল।"
+          },
+          {
+            "en": "The oath in 15:72 belongs to its own verse and is touched here only for context. Ibn Kathir calls it an immense honour for the Prophet ﷺ and relays from Ibn Abbas, through Abu al-Jawza', that he never heard of Allah swearing by the life of anyone else; these are a Companion's words, not a saying of the Prophet ﷺ. As-Sa'di names the intoxication: the love of indecency, with which they heeded neither reproach nor blame. Ibn Kathir adds that all this happened while they were heedless of what awaited them by morning.",
+            "bn": "১৫:৭২ আয়াতের শপথ সে আয়াতেরই বিষয়, এখানে কেবল প্রসঙ্গ বোঝাতে ছুঁয়ে যাওয়া হলো। ইবন কাসীর একে নবী ﷺ-এর জন্য বিরাট সম্মান বলেন, আর আবুল জাওযার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল্লাহ আর কারও জীবনের শপথ করেছেন বলে তিনি শোনেননি। কথাটা একজন সাহাবীর, নবী ﷺ-এর হাদীস নয়। সা'দী নেশাটার নাম বলেন: অশ্লীলতার প্রতি আসক্তি, যার ঘোরে তারা কোনো তিরস্কার বা ভর্ৎসনার পরোয়া করত না। ইবন কাসীর যোগ করেন, এসব ঘটছিল এমন সময়ে, যখন সকালে তাদের জন্য কী অপেক্ষা করছে সে ব্যাপারে তারা পুরোপুরি বেখবর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Showing the Lawful Door",
+          "bn": "হালাল দরজাটা দেখানো"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. Lut's people are a past people, and the verse describes what the text describes: one evening, one crowd, one prophet's answer. It licenses nothing against any living person or community, and it must not be used to demean anyone or to justify harm to any person. The commentators speak of it with restraint, naming the lawful and the unlawful and going no further, and this page keeps to that. None of the commentaries consulted attaches a hadith to this verse, and none is supplied here.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। লূত (আঃ)-এর জাতি অতীতের এক জাতি। আয়াতটি তা-ই বলে, যা আয়াতের শব্দে আছে: এক সন্ধ্যা, এক ভিড়, আর একজন নবীর জবাব। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কাউকে হেয় করতে বা কারও ক্ষতির পক্ষে যুক্তি দাঁড় করাতে একে ব্যবহার করা চলবে না। তাফসীরকারেরা সংযমের সঙ্গে কথা বলেন, হালাল আর হারামের নাম নিয়েই থেমে যান, এই পাতাও সেই সীমায় থাকছে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, এখানেও কোনো হাদীস আনা হচ্ছে না।"
+          },
+          {
+            "en": "What remains for the reader is the shape of Lut's answer. Rebuked in 15:70, he does not rebuke back. He has already named Allah, and now he names a lawful way. Few of us will ever stand at such a door, yet the pattern is ordinary: a friend set on a harmful course, a young person set on a forbidden thing, our own heart insisting on what it should not have. Forbidding alone can leave the wanting with nowhere to go. Lut's words join the no to a yes: if you must act, act here.",
+            "bn": "পাঠকের জন্য যা থাকে, তা লূত (আঃ)-এর জবাবের ধরন। ১৫:৭০ আয়াতে ধমক খেয়েও তিনি পাল্টা ধমক দেন না। আল্লাহর নাম তিনি আগেই নিয়েছেন, এবার দেখান একটা হালাল পথ। আমাদের খুব কম মানুষকেই এমন দরজায় দাঁড়াতে হবে। তবু ছকটা চেনা। কোনো বন্ধু ক্ষতিকর কোনো পথে যাওয়ার জেদ ধরেছে, কোনো তরুণ হারাম কিছুর জন্য অস্থির, কিংবা আমাদের নিজের মন এমন কিছু চাইছে যা তার পাওয়া উচিত নয়। শুধু নিষেধ করলে চাওয়াটা অনেক সময় যাওয়ার জায়গা পায় না। লূত (আঃ)-এর কথায় না-এর সঙ্গে জুড়ে আছে একটা হ্যাঁ: করতেই যদি চাও, এখানে করো।"
+          },
+          {
+            "en": "The silence after the verse belongs to the lesson too. A lawful door can be shown calmly and still be refused, and whoever showed it has done what was his to do; what follows is in Allah's hands. The verse leaves the reader two questions. When others are set on a wrong, can I offer them the lawful way without contempt? And when a craving has me in its grip, can I still hear the voice pointing me elsewhere, before an intoxication like that of 15:72 closes my ears?",
+            "bn": "আয়াতের পরের নীরবতাও এই শিক্ষার অংশ। শান্তভাবে হালাল দরজা দেখানোর পরও কেউ তা ফিরিয়ে দিতে পারে। যিনি দেখিয়েছেন, তিনি নিজের দায়িত্ব পালন করেছেন, এরপর যা ঘটবে তা আল্লাহর হাতে। আয়াতটি পাঠকের সামনে দুটি প্রশ্ন রেখে যায়। অন্যরা যখন অন্যায়ের জেদ ধরে, আমি কি অবজ্ঞা ছাড়া তাদের হালাল পথটা দেখাতে পারি? আর লোভ যখন আমাকেই চেপে ধরে, তখনো কি অন্য দিকে ডাকা কণ্ঠটা শুনতে পাই, ১৫:৭২ আয়াতের মতো কোনো নেশা আমার কান বন্ধ করে দেওয়ার আগেই?"
+          }
+        ]
+      }
+    ]
+  },
   "15:74": {
     "sections": [
       {

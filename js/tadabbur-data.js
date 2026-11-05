@@ -22231,6 +22231,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Work to make your worship sincere for Allah alone, ask Him to make you one of His chosen servants, and seek refuge in Him whenever Satan whispers.",
     "lessonBn": "ইবাদত শুধু আল্লাহর জন্য খাঁটি করতে চেষ্টা করুন, তাঁর বাছাই করা বান্দাদের একজন করে নিতে তাঁর কাছে দোয়া করুন, আর শয়তান কুমন্ত্রণা দিলেই তাঁর আশ্রয় চান।"
+  },
+  "15:71": {
+    "reflectionEn": "A crowd stands at the door, and it has already answered him with a rebuke: did we not forbid you to take in anyone at all? Lut (AS) does not meet threat with threat. He points to the lawful way still open to them: these are my daughters, if you must act. In six words he turns their insistence on doing something toward the one doing that is clean. In this surah no reply follows, and the next verse speaks of a drunkenness that hears no reproach. The verse asks something of me. When someone is set on a wrong, can I calmly show them a lawful door, not only a closed one? And when I am the one set on something, can I still hear the voice pointing elsewhere?",
+    "reflectionBn": "দরজার সামনে ভিড় দাঁড়িয়ে, আর তারা আগেই ধমক দিয়ে জবাব দিয়ে ফেলেছে: আমরা কি তোমাকে কাউকে আশ্রয় দিতে নিষেধ করিনি? লূত (আঃ) হুমকির জবাব হুমকি দিয়ে দেন না। তিনি দেখিয়ে দেন সেই হালাল পথ, যা তখনো তাদের জন্য খোলা: এরা আমার কন্যা, যদি তোমরা কিছু করতেই চাও। ছয় শব্দে তিনি তাদের জেদকে ঘুরিয়ে দেন একমাত্র পবিত্র কাজের দিকে। এই সূরায় এর কোনো জবাব আসে না। পরের আয়াত বলে এমন এক নেশার কথা, যা কোনো তিরস্কার কানে তোলে না। আয়াতটি আমার কাছেও কিছু চায়। কেউ যখন অন্যায়ের জেদ ধরে, আমি কি শুধু দরজা বন্ধ করি, নাকি শান্তভাবে একটা হালাল দরজাও দেখিয়ে দিই? আর জেদটা যখন আমার নিজের, তখনো কি আমি অন্য দিকে ডাকা কণ্ঠটা শুনতে পাই?",
+    "pointsEn": [
+      "When someone close to me is set on something harmful, do I only forbid it, or do I also show a lawful way to meet the need behind it?",
+      "Is there a desire in my life that I call impossible to resist, when a lawful door to it has been open all along?",
+      "When people throw my sincere advice back at me as a rebuke, do I answer with anger or with a calmer word?",
+      "What would help me hear a warning while I am still caught up in wanting something?",
+      "Who is under my roof or in my care, and what am I willing to say to keep them from harm?"
+    ],
+    "pointsBn": [
+      "কাছের কেউ যখন ক্ষতিকর কিছুর জেদ ধরে, আমি কি শুধু নিষেধ করি, নাকি তার ভেতরের চাহিদাটা পূরণের একটা হালাল পথও দেখিয়ে দিই?",
+      "আমার জীবনে কি এমন কোনো চাওয়া আছে, যাকে আমি সামলানো অসম্ভব বলি, অথচ তার হালাল দরজা সারাক্ষণ খোলাই ছিল?",
+      "আমার আন্তরিক উপদেশ যখন লোকে ধমক হিসেবে আমাকেই ফিরিয়ে দেয়, আমি কি রাগ দিয়ে জবাব দিই, নাকি আরও নরম কথায়?",
+      "কোনো কিছুর চাওয়ায় ডুবে থাকার সময়েও সতর্কবাণী শুনতে পাওয়ার জন্য আমার কী দরকার?",
+      "আমার ছাদের নিচে বা আমার দায়িত্বে কে আছে, আর তাদের ক্ষতি থেকে বাঁচাতে আমি কী বলতে রাজি?"
+    ],
+    "lessonEn": "When people are set on doing wrong, point them calmly to the lawful way, and never let a craving deafen you to the voice that points you there.",
+    "lessonBn": "মানুষ যখন অন্যায়ের জেদ ধরে, শান্তভাবে তাদের হালাল পথটা দেখিয়ে দিন, আর কোনো লোভ যেন আপনাকে সেই পথের দিকে ডাকা কণ্ঠের প্রতি বধির করে না দেয়।"
   }
 };
 
