@@ -1267,6 +1267,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Calling to Carpentry",
+          "bn": "দাওয়াত থেকে কাঠের কাজে"
+        },
+        "p": [
+          {
+            "en": "Surah Hud is Makkan, and its account of Nuh (AS) opens at 11:25. By 11:32 his people have told him he has argued with them too much and dared him to bring what he threatens. 11:36 then closes the calling from above: no one from your people will believe except those who have already believed, so do not grieve over what they used to do. Our verse is the instruction that follows. 11:38 shows him at the work it gives, building while the chiefs of his people pass by and laugh.",
+            "bn": "সূরা হূদ মাক্কী। এর ভেতরে নূহ (আঃ)-এর কাহিনি শুরু হয় ১১:২৫ আয়াতে। ১১:৩২ আয়াতে পৌঁছে তাঁর জাতি বলে দেয়, তুমি আমাদের সঙ্গে বড্ড বেশি ঝগড়া করেছ, যে শাস্তির ভয় দেখাচ্ছ তা এনে দেখাও। এরপর ১১:৩৬ আয়াতে উপর থেকেই দাওয়াতের দরজা বন্ধ হয়: যারা ঈমান এনেছে তারা ছাড়া তোমার জাতির আর কেউ ঈমান আনবে না, কাজেই তাদের কাজে দুঃখ করো না। আমাদের আয়াত তার পরের হুকুম। ১১:৩৮ আয়াতে দেখা যায় তিনি সেই কাজেই লেগে আছেন, নৌকা বানাচ্ছেন, আর জাতির নেতারা পাশ দিয়ে যেতে যেতে ঠাট্টা করছে।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgement, taking 11:36 to 11:39 together, sets the scene before the instruction. The revelation came, it says, when his people hastened the punishment upon themselves, and after Nuh (AS) had supplicated against them in the words of 71:26, leave not one of the disbelievers on the earth, and of 54:10, I have been overcome, so help. None of the commentaries consulted reports an occasion of revelation for the verse, so its place in the account is its context: the arguing has ended, and the building begins.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত রূপ ১১:৩৬ থেকে ১১:৩৯ একসঙ্গে আলোচনা করে, আর হুকুমের আগের পটভূমিটা বলে দেয়। তার ভাষ্যে, ওয়াহী এসেছিল তখন, যখন জাতি নিজেরাই শাস্তি ডেকে আনতে তাড়া দিচ্ছিল। আর নূহ (আঃ) তার আগে তাদের বিরুদ্ধে দোয়া করেছিলেন ৭১:২৬ আয়াতের ভাষায়: জমিনে কাফিরদের একজনকেও রেখো না। আর ৫৪:১০ আয়াতের ভাষায়: আমি পরাস্ত, তুমি প্রতিকার করো। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের শানে নুযূল বর্ণনা করেনি। তাই কাহিনির ভেতরে এর অবস্থানই এর প্রেক্ষাপট: তর্ক শেষ, এবার নির্মাণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Command, a Bar, a Reason",
+          "bn": "হুকুম, নিষেধ, তারপর কারণ"
+        },
+        "p": [
+          {
+            "en": "In the text of Surah Hud the verse runs to 11 Arabic words, with one pause mark printed in the line and not counted among them. It moves in three steps. First a command, wa-sna' al-fulk, and construct the ship. Then a bar, wa la tukhatibni fi alladhina zalamu, and do not address Me concerning those who did wrong. Then the reason for the bar, innahum mughraqun, they are to be drowned. At-Tabari reads the verse as still inside the revelation of 11:36: it was revealed to him that none would believe, and that he should build.",
+            "bn": "সূরা হূদের পাঠে আয়াতটি ১১টি আরবি শব্দের। লাইনে একটি ওয়াকফের চিহ্ন ছাপা আছে, সেটা গোনা হয়নি। আয়াত এগোয় তিনটি ধাপে। প্রথমে হুকুম: ওয়াসনাইল ফুলক, নৌকা তৈরি করো। তারপর নিষেধ: ওয়ালা তুখাতিবনী ফিল্লাযীনা যালামূ, যারা জুলুম করেছে তাদের ব্যাপারে আমাকে কিছু বলো না। তারপর নিষেধের কারণ: ইন্নাহুম মুগরাকূন, তারা ডুববেই। তাবারীর পাঠে আয়াতটি তখনো ১১:৩৬ আয়াতের ওয়াহীর ভেতরেই চলছে। তাঁকে জানানো হয়েছিল যে আর কেউ ঈমান আনবে না, আর এটাও যে তিনি যেন নৌকা বানান।"
+          },
+          {
+            "en": "Al-fulk is the ship; at-Tabari gives that through Mujahid in two words, al-fulk as-safinah. Al-Qurtubi adds its purpose: build the ship so that you and those who believed with you may ride in it. 23:27 carries the same words in the other account of Nuh (AS), so We revealed to him, construct the ship under Our eyes and Our revelation, and it closes on the same bar and the same reason. Only the middle differs, where 23:27 gives the boarding order that this surah keeps for 11:40.",
+            "bn": "আল-ফুলক মানে নৌকা। তাবারী মুজাহিদের সূত্রে দুই শব্দে কথাটা দেন: আল-ফুলক হলো আস-সাফীনা। কুরতুবী উদ্দেশ্যটাও জুড়ে দেন: নৌকা বানাও, যাতে তুমি আর তোমার সঙ্গে যারা ঈমান এনেছে তারা তাতে চড়তে পারো। নূহ (আঃ)-এর অন্য বর্ণনায় ২৩:২৭ আয়াতে হুবহু এই কথাগুলোই আছে: আমি তাঁকে ওয়াহী করলাম, আমার চোখের সামনে আর আমার ওয়াহী অনুযায়ী নৌকা বানাও। সেখানেও শেষ হয় একই নিষেধ আর একই কারণ দিয়ে। পার্থক্য কেবল মাঝখানে। ২৩:২৭ আয়াত সেখানেই নৌকায় তোলার হুকুম দেয়, আর এ সূরা সেটা রেখে দেয় ১১:৪০ আয়াতের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen, Kept and Guarded",
+          "bn": "দেখা, আগলে রাখা, পাহারা"
+        },
+        "p": [
+          {
+            "en": "The commentators linger on bi-a'yunina and explain it in several words. Ibn Kathir gives bi-mar'an minna, within Our sight, and al-Baghawi gives the same from Ibn Abbas (RA). At-Tabari's own gloss is with the eye of Allah and His revelation, as He commands you, and he brings the same through Ata' al-Khurasani from Ibn Abbas (RA) and from Qatadah. Al-Qurtubi opens with within Our sight and where We see you, then adds ar-Rabi' ibn Anas: by Our keeping you, the keeping of one who sees you.",
+            "bn": "বি-আ'য়ুনিনা শব্দবন্ধে তাফসীরকারেরা থামেন, নানা শব্দে এর ব্যাখ্যা দেন। ইবন কাসীর বলেন, বি-মারআন মিন্না, আমার দৃষ্টির ভেতরে। বাগাভী ইবন আব্বাস (রাঃ) থেকে একই কথা আনেন। তাবারীর নিজের ব্যাখ্যা: আল্লাহর চোখে আর তাঁর ওয়াহী অনুযায়ী, যেমন তিনি তোমাকে আদেশ করেন। একই কথা তিনি আতা আল-খুরাসানীর সূত্রে ইবন আব্বাস (রাঃ) থেকে এবং কাতাদা থেকে আনেন। কুরতুবী শুরু করেন এভাবে: আমার দৃষ্টির ভেতরে, যেখানে আমি তোমাকে দেখি। তারপর যোগ করেন রবী ইবন আনাসের কথা: তোমাকে আমার হেফাজতে রাখা, যেমন হেফাজত করে সে, যে তোমাকে দেখছে।"
+          },
+          {
+            "en": "The list keeps widening. Al-Qurtubi gives Ibn Abbas (RA) as bi-hirasatina, by Our guarding, and says the meaning is one. He reports Muqatil for by Our knowledge, ad-Dahhak and Sufyan for by Our command, and unnamed others for by Our revelation and by Our help in building it. Al-Baghawi has Muqatil's knowledge and an unnamed by Our keeping. Al-Muyassar joins sight to care: within Our sight, by Our command and help, and you in Our keeping and guardianship. As-Sa'di gives three at once: by Our keeping, within Our sight, and according to what pleases Us.",
+            "bn": "তালিকা আরও বড় হয়। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথা আনেন বি-হিরাসাতিনা, আমার পাহারায়, আর বলেন অর্থ একই। তিনি মুকাতিল থেকে আনেন, আমার জ্ঞানে। দাহহাক ও সুফিয়ান থেকে আনেন, আমার আদেশে। নাম না নিয়ে আরও দুটি মত দেন: আমার ওয়াহী অনুযায়ী, আর নৌকা বানাতে তোমাকে আমার সাহায্যে। বাগাভীর কাছে আছে মুকাতিলের জ্ঞানের কথা, আর নামহীন একটি মত: আমার হেফাজতে। মুয়াসসার দৃষ্টির সঙ্গে যত্নকে জুড়ে দেয়: আমার চোখের সামনে, আমার আদেশ ও সাহায্যে, আর তুমি থাকবে আমার হেফাজত ও তত্ত্বাবধানে। সা'দী একসঙ্গে তিনটি বলেন: আমার হেফাজতে, আমার দৃষ্টির ভেতরে, আর আমার সন্তুষ্টি অনুযায়ী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Statements on the Eyes",
+          "bn": "চোখ নিয়ে দুটি বক্তব্য"
+        },
+        "p": [
+          {
+            "en": "Two sources go further and say what the phrase affirms, and differently. Al-Muyassar closes its entry with one sentence: in the verse is the affirmation of the attribute of the eye for Allah the Exalted, in the manner befitting Him, glorified is He. Al-Qurtubi writes that the eyes express seeing because seeing is done with them, and that the plural is for majesty, not number, as in fa-ni'ma al-qadirun of 77:23 and fa-ni'ma al-mahidun and inna la-musi'un of 51:48 and 51:47.",
+            "bn": "দুটি সূত্র আরও এগিয়ে বলে, শব্দবন্ধটি কী সাব্যস্ত করে, আর বলে দুইভাবে। মুয়াসসার তার আলোচনা শেষ করে একটি বাক্যে: এ আয়াতে আল্লাহ তাআলার জন্য চোখের সিফাত সাব্যস্ত হয়েছে, তাঁর শান অনুযায়ী, তিনি পবিত্র। কুরতুবী লেখেন, চোখ দিয়ে দেখা হয় বলে দেখার কথা চোখের শব্দে বলা হয়েছে। আর বহুবচনটা সংখ্যার জন্য নয়, মহিমার জন্য। যেমন ৭৭:২৩ আয়াতে ফানি'মাল কাদিরূন, আর ৫১:৪৮ ও ৫১:৪৭ আয়াতে ফানি'মাল মাহিদূন ও ইন্না লামূসিঊন।"
+          },
+          {
+            "en": "He adds that the plural can return to the singular, as in 20:39, wa li-tusna'a ala ayni, that you be brought up under My eye, and that all of this is an expression for perception and encompassing, while He is transcendent above senses, likeness and asking how; there is no lord but He. He then reports a further view: the eyes of Our angels, set as watchers to keep and help you, which would make it a plural of number. This article reports both statements in their authors' words and does not settle between them.",
+            "bn": "তিনি আরও বলেন, বহুবচন একবচনের অর্থেও ফিরতে পারে, যেমন ২০:৩৯ আয়াতে ওয়া লিতুসনাআ আলা আইনী, যাতে তুমি আমার চোখের সামনে প্রতিপালিত হও। তাঁর মতে এ সবই উপলব্ধি ও পরিবেষ্টনের প্রকাশ। আর আল্লাহ ইন্দ্রিয়, সাদৃশ্য এবং কেমন-প্রশ্ন থেকে পবিত্র, তিনি ছাড়া কোনো রব নেই। এরপর তিনি আরেকটি মত আনেন: আমার ফেরেশতাদের চোখ, যাদের তোমার হেফাজত ও সাহায্যের জন্য পাহারাদার করা হয়েছে। সে হিসেবে বহুবচনটা সংখ্যারই বহুবচন। এ লেখা দুটি বক্তব্যই তাদের লেখকদের ভাষায় তুলে ধরে, কোনোটির পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taught What He Did Not Know",
+          "bn": "যা জানা ছিল না, তা শেখানো"
+        },
+        "p": [
+          {
+            "en": "Wa wahyina, and Our revelation, is the second companion of the command. Ibn Kathir reads it as Our teaching you what to make. Mujahid, in at-Tabari, says as We command you, and al-Baghawi says by Our command. Al-Qurtubi has according to what We revealed to you of its making. At-Tabari also brings, through Ibn Abbas (RA), the reason the word is needed at all: Nuh (AS) did not know how a ship was made, so Allah revealed to him to make it like the ju'ju' of a bird, which a note in at-Tabari's printed text explains as its breast.",
+            "bn": "ওয়া ওয়াহয়িনা, আর আমার ওয়াহী অনুযায়ী: হুকুমের দ্বিতীয় সঙ্গী। ইবন কাসীর এর মানে করেন, কী বানাতে হবে তা তোমাকে আমার শিখিয়ে দেওয়া। তাবারীতে মুজাহিদ বলেন, যেমন আমি তোমাকে আদেশ করি। বাগাভী বলেন, আমার আদেশে। কুরতুবীর ভাষায়, নৌকা বানানোর যে পদ্ধতি তোমাকে ওয়াহী করেছি সে অনুযায়ী। শব্দটা আদৌ কেন দরকার, তাবারী ইবন আব্বাস (রাঃ)-এর সূত্রে তারও কারণ আনেন। নূহ (আঃ) জানতেন না নৌকা কীভাবে বানাতে হয়। তাই আল্লাহ তাঁকে ওয়াহী করলেন, পাখির জু'জু'-এর মতো করে বানাও। তাবারীর ছাপা কিতাবের এক টীকা বলে, জু'জু' মানে পাখির বুক।"
+          },
+          {
+            "en": "Al-Baghawi tells it as a scene, introduced with the words in the story, fi al-qissah. Jibril came to Nuh (AS) and said, your Lord commands you to make the ship. He said, how shall I make it when I am no carpenter? Jibril said, your Lord says make it, for you are under My eye. So he took up the adze and began to build, and did not go wrong. Al-Baghawi gives no chain for it, and it is reported here as he reports it: a story, not a narration from the Prophet ﷺ.",
+            "bn": "বাগাভী ঘটনাটা দৃশ্যের মতো বলেন, শুরুতে লিখে দেন: ফিল কিসসা, কাহিনিতে আছে। জিবরীল নূহ (আঃ)-এর কাছে এসে বললেন, আপনার রব আপনাকে নৌকা বানাতে আদেশ করছেন। তিনি বললেন, আমি তো কাঠমিস্ত্রি নই, কীভাবে বানাব? জিবরীল বললেন, আপনার রব বলছেন, বানাও, তুমি আমার চোখের সামনে আছ। তখন তিনি কাঠ চাঁছার বাইস হাতে নিয়ে কাজ শুরু করলেন, আর একটুও ভুল করলেন না। বাগাভী এর কোনো সনদ দেননি। তাই এখানে কথাটা তাঁর মতো করেই আনা হলো: একটি কাহিনি হিসেবে, নবী ﷺ থেকে বর্ণিত কোনো হাদীস হিসেবে নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an heads its note on this verse as the education of a prophet: commanded to make an ark, he knew neither the ark nor its making, and this verse was his first lesson. It then cites adh-Dhahabi's at-Tibb an-Nabawi, reporting from some elders of the early centuries that the industries essential to human life owe their origin to revelation through some prophet, and that later improvements came as times required. It stays here as their report.",
+            "bn": "মাআরিফুল কুরআন এ আয়াতের আলোচনার শিরোনাম দেয়: এক নবীর শিক্ষা। নৌকা বানানোর আদেশ পেয়েছিলেন, অথচ নৌকা কী আর কীভাবে বানায়, কোনোটাই জানতেন না। এ আয়াত ছিল তাঁর প্রথম পাঠ। এরপর যাহাবীর আত-তিব্বুন নাবাবী থেকে উদ্ধৃত করে, ইসলামের প্রথম যুগের কিছু মুরুব্বির বর্ণনায়: মানুষের জীবনের অপরিহার্য শিল্পগুলোর সূচনা কোনো না কোনো নবীর কাছে আসা ওয়াহী থেকে। পরে সময়ের প্রয়োজনে সেগুলোর উন্নতি হয়েছে। কথাটা এখানে তাঁদের বর্ণনা হিসেবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cubits and Years, as Reported",
+          "bn": "হাতের মাপ আর বছরের হিসাব"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir collects the reports about the ship itself, each under a name. Some of the Salaf said Allah commanded him to plant the trees, cut them and dry them, which took 100 years, and the carpentry another 100; it was also said 40 years, and Allah knows best. Muhammad ibn Ishaq reported from the Torah that the wood was saj, which the English abridgement renders Indian oak, the length 80 cubits and the width 50, coated with tar inside and out, with a slanted prow to split the water.",
+            "bn": "নৌকার বিবরণ নিয়ে যত বর্ণনা, ইবন কাসীর সেগুলো জড়ো করেন, প্রতিটি কারও না কারও নামে। সালাফের কেউ কেউ বলেছেন, আল্লাহ তাঁকে গাছ লাগাতে, কাটতে আর শুকাতে বলেছিলেন। তাতে লেগেছিল ১০০ বছর, আর কাঠের কাজে আরও ১০০। আবার বলা হয়েছে ৪০ বছর, আল্লাহই ভালো জানেন। মুহাম্মাদ ইবন ইসহাক তাওরাত থেকে বর্ণনা করেছেন: কাঠ ছিল সাজ, ইংরেজি সংক্ষিপ্ত রূপে যার অনুবাদ ইন্ডিয়ান ওক। দৈর্ঘ্য ৮০ হাত, প্রস্থ ৫০। ভেতরে-বাইরে আলকাতরার প্রলেপ, আর পানি চিরে এগোনোর জন্য ঢালু সামনের দিক।"
+          },
+          {
+            "en": "The figures then part ways. Qatadah gave 300 cubits by 50; al-Hasan 600 by 300; al-Hasan with Ibn Abbas (RA) 1,200 by 600; and it was said 2,000 by 100. Ibn Kathir again closes with Allah knows best. On one point he says they all agree: 30 cubits high, three decks of 10 cubits each, the lowest for animals tame and wild, the middle for people, the top for birds, with a door in its side and a cover over the top.",
+            "bn": "এরপর সংখ্যাগুলো আলাদা হয়ে যায়। কাতাদা বলেছেন ৩০০ হাত লম্বা, ৫০ হাত চওড়া। হাসান বলেছেন ৬০০ আর ৩০০। হাসান ও ইবন আব্বাস (রাঃ) একসঙ্গে বলেছেন ১,২০০ আর ৬০০। আবার বলা হয়েছে ২,০০০ আর ১০০। ইবন কাসীর আবারও শেষ করেন আল্লাহই ভালো জানেন বলে। একটি বিষয়ে তাঁর ভাষায় সবাই একমত: উচ্চতা ৩০ হাত, তিনটি তলা, প্রতিটি ১০ হাত। সবচেয়ে নিচে গৃহপালিত ও বুনো পশু, মাঝে মানুষ, উপরে পাখি। পাশে একটি দরজা, আর উপরে পুরোটা ঢাকা এক আচ্ছাদন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives another set from some historical narratives, 300 yards by 50 by 30 in its English, and names a different wood, the sal tree. The reports do not agree on the wood, the size or the years, and the first of them, as Ibn Kathir records it, was taken from the Torah. He also cites through Ibn Jarir a long report from Ibn Abbas (RA) about Isa (AS) raising a son of Nuh (AS) to describe the ship, and calls it gharib, strange. The Qur'an's own description is 54:13: a thing of planks and nails.",
+            "bn": "মাআরিফুল কুরআন কিছু ঐতিহাসিক বর্ণনা থেকে আরেকটি মাপ দেয়: ৩০০ গজ লম্বা, ৫০ গজ চওড়া, ৩০ গজ উঁচু। কাঠের নামও সেখানে আলাদা, শাল গাছ। কাঠ, মাপ, বছর, কোনোটিতেই বর্ণনাগুলো মেলে না। আর ইবন কাসীরের লেখা অনুযায়ী প্রথম বর্ণনাটি এসেছে তাওরাত থেকে। ইবন জারীরের সূত্রে তিনি ইবন আব্বাস (রাঃ) থেকে একটি দীর্ঘ বর্ণনাও আনেন। তাতে ঈসা (আঃ) নূহ (আঃ)-এর এক পুত্রকে জীবিত করে নৌকার বিবরণ শোনেন। ইবন কাসীর একে বলেন গরীব, অর্থাৎ অদ্ভুত। কুরআনের নিজের বিবরণ ৫৪:১৩ আয়াতে: তক্তা আর পেরেকের তৈরি এক বাহন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Do Not Address Me About Them",
+          "bn": "তাদের জন্য আর কিছু বলো না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the bar its fullest wording: do not ask Me for pardon for these of your people who wronged themselves, earning for themselves, by their transgression in disbelieving in Allah, destruction by drowning. He then quotes Ibn Jurayj: wa la tukhatibni means do not come back to Me about it, and he had already been commanded not to intercede for them. Ma'arif al-Qur'an says the same in plain terms: he was told the flood would come, and that he was not to intercede for them out of compassion.",
+            "bn": "নিষেধটির সবচেয়ে পূর্ণ ভাষ্য দেন তাবারী: তোমার জাতির যারা নিজেদের উপর জুলুম করেছে, আল্লাহকে অস্বীকার করে সীমা ছাড়িয়ে নিজেরাই নিজেদের জন্য ডুবে ধ্বংস হওয়া কামাই করেছে, তাদের ক্ষমার জন্য আমার কাছে আবেদন করো না। এরপর তিনি ইবন জুরাইজের কথা আনেন। ওয়ালা তুখাতিবনী মানে, এ বিষয়ে আমার কাছে আর ফিরে এসো না। আর তাঁকে আগেই বলে দেওয়া হয়েছিল, তিনি যেন তাদের জন্য সুপারিশ না করেন। মাআরিফুল কুরআন একই কথা সহজ করে বলে: তাঁকে জানানো হয়েছিল যে প্লাবন আসবে, আর দয়াপরবশ হয়ে তিনি যেন তাদের পক্ষে সুপারিশ না করেন।"
+          },
+          {
+            "en": "Others name the request more narrowly. Al-Qurtubi and al-Muyassar read it as do not ask for respite for them; al-Baghawi's first reading says the same and adds, for I have ruled that they drown. As-Sa'di: do not come back to Me about destroying them, for the word has become due upon them and the decree has taken effect. Al-Baghawi records a second view, introduced with it was said: do not address Me about your son Kan'an and your wife Wa'ilah. How the bar met a later call of his is taken up at 11:47.",
+            "bn": "অন্যরা আবেদনটাকে আরও নির্দিষ্ট করে বলেন। কুরতুবী ও মুয়াসসার এর মানে করেন, তাদের জন্য অবকাশ চেয়ো না। বাগাভীর প্রথম মতও তাই, সঙ্গে যোগ করেন: কেননা আমি তাদের ডুবিয়ে দেওয়ার ফয়সালা করে ফেলেছি। সা'দী বলেন, তাদের ধ্বংসের ব্যাপারে আমার কাছে আর ফিরে এসো না, তাদের উপর কথা সাব্যস্ত হয়ে গেছে, তাকদীর কার্যকর হয়ে গেছে। বাগাভী 'বলা হয়েছে' বলে আরেকটি মত আনেন: তোমার ছেলে কিনআন আর তোমার স্ত্রী ওয়াইলার ব্যাপারে আমাকে কিছু বলো না। এ নিষেধের সঙ্গে তাঁর পরের এক আবেদনের সম্পর্ক নিয়ে আলোচনা আছে ১১:৪৭ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Drowned People, Long Gone",
+          "bn": "ডুবে যাওয়া এক অতীত জাতি"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. Those who did wrong are, in at-Tabari and al-Muyassar, a named group: these of your people, who wronged themselves by disbelief. They are a past people, drowned, and the verse describes what it describes about them. It licenses nothing against any living person or community, and no reader today holds the revelation of 11:36 about anyone. None of the commentaries consulted attaches a saying of the Prophet ﷺ to the verse. Ma'arif al-Qur'an mentions hadith reports of Jibril teaching the craft but names none, so they are not used.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারী ও মুয়াসসারের কাছে যারা জুলুম করেছে, তারা নির্দিষ্ট একটি দল: তোমার জাতির এই লোকেরা, যারা কুফরি করে নিজেদের উপর জুলুম করেছে। তারা অতীতের এক জাতি, ডুবে গেছে। আয়াত তাদের ব্যাপারে যা বলে, শুধু তা-ই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আর ১১:৩৬ আয়াতের মতো কারও ব্যাপারে ওয়াহী আজকের কোনো পাঠকের হাতে নেই। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জোড়েনি। মাআরিফুল কুরআন জিবরীলের শেখানোর ব্যাপারে হাদীসের বর্ণনার কথা বলে, কিন্তু কোনোটির নাম দেয় না। তাই সেগুলো এখানে নেওয়া হয়নি।"
+          },
+          {
+            "en": "Beside 23:27, the phrase bi-a'yunina returns in two more places. 54:13 and 54:14 tell of the same ship from its other end: carried on planks and nails, it sails bi-a'yunina, a reward for the one who had been denied. And 52:48 gives the words to the Prophet ﷺ himself: be patient for the decision of your Lord, for you are bi-a'yunina.",
+            "bn": "২৩:২৭ ছাড়াও বি-আ'য়ুনিনা শব্দবন্ধ আরও দুই জায়গায় ফিরে আসে। ৫৪:১৩ ও ৫৪:১৪ আয়াত একই নৌকার কথা বলে অন্য প্রান্ত থেকে। তক্তা আর পেরেকের বাহনে তাঁকে বহন করা হলো, আর সেটা ভেসে চলল বি-আ'য়ুনিনা, যাকে অস্বীকার করা হয়েছিল তার প্রতিদান হিসেবে। আর ৫২:৪৮ আয়াতে কথাটা বলা হয় স্বয়ং নবী ﷺ-কে: তোমার রবের ফয়সালার জন্য ধৈর্য ধরো, কেননা তুমি বি-আ'য়ুনিনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Planks Under Watch",
+          "bn": "চোখের সামনে তক্তা জোড়া"
+        },
+        "p": [
+          {
+            "en": "The verse hands a man who has just been told his life's calling is closed a set of tools, and two assurances with them: he will be shown how, and he will be seen while he does it. Most work that matters begins without the skill for it. Start it anyway, as you were told, and let being watched be the comfort the commentators found in the phrase, keeping and guarding, rather than a weight. The case for those already judged is not yours to reopen; the planks in front of you are.",
+            "bn": "যাঁকে এইমাত্র জানানো হলো যে তাঁর জীবনের দাওয়াতের অধ্যায় শেষ, আয়াত তাঁর হাতে তুলে দেয় যন্ত্রপাতি, আর সঙ্গে দুটি আশ্বাস। কীভাবে করতে হবে, দেখিয়ে দেওয়া হবে। আর করার সময় তাঁকে দেখা হবে। গুরুত্বপূর্ণ বেশির ভাগ কাজ শুরু হয় দক্ষতা ছাড়াই। তবু যেভাবে বলা হয়েছে সেভাবে শুরু করুন। আর দেখা হচ্ছে, এ কথাকে বোঝা না ভেবে সেই সান্ত্বনা হিসেবে নিন, যা তাফসীরকারেরা এ শব্দে পেয়েছেন: হেফাজত আর পাহারা। যাদের ফয়সালা হয়ে গেছে, তাদের মামলা আবার খোলা আপনার কাজ নয়। আপনার কাজ সামনের তক্তাগুলো।"
+          },
+          {
+            "en": "Two questions to carry. What have you been given to build that you keep deferring because nobody trained you for it, and what would change if you began it believing you are seen? And is there a verdict on someone that you have been carrying as if it were yours, when it was never given to you and the Qur'an gave it, in this verse, only about a people long gone?",
+            "bn": "সঙ্গে নেওয়ার মতো দুটি প্রশ্ন। আপনাকে কী গড়তে দেওয়া হয়েছে, যা আপনি পিছিয়ে যাচ্ছেন কারণ কেউ আপনাকে শেখায়নি? আর যদি এই বিশ্বাস নিয়ে শুরু করেন যে আপনাকে দেখা হচ্ছে, তাহলে কী বদলাবে? আর কারও ব্যাপারে এমন কোনো রায় কি আপনি বয়ে বেড়াচ্ছেন, যেন রায়টা আপনার? অথচ সে রায় কখনো আপনাকে দেওয়া হয়নি। এ আয়াতে কুরআন সে রায় দিয়েছে কেবল বহু আগে চলে যাওয়া এক জাতির ব্যাপারে।"
+          }
+        ]
+      }
+    ]
+  },
   "11:40": {
     "sections": [
       {

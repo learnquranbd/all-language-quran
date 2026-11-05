@@ -21591,6 +21591,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Prophet ﷺ is told how the story of Nuh (AS) ended so that he can hold firm in his own. Patience is steadier when the end is known: it belongs to the mindful.",
     "lessonBn": "নূহ (আঃ)-এর কাহিনি কীভাবে শেষ হলো, নবী ﷺ-কে তা জানানো হয়েছে, যাতে নিজের পথে তিনি অবিচল থাকেন। শেষটা জানা থাকলে ধৈর্য মজবুত হয়: শেষ পরিণাম মুত্তাকীদের।"
+  },
+  "11:37": {
+    "reflectionEn": "The calling is over. Nobody else from his people will believe, and the next instruction is a practical one: build a ship. Nuh (AS) is no carpenter; the instruction comes with two companions, under Our eyes and Our revelation. He is told what to make and watched while he makes it. Then a door closes that he might have wanted open: do not address Me about those who did wrong, for they are to be drowned. The verse gives him work, not a debate. I know the pull to keep arguing a settled case, and the fear of starting a task I was never trained for. This verse puts both in the hands of the One who watches, and asks me to get on with the planks.",
+    "reflectionBn": "দাওয়াতের অধ্যায় শেষ। তাঁর জাতির আর কেউ ঈমান আনবে না। এরপর যে হুকুম আসে, তা একেবারে হাতের কাজ: একটা নৌকা বানাও। নূহ (আঃ) কাঠমিস্ত্রি নন। তাই হুকুমের সঙ্গে আসে দুটি আশ্বাস: আমার চোখের সামনে, আমার ওয়াহী অনুযায়ী। কী বানাতে হবে, তাঁকে বলে দেওয়া হবে, আর বানানোর সময় তাঁকে দেখা হবে। তারপর এমন একটা দরজা বন্ধ হয়, যা হয়তো তিনি খোলা রাখতে চাইতেন: যারা জুলুম করেছে, তাদের ব্যাপারে আমাকে আর কিছু বলো না, তারা ডুববেই। আয়াত তাঁকে তর্ক দেয় না, কাজ দেয়। মীমাংসা হয়ে যাওয়া বিষয়ে বারবার মামলা লড়ার টান আমি চিনি। যে কাজ কখনো শিখিনি, তা শুরু করার ভয়ও চিনি। এ আয়াত দুটোকেই তুলে দেয় তাঁর হাতে, যিনি দেখছেন। আর আমাকে বলে, তক্তাগুলো হাতে নাও।",
+    "pointsEn": [
+      "What task has been placed in front of me that I keep postponing because I feel untrained for it?",
+      "If I truly believed I was working under His watch, what would change in how I do my most ordinary work?",
+      "Is there a matter already settled that I keep reopening in my head, and what would it take to let it rest?",
+      "Do I measure my work by the number of people who approve of it, or by whether it was done as I was told?",
+      "Where has my strongest certainty about someone's end come from, and was it ever mine to hold?"
+    ],
+    "pointsBn": [
+      "আমার সামনে কোন কাজটা রাখা আছে, যা আমি পিছিয়ে যাচ্ছি শুধু এই ভেবে যে ওটা আমি পারি না?",
+      "সত্যিই যদি বিশ্বাস করতাম যে আমি তাঁর চোখের সামনে কাজ করছি, তাহলে আমার একেবারে সাধারণ কাজের ধরনে কী বদলাত?",
+      "মীমাংসা হয়ে গেছে এমন কোনো বিষয় কি আমি মনে মনে বারবার খুলে বসি? ওটাকে থামতে দিতে আমার কী লাগবে?",
+      "নিজের কাজ আমি মাপি কতজন পছন্দ করল তা দিয়ে, নাকি যেভাবে বলা হয়েছিল সেভাবে হলো কিনা তা দিয়ে?",
+      "কারও শেষ পরিণতি নিয়ে আমার সবচেয়ে দৃঢ় ধারণাটা কোথা থেকে এসেছে? সে রায় কি কখনো আমার হাতে ছিল?"
+    ],
+    "lessonEn": "When the arguing is over, the work begins. Do the task you were given as you were taught it, knowing you are watched, and leave the verdict on others to Allah.",
+    "lessonBn": "তর্ক যখন শেষ, তখন কাজের শুরু। যে কাজ দেওয়া হয়েছে, যেভাবে শেখানো হয়েছে সেভাবেই করুন, জেনে রাখুন আপনাকে দেখা হচ্ছে, আর অন্যদের রায় আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
