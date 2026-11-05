@@ -21691,6 +21691,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Those who follow a leader into wrong share his road and its end. Ask whose command you walk behind, and who is walking behind you.",
     "lessonBn": "যারা কোনো নেতার পেছনে অন্যায়ের পথে হাঁটে, তারা তার পথেরও শরিক, পরিণামেরও। ভেবে দেখুন, আপনি কার হুকুমের পেছনে হাঁটছেন, আর আপনার পেছনে কে হাঁটছে।"
+  },
+  "11:105": {
+    "reflectionEn": "The surah has told of town after town, and now it turns to a Day on which no soul speaks unless it is given leave. The arguers, the excuse-makers, the eloquent: all of them wait. Then the whole gathering is divided by two words, wretched and happy, and nothing else about a person is named. Not wealth, not family, not the arguments that won here. The verse does not tell me which word is mine, and it does not tell me which word belongs to anyone else. What it leaves me is today: words I can still speak freely, and deeds I can still choose. Which of them would I want beside me when every voice falls silent?",
+    "reflectionBn": "সূরাটি একের পর এক জনপদের কথা শুনিয়েছে। এবার সে ফিরছে এমন এক দিনের দিকে, যেদিন অনুমতি না পেলে কেউ মুখ খুলবে না। যারা তর্ক করত, অজুহাত দিত, কথার জোরে জিতে যেত, সবাই সেদিন অপেক্ষায়। তারপর গোটা সমাবেশ ভাগ হয়ে যায় দুটি শব্দে: হতভাগা আর সৌভাগ্যবান। মানুষের আর কোনো পরিচয়ের নাম নেই। না ধনসম্পদ, না বংশ, না দুনিয়ায় জিতে যাওয়া যুক্তি। কোন শব্দটা আমার, আয়াত তা বলে না। অন্য কারও ভাগে কোনটা, তাও বলে না। আমার হাতে সে রেখে যায় শুধু আজকের দিনটা: যে কথা এখনো স্বাধীনভাবে বলতে পারি, যে আমল এখনো বেছে নিতে পারি। সব কণ্ঠ যেদিন থেমে যাবে, এর কোনগুলো আমি পাশে চাইব?",
+    "pointsEn": [
+      "If every word I spoke today had to wait for permission, which of them would I still say?",
+      "Do I treat my freedom to speak now as something I will be asked about, or as something that costs nothing?",
+      "When I read of the two groups, do I catch myself quietly sorting other people into them?",
+      "Has the thought that the end is already written ever made me slack, when it should have made me work?",
+      "What one deed this week would I most want found with me on the Day the voices are hushed?"
+    ],
+    "pointsBn": [
+      "আজ যত কথা বলেছি, প্রতিটির জন্য যদি অনুমতি লাগত, তাহলে কোনগুলো তবুও বলতাম?",
+      "এখন যে মুখ খোলার স্বাধীনতা পেয়েছি, তা কি এমন জিনিস ভাবি যার হিসাব দিতে হবে, নাকি ভাবি এতে কোনো দাম লাগে না?",
+      "দুই দলের কথা পড়ে আমি কি চুপিচুপি অন্য মানুষদের এক দলে বা আরেক দলে বসিয়ে দিই?",
+      "শেষ পরিণাম লেখা হয়ে আছে, এই ভাবনা কি কখনো আমাকে ঢিলে করে দিয়েছে, যেখানে এর কাজ ছিল আমাকে আমলে লাগিয়ে দেওয়া?",
+      "যেদিন সব কণ্ঠ নিচু হয়ে যাবে, এ সপ্তাহের কোন একটি আমল আমি সবচেয়ে বেশি নিজের সঙ্গে পেতে চাইব?"
+    ],
+    "lessonEn": "On that Day no one speaks without His leave, and people part into wretched and happy. Spend your words and deeds well now, and pronounce no one's end.",
+    "lessonBn": "সেদিন তাঁর অনুমতি ছাড়া কেউ কথা বলবে না, আর মানুষ ভাগ হবে হতভাগা ও সৌভাগ্যবানে। কথা ও আমল এখনই ঠিকভাবে কাজে লাগান, আর কারও পরিণাম নিয়ে রায় দেবেন না।"
   }
 };
 

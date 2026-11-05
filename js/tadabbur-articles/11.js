@@ -4423,6 +4423,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:105": {
+    "sections": [
+      {
+        "h": {
+          "en": "When That Day Arrives",
+          "bn": "যখন সে দিনটি আসবে"
+        },
+        "p": [
+          {
+            "en": "The accounts of ruined towns closed at 11:102 with the seizure of your Lord, and 11:103 and 11:104 turned to the Day itself: gathered, witnessed, and held back only for a counted term. This verse begins where that left off. Yawma ya'ti, the Day it comes. At-Tabari glosses it as the Day on which the Day of Resurrection comes, O people, and the Hour is established. Ibn Kathir reads the subject the same way: this Day, the Day of Resurrection.",
+            "bn": "ধ্বংস হয়ে যাওয়া জনপদগুলোর বিবরণ ১১:১০২ আয়াতে শেষ হয়েছে আপনার রবের পাকড়াওয়ের কথা দিয়ে। এরপর ১১:১০৩ ও ১১:১০৪ ফিরেছে সেই দিনের দিকে, যেদিন সবাইকে জড়ো করা হবে, যেদিন সবাই হাজির থাকবে, আর যাকে পিছিয়ে রাখা হয়েছে শুধু গোনা একটি মেয়াদ পর্যন্ত। এ আয়াত শুরু সেখান থেকেই: ইয়াওমা ইয়া'তি, যেদিন তা আসবে। তাবারী ব্যাখ্যা করেন, হে মানুষ, যেদিন কিয়ামতের দিন এসে যাবে আর সেই নির্ধারিত ক্ষণ কায়েম হবে। ইবন কাসীরও কর্তা ধরেন একই: এই দিন, অর্থাৎ কিয়ামতের দিন।"
+          },
+          {
+            "en": "Counted in the Arabic text, the verse is ten words, with a pause mark after the seventh. The first seven say who may speak on that Day. The last three, fa-minhum shaqiyyun wa sa'id, say what becomes of those standing there: among them are the wretched and the happy. 11:106 to 11:108 then take the two groups one at a time, and the exception those verses carry is treated at 11:108. This article stays with the silence and the division.",
+            "bn": "আরবি পাঠে গুনলে আয়াতটিতে দশটি শব্দ, সপ্তম শব্দের পরে একটি থামার চিহ্ন। প্রথম সাতটি শব্দ বলে সেদিন কে কথা বলতে পারবে। শেষ তিনটি, ফামিনহুম শাকিয়্যুন ওয়া সাঈদ, বলে সেখানে যারা দাঁড়িয়ে থাকবে তাদের কী হবে: তাদের মধ্যে কেউ হতভাগা, কেউ সৌভাগ্যবান। এরপর ১১:১০৬ থেকে ১১:১০৮ আয়াত দুই দলকে একে একে তুলে ধরে। ওই আয়াতগুলোর ভেতরের ব্যতিক্রমের আলোচনা আছে ১১:১০৮-এ। এ লেখা থাকবে সেদিনের নীরবতা আর দুই ভাগে ভাগ হয়ে যাওয়া নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Letter the Script Leaves Out",
+          "bn": "লিপিতে বাদ পড়া একটি হরফ"
+        },
+        "p": [
+          {
+            "en": "The first words are recited in several ways, and at-Tabari lists the readers. Most readers of Madinah keep the final ya of ya'ti. Some of Basra and some Kufans keep it when reading on and drop it when pausing. A group of Kufans drop it in both. At-Tabari prefers the last, to follow the script of the mushaf, and because it is a known usage of Hudhayl, who say ma adr for ma adri, I do not know.",
+            "bn": "প্রথম শব্দগুলো একাধিকভাবে পড়া হয়, আর তাবারী কারীদের মত তুলে ধরেন। মদীনার অধিকাংশ কারী ইয়া'তি শব্দের শেষের ইয়া রেখে পড়েন। বসরার কয়েকজন আর কূফার কয়েকজন পড়া চালিয়ে গেলে ইয়া রাখেন, থামলে বাদ দেন। কূফার একদল দুই অবস্থাতেই বাদ দেন। তাবারী শেষেরটিকেই বেছে নেন। কারণ এতে মুসহাফের লিপি অনুসরণ করা হয়, আর হুযাইল গোত্রের পরিচিত বাকরীতিও এমন: তারা 'মা আদরী' (আমি জানি না) না বলে বলে 'মা আদর'।"
+          },
+          {
+            "en": "Al-Qurtubi gives the spread through an-Nahhas, naming Hamzah and al-A'mash for dropping the ya throughout, and records az-Zajjaj: in grammar the better form keeps it, yet what he holds is to follow the mushaf and the agreement of the readers, because recitation is a sunnah. The second verb is shortened too. Takallamu stands for tatakallamu, will speak, with one of its two ta's dropped. At-Tabari says the remaining one is enough to show it; al-Qurtubi says it was dropped for lightness.",
+            "bn": "কুরতুবী নাহহাসের সূত্রে একই বিভিন্নতা তুলে ধরেন, আর বলেন হামযা ও আ'মাশ সব অবস্থায় ইয়া ছাড়া পড়েন। তিনি যাজ্জাজের কথাও আনেন: ব্যাকরণের দিক থেকে ইয়া রাখাই উত্তম, তবু তাঁর মত হলো মুসহাফ আর কারীদের ঐকমত্য মেনে চলা, কারণ কিরাআত হলো সুন্নাহ। দ্বিতীয় ক্রিয়াটিও ছোট করা। তাকাল্লামু আসলে তাতাকাল্লামু, অর্থাৎ কথা বলবে। দুটি তা-এর একটি বাদ পড়েছে। তাবারী বলেন, বাকি তা-ই অর্থ বোঝাতে যথেষ্ট। কুরতুবী বলেন, উচ্চারণ হালকা করতেই একটি ফেলে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Voice Waits for Leave",
+          "bn": "প্রতিটি কণ্ঠ অনুমতির অপেক্ষায়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the clause plainly: on that Day no one speaks except by the leave of Allah. He sets two verses beside it. 78:38 says they will not speak, except him whom the Most Merciful permits and who says what is right. 20:108 says the voices are humbled before the Most Merciful, so that you hear nothing but a whisper. As-Sa'di widens the circle: not even the prophets and the noble angels intercede, except by His leave.",
+            "bn": "ইবন কাসীর অংশটির সোজা ব্যাখ্যা দেন: সেদিন আল্লাহর অনুমতি ছাড়া কেউ কথা বলবে না। পাশে তিনি দুটি আয়াত রাখেন। ৭৮:৩৮ বলে, তারা কথা বলবে না, তবে পরম দয়ালু যাকে অনুমতি দেবেন আর যে সঠিক কথা বলবে, সে ছাড়া। ২০:১০৮ বলে, পরম দয়ালুর সামনে সব কণ্ঠ নিচু হয়ে যাবে, মৃদু শব্দ ছাড়া আর কিছুই আপনি শুনবেন না। সা'দী পরিধি আরও বাড়ান: নবীরা আর সম্মানিত ফেরেশতারাও তাঁর অনুমতি ছাড়া সুপারিশ করবেন না।"
+          },
+          {
+            "en": "Ibn Kathir then cites, from the two Sahihs, a line of the long hadith of intercession. Al-Bukhari's wording (806), from Abu Hurayrah (RA), places it where the bridge is laid across Hell: no one will speak that Day except the messengers, and the speech of the messengers that Day will be, O Allah, keep safe, keep safe. Those given leave to speak use it to ask for safety. The hadith is long and concerns the whole Day; Ibn Kathir brings this one line of it here.",
+            "bn": "এরপর ইবন কাসীর দুই সহীহ গ্রন্থ থেকে শাফাআতের দীর্ঘ হাদীসের একটি বাক্য আনেন। বুখারীর (৮০৬) বর্ণনায়, আবু হুরায়রা (রাঃ) থেকে, কথাটি এসেছে জাহান্নামের উপর পুল স্থাপনের প্রসঙ্গে: সেদিন রাসূলগণ ছাড়া কেউ কথা বলবে না, আর সেদিন রাসূলদের কথা হবে: হে আল্লাহ, নিরাপদ রাখো, নিরাপদ রাখো। যাঁরা কথা বলার অনুমতি পাবেন, তাঁরাও সে অনুমতি খরচ করবেন নিরাপত্তা চেয়ে। হাদীসটি দীর্ঘ, পুরো দিনের বিবরণ তাতে। ইবন কাসীর এখানে শুধু এই বাক্যটি এনেছেন।"
+          },
+          {
+            "en": "What exactly is withheld? Al-Qurtubi records three answers. One reads an implied word, on it: no soul speaks on that Day except with the good speech that is permitted, because they are compelled to leave off what is ugly. Another says no one speaks with an argument or an intercession except by His leave. A third says there is a time in the standing during which they are barred from speech, except by His leave. The third already points at the difficulty the next section takes up.",
+            "bn": "ঠিক কী আটকে রাখা হবে? কুরতুবী তিনটি জবাব উল্লেখ করেন। এক মতে এখানে একটি শব্দ উহ্য আছে, 'সেদিন': সেদিন অনুমোদিত সুন্দর কথা ছাড়া কেউ কিছু বলবে না, কারণ মন্দ কথা ছেড়ে দিতে তারা বাধ্য থাকবে। আরেক মতে, তাঁর অনুমতি ছাড়া কেউ কোনো যুক্তি বা সুপারিশ নিয়ে মুখ খুলবে না। তৃতীয় মতে, হাশরের ময়দানে এমন একটা সময় আসবে, যখন তাঁর অনুমতি ছাড়া তাদের কথা বলতে দেওয়া হবে না। এই তৃতীয় মতই সেই জটিলতার দিকে ইঙ্গিত করে, যা নিয়ে পরের অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silent, Yet Pleading for Itself",
+          "bn": "নীরব, তবু নিজের পক্ষে সওয়াল"
+        },
+        "p": [
+          {
+            "en": "A reader soon meets verses that seem to say otherwise, and al-Qurtubi writes that this verse is among those most often raised by people who deviate in religion. He lists the objections himself. 77:35 and 77:36: a Day they will not speak, nor be permitted to offer excuses. 37:27: they will turn to one another, questioning. 16:111: a Day every soul comes pleading for itself. 37:24: stop them, they are to be questioned. And 55:39: on that Day no human or jinn will be asked about his sin.",
+            "bn": "পাঠক অচিরেই এমন কিছু আয়াতের মুখোমুখি হন, যেগুলো আপাতদৃষ্টিতে উল্টো কথা বলে। কুরতুবী লেখেন, দ্বীনের ব্যাপারে বাঁকা পথ ধরা লোকেরা যেসব আয়াত নিয়ে সবচেয়ে বেশি প্রশ্ন তোলে, এটি তার একটি। আপত্তিগুলো তিনি নিজেই সাজিয়ে দেন। ৭৭:৩৫ ও ৭৭:৩৬: এমন দিন, যেদিন তারা কথা বলবে না, অজুহাত দেওয়ার অনুমতিও পাবে না। ৩৭:২৭: তারা একে অপরের দিকে ফিরে পরস্পরকে প্রশ্ন করবে। ১৬:১১১: যেদিন প্রত্যেকে নিজের পক্ষে সওয়াল করতে করতে আসবে। ৩৭:২৪: তাদের থামাও, তাদের জিজ্ঞাসা করা হবে। আর ৫৫:৩৯: সেদিন কোনো মানুষ বা জিনকে তার গুনাহ সম্পর্কে জিজ্ঞাসা করা হবে না।"
+          },
+          {
+            "en": "His own answer comes first. What they cannot utter is an argument that would count in their favour. They do speak: they confess their sins, blame each other, and throw their sins onto each other. But speech carrying a proof for them, no. He compares it to how you might answer someone who talks at length with nothing behind it: you said nothing, you uttered nothing. Speech without a proof, he says, is named no speech at all.",
+            "bn": "প্রথমে আসে তাঁর নিজের জবাব। তারা যা বলতে পারবে না, তা হলো এমন যুক্তি যা তাদের পক্ষে কাজে আসবে। কথা তারা বলবে ঠিকই: নিজেদের গুনাহ স্বীকার করবে, একে অপরকে দোষ দেবে, নিজের গুনাহ অন্যের ঘাড়ে চাপাবে। কিন্তু নিজেদের পক্ষে প্রমাণ নিয়ে কথা, তা হবে না। তিনি উপমা দেন: কেউ অনেকক্ষণ কথা বলল, অথচ তাতে সারবস্তু কিছু নেই, তখন তাকে বলা হয়, তুমি তো কিছুই বললে না। প্রমাণহীন কথাকে তাই কথাই ধরা হয় না।"
+          },
+          {
+            "en": "Then he records the view of a group: that Day is long, with stations and halts. At some of them people are prevented from speaking, and at others speech is released to them, and this, he says, shows that no soul speaks except by His leave. Al-Qurtubi presents the first answer as his own and records the second as theirs, without setting the two against each other. On either reading, the pleading of 16:111 does not break the leave of this verse.",
+            "bn": "এরপর তিনি একদল আলেমের মত উল্লেখ করেন: সেদিনটি দীর্ঘ, তাতে আছে অনেক অবস্থান ও পর্ব। কোনো কোনো পর্বে তাদের কথা বলতে দেওয়া হবে না, আবার কোনো পর্বে কথা বলার সুযোগ খুলে দেওয়া হবে। তাঁর ভাষায়, এ থেকেই বোঝা যায় যে তাঁর অনুমতি ছাড়া কেউ কথা বলবে না। প্রথম জবাবটি কুরতুবী নিজের বলে পেশ করেন, দ্বিতীয়টি ওই দলের মত হিসেবে আনেন, আর দুটিকে পরস্পরের বিপক্ষে দাঁড় করান না। যে ব্যাখ্যাই ধরা হোক, ১৬:১১১-এর সওয়াল এ আয়াতের অনুমতির শর্ত ভাঙে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Words for the Whole Crowd",
+          "bn": "গোটা সমাবেশের জন্য দুটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-minhum, and among them. At-Tabari takes them to be these same souls that do not speak on the Day except by their Lord's leave, and notes that the pronoun is plural although nafs, soul, is singular in its wording. Ibn Kathir says: of the people of the gathering, some are wretched and some happy, and he pairs it with 42:7, a party in the Garden and a party in the Blaze. Al-Qurtubi allows either the souls or the people, the people named in 11:103.",
+            "bn": "ফামিনহুম, আর তাদের মধ্যে। তাবারীর মতে এরা সেই একই প্রাণ, যারা সেদিন রবের অনুমতি ছাড়া কথা বলবে না। তিনি দেখান, নাফস শব্দটি বাহ্যত একবচন, অথচ এর দিকে ফেরানো সর্বনাম বহুবচন। ইবন কাসীর বলেন: হাশরে সমবেত মানুষের মধ্যে কেউ হতভাগা, কেউ সৌভাগ্যবান। এর সঙ্গে তিনি মেলান ৪২:৭, একদল জান্নাতে আর একদল জ্বলন্ত আগুনে। কুরতুবী দুটোই সম্ভব মনে করেন: প্রাণসমূহ, অথবা মানুষ, যাদের কথা ১১:১০৩ আয়াতে এসেছে।"
+          },
+          {
+            "en": "What the two words mean is given from two sides. Al-Qurtubi says the shaqiyy is the one on whom wretchedness was written, and the sa'id the one on whom happiness was written, and he quotes a line of Labid: among them is a happy one taking his share, and among them a wretched one content with his living. Al-Baghawi words it as the one for whom wretchedness went ahead, and the one for whom happiness went ahead.",
+            "bn": "দুটি শব্দের অর্থ দুই দিক থেকে বলা হয়েছে। কুরতুবী বলেন, শাকিয়্য সে, যার নামে দুর্ভাগ্য লেখা হয়েছে, আর সাঈদ সে, যার নামে সৌভাগ্য লেখা হয়েছে। প্রমাণ হিসেবে তিনি কবি লাবীদের একটি পঙক্তি আনেন: তাদের কেউ সৌভাগ্যবান, নিজের ভাগ বুঝে নেয়, আর কেউ হতভাগা, যৎসামান্য জীবিকাতেই তুষ্ট। বাগাভীর ভাষায়: একজন, যার জন্য দুর্ভাগ্য আগেই নির্ধারিত হয়ে গেছে, আর একজন, যার জন্য সৌভাগ্য আগেই নির্ধারিত হয়ে গেছে।"
+          },
+          {
+            "en": "The other side describes the two by what they did and what they meet. Al-Muyassar: wretched, deserving the punishment; happy, favoured with bliss. As-Sa'di: the wretched are those who disbelieved in Allah, belied His messengers and disobeyed His command, and the happy are the believers who are mindful of Him. The first pair of glosses looks at what was written; the second at deeds and where they end. The two reports in the next sections are where the question between them was actually asked.",
+            "bn": "অন্য দিকটি দুই দলকে চেনায় তাদের কাজ আর পরিণাম দিয়ে। মুয়াসসার বলে: হতভাগা মানে যে শাস্তির উপযুক্ত, আর সৌভাগ্যবান মানে যাকে অনুগ্রহ করে নিয়ামত দেওয়া হয়েছে। সা'দী বলেন: হতভাগা তারা, যারা আল্লাহকে অস্বীকার করেছে, তাঁর রাসূলদের মিথ্যা বলেছে আর তাঁর হুকুম অমান্য করেছে। আর সৌভাগ্যবান হলো মুত্তাকী মুমিনরা। প্রথম দুটি ব্যাখ্যার চোখ লেখা তাকদীরের দিকে, পরের দুটির চোখ আমল আর তার পরিণতির দিকে। এ দুইয়ের মাঝের প্রশ্নটি সত্যিই একদিন করা হয়েছিল, তা আছে পরের দুই অংশের বর্ণনায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question as It Came Down",
+          "bn": "আয়াত নামতেই এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi cites at-Tirmidhi for this report, and Ibn Kathir brings it through the Musnad of Abu Ya'la. In at-Tirmidhi's wording (3111), Ibn 'Umar narrates that 'Umar ibn al-Khattab (RA) said: when this verse came down, among them are the wretched and the happy, I asked the Messenger of Allah ﷺ: Prophet of Allah, on what then do we act? On something already finished, or on something not yet finished? He said: rather on something already finished, over which the pens have run, O 'Umar. But each is eased to what he was created for.",
+            "bn": "কুরতুবী বর্ণনাটি উদ্ধৃত করেন তিরমিযী থেকে, আর ইবন কাসীর আনেন আবু ইয়া'লার মুসনাদের সূত্রে। তিরমিযীর (৩১১১) বর্ণনায় ইবন উমর (রাঃ) জানান, উমর ইবনুল খাত্তাব (রাঃ) বলেছেন: যখন এ আয়াত নাযিল হলো, তাদের মধ্যে কেউ হতভাগা, কেউ সৌভাগ্যবান, আমি আল্লাহর রাসূল ﷺ-কে জিজ্ঞাসা করলাম: হে আল্লাহর নবী, তাহলে আমরা কিসের উপর আমল করব? এমন কিছুর উপর, যা আগেই চূড়ান্ত হয়ে গেছে, নাকি যা এখনো চূড়ান্ত হয়নি? তিনি বললেন: বরং যা আগেই চূড়ান্ত হয়ে গেছে, যার উপর কলম চলে গেছে, হে উমর। তবে প্রত্যেকের জন্য সহজ করে দেওয়া হয়, যার জন্য তাকে সৃষ্টি করা হয়েছে।"
+          },
+          {
+            "en": "At-Tirmidhi grades it himself: this hadith is hasan gharib from this route; we know it only from the hadith of 'Abd al-Malik ibn 'Amr. Among the sources consulted, it is the only report that ties itself to this verse in its own words. Notice what the answer does and does not do. It affirms that the matter is written, and it does not explain how the writing and the deed fit together. It turns 'Umar back to the deed, and this article leaves the question where the hadith leaves it.",
+            "bn": "তিরমিযী নিজেই এর মান উল্লেখ করেন: এ সূত্রে হাদীসটি হাসান গরীব; আব্দুল মালিক ইবন আমরের বর্ণনা ছাড়া অন্য কোনো সূত্রে আমরা এটি জানি না। যেসব উৎস দেখা হয়েছে, তার মধ্যে কেবল এ বর্ণনাটিই নিজের শব্দে এই আয়াতের সঙ্গে যুক্ত। জবাবটি কী করে আর কী করে না, খেয়াল করুন। এটি নিশ্চিত করে যে বিষয়টি লেখা হয়ে আছে। কিন্তু লেখা আর আমল কীভাবে মেলে, সে ব্যাখ্যা দেয় না। জবাবটি উমর (রাঃ)-কে ফিরিয়ে দেয় আমলের দিকে। এ লেখাও প্রশ্নটিকে সেখানেই রেখে দিচ্ছে, যেখানে হাদীস রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scratching the Ground at a Funeral",
+          "bn": "জানাযায় মাটিতে আঁচড়"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi brings, under this verse and with his own chain, a report of 'Ali (RA) from a funeral at al-Baqi'. Al-Bukhari records it too, and in his wording (4949) 'Ali says: the Prophet ﷺ was at a funeral. He took something and began scratching the ground with it, and said: there is none of you but his seat in the Fire and his seat in the Garden have been written. They said: Messenger of Allah, shall we not rely on what is written for us, and leave off deeds?",
+            "bn": "বাগাভী এ আয়াতের অধীনে নিজের সনদে আলী (রাঃ)-এর একটি বর্ণনা আনেন, বাকী কবরস্থানে এক জানাযার সময়ের। বুখারীও এটি বর্ণনা করেছেন। তাঁর (৪৯৪৯) ভাষ্যে আলী (রাঃ) বলেন: নবী ﷺ এক জানাযায় ছিলেন। তিনি কিছু একটা হাতে নিয়ে তা দিয়ে মাটিতে আঁচড় কাটতে লাগলেন, তারপর বললেন: তোমাদের প্রত্যেকেরই জাহান্নামের ঠিকানা আর জান্নাতের ঠিকানা লেখা হয়ে গেছে। তাঁরা বললেন: হে আল্লাহর রাসূল, তাহলে আমরা কি আমাদের লেখার উপর ভরসা করে আমল ছেড়ে দেব না?"
+          },
+          {
+            "en": "He said: act, for each is eased to what he was created for. Whoever is of the people of happiness is eased to the deeds of the people of happiness, and whoever is of the people of wretchedness is eased to the deeds of the people of wretchedness. Then he recited: as for one who gives and is mindful, and affirms the best, 92:5 and 92:6. The report ends with Surah al-Layl, not this verse; al-Baghawi brings it here because it speaks in the same two words.",
+            "bn": "তিনি বললেন: আমল করে যাও, কারণ প্রত্যেকের জন্য সহজ করে দেওয়া হয়, যার জন্য তাকে সৃষ্টি করা হয়েছে। যে সৌভাগ্যবানদের দলের, তার জন্য সৌভাগ্যবানদের আমল সহজ করে দেওয়া হয়। আর যে হতভাগাদের দলের, তার জন্য হতভাগাদের আমল সহজ করে দেওয়া হয়। তারপর তিনি তিলাওয়াত করলেন: যে দান করে ও তাকওয়া অবলম্বন করে, আর উত্তম বিষয়কে সত্য বলে মানে, ৯২:৫ ও ৯২:৬। বর্ণনাটি শেষ হয়েছে সূরা আল-লাইলের আয়াতে, এই আয়াতে নয়। বাগাভী একে এখানে এনেছেন, কারণ এতে একই দুটি শব্দের কথা আছে।"
+          },
+          {
+            "en": "So it is a general narration, not one attached to 11:105 by its own wording. Its answer is the same one 'Umar was given, and in this wording it opens with a command: act. Those at the funeral asked exactly what a reader of this verse might ask, whether to rely on the writing and stop. They were not given an explanation of the writing. They were told what to do with the day in front of him.",
+            "bn": "অর্থাৎ এটি সাধারণ বর্ণনা, নিজের শব্দে ১১:১০৫-এর সঙ্গে যুক্ত নয়। তবে এর জবাব সেটাই, যা উমর (রাঃ) পেয়েছিলেন। আর এ ভাষ্যে জবাব শুরুই হয়েছে একটি আদেশ দিয়ে: আমল করো। জানাযায় উপস্থিত সাহাবীরা ঠিক সেই প্রশ্নই করেছিলেন, যা এ আয়াতের পাঠকের মনে জাগতে পারে: লেখার উপর ভরসা করে থেমে যাব কি না। তাঁদের লেখার রহস্য বুঝিয়ে দেওয়া হয়নি। বলা হয়েছে, সামনের দিনটা নিয়ে কী করতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name Is Written Here",
+          "bn": "এ আয়াতে কারও নাম নেই"
+        },
+        "p": [
+          {
+            "en": "The verse names two outcomes and no person. It licenses no one to call any living person, family or community wretched on its strength, and no one to call himself safe. Both reports keep what is written with Allah and hand the listener only the deed. The commentators consulted describe the wretched by unbelief and disobedience and the happy by faith and mindfulness. Read that way, the two words are a measure for the reader's own deeds, not a label to fix on another person.",
+            "bn": "আয়াতটি দুটি পরিণামের নাম বলে, কোনো মানুষের নাম বলে না। এর জোরে কোনো জীবিত মানুষ, পরিবার বা সম্প্রদায়কে হতভাগা বলার অনুমতি কেউ পায় না। নিজেকে নিরাপদ ঘোষণা করার অনুমতিও কেউ পায় না। দুই বর্ণনাতেই যা লেখা আছে তা আল্লাহর কাছে, শ্রোতার হাতে দেওয়া হয়েছে শুধু আমল। যেসব তাফসীর দেখা হয়েছে, সেগুলো হতভাগাদের চেনায় কুফর আর নাফরমানি দিয়ে, সৌভাগ্যবানদের চেনায় ঈমান আর তাকওয়া দিয়ে। এভাবে পড়লে শব্দ দুটি নিজের আমল মাপার মানদণ্ড, অন্য কারও গায়ে সেঁটে দেওয়ার তকমা নয়।"
+          },
+          {
+            "en": "The first half carries its own lesson. Here speech is free: a person can argue, excuse and embellish at will. There, every soul waits for leave, and even the messengers ask only for safety. One habit follows. Before a sharp reply, a clever excuse or a word said only to win, ask whether you would want leave to say it on that Day. And when the thought that everything is written makes the next prayer feel pointless, answer it with the word given at the funeral: act.",
+            "bn": "আয়াতের প্রথম অংশেরও নিজস্ব শিক্ষা আছে। এখানে কথা বলা স্বাধীন: মানুষ ইচ্ছেমতো তর্ক করে, অজুহাত দেয়, কথা সাজিয়ে বলে। সেখানে প্রতিটি প্রাণ অনুমতির অপেক্ষায়, আর রাসূলগণও শুধু নিরাপত্তাই চাইবেন। এ থেকে একটা অভ্যাস তৈরি হয়। কড়া জবাব, চতুর অজুহাত বা শুধু জেতার জন্য বলা কথা মুখে আনার আগে নিজেকে জিজ্ঞাসা করুন: সেদিন এ কথাটি বলার অনুমতি কি আমি চাইতাম? আর সবই তো লেখা আছে, এই ভাবনা যখন পরের নামাজকে অর্থহীন মনে করায়, তখন জানাযায় দেওয়া সেই এক শব্দে জবাব দিন: আমল করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Before the Voices Hush",
+          "bn": "কণ্ঠ থেমে যাওয়ার আগে প্রার্থনা"
+        },
+        "p": [
+          {
+            "en": "The verse is not a supplication, and no source consulted attaches a du'a to it; what follows is composed from its words and is not a transmitted du'a. O Allah, on the Day no soul speaks except by Your leave, give us leave to speak the truth, and make us among the happy. Ease us to the deeds of the people of happiness while there is still time. Questions to carry away: which of my words today would I want repeated there? Have I ever used what is written as a reason to stop? Whose end have I presumed to know?",
+            "bn": "আয়াতটি কোনো দোয়া নয়, আর দেখা কোনো উৎস এর সঙ্গে দোয়া যুক্ত করেনি। নিচের কথাগুলো এর শব্দ থেকে সাজানো, বর্ণিত দোয়া নয়। হে আল্লাহ, যেদিন তোমার অনুমতি ছাড়া কেউ কথা বলবে না, সেদিন আমাদের সত্য বলার অনুমতি দিও, আর আমাদের সৌভাগ্যবানদের দলে রেখো। সময় থাকতেই আমাদের জন্য সৌভাগ্যবানদের আমল সহজ করে দাও। সঙ্গে নেওয়ার কিছু প্রশ্ন: আজকের কোন কথাগুলো আমি সেখানে আবার শুনতে চাইব? লেখা আছে বলে কখনো কি আমল থামিয়ে দিয়েছি? কার পরিণাম আমি জেনে ফেলেছি বলে ধরে নিয়েছি?"
+          }
+        ]
+      }
+    ]
+  },
   "11:108": {
     "sections": [
       {
