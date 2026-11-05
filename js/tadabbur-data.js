@@ -23131,6 +23131,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not seek honour in anything besides Allah; whatever you lean on in His place will deny you on the Day of Resurrection and stand against you.",
     "lessonBn": "আল্লাহকে ছেড়ে অন্য কিছুর মধ্যে সম্মান খুঁজবেন না। তাঁর জায়গায় যার উপর ভর দেবেন, কিয়ামতের দিন সে আপনাকে অস্বীকার করবে আর আপনার বিপক্ষে দাঁড়াবে।"
+  },
+  "20:32": {
+    "reflectionEn": "Musa (AS) has already asked for a helper from his own family and named him: Harun, my brother. He has asked that his back be made strong through him. Now he asks for more: let him share my task. Not walk behind me, not wait at the door, but stand inside the work itself, the same message carried to the same king. The reason follows: so that together they may glorify their Lord much and remember Him much. A helper is someone you lean on; a partner is someone you trust with the thing that matters most. Whom have I only leaned on, when I could have shared the work with them? And when I begin something good, do I first ask Allah for the right companion in it?",
+    "reflectionBn": "মূসা (আঃ) আগেই নিজের পরিবার থেকে একজন সাহায্যকারী চেয়েছেন, নামও বলে দিয়েছেন: আমার ভাই হারূন। চেয়েছেন, তাঁকে দিয়ে যেন তাঁর পিঠ শক্ত হয়। এবার তিনি আরও বেশি চান: তাকে আমার কাজে শরিক করে দাও। পেছনে পেছনে হাঁটার জন্য নয়, দরজায় দাঁড়িয়ে থাকার জন্যও নয়। একই বার্তা নিয়ে একই রাজার সামনে, কাজের একেবারে ভেতরে দাঁড়ানোর জন্য। কারণটাও সঙ্গে সঙ্গে বলে দেন: যাতে দুজনে মিলে রবের তাসবীহ বেশি করে পড়তে পারেন, তাঁকে বেশি করে স্মরণ করতে পারেন। সাহায্যকারী এমন কেউ, যার উপর ভর দেওয়া যায়। আর শরিক এমন কেউ, যার হাতে সবচেয়ে জরুরি জিনিসটা তুলে দেওয়া যায়। কাদের উপর আমি শুধু ভর দিয়েছি, অথচ কাজটা তাদের সঙ্গে ভাগ করে নিতে পারতাম? আর ভালো কোনো কাজ শুরু করার আগে আমি কি আল্লাহর কাছে সঠিক সঙ্গীটি চেয়ে নিই?",
+    "pointsEn": [
+      "What good work am I trying to carry alone that would go better shared, and with whom?",
+      "Before I looked for a partner in it, did I ask Allah to give me the right one?",
+      "When someone works beside me, do I share the decisions and the credit, or only the errands?",
+      "Do I want companions in good work for comfort and standing, or so that more of Allah's remembrance gets done?",
+      "Who has asked me to share in their good work, and how did I answer them?"
+    ],
+    "pointsBn": [
+      "কোন ভালো কাজ আমি একা বয়ে নিতে চাইছি, যা ভাগ করে নিলে আরও ভালো হতো? আর কার সঙ্গে ভাগ করা যেত?",
+      "এ কাজে সঙ্গী খোঁজার আগে আমি কি আল্লাহর কাছে চেয়েছি, তিনি যেন সঠিক মানুষটি দেন?",
+      "কেউ আমার পাশে কাজ করলে আমি কি তার সঙ্গে সিদ্ধান্ত আর কৃতিত্বও ভাগ করি, নাকি শুধু ফাইফরমাশ?",
+      "ভালো কাজে সঙ্গী আমি কেন চাই? নিজের আরাম আর মর্যাদার জন্য, নাকি যাতে আল্লাহর স্মরণ আরও বেশি হয়?",
+      "কেউ যখন তার ভালো কাজে আমাকে শরিক হতে ডেকেছে, আমি তাকে কী জবাব দিয়েছি?"
+    ],
+    "lessonEn": "Do not carry good work alone: ask Allah for a true partner in it, share the task and its counsel, and keep the aim His remembrance.",
+    "lessonBn": "ভালো কাজ একা বয়ে নেবেন না। আল্লাহর কাছে তাতে একজন খাঁটি শরিক চেয়ে নিন, কাজ আর পরামর্শ দুটোই ভাগ করুন, আর লক্ষ্য রাখুন তাঁর স্মরণ।"
   }
 };
 

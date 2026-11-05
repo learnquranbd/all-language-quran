@@ -875,6 +875,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Helper to Partner",
+          "bn": "সাহায্যকারী থেকে শরিক"
+        },
+        "p": [
+          {
+            "en": "Wa-ashrik-hu fi amri: and make him share in my task. Three short Arabic words close a run of requests that began in 20:29. Musa (AS) asked for a wazir, an assistant, from his own family. He named him, Harun his brother (20:30), and asked that his back be strengthened through him (20:31). This verse asks for something further. A helper can stand beside a work without holding any part of it. To be made a sharer in the amr itself is to be placed inside the work, carrying the same charge as the one who asked.",
+            "bn": "ওয়া আশরিকহু ফী আমরী: আর তাকে আমার কাজে শরিক করে দাও। আরবিতে ছোট্ট তিনটি শব্দ। ২০:২৯ থেকে যে চাওয়াগুলো শুরু হয়েছিল, এগুলো দিয়ে সেগুলোর শেষ টানা হলো। মূসা (আঃ) নিজের পরিবার থেকে একজন ওয়াযীর, অর্থাৎ সাহায্যকারী চেয়েছিলেন। তারপর নাম বললেন, আমার ভাই হারূন (২০:৩০)। চাইলেন, তাঁকে দিয়ে যেন তাঁর পিঠ শক্ত করা হয় (২০:৩১)। এ আয়াতে চাওয়াটা আরও এক ধাপ এগোয়। সাহায্যকারী কাজের পাশে দাঁড়াতে পারেন, কাজের কোনো অংশ হাতে না নিয়েও। কিন্তু খোদ কাজেই শরিক হওয়া মানে কাজের ভেতরে ঢুকে পড়া, যিনি চাইছেন তাঁর মতোই একই দায়িত্ব কাঁধে নেওয়া।"
+          },
+          {
+            "en": "The word for the task is one Musa had already used. In 20:26 he asked, wa-yassir li amri, and ease for me my task. Now the task he asked to have eased, he asks to have shared. Al-Baghawi notes that the common reading takes this verb as a supplication, joined to what came before it, back to rabbi-shrah li sadri wa-yassir li amri. So the request is not a separate prayer added later. It belongs to the same petition, made in the same moment, as Musa (AS) stood charged with carrying a message to Pharaoh.",
+            "bn": "কাজ বোঝাতে যে শব্দ, মূসা (আঃ) তা আগেই একবার বলেছেন। ২০:২৬ আয়াতে তিনি চেয়েছিলেন, ওয়া ইয়াসসির লী আমরী, আমার কাজ আমার জন্য সহজ করে দাও। যে কাজ সহজ করে দিতে বলেছিলেন, এবার সেই কাজেই ভাগীদার চাইছেন। বাগাভী জানান, প্রচলিত কিরাআতে এই ক্রিয়াটি দোয়া হিসেবে পড়া হয়, আর তা আগের কথাগুলোর সঙ্গে যুক্ত, ফিরে যায় রাব্বিশ রাহলী সাদরী ওয়া ইয়াসসির লী আমরী পর্যন্ত। তাই এটি পরে জুড়ে দেওয়া আলাদা কোনো দোয়া নয়। একই মুনাজাতের অংশ, একই মুহূর্তে বলা, যখন ফিরআউনের কাছে বার্তা নিয়ে যাওয়ার দায়িত্ব মূসা (আঃ)-এর কাঁধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Task Contains",
+          "bn": "কাজটার ভেতরে কী আছে"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators read amr here as the mission itself. At-Tabari paraphrases the verse in Musa's voice: make him a prophet just as You made me a prophet, and send him with me to Pharaoh. As-Sa'di says the same in fewer words: in prophethood, by making him a prophet and a messenger, as You made me. Both reach for the same comparison, as You made me. The request is not for a lesser post under Musa (AS). It is for Harun (AS) to be given what Musa had been given.",
+            "bn": "বেশির ভাগ তাফসীরকার এখানে আমর বলতে খোদ রিসালাতের দায়িত্বই বোঝেন। তাবারী আয়াতটির ব্যাখ্যা দেন মূসা (আঃ)-এর মুখের কথা হিসেবে: আমাকে যেমন নবী বানিয়েছ, তাকেও তেমনি নবী বানাও, আর আমার সঙ্গে তাকে ফিরআউনের কাছে পাঠাও। সা'দী একই কথা বলেন আরও অল্প কথায়: নবুওয়াতে শরিক করো, তাকে নবী ও রাসূল বানিয়ে, যেমন আমাকে বানিয়েছ। দুজনেই একই তুলনা টানেন: যেমন আমাকে বানিয়েছ। তাই মূসা (আঃ)-এর অধীনে ছোট কোনো পদ চাওয়া হচ্ছে না। চাওয়া হচ্ছে, মূসাকে যা দেওয়া হয়েছে, হারূন (আঃ)-কেও যেন তা দেওয়া হয়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi give the gloss in one identical phrase: in prophethood and the conveying of the message, fi n-nubuwwa wa-tabligh ar-risala. The Muyassar, paraphrasing the whole prayer from 20:25 to 20:35, uses the same pair: make him share with me in prophethood and in conveying the message. The pair names two things. One is a rank, being chosen as a prophet. The other is a labour, carrying the message to the people it is meant for. On this reading Musa asks that his brother hold both with him.",
+            "bn": "কুরতুবী ও বাগাভী ব্যাখ্যাটা দেন হুবহু একই বাক্যাংশে: নবুওয়াতে এবং রিসালাত পৌঁছে দেওয়ার কাজে, ফিন নুবুওয়াতি ওয়া তাবলীগির রিসালাহ। মুয়াসসার ২০:২৫ থেকে ২০:৩৫ পর্যন্ত পুরো দোয়ার অর্থ বলতে গিয়ে একই জোড়া ব্যবহার করে: নবুওয়াতে আর রিসালাত পৌঁছানোর কাজে তাকে আমার সঙ্গে শরিক করো। জোড়াটিতে দুটি জিনিস আছে। একটি মর্যাদা, নবী হিসেবে মনোনীত হওয়া। অন্যটি পরিশ্রম, যাদের জন্য বার্তা, তাদের কাছে তা বয়ে নিয়ে যাওয়া। এই ব্যাখ্যায় মূসা (আঃ) চান, তাঁর ভাই দুটিই তাঁর সঙ্গে ধারণ করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Share in the Counsel",
+          "bn": "পরামর্শেও ভাগ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's gloss points elsewhere. On this verse he writes only: wa-ashrik-hu fi amri, that is, fi mashwarati, in my consultation. The amr in his reading is the running of the affair, the deciding of what to do and how, and Harun (AS) is asked for as the one Musa will take counsel with. Ibn Kathir does not, in the text fetched for this verse, argue against the reading of prophethood, and the others do not argue against his. The two glosses simply stand side by side, and both are kept here.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা অন্য দিকে ইঙ্গিত করে। এ আয়াতে তিনি শুধু লেখেন: ওয়া আশরিকহু ফী আমরী, অর্থাৎ ফী মাশওয়ারাতী, আমার পরামর্শে। তাঁর ব্যাখ্যায় আমর মানে কাজ চালানো, কী করা হবে আর কীভাবে, সেই সিদ্ধান্ত নেওয়া। হারূন (আঃ)-কে চাওয়া হচ্ছে এমন একজন হিসেবে, যাঁর সঙ্গে মূসা (আঃ) পরামর্শ করবেন। এ আয়াতের জন্য আনা লেখায় ইবন কাসীর নবুওয়াতের ব্যাখ্যার বিরুদ্ধে কোনো যুক্তি দেননি। অন্যরাও তাঁর ব্যাখ্যার বিরোধিতা করেননি। দুটি ব্যাখ্যা পাশাপাশি দাঁড়িয়ে আছে, আর এখানে দুটিই রাখা হলো।"
+          },
+          {
+            "en": "They are not the same claim, though. On the first reading, the request is for a rank that only God can confer, and the verse is about Harun being raised. On the second, it is about how the work will be done: Musa wants his brother's voice in it, a mind to weigh things with, not only a pair of hands. A reader need not choose between them to profit from either. A man sent to stand before Pharaoh asks for a brother who will share both the weight of the mission and the thinking behind it.",
+            "bn": "তবে দুটি দাবি এক নয়। প্রথম ব্যাখ্যায় চাওয়াটা এমন এক মর্যাদার, যা কেবল আল্লাহই দিতে পারেন, আর আয়াতের কথা হারূন (আঃ)-এর মর্যাদা বাড়ানো নিয়ে। দ্বিতীয় ব্যাখ্যায় কথা কাজের ধরন নিয়ে। মূসা (আঃ) কাজে ভাইয়ের মতামত চান, শুধু দুটো হাত নয়, সঙ্গে ভেবে দেখার মতো একটা মাথাও। পাঠকের লাভের জন্য দুটির একটিকে বেছে নেওয়ার দরকার নেই। যাঁকে ফিরআউনের সামনে দাঁড়াতে পাঠানো হচ্ছে, তিনি এমন একজন ভাই চাইছেন, যিনি দায়িত্বের ভার আর তার পেছনের ভাবনা, দুটোই ভাগ করে নেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rank Only God Confers",
+          "bn": "যে মর্যাদা কেবল আল্লাহ দেন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws out why the request is addressed to God at all. Musa (AS), it says, had the power to appoint Harun as his wazir on his own, yet he petitioned Allah to confer the appointment, seeking His grace in it. Beyond that, he wanted his brother to share his prophethood and his mission, and that power, Ma'arif says, does not rest with any prophet. That is why he prayed specially for it. A helper he could have chosen; a fellow prophet only Allah could make.",
+            "bn": "মূসা (আঃ) কেন এ চাওয়া আল্লাহর কাছেই রাখলেন, মাআরিফুল কুরআন তা খুলে বলে। তার ভাষ্যে, হারূন (আঃ)-কে নিজের ওয়াযীর বানানোর ক্ষমতা মূসা (আঃ)-এর নিজেরই ছিল। তবু তিনি আল্লাহর কাছে আরজি জানালেন, যেন এই নিয়োগ আল্লাহই দেন, আর তাতে আল্লাহর অনুগ্রহ মেলে। তার উপর তিনি চাইছিলেন, ভাই তাঁর নবুওয়াত ও রিসালাতের দায়িত্বে শরিক হোন। মাআরিফের কথায়, এ ক্ষমতা কোনো নবীর হাতে থাকে না। তাই এর জন্য তিনি আলাদা করে দোয়া করলেন। সাহায্যকারী তিনি নিজে বেছে নিতে পারতেন। কিন্তু সহযোগী নবী বানাতে পারেন একমাত্র আল্লাহ।"
+          },
+          {
+            "en": "Al-Qurtubi makes the same point from another direction, in the middle of a discussion of the readings taken up below. Musa's amr, he writes, is prophethood and the message, and that is not his to bestow and then announce; he only asked God, Mighty and Majestic, to make Harun his partner in prophethood. The point honours both brothers. Musa (AS) knows exactly where his own authority ends and asks at that line, and Harun (AS) receives his rank from the One who alone grants it.",
+            "bn": "কুরতুবী একই কথা বলেন অন্য দিক থেকে, কিরাআতের এক আলোচনার মাঝখানে, যা নিচে আসছে। তিনি লেখেন, মূসা (আঃ)-এর আমর হলো নবুওয়াত ও রিসালাত। তা তাঁর নিজের দেওয়ার জিনিস নয় যে দিয়ে দিয়ে ঘোষণা করবেন। তিনি কেবল মহান আল্লাহর কাছে চেয়েছেন, যেন হারূন (আঃ)-কে নবুওয়াতে তাঁর শরিক করেন। এ কথায় দুই ভাইয়েরই মর্যাদা ফুটে ওঠে। মূসা (আঃ) ঠিক জানেন তাঁর নিজের এখতিয়ার কোথায় শেষ, আর ঠিক সেখানে এসে চান। আর হারূন (আঃ) তাঁর মর্যাদা পান সেই সত্তার কাছ থেকে, যিনি একাই তা দিতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Request or Resolve",
+          "bn": "প্রার্থনা, নাকি সংকল্প"
+        },
+        "p": [
+          {
+            "en": "The verb can be voiced two ways, and both are recorded. Al-Qurtubi says the generality of readers read ushdud in 20:31 with a joining hamza and wa-ashrik-hu with a fatha, as supplication: O Lord, strengthen my back and make him share with me in my task. Ibn Amir, with Yahya ibn al-Harith, Abu Haywa, al-Hasan and Abdullah ibn Abi Ishaq, read ashdud with a cut hamza and wa-ushrik-hu with a damma: I, O Lord, will make him share in my task. Al-Baghawi records Ibn Amir's reading as Musa narrating what he will do.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া যায়, আর দুটি পাঠই লিপিবদ্ধ আছে। কুরতুবী বলেন, অধিকাংশ কারী ২০:৩১ আয়াতের উশদুদ পড়েন সংযোগের হামযা দিয়ে, আর ওয়া আশরিকহু পড়েন হামযায় যবর দিয়ে, দোয়া হিসেবে: হে রব, আমার পিঠ শক্ত করো আর তাকে আমার কাজে আমার সঙ্গে শরিক করো। ইবন আমির, তাঁর সঙ্গে ইয়াহইয়া ইবনুল হারিস, আবু হাইওয়া, হাসান ও আবদুল্লাহ ইবন আবী ইসহাক পড়েছেন আশদুদ, হামযা আলাদা উচ্চারণ করে, আর ওয়া উশরিকহু, পেশ দিয়ে। অর্থ দাঁড়ায়: হে রব, আমি নিজে তাকে আমার কাজে শরিক করব। বাগাভী ইবন আমিরের পাঠকে দেখান মূসা (আঃ)-এর নিজের কী করবেন তার বিবরণ হিসেবে।"
+          },
+          {
+            "en": "Here the two commentators part. Al-Qurtubi quotes an-Nahhas, who took the two verbs as the answer to appoint for me a minister: if You appoint him, I will strengthen my back with him and make him share in my task. An-Nahhas raised a difficulty with that sense, because the task is prophethood, which is not Musa's to give. Al-Baghawi records the same reading for Ibn Amir, explains it as Musa saying I will do that, and raises no objection. Both positions are reported here as their authors give them.",
+            "bn": "এখানে দুই তাফসীরকারের পথ আলাদা হয়ে যায়। কুরতুবী নাহহাসের কথা উদ্ধৃত করেন। নাহহাস ক্রিয়া দুটিকে ধরেছিলেন আমার জন্য একজন ওয়াযীর বানিয়ে দাও, এ কথার জবাব হিসেবে: তুমি তাকে নিযুক্ত করলে আমি তাকে দিয়ে আমার পিঠ শক্ত করব, আর তাকে আমার কাজে শরিক করব। নাহহাস এ অর্থে একটি জটিলতা দেখেছেন। কারণ কাজটা হলো নবুওয়াত, আর তা দেওয়া মূসা (আঃ)-এর হাতে নয়। বাগাভী ইবন আমিরের জন্য একই পাঠ উল্লেখ করেন, অর্থ বলেন, আমি তা করব, আর কোনো আপত্তি তোলেন না। দুজনের অবস্থানই এখানে রাখা হলো, যেভাবে তাঁরা নিজেরা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Brother Who Came Out",
+          "bn": "যে ভাই এগিয়ে এলেন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds a scene, which he introduces with the words the commentators said. Harun (AS) was in Egypt at the time. Allah commanded Musa to go to Harun, and revealed to Harun, while he was in Egypt, that he should go out to meet Musa. He met him a day's stage along the way and told him what had been revealed to him. Musa then said to him: Allah has commanded me to go to Pharaoh, and I asked my Lord to make you a messenger with me.",
+            "bn": "কুরতুবী একটি দৃশ্য যোগ করেন, শুরুতে বলে নেন: তাফসীরকারেরা বলেছেন। হারূন (আঃ) তখন মিসরে ছিলেন। আল্লাহ মূসা (আঃ)-কে আদেশ দিলেন হারূনের কাছে যেতে। আর মিসরে থাকা হারূন (আঃ)-কে ওহী পাঠালেন, তিনি যেন বেরিয়ে এসে মূসাকে এগিয়ে নেন। এক মনজিল পথ এগিয়ে তিনি তাঁর সঙ্গে মিলিত হলেন এবং তাঁর কাছে যা ওহী করা হয়েছিল তা জানালেন। তখন মূসা (আঃ) তাঁকে বললেন: আল্লাহ আমাকে ফিরআউনের কাছে যেতে আদেশ করেছেন, আর আমি আমার রবের কাছে চেয়েছি, তিনি যেন তোমাকে আমার সঙ্গে রাসূল বানান।"
+          },
+          {
+            "en": "Al-Qurtubi gives this as a report of the commentators, with no chain and no grading, so it is related here as such and nothing rests on it. What does not depend on any report is the answer, which the Qur'an itself records two verses later: qad utita su'laka ya Musa, you have been granted your request, O Musa (20:36). The whole petition, the chest, the task, the tongue, the helper and the partner, is answered in a single line, and the partnership asked for in this verse is part of what was granted.",
+            "bn": "কুরতুবী এটিকে তাফসীরকারদের বর্ণনা হিসেবেই আনেন, কোনো সনদ বা মান নির্ণয় ছাড়া। তাই এখানেও তা সেভাবেই বলা হলো, এর উপর কিছু দাঁড় করানো হলো না। কিন্তু যে কথা কোনো বর্ণনার উপর নির্ভর করে না, তা হলো জবাবটি। দুই আয়াত পরে কুরআন নিজেই তা জানায়: কাদ ঊতীতা সু'লাকা ইয়া মূসা, হে মূসা, তোমার প্রার্থনা মঞ্জুর করা হলো (২০:৩৬)। বুক, কাজ, জিহ্বা, সাহায্যকারী আর শরিক, পুরো মুনাজাতের জবাব এসেছে এক লাইনে। এ আয়াতে যে শরিকানা চাওয়া হয়েছিল, তাও সেই মঞ্জুরির অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like Aaron to Moses",
+          "bn": "যেমন মূসার কাছে হারূন"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a sound Prophetic hadith to it. One general narration does take this very bond as its measure. Al-Bukhari records in his Sahih (4416): Narrated Sa'd: Allah's Messenger (ﷺ) set out for Tabuk, appointing 'Ali as his deputy (in Medina). 'Ali said, 'Do you want to leave me with the children and women?' The Prophet (ﷺ) said, 'Will you not be pleased that you will be to me like Aaron to Moses? But there will be no prophet after me.'",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা ঠিক এই সম্পর্কটিকেই মাপকাঠি হিসেবে নেয়। বুখারী তাঁর সহীহ গ্রন্থে (৪৪১৬) বর্ণনা করেন: সা'দ (রাঃ) বলেন, রাসূলুল্লাহ ﷺ তাবুকের উদ্দেশে বের হলেন এবং আলী (রাঃ)-কে (মদীনায়) নিজের স্থলাভিষিক্ত রেখে গেলেন। আলী (রাঃ) বললেন, আপনি কি আমাকে শিশু আর নারীদের মাঝে রেখে যাচ্ছেন? নবী ﷺ বললেন, তুমি কি এতে খুশি নও যে আমার কাছে তুমি হবে তেমন, যেমন মূসার কাছে ছিলেন হারূন? তবে আমার পরে কোনো নবী নেই।"
+          },
+          {
+            "en": "The narration is in al-Bukhari's Sahih, which is its collector's own grading, and it is brought here as a general hadith, not as an explanation of this verse. Two things in it bear on the verse all the same. The Prophet (ﷺ) reached for Harun's place beside Musa as a picture of closeness and trust, something to be pleased with. And the hadith's own last clause marks off the one thing in that relationship that would not carry over: prophethood, the very share that this verse asked Allah to give Harun.",
+            "bn": "বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, আর সংকলকের নিজের মান নির্ণয় এটুকুই। এখানে একে আনা হলো সাধারণ হাদীস হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। তবু এর দুটি দিক আয়াতের সঙ্গে মেলে। নবী ﷺ নৈকট্য আর আস্থার ছবি আঁকতে গিয়ে বেছে নিলেন মূসা (আঃ)-এর পাশে হারূন (আঃ)-এর অবস্থান, এমন কিছু যাতে খুশি হওয়া যায়। আর হাদীসের শেষ বাক্যটি নিজেই সেই সম্পর্কের একটি জিনিস আলাদা করে দেয়, যা আর পরে আসবে না: নবুওয়াত। ঠিক এই ভাগটিই এ আয়াতে মূসা (আঃ) হারূনের জন্য আল্লাহর কাছে চেয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "So That We Glorify You",
+          "bn": "যাতে আমরা তোমার তাসবীহ পড়ি"
+        },
+        "p": [
+          {
+            "en": "The verse does not end the thought; the next two finish it. Kay nusabbihaka kathira, wa-nadhkuraka kathira: that we may glorify You much, and remember You much (20:33 and 20:34). The Muyassar, reading the prayer as a whole, glosses it: so that we declare You free of every imperfection with much glorifying, and remember You much, and so praise You. Then 20:35, innaka kunta bina basira, which the Muyassar explains as: You see us, and nothing of our deeds is hidden from You.",
+            "bn": "আয়াতটি এখানে কথা শেষ করে না, পরের দুটি আয়াত তা পূর্ণ করে। কাই নুসাব্বিহাকা কাসীরা, ওয়া নাযকুরাকা কাসীরা: যাতে আমরা বেশি বেশি তোমার তাসবীহ পড়ি আর বেশি বেশি তোমাকে স্মরণ করি (২০:৩৩ ও ২০:৩৪)। মুয়াসসার পুরো দোয়াটিকে এক সঙ্গে ধরে এর অর্থ বলে: যাতে আমরা বেশি করে তাসবীহ পড়ে তোমাকে সব অপূর্ণতা থেকে পবিত্র ঘোষণা করি, বেশি করে তোমাকে স্মরণ করি, আর এভাবে তোমার প্রশংসা করি। তারপর ২০:৩৫, ইন্নাকা কুনতা বিনা বাসীরা। মুয়াসসারের ব্যাখ্যায়: তুমি আমাদের দেখছ, আমাদের কোনো কাজই তোমার কাছে গোপন নয়।"
+          },
+          {
+            "en": "Notice the pronoun. Up to this verse Musa (AS) has spoken in the singular: my chest, my task, my tongue, my family, my brother. From 20:33 he says we: that we may glorify You, You see us. The partner he asked for is already inside the prayer. Whether amr means the prophethood or the counsel, the request ends in the same place: two servants of Allah doing more of His remembrance together than either would alone, under the sight of the One who sees them both.",
+            "bn": "সর্বনামটা খেয়াল করুন। এ আয়াত পর্যন্ত মূসা (আঃ) একবচনে কথা বলেছেন: আমার বুক, আমার কাজ, আমার জিহ্বা, আমার পরিবার, আমার ভাই। ২০:৩৩ থেকে তিনি বলেন আমরা: যাতে আমরা তোমার তাসবীহ পড়ি, তুমি আমাদের দেখছ। যে শরিককে তিনি চেয়েছিলেন, তিনি দোয়ার ভেতরেই ঢুকে পড়েছেন। আমর মানে নবুওয়াত হোক বা পরামর্শ, চাওয়াটা শেষ হয় একই জায়গায়। আল্লাহর দুই বান্দা মিলে তাঁর জিকির করবেন বেশি, একা যতটা পারতেন তার চেয়ে বেশি, আর দুজনকেই দেখছেন সেই সত্তা, যিনি সব দেখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for a Partner Today",
+          "bn": "আজ শরিক চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The practical lesson is simple to state. Before you begin a good work that is too large for one person, a study circle, a family's care for an ageing parent, a charity drive, a hard conversation with someone in power, ask Allah for a partner in it, and name the person you hope for. Musa (AS) could have chosen a helper himself, as Ma'arif notes, and still he asked. Asking first puts the partnership in Allah's hands and keeps the person you choose from becoming a mere tool.",
+            "bn": "বাস্তব শিক্ষাটা বলা সহজ। এমন কোনো ভালো কাজ শুরু করার আগে, যা একজনের পক্ষে বড্ড ভারী, আল্লাহর কাছে তাতে একজন শরিক চেয়ে নিন। হতে পারে তা কুরআন শেখার কোনো হালাকা, বয়স্ক মা-বাবার দেখাশোনা, দানের কোনো উদ্যোগ, কিংবা ক্ষমতাবান কারও সঙ্গে কঠিন কোনো আলাপ। যাঁকে চান, দোয়ায় তাঁর নামও নিন। মাআরিফ যেমন বলে, মূসা (আঃ) নিজেই সাহায্যকারী বেছে নিতে পারতেন, তবু তিনি চেয়ে নিয়েছেন। আগে চেয়ে নিলে শরিকানাটা থাকে আল্লাহর হাতে, আর যাঁকে বেছে নেন তিনি নিছক আপনার কাজের হাতিয়ার হয়ে পড়েন না।"
+          },
+          {
+            "en": "Then let the partner share the task, not only its errands. Ibn Kathir's gloss is a reminder that a real share includes the counsel: the deciding, the weighing, the voice in how things are done. Many joint efforts fail because one person keeps the decisions and hands out the chores. And keep the aim where Musa put it. A partnership in good work is not sought for company or for standing. It is sought so that more of Allah's glorifying and remembrance gets done, under His sight, by two who could not do as much apart.",
+            "bn": "তারপর শরিককে কাজেই ভাগ দিন, শুধু ফাইফরমাশে নয়। ইবন কাসীরের ব্যাখ্যা মনে করিয়ে দেয়, আসল ভাগের মধ্যে পরামর্শও থাকে: সিদ্ধান্ত নেওয়া, বিচার করে দেখা, কাজ কীভাবে হবে তাতে মতামত। অনেক যৌথ উদ্যোগ ভেঙে যায়, কারণ একজন সব সিদ্ধান্ত নিজের হাতে রাখেন, আর বাকিদের ভাগে পড়ে কেবল খাটুনি। আর লক্ষ্যটা রাখুন সেখানেই, যেখানে মূসা (আঃ) রেখেছিলেন। ভালো কাজে শরিক চাওয়া সঙ্গ পাওয়ার জন্য নয়, মর্যাদার জন্যও নয়। চাওয়া এই জন্য, যাতে আল্লাহর তাসবীহ আর জিকির আরও বেশি হয়, তাঁরই চোখের সামনে, এমন দুজনের হাতে, যাঁরা আলাদা থাকলে এতটা পারতেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "20:40": {
     "sections": [
       {
