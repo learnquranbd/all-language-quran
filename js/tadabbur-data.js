@@ -20871,6 +20871,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Knowledge lifts only the one who acts on it; do not let the pull of the world and your own desire turn what you know into a weight.",
     "lessonBn": "জ্ঞান কেবল তাকেই উপরে তোলে, যে সে অনুযায়ী আমল করে। দুনিয়ার টান আর নিজের খেয়ালখুশি যেন আপনার জানাকে বোঝা বানিয়ে না ফেলে।"
+  },
+  "7:133": {
+    "reflectionEn": "Five things came, and the verse names them in one breath: the flood, the locusts, the lice, the frogs, the blood. Yet it calls them signs set apart, and the commentators read that as signs sent one after another, with room between them to think. Each time the pressure lifted, the room was there. Each time it was spent explaining the sign away: the rain had been good for the crops, enough grain was left, he is only a sorcerer. Evidence was never what they lacked. Arrogance turned every pause into an argument. So the verse asks me less about my hardest days than about the quiet ones that follow them. When relief comes, what story do I tell myself about why it came?",
+    "reflectionBn": "পাঁচটি জিনিস এসেছিল, আর আয়াত সেগুলোর নাম নেয় এক নিঃশ্বাসে: প্লাবন, পঙ্গপাল, উকুন, ব্যাঙ আর রক্ত। তবু আয়াত এগুলোকে বলে আলাদা আলাদা নিদর্শন। তাফসীরকারেরা এর অর্থ করেন, নিদর্শনগুলো এসেছিল একটার পর একটা, মাঝে ভাবার মতো অবকাশ রেখে। প্রতিবার চাপ সরে যেতেই সেই অবকাশ মিলত। আর প্রতিবার তা খরচ হতো নিদর্শনটাকে উড়িয়ে দেওয়ার যুক্তি খুঁজতে: বৃষ্টি তো ফসলের উপকারই করেছে, যা শস্য বেঁচে আছে তাতেই চলবে, লোকটা তো জাদুকর ছাড়া কিছু নয়। প্রমাণের অভাব তাদের কখনো ছিল না। অহংকারই প্রতিটি বিরতিকে বানিয়ে দিয়েছিল নতুন তর্ক। তাই আয়াতটি আমার সবচেয়ে কঠিন দিনগুলোর চেয়ে বেশি প্রশ্ন করে তার পরের শান্ত দিনগুলো নিয়ে। স্বস্তি এলে আমি নিজেকে কী গল্প শোনাই, কেন তা এল?",
+    "pointsEn": [
+      "What hardship have I asked Allah to lift, and what did I promise Him while it lasted?",
+      "When it lifted, how long did that promise last, and what did I tell myself to let it go?",
+      "Which sign in my own life have I explained away with a reason that allowed me to stay exactly as I was?",
+      "Is there a warning I keep calling coincidence because the other name for it would ask me to change?",
+      "In the quiet weeks after a trial, do I spend the room on returning to Allah, or on rebuilding my excuse?"
+    ],
+    "pointsBn": [
+      "কোন কষ্ট দূর করে দিতে আমি আল্লাহর কাছে চেয়েছি, আর কষ্ট চলার সময় তাঁকে কী কথা দিয়েছিলাম?",
+      "কষ্ট সরে যাওয়ার পর সেই কথা কতদিন টিকেছিল? কথাটা ছেড়ে দিতে নিজেকে কী বুঝিয়েছিলাম?",
+      "আমার জীবনের কোন নিদর্শনকে আমি এমন যুক্তি দিয়ে উড়িয়ে দিয়েছি, যাতে আমাকে একটুও বদলাতে না হয়?",
+      "এমন কোনো সতর্কবার্তা কি আছে, যাকে আমি কাকতালীয় বলে চলেছি, কারণ তার আসল নাম মেনে নিলে আমাকে বদলাতে হবে?",
+      "পরীক্ষার পরের শান্ত সপ্তাহগুলোতে আমি কি সেই অবকাশ আল্লাহর দিকে ফেরায় খরচ করি, নাকি অজুহাতটা আবার গড়ে তুলতে?"
+    ],
+    "lessonEn": "A pause after hardship is both mercy and test; spend it on returning to Allah, not on explaining away what He sent.",
+    "lessonBn": "কষ্টের পরের বিরতি একই সঙ্গে রহমত ও পরীক্ষা। সে সময়টা আল্লাহর দিকে ফেরায় কাজে লাগান, তাঁর পাঠানো নিদর্শনকে উড়িয়ে দেওয়ার যুক্তি খুঁজে নয়।"
   }
 };
 

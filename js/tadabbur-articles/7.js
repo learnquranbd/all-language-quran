@@ -5067,6 +5067,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:133": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Sent as a Reply",
+          "bn": "জবাব হয়ে এল পাঁচটি"
+        },
+        "p": [
+          {
+            "en": "Fa-arsalna 'alayhim: so We sent upon them. The fa answers what came just before. In 7:130 Allah had seized Pharaoh's people with years of drought and a shortfall of fruit, so that they might take heed. In 7:131 they called good times their due and blamed bad ones on Musa (AS) and those with him. In 7:132 they declared that whatever sign he brought to bewitch them, they would not believe. This verse is the reply: five afflictions in a row, then a verdict.",
+            "bn": "ফা-আরসালনা আলাইহিম: অতঃপর আমি তাদের উপর পাঠালাম। শুরুর 'ফা' আগের কথাগুলোর জবাব। ৭:১৩০ আয়াতে আল্লাহ ফিরআউনের লোকদের ধরেছিলেন খরার বছর আর ফলের ঘাটতি দিয়ে, যাতে তারা সতর্ক হয়। ৭:১৩১ আয়াতে তারা সুদিনকে নিজেদের প্রাপ্য বলেছে, আর দুর্দিনের দায় চাপিয়েছে মূসা (আঃ) ও তাঁর সঙ্গীদের ঘাড়ে। ৭:১৩২ আয়াতে তারা ঘোষণা দিয়েছে, তাদের জাদু করতে তিনি যে নিদর্শনই আনুন, তারা ঈমান আনবে না। এ আয়াত তারই জবাব। পরপর পাঁচটি বিপদ, তারপর একটি রায়।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir both carry Ibn Ishaq's account. After the sorcerers believed, Pharaoh went back defeated, yet insisted on staying in disbelief and pressing on in evil, so Allah sent the signs after him in succession: the years, then the flood, the locusts, the qummal, the frogs and the blood. Al-Baghawi, merging reports from Ibn Abbas (RA), Sa'id ibn Jubayr, Qatada and Ibn Ishaq, counts four signs spent before this verse: the staff, the hand, the years and the shortfall of fruit.",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই ইবন ইসহাকের বর্ণনা এনেছেন। জাদুকরেরা ঈমান আনার পর ফিরআউন পরাজিত হয়ে ফিরে গেল, তবু কুফরিতে অটল থাকল, মন্দ কাজে এগিয়েই চলল। তাই আল্লাহ তার উপর একের পর এক নিদর্শন পাঠালেন: খরার বছর, তারপর প্লাবন, পঙ্গপাল, কুম্মাল, ব্যাঙ আর রক্ত। বাগাভী ইবন আব্বাস (রাঃ), সাঈদ ইবন জুবাইর, কাতাদা ও ইবন ইসহাকের বর্ণনা মিলিয়ে বলেন, এ আয়াতের আগেই চারটি নিদর্শন দেখানো হয়ে গিয়েছিল: লাঠি, হাত, খরার বছর আর ফলের ঘাটতি।"
+          },
+          {
+            "en": "In a report at-Tabari gives from Sa'id ibn Jubayr, Musa (AS), having worked through those four, turned to his Lord: this servant of Yours has risen high in the land and transgressed against me; take him with a punishment that is retribution for him and his people, an admonition for my people, and a sign for those after me among the nations that remain. Read through that report, the verse speaks to the sufferers, the witnesses and the later hearers alike.",
+            "bn": "তাবারী সাঈদ ইবন জুবাইর থেকে একটি বর্ণনা এনেছেন। ওই চারটি নিদর্শন দেখানোর পর মূসা (আঃ) রবের কাছে আরজ করলেন: তোমার এই বান্দা দেশে মাথা তুলেছে, আমার উপর সীমালঙ্ঘন করেছে। হে রব, তাকে এমন শাস্তিতে ধরো, যা হবে তার ও তার লোকদের জন্য প্রতিফল, আমার লোকদের জন্য উপদেশ, আর আমার পরে যেসব জাতি টিকে থাকবে তাদের জন্য নিদর্শন। এ বর্ণনার আলোয় পড়লে আয়াতটি কথা বলে সবার সঙ্গে: যারা ভুগেছে, যারা চোখে দেখেছে, আর যারা পরে শুনবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain, Drowning, or Mass Death",
+          "bn": "বৃষ্টি, ডুবে মরা, না মহামারি"
+        },
+        "p": [
+          {
+            "en": "At-tufan is the first word in dispute, and at-Tabari sets out three camps. Some said water: a chain from Ibn Abbas says the first of the signs was the tufan, when Allah sent the sky down upon them, and Abu Malik and ad-Dahhak say simply water; another chain from Ibn Abbas says drowning. Others said death: Ata' said so, and one chain from Mujahid has death in every case. A third view, from Ibn Abbas through Abu Zabyan, is a command from Allah that encircled them.",
+            "bn": "প্রথম বিতর্কিত শব্দ আত-তূফান, আর তাবারী তিনটি মত সাজিয়ে দেন। কারও মতে পানি। ইবন আব্বাস (রাঃ) থেকে এক সূত্রে আছে, নিদর্শনের প্রথমটিই ছিল তূফান, যখন আল্লাহ আকাশ থেকে তাদের উপর বর্ষণ পাঠালেন। আবু মালিক ও দাহহাক শুধু বলেন, পানি। ইবন আব্বাস (রাঃ) থেকে আরেক সূত্রে আছে, ডুবে মরা। কারও মতে মৃত্যু। আতা তা-ই বলেন, আর মুজাহিদের একটি সূত্রে আছে, সর্বাবস্থায় মৃত্যু। তৃতীয় মত আবু যাবইয়ানের সূত্রে ইবন আব্বাস (রাঃ) থেকে: আল্লাহর এক হুকুম, যা তাদের চারদিক থেকে ঘিরে ধরেছিল।"
+          },
+          {
+            "en": "Ibn Abbas then recited 68:19, where a visitation from your Lord went round the garden while its owners slept. At-Tabari prefers this report. Tufan, he says, is a verbal noun from tafa, to go round, as nuqsan comes from naqasa; so what encircled them could be heavy rain or swift, sweeping death, and he cites poets who call a downpour tufan. Al-Qurtubi quotes an-Nahhas: in the language, tufan is whatever destroys, death or flood, surrounding people and ruining them.",
+            "bn": "এরপর ইবন আব্বাস (রাঃ) ৬৮:১৯ তিলাওয়াত করেন, যেখানে বাগানের মালিকেরা ঘুমিয়ে থাকা অবস্থায় রবের পক্ষ থেকে এক বিপদ বাগানটিকে ঘিরে ফেলেছিল। তাবারী এই বর্ণনাটিকেই অগ্রাধিকার দেন। তাঁর ব্যাখ্যায় তূফান হলো 'তাফা' অর্থাৎ ঘিরে ফেলা থেকে আসা ক্রিয়াবাচক বিশেষ্য, যেমন 'নাকাসা' থেকে 'নুকসান'। তাই যা তাদের ঘিরে ধরেছিল তা প্রবল বৃষ্টিও হতে পারে, দ্রুত ছড়িয়ে পড়া মৃত্যুও হতে পারে। মুষলধারে বৃষ্টিকে তূফান বলার নজির হিসেবে তিনি কবিদের পঙক্তি আনেন। কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: ভাষায় তূফান মানে যা ধ্বংস করে, মৃত্যু হোক বা বন্যা, যা মানুষকে ঘিরে ধরে শেষ করে দেয়।"
+          },
+          {
+            "en": "Al-Baghawi adds Wahb: plague, in the dialect of Yemen; Abu Qilaba: smallpox; Muqatil: water that rose over their fields. In Sa'id ibn Jubayr's report in at-Tabari, someone told Ibn Abbas that Ibn Umar (RA) did not know whether it was death or water. Ibn Abbas answered: does he not read al-'Ankabut, where the tufan seized the people of Nuh (AS) in 29:14? Had they died, to whom did Musa (AS) bring the four signs after it? The Muyassar and as-Sa'di both take it as floodwater that drowned their crops.",
+            "bn": "বাগাভী আরও কয়েকটি মত আনেন। ওয়াহবের মতে তূফান ইয়েমেনের ভাষায় প্লেগ, আবু কিলাবার মতে গুটিবসন্ত, আর মুকাতিলের মতে এমন পানি যা তাদের খেতের উপর দিয়ে উপচে উঠেছিল। তাবারীতে সাঈদ ইবন জুবাইরের বর্ণনায় আছে, এক ব্যক্তি ইবন আব্বাস (রাঃ)-কে জানাল, ইবন উমার (রাঃ) জানেন না তা মৃত্যু ছিল নাকি পানি। ইবন আব্বাস (রাঃ) বললেন, তিনি কি সূরা আনকাবূত পড়েন না, যেখানে ২৯:১৪ আয়াতে নূহ (আঃ)-এর কওমকে তূফান গ্রাস করেছিল? তারা যদি মরেই যেত, তবে এর পরের চারটি নিদর্শন মূসা (আঃ) কার কাছে নিয়ে গেলেন? মুয়াসসার ও সা'দী দুজনেই একে বন্যার পানি ধরেন, যা তাদের ফসল ডুবিয়ে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weevils, Young Locusts, or Lice",
+          "bn": "ঘুণপোকা, বাচ্চা পঙ্গপাল, না উকুন"
+        },
+        "p": [
+          {
+            "en": "Al-qummal is the second, and at-Tabari again opens with the interpreters' disagreement. A chain from Ibn Abbas through Sa'id ibn Jubayr says the weevil that comes out of wheat. Others say ad-duba, small locusts not yet winged: so Ibn Abbas through other chains, as-Suddi, Mujahid and Qatada, who adds that they are the offspring of locusts. Ikrima says the daughters of locusts. Ibn Zayd reports that some took them to be fleas, and Sa'id ibn Jubayr and al-Hasan say small black creatures.",
+            "bn": "দ্বিতীয় বিতর্কিত শব্দ আল-কুম্মাল, আর তাবারী আবারও শুরু করেন তাফসীরকারদের মতভেদের কথা বলে। সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) থেকে আছে, গমের ভেতর থেকে বের হওয়া ঘুণপোকা। অন্যদের মতে দুবা, অর্থাৎ পাখা না গজানো ছোট পঙ্গপাল। এ মত অন্য সূত্রে ইবন আব্বাস (রাঃ) থেকে এসেছে, এসেছে সুদ্দী, মুজাহিদ ও কাতাদা থেকেও। কাতাদা যোগ করেন, এরা পঙ্গপালের বাচ্চা। ইকরিমা বলেন, পঙ্গপালের কন্যারা। ইবন যায়দ জানান, কেউ কেউ এদের পিসু মনে করত। আর সাঈদ ইবন জুবাইর ও হাসান বলেন, ছোট ছোট কালো প্রাণী।"
+          },
+          {
+            "en": "A Basran expert, named by al-Qurtubi and al-Baghawi as Abu 'Ubayda, said the hamnan, a kind of tick. At-Tabari gives qummala as the singular: a creature resembling the louse that camels eat, as far as it reached him. Al-Qurtubi adds Habib ibn Abi Thabit, who said dung beetles, and Ata' al-Khurasani, who said ordinary lice, along with al-Hasan's reading al-qaml. As-Sa'di mentions the small locusts with an 'it is said', and calls the apparent meaning the well-known louse.",
+            "bn": "বসরার এক ভাষাবিশারদ, কুরতুবী ও বাগাভী যাঁর নাম বলেন আবু উবায়দা, তাঁর মতে এটি হামনান, এক জাতের আঁটালি। তাবারী এর একবচন বলেন কুম্মালা: উকুনের মতো দেখতে এক প্রাণী, যা উট খেয়ে ফেলে, অন্তত তাঁর কাছে এমন খবরই পৌঁছেছে। কুরতুবী আরও আনেন হাবীব ইবন আবী সাবিতের মত, তাঁর কাছে এরা গোবরে পোকা, আর আতা আল-খুরাসানীর মত, তাঁর কাছে এরা সাধারণ উকুন। সেই সঙ্গে হাসানের কিরাআত 'আল-কামল'-এর কথাও বলেন। সা'দী ছোট পঙ্গপালের মতটি 'বলা হয়' দিয়ে আনেন, আর বাহ্যিক অর্থ বলেন পরিচিত উকুন।"
+          },
+          {
+            "en": "Two commentators decline to choose. Al-Qurtubi quotes an-Nahhas: this does not contradict the interpreters, since all these things may have been sent upon them, and what they share is that they harmed them. Ma'arif al-Qur'an says the word covers both the louse and a grain-eating insect, and both may have been sent. The reports show the weevil reading at work: in one from Sa'id ibn Jubayr in at-Tabari, a man would carry ten sacks of grain to the mill and bring back not even three measures.",
+            "bn": "দুজন তাফসীরকার কোনো একটিকে বেছে নেন না। কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: এতে তাফসীরকারদের কথার বিরোধিতা নেই, কারণ এর সবগুলোই তাদের উপর পাঠানো হয়ে থাকতে পারে, আর সবগুলোর মধ্যে মিল একটাই, এরা তাদের কষ্ট দিয়েছিল। মাআরিফুল কুরআন বলে, শব্দটি উকুন আর শস্যখেকো পোকা দুটোকেই বোঝায়, আর দুটোই পাঠানো হয়ে থাকতে পারে। ঘুণপোকার ব্যাখ্যাটি বর্ণনায় কেমন দেখায়, তাও আছে। তাবারীতে সাঈদ ইবন জুবাইরের একটি বর্ণনায়, এক লোক ১০ বস্তা শস্য নিয়ে চাক্কিতে যেত, আর ফিরত ৩ মাপও না নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Frogs in Pots, Blood in Jars",
+          "bn": "হাঁড়িতে ব্যাঙ, কলসিতে রক্ত"
+        },
+        "p": [
+          {
+            "en": "On the frogs there is no dispute about the creature, only about the picture. In Sa'id ibn Jubayr's report, carried by at-Tabari and Ibn Kathir, Musa (AS) heard a frog croak while sitting with Pharaoh and said: what you and your people will meet from this! Pharaoh asked what harm it could possibly do. By evening a man sat in frogs up to his chin, and if he spoke a frog leapt into his mouth. A report from Ibn Abbas in at-Tabari adds that they jumped into the pots, spoiled the food and put out the fires.",
+            "bn": "ব্যাঙ যে কী, তা নিয়ে মতভেদ নেই, ভিন্নতা শুধু বর্ণনার ছবিতে। সাঈদ ইবন জুবাইরের বর্ণনা, যা তাবারী ও ইবন কাসীর এনেছেন: মূসা (আঃ) ফিরআউনের কাছে বসে ছিলেন, এমন সময় ব্যাঙের ডাক শুনে বললেন, এর হাতে তুমি আর তোমার লোকেরা কী ভোগান্তিই না পোহাবে! ফিরআউন জানতে চাইল, এ আর কী ক্ষতি করবে? সন্ধ্যা নামার আগেই লোকেরা থুতনি পর্যন্ত ব্যাঙের মধ্যে ডুবে বসে থাকত, আর কথা বলতে মুখ খুললেই ব্যাঙ লাফিয়ে মুখে ঢুকে পড়ত। তাবারীতে ইবন আব্বাস (রাঃ)-এর বর্ণনা যোগ করে, ব্যাঙগুলো হাঁড়িতে লাফিয়ে পড়ত, খাবার নষ্ট করত, চুলার আগুন নিভিয়ে দিত।"
+          },
+          {
+            "en": "Then the blood. In the same report, whatever they drew from rivers and wells, or kept in their vessels, was fresh blood. They complained to Pharaoh, who told them: he has bewitched you, the very charge of 7:132. Mujahid says that when the Nile ran with blood, an Israelite and one of Pharaoh's people might share a vessel, the Israelite's side sweet water and the other's blood. Zayd ibn Aslam read it differently: nosebleeds. At-Tabari, Ibn Kathir and al-Baghawi report his view, and as-Sa'di sets it beside that of many commentators.",
+            "bn": "তারপর রক্ত। সেই বর্ণনাতেই আছে, নদী আর কূপ থেকে যা তুলত, পাত্রে যা জমা রাখত, সবই হয়ে যেত তাজা রক্ত। তারা ফিরআউনের কাছে অভিযোগ করল। সে বলল, ও তোমাদের জাদু করেছে। ৭:১৩২ আয়াতে তারা নিজেরাই এই অভিযোগ তুলেছিল। মুজাহিদ বলেন, নীলনদে যখন রক্ত বইছিল, তখন একজন ইসরাঈলী আর ফিরআউনের দলের একজন হয়তো একই পাত্র থেকে নিত। ইসরাঈলীর দিকের অংশটা থাকত মিঠা পানি, অন্যজনের দিকেরটা রক্ত। যায়দ ইবন আসলাম ভিন্নভাবে বুঝেছেন: নাক দিয়ে রক্ত পড়া। তাবারী, ইবন কাসীর ও বাগাভী তাঁর এ মত বর্ণনা করেন, আর সা'দী বহু তাফসীরকারের মতের পাশাপাশি এটিও রাখেন।"
+          },
+          {
+            "en": "These scenes are reports, and their tellers say so. Ibn Ishaq tells of locusts eating iron door-nails with as it reached me, and of Musa (AS) striking a mound of sand with his staff with it was mentioned to me. They come from Companions and Successors, not from the Prophet ﷺ, and they vary with the teller. The verse itself simply names five things in one line, joined by and, and moves on to what the people did.",
+            "bn": "এসব দৃশ্য বর্ণনা মাত্র, আর বর্ণনাকারীরা নিজেরাই তা জানিয়ে দেন। পঙ্গপালের লোহার পেরেক খেয়ে ফেলার কথায় ইবন ইসহাক বলেন, 'আমার কাছে যতটুকু পৌঁছেছে'। মূসা (আঃ)-এর লাঠি দিয়ে বালির ঢিবিতে আঘাত করার কথায় বলেন, 'আমাকে বলা হয়েছে'। এগুলো এসেছে সাহাবী ও তাবিঈদের কাছ থেকে, নবী ﷺ থেকে নয়, আর বর্ণনাকারী ভেদে বদলে যায়। আয়াত নিজে শুধু একই লাইনে পাঁচটি জিনিসের নাম বলে, মাঝে কেবল 'ওয়া' দিয়ে জুড়ে, তারপর চলে যায় লোকগুলো কী করল সেই কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spaced Apart, or Spelled Out",
+          "bn": "সময়ে আলাদা, না অর্থে স্পষ্ট"
+        },
+        "p": [
+          {
+            "en": "Ayatin mufassalatin: signs, mufassal. At-Tabari takes ayat as proofs of the truth of Musa's prophethood and of what he called them to, and mufassalat as signs with a separation between them, each following in the wake of the last. He brings Ibn Abbas: signs set apart, one after another, so that Allah would have the proof against them; then He seized them for their sins and drowned them in the sea. Ibn Ishaq's gloss is sign after sign.",
+            "bn": "আয়াতিম মুফাসসালাতিন: আলাদা আলাদা নিদর্শন। তাবারীর ব্যাখ্যায় আয়াত মানে মূসা (আঃ)-এর নবুওয়াত আর তাঁর দাওয়াতের সত্যতার প্রমাণ। আর মুফাসসালাত মানে এমন নিদর্শন, যাদের মাঝে ফাঁক রাখা হয়েছে, প্রতিটি এসেছে আগেরটার পিছু পিছু। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: নিদর্শনগুলো ছিল আলাদা আলাদা, একটার পর একটা, যাতে তাদের বিরুদ্ধে আল্লাহর হুজ্জত পূর্ণ হয়। তারপর আল্লাহ তাদের গুনাহের কারণে পাকড়াও করে সাগরে ডুবিয়ে দিলেন। ইবন ইসহাকের ব্যাখ্যা: নিদর্শনের পর নিদর্শন।"
+          },
+          {
+            "en": "Some reports put lengths on the gaps, and they disagree. Ibn Jurayj, in at-Tabari, says each sign stayed from Saturday to Saturday and was then lifted for a month. Al-Baghawi has each punishment lasting a week, with a month between any two. Al-Qurtubi, under it is narrated and it is said, gives eight days between one sign and the next, or forty days, or a month, which is why they are called mufassalat. Ma'arif al-Qur'an cites Ibn al-Mundhir from Ibn Abbas: seven days from Saturday, then three weeks of relief.",
+            "bn": "কিছু বর্ণনা এই ফাঁকগুলোর মেয়াদও বলে, তবে সেগুলো মেলে না। তাবারীতে ইবন জুরাইজ বলেন, প্রতিটি নিদর্শন থাকত এক শনিবার থেকে পরের শনিবার পর্যন্ত, তারপর এক মাসের জন্য তুলে নেওয়া হতো। বাগাভীর হিসাবে প্রতিটি শাস্তি থাকত এক সপ্তাহ, আর দুই শাস্তির মাঝে এক মাস। কুরতুবী 'বর্ণিত আছে' ও 'বলা হয়' দিয়ে জানান, একটি নিদর্শন থেকে পরেরটির মাঝে ছিল ৮ দিন, কিংবা ৪০ দিন, কিংবা এক মাস, আর এ কারণেই এগুলোকে মুফাসসালাত বলা হয়েছে। মাআরিফুল কুরআন ইবনুল মুনযিরের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনে: শনিবার থেকে ৭ দিন, তারপর ৩ সপ্তাহের স্বস্তি।"
+          },
+          {
+            "en": "The other reading looks to clarity rather than time. At-Tabari reports Mujahid saying ma'lumat, known; al-Qurtubi has him saying made clear and manifest. As-Sa'di reads proofs that they were lying and wronging, and that what Musa (AS) brought was true. The Muyassar holds both: signs no one but Allah could bring about, set apart from one another. The two readings fit together. A sign spaced out in time leaves room to think; a sign made plain leaves no room for an excuse.",
+            "bn": "অন্য ব্যাখ্যাটি সময়ের চেয়ে স্পষ্টতার দিকে তাকায়। তাবারী জানান, মুজাহিদ বলেছেন মা'লূমাত, অর্থাৎ জানা-চেনা। কুরতুবীতে মুজাহিদের কথা আছে এভাবে: সুস্পষ্ট ও প্রকাশ্য। সা'দীর ব্যাখ্যায় এগুলো এমন প্রমাণ যা দেখিয়ে দেয় তারা মিথ্যাবাদী ও জালিম, আর মূসা (আঃ) যা এনেছেন তা সত্য। মুয়াসসার দুটো অর্থই রাখে: এমন নিদর্শন যা আল্লাহ ছাড়া কেউ ঘটাতে পারে না, আর যা একটা থেকে আরেকটা আলাদা। দুই ব্যাখ্যা পরস্পরের সঙ্গে মিলে যায়। সময়ের ব্যবধান ভাবার সুযোগ দেয়, আর স্পষ্টতা অজুহাতের সুযোগ কেড়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proud Before, Proud After",
+          "bn": "আগেও অহংকার, পরেও অহংকার"
+        },
+        "p": [
+          {
+            "en": "Fa-stakbaru wa kanu qawman mujrimin: but they were arrogant, and were a criminal people. At-Tabari reads the first verb as pride that kept them from believing in Allah and from affirming and following His messenger Musa (AS), a self-exaltation against Allah. Mujrimin, he says, are people who do the sins and depravity Allah hates, out of insolence and rebellion; the Muyassar uses nearly his words. As-Sa'di reads kanu as their earlier state: they were criminals already, so Allah punished them by leaving them in their error.",
+            "bn": "ফাসতাকবারূ ওয়া কানূ কাওমাম মুজরিমীন: কিন্তু তারা অহংকার করল, আর তারা ছিল এক অপরাধী জাতি। তাবারীর ব্যাখ্যায় প্রথম ক্রিয়াটি এমন অহংকার, যা তাদের আল্লাহর উপর ঈমান আনা থেকে, তাঁর রাসূল মূসা (আঃ)-কে সত্য বলে মানা ও অনুসরণ করা থেকে আটকে রেখেছিল। তারা আল্লাহর বিরুদ্ধে নিজেদের বড় করে দেখেছিল। তিনি বলেন, মুজরিম হলো তারা, যারা ঔদ্ধত্য আর বিদ্রোহের বশে আল্লাহর অপছন্দের গুনাহ ও পাপাচারে লিপ্ত থাকে। মুয়াসসারও প্রায় একই শব্দ ব্যবহার করে। সা'দী 'কানূ' শব্দটিকে তাদের আগের অবস্থা হিসেবে পড়েন: তারা আগে থেকেই অপরাধী ছিল, তাই আল্লাহ তাদের শাস্তি দিলেন তাদের গোমরাহির মধ্যেই ছেড়ে রেখে।"
+          },
+          {
+            "en": "The reports show what that pride said each time a sign was lifted. After the rain the land grew as never before, and, in al-Baghawi and al-Qurtubi, they called the water nothing but a blessing. After the locusts, what was left would suffice them. After the qummal, in Sa'id ibn Jubayr's report, they were never surer that he was a sorcerer, turning sand into creatures. The pledges they made and broke belong to 7:134 and 7:135; this verse names only the root, and it is arrogance, not a shortage of signs.",
+            "bn": "প্রতিবার নিদর্শন সরে যাওয়ার পর সেই অহংকার কী বলত, বর্ণনাগুলো তা দেখায়। বৃষ্টির পর জমিতে এমন ফসল হলো যা আগে কখনো হয়নি, আর বাগাভী ও কুরতুবীর বর্ণনা অনুযায়ী তারা বলল, ওই পানি তো ছিল নিছক নিয়ামত। পঙ্গপালের পরে যা বেঁচে ছিল তাতেই তাদের চলে যাবে। কুম্মালের পর সাঈদ ইবন জুবাইরের বর্ণনায় তারা বলল, লোকটা যে জাদুকর, এ ব্যাপারে আজকের মতো নিশ্চিত তারা আর কখনো হয়নি, বালিকেও সে প্রাণী বানিয়ে দেয়! যেসব অঙ্গীকার তারা করেছিল আর ভেঙেছিল, সেগুলো ৭:১৩৪ ও ৭:১৩৫ আয়াতের বিষয়। এ আয়াত শুধু মূল কারণটার নাম বলে, আর তা নিদর্শনের অভাব নয়, অহংকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Locusts on the Prophet's Table",
+          "bn": "নবী ﷺ-এর দস্তরখানে পঙ্গপাল"
+        },
+        "p": [
+          {
+            "en": "No sound hadith explains this verse. At-Tabari carries a report raised to the Prophet ﷺ through Aisha (RA) that at-tufan is death; Ibn Kathir, quoting it, calls it gharib, strange, so it settles nothing. While discussing locusts under this verse, Ibn Kathir and al-Qurtubi both cite a narration that is not attached to it. Sahih Muslim 1952 has it from Ibn Abu Aufa: We went on seven expeditions with Allah's Messenger (ﷺ) and ate locusts.",
+            "bn": "এ আয়াতের ব্যাখ্যায় কোনো সহীহ হাদীস নেই। তাবারী আয়েশা (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন যে তূফান মানে মৃত্যু। ইবন কাসীর বর্ণনাটি উদ্ধৃত করে একে গরীব অর্থাৎ বিরল বলেছেন, তাই এ দিয়ে কিছু মীমাংসা হয় না। এ আয়াতের অধীনে পঙ্গপাল নিয়ে আলোচনার সময় ইবন কাসীর ও কুরতুবী দুজনেই এমন একটি হাদীস আনেন, যা এ আয়াতের সঙ্গে যুক্ত নয়। সহীহ মুসলিমের ১৯৫২ নম্বর হাদীসে ইবন আবী আওফা (রাঃ) বলেন: আমরা আল্লাহর রাসূল ﷺ-এর সঙ্গে সাতটি অভিযানে গিয়েছি, আর পঙ্গপাল খেয়েছি।"
+          },
+          {
+            "en": "Al-Qurtubi adds that the scholars did not differ over eating locusts in general. The creature sent upon Pharaoh's people as an affliction was ordinary food for the Prophet ﷺ and his Companions; having been an affliction did not make it unlawful. What made it a sign was that Allah sent it, at that time, upon that people. In the reports, the same water that drowned their fields then made the land grow as never before. The sign lies in the sending.",
+            "bn": "কুরতুবী যোগ করেন, সাধারণভাবে পঙ্গপাল খাওয়া নিয়ে আলেমদের মধ্যে মতভেদ হয়নি। যে প্রাণীকে ফিরআউনের লোকদের উপর বিপদ হিসেবে পাঠানো হয়েছিল, তা-ই ছিল নবী ﷺ ও তাঁর সাহাবীদের সাধারণ খাবার। একসময় বিপদ হয়ে এসেছিল বলে প্রাণীটি হারাম হয়ে যায়নি। একে নিদর্শন বানিয়েছিল এই যে আল্লাহ তাকে পাঠিয়েছিলেন, সেই সময়ে, সেই জাতির উপর। বর্ণনা অনুযায়ী যে পানি তাদের খেত ডুবিয়েছিল, সেই পানিতেই পরে জমিতে এমন ফসল হয়েছিল যা আগে কখনো হয়নি। নিদর্শন থাকে পাঠানোর মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Quiet Weeks Ask",
+          "bn": "শান্ত সপ্তাহগুলোর প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse describes what the text describes: afflictions Allah sent upon Pharaoh's people after they had refused his signs. It licenses nothing against any living person or community. It gives no one the right to read a flood, a swarm or an epidemic in someone else's land as a verdict on them, or to call any people today the heirs of Pharaoh's people. The Qur'an names this people and names its cause. Whoever borrows the verse as a weapon has missed what it was sent to do.",
+            "bn": "আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু পাঠে আছে: ফিরআউনের লোকেরা নবীর নিদর্শন প্রত্যাখ্যান করার পর আল্লাহ তাদের উপর কিছু বিপদ পাঠিয়েছিলেন। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। অন্যের দেশে বন্যা, পোকার আক্রমণ বা মহামারি দেখে তাকে তাদের উপর আল্লাহর রায় বলে ঘোষণা করার অধিকারও এ আয়াত কাউকে দেয় না। আজকের কোনো জাতিকে ফিরআউনের লোকদের উত্তরসূরি বলারও না। কুরআন এই জাতির নাম বলেছে, কারণটাও বলেছে। যে এ আয়াতকে অস্ত্র বানায়, সে আয়াতটি কেন এসেছে তা-ই ধরতে পারেনি।"
+          },
+          {
+            "en": "What the verse asks is turned inward. Its signs came spaced apart, and the spaces were a mercy: in every report the people were given room, and in every report they used it to build the next excuse. The pattern was already named in 7:131: good times are ours by right, bad times are someone else's fault. When a hardship lifts, do I treat the quiet weeks that follow as room to return to Allah, or as proof that I never needed to?",
+            "bn": "আয়াতটি যা চায়, তা নিজের দিকে ফিরে তাকানো। এর নিদর্শনগুলো এসেছিল ফাঁক রেখে, আর সেই ফাঁকগুলোই ছিল রহমত। প্রতিটি বর্ণনায় লোকগুলো অবকাশ পেয়েছে, আর প্রতিটি বর্ণনায় সেই অবকাশ খরচ করেছে পরের অজুহাত গড়তে। ৭:১৩১ আয়াত এই ধরনটি আগেই চিনিয়ে দিয়েছে: সুদিন আমাদের প্রাপ্য, দুর্দিন অন্যের দোষ। কোনো কষ্ট সরে গেলে পরের শান্ত সপ্তাহগুলোকে আমি কীভাবে দেখি? আল্লাহর দিকে ফেরার অবকাশ হিসেবে, নাকি এর প্রমাণ হিসেবে যে ফেরার দরকারই ছিল না?"
+          }
+        ]
+      }
+    ]
+  },
   "7:137": {
     "sections": [
       {
