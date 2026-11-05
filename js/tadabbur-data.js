@@ -20831,6 +20831,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never give Allah's place to anything or put words in His mouth; humiliation follows that lie, and the repentance promised in the next verse is still open.",
     "lessonBn": "আল্লাহর জায়গা কাউকে দেবেন না, তিনি যা বলেননি তা তাঁর নামে বলবেন না। এমন মিথ্যার পেছনে আসে লাঞ্ছনা, আর পরের আয়াতের প্রতিশ্রুত তওবার দরজা এখনো খোলা।"
+  },
+  "7:145": {
+    "reflectionEn": "The request to see was refused and the mountain lay level. Then Musa (AS) was handed something he could hold: tablets written with counsel and a clear account of what to do. The order that came with them was short. Take them with strength, and tell your people to take the best of them. Strength here is less the grip of a hand than the refusal to go slack once the first fervour fades. And the best of it reminds the reader that a revealed book is not a tray to pick the lightest pieces from. The verse closes by promising to show them the home of those who walked away from it. I have a Book too. Do I hold it firmly, or carry it loosely until it slips?",
+    "reflectionBn": "দেখার আবেদন ফিরিয়ে দেওয়া হয়েছে, পাহাড় মাটির সঙ্গে মিশে গেছে। তারপর মূসা (আঃ)-এর হাতে এল এমন কিছু, যা ধরে রাখা যায়: উপদেশ আর করণীয়ের স্পষ্ট বিবরণে লেখা কয়েকটি ফলক। সঙ্গে ছোট্ট একটি হুকুম। এগুলো শক্ত করে ধরো, আর তোমার লোকদের বলো এর উত্তমটুকু আঁকড়ে ধরতে। এখানে শক্তি মানে হাতের মুঠো যতটা, তার চেয়ে বেশি প্রথম উদ্দীপনা মিলিয়ে গেলেও ঢিলে না হওয়া। আর উত্তমটুকুর কথা মনে করিয়ে দেয়, আসমানি কিতাব এমন থালা নয় যেখান থেকে সবচেয়ে হালকা টুকরোগুলো বেছে নেওয়া যায়। আয়াতের শেষে প্রতিশ্রুতি: যারা এ থেকে মুখ ফিরিয়েছে, তাদের ঠিকানা দেখানো হবে। আমার হাতেও একটি কিতাব আছে। আমি কি তা শক্ত করে ধরে আছি, নাকি আলগা করে বয়ে বেড়াচ্ছি, কখন পিছলে পড়ে যায়?",
+    "pointsEn": [
+      "What did I resolve to do with the Qur'an when I last felt close to it, and how much of that resolve is still standing?",
+      "Where have I gone slack in something I once took up with real seriousness?",
+      "When two permitted ways lie open, pardon or getting even, do I reach for the better one or only the allowed one?",
+      "Which part of my religion do I quietly treat as optional because it is heavier than the rest?",
+      "When I pass the ruins of people who turned away, in history or in the news, do I read them as a warning to myself?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কুরআনের খুব কাছাকাছি নিজেকে অনুভব করেছিলাম, তখন কী সংকল্প করেছিলাম? তার কতটুকু আজও টিকে আছে?",
+      "একসময় খুব আন্তরিকভাবে যা শুরু করেছিলাম, তার কোথায় আমি ঢিলে হয়ে পড়েছি?",
+      "যখন দুটি বৈধ পথ খোলা থাকে, ক্ষমা করা অথবা বদলা নেওয়া, আমি কি উত্তমটা বেছে নিই, নাকি শুধু অনুমোদিতটা?",
+      "দ্বীনের কোন অংশটা বাকিগুলোর চেয়ে ভারী বলে মনে মনে ঐচ্ছিক বানিয়ে রেখেছি?",
+      "যারা মুখ ফিরিয়েছিল, ইতিহাসে বা খবরে তাদের ধ্বংসাবশেষ দেখলে আমি কি সেটাকে নিজের জন্য সতর্কবার্তা হিসেবে পড়ি?"
+    ],
+    "lessonEn": "Take what Allah has given you with a resolve that does not slacken, reach for the best of it rather than the least of it, and let the ruins of the defiant warn you.",
+    "lessonBn": "আল্লাহ যা দিয়েছেন তা এমন দৃঢ় সংকল্পে ধরুন যা ঢিলে হয় না। এর সবচেয়ে কমটুকু নয়, উত্তমটুকু আঁকড়ে ধরুন, আর নাফরমানদের ধ্বংসাবশেষ থেকে নিজে সতর্ক হোন।"
   }
 };
 

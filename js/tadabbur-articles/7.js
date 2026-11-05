@@ -5367,6 +5367,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:145": {
+    "sections": [
+      {
+        "h": {
+          "en": "Given in Place of Seeing",
+          "bn": "দেখার বদলে যা মিলল"
+        },
+        "p": [
+          {
+            "en": "The verse sits at the end of the appointment on the mountain. Musa (AS) kept the forty nights of 7:142, asked in 7:143 to look upon his Lord, was told he would not, and fell senseless when the mountain was levelled. In 7:144 he is told he has been chosen with the messages and the speech, and ordered: take what I have given you and be among the grateful. This verse names what was given. Ibn Kathir says that, on every account, the tablets were like a compensation for the seeing he had asked for and been refused.",
+            "bn": "আয়াতটি এসেছে পাহাড়ে নির্ধারিত সাক্ষাতের একেবারে শেষে। ৭:১৪২ আয়াতের চল্লিশ রাত মূসা (আঃ) পূর্ণ করলেন। ৭:১৪৩ আয়াতে রবকে দেখার আবেদন জানালেন, জবাব এল তিনি দেখতে পাবেন না, আর পাহাড় চূর্ণ হতেই তিনি বেহুঁশ হয়ে পড়ে গেলেন। ৭:১৪৪ আয়াতে তাঁকে জানানো হলো, রিসালাত ও কথোপকথন দিয়ে তাঁকে বেছে নেওয়া হয়েছে। হুকুম এল: যা দিলাম তা গ্রহণ করো, আর শোকরগুজারদের দলে থাকো। কী দেওয়া হলো, এ আয়াত তার নাম বলে। ইবন কাসীর বলেন, যেভাবেই ব্যাখ্যা করা হোক, ফলকগুলো ছিল যেন সেই দর্শনের ক্ষতিপূরণ, যা তিনি চেয়েছিলেন আর যা থেকে তাঁকে বিরত রাখা হয়েছিল।"
+          },
+          {
+            "en": "Verses 7:146 and 7:147 warn that the arrogant will be turned away from the signs and their deeds will come to nothing. Then 7:148 cuts to the camp below, where in his absence his people were making a calf from their ornaments. So the tablets are handed over while the people they were written for are already turning elsewhere. The scene of his return and the tablets cast down belongs to 7:150; this verse stays with the moment of giving and the charge that came with it.",
+            "bn": "৭:১৪৬ ও ৭:১৪৭ আয়াত সতর্ক করে, অহংকারীদের নিদর্শন থেকে ফিরিয়ে রাখা হবে, তাদের আমল নিষ্ফল হয়ে যাবে। তারপর ৭:১৪৮ আয়াত দৃশ্য বদলে নিচের শিবিরে নিয়ে যায়। সেখানে তাঁর অনুপস্থিতিতে তাঁর কওম নিজেদের গয়না দিয়ে বাছুর বানাচ্ছিল। অর্থাৎ যাদের জন্য ফলক লেখা হলো, তারা তখনই অন্যদিকে মুখ ফেরাচ্ছে, আর ঠিক তখনই ফলক হাতে তুলে দেওয়া হচ্ছে। তাঁর ফিরে আসা আর ফলক ছুঁড়ে ফেলার দৃশ্য ৭:১৫০ আয়াতের বিষয়। এ আয়াত থেমে থাকে দান করার মুহূর্তে আর তার সঙ্গে আসা দায়িত্বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Emerald, Wood, or Rock",
+          "bn": "পান্না, কাঠ, নাকি পাথর"
+        },
+        "p": [
+          {
+            "en": "Wa-katabna lahu fi l-alwah: and We wrote for him on the tablets. At-Tabari reads the definite article as standing in for a possessive, his tablets. Al-Qurtubi notes that Allah ascribes the writing to Himself as a mark of honour, and gives two accounts of it: written at His command by Jibril with the pen that wrote the Remembrance, or a writing Allah Himself brought into being on the tablets. Ibn Kathir reports that the tablets held the Torah, citing 28:43, and also that they were given before the Torah, and adds: Allah knows best.",
+            "bn": "ওয়া কাতাবনা লাহু ফিল আলওয়াহ: আর আমি তার জন্য ফলকে লিখে দিলাম। তাবারীর মতে এখানে নির্দিষ্টবাচক আল সম্বন্ধের জায়গা নিয়েছে, অর্থাৎ তাঁর ফলকগুলো। কুরতুবী লক্ষ করেন, আল্লাহ লেখাকে নিজের দিকে সম্বন্ধিত করেছেন সম্মান দেখাতে। কীভাবে লেখা হলো, তার দুটি বিবরণ তিনি দেন। এক, তাঁর আদেশে জিবরীল সেই কলমে লিখেছিলেন যা দিয়ে যিকর লেখা হয়েছিল। দুই, আল্লাহ নিজেই ফলকে লেখাটি সৃষ্টি করে প্রকাশ করেছিলেন। ইবন কাসীর জানান, ফলকগুলোতে তাওরাত ছিল, এবং প্রমাণ হিসেবে ২৮:৪৩ আয়াত আনেন। আবার এ মতও আনেন যে ফলকগুলো তাওরাতের আগে দেওয়া হয়েছিল। তারপর বলেন: আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "What the tablets were made of is a field of reports that do not agree. Al-Qurtubi lists green emerald from Mujahid, red ruby from Sa'id ibn Jubayr, chrysolite from Abu al-'Aliya, and wood sent down from the sky from al-Hasan; al-Baghawi adds hail from ar-Rabi' ibn Anas. Al-Qurtubi also reports, as something narrated, that there were two, the plural standing for a pair. Al-Baghawi cites, as being in the hadith, lote-tree wood of Paradise with each tablet twelve cubits long, but names no chain. All of it is best held as report, not as knowledge.",
+            "bn": "ফলকগুলো কী দিয়ে তৈরি ছিল, এ নিয়ে বর্ণনা অনেক, আর সেগুলো একে অপরের সঙ্গে মেলে না। কুরতুবী তালিকা দেন: মুজাহিদের মতে সবুজ পান্না, সাঈদ ইবন জুবাইরের মতে লাল ইয়াকুত, আবুল আলিয়ার মতে যাবারজাদ, আর হাসানের মতে আকাশ থেকে নামানো কাঠ। বাগাভী যোগ করেন রবী ইবন আনাসের মত: শিলা। কুরতুবী বর্ণিত কথা হিসেবে এটাও আনেন যে ফলক ছিল দুটি, আর দুইকে বহুবচনে বলা হয়েছে। বাগাভী 'হাদীসে আছে' বলে উল্লেখ করেন, ফলকগুলো জান্নাতের কুলগাছের কাঠের, প্রতিটি ১২ হাত লম্বা। কিন্তু কোনো সনদ উল্লেখ করেন না। তাই এসবই বর্ণনা হিসেবে রাখা ভালো, নিশ্চিত জ্ঞান হিসেবে নয়।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it. At-Tabari carries a report through 'Atiyya al-'Awfi from Ibn Abbas in which Adam, disputing with Musa (AS), quotes this verse's words back to him. The editor of at-Tabari's printed text marks its chain as very weak, and notes that the dispute itself is narrated by al-Bukhari and Muslim.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাবারী আতিয়্যা আল-আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন, যেখানে আদম (আঃ) মূসা (আঃ)-এর সঙ্গে বিতর্কে এ আয়াতের কথাগুলোই তাঁকে ফিরিয়ে শোনান। তাবারীর মুদ্রিত সংস্করণের সম্পাদক এর সনদকে খুবই দুর্বল বলেছেন। তিনি এটাও জানিয়েছেন যে বিতর্কের ঘটনাটি নিজে বুখারী ও মুসলিমে বর্ণিত আছে।"
+          },
+          {
+            "en": "The sound narration is general, and the commentators fetched do not tie it to this verse. Al-Bukhari (6614) records from Abu Hurayra that the Prophet ﷺ said: \"Adam and Moses argued with each other. Moses said to Adam, 'O Adam! You are our father who disappointed us and turned us out of Paradise.' Then Adam said to him, 'O Moses! Allah favored you with His talk and He wrote for you with His Own Hand. Do you blame me for action which Allah had written in my fate forty years before my creation?' So Adam confuted Moses, Adam confuted Moses,\" repeating it three times.",
+            "bn": "সহীহ বর্ণনাটি সাধারণ, আর উল্লিখিত তাফসীরকারেরা একে এ আয়াতের সঙ্গে জোড়েননি। বুখারী (৬৬১৪) আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"আদম ও মূসা পরস্পর বিতর্ক করলেন। মূসা আদমকে বললেন, 'হে আদম! আপনি আমাদের পিতা, আপনি আমাদের বঞ্চিত করেছেন, জান্নাত থেকে বের করে দিয়েছেন।' আদম তাঁকে বললেন, 'হে মূসা! আল্লাহ আপনাকে তাঁর কালামের জন্য বেছে নিয়েছেন, আর নিজ হাতে আপনার জন্য লিখে দিয়েছেন। আপনি কি আমাকে এমন বিষয়ে দোষ দিচ্ছেন, যা আল্লাহ আমাকে সৃষ্টির চল্লিশ বছর আগে আমার জন্য নির্ধারণ করে রেখেছিলেন?' এভাবে আদম মূসাকে যুক্তিতে হারিয়ে দিলেন, আদম মূসাকে হারিয়ে দিলেন।\" কথাটি তিনি তিনবার বললেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Everything, or Everything Needed",
+          "bn": "সব কিছু, নাকি প্রয়োজনের সব"
+        },
+        "p": [
+          {
+            "en": "Min kulli shay'in maw'izatan wa-tafsilan li-kulli shay': of everything an admonition, and a detailing of everything. Most of the commentators fetched read the min as a portion, not the whole. The Muyassar glosses it as everything Musa needed in his religion of rulings; as-Sa'di as everything the servants need; al-Qurtubi, from ath-Thawri and others, as what he needed in his religion, with the lawful and unlawful made clear. Al-Qurtubi records a second view: the phrase magnifies rather than covers all things, as one says I went to the market and bought everything, and as in 27:23 and 46:25.",
+            "bn": "মিন কুল্লি শাইয়িন মাওইযাতান ওয়া তাফসীলান লিকুল্লি শাই: সব বিষয়ের উপদেশ আর সব বিষয়ের বিস্তারিত বিবরণ। উল্লিখিত তাফসীরকারদের বেশিরভাগ এখানে মিন অব্যয়কে অংশ অর্থে পড়েন, সম্পূর্ণ অর্থে নয়। মুয়াসসারের ব্যাখ্যায় এর মানে, দ্বীনের বিধিবিধানের মধ্যে মূসার যা কিছু দরকার ছিল। সা'দীর ব্যাখ্যায়, বান্দাদের যা কিছু দরকার। কুরতুবী সাওরী ও অন্যদের সূত্রে বলেন, দ্বীনে তাঁর যা দরকার ছিল, হালাল ও হারামের স্পষ্ট বিবরণসহ। কুরতুবী দ্বিতীয় একটি মতও আনেন: কথাটি সব কিছুকে বেষ্টন করতে নয়, বড়ত্ব বোঝাতে বলা। যেমন কেউ বলে, বাজারে গিয়ে সব কিছু কিনে ফেললাম। ২৭:২৩ ও ৪৬:২৫ আয়াতেও এমন প্রয়োগ আছে।"
+          },
+          {
+            "en": "The two nouns divide the work. At-Tabari makes the first everything a reminder of Allah's greatness and the might of His rule, an admonition for Musa's people and for whoever was told to act on the tablets; the detailing is a making clear of Allah's command and prohibition. Mujahid, in at-Tabari's chains, says what they were commanded and forbidden, and as-Suddi, the lawful and the unlawful. As-Sa'di widens the detailing to rulings, beliefs, character and manners. Al-Qurtubi says the detailing had to be full because they had no ijtihad, which was given specially to the community of Muhammad ﷺ.",
+            "bn": "দুটি শব্দ দুই রকম কাজ করে। তাবারীর মতে প্রথম 'সব কিছু' হলো আল্লাহর মহত্ত্ব আর তাঁর রাজত্বের প্রতাপের কথা মনে করিয়ে দেওয়া। এ উপদেশ মূসার কওমের জন্য, আর ফলকের লেখা অনুযায়ী আমল করার হুকুম যাদের দেওয়া হয়েছিল তাদের জন্য। আর বিস্তারিত বিবরণ মানে আল্লাহর আদেশ ও নিষেধ খুলে বলা। তাবারীর সনদে মুজাহিদ বলেন, যা করতে তাদের আদেশ আর যা থেকে নিষেধ করা হয়েছিল। সুদ্দী বলেন, হালাল ও হারাম। সা'দী বিস্তারিত বিবরণের পরিধি বাড়িয়ে শরীয়তের বিধান, আকীদা, চরিত্র ও আদবকে এর মধ্যে আনেন। কুরতুবী বলেন, বিবরণ এত পূর্ণ হতে হয়েছিল কারণ তাদের ইজতিহাদ ছিল না। সেটা বিশেষভাবে দেওয়া হয়েছে মুহাম্মাদ ﷺ-এর উম্মতকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grip That Does Not Slacken",
+          "bn": "যে মুঠো ঢিলে হয় না"
+        },
+        "p": [
+          {
+            "en": "Fa-khudh-ha bi-quwwa: so take them with strength. At-Tabari supplies the unspoken frame, and We said to Musa, and notes that the tablets are named while what is in them is meant. He records a disagreement over quwwa. Ibn Abbas, through 'Ikrima, says with earnestness, and as-Suddi with earnestness and effort; ar-Rabi' ibn Anas says with obedience. Ibn Kathir joins the two as resolve upon obedience. Al-Qurtubi has earnestness and vigour, and points to the same words spoken to the whole people in 2:63.",
+            "bn": "ফাখুযহা বিকুওয়াহ: এগুলো শক্তভাবে ধরো। তাবারী না-বলা কাঠামোটুকু পূরণ করে দেন: আর আমি মূসাকে বললাম। তিনি লক্ষ করেন, নাম নেওয়া হয়েছে ফলকের, কিন্তু উদ্দেশ্য ফলকে যা লেখা আছে তা। কুওয়াহ শব্দের অর্থ নিয়ে তিনি মতভেদ উল্লেখ করেন। ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) বলেন, আন্তরিক নিষ্ঠার সঙ্গে। সুদ্দী বলেন, নিষ্ঠা ও প্রচেষ্টার সঙ্গে। আর রবী ইবন আনাস বলেন, আনুগত্যের সঙ্গে। ইবন কাসীর দুটিকে মিলিয়ে বলেন, আনুগত্যের উপর দৃঢ় সংকল্প। কুরতুবী বলেন নিষ্ঠা ও উদ্যম, আর দেখিয়ে দেন ২:৬৩ আয়াতে গোটা কওমকে একই কথা বলা হয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi adds a reading that turns inward: with strength of heart and soundness of resolve, because whoever takes it up with a weak intention is led by that into slackening. The order also answers 7:144, one verse back, where Musa (AS) heard the same verb, take what I have given you. There the gift was named in general; here it is written down, and the manner of taking is added.",
+            "bn": "বাগাভী আরেকটি ব্যাখ্যা আনেন, যা মনের ভেতরের দিকে ইঙ্গিত করে: অন্তরের শক্তি আর খাঁটি সংকল্প নিয়ে ধরা। কারণ দুর্বল নিয়তে কেউ কিছু ধরলে সে দুর্বলতাই তাকে ঢিলেমির দিকে নিয়ে যায়। এ হুকুম ঠিক আগের আয়াত ৭:১৪৪-এর জবাবও। সেখানে মূসা (আঃ) একই ক্রিয়া শুনেছিলেন: যা দিলাম তা গ্রহণ করো। সেখানে দানের কথা ছিল সাধারণভাবে। এখানে তা লিখিত রূপ পেল, আর কীভাবে ধরতে হবে তাও যুক্ত হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Part Is the Best",
+          "bn": "উত্তম অংশ কোনটি"
+        },
+        "p": [
+          {
+            "en": "Wa'mur qawmaka ya'khudhu bi-ahsaniha: and command your people to take the best of it. At-Tabari, with as-Suddi, reads it as acting on the best they find in it. He raises the obvious objection himself: were they then free to leave some of its good? No, he answers; it held command and prohibition, and acting on what is commanded is better than acting on what is forbidden. Al-Qurtubi's reading is close to his: act on the commands, leave the prohibitions, and ponder the parables and admonitions.",
+            "bn": "ওয়া'মুর কাওমাকা ইয়া'খুযু বিআহসানিহা: আর তোমার কওমকে আদেশ দাও, তারা যেন এর উত্তমটুকু ধরে। তাবারী, সুদ্দীর সঙ্গে মিলে, এর অর্থ করেন: এতে যা সবচেয়ে উত্তম পায় সে অনুযায়ী আমল করা। স্বাভাবিক আপত্তিটা তিনি নিজেই তোলেন: তাহলে কি এর কিছু ভালো অংশ ছেড়ে দেওয়ার সুযোগ তাদের ছিল? জবাবে বলেন, না। এতে আদেশ ছিল, নিষেধও ছিল। আর আদিষ্ট কাজ করা নিষিদ্ধ কাজ করার চেয়ে উত্তম। কুরতুবীর ব্যাখ্যাও কাছাকাছি: আদেশগুলো পালন করা, নিষেধগুলো ছেড়ে দেওয়া, আর দৃষ্টান্ত ও উপদেশগুলো নিয়ে ভাবা।"
+          },
+          {
+            "en": "Two reports from Ibn Abbas pull in another direction. Through 'Ikrima, cited by at-Tabari and Ibn Kathir, Musa (AS) was commanded to take it more strictly than his people were commanded. Through 'Ata', in al-Baghawi: let them hold its lawful as lawful and its unlawful as unlawful, ponder its parables, act on its clear verses and stop at its ambiguous ones. Al-Baghawi adds that Musa was more intense in worship than his people, and so was commanded with what they were not.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকে দুটি বর্ণনা ভিন্ন দিকে টানে। ইকরিমার সূত্রে, যা তাবারী ও ইবন কাসীর আনেন: মূসা (আঃ)-কে হুকুম দেওয়া হয়েছিল তাঁর কওমকে যতটা কঠোরভাবে ধরতে বলা হয়েছে, তার চেয়ে কঠোরভাবে ধরতে। আর বাগাভীতে আতার সূত্রে: তারা যেন এর হালালকে হালাল আর হারামকে হারাম মানে, এর দৃষ্টান্ত নিয়ে ভাবে, এর মুহকাম আয়াত অনুযায়ী আমল করে আর মুতাশাবিহ আয়াতের কাছে থেমে যায়। বাগাভী যোগ করেন, মূসা (আঃ) ইবাদতে তাঁর কওমের চেয়ে বেশি কঠোর ছিলেন। তাই তাঁকে এমন কিছুর হুকুম দেওয়া হয়েছিল, যার হুকুম তাদের দেওয়া হয়নি।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi gather three more readings. The best is the obligatory and the voluntary, which earn reward, as against the merely permitted; as-Sa'di takes a similar line, the obligatory and recommended commands, and draws from it that Allah's commands in every law are complete, just and good. Or it is the better of two options in each matter, so that pardon is better than retaliation and patience better than paying back. Or, from Qutrub in al-Baghawi, bi-ahsaniha simply means by its good, since all of it is good. The readings are kept side by side here.",
+            "bn": "বাগাভী ও কুরতুবী আরও তিনটি ব্যাখ্যা একত্র করেন। এক, উত্তম হলো ফরজ ও নফল, যাতে সওয়াব মেলে। এর নিচে শুধুই মুবাহ। সা'দীও কাছাকাছি কথা বলেন: উত্তম হলো ওয়াজিব ও মুস্তাহাব আদেশগুলো। এ থেকে তিনি সিদ্ধান্ত টানেন, প্রতিটি শরীয়তে আল্লাহর আদেশ পূর্ণাঙ্গ, ন্যায়সংগত ও সুন্দর। দুই, প্রতিটি বিষয়ে দুই পথের মধ্যে যেটা উত্তম। যেমন বদলা নেওয়ার চেয়ে ক্ষমা উত্তম, প্রতিশোধের চেয়ে সবর উত্তম। তিন, বাগাভীতে কুতরুবের মত: বিআহসানিহা মানে স্রেফ এর ভালোটুকু দিয়ে, কারণ এর সবটাই ভালো। এখানে মতগুলো পাশাপাশি রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hell, Syria, or Egypt",
+          "bn": "জাহান্নাম, শাম, নাকি মিসর"
+        },
+        "p": [
+          {
+            "en": "Sa-urikum dara l-fasiqin: I will show you the home of the defiantly disobedient. At-Tabari takes it as the Hereafter: whoever of them or of others associates partners with Allah will be shown, on his return to Him, the home of the fasiqin, which is the Fire. It is a threat, he says, like a man telling someone, tomorrow I will show you where the one who defies me ends up. Mujahid says their destination in the Hereafter, al-Hasan says Hell, and the Muyassar reads it the same way.",
+            "bn": "সাউরীকুম দারাল ফাসিকীন: শীঘ্রই আমি তোমাদের নাফরমানদের ঠিকানা দেখাব। তাবারী একে আখিরাতের কথা ধরেন। তাদের মধ্যে বা অন্যদের মধ্যে যে আল্লাহর সঙ্গে শরিক করবে, আল্লাহর কাছে ফেরার পর তাকে ফাসিকদের ঠিকানা দেখানো হবে, আর তা হলো জাহান্নাম। তাঁর মতে এটা হুমকি। যেমন কেউ কাউকে বলে: কাল তোমাকে দেখাব, যে আমার হুকুম অমান্য করে তার পরিণতি কী হয়। মুজাহিদ বলেন, আখিরাতে তাদের শেষ গন্তব্য। হাসান বলেন, জাহান্নাম। মুয়াসসারও একই অর্থ করে।"
+          },
+          {
+            "en": "Others read a place on earth. Qatada says their dwellings, which at-Tabari explains as entering Syria and seeing the homes of the tyrants and Amalekites who lived there. A third view he lists is the land of Pharaoh's people, Egypt, but the reports under it are missing from his manuscript, where the editor marks a gap. Al-Qurtubi gives Egypt from Ibn Jubayr, Syria from Qatada, and from al-Kalbi the ruined homes of 'Ad and Thamud that they passed on journeys. He says 7:137 and 28:5 support the Egypt and Syria readings.",
+            "bn": "অন্যরা একে দুনিয়ার কোনো জায়গা ধরেন। কাতাদা বলেন, তাদের বসতি। তাবারী এর ব্যাখ্যা দেন: শামে প্রবেশ করিয়ে সেখানকার বাসিন্দা জাব্বার ও আমালিকাদের বসতি দেখানো। তৃতীয় যে মত তিনি উল্লেখ করেন, তা হলো ফিরআউনের কওমের দেশ, মিসর। কিন্তু এর পক্ষের বর্ণনাগুলো তাঁর পাণ্ডুলিপিতে নেই, সম্পাদক সেখানে ফাঁকা জায়গার কথা লিখেছেন। কুরতুবী ইবন জুবাইর থেকে মিসর, কাতাদা থেকে শাম, আর কালবী থেকে আদ ও সামূদের ধ্বংসপ্রাপ্ত বসতির কথা আনেন, যেগুলোর পাশ দিয়ে তারা সফরে যেত। তিনি বলেন, ৭:১৩৭ ও ২৮:৫ আয়াত মিসর ও শামের মত দুটিকে সমর্থন করে।"
+          },
+          {
+            "en": "At-Tabari prefers the threat, because what comes before it is a command to act on the Torah, and it best fits Allah's wisdom to close such a command with a warning to whoever neglects it. Ibn Kathir reports this, lists Syria and the homes of Pharaoh's people after it, and judges the first view more fitting, since the words were said after Musa and his people had left Egypt and before they entered the wandering. As-Sa'di keeps an earthly sense: homes Allah left standing after destroying their people, as a lesson for the believers. Ma'arif al-Qur'an reads it as a promise of Egypt or Syria.",
+            "bn": "তাবারী হুমকির অর্থটিকেই অগ্রাধিকার দেন। কারণ এর আগে আছে তাওরাত অনুযায়ী আমল করার হুকুম, আর এমন হুকুমের শেষে অবহেলাকারীর জন্য সতর্কবাণী রাখাই আল্লাহর হিকমতের সঙ্গে বেশি মানানসই। ইবন কাসীর এটি উদ্ধৃত করেন, তারপর শাম ও ফিরআউনের কওমের বসতির মত দুটি আনেন, আর প্রথম মতটিকেই বেশি যুক্তিযুক্ত বলেন। কারণ কথাটি বলা হয়েছিল মূসা (আঃ) ও তাঁর কওম মিসর ছেড়ে আসার পরে, আর তীহ প্রান্তরে প্রবেশের আগে। সা'দী দুনিয়ার অর্থটিই রাখেন: কওমকে ধ্বংস করার পর আল্লাহ তাদের ঘরবাড়ি রেখে দিয়েছেন, মুমিনদের শিক্ষার জন্য। মাআরিফুল কুরআন একে মিসর বা শাম পাওয়ার প্রতিশ্রুতি হিসেবে পড়ে।"
+          },
+          {
+            "en": "The defiant here are people the text identifies by what they did: those whose end is the Fire, Pharaoh's people, the tyrants of a land, or 'Ad and Thamud. The verse describes what it describes, in Allah's address to Musa and his people. It licenses nothing against any living person or community, and gives no one the right to point at a land or a people today and call it the home of the defiant. Its warning faces the people who had just been handed the Book.",
+            "bn": "এখানে ফাসিক তারা, যাদের পরিচয় পাঠ দিয়েছে তাদের কাজ দিয়ে: যাদের শেষ ঠিকানা জাহান্নাম, ফিরআউনের কওম, কোনো দেশের জালিম শাসকেরা, অথবা আদ ও সামূদ। আয়াতটি মূসা (আঃ) ও তাঁর কওমের প্রতি আল্লাহর সম্বোধনে যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো দেশ বা জাতির দিকে আঙুল তুলে তাকে নাফরমানদের ঠিকানা বলার অধিকারও কাউকে দেয় না। এর সতর্কবাণী সেই লোকদের দিকে, যাদের হাতে সবেমাত্র কিতাব তুলে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Take It, Said Elsewhere",
+          "bn": "অন্য আয়াতেও ধরার হুকুম"
+        },
+        "p": [
+          {
+            "en": "The order recurs. In 2:63, and in 7:171 with the mountain raised over them, the Children of Israel are told to take what was given them with determination and remember what is in it; in 19:12 Yahya (AS) is told to take the Book with strength. The best of it has sisters too, which al-Qurtubi names: 39:55 tells believers to follow the best of what was revealed to them, and 39:18 praises those who hear speech and follow the best of it. And 7:154 says that when his anger subsided Musa took up the tablets, and in their inscription was guidance and mercy.",
+            "bn": "এ হুকুম কুরআনে বারবার আসে। ২:৬৩ আয়াতে, আবার ৭:১৭১ আয়াতে মাথার উপর পাহাড় তুলে ধরে, বনী ইসরাঈলকে বলা হয়েছে: যা দিলাম দৃঢ়ভাবে ধরো, আর এতে যা আছে মনে রাখো। ১৯:১২ আয়াতে ইয়াহইয়া (আঃ)-কে বলা হয়েছে: কিতাবটি শক্ত করে ধরো। উত্তমটুকু ধরার কথারও সঙ্গী আয়াত আছে, কুরতুবী সেগুলোর উল্লেখ করেন। ৩৯:৫৫ আয়াত মুমিনদের বলে, তোমাদের প্রতি যা নাযিল হয়েছে তার উত্তমটুকু অনুসরণ করো। ৩৯:১৮ আয়াত প্রশংসা করে তাদের, যারা কথা শোনে আর তার উত্তমটুকু মেনে চলে। আর ৭:১৫৪ আয়াত জানায়, রাগ থেমে গেলে মূসা (আঃ) ফলকগুলো তুলে নিলেন, আর সেগুলোর লেখায় ছিল হেদায়াত ও রহমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding the Book You Were Given",
+          "bn": "হাতে পাওয়া কিতাব ধরে রাখা"
+        },
+        "p": [
+          {
+            "en": "For a Muslim the book in hand is the Qur'an, and each gloss above asks something concrete. Strength, on every reading, is resolve rather than force, so the test is less the first week of fervour than the months after it. The better of two options can be practised daily: where pardon and getting even are both open, choose pardon; where patience and paying back are both allowed, choose patience. And a book honoured on arrival and then neglected is what the closing threat warns against.",
+            "bn": "একজন মুসলিমের হাতে যে কিতাব, তা কুরআন। ওপরের প্রতিটি ব্যাখ্যা তার কাছে বাস্তব কিছু দাবি করে। প্রতিটি মতে শক্তি মানে জোর নয়, সংকল্প। তাই আসল পরীক্ষা প্রথম সপ্তাহের উদ্দীপনায় নয়, তার পরের মাসগুলোতে। দুই পথের মধ্যে উত্তমটা বেছে নেওয়ার অনুশীলন রোজই করা যায়। ক্ষমা আর বদলা দুটোই যখন খোলা, ক্ষমা বেছে নিন। সবর আর প্রতিশোধ দুটোই যখন বৈধ, সবর বেছে নিন। আর যে কিতাব আসার দিন সম্মান পেল, পরে অবহেলায় পড়ে রইল, আয়াতের শেষের হুমকি ঠিক সে বিষয়েই সতর্ক করে।"
+          },
+          {
+            "en": "The verse is not itself a supplication, but its words can shape one in a reader's own voice: O Allah, give me strength to hold what You have given me, let me take the best of it, and keep me far from the home of the defiant. That is a prayer built from the verse's vocabulary, not a narrated du'a.",
+            "bn": "আয়াতটি নিজে কোনো দোয়া নয়। তবে এর শব্দ দিয়ে পাঠক নিজের ভাষায় একটি দোয়া গড়ে নিতে পারেন: হে আল্লাহ, আপনি যা দিয়েছেন তা ধরে রাখার শক্তি দিন, এর উত্তমটুকু আঁকড়ে ধরার তাওফীক দিন, আর নাফরমানদের ঠিকানা থেকে আমাকে দূরে রাখুন। এটি আয়াতের শব্দভান্ডার থেকে গড়া দোয়া, কোনো বর্ণিত দোয়া নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "7:150": {
     "sections": [
       {
