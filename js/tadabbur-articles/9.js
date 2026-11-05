@@ -3079,6 +3079,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Who Stayed Unblamed",
+          "bn": "দোষমুক্ত তিন দল"
+        },
+        "p": [
+          {
+            "en": "The verses before this one are hard on people who stayed at home. In 9:86 men of means asked leave to sit with those who sit. In 9:90 excuse-makers came from among the bedouins, and those who had lied to Allah and His Messenger sat at home. As-Sa'di opens his comment by sorting them: the excuse-makers were of two kinds, one excused in the Shari'a and one not. This verse names the first kind, and it opens with a negation: laysa 'ala, there is not upon them.",
+            "bn": "এ আয়াতের আগের আয়াতগুলো ঘরে বসে থাকা লোকদের ব্যাপারে কঠোর। ৯:৮৬ আয়াতে সামর্থ্যবান লোকেরা অনুমতি চেয়েছিল, যারা বসে থাকে তাদের সঙ্গে থেকে যাবে বলে। ৯:৯০ আয়াতে বেদুইনদের মধ্য থেকে ওজর পেশকারীরা এল, আর যারা আল্লাহ ও তাঁর রসূলের কাছে মিথ্যা বলেছিল, তারা ঘরেই বসে রইল। সা'দী তাঁর ব্যাখ্যা শুরু করেন এদের ভাগ করে। ওজর পেশকারীরা ছিল দুই রকম: একদলের ওজর শরীয়তে গ্রহণযোগ্য, অন্যদলের নয়। এ আয়াত প্রথম দলের কথা বলে, আর শুরু হয় একটি না-বাচক কথায়: লাইসা 'আলা, তাদের উপর নেই।"
+          },
+          {
+            "en": "Three groups follow in one breath: ad-du'afa', the weak; al-marda, the sick; and alladhina la yajiduna ma yunfiqun, those who find nothing to spend. Only after all three are named does the verdict come: haraj, blame. Then the verse sets a condition, idha nasahu lillahi wa rasulih, when they are sincere to Allah and His Messenger, and closes on a principle and two names of Allah. Two verses later, 9:93 answers it with the same word: the road of blame, as-sabil, runs only against those who ask leave while they are rich.",
+            "bn": "এরপর এক নিঃশ্বাসে তিনটি দলের নাম: আদ-দু'আফা, দুর্বলেরা; আল-মারদা, অসুস্থরা; আর আল্লাযীনা লা ইয়াজিদূনা মা ইউনফিকূন, যারা খরচ করার মতো কিছু পায় না। তিনটি নাম শেষ হলে তবেই রায়টি আসে: হারাজ, দোষ। তারপর আয়াতে একটি শর্ত, ইযা নাসাহূ লিল্লাহি ওয়া রসূলিহ, যদি তারা আল্লাহ ও তাঁর রসূলের প্রতি আন্তরিক থাকে। শেষে আসে একটি মূলনীতি আর আল্লাহর দুটি নাম। দুই আয়াত পরে ৯:৯৩ একই শব্দ দিয়ে এর জবাব দেয়: দোষারোপের পথ, আস-সাবীল, শুধু তাদের বিরুদ্ধে, যারা ধনী হয়েও অব্যাহতি চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weak, Sick, Empty-Handed",
+          "bn": "দুর্বল, পীড়িত, নিঃস্ব"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the weak as ahl az-zamana, people with a lasting disability, and those unable to travel and campaign; then the sick; then whoever has no provision to carry him to the place of the campaign. Haraj, he says, is ithm, sin: no sin is on them. Al-Baghawi reports Ibn 'Abbas taking the weak to mean the chronically disabled, the elderly and the infirm, and adds two other views with \"it was said\": children, and women. For haraj he gives sin, and a second sense, constriction in staying back.",
+            "bn": "তাবারীর ব্যাখ্যায় দুর্বল মানে আহলুয যামানা, অর্থাৎ যাদের স্থায়ী অক্ষমতা আছে, আর যারা সফর ও যুদ্ধে যেতে অপারগ। তারপর অসুস্থরা। তারপর সেই ব্যক্তি, যার কাছে যুদ্ধক্ষেত্র পর্যন্ত পৌঁছানোর মতো পাথেয় নেই। তাঁর মতে হারাজ মানে ইসম, গুনাহ। অর্থাৎ তাদের কোনো গুনাহ নেই। বাগাভী ইবন আব্বাসের মত উল্লেখ করেন: দুর্বল বলতে স্থায়ী অক্ষম, বৃদ্ধ আর অশক্ত লোকেরা। 'বলা হয়' কথাটি দিয়ে তিনি আরও দুটি মত আনেন: শিশুরা, আর নারীরা। হারাজের অর্থ তিনি দেন গুনাহ, আর দ্বিতীয় একটি অর্থও দেন: পেছনে থেকে যাওয়ার সংকীর্ণতা।"
+          },
+          {
+            "en": "Ibn Kathir reads an order in the list. First comes what is bound to a person and never leaves him, a weakness in the body's make-up that rules out fighting, such as blindness and lameness, and that, he says, is why the verse begins with it. Then comes what is passing: an illness that befell the body, or poverty that leaves one unable to equip. As-Sa'di makes the sick a wide word, every illness that keeps a person from going out, and names lameness, blindness, fever, pleurisy and paralysis.",
+            "bn": "ইবন কাসীর তালিকাটির মধ্যে একটা ক্রম দেখেন। প্রথমে সেই অক্ষমতা, যা মানুষের সঙ্গে লেগে থাকে, কখনো ছাড়ে না: শরীরের গঠনগত দুর্বলতা, যার কারণে লড়াই করা সম্ভব নয়, যেমন অন্ধত্ব আর খোঁড়া হওয়া। তাঁর মতে এ কারণেই আয়াতটি এটা দিয়ে শুরু হয়েছে। এরপর আসে সাময়িক অক্ষমতা: শরীরে দেখা দেওয়া কোনো অসুখ, অথবা এমন দারিদ্র্য যে যুদ্ধের সরঞ্জাম জোগাড় করা যায় না। সা'দী অসুস্থ শব্দটিকে বড় করে দেখেন। যে অসুখ মানুষকে বের হতে দেয় না, সবই এর ভেতরে। তিনি নাম করেন খোঁড়া হওয়া, অন্ধত্ব, জ্বর, প্লুরিসি আর পক্ষাঘাতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sincerity Without Admixture",
+          "bn": "খাদহীন আন্তরিকতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines the word at the centre of the condition: an-nush is ikhlas al-'amal min al-ghish, freeing a deed from whatever adulterates it. From the same root, he notes, comes at-tawba an-nasuh, sincere repentance. He cites the grammarian Niftawayh: nasaha ash-shay' is said of a thing when it has become pure, and nasaha lahu al-qawl means he made his word pure for him. The condition, then, is not a feeling of loyalty. It is a heart with nothing else mixed into it.",
+            "bn": "শর্তটির কেন্দ্রে যে শব্দ, কুরতুবী তার সংজ্ঞা দেন: আন-নুসহ হলো ইখলাসুল আমাল মিনাল গিশ, অর্থাৎ আমলকে সব রকম ভেজাল থেকে মুক্ত করা। তিনি দেখান, একই ধাতু থেকে এসেছে আত-তাওবাতুন নাসূহ, খাঁটি তওবা। ব্যাকরণবিদ নিফতাওয়াইহের কথাও তিনি আনেন: কোনো জিনিস খাঁটি হয়ে গেলে বলা হয় নাসাহাশ শাই', আর নাসাহা লাহুল কাওল মানে সে তার জন্য নিজের কথাকে খাঁটি করল। তাহলে শর্তটা কেবল আনুগত্যের অনুভূতি নয়। শর্ত হলো এমন একটা মন, যার ভেতরে আর কিছু মিশে নেই।"
+          },
+          {
+            "en": "To explain the word, al-Qurtubi cites Sahih Muslim, from Tamim ad-Dari, that the Prophet ﷺ said: \"The Religion is sincerity.\" We said, \"To whom?\" He said \"To Allah, to His Book, To His Messenger, and to the leaders of the Muslims and their masses.\" That is Muslim's wording, hadith 55, and Muslim placed it in his Sahih. It is a general teaching and is not reported as the occasion of this verse; al-Qurtubi brings it because it opens up the same word, nasiha, that the verse uses.",
+            "bn": "শব্দটি বোঝাতে কুরতুবী সহীহ মুসলিম থেকে তামীম দারী (রাঃ)-এর বর্ণনা আনেন। নবী ﷺ বলেছেন: \"দ্বীন হলো নসীহত (আন্তরিকতা)।\" আমরা বললাম, \"কার জন্য?\" তিনি বললেন, \"আল্লাহর জন্য, তাঁর কিতাবের জন্য, তাঁর রসূলের জন্য, মুসলিমদের নেতাদের জন্য এবং তাদের সাধারণ মানুষের জন্য।\" এটি মুসলিমের ভাষ্য, হাদীস ৫৫, আর মুসলিম এটিকে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। এটি একটি সাধারণ শিক্ষা। এ আয়াত নাজিলের উপলক্ষ হিসেবে এটি বর্ণিত হয়নি। কুরতুবী এটি আনেন, কারণ আয়াতে যে নসীহত শব্দ, হাদীসটি সেই শব্দকেই খুলে বলে।"
+          },
+          {
+            "en": "Al-Qurtubi then gives what the scholars said the word contains. Sincerity to Allah is a pure belief in His oneness, describing Him with the attributes of divinity, declaring Him free of every deficiency, desiring what He loves and keeping far from what angers Him. Sincerity to His Messenger is affirming his prophethood, holding to his command and prohibition, revering and loving him, and after his death keeping his Sunnah alive by seeking it out, understanding it, defending and spreading it. Very little of this needs a mount or a road.",
+            "bn": "এরপর কুরতুবী জানান, আলিমদের মতে এ শব্দের ভেতরে কী কী আছে। আল্লাহর প্রতি আন্তরিকতা মানে তাঁর একত্বে খাঁটি বিশ্বাস, তাঁকে উলূহিয়্যাতের গুণাবলিতে গুণান্বিত করা, সব ত্রুটি থেকে তাঁকে পবিত্র ঘোষণা করা, তিনি যা ভালোবাসেন তার প্রতি আগ্রহ আর যাতে তিনি অসন্তুষ্ট হন তা থেকে দূরে থাকা। রসূলের প্রতি আন্তরিকতা মানে তাঁর নবুওয়াতকে সত্য বলে মানা, তাঁর আদেশ-নিষেধ আঁকড়ে থাকা, তাঁকে সম্মান করা ও ভালোবাসা। আর তাঁর ইন্তিকালের পর সুন্নাহকে জীবিত রাখা: খুঁজে বের করা, বোঝা, রক্ষা করা আর ছড়িয়ে দেওয়া। এর প্রায় কিছুই বাহন বা পথের উপর নির্ভর করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sincere From Behind",
+          "bn": "পেছনে থেকেও আন্তরিক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir spells out what the condition looks like for someone left at home. There is no blame on them if they stay and are sincere while staying: they do not spread alarm among the people and do not hold them back, and they are doers of good in this state of theirs. That, he says, is why the verse continues with the doers of good. At-Tabari and al-Baghawi both place the sincerity in their absence. Al-Baghawi adds that they made faith and deed pure for Allah and pledged to the Messenger.",
+            "bn": "ঘরে রয়ে যাওয়া মানুষের বেলায় শর্তটা দেখতে কেমন, ইবন কাসীর তা খুলে বলেন। তারা যদি থেকে যায় আর থাকার সময়টায় আন্তরিক থাকে, তবে তাদের কোনো দোষ নেই। আন্তরিক থাকা মানে লোকদের মধ্যে আতঙ্ক না ছড়ানো, তাদের পিছু টেনে না ধরা। এ অবস্থায় তারা সৎকর্মশীল। তাঁর মতে এজন্যই আয়াতটি এরপর সৎকর্মশীলদের কথায় যায়। তাবারী ও বাগাভী দুজনেই আন্তরিকতাকে স্থাপন করেন তাদের অনুপস্থিতির সময়ে। বাগাভী যোগ করেন: তারা ঈমান ও আমলকে আল্লাহর জন্য খাঁটি করেছে, আর রসূলের কাছে বায়আত দিয়েছে।"
+          },
+          {
+            "en": "As-Sa'di sets the condition out as three things. They are truthful in their faith; their intention and resolve are that, if they were able, they would go; and they do what they can by urging, encouraging and heartening others to go. The Muyassar says they were sincere and acted by His law. Al-Qurtubi gives a shorter line: they know the truth, love His friends and oppose His enemies. Taken together, the commentators describe sincerity at home as something active: a wish that does not fade, a tongue that strengthens others, and silence where doubt might have been spread.",
+            "bn": "সা'দী শর্তটিকে তিনটি বিষয়ে সাজান। প্রথমত, তাদের ঈমান সত্য। দ্বিতীয়ত, তাদের নিয়ত আর সংকল্প এই যে সামর্থ্য থাকলে তারা অবশ্যই যেত। তৃতীয়ত, যতটুকু পারে ততটুকু তারা করে: অন্যদের যেতে উৎসাহ দেয়, আগ্রহ জাগায়, সাহস জোগায়। মুয়াসসার বলে, তারা আন্তরিক ছিল আর আল্লাহর শরীয়ত মেনে চলেছে। কুরতুবী আরও ছোট করে বলেন: তারা সত্যকে চেনে, আল্লাহর বন্ধুদের ভালোবাসে আর তাঁর শত্রুদের বিরোধিতা করে। সব মিলিয়ে তাফসীরকারদের চোখে ঘরে থাকা মানুষের আন্তরিকতা নিষ্ক্রিয় কিছু নয়। এ এমন আকাঙ্ক্ষা, যা মরে যায় না; এমন মুখ, যা অন্যকে শক্তি দেয়; আর যেখানে সন্দেহ ছড়ানো যেত, সেখানে চুপ থাকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Road Against Them",
+          "bn": "তাদের বিরুদ্ধে কোনো পথ নেই"
+        },
+        "p": [
+          {
+            "en": "Ma 'ala al-muhsinina min sabil: there is no road against the doers of good. Notice the change of name. The verse began with the weak, the sick and the poor; now it calls them muhsinin. Al-Qurtubi reads sabil as the subject of the negation, a road to punishment. At-Tabari explains it as no path that leads against the one who did good and was sincere in staying back for a real excuse, so that he would be punished from that side. Al-Baghawi says the same more briefly: no road with punishment.",
+            "bn": "মা 'আলাল মুহসিনীনা মিন সাবীল: সৎকর্মশীলদের বিরুদ্ধে কোনো পথ নেই। নামটা কীভাবে বদলে গেল, খেয়াল করুন। আয়াত শুরু হয়েছিল দুর্বল, অসুস্থ আর গরিবদের কথা দিয়ে। এখন তাদেরই বলা হচ্ছে মুহসিন। কুরতুবী সাবীলকে না-বাচক বাক্যটির মূল বিষয় হিসেবে পড়েন, যার অর্থ শাস্তির দিকে কোনো পথ। তাবারীর ব্যাখ্যা: যে সত্যিকার ওজরের কারণে পেছনে থেকে গিয়েও আন্তরিক ছিল আর ভালো কাজ করেছে, তার বিরুদ্ধে এমন কোনো পথ নেই, যে দিক দিয়ে তাকে শাস্তি দেওয়া যায়। বাগাভী একই কথা অল্পে বলেন: শাস্তির কোনো পথ নেই।"
+          },
+          {
+            "en": "As-Sa'di explains why the road is closed. By doing well in what they owed, the rights of Allah and the rights of His servants, they removed any blame that could be turned on them; and when a servant does well in what he can do, what he cannot do falls away from him. On the closing names, at-Tabari says Allah covers the sins of the doers of good and pardons them, and is merciful in not punishing them. As-Sa'di goes further: from His forgiveness and mercy He pardoned the unable and, for their firm intention, gave them the reward of those who could and did.",
+            "bn": "পথটা কেন বন্ধ, সা'দী তা বুঝিয়ে দেন। তাদের উপর যা প্রাপ্য ছিল, আল্লাহর হক আর বান্দার হক, তা তারা সুন্দরভাবে আদায় করেছে। এভাবে তাদের দিকে তাক করা যেকোনো দোষারোপ তারা নিজেরাই সরিয়ে দিয়েছে। বান্দা যা পারে তাতে যখন সে ইহসান করে, তখন যা পারে না তা তার উপর থেকে উঠে যায়। শেষের দুটি নাম সম্পর্কে তাবারী বলেন, আল্লাহ সৎকর্মশীলদের গুনাহ ঢেকে দেন, মাফ করে দেন, আর শাস্তি না দিয়ে তাদের উপর রহম করেন। সা'দী আরও এগিয়ে যান: নিজের মাগফিরাত ও রহমতের কারণে আল্লাহ অক্ষমদের মাফ করেছেন, আর তাদের দৃঢ় নিয়তের জন্য তাদের দিয়েছেন সেই সক্ষমদের সওয়াব, যারা কাজটা করেছে।"
+          },
+          {
+            "en": "Ibn Kathir records a scene that shows how the phrase stayed alive in people's mouths. Al-Awza'i said that the people went out to pray for rain and Bilal ibn Sa'd stood among them. He praised Allah and asked: do you not admit that you have done wrong? They said yes. He said: O Allah, we hear You say there is no road against the doers of good, and we have admitted our wrong, so forgive us, have mercy on us and give us rain. He raised his hands, they raised theirs, and rain came.",
+            "bn": "বাক্যটি মানুষের মুখে কীভাবে বেঁচে ছিল, তার একটি দৃশ্য ইবন কাসীর লিখে রেখেছেন। আওযাঈ বলেছেন, লোকেরা বৃষ্টির জন্য নামাজ পড়তে বের হল। বিলাল ইবন সা'দ তাদের মধ্যে দাঁড়ালেন। আল্লাহর প্রশংসা করে তিনি জিজ্ঞেস করলেন: তোমরা কি স্বীকার করো না যে তোমরা অন্যায় করেছ? তারা বলল, হ্যাঁ। তিনি বললেন: হে আল্লাহ, আমরা শুনি তুমি বলছ, সৎকর্মশীলদের বিরুদ্ধে কোনো পথ নেই। আমরা আমাদের অন্যায় স্বীকার করেছি। তাই আমাদের মাফ করো, রহম করো, আমাদের বৃষ্টি দাও। তিনি হাত তুললেন, তারাও তুলল, আর বৃষ্টি নামল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Jurists Built",
+          "bn": "ফকীহদের গড়া নীতি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi calls the verse an asl, a foundation, for lifting obligation from whoever is unable. Whoever cannot do a thing is released from it, sometimes to a substitute that is an act and sometimes to a substitute that is a payment, and he says inability of strength and inability of wealth are the same here. He pairs it with \"Allah does not charge a soul except with its capacity\", 2:286, and with \"there is no blame on the blind, nor on the lame, nor on the sick\", words found in 48:17 and 24:61.",
+            "bn": "কুরতুবী আয়াতটিকে বলেন আসল, অর্থাৎ ভিত্তি: যে অক্ষম, তার উপর থেকে দায়িত্ব উঠে যাওয়ার ভিত্তি। যে কোনো কাজ করতে পারে না, সে কাজ তার উপর থেকে সরে যায়। কখনো তার জায়গায় আসে অন্য কোনো আমল, কখনো আসে আর্থিক দায়। তাঁর মতে শক্তির অক্ষমতা আর সম্পদের অক্ষমতা এখানে এক। তিনি এর সঙ্গে মিলিয়ে দেখান ২:২৮৬ আয়াত, \"আল্লাহ কাউকে তার সাধ্যের বাইরে দায়িত্ব দেন না\", আর সেই বাক্য, \"অন্ধের উপর দোষ নেই, খোঁড়ার উপর দোষ নেই, অসুস্থের উপর দোষ নেই\", যা আছে ৪৮:১৭ ও ২৪:৬১ আয়াতে।"
+          },
+          {
+            "en": "He then calls the phrase about the doers of good a foundation for lifting penalty from every doer of good, and shows the jurists disagreeing over it. His own school held that a man who takes lawful retaliation from the man who cut off his hand owes no blood-money if the wound spreads and the offender dies, since he did right in taking his due; Abu Hanifa held that blood-money is owed. A man who kills a stud animal that attacks him, in self-defence, owes nothing, as ash-Shafi'i also held; Abu Hanifa said he owes its owner its value.",
+            "bn": "এরপর তিনি সৎকর্মশীলদের সম্পর্কে বাক্যটিকে বলেন প্রত্যেক সৎকর্মশীলের উপর থেকে শাস্তি উঠে যাওয়ার ভিত্তি। এ নিয়ে ফকীহদের মতভেদও তিনি দেখান। তাঁর নিজের মাযহাবের মত: যার হাত কেটে দেওয়া হয়েছে, সে যদি বৈধভাবে কিসাস নেয়, আর সেই ক্ষত ছড়িয়ে অপরাধী মারা যায়, তবে তাকে দিয়াত দিতে হবে না, কারণ নিজের হক নিয়ে সে ঠিক কাজই করেছে। আবূ হানীফার মতে দিয়াত দিতে হবে। আবার কোনো মদ্দা পশু কারও উপর হামলা করলে আর সে আত্মরক্ষায় সেটাকে মেরে ফেললে তার কোনো দায় নেই, শাফিঈরও এই মত। আবূ হানীফা বলেন, মালিককে তার দাম দিতে হবে।"
+          },
+          {
+            "en": "Al-Qurtubi closes the point with Ibn al-'Arabi: the same holds across the questions of the Shari'a. As-Sa'di states the rule in its widest form. Whoever does good to another, in person or in property, and some loss or damage follows from that good, is not liable, because he is a doer of good and there is no road against the doers of good. The verse also shows, he adds, that one who is not a doer of good, the wrongdoer such as the negligent, is liable. A phrase spoken about the weak and the sick became a protection for everyone who acts in good faith.",
+            "bn": "কুরতুবী প্রসঙ্গটি শেষ করেন ইবনুল আরাবীর কথা দিয়ে: শরীয়তের সব মাসআলাতেই একই কথা খাটে। সা'দী নীতিটিকে সবচেয়ে বিস্তৃতভাবে বলেন। কেউ যদি কারও জান বা মালের ক্ষেত্রে উপকার করে, আর সেই উপকার থেকে কোনো ক্ষতি বা নষ্ট হওয়া ঘটে যায়, তবে তার উপর ক্ষতিপূরণের দায় নেই। কারণ সে সৎকর্মশীল, আর সৎকর্মশীলদের বিরুদ্ধে কোনো পথ নেই। তিনি যোগ করেন, আয়াতটি এটাও দেখায় যে যে সৎকর্মশীল নয়, যেমন অবহেলাকারী অন্যায়কারী, তাকে দায় নিতে হবে। দুর্বল আর অসুস্থদের নিয়ে বলা একটি বাক্য এভাবে সরল বিশ্বাসে কাজ করা সবার রক্ষাকবচ হয়ে উঠল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom It Came Down For",
+          "bn": "কাদের উপলক্ষে নাজিল"
+        },
+        "p": [
+          {
+            "en": "The reports name different people. At-Tabari records from Qatada that the verse came down about 'A'idh ibn 'Amr al-Muzani, and notes that others said 'Abd Allah ibn Mughaffal. Al-Baghawi has Qatada naming 'A'idh ibn 'Amr and his companions, and ad-Dahhak naming 'Abd Allah ibn Umm Maktum, who was blind. Ibn Kathir carries, through Ibn Abi Hatim, a report from Zayd ibn Thabit: he was writing Bara'a for the Messenger ﷺ, pen on his ear, when the command to fight came, and a blind man asked, \"How is it for me, when I am blind?\" Then the verse came down.",
+            "bn": "বর্ণনাগুলো ভিন্ন ভিন্ন মানুষের নাম করে। তাবারী কাতাদা থেকে উল্লেখ করেন, আয়াতটি নাজিল হয়েছিল আয়িয ইবন আমর মুযানী (রাঃ)-কে উপলক্ষ করে। তিনি এটাও জানান যে কেউ কেউ বলেছেন আবদুল্লাহ ইবন মুগাফফাল (রাঃ)-এর কথা। বাগাভীর বর্ণনায় কাতাদা বলেন আয়িয ইবন আমর ও তাঁর সঙ্গীদের কথা, আর দাহহাক বলেন আবদুল্লাহ ইবন উম্মে মাকতূম (রাঃ)-এর কথা, যিনি ছিলেন অন্ধ। ইবন কাসীর ইবন আবী হাতিমের সূত্রে যায়দ ইবন সাবিত (রাঃ)-এর একটি বর্ণনা আনেন। তিনি রসূল ﷺ-এর জন্য সূরা বারাআত লিখছিলেন, কলম ছিল কানে গোঁজা, তখন যুদ্ধের আদেশ এল। এক অন্ধ ব্যক্তি এসে বললেন, \"আমি তো অন্ধ, আমার কী হবে?\" তখন আয়াতটি নাজিল হল।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir also carry a report from Ibn 'Abbas. A band of Companions, 'Abd Allah ibn Mughaffal al-Muzani among them, asked to be given mounts; the Prophet ﷺ said he had nothing to carry them on, and they turned away weeping, grieved to sit out with neither provision nor mount. When Allah saw their eagerness, He sent down their excuse, from this verse to 9:93. Their tears belong to 9:92, the next verse. The tafsirs grade none of these reports, and the names differ, so no single occasion is established. All of them describe people who wanted to go.",
+            "bn": "তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ)-এর একটি বর্ণনাও আনেন। সাহাবীদের একটি দল, যাদের মধ্যে ছিলেন আবদুল্লাহ ইবন মুগাফফাল মুযানী (রাঃ), বাহন চাইতে এলেন। নবী ﷺ বললেন, তাদের বহন করার মতো কিছু তাঁর কাছে নেই। তারা কাঁদতে কাঁদতে ফিরে গেলেন। পাথেয় নেই, বাহন নেই, যুদ্ধ থেকে বসে থাকতে হবে, এ দুঃখ তাদের কাছে ছিল অসহ্য। আল্লাহ তাদের এই আগ্রহ দেখে কিতাবে তাদের ওজর নাজিল করলেন, এ আয়াত থেকে ৯:৯৩ পর্যন্ত। তাদের কান্নার দৃশ্য অবশ্য পরের আয়াত ৯:৯২-এর। তাফসীরগুলো এসব বর্ণনার কোনোটির মান নির্ণয় করেনি, আর নামগুলোও আলাদা। তাই নির্দিষ্ট কোনো উপলক্ষ প্রতিষ্ঠিত নয়। তবে সবগুলো বর্ণনাই এমন মানুষের কথা বলে, যারা যেতে চেয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Present in Every Valley",
+          "bn": "প্রতিটি উপত্যকায় সঙ্গী"
+        },
+        "p": [
+          {
+            "en": "A sound hadith speaks to the people this verse excuses, though it is not reported as the verse's occasion. Al-Bukhari records from Anas ibn Malik that the Messenger of Allah ﷺ, returning from Tabuk, drew near Medina and said: \"In Medina there are people who were with you on every stretch you travelled and every valley you crossed.\" They said, \"O Messenger of Allah, while they are in Medina?\" He said, \"While they are in Medina. The excuse held them back.\" That is al-Bukhari's wording, hadith 4423, in his Sahih. Al-Qurtubi cites Abu Dawud's version under this verse.",
+            "bn": "একটি সহীহ হাদীস ঠিক সেই মানুষদের কথা বলে, যাদের এ আয়াত দায়মুক্ত করে, যদিও এটি আয়াত নাজিলের উপলক্ষ হিসেবে বর্ণিত নয়। বুখারী আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন: তাবূক থেকে ফেরার পথে রসূলুল্লাহ ﷺ মদীনার কাছে এসে বললেন, \"মদীনায় এমন কিছু লোক আছে, তোমরা যত পথ চলেছ আর যত উপত্যকা পার হয়েছ, তারা তোমাদের সঙ্গেই ছিল।\" সাহাবীরা বললেন, \"হে আল্লাহর রসূল, মদীনায় থেকেও?\" তিনি বললেন, \"মদীনায় থেকেও। ওজর তাদের আটকে রেখেছিল।\" এটি বুখারীর ভাষ্য, হাদীস ৪৪২৩, তাঁর সহীহ গ্রন্থে। কুরতুবী এ আয়াতের আলোচনায় আবূ দাউদের বর্ণনাটি আনেন।"
+          },
+          {
+            "en": "Al-Qurtubi also shows what some excused hearts did. 'Amr ibn al-Jamuh, one of the leaders of the Ansar, was lame and stood at the front of the army. The Messenger ﷺ told him that Allah had excused him, and he answered: by Allah, I will tread with this limp of mine in Paradise. Quoting the scholars, al-Qurtubi says Allah excused them, but their hearts would not stay behind; such, he says, was their resolve. Neither stands lower. The one who went had resolve, and the one who stayed sincerely was, in the Prophet's ﷺ words, with them.",
+            "bn": "কিছু ওজরওয়ালা মানুষের মন কী করেছিল, কুরতুবী তাও দেখান। আমর ইবনুল জামূহ (রাঃ) ছিলেন আনসারদের নাকীবদের একজন। তিনি খোঁড়া ছিলেন, তবু দাঁড়াতেন বাহিনীর একেবারে সামনে। রসূল ﷺ তাঁকে বললেন, আল্লাহ তোমাকে ওজর দিয়েছেন। তিনি জবাব দিলেন: আল্লাহর কসম, আমার এই খোঁড়া পা নিয়েই আমি জান্নাতে পা ফেলব। কুরতুবী আলিমদের কথা উদ্ধৃত করে বলেন, আল্লাহ তাদের ওজর মেনে নিয়েছিলেন, কিন্তু তাদের মন পেছনে পড়ে থাকতে রাজি হয়নি। তাঁর ভাষায়, এই ছিল তাদের দৃঢ় সংকল্প। দুজনের কেউ কারও চেয়ে ছোট নন। যিনি গেলেন, তাঁর ছিল সংকল্প। আর যিনি আন্তরিকভাবে থেকে গেলেন, নবী ﷺ-এর ভাষায় তিনি তাদের সঙ্গেই ছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
   "9:99": {
     "sections": [
       {

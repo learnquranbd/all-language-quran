@@ -21191,6 +21191,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not mistake a person's gentleness for gullibility, and be an ear of good yourself: credit the truthful, and give gossip no room to settle.",
     "lessonBn": "কারও কোমলতাকে সরলতা ভেবে ভুল করবেন না। নিজেও কল্যাণের কান হোন: সত্যবাদীর কথায় আস্থা রাখুন, আর কানকথাকে মনে ঠাঁই দেবেন না।"
+  },
+  "9:91": {
+    "reflectionEn": "Three kinds of people stay at home in this verse: the weak, the sick, and those who have nothing to spend. The verses before it blamed people who stayed behind. Here Allah lifts every blame from these three, on one condition: that they are sincere to Him and His Messenger. Staying home is not the test. The test is what the heart does while it stays. Does it wish it were on the road? Does it encourage those who go and keep from spreading doubt? Then the verse calls them doers of good and says no road of blame runs against them. A body that cannot go is not a heart held back. What can I not do this year, and what is my heart doing with that?",
+    "reflectionBn": "এ আয়াতে তিন রকম মানুষ ঘরে থেকে যায়: দুর্বল, অসুস্থ, আর যাদের খরচ করার মতো কিছুই নেই। আগের আয়াতগুলোতে যারা পেছনে রয়ে গিয়েছিল, তাদের দোষ ধরা হয়েছে। এখানে আল্লাহ এই তিন দলের উপর থেকে সব দোষ তুলে নিচ্ছেন, শুধু একটা শর্তে: আল্লাহ ও তাঁর রসূলের প্রতি তাদের আন্তরিক থাকতে হবে। ঘরে থাকাটা পরীক্ষা নয়। পরীক্ষা হলো, ঘরে বসে থাকার সময় মন কী করছে। মন কি পথে থাকতে চাইছে? যারা যাচ্ছে, তাদের কি সাহস দিচ্ছে, সন্দেহ ছড়ানো থেকে কি নিজেকে সামলে রাখছে? তাহলে আয়াতটি তাদের বলে সৎকর্মশীল, আর জানিয়ে দেয়, তাদের বিরুদ্ধে দোষারোপের কোনো পথ খোলা নেই। শরীর যেতে না পারা মানে মন আটকে থাকা নয়। এ বছর আমি কী করতে পারছি না, আর সেটা নিয়ে আমার মন কী করছে?",
+    "pointsEn": [
+      "What good deed can I genuinely not do right now, and have I turned that inability into sincerity or into complaint?",
+      "When others go out to do good I cannot join, do I help with what I have: a word of courage, a du'a, care for what they left behind?",
+      "Have I ever talked someone out of a good deed only because I could not do it myself?",
+      "When I meet someone who is ill, disabled or poor, do I remember that the Qur'an calls the sincere among them doers of good?",
+      "Is there an excuse I give Allah that I do not actually have?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে কোন নেক কাজটা আমি সত্যিই করতে পারছি না? সেই অক্ষমতাকে আমি কি আন্তরিকতায় বদলেছি, নাকি অভিযোগে?",
+      "অন্যরা যখন এমন ভালো কাজে বের হয় যেখানে আমি যেতে পারি না, তখন আমার যা আছে তা দিয়ে কি সাহায্য করি: একটা সাহসের কথা, একটা দোয়া, তাদের ফেলে যাওয়া জিনিসের দেখভাল?",
+      "নিজে পারি না বলেই কি কখনো কাউকে কোনো নেক কাজ থেকে ফিরিয়ে দিয়েছি?",
+      "অসুস্থ, প্রতিবন্ধী বা গরিব কারও সঙ্গে দেখা হলে কি মনে পড়ে, তাদের মধ্যে যারা আন্তরিক, কুরআন তাদের সৎকর্মশীল বলেছে?",
+      "আল্লাহর কাছে এমন কোনো ওজর কি দেখাই, যা আসলে আমার নেই?"
+    ],
+    "lessonEn": "When you truly cannot do a good deed, Allah asks only a sincere heart: wish for it, support those who can, never weaken them, and no blame reaches you.",
+    "lessonBn": "কোনো নেক কাজ সত্যিই করতে না পারলে আল্লাহ চান শুধু আন্তরিক মন: কাজটার আকাঙ্ক্ষা রাখুন, যারা পারে তাদের পাশে থাকুন, তাদের মনোবল ভাঙবেন না, তাহলে কোনো দোষ আপনাকে ছোঁবে না।"
   }
 };
 
