@@ -1743,6 +1743,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Grave as Their Evidence",
+          "bn": "কবরই ওদের প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Wa-qalu a-idha kunna 'izaman wa-rufatan a-inna la-mab'uthuna khalqan jadida: and they say, when we are bones and crumbled fragments, will we really be raised as a new creation? The verse has nine Arabic words, and all but the first are a quotation. The verses before it described how the deniers listened to the Prophet ﷺ, what they whispered afterwards, and how they struck comparisons for him and strayed. Here the passage lets their objection be heard in their own words, and it is an objection built on the grave.",
+            "bn": "ওয়া কালূ আ-ইযা কুন্না ইযামান ওয়া রুফাতান আ-ইন্না লামাবঊসূনা খালকান জাদীদা: আর তারা বলে, আমরা যখন হাড় আর চূর্ণ-বিচূর্ণ টুকরো হয়ে যাব, তখনো কি সত্যিই নতুন সৃষ্টি হয়ে উত্থিত হব? আয়াতে আরবি শব্দ নয়টি, আর প্রথমটি বাদে সবই ওদের মুখের কথা। আগের আয়াতগুলো দেখিয়েছে, অস্বীকারকারীরা কীভাবে নবী ﷺ-এর কথা শুনত, পরে গোপনে কী বলাবলি করত, আর কীভাবে তাঁর জন্য নানা উপমা গড়ে পথ হারাল। এবার আপত্তিটা শোনা যায় ওদের নিজেদের ভাষায়। আর সে আপত্তির ভিত হলো কবর।"
+          },
+          {
+            "en": "At-Tabari names the speakers. They are, he writes, those who do not believe in the Hereafter from among the polytheists of Quraysh, the same description that 17:45 used, and he says they spoke bi-'anatihim, out of their obstinacy. Al-Qurtubi places the words inside a scene. They said this, he explains, while conferring together in private, once they had heard the Qur'an and heard the matter of the raising: had he not been bewitched and deceived, he would not have said this. On his reading, the charge of 17:47 and the denial of 17:49 belong to one conversation.",
+            "bn": "বক্তারা কারা, তাবারী তা বলে দেন। তারা কুরাইশের সেই মুশরিকরা, যারা আখিরাতে বিশ্বাস করে না। ১৭:৪৫ আয়াতও তাদের এভাবেই চিনিয়েছিল। তাবারী আরও বলেন, কথাটা তারা বলেছিল বিআনাতিহিম, অর্থাৎ নিজেদের একগুঁয়েমি থেকে। কুরতুবী কথাগুলোকে একটা দৃশ্যের ভেতরে বসান। কুরআন শুনে আর পুনরুত্থানের কথা শুনে তারা নিজেদের মধ্যে কানাকানি করছিল: লোকটা যদি জাদুগ্রস্ত আর প্রতারিত না হতো, এমন কথা বলত না। তাঁর ব্যাখ্যায় তাই ১৭:৪৭-এর অপবাদ আর ১৭:৪৯-এর অস্বীকার একই আলাপের দুই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dust, Fine Dust, or Fragments",
+          "bn": "মাটি, ধুলো, নাকি ভাঙা টুকরো"
+        },
+        "p": [
+          {
+            "en": "The verse pairs a familiar word with a rarer one. 'Izam are bones. Rufat is the word the commentators stop to explain. Mujahid, by at-Tabari's chains through Ibn Abi Najih and through Ibn Jurayj, glossed it as turab, earth or dust. 'Ali ibn Abi Talha reports from Ibn 'Abbas (RA) that it means ghubar, the fine dust that rises into the air. Ibn Kathir, in the Arabic, records both glosses with the same two attributions, and al-Baghawi gives Mujahid's turab before adding a third under the words it was said: hutam, broken pieces.",
+            "bn": "আয়াতটি একটি চেনা শব্দের পাশে বসিয়েছে একটি অপেক্ষাকৃত বিরল শব্দ। ইযাম মানে হাড়। কিন্তু রুফাত শব্দে এসে তাফসীরকারেরা থেমে ব্যাখ্যা দেন। তাবারী ইবন আবী নাজীহ ও ইবন জুরাইজের সূত্রে মুজাহিদের ব্যাখ্যা আনেন: তুরাব, অর্থাৎ মাটি বা ধুলো। আলী ইবন আবী তালহা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর অর্থ গুবার, বাতাসে ওড়া মিহি ধুলো। ইবন কাসীর আরবি তাফসীরে এই দুই ব্যাখ্যাই একই দুই নামে উল্লেখ করেন। বাগাভী মুজাহিদের তুরাব আগে আনেন, তারপর 'বলা হয়েছে' কথাটি দিয়ে যোগ করেন তৃতীয় একটি অর্থ: হুতাম, ভাঙা টুকরো।"
+          },
+          {
+            "en": "Al-Qurtubi widens the definition. Rufat, he writes, is whatever of anything has been broken and has decayed, like futat, crumbs, hutam, debris, and rudad, crushed bits, and he names the grammarians behind this account: Abu 'Ubayda, al-Kisa'i, al-Farra' and al-Akhfash. From the root comes the verb rafata, to crush, and marfut, a thing crushed. At-Tabari adds that the word has no singular and stands beside duqaq and hutam, words for what has been ground fine; a thing becomes marfut, he says, when it is made like rubble and crushed fragments.",
+            "bn": "কুরতুবী সংজ্ঞাটা আরও বড় করে দেন। তাঁর ভাষায়, রুফাত হলো যেকোনো জিনিসের যা কিছু ভেঙে গেছে আর পচে-গলে গেছে, যেমন ফুতাত বা গুঁড়ো, হুতাম বা ভাঙাচোরা অংশ, রুদাদ বা চূর্ণ কণা। এ ব্যাখ্যা তিনি নিয়েছেন আবু উবাইদা, কিসাঈ, ফাররা ও আখফাশ থেকে, নামগুলো তিনি নিজেই দেন। এই ধাতু থেকে ক্রিয়া রাফাতা, অর্থাৎ গুঁড়িয়ে দেওয়া, আর মারফূত মানে গুঁড়িয়ে দেওয়া জিনিস। তাবারী যোগ করেন, শব্দটির কোনো একবচন নেই। এর জাত দুকাক আর হুতামের মতো শব্দের, যা মিহি করে গুঁড়ানো জিনিস বোঝায়। কোনো কিছুকে ধ্বংসাবশেষ আর চূর্ণ টুকরোর মতো করে দিলে তাকে মারফূত বলা হয়।"
+          },
+          {
+            "en": "The later works keep the same image in plainer words. Al-Muyassar renders the objection as their being created anew after their bones have decayed and turned to futat, crumbs. As-Sa'di explains the pair 'izaman wa-rufatan as ajsadan baliya, bodies worn away. None of these glosses contradicts another. Dust, fine dust, crumbs and broken pieces lie along one road, and each commentator stops at a different point on it. Together they show the deniers describing the body at its most undone, at the point where it seems least likely to return.",
+            "bn": "পরের যুগের তাফসীরগুলো একই ছবি রাখে সহজ কথায়। মুয়াসসার আপত্তিটা বলে এভাবে: হাড় পচে-গলে ফুতাত বা গুঁড়ো হয়ে যাওয়ার পর আবার নতুন করে সৃষ্টি হওয়া? সা'দী ইযামান ওয়া রুফাতান জোড়াটির ব্যাখ্যা দেন আজসাদান বালিয়া দিয়ে, অর্থাৎ ক্ষয়ে যাওয়া দেহ। এই ব্যাখ্যাগুলোর কোনোটি অন্যটির বিরোধী নয়। মাটি, মিহি ধুলো, গুঁড়ো, ভাঙা টুকরো, সবই একই পথের নানা ধাপ। একেক তাফসীরকার থেমেছেন একেক ধাপে। সব মিলিয়ে দেখা যায়, অস্বীকারকারীরা দেহের কথা বলছে তার একেবারে বিলীন দশায়, যেখানে ফিরে আসাটা সবচেয়ে অসম্ভব মনে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unbroken Bones, Then Crumbs",
+          "bn": "আস্ত হাড়, তারপর গুঁড়ো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the two words as two stages. 'Izaman, he explains, means bones lam natahattam wa-lam natakassar: we have not yet been shattered or broken after our death and decay. Rufatan means dust in our graves. When he restates the whole objection he keeps the order: are we to be raised after we have become, in the graves, bones that are not crushed and rufat that is crushed, having decayed and turned to dust? The sentence moves from a skeleton that still holds its shape to a powder that holds none.",
+            "bn": "তাবারী শব্দ দুটিকে পড়েন দুটি ধাপ হিসেবে। তাঁর ব্যাখ্যায় ইযামান মানে এমন হাড়, যা মৃত্যু আর ক্ষয়ের পরেও লাম নাতাহাত্তাম ওয়ালাম নাতাকাসসার, এখনো ভেঙে চুরমার হয়নি। আর রুফাতান মানে কবরের মাটি। পুরো আপত্তিটা নিজের ভাষায় বলার সময়ও তিনি এই ক্রম রাখেন: কবরে আমরা প্রথমে আস্ত হাড়, তারপর চূর্ণ রুফাত, ক্ষয়ে গিয়ে মাটি হয়ে যাওয়ার পরও কি আমাদের ওঠানো হবে? বাক্যটা তাই এগোয় আকার ধরে রাখা কঙ্কাল থেকে এমন গুঁড়োর দিকে, যার কোনো আকারই নেই।"
+          },
+          {
+            "en": "Then comes the claim they reject: a-inna la-mab'uthuna khalqan jadida. Al-Qurtubi notes that the sentence has the form of a question while what is meant by it is al-jahd wal-inkar, flat denial and rejection, and that khalqan stands in the accusative as a verbal noun, as if to say ba'than jadidan, a new raising. He ends with a verdict: this was the utmost of denial on their part. At-Tabari spells out what new means here: a creation brought into being as we were before death, nu'adu kama budi'na, returned as we were first begun.",
+            "bn": "এরপর আসে সেই দাবি, যা তারা মানতে রাজি নয়: আ-ইন্না লামাবঊসূনা খালকান জাদীদা। কুরতুবী বলেন, বাক্যটির চেহারা প্রশ্নের, কিন্তু উদ্দেশ্য আল-জাহদ ওয়াল-ইনকার, সোজা অস্বীকার আর প্রত্যাখ্যান। তিনি আরও বলেন, খালকান শব্দটি মাসদার হিসেবে যবরযুক্ত, যেন বলা হচ্ছে বা'সান জাদীদান, এক নতুন উত্থান। শেষে তাঁর মন্তব্য: এ ছিল তাদের অস্বীকারের চূড়ান্ত সীমা। নতুন বলতে কী বোঝায়, তাবারী তা খুলে বলেন। মৃত্যুর আগে আমরা যেমন ছিলাম, তেমন করে নতুনভাবে গড়া সৃষ্টি, নুআদু কামা বুদি'না: শুরুতে যেমন বানানো হয়েছিল, তেমন করেই ফিরিয়ে আনা।"
+          },
+          {
+            "en": "Ibn Kathir, in the Arabic, frames the same words as the speech of those who held the return to be far-fetched, voiced as istifham inkar, a question of denial. His gloss on khalqan jadidan states the scale of what they thought impossible: after we have decayed and become 'adaman la yudhkar, a nothing not worth mentioning. The abridged English renders it as after we have disintegrated and become nothing, and have been forgotten. That is the picture they held, a person gone so completely that nothing seems left to raise.",
+            "bn": "ইবন কাসীর আরবি তাফসীরে একই কথাকে দেখান তাদের বক্তব্য হিসেবে, যারা পুনরুত্থানকে বহু দূরের ব্যাপার মনে করত। কথাটা তারা বলেছিল ইস্তিফহামু ইনকার, অর্থাৎ অস্বীকারের প্রশ্ন হিসেবে। খালকান জাদীদান-এর ব্যাখ্যায় তিনি দেখান, তারা কতটা অসম্ভব জিনিস কল্পনা করছিল: আমরা ক্ষয়ে গিয়ে হয়ে যাব আদামান লা ইউযকার, এমন শূন্য যার উল্লেখেরও যোগ্যতা নেই। সংক্ষিপ্ত ইংরেজি সংস্করণ বলে: আমরা বিলীন হয়ে কিছুই না হয়ে যাব, সবাই আমাদের ভুলে যাবে। ওদের মনের ছবি এটাই। মানুষ এমনভাবে হারিয়ে গেছে যে ওঠানোর মতো কিছুই আর বাকি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Their Reasoning Broke",
+          "bn": "যেখানে ওদের যুক্তি ভাঙল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di calls their words takdhib and istib'ad, a denial and a reckoning that the thing is too remote, and glosses their question as: that will not happen, it is impossible, as they claimed. Then he names the error. They were utterly ignorant, he writes, for they belied Allah's messengers, rejected His signs, and qasu, measured, the power of the Creator of the heavens and the earth by their own weak and incapable power. Seeing that raising the dead was beyond them, they made Allah's power the same as theirs.",
+            "bn": "সা'দী তাদের কথাকে বলেন তাকযীব আর ইস্তিবআদ: মিথ্যা বলে উড়িয়ে দেওয়া, আর ব্যাপারটাকে বহু দূরের মনে করা। তাদের প্রশ্নের অর্থ তিনি করেন এভাবে: এমন হবে না, তাদের ধারণায় এটা অসম্ভব। তারপর তিনি ভুলটা চিহ্নিত করেন। তারা চরম অজ্ঞতায় পড়েছিল। আল্লাহর রাসূলদের তারা মিথ্যাবাদী বলেছে, তাঁর আয়াত অস্বীকার করেছে। আর আসমান-যমীনের স্রষ্টার ক্ষমতাকে কাসূ, অর্থাৎ মেপেছে, নিজেদের দুর্বল আর অক্ষম ক্ষমতা দিয়ে। মৃতকে জীবিত করা তাদের সাধ্যের বাইরে দেখে তারা আল্লাহর ক্ষমতাকেও তেমনই ধরে নিয়েছে।"
+          },
+          {
+            "en": "He does not stop at the refutation. He turns in wonder to what such a mistake reveals: glory to Him who made some of His creatures, who claim to be people of intellect and understanding, an example of ignorance about the plainest and clearest of things, so that His servants may see that there is nothing but His enabling and His help, or else ruin and straying. Then he closes with the prayer of 3:8: Our Lord, let not our hearts deviate after You have guided us, and grant us mercy from Yourself.",
+            "bn": "খণ্ডন করেই তিনি থেমে যান না। এমন ভুল কী দেখিয়ে দেয়, বিস্ময় নিয়ে তিনি সেদিকে ফেরেন। পবিত্র সেই সত্তা, যিনি নিজের কিছু সৃষ্টিকে, যারা নিজেদের বুদ্ধিমান আর জ্ঞানী বলে দাবি করে, সবচেয়ে স্পষ্ট আর উজ্জ্বল বিষয়ে অজ্ঞতার দৃষ্টান্ত বানিয়ে দিয়েছেন। উদ্দেশ্য, বান্দারা যেন দেখে নেয়: হয় তাঁর তাওফীক আর সাহায্য, নয়তো ধ্বংস আর পথভ্রষ্টতা, এর বাইরে আর কিছু নেই। তারপর তিনি শেষ করেন ৩:৮ আয়াতের দুআ দিয়ে: হে আমাদের রব, হিদায়াত দেওয়ার পর আমাদের অন্তরকে বাঁকা করে দিয়ো না, আর তোমার কাছ থেকে আমাদের রহমত দাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reply That Comes Next",
+          "bn": "সঙ্গে সঙ্গে এল উত্তর"
+        },
+        "p": [
+          {
+            "en": "The objection is not left hanging; the answer follows at once. At-Tabari says Allah replied by making known His power to raise them after death and to bring them into being as they were before decay, a new creation, in whatever state they might be: bones or rufat, or stones or iron, or anything else they thought too great for such a thing to happen to it. Then he quotes the command that opens 17:50: say, O Muhammad, be stones or iron, or some creation greater in your breasts.",
+            "bn": "আপত্তিটা ঝুলিয়ে রাখা হয়নি, জবাব আসে সঙ্গে সঙ্গে। তাবারী বলেন, আল্লাহ তাদের জবাব দিয়েছেন নিজের ক্ষমতা চিনিয়ে দিয়ে। মৃত্যুর পর তাদের ওঠাতে, ক্ষয়ের আগে যেমন ছিল তেমন করে নতুন সৃষ্টি হিসেবে গড়তে তিনি সক্ষম, তারা যে দশাতেই থাকুক। হাড় হোক বা রুফাত, পাথর হোক বা লোহা, কিংবা এমন কিছু, যার ক্ষেত্রে এমনটা ঘটা তাদের চোখে অনেক বড় ব্যাপার। তারপর তিনি উদ্ধৃত করেন ১৭:৫০ আয়াতের শুরুর নির্দেশ: হে মুহাম্মাদ, বলো, তোমরা পাথর হয়ে যাও বা লোহা, কিংবা এমন কোনো সৃষ্টি, যা তোমাদের মনে আরও বড়।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, adds that stones and iron are harder to restore than bones and fragments, and carries the exchange to its centre in 17:51: who will bring us back? Say: He who created you the first time. In the Arabic he sets beside our verse two passages that make the same move. In 79:10 to 79:12 the deniers ask about being returned after they are crumbling bones, and in 36:78 and 36:79 the one who asks who will give life to rotten bones is told: He who produced them the first time.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যোগ করে, হাড় আর টুকরোর চেয়ে পাথর আর লোহাকে ফিরিয়ে আনা আরও কঠিন। তারপর আলাপটা পৌঁছে যায় ১৭:৫১ আয়াতের মূল কথায়: কে আমাদের ফিরিয়ে আনবে? বলো, তিনিই, যিনি তোমাদের প্রথমবার সৃষ্টি করেছেন। আরবি তাফসীরে তিনি এ আয়াতের পাশে রাখেন আরও দুটি জায়গা, যেখানে একই যুক্তি চলে। ৭৯:১০ থেকে ৭৯:১২ আয়াতে অস্বীকারকারীরা জানতে চায়, পচা হাড় হয়ে যাওয়ার পরও কি তাদের ফেরানো হবে। আর ৩৬:৭৮ ও ৩৬:৭৯ আয়াতে যে জিজ্ঞেস করে পচে যাওয়া হাড়কে কে জীবিত করবে, তাকে বলা হয়: যিনি প্রথমবার সেগুলো বানিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Twice in One Surah",
+          "bn": "এক সূরায় দুবার"
+        },
+        "p": [
+          {
+            "en": "The same words return near the surah's end. At 17:98, after 17:97 has described how the deniers will be gathered, the Qur'an says: that is their recompense, because they disbelieved in Our signs and said, when we are bones and crumbled fragments, will we really be raised as a new creation? From wa-qalu to jadida the wording matches this verse exactly. What 17:49 reports as their objection, 17:98 names as one reason for their recompense, so the surah itself shows where the sentence leads.",
+            "bn": "সূরার শেষের দিকে একই কথা আবার ফিরে আসে। ১৭:৯৭ আয়াতে অস্বীকারকারীদের কীভাবে সমবেত করা হবে তার বর্ণনা, তারপর ১৭:৯৮ আয়াতে কুরআন বলে: এ-ই তাদের প্রতিফল, কারণ তারা আমার আয়াত অস্বীকার করেছিল আর বলেছিল, আমরা যখন হাড় আর চূর্ণ-বিচূর্ণ টুকরো হয়ে যাব, তখনো কি সত্যিই নতুন সৃষ্টি হয়ে উত্থিত হব? ওয়া কালূ থেকে জাদীদা পর্যন্ত শব্দগুলো হুবহু এ আয়াতের মতো। ১৭:৪৯ যে কথাকে তাদের আপত্তি হিসেবে তুলে ধরে, ১৭:৯৮ সেটাকেই তাদের প্রতিফলের একটি কারণ বলে চিহ্নিত করে। কথাটা শেষে কোথায় গিয়ে দাঁড়ায়, সূরা নিজেই তা দেখিয়ে দেয়।"
+          },
+          {
+            "en": "Elsewhere a related sentence is spoken in different words. At 23:82, 37:16 and 56:47 the deniers say: when we have died and become dust and bones, are we to be raised? Those verses name death first, then turab, then bones. This verse names no death at all. It puts the bones first and rufat after them, and it adds what those three do not: khalqan jadida, as a new creation. Here the question presses less on the fact of dying than on the remade person they cannot picture.",
+            "bn": "অন্য জায়গায় কাছাকাছি একটা কথা এসেছে ভিন্ন শব্দে। ২৩:৮২, ৩৭:১৬ ও ৫৬:৪৭ আয়াতে অস্বীকারকারীরা বলে: আমরা যখন মরে যাব আর মাটি ও হাড় হয়ে যাব, তখনো কি আমাদের ওঠানো হবে? ওই আয়াতগুলোতে আগে মৃত্যু, তারপর তুরাব বা মাটি, তারপর হাড়। এ আয়াতে মৃত্যুর উল্লেখই নেই। এখানে হাড় আগে, রুফাত পরে। আর এখানে এমন একটা কথা যোগ হয়েছে, যা ওই তিনটি আয়াতে নেই: খালকান জাদীদা, নতুন সৃষ্টি হয়ে। প্রশ্নটার জোর তাই মরে যাওয়ার ঘটনায় যতটা, তার চেয়ে বেশি নতুন করে গড়া সেই মানুষের ওপর, যাকে তারা কল্পনাই করতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bone the Earth Leaves",
+          "bn": "যে হাড় মাটি খায় না"
+        },
+        "p": [
+          {
+            "en": "One narration speaks to the very picture the deniers painted. Sahih Muslim 2955b gives this wording: Abu Huraira reported Allah's Messenger (ﷺ) as saying: The earth would consume all of the son of Adam except his tailbone. From it he was created, and from it he will be recreated (on the Day of Resurrection). Its place in Muslim's Sahih is the collector's own judgement of its soundness, and that is the grading this article reports. No other wording of the report is mixed into it here.",
+            "bn": "একটি হাদীস ঠিক সেই ছবির কথাই বলে, যা অস্বীকারকারীরা এঁকেছিল। সহীহ মুসলিম ২৯৫৫খ-এ বর্ণনাটি এভাবে এসেছে: আবু হুরাইরা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আদম সন্তানের সবটুকুই মাটি খেয়ে ফেলবে, শুধু তার মেরুদণ্ডের শেষ প্রান্তের হাড়টুকু ছাড়া। তা থেকেই তাকে সৃষ্টি করা হয়েছে, আর তা থেকেই (কিয়ামতের দিন) তাকে আবার গড়া হবে। ইমাম মুসলিম হাদীসটিকে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন, এটাই সংকলকের নিজের বিচারে এর বিশুদ্ধতার স্বীকৃতি। এ প্রবন্ধ সেই মানই উল্লেখ করে। অন্য কোনো বর্ণনার শব্দ এর সঙ্গে মেশানো হয়নি।"
+          },
+          {
+            "en": "Two cautions belong beside it. None of the commentaries fetched for this verse attaches the narration to it; it is a general report about the raising, placed here because it speaks of the same bones. And the article reports only what the narration says, without reading anything into it beyond its words. Its weight lies in its last line. The deniers asked how the crumbled could come back. The narration speaks of a person created from something and built again from it, which is the argument 17:51 makes in its own words.",
+            "bn": "এর পাশে দুটি সতর্কতা দরকার। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই হাদীসটিকে এ আয়াতের সঙ্গে যুক্ত করেনি। এটা পুনরুত্থান নিয়ে একটি সাধারণ বর্ণনা, এখানে আনা হয়েছে কারণ এ-ও একই হাড়ের কথা বলে। আর হাদীসের শব্দ যা বলে, প্রবন্ধ শুধু ততটুকুই বলে, তার বাইরে কিছু চাপিয়ে দেয় না। হাদীসের আসল ভার তার শেষ বাক্যে। অস্বীকারকারীরা জানতে চেয়েছিল, গুঁড়িয়ে যাওয়া জিনিস কীভাবে ফিরে আসবে। হাদীস বলে, মানুষকে যা থেকে সৃষ্টি করা হয়েছে, তা থেকেই আবার গড়া হবে। ১৭:৫১ আয়াত নিজের ভাষায় ঠিক এই যুক্তিটাই দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living Toward the Return",
+          "bn": "ফেরার দিকে মুখ করে বাঁচা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse quotes what particular deniers said in Makkah, and the Qur'an's answer follows it at once. It describes what the text describes and licenses nothing against any living person or community. It does not make anyone who doubts the return, or who asks honestly how it could happen, a target for contempt or harm. The reply it models is an argument from creation, given in words, and 17:54 soon reminds the Prophet ﷺ that he was not sent over them as a keeper of their affairs.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মক্কার নির্দিষ্ট কিছু অস্বীকারকারীর কথা উদ্ধৃত করে, আর কুরআনের জবাব আসে ঠিক তার পরেই। আয়াত শুধু ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। পুনরুত্থান নিয়ে যার সন্দেহ আছে, কিংবা যে আন্তরিকভাবে জানতে চায় এটা কীভাবে সম্ভব, তাকে অবজ্ঞা বা ক্ষতির নিশানা বানানোর সুযোগও এখানে নেই। আয়াত যে জবাব শেখায় তা সৃষ্টির যুক্তি, কথায় দেওয়া। আর একটু পরেই ১৭:৫৪ আয়াত নবী ﷺ-কে মনে করিয়ে দেয়, তাঁকে তাদের কাজকর্মের দায়িত্বশীল করে পাঠানো হয়নি।"
+          },
+          {
+            "en": "For the believer the verse is a mirror before it is anything else. It is possible to affirm the raising with the tongue and still live as if bones and dust were the last word: to put off repentance as though time had no end, to wrong someone quietly as though no account would ever be opened, to treat this life as the whole of the story. As-Sa'di's closing prayer fits that danger. A heart that has been guided asks to be kept steady, because guidance held is a gift and not a possession.",
+            "bn": "মুমিনের জন্য আয়াতটি সবার আগে একটা আয়না। মুখে পুনরুত্থান মেনে নিয়েও এমনভাবে বাঁচা সম্ভব, যেন হাড় আর ধুলোই শেষ কথা। যেন সময়ের কোনো শেষ নেই, তাই তওবা পিছিয়ে দেওয়া যায়। যেন হিসাবের খাতা কখনো খোলা হবে না, তাই চুপিচুপি কারও হক নষ্ট করা যায়। যেন এ দুনিয়ার জীবনটাই পুরো গল্প। সা'দীর শেষের দুআ ঠিক এই বিপদের কথাই মনে করায়। হিদায়াত পাওয়া অন্তর অবিচল থাকার জন্য দুআ করে, কারণ ধরে রাখা হিদায়াত আল্লাহর দান, নিজের অর্জিত সম্পদ নয়।"
+          },
+          {
+            "en": "Certainty of return changes the weight of an ordinary day. If every person will stand again as a new creation, whole and answerable, then today's words and deeds are not lost when they pass; they are waiting. The body the deniers reduced to crumbs will be raised by the One who made it the first time, and the person raised will meet what that body did. To believe that the question in 17:49 has an answer is to live now as someone who expects to meet that answer.",
+            "bn": "ফিরে যাওয়ার নিশ্চয়তা একটা সাধারণ দিনের ওজনও বদলে দেয়। প্রত্যেক মানুষ যদি নতুন সৃষ্টি হয়ে আবার দাঁড়ায়, পূর্ণ দেহে, জবাবদিহির দায় নিয়ে, তবে আজকের কথা আর কাজ পার হয়ে গেলেই হারিয়ে যায় না। সেগুলো অপেক্ষা করে থাকে। অস্বীকারকারীরা যে দেহকে গুঁড়ো বলে উড়িয়ে দিয়েছিল, তাকে আবার ওঠাবেন সেই সত্তা, যিনি প্রথমবার তাকে বানিয়েছিলেন। আর যে মানুষকে ওঠানো হবে, সে মুখোমুখি হবে সেই দেহের করা সব কিছুর। ১৭:৪৯-এর প্রশ্নের জবাব আছে, এ কথা বিশ্বাস করার মানে আজই এমনভাবে বাঁচা, যেন সেই জবাবের মুখোমুখি হওয়ার অপেক্ষায় আছি।"
+          }
+        ]
+      }
+    ]
+  },
   "17:53": {
     "sections": [
       {

@@ -22611,6 +22611,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep your hand neither chained shut nor emptied out: give steadily and within your means, so that you can still give tomorrow and no one who depends on you goes without.",
     "lessonBn": "হাত শিকলে বেঁধেও রাখবেন না, একেবারে খালিও করে ফেলবেন না। সামর্থ্যের ভেতরে নিয়মিত দান করুন, যাতে কালও দিতে পারেন আর আপনার উপর নির্ভরশীল কেউ বঞ্চিত না হয়।"
+  },
+  "17:49": {
+    "reflectionEn": "They did not doubt in the abstract. They pointed at the grave: bones, and then not even bones, only rufat, crumbs and dust that no hand could gather again. Will we really be raised as a new creation? The question sounds like reason, yet it quietly measures the Maker by the reach of a human hand. The answer that follows does not argue about dust at all; it points back to the first time, when there was not even dust. And the verse is not only about them. Do I live as if the grave were the last word? If I truly expected to stand up again, whole and remembered, what would I stop doing today, and what would I finally begin?",
+    "reflectionBn": "ওদের সন্দেহটা হাওয়ায় ভাসা কোনো তত্ত্ব ছিল না। ওরা আঙুল তুলেছিল কবরের দিকে: হাড়, তারপর হাড়ও নয়, শুধু রুফাত, গুঁড়ো আর ধুলো, যা আর কোনো হাতে জড়ো করা যায় না। আমাদের কি সত্যিই নতুন সৃষ্টি হয়ে ওঠানো হবে? প্রশ্নটা শুনতে যুক্তির মতো। অথচ ভেতরে ভেতরে সে স্রষ্টাকে মাপছে মানুষের হাতের নাগাল দিয়ে। পরের আয়াতের জবাব ধুলো নিয়ে তর্কেই যায় না। সে মনে করিয়ে দেয় প্রথমবারের কথা, যখন ধুলোটুকুও ছিল না। আর আয়াতটা শুধু ওদের নিয়ে নয়। আমি কি এমনভাবে বাঁচি, যেন কবরই শেষ কথা? যদি সত্যিই বিশ্বাস করতাম যে আবার উঠে দাঁড়াব, পুরো মানুষ হয়ে, সব কিছু মনে নিয়ে, তবে আজ কোন কাজটা ছেড়ে দিতাম, আর কোনটা অবশেষে শুরু করতাম?",
+    "pointsEn": [
+      "When I picture my own death, do I imagine an ending, or a waiting before I am raised again?",
+      "Where do I still measure what Allah can do by what I can picture doing myself?",
+      "If I were raised tomorrow as a new creation, which of this week's deeds would I want to meet first, and which would I dread?",
+      "They turned their doubt into a sneer before they let it become a question; which of my own doubts have I never honestly brought to the Qur'an?",
+      "How would I speak to the people around me today if I kept in mind that every one of us will stand up again?"
+    ],
+    "pointsBn": [
+      "নিজের মৃত্যুর কথা ভাবলে আমার মনে কী ভাসে? একটা সমাপ্তি, নাকি আবার ওঠানোর আগের একটা অপেক্ষা?",
+      "আমি নিজে যা করার কথা কল্পনা করতে পারি, তা দিয়ে আল্লাহর ক্ষমতা মাপার অভ্যাস কোথায় কোথায় এখনো রয়ে গেছে?",
+      "কাল যদি নতুন সৃষ্টি হয়ে উঠি, এ সপ্তাহের কোন আমলটার সামনে আগে দাঁড়াতে চাইব, আর কোনটার মুখোমুখি হতে ভয় পাব?",
+      "ওরা সন্দেহটাকে প্রশ্ন হতে দেয়নি, আগেই বানিয়ে ফেলেছিল বিদ্রূপ। আমার নিজের কোন সন্দেহ নিয়ে আমি কখনো সৎভাবে কুরআনের কাছে যাইনি?",
+      "আমরা প্রত্যেকে আবার উঠে দাঁড়াব, এ কথা মনে রাখলে আজ আশপাশের মানুষের সঙ্গে আমি কীভাবে কথা বলতাম?"
+    ],
+    "lessonEn": "The One who made you from nothing can raise you from dust; live today as someone who fully expects to stand up again and meet what he did.",
+    "lessonBn": "যিনি আপনাকে শূন্য থেকে বানিয়েছেন, ধুলো থেকে আবার ওঠানো তাঁর পক্ষে কঠিন নয়। তাই আজ এমনভাবে বাঁচুন, যেন আপনি নিশ্চিত জানেন যে আবার উঠে দাঁড়াবেন আর নিজের করা সব কিছুর মুখোমুখি হবেন।"
   }
 };
 
