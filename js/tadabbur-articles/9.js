@@ -3523,6 +3523,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:95": {
+    "sections": [
+      {
+        "h": {
+          "en": "Oaths Ready Before the Return",
+          "bn": "ফেরার আগেই কসম তৈরি"
+        },
+        "p": [
+          {
+            "en": "Sa-yahlifuna billahi lakum idha inqalabtum ilayhim: they will swear by Allah to you when you return to them. The verse before it had already said that they would make excuses when the believers came back, and had told the Prophet ﷺ to answer that no excuse of theirs would be believed. Here the excuse hardens into an oath. The verb carries the future particle sa-, so the oaths are announced before they are sworn. Al-Qurtubi says the return meant is the return from Tabuk.",
+            "bn": "সায়াহলিফূনা বিল্লাহি লাকুম ইযান কালাবতুম ইলাইহিম: তোমরা তাদের কাছে ফিরে গেলে তারা তোমাদের সামনে আল্লাহর নামে কসম খাবে। আগের আয়াতেই বলা হয়েছিল, মুমিনরা ফিরলে এরা ওজর নিয়ে আসবে। নবী ﷺ-কে সেখানে জবাবও শিখিয়ে দেওয়া হয়েছিল: তোমাদের কোনো ওজর আমরা বিশ্বাস করব না। এবার সেই ওজর শক্ত হয়ে কসমে পরিণত হলো। ক্রিয়ার শুরুতে ভবিষ্যৎকালের 'সা' আছে। অর্থাৎ কসম খাওয়ার আগেই তার খবর দিয়ে দেওয়া হচ্ছে। কুরতুবী বলেন, এখানে ফেরা মানে তাবুক থেকে ফেরা।"
+          },
+          {
+            "en": "Al-Qurtubi also notes that what they swear to is left unsaid, and he supplies it: they will swear that they were not able to go out. At-Tabari names the swearers as the hypocrites who rejoiced in sitting behind against the Messenger of Allah, taking up the wording of 9:81, and he glosses the return as turning back to them from your campaign; al-Baghawi gives the same gloss. The Muyassar adds the two descriptions the verse leaves the reader to infer: they swear lying, and they swear to excuse themselves.",
+            "bn": "কুরতুবী আরও খেয়াল করেন, তারা কী নিয়ে কসম খাবে, আয়াতে তা উহ্য রাখা হয়েছে। তিনি সেটা পূরণ করে দেন: তারা কসম খাবে যে বের হওয়ার সামর্থ্য তাদের ছিল না। তাবারী বলেন, এরা সেই মুনাফিক, যারা আল্লাহর রসূলের পেছনে বসে থাকতে পেরে খুশি হয়েছিল। কথাটা তিনি নিয়েছেন ৯:৮১ আয়াতের ভাষা থেকে। ফেরার ব্যাখ্যা তিনি দেন এভাবে: যুদ্ধ থেকে তাদের কাছে ফিরে আসা। বাগাভীর ব্যাখ্যাও একই। মুয়াসসার দুটি বিশেষণ জুড়ে দেয়, যা আয়াত পাঠকের বোঝার উপর ছেড়ে রেখেছে: তারা কসম খাবে মিথ্যা বলে, আর কসম খাবে ওজর দেখাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Very Word They Wanted",
+          "bn": "তারা যে শব্দটা চেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Li-tu'ridu 'anhum: so that you would turn away from them. This is the purpose of the oath, and the commentators agree on what it means. At-Tabari: so that you do not reproach them. Al-Baghawi: so that you pass over them and do not reproach them. Al-Qurtubi: so that you let their blame go. Ma'arif al-Qur'an puts it as ignoring their absence from the campaign and sparing them the reproach due for it. The oath was not sworn to be believed so much as to be left in peace.",
+            "bn": "লিতু'রিদূ আনহুম: যাতে তোমরা তাদের থেকে মুখ ফিরিয়ে নাও। কসমের উদ্দেশ্য এটাই, আর এর অর্থ নিয়ে তাফসীরকারেরা একমত। তাবারী বলেন: যাতে তোমরা তাদের ভর্ৎসনা না করো। বাগাভী বলেন: যাতে তোমরা তাদের ব্যাপারটা পাশ কাটিয়ে যাও, তিরস্কার না করো। কুরতুবীর ভাষায়: যাতে তাদের দোষারোপ করা ছেড়ে দাও। মাআরিফুল কুরআন বলে, তারা চেয়েছিল যুদ্ধে তাদের অনুপস্থিতি উপেক্ষা করা হোক, এর জন্য প্রাপ্য তিরস্কার থেকে তারা রেহাই পাক। কসমটা বিশ্বাস পাওয়ার জন্য যতটা, তার চেয়ে বেশি রেহাই পাওয়ার জন্য।"
+          },
+          {
+            "en": "Then fa-a'ridu 'anhum: so turn away from them. The same verb comes back, now as a command, and its meaning has changed hands. At-Tabari has Allah tell the believers to leave off reproaching them and to leave them with what they had chosen for themselves of disbelief and hypocrisy. Al-Baghawi says nearly the same: let them be, with the hypocrisy they chose. They asked for the silence of an accepted excuse. They were given the silence of people whose excuse was not taken up at all.",
+            "bn": "তারপর ফাআ'রিদূ আনহুম: তবে তোমরা তাদের থেকে মুখ ফিরিয়ে নাও। একই ক্রিয়া ফিরে এল, এবার আদেশ হয়ে, আর তার অর্থটা গেল অন্য হাতে। তাবারীর ব্যাখ্যায় আল্লাহ মুমিনদের বলছেন: তাদের ভর্ৎসনা করা ছেড়ে দাও, আর কুফর ও নিফাকের যে পথ তারা নিজেরা বেছে নিয়েছে, তার সঙ্গেই তাদের ছেড়ে দাও। বাগাভীও প্রায় একই কথা বলেন: তাদের বেছে নেওয়া নিফাক নিয়েই তাদের থাকতে দাও। তারা চেয়েছিল এমন নীরবতা, যা ওজর কবুল হলে আসে। পেল এমন নীরবতা, যেখানে ওজরটা ধরেই দেখা হয়নি।"
+          },
+          {
+            "en": "The commentators also give the tone of the command. Ibn Kathir says turn away from them in contempt of them, and the Muyassar says avoid them and turn away from them in contempt. Al-Qurtubi reports that Ibn Abbas said it means do not speak to them, and adds that a report has the Prophet ﷺ say, on coming back from Tabuk, do not sit with them and do not speak to them. Ma'arif al-Qur'an sums it up: neither reproach and admonish them, nor deal with them pleasantly.",
+            "bn": "আদেশটার সুর কেমন, তাও তাফসীরকারেরা বলে দেন। ইবন কাসীর বলেন, তাদের তুচ্ছ জ্ঞান করে মুখ ফিরিয়ে নাও। মুয়াসসারও বলে, তাদের তুচ্ছ জ্ঞান করে এড়িয়ে চলো, মুখ ফিরিয়ে নাও। কুরতুবী জানান, ইবন আব্বাস (রাঃ) এর অর্থ বলেছেন: তাদের সঙ্গে কথা বলো না। তিনি আরও জানান, এক বর্ণনায় আছে, তাবুক থেকে ফিরে নবী ﷺ বলেছিলেন: তাদের সঙ্গে বসো না, তাদের সঙ্গে কথা বলো না। মাআরিফুল কুরআন পুরো কথাটা এক জায়গায় আনে: তাদের তিরস্কার বা উপদেশও নয়, আবার তাদের সঙ্গে সৌহার্দ্যও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di's Three Possible Responses",
+          "bn": "সা'দীর হিসাবে তিন পথ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di frames the command with a general rule. A wrongdoer who has sinned, he says, can be met in one of three ways. His word and his excuse may be accepted outwardly and inwardly, and he is pardoned as though he had not sinned. He may be punished with an actual penalty for his sin. Or he may be turned away from, and not met with any actual punishment for what he did. The first, as-Sa'di says, is ruled out here: their excuse is not accepted, and their foul states are already established.",
+            "bn": "আদেশটাকে সা'দী একটা সাধারণ নিয়মের ভেতরে রেখে দেখেন। তিনি বলেন, গুনাহ করে ফেলা অপরাধীর সঙ্গে তিনটি পথের যেকোনো একটিতে আচরণ করা যায়। হয়তো তার কথা ও ওজর ভেতরে-বাইরে দুদিক থেকেই কবুল করা হবে, আর তাকে এমনভাবে মাফ করা হবে যেন সে গুনাহই করেনি। হয়তো তার গুনাহর জন্য তাকে বাস্তব শাস্তি দেওয়া হবে। নয়তো তাকে এড়িয়ে যাওয়া হবে, তার কাজের বদলে কোনো বাস্তব শাস্তি দেওয়া হবে না। সা'দী বলেন, প্রথম পথটা এখানে বন্ধ। তাদের ওজর কবুল নয়, তাদের মন্দ অবস্থা আগেই প্রমাণিত।"
+          },
+          {
+            "en": "The third is the one commanded, and as-Sa'di spells it out: do not rebuke them, and do not flog them or kill them. Then he gives the reason. They are not people worth taking notice of, and rebuke and punishment would do them no good; the punishment of Hell is enough for them. Ma'arif al-Qur'an reaches the same point by another road. Reproach usually brings no good, it says, and when they have no faith in their hearts and do not want any, what would come of reproaching them?",
+            "bn": "আদেশ এসেছে তৃতীয় পথের, আর সা'দী তা খুলে বলেন: তাদের ভর্ৎসনা করো না, তাদের বেত্রাঘাত করো না, হত্যাও করো না। তারপর তিনি কারণ জানান। তারা এমন লোক নয় যাদের নিয়ে মাথা ঘামাতে হবে, আর ভর্ৎসনা বা শাস্তি তাদের কোনো উপকারে আসবে না। জাহান্নামের শাস্তিই তাদের জন্য যথেষ্ট। মাআরিফুল কুরআন অন্য পথ ধরে একই জায়গায় পৌঁছায়। সেখানে বলা হয়েছে, তিরস্কারে সাধারণত কোনো লাভ হয় না। যাদের অন্তরে ঈমান নেই, আর তারা ঈমান চায়ও না, তাদের তিরস্কার করে কী-ই বা পাওয়া যাবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Filth in Deed or Within",
+          "bn": "অপবিত্রতা কাজে, না অন্তরে"
+        },
+        "p": [
+          {
+            "en": "Innahum rijs: indeed they are filth. At-Tabari glosses rijs with a single word, najas, impure. Al-Qurtubi is more careful with the grammar. He reads it as their deed is rijs, and supplies the missing word: they are possessors of rijs, that is, their deed is foul. Al-Baghawi does the same, impure, meaning their deed is foul. On this reading the word describes what the men did and carried, and the supplied word keeps the description from falling on their bodies.",
+            "bn": "ইন্নাহুম রিজস: নিশ্চয়ই তারা অপবিত্র। তাবারী রিজসের অর্থ দেন এক শব্দে, নাজাস, অর্থাৎ নাপাক। কুরতুবী ব্যাকরণের দিকে আরও সতর্ক। তিনি পড়েন: তাদের কাজ রিজস। উহ্য শব্দটাও তিনি পূরণ করে দেন: তারা রিজসের অধিকারী, অর্থাৎ তাদের কাজ জঘন্য। বাগাভীও একই কথা বলেন: নাপাক, মানে তাদের কাজ জঘন্য। এই পাঠে শব্দটা বলছে লোকগুলো কী করেছে আর কী বহন করছে। উহ্য শব্দটা পূরণ করায় বর্ণনাটা তাদের শরীরের উপর গিয়ে পড়ে না।"
+          },
+          {
+            "en": "Ibn Kathir places the impurity further in. He says they are foul, their inner selves and their beliefs impure, and the abridged English Ibn Kathir renders it as impure inwardly and in their creed. The Muyassar has them foul in their inner selves. As-Sa'di calls them filth and foul, not people worth caring about. So some explanations locate rijs in the deed, and others in the inner self and the belief behind it. The texts do not argue with each other; they stress different places.",
+            "bn": "ইবন কাসীর অপবিত্রতাকে আরও ভেতরে নিয়ে যান। তিনি বলেন, তারা খবিস, তাদের অন্তর আর তাদের আকীদা নাপাক। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও আছে: ভেতর থেকে আর বিশ্বাসে অপবিত্র। মুয়াসসারের ভাষায় তারা ভেতরে খবিস। সা'দী তাদের বলেন ময়লা ও খবিস, এমন লোক যাদের নিয়ে মাথা ঘামানোর কিছু নেই। ফলে কিছু ব্যাখ্যা রিজসকে দেখে কাজের মধ্যে, অন্যগুলো দেখে অন্তরে আর তার পেছনের বিশ্বাসে। তাফসীরগুলো একে অন্যের বিরুদ্ধে যুক্তি দেয় না। তারা জোর দেয় ভিন্ন ভিন্ন জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Shelter Named Jahannam",
+          "bn": "আশ্রয়ের নাম জাহান্নাম"
+        },
+        "p": [
+          {
+            "en": "Wa-ma'wahum jahannam: and their shelter is Jahannam. Al-Qurtubi explains ma'wa as their dwelling and their place, and quotes the lexicographer al-Jawhari: a ma'wa is any place that something goes to for refuge, by night or by day. He illustrates the verb with the words of the son of Nuh (AS) in 11:43, I will take refuge on a mountain that will protect me from the water. At-Tabari says their destination is Jahannam, the dwelling they take shelter in in the Hereafter. A word for refuge is given to the fire.",
+            "bn": "ওয়া মা'ওয়াহুম জাহান্নাম: আর তাদের আশ্রয়স্থল জাহান্নাম। কুরতুবী মা'ওয়ার অর্থ দেন তাদের বাসস্থান, তাদের ঠিকানা। তিনি অভিধানবিদ জাওহারীর কথা উদ্ধৃত করেন: মা'ওয়া হলো এমন যেকোনো জায়গা, যেখানে কোনো কিছু রাতে বা দিনে আশ্রয় নিতে যায়। ক্রিয়াটির উদাহরণ তিনি দেন ১১:৪৩ আয়াত থেকে, যেখানে নূহ (আঃ)-এর ছেলে বলেছিল: আমি এমন এক পাহাড়ে আশ্রয় নেব, যা আমাকে পানি থেকে বাঁচাবে। তাবারী বলেন, তাদের শেষ গন্তব্য জাহান্নাম, আখিরাতে সেটাই তাদের আশ্রয় নেওয়ার বাসস্থান। আশ্রয়ের শব্দটা দেওয়া হলো আগুনকে।"
+          },
+          {
+            "en": "Jaza'an bima kanu yaksibun: a recompense for what they used to earn. At-Tabari reads it as a return for the deeds they used to do in the world, of disobedience to Allah; Ibn Kathir and the Muyassar specify sins and wrongs. The verb is kanu yaksibun, they used to earn, a past that was a habit rather than a slip. This is where the oath at the gate meets its limit. It could buy a few days of quiet in Madinah. It could not change a single line of what had already been earned.",
+            "bn": "জাযাআম বিমা কানূ ইয়াকসিবূন: তারা যা অর্জন করত, তার প্রতিফল। তাবারী এর অর্থ করেন, দুনিয়ায় তারা আল্লাহর নাফরমানির যেসব আমল করত, তার বিনিময়। ইবন কাসীর আর মুয়াসসার নির্দিষ্ট করে বলেন: গুনাহ আর অন্যায়। ক্রিয়ার রূপ কানূ ইয়াকসিবূন, তারা অর্জন করত। এ এক অভ্যাসের অতীত, হঠাৎ পা পিছলে যাওয়া নয়। দরজায় খাওয়া কসমের সীমা এখানেই। মদীনায় কিছুদিনের নীরবতা হয়তো সে কিনতে পারত। কিন্তু যা আগেই অর্জিত হয়ে গেছে, তার হিসাবের এক লাইনও সে বদলাতে পারত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Something Over Eighty Men",
+          "bn": "আশির কিছু বেশি লোক"
+        },
+        "p": [
+          {
+            "en": "The scene the verse foretells is described in Ka'b ibn Malik's long account of Tabuk, which al-Bukhari includes in his Sahih (4418). The Prophet ﷺ had returned, prayed in the mosque and sat for the people: \"So when he had done all that (this time), those who had failed to join the battle (of Tabuk) came and started offering (false) excuses and taking oaths before him. They were something over eighty men; Allah's Messenger (ﷺ) accepted the excuses they had expressed, took their pledge of allegiance asked for Allah's Forgiveness for them, and left the secrets of their hearts for Allah to judge.\"",
+            "bn": "আয়াতটি যে দৃশ্যের আগাম খবর দেয়, তার বর্ণনা আছে তাবুক নিয়ে কা'ব ইবন মালিক (রাঃ)-এর দীর্ঘ বিবরণে। ইমাম বুখারী তা তাঁর সহীহ গ্রন্থে এনেছেন (৪৪১৮)। নবী ﷺ ফিরে এসে মসজিদে নামায পড়েছেন, তারপর লোকদের জন্য বসেছেন: \"তিনি যখন তা করলেন, তখন পেছনে রয়ে যাওয়া লোকেরা তাঁর কাছে এল। তারা ওজর পেশ করতে লাগল আর তাঁর সামনে কসম খেতে লাগল। তারা ছিল আশির কিছু বেশি লোক। আল্লাহর রসূল ﷺ তাদের বাইরের কথা মেনে নিলেন, তাদের বাইআত নিলেন, তাদের জন্য ইস্তিগফার করলেন, আর তাদের অন্তরের গোপন বিষয় আল্লাহর হাতে সোপর্দ করলেন।\""
+          },
+          {
+            "en": "The Arabic of that last line is precise: he accepted from them their 'alaniya, what they showed openly, and entrusted their sara'ir, what they hid, to Allah. That is the turning away of the verse in practice. There was no questioning of their stories, no penalty, and no probing of their hearts. At the close of the same narration Ka'b recites 9:95 and 9:96 and says that Allah described those who lied with the worst description He ever gave anyone. At-Tabari carries both parts in a shorter form, through Ibn Shihab.",
+            "bn": "শেষ বাক্যের আরবিটা খুব নিখুঁত। তিনি তাদের কাছ থেকে গ্রহণ করলেন তাদের আলানিয়া, অর্থাৎ যা তারা প্রকাশ্যে দেখাল। আর তাদের সারাইর, অর্থাৎ যা তারা লুকিয়ে রাখল, তা সোপর্দ করলেন আল্লাহর কাছে। আয়াতের মুখ ফিরিয়ে নেওয়া বাস্তবে এমনই ছিল। তাদের গল্প নিয়ে কোনো জেরা হয়নি, কোনো শাস্তি হয়নি, কারও অন্তরে খোঁড়াখুঁড়িও হয়নি। একই বর্ণনার শেষে কা'ব (রাঃ) ৯:৯৫ ও ৯:৯৬ আয়াত তিলাওয়াত করেন। তিনি বলেন, মিথ্যা বলা লোকদের আল্লাহ এমন নিকৃষ্ট ভাষায় বর্ণনা করেছেন, যা তিনি আর কারও বেলায় করেননি। তাবারীও ইবন শিহাবের সূত্রে দুটি অংশই সংক্ষেপে এনেছেন।"
+          },
+          {
+            "en": "Two things in that account should be kept apart. The verdict of the verse came by revelation. The Prophet's ﷺ own conduct towards these men was to take their outward word and leave the rest to Allah, so the verdict on their hearts came from revelation and not from him. The account's real subject, Ka'b's own refusal to lie and what followed it, belongs to 9:118, the verse on the three whose case was deferred; it is not this verse's subject. Here the eighty and more stand at the mosque, and the oaths are sworn.",
+            "bn": "এই বিবরণে দুটি জিনিস আলাদা রাখা দরকার। আয়াতের রায় এসেছে ওহির মাধ্যমে। আর এই লোকদের সঙ্গে নবী ﷺ-এর নিজের আচরণ ছিল তাদের বাইরের কথা মেনে নিয়ে বাকিটা আল্লাহর উপর ছেড়ে দেওয়া। তাই তাদের অন্তরের রায় এসেছে ওহি থেকে, তাঁর নিজের কাছ থেকে নয়। বিবরণের আসল বিষয়, কা'ব (রাঃ)-এর মিথ্যা বলতে অস্বীকার আর তার পরে যা ঘটেছিল, তা ৯:১১৮ আয়াতের আলোচনা, যে আয়াত সেই তিনজনকে নিয়ে, যাদের বিষয়ের ফয়সালা পিছিয়ে রাখা হয়েছিল। এ আয়াতের বিষয় তা নয়। এখানে মসজিদে দাঁড়িয়ে আছে আশির বেশি সেই লোক, আর কসম খাওয়া হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Swore, by the Reports",
+          "bn": "বর্ণনায় কসমকারীদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Who were these men? The reports the commentators carry differ. Al-Baghawi cites Ibn Abbas: the verse came down about al-Jadd ibn Qays and Mu'attib ibn Qushayr and their companions, eighty men of the hypocrites, and on reaching Madinah the Prophet ﷺ said, do not sit with them and do not speak to them. He then cites Muqatil, for whom it came down about Abdullah ibn Ubayy, who swore to the Prophet ﷺ by Allah, besides whom there is no god, that he would never stay behind again, and asked him to be pleased with him; 9:96 came down with it.",
+            "bn": "এই লোকগুলো কারা ছিল? তাফসীরকারদের আনা বর্ণনাগুলো এক কথা বলে না। বাগাভী ইবন আব্বাস (রাঃ)-এর বক্তব্য আনেন: আয়াতটি নাযিল হয়েছিল জাদ্দ ইবন কায়স, মুআত্তিব ইবন কুশাইর আর তাদের সঙ্গীদের ব্যাপারে, যারা ছিল মুনাফিকদের আশিজন লোক। মদীনায় পৌঁছে নবী ﷺ বলেছিলেন: তাদের সঙ্গে বসো না, তাদের সঙ্গে কথা বলো না। এরপর বাগাভী মুকাতিলের মত আনেন। তাঁর মতে আয়াতটি নাযিল হয়েছিল আবদুল্লাহ ইবন উবাইকে নিয়ে। সে নবী ﷺ-এর সামনে সেই আল্লাহর কসম খেয়েছিল, যিনি ছাড়া কোনো ইলাহ নেই, যে আর কখনো পেছনে থাকবে না। সে নবী ﷺ-এর সন্তুষ্টিও চেয়েছিল। তখন এর সঙ্গে ৯:৯৬ আয়াতও নাযিল হয়।"
+          },
+          {
+            "en": "At-Tabari says it is mentioned that the verse came down about two men of the hypocrites, and gives a report with its chain to Ibn Abbas. In it the Prophet ﷺ is urged to campaign against the Banu al-Asfar, whom the edition's note identifies as the Romans, and two men ask leave to stay behind, saying that women are a trial; he gives it. On the road 9:42 to 9:44 are revealed, and with them innahum rijs. A man named Makhshi, hearing of it, swears he would rather be flogged a hundred lashes than be with them, and goes to the Prophet ﷺ.",
+            "bn": "তাবারী বলেন, উল্লেখ আছে যে আয়াতটি নাযিল হয়েছিল মুনাফিকদের দুজন লোককে নিয়ে। এ বিষয়ে তিনি ইবন আব্বাস (রাঃ) পর্যন্ত সনদসহ একটি বর্ণনা আনেন। তাতে আছে, নবী ﷺ-কে বনু আসফারের বিরুদ্ধে অভিযানে যেতে উৎসাহ দেওয়া হচ্ছিল। গ্রন্থের টীকা জানায়, বনু আসফার মানে রোমানরা। তখন দুজন লোক পেছনে থাকার অনুমতি চায়, এই বলে যে নারীরা ফিতনা। তিনি অনুমতি দেন। পথে নাযিল হয় ৯:৪২ থেকে ৯:৪৪, আর সেগুলোর সঙ্গে ইন্নাহুম রিজস। মাখশী নামের এক লোক তা শুনে কসম খেয়ে বলে, তোমাদের সঙ্গে থাকার চেয়ে একশো বেত্রাঘাত খাওয়াও আমার কাছে ভালো। তারপর সে নবী ﷺ-এর কাছে চলে যায়।"
+          },
+          {
+            "en": "None of the texts fetched for this verse grades these reports. Al-Baghawi gives his two without chains, and at-Tabari gives his with a chain but passes no judgement on it. They also differ on who is meant: two unnamed men who asked leave, al-Jadd and Mu'attib with eighty companions, or Abdullah ibn Ubayy. This article takes no side among them. What they share with Ka'b's account in al-Bukhari is the scene itself: men who stayed behind from Tabuk and then, when the army came home, swore.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই বর্ণনাগুলোর মান নির্ধারণ করেনি। বাগাভী তাঁর দুটি বর্ণনা এনেছেন সনদ ছাড়া। তাবারী সনদসহ এনেছেন, কিন্তু সনদ নিয়ে কোনো মন্তব্য করেননি। কাকে বোঝানো হয়েছে, তা নিয়েও বর্ণনাগুলো ভিন্ন। কোথাও অনুমতি চাওয়া নামহীন দুজন, কোথাও জাদ্দ আর মুআত্তিব ও তাদের আশিজন সঙ্গী, কোথাও আবদুল্লাহ ইবন উবাই। এ লেখা এদের কোনো পক্ষ নেয় না। বুখারীতে কা'ব (রাঃ)-এর বিবরণের সঙ্গে এদের মিল কেবল দৃশ্যটায়: কিছু লোক তাবুকে না গিয়ে পেছনে রয়ে গেল, তারপর বাহিনী ঘরে ফিরলে কসম খেতে লাগল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Label for Anyone Living",
+          "bn": "জীবিত কারও গায়ে এ তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse calls particular men rijs, men whose inner state Allah had disclosed to His Messenger ﷺ, as 9:94 says: Allah has already informed us of your news. No one now receives such news. No living person may be called rijs or a hypocrite on the strength of this verse, however weak his excuse sounds or however often he swears. The verse describes what it describes, and licenses nothing against any living person or community. Even the Prophet ﷺ, in Ka'b's account, took the outward word and left the hidden to Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নির্দিষ্ট কিছু লোককে রিজস বলেছে, যাদের অন্তরের অবস্থা আল্লাহ তাঁর রসূল ﷺ-কে জানিয়ে দিয়েছিলেন। ৯:৯৪ আয়াতেই আছে: আল্লাহ আমাদের তোমাদের খবর জানিয়ে দিয়েছেন। এমন খবর এখন আর কারও কাছে আসে না। তাই এ আয়াতের জোরে জীবিত কোনো মানুষকে রিজস বা মুনাফিক বলা যাবে না, তার ওজর যত দুর্বলই শোনাক, সে যত কসমই খাক। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি দেয় না। কা'ব (রাঃ)-এর বিবরণে স্বয়ং নবী ﷺ বাইরের কথা মেনে নিয়েছিলেন, আর গোপন বিষয় ছেড়ে দিয়েছিলেন আল্লাহর কাছে।"
+          },
+          {
+            "en": "What the verse does leave is a question for the reader. The oath in it was a tool for closing a conversation, sworn so that the asking would stop. Most people have done something like it: a promise made, or Allah's name invoked, less to tell what happened than to end the questions. Being left alone can feel like relief. The verse shows that it can also be the verdict. The way back from a failing runs through the truth, told to the one who was failed.",
+            "bn": "আয়াতটি পাঠকের জন্য রেখে যায় একটা প্রশ্ন। এখানে কসম ছিল আলাপ বন্ধ করার হাতিয়ার, খাওয়া হয়েছিল যাতে প্রশ্ন থেমে যায়। আমাদের অনেকেই এমন কিছু করেছি। কখনো ওয়াদা করেছি, কখনো আল্লাহর নাম নিয়েছি, যা ঘটেছে তা বলার জন্য যতটা না, প্রশ্নগুলো থামানোর জন্য তার চেয়ে বেশি। কেউ আর কিছু না বললে স্বস্তি লাগতে পারে। আয়াতটি দেখিয়ে দেয়, এই চুপ থাকাটাই রায় হতে পারে। ব্যর্থতা থেকে ফেরার পথ যায় সত্যের ভেতর দিয়ে, যে মানুষটার প্রতি দায় ছিল, তাকে সত্য বলার ভেতর দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "9:99": {
     "sections": [
       {

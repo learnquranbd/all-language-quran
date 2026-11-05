@@ -21251,6 +21251,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "An oath cannot unsay a word. Own what you said, ask whether your resentment is really at a kindness, and take the door of repentance the verse leaves open.",
     "lessonBn": "কসম দিয়ে বলা কথা ফেরানো যায় না। যা বলেছেন তার দায় নিন, ভেবে দেখুন আপনার ক্ষোভ আসলে কোনো উপকারের বিরুদ্ধে কি না, আর আয়াতটি তওবার যে দরজা খোলা রেখেছে, সেটা দিয়ে ঢুকে পড়ুন।"
+  },
+  "9:95": {
+    "reflectionEn": "They knew the army was on its way home, so their oaths were ready before it arrived. What they wanted was small: to be let alone, spared the question and the rebuke. The verse grants them the very word they asked for and empties it of what they meant by it. Turn away from them, it says, and the turning is not a pardon but a leaving of them with what they chose. Then it names what lay beneath the oaths, and where it leads. An oath can be used to close a conversation that ought to stay open. When I have failed in something, do I go to the one I failed to tell the truth, or only to be left alone?",
+    "reflectionBn": "বাহিনী ঘরে ফিরছে, এ খবর তারা জানত। তাই বাহিনী পৌঁছানোর আগেই তাদের কসম তৈরি ছিল। তারা চেয়েছিল সামান্য একটা জিনিস: তাদের যেন ছেড়ে দেওয়া হয়, কেউ যেন প্রশ্ন না করে, ভর্ৎসনা না করে। আয়াতটি তাদের চাওয়া শব্দটাই তাদের দিয়ে দেয়, কিন্তু তার ভেতর থেকে তাদের উদ্দেশ্যটা বের করে নেয়। তাদের এড়িয়ে চলো, আয়াত বলে। এই এড়িয়ে চলা মাফ নয়, বরং তারা যা বেছে নিয়েছে তার হাতেই তাদের ছেড়ে দেওয়া। তারপর আয়াত বলে দেয় কসমের নিচে আসলে কী ছিল, আর তা কোথায় গিয়ে ঠেকবে। কসম দিয়ে এমন আলাপও বন্ধ করা যায়, যা খোলা থাকাই দরকার ছিল। কোনো কাজে ব্যর্থ হলে আমি যার কাছে দায়ী, তার কাছে যাই সত্য বলতে, নাকি শুধু রেহাই পেতে?",
+    "pointsEn": [
+      "The last time I fell short, did I prepare an account of what happened, or an excuse that was ready before anyone asked?",
+      "Is there a conversation I keep closing with a promise or an oath because I do not want it to go any further?",
+      "Have I ever been relieved to be left alone, without noticing that being left alone was itself the verdict?",
+      "Do I swear by Allah lightly, just to settle small doubts other people have about me?",
+      "When I weigh someone else's excuse, do I remember that the verse knew their hearts by revelation, and I do not?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কোনো কাজে পিছিয়ে পড়েছি, আমি কি যা ঘটেছে তার সত্য বিবরণ তৈরি করেছিলাম, নাকি কেউ জিজ্ঞেস করার আগেই একটা অজুহাত সাজিয়ে রেখেছিলাম?",
+      "এমন কোনো আলাপ কি আছে, যা আর এগোক তা চাই না বলে বারবার ওয়াদা বা কসম দিয়ে থামিয়ে দিই?",
+      "কেউ আমাকে আর কিছু বলছে না বলে কি কখনো স্বস্তি পেয়েছি, অথচ খেয়াল করিনি যে এই চুপ থাকাটাই ছিল রায়?",
+      "অন্যের মনের ছোটখাটো সন্দেহ মেটাতে আমি কি হালকাভাবে আল্লাহর নামে কসম খাই?",
+      "অন্য কারও অজুহাত বিচার করার সময় কি মনে রাখি যে এ আয়াত তাদের অন্তরের খবর জেনেছিল ওহির মাধ্যমে, আর আমার কাছে কোনো ওহি নেই?"
+    ],
+    "lessonEn": "Do not use oaths to buy silence about a failing; being left alone is not the same as being forgiven, and only the truth opens the way back.",
+    "lessonBn": "নিজের ব্যর্থতা ঢাকতে কসম দিয়ে চুপ করানোর পথ ধরবেন না। কেউ কিছু না বলা মানেই মাফ পাওয়া নয়, ফেরার পথ খোলে কেবল সত্য দিয়ে।"
   }
 };
 
