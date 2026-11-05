@@ -471,6 +471,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Obstinate Tyrant",
+          "bn": "উদ্ধত জালিমের পরের ছবি"
+        },
+        "p": [
+          {
+            "en": "The verse arrives straight after a hard scene. In 14:15 a decision was sought, and every obstinate tyrant was disappointed; 14:16 and 14:17 describe the Hell that lies before him, the purulent drink he gulps and can hardly swallow, and the death that comes at him from every side while he does not die. Al-Qurtubi ties 14:18 back to that disappointment in 14:15 and gives its sense in a phrase: their deeds are nullified, not accepted. The punishment has been shown; now the verse turns to what they had brought with them.",
+            "bn": "আয়াতটি আসে এক কঠিন দৃশ্যের ঠিক পরে। ১৪:১৫ আয়াতে ফায়সালা চাওয়া হলো, আর প্রত্যেক উদ্ধত জালিম ব্যর্থ হলো। ১৪:১৬ ও ১৪:১৭ আয়াত তার সামনের জাহান্নামের কথা বলে। সেখানে তাকে পুঁজমেশানো পানি পান করানো হবে, সে ঢোক গিলবে কিন্তু গলা দিয়ে নামাতে পারবে না। চারদিক থেকে মৃত্যু আসবে, অথচ সে মরবে না। কুরতুবী ১৪:১৮ আয়াতকে ১৪:১৫ আয়াতের সেই ব্যর্থতার সঙ্গে জুড়ে দেন, আর অর্থটা বলেন এক কথায়: তাদের আমল বাতিল, কবুল হয়নি। শাস্তির ছবি দেখানো শেষ। এবার আয়াত তাকায় তারা সঙ্গে করে কী এনেছিল তার দিকে।"
+          },
+          {
+            "en": "Mathalu alladhina kafaru bi-rabbihim a'maluhum ka-ramadin: the likeness of those who disbelieve in their Lord, their deeds are like ash. Al-Qurtubi defines ramad as what is left after a thing has burned. As-Sa'di calls it the finest and lightest of things. The wind grows violent upon it, ishtaddat bihi ar-rih, on a stormy day, and in the Muyassar's words leaves no trace of it behind. Ibn Jurayj, in a report at-Tabari records, gives the plainest gloss of all: the wind carried it away on a stormy day.",
+            "bn": "মাসালুল্লাযীনা কাফারু বিরব্বিহিম আ'মালুহুম কারামাদ: যারা নিজেদের প্রতিপালককে অস্বীকার করে, তাদের দৃষ্টান্ত হলো, তাদের আমল ছাইয়ের মতো। কুরতুবী রামাদের সংজ্ঞা দেন এভাবে: কোনো কিছু পুড়ে যাওয়ার পর যা অবশিষ্ট থাকে। সা'দী বলেন, ছাই সবচেয়ে মিহি আর সবচেয়ে হালকা জিনিস। ঝড়ের দিনে বাতাস তার উপর প্রচণ্ড হয়ে ওঠে। মুয়াসসারের ভাষায়, বাতাস তার কোনো চিহ্নই রেখে যায় না। তাবারীর উদ্ধৃত এক বর্ণনায় ইবন জুরাইজ সবচেয়ে সরল ব্যাখ্যাটি দেন: ঝড়ের দিনে বাতাস তা উড়িয়ে নিয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Likeness of the Deeds",
+          "bn": "দৃষ্টান্তটা আসলে আমলের"
+        },
+        "p": [
+          {
+            "en": "A small puzzle of grammar sits at the opening. The sentence begins with the likeness of the people and then names their deeds, so what exactly is being compared? At-Tabari reports two answers from the grammarians. Some in Basra read it as though Allah had said: among what We relate to you is the likeness of those who disbelieved, and then the explanation follows. Some in Kufa held that the likeness belongs to the deeds, but the Arabs put the persons first, as better known, and then give the report about them.",
+            "bn": "শুরুতেই ব্যাকরণের ছোট্ট একটা ধাঁধা আছে। বাক্য শুরু হয় মানুষগুলোর দৃষ্টান্ত দিয়ে, তারপর আসে তাদের আমলের কথা। তাহলে তুলনাটা ঠিক কিসের সঙ্গে? তাবারী ব্যাকরণবিদদের দুটি জবাব উল্লেখ করেন। বসরার কেউ কেউ অর্থ করেছেন এভাবে, যেন আল্লাহ বলছেন: তোমাদের কাছে আমি যা বর্ণনা করি, তার মধ্যে আছে কাফিরদের দৃষ্টান্ত। তারপর আসে তার ব্যাখ্যা। কুফার কেউ কেউ বলেছেন, দৃষ্টান্তটা আসলে আমলের। কিন্তু আরবরা ব্যক্তির নাম আগে আনে, কারণ সেটাই বেশি পরিচিত, তারপর তার সম্পর্কে খবরটা দেয়।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the same discussion with names attached. Sibawayh makes mathal a subject whose predicate is understood, something like: in what is recited to you is the likeness of those who disbelieved; then a fresh sentence begins, their deeds are like ash. Al-Farra' is reported both as treating the word likeness as redundant and as reading an elided word: the likeness of the deeds of those who disbelieved. Al-Baghawi, and the Kufan view at-Tabari reports, point to 39:60 for the same shape, where those who lied against Allah come first and their blackened faces follow.",
+            "bn": "কুরতুবী একই আলোচনা আনেন নাম ধরে ধরে। সিবাওয়াইহের মতে মাসাল এখানে উদ্দেশ্য, আর তার বিধেয় উহ্য। অর্থটা অনেকটা এমন: তোমাদের কাছে যা তিলাওয়াত করা হয়, তাতে আছে কাফিরদের দৃষ্টান্ত। তারপর নতুন বাক্য শুরু হয়: তাদের আমল ছাইয়ের মতো। ফাররা থেকে দুটি কথাই বর্ণিত। এক, দৃষ্টান্ত শব্দটি এখানে অতিরিক্ত। দুই, মাঝখানে একটি শব্দ উহ্য আছে, অর্থাৎ কাফিরদের আমলের দৃষ্টান্ত। বাগাভী, আর তাবারীর উল্লেখ করা কুফার মতটি, একই গঠনের নজির দেখান ৩৯:৬০ আয়াতে। সেখানে আল্লাহর উপর মিথ্যা আরোপকারীদের কথা আসে আগে, তাদের কালো হয়ে যাওয়া চেহারার কথা আসে পরে।"
+          },
+          {
+            "en": "The commentators also pause at fi yawmin 'asif, on a stormy day, since storming belongs to wind and not to days. At-Tabari and al-Baghawi answer that a day can carry the quality of what happens in it, as one says a hot day or a cold day. A second view, which both also give, reads it as a day stormy of wind, the word wind dropped because it has just been mentioned. At-Tabari and al-Qurtubi add a third: that the word describes the wind itself and only took its case ending from the day beside it.",
+            "bn": "ফী ইয়াওমিন আসিফ, অর্থাৎ ঝড়ের দিনে, এ কথাটিতেও তাফসীরকারেরা থামেন। কারণ ঝড় তো বাতাসের গুণ, দিনের নয়। তাবারী ও বাগাভীর জবাব: দিনের ভেতরে যা ঘটে, দিনকেও সেই গুণে ডাকা যায়। যেমন আমরা বলি গরমের দিন, শীতের দিন। দ্বিতীয় যে মতটি দুজনেই উল্লেখ করেন, তা হলো এর অর্থ ঝোড়ো বাতাসের দিন। বাতাস শব্দটা একটু আগেই এসেছে বলে এখানে বাদ পড়েছে। তাবারী ও কুরতুবী এর সঙ্গে তৃতীয় একটি মত যোগ করেন: শব্দটি আসলে বাতাসেরই বিশেষণ, শুধু পাশের দিন শব্দটির সঙ্গে মিল রেখে তার বিভক্তি নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Done in Whose Name",
+          "bn": "কার নামে করা আমল"
+        },
+        "p": [
+          {
+            "en": "Which deeds are these? The Muyassar answers with examples: the deeds of the disbelievers in this world, such as birr, good-doing, and keeping the ties of kinship. Those are works people admire, and the verse says the wind takes them. Al-Qurtubi speaks the same way: what they cannot lay hold of in the Hereafter is the reward of the birr they did in the world, because kufr has rendered it void. On this reading the ash is not wickedness that vanishes. It is work that looked good, and found nothing beneath it on the day of need.",
+            "bn": "এগুলো কোন আমল? মুয়াসসার উদাহরণ দিয়ে জবাব দেয়: দুনিয়াতে কাফিরদের করা কাজ, যেমন সৎকর্ম আর আত্মীয়তার সম্পর্ক রক্ষা। এ ধরনের কাজের প্রশংসা মানুষ করে, অথচ আয়াত বলছে বাতাস এগুলোকেই উড়িয়ে নেয়। কুরতুবীর কথাও একই রকম। আখিরাতে তারা যা হাতে পাবে না, তা হলো দুনিয়াতে করা সৎকর্মের সওয়াব, কারণ কুফর তা বাতিল করে দিয়েছে। এই ব্যাখ্যায় ছাই মানে মন্দ কাজ মুছে যাওয়া নয়। ছাই হলো সেই কাজ, যা দেখতে ভালো ছিল, কিন্তু দরকারের দিনে নিচে কোনো ভিত পায়নি।"
+          },
+          {
+            "en": "At-Tabari puts the reason inside the deed. These are works they did in the world while claiming that by them they sought Allah; on the Day of Resurrection they find nothing of them that benefits them with Allah, because they did not do them for Allah purely, khalisan, but associated idols and images with Him in them. Al-Baghawi gives the same cause: they draw no benefit from their deeds because they associated others with Allah in them. Ibn Kathir names the people as those who worshipped others with Allah and belied His messengers, building their deeds on no sound foundation.",
+            "bn": "তাবারী কারণটা খুঁজে পান আমলের ভেতরেই। দুনিয়াতে তারা এসব কাজ করত আর দাবি করত, এর মাধ্যমে তারা আল্লাহকেই চায়। কিন্তু কিয়ামতের দিন আল্লাহর কাছে কাজে লাগার মতো কিছুই তারা এর মধ্যে পাবে না। কারণ কাজগুলো তারা খালিস আল্লাহর জন্য করেনি, বরং তাতে মূর্তি আর প্রতিমাকে শরীক করেছিল। বাগাভীও একই কারণ বলেন: আমলে তারা আল্লাহর সঙ্গে অন্যকে শরীক করেছিল, তাই সেগুলো তাদের কোনো উপকারে আসবে না। ইবন কাসীর এদের পরিচয় দেন এভাবে: যারা আল্লাহর সঙ্গে অন্যের ইবাদত করেছে, তাঁর রসূলদের মিথ্যা বলেছে, আর নিজেদের আমল গড়েছে সঠিক কোনো ভিত ছাড়াই।"
+          },
+          {
+            "en": "As-Sa'di leaves the question between two readings. The deeds may be those they did for Allah, which go and dissolve like ash, since they rest on disbelief and denial. Or they may be the works they did to plot against the truth: they strive and toil at it, but their scheming returns upon themselves, and they will not harm Allah, His messengers, His forces or the truth with them in the least. He introduces each with the word either and does not choose between them, and neither is chosen here.",
+            "bn": "সা'দী প্রশ্নটা দুটি ব্যাখ্যার মাঝে খোলা রাখেন। হতে পারে এগুলো সেই আমল, যা তারা আল্লাহর জন্য করেছিল। কুফর আর মিথ্যারোপের উপর দাঁড়ানো বলে সেগুলো ছাইয়ের মতো মিলিয়ে যায়। আবার হতে পারে এগুলো সেই কাজ, যা তারা সত্যের বিরুদ্ধে চক্রান্ত করতে করেছিল। এর পেছনে তারা খাটে, পরিশ্রম করে, কিন্তু চক্রান্ত ফিরে আসে তাদের নিজেদের উপরই। আল্লাহ, তাঁর রসূলগণ, তাঁর বাহিনী আর তাঁদের সঙ্গে থাকা সত্যের তারা বিন্দুমাত্র ক্ষতি করতে পারবে না। দুটি মতই তিনি 'হয়তো' বলে আনেন, কোনোটিকে বেছে নেন না। এখানেও কোনোটিকে বেছে নেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lost at the Hour of Need",
+          "bn": "প্রয়োজনের মুহূর্তেই হারানো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir places the scene on the Day of Resurrection, when they ask Allah for the reward of these deeds. They used to reckon they stood on something, he says, and they find nothing, and gain no more than is gained from ash when a storm wind blows hard on it. His sharpest phrase comes twice: they lost them when they were most in need of them. The loss does not fall when the deed is done. It falls at the reckoning, the very moment the deed was meant to serve.",
+            "bn": "ইবন কাসীর দৃশ্যটি রাখেন কিয়ামতের দিনে, যখন তারা এসব আমলের প্রতিদান আল্লাহর কাছে চাইবে। তিনি বলেন, তারা ভাবত তারা কোনো কিছুর উপর আছে। কিন্তু তারা কিছুই পাবে না। ঝোড়ো বাতাস জোরে বয়ে গেলে ছাই থেকে যতটুকু হাতে থাকে, তার বেশি কিছু তাদের জুটবে না। তাঁর সবচেয়ে তীক্ষ্ণ কথাটি তিনি দুবার বলেন: যখন তাদের সবচেয়ে বেশি দরকার ছিল, ঠিক তখনই তারা তা হারাল। ক্ষতিটা কাজ করার সময় ঘটে না। ঘটে হিসাবের দিনে, যে মুহূর্তের জন্যই কাজটা করার কথা ছিল।"
+          },
+          {
+            "en": "At-Tabari records a report from Ibn 'Abbas (RA) along the same line: those who disbelieved in their Lord and worshipped another, their deeds on the Day of Resurrection are like ash in a storm, and they have no power over anything of their deeds to benefit them, just as ash cannot be held once it is let loose on a stormy day. At-Tabari's own wording names the benefit they had hoped for: something that would save them from His punishment. The wind does not only scatter; it scatters exactly what was meant to shelter them.",
+            "bn": "তাবারী ইবন আব্বাস (রাঃ) থেকে একই ধারার একটি বর্ণনা উদ্ধৃত করেন। যারা নিজেদের প্রতিপালককে অস্বীকার করেছে আর অন্যের ইবাদত করেছে, কিয়ামতের দিন তাদের আমল ঝড়ের মুখে ছাইয়ের মতো। নিজেদের আমলের কোনো কিছুই তারা কাজে লাগাতে পারবে না, ঠিক যেমন ঝড়ের দিনে ছেড়ে দেওয়া ছাই আর ধরে রাখা যায় না। তাবারী নিজের ভাষায় বলে দেন তারা কোন উপকার আশা করেছিল: এমন কিছু, যা তাদের আল্লাহর শাস্তি থেকে বাঁচাবে। বাতাস শুধু ছড়িয়েই দেয় না। যা তাদের আশ্রয় হওয়ার কথা ছিল, ঠিক সেটাকেই ছড়িয়ে দেয়।"
+          },
+          {
+            "en": "La yaqdiruna mimma kasabu 'ala shay': they have no power over anything of what they earned. Al-Baghawi splits the clause between two worlds: what they earned in this world, anything at all in the Hereafter. Al-Qurtubi says the same of the reward of the birr they did. Ibn Kathir lets the picture carry it: they can no more hold on to their deeds than one could gather that ash on that day. As-Sa'di presses it down to the smallest measure, adding: not even the weight of a speck of it.",
+            "bn": "লা ইয়াকদিরূনা মিম্মা কাসাবূ আলা শাইয়: যা তারা উপার্জন করেছে, তার কোনো কিছুর উপরই তাদের ক্ষমতা নেই। বাগাভী বাক্যটিকে দুই জগতে ভাগ করেন। উপার্জন দুনিয়ার, আর আখিরাতে তার কিছুই হাতে নেই। কুরতুবীও একই কথা বলেন, তাদের করা সৎকর্মের সওয়াব সম্পর্কে। ইবন কাসীর কাজটা ছেড়ে দেন ছবিটির উপরেই: সেদিন সেই ছাই কুড়িয়ে জড়ো করা যতটা অসম্ভব, নিজেদের আমল ধরে রাখাও তাদের পক্ষে ততটাই অসম্ভব। সা'দী কথাটাকে নামিয়ে আনেন সবচেয়ে ছোট মাপে। তিনি যোগ করেন: এক কণা পরিমাণও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dust, Frost and a Bare Rock",
+          "bn": "ধুলো, তুষার আর খালি পাথর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets three other verses beside it. In 25:23 Allah turns to whatever deeds they did and makes them scattered dust. In 3:117 what they spend in this worldly life is like a wind of bitter frost that strikes the harvest of a people who wronged themselves and destroys it. And in 2:264 the believers are told not to void their charity by reminders and hurt, like a man who spends to be seen and does not believe in Allah and the Last Day: his likeness is a smooth rock with dust on it, left bare by a downpour.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও তিনটি আয়াত রাখেন। ২৫:২৩ আয়াতে আল্লাহ তাদের করা আমলের দিকে এগিয়ে যান এবং সেগুলোকে বিক্ষিপ্ত ধূলিকণা বানিয়ে দেন। ৩:১১৭ আয়াতে দুনিয়ার জীবনে তারা যা খরচ করে, তার দৃষ্টান্ত তীব্র শীতল বাতাস। নিজেদের উপর জুলুমকারী এক সম্প্রদায়ের ফসলে সে বাতাস আঘাত হানে আর তা ধ্বংস করে দেয়। আর ২:২৬৪ আয়াতে মুমিনদের নিষেধ করা হয়েছে, খোঁটা আর কষ্ট দিয়ে তারা যেন নিজেদের দান নষ্ট না করে, সেই লোকের মতো, যে লোক দেখানোর জন্য খরচ করে, আর আল্লাহ ও আখিরাতে বিশ্বাস রাখে না। তার দৃষ্টান্ত মসৃণ পাথর, যার উপর কিছু মাটি জমে ছিল। প্রবল বৃষ্টি এসে তা ধুয়ে পাথরটাকে খালি করে দেয়।"
+          },
+          {
+            "en": "The last of these shares this verse's very words. 2:264 closes with la yaqdiruna 'ala shay'in mimma kasabu, they have no power over anything they earned, the same clause found here with its parts in another order. Yet 2:264 is spoken to those who believe, as a warning about their own charity. The Qur'an gives one more picture at 24:39, which none of the commentaries here cites: the deeds of those who disbelieve are like a mirage on a plain, taken for water by the thirsty until he reaches it and finds nothing, but finds Allah there.",
+            "bn": "শেষ আয়াতটিতে এ আয়াতের হুবহু শব্দই আছে। ২:২৬৪ আয়াত শেষ হয় লা ইয়াকদিরূনা আলা শাইয়িম মিম্মা কাসাবূ দিয়ে: যা তারা উপার্জন করেছে, তার কোনো কিছুর উপর তাদের ক্ষমতা নেই। এখানেও একই বাক্য, শুধু অংশগুলোর ক্রম আলাদা। অথচ ২:২৬৪ আয়াতের সম্বোধন মুমিনদের প্রতি, তাদের নিজেদের দান নিয়ে সতর্ক করতে। কুরআন আরেকটি ছবি দেয় ২৪:৩৯ আয়াতে, যদিও এখানকার কোনো তাফসীর তা উল্লেখ করেনি। কাফিরদের আমল সমতল প্রান্তরের মরীচিকার মতো। পিপাসার্ত লোক তাকে পানি ভাবে। কাছে গিয়ে দেখে সেখানে কিছুই নেই, বরং সেখানে সে আল্লাহকে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question About Ibn Jud'an",
+          "bn": "ইবন জুদআনকে নিয়ে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A narration in Sahih Muslim, not tied to this verse, touches the very examples the Muyassar gives. 'A'isha (RA) said: I said, Messenger of Allah, Ibn Jud'an in the Jahiliyya used to keep the ties of kinship and feed the poor; will that benefit him? He said: 'It will not benefit him. He never once said: My Lord, forgive me my sin on the Day of Recompense.' Muslim records it in his Sahih (214).",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। সহীহ মুসলিমে একটি বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, তবে মুয়াসসারের দেওয়া উদাহরণগুলোই তাতে আছে। আয়েশা (রাঃ) বলেন: আমি বললাম, হে আল্লাহর রসূল, ইবন জুদআন জাহিলিয়াতের যুগে আত্মীয়তার সম্পর্ক রক্ষা করত আর মিসকিনকে খাওয়াত। এটা কি তার উপকারে আসবে? তিনি বললেন: 'এটা তার উপকারে আসবে না। সে কোনো দিন একবারও বলেনি: হে আমার রব, বিচারের দিনে আমার গুনাহ মাফ করে দিয়ো।' মুসলিম তাঁর সহীহ গ্রন্থে এটি বর্ণনা করেছেন (২১৪)।"
+          },
+          {
+            "en": "The answer does not count the deeds or weigh them. It names what was missing beneath them: a single day of turning to his Lord, asking forgiveness with the Day of Recompense in view. That is the same ground the commentators describe, deeds done without faith in the One who rewards them. The narration records a question and the Prophet's ﷺ answer about one man, and this article adds nothing to it. It stands here only for what it shows about the foundation a deed needs.",
+            "bn": "জবাবে আমলগুলো গোনা হয়নি, মাপাও হয়নি। জবাবে বলা হয়েছে তার নিচে কী অনুপস্থিত ছিল: এমন একটি দিন, যেদিন সে বিচারের দিনের কথা মনে রেখে নিজের রবের দিকে ফিরে মাফ চেয়েছে। তাফসীরকারেরা যে ভিতের কথা বলেন, এটাও সেই ভিত। প্রতিদান যিনি দেবেন, তাঁর প্রতি ঈমান ছাড়া করা আমল। বর্ণনাটিতে আছে এক ব্যক্তিকে নিয়ে একটি প্রশ্ন আর নবী ﷺ-এর জবাব। এ লেখা তার সঙ্গে কিছুই যোগ করে না। হাদীসটি এখানে আনা হয়েছে শুধু এটুকু দেখাতে যে আমলের কেমন ভিত দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Far to Retrace",
+          "bn": "ফেরার পথ যেখানে নেই"
+        },
+        "p": [
+          {
+            "en": "Dhalika huwa ad-dalalu al-ba'id: that is the far straying. At-Tabari applies it to the deeds themselves: works done in the world with partners set beside Allah, done without guidance or straightness, on a swerving far from guidance. Ibn Kathir reads it of their effort and work, which had no foundation and no uprightness, so that they lost their reward when they needed it most. The Muyassar reads it as straying far from the straight path. Each names the distance between the deed and the ground it should have stood on.",
+            "bn": "যালিকা হুয়াদ দালালুল বাঈদ: এটাই সুদূর পথভ্রষ্টতা। তাবারী কথাটা প্রয়োগ করেন আমলের উপরেই। দুনিয়াতে আল্লাহর সঙ্গে শরীক দাঁড় করিয়ে যে কাজ করা হয়েছে, তা হিদায়াত আর সোজা পথ ছাড়াই করা, হিদায়াত থেকে অনেক দূরে সরে গিয়ে। ইবন কাসীরের মতে এটা তাদের চেষ্টা আর কাজের কথা, যার কোনো ভিত ছিল না, সোজা পথও ছিল না। তাই যখন সবচেয়ে দরকার, তখনই তারা প্রতিদান হারাল। মুয়াসসারের ব্যাখ্যা: সরল পথ থেকে বহু দূরে সরে যাওয়া। প্রত্যেকে মাপছেন আমল আর তার যেখানে দাঁড়ানোর কথা ছিল, সেই মাটির মাঝের দূরত্ব।"
+          },
+          {
+            "en": "Al-Qurtubi gives the word far its reason. Ad-dalal al-ba'id, he says, is the great loss, and it is called far because the chance of making it good is lost with death. A traveller who strays a little can turn back; this straying has passed the point of turning. As-Sa'di ties the phrase to the same outcome: their striving came to nothing and their work dissolved. The distance in the verse, then, is measured in time as much as in road, and the time that still remains is the life being lived.",
+            "bn": "দূর শব্দটির কারণ বলেন কুরতুবী। তাঁর মতে আদ-দালালুল বাঈদ মানে বিরাট ক্ষতি। একে দূর বলা হয়েছে, কারণ মৃত্যুর সঙ্গে সঙ্গে তা পুষিয়ে নেওয়ার সুযোগ শেষ হয়ে যায়। অল্প পথ ভুল করা মুসাফির ফিরে আসতে পারে। এই পথভ্রষ্টতা ফেরার সীমা পেরিয়ে গেছে। সা'দীও কথাটাকে একই পরিণতির সঙ্গে জোড়েন: তাদের চেষ্টা বৃথা গেল, তাদের আমল মিলিয়ে গেল। তাহলে আয়াতের এই দূরত্ব শুধু পথের নয়, সময়েরও। আর যে সময়টুকু এখনো হাতে আছে, তা হলো চলমান এই জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence to Void Others",
+          "bn": "অন্যের আমল বাতিল ঘোষণার অধিকার নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse strikes a likeness for the deeds of those who disbelieve in their Lord, as the text describes them, and leaves their reckoning with Allah. It licenses nothing against any living person or community. No living person's deeds may be declared void on the strength of this verse: not a neighbour's charity, not a relative's kindness, not the work of a stranger whose heart no one can see. Only Allah knows what a deed rests on and how a life will end.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যারা নিজেদের রবকে অস্বীকার করে, তাদের আমলের একটি দৃষ্টান্ত দেয়, ঠিক যেভাবে আয়াত তা বর্ণনা করেছে। তাদের হিসাব থাকে আল্লাহর হাতে। বেঁচে থাকা কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এ আয়াতের জোরে বেঁচে থাকা কারও আমলকে বাতিল ঘোষণা করা যায় না। প্রতিবেশীর দান নয়, আত্মীয়ের সদাচরণ নয়, এমন কোনো অচেনা মানুষের কাজও নয়, যার অন্তর কেউ দেখতে পায় না। কোন আমল কিসের উপর দাঁড়িয়ে, আর কার জীবন কীভাবে শেষ হবে, তা শুধু আল্লাহ জানেন।"
+          },
+          {
+            "en": "The mirror points inward, and 2:264 has already shown that it can, since it carries this verse's clause to believers. Ibn Kathir's phrase about deeds built on no sound foundation is a question anyone can put to his own work, and at-Tabari's word khalisan, purely for Allah, names what that foundation is. A few verses on, at 14:24, the surah sets a firmly rooted tree beside these ashes. Before a deed, ask whom it is for; after it, make the plea the hadith names: my Lord, forgive me my sin on the Day of Recompense.",
+            "bn": "আয়নাটা ঘুরে আসে নিজের দিকে। ২:২৬৪ আয়াত আগেই দেখিয়েছে তা হতে পারে, কারণ এ আয়াতের বাক্যটিই সেখানে মুমিনদের উদ্দেশে বলা। সঠিক ভিত ছাড়া গড়া আমল নিয়ে ইবন কাসীরের কথাটি যে কেউ নিজের কাজের দিকে তাকিয়ে নিজেকে জিজ্ঞেস করতে পারে। আর তাবারীর শব্দ খালিসান, অর্থাৎ শুধু আল্লাহর জন্য, বলে দেয় সেই ভিতটা কী। কয়েক আয়াত পরে, ১৪:২৪ আয়াতে, সূরাটি এই ছাইয়ের পাশে রাখে গভীর শিকড়ের এক গাছ। কাজের আগে নিজেকে জিজ্ঞেস করুন, এটা কার জন্য। কাজের পরে সেই দোয়াটি করুন, যার কথা হাদীসে আছে: হে আমার রব, বিচারের দিনে আমার গুনাহ মাফ করে দিয়ো।"
+          }
+        ]
+      }
+    ]
+  },
   "14:21": {
     "sections": [
       {

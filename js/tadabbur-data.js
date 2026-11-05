@@ -22031,6 +22031,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Live knowing that Allah stands over your soul and sees what it earns, and name honestly whatever else you lean on, so that its emptiness shows.",
     "lessonBn": "মনে রেখে চলুন, আল্লাহ আপনার প্রাণের উপর দাঁড়িয়ে আছেন আর সে যা কামাই করে তা দেখছেন। আর যার উপরই ভর দেন, সৎভাবে তার নাম বলুন, তাতে তার ফাঁপা চেহারা বেরিয়ে আসবে।"
+  },
+  "14:18": {
+    "reflectionEn": "Ash is what is left after something has burned. It still looks like a heap of something until the wind rises; then it lifts, scatters, and there is nothing left to gather. The verse sets the deeds of those who disbelieve in their Lord beside that picture: work that seemed solid, found weightless on the day it was needed most. It is a likeness Allah strikes, not a tool for weighing anyone alive. The question it leaves is mine. What are my good deeds standing on? If I give, help or even pray to be seen, or with no thought of Allah at all, what will the wind find when it comes? The cure is not more deeds on the same ground, but the right ground beneath them.",
+    "reflectionBn": "কোনো কিছু পুড়ে গেলে যা পড়ে থাকে, তা-ই ছাই। বাতাস ওঠার আগ পর্যন্ত তাকে একটা স্তূপের মতোই দেখায়। তারপর বাতাস জোরে বইলে তা উড়ে যায়, ছড়িয়ে পড়ে, কুড়িয়ে নেওয়ার মতো কিছুই থাকে না। যারা নিজেদের প্রতিপালককে অস্বীকার করে, আয়াতটি তাদের আমলকে এই ছবির পাশে রাখে। যে কাজকে মজবুত মনে হতো, সবচেয়ে দরকারের দিনে দেখা যায় তার কোনো ওজন নেই। এ উপমা আল্লাহর দেওয়া, বেঁচে থাকা কাউকে মাপার যন্ত্র নয়। প্রশ্নটা আমার নিজের। আমার নেক আমলগুলো কিসের উপর দাঁড়িয়ে আছে? আমি যদি দান করি, সাহায্য করি, এমনকি নামাজও পড়ি লোক দেখানোর জন্য, কিংবা আল্লাহর কথা একবারও না ভেবে, তাহলে বাতাস যেদিন আসবে, সেদিন সে কী খুঁজে পাবে? প্রতিকার একই মাটিতে আরও আমল জমানো নয়। প্রতিকার হলো নিচের মাটিটাই ঠিক করা।",
+    "pointsEn": [
+      "Which of my regular good deeds would I still do if no one ever saw them or thanked me for them?",
+      "When I keep ties with family or feed someone in need, do I turn to Allah in it, or is it only habit and reputation?",
+      "What am I counting on to carry me on the Day of Judgement, and have I checked what it is built on?",
+      "Have I ever looked at someone else's good works and called them worthless, when that judgement belongs to Allah alone?",
+      "What is one deed this week I can begin with a clear intention for Allah and end by asking His forgiveness?"
+    ],
+    "pointsBn": [
+      "আমার নিয়মিত নেক কাজগুলোর কোনটা আমি তখনো করব, যদি কেউ কখনো না দেখে, কেউ ধন্যবাদও না দেয়?",
+      "আত্মীয়তার সম্পর্ক রাখার সময় বা অভাবী কাউকে খাওয়ানোর সময় আমি কি আল্লাহর দিকে মন ফেরাই, নাকি এটা শুধু অভ্যাস আর সুনামের ব্যাপার?",
+      "কিয়ামতের দিন কোন জিনিস আমাকে পার করে দেবে বলে আমি ভরসা করে আছি? সেটা কিসের উপর দাঁড়িয়ে, তা কি কখনো যাচাই করেছি?",
+      "অন্য কারও ভালো কাজ দেখে আমি কি কখনো বলেছি এর কোনো দাম নেই, অথচ সে বিচার একমাত্র আল্লাহর?",
+      "এ সপ্তাহে এমন কোন একটা কাজ আছে, যা আমি আল্লাহর জন্য স্পষ্ট নিয়ত নিয়ে শুরু করতে পারি, আর শেষ করতে পারি তাঁর কাছে মাগফিরাত চেয়ে?"
+    ],
+    "lessonEn": "Build your good deeds on faith and sincerity for Allah, so they are not scattered like ash on the day you need them most.",
+    "lessonBn": "নেক আমলের ভিত গড়ুন ঈমান আর আল্লাহর জন্য খাঁটি নিয়তের উপর, যাতে সবচেয়ে দরকারের দিনে তা ছাইয়ের মতো উড়ে না যায়।"
   }
 };
 
