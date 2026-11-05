@@ -2695,6 +2695,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "She Enters the Scene Standing",
+          "bn": "দাঁড়িয়ে থাকা অবস্থায় তাঁর প্রবেশ"
+        },
+        "p": [
+          {
+            "en": "This verse falls in the middle of a visit. 11:69 has Our messengers come to Ibrahim (AS) with good tidings, an exchange of peace, and a roasted calf brought without delay. 11:70 records that when he saw their hands not reaching for it he grew wary of them, and they said, do not fear, we have been sent to the people of Lut (AS). Our verse turns from him to his wife, and 11:72 and 11:73 carry her reply and the answer to it. None of the commentaries fetched for this verse gives an occasion of revelation or a hadith that explains the verse itself.",
+            "bn": "আয়াতটি এক মেহমানদারির ঠিক মাঝখানে। ১১:৬৯ আয়াতে আমার ফেরেশতারা সুসংবাদ নিয়ে ইবরাহীম (আঃ)-এর কাছে আসেন, সালাম বিনিময় হয়, আর তিনি দেরি না করে ভুনা বাছুর নিয়ে আসেন। ১১:৭০ জানায়, তাঁদের হাত খাবারের দিকে যাচ্ছে না দেখে তিনি তাঁদের ব্যাপারে শঙ্কিত হলেন। তাঁরা বললেন, ভয় পাবেন না, আমাদের পাঠানো হয়েছে লূত (আঃ)-এর সম্প্রদায়ের কাছে। আমাদের আয়াত এবার তাঁর দিক থেকে চোখ ফেরায় তাঁর স্ত্রীর দিকে। তাঁর জবাব আর সেই জবাবের উত্তর আসে ১১:৭২ ও ১১:৭৩ আয়াতে। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিতে নাযিলের কোনো উপলক্ষ নেই, আয়াতটির ব্যাখ্যায় সরাসরি কোনো হাদীসও নেই।"
+          },
+          {
+            "en": "The verse is nine Arabic words: wa-mra'atuhu qa'imatun fa-dahikat, fa-bashsharnaha bi-Ishaqa wa min wara'i Ishaqa Ya'qub. It makes three moves. A nominal clause sets her in place, which al-Qurtubi parses as subject and predicate: his wife, standing. One verb follows, fa-dahikat, and she laughed. Then the verb turns to Allah's own We: fa-bashsharnaha, so We gave her tidings, and two prophets are named in them. She herself is not named. At-Tabari and al-Baghawi identify her as Sarah, daughter of Haran, the daughter of Ibrahim's paternal uncle.",
+            "bn": "আয়াতটি নয়টি আরবি শব্দের: ওয়ামরাআতুহূ কা-ইমাতুন ফাদাহিকাত, ফাবাশশারনাহা বিইসহাকা ওয়া মিন ওয়ারা-ই ইসহাকা ইয়াকুব। এতে তিনটি ধাপ। প্রথম অংশে কোনো ক্রিয়া নেই, আছে শুধু তাঁর অবস্থান। কুরতুবীর বিশ্লেষণে এখানে দুটি অংশ: তাঁর স্ত্রী, আর তিনি দাঁড়ানো। তারপর একটিমাত্র ক্রিয়া, ফাদাহিকাত, তিনি হাসলেন। এরপর কথা চলে যায় আল্লাহর নিজের 'আমি'-তে: ফাবাশশারনাহা, আমি তাকে সুসংবাদ দিলাম। সেই সুসংবাদে দুজন নবীর নাম আছে, অথচ তাঁর নিজের নাম নেই। তাবারী ও বাগাভী তাঁকে চিনিয়ে দেন: তিনি সারা, হারানের মেয়ে, ইবরাহীম (আঃ)-এর চাচাতো বোন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Behind a Curtain, or Serving",
+          "bn": "পর্দার আড়ালে, নাকি খেদমতে"
+        },
+        "p": [
+          {
+            "en": "Qa'imah, standing, is all the verse says of her posture, and the commentators give it more than one setting. At-Tabari reports two: she stood behind a curtain hearing what the messengers and Ibrahim (AS) said, or she stood serving the messengers while Ibrahim sat with them. Al-Baghawi and al-Qurtubi repeat both; al-Muyassar takes the first and as-Sa'di the second. Al-Qurtubi adds standing in prayer, from Muhammad ibn Ishaq. He also gives a reading attributed to Ibn Mas'ud (RA), and his wife standing while he was seated, which at-Tabari's report from as-Suddi quotes with another word for seated.",
+            "bn": "কা-ইমাহ, দাঁড়ানো: তাঁর অবস্থান নিয়ে আয়াত এটুকুই বলে। তাফসীরকারেরা এর একাধিক ছবি আঁকেন। তাবারী দুটি মত আনেন। এক, তিনি পর্দার আড়ালে দাঁড়িয়ে ফেরেশতাদের আর ইবরাহীম (আঃ)-এর কথা শুনছিলেন। দুই, ইবরাহীম (আঃ) মেহমানদের সঙ্গে বসে ছিলেন, আর তিনি দাঁড়িয়ে তাঁদের খেদমত করছিলেন। বাগাভী ও কুরতুবী দুটোই আনেন। মুয়াসসার প্রথমটি নেয়, সা'দী দ্বিতীয়টি। কুরতুবী মুহাম্মাদ ইবন ইসহাক থেকে আরেকটি যোগ করেন: তিনি নামাযে দাঁড়িয়ে ছিলেন। ইবন মাসঊদ (রাঃ)-এর নামে একটি কিরাআতও তিনি আনেন, যাতে আছে: তাঁর স্ত্রী দাঁড়ানো, আর তিনি বসা। সুদ্দী থেকে তাবারীর বর্ণনায় একই কিরাআত আসে বসার জন্য ভিন্ন একটি শব্দে।"
+          },
+          {
+            "en": "On qa'imah, al-Qurtubi brings a narration not about this verse, only about a woman serving guests. He cites it from Muslim; al-Bukhari's wording, Sahih 5182, reads: Narrated Sahl: When Abu Usaid As-Sa'idi got married, he invited the Prophet ﷺ and his companions. None prepared the food for them and brought it to them but his wife. She soaked some dates in water in a stone pot overnight, and when the Prophet ﷺ had finished his food, she provided him with that drink (of soaked dates). Al-Qurtubi infers that a bride may serve her husband and his companions, and adds that this may have been before the hijab.",
+            "bn": "কা-ইমাহ শব্দের প্রসঙ্গে কুরতুবী একটি বর্ণনা আনেন, যা এ আয়াত নিয়ে নয়, শুধু মেহমানের খেদমতকারী এক নারীকে নিয়ে। তিনি তা মুসলিম থেকে উদ্ধৃত করেন। বুখারী তাঁর সহীহ গ্রন্থের ৫১৮২ নম্বরে যে ভাষায় এনেছেন, তা এই: সাহল (রাঃ) বলেন, আবূ উসাইদ আস-সাঈদী বিয়ে করে নবী ﷺ ও তাঁর সাহাবীদের দাওয়াত দিলেন। তাঁদের জন্য খাবার তৈরি করে সামনে এনে দিয়েছিলেন কেবল তাঁর স্ত্রী। তিনি রাতেই পাথরের একটি পাত্রে কয়েকটি খেজুর পানিতে ভিজিয়ে রেখেছিলেন। নবী ﷺ খাওয়া শেষ করলে তিনি সেই শরবত তাঁকে পান করতে দিলেন। কুরতুবী এ থেকে বের করেন, নববধূ তার স্বামী ও স্বামীর সঙ্গীদের খেদমত করতে পারে। সঙ্গে যোগ করেন, এটি হয়তো পর্দার বিধান নাযিলের আগের ঘটনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wonder, Relief or Delight",
+          "bn": "বিস্ময়, স্বস্তি না আনন্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-dahikat is where the commentators part most widely. At-Tabari opens by saying the people of interpretation differed over what the word means and over why she did it. Most take it as ordinary laughter, which al-Qurtubi defines as the uncovering of the teeth, adding that it can also be a brightening of the face. From as-Suddi, at-Tabari and al-Baghawi report that she wondered at the guests: she and her husband were serving them with their own hands, to honour them, and they would not eat. From Qatada, both report that she wondered at Lut's people, heedless while the punishment had come for them.",
+            "bn": "ফাদাহিকাত শব্দে এসে তাফসীরকারদের পথ সবচেয়ে বেশি আলাদা হয়ে যায়। তাবারী শুরুতেই বলেন, শব্দটির অর্থ নিয়ে আর তিনি কেন হাসলেন তা নিয়ে ব্যাখ্যাকারেরা মতভেদ করেছেন। বেশির ভাগের মতে এটি চেনা হাসি। কুরতুবী হাসির সংজ্ঞা দেন দাঁত বেরিয়ে পড়া, সঙ্গে বলেন, চেহারা উজ্জ্বল হয়ে ওঠাকেও হাসি বলা যায়। সুদ্দী থেকে তাবারী ও বাগাভী বর্ণনা করেন, তিনি মেহমানদের দেখে অবাক হয়েছিলেন। তিনি আর তাঁর স্বামী সম্মান দেখাতে নিজ হাতে তাঁদের খেদমত করছেন, অথচ তাঁরা খাচ্ছেন না। কাতাদা থেকে দুজনেই আনেন, তিনি অবাক হয়েছিলেন লূতের সম্প্রদায়ের উদাসীনতায়, আযাব তাদের কাছে এসে গেছে, অথচ তারা বেখবর।"
+          },
+          {
+            "en": "Others tie it to the fear in the house. From al-Kalbi, at-Tabari reports that she laughed at the fright she saw in Ibrahim (AS); al-Baghawi gives this from Muqatil and al-Kalbi, adding that it was fear of three men while he was among his own household and servants. At-Tabari also reports that she laughed from relief, having feared the guests as he did, once they said do not fear. Al-Baghawi adds joy at the tidings. From Wahb ibn Munabbih, at-Tabari reports wonder at bearing a child at her age and her husband's, a view that reads the tidings as coming before the laugh.",
+            "bn": "অন্যেরা হাসিটাকে জুড়েছেন ঘরের ভয়ের সঙ্গে। কালবী থেকে তাবারী বর্ণনা করেন, ইবরাহীম (আঃ)-এর মধ্যে যে আতঙ্ক তিনি দেখেছিলেন, তাতেই হেসেছিলেন। বাগাভী কথাটি আনেন মুকাতিল ও কালবী থেকে, আর যোগ করেন: নিজের পরিবার ও খাদেমদের মাঝে থেকেও তিনি তিনজন মানুষকে ভয় পাচ্ছিলেন। তাবারী আরেকটি মতও আনেন। মেহমানদের তিনিও ভয় পেয়েছিলেন, যেমন ইবরাহীম (আঃ) পেয়েছিলেন। তাঁরা যখন বললেন ভয় পাবেন না, তখন স্বস্তিতে হাসলেন। বাগাভী যোগ করেন সুসংবাদের খুশির কথা। ওয়াহব ইবন মুনাব্বিহ থেকে তাবারীর বর্ণনা: এই বয়সে, স্বামীর এই বয়সে সন্তান হবে, এতে অবাক হয়ে হেসেছিলেন। এ মত ধরে নেয়, সুসংবাদ এসেছিল হাসির আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Reads the Order",
+          "bn": "বাক্যের ক্রম থেকে তাবারীর রায়"
+        },
+        "p": [
+          {
+            "en": "Having listed the views, at-Tabari names the view he holds most correct: she wondered at the heedlessness of Lut's people about the punishment of Allah that had already surrounded them. His reason is the order of the text. The laugh comes straight after the guests told Ibrahim (AS), do not fear, we have been sent to the people of Lut. There was no ground for laughter and wonder in the words do not fear, he writes, so the wonder must have been at the affair of Lut's people. He then reads the tidings as a reward to her for her disapproval of what they did.",
+            "bn": "মতগুলো সাজিয়ে দেওয়ার পর তাবারী বলেন কোনটি তাঁর কাছে সবচেয়ে সঠিক। আল্লাহর যে আযাব লূতের সম্প্রদায়কে ঘিরে ফেলেছিল, সে বিষয়ে তাদের উদাসীনতা দেখেই তিনি অবাক হয়েছিলেন। তাবারীর যুক্তি আয়াতের ক্রম। মেহমানরা ইবরাহীম (আঃ)-কে বললেন, ভয় পাবেন না, আমাদের পাঠানো হয়েছে লূতের সম্প্রদায়ের কাছে, আর ঠিক এর পরেই হাসির কথা। তিনি লেখেন, ভয় পাবেন না কথাটায় হাসি বা বিস্ময়ের কোনো কারণ ছিল না। তাই বিস্ময়টা ছিল লূতের সম্প্রদায়ের ব্যাপার নিয়েই। এরপর তিনি সুসংবাদটিকে দেখেন পুরস্কার হিসেবে: তাদের কাজকে তিনি মন্দ জেনেছিলেন, তারই প্রতিদান।"
+          },
+          {
+            "en": "Others weigh it differently. Al-Qurtubi gives al-Farra''s reordering, that the meaning is We gave her the tidings and she laughed, and then writes, Allah knows best which of these it was. He reports that an-Nahhas judged a different view the best: when the guests told Ibrahim (AS) they were messengers of Allah he rejoiced, and his wife laughed in joy at his joy. Ibn Kathir, in the English abridgement, has her laugh in delight at the news of their destruction, because of their great corruption, and adds that for this she was rewarded with the tidings of a son after despair.",
+            "bn": "অন্যেরা পাল্লা ভিন্নভাবে মেপেছেন। কুরতুবী আনেন ফাররার মত: এখানে আগে-পিছে আছে, অর্থাৎ আমি তাকে সুসংবাদ দিলাম, আর তিনি হাসলেন। তারপর কুরতুবী লেখেন, কোনটি ঠিক, আল্লাহই ভালো জানেন। তিনি জানান, নাহহাস আরেকটি মতকে সবচেয়ে ভালো বলেছেন। মেহমানরা যখন জানালেন তাঁরা আল্লাহর প্রেরিত, ইবরাহীম (আঃ) খুশি হলেন, আর স্বামীর খুশিতে খুশি হয়ে তাঁর স্ত্রী হাসলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, তাদের ধ্বংসের খবরে তিনি আনন্দে হেসেছিলেন, কারণ তারা বড় ফাসাদ ছড়িয়েছিল। সেখানে আরও আছে, এরই প্রতিদানে নিরাশার পর তাঁকে ছেলের সুসংবাদ দেওয়া হলো।"
+          },
+          {
+            "en": "Several of these readings turn on Lut's people, whose end the surah narrates from 11:77 onward. The verse describes what it describes: a household that heard of a punishment decreed for one people, in one story. It licenses nothing against any living person or community, and gives no one leave to take pleasure in anyone's suffering today. What the commentators report of her is wonder at heedlessness, or gladness that a corruption had been answered, and the article leaves it there.",
+            "bn": "এসব ব্যাখ্যার কয়েকটি ঘোরে লূতের সম্প্রদায়কে ঘিরে, যাদের পরিণতি সূরাটি বলে ১১:৭৭ থেকে সামনের দিকে। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এক কাহিনিতে এক জাতির জন্য নির্ধারিত আযাবের খবর একটি পরিবার শুনেছিল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজ কারও কষ্টে খুশি হওয়ার ছাড়পত্রও কাউকে দেয় না। তাফসীরকারেরা তাঁর সম্পর্কে যা বলেন, তা হলো উদাসীনতা দেখে বিস্ময়, কিংবা এক ফাসাদের বিচার হওয়ায় খুশি। আলোচনা এখানেই থাকুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Second Sense of Dahikat",
+          "bn": "দাহিকাত শব্দের দ্বিতীয় অর্থ"
+        },
+        "p": [
+          {
+            "en": "One reading takes the word in another sense altogether. Al-Baghawi and al-Qurtubi report from Mujahid and Ikrima that dahikat here means hadat: her monthly courses came, at that very time. Al-Qurtubi gives the point of it. She had passed the age of hope, and this came as a confirmation of the tidings. Both record that the Arabs say dahikat al-arnab of a hare in that state, and al-Qurtubi adds lines of poetry the linguists cite, with a derivation reported from Ibn Abbas (RA) and Ikrima from a date spathe said to laugh when it splits.",
+            "bn": "একটি ব্যাখ্যা শব্দটিকে একেবারে ভিন্ন অর্থে নেয়। বাগাভী ও কুরতুবী মুজাহিদ ও ইকরিমা থেকে বর্ণনা করেন, এখানে দাহিকাত মানে হাদাত: ঠিক সেই সময় তাঁর মাসিক শুরু হয়েছিল। কুরতুবী এর তাৎপর্যও বলেন। সন্তানের আশার বয়স তিনি পেরিয়ে গিয়েছিলেন, তাই এটি এসেছিল সুসংবাদের সত্যতার নিদর্শন হয়ে। দুজনেই লেখেন, আরবরা খরগোশের এমন অবস্থাকে বলে দাহিকাতিল আরনাব। কুরতুবী ভাষাবিদদের উদ্ধৃত কিছু কবিতার চরণও আনেন। সঙ্গে ইবন আব্বাস (রাঃ) ও ইকরিমা থেকে একটি ব্যুৎপত্তি: খেজুরের মোচা ফেটে গেলে আরবরা বলে, সেটি হাসল।"
+          },
+          {
+            "en": "At-Tabari carries the Mujahid report with its chain, in which she was in her nineties and Ibrahim (AS) a hundred. Al-Qurtubi records that Abu Ubayd and al-Farra' rejected the sense, al-Farra' saying he never heard it from a reliable source, and Muqatil that it is not sound in the language. Al-Baghawi says most hold the ordinary laugh; al-Qurtubi says the same of the majority. The dispute stands with names on both sides, and this article does not settle it.",
+            "bn": "তাবারী মুজাহিদের বর্ণনাটি সনদসহ আনেন। তাতে আছে, সারার বয়স তখন নব্বইয়ের ঘরে, আর ইবরাহীম (আঃ)-এর একশো। কুরতুবী জানান, আবূ উবাইদ ও ফাররা এই অর্থ মানেননি। ফাররা বলেছেন, কোনো নির্ভরযোগ্য লোকের মুখে তিনি এটা শোনেননি। মুকাতিলের মতে ভাষার দিক থেকে এ অর্থ টেকে না। বাগাভী বলেন, বেশির ভাগের মতে এটি চেনা হাসি। কুরতুবীও জুমহুরের মত হিসেবে এটাই বলেন। দুই পক্ষেই নাম আছে, মতভেদটা তাই রয়েই যায়। এ লেখা তার মীমাংসা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Child From Behind",
+          "bn": "পেছন থেকে আসা সন্তান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses min wara'i Ishaq as from behind Ishaq, and says al-wara' in Arabic is the child of one's child, as the people of interpretation explained it; he gives it from ash-Sha'bi in several chains. He also keeps a small scene. A man came to Ibn Abbas (RA) with a boy; asked who he was, the man said, my son's son. Ibn Abbas told him, this is your child from al-wara', and the man seemed to find that hard to hear. So Ibn Abbas recited the verse: the child of the child is al-wara'.",
+            "bn": "তাবারী মিন ওয়ারা-ই ইসহাকের অর্থ করেন ইসহাকের পেছন থেকে। তিনি বলেন, আরবি ভাষায় আল-ওয়ারা মানে সন্তানের সন্তান, আর ব্যাখ্যাকারেরাও তা-ই বুঝেছেন। কথাটি তিনি শা'বী থেকে কয়েকটি সনদে আনেন। একটি ছোট দৃশ্যও তিনি ধরে রেখেছেন। এক লোক একটি ছেলেকে নিয়ে ইবন আব্বাস (রাঃ)-এর কাছে এল। কে জিজ্ঞেস করা হলে বলল, আমার ছেলের ছেলে। ইবন আব্বাস (রাঃ) বললেন, এ তো তোমার পেছনের সন্তান। কথাটা লোকটির কাছে খারাপ লাগল বলে মনে হলো। তখন ইবন আব্বাস (রাঃ) আয়াতটি পড়ে শোনালেন: সন্তানের সন্তানকেই বলে আল-ওয়ারা।"
+          },
+          {
+            "en": "Ibn Kathir reads the clause the same way: a son of hers who would himself have a son, offspring and descent, since Ya'qub was the son of Ishaq, as 2:133 shows when Ya'qub (AS) asks his sons at death what they will worship after him. Al-Baghawi draws the consequence for her: she was told she would live to see her son's son. Al-Qurtubi supplies the background, that after Isma'il (AS) was born to Hajar, Sarah wished for a son and had despaired of one for her age, and she was given tidings of a son who would be a prophet and father a prophet.",
+            "bn": "ইবন কাসীরও অংশটি একইভাবে পড়েন: তাঁর এমন এক ছেলে হবে, যার নিজেরও সন্তান ও বংশধর থাকবে। কারণ ইয়াকুব (আঃ) ছিলেন ইসহাক (আঃ)-এর ছেলে। ২:১৩৩ আয়াতে তা স্পষ্ট, যেখানে মৃত্যুর সময় ইয়াকুব (আঃ) ছেলেদের জিজ্ঞেস করেন, আমার পরে তোমরা কার ইবাদত করবে। বাগাভী এ থেকে সারার জন্য ফল টানেন: তাঁকে জানানো হলো, তিনি বেঁচে থেকে ছেলের ছেলেকে দেখবেন। কুরতুবী পটভূমিটা বলেন। হাজারের গর্ভে ইসমাঈল (আঃ)-এর জন্মের পর সারা নিজের একটি ছেলের আশা করেছিলেন, বয়সের কারণে সে আশা ছেড়েও দিয়েছিলেন। তখন তাঁকে এমন এক ছেলের সুসংবাদ দেওয়া হলো, যিনি নিজে নবী হবেন, আর জন্ম দেবেন আরেক নবীর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ya'qubu, Ya'quba",
+          "bn": "ইয়াকুবু, নাকি ইয়াকুবা"
+        },
+        "p": [
+          {
+            "en": "The last word is read two ways. Al-Baghawi gives Ya'quba, in the accusative, as the reading of Ibn Amir, Hamza and Hafs, and Ya'qubu, in the nominative, as that of the rest; al-Qurtubi names Hamza and Ibn Amir for the accusative. The Arabic printed in this app ends in Ya'quba. On the nominative the clause starts afresh, and from behind Ishaq comes Ya'qub, which at-Tabari says still carries the sense of good news. On the accusative, al-Qurtubi and al-Baghawi supply a verb, and We granted from behind Ishaq Ya'qub: the verb wahabna the Qur'an uses of these two sons in 6:84, 21:72 and 29:27.",
+            "bn": "শেষ শব্দটি দুভাবে পড়া হয়। বাগাভী জানান, ইবন আমির, হামযা ও হাফস পড়েছেন ইয়াকুবা, যবরসহ। বাকিরা পড়েছেন ইয়াকুবু, পেশসহ। কুরতুবী যবরের কিরাআতের জন্য হামযা ও ইবন আমিরের নাম বলেন। এই অ্যাপে ছাপা আরবি পাঠে শব্দটি শেষ হয়েছে ইয়াকুবা দিয়ে। পেশের কিরাআতে বাক্যটি নতুন করে শুরু হয়: আর ইসহাকের পেছনে আছেন ইয়াকুব। তাবারী বলেন, নতুন বাক্য হলেও এতে সুসংবাদের অর্থ রয়ে যায়। যবরের কিরাআতে কুরতুবী ও বাগাভী একটি ক্রিয়া ধরে নেন: আর আমি দান করলাম ইসহাকের পেছনে ইয়াকুবকে। ওয়াহাবনা, দান করলাম, ঠিক এই ক্রিয়াই কুরআন এই দুই ছেলের বেলায় ব্যবহার করেছে ৬:৮৪, ২১:৭২ ও ২৯:২৭ আয়াতে।"
+          },
+          {
+            "en": "A third form, the genitive, al-Qurtubi reports that al-Kisa'i, al-Akhfash and Abu Hatim allowed, as if the verse said and We gave her tidings, after Ishaq, of Ya'qub. Al-Farra' rejected it unless the preposition is repeated, and al-Qurtubi cites Sibawayh against separating the conjunction from the noun it links. At-Tabari, weighing the two forms that are read, prefers the nominative as the familiar usage of the Arabs and the reading of the great cities, granting that the accusative has a valid basis, though he would not choose it. Both are read, and the meaning they carry is the same promise of a grandson.",
+            "bn": "তৃতীয় একটি রূপও আছে, যেরসহ। কুরতুবী জানান, কিসাঈ, আখফাশ ও আবূ হাতিম এটিকে বৈধ বলেছেন, যেন আয়াতের অর্থ: আর ইসহাকের পরে আমি তাকে ইয়াকুবের সুসংবাদ দিলাম। ফাররা এটি মানেননি, যদি না অব্যয়টি আবার আনা হয়। কুরতুবী সিবাওয়াইহের কথাও আনেন: সংযোজক ওয়া আর যে শব্দকে তা জুড়ছে, এ দুয়ের মাঝে অন্য শব্দ বসানো চলে না। প্রচলিত দুই কিরাআতের মধ্যে তাবারী পেশকে প্রাধান্য দেন। তাঁর মতে এটিই আরবদের চেনা ভাষা, বড় শহরগুলোর কিরাআতও এটি। তবে তিনি মানেন, যবরেরও বৈধ ভিত্তি আছে, যদিও নিজে সেটি বেছে নেন না। দুটোই পড়া হয়, আর দুটোতেই একই ওয়াদা: এক নাতির সুসংবাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Son Was Offered",
+          "bn": "কোন ছেলেকে কুরবানির আদেশ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir finds in the last clause an argument in a long debate, over which son Ibrahim (AS) was commanded to sacrifice. Some, he writes, inferred from this verse that it was Isma'il (AS) and could not have been Ishaq: the tidings came of Ishaq and of a Ya'qub to be born to him, so how could Ibrahim be commanded to sacrifice him as a small child, before the promised Ya'qub was born? The promise of Allah is true and does not fail. Ibn Kathir calls this among the best, soundest and clearest of arguments.",
+            "bn": "শেষ অংশে ইবন কাসীর এক দীর্ঘ বিতর্কের একটি যুক্তি খুঁজে পান: ইবরাহীম (আঃ)-কে কোন ছেলেকে কুরবানি করার আদেশ দেওয়া হয়েছিল। তিনি লেখেন, কেউ কেউ এ আয়াত থেকে প্রমাণ টেনেছেন যে তিনি ছিলেন ইসমাঈল (আঃ), ইসহাক (আঃ) হতে পারেন না। কারণ সুসংবাদ এসেছিল ইসহাকের, আর এ কথারও যে তাঁর ঘরে ইয়াকুব জন্মাবেন। তাহলে প্রতিশ্রুত ইয়াকুব জন্মানোর আগেই, ছোট শিশু অবস্থায়, তাঁকে কুরবানির আদেশ কীভাবে হতে পারে? আল্লাহর ওয়াদা সত্য, তার কোনো খেলাফ হয় না। ইবন কাসীর একে সবচেয়ে সুন্দর, সবচেয়ে সঠিক ও সবচেয়ে স্পষ্ট যুক্তিগুলোর একটি বলেন।"
+          },
+          {
+            "en": "The texts fetched for this verse also carry a report pointing the other way. At-Tabari's narration from as-Suddi ends with Sarah asking for a sign of the tidings. Jibril took a dry stick, twisted it between his fingers and it turned green, and Ibrahim (AS) said, then he is for Allah a sacrifice. That report places the offering on Ishaq. Ibn Kathir holds the verse decisive; as-Suddi's report assumes the opposite. The question is argued at length elsewhere, and this article sets the reports side by side and takes no position between them.",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরে উল্টো দিকের একটি বর্ণনাও আছে। সুদ্দী থেকে তাবারীর বর্ণনা শেষ হয় এভাবে: সারা সুসংবাদের নিদর্শন চাইলেন। জিবরীল (আঃ) একটি শুকনো ডাল হাতে নিয়ে আঙুলে মোচড় দিলেন, ডালটি সবুজ হয়ে দুলে উঠল। তখন ইবরাহীম (আঃ) বললেন, তাহলে সে আল্লাহর জন্য কুরবানি। এ বর্ণনা কুরবানির কথাটি রাখে ইসহাক (আঃ)-এর উপর। ইবন কাসীর আয়াতটিকে চূড়ান্ত প্রমাণ মনে করেন, আর সুদ্দীর বর্ণনা ধরে নেয় তার উল্টো। প্রশ্নটি নিয়ে অন্যত্র দীর্ঘ আলোচনা আছে। এ লেখা দুটোকে পাশাপাশি রাখে, কোনো পক্ষ নেয় না।"
+          },
+          {
+            "en": "Set the debate aside and the clause still says something plain. The tidings did not stop at a child. They named a son and then that son's son, so that a woman who had despaired of one child was told of two generations. The pronoun is hers: fa-bashsharnaha, We gave her the tidings, and al-Muyassar says they came on the tongues of the angels. Whoever has decided a door is closed to them because of age or delay may read this verse slowly, and ask Allah for more than they can see.",
+            "bn": "বিতর্ক সরিয়ে রাখলেও অংশটি একটা সোজা কথা বলে। সুসংবাদ এক সন্তানে থেমে থাকেনি। এক ছেলের নাম এসেছে, তারপর সেই ছেলের ছেলের। যে নারী একটি সন্তানের আশাও ছেড়ে দিয়েছিলেন, তাঁকে শোনানো হলো দুই প্রজন্মের খবর। সর্বনামটিও তাঁরই: ফাবাশশারনাহা, আমি তাকে সুসংবাদ দিলাম। মুয়াসসার বলে, সুসংবাদ এসেছিল ফেরেশতাদের মুখে। বয়স বা দেরির কারণে কেউ যদি ধরে নিয়ে থাকেন যে দরজাটা তাঁর জন্য বন্ধ, তিনি আয়াতটি ধীরে ধীরে পড়ুন। আর চোখে যা দেখেন, তার চেয়েও বেশি আল্লাহর কাছে চেয়ে নিন।"
+          }
+        ]
+      }
+    ]
+  },
   "11:73": {
     "sections": [
       {

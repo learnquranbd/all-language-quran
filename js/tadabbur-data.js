@@ -21631,6 +21631,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask cover for what is past and turn back for what remains. Hud (AS) offered a proud people more rain and more strength by that road, not by giving up what they had.",
     "lessonBn": "অতীতের জন্য মাফ চান, সামনের জন্য ফিরে আসুন। হূদ (আঃ) এক অহংকারী জাতিকে এই পথেই আরও বৃষ্টি আর আরও শক্তির কথা দিয়েছিলেন, যা আছে তা ছেড়ে দেওয়ার শর্তে নয়।"
+  },
+  "11:71": {
+    "reflectionEn": "Guests arrive, a calf is roasted, and the guests do not eat. Fear comes into the house and then lifts: they were sent to the people of Lut. In the middle of it a woman standing nearby laughs. The commentators cannot agree why she laughed, whether from relief, from wonder, or at the news itself. They agree on what came next. Allah says We gave her the good tidings, to her directly, of a son, Ishaq, and after him a grandson, Ya'qub. The promise reaches past the child to the child's child, before either is born. It leaves me asking what I have stopped hoping for, because I decided I was too old, too late or too ordinary to be given it.",
+    "reflectionBn": "মেহমানরা এলেন, বাছুর ভুনা হলো, অথচ তাঁরা খেলেন না। ঘরে ভয় ঢুকল, তারপর কেটে গেল: তাঁদের পাঠানো হয়েছে লূতের সম্প্রদায়ের কাছে। এর মাঝখানে পাশে দাঁড়িয়ে থাকা এক নারী হেসে উঠলেন। কেন হাসলেন, তাফসীরকারেরা একমত নন। স্বস্তিতে, বিস্ময়ে, নাকি খবরটা শুনে। তবে এরপর কী হলো, তাতে সবাই একমত। আল্লাহ বলছেন, আমি তাকে সুসংবাদ দিলাম। সরাসরি তাঁকেই। এক ছেলে ইসহাক, আর তার পরে এক নাতি ইয়াকুব। ওয়াদাটা সন্তান ছাড়িয়ে সন্তানের সন্তান পর্যন্ত পৌঁছে যায়, অথচ তখনো কেউই জন্মায়নি। আয়াতটি আমাকে প্রশ্ন করে: কোন জিনিসের আশা আমি ছেড়ে দিয়েছি, শুধু এই ভেবে যে আমি বেশি বুড়ো, বেশি দেরি হয়ে গেছে, কিংবা আমি এত সাধারণ যে আমাকে তা দেওয়া হবে না?",
+    "pointsEn": [
+      "What have I quietly stopped asking Allah for, and is the reason my age or my own estimate of myself?",
+      "When guests come to my home, do I serve them myself, or do I leave hospitality to whoever else is around?",
+      "The tidings named a grandson before the son was born. Do I make du'a for the generations after my children, or only for what I can see?",
+      "When I hear that wrongdoing has been answered, is my first feeling relief for the wronged or pleasure at someone's fall?",
+      "Which promise of Allah do I read as if it were for other people and never for me?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কাছে কোন জিনিস চাওয়া আমি চুপচাপ ছেড়ে দিয়েছি? কারণটা কি আমার বয়স, নাকি নিজের সম্পর্কে আমার নিজের হিসাব?",
+      "আমার ঘরে মেহমান এলে আমি কি নিজ হাতে তাদের খাতির করি, নাকি আপ্যায়নের ভার আশেপাশের অন্য কারও উপর ছেড়ে দিই?",
+      "ছেলে জন্মানোর আগেই সুসংবাদে নাতির নাম এসে গিয়েছিল। আমি কি সন্তানদের পরের প্রজন্মের জন্যও দোয়া করি, নাকি শুধু যা চোখে দেখি তার জন্য?",
+      "অন্যায়ের বিচার হয়েছে শুনলে আমার প্রথম অনুভূতি কী হয়: মজলুমের জন্য স্বস্তি, নাকি কারও পতনে খুশি?",
+      "আল্লাহর কোন ওয়াদা আমি এমনভাবে পড়ি, যেন তা অন্যদের জন্য, আমার জন্য কখনোই নয়?"
+    ],
+    "lessonEn": "Allah gave the tidings to her directly, naming a son and the son's son before either was born. Do not decide for yourself what you are too old or too late to receive.",
+    "lessonBn": "আল্লাহ সুসংবাদটা সরাসরি তাঁকেই দিয়েছিলেন, ছেলে আর ছেলের ছেলের নাম বলে, দুজনের কেউ জন্মানোর আগেই। কী পাওয়ার জন্য আপনি বেশি বুড়ো বা বেশি দেরি করে ফেলেছেন, সে সিদ্ধান্ত নিজে নিয়ে ফেলবেন না।"
   }
 };
 
