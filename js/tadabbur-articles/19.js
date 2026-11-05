@@ -915,6 +915,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Brought There by Labour",
+          "bn": "প্রসববেদনা যেখানে নিয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "The verse before says only that Maryam (AS) conceived and withdrew to a remote place (19:22). Here the hardest hour begins: fa-ajaʾaha al-makhadu ila jidhʿi an-nakhla, and the pains of labour drove her to the trunk of the palm. At-Tabari explains the grammar. Ajaʾa is jaʾa, to come, made transitive: labour came with her, brought her there. Those who render it as forced her, he says, mean the same: what brought her there forced her there.",
+            "bn": "আগের আয়াত শুধু এটুকু জানায়, মারইয়াম (আঃ) গর্ভধারণ করলেন আর দূরের এক জায়গায় সরে গেলেন (১৯:২২)। এ আয়াত শুরু হয় সবচেয়ে কঠিন মুহূর্ত থেকে: ফা-আজাআহাল মাখাদু ইলা জিযইন নাখলাহ, প্রসববেদনা তাঁকে খেজুর গাছের কাণ্ডের কাছে নিয়ে গেল। তাবারী ব্যাকরণটা খুলে বলেন। আজাআ আসলে জাআ, মানে আসা, যাকে সকর্মক করা হয়েছে। অর্থাৎ ব্যথা তাঁকে সঙ্গে করে সেখানে নিয়ে এল। তাঁর কথায়, যাঁরা এর অর্থ করেছেন বাধ্য করল, তাঁরাও একই কথা বলছেন: যে ব্যথা তাঁকে সেখানে নিয়ে গেল, সে-ই তাঁকে সেখানে যেতে বাধ্য করল।"
+          },
+          {
+            "en": "The early interpreters he cites say the same in a word. Mujahid, as-Suddi, and Ibn ʿAbbas through Ibn Jurayj all gave aljaʾaha, labour drove her to take refuge there; Qatada gave idtarraha, it compelled her. Al-Qurtubi also defines ajaʾaha as compelled her, and records a variant reading, fajaʾaha, it came upon her suddenly, read by Shubayl and narrated from ʿAsim. Either way the picture is of a woman with no choice left about where she would go.",
+            "bn": "তাবারী যে প্রাচীন ব্যাখ্যাকারদের কথা আনেন, তাঁরাও এক শব্দে একই কথা বলেন। মুজাহিদ, সুদ্দী আর ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) বলেছেন আলজাআহা, ব্যথা তাঁকে সেখানে আশ্রয় নিতে ঠেলে দিল। কাতাদা বলেছেন ইদতাররাহা, তাঁকে নিরুপায় করে দিল। কুরতুবীও আজাআহার অর্থ করেন নিরুপায় করল। তিনি একটি ভিন্ন কিরাআতও উল্লেখ করেন: ফাজাআহা, হঠাৎ এসে পড়ল, যা শুবাইল পড়েছেন আর আসিম থেকেও বর্ণিত। যে পাঠই ধরা হোক, ছবিটা এক নারীর, কোথায় যাবেন সে বিষয়ে যাঁর আর কোনো উপায় ছিল না।"
+          },
+          {
+            "en": "Al-Makhad, al-Qurtubi says, is labour itself, the severity of giving birth and its pains. Why the trunk? Al-Qurtubi answers simply: it was as though she sought something to lean on and hold, the way a woman in labour holds on against the force of the pain, and al-Baghawi records the same reason as one view. What kind of tree it was, and what it later gave her, belongs to 19:25.",
+            "bn": "কুরতুবী বলেন, মাখাদ মানে প্রসবের ব্যথা, সন্তান জন্মের কাঠিন্য আর যন্ত্রণা। কাণ্ডের কাছেই কেন? কুরতুবীর জবাব সহজ: যেন তিনি হেলান দেওয়ার আর আঁকড়ে ধরার মতো কিছু খুঁজছিলেন, প্রসববেদনার তীব্রতায় যেমন একজন নারী কিছু একটা আঁকড়ে ধরেন। বাগাভীও একটি মত হিসেবে একই কারণ উল্লেখ করেন। গাছটা কেমন ছিল আর পরে তা তাঁকে কী দিল, সে আলোচনা ১৯:২৫ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports of Place and Term",
+          "bn": "স্থান আর সময় নিয়ে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an names no place beyond 'remote', and what the commentators add are reports, not text. Ibn Kathir says plainly that they differed. As-Suddi placed it east of her prayer niche in Bayt al-Maqdis. A report from Wahb ibn Munabbih has her fleeing her people toward Egypt, overtaken by labour where the land of Sham ends and Egypt begins; at-Tabari carries that report at length, with a kinsman named Yusuf the carpenter, and al-Qurtubi relays Ibn ʿAtiyya's verdict on such stories: all of this is weak.",
+            "bn": "কুরআন শুধু বলে দূরের এক জায়গা, এর বেশি কিছু নয়। তাফসীরকারেরা যা যোগ করেন, তা বর্ণনা, কুরআনের ভাষ্য নয়। ইবন কাসীর সোজাসুজি বলেন, এ নিয়ে মতভেদ আছে। সুদ্দীর মতে জায়গাটা ছিল বাইতুল মাকদিসে তাঁর ইবাদতের মিহরাবের পূর্ব দিকে। ওয়াহব ইবন মুনাব্বিহর একটি বর্ণনায় তিনি নিজের লোকদের কাছ থেকে মিসরের দিকে চলে যাচ্ছিলেন, আর শামের সীমা যেখানে শেষ, মিসর যেখানে শুরু, সেখানে প্রসববেদনা ওঠে। তাবারী এ বর্ণনা বিস্তারিত এনেছেন, তাতে ইউসুফ নাজ্জার নামে এক আত্মীয়ের কথাও আছে। কুরতুবী এমন কাহিনি সম্পর্কে ইবন আতিয়্যার রায় উদ্ধৃত করেন: এসবই দুর্বল।"
+          },
+          {
+            "en": "Another report from Wahb names Bethlehem, Bayt Lahm, a village near Iliya, Jerusalem. The distance itself varies between the books: at-Tabari's chain gives six miles, Ibn Kathir's wording gives eight. Ibn Kathir adds that reports of the Night Journey, from an-Nasaʾi through Anas and al-Bayhaqi through Shaddad ibn Aws, name Bethlehem, and that this is the well-known view, the one Christians hold without doubt. Yet he hedges it himself: Allah knows best, and it has come in a hadith, if that hadith is sound. Nothing here rests on those reports.",
+            "bn": "ওয়াহবের আরেক বর্ণনায় জায়গাটার নাম বাইতে লাহম, অর্থাৎ বেথলেহেম, ঈলিয়া বা জেরুজালেমের কাছের এক গ্রাম। দূরত্ব নিয়েও কিতাবগুলোতে মিল নেই। তাবারীর সনদে ৬ মাইল, ইবন কাসীরের ভাষ্যে ৮ মাইল। ইবন কাসীর আরও বলেন, ইসরা বা রাত্রিভ্রমণের কিছু বর্ণনায় বেথলেহেমের নাম আছে, নাসাঈ তা এনেছেন আনাস (রাঃ)-এর সূত্রে আর বাইহাকী শাদ্দাদ ইবন আওস (রাঃ)-এর সূত্রে। তাঁর মতে এটাই প্রসিদ্ধ মত, আর খ্রিস্টানরাও এতে সন্দেহ করে না। তবু তিনি নিজেই সাবধানে বলেন: আল্লাহই ভালো জানেন, আর এ বিষয়ে একটি হাদীস এসেছে, যদি তা সহীহ হয়। এখানকার কোনো কথা সেসব বর্ণনার উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "How long she carried him is also left to reports. At-Tabari narrates from Ibn ʿAbbas, through al-Mughira ibn ʿUthman, that it was nothing more than this: she conceived, and then she gave birth. Al-Qurtubi notes that the reports gather on eight months, citing ʿIkrima, and records nine and six as other views, before saying that what he cited from Ibn ʿAbbas is sounder and clearer. The verse fixes none of this, so it is best held lightly.",
+            "bn": "কতদিন তিনি সন্তান গর্ভে বহন করেছিলেন, সেটাও বর্ণনার বিষয়। তাবারী মুগীরা ইবন উসমানের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ব্যাপারটা এর বেশি কিছু ছিল না, তিনি গর্ভধারণ করলেন, তারপর প্রসব করলেন। কুরতুবী জানান, বেশিরভাগ বর্ণনা ৮ মাসের দিকে ঝুঁকেছে, ইকরিমা এমন বলেছেন। ৯ মাস আর ৬ মাসের কথাও তিনি অন্য মত হিসেবে আনেন। তারপর বলেন, ইবন আব্বাস (রাঃ) থেকে তিনি যা উল্লেখ করেছেন, সেটাই বেশি সঠিক ও স্পষ্ট। আয়াত এর কোনোটাই নির্ধারণ করে না, তাই এসব বর্ণনা হালকাভাবে ধরে রাখাই ভালো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Would I Had Died Before",
+          "bn": "এর আগেই যদি মরে যেতাম"
+        },
+        "p": [
+          {
+            "en": "Then come her words, spoken in the middle of the pain: ya laytani mittu qabla hadha, oh, would that I had died before this. Before what? Ibn Kathir says before this state. The Muyassar says before this day. As-Suddi, in at-Tabari and again in Ibn Kathir, spells it out: before this distress I am in, and the grief of bearing a child without a husband. At-Tabari adds that she said it in labour, out of shame before people.",
+            "bn": "তারপর আসে তাঁর কথা, ব্যথার মাঝখানে বলা: ইয়া লাইতানী মিত্তু কাবলা হাযা, হায়, এর আগেই যদি মরে যেতাম! কিসের আগে? ইবন কাসীর বলেন, এই অবস্থার আগে। মুয়াসসার বলে, আজকের এই দিনের আগে। তাবারী আর ইবন কাসীর দুজনেই সুদ্দীর যে বর্ণনা এনেছেন, তাতে কথাটা খোলাসা: যে কষ্টের ভেতর আমি আছি তার আগে, আর স্বামী ছাড়া সন্তান জন্ম দেওয়ার দুঃখের আগে। তাবারী যোগ করেন, প্রসববেদনার মধ্যেই মানুষের সামনে লজ্জার কারণে তিনি এ কথা বলেছিলেন।"
+          },
+          {
+            "en": "Notice what the words reach for. She does not ask for the trial to be lifted, and she does not ask why. She looks backward, to a time before the matter began, as though the only refuge she can picture is never to have reached this hour. That is how unbearable moments speak. The Qur'an keeps her words exactly as they were said, at the trunk, in her solitude, and it answers them in the very next verse.",
+            "bn": "কথাগুলো কোন দিকে হাত বাড়ায়, খেয়াল করুন। তিনি পরীক্ষা তুলে নেওয়ার দোয়া করছেন না, কেন এমন হলো সে প্রশ্নও করছেন না। তিনি তাকাচ্ছেন পেছনে, ঘটনা শুরুর আগের সময়ে। যেন এই মুহূর্তে না পৌঁছানোই একমাত্র আশ্রয় যা তিনি কল্পনা করতে পারছেন। অসহ্য মুহূর্ত এভাবেই কথা বলে। কুরআন তাঁর কথাগুলো ঠিক যেভাবে বলা হয়েছিল সেভাবেই রেখে দিয়েছে, কাণ্ডের পাশে, একাকীত্বের মধ্যে। আর ঠিক পরের আয়াতেই তার জবাব দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Thing Left and Forgotten",
+          "bn": "ফেলে রাখা, ভুলে যাওয়া জিনিস"
+        },
+        "p": [
+          {
+            "en": "Then the second wish: wa-kuntu nasyan mansiyya, and had been a thing forgotten, wholly forgotten. Al-Qurtubi explains nasy in the speech of the Arabs as the trivial thing whose nature is to be forgotten, whose loss no one feels, like a tent peg or a length of rope to a traveller. He reports that when the Arabs broke camp they would say, keep hold of your ansaʾ, the small things easily left behind. At-Tabari reads mansiyya as a passive participle: the thing thrown aside, abandoned and forgotten.",
+            "bn": "তারপর দ্বিতীয় কামনা: ওয়া কুনতু নাসইয়াম মানসিয়্যা, আর যদি এমন কিছু হয়ে যেতাম যা ভুলে যাওয়া, একেবারে বিস্মৃত। কুরতুবী আরবদের ভাষায় নাসইয়ের অর্থ বলেন: এমন তুচ্ছ জিনিস যা ভুলে যাওয়াই তার স্বভাব, হারালে কারও খারাপ লাগে না। যেমন মুসাফিরের কাছে তাঁবুর একটা খুঁটি বা এক টুকরো দড়ি। তিনি জানান, আরবরা তাঁবু গুটিয়ে রওনা হওয়ার সময় বলত, তোমাদের আনসা সামলে রাখো, মানে ছোটখাটো জিনিস যা সহজেই চোখ এড়িয়ে পড়ে থাকে। তাবারী মানসিয়্যাকে কর্মবাচ্য বিশেষণ হিসেবে পড়েন: যা ছুড়ে ফেলা হয়েছে, ছেড়ে দেওয়া হয়েছে, ভুলে যাওয়া হয়েছে।"
+          },
+          {
+            "en": "Each early interpreter shapes the image. Ibn ʿAbbas, in at-Tabari and Ibn Kathir: I had not been created, I had been nothing. Qatada: a thing not known and not mentioned, so that no one knows who I am; the Muyassar follows him closely. Ibn Zayd: I had never been anything on the earth at all. Ar-Rabiʿ ibn Anas: the stillborn. As-Suddi likens it to a cast-off cloth that is never looked for again, and al-Baghawi records from ʿIkrima, ad-Dahhak and Mujahid a carcass thrown away.",
+            "bn": "প্রাচীন ব্যাখ্যাকারেরা ছবিটাকে যাঁর যাঁর মতো আকার দেন। তাবারী আর ইবন কাসীরে ইবন আব্বাস (রাঃ) বলেন: আমাকে যদি সৃষ্টিই করা না হতো, আমি যদি কিছুই না হতাম। কাতাদা বলেন: এমন কিছু যাকে কেউ চেনে না, কেউ মনে করে না, কেউ জানে না আমি কে। মুয়াসসার প্রায় হুবহু তাঁকেই অনুসরণ করে। ইবন যায়দ বলেন: পৃথিবীতে আমি যদি কখনো কিছুই না হতাম। রাবী ইবন আনাস বলেন: মৃত অবস্থায় জন্ম নেওয়া শিশু। সুদ্দী একে তুলনা করেন ফেলে দেওয়া এক টুকরো কাপড়ের সঙ্গে, যার খোঁজ আর কেউ করে না। বাগাভী ইকরিমা, দাহহাক আর মুজাহিদ থেকে আনেন: ছুড়ে ফেলা মৃতদেহ।"
+          },
+          {
+            "en": "Two readings exist. Al-Baghawi records that Hamza and Hafs read nasyan with fatha, and the others nisyan with kasra; both he and at-Tabari call these two dialect forms of a single word, both correct. What the images share matters more than their differences. She did not wish to be punished or erased in disgrace. She wished to be small enough to be passed over, never to have become a name people would speak about.",
+            "bn": "এ শব্দে দুটি কিরাআত আছে। বাগাভী জানান, হামযা ও হাফস পড়েছেন নাসইয়ান, যবর দিয়ে। অন্যরা পড়েছেন নিসইয়ান, যের দিয়ে। তিনি আর তাবারী দুজনেই বলেন, এ একই শব্দের দুই আঞ্চলিক রূপ, দুটোই সঠিক। তবে ছবিগুলোর পার্থক্যের চেয়ে মিলটাই বেশি গুরুত্বপূর্ণ। তিনি শাস্তি চাননি, অপমানের সঙ্গে মুছে যেতেও চাননি। চেয়েছেন এতটা তুচ্ছ হতে যাতে কারও চোখেই না পড়েন, এমন এক নাম কখনো না হতে যা নিয়ে মানুষ কথা বলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What She Was Afraid Of",
+          "bn": "তাঁর ভয় ছিল কিসের"
+        },
+        "p": [
+          {
+            "en": "Why would one so chosen wish for death? The commentators answer with one voice on the main point: the fear was of people. Ibn Kathir writes that she knew she would be tried and tested by this child, that people would not take her case rightly or believe her account, and that after being known among them as a devout worshipper she would become, in what they imagined, an unchaste woman. Al-Baghawi says she wished for death out of shame before people and fear of disgrace.",
+            "bn": "আল্লাহ যাঁকে এভাবে বেছে নিয়েছেন, তিনি কেন মৃত্যু কামনা করবেন? মূল কথায় তাফসীরকারেরা একই সুরে জবাব দেন: ভয়টা ছিল মানুষকে নিয়ে। ইবন কাসীর লেখেন, তিনি জানতেন এই সন্তানকে ঘিরে তাঁর পরীক্ষা হবে। মানুষ তাঁর ব্যাপারটা সঠিকভাবে বুঝবে না, তাঁর কথা বিশ্বাস করবে না। যিনি তাদের মধ্যে ইবাদতগুজার, দ্বীনদার বলে পরিচিত ছিলেন, তাদের ধারণায় তিনিই হয়ে যাবেন অসতী নারী। বাগাভী বলেন, মানুষের সামনে লজ্জা আর অপমানের ভয়েই তিনি মৃত্যু কামনা করেছিলেন।"
+          },
+          {
+            "en": "As-Saʿdi gathers the weight of the hour into a single sentence. When the pain of childbirth hurt her, and the pain of being alone without food or drink, and the pain in her heart from what people would say, and she feared she would not be able to stay patient, she wished she had died before this event and been forgotten. Each strand he names is a real burden. None of them is a complaint against her Lord, and none of the commentators read here presents it as such.",
+            "bn": "সেই মুহূর্তের পুরো ভার সা'দী এক বাক্যে জড়ো করেন। প্রসবের ব্যথা তাঁকে কষ্ট দিচ্ছিল। খাবার আর পানি ছাড়া একা থাকার কষ্ট ছিল। মানুষ কী বলবে, সেই চিন্তায় হৃদয়ের কষ্ট ছিল। আর ভয় ছিল, হয়তো ধৈর্য ধরে রাখতে পারবেন না। তখন তিনি কামনা করলেন, এ ঘটনার আগেই যদি মরে যেতেন আর সবাই তাঁকে ভুলে যেত। সা'দী যে কটি সুতো গুনেছেন, প্রতিটিই সত্যিকারের বোঝা। কিন্তু এর কোনোটাই রবের বিরুদ্ধে নালিশ নয়, আর এখানে পড়া তাফসীরকারদের কেউ একে তেমন করে দেখাননি।"
+          },
+          {
+            "en": "Al-Qurtubi says she wished for death for the sake of her religion, for two reasons. First, she feared that evil would be thought of her faith, that she would be reproached, and that this would put her religion to trial. Second, she did not want people, because of her, to fall into slander and the charge of fornication, which is ruinous for them. Ibn Kathir's abridged English version, commenting on 19:22 and 19:23 together, records that when Jibril told her what Allah had said, she accepted the decree of Allah.",
+            "bn": "কুরতুবী বলেন, তিনি মৃত্যু কামনা করেছিলেন দ্বীনের কারণে, আর তার দুটি দিক আছে। এক, তিনি ভয় পেয়েছিলেন যে তাঁর দ্বীন নিয়ে মানুষ খারাপ ধারণা করবে, তাঁকে লজ্জা দেবে, আর তা তাঁর দ্বীনকে পরীক্ষায় ফেলবে। দুই, তিনি চাননি তাঁর কারণে মানুষ অপবাদে জড়িয়ে পড়ুক, তাঁর উপর ব্যভিচারের দোষ চাপাক, কারণ সেটা তাদের ধ্বংস ডেকে আনে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১৯:২২ ও ১৯:২৩ একসঙ্গে আলোচনা করতে গিয়ে জানায়, জিবরীল যখন তাঁকে আল্লাহর কথা জানালেন, তিনি আল্লাহর ফয়সালা মেনে নিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beside the Prohibition",
+          "bn": "নিষেধের হাদীসের পাশে"
+        },
+        "p": [
+          {
+            "en": "Yet the Prophet ﷺ forbade wishing for death. Al-Bukhari records in his Sahih (5671), from Anas ibn Malik, that the Prophet ﷺ said: 'None of you should wish for death because of a calamity befalling him; but if he has to wish for death, he should say: O Allah! Keep me alive as long as life is better for me, and let me die if death is better for me.' This is a general narration; no commentator read here attaches it to this verse.",
+            "bn": "অথচ নবী ﷺ মৃত্যু কামনা করতে নিষেধ করেছেন। বুখারী তাঁর সহীহ গ্রন্থে (৫৬৭১) আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: 'তোমাদের কেউ যেন তার উপর আসা কোনো বিপদের কারণে মৃত্যু কামনা না করে। আর যদি একান্তই করতে হয়, তবে যেন বলে: হে আল্লাহ, যতদিন বেঁচে থাকা আমার জন্য কল্যাণকর ততদিন আমাকে জীবিত রাখুন, আর যখন মৃত্যু আমার জন্য কল্যাণকর তখন আমাকে মৃত্যু দিন।' এটি একটি সাধারণ হাদীস। এখানে পড়া কোনো তাফসীরকার একে এ আয়াতের সঙ্গে জুড়ে দেননি।"
+          },
+          {
+            "en": "The commentators reconcile verse and hadith through the kind of fear involved. Ibn Kathir reads the verse as evidence that wishing for death is permitted at a time of fitna, of trial, and says the hadiths he gave under 12:101 prohibit the wish except at such a time. Al-Qurtubi, having traced her wish to fear for her religion, says that within this limit wishing for death is permitted. The hadith speaks of harm that befalls a person; on al-Qurtubi's reading, her dread was for her faith and for what others would bring upon themselves.",
+            "bn": "তাফসীরকারেরা আয়াত আর হাদীসের মধ্যে মিল খোঁজেন ভয়ের ধরন দেখে। ইবন কাসীরের মতে আয়াতটি প্রমাণ করে যে ফিতনা বা পরীক্ষার সময় মৃত্যু কামনা জায়েয। তিনি বলেন, ১২:১০১ আয়াতের আলোচনায় তিনি যে হাদীসগুলো এনেছেন, সেগুলো এমন সময় ছাড়া মৃত্যু কামনা নিষেধ করে। কুরতুবী তাঁর কামনার মূল দেখান দ্বীন নিয়ে ভয়ে, তারপর বলেন, এই সীমার মধ্যে মৃত্যু কামনা জায়েয। হাদীসের কথা মানুষের উপর আসা বিপদ নিয়ে। কুরতুবীর ব্যাখ্যায় মারইয়াম (আঃ)-এর আশঙ্কা ছিল নিজের ঈমান নিয়ে, আর অন্যরা নিজেদের উপর কী ডেকে আনবে তা নিয়ে।"
+          },
+          {
+            "en": "Maʿarif al-Qurʾan lays out both possibilities. If the wish came from worldly hardship, she is excused, overpowered by her circumstances. If it came from a religious concern, it was justified in itself, since she feared that people would speak ill of her and that she could not bear it patiently. As-Saʿdi adds a different emphasis: the wish was born of that alarming moment, and there was no good or benefit for her in it; the good and the benefit lay in what Allah decreed.",
+            "bn": "মাআরিফুল কুরআন দুটো সম্ভাবনাই সামনে রাখে। কামনাটা যদি দুনিয়াবি কষ্ট থেকে এসে থাকে, তবে তিনি মাজুর, পরিস্থিতির চাপে তিনি অভিভূত ছিলেন। আর যদি দ্বীনি চিন্তা থেকে এসে থাকে, তবে তা নিজেই সংগত, কারণ তিনি ভয় পাচ্ছিলেন মানুষ তাঁর সম্পর্কে মন্দ বলবে আর তিনি ধৈর্যের সঙ্গে তা সইতে পারবেন না। সা'দী জোর দেন অন্য জায়গায়: কামনাটা জন্মেছিল সেই অস্থির করা মুহূর্ত থেকে, আর তাতে তাঁর জন্য কোনো কল্যাণ বা উপকার ছিল না। কল্যাণ আর উপকার ছিল আল্লাহ যা নির্ধারণ করেছিলেন, তার মধ্যেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Her Honour Left Untouched",
+          "bn": "তাঁর মর্যাদায় দাগ নেই"
+        },
+        "p": [
+          {
+            "en": "Nothing in this verse lowers Maryam (AS). The Qur'an has already given her own words, that no man had touched her and that she had never been unchaste (19:20), and it says elsewhere that Allah chose her, purified her and chose her above the women of the worlds (3:42). Her cry under the palm is not weakness of faith exposed. It is a pure woman's dread of a false charge, recorded by Allah, who knew she was innocent and who would make the infant in her arms speak for her (19:29 and 19:30).",
+            "bn": "এ আয়াতে মারইয়াম (আঃ)-এর মর্যাদা এতটুকু কমে না। কুরআন আগেই তাঁর নিজের কথা জানিয়েছে: কোনো পুরুষ তাঁকে স্পর্শ করেনি, আর তিনি কখনো অসতী ছিলেন না (১৯:২০)। অন্য জায়গায় কুরআন বলে, আল্লাহ তাঁকে বেছে নিয়েছেন, পবিত্র করেছেন, আর বিশ্বজগতের নারীদের উপর মর্যাদা দিয়েছেন (৩:৪২)। খেজুর গাছের নিচে তাঁর আর্তনাদ ঈমানের দুর্বলতা ফাঁস হয়ে যাওয়া নয়। এ এক পবিত্র নারীর মিথ্যা অপবাদের আতঙ্ক। আর তা লিখে রেখেছেন আল্লাহ, যিনি জানতেন তিনি নির্দোষ, আর যিনি তাঁর কোলের শিশুকে দিয়েই তাঁর পক্ষে কথা বলাবেন (১৯:২৯ ও ১৯:৩০)।"
+          },
+          {
+            "en": "The people whose words she feared appear a few verses later, when they say she has brought something unheard of (19:27 and 19:28). The verse describes one woman's fear of one people's accusation at one moment in the story, and it licenses nothing against any living person or community, Jews and Christians today included. It is not a ground for polemic. Its gaze is on her, and on what a believer may feel when an hour weighs more than she can carry.",
+            "bn": "যাদের মুখের কথাকে তিনি ভয় পাচ্ছিলেন, তারা আসে কয়েক আয়াত পরে, যখন তারা বলে, তুমি তো এক অদ্ভুত জিনিস নিয়ে এসেছ (১৯:২৭ ও ১৯:২৮)। আয়াতটি কাহিনির এক মুহূর্তে এক জনগোষ্ঠীর অপবাদ নিয়ে এক নারীর ভয়ের বর্ণনা দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি বা খ্রিস্টান কারও বিরুদ্ধেই, এ আয়াত কিছুরই অনুমতি দেয় না। বিতর্কের হাতিয়ার বানানোর জন্যও এ আয়াত নয়। এর দৃষ্টি তাঁর দিকে। কোনো মুহূর্তের ভার যখন সামর্থ্যের বাইরে মনে হয়, তখন একজন মুমিন কী অনুভব করতে পারেন, আয়াত সেটাই দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pain Before Its Meaning",
+          "bn": "অর্থ বোঝার আগের কষ্ট"
+        },
+        "p": [
+          {
+            "en": "Read the verse from inside her hour. The pain is real, the solitude is real, the fear of people's tongues is real, and nothing in front of her explains any of it. She cannot see that the child is the sign and mercy promised in 19:21, or that the decree was already settled. All she can see is the trunk she is holding. Then, at once, a voice calls to her from beneath her: do not grieve; your Lord has placed a stream beneath you (19:24). The answer was nearer than her despair.",
+            "bn": "আয়াতটি তাঁর সেই মুহূর্তের ভেতর থেকে পড়ুন। ব্যথা সত্যি, একাকীত্ব সত্যি, মানুষের মুখের ভয়ও সত্যি। আর চোখের সামনে এমন কিছু নেই যা এর কোনোটার ব্যাখ্যা দেয়। তিনি দেখতে পাচ্ছেন না যে এই সন্তানই ১৯:২১ আয়াতে প্রতিশ্রুত নিদর্শন আর রহমত, আর ফয়সালা আগেই চূড়ান্ত হয়ে আছে। তিনি দেখছেন শুধু সেই কাণ্ড, যা আঁকড়ে ধরে আছেন। তারপরই নিচ থেকে এক কণ্ঠ তাঁকে ডাকে: দুঃখ কোরো না, তোমার রব তোমার নিচে এক ঝরনা বইয়ে দিয়েছেন (১৯:২৪)। তাঁর হতাশার চেয়ে জবাব ছিল আরও কাছে।"
+          },
+          {
+            "en": "That is the lesson for anyone in pain that seems to have no meaning while it lasts. As-Saʿdi's line holds the key: the good lay in what was decreed, not in the wish to escape it. The feeling in the hour is not the measure of the hour. When the weight becomes too much, the Prophet ﷺ gave words that hand the choice back to Allah: keep me alive while life is better for me. Say them, hold on to what is in front of you, and wait for the call.",
+            "bn": "যে কষ্ট চলার সময় অর্থহীন মনে হয়, তার ভেতর দিয়ে যাওয়া যে কারও জন্য এখানে শিক্ষা আছে। সা'দীর কথাতেই চাবিটা আছে: কল্যাণ ছিল আল্লাহর ফয়সালার মধ্যে, তা থেকে পালানোর কামনায় নয়। মুহূর্তের অনুভূতি দিয়ে মুহূর্তের মাপ হয় না। ভার যখন অসহ্য হয়ে ওঠে, নবী ﷺ এমন কথা শিখিয়ে দিয়েছেন যা সিদ্ধান্তটা আল্লাহর হাতে ফিরিয়ে দেয়: যতদিন বেঁচে থাকা আমার জন্য কল্যাণকর, ততদিন আমাকে বাঁচিয়ে রাখুন। কথাগুলো বলুন, সামনে যা আছে তা আঁকড়ে ধরুন, আর সেই ডাকের অপেক্ষা করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "19:25": {
     "sections": [
       {

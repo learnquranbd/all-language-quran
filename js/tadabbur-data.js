@@ -23031,6 +23031,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being good to your mother is part of serving Allah, not apart from it; whoever grows hard toward her is already sliding toward the arrogance this verse disowns.",
     "lessonBn": "মায়ের প্রতি সদাচার আল্লাহর ইবাদতেরই অংশ, তার বাইরের কিছু নয়। মায়ের প্রতি যে রূঢ় হয়ে ওঠে, সে এ আয়াতের প্রত্যাখ্যাত অহংকারের দিকেই গড়িয়ে চলেছে।"
+  },
+  "19:23": {
+    "reflectionEn": "She is alone, far from her people, and the pains of labour drive her to the trunk of a palm, the only thing to hold. Then she says what anyone might say at the worst hour: I wish I had died before this and been a thing forgotten. She was not quarrelling with what her Lord had decreed. She was afraid of what people would say about her, and afraid for her faith if she could not bear it. In that hour the pain had no visible meaning. Yet the child she was bearing was a sign and a mercy, and the answer, do not grieve, was already on its way. When my own pain makes no sense to me, do I take that as proof that it has none?",
+    "reflectionBn": "তিনি একা, নিজের লোকজন থেকে অনেক দূরে। প্রসবের ব্যথা তাঁকে টেনে নিয়ে যায় এক খেজুর গাছের কাণ্ডের কাছে, ধরে দাঁড়ানোর মতো সেখানে আর কিছুই নেই। তারপর তিনি সেই কথা বলেন, যা সবচেয়ে কঠিন মুহূর্তে যে কারও মুখে আসতে পারে: হায়, এর আগেই যদি মরে যেতাম, যদি সবার ভুলে যাওয়া কিছু হয়ে থাকতাম! রবের ফয়সালার বিরুদ্ধে এটা কোনো নালিশ ছিল না। তাঁর ভয় ছিল মানুষের মুখের কথা, আর ভয় ছিল সইতে না পারলে নিজের দ্বীনের কী হবে। সেই মুহূর্তে ব্যথাটার কোনো অর্থ চোখে পড়ছিল না। অথচ যে সন্তান তিনি জন্ম দিচ্ছিলেন, তিনি ছিলেন নিদর্শন আর রহমত। দুঃখ কোরো না, এই জবাবও তখন পথেই ছিল। আমার নিজের কষ্টের অর্থ যখন বুঝি না, আমি কি ধরে নিই যে তার কোনো অর্থই নেই?",
+    "pointsEn": [
+      "When I am in pain, is my fear mostly of the pain itself, or of what people will think of me because of it?",
+      "Have I ever read someone's cry of distress as a lack of faith, when it may have been fear for their faith?",
+      "What hard stretch of my past looked meaningless while I was in it, and what did it turn out to carry?",
+      "When I feel like wishing my life away, do I hand the choice back to Allah, asking Him to keep me while life is better for me?",
+      "Who near me is in the middle of something painful right now, and how could I be the voice that tells them not to grieve?"
+    ],
+    "pointsBn": [
+      "কষ্টের সময় আমার ভয়টা কি মূলত কষ্টকে নিয়ে, নাকি সেই কষ্টের কারণে মানুষ আমাকে কী ভাববে তা নিয়ে?",
+      "কারও যন্ত্রণার আর্তনাদকে কি কখনো ঈমানের দুর্বলতা ভেবেছি, অথচ হয়তো সেটা ছিল নিজের ঈমান নিয়েই ভয়?",
+      "আমার অতীতের কোন কঠিন সময়টা পার হওয়ার সময় অর্থহীন মনে হয়েছিল, আর পরে দেখা গেল তার ভেতরে কী লুকিয়ে ছিল?",
+      "জীবনটা শেষ হয়ে যাক, এমন মনে হলে আমি কি সিদ্ধান্তটা আল্লাহর হাতে ফিরিয়ে দিই, আর বলি যতদিন বেঁচে থাকা আমার জন্য ভালো ততদিন যেন তিনি আমাকে বাঁচিয়ে রাখেন?",
+      "আমার কাছের কে এই মুহূর্তে কষ্টের ভেতর দিয়ে যাচ্ছে, আর আমি কীভাবে সেই কণ্ঠ হতে পারি যে তাকে বলবে, দুঃখ কোরো না?"
+    ],
+    "lessonEn": "Pain can feel meaningless while it lasts. Do not judge the hour by how it feels; what Allah has decreed may be carrying a mercy you cannot yet see.",
+    "lessonBn": "কষ্ট চলার সময় তাকে অর্থহীন মনে হতে পারে। অনুভূতি দিয়ে সেই মুহূর্তের বিচার করবেন না। আল্লাহর ফয়সালা হয়তো এমন রহমত বয়ে আনছে, যা এখনো আপনার চোখে পড়েনি।"
   }
 };
 
