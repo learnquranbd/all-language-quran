@@ -21291,6 +21291,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Neither knowledge nor wealth is blamed in itself; the blame falls on religion used as a way to take, and on wealth held back from what is due on it.",
     "lessonBn": "জ্ঞান বা সম্পদ নিজে দোষের নয়; দোষ তখনই, যখন ধর্মকে নেওয়ার উপায় বানানো হয়, আর সম্পদের পাওনা আটকে রাখা হয়।"
+  },
+  "9:126": {
+    "reflectionEn": "Every year, once or twice, something arrived that should have stopped them: a lean season, a summons to march, a rumour that showed which way their hearts were leaning. The verse does not ask why the trials came. It asks whether they did not see them. Each one was an opening, and each time they neither turned back to Allah over what they had done nor took a lesson for what lay ahead. Read with your own calendar in hand, the question becomes uncomfortable. An illness, a loss, a fright, a year that went badly: each is a knock at the door. How many have I filed away as bad luck and simply waited out, without a single return to my Lord?",
+    "reflectionBn": "প্রতি বছর একবার কি দুবার এমন কিছু আসত, যা তাদের থামিয়ে দেওয়ার কথা ছিল। কখনো অভাবের মৌসুম, কখনো অভিযানে বের হওয়ার ডাক, কখনো এমন গুজব, যা দেখিয়ে দিত তাদের মন কোন দিকে ঝুঁকে আছে। আয়াতটি জানতে চায় না পরীক্ষাগুলো কেন এল। জানতে চায়, তারা কি দেখতে পায় না? প্রতিটি পরীক্ষা ছিল ফেরার সুযোগ। আর প্রতিবারই তারা আগের গুনাহ থেকে তওবা করেনি, সামনের দিনের জন্যও শিক্ষা নেয়নি। নিজের জীবনের বছরগুলো সামনে রেখে পড়লে প্রশ্নটা অস্বস্তিকর হয়ে ওঠে। একটা অসুখ, একটা ক্ষতি, একটা ভয়, একটা খারাপ যাওয়া বছর, প্রতিটিই দরজায় কড়া নাড়া। এর কতগুলোকে আমি শুধু কপালের দোষ ধরে চুপচাপ পার করে দিয়েছি, একবারও রবের দিকে না ফিরে?",
+    "pointsEn": [
+      "Which hardship of the past year did I only wait out, without once asking what it was calling me back from?",
+      "Is there a sin I gave up after an earlier trial and went back to as soon as the trial lifted?",
+      "When I last fell ill, did I treat it only as an inconvenience, or also as a reminder of where every illness finally leads?",
+      "What piece of news or rumour this year showed me which way my heart was leaning, and did I take that seriously?",
+      "If this year brings its trial once or twice again, what do I want to have changed before it comes?"
+    ],
+    "pointsBn": [
+      "গত বছরের কোন কষ্টটা আমি শুধু সয়ে পার করেছি, একবারও ভাবিনি সেটা আমাকে কোন জিনিস থেকে ফিরে আসতে ডাকছিল?",
+      "আগের কোনো পরীক্ষার পর যে গুনাহ ছেড়েছিলাম, পরীক্ষা সরে যেতেই কি আবার তাতে ফিরে গেছি?",
+      "শেষবার অসুস্থ হয়ে আমি কি সেটাকে কেবল ঝামেলা ভেবেছি, নাকি এটাও মনে পড়েছে যে প্রতিটি অসুখ শেষে কোথায় নিয়ে যায়?",
+      "এ বছর কোন খবর বা গুজব আমাকে দেখিয়ে দিয়েছে আমার মন কোন দিকে ঝুঁকে আছে, আর আমি কি বিষয়টা গুরুত্ব দিয়ে নিয়েছি?",
+      "এ বছরও যদি একবার কি দুবার পরীক্ষা আসে, তার আগেই আমি নিজের মধ্যে কী বদলাতে চাই?"
+    ],
+    "lessonEn": "Each year's hardships are knocks at the door. Answer them by turning back from past sins and taking heed for what is still to come.",
+    "lessonBn": "প্রতি বছরের কষ্টগুলো দরজায় কড়া নাড়া। আগের গুনাহ থেকে তওবা করে আর সামনের দিনের জন্য শিক্ষা নিয়ে সেই ডাকে সাড়া দিন।"
   }
 };
 

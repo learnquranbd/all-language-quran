@@ -4582,5 +4582,165 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "9:126": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Two Arrivals of a Surah",
+          "bn": "দুই সূরা নাযিলের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is closing, and its last passages keep returning to one scene: a surah comes down, and the hypocrites react. 9:124 and 9:125 have just set out the two effects, faith added to the believers and filth added to the filth of the diseased; that pair is treated at 9:124 and is not retold here. 9:127 will show the hypocrites glancing at each other whenever a surah arrives, and slipping away. Our verse stands between those two scenes and looks across a whole year.",
+            "bn": "সূরা তাওবা শেষের দিকে, আর এর শেষ অংশগুলো বারবার একটা দৃশ্যে ফিরে আসে। একটা সূরা নাযিল হয়, আর মুনাফিকরা তাতে সাড়া দেয় নিজেদের মতো করে। ৯:১২৪ ও ৯:১২৫ এইমাত্র দুই রকম ফল দেখিয়েছে: মু’মিনদের ঈমান বাড়ে, আর রোগা অন্তরের নাপাকির উপর নাপাকি জমে। সে জোড়ার আলোচনা ৯:১২৪-এ হয়ে গেছে, এখানে আর ফিরে বলা হবে না। ৯:১২৭ দেখাবে, সূরা নাযিল হলেই তারা একে অন্যের দিকে তাকায়, তারপর চুপিসারে সরে পড়ে। আমাদের আয়াত এ দুই দৃশ্যের মাঝখানে দাঁড়িয়ে, তবে চোখ রাখে গোটা বছরের উপর।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse gives an occasion of revelation for it, so it is read in its place, and the place fixes its subject. Ibn Kathir opens with these hypocrites, at-Tabari with those in whose hearts is the disease of hypocrisy, and al-Muyassar with the hypocrites, while as-Sa'di says the verse rebukes them for persisting in their disbelief and hypocrisy. 9:125 ended with them dying as disbelievers. This verse shows the road to that end: trial after trial, each passed by.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর শানে নুযূল দেয় না। তাই আয়াতটি পড়তে হয় তার জায়গায় রেখে, আর জায়গাই ঠিক করে দেয় কাদের কথা হচ্ছে। ইবন কাসীর শুরু করেন এই মুনাফিকদের কথা বলে, তাবারী বলেন যাদের অন্তরে নিফাকের রোগ, মুয়াসসারও বলে মুনাফিকদের কথা। আর সা'দী বলেন, কুফর ও নিফাকে অটল থাকার জন্য আয়াতটি তাদের ধমক দিচ্ছে। ৯:১২৫ শেষ হয়েছে কাফির অবস্থায় তাদের মৃত্যুর কথায়। এ আয়াত দেখায় সেই শেষে পৌঁছানোর পথ: একটার পর একটা পরীক্ষা, আর প্রতিটিকে পাশ কাটিয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reproach Inside a Question",
+          "bn": "না-বোধক প্রশ্নে তিরস্কার"
+        },
+        "p": [
+          {
+            "en": "Awa la yarawna: do they not see? The question is negative, and a negative question of this kind is a reproach, not a request for information. At-Tabari reads it as tawbikh, a rebuke from Allah to them, and as-Sa'di's first word on the verse is muwabbikhan, rebuking. Then yuftanuna, they are tried. Ibn Kathir glosses it as yukhtabaruna, they are tested, and al-Baghawi as yubtaluna, they are afflicted.",
+            "bn": "আওয়ালা ইয়ারাওনা: তারা কি দেখে না? প্রশ্নটা না-বোধক, আর এমন প্রশ্ন কিছু জানতে চায় না, তিরস্কার করে। তাবারী একে পড়েন তাওবীখ হিসেবে, অর্থাৎ তাদের প্রতি আল্লাহর ভর্ৎসনা। সা'দীও আয়াতের আলোচনা শুরু করেন মুওয়াব্বিখান শব্দে, মানে ধমক দিয়ে। এরপর ইউফতানূনা, তাদের ফিতনায় ফেলা হয়। ইবন কাসীর এর অর্থ করেন ইউখতাবারূনা, তাদের যাচাই করা হয়। বাগাভী বলেন ইউবতালূনা, তাদের বিপদে ফেলা হয়।"
+          },
+          {
+            "en": "Fi kulli 'amin marratan aw marratayn: in every year once or twice. At-Tabari takes the count at face value and spreads it over time: in some years He tests them once, and in some years twice. Ma'arif al-Qur'an reads it the other way, saying the count does not signify the numbers as such; its purpose is to stress that the chain of action and reaction keeps moving and they take no lesson from it. The two readings differ on the arithmetic and agree that the trials kept coming.",
+            "bn": "ফী কুল্লি ‘আমিন মাররাতান আও মাররাতাইন: প্রতি বছর একবার বা দুবার। তাবারী সংখ্যাটা আক্ষরিক অর্থেই নেন এবং সময়ের উপর ভাগ করে দেন। কোনো বছর আল্লাহ তাদের একবার পরীক্ষা করেন, কোনো বছর দুবার। মাআরিফুল কুরআন পড়ে উল্টো দিক থেকে। তার মতে এখানে সংখ্যা দিয়ে গোনা উদ্দেশ্য নয়। উদ্দেশ্য এ কথায় জোর দেওয়া যে কাজ আর তার ফলের ধারা থামে না, অথচ তারা তা থেকে কোনো শিক্ষা নেয় না। দুই পাঠের অমিল হিসাবের জায়গায়, আর মিল এখানে যে পরীক্ষা আসতেই থাকত।"
+          },
+          {
+            "en": "Thumma la yatubuna wa la hum yadhdhakkaruna: then they do not repent, nor do they take heed. At-Tabari paraphrases the then with care: then they, along with the affliction that comes down on them from Allah and the test that confronts them, do not turn back. He glosses the last word as yatadhakkaruna, the same verb in its fuller form. The verse names how often it came and leaves open what it was, and the commentators divided exactly there.",
+            "bn": "সুম্মা লা ইয়াতূবূনা ওয়া লা হুম ইয়াযযাক্কারূন: তবু তারা তওবা করে না, উপদেশও নেয় না। ‘সুম্মা’ বা ‘তবু’ শব্দটি তাবারী খুলে বলেন যত্ন নিয়ে: আল্লাহর পক্ষ থেকে বিপদ নেমে আসে, পরীক্ষা সামনে এসে দাঁড়ায়, এর পরেও তারা ফিরে আসে না। শেষ শব্দটির অর্থ তিনি করেন ইয়াতাযাক্কারূন দিয়ে, একই ক্রিয়ার পূর্ণ রূপ। কতবার এসেছে আয়াত তা জানায়, কী এসেছে তা খোলা রাখে। আর তাফসীরকারদের মত ভাগ হয়েছে ঠিক এখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hamza Reads It With Ta'",
+          "bn": "হামযার পাঠে তা হরফ"
+        },
+        "p": [
+          {
+            "en": "The opening word has a reading difference, and three of the commentaries record it. At-Tabari says the general body of readers in the cities read yarawna, with ya', meaning: do these people, in whose hearts is the disease of hypocrisy, not see? Hamza read tarawna, with ta', meaning: do you not see, O believers, that they are tried? At-Tabari's choice is the ya', taken as a rebuke from Allah to them, because the authoritative readers of the cities agree on it and its meaning is sound.",
+            "bn": "আয়াতের প্রথম শব্দে কিরাআতের ভিন্নতা আছে, আর তিনটি তাফসীর তা উল্লেখ করেছে। তাবারী বলেন, বিভিন্ন শহরের অধিকাংশ কারী পড়েছেন ‘ইয়ারাওনা’, ইয়া হরফ দিয়ে। অর্থ দাঁড়ায়: যাদের অন্তরে নিফাকের রোগ, তারা কি দেখে না? হামযা পড়েছেন ‘তারাওনা’, তা হরফ দিয়ে। তখন অর্থ: হে মু’মিনগণ, তোমরা কি দেখো না যে তাদের পরীক্ষায় ফেলা হয়? তাবারী বেছে নেন ইয়া, আল্লাহর পক্ষ থেকে তাদের প্রতি ধমক হিসেবে। কারণ, শহরগুলোর নির্ভরযোগ্য কারীরা এ পাঠে একমত, আর এর অর্থও সঠিক।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both add Ya'qub to Hamza for the ta', and they describe its addressee a little differently: al-Qurtubi calls it a report about the hypocrites addressed to the believers, al-Baghawi the Prophet ﷺ addressing the believers. Al-Qurtubi alone records two more readings. Al-A'mash read awa lam yaraw, and Talha ibn Musarrif read awa la tara, which al-Qurtubi says is the reading of Ibn Mas'ud (RA), addressed to the Prophet ﷺ. On every reading the hypocrites are the ones being tried; only the onlooker changes.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই তা-এর পাঠে হামযার সঙ্গে ইয়াকুবের নামও যোগ করেন। তবে কাকে সম্বোধন করা হচ্ছে, তা তাঁরা একটু ভিন্নভাবে বলেন। কুরতুবীর মতে এটি মুনাফিকদের সম্পর্কে খবর, যা মু’মিনদের শোনানো হচ্ছে। বাগাভীর মতে নবী ﷺ মু’মিনদের সম্বোধন করছেন। আরও দুটি পাঠ শুধু কুরতুবী উল্লেখ করেন। আ'মাশ পড়েছেন ‘আওয়ালাম ইয়ারাও’। আর তালহা ইবন মুসাররিফ পড়েছেন ‘আওয়ালা তারা’, যা কুরতুবীর ভাষায় ইবন মাসউদ (রাঃ)-এর পাঠ, আর এতে সম্বোধন নবী ﷺ-কে। যে পাঠই ধরুন, পরীক্ষায় পড়ছে মুনাফিকরাই। বদলায় শুধু কে তাকিয়ে দেখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hunger, Campaigns and Lies",
+          "bn": "ক্ষুধা, অভিযান আর মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the people of interpretation differed over what the trial was. The first answer is Mujahid's: bis-sanati wal-ju', by the year of drought and by hunger. At-Tabari carries it through four chains, and in one of them Mujahid says instead that they are afflicted with punishment every year once or twice. Ibn Kathir reports Mujahid's drought and hunger, while al-Qurtubi and al-Baghawi give his words as drought and hardship.",
+            "bn": "পরীক্ষাটা কী ছিল, তা নিয়ে তাফসীরবিদদের মতভেদ তাবারী উল্লেখ করেছেন। প্রথম উত্তর মুজাহিদের: বিস-সানাতি ওয়াল-জূ‘, অর্থাৎ খরার বছর আর ক্ষুধা দিয়ে। তাবারী এটি এনেছেন চারটি সনদে। তার একটিতে মুজাহিদ অবশ্য বলেছেন, প্রতি বছর একবার বা দুবার তাদের আযাব দিয়ে পরীক্ষা করা হয়। ইবন কাসীরও মুজাহিদের খরা আর ক্ষুধার কথাই বর্ণনা করেন। আর কুরতুবী ও বাগাভী তাঁর কথা উদ্ধৃত করেন দুর্ভিক্ষ আর কষ্টের শব্দে।"
+          },
+          {
+            "en": "The second answer is Qatada's: they are tried by going out on campaign once or twice a year, and at-Tabari records the same from al-Hasan. Al-Qurtubi lists Qatada, al-Hasan and Mujahid together for campaigns and jihad with the Prophet ﷺ, adding that they see the victory Allah promised and still do not repent. The third is from Hudhayfa (RA): we used to hear every year a lie or two, and large crowds of people went astray by it. At-Tabari files it under lies the idolaters spread about the Messenger ﷺ and his Companions.",
+            "bn": "দ্বিতীয় উত্তর কাতাদার: অভিযানে বের হওয়ার ডাক দিয়ে বছরে একবার বা দুবার তাদের পরীক্ষা করা হয়। তাবারী একই কথা হাসান থেকেও বর্ণনা করেন। কুরতুবী কাতাদা, হাসান ও মুজাহিদকে এক সঙ্গে উল্লেখ করেন নবী ﷺ-এর সঙ্গে অভিযান ও জিহাদের মতের পক্ষে। তিনি যোগ করেন, আল্লাহ যে বিজয়ের ওয়াদা দিয়েছিলেন তারা তা চোখে দেখে, তবুও তওবা করে না। তৃতীয় উত্তর হুযাইফা (রাঃ)-এর: আমরা প্রতি বছর একটি বা দুটি মিথ্যা শুনতাম, আর তাতে বহু মানুষ পথ হারাত। তাবারী এটি রেখেছেন সেই মতের অধীনে, যেখানে মুশরিকরা রাসূল ﷺ ও তাঁর সাহাবিদের নিয়ে মিথ্যা ছড়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sickness, Exposure, Broken Pledges",
+          "bn": "অসুখ, মুখোশ খোলা, ভাঙা অঙ্গীকার"
+        },
+        "p": [
+          {
+            "en": "Other names bring other trials. Al-Qurtubi gives 'Atiyya: by illnesses and pains, and the same line calls them rawa'id al-mawt, the forerunners of death. Al-Baghawi's own gloss is illnesses and hardships, and he then reports three more views. Muqatil ibn Hayyan: they are disgraced by their hypocrisy being brought into the open. 'Ikrima: they play the hypocrite, then believe, then play the hypocrite again. Yaman: they break their covenant once or twice a year.",
+            "bn": "অন্য নামের সঙ্গে আসে অন্য পরীক্ষার কথা। কুরতুবী আতিয়্যার মত দেন: রোগ আর যন্ত্রণা দিয়ে। সেই বাক্যেই এগুলোকে বলা হয়েছে রাওয়াইদুল মাওত, মৃত্যুর আগাম দূত। বাগাভীর নিজের ব্যাখ্যা: রোগব্যাধি আর কষ্ট দিয়ে। এরপর তিনি আরও তিনটি মত আনেন। মুকাতিল ইবন হাইয়ান বলেন, তাদের নিফাক প্রকাশ করে দিয়ে লাঞ্ছিত করা হয়। ইকরিমা বলেন, তারা মুনাফিকি করে, তারপর ঈমান আনে, তারপর আবার মুনাফিকি করে। ইয়ামান বলেন, বছরে একবার বা দুবার তারা অঙ্গীকার ভাঙে।"
+          },
+          {
+            "en": "The later commentaries combine. Al-Muyassar names drought and hardship together with the exposure of the hypocrisy they conceal. As-Sa'di names the afflictions and illnesses that strike them and the divine commands meant to test them. Allah tests them, he says, as is His way with all nations, with ease and adversity, with commands and prohibitions, so that they return to Him. Ma'arif al-Qur'an points to events. They saw their allies, the disbelievers of Makkah, defeated, and they faced disgrace when their hypocrisy was exposed.",
+            "bn": "পরের যুগের তাফসীরগুলো কয়েকটি মত মিলিয়ে নেয়। মুয়াসসার খরা আর কষ্টের সঙ্গে যোগ করে তাদের লুকানো নিফাক ফাঁস হয়ে যাওয়ার কথা। সা'দী বলেন, তাদের উপর যে বিপদ আর অসুখ আসে, আর যে ঐশী হুকুম তাদের যাচাই করার জন্য দেওয়া হয়, সবই এই পরীক্ষা। সব জাতির বেলায় আল্লাহর যে রীতি, সেভাবেই তিনি তাদের পরীক্ষা করেন সচ্ছলতা আর দুর্দশা দিয়ে, আদেশ আর নিষেধ দিয়ে, যাতে তারা তাঁর দিকে ফিরে আসে। মাআরিফুল কুরআন দেখায় ঘটনার দিকে। মক্কার কাফিররা ছিল তাদের মিত্র, তারা তাদের পরাজয় দেখেছে। আর নিফাক ফাঁস হলে নিজেরাও অপমানিত হয়েছে।"
+          },
+          {
+            "en": "At-Tabari does not choose. The likeliest thing to say, he writes, is that Allah made His believing servants marvel at these hypocrites and rebuked them for how little they took heed. The admonitions could be the hardships of hunger and drought; they could be the help He showed His Messenger against those who disbelieved; they could be what the Muslims saw of their hypocrisy as they leaned towards the idolaters' rumours. No report settles one over the others, so he keeps to the plain wording: they are tested each year by what should restrain them, and are not restrained.",
+            "bn": "তাবারী কোনো একটি মত বেছে নেন না। তিনি লেখেন, সবচেয়ে সঠিক কথা হলো, আল্লাহ তাঁর মু’মিন বান্দাদের এই মুনাফিকদের অবস্থা দেখে অবাক হতে বলেছেন, আর মুনাফিকদের ধমক দিয়েছেন উপদেশ গ্রহণে তাদের গাফিলতির জন্য। সেই উপদেশ হতে পারে ক্ষুধা আর দুর্ভিক্ষের কষ্ট। হতে পারে কাফিরদের বিরুদ্ধে তাঁর রাসূলকে দেওয়া সাহায্য। আবার হতে পারে মুশরিকদের গুজবের দিকে ঝুঁকে পড়ায় মুসলিমদের সামনে তাদের যে নিফাক ধরা পড়ত, সেটাও। কোনো বর্ণনা একটিকে অন্যগুলোর উপর প্রাধান্য দেয় না। তাই তিনি আয়াতের বাহ্যিক অর্থেই থামেন: প্রতি বছর এমন কিছু দিয়ে তাদের পরীক্ষা হয়, যা তাদের থামানোর কথা, অথচ তারা থামে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Things Left Undone",
+          "bn": "যে দুটি কাজ বাকি রইল"
+        },
+        "p": [
+          {
+            "en": "The verse charges them with two failures, and Ibn Kathir divides them by time. La yatubuna: they do not repent of their past sins. Wa la hum yadhdhakkaruna: nor do they take heed in what is coming of their affairs. Repentance looks back over what has been done, and taking heed looks ahead to what will be done. A trial invites both, and they gave it neither. At-Tabari says it in his own terms: they do not turn back from their hypocrisy or repent of their disbelief, but persist in it.",
+            "bn": "আয়াতটি তাদের বিরুদ্ধে দুটি ব্যর্থতার অভিযোগ আনে, আর ইবন কাসীর দুটিকে ভাগ করেন সময় দিয়ে। লা ইয়াতূবূনা: অতীতের গুনাহ থেকে তারা তওবা করে না। ওয়া লা হুম ইয়াযযাক্কারূন: সামনে তাদের জীবনে যা আসছে, সে বিষয়েও তারা সতর্ক হয় না। তওবার চোখ পেছনে, যা করা হয়ে গেছে তার দিকে। উপদেশ নেওয়ার চোখ সামনে, যা করা হবে তার দিকে। পরীক্ষা দুটোরই ডাক দেয়, আর তারা কোনোটিতেই সাড়া দেয়নি। তাবারী একই কথা বলেন নিজের ভাষায়: তারা নিফাক থেকে ফেরে না, কুফর থেকে তওবা করে না, বরং তাতেই অটল থাকে।"
+          },
+          {
+            "en": "The others fill in what the heeding would have looked like. At-Tabari: taking admonition from the proofs of Allah they see and the signs they witness. As-Sa'di: remembering what benefits them so that they do it, and what harms them so that they leave it. Al-Baghawi ties the repentance to the broken covenant, and the heeding to watching Allah's promise of help and victory to the Muslims come true. Al-Muyassar keeps both together: they neither repent nor take admonition, despite the signs of Allah they see with their own eyes.",
+            "bn": "উপদেশ নেওয়াটা কেমন হতো, অন্যরা তা খুলে বলেন। তাবারীর মতে, আল্লাহর যে দলিল তারা দেখে আর যে নিদর্শন চোখের সামনে ঘটে, তা থেকে শিক্ষা নেওয়া। সা'দীর মতে, যা তাদের উপকার করে তা মনে রেখে করে ফেলা, আর যা ক্ষতি করে তা মনে রেখে ছেড়ে দেওয়া। বাগাভী তওবাকে জুড়ে দেন ভাঙা অঙ্গীকারের সঙ্গে। আর উপদেশ নেওয়াকে জুড়ে দেন মুসলিমদের সাহায্য ও বিজয়ের যে ওয়াদা আল্লাহ দিয়েছিলেন, তা সত্য হতে দেখার সঙ্গে। মুয়াসসার দুটোকে এক সঙ্গে রাখে: আল্লাহর নিদর্শন নিজের চোখে দেখেও তারা না তওবা করে, না উপদেশ নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Anas Told the Complainers",
+          "bn": "অভিযোগকারীদের প্রতি আনাসের কথা"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a prophetic hadith to its meaning. Ibn Kathir closes his comment with a narration from Anas (RA) about each year being followed by a worse one, which Anas says he heard from the Prophet ﷺ. Ibn Kathir introduces it only with the words in the hadith and names neither a collection nor a grading, and his wording could not be confirmed from what was fetched, so it is not quoted here. A related narration from Anas is in Sahih al-Bukhari.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরই এর অর্থের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয় না। ইবন কাসীর তাঁর আলোচনা শেষ করেন আনাস (রাঃ)-এর একটি বর্ণনা দিয়ে। তাতে আছে, প্রতিটি বছরের পরের বছর আগেরটার চেয়ে খারাপ হবে, আর আনাস (রাঃ) বলেন তিনি এ কথা নবী ﷺ-এর কাছে শুনেছেন। ইবন কাসীর শুধু ‘হাদীসে আছে’ বলে এটি আনেন, কোনো গ্রন্থ বা মান উল্লেখ করেন না। তাঁর দেওয়া শব্দগুলো যাচাই করা যায়নি, তাই এখানে তা উদ্ধৃত হলো না। আনাস (রাঃ) থেকে কাছাকাছি একটি বর্ণনা সহীহ বুখারীতে আছে।"
+          },
+          {
+            "en": "Al-Bukhari (7068) records az-Zubayr ibn 'Adi: we came to Anas ibn Malik and complained to him of what we were suffering from al-Hajjaj. He said: Be patient, for no time will come upon you but that the one after it is worse than it, until you meet your Lord. I heard it from your Prophet ﷺ. The narration is general and does not explain this verse. It sits beside it only as a reminder that the years do not grow easier for those who wait, and that the counsel Anas gave for them was patience.",
+            "bn": "বুখারী (৭০৬৮) যুবাইর ইবন আদীর বর্ণনা এনেছেন: আমরা আনাস ইবন মালিকের কাছে গেলাম এবং হাজ্জাজের হাতে যে কষ্ট পাচ্ছিলাম তার অভিযোগ করলাম। তিনি বললেন: সবর করো। কারণ তোমাদের উপর এমন কোনো সময় আসবে না, যার পরের সময় তার চেয়ে খারাপ নয়, যতক্ষণ না তোমরা তোমাদের রবের সঙ্গে সাক্ষাৎ করো। এ কথা আমি তোমাদের নবী ﷺ-এর কাছে শুনেছি। এটি একটি সাধারণ বর্ণনা, এ আয়াতের ব্যাখ্যা নয়। আয়াতের পাশে এর জায়গা কেবল এটুকু: অপেক্ষা করে থাকলে বছরগুলো সহজ হয়ে আসে না, আর সে বছরগুলোর জন্য আনাস (রাঃ) যে উপদেশ দিয়েছিলেন, তা হলো সবর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seized With Years of Want",
+          "bn": "অভাবের বছর দিয়ে পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "The Qur'an uses this pattern elsewhere, and its own verses sit close to Mujahid's reading. 7:130 says Allah seized the people of Pharaoh with years of famine and a shortage of fruits, la'allahum yadhdhakkarun, so that they might take heed: the very thing our verse says the hypocrites would not do. 6:42 and 6:43 describe nations seized with poverty and hardship so that they might humble themselves, then ask why, when the hardship reached them, they did not humble themselves, and answer that their hearts had hardened.",
+            "bn": "কুরআনের অন্য জায়গাতেও এই ধারা আছে, আর সে আয়াতগুলো মুজাহিদের ব্যাখ্যার খুব কাছাকাছি। ৭:১৩০ বলে, আল্লাহ ফিরআউনের লোকদের পাকড়াও করেছিলেন দুর্ভিক্ষের বছর আর ফলের ঘাটতি দিয়ে, লা‘আল্লাহুম ইয়াযযাক্কারূন, যাতে তারা উপদেশ নেয়। আমাদের আয়াত বলছে, মুনাফিকরা ঠিক এ কাজটাই করেনি। ৬:৪২ ও ৬:৪৩ বলে, আগের জাতিগুলোকে অভাব আর কষ্ট দিয়ে ধরা হয়েছিল, যাতে তারা বিনীত হয়। তারপর প্রশ্ন আসে, কষ্ট যখন এল, তখন তারা কেন বিনীত হলো না? উত্তরও দেওয়া হয়: তাদের অন্তর কঠিন হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "32:21 states the purpose outright: We will make them taste the nearer punishment before the greater punishment, so that perhaps they will return. And 29:2 uses our verse's own verb: do people think they will be left alone because they say we believe, and they will not be tried, wa hum la yuftanun? Ibn Kathir sets 61:5 beside the very next verse: when they swerved, Allah made their hearts swerve.",
+            "bn": "৩২:২১ উদ্দেশ্যটা সরাসরি বলে দেয়: বড় শাস্তির আগে আমি তাদের ছোট শাস্তির স্বাদ দেব, যাতে তারা ফিরে আসে। আর ২৯:২ আমাদের আয়াতের ক্রিয়াটিই ব্যবহার করে: মানুষ কি ভেবেছে, ‘ঈমান এনেছি’ বললেই তাদের ছেড়ে দেওয়া হবে, আর তাদের পরীক্ষা করা হবে না, ওয়া হুম লা ইউফতানূন? পরের আয়াতের পাশে ইবন কাসীর রাখেন ৬১:৫: তারা যখন বাঁকা পথ ধরল, আল্লাহ তাদের অন্তর বাঁকিয়ে দিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading Your Own Calendar",
+          "bn": "নিজের বছরের হিসাব"
+        },
+        "p": [
+          {
+            "en": "One thing first, and plainly. The verse describes the hypocrites of Madinah as the text describes them, and it licenses nothing against any living person or community. No living person may be named a hypocrite on the strength of this verse, whether because hardship keeps finding them or because they did not seem to change after it. Allah knew what was in those hearts and named it; the reader does not know what is in anyone's heart.",
+            "bn": "শুরুতেই একটা কথা সোজাসুজি বলা দরকার। আয়াতটি মদীনার মুনাফিকদের বর্ণনা দেয় ঠিক ততটুকু, যতটুকু পাঠে আছে। কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। এ আয়াতের জোরে কোনো জীবিত মানুষকে মুনাফিক বলা যাবে না। তার উপর বারবার বিপদ আসে বলে নয়, বিপদের পরে তাকে বদলাতে দেখা যায়নি বলেও নয়। ওই অন্তরগুলোতে কী ছিল, আল্লাহ জানতেন এবং তিনিই তা প্রকাশ করেছেন। পাঠক কারও অন্তরের খবর জানে না।"
+          },
+          {
+            "en": "The safer reading turns the question inward. As-Sa'di says Allah tests with ease and adversity so that people return to Him, and he draws from these verses that a believer should inspect his faith and tend it, renewing it and making it grow so that it is always rising. So ask it of yourself: do I not see that I am tried every year, once or twice? A diagnosis, a debt, a death in the family, a frightening piece of news: each is an invitation to the two things the hypocrites refused.",
+            "bn": "নিরাপদ পড়া হলো প্রশ্নটা নিজের দিকে ঘোরানো। সা'দী বলেন, আল্লাহ সচ্ছলতা আর দুর্দশা দিয়ে পরীক্ষা করেন, যাতে মানুষ তাঁর দিকে ফিরে আসে। এ আয়াতগুলো থেকে তিনি এ শিক্ষাও টানেন যে মু’মিনের উচিত নিজের ঈমানের খোঁজ রাখা, তার যত্ন নেওয়া, তাকে নতুন করে তোলা আর বাড়িয়ে চলা, যাতে তা সবসময় উপরের দিকে ওঠে। তাই নিজেকেই জিজ্ঞেস করুন: আমি কি দেখি না, প্রতি বছর একবার বা দুবার আমাকে পরীক্ষা করা হয়? কোনো রোগ ধরা পড়া, ঋণ, পরিবারে কারও মৃত্যু, ভয়ের কোনো খবর, প্রতিটিই সেই দুই কাজের ডাক, যা মুনাফিকরা ফিরিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "Those two things are small enough to do this week. Repentance for what is behind: name a specific sin to Allah, ask His forgiveness for it and leave it. Heed for what is ahead: before the hardship lifts, ask what it is reminding you of, and change one thing because of it. Keep in view the phrase al-Qurtubi records from 'Atiyya, illness as the forerunner of death. A trial answered that way has done what as-Sa'di says such trials are for: it has brought someone back to Him.",
+            "bn": "ওই দুই কাজ এ সপ্তাহেই করে ফেলার মতো ছোট। পেছনের জন্য তওবা: নির্দিষ্ট একটা গুনাহের নাম নিয়ে আল্লাহর কাছে মাফ চান, আর সেটা ছেড়ে দিন। সামনের জন্য উপদেশ: কষ্টটা সরে যাওয়ার আগেই নিজেকে জিজ্ঞেস করুন, এটা আমাকে কী মনে করিয়ে দিচ্ছে, আর তার জন্য অন্তত একটা জিনিস বদলান। কুরতুবী আতিয়্যা থেকে যে কথাটা এনেছেন, সেটা মনে রাখুন: অসুখ মৃত্যুর আগাম দূত। এভাবে সাড়া দেওয়া পরীক্ষা সেই কাজটা করে ফেলে, যার জন্য সা'দী বলেন পরীক্ষা আসে। একজন মানুষকে তা আল্লাহর কাছে ফিরিয়ে আনে।"
+          }
+        ]
+      }
+    ]
   }
 });
