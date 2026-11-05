@@ -3371,6 +3371,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:85": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question in Fourteen Words",
+          "bn": "চৌদ্দ শব্দে এক প্রশ্নোত্তর"
+        },
+        "p": [
+          {
+            "en": "Wa yas'alunaka 'ani r-ruh: and they ask you about the ruh. Say: the ruh is min amri rabbi, of my Lord's amr, and you have not been given of knowledge except a little. The verse is fourteen Arabic words. It sits between a verse about the Qur'an itself, sent down as healing and mercy for the believers (17:82), and a pair about what was revealed and could, if Allah willed, be taken back (17:86 and 17:87).",
+            "bn": "ওয়া ইয়াসআলূনাকা আনির রূহ: তারা তোমাকে রূহ সম্পর্কে জিজ্ঞেস করে। বল, রূহ মিন আমরি রব্বী, আমার রবের আমরের অন্তর্ভুক্ত। আর তোমাদের জ্ঞান দেওয়া হয়েছে সামান্যই। আরবিতে আয়াতটি চৌদ্দ শব্দের। এর আগে আছে কুরআন নিয়েই এক আয়াত, যা মু'মিনদের জন্য আরোগ্য ও রহমত হয়ে নাযিল হয় (১৭:৮২)। পরে আছে দুটি আয়াত, আল্লাহ চাইলে যে ওয়াহী দেওয়া হয়েছে তা ফিরিয়ে নিতে পারতেন (১৭:৮৬ ও ১৭:৮৭)।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes up why a question about the ruh should stand among verses about the Book. Some early commentators, it notes, read ruh here as revelation, the Qur'an, or Jibril who brought it, because the Qur'an is mentioned on both sides. Its own answer is different. The earlier verses had already recorded hostile questions put to test the Prophet's ﷺ claim to be Allah's messenger, and this question is one more link in that chain, so the passage stays coherent. Who asked it, and where, is a harder matter.",
+            "bn": "রূহ নিয়ে একটি প্রশ্ন কিতাব-সংক্রান্ত আয়াতগুলোর মাঝখানে কেন, মাআরিফুল কুরআন সে প্রশ্ন তোলে। সে জানায়, পূর্ববর্তী কয়েকজন তাফসীরকার এখানে রূহ বলতে ওয়াহী, কুরআন বা কুরআন বহনকারী জিবরীল (আঃ)-কে বুঝেছেন, কারণ আগে-পরে দুই দিকেই কুরআনের কথা। মাআরিফের নিজের জবাব অন্য। আগের আয়াতগুলোতেই এমন বৈরী প্রশ্নের কথা এসেছে, যেগুলো করা হয়েছিল নবী ﷺ-এর রিসালাতের দাবি যাচাই করতে। এ প্রশ্ন সেই শিকলেরই আরেকটি কড়া। তাই প্রসঙ্গ ছিন্ন হয়নি। কে প্রশ্নটা করেছিল আর কোথায়, সেটা আরও জটিল বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaning on a Palm-Stalk",
+          "bn": "খেজুরের ডালে ভর দিয়ে"
+        },
+        "p": [
+          {
+            "en": "In al-Bukhari (4721), Ibn Mas'ud said: \"While I was with the Prophet ﷺ in a field, and he was leaning on a palm-stalk, the Jews passed by. Some said to others, Ask him about the ruh. One said, What urges you to it? Some said, He may meet you with something you dislike. They said, Ask him. So they asked him about the ruh. The Prophet ﷺ held back and gave them no reply, and I knew that revelation was coming to him, so I stayed where I stood. When the revelation had come down, he said: And they ask you about the ruh,\" to the end of the verse.",
+            "bn": "বুখারীর বর্ণনায় (৪৭২১) ইবন মাসউদ (রাঃ) বলেন: \"আমি নবী ﷺ-এর সঙ্গে একটি ক্ষেতে ছিলাম। তিনি খেজুরের একটা ডালে ভর দিয়ে ছিলেন। এমন সময় ইহুদিরা পাশ দিয়ে যাচ্ছিল। তাদের কেউ কেউ অন্যদের বলল, তাঁকে রূহ সম্পর্কে জিজ্ঞেস কর। একজন বলল, এতে তোমাদের কী দরকার? কেউ কেউ বলল, তিনি হয়তো তোমাদের এমন কিছু শোনাবেন যা তোমাদের অপছন্দ। তারা বলল, জিজ্ঞেস কর। তারা তাঁকে রূহ সম্পর্কে জিজ্ঞেস করল। নবী ﷺ থেমে রইলেন, তাদের কোনো জবাব দিলেন না। আমি বুঝলাম, তাঁর উপর ওয়াহী আসছে। তাই আমি নিজের জায়গায় দাঁড়িয়ে রইলাম। ওয়াহী নাযিল হয়ে গেলে তিনি বললেন: আর তারা তোমাকে রূহ সম্পর্কে জিজ্ঞেস করে,\" আয়াতের শেষ পর্যন্ত।"
+          },
+          {
+            "en": "Muslim has the same report (2794), and al-Qurtubi notes two points in its wording: the Prophet ﷺ was silenced (fa-uskita), and the verse reads wa ma utu, and they have not been given. At-Tirmidhi's version (3141) places the field in Madina and says he stood a while and raised his head toward the sky until the revelation had passed; at-Tirmidhi grades it hasan sahih.",
+            "bn": "মুসলিমেও একই বর্ণনা আছে (২৭৯৪)। কুরতুবী তার শব্দে দুটি বিষয় লক্ষ করেন। সেখানে আছে, নবী ﷺ-কে নীরব করে দেওয়া হলো (ফা-উসকিতা), আর আয়াতের পাঠ সেখানে ওয়া মা উতূ, অর্থাৎ তাদের দেওয়া হয়নি। তিরমিযীর বর্ণনায় (৩১৪১) ক্ষেতটি মদীনায়। সেখানে আছে, তিনি কিছুক্ষণ দাঁড়িয়ে রইলেন, আকাশের দিকে মাথা তুললেন, যতক্ষণ না ওয়াহী শেষ হলো। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Madina, or Makka Before It?",
+          "bn": "মদীনা, নাকি তার আগে মক্কা?"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi (3140) has Ibn 'Abbas placing it in Makka: \"Quraysh said to the Jews: Give us something we can ask this man about. He said: Ask him about the ruh. So they asked him about the ruh, and Allah sent down: And they ask you about the ruh ... except a little. They said: We have been given much knowledge, the Torah, and whoever is given the Torah has been given much good. Then was sent down: Say: if the sea were ink for the words of my Lord, the sea would run out,\" to the end of the verse (18:109).",
+            "bn": "তিরমিযীর (৩১৪০) বর্ণনায় ইবন আব্বাস (রাঃ) ঘটনাটি মক্কায় রাখেন: \"কুরাইশ ইহুদিদের বলল, আমাদের এমন কিছু দাও, যা নিয়ে আমরা এ লোকটিকে প্রশ্ন করতে পারি। সে বলল, তাঁকে রূহ সম্পর্কে জিজ্ঞেস কর। তারা তাঁকে রূহ সম্পর্কে জিজ্ঞেস করল। তখন আল্লাহ নাযিল করলেন: আর তারা তোমাকে রূহ সম্পর্কে জিজ্ঞেস করে ... সামান্যই। তারা বলল, আমাদের তো অনেক জ্ঞান দেওয়া হয়েছে, তাওরাত। আর যাকে তাওরাত দেওয়া হয়েছে, তাকে অনেক কল্যাণ দেওয়া হয়েছে। তখন নাযিল হলো: বল, আমার রবের কথা লেখার জন্য সমুদ্র যদি কালি হয়, তবে সমুদ্র শেষ হয়ে যাবে,\" আয়াতের শেষ পর্যন্ত (১৮:১০৯)।"
+          },
+          {
+            "en": "At-Tirmidhi grades this report hasan sahih gharib by this route. Ibn Kathir sets the two side by side. Ibn Mas'ud's account, he says, would seem at first sight to make the verse Madinan, revealed when the Jews asked in Madina, although the whole surah is Makkan. He offers two answers: it may have been sent down to him in Madina a second time, as it had been in Makka before; or revelation came telling him to answer them with the verse already revealed. Ibn 'Abbas's report, which he cites from Ahmad, he takes as pointing to Makka.",
+            "bn": "তিরমিযী এ বর্ণনাকে এই সূত্রে হাসান সহীহ গারীব বলেছেন। ইবন কাসীর দুটি বর্ণনা পাশাপাশি রাখেন। তিনি বলেন, ইবন মাসউদ (রাঃ)-এর বর্ণনা প্রথম দেখায় মনে হয় আয়াতটি মাদানী, মদীনায় ইহুদিদের প্রশ্নের সময় নাযিল। অথচ গোটা সূরাটি মাক্কী। তিনি দুটি জবাব দেন। হতে পারে মক্কায় আগে নাযিল হওয়ার পর মদীনায় তা দ্বিতীয়বার নাযিল হয়েছিল। অথবা ওয়াহী এসে তাঁকে জানিয়েছিল, আগে নাযিল হওয়া আয়াত দিয়েই তাদের জবাব দিন। ইবন আব্বাস (রাঃ)-এর বর্ণনা তিনি আহমাদ থেকে উদ্ধৃত করেন, মক্কায় নাযিলের পক্ষে প্রমাণ হিসেবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an keeps the question open from the other side. It reports that Tafsir Mazhari prefers Ibn Mas'ud's account and so calls the verse Madinan, for two reasons: the report is in both Sahihs and stronger, and Ibn Mas'ud was present, while Ibn 'Abbas, too young at the time, would have heard it from someone. Al-Baghawi relays, as narrated from Ibn 'Abbas and without a chain, a longer Makkan story in which Quraysh send to the Jews of Madina and are given three questions, the ruh among them.",
+            "bn": "মাআরিফুল কুরআন অন্য দিক থেকে প্রশ্নটা খোলা রাখে। সে জানায়, তাফসীরে মাযহারী ইবন মাসউদ (রাঃ)-এর বর্ণনাকে অগ্রাধিকার দিয়ে আয়াতটিকে মাদানী বলেছে, দুই কারণে। এক, বর্ণনাটি বুখারী ও মুসলিম দুই সহীহতেই আছে, তাই অধিক শক্তিশালী। দুই, ইবন মাসউদ (রাঃ) নিজে ঘটনাস্থলে ছিলেন। আর ইবন আব্বাস (রাঃ) তখন ছোট, কারও কাছ থেকে শুনে থাকবেন। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণিত বলে, সনদ ছাড়া, মক্কার এক দীর্ঘ কাহিনি আনেন। কুরাইশ মদীনার ইহুদিদের কাছে লোক পাঠায়, আর ইহুদিরা তিনটি প্রশ্ন শিখিয়ে দেয়, যার একটি রূহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Soul, Angel or Book?",
+          "bn": "প্রাণ, ফেরেশতা, নাকি কিতাব?"
+        },
+        "p": [
+          {
+            "en": "What ruh means here is itself disputed. Al-Qurtubi says most of the people of interpretation held that they asked about the ruh by which the body lives, and that those given to reasoning among them took the question to be how it moves in the body and joins with it, which only Allah knows. Al-Baghawi calls the ruh set in creatures, by which a person lives, the more correct view. Ibn Kathir lists the spirits of the children of Adam first, citing al-'Awfi from Ibn 'Abbas: the Jews asked how the spirit in the body is punished. Ma'arif al-Qur'an calls this the majority view.",
+            "bn": "এখানে রূহ বলতে কী বোঝানো হয়েছে, সেটাই মতভেদের বিষয়। কুরতুবী বলেন, অধিকাংশ তাফসীরকারের মতে তারা জিজ্ঞেস করেছিল সেই রূহ সম্পর্কে, যার দ্বারা দেহ জীবিত থাকে। তাঁদের মধ্যে যুক্তিবিচারে অভ্যস্তরা বলেছেন, প্রশ্ন ছিল দেহে রূহ কীভাবে চলে, কীভাবে দেহের সঙ্গে মেশে। আর এ কথা আল্লাহ ছাড়া কেউ জানে না। বাগাভীর মতে অধিক সঠিক কথা হলো, এটি সৃষ্টির ভেতরে রাখা সেই রূহ, যার দ্বারা মানুষ বেঁচে থাকে। ইবন কাসীর প্রথমে আদমসন্তানের রূহের মতটি আনেন। প্রমাণ হিসেবে আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর কথা: ইহুদিরা জানতে চেয়েছিল, দেহের ভেতরের রূহকে কীভাবে শাস্তি দেওয়া হয়। মাআরিফুল কুরআন এটিকেই অধিকাংশের মত বলে।"
+          },
+          {
+            "en": "Others named an angel. At-Tabari gives Qatada: it is Jibril, and Qatada adds that Ibn 'Abbas used to keep this quiet; al-Baghawi has the Jibril view from Ibn 'Abbas, al-Hasan and Qatada. At-Tabari also has 'Ali ibn Abi Talha from Ibn 'Abbas: the ruh is an angel, a view Ibn Kathir describes as a great angel the size of all creation. A report from 'Ali gives that angel seventy thousand faces. Its chain in at-Tabari has an unnamed link; Ibn Kathir calls it a strange and wondrous report, and al-Qurtubi cites Ibn 'Atiyya doubting it is sound from 'Ali.",
+            "bn": "কেউ কেউ বলেছেন, এখানে রূহ একজন ফেরেশতা। তাবারী কাতাদার কথা আনেন: ইনি জিবরীল (আঃ)। কাতাদা আরও বলেন, ইবন আব্বাস (রাঃ) এ কথা প্রকাশ করতেন না। বাগাভী জিবরীলের মতটি আনেন ইবন আব্বাস (রাঃ), হাসান ও কাতাদা থেকে। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথাও আনেন: রূহ একজন ফেরেশতা। ইবন কাসীর এ মতকে বর্ণনা করেন এভাবে: সমগ্র সৃষ্টির সমান বিশাল এক ফেরেশতা। আলী (রাঃ)-এর নামে এক বর্ণনায় সেই ফেরেশতার সত্তর হাজার মুখ। তাবারীতে এর সনদে এক অজ্ঞাতনামা বর্ণনাকারী আছেন। ইবন কাসীর একে অদ্ভুত ও বিস্ময়কর বর্ণনা বলেছেন। কুরতুবী ইবন আতিয়্যার কথা আনেন, তিনি মনে করেন না যে এটি আলী (রাঃ) থেকে সহীহভাবে প্রমাণিত।"
+          },
+          {
+            "en": "Still others are listed. Al-Baghawi gives Mujahid: a creation in the form of humans, with hands, feet and heads, neither angels nor people, who eat food; al-Qurtubi has a similar line from Abu Salih. Both al-Qurtubi and al-Baghawi also record, without names, that the ruh here is the Qur'an, or 'Isa (AS). Al-Baghawi lists attempts to define it, as blood, breath or a subtle body, and sets them aside: the most fitting position is to leave its knowledge to Allah. At-Tabari names the Jibril and angel views and does not choose here, saying he explained ruh elsewhere in his book.",
+            "bn": "আরও কিছু মত আছে। বাগাভী মুজাহিদের কথা আনেন: এরা মানুষের আকৃতির এক সৃষ্টি, তাদের হাত, পা ও মাথা আছে, তারা খাবার খায়, তবে না ফেরেশতা, না মানুষ। কুরতুবী আবূ সালিহ থেকে প্রায় একই কথা আনেন। কুরতুবী ও বাগাভী দুজনেই কারও নাম ছাড়া আরও দুটি মত উল্লেখ করেন: এখানে রূহ মানে কুরআন, অথবা ঈসা (আঃ)। এরপর বাগাভী জীবন্ত রূহের সংজ্ঞা দেওয়ার কয়েকটি চেষ্টার কথা বলেন। কেউ বলেছেন রক্ত, কেউ শ্বাস, কেউ সূক্ষ্ম দেহ। তিনি এগুলো সরিয়ে রাখেন। তাঁর মতে সবচেয়ে উপযুক্ত অবস্থান হলো, এর জ্ঞান আল্লাহর উপর ছেড়ে দেওয়া। তাবারী জিবরীল ও ফেরেশতার মত দুটি উল্লেখ করেন, এখানে কোনোটিকে বেছে নেন না। তিনি বলেন, রূহের অর্থ তিনি তাঁর গ্রন্থের অন্য জায়গায় ব্যাখ্যা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept in His Knowledge",
+          "bn": "যে জ্ঞান তিনি নিজের কাছে রেখেছেন"
+        },
+        "p": [
+          {
+            "en": "Then min amri rabbi. At-Tabari reads it as of the matter Allah knows apart from you: you do not know it, and He knows what it is. Ibn Kathir: of His affair, among the things He has kept the knowledge of to Himself. The Muyassar says the reality of the ruh and its states are among what Allah has kept to Himself. Al-Qurtubi holds that the sound position is to leave it unexplained: a great affair of Allah's, left without detail, so that a person knows for certain he cannot grasp the reality of his own self, while knowing it exists.",
+            "bn": "এরপর মিন আমরি রব্বী। তাবারীর ব্যাখ্যা: এটি সেই বিষয়ের অন্তর্ভুক্ত, যা আল্লাহ জানেন, তোমরা নও। তোমরা তা জানো না, তিনিই জানেন সেটা কী। ইবন কাসীর বলেন: তাঁর ব্যাপার, যার জ্ঞান তিনি তোমাদের বাদ দিয়ে নিজের কাছে রেখেছেন। মুয়াসসার বলে, রূহের প্রকৃত স্বরূপ ও তার অবস্থা সেসব বিষয়ের মধ্যে, যার জ্ঞান আল্লাহ নিজের জন্য রেখেছেন। কুরতুবীর মতে সঠিক হলো বিষয়টিকে অব্যাখ্যাত রাখা। এটি আল্লাহর এক মহান ব্যাপার, যার খুঁটিনাটি তিনি খুলে বলেননি। উদ্দেশ্য, মানুষ নিশ্চিতভাবে জানুক যে নিজের অস্তিত্ব জেনেও সে নিজের স্বরূপ বুঝতে অক্ষম।"
+          },
+          {
+            "en": "Al-Qurtubi draws the conclusion himself: if a person is this way with knowing his own self, he is all the more unable to grasp the reality of the Real, and the wisdom is that reason, unable to know a created thing right beside it, is shown to be still less able to know its Creator. As-Sa'di reads amr differently: the ruh is among His creations, which He commanded to be, and they were. Ma'arif al-Qur'an, from Tafsir Mazhari, takes the same line further: it is not made from matter and procreation like ordinary things, but directly by the command kun, be.",
+            "bn": "কুরতুবী নিজেই উপসংহার টানেন। নিজের সত্তা চেনার বেলায় মানুষ যদি এমন হয়, তবে মহাসত্য আল্লাহর স্বরূপ বোঝায় সে আরও বেশি অক্ষম। এর হিকমত হলো, পাশে থাকা এক সৃষ্টিকেই যে বুদ্ধি চিনতে পারে না, সে তার স্রষ্টাকে চিনতে আরও বেশি অক্ষম, এটা দেখিয়ে দেওয়া। সা'দী আমর শব্দটি অন্যভাবে পড়েন। তাঁর মতে রূহ আল্লাহর সৃষ্টির অন্তর্ভুক্ত, যাকে তিনি হতে আদেশ করেছেন, আর তা হয়ে গেছে। মাআরিফুল কুরআন তাফসীরে মাযহারী থেকে কথাটা আরেকটু এগিয়ে নেয়। সাধারণ জিনিসের মতো রূহ পদার্থ বা প্রজনন থেকে তৈরি নয়। সরাসরি কুন, হও, এই আদেশে তা সৃষ্ট।"
+          },
+          {
+            "en": "Was it known to anyone? Al-Baghawi cites 'Abdullah ibn Burayda: Allah did not disclose the ruh to an angel brought near or a prophet sent. He also records, under it is said, that the Prophet ﷺ knew what the ruh is but told no one, and judges the first view more correct, because Allah kept its knowledge to Himself. Ma'arif al-Qur'an takes the other side: the verse neither denies nor affirms such knowledge, and if a prophet were given it by revelation, that would not contradict the verse. Ibn Kathir reports as-Suhayli reading amr as His shari'a, and says that path is open to question.",
+            "bn": "কেউ কি এটা জানতেন? বাগাভী আবদুল্লাহ ইবন বুরাইদার কথা আনেন: আল্লাহ রূহের বিষয়ে কোনো নৈকট্যপ্রাপ্ত ফেরেশতাকে বা কোনো প্রেরিত নবীকে অবহিত করেননি। তিনি 'বলা হয়' বলে আরেকটি মতও আনেন: নবী ﷺ রূহের স্বরূপ জানতেন, কিন্তু কাউকে বলেননি। বাগাভী প্রথম মতটিকে অধিক সঠিক বলেন, কারণ আল্লাহ এর জ্ঞান নিজের কাছে রেখেছেন। মাআরিফুল কুরআন অন্য দিকে দাঁড়ায়। তার মতে আয়াত এমন জ্ঞানকে না অস্বীকার করে, না সাব্যস্ত করে। কোনো নবীকে ওয়াহীর মাধ্যমে তা জানানো হলে আয়াতের সঙ্গে বিরোধ হয় না। ইবন কাসীর জানান, সুহাইলী আমর বলতে আল্লাহর শরীয়ত বুঝেছেন। ইবন কাসীরের মন্তব্য, এ পথ প্রশ্নসাপেক্ষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Little, Said to Whom?",
+          "bn": "সামান্য জ্ঞান, কাদের উদ্দেশে?"
+        },
+        "p": [
+          {
+            "en": "Wa ma utitum mina l-'ilmi illa qalila: who is the you? At-Tabari reports two positions. Some said it meant the questioners and all other people with them, because when Arabs join an absent party to the person addressed, they phrase the whole as address; Ibn Jurayj glossed it: O Muhammad, and all people. Others said it meant the questioners alone, and Qatada said: meaning the Jews. At-Tabari's own choice is that the words address those addressed but mean all creation, because the knowledge of everyone besides Allah, however much, is little within Allah's knowledge.",
+            "bn": "ওয়া মা উতীতুম মিনাল ইলমি ইল্লা কালীলা: এখানে তোমাদের বলতে কারা? তাবারী দুটি মত আনেন। কেউ বলেছেন, প্রশ্নকারীরা এবং তাদের সঙ্গে বাকি সব মানুষ। কারণ আরবরা যখন উপস্থিত শ্রোতার সঙ্গে অনুপস্থিত কাউকে জুড়ে দেয়, তখন পুরো কথাটাই সম্বোধনের রূপে বলে। ইবন জুরাইজের ব্যাখ্যা: হে মুহাম্মাদ, এবং সব মানুষ। অন্যরা বলেছেন, শুধু প্রশ্নকারীরা। কাতাদা বলেন: অর্থাৎ ইহুদিরা। তাবারীর নিজের পছন্দ হলো, কথাটা যাদের সম্বোধন করা হয়েছে তাদের উদ্দেশেই, তবে উদ্দেশ্য সমগ্র সৃষ্টি। কারণ আল্লাহ ছাড়া যে কারও জ্ঞান, যত বেশিই হোক, আল্লাহর জ্ঞানের তুলনায় সামান্য।"
+          },
+          {
+            "en": "Al-Qurtubi counts three positions. A first group said the askers only. Others said the Jews as a whole, which matches Ibn Mas'ud's reading wa ma utu, and they have not been given, which he narrated from the Prophet ﷺ. A third group said the whole world, and al-Qurtubi calls this correct, resting on the majority reading utitum.",
+            "bn": "কুরতুবী তিনটি মত গণনা করেন। একদল বলেছেন, শুধু প্রশ্নকারীরা। আরেক দল বলেছেন, সামগ্রিকভাবে ইহুদিরা। এর সঙ্গে মেলে ইবন মাসউদ (রাঃ)-এর পাঠ, ওয়া মা উতূ, অর্থাৎ তাদের দেওয়া হয়নি। এ পাঠ তিনি নবী ﷺ থেকে বর্ণনা করেছেন। তৃতীয় দল বলেছেন, সমগ্র জগৎ। কুরতুবী একেই সঠিক বলেন, আর এর ভিত্তি অধিকাংশের পাঠ উতীতুম।"
+          },
+          {
+            "en": "That objection appears in the reports as well. At-Tabari gives 'Ikrima: the People of the Book said, you claim we were given only a little, when we were given the Torah, which is wisdom, and whoever is given wisdom has been given much good (2:269); then 31:27 came down, on trees as pens and seven seas of ink. 'Ikrima's gloss: the knowledge by which Allah saved you from the Fire is much and good, and within Allah's knowledge it is little. The Tirmidhi report above names 18:109 instead. The two keep their different verses.",
+            "bn": "এ আপত্তির কথা বর্ণনাতেও আছে। তাবারী ইকরিমার কথা আনেন। আহলে কিতাব বলল, তুমি দাবি কর আমাদের সামান্যই দেওয়া হয়েছে, অথচ আমাদের দেওয়া হয়েছে তাওরাত, আর তা-ই হিকমত। আর যাকে হিকমত দেওয়া হয়, তাকে অনেক কল্যাণ দেওয়া হয় (২:২৬৯)। তখন ৩১:২৭ নাযিল হলো, গাছ কলম হলে আর সাতটি সমুদ্র কালি হলেও আল্লাহর কথা শেষ না হওয়ার আয়াত। ইকরিমার ব্যাখ্যা: যে জ্ঞান দিয়ে আল্লাহ তোমাদের জাহান্নাম থেকে বাঁচিয়েছেন, তা অনেক, উত্তম। আর আল্লাহর জ্ঞানের ভেতরে তা সামান্য। উপরের তিরমিযীর বর্ণনায় অবশ্য ১৮:১০৯ আয়াতের নাম আছে। দুটি বর্ণনায় দুটি ভিন্ন আয়াত, সেভাবেই থাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report, Not a Verdict",
+          "bn": "ঘটনার বর্ণনা, কারও বিরুদ্ধে রায় নয়"
+        },
+        "p": [
+          {
+            "en": "The Muyassar and as-Sa'di describe the asking as ta'annut, a question put to trap rather than to learn. Yet the reports themselves show the questioners divided, some urging the question and others saying leave him be. The verse records one question, put by particular people at a particular time, and the answer given. It describes what the text describes, and licenses nothing against any living person or community, Jews today included. And on the reading at-Tabari and al-Qurtubi prefer, the little in a little knowledge belongs to all creation, the reader of this page among them.",
+            "bn": "মুয়াসসার ও সা'দী এ প্রশ্নকে তাআন্নুত বলেছেন, অর্থাৎ শেখার জন্য নয়, ফাঁদে ফেলার জন্য করা প্রশ্ন। অথচ বর্ণনাগুলোই দেখায়, প্রশ্নকারীরা নিজেরাও একমত ছিল না। কেউ প্রশ্ন করতে চাপ দিচ্ছিল, কেউ বলছিল তাঁকে ছেড়ে দাও। আয়াতটি নির্দিষ্ট সময়ে নির্দিষ্ট কিছু মানুষের করা একটি প্রশ্ন আর তার জবাবের কথা বলে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের ইহুদিসহ কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আর তাবারী ও কুরতুবীর পছন্দের ব্যাখ্যায় সামান্য জ্ঞানের কথাটা গোটা সৃষ্টির, এ লেখার পাঠকও তার বাইরে নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Knowing Has to Stop",
+          "bn": "যেখানে জানা থামে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di finds a rule of teaching in the reply. The verse checks the one who asks questions only to trap or to defeat, and leaves aside what matters, and it shows that when someone is asked about a thing when something else would serve the asker better, he may turn from answering and point him to what he needs and what will benefit him. Ma'arif al-Qur'an reports al-Jassas drawing a similar ruling: a scholar need not answer every question in every aspect, though a person who must act on a matter must be answered.",
+            "bn": "সা'দী এ জবাবে শিক্ষাদানের একটি নীতি খুঁজে পান। আয়াতটি তাকে থামিয়ে দেয়, যে শুধু ফাঁদে ফেলতে বা হারাতে প্রশ্ন করে, আর জরুরি বিষয় বাদ রাখে। আয়াত আরও দেখায়, কাউকে যদি এমন বিষয়ে প্রশ্ন করা হয়, যার চেয়ে অন্য কিছু প্রশ্নকারীর জন্য বেশি উপকারী, তবে তিনি জবাব না দিয়ে তাকে প্রয়োজনীয় ও উপকারী বিষয়ের দিকে পথ দেখাতে পারেন। মাআরিফুল কুরআন জাসসাসের একই ধরনের একটি সিদ্ধান্ত উল্লেখ করে। আলেমের জন্য প্রতিটি প্রশ্নের প্রতিটি দিকের জবাব দেওয়া জরুরি নয়। তবে কাউকে যদি কোনো বিষয়ে আমল করতেই হয়, তাকে জবাব দিতে হবে।"
+          },
+          {
+            "en": "Ibn Kathir adds an image he says will come in the story of Musa (AS) and al-Khadir, given by its sense and not attached to this verse: a sparrow dips its beak once into the sea, and al-Khadir says that his knowledge, Musa's and all creation's, beside Allah's knowledge is like what the bird took. The ruh is the nearest thing a person has, and its reality stays with Allah. What He did give is enough to act on, and 'Ikrima called it much when it saves from the Fire.",
+            "bn": "ইবন কাসীর এখানে একটি দৃশ্য আনেন, যা তিনি বলেন মূসা (আঃ) ও খিযিরের কাহিনিতে আসবে। তিনি কথাটা এনেছেন মর্ম অনুযায়ী, আর তা এ আয়াতের সঙ্গে যুক্ত বর্ণনা নয়। একটি চড়ুই সমুদ্রে একবার ঠোঁট ডোবায়। খিযির বলেন, আমার জ্ঞান, তোমার জ্ঞান আর গোটা সৃষ্টির জ্ঞান আল্লাহর জ্ঞানের পাশে ততটুকু, যতটুকু পাখিটা তুলে নিল। রূহ মানুষের সবচেয়ে কাছের জিনিস, অথচ তার স্বরূপ আল্লাহর কাছেই থাকে। তিনি যা দিয়েছেন, আমলের জন্য তা যথেষ্ট। ইকরিমা বলেছেন, যে জ্ঞান জাহান্নাম থেকে বাঁচায়, তা অনেক।"
+          }
+        ]
+      }
+    ]
+  },
   "17:90": {
     "sections": [
       {

@@ -22691,6 +22691,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Learn to recognise Satan's voice, keep his share out of your wealth and your children, and do not lean on his promises: they end in nothing but delusion.",
     "lessonBn": "শয়তানের আওয়াজ চিনতে শিখুন, আপনার সম্পদ ও সন্তানে তার ভাগ ঢুকতে দেবেন না, আর তার প্রতিশ্রুতির উপর ভরসা করবেন না: তার শেষ শুধুই ধোঁকা।"
+  },
+  "17:85": {
+    "reflectionEn": "They ask about the spirit, and the answer is a single line: the spirit is of my Lord's command. Then the verse turns the question back on the one asking. You have been given of knowledge only a little. I carry a spirit in every moment of my life, and I cannot say what it is. That is not a gap to be ashamed of; it is a place to stand. If the thing nearest to me is beyond me, how much of everything else do I really hold? The verse does not forbid asking. It asks what my questions are for, and whether I can say I don't know without feeling smaller for it.",
+    "reflectionBn": "তারা রূহ সম্পর্কে জিজ্ঞেস করে, আর জবাব আসে মাত্র এক লাইনে: রূহ আমার রবের আদেশের অন্তর্ভুক্ত। তারপর আয়াত প্রশ্নটা ফিরিয়ে দেয় প্রশ্নকারীর দিকেই। তোমাদের জ্ঞান দেওয়া হয়েছে সামান্যই। জীবনের প্রতিটি মুহূর্ত আমি নিজের ভেতরে একটা রূহ বয়ে বেড়াই, অথচ বলতে পারি না সেটা কী। এ অজ্ঞতা লজ্জার জায়গা নয়, বরং পা রাখার জায়গা। যে জিনিস আমার সবচেয়ে কাছে, সেটাই যদি আমার নাগালের বাইরে থাকে, তবে বাকি সবকিছুর কতটুকুই বা আমি সত্যি জানি? আয়াত প্রশ্ন করতে নিষেধ করে না। সে জানতে চায়, আমার প্রশ্নগুলো আসলে কিসের জন্য। আর ছোট হয়ে যাওয়ার ভয় ছাড়া আমি কি বলতে পারি, আমি জানি না?",
+    "pointsEn": [
+      "What do I actually know about my own spirit, and how often do I speak as if I knew far more about far bigger things?",
+      "Which of my questions this month were asked to learn, and which were asked to win, to corner or to show off?",
+      "When did I last say a plain 'I don't know', without dressing it up or changing the subject?",
+      "Has what I have learned made me humbler before Allah, or only quicker to argue with people?",
+      "If my share of knowledge is little, what is the one thing in it that I most need to act on today?"
+    ],
+    "pointsBn": [
+      "নিজের রূহ সম্পর্কে আমি আসলে কতটুকু জানি? অথচ এর চেয়ে কত বড় বড় বিষয়ে আমি এমনভাবে কথা বলি, যেন সব জানি।",
+      "এ মাসে আমার কোন প্রশ্নগুলো ছিল শেখার জন্য, আর কোনগুলো ছিল তর্কে জেতা, কাউকে কোণঠাসা করা বা নিজেকে জাহির করার জন্য?",
+      "শেষ কবে আমি কথা না ঘুরিয়ে, কোনো সাজসজ্জা ছাড়া সোজাসুজি বলেছি, আমি জানি না?",
+      "যা শিখেছি তা কি আমাকে আল্লাহর সামনে আরও বিনয়ী করেছে, নাকি মানুষের সঙ্গে তর্কে শুধু আরও তৎপর বানিয়েছে?",
+      "আমার জ্ঞান যদি সামান্যই হয়, তবে তার মধ্যে কোন একটি কথার উপর আজই আমল করা আমার সবচেয়ে বেশি দরকার?"
+    ],
+    "lessonEn": "Whatever you know is little beside Allah's knowledge. Ask in order to learn, act on what you have been given, and leave with Him what He has kept to Himself.",
+    "lessonBn": "আপনি যা-ই জানুন, আল্লাহর জ্ঞানের পাশে তা সামান্য। প্রশ্ন করুন শেখার জন্য, যা পেয়েছেন তার উপর আমল করুন, আর যে জ্ঞান তিনি নিজের কাছে রেখেছেন তা তাঁর কাছেই ছেড়ে দিন।"
   }
 };
 
