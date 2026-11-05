@@ -21171,6 +21171,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Asking to be let off often grows out of an unsettled heart; find the doubt you keep circling and settle it, instead of living inside it.",
     "lessonBn": "অব্যাহতি চাওয়ার পেছনে প্রায়ই থাকে অস্থির এক অন্তর। যে সন্দেহের চারপাশে বারবার ঘুরছেন, তার ভেতরে বাস না করে সেটার মীমাংসা করুন।"
+  },
+  "9:61": {
+    "reflectionEn": "They had a plan, and it rested on his kindness. Say what you like about him; if word reaches him, come back, swear, and he will accept it, because he is all ear. The verse does not deny that he listens. It turns the insult around: yes, an ear, but an ear of good, one that believes in Allah, gives credit to the believers, and is a mercy to those who believe. His gentleness was never blindness. Leaving a lie unanswered to its face is not the same as believing it. I ask which side of this I stand on. Do I lean on someone's patience to get away with what I said? And when I listen, is it good that finds its way in?",
+    "reflectionBn": "ওদের একটা ফন্দি ছিল, আর ফন্দিটা দাঁড়িয়ে ছিল তাঁর কোমলতার উপর। তাঁর সম্পর্কে যা খুশি বলো। কথা কানে পৌঁছালে ফিরে গিয়ে কসম খেয়ে নিলেই হলো, তিনি মেনে নেবেন, তিনি তো কান-সর্বস্ব মানুষ। আয়াতটি তাঁর শোনার কথা অস্বীকার করে না। বরং অপবাদটাই উল্টে দেয়: হ্যাঁ, তিনি কান, তবে কল্যাণের কান। তিনি আল্লাহর উপর ঈমান রাখেন, মুমিনদের কথা সত্য বলে মানেন, আর ঈমানদারদের জন্য তিনি রহমত। তাঁর কোমলতা কখনো অন্ধত্ব ছিল না। মুখের উপর মিথ্যার জবাব না দেওয়া আর মিথ্যাকে বিশ্বাস করা এক জিনিস নয়। নিজেকে জিজ্ঞেস করি, আমি কোন পাশে দাঁড়িয়ে আছি? যা বলে ফেলেছি তা থেকে পার পেতে কি কারও ধৈর্যের উপর ভর দিই? আর যখন শুনি, তখন আমার কানে কি ভালোটাই ঢোকে?",
+    "pointsEn": [
+      "Whose gentleness have I treated as a weakness, assuming they would simply let it pass?",
+      "When I said something about a person behind their back, had I already planned my excuse before I said it?",
+      "Am I an ear of good, or does every report about other people find an easy way in with me?",
+      "Do I give my trust to people known for truthfulness and slow down for the rest, or believe whoever speaks first?",
+      "When someone kindly lets my excuse pass, do I take it as being believed, or as being spared?"
+    ],
+    "pointsBn": [
+      "কার কোমলতাকে আমি দুর্বলতা ভেবেছি, ধরে নিয়েছি যে সে চুপচাপ ছেড়ে দেবে?",
+      "কারও অগোচরে তার সম্পর্কে কিছু বলার সময় আমি কি আগে থেকেই অজুহাতটা গুছিয়ে রেখেছিলাম?",
+      "আমি কি কল্যাণের কান, নাকি অন্যদের নিয়ে যেকোনো খবর আমার কাছে সহজেই জায়গা পেয়ে যায়?",
+      "সত্যবাদী বলে যারা পরিচিত, আমি কি তাদের কথায় আস্থা রাখি আর বাকিদের বেলায় একটু থামি? নাকি যে আগে বলে তাকেই বিশ্বাস করে ফেলি?",
+      "কেউ দয়া করে আমার অজুহাত মেনে নিলে আমি কি ধরে নিই যে আমাকে বিশ্বাস করা হয়েছে, নাকি বুঝি যে আমাকে রেহাই দেওয়া হয়েছে?"
+    ],
+    "lessonEn": "Do not mistake a person's gentleness for gullibility, and be an ear of good yourself: credit the truthful, and give gossip no room to settle.",
+    "lessonBn": "কারও কোমলতাকে সরলতা ভেবে ভুল করবেন না। নিজেও কল্যাণের কান হোন: সত্যবাদীর কথায় আস্থা রাখুন, আর কানকথাকে মনে ঠাঁই দেবেন না।"
   }
 };
 

@@ -1927,6 +1927,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "Another Group Among Them",
+          "bn": "ওদের মধ্যে আরেক দল"
+        },
+        "p": [
+          {
+            "en": "Wa minhum, and among them. The same two words opened 9:58, where some of the hypocrites found fault with the Prophet ﷺ over the charities, and 9:60 then set out where the charities go. Now a second group is brought forward with the same phrase. At-Tabari reads it as a party of these hypocrites who harm the Messenger of Allah ﷺ and find fault with him. The Muyassar and Ibn Kathir name the means in one word: they harmed him bi-l-kalam, with speech.",
+            "bn": "ওয়া মিনহুম, আর তাদের মধ্যে। ঠিক এই দুই শব্দেই ৯:৫৮ শুরু হয়েছিল। সেখানে মুনাফিকদের কেউ কেউ সদাকা বণ্টন নিয়ে নবী ﷺ-এর দোষ ধরত, আর ৯:৬০ এরপর ঠিক করে দেয় সদাকা কোথায় যাবে। এবার একই কথায় সামনে আসে আরেক দল। তাবারী বলেন, এরা ঐ মুনাফিকদেরই একটা অংশ, যারা আল্লাহর রসূল ﷺ-কে কষ্ট দিত আর তাঁর খুঁত ধরত। কষ্টটা কী দিয়ে, মুয়াসসার আর ইবন কাসীর এক শব্দে বলে দেন: বিল-কালাম, কথা দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di widens the picture: they harmed him with base words and with fault-finding aimed at him and at his religion. Then comes the phrase that gives the verse its subject, wa yaquluna huwa udhun, and they say: he is an ear. As-Sa'di explains why they were so careless about what they said. They told one another that if any of it reached him, they would come and apologise, and he would accept it, because he takes whatever he is told and cannot tell the truthful from the liar.",
+            "bn": "সা'দী ছবিটা আরও বড় করেন। তারা নোংরা কথা বলে তাঁকে কষ্ট দিত, আর তাঁর ও তাঁর দ্বীনের খুঁত ধরত। এরপর আসে সেই বাক্য, যা আয়াতের মূল বিষয়: ওয়া ইয়াকূলূনা হুওয়া উযুন, আর তারা বলে, তিনি তো একটা কান। কথাবার্তায় তারা এত বেপরোয়া ছিল কেন, সা'দী তার কারণও বলেন। নিজেদের মধ্যে তারা বলাবলি করত, এর কিছু তাঁর কানে গেলে আমরা গিয়ে ওজর পেশ করব, তিনি মেনে নেবেন। কারণ তাঁকে যা বলা হয় তিনি সবই গ্রহণ করেন, সত্যবাদী আর মিথ্যাবাদীর তফাত ধরতে পারেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Huwa Udhun Meant",
+          "bn": "'তিনি কান' কথাটির মানে"
+        },
+        "p": [
+          {
+            "en": "Udhun is the ordinary word for the ear, here used for a whole person. Al-Qurtubi cites al-Jawhari: a man is called udhun when he listens to what everyone says, and the word stays the same for one or many. Al-Baghawi says it is used of someone who hears all that is said to him and accepts it, and traces it to adhina ya'dhanu, to listen. Al-Qurtubi adds that the word was read both with the dhal voweled and with it silent, udhun and udhn.",
+            "bn": "উযুন সাধারণ অর্থে কান, এখানে পুরো একজন মানুষকে বোঝাতে ব্যবহৃত। কুরতুবী জাওহারীর কথা আনেন: যে সবার সব কথা শোনে, তাকে বলা হয় রাজুলুন উযুন। শব্দটা একজন বা বহুজন, সবার বেলায় একই থাকে। বাগাভী বলেন, যাকে যা বলা হয় সবই শোনে আর মেনে নেয়, তার জন্য শব্দটা বলা হয়। মূল তিনি খুঁজে পান আযিনা ইয়া'যানু থেকে, যার মানে কান পেতে শোনা। কুরতুবী আরও জানান, শব্দটা দুইভাবে পড়া হয়েছে: যালে পেশ দিয়ে উযুন, আর যাল সাকিন করে উয্ন।"
+          },
+          {
+            "en": "The early explanations agree on the sense. 'Ali ibn Abi Talha reports from Ibn Abbas (RA), in al-Qurtubi, that huwa udhun means a listener who accepts; at-Tabari's line through the same chain has 'he hears from everyone.' Qatada, in at-Tabari, gives their words as 'nothing is reported to him about us but he is an ear that hears what is said to him.' Mujahid supplies the plan behind the jibe: 'We say what we like, then swear to him, and he believes us.' Ibn Kathir says this meaning is reported from all three.",
+            "bn": "প্রথম যুগের ব্যাখ্যাগুলো অর্থের ব্যাপারে একমত। কুরতুবীতে আলী ইবন আবী তালহা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, হুওয়া উযুন মানে এমন শ্রোতা যে মেনে নেয়। একই সূত্রে তাবারীর বর্ণনায় আছে: সে সবার কাছ থেকে শোনে। তাবারীতে কাতাদা তাদের কথাটা এভাবে দেন: আমাদের সম্পর্কে তাঁকে যা-ই বলা হোক, তিনি তো এক কান, যা বলা হয় তা-ই শোনেন। খোঁচার পেছনের ফন্দিটা খুলে দেন মুজাহিদ: আমরা যা খুশি বলব, তারপর তাঁর সামনে কসম খাব, আর তিনি আমাদের বিশ্বাস করবেন। ইবন কাসীর বলেন, এই অর্থ তিনজনের কাছ থেকেই বর্ণিত।"
+          },
+          {
+            "en": "At-Tabari supports the root with a saying of the Prophet ﷺ, cited without a chain, on how Allah adhina, listens. His editor traces it to Sahih Muslim from Abu Hurayrah (RA). In Muslim's collection, 792, the English rendering reads: 'God has not listened to anything as He listens to a Prophet reciting the Qur'an in a sweet voice.' It is cited only for the meaning of the verb and is not about this verse. No tafsir read here attaches a sound hadith to 9:61 itself.",
+            "bn": "শব্দমূলের পক্ষে তাবারী নবী ﷺ-এর একটা বাণী আনেন, সনদ ছাড়া, যেখানে আছে আল্লাহ কীভাবে আযিনা, অর্থাৎ কান পেতে শোনেন। তাঁর সম্পাদক দেখিয়েছেন, হাদীসটি সহীহ মুসলিমে আবু হুরায়রা (রাঃ) থেকে বর্ণিত। মুসলিমের ৭৯২ নম্বরের ইংরেজি অনুবাদে আছে: সুমধুর কণ্ঠে কুরআন পাঠরত নবীকে আল্লাহ যেভাবে শোনেন, আর কোনো কিছুকে তিনি সেভাবে শোনেননি। হাদীসটি এখানে শুধু ক্রিয়াপদের অর্থ বোঝাতে এসেছে, এই আয়াত নিয়ে নয়। এখানে পড়া কোনো তাফসীর ৯:৬১ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Names, None Settled",
+          "bn": "তিনটি নাম, মীমাংসা হয়নি কোনোটির"
+        },
+        "p": [
+          {
+            "en": "Who said it? At-Tabari says only that it is mentioned that the verse came down about Nabtal ibn al-Harith, then gives the report of Ibn Ishaq, whose own words are: the one who said that, as it reached me, was Nabtal ibn al-Harith, of Banu 'Amr ibn 'Awf. His saying, in that report, was: Muhammad is an ear; whoever tells him something, he believes it. 'As it reached me' is Ibn Ishaq's own signal that he gives no chain for it.",
+            "bn": "কথাটা বলেছিল কে? তাবারী শুধু এটুকু বলেন যে, উল্লেখ আছে আয়াতটি নাবতাল ইবনুল হারিস সম্পর্কে নাযিল হয়েছে। এরপর তিনি আনেন ইবন ইসহাকের বর্ণনা। ইবন ইসহাকের নিজের ভাষায়: আমার কাছে যতটুকু পৌঁছেছে, যে ঐ কথা বলত সে নাবতাল ইবনুল হারিস, বনু আমর ইবন আওফের লোক। ঐ বর্ণনায় তার কথাটা ছিল: মুহাম্মাদ তো একটা কান, কেউ তাঁকে কিছু বললেই তিনি বিশ্বাস করেন। 'আমার কাছে যতটুকু পৌঁছেছে' কথাটা দিয়ে ইবন ইসহাক নিজেই জানিয়ে দেন যে এর কোনো সনদ তিনি দিচ্ছেন না।"
+          },
+          {
+            "en": "Al-Qurtubi names someone else first, and gives no source: the verse came down about 'Attab ibn Qushayr, who said that Muhammad is an ear that accepts everything said to him. Then, under 'it is said,' he gives Nabtal, attributing that to Ibn Ishaq. Al-Baghawi, also without a chain, describes a group of hypocrites, one of whom warned the rest that word might reach him. Al-Julas ibn Suwayd answered that they would say what they liked, then go to him, deny it and swear, and be believed. He then adds Ibn Ishaq's report on Nabtal.",
+            "bn": "কুরতুবী প্রথমে অন্য একজনের নাম আনেন, কোনো সূত্র ছাড়াই। তাঁর ভাষ্যে আয়াতটি নাযিল হয়েছে আত্তাব ইবন কুশাইর সম্পর্কে, যে বলেছিল, মুহাম্মাদ তো কান, তাঁকে যা বলা হয় সবই মেনে নেন। এরপর 'বলা হয়' বলে তিনি নাবতালের নাম দেন, ইবন ইসহাকের বরাতে। বাগাভীও সনদ ছাড়া মুনাফিকদের একটা দলের কথা বলেন। তাদের একজন বাকিদের সাবধান করেছিল, কথা তাঁর কানে পৌঁছে যেতে পারে। জুলাস ইবন সুওয়াইদ জবাব দিল: আমরা যা খুশি বলব, তারপর তাঁর কাছে গিয়ে অস্বীকার করব, কসম খাব, তিনি বিশ্বাস করবেন। এরপর বাগাভী নাবতাল সম্পর্কে ইবন ইসহাকের বর্ণনাও যোগ করেন।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi both add a description of Nabtal's appearance and a saying ascribed to the Prophet ﷺ about him, with no chain given; it is not repeated here. So the fetched texts give three names: one through Ibn Ishaq's 'as it reached me,' two with no source at all. The verse itself names no one. None of the three is established as the occasion, and this article treats none as settled.",
+            "bn": "বাগাভী ও কুরতুবী দুজনেই নাবতালের চেহারার একটা বর্ণনা আর তার সম্পর্কে নবী ﷺ-এর নামে একটা কথা জুড়ে দেন, কোনো সনদ ছাড়া। সেটা এখানে আনা হলো না। তাহলে পাওয়া তাফসীরগুলোতে নাম তিনটি। একটা এসেছে ইবন ইসহাকের 'আমার কাছে যতটুকু পৌঁছেছে' পথে, বাকি দুটির কোনো সূত্রই নেই। আয়াত নিজে কারও নাম নেয় না। তিনজনের কারও ব্যাপারেই প্রমাণিত নয় যে নাযিলের উপলক্ষ সে-ই, আর এই লেখাও কোনোটিকে চূড়ান্ত ধরে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Udhunu Khayrin, or Udhunun Khayrun",
+          "bn": "উযুনু খাইরিন, নাকি উযুনুন খাইরুন"
+        },
+        "p": [
+          {
+            "en": "Qul udhunu khayrin lakum: say, an ear of good for you. In this reading the two words are joined, ear belonging to good. At-Tabari calls it the reading of the generality of the readers of the cities, and glosses it: say to them, Muhammad, he is an ear of good, not an ear of evil. Al-Baghawi, who calls it the reading of the majority, explains it as one who listens to good and right for you, not to evil and corruption. Al-Qurtubi gives the same contrast: he hears good and does not hear evil.",
+            "bn": "কুল উযুনু খাইরিল লাকুম: বলো, তোমাদের জন্য কল্যাণের কান। এই পাঠে দুই শব্দ জোড়া লাগানো, কান সম্পর্কিত কল্যাণের সঙ্গে। তাবারী একে বলেন নগরগুলোর অধিকাংশ কারীর পাঠ। তাঁর ব্যাখ্যা: হে মুহাম্মাদ, ওদের বলো, তিনি কল্যাণের কান, অকল্যাণের কান নন। বাগাভীও একে সংখ্যাগরিষ্ঠের পাঠ বলেন। তাঁর ব্যাখ্যায় মানে দাঁড়ায়: তিনি তোমাদের জন্য ভালো ও সঠিক কথা শোনেন, মন্দ আর ফাসাদের কথা নয়। কুরতুবীও একই তফাত টানেন: তিনি ভালোটা শোনেন, মন্দটা শোনেন না।"
+          },
+          {
+            "en": "A second reading gives both words tanwin, udhunun khayrun lakum, so that khayr becomes the predicate: an ear is better for you. The three who report it name its readers differently. At-Tabari says it is mentioned from al-Hasan al-Basri. Al-Qurtubi names al-Hasan, and 'Asim in the transmission of Abu Bakr. Al-Baghawi names al-A'mash, and al-Burjumi from Abu Bakr. At-Tabari and al-Baghawi give it one sense: if he is as you describe, his hearing you and believing you is better for you than his calling you liars.",
+            "bn": "আরেক পাঠে দুই শব্দেই তানবীন, উযুনুন খাইরুল লাকুম। তখন খাইর হয়ে যায় বিধেয়: কান হওয়াটাই তোমাদের জন্য ভালো। যে তিনজন এই পাঠের কথা জানান, পাঠকদের নাম তাঁরা ভিন্ন ভিন্ন দেন। তাবারী বলেন, এটা হাসান বসরী থেকে উল্লেখ আছে। কুরতুবী নাম দেন হাসানের, আর আবু বকরের বর্ণনায় আসিমের। বাগাভী নাম দেন আ'মাশের, আর আবু বকর থেকে বুরজুমীর। তাবারী ও বাগাভী এর অর্থ একইভাবে দেন। তিনি যদি তেমনই হন যেমন তোমরা বলছ, তবে তোমাদের কথা শুনে বিশ্বাস করাটাই তোমাদের জন্য ভালো, তোমাদের মিথ্যাবাদী বলার চেয়ে।"
+          },
+          {
+            "en": "On that reading, at-Tabari adds, Allah then gives them the lie in what follows: he accepts only from the believers. Al-Baghawi reads the same turn, 'no, rather, he believes in Allah.' At-Tabari himself prefers the joined reading. A smaller split runs through wa rahmatun. Most read it in the nominative, and he is a mercy. Hamza, in al-Baghawi and al-Qurtubi, and some of the Kufans in at-Tabari, read wa rahmatin, an ear of good and of mercy. At-Tabari prefers the nominative, and an-Nahhas, in al-Qurtubi, says the grammarians of Arabic find the other far-fetched, the two nouns lying so far apart.",
+            "bn": "তাবারী যোগ করেন, এই পাঠ ধরলে পরের কথাতেই আল্লাহ ওদের মিথ্যা ধরিয়ে দেন: তিনি শুধু মুমিনদের কথাই গ্রহণ করেন। বাগাভীও মোড়টা এভাবে পড়েন: না, বরং তিনি আল্লাহর উপর ঈমান রাখেন। তাবারী নিজে জোড়া পাঠটাই পছন্দ করেন। ওয়া রাহমাতুন শব্দেও ছোট একটা মতভেদ আছে। বেশিরভাগ পড়েন পেশ দিয়ে, অর্থাৎ তিনি রহমত। বাগাভী ও কুরতুবীর বর্ণনায় হামযা, আর তাবারীর বর্ণনায় কিছু কুফী কারী, পড়েন ওয়া রাহমাতিন: কল্যাণের কান, রহমতেরও কান। তাবারী পেশের পাঠ পছন্দ করেন। কুরতুবীতে নাহহাস বলেন, আরবি ব্যাকরণবিদদের চোখে দ্বিতীয় পাঠটা দূরবর্তী, কারণ দুই বিশেষ্যের মাঝে ফারাক অনেক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bi for Allah, Li for Believers",
+          "bn": "আল্লাহর বেলায় বি, মুমিনের বেলায় লি"
+        },
+        "p": [
+          {
+            "en": "Yu'minu bi-llahi wa yu'minu li-l-mu'minin: the same verb twice, with two different prepositions. At-Tabari glosses the first as he affirms Allah alone, without partner, and the second as he affirms the believers, not the disbelievers and not the hypocrites. He calls the clause Allah's giving the lie to those who said Muhammad is an ear: he is a listener to good, who believes in Allah and what came to him from Him.",
+            "bn": "ইউ'মিনু বিল্লাহি ওয়া ইউ'মিনু লিল-মু'মিনীন: একই ক্রিয়া দুবার, দুই আলাদা অব্যয় নিয়ে। তাবারী প্রথমটার ব্যাখ্যা দেন, তিনি এক আল্লাহকে সত্য বলে মানেন, যাঁর কোনো শরীক নেই। দ্বিতীয়টার ব্যাখ্যা, তিনি মুমিনদের কথা সত্য বলে মানেন, কাফির বা মুনাফিকদের কথা নয়। তাবারীর মতে এই অংশে আল্লাহ তাদের মিথ্যা ধরিয়ে দিচ্ছেন, যারা বলেছিল মুহাম্মাদ তো কান। তিনি কল্যাণের শ্রোতা। আল্লাহর উপর আর আল্লাহর কাছ থেকে তাঁর কাছে যা এসেছে তার উপর তাঁর ঈমান।"
+          },
+          {
+            "en": "With bi the verb is faith in Allah; with li it is crediting what a person reports. At-Tabari explains that the Arabs, as reported to him, say amantu lahu and amantuhu alike, meaning I believed him, and compares radifa lakum in 27:72 and li-rabbihim yarhabun in 7:154, where the lam changes nothing in the meaning. Al-Baghawi states the same usage. 'Ali ibn Abi Talha's line from Ibn Abbas (RA), in at-Tabari, says it in one breath: he believes in Allah, and he believes the believers.",
+            "bn": "বি দিয়ে ক্রিয়াটার মানে আল্লাহর উপর ঈমান। লি দিয়ে মানে কারও দেওয়া খবর সত্য বলে মেনে নেওয়া। তাবারী বলেন, আরবদের সম্পর্কে তাঁকে যা জানানো হয়েছে, তারা আমানতু লাহু আর আমানতুহু দুটোই বলে, মানে আমি তাকে বিশ্বাস করলাম। তুলনা হিসেবে তিনি আনেন ২৭:৭২ আয়াতের রাদিফা লাকুম আর ৭:১৫৪ আয়াতের লিরাব্বিহিম ইয়ারহাবূন, যেখানে লাম অর্থে কিছু বদলায় না। বাগাভীও একই ব্যবহারের কথা বলেন। তাবারীতে আলী ইবন আবী তালহা সূত্রে ইবন আব্বাস (রাঃ) এক নিঃশ্বাসে বলে দেন: তিনি আল্লাহর উপর ঈমান রাখেন, আর মুমিনদের কথা সত্য বলে মানেন।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the grammarians' accounts of that lam. For the Kufans it is extra. Al-Mubarrad attaches it to an implied noun: his believing is for the believers, his crediting them and not the disbelievers. Or the verb is carried on its meaning: yu'minu here means yusaddiqu, to credit, so it takes lam as musaddiqan lima bayna yadayhi does. Ibn Kathir and as-Sa'di then draw the conclusion the hypocrites missed. He knows the truthful from the liar, and as-Sa'di adds, he often turns away from those whose lies he knows.",
+            "bn": "ঐ লাম নিয়ে ব্যাকরণবিদদের ব্যাখ্যাগুলো কুরতুবী সাজিয়ে দেন। কুফীদের মতে লামটা অতিরিক্ত। মুবাররাদ একে জুড়ে দেন একটা উহ্য বিশেষ্যের সঙ্গে: তাঁর ঈমান মুমিনদের জন্য, অর্থাৎ তিনি মুমিনদের সত্য বলে মানেন, কাফিরদের নয়। আরেক ব্যাখ্যায় ক্রিয়াটা অর্থের দিকে বহন করা হয়েছে। এখানে ইউ'মিনু মানে ইউসাদ্দিকু, সত্য বলে মানা। তাই এর সঙ্গে লাম আসে, যেমন আসে মুসাদ্দিকাল লিমা বাইনা ইয়াদাইহি কথায়। মুনাফিকরা যা ধরতে পারেনি, ইবন কাসীর আর সা'দী সেই সিদ্ধান্ত টানেন: কে সত্যবাদী আর কে মিথ্যাবাদী, তিনি জানেন। সা'দী যোগ করেন, যাদের মিথ্যা তিনি জানতেন, তাদের থেকে প্রায়ই মুখ ফিরিয়ে নিতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gentleness Read as Gullibility",
+          "bn": "কোমলতাকে সরলতা ভাবা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di counts the wrong in their remark in layers. The worst was harming the Prophet ﷺ who came to guide them out of misery into guidance. Then came their not caring that they did it. Then their slight on his intelligence, as though he could not tell the truthful from the liar, when he was the most complete of creation in intellect and the most penetrating in judgement. That is why, he says, Allah answered: say, an ear of good for you, an ear that accepts whoever tells him good and truth.",
+            "bn": "ওদের কথায় কত দিক দিয়ে অন্যায় ছিল, সা'দী তা স্তরে স্তরে গোনেন। সবচেয়ে বড়টা হলো সেই নবী ﷺ-কে কষ্ট দেওয়া, যিনি এসেছিলেন তাদের দুর্ভাগ্য থেকে বের করে হিদায়াতে পৌঁছে দিতে। এরপর আছে কষ্ট দিয়েও তাদের কোনো পরোয়া না থাকা। এরপর তাঁর বুদ্ধি নিয়ে খোঁটা, যেন সত্যবাদী আর মিথ্যাবাদীর তফাত তিনি বোঝেন না। অথচ সৃষ্টির মধ্যে বুদ্ধিতে তিনিই সবচেয়ে পূর্ণ, বিচারে সবচেয়ে তীক্ষ্ণ। সা'দী বলেন, এ কারণেই আল্লাহ জবাব দিলেন: বলো, তোমাদের জন্য কল্যাণের কান। যে তাঁকে ভালো ও সত্য কথা বলে, তিনি তার কথাই গ্রহণ করেন।"
+          },
+          {
+            "en": "Why, then, did he let so many false excuses pass? As-Sa'di answers that his turning away from many of the hypocrites who apologised with lies came from the breadth of his character, his lack of concern with their affair, and his obedience to Allah's command in 9:95: they will swear by Allah to you when you return to them, so that you leave them be; so leave them be, they are filth. Ma'arif al-Qur'an says the same: he did not believe what they said, but out of gentleness avoided refuting them to their faces.",
+            "bn": "তাহলে এত মিথ্যা ওজর তিনি চলে যেতে দিতেন কেন? সা'দীর জবাব: মিথ্যা অজুহাত নিয়ে আসা বহু মুনাফিক থেকে তাঁর মুখ ফিরিয়ে নেওয়ার পেছনে ছিল তিনটি কারণ। তাঁর চরিত্রের উদারতা, ওদের ব্যাপারে তাঁর মাথা না ঘামানো, আর ৯:৯৫ আয়াতে আল্লাহর হুকুম মানা: তোমরা ফিরে গেলে তারা তোমাদের সামনে আল্লাহর কসম খাবে, যাতে তোমরা তাদের এড়িয়ে যাও। তাই তাদের এড়িয়ে চলো, তারা অপবিত্র। মাআরিফুল কুরআনও একই কথা বলে। তারা যা বলত তিনি বিশ্বাস করতেন না, তবে স্বভাবের কোমলতায় মুখের উপর তাদের খণ্ডন করতেন না।"
+          },
+          {
+            "en": "Then wa rahmatun li-lladhina amanu minkum: and a mercy to those of you who believe. At-Tabari says Allah made him a mercy for whoever followed him and accepted what he brought from his Lord, because through him Allah rescued them from misguidance. Al-Baghawi says he was the cause of the believers' faith. As-Sa'di adds that they are guided by him and imitate his character, while those who did not believe would not accept this mercy and turned it away, and so lost their world and their hereafter.",
+            "bn": "এরপর ওয়া রাহমাতুল লিল্লাযীনা আমানূ মিনকুম: আর তোমাদের মধ্যে যারা ঈমান এনেছে, তাদের জন্য রহমত। তাবারী বলেন, যে তাঁর অনুসরণ করেছে আর রবের কাছ থেকে তিনি যা এনেছেন তা মেনে নিয়েছে, আল্লাহ তাঁকে তার জন্য রহমত বানিয়েছেন, কারণ তাঁর মাধ্যমেই আল্লাহ তাদের গোমরাহি থেকে উদ্ধার করেছেন। বাগাভী বলেন, মুমিনদের ঈমানের উপলক্ষই ছিলেন তিনি। সা'দী যোগ করেন, তাঁর মাধ্যমেই তারা হিদায়াত পায় আর তাঁর চরিত্রের অনুসরণ করে। আর যারা ঈমান আনেনি, তারা এই রহমত গ্রহণ না করে ফিরিয়ে দিয়েছে, ফলে দুনিয়া আর আখিরাত দুটোই হারিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harm Aimed at the Messenger",
+          "bn": "রসূলকে কষ্ট দেওয়ার পরিণাম"
+        },
+        "p": [
+          {
+            "en": "The verse closes where it began, with harm: and those who harm the Messenger of Allah, for them is a painful punishment. At-Tabari applies it to these hypocrites who fault him and say he is an ear, and to others like them who deny him and say obscene and false things about him: a punishment from Allah that pains them in the fire of Jahannam. The Muyassar widens the harm to any kind, and as-Sa'di to word or deed, with the punishment in this world and the next. Ibn Kathir joins the halves: the Prophet ﷺ is a proof against the disbelievers, and so the closing sentence follows.",
+            "bn": "আয়াত যেখানে শুরু হয়েছিল, শেষও হয় সেখানে, কষ্ট দেওয়ার কথায়: আর যারা আল্লাহর রসূলকে কষ্ট দেয়, তাদের জন্য যন্ত্রণাদায়ক শাস্তি। তাবারী এটা প্রয়োগ করেন সেই মুনাফিকদের উপর, যারা তাঁর খুঁত ধরত আর বলত তিনি কান। আরও প্রয়োগ করেন তাদের মতো অন্যদের উপর, যারা তাঁকে অস্বীকার করে আর তাঁর সম্পর্কে অশ্লীল ও বাতিল কথা বলে। তাদের জন্য আল্লাহর পক্ষ থেকে জাহান্নামের আগুনে কষ্টদায়ক শাস্তি। মুয়াসসার কষ্টকে যেকোনো ধরনের কষ্ট পর্যন্ত বিস্তৃত করেন, সা'দী কথা ও কাজ দুটোতেই, আর শাস্তির কথা বলেন দুনিয়া ও আখিরাত দুই জায়গাতেই। ইবন কাসীর দুই অংশ জুড়ে দেন: নবী ﷺ কাফিরদের বিরুদ্ধে দলিল, তাই শেষ বাক্যটি আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Becoming an Ear of Good",
+          "bn": "কল্যাণের কান হয়ে ওঠা"
+        },
+        "p": [
+          {
+            "en": "This verse is about particular men in Madinah whose inner state Allah disclosed by revelation. It describes what it describes and licenses nothing against any living person. No reader holds that knowledge of anyone's heart, and nobody may brand a living Muslim a hypocrite on the strength of it. Its use is as a mirror. The plan it exposes is ordinary: speak freely behind someone's back, keep an oath or an apology ready, and count on their gentleness to swallow it. That plan can take root in anyone.",
+            "bn": "আয়াতটি মদীনার নির্দিষ্ট কিছু লোকের কথা বলে, যাদের ভেতরের অবস্থা আল্লাহ ওহীর মাধ্যমে প্রকাশ করে দিয়েছিলেন। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে। জীবিত কোনো মানুষের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কারও অন্তরের এমন জ্ঞান কোনো পাঠকের কাছে নেই। এ আয়াতের জোরে জীবিত কোনো মুসলিমকে মুনাফিক বলে দাগানোর অধিকারও কারও নেই। এর কাজ আয়নার মতো। যে ফন্দি এ আয়াত ফাঁস করে, তা খুব সাধারণ: কারও অগোচরে যা খুশি বলো, কসম বা ওজর তৈরি রাখো, আর ভরসা রাখো তার কোমলতা সব হজম করে নেবে। এই ফন্দি যে কারও মনে শিকড় গাড়তে পারে।"
+          },
+          {
+            "en": "The verse also gives a model for listening. An ear of good hears a great deal, but it gives its trust to the truthful, keeps its judgement over the rest, and can leave a lie unanswered without being taken in by it. As-Sa'di's point holds for anyone who mistakes kindness for weakness: a person may stay silent out of character, not ignorance. Before taking someone's patience as proof that you got away with something, ask whether you were believed, or only spared.",
+            "bn": "শোনার একটা আদর্শও আয়াতটি দেয়। কল্যাণের কান অনেক কিছুই শোনে, তবে আস্থা রাখে সত্যবাদীর উপর, বাকিদের বেলায় নিজের বিচার ধরে রাখে, আর কোনো মিথ্যার জবাব না দিয়েও তাতে ঠকে না। কোমলতাকে যে দুর্বলতা ভাবে, তার জন্য সা'দীর কথাটা খাটে: মানুষ চুপ থাকতে পারে চরিত্রের গুণে, না জানার কারণে নয়। কারও ধৈর্যকে নিজের পার পেয়ে যাওয়ার প্রমাণ ধরার আগে নিজেকে জিজ্ঞেস করুন: আমাকে কি বিশ্বাস করা হয়েছে, নাকি শুধু রেহাই দেওয়া হয়েছে?"
+          }
+        ]
+      }
+    ]
+  },
   "9:68": {
     "sections": [
       {
