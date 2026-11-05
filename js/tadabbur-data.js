@@ -23351,6 +23351,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not mistake delay for absence: let what you already know of the Hereafter slow your haste and wake you from heedlessness while there is still time.",
     "lessonBn": "দেরি হচ্ছে মানেই তা আসবে না, এমন ভুল করবেন না। আখিরাত সম্পর্কে যা আগে থেকেই জানেন, তা দিয়ে নিজের তাড়াহুড়া থামান আর সময় থাকতেই গাফিলতি থেকে জেগে উঠুন।"
+  },
+  "21:22": {
+    "reflectionEn": "Think of one ordinary day. The sun rises where it rose yesterday, rain finds the soil, and your own heart keeps its beat without asking you. Nothing in it pulls against anything else. This verse turns that quiet order into an argument: had there been in the heavens and the earth gods other than Allah, both would have been ruined. Two wills over one world must clash, and a god whose will can be blocked is no god. Then the verse ends not in debate but in praise: exalted is Allah, Lord of the Throne, above what they describe. The order that shows He is One also asks me something. Is my own heart ruled by one will, or by several pulling it apart?",
+    "reflectionBn": "সাধারণ একটা দিনের কথা ভাবুন। গতকাল সূর্য যেখান থেকে উঠেছিল, আজও সেখান থেকেই ওঠে। বৃষ্টি ঠিকই মাটি খুঁজে নেয়। আপনার হৃৎপিণ্ড আপনাকে জিজ্ঞেস না করেই নিজের তালে চলতে থাকে। কোনো কিছু অন্য কিছুর উল্টো দিকে টানে না। এই শান্ত শৃঙ্খলাকেই আয়াতটি যুক্তি বানিয়ে দেয়: আসমান ও যমীনে আল্লাহ ছাড়া আরও ইলাহ থাকলে দুটোই ধ্বংস হয়ে যেত। এক জগতের উপর দুই ইচ্ছা থাকলে সংঘাত বাধবেই, আর যার ইচ্ছা আটকে দেওয়া যায় সে ইলাহ হতে পারে না। তারপর আয়াত শেষ হয় তর্কে নয়, প্রশংসায়: তারা যা আরোপ করে, আরশের রব আল্লাহ তা থেকে পবিত্র। যে শৃঙ্খলা প্রমাণ করে তিনি এক, সেটাই আমার কাছে একটা প্রশ্ন রাখে। আমার নিজের মন কি এক ইচ্ছার অধীনে চলে, নাকি কয়েকটা ইচ্ছা তাকে কয়েক দিকে টেনে ছিঁড়ছে?",
+    "pointsEn": [
+      "When I last looked at the sky or at something growing, did I see an order that points to its Maker, or only scenery?",
+      "What else competes for my fear, hope and obedience, and where does it pull me against what Allah wants of me?",
+      "Does my thinking about Allah end, as this verse does, in glorifying Him, or does it stop at argument?",
+      "Is there anything I have said or assumed about Allah that would not stand if I measured it against what He says of Himself?",
+      "Where in my week does the disorder show that I have been trying to serve more than one master?"
+    ],
+    "pointsBn": [
+      "শেষবার আকাশের দিকে বা বেড়ে ওঠা কোনো গাছের দিকে তাকিয়ে আমি কি এমন শৃঙ্খলা দেখেছি যা তার স্রষ্টার দিকে ইশারা করে, নাকি শুধু একটা দৃশ্য দেখেছি?",
+      "আমার ভয়, আশা আর আনুগত্য নিয়ে আর কী কী টানাটানি করে? কোথায় সেগুলো আমাকে আল্লাহর চাওয়ার উল্টো দিকে টেনে নেয়?",
+      "আল্লাহকে নিয়ে আমার ভাবনা কি এই আয়াতের মতো তাঁর পবিত্রতা ঘোষণায় গিয়ে শেষ হয়, নাকি তর্কেই থেমে থাকে?",
+      "আল্লাহ সম্পর্কে এমন কিছু কি আমি বলেছি বা ধরে নিয়েছি, যা তিনি নিজের সম্পর্কে যা বলেছেন তার সঙ্গে মেলালে টিকবে না?",
+      "এ সপ্তাহে আমার জীবনের কোন বিশৃঙ্খলা বলে দেয় যে আমি একসঙ্গে একাধিক মনিবের সেবা করতে চেয়েছি?"
+    ],
+    "lessonEn": "The order of the heavens and the earth points to one Lord; give Him the undivided worship His creation already shows, and let your reflection end in glorifying Him.",
+    "lessonBn": "আসমান ও যমীনের শৃঙ্খলা এক রবের দিকেই ইশারা করে। তাঁর সৃষ্টি যে অবিভক্ত ইবাদত দেখিয়ে দেয়, তাঁকে সেই ইবাদতই দিন, আর আপনার ভাবনা শেষ করুন তাঁর পবিত্রতা ঘোষণায়।"
   }
 };
 

@@ -587,6 +587,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Gods Taken From the Earth",
+          "bn": "মাটির দেবতাদের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse answers a question asked one verse earlier. In 21:21 the passage asks: or have they taken gods from the earth who raise the dead? Ibn Kathir's abridged commentary, which treats 21:21 to 21:23 as a single unit, draws out its force. Can these gods bring the dead back to life and bring them forth from the earth? They cannot do any of that, so how can people make them rivals to Allah and worship them alongside Him? The question exposes a weakness. Our verse moves from weakness to impossibility.",
+            "bn": "আয়াতটি ঠিক আগের আয়াতের একটা প্রশ্নের জবাব। ২১:২১ আয়াতে জিজ্ঞেস করা হয়েছে: তারা কি মাটি থেকে এমন দেবতা বানিয়ে নিয়েছে, যারা মৃতকে জীবিত করে? ইবন কাসীরের সংক্ষিপ্ত তাফসীর ২১:২১ থেকে ২১:২৩ পর্যন্ত এক সঙ্গে আলোচনা করে, আর প্রশ্নটার ধার খুলে দেখায়। এই দেবতারা কি মৃতকে বাঁচিয়ে মাটি থেকে বের করে আনতে পারে? এর কিছুই তারা পারে না। তাহলে মানুষ কীভাবে তাদের আল্লাহর প্রতিদ্বন্দ্বী বানায়, তাঁর সঙ্গে তাদেরও পূজা করে? প্রশ্নটা দুর্বলতা ধরিয়ে দেয়। আমাদের আয়াত দুর্বলতা থেকে এক ধাপ এগিয়ে অসম্ভবতার কথা বলে।"
+          },
+          {
+            "en": "Ibn Kathir frames the step in one line: Allah now tells us that if there were another god besides Him, the heavens and the earth would be ruined. So the three verses run in order. First a challenge about what the false gods cannot do, then a proof that no second god could exist in the heavens and the earth at all, and then, in 21:23, a statement of who answers to whom. This article follows that order and leaves to their own articles what 21:16, 21:19 and 21:25 say.",
+            "bn": "ইবন কাসীর এক বাক্যে ধাপটা বুঝিয়ে দেন: এবার আল্লাহ জানাচ্ছেন, তিনি ছাড়া আর কোনো ইলাহ থাকলে আসমান ও যমীন ধ্বংস হয়ে যেত। তিনটি আয়াত তাই একটা ক্রম ধরে চলে। প্রথমে চ্যালেঞ্জ: মিথ্যা দেবতারা কী পারে না। তারপর প্রমাণ: আসমান ও যমীনে দ্বিতীয় কোনো ইলাহের অস্তিত্বই সম্ভব নয়। তারপর ২১:২৩ আয়াতে জানানো হয়, কে কার কাছে জবাবদিহি করবে। এই লেখা সেই ক্রমেই এগোবে। ২১:১৬, ২১:১৯ ও ২১:২৫ আয়াত যা বলে, তা সেসব আয়াতের নিজস্ব লেখায় আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Than, Not Except",
+          "bn": "ইল্লা মানে গায়র"
+        },
+        "p": [
+          {
+            "en": "The phrase that carries the verse is alihatun illa llah. Illa is most often the particle of exception, but al-Qurtubi reports that al-Kisa'i and Sibawayh both took it here in the sense of ghayr, other than. Once illa stands in the place of ghayr, he explains, the noun after it takes the grammatical case that ghayr itself would take. So the meaning is gods other than Allah, gods besides Him, and that is how the translation renders it. Al-Baghawi and al-Muyassar give the same gloss, ghayr.",
+            "bn": "আয়াতের ভার বহন করছে আলিহাতুন ইল্লাল্লাহ কথাটি। ইল্লা সাধারণত ব্যতিক্রম বোঝানোর শব্দ। কিন্তু কুরতুবী জানান, কিসাঈ ও সীবাওয়াইহ দুজনেই এখানে শব্দটিকে নিয়েছেন গায়র অর্থে, মানে 'ছাড়া অন্য'। তিনি বুঝিয়ে বলেন, ইল্লা যখন গায়রের জায়গায় বসে, তখন তার পরের বিশেষ্য সেই ব্যাকরণিক রূপ নেয় যা গায়র নিজে নিত। অর্থ তাই দাঁড়ায়: আল্লাহ ছাড়া অন্য ইলাহ, তাঁকে বাদ দিয়ে আর কোনো ইলাহ। অনুবাদও এভাবেই করা হয়েছে। বাগাভী ও মুয়াসসারও একই ব্যাখ্যা দেন: গায়র।"
+          },
+          {
+            "en": "Al-Qurtubi supports the usage with a line of old poetry: every brother will be parted from his brother, by your father's life, illa al-farqadan, other than the Farqadan, the one pair the poet sets apart from all the rest. He adds an example Sibawayh recorded: law kana ma'ana rajulun illa Zaydun lahalakna, had there been with us a man other than Zayd, we would have perished. Al-Farra' gives a near synonym, siwa, besides. Read this way, the condition is simply the presence of gods other than Allah in the heavens and the earth, and the consequence is ruin.",
+            "bn": "এই ব্যবহারের পক্ষে কুরতুবী পুরোনো এক কবিতার পঙ্‌ক্তি আনেন: তোমার পিতার জীবনের কসম, প্রত্যেক ভাই একদিন তার ভাই থেকে আলাদা হবে, ইল্লাল ফারকাদান, ফারকাদান জুটি ছাড়া। কবি এই একটি জুটিকেই বাকি সবার থেকে আলাদা করে রেখেছেন। সীবাওয়াইহের লিপিবদ্ধ একটি উদাহরণও তিনি দেন: লাও কানা মাআনা রাজুলুন ইল্লা যায়দুন লাহালাকনা, যায়দ ছাড়া অন্য কোনো লোক আমাদের সঙ্গে থাকলে আমরা ধ্বংস হয়ে যেতাম। ফাররা কাছাকাছি একটি শব্দ দেন: সিওয়া, অর্থাৎ ব্যতীত। এভাবে পড়লে শর্তটা সোজা: আসমান ও যমীনে আল্লাহ ছাড়া অন্য ইলাহ থাকা। আর তার ফল: ধ্বংস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Ruin Would Fall",
+          "bn": "ধ্বংস কোথায় নামত"
+        },
+        "p": [
+          {
+            "en": "Lafasadata is dual: the two of them, heaven and earth, would have been ruined. The commentators differ on what the ruin would touch. At-Tabari reads it through the inhabitants: the people of the heavens and the earth would have been corrupted. Al-Farra', in al-Qurtubi's report, says the same, that their people would have been ruined. At-Tabari also defines the gods in question with care: gods fit to be worshipped other than Allah, who is the Creator of all things and to whom alone worship and divinity belong.",
+            "bn": "লাফাসাদাতা ক্রিয়াটি দ্বিবচন: দুই-ই, আসমান আর যমীন, ধ্বংস হয়ে যেত। ধ্বংস ঠিক কোথায় লাগত, তা নিয়ে তাফসীরকারদের মত ভিন্ন। তাবারী একে পড়েন বাসিন্দাদের দিক থেকে: আসমান ও যমীনের অধিবাসীরা বিপর্যস্ত হত। কুরতুবীর বর্ণনায় ফাররাও একই কথা বলেন, এ দুয়ের বাসিন্দারা ধ্বংস হত। কোন ইলাহের কথা হচ্ছে, তাবারী সেটাও যত্ন করে বলে দেন: আল্লাহ ছাড়া এমন ইলাহ যাদের ইবাদত চলে। অথচ সব কিছুর স্রষ্টা তিনিই, আর ইবাদত ও উলূহিয়্যাত কেবল তাঁরই প্রাপ্য, আর কারও নয়।"
+          },
+          {
+            "en": "Others take the word more physically. Al-Qurtubi reports a view, introduced as it is said, that the two would have fallen to ruin and all in them perished, through the strife of disagreement among partners. Al-Baghawi takes this sense outright, adding that it comes from the mutual hindrance among the gods. As-Sa'di joins both: ruined in themselves, and their creatures with them. Al-Qurtubi also relays an unnamed commentator for whom it is the management, at-tadbir, that would fail, and al-Muyassar says their order would break down. None of the fetched texts argues one of these against the others.",
+            "bn": "কেউ কেউ শব্দটিকে আরও বাস্তব অর্থে নেন। কুরতুবী 'বলা হয়' বলে একটি মত আনেন: শরিকদের মতভেদ থেকে যে বিবাদ বাধে, তাতে আসমান-যমীন দুই-ই বিরান হয়ে যেত, ভেতরের সবাই মারা পড়ত। বাগাভী সরাসরি এই অর্থই নেন, আর বলেন এর কারণ ইলাহদের পারস্পরিক বাধাদান। সা'দী দুটোকে মেলান: আসমান-যমীন নিজেরাও ধ্বংস হত, তাদের ভেতরের সৃষ্টিও। কুরতুবী নাম না জানিয়ে আরেকজনের মত আনেন, যাঁর কাছে নষ্ট হত পরিচালনা, আত-তাদবীর। মুয়াসসার বলেন, এ দুয়ের শৃঙ্খলা ভেঙে পড়ত। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এক মতের বিরুদ্ধে আরেক মতকে দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Wills Over One World",
+          "bn": "এক জগতে দুই ইচ্ছা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di sets out the reasoning in full and gives it a name, the proof of mutual hindrance, dalil at-tamanu'. He begins from what anyone can see. The upper world and the lower world, as they appear, are in the most complete soundness and order, with no flaw and no defect, no hindering and no opposing. That, he says, shows that their director is one, their Lord is one and their God is one. Were there two directors and two lords or more, the order would fail and its pillars would collapse.",
+            "bn": "সা'দী যুক্তিটা পুরো খুলে বলেন, আর এর একটা নামও দেন: দালীলুত তামানু', পারস্পরিক বাধাদানের প্রমাণ। তিনি শুরু করেন এমন জিনিস দিয়ে যা যে কেউ দেখতে পায়। উপরের জগৎ আর নিচের জগৎ, যেমনটা চোখে পড়ে, পরিপূর্ণ সুস্থতা ও শৃঙ্খলায় আছে। কোথাও খুঁত নেই, ত্রুটি নেই, কেউ কাউকে আটকাচ্ছে না, কেউ কারও বিরোধিতা করছে না। তাঁর মতে এটাই দেখায়, এর পরিচালক একজন, রব একজন, ইলাহ একজন। পরিচালক দুজন হলে, রব দুজন বা তার বেশি হলে, শৃঙ্খলা ভেঙে পড়ত, খুঁটিগুলো ধসে যেত।"
+          },
+          {
+            "en": "Then come the steps. The two would hinder and oppose each other. If one willed to bring a thing about and the other willed that it not be, both wills cannot be realised together, for that is impossible. If one will is realised and not the other, that shows the other's incapacity and lack of power. And for the two to agree on one will in every matter, as-Sa'di says, is not possible. What remains is that the Overpowering, whose will alone is done with none to hinder or resist, is Allah, the One, al-Qahhar.",
+            "bn": "এরপর ধাপগুলো। দুজন একে অপরকে বাধা দিত, একে অপরের বিরোধিতা করত। একজন কোনো কিছু ঘটাতে চাইলেন, অন্যজন চাইলেন তা না ঘটুক। দুজনের ইচ্ছা একসঙ্গে পূরণ হওয়া অসম্ভব। একজনের ইচ্ছা পূরণ হল, অন্যজনেরটা হল না, তাহলে বোঝা গেল দ্বিতীয়জন অক্ষম, তাঁর ক্ষমতা নেই। আর সা'দী বলেন, সব বিষয়ে দুজনের এক ইচ্ছায় একমত থাকা সম্ভব নয়। তাহলে বাকি থাকে একটাই কথা: যিনি সবার উপর প্রবল, যাঁর ইচ্ছা একাই কার্যকর হয়, কেউ বাধা দিতে বা ঠেকাতে পারে না, তিনি আল্লাহ, এক, আল-কাহহার।"
+          },
+          {
+            "en": "Al-Qurtubi gives a shorter form of the same reasoning from another commentator: had there been two gods, the management would have been ruined, because if one of them willed a thing and the other willed its opposite, one of the two would be incapable. Al-Baghawi states the principle beneath it in a single clause: every matter that issues from two or more does not run on one order.",
+            "bn": "একই যুক্তির ছোট একটা রূপ কুরতুবী আনেন আরেকজন তাফসীরকারের কাছ থেকে: ইলাহ দুজন হলে পরিচালনা ভেস্তে যেত। কারণ একজন কোনো কিছু চাইলে আর অন্যজন তার উল্টোটা চাইলে, দুজনের একজনকে অক্ষম হতেই হত। বাগাভী এর তলার নীতিটা এক বাক্যে বলে দেন: যে কাজ দুই বা তার বেশি জনের হাত থেকে আসে, তা এক শৃঙ্খলায় চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And If They Agreed",
+          "bn": "যদি তারা একমত হত"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an calls the verse an argument from common nature, drawn from ordinary experience, and also a logical proof, noting that a great deal of literature explaining it exists in the books of theology, 'ilm al-kalam. Its common-sense form runs like this. If there were two gods, each independent and sovereign, the commands of both would have to prevail in the earth and the sky, which cannot be, since it is inconceivable that they would hold one view on every matter. Where power is shared, differences are inevitable, and differences lead to conflict, chaos and confusion.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে বলে সাধারণ স্বভাবের যুক্তি, যা মানুষের রোজকার অভিজ্ঞতা থেকে আসে। সেই সঙ্গে এটি একটি যৌক্তিক প্রমাণও। এর ব্যাখ্যায় ইলমুল কালাম, অর্থাৎ আকীদাশাস্ত্রের বইয়ে প্রচুর লেখা আছে বলেও সে জানায়। সাধারণ বুদ্ধির রূপটা এমন। দুজন ইলাহ থাকলে, আর দুজনেই স্বাধীন ও সার্বভৌম হলে, আকাশে আর পৃথিবীতে দুজনের হুকুমই চালু থাকতে হত। সেটা হতে পারে না, কারণ সব বিষয়ে তাঁদের মত এক হবে, এ কল্পনাও করা যায় না। ক্ষমতা ভাগাভাগি হলে মতভেদ আসবেই, আর মতভেদ থেকে আসে সংঘাত, বিশৃঙ্খলা আর গোলমাল।"
+          },
+          {
+            "en": "The obvious reply is that two gods might consult before acting. Ma'arif notes that this suggestion has been discussed and rejected in the books of theology, and gives the reason that matters: if the two had to decide jointly, neither would be sovereign, and a god with divided sovereignty is not God. As-Sa'di shuts the same door from his side when he says their agreeing on one will in all matters is not possible.",
+            "bn": "সহজ একটা আপত্তি ওঠে: দুই ইলাহ তো কাজের আগে পরামর্শ করে নিতে পারেন। মাআরিফুল কুরআন জানায়, আকীদাশাস্ত্রের বইয়ে এই প্রস্তাব নিয়ে আলোচনা হয়েছে এবং তা বাতিল হয়েছে। আসল কারণটাও সে বলে দেয়: দুজনকে যদি একসঙ্গে সিদ্ধান্ত নিতে হয়, তবে কেউই সার্বভৌম থাকেন না। আর যার সার্বভৌমত্ব ভাগ করা, সে ইলাহ নয়। সা'দী নিজের দিক থেকে একই দরজা বন্ধ করেন, যখন বলেন সব বিষয়ে দুজনের এক ইচ্ছায় একমত হওয়া সম্ভব নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lord of the Throne, Far Above",
+          "bn": "আরশের রব, সবকিছুর ঊর্ধ্বে"
+        },
+        "p": [
+          {
+            "en": "Then the verse turns from proof to praise: fa-subhana llahi rabbi l-'arshi 'amma yasifun. At-Tabari explains the subhan as a declaring of Allah pure, a clearing of Him from the lies these associators fabricate against Him. He cites Qatada, by his chain, on the whole verse: He glorifies Himself, since slander was spoken against Him. Al-Qurtubi adds that Allah declared Himself pure and commanded His servants to declare Him pure of having a partner or a son. The closing clause is praise, and it is also an instruction to the one who recites it.",
+            "bn": "এরপর আয়াত প্রমাণ থেকে প্রশংসায় যায়: ফাসুবহানাল্লাহি রাব্বিল আরশি আম্মা ইয়াসিফূন। তাবারী সুবহানের ব্যাখ্যা দেন এভাবে: আল্লাহকে পবিত্র ঘোষণা করা, এই মুশরিকরা তাঁর নামে যে মিথ্যা বানায় তা থেকে তাঁকে মুক্ত বলা। তিনি নিজের সনদে পুরো আয়াত সম্পর্কে কাতাদার কথা আনেন: তাঁর বিরুদ্ধে অপবাদ রটানো হয়েছে, তাই তিনি নিজেই নিজের পবিত্রতা ঘোষণা করছেন। কুরতুবী যোগ করেন, আল্লাহ নিজেকে শরিক বা সন্তান থেকে পবিত্র ঘোষণা করেছেন, আর বান্দাদেরও হুকুম দিয়েছেন তাঁকে পবিত্র ঘোষণা করতে। শেষ বাক্যটা তাই প্রশংসা, আবার যে তিলাওয়াত করে তার জন্য একটা নির্দেশও।"
+          },
+          {
+            "en": "Why the Throne here? As-Sa'di answers from the size of what is named. The Throne is the roof of created things, the widest and the greatest of them, so if He is its Lord, His lordship over everything beneath it follows all the more. On 'amma yasifun, above what they describe, as-Sa'di lists taking a son and a consort, and having a partner in any way at all. Ibn Kathir and al-Baghawi name the son and the partner, and al-Muyassar widens it to falsehood, fabrication and every deficiency.",
+            "bn": "এখানে আরশের কথা কেন? সা'দী জবাব দেন যা উল্লেখ করা হয়েছে তার বিশালতা দিয়ে। আরশ সৃষ্টিজগতের ছাদ, সৃষ্টির মধ্যে সবচেয়ে প্রশস্ত, সবচেয়ে বড়। তিনি যদি তার রব হন, তবে তার নিচের সব কিছুর রব তিনি আরও বেশি করেই। আম্মা ইয়াসিফূন, তারা যা আরোপ করে তা থেকে: সা'দী এখানে গুনে বলেন সন্তান ও স্ত্রী গ্রহণের কথা, আর কোনোভাবে কোনো শরিক থাকার কথা। ইবন কাসীর ও বাগাভী নাম নেন সন্তান ও শরিকের। মুয়াসসার পরিধিটা বাড়িয়ে দেন: মিথ্যা, অপবাদ আর সব রকম অপূর্ণতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Proof Elsewhere",
+          "bn": "অন্য আয়াতে একই প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads this verse alongside 23:91: Allah has not taken any son, nor has there ever been with Him any deity; then each deity would have taken what it created, and some would have overcome others. Exalted is Allah above what they describe. As-Sa'di cites the same verse as a place where Allah states the proof of mutual hindrance. The two verses close on the same words, subhana llahi 'amma yasifun, and here the close adds rabbi l-'arsh. The article on 23:91 works through that verse's own two steps, so they are not repeated here.",
+            "bn": "ইবন কাসীর এই আয়াতকে ২৩:৯১ আয়াতের পাশে রেখে পড়েন: আল্লাহ কোনো সন্তান গ্রহণ করেননি, তাঁর সঙ্গে কোনো ইলাহও কখনো ছিল না। থাকলে প্রত্যেক ইলাহ নিজের সৃষ্টি নিয়ে আলাদা হয়ে যেত, আর একে অপরের উপর চড়াও হত। তারা যা আরোপ করে, আল্লাহ তা থেকে পবিত্র। সা'দীও এই আয়াতকে এমন জায়গা হিসেবে উল্লেখ করেন যেখানে আল্লাহ পারস্পরিক বাধাদানের প্রমাণ দিয়েছেন। দুটো আয়াত শেষ হয় একই কথায়: সুবহানাল্লাহি আম্মা ইয়াসিফূন। এখানে শেষ অংশে বাড়তি আছে রাব্বিল আরশ। ২৩:৯১ আয়াতের নিজস্ব দুটি ধাপ তার আলাদা লেখায় আলোচিত হয়েছে, তাই এখানে আর বলা হল না।"
+          },
+          {
+            "en": "As-Sa'di adds a third verse, 17:42, and is careful to say it belongs here only on one of its two interpretations: say, if there had been gods with Him as they claim, they would have sought a way to the Owner of the Throne. He does not set out the other interpretation in this comment, and this article does not supply it. What a reader can see directly is that the Throne returns, dhi l-'arsh there and rabbi l-'arsh here. None of the commentaries fetched for this verse attaches a hadith to it, so the article cites none.",
+            "bn": "সা'দী তৃতীয় একটি আয়াতও আনেন, ১৭:৪২, তবে সাবধানে বলে দেন যে দুই ব্যাখ্যার একটি অনুযায়ীই কেবল এটি এখানে খাটে: বল, তারা যেমন বলে, তাঁর সঙ্গে যদি আরও ইলাহ থাকত, তবে তারা আরশের অধিপতির দিকে পথ খুঁজত। অন্য ব্যাখ্যাটি তিনি এই আলোচনায় খুলে বলেননি, এই লেখাও তা নিজে থেকে যোগ করছে না। পাঠক নিজেই যা দেখতে পান তা হল, আরশ আবার ফিরে আসে: সেখানে যিল আরশ, এখানে রাব্বিল আরশ। এই আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ লেখায়ও কোনো হাদীস উদ্ধৃত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "None Above Him to Ask",
+          "bn": "তাঁকে জিজ্ঞেস করার কেউ নেই"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the thought: He is not questioned about what He does, but they will be questioned (21:23). At-Tabari explains that no one asks the Lord of the Throne about how He disposes of His creation, in life and death, honour and abasement, because they are His creatures and His servants, the judgment is His, and there is nothing above Him to say, why did You do this? Everyone in the heavens and the earth, by contrast, will be questioned and called to account. He relays the same sense from Qatada, Ibn Jurayj and ad-Dahhak.",
+            "bn": "পরের আয়াত ভাবনাটা পূর্ণ করে: তিনি যা করেন সে ব্যাপারে তাঁকে জিজ্ঞেস করা হবে না, বরং তাদেরকেই জিজ্ঞেস করা হবে (২১:২৩)। তাবারী ব্যাখ্যা করেন, জীবন-মৃত্যু, সম্মান-অপমান দিয়ে আরশের রব তাঁর সৃষ্টিকে যেভাবে পরিচালনা করেন, সে বিষয়ে কেউ তাঁকে প্রশ্ন করে না। কারণ তারা তাঁরই সৃষ্টি, তাঁরই বান্দা, হুকুম তাঁর। তাঁর উপরে এমন কিছু নেই যা বলবে, এটা কেন করলেন? অন্যদিকে আসমান ও যমীনের সবাইকে প্রশ্ন করা হবে, সবার হিসাব নেওয়া হবে। একই অর্থ তিনি কাতাদা, ইবন জুরাইজ ও দাহহাক থেকেও বর্ণনা করেন।"
+          },
+          {
+            "en": "As-Sa'di ties the two verses together with the same vocabulary. No one is able to hinder or oppose Him, by word or by deed, because of His greatness, might and complete power; and no question is directed at Him, because of His perfect wisdom, since His creation has no flaw in it. Al-Qurtubi draws the consequence for false worship: whoever will be questioned tomorrow about his deeds, such as the Messiah (AS) and the angels, is not fit for divinity. Ibn Kathir's abridged commentary sets beside it 15:92 and 15:93: by your Lord, We will surely question them all about what they used to do.",
+            "bn": "সা'দী একই শব্দভান্ডার দিয়ে দুই আয়াতকে জুড়ে দেন। তাঁর মহত্ত্ব, পরাক্রম আর পরিপূর্ণ ক্ষমতার কারণে কেউ কথায় বা কাজে তাঁকে বাধা দিতে বা তাঁর বিরোধিতা করতে পারে না। আর তাঁর পরিপূর্ণ প্রজ্ঞার কারণে তাঁর দিকে কোনো প্রশ্ন ওঠে না, কেননা তাঁর সৃষ্টিতে কোনো খুঁত নেই। কুরতুবী এ থেকে মিথ্যা ইবাদতের ব্যাপারে সিদ্ধান্ত টানেন: আগামীকাল যাকে নিজের আমলের জন্য প্রশ্ন করা হবে, যেমন মাসীহ (আঃ) ও ফেরেশতারা, সে ইলাহ হওয়ার যোগ্য নয়। ইবন কাসীরের সংক্ষিপ্ত তাফসীর এর পাশে রাখে ১৫:৯২ ও ১৫:৯৩: তোমার রবের কসম, তারা যা করত সে সম্পর্কে আমি অবশ্যই তাদের সবাইকে জিজ্ঞেস করব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Order as a Signpost",
+          "bn": "শৃঙ্খলা যে পথ দেখায়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's starting point can be the reader's too: the world, as it is seen, stands in the most complete soundness and order, without flaw or defect. The verse asks us to treat that order as testimony rather than background. The sun keeps its hour, the seasons turn, the body keeps countless processes in step without being told. It needs only the habit of looking, and then of asking what such seamless agreement says about the will behind it, and whether that will could be more than one.",
+            "bn": "সা'দী যেখান থেকে শুরু করেন, পাঠকও সেখান থেকে শুরু করতে পারেন: যে জগৎ চোখে পড়ে, তা পরিপূর্ণ সুস্থতা ও শৃঙ্খলায় দাঁড়িয়ে আছে, খুঁত বা ত্রুটি ছাড়া। আয়াত চায়, আমরা এই শৃঙ্খলাকে শুধু পটভূমি না ভেবে সাক্ষ্য হিসেবে দেখি। সূর্য তার সময় মেনে চলে, ঋতু ঘুরে ঘুরে আসে, শরীরের অগণিত কাজ কাউকে না বলেই তালে তালে চলে। লাগে শুধু তাকিয়ে দেখার অভ্যাস। তারপর প্রশ্ন করা: এত নিখুঁত মিল এর পেছনের ইচ্ছা সম্পর্কে কী বলে, আর সে ইচ্ছা কি একটার বেশি হতে পারে?"
+          },
+          {
+            "en": "There is a practical edge as well. A life divided among several masters, people's approval, wealth, the fear of loss, shows something of the disorder the verse describes: demands that pull against each other, and no single order. Worship of the One is the reverse, one will obeyed and everything else arranged beneath it. The verse closes in tasbih, and reflection can close there too. It answers a belief and not a person; it describes what the text describes and licenses nothing against any living person or community. Its question is put first to the one reading it.",
+            "bn": "এর একটা বাস্তব দিকও আছে। মানুষের প্রশংসা, টাকা-পয়সা, হারানোর ভয়, এমন কয়েকজন মনিবের মধ্যে ভাগ হয়ে যাওয়া জীবনে আয়াতে বর্ণিত বিশৃঙ্খলার একটা ছায়া দেখা যায়। চাহিদাগুলো একে অপরের উল্টো দিকে টানে, কোনো একক শৃঙ্খলা থাকে না। এক আল্লাহর ইবাদত ঠিক এর উল্টো: এক ইচ্ছার আনুগত্য, বাকি সব তার নিচে সাজানো। আয়াত শেষ হয় তাসবীহে, ভাবনাও সেখানে শেষ হতে পারে। আয়াতটি একটি বিশ্বাসের জবাব দেয়, কোনো মানুষের নয়। আয়াত যা বর্ণনা করে, কথা ততটুকুই। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। এর প্রশ্নটা সবার আগে তার কাছে, যে এটা পড়ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "21:25": {
     "sections": [
       {
