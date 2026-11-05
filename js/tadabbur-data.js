@@ -21711,6 +21711,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day no one speaks without His leave, and people part into wretched and happy. Spend your words and deeds well now, and pronounce no one's end.",
     "lessonBn": "সেদিন তাঁর অনুমতি ছাড়া কেউ কথা বলবে না, আর মানুষ ভাগ হবে হতভাগা ও সৌভাগ্যবানে। কথা ও আমল এখনই ঠিকভাবে কাজে লাগান, আর কারও পরিণাম নিয়ে রায় দেবেন না।"
+  },
+  "11:78": {
+    "reflectionEn": "A crowd comes to Lut's door, hurrying as if driven, and the verse stops to say this was nothing new: they had been doing such deeds long before that evening. He does not curse them. He points them to a lawful way, marriage, and calls it purer. Then he asks them to fear Allah and not to shame him over his guests. His last sentence is a question put to the whole street: is there not among you one man of sound mind? The verses after it record no one stepping forward. The question has not expired. It still stands in every crowd that is moving toward a wrong, and it is addressed to whoever is standing in it.",
+    "reflectionBn": "একদল লোক লূত (আঃ)-এর দরজায় ছুটে আসে, যেন কেউ তাদের পেছন থেকে ঠেলছে। আয়াত এখানে একটু থেমে জানিয়ে দেয়, ব্যাপারটা নতুন নয়, সেই সন্ধ্যার অনেক আগে থেকেই তারা এমন কাজ করে আসছিল। তিনি তাদের অভিশাপ দেন না। তিনি দেখিয়ে দেন হালাল পথ, অর্থাৎ বিয়ে, আর বলেন, এটাই তোমাদের জন্য বেশি পবিত্র। তারপর বলেন, আল্লাহকে ভয় করো, আমার মেহমানদের ব্যাপারে আমাকে অপমান কোরো না। শেষ কথাটা তিনি গোটা পাড়ার দিকে ছুড়ে দেন একটা প্রশ্ন হিসেবে: তোমাদের মধ্যে কি একজনও সুবুদ্ধির মানুষ নেই? পরের আয়াতগুলোয় কাউকে এগিয়ে আসতে দেখা যায় না। প্রশ্নটার মেয়াদ কিন্তু ফুরায়নি। অন্যায়ের দিকে এগোনো প্রতিটি ভিড়ে প্রশ্নটা আজও দাঁড়িয়ে আছে, আর তা করা হচ্ছে সেই ভিড়ে যে দাঁড়িয়ে আছে তাকেই।",
+    "pointsEn": [
+      "When a group I belong to starts moving toward something wrong, do I hurry along with it, stand silent, or speak?",
+      "Is there a habit in me that was already there before, so that one hard evening would only bring it into the open?",
+      "When I warn someone away from a wrong, do I also show them the lawful door that is open to them?",
+      "Whose guests, whose name or whose dignity am I responsible for protecting this week, and what would it cost me to do it?",
+      "If someone searched my circle of friends for one person of sound mind, would they find me?"
+    ],
+    "pointsBn": [
+      "আমি যে দলের মানুষ, সেই দল যখন কোনো অন্যায়ের দিকে এগোতে থাকে, আমি কি তাদের সঙ্গে ছুটি, চুপ করে থাকি, নাকি মুখ খুলি?",
+      "আমার ভেতরে কি এমন কোনো অভ্যাস আগে থেকেই আছে, কঠিন কোনো সন্ধ্যা এলে যা শুধু বাইরে বেরিয়ে আসবে?",
+      "কাউকে অন্যায় থেকে সাবধান করার সময় কি আমি তার সামনে খোলা হালাল দরজাটাও দেখিয়ে দিই?",
+      "এ সপ্তাহে কার মেহমান, কার সম্মান বা কার মর্যাদা রক্ষার দায় আমার উপর, আর তা করতে আমার কী মূল্য দিতে হবে?",
+      "কেউ যদি আমার বন্ধুমহলে একজন সুবুদ্ধির মানুষ খুঁজতে আসে, সে কি আমাকে খুঁজে পাবে?"
+    ],
+    "lessonEn": "When a crowd moves toward a wrong, point to the lawful way, remind them of Allah, and be the one person of sound mind the question is looking for.",
+    "lessonBn": "ভিড় যখন অন্যায়ের দিকে এগোয়, তখন হালাল পথটা দেখিয়ে দিন, আল্লাহর কথা মনে করিয়ে দিন, আর প্রশ্নটা যে সুবুদ্ধির মানুষকে খুঁজছে, নিজেই সেই মানুষ হয়ে উঠুন।"
   }
 };
 

@@ -3147,6 +3147,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Crowd at Lut's Door",
+          "bn": "লূতের দরজায় ভিড়"
+        },
+        "p": [
+          {
+            "en": "In 11:77 the angels reach Lut (AS); he is distressed for them and says, this is a hard day. Our verse shows why the day was hard. His people arrive at his house in a rush, and he speaks to them. 11:79 is their reply, that they have no claim on his daughters, and 11:80 his wish for power or for a strong support. The rescue and the overturning of the town, in 11:81 and 11:82, are read on their own pages.",
+            "bn": "১১:৭৭ আয়াতে ফেরেশতারা লূত (আঃ)-এর কাছে পৌঁছান। তাঁদের নিয়ে তিনি উদ্বিগ্ন হন আর বলেন, আজ বড় কঠিন দিন। দিনটা কেন কঠিন, আমাদের আয়াত তা দেখায়। তাঁর কওমের লোকেরা হুড়মুড় করে তাঁর বাড়িতে এসে হাজির হয়, আর তিনি তাদের সঙ্গে কথা বলেন। ১১:৭৯ আয়াতে তাদের জবাব, তাঁর কন্যাদের উপর তাদের কোনো দাবি নেই। ১১:৮০ আয়াতে তাঁর আক্ষেপ, যদি শক্তি থাকত বা কোনো মজবুত আশ্রয় পেতেন। উদ্ধার আর জনপদ উল্টে দেওয়ার কথা ১১:৮১ ও ১১:৮২ আয়াতের আলাদা পাতায় আছে।"
+          },
+          {
+            "en": "The verse runs to twenty-six Arabic words in two parts. First comes narration: the crowd hurries in, and a short clause reaches back to what they had done before. Then Lut speaks, in four steps. He points to a lawful alternative, tells them to fear Allah, pleads for his honour over his guests, and ends on a question. None of the commentaries read for this verse gives it an occasion of revelation; its weight lies in the order of what he says.",
+            "bn": "আয়াতে আরবি শব্দ ছাব্বিশটি, আর তা দুই ভাগে বিভক্ত। প্রথম ভাগে বর্ণনা: ভিড় ছুটে আসে, আর ছোট্ট একটি বাক্য পেছনে ফিরে জানায় এর আগে তারা কী করত। দ্বিতীয় ভাগে লূত (আঃ)-এর কথা, যা এগোয় চারটি ধাপে। তিনি একটা হালাল বিকল্প দেখান, আল্লাহকে ভয় করতে বলেন, মেহমানদের ব্যাপারে নিজের মান রক্ষার আবেদন জানান, আর শেষ করেন একটা প্রশ্নে। এ আয়াতের জন্য পড়া কোনো তাফসীরে এর শানে নুযূল আসেনি। এর ভার তাঁর কথাগুলোর ক্রমের মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hurrying as If Pushed",
+          "bn": "যেন পেছন থেকে ঠেলা"
+        },
+        "p": [
+          {
+            "en": "Yuhra'una ilayhi: they came hurrying to him. The verb is passive in form, and al-Qurtubi explains why. Al-Kisa'i, al-Farra' and other philologists say ihra' is never mere speed but speed with trembling, as a man hastens shaking from cold, anger or fever, and that the word was only heard in the form whose agent is not named. At-Tabari gives the same picture: they were urged on towards Lut, trembling as they walked fast, from the craving for indecency in them.",
+            "bn": "ইউহরা'উনা ইলাইহি: তারা তাঁর দিকে ছুটে এল। ক্রিয়াটির রূপ কর্মবাচ্যের, আর কেন, কুরতুবী তা ব্যাখ্যা করেন। কিসাঈ, ফাররা ও অন্য ভাষাবিদদের মতে ইহরা' মানে শুধু দ্রুততা নয়, কাঁপুনির সঙ্গে দ্রুততা, যেমন শীত, রাগ বা জ্বরে কাঁপতে কাঁপতে কেউ তাড়াহুড়া করে। তাঁরা বলেন, শব্দটি শুধু কর্তার নাম না নেওয়া রূপেই শোনা গেছে। তাবারীর ছবিও একই। তারা লূতের দিকে তাড়িত হয়ে আসছিল, দ্রুত হাঁটার সঙ্গে কাঁপছিল, ভেতরের অশ্লীল লালসার কারণে।"
+          },
+          {
+            "en": "At-Tabari collects the early glosses on the pace. Mujahid says they jogged; ad-Dahhak, they ran towards him; Qatada and Ibn Abbas, they came quickly; Sufyan ibn Uyaynah, as though they were being shoved. Shamir ibn Atiyyah puts the gait between a jog and a bounding run, and al-Baghawi adds al-Hasan: a walk between two walks. Al-Qurtubi judges the meanings close. Ibn Kathir adds the motive: they hastened out of their delight at it.",
+            "bn": "তাবারী হাঁটার গতি নিয়ে প্রথম যুগের ব্যাখ্যাগুলো জড়ো করেন। মুজাহিদ বলেন, তারা হালকা দৌড়ে আসছিল। দাহহাক বলেন, তাঁর দিকে ছুটছিল। কাতাদা ও ইবন আব্বাস (রাঃ) বলেন, দ্রুত আসছিল। সুফইয়ান ইবন উয়াইনা বলেন, যেন কেউ তাদের ধাক্কা দিচ্ছিল। শামির ইবন আতিয়্যা এই চলনকে রাখেন হালকা দৌড় আর লাফিয়ে ছোটার মাঝামাঝি, আর বাগাভী যোগ করেন হাসানের কথা: দুই রকম চলনের মাঝামাঝি এক চলন। কুরতুবীর মতে অর্থগুলো কাছাকাছি। ইবন কাসীর কারণটাও বলেন: এ নিয়ে খুশিতেই তারা তাড়াহুড়া করছিল।"
+          },
+          {
+            "en": "Who did the pushing? The grammar leaves the agent unnamed, and al-Qurtubi records the answer one view supplies: ahra'ahu hirsuhu, his own eagerness drove him. On that reading their own wanting did it. As for how they learned of the guests, at-Tabari carries Ibn Ishaq saying, with the words they claim, and Allah knows best, that Lut's wife told them; al-Qurtubi relates the same as something narrated. It stays a hedged report.",
+            "bn": "ঠেলছিল কে? ব্যাকরণ কর্তার নাম নেয় না। কুরতুবী একটি মতের উত্তর উল্লেখ করেন: আহরা'আহু হিরসুহু, তার নিজের লোভ তাকে তাড়িয়ে নিয়েছে। এ পাঠে তাদের কামনাই তাদের টেনে এনেছে। মেহমানদের খবর তারা কীভাবে পেল, সে বিষয়ে তাবারী ইবন ইসহাকের কথা আনেন। তিনি বলেন, লোকেরা দাবি করে, আর আল্লাহই ভালো জানেন, লূতের স্ত্রীই তাদের খবর দিয়েছিল। কুরতুবীও কথাটা বর্ণিত বিষয় হিসেবে আনেন। দুজনেই সাবধানে বলেছেন, তাই এটা সতর্ক বর্ণনাই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Practice Older Than That Night",
+          "bn": "সে রাতের আগের অভ্যাস"
+        },
+        "p": [
+          {
+            "en": "Wa min qablu kanu ya'maluna as-sayyi'at: and before that they had been doing evil deeds. Before what? At-Tabari and al-Baghawi say, before they came to Lut that evening. Al-Qurtubi gives that as before the messengers came, and records a second view in two words: before Lut. The verb kanu ya'maluna describes something done again and again, a practice rather than a slip. Ibn Kathir reads it that way: this never ceased to be their disposition, until they were seized while still in that condition.",
+            "bn": "ওয়া মিন কাবলু কানূ ইয়া'মালূনাস সাইয়িআত: আর এর আগে থেকেই তারা মন্দ কাজ করে আসছিল। কিসের আগে? তাবারী ও বাগাভী বলেন, সে সন্ধ্যায় লূতের কাছে আসার আগে। কুরতুবী একে বলেন বার্তাবাহকদের আসার আগে, আর আরেকটি মতও উল্লেখ করেন দুই শব্দে: লূতের আগে। কানূ ইয়া'মালূনা এমন কাজের কথা বলে যা বারবার করা হয়, হঠাৎ পা ফসকানো নয়, চলে আসা রীতি। ইবন কাসীর এভাবেই পড়েন: এটাই তাদের স্বভাব হয়ে ছিল, আর শেষ পর্যন্ত সেই অবস্থাতেই তারা পাকড়াও হয়।"
+          },
+          {
+            "en": "The commentators name the deeds briefly. At-Tabari and al-Baghawi say they used to approach men; al-Muyassar, in the words of 7:81, with desire instead of women; as-Sa'di, that it was the indecency in which no one in all the worlds had preceded them, echoing 7:80. Ma'arif al-Qur'an adds that the habit had so stripped them of shame that they did not hesitate to come even to a prophet's house. Lut (AS) knew his people; hence his distress in 11:77.",
+            "bn": "তাফসীরকারেরা কাজটির নাম নেন সংক্ষেপে। তাবারী ও বাগাভী বলেন, তারা পুরুষদের কাছে যেত। মুয়াসসার ৭:৮১ আয়াতের ভাষায় বলে, নারীদের বাদ দিয়ে কামনা নিয়ে। সা'দী বলেন, এ সেই অশ্লীলতা, যাতে বিশ্বজগতের কেউ তাদের আগে লিপ্ত হয়নি, যা ৭:৮০ আয়াতের প্রতিধ্বনি। মাআরিফুল কুরআন যোগ করে, এ অভ্যাস তাদের লজ্জা এমনভাবে কেড়ে নিয়েছিল যে নবীর ঘরে চড়াও হতেও তারা দ্বিধা করেনি। লূত (আঃ) নিজের কওমকে চিনতেন, ১১:৭৭ আয়াতে তাঁর উদ্বেগের কারণ এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Daughters of a Whole Nation",
+          "bn": "গোটা কওমের কন্যারা"
+        },
+        "p": [
+          {
+            "en": "Ha'ula'i banati: these are my daughters. Who is meant is the verse's central question, and the commentators answer it in more than one way. The first answer is the women of his nation. At-Tabari's own gloss says so: he means the women of his nation, so marry them, for they are purer for you. He narrates Mujahid: they were not his daughters but were from his nation, and every prophet is the father of his nation. Ibn Kathir and al-Baghawi carry the same from Mujahid.",
+            "bn": "হা-উলা-ই বানাতী: এরা আমার কন্যা। এখানে কারা উদ্দেশ্য, সেটাই আয়াতের কেন্দ্রীয় প্রশ্ন, আর তাফসীরকারেরা এর উত্তর দেন একাধিকভাবে। প্রথম উত্তর, তাঁর কওমের নারীরা। তাবারীর নিজের ব্যাখ্যা এটাই: তিনি বোঝাচ্ছেন উম্মতের নারীদের, কাজেই তাদের বিয়ে করো, তারাই তোমাদের জন্য বেশি পবিত্র। তিনি মুজাহিদের কথা বর্ণনা করেন: এরা তাঁর নিজের কন্যা ছিল না, ছিল তাঁর উম্মতের মেয়ে, আর প্রত্যেক নবী তাঁর উম্মতের পিতা। ইবন কাসীর ও বাগাভীও মুজাহিদের একই কথা এনেছেন।"
+          },
+          {
+            "en": "Sa'id ibn Jubayr, in at-Tabari, agrees: their women are his daughters, for he is their prophet. He cites a reading of 33:6 that adds and he is a father to them; al-Baghawi credits it to Ubayy ibn Ka'b, while al-Qurtubi points to the reading of Ibn Mas'ud. Ibn Kathir lists ar-Rabi' ibn Anas, Qatada, as-Suddi and Muhammad ibn Ishaq beside Sa'id. Al-Muyassar puts it plainly: a nation's prophet stands to them as a father.",
+            "bn": "তাবারীর বর্ণনায় সাঈদ ইবন জুবাইরও একমত: তাদের নারীরাই তাঁর কন্যা, কারণ তিনি তাদের নবী। তিনি ৩৩:৬ আয়াতের এমন এক কিরাআত আনেন, যেখানে বাড়তি আছে, আর তিনি তাদের পিতা। বাগাভী এটিকে উবাই ইবন কা'ব (রাঃ)-এর কিরাআত বলেন, আর কুরতুবী ইঙ্গিত করেন ইবন মাসঊদ (রাঃ)-এর কিরাআতের দিকে। ইবন কাসীর সাঈদের পাশে রাখেন রবী' ইবন আনাস, কাতাদা, সুদ্দী ও মুহাম্মাদ ইবন ইসহাককে। মুয়াসসার সোজা কথায় বলে, কওমের নবী তাদের কাছে পিতার মতো।"
+          },
+          {
+            "en": "On this reading, Ibn Kathir says, Lut (AS) was directing them to their own wives and guiding them, as a father would, to what was better for them in this world and the next. He sets beside it 26:165 and 26:166, where Lut asks whether they leave the spouses their Lord created for them, and 15:71, where the same words return. Ibn Kathir has Ibn Jurayj, and at-Tabari has Mujahid, saying he ordered them to marry women and put nothing unlawful before them.",
+            "bn": "এ পাঠে, ইবন কাসীর বলেন, লূত (আঃ) তাদের নিজেদের স্ত্রীদের দিকে ফিরিয়ে দিচ্ছিলেন, আর পিতা যেমন করে, তেমনি দুনিয়া ও আখিরাতে যা তাদের জন্য ভালো সেদিকে পথ দেখাচ্ছিলেন। এর পাশে তিনি রাখেন ২৬:১৬৫ ও ২৬:১৬৬ আয়াত, যেখানে লূত (আঃ) জিজ্ঞেস করেন, তোমাদের রব তোমাদের জন্য যে স্ত্রীদের সৃষ্টি করেছেন, তাদের কি তোমরা ছেড়ে দিচ্ছ? আরও রাখেন ১৫:৭১ আয়াত, যেখানে একই কথা আবার আসে। ইবন কাসীর ইবন জুরাইজের সূত্রে, আর তাবারী মুজাহিদের সূত্রে বলেন, তিনি তাদের নারীদের বিয়ে করতে বলেছিলেন, হারাম কিছু তাদের সামনে রাখেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Own Daughters, by Marriage",
+          "bn": "নিজের কন্যা, বিয়ের মাধ্যমে"
+        },
+        "p": [
+          {
+            "en": "The second answer takes banati literally. Al-Qurtubi reports that he had three daughters of his own, or, it is said, two, and that he wished to marry them to two chiefs whom the people obeyed. He also carries Ibn Abbas: their leaders had once asked for his daughters and he had not agreed, and that day he wished to ransom his guests with them. At-Tabari has Qatada join both: Lut ordered them to marry women, and the Prophet of Allah wished to shield his guests with his daughters.",
+            "bn": "দ্বিতীয় উত্তরে বানাতী শব্দকে আক্ষরিক অর্থে নেওয়া হয়। কুরতুবী জানান, তাঁর নিজের তিনটি কন্যা ছিল, কারও মতে দুটি, আর কওমের দুজন নেতা, যাদের কথা লোকে মানত, তাদের সঙ্গে তিনি কন্যাদের বিয়ে দিতে চেয়েছিলেন। কুরতুবী ইবন আব্বাস (রাঃ)-এর কথাও আনেন: তাদের নেতারা একসময় তাঁর কন্যাদের বিয়ের প্রস্তাব দিয়েছিল, তিনি সাড়া দেননি, আর সেদিন তিনি চাইলেন কন্যাদের বিনিময়ে মেহমানদের বাঁচাতে। তাবারীর বর্ণনায় কাতাদা দুটো কথা একসঙ্গে বলেন: লূত (আঃ) তাদের নারীদের বিয়ে করতে বললেন, আর আল্লাহর নবী চাইলেন নিজের কন্যাদের দিয়ে মেহমানদের আড়াল করতে।"
+          },
+          {
+            "en": "This raises a question of law, since the men were not believers. Al-Baghawi and al-Qurtubi answer that in their law a believing woman could marry a disbeliever, and both recall that the Prophet ﷺ married one daughter to Utbah ibn Abi Lahab and another to Abu al-As ibn ar-Rabi' before the revelation, while both men were disbelievers. Al-Qurtubi adds that this was allowed early in Islam and later abrogated, and Ma'arif al-Qur'an follows him. Al-Baghawi also carries al-Husayn ibn al-Fadl: the offer was on condition that they accept Islam.",
+            "bn": "এখানে একটা ফিকহী প্রশ্ন ওঠে, কারণ লোকগুলো ঈমানদার ছিল না। বাগাভী ও কুরতুবীর উত্তর, তাদের শরীয়তে কাফিরের সঙ্গে মুমিন নারীর বিয়ে জায়েয ছিল। দুজনেই মনে করিয়ে দেন, নবী ﷺ ওহী আসার আগে এক কন্যার বিয়ে দিয়েছিলেন উতবা ইবন আবী লাহাবের সঙ্গে, আরেকজনের আবুল আস ইবনুর রাবী'-এর সঙ্গে, আর দুজনই তখন কাফির ছিল। কুরতুবী যোগ করেন, ইসলামের শুরুতে এটা জায়েয ছিল, পরে রহিত হয়েছে, আর মাআরিফুল কুরআন তাঁকেই অনুসরণ করে। বাগাভী হুসাইন ইবনুল ফাদলের মতও আনেন: প্রস্তাবটা ছিল এই শর্তে যে তারা ইসলাম গ্রহণ করবে।"
+          },
+          {
+            "en": "A third answer says no real offer was made. Al-Qurtubi reports a group, the view narrated from Abu Ubaydah, for whom the words were meant to fend them off, not to be carried out, and Ikrimah, that he offered neither his own daughters nor his nation's and said it only so they would leave. Al-Baghawi notes the same. As-Sa'di compares Sulayman's proposal to divide a disputed child to bring out the truth: Lut knew his daughters were beyond their reach. The article takes no side among these readings.",
+            "bn": "তৃতীয় উত্তর বলে, আসলে কোনো প্রস্তাবই দেওয়া হয়নি। কুরতুবী একদলের মত জানান, যা আবূ উবাইদা থেকে বর্ণিত: কথাটা বলা হয়েছিল তাদের ঠেকাতে, কার্যকর করার উদ্দেশ্যে নয়। ইকরিমার মতে তিনি নিজের কন্যাদেরও প্রস্তাব দেননি, কওমের কন্যাদেরও না, শুধু বলেছিলেন যাতে তারা ফিরে যায়। বাগাভীও একই কথা আনেন। সা'দী তুলনা দেন সুলাইমান (আঃ)-এর সঙ্গে, যিনি সত্য বের করতে বিবাদের শিশুকে ভাগ করার প্রস্তাব দিয়েছিলেন। লূত (আঃ) জানতেন, তাঁর কন্যারা তাদের নাগালের বাইরে। এ মতগুলোর কোনোটির পক্ষ এ লেখা নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purer, Then a Plea",
+          "bn": "পবিত্রতর, তারপর আবেদন"
+        },
+        "p": [
+          {
+            "en": "Hunna atharu lakum: they are purer for you; at-Tabari glosses, purer than the indecency you want. Al-Qurtubi heads off a misreading: af'al is no true comparative here, as if what they sought had some purity of its own. It is like Allahu akbar, where nothing competes with Allah. His example is Uhud: when Abu Sufyan cried, rise high, Hubal, the Prophet ﷺ told his Companions, say, Allah is Higher and more Sublime, though Hubal had never been high. Sahih al-Bukhari (3039) has the exchange in a longer report from al-Bara' ibn Azib (RA), unrelated to this verse.",
+            "bn": "হুন্না আতহারু লাকুম: তারা তোমাদের জন্য বেশি পবিত্র। তাবারীর ব্যাখ্যা, তোমরা যে অশ্লীলতা চাইছ তার চেয়ে পবিত্রতর। কুরতুবী একটা ভুল বোঝার পথ আগেই বন্ধ করেন: এখানে আফ'আল রূপটি আসল তুলনার জন্য নয়, যেন তারা যা চাইছিল তাতেও কিছু পবিত্রতা আছে। এ যেন আল্লাহু আকবার বলার মতো, যেখানে আল্লাহর কোনো প্রতিদ্বন্দ্বী নেই। তাঁর উদাহরণ উহুদের দিন। আবূ সুফইয়ান হাঁক দিল, হুবাল, উঁচু হও। নবী ﷺ সাহাবীদের বললেন, বলো, আল্লাহ সর্বোচ্চ ও সর্বমহান। অথচ হুবাল কখনো উঁচু ছিল না। সহীহ বুখারী (৩০৩৯) বারা ইবন আযিব (রাঃ)-এর দীর্ঘ এক বর্ণনায় কথোপকথনটি এনেছে, এ আয়াতের সঙ্গে যার সম্পর্ক নেই।"
+          },
+          {
+            "en": "Fa-ttaqu Allaha wa la tukhzuni fi dayfi: so fear Allah, and do not disgrace me concerning my guests. At-Tabari reads it as beware His punishment for the indecency you seek, and do not humiliate me by doing to my guests what they would hate. Al-Qurtubi gives two roots for the verb: khizy, humiliation and exposure, or khazayah, shame. Dayf is singular in form and plural here; the Arabs, at-Tabari notes, say dayf of one guest and of many.",
+            "bn": "ফাত্তাকুল্লাহা ওয়ালা তুখযূনি ফী দাইফী: কাজেই আল্লাহকে ভয় করো, আর আমার মেহমানদের ব্যাপারে আমাকে অপমান কোরো না। তাবারীর পাঠে: যে অশ্লীলতার খোঁজে এসেছ তার জন্য আল্লাহর শাস্তি থেকে সাবধান হও, আর মেহমানরা যা অপছন্দ করে তা তাদের সঙ্গে করে আমাকে লাঞ্ছিত কোরো না। কুরতুবী ক্রিয়াটির দুটি মূল দেখান: খিযই, মানে লাঞ্ছনা ও বেইজ্জতি, অথবা খাযায়া, মানে লজ্জা। দাইফ শব্দটি রূপে একবচন, এখানে অর্থে বহুবচন। তাবারী বলেন, আরবরা একজন মেহমানকেও দাইফ বলে, অনেককেও।"
+          },
+          {
+            "en": "As-Sa'di hears two appeals here: either keep the fear of Allah, or keep regard for me in my guests, and do not shame me before them. Al-Muyassar adds that insulting a guest is a disgrace only the foolish commit. Allah is named first, and only then Lut's own standing, and he calls the guests' danger his own disgrace, as a host who has opened his door would. Ibn Kathir puts the plea practically: accept what I command, and limit yourselves to your own women.",
+            "bn": "সা'দী এখানে দুটি আবেদন শোনেন: হয় আল্লাহর ভয়ের খেয়াল রাখো, নয়তো মেহমানদের ব্যাপারে আমার খেয়াল রাখো, তাদের সামনে আমাকে লজ্জিত কোরো না। মুয়াসসার যোগ করে, মেহমানের অপমান এমন কলঙ্ক যা কেবল নির্বোধেরাই করে। আগে আল্লাহর নাম, তারপর লূত (আঃ)-এর নিজের মর্যাদা। আর মেহমানদের বিপদকে তিনি বলেন নিজের অপমান, দরজা খুলে দেওয়া মেজবান যেমন বলে। ইবন কাসীর আবেদনটাকে কাজের ভাষায় বলেন: আমি যা বলছি মেনে নাও, নিজেদের নারীদের মধ্যেই সীমিত থাকো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking for One Sound Mind",
+          "bn": "একজন সুবুদ্ধির খোঁজে"
+        },
+        "p": [
+          {
+            "en": "Alaysa minkum rajulun rashid: is there not among you a man of sound mind? At-Tabari reads it as a man of right judgement who will forbid whoever wants to commit the indecency against my guests, and stand between them and it. He then quotes Ibn Ishaq: a man who knows the truth and forbids what is wrong. Al-Qurtubi says Lut rebuked them with this question, and glosses rashid as one who enjoins good and forbids wrong. It may mean rashid itself, one rightly guided, or murshid, one who sets others right: upright, or a setter-right.",
+            "bn": "আলাইসা মিনকুম রাজুলুর রাশীদ: তোমাদের মধ্যে কি একজনও সুবুদ্ধির মানুষ নেই? তাবারী পড়েন এভাবে: সঠিক বিবেচনার এমন কোনো মানুষ, যে আমার মেহমানদের সঙ্গে অশ্লীলতা করতে চাওয়া লোকদের নিষেধ করবে, আর তাদের ও সে কাজের মাঝখানে দাঁড়াবে। এরপর তিনি ইবন ইসহাকের কথা আনেন: এমন মানুষ, যে সত্য চেনে আর অন্যায়ে বাধা দেয়। কুরতুবী বলেন, এ প্রশ্ন দিয়ে লূত (আঃ) তাদের তিরস্কার করেছেন, আর রাশীদের ব্যাখ্যা দেন সৎকাজের আদেশ ও অসৎকাজে নিষেধ করা মানুষ। শব্দটি রাশিদ অর্থে হতে পারে, অর্থাৎ নিজে সঠিক পথে আছে, অথবা মুরশিদ অর্থে, অর্থাৎ অন্যকে সঠিক পথে আনে।"
+          },
+          {
+            "en": "Others name the quality differently. In al-Qurtubi, Ibn Abbas says a believer, and Abu Malik, one who forbids wrong. Al-Baghawi has righteous and sound, with Ikrimah's a man who says la ilaha illa Allah. Ibn Kathir reads any man with good in him who would accept what Lut commanded. As-Sa'di's man would forbid and restrain them, and he takes the question itself as evidence of how far they had slipped from goodness and decency.",
+            "bn": "অন্যরা গুণটির নাম দেন ভিন্নভাবে। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, একজন মুমিন, আর আবূ মালিক বলেন, যে অন্যায়ে বাধা দেয়। বাগাভীর ব্যাখ্যা, নেককার ও সঠিক মানুষ, আর ইকরিমার কথায়, যে লা ইলাহা ইল্লাল্লাহ বলে। ইবন কাসীরের পাঠে এমন যে কোনো মানুষ, যার ভেতরে কল্যাণ আছে আর যে লূত (আঃ)-এর আদেশ মানবে। সা'দীর কাছে সে এমন মানুষ, যে তাদের নিষেধ করবে, ধমকে থামাবে। আর প্রশ্নটার মধ্যেই তিনি প্রমাণ দেখেন, তারা কল্যাণ ও ভদ্রতা থেকে কতটা সরে গিয়েছিল।"
+          },
+          {
+            "en": "Notice what Lut (AS) asks for. With guests behind him and a street in front, he does not ask the crowd to change its mind together. He asks for a single man. The glosses agree on what that man would do: know the truth, speak, forbid, and stand between the wrong and those it was aimed at. Rushd here is not cleverness but the sense to see a wrong for what it is and the nerve to step in front of it. Lut's people had numbers; what they lacked was that man.",
+            "bn": "লূত (আঃ) কী চাইছেন, খেয়াল করুন। পেছনে মেহমান, সামনে গোটা পাড়া। তিনি চান না পুরো ভিড় একসঙ্গে মত বদলাক। তিনি চান মাত্র একজন মানুষ। সেই মানুষ কী করত, তা নিয়ে ব্যাখ্যাগুলো একমত: সত্য চিনত, মুখ খুলত, নিষেধ করত, আর অন্যায় ও যাদের উপর তা চাপানো হচ্ছে তাদের মাঝখানে দাঁড়াত। এখানে রুশদ মানে চালাকি নয়। রুশদ মানে অন্যায়কে অন্যায় বলে চেনার বিবেক, আর তার সামনে গিয়ে দাঁড়ানোর সাহস। লূতের কওমের লোকসংখ্যার অভাব ছিল না, অভাব ছিল ওই একজন মানুষের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing Where No One Stands",
+          "bn": "যেখানে কেউ দাঁড়ায় না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. Lut's people are a past people, and the verse describes what the text describes: what they did on an evening long gone and how their prophet answered them. It licenses nothing against any living person or community, and must not be used to demean anyone or to justify harm to any person. Lut (AS) shows the tone himself: he pleads, names Allah and points to a lawful way. None of the commentaries read for this verse attaches a hadith to it; the saying on Allah's mercy upon Lut belongs to 11:80 and is treated with 11:81.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। লূতের কওম অতীতের এক জাতি। আয়াত শুধু তা-ই বর্ণনা করে যা এতে আছে: বহু আগের এক সন্ধ্যায় তারা কী করেছিল আর তাদের নবী কীভাবে জবাব দিয়েছিলেন। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে হেয় করতে বা কারও ক্ষতির পক্ষে একে ব্যবহার করা চলবে না। সুরটা লূত (আঃ) নিজেই দেখিয়ে দেন: অনুনয়, আল্লাহর নাম, আর হালাল পথের দিকে ইশারা। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি। লূতের উপর আল্লাহর রহমতের হাদিসটি ১১:৮০ আয়াতের, আর তার আলোচনা আছে ১১:৮১ আয়াতের পাতায়।"
+          },
+          {
+            "en": "When the people around you hurry towards a wrong, its last question is put to you: is there not among you a man of sound mind? Answering may cost something, as it cost Lut. It looks like naming Allah aloud, pointing to the lawful door, refusing to let a guest or a weaker person be shamed, and staying when leaving is easier. A short prayer in the verse's spirit, not a transmitted du'a: O Allah, make me rashid when the crowd runs, and do not disgrace me in those entrusted to me.",
+            "bn": "চারপাশের মানুষ যখন কোনো অন্যায়ের দিকে ছুটে যায়, আয়াতের শেষ প্রশ্নটা তখন আপনাকেই করা হয়: তোমাদের মধ্যে কি একজনও সুবুদ্ধির মানুষ নেই? এর জবাব দিতে মূল্য দিতে হতে পারে, যেমন লূত (আঃ)-কে দিতে হয়েছিল। জবাবটা দেখতে এমন: জোরে আল্লাহর নাম নেওয়া, হালাল দরজাটা দেখিয়ে দেওয়া, কোনো মেহমান বা দুর্বল মানুষকে অপমানিত হতে না দেওয়া, আর সরে পড়া সহজ হলেও থেকে যাওয়া। আয়াতের ভাব থেকে ছোট্ট একটি দোয়া, যা বর্ণিত দোয়া নয়: হে আল্লাহ, ভিড় যখন ছোটে, আমাকে রাশীদ বানিয়ে দিন, আর আমার কাছে যাদের আমানত রাখা হয়েছে, তাদের ব্যাপারে আমাকে লাঞ্ছিত করবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "11:81": {
     "sections": [
       {
