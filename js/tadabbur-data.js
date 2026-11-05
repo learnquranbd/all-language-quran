@@ -21331,6 +21331,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never put words in Allah's mouth, and never push His words aside. Both are the gravest wrong, and neither ends in success.",
     "lessonBn": "আল্লাহ যা বলেননি তা কখনো তাঁর নামে চালাবেন না, আর তাঁর কথাকে কখনো সরিয়ে রাখবেন না। দুটোই সবচেয়ে বড় যুলুম, আর কোনোটার শেষেই সফলতা নেই।"
+  },
+  "9:113": {
+    "reflectionEn": "Some of the people we love most may not share our faith. This verse draws a line around them, and the line is narrower than it first sounds. It does not stop a believer from loving a parent, serving them, or asking Allah to guide them while they live. It speaks of asking forgiveness for those who associate partners with Allah after it has become clear that they are people of the Fire, and the verse itself sets that condition. Who died on what, and whose end is settled, is not ours to announce. What is ours is the time still left: the prayer for guidance, the kindness, the gentle word, offered while the door stands open.",
+    "reflectionBn": "আমরা যাদের সবচেয়ে বেশি ভালোবাসি, তাদের কেউ কেউ হয়তো আমাদের ঈমানের অংশীদার নন। এ আয়াত তাদের ঘিরে একটা সীমারেখা টানে, তবে রেখাটা প্রথমে যতটা মনে হয় ততটা চওড়া নয়। মা-বাবাকে ভালোবাসা, তাঁদের খেদমত করা, কিংবা তাঁরা বেঁচে থাকতে তাঁদের হিদায়াতের জন্য আল্লাহর কাছে দোয়া করা, এর কোনোটাই আয়াত নিষেধ করে না। কথাটা মুশরিকদের জন্য মাগফিরাত চাওয়া নিয়ে, তাও তারা জাহান্নামী বলে স্পষ্ট হয়ে যাওয়ার পর। এই শর্তটা আয়াত নিজেই জুড়ে দিয়েছে। কে কী অবস্থায় মারা গেল, কার পরিণাম চূড়ান্ত হয়ে গেছে, সে ঘোষণা দেওয়ার দায়িত্ব আমাদের নয়। আমাদের হাতে আছে বাকি সময়টুকু: হিদায়াতের দোয়া, সদয় আচরণ, নরম কথা। দরজা খোলা থাকতে থাকতেই সেগুলো দিয়ে দেওয়া।",
+    "pointsEn": [
+      "Is there someone close to me, still alive, whose guidance I have quietly stopped praying for?",
+      "Have I ever spoken about a person's final end as though I knew it, when only Allah does?",
+      "Does my love for a relative who does not share my faith show itself as kindness and service, or only as worry?",
+      "When what I wish for someone and what Allah has commanded pull apart, which one do I let lead?",
+      "What would I want to have said, or done, for a loved one before the chance closed?"
+    ],
+    "pointsBn": [
+      "আমার কাছের এমন কেউ কি আছেন, যিনি এখনো বেঁচে আছেন, অথচ তাঁর হিদায়াতের জন্য দোয়া করা আমি চুপচাপ ছেড়ে দিয়েছি?",
+      "কারও শেষ পরিণাম নিয়ে কি কখনো এমনভাবে কথা বলেছি, যেন আমি তা জানি? অথচ তা জানেন কেবল আল্লাহ।",
+      "যে আত্মীয় আমার ঈমানের অংশীদার নন, তাঁর প্রতি আমার ভালোবাসা কি সদয় আচরণ আর খেদমতে ধরা পড়ে, নাকি শুধু দুশ্চিন্তায়?",
+      "কারও জন্য আমার চাওয়া আর আল্লাহর হুকুম যখন দুই দিকে টানে, তখন আমি কোনটাকে আগে রাখি?",
+      "সুযোগ ফুরিয়ে যাওয়ার আগে প্রিয় মানুষটার জন্য কী বলে বা কী করে রাখতে পারলে ভালো লাগত?"
+    ],
+    "lessonEn": "Pray for the guidance of the living you love, treat them with kindness, and leave every person's final end to Allah, who alone knows it.",
+    "lessonBn": "যে প্রিয়জনেরা বেঁচে আছেন তাঁদের হিদায়াতের জন্য দোয়া করুন, তাঁদের সঙ্গে সদয় আচরণ করুন, আর প্রত্যেকের শেষ পরিণাম আল্লাহর হাতে ছেড়ে দিন, তিনিই একমাত্র তা জানেন।"
   }
 };
 

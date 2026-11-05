@@ -4279,6 +4279,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:113": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Limit After the Sale",
+          "bn": "বেচাকেনার পরে এক সীমারেখা"
+        },
+        "p": [
+          {
+            "en": "Ma kana lin-nabiyyi wa-alladhina amanu an yastaghfiru lil-mushrikin: it is not for the Prophet ﷺ and those who believe to ask forgiveness for the idolaters. The verse follows the sale of 9:111 and the nine qualities of 9:112, the last of which is guarding the limits of Allah. Here a limit of that kind is named, and it falls in the most tender place: wa-law kanu uli qurba, even if they were near of kin. Ma'arif al-Qur'an notes that the surah's earlier commands of withdrawal concern this world, while this command concerns the next, much as 9:84 had barred the funeral prayer over the hypocrites.",
+            "bn": "মা কানা লিন-নাবিয়্যি ওয়াল্লাযীনা আমানূ আঁই ইয়াসতাগফিরূ লিল-মুশরিকীন: নবী ﷺ ও মুমিনদের জন্য মুশরিকদের মাগফিরাত চাওয়া শোভা পায় না। আয়াতটি এসেছে ৯:১১১-এর বেচাকেনা আর ৯:১১২-এর নয়টি গুণের ঠিক পরে। সেই গুণগুলোর শেষটি হলো আল্লাহর সীমারেখা রক্ষা করা। এখানে তেমনই এক সীমার নাম এল, আর তা পড়ল সবচেয়ে কোমল জায়গায়: ওয়া লাও কানূ উলী কুরবা, তারা নিকটাত্মীয় হলেও। মাআরিফুল কুরআন বলে, সূরার আগের সম্পর্কচ্ছেদের হুকুমগুলো দুনিয়ার জীবন নিয়ে। এ হুকুম আখিরাত নিয়ে, যেমন ৯:৮৪ মুনাফিকদের জানাযা পড়তে নিষেধ করেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi reports that the scholars of meaning find ma kana used in the Qur'an in two ways. One is plain negation, as in 27:60, it was not for you to make its trees grow, and 3:145, no soul may die except by Allah's leave. The other carries the sense of prohibition, as in 33:53, it is not for you to harm the Messenger of Allah, and he places this verse in that second group. At-Tabari glosses it as ma kana yanbaghi, it was not proper, and as-Sa'di as ma yaliqu wa-la yahsunu, it neither befits nor becomes them.",
+            "bn": "কুরতুবী অর্থবিদ আলেমদের সূত্রে জানান, কুরআনে মা কানা দুইভাবে আসে। একটি সাধারণ না-বাচক, যেমন ২৭:৬০: তার গাছ জন্মানো তোমাদের সাধ্যে ছিল না। কিংবা ৩:১৪৫: আল্লাহর অনুমতি ছাড়া কোনো প্রাণের মৃত্যু হয় না। অন্যটির ভেতরে থাকে নিষেধের অর্থ, যেমন ৩৩:৫৩: আল্লাহর রাসূলকে কষ্ট দেওয়া তোমাদের জন্য সংগত নয়। এ আয়াতকে তিনি দ্বিতীয় দলে রাখেন। তাবারী এর ব্যাখ্যা দেন মা কানা ইয়ামবাগী দিয়ে, অর্থাৎ উচিত ছিল না। আর সা'দী বলেন মা ইয়ালীকু ওয়া লা ইয়াহসুনু: তাদের সাজে না, তাদের জন্য ভালোও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for What Will Not Be",
+          "bn": "যা হবে না, তা চাওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes the words one at a time. An yastaghfiru means to call for forgiveness; uli qurba means those bound to them by kinship. Then he reads the condition, min ba'di ma tabayyana lahum annahum ashab al-jahim, as after they had died on their shirk and the worship of idols, so that it had become clear they were people of the Fire. His reason is short: Allah has decreed that He will not forgive an idolater, so the believers ought not to ask their Lord to do what they already know He will not do.",
+            "bn": "তাবারী শব্দগুলো একটা একটা করে খোলেন। আঁই ইয়াসতাগফিরূ মানে মাগফিরাতের জন্য দোয়া করা, আর উলী কুরবা মানে যাদের সঙ্গে আত্মীয়তার বাঁধন আছে। তারপর শর্তটা, মিম বা'দি মা তাবাইয়ানা লাহুম আন্নাহুম আসহাবুল জাহীম। তাঁর ব্যাখ্যায় এর মানে, শিরক আর মূর্তিপূজার উপর তাদের মৃত্যু হয়ে যাওয়ার পর, যখন স্পষ্ট হয়ে গেছে তারা জাহান্নামী। কারণটাও তিনি অল্প কথায় দেন। আল্লাহ ফয়সালা করে রেখেছেন, কোনো মুশরিককে তিনি ক্ষমা করবেন না। তাই যা তিনি করবেন না বলে মুমিনরা জানে, তা রবের কাছে চাওয়া তাদের উচিত নয়।"
+          },
+          {
+            "en": "The Muyassar keeps the same line, after they died on their shirk, and adds two verses as its ground: inna Allaha la yaghfiru an yushraka bihi, Allah does not forgive that partners be associated with Him (4:48), and whoever associates partners with Allah, Allah has forbidden Paradise to him (5:72). As-Sa'di widens the condition slightly: when they died on shirk, or it was known that they would die on it. Then, he says, the word of punishment is due on them, and neither the intercession of intercessors nor the forgiveness-seeking of those who seek it will benefit them.",
+            "bn": "মুয়াসসারও একই পথে চলে: শিরকের উপর তাদের মৃত্যুর পর। সঙ্গে দলিল হিসেবে আনে দুটি আয়াত। একটি ইন্নাল্লাহা লা ইয়াগফিরু আঁই ইউশরাকা বিহী, আল্লাহ তাঁর সঙ্গে শরিক করার গুনাহ ক্ষমা করেন না (৪:৪৮)। অন্যটি, যে আল্লাহর সঙ্গে শরিক করে, আল্লাহ তার জন্য জান্নাত হারাম করে দিয়েছেন (৫:৭২)। সা'দী শর্তটা একটু বিস্তৃত করেন: যখন তারা শিরকের উপর মারা গেছে, কিংবা জানা গেছে যে তারা শিরকের উপরই মারা যাবে। তাঁর ভাষায়, তখন তাদের উপর আযাবের ফয়সালা অবধারিত হয়ে যায়। সুপারিশকারীর সুপারিশ বা ইস্তিগফারকারীর ইস্তিগফার, কোনোটাই আর তাদের কাজে আসে না।"
+          },
+          {
+            "en": "As-Sa'di then gives a second reason, which looks at the one asking rather than the one asked for. The Prophet ﷺ and the believers with him are to agree with their Lord in what pleases Him and what angers Him, to befriend whom Allah befriends and oppose whom He opposes. Asking forgiveness for someone it has become clear is of the people of the Fire runs against that agreement. His two reasons thus look in two directions: at the dead, whom such a prayer no longer benefits, and at the believer, whose heart is to stay with its Lord's judgment.",
+            "bn": "এরপর সা'দী দ্বিতীয় একটি কারণ দেন। এবার তাঁর নজর যার জন্য চাওয়া হচ্ছে তার দিকে নয়, যে চাইছে তার দিকে। নবী ﷺ ও তাঁর সঙ্গের মুমিনদের কর্তব্য রবের সন্তুষ্টি আর অসন্তুষ্টিতে তাঁর সঙ্গে একমত থাকা। আল্লাহ যাকে বন্ধু বানান তাকে বন্ধু ভাবা, আর যার বিরোধিতা করেন তার বিরোধিতা করা। যে জাহান্নামী বলে স্পষ্ট হয়ে গেছে, তার জন্য ইস্তিগফার এই একমত থাকার বিপরীত। তাঁর দুই কারণ তাই দুই দিকে তাকায়। একদিকে মৃত ব্যক্তি, যার কাছে এমন দোয়া আর কোনো উপকার পৌঁছায় না। অন্যদিকে মুমিন নিজে, যার হৃদয়কে রবের ফয়সালার সঙ্গেই থাকতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At an Uncle's Deathbed",
+          "bn": "চাচার শেষ শয্যার পাশে"
+        },
+        "p": [
+          {
+            "en": "The occasion is disputed, and at-Tabari opens it that way: the people of interpretation differed over the cause for which this verse came down. Some said it concerned Abu Talib, the Prophet's uncle, because the Prophet ﷺ wished to ask forgiveness for him after his death and Allah forbade it. At-Tabari, al-Qurtubi, al-Baghawi and Ibn Kathir all bring the same report for this view, from Sa'id ibn al-Musayyab from his father, and Ibn Kathir notes that both Sahihs record it. Al-Bukhari's wording (4675) is the one given here.",
+            "bn": "নাযিলের উপলক্ষ নিয়ে মতভেদ আছে, তাবারী শুরুতেই তা জানিয়ে দেন: কোন কারণে আয়াতটি নাযিল হয়েছে, সে বিষয়ে তাফসীরকারেরা ভিন্ন মত দিয়েছেন। কেউ বলেছেন, এটি নবী ﷺ-এর চাচা আবু তালিব প্রসঙ্গে। নবী ﷺ তাঁর মৃত্যুর পর তাঁর জন্য মাগফিরাত চাইতে চেয়েছিলেন, আর আল্লাহ তা নিষেধ করলেন। এ মতের পক্ষে তাবারী, কুরতুবী, বাগাভী ও ইবন কাসীর সবাই একই বর্ণনা আনেন, সাঈদ ইবনুল মুসাইয়্যিব তাঁর পিতার সূত্রে। ইবন কাসীর জানান, দুই সহীহ গ্রন্থেই এটি আছে। এখানে বুখারীর (৪৬৭৫) শব্দগুলো দেওয়া হলো।"
+          },
+          {
+            "en": "Al-Musayyab narrated: When Abu Talib's death approached, the Prophet ﷺ went to him while Abu Jahl and 'Abdullah ibn Abi Umayya were present with him. The Prophet ﷺ said, \"O uncle, say: None has the right to be worshipped except Allah, so that I may argue for your case with it before Allah.\" Abu Jahl and 'Abdullah ibn Abi Umayya said, \"O Abu Talib! Do you want to renounce 'Abd al-Muttalib's religion?\" Then the Prophet ﷺ said, \"I will keep on asking forgiveness for you unless I am forbidden to do so.\" Then this verse, 9:113, was revealed.",
+            "bn": "মুসাইয়্যিব বর্ণনা করেন: আবু তালিবের মৃত্যু যখন ঘনিয়ে এল, নবী ﷺ তাঁর কাছে গেলেন। তখন সেখানে আবু জাহল ও আবদুল্লাহ ইবন আবী উমাইয়া উপস্থিত ছিল। নবী ﷺ বললেন, \"চাচা, বলুন: আল্লাহ ছাড়া ইবাদতের যোগ্য কেউ নেই। এ কথা দিয়ে আমি আল্লাহর কাছে আপনার পক্ষে যুক্তি দেখাব।\" আবু জাহল ও আবদুল্লাহ ইবন আবী উমাইয়া বলল, \"আবু তালিব, আপনি কি আবদুল মুত্তালিবের ধর্ম ছেড়ে দিতে চান?\" তখন নবী ﷺ বললেন, \"যতক্ষণ আমাকে নিষেধ করা না হয়, আমি আপনার জন্য মাগফিরাত চাইতেই থাকব।\" তারপর নাযিল হলো এই আয়াত, ৯:১১৩।"
+          },
+          {
+            "en": "Several of the tafsirs' versions carry more than al-Bukhari's lines here: the Prophet ﷺ kept repeating the offer, and at-Tabari's, al-Qurtubi's and Ibn Kathir's versions add that 28:56, you do not guide whom you love, came down about Abu Talib. Ma'arif al-Qur'an recalls that he supported and protected his nephew all his life and would not heed his clan against him. What the reports set down is care kept up to the last breath and an oath to keep asking. This page adds nothing to them about any person's end.",
+            "bn": "তাফসীরগুলোর কয়েকটি বর্ণনায় বুখারীর এই লাইনগুলোর চেয়ে বেশি কথা আছে। নবী ﷺ বারবার প্রস্তাবটা দিয়ে যাচ্ছিলেন। তাবারী, কুরতুবী ও ইবন কাসীরের বর্ণনায় আরও আছে, আবু তালিবের ব্যাপারে নাযিল হয়েছিল ২৮:৫৬: আপনি যাকে ভালোবাসেন তাকে হিদায়াত দিতে পারেন না। মাআরিফুল কুরআন স্মরণ করিয়ে দেয়, তিনি সারা জীবন ভাতিজাকে সমর্থন ও রক্ষা করেছেন, তাঁর বিরুদ্ধে নিজ গোত্রের কথা শোনেননি। বর্ণনাগুলো যা লিখে রেখেছে, তা শেষ নিঃশ্বাস পর্যন্ত টিকে থাকা মমতা আর চাইতে থাকার এক কসম। কারও পরিণাম নিয়ে এ লেখা তার সঙ্গে কিছুই যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Late Surah, an Early Death",
+          "bn": "শেষের সূরা, আগের মৃত্যু"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi quotes the same report through Muslim and draws its consequence: on this reading the verse abrogates the Prophet's asking forgiveness for his uncle, for he asked it for him after his death, according to what is narrated outside the Sahih. Then he sets an objection beside it from al-Husayn ibn al-Fadl, who calls this reading far-fetched. The surah, he says, is among the last of the Qur'an to come down, while Abu Talib died in the early vigour of Islam, when the Prophet ﷺ was still in Makkah.",
+            "bn": "কুরতুবী একই বর্ণনা মুসলিমের সূত্রে উদ্ধৃত করেন এবং তার ফল টানেন। এই পাঠ অনুযায়ী আয়াতটি চাচার জন্য নবী ﷺ-এর মাগফিরাত চাওয়াকে রহিত করেছে। কারণ সহীহ গ্রন্থের বাইরের বর্ণনা অনুযায়ী, তাঁর মৃত্যুর পরও তিনি তাঁর জন্য মাগফিরাত চেয়েছিলেন। এর পাশেই কুরতুবী রাখেন হুসাইন ইবনুল ফাদলের আপত্তি। তাঁর মতে এ পাঠ দূরবর্তী। তিনি বলেন, সূরাটি কুরআনের সবশেষে নাযিল হওয়া অংশগুলোর একটি। অথচ আবু তালিব মারা গেছেন ইসলামের শুরুর জোয়ারের দিনে, নবী ﷺ তখনো মক্কায়।"
+          },
+          {
+            "en": "Al-Qurtubi does not settle the question in this passage; he records the objection and moves to his next matter. Ibn Kathir and Ma'arif al-Qur'an, for their part, present the deathbed report as the verse's background without raising the gap in years. The article keeps both as they stand: a report in the Sahih that links the verse to Abu Talib, and a named scholar who found the link hard to fit with the surah's late date. The tafsirs bring two other occasions as well, and they come next.",
+            "bn": "কুরতুবী এই অংশে প্রশ্নটার মীমাংসা করেন না। আপত্তিটা লিখে রেখে তিনি পরের মাসআলায় চলে যান। ইবন কাসীর ও মাআরিফুল কুরআন আবার মৃত্যুশয্যার বর্ণনাটিকেই আয়াতের পটভূমি হিসেবে পেশ করে, বছরের ব্যবধানের প্রশ্ন তোলে না। এ লেখা দুটোকেই যেমন আছে তেমন রাখছে। একদিকে সহীহ গ্রন্থের এক বর্ণনা, যা আয়াতকে আবু তালিবের সঙ্গে যুক্ত করে। অন্যদিকে নাম-উল্লেখিত এক আলেম, যিনি সূরার শেষ দিকের সময়ের সঙ্গে এই যোগসূত্র মেলাতে কষ্ট পেয়েছেন। তাফসীরগুলো আরও দুটি উপলক্ষের কথা আনে, সেগুলো এর পরে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Permission Asked at a Grave",
+          "bn": "কবরের পাশে অনুমতি চাওয়া"
+        },
+        "p": [
+          {
+            "en": "A second occasion concerns the Prophet's mother, Amina. Al-Baghawi reports, from Abu Hurayra and Burayda, that when the Prophet ﷺ came to Makkah he went to her grave and stood at it until the sun grew hot, hoping to be given leave to ask forgiveness for her, and the verse came down. Al-Baghawi gives that without a chain of narrators, and then brings a report from Muslim.",
+            "bn": "দ্বিতীয় উপলক্ষ নবী ﷺ-এর মা আমিনাকে ঘিরে। বাগাভী আবু হুরায়রা ও বুরাইদার সূত্রে জানান, নবী ﷺ মক্কায় এসে মায়ের কবরের কাছে গেলেন। মাগফিরাত চাওয়ার অনুমতি পাওয়ার আশায় সেখানে দাঁড়িয়ে রইলেন, রোদ তেতে ওঠা পর্যন্ত। তখন আয়াতটি নাযিল হলো। বাগাভী এটি সনদ ছাড়া উল্লেখ করেন, তারপর মুসলিম থেকে একটি বর্ণনা আনেন।"
+          },
+          {
+            "en": "Muslim (976) has it from Abu Hurayra: \"The Prophet ﷺ visited the grave of his mother and he wept, and moved those around him to tears, and said: I sought permission from my Lord to ask forgiveness for her, but it was not granted to me; and I sought permission to visit her grave, and it was granted to me. So visit the graves, for they remind you of death.\"",
+            "bn": "মুসলিম (৯৭৬) এটি আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন: \"নবী ﷺ তাঁর মায়ের কবর যিয়ারত করলেন। তিনি কাঁদলেন, আশপাশের সবাইকেও কাঁদালেন। তারপর বললেন: আমি আমার রবের কাছে তাঁর জন্য মাগফিরাত চাওয়ার অনুমতি চেয়েছিলাম, আমাকে অনুমতি দেওয়া হয়নি। তাঁর কবর যিয়ারতের অনুমতি চেয়েছিলাম, তা দেওয়া হয়েছে। অতএব তোমরা কবর যিয়ারত করো, কারণ কবর মৃত্যুর কথা মনে করিয়ে দেয়।\""
+          },
+          {
+            "en": "Muslim's wording does not name this verse. The link to 9:113 comes from narrations in the tafsirs. Ibn Kathir brings one through Ibn Abi Hatim, from Ibn Mas'ud, in which the Prophet ﷺ says he asked leave to pray for her, was refused, and the verse was sent down to him. Another, through at-Tabarani, sets the scene on the return from Tabuk and has Jibril bring 9:114; Ibn Kathir himself calls it a strange report. What the sound text gives is a son's tears, a request declined and a visit allowed, and an instruction drawn from it for everyone: go to the graves, for they remind you of death.",
+            "bn": "মুসলিমের শব্দে এ আয়াতের নাম নেই। ৯:১১৩-এর সঙ্গে যোগসূত্রটা এসেছে তাফসীরের বর্ণনাগুলো থেকে। ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইবন মাসঊদ (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে নবী ﷺ বলেন, তিনি মায়ের জন্য দোয়ার অনুমতি চেয়েছিলেন, পাননি, আর তাঁর উপর আয়াতটি নাযিল হয়েছিল। তাবারানীর সূত্রে আরেকটি বর্ণনা ঘটনাটিকে তাবুক থেকে ফেরার পথে বসায়, সেখানে জিবরীল (আঃ) নিয়ে আসেন ৯:১১৪। ইবন কাসীর নিজেই সেটিকে গরীব, অর্থাৎ অদ্ভুত বর্ণনা বলেছেন। সহীহ বর্ণনা যা দেয় তা হলো এক সন্তানের চোখের পানি, ফিরিয়ে দেওয়া একটি অনুমতি আর মঞ্জুর হওয়া একটি যিয়ারত। আর তা থেকে সবার জন্য একটি নির্দেশ: কবর যিয়ারত করো, কারণ তা মৃত্যুর কথা মনে করিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Did Ibrahim Not Ask?",
+          "bn": "ইবরাহীম কি চাননি?"
+        },
+        "p": [
+          {
+            "en": "The third occasion has no prophet's household in it, only an ordinary man. At-Tirmidhi (3101) records from 'Ali: \"I heard a man seeking forgiveness for his parents who were idolaters, so I said to him: You seek forgiveness for your parents while they are idolaters? He said: Did Ibrahim not seek forgiveness for his father, and he was an idolater? So I mentioned that to the Prophet ﷺ, and there came down: It is not for the Prophet and those who believe that they should seek forgiveness for the idolaters.\" At-Tirmidhi says: this hadith is hasan.",
+            "bn": "তৃতীয় উপলক্ষে কোনো নবী-পরিবার নেই, আছেন একজন সাধারণ মানুষ। তিরমিযী (৩১০১) আলী (রাঃ) থেকে বর্ণনা করেন: \"আমি এক ব্যক্তিকে তার মা-বাবার জন্য মাগফিরাত চাইতে শুনলাম, অথচ তারা ছিল মুশরিক। আমি তাকে বললাম: তোমার মা-বাবা মুশরিক, তবু তুমি তাদের জন্য মাগফিরাত চাইছ? সে বলল: ইবরাহীম কি তাঁর পিতার জন্য মাগফিরাত চাননি, অথচ তাঁর পিতা মুশরিক ছিল? আমি বিষয়টি নবী ﷺ-কে জানালাম। তখন নাযিল হলো: নবী ও মুমিনদের জন্য মুশরিকদের মাগফিরাত চাওয়া সংগত নয়।\" তিরমিযী বলেন: হাদীসটি হাসান।"
+          },
+          {
+            "en": "The same report from 'Ali ends differently elsewhere. An-Nasa'i (2036) closes it with the next verse, 9:114, and al-Baghawi's version closes it with 60:4, the example of Ibrahim except for his word to his father. Ibn Kathir has it through Ahmad, running from this verse to the clause of 9:114 about Ibrahim's dissociation. The man's question is exactly what the next verse takes up: the asking of Ibrahim (AS) was only because of a promise he had made his father, and when it became clear to him that his father was an enemy of Allah, he dissociated himself from him. That verse is its own subject.",
+            "bn": "আলী (রাঃ)-এর একই বর্ণনা অন্য জায়গায় ভিন্নভাবে শেষ হয়। নাসাঈ (২০৩৬) এর শেষে আনেন পরের আয়াত ৯:১১৪। বাগাভীর বর্ণনা শেষ হয় ৬০:৪ দিয়ে, যেখানে ইবরাহীম (আঃ)-এর আদর্শের কথা, কেবল পিতার প্রতি তাঁর কথাটি বাদে। ইবন কাসীর এটি আহমাদের সূত্রে আনেন। সেখানে নাযিলের কথা এ আয়াত থেকে শুরু হয়ে চলে ৯:১১৪-এর সেই অংশ পর্যন্ত, যেখানে ইবরাহীম পিতার থেকে সম্পর্ক ছিন্ন করেন। লোকটির প্রশ্নটাই পরের আয়াতের বিষয়। ইবরাহীম (আঃ) মাগফিরাত চেয়েছিলেন কেবল পিতাকে দেওয়া এক প্রতিশ্রুতির কারণে। যখন তাঁর কাছে স্পষ্ট হলো যে পিতা আল্লাহর শত্রু, তিনি তার থেকে সম্পর্ক ছিন্ন করলেন। সে আয়াতের আলোচনা তার নিজের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While a Relative Still Lives",
+          "bn": "আত্মীয় যতদিন বেঁচে আছেন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi raises a question against the verse: at Uhud, with his tooth broken and his face wounded, the Prophet ﷺ is reported to have said, O Allah, forgive my people, for they do not know. His first answer is that the Prophet ﷺ was relating the words of an earlier prophet, and he cites al-Bukhari, who records (3477) from 'Abdullah: \"As if I saw the Prophet ﷺ talking about one of the prophets whose nation had beaten him and caused him to bleed, while he was cleaning the blood off his face and saying: O Allah! Forgive my nation, for they have no knowledge.\"",
+            "bn": "কুরতুবী আয়াতের বিপরীতে একটি প্রশ্ন তোলেন। উহুদে যখন নবী ﷺ-এর দাঁত ভেঙে গেল, মুখ আহত হলো, তখন তিনি বলেছিলেন বলে বর্ণিত: হে আল্লাহ, আমার কওমকে ক্ষমা করুন, কারণ তারা জানে না। তাঁর প্রথম জবাব, নবী ﷺ এখানে পূর্ববর্তী এক নবীর কথা বর্ণনা করছিলেন। দলিল হিসেবে তিনি বুখারীর উল্লেখ করেন। বুখারী (৩৪৭৭) আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেন: \"আমি যেন এখনো নবী ﷺ-কে দেখছি, তিনি নবীদের মধ্যে একজনের কথা বলছেন। তাঁর কওম তাঁকে মেরে রক্তাক্ত করেছিল। তিনি মুখ থেকে রক্ত মুছছিলেন আর বলছিলেন: হে আল্লাহ, আমার কওমকে ক্ষমা করুন, কারণ তারা জানে না।\""
+          },
+          {
+            "en": "He gives two more answers. 'Ata' ibn Abi Rabah held that asking forgiveness here means the funeral prayer, which Allah withheld only from the idolaters. The third answer is that asking forgiveness for the living is permitted, because their faith is still hoped for and they can be won with kind words. Many scholars, al-Qurtubi adds, saw no harm in a man praying for his disbelieving parents and asking forgiveness for them while they live. He and Ibn Kathir both carry Ibn 'Abbas: the believers held back from asking for their dead, but were not forbidden to ask for the living until they die.",
+            "bn": "কুরতুবী আরও দুটি জবাব দেন। আতা ইবন আবী রাবাহর মতে, এখানে মাগফিরাত চাওয়া মানে জানাযার নামায, যা আল্লাহ কেবল মুশরিকদের থেকে বিরত রেখেছেন। তৃতীয় জবাব হলো, জীবিতদের জন্য মাগফিরাত চাওয়া জায়েয। কারণ তাদের ঈমান আনার আশা এখনো আছে, আর সুন্দর কথায় তাদের মন জয় করা যায়। কুরতুবী আরও জানান, বহু আলেম বলেছেন, কেউ যদি তার কাফির মা-বাবার জন্য তাঁরা বেঁচে থাকতে দোয়া ও ইস্তিগফার করে, তাতে কোনো দোষ নেই। কুরতুবী ও ইবন কাসীর দুজনেই ইবন আব্বাস (রাঃ)-এর কথা আনেন: মুমিনরা তাদের মৃতদের জন্য চাওয়া থেকে বিরত হলো, তবে জীবিতদের জন্য মৃত্যু পর্যন্ত চাইতে তাদের নিষেধ করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on Anyone's Family",
+          "bn": "কারও পরিবারের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks of the Prophet ﷺ and the believers, and of idolaters whose end had become clear; at-Tabari and the Muyassar tie that clarity to their having died on shirk. It describes what it describes and licenses nothing against any living person or community. It gives no one the right to announce the final end of anyone's parents, relatives or neighbours, and no ground for coldness toward a relative of another faith. The reports above concern the people named in them, and this page carries them no further.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ ও মুমিনদের কথা বলে, আর বলে এমন মুশরিকদের কথা, যাদের পরিণাম স্পষ্ট হয়ে গিয়েছিল। তাবারী ও মুয়াসসার সেই স্পষ্টতাকে বেঁধে দেন শিরকের উপর তাদের মৃত্যুর সঙ্গে। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। কারও মা-বাবা, আত্মীয় বা প্রতিবেশীর শেষ পরিণাম ঘোষণা করার অধিকার এটি কাউকে দেয় না। ভিন্ন ধর্মের আত্মীয়ের প্রতি রূঢ় হওয়ার কোনো ভিত্তিও দেয় না। ওপরের বর্ণনাগুলো যাদের নাম নিয়েছে, তাদের নিয়েই। এ লেখা সেগুলোকে তার বাইরে টেনে নেয় না।"
+          },
+          {
+            "en": "What the verse leaves open is wide. Ibn Kathir records that when a Jewish man died and his Muslim son did not go out with the bier, Ibn 'Abbas was told and said the son should have walked with him and buried him, and prayed for his good while he lived; once he died, he would leave him to his affair. For the reader the order is clear: company, kindness and prayer for guidance belong to the living, and the end belongs to Allah, who alone knows it.",
+            "bn": "আয়াত যা খোলা রাখে, তার পরিসর অনেক বড়। ইবন কাসীর বর্ণনা করেন, এক ইহুদি মারা গেল, তার মুসলিম ছেলে লাশের সঙ্গে বের হলো না। ইবন আব্বাস (রাঃ)-কে জানানো হলে তিনি বললেন, ছেলেটির উচিত ছিল বাবার সঙ্গে হেঁটে যাওয়া, তাকে দাফন করা। আর বাবা যতদিন বেঁচে ছিল, তার কল্যাণের জন্য দোয়া করা। মারা যাওয়ার পর তাকে তার বিষয়ের উপর ছেড়ে দেওয়া। পাঠকের জন্য ক্রমটা তাই পরিষ্কার। সঙ্গ দেওয়া, সদয় আচরণ আর হিদায়াতের দোয়া জীবিতদের প্রাপ্য। আর শেষ পরিণাম আল্লাহর হাতে, তিনিই একমাত্র তা জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "9:119": {
     "sections": [
       {
