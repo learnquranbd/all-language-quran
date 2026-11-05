@@ -23411,6 +23411,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lead only toward what Allah commands, and do it yourself first; leadership that lasts grows out of steady prayer, giving and worship.",
     "lessonBn": "শুধু আল্লাহর হুকুমের দিকেই পথ দেখান, আর আগে নিজে তা করুন। যে নেতৃত্ব টেকে, তা জন্মায় নিয়মিত নামায, দান আর ইবাদত থেকে।"
+  },
+  "21:11": {
+    "reflectionEn": "The verse names no town. It counts them, and the count is left open: how many a town that did wrong We shattered. The verb is the one used for snapping a bone or a tooth, a break that does not mend. Then comes the plain sequel: and We raised up another people after it. Others stood where they had stood, and the world went on. Wrong here is not only harm done to others. It is putting a thing where it does not belong: denial where faith belongs, ingratitude where thanks belongs. The verse describes past towns and points at no one alive. So the question is mine. What have I put in the wrong place, and for how long?",
+    "reflectionBn": "আয়াতটি কোনো জনপদের নাম বলে না। গুনে দেখায়, আর গোনাটা শেষ করে না: কত জালিম জনপদকে আমি চূর্ণ করে দিয়েছি। ক্রিয়াটি সেই শব্দ, যা হাড় বা দাঁত ভেঙে যাওয়ার বেলায় বলা হয়, এমন ভাঙন যা আর জোড়া লাগে না। তারপর সাদামাটা পরের কথা: আর তাদের পরে আমি আরেক জাতিকে গড়ে তুলেছি। তাদের জায়গায় এল অন্যরা, দুনিয়া চলতে থাকল। এখানে জুলুম মানে কেবল অন্যের ক্ষতি করা নয়। জুলুম হলো কোনো কিছুকে তার জায়গা থেকে সরিয়ে ভুল জায়গায় রাখা: ঈমানের জায়গায় অস্বীকার, শোকরের জায়গায় নাশোকরি। আয়াতটি অতীতের জনপদের কথা বলে, আজকের কোনো মানুষের দিকে আঙুল তোলে না। তাই প্রশ্নটা আমার নিজের। আমি কোন জিনিস ভুল জায়গায় রেখে দিয়েছি, আর কতদিন ধরে?",
+    "pointsEn": [
+      "If my place were emptied tomorrow and filled by someone else, what would those who came after find that I had left behind?",
+      "Which comfort in my life has become a reason to stop listening, instead of a reason to give thanks?",
+      "Where have I put something in the wrong place: my anger, my trust, my time, or my worship?",
+      "When I read about ruined towns, do I read them as someone else's story, or as a warning addressed to me?",
+      "Is there an admission I keep postponing that I could make today, while it can still help?"
+    ],
+    "pointsBn": [
+      "কাল যদি আমার জায়গা খালি হয়ে অন্য কেউ সেখানে আসে, পরে যারা আসবে তারা আমার রেখে যাওয়া কী খুঁজে পাবে?",
+      "আমার জীবনের কোন আরামটা শোকরের কারণ না হয়ে কথা না শোনার কারণ হয়ে দাঁড়িয়েছে?",
+      "কোন জিনিসকে আমি ভুল জায়গায় বসিয়েছি: রাগ, ভরসা, সময়, নাকি ইবাদত?",
+      "ধ্বংস হওয়া জনপদের কথা পড়ার সময় আমি কি সেটাকে অন্যের কাহিনি ভাবি, নাকি আমার উদ্দেশে পাঠানো সতর্কবাণী?",
+      "এমন কোন স্বীকারোক্তি আমি পিছিয়ে রাখছি, যা আজই করা যায়, যখন তা এখনো কাজে আসবে?"
+    ],
+    "lessonEn": "Wrongdoing can break a people beyond mending, and the earth passes to others; set right what you have misplaced while admitting it can still help you.",
+    "lessonBn": "জুলুম একটা জাতিকে এমনভাবে ভেঙে দিতে পারে যে আর জোড়া লাগে না, আর পৃথিবী চলে যায় অন্যদের হাতে; স্বীকার করা যতক্ষণ কাজে আসে, তার আগেই ভুল জায়গায় রাখা জিনিসগুলো ঠিক করে নিন।"
   }
 };
 

@@ -303,6 +303,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Count Left Unfinished",
+          "bn": "যে গণনা শেষ হয় না"
+        },
+        "p": [
+          {
+            "en": "The verse before this one ends on a question: We have sent down to you a Book in which is your mention; will you not then reason? (21:10). Verse 11 answers the silence with a count. Wa kam qasamna min qaryatin kanat zalimatan wa ansha'na ba'daha qawman akharin: and how many a town that was doing wrong have We shattered, and raised up after it another people. As-Sa'di reads the turn as a warning to these wrongdoers who denied the Messenger, drawn from what was done to the nations that denied the messengers before him.",
+            "bn": "আগের আয়াতটি শেষ হয় এক প্রশ্নে: আমি তোমাদের কাছে এমন এক কিতাব নাযিল করেছি, যাতে তোমাদেরই কথা আছে; তবুও কি তোমরা বুঝবে না? (২১:১০)। এর পরের নীরবতার জবাব আসে ১১ নম্বর আয়াতে, একটা গণনা দিয়ে। ওয়া কাম কাসামনা মিন কারইয়াতিন কানাত জালিমাতান ওয়া আনশা'না বা'দাহা কাওমান আখারীন: কত জালিম জনপদকে আমি চূর্ণ করেছি, আর তাদের পরে গড়ে তুলেছি আরেক জাতি। সা'দীর মতে এখানে সতর্ক করা হচ্ছে সেই জালিমদের, যারা রাসূলকে মিথ্যা বলছিল। সতর্কবাণীর উপাদান হলো আগের সেই জাতিগুলোর পরিণতি, যারা অন্য রাসূলদের মিথ্যা বলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir calls kam here a form of multiplicity: the point is not one town but a great many. He sets it beside two verses that use the same device. And how many generations have We destroyed after Nuh (17:17). And how many a town We destroyed while it was doing wrong, so that it lies fallen on its roofs, with an abandoned well and a lofty palace (22:45). The verse gives a number it never states, and the reader is left to feel how large it is.",
+            "bn": "ইবন কাসীর বলেন, এখানে 'কাম' শব্দটি আধিক্য বোঝায়। কথা একটা জনপদের নয়, অগণিত জনপদের। একই ভঙ্গির আরও দুটি আয়াত তিনি পাশাপাশি রাখেন। নূহ (আঃ)-এর পরে আমি কত প্রজন্মকে ধ্বংস করেছি (১৭:১৭)। আর কত জনপদ আমি ধ্বংস করেছি যখন তারা জুলুম করছিল, ফলে সেগুলো ছাদসহ মুখ থুবড়ে পড়ে আছে, পড়ে আছে পরিত্যক্ত কূপ আর সুউচ্চ প্রাসাদ (২২:৪৫)। আয়াতটি একটা সংখ্যার কথা বলে, কিন্তু সংখ্যাটা বলে না। কত বড় সেটা, পাঠককে নিজে অনুভব করতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb of a Snapped Back",
+          "bn": "মেরুদণ্ড ভাঙার ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the root. Al-qasm, he says, is in origin breaking: the Arabs say qasamtu zahra fulan when they have broken a man's back, and inqasamat sinnuhu when a tooth has broken. Here it means ahlakna, We destroyed, and he adds that this is how the people of interpretation read it. His reports bear him out. Mujahid, by two chains, glosses qasamna as We destroyed, and the fuller phrase as We destroyed it; Ibn Zayd says that qasamaha means He destroyed it.",
+            "bn": "তাবারী শুরু করেন ধাতু থেকে। তিনি বলেন, কাসম শব্দের মূল অর্থ ভাঙা। কারও মেরুদণ্ড ভেঙে দিলে আরবরা বলে কাসামতু জাহরা ফুলান, আর দাঁত ভেঙে গেলে বলে ইনকাসামাত সিন্নুহু। এখানে শব্দটির অর্থ আহলাকনা, আমি ধ্বংস করেছি। তাফসীরকারেরা এভাবেই বুঝেছেন, তিনি সেটাও জানিয়ে দেন। তাঁর বর্ণনাগুলো সে কথার সাক্ষ্য দেয়। মুজাহিদ দুই সনদে কাসামনা-র অর্থ বলেন, আমি ধ্বংস করেছি, আর পুরো বাক্যাংশের অর্থ বলেন, আমি তাকে ধ্বংস করেছি। ইবন যায়দ বলেন, কাসামাহা মানে তিনি তাকে ধ্বংস করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same definition and adds a contrast that sharpens it. Al-qasm, with the letter qaf, is breaking, and here it means destruction. Al-fasm, with the letter fa, is a split in a thing without the parts coming apart. He illustrates fasm with a line of poetry and with a phrase from 'Aisha's description of revelation, in a hadith that al-Bukhari records in his Sahih (Sahih al-Bukhari 2). He cites it only for the word. No fetched commentary attaches any hadith to this verse itself.",
+            "bn": "কুরতুবী একই সংজ্ঞা দেন, তারপর একটা তুলনা জুড়ে অর্থটাকে আরও ধারালো করেন। কাফ অক্ষর দিয়ে কাসম মানে ভাঙা, আর এখানে তার অর্থ ধ্বংস। ফা অক্ষর দিয়ে ফাসম মানে কোনো কিছুতে ফাটল ধরা, কিন্তু টুকরোগুলো আলাদা হয়ে যায় না। ফাসম বোঝাতে তিনি এক পঙক্তি কবিতা আনেন, আর ওহী নাযিলের বর্ণনায় আয়েশা (রাঃ)-এর একটি বাক্যাংশ আনেন। হাদীসটি বুখারী তাঁর সহীহ গ্রন্থে এনেছেন (সহীহ বুখারী ২)। কুরতুবী সেটা এনেছেন শুধু শব্দটা বোঝাতে। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "So qasama is not a neutral word for ending. A crack can be lived with; a snapped back cannot. As-Sa'di puts the same point in the language of outcome: We destroyed them with a punishment that tore them out by the root, a town that perished down to its last. The Muyassar says Allah destroyed them with a punishment that wiped them out entirely. None of these readings softens the verb, and none of them needs to.",
+            "bn": "তাই কাসামা কোনো নিরীহ শব্দ নয়, যা শুধু শেষ হয়ে যাওয়া বোঝায়। ফাটল নিয়ে বেঁচে থাকা যায়, ভাঙা মেরুদণ্ড নিয়ে যায় না। সা'দী একই কথা বলেন পরিণতির ভাষায়: আমি তাদের এমন শাস্তিতে ধ্বংস করেছি, যা তাদের শিকড়সুদ্ধ উপড়ে ফেলেছে, জনপদটি শেষ মানুষটি পর্যন্ত বিলীন হয়ে গেছে। মুয়াসসার বলে, আল্লাহ তাদের এমন শাস্তিতে ধ্বংস করেছেন, যা তাদের সবাইকে নিশ্চিহ্ন করে দিয়েছে। এই ব্যাখ্যাগুলোর কোনোটিই ক্রিয়াটির কঠোরতা কমায় না, কমানোর দরকারও পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walls Do Not Do Wrong",
+          "bn": "দেয়াল জুলুম করে না"
+        },
+        "p": [
+          {
+            "en": "Min qaryatin kanat zalimatan: of a town that was doing wrong. At-Tabari notes that the sentence runs on the town while what is meant is its people, because the listeners know the sense. A town does not do wrong; those who live in it do. Al-Baghawi and al-Qurtubi say it in a few words: kafira, disbelieving, meaning its people. The walls and streets are named, but the verdict falls on the people inside them, and on their choices.",
+            "bn": "মিন কারইয়াতিন কানাত জালিমাতান: এমন জনপদ, যা জুলুম করছিল। তাবারী খেয়াল করিয়ে দেন, বাক্যটা জনপদের উপর চলছে, কিন্তু উদ্দেশ্য তার অধিবাসীরা। শ্রোতারা অর্থটা জানে বলেই এভাবে বলা হয়েছে। জনপদ নিজে জুলুম করে না, করে তার বাসিন্দারা। বাগাভী আর কুরতুবী অল্প কথায় একই কথা বলেন: কাফিরা, অর্থাৎ অবিশ্বাসী, মানে তার লোকেরা। নাম আসে দেয়াল আর রাস্তার, কিন্তু রায় যায় ভেতরের মানুষগুলোর উপর, তাদের বেছে নেওয়া পথের উপর।"
+          },
+          {
+            "en": "What was their wrong? At-Tabari's answer is direct: its wrong, as he puts it, was its disbelief in Allah and its denial of His messengers. The Muyassar agrees: the people of those towns were wrongdoers by disbelieving what their messengers brought them. Al-Qurtubi then gives the definition that carries the verse beyond its history. Zulm is placing a thing in other than its place, and these people put disbelief in the place where faith belonged.",
+            "bn": "তাদের জুলুমটা কী ছিল? তাবারীর জবাব সোজা: আল্লাহকে অস্বীকার করা আর তাঁর রাসূলদের মিথ্যা বলা। মুয়াসসারও তা-ই বলে: রাসূলরা যা নিয়ে এসেছিলেন তা অস্বীকার করেই সেসব জনপদের মানুষ জালিম হয়েছিল। এরপর কুরতুবী এমন এক সংজ্ঞা দেন, যা আয়াতটিকে তার ইতিহাসের বাইরে নিয়ে যায়। জুলুম মানে কোনো জিনিসকে তার নিজের জায়গা ছাড়া অন্য জায়গায় রাখা। এই লোকেরা ঈমানের জায়গায় বসিয়েছিল কুফরকে।"
+          },
+          {
+            "en": "That definition explains why the Qur'an calls disbelief wrongdoing and not merely mistake. Something is put out of its place, and something is wronged by it. Notice too what the verse does not say. It does not say these towns were broken for being weak, poor or few. It names one cause, and names it in a single phrase: kanat zalimatan, it was doing wrong. The charge against them was the wrong, and nothing else.",
+            "bn": "এই সংজ্ঞা থেকেই বোঝা যায়, কুরআন কুফরকে কেন শুধু ভুল না বলে জুলুম বলে। একটা জিনিস তার জায়গা থেকে সরে যায়, আর তাতে কারও না কারও উপর অন্যায় হয়। আয়াতটি কী বলে না, সেটাও লক্ষ করার মতো। দুর্বল, গরিব বা সংখ্যায় কম ছিল বলে জনপদগুলো চূর্ণ হয়েছে, এমন কথা আয়াতে নেই। কারণ একটাই, আর তা এক বাক্যাংশে: কানাত জালিমাতান, সে জুলুম করছিল। তাদের বিরুদ্ধে অভিযোগ ছিল ওই জুলুমই, আর কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hadur and the Yemen Reports",
+          "bn": "হাদূর ও ইয়ামানের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Some commentators put a name to the verse. At-Tabari records that Ibn Jurayj said of qasamna min qaryatin: it was in Yemen that We shattered; they were destroyed by the sword. Al-Qurtubi opens his comment by saying the verse means cities that were in Yemen. He then relays what he attributes to the people of tafsir and of historical reports: that it meant the people of Hadur, to whom a prophet named Shu'ayb ibn Dhi Mahdam was sent, and that this was not Shu'ayb of Madyan.",
+            "bn": "কিছু তাফসীরকার আয়াতটির সঙ্গে নির্দিষ্ট নাম জুড়েছেন। তাবারী বর্ণনা করেন, ইবন জুরাইজ 'কাসামনা মিন কারইয়াতিন' প্রসঙ্গে বলেছেন: ইয়ামানে আমি চূর্ণ করেছি, তরবারির আঘাতে তারা ধ্বংস হয়েছে। কুরতুবী তাঁর আলোচনা শুরুই করেন এই বলে যে, আয়াতে ইয়ামানের কিছু শহরের কথা বলা হয়েছে। এরপর তিনি তাফসীর ও ইতিহাস-বর্ণনাকারীদের বরাতে একটি বিবরণ আনেন। তাতে বলা হয়, এখানে উদ্দেশ্য হাদূরের অধিবাসীরা। তাদের কাছে শু'আইব ইবন যী মাহদাম নামে একজন নবী পাঠানো হয়েছিল। ইনি মাদইয়ানের শু'আইব (আঃ) নন।"
+          },
+          {
+            "en": "His report goes on: the people of Hadur killed their prophet, and Nebuchadnezzar was later set over the land of the Arabs, raided Hadur, killed, took captives, laid waste what was built, and left no trace of it. Ma'arif al-Qur'an gives a shorter form, naming the settlements as Hadura and Qilabah of Yemen. It notes that the prophet's name is given differently, as Musa ibn Misha by some and as Shu'aib by others, that his people killed him, and that Nebuchadnezzar annihilated them.",
+            "bn": "বিবরণটি আরও বলে, হাদূরের লোকেরা তাদের নবীকে হত্যা করেছিল। পরে বুখতনাসরকে আরবের ভূমির উপর ক্ষমতা দেওয়া হয়। সে হাদূরে হামলা চালায়, মানুষ হত্যা করে, বন্দি করে নিয়ে যায়, বসতি উজাড় করে দেয়, আর হাদূরের কোনো চিহ্ন রাখেনি। মাআরিফুল কুরআন বিবরণটি দেয় সংক্ষেপে। সেখানে জনপদ দুটির নাম ইয়ামানের হাদূরা ও কিলাবা। নবীর নাম নিয়ে ভিন্ন ভিন্ন বর্ণনা আছে বলে জানায়: কেউ বলেন মূসা ইবন মীশা, কেউ বলেন শু'আইব। তাঁর কওম তাঁকে হত্যা করেছিল, আর বুখতনাসর তাদের নিশ্চিহ্ন করে দেয়।"
+          },
+          {
+            "en": "These are reports, and the texts present them as reports. Ibn Jurayj speaks in his own name, with no chain to the Prophet ﷺ in at-Tabari's text. Al-Qurtubi gives his account from the people of reports, with no chain at all, and Ma'arif says only that some exegetes took the verse this way. Al-Qurtubi's own text does not agree with itself on the map: it begins with Yemen and later places Hadur in the land of the Hijaz, in the direction of Syria.",
+            "bn": "এগুলো বর্ণনা মাত্র, আর তাফসীরগুলোও এগুলোকে বর্ণনা হিসেবেই এনেছে। ইবন জুরাইজ কথা বলেছেন নিজের পক্ষ থেকে। তাবারীর পাঠে নবী ﷺ পর্যন্ত কোনো সনদ নেই। কুরতুবী তাঁর বিবরণ এনেছেন ইতিহাস-বর্ণনাকারীদের বরাতে, কোনো সনদ ছাড়াই। আর মাআরিফ শুধু এটুকু বলে যে, কিছু তাফসীরকার আয়াতটিকে এভাবে বুঝেছেন। জায়গাটা কোথায়, সে প্রশ্নে কুরতুবীর নিজের লেখাও একমত নয়। শুরুতে তিনি বলেন ইয়ামান, পরে হাদূরকে রাখেন হিজাযের ভূমিতে, শামের দিকে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the sound conclusion itself. The Qur'an has not identified any specific settlement, so it is apt to leave the subject open, with the settlements of Yemen also falling within its reach; and Allah knows best. The wording supports that. Kam, how many, is a count of towns, not the name of one. The other commentators read here, Ibn Kathir, as-Sa'di, al-Baghawi and the Muyassar, name no town at all, and neither does at-Tabari in his own voice.",
+            "bn": "সঠিক সিদ্ধান্তটা মাআরিফুল কুরআন নিজেই টানে। কুরআন নির্দিষ্ট কোনো জনপদের নাম বলেনি। তাই বিষয়টা খোলা রাখাই ভালো, যাতে ইয়ামানের ওই জনপদগুলোও এর আওতায় আসে। আর আল্লাহই ভালো জানেন। আয়াতের শব্দও এ কথার পক্ষে। 'কাম' মানে কত, এটা জনপদের গণনা, কোনো একটির নাম নয়। এখানে যাঁদের তাফসীর পড়া হয়েছে, তাঁদের মধ্যে ইবন কাসীর, সা'দী, বাগাভী ও মুয়াসসার কোনো জনপদের নাম বলেন না। তাবারীও নিজের ভাষ্যে কোনো নাম বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Running From the Blow",
+          "bn": "আঘাত টের পেয়ে পলায়ন"
+        },
+        "p": [
+          {
+            "en": "The next verses show what such a town did when its hour came, and the commentators keep the picture close to the words. Falamma ahassu ba'sana: at-Tabari says they saw that Our punishment had come down on them and felt its touch. Al-Qurtubi records al-Akhfash's reading that ahassu means they feared it and expected it. Idha hum minha yarkudun: at-Tabari explains that they fled fast, in haste, running in rout; al-Qurtubi defines rakd as running with a hard tread.",
+            "bn": "পরের আয়াতগুলো দেখায়, শেষ সময় এলে এমন জনপদ কী করেছিল। তাফসীরকারেরা ছবিটা আয়াতের শব্দের কাছাকাছিই রাখেন। ফালাম্মা আহাসসূ বা'সানা: তাবারী বলেন, তারা দেখল আমার শাস্তি তাদের উপর নেমে এসেছে, আর তার ছোঁয়া টের পেল। কুরতুবী আখফাশের ব্যাখ্যা উদ্ধৃত করেন: আহাসসূ মানে তারা ভয় পেল আর আশঙ্কা করল। ইযা হুম মিনহা ইয়ারকুদূন: তাবারী বলেন, তারা দ্রুত পালাচ্ছিল, তাড়াহুড়া করে, পরাজিতের মতো দৌড়ে। কুরতুবীর সংজ্ঞায় রাকদ মানে মাটিতে জোরে পা ফেলে দৌড়ানো।"
+          },
+          {
+            "en": "Then a voice: do not run; go back to the luxury you were given and to your homes, la'allakum tus'alun (21:13). Qatadah, in at-Tabari and in Ibn Kathir, calls it mockery of them, and al-Qurtubi records, under the words it is said, that the angels called this out to them as they fled. The last phrase is read in more than one way. Mujahid says it means that you may understand. Qatadah says it means that you may be asked for something of your world, in mockery. Ibn Kathir has: asked whether you gave thanks for what you had.",
+            "bn": "তারপর একটা ডাক: দৌড়ে পালিয়ো না, ফিরে যাও সেই ভোগবিলাসে যা তোমাদের দেওয়া হয়েছিল, আর তোমাদের ঘরবাড়িতে, লা'আল্লাকুম তুস'আলূন (২১:১৩)। তাবারী ও ইবন কাসীর কাতাদার কথা আনেন: এটা তাদের নিয়ে উপহাস। কুরতুবী 'বলা হয়' কথাটি দিয়ে উল্লেখ করেন, তারা যখন পালাচ্ছিল, ফেরেশতারা তাদের এ কথা ডেকে বলেছিলেন। শেষ বাক্যাংশের ব্যাখ্যা একাধিক। মুজাহিদ বলেন, যাতে তোমরা বুঝতে পারো। কাতাদা বলেন, যাতে তোমাদের কাছে তোমাদের দুনিয়ার কিছু চাওয়া হয়, উপহাস করে। ইবন কাসীরের ব্যাখ্যা: যাতে জিজ্ঞেস করা হয়, যা পেয়েছিলে তার শোকর আদায় করেছিলে কি না।"
+          },
+          {
+            "en": "Al-Qurtubi adds two more readings: that you may be asked about the punishment that came down on you and tell of it, or that you may be asked to believe, as you were asked before the blow fell. At-Tabari sets out Mujahid's and Qatadah's readings as a difference among the people of interpretation, and it stays a difference here. Then the confession: woe to us, we were wrongdoers (21:14). Ibn Kathir says they confess when it is of no benefit, and keep saying it until they are mown down and their voices stop (21:15).",
+            "bn": "কুরতুবী আরও দুটি ব্যাখ্যা যোগ করেন। এক, যাতে তোমাদের উপর নেমে আসা শাস্তি সম্পর্কে জিজ্ঞেস করা হয় আর তোমরা তার খবর দাও। দুই, যাতে তোমাদের কাছে ঈমান চাওয়া হয়, যেমন আঘাত আসার আগে চাওয়া হতো। মুজাহিদ ও কাতাদার ব্যাখ্যা দুটিকে তাবারী তাফসীরকারদের মতভেদ হিসেবেই উপস্থাপন করেন, এখানেও তা মতভেদ হিসেবেই থাকল। তারপর স্বীকারোক্তি: হায় আমাদের দুর্ভোগ, আমরাই তো জালিম ছিলাম (২১:১৪)। ইবন কাসীর বলেন, তারা স্বীকার করে তখন, যখন তাতে আর লাভ নেই। আর তা বলতেই থাকে, যতক্ষণ না তাদের কাটা ফসলের মতো করে দেওয়া হয় আর তাদের কণ্ঠ থেমে যায় (২১:১৫)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Past Towns, Not Present Neighbours",
+          "bn": "অতীতের জনপদ, আজকের প্রতিবেশী নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: towns of the past whose people denied their messengers, and the end that came to them. It licenses nothing against any living person or community. The reports that place a town of this kind in Yemen say nothing about the people of Yemen, or of the Hijaz, or of any land today. Their past is told as a warning to the listener, not as a charge that passes to anyone born after them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বলে, যতটুকু তার শব্দে আছে: অতীতের কিছু জনপদ, যাদের মানুষ নিজেদের রাসূলদের মিথ্যা বলেছিল, আর তাদের পরিণতি। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু বলার অনুমতি এ আয়াত দেয় না। যে বর্ণনাগুলো এমন এক জনপদকে ইয়ামানে রাখে, সেগুলো আজকের ইয়ামান, হিজায বা অন্য কোনো দেশের মানুষ সম্পর্কে কিছুই বলে না। তাদের অতীত বলা হয়েছে শ্রোতাকে সতর্ক করতে। পরে জন্ম নেওয়া কারও ঘাড়ে সেটা অভিযোগ হয়ে চাপে না।"
+          },
+          {
+            "en": "Nor does the verse give anyone the right to point at a ruined place, a flood or a war in our own time and declare which people were shattered for their wrong. The towns here are judged by Him who sent their messengers and knew what was in them. The commentators read here speak of disbelief and the denial of messengers, a verdict the Qur'an itself gives about those towns, not a verdict handed to its readers to pass on their neighbours. The only person a reader may question with this verse is himself.",
+            "bn": "আমাদের সময়ের কোনো ধ্বংসস্তূপ, বন্যা বা যুদ্ধের দিকে আঙুল তুলে কোন জাতি তাদের জুলুমের কারণে চূর্ণ হলো, সে ঘোষণা দেওয়ার অধিকারও এ আয়াত কাউকে দেয় না। এখানকার জনপদগুলোর বিচার করেছেন তিনি, যিনি তাদের কাছে রাসূল পাঠিয়েছিলেন আর তাদের ভেতরের খবর জানতেন। এখানে পড়া তাফসীরকারেরা কুফর আর রাসূলদের মিথ্যা বলার কথা বলেন। সে রায় কুরআন নিজে দিয়েছে ওই জনপদগুলো সম্পর্কে। পাঠকের হাতে তা তুলে দেওয়া হয়নি, যাতে সে প্রতিবেশীর উপর রায় দেয়। এ আয়াত দিয়ে পাঠক প্রশ্ন করতে পারে কেবল নিজেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Others Raised in Their Place",
+          "bn": "তাদের জায়গায় অন্য জাতি"
+        },
+        "p": [
+          {
+            "en": "Wa ansha'na ba'daha qawman akharin. At-Tabari explains: We brought into being, after We had destroyed these wrongdoers among the people of this town, which We shattered for its wrong, another people besides them. Ibn Kathir says simply: another nation after them. Al-Baghawi: We brought about, after the destruction of its people, another people. Al-Qurtubi glosses ansha'na with two verbs, We brought into existence and We originated, and at-Tabari and the Muyassar both close on the same word, siwahum, others than them.",
+            "bn": "ওয়া আনশা'না বা'দাহা কাওমান আখারীন। তাবারী ব্যাখ্যা করেন: এই জনপদকে তার জুলুমের কারণে চূর্ণ করে তার জালিম অধিবাসীদের ধ্বংস করার পর আমি তাদের ছাড়া আরেক জাতিকে অস্তিত্বে এনেছি। ইবন কাসীর সংক্ষেপে বলেন: তাদের পরে আরেক উম্মত। বাগাভী বলেন: জনপদের অধিবাসীদের ধ্বংসের পর আমি আরেক জাতিকে সৃষ্টি করেছি। কুরতুবী আনশা'না শব্দের অর্থ দেন দুটি ক্রিয়ায়: অস্তিত্বে আনা আর নতুন করে সৃষ্টি করা। তাবারী আর মুয়াসসার দুজনেই কথা শেষ করেন একই শব্দে: সিওয়াহুম, তারা ছাড়া অন্যরা।"
+          },
+          {
+            "en": "The phrase is short, and it says something pride finds hard to hear: the earth does not depend on any one people. The town is broken, and others are raised after it. Earlier in the surah, 21:6 said that not one town destroyed before them believed; this verse adds that none of them was beyond replacing. The people raised afterwards are not handed a reward for their predecessors' fall. They are handed the same warning, and the same chance to heed it.",
+            "bn": "বাক্যাংশটা ছোট, কিন্তু তাতে এমন এক কথা আছে যা অহংকারী মন শুনতে চায় না: পৃথিবী কোনো একটা জাতির উপর নির্ভর করে না। জনপদ চূর্ণ হয়, আর তার পরে অন্যদের গড়ে তোলা হয়। সূরার শুরুর দিকে ২১:৬ আয়াত বলেছিল, তাদের আগে ধ্বংস হওয়া জনপদগুলোর একটিও ঈমান আনেনি। এ আয়াত যোগ করে, তাদের কোনোটিই এমন ছিল না যার জায়গা আর কেউ নিতে পারবে না। পরে যাদের আনা হয়, আগেরদের পতনের জন্য তাদের কোনো পুরস্কার দেওয়া হয় না। তাদের হাতে দেওয়া হয় সেই একই সতর্কবাণী, আর তা মেনে চলার সেই একই সুযোগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Wrong That Empties a House",
+          "bn": "যে জুলুম ঘর খালি করে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's definition of zulm, placing a thing outside its place, is the way into this verse for a reader who faces no ruined town. Those towns put disbelief where faith belonged. A smaller displacement can happen inside one life: trust placed in what cannot hold it, anger where patience belonged, comfort turned into a reason not to listen. Al-Qurtubi calls the luxury of 21:13 the blessings that were the cause of their insolence, and Ibn Kathir reads its question as whether they gave thanks.",
+            "bn": "কুরতুবীর সংজ্ঞা, অর্থাৎ কোনো জিনিসকে তার জায়গার বাইরে রাখাই জুলুম, এমন পাঠকের জন্য আয়াতে ঢোকার দরজা, যার সামনে কোনো ধ্বংসস্তূপ নেই। ওই জনপদগুলো ঈমানের জায়গায় বসিয়েছিল কুফর। একজন মানুষের জীবনেও ছোট পরিসরে এমন সরে যাওয়া ঘটতে পারে। ভরসা রাখা হয় এমন কিছুর উপর, যা ভার বইতে পারে না। ধৈর্যের জায়গায় আসে রাগ। আরাম হয়ে দাঁড়ায় কথা না শোনার অজুহাত। ২১:১৩ আয়াতের ভোগবিলাসকে কুরতুবী বলেন সেই নিয়ামত, যা তাদের ঔদ্ধত্যের কারণ হয়েছিল। আর ইবন কাসীর সেখানকার প্রশ্নটা পড়েন এভাবে: তারা শোকর আদায় করেছিল কি না।"
+          },
+          {
+            "en": "These are not the towns' sin, and the verse does not make them equal. But they are the same kind of act, and the passage leaves one door open to a living reader. The confession of 21:14 came, as Ibn Kathir says, when it was of no benefit. Said now, while no blow has fallen, the same words, I have been a wrongdoer, are the beginning of tawbah. Reading about towns broken beyond mending is meant to move that sentence earlier, into a day when it can still set something back in its place.",
+            "bn": "এগুলো ওই জনপদগুলোর গুনাহের সমান নয়, আয়াতও এগুলোকে সমান করে না। তবে কাজের ধরনটা একই। আর এই আয়াতগুলো জীবিত পাঠকের জন্য একটা দরজা খোলা রাখে। ইবন কাসীর বলেন, ২১:১৪ আয়াতের স্বীকারোক্তি এসেছিল তখন, যখন তাতে আর কোনো লাভ ছিল না। কোনো আঘাত আসার আগে, এখনই যদি একই কথা বলা হয়, আমি জুলুম করেছি, তাহলে সেটাই তওবার শুরু। যে জনপদগুলো আর জোড়া না লাগার মতো ভেঙে গেছে, তাদের কথা পড়ার উদ্দেশ্য ওই বাক্যটাকে আগে টেনে আনা। এমন দিনে, যখন তা দিয়ে কোনো জিনিসকে আবার তার জায়গায় ফিরিয়ে আনা যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "21:16": {
     "sections": [
       {
