@@ -22751,6 +22751,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh a message by what it says, not by the label you can pin on its bearer; a ready insult is often a refusal in disguise.",
     "lessonBn": "বার্তাকে মাপুন তার কথা দিয়ে, বাহকের গায়ে কোন তকমা লাগানো যায় তা দিয়ে নয়। হাতের কাছে তৈরি গালি অনেক সময় ছদ্মবেশী অস্বীকার।"
+  },
+  "17:72": {
+    "reflectionEn": "The verse before calls every people with their imam and shows the glad readers of the right hand. This one speaks of the other side in eleven words: whoever is blind here will be blind there, and further from the way. The blindness meant is not of the eyes. A person can watch the ship carried over the sea, live through the storm, eat the good things set before him, and see none of it as a sign. So the verse asks what I do with what I already see. When I am rescued, do I come back to thanks or to forgetting? Is my heart learning to see while there is still time, or growing used to the dark?",
+    "reflectionBn": "আগের আয়াতে প্রত্যেক দলকে তাদের ইমামসহ ডাকা হয়েছে, আর দেখানো হয়েছে ডান হাতে আমলনামা পাওয়া মানুষদের আনন্দ। এ আয়াত মাত্র এগারো শব্দে অন্য পাশের কথা বলে: যে এখানে অন্ধ, সে সেখানেও অন্ধ, আর পথ থেকে আরও দূরে। এ অন্ধত্ব চোখের নয়। কেউ সাগরের বুকে নৌকা ভেসে যেতে দেখে, ঝড় থেকে বেঁচে ফেরে, সামনে রাখা ভালো খাবার খায়, তবু এর কোনোটাকেই নিদর্শন হিসেবে দেখে না। তাই আয়াতটি জানতে চায়, যা আমি এর মধ্যেই দেখছি, তা দিয়ে আমি কী করি। বিপদ থেকে উদ্ধার পেলে আমি কি শোকরের দিকে ফিরি, নাকি ভুলে যাওয়ার দিকে? সময় থাকতে আমার অন্তর কি দেখতে শিখছে, নাকি অন্ধকারেই অভ্যস্ত হয়ে যাচ্ছে?",
+    "pointsEn": [
+      "Which blessing in my life this week did I see plainly, yet never once see as a sign from Allah?",
+      "After the last time I was rescued from a hardship, how long did my thanks last before I turned away?",
+      "When I think of someone as blind to the truth, do I first ask what my own heart has stopped seeing?",
+      "What would help my heart see a little more each day: reflection, remembrance, or simply slowing down to look?",
+      "If the way I walk now is the way I will walk then, which direction is my path heading?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কোন নিয়ামত আমি পরিষ্কার চোখে দেখেছি, অথচ একবারও আল্লাহর নিদর্শন হিসেবে দেখিনি?",
+      "শেষবার কোনো কষ্ট থেকে উদ্ধার পাওয়ার পর আমার শোকর কতদিন টিকেছিল, তারপর আমি মুখ ফিরিয়ে নিয়েছি?",
+      "কাউকে সত্যের ব্যাপারে অন্ধ ভাবার আগে আমি কি নিজেকে জিজ্ঞেস করি, আমার নিজের অন্তর কী দেখা বন্ধ করে দিয়েছে?",
+      "প্রতিদিন আমার অন্তর যেন একটু বেশি দেখতে পায়, সেজন্য কী দরকার: চিন্তা, জিকির, নাকি শুধু থেমে তাকানো?",
+      "এখন যে পথে হাঁটছি, সেদিনও যদি সে পথেই হাঁটতে হয়, তবে আমার পথ কোন দিকে যাচ্ছে?"
+    ],
+    "lessonEn": "Open your heart to Allah's signs and blessings while repentance is still accepted; the blindness that matters is the heart's, and it can only be cured here.",
+    "lessonBn": "তওবা কবুলের সময় থাকতেই আল্লাহর নিদর্শন আর নিয়ামতের দিকে অন্তর খুলে দিন। আসল অন্ধত্ব অন্তরের, আর তার চিকিৎসা কেবল এখানেই সম্ভব।"
   }
 };
 

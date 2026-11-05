@@ -2919,6 +2919,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Other Side of the Summons",
+          "bn": "ডাকের অন্য পাশ"
+        },
+        "p": [
+          {
+            "en": "Wa man kana fi hadhihi a'ma fa-huwa fi-l-akhirati a'ma wa adallu sabila: and whoever is blind in this will be blind in the Hereafter, and further astray from the way. The verse follows straight on from 17:71, where every people is called with their imam and those given their record in the right hand read it gladly. That verse kept its light on the right hand; the present verse completes the picture with the person who never saw.",
+            "bn": "ওয়া মান কানা ফী হাযিহী আ'মা ফাহুয়া ফিল আখিরাতি আ'মা ওয়া আদাল্লু সাবীলা: আর যে এখানে অন্ধ, সে আখিরাতেও অন্ধ, আর পথ থেকে আরও বেশি বিচ্যুত। আয়াতটি এসেছে ঠিক ১৭:৭১-এর পরেই। সেখানে প্রত্যেক দলকে তাদের ইমামসহ ডাকা হয়, আর যাদের আমলনামা ডান হাতে দেওয়া হয়, তারা খুশি মনে তা পড়ে। সে আয়াতের আলো ছিল ডান হাতের মানুষদের উপর। এ আয়াত ছবিটা শেষ করে সেই মানুষকে দিয়ে, যে কখনো দেখেনি।"
+          },
+          {
+            "en": "As-Sa'di reads the two verses as one lesson. Every community, he says, is called to its religion and its book and asked whether it acted on it. No people is held to the law of a prophet it was not commanded to follow, and Allah punishes no one until the proof has been established against him and he has gone against it. The people of good receive their books in their right hands with great joy; the people of evil cannot even read theirs for grief.",
+            "bn": "সা'দী দুটি আয়াতকে একটি শিক্ষা হিসেবে পড়েন। তাঁর কথায়, প্রত্যেক উম্মতকে তার দ্বীন ও তার কিতাবের দিকে ডাকা হবে, আর জিজ্ঞেস করা হবে সে তার উপর আমল করেছে কি না। যে নবীর শরিয়ত মানার হুকুম কোনো জাতিকে দেওয়া হয়নি, তার ভিত্তিতে তাদের পাকড়াও করা হবে না। আর কারও উপর প্রমাণ প্রতিষ্ঠিত হওয়ার পর সে তার বিরোধিতা না করা পর্যন্ত আল্লাহ কাউকে শাস্তি দেন না। ভালো মানুষেরা ডান হাতে আমলনামা পেয়ে খুব খুশি হবে। মন্দ লোকেরা দুঃখ আর বিষাদের ভারে নিজেদের আমলনামা পড়তেও পারবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Word 'This' Points To",
+          "bn": "'এটি' শব্দের ইশারা কোন দিকে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying the interpreters differed over what hadhihi points to. One group took it as the blessings Allah has just counted out. He gives a report through Muhammad ibn Abi Musa in which a question about the verse was answered by reciting 17:70, on the honour given to the children of Adam, their carrying over land and sea and their good provision. Then he said: whoever is blind to giving thanks for these blessings in this world is blind in the Hereafter.",
+            "bn": "তাবারী শুরুতেই বলেন, হাযিহী কোন দিকে ইশারা করছে, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। একদল একে ধরেছেন সেই নিয়ামতগুলো হিসেবে, যা আল্লাহ এইমাত্র গুনে গুনে বলেছেন। এর পক্ষে তিনি মুহাম্মাদ ইবন আবী মূসার সূত্রে একটি বর্ণনা আনেন। তাতে আয়াতটি সম্পর্কে প্রশ্নের জবাবে ১৭:৭০ তিলাওয়াত করা হয়, যেখানে আছে আদম সন্তানের সম্মান, জলে-স্থলে তাদের বহন আর ভালো রিযিকের কথা। তারপর বলেন, দুনিয়াতে যে এসব নিয়ামতের শোকর আদায়ের ব্যাপারে অন্ধ, সে আখিরাতে অন্ধ।"
+          },
+          {
+            "en": "Al-Qurtubi carries the same direction from Ibn Abbas (RA), through Ikrima. A group from Yemen asked him about the verse, and he told them to read what comes before it, from Your Lord is the One who drives the ship for you over the sea (17:66) to the end of 17:70. Whoever is blind in these blessings and signs that he has seen, Ibn Abbas said, is blind about the Hereafter that he has not witnessed. Al-Baghawi reports this view from Ibn Abbas as well.",
+            "bn": "কুরতুবী একই দিকের কথা আনেন ইবন আব্বাস (রাঃ) থেকে, ইকরিমার সূত্রে। ইয়েমেনের একদল লোক তাঁকে আয়াতটির কথা জিজ্ঞেস করলে তিনি বললেন, এর আগের অংশটা পড়ো। শুরু করো 'তোমাদের রব তিনিই, যিনি সাগরে তোমাদের জন্য নৌযান চালান' (১৭:৬৬) থেকে, আর থামো ১৭:৭০-এর শেষে। ইবন আব্বাস বলেন, যে নিয়ামত আর নিদর্শন সে নিজের চোখে দেখেছে, তাতেই যে অন্ধ, না দেখা আখিরাতের ব্যাপারে সে অন্ধ। বাগাভীও এ মতটি ইবন আব্বাস থেকে বর্ণনা করেন।"
+          },
+          {
+            "en": "The other group took hadhihi as this world. At-Tabari carries Ibn Abbas again, by a different chain: whoever is blind to Allah's power in this world. Mujahid says simply: the world. Qatada says: blind to what he saw in it of Allah's blessings, His creation and His wonders, and in a second report he names the heavens, the earth, the mountains and the stars. Ibn Kathir lists Ibn Abbas, Mujahid, Qatada and Ibn Zayd for this worldly life.",
+            "bn": "অন্য দল হাযিহী বলতে বুঝেছেন এই দুনিয়া। তাবারী এখানে আবার ইবন আব্বাসকে আনেন, তবে ভিন্ন সূত্রে: যে দুনিয়াতে আল্লাহর কুদরতের ব্যাপারে অন্ধ। মুজাহিদ ছোট্ট করে বলেন: দুনিয়া। কাতাদা বলেন, দুনিয়াতে আল্লাহর নিয়ামত, তাঁর সৃষ্টি আর তাঁর বিস্ময়কর কাজ যা সে দেখেছে, তা থেকে অন্ধ। আরেক বর্ণনায় কাতাদা নিদর্শনগুলোর নামও বলেন: আকাশ, পৃথিবী, পাহাড় আর নক্ষত্র। ইবন কাসীর ইবন আব্বাস, মুজাহিদ, কাতাদা ও ইবন যায়দের নাম নিয়ে বলেন, এর অর্থ দুনিয়ার জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Keeps It General",
+          "bn": "তাবারী অর্থটা খোলা রাখেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Abbas (RA) thus stands on both sides, through different chains, and at-Tabari has to choose. The soundest view, he says, is this: whoever is blind in this world to Allah's proofs that He alone created it, governs it and turns its affairs, is blind in the matter of the Hereafter, which he has not seen or witnessed, and in what will come to pass there. And he is further astray in that matter than he was in the matter of this world, which he did see.",
+            "bn": "ফলে ইবন আব্বাস (রাঃ) ভিন্ন ভিন্ন সূত্রে দুই দিকেই আছেন, আর তাবারীকে একটা বেছে নিতে হয়। তাঁর মতে সবচেয়ে সঠিক কথা এই: আল্লাহই একা দুনিয়া সৃষ্টি করেছেন, তিনিই এর ব্যবস্থাপনা করেন, তিনিই এর সবকিছু ঘোরান। এর যে প্রমাণ দুনিয়াতে আছে, তা থেকে যে অন্ধ, সে আখিরাতের ব্যাপারেও অন্ধ। সে আখিরাত সে দেখেনি, চোখের সামনে পায়নি, সেখানে কী ঘটবে তা-ও জানে না। আর যে দুনিয়া সে নিজের চোখে দেখেছে, তার ব্যাপারে সে যতটা বিচ্যুত ছিল, আখিরাতের ব্যাপারে তার চেয়েও বেশি বিচ্যুত।"
+          },
+          {
+            "en": "His reason is the wording itself. Allah did not tie the disbeliever's blindness to some of His proofs rather than others, he argues, so that it could be steered toward the blessings counted in 17:70 alone. He made the statement general, and it stays as general as He made it. The two readings are close, then. On either, the blessings of 17:66 to 17:70 lie inside the field; the question is only whether they are all of it.",
+            "bn": "তাঁর যুক্তি আয়াতের ভাষা নিজেই। তিনি বলেন, আল্লাহ কাফিরের অন্ধত্বকে তাঁর কিছু প্রমাণের সঙ্গে বেঁধে দেননি, বাকিগুলো বাদ দিয়ে, যাতে একে শুধু ১৭:৭০-এর নিয়ামতের দিকে ফেরানো যায়। আল্লাহ কথাটা বলেছেন সাধারণভাবে, তাই অর্থও তেমনই সাধারণ থাকবে। অর্থাৎ দুই ব্যাখ্যার দূরত্ব বেশি নয়। যেটাই নিন, ১৭:৬৬ থেকে ১৭:৭০-এর নিয়ামতগুলো এর ভেতরেই পড়ে। প্রশ্ন শুধু এটুকু: এরাই কি সব, নাকি এরা বড় এক তালিকার অংশ।"
+          },
+          {
+            "en": "Ibn Zayd's answer, also in at-Tabari, shows the wider reading at work. Asked about the verse, he recited verses of signs, among them and in yourselves, will you not then see? (51:21), and the passage of ar-Rum from 30:20, He created you from dust, to 30:26, all are devoutly obedient to Him. Everything obeys Him, he said, except the son of Adam. Whoever is blind in these signs, knowing they are from Us and seeing Our power and blessing, is blind in the Hereafter he has not seen.",
+            "bn": "ইবন যায়দের জবাব, যা তাবারীতেই আছে, দেখায় বড় অর্থটা দেখতে কেমন। আয়াতটি সম্পর্কে জিজ্ঞেস করা হলে তিনি নিদর্শনের কয়েকটি আয়াত তিলাওয়াত করেন। এর মধ্যে ছিল: আর তোমাদের নিজেদের মধ্যেও, তবু কি তোমরা দেখবে না? (৫১:২১)। আরও পড়েন সূরা রূমের ৩০:২০ থেকে ৩০:২৬ পর্যন্ত অংশ, যা শুরু হয় মাটি থেকে মানুষ সৃষ্টির কথায়, আর শেষ হয় 'সবাই তাঁর অনুগত' কথায়। তারপর বলেন, আদম সন্তান ছাড়া সবাই তাঁর আনুগত্য করে। যে জানে এসব নিদর্শন আমার, আমার কুদরত আর নিয়ামত দেখেও যে এগুলোতে অন্ধ, না দেখা আখিরাতে সে অন্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blind There, or Blind About It?",
+          "bn": "সেখানে অন্ধ, নাকি সে বিষয়ে অন্ধ"
+        },
+        "p": [
+          {
+            "en": "Fi-l-akhira, in the Hereafter, can be heard in two ways. The first takes it as a time and a place: on that Day, he is blind. As-Sa'di says he is blind there to the road to Paradise, just as he did not walk it in this world, because the recompense is of the same kind as the deed: as you deal, so you are dealt with. The Muyassar has him, on the Day of Resurrection, more blind to the path to Paradise and further from guidance.",
+            "bn": "ফিল আখিরাহ, অর্থাৎ আখিরাতে, কথাটা দুইভাবে শোনা যায়। প্রথম ধারা একে ধরে সময় আর স্থান হিসেবে: সেদিন সে অন্ধ। সা'দী বলেন, সেখানে সে জান্নাতে যাওয়ার পথ দেখবে না, ঠিক যেমন দুনিয়াতে সে পথে হাঁটেনি। কারণ প্রতিদান আমলের মতোই হয়: যেমন আচরণ করবে, তেমন আচরণ পাবে। মুয়াসসারের ভাষায়, কিয়ামতের দিন জান্নাতের পথে চলার ব্যাপারে সে আরও বেশি অন্ধ হবে, আর হিদায়াত থেকে আরও দূরে থাকবে।"
+          },
+          {
+            "en": "Mujahid, in a report at-Tabari places at the end of his discussion, says he is blind to his argument in the Hereafter: he will have no case to make. Al-Qurtubi adds, under it is said, that whoever was blind in this world to Allah's proofs will be raised blind, and cites 20:124, We will gather him on the Day of Resurrection blind, and 17:97, blind, dumb and deaf. Both ship here with their own articles on that blindness.",
+            "bn": "তাবারী তাঁর আলোচনার শেষে মুজাহিদের যে বর্ণনা রাখেন, তাতে মুজাহিদ বলেন: আখিরাতে সে নিজের পক্ষের দলিলের ব্যাপারে অন্ধ, অর্থাৎ বলার মতো কোনো যুক্তি তার থাকবে না। কুরতুবী 'বলা হয়' দিয়ে আরও আনেন: যে দুনিয়াতে আল্লাহর দলিল থেকে অন্ধ ছিল, তাকে অন্ধ করে ওঠানো হবে। এর পক্ষে তিনি দুটি আয়াত আনেন: ২০:১২৪, কিয়ামতের দিন আমি তাকে অন্ধ অবস্থায় একত্র করব, আর ১৭:৯৭, অন্ধ, বোবা ও বধির অবস্থায়। দুটি আয়াতেরই আলাদা প্রবন্ধ এখানে আছে, সে অন্ধত্বের আলোচনা সেখানেই।"
+          },
+          {
+            "en": "The other line hears fi-l-akhira as fi amri-l-akhira, in the matter of the Hereafter. Al-Qurtubi glosses it so in his first comment. Ibn Abbas, in the Ikrima report, says blind about the Hereafter he has not witnessed, and Qatada says blind in what is hidden from him of the Hereafter. At-Tabari's chosen reading belongs here too. On this line the comparison runs from the seen to the unseen: whoever cannot read the signs before his eyes will find the way beyond them harder still.",
+            "bn": "অন্য ধারা ফিল আখিরাহ শোনে ফী আমরিল আখিরাহ হিসেবে, অর্থাৎ আখিরাতের বিষয়ে। কুরতুবী তাঁর প্রথম মন্তব্যেই এভাবে ব্যাখ্যা দেন। ইকরিমার বর্ণনায় ইবন আব্বাস বলেন, না দেখা আখিরাতের ব্যাপারে অন্ধ। কাতাদা বলেন, আখিরাতের যা তার চোখের আড়ালে, সে বিষয়ে অন্ধ। তাবারীর বেছে নেওয়া ব্যাখ্যাও এই ধারার। এ ব্যাখ্যায় তুলনাটা চলে দেখা থেকে না দেখার দিকে। চোখের সামনের নিদর্শনই যে পড়তে পারে না, তার ওপারের জিনিসের পথ খুঁজে পাওয়া তার পক্ষে আরও কঠিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blind Again, or Blinder Still",
+          "bn": "আবার অন্ধ, নাকি আরও অন্ধ"
+        },
+        "p": [
+          {
+            "en": "The second a'ma has the same letters as the first but can be read two ways. It can be the adjective again, blind, or a comparative, more blind, in step with adallu, further astray, that follows it. Ibn Kathir takes it the first way: so he will be, likewise, and further astray than he was in this world. The Muyassar takes the second: ashaddu 'aman, greater in blindness. Al-Baghawi, explaining the this-world reading, also glosses it as more intensely blind.",
+            "bn": "দ্বিতীয় আ'মা শব্দের অক্ষর প্রথমটার মতোই, কিন্তু পড়া যায় দুইভাবে। এটি আবার সেই বিশেষণ হতে পারে, অর্থাৎ অন্ধ। আবার তুলনাবাচকও হতে পারে, অর্থাৎ আরও অন্ধ, ঠিক পরের শব্দ আদাল্লু বা আরও বিচ্যুতের সঙ্গে মিল রেখে। ইবন কাসীর প্রথম অর্থ নেন: সেখানেও সে এমনই থাকবে, আর দুনিয়াতে যতটা বিচ্যুত ছিল তার চেয়ে বেশি বিচ্যুত হবে। মুয়াসসার নেয় দ্বিতীয় অর্থ: আশাদ্দু আমান, অন্ধত্বে আরও তীব্র। দুনিয়া-অর্থের ব্যাখ্যা দিতে গিয়ে বাগাভীও একে আরও গভীর অন্ধত্ব বলে ব্যাখ্যা করেন।"
+          },
+          {
+            "en": "Al-Qurtubi reports, under it is said, that on every one of the readings the meaning is more blind, because this is blindness of the heart, and that form is not used of the blindness of the eye. He gives the grammarians' reasons. Al-Khalil and Sibawayh: blindness of the eye is part of the body's make, like the hand and the foot, so Arabs do not say ma a'mahu, how blind he is, just as they do not say ma aydahu. Some grammarians, al-Qurtubi adds, allowed ma a'mahu all the same.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে একটি মত আনেন: প্রতিটি ব্যাখ্যাতেই অর্থ দাঁড়ায় আরও অন্ধ। কারণ এ অন্ধত্ব অন্তরের, আর চোখের অন্ধত্বের বেলায় এ রূপ ব্যবহার হয় না। এর কারণ হিসেবে তিনি ব্যাকরণবিদদের কথা আনেন। খলীল ও সীবাওয়াইহ বলেন, চোখের অন্ধত্ব শরীরের গড়নের অংশ, হাত-পায়ের মতো। তাই আরবরা 'মা আ'মাহু', অর্থাৎ সে কত অন্ধ, বলে না, যেমন 'মা আইদাহু' বলে না। কুরতুবী আরও জানান, কোনো কোনো ব্যাকরণবিদ তবুও 'মা আ'মাহু' বলা বৈধ মনে করেছেন।"
+          },
+          {
+            "en": "At-Tabari meets the objection head on. Those who disliked reading it as more blind, he says, assumed the verse meant the blindness of the eyes, in which no one is blinder than another blind person, since that blindness has no degrees. But this is not so. The blindness here is of the heart, which does have degrees: the blindness of the disbelievers' hearts to proofs that their eyes had already seen. That is why the comparison is allowed and fitting.",
+            "bn": "তাবারী আপত্তিটার সরাসরি জবাব দেন। তিনি বলেন, যারা 'আরও অন্ধ' অর্থ পছন্দ করেননি, তারা ধরে নিয়েছিলেন আয়াতে চোখের অন্ধত্বের কথা। চোখের অন্ধত্বে কম-বেশি নেই, এক অন্ধ আরেক অন্ধের চেয়ে বেশি অন্ধ হয় না। কিন্তু ব্যাপারটা তেমন নয়। এখানে অন্ধত্ব অন্তরের, আর অন্তরের অন্ধত্বে কম-বেশি আছে। কাফিরদের চোখ আল্লাহর যে দলিল দেখে ফেলেছে, তাদের অন্তর সেগুলো দেখে না। এ জন্যই তুলনা বৈধ, তাবারী বলেন, আর মানানসইও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard in the Recitation",
+          "bn": "তিলাওয়াতেও শোনা যায়"
+        },
+        "p": [
+          {
+            "en": "The difference can be heard in recitation. Some readers pronounce the final vowel of a'ma with imala, leaning it toward an i sound, and some read it open. Al-Qurtubi names Abu Bakr, Hamza, al-Kisa'i and Khalaf as giving both words imala; the rest, he says, read both open; and Abu 'Amr gave the first imala and read the second open. Al-Baghawi reports the same three patterns and gives Abu 'Amr's reason: the second means more intensely blind, because of wa adallu sabila after it.",
+            "bn": "পার্থক্যটা তিলাওয়াতেও কানে আসে। কোনো কোনো কারী আ'মা শব্দের শেষ স্বরে ইমালা করেন, অর্থাৎ আওয়াজটা ই-এর দিকে হেলিয়ে পড়েন। কেউ কেউ পড়েন খোলা আওয়াজে। কুরতুবী আবু বকর, হামযা, কিসাঈ ও খালাফের নাম বলেন, যাঁরা দুটি শব্দেই ইমালা করেছেন। তাঁর কথায় বাকিরা দুটিই খোলা পড়েছেন, আর আবু আমর প্রথমটিতে ইমালা করে দ্বিতীয়টি খোলা পড়েছেন। বাগাভীও পড়ার এই তিনটি ধারার কথা বলেন, আর আবু আমরের কারণটাও জানান: দ্বিতীয়টির অর্থ আরও গভীর অন্ধ, কারণ পরেই আছে ওয়া আদাল্লু সাবীলা।"
+          },
+          {
+            "en": "At-Tabari's report differs on the first word. He says the readers all gave it imala; the general body of Kufan readers gave the second imala as well; and a reader of Basra read the second open, taking it as more blind and citing wa adallu sabila as their witness. He calls this the better of the two readings, for that witness. Only the split reading ties the sound to a meaning, and both sources that explain it point to that same phrase.",
+            "bn": "প্রথম শব্দের ব্যাপারে তাবারীর বর্ণনা একটু আলাদা। তিনি বলেন, সব কারীই প্রথমটিতে ইমালা করেছেন। কুফার সাধারণ কারীরা দ্বিতীয়টিতেও ইমালা করেছেন। আর বসরার একজন কারী দ্বিতীয়টি খোলা পড়েছেন, এর অর্থ নিয়েছেন আরও অন্ধ, আর সাক্ষী হিসেবে এনেছেন ওয়া আদাল্লু সাবীলা। তাবারী এই সাক্ষীর কারণেই একে দুই পড়ার মধ্যে উত্তম বলেন। শুধু ভাগ করা পড়াটিই আওয়াজের সঙ্গে একটি অর্থ বেঁধে দেয়, আর যে দুই উৎস এর কারণ বলেছে, দুটিই দেখিয়েছে ওই একই কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verse About Hearts, Not Eyes",
+          "bn": "চোখ নয়, অন্তরের কথা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly: the verse is not about people who cannot see with their eyes. Every commentary fetched for it reads the blindness as blindness to proofs and to truth. The Muyassar and al-Baghawi both say blind of heart; al-Qurtubi says blind to taking a lesson and to seeing the truth; at-Tabari, blind to proofs the eyes had seen. The Qur'an says it outright at 22:46, which has its own article here: it is not the eyes that go blind, but the hearts within the breasts. A believer without sight is untouched by this verse.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার: যারা চোখে দেখতে পান না, এ আয়াত তাঁদের নিয়ে নয়। এ আয়াতের যত তাফসীর আনা হয়েছে, সবগুলোই এ অন্ধত্বকে পড়ে দলিল আর সত্যের ব্যাপারে অন্ধত্ব হিসেবে। মুয়াসসার ও বাগাভী দুজনেই বলেন অন্তরের অন্ধ। কুরতুবী বলেন, শিক্ষা নেওয়া আর সত্য দেখার ব্যাপারে অন্ধ। তাবারী বলেন, চোখ যে দলিল দেখেছে, তা থেকে অন্তরের অন্ধত্ব। কুরআন ২২:৪৬ আয়াতে কথাটা সরাসরি বলেছে, আর সে আয়াতের আলাদা প্রবন্ধ এখানে আছে: চোখ অন্ধ হয় না, অন্ধ হয় বুকের ভেতরের অন্তর। দৃষ্টিহীন মুমিনকে এ আয়াত ছোঁয় না।"
+          },
+          {
+            "en": "No living person may be called blind-hearted on the strength of this verse. It describes a state and where that state leads; it hands the reader no verdict on a neighbour, a relative or a community. As-Sa'di's note points the same way: Allah punishes no one until the proof has been established against him and he has gone against it. Only Allah knows what reached a person. The lesson is inward. None of the commentaries fetched attaches a hadith to this verse, so none is quoted here.",
+            "bn": "এ আয়াতের জোরে কোনো জীবিত মানুষকে অন্তরের অন্ধ বলা যাবে না। আয়াতটি একটি অবস্থা আর তার পরিণামের বর্ণনা দেয়। প্রতিবেশী, আত্মীয় বা কোনো জনগোষ্ঠীর ব্যাপারে রায় দেওয়ার অধিকার পাঠকের হাতে তুলে দেয় না। সা'দীর কথাও একই দিকে যায়: প্রমাণ প্রতিষ্ঠিত হওয়ার পর কেউ তার বিরোধিতা না করা পর্যন্ত আল্লাহ তাকে শাস্তি দেন না। কার কাছে কী পৌঁছেছে, তা কেবল আল্লাহই জানেন। শিক্ষাটা তাই নিজের ভেতরের দিকে। যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sight Is Recovered Only Here",
+          "bn": "দৃষ্টি ফেরানো যায় এখানেই"
+        },
+        "p": [
+          {
+            "en": "Al-Hasan, in al-Baghawi and al-Qurtubi, reads the verse as a contrast of two worlds: whoever is in this world a disbeliever, astray, is in the Hereafter blind and further astray. Al-Baghawi gives his reason: in this world his repentance is accepted, and in the Hereafter it is not. Al-Qurtubi gives a related reading under it is said: whoever was blind in the world, where he was given respite and room and promised acceptance of repentance, is blind in the Hereafter, where there is no repentance.",
+            "bn": "বাগাভী ও কুরতুবীতে হাসানের যে বক্তব্য আছে, তাতে আয়াতটি দুই জগতের তুলনা। যে দুনিয়াতে কাফির ও পথভ্রষ্ট, আখিরাতে সে অন্ধ আর আরও বিচ্যুত। বাগাভী তাঁর কথার সঙ্গে কারণটাও দেন: দুনিয়াতে তার তওবা কবুল হয়, আখিরাতে হয় না। কুরতুবী 'বলা হয়' দিয়ে কাছাকাছি একটি ব্যাখ্যা আনেন। দুনিয়াতে তাকে অবকাশ দেওয়া হয়েছিল, সুযোগ দেওয়া হয়েছিল, তওবা কবুলের প্রতিশ্রুতিও দেওয়া হয়েছিল। সেখানে যে অন্ধ ছিল, আখিরাতে সে অন্ধ, যেখানে তওবার কোনো সুযোগ নেই।"
+          },
+          {
+            "en": "Al-Baghawi adds a neat pair under it is said: whoever in this world is blind to taking a lesson will be blind in the Hereafter to offering an excuse. Al-Qurtubi has another: whoever was blind to the blessings Allah gave him in this world is blind to the blessings of the Hereafter. Together these readings say why the second blindness is worse. The first could have been cured: repentance was open and the signs were in view. The second comes when all of that has closed.",
+            "bn": "বাগাভী 'বলা হয়' দিয়ে চমৎকার একটি জোড়া কথা আনেন: দুনিয়াতে যে শিক্ষা নেওয়ার ব্যাপারে অন্ধ, আখিরাতে সে ওজর পেশ করার ব্যাপারে অন্ধ হবে। কুরতুবী আনেন আরেকটি: দুনিয়াতে আল্লাহ যে নিয়ামত দিয়েছেন, তাতে যে অন্ধ ছিল, আখিরাতের নিয়ামতের ব্যাপারেও সে অন্ধ। এসব ব্যাখ্যা একসঙ্গে রাখলে বোঝা যায়, দ্বিতীয় অন্ধত্ব কেন বেশি কঠিন। প্রথমটার চিকিৎসা সম্ভব ছিল: তওবার দরজা খোলা ছিল, নিদর্শন চোখের সামনে ছিল। দ্বিতীয়টা আসে যখন এর সবই বন্ধ হয়ে গেছে।"
+          },
+          {
+            "en": "So the verse names its own remedy by the comparison it draws: sight can still be recovered here. A reader can take 17:66 to 17:70 as a daily practice of looking. The ship that carries, the rescue from the storm, the good provision and the honour given to the children of Adam are each a sign to be seen and thanked for. Ibn Kathir ends his comment with words that suit any reader: we seek refuge in Allah from that.",
+            "bn": "তুলনার ভেতর দিয়েই আয়াতটি নিজের চিকিৎসার কথা বলে দেয়: দৃষ্টি ফিরিয়ে আনা যায় এখানেই। পাঠক ১৭:৬৬ থেকে ১৭:৭০ পর্যন্ত আয়াতগুলোকে রোজকার দেখার অনুশীলন হিসেবে নিতে পারেন। যে নৌযান বয়ে নেয়, ঝড় থেকে যে উদ্ধার, যে ভালো রিযিক, আদম সন্তানকে দেওয়া যে সম্মান, এর প্রতিটিই এমন নিদর্শন যা দেখতে হয়, আর যার জন্য শোকর করতে হয়। এ আয়াত নিয়ে ইবন কাসীর তাঁর কথা শেষ করেন এমন কথায়, যা পাঠকেরও মানায়: এ থেকে আমরা আল্লাহর আশ্রয় চাই।"
+          }
+        ]
+      }
+    ]
+  },
   "17:78-79": {
     "sections": [
       {
