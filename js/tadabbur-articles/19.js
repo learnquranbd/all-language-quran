@@ -2483,6 +2483,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sentence After the Decree",
+          "bn": "ফয়সালার পরের বাক্য"
+        },
+        "p": [
+          {
+            "en": "Surah Maryam has been answering a man who asks whether, once dead, he will really be brought out alive. The oath of 19:68 swore that the deniers would be gathered with the devils and brought round Hell on their knees, and that verse has its own reflection. Then 19:69 and 19:70 speak of drawing out the most insolent of every party, and 19:71 turns to the listeners themselves: there is none of you but will come to it, a decree your Lord has made binding.",
+            "bn": "সূরা মারইয়াম এক লোকের প্রশ্নের জবাব দিয়ে চলেছে। লোকটি জানতে চায়, মরে যাওয়ার পর সত্যিই কি তাকে জীবিত করে ওঠানো হবে? ১৯:৬৮ আয়াতের কসমে বলা হয়েছে, অস্বীকারকারীদের শয়তানদের সঙ্গে একত্র করা হবে, তারপর নতজানু অবস্থায় জাহান্নামের চারপাশে হাজির করা হবে। সে আয়াতের আলাদা আলোচনা আছে। এরপর ১৯:৬৯ ও ১৯:৭০ আয়াতে প্রত্যেক দল থেকে সবচেয়ে উদ্ধতদের টেনে বের করার কথা। আর ১৯:৭১ আয়াত ফিরে তাকায় শ্রোতাদের দিকেই: তোমাদের মধ্যে এমন কেউ নেই যে সেখানে পৌঁছাবে না, এ তোমার রবের অবধারিত ফয়সালা।"
+          },
+          {
+            "en": "Our verse is the sentence that follows that decree, and it is eight Arabic words long: thumma nunajji alladhina ittaqaw wa-nadharu az-zalimina fiha jithiyya. Then We will save those who kept their duty, and leave the wrongdoers in it, on their knees. The first half is a rescue and the second a leaving behind. Both are spoken in the first person plural of majesty, and both take place at the same spot. What separates the two groups is named in a single verb, ittaqaw.",
+            "bn": "আমাদের আয়াতটি সেই ফয়সালার পরের বাক্য, আরবিতে মোট আটটি শব্দ: সুম্মা নুনাজ্জিল্লাযীনাত্তাকাও ওয়া নাযারুয যালিমীনা ফীহা জিসিয়্যা। তারপর যারা তাকওয়া অবলম্বন করেছে তাদের আমি রক্ষা করব, আর যালিমদের সেখানে নতজানু অবস্থায় রেখে দেব। বাক্যের প্রথম অর্ধেক উদ্ধার, দ্বিতীয় অর্ধেক পেছনে ফেলে রাখা। দুটোই আল্লাহ বলছেন মহিমার বহুবচনে, আর দুটোই ঘটছে একই জায়গায়। দুই দলকে আলাদা করে দিয়েছে একটিমাত্র ক্রিয়া: ইত্তাকাও, তারা তাকওয়া অবলম্বন করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Entering It, or Passing Over",
+          "bn": "ভেতরে প্রবেশ, নাকি উপর দিয়ে পার"
+        },
+        "p": [
+          {
+            "en": "What does it mean to come to it, the wurud of 19:71? The commentators fetched on this verse do not agree, and the disagreement is worth keeping as it is. Al-Qurtubi takes our verse as evidence that wurud means entering: Allah did not say And We will admit the wrongdoers, but We will leave them, so they were already inside. Al-Baghawi argues the same way from the verb itself. Rescue, he says, is only ever from something you have entered, and the verse shows that all entered and Allah then brought out those who feared Him.",
+            "bn": "১৯:৭১ আয়াতের উরূদ, অর্থাৎ সেখানে পৌঁছানো, এর মানে কী? এ আয়াতে যেসব তাফসীর দেখা হয়েছে, সেগুলো এক কথা বলে না। মতভেদটা যেমন আছে তেমনই রাখা ভালো। কুরতুবী আমাদের আয়াতকে প্রমাণ ধরেন যে উরূদ মানে প্রবেশ। কারণ আল্লাহ বলেননি, যালিমদের আমি প্রবেশ করাব। বলেছেন, তাদের রেখে দেব। অর্থাৎ তারা আগে থেকেই ভেতরে। বাগাভীও ক্রিয়াটি থেকে একই যুক্তি টানেন। তাঁর কথায়, মানুষ রক্ষা পায় কেবল সেখান থেকেই, যেখানে সে ঢুকেছে। আয়াত দেখায়, সবাই ঢুকেছিল, তারপর আল্লাহ মুত্তাকীদের বের করে এনেছেন।"
+          },
+          {
+            "en": "Ibn Kathir reads the scene as a crossing. All creatures pass over the Fire and some fall into it; the believers are saved by their deeds, and their speed over the Sirat is measured by what they did in the world. In his commentary on 19:71 and 19:72 together he relays from at-Tabari a report from Abdullah describing the bridge over Hell, crossed in groups, the first like lightning and the next like the wind. He also relays from Abd ar-Rahman ibn Zayd ibn Aslam a split reading: for the Muslims, wurud is passing over a bridge above it; for the idolaters it is entry.",
+            "bn": "ইবন কাসীর দৃশ্যটাকে দেখেন পার হওয়া হিসেবে। সমস্ত সৃষ্টি আগুনের উপর দিয়ে পার হবে, কেউ কেউ তাতে পড়ে যাবে। মুমিনরা রক্ষা পাবে নিজ নিজ আমলের জোরে। সিরাতের উপর দিয়ে তাদের পার হওয়ার গতি মাপা হবে দুনিয়ার আমল দিয়ে। ১৯:৭১ ও ১৯:৭২ আয়াতের একত্র আলোচনায় তিনি তাবারীর সূত্রে আবদুল্লাহ (রাঃ)-এর একটি বর্ণনা আনেন। তাতে জাহান্নামের উপরের সেতুর কথা আছে, যা মানুষ দলে দলে পার হবে: প্রথম দল বিদ্যুতের মতো, পরের দল বাতাসের মতো। আবদুর রহমান ইবন যায়দ ইবন আসলাম থেকে তিনি আনেন দুই ভাগের এক ব্যাখ্যা। মুসলিমদের উরূদ মানে তার উপরের সেতু দিয়ে পার হওয়া, আর মুশরিকদের উরূদ মানে ভেতরে প্রবেশ।"
+          },
+          {
+            "en": "Two voices sit between the positions. Ma'arif al-Qur'an says everyone, believer or not, will go across Hell without staying in it, and adds that even if the word means entry, the fire will do the pious believers no harm. Al-Baghawi himself records Khalid ibn Ma'dan: the people of Paradise will ask whether their Lord had not promised that they would come to the Fire, and be told, yes, but you passed by it while it was quenched. These sources do not settle which reading is right, and neither will this page.",
+            "bn": "দুই মতের মাঝামাঝি দুটি কণ্ঠ আছে। মাআরিফুল কুরআন বলে, মুমিন হোক বা কাফির, সবাই জাহান্নামের উপর দিয়ে পার হবে, তবে সেখানে থাকবে না। সঙ্গে যোগ করে, শব্দটির মানে প্রবেশ হলেও আগুন মুত্তাকী মুমিনদের কোনো ক্ষতি করবে না। বাগাভী নিজেই খালিদ ইবন মা'দান থেকে আনেন: জান্নাতবাসীরা জিজ্ঞেস করবে, আমাদের রব কি ওয়াদা করেননি যে আমরা আগুনের কাছে পৌঁছাব? তাদের বলা হবে, হ্যাঁ, তবে তোমরা যখন তার পাশ দিয়ে গেছ, তখন তা নিভে ছিল। কোন ব্যাখ্যা ঠিক, এ উৎসগুলো নিজেদের মধ্যে তার মীমাংসা করেনি। এ লেখাও করবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lit by Their Own Good Deeds",
+          "bn": "নিজের নেকির আলোয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the first half plainly. Then We will save from the Fire, after all of them have come to it, those who feared Him, by carrying out what He made obligatory and avoiding disobedience to Him. Then he reports a picture from Qatada. People came to Jahannam while it was black and dark. As for the believers, their good deeds gave them light, and they were brought out of it. As for the disbelievers, their deeds ruined them, and they were held back by their sins.",
+            "bn": "প্রথম অর্ধেকের ব্যাখ্যা তাবারী দেন সোজা কথায়। সবাই সেখানে পৌঁছানোর পর আল্লাহ আগুন থেকে রক্ষা করবেন তাদের, যারা তাঁকে ভয় করেছে: তাঁর ফরজ আদায় করে আর তাঁর নাফরমানি থেকে বেঁচে থেকে। তারপর তিনি কাতাদা থেকে একটি ছবি আনেন। মানুষ জাহান্নামে পৌঁছাল, আর তা তখন কালো, অন্ধকার। মুমিনদের নেক আমল তাদের জন্য আলো হয়ে জ্বলে উঠল, আর তারা সেখান থেকে বেরিয়ে এল। কাফিরদের আমল তাদের ধ্বংস করল, আর নিজেদের গুনাহে তারা আটকে রইল।"
+          },
+          {
+            "en": "Notice where Qatada places the light. Nothing is handed to the believers at the edge; the light is what they did, arriving with them. The verb nunajji is still Allah's own act, We will save, so the rescue is His. But in Qatada's picture and in Ibn Kathir's measure of the crossing, the means of it were gathered long before, prayer by prayer and refusal by refusal. That is why the verse is a warning to the living rather than only a description of the dead.",
+            "bn": "কাতাদা আলোটা কোথায় রেখেছেন, খেয়াল করুন। কিনারায় পৌঁছে মুমিনদের হাতে নতুন কিছু তুলে দেওয়া হয়নি। আলো তাদেরই আমল, যা তাদের সঙ্গেই এসেছে। নুনাজ্জী ক্রিয়াটি অবশ্য আল্লাহর নিজের কাজ: আমি রক্ষা করব। উদ্ধার তাই তাঁরই হাতে। তবু কাতাদার ছবিতে আর ইবন কাসীরের পার হওয়ার মাপে, সেই উদ্ধারের উপকরণ জমা হয়েছে অনেক আগে। এক এক ওয়াক্ত নামাজে, এক এক বার গুনাহ থেকে ফিরে আসায়। এ কারণেই আয়াতটি কেবল মৃতদের পরিণতির বর্ণনা নয়, জীবিতদের জন্য সতর্কবাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Counts as Having Feared",
+          "bn": "ভয় করেছে কারা"
+        },
+        "p": [
+          {
+            "en": "Alladhina ittaqaw: those who feared, who kept their duty. Three of the commentators read it broadly. At-Tabari has them fear Allah by fulfilling His obligations and avoiding what He forbids. The Muyassar has them fear their Lord by obeying Him and keeping far from disobeying Him. As-Sa'di has them fear Allah by doing what was commanded and avoiding what was prohibited. Al-Baghawi reads it narrowly: they feared shirk, and they are the believers. His reading matches his gloss of the other half, where those left behind are the idolaters.",
+            "bn": "আল্লাযীনাত্তাকাও: যারা ভয় করেছে, যারা দায়িত্ব রক্ষা করেছে। তিনজন তাফসীরকার শব্দটিকে বিস্তৃত অর্থে নেন। তাবারীর মতে, তারা আল্লাহকে ভয় করেছে তাঁর ফরজ আদায় করে আর নিষেধ থেকে দূরে থেকে। মুয়াসসারের মতে, তারা রবকে ভয় করেছে তাঁর আনুগত্য করে আর নাফরমানি থেকে দূরে থেকে। সা'দীর মতে, হুকুম পালন আর নিষিদ্ধ বিষয় বর্জন করে। বাগাভী অর্থটা সংকীর্ণ করে নেন: তারা শিরক থেকে বেঁচেছে, আর তারাই মুমিন। এ পাঠ তাঁর অন্য অর্ধেকের ব্যাখ্যার সঙ্গে মেলে, কারণ তাঁর মতে যাদের রেখে দেওয়া হবে, তারা মুশরিক।"
+          },
+          {
+            "en": "That narrower line opens the question of the believer who sinned gravely. Ibn Kathir answers it at length. After the God-fearing are saved, intercession is granted for believers who committed major sins; the angels, the prophets and the believers intercede, and people are brought out according to the faith in their hearts, first whoever has a dinar's weight of it, down to the least atom's weight. Then Allah brings out whoever said la ilaha illa Allah on any day of his life. He says the sound hadiths reported this.",
+            "bn": "সংকীর্ণ এ পাঠ থেকে প্রশ্ন ওঠে, কবীরা গুনাহ করা মুমিনের কী হবে? ইবন কাসীর এর জবাব দেন বিস্তারিত। মুত্তাকীরা রক্ষা পাওয়ার পর কবীরা গুনাহগার মুমিনদের জন্য শাফাআতের অনুমতি মিলবে। ফেরেশতা, নবী আর মুমিনরা সুপারিশ করবেন। মানুষকে বের করা হবে অন্তরের ঈমান অনুযায়ী: প্রথমে যার অন্তরে এক দীনার পরিমাণ ঈমান, এভাবে নামতে নামতে অণু পরিমাণ পর্যন্ত। তারপর আল্লাহ বের করবেন তাকে, যে জীবনের কোনো একদিন লা ইলাহা ইল্লাল্লাহ বলেছিল। তাঁর ভাষায়, সহীহ হাদীসগুলো এ কথাই এনেছে।"
+          },
+          {
+            "en": "Al-Qurtubi states the same position as the settled one. A person guilty of a major sin, if he enters, is punished in proportion to his sin and is then saved. He reports two groups who held otherwise: one said such a person does not enter at all, and the other said he remains in it forever. Only those for whom staying forever has become due remain, in Ibn Kathir's words, and this is why the verse ends as it does, with the wrongdoers left in it.",
+            "bn": "কুরতুবী একই অবস্থানকে প্রতিষ্ঠিত মত হিসেবে বলেন। কবীরা গুনাহগার যদি প্রবেশ করেও, গুনাহের পরিমাণ অনুযায়ী শাস্তি ভোগ করে, তারপর রক্ষা পায়। এর বিপরীতে তিনি দুটি দলের কথা উল্লেখ করেন। একদল বলেছে, সে প্রবেশই করবে না। আরেক দল বলেছে, সে সেখানে চিরকাল থাকবে। ইবন কাসীরের ভাষায়, শেষ পর্যন্ত সেখানে থেকে যাবে কেবল তারাই, যাদের জন্য চিরস্থায়ী থাকা অবধারিত হয়েছে। আর এ কারণেই আয়াতটি শেষ হয় যালিমদের সেখানে রেখে দেওয়ার কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nunajji, Doubled or Light",
+          "bn": "নুনাজ্জী, তাশদীদসহ বা ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi glosses nunajji as nukhallisuhum, We will free them, and records the readings. Asim al-Jahdari and Mu'awiya ibn Qurra read it light, nunji, from anja, and he names this as the reading of Humayd, Ya'qub and al-Kisa'i; the rest read it with the doubled consonant. Al-Baghawi notes the same split, naming al-Kisa'i and Ya'qub for the light form. Ibn Abi Layla, al-Qurtubi adds, read thamma with an open first vowel, meaning there: There We will save.",
+            "bn": "কুরতুবী নুনাজ্জী শব্দের অর্থ করেন নুখাল্লিসুহুম, আমি তাদের মুক্ত করব। সঙ্গে কিরাআতের পার্থক্যও উল্লেখ করেন। আসিম আল-জাহদারী ও মুআবিয়া ইবন কুররা শব্দটি পড়েছেন হালকা করে, নুনজী, আনজা ক্রিয়া থেকে। তাঁর কথায় এটি হুমায়দ, ইয়াকুব ও কিসাঈর কিরাআত, বাকিরা পড়েছেন তাশদীদ দিয়ে। বাগাভীও একই ভাগের কথা বলেন, আর হালকা পাঠের জন্য কিসাঈ ও ইয়াকুবের নাম নেন। কুরতুবী আরও জানান, ইবন আবী লায়লা পড়েছেন সাম্মা, প্রথম অক্ষরে যবর দিয়ে। তার মানে সেখানে: সেখানে আমি রক্ষা করব।"
+          },
+          {
+            "en": "Neither reading changes who is saved or who saves. What both keep is the word that opens the verse. In the common reading it is thumma, then: the rescue comes after the arrival that 19:71 decreed, not in place of it. At-Tabari carries that order into his gloss, after all of them have come to it. On every reading fetched here, the God-fearing are not spared the arrival. What they receive is a way out of it, whether that means being brought out after entering or carried safely across above it.",
+            "bn": "কোনো পাঠেই বদলায় না কে রক্ষা পায় বা কে রক্ষা করেন। দুটোতেই থেকে যায় আয়াতের প্রথম শব্দটির গুরুত্ব। প্রচলিত পাঠে তা সুম্মা, অর্থাৎ তারপর। উদ্ধার আসে ১৯:৭১ আয়াতে ঘোষিত সেই পৌঁছানোর পরে, তার বদলে নয়। তাবারীও তাঁর ব্যাখ্যায় এই ক্রম ধরে রেখেছেন: সবাই সেখানে পৌঁছানোর পর। এখানে দেখা প্রতিটি ব্যাখ্যাতেই মুত্তাকীরা পৌঁছানো থেকে রেহাই পায় না। তারা পায় সেখান থেকে বেরোনোর পথ। সেটা ভেতরে ঢোকার পর বের করে আনা হোক, কিংবা উপর দিয়ে নিরাপদে পার করে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wronged Their Own Souls",
+          "bn": "নিজের উপর যারা জুলুম করেছে"
+        },
+        "p": [
+          {
+            "en": "Wa-nadharu az-zalimin: and We leave the wrongdoers. At-Tabari explains whom he means: those who wronged themselves, worshipped other than Allah, disobeyed their Lord and went against His command and His prohibition. The Muyassar says they wronged themselves through disbelief in Allah. As-Sa'di reads the same, wronging themselves by disbelief and sins, and gives the reason in three clauses: because of their wrong and their disbelief, staying forever became due to them, the punishment fell due upon them, and every means of escape was cut off from them.",
+            "bn": "ওয়া নাযারুয যালিমীন: আর যালিমদের আমি রেখে দেব। তাবারী বলে দেন কাদের কথা: যারা নিজেদের উপর জুলুম করেছে, আল্লাহ ছাড়া অন্যের ইবাদত করেছে, রবের নাফরমানি করেছে, তাঁর আদেশ-নিষেধের বিরুদ্ধে চলেছে। মুয়াসসারের ভাষায়, তারা আল্লাহকে অস্বীকার করে নিজেদের উপর জুলুম করেছে। সা'দীও একই কথা বলেন, কুফর আর গুনাহ দিয়ে নিজের উপর জুলুম। কারণটাও তিনি দেন তিনটি বাক্যাংশে। তাদের জুলুম আর কুফরের কারণে চিরস্থায়ী থাকা তাদের জন্য অবধারিত হলো, শাস্তি তাদের উপর সাব্যস্ত হলো, আর বাঁচার সব উপায় তাদের থেকে ছিন্ন হয়ে গেল।"
+          },
+          {
+            "en": "The commentators begin their definition at the self: at-Tabari, the Muyassar and as-Sa'di all name the soul that was wronged as the wrongdoer's own. Then comes the posture, jithiyy, the same word that closed 19:68, where its readings are treated at length. Here at-Tabari gives kneeling on their knees, and reports the same from Qatada. Ibn Zayd adds why the posture is chosen: jithiyy is the worst way of sitting, and a man sits so only when distress has come down upon him. Al-Baghawi offers first a different sense, all together, then kneeling, under it is said.",
+            "bn": "তাফসীরকারেরা যালিমের সংজ্ঞা শুরু করেন নিজের সত্তা থেকে। তাবারী, মুয়াসসার আর সা'দী, তিনজনের কথাতেই যার উপর জুলুম হয়েছে সে যালিমের নিজেরই প্রাণ। এরপর আসে অবস্থার বর্ণনা: জিসিয়্যা। একই শব্দ ১৯:৬৮ আয়াতের শেষেও এসেছে, আর এর নানা অর্থ সেখানে বিস্তারিত আলোচিত। এখানে তাবারী অর্থ করেন হাঁটু গেড়ে বসা, কাতাদা থেকেও একই কথা আনেন। ইবন যায়দ যোগ করেন, এ ভঙ্গি কেন: জিসিয়্যা বসার সবচেয়ে খারাপ ধরন। মানুষ এভাবে বসে কেবল তখনই, যখন তার উপর কোনো বিপদ নেমে আসে। বাগাভী প্রথমে আরেকটি অর্থ দেন, সবাই একসঙ্গে। তারপর 'বলা হয়' কথাটি জুড়ে আনেন হাঁটু গেড়ে বসার অর্থ।"
+          },
+          {
+            "en": "The two verses hold the word at two moments. In 19:68 the deniers are brought round Hell on their knees. Here the wrongdoers are left in it on their knees, after the God-fearing have been brought out. The posture is the same; what has changed is that the others are gone. The verse adds no further detail, and this page will not supply any. A posture of distress is held in place, while those whose deeds gave them light have been led away.",
+            "bn": "দুই আয়াতে শব্দটি দুই মুহূর্তের ছবি ধরে। ১৯:৬৮ আয়াতে অস্বীকারকারীদের জাহান্নামের চারপাশে নতজানু অবস্থায় হাজির করা হয়। এখানে মুত্তাকীদের বের করে আনার পর যালিমদের সেখানেই নতজানু অবস্থায় রেখে দেওয়া হয়। ভঙ্গি একই, বদলেছে শুধু এটুকু যে অন্যরা আর সেখানে নেই। আয়াত এর বেশি খুঁটিনাটি দেয়নি, এ লেখাও দেবে না। বিপদের ভঙ্গিতে কিছু মানুষ আটকে আছে, আর যাদের আমল তাদের আলো দিয়েছিল, তাদের সরিয়ে নেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hafsa Asks, He Recites",
+          "bn": "হাফসার প্রশ্ন, নবীজির তিলাওয়াত"
+        },
+        "p": [
+          {
+            "en": "This verse has a sound hadith attached to it by name. Muslim records in his Sahih (no. 2496) from Jabir ibn Abd Allah: Umm Mubashshir told me that she heard the Prophet ﷺ say, in Hafsa's presence, None of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire, if Allah wills. She said, Yes they will, O Messenger of Allah, and he rebuked her. Hafsa said, And there is none of you but will come to it. The Prophet ﷺ said, Allah, Mighty and Majestic, has said: Then We will save those who feared, and leave the wrongdoers in it on their knees.",
+            "bn": "এ আয়াতের সঙ্গে নাম ধরে যুক্ত একটি সহীহ হাদীস আছে। মুসলিম তাঁর সহীহ গ্রন্থে (নং ২৪৯৬) জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেন: উম্মে মুবাশশির (রাঃ) আমাকে জানিয়েছেন, তিনি হাফসা (রাঃ)-এর উপস্থিতিতে নবী ﷺ-কে বলতে শুনেছেন, ইনশাআল্লাহ, গাছের নিচে যারা বাইআত করেছিল, সেই গাছের লোকদের কেউ জাহান্নামে প্রবেশ করবে না। তিনি বললেন, অবশ্যই করবে, হে আল্লাহর রাসূল। নবীজি তাঁকে ধমক দিলেন। হাফসা (রাঃ) বললেন, তোমাদের মধ্যে এমন কেউ নেই যে সেখানে পৌঁছাবে না। নবী ﷺ বললেন, আল্লাহ তাআলা তো বলেছেন: তারপর যারা তাকওয়া অবলম্বন করেছে তাদের আমি রক্ষা করব, আর যালিমদের সেখানে নতজানু অবস্থায় রেখে দেব।"
+          },
+          {
+            "en": "Al-Baghawi carries the exchange with his own chain, and Ibn Kathir relays it from Ahmad, in a wording that names those present at Badr and al-Hudaybiyya. Muslim's wording is what is quoted here. The shape of the answer also teaches. Questioned with a verse, the Prophet ﷺ did not deny it or explain it away. He recited the verse after it. The arrival in 19:71 stands; what the believer holds on to is the rescue that follows it, and the condition the rescue names.",
+            "bn": "বাগাভী নিজের সনদে এ কথোপকথন এনেছেন, আর ইবন কাসীর আনেন আহমাদের সূত্রে, এমন শব্দে যেখানে বদর ও হুদায়বিয়ায় উপস্থিতদের কথা আছে। এখানে উদ্ধৃত হয়েছে মুসলিমের শব্দ। জবাবের ধরনটাও কিছু শেখায়। এক আয়াত দিয়ে প্রশ্ন করা হলে নবী ﷺ সে আয়াত অস্বীকার করেননি, ঘুরিয়ে ব্যাখ্যাও করেননি। পড়ে শুনিয়েছেন তার পরের আয়াত। ১৯:৭১ আয়াতের পৌঁছানো বহাল থাকে। মুমিন আঁকড়ে ধরে তার পরের উদ্ধার, আর সেই উদ্ধারের শর্তটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Living Name in That Place",
+          "bn": "সেখানে জীবিত কারও নাম নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what Allah will do on His own day: save those who feared Him and leave the wrongdoers where they knelt. It describes what the text describes and licenses nothing against any living person or community. No living person may be named among the wrongdoers left in it. Al-Qurtubi's own discussion shows that even the scholars disagreed over who stays and for how long; a reader who settles that question about a neighbour has claimed a judgement the verse reserves for its Speaker.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে আল্লাহ তাঁর নিজের দিনে কী করবেন: যারা তাঁকে ভয় করেছে তাদের রক্ষা করবেন, আর যালিমদের যেখানে তারা নতজানু ছিল সেখানেই রেখে দেবেন। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। সেখানে রেখে দেওয়া যালিমদের মধ্যে কোনো জীবিত মানুষের নাম বসানো যাবে না। কুরতুবীর আলোচনাই দেখায়, কে থেকে যাবে আর কতদিন, তা নিয়ে আলেমদের মধ্যেও মতভেদ ছিল। প্রতিবেশীর বেলায় যে পাঠক এ প্রশ্নের মীমাংসা করে ফেলে, সে এমন বিচার নিজের হাতে নিল, যা আয়াত রেখে দিয়েছে তার বক্তার জন্য।"
+          },
+          {
+            "en": "What the verse gives the living is a question about themselves. If everyone arrives, the arrival decides nothing; what decides is ittaqaw, a past tense, something already done before that day. In the glosses fetched here it is plain work: obligations carried out, prohibitions avoided, the soul not wronged. Qatada's believers did not find their light at the edge. They brought it, and it was made of what they had done. Taqwa in this verse is not a feeling of fear but the thing that carries a person across.",
+            "bn": "জীবিতদের জন্য আয়াত রেখে যায় নিজের সম্পর্কে একটি প্রশ্ন। সবাই যদি পৌঁছায়, তবে পৌঁছানো কিছুই ঠিক করে না। যা ঠিক করে তা ইত্তাকাও, অতীত কালের ক্রিয়া, সেই দিনের আগেই করে রাখা কাজ। এখানে দেখা ব্যাখ্যাগুলোতে তা সাদামাটা আমল: ফরজ আদায়, নিষেধ বর্জন, নিজের উপর জুলুম না করা। কাতাদার বর্ণনার মুমিনরা কিনারায় গিয়ে আলো খুঁজে পায়নি। তারা আলো সঙ্গে করে এনেছিল, আর সে আলো ছিল তাদের নিজেদেরই আমল। এ আয়াতে তাকওয়া শুধু ভয়ের অনুভূতি নয়, এ সেই জিনিস যা মানুষকে পার করে নিয়ে যায়।"
+          },
+          {
+            "en": "So the verse can be read as an inventory taken early. Which obligation am I carrying, and which have I left lying? Which prohibition am I still bargaining with? The Prophet ﷺ answered fear with the next verse, and the next verse answers with a condition. That condition is kept or neglected in the next prayer and the next refusal, long before anyone kneels.",
+            "bn": "তাই আয়াতটিকে পড়া যায় আগেভাগে নেওয়া এক হিসাব হিসেবে। কোন ফরজ আমি বয়ে নিয়ে চলেছি, আর কোনটা ফেলে রেখেছি? কোন নিষেধ নিয়ে এখনো নিজের সঙ্গে দরকষাকষি করছি? ভয়ের জবাবে নবী ﷺ পড়েছিলেন পরের আয়াত। আর পরের আয়াত জবাব দেয় একটি শর্ত দিয়ে। কেউ নতজানু হওয়ার অনেক আগে, পরের নামাজে আর পরের বার গুনাহ ফিরিয়ে দেওয়ায়, সে শর্ত রক্ষা হয় কিংবা অবহেলিত হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "19:75": {
     "sections": [
       {

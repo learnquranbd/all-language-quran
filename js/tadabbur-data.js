@@ -23071,6 +23071,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call those closest to you to the truth with tenderness: speak to what binds you, credit your knowledge to Allah, and warn without contempt.",
     "lessonBn": "সবচেয়ে কাছের মানুষদের সত্যের দিকে ডাকুন কোমলভাবে: সম্পর্কের টান দিয়ে কথা বলুন, নিজের জ্ঞানকে আল্লাহর দান বলে মানুন, আর তাচ্ছিল্য ছাড়া সতর্ক করুন।"
+  },
+  "19:72": {
+    "reflectionEn": "The verse before this one closes every exit: there is none of you but will come to it, a thing your Lord has decreed. Then comes thumma, a word of relief, and a sentence in two halves. Those who kept their duty to Allah are brought out; the wrongdoers are left where they are, on their knees. The same arrival leads to two different ends, and nothing in the verse decides between them except what each person carried there. Here taqwa is no title to wear. It is the thing that carries a person through. The verse turns the question around: if the arrival is certain for everyone, what am I building now that will bring me out, and what am I doing that could leave me where I fall?",
+    "reflectionBn": "আগের আয়াত সব পথ বন্ধ করে দিয়েছে। তোমাদের মধ্যে এমন কেউ নেই যে সেখানে পৌঁছাবে না, এ তোমার রবের চূড়ান্ত ফয়সালা। তারপর আসে স্বস্তির একটি শব্দ, সুম্মা, আর দুই ভাগে ভাগ হওয়া এক বাক্য। যারা আল্লাহকে ভয় করে চলেছে, তাদের বের করে আনা হবে। আর যালিমদের রেখে দেওয়া হবে যেখানে তারা আছে, নতজানু অবস্থায়। পৌঁছানো সবার একই, অথচ শেষ দুই রকম। আর কার শেষ কোনটা হবে, আয়াতে তার মাপকাঠি একটাই: কে সঙ্গে করে কী নিয়ে এসেছে। তাকওয়া এখানে গায়ে লাগানো কোনো উপাধি নয়, এ সেই জিনিস যা মানুষকে পার করে নিয়ে যায়। তাই আয়াতটি প্রশ্নটা আমার দিকেই ফিরিয়ে দেয়। পৌঁছানো যদি সবার জন্য নিশ্চিত হয়, তাহলে আজ আমি কী গড়ছি যা আমাকে বের করে আনবে? আর কী করছি যা আমাকে সেখানেই ফেলে রাখতে পারে?",
+    "pointsEn": [
+      "If I knew for certain that I will arrive at that place, which of my habits today would I want with me, and which would I want gone?",
+      "Do I think of taqwa as a reputation I have, or as a daily keeping of what Allah commanded and a staying away from what He forbade?",
+      "What wrong against my own soul am I still calling small, when the wrongdoers of this verse are read as those who wronged themselves?",
+      "When a verse frightens me, do I read on to the verse after it, as the Prophet ﷺ did when he was questioned?",
+      "Have I ever placed a particular person among those left behind, when the verse leaves that judgement to Allah alone?"
+    ],
+    "pointsBn": [
+      "যদি নিশ্চিত জানতাম যে আমি সেখানে পৌঁছাবই, তাহলে আজকের কোন অভ্যাসগুলো সঙ্গে নিতে চাইতাম, আর কোনগুলো ঝেড়ে ফেলতে চাইতাম?",
+      "তাকওয়াকে কি আমি নিজের সুনাম ভাবি, নাকি প্রতিদিনের কাজ ভাবি: আল্লাহর হুকুম পালন আর তাঁর নিষেধ থেকে দূরে থাকা?",
+      "নিজের উপর কোন জুলুমকে আমি এখনো ছোট বলে চালিয়ে দিচ্ছি, অথচ এ আয়াতের যালিমদের বোঝা হয় তাদেরই, যারা নিজেদের উপর জুলুম করেছে?",
+      "কোনো আয়াত পড়ে ভয় পেলে আমি কি তার পরের আয়াতটাও পড়ি, যেমন প্রশ্নের জবাবে নবী ﷺ পরের আয়াত পড়ে শুনিয়েছিলেন?",
+      "আমি কি কখনো নির্দিষ্ট কোনো মানুষকে মনে মনে পেছনে পড়ে থাকাদের দলে বসিয়ে দিয়েছি, অথচ আয়াত সেই বিচার কেবল আল্লাহর হাতে রেখেছে?"
+    ],
+    "lessonEn": "Everyone arrives; not everyone is brought out. Let taqwa, kept daily in what you do and what you avoid, be what carries you across.",
+    "lessonBn": "পৌঁছাবে সবাই, কিন্তু বের করে আনা হবে সবাইকে নয়। প্রতিদিনের কাজে আর বর্জনে ধরে রাখা তাকওয়াই হোক সেই জিনিস যা আপনাকে পার করে নেবে।"
   }
 };
 
