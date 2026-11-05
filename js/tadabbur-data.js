@@ -22911,6 +22911,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold every life sacred and never claim a hidden reason to harm anyone; where a loss stays unexplained, keep to what is right and trust Allah's wisdom.",
     "lessonBn": "প্রতিটি প্রাণকে পবিত্র জানুন, কারও ক্ষতি করতে কখনো গোপন কারণের দাবি তুলবেন না। আর যে ক্ষতির ব্যাখ্যা মেলে না, সেখানে ন্যায়ের পথে থাকুন এবং আল্লাহর হিকমতের উপর ভরসা রাখুন।"
+  },
+  "18:96": {
+    "reflectionEn": "He had turned down their money, so he asked for their hands instead. Bring me blocks of iron. The pieces went up, one course on another, until the work stood level with the two mountain tops. Blow, he told them, and they blew until the iron glowed like fire. Then bring me molten metal, and he poured it over the whole until it set as one. The verse names no miracle here, only orders, materials and many people working under one skilled hand. Knowledge led and labour followed, and in the next breath the builder would call it a mercy from his Lord. What could I raise with others, if I offered my skill and let them offer their strength?",
+    "reflectionBn": "তাদের টাকা তিনি নেননি, তাই চাইলেন তাদের হাত। আমার কাছে লোহার খণ্ড নিয়ে এসো। খণ্ডের উপর খণ্ড চড়ল, স্তরে স্তরে, যতক্ষণ না কাজটা দুই পাহাড়ের চূড়ার সমান হলো। তারপর বললেন, ফুঁ দাও। তারা হাপরে দম দিতে থাকল, লোহা আগুনের মতো লাল হয়ে উঠল। এরপর বললেন, গলানো ধাতু আনো। তিনি তা ঢেলে দিলেন, আর পুরোটা জমে এক হয়ে গেল। এ আয়াতে কোনো অলৌকিক ঘটনার নাম নেই। আছে শুধু আদেশ, উপকরণ, আর এক দক্ষ হাতের নির্দেশে অনেক মানুষের খাটুনি। জ্ঞান আগে চলেছে, শ্রম তার পেছনে। আর পরের নিঃশ্বাসেই নির্মাতা একে বলবেন তাঁর রবের রহমত। আমি যদি নিজের দক্ষতা দিই আর অন্যদের শক্তি দেওয়ার সুযোগ করে দিই, একসঙ্গে আমরা কী গড়ে তুলতে পারি?",
+    "pointsEn": [
+      "Where am I waiting for money or a miracle, when what the task really needs is my own hands and a few willing people?",
+      "When I lead a piece of work, are my instructions clear and given one step at a time, or do I leave people guessing?",
+      "Do I share the labour with the people I am helping, or do I either carry all of it alone or hand all of it to them?",
+      "What skill has Allah placed in me that could shield someone from harm, if only I put it to work?",
+      "When something I helped to build stands firm, whose name comes to my lips first, mine or my Lord's?"
+    ],
+    "pointsBn": [
+      "কোন কাজে আমি টাকা বা অলৌকিক কিছুর অপেক্ষায় বসে আছি, অথচ আসলে দরকার নিজের দুটো হাত আর কয়েকজন আগ্রহী মানুষ?",
+      "কোনো কাজের দায়িত্ব পেলে আমি কি একেক ধাপে পরিষ্কার নির্দেশ দিই, নাকি মানুষকে আন্দাজের উপর ছেড়ে দিই?",
+      "যাদের সাহায্য করছি, খাটুনিতে তাদেরও কি শরিক করি? নাকি হয় সব বোঝা একা কাঁধে তুলি, নয়তো সবটা তাদের ঘাড়ে চাপিয়ে দিই?",
+      "আল্লাহ আমাকে এমন কোন দক্ষতা দিয়েছেন, যা কাজে লাগালে কাউকে ক্ষতি থেকে বাঁচানো যেত?",
+      "আমার হাতে গড়া কিছু যখন মজবুত হয়ে দাঁড়ায়, মুখে প্রথম কার নাম আসে, আমার, নাকি আমার রবের?"
+    ],
+    "lessonEn": "Protection is built by skill joined to many willing hands: offer what you know, ask others for their strength, and credit the result to Allah.",
+    "lessonBn": "নিরাপত্তার দেয়াল ওঠে দক্ষতা আর অনেকের স্বেচ্ছাশ্রম মিলে। যা জানেন তা দিন, অন্যদের কাছে তাদের শক্তি চান, আর ফলের কৃতিত্ব আল্লাহকে দিন।"
   }
 };
 

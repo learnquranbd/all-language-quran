@@ -3511,6 +3511,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:96": {
+    "sections": [
+      {
+        "h": {
+          "en": "Iron Asked, Not Gold",
+          "bn": "সোনা নয়, লোহা চাই"
+        },
+        "p": [
+          {
+            "en": "Atuni zubar al-hadid: bring me blocks of iron. At-Tabari reads the command as Dhul-Qarnayn speaking to the people who had asked him for a barrier, and glosses it as 'come to me with' the iron. Zubar is the plural of zubra, a piece of iron. At-Tabari relays that gloss, 'pieces of iron', through chains to Ibn Abbas, Mujahid, Abu Salih and Qatada, and in one report Qatada calls them falaq, split chunks of iron.",
+            "bn": "আতূনী যুবারাল হাদীদ: আমার কাছে লোহার খণ্ড নিয়ে এসো। তাবারীর ব্যাখ্যায় যুলক্বারনায়ন কথাটা বলছেন সেই লোকদের, যারা তাঁর কাছে একটা বাঁধ চেয়েছিল। আতূনীর অর্থ তিনি করেন, লোহা নিয়ে আমার কাছে এসো। যুবার শব্দটি যুবরার বহুবচন, আর যুবরা মানে লোহার একটা টুকরা। 'লোহার টুকরা', এই অর্থ তাবারী ইবন আব্বাস, মুজাহিদ, আবু সালিহ ও কাতাদা পর্যন্ত একাধিক সূত্রে বর্ণনা করেন। এক বর্ণনায় কাতাদা এগুলোকে বলেন ফালাক, অর্থাৎ লোহার ফাড়া চাঁই।"
+          },
+          {
+            "en": "Al-Qurtubi adds the root sense. The word's origin is gathering together: the zubra of a lion is the mass of hair heaped on its shoulders, and zabartu al-kitab means I wrote the book, gathering its letters. He calls each zubra a great piece. Ibn Kathir, citing Ibn Abbas, Mujahid and Qatada, likens the pieces to bricks, and adds under 'it is said' that each weighed a Damascene qintar or more. The Muyassar keeps it plain: give me pieces of iron.",
+            "bn": "কুরতুবী শব্দের মূলে যান। এর আসল অর্থ জড়ো হওয়া। সিংহের কাঁধে যে কেশর গাদা হয়ে থাকে, তাকে বলে সিংহের যুবরা। আর যাবারতুল কিতাব মানে আমি বইটা লিখেছি, অর্থাৎ তার অক্ষরগুলো একত্র করেছি। প্রতিটি যুবরাকে তিনি বলেন বিশাল টুকরা। ইবন কাসীর ইবন আব্বাস, মুজাহিদ ও কাতাদার বরাতে টুকরাগুলোকে ইটের সঙ্গে তুলনা করেন। 'বলা হয়' কথাটি জুড়ে তিনি আরও আনেন, প্রতিটির ওজন ছিল দামেশকি এক কিনতার বা তারও বেশি। মুয়াসসার সোজা কথায় বলে: আমাকে লোহার টুকরা দাও।"
+          },
+          {
+            "en": "Al-Qurtubi makes a sharper point about the verb. Atuni here, he says, does not ask for a gift in the sense of a present. Dhul-Qarnayn had already declined their tribute (18:95), so all that remained was to ask them to hand over the materials and to give the work of their bodies. He wanted their iron and their effort, not their wealth. As-Sa'di records the answer without comment: so they gave it to him.",
+            "bn": "ক্রিয়াটি নিয়ে কুরতুবী আরও সূক্ষ্ম একটা কথা বলেন। তাঁর মতে এখানে আতূনী মানে উপহার চাওয়া নয়। যুলক্বারনায়ন আগেই তাদের দেওয়া কর ফিরিয়ে দিয়েছেন (১৮:৯৫)। কাজেই বাকি থাকল কেবল এটুকু: উপকরণ হাতে হাতে এগিয়ে দেওয়া, আর গায়ে খেটে কাজ করা। তিনি চেয়েছিলেন তাদের লোহা আর তাদের শ্রম, তাদের সম্পদ নয়। সাদী কোনো মন্তব্য ছাড়াই জবাবটা লেখেন: তারা তাঁকে তা এনে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Course Upon Course to the Summit",
+          "bn": "স্তরে স্তরে চূড়া পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Hatta idha sawa bayna as-sadafayn: until, when he had levelled the space between the two sides. At-Tabari supplies the steps the verse leaves out: they brought the iron, he set it between the two sides, until the gap between the two mountains was level with what he had placed there. He defines as-sadafan as what lies between the flanks of the two mountains and their summits. His chains gloss the word as the two mountains, from Ibn Abbas, Qatada and ad-Dahhak, and as their tops, from Mujahid.",
+            "bn": "হাত্তা ইযা সাওয়া বাইনাস সাদাফাইন: শেষ পর্যন্ত যখন তিনি দুই পাশের মাঝখানটা সমান করে দিলেন। আয়াত যে ধাপগুলো উহ্য রেখেছে, তাবারী সেগুলো খুলে বলেন। তারা লোহা নিয়ে এল, তিনি তা দুই পাশের মাঝে বসাতে থাকলেন, আর এক সময় দুই পাহাড়ের মাঝের ফাঁক তাঁর বসানো লোহার সমান হয়ে গেল। আস-সাদাফান বলতে তিনি বোঝান দুই পাহাড়ের দুই পার্শ্ব আর চূড়ার মাঝের অংশ। তাঁর বর্ণনাসূত্রে ইবন আব্বাস, কাতাদা ও যাহহাক শব্দটির অর্থ করেন দুই পাহাড়, আর মুজাহিদ করেন পাহাড় দুটির চূড়া।"
+          },
+          {
+            "en": "Al-Qurtubi relays Abu Ubayda: the two sides of a mountain, named for meeting each other. Ibn Atiyya, as he quotes him, adds that the word is used only for a pair facing one another, never for one alone. Ibn Kathir describes the method in a line: he laid the blocks one on another from the foundation until they matched the mountaintops in length and breadth. He then adds that the scholars held several views on the barrier's dimensions.",
+            "bn": "কুরতুবী আবু উবাইদার কথা আনেন: সাদাফাইন হলো পাহাড়ের দুই পাশ, একে অপরের মুখোমুখি মিলেছে বলে এই নাম। তাঁর উদ্ধৃতিতে ইবন আতিয়্যা যোগ করেন, শব্দটি বলা হয় কেবল মুখোমুখি জোড়ার বেলায়, একটা পাহাড়কে একা সাদাফ বলা হয় না। ইবন কাসীর এক বাক্যে কাজের ধরনটা বলে দেন। ভিত থেকে শুরু করে তিনি খণ্ডের উপর খণ্ড রাখতে থাকলেন, যতক্ষণ না দৈর্ঘ্যে আর প্রস্থে তা পাহাড়চূড়ার সমান হলো। তারপর তিনি জানান, বাঁধের মাপ নিয়ে আলেমদের একাধিক মত আছে।"
+          },
+          {
+            "en": "Al-Baghawi gives figures, but marks them as coming 'in the story': fifty cubits wide, two hundred high, a farsakh long. Those numbers belong to narrative reports, not to the verse or to any sound hadith. What the verse itself fixes is the shape of the task: an opening between two mountain walls, filled course by course until nothing was left open.",
+            "bn": "বাগাভী মাপও দেন, তবে স্পষ্ট করে বলেন কথাটা 'কাহিনিতে' আছে: প্রস্থে পঞ্চাশ হাত, উচ্চতায় দুশো হাত, আর দৈর্ঘ্যে এক ফারসাখ। এই সংখ্যাগুলো এসেছে কাহিনিনির্ভর বর্ণনা থেকে, আয়াত বা কোনো সহীহ হাদীস থেকে নয়। আয়াত নিজে যা নিশ্চিত করে তা কাজের চেহারা: দুই পাহাড়ের দেয়ালের মাঝে একটা ফাঁক, যা স্তরে স্তরে ভরাট হলো, কোথাও এতটুকু খোলা রইল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Ways to Voice a Word",
+          "bn": "এক শব্দ, তিন উচ্চারণ"
+        },
+        "p": [
+          {
+            "en": "The word as-sadafayn is itself read in several ways, and at-Tabari sets the forms out. The Arabs, he says, have three forms of it, and groups of readers recited each: as-sadafayn, with fatha on both letters, the reading of most readers of Medina and Kufa; as-sudufayn, with damma on both, the reading of Basra; and as-sudfayn, damma then sukun, read by some in Mecca and Kufa. He prefers the first as the best known, while allowing all three because their meanings agree.",
+            "bn": "আস-সাদাফাইন শব্দটি পড়ার ধরনও একাধিক, আর তাবারী সেগুলো সাজিয়ে দেন। তাঁর ভাষায়, আরবদের মুখে শব্দটির তিনটি রূপ আছে, আর প্রতিটি রূপেই একদল কারী পড়েছেন। প্রথমটি আস-সাদাফাইন, দুই অক্ষরেই যবর, মদীনা ও কূফার অধিকাংশ কারীর কিরাআত। দ্বিতীয়টি আস-সুদুফাইন, দুই অক্ষরেই পেশ, বসরার কিরাআত। তৃতীয়টি আস-সুদফাইন, প্রথমে পেশ, পরে সাকিন, মক্কা ও কূফার কিছু কারী এভাবে পড়েছেন। প্রথম রূপটি সবচেয়ে প্রসিদ্ধ বলে তাবারী সেটিই পছন্দ করেন। তবে অর্থ এক বলে তিনটিকেই তিনি বৈধ মানেন।"
+          },
+          {
+            "en": "Al-Qurtubi names the readers. Nafi', Hamza and al-Kisa'i read as-sadafayn, which he also reports from Umar ibn al-Khattab (RA) and Umar ibn Abd al-Aziz; Ibn Kathir, Ibn Amir and Abu Amr read as-sudufayn; Abu Bakr from Asim read as-sudfayn. Al-Baghawi gives the same list and adds Ya'qub to the second group. A related difference touches the command to bring: Abu Bakr read i'tuni, come to me, for the first atuni, give me, and al-Baghawi has Hamza join him on the second. Al-Qurtubi's verdict: all of it carries one meaning, the two facing mountains.",
+            "bn": "কুরতুবী কারীদের নাম বলেন। নাফি, হামযা ও কিসাঈ পড়েছেন আস-সাদাফাইন, আর তিনি জানান এটি উমর ইবনুল খাত্তাব (রাঃ) ও উমর ইবন আবদুল আযীযেরও কিরাআত। ইবন কাসীর, ইবন আমির ও আবু আমর পড়েছেন আস-সুদুফাইন। আসিমের সূত্রে আবু বকর পড়েছেন আস-সুদফাইন। বাগাভীও একই তালিকা দেন, দ্বিতীয় দলে যোগ করেন ইয়াকুবকে। 'আনো' আদেশটি নিয়েও কাছাকাছি একটা পার্থক্য আছে। প্রথম আতূনী, অর্থাৎ আমাকে দাও, আবু বকর পড়েছেন ঈতূনী, অর্থাৎ আমার কাছে এসো। বাগাভীর বর্ণনায় দ্বিতীয়টিতে হামযাও তাঁর সঙ্গে আছেন। কুরতুবীর সিদ্ধান্ত: সবগুলোর অর্থ এক, মুখোমুখি দুই পাহাড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blow Until the Iron Burns",
+          "bn": "ফুঁ দাও, লোহা জ্বলুক"
+        },
+        "p": [
+          {
+            "en": "Qala unfukhu: he said, blow. At-Tabari says the order went to the workers: blow the fire upon these pieces of iron. Then the verse skips a step, he notes, and the sense runs: so they blew, until he had made the iron between the two sides fire. The Muyassar has him tell the workers to stoke the fire until the iron was all fire. Al-Qurtubi explains ja'alahu naran as 'like fire', since iron heated enough glows as fire does.",
+            "bn": "কালান ফুখূ: তিনি বললেন, ফুঁ দাও। তাবারী বলেন, আদেশটা ছিল শ্রমিকদের প্রতি: লোহার এই টুকরাগুলোর উপর আগুনে ফুঁ দাও। তিনি লক্ষ করেন, আয়াত এখানে একটা ধাপ উহ্য রেখেছে। পুরো কথাটা দাঁড়ায় এমন: তারা ফুঁ দিতে থাকল, শেষে দুই পাশের মাঝের লোহাকে তিনি আগুন বানিয়ে ফেললেন। মুয়াসসারের বর্ণনায় তিনি শ্রমিকদের আগুন উসকে দিতে বলেন, যতক্ষণ না সব লোহা আগুন হয়ে যায়। কুরতুবী জাআলাহু নারান কথাটির অর্থ করেন 'আগুনের মতো', কারণ যথেষ্ট তাপ পেলে লোহা আগুনের মতোই জ্বলে।"
+          },
+          {
+            "en": "Al-Qurtubi describes the work in layers. A course of iron pieces and stones would be laid, then firewood and charcoal kindled on it with bellows until it grew hot. Molten copper, lead or iron, depending on one's view of qitr, was then poured over that laid course. When it had fused and hardened and its parts held fast to one another, another course was begun, until the work stood level and became a solid mountain.",
+            "bn": "কুরতুবী কাজটা বর্ণনা করেন স্তর ধরে ধরে। প্রথমে লোহার টুকরা আর পাথরের একটা স্তর বসানো হতো। তার উপর লাকড়ি আর কয়লা রেখে হাপর দিয়ে আগুন জ্বালানো হতো, যতক্ষণ না সব গরম হয়ে ওঠে। তারপর সেই সাজানো স্তরের উপর ঢালা হতো গলানো তামা, সিসা বা লোহা। কোনটা, তা নির্ভর করে কিতর শব্দের কোন অর্থ ধরা হয় তার উপর। স্তরটা গলে মিশে শক্ত হয়ে গেলে, এক অংশ আরেক অংশে আটকে গেলে, শুরু হতো পরের স্তর। এভাবে চলতে চলতে কাজটা সমান হয়ে দাঁড়াল, যেন নিরেট এক পাহাড়।"
+          },
+          {
+            "en": "Al-Baghawi, again marking it 'in the story', has charcoal and firewood placed among the iron pieces, iron on wood and wood on iron; the fire ate the wood and the copper took its place, until iron and copper held together. As-Sa'di explains the blowing as a great fire, worked with bellows to make it fierce, so as to melt the copper that would bind the iron. The verse gives only short commands; the commentators fill in the craft behind them.",
+            "bn": "বাগাভী এবারও 'কাহিনিতে আছে' বলে জানান, লোহার টুকরাগুলোর ফাঁকে ফাঁকে কয়লা আর লাকড়ি রাখা হয়েছিল। লাকড়ির উপর লোহা, লোহার উপর লাকড়ি। আগুন লাকড়ি খেয়ে ফেলল, আর তার জায়গা নিল তামা, শেষে লোহা আর তামা জোড়া লেগে গেল। সাদী ফুঁ দেওয়ার ব্যাখ্যা দেন এভাবে: বিশাল আগুন জ্বালাও, হাপর চালিয়ে তা আরও তীব্র করো, যাতে লোহাকে জোড়া দেওয়ার তামা গলে যায়। আয়াত শুধু ছোট ছোট আদেশ শোনায়। তার পেছনের কারিগরি খুলে বলেন তাফসীরকারেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Copper, Iron or Lead",
+          "bn": "তামা, লোহা, না সিসা"
+        },
+        "p": [
+          {
+            "en": "Atuni ufrigh 'alayhi qitran: bring me, that I may pour qitr over it. At-Tabari glosses ifragh as pouring and qitr as copper, with chains to Ibn Abbas, Mujahid, ad-Dahhak and Qatada; Qatada adds that it was poured to bind the iron fast. Ibn Kathir names Ibn Abbas, Mujahid, Ikrima, ad-Dahhak, Qatada and as-Suddi for copper, notes that some of them added 'molten', and cites 34:12, where Allah made a spring of qitr flow for Sulayman (AS).",
+            "bn": "আতূনী উফরিগ আলাইহি কিতরা: আনো, আমি এর উপর কিতর ঢেলে দিই। তাবারী ইফরাগের অর্থ করেন ঢালা, আর কিতরের অর্থ তামা। এর সূত্র তিনি নিয়ে যান ইবন আব্বাস, মুজাহিদ, যাহহাক ও কাতাদা পর্যন্ত। কাতাদা যোগ করেন, তামা ঢালা হয়েছিল লোহাকে শক্ত করে আঁকড়ে রাখতে। ইবন কাসীর তামার মতের পক্ষে নাম নেন ইবন আব্বাস, মুজাহিদ, ইকরিমা, যাহহাক, কাতাদা ও সুদ্দীর। তিনি জানান, তাঁদের কেউ কেউ 'গলিত' শব্দটাও যোগ করেছেন। সঙ্গে তিনি আনেন ৩৪:১২ আয়াত, যেখানে আল্লাহ সুলাইমান (আঃ)-এর জন্য কিতরের এক ঝরনা প্রবাহিত করেছিলেন।"
+          },
+          {
+            "en": "The meaning is not unanimous, and the commentators say so. At-Tabari relays a Basran scholar of Arabic who held qitr to be molten iron, citing a line of poetry. Al-Qurtubi sets out three positions: most commentators say molten copper, the word coming from qatara, to drip, since melted metal drips as water does; one group says molten iron; another, among them Ibn al-Anbari, says molten lead. As-Sa'di and al-Baghawi both gloss it as molten copper.",
+            "bn": "অর্থ নিয়ে সবাই একমত নন, আর তাফসীরকারেরা তা গোপনও করেন না। তাবারী বসরার এক আরবি ভাষাবিদের মত আনেন, যাঁর কাছে কিতর মানে গলিত লোহা। নিজের কথার পক্ষে তিনি এক কবিতার পঙক্তি পেশ করেন। কুরতুবী তিনটি মত সাজান। অধিকাংশ মুফাসসিরের মতে কিতর গলিত তামা। শব্দটি এসেছে কাতারা থেকে, যার অর্থ ফোঁটা ফোঁটা ঝরা, কারণ গলানো ধাতু পানির মতো ফোঁটায় ঝরে। একটি দলের মতে গলিত লোহা। আরেক দলের মতে গলিত সিসা, ইবনুল আনবারী এই দলে। সাদী ও বাগাভী দুজনেই অর্থ করেন গলিত তামা।"
+          },
+          {
+            "en": "Whatever the metal, its purpose was the same. As-Sa'di says that once the qitr was poured, the barrier was made firm with a tremendous firmness, and the people behind it were shielded from the harm of Ya'juj and Ma'juj. Al-Qurtubi notes a shift of order in the clause: give me qitr, that I may pour it over it. The qitr belongs to both verbs, the asking and the pouring, and the pouring was the last act that turned a stack of blocks into a single wall.",
+            "bn": "ধাতু যা-ই হোক, উদ্দেশ্য ছিল একটাই। সাদী বলেন, কিতর ঢালার পর বাঁধটা ভয়ানক মজবুত হয়ে গেল, আর তার ওপারের মানুষ ইয়াজূজ ও মাজূজের ক্ষতি থেকে রক্ষা পেল। কুরতুবী বাক্যটির শব্দক্রমে একটা আগপিছ লক্ষ করেন। আসল কথা হলো: আমাকে কিতর দাও, আমি তা এর উপর ঢালব। ফলে কিতর শব্দটা দুই ক্রিয়ারই অংশ, চাওয়ারও, ঢালারও। আর এই ঢালাই ছিল শেষ কাজ, যা খণ্ডের স্তূপকে বানিয়ে দিল এক অখণ্ড দেয়াল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports, Not Coordinates",
+          "bn": "বর্ণনা আছে, ঠিকানা নেই"
+        },
+        "p": [
+          {
+            "en": "What the finished wall looked like is a matter of report. Al-Qurtubi and al-Baghawi both relay Qatada: it was like a striped cloak, one band black and one band red. Ibn Kathir records, through at-Tabari's chain to Qatada, that a man told the Prophet ﷺ he had seen the barrier; asked to describe it, he said it was like a striped cloak, and the Prophet ﷺ said, 'You have seen it.' Ibn Kathir himself grades this report mursal, missing the Companion who would link Qatada to the Prophet ﷺ.",
+            "bn": "তৈরি হওয়ার পর দেয়ালটা দেখতে কেমন ছিল, সে কথা জানা যায় কেবল বর্ণনা থেকে। কুরতুবী ও বাগাভী দুজনেই কাতাদার কথা আনেন: দেয়ালটা ছিল ডোরাকাটা চাদরের মতো, একটা ডোরা কালো, একটা লাল। ইবন কাসীর তাবারীর সূত্রে কাতাদা থেকে বর্ণনা করেন, এক ব্যক্তি নবী ﷺ-কে বলল, সে বাঁধটা দেখে এসেছে। তিনি বর্ণনা দিতে বললে সে বলল, ডোরাকাটা চাদরের মতো। নবী ﷺ বললেন, 'তুমি সত্যিই তা দেখেছ।' তবে ইবন কাসীর নিজেই বর্ণনাটিকে মুরসাল বলেন, অর্থাৎ কাতাদা আর নবী ﷺ-এর মাঝখানের সাহাবির নাম এতে নেই।"
+          },
+          {
+            "en": "Where the wall stands, the commentators relate reports and do not settle it. Ibn Kathir tells of an expedition that an Abbasid caliph sent to see the barrier, whose members came back and described what they had seen. Ma'arif al-Qur'an sets the frame: what must be believed is what the Qur'an and the hadith state; the historical and geographical reports may be right or wrong, and either way they do not touch what the Qur'an says.",
+            "bn": "দেয়ালটা কোথায়, এ নিয়ে তাফসীরকারেরা বর্ণনা উল্লেখ করেন, কিন্তু মীমাংসা করেন না। ইবন কাসীর এক আব্বাসী খলিফার পাঠানো এক অভিযাত্রী দলের কথা বলেন। তারা ফিরে এসে যা দেখেছিল তার বিবরণ দেয়। মাআরিফুল কুরআন বিষয়টা ঠিক জায়গায় রাখে। ঈমানের অংশ কেবল ততটুকু, যতটুকু কুরআন ও হাদীসে আছে। ইতিহাস আর ভূগোলের বর্ণনা ঠিকও হতে পারে, ভুলও হতে পারে। দুই অবস্থাতেই কুরআনের বক্তব্যে তাতে কোনো হেরফের হয় না।"
+          },
+          {
+            "en": "So this article names no place and no people. The verse describes a barrier raised against Ya'juj and Ma'juj, a people the text names; it describes what the text describes and licenses nothing against any living nation, ethnicity or community. Fixing that name on a modern people, or matching a known wall to the verse, goes beyond every source read here. Ma'arif itself records several walls that have been proposed, and says outright that deciding which of them is Dhul-Qarnayn's has proved difficult.",
+            "bn": "তাই এ লেখা কোনো জায়গা বা কোনো জাতির নাম নেয় না। আয়াতটি বলছে ইয়াজূজ ও মাজূজের বিরুদ্ধে তোলা এক বাঁধের কথা, যে জাতির নাম কুরআন নিজে নিয়েছে। আয়াত যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জাতি, গোষ্ঠী বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। এখনকার কোনো জাতির গায়ে এই নাম সেঁটে দেওয়া, কিংবা পরিচিত কোনো দেয়ালকে এ আয়াতের দেয়াল বলে দাবি করা, এখানে পড়া কোনো উৎসেই নেই। মাআরিফ নিজেই এমন একাধিক দেয়ালের কথা লেখে যেগুলোর নাম প্রস্তাব করা হয়েছে, আর খোলাখুলি স্বীকার করে, কোনটা যুলক্বারনায়নের দেয়াল তা ঠিক করা কঠিন হয়ে দাঁড়িয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Opening Like a Ring",
+          "bn": "আংটির মতো এক ফাটল"
+        },
+        "p": [
+          {
+            "en": "One sound narration touches this barrier, though it was not said about this verse. Al-Bukhari records in his Sahih: 'Narrated Zainab bint Jahsh: That the Prophet (ﷺ) once came to her in a state of fear and said, \"None has the right to be worshipped but Allah. Woe unto the Arabs from a danger that has come near. An opening has been made in the wall of Gog and Magog like this,\" making a circle with his thumb and index finger. Zainab bint Jahsh said, \"O Allah's Messenger (ﷺ)! Shall we be destroyed even though there are pious persons among us?\" He said, \"Yes, when the evil person will increase.\"'",
+            "bn": "একটি সহীহ বর্ণনা এই বাঁধের কথা ছুঁয়ে যায়, যদিও তা এ আয়াত প্রসঙ্গে বলা হয়নি। বুখারী তাঁর সহীহ গ্রন্থে বর্ণনা করেন: 'যায়নাব বিনতে জাহশ (রাঃ) থেকে বর্ণিত, নবী ﷺ একদিন ভীত অবস্থায় তাঁর কাছে এলেন এবং বললেন, \"লা ইলাহা ইল্লাল্লাহ, আল্লাহ ছাড়া কোনো ইলাহ নেই। আরবদের জন্য আফসোস, এক অনিষ্ট কাছে এসে পড়েছে। আজ ইয়াজূজ ও মাজূজের প্রাচীরে এতটুকু ফাঁক খুলে গেছে।\" এই বলে তিনি বুড়ো আঙুল আর তার পাশের আঙুল দিয়ে একটা বৃত্ত বানালেন। যায়নাব বিনতে জাহশ বলেন, আমি বললাম, \"হে আল্লাহর রাসূল, আমাদের মধ্যে নেককার লোক থাকতেও কি আমরা ধ্বংস হয়ে যাব?\" তিনি বললেন, \"হ্যাঁ, যখন পাপাচার বেড়ে যাবে।\"'"
+          },
+          {
+            "en": "The Prophet's ﷺ word for the wall is radm, the very word Dhul-Qarnayn used for what he would build (18:95). Ma'arif al-Qur'an reports that the opening was taken in two ways: some hadith scholars read it as a real breach of that measure, others as a figure for the wall's weakening and the nearness of Ya'juj and Ma'juj's emergence. It leaves the matter to Allah, and so does this article. Either way, what the Prophet ﷺ tied to ruin was the increase of evil, not the thinning of iron.",
+            "bn": "প্রাচীর বোঝাতে নবী ﷺ যে শব্দ ব্যবহার করেছেন তা রাদম। যুলক্বারনায়ন নিজের গড়ে তোলা দেয়ালের জন্য ঠিক এই শব্দটিই বলেছিলেন (১৮:৯৫)। মাআরিফুল কুরআন জানায়, ফাঁকটাকে দুইভাবে বোঝা হয়েছে। কিছু হাদীসবিশারদের মতে সত্যিই ওই মাপের একটা ফাটল খুলেছিল। অন্যদের মতে কথাটা রূপক, দেয়াল দুর্বল হয়ে আসছে আর ইয়াজূজ-মাজূজের বেরিয়ে আসার সময় ঘনিয়ে আসছে। মাআরিফ বিষয়টা আল্লাহর উপর ছেড়ে দেয়, এ লেখাও তাই করে। যেভাবেই বোঝা হোক, নবী ﷺ ধ্বংসকে জুড়েছেন পাপাচার বেড়ে যাওয়ার সঙ্গে, লোহা পাতলা হয়ে যাওয়ার সঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Skill, Many Hands, One Lord",
+          "bn": "দক্ষতা, বহু হাত, এক রব"
+        },
+        "p": [
+          {
+            "en": "Read whole, the verse is a portrait of capable leadership. Dhul-Qarnayn does not ask the people to stand aside while he works wonders, and he does not leave them to struggle alone. He gives short, exact orders: bring, blow, bring. They supply the iron, the fuel, the breath for the bellows and the strength of their backs; he supplies the knowledge of how the pieces must be stacked, heated and bound. Behind it all stands al-Qurtubi's point: he refused their money and asked for their labour.",
+            "bn": "পুরো আয়াতটা একসঙ্গে পড়লে চোখে পড়ে দক্ষ নেতৃত্বের এক ছবি। যুলক্বারনায়ন লোকদের সরে দাঁড়াতে বলেননি যে তিনি একা অলৌকিক কিছু করে দেখাবেন। আবার তাদের একা লড়তেও ছেড়ে দেননি। তাঁর আদেশগুলো ছোট আর নির্দিষ্ট: আনো, ফুঁ দাও, আনো। লোহা, জ্বালানি, হাপরের দম আর গায়ের জোর এসেছে তাদের কাছ থেকে। আর টুকরাগুলো কীভাবে সাজাতে হবে, কীভাবে গরম করে জোড়া দিতে হবে, সেই জ্ঞান এসেছে তাঁর কাছ থেকে। এর পেছনে আছে কুরতুবীর সেই কথা: তিনি তাদের টাকা ফিরিয়ে দিয়ে চেয়েছিলেন তাদের শ্রম।"
+          },
+          {
+            "en": "That pairing is the verse's quiet lesson for anyone who would protect others. A people threatened by harm needed neither a stranger's charity nor a purchased favour. They needed a skilled leader willing to work beside them, and their own readiness to give what they had. As-Sa'di's note on the result is the measure of success: the barrier held, and the people behind it were kept from harm. Protection was the aim, and cooperation is what built it.",
+            "bn": "যে অন্যকে রক্ষা করতে চায়, তার জন্য এই জোড়টাই আয়াতের নীরব শিক্ষা। বিপদের মুখে থাকা মানুষগুলোর দরকার ছিল না কোনো অচেনা লোকের দান বা টাকায় কেনা অনুগ্রহ। দরকার ছিল এমন এক দক্ষ নেতার, যিনি তাদের পাশে থেকে কাজ করবেন। আর দরকার ছিল তাদের নিজেদের প্রস্তুতি, হাতে যা আছে তা দিয়ে দেওয়ার। সাফল্যের মাপকাঠি সাদীর কথাতেই পাওয়া যায়: বাঁধটা টিকে গেল, আর তার ওপারের মানুষ ক্ষতি থেকে বাঁচল। লক্ষ্য ছিল নিরাপত্তা, আর তা গড়ে দিয়েছে সহযোগিতা।"
+          },
+          {
+            "en": "And the builder did not keep the credit. The next verse opens with his words, 'This is a mercy from my Lord' (18:98). Here, at the furnace and the pouring, the lesson is simpler. Whatever skill a person has, and whatever many hands achieve together, is a trust from Allah, to be spent on other people's safety and returned to Him in gratitude. The question is practical: what could I build with those around me?",
+            "bn": "আর নির্মাতা কৃতিত্বটা নিজের কাছে রাখেননি। পরের আয়াত শুরু হয় তাঁর এই কথায়: 'এ আমার রবের রহমত' (১৮:৯৮)। এখানে, চুল্লি আর ঢালাইয়ের মুহূর্তে, শিক্ষাটা আরও সহজ। মানুষের যে দক্ষতাই থাকুক, অনেক হাত মিলে যা-ই গড়ে উঠুক, সবই আল্লাহর আমানত। তা খরচ হবে অন্যের নিরাপত্তায়, আর শুকরিয়ার সঙ্গে ফিরিয়ে দেওয়া হবে তাঁরই কাছে। প্রশ্নটা তাই একেবারে কাজের: আশপাশের মানুষদের সঙ্গে মিলে আমি কী গড়ে তুলতে পারি?"
+          }
+        ]
+      }
+    ]
+  },
   "18:99": {
     "sections": [
       {
