@@ -21491,6 +21491,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Arrogance comes before the crime. When a clear truth reaches you, bend to it before pride finds its reasons; rank, and the crowd behind it, never excuse refusing what you can see.",
     "lessonBn": "অপরাধের আগে আসে অহংকার। স্পষ্ট সত্য আপনার কাছে এলে অহংকার অজুহাত খোঁজার আগেই তার কাছে নত হোন। পদমর্যাদা বা পেছনের ভিড়, কোনোটাই চোখের সামনের সত্য ফিরিয়ে দেওয়ার অজুহাত নয়।"
+  },
+  "10:93": {
+    "reflectionEn": "The sea is behind them now, and the verse counts what came next: a home true to its name, and provision that was good and lawful. Then one more gift arrives, the clearest of all, which is knowledge. And that, the verse says, is when they began to differ. Not before, in the dark, but after the light had come. It is worth sitting with, because it is not only their story. Knowledge given to bring a people together can become the very thing they split over, each side certain that it alone understands. The verdict on that is not handed to any of us. It is kept for the Day, and for Allah. My part is to ask what my own knowledge is doing to the people beside me.",
+    "reflectionBn": "সাগর এখন পেছনে। আয়াতটি গুনে দেখায় এরপর কী কী এল: নামের মতোই খাঁটি এক ঠিকানা, আর হালাল উত্তম রিযক। তারপর আসে আরও একটি দান, সবচেয়ে স্পষ্টটি: জ্ঞান। আয়াত বলছে, ঠিক তখনই তারা মতভেদ শুরু করল। অন্ধকারে থাকতে নয়, আলো আসার পরে। কথাটা নিয়ে একটু থামা দরকার, কারণ এ শুধু তাদের কাহিনি নয়। যে জ্ঞান এসেছিল মানুষকে এক করতে, সেটাই হয়ে উঠতে পারে ভাগাভাগির উপলক্ষ। প্রত্যেক পক্ষ নিশ্চিত, বোঝে কেবল সে-ই। এ নিয়ে রায় দেওয়ার ভার আমাদের কারও হাতে দেওয়া হয়নি। সেটা রাখা আছে কিয়ামতের দিনের জন্য, আল্লাহর কাছে। আমার কাজ নিজেকে জিজ্ঞেস করা: আমার জ্ঞান আমার পাশের মানুষগুলোর সঙ্গে কী করছে?",
+    "pointsEn": [
+      "When I learned something new about the religion, did it bring me closer to the people around me, or give me a reason to look down on them?",
+      "Which disagreement in my family, mosque or circle began only after we all knew better, and what has kept it alive since?",
+      "When I am sure I am right, do I still speak to the one I think is wrong as a brother or sister?",
+      "Do I find it easier to name the divisions of other communities than to see the ones in my own?",
+      "Which dispute am I trying to settle today that only Allah will settle on the Day of Resurrection?"
+    ],
+    "pointsBn": [
+      "দ্বীনের নতুন কিছু শিখে আমি কি চারপাশের মানুষের আরও কাছে গেছি, নাকি তাদের ছোট করে দেখার একটা কারণ পেয়েছি?",
+      "আমার পরিবারে, মসজিদে বা চেনা মহলে কোন মতভেদটা শুরু হয়েছে আমরা সবাই ভালো করে জানার পরেই? তারপর থেকে কী সেটাকে বাঁচিয়ে রেখেছে?",
+      "নিজেকে সঠিক বলে নিশ্চিত হলে, যাকে ভুল মনে করি তার সঙ্গে কি তখনও ভাইয়ের বা বোনের মতো কথা বলি?",
+      "অন্য সম্প্রদায়ের ভাঙন চিনিয়ে দেওয়া কি আমার কাছে সহজ, আর নিজের ঘরের ভাঙন দেখা কঠিন?",
+      "আজ কোন বিবাদের মীমাংসা আমি নিজেই করে ফেলতে চাইছি, যার মীমাংসা কেবল আল্লাহ করবেন কিয়ামতের দিন?"
+    ],
+    "lessonEn": "Knowledge came to unite them, and they divided over it. Let what you learn draw you nearer to the people around you, and leave the final verdict on every dispute to Allah.",
+    "lessonBn": "জ্ঞান এসেছিল তাদের এক করতে, অথচ সেটা নিয়েই তারা ভাগ হয়ে গেল। আপনার শেখা যেন আপনাকে চারপাশের মানুষের কাছে টানে। আর প্রতিটি বিবাদের শেষ রায় আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 

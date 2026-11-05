@@ -3579,6 +3579,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:93": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Sea to a Settlement",
+          "bn": "সাগর পেরিয়ে স্থায়ী ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "The story of Musa (AS) and Pharaoh in Surah Yunus has reached its end. In 10:92 the tyrant's body was made a sign for those after him. Now the verse turns to the people he had pursued. Wa-laqad bawwa'na Bani Isra'ila mubawwa'a sidqin: and We certainly settled the Children of Israel in a settlement of sidq, and provided them with good things. Ibn Kathir opens by reading it as a list of favours: Allah is telling of the blessings He gave them, blessings of religion and of the world.",
+            "bn": "সূরা ইউনুসে মূসা (আঃ) আর ফিরআউনের কাহিনি শেষ প্রান্তে এসে গেছে। ১০:৯২ আয়াতে জালিমের দেহকে পরের মানুষদের জন্য নিদর্শন করা হয়েছিল। এবার আয়াতটি ফেরে সেই মানুষদের দিকে, যাদের পেছনে সে ধাওয়া করেছিল। ওয়া লাকাদ বাওওয়া’না বানী ইসরাঈলা মুবাওওয়াআ সিদকিন: আর আমি অবশ্যই বানী ইসরাঈলকে সিদকের এক আবাসে থিতু করেছিলাম, আর তাদের উত্তম জিনিস থেকে রিযক দিয়েছিলাম। ইবন কাসীর শুরুতেই একে নিয়ামতের তালিকা হিসেবে পড়েন। আল্লাহ জানাচ্ছেন, তাদের তিনি কী কী দিয়েছিলেন, দ্বীনের নিয়ামতও, দুনিয়ার নিয়ামতও।"
+          },
+          {
+            "en": "Then the verse turns. After the home and the provision comes a third gift, knowledge, and with it the first mention of division: they did not differ until knowledge came to them. The next verse, 10:94, speaks straight to the Prophet ﷺ: if you are in doubt about what We sent down to you, ask those who have been reading the Book before you. None of the eight tafsirs read for this verse reports an occasion of revelation for it, so its place between those two verses is the context worked from here.",
+            "bn": "তারপর আয়াতটি এমন দিকে মোড় নেয়, যা পাঠক হয়তো আশা করেন না। ঘর আর রিযকের পরে আসে তৃতীয় দান, জ্ঞান। আর তার সঙ্গেই প্রথমবার আসে ভাঙনের কথা: জ্ঞান আসার আগ পর্যন্ত তারা মতভেদ করেনি। পরের আয়াত, ১০:৯৪, সরাসরি নবী ﷺ-কে সম্বোধন করে: আমি তোমার প্রতি যা নাযিল করেছি তাতে সন্দেহ থাকলে তোমার আগে থেকে যারা কিতাব পড়ে আসছে তাদের জিজ্ঞেস কর। এ আয়াতের জন্য পড়া আটটি তাফসীরের কোনোটিই এর নাযিলের কোনো উপলক্ষ বর্ণনা করে না। তাই এই দুই আয়াতের মাঝখানে এর অবস্থানই এখানে প্রেক্ষাপট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Home Called Truthful",
+          "bn": "সত্যের নামে এক আবাস"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and al-Baghawi both gloss bawwa'na as anzalna, We lodged them, and al-Baghawi adds when: after Pharaoh was destroyed. The same verb, in another form, appeared six verses earlier, in 10:87, when Musa (AS) and his brother were told to take houses for their people in Egypt. There it was an order under pressure; here the settling is done. At-Tabari renders the phrase as dwellings of sidq. Al-Qurtubi calls it a dwelling of sidq that is praised and chosen, and the Muyassar a good, chosen dwelling.",
+            "bn": "তাবারী আর বাগাভী দুজনেই বাওওয়া’না শব্দের ব্যাখ্যা দেন আনযালনা দিয়ে, অর্থাৎ আমি তাদের এনে থাকতে দিলাম। বাগাভী সময়টাও জুড়ে দেন: ফিরআউন ধ্বংস হওয়ার পর। একই ক্রিয়া আরেক রূপে এসেছিল ছয়টি আয়াত আগে, ১০:৮৭ আয়াতে। সেখানে মূসা (আঃ) ও তাঁর ভাইকে বলা হয়েছিল মিসরে নিজেদের লোকদের জন্য ঘর বানাতে। সেখানে ছিল চাপের মধ্যে দেওয়া হুকুম, এখানে থিতু হওয়ার কাজটা সম্পন্ন। তাবারী বাক্যাংশটির অর্থ করেন সিদকের আবাসসমূহ। কুরতুবী বলেন, প্রশংসিত ও বাছাই করা সিদকের আবাস। মুয়াসসার বলে, উত্তম ও বাছাই করা এক আবাস।"
+          },
+          {
+            "en": "Why sidq, truthfulness, for a place? Ma'arif al-Qur'an explains that sidq here means good and proper: they were given somewhere to live that suited them in every way. The provision is described just as carefully. At-Tabari reads min at-tayyibat as lawful provision, and al-Baghawi as lawful things. Ibn Kathir widens it to the lawful, good and beneficial provision that is pleasant both by nature and by the Law. Al-Qurtubi names fruits and the like, and as-Sa'di food, drink and the rest. So far the verse is nothing but gift.",
+            "bn": "একটা জায়গার সঙ্গে সিদক, অর্থাৎ সত্যতা, কেন? মাআরিফুল কুরআন বুঝিয়ে বলে, এখানে সিদক মানে ভালো ও যথাযথ। তাদের এমন বাসস্থান দেওয়া হয়েছিল, যা সব দিক থেকে তাদের উপযোগী। রিযকের কথাও একই যত্নে বলা। তাবারী মিনাত তাইয়্যিবাত পড়েন হালাল রিযক অর্থে, বাগাভী পড়েন হালাল জিনিস অর্থে। ইবন কাসীর অর্থটা বড় করেন: হালাল, উত্তম, উপকারী রিযক, যা স্বভাবের দিক থেকেও রুচিকর, শরীয়তের দিক থেকেও। কুরতুবী নাম করেন ফলমূল ও এ জাতীয় জিনিসের, সা’দী খাবার, পানীয় ও অন্যান্য জিনিসের। এ পর্যন্ত আয়াতে শুধু দানেরই কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Land the Commentators Name",
+          "bn": "তাফসীরকারেরা কোন ভূমির নাম নেন"
+        },
+        "p": [
+          {
+            "en": "Where was this dwelling? The commentators differ, and at-Tabari sets out the difference with its chains. It was said, he writes, that ash-Sham and Bayt al-Maqdis were meant; and it was said, ash-Sham and Egypt. He reports ad-Dahhak: dwellings of sidq, Egypt and ash-Sham. He reports Qatada: Allah settled them in ash-Sham and Bayt al-Maqdis. And he reports Ibn Zayd: ash-Sham, after which Ibn Zayd recited 21:71, the land which We blessed for all the worlds. At-Tabari gives both readings and does not choose between them.",
+            "bn": "এই আবাস কোথায় ছিল? তাফসীরকারদের মধ্যে মতভেদ আছে, আর তাবারী সনদসহ মতভেদটা সাজিয়ে দেন। তিনি লেখেন, কেউ বলেছেন এর দ্বারা শাম ও বাইতুল মাকদিস বোঝানো হয়েছে, কেউ বলেছেন শাম ও মিসর। দাহহাকের কথা তিনি আনেন: সিদকের আবাস মানে মিসর ও শাম। কাতাদার কথা আনেন: আল্লাহ তাদের শাম ও বাইতুল মাকদিসে থিতু করেছিলেন। আর ইবন যায়দের কথা আনেন: শাম। এরপর ইবন যায়দ ২১:৭১ আয়াত তিলাওয়াত করেন, যেখানে বলা হয়েছে সেই ভূমির কথা, যাতে আমি বিশ্ববাসীর জন্য বরকত রেখেছি। তাবারী দুটি মতই উল্লেখ করেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi put Egypt first. Each then adds, under it was said, al-Urdunn and Filastin, and each closes with ad-Dahhak's Egypt and ash-Sham. Al-Baghawi describes that second land as the holy land which Allah wrote as an inheritance for Ibrahim (AS) and his descendants. As-Sa'di keeps to the first reading in substance: Allah lodged them in the dwellings of Pharaoh's people and made them heirs to their land and homes. The Muyassar joins the two and speaks of a good, chosen dwelling in ash-Sham and Egypt.",
+            "bn": "কুরতুবী ও বাগাভী প্রথমে মিসরের কথা বলেন। এরপর দুজনেই 'বলা হয়' বলে যোগ করেন উরদুন ও ফিলাস্তীনের নাম, আর শেষ করেন দাহহাকের মত দিয়ে: মিসর ও শাম। দ্বিতীয় ভূমিটির পরিচয় দিতে বাগাভী বলেন, এ সেই পবিত্র ভূমি, যা আল্লাহ ইবরাহীম (আঃ) ও তাঁর বংশধরদের উত্তরাধিকার হিসেবে লিখে রেখেছিলেন। সা’দী মূলত প্রথম মতের পথেই থাকেন। তাঁর ভাষায়, আল্লাহ তাদের ফিরআউনের লোকদের বাসস্থানে থাকতে দিলেন, তাদের জমি আর ঘরবাড়ির উত্তরাধিকারী করলেন। মুয়াসসার দুটোকে মিলিয়ে বলে শাম ও মিসরে উত্তম, বাছাই করা এক আবাসের কথা।"
+          },
+          {
+            "en": "Ibn Kathir, introducing it with it was said, names the lands of Egypt and ash-Sham around Bayt al-Maqdis, and reads the verse beside 7:137 and 26:57 to 26:59, where the Children of Israel inherit what Pharaoh's people left behind. The disagreement stays a disagreement; this article takes no side. Each of these names describes a gift within the story's own past. Nothing in the verse, and nothing in this article, is a statement about any present-day land, border or state, or a claim made on behalf of anyone living.",
+            "bn": "ইবন কাসীর 'বলা হয়' কথাটি দিয়ে শুরু করে বাইতুল মাকদিসের আশপাশের মিসর ও শাম অঞ্চলের নাম নেন। আয়াতটি তিনি পড়েন ৭:১৩৭ এবং ২৬:৫৭ থেকে ২৬:৫৯ আয়াতের পাশে রেখে, যেখানে ফিরআউনের লোকেরা যা ফেলে গেছে তার উত্তরাধিকারী হয় বানী ইসরাঈল। মতভেদটা এখানে মতভেদ হিসেবেই থাকছে। এই লেখা কোনো পক্ষ নিচ্ছে না। এসব নামের প্রতিটিই কাহিনির নিজের অতীতের এক দানের বর্ণনা। আজকের কোনো ভূখণ্ড, সীমানা বা রাষ্ট্র নিয়ে আয়াতটি কিছু বলে না, এই লেখাও বলে না। জীবিত কারও পক্ষে কোনো দাবিও এখানে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Knowledge Was",
+          "bn": "কোন জ্ঞানের কথা"
+        },
+        "p": [
+          {
+            "en": "Then comes fa-ma khtalafu hatta ja'ahumu al-'ilm: they did not differ until the knowledge came to them. What was that knowledge? At-Tabari's own reading ties it to the Prophet ﷺ. Before Muhammad ﷺ was sent, he says, they were agreed on his prophethood, from the description they found written with them. When what they knew came to them, some disbelieved in him and some believed, and the believers among them were few. So al-'ilm, knowledge, stands in place of al-ma'lum, the person known.",
+            "bn": "এরপর আসে ফামাখতালাফূ হাত্তা জাআহুমুল ইলম: জ্ঞান আসার আগ পর্যন্ত তারা মতভেদ করেনি। সেই জ্ঞানটা কী? তাবারী নিজের ব্যাখ্যায় একে যুক্ত করেন নবী ﷺ-এর সঙ্গে। তাঁর কথা হলো, মুহাম্মাদ ﷺ প্রেরিত হওয়ার আগে তারা তাঁর নবুওয়াত মেনে নেওয়ার ব্যাপারে একমত ছিল, এ নিয়ে তাদের মধ্যে কোনো মতভেদ ছিল না। কারণ তাদের কাছে লিখিত আকারে তাঁর বিবরণ তারা পেত। যাঁকে তারা চিনত, তিনি যখন এলেন, তখন তাদের কেউ তাঁকে অস্বীকার করল, কেউ ঈমান আনল। আর ঈমানদারেরা ছিল সংখ্যায় অল্প। তাই এখানে ইলম, অর্থাৎ জ্ঞান, বসেছে মা’লূম, অর্থাৎ জানা ব্যক্তির জায়গায়।"
+          },
+          {
+            "en": "Al-Qurtubi follows the same line through Ibn 'Abbas (RA): it means Qurayza, an-Nadir and the Children of Israel of the Prophet's ﷺ time, who believed in him and awaited his coming, then envied him once he came. For al-Qurtubi the knowledge is the Qur'an, and Muhammad ﷺ, and he credits the reading of al-'ilm as al-ma'lum to at-Tabari. Al-Baghawi gives both forms: the Qur'an with the clear proof that he is a true messenger, or, under it was said, the one they knew, Muhammad ﷺ. He explains the grammar with 31:11, hadha khalqu Allah, where creating means what is created.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর সূত্রে একই পথে চলেন। তাঁর বর্ণনায়, এর দ্বারা বোঝানো হয়েছে কুরাইযা, নাযীর আর নবী ﷺ-এর যুগের বানী ইসরাঈলকে। তারা তাঁর প্রতি বিশ্বাস রাখত, তাঁর আগমনের অপেক্ষায় থাকত, কিন্তু তিনি আসার পর তাঁকে হিংসা করল। কুরতুবীর মতে জ্ঞান মানে কুরআন এবং মুহাম্মাদ ﷺ। ইলমকে মা’লূম অর্থে পড়ার কথাটা তিনি তাবারীর নামে উল্লেখ করেন। বাগাভী দুটো রূপই দেন। হয় কুরআন, সঙ্গে এই স্পষ্ট প্রমাণ যে তিনি সত্য রাসূল। নয়তো, 'বলা হয়' বলে, যাঁকে তারা চিনত সেই মুহাম্মাদ ﷺ। ব্যাকরণটা তিনি বোঝান ৩১:১১ আয়াত দিয়ে: হাযা খালকুল্লাহ। সেখানে খালক, অর্থাৎ সৃষ্টি করা, মানে সৃষ্ট বস্তু।"
+          },
+          {
+            "en": "A second reading makes the knowledge the scripture itself. At-Tabari reports that some took al-'ilm here to be the Book of Allah and His revelation, and gives Ibn Zayd's words: the Book of Allah which He sent down, and the command He gave them. The Muyassar holds the two together: the knowledge that required them to stay united, including what the Torah contained of news of Muhammad's ﷺ prophethood. Ibn Kathir reads it widely: they differed in no matter except after the knowledge came, and had no business differing, since Allah had made it clear to them and removed the confusion.",
+            "bn": "আরেকটি ব্যাখ্যায় জ্ঞান মানে খোদ কিতাব। তাবারী জানান, কেউ কেউ এখানে ইলম বলতে বুঝেছেন আল্লাহর কিতাব ও তাঁর ওহী। এ প্রসঙ্গে তিনি ইবন যায়দের কথা আনেন: আল্লাহর নাযিল করা কিতাব, আর তাদের প্রতি তাঁর দেওয়া হুকুম। মুয়াসসার দুটি ব্যাখ্যাকে একসঙ্গে ধরে। তার ভাষায়, সেই জ্ঞান, যা তাদের ঐক্যবদ্ধ থাকা জরুরি করে দিয়েছিল, আর তার মধ্যে আছে তাওরাতে থাকা মুহাম্মাদ ﷺ-এর নবুওয়াতের খবরও। ইবন কাসীর অর্থটা ব্যাপক রাখেন। জ্ঞান আসার পরেই তারা নানা বিষয়ে মতভেদ করেছে, অথচ মতভেদ করার কোনো অধিকার তাদের ছিল না। আল্লাহ তো তাদের কাছে সব স্পষ্ট করে দিয়েছিলেন, সংশয় দূর করে দিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rivalry Dressed as Being Right",
+          "bn": "সঠিক হওয়ার পোশাকে বাড়াবাড়ি"
+        },
+        "p": [
+          {
+            "en": "Whichever reading is taken, the sentence has the same shape: the thing that should have ended disagreement became its occasion. As-Sa'di says so outright. They did not differ in the truth until the knowledge came that called for their unity and harmony; but some of them transgressed against others, and many came to have desires and aims contrary to the truth, and so a great deal of difference arose among them. On this reading the fault was never in the knowledge. It lay in what people did with it once they had it.",
+            "bn": "যে ব্যাখ্যাই নেওয়া হোক, বাক্যের গড়ন একই থাকে: যে জিনিসের কাজ ছিল মতভেদ মিটিয়ে দেওয়া, সেটাই হয়ে গেল মতভেদের উপলক্ষ। সা’দী কথাটা খোলাখুলি বলেন। সত্যের ব্যাপারে তারা মতভেদ করেনি, যতক্ষণ না সেই জ্ঞান এল, যা তাদের ঐক্য ও সম্প্রীতির দাবি রাখত। কিন্তু তাদের একদল আরেকদলের উপর বাড়াবাড়ি করল। অনেকের মধ্যে জন্ম নিল এমন খেয়ালখুশি আর স্বার্থ, যা সত্যের বিপরীত। ফলে তাদের মধ্যে মতভেদ হল প্রচুর। এ ব্যাখ্যায় দোষ কখনো জ্ঞানের ছিল না। দোষ ছিল জ্ঞান হাতে পাওয়ার পর মানুষ তা দিয়ে যা করল তাতে।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari's report, asks of the factions of desire whether they ever fought over anything but baghy, transgression, and names its two kinds. One is rivalry over the world, and fighting over it. The other is baghy in knowledge: a man sees the other as ignorant and mistaken, sees himself as right and learned, and then lords it over the mistaken one with his rightness and his learning. At-Tabari's editor notes that the words baghyan baynahum, which stood after the verse in the printed edition and the manuscript, are not part of it but of sister verses, 3:19, 42:14 and 45:17, so he removed them.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ খেয়ালখুশির দলগুলো সম্পর্কে প্রশ্ন তোলেন: বাগয়, অর্থাৎ বাড়াবাড়ি ছাড়া আর কী নিয়ে তারা কখনো লড়েছে? তারপর তিনি এর দুই ধরন বলেন। একটি দুনিয়া নিয়ে রেষারেষি, আর তা নিয়ে লড়াই। অন্যটি জ্ঞানের বাড়াবাড়ি। একজন মানুষ অন্যজনকে মনে করে অজ্ঞ ও ভুল, নিজেকে মনে করে সঠিক ও জ্ঞানী। তারপর নিজের সঠিকতা আর জ্ঞান নিয়ে সে ভুল মানুষটির উপর চড়াও হয়। তাবারীর সম্পাদক জানান, ছাপা সংস্করণ আর পাণ্ডুলিপি দুটোতেই আয়াতের পরে বাগয়ান বাইনাহুম কথাটি ছিল। কিন্তু এটি আসলে এর সমগোত্রীয় আয়াত ৩:১৯, ৪২:১৪ ও ৪৫:১৭-এর অংশ, তাই তিনি তা বাদ দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Narration of the Splits",
+          "bn": "ভাগ হয়ে যাওয়ার হাদীস"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings a narration under this verse: the Jews and the Christians divided into sects, and this umma will divide into seventy-three. He gives a fuller wording, which he says al-Hakim recorded in his Mustadrak and which is found in the Sunan and Musnad collections. That wording was not checked against the Mustadrak here, so it is not quoted. At-Tirmidhi's version, from Abu Hurayra (RA), was confirmed, and it reads in full: The Jews split into seventy-one sects, or seventy-two sects, and the Christians similarly, and my Ummah will split into seventy-three sects.",
+            "bn": "এ আয়াতের আলোচনায় ইবন কাসীর একটি বর্ণনা আনেন: ইহুদি ও খ্রিস্টানরা নানা দলে ভাগ হয়েছে, আর এই উম্মাহ ভাগ হবে তিয়াত্তর দলে। তিনি এর একটি দীর্ঘতর ভাষ্য দেন, এবং বলেন হাকিম তা তাঁর মুসতাদরাকে বর্ণনা করেছেন, আর তা সুনান ও মুসনাদ গ্রন্থগুলোতেও আছে। সেই ভাষ্য এখানে মুসতাদরাকের সঙ্গে মিলিয়ে দেখা হয়নি, তাই তা উদ্ধৃত করা হচ্ছে না। তিরমিযীর বর্ণনাটি, আবু হুরায়রা (রাঃ) থেকে, যাচাই করা হয়েছে। পুরোটা এরকম: ইহুদিরা একাত্তর দলে, কিংবা বাহাত্তর দলে ভাগ হয়েছে, খ্রিস্টানরাও তেমনই। আর আমার উম্মাহ ভাগ হবে তিয়াত্তর দলে।"
+          },
+          {
+            "en": "At-Tirmidhi records it as Hadith 2640 and grades it himself: the hadith of Abu Hurayra is hasan sahih. It is a general narration. No tafsir read here reports it as the occasion of this verse; joining the two is Ibn Kathir's reading. What the narration does is plain. The Prophet ﷺ sets his own umma in the same line as those before it, in the very thing this verse names: splitting. It names none of the seventy-three, and it gives no reader leave to sort the people around him into them. Its weight falls on the one who hears it.",
+            "bn": "তিরমিযী এটি ২৬৪০ নম্বর হাদীস হিসেবে বর্ণনা করেছেন এবং নিজেই মান নির্ধারণ করেছেন: আবু হুরায়রার হাদীসটি হাসান সহীহ। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে বাঁধা নয়। এখানে পড়া কোনো তাফসীর একে এ আয়াতের নাযিলের উপলক্ষ বলে না। এ দুটিকে জোড়া লাগানো ইবন কাসীরের নিজের পাঠ। বর্ণনাটির কাজ পরিষ্কার। নবী ﷺ নিজের উম্মাহকে আগের লোকদের সঙ্গে একই সারিতে দাঁড় করান, ঠিক সেই বিষয়ে, যার কথা এ আয়াত বলে: ভাগ হয়ে যাওয়া। তিয়াত্তরটির কোনোটির নাম এতে নেই। চারপাশের মানুষদের সেগুলোর মধ্যে ভাগ করে বসানোর অনুমতিও এটি কোনো পাঠককে দেয় না। এর ভার পড়ে যে শোনে তারই উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verdict Kept for the Day",
+          "bn": "রায় তোলা রইল কিয়ামতের জন্য"
+        },
+        "p": [
+          {
+            "en": "The verse closes: inna rabbaka yaqdi baynahum yawma al-qiyamati fima kanu fihi yakhtalifun, your Lord will judge between them on the Day of Resurrection in what they used to differ over. At-Tabari reads it as said to the Prophet ﷺ: your Lord will judge between those of the Children of Israel who differed about you. Al-Qurtubi keeps it general: He will rule and decide between them, rewarding the obedient and punishing the disobedient. As-Sa'di says He judges with the wisdom of justice that springs from His complete knowledge and all-embracing power. Ibn Kathir glosses yaqdi simply as He will separate them.",
+            "bn": "আয়াতের শেষ কথা: ইন্না রাব্বাকা ইয়াকদী বাইনাহুম ইয়াওমাল কিয়ামাতি ফীমা কানূ ফীহি ইয়াখতালিফূন, যে বিষয়ে তারা মতভেদ করত, কিয়ামতের দিন তোমার রব সে বিষয়ে তাদের মধ্যে ফয়সালা করবেন। তাবারী একে নবী ﷺ-এর প্রতি বলা কথা হিসেবে পড়েন: বানী ইসরাঈলের যারা তোমাকে নিয়ে মতভেদ করেছে, তোমার রব তাদের মধ্যে ফয়সালা করবেন। কুরতুবী অর্থটা সাধারণ রাখেন: তিনি তাদের মধ্যে বিচার ও মীমাংসা করবেন, অনুগতকে প্রতিদান দেবেন, অবাধ্যকে শাস্তি দেবেন। সা’দী বলেন, তিনি ফয়সালা করবেন ন্যায়ের প্রজ্ঞা দিয়ে, যার উৎস তাঁর পূর্ণ জ্ঞান আর সর্বব্যাপী ক্ষমতা। ইবন কাসীর ইয়াকদীর অর্থ করেন সংক্ষেপে: তিনি তাদের আলাদা করে দেবেন।"
+          },
+          {
+            "en": "This must be said plainly. The verse describes the Children of Israel of a past age, and in at-Tabari's and al-Qurtubi's reading those of the Prophet's ﷺ own time, and it reserves the verdict on their difference to Allah. It licenses nothing against any living person or community, Jews today included. No reader may take it as leave to insult, suspect or harm anyone, and no reader inherits the judgment it holds back. The verse names the Judge and names the Day. Whoever passes that sentence now, on someone else, has taken a seat the verse left empty.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীত যুগের বানী ইসরাঈলের বর্ণনা দেয়, আর তাবারী ও কুরতুবীর পাঠে নবী ﷺ-এর নিজের যুগের বানী ইসরাঈলেরও। তাদের মতভেদের রায় আয়াতটি আল্লাহর জন্য তুলে রাখে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, আজকের ইহুদিদের বিরুদ্ধেও, এ আয়াত কোনো অনুমতি দেয় না। কাউকে অপমান করা, সন্দেহ করা বা ক্ষতি করার ছাড়পত্র হিসেবে কোনো পাঠক একে নিতে পারেন না। আয়াত যে রায় তুলে রেখেছে, তার উত্তরাধিকারও কেউ পান না। বিচারক কে আর দিনটা কবে, আয়াত দুটোই বলে দিয়েছে। আজ অন্য কারও উপর সেই রায় যে শোনায়, সে বসে পড়েছে এমন আসনে, যা আয়াত খালি রেখে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Illness of the True Religion",
+          "bn": "সঠিক দ্বীনের অনুসারীদের রোগ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di is the commentator who turns the verse round to face its reader. This, he writes, is the disease that befalls the people of the true religion. When Satan cannot get them to obey him in leaving the religion altogether, he works to stir them against one another and to cast enmity and hatred between them. Then comes the difference that follows from that, then their calling one another misguided, then their enmity towards one another, and that, as-Sa'di says, is the delight of the accursed one's eye.",
+            "bn": "সা’দীই সেই তাফসীরকার, যিনি আয়াতটিকে ঘুরিয়ে পাঠকের মুখোমুখি দাঁড় করান। তিনি লেখেন, সঠিক দ্বীনের অনুসারীদের যে রোগ ধরে, এ সেটাই। দ্বীন পুরোপুরি ছেড়ে দেওয়ার ব্যাপারে শয়তান যখন তাদের দিয়ে নিজের কথা মানাতে পারে না, তখন সে লেগে যায় তাদের একজনকে আরেকজনের বিরুদ্ধে উসকে দিতে, তাদের মধ্যে শত্রুতা আর বিদ্বেষ ঢুকিয়ে দিতে। তারপর আসে তার অনিবার্য ফল, মতভেদ। এরপর একে অপরকে পথভ্রষ্ট বলা, একে অপরের সঙ্গে শত্রুতা। সা’দী বলেন, ঠিক এটাই অভিশপ্তের চোখ জুড়ানোর জিনিস।"
+          },
+          {
+            "en": "His question is the one the verse leaves behind. If their Lord is one, their Messenger one and their religion one, and their common interests agree, then over what do they differ in a way that scatters them, breaks their bond and undoes their order, costing them what it costs of their religious and worldly interests, and letting what dies of their religion die? As-Sa'di ends by asking Allah for gentleness towards His believing servants: to gather what is scattered among them, mend what is cracked, and bring the far back to the near.",
+            "bn": "তাঁর প্রশ্নটাই সেই প্রশ্ন, যা আয়াত রেখে যায়। তাদের রব যখন একজন, রাসূল একজন, দ্বীন একটি, আর তাদের সবার সাধারণ স্বার্থও এক, তখন কী নিয়ে তারা এমন মতভেদ করে, যা তাদের ছত্রভঙ্গ করে দেয়, বন্ধন ছিঁড়ে দেয়, শৃঙ্খলা ভেঙে দেয়? তাতে তাদের দ্বীনি ও দুনিয়াবি স্বার্থের যা হারানোর তা হারায়, দ্বীনের যা মরার তা মরে যায়। সা’দী শেষ করেন আল্লাহর কাছে দু‘আ করে, যেন তিনি তাঁর মু’মিন বান্দাদের প্রতি কোমল হন। যেন তাদের বিচ্ছিন্নতা জোড়া লাগান, ফাটল মেরামত করেন, আর দূরে সরে যাওয়াদের কাছের মানুষদের কাছে ফিরিয়ে আনেন।"
+          },
+          {
+            "en": "So the verse is not read here as a story about other people. Its warning concerns what can happen to any community once knowledge has come: knowledge given to bind people together becomes the ground for contempt between them. In which argument did what I learned make me harder rather than humbler? Whom have I quietly filed among the mistaken, and stopped speaking to as a brother? And which dispute in my own circle am I trying to close now, when the verse says only Allah will close it on the Day?",
+            "bn": "তাই এখানে আয়াতটিকে অন্যদের কাহিনি হিসেবে পড়া হচ্ছে না। এর সতর্কবাণী যে কোনো সম্প্রদায়ের জন্য, জ্ঞান আসার পর যাদের মধ্যে এমনটা ঘটতে পারে। যে জ্ঞান এসেছিল মানুষকে বেঁধে রাখতে, সেটাই হয়ে ওঠে পরস্পরকে তুচ্ছ করার কারণ। কোন তর্কে আমার শেখা জিনিস আমাকে বিনয়ী না করে কঠিন করে তুলেছে? কাকে আমি চুপচাপ ভুল লোকদের খাতায় তুলে দিয়েছি, আর তার সঙ্গে ভাইয়ের মতো কথা বলা বন্ধ করেছি? আর নিজের মহলের কোন বিবাদ আমি এখনই মিটিয়ে ফেলতে চাইছি, অথচ আয়াত বলছে কিয়ামতের দিন তা মেটাবেন কেবল আল্লাহ?"
+          }
+        ]
+      }
+    ]
+  },
   "10:99": {
     "sections": [
       {
