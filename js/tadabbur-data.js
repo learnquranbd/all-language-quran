@@ -22091,6 +22091,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet clear truth with a hearing, not a closed hand: whole nations were forgotten, but how they answered their messengers is what the Qur'an kept.",
     "lessonBn": "স্পষ্ট সত্যের সামনে মুখে হাত চাপা না দিয়ে মন দিয়ে শুনুন। গোটা গোটা জাতি হারিয়ে গেছে, কিন্তু রাসূলদের তারা কী জবাব দিয়েছিল, কুরআন সেটাই ধরে রেখেছে।"
+  },
+  "13:43": {
+    "reflectionEn": "The surah ends on an accusation: you are not a messenger. The reply is not a speech, a miracle on demand or an insult thrown back. It is one sentence given to the Prophet ﷺ to say: Allah is enough as a witness between me and you, and whoever has knowledge of the Book. He does not need the crowd's verdict, because the One who sent him has seen everything and will judge between them. My life is far smaller than that scene, yet its shape is familiar. When something I said in good faith is dismissed, do I wear myself out chasing approval? Or do I say what is true, leave the record with Allah, and keep going?",
+    "reflectionBn": "সূরাটি শেষ হচ্ছে এক অভিযোগ দিয়ে: তুমি রাসূল নও। জবাবে কোনো লম্বা বক্তৃতা নেই, ফরমায়েশি মুজিযা নেই, পাল্টা গালিও নেই। নবী ﷺ-কে বলার জন্য দেওয়া হলো একটিমাত্র বাক্য: আমার আর তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট, আর যার কাছে কিতাবের জ্ঞান আছে সে-ও। ভিড়ের রায়ের দরকার তাঁর নেই। যিনি তাঁকে পাঠিয়েছেন, তিনি সবই দেখেছেন, ফয়সালাও তিনিই করবেন। আমার জীবন সে দৃশ্যের তুলনায় অনেক ছোট, তবু চেহারাটা চেনা লাগে। সরল মনে বলা আমার কোনো কথা যখন কেউ উড়িয়ে দেয়, আমি কি সবার মন জোগাতে গিয়ে নিজেকে ক্লান্ত করে ফেলি? নাকি সত্যটা বলে হিসাবের খাতা আল্লাহর হাতে ছেড়ে দিয়ে নিজের পথে চলতে থাকি?",
+    "pointsEn": [
+      "When someone dismisses what I know to be true, is my first move to argue louder, or to remind my heart that Allah has already seen it?",
+      "Whose approval am I still waiting for before I will feel that my work counts?",
+      "On a question I do not know well, do I go to people who actually know it, or to whoever is loudest?",
+      "If Allah alone saw my effort this week, would that witness be enough for me?",
+      "When my word is doubted, can I answer in a single calm sentence, without mockery, and then return to the work?"
+    ],
+    "pointsBn": [
+      "যে কথাটা সত্য বলে আমি জানি, কেউ তা উড়িয়ে দিলে আমার প্রথম কাজ কী হয়: আরও জোরে তর্ক করা, নাকি নিজের মনকে মনে করিয়ে দেওয়া যে আল্লাহ তা দেখেছেন?",
+      "নিজের কাজকে মূল্যবান ভাবার আগে আমি এখনো কার স্বীকৃতির অপেক্ষায় বসে আছি?",
+      "যে বিষয় আমি ভালো জানি না, সে ব্যাপারে আমি কি সত্যিকারের জানা মানুষের কাছে যাই, নাকি যার গলা সবচেয়ে উঁচু তার কাছে?",
+      "এ সপ্তাহে আমার চেষ্টা যদি শুধু আল্লাহই দেখে থাকেন, সে সাক্ষী কি আমার জন্য যথেষ্ট হবে?",
+      "আমার কথায় কেউ সন্দেহ করলে আমি কি ঠাট্টা ছাড়া শান্ত এক বাক্যে জবাব দিয়ে আবার কাজে ফিরে যেতে পারি?"
+    ],
+    "lessonEn": "When your truthful word is denied, let Allah's witness be enough for you, and stay steady in the work you were given to do.",
+    "lessonBn": "আপনার সত্য কথা কেউ অস্বীকার করলে আল্লাহর সাক্ষ্যকেই যথেষ্ট মনে করুন, আর যে কাজের দায়িত্ব পেয়েছেন তাতে অবিচল থাকুন।"
   }
 };
 

@@ -1638,5 +1638,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "13:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Surah's Closing Charge",
+          "bn": "সূরার শেষ অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "Ar-Ra'd closes on a sentence of denial: wa yaqulu alladhina kafaru lasta mursalan, and those who disbelieve say, you are not sent as a messenger. The surah has already recorded their demand twice, in 13:7 and again in 13:27: why has no sign been sent down to him from his Lord? Now the demand hardens into a verdict. At-Tabari reads the words as their calling him a liar and rejecting his prophethood, and through Qatada he names the speakers as the polytheists of Quraysh.",
+            "bn": "সূরা রা'দ শেষ হচ্ছে অস্বীকারের এক বাক্য দিয়ে: ওয়া ইয়াকূলুল্লাযীনা কাফারূ লাসতা মুরসালা, আর কাফিররা বলে, তুমি প্রেরিত নও। তাদের দাবি সূরাটি আগেই দুবার তুলে ধরেছে, ১৩:৭ আয়াতে, আবার ১৩:২৭ আয়াতে: তাঁর রবের কাছ থেকে তাঁর উপর কোনো নিদর্শন নাযিল হয় না কেন? এবার সেই দাবি জমে গিয়ে রায় হয়ে দাঁড়াল। তাবারীর ব্যাখ্যায় কথাটা ছিল তাঁকে মিথ্যাবাদী বলা আর তাঁর নবুওয়াত অস্বীকার করা। কাতাদার সূত্রে তিনি বক্তাদের পরিচয়ও দেন: কুরাইশের মুশরিকরা।"
+          },
+          {
+            "en": "Al-Qurtubi fills in what the charge meant: you are neither a prophet nor a messenger, you are only making it up. He also gives the reason they said it: he had not brought them what they had proposed. Then the answer is placed in the mouth of the Prophet ﷺ with qul, say. It offers no new sign and no debate about the old ones. It names a witness, and with that the surah ends. Ibn Kathir and as-Sa'di both mark this verse as the end of their commentary on ar-Ra'd.",
+            "bn": "অভিযোগের অর্থ কুরতুবী খুলে বলেন। তাদের কথা ছিল: তুমি নবীও নও, রাসূলও নও, তুমি কেবল নিজে বানিয়ে বলছ। কেন বলল, সেটাও তিনি জানান: তারা যা যা দাবি করেছিল, তিনি তা এনে দেননি। এরপর জবাবটা তুলে দেওয়া হলো নবী ﷺ-এর মুখে, কুল শব্দ দিয়ে: বলো। নতুন কোনো নিদর্শন নেই, পুরোনোগুলো নিয়ে তর্কও নেই। জবাবে শুধু একজন সাক্ষীর নাম, আর সেখানেই সূরার সমাপ্তি। ইবন কাসীর ও সা'দী দুজনেই এ আয়াতে এসে সূরা রা'দের তাফসীর শেষ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witness Over Both Parties",
+          "bn": "দুই পক্ষের উপরই সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Qul kafa bi-llahi shahidan bayni wa baynakum: say, Allah is enough as a witness between me and you. At-Tabari glosses kafa bi-llahi as hasbiya Allah, Allah is sufficient for me, and shahidan as a witness, and he spells out between me and you as over me and over you: to my truthfulness and to your lying. Al-Qurtubi gives the same pair in the same words. The Muyassar's paraphrase keeps it too: say to them, Allah is enough as witness to my truth and your falsehood.",
+            "bn": "কুল কাফা বিল্লাহি শাহীদাম বাইনী ওয়া বাইনাকুম: বলো, আমার আর তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট। তাবারী কাফা বিল্লাহ-র অর্থ করেন হাসবিয়াল্লাহ, আমার জন্য আল্লাহই যথেষ্ট। শাহীদ মানে সাক্ষী। আর 'আমার ও তোমাদের মাঝে' কথাটা তিনি ভেঙে বলেন: আমার উপরও, তোমাদের উপরও। আমি যে সত্য বলছি, আর তোমরা যে মিথ্যা বলছ, দুটোরই সাক্ষী তিনি। কুরতুবী হুবহু এই জোড়াটাই দেন। মুয়াসসারের সরল ভাষ্যেও একই কথা: তাদের বলো, আমার সত্যতা আর তোমাদের মিথ্যার সাক্ষী হিসেবে আল্লাহই যথেষ্ট।"
+          },
+          {
+            "en": "Ibn Kathir divides the testimony in two. Allah is witness over me, he has the Prophet ﷺ say, in the message I conveyed from Him, and witness over you who deny, in the slander you invent. Al-Baghawi names what is being witnessed: that I am His messenger to you. Read this way, the sentence is not a plea for the listeners' agreement. It takes the case out of their hands and places it before a Judge who already holds the evidence on both sides.",
+            "bn": "ইবন কাসীর সাক্ষ্যটাকে দুই ভাগে ভাগ করেন। তাঁর ব্যাখ্যায় নবী ﷺ বলছেন: আল্লাহ আমার উপর সাক্ষী, তাঁর কাছ থেকে যে বার্তা আমি পৌঁছে দিয়েছি সে ব্যাপারে। আর হে অস্বীকারকারীরা, তোমাদের উপরও তিনি সাক্ষী, তোমরা যে অপবাদ রটাচ্ছ সে ব্যাপারে। বাগাভী বলে দেন সাক্ষ্যের বিষয়টা কী: আমি তোমাদের কাছে তাঁর রাসূল। এভাবে পড়লে বাক্যটা শ্রোতাদের সম্মতি চাওয়ার আবেদন থাকে না। মামলাটা তাদের হাত থেকে তুলে নিয়ে এমন এক বিচারকের সামনে রাখা হলো, দুই পক্ষের সব প্রমাণ যাঁর কাছে আগে থেকেই আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Word, Deed and Leaving It Stand",
+          "bn": "কথা, কাজ আর মেনে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the command as an answer to a challenge: say this to them if they ask for a witness to your claim. Then he explains how Allah bears that witness, in three ways: by His word, by His act, and by His iqrar, His letting the claim stand. His word is what He revealed to the most truthful of His creation, by which the message is established. His act is the support and victory He gave His Messenger, beyond the power of the Messenger, his companions and his followers; as-Sa'di calls this testimony by deed.",
+            "bn": "সা'দী আদেশটাকে দেখেন এক চ্যালেঞ্জের জবাব হিসেবে: তারা যদি তোমার দাবির পক্ষে সাক্ষী চায়, তাদের এ কথা বলো। তারপর তিনি দেখান, আল্লাহ এ সাক্ষ্য দেন তিনটি উপায়ে: কথায়, কাজে আর ইকরারে, অর্থাৎ দাবিটাকে টিকে থাকতে দিয়ে। কথার সাক্ষ্য হলো সেই ওহি, যা তিনি তাঁর সৃষ্টির সবচেয়ে সত্যবাদী মানুষটির কাছে পাঠিয়েছেন, আর যা দিয়ে রিসালাত প্রমাণিত হয়। কাজের সাক্ষ্য হলো রাসূলকে দেওয়া তাঁর সাহায্য ও বিজয়। সে বিজয় রাসূল, তাঁর সাহাবি ও অনুসারীদের সাধ্যের বাইরে ছিল। সা'দী একে বলেন কাজের মাধ্যমে দেওয়া সাক্ষ্য।"
+          },
+          {
+            "en": "The third way is the subtlest. The Messenger told people, as from Allah, that he was His messenger and that they were commanded to follow him, with Allah's pleasure and honour for whoever did and His anger and the Fire for whoever did not, and Allah let that stand. Had he fabricated some sayings against Him, as-Sa'di reasons, Allah would have hastened punishment upon him. On this reading, Allah's leaving a claim of that size unpunished is itself part of the testimony the verse invokes.",
+            "bn": "তৃতীয় পথটা সবচেয়ে সূক্ষ্ম। রাসূল আল্লাহর পক্ষ থেকে মানুষকে জানিয়েছেন যে তিনি তাঁর রাসূল, মানুষকে তাঁর অনুসরণের আদেশ দেওয়া হয়েছে। যে অনুসরণ করবে তার জন্য আল্লাহর সন্তুষ্টি ও সম্মান, যে করবে না তার জন্য তাঁর ক্রোধ ও জাহান্নাম। আর আল্লাহ সে কথা টিকে থাকতে দিয়েছেন। সা'দীর যুক্তি: তিনি যদি আল্লাহর নামে কিছু কথা বানিয়ে বলতেন, আল্লাহ দ্রুত তাঁকে শাস্তি দিতেন। এ ব্যাখ্যায় এত বড় একটা দাবিকে শাস্তি ছাড়া টিকে থাকতে দেওয়াটাই আয়াতে উল্লিখিত সাক্ষ্যের একটা অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holders of the Earlier Books",
+          "bn": "আগের কিতাবের ধারকেরা"
+        },
+        "p": [
+          {
+            "en": "Then wa man 'indahu 'ilmu l-kitab: and whoever has knowledge of the Book. At-Tabari explains the grammar of this reading, the reading of the great cities. Man, whoever, stands in the genitive, joined to the name of Allah, so the sentence runs: Allah is enough as witness, and so are those who have knowledge of the Book. The Book here, he says, means the scriptures revealed before the Qur'an, such as the Torah and the Injil, and it was on this reading that the commentators explained the verse.",
+            "bn": "এরপর ওয়া মান ইন্দাহূ ইলমুল কিতাব: আর যার কাছে কিতাবের জ্ঞান আছে। এটি বড় বড় শহরের কারীদের কিরাআত, আর তাবারী এর ব্যাকরণ বুঝিয়ে দেন। মান, অর্থাৎ যে, শব্দটি এখানে যেরযুক্ত অবস্থায়, আল্লাহর নামের সঙ্গে যুক্ত। ফলে বাক্যটা দাঁড়ায়: সাক্ষী হিসেবে আল্লাহ যথেষ্ট, আর যাদের কাছে কিতাবের জ্ঞান আছে তারাও। তাবারী বলেন, কিতাব এখানে কুরআনের আগে নাযিল হওয়া কিতাবগুলো, যেমন তাওরাত ও ইঞ্জীল। মুফাসসিররা আয়াতের ব্যাখ্যা করেছেন এই কিরাআত ধরেই।"
+          },
+          {
+            "en": "Within that reading the names differ. From Ibn 'Abbas, through al-'Awfi's chain, at-Tabari gives: they are the People of the Book, from the Jews and the Christians. From Qatada he gives two forms. In one, they are people of the Book who bore witness to the truth, affirmed it and knew that Muhammad ﷺ was Allah's messenger, among them, it is reported, 'Abd Allah ibn Salam. In the other, they included 'Abd Allah ibn Salam, Salman al-Farisi and Tamim ad-Dari. Abu Salih, he adds, said a man of humankind, without naming him.",
+            "bn": "এই কিরাআতের ভেতরেও নাম নিয়ে ভিন্নতা আছে। আওফীর সনদে ইবন আব্বাস (রাঃ) থেকে তাবারী আনেন: তারা আহলে কিতাব, ইহুদি ও খ্রিস্টানদের মধ্য থেকে। কাতাদা থেকে তিনি দুই রকম বর্ণনা দেন। এক বর্ণনায় তারা আহলে কিতাবের সেই লোকেরা, যারা সত্যের পক্ষে সাক্ষ্য দিত, তা স্বীকার করত, আর জানত যে মুহাম্মাদ ﷺ আল্লাহর রাসূল। বলা হয়, তাদের মধ্যে ছিলেন আবদুল্লাহ ইবন সালাম (রাঃ)। অন্য বর্ণনায় তাদের মধ্যে ছিলেন আবদুল্লাহ ইবন সালাম, সালমান ফারসী ও তামীম দারী (রাঃ)। তাবারী আরও জানান, আবু সালিহ শুধু বলেছেন: মানুষের মধ্যে একজন, নাম বলেননি।"
+          },
+          {
+            "en": "Al-Qurtubi adds the Negus and his companions to that list, from Qatada and Sa'id ibn Jubayr, and states the reason for the appeal: the polytheists of the Arabs used to turn to the People of the Book, those of them who had believed, for explanations, so their witness cut off the opponents' claim. As-Sa'di widens it into a rule. Every matter takes its witnesses from the people who know it best, and the People of the Book were the people of this matter, unlike the unlettered polytheists, whose testimony on it would be worth nothing.",
+            "bn": "কুরতুবী কাতাদা ও সাঈদ ইবন জুবাইরের সূত্রে এ তালিকায় যোগ করেন নাজাশী ও তাঁর সঙ্গীদের। এই সাক্ষী ডাকার কারণও তিনি বলেন। আরবের মুশরিকরা ব্যাখ্যার জন্য আহলে কিতাবের কাছে, তাদের মধ্যে যারা ঈমান এনেছিল তাদের কাছে, যেত। তাই তাদের সাক্ষ্য প্রতিপক্ষের কথার মুখ বন্ধ করে দিত। সা'দী একে একটা সাধারণ নিয়মে পরিণত করেন। প্রতিটি বিষয়ের সাক্ষী নিতে হয় সে বিষয় যারা সবচেয়ে ভালো জানে তাদের থেকে। এ বিষয়ের লোক ছিল আহলে কিতাব। আরবের নিরক্ষর মুশরিকরা নয়, এ বিষয়ে তাদের সাক্ষ্যের কোনো মূল্য নেই, কারণ তাদের সে জ্ঞানই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn Salam's Own Account",
+          "bn": "ইবন সালামের নিজের বয়ান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his reports on this verse with 'Abd Allah ibn Salam himself saying, it was revealed about me, and al-Qurtubi cites the fuller account from at-Tirmidhi. Jami' at-Tirmidhi 3256 gives it, in its translator's English, from the nephew of 'Abd Allah ibn Salam: \"When they were after 'Uthman, 'Abdullah bin Salam came, and 'Uthman said to him: 'What did you come for?' He said: 'I came to assist you.' He said: 'Go to the people to repel their advances against me. For verily your going is better to me than your entering here.'\"",
+            "bn": "এ আয়াতে তাবারীর প্রথম বর্ণনাটাই আবদুল্লাহ ইবন সালাম (রাঃ)-এর নিজের কথা: এটি আমার ব্যাপারে নাযিল হয়েছে। কুরতুবী পুরো ঘটনাটা আনেন তিরমিযী থেকে। জামে তিরমিযী ৩২৫৬-এ আবদুল্লাহ ইবন সালামের ভাতিজা থেকে বর্ণিত: \"উসমান (রাঃ)-কে যখন হত্যার চেষ্টা চলছিল, আবদুল্লাহ ইবন সালাম এলেন। উসমান তাঁকে বললেন, কেন এসেছেন? তিনি বললেন, আপনাকে সাহায্য করতে এসেছি। উসমান বললেন, লোকদের কাছে বেরিয়ে যান, ওদের আমার কাছ থেকে হটিয়ে দিন। আপনি ভেতরে থাকার চেয়ে বাইরে থাকাই আমার জন্য বেশি ভালো।\""
+          },
+          {
+            "en": "He said: \"So 'Abdullah bin Salam went to the people and said: 'O you people! During Jahiliyyah I was named so-and-so, then the Messenger of Allah (ﷺ) named me 'Abdullah, and some Ayat from the Book of Allah were revealed about me. (The following) was revealed about me: 'A witness from among the Children of Isra'il has testified to something similar, and believed while you rejected. Verily, Allah does not guide the wrongdoing people. (46:10)' And (the following) was revealed about me: 'Sufficient as a witness between me and you is Allah, and those too who have knowledge of the Scripture. (13:43)'",
+            "bn": "বর্ণনাকারী বলেন: \"আবদুল্লাহ লোকদের কাছে বেরিয়ে এসে বললেন: হে লোকসকল, জাহিলিয়াতে আমার নাম ছিল অমুক। রাসূলুল্লাহ ﷺ আমার নাম রাখলেন আবদুল্লাহ। আল্লাহর কিতাবের কয়েকটি আয়াত আমার ব্যাপারে নাযিল হয়েছে। আমার ব্যাপারে নাযিল হয়েছে: 'বনী ইসরাঈলের একজন সাক্ষী এর অনুরূপ বিষয়ে সাক্ষ্য দিয়ে ঈমান এনেছে, আর তোমরা অহংকার করেছ। নিশ্চয়ই আল্লাহ জালিম সম্প্রদায়কে হিদায়াত দেন না।' (৪৬:১০) আর আমার ব্যাপারে নাযিল হয়েছে: 'বলো, আমার ও তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট, আর যার কাছে কিতাবের জ্ঞান আছে সে-ও।' (১৩:৪৩)"
+          },
+          {
+            "en": "\"Allah has sheathed the sword from you and the angels are your neighbors in this city of yours, the one in which the Revelation came to your Prophet. But by Allah! (Fear) Allah regarding this man; if you kill him, then by Allah! If you kill him, then you will cause the angels to remove your goodness from you, and to raise Allah's sheathed sword against you, such that it will never be sheathed again until the Day of Resurrection.'\" He said: \"They said: 'Kill the Jew and kill 'Uthman.'\" At-Tirmidhi grades it hasan gharib.",
+            "bn": "\"আল্লাহর একটি তলোয়ার তোমাদের থেকে খাপে ঢাকা আছে। আর তোমাদের এই শহরে, যেখানে তোমাদের নবী এসে থেকেছেন, ফেরেশতারা তোমাদের প্রতিবেশী হয়ে আছেন। আল্লাহকে ভয় করো, আল্লাহকে ভয় করো এই মানুষটির ব্যাপারে, তাঁকে হত্যা কোরো না। আল্লাহর কসম, যদি তাঁকে হত্যা করো, তবে নিজেদের প্রতিবেশী ফেরেশতাদের তাড়িয়ে দেবে, আর আল্লাহর খাপে ঢাকা তলোয়ার নিজেদের উপর টেনে বের করবে, যা কিয়ামত পর্যন্ত আর খাপে ঢুকবে না।\" বর্ণনাকারী বলেন: \"তখন তারা বলল, ইহুদিকে হত্যা করো, উসমানকে হত্যা করো।\" তিরমিযী একে হাসান গরীব বলেছেন।"
+          },
+          {
+            "en": "That opening report of at-Tabari runs through the same chain, from 'Abd al-Malik ibn 'Umayr through Ibn Salam's nephew. It did not settle the question for the commentators, who still record the objection taken up next. Its last words belong to the men besieging 'Uthman, and they describe those men alone: the abuse they shouted at Ibn Salam licenses nothing against any people, and the narration sets him on 'Uthman's side.",
+            "bn": "এ আয়াতে তাবারীর প্রথম বর্ণনাটিও একই সনদে এসেছে: আবদুল মালিক ইবন উমাইর থেকে, ইবন সালামের ভাতিজার মাধ্যমে। মুফাসসিরদের কাছে এতেই প্রশ্নের মীমাংসা হয়ে যায়নি। তাই পরের অংশের আপত্তিটা তাঁরা লিখে রেখেছেন। বর্ণনার শেষ কথাগুলো উসমান (রাঃ)-কে ঘেরাও করে রাখা লোকদের। সে কথা শুধু তাদেরই চেহারা দেখায়। ইবন সালামের উদ্দেশে তাদের ছোড়া গালি কোনো জাতির বিরুদ্ধে কিছুরই অনুমতি দেয় না। আর বর্ণনাটি তাঁকে দাঁড় করায় উসমানের পাশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Makkan Verse, Later Convert",
+          "bn": "মক্কী আয়াত, পরে ইসলাম গ্রহণ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports, by two chains from Abu Bishr, that he asked Sa'id ibn Jubayr whether whoever has knowledge of the Book was 'Abd Allah ibn Salam, and Sa'id replied: how, when this surah is Makkan? Al-Baghawi adds that ash-Sha'bi rejected it on the same ground. Ibn Kathir reports the Ibn Salam view from Mujahid and calls it gharib, strange, because the verse is Makkan and Ibn Salam accepted Islam on the Prophet's ﷺ arrival in Madina. Al-Qurtubi, through ath-Tha'labi, transmits the Abu Bishr exchange with the roles reversed.",
+            "bn": "তাবারী আবু বিশরের দুটি সনদে জানান, তিনি সাঈদ ইবন জুবাইরকে জিজ্ঞেস করেছিলেন, যার কাছে কিতাবের জ্ঞান আছে, সে কি আবদুল্লাহ ইবন সালাম? সাঈদ বললেন: তা কী করে হয়, এ সূরা তো মক্কী! বাগাভী জানান, শা'বীও একই কারণে কথাটা মানেননি। ইবন কাসীর মুজাহিদ থেকে ইবন সালামের মতটি এনে একে গরীব, অর্থাৎ অদ্ভুত বলেন। কারণ আয়াতটি মক্কী, আর ইবন সালাম ইসলাম গ্রহণ করেন নবী ﷺ মদীনায় আসার একেবারে শুরুতে। কুরতুবী সা'লাবীর সূত্রে আবু বিশরের এই কথোপকথন আনেন উল্টো চেহারায়: সেখানে প্রশ্নকারী আপত্তি তোলেন, আর সাঈদ নাম বলেন ইবন সালামের।"
+          },
+          {
+            "en": "Others do not treat the objection as decisive. Al-Qurtubi answers that nothing prevents something being revealed about Ibn Salam while its wording takes in all the believers. He finds support in the passage's order: those who disbelieve are Quraysh, so those with knowledge of the Book are the believers among the Jews and Christians, nearer to knowing prophethood and scripture than idol-worshippers. Ibn Kathir takes another route. Man 'indahu, he says, is a generic noun covering the scholars of the People of the Book who find the description of Muhammad ﷺ in their earlier books, and he cites 7:157 and 26:197.",
+            "bn": "সবাই অবশ্য আপত্তিটাকে চূড়ান্ত মনে করেননি। কুরতুবীর জবাব: কোনো আয়াত ইবন সালামের ব্যাপারে নাযিল হলো, আর তার শব্দ সব মুমিনকে শামিল করল, এতে বাধা নেই। আয়াতের বিন্যাসেও তিনি সমর্থন পান। কাফির বলতে এখানে কুরাইশ। তাহলে কিতাবের জ্ঞানওয়ালারা হলেন ইহুদি ও খ্রিস্টানদের মধ্যে যারা ঈমান এনেছেন, মূর্তিপূজারীদের চেয়ে নবুওয়াত ও কিতাব চেনায় যারা বেশি কাছের। ইবন কাসীর ভিন্ন পথ ধরেন। তাঁর মতে মান ইন্দাহূ একটি জাতিবাচক শব্দ। এর মধ্যে পড়েন আহলে কিতাবের সেই আলিমরা, যারা নিজেদের আগের কিতাবে মুহাম্মাদ ﷺ-এর বর্ণনা পান। প্রমাণ হিসেবে তিনি ৭:১৫৭ ও ২৬:১৯৭ আয়াত আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Min in Place of Man",
+          "bn": "মান-এর জায়গায় মিন"
+        },
+        "p": [
+          {
+            "en": "A second dispute concerns the reading itself. At-Tabari reports that a group of early authorities read wa min 'indihi 'ulima l-kitab, from Him the Book was made known, and gives it from Ibn 'Abbas through Sa'id ibn Jubayr, from Mujahid, from al-Hasan and from ad-Dahhak; Sa'id, in the report that carries his objection, read it so. Al-Baghawi gives Ibn 'Abbas's reading as min 'indihi, from Him, and al-Hasan's and Sa'id's with the passive 'ulima, citing 18:65 and 55:2. Al-Qurtubi reports al-Hasan, Mujahid and ad-Dahhak saying the one meant is Allah Himself.",
+            "bn": "দ্বিতীয় মতভেদটা কিরাআত নিয়েই। তাবারী জানান, পূর্বসূরিদের একটি দল পড়তেন ওয়া মিন ইন্দিহী উলিমাল কিতাব, অর্থাৎ তাঁর কাছ থেকেই কিতাবের জ্ঞান দেওয়া হয়েছে। এই পাঠ তিনি আনেন সাঈদ ইবন জুবাইরের মাধ্যমে ইবন আব্বাস (রাঃ) থেকে, আর মুজাহিদ, হাসান বসরী ও দাহহাক থেকে। যে বর্ণনায় সাঈদের আপত্তি আছে, সেখানেই আছে যে তিনি এভাবে পড়তেন। বাগাভী ইবন আব্বাসের পাঠ দেন মিন ইন্দিহী, তাঁর কাছ থেকে। আর হাসান ও সাঈদের পাঠ দেন কর্মবাচ্য উলিমা দিয়ে, সমর্থনে আনেন ১৮:৬৫ ও ৫৫:২ আয়াত। কুরতুবী জানান, হাসান, মুজাহিদ ও দাহহাকের মতে এখানে উদ্দেশ্য স্বয়ং আল্লাহ।"
+          },
+          {
+            "en": "Al-Qurtubi records two more views. Through al-Qushayri he reports one from Ibn 'Abbas, that the one with knowledge of the Book is Jibril (AS). Another holds that it means all the believers. Ibn al-'Arabi accepts this, since every believer knows the Book, perceives its inimitability and bears witness to the truthfulness of the Prophet ﷺ, and al-Qurtubi adds that the Book is then the Qur'an. Mujahid himself appears on more than one side: at-Tabari has him naming Ibn Salam by some chains and saying it is Allah by others.",
+            "bn": "কুরতুবী আরও দুটি মত লিখে রাখেন। কুশাইরীর সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি মত: কিতাবের জ্ঞান যাঁর কাছে, তিনি জিবরীল (আঃ)। আরেক মতে এর অর্থ সব মুমিন। ইবনুল আরাবী এ মতটি মেনে নেন। কারণ প্রত্যেক মুমিন কিতাব জানে, এর অলৌকিকতা বোঝে, আর নবী ﷺ-এর সত্যতার সাক্ষ্য দেয়। কুরতুবী যোগ করেন, তাহলে কিতাব মানে কুরআন। মুজাহিদকে অবশ্য একাধিক পক্ষে পাওয়া যায়। তাবারীর কয়েকটি সনদে তিনি ইবন সালামের নাম বলেন, অন্য কয়েকটিতে বলেন, তিনি আল্লাহ।"
+          },
+          {
+            "en": "At-Tabari mentions a report tracing the min reading to the Prophet ﷺ and judges it without basis among al-Zuhri's reliable students; Ibn Kathir names a weak narrator in it and says it is not established. At-Tabari then prefers the reading of the readers of the Hijaz, Sham and Iraq, wa man 'indahu 'ilmu l-kitab, and the interpretation built on it, since a reading they agree on has the better claim. The preference is his; the views are set out here side by side.",
+            "bn": "তাবারী এমন একটি বর্ণনার কথা বলেন, যা মিন পাঠটিকে নবী ﷺ পর্যন্ত পৌঁছায়। তাঁর রায়: যুহরীর নির্ভরযোগ্য শিষ্যদের কাছে এর কোনো ভিত্তি নেই। ইবন কাসীর এর সনদে একজন দুর্বল বর্ণনাকারীর নাম বলেন, আর বলেন, বর্ণনাটি প্রমাণিত নয়। এরপর তাবারী হিজায, শাম ও ইরাকের কারীদের পাঠ ওয়া মান ইন্দাহূ ইলমুল কিতাব এবং তার ভিত্তিতে দাঁড়ানো ব্যাখ্যাকেই অগ্রাধিকার দেন। কারণ যে পাঠে তাঁরা একমত, সেটাই সঠিক হওয়ার বেশি হকদার। এ পছন্দ তাঁর নিজের। এখানে মতগুলো পাশাপাশি রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough, Whoever Else Refuses",
+          "bn": "আর কেউ না মানলেও যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "The verse calls on People of the Book as witnesses for the Prophet ﷺ; it does not set them up as opponents. Its reproach falls on those who said you are not sent, whom the commentators fetched here identify as the polytheists of Quraysh or of the Arabs. It describes what it describes, in its own setting, and it licenses nothing against any living person or community, Jews and Christians today included.",
+            "bn": "আয়াতটি আহলে কিতাবকে ডাকে নবী ﷺ-এর পক্ষে সাক্ষী হিসেবে, প্রতিপক্ষ হিসেবে দাঁড় করায় না। এর তিরস্কার তাদের উপর, যারা বলেছিল তুমি প্রেরিত নও। এখানে যেসব তাফসীর দেখা হয়েছে, সেগুলোর ভাষায় তারা কুরাইশ বা আরবের মুশরিক। আয়াত যা বর্ণনা করে, নিজের প্রেক্ষাপটে তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, আজকের ইহুদি ও খ্রিস্টানদের বিরুদ্ধেও, এটি কিছুরই অনুমতি দেয় না।"
+          },
+          {
+            "en": "Placed at the end of ar-Ra'd, the sentence completes the instruction of 13:40: upon you is only the conveying, and upon Us is the reckoning. The Prophet ﷺ is not told to win the argument. He is told to name his witness and leave the case with Him. For a reader whose word is doubted, the verse sets out a posture: say what is true, rely on Him who sees it, ask those who actually know, and do not make the listener's verdict the measure of whether the work was worth doing.",
+            "bn": "সূরা রা'দের শেষে বসানো এই বাক্য ১৩:৪০ আয়াতের নির্দেশটাকে পূর্ণ করে: তোমার দায়িত্ব শুধু পৌঁছে দেওয়া, হিসাব নেওয়া আমার কাজ। নবী ﷺ-কে তর্কে জিততে বলা হয়নি। বলা হয়েছে সাক্ষীর নাম বলতে, তারপর মামলা তাঁর হাতে ছেড়ে দিতে। যার কথায় মানুষ সন্দেহ করে, তার জন্য আয়াতটি এক অবস্থান দেখিয়ে দেয়। সত্যটা বলুন। যিনি সব দেখেন, তাঁর উপর ভরসা রাখুন। যারা সত্যিই জানে, তাদের জিজ্ঞেস করুন। আর কাজটা করার মতো ছিল কি না, তা মাপার মানদণ্ড শ্রোতার রায়কে বানাবেন না।"
+          }
+        ]
+      }
+    ]
   }
 });
