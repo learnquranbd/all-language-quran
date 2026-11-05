@@ -21211,6 +21211,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you truly cannot do a good deed, Allah asks only a sincere heart: wish for it, support those who can, never weaken them, and no blame reaches you.",
     "lessonBn": "কোনো নেক কাজ সত্যিই করতে না পারলে আল্লাহ চান শুধু আন্তরিক মন: কাজটার আকাঙ্ক্ষা রাখুন, যারা পারে তাদের পাশে থাকুন, তাদের মনোবল ভাঙবেন না, তাহলে কোনো দোষ আপনাকে ছোঁবে না।"
+  },
+  "9:28": {
+    "reflectionEn": "The verse closes a door that had fed a city. Every season the caravans of the idolaters had brought food and trade to Makkah, and after that year they were not to come near the Sanctuary. The believers' first worry was not doctrine but bread: where will our living come from now? The answer does not mock the fear. It names it and meets it: Allah will enrich you from His bounty, if He wills. And the uncleanness the verse names is, as most commentators read it, one of belief and deeds, not of anyone's body. So the mirror turns inward. What do I keep close only because it pays? Which door am I afraid to shut because I cannot yet see the next one?",
+    "reflectionBn": "এ আয়াত এমন এক দরজা বন্ধ করে দেয়, যে দরজা দিয়ে একটা গোটা শহরের খাবার আসত। প্রতি মৌসুমে মুশরিকদের কাফেলা মক্কায় খাদ্য আর ব্যবসার মাল নিয়ে আসত। সেই বছরের পর তাদের আর হারামের কাছে আসার কথা নয়। মুমিনদের প্রথম দুশ্চিন্তা আকীদা নিয়ে ছিল না, ছিল রুটি নিয়ে: এখন আমাদের রুজি আসবে কোথা থেকে? জবাবটা এই ভয়কে তুচ্ছ করে না। ভয়টার নাম নেয়, তারপর তার উত্তর দেয়: আল্লাহ চাইলে নিজের অনুগ্রহে তোমাদের অভাবমুক্ত করবেন। আর আয়াতে যে অপবিত্রতার কথা, বেশিরভাগ মুফাসসিরের পাঠে তা বিশ্বাস আর আমলের অপবিত্রতা, কারও শরীরের নয়। তাই আয়নাটা ঘুরে যায় নিজের দিকে। কোন জিনিস আমি কাছে রেখেছি শুধু এ জন্য যে তাতে লাভ আছে? কোন দরজা বন্ধ করতে আমি ভয় পাই, কারণ পরের দরজাটা এখনো চোখে পড়ছে না?",
+    "pointsEn": [
+      "When doing what is right threatens my income, is my first question what Allah has commanded, or what it will cost me?",
+      "Which source of livelihood have I treated as the only door, as though Allah's bounty could reach me through nothing else?",
+      "If the uncleanness meant here is one of belief and deeds, what in my own heart and habits needs washing before I look at anyone else?",
+      "Have I ever used a verse about belief to look down on a person, on his body or on his worth as a human being?",
+      "When a door has closed for Allah's sake, have I waited for the one He opens, or hurried to prise the old one open again?"
+    ],
+    "pointsBn": [
+      "ঠিক কাজটা করতে গিয়ে যখন আয়-রোজগারে টান পড়ার ভয় জাগে, তখন আমার প্রথম প্রশ্ন কী হয়: আল্লাহ কী আদেশ করেছেন, নাকি এতে আমার কত খরচ হবে?",
+      "রুজির কোন উৎসটাকে আমি একমাত্র দরজা বানিয়ে ফেলেছি, যেন আল্লাহর অনুগ্রহ আর কোনো পথে আমার কাছে পৌঁছাতে পারে না?",
+      "এখানকার অপবিত্রতা যদি বিশ্বাস আর আমলের হয়, তাহলে অন্যের দিকে তাকানোর আগে আমার নিজের মন আর অভ্যাসের কোন জায়গাটা ধুয়ে পরিষ্কার করা দরকার?",
+      "বিশ্বাস নিয়ে বলা কোনো আয়াত দিয়ে আমি কি কখনো কোনো মানুষকে, তার শরীরকে বা মানুষ হিসেবে তার মর্যাদাকে ছোট করে দেখেছি?",
+      "আল্লাহর জন্য কোনো দরজা বন্ধ হলে আমি কি তাঁর খুলে দেওয়া দরজার অপেক্ষা করেছি, নাকি পুরোনো দরজাটাই আবার জোর করে খুলতে ছুটেছি?"
+    ],
+    "lessonEn": "Obey even when obedience seems to shut a door of provision; Allah's bounty is not confined to one door, and the uncleanness named here is of belief, not of anyone's body.",
+    "lessonBn": "আনুগত্য করতে গিয়ে রুজির কোনো দরজা বন্ধ হয়ে যাচ্ছে মনে হলেও আনুগত্য করুন। আল্লাহর অনুগ্রহ এক দরজায় আটকে থাকে না, আর এখানে যে অপবিত্রতার কথা, তা বিশ্বাসের, কারও শরীরের নয়।"
   }
 };
 

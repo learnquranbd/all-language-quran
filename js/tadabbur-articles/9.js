@@ -899,6 +899,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Charge Laid on the Believers",
+          "bn": "দায়িত্বটা মুমিনদের কাঁধে"
+        },
+        "p": [
+          {
+            "en": "The verse sits inside a sura that opened with a declaration of release from the treaties of the idolaters, and just after the account of Hunayn in 9:25 to 9:27. Ma'arif al-Qur'an reads it as one of the injunctions that follow that declaration: treaties were to be ended or fulfilled within a year, and after it no idolater was to remain in the Haram. It says the verse does two things at once. It points to the wisdom of the ruling, and it eases the worry some Muslims felt about carrying it out.",
+            "bn": "সূরাটি শুরু হয়েছে মুশরিকদের সঙ্গে চুক্তি থেকে সম্পর্কমুক্তির ঘোষণা দিয়ে। আর এ আয়াত এসেছে ৯:২৫ থেকে ৯:২৭ আয়াতে হুনায়নের বিবরণের ঠিক পরে। মাআরিফুল কুরআন একে সেই ঘোষণার পরের বিধানগুলোর একটি হিসেবে পড়ে। চুক্তিগুলো এক বছরের মধ্যে হয় শেষ করতে হবে, নয়তো পূরণ করতে হবে। তারপর হারামের সীমানায় কোনো মুশরিক থাকবে না। মাআরিফের মতে আয়াতটি একসঙ্গে দুটি কাজ করে। বিধানটির পেছনের হিকমত দেখিয়ে দেয়, আবার তা কার্যকর করা নিয়ে কিছু মুসলমানের মনে যে দুশ্চিন্তা ছিল, তাও হালকা করে।"
+          },
+          {
+            "en": "The call goes first to those who believe. At-Tabari restates the opening as a restriction: the idolaters are nothing but najas. Grammatically fa-la yaqrabu forbids the idolaters, and al-Qurtubi notes that the final nun drops because it is a prohibition. Yet at-Tabari turns it towards the believers: do not let them approach the mosque by entering the Haram. The Muyassar does the same: do not enable them to come near the Haram after this ninth year of the Hijrah. The duty falls on those who held the city.",
+            "bn": "ডাকটা প্রথমে আসে ঈমানদারদের কাছে। তাবারী শুরুর বাক্যটিকে সীমাবদ্ধতার ভাষায় আবার বলেন: মুশরিকরা নাজাস ছাড়া আর কিছু নয়। ব্যাকরণের দিক থেকে ফালা ইয়াকরাবূ নিষেধটা মুশরিকদের প্রতি। কুরতুবী লক্ষ করেন, নিষেধবাচক বলেই শেষের নূনটি পড়ে গেছে। তবু তাবারী কথাটা ঘুরিয়ে দেন মুমিনদের দিকে: হারামে ঢুকে তাদের মসজিদের কাছে আসতে দিয়ো না। মুয়াসসারও একই কথা বলে: হিজরতের নবম বছরের পর তাদের হারামের কাছে আসার সুযোগ দিয়ো না। দায়িত্বটা তাই তাদের, শহরটা যাদের হাতে ছিল।"
+          },
+          {
+            "en": "As-Sa'di explains why the order came when it did. The idolaters had once been the kings and chiefs of the House. After the conquest of Makkah, authority passed to the Messenger ﷺ and the believers, while the idolaters still lived at the House and in the city. Then this verse came down, and he reads what followed, the order with the Prophet's ﷺ death to move them out of the Hijaz, as distance kept around al-Masjid al-Haram.",
+            "bn": "আদেশটা ঠিক তখনই কেন এল, সা'দী তা ব্যাখ্যা করেন। একসময় মুশরিকরাই ছিল বাইতুল্লাহর রাজা আর সর্দার। মক্কা বিজয়ের পর কর্তৃত্ব চলে আসে রাসূল ﷺ ও মুমিনদের হাতে, তবু মুশরিকরা তখনো বাইতুল্লাহর পাশে আর মক্কা শহরে বাস করছিল। এরপর নাযিল হয় এ আয়াত। পরে নবী ﷺ-এর ইন্তেকালের সময় তাদের হিজায থেকে সরিয়ে দেওয়ার যে আদেশ এল, সা'দী সেটাকেও পড়েন মাসজিদুল হারামের চারপাশে দূরত্ব রাখার অংশ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word That Will Not Pluralise",
+          "bn": "যে শব্দের বহুবচন নেই"
+        },
+        "p": [
+          {
+            "en": "Najas is a verbal noun, and al-Baghawi and al-Qurtubi both note what follows from that: it stays the same for male and female, for two and for many. One says a man najas, a woman najas, men najas. The form najs, with a kasra on the nun and no vowel on the jim, is used only when paired with rijs; standing alone the word is najas or najis. Al-Baghawi reports ad-Dahhak and Abu 'Ubayda glossing it as filthy, and another view that it means foul. The Muyassar glosses it as rijs and khabath.",
+            "bn": "নাজাস শব্দটি ক্রিয়াবাচক বিশেষ্য, মাসদার। বাগাভী আর কুরতুবী দুজনেই এর ফল দেখান: পুরুষ বা নারী, দুজন বা অনেকজন, সবার বেলায় শব্দটা একই থাকে। বলা হয় নাজাস পুরুষ, নাজাস নারী, নাজাস পুরুষেরা। নূনে যের আর জীমে সাকিন দিয়ে নাজ্স রূপটা কেবল রিজ্স শব্দের সঙ্গে জোড়া বাঁধলেই বলা হয়। একা এলে শব্দটা নাজাস বা নাজিস। বাগাভী দাহহাক ও আবু উবায়দা থেকে এর অর্থ বর্ণনা করেন নোংরা, আর আরেকটি মতে খবীস, অর্থাৎ কদর্য। মুয়াসসার এর ব্যাখ্যা দেয় রিজ্স ও খাবাস শব্দ দিয়ে।"
+          },
+          {
+            "en": "Al-Baghawi then draws the line the rest of this article turns on. By najas, he writes, Allah meant an impurity of legal status, not of the substance; they were called najas by way of censure. Ma'arif al-Qur'an reaches wider. Citing ar-Raghib al-Isfahani, it counts three kinds: impurity the senses perceive, the legal impurity of janaba that requires a bath, and the impurity of false belief and bad character in the heart. It finds all three among the idolaters addressed here, and leaves the question of whether a disbeliever's body is impure to the books of fiqh.",
+            "bn": "এরপর বাগাভী এমন একটা সীমারেখা টানেন, যার উপর এই লেখার বাকিটা দাঁড়িয়ে আছে। তিনি লেখেন, নাজাস বলে আল্লাহ বুঝিয়েছেন হুকুমগত অপবিত্রতা, বস্তুর নিজের অপবিত্রতা নয়। নিন্দা হিসেবেই তাদের নাজাস বলা হয়েছে। মাআরিফুল কুরআন আরও বড় পরিসরে কথা বলে। রাগিব ইসফাহানীর বরাতে সে তিন রকম অপবিত্রতা গোনে: ইন্দ্রিয়ে ধরা পড়া নোংরা, জানাবাতের মতো হুকুমগত অপবিত্রতা যার জন্য গোসল লাগে, আর অন্তরের অপবিত্রতা, অর্থাৎ ভ্রান্ত বিশ্বাস ও মন্দ চরিত্র। মাআরিফের মতে, এখানে যাদের কথা বলা হচ্ছে সেই মুশরিকদের মধ্যে তিনটিই ছিল। তবে অবিশ্বাসীর শরীর নাপাক কি না, সে প্রশ্ন সে ফিকহের কিতাবের হাতে ছেড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of Creed, or of Skin",
+          "bn": "আকীদার, না চামড়ার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says plainly that the people of interpretation differed over what najas means and why the idolaters were given the name. Some said it was because they become junub and do not bathe; he reports this from Qatada, who said najas here is janaba. Others likened them to the filth of a pig or a dog. At-Tabari notes that this was narrated from Ibn 'Abbas by a route he does not commend, and says that for this reason he disliked mentioning it. Al-Qurtubi gives Ibn 'Abbas a different line: it is shirk itself that made them najas.",
+            "bn": "তাবারী সোজাসুজি বলেন, নাজাস শব্দের অর্থ নিয়ে এবং মুশরিকদের কেন এ নাম দেওয়া হলো তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। কেউ বলেছেন, কারণ তারা জুনুবী হয় অথচ গোসল করে না। কাতাদা থেকে তিনি এ মত বর্ণনা করেন, যাঁর মতে এখানে নাজাস মানে জানাবাত। আরেক দল তাদের তুলনা করেছেন শূকর বা কুকুরের নাপাকির সঙ্গে। তাবারী জানান, ইবন আব্বাস (রাঃ) থেকে এ কথা এসেছে এমন সূত্রে যা প্রশংসনীয় নয়, আর তাই এর উল্লেখ তিনি অপছন্দ করেছেন। কুরতুবী ইবন আব্বাস (রাঃ)-এর নামে আনেন ভিন্ন কথা: শিরকই তাদের নাজাস বানিয়েছে।"
+          },
+          {
+            "en": "Al-Hasan al-Basri is reported by at-Tabari, al-Qurtubi and Ibn Kathir as saying: do not shake hands with them, and whoever shakes hands with them should make wudu. Ibn Kathir then states where the weight lies. The majority hold that the idolater is not impure in body or in essence, because Allah made the food of the People of the Book lawful; some of the Zahiris held that their bodies are impure. Ibn Kathir himself opens by calling the believers pure in religion and in person, and the idolaters najas in religion.",
+            "bn": "তাবারী, কুরতুবী আর ইবন কাসীর তিনজনই হাসান বসরী থেকে বর্ণনা করেন: তাদের সঙ্গে মুসাফাহা কোরো না, আর যে করবে সে যেন অজু করে নেয়। এরপর ইবন কাসীর জানিয়ে দেন পাল্লা কোন দিকে ভারী। অধিকাংশ আলেমের মত, মুশরিক শরীর বা সত্তার দিক থেকে নাপাক নয়, কারণ আল্লাহ আহলে কিতাবের খাবার হালাল করেছেন। জাহিরীদের কেউ কেউ তাদের শরীরকে নাপাক বলেছেন। ইবন কাসীর নিজে শুরুতেই মুমিনদের বলেন দ্বীনে ও সত্তায় পবিত্র, আর মুশরিকদের বলেন দ্বীনের দিক থেকে নাজাস।"
+          },
+          {
+            "en": "As-Sa'di is the most direct. The bodily impurity is not meant here, he writes, for the disbeliever, like anyone else, is pure in body. His evidence is that Allah permitted marriage to a woman of the People of the Book and closeness with her, and gave no order to wash whatever touched her; and Muslims never stopped touching the bodies of disbelievers, with no report that they shrank from them as they shrank from filth. The meaning is an impurity of meaning, through shirk: as tawhid and faith are purity, shirk is impurity.",
+            "bn": "সবচেয়ে সরাসরি কথা বলেন সা'দী। তিনি লেখেন, এখানে শরীরের নাপাকি উদ্দেশ্য নয়, কারণ কাফিরও অন্য সবার মতো শরীরে পবিত্র। তাঁর দলিল হলো, আল্লাহ আহলে কিতাবের নারীকে বিয়ে করা ও তার সঙ্গে ঘনিষ্ঠ হওয়া বৈধ করেছেন, অথচ তার ছোঁয়া লাগা জিনিস ধোয়ার আদেশ দেননি। মুসলমানরাও বরাবর কাফিরদের শরীর স্পর্শ করে এসেছেন, আর নাপাক জিনিস থেকে যেভাবে গা বাঁচান সেভাবে তাদের থেকে সরে থাকার কোনো বর্ণনা নেই। উদ্দেশ্য তাই শিরকের কারণে ভেতরের অপবিত্রতা। তাওহীদ আর ঈমান যেমন পবিত্রতা, শিরক তেমনি অপবিত্রতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Subhan Allah, Said to Abu Hurayra",
+          "bn": "আবু হুরায়রাকে বলা সুবহানাল্লাহ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets beside the verse a line he says is in the Sahih: the believer does not become impure. Al-Bukhari's wording, hadith 283 in the Dar-us-Salam numbering, from Abu Hurayra: the Prophet ﷺ came across me in one of the streets of Medina and at that time I was junub. So I slipped away from him and went to take a bath. On my return the Prophet ﷺ said, \"O Abu Huraira! Where have you been?\" I replied, \"I was junub, so I disliked to sit in your company.\" The Prophet ﷺ said, \"Subhan Allah! A believer never becomes impure.\"",
+            "bn": "ইবন কাসীর আয়াতের পাশে এমন একটি বাক্য রাখেন, যা তাঁর ভাষায় সহীহ গ্রন্থে আছে: মুমিন নাপাক হয় না। দারুস সালাম ক্রমিকে বুখারীর ২৮৩ নম্বর হাদীসে আবু হুরায়রা (রাঃ)-এর ভাষ্য এমন: মদীনার এক রাস্তায় নবী ﷺ-এর সঙ্গে আমার দেখা হলো, তখন আমি জুনুবী ছিলাম। তাই তাঁর কাছ থেকে চুপিসারে সরে গিয়ে গোসল করতে গেলাম। ফিরে আসার পর তিনি বললেন, \"আবু হুরায়রা, কোথায় ছিলে?\" আমি বললাম, \"আমি জুনুবী ছিলাম, তাই আপনার কাছে বসতে অস্বস্তি লাগছিল।\" তিনি বললেন, \"সুবহানাল্লাহ! মুমিন কখনো নাপাক হয় না।\""
+          },
+          {
+            "en": "The narration is about janaba, not about this verse or its occasion; it is a general hadith that Ibn Kathir places beside it. At-Tabari carries a similar story with Hudhayfa, but only as something Ma'mar said had reached him, under Qatada's reading. What the hadith settles is narrow: a believer in a state that calls for a bath is still clean to sit with. None of the commentaries fetched attaches a sound hadith to the revelation of this verse; the reports about its occasion are sayings of Companions and Successors.",
+            "bn": "বর্ণনাটি জানাবাত নিয়ে, এ আয়াত বা এর প্রেক্ষাপট নিয়ে নয়। এটি একটি সাধারণ হাদীস, যা ইবন কাসীর আয়াতের পাশে রেখেছেন। তাবারী হুযায়ফা (রাঃ)-কে নিয়ে প্রায় একই রকম ঘটনা আনেন, তবে শুধু মা'মারের এই কথা হিসেবে যে খবরটা তাঁর কাছে পৌঁছেছে, আর তা কাতাদার মতের অধীনে। হাদীসটি যা মীমাংসা করে তা সীমিত: গোসল ফরজ হয়েছে এমন অবস্থায়ও মুমিন নাপাক নয়, তার পাশে বসা যায়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের নাযিলের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। এর প্রেক্ষাপট নিয়ে যা আছে, তা সাহাবী ও তাবিঈদের বক্তব্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Precinct, Mosque, or Every Mosque",
+          "bn": "হারাম, মসজিদ, নাকি সব মসজিদ"
+        },
+        "p": [
+          {
+            "en": "Which place is meant? At-Tabari reads al-Masjid al-Haram here as the whole Haram: whoever enters the Haram has come near the mosque. He reports 'Ata saying that the whole Haram is qibla and mosque, and that the verse did not mean the mosque alone but Makkah and the Haram. Al-Baghawi and al-Qurtubi argue from 17:1, where the Night Journey begins from al-Masjid al-Haram although it set out from the house of Umm Hani. Ma'arif adds 9:7, where the treaty made near al-Masjid al-Haram was in fact made at Hudaybiyah.",
+            "bn": "কোন জায়গার কথা বলা হচ্ছে? তাবারী এখানে মাসজিদুল হারাম বলতে গোটা হারাম এলাকা বোঝেন: যে হারামে ঢুকল, সে মসজিদের কাছে চলে এল। তিনি আতা থেকে বর্ণনা করেন, পুরো হারামই কিবলা আর মসজিদ, আর আয়াতটি শুধু মসজিদ নয়, মক্কা ও হারাম বুঝিয়েছে। বাগাভী ও কুরতুবী যুক্তি দেন ১৭:১ আয়াত থেকে। সেখানে ইসরার যাত্রা শুরু হয় মাসজিদুল হারাম থেকে, অথচ যাত্রাটি শুরু হয়েছিল উম্মে হানী (রাঃ)-এর ঘর থেকে। মাআরিফ যোগ করে ৯:৭ আয়াত। সেখানে মাসজিদুল হারামের কাছে করা চুক্তিটি আসলে হয়েছিল হুদায়বিয়ায়।"
+          },
+          {
+            "en": "Other mosques are a real disagreement, and al-Qurtubi says it runs to five views. The people of Madinah read the verse as covering all idolaters and all mosques; Ma'arif, citing al-Qurtubi, names Imam Malik among them. 'Umar ibn 'Abd al-'Aziz wrote ordering that Jews and Christians be kept out of the Muslims' mosques, citing this verse, as at-Tabari and Ibn Kathir report. Ash-Shafi'i held it general for all idolaters but particular to al-Masjid al-Haram; al-Qurtubi quotes Ibn al-'Arabi calling that rigid literalism. Abu Hanifa and his companions held that Jews and Christians are kept from neither.",
+            "bn": "অন্য মসজিদের প্রশ্নে সত্যিকারের মতভেদ আছে, কুরতুবী জানান মতের সংখ্যা পাঁচ। মদীনার আলেমরা আয়াতটিকে সব মুশরিক আর সব মসজিদের জন্য প্রযোজ্য ধরেন। মাআরিফ কুরতুবীর বরাতে তাঁদের মধ্যে ইমাম মালিকের নাম নেয়। তাবারী ও ইবন কাসীর জানান, উমর ইবন আবদুল আযীয ফরমান লিখেছিলেন যে ইহুদি ও খ্রিস্টানদের মুসলমানদের মসজিদে ঢুকতে দেওয়া হবে না, আর দলিল হিসেবে এ আয়াতই এনেছিলেন। শাফিঈর মতে আয়াতটি সব মুশরিকের বেলায় প্রযোজ্য, তবে শুধু মাসজিদুল হারামের জন্য। কুরতুবী ইবনুল আরাবীর উক্তি আনেন, এটা বাহ্যিক শব্দে আটকে থাকা। আবু হানীফা ও তাঁর সঙ্গীদের মতে ইহুদি-খ্রিস্টানদের কোনো মসজিদেই বাধা নেই।"
+          },
+          {
+            "en": "In Abu Hanifa's view, as al-Qurtubi reports it, only the idolaters and idol-worshippers are barred from al-Masjid al-Haram; al-Qurtubi rejects the view. Ma'arif reads the bar as stopping them from Hajj and 'Umrah in their old manner, in line with the proclamation that no idolater would perform Hajj after that year. Then the exceptions. Jabir is reported saying: unless he is a slave or one of the people of the dhimma. Ibn Kathir notes that Ahmad alone reports a version from the Prophet ﷺ, excepting people of a covenant and their servants, and that the chain stopping at Jabir is sounder.",
+            "bn": "কুরতুবীর বর্ণনায় আবু হানীফার মত হলো, মাসজিদুল হারাম থেকে শুধু মুশরিক ও মূর্তিপূজারীরাই নিষিদ্ধ। কুরতুবী এ মত প্রত্যাখ্যান করেন। মাআরিফ এ নিষেধকে পড়ে তাদের পুরোনো রীতিতে হজ ও উমরা বন্ধ করার অর্থে, সেই ঘোষণার সঙ্গে মিলিয়ে যে এ বছরের পর কোনো মুশরিক হজ করবে না। এরপর আসে ব্যতিক্রমের কথা। জাবির (রাঃ) থেকে বর্ণিত: তবে সে যদি দাস হয়, বা যিম্মিদের কেউ হয়। ইবন কাসীর জানান, নবী ﷺ-এর কথা হিসেবে একটি ভাষ্য শুধু আহমাদই এনেছেন, যাতে চুক্তিবদ্ধ লোক ও তাদের সেবকদের ছাড় আছে। তবে জাবির (রাঃ) পর্যন্ত থেমে যাওয়া সনদটিই বেশি মজবুত।"
+          },
+          {
+            "en": "At-Tabari also carries the opposite line from Jabir: neither an idolater nor a dhimmi is to come near al-Masjid al-Haram after that year. Qatada allows only those who pay the jizya, or a slave owned by Muslims. These are questions for the jurists; this article reports them, settles none, and offers nothing here as a ruling for any present state.",
+            "bn": "তাবারী জাবির (রাঃ) থেকে উল্টো কথাটাও আনেন: এ বছরের পর কোনো মুশরিক বা যিম্মি মাসজিদুল হারামের কাছে আসবে না। কাতাদা ছাড় দেন শুধু জিযিয়া আদায়কারী অথবা কোনো মুসলমানের দাসকে। এগুলো ফকীহদের প্রশ্ন। এই লেখা কেবল মতগুলো জানিয়ে দেয়, কোনোটির মীমাংসা করে না, আর আজকের কোনো রাষ্ট্রের জন্য এখানে কোনো বিধান দেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Year Was Their Last",
+          "bn": "কোন বছরটা ছিল শেষ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, al-Baghawi, as-Sa'di and Ibn Kathir all take this year of theirs as 9 AH, when Abu Bakr led the Hajj and 'Ali proclaimed Bara'a: no idolater shall perform Hajj after this year, and none shall circle the House naked. At-Tabari's report from Qatada adds that the Prophet ﷺ made the Farewell Hajj the next year, and no other. Ibn Kathir says Allah completed it and made it binding both in law and in what came to pass.",
+            "bn": "তাবারী, বাগাভী, সা'দী ও ইবন কাসীর সবাই 'তাদের এ বছর' বলতে বোঝেন ৯ হিজরী। সে বছর আবু বকর (রাঃ) হজে নেতৃত্ব দেন, আর আলী (রাঃ) বারাআতের ঘোষণা শোনান: এ বছরের পর কোনো মুশরিক হজ করবে না, আর কেউ উলঙ্গ হয়ে বাইতুল্লাহর তাওয়াফ করবে না। তাবারীর আনা কাতাদার বর্ণনা যোগ করে, পরের বছর নবী ﷺ বিদায় হজ করেন, এর আগে-পরে আর কোনো হজ নয়। ইবন কাসীর বলেন, আল্লাহ বিষয়টা পূর্ণ করেছেন এবং শরীয়তেও কার্যকর করেছেন, বাস্তবেও।"
+          },
+          {
+            "en": "Al-Qurtubi records a second view, 10 AH, which he attributes to Qatada, and quotes Ibn al-'Arabi preferring it: if a slave entered his master's house one day and the master said, do not enter this house after your day, the day meant would not be the day he entered. The two reports from Qatada do not agree, and the difference stands. Ma'arif sides with the majority for 9 AH and treats the following year as a year of respite, with the bar in force after it.",
+            "bn": "কুরতুবী দ্বিতীয় একটি মতও লেখেন, ১০ হিজরী, যা তিনি কাতাদার বলে উল্লেখ করেন। সঙ্গে ইবনুল আরাবীর উক্তি আনেন, যিনি এ মতকেই ঠিক মনে করেন। তাঁর উদাহরণ: কোনো দাস একদিন মনিবের ঘরে ঢুকল, আর মনিব বলল, তোমার এ দিনের পর এ ঘরে ঢুকবে না। এখানে দাস যেদিন ঢুকেছে, সেদিনটা বোঝানো হয় না। কাতাদা থেকে আসা দুটি বর্ণনা তাই এক নয়, আর মতভেদটা থেকেই যায়। মাআরিফ অধিকাংশের সঙ্গে ৯ হিজরীকেই গ্রহণ করে, পরের বছরকে ধরে অবকাশের বছর, যার পরে নিষেধটা কার্যকর হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Will Bring Us Food Now",
+          "bn": "এখন খাবার আনবে কে"
+        },
+        "p": [
+          {
+            "en": "The second half answers a fear the reports describe in plain words. At-Tabari carries several. From Ibn 'Abbas: when Allah barred the idolaters, Shaytan cast grief into the believers' hearts: where will you eat, now the caravans are cut off? From 'Ikrima: the idolaters used to come to the House bringing food and trading in it, and the Muslims asked where their food would come from. From Ibn Ishaq: the people said the markets will be cut off and trade will perish. At-Tabari explains 'ayla as want and poverty.",
+            "bn": "আয়াতের দ্বিতীয় অংশ এমন এক ভয়ের জবাব দেয়, বর্ণনাগুলো যাকে সাদা ভাষায় তুলে ধরে। তাবারী এমন কয়েকটি বর্ণনা আনেন। ইবন আব্বাস (রাঃ) থেকে: আল্লাহ যখন মুশরিকদের সরিয়ে দিলেন, শয়তান মুমিনদের মনে দুঃখ ঢেলে দিল, এখন খাবে কোথা থেকে, কাফেলা তো বন্ধ হয়ে গেল! ইকরিমা থেকে: মুশরিকরা খাবার নিয়ে বাইতুল্লাহয় আসত আর সেখানে বেচাকেনা করত, তাই মুসলমানরা জিজ্ঞেস করল, আমাদের খাবার আসবে কোথা থেকে? ইবন ইসহাক থেকে: লোকেরা বলল, বাজার বন্ধ হবে, ব্যবসা ধ্বংস হবে। তাবারী আইলা শব্দের অর্থ করেন অভাব ও দারিদ্র্য।"
+          },
+          {
+            "en": "How the promise was kept is reported several ways. 'Ikrima says Allah sent them rain in plenty and their good increased. Muqatil, in al-Baghawi, says the people of Jidda, San'a and Jurash accepted Islam and brought provisions to Makkah. Ad-Dahhak and Qatada name the jizya, which at-Tabari takes as his own reading and which belongs to the next verse, 9:29. As-Sa'di draws the lesson: provision is not confined to one door, and no door closes without Allah opening many others, above all for whoever leaves something for His sake.",
+            "bn": "প্রতিশ্রুতিটা কীভাবে পূরণ হলো, তা নিয়ে কয়েক রকম বর্ণনা আছে। ইকরিমা বলেন, আল্লাহ তাদের উপর প্রচুর বৃষ্টি পাঠালেন, তাদের সচ্ছলতা বাড়ল। বাগাভীর আনা মুকাতিলের বর্ণনায়, জিদ্দা, সানআ ও জুরাশের লোকেরা ইসলাম গ্রহণ করে মক্কায় রসদ নিয়ে আসতে লাগল। দাহহাক ও কাতাদা জিযিয়ার কথা বলেন। তাবারী এটাকেই নিজের মত হিসেবে নেন, আর এর বিস্তারিত পরের আয়াত ৯:২৯-এর বিষয়। সা'দী শিক্ষাটা বের করে আনেন: রিযিক এক দরজায় আটকে নেই। একটা দরজা বন্ধ হলে আল্লাহ আরও অনেক দরজা খুলে দেন, বিশেষ করে তার জন্য, যে তাঁর সন্তুষ্টির জন্য কিছু ছেড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief Named, Not Bodies",
+          "bn": "নাম বিশ্বাসের, শরীরের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes belief and deeds, not human bodies or human worth, and the commentaries fetched say so: as-Sa'di, that the disbeliever is pure in body like anyone else; Ibn Kathir, that the majority deny bodily impurity; al-Baghawi, that najas here is a legal impurity, not one of substance. It gave one command about one sanctuary in 9 AH. It licenses nothing against any living person or community, gives no one leave to call a neighbour filthy or refuse his hand, and sets no ruling for any present state.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বিশ্বাস আর আমলের কথা বলে, মানুষের শরীর বা মানুষের মর্যাদার কথা নয়। যেসব তাফসীর দেখা হয়েছে, সেগুলোও তাই বলে। সা'দী বলেন, কাফিরও অন্য সবার মতো শরীরে পবিত্র। ইবন কাসীর বলেন, অধিকাংশ আলেম শরীরের নাপাকি মানেন না। বাগাভী বলেন, এখানে নাজাস হুকুমগত অপবিত্রতা, বস্তুর নয়। আয়াতটি ৯ হিজরীতে একটি পবিত্র এলাকা নিয়ে একটি আদেশ দিয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশীকে নোংরা বলার বা তার বাড়ানো হাত ফিরিয়ে দেওয়ার অধিকারও কাউকে দেয় না। আজকের কোনো রাষ্ট্রের জন্যও এতে কোনো বিধান নেই।"
+          },
+          {
+            "en": "As-Sa'di explains why the promise hangs on His will. Wealth in this world does not follow from faith and is no sign of Allah's love: He gives the world to those He loves and those He does not, but gives faith only to those He loves. Ma'arif adds that in sha' carries no doubt; when Allah intends a thing, its causes fall into line. The verse ends where the fear began, with Allah knowing, as at-Tabari reads it, what the believers' hearts had told them, and wise in ordering His creation.",
+            "bn": "প্রতিশ্রুতিটা কেন আল্লাহর ইচ্ছার সঙ্গে বাঁধা, সা'দী তা ব্যাখ্যা করেন। দুনিয়ার সচ্ছলতা ঈমানের অবধারিত ফল নয়, আল্লাহর ভালোবাসার আলামতও নয়। দুনিয়া তিনি দেন যাকে ভালোবাসেন তাকেও, যাকে ভালোবাসেন না তাকেও। কিন্তু ঈমান আর দ্বীন দেন শুধু যাকে ভালোবাসেন। মাআরিফ যোগ করে, ইন শা-আ কথাটায় কোনো সংশয় নেই। আল্লাহ কিছু চাইলে তার উপকরণগুলো নিজে থেকেই সারিবদ্ধ হয়ে যায়। আয়াতটি শেষ হয় যেখানে ভয়টা শুরু হয়েছিল সেখানেই। তাবারীর পাঠে আল্লাহ জানেন মুমিনদের মন তাদের কী বলেছিল, আর নিজের সৃষ্টির ব্যবস্থাপনায় তিনি প্রজ্ঞাময়।"
+          }
+        ]
+      }
+    ]
+  },
   "9:31": {
     "sections": [
       {
