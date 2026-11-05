@@ -1751,6 +1751,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Ark Story Ends",
+          "bn": "নৌকার কাহিনি যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "The story of Nuh (AS) in this surah opens at 11:25, with his words to his people that he is a clear warner and his call to worship none but Allah. It runs through the argument, the ark, the wave and his plea for his son, and it closes at 11:48 with the command to disembark in peace. Our verse is the first one after it, and it speaks to someone who was not in the story at all.",
+            "bn": "এ সূরায় নূহ (আঃ)-এর কাহিনি শুরু হয় ১১:২৫ আয়াতে। সেখানে তিনি নিজের জাতিকে বলেন, আমি তোমাদের জন্য স্পষ্ট সতর্ককারী, আর ডাকেন এক আল্লাহর ইবাদতের দিকে। তারপর একে একে আসে তর্ক, নৌকা, ঢেউ আর ছেলের জন্য তাঁর আবেদন। কাহিনি শেষ হয় ১১:৪৮ আয়াতে, শান্তির সঙ্গে নেমে পড়ার হুকুমে। আমাদের আয়াতটি এর ঠিক পরের আয়াত। আর এর কথা এমন একজনের প্রতি, যিনি ওই কাহিনিতে ছিলেনই না।"
+          },
+          {
+            "en": "At-Tabari states the address plainly: Allah says to His Prophet Muhammad ﷺ that this story He has told him, of Nuh, his news and the news of his people, is from the news of the unseen. Al-Muyassar names the addressee in the same way: the story We have told you, O Messenger, about Nuh and his people. So the verse works as a hinge. Twenty-four verses of narration end, and one verse says why they were told and what the listener is to do with them.",
+            "bn": "তাবারী সম্বোধনটা সোজা কথায় বলে দেন। আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন, নূহের যে কাহিনি, তাঁর ও তাঁর জাতির যে খবর তোমাকে শোনালাম, তা অদৃশ্যের খবরের অংশ। মুয়াসসারও সম্বোধিত মানুষটির নাম নেয় একইভাবে: হে রাসূল, নূহ ও তাঁর জাতির যে কাহিনি তোমাকে শোনালাম। ফলে আয়াতটি যেন দুই অংশের জোড়া। চব্বিশ আয়াতের বর্ণনা শেষ হলো। এবার একটিমাত্র আয়াত জানিয়ে দেয়, কাহিনিটা কেন শোনানো হলো, আর শ্রোতা এখন এটা নিয়ে কী করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Steps, One Turn",
+          "bn": "তিন ধাপে এক মোড়"
+        },
+        "p": [
+          {
+            "en": "The verse moves in three steps. First a statement about the story: tilka min anba' al-ghaybi nuhiha ilayk, those are from the news of the unseen, which We reveal to you. Then a statement about the listener: ma kunta ta'lamuha anta wa-la qawmuka min qabli hadha, you did not know them, neither you nor your people, before this. Then a command with its reason: fa-sbir, inna al-'aqibata li-l-muttaqin, so be patient; the end belongs to the mindful. The command opens with fa, so, and draws on what came before it.",
+            "bn": "আয়াতটি এগোয় তিনটি ধাপে। প্রথমে কাহিনি সম্পর্কে একটি কথা: তিলকা মিন আম্বাইল গাইবি নূহীহা ইলাইক, এগুলো অদৃশ্যের খবর, যা আমি তোমাকে ওহীর মাধ্যমে জানাচ্ছি। তারপর শ্রোতা সম্পর্কে একটি কথা: মা কুনতা তা'লামুহা আনতা ওয়া লা কাওমুকা মিন কাবলি হাযা, এর আগে তুমি এগুলো জানতে না, তোমার জাতিও জানত না। শেষে কারণসহ একটি হুকুম: ফাসবির, ইন্নাল আকিবাতা লিল মুত্তাকীন, কাজেই ধৈর্য ধরো, শেষ পরিণাম মুত্তাকীদের। হুকুমটি শুরু হয়েছে ফা দিয়ে, যার মানে 'কাজেই'। অর্থাৎ আগের দুই কথার ওপর ভর করেই হুকুমটি আসে।"
+          },
+          {
+            "en": "Al-Qurtubi notices a small point of wording. Here the Qur'an says tilka, those, meaning those reports; in another place it says dhalika, that, meaning that report and narrative. He does not name the place, but the phrase dhalika min anba' al-ghayb opens 3:44, on the casting of pens over who would take charge of Maryam, and 12:102, at the close of the story of Yusuf (AS). There the verb's pronoun is singular as well, nuhihi. Ibn Kathir widens the reference in his own way: this story and the ones like it.",
+            "bn": "কুরতুবী শব্দচয়নের একটি সূক্ষ্ম দিকে নজর দেন। এখানে কুরআন বলেছে তিলকা, অর্থাৎ ওই খবরগুলো। অন্য এক জায়গায় বলেছে যালিকা, অর্থাৎ ওই খবর ও কাহিনি। জায়গাটির নাম তিনি বলেননি। তবে 'যালিকা মিন আম্বাইল গাইব' কথাটি দিয়ে শুরু হয়েছে ৩:৪৪ আয়াত, যেখানে মারইয়ামের দায়িত্ব কে নেবে তা নিয়ে কলম নিক্ষেপের কথা। আবার ১২:১০২ আয়াতও, ইউসুফ (আঃ)-এর কাহিনির শেষে। ওই দুই জায়গায় ক্রিয়ার সর্বনামও একবচন: নূহীহি। ইবন কাসীর নিজের মতো করে পরিধিটা বাড়িয়ে দেন: এ কাহিনি এবং এর মতো অন্য কাহিনিগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Unseen That Lies Behind",
+          "bn": "যে অদৃশ্য পেছনে পড়ে আছে"
+        },
+        "p": [
+          {
+            "en": "What kind of unseen is meant? At-Tabari answers that these are reports of the unseen which you did not witness so as to know them, and he glosses nuhiha as: We Ourselves reveal them to you, and so make them known to you. Al-Qurtubi reads it as news of what was absent from you, revealed so that you may come to know it. Ibn Kathir and al-Muyassar both add one word, as-salifa, the past. In every one of these readings the unseen is behind the Prophet ﷺ in time, not ahead of him.",
+            "bn": "এখানে কোন ধরনের অদৃশ্যের কথা? তাবারী বলেন, এগুলো অদৃশ্যের এমন খবর, যার সময় তুমি উপস্থিত ছিলে না যে দেখে জানবে। নূহীহা কথাটির ব্যাখ্যা তিনি দেন এভাবে: আমি নিজেই তোমার কাছে ওহী পাঠাই, আর এভাবে তোমাকে জানিয়ে দিই। কুরতুবীর পাঠে এটি তোমার কাছ থেকে যা আড়ালে ছিল তার খবর, যা ওহী করা হয়েছে যাতে তুমি তা জানতে পারো। ইবন কাসীর ও মুয়াসসার দুজনেই একটি শব্দ যোগ করেন: আস-সালিফা, অর্থাৎ অতীতের। এসব পাঠের প্রতিটিতেই অদৃশ্যটা সময়ের দিক থেকে নবী ﷺ-এর পেছনে, সামনে নয়।"
+          },
+          {
+            "en": "Ibn Kathir then describes the manner of the telling. Allah revealed it to him as it was and in its clear detail, as though he were witnessing it. As-Sa'di fixes on the length: he calls it this extended story, one that nobody knows except a person whom Allah has favoured with His message. The detail is therefore part of the point. A bare outline would prove little; a full account, told as if seen by someone who was never there, raises the question of where it came from.",
+            "bn": "এরপর ইবন কাসীর বর্ণনার ধরনটা তুলে ধরেন। আল্লাহ তাঁকে ঘটনাটা জানিয়েছেন যেমনটি ঘটেছিল ঠিক তেমনভাবে, স্পষ্ট খুঁটিনাটিসহ, যেন তিনি নিজের চোখে দেখছেন। সা'দী জোর দেন কাহিনির দৈর্ঘ্যের ওপর। তিনি একে বলেন বিস্তারিত কাহিনি, যা কেউ জানে না, কেবল সেই মানুষ ছাড়া যাকে আল্লাহ রিসালাত দিয়ে অনুগ্রহ করেছেন। খুঁটিনাটিটাই তাই আসল কথার অংশ। শুধু মোটা দাগের একটা রূপরেখা দিয়ে তেমন কিছু প্রমাণ হয় না। কিন্তু যে কখনো সেখানে ছিল না, সে যখন পুরো ঘটনা এমনভাবে বলে যেন দেখেছে, তখন প্রশ্ন ওঠে: এ জ্ঞান এল কোথা থেকে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither You Nor Your People",
+          "bn": "না তুমি, না তোমার জাতি"
+        },
+        "p": [
+          {
+            "en": "The second clause carries the argument. Ibn Kathir explains it: neither you nor anyone of your people had knowledge of it, so that no one who denies you can say that you learned it from him. Rather, Allah told you of it in agreement with what truly happened, as the books of the prophets before you bear witness. As-Sa'di makes the same point in fewer words: neither you nor your people knew it before this, or else they would say that he had known it already. The clause shuts the door on a human teacher.",
+            "bn": "যুক্তিটা বহন করে দ্বিতীয় বাক্যাংশ। ইবন কাসীর ব্যাখ্যা করেন: এ বিষয়ে তোমার কোনো জ্ঞান ছিল না, তোমার জাতির কারও কাছেও ছিল না, যাতে তোমাকে যে অস্বীকার করে সে বলতে না পারে, তুমি তার কাছ থেকে শিখেছ। বরং আল্লাহই তোমাকে জানিয়েছেন, আর তা মিলে যায় আসলে যা ঘটেছিল তার সঙ্গে, যেমনটা তোমার আগের নবীদের কিতাবগুলো সাক্ষ্য দেয়। সা'দী একই কথা বলেন আরও অল্প কথায়: এর আগে তুমি জানতে না, তোমার জাতিও না, নইলে তারা বলত, সে তো আগে থেকেই জানত। এভাবে বাক্যাংশটি কোনো মানুষ-শিক্ষকের সম্ভাবনা নাকচ করে দেয়।"
+          },
+          {
+            "en": "At-Tabari closes his comment with a report from Qatada, through his chain from Bishr, Yazid and Sa'id. Qatada says of the words: the Qur'an, and Muhammad ﷺ and his people would not have known what Nuh and his people did, had Allah not made it clear in His Book. The commentators also say what before this refers to. At-Tabari reads it as before this revelation, al-Baghawi as before the Qur'an came down, and al-Muyassar as before this explanation. All three point to the same moment.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন কাতাদার একটি বর্ণনা দিয়ে, বিশর, ইয়াযীদ ও সাঈদের সূত্রে। আয়াতের এ কথাগুলো সম্পর্কে কাতাদা বলেন: এ হলো কুরআন। নূহ ও তাঁর জাতি কী করেছিল, মুহাম্মাদ ﷺ ও তাঁর জাতি তা জানতে পারত না, যদি আল্লাহ তাঁর কিতাবে তা স্পষ্ট করে না দিতেন। 'এর আগে' বলতে কী বোঝানো হয়েছে, তাফসীরকারেরা তাও বলেন। তাবারীর মতে এই ওহীর আগে, বাগাভীর মতে কুরআন নাযিলের আগে, আর মুয়াসসারের মতে এই বর্ণনার আগে। তিনটি ব্যাখ্যাই একই মুহূর্তের দিকে ইঙ্গিত করে।"
+          },
+          {
+            "en": "Al-Qurtubi records two readings of what they did not know. In his own gloss they were not acquainted with the matter of the flood at all, and he adds that some people in his own day denied it. Then, introduced with it is said, comes a second view: the verse means their ignorance of the story of Nuh's son, even if they had heard of the flood, since that they knew only in general terms. He sets the two side by side and does not choose. Either way, the claim is about what this surah has just told.",
+            "bn": "তারা ঠিক কী জানত না, এ নিয়ে কুরতুবী দুটি পাঠ উল্লেখ করেন। তাঁর নিজের ব্যাখ্যায়, মহাপ্লাবনের বিষয়টাই তাদের অজানা ছিল। সঙ্গে তিনি যোগ করেন, তাঁর নিজের যুগেও কিছু মানুষ তা অস্বীকার করত। তারপর 'বলা হয়' বলে আসে দ্বিতীয় মত। এ মতে আয়াতের উদ্দেশ্য নূহের ছেলের কাহিনি সম্পর্কে তাদের অজ্ঞতা, প্লাবনের কথা তারা শুনে থাকলেও। কারণ প্লাবনের কথা তারা জানত শুধু মোটামুটিভাবে। দুটি মত তিনি পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। যেটাই ধরা হোক, দাবিটা এ সূরা এইমাত্র যা শোনাল, সেই খবর নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patient in What, Exactly",
+          "bn": "ধৈর্য, কিন্তু কিসের ওপর"
+        },
+        "p": [
+          {
+            "en": "Fa-sbir does not name its object, so the commentators supply one. At-Tabari: be patient in carrying out the command of Allah and conveying His message, and in what you meet from the idolaters of your people, as Nuh was patient. Al-Baghawi uses almost the same words, ending with the harm of the disbelievers, as Nuh was patient. Al-Qurtubi gives two phrasings: patience over the hardships of the mission and the people's harm, and a second close to at-Tabari's wording.",
+            "bn": "ফাসবির শব্দটি বলে না কিসের ওপর ধৈর্য, তাই তাফসীরকারেরা তা পূরণ করেন। তাবারী বলেন: আল্লাহর হুকুম পালনে আর তাঁর বার্তা পৌঁছানোয় ধৈর্য ধরো, আর তোমার জাতির মুশরিকদের কাছ থেকে যা পাচ্ছ তাতেও, যেমন নূহ ধৈর্য ধরেছিলেন। বাগাভী প্রায় একই শব্দ ব্যবহার করেন, শেষে বলেন কাফিরদের দেওয়া কষ্টের কথা, যেমন নূহ ধৈর্য ধরেছিলেন। কুরতুবী দুইভাবে বলেন। একবার রিসালাতের কষ্ট আর জাতির দেওয়া যন্ত্রণার ওপর ধৈর্য। আরেকবার প্রায় তাবারীর ভাষায়।"
+          },
+          {
+            "en": "Ibn Kathir and al-Muyassar put the weight on the opposition: be patient with the denial of those of your people who deny you and with the harm they do you. Al-Muyassar adds, as the prophets before you were patient. As-Sa'di frames it differently and starts somewhere else. Praise Allah, he says, thank Him, and be patient upon what you are upon: the upright religion, the straight path and the call to Allah. For him patience is first a matter of staying on the road, and gratitude comes before it.",
+            "bn": "ইবন কাসীর ও মুয়াসসার জোর দেন বিরোধিতার ওপর: তোমার জাতির যারা তোমাকে অস্বীকার করে, তাদের অস্বীকার আর তাদের দেওয়া কষ্টে ধৈর্য ধরো। মুয়াসসার যোগ করে, যেমন তোমার আগের নবীরা ধৈর্য ধরেছিলেন। সা'দী কথাটা বলেন অন্যভাবে, শুরুও করেন অন্য জায়গা থেকে। তিনি বলেন, আল্লাহর প্রশংসা করো, তাঁর শোকর আদায় করো, আর যে পথে আছ তাতে অবিচল থাকো: সঠিক দ্বীন, সরল পথ আর আল্লাহর দিকে দাওয়াত। তাঁর কাছে ধৈর্য মানে আগে পথে টিকে থাকা, আর তারও আগে শোকর।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the close as consolation. There were many open proofs that he was a prophet, it says, and if some people see the sun and insist they do not, he should look at the model of his predecessor Nuh (AS), who suffered at the hands of his people and remained patient. The Qur'an gives the length of that patience elsewhere: in 29:14 Nuh stayed among his people a thousand years less fifty, and then the flood seized them while they were wrongdoers.",
+            "bn": "মাআরিফুল কুরআন আয়াতের শেষাংশকে দেখে সান্ত্বনা হিসেবে। সেখানে বলা হয়েছে, তিনি যে নবী, তার অনেক স্পষ্ট প্রমাণ ছিল। কিছু মানুষ যদি সূর্য দেখেও বলে দেখছি না, তবে তিনি যেন তাকান তাঁর পূর্বসূরি নূহ (আঃ)-এর দিকে। জাতির হাতে তিনি কষ্ট পেয়েছেন, তবু ধৈর্য ধরে থেকেছেন। সেই ধৈর্য কত দীর্ঘ ছিল, কুরআন তা অন্য জায়গায় বলেছে। ২৯:১৪ আয়াতে আছে, নূহ তাঁর জাতির মাঝে ছিলেন পঞ্চাশ কম এক হাজার বছর। তারপর মহাপ্লাবন তাদের গ্রাস করে, কারণ তারা ছিল যালিম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The End Belongs Elsewhere",
+          "bn": "শেষটা যাদের ভাগে"
+        },
+        "p": [
+          {
+            "en": "Then the reason: inna al-'aqibata li-l-muttaqin. At-Tabari reads 'aqibah as the good among the outcomes of things, for whoever fears Allah, performs what He made obligatory and avoids disobeying Him. They win the bliss they hope for in the Hereafter, and success in this world in what they seek. He ties it to the story at once: so was the end of Nuh when he was patient with Allah's command. Allah saved him from destruction with those who believed, honoured him in the Hereafter, and drowned those who denied him.",
+            "bn": "তারপর কারণটা: ইন্নাল আকিবাতা লিল মুত্তাকীন। তাবারীর মতে আকিবাহ মানে সব বিষয়ের পরিণামের মধ্যে যা কল্যাণকর। তা তাদের জন্য, যারা আল্লাহকে ভয় করে, তাঁর ফরযগুলো আদায় করে আর তাঁর নাফরমানি থেকে দূরে থাকে। আখিরাতে তারা পায় প্রত্যাশিত নিয়ামত, আর দুনিয়ায় পায় কাঙ্ক্ষিত বিষয়ে সফলতা। সঙ্গে সঙ্গে তিনি কথাটা কাহিনির সঙ্গে জুড়ে দেন। আল্লাহর হুকুমে নূহ যখন ধৈর্য ধরলেন, তাঁর পরিণামও এমনই হলো। আল্লাহ তাঁকে ঈমানদারদের সঙ্গে ধ্বংস থেকে বাঁচালেন, আখিরাতে তাঁকে সম্মান দিলেন, আর যারা তাঁকে অস্বীকার করেছিল তাদের ডুবিয়ে দিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi divides the end in two: in this world by victory, in the Hereafter by triumph, and he defines the muttaqin as those who guard against shirk and sins. Al-Baghawi calls it the last of the matter, with happiness and help. Ibn Kathir has Allah promise to help the Prophet ﷺ, surround him with care, and give the good end to him and his followers in both worlds, as He did for the messengers before. He cites 40:51, We will support Our messengers and those who believe, and 37:171 to 37:173.",
+            "bn": "কুরতুবী পরিণামকে দুই ভাগে দেখেন: দুনিয়ায় বিজয়, আখিরাতে সাফল্য। আর মুত্তাকী বলতে বোঝান তাদের, যারা শিরক ও গুনাহ থেকে বেঁচে থাকে। বাগাভী একে বলেন বিষয়ের শেষ অবস্থা, সৌভাগ্য ও সাহায্যসহ। ইবন কাসীরের ব্যাখ্যায় আল্লাহ ওয়াদা দিচ্ছেন, তিনি নবী ﷺ-কে সাহায্য করবেন, নিজের তত্ত্বাবধানে ঘিরে রাখবেন, আর দুনিয়া ও আখিরাতে শুভ পরিণাম দেবেন তাঁকে ও তাঁর অনুসারীদের। আগের রাসূলদের বেলায়ও তিনি তা-ই করেছেন। এ প্রসঙ্গে ইবন কাসীর উদ্ধৃত করেন ৪০:৫১, আমি অবশ্যই আমার রাসূলদের ও মুমিনদের সাহায্য করব, আর ৩৭:১৭১ থেকে ৩৭:১৭৩।"
+          },
+          {
+            "en": "As-Sa'di puts the promise in one line: the end will be yours over your people, as it was Nuh's over his. This needs saying plainly. The verse speaks of Nuh's people, who were drowned, and of those who denied the Prophet ﷺ and harmed him. It describes what the text describes. It licenses nothing against any living person or community, gives nobody a list of who will lose, and hands no believer the right to name others as the losing side. The promise is made to the mindful.",
+            "bn": "সা'দী ওয়াদাটা বলেন এক বাক্যে: তোমার জাতির বিরুদ্ধে শেষ পরিণাম হবে তোমার, যেমন নূহের জাতির বিরুদ্ধে তা হয়েছিল নূহের। এখানে একটা কথা স্পষ্ট বলা দরকার। আয়াতটি নূহের সেই জাতির কথা বলে, যারা ডুবে মরেছিল, আর বলে তাদের কথা, যারা নবী ﷺ-কে অস্বীকার করেছিল ও কষ্ট দিয়েছিল। পাঠে যা বর্ণিত, আয়াত কেবল সেটুকুই বলে। বর্তমানের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কারা হারবে, তার কোনো তালিকা এতে নেই। কাউকে পরাজিত পক্ষ বলে ঘোষণা করার অধিকারও কোনো মুমিনকে এটি দেয় না। ওয়াদাটা মুত্তাকীদের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Formula in Other Surahs",
+          "bn": "অন্য সূরায় একই কথা"
+        },
+        "p": [
+          {
+            "en": "The same argument appears elsewhere in other forms. At 3:44 and 12:102, dhalika min anba' al-ghayb is followed by you were not with them: when they cast their pens, when they agreed on their plan. In 28:44 to 28:46 it runs at length: you were not on the western side when We decreed the matter to Musa, you were not at the side of the mount when We called, but you were sent as a mercy from your Lord. Our verse puts it as not knowing rather than not being present.",
+            "bn": "একই যুক্তি অন্য জায়গায় অন্য রূপে এসেছে। ৩:৪৪ ও ১২:১০২ আয়াতে 'যালিকা মিন আম্বাইল গাইব' কথার পরেই আসে, তুমি তাদের কাছে ছিলে না। একবার যখন তারা কলম নিক্ষেপ করছিল, আরেকবার যখন তারা ষড়যন্ত্রে একমত হচ্ছিল। ২৮:৪৪ থেকে ২৮:৪৬ আয়াতে কথাটা আরও বিস্তারিত। মূসাকে যখন নির্দেশ দিলাম, তুমি পশ্চিম প্রান্তে ছিলে না। তূর পাহাড়ের পাশেও ছিলে না, যখন আমি ডাক দিয়েছিলাম। বরং তোমাকে পাঠানো হয়েছে তোমার রবের রহমত হিসেবে। আমাদের আয়াত কথাটা বলে উপস্থিত না থাকার ভাষায় নয়, না জানার ভাষায়।"
+          },
+          {
+            "en": "The closing words return too. Wa-l-'aqibatu li-l-muttaqin ends 7:128, where Musa (AS) tells his people to seek help through Allah and be patient, and 28:83, on the home of the Hereafter given to those who seek neither exaltation on the earth nor corruption. In 20:132 the Prophet ﷺ is told to enjoin prayer on his family and be steadfast in it, and the verse ends wa-l-'aqibatu li-t-taqwa. Patience and the end of the mindful keep company in these places, as they do here.",
+            "bn": "শেষ কথাগুলোও আবার ফিরে আসে। 'ওয়াল আকিবাতু লিল মুত্তাকীন' দিয়ে শেষ হয়েছে ৭:১২৮ আয়াত, যেখানে মূসা (আঃ) তাঁর জাতিকে বলেন আল্লাহর কাছে সাহায্য চাইতে আর ধৈর্য ধরতে। ২৮:৮৩ আয়াতও শেষ হয়েছে এ কথায়, আখিরাতের সেই ঘর নিয়ে, যা দেওয়া হবে তাদের, যারা দুনিয়ায় ঔদ্ধত্য বা বিপর্যয় চায় না। ২০:১৩২ আয়াতে নবী ﷺ-কে বলা হয়েছে পরিবারকে নামাযের আদেশ দিতে আর নিজে তাতে অবিচল থাকতে। আয়াতটি শেষ হয়েছে 'ওয়াল আকিবাতু লিত তাকওয়া' দিয়ে। এসব জায়গায় ধৈর্য আর মুত্তাকীদের শুভ পরিণাম পাশাপাশি চলে, যেমন এখানে।"
+          },
+          {
+            "en": "On narrations, the record is short. None of the eight commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it, and none gives an occasion of revelation. The one report brought is Qatada's explanation in at-Tabari, which is his own explanation of the words, not a saying of the Prophet ﷺ. No sound hadith is attached here, so none is supplied. Later in the same surah, 11:120 states the purpose of all these accounts: each of the messengers' stories is told to make the Prophet's ﷺ heart firm.",
+            "bn": "বর্ণনার দিক থেকে কথা সংক্ষিপ্ত। এ আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও উল্লেখ করেনি। একমাত্র যে বর্ণনা এসেছে, তা তাবারীতে কাতাদার ব্যাখ্যা। সেটি আয়াতের শব্দ নিয়ে তাঁর নিজের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। এখানে কোনো সহীহ হাদীস যুক্ত নেই, তাই কোনো হাদীস আনা হয়নি। একই সূরার পরের দিকে ১১:১২০ আয়াত এসব কাহিনির উদ্দেশ্য জানিয়ে দেয়: রাসূলদের প্রতিটি কাহিনি শোনানো হয় নবী ﷺ-এর অন্তরকে মজবুত করতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waiting With the Ending Known",
+          "bn": "শেষটা জেনে অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "The order of the verse teaches something. It does not ask for patience in the abstract. It first lets the listener watch a whole story from warning to landing, and only then says be patient. The patience rests on an ending already seen. The Prophet ﷺ had not yet seen the end of his own mission; he had just been shown the end of Nuh's, and told that the same rule governs both. The reader stands where he stood: we know how the prophets' stories ended, though not how our own will.",
+            "bn": "আয়াতের বিন্যাসেই একটা শিক্ষা আছে। এটি শূন্যে দাঁড়িয়ে ধৈর্যের কথা বলে না। আগে শ্রোতাকে পুরো একটা কাহিনি দেখায়, সতর্কবাণী থেকে নৌকা ভিড়ে যাওয়া পর্যন্ত। তারপরই বলে, ধৈর্য ধরো। ফলে ধৈর্যের ভিত্তি এমন এক পরিণাম, যা চোখের সামনে ঘটে গেছে। নবী ﷺ তখনো নিজের মিশনের শেষ দেখেননি। তাঁকে সদ্য দেখানো হয়েছে নূহের কাহিনির শেষ, আর বলা হয়েছে দুটোর বেলায় একই নিয়ম খাটে। পাঠকও আজ সেখানেই দাঁড়িয়ে। নবীদের কাহিনি কীভাবে শেষ হয়েছে আমরা জানি, নিজেদেরটা কীভাবে শেষ হবে জানি না।"
+          },
+          {
+            "en": "So the verse lends the known ending to the unknown one. When people mock what you hold to, or the work seems to go nowhere, the commentators' readings give two tasks. At-Tabari's patience keeps doing the work: carrying out the command and conveying the message, not only enduring. As-Sa'di's patience begins with praise and thanks for being on the path at all. And the promise has a condition attached, the mindful, which is a description to live up to rather than a label to wear.",
+            "bn": "এভাবে আয়াতটি জানা পরিণামকে অজানা পরিণামের পাশে দাঁড় করায়। মানুষ যখন আপনার বিশ্বাস নিয়ে হাসে, কিংবা কাজটা কোথাও পৌঁছাচ্ছে বলে মনে হয় না, তখন তাফসীরকারদের পাঠ থেকে দুটি কাজ পাওয়া যায়। তাবারীর ধৈর্য মানে কাজ চালিয়ে যাওয়া: হুকুম পালন আর বার্তা পৌঁছে দেওয়া, শুধু সয়ে যাওয়া নয়। সা'দীর ধৈর্য শুরু হয় প্রশংসা ও শোকর দিয়ে, কারণ পথে থাকতে পারাটাই এক নিয়ামত। আর ওয়াদার সঙ্গে একটা শর্ত জুড়ে আছে: মুত্তাকী হওয়া। এটা গায়ে লাগানোর তকমা নয়, জীবনে অর্জন করার গুণ।"
+          }
+        ]
+      }
+    ]
+  },
   "11:56": {
     "sections": [
       {

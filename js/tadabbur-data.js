@@ -21571,6 +21571,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The messenger was sent to warn, not to bring the punishment. Leave outcomes with Allah, and remember that nobody, yourself included, slips out of His reach.",
     "lessonBn": "রাসূলের কাজ ছিল সতর্ক করা, শাস্তি এনে দেওয়া নয়। ফলাফল আল্লাহর হাতে ছেড়ে দিন, আর মনে রাখুন, আপনি নিজেও তাঁর নাগালের বাইরে যেতে পারবেন না।"
+  },
+  "11:49": {
+    "reflectionEn": "The story of Nuh (AS) runs for twenty-four verses: the warning, the mockery, the ark, the wave that took his son, the earth told to swallow its water. Then the Qur'an turns to the one hearing it. This is news of the unseen; you did not know it, neither you nor your people, before this. So be patient; the end belongs to those who are mindful of Allah. Nuh (AS) waited through the long years of mockery, and the outcome came all the same. I am told the end of his story while I am still in the middle of mine. When the people around me mock what I hold to, or the work seems to go nowhere, do I remember that the end has already been told?",
+    "reflectionBn": "নূহ (আঃ)-এর কাহিনি চলেছে চব্বিশটি আয়াত জুড়ে। সতর্কবাণী, ঠাট্টা-বিদ্রূপ, নৌকা, যে ঢেউ তাঁর ছেলেকে নিয়ে গেল, পানি গিলে নিতে জমিনের প্রতি হুকুম। তারপর কুরআন ফিরে তাকায় শ্রোতার দিকে। এ হলো অদৃশ্যের খবর। এর আগে তুমি তা জানতে না, তোমার জাতিও জানত না। কাজেই ধৈর্য ধরো, শেষ পরিণাম মুত্তাকীদেরই। নূহ (আঃ) বিদ্রূপের দীর্ঘ বছরগুলো পার করেছেন অপেক্ষায়, আর পরিণাম ঠিকই এসেছে। তাঁর কাহিনির শেষটা আমাকে জানিয়ে দেওয়া হলো, অথচ আমার নিজের কাহিনি এখনো মাঝপথে। চারপাশের মানুষ যখন আমার বিশ্বাস নিয়ে হাসে, কিংবা কাজটা কোথাও পৌঁছাচ্ছে বলে মনে হয় না, তখন কি মনে রাখি যে শেষটা আগেই বলে দেওয়া হয়েছে?",
+    "pointsEn": [
+      "Where am I being mocked or ignored for doing what is right, and have I started to measure the work by the reaction it gets?",
+      "Which story of the prophets do I know only in outline, and when will I sit with its details as news that was sent to me?",
+      "Is my patience only a wait for the result I want, or is it staying with what Allah asked of me whatever comes?",
+      "What would change in how I carry this week's setback if I truly believed the good end belongs to the mindful?",
+      "Am I among the mindful to whom the promise is made, or am I hoping to share an outcome I have not worked for?"
+    ],
+    "pointsBn": [
+      "ঠিক কাজ করার জন্য কোথায় আমাকে নিয়ে হাসাহাসি হচ্ছে বা আমাকে উপেক্ষা করা হচ্ছে? আর আমি কি লোকের প্রতিক্রিয়া দিয়ে কাজের মূল্য মাপতে শুরু করেছি?",
+      "নবীদের কোন কাহিনি আমি কেবল মোটা দাগে জানি? কবে বসে তার খুঁটিনাটি পড়ব, এই ভেবে যে খবরটা আমার জন্যই পাঠানো?",
+      "আমার ধৈর্য কি শুধু মনের মতো ফলের অপেক্ষা? নাকি যা-ই আসুক, আল্লাহ যা করতে বলেছেন তাতে টিকে থাকা?",
+      "শুভ পরিণাম মুত্তাকীদের, এ কথা সত্যিই বিশ্বাস করলে এ সপ্তাহের ধাক্কাটা আমি কীভাবে সামলাতাম?",
+      "যে মুত্তাকীদের কাছে এ ওয়াদা, আমি কি তাদের একজন? নাকি যে পরিণামের জন্য খাটিনি, তার ভাগ পাওয়ার আশায় বসে আছি?"
+    ],
+    "lessonEn": "The Prophet ﷺ is told how the story of Nuh (AS) ended so that he can hold firm in his own. Patience is steadier when the end is known: it belongs to the mindful.",
+    "lessonBn": "নূহ (আঃ)-এর কাহিনি কীভাবে শেষ হলো, নবী ﷺ-কে তা জানানো হয়েছে, যাতে নিজের পথে তিনি অবিচল থাকেন। শেষটা জানা থাকলে ধৈর্য মজবুত হয়: শেষ পরিণাম মুত্তাকীদের।"
   }
 };
 
