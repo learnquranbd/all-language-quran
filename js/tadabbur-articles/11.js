@@ -307,6 +307,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Verses, One Portrait",
+          "bn": "তিন আয়াতে আঁকা এক ছবি"
+        },
+        "p": [
+          {
+            "en": "Surah Hud has just shown the deniers asking, in 11:8, what is holding back the punishment they were warned of. Then three verses turn to the human being and draw a single portrait. In 11:9 a mercy is tasted and then taken back, and the person is ya'us kafur, despairing and ungrateful. In 11:10 a favour is tasted after harm, and he says the bad times have left him; he is exultant and boastful. In 11:11 comes the exception: those who were patient and did righteous deeds.",
+            "bn": "সূরা হূদ ১১:৮ আয়াতে দেখিয়েছে, অস্বীকারকারীরা জানতে চায়, যে শাস্তির ভয় দেখানো হয়েছিল তা আটকে আছে কিসে। এরপর তিনটি আয়াত মানুষের দিকে ফিরে একটিই ছবি আঁকে। ১১:৯ আয়াতে মানুষকে রহমতের স্বাদ দিয়ে তা আবার তুলে নেওয়া হয়, আর সে হয়ে পড়ে ইয়াঊস কাফূর, হতাশ ও অকৃতজ্ঞ। ১১:১০ আয়াতে কষ্টের পর তাকে নিয়ামতের স্বাদ দেওয়া হয়, আর সে বলে, আমার দুর্দিন কেটে গেছে। তখন সে উল্লসিত, অহংকারী। ১১:১১ আয়াতে আসে ব্যতিক্রম: যারা সবর করেছে আর নেক আমল করেছে।"
+          },
+          {
+            "en": "The two conditions are mirror images, and the commentators who explain one explain the other. At-Tabari reads the mercy of 11:9 as ease of living and breadth of provision that are given and then stripped away, after which the person stays hopeless of Allah's mercy. Ibn Kathir adds that he denies the good of the past, as if he had never seen any. Verse 11:10 turns the same lens the other way, onto the moment of relief.",
+            "bn": "দুটি অবস্থা যেন একে অপরের আয়নায় দেখা ছবি, আর যে তাফসীরকারেরা একটি ব্যাখ্যা করেন, তাঁরাই অন্যটিও করেন। তাবারীর মতে ১১:৯ আয়াতের রহমত হলো জীবনের স্বচ্ছলতা আর রিযিকের প্রশস্ততা। তা দেওয়া হয়, তারপর ছিনিয়ে নেওয়া হয়, আর মানুষটা আল্লাহর রহমত থেকে নিরাশ হয়ে বসে থাকে। ইবন কাসীর যোগ করেন, অতীতের ভালোটুকুও সে অস্বীকার করে, যেন কখনো কোনো ভালো দেখেইনি। ১১:১০ আয়াত একই চোখ ফেরায় উল্টো দিকে, স্বস্তি আসার মুহূর্তটির উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Taste After a Touch",
+          "bn": "ছোঁয়ার পরে স্বাদ"
+        },
+        "p": [
+          {
+            "en": "Wa-la'in adhaqnahu na'ma'a ba'da darra'a massat-hu: and if We let him taste favour after harm has touched him. The verbs are light ones. The favour is a taste and the harm a touch, as though neither were the whole of a life. The two nouns, na'ma' and darra', are built on one pattern, so the gift and the injury stand side by side as states that arrive and pass. The giver of the taste is named, We; the harm is said simply to have touched him.",
+            "bn": "ওয়া লাইন আযাকনাহু না'মাআ বা'দা দাররাআ মাসসাতহু: আর কষ্ট তাকে ছুঁয়ে যাওয়ার পর যদি আমি তাকে নিয়ামতের স্বাদ দিই। ক্রিয়াগুলো হালকা। নিয়ামত শুধু স্বাদ, কষ্ট শুধু ছোঁয়া, যেন কোনোটাই গোটা জীবন নয়। না'মা আর দাররা, বিশেষ্য দুটি একই ছাঁচে গড়া। ফলে দান আর আঘাত পাশাপাশি দাঁড়ায়, দুটোই এমন অবস্থা যা আসে আর চলে যায়। স্বাদ যিনি দেন, তাঁর কথা আয়াতে আছে: আমি। আর কষ্ট সম্পর্কে শুধু বলা হয়েছে, তা তাকে ছুঁয়ে গেছে।"
+          },
+          {
+            "en": "At-Tabari spells out both nouns. The favour is Allah spreading things out for a person in his worldly life, giving him ease in his living and widening his provision. The harm before it is a narrowness of living he had been in and a hardship he had been struggling with. Al-Qurtubi glosses the favour as health, ease and breadth of provision, and the harm as injury, poverty and distress. Al-Baghawi calls the harm an affliction that had struck him.",
+            "bn": "তাবারী দুটি শব্দই খুলে বলেন। নিয়ামত মানে আল্লাহ মানুষের দুনিয়ার জীবনে প্রশস্ততা দেন, জীবনযাত্রা সহজ করেন, রিযিক বাড়িয়ে দেন। আর তার আগের কষ্ট হলো জীবনের এমন সংকীর্ণতা, যার মধ্যে সে ছিল, আর এমন টানাটানি, যার সঙ্গে সে লড়ছিল। কুরতুবী নিয়ামতের অর্থ করেন সুস্থতা, স্বচ্ছলতা আর রিযিকের প্রশস্ততা। কষ্টের অর্থ করেন ক্ষতি, দারিদ্র্য আর দুরবস্থা। বাগাভী কষ্টকে বলেন এমন বিপদ, যা তার উপর এসে পড়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi also records a note on the closing pair. Fakhur is the intensive form: a man is fakhir when he boasts, and fakhur when he does so to excess. On farih he cites Ya'qub the Qur'an reciter, who said that some people of Madinah read it with a damma on the ra', on the pattern of words such as fatun and hadhur.",
+            "bn": "শেষের শব্দজোড়া নিয়েও কুরতুবী একটি কথা লিখে রেখেছেন। ফাখূর হলো আধিক্য বোঝানোর রূপ। কেউ বড়াই করলে তাকে বলা হয় ফাখির, আর মাত্রা ছাড়িয়ে গেলে ফাখূর। ফারিহ শব্দ সম্পর্কে তিনি কারী ইয়া'কূবের বর্ণনা আনেন: মদীনার কিছু মানুষ রা-তে পেশ দিয়ে পড়তেন, যেমন ফাতুন, হাযুর ধরনের শব্দে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sentence With No Giver",
+          "bn": "যে বাক্যে দাতার নাম নেই"
+        },
+        "p": [
+          {
+            "en": "Then the sentence itself: dhahaba as-sayyi'atu 'anni, the bad things have gone from me. At-Tabari paraphrases it as the narrowness and the hardship have left me, and the adversities and hateful things have passed. Al-Qurtubi explains the sayyi'at here as the things that grieve the person they befall, namely harm and poverty. Ibn Kathir hears a promise the man makes to himself: nothing unjust and nothing bad will reach me after this. As-Sa'di adds that he assumes the good will last.",
+            "bn": "এরপর আসে বাক্যটি: যাহাবাস সাইয়িআতু আন্নী, খারাপগুলো আমার কাছ থেকে চলে গেছে। তাবারী এর ব্যাখ্যা করেন এভাবে: টানাটানি আর অভাব আমাকে ছেড়ে গেছে, বিপদ আর অপ্রিয় সব কিছু কেটে গেছে। কুরতুবীর মতে এখানে সাইয়িআত মানে সেসব জিনিস, যা মানুষকে কষ্ট দেয়, অর্থাৎ ক্ষতি আর দারিদ্র্য। ইবন কাসীর বাক্যটির ভেতরে শোনেন নিজের কাছে নিজের দেওয়া এক প্রতিশ্রুতি: এরপর আর কোনো অন্যায় বা মন্দ আমাকে ছোঁবে না। সা'দী যোগ করেন, সে ধরে নেয় এই সুদিন চিরকাল থাকবে।"
+          },
+          {
+            "en": "Nothing in the sentence is false. The hardship did leave. What the commentators fault is what the sentence leaves out. In its grammar the bad things are the ones that went, of their own accord, and no one is named as having sent them away. Ibn Jurayj, in at-Tabari's chain, says the man speaks this way out of delusion about Allah and boldness against Him, and that he boasts after he has been given, while not thanking Allah. Al-Qurtubi says he forgets to thank Allah for it.",
+            "bn": "বাক্যটিতে মিথ্যা কিছু নেই। কষ্ট সত্যিই চলে গেছে। তাফসীরকারেরা দোষ ধরেন অন্য জায়গায়, বাক্যটা যা বাদ দিয়েছে সেখানে। বাক্যের গঠনে খারাপগুলোই নিজে নিজে চলে গেছে, আর কে সেগুলো সরিয়ে দিলেন, তাঁর নাম কোথাও নেই। তাবারীর সনদে ইবন জুরাইজ বলেন, মানুষটা এ কথা বলে আল্লাহ সম্পর্কে ধোঁকায় পড়ে আর তাঁর বিরুদ্ধে দুঃসাহস দেখিয়ে। তাকে দান করা হয়েছে, আর তারপর সে বড়াই করে, অথচ আল্লাহর শুকরিয়া আদায় করে না। কুরতুবী বলেন, এর জন্য আল্লাহর শুকরিয়া আদায় করতে সে ভুলে যায়।"
+          },
+          {
+            "en": "At-Tabari widens the forgetting. The boaster forgets the turns of worldly fortune and the hardships that are part of it, and he stops seeking the bliss that remains and the joy that lasts and does not fade. Ma'arif al-Qur'an, on 11:9 and 11:10 together, says such a person forgets his past and comes to think of Allah's blessings as his right. It sets against him the mark of an intelligent person, who looks past the causes to Him who causes them.",
+            "bn": "তাবারী এই ভুলে যাওয়াকে আরও বড় করে দেখান। বড়াইকারী ভুলে যায় দুনিয়ার ভাগ্য কেমন ঘুরে যায়, আর এর ভেতরের কষ্টগুলোর কথাও। যে নিয়ামত টিকে থাকে, যে আনন্দ চিরকাল থাকে আর ফুরায় না, তার খোঁজও সে ছেড়ে দেয়। মাআরিফুল কুরআন ১১:৯ ও ১১:১০ আয়াত একসঙ্গে আলোচনা করে বলে, এমন মানুষ নিজের অতীত ভুলে যায়। সে ভাবতে শুরু করে, আল্লাহর নিয়ামতগুলো যেন তার পাওনা। এর বিপরীতে মাআরিফ বুদ্ধিমান মানুষের চিহ্ন বলে দেয়: সে কারণগুলোর ওপারে তাকায়, তাঁর দিকে, যিনি কারণগুলো ঘটান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Joy With and Without Its Object",
+          "bn": "কিসের আনন্দ, সেটাই আসল কথা"
+        },
+        "p": [
+          {
+            "en": "Innahu la-farihun fakhur: he is exultant and boastful. Al-Baghawi defines the two words. Farah is a pleasure in the heart at gaining what a person desires; fakhr is lording it over people by counting up his own merits, and that is forbidden. At-Tabari has the man delighted with the blessings he is given, and boastful of the breadth he gained in the world. Ibn Kathir has him rejoicing in what is in his hand, insolent, and boasting over others. The Muyassar adds that he goes to extremes in rising above people.",
+            "bn": "ইন্নাহু লা ফারিহুন ফাখূর: সে উল্লসিত, অহংকারী। বাগাভী শব্দ দুটির সংজ্ঞা দেন। ফারাহ হলো কাঙ্ক্ষিত জিনিস পেয়ে মনের ভেতরের আনন্দ। আর ফাখর হলো নিজের গুণের ফিরিস্তি দিয়ে মানুষের উপর মাথা উঁচু করা, যা নিষিদ্ধ। তাবারীর বর্ণনায় মানুষটা যে নিয়ামত পেয়েছে তাতে খুশিতে মেতে থাকে, আর দুনিয়ায় পাওয়া প্রশস্ততা নিয়ে বড়াই করে। ইবন কাসীরের বর্ণনায় সে হাতের জিনিস নিয়ে উল্লাস করে, দম্ভ দেখায়, অন্যদের উপর বড়াই করে। মুয়াসসার যোগ করে, মানুষের উপর নিজেকে তুলে ধরতে সে সীমা ছাড়িয়ে যায়।"
+          },
+          {
+            "en": "As-Sa'di traces where this leads. The man rejoices in what he was given that suits his own desires, and boasts with Allah's blessings over Allah's servants. That carries him into insolence and self-admiration, into arrogance towards people, and into looking down on them and holding them in contempt. Then as-Sa'di asks: and what fault is worse than this? The blessing itself was never the problem. The problem is the use the man makes of it, as a step from which to look down.",
+            "bn": "এ পথ কোথায় গিয়ে থামে, সা'দী তা দেখান। মানুষটা এমন জিনিস পেয়ে খুশি হয়, যা তার মনের চাহিদার সঙ্গে মেলে। আর আল্লাহর নিয়ামত নিয়ে আল্লাহরই বান্দাদের উপর বড়াই করে। এই বড়াই তাকে টেনে নেয় দম্ভ আর আত্মমুগ্ধতার দিকে, মানুষের উপর অহংকারের দিকে, তাদের তুচ্ছ আর হেয় করার দিকে। তারপর সা'দী প্রশ্ন রাখেন: এর চেয়ে বড় দোষ আর কী হতে পারে? নিয়ামত নিজে কখনো সমস্যা ছিল না। সমস্যা হলো মানুষটা নিয়ামতকে বানায় উঁচু এক ধাপ, যেখান থেকে অন্যদের দিকে নিচু চোখে তাকানো যায়।"
+          },
+          {
+            "en": "Yet joy is commanded elsewhere. In 10:58 the Qur'an says: in the bounty of Allah and in His mercy, in that let them rejoice. Al-Qurtubi, commenting there, names this verse. Joy is blamed in places such as 'do not exult; Allah does not like the exultant' (28:76) and 'he is exultant and boastful', but there it stands unqualified. Once joy is tied to its object it is no blame, as in 3:170, rejoicing in what Allah has given them of His bounty. As-Sa'di, on 10:58, likewise praises joy in His bounty and blames joy in worldly pleasures.",
+            "bn": "অথচ অন্য জায়গায় আনন্দ করার নির্দেশ এসেছে। ১০:৫৮ আয়াতে কুরআন বলে: আল্লাহর অনুগ্রহ আর তাঁর রহমত নিয়ে, ঠিক এ নিয়েই তারা আনন্দ করুক। কুরতুবী সেখানে ব্যাখ্যা করতে গিয়ে এ আয়াতের নাম নেন। কিছু জায়গায় আনন্দের নিন্দা এসেছে, যেমন ২৮:৭৬ আয়াতে: উল্লাস কোরো না, আল্লাহ উল্লাসকারীদের ভালোবাসেন না। আর এখানে: সে উল্লসিত, অহংকারী। কিন্তু এসব জায়গায় আনন্দ শর্তহীন। আনন্দকে যখন তার বিষয়ের সঙ্গে বাঁধা হয়, তখন আর নিন্দা থাকে না, যেমন ৩:১৭০ আয়াতে: আল্লাহ নিজ অনুগ্রহে যা দিয়েছেন, তা নিয়ে তারা আনন্দিত। সা'দীও ১০:৫৮ আয়াতে আল্লাহর অনুগ্রহ নিয়ে আনন্দের প্রশংসা করেন, আর নিন্দা করেন দুনিয়ার ভোগ নিয়ে আনন্দের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disbeliever, or Every Human",
+          "bn": "কাফির, নাকি সব মানুষ"
+        },
+        "p": [
+          {
+            "en": "The commentators differ over who al-insan is. Al-Qurtubi, on 11:9, calls it a noun spread as a genus over all the disbelievers. Ibn Jurayj, quoted by at-Tabari under 11:9, addresses the son of Adam who is ungrateful in ease and hopeless when ease is withdrawn, then ends: such is the hypocrite and the disbeliever. Al-Qurtubi, on 11:11, reports al-Akhfash calling the exception not taken from the first group, meaning: but those who were patient. On this reading the believers were never inside the portrait.",
+            "bn": "আল-ইনসান বলতে কাকে বোঝানো হয়েছে, এ নিয়ে তাফসীরকারদের মতভেদ আছে। কুরতুবী ১১:৯ আয়াতে বলেন, শব্দটি জাতিবাচক, আর তা সব কাফিরের উপর ছড়িয়ে আছে। তাবারী ১১:৯ আয়াতের অধীনে ইবন জুরাইজের কথা আনেন। তিনি আদমসন্তানকে সম্বোধন করেন, যে স্বচ্ছলতায় অকৃতজ্ঞ আর স্বচ্ছলতা চলে গেলে নিরাশ। তারপর শেষ করেন এভাবে: মুনাফিক আর কাফির এমনই হয়। কুরতুবী ১১:১১ আয়াতে আখফাশের মত আনেন: এই ব্যতিক্রম প্রথম দলের ভেতর থেকে নয়, অর্থাৎ, তবে যারা সবর করেছে। এ পাঠ অনুযায়ী মুমিনরা কখনো এই ছবির ভেতরে ছিলেন না।"
+          },
+          {
+            "en": "Others read the human type in general. At-Tabari, on 11:10, says the exception works because al-insan carries the sense of the genus and of the plural, just as in 103:2 and 103:3. Al-Qurtubi reports al-Farra' as taking the exception from al-insan, meaning people, who include believer and disbeliever, and calls that good; al-Baghawi, however, quotes al-Farra' as calling it disconnected. As-Sa'di says this is the nature of the human as such, except whoever Allah grants success, and Ibn Kathir excepts the believing servants on whom Allah has mercy.",
+            "bn": "অন্যরা পড়েন সাধারণভাবে মানুষের স্বভাব হিসেবে। তাবারী ১১:১০ আয়াতে বলেন, ব্যতিক্রমটা খাটে কারণ আল-ইনসান শব্দে জাতি আর বহুবচন দুটোরই অর্থ আছে, ঠিক যেমন ১০৩:২ ও ১০৩:৩ আয়াতে। কুরতুবী ফাররার মত আনেন যে ব্যতিক্রমটা আল-ইনসান থেকেই, যার অর্থ মানুষ, আর তাতে মুমিন ও কাফির দুজনেই আছে। কুরতুবী এ মতকে ভালো বলেন। অথচ বাগাভী ফাররার নামেই উল্টোটা আনেন, ব্যতিক্রমটা বিচ্ছিন্ন। সা'দী বলেন, এ হলো মানুষের স্বভাব, তবে আল্লাহ যাকে তাওফীক দেন সে আলাদা। ইবন কাসীর ব্যতিক্রম করেন আল্লাহর সেই মুমিন বান্দাদের, যাদের উপর তিনি রহম করেন।"
+          },
+          {
+            "en": "Al-Qurtubi also records, with the words it is said, that the human here is al-Walid ibn al-Mughira and the verse came down about him, and, with it has been said, 'Abdullah ibn Abi Umayya al-Makhzumi. He gives no chain, so this article builds nothing on either name. On either reading the verse describes a pattern in the heart. It passes no verdict on any living person or community; it asks the reader to look for the pattern in himself.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে আরও আনেন যে এখানে মানুষ মানে ওয়ালীদ ইবনুল মুগীরা, আর আয়াতটি তার সম্পর্কেই নাযিল হয়েছে। 'আরও বলা হয়েছে' দিয়ে আনেন আব্দুল্লাহ ইবন আবী উমাইয়া আল-মাখযূমীর নাম। তিনি কোনো সনদ দেননি, তাই এ লেখা এর কোনো নামের উপর কিছু দাঁড় করায় না। যে পাঠই নেওয়া হোক, আয়াতটি মনের এক ধরনের অভ্যাসের ছবি আঁকে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো রায় দেয় না। বরং পাঠককে বলে, এই অভ্যাস নিজের ভেতরে খুঁজে দেখুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Steady in Both Seasons",
+          "bn": "দুই মৌসুমেই অবিচল"
+        },
+        "p": [
+          {
+            "en": "Illa alladhina sabaru wa-'amilu as-salihat: except those who were patient and did righteous deeds; for them is forgiveness and a great reward. Ibn Kathir divides the two qualities between the two conditions. They are patient in hardships and adversities, and they do righteous deeds in ease and wellbeing. Their forgiveness answers the harm that struck them, and their great reward answers what they sent ahead in the days of ease. Ibn Jurayj, in at-Tabari, adds that the great reward is Paradise.",
+            "bn": "ইল্লাল্লাযীনা সাবারূ ওয়া আমিলুস সালিহাত: তবে যারা সবর করেছে আর নেক আমল করেছে, তাদের জন্য আছে মাগফিরাত আর বিরাট প্রতিদান। ইবন কাসীর গুণ দুটিকে দুই অবস্থায় ভাগ করে দেন। কঠিন সময় আর বিপদে তারা সবর করে। আর স্বচ্ছলতা ও সুস্থতার দিনে তারা নেক আমল করে। যে কষ্ট তাদের উপর এসেছিল, তার বিনিময়ে মাগফিরাত। আর সুদিনে যা আগে পাঠিয়ে রেখেছে, তার বিনিময়ে বিরাট প্রতিদান। তাবারীর বর্ণনায় ইবন জুরাইজ যোগ করেন, বিরাট প্রতিদান মানে জান্নাত।"
+          },
+          {
+            "en": "At-Tabari makes the exception answer both verses at once. If hardship comes to them, it does not turn them from obeying Allah; they stay patient with His command and His decree. If they gain ease and breadth, they thank Him and pay what they owe from what He gave. As-Sa'di is sharper: they held themselves patient in harm, so they did not despair, and in ease, so they did not grow insolent. Al-Baghawi: when hardship reaches them they are patient, and when blessing reaches them they give thanks.",
+            "bn": "তাবারী দেখান, ব্যতিক্রমটা একসঙ্গে দুটি আয়াতেরই জবাব। কষ্ট এলে তা তাদের আল্লাহর আনুগত্য থেকে ফেরাতে পারে না। তাঁর হুকুম আর ফয়সালার উপর তারা সবর করে। স্বচ্ছলতা আর প্রশস্ততা পেলে তারা তাঁর শুকরিয়া আদায় করে, আর তিনি যা দিয়েছেন তা থেকে তাঁর হক আদায় করে। সা'দীর কথা আরও ধারালো: কষ্টের সময় তারা নিজেদের সবরে ধরে রেখেছে, তাই নিরাশ হয়নি। সুদিনেও নিজেদের ধরে রেখেছে, তাই দম্ভে মাতেনি। বাগাভীর কথায়: কষ্ট এলে তারা সবর করে, নিয়ামত এলে শুকরিয়া আদায় করে।"
+          },
+          {
+            "en": "Under 11:11 Ibn Kathir cites a narration to this effect. In the wording of Sahih Muslim (2999), Suhayb reports that the Messenger of Allah ﷺ said: 'How wonderful is the affair of the believer! All of his affair is good, and that is for no one except the believer. If something pleasing befalls him, he gives thanks, and that is good for him. If harm befalls him, he is patient, and that is good for him.' Muslim placed it in his Sahih. It is not a report about this verse's revelation, and no fetched commentary attaches a hadith to 11:10 itself.",
+            "bn": "ইবন কাসীর ১১:১১ আয়াতের অধীনে এ অর্থের একটি বর্ণনা আনেন। সহীহ মুসলিমের (২৯৯৯) ভাষ্যে সুহাইব (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: 'মুমিনের ব্যাপারটা কত আশ্চর্য! তার সব কিছুই কল্যাণ, আর মুমিন ছাড়া আর কারও এমন হয় না। খুশির কিছু ঘটলে সে শুকরিয়া আদায় করে, আর তা তার জন্য কল্যাণ। কষ্ট এলে সে সবর করে, আর তা-ও তার জন্য কল্যাণ।' ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন। এটি এ আয়াত নাযিলের কোনো বর্ণনা নয়। আর সংগ্রহ করা কোনো তাফসীর ১১:১০ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Portrait Drawn Again",
+          "bn": "একই ছবি, অন্য জায়গায়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment on 11:11 with two passages that draw the same shape. In 70:19 to 70:22, mankind was created anxious: impatient when evil touches him, withholding when good touches him, except those who pray. The verb of touching is the one used here. In 103:2 and 103:3, mankind is in loss, except those who believed, did righteous deeds, and urged one another to truth and to patience.. Each time the portrait is general, and each time an exception is named.",
+            "bn": "ইবন কাসীর ১১:১১ আয়াতের আলোচনা শেষ করেন আরও দুটি অংশ এনে, যেগুলো একই ছক আঁকে। ৭০:১৯ থেকে ৭০:২২ আয়াতে বলা হয়েছে, মানুষকে সৃষ্টি করা হয়েছে অস্থির করে। মন্দ তাকে ছুঁলে সে হা-হুতাশ করে, ভালো ছুঁলে সে কৃপণ হয়, তবে নামাযীরা ছাড়া। ছোঁয়ার ক্রিয়াটি এখানেও সেটাই। ১০৩:২ ও ১০৩:৩ আয়াতে মানুষ ক্ষতির মধ্যে আছে, তবে তারা ছাড়া যারা ঈমান এনেছে, নেক আমল করেছে, আর একে অপরকে হক ও সবরের উপদেশ দিয়েছে। প্রতিবারই ছবিটা সাধারণ, আর প্রতিবারই একটি ব্যতিক্রমের নাম আছে।"
+          },
+          {
+            "en": "Ibn Jurayj glosses 'he is exultant' with the words Allah does not like the exultant, which are spoken to Qarun by his people in 28:76, and as-Sa'di cites the same verse for blameworthy joy. Qarun's own answer in 28:78 is the sentence of 11:10 at full size: I was only given it because of knowledge I have. That is a story the Qur'an tells about one man; it licenses no judgement on any living person, wealthy or otherwise.",
+            "bn": "ইবন জুরাইজ 'সে উল্লসিত' কথাটির ব্যাখ্যা দেন এই বাক্যে: আল্লাহ উল্লাসকারীদের ভালোবাসেন না। ২৮:৭৬ আয়াতে কারূনের সম্প্রদায় তাকে এ কথাই বলেছিল। সা'দীও নিন্দিত আনন্দের উদাহরণ হিসেবে এই আয়াত আনেন। ২৮:৭৮ আয়াতে কারূনের জবাব যেন ১১:১০ আয়াতের বাক্যেরই পূর্ণ রূপ: আমাকে এটা দেওয়া হয়েছে আমার নিজের জ্ঞানের কারণে। এ কাহিনি কুরআন একজন ব্যক্তি সম্পর্কে বলেছে। জীবিত কোনো মানুষ, ধনী হোক বা না হোক, তার বিরুদ্ধে রায় দেওয়ার অনুমতি এটি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming the Giver Aloud",
+          "bn": "দাতার নাম মুখে আনা"
+        },
+        "p": [
+          {
+            "en": "The verse locates the test in a single sentence, the first one spoken after relief. So the practice starts there. When a hardship lifts, say what happened with the Giver in it: Allah removed this, praise be to Him. Then remember the hardship on purpose. Ma'arif al-Qur'an observes that the heedless never stop to think that the days of comfort could pass just as the days of suffering did. The memory of need keeps the present blessing in its true place, as a gift.",
+            "bn": "আয়াতটি পরীক্ষাকে রেখেছে একটি বাক্যের ভেতরে, স্বস্তির পর মুখ থেকে বের হওয়া প্রথম বাক্যে। তাই অনুশীলনও সেখান থেকেই শুরু। কোনো কষ্ট কেটে গেলে যা ঘটেছে তা বলুন দাতার নাম জুড়ে দিয়ে: আল্লাহ এটা সরিয়ে দিয়েছেন, সব প্রশংসা তাঁর। তারপর ইচ্ছা করে সেই কষ্টের কথা মনে রাখুন। মাআরিফুল কুরআন লক্ষ করে, গাফিল মানুষ কখনো ভাবে না যে কষ্টের দিনগুলো যেমন চলে গেছে, সুখের দিনগুলোও তেমনি চলে যেতে পারে। অভাবের স্মৃতি বর্তমানের নিয়ামতকে রাখে তার আসল জায়গায়, দান হিসেবে।"
+          },
+          {
+            "en": "Next, watch how the blessing is spoken of in company. As-Sa'di's warning is about boasting with Allah's blessings over Allah's servants, so the question is whether a gift is being shared or used to rank. Finally, keep the deeds going while things are easy. Ibn Kathir ties the great reward to what the patient sent ahead in the days of ease. The same person will meet both 11:9 and 11:10 in one life; the exception asks for one character that is patient in the first and grateful in the second.",
+            "bn": "এরপর খেয়াল রাখুন, মানুষের সামনে নিয়ামতের কথা কীভাবে বলছেন। সা'দীর সতর্কবাণী হলো আল্লাহর নিয়ামত নিয়ে আল্লাহরই বান্দাদের উপর বড়াই করা নিয়ে। তাই প্রশ্নটা হলো, দানটা কি ভাগ করে নেওয়া হচ্ছে, নাকি তা দিয়ে নিজেকে উপরে বসানো হচ্ছে। শেষে, সুদিনেও আমল চালু রাখুন। ইবন কাসীর বিরাট প্রতিদানকে জুড়ে দেন সেই আমলের সঙ্গে, যা ধৈর্যশীলরা স্বচ্ছলতার দিনে আগে পাঠিয়ে রেখেছে। একই মানুষ এক জীবনেই ১১:৯ আর ১১:১০ দুটি আয়াতেরই মুখোমুখি হবে। ব্যতিক্রমটি চায় একটিই চরিত্র, যে প্রথমটিতে সবর করে আর দ্বিতীয়টিতে শুকরিয়া আদায় করে।"
+          }
+        ]
+      }
+    ]
+  },
   "11:12": {
     "sections": [
       {

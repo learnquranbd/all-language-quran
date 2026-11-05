@@ -21531,6 +21531,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "State what you worship plainly when others doubt it, without bargaining and without force. Their doubt is theirs to resolve; your firmness is yours to keep before Allah.",
     "lessonBn": "অন্যরা সন্দেহ করলে আপনি কার ইবাদত করেন তা সোজা কথায় বলে দিন, দরদাম ছাড়া, জোর ছাড়া। তাদের সন্দেহের মীমাংসা তাদের কাজ, আর আল্লাহর সামনে নিজের দৃঢ়তা ধরে রাখা আপনার কাজ।"
+  },
+  "11:10": {
+    "reflectionEn": "Hardship touches a person, and then it lifts. What do we say first? This verse records the sentence: the bad times have left me. Nothing in it is false. The hardship really did leave. What is missing is the One who removed it. The relief is spoken of like weather that passed, and the person who walked out of it begins to rejoice in what is in his hand and to carry himself above others. The verse before shows the same heart giving up when a blessing is taken back, and the verse after names those who are spared both: the patient who keep doing good. When ease returns to me, whom do I name first? And how long before I forget I was ever in need?",
+    "reflectionBn": "কষ্ট এসে মানুষকে ছুঁয়ে যায়, তারপর একদিন সরে যায়। তখন আমাদের মুখে প্রথম কোন কথাটা আসে? এ আয়াত সেই কথাটাই তুলে রেখেছে: আমার দুর্দিন কেটে গেছে। কথাটায় মিথ্যা কিছু নেই। কষ্ট সত্যিই চলে গেছে। কিন্তু যিনি কষ্টটা সরালেন, তাঁর নাম কোথাও নেই। স্বস্তির কথা বলা হচ্ছে এমনভাবে, যেন খারাপ আবহাওয়া নিজে নিজেই কেটে গেছে। আর যে মানুষটা সেখান থেকে বেরিয়ে এল, সে হাতের জিনিস নিয়ে মেতে ওঠে, অন্যদের উপর নিজেকে বড় করে দেখাতে শুরু করে। আগের আয়াতে দেখা যায়, নিয়ামত কেড়ে নিলে এই একই মন হাল ছেড়ে দেয়। পরের আয়াত জানায়, দুই বিপদ থেকেই কারা বাঁচে: যারা সবর করে আর নেক আমল চালিয়ে যায়। সুদিন ফিরে এলে আমি প্রথমে কার নাম নিই? আর কত দিন লাগে ভুলে যেতে যে একসময় আমিও অভাবে ছিলাম?",
+    "pointsEn": [
+      "When something hard in my life last lifted, what were my first words, and was Allah's name in them?",
+      "Do I speak of my good times as something I earned or something that simply happened, rather than something given?",
+      "Is there a blessing I now display in a way that makes someone else feel smaller?",
+      "Which hardship from my past have I stopped remembering, now that it is over?",
+      "In my present ease, what good deed would show that I have not forgotten who gave it?"
+    ],
+    "pointsBn": [
+      "জীবনের কোনো কঠিন সময় শেষবার যখন কেটে গেল, আমার মুখের প্রথম কথাগুলো কী ছিল? তাতে কি আল্লাহর নাম ছিল?",
+      "আমার সুদিনের কথা বলার সময় আমি কি সেটাকে নিজের কামাই বা নিছক ঘটে যাওয়া কিছু বলে ধরি, দান হিসেবে নয়?",
+      "এমন কোনো নিয়ামত কি আছে, যা আমি এমনভাবে দেখাই যে পাশের মানুষটা নিজেকে ছোট মনে করে?",
+      "অতীতের কোন কষ্টের কথা আমি আর মনে করি না, শুধু এজন্য যে সেটা এখন শেষ?",
+      "এখনকার স্বস্তির মধ্যে কোন নেক আমলটা প্রমাণ করবে যে কে দিয়েছেন, তা আমি ভুলিনি?"
+    ],
+    "lessonEn": "When hardship lifts, name the One who lifted it. Rejoice in His gift without boasting over others, and keep being patient and doing good in ease as in difficulty.",
+    "lessonBn": "কষ্ট কেটে গেলে যিনি কাটালেন, তাঁর নাম নিন। তাঁর দানে খুশি হোন, কিন্তু অন্যের উপর বড়াই করবেন না। কষ্টে যেমন, সুদিনেও তেমনি সবর আর নেক আমল ধরে রাখুন।"
   }
 };
 
