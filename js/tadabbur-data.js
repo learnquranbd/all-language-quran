@@ -22411,6 +22411,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give from what Allah has provided you, in secret and in the open, and never set beside Him anything that owns nothing and can give nothing.",
     "lessonBn": "আল্লাহ যা দিয়েছেন, তা থেকে গোপনে ও প্রকাশ্যে দান করুন, আর যার নিজের কিছুই নেই, কিছু দিতেও পারে না, তাকে কখনো তাঁর পাশে দাঁড় করাবেন না।"
+  },
+  "16:88": {
+    "reflectionEn": "The scene of the Day has been building: witnesses raised, excuses refused, false partners disowning those who called on them. Then this verse sorts the deniers. Some disbelieved. Others disbelieved and also stood in the road, turning people back from the way of Allah. For them the punishment does not stay level; it is increased, punishment above punishment, for the corruption they kept spreading. The verse speaks of them and names no one alive. Yet its question reaches every reader, because the way to Allah is something I can make harder for someone else as well as for myself. A mocking word to someone who has just begun to pray, a habit my children copy, a door I quietly close: whose road have I narrowed?",
+    "reflectionBn": "কিয়ামতের দৃশ্য ধাপে ধাপে এগোচ্ছিল। প্রত্যেক জাতির সাক্ষী দাঁড়িয়েছে, অজুহাতের সুযোগ মেলেনি, যাদের শরিক বানানো হয়েছিল তারাই পূজারিদের অস্বীকার করেছে। এবার এ আয়াত অস্বীকারকারীদের মধ্যে ভাগ করে দেয়। কেউ কুফরি করেছে। আর কেউ কুফরি করার পর পথ আগলেও দাঁড়িয়েছে, মানুষকে আল্লাহর পথ থেকে ফিরিয়ে দিয়েছে। তাদের শাস্তি এক জায়গায় থেমে থাকে না, শাস্তির উপর শাস্তি বাড়ে, কারণ তারা ফাসাদ ছড়িয়েই চলত। আয়াতটি তাদের কথা বলে, জীবিত কারও নাম নেয় না। তবু এর প্রশ্ন প্রত্যেক পাঠকের কাছে পৌঁছায়। আল্লাহর পথ আমি নিজের জন্য যেমন কঠিন করতে পারি, অন্যের জন্যও পারি। সদ্য নামাজ ধরেছে এমন কাউকে ঠাট্টা, আমার যে অভ্যাস সন্তানেরা দেখে শেখে, চুপচাপ বন্ধ করে দেওয়া কোনো দরজা। কার পথ আমি সরু করে দিয়েছি?",
+    "pointsEn": [
+      "Is there someone who has started moving towards Allah whom my words or my mood have made it harder to keep going?",
+      "What do the people who watch me, my children, colleagues and friends, learn about prayer and honesty from what I actually do?",
+      "When someone near me tries to do good, am I the one who clears the way or the one who raises the first objection?",
+      "If the wrong a person spreads can follow them in their account, what good could I begin that would go on being counted after me?",
+      "When I read a verse like this, do I picture other people in it, or do I look first for myself?"
+    ],
+    "pointsBn": [
+      "কেউ কি আল্লাহর দিকে এগোতে শুরু করেছে, আর আমার কথা বা মেজাজের কারণে তার পক্ষে টিকে থাকা কঠিন হয়ে পড়েছে?",
+      "যারা আমাকে দেখে, আমার সন্তান, সহকর্মী, বন্ধু, তারা আমার আসল আচরণ থেকে নামাজ আর সততার ব্যাপারে কী শিখছে?",
+      "আমার আশপাশে কেউ ভালো কিছু করতে চাইলে আমি কি পথ খুলে দিই, নাকি প্রথম আপত্তিটা আমিই তুলি?",
+      "মানুষ যে অন্যায় ছড়ায় তা যদি তার হিসাবের খাতায় যোগ হতে থাকে, তবে এমন কোন ভালো কাজ আমি শুরু করতে পারি, যার নেকি আমার পরেও জমা হতে থাকবে?",
+      "এমন আয়াত পড়ার সময় আমি কি অন্য মানুষের ছবি দেখি, নাকি আগে নিজেকে খুঁজি?"
+    ],
+    "lessonEn": "Never stand between anyone and the way of Allah. Turning others back is weighed more heavily than straying alone, so make the road easier for those around you.",
+    "lessonBn": "আল্লাহর পথে কারও সামনে বাধা হয়ে দাঁড়াবেন না। একা পথ হারানোর চেয়ে অন্যকে ফিরিয়ে দেওয়ার ভার বেশি, তাই আশপাশের মানুষের জন্য পথটা সহজ করে দিন।"
   }
 };
 

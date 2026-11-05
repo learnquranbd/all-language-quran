@@ -2799,6 +2799,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:88": {
+    "sections": [
+      {
+        "h": {
+          "en": "Singled Out From the Crowd",
+          "bn": "ভিড়ের ভেতর আলাদা একদল"
+        },
+        "p": [
+          {
+            "en": "An-Nahl has been describing the Day in a run of scenes. In 16:84 a witness is raised from every nation, and those who disbelieved are given no leave to excuse themselves. In 16:85 the wrongdoers see the punishment, and it is not lightened for them, nor are they given respite. In 16:86 and 16:87 the partners they used to invoke throw their words back at them, and they offer Allah their submission while everything they invented deserts them. The next verse takes this crowd of deniers and singles out a group within it.",
+            "bn": "সূরা নাহল কিয়ামতের দিনের ছবি আঁকছিল একের পর এক দৃশ্যে। ১৬:৮৪ আয়াতে প্রত্যেক জাতি থেকে একজন সাক্ষী দাঁড় করানো হয়, আর কাফিরদের অজুহাত পেশ করার অনুমতি দেওয়া হয় না। ১৬:৮৫ আয়াতে জালিমরা শাস্তি চোখে দেখে। তা কমানো হয় না, সময়ও দেওয়া হয় না। ১৬:৮৬ ও ১৬:৮৭ আয়াতে যাদের তারা ডাকত, সেই শরিকরাই তাদের কথা তাদের মুখের উপর ছুঁড়ে ফেরত দেয়। তারা আল্লাহর কাছে আত্মসমর্পণ করে, আর নিজেদের বানানো সবকিছু তাদের ছেড়ে হারিয়ে যায়। পরের আয়াত এই অস্বীকারকারীদের ভিড় থেকে একটি দলকে আলাদা করে দেখায়।"
+          },
+          {
+            "en": "The turn sits in a few words. Where 16:85 said the punishment would not be lightened, 16:88 says it will be increased: zidnahum 'adhaban fawqa l-'adhab, We will add to them punishment above the punishment. The subject is no longer simply those who disbelieved. It is alladhina kafaru wa-saddu 'an sabili llah, those who disbelieved and turned others from the way of Allah. The closing clause gives the cause, bima kanu yufsidun, for the corruption they used to work.",
+            "bn": "মোড়টা এসেছে অল্প কয়েকটি শব্দে। ১৬:৮৫ আয়াত বলেছিল, শাস্তি হালকা করা হবে না। আর ১৬:৮৮ বলছে, তা বাড়ানো হবে: যিদনাহুম আযাবান ফাওকাল আযাব, আমি তাদের শাস্তির উপর শাস্তি বাড়িয়ে দেব। এখানে কথা আর শুধু কাফিরদের নিয়ে নয়। কথা হচ্ছে আল্লাযীনা কাফারূ ওয়া সাদ্দূ আন সাবীলিল্লাহ নিয়ে, অর্থাৎ যারা কুফরি করেছে এবং আল্লাহর পথ থেকে মানুষকে ফিরিয়েছে। শেষ বাক্যাংশে কারণ বলা হয়েছে: বিমা কানূ ইউফসিদূন, তারা যে ফাসাদ করে চলত তার দরুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing in Another's Road",
+          "bn": "অন্যের পথ আগলে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the first clause as spoken to the Prophet ﷺ: those who denied your prophethood, O Muhammad, and called you a liar in what you brought them from your Lord. Wa-saddu he explains as turning away from faith in Allah and His Messenger, and turning away whoever wanted it. His gloss holds two movements in one verb: they kept themselves from the way, and they kept back others who were reaching for it. Al-Muyassar adds the denial of Allah's oneness to the denial of the Prophet ﷺ, and says plainly that they prevented others from believing.",
+            "bn": "তাবারী প্রথম বাক্যাংশকে পড়েন নবী ﷺ-কে সম্বোধন হিসেবে: হে মুহাম্মাদ, যারা তোমার নবুওয়াত অস্বীকার করেছে, আর তোমার রবের কাছ থেকে তুমি যা এনেছ তাতে তোমাকে মিথ্যাবাদী বলেছে। ওয়া সাদ্দূর ব্যাখ্যায় তিনি বলেন, তারা আল্লাহ ও তাঁর রাসূলের উপর ঈমান থেকে সরে গেছে, আর যে ঈমান আনতে চেয়েছে তাকেও সরিয়ে দিয়েছে। একটি ক্রিয়ার ভেতর তাঁর ব্যাখ্যায় দুটি কাজ ধরা আছে। নিজেরা পথ থেকে দূরে থেকেছে, আর যারা সে পথের দিকে হাত বাড়াচ্ছিল তাদেরও আটকে রেখেছে। মুয়াসসার নবী ﷺ-কে অস্বীকারের সঙ্গে আল্লাহর একত্ব অস্বীকারের কথাও জুড়ে দেয়, আর সোজা বলে যে তারা অন্যদের ঈমান আনতে বাধা দিয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi glosses saddu as they prevented people from the path of truth, and Ibn Kathir speaks of their turning people away from following the truth. As-Sa'di gives the fullest list. They disbelieved themselves, belied the signs of Allah, made war on His messengers, turned people from His way, and became callers to misguidance, du'at ila d-dalal. That last phrase names what the verse is singling out. It is not only a wrong held privately but a wrong recruited for, so that the denier becomes a summoner of others to denial.",
+            "bn": "বাগাভী সাদ্দূর অর্থ করেন, তারা মানুষকে সত্যের পথ থেকে আটকে রেখেছে। ইবন কাসীরও বলেন, তারা মানুষকে সত্য অনুসরণ থেকে ফিরিয়ে দিয়েছে। সবচেয়ে পূর্ণ তালিকা দেন সা'দী। তারা নিজেরা কুফরি করেছে, আল্লাহর আয়াতকে মিথ্যা বলেছে, তাঁর রাসূলদের বিরুদ্ধে লড়েছে, মানুষকে তাঁর পথ থেকে ফিরিয়েছে, আর হয়ে উঠেছে গোমরাহির দিকে আহ্বানকারী, দুআত ইলাদ দালাল। শেষ কথাটিই দেখিয়ে দেয় আয়াত কাদের আলাদা করছে। অন্যায়টা কেবল নিজের ভেতরে পুষে রাখা নয়, তার জন্য লোকও জোগাড় করা হয়েছে। যে অস্বীকার করত, সে এখন অন্যকেও অস্বীকারের দিকে ডাকে।"
+          },
+          {
+            "en": "The opening words are not unique to this verse. Alladhina kafaru wa-saddu 'an sabili llah begins 47:1, and, after inna, it begins 4:167, 47:32 and 47:34 as well. The consequence named differs each time: straying far in 4:167, deeds sent astray in 47:1, deeds made void in 47:32, and no forgiveness for those who die as disbelievers in 47:34. Here, set within a scene of the Day, the consequence speaks directly of the Fire: a punishment added above a punishment.",
+            "bn": "শুরুর শব্দগুলো শুধু এ আয়াতেই আসেনি। আল্লাযীনা কাফারূ ওয়া সাদ্দূ আন সাবীলিল্লাহ দিয়ে শুরু হয়েছে ৪৭:১ আয়াত। আর ইন্না শব্দের পরে একই কথা দিয়ে শুরু হয়েছে ৪:১৬৭, ৪৭:৩২ ও ৪৭:৩৪ আয়াত। প্রতিবার পরিণতি ভিন্ন। ৪:১৬৭ আয়াতে সুদূর পথভ্রষ্টতা, ৪৭:১ আয়াতে আমল বিফল করে দেওয়া, ৪৭:৩২ আয়াতে আমল বাতিল, আর ৪৭:৩৪ আয়াতে কাফির অবস্থায় মৃত্যু হলে ক্ষমা নেই। এ আয়াত কিয়ামতের এক দৃশ্যের মাঝে বসানো, তাই এখানকার পরিণতি সরাসরি আগুনের কথা বলে: শাস্তির উপর আরও শাস্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Added to What Already Is",
+          "bn": "যা আছে তার উপরে যোগ"
+        },
+        "p": [
+          {
+            "en": "What is the punishment added to? At-Tabari answers in the plainest terms: We will increase them in punishment on the Day of Resurrection in Jahannam, above the punishment they were in before the increase. Ibn Kathir and al-Muyassar draw the reason from the verse's own two verbs: one punishment for their disbelief, and one for their turning people away from following the truth. Ibn Kathir sets 6:26 beside it: they forbid others from him and keep away from him themselves, and they destroy none but themselves, though they do not perceive it.",
+            "bn": "শাস্তি কিসের উপর যোগ হবে? তাবারী একেবারে সোজা জবাব দেন: কিয়ামতের দিন জাহান্নামে তারা যে শাস্তিতে আছে, বাড়ানোর আগের সেই শাস্তির উপর আমি আরও শাস্তি যোগ করব। ইবন কাসীর ও মুয়াসসার কারণটা বের করেন আয়াতের নিজের দুটি ক্রিয়া থেকে। একটি শাস্তি তাদের কুফরির জন্য, আরেকটি শাস্তি মানুষকে সত্য অনুসরণ থেকে ফিরিয়ে দেওয়ার জন্য। ইবন কাসীর পাশে রাখেন ৬:২৬ আয়াত: তারা অন্যদের তাঁর কাছ থেকে বিরত রাখে, নিজেরাও দূরে থাকে। আসলে তারা নিজেদেরই ধ্বংস করে, অথচ টেরও পায় না।"
+          },
+          {
+            "en": "As-Sa'di puts the same logic as a proportion. Because they became callers to misguidance, they earned a doubling of the punishment, just as their crime was doubled. Al-Baghawi records, under qila, it is said, simply that the punishment is doubled for them. Al-Qurtubi relays, also under qila, a reading about rank among the condemned: the leaders are given punishment above the lowly who followed them, one punishment for their disbelief and the other for their turning people away. On every one of these readings, the second verb is what earns the second punishment.",
+            "bn": "সা'দী একই যুক্তিকে দেখান অনুপাতের ভাষায়। তারা গোমরাহির দিকে আহ্বানকারী হয়েছিল, তাই তাদের শাস্তি দ্বিগুণ হওয়ার যোগ্য হয়েছে, যেমন তাদের অপরাধও দ্বিগুণ হয়েছিল। বাগাভী 'কীলা', অর্থাৎ 'বলা হয়' কথাটি দিয়ে শুধু এটুকু উল্লেখ করেন যে তাদের শাস্তি দ্বিগুণ করা হবে। কুরতুবীও 'কীলা' দিয়ে আরেকটি ব্যাখ্যা আনেন, যা দণ্ডিতদের মধ্যকার স্তর নিয়ে। নেতাদের শাস্তি হবে তাদের অনুসারী নিচু স্তরের লোকদের চেয়ে বেশি। এক শাস্তি কুফরির জন্য, অন্যটি মানুষকে ফিরিয়ে দেওয়ার জন্য। প্রতিটি ব্যাখ্যাতেই দ্বিতীয় শাস্তি আসে দ্বিতীয় ক্রিয়ার কারণে।"
+          },
+          {
+            "en": "From this Ibn Kathir draws a wider point. The verse, he says, is evidence that the disbelievers differ in their punishment, just as the believers differ in their stations and degrees in Paradise. He cites 7:38, where Allah answers those who ask a double punishment for the ones who misled them: for each there is double, but you do not know. He does not explain how that answer fits with this verse, and he leaves the question there.",
+            "bn": "এখান থেকে ইবন কাসীর আরও বড় একটি কথা টানেন। তাঁর মতে এ আয়াত প্রমাণ করে যে কাফিরদের শাস্তিতে তারতম্য থাকবে, ঠিক যেমন জান্নাতে মুমিনদের মর্যাদা ও স্তরে তারতম্য থাকবে। তিনি উল্লেখ করেন ৭:৩৮ আয়াত। সেখানে যারা নিজেদের পথভ্রষ্টকারীদের জন্য দ্বিগুণ শাস্তি চায়, আল্লাহ তাদের জবাব দেন: প্রত্যেকের জন্যই দ্বিগুণ, কিন্তু তোমরা জান না। সে জবাব এ আয়াতের সঙ্গে কীভাবে মেলে, তা তিনি খুলে বলেন না, প্রশ্নটা সেখানেই রেখে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scorpions Tall as Palms",
+          "bn": "খেজুরগাছের মতো উঁচু বিছা"
+        },
+        "p": [
+          {
+            "en": "The verse does not name the form of the added punishment. The commentators relay reports that do, and the most widely carried is from 'Abdullah ibn Mas'ud (RA). At-Tabari gives it through several chains running from al-A'mash, from 'Abdullah ibn Murra, from Masruq, from 'Abdullah: scorpions with fangs like palm trees, and in one wording, like tall palm trees. Ibn Kathir cites it from al-Hafiz Abu Ya'la by the same route. Al-Baghawi gives it as 'Abdullah's saying, and al-Qurtubi gives a fuller wording that adds snakes like the necks of camels and vipers like Bactrian camels.",
+            "bn": "অতিরিক্ত শাস্তির রূপ কী, আয়াত তা বলে না। তাফসীরকারেরা কিছু বর্ণনা আনেন যেখানে তা বলা আছে। সবচেয়ে বেশি সূত্রে এসেছে আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর কথা। তাবারী কয়েকটি সনদে তা আনেন, যেগুলো আ'মাশ থেকে আবদুল্লাহ ইবন মুররা, তাঁর থেকে মাসরূক, তাঁর থেকে আবদুল্লাহ পর্যন্ত গেছে: খেজুরগাছের মতো দাঁতওয়ালা বিছা, এক বর্ণনায় লম্বা খেজুরগাছের মতো। ইবন কাসীর একই পথে আল-হাফিয আবু ইয়া'লার সূত্রে তা উল্লেখ করেন। বাগাভী এটাকে আবদুল্লাহর উক্তি হিসেবে আনেন। কুরতুবীর বর্ণনা আরও দীর্ঘ। তাতে যোগ হয়েছে উটের ঘাড়ের মতো সাপ আর বুখতি উটের মতো বিষধর সাপ।"
+          },
+          {
+            "en": "Two further lines in at-Tabari reach Ibn Mas'ud through Murra by way of as-Suddi with a single word: vipers, and in one of them, vipers in the Fire. The status of all this needs stating. In the texts fetched for this verse these are Ibn Mas'ud's own words, carried as his explanation and not attributed to the Prophet ﷺ, and none of the commentators fetched here grades the chains. At-Tabari himself introduces the scorpions and snakes with wa-qila, and it has been said, after first giving his own general reading.",
+            "bn": "তাবারীর আরও দুটি বর্ণনা সুদ্দীর মাধ্যমে মুররা হয়ে ইবন মাসঊদ (রাঃ) পর্যন্ত পৌঁছায়, আর তাতে কথা একটিই: বিষধর সাপ, একটিতে আছে আগুনের ভেতরের বিষধর সাপ। এসব বর্ণনার মান কী, তা স্পষ্ট করা দরকার। এ আয়াতের জন্য যে লেখাগুলো আনা হয়েছে, সেখানে এগুলো ইবন মাসঊদের নিজের কথা, তাঁর ব্যাখ্যা হিসেবে এসেছে, নবী ﷺ-এর বাণী হিসেবে নয়। এখানে আনা কোনো তাফসীরকার সনদগুলোর মান নির্ণয় করেননি। তাবারী নিজেও আগে সাধারণ ভাষায় আয়াতের অর্থ বলে নেন, তারপর 'ওয়া কীলা', অর্থাৎ 'আর বলা হয়েছে' দিয়ে বিছা ও সাপের কথা আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pits, Rivers and Bitter Cold",
+          "bn": "গর্ত, নদী আর তীব্র শীত"
+        },
+        "p": [
+          {
+            "en": "Other reports fill in the same picture. Al-Baghawi cites Sa'id ibn Jubayr: snakes like Bactrian camels and scorpions like mules, one of which stings and its victim feels the venom for forty autumns. At-Tabari gives 'Ubayd ibn 'Umayr, by way of Mujahid: Hell has pits holding snakes like Bactrian camels and scorpions like dark mules, and when the people of the Fire flee to them they are seized and run back crying, the Fire, the Fire. He also gives 'Abdullah ibn 'Amr: Hell has shores with snakes and scorpions whose necks are like those of Bactrian camels.",
+            "bn": "আরও কিছু বর্ণনা একই ছবি ভরাট করে। বাগাভী সাঈদ ইবন জুবাইরের কথা আনেন: বুখতি উটের মতো সাপ আর খচ্চরের মতো বিছা, যার একটি দংশন করলে দংশিত ব্যক্তি চল্লিশ বছর ধরে তার বিষের জ্বালা টের পায়। তাবারী মুজাহিদের মাধ্যমে উবাইদ ইবন উমাইরের কথা আনেন: জাহান্নামে কিছু গর্ত আছে, তাতে বুখতি উটের মতো সাপ আর কালো খচ্চরের মতো বিছা। জাহান্নামবাসীরা সেদিকে পালালে সেগুলো তাদের ধরে ফেলে, তখন তারা 'আগুন, আগুন' বলে আবার ছুটে ফিরে যায়। তিনি আবদুল্লাহ ইবন আমরের কথাও আনেন: জাহান্নামের কিনারায় সাপ ও বিছা আছে, যাদের ঘাড় বুখতি উটের ঘাড়ের মতো।"
+          },
+          {
+            "en": "A different picture comes from Ibn 'Abbas. Ibn Kathir cites it, again from Abu Ya'la, through al-A'mash from al-Hasan: five rivers, with some of which they are punished by night and with some by day. Al-Baghawi attributes a version to Ibn 'Abbas and Muqatil together, with more detail: five rivers of molten brass, like fire, three for the length of the night and two for the length of the day. The two wordings do not match in every detail, one placing the rivers above the Throne and the other flowing from beneath it, and neither commentator grades the report.",
+            "bn": "ইবন আব্বাস থেকে আসে ভিন্ন এক ছবি। ইবন কাসীর এটাও আবু ইয়া'লার সূত্রে আনেন, আ'মাশ থেকে হাসানের মাধ্যমে: পাঁচটি নদী, যার কয়েকটি দিয়ে রাতে আর কয়েকটি দিয়ে দিনে তাদের শাস্তি দেওয়া হবে। বাগাভী ইবন আব্বাস ও মুকাতিল দুজনের নামে আরও বিস্তারিত বর্ণনা দেন: আগুনের মতো গলিত পিতলের পাঁচটি নদী, তিনটি রাতের সমান সময় ধরে, দুটি দিনের সমান সময় ধরে। দুই বর্ণনার খুঁটিনাটি পুরো মেলে না। একটিতে নদীগুলো আরশের উপরে, অন্যটিতে আরশের নিচ থেকে বয়ে আসে। দুই তাফসীরকারের কেউই বর্ণনার মান নির্ণয় করেননি।"
+          },
+          {
+            "en": "A third reading is given by al-Qurtubi and al-Baghawi, both under qila: the condemned are brought out of the heat of the Fire into the bitter cold of zamharir, and from the severity of that cold they rush back to the Fire, seeking relief in it. These reports are given here as the commentators give them, each in its narrator's name. The verse itself states only that the punishment is increased and why. Every commentator agrees on that much, and it is enough.",
+            "bn": "তৃতীয় একটি ব্যাখ্যা দেন কুরতুবী ও বাগাভী, দুজনেই 'কীলা' দিয়ে। দণ্ডিতদের আগুনের তাপ থেকে বের করে যামহারীরের প্রচণ্ড ঠান্ডায় নেওয়া হবে। সে ঠান্ডার তীব্রতায় তারা আবার আগুনের দিকেই ছুটে যাবে, তাতেই আশ্রয় খুঁজবে। তাফসীরকারেরা যেভাবে এনেছেন, এখানে এসব বর্ণনা সেভাবেই রাখা হলো, প্রত্যেকটি তার বর্ণনাকারীর নামে। আয়াত নিজে শুধু এটুকু বলে যে শাস্তি বাড়ানো হবে, আর কেন বাড়ানো হবে। এতটুকুতে সব তাফসীরকার একমত, আর এটুকুই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Corruption Worked on Others",
+          "bn": "অন্যের উপর চালানো ফাসাদ"
+        },
+        "p": [
+          {
+            "en": "Bima kanu yufsidun gives the cause, and the commentators define the corruption here in closely related terms. At-Tabari: they used to disobey Allah in the world and command His servants to disobey Him, and that was their corruption. Al-Qurtubi: the disbelief and disobedience they committed in the world. Al-Baghawi: in the world, by disbelief and by turning people from faith. Al-Muyassar speaks of their deliberate corruption and their misleading of Allah's servants by disbelief and disobedience, and as-Sa'di of the corruption they worked in Allah's earth.",
+            "bn": "বিমা কানূ ইউফসিদূন কারণটা জানিয়ে দেয়। এখানে ফাসাদ বলতে কী বোঝায়, তাফসীরকারেরা তা বলেন কাছাকাছি ভাষায়। তাবারী বলেন, তারা দুনিয়ায় আল্লাহর নাফরমানি করত, আর তাঁর বান্দাদেরও নাফরমানির হুকুম দিত, এটাই ছিল তাদের ফাসাদ। কুরতুবীর মতে তা দুনিয়ায় করা কুফরি আর গুনাহ। বাগাভী বলেন, দুনিয়ায় কুফরি করে আর মানুষকে ঈমান থেকে ফিরিয়ে। মুয়াসসার বলে তাদের ইচ্ছাকৃত ফাসাদের কথা, আর কুফরি ও গুনাহের মাধ্যমে আল্লাহর বান্দাদের পথভ্রষ্ট করার কথা। সা'দী বলেন আল্লাহর জমিনে তাদের ছড়ানো ফাসাদের কথা।"
+          },
+          {
+            "en": "Two threads run through these. The corruption is placed in this world, while the increase falls on the Day. And it is not private: at-Tabari's commanding of others, al-Baghawi's turning people from faith and al-Muyassar's misleading of servants all make it something done to other people. The surah has already said something close, though the link is drawn here and not by the tafsirs fetched. In 16:25 those who called the revelation legends of the former peoples (16:24) bear their own burdens in full, and some burdens of those they misguide without knowledge.",
+            "bn": "এসব ব্যাখ্যার ভেতর দুটি সুতো চলে গেছে। ফাসাদের জায়গা দুনিয়া, যেখানে কাজগুলো করা হয়েছিল। আর শাস্তি বাড়বে কিয়ামতের দিন। দ্বিতীয়ত, এ ফাসাদ ব্যক্তিগত নয়। তাবারীর বলা অন্যদের হুকুম দেওয়া, বাগাভীর বলা মানুষকে ঈমান থেকে ফেরানো, মুয়াসসারের বলা বান্দাদের পথভ্রষ্ট করা, সবগুলোই অন্য মানুষের উপর চালানো কাজ। এ সূরা আগেই কাছাকাছি একটি কথা বলেছে। তবে সংযোগটা এখানে টানা হলো, আনা তাফসীরগুলো তা টানেনি। যারা ওহীকে আগের লোকদের উপকথা বলত (১৬:২৪), ১৬:২৫ আয়াত অনুযায়ী তারা নিজেদের বোঝা পুরোপুরি বইবে, আর যাদের তারা না জেনে পথভ্রষ্ট করে, তাদের বোঝারও কিছু অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Living Name Inscribed",
+          "bn": "কোনো জীবিতের নাম নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes those it describes: people who disbelieved and turned others from the way of Allah, whose added punishment is stated for the Day. It licenses no one to name any living person or community among them, to declare that someone has earned punishment above punishment, or to treat a neighbour, a relative or a public figure as the verse's subject. That judgement belongs to Allah, on the Day the surah has been describing, and the verse gives no reader a share in pronouncing it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যাদের বর্ণনা দেয়, শুধু তাদেরই বর্ণনা দেয়: যারা কুফরি করেছে আর অন্যদের আল্লাহর পথ থেকে ফিরিয়েছে, যাদের বাড়তি শাস্তির কথা কিয়ামতের দিনের জন্য বলা হয়েছে। কোনো জীবিত ব্যক্তি বা সম্প্রদায়কে তাদের মধ্যে গণ্য করার অনুমতি এ আয়াত কাউকে দেয় না। কেউ শাস্তির উপর শাস্তির যোগ্য হয়ে গেছে, এমন ঘোষণা দেওয়ার অনুমতিও দেয় না। প্রতিবেশী, আত্মীয় বা পরিচিত কোনো মানুষকে আয়াতের লক্ষ্য বানানোরও সুযোগ নেই। এ বিচার আল্লাহর, সেই দিনে, যার বর্ণনা সূরাটি দিচ্ছে। সে রায় ঘোষণায় কোনো পাঠকের অংশ আয়াত রাখেনি।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith of the Prophet ﷺ to it. A general narration, not tied to this verse, states the same principle from both sides. Muslim records in his Sahih (2674) from Abu Hurayra (RA) that the Messenger of Allah ﷺ said: He who called (people) to righteousness, there would be reward (assured) for him like the rewards of those who adhered to it, without their rewards being diminished in any respect. And he who called (people) to error, he shall have to carry (the burden) of its sin, like those who committed it, without their sins being diminished in any respect.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই নীতি দুই দিক থেকে বলে। মুসলিম তাঁর সহীহ গ্রন্থে (২৬৭৪) আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: যে হিদায়াতের দিকে ডাকে, তার জন্য রয়েছে তার অনুসারীদের সমান সওয়াব, অথচ তাদের সওয়াব থেকে কিছুই কমবে না। আর যে গোমরাহির দিকে ডাকে, তার উপর রয়েছে তার অনুসারীদের সমান গুনাহ, অথচ তাদের গুনাহ থেকে কিছুই কমবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clearing the Road Instead",
+          "bn": "বরং পথটা খুলে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The lesson the verse leaves is turned inward. Its subject is disbelief joined to obstruction, and no believer is told he belongs there. But the act it singles out, standing between another person and the way of Allah, has smaller forms a believer can fall into: the mockery that makes a newly practising friend give up, the harshness that makes faith look ugly, the example at home that teaches children prayer can wait. The surah uses the same verb six verses later, addressed to you: in 16:94 oaths made into deceit bring a taste of evil for having turned people from the way of Allah.",
+            "bn": "আয়াত যে শিক্ষা রেখে যায়, তা ভেতরের দিকে ফেরানো। এর বিষয় কুফরির সঙ্গে বাধা দেওয়া, আর কোনো মুমিনকে বলা হচ্ছে না যে সে ওই দলের। কিন্তু আয়াত যে কাজটিকে আলাদা করে, অর্থাৎ অন্য মানুষ ও আল্লাহর পথের মাঝখানে দাঁড়ানো, তার ছোট ছোট রূপে মুমিনও জড়াতে পারে। সদ্য দ্বীন মানতে শুরু করা বন্ধুকে এমন ঠাট্টা, যাতে সে হাল ছেড়ে দেয়। এমন কঠোরতা, যাতে দ্বীনকে কুৎসিত দেখায়। ঘরে এমন দৃষ্টান্ত, যা থেকে সন্তান শেখে নামাজ পরে পড়লেও চলে। ছয়টি আয়াত পরে সূরাটি একই ক্রিয়া ব্যবহার করে তোমাদের সম্বোধন করে। ১৬:৯৪ আয়াতে শপথকে প্রতারণার হাতিয়ার বানালে আল্লাহর পথ থেকে মানুষকে ফেরানোর কারণে মন্দ পরিণতির স্বাদ নিতে হয়।"
+          },
+          {
+            "en": "The hadith's first half is the other pan of the same scale. If turning people back adds weight, easing their way adds reward without taking anything from theirs. A word of encouragement to someone returning, a lesson taught with patience, a home where prayer is kept on time can go on being counted after the one who began it. At-Tabari closes his comment on this verse with a supplication rather than a conclusion: O Allah, we ask You for well-being, O Owner of this world and of the lasting Hereafter.",
+            "bn": "হাদীসের প্রথম অর্ধেক একই দাঁড়িপাল্লার অন্য পাল্লা। মানুষকে ফিরিয়ে দিলে যদি ভার বাড়ে, তবে তাদের পথ সহজ করে দিলে সওয়াব বাড়ে, আর তাদের সওয়াব থেকে কিছুই কমে না। ফিরে আসতে চাওয়া কাউকে উৎসাহের একটি কথা, ধৈর্য ধরে শেখানো একটি পাঠ, এমন ঘর যেখানে সময়মতো নামাজ হয়, এসবের নেকি শুরু করা মানুষটির পরেও জমা হতে থাকতে পারে। তাবারী এ আয়াতের আলোচনা শেষ করেন কোনো সিদ্ধান্ত দিয়ে নয়, একটি দুআ দিয়ে: হে আল্লাহ, আমরা তোমার কাছে নিরাপত্তা চাই, হে দুনিয়া ও চিরস্থায়ী আখিরাতের মালিক।"
+          }
+        ]
+      }
+    ]
+  },
   "16:90": {
     "sections": [
       {
