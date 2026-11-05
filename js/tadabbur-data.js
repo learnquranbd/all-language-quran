@@ -22731,6 +22731,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A human messenger is a mercy: he can be seen, asked and followed. Learn his life closely and follow it, rather than waiting for a sign beyond your reach.",
     "lessonBn": "মানুষ রসূল আল্লাহর রহমত: তাঁকে দেখা যায়, প্রশ্ন করা যায়, অনুসরণ করা যায়। নাগালের বাইরের কোনো নিদর্শনের অপেক্ষা না করে তাঁর জীবন ভালো করে জানুন এবং সে পথে চলুন।"
+  },
+  "17:101": {
+    "reflectionEn": "Nine clear signs, and a king who watched them all. The verse does not say Pharaoh lacked evidence. It says what he did with it: he found a word for the man who brought it. I think you are bewitched, Moses. Once the messenger has a label, the message no longer has to be weighed. The staff and the hand become symptoms of a disturbed mind, and the king can stay where he is. The verse also tells the listener to ask those who were there, because what is witnessed can be checked. So it turns a question back on me. When a truth reaches me through someone I find inconvenient, do I weigh what was said, or reach first for a name to call the one who said it?",
+    "reflectionBn": "নয়টি স্পষ্ট নিদর্শন, আর এক রাজা, যে সবগুলো নিজের চোখে দেখেছে। আয়াত বলে না যে ফিরআউনের সামনে প্রমাণের ঘাটতি ছিল। আয়াত বলে, প্রমাণ নিয়ে সে কী করল: যে লোক প্রমাণ নিয়ে এল, তার জন্য একটা নাম খুঁজে নিল। হে মূসা, আমার তো মনে হয় তোমাকে জাদু করা হয়েছে। বার্তাবাহকের গায়ে একবার তকমা লেগে গেলে বার্তাটা আর মেপে দেখতে হয় না। লাঠি আর হাত তখন হয়ে যায় বিগড়ে যাওয়া মাথার লক্ষণ, আর রাজা যেখানে ছিল সেখানেই থেকে যেতে পারে। আয়াত শ্রোতাকে এটাও বলে, যারা সেখানে ছিল তাদের জিজ্ঞেস করে দেখো, কারণ যা চোখে দেখা, তা যাচাই করা যায়। তাই প্রশ্নটা চুপচাপ আমার দিকেই ফেরে। অপছন্দের কোনো মানুষের মুখে সত্য কথা এলে আমি কি কথাটা মেপে দেখি, নাকি আগে তাকে ডাকার মতো একটা নাম খুঁজি?",
+    "pointsEn": [
+      "Whose advice have I set aside this year by deciding first what kind of person they are?",
+      "Is there a label I use for someone that saves me from having to answer what they actually said?",
+      "When a reminder reaches me through a person I dislike, do I let the dislike decide its worth?",
+      "Which signs of Allah have I seen with my own eyes and still filed away under a convenient name?",
+      "Before I dismiss a claim, have I asked those who were there and could tell me what happened?"
+    ],
+    "pointsBn": [
+      "এ বছর কার পরামর্শ আমি সরিয়ে রেখেছি শুধু আগেভাগে ঠিক করে নিয়ে যে সে কেমন মানুষ?",
+      "কারও জন্য এমন কোনো তকমা কি আমি ব্যবহার করি, যা তার আসল কথার জবাব দেওয়ার দায় থেকে আমাকে বাঁচিয়ে দেয়?",
+      "অপছন্দের কারও মুখে উপদেশ এলে আমি কি অপছন্দটাকেই উপদেশের দাম ঠিক করতে দিই?",
+      "আল্লাহর কোন নিদর্শন আমি নিজের চোখে দেখেও সুবিধামতো একটা নাম দিয়ে তুলে রেখেছি?",
+      "কোনো কথা উড়িয়ে দেওয়ার আগে কি আমি তাদের জিজ্ঞেস করেছি, যারা সেখানে ছিল আর যা ঘটেছে তা বলতে পারে?"
+    ],
+    "lessonEn": "Weigh a message by what it says, not by the label you can pin on its bearer; a ready insult is often a refusal in disguise.",
+    "lessonBn": "বার্তাকে মাপুন তার কথা দিয়ে, বাহকের গায়ে কোন তকমা লাগানো যায় তা দিয়ে নয়। হাতের কাছে তৈরি গালি অনেক সময় ছদ্মবেশী অস্বীকার।"
   }
 };
 

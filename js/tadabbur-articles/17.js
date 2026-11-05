@@ -3943,6 +3943,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:101": {
+    "sections": [
+      {
+        "h": {
+          "en": "Moses After the Quraysh Demands",
+          "bn": "কুরাইশের দাবির পর মূসা"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad atayna Musa tisʿa ayatin bayyinat: and We had certainly given Moses nine clear signs. The verse comes after a run of demands. In 17:90 to 17:93 the Prophet's opponents said they would not believe until a spring gushed from the ground, a house of ornament appeared, or he climbed into the sky. As-Sa'di reads the turn as consolation: you, O Messenger, supported by signs, are not the first messenger whom people belied. Before you We sent Musa ibn ʿImran to Pharaoh and his people.",
+            "bn": "ওয়া লাকাদ আতাইনা মূসা তিস'আ আয়াতিম বায়্যিনাত: আমি মূসাকে নয়টি স্পষ্ট নিদর্শন দিয়েছিলাম। আয়াতটি এসেছে একের পর এক দাবির পরে। ১৭:৯০ থেকে ১৭:৯৩ আয়াতে নবী ﷺ-এর বিরোধীরা বলেছিল, মাটি ফুঁড়ে ঝরনা না বেরোলে, কারুকাজের ঘর না এলে কিংবা তিনি আকাশে না চড়লে তারা ঈমান আনবে না। সা'দী এখানে সান্ত্বনার সুর শোনেন। হে রসূল, নিদর্শন দিয়ে আপনাকে সাহায্য করা হয়েছে, আর আপনিই প্রথম রসূল নন যাঁকে মানুষ মিথ্যাবাদী বলেছে। আপনার আগে আমি মূসা ইবন ইমরানকে পাঠিয়েছিলাম ফিরআউন ও তার কওমের কাছে।"
+          },
+          {
+            "en": "Ibn Kathir draws the line more sharply. Pharaoh and his people, he says, saw these signs and still disbelieved and denied them, though their own souls were convinced, out of wrong and arrogance, and the signs did them no good. In the same way, if We answered those who asked you for a spring from the earth and the rest, they would not respond or believe unless Allah willed. Pharaoh, having witnessed what he witnessed, still said: I think you are bewitched. The verse sets a precedent beside a present refusal.",
+            "bn": "ইবন কাসীর যোগসূত্রটা আরও স্পষ্ট করে টানেন। তাঁর কথায়, ফিরআউন ও তার কওম এসব নিদর্শন দেখেছিল, তবু অস্বীকার করেছিল, মিথ্যা বলেছিল। অথচ তাদের মন ঠিকই নিশ্চিত হয়ে গিয়েছিল। জুলুম আর অহংকারই ছিল কারণ, তাই নিদর্শন তাদের কোনো কাজে আসেনি। ঠিক তেমনি, যারা আপনার কাছে মাটি থেকে ঝরনা আর বাকি সব চেয়েছে, তাদের দাবি মেনে নিলেও তারা সাড়া দিত না, ঈমানও আনত না, যদি না আল্লাহ চান। ফিরআউন যা দেখার তা দেখেও বলেছিল: আমার মনে হয় তোমাকে জাদু করা হয়েছে। আয়াতটি বর্তমানের এক অস্বীকারের পাশে অতীতের এক নজির রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clear Enough for the Seeker",
+          "bn": "সত্যসন্ধানীর জন্য যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "Bayyinat is the verse's word for the signs, and each commentator unpacks it a little differently. At-Tabari: signs that make plain, to whoever saw them, that they were proofs for Moses, witnessing to his truthfulness and the reality of his prophethood. Ibn Kathir calls them decisive proofs, al-dala'il al-qatiʿa, of his prophethood and of his truth in what he conveyed from the One who sent him. The Muyassar has nine clear miracles. As-Sa'di adds a measure: each one alone suffices for anyone whose aim is to follow the truth.",
+            "bn": "বায়্যিনাত, অর্থাৎ স্পষ্ট, এ শব্দেই আয়াত নিদর্শনগুলোর পরিচয় দেয়, আর প্রত্যেক তাফসীরকার শব্দটা খোলেন একটু ভিন্নভাবে। তাবারীর মতে, এগুলো এমন নিদর্শন, যে দেখেছে তার কাছেই পরিষ্কার হয়ে গেছে যে এগুলো মূসার পক্ষে প্রমাণ, তাঁর সত্যবাদিতা আর নবুওয়াতের সাক্ষী। ইবন কাসীর এগুলোকে বলেন আদ-দালাইলুল কাতি'আ, অকাট্য প্রমাণ। এগুলো প্রমাণ করে তাঁর নবুওয়াত সঠিক, আর যিনি তাঁকে পাঠিয়েছেন তাঁর পক্ষ থেকে তিনি যা জানিয়েছেন তা সত্য। মুয়াসসার বলে নয়টি স্পষ্ট মুজিযা। সা'দী একটা মাপকাঠি যোগ করেন: যে সত্যিই হক মানতে চায়, তার জন্য এর যে কোনো একটিই যথেষ্ট।"
+          },
+          {
+            "en": "Why nine, when Moses was given more? Ibn Kathir answers directly. Moses received many other signs: striking the rock with the staff so that streams flowed from it, the shading cloud, the manna and the quails, and others given to the Children of Israel after they left Egypt. But the nine named here, he says, are those that Pharaoh and his people in Egypt witnessed, which became a proof against them. Ma'arif al-Qur'an makes a related point: the number does not require that there were no more than nine.",
+            "bn": "মূসা (আঃ) তো আরও নিদর্শন পেয়েছিলেন, তাহলে নয়টি কেন? ইবন কাসীর সরাসরি জবাব দেন। লাঠি দিয়ে পাথরে আঘাত করা আর তা থেকে নহর বয়ে যাওয়া, মেঘের ছায়া, মান্না ও সালওয়া, এমন আরও অনেক নিদর্শন তিনি পেয়েছিলেন। তবে সেগুলো বানী ইসরাঈল পেয়েছিল মিসর ছেড়ে আসার পরে। ইবন কাসীর বলেন, এখানে যে নয়টির কথা, সেগুলো মিসরে ফিরআউন ও তার লোকেরা নিজের চোখে দেখেছিল, আর সেগুলোই তাদের বিরুদ্ধে দলিল হয়ে দাঁড়িয়েছিল। মাআরিফুল কুরআনও কাছাকাছি কথা বলে: সংখ্যাটা বলে না যে নিদর্শন নয়টির বেশি ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Lists for Nine Signs",
+          "bn": "নয় নিদর্শনের নানা তালিকা"
+        },
+        "p": [
+          {
+            "en": "Which nine? At-Tabari says the people of interpretation differed, and his reports show it. In a chain from Ibn Abbas (RA) they are the hand, the staff, the tongue, the sea, the flood, the locusts, the lice, the frogs and the blood. Ad-Dahhak counts the staff thrown twice before Pharaoh, the hand drawn out, the knot in Moses' tongue, and the five of al-Aʿraf. A report through Qatada from Ibn Abbas has the years of drought for the desert people, the shortage of fruit for the villages, the five, the hand and the staff.",
+            "bn": "কোন নয়টি? তাবারী বলেন, তাফসীরকারেরা এ নিয়ে একমত হননি, আর তাঁর আনা বর্ণনাগুলোই তা দেখায়। ইবন আব্বাস (রাঃ) থেকে এক সূত্রে নয়টি হলো: হাত, লাঠি, জিহ্বা, সাগর, প্লাবন, পঙ্গপাল, উকুন, ব্যাঙ আর রক্ত। দাহহাকের হিসাবে আছে ফিরআউনের সামনে দুবার লাঠি ফেলা, হাত বের করা, মূসা (আঃ)-এর জিহ্বার জড়তা, আর সূরা আ'রাফের পাঁচটি। কাতাদার মাধ্যমে ইবন আব্বাস থেকে আরেক বর্ণনায় আছে মরুবাসীদের জন্য খরার বছর, গ্রামবাসীদের জন্য ফলের ঘাটতি, তারপর ওই পাঁচটি, হাত আর লাঠি।"
+          },
+          {
+            "en": "ʿIkrima with Matar al-Warraq, and ash-Shaʿbi, give that same set: the five, the staff, the hand, the years and the shortage. Ibn Kathir names it for Ibn Abbas, Mujahid, ʿIkrima, ash-Shaʿbi and Qatada, and calls it a plain, clear, good and strong view. Al-Hasan al-Basri makes the years and the shortage one sign, and adds as the ninth the staff swallowing what the sorcerers faked. Al-Qurtubi reports a view from Malik that puts the sea and the mountain where the years and the shortage stood.",
+            "bn": "ইকরিমা ও মাতার আল-ওয়াররাক, আর শা'বী ঠিক এই তালিকাই দেন: ওই পাঁচটি, লাঠি, হাত, খরার বছর আর ফলের ঘাটতি। ইবন কাসীর এটিকে ইবন আব্বাস, মুজাহিদ, ইকরিমা, শা'বী ও কাতাদার মত বলে উল্লেখ করেন, আর বলেন, এ মত স্পষ্ট, পরিষ্কার, সুন্দর ও মজবুত। হাসান বসরী খরার বছর আর ফলের ঘাটতিকে একটি নিদর্শন ধরেন। নবম হিসেবে যোগ করেন লাঠির সেই গিলে ফেলা, জাদুকরেরা যা বানিয়ে দেখিয়েছিল। কুরতুবী মালিকের একটি মত আনেন, যেখানে খরার বছর আর ফলের ঘাটতির জায়গায় আছে সাগর আর পাহাড়।"
+          },
+          {
+            "en": "The other commentators keep the variety. As-Sa'di lists the serpent, the staff, the flood, the locusts, the lice, the frogs, the blood, the rijz and the splitting of the sea. Al-Baghawi has Ibn Abbas and ad-Dahhak count the knot in Moses' tongue that was untied and the splitting of the sea beside the staff, the white hand and the five. The Muyassar settles on the staff, the hand, the years, the shortage and the five. The lists share a core and part at the edges. The five afflictions themselves, and how each was read, belong to 7:133.",
+            "bn": "অন্য তাফসীরকারদের কাছেও এই বৈচিত্র্য রয়ে গেছে। সা'দীর তালিকায় আছে সাপ, লাঠি, প্লাবন, পঙ্গপাল, উকুন, ব্যাঙ, রক্ত, রিজয আর সাগর দুভাগ হওয়া। বাগাভী ইবন আব্বাস ও দাহহাক থেকে আনেন লাঠি, শুভ্র হাত আর ওই পাঁচটির সঙ্গে মূসা (আঃ)-এর জিহ্বার সেই জড়তা, যা খুলে দেওয়া হয়েছিল, আর সাগর দুভাগ হওয়া। মুয়াসসার থামে লাঠি, হাত, খরার বছর, ফলের ঘাটতি আর ওই পাঁচটিতে। তালিকাগুলোর মূল অংশ এক, কিনারায় গিয়ে আলাদা। পাঁচটি বিপদের প্রতিটি কেমন ছিল, আর কে কীভাবে বুঝেছেন, সে আলোচনা ৭:১৩৩ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Umar's Question on the Tams",
+          "bn": "তামস নিয়ে উমরের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "One report in at-Tabari explains a sign the other lists leave out. Muhammad ibn Kaʿb al-Qurazi says that ʿUmar ibn ʿAbd al-ʿAziz asked him about this verse, and he answered: the flood, the locusts, the lice, the frogs, the blood, the sea, the staff, the tams and the stone. ʿUmar asked what the tams was. He replied: Moses prayed and Harun said amin, and He said, your prayer has been answered, the words of 10:89. ʿUmar said: how can understanding be, except like this?",
+            "bn": "তাবারীর একটি বর্ণনা এমন এক নিদর্শনের ব্যাখ্যা দেয়, যা অন্য তালিকাগুলোতে নেই। মুহাম্মাদ ইবন কা'ব আল-কুরাযী বলেন, উমর ইবন আবদুল আযীয তাঁকে এ আয়াত সম্পর্কে জিজ্ঞেস করেছিলেন। তিনি উত্তর দিলেন: প্লাবন, পঙ্গপাল, উকুন, ব্যাঙ, রক্ত, সাগর, লাঠি, তামস আর পাথর। উমর জানতে চাইলেন, তামস কী? তিনি বললেন: মূসা দু'আ করলেন, হারুন আমীন বললেন, আর আল্লাহ বললেন, তোমাদের দুজনের দু'আ কবুল হয়েছে। এ কথাটিই ১০:৮৯ আয়াতের। উমর বললেন, দ্বীনের বুঝ তো এভাবেই হওয়া উচিত।"
+          },
+          {
+            "en": "Then, at-Tabari continues, ʿUmar called for a bag that had belonged to ʿAbd al-ʿAziz ibn Marwan, found in Egypt. In it were a walnut, an egg and a lentil, unmistakable, turned to stone: wealth of Pharaoh's taken in Egypt. Al-Qurtubi names this sign the blotting-out upon their wealth. Al-Baghawi carries a further picture from Muhammad ibn Kaʿb, of a man in bed with his wife who had become two stones, and a woman baking who had turned to stone. These are reports as the commentators carry them.",
+            "bn": "তাবারী আরও বলেন, এরপর উমর আবদুল আযীয ইবন মারওয়ানের একটা থলে আনালেন, যা মিসরে পাওয়া গিয়েছিল। তাতে ছিল একটা আখরোট, একটা ডিম আর একটা মসুর দানা, চিনতে কোনো ভুল হয় না, অথচ সবই পাথর হয়ে গেছে। এগুলো ছিল মিসরে পাওয়া ফিরআউনের সম্পদ। কুরতুবী এ নিদর্শনের নাম দেন তাদের সম্পদের উপর তামস, মানে মুছে দেওয়া। বাগাভী মুহাম্মাদ ইবন কা'ব থেকে আরও একটা ছবি আনেন: বিছানায় স্ত্রীর সঙ্গে থাকা এক লোক, দুজনেই পাথর হয়ে গেছে, আর রুটি সেঁকতে দাঁড়ানো এক মহিলা, সেও পাথর। এগুলো তাফসীরকারদের আনা বর্ণনা, যেমন তাঁরা এনেছেন তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men Ask About Nine",
+          "bn": "নয় নিয়ে দুজনের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notes a second reading: that the ayat here are verses of the Book, that is, commands. Al-Baghawi records it briefly, and Ma'arif al-Qur'an says the word can carry both meanings at this place. All three rest it on one report, which at-Tirmidhi records from Safwan ibn ʿAssal al-Muradi (RA): 'A Jew said to his companion: Accompany us to this Prophet. So his companion said: Do not say: Prophet, for if he hears you calling him a Prophet then he will be happy.'",
+            "bn": "কুরতুবী আরেকটি ব্যাখ্যার কথা বলেন: এখানে আয়াত মানে কিতাবের আয়াত, অর্থাৎ বিধান। বাগাভীও সংক্ষেপে মতটি আনেন, আর মাআরিফুল কুরআন বলে, এ জায়গায় শব্দটি দুই অর্থই বহন করতে পারে। তিনজনই মতটির ভিত্তি রাখেন একটি বর্ণনার উপর। তিরমিযী সেটি এনেছেন সাফওয়ান ইবন আসসাল আল-মুরাদী (রাঃ) থেকে: 'দুজন ইহুদির একজন তার সঙ্গীকে বলল, চলো, এই নবীর কাছে গিয়ে তাঁকে জিজ্ঞেস করি। সঙ্গী বলল, তাঁকে নবী বলো না। তিনি যদি শোনেন আমরা তাঁকে নবী বলছি, তাহলে খুব খুশি হবেন।'"
+          },
+          {
+            "en": "'So they went to the Prophet ﷺ to question him about Allah, the Most High, saying: And indeed we gave Musa nine clear signs. So the Messenger of Allah ﷺ said to them: Do not associate anything with Allah, nor commit unlawful intercourse, nor take a life which Allah has made prohibited, except for what is required (in the law), nor steal, nor practice magic, nor hasten to damage the reputation of an innocent person in front of a ruler, so that he will be killed, nor consume Riba, nor falsely accuse the chaste woman, nor turn to flee on the day of the march.'",
+            "bn": "'তারপর দুজনে নবী ﷺ-এর কাছে এসে আল্লাহর এই বাণী সম্পর্কে জিজ্ঞেস করল: আমি মূসাকে নয়টি স্পষ্ট নিদর্শন দিয়েছিলাম। রসূলুল্লাহ ﷺ তাদের বললেন: আল্লাহর সঙ্গে কোনো কিছুকে শরীক কোরো না। যিনা কোরো না। আল্লাহ যে প্রাণ হারাম করেছেন, ন্যায়সংগত কারণ ছাড়া তা হত্যা কোরো না। চুরি কোরো না। জাদু কোরো না। কোনো নির্দোষ লোককে শাসকের কাছে নিয়ে যেয়ো না, যাতে তিনি তাকে হত্যা করেন। সুদ খেয়ো না। সতী নারীর উপর অপবাদ দিয়ো না। যুদ্ধের দিন পালিয়ে যেয়ো না।'"
+          },
+          {
+            "en": "'Shu'bah was in doubt. And for you Jews particularly, to not violate the Sabbath.' They kissed his hands and feet and said: 'We bear witness that you are a Prophet.' He said: 'Then what prevents you from accepting Islam?' They said: 'Because Dawud supplicated to his Lord, that his offspring never be devoid of Prophets, and we feared that if we follow you then the Jews will kill us.' At-Tirmidhi grades it hasan sahih, as hadith 3144. An-Nasa'i records it too, as hadith 4078.",
+            "bn": "'শেষ কথাটি নিয়ে শু'বার সন্দেহ ছিল। আর হে ইহুদিরা, বিশেষ করে তোমাদের জন্য: শনিবারের বিধানে সীমা লঙ্ঘন কোরো না।' তারা দুজন তাঁর দুই হাত আর দুই পায়ে চুমু খেল, বলল, আমরা সাক্ষ্য দিচ্ছি আপনি নবী। তিনি বললেন, তাহলে ইসলাম গ্রহণে তোমাদের বাধা কোথায়? তারা বলল, দাউদ (আঃ) আল্লাহর কাছে দু'আ করেছিলেন, যেন তাঁর বংশে নবী থাকা কখনো বন্ধ না হয়। আর আমাদের ভয়, ইসলাম গ্রহণ করলে ইহুদিরা আমাদের মেরে ফেলবে। তিরমিযী হাদিসটিকে হাসান সহীহ বলেছেন, নম্বর ৩১৪৪। নাসাঈও এটি এনেছেন, নম্বর ৪০৭৮।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report Ibn Kathir Doubts",
+          "bn": "যে বর্ণনায় ইবন কাসীরের আপত্তি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites the same report through Imam Ahmad, notes that at-Tirmidhi, an-Nasa'i, Ibn Majah and Ibn Jarir narrate it by routes from Shuʿba, and that at-Tirmidhi called it hasan sahih. Then he states his difficulty. It is a problematic hadith, mushkil. ʿAbdullah ibn Salima, its narrator from Safwan, has something in his memory, and they have spoken about him. Perhaps, Ibn Kathir suggests, he confused the nine signs with the ten words, commandments in the Torah that have no bearing on establishing the proof against Pharaoh.",
+            "bn": "ইবন কাসীর একই বর্ণনা আনেন ইমাম আহমাদের সূত্রে। তিনি জানান, তিরমিযী, নাসাঈ, ইবন মাজাহ ও ইবন জারীর শু'বা থেকে বিভিন্ন সূত্রে এটি বর্ণনা করেছেন, আর তিরমিযী একে হাসান সহীহ বলেছেন। এরপর তিনি নিজের খটকার কথা বলেন। তাঁর মতে হাদিসটি মুশকিল, অর্থাৎ জটিল। সাফওয়ান থেকে এর বর্ণনাকারী আবদুল্লাহ ইবন সালিমার স্মৃতিশক্তিতে কিছু দুর্বলতা আছে, আর তাঁকে নিয়ে সমালোচনা হয়েছে। ইবন কাসীরের ধারণা, হয়তো তিনি নয়টি নিদর্শনকে দশটি কালিমার সঙ্গে গুলিয়ে ফেলেছেন। দশ কালিমা হলো তাওরাতের উপদেশ, ফিরআউনের বিরুদ্ধে দলিল কায়েমের সঙ্গে যার কোনো সম্পর্ক নেই।"
+          },
+          {
+            "en": "So two readings stand side by side. Al-Qurtubi gives both, each introduced with it was said, and goes on to count the miracles. Ma'arif al-Qur'an takes the commandments as the meaning the report proves and says many commentators have preferred it. Ibn Kathir holds that the nine meant here are the signs Pharaoh's people saw, and points to 27:12, where the staff and the hand are set among nine signs to Pharaoh and his people. This article reports the disagreement as it stands and does not settle it.",
+            "bn": "ফলে দুটি ব্যাখ্যা পাশাপাশি দাঁড়িয়ে থাকে। কুরতুবী দুটিই আনেন, প্রতিটির শুরুতে 'বলা হয়েছে' কথাটি রেখে, তারপর মুজিযাগুলো গুনতে বসেন। মাআরিফুল কুরআনের মতে, বর্ণনাটি দিয়ে বিধানের অর্থই প্রমাণিত হয়, আর বহু তাফসীরকার এ মতকেই অগ্রাধিকার দিয়েছেন। ইবন কাসীরের মতে, এখানে নয়টি বলতে সেই নিদর্শনগুলোই বোঝানো, যা ফিরআউনের লোকেরা দেখেছিল। তিনি ২৭:১২ আয়াতের দিকে ইশারা করেন, যেখানে লাঠি আর হাতকে ফিরআউন ও তার কওমের কাছে পাঠানো নয় নিদর্শনের অংশ বলা হয়েছে। এ লেখা মতভেদটা যেমন আছে তেমনই জানায়, কোনো পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Told to Ask",
+          "bn": "জিজ্ঞাসার আদেশ কার প্রতি"
+        },
+        "p": [
+          {
+            "en": "Fa-s'al bani Isra'ila idh ja'ahum: so ask the Children of Israel about when he came to them. At-Tabari says the general body of readers recite it as a command, meaning: ask, O Muhammad, the Children of Israel about when Moses came to them. Al-Qurtubi agrees on the addressee and names the purpose: a question of inquiry, so that the Jews may know the truth of what Muhammad ﷺ says. The Muyassar calls it a question of confirmation, su'al taqrir, put to the Jews about the time Moses came to their forebears.",
+            "bn": "ফাস'আল বানী ইসরাঈলা ইয জা-আহুম: বানী ইসরাঈলকে জিজ্ঞেস করে দেখো, যখন তিনি তাদের কাছে এসেছিলেন। তাবারী বলেন, অধিকাংশ কারী এটিকে আদেশ হিসেবেই পড়েন। অর্থ দাঁড়ায়: হে মুহাম্মাদ, বানী ইসরাঈলকে জিজ্ঞেস করুন, মূসা যখন তাদের কাছে এসেছিলেন। কুরতুবীও বলেন সম্বোধনটা নবী ﷺ-এর প্রতি, আর উদ্দেশ্যও জানান: এ প্রশ্ন জানতে চাওয়ার প্রশ্ন, যাতে ইহুদিরা বুঝতে পারে মুহাম্মাদ ﷺ যা বলছেন তা সত্য। মুয়াসসার একে বলে সুওয়ালু তাকরীর, স্বীকার করিয়ে নেওয়ার প্রশ্ন। মূসা যখন তাদের পূর্বপুরুষদের কাছে এসেছিলেন, সে সম্পর্কে প্রশ্নটা ইহুদিদের করা হবে।"
+          },
+          {
+            "en": "Others widen the address. Al-Baghawi allows two senses: the Prophet ﷺ is addressed while others are meant, or he himself is told to ask. As-Sa'di frames it as a remedy for doubt: if you doubt anything of that, ask. At-Tabari records from al-Hasan al-Basri a figurative sense: your asking them is your looking into the Qur'an. He also reports that Ibn Abbas (RA) read fa-saʾala, a past verb: Moses asked Pharaoh to release the Children of Israel with him. At-Tabari accepts only the reading the readers of the cities agreed on.",
+            "bn": "কেউ কেউ সম্বোধনটা আরও প্রশস্ত করেন। বাগাভী দুই অর্থেরই সুযোগ রাখেন: সম্বোধন নবী ﷺ-এর প্রতি, কিন্তু উদ্দেশ্য অন্যরা। অথবা তাঁকেই জিজ্ঞেস করতে বলা হয়েছে। সা'দী একে দেখেন সন্দেহের ওষুধ হিসেবে: এর কোনো কিছুতে সন্দেহ থাকলে জিজ্ঞেস করে নাও। তাবারী হাসান বসরী থেকে একটি রূপক অর্থ আনেন: তাদের জিজ্ঞেস করা মানে কুরআনে তোমার চোখ রাখা। তিনি আরও জানান, ইবন আব্বাস (রাঃ) পড়তেন ফাসাআলা, অতীতকালের ক্রিয়া হিসেবে। তখন অর্থ হয়: মূসা ফিরআউনের কাছে চেয়েছিলেন বানী ইসরাঈলকে তাঁর সঙ্গে ছেড়ে দিতে। তাবারী অবশ্য সব শহরের কারীরা যে পাঠে একমত, শুধু সেটিকেই গ্রহণ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bewitched, or a Sorcerer",
+          "bn": "জাদুগ্রস্ত, নাকি জাদুকর"
+        },
+        "p": [
+          {
+            "en": "Pharaoh's verdict turns on one word: mashura. In form it is passive, one acted upon by sorcery. Al-Baghawi gives that plain sense from al-Kalbi: matbub, one on whom sorcery has been worked. From Ibn Abbas (RA) he gives deceived, and others, he notes, said turned away from the truth. Al-Qurtubi records deceived as one view and overpowered as Muqatil's. The Muyassar folds several together: a sorcerer, deceived, overpowered in your mind by the strange deeds you bring.",
+            "bn": "ফিরআউনের রায় ঘুরছে একটি শব্দে: মাসহূরা। গঠনে শব্দটি কর্মবাচ্য, অর্থাৎ যার উপর জাদু করা হয়েছে। বাগাভী কালবী থেকে এ সরল অর্থটাই আনেন: মাতবূব, যাকে জাদু করা হয়েছে। ইবন আব্বাস (রাঃ) থেকে তিনি আনেন প্রতারিত অর্থ। তিনি এটাও জানান, কেউ কেউ বলেছেন হক থেকে ফিরিয়ে নেওয়া লোক। কুরতুবী প্রতারিত অর্থটিকে একটি মত হিসেবে আনেন, আর পরাভূত অর্থটিকে মুকাতিলের মত হিসেবে। মুয়াসসার কয়েকটি অর্থ একসঙ্গে জুড়ে দেয়: জাদুকর, প্রতারিত, তোমার আনা আজব কাণ্ডে তোমার বুদ্ধি লোপ পেয়েছে।"
+          },
+          {
+            "en": "A second line reads the passive form as active. Al-Farra' and Abu ʿUbayda, cited by al-Qurtubi and al-Baghawi, take mashur to mean sahir, a sorcerer, the object form set in the place of the agent, as mash'um and maymun are said of a person who brings ill or good fortune. At-Tabari allows this, but leads with another sense: you engage in the knowledge of sorcery, and these wonders you perform come from your sorcery. Ibn Kathir, under it was said, notes the meaning sorcerer.",
+            "bn": "আরেক দল কর্মবাচ্য রূপটিকে কর্তৃবাচ্যের অর্থে পড়েন। কুরতুবী ও বাগাভী ফাররা ও আবু উবাইদার মত আনেন: মাসহূর মানে সাহির, জাদুকর। কর্তার জায়গায় কর্মের রূপ বসেছে, যেমন আরবরা অশুভ বা শুভ বয়ে আনা লোককে বলে মাশ'ঊম আর মাইমূন। তাবারী এ অর্থের সুযোগ রাখেন, তবে প্রথমে আনেন আরেকটি অর্থ: তুমি জাদুবিদ্যার চর্চা করো, আর তোমার দেখানো এসব আজব কাণ্ড তোমার জাদুরই ফল। ইবন কাসীর 'বলা হয়েছে' কথাটি দিয়ে জাদুকর অর্থটি উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs Seen and Renamed",
+          "bn": "দেখা নিদর্শন, নতুন নাম"
+        },
+        "p": [
+          {
+            "en": "Pharaoh's words are reported as his words, and the verse condemns his stance. It licenses nothing against any living person or community. Egyptians today included: they are not Pharaoh's court. Jews today included: they are not the Children of Israel the Prophet ﷺ was told to ask, nor the two men of the narration, whose stated fear is their own statement in one report and no judgement on anyone now. The verse describes one king's refusal and the witnesses to it, and goes no further than that.",
+            "bn": "ফিরআউনের কথা তার নিজের কথা হিসেবেই বর্ণিত, আর আয়াত তার অবস্থানকে নিন্দা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো অনুমতি দেয় না। আজকের মিসরীয়রাও এর বাইরে নয়, তারা ফিরআউনের দরবার নয়। আজকের ইহুদিরাও এর বাইরে নয়। তারা সেই বানী ইসরাঈল নয় যাদের জিজ্ঞেস করতে নবী ﷺ-কে বলা হয়েছিল, আবার বর্ণনার সেই দুজনও নয়। ওই দুজন যে ভয়ের কথা বলেছিল, তা একটি বর্ণনায় তাদেরই কথা, আজকের কারও উপর রায় নয়। আয়াত এক রাজার অস্বীকার আর তার সাক্ষীদের কথা বলে, এর বেশি কিছু নয়।"
+          },
+          {
+            "en": "What remains is the shape of the refusal. In 17:102 Moses answers that Pharaoh already knows none sent these down but the Lord of the heavens and the earth. Ibn Kathir says the same of Pharaoh: he had seen what he saw. The label came after the evidence, not for want of it. A reader can carry that home. When a truth arrives through someone inconvenient, a name for that person is always within reach. The verse asks that the signs be weighed before the bearer is named.",
+            "bn": "যা রয়ে যায় তা হলো অস্বীকারের ধরনটা। ১৭:১০২ আয়াতে মূসা (আঃ) জবাব দেন, তুমি তো ভালোই জানো, আসমান ও যমীনের রব ছাড়া আর কেউ এগুলো নাযিল করেননি। ইবন কাসীরও ফিরআউন সম্পর্কে একই কথা বলেন: যা দেখার, সে তা দেখেছিল। প্রমাণের অভাবে তকমা আসেনি, এসেছে প্রমাণ দেখার পরে। পাঠক কথাটা সঙ্গে নিয়ে যেতে পারেন। অপছন্দের কারও হাত ধরে সত্য এলে তাকে ডাকার মতো একটা নাম সবসময় হাতের কাছেই থাকে। আয়াত চায়, বাহকের নাম দেওয়ার আগে নিদর্শনটা মেপে দেখা হোক।"
+          }
+        ]
+      }
+    ]
+  },
   "17:104": {
     "sections": [
       {
