@@ -23011,6 +23011,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every power you hold, from strength to knowledge to reach, is a means God gave. Use it fully and rightly, and never mistake the gift for your own making.",
     "lessonBn": "শক্তি, জ্ঞান, প্রভাব, আপনার হাতের প্রতিটি ক্ষমতা আল্লাহর দেওয়া উপায়। তা পুরোপুরি ও সঠিক পথে কাজে লাগান, আর দানকে কখনো নিজের বানানো জিনিস ভাববেন না।"
+  },
+  "19:32": {
+    "reflectionEn": "A newborn speaks, and among the first things he says about himself is not a title or a wonder but this: my Lord made me dutiful to my mother. The woman holding him stood accused before her own people, and his words were her defence. Then he names what he was not made: a tyrant, a wretch. The two halves belong together. Hardness toward the one who carried you sits very close to arrogance, and gentleness toward her is where humility is learned. If one so honoured by Allah still bowed toward his mother, what excuse is left to me? How do I speak to my mother, or about her, when no one else is listening?",
+    "reflectionBn": "এক নবজাতক কথা বলছে। নিজের সম্পর্কে প্রথম দিকের কথাগুলোর একটি কোনো উপাধি নয়, কোনো অলৌকিক দাবিও নয়। সে বলছে: আমার রব আমাকে আমার মায়ের প্রতি সদাচারী বানিয়েছেন। যে নারী তাকে কোলে নিয়ে আছেন, নিজের লোকদের সামনেই তিনি তখন অভিযুক্ত, আর শিশুর এই কথাই তাঁর পক্ষে সাক্ষ্য। তারপর সে বলে, তাকে কী বানানো হয়নি: দাম্ভিক নয়, হতভাগাও নয়। দুটো কথা একসঙ্গে বাঁধা। যিনি পেটে ধরেছেন তাঁর প্রতি রূঢ়তা অহংকারের খুব কাছের জিনিস, আর তাঁর প্রতি কোমলতাতেই বিনয়ের পাঠ শুরু। আল্লাহর কাছে এত সম্মানিত একজন যদি মায়ের সামনে নত থাকেন, আমার আর কী অজুহাত থাকে? কেউ না শুনলে আমি মায়ের সঙ্গে, কিংবা মায়ের সম্পর্কে, কেমন করে কথা বলি?",
+    "pointsEn": [
+      "When did I last do something for my mother that she did not have to ask for?",
+      "Is there a tone I use with her that I would never use with someone I wanted to impress?",
+      "When I am angry, whose rights over me are the first ones I forget?",
+      "Where in my life do I behave as if no one has any claim on me at all?",
+      "If my mother has died or is far away, what can I still do for her today?"
+    ],
+    "pointsBn": [
+      "শেষ কবে মায়ের জন্য এমন কিছু করেছি, যা তাঁকে চেয়ে নিতে হয়নি?",
+      "মায়ের সঙ্গে কি এমন সুরে কথা বলি, যে সুরে কোনো সম্মানিত মানুষের সঙ্গে কখনো বলতাম না?",
+      "রেগে গেলে আমার উপর কার হক সবার আগে ভুলে যাই?",
+      "জীবনের কোন জায়গায় আমি এমন আচরণ করি, যেন আমার উপর কারও কোনো দাবিই নেই?",
+      "মা যদি দুনিয়া ছেড়ে গিয়ে থাকেন বা দূরে থাকেন, আজ তাঁর জন্য আমি কী করতে পারি?"
+    ],
+    "lessonEn": "Being good to your mother is part of serving Allah, not apart from it; whoever grows hard toward her is already sliding toward the arrogance this verse disowns.",
+    "lessonBn": "মায়ের প্রতি সদাচার আল্লাহর ইবাদতেরই অংশ, তার বাইরের কিছু নয়। মায়ের প্রতি যে রূঢ় হয়ে ওঠে, সে এ আয়াতের প্রত্যাখ্যাত অহংকারের দিকেই গড়িয়ে চলেছে।"
   }
 };
 

@@ -1199,6 +1199,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "Made Dutiful, Or Enjoined",
+          "bn": "সদাচারী বানানো, নাকি আদেশ"
+        },
+        "p": [
+          {
+            "en": "The cradle speech that opened in 19:30 with I am the servant of Allah runs on. After the blessing, the prayer and the zakāh of 19:31, ʿĪsā (AS) adds: wa barran bi-wālidatī, and dutiful to my mother. At-Tabari reads the word as joined to what came before: He made me blessed, and dutiful, that is, He made me dutiful to my mother. Al-Baghawi and al-Muyassar give the same construction. At-Tabari adds that barr here means bārr, the one who is dutiful, as in the saying he is barr to his father, and that the reciters of the great cities read it with the vowel a on its first letter.",
+            "bn": "১৯:৩০ আয়াতে দোলনার যে কথা শুরু হয়েছিল ‘আমি আল্লাহর বান্দা’ দিয়ে, তা চলছেই। ১৯:৩১ আয়াতে বরকত, নামায আর যাকাতের কথা বলার পর ঈসা (আঃ) যোগ করেন: ওয়া বাররাম বিওয়ালিদাতী, আর আমার মায়ের প্রতি সদাচারী। তাবারী শব্দটিকে আগের কথার সঙ্গে জুড়ে পড়েন। অর্থ দাঁড়ায়: তিনি আমাকে বরকতময় করেছেন, আর সদাচারীও, মানে আমার মায়ের প্রতি সদাচারী বানিয়েছেন। বাগাভী আর মুয়াসসারও বাক্যটি এভাবেই সাজান। তাবারী আরও বলেন, এখানে ‘বার্র’ আর ‘বা-র্র’ একই অর্থ বহন করে, অর্থাৎ যে সদাচারী। যেমন বলা হয়, সে তার বাবার প্রতি বার্র। বড় শহরগুলোর কারীরা শব্দটির প্রথম অক্ষর যবর দিয়ে পড়েছেন।"
+          },
+          {
+            "en": "At-Tabari then records a report from Abu Nahik, who took the phrase another way: He enjoined upon me prayer, zakāh and dutifulness to parents, just as He enjoined those. On that reading, at-Tabari explains, the word falls under the verb of enjoining, as one more thing commanded. Ibn Kathir and as-Saʿdī both gloss the clause in this second way: He commanded me to be dutiful to my mother; He enjoined me also to be good to her. The two readings do not quarrel over the duty itself. One makes it a trait Allah placed in him, the other an order he was given. On either, it came from Allah.",
+            "bn": "এরপর তাবারী আবু নাহীকের একটি বর্ণনা আনেন। তিনি বাক্যটি ভিন্নভাবে বুঝেছিলেন: তিনি আমাকে নামায, যাকাত আর পিতামাতার প্রতি সদাচারের আদেশ দিয়েছেন, যেমন ওই দুটির আদেশ দিয়েছেন। তাবারী ব্যাখ্যা করেন, এই পাঠে শব্দটি আদেশের ক্রিয়ার অধীনে পড়ে, আদিষ্ট বিষয়গুলোর আরেকটি হয়ে। ইবন কাসীর আর সা'দী দুজনেই এ দ্বিতীয় পথে ব্যাখ্যা দেন। ইবন কাসীরের ভাষায়: তিনি আমাকে মায়ের প্রতি সদাচারের হুকুম দিয়েছেন। সা'দীর ভাষায়: মায়ের প্রতি ভালো ব্যবহারেরও তিনি আমাকে আদেশ করেছেন। কর্তব্য নিয়ে দুই পাঠে কোনো বিরোধ নেই। একটিতে এ গুণ আল্লাহ তাঁর ভেতরে রেখেছেন, অন্যটিতে এ তাঁর প্রতি দেওয়া হুকুম। দুই দিক থেকেই উৎস আল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only His Mother Named",
+          "bn": "শুধু মায়ের নাম"
+        },
+        "p": [
+          {
+            "en": "The verse names one parent. Al-Qurtubi reports from Ibn ʿAbbās (RA) that when ʿĪsā said dutiful to my mother, and did not say bi-wālidī, a word that would have brought in a father, it was known that his was a matter from Allah. Ma'arif al-Qur'an makes the same observation: only the mother is mentioned here and not both parents, and so it is implied that his birth was a miracle, without a father. It adds that such speech coming from an infant was itself a miracle that proved that birth.",
+            "bn": "আয়াতে পিতামাতার একজনেরই নাম এসেছে। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ঈসা (আঃ) যখন বললেন ‘আমার মায়ের প্রতি সদাচারী’, আর ‘বিওয়ালিদী’ বললেন না, যে শব্দে বাবাও এসে পড়তেন, তখনই বোঝা গেল তাঁর ব্যাপারটা আল্লাহর পক্ষ থেকে। মাআরিফুল কুরআনও একই কথা বলে। এখানে শুধু মায়ের উল্লেখ, পিতামাতা দুজনের নয়। তাতে ইঙ্গিত মেলে, তাঁর জন্ম ছিল অলৌকিক, বাবা ছাড়াই। মাআরিফ আরও বলে, দুধের শিশুর মুখে এমন কথা নিজেই এক মুজিজা, যা সেই জন্মের প্রমাণ হয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "The setting sharpens the point. In 19:27 and 19:28 his people met Maryam (AS) with a charge, reminding her that her father was no evil man and her mother was not unchaste. She pointed to the child, and the child answered. Al-Qurtubi says his speaking was to make his mother's innocence plain, and that her innocence of the charge was established by his speech in the cradle. Read that way, the words in which he names his duty to her are themselves part of how that duty was first carried out: they are among the words that cleared her name.",
+            "bn": "প্রেক্ষাপট কথাটাকে আরও ধারালো করে। ১৯:২৭ ও ১৯:২৮ আয়াতে তাঁর সম্প্রদায় মারইয়াম (আঃ)-কে অভিযোগ নিয়ে ঘিরে ধরে। তারা মনে করিয়ে দেয়, তাঁর বাবা খারাপ লোক ছিলেন না, মাও অসতী ছিলেন না। তিনি শিশুর দিকে ইশারা করলেন, আর শিশুই জবাব দিল। কুরতুবী বলেন, এই কথা বলার উদ্দেশ্য ছিল মায়ের নির্দোষিতা স্পষ্ট করা। দোলনায় তাঁর কথাতেই অভিযোগ থেকে মায়ের মুক্তি প্রতিষ্ঠিত হয়। এভাবে দেখলে, যে কথায় তিনি মায়ের প্রতি নিজের কর্তব্যের উল্লেখ করছেন, সে কথাই সেই কর্তব্য পালনের প্রথম ধাপ। মায়ের নাম যে কথাগুলো কলঙ্কমুক্ত করেছিল, এগুলো তারই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Placed Right After Worship",
+          "bn": "ইবাদতের ঠিক পরেই"
+        },
+        "p": [
+          {
+            "en": "Why mention his mother here, straight after prayer and zakāh? Ibn Kathir answers that he named it after obedience to Allah his Lord because Allah very often pairs the command to worship Him with dutifulness to parents. He cites two verses: your Lord has decreed that you worship none but Him, and goodness to parents (17:23); and give thanks to Me and to your parents, to Me is the return (31:14). The order of 19:31 and 19:32 follows the same pattern: first what is owed to Allah, then, without a break, what is owed to the mother.",
+            "bn": "নামায আর যাকাতের ঠিক পরেই মায়ের কথা কেন? ইবন কাসীর জবাব দেন: রবের আনুগত্যের পর তিনি এর উল্লেখ করেছেন, কারণ আল্লাহ বহু জায়গায় নিজের ইবাদতের আদেশের সঙ্গে পিতামাতার প্রতি সদাচারের আদেশ জুড়ে দেন। তিনি দুটি আয়াত আনেন। একটি ১৭:২৩: তোমার রব ফয়সালা করেছেন, তোমরা তাঁকে ছাড়া কারও ইবাদত করবে না, আর পিতামাতার সঙ্গে সদ্ব্যবহার করবে। অন্যটি ৩১:১৪: আমার প্রতি আর তোমার পিতামাতার প্রতি কৃতজ্ঞ হও, ফিরে আসা আমারই কাছে। ১৯:৩১ ও ১৯:৩২ আয়াতের বিন্যাসও তাই। আগে আল্লাহর হক, তারপর কোনো বিরতি ছাড়াই মায়ের হক।"
+          },
+          {
+            "en": "As-Saʿdī spells out what the duty holds: to be good to her with the utmost goodness and to do what is fitting toward her, because of her honour and her virtue, and because she is a mother, with the right of having borne him and all that follows from it. Al-Qurtubi draws a ruling from the passage. It shows, he says, that prayer, zakāh and dutifulness to parents were obligatory on the nations of the past, a ruling that stands and was never abrogated. The duty to one's mother did not begin with this Ummah; it reaches back through the prophets before.",
+            "bn": "সা'দী কর্তব্যটার ভেতরের কথা খুলে বলেন। মায়ের প্রতি সর্বোচ্চ সদ্ব্যবহার করা, আর তাঁর প্রতি যা করা উচিত তা পালন করা। কারণ তাঁর মর্যাদা আছে, ফজিলত আছে, আর তিনি মা। জন্ম দেওয়ার হক তাঁর, সেই সঙ্গে তার পরের সব কিছুর হকও। কুরতুবী এই অংশ থেকে একটি বিধান বের করেন। তাঁর মতে এতে বোঝা যায়, নামায, যাকাত আর পিতামাতার প্রতি সদাচার আগের উম্মতগুলোর উপরও ফরজ ছিল। এ বিধান বহাল আছে, কখনো রহিত হয়নি। কাজেই মায়ের প্রতি কর্তব্য এই উম্মত থেকে শুরু হয়নি, এর শিকড় আগের নবীদের যুগ পর্যন্ত ছড়ানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Mother, Three Times",
+          "bn": "তিনবার মায়ের নাম"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it, and the reports they do carry, from Qatādah and others, are comments of early scholars rather than sayings of the Prophet ﷺ. There is, however, a sound narration that speaks to the verse's subject in general terms. It is not tied to 19:32 by any of these tafsirs, and it is quoted here for its theme alone, as a general teaching on the right of mothers.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস জুড়ে দেয়নি। তারা কাতাদা ও অন্যদের যে বর্ণনাগুলো আনে, সেগুলো প্রথম যুগের আলেমদের মন্তব্য, নবী ﷺ-এর বাণী নয়। তবে একটি সহীহ বর্ণনা আছে, যা সাধারণভাবে এ আয়াতের বিষয় নিয়েই কথা বলে। এই তাফসীরগুলোর কোনোটি একে ১৯:৩২ আয়াতের সঙ্গে বাঁধেনি। এখানে তা আনা হলো শুধু বিষয়ের মিলের জন্য, মায়ের হক নিয়ে একটি সাধারণ শিক্ষা হিসেবে।"
+          },
+          {
+            "en": "Al-Bukhari records it in his Sahih, no. 5971, from Abu Hurayra (RA): A man came to Allah's Messenger ﷺ and said, \"O Allah's Messenger! Who is more entitled to be treated with the best companionship by me?\" The Prophet ﷺ said, \"Your mother.\" The man said, \"Who is next?\" The Prophet said, \"Your mother.\" The man further said, \"Who is next?\" The Prophet ﷺ said, \"Your mother.\" The man asked for the fourth time, \"Who is next?\" The Prophet ﷺ said, \"Your father.\"",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে, ৫৯৭১ নম্বরে, আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন: এক ব্যক্তি আল্লাহর রাসূল ﷺ-এর কাছে এসে বলল, ‘হে আল্লাহর রাসূল! আমার কাছ থেকে সবচেয়ে উত্তম সাহচর্য পাওয়ার সবচেয়ে বেশি হকদার কে?’ নবী ﷺ বললেন, ‘তোমার মা।’ লোকটি বলল, ‘তারপর কে?’ নবী বললেন, ‘তোমার মা।’ লোকটি আবার বলল, ‘তারপর কে?’ নবী ﷺ বললেন, ‘তোমার মা।’ লোকটি চতুর্থবার জিজ্ঞেস করল, ‘তারপর কে?’ নবী ﷺ বললেন, ‘তোমার বাবা।’"
+          },
+          {
+            "en": "Al-Bukhari also records from Abu Hurayra (RA), no. 3436, the Prophet's ﷺ saying that none spoke in the cradle but three, and the first he names is ʿĪsā (AS). That narration is too long to quote whole here, and it is not clipped. It too is general, not attached to this verse by the commentaries, though one of its stories, of a man of Bani Isra'il named Jurayj, turns on a mother who called her son while he was praying.",
+            "bn": "বুখারী আবু হুরায়রা (রাঃ) থেকে ৩৪৩৬ নম্বরে নবী ﷺ-এর আরেকটি বাণী এনেছেন: দোলনায় তিনজন ছাড়া কেউ কথা বলেনি, আর তাদের প্রথম নামটি ঈসা (আঃ)-এর। বর্ণনাটি এত দীর্ঘ যে এখানে পুরোটা উদ্ধৃত করা যায় না, আর কেটে ছোট করেও দেওয়া হচ্ছে না। এটিও সাধারণ বর্ণনা, তাফসীরগুলো একে এ আয়াতের সঙ্গে বাঁধেনি। তবে এর একটি কাহিনি বনী ইসরাঈলের জুরাইজ নামের এক ব্যক্তিকে নিয়ে, আর সে কাহিনির মোড় ঘোরে এক মাকে ঘিরে, যিনি ছেলেকে ডেকেছিলেন যখন ছেলে নামাযে দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Tyrant He Was Not",
+          "bn": "যে জাব্বার তিনি নন"
+        },
+        "p": [
+          {
+            "en": "Then comes the denial: wa lam yajʿalnī jabbāran shaqiyyā, and He has not made me a jabbār, a shaqī. At-Tabari explains jabbār as one who is arrogant against Allah in what He commanded and forbade him; rather, ʿĪsā is saying, He humbled me to His obedience and made me humble. Ibn Kathir reads it as not too proud to worship Him, obey Him and be dutiful to my mother, and so become wretched by it. As-Saʿdī joins the two directions that arrogance can take: arrogant toward Allah, and raising oneself above His servants.",
+            "bn": "এরপর আসে অস্বীকৃতি: ওয়া লাম ইয়াজআলনী জাব্বারান শাকিয়্যা, আর তিনি আমাকে জাব্বার ও শাকী বানাননি। তাবারী জাব্বারের ব্যাখ্যা দেন এভাবে: যে আল্লাহর আদেশ-নিষেধের ব্যাপারে তাঁর বিরুদ্ধে অহংকার করে। ঈসা (আঃ) যেন বলছেন, তিনি বরং আমাকে তাঁর আনুগত্যে নত করেছেন, বিনয়ী বানিয়েছেন। ইবন কাসীরের পাঠে অর্থ হলো: তাঁর ইবাদত, তাঁর আনুগত্য আর মায়ের প্রতি সদাচারের বেলায় আমাকে এমন অহংকারী করেননি যে তার ফলে হতভাগা হয়ে যাই। সা'দী অহংকারের দুই দিক একসঙ্গে ধরেন। একটি আল্লাহর প্রতি ঔদ্ধত্য, অন্যটি তাঁর বান্দাদের উপর নিজেকে উঁচু করে দেখা।"
+          },
+          {
+            "en": "Al-Qurtubi gives the word a harder edge: one who holds himself great and proud, who kills and strikes in anger. He adds a second definition, introduced with it was said: the jabbār is one who never sees that anyone has any right over him at all. Ibn Kathir relays Sufyān ath-Thawrī: the jabbār shaqī is the one who gives himself over to anger. Taken together, the word describes a person whose pride has outgrown every claim on him, whether Allah's, a mother's or anyone else's, and who lets his anger do the speaking.",
+            "bn": "কুরতুবী শব্দটিকে আরও কঠিন রূপে দেখান: যে নিজেকে বড় মনে করে, দম্ভ করে, রাগের মাথায় মারে, খুন করে। ‘বলা হয়েছে’ বলে তিনি দ্বিতীয় একটি সংজ্ঞাও আনেন: জাব্বার সে, যে কখনো মনে করে না তার উপর কারও কোনো হক আছে। ইবন কাসীর সুফিয়ান সাওরীর কথা উদ্ধৃত করেন: জাব্বার শাকী সে, যে রাগের হাতে নিজেকে ছেড়ে দেয়। সব মিলিয়ে শব্দটি এমন মানুষের ছবি আঁকে, যার অহংকার তার উপর থাকা সব দাবিকে ছাড়িয়ে গেছে। আল্লাহর দাবি, মায়ের দাবি, কারও দাবিই সে আর মানে না, আর তার হয়ে কথা বলে তার রাগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wretched, Read Several Ways",
+          "bn": "শাকী শব্দের নানা ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Shaqī draws several glosses. Al-Qurtubi gives first khāʾiban min al-khayr, one who has missed out on good. He reports from Ibn ʿAbbās (RA) a sharper sense: ʿāqq, undutiful to parents. Then come two more, each introduced with it was said: disobedient to his Lord; and one who abandons Allah's command and so becomes wretched, as Iblīs became wretched when he abandoned His command. Al-Baghawi and al-Muyassar give disobedient to his Lord, and al-Baghawi adds, again with it was said, that the shaqī is the one who sins and does not repent.",
+            "bn": "শাকী শব্দের ব্যাখ্যা অনেক রকম। কুরতুবী প্রথমে বলেন খাইবান মিনাল খাইর, অর্থাৎ যে কল্যাণ থেকে বঞ্চিত। ইবন আব্বাস (রাঃ) থেকে তিনি আরও ধারালো একটি অর্থ আনেন: আক্ক, পিতামাতার অবাধ্য। এরপর ‘বলা হয়েছে’ দিয়ে আরও দুটি মত। এক, যে রবের নাফরমান। দুই, যে আল্লাহর আদেশ ছেড়ে দিয়ে হতভাগা হয়, যেমন ইবলীস আদেশ অমান্য করে হতভাগা হয়েছিল। বাগাভী আর মুয়াসসার অর্থ করেন রবের নাফরমান। বাগাভী ‘বলা হয়েছে’ বলে যোগ করেন: শাকী সে, যে গুনাহ করে অথচ তওবা করে না।"
+          },
+          {
+            "en": "As-Saʿdī reads it as wretched in this world or the next, and turns the denial into its positive: Allah made him obedient, submissive and lowly before Him, humble toward His servants, happy in this world and the Hereafter, he and whoever followed him. Ibn ʿAbbās's gloss deserves another look. If shaqī can mean undutiful to parents, the verse's two halves face each other exactly: dutiful to my mother, and not made undutiful. The second clause then says in the negative what the first has said in the positive.",
+            "bn": "সা'দী অর্থ করেন দুনিয়ায় বা আখিরাতে হতভাগা। তারপর অস্বীকৃতিকে উল্টে তার ইতিবাচক রূপটা দেখান: আল্লাহ তাঁকে বানিয়েছেন অনুগত, তাঁর সামনে নত ও বিনীত, তাঁর বান্দাদের প্রতি নম্র, দুনিয়া ও আখিরাতে সৌভাগ্যবান। তিনি নিজে, আর যারা তাঁকে অনুসরণ করেছে তারাও। ইবন আব্বাসের ব্যাখ্যাটা আরেকবার ভেবে দেখার মতো। শাকী যদি পিতামাতার অবাধ্য অর্থ দেয়, তাহলে আয়াতের দুই অংশ মুখোমুখি দাঁড়ায়। মায়ের প্রতি সদাচারী, আর অবাধ্য বানানো হয়নি। প্রথম অংশ যা হ্যাঁ-বাচক ভাষায় বলেছে, দ্বিতীয় অংশ তা-ই বলছে না-বাচক ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Undutifulness Leads",
+          "bn": "অবাধ্যতা কোথায় গিয়ে ঠেকে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir relays a saying from some of the Salaf, which at-Tabari carries with a chain through ʿAbdullāh ibn Wāqid Abū Rajāʾ from some of the people of knowledge: you will not find anyone undutiful to his parents without finding him jabbār and shaqī. Then he recited this verse. He added: and you will not find anyone who treats badly those in his charge without finding him conceited and boastful, and he recited the words of 4:36 about those your right hands possess, that Allah does not love the conceited and boastful.",
+            "bn": "ইবন কাসীর সালাফের কারও কারও একটি কথা আনেন। তাবারী একই কথা সনদসহ আনেন আবদুল্লাহ ইবন ওয়াকিদ আবু রাজা থেকে, তিনি কিছু আলেম থেকে। কথাটি এই: পিতামাতার অবাধ্য কাউকে পাবে না, যাকে জাব্বার ও শাকী পাবে না। তারপর তিনি এ আয়াত পড়েন। তিনি আরও বলেন: অধীনস্থদের সঙ্গে খারাপ আচরণ করে এমন কাউকে পাবে না, যাকে দাম্ভিক ও অহংকারী পাবে না। তারপর তিনি ৪:৩৬ আয়াতের সেই অংশ পড়েন, যেখানে ডান হাতের অধিকারভুক্তদের কথা আছে, আর আছে যে আল্লাহ দাম্ভিক অহংকারীকে ভালোবাসেন না।"
+          },
+          {
+            "en": "The saying is an observation from experience, not a hadith, given here as the commentators give it. Its logic is still worth weighing. Undutifulness rarely begins as hatred. More often it begins as a feeling of having outgrown the person who raised you, as if her claims no longer bind. That is close to al-Qurtubi's second jabbār, who sees no right of anyone over him. The verse sets the remedy beside the illness: dutifulness to the mother stands in the same breath as the denial of tyranny.",
+            "bn": "কথাটি অভিজ্ঞতা থেকে আসা পর্যবেক্ষণ, হাদিস নয়। তাফসীরকারেরা যেভাবে এনেছেন, এখানেও সেভাবেই আনা হলো। তবু এর যুক্তিটা ভেবে দেখার মতো। অবাধ্যতা সাধারণত ঘৃণা দিয়ে শুরু হয় না। বেশির ভাগ সময় শুরু হয় এক অনুভূতি থেকে: যিনি বড় করেছেন, তাঁকে আমি ছাড়িয়ে এসেছি, তাঁর দাবি আর আমার উপর খাটে না। কুরতুবীর দ্বিতীয় সংজ্ঞার জাব্বারের সঙ্গে এর মিল স্পষ্ট, যে নিজের উপর কারও হক দেখে না। আয়াত রোগের পাশেই ওষুধ রেখেছে। মায়ের প্রতি সদাচার আর জাব্বার না হওয়া, দুটো কথা এক নিঃশ্বাসে।"
+          },
+          {
+            "en": "At-Tabari carries from Qatādah, introduced with it was mentioned to us, that ʿĪsā would say: ask me, for my heart is soft, and I am small in my own eyes, from the humility Allah had given him. Al-Qurtubi describes ʿĪsā (AS) as utterly humble: he ate from the trees, wore garments of hair, sat on the dust and sheltered wherever night overtook him, with no dwelling of his own. These come as reports in the tafsirs, not as narrations from the Prophet ﷺ, and they are given here as such.",
+            "bn": "তাবারী কাতাদা থেকে ‘আমাদের কাছে উল্লেখ করা হয়েছে’ বলে একটি বর্ণনা আনেন। ঈসা (আঃ) বলতেন: আমাকে জিজ্ঞেস করো, আমার মন নরম, আর নিজের চোখে আমি ছোট। আল্লাহ তাঁকে যে বিনয় দিয়েছিলেন, এ তারই প্রকাশ। কুরতুবী ঈসা (আঃ)-এর বিনয়কে চরম বলে বর্ণনা করেন। তিনি গাছের ফল-পাতা খেতেন, পশমের পোশাক পরতেন, মাটিতে বসতেন। যেখানে রাত নামত, সেখানেই আশ্রয় নিতেন, নিজের কোনো ঘর ছিল না। এগুলো তাফসীরে আসা বর্ণনা, নবী ﷺ থেকে আসা হাদিস নয়, আর এখানে সেভাবেই আনা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blessed Is The Follower",
+          "bn": "অনুসারীই সৌভাগ্যবান"
+        },
+        "p": [
+          {
+            "en": "Qatādah's other report, again introduced with it was mentioned to us, appears in both at-Tabari and Ibn Kathir. A woman saw the son of Maryam raising the dead and healing the blind and the leper, among signs Allah gave him power over and permitted him, and she said: blessed is the womb that carried you and the breast that nursed you. He answered her: blessed is whoever recites the Book of Allah and follows what is in it, and is not jabbār shaqī. At-Tabari's wording has the Book of Allah; Ibn Kathir's has the word of Allah.",
+            "bn": "কাতাদার আরেকটি বর্ণনা, এটিও ‘আমাদের কাছে উল্লেখ করা হয়েছে’ বলে শুরু, তাবারী ও ইবন কাসীর দুজনেই এনেছেন। এক নারী দেখলেন, মারইয়াম-পুত্র মৃতকে জীবিত করছেন, জন্মান্ধ আর কুষ্ঠরোগীকে সারিয়ে তুলছেন। এগুলো ছিল সেই নিদর্শন, যার ক্ষমতা আল্লাহ তাঁকে দিয়েছিলেন, যার অনুমতি দিয়েছিলেন। নারীটি বললেন: ধন্য সেই গর্ভ, যা তোমাকে ধারণ করেছে, আর সেই স্তন, যা তোমাকে দুধ পান করিয়েছে। তিনি জবাব দিলেন: ধন্য সে, যে আল্লাহর কিতাব তিলাওয়াত করে, তাতে যা আছে তা মেনে চলে, আর জাব্বার শাকী নয়। তাবারীর পাঠে আছে আল্লাহর কিতাব, ইবন কাসীরের পাঠে আল্লাহর কালাম।"
+          },
+          {
+            "en": "Notice where his answer moves the blessing. The woman offered it to the mother who bore him; his reply carries it to anyone who follows what Allah revealed and refuses arrogance, and ends on this verse's own words. The next verse, 19:33, closes the cradle speech with peace upon him the day he was born, the day he dies and the day he is raised alive. This verse describes what ʿĪsā (AS) said of himself, in honour of his mother and his Lord. It licenses nothing against any living person or community, Christians today included.",
+            "bn": "খেয়াল করুন, তাঁর জবাব সৌভাগ্যকে কোথায় সরিয়ে নিল। নারীটি তা দিয়েছিলেন সেই মাকে, যিনি তাঁকে জন্ম দিয়েছেন। তাঁর জবাব তা পৌঁছে দিল এমন যে কারও কাছে, যে আল্লাহর নাজিল করা বিধান মানে আর অহংকার ছাড়ে। জবাবটা শেষও হলো এ আয়াতেরই শব্দে। পরের আয়াত ১৯:৩৩ দোলনার কথা শেষ করে শান্তির কথায়: যেদিন তিনি জন্মেছেন, যেদিন মারা যাবেন, আর যেদিন জীবিত হয়ে উঠবেন। এ আয়াত বর্ণনা করে ঈসা (আঃ) নিজের সম্পর্কে কী বলেছেন, মা আর রবের সম্মানে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না, আজকের খ্রিস্টানরাও এর বাইরে নন।"
+          },
+          {
+            "en": "What the verse leaves the reader is a pairing. A prophet given the Scripture and made blessed names, among his first words, his duty to his mother, and in the same breath disowns tyranny and wretchedness. These are not separate virtues. To be dutiful is to admit that someone has a right over you; to be a jabbār, in al-Qurtubi's second definition, is to deny that anyone has. Whoever grows impatient with a mother's claims has found the first thread of that arrogance, and the verse shows which way to pull it.",
+            "bn": "আয়াতটি পাঠকের হাতে একটি জোড়া রেখে যায়। কিতাবপ্রাপ্ত, বরকতময় একজন নবী তাঁর প্রথম কথাগুলোর মধ্যেই মায়ের প্রতি কর্তব্যের উল্লেখ করেন, আর একই নিঃশ্বাসে জাব্বার ও শাকী হওয়াকে অস্বীকার করেন। এ দুটো আলাদা গুণ নয়। সদাচারী হওয়া মানে মেনে নেওয়া যে আপনার উপর কারও হক আছে। কুরতুবীর দ্বিতীয় সংজ্ঞায় জাব্বার হওয়া মানে অস্বীকার করা যে কারও হক আছে। মায়ের দাবিতে যিনি অধৈর্য হয়ে ওঠেন, তিনি সেই অহংকারের প্রথম সুতাটা খুঁজে পেয়েছেন। কোন দিকে টানলে তা খুলে আসে, আয়াত তা দেখিয়ে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "19:37": {
     "sections": [
       {
