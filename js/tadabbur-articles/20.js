@@ -2031,6 +2031,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:64": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Huddle Reaches a Decision",
+          "bn": "শলাপরামর্শের শেষ সিদ্ধান্ত"
+        },
+        "p": [
+          {
+            "en": "Fa-ajmi'u kaydakum thumma'tu saffan, wa-qad aflaha l-yawma mani-sta'la: so make your plot firm, then come forward in a line, and whoever gains the upper hand today has succeeded. In 20:61 Musa (AS) faces the sorcerers and warns them not to invent a lie against Allah, for whoever invents one has failed. In 20:62 they dispute their affair among themselves and keep their talk secret. In 20:63 they name Musa and Harun (AS) as two sorcerers. Here, in ten Arabic words, the private talk ends in a decision.",
+            "bn": "ফাআজমিঊ কাইদাকুম সুম্মা'তূ সাফ্ফা, ওয়া কাদ আফলাহাল ইয়াওমা মানিস্তা'লা: কাজেই তোমাদের কৌশল পাকা করো, তারপর সারি বেঁধে এগিয়ে এসো, আর আজ যে উপরে উঠবে সে-ই সফল। ২০:৬১ আয়াতে মূসা (আঃ) যাদুকরদের মুখোমুখি হয়ে সতর্ক করেন: আল্লাহর নামে মিথ্যা বানিয়ো না, যে বানায় সে ব্যর্থ। ২০:৬২ আয়াতে তারা নিজেদের মধ্যে বিষয়টা নিয়ে টানাটানি করে, কথাবার্তা চলে গোপনে। ২০:৬৩ আয়াতে তারা মূসা ও হারূন (আঃ)-কে বলে দুই যাদুকর। আর এখানে, আরবির মাত্র দশটি শব্দে, সেই গোপন আলাপ গিয়ে থামে একটা সিদ্ধান্তে।"
+          },
+          {
+            "en": "Whose decision is it? Al-Qurtubi says that all of this is the sorcerers speaking to one another, and then gives a second view under the words 'it is said': that it is Pharaoh speaking to them. At-Tabari, on this verse, relays through Ibn Ishaq a report from Wahb ibn Munabbih, which Ibn Ishaq says reached him at second hand, that Pharaoh gathered the people and then commanded the sorcerers: come in a line, and whoever prevails today has succeeded. Ibn Kathir and the Muyassar read the words as the sorcerers' own counsel. Both readings are kept here.",
+            "bn": "সিদ্ধান্তটা কার? কুরতুবী বলেন, পুরো কথাটাই যাদুকরদের পরস্পরের প্রতি। তারপর 'বলা হয়' কথাটি দিয়ে আরেকটি মত আনেন: এটা তাদের প্রতি ফেরাউনের কথা। তাবারী এ আয়াতের আলোচনায় ইবন ইসহাকের সূত্রে ওয়াহব ইবন মুনাব্বিহের একটি বর্ণনা আনেন। ইবন ইসহাক জানান, বর্ণনাটি তাঁর কাছে এসেছে অন্যের মুখে শুনে। তাতে আছে, ফেরাউন লোকজন জড়ো করল, তারপর যাদুকরদের হুকুম দিল: সারি বেঁধে এসো, আজ যে জিতবে সে-ই সফল। ইবন কাসীর ও মুয়াসসার কথাগুলোকে যাদুকরদের নিজেদের পরামর্শ হিসেবেই পড়েন। এখানে দুটো পাঠই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Whispering Was About",
+          "bn": "কানাকানির বিষয় কী ছিল"
+        },
+        "p": [
+          {
+            "en": "The two verses before this one are given only as far as the sources take them. On 20:62, Ibn Kathir in the English abridgement reports, under 'it has been said', that one of them said this is not a sorcerer's speech but a prophet's, and another said no, he is only a sorcerer; he notes other opinions and ends, Allah knows best. On 20:63, he says in hadhani la-sahirani follows a way of speaking among some Arabs, that others recite inna hadhayni, and that the grammarians' long discussion of it is not for his book.",
+            "bn": "এ আয়াতের আগের দুটি আয়াত এখানে কেবল ততটুকুই আসছে, যতটুকু সূত্রে আছে। ২০:৬২ আয়াতে ইবন কাসীর, ইংরেজি সংক্ষিপ্ত সংস্করণে, 'বলা হয়েছে' কথাটি দিয়ে জানান: তাদের একজন বলল, এটা যাদুকরের কথা নয়, নবীর কথা। আরেকজন বলল, না, সে নিছক যাদুকর। তিনি অন্য মতের কথাও বলেন, শেষে লেখেন, আল্লাহই ভালো জানেন। ২০:৬৩ আয়াতের ইন হাযানি লাসাহিরানি সম্পর্কে তাঁর কথা: এটা কিছু আরবের বলার ধরন। অন্যরা পড়েন ইন্না হাযাইনি। ব্যাকরণবিদদের দীর্ঘ আলোচনার জায়গা তাঁর বইয়ে নয়, এটুকু বলেই তিনি থামেন।"
+          },
+          {
+            "en": "At-Tabari's commentary on 20:63, which the API files under this verse, records that most readers of the cities read inna with a doubled nun and hadhani with an alif. He takes it, for the readers' consensus and the script of the mushaf, explaining it as the usage of Balharith ibn Ka'b, Khath'am, Zubayd and the Yemeni tribes near them. He relays from Abu 'Ubaydah that Abu 'Amr, 'Isa ibn 'Umar and Yunus pronounced it hadhayni. The 'finest way' the two would take away is, for at-Tabari, their chiefs and nobles; for Ibn Kathir, the magic that gave them wealth and livelihood.",
+            "bn": "তাবারী ২০:৬৩ আয়াত নিয়ে যা লিখেছেন, এপিআই সেটা রেখেছে এই আয়াতের ঘরে। সেখানে তিনি জানান, শহরগুলোর অধিকাংশ কারী পড়েন ইন্না, নূনে তাশদীদ দিয়ে, আর হাযানি পড়েন আলিফ রেখে। এ পাঠই তিনি নেন, কারণ কারীদের ঐকমত্য এর পক্ষে আর মুসহাফের লিখনও এমনই। ব্যাখ্যা দেন এভাবে: এটা বনু হারিস ইবন কা'ব, খাস'আম, যুবাইদ ও তাদের আশপাশের ইয়ামানি গোত্রগুলোর ভাষারীতি। আবু উবাইদার সূত্রে তিনি জানান, আবু আমর, ঈসা ইবন উমার ও ইউনুস উচ্চারণ করতেন হাযাইনি। যে 'উৎকৃষ্ট পথ' ওই দুজন কেড়ে নেবে বলে তারা ভয় দেখাল, তাবারীর কাছে তা তাদের নেতা ও অভিজাত মানুষেরা। ইবন কাসীরের কাছে তা সেই যাদু, যা তাদের ধন আর রুজি জোগাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Resolve It or Bring Everything",
+          "bn": "পাকা করো, নাকি সবটা আনো"
+        },
+        "p": [
+          {
+            "en": "The first verb divides the readers. Al-Qurtubi defines ijma' as making a thing firm and resolving upon it: ajma'tu al-khuruj, I resolved to set out. Every city, he says, read fa-ajmi'u, except Abu 'Amr, who read fa-jma'u, joining the alif and opening the mim, and argued from 20:60, fa-jama'a kaydahu, Pharaoh gathered his plot. Al-Baghawi also names Abu 'Amr and gives his sense: leave nothing of your plot behind but bring it. At-Tabari assigns the hamza reading to most readers of Madinah and Kufah and the joined reading to some readers of Basrah, without naming anyone.",
+            "bn": "প্রথম ক্রিয়াটিতেই কারীদের পথ আলাদা হয়ে যায়। কুরতুবী ইজমা'র সংজ্ঞা দেন: কোনো কাজ পাকা করা আর তার উপর সংকল্প করা। যেমন আজমা'তুল খুরূজ, মানে বের হওয়ার সংকল্প করলাম। তিনি জানান, সব শহরের পাঠ ফাআজমিঊ, কেবল আবু আমর ছাড়া। তিনি পড়েছেন ফাজমাঊ, আলিফ মিলিয়ে আর মীমে যবর দিয়ে। দলিল দিয়েছেন ২০:৬০ আয়াত থেকে: ফাজামাআ কাইদাহু, ফেরাউন তার কৌশল জড়ো করল। বাগাভীও আবু আমরের নাম নেন, অর্থও বলেন: কৌশলের কিছুই বাদ রেখো না, সবটা নিয়ে এসো। তাবারী হামযার পাঠকে মদীনা ও কূফার অধিকাংশ কারীর বলে উল্লেখ করেন, আর মিলিয়ে পড়ার পাঠকে বসরার কিছু কারীর, কারও নাম না নিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi relays the argument as it went. Al-Nahhas reports being told that Muhammad ibn Yazid said Abu 'Amr ought to read otherwise: since fa-jama'a kaydahu is already settled, what most naturally follows it is fa-ajmi'u, resolve and be earnest, a different sense. Al-Nahhas then states the case for Abu 'Amr: gather every plot and every device you have and join each to its fellow. Al-Tha'labi gives the majority reading two senses, gathering, as the Sihah allows, and resolving firmly, with a line of verse in which 'my affair is mujma'' means settled.",
+            "bn": "তর্কটা যেভাবে চলেছিল, কুরতুবী সেভাবেই তুলে ধরেন। নাহহাস জানান, তাঁকে বলা হয়েছে যে মুহাম্মাদ ইবন ইয়াযীদ বলতেন, আবু আমরের উচিত ছিল উল্টোটা পড়া। কারণ ফাজামাআ কাইদাহু তো আগেই এসে গেছে, তার পরে স্বাভাবিকভাবে আসার কথা ফাআজমিঊ, অর্থাৎ সংকল্প করো, মন দিয়ে লাগো। অর্থটা আলাদা। এরপর নাহহাস নিজেই আবু আমরের পক্ষের যুক্তি দেন: তোমাদের যত কৌশল আর ফন্দি আছে সব জড়ো করো, একটার সঙ্গে আরেকটা জুড়ে দাও। সা'লাবী অধিকাংশের পাঠের দুটি অর্থ দেন। এক, জড়ো করা, সিহাহ অভিধান যার সুযোগ দেয়। দুই, দৃঢ় সংকল্প। দ্বিতীয়টির পক্ষে তিনি একটি কবিতার চরণ আনেন, যেখানে 'আমার বিষয় মুজমা'' মানে পাকা হয়ে গেছে।"
+          },
+          {
+            "en": "Al-Baghawi says the hamza reading has been taken to mean gathering too, but calls resolving the correct sense: resolve, all of you, on the plot together, and do not differ, or your affair will come apart. At-Tabari prefers the same reading, for the readers' consensus, and argues from the scene. These men were known for this craft, so there is no sense in telling them to gather what they already knew; a man gathers what he lacks, and this was not a day to add to their learning but to display it.",
+            "bn": "বাগাভী বলেন, হামযার পাঠেরও জড়ো করা অর্থ করা হয়েছে, তবে সঠিক অর্থ সংকল্প। অর্থাৎ সবাই মিলে এক হয়ে কৌশলের উপর সংকল্প করো, মতভেদ কোরো না, নইলে তোমাদের কাজ ভেস্তে যাবে। তাবারীও এ পাঠই নেন, কারীদের ঐকমত্যের কারণে। সঙ্গে দৃশ্যটা থেকেও যুক্তি দেন। এরা তো এ বিদ্যার জন্যই পরিচিত ছিল। যা তারা আগে থেকেই জানে, তা জড়ো করতে বলার কোনো মানে হয় না। মানুষ জড়ো করে যা তার কাছে নেই। আর সেদিনটা বিদ্যা বাড়ানোর দিন ছিল না, ছিল দেখানোর দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb of a Night's Intention",
+          "bn": "রাতের নিয়তের সেই ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari supports 'resolve' with the same line of verse al-Tha'labi uses, a man wishing, though wishes do not help, that he might set out one day with his affair mujma', settled. He then cites a saying of the Prophet ﷺ about fasting, which he gives as: whoever does not resolve on the fast from the night has no fast. A general narration, it is cited for the verb alone and is not attached to this verse. One collection's wording of it is in Sunan Abu Dawud, no. 2454, from Hafsah: 'The Messenger of Allah (ﷺ) said: He who does not determine to fast before dawn does not fast.'",
+            "bn": "সংকল্প অর্থের পক্ষে তাবারীও সেই কবিতার চরণটি আনেন, যা সা'লাবী এনেছেন। তাতে একজন মানুষ আক্ষেপ করে, যদিও আক্ষেপে লাভ নেই: কোনো একদিন কি সে রওনা হতে পারবে এমনভাবে যে তার বিষয়টা মুজমা', পাকা? তারপর তাবারী রোজা নিয়ে নবী ﷺ-এর একটি বাণী আনেন, তাঁর ভাষায়: রাত থেকে যে রোজার সংকল্প করে না, তার রোজা নেই। তিনি এটা এনেছেন কেবল ক্রিয়াটির অর্থ বোঝাতে। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। এক সংকলনের শব্দে এটি আছে সুনান আবু দাউদে, ২৪৫৪ নম্বরে, হাফসা (রাঃ) থেকে: 'রাসূলুল্লাহ ﷺ বলেছেন: ফজরের আগে যে রোজার সংকল্প করে না, তার রোজা নেই।'"
+          },
+          {
+            "en": "Abu Dawud gives it no grade. He adds, in his own note, that al-Layth and Ishaq ibn Hazim also narrated it this way from 'Abd Allah ibn Abi Bakr, while Ma'mar, al-Zubaydi, Ibn 'Uyaynah and Yunus al-Ayli, all from al-Zuhri, stopped it at Hafsah, as her own words. It appears here only as a witness for the word: the verb the sorcerers used is the verb of settling an intention before the act begins. None of the commentaries fetched for this verse attaches a hadith to the verse itself, and none is offered for it here.",
+            "bn": "আবু দাউদ এর কোনো মান উল্লেখ করেননি। নিজের মন্তব্যে তিনি যোগ করেন, লাইস ও ইসহাক ইবন হাযিমও আবদুল্লাহ ইবন আবী বকর থেকে এভাবেই বর্ণনা করেছেন। আর মা'মার, যুবাইদী, ইবন উয়াইনা ও ইউনুস আল-আইলী, সবাই যুহরী থেকে, এটিকে হাফসা (রাঃ)-এর নিজের কথা হিসেবে তাঁর কাছেই থামিয়ে দিয়েছেন। এখানে বর্ণনাটি এসেছে কেবল শব্দের সাক্ষী হিসেবে। যাদুকরেরা যে ক্রিয়া ব্যবহার করেছিল, সেটাই কাজ শুরুর আগে নিয়ত পাকা করার ক্রিয়া। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস জুড়ে দেয়নি, এখানেও তাই কোনো হাদীস দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ranks, or the Meeting Ground",
+          "bn": "সারি, নাকি সমাবেশের মাঠ"
+        },
+        "p": [
+          {
+            "en": "Thumma'tu saffan: then come, saffan. Al-Qurtubi and al-Baghawi both relay from Muqatil and al-Kalbi that it means all together. Both then give ranks, al-Qurtubi under 'it is said' and al-Baghawi from 'some people': come lined up and gathered, so that your awe will be the greater. At-Tabari takes the line of ranks. Come and be present in a line, he says; saff here is a verbal noun, which is why it stands in the singular, and its meaning is rows.",
+            "bn": "সুম্মা'তূ সাফ্ফা: তারপর এসো, সাফ্ফা। কুরতুবী ও বাগাভী দুজনেই মুকাতিল ও কালবী থেকে আনেন, এর অর্থ সবাই একসঙ্গে। তারপর দুজনেই সারির অর্থ দেন। কুরতুবী 'বলা হয়' দিয়ে, বাগাভী 'কিছু লোক বলেন' দিয়ে: সারিবদ্ধ হয়ে, জোট বেঁধে এসো, তাতে তোমাদের প্রভাব আরও ভারী হবে। তাবারী সারির অর্থটাই নেন। তিনি বলেন, হাজির হও, সারি বেঁধে এসো। এখানে সাফ্ফ ক্রিয়াবাচক বিশেষ্য, তাই একবচনে এসেছে, আর এর মানে সারিগুলো।"
+          },
+          {
+            "en": "A third sense makes the word a place. Al-Qurtubi relays from Abu 'Ubaydah that one says 'I came to the saff' meaning the prayer ground, so the sense is: come to the place where you assemble on the feast day. Al-Baghawi gives Abu 'Ubaydah as saying the saff is the gathering place, and renders it: come to the promised place. At-Tabari records this use of the word as well, without adopting it here. Al-Zajjaj, through al-Qurtubi, allows a fourth: come while the people stand in rows.",
+            "bn": "তৃতীয় এক অর্থে শব্দটি একটা জায়গার নাম। কুরতুবী আবু উবাইদা থেকে আনেন, আরবরা বলে 'সাফ্ফে এলাম', মানে নামাজের মাঠে। তাহলে অর্থ দাঁড়ায়: উৎসবের দিন যেখানে তোমরা জড়ো হও, সেই জায়গায় এসো। বাগাভী আবু উবাইদার কথা এভাবে আনেন: সাফ্ফ মানে সমাবেশের জায়গা। তাঁর অনুবাদ: প্রতিশ্রুত জায়গায় এসো। তাবারীও শব্দের এ ব্যবহারটা উল্লেখ করেন, তবে এখানে তা গ্রহণ করেন না। কুরতুবীর সূত্রে যাজ্জাজ চতুর্থ একটি অর্থেরও সুযোগ রাখেন: এসো এমন সময়, যখন লোকেরা সারি বেঁধে দাঁড়িয়ে।"
+          },
+          {
+            "en": "Why a line at all? Ibn Kathir and the Muyassar give the same picture: come together as one row and throw what is in your hands at a single time, to dazzle the eyes and overcome Musa and his brother. As-Sa'di gives three reasons: it makes your work more effective, it fills hearts with more awe of you, and it keeps any one of you from holding back part of what he can do. Ma'arif al-Qur'an compares troops drawn up in ranks for battle, which unsettles the enemy, and says the Egyptian sorcerers arranged themselves that way.",
+            "bn": "সারি কেন? ইবন কাসীর ও মুয়াসসার একই ছবি দেন: এক সারিতে একসঙ্গে এসো, হাতে যা আছে সব একবারে ছুড়ে দাও, যাতে চোখ ধাঁধিয়ে যায় আর মূসা ও তাঁর ভাইকে হারানো যায়। সা'দী তিনটি কারণ বলেন। এতে তোমাদের কাজ বেশি কার্যকর হবে, মানুষের মনে তোমাদের প্রভাব বেশি পড়বে, আর তোমাদের কেউ নিজের সাধ্যের কোনো অংশ কাজে না লাগিয়ে বাদ রাখবে না। মাআরিফুল কুরআন যুদ্ধে সারি বেঁধে দাঁড়ানো সেনাদলের তুলনা টানে, যা শত্রুকে নাড়িয়ে দেয়। তার কথায়, মিশরের যাদুকরেরা এভাবেই নিজেদের সাজিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Success Measured by a Field",
+          "bn": "ময়দানের মাপে সফলতা"
+        },
+        "p": [
+          {
+            "en": "Wa-qad aflaha l-yawma mani-sta'la. Al-Qurtubi glosses the last word as whoever overcomes; al-Baghawi, whoever overcomes has won. At-Tabari says: he has attained what he wants today who rises over his rival and subdues him, and the Muyassar uses nearly the same words. In Wahb's report the line becomes: whoever comes out ahead of his rival today has succeeded. Every gloss turns on beating someone. The success these men named was not a state of the soul or a standing before Allah. It was a result on a field, decided before a crowd, by the end of one morning.",
+            "bn": "ওয়া কাদ আফলাহাল ইয়াওমা মানিস্তা'লা। শেষ শব্দটির অর্থ কুরতুবী করেন, যে জয়ী হয়। বাগাভী বলেন, যে জয়ী হলো সে-ই কামিয়াব। তাবারীর ভাষায়: আজ সে-ই নিজের কাঙ্ক্ষিত জিনিস পেয়ে গেল, যে প্রতিপক্ষের উপরে উঠে তাকে দমিয়ে দিল। মুয়াসসারও প্রায় একই শব্দ ব্যবহার করে। ওয়াহবের বর্ণনায় বাক্যটি দাঁড়ায়: আজ যে প্রতিপক্ষকে ছাড়িয়ে গেল, সে-ই সফল। সব ব্যাখ্যার কেন্দ্রে একটাই কথা, কাউকে হারানো। এরা যে সফলতার কথা বলছিল, তা অন্তরের কোনো অবস্থা নয়, আল্লাহর কাছে কোনো মর্যাদাও নয়। তা ছিল এক ময়দানের ফলাফল, ভিড়ের সামনে, এক সকালের মধ্যেই যার মীমাংসা।"
+          },
+          {
+            "en": "Ibn Kathir names the prize. Whoever prevails, he has them say, whether of us or of him: as for us, this king has promised us a generous gift; as for him, he will gain great leadership. As-Sa'di reads the sentence as their settled conviction: whoever succeeds and wins today is truly the successful, for this is a day with consequences for every day after it. Then he exclaims at them: how hard they were in their falsehood, bringing every cause, every means and every stratagem with which to plot against the truth.",
+            "bn": "পুরস্কারটা কী, ইবন কাসীর তা খুলে বলেন। তাঁর ব্যাখ্যায় যাদুকরেরা বলছে, জিতবে হয় আমরা, নয় সে। আমরা জিতলে এই রাজা আমাদের বিপুল দানের কথা দিয়েছেন। আর সে জিতলে পাবে বিরাট নেতৃত্ব। সা'দী বাক্যটিকে পড়েন তাদের পাকা বিশ্বাস হিসেবে: আজ যে জিতল, সে-ই আসল সফল, কারণ আজকের দিনের ফল গড়াবে সামনের সব দিনে। তারপর তিনি বিস্ময় প্রকাশ করেন: বাতিলের উপর তারা কী কঠিন ছিল! সত্যের বিরুদ্ধে ফন্দি আঁটতে কোনো উপায়, কোনো মাধ্যম, কোনো কৌশলই তারা বাদ রাখেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Words Turned Back",
+          "bn": "তাদের কথাই তাদের দিকে ফিরল"
+        },
+        "p": [
+          {
+            "en": "The surah answers their sentence in its own vocabulary. Before it, in 20:61, Musa (AS) had said wa-qad khaba mani-ftara: whoever invents a lie has failed. Their reply has the same build, qad, a verb, and man: whoever rises has succeeded. In 20:68 Allah tells Musa (AS), do not fear, it is you who are al-a'la, the uppermost, a word from the same root as ista'la. And in 20:69 the verb they chose returns, negated: the sorcerer does not succeed, wherever he comes. These observations rest on the verses' wording, not on the commentators.",
+            "bn": "সূরাটি তাদের বাক্যের জবাব দেয় তাদেরই শব্দ দিয়ে। এর আগে, ২০:৬১ আয়াতে, মূসা (আঃ) বলেছিলেন: ওয়া কাদ খাবা মানিফতারা, যে মিথ্যা বানায় সে ব্যর্থ। তাদের জবাবের গড়নও হুবহু তাই: কাদ, তারপর একটি ক্রিয়া, তারপর মান। যে উপরে ওঠে সে-ই সফল। ২০:৬৮ আয়াতে আল্লাহ মূসা (আঃ)-কে বলেন, ভয় পেয়ো না, তুমিই আল-আ'লা, সবার উপরে। শব্দটি এসেছে ইস্তা'লার একই ধাতু থেকে। আর ২০:৬৯ আয়াতে তাদের বেছে নেওয়া ক্রিয়াটাই ফিরে আসে না-বাচক হয়ে: যাদুকর যেখান থেকেই আসুক, সফল হয় না। এ পর্যবেক্ষণগুলো আয়াতের শব্দ থেকেই, কোনো তাফসীরকারের দাবি থেকে নয়।"
+          },
+          {
+            "en": "As-Sa'di ends his comment on this verse with a sentence that looks ahead: and Allah refuses anything but to complete His light and make the truth prevail over falsehood. What happened on the field is told in the verses that follow and is not retold here. It is enough to notice that the sentence by which they bound themselves to a contest was the very sentence the contest overturned.",
+            "bn": "সা'দী এ আয়াতের আলোচনা শেষ করেন সামনের দিকে তাকানো একটি বাক্যে: আল্লাহ তাঁর নূর পূর্ণ না করে আর বাতিলের উপর হককে বিজয়ী না করে ছাড়েন না। ময়দানে কী ঘটল, তা পরের আয়াতগুলোতে আছে, এখানে আবার বলা হচ্ছে না। এটুকু খেয়াল করাই যথেষ্ট: যে বাক্য দিয়ে তারা নিজেদের একটা প্রতিযোগিতায় বেঁধে ফেলেছিল, প্রতিযোগিতাটা সেই বাক্যকেই উল্টে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Winning Is Not Being Right",
+          "bn": "জেতা মানেই সঠিক হওয়া নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports the counsel of men who, in this story, set out to defeat a messenger of Allah, and the Qur'an records their words as theirs. It describes what the text describes and licenses nothing against any living person or community. It gives no warrant to call a rival a sorcerer, a plotter, or a follower of Pharaoh. The words of 20:63 and 20:64 were kept so that their logic could be seen through, not so that it could be borrowed.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এমন কিছু মানুষের শলাপরামর্শের বিবরণ দেয়, যারা এই কাহিনিতে আল্লাহর এক রাসূলকে হারাতে নেমেছিল। কুরআন তাদের কথা তাদের কথা হিসেবেই তুলে রেখেছে। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা পাঠে আছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। প্রতিপক্ষকে যাদুকর, চক্রান্তকারী বা ফেরাউনের দলের লোক বলে দাগানোর অধিকারও দেয় না। ২০:৬৩ ও ২০:৬৪ আয়াতের কথাগুলো রাখা হয়েছে তাদের যুক্তির ভেতরটা দেখার জন্য, সে যুক্তি ধার করার জন্য নয়।"
+          },
+          {
+            "en": "The lesson turns inward. Warned in 20:61, the sorcerers did not answer the warning on its merits. They disputed among themselves, spoke in private, and came out with a plan. The question whether this was true gave way to the question how to win, and success shrank to a contest: one line, one throw, one day, one prize. That is a temptation for anyone with a skill and an audience. A debate, a sale, a promotion, a following can quietly become the whole meaning of having succeeded.",
+            "bn": "শিক্ষাটা এবার নিজের দিকে ফেরে। ২০:৬১ আয়াতে সতর্ক হওয়ার পর যাদুকরেরা সতর্কবাণীর আসল কথার জবাব দেয়নি। নিজেদের মধ্যে টানাটানি করেছে, গোপনে কথা বলেছে, তারপর বেরিয়ে এসেছে একটা পরিকল্পনা নিয়ে। 'এটা কি সত্য?' প্রশ্নের জায়গা নিয়ে নিল 'জিতব কীভাবে?' আর সফলতা ছোট হয়ে দাঁড়াল একটা প্রতিযোগিতায়: এক সারি, এক নিক্ষেপ, এক দিন, এক পুরস্কার। যার হাতে কোনো দক্ষতা আছে আর সামনে দর্শক আছে, তার জন্য এ এক চেনা প্রলোভন। একটা তর্ক, একটা বিক্রি, একটা পদোন্নতি, অনুসারীর সংখ্যা, চুপচাপ এর যেকোনোটাই হয়ে উঠতে পারে সফলতার পুরো অর্থ।"
+          },
+          {
+            "en": "The surah holds another measure. The verb aflaha returns within five verses to say who does not succeed, and the warning before it had already named who fails: the one who invents a lie against Allah. Before I pour everything into winning a day, I can ask the question the sorcerers set aside: which side of the truth am I standing on, and whose reward am I working for? A plan made firm is worth only what its aim is worth, and a row of people agreeing with me proves nothing about whether I am right.",
+            "bn": "সূরাটি অন্য এক মাপকাঠি সামনে রাখে। আফলাহা ক্রিয়াটি পাঁচ আয়াতের মধ্যেই ফিরে আসে এটা বলতে যে কে সফল হয় না। আর তার আগের সতর্কবাণী আগেই জানিয়ে দিয়েছে কে ব্যর্থ: যে আল্লাহর নামে মিথ্যা বানায়। কোনো একটা দিন জিততে সব ঢেলে দেওয়ার আগে নিজেকে সেই প্রশ্নটা করা যায়, যা যাদুকরেরা সরিয়ে রেখেছিল। আমি সত্যের কোন পাশে দাঁড়িয়ে আছি, আর কার পুরস্কারের জন্য খাটছি? পাকা পরিকল্পনার দাম তার লক্ষ্যের দামের চেয়ে বেশি নয়। আর আমার সঙ্গে একমত মানুষের একটা সারি এ কথা প্রমাণ করে না যে আমি সঠিক।"
+          }
+        ]
+      }
+    ]
+  },
   "20:70-71": {
     "sections": [
       {

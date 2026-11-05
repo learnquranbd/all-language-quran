@@ -23211,6 +23211,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name your past wrongs honestly, even those others pushed you into, and ask forgiveness for them; then weigh every promise and threat against the One who is better and lasts.",
     "lessonBn": "অতীতের অন্যায়গুলোর নাম সৎভাবে নিন, অন্যের চাপে করা অন্যায়ও, আর সেগুলোর জন্য মাফ চান। তারপর প্রতিটি লোভ আর ভয়কে মাপুন তাঁর সামনে, যিনি উত্তম এবং চিরস্থায়ী।"
+  },
+  "20:64": {
+    "reflectionEn": "Warned not to invent a lie against Allah, the sorcerers turn to one another and talk in low voices. When they come out of the huddle, they have settled the matter by changing the question. They no longer ask whether Musa is telling the truth; they ask how to beat him. Make your plan firm, they say, come forward in one line, and whoever comes out on top today has succeeded. Success has shrunk to the size of one contest and a promised prize. A few verses later the same verb returns, denied: the sorcerer does not succeed, wherever he comes. The verse asks how I measure my own wins. When the truth puts a question to me, do I answer it, or organise to defeat it?",
+    "reflectionBn": "আল্লাহর নামে মিথ্যা না বানানোর সতর্কবাণী শুনে যাদুকরেরা একে অপরের দিকে ফেরে, নিচু গলায় শলাপরামর্শ করে। জটলা ভেঙে যখন বেরিয়ে আসে, ততক্ষণে প্রশ্নটাই তারা বদলে ফেলেছে। মূসা সত্য বলছেন কি না, সে প্রশ্ন আর নেই। এখন প্রশ্ন একটাই: তাঁকে হারানো যায় কীভাবে। তারা বলে, কৌশল পাকা করো, এক সারিতে এগিয়ে এসো, আজ যে উপরে উঠবে সে-ই সফল। সফলতা ছোট হতে হতে একটা প্রতিযোগিতা আর একটা প্রতিশ্রুত পুরস্কারের মাপে এসে ঠেকেছে। কয়েক আয়াত পরেই একই ক্রিয়া ফিরে আসে, এবার না-বাচক হয়ে: যাদুকর যেখান থেকেই আসুক, সফল হয় না। আয়াতটি আমাকে জিজ্ঞেস করে, নিজের জয় আমি মাপি কী দিয়ে। সত্য যখন আমার সামনে প্রশ্ন রাখে, আমি কি তার জবাব দিই, নাকি দল বেঁধে তাকে হারানোর আয়োজন করি?",
+    "pointsEn": [
+      "When someone warns me that I may be wrong, do I weigh the warning, or close ranks with the people who already agree with me?",
+      "Which single contest in my life have I quietly made the measure of whether I have succeeded?",
+      "Which argument have I worked to win when I should have been working to find out who was right?",
+      "If I won the thing I am chasing this year, what would it be worth before Allah?",
+      "Whose approval, or whose reward, am I really working for when I pour everything into one day's result?"
+    ],
+    "pointsBn": [
+      "কেউ যখন সতর্ক করে যে আমি ভুল পথে থাকতে পারি, আমি কি কথাটা ওজন করে দেখি, নাকি যারা আগে থেকেই আমার সঙ্গে একমত, তাদের নিয়ে জোট বাঁধি?",
+      "জীবনের কোন একটা প্রতিযোগিতাকে আমি চুপচাপ সফলতার মাপকাঠি বানিয়ে ফেলেছি?",
+      "কোন তর্কে আমি জেতার জন্য খেটেছি, অথচ খাটা উচিত ছিল কে সঠিক তা জানার জন্য?",
+      "এ বছর যার পেছনে ছুটছি, তা পেয়ে গেলে আল্লাহর কাছে তার দাম কতটুকু?",
+      "একটা দিনের ফলাফলের জন্য যখন সব ঢেলে দিই, তখন আসলে কার সন্তুষ্টি বা কার পুরস্কারের জন্য খাটছি?"
+    ],
+    "lessonEn": "Do not let one contest define success. Ask first which side of the truth you stand on, for winning the day is worth nothing if it is won against Allah's signs.",
+    "lessonBn": "একটা প্রতিযোগিতাকে সফলতার সংজ্ঞা বানাবেন না। আগে দেখুন আপনি সত্যের কোন পাশে দাঁড়িয়ে, কারণ আল্লাহর নিদর্শনের বিরুদ্ধে জেতা দিনের কোনো দাম নেই।"
   }
 };
 
