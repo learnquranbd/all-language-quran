@@ -22051,6 +22051,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Build your good deeds on faith and sincerity for Allah, so they are not scattered like ash on the day you need them most.",
     "lessonBn": "নেক আমলের ভিত গড়ুন ঈমান আর আল্লাহর জন্য খাঁটি নিয়তের উপর, যাতে সবচেয়ে দরকারের দিনে তা ছাইয়ের মতো উড়ে না যায়।"
+  },
+  "13:13": {
+    "reflectionEn": "A storm builds. The lightning of the verse before has flashed, the heavy clouds have gathered, and now the sky rumbles. The Qur'an says the thunder is glorifying Allah with His praise, and the angels too, out of awe of Him. The noise that makes me flinch is, in the verse's telling, worship. Then come the thunderbolts, sent to strike whom He wills, while people go on arguing about Allah as if He were a topic. The verse sets the two side by side: a sky that praises, and a tongue that disputes. Every storm I sit through is a sound I am invited to join. When the sky rumbles, do I only flinch, or do I remember Whom it praises?",
+    "reflectionBn": "ঝড় জমে উঠছে। আগের আয়াতের বিদ্যুৎ চমকে গেছে, ভারী মেঘ জমেছে, এবার আকাশ গর্জে ওঠে। কুরআন বলছে, বজ্রধ্বনি আল্লাহর প্রশংসাসহ তাঁর তাসবীহ পাঠ করে, আর ফেরেশতারাও করে তাঁর ভয়ে। যে শব্দে আমি চমকে উঠি, আয়াতের ভাষায় তা ইবাদত। তারপর আসে বজ্রপাত। তিনি যাকে চান, তার উপর তা ফেলেন। অথচ মানুষ তখনো আল্লাহকে নিয়ে তর্ক করে যায়, যেন তিনি আলোচনার একটা বিষয় মাত্র। আয়াতটি দুটো ছবি পাশাপাশি রাখে: প্রশংসায় মুখর আকাশ, আর তর্কে ব্যস্ত জিহ্বা। যত ঝড়ের মধ্য দিয়ে আমি যাই, প্রতিটিই এমন এক ধ্বনি, যাতে গলা মেলানোর ডাক আছে। আকাশ গর্জালে আমি কি শুধু চমকে উঠি, নাকি মনে করি সে কার প্রশংসা করছে?",
+    "pointsEn": [
+      "The next time thunder rolls over my house, what will my first words be, and could they be words of praise instead of a startled complaint?",
+      "If the thunder and the angels glorify Allah out of awe, where in my own day does that awe show, and where is it missing?",
+      "Do I talk about Allah more than I talk to Him, turning Him into a subject for debate rather than the One I worship?",
+      "When I hear that someone was struck by disaster, do I hurry to read it as a verdict on them, or do I take it as a reminder for myself?",
+      "What warning have I already heard this year, in the sky or in my own life, that I have not yet answered?"
+    ],
+    "pointsBn": [
+      "আবার যখন আমার ঘরের উপর দিয়ে বাজ গড়িয়ে যাবে, আমার মুখ থেকে প্রথমে কী বের হবে? ভয়ের আর্তনাদের বদলে কি তা প্রশংসার কথা হতে পারে?",
+      "বজ্র আর ফেরেশতারা যদি ভয়ে আল্লাহর তাসবীহ করে, আমার দিনের কোথায় সেই ভয় দেখা যায়, আর কোথায় তা হারিয়ে গেছে?",
+      "আমি কি আল্লাহর সঙ্গে কথা বলার চেয়ে আল্লাহকে নিয়ে কথা বলি বেশি? যাঁর ইবাদত করার কথা, তাঁকে কি তর্কের বিষয় বানিয়ে ফেলেছি?",
+      "কারও উপর বিপদ নেমেছে শুনলে আমি কি তাড়াহুড়া করে সেটাকে তার বিরুদ্ধে রায় ধরে নিই, নাকি নিজের জন্য সতর্কবার্তা হিসেবে নিই?",
+      "এ বছর আকাশে বা নিজের জীবনে কোন সতর্কবাণী আমি ইতিমধ্যে শুনেছি, যার জবাব এখনো দিইনি?"
+    ],
+    "lessonEn": "When the sky rumbles, join its praise of Allah instead of only fearing the noise, and spend less breath arguing about Him than glorifying Him.",
+    "lessonBn": "আকাশ গর্জালে শুধু শব্দকে ভয় না করে তার সঙ্গে আল্লাহর প্রশংসায় গলা মেলান, আর তাঁকে নিয়ে তর্কে যত কথা খরচ করেন, তার চেয়ে বেশি করুন তাঁর তাসবীহ।"
   }
 };
 

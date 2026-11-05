@@ -467,6 +467,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Storm Already Under Way",
+          "bn": "চলমান এক ঝড়ের মাঝে"
+        },
+        "p": [
+          {
+            "en": "The verse picks up a storm already under way. The verse before it, 13:12, says it is Allah who shows you the lightning, in fear and in hope, and raises the heavy clouds. Now comes the sound: wa-yusabbihu r-ra'du bi-hamdihi wa-l-mala'ikatu min khifatihi, and the thunder glorifies with His praise, and the angels from fear of Him. Then the strike: He sends the thunderbolts and hits with them whom He wills. Then, with no pause, a human scene: wa-hum yujadiluna fi-llah, while they dispute about Allah. The last words describe Him: wa-huwa shadidu l-mihal.",
+            "bn": "আয়াতটি শুরু হয় এমন এক ঝড়ের মাঝখান থেকে, যা আগেই শুরু হয়ে গেছে। আগের আয়াত ১৩:১২ বলেছে, তিনিই তোমাদের বিদ্যুৎ দেখান ভয় ও আশা জাগিয়ে, আর ভারী মেঘ তৈরি করেন। এবার আসে শব্দ: ওয়া ইউসাব্বিহুর রা'দু বিহামদিহী ওয়াল মালাইকাতু মিন খীফাতিহী, বজ্রধ্বনি তাঁর প্রশংসাসহ তাসবীহ পাঠ করে, আর ফেরেশতারাও করে তাঁর ভয়ে। তারপর আঘাত: তিনি বজ্রপাত পাঠান, আর তা দিয়ে যাকে চান আঘাত করেন। তারপর কোনো বিরতি ছাড়াই মানুষের দৃশ্য: ওয়া হুম ইউজাদিলূনা ফিল্লাহ, অথচ তারা আল্লাহকে নিয়ে বিতর্ক করে। শেষ কথাগুলো তাঁর পরিচয় দেয়: ওয়া হুয়া শাদীদুল মিহাল।"
+          },
+          {
+            "en": "Al-Qurtubi sends the reader back to his commentary on al-Baqara for thunder, lightning and thunderbolts, and states this verse's purpose: to show the completeness of His power, and that the delay of punishment is not from inability. On the fear and hope of 13:12 he gives the sense from Qatada, Mujahid and others: fear for the traveller, who dreads the rain's harm, and hope for whoever is at home, waiting for rain and plenty.",
+            "bn": "বজ্র, বিদ্যুৎ ও বজ্রপাতের বিস্তারিত আলোচনার জন্য কুরতুবী পাঠককে সূরা বাকারার তাফসীরে ফিরিয়ে দেন। এ আয়াতের উদ্দেশ্য তিনি বলেন এভাবে: আল্লাহর পূর্ণ ক্ষমতা দেখানো, আর বুঝিয়ে দেওয়া যে শাস্তি দেরিতে আসে অক্ষমতার কারণে নয়। ১৩:১২-এর ভয় ও আশার ব্যাখ্যায় তিনি কাতাদা, মুজাহিদ ও অন্যদের কথা আনেন। ভয় মুসাফিরের, বৃষ্টি তার পথে কষ্ট বয়ে আনবে বলে। আর আশা ঘরে থাকা মানুষের, যে অপেক্ষা করে বিদ্যুতের পরে বৃষ্টি আর সচ্ছলতা আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Angel, or the Cloud's Voice",
+          "bn": "ফেরেশতা, নাকি মেঘের আওয়াজ"
+        },
+        "p": [
+          {
+            "en": "What is ar-ra'd? Al-Baghawi states that most commentators hold it to be the name of an angel who drives the clouds, and that the sound heard from it is its glorification. He adds a report through Juwaybar, from ad-Dahhak, from Ibn 'Abbas: an angel charged with the clouds, turning them wherever he is commanded, who glorifies Allah; and when he glorifies, no angel in heaven is left without raising its voice in glorification, and then the rain comes down. Al-Qurtubi carries a similar report from Ibn 'Abbas.",
+            "bn": "আর-রা'দ আসলে কী? বাগাভী জানান, অধিকাংশ মুফাসসিরের মতে এটি এক ফেরেশতার নাম, যিনি মেঘ হাঁকিয়ে নিয়ে যান, আর তাঁর কাছ থেকে যে আওয়াজ শোনা যায় সেটাই তাঁর তাসবীহ। এরপর তিনি জুওয়াইবির থেকে, দাহহাকের সূত্রে, ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন। এই ফেরেশতা মেঘের দায়িত্বে আছেন, যেখানে হুকুম হয় সেদিকে মেঘ ফিরিয়ে দেন, আর আল্লাহর তাসবীহ করেন। তিনি তাসবীহ করলে আসমানের প্রত্যেক ফেরেশতা উঁচু স্বরে তাসবীহ শুরু করেন, আর তখনই বৃষ্টি নামে। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে প্রায় একই বর্ণনা এনেছেন।"
+          },
+          {
+            "en": "Others take the word as the sound itself. As-Sa'di: it is the sound heard from the clouds, which alarms the servants, and it is submissive to its Lord, glorifying with His praise. Ma'arif al-Qur'an opens with Arabic usage, in which ar-ra'd is the sound of the clouds, and then notes that some narrations name ar-Ra'd as the angel appointed to bring rain; on that sense, it says, the glorification is plain. Al-Qurtubi: whoever holds it to be the cloud's sound may say it glorifies because life is created in it.",
+            "bn": "অন্যরা শব্দটিকে আওয়াজ হিসেবেই বোঝেন। সা'দী বলেন, রা'দ হলো মেঘ থেকে আসা সেই শব্দ, যা বান্দাদের ভয়ে কাঁপিয়ে দেয়। সে তার রবের অনুগত, তাঁর প্রশংসাসহ তাসবীহ করে। মাআরিফুল কুরআন শুরু করে আরবি ভাষার ব্যবহার দিয়ে: সেখানে আর-রা'দ মানে মেঘের আওয়াজ। তারপর জানায়, কিছু বর্ণনায় আর-রা'দকে বৃষ্টি আনার দায়িত্বপ্রাপ্ত ফেরেশতার নাম বলা হয়েছে, আর সে অর্থে তাসবীহের কথা একেবারে স্পষ্ট। কুরতুবী বলেন, যাঁরা একে মেঘের আওয়াজ মনে করেন, তাঁদের মতে বজ্র মেঘের শব্দ হলেও তাসবীহ করতে পারে, কারণ তার মধ্যে প্রাণ সৃষ্টি করা হয়।"
+          },
+          {
+            "en": "Al-Qurtubi then gives an argument for that reading from the next words, wa-l-mala'ikatu min khifatihi: had the thunder been an angel, it would already be counted among the angels. Those who hold it an angel read min khifatihi as from fear of Allah, which al-Qurtubi says at-Tabari and others held. Al-Baghawi offers a second answer: these angels may be the thunder's helpers, appointed to it, fearful, humble and obedient. Both readings have names behind them, and this article keeps both.",
+            "bn": "এরপর কুরতুবী পরের শব্দগুলো থেকে এ মতের পক্ষে একটি যুক্তি দেন: ওয়াল মালাইকাতু মিন খীফাতিহী। বজ্র যদি ফেরেশতাই হতো, তবে ফেরেশতাদের মধ্যেই সে গণ্য হয়ে যেত। যাঁরা বজ্রকে ফেরেশতা বলেন, তাঁরা মিন খীফাতিহীর অর্থ করেন আল্লাহর ভয়ে। কুরতুবী জানান, তাবারী ও অন্যরা এ কথা বলেছেন। বাগাভী আরেকটি জবাব দেন: এখানে ফেরেশতারা হয়তো বজ্রের সহকারী, আল্লাহ যাঁদের তার সঙ্গে নিযুক্ত করেছেন, তাঁরা ভীত, বিনীত ও অনুগত। দুই মতের পেছনেই নাম আছে, আর এ প্রবন্ধ দুটোই রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked What the Thunder Is",
+          "bn": "বজ্র কী, এই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi records a narration on the word itself. Ibn 'Abbas said: Jews came to the Prophet ﷺ and said, Abu l-Qasim, tell us about the thunder, what is it? He said: an angel among the angels, charged with the clouds; with him is fire, makhariq min nar, with which he drives the clouds wherever Allah wills. They said: then what is this sound we hear? He said: his driving of the clouds when he urges them on, until they reach where he has been commanded. They said: you have spoken the truth.",
+            "bn": "তিরমিযী এমন একটি বর্ণনা এনেছেন, যা সরাসরি এই শব্দটির কথাই বলে। ইবন আব্বাস (রাঃ) বলেন, কয়েকজন ইহুদি নবী ﷺ-এর কাছে এসে বলল, হে আবুল কাসিম, আমাদের বজ্র সম্পর্কে বলুন, সেটা কী? তিনি বললেন, ফেরেশতাদের মধ্যে একজন ফেরেশতা, মেঘের দায়িত্বে নিযুক্ত। তাঁর সঙ্গে আছে আগুন, মাখারীকু মিন নার, যা দিয়ে তিনি মেঘকে আল্লাহ যেখানে চান সেখানে হাঁকিয়ে নেন। তারা বলল, তাহলে এই যে আওয়াজ আমরা শুনি, সেটা কী? তিনি বললেন, মেঘকে তাড়া দেওয়ার সময় তাঁর হাঁক, যতক্ষণ না মেঘ হুকুম করা জায়গায় পৌঁছে যায়। তারা বলল, আপনি সত্য বলেছেন।"
+          },
+          {
+            "en": "The narration continues in the same sitting with a second question: then tell us what Isra'il (AS) made unlawful for himself. He said: he suffered from sciatica and found nothing that suited him except the meat and milk of camels, so he made them unlawful. They said: you have spoken the truth. At-Tirmidhi grades it hasan sahih gharib (Jami' at-Tirmidhi 3117). It does not quote this verse, and none of the commentaries read for this article cites it here; it speaks to the word ar-ra'd, and it supports the first reading above.",
+            "bn": "একই বৈঠকে বর্ণনাটি দ্বিতীয় প্রশ্নে এগোয়: তাহলে বলুন, ইসরাঈল (আঃ) নিজের উপর কী হারাম করেছিলেন? তিনি বললেন, তিনি ইরকুন নাসা, অর্থাৎ সায়াটিকার ব্যথায় ভুগছিলেন। উটের গোশত আর দুধ ছাড়া কিছুই তাঁর সহ্য হতো না, তাই সেগুলো তিনি নিজের উপর হারাম করে নেন। তারা বলল, আপনি সত্য বলেছেন। তিরমিযী একে হাসান সহীহ গারীব বলেছেন (জামি' আত-তিরমিযী ৩১১৭)। বর্ণনাটি এ আয়াত উদ্ধৃত করে না, আর এ প্রবন্ধের জন্য পড়া কোনো তাফসীরও এখানে এটি আনেনি। এর কথা আর-রা'দ শব্দটি নিয়ে, আর তা উপরের প্রথম মতকে সমর্থন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise in a Rolling Sound",
+          "bn": "গর্জনের ভেতরে প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "Whatever the thunder is, the verse says what it does. At-Tabari: the thunder magnifies Allah and extols Him, praising Him by His attributes, and declares Him free of what the people of shirk attributed to Him, taking a consort and a child. The Muyassar: a glorification that shows its submission to its Lord. Ibn Kathir and Ma'arif al-Qur'an both set the clause beside 17:44: there is not a thing but glorifies His praise, but you do not understand their glorification.",
+            "bn": "রা'দ যা-ই হোক, আয়াত বলে দেয় সে কী করে। তাবারী বলেন, বজ্র আল্লাহর মহিমা ঘোষণা করে, তাঁর গুণাবলি দিয়ে তাঁর প্রশংসা করে। আর মুশরিকরা তাঁর উপর যা আরোপ করেছে, স্ত্রী ও সন্তান গ্রহণের কথা, তা থেকে তাঁকে পবিত্র ঘোষণা করে। মুয়াসসার বলে, এ এমন তাসবীহ, যা রবের প্রতি তার আনুগত্য দেখিয়ে দেয়। ইবন কাসীর ও মাআরিফুল কুরআন দুজনেই একে ১৭:৪৪ আয়াতের পাশে রাখেন: এমন কিছু নেই যা তাঁর প্রশংসাসহ তাসবীহ করে না, কিন্তু তোমরা তাদের তাসবীহ বোঝো না।"
+          },
+          {
+            "en": "Ibn Kathir adds a report from Imam Ahmad, through an elderly man of Ghifar who had accompanied the Prophet ﷺ: he heard him say that Allah raises the clouds, and they speak the finest speech and laugh the finest laughter. Ibn Kathir explains, and Allah knows best, that their speech is the thunder and their laughter the lightning. He gives it no grading here; it speaks of clouds in general and does not name this verse.",
+            "bn": "ইবন কাসীর ইমাম আহমাদ থেকে একটি বর্ণনা যোগ করেন। বর্ণনাকারী গিফার গোত্রের এক বৃদ্ধ, যিনি নবী ﷺ-এর সাহচর্য পেয়েছিলেন। তিনি নবী ﷺ-কে বলতে শুনেছেন, আল্লাহ মেঘ সৃষ্টি করেন, আর মেঘ সবচেয়ে সুন্দর কথা বলে, সবচেয়ে সুন্দর হাসি হাসে। ইবন কাসীর ব্যাখ্যা করেন, আল্লাহই ভালো জানেন, মেঘের কথা হলো বজ্র আর তার হাসি বিদ্যুৎ। এখানে তিনি এর কোনো মান উল্লেখ করেননি। বর্ণনাটি মেঘ নিয়ে সাধারণ কথা, এ আয়াতের নাম এতে নেই।"
+          },
+          {
+            "en": "Then the angels, min khifatihi. At-Tabari: the angels glorify out of fear of Allah and dread of Him. Al-Qurtubi reports from Ibn 'Abbas that the angels fear Allah, though not as the son of Adam fears; none of them knows who stands on his right or his left, and neither food nor drink distracts them from worshipping Allah. As-Sa'di: they glorify humbled before their Lord, fearing His overpowering might. The verse sets the loudest sound in the sky and the unseen angels in the same praise.",
+            "bn": "এরপর ফেরেশতারা, মিন খীফাতিহী। তাবারী বলেন, ফেরেশতারা আল্লাহর ভয় ও ভীতিতে তাসবীহ করেন। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন, ফেরেশতারা আল্লাহকে ভয় করেন, তবে আদম সন্তানের ভয়ের মতো নয়। তাঁদের কেউ জানেন না ডান পাশে কে আছেন, বাঁ পাশে কে। খাবার বা পানীয় কিছুই তাঁদের আল্লাহর ইবাদত থেকে সরিয়ে রাখে না। সা'দী বলেন, তাঁরা রবের সামনে বিনীত হয়ে, তাঁর প্রবল শক্তিকে ভয় করে তাসবীহ করেন। আকাশের সবচেয়ে জোরালো আওয়াজ আর অদৃশ্য ফেরেশতাদের আয়াতটি একই প্রশংসায় একত্র করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words Said Under Thunder",
+          "bn": "বাজের শব্দে মুখের কথা"
+        },
+        "p": [
+          {
+            "en": "Some of the early Muslims answered the sound with words. Ibn Kathir reports that when 'Abd Allah ibn az-Zubayr heard thunder he left off talking and said: subhana alladhi yusabbihu r-ra'du bi-hamdihi wa-l-mala'ikatu min khifatihi, glory to Him whom the thunder glorifies with His praise, and the angels from fear of Him; and he would say, this is a severe warning to the people of the earth. Ibn Kathir names Malik's Muwatta' and al-Bukhari's al-Adab as its sources; al-Qurtubi and al-Baghawi carry it too.",
+            "bn": "প্রথম যুগের কোনো কোনো মুসলিম এই শব্দের জবাব দিতেন মুখের কথায়। ইবন কাসীর জানান, আবদুল্লাহ ইবনুয যুবাইর (রাঃ) বজ্রের শব্দ শুনলে কথা বলা থামিয়ে দিতেন আর বলতেন: সুবহানাল্লাযী ইউসাব্বিহুর রা'দু বিহামদিহী ওয়াল মালাইকাতু মিন খীফাতিহী। পবিত্র তিনি, বজ্র যাঁর প্রশংসাসহ তাসবীহ করে, আর ফেরেশতারাও করে তাঁর ভয়ে। তারপর বলতেন, পৃথিবীবাসীর জন্য এ এক কঠিন সতর্কবাণী। ইবন কাসীর এর উৎস হিসেবে মালিকের মুয়াত্তা আর বুখারীর আল-আদাবের নাম বলেন। কুরতুবী ও বাগাভীও কথাটি এনেছেন।"
+          },
+          {
+            "en": "The Muwatta' itself could not be checked here, so the words stand as the commentators carry them: Ibn az-Zubayr's practice, not a saying of the Prophet ﷺ. At-Tirmidhi records a supplication of the Prophet ﷺ himself. Salim ibn 'Abd Allah ibn 'Umar narrates from his father that when the Messenger of Allah ﷺ heard the sound of thunder and thunderbolts he said: O Allah, do not kill us with Your anger, do not destroy us with Your punishment, and grant us wellbeing before that. At-Tirmidhi calls it gharib, known to him only by this route (Jami' at-Tirmidhi 3450).",
+            "bn": "মুয়াত্তা গ্রন্থটি এ প্রবন্ধের জন্য সরাসরি খুলে দেখা যায়নি। তাই কথাগুলো রাখা হলো মুফাসসিররা যেভাবে এনেছেন সেভাবে, ইবনুয যুবাইর (রাঃ)-এর আমল হিসেবে, নবী ﷺ-এর বাণী হিসেবে নয়। নবী ﷺ-এর নিজের একটি দোয়া তিরমিযী এনেছেন। সালিম ইবন আবদুল্লাহ ইবন উমার তাঁর পিতা থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বজ্রের শব্দ আর বজ্রপাতের আওয়াজ শুনলে বলতেন: হে আল্লাহ, আপনার ক্রোধে আমাদের মেরে ফেলবেন না, আপনার আযাবে আমাদের ধ্বংস করবেন না, আর তার আগেই আমাদের নিরাপদ রাখুন। তিরমিযী একে গারীব বলেছেন, এই একটি সূত্র ছাড়া তিনি এটি জানেন না (জামি' আত-তিরমিযী ৩৪৫০)।"
+          },
+          {
+            "en": "At-Tabari gives that supplication only as something that reached Ja'far, with no chain back to the Prophet ﷺ. He also lists shorter words from 'Ali, Ibn 'Abbas and Tawus: subhana man sabbahta lahu, glory to the One you glorify. Al-Aswad ibn Yazid used either that or the verse's own words. The wordings differ. What they share is a turn from fright back to the verse's own praise.",
+            "bn": "তাবারী ঐ দোয়াটি এনেছেন কেবল জা'ফরের কাছে পৌঁছানো একটি খবর হিসেবে, নবী ﷺ পর্যন্ত কোনো সনদ ছাড়া। তিনি আলী (রাঃ), ইবন আব্বাস (রাঃ) ও তাউস থেকে আরও ছোট একটি বাক্যও আনেন: সুবহানা মান সাব্বাহতা লাহু, পবিত্র তিনি, তুমি যাঁর তাসবীহ করো। আসওয়াদ ইবন ইয়াযীদ এটি বলতেন, অথবা আয়াতের নিজের শব্দগুলো। শব্দগুলো আলাদা। তবু সবার মধ্যে মিল একটাই: ভয় থেকে ফিরে আয়াতের নিজের প্রশংসায় চলে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fire Sent Where He Wills",
+          "bn": "যেখানে চান সেখানে আগুন"
+        },
+        "p": [
+          {
+            "en": "Wa-yursilu s-sawa'iqa fa-yusibu biha man yasha'. Ma'arif al-Qur'an: sawa'iq is the plural of sa'iqa, the thunderbolt that strikes the earth. As-Sa'di: this fire that comes out of the clouds, with which He strikes whom He wills, as He has willed and intended. Al-Baghawi: the destroying punishment that comes down from the lightning and burns whoever it hits. Ibn Kathir: He sends them as vengeance on whom He wills.",
+            "bn": "ওয়া ইউরসিলুস সাওয়াইকা ফাইউসীবু বিহা মাই ইয়াশা। মাআরিফুল কুরআন বলে, সাওয়াইক হলো সাইকার বহুবচন, যে বজ্র মাটিতে আঘাত হানে। সা'দী বলেন, মেঘ থেকে বেরিয়ে আসা এই আগুন, যা দিয়ে তিনি নিজের ইচ্ছা ও সিদ্ধান্ত অনুযায়ী বান্দাদের মধ্যে যাকে চান আঘাত করেন। বাগাভীর ভাষায়, বিদ্যুৎ থেকে নেমে আসা ধ্বংসকারী শাস্তি, যা যাকে ছোঁয় তাকে পুড়িয়ে দেয়। ইবন কাসীর বলেন, তিনি এগুলো পাঠান যার উপর চান তার থেকে প্রতিশোধ নিতে।"
+          },
+          {
+            "en": "Al-Baghawi then reports from Muhammad ibn 'Ali al-Baqir: the thunderbolt strikes the Muslim and the non-Muslim, and does not strike whoever is remembering Allah. On his first clause, a strike in itself tells no onlooker what the person struck was. The verse speaks of what Allah does, and the reports below name particular men of the Prophet's ﷺ time; it licenses nothing against any living person or community, and no verdict on anyone who dies in a storm.",
+            "bn": "এরপর বাগাভী মুহাম্মাদ ইবন আলী আল-বাকির থেকে আনেন: বজ্রপাত মুসলিমের উপরও পড়ে, অমুসলিমের উপরও, তবে আল্লাহর জিকিরকারীর উপর পড়ে না। তাঁর কথার প্রথম অংশ অনুযায়ী, শুধু আঘাতটুকু দেখে কেউ বলতে পারে না, যার উপর পড়েছে সে কেমন মানুষ ছিল। আয়াতটি আল্লাহর কাজের কথা বলে, আর নিচের বর্ণনাগুলো নবী ﷺ-এর যুগের নির্দিষ্ট কয়েকজন লোকের নাম নেয়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। ঝড়ে যে মারা যায়, তার সম্পর্কে কোনো রায় দেওয়ারও অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Struck in the Middle of Argument",
+          "bn": "তর্কের মাঝেই আঘাত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports a disagreement. Some said it came down about a disbeliever who spoke of Allah as He should not be spoken of. 'Abd ar-Rahman ibn Suhar al-'Abdi heard that the Prophet ﷺ sent to a tyrant to invite him, and the man asked whether their Lord was gold, silver or pearl; as he argued, a cloud thundered and a thunderbolt took off the top of his skull. Mujahid's version makes him a Jew asking whether his Lord was pearl or ruby; a version from Anas has the messenger sent back three times.",
+            "bn": "তাবারী এ নিয়ে মতভেদের কথা জানান। কেউ বলেন, আয়াতটি নেমেছিল এক কাফিরকে নিয়ে, যে আল্লাহ সম্পর্কে অশোভন কথা বলেছিল। আবদুর রহমান ইবন সুহার আল-আবদী শুনেছিলেন, নবী ﷺ এক অহংকারী শাসকের কাছে লোক পাঠিয়েছিলেন তাকে দাওয়াত দিতে। সে জিজ্ঞেস করল, তোমাদের রব কি সোনার, রুপার, নাকি মুক্তার? সে যখন তর্ক করছিল, এক মেঘ গর্জে উঠল আর একটি বজ্র এসে তার মাথার খুলির উপরের অংশ উড়িয়ে নিল। মুজাহিদের বর্ণনায় সে ছিল এক ইহুদি, যে জানতে চেয়েছিল তাঁর রব মুক্তার নাকি ইয়াকুতের। আনাস (রাঃ)-এর বর্ণনায় দূতকে তিনবার ফেরত পাঠানো হয়।"
+          },
+          {
+            "en": "Others, after Qatada, said it was a man who denied the Qur'an and called the Prophet ﷺ a liar. Others, after Ibn Jurayj, named Arbad, brother of Labid ibn Rabi'a, who with 'Amir ibn at-Tufayl planned to kill the Prophet ﷺ; Arbad's hand dried on his sword, and a thunderbolt burned him. The article on 13:11 tells that story more fully. Ibn Kathir carries a long version through at-Tabarani from Ibn 'Abbas, in which 13:8 to 13:11 and this verse came down about the two men.",
+            "bn": "অন্যরা কাতাদার সূত্রে বলেন, সে ছিল এমন এক লোক, যে কুরআন অস্বীকার করেছিল আর নবী ﷺ-কে মিথ্যাবাদী বলেছিল। আরেক দল ইবন জুরাইজের সূত্রে নাম বলেন আরবাদের, লাবীদ ইবন রাবীআর ভাই। আমির ইবনুত তুফাইলের সঙ্গে মিলে সে নবী ﷺ-কে হত্যার ফন্দি এঁটেছিল। তরবারির উপরেই আরবাদের হাত শুকিয়ে যায়, আর একটি বজ্র তাকে পুড়িয়ে দেয়। ১৩:১১ আয়াতের প্রবন্ধে কাহিনিটি আরও বিস্তারিত আছে। ইবন কাসীর তাবারানীর সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি দীর্ঘ বর্ণনা আনেন, যাতে বলা হয়েছে ১৩:৮ থেকে ১৩:১১ আর এই আয়াত ঐ দুজনকে নিয়েই নেমেছিল।"
+          },
+          {
+            "en": "Ibn Suhar's account is something that reached him, and Qatada's begins it was mentioned to us; No commentator read here grades any of them sound. Each describes what its text describes and licenses nothing against any living person or community. On the clause itself, at-Tabari reads it as a circumstance: they were struck while disputing about Allah with His Messenger ﷺ. Al-Qurtubi allows it either as a circumstance or as a fresh sentence. Ibn Kathir: they doubt His greatness and that there is no god but He. The Muyassar: the disbelievers dispute His oneness and His power to raise the dead.",
+            "bn": "ইবন সুহারের বর্ণনা তাঁর কাছে পৌঁছানো একটি খবর, আর কাতাদার বর্ণনা শুরু হয় 'আমাদের কাছে উল্লেখ করা হয়েছে' দিয়ে। এখানে পড়া কোনো মুফাসসির এগুলোর কোনোটিকে সহীহ বলেননি। প্রতিটি বর্ণনা কেবল সেটুকুই বলে যা তার পাঠে আছে, আর কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। বাক্যাংশটির ব্যাপারে তাবারী একে অবস্থার বর্ণনা হিসেবে পড়েন: আল্লাহকে নিয়ে তারা যখন তাঁর রাসূল ﷺ-এর সঙ্গে বিতর্ক করছিল, ঠিক তখনই আঘাত এসেছিল। কুরতুবী দুটোই সম্ভব বলেন: অবস্থার বর্ণনা, অথবা নতুন বাক্য। ইবন কাসীর বলেন, তারা তাঁর মহত্ত্বে আর তিনি ছাড়া কোনো ইলাহ নেই এ কথায় সন্দেহ করে। মুয়াসসার বলে, কাফিররা তাঁর একত্ব আর পুনরুত্থান ঘটানোর ক্ষমতা নিয়ে বিতর্ক করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Severe in Al-Mihal",
+          "bn": "শাদীদুল মিহালের অর্থ"
+        },
+        "p": [
+          {
+            "en": "Wa-huwa shadidu l-mihal. At-Tabari: Allah's mumahala is severe in punishing whoever transgresses against Him, rebels and persists in disbelief. He takes mihal as the verbal noun of mahaltu fulanan, used when a man exposes another to what destroys him, and cites al-A'sha's line shadid al-mihal, which Abu 'Ubayda explained as punishment, plotting and exemplary penalty. His early glosses vary: 'Ali, severe in seizing; Mujahid and Ibn Zayd, strength; Qatada, strength and stratagem; al-Hasan, destruction; Ibn 'Abbas, through Ibn Jurayj, might.",
+            "bn": "ওয়া হুয়া শাদীদুল মিহাল। তাবারী বলেন, যে তাঁর বিরুদ্ধে সীমা ছাড়ায়, অবাধ্য হয় আর কুফরিতে অটল থাকে, তাকে শাস্তি দেওয়ায় আল্লাহর মুমাহালা বড় কঠিন। তাঁর মতে মিহাল হলো মাহালতু ফুলানান থেকে আসা ক্রিয়াবাচক বিশেষ্য, যখন কেউ অন্যকে ধ্বংসের মুখে ঠেলে দেয় তখন এটি বলা হয়। তিনি আ'শার কবিতার চরণ শাদীদুল মিহাল উদ্ধৃত করেন, আবু উবাইদা যার ব্যাখ্যা করেছেন শাস্তি, কৌশল আর দৃষ্টান্তমূলক সাজা দিয়ে। প্রথম যুগের ব্যাখ্যা তিনি যা আনেন তা ভিন্ন ভিন্ন: আলী (রাঃ) বলেন, পাকড়াওয়ে কঠোর। মুজাহিদ ও ইবন যায়দ বলেন শক্তি, কাতাদা শক্তি ও কৌশল, হাসান ধ্বংস, আর ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) বলেন ক্ষমতা।"
+          },
+          {
+            "en": "At-Tabari argues that stratagem and might fit only a reading al-mahal, with fatha, since hila cannot yield mihal with kasra, and says he knows of no one who read it so. Al-Qurtubi reports that al-A'raj did, with Ibn 'Abbas's might given on that reading. Among the linguists, for Ibn al-A'rabi, mihal is makr, and makr from Allah is arranging matters by the truth; for al-Azhari, strength and severity. Ibn Kathir sets the phrase beside 27:50 and 27:51.",
+            "bn": "তাবারীর যুক্তি, কৌশল আর ক্ষমতার অর্থ তখনই খাটে যখন শব্দটি যবর দিয়ে আল-মাহাল পড়া হয়, কারণ হীলা থেকে যের দিয়ে মিহাল আসে না। তিনি বলেন, কেউ যবর দিয়ে পড়েছেন বলে তাঁর জানা নেই। কুরতুবী জানান, আ'রাজ ঠিক এভাবেই পড়েছেন, আর সেই পাঠ অনুযায়ী ইবন আব্বাস (রাঃ)-এর ক্ষমতা অর্থটি এসেছে। ভাষাবিদদের মধ্যে ইবনুল আরাবীর মতে মিহাল মানে মাকর, আর আল্লাহর মাকর হলো সত্য দিয়ে বিষয়ের ব্যবস্থা করা। আযহারীর মতে শক্তি ও কঠোরতা। ইবন কাসীর বাক্যটিকে ২৭:৫০ ও ২৭:৫১ আয়াতের পাশে রাখেন।"
+          },
+          {
+            "en": "As-Sa'di: severe in might and power, so that He wills nothing but He does it, nothing resists Him, and no fugitive escapes Him. Then he draws the verse together. Since He alone drives to His servants the rain and the clouds that carry their provision, runs every affair, and is the One to whom the great created things they fear submit, He alone deserves to be worshipped, without partner. The sky's praise is already given; the dispute is the human part.",
+            "bn": "সা'দী বলেন, তিনি শক্তি ও ক্ষমতায় প্রবল। তিনি যা চান তা-ই করেন, কিছুই তাঁর অবাধ্য হতে পারে না, কোনো পলাতক তাঁর হাত এড়াতে পারে না। তারপর তিনি পুরো আয়াতকে এক সূত্রে বাঁধেন। বান্দাদের রিযিকের উপকরণ বয়ে আনা বৃষ্টি আর মেঘ তিনি একাই তাদের দিকে চালিয়ে আনেন। সব বিষয়ের ব্যবস্থা তিনিই করেন। মানুষ যেসব বিশাল সৃষ্টিকে ভয় পায়, সেগুলোও তাঁর কাছে নত। তাই ইবাদত পাওয়ার যোগ্য একমাত্র তিনিই, তাঁর কোনো শরিক নেই। আকাশের প্রশংসা তো দেওয়াই হয়ে গেছে। বিতর্কটুকু মানুষের ভাগে।"
+          }
+        ]
+      }
+    ]
+  },
   "13:17": {
     "sections": [
       {
