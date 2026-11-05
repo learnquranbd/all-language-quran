@@ -1587,6 +1587,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:51": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Aimed Elsewhere",
+          "bn": "পাঁচ শব্দের বাঁকা প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Qala fa-ma balu l-quruni l-ula: he said, then what is the case of the former generations? The verse is five words long, and it is Pharaoh's second question. He had asked who the Lord of the two brothers was (20:49), and Moses had answered that his Lord is He who gave each thing its form and then guided it (20:50). Al-Qurtubi and al-Baghawi both gloss al-bal as al-hal, the state or condition. Al-Baghawi names the kind of people meant: the nations gone before, such as the people of Nuh, 'Ad and Thamud.",
+            "bn": "কালা ফামা বালুল কুরূনিল ঊলা: সে বলল, তাহলে আগের যুগের লোকদের কী অবস্থা? আয়াতটি মাত্র পাঁচ শব্দের, আর এটি ফেরাউনের দ্বিতীয় প্রশ্ন। প্রথমে সে জানতে চেয়েছিল, দুই ভাইয়ের রব কে (২০:৪৯)। মূসা (আঃ) জবাব দিয়েছিলেন: তিনিই, যিনি প্রতিটি জিনিসকে তার গঠন দিয়েছেন, তারপর পথ দেখিয়েছেন (২০:৫০)। কুরতুবী ও বাগাভী দুজনেই বলেন, 'বাল' মানে 'হাল', অর্থাৎ অবস্থা। কাদের কথা হচ্ছে, বাগাভী তা-ও বলে দেন: বিগত জাতিগুলো, যেমন নূহের কওম, আদ ও সামূদ।"
+          },
+          {
+            "en": "At-Tabari sets the question in its moment. Pharaoh spoke, he says, once Moses had described his Lord with vast dominion and abundant favour towards His creation. The question answers that description: if all things are His creation and live within His blessings, what of the nations before us who never affirmed it? Moses replies in 20:52, and the commentators read the two verses together: what Pharaoh meant is weighed against what Moses chose to say.",
+            "bn": "প্রশ্নটা কোন মুহূর্তে এল, তাবারী তা ধরিয়ে দেন। মূসা (আঃ) যখন তাঁর রবের বিশাল ক্ষমতা আর সৃষ্টির প্রতি তাঁর অঢেল অনুগ্রহের কথা বললেন, তখনই ফেরাউন মুখ খুলল। প্রশ্নটা আসলে সেই বর্ণনারই পাল্টা জবাব। সব কিছুই যদি তাঁর সৃষ্টি হয়, সবাই যদি তাঁর নিয়ামতের মধ্যেই বেঁচে থাকে, তাহলে আমাদের আগের জাতিগুলো এ কথা মানেনি কেন? মূসা (আঃ)-এর জবাব আসে পরের আয়াতে (২০:৫২)। তাফসীরকারেরা তাই দুটি আয়াত একসঙ্গে পড়েন। ফেরাউন কী বোঝাতে চেয়েছিল, তা মাপা যায় কেবল মূসা (আঃ) কী বলা বেছে নিলেন তার পাশে রেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Did They Not Worship Him?",
+          "bn": "তারা কেন তাঁর ইবাদত করেনি?"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir calls one reading the soundest of the views. When Moses told Pharaoh that the Lord who sent him is the One who created, provided, measured out and guided, Pharaoh began to argue from the former generations, meaning those who did not worship Allah. In Ibn Kathir's paraphrase: if the matter is as you say, what is wrong with them? They did not worship your Lord; they worshipped others. The question becomes a counter-proof from history: the crowd of the past against one messenger.",
+            "bn": "একটি ব্যাখ্যাকে ইবন কাসীর সব মতের মধ্যে সবচেয়ে বিশুদ্ধ বলেন। মূসা (আঃ) যখন জানালেন, যে রব তাঁকে পাঠিয়েছেন তিনিই সৃষ্টি করেন, রিযিক দেন, পরিমাপ ঠিক করেন, তারপর পথ দেখান, তখন ফেরাউন আগের যুগের লোকদের দিয়ে যুক্তি দেখাতে শুরু করল। অর্থাৎ তাদের দিয়ে, যারা আল্লাহর ইবাদত করেনি। ইবন কাসীরের ভাষায় তার কথার সারমর্ম: ব্যাপারটা যদি তোমার কথামতোই হয়, তাহলে ওদের কী হলো? ওরা তো তোমার রবের ইবাদত করেনি, করেছে অন্যদের। প্রশ্নটা এভাবে ইতিহাস থেকে তোলা এক পাল্টা প্রমাণ হয়ে দাঁড়ায়: একদিকে অতীতের গোটা জনতা, অন্যদিকে একজন রসূল।"
+          },
+          {
+            "en": "At-Tabari reads it the same way. His Pharaoh asks why the nations that passed before us did not affirm what Moses says, did not believe what he calls to, and did not devote worship to Him alone, but served gods and idols besides Him. Al-Baghawi adds two details to their record: those nations worshipped idols and denied the resurrection. Al-Qurtubi carries the reading too, introduced with 'it is said': what of the former generations, who did not affirm it and went their way having worshipped other than your Lord?",
+            "bn": "তাবারীও একই অর্থ নেন। তাঁর ব্যাখ্যায় ফেরাউন জানতে চায়, আমাদের আগের জাতিগুলো কেন মূসার কথা মানেনি, তাঁর দাওয়াত কেন বিশ্বাস করেনি, কেন খাঁটিভাবে একমাত্র তাঁরই ইবাদত করেনি, বরং তাঁকে বাদ দিয়ে নানা উপাস্য আর মূর্তির পূজা করেছে। বাগাভী তাদের আমলনামায় আরও দুটি কথা যোগ করেন: তারা মূর্তিপূজা করত, আর পুনরুত্থান অস্বীকার করত। কুরতুবীও 'বলা হয়' বলে এই ব্যাখ্যা আনেন: আগের যুগের সেই লোকদের কী হলো, যারা এ কথা মানেনি, আর তোমার রব ছাড়া অন্যের ইবাদত করেই চলে গেছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking After Their End",
+          "bn": "তাদের শেষটা কেমন হলো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di hears the question as a request for news. What is their affair, he paraphrases, what is their report, and how did things turn out for them, when they went before us into denial, disbelief, wrongdoing and stubbornness, and we have in them an example to follow? On this reading Pharaoh is not only asking about the past but claiming it as his precedent, and daring Moses to say a whole line of nations went wrong.",
+            "bn": "সা'দী প্রশ্নটাকে শোনেন খবর জানতে চাওয়া হিসেবে। তাঁর ভাষ্যে ফেরাউনের কথা এমন: ওদের ব্যাপারটা কী, ওদের খবর কী? ওদের শেষ পর্যন্ত কী দশা হলো? ওরা তো অস্বীকার, কুফর, জুলুম আর হঠকারিতায় আমাদের আগেই চলে গেছে, আর ওদের মধ্যেই তো আমাদের অনুসরণের আদর্শ। এ পাঠে ফেরাউন শুধু অতীতের কথা জিজ্ঞেস করছে না, অতীতকে নিজের নজির হিসেবে দাবি করছে। আর মূসা (আঃ)-কে যেন চ্যালেঞ্জ করছে: বলো তো, এতগুলো জাতির পুরো ধারা কি ভুল পথে ছিল?"
+          },
+          {
+            "en": "Al-Qurtubi's first reading keeps close to the word al-bal: what is their condition, what is their state? Moses then told him that their knowledge is with Allah. This, in al-Qurtubi's paraphrase of Moses, is knowledge of the unseen you have asked about, which Allah has kept to Himself; I am only a servant like you, and I know only what the Knower of the unseen has told me. A third reading he gives, again with 'it is said', has Pharaoh asking about their deeds, and Moses replying that those deeds are counted and kept with Allah.",
+            "bn": "কুরতুবীর প্রথম ব্যাখ্যা 'বাল' শব্দের কাছাকাছি থাকে: তাদের হাল কী, অবস্থা কী? মূসা (আঃ) তখন তাকে জানালেন, তাদের জ্ঞান আল্লাহর কাছে। কুরতুবীর ভাষায় মূসা (আঃ)-এর কথার মর্ম: তুমি যা জিজ্ঞেস করেছ তা গায়েবের জ্ঞান, যা আল্লাহ নিজের জন্য রেখে দিয়েছেন। আমি তোমার মতোই একজন বান্দা। গায়েবের মহাজ্ঞানী আমাকে যা জানিয়েছেন, তার বাইরে আমি কিছু জানি না। কুরতুবী আবার 'বলা হয়' বলে তৃতীয় এক ব্যাখ্যা দেন: ফেরাউন জানতে চেয়েছিল তাদের আমলের কথা, আর মূসা (আঃ) জানালেন, সেসব আমল আল্লাহর কাছে গোনা আছে, সংরক্ষিত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Snare Set Before Egypt",
+          "bn": "গোটা মিসরের সামনে পাতা ফাঁদ"
+        },
+        "p": [
+          {
+            "en": "Two commentators name a motive. The Muyassar says Pharaoh asked by way of mughalata and mushaghaba, arguing by sleight and stirring up trouble, and its paraphrase supplies the trouble: what of the past nations, who went before us into denial and disbelief? Ma'arif al-Qur'an turns the motive into a design. Pharaoh, it says, could not refute the argument from acts only Allah performs, and in his confusion asked a question meant to entangle Moses in a reply that would deeply offend the Egyptians.",
+            "bn": "দুজন তাফসীরকার উদ্দেশ্যের কথাও বলেন। মুয়াসসার বলে, ফেরাউন প্রশ্নটা করেছিল মুগালাতা আর মুশাগাবা হিসেবে, অর্থাৎ কথার প্যাঁচ কষে আর গোলমাল বাধাতে। গোলমালটা কী, তা-ও মুয়াসসারের ভাষ্যে আছে: আগের জাতিগুলোর কী হলো, যারা অস্বীকার আর কুফরে আমাদের আগেই চলে গেছে? মাআরিফুল কুরআন এই উদ্দেশ্যকে এক পরিকল্পনা হিসেবে দেখায়। তার বক্তব্য, যে কাজ কেবল আল্লাহই করেন, সেই যুক্তি খণ্ডন করতে ফেরাউন পারেনি। দিশেহারা হয়ে সে এমন প্রশ্ন করল, যাতে মূসা (আঃ) এমন জবাবে জড়িয়ে পড়েন যা মিসরবাসীকে ভীষণ আঘাত করবে।"
+          },
+          {
+            "en": "The question, in Ma'arif's words, was how the people of bygone ages stood, who all worshipped idols, and what their fate was. Had Moses replied, as Pharaoh expected, that they were all misguided and deserving of Hell, Pharaoh could turn his people against him. Ma'arif calls the reply so wise and discreet that the design failed completely. So the readings stand side by side: Ibn Kathir's soundest view makes it an argument, as-Sa'di hears a claim to precedent, and the Muyassar and Ma'arif add a hostile purpose.",
+            "bn": "মাআরিফুল কুরআনের ভাষায় প্রশ্নটা ছিল: অতীত যুগের সেই লোকদের কী অবস্থা, যারা সবাই মূর্তিপূজা করত, আর তাদের পরিণতি কী হয়েছিল? ফেরাউনের ধারণা ছিল, মূসা (আঃ) বলবেন, তারা সবাই পথভ্রষ্ট ছিল আর জাহান্নামের যোগ্য। তাহলেই সে নিজের লোকদের তাঁর বিরুদ্ধে খেপিয়ে তুলতে পারত। মাআরিফুল কুরআন বলে, জবাবটা এত বিজ্ঞ আর সংযত ছিল যে চক্রান্তটা পুরোপুরি ভেস্তে গেল। ব্যাখ্যাগুলো তাই পাশাপাশি দাঁড়িয়ে থাকে। ইবন কাসীরের বিশুদ্ধতম মতে এটি এক যুক্তি। সা'দী শোনেন নজিরের দাবি। আর মুয়াসসার ও মাআরিফুল কুরআন যোগ করে শত্রুতার উদ্দেশ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Knowledge Is With My Lord",
+          "bn": "তাদের খবর আমার রবের কাছে"
+        },
+        "p": [
+          {
+            "en": "Moses' answer is 20:52: 'ilmuha 'inda rabbi fi kitab, their knowledge is with my Lord in a record. At-Tabari spells it out: knowledge of these nations that have passed, and of what they did, is with my Lord in a book, meaning the Mother of the Book; I have no knowledge of their affair, nor of why those of them who strayed from Allah's religion strayed. Qatada, in a report at-Tabari relays, says the Prophet of Allah consigned the matter to Allah, and glosses it as their lifespans and their appointed terms.",
+            "bn": "মূসা (আঃ)-এর জবাব ২০:৫২ আয়াতে: ইলমুহা ইনদা রব্বী ফী কিতাব, তাদের জ্ঞান আমার রবের কাছে, এক কিতাবে। তাবারী খুলে বলেন: যে জাতিগুলো চলে গেছে, তাদের খবর আর তাদের কাজকর্মের জ্ঞান আমার রবের কাছে এক কিতাবে আছে, অর্থাৎ উম্মুল কিতাবে। তাদের ব্যাপারে আমার কোনো জ্ঞান নেই। তাদের মধ্যে যারা আল্লাহর দ্বীন থেকে সরে গিয়েছিল, কেন সরে গিয়েছিল তা-ও আমি জানি না। তাবারী কাতাদার একটি বর্ণনা আনেন। তাতে কাতাদা বলেন, আল্লাহর নবী বিষয়টা আল্লাহর উপর ছেড়ে দিয়েছিলেন। কিতাবে রাখা সেই জ্ঞানের ব্যাখ্যা তিনি দেন: তাদের আয়ু আর তাদের নির্ধারিত সময়।"
+          },
+          {
+            "en": "Ibn Kathir reads the answer as a reply to the objection: even if they did not worship Him, their deeds are recorded against them with Allah, and He will repay them for those deeds, in Allah's book, the Preserved Tablet and the book of deeds. As-Sa'di draws the consequence. They have gone on to what they sent ahead, met their deeds, and will be repaid for them, so there is no point in your asking about them, Pharaoh. He borrows the words of 2:134: that is a nation that has passed; it has what it earned.",
+            "bn": "ইবন কাসীর জবাবটাকে আপত্তির উত্তর হিসেবেই পড়েন: তারা তাঁর ইবাদত না করে থাকলেও তাদের আমল আল্লাহর কাছে তাদের নামে লিপিবদ্ধ আছে। আল্লাহর কিতাবে, অর্থাৎ লাওহে মাহফুয আর আমলনামায়, সব লেখা, আর সেই আমলের প্রতিদান তিনি তাদের দেবেন। সা'দী এর ফল টেনে বের করেন। তারা যা আগে পাঠিয়েছে তার কাছে পৌঁছে গেছে, নিজেদের আমলের মুখোমুখি হয়েছে, আর তার প্রতিদান পাবে। কাজেই হে ফেরাউন, তাদের নিয়ে তোমার এ প্রশ্নের কোনো অর্থ নেই। এখানে তিনি ২:১৩৪ আয়াতের কথা ধার করেন: ওরা এক উম্মত, যারা গত হয়েছে; তারা যা কামাই করেছে তা তাদের।"
+          },
+          {
+            "en": "Al-Baghawi records another explanation, introduced with 'it is said': Moses referred this knowledge to Allah because he did not know it, since the Torah was revealed after the destruction of Pharaoh and his people. Nothing here is a lack in Moses. A messenger knows what he has been told, and al-Qurtubi's paraphrase has Moses say exactly that of himself. To say 'that is with my Lord' of what he has not been told is a messenger's honesty, and it left Pharaoh nothing to seize.",
+            "bn": "বাগাভী 'বলা হয়' বলে আরেকটি ব্যাখ্যা উল্লেখ করেন: মূসা (আঃ) এ জ্ঞান আল্লাহর দিকে ফিরিয়ে দিয়েছিলেন, কারণ তিনি নিজে তা জানতেন না। তাওরাত তো নাযিল হয়েছিল ফেরাউন ও তার কওম ধ্বংস হওয়ার পরে। এতে মূসা (আঃ)-এর কোনো ঘাটতি নেই। রসূল ততটুকুই জানেন, যতটুকু তাঁকে জানানো হয়। কুরতুবীর ভাষ্যেও মূসা (আঃ) নিজের সম্পর্কে ঠিক এ কথাই বলেন। যা জানানো হয়নি, সে বিষয়ে 'ওটা আমার রবের কাছে' বলা রসূলের সততা। আর সেই সততায় ফেরাউন আঁকড়ে ধরার মতো কিছুই পেল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Missing Nor Forgetting",
+          "bn": "না ভুল, না বিস্মৃতি"
+        },
+        "p": [
+          {
+            "en": "Then the line that closes the answer: la yadillu rabbi wa la yansa, my Lord neither errs nor forgets. At-Tabari takes la yadillu as: my Lord does not err in His ordering of things and His acts. If He punished those generations early and hastened their destruction, what He did was right; if He deferred their punishment to the Day of Resurrection, what He did was true; He knows best what He does. Wa la yansa, at-Tabari adds, means He does not forget and so leave undone what wisdom requires.",
+            "bn": "তারপর জবাবের শেষ বাক্য: লা ইয়াদিল্লু রব্বী ওয়ালা ইয়ানসা, আমার রব ভুল করেন না, ভুলেও যান না। তাবারী 'লা ইয়াদিল্লু'র অর্থ নেন: আমার রব তাঁর ব্যবস্থাপনায় আর তাঁর কাজে ভুল করেন না। সেই প্রজন্মগুলোকে তিনি যদি দুনিয়াতেই আযাব দিয়ে থাকেন, দ্রুত ধ্বংস করে থাকেন, তবে তিনি যা করেছেন তা-ই সঠিক। আর যদি তাদের শাস্তি কিয়ামত পর্যন্ত পিছিয়ে দিয়ে থাকেন, তবে সেটাই হক। তিনি কী করেন, তা তিনিই সবচেয়ে ভালো জানেন। তাবারী যোগ করেন, 'ওয়ালা ইয়ানসা' মানে তিনি ভুলে যান না যে হিকমতের দাবি থাকা কোনো কাজ বাদ পড়ে যাবে।"
+          },
+          {
+            "en": "At-Tabari relays from Ibn 'Abbas, through 'Ali ibn Abi Talha: my Lord does not err and does not forget. Mujahid, in two chains, says the two phrases are one thing. Al-Qurtubi counts five readings of la yadillu. Az-Zajjaj takes it as a fresh sentence clearing Allah of perishing and forgetting. Ibn 'Abbas: He does not err in His disposing, so whom He gives respite He gives it for wisdom, and whom He hastens He hastens for wisdom. Ibn al-A'rabi: nothing is absent from Him. A fourth: knowledge of nothing escapes Him. A fifth makes both phrases describe the book.",
+            "bn": "তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস থেকে আনেন: আমার রব ভুল করেন না, ভোলেনও না। মুজাহিদ দুটি সনদে বলেন, দুটো কথা আসলে একই। কুরতুবী 'লা ইয়াদিল্লু'র পাঁচটি ব্যাখ্যা গোনেন। যাজ্জাজের মতে এটি নতুন বাক্য, যা আল্লাহকে বিনাশ আর বিস্মৃতি থেকে পবিত্র ঘোষণা করে। ইবন আব্বাসের মতে, তিনি তাঁর ব্যবস্থাপনায় ভুল করেন না। কাউকে অবকাশ দিলে হিকমতের জন্যই দেন, কাউকে দ্রুত ধরলে হিকমতের জন্যই ধরেন। ইবনুল আরাবীর মতে, কোনো কিছুই তাঁর কাছ থেকে অনুপস্থিত নয়। চতুর্থ মতে, কোনো কিছুর জ্ঞানই তাঁর কাছ থেকে হারিয়ে যায় না। পঞ্চম মতে দুটো কথাই কিতাবের বিশেষণ।"
+          },
+          {
+            "en": "Ibn Kathir explains the two denials. Nothing slips away from Him, nothing small or great escapes Him, and He forgets nothing; His knowledge encompasses everything. The knowledge of creatures, he says, suffers two deficiencies: it does not take in a thing fully, and it is liable to forget after it has known. Allah declared Himself free of both. Al-Baghawi offers another sense of la yansa, again with 'it is said': He does not abandon, so He will take retribution on the disbeliever and reward the believer.",
+            "bn": "দুটো 'না'-এর অর্থ ইবন কাসীর বুঝিয়ে দেন। কোনো কিছুই তাঁর নাগাল থেকে ফসকে যায় না, ছোট-বড় কিছুই তাঁর চোখ এড়ায় না, আর তিনি কিছুই ভোলেন না। তাঁর জ্ঞান সব কিছুকে ঘিরে আছে। তিনি বলেন, সৃষ্টির জ্ঞানে দুটি ঘাটতি থাকে। এক, কোনো জিনিসকে সে পুরোপুরি জানতে পারে না। দুই, জানার পরেও সে ভুলে যেতে পারে। আল্লাহ নিজেকে এ দুটো থেকেই পবিত্র ঘোষণা করেছেন। বাগাভী আবার 'বলা হয়' বলে 'লা ইয়ানসা'র আরেকটি অর্থ দেন: তিনি ছেড়ে দেন না। কাজেই কাফিরের কাছ থেকে তিনি প্রতিশোধ নেবেন, আর মুমিনকে প্রতিদান দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Writing Kept With Him",
+          "bn": "তাঁর কাছে রাখা লেখা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays a reading from az-Zajjaj, which an-Nahhas judges closest to the sense, that Allah has no need of a book; the record is not there to help His memory. He draws a lesson for people instead: this verse and its like point to writing knowledge down so that it is not lost, because memory is open to error and forgetting. He relays, with a connected chain, that Qatada was asked whether his hearers might write what they heard from him, and answered: what stops you, when the Subtle, the Aware has told you that He writes? Then he recited this verse.",
+            "bn": "কুরতুবী যাজ্জাজের একটি ব্যাখ্যা আনেন, যাকে নাহহাস অর্থের সবচেয়ে কাছাকাছি বলেছেন: আল্লাহর কোনো কিতাবের প্রয়োজন নেই। তাঁর স্মৃতির সহায়তার জন্য এ লেখা নয়। কুরতুবী বরং মানুষের জন্য একটা শিক্ষা টানেন। এ আয়াত ও এ ধরনের আয়াত জ্ঞান লিখে রাখার দিকে ইঙ্গিত করে, যাতে তা হারিয়ে না যায়। কারণ মুখস্থ বিদ্যায় ভুল আর বিস্মৃতি ঢুকে পড়তে পারে। তিনি মুত্তাসিল সনদে বর্ণনা করেন, কাতাদাকে জিজ্ঞেস করা হয়েছিল, আপনার কাছে যা শুনি তা কি আমরা লিখে রাখব? তিনি বললেন, কিসে তোমাদের বাধা দেয়, যখন সূক্ষ্মদর্শী, সর্বজ্ঞ আল্লাহ নিজেই জানিয়েছেন যে তিনি লিখে রাখেন? তারপর তিনি এ আয়াতটি তিলাওয়াত করলেন।"
+          },
+          {
+            "en": "Al-Qurtubi also cites a narration about what Allah wrote. Muslim includes it in his Sahih (2751), from Abu Hurayra, that the Messenger of Allah ﷺ said: 'When Allah decreed the creation, He wrote in His Book, binding upon Himself, and it is placed with Him: My mercy prevails over My wrath.' Al-Qurtubi brings it as evidence for writing; it is a general narration, not a report about this verse or the next, and says nothing of any generation's fate. No tafsir fetched for 20:51 attaches a sound hadith to the verse itself.",
+            "bn": "কুরতুবী আল্লাহর লেখা নিয়ে একটি হাদীসও উল্লেখ করেন। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (২৭৫১) আবু হুরায়রা (রাঃ) থেকে এটি এনেছেন। আল্লাহর রসূল ﷺ বলেছেন: 'আল্লাহ যখন সৃষ্টির ফয়সালা করলেন, তখন নিজের উপর অবধারিত করে তাঁর কিতাবে লিখলেন, আর তা তাঁর কাছেই রাখা আছে: নিশ্চয়ই আমার রহমত আমার ক্রোধের উপর প্রবল।' কুরতুবী এটি এনেছেন লিখে রাখার পক্ষে দলিল হিসেবে। এটি একটি সাধারণ হাদীস, এ আয়াত বা পরের আয়াত সম্পর্কে কোনো বর্ণনা নয়, আর কোনো প্রজন্মের পরিণতি নিয়েও কিছু বলে না। ২০:৫১ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Sentence on Anyone's Forefathers",
+          "bn": "কারও পূর্বপুরুষের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports one king's question about generations long gone and one prophet's refusal to pronounce on them. It describes what the text describes and licenses nothing against any living person or community, Egyptians today included. Nor does it let anyone name the forefathers of a nation, a family or a friend as lost. Moses, speaking to a king who held up those generations as his precedent, declined to do it, and he was a messenger of Allah. A reader who does so goes beyond the verse.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বলছে এক বাদশাহর একটি প্রশ্নের কথা, বহু আগে গত হওয়া প্রজন্মগুলো নিয়ে। আর বলছে একজন নবীর কথা, যিনি তাদের উপর রায় দিতে রাজি হননি। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে, আজকের মিসরবাসীসহ, এটি কোনো অনুমতি দেয় না। কোনো জাতি, পরিবার বা বন্ধুর পূর্বপুরুষদের পথভ্রষ্ট বলে ঘোষণা করার অনুমতিও দেয় না। যে বাদশাহ ওই প্রজন্মগুলোকে নিজের নজির বানাচ্ছিল, তার সামনেও মূসা (আঃ) এ কাজ করেননি, অথচ তিনি ছিলেন আল্লাহর রসূল। কোনো পাঠক তা করলে সে আয়াতের সীমা ছাড়িয়ে গেল।"
+          },
+          {
+            "en": "As-Sa'di shows where the weight falls instead. Having said the past nations have their deeds, he turns the talk back to Pharaoh. If the proof Moses brought had convinced him, let him yield to the truth and leave disbelief, wrongdoing and much arguing in falsehood. If he doubted it, the road is open and the door of inquiry is not shut, so let him answer proof with proof. As-Sa'di adds that Pharaoh found no such answer, citing 27:14: they denied the signs though their souls were certain of them.",
+            "bn": "ভারটা আসলে কোথায় পড়ে, সা'দী তা দেখান। আগের জাতিগুলো তাদের আমল নিয়ে চলে গেছে, এ কথা বলার পর তিনি আলোচনা ফিরিয়ে আনেন ফেরাউনের দিকে। মূসা (আঃ)-এর আনা প্রমাণে যদি তার মন সত্যিই মেনে থাকে, তবে সে হকের কাছে মাথা নত করুক, ছেড়ে দিক কুফর, জুলুম আর বাতিল নিয়ে লম্বা তর্ক। আর যদি সন্দেহ থাকে, তবে পথ খোলা, অনুসন্ধানের দরজা বন্ধ নয়। প্রমাণের জবাব দিক প্রমাণ দিয়ে। সা'দী যোগ করেন, এমন কোনো জবাব ফেরাউন পায়নি। তিনি ২৭:১৪ আয়াত উদ্ধৃত করেন: তারা নিদর্শনগুলো অস্বীকার করল, অথচ তাদের অন্তর সেগুলোর ব্যাপারে নিশ্চিত ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Drawn Off the Point",
+          "bn": "মূল কথা থেকে না সরা"
+        },
+        "p": [
+          {
+            "en": "The exchange gives a pattern for any talk where truth meets a deflecting question. Moses did not ignore Pharaoh, and he did not take the bait. He gave a short, true answer that conceded nothing and condemned no one, and it put the question where it belonged. The matter of the dead was real, but it was not Pharaoh's to settle or Moses' to announce. Ma'arif calls the reply discreet, and the discretion was not silence but one exact sentence.",
+            "bn": "সত্যের আলোচনায় যখন পাশ কাটানোর প্রশ্ন এসে পড়ে, এই কথোপকথন তখনকার জন্য একটা ধরন দেখিয়ে দেয়। মূসা (আঃ) ফেরাউনকে উপেক্ষা করেননি, আবার তার টোপও গেলেননি। তিনি ছোট্ট একটা সত্য জবাব দিলেন। তাতে কিছু ছাড় দেওয়া হলো না, কাউকে দোষীও সাব্যস্ত করা হলো না, আর প্রশ্নটা চলে গেল তার আসল ঠিকানায়। মৃতদের বিষয়টা সত্যিই গুরুত্বের, কিন্তু তার মীমাংসা ফেরাউনের কাজ নয়, ঘোষণা দেওয়াও মূসা (আঃ)-এর কাজ নয়। মাআরিফুল কুরআন জবাবটাকে বলে সংযত। সেই সংযম চুপ থাকা ছিল না, ছিল একটি মাপা বাক্য।"
+          },
+          {
+            "en": "Today the tests come small: a family quarrel that turns from what is right to whose grandparents were wrong, a debate that leaps from evidence to the reputation of the dead, a question about someone's fate that no one present can answer. The two verses suggest an order. Say what you know, say plainly what you do not, leave with Allah what belongs to Him, and come back to the choice the living must make. The passage itself returns at once to the earth, the roads and the rain (20:53).",
+            "bn": "আজ পরীক্ষা আসে ছোট আকারে। পারিবারিক ঝগড়া হঠাৎ 'কোনটা ঠিক' থেকে সরে যায় 'কার দাদা-দাদি ভুল ছিলেন' প্রশ্নে। কোনো বিতর্ক প্রমাণ ছেড়ে লাফিয়ে পড়ে মৃতদের সুনাম নিয়ে টানাটানিতে। কিংবা কারও পরিণতি নিয়ে প্রশ্ন ওঠে, যার জবাব উপস্থিত কেউই জানে না। আয়াত দুটি একটা ক্রম দেখায়। যা জানেন তা বলুন। যা জানেন না, তা সোজাসুজি স্বীকার করুন। যা আল্লাহর, তা তাঁর হাতে ছেড়ে দিন। তারপর ফিরে আসুন সেই সিদ্ধান্তে, যা জীবিতদের নিতে হবে। আলোচনাও সঙ্গে সঙ্গে ফিরে যায় যমীন, পথ আর বৃষ্টির কথায় (২০:৫৩)।"
+          }
+        ]
+      }
+    ]
+  },
   "20:53": {
     "sections": [
       {

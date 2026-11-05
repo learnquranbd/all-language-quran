@@ -23171,6 +23171,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah's command seems to risk what you love most, trust the One who gave it; He is kinder to what you love than you are.",
     "lessonBn": "আল্লাহর হুকুম যখন মনে হয় আপনার সবচেয়ে প্রিয় জিনিসকে ঝুঁকিতে ফেলছে, তখন হুকুমদাতার উপর ভরসা রাখুন। আপনার প্রিয়জনের প্রতি আপনার চেয়ে তিনিই বেশি দয়ালু।"
+  },
+  "20:51": {
+    "reflectionEn": "Moses had just named his Lord as the One who gave each thing its form and then guided it. Pharaoh did not answer that. He turned to the dead: then what of the generations before us? The question had a hook in it. Call them lost, and a crowd hears its forefathers condemned; stay silent, and the question hangs in the air. Moses did neither. Their knowledge is with my Lord, in a record; my Lord neither errs nor forgets. He handed the dead back to the One who holds their account, and the talk back to the living. How often am I pulled off the point by a question meant to pull me? And whose fate do I speak about as if it were mine to pronounce?",
+    "reflectionBn": "মূসা (আঃ) সবে তাঁর রবের পরিচয় দিয়েছেন: তিনিই প্রতিটি জিনিসকে তার গঠন দিয়েছেন, তারপর পথ দেখিয়েছেন। ফেরাউন এর জবাব দিল না। সে কথা ঘুরিয়ে নিল মৃতদের দিকে: তাহলে আগের যুগের লোকদের কী অবস্থা? প্রশ্নটার ভেতরে একটা বড়শি গাঁথা ছিল। তাদের পথভ্রষ্ট বললে ভিড়ের লোকেরা শুনবে, তাদের বাপ-দাদাকে দোষী করা হচ্ছে। চুপ থাকলে প্রশ্নটা ঝুলে থাকবে। মূসা (আঃ) দুটোর কোনোটাই করলেন না। বললেন, তাদের জ্ঞান আমার রবের কাছে, এক কিতাবে লেখা; আমার রব ভুল করেন না, ভুলেও যান না। মৃতদের তিনি ফিরিয়ে দিলেন তাঁর হাতে, যাঁর কাছে তাদের হিসাব। আর আলোচনা ফিরিয়ে আনলেন জীবিতদের কাছে। টেনে সরানোর জন্য ছোড়া প্রশ্নে আমি কতবার মূল কথা থেকে সরে যাই? আর কার পরিণতি নিয়ে আমি এমনভাবে কথা বলি, যেন রায় দেওয়ার ভার আমার?",
+    "pointsEn": [
+      "When a talk about what is true turns suddenly to who is to blame, do I notice the turn, or simply follow it?",
+      "Is there a question I keep answering that was never asked to be answered, only to change the subject?",
+      "Whose forefathers, or whose dead, have I spoken about as though their account were in my hands?",
+      "When I do not know, can I say so plainly and leave the matter with Allah without feeling I have lost the argument?",
+      "Does trusting that my Lord neither errs nor forgets make me calmer about the wrongs I will never see settled?"
+    ],
+    "pointsBn": [
+      "কী সত্য, সেই আলোচনা হঠাৎ যখন 'দোষ কার' প্রশ্নে মোড় নেয়, আমি কি মোড়টা টের পাই, নাকি চুপচাপ পেছন পেছন চলে যাই?",
+      "এমন কোনো প্রশ্ন কি আছে যার জবাব আমি বারবার দিয়ে যাই, অথচ তা জবাব পাওয়ার জন্য করা হয়নি, করা হয়েছে শুধু প্রসঙ্গ ঘোরাতে?",
+      "কার বাপ-দাদা বা কার মৃত আপনজনদের নিয়ে আমি এমনভাবে কথা বলেছি, যেন তাদের হিসাব আমার হাতে?",
+      "যা জানি না, তা কি আমি সোজাসুজি বলতে পারি, আর তর্কে হেরে গেলাম এমন না ভেবে বিষয়টা আল্লাহর হাতে ছেড়ে দিতে পারি?",
+      "আমার রব ভুল করেন না, ভোলেনও না, এই ভরসা কি আমাকে সেই অন্যায়গুলো নিয়ে শান্ত রাখে, যার মীমাংসা আমি কোনোদিন দেখে যাব না?"
+    ],
+    "lessonEn": "When a question is thrown to draw you off the point, answer briefly with the truth, leave to Allah what only He knows, and return to what the listener must decide.",
+    "lessonBn": "মূল কথা থেকে সরিয়ে নেওয়ার জন্য প্রশ্ন ছোড়া হলে সংক্ষেপে সত্যটা বলুন, যা কেবল আল্লাহ জানেন তা তাঁর হাতে ছেড়ে দিন, আর ফিরে আসুন সেই কথায় যার ফয়সালা শ্রোতাকে করতে হবে।"
   }
 };
 
