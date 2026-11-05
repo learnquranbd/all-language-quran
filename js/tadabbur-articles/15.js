@@ -1455,6 +1455,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After an Oath",
+          "bn": "কসমের পরে চারটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse is four words long, and it finishes a sentence that Iblis began in 15:39. There he says: my Lord, because You have put me in error, I will surely make things look attractive to them on the earth, and I will mislead them all. Then, before the sentence closes, comes illa 'ibadaka minhumu al-mukhlasin: except Your servants among them, the mukhlasin. The refusal behind this oath was the subject of 15:33, and the respite that makes room for it the subject of 15:36. Neither is retold here; this page stays with the exception.",
+            "bn": "আয়াতটি মাত্র চারটি শব্দের। ১৫:৩৯ আয়াতে ইবলিস যে বাক্য শুরু করেছিল, এ আয়াত সেটাই শেষ করে। সেখানে সে বলে: হে আমার রব, আপনি যেহেতু আমাকে বিপথে ফেলেছেন, আমি অবশ্যই পৃথিবীতে তাদের চোখে সবকিছু সুন্দর করে দেখাব, আর তাদের সবাইকে বিপথে নেব। বাক্য শেষ হওয়ার আগেই আসে: ইল্লা ইবাদাকা মিনহুমুল মুখলাসীন, তবে তাদের মধ্যে আপনার মুখলাস বান্দারা ছাড়া। এই কসমের পেছনে যে অবাধ্যতা, তা ১৫:৩৩ আয়াতের আলোচ্য। আর যে অবকাশ তাকে সুযোগ করে দেয়, তা ১৫:৩৬ আয়াতের। সে দুটো এখানে আবার বলা হবে না। এ লেখা শুধু ব্যতিক্রমটুকু নিয়ে।"
+          },
+          {
+            "en": "The shape of the sentence matters before any commentary. Ajma'in, them all, leaves no one out on its face, and Iblis attaches it to his own vow. The exception therefore cuts into his claim from inside his own speech. Nobody has answered him yet; Allah's reply begins only in 15:41. The Muyassar, which paraphrases 15:39 and 15:40 as one sentence, keeps that shape: he will make Your acts of disobedience look fair to the descendants of Adam on the earth and lead them all away from the path of guidance, except Your servants.",
+            "bn": "তাফসীরে যাওয়ার আগে বাক্যের গড়নটা দেখা দরকার। আজমাঈন, অর্থাৎ সবাই, শব্দটা বাহ্যত কাউকে বাদ রাখে না। ইবলিস শব্দটা জুড়ে দেয় নিজের কসমের সঙ্গে। তাই ব্যতিক্রমটা তার দাবিকে কাটে তার নিজের কথার ভেতর থেকেই। তখনো কেউ তাকে জবাব দেননি। আল্লাহর জবাব শুরু হয় ১৫:৪১ আয়াতে গিয়ে। মুয়াসসার ১৫:৩৯ ও ১৫:৪০ আয়াতকে একটি বাক্যে ব্যাখ্যা করে, আর গড়নটা ঠিক রাখে। ইবলিস বলছে, সে আদমের বংশধরদের চোখে পৃথিবীতে আপনার নাফরমানিকে সুন্দর করে দেখাবে, আর তাদের সবাইকে হেদায়াতের পথ থেকে সরিয়ে নেবে, তবে আপনার বান্দারা ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Lam, Two Vowels",
+          "bn": "এক লামে দুই হরকত"
+        },
+        "p": [
+          {
+            "en": "The difference lies in a single vowel on the letter lam, and al-Qurtubi names who read which. The people of Madina and the people of Kufa read it with fatha, al-mukhlasin, and he explains it as those whom You have singled out as pure and made pure: istakhlastahum wa akhlastahum. The rest read it with kasra, al-mukhlisin, and he explains that as those who have made their worship sincere for You, free of corruption or of showing off. So the two readings use two voices: in one the servants are acted upon, in the other they act.",
+            "bn": "পার্থক্যটা লাম অক্ষরের উপরের একটিমাত্র হরকতে। কে কোনটা পড়েছেন, কুরতুবী তা নাম ধরে বলেন। মদীনা ও কূফার কারীরা পড়েছেন যবর দিয়ে, আল-মুখলাসীন। তাঁর ব্যাখ্যায় এর অর্থ: যাদের আপনি খাঁটি হিসেবে বেছে নিয়েছেন এবং খাঁটি করেছেন, ইসতাখলাসতাহুম ওয়া আখলাসতাহুম। বাকিরা পড়েছেন যের দিয়ে, আল-মুখলিসীন। এর অর্থ তিনি বলেন: যারা আপনার জন্য ইবাদতকে খাঁটি করেছে, ফাসাদ বা লোক দেখানো থেকে মুক্ত রেখেছে। ফলে দুই পাঠে কর্তা বদলে যায়। এক পাঠে বান্দাদের উপর কাজটা ঘটে, অন্য পাঠে কাজটা বান্দারাই করে।"
+          },
+          {
+            "en": "The Arabic printed in this app carries the fatha, and the English and Bengali translations shown with the verse follow it, rendering the word as Your chosen servants. Al-Baghawi and at-Tabari also report both readings, though neither names the readers. None of the commentators consulted here who mention the two readings rejects either one. Each simply explains both, as two recited readings of one verse. What the vowel changes is the answer to a single question: who is doing the purifying, Allah or the servant?",
+            "bn": "এই অ্যাপে ছাপা আরবি পাঠে যবর আছে। আয়াতের সঙ্গে দেখানো ইংরেজি ও বাংলা অনুবাদও সেটাই অনুসরণ করে, অর্থ করে আপনার বাছাই করা বান্দারা। বাগাভী ও তাবারীও দুটো পাঠের কথা আনেন, তবে কারীদের নাম কেউ বলেন না। যাঁরা দুই পাঠের উল্লেখ করেছেন, এখানে দেখা তাফসীরগুলোর কেউই কোনোটিকে বাতিল করেননি। প্রত্যেকে দুটোরই ব্যাখ্যা দেন, একই আয়াতের দুই পঠিত রূপ হিসেবে। হরকতটা আসলে একটি প্রশ্নের উত্তর বদলায়: খাঁটি করার কাজটা কে করছেন, আল্লাহ, নাকি বান্দা?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Pure by His Help",
+          "bn": "তাঁর তাওফীকে খাঁটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari leads with the fatha reading and puts his gloss in Iblis's mouth: except whoever You have made pure by Your tawfiq, Your enabling help, and so guided. Then he finishes the thought for him: such a servant is among those over whom I have no authority, and against whom I have no strength. The two halves of that gloss belong together. The servant is made pure and guided first, and only then is Iblis shut out. His failure is the consequence of something Allah has already done for that servant.",
+            "bn": "তাবারী যবরের পাঠ দিয়ে শুরু করেন, আর ব্যাখ্যাটা রাখেন ইবলিসের মুখেই: তবে যাকে আপনি আপনার তাওফীক দিয়ে খাঁটি করেছেন, আর এভাবে হেদায়াত দিয়েছেন। তারপর ইবলিসের কথাটা তিনি শেষ করে দেন: এমন মানুষের উপর আমার কোনো আধিপত্য নেই, তার বিরুদ্ধে আমার কোনো শক্তিও নেই। ব্যাখ্যার দুই অংশ একসঙ্গে পড়তে হয়। বান্দাকে আগে খাঁটি করা হয়, হেদায়াত দেওয়া হয়। তারপরই ইবলিসের পথ বন্ধ হয়। তার ব্যর্থতা আসলে আল্লাহর সেই কাজের ফল, যা তিনি ওই বান্দার জন্য আগেই করে রেখেছেন।"
+          },
+          {
+            "en": "Al-Baghawi gives the fatha reading in nearly the same terms: whoever You have made pure by Your tawhid and chosen, istafaytahu. Istafa means to pick out and prefer. On this reading the safety of these servants is not a fortress they built and now defend against Iblis. It is something given to them, and the giver is Allah. Grace is the right name for it. The servant's protection begins with an act that is not his own, and he can only receive it and thank the One who gave it.",
+            "bn": "যবরের পাঠ বাগাভীও প্রায় একই ভাষায় দেন: যাকে আপনি আপনার তাওহীদ দিয়ে খাঁটি করেছেন এবং বেছে নিয়েছেন, ইসতাফাইতাহু। ইসতাফা মানে বেছে নিয়ে অগ্রাধিকার দেওয়া। এই পাঠে বান্দাদের নিরাপত্তা এমন কোনো দুর্গ নয়, যা তারা নিজেরা গড়েছে আর এখন ইবলিসের হাত থেকে রক্ষা করছে। নিরাপত্তাটা তাদের দেওয়া হয়েছে, আর দাতা আল্লাহ। এর সঠিক নাম অনুগ্রহ। বান্দার হেফাজত শুরু হয় এমন এক কাজ দিয়ে, যা তার নিজের নয়। সে শুধু তা গ্রহণ করতে পারে, আর দাতার শোকর আদায় করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pure by Their Own Obedience",
+          "bn": "নিজের আনুগত্যে খাঁটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then turns to the other reading with the words wa qad quri'a, and it has been read. Whoever reads it that way, he says, means: except whoever has made his obedience to You sincere, for I have no way to reach him. He adds that the people of interpretation said much the same, and gives two names. Ad-Dahhak said the phrase means the believers. Qatada's remark is shorter still, and it is taken up below. Here, too, Iblis is shut out, but the reason now sits in the servant's own deed.",
+            "bn": "এরপর তাবারী অন্য পাঠের দিকে যান, ওয়া কাদ কুরিআ বলে, অর্থাৎ এভাবেও পড়া হয়েছে। তিনি বলেন, যিনি এভাবে পড়েন, তাঁর মতে অর্থ: তবে যে আপনার আনুগত্যকে খাঁটি করেছে, তার কাছে পৌঁছানোর কোনো পথ আমার নেই। তিনি যোগ করেন, তাফসীরের আলেমরাও প্রায় একই কথা বলেছেন, আর দুজনের নাম আনেন। দাহহাক বলেছেন, এর অর্থ মুমিনরা। কাতাদার মন্তব্য আরও ছোট, সেটা পরে আসছে। এখানেও ইবলিসের পথ বন্ধ। তবে কারণটা এবার বান্দার নিজের আমলে।"
+          },
+          {
+            "en": "Al-Baghawi reverses at-Tabari's order. His first gloss follows the kasra: the believers who have made their obedience and their tawhid sincere for You. Only then does he add the fatha reading. Al-Qurtubi's account of the kasra, quoted above, names what sincerity keeps out: corruption, and riya', doing a deed to be seen. On this reading the mukhlis is someone at work. Sincerity is an act of the heart that he performs, and has to keep performing, because the showing off it excludes can return at any time.",
+            "bn": "বাগাভী তাবারীর ক্রম উল্টে দেন। তাঁর প্রথম ব্যাখ্যা যেরের পাঠ ধরে: সেই মুমিনরা, যারা আপনার জন্য নিজেদের আনুগত্য ও তাওহীদকে খাঁটি করেছে। যবরের পাঠ তিনি আনেন এর পরে। যেরের পাঠ নিয়ে কুরতুবীর যে ব্যাখ্যা আগে এসেছে, তাতে ইখলাস কী কী ঠেকায় তার নাম আছে: ফাসাদ, আর রিয়া, মানে লোককে দেখানোর জন্য আমল। এই পাঠে মুখলিস এক কর্মরত মানুষ। ইখলাস তার অন্তরের এক কাজ, যা সে করে, আর বারবার করে যেতে হয়। কারণ যে লোক দেখানো সে দূরে রাখে, তা যেকোনো সময় ফিরে আসতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guided, Then Sincere",
+          "bn": "আগে হেদায়াত, পরে ইখলাস"
+        },
+        "p": [
+          {
+            "en": "Two of the commentaries do not choose between grace and effort. They join them in one sentence. The Muyassar, closing its paraphrase of 15:39 and 15:40, reads: except Your servants whom You guided, and so they made their worship sincere for You alone, apart from all the rest of Your creation. The order is plain. Allah's guidance comes first, and the servant's sincerity follows from it as its fruit. Neither half is dropped. The guidance would mean nothing without the worship, and the worship would not exist without the guidance.",
+            "bn": "দুটি তাফসীর অনুগ্রহ আর চেষ্টার মধ্যে বাছাই করে না। দুটোকে একটি বাক্যে জুড়ে দেয়। ১৫:৩৯ ও ১৫:৪০ আয়াতের ব্যাখ্যা মুয়াসসার শেষ করে এভাবে: তবে আপনার সেই বান্দারা, যাদের আপনি হেদায়াত দিয়েছেন, ফলে তারা আপনার সমস্ত সৃষ্টিকে বাদ দিয়ে শুধু আপনার জন্যই ইবাদতকে খাঁটি করেছে। ক্রমটা স্পষ্ট। আল্লাহর হেদায়াত আগে আসে, আর বান্দার ইখলাস আসে তার ফল হয়ে। কোনো অংশই বাদ পড়ে না। ইবাদত না থাকলে হেদায়াতের মানে থাকত না, আর হেদায়াত না থাকলে ইবাদতই জন্মাত না।"
+          },
+          {
+            "en": "As-Sa'di joins them the other way round: those whom You have made pure and chosen, ijtabaytahum, for their sincerity, their faith and their reliance on You. Here the choosing is Allah's, and its reason lies in what the servants are. The Qur'an speaks of the same qualities in another surah. In 16:99 Satan has no authority over those who have believed and rely upon their Lord. As-Sa'di does not cite that verse here, but his three words and its two describe the same people from the same side.",
+            "bn": "সা'দী দুটোকে জোড়েন উল্টো দিক থেকে: যাদের আপনি খাঁটি করেছেন এবং বেছে নিয়েছেন, ইজতাবাইতাহুম, তাদের ইখলাস, ঈমান আর আপনার উপর তাওয়াক্কুলের কারণে। এখানে বাছাই আল্লাহর, আর তার কারণ বান্দাদের নিজেদের গুণ। অন্য এক সূরায় কুরআন এই গুণগুলোর কথাই বলে। ১৬:৯৯ আয়াতে আছে, যারা ঈমান এনেছে আর নিজেদের রবের উপর ভরসা রাখে, তাদের উপর শয়তানের কোনো আধিপত্য নেই। সা'দী এখানে আয়াতটি উদ্ধৃত করেননি। তবে তাঁর তিনটি শব্দ আর আয়াতের দুটি শব্দ একই মানুষদের কথা বলে, একই দিক থেকে।"
+          },
+          {
+            "en": "Qatada's comment, relayed by at-Tabari, is a single line: hadhihi thaniyyatu Allah, this is Allah's exception. He does not explain it further, and this article does not explain it for him. Read plainly, the words say whose exception it is. Iblis voices it, but he does not grant it, and the line it draws was not his to draw. It sits well with the Muyassar and as-Sa'di, who give the servant's sincerity its full place and still leave the guiding and the choosing to Allah.",
+            "bn": "তাবারী কাতাদার যে মন্তব্য আনেন, তা মাত্র এক লাইনের: হাযিহি সানিয়্যাতুল্লাহ, এটা আল্লাহর ব্যতিক্রম। তিনি আর ব্যাখ্যা দেননি, এ লেখাও তাঁর হয়ে কোনো ব্যাখ্যা জুড়ে দেবে না। সোজাসুজি পড়লে কথাটা বলে দেয় ব্যতিক্রমটা কার। ইবলিস তা মুখে বলে, কিন্তু সে তা মঞ্জুর করে না। যে সীমারেখা এখানে টানা হলো, তা টানার এখতিয়ার তার ছিল না। মুয়াসসার আর সা'দীর কথার সঙ্গেও এটা মেলে। বান্দার ইখলাসকে তাঁরা পুরো জায়গা দেন, তবু হেদায়াত দেওয়া আর বেছে নেওয়ার কাজটা রাখেন আল্লাহর হাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Door He Cannot Open",
+          "bn": "যে দরজা তার খোলার নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's note on the verse is a comparison. It is, he says, like Iblis's words in 17:62: do You see this one whom You have honoured above me? If You delay me until the Day of Resurrection, I will surely bring his descendants under my sway, except a few. The Qur'an records the exception a third time in 38:82 and 38:83, where Iblis swears by Allah's might to mislead them all and then repeats these four words exactly. In every telling, his boast carries its own limit inside it.",
+            "bn": "এ আয়াত নিয়ে ইবন কাসীরের মন্তব্য একটি তুলনা। তিনি বলেন, এ যেন ১৭:৬২ আয়াতে ইবলিসের কথার মতো: বলুন তো, এই যাকে আপনি আমার উপর মর্যাদা দিলেন? আমাকে যদি কিয়ামতের দিন পর্যন্ত সময় দেন, তবে অল্প কয়েকজন ছাড়া তার বংশধরদের আমি অবশ্যই কবজায় নিয়ে নেব। কুরআন এই ব্যতিক্রমের কথা তৃতীয়বার আনে ৩৮:৮২ ও ৩৮:৮৩ আয়াতে। সেখানে ইবলিস আল্লাহর ইজ্জতের কসম খেয়ে বলে, সে সবাইকে বিপথে নেবে, তারপর হুবহু এই চারটি শব্দই বলে। প্রতিবারই তার অহংকারী দাবির ভেতরে তার নিজের সীমাটাও বলা থাকে।"
+          },
+          {
+            "en": "At-Tabari's gloss, quoted earlier, turns that limit into an admission in Iblis's own voice: over such a servant I have no authority and against him I have no strength. Allah's answer follows in 15:41 and 15:42. This is a straight path to Me, and over My servants you will have no authority, except those who follow you among the deviators. Ibn Kathir notes that the word said in 15:41 introduces Allah speaking to threaten and warn him. The reply in 15:42 is a verse of its own, and its meaning is left to its own page.",
+            "bn": "তাবারীর যে ব্যাখ্যা আগে এসেছে, তাতে এই সীমা হয়ে যায় ইবলিসের নিজের মুখের স্বীকারোক্তি: এমন বান্দার উপর আমার কোনো আধিপত্য নেই, তার বিরুদ্ধে আমার কোনো শক্তিও নেই। আল্লাহর জবাব আসে ১৫:৪১ ও ১৫:৪২ আয়াতে। এটাই আমার কাছে পৌঁছানোর সরল পথ। আমার বান্দাদের উপর তোমার কোনো আধিপত্য থাকবে না, তবে বিপথগামীদের মধ্যে যারা তোমাকে অনুসরণ করে, তারা ছাড়া। ইবন কাসীর বলেন, ১৫:৪১ আয়াতের 'তিনি বললেন' কথাটি দিয়ে আল্লাহ তাকে হুমকি ও সতর্কবাণী দিচ্ছেন। ১৫:৪২ আয়াতের জবাব আলাদা একটি আয়াত। তার অর্থের আলোচনা থাকছে তার নিজের জায়গায়।"
+          },
+          {
+            "en": "The word that names the exempt appears elsewhere in the Qur'an, and it is used of prophets. In 12:24 Allah says of Yusuf (AS) that he was of Our mukhlasin servants, and in 19:51 He says of Musa (AS) that he was mukhlas. The Qur'an thus names prophets among the very people Iblis confessed he could not reach. The passage gives no ground for imagining any prophet under his authority. Where the prophets stand in this matter is a wider subject, and this article does not take it up.",
+            "bn": "যে শব্দে ব্যতিক্রমী বান্দাদের নাম, কুরআনের অন্যত্রও তা এসেছে, আর এসেছে নবীদের বেলায়। ১২:২৪ আয়াতে আল্লাহ ইউসুফ (আঃ)-এর কথা বলেন, তিনি ছিলেন আমার মুখলাস বান্দাদের একজন। ১৯:৫১ আয়াতে মূসা (আঃ)-কে বলেন মুখলাস। অর্থাৎ ইবলিস নিজে যাদের নাগাল পাবে না বলে স্বীকার করেছে, কুরআন নবীদের তাদের মধ্যেই গণ্য করে। কোনো নবী তার আধিপত্যের অধীন ছিলেন, এমন ভাবনার কোনো ভিত্তি এ অংশে নেই। এ বিষয়ে নবীদের অবস্থান আরও বড় এক আলোচনা। এ লেখা সেদিকে যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Working Without Wanting Praise",
+          "bn": "প্রশংসা না চেয়ে আমল"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith of the Prophet ﷺ to it. Al-Qurtubi closes his note with a report that is not a hadith of the Prophet ﷺ, which he relays from Abu Thumama without a chain: the disciples asked 'Isa (AS) about the one who is sincere towards Allah, and he answered, the one who works and does not love that people should praise him. Al-Qurtubi gives it no grading. It is a definition, and it fits the kasra reading closely.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর নবী ﷺ-এর কোনো হাদীস আয়াতটির সঙ্গে যুক্ত করেনি। কুরতুবী তাঁর আলোচনা শেষ করেন এমন এক বর্ণনা দিয়ে, যা নবী ﷺ-এর হাদীস নয়। তিনি তা আবূ সুমামা থেকে উদ্ধৃত করেন, কোনো সনদ ছাড়া। হাওয়ারীরা ঈসা (আঃ)-কে জিজ্ঞেস করেছিলেন, আল্লাহর জন্য মুখলিস কে? তিনি বলেছিলেন: যে আমল করে, কিন্তু মানুষ তার প্রশংসা করুক, তা পছন্দ করে না। কুরতুবী এর কোনো মান উল্লেখ করেননি। কথাটি একটি সংজ্ঞা, আর যেরের পাঠের সঙ্গে খুব মিলে যায়।"
+          },
+          {
+            "en": "One sound narration speaks to the same point in general terms. It is not attached to this verse. Sahih Muslim (2985) records from Abu Hurayra that the Messenger of Allah ﷺ said: Allah, Blessed and Exalted, said: I am the One most free of need of partners, of any partnership. Whoever does a deed in which he associates with Me someone other than Me, I leave him and his partnership. Muslim placed it in his Sahih. It names exactly what al-Qurtubi's gloss says sincerity keeps out of a deed.",
+            "bn": "একটি সহীহ বর্ণনা সাধারণভাবে একই কথা বলে। এটি এ আয়াতের সঙ্গে যুক্ত নয়। সহীহ মুসলিমে (২৯৮৫) আবূ হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ তাবারাকা ওয়া তাআলা বলেন, শরীকদের মধ্যে শরীকের প্রয়োজন থেকে আমিই সবচেয়ে বেশি মুক্ত। কেউ যদি এমন আমল করে, যাতে আমার সঙ্গে অন্য কাউকে শরীক করে, আমি তাকে আর তার শিরককে ছেড়ে দিই। ইমাম মুসলিম একে তাঁর সহীহ গ্রন্থে রেখেছেন। কুরতুবীর ব্যাখ্যায় ইখলাস আমল থেকে যা দূরে রাখে, এ হাদীস ঠিক সেটারই নাম নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Description Worth Asking For",
+          "bn": "তাদের দলে থাকার দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse reports what Iblis said, and it licenses nothing against any living person or community. It hands no reader a list of who is among the mukhlasin and who is not, and no one is entitled to draw that line about anyone else. Qatada called it Allah's exception, and Allah alone knows whom it covers. What the verse offers instead is a description to aim at. It tells the reader where Iblis's reach ends, and invites him to ask to be found on the far side of that line.",
+            "bn": "আয়াতটি ইবলিসের কথা বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। মুখলাসদের মধ্যে কে আছে আর কে নেই, এমন কোনো তালিকা আয়াতটি পাঠকের হাতে দেয় না। অন্য কারও ব্যাপারে এই সীমারেখা টানার অধিকারও কারও নেই। কাতাদা একে বলেছেন আল্লাহর ব্যতিক্রম, আর এর ভেতরে কারা, তা শুধু আল্লাহই জানেন। আয়াতটি বরং সামনে রাখে এক লক্ষ্য। ইবলিসের নাগাল কোথায় শেষ, তা দেখিয়ে দেয়, আর পাঠককে ডাকে যেন সে দোয়া করে, ওই সীমার ওপারে যেন তার জায়গা হয়।"
+          },
+          {
+            "en": "The two readings turn that hope into two habits. The kasra reading asks for work: to look at a deed before doing it and ask whom it is for, and to let some good deeds stay hidden, so that the love of praise in al-Qurtubi's report finds nothing to feed on. The fatha reading asks for humility: sincerity is finally Allah's gift, so it has to be asked for, and whoever has some of it thanks Allah instead of resting on it.",
+            "bn": "দুই পাঠ এই আশাকে দুটি অভ্যাসে রূপ দেয়। যেরের পাঠ চায় চেষ্টা। আমল করার আগে থেমে দেখা, এটা কার জন্য করছি। আর কিছু নেক আমল গোপন রাখা, যাতে কুরতুবীর বর্ণনায় যে প্রশংসার লোভের কথা আছে, সে কোনো খোরাক না পায়। যবরের পাঠ চায় বিনয়। ইখলাস শেষ পর্যন্ত আল্লাহর দান, তাই তা চেয়ে নিতে হয়। আর যার মধ্যে কিছুটা ইখলাস আছে, সে তার উপর ভরসা করে বসে থাকে না, বরং আল্লাহর শোকর আদায় করে।"
+          },
+          {
+            "en": "Refuge belongs to the same practice. In 7:200 Allah says: and if a prompting from Satan should reach you, seek refuge in Allah; He is All-Hearing, All-Knowing. A second general narration, also not attached to this verse, shows that word offered at the moment it is needed, and turned down. The servant who hopes to be among the mukhlasin does the opposite. He takes the word each time the whisper comes, and does not wait until he feels he has earned it.",
+            "bn": "আশ্রয় চাওয়াও এই চর্চারই অংশ। ৭:২০০ আয়াতে আল্লাহ বলেন: আর যদি শয়তানের পক্ষ থেকে কোনো কুমন্ত্রণা তোমাকে খোঁচা দেয়, তবে আল্লাহর আশ্রয় চাও। নিশ্চয়ই তিনি সব শোনেন, সব জানেন। আরেকটি সাধারণ বর্ণনা আছে, এটিও এ আয়াতের সঙ্গে যুক্ত নয়। তাতে দেখা যায়, ঠিক দরকারের মুহূর্তে কথাটা একজনের সামনে রাখা হলো, আর সে তা ফিরিয়ে দিল। যে বান্দা মুখলাসদের দলে থাকার আশা করে, সে করে উল্টোটা। কুমন্ত্রণা যতবার আসে, সে ততবারই কথাটা আঁকড়ে ধরে। নিজেকে যোগ্য মনে হওয়া পর্যন্ত অপেক্ষা করে না।"
+          },
+          {
+            "en": "Sahih al-Bukhari (3282) records from Sulayman ibn Surad: I was sitting with the Prophet ﷺ while two men were insulting each other. The face of one of them reddened and the veins of his neck swelled. The Prophet ﷺ said: I know a word which, if he said it, what he feels would leave him; if he said, I seek refuge with Allah from Satan, what he feels would leave him. So they told him: the Prophet ﷺ said, seek refuge with Allah from Satan. He said: is there madness in me? Al-Bukhari placed it in his Sahih.",
+            "bn": "সহীহ বুখারীতে (৩২৮২) সুলাইমান ইবন সুরাদ (রাঃ) থেকে বর্ণিত: আমি নবী ﷺ-এর সঙ্গে বসে ছিলাম, আর দুজন লোক একে অপরকে গালি দিচ্ছিল। তাদের একজনের মুখ লাল হয়ে গেল, ঘাড়ের রগ ফুলে উঠল। নবী ﷺ বললেন: আমি এমন একটি কথা জানি, সে যদি তা বলত, তার যা হচ্ছে তা চলে যেত। সে যদি বলত, আমি শয়তান থেকে আল্লাহর আশ্রয় চাই, তবে তার যা হচ্ছে তা চলে যেত। লোকেরা তাকে বলল, নবী ﷺ বলেছেন, শয়তান থেকে আল্লাহর আশ্রয় চাও। সে বলল, আমার কি পাগলামি হয়েছে? বুখারী একে তাঁর সহীহ গ্রন্থে রেখেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "15:45": {
     "sections": [
       {

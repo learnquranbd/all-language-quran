@@ -22211,6 +22211,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were spoken of among the angels before you were made from humble clay: let the clay end your pride, and let that honour keep you from despair.",
     "lessonBn": "সামান্য মাটি থেকে বানানোর আগেই ফেরেশতাদের মাঝে আপনার কথা বলা হয়েছিল। মাটির কথা আপনার অহংকার ভাঙুক, আর সেই সম্মান আপনাকে হতাশা থেকে দূরে রাখুক।"
+  },
+  "15:40": {
+    "reflectionEn": "Iblis swears to mislead them all, and in the same breath he stops: except Your servants among them, the mukhlasin. He names the door he cannot open. The word is read in two ways. In one, they are the servants Allah has purified and chosen; in the other, they are those who have made their worship pure for Him. One reading speaks of grace, the other of effort, and a believer needs both: to work at sincerity, and to ask Allah to make him sincere. The exception is not a list of famous names. It is a description I can ask to fit. When I do good, whose praise am I waiting for? And when the whisper comes, do I argue with it, or run to Allah for refuge?",
+    "reflectionBn": "সবাইকে বিপথে নেবে, এই কসম খেয়েই ইবলিস থেমে যায়। তারপর বলে: তবে তাদের মধ্যে আপনার মুখলাস বান্দারা ছাড়া। যে দরজা সে খুলতে পারবে না, নিজের মুখেই তার কথা বলে দেয়। শব্দটা দুইভাবে পড়া হয়েছে। এক পাঠে তারা সেই বান্দা, যাদের আল্লাহ খাঁটি করে বেছে নিয়েছেন। আরেক পাঠে তারা, যারা নিজেদের ইবাদত আল্লাহর জন্য খাঁটি করেছে। একটিতে অনুগ্রহের কথা, অন্যটিতে চেষ্টার। মুমিনের দরকার দুটোই: ইখলাসের জন্য খাটা, আর আল্লাহর কাছে চাওয়া যেন তিনিই খাঁটি করে দেন। এই ব্যতিক্রম কোনো বিখ্যাত নামের তালিকা নয়। এ এক গুণের বর্ণনা, যা আমার মধ্যেও আসুক বলে আমি দোয়া করতে পারি। ভালো কাজ করে আমি কার প্রশংসার অপেক্ষায় থাকি? আর কুমন্ত্রণা এলে আমি কি তার সঙ্গে তর্ক জুড়ি, নাকি দৌড়ে আল্লাহর আশ্রয়ে যাই?",
+    "pointsEn": [
+      "In the last good deed I did, how much of me was waiting to be seen or thanked?",
+      "Do I ask Allah to make me sincere, or do I take sincerity for something I already own?",
+      "When something wrong is made to look fair to me, how quickly do I seek refuge in Allah instead of debating it?",
+      "Is there one deed I could do this week that no one but Allah will ever know about?",
+      "Iblis himself named a limit to his reach. Do I live as if his pull on me were stronger than Allah's protection?"
+    ],
+    "pointsBn": [
+      "শেষ যে ভালো কাজটা করেছি, তাতে আমার মনের কতটা অংশ চাইছিল কেউ দেখুক বা ধন্যবাদ দিক?",
+      "আল্লাহর কাছে কি আমি ইখলাস চাই, নাকি ধরে নিই ওটা তো আমার আছেই?",
+      "অন্যায় কিছু যখন আমার চোখে সুন্দর হয়ে ওঠে, তর্কে না জড়িয়ে কত তাড়াতাড়ি আমি আল্লাহর আশ্রয় চাই?",
+      "এ সপ্তাহে এমন একটা আমল কি করতে পারি, যা আল্লাহ ছাড়া কেউ কোনোদিন জানবে না?",
+      "ইবলিস নিজেই স্বীকার করেছে তার নাগালের একটা সীমা আছে। তবু কি আমি এমনভাবে চলি, যেন আল্লাহর হেফাজতের চেয়ে তার টান বেশি জোরালো?"
+    ],
+    "lessonEn": "Work to make your worship sincere for Allah alone, ask Him to make you one of His chosen servants, and seek refuge in Him whenever Satan whispers.",
+    "lessonBn": "ইবাদত শুধু আল্লাহর জন্য খাঁটি করতে চেষ্টা করুন, তাঁর বাছাই করা বান্দাদের একজন করে নিতে তাঁর কাছে দোয়া করুন, আর শয়তান কুমন্ত্রণা দিলেই তাঁর আশ্রয় চান।"
   }
 };
 
