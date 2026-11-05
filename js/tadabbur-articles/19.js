@@ -3207,6 +3207,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words Carrying the Cause",
+          "bn": "চার শব্দে কারণের কথা"
+        },
+        "p": [
+          {
+            "en": "An da'aw li-r-rahmani walada: that they ascribed a son to ar-Rahman. The verse is four Arabic words and cannot stand alone. It completes the sentence begun in 19:90, where the heavens almost tear, the earth splits and the mountains fall in ruin, and it names the cause. At-Tabari draws the link in his paraphrase: the mountains nearly fall in collapse because they ascribed a son to ar-Rahman. The claim itself is quoted in 19:88, and the verdict on it in 19:89: you have brought a thing idd.",
+            "bn": "আন দাআও লির-রহমানি ওয়ালাদা: কারণ তারা আর-রহমানের প্রতি সন্তান আরোপ করেছে। আয়াতটি মাত্র চারটি আরবি শব্দ, একা দাঁড়াতে পারে না। ১৯:৯০ আয়াতে বাক্যটা শুরু হয়েছিল: আকাশ ফেটে পড়ার উপক্রম, জমিন বিদীর্ণ হওয়ার উপক্রম, পাহাড় ধসে পড়ার উপক্রম। এ আয়াত সেই বাক্য শেষ করে আর কারণটা জানিয়ে দেয়। তাবারী তাঁর ব্যাখ্যায় যোগসূত্রটা খুলে বলেন: পাহাড়গুলো ধসে পড়ার উপক্রম হয়, কারণ তারা আর-রহমানের জন্য সন্তান সাব্যস্ত করেছে। দাবিটা উদ্ধৃত হয়েছে ১৯:৮৮ আয়াতে, আর তার রায় ১৯:৮৯ আয়াতে: তোমরা তো এক ইদ্দ বিষয় নিয়ে এসেছ।"
+          },
+          {
+            "en": "Ibn Kathir reports Ibn Abbas (RA), Mujahid, Qatadah and Malik glossing idd as grave, and al-Baghawi says that in Arab usage it is the greatest of calamities. Ibn Kathir also places the passage: once the surah has established that 'Isa (AS) is Allah's servant, and told of his creation from Maryam without a father, it turns to answer those who claim that Allah has a son. The surah had already said it once, in 19:35: it is not for Allah to take a son; glory be to Him.",
+            "bn": "ইবন কাসীর জানান, ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও মালিক ইদ্দ শব্দের অর্থ করেছেন গুরুতর। বাগাভী বলেন, আরবদের ভাষায় ইদ্দ হলো সবচেয়ে বড় বিপদ। অংশটা সূরার কোথায় বসেছে, ইবন কাসীর তা-ও দেখান। সূরা আগে প্রতিষ্ঠা করেছে যে ঈসা (আঃ) আল্লাহর বান্দা, আর বলেছে কীভাবে মারইয়ামের গর্ভে পিতা ছাড়াই তাঁকে সৃষ্টি করা হয়েছে। তারপরই সূরা ফেরে তাদের দিকে, যারা দাবি করে আল্লাহর সন্তান আছে। সূরা এ কথা আগেও একবার বলেছে, ১৯:৩৫ আয়াতে: সন্তান গ্রহণ করা আল্লাহর কাজ নয়, তিনি পবিত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming as Assigning",
+          "bn": "নাম দেওয়া মানেই জুড়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verb here is not qalu, they said, as in 19:88, but da'aw. At-Tabari explains an da'aw as an ja'alu: that they made, or assigned, a son to Him. He supports the sense with two lines of Arab poetry in which da'a carries that meaning. Al-Baghawi glosses the clause the same way, for the reason that they assigned to ar-Rahman a son. As-Sa'di uses the noun from the same root: it is because of this ugly da'wa, this claim, that created things nearly suffer what 19:90 describes.",
+            "bn": "এখানে ক্রিয়াটা ১৯:৮৮ আয়াতের মতো কালূ, তারা বলল, নয়। এখানে দাআও। তাবারী আন দাআও-এর ব্যাখ্যা করেন আন জাআলূ দিয়ে: তারা তাঁর জন্য সন্তান বানিয়ে নিল, জুড়ে দিল। অর্থটার পক্ষে তিনি আরবি কবিতার দুটি পঙ্‌ক্তি আনেন, যেখানে দাআ শব্দ এই অর্থেই এসেছে। বাগাভীও বাক্যাংশটা একইভাবে বোঝান: কারণ তারা আর-রহমানের জন্য সন্তান সাব্যস্ত করেছে। সা'দী আনেন একই ধাতুর বিশেষ্য: এই কুৎসিত দাওয়া, অর্থাৎ দাবির কারণেই সৃষ্টিজগতের সেই দশা হওয়ার উপক্রম, যা ১৯:৯০ আয়াতে বলা হয়েছে।"
+          },
+          {
+            "en": "The small word an, that, drew the grammarians. At-Tabari reports that some held it to be in the accusative because it is joined to the verb, and another in the genitive by an implied preposition; he says he has given the correct view elsewhere and does not repeat it. Al-Qurtubi says al-Farra' took it as accusative, meaning li-an da'aw, because they ascribed, with the preposition dropped, and that al-Farra' reported al-Kisa'i as holding the genitive. On either parsing the clause gives the cause.",
+            "bn": "ছোট্ট শব্দ আন, অর্থাৎ যে, ব্যাকরণবিদদের ভাবিয়েছে। তাবারী জানান, কারও মতে ক্রিয়ার সঙ্গে যুক্ত থাকায় এর অবস্থান নসব, আর আরেকজনের মতে উহ্য অব্যয়ের কারণে জার। কোন মতটা সঠিক, তা তিনি বইয়ের অন্য জায়গায় বলেছেন বলে এখানে আর বলেননি। কুরতুবী বলেন, ফাররা একে নসব ধরেছেন, অর্থ লি-আন দাআও, কারণ তারা আরোপ করেছে, মাঝখান থেকে অব্যয়টা পড়ে গেছে। ফাররা এ-ও জানিয়েছেন যে কিসাঈর মতে এটি জার। যেভাবেই বিশ্লেষণ করা হোক, বাক্যাংশটা কারণই বলছে।"
+          },
+          {
+            "en": "There is also a difference of reading in the last word. Al-Baghawi reports that Hamza and al-Kisa'i read wuldan, with the first letter rounded and the second unvowelled, in this passage, in az-Zukhruf and in Nuh, and the rest walada; he calls them two dialect forms, like 'arab and 'urb. Al-Qurtubi gives the same, names this verse and 19:92 among the places, and adds al-Jawhari's remark that walad can be one child or many, and wuld likewise.",
+            "bn": "শেষ শব্দটার পাঠেও ভিন্নতা আছে। বাগাভী জানান, হামযা ও কিসাঈ এই অংশে, সূরা যুখরুফে আর সূরা নূহে পড়েছেন উলদান, প্রথম অক্ষরে পেশ আর দ্বিতীয়টি সাকিন। বাকিরা পড়েছেন ওয়ালাদা। তাঁর মতে দুটোই আরবির দুই রূপ, যেমন আরাব আর উরব। কুরতুবীও একই কথা বলেন, যেসব জায়গায় এ পাঠ এসেছে তার মধ্যে এ আয়াত আর ১৯:৯২ আয়াতের নাম নেন। সঙ্গে জাওহারীর মন্তব্য জুড়ে দেন: ওয়ালাদ শব্দে এক সন্তানও বোঝায়, বহু সন্তানও, আর উলদ শব্দেও তাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Saying Is Quoted",
+          "bn": "কার কথা উদ্ধৃত হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi, on 19:88, name those meant: the Jews and the Christians, and whoever claimed that the angels are daughters of Allah. As-Sa'di spells out each saying: the Christians' that the Messiah is the son of God, the Jews' that 'Uzayr is the son of God, and the idolaters' that the angels are God's daughters. The first two are sayings the Qur'an itself reports in 9:30. At-Tabari keeps it general: these who disbelieve said it, and Allah tells those of His creation who say it that they have brought a grave and repugnant saying.",
+            "bn": "কারা উদ্দেশ্য, ১৯:৮৮ আয়াতের আলোচনায় কুরতুবী ও বাগাভী তা বলেন: ইহুদি ও খ্রিস্টানরা, আর যারা দাবি করেছে ফেরেশতারা আল্লাহর কন্যা। সা'দী প্রত্যেকের কথা আলাদা করে বলেন। খ্রিস্টানদের কথা, মাসীহ আল্লাহর পুত্র। ইহুদিদের কথা, উযাইর আল্লাহর পুত্র। আর মুশরিকদের কথা, ফেরেশতারা আল্লাহর কন্যা। প্রথম দুটি কথা কুরআন নিজেই উদ্ধৃত করেছে ৯:৩০ আয়াতে। তাবারী কথাটা সাধারণ রাখেন: আল্লাহকে অস্বীকারকারী এরা এ কথা বলেছে, আর যারা বলে, সৃষ্টির মধ্যে তাদের আল্লাহ জানিয়ে দেন, তোমরা এক গুরুতর ও জঘন্য কথা নিয়ে এসেছ।"
+          },
+          {
+            "en": "This must be said without hedging. The passage reports a claim and gives Allah's verdict on the claim. It licenses nothing against any living person or community, Christians and Jews today included: no insult, no contempt, no harm, no withholding of any right owed to them. The commentators name groups to explain whose saying is quoted, not to point out targets. Judgement on belief belongs to Allah alone, and a hadith below shows Him still providing for those who say it. What follows stays with tawhid and with reverence.",
+            "bn": "কথাটা কোনো দ্বিধা না রেখে বলা দরকার। এ অংশ একটি দাবির কথা জানায়, আর সেই দাবির ব্যাপারে আল্লাহর রায় জানায়। আজকের খ্রিস্টান ও ইহুদিসহ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। গালি দেওয়ার নয়, তুচ্ছ করার নয়, ক্ষতি করার নয়, তাদের কোনো প্রাপ্য হক আটকে রাখারও নয়। তাফসীরকারেরা দলগুলোর নাম নেন কেবল বোঝাতে যে কার কথা উদ্ধৃত হয়েছে, কাউকে নিশানা বানাতে নয়। বিশ্বাসের বিচার একমাত্র আল্লাহর হাতে। নিচের এক হাদীস দেখাবে, যারা এ কথা বলে, তিনি তখনো তাদের রিজিক দিয়ে যান। এরপরের আলোচনা থাকবে তাওহীদ আর সম্ভ্রমের সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heaven, Earth and Mountain Recoil",
+          "bn": "আসমান, জমিন ও পাহাড়ের শিহরন"
+        },
+        "p": [
+          {
+            "en": "Why would created things react at all? Ibn Kathir answers that it nearly happens when they hear this saying from the wicked among the children of Adam, out of veneration and exaltation of the Lord, because they are created and founded upon His tawhid: that there is no god but He, and He has no partner, no peer, no child, no consort and no equal, but is al-Ahad, as-Samad. As-Sa'di reads the nearness itself as the measure: so enormous is the claim that the heavens, for all their vastness and firmness, almost split from it.",
+            "bn": "সৃষ্টির কোনো প্রতিক্রিয়া হবেই বা কেন? ইবন কাসীরের জবাব: আদম সন্তানদের মধ্যে যারা পাপাচারী, তাদের মুখে এ কথা শুনলে এমনটা ঘটার উপক্রম হয় রবের প্রতি সম্মান ও মহিমাবোধ থেকে। কারণ এরা সৃষ্টি, আর এদের ভিত্তিই তাঁর তাওহীদের উপর: তিনি ছাড়া কোনো ইলাহ নেই, তাঁর কোনো শরিক নেই, সমকক্ষ নেই, সন্তান নেই, স্ত্রী নেই, সমতুল্য কেউ নেই। তিনি আল-আহাদ, আস-সামাদ। সা'দী উপক্রম হওয়াটাকেই মাপকাঠি ধরেন। দাবিটা এত ভয়ংকর যে আকাশ এত বিশাল আর মজবুত হয়েও এর কারণে ফেটে যাওয়ার উপক্রম হয়।"
+          },
+          {
+            "en": "The commentators name more than one motive. Ad-Dahhak, in Ibn Kathir, says the heavens nearly split from fear of Allah's majesty; 'Abd ar-Rahman ibn Zayd says the earth splits in anger for Allah, and at-Tabari has Ibn Zayd say the same of the mountains. The Muyassar joins the hideousness of the saying to anger for Allah. At-Tabari and Ibn Kathir carry Ibn Abbas (RA): shirk terrified the heavens, the earth, the mountains and every creature except the two weighty ones, humans and jinn, and they nearly ceased to be, because of the greatness of Allah.",
+            "bn": "তাফসীরকারেরা একাধিক কারণের কথা বলেন। ইবন কাসীরের বর্ণনায় দাহহাক বলেন, আল্লাহর মহিমার ভয়ে আকাশ ফেটে যাওয়ার উপক্রম হয়। আবদুর রহমান ইবন যায়দ বলেন, জমিন ফেটে যায় আল্লাহর জন্য ক্রোধে। তাবারীর বর্ণনায় ইবন যায়দ পাহাড় সম্পর্কেও একই কথা বলেন। মুয়াসসার দুটো একসঙ্গে বলে: কথাটার জঘন্যতা, আর আল্লাহর জন্য ক্রোধ। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ)-এর কথা আনেন: শিরকের কারণে আকাশ, জমিন, পাহাড় আর মানুষ ও জিন এই দুই ভারী সৃষ্টি ছাড়া সব সৃষ্টি আতঙ্কিত হয়। আল্লাহর মহত্ত্বের কারণে তাদের বিলীন হয়ে যাওয়ার উপক্রম হয়।"
+          },
+          {
+            "en": "Some glossed the words more literally. Al-Baghawi reports, under it is said, that the earth would swallow them, the sky fall on them and the mountains close over them. On hadda, at-Tabari says it is falling, Ibn Abbas glosses it as demolition, and Sa'id ibn Jubayr, in Ibn Kathir, as breaking one part upon another in succession. Ma'arif al-Qur'an sees in the verses a degree of perception in the earth and mountains, less than a human's, and links it to 17:44: there is nothing that does not glorify His praise.",
+            "bn": "কেউ কেউ শব্দগুলোর ব্যাখ্যা করেছেন আরও আক্ষরিকভাবে। বাগাভী 'বলা হয়' কথাটি দিয়ে আনেন: জমিন তাদের নিয়ে ধসে যেত, আকাশ তাদের উপর ভেঙে পড়ত, পাহাড় তাদের উপর চেপে বসত। হাদ্দা শব্দের অর্থ তাবারীর মতে পড়ে যাওয়া। ইবন আব্বাস (রাঃ) এর অর্থ করেন ভেঙে ধসে পড়া। ইবন কাসীরের বর্ণনায় সাঈদ ইবন জুবাইর বলেন, একটা অংশ আরেকটা অংশের উপর একের পর এক ভেঙে পড়া। মাআরিফুল কুরআন এ আয়াতগুলোতে দেখে, জমিন ও পাহাড়ের এক ধরনের বোধ আছে, যদিও মানুষের চেয়ে কম। তারপর একে মিলিয়ে দেয় ১৭:৪৪ আয়াতের সঙ্গে: এমন কিছু নেই যা তাঁর প্রশংসাসহ পবিত্রতা ঘোষণা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Does the Mountain Listen?",
+          "bn": "পাহাড় কি শোনে?"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, through Ibn Abi Hatim, gives a saying of 'Awn ibn 'Abdullah: one mountain calls another by its name, so-and-so, has anyone remembering Allah passed you today? It says yes, and is glad. 'Awn added: they are readier to hear good; would they hear falsehood when it is spoken and hear nothing else? Then he recited 19:90. Al-Qurtubi carries it through Ibn al-Mubarak with 'Awn relating it from 'Abdullah ibn Mas'ud (RA), who recited 19:88 and asked: do you think they hear falsehood and do not hear good?",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে আওন ইবন আবদুল্লাহর একটি কথা আনেন। এক পাহাড় আরেক পাহাড়কে নাম ধরে ডাকে: অমুক, আজ কি আল্লাহর জিকিরকারী কেউ তোমার পাশ দিয়ে গেছে? সে বলে, হ্যাঁ, আর খুশি হয়। আওন যোগ করেন: ভালো কথা শোনার দিকেই তো ওদের ঝোঁক বেশি। মিথ্যা ও বাতিল কথা বলা হলে ওরা তা শুনবে, আর বাকি কিছুই শুনবে না? তারপর তিনি ১৯:৯০ আয়াত পড়েন। কুরতুবী একই কথা আনেন ইবনুল মুবারকের সূত্রে, সেখানে আওন তা বর্ণনা করেন আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে। ইবন মাসঊদ (রাঃ) ১৯:৮৮ আয়াত পড়ে জিজ্ঞেস করেন: তোমার কি মনে হয়, ওরা মিথ্যা শোনে আর ভালো কথা শোনে না?"
+          },
+          {
+            "en": "So the two differ on whose words these are, 'Awn's own in Ibn Kathir and Ibn Mas'ud's in al-Qurtubi, and neither presents them as the Prophet's. Al-Qurtubi also quotes Muhammad ibn Ka'b: the enemies of Allah nearly brought the Hour upon us, and he recited this passage. Ibn Abbas (RA), in at-Tabari, draws a hope from it: just as the good deeds of one who associates partners do not avail him alongside shirk, so we hope that Allah forgives the sins of those who affirm His Oneness.",
+            "bn": "তাহলে কথাগুলো কার, তা নিয়ে দুজনের বর্ণনায় ভিন্নতা আছে। ইবন কাসীরে তা আওনের নিজের কথা, কুরতুবীতে ইবন মাসঊদ (রাঃ)-এর। দুজনের কেউই একে নবী ﷺ-এর কথা হিসেবে পেশ করেন না। কুরতুবী মুহাম্মাদ ইবন কা'বের কথাও আনেন: আল্লাহর শত্রুরা তো আমাদের উপর কিয়ামত প্রায় ঘটিয়েই ফেলেছিল। এই বলে তিনি এ আয়াতগুলো পড়েন। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) এখান থেকে একটা আশা খুঁজে পান। শিরকের সঙ্গে যেমন মুশরিকের নেক কাজ কোনো কাজে আসে না, তেমনি আমরা আশা করি, যারা আল্লাহর একত্বে বিশ্বাস রাখে, আল্লাহ তাদের গুনাহ মাফ করবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Does Not Befit Him",
+          "bn": "যা তাঁর শানে মানায় না"
+        },
+        "p": [
+          {
+            "en": "The next verse answers the claim: wa ma yanbaghi li-r-rahmani an yattakhidha walada, it does not befit ar-Rahman to take a son. At-Tabari explains why: Allah is not like created beings whom desires overpower and whom pleasures drive to union with women, and no child comes into being except from a female, while Allah is exalted above being like His creation. He cites a line of Ibn Ahmar for yanbaghi in the sense of is not fitting, does not happen. Al-Baghawi says it neither befits Him nor describes Him.",
+            "bn": "পরের আয়াতই দাবির জবাব দেয়: ওয়ামা ইয়ামবাগী লির-রহমানি আন ইয়াত্তাখিযা ওয়ালাদা, সন্তান গ্রহণ করা আর-রহমানের শানে মানায় না। কেন মানায় না, তাবারী তা বুঝিয়ে বলেন। আল্লাহ সৃষ্টির মতো নন, যাদের উপর কামনা চেপে বসে, আর ভোগের টান যাদের নারীর সঙ্গে মিলনে বাধ্য করে। নারী ছাড়া কোনো সন্তান জন্মায় না, আর আল্লাহ তাঁর সৃষ্টির মতো হওয়া থেকে বহু ঊর্ধ্বে। ইয়ামবাগী শব্দটা যে মানায় না, ঘটে না অর্থে আসে, তার প্রমাণে তিনি ইবন আহমারের একটি পঙ্‌ক্তি আনেন। বাগাভী বলেন, এটা তাঁর শানে মানায়ও না, তাঁর গুণ হিসেবেও বলা যায় না।"
+          },
+          {
+            "en": "Al-Qurtubi gives the reason in terms of what a son entails: a son implies sameness of kind and coming into being in time, and there is no child except from a parent who himself has a parent and an origin, while Allah is far above that. As-Sa'di gives two grounds. Taking a son would point to deficiency and need, while He is al-Ghani, al-Hamid; and a child is of its parent's kind, while Allah has no likeness, no peer and no namesake. The Muyassar likewise speaks of deficiency and need.",
+            "bn": "কুরতুবী কারণটা বলেন সন্তান থাকার অনিবার্য দাবি থেকে। সন্তান মানেই একই জাতের হওয়া, আর সময়ের মধ্যে অস্তিত্বে আসা। এমন কোনো সন্তান নেই, যার পিতা নেই, আর সেই পিতারও পিতা ও মূল নেই। আল্লাহ এসব থেকে পবিত্র, বহু ঊর্ধ্বে। সা'দী দুটি কারণ দেন। প্রথমত, সন্তান গ্রহণ করা অপূর্ণতা আর প্রয়োজনের প্রমাণ, অথচ তিনি আল-গানী, আল-হামীদ। দ্বিতীয়ত, সন্তান হয় পিতার জাতেরই, অথচ আল্লাহর কোনো সদৃশ নেই, সমকক্ষ নেই, সমনামও নেই। মুয়াসসারও একইভাবে অপূর্ণতা ও প্রয়োজনের কথা বলে।"
+          },
+          {
+            "en": "Then 19:93: there is no one in the heavens and the earth but comes to ar-Rahman as a servant. Ibn Kathir joins the two verses: there is no equal to Him among His creation, because all creatures are His servants, and that is why the next verse follows. Al-Qurtubi asks how one of them could be a son to Him, when all creation are His servants, and observes that Allah has set sonship and servanthood at opposite ends, denying the one and affirming the other. He even draws a point of law from that opposition.",
+            "bn": "তারপর ১৯:৯৩: আসমান ও জমিনে এমন কেউ নেই, যে আর-রহমানের কাছে বান্দা হয়ে আসবে না। ইবন কাসীর দুই আয়াত জুড়ে দেন। তাঁর সৃষ্টির মধ্যে তাঁর সমকক্ষ কেউ নেই, কারণ সব সৃষ্টিই তাঁর বান্দা। এ জন্যই পরের আয়াতটি এসেছে। কুরতুবী প্রশ্ন তোলেন, সব সৃষ্টিই যখন তাঁর বান্দা, তখন তাদের কেউ তাঁর সন্তান হবে কীভাবে? তিনি লক্ষ করেন, আল্লাহ সন্তান হওয়া আর বান্দা হওয়াকে দুই বিপরীত প্রান্তে রেখেছেন। একটিকে নাকচ করেছেন, অন্যটিকে সাব্যস্ত করেছেন। এই বৈপরীত্য থেকে তিনি একটি ফিকহি মাসআলাও বের করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Name Kept Through the Passage",
+          "bn": "পুরো অংশজুড়ে একটি নাম"
+        },
+        "p": [
+          {
+            "en": "Ar-Rahman occurs sixteen times in Surah Maryam, leaving aside the basmala, and four of those fall within six verses here: in the claim (19:88), in its cause (19:91), in its denial (19:92) and in the servants who come before Him (19:93). Where 19:35 answered the same claim with the name Allah, this passage keeps to ar-Rahman. None of the commentaries consulted for these verses stops to explain the choice of name, and this reading will not put an explanation in their mouths.",
+            "bn": "বিসমিল্লাহ বাদ দিলে সূরা মারইয়ামে আর-রহমান নামটি এসেছে ১৬ বার। তার চারটি পড়েছে এখানকার মাত্র ছয়টি আয়াতের ভেতরে: দাবিতে (১৯:৮৮), দাবির কারণে (১৯:৯১), দাবি নাকচ করায় (১৯:৯২), আর তাঁর সামনে বান্দা হয়ে হাজির হওয়ার কথায় (১৯:৯৩)। ১৯:৩৫ আয়াত একই দাবির জবাব দিয়েছিল আল্লাহ নাম নিয়ে, আর এ অংশ ধরে রেখেছে আর-রহমান নাম। এ আয়াতগুলোর যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই থেমে ব্যাখ্যা করে না কেন এ নাম বেছে নেওয়া হলো। তাই তাঁদের মুখে কোনো ব্যাখ্যা বসিয়ে দেওয়া হবে না।"
+          },
+          {
+            "en": "What the passage itself places side by side can still be noticed, offered as a reflection and not as any commentator's view. The name of mercy is the very name to which a son is ascribed, and the same name is the one before which every creature arrives as a servant. Set beside the reasons the commentators do give, the contrast sharpens: a son would mean need, likeness and desire, while every creature is a receiver from ar-Rahman. Three verses on, in 19:96, the same name gives love to those who believe.",
+            "bn": "তবে অংশটা নিজে যা পাশাপাশি রেখেছে, তা লক্ষ করা যায়। এটা কোনো তাফসীরকারের মত নয়, কেবল একটি ভাবনা। রহমতের নামটির প্রতিই সন্তান আরোপ করা হয়েছে, আর সেই নামের সামনেই প্রতিটি সৃষ্টি হাজির হয় বান্দা হয়ে। তাফসীরকারেরা যে কারণগুলো দেন, তার পাশে রাখলে বৈপরীত্যটা আরও স্পষ্ট হয়। সন্তান মানে প্রয়োজন, সাদৃশ্য আর কামনা। অথচ প্রতিটি সৃষ্টি আর-রহমানের কাছ থেকে কেবল নেয়। তিনটি আয়াত পরে, ১৯:৯৬ আয়াতে, এই নামই ঈমানদারদের জন্য ভালোবাসা দান করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patient Over What He Hears",
+          "bn": "যা শোনেন, তাতেও ধৈর্য"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches a hadith to this passage, citing it from Imam Ahmad and saying both Sahihs record it. In the wording of Sahih Muslim (2804), Abu Musa (RA) reports that the Messenger of Allah ﷺ said: \"There is no one more patient over hurt that He hears than Allah, Mighty and Majestic. Partners are associated with Him and a child is ascribed to Him, and then He grants them well-being and provides for them.\" Muslim gives it no grading beyond placing it in his Sahih.",
+            "bn": "ইবন কাসীর এ অংশের সঙ্গে একটি হাদীস যুক্ত করেন। তিনি তা আনেন ইমাম আহমাদ থেকে, আর বলেন, দুই সহীহ গ্রন্থেই এটি আছে। সহীহ মুসলিমের (২৮০৪) ভাষায়, আবু মূসা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"কষ্টদায়ক কথা শুনে মহান ও পরাক্রমশালী আল্লাহর চেয়ে বেশি ধৈর্য ধরার কেউ নেই। তাঁর সঙ্গে শরিক করা হয়, তাঁর প্রতি সন্তান আরোপ করা হয়, তারপরও তিনি তাদের সুস্থ রাখেন আর রিজিক দেন।\" মুসলিম তাঁর সহীহ গ্রন্থে স্থান দেওয়ার বাইরে এর আলাদা কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Two of the commentators' sources point the same way. Al-Qurtubi quotes Ibn al-Arabi: it is a great saying, already written in the decree, and were it not that the Creator is neither lowered by the disbeliever's disbelief nor raised by the believer's faith, none of it would have run on tongues; but He is al-Quddus, al-Hakim, al-Halim. And Ibn Zayd, in at-Tabari, says Allah called those who said such things to repentance, citing 5:73 and 5:74, which ends: and Allah is Forgiving, Merciful.",
+            "bn": "তাফসীরকারদের দুটি উৎসও একই দিকে ইঙ্গিত করে। কুরতুবী ইবনুল আরাবীর কথা উদ্ধৃত করেন: এ এক ভয়াবহ কথা, তাকদীরে আগেই লেখা হয়ে আছে। স্রষ্টা যদি এমন না হতেন, যাঁকে কাফিরের কুফর নিচু করে না, মুমিনের ঈমানও উঁচু করে না, তবে এর কিছুই মানুষের জবানে আসত না। কিন্তু তিনি আল-কুদ্দূস, আল-হাকীম, আল-হালীম। আর তাবারীর বর্ণনায় ইবন যায়দ বলেন, যারা এমন কথা বলেছে, আল্লাহ তাদের তওবার দিকে ডেকেছেন। প্রমাণ হিসেবে তিনি ৫:৭৩ ও ৫:৭৪ আয়াত আনেন, যার শেষ কথা: আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
+          },
+          {
+            "en": "For the reader, the passage weighs one sentence about Allah by what it does to creation. A Muslim may hold the right creed and still speak of Him lightly, in a careless oath, a joke, a complaint flung at the sky. These verses ask for more than correct belief: a sense of His greatness heavy enough to be felt, as 'Awn pictured the mountains listening for those who remember Him. And from the hadith comes a patience with those who differ, a creature's small copy of the patience of Him who keeps providing.",
+            "bn": "পাঠকের জন্য কথা এই: আল্লাহ সম্পর্কে একটি বাক্যের ওজন এ অংশ মাপে সৃষ্টির উপর তার প্রভাব দিয়ে। একজন মুসলিমের আকিদা সঠিক থেকেও তাঁর কথা হালকাভাবে মুখে আসতে পারে। বেখেয়ালে কসম খেয়ে, ঠাট্টা করে, কিংবা আকাশের দিকে অভিযোগ ছুড়ে দিয়ে। এ আয়াতগুলো সঠিক বিশ্বাসের চেয়ে বেশি কিছু চায়। চায় তাঁর মহত্ত্বের এমন বোধ, যার ভার টের পাওয়া যায়। আওন যেমন ভেবেছিলেন, পাহাড় কান পেতে থাকে জিকিরকারীর অপেক্ষায়। আর হাদীস থেকে আসে ভিন্নমতের মানুষের প্রতি ধৈর্য। যিনি রিজিক দিয়েই যান, তাঁর ধৈর্যের সামনে এটা এক সৃষ্টির ছোট্ট অনুকরণ মাত্র।"
+          }
+        ]
+      }
+    ]
+  },
   "19:96": {
     "sections": [
       {

@@ -23271,6 +23271,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Paradise is promised to the one who purifies himself, so make purification daily work: leave a wrong, repent quickly when you fall, and add one good deed in its place.",
     "lessonBn": "জান্নাতের প্রতিশ্রুতি তার জন্য, যে নিজেকে পবিত্র করে। তাই পবিত্র হওয়াকে প্রতিদিনের কাজ বানান: অন্যায় ছাড়ুন, পড়ে গেলে দ্রুত তওবা করুন, আর তার জায়গায় একটি ভালো কাজ যোগ করুন।"
+  },
+  "19:91": {
+    "reflectionEn": "Four Arabic words give the reason the heavens nearly tear and the mountains nearly fall: that they ascribed a son to ar-Rahman. Not to a stern or distant lord, but to the Most Merciful, the name this passage repeats again and again. The verse after it answers that a son does not befit Him, and the one after that says everyone in the heavens and the earth comes to Him as a servant. Creation, the passage suggests, knows what it owes its Maker. Do I? The question is not first about other people's creeds. It is about how lightly I speak of Allah, how rarely His greatness weighs on me, and whether my reverence is anywhere near that of the mountains.",
+    "reflectionBn": "মাত্র চারটি আরবি শব্দে কারণটা বলা হয়েছে, কেন আকাশ ফেটে পড়ার আর পাহাড় ভেঙে পড়ার উপক্রম হয়: কারণ তারা আর-রহমানের প্রতি সন্তান আরোপ করেছে। কোনো কঠোর বা দূরের প্রভুর প্রতি নয়, দয়াময়ের প্রতি। এই অংশে নামটা বারবার ফিরে আসে। পরের আয়াত জবাব দেয়, সন্তান গ্রহণ তাঁর শান নয়। তার পরের আয়াত বলে, আসমান ও জমিনে যে আছে, সবাই তাঁর কাছে আসবে বান্দা হয়ে। সৃষ্টি যেন জানে স্রষ্টার কাছে তার কী পাওনা। আমি কি জানি? প্রশ্নটা প্রথমে অন্যের আকিদা নিয়ে নয়। প্রশ্নটা আমাকে নিয়ে: আল্লাহর কথা আমি কত হালকাভাবে বলি, তাঁর মহত্ত্ব কত কম আমার মনে ভার হয়ে বসে, আর পাহাড়ের সেই সম্ভ্রমের ধারেকাছেও আমি আছি কি না।",
+    "pointsEn": [
+      "When did a careless word about Allah last pass my lips, in a joke, an oath or a complaint, without my noticing its weight?",
+      "Do I know the reason this claim is so grave, or have I only inherited the conclusion without ever grasping it?",
+      "If He keeps providing for those who say this of Him, what does that ask of my patience with people whose beliefs differ from mine?",
+      "Is my tawhid something I can recite, or something that shapes what I fear, hope for and turn to in a hard week?",
+      "What would it take for me to hear a falsehood about Allah and feel it, the way the passage says the mountains do?"
+    ],
+    "pointsBn": [
+      "শেষ কবে ঠাট্টায়, কসমে বা অভিযোগের সুরে আল্লাহকে নিয়ে এমন কোনো বেখেয়াল কথা মুখ থেকে বেরিয়েছে, যার ভার আমি টেরই পাইনি?",
+      "এই দাবি কেন এত গুরুতর, তার কারণ কি আমি জানি? নাকি সিদ্ধান্তটা শুধু উত্তরাধিকারে পেয়েছি, কখনো বুঝে দেখিনি?",
+      "যারা তাঁর সম্পর্কে এ কথা বলে, তিনি যদি তাদেরও রিজিক দিয়ে যান, তবে ভিন্ন বিশ্বাসের মানুষের প্রতি আমার ধৈর্যের কাছে এটা কী দাবি করে?",
+      "আমার তাওহীদ কি শুধু মুখস্থ বলার জিনিস, নাকি কঠিন সপ্তাহে আমি কাকে ভয় করি, কার কাছে আশা রাখি, কার দিকে ফিরি, তা-ও ঠিক করে দেয়?",
+      "আল্লাহ সম্পর্কে মিথ্যা কথা শুনে পাহাড়ের মতো করে তা অনুভব করতে হলে আমার ভেতরে কী বদলাতে হবে?"
+    ],
+    "lessonEn": "Hold Allah's greatness in your heart and on your tongue: say nothing of Him lightly, and let His Oneness be what you fear, hope and turn by.",
+    "lessonBn": "আল্লাহর মহত্ত্ব অন্তরে আর জবানে ধরে রাখুন। তাঁর সম্পর্কে হালকা কোনো কথা বলবেন না, আর আপনার ভয়, আশা ও ফিরে যাওয়া চলুক তাঁর একত্বকে ঘিরে।"
   }
 };
 
