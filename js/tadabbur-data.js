@@ -23091,6 +23091,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everyone arrives; not everyone is brought out. Let taqwa, kept daily in what you do and what you avoid, be what carries you across.",
     "lessonBn": "পৌঁছাবে সবাই, কিন্তু বের করে আনা হবে সবাইকে নয়। প্রতিদিনের কাজে আর বর্জনে ধরে রাখা তাকওয়াই হোক সেই জিনিস যা আপনাকে পার করে নেবে।"
+  },
+  "19:62": {
+    "reflectionEn": "Before it mentions any food, the verse describes a silence. In the Gardens of 'Adn they will not hear laghw: no idle, wounding or empty talk. What reaches their ears is only salam, peace, the greeting given and returned, speech with no fault in it. Then comes provision, morning and evening, though no sun rises there: a life in which the next meal is never in doubt. Read it at the end of a noisy day. How much of what I heard today, and how much of what I said, would have no place there? The Garden is promised in the unseen, but the tongue that would feel at home in it is trained here, one conversation at a time, choosing peace over the remark that wounds.",
+    "reflectionBn": "খাবারের কথা বলার আগে আয়াতটি এক নীরবতার ছবি আঁকে। আদনের জান্নাতে তারা কোনো লাগব শুনবে না: বাজে কথা নেই, খোঁচা নেই, ফাঁপা গল্প নেই। কানে আসবে শুধু সালাম, শান্তির সম্ভাষণ, যা দেওয়া হয় আর ফিরিয়ে দেওয়া হয়, যে কথায় কোনো দোষ নেই। তারপর রিজিক, সকালে আর সন্ধ্যায়, যদিও সেখানে সূর্য ওঠে না। পরের বেলার খাবার নিয়ে সেখানে কোনো দুশ্চিন্তা নেই। আয়াতটি পড়ুন কোলাহলে ভরা একটা দিনের শেষে। আজ যা শুনেছি, আর যা বলেছি, তার কতটুকুর জায়গা সেখানে হতো না? জান্নাতের ওয়াদা অদেখা জগতের, কিন্তু যে জিহ্বা সেখানে স্বস্তি পাবে, তার তালিম হয় এখানেই। একেকটা কথোপকথনে, আঘাত করা মন্তব্যের বদলে শান্তির কথা বেছে নিয়ে।",
+    "pointsEn": [
+      "If my conversations from this past week were played back, how much of them would count as laghw: idle, sharp or simply empty?",
+      "When someone throws a hurtful word at me, do I answer in kind, or let it pass with a word of peace?",
+      "Which gatherings, chats or feeds keep filling my ears with talk I would not want to hear in the Garden?",
+      "When I say salam, do I mean a real wish for the other person's safety and good, or is it only a habit at the door?",
+      "Their provision comes without worry, morning and evening. Which worry about provision here keeps me from thanking Allah for today's?"
+    ],
+    "pointsBn": [
+      "গত এক সপ্তাহের কথাবার্তা যদি আবার বাজিয়ে শোনা হতো, তার কতটুকু লাগব বলে গণ্য হতো: অনর্থক, ধারালো, নাকি একেবারে ফাঁপা?",
+      "কেউ যখন আমার দিকে আঘাতের কথা ছুড়ে দেয়, আমি কি একই সুরে জবাব দিই, নাকি শান্তির একটা কথা বলে পাশ কাটিয়ে যাই?",
+      "কোন আড্ডা, কোন চ্যাট বা কোন ফিড আমার কানে এমন কথা ঢেলে যায়, যা আমি জান্নাতে শুনতে চাইতাম না?",
+      "সালাম দেওয়ার সময় আমি কি সত্যিই মানুষটার নিরাপত্তা আর কল্যাণ চাই, নাকি এটা শুধু দরজায় দাঁড়িয়ে বলা এক অভ্যাস?",
+      "তাদের রিজিক আসে দুশ্চিন্তা ছাড়া, সকালে আর সন্ধ্যায়। এখানকার রিজিক নিয়ে কোন দুশ্চিন্তা আমাকে আজকের রিজিকের জন্য আল্লাহর শোকর করতে দেয় না?"
+    ],
+    "lessonEn": "The Garden is described as a place where no idle or hurtful word is heard, only peace. Begin now: guard your tongue and your ears, and answer harshness with salam.",
+    "lessonBn": "জান্নাতের বর্ণনা এমন এক জায়গা হিসেবে, যেখানে কোনো অনর্থক বা আঘাতের কথা শোনা যায় না, শোনা যায় শুধু শান্তির কথা। শুরুটা এখনই করুন: জিহ্বা আর কান সামলে রাখুন, আর রূঢ়তার জবাব দিন সালাম দিয়ে।"
   }
 };
 

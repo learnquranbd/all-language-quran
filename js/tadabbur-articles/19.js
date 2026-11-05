@@ -2207,6 +2207,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:62": {
+    "sections": [
+      {
+        "h": {
+          "en": "Inside the Promised Gardens",
+          "bn": "প্রতিশ্রুত বাগানের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "This verse sits in a short passage that turns on one exception. Verse 19:59 spoke of a later generation who neglected the prayer and followed their desires, and warned that they would meet ghayy. Verse 19:60 opens a door: except whoever repents, believes and does righteous deeds; they will enter the Garden and will not be wronged in the least. Verse 19:61 names the place: the Gardens of 'Adn, promised by the Most Merciful to His servants in the unseen.",
+            "bn": "আয়াতটি এমন এক ছোট অংশে বসানো, যার মোড় ঘোরে একটি ব্যতিক্রমে। ১৯:৫৯ আয়াতে এসেছে পরবর্তী এক প্রজন্মের কথা, যারা নামায নষ্ট করেছে আর প্রবৃত্তির পেছনে ছুটেছে। তাদের সতর্ক করা হয়েছে, তারা গাইয়ের মুখোমুখি হবে। ১৯:৬০ আয়াত তারপর দরজা খুলে দেয়: তবে যে তওবা করে, ঈমান আনে আর নেক আমল করে, সে জান্নাতে যাবে, আর তার উপর বিন্দুমাত্র যুলম হবে না। ১৯:৬১ আয়াত জায়গাটির নাম বলে দেয়: আদনের বাগান, যার ওয়াদা দয়াময় তাঁর বান্দাদের দিয়েছেন অদেখা জগতের বিষয় হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, explains 'Adn as eternity, and the promise in the unseen as Gardens that believers hold true without ever having seen them. Our verse is the first look inside, and it is worth noticing what it shows first. Not rivers, not palaces, but what is heard there and what is eaten there. Then 19:63 closes the description: that is the Garden which We give as inheritance to those of Our servants who were God-fearing. Sound and sustenance stand between the promise and the naming of its heirs.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আদনের অর্থ চিরস্থায়িত্ব। আর অদেখা জগতের ওয়াদা মানে এমন বাগান, যা মুমিনরা কখনো চোখে না দেখেও সত্য বলে মানে। আমাদের আয়াত সেই বাগানের ভেতরে প্রথম দৃষ্টি। খেয়াল করার মতো ব্যাপার, প্রথমে কী দেখানো হলো। নদী নয়, প্রাসাদ নয়। দেখানো হলো সেখানে কী শোনা যায় আর কী খাওয়া হয়। তারপর ১৯:৬৩ আয়াত বর্ণনা শেষ করে: এই সেই জান্নাত, যার উত্তরাধিকারী আমি করি আমার বান্দাদের মধ্যে মুত্তাকীদের। ওয়াদা আর তার উত্তরাধিকারীদের নামের মাঝখানে দাঁড়িয়ে আছে দুটি জিনিস: শব্দ আর রিজিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Talk That Falls Away",
+          "bn": "যে কথা ঝরে পড়ে"
+        },
+        "p": [
+          {
+            "en": "La yasma'una fiha laghwan: they will not hear in it any laghw. At-Tabari glosses the word as falsehood in speech and talk. Al-Qurtubi gathers four things under it: what is false in speech, what is obscene, what is superfluous, and whatever brings no benefit. Al-Baghawi lists falsehood, obscenity and superfluous talk, then relays Muqatil, who narrows it to the lying oath. Ibn Kathir calls it fallen, worthless speech with no meaning in it, and adds a telling phrase: as may be found in this world.",
+            "bn": "লা ইয়াসমাউনা ফীহা লাগওয়ান: সেখানে তারা কোনো লাগব শুনবে না। তাবারী শব্দটির ব্যাখ্যা দেন কথাবার্তার ভেতরের অসার আর মিথ্যা বলে। কুরতুবী এর নিচে চারটি জিনিস জড়ো করেন: মিথ্যা কথা, অশ্লীল কথা, বাড়তি কথা, আর যে কথায় কোনো উপকার নেই। বাগাভী গোনেন মিথ্যা, অশ্লীলতা আর বাড়তি কথা। তারপর মুকাতিলের মত আনেন, যিনি একে সীমিত করেন মিথ্যা কসমে। ইবন কাসীর বলেন, এ হলো পড়ে যাওয়া, মূল্যহীন, অর্থহীন কথা। সঙ্গে জুড়ে দেন একটি অর্থপূর্ণ বাক্যাংশ: যেমনটা দুনিয়ায় পাওয়া যায়।"
+          },
+          {
+            "en": "As-Sa'di widens the circle. Laghw is idle speech with no benefit, and also speech that brings sin: so they hear no insult there, no fault-finding, no word of disobedience to Allah, and no word that clouds the heart. Al-Qurtubi relays the widest reading from Ibn 'Abbas: laghw is everything in which there is no remembrance of Allah, meaning that their speech in the Garden is praise and glorification of Allah.",
+            "bn": "সা'দী বৃত্তটা আরও বড় করেন। লাগব হলো উপকারহীন অনর্থক কথা, আবার গুনাহ ডেকে আনা কথাও। তাই সেখানে তারা কোনো গালি শুনবে না, কারও দোষ ধরা শুনবে না, আল্লাহর নাফরমানির কোনো কথা শুনবে না, মন বিষিয়ে দেওয়া কোনো কথাও না। সবচেয়ে বড় অর্থটি কুরতুবী আনেন ইবন আব্বাস (রাঃ)-এর সূত্রে: যে কথায় আল্লাহর জিকির নেই, তা-ই লাগব। অর্থাৎ জান্নাতে তাদের কথা হবে আল্লাহর হামদ আর তাসবীহ।"
+          },
+          {
+            "en": "Al-Qurtubi shows the word at work with a hadith, which al-Bukhari records in his Sahih (934) from Abu Hurayrah. In the Arabic of that collection the Prophet ﷺ said: if you say to your companion on Friday, be quiet, while the imam is preaching, you have committed laghw. The example is striking. The words are not foul, and they are even meant to correct someone, yet in that moment they are laghw. The word covers more than ugly talk. It reaches any speech that is out of place.",
+            "bn": "কুরতুবী শব্দটির ব্যবহার দেখান একটি হাদীস দিয়ে। বুখারী তাঁর সহীহ গ্রন্থে (৯৩৪) আবু হুরায়রা (রাঃ)-এর সূত্রে হাদীসটি এনেছেন। সেখানে আরবিতে নবী ﷺ বলেছেন: জুমার দিন ইমাম যখন খুতবা দিচ্ছেন, তখন যদি তুমি তোমার সঙ্গীকে বলো, চুপ করো, তবে তুমি লাগব করলে। উদাহরণটা চমকে দেওয়ার মতো। কথাটা অশ্লীল নয়, বরং কাউকে শুধরে দেওয়ার উদ্দেশ্যেই বলা। তবু সেই মুহূর্তে তা লাগব। শব্দটা তাই কেবল কুৎসিত কথায় আটকে থাকে না। বেজায়গায় বলা যেকোনো কথাই এর মধ্যে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excepted, Yet Not of It",
+          "bn": "ব্যতিক্রম, তবু ভিন্ন জাতের"
+        },
+        "p": [
+          {
+            "en": "Illa salaman: except salam. On the surface the grammar is odd, since salam is no kind of laghw, so how can it be excepted from laghw? Ibn Kathir, at-Tabari and al-Qurtubi all name the construction istithna' munqati', a disconnected exception, and al-Baghawi describes it as an exception from outside its own kind. At-Tabari then spells out the sense: but they hear salam. Al-Muyassar puts the whole clause plainly: the people of the Garden hear no false speech there, but they hear salam as a greeting to them.",
+            "bn": "ইল্লা সালামা: সালাম ছাড়া। ওপর থেকে দেখলে ব্যাকরণটা অদ্ভুত ঠেকে। সালাম তো লাগবের কোনো প্রকার নয়, তাহলে লাগব থেকে তাকে বাদ দেওয়া হবে কীভাবে? ইবন কাসীর, তাবারী আর কুরতুবী তিনজনই একে বলেন ইসতিসনা মুনকাতি, অর্থাৎ বিচ্ছিন্ন ব্যতিক্রম। বাগাভী বলেন, এটি নিজের জাতের বাইরে থেকে আনা ব্যতিক্রম। তাবারী অর্থটা খুলে দেন: বরং তারা সালাম শুনবে। মুয়াসসার পুরো বাক্যটা সহজ কথায় বলে: জান্নাতবাসীরা সেখানে কোনো অসার কথা শুনবে না, শুনবে তাদের প্রতি অভিবাদন হিসেবে সালাম।"
+          },
+          {
+            "en": "The construction matters for the meaning. The verse does not say that peace is a permitted share of idle talk. It says the sound of the Garden is of another substance altogether. Ibn Kathir sets beside it 56:25 and 56:26: they will not hear in it laghw or any sinful talk, only the saying, peace, peace. There too the exception stands outside what it excepts, and there too the ear is left with a single word.",
+            "bn": "এই গঠনের প্রভাব পড়ে অর্থের ওপর। আয়াতটি বলছে না যে শান্তি অনর্থক কথারই এক অনুমোদিত অংশ। আয়াত বলছে, জান্নাতের শব্দ একেবারে ভিন্ন উপাদানে গড়া। ইবন কাসীর এর পাশে রাখেন ৫৬:২৫ ও ৫৬:২৬ আয়াত: সেখানে তারা শুনবে না কোনো লাগব, কোনো গুনাহের কথা, শুধু এই কথা: সালাম, সালাম। সেখানেও ব্যতিক্রমটি দাঁড়িয়ে আছে যা থেকে বাদ দেওয়া হলো তার বাইরে। সেখানেও কানে থেকে যায় একটিমাত্র শব্দ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Salam Reaches Them",
+          "bn": "কার সালাম পৌঁছায় তাদের কানে"
+        },
+        "p": [
+          {
+            "en": "Who speaks this salam? At-Tabari gives one answer: it is the angels' greeting to them. Al-Qurtubi relays from Muqatil and others a double answer: the salam of some of them to others, and the salam of the angel to them. Al-Baghawi offers three, the last two under the words it is said: speech that brings them no harm, the greeting of one another and of the angels, and Allah's own greeting to them.",
+            "bn": "এই সালাম কে বলে? তাবারীর উত্তর একটাই: ফেরেশতারা তাদের যে অভিবাদন জানায়, সেটাই। কুরতুবী মুকাতিল ও অন্যদের সূত্রে দুটি উত্তর আনেন: তাদের একে অপরকে সালাম দেওয়া, আর তাদের প্রতি ফেরেশতার সালাম। বাগাভী তিনটি কথা বলেন, শেষ দুটি 'বলা হয়' দিয়ে। এক, এমন কথা যাতে তাদের কোনো ক্ষতি নেই। দুই, পরস্পরের আর ফেরেশতাদের সালাম। তিন, তাদের প্রতি স্বয়ং আল্লাহর সালাম।"
+          },
+          {
+            "en": "Others read the word more broadly. Al-Qurtubi calls salam a name that gathers all good: they hear in the Garden only what they love. Al-Baghawi argues from the root: salam contains safety, so they hear nothing there that would make them sinful. As-Sa'di fills the picture: remembrance of Allah, greeting, words of joy and glad tidings, good talk between brothers, the address of the Most Merciful. His reason is that the abode is Dar as-Salam, the Home of Peace, with nothing in it but complete peace.",
+            "bn": "অন্যরা শব্দটিকে আরও বড় অর্থে পড়েন। কুরতুবী বলেন, সালাম এমন এক নাম যা সব কল্যাণকে একত্র করে, তাই জান্নাতে তারা শুধু সেটাই শুনবে যা তারা ভালোবাসে। বাগাভী যুক্তি দেন শব্দের মূল থেকে: সালামের ভেতরে আছে নিরাপত্তা, তাই সেখানে তারা গুনাহগার করার মতো কিছুই শুনবে না। সা'দী ছবিটা পূর্ণ করেন: আল্লাহর জিকির, সালাম, আনন্দ আর সুসংবাদের কথা, ভাইদের মধ্যে সুন্দর আলাপ, দয়াময়ের সম্বোধন। তাঁর যুক্তি, এ ঘর দারুস সালাম, শান্তির ঘর, সেখানে পূর্ণ শান্তি ছাড়া আর কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mornings Without a Sunrise",
+          "bn": "সূর্যোদয় ছাড়া সকাল"
+        },
+        "p": [
+          {
+            "en": "Wa lahum rizquhum fiha bukratan wa 'ashiyya: and they will have their provision in it, morning and evening. The commentators meet a question at once, because the Garden has no night and no day. At-Tabari answers that it means their food, and whatever food and drink they desire, in the measure of the morning and evening times of this world's days. The interval between their midday meal and supper in the Garden equals the interval between ours here, since there is neither night nor day there.",
+            "bn": "ওয়া লাহুম রিযকুহুম ফীহা বুকরাতাঁও ওয়া আশিয়্যা: সেখানে সকালে আর সন্ধ্যায় তাদের জন্য থাকবে তাদের রিজিক। তাফসীরকারেরা এখানে সঙ্গে সঙ্গে একটি প্রশ্নের সামনে পড়েন, কারণ জান্নাতে রাত নেই, দিনও নেই। তাবারীর উত্তর: এর অর্থ তাদের খাবার, আর খাদ্য-পানীয়ের যা কিছু তারা চায়, দুনিয়ার দিনের সকাল আর সন্ধ্যার সময়ের পরিমাপে। দুনিয়ায় আমাদের দুপুরের খাবার আর রাতের খাবারের মাঝে যতটা ফাঁক, জান্নাতে তাদের দুই বেলার মাঝেও ততটা। কেননা সেখানে রাতও নেই, দিনও নেই।"
+          },
+          {
+            "en": "At-Tabari compares the days of creation: He created the earth in two days (41:9), days by the measure of this world. Ibn Kathir reads the verse the same way: in the like of mornings and evenings, not that there is night or day there, but times that follow one another, whose passing they know by lights and brightness. He relays from ad-Dahhak from Ibn 'Abbas: the measures of night and day. Qatada, in at-Tabari and Ibn Kathir, says there are two hours in it, morning and evening, and no night, only brightness and light.",
+            "bn": "তাবারী তুলনা টানেন সৃষ্টির দিনগুলোর সঙ্গে: তিনি পৃথিবী সৃষ্টি করেছেন দুই দিনে (৪১:৯), আর সেই দিন দুনিয়ার দিনের মাপে। ইবন কাসীরও আয়াতটি একইভাবে পড়েন: সকাল আর সন্ধ্যার মতো সময়ে। সেখানে রাত বা দিন আছে, ব্যাপারটা তা নয়। বরং একের পর এক আসা সময়, যার পেরিয়ে যাওয়া তারা টের পায় আলো আর উজ্জ্বলতা দিয়ে। তিনি দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: রাত আর দিনের পরিমাপ। তাবারী আর ইবন কাসীরে কাতাদা বলেন, সেখানে দুটি সময় আছে, সকাল আর সন্ধ্যা। রাত নেই, আছে শুধু আলো আর দীপ্তি।"
+          },
+          {
+            "en": "Al-Qurtubi gives the measure reading from Ibn 'Abbas, Ibn Jurayj and others, comparing 34:12, where Sulayman's wind ran a month's journey in its morning and a month's in its evening. How the measure is known comes from Zuhayr ibn Muhammad, in at-Tabari and Ibn Kathir: there is no night in the Garden, they are in light forever, and they know night by curtains lowered and doors closed, and day by curtains raised and doors opened. Al-Qurtubi gives this as the saying of the scholars, not of the Prophet ﷺ.",
+            "bn": "কুরতুবী পরিমাপের ব্যাখ্যাটি আনেন ইবন আব্বাস (রাঃ), ইবন জুরাইজ ও অন্যদের সূত্রে, আর তুলনা টানেন ৩৪:১২ আয়াতের সঙ্গে, যেখানে সুলাইমান (আঃ)-এর বাতাস সকালে এক মাসের পথ আর সন্ধ্যায় এক মাসের পথ পাড়ি দিত। পরিমাপটা কীভাবে বোঝা যায়, তা আসে যুহাইর ইবন মুহাম্মাদ থেকে, তাবারী আর ইবন কাসীরে: জান্নাতে রাত নেই, তারা চিরকাল আলোর মধ্যে। রাত তারা চেনে পর্দা নামানো আর দরজা বন্ধ হওয়া দেখে, দিন চেনে পর্দা ওঠানো আর দরজা খোলা দেখে। কুরতুবী একে বলেন আলেমদের কথা, নবী ﷺ-এর বাণী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Meals, or Without End",
+          "bn": "দুই বেলা, নাকি অফুরান"
+        },
+        "p": [
+          {
+            "en": "Why name these two times at all? Another line of explanation looks at the first listeners. At-Tabari relays from Yahya, whom al-Qurtubi names as Yahya ibn Abi Kathir, that the Arabs of that time counted anyone who found both a midday meal and a supper as living in comfort, so Allah revealed this. From Qatada he relays that people marvelled at whoever got both. Ibn Kathir gives it from al-Hasan, Qatada and others: the Qur'an came down on what they held to be ease.",
+            "bn": "এই দুটি সময়ের নামই বা কেন নেওয়া হলো? ব্যাখ্যার আরেকটি ধারা তাকায় প্রথম শ্রোতাদের দিকে। তাবারী ইয়াহইয়ার সূত্রে আনেন, কুরতুবী যাঁর পুরো নাম বলেন ইয়াহইয়া ইবন আবী কাসীর: সে যুগের আরবরা দুপুর আর রাত দুই বেলার খাবার যে পেত, তাকে সুখী মানুষ মনে করত। তাই আল্লাহ এ আয়াত নাযিল করেন। কাতাদার সূত্রে তিনি আনেন, কেউ দুই বেলা খাবার পেলে লোকে অবাক হয়ে যেত। ইবন কাসীর কথাটি আনেন হাসান বসরী, কাতাদা ও অন্যদের সূত্রে: তারা যাকে সুখ মনে করত, কুরআন সেই ভাষাতেই নেমেছে।"
+          },
+          {
+            "en": "Mujahid takes the opposite line. In at-Tabari and Ibn Kathir he says: there is no morning there and no evening, but it is brought to them as they used to desire it in this world. So the two named times are not hours on a clock at all. Others read them as a figure for supply that never stops. Al-Qurtubi gives the view that their provision there is never cut off, as in 56:33, neither cut off nor withheld, just as one says, I spend morning and evening remembering you, meaning always.",
+            "bn": "মুজাহিদ যান উল্টো পথে। তাবারী আর ইবন কাসীরে তাঁর কথা: সেখানে সকালও নেই, সন্ধ্যাও নেই। বরং দুনিয়ায় তারা যেমনটা চাইত, তেমনভাবেই রিজিক তাদের কাছে আনা হবে। তাহলে নাম নেওয়া দুই বেলা আসলে ঘড়ির কোনো সময় নয়। অন্যরা দুই শব্দকে পড়েন কখনো না থামা জোগানের রূপক হিসেবে। কুরতুবী একটি মত আনেন যে সেখানে তাদের রিজিক কখনো বন্ধ হবে না, যেমন ৫৬:৩৩ আয়াতে আছে: যা শেষও হবে না, নিষিদ্ধও হবে না। মানুষ যেমন বলে, সকাল-সন্ধ্যা তোমাকে মনে করি, মানে সবসময়।"
+          },
+          {
+            "en": "Al-Muyassar takes the same side: food and drink always, whenever they wish, neither confined nor limited. Al-Baghawi records the view that the phrase means ease of living and ample provision. As-Sa'di holds both together: their provision continues whenever they wish, and yet part of its completeness is that it comes at known times, so that its arrival is felt the more. The difference itself stays: Mujahid and Qatada read the same two words in opposite directions.",
+            "bn": "মুয়াসসারও একই দিকে: খাদ্য আর পানীয় সবসময়, যখনই তারা চাইবে, কোনো সীমা বা মাপজোখ ছাড়া। বাগাভী একটি মত উল্লেখ করেন যে কথাটির অর্থ সচ্ছল জীবন আর প্রশস্ত রিজিক। সা'দী দুই দিককে একসঙ্গে ধরেন: রিজিক চলতেই থাকবে, যখনই তারা চাইবে। তবু এর পূর্ণতার একটা অংশ হলো, তা আসবে নির্দিষ্ট সময়ে, যাতে এর আগমন মনে আরও গভীর দাগ কাটে। মতভেদটা তবু থেকেই যায়: মুজাহিদ আর কাতাদা একই দুটি শব্দ পড়েন সম্পূর্ণ উল্টো দুই দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glorifying at Both Ends",
+          "bn": "দুই প্রান্তে তাসবীহ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings a hadith from the two Sahihs here, through Imam Ahmad from Ma'mar from Hammam from Abu Hurayrah. In al-Bukhari's wording (3245), by the same route, the Prophet ﷺ said: \"The first group who will enter Paradise will be (glittering) like the moon when it is full. They will not spit or blow their noses or relieve nature. Their utensils will be of gold and their combs of gold and silver; in their censers the aloe wood will be used, and their sweat will smell like musk.\"",
+            "bn": "ইবন কাসীর এখানে দুই সহীহ গ্রন্থের একটি হাদীস আনেন, ইমাম আহমাদের সূত্রে মা'মার থেকে, তিনি হাম্মাম থেকে, তিনি আবু হুরায়রা (রাঃ) থেকে। একই সূত্রে বুখারীর ভাষায় (৩২৪৫) নবী ﷺ বলেছেন: \"জান্নাতে প্রথম যে দলটি প্রবেশ করবে, তাদের চেহারা হবে পূর্ণিমার রাতের চাঁদের মতো। তারা সেখানে থুথু ফেলবে না, নাক ঝাড়বে না, মলত্যাগ করবে না। সেখানে তাদের পাত্র হবে সোনার, চিরুনি হবে সোনা আর রুপার। তাদের ধুনুচিতে জ্বলবে আগর কাঠ, আর তাদের ঘাম হবে মিশকের মতো সুগন্ধি।\""
+          },
+          {
+            "en": "The hadith goes on: \"Everyone of them will have two wives; the marrow of the bones of the wives' legs will be seen through the flesh out of excessive beauty. They (i.e. the people of Paradise) will neither have differences nor hatred amongst themselves; their hearts will be as if one heart and they will be glorifying Allah in the morning and in the evening.\" It is in al-Bukhari's Sahih. Ibn Kathir cites it to show that the Garden has times that follow one another, though not night and day.",
+            "bn": "হাদীসটি চলতে থাকে: \"তাদের প্রত্যেকের থাকবে দুজন স্ত্রী। অপরূপ সৌন্দর্যের কারণে তাদের পায়ের হাড়ের মজ্জা মাংসের ভেতর দিয়ে দেখা যাবে। তাদের মধ্যে থাকবে না কোনো মতভেদ, থাকবে না কোনো বিদ্বেষ। তাদের সবার অন্তর হবে যেন একটি অন্তর। তারা সকালে আর সন্ধ্যায় আল্লাহর তাসবীহ পাঠ করবে।\" হাদীসটি বুখারীর সহীহ গ্রন্থে আছে। ইবন কাসীর এটি আনেন এ কথা দেখাতে যে জান্নাতে রাত-দিন না থাকলেও একের পর এক আসা সময় আছে।"
+          },
+          {
+            "en": "Notice what the hadith speaks of. Its bukratan wa 'ashiyya belongs to glorification, not to meals, so it does not explain the provision clause by itself. Yet it sits close to the first half of the verse: hearts like one heart, no difference and no hatred, and the hours filled with praise of Allah. A place with no laghw is a place with nothing to quarrel over. The other reports brought here are left aside; Ibn Abi Hatim, who records one of them, himself calls it munkar.",
+            "bn": "খেয়াল করুন, হাদীসটি কিসের কথা বলছে। এর 'সকালে আর সন্ধ্যায়' তাসবীহের সঙ্গে যুক্ত, খাবারের সঙ্গে নয়। তাই এটি একা রিজিকের অংশটির ব্যাখ্যা দেয় না। তবু আয়াতের প্রথম অর্ধেকের খুব কাছাকাছি এর অবস্থান: সবার অন্তর যেন একটি অন্তর, মতভেদ নেই, বিদ্বেষ নেই, আর সময়গুলো ভরা আল্লাহর প্রশংসায়। যেখানে লাগব নেই, সেখানে ঝগড়া করার মতো কিছুও নেই। এখানে আনা অন্য বর্ণনাগুলো বাদ রাখা হলো। তার একটি যিনি বর্ণনা করেছেন, সেই ইবন আবী হাতিম নিজেই একে মুনকার বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rehearsing That Quiet Now",
+          "bn": "সেই নীরবতার মহড়া এখনই"
+        },
+        "p": [
+          {
+            "en": "The Qur'an describes believers in this world with the same word. In 23:3 they turn away from laghw. In 25:72, when they pass by laghw, they pass by with dignity. In 28:55, when they hear laghw they turn away and say: to us our deeds and to you yours; salam 'alaykum, we do not seek the ignorant. That verse holds both words of ours in a single exchange: laghw met, and salam given back. What the Garden makes permanent, the believer practises here by choice.",
+            "bn": "দুনিয়ার মুমিনদের বর্ণনাতেও কুরআন একই শব্দ ব্যবহার করে। ২৩:৩ আয়াতে তারা লাগব থেকে মুখ ফিরিয়ে রাখে। ২৫:৭২ আয়াতে, লাগবের পাশ দিয়ে গেলে তারা সম্মানের সঙ্গে পেরিয়ে যায়। ২৮:৫৫ আয়াতে, লাগব কানে এলে তারা মুখ ফিরিয়ে নেয় আর বলে: আমাদের আমল আমাদের, তোমাদের আমল তোমাদের, তোমাদের প্রতি সালাম, আমরা অজ্ঞদের সঙ্গ চাই না। এই আয়াতে আমাদের আয়াতের দুটি শব্দই এক কথোপকথনে এসে গেছে: লাগবের মুখোমুখি হওয়া, আর জবাবে সালাম দেওয়া। জান্নাত যা স্থায়ী করে দেয়, মুমিন এখানে তা চর্চা করে নিজের ইচ্ছায়।"
+          },
+          {
+            "en": "That makes the verse practical rather than an escape. It comes straight after a generation who lost the prayer and followed their desires, and after a door opened for whoever repents. As-Sa'di's list of what is absent there reads like a list of what fills an ordinary day: the insult, the fault-finding, the word of disobedience, the remark that clouds someone's heart. Each of them can be cut now, one at a time: a rumour not passed on, an argument not joined, a provocation answered with a word of peace.",
+            "bn": "ফলে আয়াতটি পালানোর স্বপ্ন নয়, হাতে-কলমে কাজের কথা। এটি এসেছে ঠিক সেই প্রজন্মের কথার পরে, যারা নামায নষ্ট করেছে আর প্রবৃত্তির পেছনে ছুটেছে। এসেছে তওবাকারীর জন্য দরজা খুলে দেওয়ার পরে। সেখানে কী কী থাকবে না, সা'দীর সেই তালিকা যেন আমাদের সাধারণ একটা দিনেরই তালিকা: গালি, দোষ ধরা, নাফরমানির কথা, কারও মন বিষিয়ে দেওয়া মন্তব্য। এর প্রতিটি এখনই ছাঁটা যায়, একটা একটা করে। একটা গুজব আর না ছড়ানো, একটা তর্কে না জড়ানো, একটা খোঁচার জবাবে শান্তির একটা কথা বলা।"
+          },
+          {
+            "en": "The provision clause carries a quieter lesson. The first listeners counted two meals a day as comfort, and the verse met them there. Whoever has today's food has a share of what they called ease, and owes thanks for it. The heirs of the Garden, says 19:63, are the God-fearing, and taqwa of the tongue is part of that fear. Whoever wants to be at home where only salam is heard begins by making salam the usual sound of their own mouth.",
+            "bn": "রিজিকের অংশটিতে আছে আরও নিঃশব্দ এক শিক্ষা। প্রথম শ্রোতারা দিনে দুই বেলা খাবারকেই সুখ মনে করত, আর আয়াত তাদের সঙ্গে কথা বলেছে সেই জায়গা থেকেই। আজকের খাবার যার আছে, সে তাদের সেই সুখের একটা ভাগ পেয়েছে, আর এর জন্য তার শোকর করা উচিত। ১৯:৬৩ আয়াত বলে, জান্নাতের উত্তরাধিকারী মুত্তাকীরা, আর জিহ্বার তাকওয়া সেই তাকওয়ারই অংশ। যেখানে শুধু সালাম শোনা যায়, সেখানে যে স্বস্তি পেতে চায়, তার শুরু হয় নিজের মুখের স্বাভাবিক সুর সালাম বানিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "19:65": {
     "sections": [
       {
