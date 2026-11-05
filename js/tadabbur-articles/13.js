@@ -155,6 +155,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "Neighbours That Do Not Match",
+          "bn": "পাশাপাশি, তবু এক নয়"
+        },
+        "p": [
+          {
+            "en": "After the earth spread out in 13:3, the view narrows to what lies side by side within it. Wa fi al-ardi qita'un mutajawirat: and in the earth are tracts that neighbour each other. At-Tabari glosses it as pieces of land close together, near each other by adjacency, which still differ in worth despite that nearness. A salt-crusted piece that grows nothing lies beside a good piece that grows and gives benefit.",
+            "bn": "১৩:৩ আয়াতে বিছিয়ে দেওয়া জমিন থেকে চোখ এবার সরে আসে তার ভেতরের পাশাপাশি জমিগুলোর দিকে। ওয়া ফিল আরদি কিতাউম মুতাজাওয়িরাত: আর জমিনে আছে পরস্পর সংলগ্ন ভূখণ্ড। তাবারীর ব্যাখ্যায়, এগুলো কাছাকাছি জমির টুকরো, প্রতিবেশী হয়ে গা ঘেঁষে আছে। এত কাছে থেকেও মানে এদের ফারাক থেকে যায়। যে লবণাক্ত টুকরো কিছুই জন্মায় না, তার ঠিক পাশেই থাকে ভালো জমি, যা ফসল দেয়, উপকারে আসে।"
+          },
+          {
+            "en": "At-Tabari then lists those who read it so. Mujahid names the pair: as-sabakha and al-'adhiya, the salty and the sweet-soiled. One report from Ibn 'Abbas says the same and draws the picture: they lie together, this one grows and the one at its side does not. Another, through Sa'id ibn Jubayr, shifts to the harvest: one land grows sweet and one grows sour, neighbours watered by one water. Qatada keeps it to settlement: villages that lie near one another.",
+            "bn": "এরপর তাবারী তুলে আনেন কারা এভাবে বুঝেছেন। মুজাহিদ জোড়াটির নাম দেন: সাবাখা আর আযিয়া, অর্থাৎ লোনা মাটি আর উর্বর মাটি। ইবন আব্বাস (রাঃ) থেকে এক বর্ণনাতেও একই কথা, সঙ্গে ছবিটাও আছে: দুটো একসঙ্গে পড়ে আছে, এটায় গাছ গজায়, পাশেরটায় গজায় না। সাঈদ ইবন জুবাইরের সূত্রে আরেক বর্ণনা চলে যায় ফসলের দিকে: এক জমিতে হয় মিষ্টি, আরেকটায় টক। দুটো প্রতিবেশী, পানি পায় একই। কাতাদা কথাটাকে বসতির দিকে নিয়ে যান: কাছাকাছি অবস্থিত জনপদ।"
+          },
+          {
+            "en": "The others add detail of their own. Ibn Kathir gives the fertile-and-saline reading on the authority of Ibn 'Abbas, Mujahid, Sa'id ibn Jubayr, ad-Dahhak and others. Al-Baghawi adds yield: some tracts give little return, some give much. As-Sa'di sorts the ground into kinds. One land grows pasture, trees and crops in plenty; the land touching it grows no pasture and holds no water; another holds water and grows no pasture; another grows crops and trees but no pasture.",
+            "bn": "অন্যরাও নিজেদের দিক থেকে কিছু যোগ করেন। ইবন কাসীর উর্বর আর লোনা জমির এই ব্যাখ্যা আনেন ইবন আব্বাস (রাঃ), মুজাহিদ, সাঈদ ইবন জুবাইর, দাহহাক প্রমুখের সূত্রে। বাগাভী যোগ করেন ফলনের কথা: কোনো জমি দেয় সামান্য, কোনোটা দেয় প্রচুর। সা'দী জমিকে ভাগ করেন কয়েক রকমে। একটা জমিতে ঘাস, গাছ আর ফসল জন্মায় অঢেল। তার গা ঘেঁষা জমিতে ঘাস হয় না, পানিও ধরে রাখে না। আরেকটা পানি ধরে রাখে, কিন্তু ঘাস জন্মায় না। আরেকটায় ফসল আর গাছ হয়, ঘাস হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Half a Pair Left Unsaid",
+          "bn": "জোড়ার অর্ধেক না-বলা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens his five questions on the verse with a point of style. Something has been left out, he says: the meaning is tracts that neighbour and tracts that do not, just as 16:81 speaks of garments that protect you from the heat and leaves the cold unsaid, because the hearer knows it. On this reading the neighbouring tracts are towns and settled land, and those that do not neighbour are the deserts and whatever lies unsettled.",
+            "bn": "আয়াতটি নিয়ে কুরতুবী পাঁচটি মাসআলা তোলেন। প্রথমটি বলার ধরন নিয়ে। তাঁর মতে এখানে কিছু কথা উহ্য আছে। আসল অর্থ: সংলগ্ন ভূখণ্ড আছে, অসংলগ্নও আছে। যেমন ১৬:৮১ আয়াতে এমন পোশাকের কথা আছে যা তোমাদের গরম থেকে বাঁচায়, শীতের কথা আর বলা হয়নি, কারণ শ্রোতা তা জানে। এই পাঠে সংলগ্ন ভূখণ্ড হলো শহর আর আবাদি জমি। আর যা সংলগ্ন নয়, তা মরুভূমি আর অনাবাদি এলাকা।"
+          },
+          {
+            "en": "His second question returns to the plain sense: villages close together, one soil, one water, crops and gardens in them, and then the fruit differs, sweet here and sour there. Even one branch of one tree, he notes, may carry fruit that differs in size, colour and taste, though sun and moon spread over all of it alike. Ibn Kathir widens the soil itself: red, white, yellow and black ground, stony and soft, sandy, thick and thin, all of it lying side by side.",
+            "bn": "দ্বিতীয় মাসআলায় তিনি ফিরে আসেন সরল অর্থে। কাছাকাছি কয়েকটি জনপদ, মাটি এক, পানি এক, সেখানে ফসল আর বাগান। তারপর ফলে দেখা দেয় তফাত, কোথাও মিষ্টি, কোথাও টক। কুরতুবী আরও লক্ষ করেন, একই গাছের একই ডালের ফলও আকারে, রঙে আর স্বাদে আলাদা হতে পারে, যদিও সূর্য আর চাঁদ সবটার উপর সমানভাবে ছড়িয়ে থাকে। ইবন কাসীর মাটিকেই আরও বিস্তৃত করে দেখান: লাল, সাদা, হলুদ, কালো মাটি, পাথুরে আর নরম, বালুময়, পুরু আর পাতলা। আর সবই পড়ে আছে পাশাপাশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inside the Garden or Beside It",
+          "bn": "শস্য বাগানের ভেতরে, না পাশে"
+        },
+        "p": [
+          {
+            "en": "Wa jannatun min a'nabin wa zar'un wa nakhilun: and gardens of grapevines, and crops, and palms. At-Tabari reports a difference in the case of the last two words. The general readers of Madina and Kufa read zar'in wa nakhilin in the genitive, joining them to the grapes, so that the gardens are of vines, crops and palms. Some readers of Basra read zar'un wa nakhilun in the nominative, joining them to the gardens, so that the land holds gardens of vines and, besides them, crops and palms.",
+            "bn": "ওয়া জান্নাতুম মিন আ'নাবিও ওয়া যার'উও ওয়া নাখীল: আর আঙ্গুরের বাগান, শস্য আর খেজুরগাছ। শেষ দুটি শব্দের বিভক্তি নিয়ে পাঠের ভিন্নতার কথা জানান তাবারী। মদীনা ও কূফার অধিকাংশ কারী পড়েছেন যার'ইন ওয়া নাখীলিন, যের দিয়ে, আঙ্গুরের সঙ্গে জুড়ে। তাহলে বাগানগুলো আঙ্গুরের, শস্যের আর খেজুরের। বসরার কিছু কারী পড়েছেন যার'উন ওয়া নাখীলুন, পেশ দিয়ে, বাগানের সঙ্গে জুড়ে। তাহলে জমিনে আছে আঙ্গুরের বাগান, আর তার পাশাপাশি শস্য ও খেজুরগাছ।"
+          },
+          {
+            "en": "Al-Qurtubi names the nominative readers as Ibn Kathir (the reader, not the commentator), Abu 'Amr and Hafs, with the rest in the genitive; al-Baghawi adds Ya'qub to the nominative. The Arabic above, in the reading of Hafs, is nominative. At-Tabari will not set one against the other: both are well known and close in meaning, and whoever reads either is right, since crops and palms in a garden are in the land, and land that holds them is a garden.",
+            "bn": "কুরতুবী জানান, পেশ দিয়ে পড়েছেন ইবন কাসীর (তাফসীরকার নন, কারী), আবু আমর ও হাফস, বাকিরা যের দিয়ে। বাগাভী পেশের পাঠকদের মধ্যে ইয়াকুবের নামও যোগ করেন। উপরে দেওয়া আরবি পাঠ হাফসের, সেখানে পেশই আছে। তাবারী একটিকে অন্যটির বিপরীতে দাঁড় করান না। দুটিই প্রসিদ্ধ, অর্থও কাছাকাছি, যেটিই পড়া হোক, ঠিক। কারণ বাগানে থাকা শস্য আর খেজুরগাছ জমিনেই থাকে, আর যে জমিনে এগুলো থাকে তা-ই বাগান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Trunks From a Single Root",
+          "bn": "এক শিকড়ে অনেক কাণ্ড"
+        },
+        "p": [
+          {
+            "en": "Sinwanun wa ghayru sinwan: palms that grow in clusters and palms that do not. At-Tabari explains sinwan as the plural of sinw, palms that one root gathers together. The plural and the dual share one spelling, he notes, and differ only in the ending of the nun, which in the dual is always kasra and in the plural takes every case; qinwan, from qinw, works the same way. Al-Baghawi and al-Qurtubi give the same rule.",
+            "bn": "সিনওয়ানুও ওয়া গাইরু সিনওয়ান: যে খেজুরগাছ গুচ্ছ হয়ে জন্মায়, আর যা তা নয়। তাবারী বলেন, সিনওয়ান হলো সিনও-এর বহুবচন, অর্থাৎ একটি মূল যে খেজুরগাছগুলোকে একসঙ্গে ধরে রাখে। তিনি দেখান, বহুবচন আর দ্বিবচনের বানান একই। তফাত শুধু শেষের নূনে: দ্বিবচনে তা সব অবস্থায় যের পায়, বহুবচনে বাক্যের অবস্থান অনুযায়ী বদলায়। কিনওয়ান, যার একবচন কিনও, ঠিক এভাবেই চলে। বাগাভী আর কুরতুবীও একই নিয়ম দেন।"
+          },
+          {
+            "en": "At-Tabari gathers the early interpreters on the sense. Al-Bara' ibn 'Azib, in several chains: sinwan is the gathered, ghayr sinwan the scattered; in one wording, two, three or four palms whose root is one. Ibn 'Abbas: a palm from whose root other palms come out, some bearing and some not, one root and separate heads. Qatada: two or three palms, roots one, branches many. Ibn Kathir widens it beyond palms: roots gathered in one place of growth, as with pomegranate and fig, while ghayr sinwan stands on its own root, like most trees.",
+            "bn": "অর্থ নিয়ে প্রথম যুগের ব্যাখ্যাকারদের বক্তব্য একত্র করেন তাবারী। বারা ইবন আযিব (রাঃ) থেকে কয়েকটি সূত্রে: সিনওয়ান মানে যা একত্রে, গাইরু সিনওয়ান মানে যা আলাদা। এক বর্ণনায় আছে, দুই, তিন বা চারটি খেজুরগাছ, যাদের মূল এক। ইবন আব্বাস (রাঃ) বলেন, এমন খেজুরগাছ যার মূল থেকে আরও গাছ বের হয়। কোনোটায় ফল ধরে, কোনোটায় ধরে না। মূল এক, মাথা আলাদা। কাতাদার কথায়: দুটি বা তিনটি গাছ, মূল একটাই, ডালপালা নানা দিকে। ইবন কাসীর একে খেজুরের বাইরেও নিয়ে যান। এক জায়গা থেকে একসঙ্গে ওঠা মূল, যেমন ডালিম আর ডুমুর। আর গাইরু সিনওয়ান নিজের আলাদা মূলের উপর দাঁড়ায়, বেশির ভাগ গাছের মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Uncle Grown Beside a Father",
+          "bn": "বাবার পাশে বেড়ে ওঠা চাচা"
+        },
+        "p": [
+          {
+            "en": "The commentators tie the word to a saying of the Prophet ﷺ. Ibn Kathir writes that from this sense a man's paternal uncle is called the sinw of his father, and cites the sound hadith in which he ﷺ said to 'Umar: did you not realise that a man's uncle is the sinw of his father? Al-Baghawi says it was said about al-'Abbas. Al-Qurtubi, citing an-Nahhas, gives the root sense: the sinw is the like.",
+            "bn": "শব্দটিকে তাফসীরকারেরা নবী ﷺ-এর একটি বাণীর সঙ্গে মেলান। ইবন কাসীর লেখেন, এই অর্থ থেকেই মানুষের চাচাকে বলা হয় তার বাবার সিনও। প্রমাণ হিসেবে আনেন সহীহ হাদীস, যেখানে নবী ﷺ উমর (রাঃ)-কে বলেছিলেন: তুমি কি টের পাওনি যে মানুষের চাচা তার বাবার সিনও? বাগাভী জানান, কথাটি আব্বাস (রাঃ)-এর ব্যাপারে বলা। নাহহাসের বরাতে কুরতুবী শব্দের মূল অর্থ দেন: সিনও মানে সমতুল্য।"
+          },
+          {
+            "en": "Muslim records it from Abu Hurayra in his Sahih: the Messenger of Allah ﷺ sent 'Umar to collect the sadaqa, and it was said that Ibn Jamil, Khalid ibn al-Walid and al-'Abbas, the uncle of the Messenger of Allah ﷺ, had refused. He ﷺ said: \"Ibn Jamil resents nothing except that he was poor and Allah made him rich. As for Khalid, you wrong Khalid; he has set aside his armour and equipment in the path of Allah. As for al-'Abbas, it is on me, and as much again with it.\" Then he said: \"'Umar, did you not realise that a man's uncle is the sinw of his father?\"",
+            "bn": "মুসলিম তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন: রাসূলুল্লাহ ﷺ উমর (রাঃ)-কে সদকা আদায়ে পাঠালেন। তখন বলা হলো, ইবন জামীল, খালিদ ইবন ওয়ালীদ আর রাসূলুল্লাহ ﷺ-এর চাচা আব্বাস (রাঃ) দেননি। তিনি ﷺ বললেন: \"ইবন জামীলের অসন্তোষের কারণ শুধু এটুকু যে সে গরিব ছিল, আল্লাহ তাকে ধনী করেছেন। আর খালিদের ব্যাপারে, তোমরা খালিদের উপর অন্যায় করছ, সে তো তার বর্ম আর যুদ্ধসামগ্রী আল্লাহর পথে আটকে রেখেছে। আর আব্বাসের ব্যাপারে, সেটা আমার দায়িত্ব, সঙ্গে আরও সমপরিমাণ।\" তারপর বললেন: \"উমর, তুমি কি টের পাওনি যে মানুষের চাচা তার বাবার সিনও?\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Watered Alike, Ranked Apart",
+          "bn": "পানি এক, মর্যাদা ভিন্ন"
+        },
+        "p": [
+          {
+            "en": "Yusqa bi-ma'in wahid: watered with one water. Mujahid and ad-Dahhak, in at-Tabari, say the water of the sky, the rain. The readers split again on the verb. Al-Qurtubi gives yusqa, masculine, to 'Asim and Ibn 'Amir, with al-Baghawi adding Ya'qub: all of that is watered. The rest read tusqa, feminine, for the gardens. Al-Baghawi notes the clue that follows, ba'daha, \"some of them\", in the feminine, not ba'dahu. At-Tabari prefers tusqa, while saying the other is not ruled out.",
+            "bn": "ইউসকা বিমাইও ওয়াহিদ: একই পানিতে সিক্ত। তাবারীর বর্ণনায় মুজাহিদ আর দাহহাক বলেন, এটি আকাশের পানি, বৃষ্টি। ক্রিয়াটি নিয়ে কারীদের মধ্যে আবারও পাঠভেদ আছে। কুরতুবীর বর্ণনায় আসিম ও ইবন আমির পড়েছেন ইউসকা, পুংলিঙ্গে। বাগাভী এই দলে ইয়াকুবকেও যোগ করেন। অর্থ: এর সবটাই সিক্ত হয়। বাকিরা পড়েছেন তুসকা, স্ত্রীলিঙ্গে, বাগানগুলোর কথা ভেবে। বাগাভী দেখান, পরে আসা শব্দটিই এর ইঙ্গিত দেয়: বা'দাহা, স্ত্রীলিঙ্গে, বা'দাহু নয়। তাবারী তুসকা পছন্দ করেন, তবে বলেন অন্য পাঠটিও অচল নয়।"
+          },
+          {
+            "en": "Wa nufaddilu ba'daha 'ala ba'din fi al-ukul: and We make some of them excel others in fruit. This time at-Tabari's choice runs the other way. He says the general readers of Makka, Madina and Basra, with some of Kufa, read nufaddilu, \"We favour\"; the general readers of Kufa read yufaddilu, \"He favours\", and al-Qurtubi and al-Baghawi name Hamza and al-Kisa'i. At-Tabari calls both widespread with a single meaning, yet he prefers yufaddilu, because the passage opened with Allah alladhi rafa'a al-samawat in 13:2. Al-Qurtubi and al-Baghawi tie it back to yudabbiru and yufassilu there.",
+            "bn": "ওয়া নুফাদ্দিলু বা'দাহা আলা বা'দিন ফিল উকুল: আর ফলে আমি এদের কতককে কতকের উপর শ্রেষ্ঠত্ব দিই। এবার তাবারীর পছন্দ যায় উল্টো দিকে। তিনি জানান, মক্কা, মদীনা ও বসরার অধিকাংশ কারী এবং কূফার কয়েকজন পড়েছেন নুফাদ্দিলু, \"আমি শ্রেষ্ঠত্ব দিই\"। কূফার অধিকাংশ কারী পড়েছেন ইউফাদ্দিলু, \"তিনি শ্রেষ্ঠত্ব দেন\"। কুরতুবী ও বাগাভী এখানে হামযা ও কিসাঈর নাম বলেন। তাবারীর মতে দুটিই ব্যাপক প্রচলিত, অর্থও এক। তবু তিনি ইউফাদ্দিলু পছন্দ করেন। কারণ ১৩:২ আয়াতে আলোচনা শুরু হয়েছে আল্লাহুল্লাযী রাফা'আস সামাওয়াত দিয়ে। কুরতুবী ও বাগাভী একে মিলিয়ে দেন সেখানকার ইউদাব্বিরু আর ইউফাসসিলু ক্রিয়ার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Best Dates and the Poorest",
+          "bn": "সেরা খেজুর, নিকৃষ্ট খেজুর"
+        },
+        "p": [
+          {
+            "en": "Al-ukul, al-Qurtubi says, is the fruit. At-Tabari draws the meaning together: gardens of vines, crops and palms, clustered and single, are watered with one sweet water, and Allah makes their tastes differ, so that this is sweet and that is sour. Ibn 'Abbas, in his report, names al-Farisi and ad-daqal, the sweet and the sour. The editor's note in the printed at-Tabari explains ad-daqal as the poorest kind of date.",
+            "bn": "কুরতুবী বলেন, উকুল মানে ফল। তাবারী অর্থটাকে এক জায়গায় গুছিয়ে আনেন। আঙ্গুর, শস্য আর খেজুরের বাগান, গুচ্ছ হয়ে ওঠা গাছ আর একা গাছ, সবই একই মিঠা পানিতে সিক্ত হয়। আর আল্লাহ এদের স্বাদে তফাত করে দেন, ফলে এটা মিষ্টি, ওটা টক। ইবন আব্বাস (রাঃ)-এর বর্ণনায় নাম আসে ফারিসি আর দাকাল খেজুরের, সঙ্গে মিষ্টি আর টকের। তাবারীর মুদ্রিত সংস্করণের সম্পাদকের টীকা বলে, দাকাল সবচেয়ে নিম্নমানের খেজুর।"
+          },
+          {
+            "en": "The same four words also come as the Prophet's own comment. At-Tirmidhi records from Abu Hurayra that the Prophet ﷺ said of this phrase: \"The daqal, the Farisi, the sweet and the sour.\" At-Tirmidhi graded it hasan gharib, and Ibn Kathir cites it with that grading. The interpretation does not rest on this report alone, since Ibn 'Abbas's report says the same thing.",
+            "bn": "এই চারটি শব্দ নবী ﷺ-এর নিজের ব্যাখ্যা হিসেবেও এসেছে। তিরমিযী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, এই অংশ সম্পর্কে নবী ﷺ বলেছেন: \"দাকাল, ফারিসি, মিষ্টি আর টক।\" তিরমিযী একে হাসান গরীব বলেছেন, আর ইবন কাসীর সেই মান উল্লেখ করেই এটি এনেছেন। ব্যাখ্যা অবশ্য শুধু এ বর্ণনার উপর দাঁড়িয়ে নেই, কারণ ইবন আব্বাস (রাঃ)-এর বর্ণনাতেও একই কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Clay, Many Hearts",
+          "bn": "মাটি এক, অন্তর অনেক"
+        },
+        "p": [
+          {
+            "en": "Several early voices read the verse as a likeness for people. Mujahid, in at-Tabari, says of three palms on one root: like three sons of one mother and father who differ in deeds, as the fruit of those three palms differs. In another report he says: like the righteous and the corrupt among the children of Adam, whose father is one. Al-Qurtubi cites an-Nahhas and al-Bukhari for the same comparison, and al-Baghawi carries Mujahid's version.",
+            "bn": "প্রথম যুগের কয়েকজন আয়াতটিকে মানুষের উপমা হিসেবে পড়েছেন। তাবারীর বর্ণনায় মুজাহিদ এক মূলের তিনটি খেজুরগাছ সম্পর্কে বলেন: এরা যেন একই মা-বাবার তিন ছেলে, আমলে যারা একে অন্যের চেয়ে আলাদা, ঠিক যেমন ওই তিন গাছের ফল আলাদা। আরেক বর্ণনায় তিনি বলেন: আদম-সন্তানদের মধ্যে নেককার আর বদকারের মতো, যাদের বাবা একজনই। কুরতুবী একই তুলনা আনেন নাহহাস ও বুখারীর বরাতে, আর বাগাভী আনেন মুজাহিদের ভাষ্যটি।"
+          },
+          {
+            "en": "Al-Hasan, as at-Tabari and al-Baghawi give him, makes it a parable for the hearts of the children of Adam. The earth was one clay in the hand of the Most Merciful; He spread it, and it became neighbouring tracts. Rain comes down on them: this one brings out its flowers, trees and fruit, and that one brings out its salt and its waste, though both drink one water. In at-Tabari's wording he adds: had the water been salty, it would be said the salt came from the water.",
+            "bn": "তাবারী ও বাগাভীর বর্ণনায় হাসান একে আদম-সন্তানদের অন্তরের উপমা বানান। জমিন ছিল রহমানের হাতে এক টুকরো কাদামাটি। তিনি তা বিছিয়ে দিলেন, তা হয়ে গেল পাশাপাশি অনেক ভূখণ্ড। আকাশ থেকে তার উপর পানি নামে। এক টুকরো বের করে তার ফুল, গাছ আর ফল। আরেক টুকরো বের করে তার লবণ, লোনা আস্তর আর আবর্জনা। অথচ দুটোই পান করে একই পানি। তাবারীর ভাষ্যে হাসান আরও বলেন: পানি যদি লোনা হতো, তবে বলা যেত, লবণ এসেছে পানি থেকেই।"
+          },
+          {
+            "en": "So too people, he goes on: created from Adam (AS), a reminder comes down to them from the sky, and some hearts soften, grow humble and submit, while others harden, and turn to play and heedlessness. Then he swears that no one sits with the Qur'an except that he rises from it with increase or with loss, and recites 17:82: We send down of the Qur'an what is healing and mercy for the believers, and it adds to the wrongdoers nothing but loss.",
+            "bn": "মানুষও তেমনই, হাসান বলে চলেন। সবাই আদম (আঃ) থেকে সৃষ্ট। আকাশ থেকে তাদের কাছে উপদেশ নামে। তখন কিছু অন্তর নরম হয়, বিনয়ী হয়, মাথা নত করে। আর কিছু অন্তর শক্ত হয়ে যায়, খেলা আর গাফলতিতে ডুবে থাকে। তারপর তিনি কসম করে বলেন, যে-ই কুরআনের কাছে বসে, সে উঠে আসে হয় কিছু বাড়িয়ে, নয়তো কিছু হারিয়ে। এরপর তিলাওয়াত করেন ১৭:৮২: আমি কুরআনে এমন কিছু নাযিল করি যা মুমিনদের জন্য শিফা ও রহমত, আর তা জালিমদের ক্ষতি ছাড়া আর কিছুই বাড়ায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Difference Comes From",
+          "bn": "তফাতটা আসে কোথা থেকে"
+        },
+        "p": [
+          {
+            "en": "The commentators press the argument the verse closes on. Ibn Kathir: all this variety, beyond counting, draws on one source, water, and it is among the greatest proofs of the Maker who chooses, who by His power set things apart and created them as He wills. Al-Qurtubi: by saying watered with one water, Allah drew attention to the fact that all of it is by His will alone; were water, soil and nature the cause, no difference would arise. As-Sa'di asks: is this variety in the things themselves, or is it the decree of the Mighty, the Merciful?",
+            "bn": "আয়াত যে যুক্তিতে শেষ হয়, তাফসীরকারেরা সেটাকে আরও স্পষ্ট করেন। ইবন কাসীর বলেন, অগণিত এই বৈচিত্র্য একই উৎস থেকে রস টানে, সেটা পানি। আর এটি সেই স্রষ্টার সবচেয়ে বড় প্রমাণগুলোর একটি, যিনি নিজ ইচ্ছায় করেন, নিজ কুদরতে জিনিসে জিনিসে তফাত গড়েন, যেমন চান তেমন সৃষ্টি করেন। কুরতুবী বলেন, একই পানিতে সিক্ত কথাটি দিয়ে আল্লাহ জানিয়ে দিলেন যে এ সবই কেবল তাঁর ইচ্ছায়। পানি, মাটি আর প্রকৃতিই যদি কারণ হতো, তফাত দেখা দিত না। সা'দী প্রশ্ন রাখেন: এই বৈচিত্র্য কি জিনিসগুলোর নিজের ভেতরে, নাকি মহাপরাক্রমশালী, পরম দয়ালুর নির্ধারণ?"
+          },
+          {
+            "en": "At-Tabari carries the lesson from the fields to people. In Allah's making these neighbouring tracts, their gardens and their crops differ, he says, there is a clear proof and a lesson for those who reason: the One who set them apart in this way is the One who sets His creatures apart in what He apportions them of guidance and straying, of being helped and being left to themselves. Had He willed, he adds, He would have made them all equal, as He could have made equal every fruit of a garden that drinks one water.",
+            "bn": "তাবারী শিক্ষাটাকে মাঠ থেকে নিয়ে আসেন মানুষের কাছে। তিনি বলেন, পাশাপাশি এসব ভূখণ্ড, তাদের বাগান আর ফসলে আল্লাহ যে তফাত গড়েছেন, তাতে বুদ্ধিমানদের জন্য আছে স্পষ্ট প্রমাণ আর শিক্ষা। যিনি এগুলোকে এভাবে আলাদা করেছেন, তিনিই তাঁর সৃষ্টির মধ্যে তফাত গড়েন হিদায়াত আর পথভ্রষ্টতা বণ্টনে, তাওফীক দেওয়া আর সাহায্য তুলে নেওয়ায়। তাবারী আরও বলেন, তিনি চাইলে সবাইকে সমান করে দিতেন, যেমন চাইলে একই পানি পান করা বাগানের সব ফলকে সমান করে দিতে পারতেন।"
+          },
+          {
+            "en": "And who are the people who reason? Al-Qurtubi and al-Muyassar: whoever has a heart that understands from Allah, and al-Muyassar adds, His command and His prohibition. As-Sa'di: people whose minds guide them to what benefits them, while those who turn away wander in their own darkness. The verse that follows, 13:5, records the people who ask whether, once they are dust, they will be made anew. The argument of one water and many fruits stands directly before their question.",
+            "bn": "তাহলে বুদ্ধি খাটানো মানুষ কারা? কুরতুবী ও মুয়াসসার বলেন: যার এমন অন্তর আছে, যা আল্লাহর কাছ থেকে বোঝে। মুয়াসসার যোগ করে, তাঁর আদেশ আর নিষেধ বোঝে। সা'দীর ভাষায়, যাদের বুদ্ধি তাদের উপকারের দিকে পথ দেখায়। আর যারা মুখ ফিরিয়ে নেয়, তারা নিজেদের অন্ধকারেই ঘুরপাক খায়। পরের আয়াত, ১৩:৫, সেই লোকদের কথা জানায় যারা প্রশ্ন তোলে, মাটি হয়ে যাওয়ার পর কি তাদের নতুন করে সৃষ্টি করা হবে? একই পানি আর নানা ফলের যুক্তিটি ঠিক তাদের সেই প্রশ্নের আগেই দাঁড়িয়ে আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "13:11": {
     "sections": [
       {

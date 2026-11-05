@@ -21951,6 +21951,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard your word, because one old lie can make a true report hard to believe; and when loss returns, meet it with patience again and hope for all you have lost.",
     "lessonBn": "নিজের কথার আমানত রক্ষা করুন, কারণ একটি পুরোনো মিথ্যা সত্য খবরকেও অবিশ্বাস্য করে তোলে। আর ক্ষতি আবার এলে আবারও সবর করুন, আর যা হারিয়েছেন, তার সবটার জন্যই আশা রাখুন।"
+  },
+  "13:4": {
+    "reflectionEn": "Two plots share a boundary. The same rain falls on both and the same sun crosses them, yet one fills with vines, grain and palms while the other gives back only a crust of salt. Even on the good ground, palms that rise from one root bear dates that differ, sweet beside sour, fine beside poor. The verse does not leave this as a farmer's puzzle. It hands it to a people who reason: if one water brings out so many different results, the difference was never in the water. Someone wills it. Then the question turns on me. The same verses that reach my neighbour reach me. What kind of ground am I giving them?",
+    "reflectionBn": "দুটি জমির মাঝে একটাই আল। একই বৃষ্টি দুটোতেই পড়ে, একই সূর্য দুটোর উপর দিয়ে যায়। অথচ একটায় ভরে ওঠে আঙ্গুরলতা, শস্য আর খেজুরগাছ, অন্যটা ফিরিয়ে দেয় শুধু লবণের সাদা আস্তর। ভালো জমিতেও এক শিকড় থেকে ওঠা খেজুরগাছের ফল এক রকম হয় না। পাশাপাশি মিষ্টি আর টক, উৎকৃষ্ট আর নিকৃষ্ট। আয়াতটি একে চাষির ধাঁধা বানিয়ে রেখে দেয় না। তুলে দেয় বুদ্ধি খাটানো মানুষের হাতে: একই পানি থেকে যদি এত রকম ফল বের হয়, তবে পার্থক্যটা পানিতে ছিল না। কেউ একজন তা চান বলেই হয়। তারপর প্রশ্নটা ঘুরে আসে আমার দিকে। যে আয়াত আমার প্রতিবেশীর কাছে পৌঁছায়, সেই আয়াতই আমার কাছেও আসে। আমি তাকে কেমন মাটি দিচ্ছি?",
+    "pointsEn": [
+      "Which verse have I heard many times without it ever growing anything in me, and what in my own ground might be keeping it out?",
+      "When two people in one family turn out differently, do I blame the upbringing alone, or do I also remember who distributes guidance?",
+      "What in my week, my food, my health, my work, came to me from one source and turned out better than I deserved?",
+      "When I see good fruit in someone raised beside me, do I feel envy or do I see a sign?",
+      "What would it look like this week to sit with the Qur'an and rise from it with more than I brought?"
+    ],
+    "pointsBn": [
+      "কোন আয়াত আমি বহুবার শুনেছি, অথচ আমার ভেতরে তা কিছুই জন্মায়নি? আমার নিজের মাটির কোন জিনিসটা তাকে ঢুকতে দিচ্ছে না?",
+      "এক পরিবারের দুজন মানুষ দুই রকম হয়ে উঠলে আমি কি শুধু লালনপালনকে দায়ী করি, নাকি এটাও মনে রাখি যে হিদায়াত কে বণ্টন করেন?",
+      "এ সপ্তাহের খাবার, স্বাস্থ্য, কাজ, এমন কী আছে যা একই উৎস থেকে এসেও আমার প্রাপ্যের চেয়ে ভালো হয়ে এসেছে?",
+      "আমার পাশে বেড়ে ওঠা কারও মধ্যে ভালো ফল দেখলে আমার মনে কি হিংসা জাগে, নাকি আমি সেখানে একটা নিদর্শন দেখি?",
+      "এ সপ্তাহে কুরআনের কাছে বসে, যা নিয়ে বসেছিলাম তার চেয়ে বেশি নিয়ে উঠতে হলে আমাকে কী করতে হবে?"
+    ],
+    "lessonEn": "One water brings out sweet and sour from neighbouring ground; see the Maker's will in it, and tend your own heart so that the same guidance grows something good there.",
+    "lessonBn": "একই পানি পাশাপাশি জমি থেকে মিষ্টি আর টক দুই-ই বের করে। এর মধ্যে স্রষ্টার ইচ্ছা দেখুন, আর নিজের অন্তরের যত্ন নিন, যাতে একই হিদায়াত সেখানে ভালো কিছু জন্মায়।"
   }
 };
 
