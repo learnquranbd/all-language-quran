@@ -7327,6 +7327,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:191": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words After the Couple",
+          "bn": "দম্পতির গল্পের পর সাত শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse arrives straight after a story told without names. 7:189 describes a couple: a light pregnancy that grows heavy, and a joint prayer that if they are given a sound child they will be among the grateful. 7:190 says that when the child came they assigned partners to Him in what He had given, and it closes: exalted is Allah above what they associate. Then 7:191 asks, in seven Arabic words, do they associate with Him what creates nothing, while they themselves are created?",
+            "bn": "আয়াতটি আসে নামহীন এক গল্পের ঠিক পরে। ৭:১৮৯ এক দম্পতির কথা বলে। গর্ভ প্রথমে হালকা, পরে ভারী হয়, আর দুজনে মিলে দোয়া করে: সুস্থ সন্তান পেলে তারা কৃতজ্ঞদের দলে থাকবে। ৭:১৯০ জানায়, সন্তান আসার পর তিনি যা দিলেন তাতে তারা তাঁর শরীক বানাল। আয়াত শেষ হয় এ কথায়: তারা যা শরীক করে, আল্লাহ তার বহু ঊর্ধ্বে। এরপর ৭:১৯১ আরবিতে মাত্র সাতটি শব্দে প্রশ্ন তোলে: তারা কি তাঁর সঙ্গে এমন কিছুকে শরীক করে, যা কিছুই সৃষ্টি করে না, অথচ তারা নিজেরাই সৃষ্ট?"
+          },
+          {
+            "en": "Notice the grammar at the hinge. The couple of 7:190 are spoken of in the dual: ja'ala, the two of them made. The verb closing 7:190 and the verb opening 7:191 are plural, yushrikun, they associate. at-Tabari, on 7:190, takes that closing clause as a fresh sentence about the idol-worshippers of the Arabs, and quotes as-Suddi calling it a break from the passage about Adam (AS). From here to 7:198 the subject is the objects of worship, and 7:191 sets the first test.",
+            "bn": "জোড়ের জায়গাটার ব্যাকরণ খেয়াল করুন। ৭:১৯০-এর দম্পতির কথা এসেছে দ্বিবচনে: জাআলা, তারা দুজন বানাল। কিন্তু ৭:১৯০ যে ক্রিয়ায় শেষ হয় আর ৭:১৯১ যে ক্রিয়ায় শুরু হয়, দুটোই বহুবচন: ইউশরিকূন, তারা শরীক করে। তাবারী ৭:১৯০-এর আলোচনায় শেষ বাক্যটিকে আরবের মূর্তিপূজারীদের নিয়ে নতুন এক বাক্য ধরেন। সুদ্দীর উক্তিও তিনি আনেন, যিনি একে আদম (আঃ)-এর অংশ থেকে আলাদা হয়ে যাওয়া বলেছেন। এখান থেকে ৭:১৯৮ পর্যন্ত আলোচনার বিষয় উপাস্যরা, আর প্রথম পরীক্ষাটা দেয় ৭:১৯১।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made, and Never Making",
+          "bn": "নিজে সৃষ্ট, স্রষ্টা নয়"
+        },
+        "p": [
+          {
+            "en": "The verse turns on one root, kh-l-q, used twice and in opposite voices. Ma la yakhluqu shay'an: what does not create a thing, in the active. Wa hum yukhlaqun: while they are created, in the passive. al-Muyassar puts it in one line: do these polytheists associate in the worship of Allah His own creatures, which cannot create anything, and are rather themselves created? al-Qurtubi glosses the first half as worshipping what has no power to create anything, and the second simply: the idols are created.",
+            "bn": "আয়াতটি দাঁড়িয়ে আছে একটি ধাতুর উপর, খ-ল-ক, যা দুবার এসেছে দুই বিপরীত রূপে। মা লা ইয়াখলুকু শাইআন: যা কিছুই সৃষ্টি করে না, এখানে কর্তা হিসেবে। ওয়া হুম ইউখলাকূন: অথচ তাদের সৃষ্টি করা হয়, এখানে কর্ম হিসেবে। মুয়াসসার এক বাক্যে বলে দেয়: এই মুশরিকরা কি আল্লাহর ইবাদতে তাঁরই সৃষ্টিকে শরীক করে, যারা কিছু সৃষ্টি করতে পারে না, বরং নিজেরাই সৃষ্ট? কুরতুবী প্রথম অংশের অর্থ করেন, যা কোনো কিছু সৃষ্টি করার ক্ষমতা রাখে না তার ইবাদত করা। দ্বিতীয় অংশের অর্থ তাঁর কাছে সোজা: মূর্তিগুলো সৃষ্ট।"
+          },
+          {
+            "en": "Shay'an, a thing, is left without any qualifier, so nothing at all is excepted. as-Sa'di presses the point. They create nothing, not even the weight of an atom; they are themselves created; and they cannot push harm away from those who worship them, nor even from themselves. So how can they be taken as gods alongside Allah? His verdict: this is the most wrongful of wrongs and the most foolish of follies.",
+            "bn": "শাইআন, অর্থাৎ কোনো কিছু, শব্দটির সঙ্গে কোনো শর্ত জোড়া নেই, তাই কিছুই বাদ পড়ে না। সা'দী কথাটা আরও জোর দিয়ে বলেন। তারা কিছুই সৃষ্টি করে না, এক অণু পরিমাণও না। তারা নিজেরাই সৃষ্ট। যারা তাদের ইবাদত করে, তাদের উপর থেকে বিপদ সরাতে পারে না, নিজেদের উপর থেকেও না। তাহলে আল্লাহর সঙ্গে তাদের উপাস্য বানানো হয় কীভাবে? তাঁর রায়: এ হলো সবচেয়ে বড় জুলুম আর সবচেয়ে বড় নির্বুদ্ধিতা।"
+          },
+          {
+            "en": "at-Tabari draws out the principle the argument rests on. His paraphrase reads: do they associate in the worship of Allah, and worship alongside Him, what creates nothing, while Allah creates them and brings them into being? Then he states the conclusion as a rule: pure worship belongs to the Creator, not to the created. Whatever stands on the made side of the line cannot be moved across it by being honoured.",
+            "bn": "যে নীতির উপর যুক্তিটা দাঁড়িয়ে, তাবারী সেটা খুলে দেখান। তাঁর ব্যাখ্যায় আয়াতের অর্থ: তারা কি আল্লাহর ইবাদতে শরীক করে, তাঁর সঙ্গে এমন কিছুর ইবাদত করে, যা কিছুই সৃষ্টি করে না, অথচ আল্লাহই সেগুলো সৃষ্টি করেন ও অস্তিত্বে আনেন? তারপর তিনি সিদ্ধান্তটা নিয়মের মতো বলে দেন: খাঁটি ইবাদত স্রষ্টার, সৃষ্টির নয়। যা বানানো জিনিসের দিকে দাঁড়িয়ে আছে, সম্মান দেখিয়ে তাকে সীমার ওপারে নেওয়া যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ma for Stone, Hum for Persons",
+          "bn": "পাথরের জন্য মা, ব্যক্তির জন্য হুম"
+        },
+        "p": [
+          {
+            "en": "The idols are introduced with ma, the relative word used for things, and then referred to with hum, the pronoun of rational beings, with the plural ending of people on the verb. at-Tabari explains both halves. Ma came because what they worshipped was stone, wood or brass, things spoken of with ma and not man. Hum came because the statement concerns the polytheists' veneration of them, which is like people venerating each other.",
+            "bn": "মূর্তিগুলোর কথা প্রথমে এসেছে মা দিয়ে, যা জিনিসপত্রের বেলায় বলা হয়। পরে তাদের বোঝানো হয়েছে হুম দিয়ে, যা বিবেকবান সত্তার সর্বনাম, আর ক্রিয়াতেও আছে মানুষের বহুবচনের শেষাংশ। তাবারী দুটোরই ব্যাখ্যা দেন। মা এসেছে, কারণ তারা যার পূজা করত তা ছিল পাথর, কাঠ বা পিতল, যার কথা মা দিয়ে বলা হয়, মান দিয়ে নয়। হুম এসেছে, কারণ কথাটা মুশরিকদের সেগুলোকে সম্মান করা নিয়ে, আর সে সম্মান মানুষের পরস্পরকে সম্মান করার মতোই।"
+          },
+          {
+            "en": "al-Qurtubi gives a related reason. The verb took the waw and nun of rational plurals because the worshippers believed the idols could harm and benefit, so they were spoken of as people are spoken of. He points to two parallels: the sun and moon described as swimming each in an orbit, fi falakin yasbahun, in 21:33, and the ant who calls out, O ants, enter your dwellings, in 27:18.",
+            "bn": "কুরতুবী কাছাকাছি একটি কারণ বলেন। ক্রিয়াটিতে বিবেকবানদের বহুবচনের ওয়াও আর নূন এসেছে, কারণ পূজারীরা বিশ্বাস করত মূর্তি ক্ষতি ও উপকার করতে পারে। তাই তাদের কথা বলা হয়েছে মানুষের মতো করে। তিনি দুটি নজির দেখান। ২১:৩৩ আয়াতে সূর্য ও চাঁদ সম্পর্কে বলা হয়েছে, প্রত্যেকে নিজ কক্ষপথে সাঁতার কাটে, ফী ফালাকিন ইয়াসবাহূন। আর ২৭:১৮ আয়াতে পিঁপড়া ডেকে বলে, হে পিঁপড়ারা, নিজেদের ঘরে ঢুকে পড়ো।"
+          },
+          {
+            "en": "The pronoun therefore carries a quiet irony. The grammar accepts the worshippers' estimate of their idols for exactly as long as it takes to deny it: they, the ones you treat as persons, are themselves being made. Ibn Kathir's abridged commentary notes a similar treatment where 7:198 says you see them looking at you while they do not see, and explains that the idols were shaped like men with eyes drawn on them.",
+            "bn": "তাই সর্বনামটার ভেতরে চাপা একটা বিদ্রুপ আছে। পূজারীরা মূর্তিকে যে মর্যাদা দেয়, ব্যাকরণ সেটা মেনে নেয় ঠিক ততক্ষণ, যতক্ষণ তা খণ্ডন করতে লাগে। যাদের ব্যক্তির মতো দেখা হচ্ছে, তারাই তো সৃষ্ট। ইবন কাসীরের সংক্ষিপ্ত তাফসীর এমনই আরেকটি জায়গা দেখায়। ৭:১৯৮ বলে, তুমি দেখবে তারা তোমার দিকে তাকিয়ে আছে, অথচ তারা দেখে না। এর ব্যাখ্যায় বলা হয়েছে, মূর্তিগুলো মানুষের আকারে গড়া ছিল, চোখ আঁকা থাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Couple Is Meant",
+          "bn": "কোন দম্পতির কথা"
+        },
+        "p": [
+          {
+            "en": "Who were the couple of 7:189 and 7:190? The commentators disagree. at-Tabari, on 7:190, sets out two views. The first holds that the couple were Adam and Hawwa', and that the partners lay in the name given to the child, with reports through Samura ibn Jundab and Ibn 'Abbas. The second holds that a disbelieving man and woman among Adam's descendants are meant, who gave Allah partners from among the idols when they were given a child; this is reported from al-Hasan.",
+            "bn": "৭:১৮৯ ও ৭:১৯০ আয়াতের দম্পতি কারা? তাফসীরকারেরা একমত নন। তাবারী ৭:১৯০-এর আলোচনায় দুটি মত তুলে ধরেন। এক মতে দম্পতি হলেন আদম ও হাওয়া, আর শরীক করা হয়েছিল সন্তানের নামে। এ মতের পক্ষে সামুরা ইবন জুনদুব ও ইবন আব্বাস (রাঃ) থেকে বর্ণনা আছে। অন্য মতে এখানে আদমের বংশধরদের মধ্যকার এক কাফির পুরুষ ও নারীর কথা বলা হয়েছে, যারা সন্তান পেয়ে দেবদেবী থেকে আল্লাহর শরীক বানিয়েছিল। এ মত হাসান থেকে বর্ণিত।"
+          },
+          {
+            "en": "at-Tabari prefers the first, since the authorities of interpretation agree on it, and specifies: partners in the name, not in worship. He raises the obvious objection himself. If it was only a name, why does 7:191 condemn the worship of what creates nothing? His answer is that the account of the couple ends at ja'ala lahu shuraka'a, and that exalted is Allah above what they associate opens a new sentence about the Arab idol-worshippers. al-Baghawi, on the same view, states that Adam was a prophet protected from shirk.",
+            "bn": "তাবারী প্রথম মতটিকে অগ্রাধিকার দেন, কারণ তাঁর ভাষায় ব্যাখ্যার নির্ভরযোগ্য আলেমরা এ ব্যাপারে একমত। তবে তিনি কী বোঝাচ্ছেন, সে ব্যাপারে সাবধান: শরীক ছিল নামে, ইবাদতে নয়। স্পষ্ট আপত্তিটা তিনি নিজেই তোলেন। ব্যাপারটা যদি শুধু নামের হয়, তবে ৭:১৯১ কেন যা কিছুই সৃষ্টি করে না তার ইবাদতের নিন্দা করছে? তাঁর জবাব হলো, দম্পতির বিবরণ শেষ হয়েছে জাআলা লাহূ শুরাকাআ পর্যন্ত। আর তারা যা শরীক করে আল্লাহ তার ঊর্ধ্বে, এ কথা দিয়ে শুরু হয়েছে আরবের মূর্তিপূজারীদের নিয়ে নতুন বাক্য। বাগাভী একই মত ধরে বলেন, আদম (আঃ) ছিলেন শিরক থেকে সুরক্ষিত একজন নবী।"
+          },
+          {
+            "en": "Others take the second side. Ibn Kathir declares himself of al-Hasan's view: the passage does not mean Adam and Hawwa', but the polytheists among their offspring, and he calls al-Hasan's explanation among the best. as-Sa'di reads a move from the individual pair to the human kind, since such partnership is widely found in the descendants. al-Qurtubi reports a group who refer it to the human kind, calls that the view to rely on, and points to the plural yushrikun at the close of 7:190, where a dual might have been expected.",
+            "bn": "অন্যরা দ্বিতীয় মতের দিকে যান। ইবন কাসীর নিজেকে হাসানের মতের অনুসারী বলে ঘোষণা দেন। তাঁর মতে এখানে আদম ও হাওয়া উদ্দেশ্য নন, উদ্দেশ্য তাঁদের বংশধরদের মধ্যকার মুশরিকরা। হাসানের ব্যাখ্যাকে তিনি সেরা ব্যাখ্যাগুলোর একটি বলেন। সা'দীর পাঠে কথা প্রথম জোড়া থেকে সরে গেছে গোটা মানবজাতির দিকে, কারণ বংশধরদের মধ্যে এমন শিরক প্রচুর দেখা যায়। কুরতুবী একদল আলেমের কথা আনেন, যারা একে মানবজাতির দিকে ফেরান। এটাকেই তিনি নির্ভর করার মতো মত বলেন। প্রমাণ হিসেবে দেখান, ৭:১৯০-এর শেষে দ্বিবচন না এসে বহুবচনে এসেছে ইউশরিকূন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an divides the verse: its opening refers to Adam and Hawwa', and the rest to later generations who were ungrateful, on the authority of Ibn 'Abbas as recorded in al-Durr al-Manthur. al-Qurtubi also quotes al-Husayn ibn al-Fadl, that the second reading is preferred by people of reflection, because the first attaches grave things to Allah's prophet Adam. On either side, the plural question of 7:191 falls on those who worship idols. This article reports the disagreement and takes no side in it.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে ভাগ করে দেখে। শুরুর অংশ আদম ও হাওয়ার কথা, বাকিটা পরের প্রজন্মের, যারা অকৃতজ্ঞ হয়েছিল। এ ব্যাখ্যার ভিত্তি হিসেবে তারা দুররুল মানসূরে বর্ণিত ইবন আব্বাস (রাঃ)-এর উক্তি দেখায়। কুরতুবী হুসাইন ইবনুল ফাদলের কথাও আনেন: চিন্তাশীলদের কাছে দ্বিতীয় ব্যাখ্যাই বেশি পছন্দের, কারণ প্রথমটি আল্লাহর নবী আদম (আঃ)-এর উপর গুরুতর কথা চাপায়। যে মতই ধরা হোক, ৭:১৯১-এর বহুবচনের প্রশ্ন গিয়ে পড়ে মূর্তিপূজারীদের উপর। এই লেখা মতভেদটা তুলে ধরে, কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The 'Abd al-Harith Report",
+          "bn": "আবদুল হারিস নামের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The report behind the first reading is in Jami' at-Tirmidhi, 3077, from Samura ibn Jundab, that the Prophet ﷺ said: \"When Hawwa became pregnant, Iblis came to her, and her children would not live (after birth), so he said: 'Name him 'Abdul-Harith.' So she named him 'Abdul-Harith and he lived. So that is among the inspirations of Ash-Shaitan and his commands.\" It is attached to 7:189 and 7:190, not to the verse studied here, and no tafsir fetched for 7:191 attaches a sound hadith to it.",
+            "bn": "প্রথম মতের পেছনের বর্ণনাটি আছে জামি তিরমিযীতে, ৩০৭৭ নম্বরে, সামুরা ইবন জুনদুব (রাঃ) থেকে। নবী ﷺ বলেছেন: \"হাওয়া যখন গর্ভবতী হলেন, ইবলীস তাঁর কাছে এল। তাঁর সন্তানরা জন্মের পর বাঁচত না। সে বলল, তার নাম রাখুন আবদুল হারিস। তিনি তার নাম রাখলেন আবদুল হারিস, আর সে বেঁচে রইল। এটা ছিল শয়তানের প্ররোচনা ও তার নির্দেশের অংশ।\" বর্ণনাটি ৭:১৮৯ ও ৭:১৯০ আয়াতের সঙ্গে যুক্ত, এখানে আলোচিত আয়াতের সঙ্গে নয়। ৭:১৯১-এর জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এ আয়াতের সঙ্গে কোনো সহীহ হাদীস জোড়েনি।"
+          },
+          {
+            "en": "at-Tirmidhi's own grading is hasan gharib. He adds that he knows it as the Prophet's words only through 'Umar ibn Ibrahim from Qatada, and that some narrated it from 'Abd as-Samad without raising it to the Prophet. Ibn Kathir calls it defective in three ways: Abu Hatim said 'Umar ibn Ibrahim is not taken as proof; it is also narrated as Samura's own words; and al-Hasan, who is in its chain, explained the verse otherwise, which he would not have done had he held it from the Prophet.",
+            "bn": "তিরমিযী নিজে একে হাসান গরীব বলেছেন। তিনি আরও বলেন, নবী ﷺ-এর বাণী হিসেবে এটি তিনি জানেন শুধু উমর ইবন ইবরাহীমের সূত্রে, কাতাদা থেকে। কেউ কেউ আবদুস সামাদ থেকে এটি বর্ণনা করেছেন নবী ﷺ পর্যন্ত না পৌঁছিয়ে। ইবন কাসীর একে তিনটি কারণে ত্রুটিপূর্ণ বলেন। এক, আবু হাতিম বলেছেন উমর ইবন ইবরাহীমকে দলিল হিসেবে নেওয়া যায় না। দুই, এটি সামুরার নিজের উক্তি হিসেবেও বর্ণিত। তিন, সনদে থাকা হাসান নিজেই আয়াতের অন্য ব্যাখ্যা দিয়েছেন। নবী ﷺ থেকে এটি তাঁর কাছে থাকলে তিনি তা ছেড়ে অন্য দিকে যেতেন না।"
+          },
+          {
+            "en": "Ibn Kathir adds that the reports from the Companions on this story appear to come from the People of the Book. al-Qurtubi says that the like of it is among the weak hadith in at-Tirmidhi and elsewhere, and that the Isra'iliyyat hold much with no firm footing. at-Tabari, on 7:191 itself, gives a different account from Ibn Zayd, in which the child was named 'Abd Shams, and Ibn Zayd asks: does the sun create anything, that it should have a servant? The editor of at-Tabari's printed text notes that he could not find the saying of the Prophet ﷺ quoted at its end.",
+            "bn": "ইবন কাসীর আরও বলেন, এ কাহিনি নিয়ে সাহাবীদের যেসব বর্ণনা আছে, সেগুলো দেখে মনে হয় আহলে কিতাব থেকে নেওয়া। কুরতুবী বলেন, এ ধরনের কথা তিরমিযী ও অন্যান্য গ্রন্থের দুর্বল হাদীসের মধ্যে পড়ে, আর ইসরাঈলী বর্ণনায় এমন অনেক কিছু আছে যার কোনো ভিত্তি নেই। তাবারী খোদ ৭:১৯১-এর আলোচনায় ইবন যায়দ থেকে ভিন্ন এক বিবরণ আনেন। সেখানে সন্তানের নাম রাখা হয় আবদ শামস, আর ইবন যায়দ প্রশ্ন করেন: সূর্য কি কিছু সৃষ্টি করে যে তার বান্দা থাকবে? তাবারীর মুদ্রিত সংস্করণের সম্পাদক জানান, এর শেষে নবী ﷺ-এর নামে যে উক্তি আছে, তা তিনি খুঁজে পাননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Carver and the Carving",
+          "bn": "যে খোদাই করে, যা খোদাই হয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a rebuke to those who worshipped rivals, idols and images alongside Allah, though these are created by Allah, owned and made, and own nothing of the matter. For the words they are themselves created he turns to Ibrahim (AS), who asked his people in 37:95 and 37:96 whether they worship what they carve, when Allah created them and what they make. The carver and the thing carved stand on the same side of the line.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন তিরস্কার হিসেবে, তাদের প্রতি যারা আল্লাহর সঙ্গে প্রতিদ্বন্দ্বী, মূর্তি আর প্রতিমার পূজা করত। অথচ এগুলো আল্লাহর সৃষ্টি, তাঁরই মালিকানাধীন, কারও হাতে গড়া, কোনো বিষয়ে এদের কোনো ক্ষমতা নেই। তারা নিজেরাই সৃষ্ট, এ কথার ব্যাখ্যায় তিনি ইবরাহীম (আঃ)-এর কাছে যান। ৩৭:৯৫ ও ৩৭:৯৬ আয়াতে তিনি নিজের কওমকে জিজ্ঞেস করেছিলেন: তোমরা কি তারই পূজা কর যা নিজেরা খোদাই কর, অথচ আল্লাহ তোমাদের সৃষ্টি করেছেন আর তোমরা যা বানাও তাও? যে খোদাই করে আর যা খোদাই হয়, দুটোই সীমার একই দিকে।"
+          },
+          {
+            "en": "The Qur'an puts the same test elsewhere as an open challenge. 16:17 asks whether He who creates is like him who does not create, and whether they will not then take heed. 31:11, after describing the heavens, the mountains and the rain, says: this is the creation of Allah, so show Me what those besides Him have created. 7:191 is the shortest form of that demand, and 7:192 at once adds that they cannot help their worshippers, nor even themselves.",
+            "bn": "কুরআন অন্য জায়গাতেও এই পরীক্ষাকে খোলা চ্যালেঞ্জ হিসেবে রেখেছে। ১৬:১৭ জিজ্ঞেস করে, যিনি সৃষ্টি করেন তিনি কি তার মতো, যে সৃষ্টি করে না? তবু কি তোমরা উপদেশ নেবে না? ৩১:১১ আসমান, পাহাড় আর বৃষ্টির বর্ণনা দিয়ে বলে: এ তো আল্লাহর সৃষ্টি, এখন আমাকে দেখাও তিনি ছাড়া অন্যরা কী সৃষ্টি করেছে। ৭:১৯১ সেই দাবিরই সবচেয়ে ছোট রূপ। আর ৭:১৯২ সঙ্গে সঙ্গে যোগ করে, তারা না পারে পূজারীদের সাহায্য করতে, না নিজেদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Gift the Name Declares",
+          "bn": "নাম বলে দেয় দান কার"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws a practical rule from the passage. It is prohibited, it says, to give children names such as 'Abd Shams, servant of the sun, or 'Abd al-'Uzza, which assign them to something other than Allah, even if the parents do not mean it. It recommends instead names that tie a child to Allah, such as 'Abdullah and 'Abd ar-Rahman. Whatever one concludes about the couple, a name is the first thing a family says aloud about whose gift the child is.",
+            "bn": "মাআরিফুল কুরআন এই অংশ থেকে একটি বাস্তব বিধান বের করে। তাদের মতে আবদ শামস, অর্থাৎ সূর্যের বান্দা, কিংবা আবদুল উযযার মতো নাম রাখা নিষিদ্ধ, কারণ এসব নাম শিশুকে আল্লাহ ছাড়া অন্য কিছুর দিকে সম্বন্ধ করে। বাবা-মা অর্থটা না বোঝালেও নিষেধ বহাল থাকে। এর বদলে তারা এমন নামের পরামর্শ দেয়, যা শিশুকে আল্লাহর সঙ্গে জুড়ে দেয়, যেমন আবদুল্লাহ ও আবদুর রহমান। দম্পতি নিয়ে যে মতই ধরা হোক, একটি পরিবার সন্তানটি কার দান, সে কথা প্রথম জোরে বলে তার নামের মধ্য দিয়ে।"
+          },
+          {
+            "en": "The wider point runs through as-Sa'di's reading of 7:190. The One who made the spouses from one soul, put affection between them and formed the child in the womb is the One they called on in the heavy months; once He has completed the favour, does He not deserve to be worshipped alone? The gift today may be a child, a recovery, a job or a safe return. The verse asks where the thanks go once the fear has passed.",
+            "bn": "বড় কথাটা পাওয়া যায় ৭:১৯০-এ সা'দীর ব্যাখ্যায়। যিনি একটি প্রাণ থেকে স্বামী-স্ত্রী বানালেন, দুজনের মধ্যে ভালোবাসা দিলেন, গর্ভে সন্তান গড়লেন, ভারী মাসগুলোতে তাঁকেই তো তারা ডেকেছিল। নেয়ামত পূর্ণ করে দেওয়ার পর তিনি কি একাই ইবাদত পাওয়ার যোগ্য নন? আজকের নেয়ামত হতে পারে সন্তান, রোগমুক্তি, চাকরি বা নিরাপদে ঘরে ফেরা। ভয় কেটে যাওয়ার পর শুকরিয়া কোথায় যায়, আয়াত সেটাই জিজ্ঞেস করে।"
+          },
+          {
+            "en": "One caution belongs here. The verse condemns a practice and describes what its objects are; it describes what the text describes, and licenses nothing against any living person or community. Its question is put first to the one reading it: whether, somewhere in his own life, something created has been given a share of the fear, hope or thanks that belong only to the Creator.",
+            "bn": "এখানে একটা সতর্কতা দরকার। আয়াতটি একটি আচরণের নিন্দা করে আর তার উপাস্যদের আসল অবস্থা বলে দেয়। আয়াত ততটুকুই বলে, যতটুকু এর পাঠে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এর প্রশ্ন প্রথমে পাঠকের নিজের কাছে: তার জীবনের কোথাও কি কোনো সৃষ্টিকে এমন ভয়, আশা বা শুকরিয়ার ভাগ দেওয়া হয়েছে, যা শুধু স্রষ্টার প্রাপ্য?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Vow Made in Heavy Months",
+          "bn": "ভারী মাসের মানত"
+        },
+        "p": [
+          {
+            "en": "The couple's own words in 7:189 can be borrowed as a supplication, provided the promise in them is kept: la'in ataytana salihan lanakunanna mina ash-shakirin, if You give us one who is sound, we will surely be among the grateful. This is a Qur'anic wording, not a narration. The verses that follow are the warning attached to it. It is easy to make the vow in the heavy months and to forget it once the child is in one's arms.",
+            "bn": "৭:১৮৯ আয়াতে দম্পতির নিজের কথাগুলো দোয়া হিসেবে নেওয়া যায়, শর্ত একটাই: তাতে যে ওয়াদা আছে তা রাখতে হবে। লাইন আতাইতানা সালিহান লানাকূনান্না মিনাশ শাকিরীন: তুমি যদি আমাদের সুস্থ সন্তান দাও, আমরা অবশ্যই কৃতজ্ঞদের দলে থাকব। এটি কুরআনের ভাষা, কোনো হাদীস নয়। পরের আয়াতগুলো এর সঙ্গে জুড়ে দেওয়া সতর্কবার্তা। ভারী মাসগুলোতে মানত করা সহজ, আর সন্তান কোলে আসার পর তা ভুলে যাওয়াও সহজ।"
+          },
+          {
+            "en": "So the verse leaves a few questions. When did you last ask Allah for something with a promise attached, and what has become of the promise? When the thing arrived, whose name did you say first? Is there a person, a skill or a plan you speak of as if it made the outcome, though it was made itself? And what would change this week if every gift were traced back to the Creator?",
+            "bn": "তাই আয়াতটি কয়েকটি প্রশ্ন রেখে যায়। শেষ কবে আপনি ওয়াদা জুড়ে দিয়ে আল্লাহর কাছে কিছু চেয়েছিলেন, আর সেই ওয়াদার কী হলো? জিনিসটা হাতে আসার পর প্রথম কার নাম মুখে এসেছিল? এমন কোনো মানুষ, দক্ষতা বা পরিকল্পনা কি আছে, যার কথা আপনি এমনভাবে বলেন যেন ফলটা সে-ই বানিয়েছে, অথচ সে নিজেই বানানো? প্রতিটি নেয়ামতকে যদি সৃষ্টিকর্তার দিকে ফিরিয়ে দেখেন, এ সপ্তাহে কী বদলাবে?"
+          }
+        ]
+      }
+    ]
+  },
   "7:195": {
     "sections": [
       {

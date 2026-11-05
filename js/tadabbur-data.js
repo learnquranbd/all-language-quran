@@ -20911,6 +20911,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were asked once and you answered yes; live as one who meant it, and never let 'I was unaware' become your excuse.",
     "lessonBn": "আপনাকে একবার জিজ্ঞেস করা হয়েছিল, আর আপনি 'হ্যাঁ' বলেছিলেন। সেই কথা মন থেকে বলেছিলেন, এমনভাবে বাঁচুন, আর 'আমি বেখবর ছিলাম' কথাটাকে কখনো অজুহাত বানাবেন না।"
+  },
+  "7:191": {
+    "reflectionEn": "A couple waits through a heavy pregnancy and promises their Lord that, if He gives them a sound child, they will be grateful. The child comes, and the credit goes somewhere else. Then the Qur'an asks a question of seven words: do they set up as partners things that create nothing, and are themselves created? The test is short enough to carry anywhere. Who made this? Whatever cannot make a thing, and was itself made, has no claim on my worship, my fear or my thanks. I rarely bow to stone. But when a gift arrives, I am quick to thank my effort, my luck or the people I know. Whose name do I say first when the good news comes?",
+    "reflectionBn": "ভারী গর্ভের দিনগুলোতে এক দম্পতি রবের কাছে কথা দেয়: সুস্থ সন্তান দিলে তারা কৃতজ্ঞ থাকবে। সন্তান আসে, আর কৃতিত্ব চলে যায় অন্য কোথাও। তখন কুরআন সাত শব্দে প্রশ্ন করে: তারা কি এমন কিছুকে শরীক করে, যা কিছুই সৃষ্টি করে না, বরং নিজেই সৃষ্ট? পরীক্ষাটা এত ছোট যে সব জায়গায় সঙ্গে রাখা যায়। এটা কে বানিয়েছে? যে কিছু বানাতে পারে না, নিজেই বানানো, আমার ইবাদত, আমার ভয় বা আমার শুকরিয়ায় তার কোনো হক নেই। পাথরের সামনে আমি সহজে মাথা নোয়াই না। কিন্তু কোনো নেয়ামত এলে নিজের চেষ্টা, কপাল বা চেনা মানুষদের ধন্যবাদ দিতে আমার দেরি হয় না। সুখবর এলে আমার মুখে প্রথম কার নাম আসে?",
+    "pointsEn": [
+      "When something I prayed for finally arrives, how long does my thanks to Allah last before I start explaining it by other causes?",
+      "Is there anything I fear, hope in or obey as if it could create or prevent, though it was itself made?",
+      "What names, phrases or habits in my home quietly credit someone other than Allah with what He gave?",
+      "If I asked of each thing I depend on whether it ever created anything, which of them would still deserve my trust, and only as a means?",
+      "What promise did I make to Allah in a hard time that I have not yet kept in an easy one?"
+    ],
+    "pointsBn": [
+      "যা চেয়ে দোয়া করেছিলাম তা শেষ পর্যন্ত হাতে এলে আল্লাহর প্রতি আমার শুকরিয়া কতক্ষণ টেকে? কখন থেকে আমি অন্য কারণ দিয়ে সেটা ব্যাখ্যা করতে শুরু করি?",
+      "এমন কিছু কি আছে, যাকে আমি ভয় করি, যার উপর আশা রাখি বা যার কথা মেনে চলি, যেন সে কিছু সৃষ্টি করতে বা ঠেকাতে পারে, অথচ সে নিজেই সৃষ্ট?",
+      "আমার ঘরের কোন নাম, কোন কথা বা কোন অভ্যাস চুপচাপ আল্লাহর দেওয়া জিনিসের কৃতিত্ব অন্য কাউকে দিয়ে দেয়?",
+      "যেসবের উপর আমি নির্ভর করি, প্রত্যেককে যদি জিজ্ঞেস করি সে কখনো কিছু সৃষ্টি করেছে কি না, তবে কোনগুলো তখনো আমার ভরসা পাওয়ার যোগ্য থাকবে, তাও শুধু উপায় হিসেবে?",
+      "কঠিন সময়ে আল্লাহকে কোন কথা দিয়েছিলাম, যা সহজ সময়ে এসে এখনো রাখিনি?"
+    ],
+    "lessonEn": "Ask of anything you lean on whether it ever created a thing; what was itself created has no share in the worship and thanks owed to the Creator.",
+    "lessonBn": "যার উপর ভর দেন, তাকে জিজ্ঞেস করুন সে কখনো কিছু সৃষ্টি করেছে কি না। যা নিজেই সৃষ্ট, স্রষ্টার প্রাপ্য ইবাদত ও শুকরিয়ায় তার কোনো ভাগ নেই।"
   }
 };
 
