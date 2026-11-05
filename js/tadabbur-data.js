@@ -21871,6 +21871,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Repay the kindness you owe before it slips your mind, and trust that relief which comes late may still come at exactly the right hour.",
     "lessonBn": "যে উপকারের ঋণ আছে, ভুলে যাওয়ার আগেই তা শোধ করুন। আর ভরসা রাখুন, দেরিতে আসা মুক্তিও ঠিক সময়মতোই আসতে পারে।"
+  },
+  "12:56": {
+    "reflectionEn": "The verse opens with one small word: thus. Thus, after a well, a sale, a cell and a long wait, Allah established Yusuf in the land, free to settle wherever he chose. The verse does not credit his cleverness or his request. The establishing is Allah's, and so is the mercy that reaches whom He wills. Then comes a promise with no edge to it: the reward of those who do good is never lost. The very next verse adds that the reward of the Hereafter is better still. So the honour was neither the point nor the end. Where in my own life have I decided that patience was wasted? And when ease comes, do I take it as His mercy, or as my due?",
+    "reflectionBn": "আয়াতের শুরু ছোট্ট একটি শব্দে: এভাবেই। কূপ, বিক্রি হয়ে যাওয়া, কারাগার আর দীর্ঘ অপেক্ষার পর এভাবেই আল্লাহ ইউসুফ (আঃ)-কে দেশে প্রতিষ্ঠিত করলেন। যেখানে ইচ্ছা, সেখানেই তিনি থাকতে পারতেন। আয়াত তাঁর বুদ্ধি বা তাঁর চেয়ে নেওয়াকে কৃতিত্ব দেয় না। প্রতিষ্ঠা দেওয়া আল্লাহর কাজ, আর যাকে তিনি চান তার কাছে পৌঁছানো রহমতও তাঁরই। তারপর আসে এমন এক প্রতিশ্রুতি, যার কোনো সীমারেখা নেই: সৎকর্মশীলদের প্রতিদান কখনো নষ্ট হয় না। ঠিক পরের আয়াত যোগ করে, আখিরাতের প্রতিদান আরও উত্তম। তাহলে সম্মানটাই আসল কথা ছিল না, শেষ কথাও নয়। আমার জীবনের কোন জায়গায় আমি ধরে নিয়েছি যে সবর বৃথা গেছে? আর স্বস্তি যখন আসে, আমি কি তাকে তাঁর রহমত বলে চিনি, নাকি নিজের পাওনা ভাবি?",
+    "pointsEn": [
+      "Which part of my life feels like the well or the cell right now, and what would doing good look like inside it?",
+      "When something good reaches me, whose name do I put on it first, mine or my Lord's?",
+      "Do I measure the reward of good only by what arrives in this world?",
+      "If I were offered responsibility tomorrow, would I want it in order to serve, or in order to be seen?",
+      "Whose quiet patience near me have I overlooked, as if it had come to nothing?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন অংশটা এখন কূপ বা কারাগারের মতো লাগছে? সেখানে থেকেই ভালো কাজ করে যাওয়া দেখতে কেমন হবে?",
+      "ভালো কিছু হাতে এলে প্রথমে কার নাম তার গায়ে লাগাই, নিজের, নাকি আমার রবের?",
+      "নেক আমলের প্রতিদান কি আমি শুধু দুনিয়াতে যা মেলে তা দিয়েই মাপি?",
+      "কাল যদি আমাকে কোনো দায়িত্ব দেওয়া হয়, আমি কি তা চাইব মানুষের কাজে লাগার জন্য, নাকি লোকের চোখে পড়ার জন্য?",
+      "আমার আশপাশে কার নীরব সবর আমি এড়িয়ে গেছি, যেন তার কোনো মূল্যই নেই?"
+    ],
+    "lessonEn": "Keep doing good through the long wait. Whatever ease comes is Allah's mercy, the reward of good is never lost, and the reward of the Hereafter is better still.",
+    "lessonBn": "দীর্ঘ অপেক্ষার মধ্যেও ভালো কাজ করে যান। যে স্বস্তিই আসুক, তা আল্লাহর রহমত। সৎকর্মের প্রতিদান কখনো নষ্ট হয় না, আর আখিরাতের প্রতিদান আরও উত্তম।"
   }
 };
 

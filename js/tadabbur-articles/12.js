@@ -2267,6 +2267,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Word Thus Points",
+          "bn": "‘এভাবেই’ শব্দের ইশারা"
+        },
+        "p": [
+          {
+            "en": "Wa-kadhalika makkanna li-Yusufa fi l-ard: and thus We established Yusuf in the land. The verse comes straight after two short exchanges. In 12:54 the king says, bring him to me and I will take him for myself, and once he has spoken with him he tells him, today you are with us secure and trusted. In 12:55 Yusuf (AS) asks to be set over the storehouses of the land, calling himself a knowing guardian. Then the Qur'an steps back from the conversation and names who acted: We established him.",
+            "bn": "ওয়া কাযালিকা মাক্কান্না লি-ইউসুফা ফিল আরদ: আর এভাবেই আমি ইউসুফকে দেশে প্রতিষ্ঠিত করলাম। আয়াতটি আসে দুটি ছোট কথোপকথনের ঠিক পরে। ১২:৫৪ আয়াতে রাজা বলে, তাকে আমার কাছে আনো, আমি তাকে একান্ত নিজের করে নেব। কথা বলার পর সে জানিয়ে দেয়, আজ থেকে তুমি আমাদের কাছে মর্যাদাবান ও বিশ্বস্ত। ১২:৫৫ আয়াতে ইউসুফ (আঃ) দেশের ভান্ডারের দায়িত্ব চান এবং নিজেকে জ্ঞানী রক্ষক বলে পরিচয় দেন। এরপর কুরআন কথোপকথন থেকে একটু সরে এসে আসল কর্তার নাম বলে দেয়: আমিই তাকে প্রতিষ্ঠিত করলাম।"
+          },
+          {
+            "en": "What does thus point back to? As-Sa'di answers: by these causes and preliminaries already mentioned. Al-Qurtubi reads it as a likeness: in the same way as the favour We showed him in bringing him close to the king's heart and saving him from prison, We established him, meaning We gave him power over what he wanted. The Muyassar says that just as Allah favoured Yusuf with release from prison, He established him in the land of Egypt. At-Tabari glosses makkanna with watta'na: We smoothed the ground for him.",
+            "bn": "‘এভাবেই’ কথাটা পেছনের কোন দিকে ইশারা করে? সা'দী বলেন, আগে যে কারণ আর প্রস্তুতিগুলোর কথা এসেছে, সেগুলোর মধ্য দিয়েই। কুরতুবী এখানে তুলনা দেখেন। রাজার মনের কাছে টেনে আনা আর কারাগার থেকে মুক্তি দেওয়ার মাধ্যমে যে অনুগ্রহ তাঁর উপর করা হয়েছিল, ঠিক তেমনি তাঁকে প্রতিষ্ঠা দেওয়া হলো, অর্থাৎ তিনি যা চাইতেন তার উপর ক্ষমতা দেওয়া হলো। মুয়াসসারের ভাষায়, কারাগার থেকে মুক্তি দিয়ে আল্লাহ যেমন ইউসুফের প্রতি অনুগ্রহ করলেন, তেমনি তাঁকে মিসরের মাটিতে প্রতিষ্ঠিত করলেন। তাবারী মাক্কান্না শব্দের ব্যাখ্যা দেন ওয়াত্তা'না দিয়ে: আমি তাঁর জন্য পথ সমতল করে দিলাম।"
+          },
+          {
+            "en": "At-Tabari, Ibn Kathir, al-Baghawi and the Muyassar all name al-ard here as the land of Egypt. The same words already stood in 12:21, when he entered the 'Aziz's house as a bought servant; here they return as he leaves prison to take charge. Every verb of giving belongs to Allah: We established, We touch with Our mercy, We do not let the reward be lost. Yusuf (AS) has one verb of his own in the verse, to settle where he wills, and even that freedom is described as something given. The verse is less about a man rising than about a Lord raising him.",
+            "bn": "তাবারী, ইবন কাসীর, বাগাভী ও মুয়াসসার, সবাই এখানে আরদ বলতে মিসর দেশকেই বুঝিয়েছেন। একই শব্দ আগেও এসেছিল ১২:২১ আয়াতে, যখন তিনি কেনা খাদেম হয়ে আযীযের ঘরে ঢুকেছিলেন। এখানে শব্দগুলো ফিরে আসে, যখন তিনি কারাগার থেকে বেরিয়ে দায়িত্ব নিচ্ছেন। দেওয়ার প্রতিটি ক্রিয়া আল্লাহর: আমি প্রতিষ্ঠা দিলাম, আমি রহমত পৌঁছে দিই, আমি প্রতিদান নষ্ট হতে দিই না। ইউসুফ (আঃ)-এর নিজের ক্রিয়া এখানে একটিই, যেখানে ইচ্ছা সেখানে বসবাস করা। সেই স্বাধীনতাটুকুও দেওয়া জিনিস হিসেবেই এসেছে। এ আয়াতের কথা তাই কোনো মানুষের উপরে ওঠা নিয়ে যতটা, তার চেয়ে বেশি এক রবের তাঁকে উপরে তোলা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Free to Choose His Dwelling",
+          "bn": "থাকার জায়গা বাছার স্বাধীনতা"
+        },
+        "p": [
+          {
+            "en": "Yatabawwa'u minha haythu yasha': he settles in it wherever he wills. At-Tabari explains it as taking a dwelling in the land of Egypt wherever he wished, after confinement and hardship. Ibn Kathir reports this from Ibn Jarir in nearly the same words, adding captivity to the list. As-Suddi and 'Abd al-Rahman ibn Zayd ibn Aslam, as Ibn Kathir cites them, read the phrase more widely: he disposes of things in it however he wills. Al-Baghawi joins both meanings.",
+            "bn": "ইয়াতাবাওয়াউ মিনহা হাইসু ইয়াশা: সেখানে যেখানে ইচ্ছা তিনি বসবাস করেন। তাবারীর ব্যাখ্যায়, বন্দিত্ব আর কষ্টের দিনগুলোর পর মিসরের যেখানে খুশি তিনি নিজের ঠিকানা বানিয়ে নিতেন। ইবন কাসীর প্রায় একই ভাষায় কথাটা ইবন জারীরের বরাতে আনেন, আর তালিকায় বন্দিদশাও যোগ করেন। সুদ্দী এবং আবদুর রহমান ইবন যায়দ ইবন আসলাম, ইবন কাসীরের উদ্ধৃতি অনুযায়ী, অর্থটা আরও প্রশস্ত করে নেন: সেখানে তিনি যেভাবে চাইতেন সেভাবেই কাজ চালাতেন। বাগাভী দুই অর্থই একসঙ্গে নেন।"
+          },
+          {
+            "en": "At-Tabari carries Ibn Zayd's fuller words: We gave him authority over whatever there was in it of that world, to do there as he wished, and it was entrusted to him. Ibn Zayd adds that had he wished to put Pharaoh under his hand and set himself above him, he would have done it. As-Sa'di describes the settled state as a comfortable life, wide blessing and broad standing. Al-Baghawi also records a reading: Ibn Kathir the reciter read nasha', where We will, to match makkanna, while the others read yasha', where he wills, to match yatabawwa'u.",
+            "bn": "তাবারী ইবন যায়দের পুরো কথাটা আনেন। তাঁর ভাষায়, দুনিয়ার যা কিছু সেখানে ছিল তার উপর আমি তাঁকে ক্ষমতা দিলাম, যাতে সেখানে তিনি যা চান তা করতে পারেন, সবকিছু তাঁর হাতে সঁপে দেওয়া হলো। ইবন যায়দ আরও বলেন, তিনি চাইলে ফিরআউনকে নিজের হাতের নিচে রেখে নিজে তার উপরে বসতে পারতেন। সা'দীর চোখে এ প্রতিষ্ঠার চেহারা হলো সচ্ছল জীবন, প্রশস্ত নিয়ামত আর বিস্তৃত মর্যাদা। বাগাভী একটি কিরাআতের কথাও লিখেছেন। কারী ইবন কাসীর পড়েছেন নাশা, অর্থাৎ যেখানে আমি চাই, যাতে মাক্কান্নার সঙ্গে মেলে। অন্যরা পড়েছেন ইয়াশা, অর্থাৎ যেখানে তিনি চান, যাতে ইয়াতাবাওয়াউর সঙ্গে মেলে।"
+          },
+          {
+            "en": "Set the phrase beside the earlier stations of his story. He was lowered into a well he did not choose, sold for a price he did not set, raised in a house that had bought him, and held in a prison he had not earned. At-Tabari names the same stations when he reaches the mercy clause: after servitude and captivity, and after being cast into the well. A man whose every address had been decided by others is now told that he may settle wherever he wills.",
+            "bn": "কাহিনির আগের ধাপগুলোর পাশে কথাটা রেখে দেখুন। তাঁকে নামানো হয়েছিল এমন কূপে, যা তিনি বেছে নেননি। বিক্রি করা হয়েছিল এমন দামে, যা তিনি ঠিক করেননি। বড় হয়েছেন এমন ঘরে, যে ঘর তাঁকে কিনে এনেছিল। আর আটকে ছিলেন এমন কারাগারে, যা তাঁর প্রাপ্য ছিল না। রহমতের অংশে এসে তাবারীও এই ধাপগুলোর নাম করেন: দাসত্ব আর বন্দিত্বের পর, কূপে নিক্ষিপ্ত হওয়ার পর। যার প্রতিটি ঠিকানা এতদিন অন্যেরা ঠিক করে দিয়েছে, তাঁকেই এখন বলা হচ্ছে, যেখানে ইচ্ছা সেখানে থাকুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Post in the Reports",
+          "bn": "বর্ণনায় তাঁর পদ"
+        },
+        "p": [
+          {
+            "en": "The Qur'an says only that Allah established him in the land; it names no post. The commentators fill this in with reports, and at-Tabari introduces his with care. Through Ibn Ishaq: when Yusuf asked to be set over the storehouses, the king said, I have done it, and gave him, as they mention, the office of Itfir, removing Itfir from it. Through as-Suddi: the king put him in charge of Egypt, and he oversaw its selling, its trade and all its affairs.",
+            "bn": "কুরআন শুধু বলে, আল্লাহ তাঁকে দেশে প্রতিষ্ঠিত করলেন। কোনো পদের নাম বলে না। তাফসীরকারেরা এই ফাঁকটা ভরেন বর্ণনা দিয়ে, আর তাবারী নিজের বর্ণনাগুলো আনেন সাবধানে। ইবন ইসহাকের সূত্রে: ইউসুফ (আঃ) যখন ভান্ডারের দায়িত্ব চাইলেন, রাজা বলল, দিলাম। তারপর, লোকে যেমন বলে থাকে, ইতফীরের পদ তাঁকে দিল এবং ইতফীরকে সেখান থেকে সরিয়ে দিল। সুদ্দীর সূত্রে: রাজা তাঁকে মিসরের দায়িত্বে বসাল, আর বেচাকেনা, ব্যবসা ও দেশের সব কাজ তিনিই দেখতেন।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English tafsir names the king ar-Rayyan ibn al-Walid and says Yusuf was appointed in place of the 'Aziz who had bought him. Ma'arif al-Qur'an, citing al-Qurtubi, al-Mazhari and others, says that after a trial year he was given charge of virtually the whole state. Al-Qurtubi carries from Ibn 'Abbas that he was given rule after a year and a half. These are reports about the post, not words of the verse, and they do not agree on the timing.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরে রাজার নাম রাইয়ান ইবনুল ওয়ালীদ। সেখানে বলা হয়েছে, যে আযীয তাঁকে কিনেছিল, তার জায়গায় ইউসুফ (আঃ)-কে নিয়োগ দেওয়া হয়। মাআরিফুল কুরআন কুরতুবী, মাযহারী ও অন্যদের বরাতে লেখে, এক বছরের পরীক্ষামূলক সময়ের পর কার্যত গোটা রাষ্ট্রের ভার তাঁকে দেওয়া হয়। কুরতুবী ইবন আব্বাস (রাঃ)-এর বরাতে আনেন, দেড় বছর পর তাঁকে শাসনক্ষমতা দেওয়া হয়। এগুলো পদ নিয়ে বর্ণনা, আয়াতের শব্দ নয়। সময়ের হিসাবেও এগুলো এক কথা বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reports About Her",
+          "bn": "তাঁকে নিয়ে দুই বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The same narration of Ibn Ishaq goes further, and at-Tabari keeps its hedges: it was mentioned to me, and Allah knows best, that Itfir died in those nights and that the king married Yusuf to Itfir's wife, Ra'il; and, they claim, she bore him two sons. Al-Qurtubi gives the same account on this verse. On the verse before, he carries from Wahb ibn Munabbih that the marriage came later, between the brothers' two visits, her husband having died while Yusuf was still in prison and her wealth gone.",
+            "bn": "ইবন ইসহাকের একই বর্ণনা আরও এগোয়, আর তাবারী এর সতর্কতার শব্দগুলো রেখে দেন: আমাকে বলা হয়েছে, আল্লাহই ভালো জানেন, সেই রাতগুলোতে ইতফীর মারা যায়, আর রাজা ইতফীরের স্ত্রী রাঈলকে ইউসুফ (আঃ)-এর সঙ্গে বিয়ে দেয়। লোকেরা দাবি করে, তাঁর ঘরে দুই পুত্রের জন্ম হয়। কুরতুবী এ আয়াতে একই বিবরণ দেন। আগের আয়াতে তিনি ওয়াহব ইবন মুনাব্বিহের বরাতে আনেন যে বিয়েটা হয়েছিল পরে, ভাইদের দুবার আসার মাঝখানে, যখন ইউসুফ (আঃ)-এর কারাবাসের সময়েই তার স্বামী মারা গেছে আর সম্পদও শেষ হয়ে গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi also records, through al-Mawardi, the view of those who held that she was Zulaykha: Yusuf did not marry her. Seeing him in his procession, she wept and said, praise be to Allah who made kings slaves through disobedience and made slaves kings through obedience; he took her into his household, and she remained in his care until she died. Al-Qurtubi notes that this contradicts Wahb, and closes: Allah knows best. The verse settles neither account. Whatever her story, it was hers, and it licenses nothing against anyone living.",
+            "bn": "কুরতুবী মাওয়ারদীর মাধ্যমে আরেকটি মতও লিখে রাখেন। যাঁরা বলেন মহিলাটি ছিলেন যুলাইখা, তাঁদের মতে ইউসুফ (আঃ) তাঁকে বিয়ে করেননি। শোভাযাত্রায় তাঁকে দেখে মহিলা কেঁদে বলেছিলেন, সব প্রশংসা আল্লাহর, যিনি নাফরমানির কারণে রাজাদের দাস বানান আর আনুগত্যের কারণে দাসদের রাজা বানান। তিনি তাঁকে নিজের পরিবারের আশ্রয়ে নিলেন, আর মৃত্যু পর্যন্ত তিনি সেখানেই ছিলেন। কুরতুবী মনে করিয়ে দেন, এ কথা ওয়াহবের বর্ণনার বিপরীত, তারপর বলেন: আল্লাহই ভালো জানেন। আয়াত এ দুইয়ের কোনোটির ফয়সালা দেয় না। তাঁর কাহিনি যা-ই হোক, তা তাঁরই কাহিনি, জীবিত কারও বিরুদ্ধে এখান থেকে কিছুই টানা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for the Storehouses",
+          "bn": "ভান্ডারের দায়িত্ব চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Behind the establishing lies a request, and the commentators on 12:55 ask whether it was fitting. Ibn Kathir says Yusuf (AS) praised himself, which is allowed when a man's worth is unknown and there is need. He asked for the work because he knew he could do it, and for the benefit it held for the people: to manage the granaries through the years of drought he had foretold. As-Sa'di is direct: this was not eagerness for office on Yusuf's part, but a wish for the common good, since he knew in himself a competence and trustworthiness they did not yet know.",
+            "bn": "এই প্রতিষ্ঠার পেছনে আছে একটি অনুরোধ। ১২:৫৫ আয়াতের তাফসীরে মুফাসসিরেরা প্রশ্ন তোলেন, অনুরোধটা কি সংগত ছিল? ইবন কাসীর বলেন, ইউসুফ (আঃ) নিজের প্রশংসা করেছিলেন, আর কারও যোগ্যতা যখন অজানা থাকে এবং প্রয়োজন দেখা দেয়, তখন তা জায়েয। তিনি কাজটা চেয়েছিলেন, কারণ জানতেন তিনি তা পারবেন, আর মানুষের উপকারও এতে ছিল। যে দুর্ভিক্ষের বছরগুলোর খবর তিনি আগেই দিয়েছিলেন, সেগুলোর জন্য শস্যভান্ডার সামলানোই ছিল লক্ষ্য। সা'দী সোজাসুজি বলেন, এটা পদের লোভ ছিল না। এটা ছিল সবার কল্যাণের আকাঙ্ক্ষা, কারণ নিজের মধ্যে তিনি এমন যোগ্যতা ও আমানতদারি চিনতেন, যা তারা তখনো জানত না।"
+          },
+          {
+            "en": "The difficulty is a hadith. Al-Bukhari records: Narrated Abu Musa: Two men from my tribe and I entered upon the Prophet. One of the two men said to the Prophet, \"O Allah's Messenger! Appoint me as a governor,\" and so did the second. The Prophet ﷺ said, \"We do not assign the authority of ruling to those who ask for it, nor to those who are keen to have it.\" It stands in Sahih al-Bukhari, number 7149. Al-Qurtubi cites this narration in Muslim's wording, together with the Prophet's instruction to 'Abd al-Rahman ibn Samura not to ask for leadership.",
+            "bn": "জটিলতা তৈরি করে একটি হাদীস। বুখারী বর্ণনা করেন, আবূ মূসা (রাঃ) বলেন: আমি আর আমার গোত্রের দুজন লোক নবী ﷺ-এর কাছে গেলাম। দুজনের একজন বলল, হে আল্লাহর রাসূল, আমাদেরকে শাসনকর্তা বানিয়ে দিন। অন্যজনও একই কথা বলল। তিনি বললেন, ‘যে এটা চায় আর যে এর জন্য লালায়িত, আমরা তাকে এই দায়িত্ব দিই না।’ হাদীসটি সহীহ বুখারীতে আছে, নম্বর ৭১৪৯। কুরতুবী এই বর্ণনাটি মুসলিমের ভাষায় উদ্ধৃত করেছেন। সঙ্গে এনেছেন আবদুর রহমান ইবন সামুরা (রাঃ)-কে দেওয়া নবী ﷺ-এর নির্দেশ: নেতৃত্ব চেয়ে নিয়ো না।"
+          },
+          {
+            "en": "Al-Qurtubi answers in four ways. Yusuf (AS) asked because he knew that no one else could take his place in justice, reform and bringing the poor their rights. He asked on the strength of guarding and knowledge, not lineage or beauty. He spoke before people who did not know him, wanting to make himself known. And he saw the task as an obligation fixed on him, there being no one else there; this last, al-Qurtubi says, is the most apparent. Where someone else is fit for the task, he adds, the better course is not to ask.",
+            "bn": "কুরতুবী চারটি জবাব দেন। এক, ইউসুফ (আঃ) চেয়েছিলেন কারণ জানতেন, ইনসাফ, সংস্কার আর গরিবের হক তার কাছে পৌঁছে দেওয়ার কাজে তাঁর জায়গা নেওয়ার মতো আর কেউ নেই। দুই, তিনি দাবি করেছিলেন রক্ষণাবেক্ষণ আর জ্ঞানের জোরে, বংশ বা সৌন্দর্যের জোরে নয়। তিন, তিনি কথা বলছিলেন এমন লোকদের সামনে, যারা তাঁকে চিনত না, তাই নিজের পরিচয় জানাতে চেয়েছিলেন। চার, সেখানে আর কেউ না থাকায় কাজটাকে তিনি নিজের উপর নির্দিষ্ট ফরয মনে করেছিলেন। কুরতুবীর মতে শেষ কারণটিই সবচেয়ে স্পষ্ট। তিনি যোগ করেন, অন্য কোনো যোগ্য লোক থাকলে না চাওয়াই উত্তম।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the same line: asking is permissible when no one else could manage the office well, an honest self-assessment says one can, and the motive is not love of recognition, power or wealth. Both al-Qurtubi and Ma'arif carry the reasoning into their own times. Reported here, it explains a prophet's request; it is not a ruling on any office today. Nor, on the commentators' own reading, was the request a reach for gain.",
+            "bn": "মাআরিফুল কুরআনও একই সীমারেখা টানে। চাওয়া জায়েয তখনই, যখন সেই পদ ভালোভাবে সামলানোর মতো আর কেউ নেই, নিজের সৎ মূল্যায়ন বলে যে তিনি পারবেন, আর উদ্দেশ্য খ্যাতি, ক্ষমতা বা সম্পদের লোভ নয়। কুরতুবী আর মাআরিফ দুজনেই এই যুক্তি নিজেদের যুগ পর্যন্ত টেনে নিয়েছেন। এখানে তা উদ্ধৃত হলো একজন নবীর অনুরোধ বোঝানোর জন্য। আজকের কোনো পদের ব্যাপারে এটা কোনো ফতোয়া নয়। তাফসীরকারদের নিজেদের ব্যাখ্যাতেও অনুরোধটি লাভের দিকে হাত বাড়ানো ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy That Lands Where He Wills",
+          "bn": "রহমত পৌঁছায় যাকে তিনি চান"
+        },
+        "p": [
+          {
+            "en": "Nusibu bi-rahmatina man nasha': We touch with Our mercy whom We will. Al-Qurtubi glosses it as Our beneficence, adding that rahma here means blessing and kindness; al-Baghawi says, with Our favour. At-Tabari gives the clause its example: whomever We will of Our creation, just as We touched Yusuf with it and established him in the land after servitude. As-Sa'di adds a caution. This mercy, which Allah decreed for Yusuf (AS), is not confined to the blessings of this world.",
+            "bn": "নুসীবু বিরাহমাতিনা মান নাশা: যাকে চাই, আমার রহমত তার কাছে পৌঁছে দিই। কুরতুবী এর অর্থ করেন, আমার অনুগ্রহ দিয়ে। তিনি বলেন, এখানে রহমত মানে নিয়ামত আর দয়া। বাগাভীর ভাষায়, আমার নিয়ামত দিয়ে। তাবারী এর একটি দৃষ্টান্তও দেখান: আমার সৃষ্টির মধ্যে যাকে চাই, যেমন ইউসুফের কাছে রহমত পৌঁছে দিয়েছি আর দাসত্বের পর তাঁকে দেশে প্রতিষ্ঠা দিয়েছি। সা'দী একটি সতর্কতা যোগ করেন। আল্লাহ ইউসুফ (আঃ)-এর জন্য যে রহমত নির্ধারণ করেছিলেন, তা শুধু দুনিয়ার নিয়ামতে সীমাবদ্ধ নয়।"
+          },
+          {
+            "en": "The commentators also record whom the mercy reached through him. At-Tabari carries from Mujahid that the king who was with Yusuf accepted Islam. Al-Baghawi reports, from Mujahid and others, that Yusuf kept inviting the king and treating him gently until the king and many of the people accepted Islam. Al-Qurtubi says that once Egypt's affairs were handed to him, he was gentle with the people, called them to faith until they believed and established justice among them.",
+            "bn": "তাঁর মাধ্যমে রহমত আর কাদের কাছে পৌঁছেছিল, তাফসীরকারেরা তাও লিখে রাখেন। তাবারী মুজাহিদের বরাতে আনেন, ইউসুফ (আঃ)-এর সঙ্গে যে রাজা ছিল, সে ইসলাম গ্রহণ করেছিল। বাগাভী মুজাহিদ ও অন্যদের বরাতে বলেন, ইউসুফ (আঃ) রাজাকে কোমলভাবে দাওয়াত দিয়ে যেতে থাকেন, শেষে রাজা আর বহু মানুষ মুসলমান হয়। কুরতুবী বলেন, মিসরের কাজকর্ম তাঁর হাতে আসার পর তিনি মানুষের সঙ্গে নরম ব্যবহার করতেন। তাদের ঈমানের দিকে ডাকতেন, শেষে তারা ঈমান আনে। তিনি তাদের মাঝে ইনসাফ কায়েম করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Patient Are the Muhsinin",
+          "bn": "সবরকারীরাই মুহসিন"
+        },
+        "p": [
+          {
+            "en": "Wa la nudi'u ajra l-muhsinin: and We do not let the reward of those who do good be lost. At-Tabari defines the muhsin as whoever did well and obeyed his Lord, doing what He commanded and stopping at what He forbade, just as Allah did not let the work of Yusuf be lost. Ibn 'Abbas and Wahb, cited by al-Baghawi and al-Qurtubi, say the word here means the patient. Al-Qurtubi lists that patience: in the well, in bondage, in prison, and in holding back from what was forbidden.",
+            "bn": "ওয়া লা নুদীউ আজরাল মুহসিনীন: আর আমি সৎকর্মশীলদের প্রতিদান নষ্ট হতে দিই না। তাবারীর সংজ্ঞায় মুহসিন সেই ব্যক্তি, যে ভালো কাজ করেছে, রবের আনুগত্য করেছে, তাঁর আদেশ পালন করেছে আর তাঁর নিষেধ থেকে থেমে গেছে। ঠিক যেমন আল্লাহ ইউসুফ (আঃ)-এর আমল নষ্ট হতে দেননি। বাগাভী ও কুরতুবী ইবন আব্বাস (রাঃ) ও ওয়াহবের বরাতে বলেন, এখানে মুহসিন মানে সবরকারী। কুরতুবী সেই সবরের তালিকাও দেন: কূপে, দাসত্বে, কারাগারে, আর হারাম থেকে নিজেকে বিরত রাখায়।"
+          },
+          {
+            "en": "Ibn Kathir reads the clause the same way: We did not let Yusuf's patience be lost, under his brothers' harm and in the prison, so Allah followed it with safety, help and support. Al-Qurtubi then reports from al-Mawardi two views of what Yusuf was given here: a reward for what he was tried with, or a favour granted over and above, with his reward left intact for the Hereafter. The Muyassar widens the promise to anyone who does any good deed.",
+            "bn": "ইবন কাসীরও একইভাবে পড়েন: ভাইদের দেওয়া কষ্টে আর কারাগারে ইউসুফ (আঃ) যে সবর করেছিলেন, আমি তা নষ্ট হতে দিইনি। তাই আল্লাহ এর পরে দিলেন নিরাপত্তা, সাহায্য আর সমর্থন। কুরতুবী এরপর মাওয়ারদীর বরাতে দুটি মত আনেন, এখানে ইউসুফ (আঃ)-কে যা দেওয়া হলো তা নিয়ে। একটি মত, এটা তাঁর পরীক্ষার প্রতিদান। অন্যটি, এটা বাড়তি অনুগ্রহ, আর তাঁর প্রতিদান আখিরাতের জন্য অক্ষত রাখা আছে। মুয়াসসার প্রতিশ্রুতিটা সবার জন্য খুলে দেয়: যে কেউ যেকোনো নেক আমল করে, তার জন্যই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Better Reward Still Ahead",
+          "bn": "সামনে আরও উত্তম প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the thought: and the reward of the Hereafter is better for those who believed and were mindful of Allah (12:57). Ibn Kathir reads the two verses together. What Allah has prepared for Yusuf (AS) in the Hereafter is greater and more honoured than the authority He gave him in this life, and he sets beside it Sulayman (AS), given a gift in 38:39 and promised nearness and a good return in 38:40. As-Sa'di says it briefly: Yusuf has good in this world and good in the Hereafter.",
+            "bn": "পরের আয়াত কথাটা পূর্ণ করে: আর যারা ঈমান এনেছে ও তাকওয়া অবলম্বন করেছে, তাদের জন্য আখিরাতের প্রতিদান আরও উত্তম (১২:৫৭)। ইবন কাসীর দুই আয়াত একসঙ্গে পড়েন। দুনিয়ায় আল্লাহ ইউসুফ (আঃ)-কে যে ক্ষমতা দিয়েছিলেন, আখিরাতে তাঁর জন্য যা প্রস্তুত, তা তার চেয়ে অনেক বড় ও সম্মানের। পাশে তিনি রাখেন সুলাইমান (আঃ)-এর কথা, যাঁকে ৩৮:৩৯ আয়াতে দান দেওয়া হয়েছে আর ৩৮:৪০ আয়াতে নৈকট্য ও উত্তম পরিণামের প্রতিশ্রুতি। সা'দী অল্প কথায় বলেন: ইউসুফের জন্য দুনিয়াতেও কল্যাণ, আখিরাতেও কল্যাণ।"
+          },
+          {
+            "en": "Then the story moves on, and in 12:58 the brothers come in to him and do not recognise him. The establishing is named as mercy, never as a prize Yusuf (AS) pursued, and the reward that counts most is placed after it, in the Hereafter. The patience of the well and the cell was not wasted while it waited. Neither is the good a believer keeps doing in a hard place today, whether or not this world ever answers it.",
+            "bn": "তারপর কাহিনি এগিয়ে যায়। ১২:৫৮ আয়াতে ভাইয়েরা তাঁর কাছে আসে, কিন্তু তাঁকে চিনতে পারে না। প্রতিষ্ঠাকে বলা হয়েছে রহমত, এমন কোনো পুরস্কার নয় যার পেছনে ইউসুফ (আঃ) ছুটেছিলেন। আর সবচেয়ে বড় প্রতিদান রাখা হয়েছে তার পরে, আখিরাতে। কূপ আর কারাগারের সবর অপেক্ষার দিনগুলোতে বৃথা যায়নি। কঠিন জায়গায় থেকেও আজ একজন মুমিন যে ভালো কাজ করে যায়, তাও বৃথা যায় না, দুনিয়া তার জবাব দিক বা না দিক।"
+          }
+        ]
+      }
+    ]
+  },
   "12:64": {
     "sections": [
       {
