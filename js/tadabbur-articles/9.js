@@ -2647,6 +2647,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:74": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Oath Met With a Fact",
+          "bn": "কসমের জবাবে একটি তথ্য"
+        },
+        "p": [
+          {
+            "en": "Yahlifuna billahi ma qalu: they swear by Allah that they did not say it. The verse opens on a scene that repeats itself. Something is said, someone carries it to the Prophet ﷺ, and the speaker arrives swearing that it never happened. The Qur'an does not argue with the oath. It answers with the fact: wa-laqad qalu kalimat al-kufr, and they certainly did say the word of disbelief. Then the charge widens: they disbelieved after their Islam, and they set out after something they never reached.",
+            "bn": "ইয়াহলিফূনা বিল্লাহি মা কালূ: তারা আল্লাহর নামে কসম খায় যে তারা বলেনি। আয়াতটি শুরু হয় এমন এক দৃশ্যে, যা বারবার ঘটে। কেউ একটা কথা বলে, আরেকজন তা নবী ﷺ-এর কাছে পৌঁছে দেয়, আর বক্তা এসে কসম খেয়ে বলে, এমন কিছুই ঘটেনি। কুরআন কসমের সঙ্গে তর্কে যায় না। জবাব দেয় তথ্য দিয়ে: ওয়া লাকাদ কালূ কালিমাতাল কুফর, তারা অবশ্যই কুফরের কথা বলেছে। তারপর অভিযোগ আরও বড় হয়। ইসলামের পরে তারা কুফরি করেছে, আর এমন কিছুর পেছনে নেমেছে, যার নাগাল পায়নি।"
+          },
+          {
+            "en": "As-Sa'di describes the pattern: they would say something like the words reported in 63:8, or mock the religion and the Messenger one after another, and on hearing that it had reached the Prophet ﷺ they came swearing they had said nothing. At-Tabari sums it up: the hypocrites swear falsely by Allah that they never spoke a word of disbelief which they did speak.",
+            "bn": "এ দৃশ্যের পেছনের অভ্যাসটা সা'দী খুলে বলেন। তারা ৬৩:৮ আয়াতে বর্ণিত কথার মতো কিছু বলত, কিংবা একজনের পর আরেকজন দীন আর রাসূলকে নিয়ে ঠাট্টা করত। তারপর যখন শুনত কথাটা নবী ﷺ-এর কানে পৌঁছে গেছে, এসে কসম খেত যে তারা কিছুই বলেনি। তাবারী সারকথা দেন এভাবে: যে কুফরি কথা মুনাফিকরা নিজের মুখে বলেছে, সেটা না বলার মিথ্যা কসম তারা আল্লাহর নামে খায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Oath Was It",
+          "bn": "কসমটা কার ছিল"
+        },
+        "p": [
+          {
+            "en": "The reports name more than one man. At-Tabari gives, from Hisham ibn 'Urwa from his father 'Urwa, that the verse came down about al-Julas ibn Suwayd ibn as-Samit. Riding back from Quba' with his wife's son Mus'ab, he said: if what Muhammad brought is true, we are worse than these donkeys we are riding. Mus'ab went to the Prophet ﷺ, afraid, he said, that Qur'an would come down about him, or a calamity strike him, or that he be counted in the man's sin. Al-Julas was summoned, asked, and swore.",
+            "bn": "বর্ণনাগুলো একজনের বেশি মানুষের নাম নেয়। তাবারী হিশাম ইবন উরওয়া থেকে, তিনি তাঁর বাবা উরওয়া থেকে বর্ণনা করেন, আয়াতটি নাযিল হয়েছিল আল-জুলাস ইবন সুওয়াইদ ইবনুস সামিতের ব্যাপারে। কুবা থেকে স্ত্রীর ছেলে মুসআবের সঙ্গে ফেরার পথে সে বলেছিল: মুহাম্মাদ যা এনেছেন তা যদি সত্য হয়, তবে আমরা যে গাধার পিঠে চড়ে আছি, আমরা তার চেয়েও অধম। মুসআব নবী ﷺ-এর কাছে গেলেন। তাঁর ভয় ছিল, তাঁকে নিয়ে কুরআন নাযিল হবে, নয়তো কোনো বিপদ নেমে আসবে, কিংবা ওই লোকের গুনাহে তিনিও জড়িয়ে যাবেন। জুলাসকে ডাকা হলো, জিজ্ঞেস করা হলো, আর সে কসম খেল।"
+          },
+          {
+            "en": "Ibn Ishaq tells it under the words fima balaghani, as it reached me, and calls the boy in al-Julas's care 'Umayr. In the longer version Ibn Kathir quotes through al-Umawi, 'Umayr ibn Sa'd says: you are the dearest of people to me, but you have said a thing that will shame you if I tell it and ruin me if I hide it, and one is lighter on me than the other. Al-Baghawi, from al-Kalbi, sets the words at Tabuk and names the hearer 'Amir ibn Qays.",
+            "bn": "ইবন ইসহাক ঘটনাটি বলেন 'ফীমা বালাগানী', অর্থাৎ 'আমার কাছে যেমন পৌঁছেছে' কথাটি জুড়ে দিয়ে। জুলাসের তত্ত্বাবধানে থাকা ছেলেটির নাম তিনি বলেন উমাইর। ইবন কাসীর উমাবীর সূত্রে যে দীর্ঘ বর্ণনা আনেন, সেখানে উমাইর ইবন সা'দ (রাঃ) বলেন: আপনি আমার কাছে সবচেয়ে প্রিয় মানুষ। কিন্তু আপনি এমন কথা বলেছেন, যা জানিয়ে দিলে আপনার বেইজ্জতি হবে, আর চেপে গেলে আমি ধ্বংস হব। দুটোর একটা আমার কাছে অন্যটার চেয়ে হালকা। বাগাভী কালবী থেকে ঘটনাটিকে তাবুকে স্থাপন করেন, আর যিনি শুনেছিলেন তাঁর নাম বলেন আমির ইবন কায়স।"
+          },
+          {
+            "en": "In al-Kalbi's account both men swore beside the pulpit, and 'Amir then prayed: O Allah, send down to Your Prophet the proof of whichever of us is truthful. A second line of reports names 'Abd Allah ibn Ubayy. Qatada, in at-Tabari, Ibn Kathir and al-Qurtubi, says that when a man of Juhayna and a man of Ghifar came to blows, Ibn Ubayy said: fatten your dog and it will eat you, and: if we return to Madina, the more honoured will drive out the more humble.",
+            "bn": "কালবীর বর্ণনায় দুজনেই মিম্বারের পাশে দাঁড়িয়ে কসম খেয়েছিলেন। তারপর আমির দুআ করলেন: হে আল্লাহ, আমাদের দুজনের মধ্যে যে সত্যবাদী, তার প্রমাণ তোমার নবীর উপর নাযিল কর। বর্ণনার আরেকটি ধারা নাম নেয় আবদুল্লাহ ইবন উবাইয়ের। তাবারী, ইবন কাসীর ও কুরতুবীতে কাতাদা বলেন, জুহাইনার এক লোক আর গিফারের এক লোকের মধ্যে মারামারি বাধলে ইবন উবাই বলেছিল: কুকুরকে খাইয়ে মোটা কর, সে তোমাকেই খাবে। আরও বলেছিল: মদীনায় ফিরলে সম্মানিতরা হীনদের বের করে দেবে।"
+          },
+          {
+            "en": "At-Tabari adds a third report, from Ibn 'Abbas: a man the Prophet ﷺ had said would look at them with the eyes of a devil was asked why he and his companions reviled him, and they all swore they had not. Al-Qurtubi records al-Hasan's view that the words belong to all the hypocrites, which Ibn al-'Arabi calls correct, the wording being general. At-Tabari's own verdict: either man may be meant, and we do not know which, since no report establishes proof; so we say what Allah said.",
+            "bn": "তাবারী তৃতীয় একটি বর্ণনাও আনেন ইবন আব্বাস (রাঃ) থেকে। নবী ﷺ আগেই বলেছিলেন, এক লোক আসবে যে শয়তানের চোখে তাকাবে। লোকটি এলে তিনি জিজ্ঞেস করলেন, তুমি আর তোমার সঙ্গীরা আমাকে গালি দাও কেন? তারা সবাই কসম খেল যে দেয়নি। কুরতুবী হাসানের মত উল্লেখ করেন: কথাটা সব মুনাফিকের। ইবনুল আরাবী এই মতকেই সঠিক বলেন, কারণ আয়াতের ভাষা ব্যাপক। তাবারীর নিজের রায়: দুজনের যে কেউ উদ্দেশ্য হতে পারে, কোনজন তা আমরা জানি না, কারণ কোনো বর্ণনাই প্রমাণ হিসেবে দাঁড়ায় না। তাই আল্লাহ যা বলেছেন, আমরা ততটুকুই বলি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plan That Fell Short",
+          "bn": "যে পরিকল্পনা নাগাল পায়নি"
+        },
+        "p": [
+          {
+            "en": "Wa-hammu bi-ma lam yanalu: and they resolved on what they did not attain. At-Tabari says the commentators differed over who resolved and on what. Mujahid says the hypocrite meant to kill the believer who had answered him, you are worse than a donkey, so that he would not spread the word; al-Qurtubi names al-Julas as that man and adds that he did not do it, being unable. Another report from Mujahid, in at-Tabari, speaks of a man of Quraysh called al-Aswad who resolved to kill the Messenger ﷺ.",
+            "bn": "ওয়া হাম্মূ বিমা লাম ইয়ানালূ: আর তারা এমন কিছুর সংকল্প করেছিল, যা তারা পায়নি। তাবারী বলেন, কে সংকল্প করেছিল আর কিসের, তা নিয়ে মুফাসসিরদের মতভেদ আছে। মুজাহিদ বলেন, যে মুমিন তাকে জবাব দিয়েছিলেন 'তুমি গাধার চেয়েও অধম', মুনাফিকটি তাঁকে হত্যা করতে চেয়েছিল, যাতে কথাটা ছড়িয়ে না পড়ে। কুরতুবী ওই লোককে জুলাস বলে চিহ্নিত করেন এবং যোগ করেন, সে তা করতে পারেনি, অক্ষম ছিল। তাবারীতে মুজাহিদের আরেকটি বর্ণনায় আছে কুরাইশের আসওয়াদ নামের এক লোকের কথা, যে রাসূল ﷺ-কে হত্যার সংকল্প করেছিল।"
+          },
+          {
+            "en": "Qatada, in at-Tabari, makes the unreached aim Ibn Ubayy's words that the more honoured would drive the more humble out of Madina. As-Suddi, in al-Baghawi and Ibn Kathir's English abridgement, says they planned to crown Ibn Ubayy in Madina and never attained it. Al-Qurtubi ties the phrase to the hypocrites' resolve to kill the Prophet ﷺ on the night of the 'Aqaba, the mountain pass, during the Tabuk campaign, and says they were twelve men. As-Sa'di reads it the same way: Allah told him their story and he sent someone to turn them back.",
+            "bn": "তাবারীতে কাতাদার মতে যে লক্ষ্য তারা পায়নি, তা হলো ইবন উবাইয়ের সেই কথা: সম্মানিতরা হীনদের মদীনা থেকে বের করে দেবে। বাগাভী আর ইবন কাসীরের ইংরেজি সংক্ষেপে সুদ্দী বলেন, তারা মদীনায় ইবন উবাইয়ের মাথায় মুকুট পরাতে চেয়েছিল, কিন্তু তা আর হয়ে ওঠেনি। কুরতুবী কথাটিকে যুক্ত করেন তাবুক অভিযানে আকাবা অর্থাৎ পাহাড়ি গিরিপথের রাতে নবী ﷺ-কে হত্যার জন্য মুনাফিকদের সংকল্পের সঙ্গে, আর বলেন তারা ছিল ১২ জন। সা'দীও একই অর্থ নেন: আল্লাহ তাঁকে তাদের খবর জানিয়ে দেন, আর তিনি এমন লোক পাঠান যে তাদের ফিরিয়ে দেয়।"
+          },
+          {
+            "en": "Al-Baghawi gives the 'Aqaba reading with qila, it is said: twelve hypocrites waited at the pass on the Tabuk road, and Hudhayfa was sent to strike the faces of their mounts. Ibn Kathir's abridgement credits ad-Dahhak with saying the verse came down about them. Ma'arif al-Qur'an sees no contradiction in all these events being meant. The Muyassar keeps to the plain line: they tried to harm the Messenger of Allah ﷺ, and Allah did not let them.",
+            "bn": "বাগাভী আকাবার ব্যাখ্যাটি আনেন 'কীলা', অর্থাৎ 'বলা হয়' দিয়ে: তাবুকের পথে ১২ জন মুনাফিক গিরিপথে ওত পেতে ছিল, আর হুযাইফা (রাঃ)-কে পাঠানো হয় তাদের সওয়ারির মুখে আঘাত করতে। ইবন কাসীরের সংক্ষেপে দাহহাকের কথা আছে: আয়াতটি তাদের ব্যাপারেই নাযিল হয়েছে। মাআরিফুল কুরআন মনে করে, এসব ঘটনার সবগুলোই উদ্দেশ্য হতে পারে, এতে কোনো বিরোধ নেই। মুয়াসসার সাদা কথায় থামে: তারা আল্লাহর রাসূল ﷺ-এর ক্ষতি করতে চেয়েছিল, আল্লাহ তাদের সে সুযোগ দেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fourteen, or Fifteen",
+          "bn": "চৌদ্দজন, নাকি পনেরোজন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gathers longer accounts of the night at the pass from other books, then says the story's soundness is attested by a report in Muslim's Sahih, confirmed at number 2779. It neither mentions this verse nor quotes its words; the link to 9:74 is the commentators', not the narration's. Muslim's grading is his choice to include it in his Sahih.",
+            "bn": "গিরিপথের সেই রাত নিয়ে ইবন কাসীর অন্যান্য কিতাব থেকে দীর্ঘ বর্ণনা জড়ো করেন। তারপর বলেন, ঘটনাটি যে সঠিক, তার সাক্ষী মুসলিমের সহীহ গ্রন্থের একটি বর্ণনা, যা ২৭৭৯ নম্বরে পাওয়া গেছে। তাতে এই আয়াতের উল্লেখ নেই, আয়াতের কোনো শব্দও নেই। ৯:৭৪-এর সঙ্গে একে জুড়েছেন মুফাসসিরেরা, বর্ণনাটি নিজে নয়। মুসলিমের মূল্যায়ন এটুকুই যে তিনি একে নিজের সহীহ গ্রন্থে স্থান দিয়েছেন।"
+          },
+          {
+            "en": "Abu at-Tufayl said: Between a man of the people of the 'Aqaba and Hudhayfa there was something of what happens between people. He said: I adjure you by Allah, how many were the people of the 'Aqaba? The people said to him: tell him, since he has asked you. He said: we used to be told they were fourteen; if you were one of them, then the group was fifteen. And I bear witness by Allah that twelve of them are at war with Allah and His Messenger in the life of this world and on the Day the witnesses stand.",
+            "bn": "আবুত তুফাইল বলেন: আকাবার লোকদের একজন আর হুযাইফা (রাঃ)-এর মধ্যে মানুষে মানুষে যেমন হয়, তেমন কিছু একটা ঘটেছিল। লোকটি বলল: আল্লাহর কসম দিয়ে জিজ্ঞেস করছি, আকাবার লোকেরা কতজন ছিল? উপস্থিত লোকেরা হুযাইফাকে বলল: সে যখন জিজ্ঞেস করেছে, তাকে বলে দিন। তিনি বললেন: আমাদের জানানো হতো, তারা চৌদ্দজন। তুমি যদি তাদের একজন হও, তবে দলটা ছিল পনেরোজনের। আর আমি আল্লাহর নামে সাক্ষ্য দিচ্ছি, তাদের ১২ জন দুনিয়ার জীবনে এবং যেদিন সাক্ষীরা দাঁড়াবে সেদিন আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধরত।"
+          },
+          {
+            "en": "The report continues: And he excused three, who said: we did not hear the caller of the Messenger of Allah ﷺ, and we did not know what the group intended. He had been on stony ground, and he walked, and said: the water is little, so let no one get to it before me. Then he found that some people had got there before him, and he cursed them that day.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: আর তিনজনকে তিনি অব্যাহতি দিলেন, যারা বলেছিল: আমরা আল্লাহর রাসূল ﷺ-এর ঘোষকের ডাক শুনিনি, আর দলটার উদ্দেশ্যও জানতাম না। তিনি ছিলেন পাথুরে এক জায়গায়। তিনি হেঁটে চললেন আর বললেন: পানি অল্প, কেউ যেন আমার আগে সেখানে না পৌঁছায়। তারপর দেখলেন, কিছু লোক তাঁর আগেই পৌঁছে গেছে। সেদিন তিনি তাদের লানত করলেন।"
+          },
+          {
+            "en": "Ibn Kathir also cites, from Anas and Zayd ibn Arqam, a report in which a hypocrite said, if this man is truthful we are worse than donkeys, and the verse came down confirming Zayd. He notes that al-Bukhari recorded it only as far as this is the one whose hearing Allah confirmed, and that the known setting is Banu al-Mustaliq, so a narrator may have named the wrong verse. Al-Bukhari's text at 4906 does end there. No confirmed report ties this verse to one occasion by its wording.",
+            "bn": "ইবন কাসীর আনাস (রাঃ) ও যায়দ ইবন আরকাম (রাঃ) থেকে আরেকটি বর্ণনা আনেন। তাতে এক মুনাফিক বলেছিল, এই লোক সত্যবাদী হলে আমরা গাধার চেয়েও অধম, আর যায়দের কথার সত্যতা জানিয়ে আয়াতটি নাযিল হয়। ইবন কাসীর জানান, বুখারী এটিকে কেবল 'ইনিই সেই লোক, যার কানের সাক্ষ্য আল্লাহ সত্য বলে দিয়েছেন' পর্যন্ত এনেছেন। আর ঘটনাটি প্রসিদ্ধভাবে বনুল মুসতালিকের, তাই হয়তো কোনো বর্ণনাকারী ভুল আয়াতের নাম নিয়েছেন। বুখারীর ৪৯০৬ নম্বরের ভাষ্য সত্যিই সেখানেই থামে। যাচাই করা কোনো বর্ণনাই নিজের ভাষায় এই আয়াতকে একটিমাত্র ঘটনার সঙ্গে বাঁধে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Resenting the Hand That Gave",
+          "bn": "দাতার হাতের উপরই ক্ষোভ"
+        },
+        "p": [
+          {
+            "en": "Wa ma naqamu illa an aghnahumu Allahu wa rasuluhu min fadlihi: and they resented nothing except that Allah and His Messenger had enriched them from His bounty. At-Tabari says the hypocrite who spoke had been poor until a client of his was killed and the Messenger ﷺ gave him the blood-money; 'Urwa, in at-Tabari, names that client as al-Julas's. 'Ikrima says the clause came down when the Prophet ﷺ set at twelve thousand the blood-money for an Ansari killed by a client of Banu 'Adi ibn Ka'b. Qatada says the payment was owed to Ibn Ubayy.",
+            "bn": "ওয়া মা নাকামূ ইল্লা আন আগনাহুমুল্লাহু ওয়া রাসূলুহু মিন ফাদলিহ: তাদের ক্ষোভের আর কোনো কারণ ছিল না, শুধু এই যে আল্লাহ ও তাঁর রাসূল নিজ অনুগ্রহে তাদের সচ্ছল করেছেন। তাবারী বলেন, যে মুনাফিক কথাটা বলেছিল, সে গরিব ছিল। তার এক মাওলা নিহত হলে রাসূল ﷺ তাকে রক্তপণ দেন, আর সে সচ্ছল হয়। তাবারীতে উরওয়া বলেন, সেই মাওলা ছিল জুলাসের। ইকরিমা বলেন, বনু আদী ইবন কা'বের এক মাওলার হাতে নিহত এক আনসারীর রক্তপণ নবী ﷺ ১২ হাজার ধার্য করলে বাক্যটি নাযিল হয়। কাতাদার মতে রক্তপণটা পাওনা ছিল ইবন উবাইয়ের।"
+          },
+          {
+            "en": "Al-Baghawi puts the sum for al-Julas's client at twelve thousand dirhams. Al-Kalbi, in al-Baghawi and al-Qurtubi, widens it: before the Prophet ﷺ came they lived in hardship, and after he came they grew rich on the spoils. Ibn Kathir reads the clause as saying the Messenger had no fault in their eyes except that Allah had enriched them through his blessing. He adds that this form of words is used where there is no fault at all, as in 85:8: they resented nothing in them except that they believed in Allah.",
+            "bn": "বাগাভী জুলাসের মাওলার রক্তপণের পরিমাণ বলেন ১২ হাজার দিরহাম। কুরতুবী ও বাগাভীতে কালবী কথাটা আরও বিস্তৃত করেন: নবী ﷺ আসার আগে তারা অভাবে দিন কাটাত, তিনি আসার পর গনীমতের মাল পেয়ে তারা সচ্ছল হয়। ইবন কাসীর বাক্যটির অর্থ করেন এভাবে: তাদের চোখে রাসূলের আর কোনো দোষ ছিল না, শুধু এই যে তাঁর বরকতে আল্লাহ তাদের সচ্ছল করেছেন। তিনি আরও বলেন, যেখানে আদৌ কোনো দোষ নেই, সেখানেই এ ধরনের বাক্য বলা হয়। যেমন ৮৫:৮ আয়াতে: তারা তাদের উপর ক্ষুব্ধ ছিল শুধু এ কারণে যে তারা আল্লাহর উপর ঈমান এনেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi quotes an-Nabigha to show the device: there is no fault in them, except that their swords are notched from striking the ranks. The only charge is a merit. He then gives the proverb, beware the harm of the one you have been good to, and al-Qushayri's report that al-Bajali, asked whether it was in the Book of Allah, pointed to this verse. As-Sa'di calls it one of the strangest things: to belittle the one who brought them from darkness into light and made them rich after poverty, when his due was honour.",
+            "bn": "কৌশলটা বোঝাতে কুরতুবী নাবিগার কবিতা আনেন: তাদের কোনো দোষ নেই, শুধু এই যে শত্রুসারিতে আঘাত করতে করতে তাদের তরবারির ধার ক্ষয়ে গেছে। একমাত্র অভিযোগটাই আসলে গুণ। তারপর তিনি প্রবাদটি আনেন: যার উপকার করেছ, তার অনিষ্ট থেকে সাবধান থাকো। কুশাইরীর বর্ণনায় বাজালীকে জিজ্ঞেস করা হয়েছিল, এ কথা কি আল্লাহর কিতাবে আছে? তিনি এই আয়াত দেখিয়ে দেন। সা'দী একে বলেন সবচেয়ে আশ্চর্য ব্যাপারগুলোর একটি। যিনি তাদের অন্ধকার থেকে আলোয় এনেছেন, অভাবের পর সচ্ছল করেছেন, তাঁকেই তারা তুচ্ছ করে। অথচ তাঁর হক ছিল সম্মান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted Muslim, Then Undone",
+          "bn": "গণ্য হয়েও যা ভেঙে গেল"
+        },
+        "p": [
+          {
+            "en": "What was the word of disbelief? Al-Qurtubi lists the readings: al-Naqqash says it was their denial of the victory Allah had promised; others name the words of al-Julas or of Ibn Ubayy; al-Qushayri says it was reviling the Prophet ﷺ and attacking Islam. Wa-kafaru ba'da islamihim he explains as after they had been judged Muslims, and al-Baghawi as showing disbelief after showing faith. As-Sa'di puts it most exactly: their earlier Islam, though outwardly it took them out of disbelief, was undone by their later words.",
+            "bn": "কুফরের কথাটা কী ছিল? কুরতুবী মতগুলো একে একে আনেন। নাক্কাশ বলেন, আল্লাহ যে বিজয়ের ওয়াদা দিয়েছিলেন, তা অস্বীকার করা। অন্যরা জুলাস বা ইবন উবাইয়ের কথার নাম নেন। কুশাইরী বলেন, নবী ﷺ-কে গালি দেওয়া আর ইসলামের নিন্দা করা। ওয়া কাফারূ বা'দা ইসলামিহিম অংশের ব্যাখ্যায় কুরতুবী বলেন, তাদের মুসলিম বলে গণ্য করার পর। বাগাভী বলেন, ঈমান প্রকাশের পর কুফর প্রকাশ করা। সা'দী কথাটা সবচেয়ে নিখুঁতভাবে বলেন: বাহ্যত তাদের আগের ইসলাম তাদের কুফরের গণ্ডি থেকে বের করেছিল, কিন্তু পরের কথাবার্তা সেই ইসলাম ভেঙে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Door Inside the Charge",
+          "bn": "অভিযোগের ভেতরেই দরজা"
+        },
+        "p": [
+          {
+            "en": "Fa-in yatubu yaku khayran lahum: so if they repent, it is better for them. At-Tabari says that if those who spoke the word turn back from it, that return is better for them than hypocrisy; if they turn their backs on repentance, Allah will punish them in this world, by killing or swift disgrace, and in the next by the Fire. As-Sa'di calls repentance the root of happiness in both worlds. At-Tabari adds that their clans had protected them, but would not shield them from Allah.",
+            "bn": "ফাইন ইয়াতূবূ ইয়াকু খাইরাল লাহুম: তারা যদি তওবা করে, তবে তা তাদের জন্যই ভালো। তাবারী বলেন, যারা কথাটা বলেছিল তারা যদি তা থেকে ফিরে আসে, তবে মুনাফিকির চেয়ে এই ফিরে আসাই তাদের জন্য ভালো। আর যদি তওবা থেকে মুখ ফিরিয়ে নেয়, তবে আল্লাহ দুনিয়াতে তাদের শাস্তি দেবেন হত্যা অথবা তাৎক্ষণিক লাঞ্ছনা দিয়ে, আর আখিরাতে আগুন দিয়ে। সা'দী তওবাকে বলেন দুনিয়া ও আখিরাতের সৌভাগ্যের মূল। তাবারী আরও বলেন, তাদের গোত্র এতদিন তাদের আগলে রেখেছিল, কিন্তু আল্লাহর হাত থেকে রক্ষা করবে না।"
+          },
+          {
+            "en": "Several reports say the man the verse was about took the offer. 'Urwa, in at-Tabari, has al-Julas say: Allah has left repentance open for me, so I repent, and the Prophet ﷺ accepted it from him. Ibn Ishaq says he repented and repented well, as it reached me; where the same sentence appears inside the report from Ka'b ibn Malik, Ibn Kathir thinks it is Ibn Ishaq's own addition, not Ka'b's. In al-Kalbi's account, in al-Baghawi, al-Julas stood, said 'Amir had told the truth, and asked forgiveness.",
+            "bn": "কয়েকটি বর্ণনা বলে, আয়াতটি যাকে নিয়ে, সে এই সুযোগ নিয়েছিল। তাবারীতে উরওয়ার বর্ণনায় জুলাস বলে: আল্লাহ আমার জন্য তওবার সুযোগ রেখে দিয়েছেন, তাই আমি তওবা করছি। নবী ﷺ তার তওবা কবুল করেন। ইবন ইসহাক বলেন, সে তওবা করেছিল এবং তার তওবা ভালো ছিল, 'আমার কাছে যেমন পৌঁছেছে'। কা'ব ইবন মালিক (রাঃ)-এর বর্ণনার ভেতরেও একই বাক্য আছে। ইবন কাসীরের ধারণা, সেটা কা'বের নয়, ইবন ইসহাকের নিজের সংযোজন। বাগাভীতে কালবীর বর্ণনায় জুলাস উঠে দাঁড়িয়ে বলে, আমির সত্য বলেছেন, তারপর সে ইস্তিগফার করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict to Pass On",
+          "bn": "অন্যের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks of particular people in the Prophet's ﷺ lifetime, whose words revelation itself confirmed over their oaths. It gives nobody today licence to call any living person a hypocrite or an apostate, and no licence to treat a reported remark or a quarrel as proof of disbelief. It is not a ruling on takfir and must not be used as one. Even the report in Muslim names no one, and leaves three excused.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর জীবদ্দশার নির্দিষ্ট কিছু মানুষের কথা বলে, যাদের কসমের উপরে ওহি নিজেই তাদের কথার সত্যতা জানিয়ে দিয়েছে। আজ কাউকে কোনো জীবিত মানুষকে মুনাফিক বা মুরতাদ বলার অনুমতি এ আয়াত দেয় না। কারও মুখের কথা কানে আসা, কিংবা কোনো ঝগড়াকে কুফরের প্রমাণ ধরে নেওয়ারও অনুমতি দেয় না। এটা তাকফীরের কোনো ফয়সালা নয়, সে কাজে একে ব্যবহারও করা যাবে না। মুসলিমের বর্ণনাটিও একজনেরও নাম নেয় না, আর তিনজনকে অব্যাহতি দিয়ে রাখে।"
+          },
+          {
+            "en": "What the verse asks of a reader concerns the reader. What do I say when I think the person I am speaking about will never hear it? What do I swear to when it is carried back? Is there someone I resent for no reason except that they did me good? And the door it holds open in the middle of its charge is open to me too, for as long as I am alive to walk through it.",
+            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা পাঠকেরই ব্যাপার। যার সম্পর্কে বলছি, সে কখনো শুনবে না ভেবে আমি কী বলি? কথাটা ঘুরে আমার কাছে ফিরে এলে আমি কিসের কসম খাই? এমন কেউ কি আছে, যার উপর আমার ক্ষোভের কারণ শুধু এই যে সে আমার উপকার করেছে? অভিযোগের মাঝখানে আয়াতটি যে দরজা খোলা রেখেছে, তা আমার জন্যও খোলা, যতদিন বেঁচে আছি আর সে দরজা দিয়ে ঢোকার সময় আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "9:79": {
     "sections": [
       {

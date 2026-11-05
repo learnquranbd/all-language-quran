@@ -21231,6 +21231,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Obey even when obedience seems to shut a door of provision; Allah's bounty is not confined to one door, and the uncleanness named here is of belief, not of anyone's body.",
     "lessonBn": "আনুগত্য করতে গিয়ে রুজির কোনো দরজা বন্ধ হয়ে যাচ্ছে মনে হলেও আনুগত্য করুন। আল্লাহর অনুগ্রহ এক দরজায় আটকে থাকে না, আর এখানে যে অপবিত্রতার কথা, তা বিশ্বাসের, কারও শরীরের নয়।"
+  },
+  "9:74": {
+    "reflectionEn": "A word is said, someone reports it, and the speaker swears by Allah that he never said it. The verse does not argue with the oath. It simply states: they did say it. Then it lays bare what sat beneath the word. They had set out after something they never reached, and their resentment had no cause except that they had been given more than they had. And in the middle of the charge stands a door: if they repent, it is better for them. An oath can cover a sentence for a while; it cannot unsay it. When my own words are carried back to me, do I deny them, or do I own them while the door is still open?",
+    "reflectionBn": "একটা কথা বলা হলো, কেউ সেটা পৌঁছে দিল, আর বক্তা আল্লাহর নামে কসম খেয়ে বলল, সে এমন কিছু বলেনি। আয়াত কসমের সঙ্গে তর্কে যায় না। সোজা জানিয়ে দেয়: তারা বলেছে। তারপর কথাটার নিচে কী ছিল, তা খুলে দেখায়। তারা এমন কিছুর পেছনে নেমেছিল, যার নাগাল কখনো পায়নি। আর তাদের ক্ষোভের কোনো কারণ ছিল না, শুধু এটুকু যে তাদের হাতে আগের চেয়ে বেশি এসেছিল। অভিযোগের ঠিক মাঝখানে একটা দরজাও রাখা আছে: তারা যদি তওবা করে, তা তাদের জন্যই ভালো। কসম দিয়ে কিছুদিন একটা কথা ঢেকে রাখা যায়, কিন্তু বলা কথা ফেরত নেওয়া যায় না। আমার নিজের কথা যখন ঘুরে আমার কাছে ফিরে আসে, আমি কি অস্বীকার করি, নাকি দরজা খোলা থাকতেই দায়টা নিজের কাঁধে নিই?",
+    "pointsEn": [
+      "The last time a word of mine was reported back to me, was my first move to own it or to swear it away?",
+      "Is there anyone I resent for no real reason except that they did me good?",
+      "What have I set out to do against someone that I am now grateful I never managed to carry out?",
+      "Which of my remarks in private would I be ashamed to hear read out in front of the person they were about?",
+      "If a verse of accusation still holds the door of repentance open, what am I waiting for before I walk through it?"
+    ],
+    "pointsBn": [
+      "শেষবার আমার কোনো কথা যখন কেউ আমার সামনে ফিরিয়ে এনেছিল, আমি কি প্রথমেই সেটা স্বীকার করেছিলাম, নাকি কসম খেয়ে উড়িয়ে দিয়েছিলাম?",
+      "এমন কেউ কি আছে, যার উপর আমার রাগ আছে, অথচ আসল কারণ শুধু এই যে সে আমার উপকার করেছে?",
+      "কারও বিরুদ্ধে কোন কাজে আমি নেমেছিলাম, যা শেষ পর্যন্ত করতে পারিনি বলে আজ আল্লাহর শুকরিয়া আদায় করি?",
+      "আড়ালে কারও সম্পর্কে বলা আমার কোন কথা তার সামনেই পড়ে শোনানো হলে আমি লজ্জায় মাথা নিচু করব?",
+      "অভিযোগে ভরা একটা আয়াতও যখন তওবার দরজা খোলা রাখে, তখন সে দরজা দিয়ে ঢুকতে আমি আর কিসের অপেক্ষায় আছি?"
+    ],
+    "lessonEn": "An oath cannot unsay a word. Own what you said, ask whether your resentment is really at a kindness, and take the door of repentance the verse leaves open.",
+    "lessonBn": "কসম দিয়ে বলা কথা ফেরানো যায় না। যা বলেছেন তার দায় নিন, ভেবে দেখুন আপনার ক্ষোভ আসলে কোনো উপকারের বিরুদ্ধে কি না, আর আয়াতটি তওবার যে দরজা খোলা রেখেছে, সেটা দিয়ে ঢুকে পড়ুন।"
   }
 };
 
