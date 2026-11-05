@@ -435,6 +435,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Count No One Finishes",
+          "bn": "যে গোনা কখনো শেষ হয় না"
+        },
+        "p": [
+          {
+            "en": "Wa kam ahlakna mina l-quruni min ba'di Nuh: and how many generations have We destroyed after Nuh (AS). Al-Qurtubi notes that kam stands in the place of an accusative, governed by ahlakna, and he glosses the clause as: how many a people who disbelieved had ruin come down on them. The Muyassar renders kam simply as many: many are the nations that denied their messengers whom We destroyed after Allah's Prophet Nuh. The question hands the listener a number too large to say.",
+            "bn": "ওয়া কাম আহলাকনা মিনাল কুরূনি মিম বা'দি নূহ: নূহ (আঃ)-এর পর কত প্রজন্মকেই না আমি ধ্বংস করেছি! কুরতুবী জানান, এখানে কাম শব্দটি আহলাকনা ক্রিয়ার কর্ম হিসেবে নসবের স্থানে বসেছে। অর্থটা তিনি খুলে বলেন এভাবে: কুফরি করেছে এমন কত জাতির উপরই না সর্বনাশ নেমে এসেছে। মুয়াসসার কাম-কে সোজা 'অনেক' অর্থে নেয়: আল্লাহর নবী নূহ (আঃ)-এর পর রাসূলদের অস্বীকারকারী অনেক জাতিকে আমি ধ্বংস করেছি। শ্রোতার হাতে এমন এক সংখ্যা তুলে দেওয়া হচ্ছে, যা মুখে বলে শেষ করা যায় না।"
+          },
+          {
+            "en": "Verse 17:15 has just said that no bearer of burdens carries another's burden, and that Allah never punishes until He has sent a messenger. At-Tabari draws the line from that verse to this one. Allah is saying, in his paraphrase: turn back to obedience to your Lord, for We have sent you a messenger to alert you to Our proofs and wake you from your heedlessness; We would not punish a people until We had sent them one, and you persist in your defiance.",
+            "bn": "ঠিক আগে ১৭:১৫ বলেছে, কেউ অন্যের বোঝা বইবে না, আর রাসূল না পাঠিয়ে আল্লাহ কখনো শাস্তি দেন না। তাবারী সেই আয়াত থেকে এ আয়াত পর্যন্ত একটা রেখা টানেন। তাঁর ব্যাখ্যায় আল্লাহ যেন বলছেন: তোমাদের রবের আনুগত্যে ফিরে এসো। আমি তোমাদের কাছে রাসূল পাঠিয়েছি, যিনি আমার প্রমাণগুলোর দিকে তোমাদের সজাগ করেন আর গাফিলতি থেকে জাগিয়ে তোলেন। রাসূল না পাঠিয়ে আমি কোনো জাতিকে শাস্তি দিই না, অথচ তোমরা নাফরমানিতেই অটল।"
+          },
+          {
+            "en": "Between the two stands 17:16, on a town whose affluent are commanded and then defy; Ma'arif al-Qur'an, which treats the two verses together, explains that they were first commanded through the prophets to believe and obey, and it records other readings of amarna, among them 'We multiplied'. That debate belongs to its own verse. Here the Qur'an widens the frame, from one town to the long line of towns, and from what was done to them to the One who saw it.",
+            "bn": "মাঝখানে আছে ১৭:১৬, এমন এক জনপদের কথা যার বিত্তশালীদের আদেশ দেওয়া হয়, আর তারা নাফরমানি করে। মাআরিফুল কুরআন আয়াত দুটি একসঙ্গে আলোচনা করে, আর ব্যাখ্যা দেয় যে নবীদের মাধ্যমে আগে তাদের ঈমান ও আনুগত্যের আদেশ দেওয়া হয়েছিল। আমারনা শব্দের অন্য কিরাআতও সেখানে আছে, তার একটির অর্থ 'আমি সংখ্যায় বাড়িয়ে দিই'। সে বিতর্ক ওই আয়াতেরই বিষয়। এখানে কুরআন দৃষ্টি প্রসারিত করে। এক জনপদ থেকে জনপদের দীর্ঘ সারিতে, আর তাদের সঙ্গে কী ঘটেছিল তা থেকে তাঁর দিকে, যিনি সবটা দেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "People Joined by Their Age",
+          "bn": "এক যুগে গাঁথা মানুষ"
+        },
+        "p": [
+          {
+            "en": "What is a qarn? Al-Qurtubi's first answer is: a nation of people, plural qurun. He quotes a poet: when the qarn you lived among has gone, and you are left behind in another qarn, you are a stranger. Every people in its era is a qarn, he says, the word taken from iqtiran, being joined: a world of people joined one to another. He adds that the root sense of qarn is something that rises up, like the horn of an animal that has one.",
+            "bn": "কারন কী? কুরতুবীর প্রথম উত্তর: মানুষের একটি জাতি, বহুবচনে কুরূন। তিনি এক কবির পঙ্‌ক্তি উদ্ধৃত করেন: যে কারনের মাঝে তুমি ছিলে তারা চলে গেলে, আর তুমি রয়ে গেলে আরেক কারনে, তখন তুমি পরদেশি। তাঁর কথায়, নিজের যুগে প্রতিটি জনগোষ্ঠীই এক কারন। শব্দটি এসেছে ইকতিরান থেকে, মানে জুড়ে থাকা। এক যুগের মানুষ একে অপরের সঙ্গে জোড়া লাগানো এক জগৎ। তিনি আরও বলেন, কারন শব্দের মূল অর্থ উঁচু হয়ে ওঠা কিছু, যেমন শিংওয়ালা প্রাণীর শিং।"
+          },
+          {
+            "en": "He supports this sense with the Prophet's saying khayru n-nasi qarni, my qarn is the best of people, glossing qarni as my Companions, and calls it the soundest of what has been said on the word. Al-Bukhari records it, number 2652, from 'Abdullah: the Prophet ﷺ said, \"The best of people are my generation, then those who follow them, then those who follow them. Then there will come peoples in whom the testimony of one of them runs ahead of his oath, and his oath ahead of his testimony.\"",
+            "bn": "এ অর্থের পক্ষে তিনি নবী ﷺ-এর বাণী আনেন: খাইরুন নাসি কারনী, মানুষের মধ্যে শ্রেষ্ঠ আমার কারন। কারনী বলতে তিনি সাহাবিদের বোঝান, আর বলেন, শব্দটির ব্যাপারে যত কথা বলা হয়েছে তার মধ্যে এটিই সবচেয়ে বিশুদ্ধ। বুখারী হাদিসটি বর্ণনা করেছেন, নম্বর ২৬৫২, আবদুল্লাহ (রাঃ) থেকে। নবী ﷺ বলেছেন: \"মানুষের মধ্যে শ্রেষ্ঠ আমার প্রজন্ম, তারপর যারা তাদের পরে আসবে, তারপর যারা তাদের পরে আসবে। এরপর এমন সব লোক আসবে, যাদের একজনের সাক্ষ্য তার কসমের আগে চলে যাবে, আর কসম চলে যাবে সাক্ষ্যের আগে।\""
+          },
+          {
+            "en": "Ibrahim, one of its narrators, adds that they used to be beaten for swearing by testimony and covenant. The hadith is in al-Bukhari's Sahih. It is not about this verse, and al-Qurtubi uses it only for what the word qarn means. On that reading the qurun of 17:17 are peoples, each bound together by its time, and the verse counts them as wholes: not so many individuals who died, but whole worlds of people that ended.",
+            "bn": "বর্ণনাকারীদের একজন ইবরাহীম যোগ করেন, সাক্ষ্য আর অঙ্গীকারের নামে কসম খাওয়ার জন্য তাঁদের মারধর করা হতো। হাদিসটি সহীহ বুখারীতে আছে। তবে এর বিষয় এ আয়াত নয়। কুরতুবী একে আনেন শুধু কারন শব্দের অর্থ বোঝাতে। সে অর্থে ১৭:১৭-এর কুরূন হলো একেকটি জনগোষ্ঠী, নিজ নিজ সময় যাদের এক সুতোয় বেঁধে রেখেছিল। আয়াত তাদের গোনে গোটা হিসেবে। মারা যাওয়া কিছু মানুষ নয়, শেষ হয়ে যাওয়া আস্ত এক একটি জগৎ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting a Qarn in Years",
+          "bn": "বছরের হিসাবে এক কারন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives a second view: that a word is understood, people of a qarn, as in wa-s'ali l-qaryah, ask the town, in 12:82. On this view a qarn is a span of time, and he lists sixty years, seventy, eighty and a hundred. Most of the hadith scholars, he says, hold that it is a hundred, arguing from the Prophet's words to 'Abd Allah ibn Busr, you will live a qarn, after which he lived a hundred years; al-Qurtubi says an-Nahhas mentioned this.",
+            "bn": "কুরতুবী দ্বিতীয় একটি মতও দেন। এখানে একটি শব্দ উহ্য আছে: কারনের লোকেরা, যেমন ১২:৮২-এ ওয়াসআলিল কারইয়াহ, জনপদকে জিজ্ঞেস করো, মানে জনপদের লোকদের। এ মতে কারন হলো সময়ের এক পরিমাপ। তিনি কয়েকটি মত গোনান: ৬০ বছর, ৭০, ৮০, আর ১০০। তাঁর কথায়, বেশির ভাগ মুহাদ্দিস ১০০ বছরের পক্ষে। দলিল হিসেবে তাঁরা আনেন আবদুল্লাহ ইবন বুসর (রাঃ)-কে বলা নবী ﷺ-এর কথা: তুমি এক কারন বাঁচবে। এরপর তিনি ১০০ বছর বেঁচেছিলেন। কুরতুবী জানান, এটি নাহহাস উল্লেখ করেছেন।"
+          },
+          {
+            "en": "At-Tabari records that the span of a qarn is disputed. He gives 120 years from 'Abd Allah ibn Abi Awfa, who adds that the Prophet ﷺ was sent at the start of a qarn. He gives a hundred through the same Ibn Busr report, in which the Prophet ﷺ put his hand on the boy's head and said he would live a qarn; asked how long a qarn is, he answered, a hundred years. And he gives forty through Ibn Sirin. Al-Baghawi lists the same spans, and adds eighty from al-Kalbi.",
+            "bn": "তাবারী জানান, কারনের মেয়াদ নিয়ে মতভেদ আছে। আবদুল্লাহ ইবন আবী আওফা (রাঃ) থেকে তিনি আনেন ১২০ বছরের মত। ইবন আবী আওফা (রাঃ) এ-ও বলেন যে নবী ﷺ প্রেরিত হয়েছিলেন এক কারনের শুরুতে। ১০০ বছরের মতটি তাবারী আনেন সেই ইবন বুসর (রাঃ)-এর বর্ণনা দিয়ে। নবী ﷺ বালকটির মাথায় হাত রেখে বলেছিলেন, সে এক কারন বাঁচবে। জিজ্ঞেস করা হলো, কারন কত দিনের? তিনি বললেন, ১০০ বছর। আর ৪০ বছরের মতটি তিনি আনেন ইবন সীরীনের সূত্রে। বাগাভীও একই মেয়াদগুলোর কথা বলেন, সঙ্গে কালবী থেকে ৮০ বছরের মত জুড়ে দেন।"
+          },
+          {
+            "en": "What is the status of these reports? None is graded in the texts fetched. At-Tabari gives chains; al-Baghawi introduces the Ibn Busr report with ruwiya, it is reported; and at-Tabari's chain for forty years names no Companion between Ibn Sirin and the Prophet ﷺ. A grading for any of them could not be confirmed here, and at-Tabari himself lists the views without choosing. So the article builds nothing on a figure. The verse's point is how many they were, not how long.",
+            "bn": "বর্ণনাগুলোর মান কেমন? যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোথাও এদের কোনোটির মান নির্ণয় করা হয়নি। তাবারী সনদ দিয়েছেন। বাগাভী ইবন বুসর (রাঃ)-এর বর্ণনাটি আনেন 'রুউইয়া', অর্থাৎ 'বর্ণিত আছে' বলে। আর ৪০ বছরের মতের জন্য তাবারীর সনদে ইবন সীরীন ও নবী ﷺ-এর মাঝে কোনো সাহাবির নাম নেই। এদের কোনোটির মান এখানে নিশ্চিত করা যায়নি, আর তাবারী নিজেও কোনো মত বেছে না নিয়ে শুধু তালিকা দিয়েছেন। তাই এ লেখা কোনো সংখ্যার উপর কিছু দাঁড় করায় না। আয়াতের জোর তারা কতজন ছিল তাতে, কত দিন ছিল তাতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Line Starts at Nuh",
+          "bn": "গণনা কেন নূহ (আঃ) থেকে"
+        },
+        "p": [
+          {
+            "en": "Why after Nuh (AS), and not after Adam (AS)? Ibn Kathir reads the phrase as evidence: it indicates that the generations between Adam and Nuh were on Islam, as Ibn 'Abbas said, between Adam and Nuh there were ten qurun, all of them on Islam. Ibn Kathir relays this from Ibn 'Abbas without a chain in the text fetched, and no grading accompanies it. It is a Companion's statement, not a saying of the Prophet ﷺ, and among the commentators fetched for this verse only Ibn Kathir draws this inference.",
+            "bn": "নূহ (আঃ)-এর পরে কেন, আদম (আঃ)-এর পরে নয় কেন? ইবন কাসীর শব্দবন্ধটিকে একটি ইঙ্গিত হিসেবে পড়েন। এ থেকে বোঝা যায়, আদম (আঃ) ও নূহ (আঃ)-এর মাঝের প্রজন্মগুলো ইসলামের উপর ছিল। যেমন ইবন আব্বাস (রাঃ) বলেছেন: আদম ও নূহের মাঝে ১০টি কারন ছিল, তাদের সবাই ছিল ইসলামের উপর। সংগৃহীত পাঠে ইবন কাসীর কথাটি ইবন আব্বাস (রাঃ) থেকে সনদ ছাড়াই আনেন, সঙ্গে কোনো মানও দেওয়া নেই। এটি একজন সাহাবির উক্তি, নবী ﷺ-এর বাণী নয়। এ আয়াতের জন্য যাঁদের তাফসীর সংগ্রহ করা হয়েছে, তাঁদের মধ্যে শুধু ইবন কাসীরই এ সিদ্ধান্ত টানেন।"
+          },
+          {
+            "en": "The others read min ba'di Nuh as the starting point of a line that reaches the listener. At-Tabari paraphrases: We have destroyed before you, from after Nuh down to your own time, many generations who were in denial of Allah's signs, disbelief in Him and rejection of His messengers, just as you are. As-Sa'di names some of them: many nations Allah wiped out with punishment after the people of Nuh, such as 'Ad, Thamud and the people of Lut (AS), and others. The listener in Makka stands at the near end of that line.",
+            "bn": "বাকিরা মিম বা'দি নূহ-কে পড়েন এমন এক সারির শুরু হিসেবে, যা এসে ঠেকেছে শ্রোতার কাছে। তাবারীর ভাষায়: তোমাদের আগে, নূহ (আঃ)-এর পর থেকে তোমাদের এ কাল পর্যন্ত, আমি বহু প্রজন্ম ধ্বংস করেছি। তারা আল্লাহর আয়াত অস্বীকার করত, তাঁর সঙ্গে কুফরি করত, তাঁর রাসূলদের মিথ্যা বলত, ঠিক তোমাদের মতো। সা'দী কয়েকজনের নাম বলেন: নূহ (আঃ)-এর কওমের পর আল্লাহ শাস্তি দিয়ে বহু জাতিকে নিশ্চিহ্ন করেছেন, যেমন আদ, সামূদ, লূত (আঃ)-এর কওম, আরও অনেকে। মক্কার শ্রোতা দাঁড়িয়ে আছে সেই সারির এ মাথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Nation Dearer to Him",
+          "bn": "কোনো জাতি তাঁর বেশি আপন নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari calls the verse a threat from Allah to the idolaters of Quraysh who denied His Messenger: if they do not stop, He will bring His anger on them as He brought it on the nations before them who walked the same road. His paraphrase goes on, in Allah's voice: you are not more honoured by Allah than they were, for there is no kinship between anyone and Allah such that He would punish one people for what He does not punish others for, or pardon some people's sins and punish others for them.",
+            "bn": "তাবারী আয়াতটিকে বলেন কুরাইশের সেই মুশরিকদের প্রতি আল্লাহর হুঁশিয়ারি, যারা তাঁর রাসূলকে অস্বীকার করেছিল। তারা না থামলে আল্লাহ তাদের উপর ঠিক সেভাবেই গজব নামাবেন, যেভাবে নামিয়েছিলেন একই পথে হাঁটা আগের জাতিগুলোর উপর। তারপর আল্লাহর জবানিতে তিনি বলেন: আল্লাহর কাছে তোমরা তাদের চেয়ে বেশি সম্মানিত নও। কারণ আল্লাহর সঙ্গে কারও কোনো আত্মীয়তা নেই যে একই কাজে তিনি এক জাতিকে শাস্তি দেবেন আর অন্যকে দেবেন না, কিংবা কারও গুনাহ মাফ করবেন আর একই গুনাহে অন্যকে পাকড়াও করবেন।"
+          },
+          {
+            "en": "Ibn Kathir's gloss is close: you who deny are not dearer to Allah than they were, and you have denied the noblest of the messengers and the most honoured of creation, so punishment is more fitting for you. Al-Baghawi and al-Qurtubi put the purpose in three Arabic words, yukhawwifu kuffara Makkah: He is warning the disbelievers of Makka. Al-Qurtubi adds the question the verse presses: will they not take a lesson from the nations We destroyed for denying their prophets?",
+            "bn": "ইবন কাসীরের ব্যাখ্যাও কাছাকাছি: হে অস্বীকারকারীরা, আল্লাহর কাছে তোমরা তাদের চেয়ে প্রিয় নও। আর তোমরা মিথ্যা বলেছ রাসূলদের মধ্যে সবচেয়ে মর্যাদাবান, সৃষ্টির মধ্যে সবচেয়ে সম্মানিত জনকে। কাজেই শাস্তি তোমাদের বেলায় আরও বেশি প্রাপ্য। বাগাভী আর কুরতুবী উদ্দেশ্যটা বলে দেন তিনটি আরবি শব্দে, ইউখাওয়িফু কুফফারা মাক্কাহ: তিনি মক্কার কাফিরদের ভয় দেখাচ্ছেন। কুরতুবী সেই প্রশ্নটাও যোগ করেন, যা আয়াত চাপিয়ে দেয়: নবীদের অস্বীকার করায় যাদের আমি ধ্বংস করেছি, তাদের থেকে কি এরা শিক্ষা নেবে না?"
+          },
+          {
+            "en": "As-Sa'di adds why the punishment fell: when their transgression multiplied and their disbelief grew severe, Allah sent His great punishment down on them. On the closing clause he notes the other side of the same knowledge: so let them not fear any injustice from Him, and He punishes them for what they did. The verse that warns of ruin also rules out caprice. The same deed meets the same measure, whoever does it.",
+            "bn": "শাস্তি কেন নেমেছিল, সা'দী তা-ও বলেন: যখন তাদের সীমালঙ্ঘন বেড়ে গেল আর কুফর কঠিন হয়ে উঠল, তখন আল্লাহ তাদের উপর তাঁর ভয়াবহ শাস্তি নামালেন। আয়াতের শেষ অংশে তিনি একই জ্ঞানের অন্য দিকটা দেখান: তারা যেন তাঁর কাছ থেকে কোনো জুলুমের ভয় না করে, তিনি তাদের শাস্তি দেন তাদের নিজেদের কাজের জন্য। যে আয়াত ধ্বংসের ভয় দেখায়, সে আয়াতই খেয়ালখুশির সম্ভাবনা নাকচ করে। একই কাজ, একই মাপ, যে-ই করুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Letter That Signals Praise",
+          "bn": "প্রশংসার চিহ্ন এক অক্ষর"
+        },
+        "p": [
+          {
+            "en": "Wa kafa bi-rabbika: and your Lord suffices. At-Tabari pauses on the small ba before rabbika. The noun is in the place of a subject, he says, since the sense is your Lord suffices you, your Lord is enough for you; the ba enters to signal praise. The Arabs do this, he explains, in any speech of praise or blame, as in akrim bihi rajulan, how noble a man he is. Without praise or blame they do not: qama bi-akhika cannot mean your brother stood.",
+            "bn": "ওয়া কাফা বিরাব্বিকা: আর আপনার রবই যথেষ্ট। রাব্বিকা-র আগের ছোট্ট 'বা' অক্ষরটিতে তাবারী একটু থামেন। তাঁর কথায়, শব্দটি আসলে কর্তার স্থানে আছে, কারণ অর্থ দাঁড়ায়: আপনার রব আপনার জন্য যথেষ্ট। 'বা' যোগ হয়েছে প্রশংসা বোঝাতে। তিনি ব্যাখ্যা করেন, প্রশংসা বা নিন্দার যেকোনো কথায় আরবরা এমন করে, যেমন আকরিম বিহি রাজুলান, কী মহৎ মানুষ সে! প্রশংসা বা নিন্দা না থাকলে 'বা' বসে না। আপনার ভাই দাঁড়াল, এ অর্থে কামা বিআখীকা বলা চলে না।"
+          },
+          {
+            "en": "Then the two names. Al-Qurtubi glosses khabiran as knowing them and basiran as seeing their deeds. At-Tabari joins them: Allah suffices as fully knowing His creatures' sins, for nothing of their acts is hidden from Him, and He sees it all, so that nothing of it is absent from Him, and not an atom's weight escapes Him in the earth or in the heaven, nor anything smaller or greater. Knowledge of what is concealed, sight of what is done: between them no corner is left.",
+            "bn": "তারপর দুটি নাম। কুরতুবী খাবীরান-এর অর্থ করেন তাদের সম্পর্কে পূর্ণ জ্ঞাত, আর বাসীরান-এর অর্থ তাদের আমল যিনি দেখেন। তাবারী দুটিকে জুড়ে দেন: সৃষ্টির গুনাহ সম্পর্কে পূর্ণ অবগত হিসেবে আল্লাহই যথেষ্ট। তাদের কোনো কাজ তাঁর কাছে গোপন নয়। তিনি সবকিছু দেখেন, কোনো কিছু তাঁর দৃষ্টির আড়ালে থাকে না। পৃথিবীতে বা আকাশে অণু পরিমাণ জিনিসও তাঁর অগোচরে থাকে না, তার চেয়ে ছোট বা বড় কিছুও না। লুকানো জিনিসের জ্ঞান আর করা কাজের দর্শন, দুয়ের মাঝে কোনো কোণ বাকি থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to the Prophet ﷺ",
+          "bn": "সম্বোধন নবী ﷺ-এর প্রতি"
+        },
+        "p": [
+          {
+            "en": "Notice whose Lord the verse names: rabbika, your Lord, in the singular. At-Tabari makes the address explicit: sufficient for you, O Muhammad, is Allah as the One who knows the sins of His creation, for nothing of the deeds of these idolaters of your people is hidden from Him. The Muyassar inserts the same address, ayyuha r-rasul, O Messenger. The sentence that warns the deniers is spoken to the one they denied.",
+            "bn": "খেয়াল করুন, আয়াত কার রবের কথা বলছে: রাব্বিকা, তোমার রব, একবচনে। তাবারী সম্বোধনটা স্পষ্ট করে দেন: হে মুহাম্মাদ, সৃষ্টির গুনাহ সম্পর্কে অবগত হিসেবে আল্লাহই তোমার জন্য যথেষ্ট। তোমার কওমের এ মুশরিকদের কোনো কাজ তাঁর কাছে গোপন নেই। মুয়াসসারও একই সম্বোধন জুড়ে দেয়: আইয়্যুহার রাসূল, হে রাসূল। যে বাক্য অস্বীকারকারীদের সতর্ক করছে, তা বলা হচ্ছে তাঁকেই, যাঁকে তারা অস্বীকার করেছিল।"
+          },
+          {
+            "en": "None of the texts fetched for this verse calls this a consolation, so what follows is a reading of the address, not a report. A man mocked and rejected by his own people is told that he need not keep the record of their deeds, nor settle it. His Lord, who knows and sees, is enough for that. Ibn Kathir widens the knowledge: He knows all their deeds, the good of them and the bad. The verse names sins; his gloss reminds the reader that unthanked good is seen as well.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো পাঠ একে সান্ত্বনা বলেনি। তাই নিচের কথাটি সম্বোধনের একটি পাঠ মাত্র, কারও বর্ণনা নয়। নিজের কওম যাঁকে উপহাস করছে, প্রত্যাখ্যান করছে, তাঁকে বলা হচ্ছে: তাদের কাজের হিসাব তোমাকে রাখতে হবে না, চুকাতেও হবে না। সে কাজের জন্য তোমার রবই যথেষ্ট, যিনি জানেন ও দেখেন। ইবন কাসীর জ্ঞানের পরিধি আরও বাড়িয়ে দেন: তিনি তাদের সব কাজ জানেন, ভালোগুলোও, মন্দগুলোও। আয়াতে বলা হয়েছে গুনাহের কথা। তাঁর ব্যাখ্যা পাঠককে মনে করিয়ে দেয়, যে নেকির কেউ কদর করেনি, তা-ও দেখা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruins That Turn the Eye Inward",
+          "bn": "ধ্বংসস্তূপ চোখ ফেরায় নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks of peoples who denied their messengers, as the commentaries fetched for it say, and of what Allah did to them. It describes what it describes, and it licenses nothing against any living person or community. It gives no one the right to call a flood, an earthquake or a war today the punishment of a particular people, or to number any nation now living among these qurun. The verdict on each people is His, who knows and sees; that is exactly what the verse says.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সেই জাতিগুলোর কথা বলে, যারা নিজেদের রাসূলদের অস্বীকার করেছিল, যেমনটা সংগৃহীত তাফসীরগুলো বলছে, আর বলে আল্লাহ তাদের সঙ্গে কী করেছিলেন। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো বন্যা, ভূমিকম্প বা যুদ্ধকে নির্দিষ্ট কোনো জাতির শাস্তি বলে ঘোষণা করার অধিকার এ আয়াত কাউকে দেয় না। বেঁচে থাকা কোনো জাতিকে এ কুরূনের দলে গোনারও না। প্রতিটি জাতির ফয়সালা তাঁর হাতে, যিনি জানেন ও দেখেন। আয়াত ঠিক এ কথাই বলে।"
+          },
+          {
+            "en": "What the verse does give the reader is a mirror. At-Tabari heard in it an invitation as well as a threat: turn back to obedience to your Lord. No sin is hidden from the One who is khabir, and none goes unseen by the One who is basir. The question is not whether I am seen, since that is settled. It is whether I live as one who is seen, in the private hour as much as in the public one.",
+            "bn": "আয়াত পাঠকের হাতে যা দেয়, তা এক আয়না। তাবারী এতে শুধু হুঁশিয়ারি নয়, একটা ডাকও শুনেছেন: তোমাদের রবের আনুগত্যে ফিরে এসো। যিনি খাবীর, তাঁর কাছে কোনো গুনাহ লুকানো নেই। যিনি বাসীর, তাঁর চোখ এড়িয়ে কোনো গুনাহ যায় না। আমাকে দেখা হচ্ছে কি না, প্রশ্ন সেটা নয়, সে তো মীমাংসিত। প্রশ্ন হলো, আমি কি এমনভাবে বাঁচি যেন আমাকে দেখা হচ্ছে, একা থাকার মুহূর্তেও, লোকের সামনেও?"
+          },
+          {
+            "en": "Al-Qurtubi's poet spoke of the man left behind in another qarn, a stranger once his own has gone. Every reader belongs to a qarn, joined to the people of an age, and that qarn will also pass and be counted. The verse does not ask how long it will last. It asks what it will be known for, by Him who already knows its sins and sees its deeds, and what each of us has added to that record while there is still time to turn.",
+            "bn": "কুরতুবীর উদ্ধৃত কবি বলেছিলেন সেই মানুষের কথা, যে নিজের কারন চলে যাওয়ার পর আরেক কারনে রয়ে গেছে পরদেশি হয়ে। প্রতিটি পাঠকই কোনো না কোনো কারনের মানুষ, নিজের যুগের লোকদের সঙ্গে জোড়া। সে কারনও একদিন চলে যাবে, তাকেও গোনা হবে। সেটা কত দিন টিকবে, আয়াত তা জানতে চায় না। জানতে চায়, তাকে কী দিয়ে চেনা হবে তাঁর কাছে, যিনি এখনই তার গুনাহ জানেন আর আমল দেখেন। আর ফেরার সময় থাকতে থাকতে সে খাতায় আমাদের প্রত্যেকে কী যোগ করছি।"
+          }
+        ]
+      }
+    ]
+  },
   "17:23-24": {
     "sections": [
       {

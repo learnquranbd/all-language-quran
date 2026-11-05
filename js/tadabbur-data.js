@@ -22551,6 +22551,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Receive what Allah gives you without arguing it into a burden, and leave the final verdict on every dispute to Him on the Day of Resurrection.",
     "lessonBn": "আল্লাহ যা দিয়েছেন তা তর্ক করে বোঝা না বানিয়ে গ্রহণ করুন, আর প্রতিটি বিবাদের চূড়ান্ত রায় কিয়ামতের দিন তাঁর হাতেই ছেড়ে দিন।"
+  },
+  "17:17": {
+    "reflectionEn": "The verse opens with a question that wants no answer: how many generations have We destroyed since Nuh? The listener is invited to count and cannot. Peoples who had houses, markets and plans are now a line in a story. Then the verse turns from the ruins to the One who watched them: your Lord is enough as the One who knows and sees the sins of His servants. Nothing they did escaped Him, and nothing I do escapes Him. Those who denied the messengers were not dearer to Him than anyone else, and neither am I. That is a warning, and for anyone wronged and unheard it is also a comfort. What would I change today if I lived as one who is seen?",
+    "reflectionBn": "আয়াতটি শুরু হয় এমন এক প্রশ্নে, যার উত্তর লাগে না: নূহ (আঃ)-এর পর কত প্রজন্মকে আমি ধ্বংস করেছি? শ্রোতাকে গুনতে বলা হচ্ছে, অথচ গুনে শেষ করা যায় না। যাদের ঘরবাড়ি ছিল, হাটবাজার ছিল, ভবিষ্যতের পরিকল্পনা ছিল, তারা আজ কাহিনির এক লাইন মাত্র। তারপর আয়াত ধ্বংসস্তূপ থেকে চোখ ফেরায় তাঁর দিকে, যিনি সব দেখছিলেন: বান্দাদের গুনাহের খবর রাখা আর দেখার জন্য আপনার রবই যথেষ্ট। তাদের কোনো কাজ তাঁর নজর এড়ায়নি, আমার কোনো কাজও এড়ায় না। যারা রাসূলদের অস্বীকার করেছিল, তারা তাঁর কাছে অন্য কারও চেয়ে প্রিয় ছিল না, আমিও নই। এ এক সতর্কবাণী। আবার যার উপর অন্যায় হয়েছে অথচ কেউ শোনেনি, তার জন্য এ এক সান্ত্বনাও। আমি যদি সত্যিই মনে রাখি যে আমাকে দেখা হচ্ছে, আজ কী বদলাতাম?",
+    "pointsEn": [
+      "When I read about a destroyed people, do I look first for someone else to fit it to, or do I look at myself?",
+      "Which of my sins do I treat as hidden simply because no person saw it?",
+      "If my Lord is enough as the One who sees, why do I still work so hard for the eyes of people?",
+      "Is there a wrong done to me that I can leave with the One who knows it fully, instead of carrying it as bitterness?",
+      "When my generation has gone, as every generation before it has, what will it be remembered for, and what will I have added?"
+    ],
+    "pointsBn": [
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়লে আমি কি আগে খুঁজি কার গায়ে কথাটা লাগানো যায়, নাকি আগে নিজের দিকে তাকাই?",
+      "কোন গুনাহগুলোকে আমি গোপন ভাবি শুধু এ কারণে যে কোনো মানুষ তা দেখেনি?",
+      "দেখার জন্য আমার রবই যদি যথেষ্ট হন, তবে মানুষের চোখে ভালো দেখাতে আমি এখনো এত খাটি কেন?",
+      "আমার উপর হওয়া এমন কোনো অন্যায় কি আছে, যা তিক্ততা হিসেবে বয়ে না বেড়িয়ে তাঁর হাতে ছেড়ে দিতে পারি, যিনি পুরোটা জানেন?",
+      "আগের সব প্রজন্মের মতো আমার প্রজন্মও যখন চলে যাবে, তাকে কী দিয়ে মনে রাখা হবে, আর তাতে আমার ভাগে কী থাকবে?"
+    ],
+    "lessonEn": "Many generations were destroyed before us, and none was dearer to Allah than another; live as one whose every sin is known and seen, and turn back while there is time.",
+    "lessonBn": "আমাদের আগে বহু প্রজন্ম ধ্বংস হয়েছে, আর আল্লাহর কাছে কেউ কারও চেয়ে বেশি প্রিয় ছিল না। এমনভাবে বাঁচুন যেন আপনার প্রতিটি গুনাহ জানা ও দেখা, আর সময় থাকতেই ফিরে আসুন।"
   }
 };
 
