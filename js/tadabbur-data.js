@@ -23371,6 +23371,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The order of the heavens and the earth points to one Lord; give Him the undivided worship His creation already shows, and let your reflection end in glorifying Him.",
     "lessonBn": "আসমান ও যমীনের শৃঙ্খলা এক রবের দিকেই ইশারা করে। তাঁর সৃষ্টি যে অবিভক্ত ইবাদত দেখিয়ে দেয়, তাঁকে সেই ইবাদতই দিন, আর আপনার ভাবনা শেষ করুন তাঁর পবিত্রতা ঘোষণায়।"
+  },
+  "20:117": {
+    "reflectionEn": "Before the tree is ever mentioned, Adam is told who his enemy is and what leaving the Garden would cost. The cost is not named as disgrace. It is named as toil: food to be worked for, water to be fetched, a body to clothe and shelter, a brow wiping its own sweat. The warning leaves nothing to guess. It names the enemy, points to the gifts already in hand, and says what listening to him would cost. Most of what pulls at me arrives with no such label, and the voice urging me out of a good place rarely mentions the price. Do I ask what a step will cost before I take it, and do I even see the ease I am standing in?",
+    "reflectionBn": "গাছের কথা ওঠার আগেই আদম (আঃ)-কে জানিয়ে দেওয়া হলো তাঁর শত্রু কে, আর জান্নাত ছেড়ে যেতে হলে কী দাম দিতে হবে। সেই দামকে অপমান বলা হয়নি, বলা হয়েছে খাটুনি। খাবার জোটাতে হবে পরিশ্রম করে, পানি আনতে হবে বয়ে, শরীরের জন্য কাপড় আর মাথার উপর ছাদ জোগাড় করতে হবে, কপালের ঘাম নিজের হাতেই মুছতে হবে। সতর্কবাণীতে আন্দাজের কিছু রাখা হয়নি। শত্রুর নাম বলা হয়েছে, হাতে থাকা নিয়ামতগুলো দেখিয়ে দেওয়া হয়েছে, আর তার কথা শুনলে কী হারাতে হবে তাও বলা হয়েছে। আমাকে যা টানে, তার বেশিরভাগই আসে কোনো নাম-পরিচয় ছাড়া। ভালো জায়গা থেকে বের করে নিতে যে ডাক আসে, সে কখনো দামের কথা তোলে না। পা বাড়ানোর আগে আমি কি জিজ্ঞেস করি এর দাম কত? যে আরামের ভেতর দাঁড়িয়ে আছি, তা কি আমার চোখে পড়ে?",
+    "pointsEn": [
+      "Which voice in my life keeps urging me to leave a place of ease, and have I ever asked it what the move would cost?",
+      "Food, drink, clothing and shelter: when did I last thank Allah for these four as gifts rather than take them as givens?",
+      "When I am warned plainly about something, do I hold on to the warning, or let it fade as soon as the pressure arrives?",
+      "If I provide for others, do I carry that toil as a trust I was given, or as a grievance I hold against them?",
+      "What good place am I in today that I would only notice once I had lost it?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে কোন ডাক বারবার আরামের জায়গা ছেড়ে যেতে বলে? সেই ডাককে কি কখনো জিজ্ঞেস করেছি, এ পথে গেলে দাম কত?",
+      "খাবার, পানি, কাপড় আর মাথার উপর ছাদ। শেষ কবে এই চারটিকে আল্লাহর দান ভেবে শুকরিয়া আদায় করেছি, স্বাভাবিক পাওনা না ভেবে?",
+      "কোনো ব্যাপারে আমাকে যখন খোলাখুলি সাবধান করা হয়, চাপ এলে সেই সতর্কবাণী কি আঁকড়ে থাকি, নাকি তা মন থেকে মুছে যেতে দিই?",
+      "আমি যদি অন্যদের ভরণপোষণ করি, সেই খাটুনিকে কি আমানত হিসেবে বহন করি, নাকি তাদের বিরুদ্ধে মনে ক্ষোভ পুষে রাখি?",
+      "আজ কোন ভালো অবস্থায় আছি, যা হয়তো হারানোর পরেই টের পাব?"
+    ],
+    "lessonEn": "Know your enemy before he speaks, count the ease you already have, and weigh what stepping out of it would cost before you take the first step.",
+    "lessonBn": "শত্রু কথা বলার আগেই তাকে চিনে রাখুন, যে আরামে আছেন তার হিসাব রাখুন, আর প্রথম পা বাড়ানোর আগে মেপে নিন সেখান থেকে বেরিয়ে গেলে কী হারাবেন।"
   }
 };
 

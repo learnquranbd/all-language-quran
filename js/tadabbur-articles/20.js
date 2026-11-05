@@ -3975,6 +3975,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:117": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Refusal",
+          "bn": "অস্বীকারের ঠিক পরেই"
+        },
+        "p": [
+          {
+            "en": "Fa-qulna ya Adamu inna hadha 'aduwwun laka wa li-zawjika fa-la yukhrijannakuma mina l-jannati fa-tashqa: so We said, O Adam, this is an enemy to you and to your wife, so let him not drive the two of you out of the Garden, so that you toil. The verse opens with fa, so, and follows directly on 20:116, where the angels prostrated to Adam (AS) and Iblis alone refused. The warning comes in the moment after that refusal, before any tree has been named.",
+            "bn": "ফাকুলনা ইয়া আদামু ইন্না হাযা আদুওউন লাকা ওয়া লিযাওজিকা ফালা ইউখরিজান্নাকুমা মিনাল জান্নাতি ফাতাশকা: তখন আমি বললাম, হে আদম! এ তোমার আর তোমার স্ত্রীর শত্রু। কাজেই সে যেন তোমাদের দুজনকে জান্নাত থেকে বের করে না দেয়, তাহলে তুমি কষ্টে পড়বে। আয়াতের শুরু 'ফা' দিয়ে, যার মানে 'তখন' বা 'তাই'। ঠিক আগের আয়াত ২০:১১৬-এ ফেরেশতারা আদম (আঃ)-কে সেজদা করেছে, শুধু ইবলিস অস্বীকার করেছে। সেই অস্বীকারের পরের মুহূর্তেই এই সতর্কবাণী এসেছে। কোনো গাছের নাম তখনো আসেনি।"
+          },
+          {
+            "en": "At-Tabari reads the order as a reason. Out of his hatred, he has Allah say, he did not prostrate to you, and he defied My command in that and disobeyed Me; so do not obey him in what he bids you, lest he expel you through your disobeying your Lord and obeying him. The Muyassar names the pointer: this Iblis is an enemy to you and to your wife, so beware of him. Ibn Kathir and al-Baghawi identify the wife as Hawwa', and Ibn Kathir adds peace upon them both.",
+            "bn": "তাবারী এই ক্রমের ভেতরেই কারণটা দেখেন। তাঁর ব্যাখ্যায় আল্লাহ যেন বলছেন: বিদ্বেষের কারণেই সে তোমাকে সেজদা করেনি, এ ব্যাপারে আমার হুকুম অমান্য করেছে, আমার নাফরমানি করেছে। কাজেই সে যা বলে তাতে তোমরা তার কথা মেনো না। নইলে রবের নাফরমানি আর তার আনুগত্যের পথ ধরেই সে তোমাদের বের করে দেবে। মুয়াসসার 'হাযা' বা 'এ' শব্দের ইশারা খুলে বলে: এই ইবলিস তোমার আর তোমার স্ত্রীর শত্রু, তার ব্যাপারে সাবধান থাকো। ইবন কাসীর আর বাগাভী স্ত্রীকে হাওয়া বলে চিহ্নিত করেন। ইবন কাসীর সঙ্গে দুজনের উপরই সালাম জুড়ে দেন।"
+          },
+          {
+            "en": "The sura has already set the frame. In 20:115 Allah says He had taken a covenant from Adam before, but he forgot, and He found in him no firm resolve. The 20:120 study takes up that forgetting and the whisper that follows, and the episode is told in its own terms around 2:35 and 7:19. This article stays with the warning: whom it names, its closing singular verb, and what the commentators draw from it.",
+            "bn": "সূরাটি আগেই প্রেক্ষাপট দাঁড় করিয়ে দিয়েছে। ২০:১১৫ আয়াতে আল্লাহ বলেন, তিনি আগেই আদমের কাছ থেকে অঙ্গীকার নিয়েছিলেন, কিন্তু তিনি ভুলে গেলেন, আর আল্লাহ তাঁর মধ্যে দৃঢ় সংকল্প পাননি। সেই ভুলে যাওয়া আর তার পরের কুমন্ত্রণার আলোচনা আছে ২০:১২০-এর লেখায়। ঘটনাটি নিজের ভঙ্গিতে এসেছে ২:৩৫ আর ৭:১৯-এর আশপাশেও। এই লেখা থাকবে শুধু সতর্কবাণীটুকু নিয়ে: এতে কার নাম এসেছে, শেষের একবচন ক্রিয়াটি কেন, আর তাফসীরকারেরা সেই ক্রিয়া থেকে কী বের করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ban Laid on the Enemy",
+          "bn": "শত্রুর উপর দেওয়া নিষেধ"
+        },
+        "p": [
+          {
+            "en": "In form, la yukhrijannakuma is a ban laid on Iblis: let him by no means drive the two of you out, with the emphatic ending on the verb. Al-Qurtubi calls it a prohibition and gives its figurative sense: do not accept anything from him, so that this becomes the cause of your leaving the Garden. The words address the enemy, but the instruction is for the two who hear them. A ban on Iblis can only be kept by Adam and his wife refusing him.",
+            "bn": "গঠনের দিক থেকে 'লা ইউখরিজান্নাকুমা' নিষেধটা ইবলিসের উপর: সে যেন কিছুতেই তোমাদের দুজনকে বের করে না দেয়। ক্রিয়ার শেষে জোর দেওয়ার চিহ্নও আছে। কুরতুবী একে নিষেধ বলেন, আর এর রূপক অর্থ খুলে দেন: তার কাছ থেকে কিছুই গ্রহণ কোরো না, তাহলে সেটাই হবে জান্নাত থেকে তোমাদের বেরিয়ে যাওয়ার কারণ। কথাগুলো শত্রুকে উদ্দেশ করে, কিন্তু নির্দেশটা যারা শুনছে তাদের জন্য। ইবলিসের উপর দেওয়া নিষেধ রক্ষা করার একটাই উপায়: আদম (আঃ) আর তাঁর স্ত্রী তাকে ফিরিয়ে দেবেন।"
+          },
+          {
+            "en": "The object is dual, kuma, the two of you, and the warning falls on both. As-Sa'di puts it in one line: Allah warned Adam and his wife about him. Ibn Kathir has the address mean: beware of his striving to get you out of the Garden. At-Tabari and the Muyassar both run the expulsion through obedience to him, and al-Qurtubi through accepting from him. On none of these readings does the enemy drive anyone out on his own. His one road out of the Garden is being listened to.",
+            "bn": "কর্মটি দ্বিবচন, 'কুমা', মানে তোমরা দুজন। সতর্কবাণী দুজনের উপরই। সা'দী এক বাক্যে বলেন: আল্লাহ আদম আর তাঁর স্ত্রীকে তার ব্যাপারে সাবধান করলেন। ইবন কাসীরের ব্যাখ্যায় কথাটার মানে: সাবধান থেকো, সে যেন তোমাকে জান্নাত থেকে বের করার চেষ্টা চালাতে না পারে। তাবারী আর মুয়াসসার দুজনেই বের হওয়াকে জুড়েছেন তার আনুগত্যের সঙ্গে, আর কুরতুবী জুড়েছেন তার কথা গ্রহণ করার সঙ্গে। কোনো ব্যাখ্যাতেই শত্রু নিজের জোরে কাউকে বের করে দেয় না। জান্নাত থেকে বের করার তার একটাই পথ: কেউ তার কথা শুনবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb Where Two Stood",
+          "bn": "দুজনের জায়গায় একবচন"
+        },
+        "p": [
+          {
+            "en": "Then the last word. The expulsion is dual, yukhrijannakuma, but the outcome is singular: fa-tashqa, so that you toil, not fa-tashqaya, so that you two toil. At-Tabari raises the point in so many words. He said fa-tashqa, not fa-tashqaya, after saying fa-la yukhrijannakuma, because the address from Allah began with Adam (AS). In telling Adam what would follow if he went against the prohibition of the tree, there was no need to mention the woman, since it was known that her ruling in this was his ruling.",
+            "bn": "এবার শেষ শব্দটি। বের করে দেওয়ার ক্রিয়া দ্বিবচন, 'ইউখরিজান্নাকুমা', কিন্তু পরিণতির ক্রিয়া একবচন: 'ফাতাশকা', তুমি কষ্টে পড়বে। 'ফাতাশকায়া', তোমরা দুজন কষ্টে পড়বে, বলা হয়নি। তাবারী প্রশ্নটা সরাসরি তোলেন। 'ফালা ইউখরিজান্নাকুমা' বলার পরও 'ফাতাশকা' বলা হয়েছে, কারণ আল্লাহর সম্বোধন শুরু হয়েছিল আদম (আঃ)-কে দিয়ে। গাছের নিষেধ অমান্য করলে কী ঘটবে, আদমকে তা জানানোই যথেষ্ট ছিল, স্ত্রীর কথা আলাদা করে বলার দরকার পড়েনি। সবাই জানত, এ ব্যাপারে স্ত্রীর বিধান আর আদমের বিধান একই।"
+          },
+          {
+            "en": "He supports this from 50:17, where two receivers are described, one on the right and one on the left, yet a single word, qa'id, seated, serves for both: the hearers' grasp of the meaning made a second word unnecessary. Al-Qurtubi's first explanation runs close to his. Fa-tashqa means you and your wife, he says, because the two are as one in sharing the same cause; the sense is understood, and Adam (AS) is both the one addressed and the one intended.",
+            "bn": "এর পক্ষে তিনি দলিল আনেন ৫০:১৭ থেকে। সেখানে দুজন গ্রহণকারীর কথা আছে, একজন ডানে, একজন বামে, অথচ দুজনের জন্য একটি শব্দই এসেছে: 'কাঈদ', বসে থাকা। শ্রোতারা অর্থ বুঝে নেয়, তাই দ্বিতীয় শব্দের প্রয়োজন হয়নি। কুরতুবীর প্রথম ব্যাখ্যাও কাছাকাছি। তাঁর মতে 'ফাতাশকা' মানে তুমি আর তোমার স্ত্রী দুজনেই, কারণ কারণের দিক থেকে দুজন এক। অর্থটা জানা, আর আদম (আঃ)-ই সম্বোধিত, তিনিই উদ্দিষ্ট।"
+          },
+          {
+            "en": "Al-Baghawi records one more explanation under it is said: the singular keeps the endings of the verses. The neighbouring endings show the pattern, tashqa here, then ta'ra and tadha in 20:118 and 20:119, all closing on the same long vowel. None of these readings cuts Hawwa' off from the outcome. At-Tabari says her ruling is his, and al-Qurtubi says the two are one in the cause. On these readings the singular is a matter of address and economy, not of leaving her out.",
+            "bn": "বাগাভী 'বলা হয়' কথাটি দিয়ে আরেকটি ব্যাখ্যা আনেন: একবচন রাখা হয়েছে আয়াতের শেষের মিল বজায় রাখতে। আশপাশের আয়াতের শেষগুলোতেই ধাঁচটা দেখা যায়। এখানে 'তাশকা', তারপর ২০:১১৮ আর ২০:১১৯ আয়াতে 'তা'রা' আর 'তাদহা', সবগুলোর শেষে একই দীর্ঘ স্বর। এর কোনো ব্যাখ্যাই হাওয়াকে পরিণতি থেকে আলাদা করে না। তাবারী বলেন তাঁর বিধান আদমেরই বিধান, কুরতুবী বলেন কারণের দিক থেকে দুজন এক। এসব ব্যাখ্যায় একবচন এসেছে সম্বোধনের ধরন আর কথার সংক্ষেপের জন্য, তাঁকে বাদ দেওয়ার জন্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Labours for Her",
+          "bn": "যিনি তাঁর জন্য খাটেন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds a second reason: since Adam (AS) was the one who would toil for her and earn for her, the toil belonged more particularly to him. Then, under it is said, a third: the expulsion falls on both and the toil on Adam alone, the toil of the body. He reads 20:118 and 20:119 as the proof. Allah told him the Garden held all of it, clothing, food, drink and dwelling, and that if he let the charge slip and obeyed the enemy he would be returned to the earth, to hunger, nakedness, thirst and the sun.",
+            "bn": "কুরতুবী প্রথম কারণের পাশে দ্বিতীয় একটি কারণও দেন। স্ত্রীর জন্য খাটবেন আর রোজগার করবেন আদম (আঃ)-ই, তাই কষ্টের সঙ্গে তাঁর সম্পর্ক বেশি ঘনিষ্ঠ। তারপর 'বলা হয়' দিয়ে তৃতীয় একটি মত আনেন: বের হওয়া দুজনেরই, কিন্তু কষ্ট শুধু আদমের, আর তা শরীরের কষ্ট। এর প্রমাণ তিনি দেখেন ২০:১১৮ আর ২০:১১৯ আয়াতে। আল্লাহ তাঁকে জানিয়েছিলেন, জান্নাতে কাপড়, খাবার, পানীয় আর থাকার জায়গা সবই আছে। আর তিনি যদি উপদেশ ভুলে শত্রুর কথা মানেন, তাহলে ফিরে যেতে হবে পৃথিবীতে, যেখানে ক্ষুধা, নগ্নতা, তৃষ্ণা আর রোদ।"
+          },
+          {
+            "en": "Al-Baghawi says the same in fewer words. It did not say fa-tashqaya, he writes, turning it back to Adam, because his toil is the greater, for the man is the one who strives on behalf of his wife. Ma'arif al-Qur'an reads the singular as a pointer to Adam that, if the two were sent to the earth, the burden of earning a living for himself and for Hawwa' would fall on him alone. In each of these, what the singular gives Adam is work, carried for her. None of the commentators fetched here reads it as blame of her.",
+            "bn": "বাগাভী একই কথা বলেন আরও সংক্ষেপে। তাঁর ভাষায়, 'ফাতাশকায়া' বলা হয়নি, কথাটা ফিরিয়ে নেওয়া হয়েছে আদমের দিকে, কারণ তাঁর খাটুনিই বেশি। স্ত্রীর জন্য দৌড়ঝাঁপ তো পুরুষকেই করতে হয়। মাআরিফুল কুরআন একবচনকে দেখে আদমের প্রতি এক ইশারা হিসেবে: দুজনকে পৃথিবীতে পাঠানো হলে নিজের আর হাওয়ার রুজি জোগাড়ের ভার পড়বে শুধু তাঁর কাঁধে। প্রতিটি ব্যাখ্যায় একবচন আদমকে যা দেয়, তা হলো খাটুনি, আর সেই খাটুনি স্ত্রীর জন্য। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এতে হাওয়ার দোষ খোঁজে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Toil, Not Ruin of the Soul",
+          "bn": "খাটুনি, আত্মার সর্বনাশ নয়"
+        },
+        "p": [
+          {
+            "en": "What, then, is the shaqa the verse warns of? Ibn Kathir: beware of his striving to get you out, so that you tire, labour and toil in seeking your provision, for here you are in a life ample and pleasant, with no burden and no hardship. At-Tabari: your living would come from the work of your own hand, and that is the toil his Lord warned him of. Al-Baghawi: you would tire and labour, living from the toil of your right hand by the sweat of your brow. As-Sa'di: in the Garden you have pleasant provision and complete rest.",
+            "bn": "তাহলে আয়াত যে 'শাকা' বা কষ্টের কথা বলছে, সেটা কী? ইবন কাসীর বলেন: সাবধান, সে যেন তোমাকে বের করার চেষ্টায় না নামে, তাহলে রুজির খোঁজে তুমি ক্লান্ত হবে, খাটবে, কষ্ট পাবে। এখানে তো তোমার জীবন সচ্ছল আর আরামের, কোনো বোঝা নেই, কোনো কষ্ট নেই। তাবারীর ব্যাখ্যায়, তোমার জীবিকা আসবে নিজের হাতের পরিশ্রম থেকে, আর এটাই সেই কষ্ট যার ব্যাপারে রব তাঁকে সাবধান করেছিলেন। বাগাভী বলেন: তুমি ক্লান্ত হবে, খাটবে, ডান হাতের পরিশ্রমে আর কপালের ঘামে রুজি জোটাবে। সা'দী বলেন: জান্নাতে তোমার জন্য আছে তৃপ্তির রিজিক আর পূর্ণ বিশ্রাম।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an separates the two senses the word can carry: distress in the Hereafter, and distress in this world. Here, it says, the second is plainly meant, because the first cannot be said even of pious Muslims, let alone the prophets, and most commentators adopted this meaning. It adds that the next verses name only the basic needs of a human life, food, water, clothing and shelter, out of all the Garden's blessings, so the warning is that leaving would mean earning these by physical labour.",
+            "bn": "মাআরিফুল কুরআন শব্দটির দুটি অর্থ আলাদা করে দেখায়: আখিরাতের দুর্দশা আর দুনিয়ার কষ্ট। তার মতে এখানে স্পষ্টতই দ্বিতীয়টি উদ্দেশ্য। কারণ প্রথম অর্থ নেককার মুসলমানদের বেলাতেই খাটে না, নবীদের তো প্রশ্নই ওঠে না। অধিকাংশ তাফসীরকার এই অর্থই নিয়েছেন। মাআরিফুল কুরআন আরও বলে, জান্নাতের অসংখ্য নিয়ামতের মধ্যে পরের আয়াতগুলো শুধু মানুষের মৌলিক প্রয়োজনের কথা বলে: খাবার, পানি, কাপড় আর আশ্রয়। সতর্কবাণীর মর্ম তাই এই যে, বের হলে এগুলো জোটাতে হবে গায়ে খেটে।"
+          },
+          {
+            "en": "The early glosses that al-Qurtubi and al-Baghawi gather point the same way. Al-Hasan, in al-Qurtubi, says it is the hardship of this world: the son of Adam is never seen except toiling. Al-Farra' says it is eating from the toil of one's own hands. As-Suddi, in al-Baghawi, lists the work itself: ploughing, sowing, harvesting, grinding and baking. On every gloss fetched for this verse, the word names the labour of making a living, not a ruin of the soul.",
+            "bn": "কুরতুবী আর বাগাভী আগের যুগের যেসব ব্যাখ্যা জড়ো করেছেন, সেগুলোও একই দিকে যায়। কুরতুবীতে হাসান বলেন, এ হলো দুনিয়ার কষ্ট, আদমসন্তানকে খেটে চলা অবস্থা ছাড়া দেখাই যায় না। ফাররা বলেন, এর মানে নিজের হাতের পরিশ্রমের রোজগার খাওয়া। বাগাভীতে সুদ্দী কাজগুলোর তালিকাই দেন: হাল চাষ, বীজ বোনা, ফসল কাটা, পেষা আর রুটি বানানো। এ আয়াতের জন্য যত ব্যাখ্যা দেখা হয়েছে, সবখানে শব্দটি রুজির খাটুনিকে বোঝায়, আত্মার সর্বনাশকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ox and the Rolling Loaf",
+          "bn": "লাল বলদ আর গড়িয়ে যাওয়া রুটি"
+        },
+        "p": [
+          {
+            "en": "Two pictures of that labour travel with the verse. Sa'id ibn Jubayr's is in at-Tabari, with its chain, and in al-Qurtubi and al-Baghawi: a red ox was sent down to Adam, and he ploughed with it and wiped the sweat from his brow, and that was the toil Allah spoke of. In these texts it is Sa'id's own saying, not a word of the Prophet ﷺ. The commentators carry it to show what the gloss looks like in a human life.",
+            "bn": "সেই খাটুনির দুটি ছবি আয়াতের সঙ্গে চলে আসছে। প্রথমটি সাঈদ ইবন জুবাইরের। তাবারী তা এনেছেন সনদসহ, কুরতুবী আর বাগাভীও এনেছেন: আদমের কাছে একটি লাল বলদ নামানো হয়েছিল, তিনি তা দিয়ে হাল চাষ করতেন আর কপালের ঘাম মুছতেন। আল্লাহ যে কষ্টের কথা বলেছেন, এটাই সেই কষ্ট। এসব তাফসীরে কথাটি সাঈদের নিজের, নবী ﷺ-এর বাণী হিসেবে আসেনি। তাফসীরকারেরা এটি এনেছেন ব্যাখ্যাটা মানুষের জীবনে কেমন দেখায় তা বোঝাতে।"
+          },
+          {
+            "en": "The second is in al-Qurtubi under it is said, with no chain. Among the first of Adam's toil, it runs, Jibril brought him grains from the Garden and told him to plant them. He ploughed and sowed, reaped, threshed and winnowed, ground, kneaded and baked, and sat to eat; the loaf rolled from his hand to the foot of the mountain and he ran after it until his brow was wet. So is your provision, he was told, and your children's after you. Ma'arif al-Qur'an relays it from al-Qurtubi. Both illustrate the gloss, and no more.",
+            "bn": "দ্বিতীয় ছবিটি কুরতুবীতে, 'বলা হয়' দিয়ে, কোনো সনদ ছাড়া। বর্ণনাটা এমন: আদমের প্রথম দিকের কষ্টের একটি ছিল এই যে, জিবরীল জান্নাত থেকে কিছু দানা এনে তাঁকে বুনতে বললেন। তিনি হাল চাষ করলেন, বীজ বুনলেন, ফসল কাটলেন, মাড়াই করলেন, ঝাড়লেন, পিষলেন, খামির করলেন, রুটি বানালেন। তারপর খেতে বসলেন। রুটি হাত থেকে গড়িয়ে পাহাড়ের নিচে চলে গেল, তিনি পেছনে দৌড়ালেন, কপাল ঘেমে উঠল। তাঁকে বলা হলো, তোমার রিজিক এভাবেই আসবে, তোমার পরে তোমার সন্তানদেরও। মাআরিফুল কুরআন কুরতুবী থেকেই এটি এনেছে। দুটি ছবিই ব্যাখ্যাটাকে চোখের সামনে আনে, এর বেশি কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Things Owed to Her",
+          "bn": "স্ত্রীর প্রাপ্য চারটি জিনিস"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from the singular. He singled Adam out with the toil, he says, to teach that a wife's maintenance is owed by her husband. From that day women's maintenance has run to husbands: as Hawwa's was on Adam, so her daughters' is on the sons of Adam, by right of marriage. The verse, with the two after it, also names what that maintenance is: food, drink, clothing and dwelling. Giving these four meets it; anything more is a kindness that earns reward. The four themselves cannot be withheld, for life rests on them.",
+            "bn": "কুরতুবী একবচন থেকে একটি বিধান বের করেন। তাঁর মতে, কষ্টের কথা আলাদা করে আদমকে বলা হয়েছে এটা শেখাতে যে, স্ত্রীর ভরণপোষণ স্বামীর দায়িত্ব। সেদিন থেকেই নারীদের খরচ স্বামীদের উপর। হাওয়ার খরচ যেমন আদমের উপর ছিল, তেমনি তাঁর কন্যাদের খরচ আদমের পুত্রদের উপর, বিয়ের হক হিসেবে। এই আয়াত আর পরের দুটি আয়াত বলে দেয় সেই ভরণপোষণ কী: খাবার, পানীয়, কাপড় আর বাসস্থান। এই চারটি দিলেই স্বামীর দায় আদায় হয়। এর বেশি যা দেবেন, তা অনুগ্রহ, আর তার জন্য সওয়াব আছে। কিন্তু এই চারটি না দিয়ে উপায় নেই, কারণ জীবন এগুলোর উপরই টিকে থাকে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an relays the ruling and widens it: wherever the law makes a person responsible for another's maintenance, as children are for needy parents, these four are what is obligatory. Read as al-Qurtubi frames it, the singular hands the man a duty owed to his wife, a right of hers that he must meet. It lowers neither her worth nor her standing, and no text fetched here lays the outcome at her door. The warning against the enemy, after all, was spoken to them both.",
+            "bn": "মাআরিফুল কুরআন বিধানটি উদ্ধৃত করে তার পরিধি বাড়ায়। শরীয়ত যেখানেই কাউকে অন্যের ভরণপোষণের দায়িত্ব দেয়, যেমন অভাবী বাবা-মায়ের দায়িত্ব সন্তানের উপর, সেখানে এই চারটিই ফরজ। কুরতুবীর ব্যাখ্যা অনুযায়ী পড়লে একবচন পুরুষের হাতে তুলে দেয় স্ত্রীর প্রতি এক দায়িত্ব, স্ত্রীর এমন এক হক যা তাঁকে আদায় করতেই হবে। এতে স্ত্রীর মর্যাদা বা অবস্থান একটুও কমে না। এখানে দেখা কোনো তাফসীর পরিণতির দায় তাঁর ঘাড়ে চাপায় না। আর শত্রুর ব্যাপারে সতর্কবাণী তো দুজনকেই দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Root That Comes Back",
+          "bn": "যে ধাতু আবার ফিরে আসে"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched here attaches a sound hadith to 20:117. Al-Bukhari, in his Sahih, relates from Abu Hurayra (RA) that the Messenger of Allah ﷺ said: \"Adam and Moses met, and Moses said to Adam, 'You are the one who made people miserable and turned them out of Paradise.' Adam said to him, 'You are the one whom Allah selected for His message and whom He selected for Himself and upon whom He revealed the Torah.' Moses said, 'Yes.' Adam said, 'Did you find that written in my fate before my creation?' Moses said, 'Yes.' So Adam overcame Moses with this argument.\"",
+            "bn": "এখানে দেখা কোনো তাফসীর ২০:১১৭ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। বুখারী তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আদম আর মূসা পরস্পর মিলিত হলেন। মূসা আদমকে বললেন, 'আপনিই সেই একজন, যিনি মানুষকে দুর্দশায় ফেলেছেন আর জান্নাত থেকে বের করেছেন।' আদম তাঁকে বললেন, 'আপনি সেই জন, যাঁকে আল্লাহ তাঁর রিসালাতের জন্য বেছে নিয়েছেন, নিজের জন্য বেছে নিয়েছেন, আর যাঁর উপর তাওরাত নাযিল করেছেন।' মূসা বললেন, 'হ্যাঁ।' আদম বললেন, 'আপনি কি দেখেছেন, আমাকে সৃষ্টির আগেই তা আমার জন্য লিখে রাখা হয়েছিল?' মূসা বললেন, 'হ্যাঁ।' এভাবে আদম যুক্তিতে মূসার উপর জয়ী হলেন।\""
+          },
+          {
+            "en": "Ashqayta, made miserable, is the causative form of the root of tashqa. Ibn Kathir carries a version of the exchange under 20:121 and 20:122, and the 20:120 study treats Adam's reply, so here it stands as a general narration, not one attached to this verse. Notice only that the word warned of in the Garden returns in the Prophet's telling, and that the argument went to Adam (AS). Then 20:123 turns the same root into a promise: whoever follows My guidance will neither go astray nor be wretched, la yashqa.",
+            "bn": "'আশকাইতা', দুর্দশায় ফেলেছেন, শব্দটি 'তাশকা'-র ধাতু থেকেই এসেছে, অন্যকে কষ্টে ফেলার অর্থে। ইবন কাসীর এই কথোপকথনের একটি রূপ এনেছেন ২০:১২১ ও ২০:১২২ আয়াতের আলোচনায়, আর আদমের জবাব নিয়ে কথা হয়েছে ২০:১২০-এর লেখায়। তাই এখানে হাদীসটি সাধারণ বর্ণনা হিসেবেই থাকল, এই আয়াতের সঙ্গে যুক্ত বর্ণনা হিসেবে নয়। শুধু খেয়াল করুন, জান্নাতে যে শব্দে সাবধান করা হয়েছিল, নবী ﷺ-এর বর্ণনায় সেটাই ফিরে এসেছে, আর যুক্তিতে জিতেছেন আদম (আঃ)। তারপর ২০:১২৩ আয়াত একই ধাতুকে বানায় প্রতিশ্রুতি: যে আমার হিদায়াত মানবে, সে পথ হারাবে না, দুর্দশায়ও পড়বে না, 'লা ইয়াশকা'।"
+          },
+          {
+            "en": "Taken whole, the verse is a warning in three parts. The enemy is named, the cost is stated, and the ease already given is listed in the two verses after. What it asks of a reader is quieter than it sounds. Before a step that would take you out of a good place, ask whose voice proposed it and what it would cost to carry. And notice how much of your daily bread, water, clothing and roof you have stopped seeing as given.",
+            "bn": "পুরো আয়াতটা মিলিয়ে দেখলে সতর্কবাণীর তিনটি অংশ। শত্রুর নাম বলা হয়েছে, দাম বলা হয়েছে, আর যে আরাম আগেই দেওয়া আছে, তার তালিকা এসেছে পরের দুই আয়াতে। পাঠকের কাছে এর দাবি শুনতে যত বড় মনে হয়, আসলে তার চেয়ে নিরিবিলি। ভালো কোনো অবস্থা থেকে বেরিয়ে যাওয়ার মতো পা বাড়ানোর আগে জিজ্ঞেস করুন, প্রস্তাবটা কার মুখ থেকে এল, আর এর বোঝা বইতে কত দাম দিতে হবে। আর খেয়াল করুন, রোজকার রুটি, পানি, কাপড় আর মাথার ছাদের কতটা আপনি আর দান হিসেবে দেখেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "20:120": {
     "sections": [
       {
