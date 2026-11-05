@@ -1639,6 +1639,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:68": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Forgetting and Precedent",
+          "bn": "ভুলে যাওয়া আর পূর্বসূরিদের মাঝে"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and this verse stands inside a long passage about the hypocrites, running from their fear in 9:64 that a surah would expose what was in their hearts, through their excuses in 9:65 and 9:66. 9:67 then draws their portrait: the hypocrite men and the hypocrite women belong with each other, they enjoin what is wrong, forbid what is right and close their hands, they forgot Allah so He forgot them. Our verse is the verdict on that portrait, and 9:69 turns at once to precedent: you are like those before you.",
+            "bn": "আত-তাওবা মাদানী সূরা। এ আয়াত মুনাফিকদের নিয়ে এক দীর্ঘ আলোচনার ভেতরে দাঁড়িয়ে। ৯:৬৪ আয়াতে তাদের ভয় ছিল, এমন কোনো সূরা নাজিল হবে যা তাদের মনের কথা ফাঁস করে দেবে। ৯:৬৫ ও ৯:৬৬ আয়াতে আসে তাদের অজুহাত। তারপর ৯:৬৭ আয়াত তাদের ছবি আঁকে: মুনাফিক পুরুষ আর মুনাফিক নারী একে অপরের মতোই, তারা অন্যায়ের হুকুম দেয়, ন্যায় থেকে বাধা দেয়, হাত গুটিয়ে রাখে, আল্লাহকে ভুলে গেছে, তাই তিনিও তাদের ভুলে গেছেন। আমাদের আয়াত সেই ছবির ওপর রায়। আর ৯:৬৯ আয়াত সঙ্গে সঙ্গে নজির টানে: তোমরা তোমাদের আগের লোকদের মতোই।"
+          },
+          {
+            "en": "The forgetting in 9:67 needs one note, because the verdict rests on it. Ma'arif al-Qur'an says Allah is free of forgetfulness, so the sense is that they abandoned His commandments as if they had forgotten them, and He in turn abandoned their prospects in the Hereafter, until no trace of good or reward remained in their name. Ibn Kathir's abridged commentary reads it as their forgetting His remembrance and His treating them as though He had forgotten them, and cites 45:34: today We will forget you as you forgot the meeting of this Day of yours.",
+            "bn": "৯:৬৭ আয়াতের ভুলে যাওয়া নিয়ে একটা কথা বলে রাখা দরকার, কারণ রায়টা এর ওপরই দাঁড়িয়ে। মাআরিফুল কুরআন বলে, আল্লাহ ভুলে যাওয়া থেকে পবিত্র। তাই অর্থ হলো, তারা আল্লাহর হুকুম এমনভাবে ছেড়ে দিয়েছিল যেন ভুলেই গেছে। বিনিময়ে আল্লাহও আখেরাতে তাদের ভালোর সম্ভাবনা ছেড়ে দিলেন, এমনভাবে যে তাদের নামে কোনো কল্যাণ বা সওয়াবের চিহ্নও রইল না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে, তারা আল্লাহর জিকির ভুলে গিয়েছিল, আর আল্লাহ তাদের সঙ্গে এমন আচরণ করলেন যেন তাদের ভুলে গেছেন। সেখানে ৪৫:৩৪ আয়াত উদ্ধৃত হয়েছে: আজ আমি তোমাদের ভুলে যাব, যেমন তোমরা এ দিনের সাক্ষাৎকে ভুলে গিয়েছিলে।"
+          },
+          {
+            "en": "Four verses on, the same structure is turned the other way. 9:71 portrays the believing men and the believing women, and 9:72 opens with the same two words, Allah has promised, before naming the gardens. That verse has its own reflection and is not retold here. For reading ours it is enough to know that the parallel lies in the wording itself, and that the verdict on the hypocrites comes first.",
+            "bn": "চারটি আয়াত পরে একই গড়ন উল্টো দিক থেকে আসে। ৯:৭১ আয়াত মু’মিন পুরুষ আর মু’মিন নারীর ছবি আঁকে, আর ৯:৭২ আয়াত জান্নাতের কথা বলার আগে শুরু হয় ঠিক এই দুই শব্দে: আল্লাহ ওয়াদা করেছেন। সে আয়াতের আলাদা আলোচনা আছে, এখানে তা আর বলা হচ্ছে না। আমাদের আয়াত বোঝার জন্য এটুকু জানাই যথেষ্ট যে মিলটা শব্দের মধ্যেই আছে, আর মুনাফিকদের রায়টা আসে আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise Whose Object Is Fire",
+          "bn": "যে ওয়াদার বিষয় আগুন"
+        },
+        "p": [
+          {
+            "en": "The verse opens wa'ada Allah, Allah has promised, and a reader may stop at the word: a promise of Hell? Al-Qurtubi meets the question in his first line on the verse. It is said, he writes, wa'ada Allah bil-khayr wa'dan, and wa'ada bil-sharr wa'idan. The verb is one and serves for good and for evil alike; what changes is the noun drawn from it, wa'd for a promise of good and wa'id for a threat. Here the object is the fire of Hell, so what the verse announces is a wa'id.",
+            "bn": "আয়াত শুরু হয় ওয়াআদাল্লাহ দিয়ে: আল্লাহ ওয়াদা করেছেন। পাঠক এখানে থমকে যেতে পারেন। জাহান্নামের ওয়াদা? কুরতুবী আয়াতের প্রথম লাইনেই এ প্রশ্নের জবাব দেন। তিনি লেখেন, বলা হয় ওয়াআদাল্লাহু বিল-খাইরি ওয়া‘দান, আর ওয়াআদা বিশ-শাররি ওয়া‘ঈদান। ক্রিয়া একটাই, ভালো ও মন্দ দুয়ের বেলাতেই চলে। বদলায় কেবল তা থেকে তৈরি বিশেষ্য। ভালোর ওয়াদা হলে ওয়া‘দ, আর হুমকি হলে ওয়া‘ঈদ। এখানে বিষয়টা জাহান্নামের আগুন, তাই আয়াত যা ঘোষণা করছে তা ওয়া‘ঈদ।"
+          },
+          {
+            "en": "Ibn Kathir ties the threat to what came before it. His gloss on the opening is a single phrase: that is, on account of this conduct which has been mentioned of them. The abridged English edition keeps the link, on account of their evildoing mentioned here. So the Fire in this verse is not announced into empty air. It answers a list, and the list in 9:67 is of things people do: what they order, what they forbid, what they do with their hands, and what they forget.",
+            "bn": "ইবন কাসীর হুমকিটাকে আগের আয়াতের সঙ্গে জুড়ে দেন। শুরুর অংশের ব্যাখ্যায় তাঁর কথা একটাই: অর্থাৎ তাদের সম্পর্কে যে কাজকর্মের কথা বলা হলো, তার কারণে। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও একই যোগসূত্র আছে: এখানে বর্ণিত তাদের মন্দ কাজের কারণে। কাজেই এ আয়াতের আগুন শূন্য থেকে আসা ঘোষণা নয়। এটা একটা তালিকার জবাব। আর ৯:৬৭ আয়াতের তালিকাটা মানুষের করা কাজের: তারা কিসের হুকুম দেয়, কিসে বাধা দেয়, হাত দিয়ে কী করে, আর কী ভুলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named Ahead of the Disbelievers",
+          "bn": "কাফিরদের আগে যাদের নাম"
+        },
+        "p": [
+          {
+            "en": "The verse lists three: the hypocrite men, the hypocrite women, and the disbelievers. None of the commentaries fetched for this verse remarks on the order, and it would be wrong to put a reason in their mouths. What the text itself shows is that the passage has been about the hypocrites since 9:64, so they remain the subject of the sentence and the disbelievers are added to them. 9:73, five verses on, names the same two groups the other way round: fight against the disbelievers and the hypocrites.",
+            "bn": "আয়াতে তিনটি দলের নাম: মুনাফিক পুরুষ, মুনাফিক নারী, আর কাফির। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই ক্রম নিয়ে কিছু বলে না। তাই তাঁদের মুখে কোনো কারণ বসিয়ে দেওয়া অন্যায় হবে। আয়াতের পাঠ থেকে এটুকু দেখা যায় যে ৯:৬৪ থেকে আলোচনা চলছে মুনাফিকদের নিয়েই। ফলে বাক্যের মূল বিষয় তারাই থাকে, কাফিরদের তাদের সঙ্গে যোগ করা হয়। পাঁচ আয়াত পরে ৯:৭৩ আয়াতে একই দুই দলের নাম আসে উল্টো ক্রমে: কাফির ও মুনাফিকদের বিরুদ্ধে যুদ্ধ কর।"
+          },
+          {
+            "en": "What the commentators do explain is why the two are joined at all. As-Sa'di says Allah gathered the hypocrites and the disbelievers in the Fire, and in the curse and the eternity, because they had gathered together in this world on disbelief, on enmity to Allah and His Messenger ﷺ, and on disbelief in His signs. Ibn Kathir makes the same pairing in a few words when he glosses abiding in it: they and the disbelievers. As-Sa'di's reason looks at what the two shared, not at how differently they appeared.",
+            "bn": "দুই দলকে একসঙ্গে কেন রাখা হলো, তাফসীরকারেরা সেটা ব্যাখ্যা করেন। সা'দী বলেন, আল্লাহ মুনাফিক আর কাফিরদের আগুনে, লা‘নতে আর চিরস্থায়িত্বে একত্র করেছেন। কারণ দুনিয়াতে তারা একত্র হয়েছিল কুফরের ওপর, আল্লাহ ও তাঁর রসূল ﷺ-এর সঙ্গে শত্রুতার ওপর, আর তাঁর আয়াতকে অস্বীকারের ওপর। ইবন কাসীরও ‘তাতে চিরকাল থাকবে’ অংশের ব্যাখ্যায় অল্প কথায় একই জুটি বাঁধেন: তারা এবং কাফিররা। সা'দীর কারণটা তাকায় দুই দলের ভেতরের মিলের দিকে, বাইরে তারা কত আলাদা দেখাত সেদিকে নয়।"
+          },
+          {
+            "en": "The verse also names the hypocrite women separately, as 9:67 did, and as 9:71 and 9:72 do for the believing women. The fetched commentaries do not stop on this either. Its plain effect is that no one in the passage is reached only through somebody else. Each person, man or woman, stands in the verse on their own account, answerable for what they themselves did, which is the same footing on which the believers' promise is made.",
+            "bn": "আয়াতে মুনাফিক নারীদের নামও আলাদা করে এসেছে, যেমন এসেছিল ৯:৬৭ আয়াতে, আর যেমন ৯:৭১ ও ৯:৭২ আয়াতে মু’মিন নারীদের নাম আসে। দেখা তাফসীরগুলো এখানেও থামে না। তবে এর সোজা ফল হলো, এ আলোচনায় কেউ অন্যের মাধ্যমে আসে না। পুরুষ হোক বা নারী, প্রত্যেকে আয়াতে দাঁড়িয়ে আছে নিজের হিসাবে, নিজের কাজের জবাবদিহি নিয়ে। মু’মিনদের ওয়াদাও দেওয়া হয়েছে ঠিক এই ভিত্তিতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough, With Nothing Owed",
+          "bn": "যথেষ্ট, পাওনা বাকি নেই"
+        },
+        "p": [
+          {
+            "en": "Khalidina fiha, abiding in it, is glossed by at-Tabari as remaining in it for ever, and he adds a phrase that closes off any other kind of ending: they neither live in it nor die. Al-Qurtubi notes the grammar. Khalidin is a circumstantial accusative whose governing verb is left unsaid, so the sense runs: they will burn in it, abiding. Ibn Kathir has remaining in it and made to abide, and the Muyassar says their destination is the fire of Hell, abiding in it for ever.",
+            "bn": "খালিদীনা ফীহা, তাতে চিরকাল থাকবে। তাবারী এর ব্যাখ্যা দেন, তারা সেখানে চিরদিন অবস্থান করবে। সঙ্গে এমন একটা কথা জুড়ে দেন যা অন্য যেকোনো রকম সমাপ্তির পথ বন্ধ করে দেয়: সেখানে তারা বাঁচবেও না, মরবেও না। কুরতুবী ব্যাকরণের দিকটা দেখান। খালিদীন শব্দটি হাল হিসেবে মানসূব, আর যে ক্রিয়া একে নিয়ন্ত্রণ করে তা উহ্য। অর্থ দাঁড়ায়: তারা তাতে দগ্ধ হবে, চিরকাল থেকে। ইবন কাসীর বলেন, তাতে অবস্থানকারী, চিরকালের জন্য রাখা। মুয়াসসার বলে, তাদের গন্তব্য জাহান্নামের আগুন, সেখানে তারা চিরদিন থাকবে।"
+          },
+          {
+            "en": "Then the shortest clause in the verse, hiya hasbuhum, it is sufficient for them. At-Tabari reads it as: it is enough for them as punishment and as recompense for their disbelief in Allah. Al-Baghawi says the same in fewer words, enough for them as a requital for their disbelief, and Ibn Kathir has their sufficiency in punishment. Al-Qurtubi parses the clause as subject and predicate and gives it a word the others do not use: it is sufficiency, and wafa', full payment, of the recompense of their deeds.",
+            "bn": "তারপর আয়াতের সবচেয়ে ছোট বাক্য, হিয়া হাসবুহুম: তা-ই তাদের জন্য যথেষ্ট। তাবারীর ব্যাখ্যায়, আল্লাহকে অস্বীকার করার শাস্তি ও প্রতিফল হিসেবে এটাই তাদের জন্য যথেষ্ট। বাগাভী আরও কম কথায় একই কথা বলেন: তাদের কুফরের বদলা হিসেবে যথেষ্ট। ইবন কাসীর বলেন, আযাবের ক্ষেত্রে এটাই তাদের জন্য যথেষ্ট। কুরতুবী বাক্যটিকে উদ্দেশ্য ও বিধেয় হিসেবে বিশ্লেষণ করেন এবং এমন একটি শব্দ আনেন যা অন্যরা আনেননি। তিনি বলেন, এটা তাদের আমলের প্রতিদানের জন্য যথেষ্ট, আর তার পূর্ণ পরিশোধ, যাকে তিনি বলেন ওয়াফা।"
+          },
+          {
+            "en": "The word full payment is worth holding on to. A sufficiency that is also full payment leaves no remainder in the account; what was owed for the deeds has been met. At-Tabari's pairing of punishment with recompense points the same way, since recompense is what answers a deed. The verse calls the Fire enough, and al-Qurtubi's word makes that enough a matter of what the deeds themselves had earned.",
+            "bn": "পূর্ণ পরিশোধ কথাটা মনে রাখার মতো। যা যথেষ্ট এবং পূর্ণ পরিশোধও, তাতে হিসাবে আর কিছু বাকি থাকে না। আমলের জন্য যা পাওনা ছিল, তা মিটে গেছে। তাবারী যে শাস্তির সঙ্গে প্রতিফল শব্দটা জুড়েছেন, সেটাও একই দিকে ইশারা করে, কারণ প্রতিফল আসে কাজের জবাবে। আয়াত আগুনকে বলে যথেষ্ট। আর কুরতুবীর শব্দটা সেই যথেষ্টকে বেঁধে দেয় তাদের নিজেদের আমলের অর্জনের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Put Far From Mercy",
+          "bn": "রহমত থেকে দূরে ঠেলে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-la'anahum Allah, and Allah has cursed them. Every commentary fetched defines the curse in the same terms, as being put far from mercy. At-Tabari uses two verbs: Allah removed them far and cast them away from His mercy. Ibn Kathir: He drove them off and removed them far. Al-Qurtubi: la'n is distance, that is, from the mercy of Allah, and he notes he has explained it earlier. Al-Baghawi and the Muyassar both specify the same thing, far from His mercy.",
+            "bn": "ওয়া লাআনাহুমুল্লাহ: আর আল্লাহ তাদের লা‘নত করেছেন। যত তাফসীর দেখা হয়েছে, সবাই লা‘নতের অর্থ করেন একইভাবে: রহমত থেকে দূরে সরিয়ে দেওয়া। তাবারী দুটি ক্রিয়া ব্যবহার করেন। আল্লাহ তাদের নিজের রহমত থেকে দূর করেছেন, ছুড়ে ফেলেছেন। ইবন কাসীর বলেন, তিনি তাদের তাড়িয়ে দিয়েছেন, দূরে সরিয়েছেন। কুরতুবীর কথায়, লা‘ন মানে দূরত্ব, অর্থাৎ আল্লাহর রহমত থেকে। তিনি জানান, এর ব্যাখ্যা আগেই দিয়েছেন। বাগাভী ও মুয়াসসার দুজনেই নির্দিষ্ট করে বলেন: তাঁর রহমত থেকে দূরে।"
+          },
+          {
+            "en": "The last words, wa-lahum 'adhabun muqim, and for them is an enduring punishment, get a full sentence from at-Tabari. For both groups together, he says, the people of hypocrisy and of disbelief, there is with Allah a punishment that is permanent, that does not cease and does not perish. Al-Qurtubi gives two adjectives, wasib and da'im, constant and lasting, and al-Baghawi and the Muyassar give one, lasting. Read beside 9:67, the curse answers the forgetting: those who turned from His remembrance are put far from His mercy. That pairing is a reading of the two verses, not a commentator's sentence.",
+            "bn": "শেষ কথাগুলো, ওয়া লাহুম আযাবুম মুকীম, আর তাদের জন্য আছে স্থায়ী আযাব। তাবারী এর জন্য পুরো একটা বাক্য খরচ করেন। তিনি বলেন, দুই দলের জন্যই, অর্থাৎ নিফাক ও কুফরের লোকদের জন্য, আল্লাহর কাছে আছে এমন আযাব যা চিরস্থায়ী, যা থামে না, শেষও হয় না। কুরতুবী দুটি বিশেষণ দেন, ওয়াসিব ও দাইম, অবিরাম ও স্থায়ী। বাগাভী ও মুয়াসসার দেন একটি, স্থায়ী। ৯:৬৭ আয়াতের পাশে রেখে পড়লে লা‘নত যেন ভুলে যাওয়ার জবাব। যারা আল্লাহর জিকির থেকে মুখ ফিরিয়েছিল, তাদের তাঁর রহমত থেকে দূরে সরানো হলো। এ জুটি দুই আয়াত পাশাপাশি পড়ার ফল, কোনো তাফসীরকারের বাক্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name Written Here",
+          "bn": "এখানে কারও নাম লেখা নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying without softening. The verse describes the end of the hypocrites and the disbelievers as the text describes it, and it licenses nothing against any living person or community. No living man or woman may be called a hypocrite, cursed, or consigned to Hell on the strength of this verse. Hypocrisy, in 9:64, is something in the heart that the hypocrites feared a surah would expose, and it was Allah who could expose it. The verse hands that knowledge to no reader.",
+            "bn": "কথাটা নরম না করেই বলা দরকার। আয়াতটি মুনাফিক আর কাফিরদের পরিণতির যে বর্ণনা দেয়, তা শুধু সেটুকুই, যতটুকু আয়াতে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এ আয়াতের জোরে কোনো জীবিত পুরুষ বা নারীকে মুনাফিক বলা, অভিশপ্ত বলা বা জাহান্নামি সাব্যস্ত করা যায় না। ৯:৬৪ আয়াতে নিফাক হলো অন্তরের এমন জিনিস, যা কোনো সূরা ফাঁস করে দেবে বলে মুনাফিকরা ভয় পেত। আর তা ফাঁস করার ক্ষমতা ছিল আল্লাহর। সেই জ্ঞান এ আয়াত কোনো পাঠকের হাতে তুলে দেয় না।"
+          },
+          {
+            "en": "As-Sa'di's reason for the verdict points the same way. What joined the two groups was disbelief, enmity to Allah and His Messenger ﷺ, and disbelief in His signs: matters of the heart and of a whole life, which no onlooker sees in full. And 4:146, after placing the hypocrites in the lowest depth of the Fire in 4:145, makes an exception for those who repent, correct themselves, hold fast to Allah and make their religion sincere for Him. While a person lives, that door has not been shut.",
+            "bn": "সা'দী রায়ের যে কারণ বলেছেন, তাও একই দিকে ইশারা করে। দুই দলকে যা এক করেছিল তা হলো কুফর, আল্লাহ ও তাঁর রসূল ﷺ-এর সঙ্গে শত্রুতা, আর তাঁর আয়াত অস্বীকার। এগুলো অন্তরের ব্যাপার, গোটা জীবনের ব্যাপার, বাইরে থেকে কেউ এর পুরোটা দেখতে পায় না। আর ৪:১৪৫ আয়াত মুনাফিকদের জাহান্নামের সর্বনিম্ন স্তরে রাখার পর ৪:১৪৬ আয়াতে ব্যতিক্রম রাখে তাদের জন্য, যারা তওবা করে, নিজেদের শুধরে নেয়, আল্লাহকে আঁকড়ে ধরে আর দ্বীনকে তাঁর জন্য খাঁটি করে। মানুষ যতক্ষণ বেঁচে আছে, সে দরজা বন্ধ হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Trait Until It Is Left",
+          "bn": "যতক্ষণ না স্বভাবটা ছাড়ে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, so the narration below is a general one on hypocrisy, not as an explanation of this verse. Sahih al-Bukhari 34 records from Abdullah ibn Amr (RA) that the Prophet ﷺ said: whoever has the following four will be a pure hypocrite, and whoever has one of the following four will have one characteristic of hypocrisy unless and until he gives it up. Whenever he is entrusted, he betrays. Whenever he speaks, he tells a lie. Whenever he makes a covenant, he proves treacherous. Whenever he quarrels, he behaves in a very imprudent, evil and insulting manner.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জোড়ে না। তাই নিচের বর্ণনাটি মুনাফিকি নিয়ে একটি সাধারণ হাদীস হিসেবে আনা হলো, এ আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারী ৩৪-এ আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: চারটি স্বভাব যার মধ্যে থাকবে, সে খাঁটি মুনাফিক। আর যার মধ্যে এর একটি থাকবে, তার মধ্যে মুনাফিকির একটি স্বভাব থেকে যাবে, যতক্ষণ না সে তা ছেড়ে দেয়। তার কাছে আমানত রাখা হলে খেয়ানত করে। কথা বললে মিথ্যা বলে। চুক্তি করলে তা ভঙ্গ করে। আর ঝগড়া করলে অশ্লীল গালাগালি করে সীমা ছাড়িয়ে যায়।"
+          },
+          {
+            "en": "Two things in the wording turn the reading inward. The first is one characteristic of hypocrisy: the hadith speaks of a trait that can sit in someone who is not a hypocrite in full, which makes it a question to ask of oneself rather than a test to apply to others. The second is unless and until he gives it up. A trait is something a person can leave. The four occasions are all ordinary, a trust, a conversation, an agreement, a quarrel, and each of them comes round again every day.",
+            "bn": "হাদীসের শব্দের দুটি জায়গা পড়াটাকে নিজের দিকে ফিরিয়ে দেয়। প্রথমটি হলো মুনাফিকির একটি স্বভাব। হাদীস এমন এক স্বভাবের কথা বলছে, যা পুরোপুরি মুনাফিক নয় এমন মানুষের মধ্যেও থাকতে পারে। ফলে এটা অন্যকে মাপার পরীক্ষা নয়, নিজেকে করার প্রশ্ন। দ্বিতীয়টি হলো, যতক্ষণ না সে তা ছেড়ে দেয়। স্বভাব এমন জিনিস যা ছাড়া যায়। চারটি উপলক্ষই খুব সাধারণ: আমানত, কথাবার্তা, চুক্তি, ঝগড়া। আর এর প্রতিটি রোজ ফিরে ফিরে আসে।"
+          },
+          {
+            "en": "The Qur'an itself turns the forgetting of 9:67 into a warning addressed to believers. 59:19 says: and be not like those who forgot Allah, so He made them forget themselves; those are the defiantly disobedient. The last word there, al-fasiqun, is the word with which 9:67 closed its description of the hypocrites. The verdict in our verse is not given so that a reader can find the people it fits. As 59:19 shows, it is given so that he does not become one of them.",
+            "bn": "৯:৬৭ আয়াতের ভুলে যাওয়াকে কুরআন নিজেই মু’মিনদের জন্য সতর্কবাণী বানিয়ে দিয়েছে। ৫৯:১৯ আয়াত বলে: তোমরা তাদের মতো হয়ো না, যারা আল্লাহকে ভুলে গেছে, ফলে তিনি তাদের আত্মভোলা করে দিয়েছেন। তারাই ফাসিক। সেখানকার শেষ শব্দ আল-ফাসিকূন, আর ৯:৬৭ আয়াতও মুনাফিকদের বর্ণনা শেষ করেছিল এই শব্দেই। আমাদের আয়াতের রায় এজন্য আসেনি যে পাঠক খুঁজে বের করবেন এটা কার গায়ে লাগে। ৫৯:১৯ আয়াত দেখিয়ে দেয়, রায়টা এসেছে যাতে তিনি নিজে ওদের একজন না হয়ে যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Turned on Oneself",
+          "bn": "নিজের দিকে ফেরানো প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse is a verdict, not a supplication, and the Qur'an supplies a prayer that fits it in its own words. 3:8: our Lord, let not our hearts deviate after You have guided us, and grant us from Yourself mercy; indeed, You are the Bestower. It asks for the two things whose loss this verse describes: a heart kept straight after guidance, and mercy from Him, the mercy from which, in every commentary above, the cursed are put far.",
+            "bn": "আয়াতটি রায়, দোয়া নয়। তবে এর সঙ্গে মানানসই দোয়া কুরআন নিজের ভাষাতেই দিয়েছে। ৩:৮ আয়াত: হে আমাদের রব, হেদায়াত দেওয়ার পর আমাদের অন্তরগুলোকে বাঁকা করে দিও না, আর তোমার কাছ থেকে আমাদের রহমত দাও। নিশ্চয়ই তুমি মহান দাতা। এ আয়াত যে দুটি জিনিস হারানোর কথা বলে, দোয়াটি ঠিক সেই দুটিই চায়। হেদায়াতের পর সোজা থাকা অন্তর, আর তাঁর রহমত। উপরের প্রতিটি তাফসীর বলেছে, লা‘নতপ্রাপ্তদের দূরে সরানো হয় এই রহমত থেকেই।"
+          },
+          {
+            "en": "When I read this verse, did I think first of someone else? Of the four traits in the hadith, which did I meet in myself this week: a trust handled loosely, a word that was not true, an agreement I bent, a quarrel in which I went too far? And 9:67 says they forgot Allah. Which part of my remembrance has thinned without my ever deciding to let it go, and when did I last notice it was gone?",
+            "bn": "এ আয়াত পড়ার সময় আমার মনে কি প্রথমে অন্য কারও কথা এসেছিল? হাদীসের চারটি স্বভাবের কোনটি এ সপ্তাহে নিজের মধ্যে দেখেছি? আলগাভাবে সামলানো কোনো আমানত, সত্য নয় এমন কোনো কথা, বাঁকিয়ে ফেলা কোনো চুক্তি, নাকি এমন ঝগড়া যেখানে সীমা ছাড়িয়েছি? ৯:৬৭ আয়াত বলে, তারা আল্লাহকে ভুলে গেছে। আমার জিকিরের কোন অংশটা ছাড়ব বলে ঠিক না করেই পাতলা হয়ে গেছে? আর শেষ কবে খেয়াল করেছি যে সেটা আর নেই?"
+          },
+          {
+            "en": "Two more. The verse names men and women each on their own account, so am I leaning on someone else's religion to carry mine? And the hadith says a trait stays until it is given up: which am I still keeping, and what is the first step to giving it up today, while the door that 4:146 describes is still open?",
+            "bn": "আরও দুটি প্রশ্ন। আয়াত পুরুষ ও নারীকে আলাদা করে, প্রত্যেককে নিজের হিসাবে নাম ধরে ডেকেছে। তাহলে আমি কি নিজের দ্বীনের ভার অন্য কারও দ্বীনের ওপর চাপিয়ে রেখেছি? আর হাদীস বলে, স্বভাব থেকে যায় যতক্ষণ না তা ছাড়া হয়। কোন স্বভাবটা আমি এখনো ধরে রেখেছি? ৪:১৪৬ আয়াত যে দরজার কথা বলে তা খোলা থাকতে থাকতেই আজ সেটা ছাড়ার প্রথম ধাপ কী হবে?"
+          }
+        ]
+      }
+    ]
+  },
   "9:70": {
     "sections": [
       {
@@ -2054,6 +2206,154 @@ Object.assign(TADABBUR_ARTICLES, {
           {
             "en": "Two more. The mockery took attention to keep up, since somebody had to notice who gave what: how much of my noticing goes to auditing what other people do for Allah? And the verse takes the side of people who had already handed over what they had: what would I have to give away before this verse was on my side rather than describing me?",
             "bn": "আরও দুটি প্রশ্ন। এ বিদ্রূপ চালাতে মনোযোগ লাগত, কারণ কাউকে খেয়াল রাখতে হতো কে কী দিল: আল্লাহর জন্য অন্যরা কী করছে তার হিসাব নিতে আমার মনোযোগের কতটা খরচ হয়? আর আয়াত পক্ষ নেয় তাদের, যারা নিজেদের যা ছিল তা আগেই দিয়ে দিয়েছিল: এ আয়াত আমাকে বর্ণনা না করে আমার পক্ষে দাঁড়াবে, তার জন্য আমাকে কী দিয়ে দিতে হতো?"
+          }
+        ]
+      }
+    ]
+  },
+  "9:82": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spoken Right After the Heat",
+          "bn": "গরমের কথার ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa, so, and the so points back to 9:81. There the ones left behind rejoiced at sitting at home after the Messenger of Allah ﷺ had set out, disliked striving with their wealth and their lives, and told each other not to march in the heat. The reply was that the fire of Hell is fiercer in heat. Ibn Kathir's abridged English places this at Tabuk, when the heat was intense and the fruit and the shade had become pleasant.",
+            "bn": "আয়াতের শুরু ফা দিয়ে, অর্থাৎ কাজেই। এই কাজেই আমাদের ফিরিয়ে নেয় ৯:৮১ আয়াতে। সেখানে পিছনে থেকে যাওয়া লোকেরা আল্লাহর রাসূল ﷺ রওনা হয়ে যাওয়ার পর ঘরে বসে থাকতে পেরে খুশি হয়েছিল। মাল আর জান দিয়ে জিহাদ করা তাদের অপছন্দ ছিল, আর তারা একে অপরকে বলেছিল, গরমের মধ্যে বেরিয়ো না। জবাব এসেছিল: জাহান্নামের আগুনের তাপ আরও প্রচণ্ড। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ঘটনাটিকে তাবুকের সময়ে রাখে। তখন গরম ছিল তীব্র, আর ফল পেকেছিল, ছায়াও হয়ে উঠেছিল আরামের।"
+          },
+          {
+            "en": "At-Tabari joins the two verses in a single sentence. These men rejoiced at sitting behind the Messenger of Allah, so let them laugh, rejoicing, a little in this passing world over their sitting behind and their distraction from obeying their Lord, for they will weep long in Hell in place of that brief laughter. The Muyassar names them as the hypocrites who stayed behind from the Messenger in the expedition of Tabuk, and Ibn Kathir introduces the verse as a threat to these hypocrites for what they had done.",
+            "bn": "তাবারী দুই আয়াতকে জুড়ে দেন এক বাক্যে। এরা আল্লাহর রাসূলের পেছনে বসে থাকতে পেরে খুশি হয়েছিল। কাজেই এই নশ্বর দুনিয়ায় তারা একটু হেসে নিক, নিজেদের বসে থাকা আর রবের আনুগত্য ভুলে খেলায় মেতে থাকা নিয়ে আনন্দ করুক। কারণ দুনিয়ার সেই অল্প হাসির জায়গায় জাহান্নামে তারা কাঁদবে দীর্ঘ সময়। মুয়াসসার তাদের পরিচয় দেয় সেই মুনাফিক হিসেবে, যারা তাবুক অভিযানে রাসূলের সঙ্গে না গিয়ে পিছনে রয়ে গিয়েছিল। ইবন কাসীর আয়াতটি শুরু করেন এই মুনাফিকদের কাজের জন্য তাদের প্রতি এক হুমকি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Order That Carries a Warning",
+          "bn": "আদেশের রূপে হুঁশিয়ারি"
+        },
+        "p": [
+          {
+            "en": "Fal-yadhaku qalilan wal-yabku kathiran: let them laugh a little and let them weep much. Both verbs are commands in the third person, and al-Qurtubi opens his first issue on the verse by settling what kind of command this is. It is an imperative, he writes, whose meaning is that of a threat; it is not a command to laugh. He adds a point of form: the lam of the command was originally voweled with a kasra, which was dropped because it was heavy on the tongue.",
+            "bn": "ফালইয়াদহাকূ কালীলান ওয়ালইয়াবকূ কাসীরা: তারা একটু হেসে নিক, আর কাঁদুক অনেক। দুটি ক্রিয়াই তৃতীয় পক্ষের প্রতি আদেশ। কুরতুবী এ আয়াতের প্রথম মাসআলাতেই ঠিক করে নেন, এটা কেমন আদেশ। তিনি লেখেন, রূপে এটা আদেশ, কিন্তু অর্থে হুমকি। হাসার কোনো হুকুম এখানে নেই। সঙ্গে তিনি গঠনের একটি কথাও জানান। আদেশের লামে আসলে যের ছিল, উচ্চারণে ভারী লাগে বলে তা ফেলে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "He then records a second reading under qila, it was said: a command in the sense of a statement, meaning that they will laugh a little and weep much. Ma'arif al-Qur'an takes this line. The imperative form is there, it says, but commentators interpret it in the sense of a predicate, a plain report, and the wisdom of putting the report in the form of a command is that it is categorical and certain: this is going to happen as a matter of certainty.",
+            "bn": "এরপর কুরতুবী 'বলা হয়েছে' বলে দ্বিতীয় একটি ব্যাখ্যা উল্লেখ করেন। এখানে আদেশটা আসলে সংবাদ: তারা অল্প হাসবে আর অনেক কাঁদবে। মাআরিফুল কুরআন এই পথ ধরে। সেখানে বলা হয়েছে, শব্দটা আদেশের রূপে এলেও তাফসীরকারেরা একে খবর বা বিধেয় অর্থে নেন। খবরকে আদেশের রূপ দেওয়ার হিকমত হলো, এতে কথাটা হয়ে যায় চূড়ান্ত ও নিশ্চিত। অর্থাৎ এমনটা ঘটবেই, এতে কোনো সন্দেহ নেই।"
+          },
+          {
+            "en": "Al-Baghawi spells out the hidden structure in one phrase: its sense is, let them laugh a little, for they will weep much. As-Sa'di reads it the same way: let them enjoy themselves in this abode that is passing away, take pleasure in its delights and amuse themselves with its games, for they will weep much in a painful punishment. Al-Qurtubi gives both readings, threat and report, without choosing between them. Either way, the weeping is not left open.",
+            "bn": "বাগাভী এক বাক্যে আয়াতের ভেতরের গঠন খুলে দেন: তারা একটু হেসে নিক, কেননা তারা অনেক কাঁদবে। সা'দীও একইভাবে পড়েন। তাঁর ভাষায়, এই ফুরিয়ে যাওয়া ঘরে তারা মজা লুটে নিক, এর স্বাদে আনন্দ করুক, এর খেলায় মেতে থাকুক। কারণ যন্ত্রণাদায়ক শাস্তিতে তারা কাঁদবে অনেক। কুরতুবী হুমকি আর সংবাদ, দুটি ব্যাখ্যাই দেন, কোনোটিকে বেছে নেন না। যেভাবেই পড়া হোক, কান্নার ব্যাপারটা অনিশ্চিত রাখা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The World Is the Little",
+          "bn": "দুনিয়াটাই সেই অল্প"
+        },
+        "p": [
+          {
+            "en": "What are the little and the much? Ibn Kathir answers through Ibn Abi Talha from Ibn 'Abbas: the world is little, so let them laugh in it as much as they wish; when the world has ended and they have come to Allah, they will begin a weeping that never ends. He adds that Abu Razin, al-Hasan, Qatada, ar-Rabi' ibn Khuthaym, 'Awn al-'Uqayli and Zayd ibn Aslam said the same. Ma'arif al-Qur'an cites the same words from Ibn 'Abbas through Ibn Abi Hatim.",
+            "bn": "অল্প কী, আর অনেক কী? ইবন কাসীর উত্তর দেন ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে: দুনিয়া অল্প, তাই এতে তারা যত খুশি হেসে নিক। দুনিয়া শেষ হয়ে গেলে, তারা আল্লাহর কাছে ফিরে গেলে, শুরু হবে এমন কান্না যা কখনো থামবে না। তিনি জানান, আবূ রাযীন, হাসান, কাতাদা, রাবী ইবন খুসাইম, আওন আল-উকাইলী আর যায়দ ইবন আসলামও একই কথা বলেছেন। মাআরিফুল কুরআন ইবন আবী হাতিমের সূত্রে ইবন আব্বাস (রাঃ)-এর এই কথাই উদ্ধৃত করে।"
+          },
+          {
+            "en": "At-Tabari's chains show how widely the reading was held. In one of them Abu Razin puts it in the voice of Allah: the world is little, let them laugh in it as they please, and when they reach the Hereafter they will weep a weeping that does not stop, and that is the much. Ar-Rabi' ibn Khuthaym, al-Hasan, Qatada and Ibn Zayd each reduce it to two glosses: a little, in this world; much, in the Hereafter or in the Fire. At-Tabari says the people of interpretation held what he held.",
+            "bn": "তাবারীর সনদগুলো দেখায়, এই ব্যাখ্যা কত ব্যাপকভাবে প্রচলিত ছিল। একটি বর্ণনায় আবূ রাযীন কথাটা বলেন আল্লাহর জবানিতে: দুনিয়া অল্প, এতে তারা যত ইচ্ছা হেসে নিক। আখিরাতে পৌঁছালে তারা এমন কান্না কাঁদবে যা থামবে না, সেটাই অনেক। রাবী ইবন খুসাইম, হাসান, কাতাদা আর ইবন যায়দ কথাটা নামিয়ে আনেন দুটি ছোট ব্যাখ্যায়: অল্প হলো দুনিয়ায়, অনেক হলো আখিরাতে বা জাহান্নামে। তাবারী জানান, তাফসীরের আলেমরাও তাঁর মতোই বলেছেন।"
+          },
+          {
+            "en": "Two reports add a detail. In at-Tabari's chain from 'Ali from Ibn 'Abbas, the people meant are the hypocrites and the disbelievers who took their religion as mockery and play. And Abu Razin, in another report, sets beside this verse a phrase from 33:16, then you would be given enjoyment only a little, and glosses the little there as until their appointed terms. On this reading the little is a lifespan. It is measured not in hours of laughter but by where the life ends.",
+            "bn": "দুটি বর্ণনা আরেকটু যোগ করে। আলীর সূত্রে ইবন আব্বাস (রাঃ) থেকে তাবারীর বর্ণনায় বলা হয়েছে, এরা সেই মুনাফিক ও কাফির, যারা নিজেদের দীনকে ঠাট্টা আর খেলার বস্তু বানিয়েছিল। আর আবূ রাযীন আরেক বর্ণনায় এ আয়াতের পাশে রাখেন ৩৩:১৬ আয়াতের একটি অংশ: তখন তোমাদের অল্পই ভোগ করতে দেওয়া হবে। সেখানকার অল্পের ব্যাখ্যা তিনি দেন, তাদের নির্ধারিত মেয়াদ পর্যন্ত। এই পাঠে অল্প মানে একটা জীবনকাল। একে মাপা হয় না হাসির ঘণ্টা দিয়ে, মাপা হয় জীবনটা কোথায় গিয়ে শেষ হলো তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Earned First, Then Repaid",
+          "bn": "আগে কামাই, পরে প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "The verse closes with jaza'an bima kanu yaksibun, as a recompense for what they used to earn. At-Tabari glosses jaza' as a requital from Us to them for their disobedience: they did not march when they were called out against their enemy, and they sat in their homes behind the Messenger of Allah. Yaksibun, he says, means the sins they used to commit. Al-Qurtubi parses jaza'an as an object of purpose, for the sake of the recompense, and the Muyassar names what they earned as hypocrisy and disbelief.",
+            "bn": "আয়াত শেষ হয় জাযাআম বিমা কানূ ইয়াকসিবূন দিয়ে: তারা যা কামাই করত তার প্রতিফল হিসেবে। তাবারী জাযার ব্যাখ্যা দেন এভাবে: তাদের নাফরমানির বদলে আমার পক্ষ থেকে তাদের প্রাপ্য। শত্রুর বিরুদ্ধে বের হওয়ার ডাক এলে তারা বের হয়নি, আল্লাহর রাসূলের পেছনে ঘরে বসে ছিল। ইয়াকসিবূন মানে, তাঁর ভাষায়, যে গুনাহ তারা করত। কুরতুবী ব্যাকরণে জাযাআনকে উদ্দেশ্যবাচক কর্ম ধরেন, অর্থাৎ প্রতিফলের জন্যই। আর মুয়াসসার তাদের কামাইয়ের নাম দেয় নিফাক ও কুফর।"
+          },
+          {
+            "en": "As-Sa'di widens the list: their disbelief, their hypocrisy, and their failure to submit to the commands of their Lord. Ibn Zayd, in at-Tabari, reaches for 83:29 to 83:36, where the criminals used to laugh at those who believed, and the scene closes with the believers laughing at the disbelievers and the question: have the disbelievers been repaid for what they used to do? The pairing is his. In both places laughter spent at the wrong time, on the wrong thing, comes back as its opposite.",
+            "bn": "সা'দী তালিকাটা আরেকটু বড় করেন: তাদের কুফর, তাদের নিফাক, আর রবের হুকুমের সামনে মাথা নত না করা। তাবারীর বর্ণনায় ইবন যায়দ টেনে আনেন ৮৩:২৯ থেকে ৮৩:৩৬ আয়াত। সেখানে অপরাধীরা ঈমানদারদের নিয়ে হাসত। দৃশ্যটা শেষ হয় এভাবে: সেদিন ঈমানদাররা কাফিরদের নিয়ে হাসবে, আর প্রশ্ন আসবে, কাফিররা যা করত তার প্রতিফল কি তারা পেল? দুই জায়গাকে পাশাপাশি রাখা ইবন যায়দের কাজ। দুই জায়গাতেই ভুল সময়ে, ভুল জিনিসে খরচ করা হাসি ফিরে আসে তার উল্টো রূপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If You Knew What I Know",
+          "bn": "আমি যা জানি, তা যদি জানতে"
+        },
+        "p": [
+          {
+            "en": "Three commentators bring a hadith under this verse. In at-Tabari, Qatada, after glossing the little and the much, adds: it was mentioned to us that the Prophet of Allah ﷺ said, by the One in whose hand my soul is, if you knew what I know you would laugh little and weep much. Al-Baghawi gives it with his own chain through Shu'ba, from Musa ibn Anas, from Anas. Al-Qurtubi cites a longer wording, which he credits to at-Tirmidhi.",
+            "bn": "তিনজন তাফসীরকার এ আয়াতের নিচে একটি হাদীস আনেন। তাবারীর বর্ণনায় কাতাদা অল্প আর অনেকের ব্যাখ্যা দেওয়ার পর যোগ করেন: আমাদের জানানো হয়েছে, আল্লাহর নবী ﷺ বলেছেন, যাঁর হাতে আমার প্রাণ তাঁর কসম, আমি যা জানি তা যদি তোমরা জানতে, তবে অল্প হাসতে আর অনেক কাঁদতে। বাগাভী হাদীসটি আনেন নিজের সনদে, শু'বা থেকে, মূসা ইবন আনাস থেকে, আনাস (রাঃ) থেকে। কুরতুবী আরও দীর্ঘ একটি পাঠ উল্লেখ করেন এবং বলেন, তিরমিযী তা বর্ণনা করেছেন।"
+          },
+          {
+            "en": "Al-Bukhari (6486) narrates it through the same line al-Baghawi uses, Shu'ba from Musa ibn Anas from Anas (RA): The Prophet (ﷺ) said, \"If you knew that which I know, you would laugh little and weep much.\" It is in his Sahih, and he also gives it from Abu Hurayrah (RA). The hadith does not mention this verse. It speaks to believers about what knowledge of the unseen would do to them, and it is general, not a report about 9:82; its placement here rests on the shared words.",
+            "bn": "বুখারী (৬৪৮৬) হাদীসটি বর্ণনা করেন সেই একই সূত্রে, যা বাগাভী ব্যবহার করেছেন: শু'বা থেকে, মূসা ইবন আনাস থেকে, আনাস (রাঃ) থেকে। নবী ﷺ বলেছেন: \"আমি যা জানি, তোমরা যদি তা জানতে, তবে অল্প হাসতে আর অনেক কাঁদতে।\" হাদীসটি তাঁর সহীহ গ্রন্থে আছে, আর তিনি আবূ হুরায়রা (রাঃ) থেকেও এটি এনেছেন। হাদীসে এ আয়াতের উল্লেখ নেই। এতে মুমিনদের বলা হচ্ছে, গায়েবের জ্ঞান পেলে তাদের অবস্থা কেমন হতো। তাই এটি সাধারণ বর্ণনা, ৯:৮২ আয়াত সম্পর্কে কোনো খবর নয়। এখানে একে আনার ভিত্তি দুই জায়গার অভিন্ন শব্দগুলো।"
+          },
+          {
+            "en": "Qatada's report in at-Tabari has a sequel, also introduced only with it was mentioned to us: that the Prophet ﷺ was then called to, or told, do not make My servants despair. No chain for it appears in the text read, so it stands here as Qatada's report and no more. A second narration, weep, and if you do not weep then make yourselves weep, appears in Ibn Kathir, al-Qurtubi and al-Baghawi; the chains they show run through Yazid ar-Raqashi, and it is not quoted here because no grading for it appears in the texts read.",
+            "bn": "তাবারীতে কাতাদার বর্ণনার একটা পরের অংশও আছে, সেটাও শুধু 'আমাদের জানানো হয়েছে' বলে শুরু: তখন নবী ﷺ-কে ডেকে বলা হলো, কিংবা তাঁকে বলা হলো, আমার বান্দাদের নিরাশ করো না। পড়া লেখায় এর কোনো সনদ নেই, তাই এখানে একে কাতাদার বর্ণনা হিসেবেই রাখা হলো, এর বেশি কিছু নয়। আরেকটি বর্ণনা আছে ইবন কাসীর, কুরতুবী ও বাগাভীতে: কাঁদো, কাঁদতে না পারলে কান্নার চেষ্টা করো। তাঁদের দেখানো সনদগুলো ইয়াযীদ আর-রাকাশীর মধ্য দিয়ে গেছে। পড়া লেখাগুলোতে এর কোনো মান নির্ণয় না থাকায় এখানে তা উদ্ধৃত করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Laughter Weighed, Not Banned",
+          "bn": "হাসি মাপা হয়, নিষেধ নয়"
+        },
+        "p": [
+          {
+            "en": "None of this makes laughter itself a fault, and al-Qurtubi gives his second issue on the verse to that question. Some people, he writes, would not laugh at all, out of concern for themselves and fear for their state, even when they were righteous servants. Al-Hasan al-Basri was one whom grief had overcome, so that he did not laugh. Ibn Sirin did laugh, and argued against al-Hasan with the words of 53:43: it is He who makes laugh and makes weep.",
+            "bn": "এসব থেকে হাসি নিজেই দোষ হয়ে যায় না। কুরতুবী এ আয়াতের দ্বিতীয় মাসআলা রেখেছেন ঠিক এই প্রশ্নের জন্য। তিনি লেখেন, কেউ কেউ একেবারেই হাসতেন না। নিজের ব্যাপারে চিন্তা আর নিজের অবস্থা নিয়ে তীব্র ভয় তাঁদের হাসতে দিত না, যদিও তাঁরা ছিলেন নেককার বান্দা। হাসান বাসরী ছিলেন তাঁদের একজন, দুঃখ তাঁকে এমনভাবে ঘিরে রেখেছিল যে তিনি হাসতেন না। ইবন সীরীন হাসতেন, আর হাসানের বিপক্ষে যুক্তি দিতেন ৫৩:৪৩ আয়াত দিয়ে: তিনিই হাসান, তিনিই কাঁদান।"
+          },
+          {
+            "en": "Al-Qurtubi's own conclusion is measured. The Companions laughed, he says; what is blameworthy and forbidden is too much of it, keeping at it until it takes over a person, which he calls the conduct of fools and of idleness. He cites a report, without naming its source, that much laughter deadens the heart. Weeping out of fear of Allah, of His punishment and the severity of His penalty, he calls praiseworthy. Read this way, the verse warns those it names; it is not a ruling against a cheerful face.",
+            "bn": "কুরতুবীর নিজের সিদ্ধান্ত ভারসাম্যপূর্ণ। তিনি বলেন, সাহাবীরা হাসতেন। নিন্দনীয় ও নিষিদ্ধ হলো অতিরিক্ত হাসি, এমনভাবে লেগে থাকা যে হাসিই মানুষটার উপর চেপে বসে। একে তিনি বলেন নির্বোধ আর অকর্মাদের কাজ। উৎসের নাম না দিয়ে তিনি একটি বর্ণনা আনেন যে, বেশি হাসি অন্তরকে মেরে ফেলে। আর আল্লাহর ভয়ে, তাঁর আযাব আর কঠিন শাস্তির ভয়ে কান্নাকে তিনি বলেন প্রশংসনীয়। এভাবে পড়লে আয়াতটি যাদের কথা বলছে তাদেরই সতর্ক করে। হাসিখুশি চেহারার বিরুদ্ধে এটা কোনো ফয়সালা নয়।"
+          },
+          {
+            "en": "A general narration fills in the picture of the Prophet ﷺ himself. Al-Bukhari (6092) narrates from 'A'ishah (RA): \"I never saw the Prophet (ﷺ) laughing to an extent that one could see his palate, but he always used to smile only.\" It is in his Sahih, and no tafsir read here links it to this verse. Beside the verse, it shows that the measure is not laughing against never laughing. The laughter of 9:82 is what at-Tabari described: delight at sitting behind, and distraction from obeying their Lord.",
+            "bn": "নবী ﷺ নিজে কেমন ছিলেন, একটি সাধারণ বর্ণনা সে ছবি পূর্ণ করে। বুখারী (৬০৯২) আয়েশা (রাঃ) থেকে বর্ণনা করেন: \"আমি নবী ﷺ-কে কখনো এমনভাবে হাসতে দেখিনি যে তাঁর আলজিভ দেখা যায়। তিনি শুধু মুচকি হাসতেন।\" বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, তবে এখানে পড়া কোনো তাফসীর একে এ আয়াতের সঙ্গে যুক্ত করেনি। আয়াতের পাশে রাখলে বোঝা যায়, মাপকাঠিটা হাসা আর কখনো না হাসার মধ্যে নয়। ৯:৮২ আয়াতের হাসি সেটাই, যার বর্ণনা তাবারী দিয়েছেন: পেছনে বসে থাকতে পারার আনন্দ, আর রবের আনুগত্য ভুলে মেতে থাকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Living Name on the List",
+          "bn": "এ তালিকায় জীবিত কারও নাম নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what its passage describes: a group who stayed behind from the Tabuk expedition, whom the Muyassar calls hypocrites and the report from Ibn 'Abbas in at-Tabari calls hypocrites and disbelievers. It licenses nothing against any living person or community. No one alive may be named among those who stayed behind, and no one may say of another believer that his laughter is the laughter of 9:82. The surah itself, in 9:91, lifts the blame from the weak, the sick and those who find nothing to spend.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু সেটুকুই বর্ণনা করে, যা তার প্রসঙ্গ বর্ণনা করে: তাবুক অভিযান থেকে পিছনে থেকে যাওয়া একটি দল। মুয়াসসার তাদের বলে মুনাফিক, আর তাবারীতে ইবন আব্বাস (রাঃ)-এর বর্ণনা বলে মুনাফিক ও কাফির। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। বেঁচে থাকা কারও নাম ওই পিছনে থাকা লোকদের মধ্যে বসানো যাবে না। কোনো মুমিনের হাসি দেখে কেউ বলতে পারে না, এ তো ৯:৮২ আয়াতের হাসি। সূরাটি নিজেই ৯:৯১ আয়াতে দুর্বল, অসুস্থ আর খরচ করার মতো কিছু না পাওয়া লোকদের থেকে দোষ তুলে নিয়েছে।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question about relief. The men of 9:81 had not laughed at a joke; they were glad to have escaped a hard march, and the verse weighs that gladness against what it cost. A reader can ask the same of his own relief. When a duty is put off, a promise quietly dropped, a hard good thing avoided, is the ease that follows worth what comes after it? The verse's own sum is short: a little here, much there, and the exchange called a recompense.",
+            "bn": "পাঠকের জন্য আয়াতটি রেখে যায় স্বস্তি নিয়ে একটি প্রশ্ন। ৯:৮১ আয়াতের লোকেরা কোনো কৌতুক শুনে হাসেনি। কঠিন এক সফর এড়াতে পেরে তারা খুশি হয়েছিল, আর আয়াত সেই খুশিকে মেপেছে তার দামের সঙ্গে। নিজের স্বস্তি নিয়েও একই প্রশ্ন করা যায়। কোনো দায়িত্ব পিছিয়ে দিলে, কোনো ওয়াদা চুপচাপ ভেঙে ফেললে, কঠিন কোনো ভালো কাজ এড়িয়ে গেলে যে আরাম আসে, তার পরে যা আসবে তার তুলনায় কি সেটা পোষায়? আয়াতের নিজের হিসাব ছোট: এখানে অল্প, সেখানে অনেক, আর এই বদলের নাম প্রতিফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Weep in Time",
+          "bn": "সময় থাকতে কাঁদার প্রার্থনা"
+        },
+        "p": [
+          {
+            "en": "A short supplication in this verse's own vocabulary, offered as a personal prayer, not a narrated one: O Allah, do not make my laughter the laughter of one glad to have escaped what You asked. Give me tears out of fear of You while tears still benefit, and let my little in this world end in what is not taken away. Make me glad at what pleases You and grieved at what I have neglected, before the account is closed and the weeping can no longer change anything.",
+            "bn": "এ আয়াতের নিজের শব্দ দিয়ে ছোট একটি দোয়া। এটি কোনো বর্ণিত দোয়া নয়, নিজের পক্ষ থেকে করা প্রার্থনা: হে আল্লাহ, আমার হাসিকে এমন মানুষের হাসি বানাবেন না, যে আপনার চাওয়া কাজ এড়াতে পেরে খুশি। যখনো চোখের পানি কাজে আসে, তখনই আমাকে আপনার ভয়ে কাঁদার তাওফীক দিন। দুনিয়ায় আমার এই অল্পটুকু যেন এমন কিছুতে গিয়ে শেষ হয়, যা কেড়ে নেওয়া হয় না। হিসাব বন্ধ হওয়ার আগেই, কান্না যখনো কিছু বদলাতে পারে, আপনার পছন্দের কাজে আমাকে খুশি করুন আর আমার অবহেলায় আমাকে ব্যথিত করুন।"
+          },
+          {
+            "en": "Questions to sit with. What was I last relieved to have avoided, and had Allah asked it of me? When I laugh, at what or at whom am I laughing? Which comfort am I buying now on credit, and how long will the repayment run? When did the thought of the Hereafter last bring me to tears? And do I judge a smiling believer as careless, when 'A'ishah (RA) describes the laughter of the Prophet ﷺ as a smile?",
+            "bn": "কিছু প্রশ্ন, নিজেকে করার জন্য। শেষবার কোন জিনিস এড়াতে পেরে আমি হাঁফ ছেড়েছি, আর আল্লাহ কি সেটা আমার কাছে চেয়েছিলেন? আমি যখন হাসি, কী নিয়ে বা কাকে নিয়ে হাসি? কোন আরামটা আমি এখন বাকিতে কিনছি, আর তার দেনা শোধ চলবে কত দিন? শেষ কবে আখিরাতের কথা ভেবে আমার চোখে পানি এসেছিল? আর হাসিমুখ কোনো মুমিনকে দেখে কি আমি তাকে উদাসীন ভেবে বসি? অথচ আয়েশা (রাঃ) নবী ﷺ-এর হাসির বর্ণনা দিয়েছেন মুচকি হাসি বলে।"
           }
         ]
       }

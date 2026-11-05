@@ -21091,6 +21091,46 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Even a public declaration of severance kept repentance on offer as better for its hearers; no fault of mine has shut a way back that Allah leaves open.",
     "lessonBn": "সম্পর্ক ছিন্ন করার প্রকাশ্য ঘোষণাতেও তওবাকে শ্রোতাদের জন্য কল্যাণ বলে খোলা রাখা হয়েছে; আল্লাহ যে পথ খোলা রাখেন, আমার কোনো গুনাহ তা বন্ধ করে দেয়নি।"
+  },
+  "9:82": {
+    "reflectionEn": "They stayed at home while the army marched into the summer heat, and they were pleased with themselves. The verse answers that pleasure in a few words: let them laugh a little and weep much. It sounds like permission, yet it is a warning about how the account will close. The little laughter belongs to the span of this world, the much weeping to what comes after, and the exchange is called a recompense for what they earned. Laughter itself is not on trial here. What is on trial is the joy of having got out of what Allah asked, the relief of a duty dodged. So I look at my own relief. What was I last glad to escape, and would that gladness survive being weighed against the much?",
+    "reflectionBn": "সেনাদল গ্রীষ্মের তাপের মধ্যে রওনা হয়ে গেল, আর তারা ঘরে বসে রইল নিজেদের নিয়ে খুশি হয়ে। সেই খুশির জবাব আয়াত দেয় অল্প কয়েকটি শব্দে: তারা একটু হেসে নিক, আর কাঁদুক অনেক। শুনতে অনুমতির মতো, আসলে এ এক সতর্কবার্তা, হিসাবটা শেষে কোথায় গিয়ে দাঁড়াবে তার খবর। অল্প হাসি এই দুনিয়ার মেয়াদটুকুর জন্য, অনেক কান্না তার পরের জন্য। আর এই বদলকে আয়াত বলছে তাদের কামাইয়ের প্রতিফল। হাসি নিজে এখানে কাঠগড়ায় নেই। কাঠগড়ায় আছে আল্লাহর ডাক এড়িয়ে যেতে পারার আনন্দ, দায়িত্ব ফাঁকি দিয়ে পাওয়া স্বস্তি। তাই নিজের স্বস্তির দিকে তাকাই। শেষবার কোন জিনিস এড়াতে পেরে আমি খুশি হয়েছিলাম? সেই খুশিকে ওই অনেকের পাশে রেখে মাপলে তা কি টিকবে?",
+    "pointsEn": [
+      "What was the last thing I felt relieved to have avoided, and was it something Allah had asked of me?",
+      "When I laugh, at what or at whom am I laughing, and would I be at ease if that laughter were shown to me on the Day of Reckoning?",
+      "Which comfort am I buying now at a price I will pay later, and have I ever done that sum honestly?",
+      "Does any thought of the Hereafter still move me to tears, or has it become only information I can repeat?",
+      "Do I mistake a cheerful face for weak faith, forgetting that a smile and the fear of Allah can live in the same heart?"
+    ],
+    "pointsBn": [
+      "শেষ কোন কাজটা এড়াতে পেরে আমি হাঁফ ছেড়ে বেঁচেছি? সেটা কি এমন কিছু ছিল, যা আল্লাহ আমার কাছে চেয়েছিলেন?",
+      "আমি যখন হাসি, কী নিয়ে বা কাকে নিয়ে হাসি? হিসাবের দিনে সেই হাসি আমাকে দেখানো হলে আমি কি স্বস্তি পাব?",
+      "কোন আরামটা আমি এখন কিনছি এমন দামে, যা পরে শোধ করতে হবে? সেই হিসাব কি কখনো সৎভাবে কষে দেখেছি?",
+      "আখিরাতের কথা ভাবলে এখনো কি আমার চোখে পানি আসে, নাকি সেটা শুধু মুখস্থ বলার মতো তথ্য হয়ে গেছে?",
+      "হাসিখুশি চেহারা দেখলেই কি আমি দুর্বল ঈমান ধরে নিই? অথচ মুচকি হাসি আর আল্লাহর ভয় একই অন্তরে থাকতে পারে।"
+    ],
+    "lessonEn": "Laughter is not the fault; the fault is rejoicing at a duty escaped. Weigh every such relief against how long its price will last.",
+    "lessonBn": "দোষ হাসিতে নয়, দোষ দায়িত্ব এড়িয়ে খুশি হওয়ায়। এমন প্রতিটি স্বস্তিকে মেপে দেখুন, তার দাম কত দিন ধরে শোধ করতে হবে।"
+  },
+  "9:68": {
+    "reflectionEn": "The verse before this one draws a portrait: hypocrite men and women of one kind, ordering wrong, forbidding right, closing their hands, forgetting Allah. This verse gives the verdict, with the very verb that later promises the believers their gardens. Here what is promised is the Fire, for ever, called enough for them, with a curse and a punishment that stays. It is easy to read this about other people; safer to read it about yourself. The traits it answers begin small: a word not kept, a hand held shut, a remembrance let go without anyone deciding to. So the question is not who the hypocrites are. It is whether any of their traits lives in me, and whether I will leave it while leaving is still possible.",
+    "reflectionBn": "আগের আয়াত একটা ছবি এঁকে দিয়েছে। মুনাফিক পুরুষ আর মুনাফিক নারী, সবাই এক ছাঁচের। তারা অন্যায়ের হুকুম দেয়, ভালো কাজে বাধা দেয়, হাত গুটিয়ে রাখে, আল্লাহকে ভুলে যায়। এ আয়াতে আসে রায়। যে ক্রিয়া দিয়ে পরে মু’মিনদের জান্নাতের ওয়াদা করা হয়েছে, এখানে সেই একই ক্রিয়া, কিন্তু ওয়াদাটা আগুনের। চিরকালের আগুন, যা তাদের জন্য যথেষ্ট, সঙ্গে লা‘নত আর এমন আযাব যা সরে না। এমন আয়াত অন্যদের গায়ে লাগিয়ে পড়া সহজ। নিজের দিকে ফিরিয়ে পড়াই নিরাপদ। যে স্বভাবগুলোর জবাব এ আয়াত দিচ্ছে, সেগুলো শুরু হয় ছোট থেকে। একটা কথা রাখা হলো না, একটা হাত বন্ধ রইল, আল্লাহর জিকির কেউ ছাড়বে বলে ঠিক না করেও ছুটে গেল। তাই প্রশ্নটা এ নয় যে মুনাফিক কারা। প্রশ্ন হলো, ওদের কোনো স্বভাব আমার মধ্যে বাসা বেঁধেছে কি না, আর ছাড়ার সুযোগ থাকতে থাকতে আমি তা ছাড়ব কি না।",
+    "pointsEn": [
+      "When I read a verse about hypocrites, whose face comes to mind first, and why is it so rarely mine?",
+      "Is there a promise I made recently that I already know I will not keep, and have I said so to the person?",
+      "Which remembrance of Allah have I let slip away quietly, without ever deciding to drop it?",
+      "When a good cause asks for my hand, do I open it, or close it and supply a reason?",
+      "If one trait of hypocrisy were in me now, what would leaving it actually require of me tomorrow?"
+    ],
+    "pointsBn": [
+      "মুনাফিকদের নিয়ে কোনো আয়াত পড়লে প্রথমে কার চেহারা মনে ভাসে? সেটা আমার নিজের চেহারা হয় না কেন?",
+      "সম্প্রতি এমন কোনো কথা কি দিয়েছি, যা রাখব না বলে মনে মনে জানি? যাকে কথা দিয়েছি, তাকে কি সেটা জানিয়েছি?",
+      "আল্লাহর কোন জিকিরটা আমি চুপচাপ হারিয়ে ফেলেছি, ছাড়ব বলে কখনো ঠিক না করেই?",
+      "কোনো ভালো কাজে হাত বাড়ানোর ডাক এলে আমি কি হাত খুলে দিই, নাকি গুটিয়ে নিয়ে একটা অজুহাত দাঁড় করাই?",
+      "মুনাফিকির একটা স্বভাবও যদি এখন আমার মধ্যে থাকে, কাল থেকে তা ছাড়তে হলে আমাকে আসলে কী করতে হবে?"
+    ],
+    "lessonEn": "Read the hypocrites' verdict as a warning to yourself, not a label for others: search your own speech, promises and remembrance, and leave what you find there.",
+    "lessonBn": "মুনাফিকদের পরিণতির আয়াতকে অন্যের গায়ে সাঁটার তকমা না বানিয়ে নিজের জন্য সতর্কবার্তা হিসেবে পড়ুন। নিজের কথা, ওয়াদা আর জিকির খুঁজে দেখুন, আর যা পান তা ছেড়ে দিন।"
   }
 };
 
