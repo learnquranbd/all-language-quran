@@ -1811,6 +1811,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Voice After the Silence",
+          "bn": "নীরবতা ভাঙা এক কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "The court has just given up. In 12:44 the king's chiefs called his dream a jumble and said they had no learning in reading dreams. Then, in 12:45, someone else speaks: wa-qala alladhi naja minhuma, and the one of the two who had been saved said. The two are the young men who shared Yusuf's (AS) cell in 12:36. One had been told he would pour wine for his master again, the other that he would be crucified. The one who lived is now in the room.",
+            "bn": "দরবার এইমাত্র হাল ছেড়ে দিয়েছে। ১২:৪৪ আয়াতে রাজার সভাসদেরা স্বপ্নটাকে এলোমেলো খোয়াব বলে উড়িয়ে দিয়েছে, আর জানিয়েছে, স্বপ্নের ব্যাখ্যা তাদের জানা নেই। এরপর ১২:৪৫ আয়াতে কথা বলে অন্য একজন: ওয়া কালাল্লাযী নাজা মিনহুমা, দুজনের মধ্যে যে বেঁচে গিয়েছিল সে বলল। এই দুজন সেই দুই যুবক, ১২:৩৬ আয়াতে যারা ইউসুফ (আঃ)-এর সঙ্গে একই কারাগারে ছিল। একজনকে বলা হয়েছিল, সে আবার মনিবকে মদ পরিবেশন করবে। অন্যজনকে বলা হয়েছিল, তাকে শূলে চড়ানো হবে। যে বেঁচে গেছে, সে এখন এই দরবারেই উপস্থিত।"
+          },
+          {
+            "en": "The commentators name him with one voice. Al-Qurtubi calls him the king's cupbearer, and al-Baghawi the cupbearer who was saved from being killed. As-Sa'di identifies him as the one who had dreamt he was pressing wine, and the very one Yusuf (AS) had asked to mention him before his master. The Muyassar says he was saved from execution. So the speaker is not a stranger to the story. He is the man who carried a request out of prison and, as the next clause of this verse shows, had not delivered it.",
+            "bn": "লোকটি কে, তা নিয়ে তাফসীরকারদের মধ্যে কোনো দ্বিমত নেই। কুরতুবী তাকে বলেন রাজার পানপাত্রবাহক, আর বাগাভী বলেন সেই সাকী, যে নিহত হওয়া থেকে বেঁচে গিয়েছিল। সা'দীর বর্ণনায় সে-ই স্বপ্নে নিজেকে আঙুর নিংড়ে মদ বানাতে দেখেছিল। আর ইউসুফ (আঃ) তাকেই বলেছিলেন মনিবের কাছে তাঁর কথা তুলতে। মুয়াসসার বলে, সে মৃত্যুদণ্ড থেকে রেহাই পেয়েছিল। তাই এ কাহিনিতে বক্তা অচেনা কেউ নয়। জেল থেকে সে একটা অনুরোধ বয়ে এনেছিল, আর এ আয়াতেরই পরের অংশ দেখায়, সেই অনুরোধ সে পৌঁছে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb, Rebuilt by Sound",
+          "bn": "ধ্বনিতে গড়া এক ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-ddakara: and he remembered. Al-Qurtubi quotes an-Nahhas on how the word took its shape. Its base is idhtakara, from the root dh-k-r. The dh is close in articulation to the t, but cannot merge into it, because the dh is voiced and the t voiceless, and merging would lose the voicing. So the t was replaced by a voiced letter, d, rather than by t's emphatic partner. That gave idhdakara, and the dh was then absorbed into the soft d, leaving iddakara with a doubled d.",
+            "bn": "ওয়াদ্দাকারা: আর তার মনে পড়ল। শব্দটা কীভাবে এই চেহারা পেল, কুরতুবী সে বিষয়ে নাহহাসের ব্যাখ্যা তুলে ধরেন। মূল রূপ ইযতাকারা, ধাতু য-ক-র। 'যাল' আর 'তা'-র উচ্চারণের জায়গা কাছাকাছি, তবু একটা আরেকটার সঙ্গে মিশতে পারে না। কারণ যাল উচ্চারিত হয় কণ্ঠের কম্পনসহ, তা হয় কম্পন ছাড়া। মিশিয়ে দিলে সেই কম্পনটুকু হারিয়ে যেত। তাই তা-এর জায়গায় বসানো হলো কম্পনসহ আরেক অক্ষর, দাল। ত্বা বসানো হয়নি, কারণ ত্বা ভারী উচ্চারণের অক্ষর। এতে রূপ দাঁড়াল ইযদাকারা। এরপর নরম দালের মধ্যে যাল মিশে গেল, আর রইল দ্বিত্ব দাল নিয়ে ইদ্দাকারা।"
+          },
+          {
+            "en": "What did he remember? At-Tabari answers that he recalled what he had forgotten of Yusuf's (AS) affair, and the request Yusuf had asked him, while reading his dream, to raise with the king: mention me before your master. Al-Qurtubi says he remembered Yusuf's need. As-Sa'di widens it: he remembered Yusuf, what had passed in his reading of the two men's dreams, and what he had charged him with, and he knew that Yusuf was equal to reading this dream too. The memory, in other words, came back whole.",
+            "bn": "তার মনে পড়ল কী? তাবারী বলেন, ইউসুফ (আঃ)-এর ব্যাপারে যা সে ভুলে গিয়েছিল, তা-ই তার মনে পড়ল। মনে পড়ল সেই অনুরোধও, যা স্বপ্নের ব্যাখ্যা দেওয়ার সময় ইউসুফ (আঃ) তাকে রাজার কাছে তুলতে বলেছিলেন: তোমার মনিবের কাছে আমার কথা বলো। কুরতুবী বলেন, তার মনে পড়ল ইউসুফ (আঃ)-এর প্রয়োজনের কথা। সা'দী পরিসরটা আরও বড় করেন। তার মনে পড়ল ইউসুফ (আঃ)-কে, দুজনের স্বপ্নের ব্যাখ্যায় যা ঘটেছিল তা, আর তাকে যে দায়িত্ব দেওয়া হয়েছিল সেটাও। সে বুঝল, এই স্বপ্নের ব্যাখ্যাও ইউসুফ (আঃ) দিতে পারবেন। অর্থাৎ স্মৃতিটা ফিরে এল পুরোপুরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ba'da Ummatin: After a While",
+          "bn": "বা'দা উম্মাহ: কিছুকাল পরে"
+        },
+        "p": [
+          {
+            "en": "Ba'da ummatin: after an umma. The word usually means a people or a community, but here the commentators read it as time. At-Tabari glosses it as ba'da hin, after a while, and brings it through many chains: from Ibn Abbas (RA) by way of Abu Razin and by two further chains, from al-Hasan, Mujahid and as-Suddi, and from Abu Bakr ibn 'Ayyash. 'Ikrima, in his report, says after a long stretch of time. Ibn Jurayj adds that Ibn Abbas said: after years.",
+            "bn": "বা'দা উম্মাহ: এক উম্মাহর পরে। শব্দটার সাধারণ অর্থ জাতি বা জনগোষ্ঠী, কিন্তু এখানে তাফসীরকারেরা একে সময় অর্থে পড়েন। তাবারী এর ব্যাখ্যা দেন বা'দা হীন, কিছুকাল পরে। আর এ ব্যাখ্যা আনেন অনেকগুলো সূত্রে: ইবন আব্বাস (রাঃ) থেকে আবু রাযীনের মাধ্যমে এবং আরও দুটি সূত্রে, তারপর হাসান, মুজাহিদ ও সুদ্দী থেকে, আর আবু বকর ইবন আইয়াশ থেকে। ইকরিমার বর্ণনায় অর্থটা আরও লম্বা: যুগের এক দীর্ঘ পর্ব পেরিয়ে। ইবন জুরাইজ যোগ করেন, ইবন আব্বাস (রাঃ) বলেছেন: কয়েক বছর পরে।"
+          },
+          {
+            "en": "At-Tabari then states that this meaning rests on the reading ummatin, with the alif given damma and the mim doubled, and that this is the reading of the Qur'an's readers in the cities of Islam. The others agree on the sense. Ibn Kathir says mudda, a span of time; the Muyassar, after a period; al-Baghawi, after a while, which was seven years. As-Sa'di puts it as after a period of years. None of them pauses to doubt that the gap was long.",
+            "bn": "তাবারী এরপর পরিষ্কার করেন, এ অর্থ দাঁড়িয়ে আছে উম্মাতিন পাঠের উপর, যেখানে আলিফে পেশ আর মীমে তাশদীদ। আর মুসলিম জনপদগুলোর কারীরা এভাবেই পড়েন। বাকিরাও অর্থে একমত। ইবন কাসীর বলেন মুদ্দাহ, একটা সময়কাল। মুয়াসসার বলে, কিছুকাল পরে। বাগাভীর ভাষায়, কিছুকাল পরে, আর সেটা ছিল ৭ বছর। সা'দী বলেন, কয়েক বছরের এক সময়কাল পরে। ব্যবধানটা যে দীর্ঘ ছিল, এ নিয়ে তাঁদের কারও সংশয় নেই।"
+          },
+          {
+            "en": "How can a word for a people mean a length of time? Al-Qurtubi records two lines. He first links it to 11:8, ila ummatin ma'duda, to a counted term, and says the root sense is a whole portion of time. He then quotes Ibn Durustawayh, who holds that umma can mean time only through an omitted first term: after the time of an umma. An umma, Ibn Durustawayh says, is a large body of people, and al-Akhfash notes that it is singular in form and plural in sense. On that view, the phrase reads: after the time of a whole people.",
+            "bn": "যে শব্দের অর্থ জনগোষ্ঠী, তা সময় বোঝায় কীভাবে? কুরতুবী দুটি ব্যাখ্যা লিপিবদ্ধ করেন। প্রথমে তিনি একে মিলিয়ে দেখান ১১:৮ আয়াতের ইলা উম্মাতিম মা'দূদাহ, এক নির্দিষ্ট গোনা সময় পর্যন্ত, কথাটির সঙ্গে। তাঁর মতে শব্দের মূল ভাব সময়ের একটা গোটা অংশ। তারপর তিনি উদ্ধৃত করেন ইবন দুরুস্তাওয়াইহকে। তাঁর মত, উম্মাহ সময় বোঝাতে পারে কেবল তখনই, যখন আগের একটা শব্দ উহ্য থাকে: এক উম্মাহর সময় পরে। ইবন দুরুস্তাওয়াইহ বলেন, উম্মাহ মানে মানুষের বড় এক দল। আর আখফাশ বলেন, শব্দটা রূপে একবচন, অর্থে বহুবচন। এ ব্যাখ্যায় কথাটার মানে দাঁড়ায়: গোটা এক জনগোষ্ঠীর সময় পেরিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After Forgetting, or After Favour",
+          "bn": "ভুলে যাওয়ার পর, নাকি নিয়ামতের পর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then reports that a group of the early generations read the phrase ba'da amahin, with the alif and the mim both given fatha and the mim not doubled, meaning after forgetting. Some say, he adds, that the Arabs use amiha, ya'mahu, amahan for a man who forgets. He gives it from Ibn Abbas through Qatada and 'Ikrima, who said he read amahin and explained it as after forgetting, and from 'Ikrima, Qatada and ad-Dahhak in their own reports, and he records that Mujahid read it so.",
+            "bn": "তাবারী এরপর জানান, পূর্ববর্তীদের একটি দল কথাটা পড়তেন বা'দা আমাহিন। আলিফ ও মীম দুটোতেই যবর, মীমে তাশদীদ নেই, আর অর্থ ভুলে যাওয়ার পরে। তিনি যোগ করেন, কেউ কেউ বলেন আরবরা ভুলে যাওয়া মানুষের বেলায় বলে আমিহা, ইয়া'মাহু, আমাহান। এ পাঠ তিনি আনেন ইবন আব্বাস (রাঃ) থেকে, কাতাদা ও ইকরিমার মাধ্যমে। সেখানে বলা হয়েছে, তিনি আমাহিন পড়তেন আর এর অর্থ বলতেন ভুলে যাওয়ার পরে। ইকরিমা, কাতাদা ও দাহহাকের নিজস্ব বর্ণনাতেও তা আছে। আর তিনি লিপিবদ্ধ করেন, মুজাহিদও এভাবে পড়তেন।"
+          },
+          {
+            "en": "Notice that Ibn Abbas (RA) stands on both sides: by the chain through Abu Razin he explains ummatin as a while, and by the chain through 'Ikrima he reads amahin. At-Tabari keeps both chains and does not reconcile them. He also records a third form from Mujahid, amhin, with the mim unvowelled, and says its sense is the same as amahin. Al-Qurtubi, citing an-Nahhas, calls amahin the known reading of Ibn Abbas, 'Ikrima and ad-Dahhak, and gives amhin from Shubayl ibn 'Azra ad-Dub'i, calling the two dialect forms of one word.",
+            "bn": "লক্ষ করুন, ইবন আব্বাস (রাঃ) আছেন দুই দিকেই। আবু রাযীনের সূত্রে তিনি উম্মাতিনের অর্থ বলেন কিছুকাল, আর ইকরিমার সূত্রে তিনি পড়েন আমাহিন। তাবারী দুটি সূত্রই রেখে দেন, মেলানোর চেষ্টা করেন না। মুজাহিদ থেকে তিনি তৃতীয় একটি রূপও লিপিবদ্ধ করেন, আমহিন, যেখানে মীম সাকিন। তাঁর মতে এর অর্থ আমাহিনের মতোই। কুরতুবী নাহহাসের বরাতে বলেন, আমাহিন হলো ইবন আব্বাস (রাঃ), ইকরিমা ও দাহহাকের পরিচিত পাঠ। আর আমহিন তিনি আনেন শুবাইল ইবন আযরা আদ-দুবাঈ থেকে, এবং বলেন দুটোই একই শব্দের দুই আঞ্চলিক রূপ।"
+          },
+          {
+            "en": "Al-Qurtubi adds one more. Al-Ashhab al-'Uqayli read ba'da immatin, after a favour: after Allah had favoured him with rescue. So the clause holds three senses side by side. The man remembered after a long time, after forgetting, or after being spared. The text read in the cities, at-Tabari says, is ummatin, and the other forms are reported readings. Yet each names something true of the man: years had passed, he had forgotten, and he owed his life to a mercy.",
+            "bn": "কুরতুবী আরও একটি পাঠ যোগ করেন। আশহাব আল-উকাইলী পড়তেন বা'দা ইম্মাতিন, অর্থ নিয়ামতের পরে, অর্থাৎ আল্লাহ তাকে বাঁচিয়ে দেওয়ার নিয়ামত দেওয়ার পরে। ফলে বাক্যটিতে পাশাপাশি তিনটি অর্থ পাওয়া যায়। লোকটির মনে পড়েছিল দীর্ঘ সময় পরে, কিংবা ভুলে যাওয়ার পরে, কিংবা প্রাণে বেঁচে যাওয়ার পরে। তাবারী বলেন, মুসলিম জনপদগুলোতে পঠিত পাঠ উম্মাতিন, বাকিগুলো বর্ণিত পাঠ। তবু প্রতিটিই লোকটির জীবনের একটা সত্য তুলে ধরে: বছর পেরিয়েছে, সে ভুলে গিয়েছিল, আর তার প্রাণটাই ছিল এক রহমতের দান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Memory Had Lapsed?",
+          "bn": "কে ভুলে গিয়েছিল?"
+        },
+        "p": [
+          {
+            "en": "This verse settles part of an argument that belongs to 12:42, where Satan made him forget dhikr rabbihi, the mention to his master, or the remembrance of his Lord. Whose forgetting was that? Ibn Kathir says the correct view is that the pronoun returns to the freed man, as Mujahid, Muhammad ibn Ishaq and others said, and as-Sa'di reads it the same way. Ibn Kathir notes that at-Tabari narrated the other view, that it returns to Yusuf (AS), from Ibn Abbas, Mujahid in another report, and 'Ikrima.",
+            "bn": "১২:৪২ আয়াতের একটা আলোচনার অংশবিশেষ এ আয়াতে এসে মীমাংসার দিকে যায়। সেখানে বলা হয়েছে, শয়তান তাকে যিকরা রাব্বিহী ভুলিয়ে দিল। মানে হতে পারে মনিবের কাছে উল্লেখ করা, আবার রবের স্মরণও। ভুলটা কার ছিল? ইবন কাসীর বলেন, সঠিক মত হলো সর্বনামটি মুক্তি পাওয়া লোকটির দিকে ফেরে। মুজাহিদ, মুহাম্মাদ ইবন ইসহাক ও আরও অনেকে এ কথা বলেছেন, আর সা'দীও এভাবেই পড়েন। ইবন কাসীর এটাও জানান, তাবারী অন্য মতটি বর্ণনা করেছেন যে সর্বনাম ইউসুফ (আঃ)-এর দিকে ফেরে। সে মত এসেছে ইবন আব্বাস (রাঃ), অন্য এক বর্ণনায় মুজাহিদ এবং ইকরিমা থেকে।"
+          },
+          {
+            "en": "At-Tabari himself, on 12:42, takes that second view, and al-Baghawi says Ibn Abbas and most scholars held it: that in that moment Yusuf (AS) did not turn to his Lord for relief. Al-Qurtubi sets out both, and reports how those who held the forgetting to be the freed man's answered the others. They pointed to this very verse: wa-ddakara ba'da ummatin shows that the one who forgot was the cupbearer, not Yusuf. At-Tabari's own gloss on 12:45 speaks the same way: the freed man recalled what he had forgotten of Yusuf's affair.",
+            "bn": "তাবারী নিজে ১২:৪২ আয়াতে দ্বিতীয় মতটি গ্রহণ করেন। বাগাভী বলেন, ইবন আব্বাস (রাঃ) ও অধিকাংশ আলেম এ মতের: সেই মুহূর্তে ইউসুফ (আঃ) মুক্তির জন্য রবের দিকে ফেরেননি। কুরতুবী দুটো মতই তুলে ধরেন। যাঁরা মনে করতেন ভুলটা মুক্তি পাওয়া লোকটির, তাঁরা অন্য পক্ষকে কী জবাব দিতেন, সেটাও তিনি জানান। তাঁরা দলিল দিতেন ঠিক এই আয়াত দিয়ে। ওয়াদ্দাকারা বা'দা উম্মাহ কথাটাই দেখিয়ে দেয়, ভুলে গিয়েছিল সাকী, ইউসুফ (আঃ) নন। ১২:৪৫ আয়াতে তাবারীর নিজের ব্যাখ্যাও একই সুরে কথা বলে: মুক্তি পাওয়া লোকটির মনে পড়ল ইউসুফ (আঃ)-এর ব্যাপারে যা সে ভুলে গিয়েছিল।"
+          },
+          {
+            "en": "This article keeps the disagreement as it stands, with the names on each side, and takes no position on 12:42. It says nothing in its own voice against a prophet of Allah. A narration that ties the length of the imprisonment to Yusuf's request is reported under 12:42, but Ibn Kathir grades it very weak for two narrators in its chain and refuses its mursal forms from al-Hasan and Qatada, so it is not used. None of the commentaries consulted attaches a sound hadith to 12:45.",
+            "bn": "এ লেখা মতভেদটা যেমন আছে তেমনই রাখছে, দুই পক্ষের নামসহ, আর ১২:৪২ নিয়ে কোনো পক্ষ নিচ্ছে না। আল্লাহর একজন নবীর বিরুদ্ধে নিজের পক্ষ থেকে কোনো কথাও বলছে না। ১২:৪২ আয়াতের আলোচনায় একটি বর্ণনা আসে, যা কারাবাস দীর্ঘ হওয়াকে ইউসুফ (আঃ)-এর অনুরোধের সঙ্গে জুড়ে দেয়। কিন্তু ইবন কাসীর সনদের দুজন বর্ণনাকারীর কারণে একে খুবই দুর্বল বলেছেন। হাসান ও কাতাদা থেকে আসা এর মুরসাল রূপগুলোও তিনি গ্রহণ করেননি। তাই এখানে তা নেওয়া হয়নি। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ১২:৪৫ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgot, or Kept His Peace?",
+          "bn": "ভুলে গেল, নাকি চুপ রইল?"
+        },
+        "p": [
+          {
+            "en": "Did the cupbearer truly forget? Al-Qurtubi, on this verse, gives two answers. One says the young man forgot Yusuf (AS) by Allah's decree that Yusuf should remain in prison for a time. The other says he did not forget at all: he was afraid to remind the king of the offence for which he and the baker had been jailed. On that reading, wa-ddakara means not that he remembered but that he mentioned and told. Al-Qurtubi records both and does not choose.",
+            "bn": "সাকী কি সত্যিই ভুলে গিয়েছিল? কুরতুবী এ আয়াতে দুটি উত্তর দেন। একটি মত বলে, যুবকটি ইউসুফ (আঃ)-কে ভুলে গিয়েছিল আল্লাহর ফায়সালায়, যাতে ইউসুফ (আঃ) কিছুকাল কারাগারে থাকেন। অন্য মত বলে, সে আদৌ ভোলেনি। আসলে যে অপরাধে তাকে আর রুটিওয়ালাকে জেলে পোরা হয়েছিল, রাজাকে সেটা মনে করিয়ে দিতে তার ভয় হচ্ছিল। এ ব্যাখ্যায় ওয়াদ্দাকারা মানে তার মনে পড়ল না, বরং সে উল্লেখ করল, খবর দিল। কুরতুবী দুটোই লিপিবদ্ধ করেন, কোনোটি বেছে নেন না।"
+          },
+          {
+            "en": "As-Sa'di, on 12:42, sees a purpose above the lapse. Satan made the man forget, among other things, Yusuf (AS), who deserved to be repaid with the fullest kindness, and this was so that Allah might complete His command and decree. How long the delay lasted the sources do not agree. Ibn Kathir reports bid' as three to nine from Mujahid and Qatada, seven years from Wahb ibn Munabbih, twelve from Ibn Abbas (RA) through ad-Dahhak, and fourteen from ad-Dahhak himself. The figures given under 12:43 belong to that verse's study.",
+            "bn": "সা'দী ১২:৪২ আয়াতে এই ভুলের উপরে একটা উদ্দেশ্য দেখেন। শয়তান লোকটিকে আরও অনেক কিছুর সঙ্গে ইউসুফ (আঃ)-কেও ভুলিয়ে দিয়েছিল, অথচ ইউসুফ (আঃ) ছিলেন সবচেয়ে পূর্ণ প্রতিদানের হকদার। আর এটা ঘটেছিল যাতে আল্লাহ তাঁর হুকুম ও ফায়সালা পূর্ণ করেন। দেরিটা কতদিনের ছিল, সে বিষয়ে সূত্রগুলো একমত নয়। ইবন কাসীর জানান, মুজাহিদ ও কাতাদার মতে বিদ' মানে ৩ থেকে ৯, ওয়াহব ইবন মুনাব্বিহের মতে ৭ বছর। দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে ১২ বছর, আর দাহহাকের নিজের মতে ১৪ বছর। ১২:৪৩ আয়াতের আলোচনায় যে হিসাবগুলো এসেছে, সেগুলো সে আয়াতেরই বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fa-Arsiluni: Just Send Me",
+          "bn": "ফাআরসিলূন: শুধু আমাকে পাঠান"
+        },
+        "p": [
+          {
+            "en": "Ana unabbi'ukum bi-ta'wilihi: I will inform you of its interpretation. Al-Qurtubi reports that al-Hasan read ana atikum, I will bring you, and asked how a man like this could be the one to inform them. An-Nahhas replies that unabbi'ukum is sound and good: I will tell you, once I have asked. At-Tabari makes the same point through the last word: fa-arsiluni, release me, so that I may go and bring you its interpretation from the one who knows it.",
+            "bn": "আনা উনাব্বিউকুম বিতা'বীলিহী: আমি তোমাদের এর ব্যাখ্যা জানিয়ে দেব। কুরতুবী জানান, হাসান পড়তেন আনা আতীকুম, আমি তোমাদের কাছে নিয়ে আসব। আর তিনি প্রশ্ন তুলতেন, এমন একজন লোক কীভাবে তাদের খবর দেবে? নাহহাস জবাব দেন, উনাব্বিউকুম অর্থের দিক থেকে সঠিক ও সুন্দর: জিজ্ঞেস করে এসে আমি তোমাদের জানাব। তাবারী একই কথা বলেন শেষ শব্দটির মধ্য দিয়ে। ফাআরসিলূন মানে আমাকে ছেড়ে দিন, যাতে আমি গিয়ে যিনি এর ব্যাখ্যা জানেন তাঁর কাছ থেকে তা নিয়ে আসতে পারি।"
+          },
+          {
+            "en": "The plural is addressed to a king. Al-Qurtubi says the man spoke to the king in the plural of respect, or to the king and his council together. Al-Baghawi pictures the scene: the young man knelt before the king and said, there is a man in the prison who interprets dreams. He adds from Ibn Abbas (RA) that the prison was not in the city. Al-Baghawi spells out the ellipsis: send me to him, O king. And the king sent him, and he came to the prison.",
+            "bn": "বহুবচনের সম্বোধনটা একজন রাজাকে লক্ষ করে। কুরতুবী বলেন, লোকটি সম্মান দেখিয়ে রাজাকে বহুবচনে সম্বোধন করেছিল, অথবা রাজা ও তাঁর সভাসদ সবাইকে একসঙ্গে। বাগাভী দৃশ্যটা আঁকেন এভাবে: যুবকটি রাজার সামনে হাঁটু গেড়ে বসে বলল, কারাগারে একজন মানুষ আছেন, যিনি স্বপ্নের ব্যাখ্যা দেন। তিনি ইবন আব্বাস (রাঃ) থেকে যোগ করেন, কারাগারটি শহরের ভেতরে ছিল না। বাগাভী উহ্য কথাটাও খুলে বলেন: হে রাজা, আমাকে তাঁর কাছে পাঠান। রাজা তাকে পাঠালেন, আর সে কারাগারে এসে পৌঁছাল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an observes that the Qur'an covers this whole episode in a single word, fa-arsiluni. The introduction of Yusuf (AS), the king's permission and the arrival at the prison are left for the reader to understand from the context. Ibn Kathir's Arabic sums it up in two words: they sent him, and he came. In the English abridgement, which treats 12:43 to 12:49 together, Ibn Kathir adds that Yusuf then gave the meaning without reproaching the man for forgetting his request, and without making his release a condition.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, পুরো ঘটনাটা কুরআন সেরে দিয়েছে একটিমাত্র শব্দে, ফাআরসিলূন। ইউসুফ (আঃ)-এর পরিচয় দেওয়া, রাজার অনুমতি পাওয়া, কারাগারে গিয়ে পৌঁছানো, সবই প্রসঙ্গ থেকে বুঝে নেওয়ার জন্য রেখে দেওয়া হয়েছে। ইবন কাসীরের আরবি তাফসীর পুরোটা গুটিয়ে আনে দুটি শব্দে: তারা তাকে পাঠাল, আর সে এল। ইংরেজি সংক্ষিপ্ত সংস্করণে, যেখানে ১২:৪৩ থেকে ১২:৪৯ একসঙ্গে আলোচিত, ইবন কাসীর যোগ করেন যে ইউসুফ (আঃ) এরপর ব্যাখ্যা দিয়েছিলেন। অনুরোধ ভুলে যাওয়ার জন্য লোকটিকে তিনি তিরস্কার করেননি, আর মুক্তিকে শর্তও বানাননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembered at the Right Hour",
+          "bn": "ঠিক সময়ে মনে পড়া"
+        },
+        "p": [
+          {
+            "en": "Picture what an early reminder would have looked like. A servant speaks for a prisoner, and a king, busy with his own affairs, may or may not listen. Now picture the memory as it actually came: a whole court has failed, the king is uneasy, and the one man who knows sits in a cell. As-Sa'di and Ibn Kathir both read the dream as the means Allah decreed for Yusuf's (AS) release with honour. The lateness of the remembering is part of that design.",
+            "bn": "ভাবুন, সময়মতো মনে করিয়ে দিলে ব্যাপারটা কেমন হতো। একজন খাদেম এক বন্দির হয়ে সুপারিশ করছে, আর নিজের কাজে ব্যস্ত রাজা শুনতেও পারেন, না-ও শুনতে পারেন। এবার ভাবুন, স্মৃতিটা আসলে কখন ফিরল। গোটা দরবার ব্যর্থ, রাজা অস্থির, আর যিনি জানেন তিনি বসে আছেন কারাগারের এক কুঠুরিতে। সা'দী ও ইবন কাসীর দুজনেই স্বপ্নটিকে দেখেন সেই উপায় হিসেবে, যা আল্লাহ ঠিক করে রেখেছিলেন ইউসুফ (আঃ)-কে সম্মানের সঙ্গে মুক্ত করার জন্য। মনে পড়তে দেরি হওয়াটাও সেই পরিকল্পনারই অংশ।"
+          },
+          {
+            "en": "Two lessons sit close to the surface. The first is for anyone who owes a kindness. The man left prison owing his life's good news to a fellow prisoner, and the years slipped by. The verse does not shame him, and neither, in Ibn Kathir's account, did Yusuf (AS). The second is for anyone still waiting. Relief that seems forgotten may only be held back until the hour when it will open the widest door. A late memory, in Allah's timing, may still arrive exactly on time.",
+            "bn": "আয়াতের উপরিভাগেই দুটি শিক্ষা চোখে পড়ে। প্রথমটি তাদের জন্য, যাদের কাঁধে কারও উপকারের ঋণ আছে। লোকটি জেল থেকে বেরিয়েছিল এক সহবন্দির কাছ থেকে জীবনের সুসংবাদ নিয়ে, তারপর বছরের পর বছর গড়িয়ে গেল। আয়াতটি তাকে লজ্জা দেয় না। ইবন কাসীরের বর্ণনায় ইউসুফ (আঃ)-ও দেননি। দ্বিতীয় শিক্ষাটি তাদের জন্য, যারা এখনো অপেক্ষায় আছেন। যে মুক্তিকে মনে হয় সবাই ভুলে গেছে, তা হয়তো কেবল আটকে রাখা হয়েছে সেই সময়ের জন্য, যখন তা সবচেয়ে বড় দরজাটা খুলবে। আল্লাহর হিসাবে দেরিতে আসা স্মৃতিও ঠিক সময়মতোই পৌঁছাতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "12:50": {
     "sections": [
       {

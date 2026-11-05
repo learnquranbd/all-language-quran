@@ -21851,6 +21851,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name your love and your fear honestly, without accusing anyone, and when you are trusted with what someone loves, stay watchful over it.",
     "lessonBn": "কাউকে দোষ না দিয়ে নিজের ভালোবাসা আর ভয়ের কথা সৎভাবে বলুন, আর কেউ তার প্রিয় কিছু আপনার জিম্মায় দিলে সেদিকে সজাগ থাকুন।"
+  },
+  "12:45": {
+    "reflectionEn": "A man walks out of prison owing a kindness. He was asked for one small thing, to mention the prisoner who had read his dream, and he let it slip. Years pass. Then the king's court stands silent before a dream nobody can read, and the memory comes back all at once: there is a man in the prison who knows. He speaks up and asks to be sent. The remembering came late, yet it came at the one hour when it could do the most good. The verse leaves two questions with me. Whose kindness have I carried away and never repaid? And when relief is slow, can I trust that its timing is not an accident?",
+    "reflectionBn": "এক লোক জেল থেকে বেরিয়ে এল, ঘাড়ে একটা উপকারের ঋণ নিয়ে। তার কাছে চাওয়া হয়েছিল ছোট্ট একটা কাজ: যে বন্দি তার স্বপ্নের ব্যাখ্যা দিয়েছিলেন, তাঁর কথা মনিবের কাছে একবার তোলা। কথাটা সে ভুলে গেল। বছরের পর বছর কেটে গেল। তারপর রাজদরবার এমন এক স্বপ্নের সামনে চুপ হয়ে গেল, যার মানে কেউ বলতে পারে না। হঠাৎ তার মনে পড়ল: জেলখানায় একজন আছেন, যিনি জানেন। সে এগিয়ে এসে বলল, আমাকে পাঠান। মনে পড়তে দেরি হয়েছে ঠিকই, কিন্তু মনে পড়েছে ঠিক সেই সময়ে, যখন তাতে সবচেয়ে বেশি কাজ হবে। আয়াতটি আমার কাছে দুটি প্রশ্ন রেখে যায়। কার উপকার আমি সঙ্গে নিয়ে চলে এসেছি, অথচ কখনো শোধ করিনি? আর মুক্তি আসতে দেরি হলে আমি কি ভরসা রাখতে পারি যে তার সময়টা এলোমেলো নয়?",
+    "pointsEn": [
+      "Who helped me when I was in a hard place, and have I ever spoken up for them where it could matter?",
+      "Is there a promise I made in a moment of relief that I have quietly let slip since?",
+      "When something good finally reaches me late, do I count only the lost years, or also what the delay made possible?",
+      "If I hold knowledge that could help a person in authority, do I offer it, or wait to be asked?",
+      "When I bring someone else's wisdom to a room, do I name its source, or let the credit fall on me?"
+    ],
+    "pointsBn": [
+      "কঠিন সময়ে কে আমার পাশে দাঁড়িয়েছিল? যেখানে কথা বললে তার কাজে লাগত, সেখানে কি কখনো তার হয়ে মুখ খুলেছি?",
+      "স্বস্তির মুহূর্তে দেওয়া এমন কোনো কথা কি আছে, যা পরে চুপচাপ ভুলে গেছি?",
+      "ভালো কিছু দেরিতে এলে আমি কি শুধু হারানো বছরগুলোই গুনি, নাকি ভাবি দেরিটা কী সম্ভব করে দিল?",
+      "দায়িত্বে থাকা কারও কাজে লাগবে এমন কিছু জানা থাকলে আমি কি নিজে থেকে বলি, নাকি কেউ জিজ্ঞেস করবে সেই অপেক্ষায় থাকি?",
+      "অন্যের জ্ঞান কোনো মজলিসে পৌঁছে দেওয়ার সময় আমি কি তার উৎসের নাম বলি, নাকি কৃতিত্বটা নিজের ঘাড়ে পড়তে দিই?"
+    ],
+    "lessonEn": "Repay the kindness you owe before it slips your mind, and trust that relief which comes late may still come at exactly the right hour.",
+    "lessonBn": "যে উপকারের ঋণ আছে, ভুলে যাওয়ার আগেই তা শোধ করুন। আর ভরসা রাখুন, দেরিতে আসা মুক্তিও ঠিক সময়মতোই আসতে পারে।"
   }
 };
 
