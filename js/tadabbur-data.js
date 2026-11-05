@@ -22531,6 +22531,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A fall under trial need not be the end: turn back, move away from what broke you, keep going with patience, and trust that your Lord is Forgiving and Merciful.",
     "lessonBn": "পরীক্ষায় পড়ে নুয়ে যাওয়াই শেষ কথা নয়। ফিরে আসুন, যা আপনাকে ভেঙে দিয়েছিল তা থেকে সরে আসুন, ধৈর্য ধরে লেগে থাকুন, আর ভরসা রাখুন যে আপনার রব ক্ষমাশীল, দয়ালু।"
+  },
+  "16:124": {
+    "reflectionEn": "A day set apart for worship can be a gift, and it can become a weight. The verse says the sabbath was laid only on those who differed over it, and that the Lord will judge between them on the Day of Resurrection. It comes straight after the command to follow the way of Ibrahim, upright and devoted, as if to say this burden was never part of his way. It passes no sentence on anyone living; it keeps the verdict for Allah. The question it leaves is mine. I too was handed a day, a prayer, a book. Do I receive what I am given, or argue it into something heavier? And where I differ with others, do I leave the last word with Him?",
+    "reflectionBn": "ইবাদতের জন্য আলাদা করে রাখা একটা দিন উপহার হতে পারে, আবার বোঝাও হয়ে উঠতে পারে। আয়াত বলছে, শনিবারের বিধান চাপানো হয়েছিল শুধু তাদের উপর, যারা এ নিয়ে মতভেদ করেছিল। আর কিয়ামতের দিন তোমার রব তাদের মধ্যে ফায়সালা করবেন। আয়াতটি আসে ঠিক সেই নির্দেশের পরে, যেখানে একনিষ্ঠ ইবরাহীম (আঃ)-এর পথ অনুসরণ করতে বলা হয়েছে। যেন বলা হচ্ছে, এ বোঝা তাঁর পথের অংশ কখনো ছিল না। জীবিত কারও বিরুদ্ধে আয়াতটি কোনো রায় দেয় না, রায় রেখে দেয় আল্লাহর কাছে। প্রশ্নটা তাই আমার নিজের। আমার হাতেও তো একটা দিন, একটা নামাজ, একটা কিতাব তুলে দেওয়া হয়েছে। যা পেয়েছি তা কি সহজভাবে গ্রহণ করি, নাকি তর্ক করে করে ভারী বানিয়ে ফেলি? আর অন্যের সঙ্গে মতভেদ হলে শেষ কথাটা কি তাঁর হাতে ছেড়ে দিই?",
+    "pointsEn": [
+      "What have I been given plainly, a prayer, a fast, a day of the week, that I keep turning into a debate instead of a practice?",
+      "When a command feels heavy to me, have I asked whether my own arguing about it made it heavier?",
+      "In my last disagreement about religion, was I looking for the truth, or looking to win?",
+      "Which verdict on another person or community have I already passed, when the Qur'an keeps it for the Day of Resurrection?",
+      "Is my Friday received as a gift each week, or only kept as a habit?"
+    ],
+    "pointsBn": [
+      "সোজাসুজি কী কী আমাকে দেওয়া হয়েছে, যেমন নামাজ, রোজা, সপ্তাহের একটা দিন, যেগুলোকে আমি আমলের বদলে বারবার তর্কের বিষয় বানাই?",
+      "কোনো হুকুম ভারী লাগলে কখনো কি ভেবে দেখেছি, আমার নিজের তর্কই সেটাকে আরও ভারী করেছে কি না?",
+      "দ্বীন নিয়ে শেষ যে মতভেদে জড়িয়েছি, সেখানে কি সত্য খুঁজছিলাম, নাকি জিততে চাইছিলাম?",
+      "অন্য কোনো মানুষ বা সম্প্রদায়ের ব্যাপারে কোন রায়টা আমি আগেই দিয়ে বসে আছি, অথচ কুরআন সে রায় রেখে দিয়েছে কিয়ামতের দিনের জন্য?",
+      "আমার জুমা কি প্রতি সপ্তাহে উপহার হিসেবে আসে, নাকি শুধু অভ্যাস হিসেবে টিকে আছে?"
+    ],
+    "lessonEn": "Receive what Allah gives you without arguing it into a burden, and leave the final verdict on every dispute to Him on the Day of Resurrection.",
+    "lessonBn": "আল্লাহ যা দিয়েছেন তা তর্ক করে বোঝা না বানিয়ে গ্রহণ করুন, আর প্রতিটি বিবাদের চূড়ান্ত রায় কিয়ামতের দিন তাঁর হাতেই ছেড়ে দিন।"
   }
 };
 

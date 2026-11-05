@@ -4575,6 +4575,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:124": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After Ibrahim's Way",
+          "bn": "ইবরাহীমের পথের ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "The verse sits inside the closing passage of an-Nahl about Ibrahim (AS). In 16:120 to 16:122 he is praised, and 16:123 turns to the Prophet ﷺ: then We revealed to you, follow the religion of Ibrahim, a hanif, and he was not of those who associate others with Allah. The very next sentence is about the sabbath. Why should a rule given to the Children of Israel appear here, between that command and the charge in 16:125 to call people to the Lord's way?",
+            "bn": "সূরা নাহলের শেষ দিকে ইবরাহীম (আঃ)-কে নিয়ে যে অংশ, আয়াতটি তার ভেতরেই। ১৬:১২০ থেকে ১৬:১২২ আয়াতে তাঁর প্রশংসা, তারপর ১৬:১২৩ আয়াতে কথা ঘুরে যায় নবী ﷺ-এর দিকে: অতঃপর আমি তোমার প্রতি ওহি পাঠালাম, একনিষ্ঠ ইবরাহীমের মিল্লাত অনুসরণ করো, আর তিনি মুশরিকদের দলে ছিলেন না। ঠিক পরের বাক্যটাই সাবত বা শনিবার নিয়ে। প্রশ্ন জাগা স্বাভাবিক, বনী ইসরাঈলকে দেওয়া একটা বিধান এখানে কেন? একদিকে ইবরাহীমকে অনুসরণের নির্দেশ, অন্যদিকে ১৬:১২৫ আয়াতে রবের পথে ডাকার দায়িত্ব, মাঝখানে এ আয়াত।"
+          },
+          {
+            "en": "Al-Qurtubi answers directly. The sabbath, he writes, was not in the law of Ibrahim nor in his religion; that religion was samh, easy, with no severity in it. The sabbath was a severity laid on the Jews, in giving up work and the free pursuit of a living, because of their differing over it. He then states the link with what precedes: the Prophet ﷺ was commanded to follow the truth, and Allah warned this community against differing over it, lest it be made hard for them as it was made hard for the Jews.",
+            "bn": "কুরতুবী সরাসরি এর জবাব দেন। তাঁর কথায়, সাবত ইবরাহীমের শরিয়তেও ছিল না, তাঁর দ্বীনেও না। সে দ্বীন ছিল সহজ, তাতে কোনো কড়াকড়ি ছিল না। সাবত ছিল ইয়াহুদিদের উপর চাপানো এক কড়াকড়ি: কাজকর্ম ছেড়ে দেওয়া, জীবিকার পেছনে স্বাধীনভাবে ছোটা বন্ধ রাখা। আর তা এসেছিল এ দিন নিয়ে তাদের মতভেদের কারণে। আগের আয়াতের সঙ্গে যোগসূত্রটাও তিনি বলে দেন। নবী ﷺ-কে হকের অনুসরণের হুকুম দেওয়া হয়েছে, আর আল্লাহ এ উম্মাহকে হক নিয়ে মতভেদ করতে সতর্ক করেছেন, যাতে ইয়াহুদিদের মতো তাদের উপরও কড়াকড়ি না আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only on Those Who Differed",
+          "bn": "শুধু মতভেদকারীদের উপর"
+        },
+        "p": [
+          {
+            "en": "Innama ju'ila as-sabtu 'ala alladhina ikhtalafu fihi. At-Tabari draws out the restriction in innama with a negative and an exception: Allah did not impose, O people, the honouring of the sabbath day except on those who differed over it. As-Sa'di glosses ju'ila with one word, fardan, as an obligation. The Muyassar says what the obligation was: honouring Saturday by setting it free for worship, laid on the Jews who differed over it with their prophet and chose it in place of Friday, which they had been commanded to honour.",
+            "bn": "ইন্নামা জুইলাস সাবতু আলাল্লাযীনাখতালাফূ ফীহ। ইন্নামা শব্দে যে সীমাবদ্ধতা, তাবারী তা খুলে বলেন না-বাচক বাক্য আর ব্যতিক্রম দিয়ে: হে মানুষ, আল্লাহ শনিবারকে সম্মান করার বিধান কারও উপর ফরজ করেননি, শুধু তাদের উপর ছাড়া যারা এ নিয়ে মতভেদ করেছিল। সা'দী জুইলা শব্দের ব্যাখ্যা দেন একটিমাত্র শব্দে: ফরজ হিসেবে। মুয়াসসার বলে দেয় বিধানটা কী ছিল। ইবাদতের জন্য শনিবারকে খালি রেখে দিনটাকে সম্মান করা। তা চাপানো হয়েছিল সেই ইয়াহুদিদের উপর, যারা নিজেদের নবীর সঙ্গে এ নিয়ে মতভেদ করেছিল এবং জুমার বদলে শনিবার বেছে নিয়েছিল, অথচ তাদের হুকুম দেওয়া হয়েছিল জুমাকে সম্মান করার।"
+          },
+          {
+            "en": "Notice what is said to be made. In at-Tabari's gloss and the Muyassar's, it is not the day itself, which comes to everyone every week, but its ta'zim, its honouring, with the duties that came with it. Al-Baghawi records a second sense alongside it, under the words it is said: that the sabbath was made a curse, la'nah, on those who differed over it, which he explains as those who went against it. He gives both readings and chooses neither. On either reading, the verse's 'ala, upon, is the 'ala of something placed on a people.",
+            "bn": "খেয়াল করুন, কোন জিনিসটা চাপানো হলো। তাবারী আর মুয়াসসারের ব্যাখ্যায় দিনটা নিজে নয়, কারণ সে দিন তো প্রতি সপ্তাহে সবার জীবনেই আসে। চাপানো হয়েছিল দিনটার তাযীম, অর্থাৎ সম্মান রক্ষা, আর তার সঙ্গে আসা দায়িত্বগুলো। বাগাভী এর পাশে 'বলা হয়' কথাটি দিয়ে আরেকটা অর্থ উল্লেখ করেন: সাবতকে মতভেদকারীদের জন্য লানত বানানো হয়েছিল। মতভেদকারী বলতে তিনি বোঝান যারা এর বিরোধিতা করেছিল। দুটো ব্যাখ্যাই তিনি রাখেন, কোনোটাকে বেছে নেন না। যেটাই ধরা হোক, আয়াতের 'আলা' শব্দের অর্থ দাঁড়ায় কোনো জাতির উপর চাপিয়ে দেওয়া কিছু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Differing",
+          "bn": "মতভেদ দুই রকমের"
+        },
+        "p": [
+          {
+            "en": "What did they differ over? At-Tabari's own answer is a dispute about which day was greatest. Some of them said Saturday, because Allah finished creating things on Friday and then rested on Saturday; others said Sunday, because it was the day on which the creation of things began. So they chose, he says, and left the honouring of Friday, which Allah had imposed on them. He adds that the people of interpretation said something close to this, and al-Baghawi repeats this account almost word for word.",
+            "bn": "তারা কী নিয়ে মতভেদ করেছিল? তাবারীর নিজের জবাব: কোন দিন সবচেয়ে মর্যাদাপূর্ণ, তা নিয়ে বিবাদ। তাদের কেউ বলল শনিবার, কারণ আল্লাহ জুমার দিনে সব কিছুর সৃষ্টি শেষ করেছেন, তারপর শনিবারে বিরতি নিয়েছেন। অন্যরা বলল রবিবার, কারণ সেদিনই সৃষ্টির সূচনা হয়েছিল। এভাবে তারা নিজেরা দিন বেছে নিল, আর আল্লাহ যে জুমাকে সম্মান করা তাদের উপর ফরজ করেছিলেন, তা ছেড়ে দিল। তাবারী যোগ করেন, তাফসীরবিদেরাও এর কাছাকাছি কথাই বলেছেন। বাগাভী প্রায় হুবহু এই বিবরণটাই আনেন।"
+          },
+          {
+            "en": "The early reports he then cites fall along the same line. Mujahid, by more than one chain: they followed it and left Friday. Qatada, by way of Ma'mar: they wanted Friday and erred, and took the sabbath in its place. Ibn Zayd: they were seeking Friday and missed it, and took Saturday, so He made it binding on them. Ibn Kathir also quotes Mujahid's line. On this reading the differing is a turning away from one day to another, and the sabbath became theirs because they chose it.",
+            "bn": "এরপর তিনি পূর্বসূরিদের যেসব বর্ণনা আনেন, সেগুলোও একই ধারার। মুজাহিদ, একাধিক সনদে: তারা শনিবার মেনে নিল আর জুমা ছেড়ে দিল। মা'মারের সূত্রে কাতাদা: তারা জুমা চেয়েছিল কিন্তু ভুল করল, তার জায়গায় শনিবার ধরল। ইবন যায়দ: তারা জুমা খুঁজছিল, কিন্তু পেল না। শনিবার ধরল, ফলে আল্লাহ সেটাই তাদের উপর বাধ্যতামূলক করে দিলেন। ইবন কাসীরও মুজাহিদের কথাটা উদ্ধৃত করেন। এ ব্যাখ্যায় মতভেদ মানে এক দিন ছেড়ে আরেক দিনের দিকে সরে যাওয়া। শনিবার তাদের হলো, কারণ তারাই সেটা বেছে নিয়েছিল।"
+          },
+          {
+            "en": "A second line runs beside it. Qatada again, this time by way of Sa'id: some of them made it lawful and some held it forbidden. Al-Baghawi quotes Qatada in the same sense and names the group: those who differed over it are the Jews. At-Tabari also reports from Abu Malik and Sa'id ibn Jubayr: by their making the sabbath lawful. Here the differing is inside the sabbath, between those who kept it and those who broke it, and at-Tabari reads the verse's closing clause in exactly those terms.",
+            "bn": "পাশাপাশি আরেকটা ধারাও আছে। এবারও কাতাদা, তবে সাঈদের সূত্রে: তাদের কেউ শনিবারকে হালাল করে নিল, কেউ হারাম মানল। বাগাভীও কাতাদার একই কথা আনেন, আর দলটার নাম বলেন: যারা মতভেদ করেছিল তারা ইয়াহুদি। তাবারী আবূ মালিক ও সাঈদ ইবন জুবায়র থেকেও বর্ণনা করেন: শনিবারকে হালাল করে নেওয়ার কারণে। এখানে মতভেদটা সাবতের ভেতরেই, যারা তা মানত আর যারা ভাঙত তাদের মধ্যে। আয়াতের শেষ অংশটাও তাবারী ঠিক এ অর্থেই পড়েন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named for Them, or Left Open",
+          "bn": "নির্দিষ্ট করা, নাকি খোলা রাখা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with a general rule: Allah prescribed for every religious community a day of the week for gathering in worship, and for this community Friday, the sixth day, on which He completed creation. Then, under the words it is said, he reports that Allah prescribed that day for the Children of Israel through Musa (AS), and they turned from it and chose Saturday. So He made it binding on them in the law of the Torah and took their covenant on it, together with the command to follow Muhammad ﷺ when he was sent.",
+            "bn": "ইবন কাসীর শুরু করেন একটা সাধারণ নিয়ম দিয়ে। আল্লাহ প্রত্যেক মিল্লাতের জন্য সপ্তাহের একটা দিন ঠিক করে দিয়েছেন, যেদিন মানুষ ইবাদতের জন্য একত্র হয়। এ উম্মাহর জন্য সেটা জুমা, ষষ্ঠ দিন, যেদিন তিনি সৃষ্টি পূর্ণ করেছেন। তারপর 'বলা হয়' কথাটি দিয়ে তিনি জানান, আল্লাহ মূসা (আঃ)-এর মুখে বনী ইসরাঈলের জন্যও এই দিনটাই নির্ধারণ করেছিলেন। তারা তা থেকে সরে গিয়ে শনিবার বেছে নিল। ফলে তাওরাতের শরিয়তে তিনি সেটাই তাদের উপর বাধ্যতামূলক করলেন এবং এর উপর তাদের অঙ্গীকার নিলেন। সঙ্গে ছিল হুকুম, মুহাম্মাদ ﷺ প্রেরিত হলে তাঁকে অনুসরণ করতে হবে।"
+          },
+          {
+            "en": "Al-Qurtubi says plainly that the scholars differed over how their differing came about. One group: Musa (AS) named Friday for them and told them of its merit over other days, and they argued with him that Saturday was better, so Allah told him to leave them with what they had chosen for themselves. Others said the day was not named for them. They were commanded to honour a day in the week, and their ijtihad differed: the Jews fixed on Saturday and the Christians on Sunday, and each was held to what its reasoning reached.",
+            "bn": "কুরতুবী সোজাসুজি বলেন, তাদের মতভেদটা কীভাবে ঘটেছিল, তা নিয়ে আলেমদেরই মতভেদ আছে। এক দলের মতে, মূসা (আঃ) তাদের জন্য জুমার দিনটা নির্দিষ্ট করে দিয়েছিলেন, অন্য দিনের উপর এর মর্যাদার কথাও জানিয়েছিলেন। তারা তাঁর সঙ্গে তর্ক করল যে শনিবারই উত্তম। তখন আল্লাহ তাঁকে বললেন, তারা নিজেদের জন্য যা বেছে নিয়েছে, তাদের তা নিয়েই থাকতে দাও। অন্যরা বলেন, দিনটা তাদের জন্য নির্দিষ্ট করা হয়নি। সপ্তাহের কোনো একটা দিনকে সম্মান করার হুকুম এসেছিল, আর তাদের ইজতিহাদ ভিন্ন হলো। ইয়াহুদিরা শনিবার ধরল, খ্রিস্টানরা রবিবার। যার ইজতিহাদ যেখানে পৌঁছাল, তাকে তা-ই মেনে চলতে বাধ্য করা হলো।"
+          },
+          {
+            "en": "Al-Baghawi gives a fuller form of the first view from al-Kalbi. Musa (AS) told them: devote yourselves to Allah one day in seven, worship Him on Friday and do no work at your crafts on it. They refused, wanting only the day on which Allah finished creation, Saturday, so that day was laid on them and made hard. When 'Isa (AS) later brought Friday, they said: we do not want their feast to come after ours, meaning the Jews', and took Sunday. These are the commentators' reports, not the Torah's text, and the disagreement stays a disagreement here.",
+            "bn": "প্রথম মতটার একটা বিস্তারিত রূপ বাগাভী আনেন কালবী থেকে। মূসা (আঃ) তাদের বলেছিলেন, প্রতি সাতটি দিনের একটা দিন আল্লাহর জন্য খালি রাখো। জুমার দিন তাঁর ইবাদত করো, সেদিন নিজেদের পেশার কাজ করো না। তারা রাজি হলো না। তারা চাইল শুধু সেই দিন, যেদিন আল্লাহ সৃষ্টি শেষ করেছেন, অর্থাৎ শনিবার। ফলে সেই দিনটাই তাদের উপর চাপানো হলো, কড়াকড়িসহ। পরে ঈসা (আঃ) জুমার দিন নিয়ে এলে তারা বলল, ওদের উৎসব আমাদের উৎসবের পরে আসুক, তা আমরা চাই না। ওদের বলতে ইয়াহুদিদের। তাই তারা রবিবার নিল। এগুলো তাফসীরকারদের বর্ণনা, তাওরাতের পাঠ নয়। মতভেদটাও এখানে মতভেদ হিসেবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Two Wordings Weigh",
+          "bn": "দুই বর্ণনার শব্দের ওজন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites a hadith of Abu Hurayrah (RA) which he says is established in the two Sahihs, marking the wording as al-Bukhari's. In Sahih al-Bukhari 876, Abu Hurayrah (RA) heard the Messenger of Allah ﷺ say: We are the last and the foremost on the Day of Resurrection, except that they were given the Book before us. Then this is their day which was prescribed for them, and they differed over it, and Allah guided us. So the people follow us in it: the Jews tomorrow, and the Christians the day after tomorrow.",
+            "bn": "ইবন কাসীর এ আলোচনার সমর্থনে আবূ হুরায়রা (রাঃ)-এর একটি হাদীস আনেন। তাঁর কথায় হাদীসটি দুই সহীহ গ্রন্থে প্রমাণিত, আর শব্দগুলো তিনি বুখারীর বলে চিহ্নিত করেন। সহীহ বুখারী ৮৭৬-এ আবূ হুরায়রা (রাঃ) রাসূলুল্লাহ ﷺ-কে বলতে শুনেছেন: আমরা সবার শেষে, অথচ কিয়ামতের দিন সবার আগে। শুধু এটুকু যে, তাদের কিতাব দেওয়া হয়েছিল আমাদের আগে। তারপর এই হলো তাদের সেই দিন, যা তাদের উপর ফরজ করা হয়েছিল, কিন্তু তারা এ নিয়ে মতভেদ করল। আর আল্লাহ আমাদের পথ দেখালেন। তাই মানুষ এ ব্যাপারে আমাদের পেছনে: ইয়াহুদিরা আগামীকাল, খ্রিস্টানরা তার পরের দিন।"
+          },
+          {
+            "en": "He then gives a second hadith, from Abu Hurayrah and Hudhayfah (RA), which he says Muslim recorded. In Sahih Muslim 856 the Messenger of Allah ﷺ said: Allah let those before us stray from Friday, so the Jews had Saturday and the Christians had Sunday. Then Allah brought us and guided us to Friday. So He made Friday, Saturday and Sunday, and in the same way they will follow us on the Day of Resurrection. We are the last of the people of this world and the first on the Day of Resurrection, judged before all creation.",
+            "bn": "তারপর তিনি আবূ হুরায়রা ও হুযায়ফা (রাঃ) থেকে দ্বিতীয় একটি হাদীস আনেন, যা তাঁর কথায় মুসলিম বর্ণনা করেছেন। সহীহ মুসলিম ৮৫৬-এ রাসূলুল্লাহ ﷺ বলেছেন: আমাদের আগে যারা ছিল, আল্লাহ তাদের জুমা থেকে সরিয়ে রাখলেন। ফলে ইয়াহুদিদের হলো শনিবার, খ্রিস্টানদের রবিবার। তারপর আল্লাহ আমাদের আনলেন এবং আমাদের জুমার দিকে পথ দেখালেন। এভাবে তিনি জুমা, শনিবার ও রবিবার সাজালেন। কিয়ামতের দিনও তারা এভাবেই আমাদের পেছনে থাকবে। দুনিয়ার মানুষের মধ্যে আমরা সবার শেষে, আর কিয়ামতের দিন সবার আগে। সমস্ত সৃষ্টির আগে আমাদের ফায়সালা হবে।"
+          },
+          {
+            "en": "Al-Qurtubi reads these wordings as evidence in that disagreement. In one version the Prophet ﷺ says this is their day over which they differed, and this, he argues, strengthens the view that the day was not named for them: had it been named and they defied it, the words would be they opposed and defied, not they differed. Allah let those before us stray from Friday strengthens it too. But some routes read the day which Allah made obligatory on them, and that, he says, is proof for the first view. Al-Bukhari's wording above has that phrase.",
+            "bn": "এই শব্দগুলোকে কুরতুবী সেই মতভেদে দলিল হিসেবে পড়েন। এক বর্ণনায় নবী ﷺ বলছেন: এই হলো তাদের সেই দিন, যা নিয়ে তারা মতভেদ করেছিল। তাঁর যুক্তি, এ কথা সেই মতকে জোরালো করে যে দিনটা তাদের জন্য নির্দিষ্ট করা হয়নি। নির্দিষ্ট করার পর তারা জেদ ধরলে বলা হতো, তারা বিরোধিতা করল, জেদ ধরল। 'মতভেদ করল' বলা হতো না। 'আল্লাহ তাদের জুমা থেকে সরিয়ে রাখলেন' কথাটাও একই মতকে জোরালো করে। তবে কিছু সূত্রে আছে, 'যে দিন আল্লাহ তাদের উপর ফরজ করেছিলেন'। কুরতুবীর কথায়, সেটা প্রথম মতের পক্ষে দলিল। উপরে বুখারীর শব্দেও এই কথাটা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why It Weighed on Them",
+          "bn": "কেন তা ভারী হয়ে উঠল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di puts the cause in a single sentence: when they strayed from Friday, and they are the Jews, their differing became the reason why respecting and honouring Saturday was made binding on them; otherwise the true merit belongs to Friday, to which Allah guided this community. On his reading the observance came not as a prize for being right but as the consequence of a difference. Al-Qurtubi's word for it is taghliz, severity, and al-Kalbi's account says the day was made hard on them.",
+            "bn": "সা'দী কারণটা বলেন একটা বাক্যেই। জুমা থেকে যখন তারা সরে গেল, আর তারা হলো ইয়াহুদি, তখন তাদের মতভেদই হয়ে দাঁড়াল সেই কারণ, যার জন্য শনিবারকে মান্য করা ও সম্মান করা তাদের উপর বাধ্যতামূলক হলো। নইলে আসল মর্যাদা জুমার, যে দিনের দিকে আল্লাহ এ উম্মাহকে পথ দেখিয়েছেন। তাঁর ব্যাখ্যায় এ বিধান সঠিক হওয়ার পুরস্কার হিসেবে আসেনি, এসেছে মতভেদের পরিণতি হিসেবে। কুরতুবী একে বলেন তাগলীয, কড়াকড়ি। কালবীর বর্ণনাতেও আছে, দিনটা তাদের জন্য কঠিন করে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "The surah has prepared the ground. In 16:118 Allah says: to those who were Jews We forbade what We related to you before, and We did not wrong them, but they were wronging themselves. Our verse names one more rule particular to them, and the commentators find its cause in their own differing. The seaside town that broke the sabbath is told of in 7:163 to 7:166 and in 2:65, which carry their own reflections; this verse speaks of the observance itself and the difference behind it.",
+            "bn": "সূরাটি আগেই এর জমি তৈরি করে রেখেছে। ১৬:১১৮ আয়াতে আল্লাহ বলেন: যারা ইয়াহুদি হয়েছিল, তাদের উপর আমি হারাম করেছিলাম যা আগে তোমার কাছে বর্ণনা করেছি। আমি তাদের উপর জুলুম করিনি, বরং তারা নিজেরাই নিজেদের উপর জুলুম করত। আমাদের আয়াত তাদের জন্য নির্দিষ্ট আরও একটি বিধানের কথা বলে, আর তাফসীরকারেরা এর কারণ খুঁজে পান তাদের নিজেদের মতভেদে। সাবত ভাঙা সাগরতীরের জনপদের কথা আছে ৭:১৬৩ থেকে ৭:১৬৬ আয়াতে এবং ২:৬৫ আয়াতে, সেগুলোর আলোচনা আলাদা। এ আয়াতের বিষয় বিধানটা নিজে আর তার পেছনের মতভেদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Difference Has Its Day",
+          "bn": "প্রতিটি মতভেদের নির্ধারিত দিন"
+        },
+        "p": [
+          {
+            "en": "Wa inna rabbaka la-yahkumu baynahum yawma al-qiyamati fima kanu fihi yakhtalifun. At-Tabari reads it as addressed to the Prophet ﷺ: your Lord will judge between these who differed over making the sabbath lawful and forbidding it, when they come to Him on the Day of Resurrection, and in everything else they differed over in this world, with truth, rewarding whoever was right and giving whoever was wrong his due. As-Sa'di: He will make clear who was in the right and who was in falsehood.",
+            "bn": "ওয়া ইন্না রাব্বাকা লা ইয়াহকুমু বাইনাহুম ইয়াওমাল কিয়ামাতি ফীমা কানূ ফীহি ইয়াখতালিফূন। তাবারী একে পড়েন নবী ﷺ-এর প্রতি সম্বোধন হিসেবে। শনিবারকে হালাল করা আর হারাম মানা নিয়ে যারা মতভেদ করেছিল, কিয়ামতের দিন তাঁর কাছে ফিরলে তোমার রব তাদের মধ্যে ফায়সালা করবেন। দুনিয়ায় তারা আর যা নিয়ে মতভেদ করত, তারও ফায়সালা করবেন হক দিয়ে। যে সঠিক ছিল তাকে দেবেন তার প্রতিদান, যে ভুল করেছিল তাকে দেবেন তার প্রাপ্য। সা'দীর কথায়, তিনি স্পষ্ট করে দেবেন কে হকের উপর ছিল আর কে বাতিলের উপর।"
+          },
+          {
+            "en": "This must be said plainly. The verse describes an observance laid on a people of the past and a difference among them, and it hands the verdict to Allah on the Day of Resurrection. It licenses nothing against any living person or community, Jews today included. No reader may take it, or the hadith of the days of the week, as leave to mock, suspect or harm anyone; the hadith speaks of a day this community was guided to, not of a charge it may bring. The verse names the Judge and the Day, and the sentence is not ours.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের এক জাতির উপর চাপানো একটি বিধান আর তাদের ভেতরের একটি মতভেদের বর্ণনা দেয়, আর সে রায় ছেড়ে দেয় কিয়ামতের দিন আল্লাহর হাতে। বর্তমানের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে, আজকের ইয়াহুদিরাও যার অন্তর্ভুক্ত, এ আয়াত কোনো কিছুর অনুমতি দেয় না। এ আয়াত বা সপ্তাহের দিন নিয়ে ওই হাদীসকে কেউ কাউকে বিদ্রূপ, সন্দেহ বা ক্ষতি করার ছাড়পত্র বানাতে পারে না। হাদীসটি বলে এ উম্মাহ কোন দিনের দিকে পথ পেয়েছে, অন্যের বিরুদ্ধে কোনো অভিযোগের কথা বলে না। আয়াত বিচারকের নাম বলেছে, দিনটাও বলেছে। রায় দেওয়া আমাদের কাজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day Placed in Our Hands",
+          "bn": "যে দিন আমাদের হাতে এল"
+        },
+        "p": [
+          {
+            "en": "So the verse turns back on its reader. Al-Qurtubi, on the second view, says Allah assigned Friday to this community without leaving it to their own reasoning, as a favour from Him and a blessing. As-Sa'di says Allah guided this community to it. Either way, what came to us came as a gift, not as the prize of an argument we won. And the link al-Qurtubi draws with the verse before is a warning addressed to us, not to anyone else: do not differ over the truth you were given, lest it be made hard for you.",
+            "bn": "তাই আয়াতটি শেষে পাঠকের দিকেই ফিরে আসে। দ্বিতীয় মত প্রসঙ্গে কুরতুবী বলেন, আল্লাহ এ উম্মাহর জন্য জুমা নির্দিষ্ট করে দিয়েছেন তাদের ইজতিহাদের উপর ছেড়ে না দিয়ে, নিজের অনুগ্রহ ও নিয়ামত হিসেবে। সা'দী বলেন, আল্লাহ এ উম্মাহকে এর দিকে পথ দেখিয়েছেন। যেভাবেই দেখা হোক, আমাদের কাছে যা এসেছে তা এসেছে উপহার হিসেবে, তর্কে জিতে পাওয়া পুরস্কার হিসেবে নয়। আর আগের আয়াতের সঙ্গে কুরতুবী যে যোগসূত্র টানেন, তা আমাদেরই প্রতি সতর্কবাণী, অন্য কারও প্রতি নয়: যে হক তোমাদের দেওয়া হয়েছে তা নিয়ে মতভেদ করো না, পাছে তোমাদের উপরও কড়াকড়ি নেমে আসে।"
+          },
+          {
+            "en": "That is the mirror the verse holds up. Most of us were handed our day, our prayer and our book without having to argue them out; the question is what we have done with them since. Some of our arguing is a real question that needs study; some is a gift turned into a debate so that it need not be kept. At-Tabari takes the closing clause to cover everything people differed over in this world, ours included. Our part is to hold to what we were plainly given, differ only in search of the truth, and leave the last word with the Judge.",
+            "bn": "আয়াতটি এই আয়নাটাই সামনে ধরে। আমাদের বেশির ভাগই নিজের দিন, নিজের নামাজ, নিজের কিতাব পেয়ে গেছি তর্ক করে আদায় না করেই। প্রশ্ন হলো, পাওয়ার পর সেগুলো নিয়ে আমরা কী করেছি। যা নিয়ে আমরা তর্ক করি, তার কিছু সত্যিকারের প্রশ্ন, যার জন্য পড়াশোনা লাগে। আর কিছু হলো উপহারকে বিতর্ক বানিয়ে ফেলা, যাতে তা পালন করতে না হয়। তাবারীর ব্যাখ্যায় আয়াতের শেষ অংশ দুনিয়ার আর সব মতভেদকেও ধরে, তাই আমাদের মতভেদও এর বাইরে নয়। আমাদের কাজ হলো, যা সোজাসুজি পেয়েছি তা আঁকড়ে ধরা, মতভেদ করলে শুধু সত্য খোঁজার জন্য করা, আর শেষ কথাটা বিচারকের হাতে ছেড়ে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "16:125": {
     "sections": [
       {
