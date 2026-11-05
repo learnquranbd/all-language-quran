@@ -21811,6 +21811,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Other people's plans may move you, but Allah's affair prevails over them all. Honour those placed in your care, and learn wherever you are set down.",
     "lessonBn": "অন্যদের পরিকল্পনা আপনাকে এদিক-ওদিক নিতে পারে, কিন্তু আল্লাহর ফয়সালা সবার উপর জয়ী। যাকে আপনার দায়িত্বে দেওয়া হয় তাকে সম্মান করুন, আর যেখানে রাখা হয় সেখানেই শিখুন।"
+  },
+  "12:32": {
+    "reflectionEn": "The guests have seen him, and in their amazement they have cut their own hands. Now the woman of the house speaks, and her words are strange. This is the one you blamed me for. Yes, I sought to seduce him, and he held himself firm. The person with every reason to stay silent becomes the plainest witness to his innocence. Then, before them all, she threatens him: if he will not do what I order, he will be imprisoned and brought low. A refusal that cost him nothing before now has a price, and a room full of voices behind it. The next verse gives his answer. This one leaves me asking what my own refusal would survive.",
+    "reflectionBn": "অতিথিরা তাঁকে দেখেছে, আর বিস্ময়ে নিজেদের হাত কেটে ফেলেছে। এবার মুখ খোলে ঘরের কর্ত্রী, আর তার কথাগুলো অদ্ভুত। এই সে, যার জন্য তোমরা আমাকে দোষ দিয়েছিলে। হ্যাঁ, আমিই তাকে ফুসলাতে চেয়েছিলাম, আর সে নিজেকে শক্ত করে ধরে রেখেছে। চুপ থাকার সবচেয়ে বড় কারণ যার ছিল, তার মুখেই এল তাঁর নির্দোষ হওয়ার সবচেয়ে স্পষ্ট সাক্ষ্য। তারপর সবার সামনে সে হুমকি দেয়: আমি যা বলি তা না করলে তাকে জেলে যেতেই হবে, আর সে হবে লাঞ্ছিতদের একজন। যে 'না' বলতে আগে কোনো দাম লাগেনি, এখন তার দাম আছে, আর পেছনে আছে ঘরভর্তি মানুষের চাপ। তাঁর জবাব আসে পরের আয়াতে। এ আয়াত আমাকে জিজ্ঞেস করে, আমার নিজের 'না' কতটা চাপ সইতে পারবে?",
+    "pointsEn": [
+      "What would my refusal of something wrong survive: mockery, a lost opportunity, or a threat from someone with power over me?",
+      "When many voices press me at once, whose approval am I really waiting for?",
+      "Have I ever admitted a fault only once nobody could blame me for it any more, and called that honesty?",
+      "When someone keeps a limit and pays for it, do I stand with them, or quietly side with those who mock them?",
+      "Over whom do I hold some power, and have I ever used it to push them toward what they did not want?"
+    ],
+    "pointsBn": [
+      "অন্যায়ের বিরুদ্ধে আমার 'না' কতটুকু সইতে পারবে: ঠাট্টা, হাতছাড়া সুযোগ, নাকি আমার উপর ক্ষমতা রাখে এমন কারও হুমকি?",
+      "একসঙ্গে অনেকে যখন চাপ দেয়, তখন আসলে আমি কার সন্তুষ্টির অপেক্ষায় থাকি?",
+      "কোনো দোষ কি আমি স্বীকার করেছি কেবল তখন, যখন আর কেউ দোষ দিতে পারত না, আর সেটাকেই সততা বলে চালিয়েছি?",
+      "কেউ নিজের সীমা রক্ষা করতে গিয়ে দাম দিলে আমি কি তার পাশে দাঁড়াই, নাকি চুপচাপ ঠাট্টাকারীদের দলে ভিড়ে যাই?",
+      "কার উপর আমার কিছুটা হলেও ক্ষমতা আছে, আর সেই ক্ষমতা দিয়ে কি কখনো তাকে এমন দিকে ঠেলেছি, যা সে চায়নি?"
+    ],
+    "lessonEn": "Hold firm when refusing what is wrong begins to cost you, and never use your power over another person to push them toward what Allah has forbidden.",
+    "lessonBn": "অন্যায়কে 'না' বলতে যখন দাম দিতে হয়, তখনও অটল থাকুন। আর অন্যের উপর আপনার ক্ষমতা দিয়ে কখনো তাকে আল্লাহর নিষিদ্ধ কাজের দিকে ঠেলবেন না।"
   }
 };
 

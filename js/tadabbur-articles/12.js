@@ -1215,6 +1215,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Guests Had Seen",
+          "bn": "অতিথিরা দেখে ফেলার পর"
+        },
+        "p": [
+          {
+            "en": "This verse is spoken in a room full of guests. In 12:30 women of the city talked about the wife of al-'Aziz and her servant. In 12:31 she sent for them, gave each of them a knife, and called Yusuf (AS) out before them. When they saw him they were overwhelmed, cut their hands, and said that this was no human being but a noble angel. 12:32 is what she says next: nineteen words in Arabic, in three clauses, a pointing, an admission and a threat.",
+            "bn": "এ আয়াতের কথাগুলো বলা হচ্ছে অতিথিতে ভরা এক ঘরে। ১২:৩০ আয়াতে নগরের কিছু নারী আযীযের স্ত্রী আর তার ভৃত্যকে নিয়ে কানাকানি করেছিল। ১২:৩১ আয়াতে সে তাদের ডেকে পাঠায়, প্রত্যেকের হাতে একটা করে ছুরি দেয়, তারপর ইউসুফ (আঃ)-কে তাদের সামনে বেরিয়ে আসতে বলে। তাঁকে দেখে তারা অভিভূত হয়ে যায়, নিজেদের হাত কেটে ফেলে, আর বলে ওঠে, এ মানুষ নয়, এ তো এক সম্মানিত ফেরেশতা। এরপর সে যা বলে, সেটাই ১২:৩২। আরবিতে উনিশটি শব্দ, তিনটি অংশ: আঙুল তুলে দেখানো, স্বীকারোক্তি, আর হুমকি।"
+          },
+          {
+            "en": "The verse does not name her. Al-Baghawi calls her Ra'il and Ma'arif al-Qur'an calls her Zulaikha; this article keeps to the Qur'an's own way of referring to her, the wife of al-'Aziz. His answer comes in 12:33, where Yusuf (AS) tells his Lord that prison is dearer to him than what they invite him to. None of the eight commentaries consulted here gives an occasion of revelation for 12:32.",
+            "bn": "আয়াতে তার নাম নেই। বাগাভী তাকে রাঈল বলেছেন, মাআরিফুল কুরআন বলেছে যুলায়খা। এই লেখা কুরআনের নিজের ডাকটাই রাখছে: আযীযের স্ত্রী। ইউসুফ (আঃ)-এর জবাব আসে ১২:৩৩ আয়াতে। সেখানে তিনি রবের দিকে ফিরে বলেন, তারা আমাকে যেদিকে ডাকছে, তার চেয়ে জেলখানা আমার কাছে বেশি প্রিয়। এখানে যে ৮টি তাফসীর দেখা হয়েছে, তার কোনোটিই ১২:৩২ আয়াতের কোনো শানে নুযূল দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pointing at the One Blamed",
+          "bn": "যাকে নিয়ে এত নিন্দা"
+        },
+        "p": [
+          {
+            "en": "Fa-dhalikunna alladhi lumtunnani fihi: so that is the man about whom you blamed me. At-Tabari spells the sentence out. What came over you when you saw him, at a glance, the loss of reason and understanding until you cut your hands: he is the man you blamed me for loving, when you said that love of her servant had reached her heart and that she was in clear error. Her pointing word answers their gossip of 12:30 with their own reaction.",
+            "bn": "ফাযালিকুন্নাল্লাযী লুমতুন্নানী ফীহ: এই সে, যার ব্যাপারে তোমরা আমাকে দোষ দিয়েছিলে। তাবারী বাক্যটির ভেতরের কথা খুলে বলেন। এক নজর দেখেই তোমাদের বুদ্ধি আর বোধ এমনভাবে লোপ পেল যে নিজেদের হাতই কেটে ফেললে, এই সে-ই। একে ভালোবাসার জন্যই তোমরা আমাকে দোষ দিয়েছিলে। বলেছিলে, ভৃত্যের প্রেম তার হৃদয়ে ঢুকে গেছে, আমরা তাকে স্পষ্ট ভ্রান্তিতে দেখছি। ১২:৩০ আয়াতের কানাকানির জবাব সে দিল তাদের নিজেদের অবস্থা দিয়েই।"
+          },
+          {
+            "en": "Al-Qurtubi records two ways of reading the grammar. On one, dhalika, normally that, here means hadha, this, and he says this is at-Tabari's choice. On the other, the pronoun in fihi refers to love, and dhalika keeps its usual sense: that love you blamed me for is this love. Al-Qurtubi and al-Baghawi both gloss fihi as about loving him. Al-Qurtubi defines lawm, blame, as describing someone with what is ugly. Ibn Kathir says she spoke to excuse herself, holding that a man of such beauty and perfection deserved to be loved.",
+            "bn": "কুরতুবী এখানে ব্যাকরণের দুটি পাঠ উল্লেখ করেন। একটি মতে যালিকা শব্দের স্বাভাবিক অর্থ 'ওই', কিন্তু এখানে তা হাযা, অর্থাৎ 'এই'। তিনি বলেন, এটাই তাবারীর পছন্দ। অন্য মতে ফীহি শব্দের সর্বনাম ফিরছে ভালোবাসার দিকে, আর যালিকা তার নিজের অর্থেই আছে: যে ভালোবাসার জন্য দোষ দিয়েছিলে, সেটা এই ভালোবাসা। কুরতুবী ও বাগাভী দুজনেই ফীহির অর্থ করেন 'তাকে ভালোবাসার ব্যাপারে'। কুরতুবীর সংজ্ঞায় লাওম, অর্থাৎ নিন্দা, মানে কাউকে মন্দ গুণে বর্ণনা করা। ইবন কাসীর বলেন, নিজের পক্ষে অজুহাত দাঁড় করাতেই সে এ কথা বলেছিল। তার ধারণা ছিল, এমন রূপ আর পূর্ণতার মানুষকে ভালোবাসাই স্বাভাবিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb of Holding Back",
+          "bn": "নিজেকে সামলে রাখার ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Then the admission: wa-laqad rawadtuhu 'an nafsihi fa-sta'sama, I did seek to seduce him, and he held himself firm. At-Tabari says she now admitted to them that she had sought to seduce him, and that what they had been saying about her in his matter was true. He records the early glosses of the verb. From Ibn 'Abbas (RA): fa-mtana'a, he refused. From Qatada: fa-sta'sa, he resisted. Ibn Kathir, al-Baghawi and al-Qurtubi give the first, he refused, and the Muyassar gives it with a second verb: he refused and would not.",
+            "bn": "এরপর স্বীকারোক্তি: ওয়া লাকাদ রাওয়াদতুহু আন নাফসিহী ফাসতা'সামা, আমি তাকে ফুসলাতে চেয়েছিলাম, কিন্তু সে নিজেকে রক্ষা করেছে। তাবারী বলেন, এবার সে তাদের কাছে মেনে নিল যে সে-ই তাঁকে ফুসলাতে চেয়েছিল, আর তাঁকে নিয়ে তারা যা বলাবলি করছিল তা সত্য। ক্রিয়াটির প্রাচীন ব্যাখ্যাগুলো তিনি একত্র করেছেন। ইবন আব্বাস (রাঃ) বলেছেন: ফামতানাআ, তিনি বিরত থাকলেন। কাতাদা বলেছেন: ফাসতা'সা, তিনি অনড় রইলেন। ইবন কাসীর, বাগাভী ও কুরতুবী প্রথম অর্থটিই নেন: তিনি বিরত রইলেন। মুয়াসসার তার সঙ্গে আরেকটি ক্রিয়া জোড়ে: তিনি বিরত রইলেন, রাজি হলেন না।"
+          },
+          {
+            "en": "Al-Qurtubi ties the word to its root. 'Isma, he says, is called by that name because it holds a person back from committing a sin, and he reports the gloss ista'sa as well, saying the meaning is one. The verb used of Yusuf (AS) is a word of holding back, and the testimony to it comes from the one person with most reason to keep quiet. The Muyassar gives the setting in her own voice: I pursued him and tried to tempt him so that he would answer me, and he refused.",
+            "bn": "কুরতুবী শব্দটিকে তার মূলের সঙ্গে মিলিয়ে দেখান। তিনি বলেন, ইসমাকে ইসমা বলা হয়, কারণ তা মানুষকে গুনাহ করা থেকে আটকে রাখে। ইসতা'সা অর্থটিও তিনি উল্লেখ করেন এবং বলেন, অর্থ একই। ইউসুফ (আঃ)-এর বেলায় যে ক্রিয়া এসেছে, তা নিজেকে আটকে রাখার ক্রিয়া। আর এর সাক্ষ্য আসছে ঠিক সেই মানুষের মুখ থেকে, চুপ থাকার সবচেয়ে বেশি কারণ যার ছিল। মুয়াসসার পুরো পরিস্থিতিটা তার জবানিতেই বলে: আমি তার পিছু নিয়েছি, তাকে প্রলুব্ধ করতে চেয়েছি যেন সে সাড়া দেয়, কিন্তু সে বিরত থেকেছে।"
+          },
+          {
+            "en": "Ibn Kathir records a reading from some scholars, and as-Sa'di gives a similar one. Having seen his outward beauty, the women now heard from her about a quality hidden from them: chastity joined to that beauty. As-Sa'di calls it his inner beauty, complete chastity, which she wanted them to see once his outward beauty was settled in their minds and they had found much excuse for her. In her mouth the sentence was praise of the one she wanted. In the Qur'an it stands as his acquittal.",
+            "bn": "ইবন কাসীর কিছু আলেমের একটি ব্যাখ্যা উল্লেখ করেছেন, সা'দীও প্রায় একই কথা বলেন। নারীরা তাঁর বাইরের রূপ তো দেখেই ফেলেছিল। এবার তারা তার মুখে শুনল এমন এক গুণের কথা, যা তাদের চোখের আড়ালে ছিল: সেই রূপের সঙ্গে পবিত্রতা। সা'দী একে বলেন তাঁর ভেতরের সৌন্দর্য, পরিপূর্ণ পবিত্রতা। বাইরের রূপ তাদের মনে বসে যাওয়ার পর, আর তারা তার পক্ষে অনেক অজুহাত খুঁজে পাওয়ার পর, সে তাদের এটাও দেখাতে চেয়েছিল। তার মুখে বাক্যটি ছিল যাকে সে চায় তার প্রশংসা। কুরআনে সেই বাক্যই হয়ে আছে তাঁর নির্দোষ হওয়ার প্রমাণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Say It Before Them?",
+          "bn": "সবার সামনে কেন বলা?"
+        },
+        "p": [
+          {
+            "en": "Why would she say this in front of them? Al-Baghawi says she declared it openly because she knew no blame would come to her from them, since what had struck her on seeing him had struck them too. As-Sa'di says much the same: the women's blame had ended, so she spoke openly and without concern, making plain how strongly she loved him. Ma'arif al-Qur'an says she realised her secret already lay exposed before these women, and so she began threatening him in front of them.",
+            "bn": "এ কথা সে তাদের সামনে কেন বলল? বাগাভী বলেন, সে খোলাখুলি বলেছিল, কারণ সে জানত এরা আর তাকে দোষ দেবে না। তাঁকে দেখে তার যা হয়েছিল, এদেরও তা-ই হয়েছে। সা'দীর কথাও প্রায় এক: নারীদের নিন্দা থেমে গিয়েছিল, তাই সে নির্ভয়ে খোলাখুলি বলল, আর বুঝিয়ে দিল তাঁকে সে কত তীব্রভাবে ভালোবাসে। মাআরিফুল কুরআন বলে, সে বুঝে ফেলেছিল তার গোপন কথা এই নারীদের কাছে এমনিতেই ফাঁস হয়ে গেছে। তাই তাদের সামনেই সে তাঁকে হুমকি দিতে শুরু করল।"
+          },
+          {
+            "en": "Al-Qurtubi draws the contrast with the beginning. She renewed her pursuit of him in their presence, he says, tore away the covering of modesty, and promised him prison if he would not comply. She did this only when she no longer feared blame or talk, unlike the first stage of the affair, when it had been between him and her alone. As-Sa'di adds that she was persisting in her pursuit, and that the passing of time had only increased her agitation and longing.",
+            "bn": "কুরতুবী শুরুর অবস্থার সঙ্গে তুলনা টানেন। তিনি বলেন, তাদের উপস্থিতিতেই সে নতুন করে তাঁর পিছু নিল, লজ্জার আবরণ ছিঁড়ে ফেলল, আর রাজি না হলে জেলের হুমকি দিল। এটা সে করল তখনই, যখন নিন্দা বা লোকের কথার ভয় আর রইল না। শুরুতে ব্যাপারটা ছিল শুধু তাঁর আর তার মধ্যে, তখন এমন ছিল না। সা'দী যোগ করেন, সে তখনো তাঁর পিছু ছাড়েনি। সময় যত গড়িয়েছে, তার অস্থিরতা আর আকাঙ্ক্ষা ততই বেড়েছে।"
+          },
+          {
+            "en": "The next verse speaks of what they, in the plural, invite him to, and two commentaries record a detail that fits. Al-Baghawi says the women told him: obey your mistress. Ma'arif al-Qur'an, citing some commentators, says they all began telling him that she was their benefactor and he should not oppose her. Pressure that had come from one person behind closed doors now came from a whole room.",
+            "bn": "পরের আয়াতে ইউসুফ (আঃ) বলেন, 'তারা' আমাকে যেদিকে ডাকছে, অর্থাৎ বহুবচনে। দুটি তাফসীরে এমন একটি তথ্য আছে, যা এর সঙ্গে মেলে। বাগাভী বলেন, নারীরা তাঁকে বলেছিল: তোমার মনিবপত্নীর কথা মেনে নাও। মাআরিফুল কুরআন কিছু তাফসীরকারের বরাতে বলে, তারা সবাই তাঁকে বোঝাতে লাগল যে এই নারী তাদের উপকারী, তাই তার বিরোধিতা করা ঠিক নয়। বন্ধ দরজার আড়ালে যে চাপ আসত একজনের কাছ থেকে, এখন তা আসছে গোটা ঘর থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Emphatic Nun",
+          "bn": "তাকিদের দুই রকম নূন"
+        },
+        "p": [
+          {
+            "en": "Then the threat: wa-la'in lam yaf'al ma amuruhu la-yusjananna wa-la-yakunan min as-saghirin. At-Tabari paraphrases: if he will not comply with what I call him to, he will be confined, and he will be among the people of smallness and abasement through confinement and prison, and I will humiliate him. The Muyassar reads ma amuruhu as what I order him from now on, and la-yusjananna as he will be punished by entering prison. As-saghirin, say the Muyassar, al-Baghawi and al-Qurtubi, are the abased.",
+            "bn": "এবার হুমকি: ওয়া লাইন লাম ইয়াফআল মা আমুরুহু লাইউসজানান্না ওয়া লাইয়াকূনাম মিনাস সাগিরীন। তাবারী এর অর্থ করেন এভাবে: আমি তাকে যেদিকে ডাকছি, তাতে যদি সে সায় না দেয়, তবে তাকে আটকে রাখা হবে। বন্দিত্ব আর কারাগারের মধ্য দিয়ে সে হবে হীন ও লাঞ্ছিতদের একজন, আর আমি তাকে অপমান করে ছাড়ব। মুয়াসসার মা আমুরুহুর অর্থ করে, এখন থেকে আমি তাকে যা বলব। আর লাইউসজানান্নার অর্থ, জেলে ঢুকিয়ে তাকে শাস্তি দেওয়া হবে। মুয়াসসার, বাগাভী ও কুরতুবী তিনজনেই বলেন, আস-সাগিরীন মানে লাঞ্ছিতরা।"
+          },
+          {
+            "en": "The two verbs carry the nun of emphasis in its two forms. Al-Qurtubi and al-Baghawi say this nun can be heavy or light. La-yusjananna takes the heavy, doubled nun, and the pause on it is with the nun. Wa-la-yakunan takes the light form; the mushaf writes it with an alif, and al-Qurtubi says it is read with a lightened nun for emphasis. The pause on it is with the alif, because the light nun resembles the nunation of nouns: ra'aytu rajulan, stopped on, is said with an alif.",
+            "bn": "দুটি ক্রিয়ায় তাকিদের নূন এসেছে দুই রূপে। কুরতুবী ও বাগাভী বলেন, এই নূন ভারীও হয়, হালকাও হয়। লাইউসজানান্নায় এসেছে ভারী, তাশদীদওয়ালা নূন। এখানে থামলে নূন দিয়েই থামতে হয়। ওয়া লাইয়াকূনায় এসেছে হালকা নূন। মুসহাফে তা লেখা হয়েছে আলিফ দিয়ে, আর কুরতুবী বলেন, তাকিদের জন্য একে হালকা নূনে পড়া হয়। এখানে থামলে থামতে হয় আলিফ দিয়ে। কারণ হালকা নূন দেখতে নামবাচক শব্দের তানবীনের মতো। রাআইতু রাজুলান বলে থামলে শেষে আলিফের উচ্চারণ থাকে।"
+          },
+          {
+            "en": "At-Tabari, al-Qurtubi and al-Baghawi each point to the same parallel, la-nasfa'an bin-nasiyah in 96:15 and 96:16, where the pause likewise falls on an alif, and at-Tabari and al-Qurtubi cite a line of the poet al-A'sha in which fa-'buda stands for fa-'budan. The commentators consulted give no reason why one verb has the heavy nun and the other the light. What the note records is that both halves of the threat are emphasised, each verb with its own nun.",
+            "bn": "তাবারী, কুরতুবী ও বাগাভী তিনজনেই একই দৃষ্টান্ত দেখান: ৯৬:১৫ ও ৯৬:১৬ আয়াতের লানাসফাআম বিন নাসিয়াহ। সেখানেও থামতে হয় আলিফ দিয়ে। তাবারী ও কুরতুবী কবি আল-আ'শার একটি পঙক্তিও উদ্ধৃত করেন, যেখানে ফা'বুদা আসলে ফা'বুদান। একটি ক্রিয়ায় কেন ভারী নূন আর অন্যটিতে হালকা, এখানে দেখা তাফসীরগুলো তার কোনো কারণ বলেনি। ব্যাকরণের এ আলোচনা শুধু এটুকু জানায় যে হুমকির দুই অংশেই জোর আছে, প্রতিটি ক্রিয়ায় তার নিজের নূন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Deed Under Judgement",
+          "bn": "বিচার কাজের, মানুষের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what one woman said in one room, in one story, and the Qur'an weighs her deed: pursuing a man who refused, then using her power over him to threaten prison and humiliation. It says nothing about women as such, and it licenses nothing against any living person or community. Nor does it hand the reader a person to despise. In 12:29 her husband had already told her to seek forgiveness for her sin, and in 12:51, before the king, she says that the truth has come out: it was I who sought to seduce him, and he is of the truthful.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনির ভেতরে এক ঘরে একজন নারীর বলা কথা জানাচ্ছে। কুরআন এখানে ওজন করছে তার কাজকে: যে মানুষটি রাজি হননি, তাঁর পিছু নেওয়া, তারপর তাঁর উপর নিজের ক্ষমতা খাটিয়ে জেল আর অপমানের হুমকি দেওয়া। নারীজাতি সম্পর্কে আয়াতটি কিছুই বলে না। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধেও এটি কোনো অনুমতি দেয় না। পাঠকের হাতে ঘৃণা করার মতো কোনো মানুষও তুলে দেয় না। ১২:২৯ আয়াতে তার স্বামী আগেই তাকে নিজের গুনাহের জন্য ক্ষমা চাইতে বলেছিল। আর ১২:৫১ আয়াতে রাজার সামনে সে বলে, এখন সত্য প্রকাশ হয়ে গেছে, আমিই তাকে ফুসলাতে চেয়েছিলাম, আর সে নিশ্চয়ই সত্যবাদী।"
+          },
+          {
+            "en": "The article's own voice says nothing against Yusuf (AS) either. The question some raise about 12:24 belongs to that verse, and this verse adds a witness on his side: the woman who pursued him says, before others, that he held firm. Ibn Kathir, in a passage that runs on to 12:34, says that Yusuf was protected from error by Allah's will, that Allah saved him from accepting her advances, and that he preferred prison to her unlawful call because he feared Allah and hoped for His reward.",
+            "bn": "ইউসুফ (আঃ)-এর বিরুদ্ধেও এই লেখা নিজে থেকে কিছু বলছে না। ১২:২৪ আয়াত নিয়ে কেউ কেউ যে প্রশ্ন তোলেন, তার জায়গা সেই আয়াত। বরং এ আয়াত তাঁর পক্ষে আরেকজন সাক্ষী যোগ করে: যে তাঁর পিছু নিয়েছিল, সে নিজেই অন্যদের সামনে বলছে, তিনি অটল ছিলেন। ১২:৩৪ পর্যন্ত বিস্তৃত এক আলোচনায় ইবন কাসীর বলেন, আল্লাহর ইচ্ছায় ইউসুফ ভুল থেকে সুরক্ষিত ছিলেন। আল্লাহ তাঁকে ওই নারীর আহ্বানে সাড়া দেওয়া থেকে বাঁচিয়েছেন। আল্লাহকে ভয় করতেন আর তাঁর প্রতিদান আশা করতেন বলেই তিনি অবৈধ আহ্বানের চেয়ে জেলকে বেছে নিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shade for the One Who Refuses",
+          "bn": "যে ফিরিয়ে দেয়, তার জন্য ছায়া"
+        },
+        "p": [
+          {
+            "en": "None of the eight commentaries consulted attaches a prophetic hadith to 12:32 itself. Ibn Kathir's English passage on 12:30 to 12:34 brings one from the Two Sahihs after 12:33, where Yusuf (AS) chooses prison; it is a general narration, not a report about this verse. Al-Bukhari relates it from Abu Hurayrah (RA) at number 660 of his Sahih, and its place in that collection is the collector's own judgement of it as sound. In al-Bukhari's wording, the Prophet ﷺ said:",
+            "bn": "এখানে দেখা ৮টি তাফসীরের কোনোটিই খোদ ১২:৩২ আয়াতের সঙ্গে নবীজির কোনো হাদিস জুড়ে দেয়নি। ১২:৩০ থেকে ১২:৩৪ পর্যন্ত ইবন কাসীরের ইংরেজি আলোচনায় দুই সহীহ গ্রন্থ থেকে একটি হাদিস আছে। ১২:৩৩ আয়াতে ইউসুফ (আঃ)-এর জেল বেছে নেওয়ার পর তিনি এটি আনেন। হাদিসটি সাধারণ, এ আয়াত সম্পর্কে কোনো বর্ণনা নয়। বুখারী তা আবু হুরায়রা (রাঃ) থেকে তাঁর সহীহ গ্রন্থের ৬৬০ নম্বরে বর্ণনা করেছেন। সেই গ্রন্থে স্থান দেওয়াটাই হাদিসটি সম্পর্কে সংকলকের নিজের রায় যে এটি সহীহ। বুখারীর ভাষ্যে নবী ﷺ বলেছেন:"
+          },
+          {
+            "en": "\"Allah will give shade, to seven, on the Day when there will be no shade but His. (These seven persons are) a just ruler, a youth who has been brought up in the worship of Allah (i.e. worships Allah sincerely from childhood), a man whose heart is attached to the mosques (i.e. to pray the compulsory prayers in the mosque in congregation), two persons who love each other only for Allah's sake and they meet and part in Allah's cause only,",
+            "bn": "\"যেদিন আল্লাহর ছায়া ছাড়া আর কোনো ছায়া থাকবে না, সেদিন আল্লাহ ৭ জনকে ছায়া দেবেন। (এই ৭ জন হলেন) ন্যায়পরায়ণ শাসক; সেই যুবক, যে আল্লাহর ইবাদতের মধ্যে বেড়ে উঠেছে (অর্থাৎ শৈশব থেকেই খাঁটি মনে আল্লাহর ইবাদত করে); সেই ব্যক্তি, যার অন্তর মসজিদের সঙ্গে ঝুলে থাকে (অর্থাৎ ফরজ নামাজ মসজিদে জামাআতের সঙ্গে আদায় করে); এমন দুজন, যারা শুধু আল্লাহর জন্যই পরস্পরকে ভালোবাসে, আর আল্লাহর পথেই একত্র হয় ও আল্লাহর পথেই আলাদা হয়;"
+          },
+          {
+            "en": "a man who refuses the call of a charming woman of noble birth for illicit intercourse with her and says: I am afraid of Allah, a man who gives charitable gifts so secretly that his left hand does not know what his right hand has given (i.e. nobody knows how much he has given in charity), and a person who remembers Allah in seclusion and his eyes are then flooded with tears.\" Ibn Kathir lists what made the refusal in this story hard: Yusuf was young and beautiful, and she was the wife of the 'Aziz of Egypt, wealthy and of great rank.",
+            "bn": "সেই ব্যক্তি, যাকে অভিজাত বংশের এক সুন্দরী নারী অবৈধ মিলনের জন্য ডাকে, আর সে তা ফিরিয়ে দিয়ে বলে: আমি আল্লাহকে ভয় করি; সেই ব্যক্তি, যে এত গোপনে দান করে যে তার ডান হাত কী দিল বাম হাত তা জানে না (অর্থাৎ সে কত দান করল কেউ জানে না); আর সেই ব্যক্তি, যে নির্জনে আল্লাহকে স্মরণ করে আর তার দুচোখ অশ্রুতে ভেসে যায়।\" এ কাহিনিতে ফিরিয়ে দেওয়া কেন কঠিন ছিল, ইবন কাসীর তা গুনে দেখান: ইউসুফ ছিলেন তরুণ ও সুদর্শন, আর ওই নারী ছিল মিসরের আযীযের স্ত্রী, ধনী এবং উঁচু মর্যাদার অধিকারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Saying No Has a Price",
+          "bn": "'না' বলার যখন দাম লাগে"
+        },
+        "p": [
+          {
+            "en": "Lived, the verse is about the moment a refusal acquires a price. His no now has a sentence attached, prison and humiliation, announced before witnesses who join the pressure. Many meet a smaller form of it: a manager who expects a dishonest favour, a circle that mocks someone for keeping a limit. The verse names the pressure for what it is, an order backed by a threat, and the next verse shows that the threat did not change his answer.",
+            "bn": "জীবনের ভাষায় আয়াতটি সেই মুহূর্তের কথা, যখন 'না' বলার একটা দাম তৈরি হয়ে যায়। তাঁর 'না'-এর সঙ্গে এখন জুড়ে গেছে সাজা, জেল আর অপমান। আর সেই ঘোষণা হয়েছে এমন সাক্ষীদের সামনে, যারা নিজেরাও চাপ দিতে শুরু করেছে। অনেকেই এর ছোট রূপের মুখোমুখি হন। কোনো কর্মকর্তা অসৎ সুবিধা আশা করেন, কিংবা কোনো মহল সীমা মেনে চলা মানুষটিকে নিয়ে ঠাট্টা করে। আয়াতটি এই চাপকে তার আসল নামে ডাকে: হুমকির জোরে দেওয়া হুকুম। আর পরের আয়াত দেখায়, হুমকিতে তাঁর জবাব বদলায়নি।"
+          },
+          {
+            "en": "It also speaks to whoever holds the power. Al-Qurtubi's description of her conduct is that she tore away the covering of modesty once she no longer feared blame. Fear of people's blame is a weak guard, and when it falls away, what remains is the fear of Allah or nothing. Anyone with authority over another can ask whether they ever lean on that authority to push someone toward wrong, or make someone pay for refusing.",
+            "bn": "যার হাতে ক্ষমতা, আয়াতটি তাকেও কিছু বলে। কুরতুবী তার আচরণের বর্ণনা দেন এভাবে: লোকের নিন্দার ভয় যখন আর রইল না, সে লজ্জার আবরণ ছিঁড়ে ফেলল। মানুষের নিন্দার ভয় খুব দুর্বল পাহারাদার। সেই ভয় সরে গেলে থাকে হয় আল্লাহর ভয়, নয়তো কিছুই না। অন্যের উপর যার কর্তৃত্ব আছে, তিনি নিজেকে জিজ্ঞেস করতে পারেন: সেই কর্তৃত্বের জোরে কাউকে কি কখনো অন্যায়ের দিকে ঠেলেছি? 'না' বলার জন্য কাউকে কি দাম দিতে বাধ্য করেছি?"
+          },
+          {
+            "en": "The tafsir consulted here attaches no Sunnah supplication to this verse, so here is a short prayer in the passage's own vocabulary, offered as such and not as a narration: O Allah, make me of those who hold firm when they are called to what You have forbidden, whatever the call costs. Turn from me the plotting of those who press me, and never let me use my power over anyone to press them toward wrong.",
+            "bn": "এখানে দেখা তাফসীর এ আয়াতের সঙ্গে সুন্নাহর কোনো দোয়া জুড়ে দেয়নি। তাই আয়াতের নিজের শব্দ থেকে একটি ছোট দোয়া দেওয়া হলো। এটি দোয়া হিসেবেই দেওয়া, কোনো বর্ণনা হিসেবে নয়: হে আল্লাহ, আপনার নিষিদ্ধ কাজের দিকে ডাক এলে আমাকে অটল থাকা বান্দাদের একজন করুন, সেই ডাকের দাম যত চড়াই হোক। যারা আমাকে চাপ দেয়, তাদের চক্রান্ত আমার থেকে সরিয়ে দিন। আর আমার ক্ষমতা দিয়ে কাউকে অন্যায়ের দিকে চাপ দিতে কখনো দেবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "12:36": {
     "sections": [
       {
