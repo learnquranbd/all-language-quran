@@ -2183,6 +2183,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:73": {
+    "sections": [
+      {
+        "h": {
+          "en": "Faith With a Stated Aim",
+          "bn": "ঈমানের ঘোষিত লক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "Inna amanna bi-rabbina: indeed, we have believed in our Lord. The sentence carries on a reply begun in 20:72, where the believing sorcerers told Pharaoh to decide whatever he would decide, since his power reached only this worldly life. Here they give the reason behind that calm. At-Tabari paraphrases the clause: we have affirmed the oneness of our Lord, believed His promise and His warning, and accepted that what Moses (AS) brought is true. Al-Qurtubi is briefer: we have believed in Allah alone, with no partner, and in what Moses brought us.",
+            "bn": "ইন্না আমান্না বিরাব্বিনা: আমরা আমাদের রবের উপর ঈমান এনেছি। কথাটা ২০:৭২ আয়াতে শুরু হওয়া জবাবেরই ধারাবাহিকতা। সেখানে ঈমান আনা জাদুকরেরা ফেরাউনকে বলেছিল, তোমার যা ফয়সালা করার করো, তোমার ক্ষমতা তো কেবল এই দুনিয়ার জীবন পর্যন্ত। এখানে তারা জানায়, সেই স্থিরতার পেছনে কারণটা কী। তাবারী বাক্যটির ব্যাখ্যা দেন এভাবে: আমরা আমাদের রবের তাওহীদ স্বীকার করেছি, তাঁর ওয়াদা ও সতর্কবাণী সত্য বলে মেনেছি, আর মেনেছি যে মূসা (আঃ) যা এনেছেন তা হক। কুরতুবী আরও সংক্ষেপে বলেন: আমরা একমাত্র আল্লাহর উপর ঈমান এনেছি, যাঁর কোনো শরিক নেই, আর ঈমান এনেছি মূসা আমাদের কাছে যা এনেছেন তার উপর।"
+          },
+          {
+            "en": "Then comes the purpose, marked by the particle li: that He may forgive us our sins. The one aim they name is forgiveness. Al-Muyassar sets out their faith in three steps: we believed in our Lord, affirmed His messenger and acted on what he brought, so that our Lord would pardon our sins. And the word they use is rabbina, our Lord, said aloud before a king who had called himself their lord most high (79:24).",
+            "bn": "এরপর আসে উদ্দেশ্য, 'লি' অব্যয় দিয়ে: যাতে তিনি আমাদের গুনাহ মাফ করেন। একটিমাত্র লক্ষ্যের কথা তারা বলে, আর তা মাগফিরাত। মুয়াসসার তাদের ঈমানকে তিনটি ধাপে খুলে বলে: আমরা আমাদের রবের উপর ঈমান এনেছি, তাঁর রাসূলকে সত্য বলে মেনেছি, আর তিনি যা এনেছেন সে অনুযায়ী আমল করেছি, যাতে আমাদের রব আমাদের গুনাহ মাফ করে দেন। লক্ষ করুন, তারা বলছে 'রাব্বিনা', আমাদের রব। আর বলছে এমন এক বাদশাহর সামনে, যে নিজেকে তাদের সবচেয়ে বড় রব বলে দাবি করেছিল (৭৯:২৪)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sins They Did Not Hide",
+          "bn": "যে গুনাহ তারা লুকায়নি"
+        },
+        "p": [
+          {
+            "en": "Khataya is the plural of khati'a, a sin or fault, and the commentators differ on how much it gathers. Al-Qurtubi reads it narrowly: they mean the shirk they had been living in. As-Sa'di reads it as their disbelief together with their acts of disobedience, and gives the ground for their hope: faith expiates evil deeds, and repentance cuts off what came before it. At-Tabari explains the forgiving itself as a pardon that also covers: that He pardon our sins and then screen them over us.",
+            "bn": "খাতায়া শব্দটি খাতীআর বহুবচন, অর্থ গুনাহ বা অপরাধ। শব্দটি কতখানি জুড়ে আছে, তা নিয়ে তাফসীরকারদের কথা এক নয়। কুরতুবী অর্থটা সংকীর্ণ ধরেন: তারা বোঝাচ্ছে সেই শিরক, যার উপর তারা ছিল। সা'দী এতে ধরেন তাদের কুফর আর নাফরমানি দুটোই। তাদের আশার ভিত্তিও তিনি বলে দেন: ঈমান মন্দ কাজের কাফফারা হয়, আর তওবা আগের সবকিছু মুছে দেয়। তাবারী মাফ করাকে ব্যাখ্যা করেন এমন ক্ষমা হিসেবে, যা ঢেকেও রাখে: তিনি যেন আমাদের গুনাহ মাফ করেন, তারপর তা আমাদের উপর পর্দা দিয়ে ঢেকে দেন।"
+          },
+          {
+            "en": "Ibn Kathir widens the word and then points to its sharpest edge: whatever sins came from us, and above all the sorcery you forced on us, by which we stood against the sign of Allah and the miracle of His prophet. That is a remarkable thing to say to Pharaoh's face. The men he had gathered to defeat Moses (AS) now name their own craft as a sin, in public, before the man who commissioned it. They do not ask him to excuse them. They ask their Lord, and they let Pharaoh hear the request.",
+            "bn": "ইবন কাসীর শব্দটির পরিধি বড় করেন, তারপর আঙুল রাখেন এর সবচেয়ে ধারালো জায়গায়: আমাদের থেকে যত গুনাহ হয়েছে, বিশেষ করে সেই জাদু, যা করতে তুমি আমাদের বাধ্য করেছিলে, যা দিয়ে আমরা আল্লাহর নিদর্শন আর তাঁর নবীর মুজিযার মোকাবিলা করেছিলাম। ফেরাউনের মুখের উপর এ কথা বলা সহজ নয়। মূসা (আঃ)-কে হারাতে যাদের সে জড়ো করেছিল, তারাই এখন প্রকাশ্যে নিজেদের বিদ্যাকে গুনাহ বলছে, আর বলছে সেই মানুষটার সামনে, যে তাদের কাজে লাগিয়েছিল। তার কাছে তারা রেহাই চায় না। চায় নিজেদের রবের কাছে, আর সেই চাওয়াটা ফেরাউনকে শুনিয়েই চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Boys Sent to al-Farama",
+          "bn": "ফারামায় পাঠানো কিশোরেরা"
+        },
+        "p": [
+          {
+            "en": "Wa ma akrahtana 'alayhi mina s-sihr: and what you compelled us to of sorcery. How had Pharaoh compelled them? Ibn Kathir cites a report through Ibn Abi Hatim, from 'Ikrima, from Ibn 'Abbas (RA): Pharaoh took forty boys from the Children of Israel and ordered that they be taught sorcery at al-Farama, saying, teach them a teaching that no one on earth knows. Ibn 'Abbas added that these were among those who believed in Moses (AS) and who said this very verse. Ibn Kathir notes that 'Abd ar-Rahman ibn Zayd ibn Aslam said the same.",
+            "bn": "ওয়া মা আকরাহতানা আলাইহি মিনাস সিহর: আর জাদুর যে কাজে তুমি আমাদের বাধ্য করেছিলে। ফেরাউন তাদের বাধ্য করেছিল কীভাবে? ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইকরিমা থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন: ফেরাউন বনী ইসরাঈলের চল্লিশজন কিশোরকে ধরে এনে হুকুম দিল, ফারামায় তাদের জাদু শেখানো হোক। সে বলল, এমনভাবে শেখাও, যেমন দুনিয়ার আর কেউ জানে না। ইবন আব্বাস আরও বলেন, এরাই ছিল মূসা (আঃ)-এর উপর ঈমান আনা লোকদের মধ্যে, আর এরাই বলেছিল এই আয়াতের কথাগুলো। ইবন কাসীর জানান, আবদুর রহমান ইবন যায়দ ইবন আসলামও একই কথা বলেছেন।"
+          },
+          {
+            "en": "At-Tabari gives the report from Ibn 'Abbas through the same line of narrators, Nu'aym ibn Hammad from Sufyan ibn 'Uyayna from 'Ikrima, but in shorter words: boys whom Pharaoh handed over to the sorcerers, who taught them sorcery at al-Farama. His wording carries no number and names no people. He also cites Ibn Zayd: he ordered them to learn sorcery, and in their own voice, you ordered us to learn it. At-Tabari's own paraphrase follows the same line: forgive us what we learned of sorcery and practised, which you compelled us to learn and to practise.",
+            "bn": "তাবারীও ইবন আব্বাসের বর্ণনাটি আনেন একই সনদে, নুআইম ইবন হাম্মাদ থেকে, তিনি সুফিয়ান ইবন উয়াইনা থেকে, তিনি ইকরিমা থেকে। তবে তাঁর শব্দ ছোট: কিছু কিশোর, যাদের ফেরাউন জাদুকরদের হাতে তুলে দিয়েছিল, আর তারা ফারামায় ওদের জাদু শেখাত। তাঁর বর্ণনায় কোনো সংখ্যা নেই, কোনো জাতির নামও নেই। তিনি ইবন যায়দের কথাও আনেন: সে তাদের জাদু শিখতে হুকুম দিয়েছিল। জাদুকরদের নিজেদের ভাষায়: তুমি আমাদের তা শিখতে হুকুম দিয়েছিলে। তাবারীর নিজের ব্যাখ্যাও একই পথে চলে: জাদুর যা আমরা শিখেছি আর যা করেছি, যা শিখতে ও করতে তুমি আমাদের বাধ্য করেছিলে, তাও মাফ করে দিন।"
+          },
+          {
+            "en": "Al-Baghawi adds a report from Muqatil: the sorcerers numbered seventy-two, two of them Copts and seventy from the Children of Israel, and it was the Israelites whom Pharaoh had compelled to learn sorcery. These are reports from the early generations, relayed by the commentators; none is a saying of the Prophet ﷺ, and the details of number and place rest on them alone. What the verse itself states is only that compulsion happened, and that the sorcerers said so to Pharaoh's face.",
+            "bn": "বাগাভী মুকাতিলের একটি বর্ণনা যোগ করেন: জাদুকর ছিল বাহাত্তরজন। তাদের দুজন কিবতী, আর সত্তরজন বনী ইসরাঈলের। বনী ইসরাঈলের এই লোকদেরকেই ফেরাউন জাদু শিখতে বাধ্য করেছিল। এগুলো পূর্বসূরিদের বর্ণনা, তাফসীরকারেরা উদ্ধৃত করেছেন। এর কোনোটিই নবী ﷺ-এর বাণী নয়, আর সংখ্যা ও জায়গার খুঁটিনাটি কেবল এসব বর্ণনার উপরই দাঁড়িয়ে। আয়াত নিজে শুধু এটুকু বলে যে বাধ্য করা হয়েছিল, আর জাদুকরেরা কথাটা বলেছিল ফেরাউনের মুখের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coerced, Yet Bargaining?",
+          "bn": "বাধ্য, তবু দরকষাকষি?"
+        },
+        "p": [
+          {
+            "en": "The commentators do not let the claim pass unexamined. Al-Baghawi puts the objection plainly: how could they say this, when they had come of their own choice, swearing by the might of Pharaoh that victory would be theirs (26:44)? Al-Qurtubi relays al-Mahdawi pressing the same point from 7:113, where they asked, we will surely have a reward if we are the victors? That, al-Mahdawi says, is not how compelled men speak.",
+            "bn": "তাফসীরকারেরা দাবিটা যাচাই না করে ছেড়ে দেন না। বাগাভী আপত্তিটা সোজাসুজি তোলেন: তারা এ কথা বলল কীভাবে, যখন তারা নিজেদের ইচ্ছায় এসেছিল, আর ফেরাউনের ইজ্জতের কসম খেয়ে বলেছিল জয় তাদেরই হবে (২৬:৪৪)? কুরতুবী মাহদাভীর কথা আনেন, যিনি ৭:১১৩ থেকে একই প্রশ্ন তোলেন। সেখানে তারা জিজ্ঞেস করেছিল, আমরা জিতলে আমাদের জন্য পুরস্কার থাকবে তো? মাহদাভী বলেন, বাধ্য করা লোকের কথা এমন হয় না।"
+          },
+          {
+            "en": "The answers locate the compulsion earlier than the contest. Al-Baghawi cites al-Hasan: Pharaoh used to force a group of people to learn sorcery so that its roots would not die out, and he had forced these men at the start. Al-Qurtubi gives al-Hasan's point in another form: they were taught sorcery as children, and afterwards practised it by choice. Al-Mahdawi too allows that they may have been forced to learn it while young. On this reading the bargaining was real, and so was the compulsion that had first put the craft in their hands.",
+            "bn": "জবাবগুলো বাধ্য করার ঘটনাটাকে প্রতিযোগিতার আগে নিয়ে যায়। বাগাভী হাসানের কথা আনেন: ফেরাউন একদল লোককে জাদু শিখতে বাধ্য করত, যাতে এর শিকড় হারিয়ে না যায়। এদেরও সে শুরুতে বাধ্য করেছিল। কুরতুবী হাসানের কথাটাই আনেন আরেক রূপে: ছোটবেলায় তাদের জাদু শেখানো হয়েছিল, পরে তারা নিজেদের ইচ্ছাতেই তা চর্চা করেছে। মাহদাভীও মেনে নেন যে ছোট বয়সে শিখতে তাদের বাধ্য করা হয়ে থাকতে পারে। এই পাঠে দরকষাকষিও সত্য, আবার সেই বাধ্য করাও সত্য, যা প্রথম এই বিদ্যা তাদের হাতে তুলে দিয়েছিল।"
+          },
+          {
+            "en": "Two further answers place the compulsion on the day itself. Al-Baghawi cites 'Abd al-'Aziz ibn Aban: the sorcerers asked Pharaoh to show them Moses (AS) asleep, and they saw him sleeping while his staff kept guard. They told Pharaoh this was no sorcerer, since a sorcerer's magic fails when he sleeps, and Pharaoh refused to release them. Ma'arif al-Qur'an offers, as possibilities, that the rewards drew them in, that they soon saw they stood no chance and wanted to withdraw, and that Pharaoh then forced them on; or that a law of his compelled everyone to learn magic.",
+            "bn": "আরও দুটি জবাব বাধ্য করাকে ফেলে সেই দিনটাতেই। বাগাভী আবদুল আযীয ইবন আবানের বর্ণনা আনেন: জাদুকরেরা ফেরাউনকে বলল, ঘুমন্ত অবস্থায় মূসা (আঃ)-কে আমাদের দেখাও। তারা দেখল, তিনি ঘুমিয়ে আছেন, আর তাঁর লাঠি পাহারা দিচ্ছে। তারা ফেরাউনকে বলল, এ লোক জাদুকর নয়, কারণ জাদুকর ঘুমালে তার জাদু অকেজো হয়ে যায়। কিন্তু ফেরাউন তাদের রেহাই দিতে রাজি হল না। মাআরিফুল কুরআন সম্ভাবনা হিসেবে দুটো ব্যাখ্যা দেয়। পুরস্কারের লোভে তারা এসেছিল, কিন্তু শিগগিরই বুঝল জেতার কোনো আশা নেই, তাই সরে যেতে চাইল, আর তখন ফেরাউন তাদের জোর করে নামাল। অথবা ফেরাউনের এক আইনে সবার জন্য জাদু শেখা বাধ্যতামূলক ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reluctance Allah Rewarded",
+          "bn": "যে অনিচ্ছার মূল্য দিলেন আল্লাহ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di takes the clause as evidence that their earlier work was not freely chosen, and that Pharaoh had truly forced them. He then reconstructs how, adding, and Allah knows best. When Moses (AS) warned them in 20:61, woe to you, do not invent a lie against Allah or He will destroy you with a punishment, the words struck home and moved them deeply. That is why they fell to disputing among themselves straight after (20:62). Then Pharaoh bound them to the plan and forced them into the scheme they went on to carry out.",
+            "bn": "সা'দী এ অংশটিকে প্রমাণ হিসেবে নেন যে তাদের আগের কাজ স্বাধীন ইচ্ছায় ছিল না, ফেরাউন সত্যিই তাদের বাধ্য করেছিল। তারপর 'আল্লাহই ভালো জানেন' বলে তিনি দেখান, ব্যাপারটা কীভাবে ঘটে থাকতে পারে। ২০:৬১ আয়াতে মূসা (আঃ) তাদের সতর্ক করেছিলেন: তোমাদের ধ্বংস হোক, আল্লাহর নামে মিথ্যা রটিয়ো না, নইলে তিনি শাস্তি দিয়ে তোমাদের নির্মূল করে দেবেন। কথাগুলো তাদের মনে গভীর দাগ কাটে। এ কারণেই এর পরপরই তারা নিজেদের মধ্যে বিবাদে জড়িয়ে পড়ে (২০:৬২)। তারপর ফেরাউন তাদের এ কাজে আটকে দেয় আর যে চক্রান্ত তারা পরে চালায়, তাতে জোর করে নামায়।"
+          },
+          {
+            "en": "His sign of it is in 20:63. There the sorcerers repeat, almost word for word, what Pharaoh had said before they came: these two are sorcerers who want to drive you out of your land by their sorcery. They ran along the line he had laid down for them. As-Sa'di then suggests that the small point lodged in their hearts, their dislike of setting falsehood against the truth and the half-shut eyes with which they did what they did, is what worked in them; for it Allah had mercy on them and granted them faith and repentance.",
+            "bn": "এর আলামত তিনি দেখান ২০:৬৩ আয়াতে। সেখানে জাদুকরেরা প্রায় হুবহু সেই কথাই বলে, যা ফেরাউন তাদের আসার আগে বলেছিল: এরা দুজন জাদুকর, নিজেদের জাদু দিয়ে তোমাদের দেশ থেকে তোমাদের বের করে দিতে চায়। ফেরাউন যে পথ বেঁধে দিয়েছিল, তারা সেই পথেই চলেছে। তারপর সা'দী ইঙ্গিত দেন, তাদের মনে একটা সূক্ষ্ম অনুভূতি জেগে ছিল। সত্যের বিরুদ্ধে মিথ্যা দাঁড় করাতে তাদের অপছন্দ ছিল, আর যা করেছে তা করেছে চোখ আধবোজা রেখে। হয়তো এটাই তাদের ভেতরে কাজ করেছে। এর জন্যই আল্লাহ তাদের উপর রহম করেছেন, আর তাদের ঈমান ও তওবার তাওফীক দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Particle, Three Parsings",
+          "bn": "এক 'মা', তিন বিশ্লেষণ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi pauses on the small word ma in wa ma akrahtana. On the first view it is a relative pronoun in the accusative, joined to khataya: forgive us our sins, and what you compelled us to of sorcery. On a second view it is a negative with no grammatical role, giving: forgive us our sins of sorcery, and you did not compel us. An-Nahhas, he reports, judged the first the better reading. Al-Mahdawi found difficulty in it, for two reasons: the bargaining of 7:113 is not the speech of compelled men, and compulsion is not a sin.",
+            "bn": "ওয়া মা আকরাহতানা অংশের ছোট্ট শব্দ 'মা'-তে কুরতুবী থামেন। প্রথম মতে এটি সম্বন্ধবাচক সর্বনাম, কর্মকারকে, আর খাতায়ার সঙ্গে যুক্ত: আমাদের গুনাহ মাফ করুন, আর জাদুর যে কাজে তুমি আমাদের বাধ্য করেছিলে তাও। দ্বিতীয় মতে এটি না-বাচক অব্যয়, বাক্যে এর কোনো ব্যাকরণগত স্থান নেই। তখন অর্থ দাঁড়ায়: জাদুর যে গুনাহ আমরা করেছি তা মাফ করুন, আর তুমি আমাদের বাধ্য করোনি। কুরতুবী জানান, নাহহাস প্রথমটিকেই উত্তম পাঠ বলেছেন। মাহদাভী তাতে আপত্তি দেখেছেন দুই কারণে। ৭:১১৩ আয়াতের দরকষাকষি বাধ্য করা লোকের কথা নয়, আর বাধ্য হয়ে করা কাজ গুনাহ নয়।"
+          },
+          {
+            "en": "Al-Qurtubi records a third parsing as well: ma is the subject of a sentence whose predicate is left unsaid, so that the sense is, and what you compelled us to of sorcery is lifted from us. On the first and third views the phrase of sorcery attaches to the verb compelled; on the negative view it attaches to our sins. At-Tabari, Ibn Kathir, as-Sa'di and al-Muyassar, in the texts read here, all explain the clause as Pharaoh's compulsion.",
+            "bn": "কুরতুবী তৃতীয় একটি বিশ্লেষণও লিখে রাখেন। 'মা' এখানে উদ্দেশ্য, আর তার বিধেয় উহ্য রাখা হয়েছে। অর্থ দাঁড়ায়: আর জাদুর যে কাজে তুমি আমাদের বাধ্য করেছিলে, তার দায় আমাদের থেকে তুলে নেওয়া হয়েছে। প্রথম ও তৃতীয় মতে 'জাদুর' কথাটা যুক্ত 'বাধ্য করেছিলে' ক্রিয়ার সঙ্গে, আর না-বাচক মতে যুক্ত 'আমাদের গুনাহ' শব্দের সঙ্গে। এখানে পড়া লেখাগুলোতে তাবারী, ইবন কাসীর, সা'দী আর মুয়াসসার সবাই অংশটিকে ব্যাখ্যা করেছেন ফেরাউনের বাধ্য করা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Pharaoh Claimed",
+          "bn": "ফেরাউনের দাবি করা শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-llahu khayrun wa abqa: and Allah is better, and more lasting. Al-Qurtubi, al-Baghawi and as-Sa'di all read it as the reply to Pharaoh's boast in 20:71, you will surely know which of us is more severe in punishment and more lasting. As-Sa'di says Pharaoh meant himself by it. He had taken the word abqa, more lasting, for his own cruelty. The sorcerers hand the same word back and give it to Allah.",
+            "bn": "ওয়াল্লাহু খাইরুন ওয়া আবকা: আর আল্লাহই উত্তম, আর তিনিই বেশি স্থায়ী। কুরতুবী, বাগাভী আর সা'দী তিনজনই এটাকে ২০:৭১ আয়াতে ফেরাউনের দম্ভের জবাব হিসেবে পড়েন। সেখানে সে বলেছিল, তোমরা অবশ্যই জানতে পারবে, আমাদের মধ্যে কার শাস্তি বেশি কঠিন আর বেশি স্থায়ী। সা'দী বলেন, এ কথায় ফেরাউন বোঝাতে চেয়েছিল নিজেকেই। আবকা, বেশি স্থায়ী, শব্দটা সে নিজের নিষ্ঠুরতার জন্য দাবি করেছিল। জাদুকরেরা সেই শব্দটাই তাকে ফিরিয়ে দেয়, আর তুলে দেয় আল্লাহর জন্য।"
+          },
+          {
+            "en": "What is it that lasts? One group reads abqa as reward. Al-Qurtubi records from Ibn 'Abbas that the sense is His reward is better and more lasting, with the word reward left unsaid. Ibn Kathir explains it as better for us than you, and more lasting in reward than what you promised us and made us hope for, and names this as a narration from Ibn Ishaq. As-Sa'di reads it the same way: better than the wage, rank and standing you promised us, and more lasting in reward and kindness.",
+            "bn": "স্থায়ী কোনটা? এক দলের মতে আবকা মানে প্রতিদান। কুরতুবী ইবন আব্বাস থেকে আনেন, অর্থ হল: তাঁর প্রতিদানই উত্তম ও বেশি স্থায়ী, আর 'প্রতিদান' শব্দটা উহ্য। ইবন কাসীর ব্যাখ্যা করেন: তোমার চেয়ে তিনিই আমাদের জন্য উত্তম, আর তুমি যে প্রতিদানের ওয়াদা করেছিলে, যার আশা দেখিয়েছিলে, তার চেয়ে তাঁর প্রতিদান বেশি স্থায়ী। তিনি জানান, এটা ইবন ইসহাক থেকে একটি বর্ণনা। সা'দীও একইভাবে পড়েন: তুমি যে পারিশ্রমিক, পদমর্যাদা আর প্রভাবের ওয়াদা করেছিলে, তার চেয়ে তিনি উত্তম, আর তাঁর প্রতিদান ও অনুগ্রহ বেশি স্থায়ী।"
+          },
+          {
+            "en": "Another group reads it as punishment. Muhammad ibn Ka'b al-Qurazi, cited by Ibn Kathir and al-Baghawi, and by at-Tabari together with Muhammad ibn Qays, said: better than you if He is obeyed, and more lasting than you in punishment if He is disobeyed. At-Tabari's own words and al-Muyassar's match it: better than you, Pharaoh, in reward for whoever obeys Him, and more lasting in punishment for whoever defies Him. At-Tabari and al-Baghawi give Ibn Ishaq this second sense, and Ibn Kathir notes that something like it is reported from him too.",
+            "bn": "আরেক দলের মতে এটা শাস্তি। মুহাম্মাদ ইবন কা'ব কুরাযীর কথা ইবন কাসীর আর বাগাভী এনেছেন, আর তাবারী এনেছেন মুহাম্মাদ ইবন কায়সের সঙ্গে মিলিয়ে: তাঁর আনুগত্য করলে তিনি তোমার চেয়ে উত্তম, আর তাঁর নাফরমানি করলে তাঁর শাস্তি তোমার চেয়ে বেশি স্থায়ী। তাবারীর নিজের কথা আর মুয়াসসারের কথা এর সঙ্গে মেলে: হে ফেরাউন, যে তাঁর আনুগত্য করে, তাকে প্রতিদান দেওয়ায় তিনি তোমার চেয়ে উত্তম, আর যে তাঁর হুকুম অমান্য করে, তার শাস্তিতে তিনি বেশি স্থায়ী। তাবারী ও বাগাভী ইবন ইসহাকের নামে এই দ্বিতীয় অর্থটিই দেন, আর ইবন কাসীর জানান, এর কাছাকাছি কথা তাঁর থেকেও বর্ণিত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Islam Wipes the Slate",
+          "bn": "ইসলাম যখন অতীত মুছে দেয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read here attaches a hadith of the Prophet ﷺ to this verse. A general narration, not tied to it, speaks to the same hope. In Sahih Muslim 121, 'Amr ibn al-'As (RA), near death, recalls coming to pledge allegiance, withdrawing his hand, and asking as his condition that he be forgiven. The Prophet ﷺ said: \"Are you not aware of the fact that Islam wipes out all the previous (misdeeds)? Verily migration wipes out all the previous (misdeeds), and verily the pilgrimage wipes out all the (previous) misdeeds.\" Muslim placed it in his Sahih.",
+            "bn": "এখানে পড়া কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই আশার কথা বলে। সহীহ মুসলিমের ১২১ নম্বর হাদীসে আমর ইবনুল আস (রাঃ) মৃত্যুশয্যায় স্মরণ করেন, তিনি বাইআত দিতে এসে হাত টেনে নিয়েছিলেন, আর শর্ত দিয়েছিলেন যে তাঁকে মাফ করতে হবে। নবী ﷺ বললেন: \"তুমি কি জানো না, ইসলাম তার আগের সবকিছু মুছে দেয়? হিজরত তার আগের সবকিছু মুছে দেয়, আর হজ তার আগের সবকিছু মুছে দেয়।\" ইমাম মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiveness Asked Under Pressure",
+          "bn": "চাপের মুখে মাগফিরাত চাওয়া"
+        },
+        "p": [
+          {
+            "en": "One thing should be said plainly. The verse describes what Pharaoh did to these men and what they said back to him. It licenses nothing against any living person or community: it names no one today as a Pharaoh, and gives no one leave to treat a former wrongdoer as beyond return. The Qur'an keeps the sorcerers' words with honour. They had served falsehood, and they turned from it in full view, at the moment it was most dangerous to do so.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। ফেরাউন এই লোকদের সঙ্গে কী করেছিল আর তারা তাকে কী জবাব দিয়েছিল, আয়াতটি তারই বর্ণনা দেয়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কাউকে এটি ফেরাউন বলে চিহ্নিত করে না, আর অতীতে অন্যায় করা কাউকে ফেরার অযোগ্য ভাবারও সুযোগ দেয় না। কুরআন জাদুকরদের কথাগুলো সম্মানের সঙ্গে সংরক্ষণ করেছে। তারা মিথ্যার সেবা করেছিল, আর তা থেকে ফিরে এসেছে সবার চোখের সামনে, ঠিক সেই মুহূর্তে, যখন ফিরে আসাটা ছিল সবচেয়ে বিপজ্জনক।"
+          },
+          {
+            "en": "What they leave us is a way to speak about our own past. They named their sin and named who had pushed them into it, yet the naming was never an excuse; it went straight into a request for forgiveness. And when a powerful man set his reward and his punishment before them, they measured both against the One who is better and outlasts him. Every promise and every threat that bends us can be weighed on the same scale.",
+            "bn": "নিজের অতীত নিয়ে কীভাবে কথা বলতে হয়, তারা আমাদের সেটা দেখিয়ে যায়। নিজেদের গুনাহের নাম তারা নিয়েছে, কে ঠেলে দিয়েছিল তারও নাম নিয়েছে। তবু নাম নেওয়াটা কখনো অজুহাত হয়নি, সোজা গিয়ে মিশেছে মাগফিরাতের দোয়ায়। আর এক ক্ষমতাবান মানুষ যখন তার পুরস্কার আর শাস্তি তাদের সামনে রাখল, তারা দুটোকেই মেপেছে তাঁর সঙ্গে, যিনি উত্তম এবং যিনি তাকে ছাড়িয়ে টিকে থাকেন। যে লোভ আর যে ভয় আমাদের বাঁকিয়ে দেয়, সেগুলোকেও একই দাঁড়িপাল্লায় মাপা যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "20:82": {
     "sections": [
       {

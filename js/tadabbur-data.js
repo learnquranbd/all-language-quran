@@ -23191,6 +23191,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a question is thrown to draw you off the point, answer briefly with the truth, leave to Allah what only He knows, and return to what the listener must decide.",
     "lessonBn": "মূল কথা থেকে সরিয়ে নেওয়ার জন্য প্রশ্ন ছোড়া হলে সংক্ষেপে সত্যটা বলুন, যা কেবল আল্লাহ জানেন তা তাঁর হাতে ছেড়ে দিন, আর ফিরে আসুন সেই কথায় যার ফয়সালা শ্রোতাকে করতে হবে।"
+  },
+  "20:73": {
+    "reflectionEn": "A few hours earlier these men were working for Pharaoh. Now, with his threats still in the air, they tell him what their faith is for: that their Lord forgive them their sins, and the sorcery he forced them into. They do not pretend the past was clean. They name it, and they name who pushed them into it, yet they ask forgiveness for it all the same. Then they answer his boast about whose punishment lasts longer: Allah is better, and more lasting. What did I do under pressure that I still need to bring to Allah? And when a powerful person makes me promises or threats, do I remember who outlasts them?",
+    "reflectionBn": "কয়েক ঘণ্টা আগেও এই লোকগুলো ফেরাউনের হয়ে কাজ করছিল। এখন তার হুমকি তখনো বাতাসে ভাসছে, আর তারা তাকে জানিয়ে দিচ্ছে তাদের ঈমানের উদ্দেশ্য কী: তাদের রব যেন তাদের গুনাহ মাফ করেন, আর মাফ করেন সেই জাদুও, যা করতে ফেরাউন তাদের বাধ্য করেছিল। অতীতকে তারা পরিষ্কার বলে চালায়নি। গুনাহের নাম নিয়েছে, কে ঠেলে দিয়েছিল তারও নাম নিয়েছে, তবু পুরোটার জন্যই মাফ চেয়েছে। তারপর কার শাস্তি বেশি স্থায়ী, ফেরাউনের সেই দম্ভের জবাব দিয়েছে: আল্লাহই উত্তম, আর তিনিই বেশি স্থায়ী। চাপে পড়ে আমি এমন কী করেছি, যা এখনো আল্লাহর কাছে নিয়ে যাওয়া বাকি? আর কোনো ক্ষমতাবান যখন লোভ দেখায় বা ভয় দেখায়, তখন কি মনে থাকে কে তাকে ছাড়িয়ে টিকে থাকবেন?",
+    "pointsEn": [
+      "Is there something I did because someone pressed me into it that I have excused myself for instead of asking Allah to forgive?",
+      "When I say why I believe, is forgiveness anywhere in my answer?",
+      "Whose promise of reward or threat of loss has been steering my choices lately, and how long will that person last?",
+      "Can I name a past wrong honestly, including who pushed me, without using that name to shrug off my part?",
+      "What would it take for me to say, about something I fear losing, that what is with Allah is better and lasts longer?"
+    ],
+    "pointsBn": [
+      "কারও চাপে পড়ে এমন কিছু কি করেছি, যার জন্য আল্লাহর কাছে মাফ না চেয়ে নিজেই নিজেকে রেহাই দিয়ে রেখেছি?",
+      "আমি কেন ঈমান রাখি, এ প্রশ্নের জবাবে কি মাগফিরাতের কথা কোথাও আসে?",
+      "ইদানীং কার দেওয়া লোভ বা কার দেখানো ভয় আমার সিদ্ধান্তগুলো চালাচ্ছে? আর সেই মানুষটা কতদিন টিকবে?",
+      "কে আমাকে ঠেলে দিয়েছিল, সেটা সহ অতীতের কোনো অন্যায় কি সৎভাবে স্বীকার করতে পারি, তার নাম ঢাল বানিয়ে নিজের দায় না এড়িয়ে?",
+      "যা হারানোর ভয় পাই, তার ব্যাপারে 'আল্লাহর কাছে যা আছে তা-ই উত্তম ও বেশি স্থায়ী' বলতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Name your past wrongs honestly, even those others pushed you into, and ask forgiveness for them; then weigh every promise and threat against the One who is better and lasts.",
+    "lessonBn": "অতীতের অন্যায়গুলোর নাম সৎভাবে নিন, অন্যের চাপে করা অন্যায়ও, আর সেগুলোর জন্য মাফ চান। তারপর প্রতিটি লোভ আর ভয়কে মাপুন তাঁর সামনে, যিনি উত্তম এবং চিরস্থায়ী।"
   }
 };
 
