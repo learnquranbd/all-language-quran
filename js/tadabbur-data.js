@@ -21611,6 +21611,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the arguing is over, the work begins. Do the task you were given as you were taught it, knowing you are watched, and leave the verdict on others to Allah.",
     "lessonBn": "তর্ক যখন শেষ, তখন কাজের শুরু। যে কাজ দেওয়া হয়েছে, যেভাবে শেখানো হয়েছে সেভাবেই করুন, জেনে রাখুন আপনাকে দেখা হচ্ছে, আর অন্যদের রায় আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "11:52": {
+    "reflectionEn": "Hud (AS) has already told his people to worship Allah alone, and that he wants no wage from them. Now he names what they stand to gain. Ask your Lord to cover what is past, then turn back to Him, and He will send the sky down on you in rain that follows rain, and add strength to the strength you already have. He is speaking to a people proud of their power, and he does not tell them to give it up. He tells them where it came from and how it grows. Then he warns them not to turn their backs as wrongdoers. What would I ask for, if I believed that forgiveness opens the sky? And which of my strengths have I quietly counted as my own?",
+    "reflectionBn": "হূদ (আঃ) আগেই তাঁর জাতিকে বলে দিয়েছেন, একমাত্র আল্লাহর ইবাদত করো, আর তিনি তাদের কাছে কোনো পারিশ্রমিক চান না। এবার তিনি জানাচ্ছেন, তাদের লাভটা কোথায়। অতীতের জন্য তোমাদের রবের কাছে মাফ চাও, তারপর তাঁর দিকে ফিরে এসো। তিনি আকাশ থেকে একের পর এক বৃষ্টি পাঠাবেন, আর তোমাদের যে শক্তি আছে, তার সঙ্গে আরও শক্তি জুড়ে দেবেন। যাদের সামনে তিনি কথা বলছেন, তারা নিজেদের ক্ষমতা নিয়ে গর্ব করত। তিনি সেই ক্ষমতা ছেড়ে দিতে বলেননি। বলেছেন, এটা এসেছে কোথা থেকে, আর বাড়ে কীভাবে। শেষে সাবধান করেছেন, অপরাধী হয়ে মুখ ফিরিয়ে নিয়ো না। মাগফিরাত আকাশের দরজা খোলে, এ কথা সত্যিই বিশ্বাস করলে আমি কী চাইতাম? আর আমার কোন শক্তিকে আমি চুপচাপ নিজের কামাই বলে ধরে নিয়েছি?",
+    "pointsEn": [
+      "Which old fault have I never asked forgiveness for, because I decided long ago that it no longer mattered?",
+      "Is my repentance a sentence I said once, or a direction I keep walking in after the words are over?",
+      "What strength do I lean on most, my health, my earnings or my people, and when did I last thank the One who gave it?",
+      "When a dry season comes into my own life, do I first look for someone to blame, or first for something to ask forgiveness for, without passing that verdict on anyone else's hardship?",
+      "Have I turned my back on advice I knew was true, only because of who brought it to me?"
+    ],
+    "pointsBn": [
+      "কোন পুরোনো ভুলের জন্য আমি কখনো মাফ চাইনি, কারণ অনেক আগেই ধরে নিয়েছি ওটার আর কোনো গুরুত্ব নেই?",
+      "আমার তওবা কি একবার মুখে বলা একটা বাক্য, নাকি এমন এক পথ, কথা শেষ হওয়ার পরও যে পথে আমি হাঁটতে থাকি?",
+      "স্বাস্থ্য, রোজগার, নাকি আপনজন, কোন শক্তির উপর আমি সবচেয়ে বেশি ভর দিই? যিনি তা দিয়েছেন, শেষ কবে তাঁর শুকরিয়া আদায় করেছি?",
+      "নিজের জীবনে খরার সময় এলে আমি আগে কাউকে দোষ দেওয়ার লোক খুঁজি, নাকি আগে খুঁজি কোন গুনাহের জন্য ইস্তিগফার করব? আর অন্যের কষ্ট দেখে কি সেই রায় তার উপর চাপানো থেকে নিজেকে বিরত রাখি?",
+      "কোনো সত্য উপদেশ কি আমি শুধু এই কারণে ফিরিয়ে দিয়েছি যে, কথাটা কে এনেছে তা আমার পছন্দ হয়নি?"
+    ],
+    "lessonEn": "Ask cover for what is past and turn back for what remains. Hud (AS) offered a proud people more rain and more strength by that road, not by giving up what they had.",
+    "lessonBn": "অতীতের জন্য মাফ চান, সামনের জন্য ফিরে আসুন। হূদ (আঃ) এক অহংকারী জাতিকে এই পথেই আরও বৃষ্টি আর আরও শক্তির কথা দিয়েছিলেন, যা আছে তা ছেড়ে দেওয়ার শর্তে নয়।"
   }
 };
 

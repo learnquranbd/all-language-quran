@@ -2055,6 +2055,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "Hud's Third Appeal",
+          "bn": "হূদ (আঃ)-এর তৃতীয় ডাক"
+        },
+        "p": [
+          {
+            "en": "The account of Aad in Surah Hud runs from 11:50 to 11:60, and Hud (AS) opens three sentences in a row with ya qawmi, O my people. In 11:50 he calls them to worship Allah alone and calls their gods an invention. In 11:51 he asks no wage for the message and asks whether they will not reason. Our verse begins wa ya qawmi, with an and that keeps the speech moving, and turns from what he asks of them to what they stand to gain.",
+            "bn": "সূরা হূদে আদ জাতির কাহিনি চলেছে ১১:৫০ থেকে ১১:৬০ আয়াত পর্যন্ত। পরপর তিনটি বাক্য হূদ (আঃ) শুরু করেন ইয়া কাওমি, হে আমার সম্প্রদায় বলে। ১১:৫০ আয়াতে তিনি তাদের ডাকেন একমাত্র আল্লাহর ইবাদতের দিকে, আর বলেন, তোমাদের উপাস্যগুলো বানানো জিনিস। ১১:৫১ আয়াতে জানান, এই দাওয়াতের জন্য তিনি কোনো পারিশ্রমিক চান না, তোমরা কি বুঝবে না? আমাদের আয়াত শুরু হয় ওয়া ইয়া কাওমি দিয়ে। শুরুর ওই ওয়া কথার ধারা টেনে নিয়ে যায়। এবার আলোচনা ঘুরে যায় তিনি কী চান তা থেকে, তারা কী পাবে সেদিকে।"
+          },
+          {
+            "en": "Al-Qurtubi, reaching this verse, pauses on who was listening. The people of Hud, meaning Aad, were people of orchards, crops and settled building, he says, and their dwellings were the sands between Syria and Yemen, as he had already explained under Surah al-A'raf. People who live by their fields hear a promise of rain as a promise about their living. None of the tafsirs fetched for this verse reports an occasion of revelation. The verse is part of a narrated story, and its setting is the story itself.",
+            "bn": "এই আয়াতে এসে কুরতুবী একটু থামেন, শ্রোতারা কারা ছিল তা দেখাতে। তিনি বলেন, হূদের জাতি, অর্থাৎ আদ, ছিল বাগান, ফসল আর স্থায়ী বসতির মানুষ। তাদের বাস ছিল শাম আর ইয়েমেনের মাঝের বালুকাময় অঞ্চলে, যা তিনি সূরা আরাফে আগেই বলে এসেছেন। যাদের জীবিকা মাঠের ফসলে, বৃষ্টির প্রতিশ্রুতি তাদের কানে রুটিরুজির প্রতিশ্রুতি হয়েই পৌঁছায়। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিতে নাযিলের কোনো উপলক্ষ নেই। আয়াতটি একটি বর্ণিত কাহিনির অংশ, আর কাহিনিটিই তার প্রেক্ষাপট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Commands, Two Answers",
+          "bn": "দুই আদেশ, দুই জবাব"
+        },
+        "p": [
+          {
+            "en": "Without its recitation marks the verse runs to seventeen Arabic words, and its shape is plain. Two commands come first: istaghfiru rabbakum, ask forgiveness of your Lord, and thumma tubu ilayhi, then turn back to Him. Two promised gifts follow: yursil as-sama'a 'alaykum midraran, He will send the sky upon you in abundance, and yazidkum quwwatan ila quwwatikum, He will add strength to your strength. A prohibition closes it: wa la tatawallaw mujrimin, and do not turn away as wrongdoers.",
+            "bn": "তিলাওয়াতের চিহ্ন বাদ দিলে আয়াতে আরবি শব্দ ১৭টি, আর গড়নটা সরল। প্রথমে দুই আদেশ: ইসতাগফিরু রাব্বাকুম, তোমাদের রবের কাছে মাফ চাও; সুম্মা তূবূ ইলাইহি, তারপর তাঁর দিকে ফিরে এসো। এরপর দুই প্রতিশ্রুতি: ইউরসিলিস সামাআ আলাইকুম মিদরারা, তিনি আকাশ থেকে তোমাদের উপর প্রচুর বর্ষণ পাঠাবেন; আর ইয়াযিদকুম কুওয়াতান ইলা কুওয়াতিকুম, তোমাদের শক্তির সঙ্গে আরও শক্তি জুড়ে দেবেন। শেষে এক নিষেধ: ওয়া লা তাতাওয়াল্লাও মুজরিমীন, অপরাধী হয়ে মুখ ফিরিয়ে নিয়ো না।"
+          },
+          {
+            "en": "Al-Qurtubi explains the grammar that binds the halves. Yursil is in the jussive because it stands as the answer to the command, and he says it carries the sense of recompense: do this, and that follows. Yazidkum is joined to it and shares its case. Midraran is in the accusative as a word of state, and he says it carries the sense of plenty: the sky sends its rain in succession, each fall following the last. On his reading the gifts are the answer the asking receives.",
+            "bn": "দুই অংশকে যে ব্যাকরণ বেঁধে রেখেছে, কুরতুবী তা খুলে বলেন। ইউরসিল জযমযুক্ত, কারণ এটি আদেশের জবাব। তাঁর ভাষায়, এতে প্রতিদানের অর্থ আছে: এটা করো, তাহলে ওটা পাবে। ইয়াযিদকুম এর সঙ্গে যুক্ত, তাই একই অবস্থায় আছে। মিদরারা হাল হিসেবে নসবযুক্ত, আর তিনি বলেন, এতে প্রাচুর্যের অর্থ আছে। আকাশ বৃষ্টি পাঠায় একটানা, এক পশলার পিছে আরেক পশলা। তাঁর পাঠে এই দানগুলো আসলে চাওয়ার জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Cover as Believing",
+          "bn": "ইস্তিগফার মানে ঈমান আনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the first command unexpectedly. Ask forgiveness of your Lord means, he says, believe in Him so that He forgives your sins: istighfar in this place is faith in Allah. His reason is the message itself. Hud (AS) was calling his people to the oneness of Allah so that their sins would be forgiven, just as Nuh (AS) told his people in 71:3 and 71:4 to worship Allah, fear Him and obey him, and He would forgive them and delay them to a named term.",
+            "bn": "প্রথম আদেশটি তাবারী এমনভাবে পড়েন, পাঠক হয়তো যা আশা করেন না। তাঁর মতে, রবের কাছে মাফ চাওয়ার মানে এখানে তাঁর উপর ঈমান আনা, যাতে তিনি তোমাদের গুনাহ মাফ করেন। এই জায়গায় ইস্তিগফার মানেই আল্লাহর উপর ঈমান। কারণটা দাওয়াতের ভেতরেই। হূদ (আঃ) তাঁর জাতিকে ডাকছিলেন আল্লাহর একত্বের দিকে, যেন তাদের গুনাহ মাফ হয়। নূহ (আঃ)-ও তাঁর জাতিকে ঠিক এ কথাই বলেছিলেন ৭১:৩ ও ৭১:৪ আয়াতে: আল্লাহর ইবাদত করো, তাঁকে ভয় করো, আমার আনুগত্য করো; তিনি তোমাদের মাফ করবেন, আর নির্ধারিত সময় পর্যন্ত অবকাশ দেবেন।"
+          },
+          {
+            "en": "Al-Baghawi says the same in fewer words: believe in Him, for istighfar here has the meaning of faith. The second command then follows, as at-Tabari puts it: after believing, turn to Allah from your past sins and from worshipping anything besides Him. On this reading thumma marks a sequence, faith first and then the leaving of what faith forbids. The Muyassar keeps both senses together: seek Allah's forgiveness and faith in Him, then turn to Him from your sins.",
+            "bn": "বাগাভী একই কথা বলেন আরও সংক্ষেপে: তাঁর উপর ঈমান আনো, কারণ এখানে ইস্তিগফারের অর্থ ঈমান। তাবারীর ভাষায়, এরপর আসে দ্বিতীয় আদেশ: ঈমান আনার পর অতীতের গুনাহ আর আল্লাহ ছাড়া অন্য কিছুর ইবাদত থেকে তাঁর দিকে ফিরে এসো। এই পাঠে সুম্মা একটা ক্রম বোঝায়। আগে ঈমান, তারপর ঈমান যা নিষেধ করে তা ছেড়ে দেওয়া। মুয়াসসার দুই অর্থই একসঙ্গে রাখে: আল্লাহর মাগফিরাত চাও, তাঁর উপর ঈমান আনো, তারপর গুনাহ থেকে তাঁর দিকে তওবা করো।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di divide the two verbs by time instead. Ibn Kathir has istighfar expiating the sins that have gone before, and tawbah for what is still to come. As-Sa'di sets the asking against what has passed from you and the turning in what lies ahead, and calls that turning sincere repentance and inaba, a coming back to Allah. Al-Qurtubi does not reopen the question. He notes that the pair was already treated at the start of the surah, in 11:3, where the same two commands appear.",
+            "bn": "ইবন কাসীর আর সা'দী দুই ক্রিয়াকে ভাগ করেন সময় দিয়ে। ইবন কাসীরের মতে, ইস্তিগফার আগের গুনাহের কাফফারা, আর তওবা সামনের জন্য। সা'দী মাফ চাওয়াকে রাখেন যা পেরিয়ে গেছে তার বিপরীতে, আর ফিরে আসাকে রাখেন সামনের দিনগুলোর জন্য। এই ফিরে আসাকে তিনি বলেন খাঁটি তওবা আর আল্লাহর দিকে ইনাবা। কুরতুবী প্রশ্নটা নতুন করে তোলেন না। তিনি শুধু জানান, সূরার শুরুতে ১১:৩ আয়াতে এর আলোচনা হয়ে গেছে, যেখানে একই দুই আদেশ এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sky Sent in Showers",
+          "bn": "আকাশ ঢেলে দেবে বর্ষণ"
+        },
+        "p": [
+          {
+            "en": "Midrar is the word for the rain. At-Tabari brings Ibn 'Abbas (RA) through his chain: its parts follow each other. Ibn Zayd, also in at-Tabari, says it pours down upon them as drops and rain. At-Tabari's own paraphrase widens it to the people's need: if you believe in Allah and turn from your disbelief, He will send the rain of the sky streaming at the time you need it, and your land will come back to life from barrenness and drought.",
+            "bn": "মিদরার শব্দটি বৃষ্টির জন্য। তাবারী সনদসহ ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: এর এক অংশ আরেক অংশের পেছনে আসে। ইবন যায়দও তাবারীর বর্ণনায় বলেন, তাদের উপর ফোঁটায় ফোঁটায় বৃষ্টি ঝরবে। তাবারী নিজের ব্যাখ্যায় বিষয়টা মানুষের প্রয়োজনের সঙ্গে জুড়ে দেন। তোমরা যদি আল্লাহর উপর ঈমান আনো আর কুফরি থেকে তওবা করো, তিনি দরকারের সময়ে আকাশের বৃষ্টি অঝোরে পাঠাবেন। আর অনাবৃষ্টি ও দুর্ভিক্ষের পর তোমাদের দেশ আবার প্রাণ ফিরে পাবে।"
+          },
+          {
+            "en": "Al-Baghawi has rain in succession, time after time, in the seasons of need, and as-Sa'di has abundant rain by which the land turns fertile and its good multiplies. Al-Qurtubi adds a note on the word's form. The pattern mif'al, he says, mostly comes from the fourth form of the verb, but here it comes from the plain verb: darrat as-sama'u, the sky poured. He adds that the Arabs drop the feminine ha from words on the mif'al pattern.",
+            "bn": "বাগাভী বলেন, প্রয়োজনের সময়ে বারবার, একের পর এক বৃষ্টি। সা'দী বলেন, এমন প্রচুর বৃষ্টি, যাতে জমি উর্বর হয় আর তার কল্যাণ বেড়ে যায়। কুরতুবী শব্দটির গঠন নিয়েও কথা বলেন। তাঁর মতে মিফআল ওজনের শব্দ সাধারণত আসে ক্রিয়ার চতুর্থ রূপ থেকে, কিন্তু এখানে এসেছে মূল ক্রিয়া থেকে: দাররাতিস সামাউ, আকাশ ঢেলে দিল। তিনি আরও বলেন, মিফআল ওজনের শব্দে আরবরা স্ত্রীলিঙ্গের হা বাদ দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Strength Is Promised",
+          "bn": "কোন শক্তির প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "What strength is meant? Al-Qurtubi lays the readings out in a single run. Mujahid: firmness upon your firmness, a gloss at-Tabari also brings, through several chains. Ad-Dahhak: fertility upon your fertility. 'Ali ibn 'Isa: honour upon your honour. 'Ikrimah: children upon your children. Az-Zajjaj: He will increase you in strength within His blessings. Al-Qurtubi sets these side by side and does not rank them, so the word is left as wide as the readings that fill it.",
+            "bn": "কোন শক্তির কথা বলা হচ্ছে? কুরতুবী ব্যাখ্যাগুলো এক টানে সাজিয়ে দেন। মুজাহিদ: তোমাদের দৃঢ়তার উপর আরও দৃঢ়তা। তাবারীও কয়েকটি সনদে এই ব্যাখ্যা আনেন। দাহহাক: তোমাদের উর্বরতার উপর আরও উর্বরতা। আলী ইবন ঈসা: সম্মানের উপর আরও সম্মান। ইকরিমা: সন্তানের উপর আরও সন্তান। যাজ্জাজ: তিনি নিয়ামতের মধ্যে তোমাদের শক্তি বাড়াবেন। কুরতুবী এগুলো পাশাপাশি রাখেন, কোনোটাকে আগে-পিছে করেন না। ফলে শব্দটা ততটাই প্রশস্ত থাকে, যতটা এই ব্যাখ্যাগুলো তাকে ভরে দেয়।"
+          },
+          {
+            "en": "Others choose. The Muyassar ties the strength to many descendants and blessings arriving in succession. Al-Baghawi gives firmness with your firmness, then records a further view under qila, it is said: strength in religion added to strength of body. At-Tabari brings Ibn Zayd: Allah had already given them strength, and had they obeyed Hud (AS), He would have added strength to their strength. That gloss treats what they already had as His gift before it says anything about more.",
+            "bn": "অন্যরা একটি অর্থ বেছে নেন। মুয়াসসার শক্তিকে জুড়ে দেয় বংশধরের আধিক্য আর একের পর এক নিয়ামতের সঙ্গে। বাগাভী বলেন, তোমাদের দৃঢ়তার সঙ্গে আরও দৃঢ়তা। তারপর 'কীলা', অর্থাৎ বলা হয়, দিয়ে আরেকটি মত আনেন: শরীরের শক্তির সঙ্গে দ্বীনের শক্তি। তাবারী আনেন ইবন যায়দের কথা: আল্লাহ তাদের আগেই শক্তি দিয়েছিলেন। তারা হূদ (আঃ)-এর কথা মানলে তিনি সেই শক্তির উপর আরও শক্তি দিতেন। এ ব্যাখ্যা আরও কিছুর কথা বলার আগেই মনে করিয়ে দেয়, যা তাদের হাতে ছিল তা-ও তাঁরই দান।"
+          },
+          {
+            "en": "As-Sa'di turns to what the people themselves said. They were among the strongest of people, he writes, which is why they said: who is greater than us in strength? The words are in 41:15, and the same verse answers them: did they not see that Allah, who created them, was greater than them in strength? Read beside that, Hud's offer speaks to the very thing they were proud of. It does not ask them to surrender their power. It tells them where more would come from.",
+            "bn": "সা'দী নজর দেন আদ জাতির নিজেদের কথার দিকে। তিনি লেখেন, তারা ছিল মানুষের মধ্যে সবচেয়ে শক্তিশালীদের দলে। তাই তারা বলেছিল, আমাদের চেয়ে শক্তিতে বড় কে? কথাটা আছে ৪১:১৫ আয়াতে, আর সেখানেই তার জবাব: তারা কি দেখেনি, যে আল্লাহ তাদের সৃষ্টি করেছেন, তিনি শক্তিতে তাদের চেয়ে বড়? এর পাশে রাখলে বোঝা যায়, হূদ (আঃ)-এর প্রস্তাব ঠিক সেই জিনিসটাকে ছুঁয়েছে, যা নিয়ে তাদের গর্ব। ক্ষমতা ছেড়ে দিতে তিনি বলেননি। বলেছেন, আরও ক্ষমতা আসবে কোথা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Barren Years, as Reported",
+          "bn": "খরার বছরগুলোর বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Several commentators report that the promise answered a hardship already upon Aad, and they report it with different degrees of confidence. Al-Baghawi states it as the reason: Allah had held back the rain from them for three years and made their women's wombs barren. So Hud (AS) told them that if they believed, Allah would send the rain, their wealth would grow and the wombs would return to how they had been, and they would gain strength through wealth and children.",
+            "bn": "কয়েকজন তাফসীরকার জানান, এই প্রতিশ্রুতি এসেছিল এমন এক কষ্টের মধ্যে, যা আদ জাতির উপর আগে থেকেই চেপে ছিল। তবে সবাই সমান নিশ্চয়তা নিয়ে কথাটা বলেন না। বাগাভী একে সরাসরি কারণ হিসেবে বলেন: আল্লাহ তিনটি বছর তাদের বৃষ্টি বন্ধ রেখেছিলেন, আর তাদের নারীদের গর্ভ বন্ধ্যা করে দিয়েছিলেন। তাই হূদ (আঃ) তাদের বললেন, তোমরা ঈমান আনলে আল্লাহ বৃষ্টি পাঠাবেন, তোমাদের সম্পদ বাড়বে, গর্ভ আগের অবস্থায় ফিরবে। আর সম্পদ ও সন্তানে তোমাদের শক্তি বাড়বে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same account under qila, it is said: rain withheld and wombs made barren for three years, with no child born to them, and Hud's promise of revived land, wealth and children, which is that strength. In at-Tabari the report comes inside Ibn Zayd's narration, opened with dhukira lana, it was mentioned to us: offspring had been cut off from them for years. None of the three names who first reported it. It is a report about the story, carried with its own label, and this article keeps the label.",
+            "bn": "কুরতুবী একই বর্ণনা আনেন 'কীলা', অর্থাৎ বলা হয়, দিয়ে: তিন বছর বৃষ্টি বন্ধ, গর্ভ বন্ধ্যা, তাদের ঘরে কোনো সন্তান জন্মায়নি। তখন হূদ (আঃ) কথা দিলেন, দেশ আবার প্রাণ পাবে, সম্পদ আর সন্তান আসবে, আর এটাই সেই শক্তি। তাবারীতে কথাটা এসেছে ইবন যায়দের বর্ণনার ভেতরে, 'যুকিরা লানা', অর্থাৎ আমাদের কাছে উল্লেখ করা হয়েছে, বলে: কয়েক বছর ধরে তাদের বংশধারা বন্ধ ছিল। প্রথম কে এটা বর্ণনা করেছেন, এ তিনজনের কেউই তা জানান না। এটি কাহিনি সম্পর্কে একটি বর্ণনা, নিজের পরিচয়-চিহ্ন নিয়েই এসেছে, আর এই লেখাও সেই চিহ্ন বহাল রাখছে।"
+          },
+          {
+            "en": "It also needs saying plainly. The verse describes what it describes: a people of the past, the call made to them and, in 11:59 and 11:60, their rejection and its end, as the Qur'an reports it. It licenses nothing against any living person or community. The report of drought and childlessness among Aad gives no one the right to read a neighbour's dry fields, thin purse or childless home as proof of unforgiven sin. Hud (AS) said this to his own people, as an invitation.",
+            "bn": "কথাটা সোজাসুজি বলে রাখা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: অতীতের এক জাতি, তাদের প্রতি দাওয়াত, আর ১১:৫৯ ও ১১:৬০ আয়াতে তাদের অস্বীকার ও পরিণতি, যেমনটা কুরআন জানায়। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আদ জাতির খরা আর নিঃসন্তান থাকার বর্ণনা কাউকে এই অধিকার দেয় না যে, প্রতিবেশীর শুকনো মাঠ, টানাটানির সংসার বা সন্তানহীন ঘর দেখে সে বলবে, এ হলো মাফ না হওয়া গুনাহের প্রমাণ। হূদ (আঃ) এ কথা বলেছিলেন নিজের জাতিকে, দাওয়াত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Backs Turned, Guilt Kept",
+          "bn": "পিঠ ফেরানো, অপরাধে অটল"
+        },
+        "p": [
+          {
+            "en": "The last clause is a prohibition with a state attached: do not turn away, mujrimin, as wrongdoers. At-Tabari reads it as do not turn your backs on what I call you to, the oneness of Allah and disowning the idols, and glosses mujrimin as disbelievers in Allah. Al-Baghawi has do not turn back as those who associate partners with Him. Al-Qurtubi has do not turn from what I call you to while staying on disbelief, and the Muyassar, while persisting in your crimes.",
+            "bn": "শেষ অংশটি এক নিষেধ, যার সঙ্গে জুড়ে আছে একটি অবস্থা: মুখ ফিরিয়ে নিয়ো না, মুজরিমীন, অপরাধী হয়ে। তাবারীর ব্যাখ্যা: আমি যে দিকে ডাকছি, আল্লাহর একত্ব আর মূর্তি থেকে সম্পর্কছেদ, তা থেকে পিঠ ফিরিয়ো না। মুজরিমীন অর্থ তাঁর কাছে আল্লাহকে অস্বীকারকারী। বাগাভী বলেন, শিরককারী হয়ে পিছু ফিরো না। কুরতুবীর ভাষায়, আমার দাওয়াত থেকে মুখ ফিরিয়ে কুফরিতে অটল থেকো না। মুয়াসসার বলে, নিজেদের অপরাধে জেদ ধরে থেকো না।"
+          },
+          {
+            "en": "As-Sa'di reads the crime through its posture: arrogant towards His worship, bold against what He has forbidden. The surah then gives the answer they made. In 11:53 they say he has brought them no clear proof and that they will not leave their gods on his word. Hud (AS) takes the verb up again in 11:57: if you turn away, I have delivered what I was sent with.",
+            "bn": "সা'দী অপরাধটাকে দেখেন তার ভঙ্গি দিয়ে: তাঁর ইবাদতের ব্যাপারে অহংকারী, তাঁর নিষেধের ব্যাপারে দুঃসাহসী। এরপর সূরা জানায় তারা কী জবাব দিয়েছিল। ১১:৫৩ আয়াতে তারা বলে, তুমি কোনো স্পষ্ট প্রমাণ আনোনি, আর তোমার কথায় আমরা আমাদের উপাস্য ছাড়ব না। ১১:৫৭ আয়াতে হূদ (আঃ) একই ক্রিয়া আবার তোলেন: তোমরা মুখ ফিরিয়ে নিলেও, যা দিয়ে আমাকে পাঠানো হয়েছে, তা আমি পৌঁছে দিয়েছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration Ibn Kathir Brings",
+          "bn": "ইবন কাসীরের আনা হাদীস"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws a general rule from the verse. Whoever takes on this quality, he says, Allah makes his provision easy, his affair smooth, and guards his state and his strength, which is why the verse promises rain, and he cites 71:11 beside it. He then brings a hadith on holding fast to istighfar, without naming its collector or giving its chain. None of the other tafsirs fetched for this verse attaches a prophetic narration to it.",
+            "bn": "ইবন কাসীর আয়াত থেকে একটি সাধারণ নিয়ম টানেন। তিনি বলেন, যে এই গুণ ধারণ করে, আল্লাহ তার রিযিক সহজ করেন, তার কাজ সহজ করে দেন, তার অবস্থা ও শক্তি রক্ষা করেন। এজন্যই আয়াতে বৃষ্টির প্রতিশ্রুতি, আর এর পাশে তিনি ৭১:১১ আয়াত উল্লেখ করেন। তারপর ইস্তিগফার আঁকড়ে থাকা নিয়ে একটি হাদীস আনেন, সংকলকের নাম বা সনদ না জানিয়েই। এ আয়াতের জন্য আনা অন্য কোনো তাফসীর এর সঙ্গে নবীজির কোনো হাদীস জুড়ে দেয়নি।"
+          },
+          {
+            "en": "The wording as Abu Dawud records it, hadith 1518 in the Dar-us-Salam numbering, from 'Abdullah ibn 'Abbas (RA): The Prophet ﷺ said: If anyone continually asks pardon, Allah will appoint for him a way out of every distress, and a relief from every anxiety, and will provide for him from where he did not reckon. Ibn Majah records it at 3819, his chain also running through al-Walid ibn Muslim and al-Hakam ibn Mus'ab. Neither page we fetched shows a grading, and this article adds none. The narration speaks of istighfar in general and was not narrated about this verse.",
+            "bn": "আবু দাউদের বর্ণনায়, দারুস সালাম নম্বর অনুযায়ী হাদীস ১৫১৮, আবদুল্লাহ ইবন আব্বাস (রাঃ) থেকে: নবী ﷺ বলেছেন, যে ব্যক্তি সবসময় ইস্তিগফার করে, আল্লাহ তার জন্য প্রতিটি সংকট থেকে বের হওয়ার পথ করে দেন, প্রতিটি দুশ্চিন্তা থেকে মুক্তি দেন, আর এমন জায়গা থেকে রিযিক দেন, যা সে কল্পনাও করেনি। ইবন মাজাহ এটি এনেছেন ৩৮১৯ নম্বরে, তাঁর সনদও ওয়ালীদ ইবন মুসলিম ও হাকাম ইবন মুসআবের মধ্য দিয়ে গেছে। আমরা যে দুটি পাতা দেখেছি, তার কোনোটিতে মান নির্ণয় নেই, আর এই লেখাও কোনো মান যোগ করছে না। হাদীসটি সাধারণভাবে ইস্তিগফারের কথা বলে, এ আয়াত প্রসঙ্গে বর্ণিত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking, Then Walking Back",
+          "bn": "চাওয়া, তারপর ফিরে চলা"
+        },
+        "p": [
+          {
+            "en": "Take what the commentators share before they divide. Every reading joins the asking to a turning, and none lets either stand alone. On the line of Ibn Kathir and as-Sa'di that means two acts a person can actually do: name what is past and ask that it be covered, then decide what changes from here. The strength clause asks something too. Ibn Zayd's gloss, that Allah had given them strength before offering more, invites a count of what is already in hand: health, skill, family, livelihood.",
+            "bn": "তাফসীরকারেরা যেখানে ভিন্ন হন, তার আগে যেখানে একমত, সেখান থেকে শুরু করা যাক। প্রত্যেক ব্যাখ্যাই চাওয়ার সঙ্গে ফিরে আসাকে জুড়ে রাখে, কোনোটিকে একা দাঁড়াতে দেয় না। ইবন কাসীর ও সা'দীর পথে এর মানে দুটি কাজ, যা মানুষ সত্যিই করতে পারে। যা পেরিয়ে গেছে তার নাম নিয়ে মাফ চাওয়া, তারপর ঠিক করা, এখন থেকে কী বদলাবে। শক্তির অংশটিও কিছু চায়। ইবন যায়দের ব্যাখ্যা, আল্লাহ আরও দেওয়ার আগেই তাদের শক্তি দিয়েছিলেন, আমাদের হাতে যা আছে তা গুনে দেখতে বলে: স্বাস্থ্য, দক্ষতা, পরিবার, রুজি।"
+          },
+          {
+            "en": "No transmitted supplication is tied to this verse in the tafsirs consulted, so this is a prayer in its vocabulary, not a wording from the Sunnah. O Allah, cover what I have done, and I turn back to You for what remains. Send down what I need, add to what You have already given, and keep me from turning away from You. Then some questions to carry: What have I stopped asking forgiveness for? Which strength have I never thanked You for?",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে এ আয়াতের সঙ্গে বর্ণিত কোনো দোয়া নেই। তাই নিচের দোয়াটি আয়াতের শব্দ থেকে নেওয়া, সুন্নাহর কোনো বাণী নয়। হে আল্লাহ, আমি যা করেছি তা ঢেকে দিন, বাকি জীবনের জন্য আমি আপনার দিকে ফিরে আসছি। যা দরকার তা নাযিল করুন, যা দিয়েছেন তার সঙ্গে আরও দিন, আর আপনার থেকে মুখ ফিরিয়ে নেওয়া থেকে আমাকে রক্ষা করুন। সঙ্গে নেওয়ার মতো কয়েকটি প্রশ্ন: কোন গুনাহের জন্য মাফ চাওয়া আমি ছেড়ে দিয়েছি? কোন শক্তির জন্য আপনার শুকরিয়া কখনো আদায় করিনি?"
+          }
+        ]
+      }
+    ]
+  },
   "11:56": {
     "sections": [
       {
