@@ -21051,6 +21051,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Distrust the voice that makes your plans look good and promises you cover; it disowns you at the very moment the cost arrives.",
     "lessonBn": "যে কণ্ঠ আপনার পরিকল্পনাকে সুন্দর করে দেখায় আর আড়াল দেওয়ার আশ্বাস দেয়, তাকে বিশ্বাস করবেন না। ঠিক যখন দাম দেওয়ার সময় আসে, তখনই সে আপনাকে অস্বীকার করে।"
+  },
+  "8:69": {
+    "reflectionEn": "One verse earlier they heard that a great punishment would have touched them for what they took. Then comes this: so eat of what you gained, lawful and good. Hands that had drawn back are told to take, and the thing they were afraid of is called good. Allah does not leave them carrying a weight He has already lifted. Yet the permission comes with a guard on it: fear Allah, because what He allows He allows on His terms. The closing names, Forgiving and Merciful, tell them where the reproach has gone. I know both mistakes here. One is to stay guilty over what Allah has plainly allowed. The other is to treat His forgiveness as a reason to stop asking what He allows.",
+    "reflectionBn": "এক আয়াত আগেই তারা শুনেছিল, যা তারা নিয়েছে তার জন্য মহাশাস্তি তাদের ছুঁয়ে যেত। তারপরই এল এই কথা: যা পেয়েছ তা খাও, বৈধ ও পবিত্র হিসেবে। যে হাত গুটিয়ে নেওয়া হয়েছিল, তাকেই বলা হলো নিতে। যে জিনিস নিয়ে ভয় ছিল, তাকেই বলা হলো পবিত্র। আল্লাহ যে বোঝা নামিয়ে দিয়েছেন, তা তিনি বান্দার কাঁধে রেখে দেন না। তবে অনুমতির সঙ্গে এসেছে এক পাহারা: আল্লাহকে ভয় করো। তিনি যা হালাল করেন, নিজের শর্তেই করেন। শেষের দুই নাম, ক্ষমাশীল ও দয়ালু, জানিয়ে দেয় তিরস্কারটা কোথায় গেল। এখানে দুটো ভুলই আমার চেনা। একটা হলো, আল্লাহ যা স্পষ্ট হালাল করেছেন তা নিয়েও অপরাধবোধে ভোগা। আরেকটা হলো, তাঁর ক্ষমাকে অজুহাত বানিয়ে আর জিজ্ঞেসই না করা, তিনি কী অনুমতি দিয়েছেন।",
+    "pointsEn": [
+      "Is there something Allah has made lawful that I still hold at arm's length, out of a guilt He never asked me to keep?",
+      "When a permission reaches me, do I ask what limits came with it, or only that it came?",
+      "Have I ever acted first and looked for the ruling afterwards, hoping it would agree with what I had already done?",
+      "What do I enjoy every day without remembering that it was not given to everyone before me?",
+      "After I have been corrected and forgiven, do I let the matter close, or keep reopening it?"
+    ],
+    "pointsBn": [
+      "আল্লাহ হালাল করেছেন, অথচ এমন অপরাধবোধ থেকে আমি তা দূরে সরিয়ে রেখেছি, যা বয়ে বেড়াতে তিনি কখনো বলেননি, এমন কিছু কি আছে?",
+      "কোনো অনুমতি পেলে আমি কি জানতে চাই তার সঙ্গে কোন সীমা এসেছে, নাকি শুধু এটুকুই দেখি যে অনুমতি এসেছে?",
+      "আমি কি কখনো আগে কাজটা করে ফেলে পরে বিধান খুঁজেছি, এই আশায় যে বিধানটা আমার করা কাজের পক্ষেই যাবে?",
+      "রোজ কোন জিনিস ভোগ করি, অথচ মনে রাখি না যে আমার আগে তা সবাইকে দেওয়া হয়নি?",
+      "সংশোধিত হওয়ার আর ক্ষমা পাওয়ার পর আমি কি বিষয়টা মিটে যেতে দিই, নাকি বারবার খুঁচিয়ে তুলি?"
+    ],
+    "lessonEn": "When Allah makes a thing lawful, take it without lingering guilt, and keep to the limits that came with the permission.",
+    "lessonBn": "আল্লাহ কোনো কিছু হালাল করলে অপরাধবোধ ঝেড়ে ফেলে তা গ্রহণ করুন, আর অনুমতির সঙ্গে যে সীমা এসেছে তা মেনে চলুন।"
   }
 };
 

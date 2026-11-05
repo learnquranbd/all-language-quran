@@ -2595,6 +2595,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "Hands That Had Drawn Back",
+          "bn": "গুটিয়ে নেওয়া হাত"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa, so. In 8:67 the believers were told that it was not for a prophet to hold captives until he had thoroughly subdued the land, and 8:68 said that but for a decree from Allah that had gone before, a great punishment would have touched them for what they took. That passage, and the consultation behind it, is treated at 8:67 and is not retold here. Our verse is what follows the reproach: a permission, a command, and two names of Allah.",
+            "bn": "আয়াতের শুরু 'ফা' দিয়ে, অর্থাৎ সুতরাং। ৮:৬৭ আয়াতে মু'মিনদের বলা হয়েছিল, দেশে শত্রুকে পুরোপুরি পরাভূত না করা পর্যন্ত বন্দী রাখা কোনো নবীর কাজ নয়। ৮:৬৮ আয়াত জানাল, আল্লাহর এক লিখন আগেই না থাকলে, যা তারা নিয়েছে তার জন্য মহাশাস্তি তাদের ছুঁয়ে যেত। সেই প্রসঙ্গ আর তার পেছনের পরামর্শের ঘটনা ৮:৬৭ আয়াতের আলোচনায় এসেছে, এখানে আর বলা হচ্ছে না। আমাদের আয়াত আসে তিরস্কারের পরে: একটি অনুমতি, একটি আদেশ, আর আল্লাহর দুটি নাম।"
+          },
+          {
+            "en": "Al-Baghawi gives what prompted it with the word ruwiya, it is reported, and no chain: when the earlier verse came down, the Companions of the Messenger ﷺ held their hands back from the ransom they had taken, and then so eat of what you gained was sent down. Ibn Kathir reaches the same point by another route. After a report from Abu Hurayrah (RA) that booty was made lawful to none of mankind but us, he adds: this is why Allah said, so eat of what you gained, lawful and good, and upon that they took the ransom from the captives.",
+            "bn": "আয়াতটি কোন প্রেক্ষাপটে এল, বাগাভী তা আনেন 'রুউইয়া', অর্থাৎ বর্ণিত আছে, এই শব্দে, কোনো সনদ ছাড়া। আগের আয়াত নাযিল হলে রাসূলুল্লাহ ﷺ-এর সাহাবীরা যে মুক্তিপণ নিয়েছিলেন, তা থেকে হাত গুটিয়ে নেন। তখন নাযিল হয়: সুতরাং যা গনিমত হিসেবে পেয়েছ তা খাও। ইবন কাসীর আরেক পথে একই জায়গায় পৌঁছান। আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা তিনি আনেন: আমাদের ছাড়া আর কোনো মানুষের জন্য গনিমত হালাল হয়নি। তারপর যোগ করেন: এজন্যই আল্লাহ বললেন, যা গনিমত হিসেবে পেয়েছ তা হালাল ও পবিত্র হিসেবে খাও। আর তখনই তারা বন্দীদের কাছ থেকে মুক্তিপণ নিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Permission Spoken as a Meal",
+          "bn": "খাওয়ার ভাষায় অনুমতি"
+        },
+        "p": [
+          {
+            "en": "The command is fa-kulu, so eat, and its object is mimma ghanimtum, of what you have gained as booty. At-Tabari glosses each part in turn. He names the addressees as the believers among the people of Badr; what they gained is from the wealth of the idolaters; and halalan means lawful by His making it lawful for you.  Ma'arif al-Qur'an takes the imperative as a statement about what comes next: so eat of the spoils you have got means that from now on it has been made lawful for you.",
+            "bn": "আদেশটি 'ফাকুলূ', সুতরাং খাও। তার বিষয় 'মিম্মা গানিমতুম', যা তোমরা গনিমত হিসেবে পেয়েছ তা থেকে। তাবারী এক এক করে প্রতিটি অংশ খুলে বলেন। সম্বোধন বদরের মু'মিনদের প্রতি। যা তারা পেয়েছিলেন, তা মুশরিকদের সম্পদ থেকে। আর 'হালালান' মানে, আল্লাহ তোমাদের জন্য হালাল করেছেন বলেই তা হালাল। মাআরিফুল কুরআন আদেশটিকে পড়ে সামনের দিনের ঘোষণা হিসেবে: গনিমত থেকে খাও, মানে এখন থেকে তা তোমাদের জন্য হালাল।"
+          },
+          {
+            "en": "Why add tayyiban, good, to halalan? Ma'arif answers with a doubt the word removes. Even once spoils were made lawful, something might seem to cling to what had been collected before the injunction came, some trace of the undesirable. Tayyiban removes that: everything gathered earlier is lawful too, without any shade of karahah, reprehensibility. Ma'arif draws from it what he calls a principle of Islamic jurisprudence: when a step taken without permission is afterwards regularised by a verse, no effect of the earlier step remains, and the property becomes lawful and pure.",
+            "bn": "হালালান-এর সঙ্গে 'তাইয়িবান', পবিত্র, কেন যোগ হলো? মাআরিফুল কুরআন এর উত্তর দেয় এমন এক সংশয়ের কথা বলে, যা শব্দটি দূর করে দেয়। গনিমত হালাল হওয়ার পরেও মনে হতে পারত, বিধান আসার আগে যা জমা হয়েছিল তাতে অপছন্দনীয় কিছু লেগে আছে। তাইয়িবান সেই সংশয় মুছে দেয়। আগে যা সংগ্রহ হয়েছিল তাও হালাল, কারাহাত বা অপছন্দের কোনো ছায়া তাতে নেই। এখান থেকে মাআরিফুল কুরআন ইসলামি ফিকহের একটি মূলনীতি টানে: অনুমতি ছাড়া নেওয়া কোনো পদক্ষেপকে পরে কোনো আয়াত বৈধ করে দিলে আগের পদক্ষেপের কোনো প্রভাব আর থাকে না। সম্পদ তখন হালাল ও পবিত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Booty Alone, or Ransom Too",
+          "bn": "শুধু গনিমত, নাকি মুক্তিপণও"
+        },
+        "p": [
+          {
+            "en": "How far does what you gained reach? Several of the commentators fetched here make it cover the ransom as well as the booty. The Muyassar says it outright: eat of the spoils and of the ransom of the captives, for it is lawful and good. At-Tabari names both in his gloss on the command that follows: as you did in taking the ransom and eating the booty, which you took before they were made lawful for you. Al-Baghawi's report points the same way, since what the Companions had drawn back from was the ransom, and Ibn Kathir's line ends with the ransom being taken.",
+            "bn": "'যা গনিমত হিসেবে পেয়েছ' কথাটা কতদূর পৌঁছায়? এখানে পড়া তাফসীরগুলোর কয়েকটি একে গনিমতের সঙ্গে মুক্তিপণ পর্যন্ত বিস্তৃত করে। মুয়াসসার সরাসরি বলে: গনিমত আর বন্দীদের মুক্তিপণ থেকে খাও, তা হালাল ও পবিত্র। তাবারী পরের আদেশের ব্যাখ্যায় দুটোরই নাম নেন: যেমন তোমরা মুক্তিপণ নেওয়া আর গনিমত খাওয়ার বেলায় করেছিলে, হালাল হওয়ার আগেই দুটো নিয়ে ফেলেছিলে। বাগাভীর বর্ণনাও একই দিকে ইঙ্গিত করে, কারণ সাহাবীরা হাত গুটিয়েছিলেন মুক্তিপণ থেকেই। ইবন কাসীরের কথাও শেষ হয় মুক্তিপণ নেওয়ার বিবরণে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an divides the matter. There were two questions in play, it says, the spoils and the release of prisoners against ransom; the first was resolved clearly by this verse, and the other was yet to be cleared, which Ma'arif takes to be done by 47:4. So the commentators fetched here do not agree on how far the word reaches. The Muyassar names the ransom inside the permission and at-Tabari speaks of both as taken too early, while Ma'arif confines this verse to the spoils. The difference is reported here, not settled.",
+            "bn": "মাআরিফুল কুরআন বিষয়টিকে দুই ভাগে দেখে। তার ভাষায়, প্রশ্ন ছিল দুটি: গনিমত, আর মুক্তিপণের বিনিময়ে বন্দীমুক্তি। প্রথমটির নিষ্পত্তি এ আয়াতেই স্পষ্টভাবে হয়ে গেছে। দ্বিতীয়টি তখনো অমীমাংসিত ছিল, আর তার মীমাংসা মাআরিফুল কুরআন দেখে ৪৭:৪ আয়াতে। তাই এখানে পড়া তাফসীরগুলো শব্দটির সীমা নিয়ে একমত নয়। মুয়াসসার অনুমতির ভেতরেই মুক্তিপণের নাম নেয়, তাবারী দুটোকেই সময়ের আগে নেওয়া জিনিস বলেন, আর মাআরিফুল কুরআন এ আয়াতকে গনিমতেই সীমিত রাখে। মতভেদটা এখানে তুলে ধরা হলো, মীমাংসা করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given to No One Before",
+          "bn": "আগে কাউকে দেওয়া হয়নি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the permission as a mark of favour on this community: this is of His kindness to this Ummah, that He made the spoils lawful for it and did not make them lawful for any nation before it. Ibn Kathir connects the same point to 8:68. He reports from Ibn Abbas (RA), and the like from others of the early generations, that the decree which had gone before was the making of spoils lawful for this Ummah. He notes that this was the reading Ibn Jarir at-Tabari chose, and he supports it with a narration from Jabir (RA) that he credits to al-Bukhari and Muslim.",
+            "bn": "সা'দী এই অনুমতিকে দেখেন এ উম্মতের প্রতি অনুগ্রহের চিহ্ন হিসেবে। তাঁর ভাষায়, এ আল্লাহর দয়া যে তিনি এ উম্মতের জন্য গনিমত হালাল করেছেন, আর এর আগের কোনো উম্মতের জন্য করেননি। ইবন কাসীর একই কথাকে জুড়ে দেন ৮:৬৮ আয়াতের সঙ্গে। ইবন আব্বাস (রাঃ) থেকে, আর প্রথম যুগের আরও কয়েকজন থেকে একই রকম মত তিনি বর্ণনা করেন: আগে থেকে লেখা সেই লিখন হলো এ উম্মতের জন্য গনিমত হালাল করা। তিনি জানান, ইবন জারীর তাবারী এই মতটিই গ্রহণ করেছেন। আর এর সমর্থনে তিনি আনেন জাবির (রাঃ)-এর একটি বর্ণনা, যা তাঁর ভাষায় বুখারী ও মুসলিমে আছে।"
+          },
+          {
+            "en": "It is quoted here whole in one collection's wording, al-Bukhari's (Sahih al-Bukhari 335). Jabir ibn Abdullah (RA) narrated that the Prophet ﷺ said: \"I have been given five things which were not given to any one else before me. Allah made me victorious by terror, (by His frightening my enemies) for a distance of one month's journey. The earth has been made for me (and for my followers) a place for praying and a thing to perform Tayammum, therefore anyone of my followers can pray wherever the time of a prayer is due.",
+            "bn": "এখানে বর্ণনাটি পুরোটা আনা হলো একটি সংকলনের ভাষায়, বুখারীর (সহীহ বুখারী ৩৩৫)। জাবির ইবন আবদুল্লাহ (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"আমাকে পাঁচটি জিনিস দেওয়া হয়েছে, যা আমার আগে আর কাউকে দেওয়া হয়নি। এক মাসের পথের দূরত্ব পর্যন্ত (শত্রুর মনে) ভীতি সৃষ্টি করে আমাকে বিজয়ী করা হয়েছে। গোটা পৃথিবী আমার (ও আমার অনুসারীদের) জন্য নামাজের জায়গা ও তায়াম্মুমের উপকরণ করে দেওয়া হয়েছে। তাই আমার উম্মতের যে-কেউ যেখানেই নামাজের সময় পাবে, সেখানেই নামাজ পড়ে নেবে।"
+          },
+          {
+            "en": "The booty has been made Halal (lawful) for me yet it was not lawful for anyone else before me. I have been given the right of intercession (on the Day of Resurrection). Every Prophet used to be sent to his nation only but I have been sent to all mankind.\" The third of the five is the one our verse puts into practice. Ibn Kathir's Arabic reads none of the prophets before me where al-Bukhari's reads anyone before me, which is why only one collection's wording is given here.",
+            "bn": "\"আমার জন্য গনিমত হালাল করা হয়েছে, অথচ আমার আগে কারও জন্য তা হালাল ছিল না। আমাকে (কিয়ামতের দিন) শাফাআতের অধিকার দেওয়া হয়েছে। প্রত্যেক নবীকে পাঠানো হতো কেবল তাঁর নিজের জাতির কাছে, আর আমাকে পাঠানো হয়েছে সব মানুষের কাছে।\" পাঁচটির মধ্যে তৃতীয়টিই আমাদের আয়াত কাজে পরিণত করে। ইবন কাসীরের আরবি পাঠে আছে 'আমার আগে নবীদের কাউকে', আর বুখারীর পাঠে 'আমার আগে কাউকে'। এই পার্থক্যের কারণেই এখানে কেবল একটি সংকলনের ভাষা নেওয়া হয়েছে।"
+          },
+          {
+            "en": "Muslim records (1747) a longer narration from Abu Hurayrah (RA) about an earlier prophet whose gathered spoils a fire came to consume, and it closes with the reason spoils were lawful for no one before us: Allah saw our weakness and our incapacity, and made them good for us. The verb there is tayyaba, from the same root as tayyiban in our verse. Al-Baghawi cites that closing sentence under this verse, with his own chain through Abd al-Razzaq. Both narrations stand in collections their compilers named Sahih, and neither is reported as the occasion of this verse.",
+            "bn": "মুসলিম (১৭৪৭) আবু হুরায়রা (রাঃ) থেকে আরও দীর্ঘ একটি বর্ণনা এনেছেন। তাতে আগের এক নবীর কথা আছে, যাঁর জমা করা গনিমত গ্রাস করতে আগুন এসেছিল। বর্ণনার শেষে বলা হয়েছে, কেন আমাদের আগে কারও জন্য গনিমত হালাল ছিল না: আল্লাহ আমাদের দুর্বলতা ও অক্ষমতা দেখলেন, তাই তা আমাদের জন্য পবিত্র করে দিলেন। সেখানে ক্রিয়াটি 'তাইয়্যাবা', আমাদের আয়াতের 'তাইয়িবান'-এর একই ধাতু থেকে। বাগাভী এ আয়াতের আলোচনায় নিজের সনদে, আবদুর রাযযাকের সূত্রে, এই শেষ বাক্যটি আনেন। দুটি বর্ণনাই আছে এমন সংকলনে, যার সংকলক নিজেই তার নাম রেখেছেন সহীহ। কোনোটিকেই এ আয়াতের শানে নুযূল বলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Guard on the Permission",
+          "bn": "অনুমতির সঙ্গে পাহারা"
+        },
+        "p": [
+          {
+            "en": "Then, in the middle of a permission, wa-ttaqu Allah, and fear Allah. The commentators fetched here hear different things in it. At-Tabari reads it as looking back at what had just happened: fear Allah lest you return, after this, to doing anything in your religion before it has been enjoined to you, as you did in taking the ransom and eating the booty, which you took before they were made lawful for you. On his reading the warning is against getting ahead of revelation, not against the lawful thing itself.",
+            "bn": "তারপর, অনুমতির মাঝখানেই আসে 'ওয়াত্তাকুল্লাহ', আল্লাহকে ভয় করো। এখানে পড়া তাফসীরকারেরা এতে ভিন্ন ভিন্ন কথা শোনেন। তাবারী একে পড়েন সদ্য ঘটে যাওয়া ঘটনার দিকে ফিরে তাকানো হিসেবে। আল্লাহকে ভয় করো, যেন এরপর দ্বীনের কোনো বিষয়ে নির্দেশ আসার আগেই আর কিছু করে না বসো। যেমনটা করেছিলে মুক্তিপণ নেওয়া আর গনিমত খাওয়ার বেলায়, হালাল হওয়ার আগেই দুটো নিয়ে ফেলেছিলে। তাঁর পাঠে সতর্কবাণীটা ওহির আগে আগে চলার বিরুদ্ধে, হালাল জিনিসটার বিরুদ্ধে নয়।"
+          },
+          {
+            "en": "As-Sa'di widens it: fear Allah in all your affairs and hold fast to it, in gratitude for the favours of Allah upon you. For him taqwa is how a favour is answered, so the verse that hands them a gift also tells them how to give thanks for it. The Muyassar turns it into a practical instruction: keep to the rulings and the laws of Allah's religion.",
+            "bn": "সা'দী কথাটাকে আরও প্রশস্ত করেন: তোমাদের সব কাজে আল্লাহকে ভয় করো, তাকওয়া আঁকড়ে থাকো, তোমাদের উপর আল্লাহর নিয়ামতের শোকর হিসেবে। তাঁর কাছে তাকওয়াই নিয়ামতের জবাব। যে আয়াত তাদের হাতে উপহার তুলে দেয়, সেই আয়াতই শিখিয়ে দেয় তার শোকর কীভাবে আদায় করতে হয়। মুয়াসসার একে কাজের নির্দেশে নামিয়ে আনে: আল্লাহর দ্বীনের বিধান ও শরীয়ত মেনে চলো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an finds a limit inside the command. The spoils have been made lawful, it says, but under a particular law, and taking against that law or taking more than one's due is still not permissible. Al-Qurtubi makes a related point from another direction. The outward sense of our verse, he says, would make all the booty belong to those who took it, shared among them equally, but 8:41 shows that a fifth must first be taken out and spent where that verse names. The permission is real, and it has edges.",
+            "bn": "মাআরিফুল কুরআন আদেশটির ভেতরে একটি সীমা খুঁজে পায়। তার ভাষায়, গনিমত হালাল হয়েছে ঠিকই, তবে নির্দিষ্ট এক বিধানের অধীনে। সেই বিধানের বাইরে নেওয়া বা প্রাপ্যের চেয়ে বেশি নেওয়া এখনো জায়েজ নয়। কুরতুবী অন্য দিক থেকে কাছাকাছি কথা বলেন। তাঁর মতে আয়াতের বাহ্যিক অর্থ থেকে মনে হয়, পুরো গনিমত যোদ্ধাদের, আর তারা তাতে সমান অংশীদার। কিন্তু ৮:৪১ আয়াত স্পষ্ট করেছে যে আগে এক-পঞ্চমাংশ বের করে সেই আয়াতে বলা খাতগুলোতে ব্যয় করতে হবে। অনুমতিটা সত্যি, তবে তার সীমানাও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiving After the Reproach",
+          "bn": "তিরস্কারের পরে ক্ষমার নাম"
+        },
+        "p": [
+          {
+            "en": "The verse ends inna Allaha ghafurun rahim, Allah is Forgiving, Merciful, one verse after the words a great punishment. At-Tabari makes an observation about the order. This, he says, is of the kind whose wording is placed later while its meaning comes first: the sense is, eat of what you gained, lawful and good, for Allah is Forgiving, Merciful, and fear Allah. On that reading the two names give the reason for the permission. Ghafur, he says, to the sins of the people of faith among His servants; Rahim with them, so that He does not punish them after they have repented.",
+            "bn": "আয়াত শেষ হয় 'ইন্নাল্লাহা গাফূরুর রাহীম' দিয়ে: আল্লাহ ক্ষমাশীল, দয়ালু। ঠিক আগের আয়াতেই ছিল মহাশাস্তির কথা। তাবারী এখানে বাক্যের ক্রম নিয়ে একটি পর্যবেক্ষণ দেন। তাঁর মতে এটি সেই ধরনের বাক্য, যার শব্দ পরে এসেছে অথচ অর্থে তা আগের। মর্ম দাঁড়ায়: যা গনিমত পেয়েছ তা হালাল ও পবিত্র হিসেবে খাও, কারণ আল্লাহ ক্ষমাশীল, দয়ালু, আর আল্লাহকে ভয় করো। এ পাঠে দুই নাম অনুমতির কারণ জানিয়ে দেয়। গাফূর, তাঁর বান্দাদের মধ্যে ঈমানদারদের গুনাহের প্রতি। রাহীম, তাদের প্রতি, তাই তওবার পর তিনি তাদের শাস্তি দেন না।"
+          },
+          {
+            "en": "As-Sa'di reads both names into the situation. Ghafur: He forgives every sin to whoever turns to Him in repentance. Rahim: merciful to you, in that He permitted you the spoils and made them lawful and good. So the mercy in the closing pair is the very permission the verse has just given. Ma'arif al-Qur'an describes the movement of the passage briefly: admonition came, a warning of punishment was given, then came forgiveness. The next verse, 8:70, closes on Forgiving and Merciful as well, this time in an offer made to the captives themselves.",
+            "bn": "সা'দী দুই নামকেই ঘটনার ভেতরে রেখে পড়েন। গাফূর: যে তাঁর কাছে তওবা করে, তার সব গুনাহ তিনি মাফ করেন। রাহীম: তোমাদের প্রতি দয়ালু, কারণ তিনি তোমাদের জন্য গনিমত বৈধ করেছেন, হালাল ও পবিত্র করেছেন। অর্থাৎ শেষ জোড়ার রহমত হলো আয়াতের দেওয়া অনুমতিটাই। মাআরিফুল কুরআন পুরো প্রসঙ্গের গতি সংক্ষেপে বলে দেয়: তিরস্কার এল, শাস্তির সতর্কবাণী এল, তারপর এল ক্ষমা। পরের আয়াত ৮:৭০-ও শেষ হয় ক্ষমাশীল ও দয়ালু নামে, এবার খোদ বন্দীদের প্রতি দেওয়া এক প্রস্তাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where This Ruling Stands",
+          "bn": "এ বিধানের নিজের জায়গা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the addressees: the believers among the people of Badr, and the wealth in question was taken from the idolaters. What followed for captives is a matter of law, and the commentators treat it so. Ibn Kathir records that, with the majority of scholars, the ruler was given a choice among several courses, calls this the position of al-Shafi'i and a group of scholars, and adds that the imams differ further, as set out in its place in the books of fiqh. This article does not enter them.",
+            "bn": "তাবারী সম্বোধিতদের পরিচয় বলে দেন: বদরের মু'মিনরা। আর যে সম্পদের কথা হচ্ছে, তা নেওয়া হয়েছিল মুশরিকদের কাছ থেকে। বন্দীদের ব্যাপারে পরে যা স্থির হলো, তা ফিকহের বিষয়, তাফসীরকারেরাও একে সেভাবেই দেখেন। ইবন কাসীর লেখেন, জমহুর আলেমদের মতে শাসককে কয়েকটি পথের মধ্যে বেছে নেওয়ার এখতিয়ার দেওয়া হয়েছে। একে তিনি ইমাম শাফেয়ী ও একদল আলেমের মত বলেন, আর জানান যে ইমামদের মধ্যে আরও মতভেদ আছে, যার আলোচনা ফিকহের কিতাবে যথাস্থানে। এই প্রবন্ধ সেসব আলোচনায় ঢোকে না।"
+          },
+          {
+            "en": "A plain statement belongs here. The verse describes property taken in a battle fought under the Prophet ﷺ, from the idolaters who fought at Badr, and declared lawful by revelation to those who fought it. It licenses nothing against any living person or community. It gives no individual or group a claim on anyone's property, and this article applies no ruling of booty or captives to any present conflict; such rulings belong to those who carry that responsibility. What a reader can take from the verse lies elsewhere, in the way it speaks.",
+            "bn": "এখানে একটি কথা সোজাসুজি বলা দরকার। আয়াতটি সেই সম্পদের কথা বলে, যা নবী ﷺ-এর নেতৃত্বে লড়া এক যুদ্ধে বদরে লড়তে আসা মুশরিকদের কাছ থেকে নেওয়া হয়েছিল, আর ওহির মাধ্যমে সেই যোদ্ধাদের জন্য হালাল ঘোষিত হয়েছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। কোনো ব্যক্তি বা দলকে কারও সম্পদের উপর কোনো দাবিও দেয় না। গনিমত বা বন্দী সংক্রান্ত কোনো বিধান এই প্রবন্ধ আজকের কোনো সংঘাতে প্রয়োগ করে না। এমন বিধান তাদের হাতে, যাদের কাঁধে সেই দায়িত্ব। পাঠকের নেওয়ার মতো কথা অন্যখানে, আয়াতটি যেভাবে কথা বলে তার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking Without a Residue",
+          "bn": "খচখচানি ছাড়া গ্রহণ"
+        },
+        "p": [
+          {
+            "en": "The pair halalan tayyiban is not confined to this verse. At 2:168 it is addressed to all people: eat of what is on earth, lawful and good, and do not follow the footsteps of Shaytan. At 16:114 it comes with the same companion as-Sa'di found here: eat of what Allah has provided for you, lawful and good, and be grateful for the favour of Allah. In each place the permission to enjoy is paired with something that keeps the enjoyment pointed somewhere: a warning in one, gratitude in the other, and taqwa in ours.",
+            "bn": "'হালালান তাইয়িবান' জোড়াটি শুধু এই আয়াতে নেই। ২:১৬৮ আয়াতে তা বলা হয়েছে সব মানুষকে: পৃথিবীতে যা আছে তা থেকে হালাল ও পবিত্র জিনিস খাও, আর শয়তানের পদাঙ্ক অনুসরণ কোরো না। ১৬:১১৪ আয়াতে জোড়াটি আসে সেই সঙ্গীকে নিয়ে, যা সা'দী এখানে খুঁজে পেয়েছেন: আল্লাহ তোমাদের যে রিজিক দিয়েছেন তা থেকে হালাল ও পবিত্র খাও, আর আল্লাহর নিয়ামতের শোকর করো। প্রতিটি জায়গায় ভোগের অনুমতির পাশে এমন কিছু আছে, যা ভোগকে একটা দিকে ধরে রাখে। একটিতে সতর্কবাণী, আরেকটিতে শোকর, আর আমাদের আয়াতে তাকওয়া।"
+          },
+          {
+            "en": "Ma'arif's principle has a second half that a reader can carry. Where Allah has regularised a thing, nothing of the earlier unease is meant to remain, and a believer need not keep feeling guilty over what He has plainly allowed. But Ma'arif sets the opposite case beside it: where a ruling had already been revealed and someone acted against it without realising, and learned of it only later, the property does not remain lawful, even though the error itself is forgiven. Forgiveness closes the account of the fault. It does not turn what was taken against a standing ruling into something that may be kept.",
+            "bn": "মাআরিফুল কুরআনের মূলনীতির আরেকটি অংশ আছে, যা পাঠক সঙ্গে নিয়ে যেতে পারেন। আল্লাহ কোনো কিছু বৈধ করে দিলে আগের অস্বস্তির কিছুই আর থাকার কথা নয়। তিনি যা স্পষ্ট অনুমতি দিয়েছেন, তা নিয়ে মু'মিনের অপরাধবোধে ভোগার দরকার নেই। কিন্তু মাআরিফুল কুরআন পাশেই উল্টো অবস্থাটা রাখে। বিধান আগেই নাযিল হয়ে গেছে, কেউ না বুঝে তার বিরুদ্ধে কাজ করেছে, পরে জানতে পেরেছে। তখন সেই সম্পদ আর হালাল থাকে না, যদিও ভুলটা মাফ হয়ে যায়। ক্ষমা ভুলের হিসাব মিটিয়ে দেয়। কিন্তু চালু বিধানের বিরুদ্ধে নেওয়া জিনিসকে রেখে দেওয়ার মতো বানিয়ে দেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "8:72": {
     "sections": [
       {
