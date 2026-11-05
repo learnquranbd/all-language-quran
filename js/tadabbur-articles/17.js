@@ -147,6 +147,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "Told Before It Happened",
+          "bn": "ঘটার আগেই জানানো"
+        },
+        "p": [
+          {
+            "en": "After the night journey, 17:2 and 17:3 turn to Musa (AS): the Book was given to him as guidance for the Children of Israel, and they are addressed as descendants of those carried with Nuh (AS). Verse 17:4 follows directly: wa-qadayna ila bani isra'ila fi l-kitab, and We conveyed to the Children of Israel in the Book, la-tufsidunna fi l-ardi marratayn, you will surely cause corruption in the land twice, wa-la-ta'lunna 'uluwwan kabira, and you will surely rise to a great height of arrogance.",
+            "bn": "রাতের সফরের পর ১৭:২ ও ১৭:৩ আয়াতে কথা ফেরে মূসা (আঃ)-এর দিকে। তাঁকে কিতাব দেওয়া হয়েছিল বানী ইসরাঈলের হিদায়াত হিসেবে। আর তাদের ডাকা হয়েছে নূহ (আঃ)-এর সঙ্গে নৌকায় তোলা মানুষদের বংশধর বলে। ঠিক এর পরেই ১৭:৪ আয়াত: ওয়া কাদাইনা ইলা বানী ইসরাঈলা ফিল কিতাব, আর আমি কিতাবে বানী ইসরাঈলকে জানিয়ে দিয়েছিলাম। লাতুফসিদুন্না ফিল আরদি মাররাতাইন, তোমরা অবশ্যই পৃথিবীতে দুবার বিপর্যয় ঘটাবে। ওয়া লাতা'লুন্না 'উলুওয়ান কাবীরা, আর অবশ্যই ঔদ্ধত্যে অনেক উঁচুতে উঠবে।"
+          },
+          {
+            "en": "At-Tabari begins from the root. Al-qada', he says, is to finish with a thing and be done with it, and the word is then used of anything settled. So the verse means that God had settled the matter in what He revealed of His Book to Musa (AS), by informing them and telling them in advance. He relays the gloss a'lamnahum, We informed them, from Ibn Zayd and from Ibn Abbas by one chain, and from Mujahid akhbarna, We told. Ibn Kathir reads it the same way, citing 15:66.",
+            "bn": "তাবারী শুরু করেন শব্দের মূল থেকে। তাঁর ব্যাখ্যায় কাদা মানে কোনো কাজ শেষ করে তার পাট চুকিয়ে ফেলা। পরে যা কিছু চূড়ান্ত হয়ে গেছে, সবকিছুর বেলায় শব্দটা চলে। তাই আয়াতের অর্থ দাঁড়ায়: মূসা (আঃ)-এর উপর নাযিল করা কিতাবে আল্লাহ বিষয়টা চূড়ান্ত করে রেখেছিলেন, তাদের আগেভাগে জানিয়ে দিয়ে, খবর দিয়ে। আ'লামনাহুম, আমি তাদের জানিয়েছি, এই ব্যাখ্যা তিনি আনেন ইবন যায়দ থেকে, আর এক সনদে ইবন আব্বাস (রাঃ) থেকে। মুজাহিদ থেকে আনেন আখবারনা, আমি খবর দিয়েছি। ইবন কাসীরও একই অর্থ নেন, আর প্রমাণ হিসেবে আনেন ১৫:৬৬ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Informed, or Decreed Upon",
+          "bn": "জানিয়ে দেওয়া, নাকি ফয়সালা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari also records others who read the verb as a decree passed over them. Ibn Abbas, by a second chain, said it is a decree that went forth against them, and Qatada called it a decree He decreed upon the people. On that view, at-Tabari explains, God decreed it upon them in the Mother of the Book and in His prior knowledge. Al-Qurtubi gives the same split: from Ibn Abbas, We informed and told; from Qatada, hakamna, We ruled; and a third view, qila, that it means We revealed.",
+            "bn": "তাবারী এমন কয়েকজনের কথাও সংরক্ষণ করেন, যাঁদের মতে এটি তাদের উপর জারি হওয়া ফয়সালা। ইবন আব্বাস (রাঃ) থেকে আরেক সনদে আসে: এ এক ফয়সালা, যা তাদের উপর কার্যকর হয়ে গেছে। কাতাদা বলেন: এ সেই ফয়সালা, যা তিনি এ জাতির উপর করেছেন। তাবারী বলেন, এ মত অনুযায়ী অর্থ হলো, উম্মুল কিতাবে এবং নিজের পূর্বজ্ঞানে আল্লাহ তাদের ব্যাপারে এ ফয়সালা করে রেখেছিলেন। কুরতুবীও একই ভাগ দেখান। ইবন আব্বাস (রাঃ) থেকে: জানিয়েছি, খবর দিয়েছি। কাতাদা থেকে: হাকামনা, হুকুম দিয়েছি। আর 'বলা হয়' দিয়ে তৃতীয় একটি মত: অর্থ হলো ওহী পাঠিয়েছি।"
+          },
+          {
+            "en": "Al-Qurtubi then sets out the grammar of Qatada's view: ila stands for 'ala, so it reads We decreed against them and ruled, and he adds that Ibn Abbas said this too. At-Tabari says the views all come back to one meaning, then argues for informing from the recitation itself. The readers agree on la-tufsidunna with ta, addressing them directly. Had the sense been a decree passed over them, he says, the third person with ya would have been more fitting; because it was informing them and saying to them, the second person fits the address.",
+            "bn": "এরপর কুরতুবী কাতাদার মতের ব্যাকরণ খুলে বলেন। এখানে ইলা এসেছে 'আলা অর্থে, তাই বাক্য দাঁড়ায়: আমি তাদের বিরুদ্ধে ফয়সালা করেছি, হুকুম দিয়েছি। তিনি যোগ করেন, ইবন আব্বাস (রাঃ)-ও এ কথা বলেছেন। তাবারী বলেন, সবগুলো মত শেষ পর্যন্ত একই অর্থে ফেরে। তারপর তিলাওয়াত থেকেই তিনি জানানো অর্থের পক্ষে যুক্তি দেন। কারীরা একমত যে লাতুফসিদুন্না পড়া হয় তা দিয়ে, অর্থাৎ তাদের সরাসরি সম্বোধন করে। তাঁর কথায়, যদি অর্থ হতো তাদের উপর জারি করা ফয়সালা, তবে ইয়া দিয়ে, তাদের কথা তৃতীয় কাউকে বলার ভঙ্গিতে পড়াই বেশি মানাত। কিন্তু কথাটা যেহেতু তাদেরই জানানো আর তাদেরই বলা, তাই সরাসরি সম্বোধনই এখানে খাপ খায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Torah or the Tablet",
+          "bn": "তাওরাত, নাকি লাওহে মাহফূয"
+        },
+        "p": [
+          {
+            "en": "Which book is meant by fi l-kitab? Here the commentators divide again. The Muyassar names it outright: the Torah that was sent down to them. At-Tabari speaks of what God revealed of His Book to Musa (AS), Ibn Kathir of the Book He revealed to them, and as-Sa'di of their own book. Al-Qurtubi takes the other side: the Book meant is al-lawh al-mahfuz, the Preserved Tablet. Al-Baghawi first explains it as informing them in the books We gave them, then reports from Ibn Abbas and Qatada that the Book is the Preserved Tablet.",
+            "bn": "ফিল কিতাব, কোন কিতাবের কথা? এখানেও তাফসীরকারদের পথ আলাদা হয়ে যায়। মুয়াসসার সরাসরি নাম বলে: তাদের উপর নাযিল হওয়া তাওরাত। তাবারী বলেন মূসা (আঃ)-এর উপর নাযিল করা আল্লাহর কিতাবের কথা, ইবন কাসীর বলেন তাদের প্রতি নাযিল করা কিতাবের কথা। সা'দী বলেন তাদের নিজেদের কিতাবের কথা। কুরতুবী নেন অন্য মত: এখানে কিতাব মানে লাওহে মাহফূয, সংরক্ষিত ফলক। বাগাভী প্রথমে ব্যাখ্যা করেন, তাদের দেওয়া কিতাবগুলোতে আমি তাদের জানিয়েছি। তারপর ইবন আব্বাস (রাঃ) ও কাতাদা থেকে আনেন যে কিতাব মানে লাওহে মাহফূয।"
+          },
+          {
+            "en": "The two answers follow the two readings of the verb. Telling points to a scripture they held; decreeing, to where God's decrees are written. Al-Qurtubi also notes that Sa'id ibn Jubayr and Abu l-'Aliya recited fi l-kutub, in the books, and says the singular can carry a plural sense, so the two readings mean one thing. He and al-Baghawi both call the lam of la-tufsidunna the lam of an implied oath: by God, you will surely spread corruption. Torah or Tablet, the article leaves the question open.",
+            "bn": "ক্রিয়াটির দুই অর্থ থেকেই এ দুই উত্তর আসে। জানানো হলে তা ঘটেছে তাদের হাতে থাকা কিতাবে। ফয়সালা হলে তা লেখা আছে সেখানে, যেখানে আল্লাহর ফয়সালা লেখা থাকে। কুরতুবী আরও জানান, সাঈদ ইবন জুবাইর ও আবুল 'আলিয়া পড়েছেন ফিল কুতুব, কিতাবগুলোতে, বহুবচনে। তাঁর মতে একবচন শব্দও বহুবচনের অর্থ বহন করতে পারে, তাই দুই কিরাআতের অর্থ একই। লাতুফসিদুন্না-র লাম সম্পর্কে কুরতুবী ও বাগাভী দুজনেই বলেন, এটি উহ্য কসমের লাম: আল্লাহর কসম, তোমরা অবশ্যই বিপর্যয় ঘটাবে। তাওরাত নাকি লাওহে মাহফূয, এ প্রশ্ন এ লেখা খোলাই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Against God, Over People",
+          "bn": "আল্লাহর অবাধ্যতা, মানুষের উপর জুলুম"
+        },
+        "p": [
+          {
+            "en": "What is the corruption? At-Tabari glosses la-tufsidunna as: you will disobey God, O Children of Israel, and go against His command in His lands, twice. Al-Qurtubi defines the fasad as contravening the rulings of the Torah, and places fi l-ard in the land of Syria and Bayt al-Maqdis and what lies around it. The Muyassar names its content: injustice, killing the prophets, pride, tyranny and aggression. As-Sa'di lists sinful deeds, insolence toward God's blessings, and arrogance in the land.",
+            "bn": "বিপর্যয়টা কী? তাবারী লাতুফসিদুন্না-র ব্যাখ্যা দেন এভাবে: হে বানী ইসরাঈল, তোমরা দুবার আল্লাহর নাফরমানি করবে, তাঁর জমিনে তাঁর হুকুমের বিরুদ্ধে চলবে। কুরতুবীর সংজ্ঞায় ফাসাদ মানে তাওরাতের বিধান অমান্য করা। ফিল আরদ, অর্থাৎ পৃথিবীতে, তাঁর মতে শাম অঞ্চল, বাইতুল মাকদিস ও তার আশপাশ। মুয়াসসার তার ভেতরের কথাগুলো গুনে বলে: জুলুম, নবীদের হত্যা, অহংকার, সীমালঙ্ঘন আর আগ্রাসন। সা'দী উল্লেখ করেন গুনাহের কাজ, আল্লাহর নিয়ামত পেয়ে বেপরোয়া হয়ে ওঠা, আর জমিনে দম্ভ।"
+          },
+          {
+            "en": "The second clause, wa-la-ta'lunna 'uluwwan kabira, points two ways. At-Tabari's own gloss is upward: you will be arrogant against God, daring against Him with great arrogance. Mujahid, whom he quotes by two chains, turns it outward: you will rise over people with a great rising. Ibn Kathir joins both strands: they would act as tyrants, overstep all bounds, and behave wickedly toward people. Al-Qurtubi gathers a list: pride, wrongdoing, tyranny, overbearing, domination and aggression. The height is a moral one, and it faces both God and His creatures.",
+            "bn": "দ্বিতীয় অংশ, ওয়া লাতা'লুন্না 'উলুওয়ান কাবীরা, দুই দিকে ইঙ্গিত করে। তাবারীর নিজের ব্যাখ্যা উপরের দিকে: তোমরা আল্লাহর বিরুদ্ধে ধৃষ্টতা দেখিয়ে ভীষণ অহংকার করবে। তিনি দুই সনদে মুজাহিদের কথা আনেন, যা দৃষ্টি ঘুরিয়ে দেয় মানুষের দিকে: তোমরা মানুষের উপর অনেক উঁচুতে চড়ে বসবে। ইবন কাসীর দুই দিক এক করেন: তারা স্বেচ্ছাচারী হবে, সীমা ছাড়াবে, মানুষের উপর পাপাচার চালাবে। কুরতুবী একটা পুরো তালিকা দেন: অহংকার, বাড়াবাড়ি, সীমালঙ্ঘন, দাপট, আধিপত্য আর আগ্রাসন। এ উচ্চতা চরিত্রের, আর তার মুখ একই সঙ্গে আল্লাহর দিকে এবং তাঁর সৃষ্টির দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Was Sent: The Reports",
+          "bn": "কাদের পাঠানো হয়েছিল: বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "The verse names neither the two corruptions nor those sent against them in 17:5 and 17:7, and the reports that fill the gap disagree. At-Tabari gives as-Suddi's chain back to Ibn Abbas and others: the first corruption was the killing of Zakariyya (AS), and God sent the king of the Nabataeans against them. Ibn Zayd made the two the killings of Zakariyya and of Yahya (AS), with Sabur Dhu l-Aktaf, a king of Persia, sent for the first and Nebuchadnezzar for the second. Ibn Ishaq made the first the killing of the prophet Sha'ya, with Nebuchadnezzar sent after it.",
+            "bn": "দুটি বিপর্যয় কী ছিল, আর ১৭:৫ ও ১৭:৭ আয়াতে যাদের তাদের বিরুদ্ধে পাঠানো হয়েছিল তারা কারা, আয়াত কোনোটারই নাম বলে না। যে বর্ণনাগুলো এই ফাঁক ভরেছে, সেগুলো পরস্পর মেলে না। তাবারী সুদ্দীর সনদে ইবন আব্বাস (রাঃ) ও অন্যদের থেকে আনেন: প্রথম বিপর্যয় ছিল যাকারিয়া (আঃ)-কে হত্যা, আর আল্লাহ তাদের বিরুদ্ধে পাঠান নাবাতীদের রাজাকে। ইবন যায়দের মতে দুটি বিপর্যয় হলো যাকারিয়া (আঃ) ও ইয়াহইয়া (আঃ)-কে হত্যা। প্রথমটির জন্য পাঠানো হয় পারস্যের রাজা সাবূর যুল আকতাফকে, দ্বিতীয়টির জন্য বুখতে নসরকে। ইবন ইসহাকের মতে প্রথম বিপর্যয় ছিল নবী শা'ইয়াকে হত্যা, আর তার পরেই পাঠানো হয় বুখতে নসরকে।"
+          },
+          {
+            "en": "On the second, at-Tabari says there is no disagreement among the scholars that it was the killing of Yahya ibn Zakariyya, though they differed over whom God sent to punish them for it. Qatada, as al-Baghawi reports him, said God sent Jalut in the first, the return of strength in 17:6 came in the time of Dawud (AS), and Nebuchadnezzar came in the second. The long narrative he gives, opening with Ibn Ishaq's name, makes the two Nebuchadnezzar and then Khardush, a king of Babylon, and later has Titus son of Vespasian the Roman lay the land waste.",
+            "bn": "দ্বিতীয়টির ব্যাপারে তাবারী বলেন, আলেমদের মধ্যে কোনো মতভেদ নেই যে তা ছিল ইয়াহইয়া ইবন যাকারিয়া (আঃ)-কে হত্যা। তবে এর শাস্তি দিতে আল্লাহ কাকে পাঠিয়েছিলেন, তা নিয়ে তাঁরা ভিন্নমত পোষণ করেছেন। বাগাভীর বর্ণনায় কাতাদা বলেন, প্রথমবার আল্লাহ পাঠান জালূতকে। ১৭:৬ আয়াতে শক্তি ফিরে পাওয়ার কথা, তা ঘটে দাউদ (আঃ)-এর যুগে। আর দ্বিতীয়বার আসে বুখতে নসর। বাগাভী যে দীর্ঘ কাহিনি আনেন, যার শুরুতে ইবন ইসহাকের নাম, তাতে দুটি আঘাত হলো বুখতে নসর, তারপর বাবিলের রাজা খারদূশ। পরে ভেসপাসিয়ানের ছেলে রোমান টাইটাস দেশটা উজাড় করে দেয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Bayan al-Qur'an by way of Tafsir Haqqani, counts six such invasions in the history of Bayt al-Maqdis, from an Egyptian raid after Sulayman (AS) to the Roman destruction under Titus forty years after 'Isa (AS) was raised. It calls it difficult to fix precisely which two the Qur'an means, and suggests the fourth, Nebuchadnezzar's return and burning of the city, and the sixth, the Roman destruction, as the likeliest. At-Tabari's Ibn Ishaq narrative also names Sennacherib, whose army God destroyed near the city while Sha'ya still lived.",
+            "bn": "মাআরিফুল কুরআন, বায়ানুল কুরআনের সূত্রে এবং তা তাফসীরে হাক্কানী থেকে, বাইতুল মাকদিসের ইতিহাসে এমন ছয়টি আক্রমণ গুনে দেখায়। প্রথমটি সুলাইমান (আঃ)-এর পর মিসরের এক রাজার হামলা, শেষটি ঈসা (আঃ)-কে তুলে নেওয়ার চল্লিশ বছর পর টাইটাসের অধীনে রোমানদের ধ্বংসযজ্ঞ। কুরআন ঠিক কোন দুটির কথা বলছে, তা নিখুঁতভাবে নির্ধারণ করা কঠিন, মাআরিফ নিজেই তা বলে। তবে সম্ভাব্য হিসেবে সে চতুর্থটি, অর্থাৎ বুখতে নসরের ফিরে এসে শহর পুড়িয়ে দেওয়া, আর ষষ্ঠটি, অর্থাৎ রোমানদের আক্রমণকে ধরে। তাবারীর আনা ইবন ইসহাকের কাহিনিতে সানহারীবের নামও আছে। শা'ইয়া তখনো জীবিত, আর সানহারীবের বাহিনীকে আল্লাহ শহরের কাছেই ধ্বংস করে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reports Can Bear",
+          "bn": "বর্ণনাগুলোর ভার কতটুকু"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the abridged English of his commentary on these verses, says the earlier and later commentators differed over who the invaders were, and that many Isra'iliyyat, reports from Jewish sources, were narrated about it. He will not lengthen his book with them: some are fabricated, made up by their heretics, and others may be true, but there is no need of them. What God has told in His Book, he says, is sufficient. He keeps only Sa'id ibn al-Musayyib's report that Nebuchadnezzar conquered Syria and destroyed Jerusalem, which he calls sound from Sa'id.",
+            "bn": "ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি রূপে এই আয়াতগুলোর আলোচনায় তিনি বলেন, আগের ও পরের তাফসীরকারেরা আক্রমণকারীদের পরিচয় নিয়ে মতভেদ করেছেন, আর এ বিষয়ে প্রচুর ইসরাঈলী বর্ণনা চলে এসেছে। সেগুলো দিয়ে তিনি কিতাব লম্বা করবেন না। কারণ তার কিছু বানোয়াট, তাদের ধর্মদ্রোহীদের গড়া। আর কিছু হয়তো সত্য, কিন্তু সেগুলোর কোনো প্রয়োজন আমাদের নেই। তাঁর কথায়, আল্লাহ নিজের কিতাবে যা জানিয়েছেন, তা-ই যথেষ্ট। তিনি শুধু সাঈদ ইবনুল মুসাইয়্যিবের একটি বর্ণনা রাখেন: বুখতে নসর শাম জয় করে বাইতুল মাকদিস ধ্বংস করেছিল। ইবন কাসীর বলেন, সাঈদ পর্যন্ত এ বর্ণনা সহীহ।"
+          },
+          {
+            "en": "The commentators who do relay the stories flag their own doubts. Al-Baghawi, after his long narrative, says that the report placing Nebuchadnezzar's invasion at the killing of Yahya (AS) is an error according to the historians, who agree that he came after the killing of Sha'ya in the time of Armiya, and he counts 461 years from that ruin to Yahya's birth. Wahb, asked whether Nebuchadnezzar had become a believer, answers in al-Baghawi that he found the People of the Book divided over him. Such are the sources of the names.",
+            "bn": "যাঁরা কাহিনিগুলো বর্ণনা করেন, তাঁরা নিজেরাই নিজেদের সংশয়ের কথা জানিয়ে দেন। বাগাভী তাঁর দীর্ঘ কাহিনির পর বলেন, ইয়াহইয়া (আঃ)-এর হত্যার সময় বুখতে নসর আক্রমণ করেছিল, এই বর্ণনা ইতিহাসবিদদের মতে ভুল। তাঁরা একমত যে সে এসেছিল শা'ইয়াকে হত্যার পর, আরমিয়ার যুগে। সেই ধ্বংস থেকে ইয়াহইয়া (আঃ)-এর জন্ম পর্যন্ত তিনি হিসাব করেন ৪৬১ বছর। বাগাভীর বর্ণনায় ওয়াহবকে জিজ্ঞেস করা হয়, বুখতে নসর কি ঈমান এনেছিল? তিনি বলেন, আহলে কিতাবদের এ নিয়ে দুই রকম কথা বলতে দেখেছি। নামগুলো এসেছে এমন সূত্র থেকেই।"
+          },
+          {
+            "en": "No fetched commentary attaches a sound hadith to this verse. At-Tabari and al-Baghawi both carry a long narration traced through Hudhayfah to the Prophet ﷺ, naming Nebuchadnezzar and later invaders; neither gives it a grading, and Ibn Kathir's abridged text, which sets the whole literature aside, does not use it. This article builds nothing on it. What the verse itself makes certain is smaller and firmer: two corruptions, told in advance, and two punishments that came.",
+            "bn": "এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেছে, এমন কিছু সংগৃহীত তাফসীরগুলোতে নেই। তাবারী ও বাগাভী দুজনেই হুযাইফা (রাঃ)-এর মাধ্যমে নবী ﷺ পর্যন্ত পৌঁছানো একটি দীর্ঘ বর্ণনা আনেন। তাতে বুখতে নসর ও পরের আক্রমণকারীদের নাম আছে। দুজনের কেউই এর কোনো মান নির্ধারণ করেননি। আর ইবন কাসীরের সংক্ষিপ্ত তাফসীর, যা পুরো বর্ণনা-ভান্ডারকেই পাশে সরিয়ে রাখে, এটি ব্যবহার করে না। এ লেখাও এর উপর কিছু দাঁড় করাচ্ছে না। আয়াত নিজে যা নিশ্চিত করে, তা ছোট কিন্তু মজবুত: দুটি বিপর্যয়, যার খবর আগেই দেওয়া হয়েছিল, আর দুটি শাস্তি, যা এসেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past Told, Not a Licence",
+          "bn": "অতীতের খবর, আজকের ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse tells of events in the past of the Children of Israel, made known to them in the Book they were given, and 17:5 says of the first punishment that it was a promise fulfilled, wa-kana wa'dan maf'ula. The verse describes what it describes. It licenses nothing against any living person or community, Jews today included, and it is no key for reading the politics or the conflicts of the present. Whoever pins its words on people now alive has added to the Qur'an something it never said.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বানী ইসরাঈলের অতীতের কিছু ঘটনার কথা বলে, যা তাদের দেওয়া কিতাবেই তাদের জানিয়ে দেওয়া হয়েছিল। আর প্রথম শাস্তি সম্পর্কে ১৭:৫ আয়াত বলে, ওয়া কানা ওয়া'দান মাফ'ূলা, এ ছিল পূর্ণ হওয়া এক প্রতিশ্রুতি। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, আজকের ইহুদিদের বিরুদ্ধেও, এ আয়াত কোনো কিছুর অনুমতি দেয় না। বর্তমানের রাজনীতি বা সংঘাত বোঝার চাবিও এটি নয়। কেউ যদি এর কথাগুলো আজকের জীবিত মানুষের গায়ে সেঁটে দেয়, তবে সে কুরআনের সঙ্গে এমন কথা জুড়ে দিল, যা কুরআন কখনো বলেনি।"
+          },
+          {
+            "en": "The commentators read the verse as a warning to those it first addressed, not a verdict on a people for all time. As-Sa'di says that whenever one of the two corruptions occurred God set enemies over them and took recompense, and that this was a warning and an admonition, la'allahum yarji'un, so that they might return and take heed. The passage keeps that door open: 17:8 begins 'asa rabbukum an yarhamakum, perhaps your Lord will have mercy on you. A warning that leaves room for return is itself a form of mercy.",
+            "bn": "তাফসীরকারেরা আয়াতটিকে পড়েছেন তার প্রথম শ্রোতাদের প্রতি সাবধানবাণী হিসেবে, কোনো জাতির উপর চিরকালের রায় হিসেবে নয়। সা'দী বলেন, দুই বিপর্যয়ের কোনো একটি ঘটলেই আল্লাহ তাদের উপর শত্রুদের চাপিয়ে দিয়েছেন, তাদের থেকে প্রতিশোধ নিয়েছেন। আর তাঁর কথায় এ ছিল সতর্ক করা ও ভয় দেখানো, লা'আল্লাহুম ইয়ারজি'ঊন, যাতে তারা ফিরে আসে, উপদেশ নেয়। আয়াতগুলো সে দরজা খোলা রাখে। ১৭:৮ শুরু হয় 'আসা রাব্বুকুম আঁই ইয়ারহামাকুম দিয়ে: হয়তো তোমাদের রব তোমাদের উপর রহম করবেন। যে সাবধানবাণী ফেরার পথ খোলা রাখে, সেটাই এক ধরনের রহমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Pattern Turned Inward",
+          "bn": "ধারাটা নিজের দিকে ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Between the two punishments stands the sentence that turns the story toward every reader, in 17:7: in ahsantum ahsantum li-anfusikum wa-in asa'tum fa-laha, if you do good, you do good for yourselves, and if you do evil, it is against yourselves. Ibn Kathir sets beside it 45:15: whoever does a righteous deed, it is for himself, and whoever does evil, it is against himself. The rule is not tied to a single people. The Book given as guidance in 17:2 made those who held it answerable, and so does the Qur'an of 17:9.",
+            "bn": "দুই শাস্তির মাঝখানে ১৭:৭ আয়াতে আছে সেই বাক্য, যা কাহিনিটাকে প্রত্যেক পাঠকের দিকে ঘুরিয়ে দেয়: ইন আহসানতুম আহসানতুম লি-আনফুসিকুম, ওয়া ইন আসা'তুম ফালাহা। তোমরা ভালো করলে নিজেদের জন্যই ভালো করবে, আর মন্দ করলে তাও নিজেদেরই বিরুদ্ধে। ইবন কাসীর এর পাশে রাখেন ৪৫:১৫ আয়াত: যে নেক আমল করে, নিজের জন্যই করে, আর যে মন্দ করে, তা তার নিজেরই বিরুদ্ধে যায়। নিয়মটা কোনো একটি জাতির সঙ্গে বাঁধা নয়। ১৭:২ আয়াতে হিদায়াত হিসেবে দেওয়া কিতাব তার ধারকদের জবাবদিহির আওতায় এনেছিল। ১৭:৯ আয়াতের কুরআনও তা-ই করে।"
+          },
+          {
+            "en": "The pattern the commentators trace can recur in any community, the reader's own included. As-Sa'di names insolence toward blessings and arrogance in the land; Ma'arif describes peace and prosperity returning and the past being the first thing forgotten. The Prophet ﷺ warned his own community of the same road. The narration below is general and is not attached to this verse; it is quoted whole, in the collector's wording.",
+            "bn": "তাফসীরকারেরা যে ধারা দেখান, তা যেকোনো সমাজে ফিরে আসতে পারে, পাঠকের নিজের সমাজেও। সা'দী বলেন নিয়ামত পেয়ে বেপরোয়া হওয়া আর জমিনে দম্ভের কথা। মাআরিফুল কুরআন দেখায়, শান্তি আর সচ্ছলতা ফিরে এলে সবার আগে ভুলে যাওয়া হয় অতীতটাই। নবী ﷺ তাঁর নিজের উম্মাহকেও এই পথ সম্পর্কে সাবধান করেছেন। নিচের বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। সংকলকের ভাষ্যে তা পুরোটাই তুলে দেওয়া হলো।"
+          },
+          {
+            "en": "Al-Bukhari (7320) relates from Abu Sa'id al-Khudri (RA) that the Prophet ﷺ said, 'You will follow the ways of those nations who were before you, span by span and cubit by cubit (i.e., inch by inch) so much so that even if they entered a hole of a mastigure, you would follow them.' We said, 'O Allah's Messenger (ﷺ)! (Do you mean) the Jews and the Christians?' He said, 'Whom else?' It stands in his Sahih, and it places the reader inside the warning rather than above it.",
+            "bn": "বুখারী (৭৩২০) আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: 'তোমরা অবশ্যই তোমাদের পূর্ববর্তী জাতিগুলোর পথ অনুসরণ করবে, বিঘতে বিঘতে, হাতে হাতে। এমনকি তারা যদি গুইসাপের গর্তে ঢোকে, তোমরাও তাদের পেছনে ঢুকবে।' আমরা বললাম, 'হে আল্লাহর রাসূল, আপনি কি ইহুদি ও খ্রিস্টানদের কথা বলছেন?' তিনি বললেন, 'তবে আর কারা?' হাদীসটি বুখারীর সহীহ গ্রন্থে আছে। এটি পাঠককে সাবধানবাণীর উপরে দাঁড় করায় না, ভেতরে দাঁড় করায়।"
+          },
+          {
+            "en": "So the question this verse leaves is personal. Where has blessing made me careless, and where has a little standing made me look down on others? Where have I read a warning about someone else and failed to hear it about myself? The way back that 17:8 names, perhaps your Lord will have mercy on you, stays open to whoever turns, and the good done on that way, 17:7 promises, comes home to whoever does it.",
+            "bn": "তাই এ আয়াত যে প্রশ্ন রেখে যায়, তা একান্ত নিজের। নিয়ামত কোথায় আমাকে গাফেল করে দিয়েছে? সামান্য মর্যাদা পেয়ে কোথায় আমি অন্যদের ছোট চোখে দেখতে শুরু করেছি? কোথায় অন্যের ব্যাপারে সাবধানবাণী পড়েছি, অথচ নিজের বেলায় তা কানে তুলিনি? ১৭:৮ আয়াত ফেরার যে পথের কথা বলে, হয়তো তোমাদের রব তোমাদের উপর রহম করবেন, সে পথ খোলা আছে যে-ই ফেরে তার জন্য। আর ১৭:৭ আয়াতের কথা অনুযায়ী, সে পথে করা ভালো কাজ ফিরে আসে যে করে তারই কাছে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:9": {
     "sections": [
       {

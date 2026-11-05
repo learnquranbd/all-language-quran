@@ -22631,6 +22631,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The One who made you from nothing can raise you from dust; live today as someone who fully expects to stand up again and meet what he did.",
     "lessonBn": "যিনি আপনাকে শূন্য থেকে বানিয়েছেন, ধুলো থেকে আবার ওঠানো তাঁর পক্ষে কঠিন নয়। তাই আজ এমনভাবে বাঁচুন, যেন আপনি নিশ্চিত জানেন যে আবার উঠে দাঁড়াবেন আর নিজের করা সব কিছুর মুখোমুখি হবেন।"
+  },
+  "17:4": {
+    "reflectionEn": "Before any of it happened, they were told. In the Book given to them, God made known that they would spread corruption in the land twice and rise to a great height of arrogance. The verses after it tell of armies sent, homes searched, strength restored and a second ruin. Who those armies were, the old reports argue over, and the verse does not say. What it does say is plainer and harder: a people given guidance were warned in advance, and the warning did not hold them back. Then comes the line that turns toward every reader: if you do good, you do good for yourselves. So the question is not about them. Which warning have I already been given, and am I still walking toward it?",
+    "reflectionBn": "কিছু ঘটার আগেই তাদের জানিয়ে দেওয়া হয়েছিল। তাদের দেওয়া কিতাবে আল্লাহ জানিয়েছিলেন, তারা দুবার পৃথিবীতে বিপর্যয় ঘটাবে, আর ঔদ্ধত্যে অনেক উঁচুতে মাথা তুলবে। পরের আয়াতগুলোতে আসে পাঠানো বাহিনী, ঘরে ঘরে তল্লাশি, আবার শক্তি ফিরে পাওয়া, তারপর দ্বিতীয় ধ্বংস। সেই বাহিনী কারা ছিল, তা নিয়ে পুরোনো বর্ণনাগুলো একমত নয়, আর আয়াতও নাম বলে না। আয়াত যা বলে তা আরও সোজা, আরও কঠিন: যাদের হিদায়াত দেওয়া হয়েছিল, তাদের আগেভাগে সাবধান করা হয়েছিল, তবু সেই সাবধানবাণী তাদের থামায়নি। তারপর আসে সেই কথা, যা প্রত্যেক পাঠকের দিকে ফিরে তাকায়: তোমরা ভালো করলে নিজেদের জন্যই ভালো করবে। তাই প্রশ্নটা তাদের নিয়ে নয়। কোন সাবধানবাণী আমি আগেই পেয়ে গেছি, আর এখনো কি আমি সেদিকেই হেঁটে চলেছি?",
+    "pointsEn": [
+      "Which warning in the Qur'an have I read many times, and what have I actually changed because of it?",
+      "When things go well for me, do I grow more grateful, or do I begin to feel I have risen above others?",
+      "Where in my own family, mosque or community do I see the old pattern of blessing, then forgetting, then wrong?",
+      "When I read of the sins of earlier peoples, do I look for myself in the story, or only for someone else to blame?",
+      "What good can I do this week, knowing that its benefit comes back to me?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোন সাবধানবাণী আমি বহুবার পড়েছি, অথচ তার কারণে নিজের মধ্যে আসলে কী বদলেছি?",
+      "আমার দিন ভালো গেলে আমি কি আরও শুকরগুজার হই, নাকি মনে হতে থাকে আমি অন্যদের চেয়ে উপরে উঠে গেছি?",
+      "আমার নিজের পরিবারে, মসজিদে বা সমাজে কোথায় দেখি সেই পুরোনো ধারা: নিয়ামত, তারপর ভুলে যাওয়া, তারপর অন্যায়?",
+      "আগের জাতিগুলোর গুনাহের কথা পড়ার সময় আমি কি কাহিনির ভেতরে নিজেকে খুঁজি, নাকি শুধু দোষ চাপানোর মতো অন্য কাউকে খুঁজি?",
+      "এ সপ্তাহে কোন ভালো কাজটা আমি করতে পারি, এ কথা জেনে যে তার লাভ আমার কাছেই ফিরে আসবে?"
+    ],
+    "lessonEn": "A warning given in advance is a mercy; heed it in yourself, for corruption and arrogance can overtake any community, and the good you do returns to you.",
+    "lessonBn": "আগেভাগে দেওয়া সাবধানবাণী রহমত। নিজের বেলায় তা মেনে চলুন, কারণ বিপর্যয় আর ঔদ্ধত্য যেকোনো সমাজকে পেয়ে বসতে পারে, আর আপনার করা ভালো আপনার কাছেই ফিরে আসে।"
   }
 };
 
