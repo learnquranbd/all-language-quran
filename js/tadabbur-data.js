@@ -21011,6 +21011,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let a suspicion you cannot prove keep you from an offered peace; what it may hide is Allah's to guard you from, and He has guarded you before.",
     "lessonBn": "যে সন্দেহ প্রমাণ করতে পারবেন না, তার জন্য সামনে আসা সন্ধির সুযোগ ফিরিয়ে দেবেন না। ভেতরে যা লুকানো থাকতে পারে, তা থেকে রক্ষা করার ভার আল্লাহর, আর তিনি আগেও রক্ষা করেছেন।"
+  },
+  "8:41": {
+    "reflectionEn": "The verse arrives at the moment of winning. The fighting at Badr is over, the goods lie gathered, and the first word is not take but know. What you gained is yours, the verse allows, yet a fifth is named before anyone counts, and it is named for Allah first. Then come the Messenger, his kin, the orphans, the poor and the stranded traveller: people who never stood in the line. Even a needle and its thread fall under the rule. And the whole division is tied to a condition: if you have believed. Most of us will never touch the spoils of battle. Every gain still arrives with the same question. Before I count what has come to me, do I know whose names are already written on it?",
+    "reflectionBn": "আয়াতটি আসে জয়ের মুহূর্তে। বদরের লড়াই শেষ, মালপত্র জড়ো করা হয়েছে। আর প্রথম কথাটা 'নিয়ে নাও' নয়, 'জেনে রাখো'। যা তোমরা পেয়েছ তা তোমাদেরই, আয়াত সে কথা মেনে নেয়। তবু কেউ গোনা শুরুর আগেই এক-পঞ্চমাংশের ভাগীদারদের নাম বলে দেওয়া হয়, আর সবার আগে আল্লাহর নাম। এরপর রসূল, তাঁর আত্মীয়, ইয়াতীম, অভাবী আর পথে আটকে পড়া মুসাফির। এরা কেউ যুদ্ধের সারিতে দাঁড়ায়নি। সুই আর সুতাও এ বিধানের বাইরে নয়। আর গোটা বণ্টন বাঁধা একটি শর্তে: যদি তোমরা ঈমান এনে থাকো। আমাদের বেশির ভাগ কখনো যুদ্ধলব্ধ সম্পদ ছুঁয়েও দেখবে না। তবু প্রতিটি প্রাপ্তি একই প্রশ্ন নিয়ে আসে। যা আমার হাতে এল, তা গোনার আগে আমি কি জানি, এর গায়ে আগে থেকেই কাদের নাম লেখা আছে?",
+    "pointsEn": [
+      "When something good comes into my hands, is my first thought how much of it is mine, or who else has a share in it?",
+      "What small thing have I kept back while telling myself it was too little to matter?",
+      "If this verse wrote names onto my income, which orphan, which needy neighbour, which traveller far from home would I find there?",
+      "Do I treat what I give from my gains as part of my faith, or as an extra for the days I feel generous?",
+      "On the day I succeed, do I remember that the help came from Allah before the counting began?"
+    ],
+    "pointsBn": [
+      "ভালো কিছু হাতে এলে আমার প্রথম ভাবনা কী হয়: এর কতটা আমার, নাকি এতে আর কার কার হক আছে?",
+      "কোন ছোট জিনিসটা আমি রেখে দিয়েছি, আর নিজেকে বুঝিয়েছি যে এত সামান্য জিনিসে কিছু যায় আসে না?",
+      "এ আয়াত যদি আমার আয়ের গায়ে নাম লিখে দিত, সেখানে কোন ইয়াতীম, কোন অভাবী প্রতিবেশী, ঘর থেকে দূরে আটকে পড়া কোন মুসাফিরের নাম পেতাম?",
+      "নিজের প্রাপ্তি থেকে যা দিই, তাকে কি ঈমানের অংশ মনে করি, নাকি দিল খোলা থাকলে দেওয়ার মতো বাড়তি কিছু?",
+      "যেদিন সফল হই, সেদিন কি মনে রাখি যে গোনাগুনতি শুরুর আগেই সাহায্যটা এসেছিল আল্লাহর কাছ থেকে?"
+    ],
+    "lessonEn": "Every gain arrives already marked: before you count what is yours, remember the share named for Allah and for those who have no one to stand for them.",
+    "lessonBn": "প্রতিটি প্রাপ্তি আগে থেকেই চিহ্নিত হয়ে আসে। নিজের ভাগ গোনার আগে মনে রাখুন, এতে আল্লাহর জন্য নির্ধারিত অংশ আছে, আর আছে তাদের হক, যাদের পাশে দাঁড়ানোর কেউ নেই।"
   }
 };
 

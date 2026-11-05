@@ -1395,6 +1395,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "Know, Then Divide",
+          "bn": "আগে জানা, তারপর বণ্টন"
+        },
+        "p": [
+          {
+            "en": "Wa-'lamu: and know. The verse before, 8:40, closed on Allah as the believers' Protector, the best Protector and the best Helper; this verse turns to what the battle left behind. Ghanimtum, you have gained. Al-Qurtubi notes that in the language ghanima is whatever is obtained by effort, and that the law narrowed the word to the disbelievers' property taken by victory and force. As-Sa'di adds: whether little or much. Then 8:42 returns to the valley and the two camps.",
+            "bn": "ওয়া'লামূ: আর জেনে রাখো। আগের আয়াত ৮:৪০ শেষ হয়েছিল এই কথায় যে আল্লাহই মুমিনদের অভিভাবক, কত উত্তম অভিভাবক, কত উত্তম সাহায্যকারী। এবার আয়াতটি চোখ ফেরায় যুদ্ধ যা রেখে গেছে তার দিকে। গানিমতুম, তোমরা যা লাভ করেছ। কুরতুবী বলেন, ভাষার দিক থেকে গানীমা হলো চেষ্টা করে যা পাওয়া যায়। শরীয়ত শব্দটিকে সীমিত করেছে কাফেরদের সেই সম্পদে, যা বিজয় আর শক্তির জোরে হাতে আসে। সা'দী জুড়ে দেন: অল্প হোক বা বেশি। এরপর ৮:৪২ আবার ফিরে যায় উপত্যকায়, দুই শিবিরের অবস্থানে।"
+          },
+          {
+            "en": "Min shay'in, of anything, widens the net as far as it will go. At-Tabari says it means whatever carries the name of a thing, among the goods that fell to division, even the thread and the needle. Ibn Kathir reads the phrase as emphasis that the fifth is taken from everything, small and large, down to the thread and the needle, and sets 3:161 beside it: whoever takes by stealth will bring what he took on the Day of Resurrection. The verse opens by counting the smallest object.",
+            "bn": "মিন শাইয়িন, যে কোনো জিনিস থেকে। এ শব্দ জালটা যতদূর পারা যায় ছড়িয়ে দেয়। তাবারী বলেন, বণ্টনের আওতায় আসা মালের মধ্যে যাকেই 'জিনিস' বলা যায়, সবই এর ভেতরে, এমনকি সুতা আর সুই। ইবন কাসীর এ শব্দকে জোর দেওয়ার ভাষা হিসেবে পড়েন। ছোট-বড় সব কিছু থেকেই এক-পঞ্চমাংশ বের করতে হবে, সুতা আর সুই পর্যন্ত। এর পাশে তিনি রাখেন ৩:১৬১: যে গোপনে আত্মসাৎ করবে, কিয়ামতের দিন সে আত্মসাৎ করা জিনিস নিয়েই হাজির হবে। আয়াতের শুরুটাই হয় সবচেয়ে ছোট জিনিসটা গুনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taken by Force, or by Peace",
+          "bn": "যুদ্ধে পাওয়া, না সন্ধিতে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi calls ghanima and fay' two names for wealth the Muslims obtain from the disbelievers. Some held the two to be one; others told them apart: ghanima is taken by force through fighting, fay' comes by settlement without it. Ibn Kathir gives the distinction as the school of al-Shafi'i and a body of scholars, counting as fay' what a peace secures, heirless estates, jizya and land tax. At-Tabari reports Sufyan ath-Thawri: a fifth is taken from ghanima, but fay' carries no fifth.",
+            "bn": "বাগাভী বলেন, গানীমা আর ফাই দুটি নাম, দুটিই কাফেরদের কাছ থেকে মুসলমানদের হাতে আসা সম্পদের। কারও মতে দুটি একই। অন্যরা পার্থক্য করেছেন: লড়াই করে শক্তির জোরে যা নেওয়া হয় তা গানীমা, আর লড়াই ছাড়া সন্ধির মাধ্যমে যা আসে তা ফাই। ইবন কাসীর এ পার্থক্যকে ইমাম শাফেয়ী ও একদল আলেমের মত বলে উল্লেখ করেন। ফাই-এর মধ্যে তিনি গোনেন সন্ধিতে পাওয়া সম্পদ, ওয়ারিসহীন সম্পত্তি, জিযিয়া আর ভূমিকর। তাবারী সুফিয়ান সাওরীর কথা আনেন: গানীমা থেকে এক-পঞ্চমাংশ বের হয়, কিন্তু ফাই থেকে হয় না।"
+          },
+          {
+            "en": "A claim of abrogation sits on each side of the verse. At-Tabari reports Qatada treating the two words as one and saying that 8:41 abrogated 59:7, which had given fay' to the same named groups. At-Tabari rejects this: nothing in either verse cancels the ruling of the other. Ibn Kathir calls it far-fetched, because this verse came down after Badr while 59:7 concerned Banu an-Nadir, and the historians of the campaigns agree without exception that Banu an-Nadir came after Badr.",
+            "bn": "আয়াতের দুই দিকেই রহিত হওয়ার একটি করে দাবি আছে। তাবারী কাতাদার মত আনেন। তিনি দুটি শব্দকে একই অর্থে ধরতেন। তাঁর মতে ৮:৪১ রহিত করেছে ৫৯:৭-কে, যেখানে ফাই দেওয়া হয়েছিল ঠিক এই নামধারী শ্রেণিগুলোকে। তাবারী এ মত মানেন না। তাঁর যুক্তি, কোনো আয়াতেই এমন কিছু নেই যা অন্যটির বিধান বাতিল করে। ইবন কাসীর একে দূরের কথা বলেন। কারণ এ আয়াত নেমেছে বদরের পরে, আর ৫৯:৭ বনু নাযীরের ঘটনা নিয়ে। যুদ্ধ-ইতিহাসের আলেমরা একবাক্যে একমত যে বনু নাযীরের ঘটনা বদরের পরের।"
+          },
+          {
+            "en": "The second claim faces the surah's opening. Al-Qurtubi records that, for the majority, this verse abrogated 8:1, where the spoils were declared to belong to Allah and the Messenger. He also reports a minority who held 8:1 still standing, with the spoils left wholly to the Prophet and the leaders after him to keep or share. He rejects that, because the verse assigns the gain to those who gained it and names only the fifth. On his reading, 8:1 then concerns the extra a leader may grant before the division.",
+            "bn": "দ্বিতীয় দাবিটি সূরার শুরুর দিকে মুখ করা। কুরতুবী লেখেন, অধিকাংশ আলেমের মতে এ আয়াত ৮:১-কে রহিত করেছে, যেখানে বলা হয়েছিল যুদ্ধলব্ধ সম্পদ আল্লাহ ও রসূলের। তিনি একটি সংখ্যালঘু মতও আনেন। তাদের মতে ৮:১ এখনো বহাল, আর গানীমা পুরোটাই নবী ﷺ-এর হাতে, তাঁর পরে শাসকদের হাতে, চাইলে রাখবেন, চাইলে ভাগ করবেন। কুরতুবী এ মত প্রত্যাখ্যান করেন। কারণ আয়াত প্রাপ্তিকে যারা পেয়েছে তাদের সঙ্গেই জুড়েছে, আর আলাদা করে নাম বলেছে শুধু পঞ্চমাংশের। তাঁর ব্যাখ্যায় ৮:১ তখন সেই বাড়তি দানের কথা, যা বণ্টনের আগে শাসক কাউকে দিতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opening Words or a Share",
+          "bn": "শুরুর কথা, নাকি আলাদা ভাগ"
+        },
+        "p": [
+          {
+            "en": "Fa-anna lillahi khumusahu: then a fifth of it is for Allah. Does Allah hold a share of His own? Al-Baghawi says most commentators and jurists read lillahi as an opening of speech for blessing, Allah ascribing this wealth to Himself for its honour, not a portion set apart for Him, since this world and the next are all His. For this he names al-Hasan, Qatada, Ata', Ibrahim and ash-Sha'bi: the shares of Allah and the Messenger are one. At-Tabari reports al-Hasan ibn Muhammad ibn al-Hanafiyya: this is an opening of speech; to Allah belong this world and the next.",
+            "bn": "ফাআন্না লিল্লাহি খুমুসাহু: তার এক-পঞ্চমাংশ আল্লাহর। আল্লাহর কি নিজের আলাদা কোনো ভাগ আছে? বাগাভী বলেন, অধিকাংশ মুফাসসির ও ফকীহ লিল্লাহি-কে পড়েন বরকতের জন্য কথার সূচনা হিসেবে। আল্লাহ এ সম্পদের মর্যাদা বোঝাতে একে নিজের দিকে সম্পর্কিত করেছেন। তাঁর জন্য আলাদা করে রাখা কোনো ভাগ এখানে উদ্দেশ্য নয়, কারণ দুনিয়া আর আখিরাত সবই তো তাঁর। এ মতের পক্ষে তিনি নাম নেন হাসান, কাতাদা, আতা, ইবরাহীম ও শা'বীর: আল্লাহর ভাগ আর রসূলের ভাগ একই। তাবারী হাসান ইবন মুহাম্মাদ ইবনুল হানাফিয়্যার কথা আনেন: এ হলো কথার সূচনা, দুনিয়া ও আখিরাত আল্লাহরই।"
+          },
+          {
+            "en": "The other side is nearly a lone voice. Abu al-'Aliya held that the fifth splits into six, Allah's share going to the Ka'ba. Ibn Kathir reports from him that the Prophet would strike his hand into the fifth, set what his palm closed on for the Ka'ba as Allah's share, and divide the rest in five. At-Tabari prefers the opening-words reading because the authorities agreed the fifth may not be divided into six, and he knows no one besides Abu al-'Aliya who said otherwise. Al-Baghawi also calls five the sounder view.",
+            "bn": "বিপরীত মতটি প্রায় একক কণ্ঠ। আবুল আলিয়ার মতে পঞ্চমাংশ ভাগ হবে ছয়টি অংশে, আর আল্লাহর অংশ যাবে কা'বার জন্য। ইবন কাসীর তাঁর সূত্রে বর্ণনা করেন, নবী ﷺ পঞ্চমাংশের স্তূপে হাত ঢোকাতেন। মুঠোয় যা উঠত, আল্লাহর অংশ হিসেবে তা কা'বার জন্য রাখতেন, তারপর বাকিটা পাঁচ ভাগ করতেন। তাবারী সূচনা-বাক্যের মতটিকেই অগ্রাধিকার দেন। কারণ আলেমরা একমত যে পঞ্চমাংশকে ছয়টি ভাগে ভাগ করা চলে না, আর আবুল আলিয়া ছাড়া এমন কথা আর কেউ বলেছেন বলে তাঁর জানা নেই। বাগাভীও পাঁচ ভাগকেই বেশি সঠিক বলেন।"
+          },
+          {
+            "en": "Why name Allah at all? Al-Qurtubi answers that He opened the rulings on fay' and the fifth with His own name because they are the most honourable kind of gain, and did not ascribe charity to Himself, because charity is what is washed off people's wealth. Ma'arif al-Qur'an adds that the word marks the portion of the Prophet and his family as coming from Allah directly, not through people's alms. At-Tabari reports through al-Hasan that Abu Bakr (RA) willed a fifth of his estate, saying: shall I not be content, from my wealth, with what Allah was content with for Himself?",
+            "bn": "তাহলে আল্লাহর নাম আনা হলো কেন? কুরতুবীর জবাব, ফাই আর পঞ্চমাংশের বিধান আল্লাহ নিজের নাম দিয়ে শুরু করেছেন, কারণ উপার্জনের মধ্যে এ দুটিই সবচেয়ে মর্যাদাপূর্ণ। সদকাকে তিনি নিজের দিকে সম্পর্কিত করেননি, কারণ সদকা মানুষের সম্পদের ধোয়া ময়লা। মাআরিফুল কুরআন যোগ করে, এ শব্দ বুঝিয়ে দেয় যে নবী ﷺ ও তাঁর পরিবারের অংশ সরাসরি আল্লাহর কাছ থেকে আসে, মানুষের দান-খয়রাতের পথ ধরে নয়। তাবারী হাসানের সূত্রে বর্ণনা করেন, আবু বকর (রাঃ) নিজের সম্পদের এক-পঞ্চমাংশ ওসিয়ত করে গিয়েছিলেন। তিনি বলেছিলেন: আল্লাহ নিজের জন্য যতটুকুতে সন্তুষ্ট হয়েছেন, আমার সম্পদ থেকে আমি কি ততটুকুতে সন্তুষ্ট হব না?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Heads, Six, or Three",
+          "bn": "পাঁচ, ছয়, নাকি তিন ভাগ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi counts six views on dividing the fifth; the last three are named for imams. Al-Shafi'i: into five, the share of Allah and His Messenger being one, spent on the believers' common interests, and the other parts going to the four named groups. Abu Hanifa: into three, orphans, the needy and the traveller, because the kin's portion lapsed with the Prophet's death just as his own share did. Malik: the matter is left to the leader's judgment, who gives the kin by his own effort and spends the rest on the Muslims' interests.",
+            "bn": "পঞ্চমাংশ কীভাবে ভাগ হবে, এ নিয়ে কুরতুবী ছয়টি মত গুনেছেন। শেষ তিনটি তিনজন ইমামের নামে। ইমাম শাফেয়ীর মতে ভাগ হবে পাঁচে। আল্লাহ ও রসূলের অংশ একটিই, তা খরচ হবে মুমিনদের সাধারণ কল্যাণে, আর বাকি অংশগুলো যাবে নাম নেওয়া চারটি শ্রেণির কাছে। ইমাম আবু হানিফার মতে ভাগ তিনটি: ইয়াতীম, মিসকীন আর মুসাফির। নবী ﷺ-এর ইন্তেকালের সঙ্গে তাঁর নিজের অংশ যেমন উঠে গেছে, তাঁর আত্মীয়দের অংশও তেমনি উঠে গেছে। ইমাম মালিকের মতে বিষয়টি শাসকের বিবেচনার উপর ছেড়ে দেওয়া। তিনি নিজের ইজতিহাদ অনুযায়ী আত্মীয়দের দেবেন, বাকিটা খরচ করবেন মুসলমানদের কল্যাণে।"
+          },
+          {
+            "en": "As-Sa'di sets out five equal parts, then notes in a bracket that some commentators keep the fifth within these groups without requiring equal shares, following the public good, and he calls that the better view. Ma'arif al-Qur'an argues likewise: one kinsman may also be an orphan, needy and a traveller, yet nobody gives him four shares, so these are heads of spending, not fixed entitlements. The article records these legal readings and takes no side.",
+            "bn": "সা'দী প্রথমে পাঁচটি সমান অংশের কথা বলেন। তারপর বন্ধনীর ভেতরে উল্লেখ করেন, কোনো কোনো মুফাসসিরের মতে পঞ্চমাংশ এই শ্রেণিগুলোর মধ্যেই থাকবে, তবে সমান ভাগ জরুরি নয়, চলবে জনকল্যাণের বিবেচনায়। সা'দী এ মতকেই উত্তম বলেন। মাআরিফুল কুরআনও একই যুক্তি দেয়। একজন আত্মীয় একসঙ্গে ইয়াতীম, অভাবী আর মুসাফিরও হতে পারেন, অথচ কেউ তাঁকে চারটি অংশ দেয় না। তাই এগুলো খরচের খাত, নির্দিষ্ট প্রাপ্য নয়। এ প্রবন্ধ ফিকহের এই মতগুলো শুধু তুলে ধরে, কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Messenger Was Gone",
+          "bn": "রসূল ﷺ চলে যাওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "What became of the Prophet's own share after his death? Ibn Kathir lists the answers: to whoever holds authority after him; to the Muslims' common interests; back to the remaining groups, as at-Tabari chose; or, together with the kin's share, to the orphans, the needy and the traveller, which at-Tabari calls the view of a group in Iraq. Al-Baghawi and Ibn Kathir both report, through al-A'mash from Ibrahim, that Abu Bakr and Umar (RA) put the Prophet's share into horses and weapons.",
+            "bn": "ইন্তেকালের পর নবী ﷺ-এর নিজের অংশের কী হলো? ইবন কাসীর উত্তরগুলো সাজিয়ে দেন। এক মতে তা পাবেন তাঁর পরের শাসক। আরেক মতে তা যাবে মুসলমানদের সাধারণ কল্যাণে। আরেক মতে তা ফিরে যাবে বাকি শ্রেণিগুলোর কাছে, তাবারী এ মতই বেছে নিয়েছেন। আরেক মতে আত্মীয়দের অংশসহ তা যাবে ইয়াতীম, মিসকীন ও মুসাফিরের কাছে; তাবারী একে ইরাকের একদল আলেমের মত বলেছেন। বাগাভী ও ইবন কাসীর দুজনেই আ'মাশের সূত্রে ইবরাহীম থেকে বর্ণনা করেন, আবু বকর ও উমর (রাঃ) নবী ﷺ-এর অংশ ঘোড়া আর অস্ত্রের পেছনে খরচ করতেন।"
+          },
+          {
+            "en": "The kin's share divides the scholars further. Al-Baghawi says most of them, Malik and al-Shafi'i among them, hold that it still stands; the people of juristic opinion hold that it does not, and send both shares back into the fifth for three groups; others give it to the poor among the kin only. Ma'arif al-Qur'an reports Abu Hanifa's reasoning: the Prophet gave his kin for two reasons, their need and their support in establishing and defending the faith. The second ended with his death; the first remains, so their poor are to be preferred.",
+            "bn": "আত্মীয়দের অংশ নিয়ে আলেমদের মতভেদ আরও বেশি। বাগাভী বলেন, অধিকাংশের মতে, যাঁদের মধ্যে ইমাম মালিক ও ইমাম শাফেয়ীও আছেন, এ অংশ আজও বহাল। আসহাবুর রায় বলেন বহাল নেই। তাঁরা দুটি অংশই পঞ্চমাংশে ফিরিয়ে তিনটি শ্রেণির মধ্যে ভাগ করেন। কেউ কেউ বলেন, শুধু আত্মীয়দের মধ্যে যারা গরিব তারাই পাবে। মাআরিফুল কুরআন ইমাম আবু হানিফার যুক্তি তুলে ধরে। নবী ﷺ আত্মীয়দের দিতেন দুই কারণে: তাদের অভাব, আর দ্বীন প্রতিষ্ঠা ও রক্ষায় তাদের সহযোগিতা। দ্বিতীয় কারণটি তাঁর ইন্তেকালের সঙ্গে শেষ হয়ে গেছে, প্রথমটি রয়ে গেছে। তাই তাদের গরিবদের অগ্রাধিকার দিতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hashim and al-Muttalib, Joined",
+          "bn": "হাশিম ও মুত্তালিব, এক সুতোয় গাঁথা"
+        },
+        "p": [
+          {
+            "en": "Who are dhu l-qurba, the near kin? Al-Qurtubi gives three answers. All of Quraysh, held by some early scholars. Banu Hashim and Banu al-Muttalib, held by al-Shafi'i, Ahmad, Qatada and others. Banu Hashim alone, from Ali ibn al-Husayn, and the view of Malik, ath-Thawri and al-Awza'i. The Muyassar and as-Sa'di take the second; for the Muyassar, the fifth replaces the charity that is unlawful for them. Do their rich share with their poor? As-Sa'di says yes, since kinship alone is the cause; al-Baghawi also records some who give to their poor only.",
+            "bn": "যুল কুরবা, নিকটাত্মীয় কারা? কুরতুবী তিনটি উত্তর দেন। এক, গোটা কুরাইশ; পূর্ববর্তীদের কেউ কেউ এ মত দিয়েছেন। দুই, বনু হাশিম ও বনু মুত্তালিব; এ মত ইমাম শাফেয়ী, আহমাদ, কাতাদা ও আরও অনেকের। তিন, শুধু বনু হাশিম; এ মত আলী ইবনুল হুসাইন থেকে বর্ণিত, আর ইমাম মালিক, সাওরী ও আওযায়ীরও এই মত। মুয়াসসার ও সা'দী দুজনেই দ্বিতীয় মতটি নেন। মুয়াসসার কারণও বলে: সদকা তাদের জন্য হালাল নয়, তাই সদকার বদলে তাদের পঞ্চমাংশ দেওয়া হয়েছে। তাদের ধনী আর গরিব কি সমান পাবে? সা'দী বলেন হ্যাঁ, কারণ এখানে কারণ শুধু আত্মীয়তা। বাগাভী আবার এমন কয়েকজনের মত আনেন, যাঁরা শুধু গরিবদের দেন।"
+          },
+          {
+            "en": "The second view rests on a report in Sahih al-Bukhari (3140). Jubayr ibn Mut'im (RA) said: I and Uthman ibn Affan walked to the Messenger of Allah ﷺ and we said, O Messenger of Allah, you gave Banu al-Muttalib and left us out, though we and they stand in one same relation to you. The Messenger of Allah ﷺ said: Banu al-Muttalib and Banu Hashim are one thing. Al-Bukhari adds, through al-Layth from Yunus, that Jubayr said: the Prophet ﷺ did not apportion anything to Banu Abd Shams or to Banu Nawfal. Al-Bukhari's own grading is that he placed it in his Sahih.",
+            "bn": "দ্বিতীয় মতের ভিত্তি সহীহ বুখারীর একটি বর্ণনা (৩১৪০)। জুবাইর ইবন মুতইম (রাঃ) বলেন: আমি আর উসমান ইবন আফফান রসূলুল্লাহ ﷺ-এর কাছে হেঁটে গেলাম। আমরা বললাম, হে আল্লাহর রসূল, আপনি বনু মুত্তালিবকে দিলেন, আর আমাদের বাদ রাখলেন, অথচ আপনার সঙ্গে আমাদের আর তাদের সম্পর্ক একই পর্যায়ের। রসূলুল্লাহ ﷺ বললেন: বনু মুত্তালিব আর বনু হাশিম একই জিনিস। বুখারী লাইস থেকে, তিনি ইউনুস থেকে, এর সঙ্গে জুবাইরের এ কথাটুকু যোগ করেন: নবী ﷺ বনু আবদে শামস ও বনু নাওফালকে কোনো ভাগ দেননি। বুখারী নিজে একে সহীহ গ্রন্থে স্থান দিয়েছেন, এটাই তাঁর মান নির্ধারণ।"
+          },
+          {
+            "en": "Why al-Muttalib and not the other cousins? Ibn Kathir explains that Banu al-Muttalib stood with Banu Hashim before Islam and in its first years, and went into the valley with them to shield the Prophet. Abd Shams and Nawfal, cousins as close, did not. At-Tabari judges this soundest: the kin are Banu Hashim and their allies Banu al-Muttalib, because a people's ally is one of them, and because the report is sound.",
+            "bn": "অন্য চাচাতো গোত্র বাদ দিয়ে শুধু মুত্তালিব কেন? ইবন কাসীর ব্যাখ্যা করেন, ইসলামের আগে এবং ইসলামের প্রথম দিকে বনু মুত্তালিব বনু হাশিমের পাশে দাঁড়িয়েছিল। নবী ﷺ-কে আগলে রাখতে তারা বনু হাশিমের সঙ্গে গিরিসংকটে আটকা পড়েছিল। আবদে শামস আর নাওফাল সমান নিকট আত্মীয় হয়েও তা করেনি। তাবারী এ মতকেই সবচেয়ে সঠিক বলেন: আত্মীয় হলো বনু হাশিম এবং তাদের মিত্র বনু মুত্তালিব, কারণ কোনো গোত্রের মিত্র তাদেরই একজন, আর এ বিষয়ে বর্ণনাটিও সহীহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Condition Called Belief",
+          "bn": "ঈমানের শর্তে বাঁধা বণ্টন"
+        },
+        "p": [
+          {
+            "en": "In kuntum amantum bi-llah: if you have believed in Allah. Al-Qurtubi reports that al-Zajjaj, from a group, tied this condition back to 8:40: Allah is your Protector, if you believe. Others tied it to the verse's opening word, know, and Ibn Atiyya calls that correct, because know carries an order to yield to Allah's command on the spoils. As-Sa'di puts it plainly: Allah made paying the fifth as it is due a condition of faith.",
+            "bn": "ইন কুনতুম আমানতুম বিল্লাহ: যদি তোমরা আল্লাহর উপর ঈমান এনে থাকো। কুরতুবী জানান, যাজ্জাজ একদলের বরাতে এ শর্তকে জুড়েছেন পেছনের ৮:৪০ আয়াতের সঙ্গে: আল্লাহ তোমাদের অভিভাবক, যদি তোমরা ঈমান এনে থাকো। অন্যরা একে জুড়েছেন এ আয়াতের শুরুর শব্দ 'জেনে রাখো'-র সঙ্গে। ইবন আতিয়্যা এ মতকেই সঠিক বলেন, কারণ 'জেনে রাখো' কথাটির ভেতরেই আছে গানীমার ব্যাপারে আল্লাহর হুকুম মেনে নেওয়ার নির্দেশ। সা'দী সোজা কথায় বলেন: পঞ্চমাংশ যথাযথভাবে আদায় করাকে আল্লাহ ঈমানের শর্ত বানিয়েছেন।"
+          },
+          {
+            "en": "Ibn Kathir cites the delegation of Abd al-Qays, in Sahih al-Bukhari (53) from Ibn Abbas. In that longer report, the Prophet ﷺ ordered them to believe in Allah alone and asked: Do you know what belief in Allah alone is? They said: Allah and His Messenger know best. He said: Testifying that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing the prayer, giving zakat, fasting Ramadan, and that you give the fifth from the spoils. The report is not about this verse. Ibn Kathir notes al-Bukhari's chapter for it: paying the fifth is part of faith.",
+            "bn": "ইবন কাসীর এর সমর্থনে আনেন আবদুল কায়স গোত্রের প্রতিনিধিদলের ঘটনা, যা সহীহ বুখারীতে (৫৩) ইবন আব্বাস (রাঃ) থেকে বর্ণিত। সেই দীর্ঘ বর্ণনায় নবী ﷺ তাদের এক আল্লাহর উপর ঈমান আনার নির্দেশ দেন এবং জিজ্ঞেস করেন: তোমরা কি জানো, এক আল্লাহর উপর ঈমান কী? তারা বলল: আল্লাহ ও তাঁর রসূলই ভালো জানেন। তিনি বললেন: এ সাক্ষ্য দেওয়া যে আল্লাহ ছাড়া কোনো ইলাহ নেই এবং মুহাম্মাদ আল্লাহর রসূল, সালাত কায়েম করা, যাকাত দেওয়া, রমজানের রোজা রাখা, আর গানীমা থেকে পঞ্চমাংশ দিয়ে দেওয়া। বর্ণনাটি এ আয়াত নিয়ে নয়। ইবন কাসীর জানান, বুখারী এর অধ্যায়ের নাম দিয়েছেন: পঞ্চমাংশ আদায় ঈমানের অংশ।"
+          },
+          {
+            "en": "Wa ma anzalna 'ala 'abdina yawma l-furqan: and what We sent down to Our servant on the day of the criterion. Al-Baghawi takes what was sent down to be 8:1 on the spoils; for the Muyassar it is the signs, the reinforcements and the victory. The day is Badr, when, in at-Tabari's words, Allah separated truth from falsehood, the day the two hosts met. Ibn Kathir reports from Urwa a Friday, the nineteenth or the seventeenth of Ramadan, and holds the seventeenth correct among the historians; al-Baghawi gives the same.",
+            "bn": "ওয়া মা আনযালনা আলা আবদিনা ইয়াওমাল ফুরকান: আর মীমাংসার দিনে আমি আমার বান্দার উপর যা নাযিল করেছিলাম। বাগাভীর মতে নাযিল হওয়া জিনিসটি গানীমা নিয়ে ৮:১ আয়াত। মুয়াসসারের মতে নিদর্শন, সাহায্যকারী বাহিনী আর বিজয়। দিনটি বদরের দিন। তাবারীর ভাষায়, সেদিন আল্লাহ সত্য আর মিথ্যাকে আলাদা করে দেন, যেদিন দুই বাহিনী মুখোমুখি হয়। ইবন কাসীর উরওয়া থেকে বর্ণনা করেন, দিনটি ছিল শুক্রবার, রমজানের ১৯ অথবা ১৭ তারিখ। তিনি ১৭ তারিখকেই যুদ্ধ-ইতিহাসবিদদের কাছে সঠিক বলেন। বাগাভীও একই তারিখ দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Weak Named at Victory",
+          "bn": "বিজয়ের দিনে দুর্বলের নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi quotes al-Asma'i: a quarter before Islam, a fifth in Islam. The chief of a pre-Islamic raid took a quarter of the spoils and picked the choicest items; Allah, al-Qurtubi says, set the religion in order with this verse. The leader's cut became a fifth with names on it, and most of those names belong to people who were not on the field. Ma'arif al-Qur'an adds that no law could guard every item in the chaos of a battlefield; fear of Allah kept the hands clean.",
+            "bn": "কুরতুবী আসমায়ীর কথা উদ্ধৃত করেন: জাহিলিয়াতে চার ভাগের এক ভাগ, ইসলামে পাঁচ ভাগের এক ভাগ। ইসলামের আগে অভিযানের সর্দার গানীমার এক-চতুর্থাংশ নিত, আর বেছে বেছে সেরা জিনিসগুলো তুলে নিত। কুরতুবী বলেন, এ আয়াত দিয়ে আল্লাহ দ্বীনকে সুবিন্যস্ত করেছেন। সর্দারের ভাগ হয়ে গেল নাম লেখা এক-পঞ্চমাংশ, আর সেই নামগুলোর বেশির ভাগ এমন মানুষের, যারা রণক্ষেত্রে ছিল না। মাআরিফুল কুরআন যোগ করে, যুদ্ধক্ষেত্রের বিশৃঙ্খলায় কোনো আইন প্রতিটি জিনিস পাহারা দিতে পারত না। হাত পরিষ্কার রেখেছিল আল্লাহর ভয়।"
+          },
+          {
+            "en": "Read today, the verse is a description, not a commission. It records how the spoils of Badr and of the Prophet's campaigns were divided; its legal rulings belong to the jurists' books. It gives no ruling for any present war, state or armed group, and licenses no one to take anything from anyone in its name. Nor does the defeat of the Quraysh at Badr license anything against any living person or community. What it leaves the reader is a question about gain: before I count what is mine, whose names are already on it?",
+            "bn": "আজ পড়লে আয়াতটি একটি বিবরণ, কোনো দায়িত্ব অর্পণ নয়। বদর আর নবী ﷺ-এর অভিযানগুলোর গানীমা কীভাবে ভাগ হয়েছিল, আয়াত তা লিখে রাখে। এর ফিকহি বিধান ফকীহদের কিতাবের বিষয়। বর্তমানের কোনো যুদ্ধ, রাষ্ট্র বা সশস্ত্র দলের জন্য এ আয়াত কোনো বিধান দেয় না। এর নামে কারও কাছ থেকে কিছু নিয়ে নেওয়ার অনুমতিও কাউকে দেয় না। বদরে কুরাইশের পরাজয়ও আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। পাঠকের জন্য আয়াত রেখে যায় প্রাপ্তি নিয়ে একটি প্রশ্ন: যা আমার, তা গোনার আগে, এর গায়ে আগে থেকে কাদের নাম লেখা আছে?"
+          }
+        ]
+      }
+    ]
+  },
   "8:46": {
     "sections": [
       {
