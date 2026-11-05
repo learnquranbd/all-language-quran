@@ -22711,6 +22711,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever you know is little beside Allah's knowledge. Ask in order to learn, act on what you have been given, and leave with Him what He has kept to Himself.",
     "lessonBn": "আপনি যা-ই জানুন, আল্লাহর জ্ঞানের পাশে তা সামান্য। প্রশ্ন করুন শেখার জন্য, যা পেয়েছেন তার উপর আমল করুন, আর যে জ্ঞান তিনি নিজের কাছে রেখেছেন তা তাঁর কাছেই ছেড়ে দিন।"
+  },
+  "17:95": {
+    "reflectionEn": "They asked for a spring, a garden, a house of gold, a ladder into the sky. Beneath every demand lay one objection: has God sent a mere human as messenger? The answer is calm. Had angels walked the earth at ease, an angel would have come down to them. A messenger is sent from the kind of those he is sent to. Humans were given one of their own, someone they could see, question, understand and follow. An angel could only be watched from a distance. A man who prays, eats, grieves and forgives can be copied. That is where the mercy lies, and where the excuse runs out. If the guide stood close enough to follow, what is my reason for not following him?",
+    "reflectionBn": "ওরা চেয়েছিল ঝর্ণা, বাগান, সোনার ঘর, আকাশে ওঠার সিঁড়ি। সব দাবির নিচে চাপা ছিল একটাই আপত্তি: আল্লাহ কি একজন মানুষকে রসূল করে পাঠালেন? জবাবটা শান্ত। পৃথিবীতে যদি ফেরেশতারা নিশ্চিন্তে চলাফেরা করত, তাদের কাছে ফেরেশতাই রসূল হয়ে নামত। যাদের কাছে রসূল পাঠানো হয়, রসূল আসেন তাদেরই জাত থেকে। মানুষ পেয়েছে নিজেদেরই একজনকে। তাঁকে দেখা যায়, প্রশ্ন করা যায়, তাঁর কথা বোঝা যায়, তাঁর পিছু চলা যায়। ফেরেশতাকে বড়জোর দূর থেকে দেখা যেত। কিন্তু যে মানুষ নামাজ পড়েন, খান, কষ্ট পান, মাফ করে দেন, তাঁকে অনুসরণ করা যায়। রহমতটা এখানেই, আর অজুহাতও এখানেই ফুরিয়ে যায়। পথপ্রদর্শক যদি এতটা কাছে দাঁড়িয়ে থাকেন যে তাঁকে অনুসরণ করা যায়, তবে আমি তাঁকে অনুসরণ করি না কেন?",
+    "pointsEn": [
+      "When I praise the Prophet ﷺ, do I place him so far above me that I excuse myself from actually following him?",
+      "Which ordinary part of his life, how he ate, spoke at home or treated a guest, have I never taken the trouble to learn?",
+      "Am I still waiting for a bigger sign before I act on guidance I already have?",
+      "What would change this week if I measured myself against one human example instead of an ideal I have decided I cannot reach?",
+      "Do I listen more readily to someone who seems extraordinary, and brush off a plain, ordinary person who tells me the truth?"
+    ],
+    "pointsBn": [
+      "নবী ﷺ-এর প্রশংসা করতে গিয়ে আমি কি তাঁকে এত উঁচুতে তুলে রাখি যে তাঁকে আসলে অনুসরণ করার দায় থেকে নিজেকে রেহাই দিয়ে ফেলি?",
+      "তাঁর জীবনের কোন সাধারণ দিকটা, যেমন তিনি কীভাবে খেতেন, ঘরে কীভাবে কথা বলতেন, মেহমানের সঙ্গে কেমন আচরণ করতেন, আমি কখনো কষ্ট করে জানতে চাইনি?",
+      "যে হিদায়াত আমার হাতে আছে, তার ওপর আমল করার আগে আমি কি এখনো আরও বড় কোনো নিদর্শনের অপেক্ষায় বসে আছি?",
+      "নাগালের বাইরে ভেবে যে আদর্শ আমি আগেই ছেড়ে দিয়েছি, তার বদলে একজন মানুষের নমুনার সঙ্গে নিজেকে মিলিয়ে দেখলে এ সপ্তাহে কী বদলাত?",
+      "অসাধারণ মনে হয় এমন কারও কথা কি আমি সহজে মেনে নিই, আর সাদামাটা একজন মানুষ সত্য কথা বললে তা উড়িয়ে দিই?"
+    ],
+    "lessonEn": "A human messenger is a mercy: he can be seen, asked and followed. Learn his life closely and follow it, rather than waiting for a sign beyond your reach.",
+    "lessonBn": "মানুষ রসূল আল্লাহর রহমত: তাঁকে দেখা যায়, প্রশ্ন করা যায়, অনুসরণ করা যায়। নাগালের বাইরের কোনো নিদর্শনের অপেক্ষা না করে তাঁর জীবন ভালো করে জানুন এবং সে পথে চলুন।"
   }
 };
 

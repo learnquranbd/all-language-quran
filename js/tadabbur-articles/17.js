@@ -3651,6 +3651,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:95": {
+    "sections": [
+      {
+        "h": {
+          "en": "Beneath a List of Demands",
+          "bn": "দাবির তালিকার নিচে"
+        },
+        "p": [
+          {
+            "en": "The verses before this one record a run of demands put to the Prophet ﷺ in Makkah, from 17:90 to 17:93: springs and gardens, the sky falling in pieces, a house of gold, a climb into heaven and a book brought down to be read. 17:93 closes the list with the reply he is told to give: glory be to my Lord, was I ever anything but a human messenger? As-Sa'di reads that reply as saying that nothing of the matter lies in his hand. Allah, he adds, is far above having His rulings and signs follow their whims.",
+            "bn": "এর আগের আয়াতগুলোতে ১৭:৯০ থেকে ১৭:৯৩ পর্যন্ত মক্কায় নবী ﷺ-এর সামনে তোলা একের পর এক দাবির বিবরণ আছে: ঝর্ণা আর বাগান, আকাশ টুকরো টুকরো হয়ে ভেঙে পড়া, সোনার ঘর, আসমানে চড়ে যাওয়া, আর পড়ার মতো একখানা কিতাব নামিয়ে আনা। তালিকা শেষ হয় ১৭:৯৩ আয়াতে, যেখানে তাঁকে জবাব শিখিয়ে দেওয়া হয়: আমার রব পবিত্র, আমি কি একজন মানুষ রসূল ছাড়া আর কিছু? সা'দীর ব্যাখ্যায় এ জবাবের মানে, বিষয়টার কিছুই তাঁর হাতে নেই। তিনি আরও বলেন, আল্লাহর বিধান আর নিদর্শন ওদের খেয়ালখুশির পেছনে চলবে, এ থেকে আল্লাহ বহু ঊর্ধ্বে।"
+          },
+          {
+            "en": "17:94 then names what really stood in the way. Nothing kept people from believing, when guidance came to them, except that they said: has Allah sent a human as messenger? At-Tabari, al-Baghawi and al-Muyassar each add that they said it out of ignorance. Al-Baghawi spells out the objection as the disbelievers voiced it: we will not believe you, because you are a human; why did Allah not send us an angel? Allah answered them, he says, with the verse that follows. 17:95 is that answer, given in fourteen Arabic words.",
+            "bn": "এরপর ১৭:৯৪ আয়াত জানিয়ে দেয়, আসল বাধাটা কোথায় ছিল। হিদায়াত আসার পরও মানুষকে ঈমান থেকে আটকে রেখেছিল কেবল তাদের এই কথা: আল্লাহ কি একজন মানুষকে রসূল করে পাঠালেন? তাবারী, বাগাভী ও মুয়াসসার তিনজনই যোগ করেন, কথাটা তারা বলেছিল অজ্ঞতা থেকে। কাফিররা আপত্তিটা কীভাবে তুলত, বাগাভী তা খুলে বলেন: তুমি মানুষ, তাই আমরা তোমাকে মানব না; আল্লাহ আমাদের কাছে একজন ফেরেশতা পাঠালেন না কেন? তাঁর কথায়, আল্লাহ এর জবাব দিয়েছেন পরের আয়াতে। ১৭:৯৫ সেই জবাব, আরবিতে মাত্র চৌদ্দ শব্দে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Basharan Rasulan, Malakan Rasulan",
+          "bn": "মানুষ রসূল, ফেরেশতা রসূল"
+        },
+        "p": [
+          {
+            "en": "Qul: say. Once more the Prophet ﷺ is handed the words of his reply. Law kana fi l-ardi mala'ikatun: if there were on the earth angels. Yamshuna mutma'innin: walking, settled and at ease. La-nazzalna 'alayhim mina s-sama'i malakan rasulan: We would surely have sent down to them from the sky an angel as messenger. The sending is spoken in Allah's own voice, We. The verse does not claim that an angel could never be sent as a messenger. It states the condition under which one would be.",
+            "bn": "কুল: বলো। নবী ﷺ-কে আবারও জবাবের ভাষা শিখিয়ে দেওয়া হচ্ছে। লাও কানা ফিল আরদি মালাইকাতুন: যদি পৃথিবীতে ফেরেশতারা থাকত। ইয়ামশূনা মুতমাইন্নীন: স্থির হয়ে, নিশ্চিন্তে চলাফেরা করত। লানাযযালনা আলাইহিম মিনাস সামাই মালাকান রসূলা: তবে অবশ্যই আমি আকাশ থেকে তাদের কাছে একজন ফেরেশতাকে রসূল করে নামাতাম। পাঠানোর কথাটা আল্লাহ বলছেন নিজের মুখে, 'আমি' বলে। আয়াত এ দাবি করে না যে ফেরেশতাকে কখনোই রসূল করে পাঠানো যায় না। কোন অবস্থায় পাঠানো হতো, আয়াত সেটাই জানিয়ে দেয়।"
+          },
+          {
+            "en": "Read beside its neighbours, the phrasing is deliberate. In 17:93 the Prophet ﷺ calls himself basharan rasulan, a human messenger. In 17:94 the objectors take the same two words and turn them into a question of disbelief: has Allah sent basharan rasulan? 17:95 answers with malakan rasulan, an angel messenger, in the same shape. The noun before rasulan changes with the people addressed, while the office of messenger stays the same. Al-Muyassar draws the rule in plain words: the people of the earth are human, so their messenger ought to be of their kind.",
+            "bn": "পাশের আয়াতগুলোর সঙ্গে মিলিয়ে পড়লে বোঝা যায়, শব্দ বাছাই এখানে সচেতন। ১৭:৯৩ আয়াতে নবী ﷺ নিজেকে বলছেন বাশারান রসূলা, মানুষ রসূল। ১৭:৯৪ আয়াতে আপত্তিকারীরা ঠিক এই দুটি শব্দ নিয়েই অবিশ্বাসের প্রশ্ন তোলে: আল্লাহ কি বাশারান রসূলা পাঠালেন? ১৭:৯৫ একই গড়নে জবাব দেয় মালাকান রসূলা দিয়ে, ফেরেশতা রসূল। রসূল শব্দের আগের বিশেষ্যটা বদলায় শ্রোতা কারা তার ওপর নির্ভর করে। রিসালাতের দায়িত্বটা একই থাকে। মুয়াসসার নিয়মটা সোজা কথায় বলে দেয়: পৃথিবীর বাসিন্দারা মানুষ, তাই তাদের রসূলও তাদের জাত থেকেই হওয়া উচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Able to See",
+          "bn": "দেখার সামর্থ্য কার আছে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the fullest reasoning. Angels, he says, are seen by their own kind among the angels, and by those of the children of Adam whom Allah has singled out to see them. Everyone else is unable to see them. How, then, would angels be sent as messengers to people who cannot even see them in the forms in which Allah created them? So the messenger sent to humans is one of them, just as, had angels lived on the earth at ease, the messenger sent to them would have been an angel like them.",
+            "bn": "সবচেয়ে বিস্তারিত যুক্তি দেন তাবারী। তিনি বলেন, ফেরেশতাদের দেখতে পায় তাদেরই মতো ফেরেশতারা, আর আদম সন্তানদের মধ্যে যাদের আল্লাহ এ দেখার জন্য বিশেষভাবে বেছে নিয়েছেন, তারা। বাকিরা তাদের দেখতে পারে না। তাহলে যারা ফেরেশতাদের আল্লাহর দেওয়া আসল আকৃতিতে দেখতেই পারে না, তাদের কাছে ফেরেশতাদের রসূল করে পাঠানো হবে কীভাবে? তাই মানুষের কাছে রসূল আসেন মানুষের মধ্য থেকে। ঠিক যেমন পৃথিবীতে ফেরেশতারা নিশ্চিন্তে বসবাস করলে তাদের কাছে পাঠানো রসূলও হতেন তাদেরই মতো একজন ফেরেশতা।"
+          },
+          {
+            "en": "Al-Qurtubi reaches the same point and adds one thing. Allah has made known, he writes, that an angel is sent only to angels, because if an angel were sent to human beings they could not see him in the form in which he was created. It was the prophets whom Allah made able to do so, creating in them what they needed for it, so that this would be a sign and a miracle. On his reading, the ability to look on an angel belongs to prophethood itself. It is not something an ordinary people could be asked to bear.",
+            "bn": "কুরতুবীও একই সিদ্ধান্তে পৌঁছান, সঙ্গে একটা কথা যোগ করেন। তিনি লেখেন, আল্লাহ জানিয়ে দিয়েছেন যে ফেরেশতাকে পাঠানো হয় কেবল ফেরেশতাদের কাছে। কারণ মানুষের কাছে ফেরেশতা পাঠালে যে আকৃতিতে তাকে সৃষ্টি করা হয়েছে, সে আকৃতিতে মানুষ তাকে দেখতে পারত না। এ সামর্থ্য আল্লাহ দিয়েছেন নবীদের। তাঁদের ভেতরে তিনি এর উপযোগী শক্তি সৃষ্টি করে দিয়েছেন, যাতে তা হয় এক নিদর্শন ও মু'জিযা। কুরতুবীর এ ব্যাখ্যায় ফেরেশতাকে চোখে দেখতে পারা নবুওয়াতেরই অংশ। সাধারণ মানুষের কাছে এ ভার বহন করার দাবি করা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Mutma'innin Holds",
+          "bn": "মুতমাইন্নীন শব্দের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "The condition turns on one word, mutma'innin, which the translation here renders as walking securely. The commentators gloss it in more than one direction. Al-Baghawi reads it as mustawtinin muqimin: making the earth their home and staying on it. Ibn Kathir adds only the phrase just as you are on it, so the angels of the verse would be inhabitants of the earth in the way humans are. Ahsanul Bayaan, the Bengali tafsir in the app, takes the same line: if angels lived on the earth, their messenger for guidance would certainly be an angel.",
+            "bn": "শর্তটা ঘুরছে একটি শব্দকে ঘিরে, মুতমাইন্নীন। এখানকার অনুবাদে তার অর্থ নিশ্চিন্তে নিরাপদে চলাফেরা করা। তাফসীরকারেরা শব্দটার ব্যাখ্যা দেন একাধিক দিক থেকে। বাগাভীর কাছে এর মানে মুস্তাওতিনীন মুকীমীন: পৃথিবীকে নিজেদের আবাস বানিয়ে সেখানে থেকে যাওয়া। ইবন কাসীর শুধু এটুকু যোগ করেন: যেমন তোমরা এখানে আছ। অর্থাৎ আয়াতের ফেরেশতারা হতো পৃথিবীর বাসিন্দা, ঠিক মানুষের মতো। অ্যাপের বাংলা তাফসীর আহসানুল বায়ানও একই পথে যায়: পৃথিবীতে যদি ফেরেশতারা বসবাস করত, তাদের হিদায়াতের জন্য রসূলও অবশ্যই ফেরেশতা হতো।"
+          },
+          {
+            "en": "As-Sa'di takes the word another way: angels who would stand firm on seeing angels and receiving from them. Settledness here is the strength to remain in an angel's presence and take its message, the very strength humans lack. Ma'arif al-Qur'an draws a further implication from the phrase walking about in peace. It suggests, the commentary says, angels living on the earth alone and unable to go up to the heavens themselves. Had they been able to rise, there would have been no need to send a messenger down to the earth at all.",
+            "bn": "সা'দী শব্দটা বোঝেন অন্যভাবে: এমন ফেরেশতা, যারা ফেরেশতাদের দেখে এবং তাদের কাছ থেকে বাণী গ্রহণ করে অবিচল থাকতে পারত। এখানে স্থিরতা মানে ফেরেশতার সামনে টিকে থাকার আর তার বার্তা নেওয়ার শক্তি, মানুষের যে শক্তি নেই। মাআরিফুল কুরআন 'শান্তিতে চলাফেরা' কথাটা থেকে আরেকটি ইঙ্গিত টানে। তার মতে এতে বোঝা যায়, সেই ফেরেশতারা থাকত কেবল পৃথিবীতেই, নিজেরা আসমানে উঠে যেতে পারত না। তারা উঠতে পারলে পৃথিবীতে রসূল পাঠানোর কোনো প্রয়োজনই থাকত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Heart Leans to Its Kind",
+          "bn": "মন টানে নিজের জাতের দিকে"
+        },
+        "p": [
+          {
+            "en": "Why must the messenger match the people? The commentators give reasons that sit together without strain. Al-Baghawi: because the heart inclines more to its own kind than to another kind. Al-Muyassar: so that they can address him and understand his words. As-Sa'di, on the verse before, calls it a mercy that Allah sent them a human from among them, since they could not bear to receive from angels. Ibn Kathir closes his comment on this verse with Allah's purpose in plain terms: since you are human, We sent among you messengers from yourselves, as a kindness and a mercy.",
+            "bn": "রসূলকে কেন মানুষের জাতেরই হতে হবে? তাফসীরকারেরা যে কারণগুলো দেখান, সেগুলো একটা আরেকটার সঙ্গে দিব্যি মিলে যায়। বাগাভী বলেন, কারণ অন্য জাতের চেয়ে নিজের জাতের দিকেই মন বেশি ঝোঁকে। মুয়াসসার বলে, যাতে মানুষ তাঁর সঙ্গে কথা বলতে পারে আর তাঁর কথা বুঝতে পারে। সা'দী আগের আয়াতের ব্যাখ্যায় একে আল্লাহর রহমত বলেন যে তিনি তাদের কাছে তাদেরই মধ্য থেকে একজন মানুষ পাঠিয়েছেন, কেননা ফেরেশতাদের কাছ থেকে বাণী নেওয়ার সাধ্য তাদের নেই। ইবন কাসীর এ আয়াতের আলোচনা শেষ করেন আল্লাহর উদ্দেশ্যটা সোজা কথায় বলে: তোমরা মানুষ, তাই তোমাদের মধ্যে তোমাদের থেকেই রসূল পাঠিয়েছি, দয়া ও রহমত হিসেবে।"
+          },
+          {
+            "en": "On 17:94 Ibn Kathir shows how old the objection is. He cites the people who wondered that revelation came to a man from among them (10:2); those who said, shall humans guide us? (64:6); Pharaoh and his chiefs asking whether they should believe two men like themselves (23:47); and the nations who told their messengers, you are only humans like us (14:10). The verses on this, he adds, are many. He then sets beside them 3:164, 9:128, 2:151 and 2:152, verses that present a messenger from among the people themselves as a favour.",
+            "bn": "১৭:৯৪ আয়াতের আলোচনায় ইবন কাসীর দেখান, আপত্তিটা কত পুরনো। তিনি উদ্ধৃত করেন সেই লোকদের কথা, যারা অবাক হয়েছিল যে তাদেরই একজন পুরুষের কাছে ওহী এসেছে (১০:২)। যারা বলেছিল, মানুষ কি আমাদের পথ দেখাবে? (৬৪:৬)। ফিরআউন ও তার সভাসদদের কথা, যারা প্রশ্ন তুলেছিল, আমাদেরই মতো দুজন মানুষের ওপর কি ঈমান আনব? (২৩:৪৭)। আর সেই জাতিগুলোর কথা, যারা তাদের রসূলদের বলেছিল, তোমরা তো আমাদের মতোই মানুষ (১৪:১০)। তিনি যোগ করেন, এ বিষয়ে আয়াত অনেক। তারপর পাশে রাখেন ৩:১৬৪, ৯:১২৮, ২:১৫১ ও ২:১৫২, যে আয়াতগুলো মানুষের নিজেদের মধ্য থেকে রসূল আসাকে অনুগ্রহ হিসেবে তুলে ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answered Before in al-An'am",
+          "bn": "আনআমে আগেই এসেছে জবাব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notes that a counterpart to this verse has already come in al-An'am: they said, why has an angel not been sent down to him? Had We sent down an angel, the matter would have been decided (6:8); and had We made him an angel, We would have made him a man (6:9). The same demand recurs elsewhere. In 25:7 they ask what kind of messenger eats food and walks in the markets, and why no angel was sent down to warn alongside him. In 41:14, in the account of 'Ad and Thamud, the reply to the messengers is: had our Lord willed, He would have sent down angels.",
+            "bn": "কুরতুবী জানান, এ আয়াতের সমতুল্য আয়াত আগেই এসেছে সূরা আনআমে: তারা বলে, তার কাছে কোনো ফেরেশতা নামানো হলো না কেন? আমি ফেরেশতা নামালে বিষয়টার চূড়ান্ত ফায়সালাই হয়ে যেত (৬:৮)। আর তাকে ফেরেশতা বানালেও মানুষের আকৃতিতেই বানাতাম (৬:৯)। একই দাবি অন্য জায়গাতেও এসেছে। ২৫:৭ আয়াতে তারা প্রশ্ন তোলে, এ কেমন রসূল যে খাবার খায়, বাজারে হাঁটে, তার সঙ্গে সতর্ককারী হয়ে কোনো ফেরেশতা নামল না কেন? আর ৪১:১৪ আয়াতে আদ ও সামূদের বিবরণে রসূলদের দেওয়া জবাব: আমাদের রব চাইলে তো ফেরেশতাই নামাতেন।"
+          },
+          {
+            "en": "On 6:9 al-Qurtubi explains why even an angel in human shape would not have settled the matter. Every kind is at ease with its own kind and shies away from another, he writes. A messenger in angel form would have made people recoil from him, and dread of his speech would have kept them from questioning him. Yet had the angel been moved into a form like theirs, so that they could be at ease with him, they would have said: you are no angel, only a human, and we will not believe you. They would have been back where they started.",
+            "bn": "৬:৯ আয়াতের ব্যাখ্যায় কুরতুবী বুঝিয়ে বলেন, মানুষের আকৃতিতে ফেরেশতা এলেও কেন বিষয়টার মীমাংসা হতো না। তাঁর কথায়, প্রত্যেক জাত নিজের জাতের সঙ্গে স্বস্তি পায়, অন্য জাত থেকে দূরে সরে যায়। ফেরেশতার আকৃতিতে রসূল এলে মানুষ তাঁর কাছ থেকে পালাত, তাঁর কথার ভয়ে তাঁকে কিছু জিজ্ঞেসও করতে পারত না। আবার মানুষ যেন স্বস্তি পায়, সে জন্য ফেরেশতাকে তাদের মতো আকৃতিতে আনা হলে তারা বলত: তুমি ফেরেশতা নও, মানুষ মাত্র, তাই তোমাকে আমরা মানব না। ফলে তারা ফিরে যেত ঠিক আগের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Angel in a Man's Form",
+          "bn": "মানুষের রূপে ফেরেশতা"
+        },
+        "p": [
+          {
+            "en": "No source fetched for this verse attaches a hadith to it, and none reports an occasion of revelation for it. Al-Qurtubi, on the parallel in 6:9, recalls that angels came to the prophets in human form: to Ibrahim (AS) and Lut (AS) in the form of men, and Jibril (AS) to the Prophet ﷺ in the form of Dihya al-Kalbi. A general narration, not attached to 17:95, lets the Prophet ﷺ describe in his own words how the angel reached him, and it is quoted here whole across two paragraphs.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও বলেনি। কুরতুবী ৬:৯ আয়াতের আলোচনায় মনে করিয়ে দেন, ফেরেশতারা নবীদের কাছে মানুষের রূপে আসতেন। ইবরাহীম (আঃ) ও লূত (আঃ)-এর কাছে তারা এসেছিলেন মানুষের আকৃতিতে, আর জিবরীল (আঃ) নবী ﷺ-এর কাছে এসেছিলেন দিহইয়া কালবীর রূপে। একটি সাধারণ বর্ণনা, যা ১৭:৯৫ আয়াতের সঙ্গে যুক্ত নয়, নবী ﷺ-এর নিজের মুখে জানায় ফেরেশতা কীভাবে তাঁর কাছে আসতেন। বর্ণনাটি এখানে পুরোটাই দেওয়া হলো, দুই অনুচ্ছেদ জুড়ে।"
+          },
+          {
+            "en": "Al-Bukhari records it in his Sahih (no. 2): Narrated 'Aisha: (the mother of the faithful believers) Al-Harith bin Hisham asked Allah's Messenger (ﷺ) \"O Allah's Messenger (ﷺ)! How is the Divine Inspiration revealed to you?\" Allah's Messenger (ﷺ) replied, \"Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired. Sometimes the Angel comes in the form of a man and talks to me and I grasp whatever he says.\"",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (নং ২) বর্ণনাটি এনেছেন: উম্মুল মু'মিনীন আয়েশা (রাঃ) থেকে বর্ণিত, হারিস ইবন হিশাম (রাঃ) আল্লাহর রসূল ﷺ-কে জিজ্ঞেস করলেন: হে আল্লাহর রসূল, আপনার কাছে ওহী কীভাবে আসে? আল্লাহর রসূল ﷺ বললেন: কখনো তা আসে ঘণ্টার ঝনঝন শব্দের মতো, আর এটাই আমার ওপর সবচেয়ে কঠিন। তারপর তা আমার কাছ থেকে সরে যায়, আর ততক্ষণে তিনি যা বলেছেন তা আমি আয়ত্ত করে ফেলি। আবার কখনো ফেরেশতা আমার সামনে মানুষের রূপ ধরে আসেন, আমার সঙ্গে কথা বলেন, আর তিনি যা বলেন আমি তা আয়ত্ত করে নিই।"
+          },
+          {
+            "en": "The narration ends: 'Aisha added: Verily I saw the Prophet (ﷺ) being inspired divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over). It is not a commentary on this verse, and no source fetched here links the two. Read beside it, though, it shows how heavy the angel's coming was even for him who was chosen to receive it, and how, in a man's form, the angel spoke and was understood.",
+            "bn": "বর্ণনার শেষে আয়েশা (রাঃ) বলেন: প্রচণ্ড শীতের দিনে আমি তাঁর ওপর ওহী নাযিল হতে দেখেছি। ওহী শেষ হয়ে গেলে দেখতাম, তাঁর কপাল থেকে ঘাম ঝরে পড়ছে। বর্ণনাটি এ আয়াতের তাফসীর নয়, আর এখানে আনা কোনো উৎসও দুটিকে একসঙ্গে জোড়েনি। তবু পাশাপাশি পড়লে বোঝা যায়, যাঁকে বাণী গ্রহণের জন্য বেছে নেওয়া হয়েছিল, তাঁর ওপরও ফেরেশতার আগমন কত ভারী ছিল। আর মানুষের রূপে এলে ফেরেশতা কথা বলতেন, তাঁর কথা বোঝাও যেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Witness Between Me and You",
+          "bn": "আমার ও তোমাদের মাঝে সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "The next verse closes the exchange without a further argument: say, Allah suffices as a witness between me and you; He is ever, of His servants, Aware and Seeing (17:96). At-Tabari reads it as said to those who asked whether Allah had sent a human as messenger, and calls Allah the best of those who suffice, and the judge. Al-Muyassar names what He bears witness to: my truthfulness and the reality of my prophethood. Ibn Kathir and as-Sa'di both reason that, had the Prophet ﷺ forged anything against Allah, Allah would have punished him, drawing on 69:44 to 69:46.",
+            "bn": "পরের আয়াত নতুন কোনো যুক্তি না এনেই কথোপকথনের ইতি টানে: বলো, আমার ও তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট; তিনি তাঁর বান্দাদের সম্পর্কে সব জানেন, সব দেখেন (১৭:৯৬)। তাবারীর মতে কথাটা বলা হয়েছে তাদের উদ্দেশে, যারা প্রশ্ন তুলেছিল আল্লাহ কি মানুষকে রসূল করে পাঠালেন। তিনি বলেন, আল্লাহই সবচেয়ে উত্তম যথেষ্টকারী এবং বিচারক। মুয়াসসার বলে দেয়, কোন বিষয়ে তাঁর সাক্ষ্য: আমার সত্যবাদিতা আর আমার নবুওয়াতের সত্যতা। ইবন কাসীর ও সা'দী দুজনেই যুক্তি দেন, নবী ﷺ আল্লাহর নামে কিছু বানিয়ে বললে আল্লাহ তাঁকে শাস্তি দিতেন। এ কথায় দুজনেই ৬৯:৪৪ থেকে ৬৯:৪৬ আয়াতের আশ্রয় নেন।"
+          },
+          {
+            "en": "These verses answer a stance taken by the Prophet's opponents in Makkah, and the Qur'an reports it as their objection. They describe what the text describes. They license nothing against any living person or community, and they give no one leave to brand a neighbour as one of those who said it. 17:96 itself points the other way: the Prophet ﷺ is told to leave the judgement between himself and them to Allah, who knows His servants and sees them.",
+            "bn": "এ আয়াতগুলো মক্কায় নবী ﷺ-এর বিরোধীদের একটি অবস্থানের জবাব, আর কুরআন সেটাকে তাদের আপত্তি হিসেবেই উদ্ধৃত করেছে। আয়াত যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীকে ওই আপত্তিকারীদের একজন বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। ১৭:৯৬ আয়াত নিজেই উল্টো দিকে ইশারা করে: নবী ﷺ-কে বলা হচ্ছে, তাঁর ও তাদের মাঝের ফায়সালা আল্লাহর হাতে ছেড়ে দিতে, যিনি তাঁর বান্দাদের জানেন এবং দেখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Example Within Reach",
+          "bn": "নাগালের ভেতরের আদর্শ"
+        },
+        "p": [
+          {
+            "en": "What makes a human messenger a mercy rather than a lesser gift? The sources fetched for this verse answer in practical terms: people can see him, address him, understand him and receive from him. Ahsanul Bayaan, on 17:94, describes what the objectors could not accept: a man who walks as they walk, eats and drinks as they do, and is bound by kinship as they are. Those very things are what make him possible to follow. A messenger who never ate, tired or grieved would leave a human being nothing to copy.",
+            "bn": "মানুষ রসূল কেন রহমত, কম মূল্যের কোনো দান নয়? এ আয়াতের জন্য আনা উৎসগুলো জবাব দেয় একেবারে বাস্তব ভাষায়: মানুষ তাঁকে দেখতে পারে, তাঁর সঙ্গে কথা বলতে পারে, তাঁকে বুঝতে পারে, তাঁর কাছ থেকে শিখতে পারে। আহসানুল বায়ান ১৭:৯৪ আয়াতের ব্যাখ্যায় বলে, আপত্তিকারীরা কী মানতে পারছিল না: এমন একজন মানুষ রসূল হবেন, যিনি তাদের মতো চলাফেরা করেন, তাদের মতোই খান-পান করেন, তাদের মতোই আত্মীয়তার বাঁধনে বাঁধা। অথচ ঠিক এগুলোর কারণেই তাঁকে অনুসরণ করা যায়। যে রসূল কখনো খেতেন না, ক্লান্ত হতেন না, কষ্ট পেতেন না, তাঁর কাছ থেকে মানুষের নকল করার মতো কিছুই থাকত না।"
+          },
+          {
+            "en": "Twice the Qur'an has the Prophet ﷺ say, I am only a human like you, to whom it is revealed (18:110, 41:6). The objection in 17:94 treated his humanity as a defect; the answer in 17:95 shows it to be the point. For a reader today the lesson comes close. It is easy to honour the Prophet ﷺ so highly that following him starts to seem out of reach, or to wait for something extraordinary before changing anything. The verse removes both excuses. The guide was sent near enough to follow.",
+            "bn": "কুরআনে দুবার নবী ﷺ-কে দিয়ে বলানো হয়েছে: আমি তো তোমাদের মতোই একজন মানুষ, আমার কাছে ওহী আসে (১৮:১১০, ৪১:৬)। ১৭:৯৪ আয়াতের আপত্তি তাঁর মানুষ হওয়াকে দোষ ভেবেছিল। ১৭:৯৫ আয়াতের জবাব দেখিয়ে দেয়, আসল কথাটাই ওখানে। আজকের পাঠকের জন্য শিক্ষাটা খুব কাছের। নবী ﷺ-কে এত উঁচুতে তুলে সম্মান করা সহজ যে তাঁকে অনুসরণ করাটাই নাগালের বাইরে মনে হতে থাকে। কিংবা কিছু বদলানোর আগে অসাধারণ কিছুর অপেক্ষায় বসে থাকাও সহজ। আয়াত দুটি অজুহাতই কেড়ে নেয়। পথপ্রদর্শককে পাঠানো হয়েছে এতটা কাছে, যেন তাঁকে অনুসরণ করা যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "17:97": {
     "sections": [
       {
