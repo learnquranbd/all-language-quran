@@ -1015,6 +1015,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Dare Dressed as a Question",
+          "bn": "প্রশ্নের আড়ালে চ্যালেঞ্জ"
+        },
+        "p": [
+          {
+            "en": "This verse answers a question. In 21:36 the deniers see the Prophet ﷺ and make a joke of him: is this the man who speaks of your gods? In 21:37 comes the line, man was created of haste; I will show you My signs, so do not ask Me to hurry. In 21:38 they say: when is this promise, if you are truthful? At-Tabari names the people of 21:39 by that question. They are, he says, these disbelievers who seek to hasten the punishment of their Lord.",
+            "bn": "এ আয়াত একটি প্রশ্নের জবাব। ২১:৩৬ আয়াতে অবিশ্বাসীরা নবী ﷺ-কে দেখে ঠাট্টা করে: এই কি সেই লোক, যে তোমাদের দেবতাদের কথা তোলে? ২১:৩৭ আয়াতে আসে: মানুষকে সৃষ্টি করা হয়েছে তাড়াহুড়া দিয়ে; আমি শীঘ্রই তোমাদের আমার নিদর্শন দেখাব, তাই আমাকে তাড়া দিয়ো না। আর ২১:৩৮ আয়াতে তারা বলে: তোমরা সত্যবাদী হলে বলো, এই প্রতিশ্রুতি কবে? ২১:৩৯ আয়াতের লোকদের পরিচয় তাবারী দেন ঠিক এই প্রশ্ন দিয়েই। তাঁর ভাষায় তারা সেই কাফির, যারা নিজেদের রবের আযাব তাড়াতাড়ি নিয়ে আসতে চায়।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, reads 21:38 the same way. The idolaters seek to hasten the punishment upon themselves, he says, out of denial, rejection, disbelief and stubbornness, and from a belief that it will never happen. That last clause shapes everything that follows. Nobody asks for a punishment they expect to arrive. The question when is this promise is not curiosity about a calendar; it is a dare, offered by people sure that nothing will answer it. The verse answers it anyway, though not with a date.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরও ২১:৩৮ আয়াতকে একইভাবে পড়ে। তাঁর কথায়, মুশরিকরা নিজেদের উপর শাস্তি তাড়াতাড়ি ডেকে আনতে চায়। কারণ অস্বীকার, প্রত্যাখ্যান, কুফর আর একগুঁয়েমি, সঙ্গে এই বিশ্বাস যে তা কখনো ঘটবেই না। শেষ কথাটাই পরের সবকিছুর রং ঠিক করে দেয়। যে শাস্তি সত্যিই আসবে বলে কেউ মনে করে, তা কেউ ডেকে আনে না। তাই 'প্রতিশ্রুতি কবে' প্রশ্নটা পঞ্জিকা নিয়ে কৌতূহল নয়। এ এক চ্যালেঞ্জ, যারা ছুড়ে দেয় তারা নিশ্চিত যে কোনো জবাব আসবে না। আয়াত তবু জবাব দেয়, তবে তারিখ দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wanting It Before Its Time",
+          "bn": "সময়ের আগেই চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, in its note on 21:37, defines the trait the deniers were showing. 'Ajal means haste or hurry, and the word is used when someone wants things to happen before their time; the trait, it says, is bad by its very nature. It points to 17:11, man is ever hasty, meaning very impatient. And it explains the idiom made of haste: when the Arabs identified a man by some deep trait, they said he was made of it, so a short-tempered man was a man made of anger.",
+            "bn": "মাআরিফুল কুরআন ২১:৩৭ আয়াতের আলোচনায় অবিশ্বাসীদের সেই স্বভাবটার সংজ্ঞা দেয়। 'আজাল' মানে তাড়া বা তাড়াহুড়া। কোনো কিছু তার সময়ের আগেই ঘটুক, এমন চাওয়ার ক্ষেত্রে শব্দটি ব্যবহৃত হয়, আর তাফসীরটির মতে এ স্বভাব নিজ প্রকৃতিতেই মন্দ। এরপর ১৭:১১ আয়াতের দিকে ইঙ্গিত করে: মানুষ বড়ই তাড়াপ্রবণ, অর্থাৎ খুব অধৈর্য। 'তাড়াহুড়া দিয়ে সৃষ্টি' কথাটার ব্যাখ্যাও দেয়। আরবরা কাউকে তার গভীর কোনো স্বভাব দিয়ে চেনাতে চাইলে বলত, সে ওই জিনিস দিয়ে তৈরি। যেমন বদমেজাজি লোককে বলা হতো রাগ দিয়ে গড়া মানুষ।"
+          },
+          {
+            "en": "The same note draws a line that will matter later. The prophets and the devout who race one another in righteous deeds are praised, and their zeal is not haste, it says, because they do not try to do those deeds before their time; they do them on time and compete in quantity and quality. It reads the signs of 21:37, citing al-Qurtubi, as the miracles and events that bore witness to the Prophet's ﷺ truth, some of which occurred at Badr. Haste, then, is not speed. It is reaching for what is not yet due.",
+            "bn": "একই আলোচনায় একটি সীমারেখা টানা হয়েছে, যা পরে কাজে লাগবে। নবীগণ আর যে নেককার মানুষেরা নেক আমলে একে অপরকে ছাড়িয়ে যেতে চান, তাঁদের প্রশংসা করা হয়েছে। তাফসীরটির মতে তাঁদের আগ্রহ তাড়াহুড়া নয়, কারণ তাঁরা কোনো আমল তার সময়ের আগে করতে চান না। সময়মতোই করেন, আর প্রতিযোগিতা করেন পরিমাণে ও মানে। ২১:৩৭ আয়াতের নিদর্শনকে কুরতুবীর বরাতে সে পড়ে এমন মুজিযা ও ঘটনা হিসেবে, যা নবী ﷺ-এর সত্যতার সাক্ষ্য দিয়েছিল। তার কিছু ঘটেছিল বদরে। তাহলে তাড়াহুড়া মানে দ্রুততা নয়। মানে যার সময় এখনো আসেনি, তার দিকে হাত বাড়ানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Time Itself as Object",
+          "bn": "জানার বিষয় সময়টাই"
+        },
+        "p": [
+          {
+            "en": "Law ya'lamu alladhina kafaru hina la yakuffuna 'an wujuhihimu an-nara wa la 'an zuhurihim wa la hum yunsarun: if those who disbelieved only knew the time when they will not keep the Fire from their faces, nor from their backs, and they will not be helped. Al-Qurtubi begins with the grammar of the first verb. Knowing here, he says, has the sense of ma'rifa, recognising, so it takes no second object, as in 8:60, you do not know them; Allah knows them.",
+            "bn": "লাও ইয়া'লামুল্লাযীনা কাফারূ হীনা লা ইয়াকুফফূনা 'আন উজূহিহিমুন নারা ওয়া লা 'আন যুহূরিহিম ওয়া লা হুম ইউনসারূন: কাফিররা যদি জানত সেই সময়টা, যখন তারা নিজেদের মুখ থেকে আগুন ঠেকাতে পারবে না, পিঠ থেকেও না, আর তাদের সাহায্যও করা হবে না। কুরতুবী শুরু করেন প্রথম ক্রিয়াটির ব্যাকরণ দিয়ে। তাঁর মতে এখানে 'জানা' মানে মা'রিফা, অর্থাৎ চেনা। তাই এর দ্বিতীয় কোনো কর্ম লাগে না। যেমন ৮:৬০ আয়াতে: তোমরা তাদের জানো না, আল্লাহ তাদের জানেন।"
+          },
+          {
+            "en": "So what they do not know is the time itself. Al-Qurtubi's paraphrase makes it explicit: had they known the time in which they cannot keep the Fire from their faces and backs, and recognised it. The abridged English of Ibn Kathir adds the same word in brackets, knew (the time) when. There is a quiet symmetry here. They asked mata, when; the verse answers with hina, a when of its own. But it defines that time by what happens in it, not by its date, which is the one thing they asked for and the one thing they are not given.",
+            "bn": "অর্থাৎ তারা যা জানে না, তা সময়টাই। কুরতুবীর ব্যাখ্যায় কথাটা স্পষ্ট: তারা যদি সেই সময়টা জানত ও চিনত, যখন মুখ আর পিঠ থেকে আগুন ঠেকাতে পারবে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরও বন্ধনীতে একই শব্দ যোগ করে: যদি তারা জানত (সেই সময়), যখন। এখানে একটা নিঃশব্দ মিল আছে। তারা জিজ্ঞেস করেছিল 'মাতা', কবে। আয়াত জবাব দেয় 'হীনা' দিয়ে, যা নিজেও এক 'কখন'। তবে সময়টাকে চেনায় তার ভেতরে কী ঘটবে তা দিয়ে, তারিখ দিয়ে নয়। অথচ তারা চেয়েছিল ঠিক তারিখটাই, আর সেটাই তাদের দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Unspoken Half",
+          "bn": "যে অর্ধেক বলা হয়নি"
+        },
+        "p": [
+          {
+            "en": "A sentence opened with law, if only, normally closes with its answer: if they knew, they would. This one does not. Al-Qurtubi says so directly: the answer of law is elided, jawab law mahdhuf. Al-Baghawi says the same. Al-Qurtubi then supplies the missing half: had they known that time and recognised it, they would not have sought to hasten the threat. Ibn Kathir completes it in nearly the same words: if they were certain that it will befall them without fail, they would not have sought to hasten it.",
+            "bn": "'লাও', অর্থাৎ 'যদি', দিয়ে শুরু হওয়া বাক্য সাধারণত তার জবাব দিয়ে শেষ হয়: যদি তারা জানত, তাহলে তারা এমন করত। এ বাক্য তা করে না। কুরতুবী সরাসরি বলেন, 'লাও'-এর জবাব এখানে উহ্য। বাগাভীও একই কথা বলেন। তারপর কুরতুবী বাদ পড়া অংশটুকু পূরণ করেন: তারা যদি সেই সময়টা জানত ও চিনত, তাহলে হুমকিটা তাড়াতাড়ি চাইত না। ইবন কাসীর প্রায় একই ভাষায় বাক্যটি সম্পূর্ণ করেন: তারা যদি নিশ্চিত হতো যে তা অবধারিতভাবে তাদের উপর আসবে, তাহলে তা তাড়াতাড়ি চাইত না।"
+          },
+          {
+            "en": "The Muyassar folds two completions into a single plain line: if these disbelievers knew what they will meet when they cannot push the Fire from their faces and their backs, and find no helper to help them, they would not have stayed in their disbelief and would not have sought to hasten their punishment. One widely used English translation ends the verse with an ellipsis, and that is honest to the Arabic. The verse stops where the listener has to take over, and the half that is not spoken lands harder than a stated answer would.",
+            "bn": "মুয়াসসার দুটি পূর্ণতাকে এক সরল বাক্যে মিলিয়ে দেয়। এই কাফিররা যদি জানত, যখন মুখ ও পিঠ থেকে আগুন সরাতে পারবে না আর সাহায্য করার কাউকে পাবে না, তখন তাদের কী ভোগ করতে হবে, তাহলে তারা কুফরে টিকে থাকত না, নিজেদের শাস্তিও তাড়াতাড়ি চাইত না। বহুল প্রচলিত একটি ইংরেজি অনুবাদ আয়াতটি শেষ করে তিনটি বিন্দু দিয়ে। আরবির প্রতি সেটা বিশ্বস্ত। আয়াতটি থামে ঠিক সেখানে, যেখান থেকে শ্রোতাকে নিজে এগোতে হয়। আর না-বলা অংশটাই বলা অংশের চেয়ে বেশি জোরে বাজে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Several Ways to Finish It",
+          "bn": "শেষ করার কয়েকটি পথ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does not stop at one completion. He records az-Zajjaj's: they would have known that the promise was true. He then gives another, introduced only as it is said: had they known it, they would not have stayed in disbelief, and they would have believed. And he reports al-Kisa'i, who reads the verse as a pointer to the certainty that the Hour will come: had they known it with the knowledge of certainty, they would have known that the Hour is coming.",
+            "bn": "কুরতুবী একটিমাত্র পূর্ণতায় থামেন না। তিনি যাজ্জাজের মত উল্লেখ করেন: তাহলে তারা জানত যে প্রতিশ্রুতিটা সত্য। এরপর আরেকটি মত আনেন, শুধু 'বলা হয়' কথাটি দিয়ে: তারা যদি জানত, তাহলে কুফরে টিকে থাকত না, ঈমান আনত। আর কিসাঈর মত বর্ণনা করেন। তাঁর মতে আয়াতটি কিয়ামত নিশ্চিতভাবে ঘটার দিকে সতর্ক ইঙ্গিত। তারা যদি নিশ্চিত জ্ঞানে তা জানত, তাহলে জেনে যেত যে কিয়ামত আসছেই।"
+          },
+          {
+            "en": "Al-Baghawi lets the completion run into the verse before it: had they known, they would not have persisted in their disbelief, nor sought to hasten it, nor said, when is this promise? At-Tabari gives the fullest form. Had they known, they would not have stayed in the disbelief they were holding to; they would have hurried to repentance from it and to faith in Allah; and they would not have sought to hasten trial upon themselves. In his wording the same hurry survives, but it is turned the other way, toward tawbah.",
+            "bn": "বাগাভী পূর্ণতাটাকে আগের আয়াতের সঙ্গে জুড়ে দেন: তারা যদি জানত, তাহলে কুফরে অটল থাকত না, তাড়াও দিত না, আর বলত না, এই প্রতিশ্রুতি কবে? তাবারী দেন সবচেয়ে পূর্ণ রূপটি। তারা যদি জানত, তাহলে যে কুফর আঁকড়ে ছিল, তাতে টিকে থাকত না। বরং তা থেকে তওবা করতে আর আল্লাহর উপর ঈমান আনতে দ্রুত এগিয়ে যেত। আর নিজেদের উপর বিপদ তাড়াতাড়ি ডেকে আনতে চাইত না। তাঁর ভাষায় তাড়াটা থেকেই যায়, শুধু তার মুখ ঘুরে যায় উল্টো দিকে, তওবার দিকে।"
+          },
+          {
+            "en": "None of the commentators read here rejects another's completion; they stand side by side in al-Qurtubi's list, and the others give one or two of the same. Read together they move in steps: from what the deniers would have known, that the promise and the Hour are true, to what they would have stopped doing, persisting and hastening, to what they would have begun, faith and repentance. The elided answer is wide enough to hold all of it, which may be part of why it was left unsaid.",
+            "bn": "এখানে পড়া কোনো তাফসীরকার অন্যের দেওয়া পূর্ণতাকে নাকচ করেন না। কুরতুবীর তালিকায় সবগুলো পাশাপাশি দাঁড়িয়ে আছে, আর বাকিরা তার একটি বা দুটি দেন। একসঙ্গে পড়লে মতগুলো ধাপে ধাপে এগোয়। প্রথমে তারা কী জানত: প্রতিশ্রুতি আর কিয়ামত দুটোই সত্য। তারপর কী ছেড়ে দিত: কুফরে অটল থাকা আর তাড়া দেওয়া। শেষে কী শুরু করত: ঈমান আর তওবা। উহ্য জবাবটা এত প্রশস্ত যে সবকিছুই তাতে ধরে যায়। হয়তো সে কারণেও তা মুখে বলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Face Nor Back",
+          "bn": "না মুখে, না পিঠে"
+        },
+        "p": [
+          {
+            "en": "La yakuffuna: they will not keep it off. Al-Baghawi glosses the verb as la yadfa'un, they will not push it away. At-Tabari spells out what is missing: they cannot keep the Fire from their faces, nor from their backs, so as to repel it from them by themselves. Ibn Kathir reads the pairing of faces and backs as saying that the punishment surrounds them from every direction, and sets beside it 39:16, 7:41 and 14:50, verses that describe the same enclosing.",
+            "bn": "লা ইয়াকুফফূন: তারা ঠেকাতে পারবে না। বাগাভী ক্রিয়াটির অর্থ করেন 'লা ইয়াদফা'ঊন', তারা সরিয়ে দিতে পারবে না। তাবারী খুলে বলেন কী তাদের হাতে থাকবে না: নিজেদের মুখ থেকে আগুন ঠেকাতে পারবে না, পিঠ থেকেও না, যাতে নিজেরাই তা দূরে ঠেলে দিতে পারে। মুখ আর পিঠের এই জোড়াকে ইবন কাসীর পড়েন এভাবে যে শাস্তি তাদের চারদিক থেকে ঘিরে রাখবে। পাশে তিনি রাখেন ৩৯:১৬, ৭:৪১ ও ১৪:৫০ আয়াত, যেগুলো একই রকম ঘিরে ফেলার কথা বলে।"
+          },
+          {
+            "en": "As-Sa'di says it in a single clause: it will have surrounded them on every side and covered them from every place. Wa la hum yunsarun: and they will not be helped. Al-Baghawi: they will not be shielded from the punishment. At-Tabari: no helper will rescue them then from Allah's punishment. Ibn Kathir: they will have no helper, and he adds 13:34, they have no protector against Allah. As-Sa'di doubles it: no one else helps them, so they were neither helped by others nor able to help themselves.",
+            "bn": "সা'দী এক বাক্যে বলেন: আগুন তাদের প্রতিটি দিক থেকে ঘিরে ফেলবে, প্রতিটি জায়গা থেকে ঢেকে দেবে। ওয়া লা হুম ইউনসারূন: আর তাদের সাহায্য করা হবে না। বাগাভীর ব্যাখ্যায়, শাস্তি থেকে তাদের রক্ষা করা হবে না। তাবারীর ব্যাখ্যায়, তখন এমন কোনো সাহায্যকারী থাকবে না, যে তাদের আল্লাহর শাস্তি থেকে উদ্ধার করবে। ইবন কাসীর বলেন, তাদের কোনো সাহায্যকারী থাকবে না, আর যোগ করেন ১৩:৩৪ আয়াত: আল্লাহর বিরুদ্ধে তাদের কোনো রক্ষাকারী নেই। সা'দী কথাটাকে দ্বিগুণ করেন: অন্য কেউ তাদের সাহায্য করবে না, তাই তারা না অন্যের সাহায্য পেল, না নিজেরা নিজেদের বাঁচাতে পারল।"
+          },
+          {
+            "en": "The verse itself names three things and no more: the face, the back, and the absence of any helper. This article keeps to that. Its weight is not in a picture but in a loss of means. Those who were asking to be shown the threat will have no hand free to turn it aside and no one to call. A few verses on, 21:43 says the same of the gods they rely on: they cannot help even themselves. The root of yunsarun returns there, in nasra anfusihim.",
+            "bn": "আয়াত নিজে তিনটি জিনিসের নাম নেয়, এর বেশি নয়: মুখ, পিঠ, আর কোনো সাহায্যকারী না থাকা। এ লেখাও সেখানেই থামছে। আয়াতের ভার কোনো দৃশ্যে নয়, উপায় হারিয়ে ফেলায়। যারা হুমকিটা দেখতে চাইছিল, তখন তা ঠেকানোর মতো হাত তাদের থাকবে না, ডাকার মতো কেউও থাকবে না। কয়েক আয়াত পরে ২১:৪৩ আয়াত তাদের ভরসার দেবতাদের সম্পর্কেও একই কথা বলে: তারা নিজেদেরও সাহায্য করতে পারে না। 'ইউনসারূন'-এর ধাতুটাই সেখানে ফিরে আসে, 'নাসরা আনফুসিহিম' কথাটিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Appointment Is Kept",
+          "bn": "নির্ধারিত দিনক্ষণ জানানো হয় না"
+        },
+        "p": [
+          {
+            "en": "The next verse turns the sentence with bal, rather. Bal ta'tihim baghtatan fa-tabhatuhum: rather, it will come upon them suddenly and confound them. Ibn Kathir, in the abridged English, reads it as the Fire coming upon them suddenly and taking them by surprise; it will scare them, and they will succumb to it in confusion, not knowing what they are doing. They will have no means to avert it, and it will not be delayed for them, he says, even for an instant.",
+            "bn": "পরের আয়াত বাক্যের মোড় ঘোরায় 'বাল', অর্থাৎ 'বরং' দিয়ে। বাল তা'তীহিম বাগতাতান ফাতাবহাতুহুম: বরং তা তাদের উপর আচমকা আসবে আর তাদের হতবুদ্ধি করে দেবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এর অর্থ করে এভাবে: আগুন তাদের উপর হঠাৎ এসে পড়বে, অপ্রস্তুত অবস্থায় ধরবে। তারা ভয় পাবে, দিশেহারা হয়ে তার কাছে হার মানবে, কী করছে তাও বুঝবে না। তা ফেরানোর কোনো উপায় তাদের থাকবে না। আর তাঁর কথায়, এক মুহূর্তের জন্যও তাদের সময় দেওয়া হবে না।"
+          },
+          {
+            "en": "Placed beside 21:37 and 21:38, the reply is complete. They asked when, and were told it will not come by appointment. They asked for it to hurry, and were told that when it comes it will not wait a moment. The reprieve they have now, the delay they took as proof that nothing would come, is the only delay there will be. None of the commentaries read for this verse attaches a hadith to it or reports an occasion of revelation for it, and none is added here.",
+            "bn": "২১:৩৭ ও ২১:৩৮ আয়াতের পাশে রাখলে জবাবটা পূর্ণ হয়। তারা জানতে চেয়েছিল, কবে। জবাব এল, তা কোনো ঘোষিত দিনক্ষণে আসবে না। তারা তাড়া দিয়েছিল। জবাব এল, যখন আসবে তখন এক মুহূর্তও দেরি করবে না। এখন তারা যে অবকাশ পাচ্ছে, যে দেরিকে তারা ধরে নিয়েছিল কিছুই না আসার প্রমাণ বলে, সেটাই একমাত্র দেরি। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও বর্ণনা করেনি। এখানেও কিছু যোগ করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Description, Not a Roll Call",
+          "bn": "বর্ণনা, কারও নামের খাতা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: those who disbelieved and mocked the warning in its own setting, the deniers of 21:36, 21:37 and 21:38, and what the verse says awaits them. It licenses nothing against any living person or community. No living person may be named among them, and no reader is made judge of who will stand in that moment. The commentators read here speak of these disbelievers who hastened the threat, not of anyone's neighbour, rival or relative.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে কেবল ততটুকু, যতটুকু তার শব্দে আছে: নিজের প্রেক্ষাপটে যারা কুফর করেছিল আর সতর্কবাণী নিয়ে ঠাট্টা করেছিল, অর্থাৎ ২১:৩৬, ২১:৩৭ ও ২১:৩৮ আয়াতের অস্বীকারকারীরা, আর তাদের জন্য যা অপেক্ষা করছে বলে আয়াত জানায়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। জীবিত কারও নাম তাদের মধ্যে বসানো চলে না। সেই মুহূর্তে কে দাঁড়াবে, তার বিচারক কোনো পাঠককে বানানো হয়নি। এখানে পড়া তাফসীরকারেরা কথা বলেন সেই কাফিরদের নিয়ে, যারা হুমকিটা তাড়াতাড়ি চেয়েছিল। কারও প্রতিবেশী, প্রতিদ্বন্দ্বী বা আত্মীয়কে নিয়ে নয়।"
+          },
+          {
+            "en": "What the verse leaves to a believer is turned inward. Haste and heedlessness are not some other party's traits. Ma'arif al-Qur'an calls haste one of the weaknesses inherent in human nature, and 21:37 says it of al-insan, the human being, not of one group. Whoever reads 21:39 only to point at others has skipped the line two verses earlier, which describes the reader as well. The warning reaches the one who hears it first, and the hearer here is me.",
+            "bn": "আয়াতটি একজন মুমিনের জন্য যা রেখে যায়, তার মুখ ভেতরের দিকে। তাড়াহুড়া আর গাফিলতি অন্য কোনো দলের একচেটিয়া স্বভাব নয়। মাআরিফুল কুরআন তাড়াহুড়াকে মানুষের স্বভাবে মিশে থাকা দুর্বলতাগুলোর একটি বলে, আর ২১:৩৭ আয়াত কথাটা বলে 'আল-ইনসান' সম্পর্কে, অর্থাৎ মানুষ সম্পর্কে, কোনো এক গোষ্ঠী সম্পর্কে নয়। যে ২১:৩৯ আয়াত পড়ে শুধু অন্যের দিকে আঙুল তোলে, সে দুই আয়াত আগের লাইনটা এড়িয়ে গেছে, যা পাঠককেও বর্ণনা করে। সতর্কবাণী প্রথমে পৌঁছায় যে শোনে তার কাছে। আর এখানে শ্রোতা আমি নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Certainty That Slows the Step",
+          "bn": "যে নিশ্চয়তা পা থামায়"
+        },
+        "p": [
+          {
+            "en": "Two words in the commentaries mark the dividing line. Ibn Kathir completes the verse with tayaqqanu, had they been certain; al-Kisa'i, in al-Qurtubi, with 'ilm yaqin, the knowledge of certainty. The deniers had heard the warning. What they lacked was not information but certainty. A believer can stand in a softer version of the same place: knowing that the Day is true and living as if it were far off. That is heedlessness, and the verse names it from the far side.",
+            "bn": "তাফসীরের দুটি শব্দ সীমারেখাটা চিনিয়ে দেয়। ইবন কাসীর আয়াতটি পূর্ণ করেন 'তায়াক্কানূ' দিয়ে, যদি তারা নিশ্চিত হতো। আর কুরতুবীর বর্ণনায় কিসাঈ পূর্ণ করেন 'ইলমু ইয়াকীন' দিয়ে, নিশ্চিত জ্ঞান। অস্বীকারকারীরা সতর্কবাণী শুনেছিল। তাদের অভাব তথ্যের ছিল না, ছিল নিশ্চয়তার। একজন মুমিনও এর নরম একটা রূপে দাঁড়িয়ে থাকতে পারে। জানে যে সেই দিন সত্য, অথচ এমনভাবে চলে যেন তা বহু দূরে। এরই নাম গাফিলতি, আর আয়াতটি তা চিনিয়ে দেয় উল্টো পাশ থেকে।"
+          },
+          {
+            "en": "Two habits follow from it. When I find myself demanding results now, from people, from my own efforts, even from my prayers, I can ask whether I want them before their time, the haste Ma'arif describes. And when a warning I know well no longer moves me, I can remember at-Tabari's completion: knowing would have turned their hurry toward repentance. The verse does not ask me to lose the energy of haste. It asks me to point it at tawbah, while the delay still lasts.",
+            "bn": "এ থেকে দুটি অভ্যাস জন্ম নেয়। যখন দেখি মানুষের কাছে, নিজের চেষ্টার কাছে, এমনকি নিজের দোয়ার কাছেও এখনই ফল দাবি করছি, তখন নিজেকে জিজ্ঞেস করতে পারি: সময়ের আগেই কি চাইছি? মাআরিফুল কুরআন যে তাড়াহুড়ার কথা বলে, এ সেটাই। আর জানা কোনো সতর্কবাণী যখন আর নাড়া দেয় না, তখন মনে করতে পারি তাবারীর পূর্ণতাটা: জানলে তাদের তাড়া ছুটত তওবার দিকে। আয়াত আমাকে তাড়ার শক্তিটা হারাতে বলে না। বলে, অবকাশ থাকতে থাকতেই সেটাকে তওবার দিকে ঘুরিয়ে দিতে।"
+          }
+        ]
+      }
+    ]
+  },
   "21:41": {
     "sections": [
       {

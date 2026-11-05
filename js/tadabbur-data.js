@@ -23331,6 +23331,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Intercession belongs to Allah and reaches only those who hold a covenant with Him. Keep yours now: the testimony of His oneness, lived out, with your hope in Him alone.",
     "lessonBn": "সুপারিশের মালিক আল্লাহ, আর তা পৌঁছায় কেবল তাঁর সঙ্গে অঙ্গীকারে থাকা মানুষের কাছে। নিজের অঙ্গীকারটি এখনই রক্ষা করুন: তাঁর একত্বের সাক্ষ্য, জীবনে তার প্রমাণ, আর ভরসা শুধু তাঁরই উপর।"
+  },
+  "21:39": {
+    "reflectionEn": "They kept asking when. When is this promise, if you are telling the truth? The verse gives them no date. It gives them a sentence that stops halfway: if those who disbelieve only knew the time when they cannot keep the Fire from their faces or from their backs, and no one will help them... The rest is left for the listener to finish, and it finishes itself: they would not be asking. Haste of that kind rarely comes from knowing too much. It comes from not taking seriously what one has already been told. The verse describes them, and it also asks something of me. What do I already know that I still treat as if it were far away?",
+    "reflectionBn": "তারা বারবার জানতে চাইত, কবে? তোমরা সত্যবাদী হলে বলো, এই প্রতিশ্রুতি কবে আসবে? আয়াতটি তাদের কোনো তারিখ দেয় না। দেয় এমন এক বাক্য, যা মাঝপথে থেমে যায়: কাফিররা যদি জানত সেই সময়টা, যখন তারা নিজেদের মুখ থেকে আগুন ঠেকাতে পারবে না, পিঠ থেকেও না, আর কেউ তাদের সাহায্য করবে না... বাকিটা শ্রোতার হাতে ছেড়ে দেওয়া। আর বাকিটা নিজে থেকেই পূর্ণ হয়ে যায়: তাহলে তারা এ প্রশ্ন করত না। এমন তাড়া সাধারণত বেশি জানা থেকে আসে না। আসে যা শোনানো হয়েছে, তাকে গুরুত্ব না দেওয়া থেকে। আয়াতটি তাদের ছবি আঁকে, আবার আমার কাছেও কিছু জানতে চায়। এমন কী আমি আগে থেকেই জানি, যাকে এখনো অনেক দূরের ব্যাপার ভেবে চলছি?",
+    "pointsEn": [
+      "Which warning have I heard so often that it now sounds to me like noise rather than news?",
+      "Where am I in a hurry for something before its time, and what does that hurry say about my trust in Allah?",
+      "If I were certain today of how my life will be weighed, which of my plans would I change first?",
+      "Do I ever take a delay in consequences as proof that there will be none?",
+      "Whose help am I counting on for a moment in which, the verse says, no one will be able to help?"
+    ],
+    "pointsBn": [
+      "কোন সতর্কবাণী এত বেশিবার শুনেছি যে এখন তা আর খবর মনে হয় না, শুধু শব্দ মনে হয়?",
+      "কোন জিনিস সময় হওয়ার আগেই পেতে আমি তাড়াহুড়া করছি? আর সেই তাড়া আল্লাহর উপর আমার ভরসা সম্পর্কে কী বলে?",
+      "আমার জীবন কীভাবে ওজন করা হবে, তা যদি আজ নিশ্চিতভাবে জানতাম, তাহলে কোন পরিকল্পনাটা সবার আগে বদলাতাম?",
+      "পরিণতি দেরিতে আসছে বলে আমি কি কখনো ধরে নিই যে পরিণতি আসবেই না?",
+      "যে মুহূর্তে কেউ কাউকে সাহায্য করতে পারবে না বলে আয়াত জানায়, সেই মুহূর্তের জন্য আমি কার সাহায্যের ভরসায় আছি?"
+    ],
+    "lessonEn": "Do not mistake delay for absence: let what you already know of the Hereafter slow your haste and wake you from heedlessness while there is still time.",
+    "lessonBn": "দেরি হচ্ছে মানেই তা আসবে না, এমন ভুল করবেন না। আখিরাত সম্পর্কে যা আগে থেকেই জানেন, তা দিয়ে নিজের তাড়াহুড়া থামান আর সময় থাকতেই গাফিলতি থেকে জেগে উঠুন।"
   }
 };
 
