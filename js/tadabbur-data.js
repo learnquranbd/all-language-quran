@@ -21771,6 +21771,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an was sent down to be understood. Seek its meaning in a language you know, keep growing in it, and let what you understand reach your actions.",
     "lessonBn": "কুরআন নাযিল হয়েছে বোঝার জন্য। নিজের জানা ভাষায় এর অর্থ খুঁজুন, সে বোঝায় ক্রমে এগিয়ে চলুন, আর যা বুঝলেন তা আমলে পৌঁছাতে দিন।"
+  },
+  "12:10": {
+    "reflectionEn": "The brothers have said it aloud: kill Yusuf, or cast him out. Then one of them speaks. He does not stop the wrong; he narrows it. Do not kill Yusuf, he says. Put him in the hidden depth of the well, where some travellers may pick him up, if you must do something. The Qur'an does not even give his name. What it keeps is the moment one voice slowed a group that had made up its mind. His plan was still a grave wrong against a child and an old father. Yet it was the brake that left a life to be saved. When the people around me agree on harm, do I stay silent, or do I at least say: not that far?",
+    "reflectionBn": "ভাইয়েরা কথাটা মুখে এনে ফেলেছে: ইউসুফকে মেরে ফেলো, নয়তো দূরে ফেলে এসো। তখন তাদের একজন মুখ খোলে। সে অন্যায়টা থামায় না, শুধু তার সীমা ছোট করে আনে। বলে, ইউসুফকে মেরো না। তাকে কূপের অন্ধকার গভীরে ফেলে দাও, কোনো যাত্রীদল তাকে তুলে নিয়ে যাবে, যদি কিছু করতেই হয়। কুরআন তার নামটাও বলে না। যা ধরে রাখে তা হলো সেই মুহূর্ত, যখন একটি কণ্ঠ মন স্থির করে ফেলা একটা দলকে থামিয়ে দিল। তার প্রস্তাবও ছিল এক শিশু আর এক বৃদ্ধ পিতার উপর বড় জুলুম। তবু সেই লাগামের কারণেই একটা প্রাণ বাঁচার পথ খোলা রইল। আমার আশপাশের লোকেরা যখন কারও ক্ষতি করতে একমত হয়, আমি কি চুপ থাকি, নাকি অন্তত বলি: এতদূর নয়?",
+    "pointsEn": [
+      "When a group I belong to settles on something wrong, what is the least I could say to slow it down?",
+      "Have I ever called a harm the lesser one so that I could feel comfortable doing it at all?",
+      "Whose silence in my circle is waiting for one person, perhaps me, to speak first?",
+      "Do I judge people by the worst thing they once planned, or leave room for a repentance Allah may have accepted?",
+      "Where am I still saying \"if you must do something\" when I should be saying \"do nothing of the kind\"?"
+    ],
+    "pointsBn": [
+      "আমি যে দলের মানুষ, তারা যখন কোনো অন্যায়ে একমত হয়, সেটাকে ধীর করতে অন্তত কোন কথাটা আমি বলতে পারি?",
+      "কোনো ক্ষতিকে 'ছোট ক্ষতি' নাম দিয়ে আমি কি কখনো সেটা করে ফেলার ব্যাপারে নিজেকে নিশ্চিন্ত করেছি?",
+      "আমার চারপাশে কার নীরবতা অপেক্ষা করছে, কেউ একজন আগে মুখ খুলুক, হয়তো সেই একজন আমি?",
+      "কেউ একসময় সবচেয়ে খারাপ যে কাজের পরিকল্পনা করেছিল, তা দিয়েই কি আমি তাকে বিচার করি, নাকি আল্লাহ হয়তো যে তওবা কবুল করেছেন তার জন্য জায়গা রাখি?",
+      "কোথায় আমি এখনো বলছি 'যদি কিছু করতেই হয়', অথচ বলা উচিত 'এমন কিছুই করো না'?"
+    ],
+    "lessonEn": "When others agree on harm, be the voice that slows it, and never mistake a lesser wrong for a right one.",
+    "lessonBn": "অন্যরা যখন কারও ক্ষতি করতে একমত হয়, আপনি সেই কণ্ঠ হোন যা তা ধীর করে দেয়, আর ছোট অন্যায়কে কখনো ন্যায় ভেবে ভুল করবেন না।"
   }
 };
 

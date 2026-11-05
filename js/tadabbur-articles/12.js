@@ -307,6 +307,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Brake on the Plot",
+          "bn": "ষড়যন্ত্রে এক লাগাম"
+        },
+        "p": [
+          {
+            "en": "The verse opens in the middle of a meeting. In 12:8 the brothers complain that Yusuf (AS) and his brother are dearer to their father than they are, though they are a whole band. In 12:9 the plan is spoken: kill Yusuf or cast him out to some land, so that your father's face is left for you alone, and afterwards you can be a righteous people. Then 12:10 begins qala qa'ilun minhum: a speaker among them said. The Qur'an gives him no name.",
+            "bn": "আয়াতটি শুরু হয় এক বৈঠকের মাঝখান থেকে। ১২:৮ আয়াতে ভাইদের নালিশ: আমরা পুরো একটা দল, অথচ ইউসুফ (আঃ) আর তার ভাই আমাদের চেয়ে বাবার কাছে বেশি প্রিয়। ১২:৯ আয়াতে পরিকল্পনাটা মুখে আসে: ইউসুফকে মেরে ফেলো, নয়তো কোনো দূর দেশে ফেলে এসো, তাহলে বাবার দৃষ্টি শুধু তোমাদের দিকেই থাকবে, পরে না হয় ভালো মানুষ হয়ে যাবে। এরপর ১২:১০ আয়াতের শুরু: কালা কা-ইলুম মিনহুম, তাদের একজন বলল। কুরআন তার নাম বলে না।"
+          },
+          {
+            "en": "Al-Muyassar gives the verse in one plain line: a speaker among Yusuf's brothers said, do not kill Yusuf, throw him into the depth of the well, and some passing travellers will pick him up, so that you are rid of him with no need to kill him, if you are resolved to do what you say. As-Sa'di places the speaker inside the group: he was one of the brothers who wanted Yusuf killed or sent far away. The objection comes from within the plot, not from outside it.",
+            "bn": "মুয়াসসার আয়াতটিকে এক সরল বাক্যে বলে দেয়। ইউসুফের ভাইদের একজন বলল, ইউসুফকে মেরো না, তাকে কূপের গভীরে ফেলে দাও। পথচলতি কোনো যাত্রীদল তাকে তুলে নেবে, তাতে মারার দরকার ছাড়াই তোমরা তার হাত থেকে রেহাই পাবে, যদি যা বলছ তা করার পণ করেই থাকো। সা'দী বক্তাকে দলের ভেতরেই রাখেন। যে ভাইয়েরা ইউসুফকে মেরে ফেলতে বা দূরে সরিয়ে দিতে চেয়েছিল, সে তাদেরই একজন। আপত্তিটা তাই বাইরে থেকে আসেনি, এসেছে ষড়যন্ত্রের ভেতর থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Names, No Verdict",
+          "bn": "তিনটি নাম, কোনো রায় নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gives the names together. Qatada and Muhammad ibn Ishaq said he was the eldest of them and his name was Rubil; as-Suddi said it was Yahudha; Mujahid said it was Sham'un. At-Tabari carries the reports with their chains. From Qatada: we were told it was Rubil, the eldest of them and the son of Yusuf's maternal aunt, and he forbade them to kill him. From Ibn Ishaq: it was mentioned to me, and Allah knows best, that it was Rubil, the most moderate of them in his view of Yusuf.",
+            "bn": "ইবন কাসীর নামগুলো একসঙ্গে দেন। কাতাদা ও মুহাম্মাদ ইবন ইসহাক বলেছেন, সে ছিল তাদের সবার বড়, নাম রূবীল। সুদ্দী বলেছেন, কথাটা বলেছিল ইয়াহূযা। মুজাহিদ বলেছেন, সে শাম'ঊন। তাবারী বর্ণনাগুলো সনদসহ আনেন। কাতাদার সূত্রে: আমাদের জানানো হয়েছে, সে রূবীল, ভাইদের মধ্যে সবচেয়ে বড়, ইউসুফের খালাতো ভাই, আর সে-ই তাদের হত্যা করতে নিষেধ করেছিল। ইবন ইসহাকের সূত্রে: আমাকে বলা হয়েছে, আর আল্লাহই ভালো জানেন, সে রূবীল, ইউসুফের ব্যাপারে তাদের মধ্যে যার মত ছিল সবচেয়ে সংযত।"
+          },
+          {
+            "en": "At-Tabari also has Ibn Abbas, through Ibn Jurayj, saying only that it was their eldest, who stayed behind. Al-Qurtubi opens with Yahudha, whom he calls the eldest son of Ya'qub, on the authority of Ibn Abbas; then Rubil, whom he makes the brother who later says I will not leave the land, in 12:80; then Sham'un. Al-Baghawi names Yahudha, cites Qatada for Rubil, and calls the first view more correct. So the sources differ even on who the eldest was. None settles it, and neither does this article.",
+            "bn": "তাবারী ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ)-এর কথাও আনেন, সেখানে নাম নেই, শুধু এটুকু: কথাটা বলেছিল তাদের বড় ভাই, যে পেছনে থেকে গিয়েছিল। কুরতুবী শুরু করেন ইয়াহূযা দিয়ে, ইবন আব্বাস (রাঃ)-এর বরাতে, আর তাকে বলেন ইয়া'কূবের বড় ছেলে। তারপর রূবীল, যাকে তিনি সেই ভাই বলে চিনিয়ে দেন, যে ১২:৮০ আয়াতে বলবে, আমি এ দেশ ছেড়ে যাব না। তারপর শাম'ঊন। বাগাভী ইয়াহূযার নাম নেন, কাতাদার বরাতে রূবীলের কথা আনেন, আর প্রথম মতটিকে বেশি সঠিক বলেন। বড় ভাই কে, তা নিয়েও তাই সূত্রগুলো একমত নয়। কোনোটিই বিষয়টা মীমাংসা করে না, এ লেখাও করবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Less Evil, Still Evil",
+          "bn": "কম মন্দ, তবু মন্দ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the objection as a weighing of harms. Do not kill Yusuf, because killing him is the greater sin and the uglier, and the aim can be reached by putting him far from his father without killing him. He then says of this speaker that he was the best of them in his view of Yusuf, and the most dutiful and God-fearing of them in this affair, for some evil is lighter than some, and a light harm is used to push away a heavy harm.",
+            "bn": "সা'দী আপত্তিটাকে দেখেন দুই ক্ষতির মধ্যে মাপজোখ হিসেবে। ইউসুফকে মেরো না, কারণ তাকে হত্যা করা বড় গুনাহ, বেশি জঘন্যও। আর তোমরা যা চাও, তা তো হত্যা ছাড়াই বাবার কাছ থেকে তাকে দূরে সরিয়ে দিলেই হাসিল হয়। এরপর তিনি এই বক্তা সম্পর্কে বলেন, ইউসুফের ব্যাপারে তার মতই ছিল সবার চেয়ে ভালো, আর এ ঘটনায় সে-ই ছিল তাদের মধ্যে সবচেয়ে কর্তব্যপরায়ণ ও আল্লাহভীরু। কারণ কিছু মন্দ অন্য কিছু মন্দের চেয়ে হালকা, আর হালকা ক্ষতি দিয়ে ভারী ক্ষতি ঠেকানো যায়।"
+          },
+          {
+            "en": "Al-Baghawi gives the reason in the speaker's own reported words: killing is a great major sin. Ibn Kathir glosses la taqtulu as do not let your enmity and hatred of him go as far as killing him. Then comes the closing clause, in kuntum fa'ilin. At-Tabari takes it to mean if you are going to do what I tell you; Ibn Kathir, al-Muyassar and al-Baghawi as if you are resolved on what you are saying. Either way, the speaker does not call his plan good. He offers it only to men already set on acting.",
+            "bn": "বাগাভী কারণটা আনেন বক্তার নিজের মুখের কথা হিসেবে: হত্যা এক মহা কবীরা গুনাহ। ইবন কাসীর লা তাকতুলূর ব্যাখ্যা দেন এভাবে: তার প্রতি তোমাদের শত্রুতা আর বিদ্বেষ যেন হত্যা পর্যন্ত না গড়ায়। তারপর শেষ অংশ, ইন কুনতুম ফা-ইলীন। তাবারীর ব্যাখ্যায় এর অর্থ, আমি যা বলছি তা যদি তোমরা করতেই যাও। ইবন কাসীর, মুয়াসসার ও বাগাভীর ব্যাখ্যায়, যা বলছ তা করার যদি পণ করেই থাকো। যে অর্থেই নেওয়া হোক, বক্তা নিজের প্রস্তাবকে ভালো বলে না। সে এটা রাখে কেবল তাদের সামনে, যারা কিছু একটা করবেই বলে ঠিক করে ফেলেছে।"
+          },
+          {
+            "en": "Here the verse becomes a mirror. The speaker did not turn the group back. The well was still a wrong, and 12:15 shows them agreeing to put him in it. But his sentence moved the line from a death to a life that could still be found. The lesson is not that a lesser wrong becomes right because a worse one was on the table. It is that one voice, raised inside a room that has already decided, can still change what happens to the person outside it.",
+            "bn": "এখানে এসে আয়াতটি আয়না হয়ে ওঠে। বক্তা দলটিকে ফেরাতে পারেনি। কূপে ফেলাও ছিল অন্যায়, আর ১২:১৫ আয়াতে দেখা যায় তারা তাকে সেখানে ফেলতেই একমত হলো। তবু তার এক বাক্যে সীমারেখা সরে গেল মৃত্যু থেকে এমন এক জীবনের দিকে, যাকে তখনো খুঁজে পাওয়া সম্ভব। শিক্ষাটা এই নয় যে বড় অন্যায়ের প্রস্তাব সামনে ছিল বলে ছোট অন্যায় ন্যায় হয়ে যায়। শিক্ষা হলো, যে ঘরে সিদ্ধান্ত হয়ে গেছে, সেখানে উঠে আসা একটি কণ্ঠও বাইরের মানুষটির ভাগ্য বদলে দিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where His News Would Vanish",
+          "bn": "যেখানে খবর হারিয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "Ghayabat al-jubb. At-Tabari explains it as the bottom of the well, where news of him would vanish; a ghayaba is anything that hides a thing, and the jubb is a well not lined with stone. Al-Baghawi adds that it was so called because it was cut into the earth and left unlined. Al-Qurtubi quotes al-Harawi: the ghayaba is like a ledge or niche in the well, a little above the water, that hides a thing from the eye. The two words are joined, he says, because they meant a dark place in the well where no onlooker's gaze would reach him.",
+            "bn": "গায়াবাতিল জুব্ব। তাবারী এর ব্যাখ্যা দেন কূপের তলদেশ হিসেবে, যেখানে তার খবর হারিয়ে যাবে। যা কিছু কোনো জিনিসকে আড়াল করে, তা-ই গায়াবা, আর জুব্ব হলো এমন কূপ যার দেয়াল পাথরে বাঁধানো নয়। বাগাভী যোগ করেন, মাটি কেটে খুঁড়ে বাঁধাই না করে রেখে দেওয়া হয় বলেই এর এ নাম। কুরতুবী হারাবীর কথা আনেন: গায়াবা হলো কূপের ভেতরে পানির একটু উপরে তাকের মতো একটা খাঁজ, যা জিনিসকে চোখের আড়াল করে। তিনি বলেন, শব্দ দুটি একসঙ্গে এসেছে, কারণ তারা চেয়েছিল কূপের এমন অন্ধকার জায়গায় তাকে রাখতে, যেখানে কারও দৃষ্টি পৌঁছাবে না।"
+          },
+          {
+            "en": "Where the well lay, the sources give only reports. Qatada, in at-Tabari and in Ibn Kathir, says it was a well in Bayt al-Maqdis. At-Tabari also records Ibn Abbas, through Ibn Jurayj, calling it a well in al-Sham. Al-Qurtubi gives the Bayt al-Maqdis report under it is said, then Wahb ibn Munabbih placing it in al-Urdunn, and Muqatil putting it three farsakhs from Ya'qub's home. These are narrations, not a fixed site, and they do not agree. The verse itself names only a well, and the darkness at its bottom.",
+            "bn": "কূপটি কোথায় ছিল, এ নিয়ে সূত্রগুলোতে আছে কেবল কিছু বর্ণনা। তাবারী ও ইবন কাসীরে কাতাদা বলেন, সেটি বাইতুল মাকদিসের একটি কূপ। তাবারী ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ)-এর কথাও আনেন: শামের একটি কূপ। কুরতুবী বাইতুল মাকদিসের কথাটি আনেন 'বলা হয়' দিয়ে, তারপর ওয়াহব ইবন মুনাব্বিহের মত, কূপটি উরদুনে, আর মুকাতিলের মত, ইয়া'কূব (আঃ)-এর বাড়ি থেকে ৩ ফারসাখ দূরে। এগুলো বর্ণনা মাত্র, নির্দিষ্ট কোনো জায়গা নয়, আর এগুলো পরস্পর মেলেও না। আয়াত নিজে শুধু একটি কূপের কথা বলে, আর তার তলার অন্ধকারের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Found Without Being Sought",
+          "bn": "না খুঁজেই যা মেলে"
+        },
+        "p": [
+          {
+            "en": "Yaltaqithu: some of the travellers will pick him up. Al-Baghawi defines iltiqat as taking a thing from where the finder did not reckon on it, and al-Qurtubi quotes Ibn Arafa: finding a thing without seeking it. At-Tabari explains the sayyara as passers-by on the road, and records Ibn Abbas, through Ibn Jurayj, saying that some Bedouin picked him up. Al-Qurtubi sees calculation in the proposal: a traveller would carry the boy far away, so the brothers need not travel themselves, since their father might refuse them leave, or discover what they meant.",
+            "bn": "ইয়ালতাকিতহু: কোনো যাত্রীদল তাকে তুলে নেবে। বাগাভীর সংজ্ঞায় ইলতিকাত মানে এমন জায়গা থেকে কিছু তুলে নেওয়া, যেখানে তা পাওয়ার কথা ভাবাই হয়নি। কুরতুবী ইবন আরাফার কথা আনেন: না খুঁজেই কোনো কিছু পেয়ে যাওয়া। তাবারী সাইয়ারার ব্যাখ্যা দেন পথচলতি মুসাফির হিসেবে, আর ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: কিছু বেদুইন তাকে তুলে নিয়েছিল। কুরতুবী প্রস্তাবটিতে হিসাব দেখতে পান। যাত্রীরাই ছেলেটিকে দূরে নিয়ে যাবে, ভাইদের নিজেদের সফর করতে হবে না। কারণ বাবা হয়তো অনুমতি দেবেন না, কিংবা তাদের মতলব টের পেয়ে যাবেন।"
+          },
+          {
+            "en": "The word also told the commentators something about his age. Al-Qurtubi reports Malik, through Ibn Wahb and Ibn al-Qasim, saying that Yusuf (AS) was a boy when he was thrown into the well. The proof offered there is that only the small are picked up this way, and that the wolf Ya'qub (AS) fears in 12:13 threatens the young. Ma'arif al-Qur'an adds that, as reported by Ibn Jarir, Ibn al-Mundhir and Ibn Abi Shaybah, he was seven years old then. That figure is Ma'arif's report alone; it is not in the Arabic commentaries read for this verse.",
+            "bn": "শব্দটি থেকে তাফসীরকারেরা তাঁর বয়স সম্পর্কেও কিছু বুঝেছেন। কুরতুবী ইবন ওয়াহব ও ইবনুল কাসিমের সূত্রে মালিকের কথা আনেন: কূপে ফেলার সময় ইউসুফ (আঃ) ছিলেন বালক। প্রমাণ হিসেবে সেখানে বলা হয়েছে, এভাবে কুড়িয়ে নেওয়া হয় কেবল ছোটদেরই, আর ১২:১৩ আয়াতে ইয়া'কূব (আঃ) যে নেকড়ের ভয় করেন, সে ভয় ছোটদের বেলাতেই খাটে। মাআরিফুল কুরআন যোগ করে, ইবন জারীর, ইবনুল মুনযির ও ইবন আবী শাইবার বর্ণনা অনুযায়ী তখন তাঁর বয়স ছিল ৭ বছর। এই সংখ্যাটি কেবল মাআরিফের বর্ণনা, এ আয়াতের জন্য পড়া আরবি তাফসীরগুলোতে তা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Foundling Is Presumed Free",
+          "bn": "কুড়িয়ে পাওয়া শিশু স্বাধীন"
+        },
+        "p": [
+          {
+            "en": "From this one verb al-Qurtubi opens a long passage of law, since iltiqat gives both the laqit, the foundling, and the luqata, the found object. On the foundling he reports that the principle is freedom, because the free outnumber the enslaved. He records that al-Hasan ibn Ali (RA) judged a foundling free and recited and they sold him for a paltry price, a few dirhams, from 12:20; that this was the view of Umar ibn al-Khattab (RA), and is reported from Ali (RA); and that Malik, in the Muwatta, says the foundling is free.",
+            "bn": "এই একটি ক্রিয়া থেকে কুরতুবী ফিকহের দীর্ঘ আলোচনা শুরু করেন। কারণ ইলতিকাত থেকেই এসেছে লাকীত, অর্থাৎ কুড়িয়ে পাওয়া শিশু, আর লুকাতা, অর্থাৎ কুড়িয়ে পাওয়া জিনিস। শিশুর ব্যাপারে তিনি জানান, মূল নীতি হলো সে স্বাধীন, কারণ মানুষের মধ্যে স্বাধীনরাই বেশি। তিনি উল্লেখ করেন, হাসান ইবন আলী (রাঃ) এক কুড়িয়ে পাওয়া শিশুকে স্বাধীন বলে রায় দেন এবং ১২:২০ আয়াত তিলাওয়াত করেন: আর তারা তাকে বেচে দিল সামান্য দামে, গোনা কয়েকটি দিরহামে। উমার ইবনুল খাত্তাব (রাঃ)-এর মতও এটাই, আলী (রাঃ) থেকেও এমন বর্ণনা আছে। আর মালিক মুওয়াত্তায় বলেন, কুড়িয়ে পাওয়া শিশু স্বাধীন।"
+          },
+          {
+            "en": "On found property al-Qurtubi cites the hadith of Zayd ibn Khalid al-Juhani (RA), and the wording he gives matches a version al-Bukhari records in his Sahih, number 2372. It is a general narration about lost things, and al-Qurtubi brings it only because the verse uses the verb of finding. No tafsir read for this verse attaches this or any other hadith to the verse itself. The narration follows, translated here from al-Bukhari's Arabic.",
+            "bn": "কুড়িয়ে পাওয়া জিনিসের ব্যাপারে কুরতুবী যায়দ ইবন খালিদ জুহানী (রাঃ)-এর হাদীস আনেন। তিনি যে শব্দে তা উদ্ধৃত করেন, বুখারী তাঁর সহীহ গ্রন্থে ২৩৭২ নম্বরে সেই শব্দেরই একটি বর্ণনা এনেছেন। হারানো জিনিস নিয়ে এটি একটি সাধারণ হাদীস, কুরতুবী এনেছেন শুধু এ কারণে যে আয়াতে কুড়িয়ে পাওয়ার ক্রিয়াটি এসেছে। এ আয়াতের জন্য পড়া কোনো তাফসীর এটিকে বা অন্য কোনো হাদীসকে আয়াতটির সঙ্গে যুক্ত করেনি। বুখারীর আরবি থেকে অনুবাদ করে হাদীসটি নিচে দেওয়া হলো।"
+          },
+          {
+            "en": "Zayd ibn Khalid (RA) said: A man came to the Messenger of Allah ﷺ and asked him about a found thing. He said: Know its container and its tie, then make it known for a year; if its owner comes, [return it], and if not, it is yours to deal with. He asked: And a stray sheep? He said: It is for you, or for your brother, or for the wolf. He asked: And a stray camel? He said: What have you to do with it? It has its water-skin and its feet; it comes down to water and eats from the trees until its owner meets it.",
+            "bn": "যায়দ ইবন খালিদ (রাঃ) বলেন: এক ব্যক্তি আল্লাহর রাসূল ﷺ-এর কাছে এসে কুড়িয়ে পাওয়া জিনিস সম্পর্কে জিজ্ঞেস করল। তিনি বললেন: এর থলে আর বাঁধনের রশি চিনে রাখো, তারপর এক বছর ধরে ঘোষণা দিতে থাকো। মালিক এলে [তাকে ফিরিয়ে দাও], না এলে তা দিয়ে তুমি যা ইচ্ছা করো। সে জিজ্ঞেস করল: আর হারানো ছাগল? তিনি বললেন: সেটা তোমার, নয়তো তোমার ভাইয়ের, নয়তো নেকড়ের। সে জিজ্ঞেস করল: আর হারানো উট? তিনি বললেন: ওটার সঙ্গে তোমার কী? ওর সঙ্গে আছে পানির মশক আর পায়ের খুর। সে পানির ঘাটে যায়, গাছের পাতা খায়, যতক্ষণ না মালিক তাকে খুঁজে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prophets, or Not Yet?",
+          "bn": "নবী, নাকি তখনো নন?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi asks the question this verse forces. He first says it shows that Yusuf's brothers were not prophets, neither at first nor later, since prophets do not plan the killing of a Muslim; they were Muslims who committed a sin and then repented. He reports a second view, that they were prophets and a prophet's lapse is not rationally impossible, and rejects it because prophets are protected from major sins. A third view is that they were not prophets at that time and Allah made them prophets afterwards, and of this he says: it is more likely, and Allah knows best.",
+            "bn": "এ আয়াত যে প্রশ্ন সামনে আনে, কুরতুবী তা তোলেন। প্রথমে তিনি বলেন, এ থেকে বোঝা যায় ইউসুফের ভাইয়েরা নবী ছিলেন না, আগেও না, পরেও না। কারণ নবীরা কোনো মুসলিমকে হত্যার পরিকল্পনা করেন না। তারা ছিল মুসলিম, গুনাহ করেছিল, পরে তওবা করেছিল। দ্বিতীয় একটি মত তিনি উল্লেখ করেন: তারা নবী ছিলেন, আর নবীর পদস্খলন যুক্তির বিচারে অসম্ভব নয়। এ মত তিনি নাকচ করেন, কারণ নবীরা কবীরা গুনাহ থেকে সুরক্ষিত। তৃতীয় মত: তখন তারা নবী ছিল না, পরে আল্লাহ তাদের নবুওয়াত দেন। এ সম্পর্কে তিনি বলেন: এটিই বেশি সম্ভাব্য, আর আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Al-Baghawi takes the third line: they were adults then, and not yet prophets. Some said they were not yet adults, and he rejects it, since they spoke of being a righteous people afterwards, in 12:9, and later asked forgiveness for their sins, in 12:97, and a small child has no sin. He reports Abu Amr ibn al-Ala, asked how they could talk of going out to play while being prophets, answering that it was before Allah made them prophets. This article takes no side on their rank. It judges the act the verse describes, and leaves the men to Allah.",
+            "bn": "বাগাভী তৃতীয় পথ ধরেন: তারা তখন প্রাপ্তবয়স্ক ছিল, তবে তখনো নবী হয়নি। কেউ কেউ বলেছেন তারা তখনো প্রাপ্তবয়স্ক হয়নি, বাগাভী তা মানেন না। কারণ ১২:৯ আয়াতে তারা পরে সৎ লোক হয়ে যাওয়ার কথা বলেছিল, আর ১২:৯৭ আয়াতে গুনাহের জন্য ক্ষমা চেয়েছিল, অথচ ছোট শিশুর কোনো গুনাহ নেই। তিনি আবু আমর ইবনুল আলার কথা আনেন। তাঁকে জিজ্ঞেস করা হয়েছিল, নবী হয়ে তারা খেলতে যাওয়ার কথা বলল কীভাবে? তিনি বলেন, সেটা আল্লাহ তাদের নবুওয়াত দেওয়ার আগের কথা। তাদের মর্যাদা নিয়ে এ লেখা কোনো পক্ষ নেয় না। আয়াত যে কাজের বর্ণনা দেয়, বিচার শুধু সেই কাজের, মানুষগুলোর বিষয় আল্লাহর হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiven So None Despair",
+          "bn": "যাতে কেউ নিরাশ না হয়"
+        },
+        "p": [
+          {
+            "en": "Muhammad ibn Ishaq, in a report Ibn Kathir traces to Ibn Abi Hatim, names what the brothers had agreed on: cutting the ties of kinship, undutifulness to a father, and little tenderness for a small boy who had done no wrong, or for an aged father with his right, his honour and his standing with Allah. They meant to part an old man of weakening bones from the son he loved, and a small boy from the father he needed. Then he adds: may Allah forgive them, and He is the Most Merciful of the merciful.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে মুহাম্মাদ ইবন ইসহাকের একটি কথা আনেন। ভাইয়েরা কীসের উপর একমত হয়েছিল, তিনি তা গুনে দেখান: আত্মীয়তার বন্ধন ছিন্ন করা, পিতার অবাধ্য হওয়া, নিরপরাধ এক ছোট ছেলের প্রতি দয়ার অভাব। আর এক বৃদ্ধ পিতার প্রতিও, যাঁর হক আছে, সম্মান আছে, আল্লাহর কাছে মর্যাদা আছে। তারা চেয়েছিল দুর্বল হাড়ের এক বৃদ্ধকে তাঁর প্রিয় ছেলে থেকে আলাদা করতে, আর এক ছোট ছেলেকে সেই পিতা থেকে, যাঁকে তার দরকার ছিল। তারপর তিনি বলেন: আল্লাহ তাদের ক্ষমা করুন, তিনিই সবচেয়ে বড় দয়ালু।"
+          },
+          {
+            "en": "Al-Baghawi's version of that list adds betraying a trust, breaking a pledge and lying to their father, and closes: Allah pardoned them all of it, so that no one should despair of His mercy. He also reports some scholars saying they had resolved to kill him and Allah held them back out of mercy to them; had they done it, they would all have perished. Ibn Kathir sees the same hand: they had no way to kill him, because Allah willed for Yusuf (AS) revelation and rule in Egypt, and turned them aside through what he calls Rubil's words.",
+            "bn": "বাগাভীর বর্ণনায় ওই তালিকায় আরও আছে আমানতের খেয়ানত, অঙ্গীকার ভঙ্গ আর পিতার সঙ্গে মিথ্যা বলা। শেষ কথাটি হলো, আল্লাহ এর সবই তাদের মাফ করে দিয়েছেন, যাতে কেউ তাঁর রহমত থেকে নিরাশ না হয়। তিনি কিছু আলেমের কথাও আনেন: তারা তাকে হত্যার সিদ্ধান্ত নিয়েছিল, আল্লাহ দয়া করে তাদের বিরত রাখেন, করে ফেললে সবাই ধ্বংস হয়ে যেত। ইবন কাসীরও একই হাত দেখেন। তাকে হত্যা করার কোনো পথ তাদের ছিল না, কারণ আল্লাহ ইউসুফ (আঃ)-এর জন্য ওয়াহী আর মিসরের শাসন স্থির করে রেখেছিলেন। তিনি তাদের ফিরিয়ে দেন সেই কথা দিয়ে, যাকে ইবন কাসীর রূবীলের কথা বলেন।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what these brothers planned in one family's story, and the surah later gives their own confession. It licenses nothing against any living person or community, including any people who trace their descent to Ya'qub (AS). What the verse holds out to the listener is the one voice that slowed them. In a room where harm has been agreed, say at least: do not kill him. Then do not rest at the lesser harm, when the better word was no harm at all.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি পরিবারের কাহিনিতে এই ভাইদের পরিকল্পনার বর্ণনা দেয়, আর সূরাটি পরে তাদের নিজেদের মুখেই স্বীকারোক্তি এনেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না, যারা নিজেদের ইয়া'কূব (আঃ)-এর বংশধর বলে, তাদের বিরুদ্ধেও না। শ্রোতার সামনে আয়াতটি তুলে ধরে সেই একটি কণ্ঠ, যা তাদের ধীর করে দিয়েছিল। যে ঘরে ক্ষতির সিদ্ধান্ত হয়ে গেছে, সেখানে অন্তত বলুন: তাকে মেরো না। তারপর ছোট ক্ষতিতে থেমে যাবেন না, কারণ আরও ভালো কথা ছিল, কোনো ক্ষতিই নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "12:16": {
     "sections": [
       {
