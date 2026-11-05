@@ -619,6 +619,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Those Who Said We Heard",
+          "bn": "যারা বলেছিল আমরা শুনলাম"
+        },
+        "p": [
+          {
+            "en": "The verse follows a warning. In 8:20 the believers are told to obey Allah and His Messenger and not to turn away from him while they hear; in 8:21, not to be like those who said, we have heard, while they do not hear. Our verse now says how such people stand: indeed, the worst of creatures that walk, in the sight of Allah, are the deaf, the dumb, who do not reason.",
+            "bn": "আয়াতটি এসেছে একটি সতর্কবাণীর পরে। ৮:২০ আয়াতে মুমিনদের বলা হয়েছে আল্লাহ ও তাঁর রাসূলের আনুগত্য করতে, আর শুনতে থাকা অবস্থায় তাঁর কাছ থেকে মুখ না ফেরাতে। ৮:২১ আয়াতে বলা হয়েছে, তাদের মতো হয়ো না যারা বলেছিল আমরা শুনলাম, অথচ তারা শোনে না। এবার আমাদের আয়াত জানাচ্ছে আল্লাহর কাছে এমন লোকদের অবস্থান কোথায়: পৃথিবীতে চলাফেরা করা প্রাণীদের মধ্যে নিকৃষ্টতম তারা, যারা বধির, বোবা, যারা বুদ্ধি খাটায় না।"
+          },
+          {
+            "en": "Ibn Kathir reads the link this way: having told the believers not to imitate those who reject the Messenger, Allah reports that this kind among the children of Adam are the worst of creation. Ibn Ishaq, in a gloss at-Tabari carries, ties the verse to 8:21 from the other side: these are the hypocrites whom I forbade you to resemble, dumb to good, deaf to the truth, unaware of the punishment and the reckoning held against them for it. The words naming the hypocrites are missing from the manuscript; at-Tabari's editor restored them from Ibn Hisham's Sirah.",
+            "bn": "ইবন কাসীর যোগসূত্রটা এভাবে পড়েন। রাসূলকে যারা প্রত্যাখ্যান করে, মুমিনদের তাদের অনুকরণ করতে নিষেধ করার পর আল্লাহ জানিয়ে দিলেন, আদমসন্তানের এই শ্রেণিটিই সৃষ্টির মধ্যে নিকৃষ্টতম। তাবারী ইবন ইসহাকের একটি ব্যাখ্যা উদ্ধৃত করেন, যা আয়াতটিকে অন্য দিক থেকে ৮:২১-এর সঙ্গে বেঁধে দেয়। তাঁর কথায়, এরা সেই মুনাফিক, যাদের মতো হতে আমি তোমাদের নিষেধ করেছি। কল্যাণের কথায় তারা বোবা, সত্যের বেলায় বধির। এর জন্য কী শাস্তি আর কী জবাবদিহি তাদের অপেক্ষায়, তা তারা জানে না। মুনাফিকদের নাম-উল্লেখকারী শব্দগুলো পাণ্ডুলিপিতে নেই; তাবারীর সম্পাদক সেগুলো ইবন হিশামের সীরাত থেকে পুনঃস্থাপন করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Everything That Walks the Earth",
+          "bn": "মাটিতে যা কিছু হেঁটে বেড়ায়"
+        },
+        "p": [
+          {
+            "en": "Ad-dawabb is the plural of dabbah, a thing that walks. At-Tabari glosses the phrase as the worst of what walks upon the earth of Allah's creation, and al-Baghawi and the Muyassar say nearly the same. At-Tabari then gives Ibn Zayd's one-word gloss: ad-dawabb, the creation. Ma'arif al-Qur'an adds a distinction. Literally, it says, everything that walks on the earth is a dabbah, but in common usage the word is kept for four-footed animals, so the verse's sense is that these men are the worst of beasts in Allah's sight.",
+            "bn": "আদ-দাওয়াব্ব শব্দটি দাব্বাহ-এর বহুবচন, অর্থাৎ যা হেঁটে চলে। তাবারী ব্যাখ্যা করেন, আল্লাহর সৃষ্টির মধ্যে পৃথিবীর বুকে যা কিছু চলে বেড়ায়, তার মধ্যে নিকৃষ্টতম। বাগাভী আর মুয়াসসারও প্রায় একই কথা বলেন। এরপর তাবারী ইবন যায়দের এক শব্দের ব্যাখ্যা আনেন: আদ-দাওয়াব্ব মানে সৃষ্টি। মাআরিফুল কুরআন একটি পার্থক্য দেখায়। আভিধানিক অর্থে মাটিতে যা কিছু হাঁটে সবই দাব্বাহ, কিন্তু প্রচলিত ব্যবহারে শব্দটি চারপেয়ে জন্তুর জন্যই রাখা হয়। তাই আয়াতের মর্ম দাঁড়ায়, আল্লাহর কাছে এরা পশুদের মধ্যেও নিকৃষ্টতম।"
+          },
+          {
+            "en": "Al-Qurtubi's note on the opening word is grammatical. Sharr, worst, was originally ashar, and the hamza fell away through frequent use, as khayr, best, was originally akhyar. So the verse uses a full superlative and places it 'inda Allah, in the sight of Allah. The same opening returns in 8:55, the worst of creatures in the sight of Allah are those who disbelieved; there the ranking is tied to a state, while here it is tied to three failed faculties: the deaf, the dumb, those who do not reason.",
+            "bn": "প্রথম শব্দটি নিয়ে কুরতুবীর মন্তব্য ব্যাকরণগত। শাররুন, অর্থাৎ নিকৃষ্টতম, মূলে ছিল আশাররু। বেশি ব্যবহারের কারণে হামযা ঝরে গেছে, ঠিক যেমন খায়রুন, অর্থাৎ উত্তম, মূলে ছিল আখইয়ারু। কাজেই আয়াতে আছে পূর্ণ শ্রেষ্ঠত্ববাচক রূপ, আর তুলনাটি রাখা হয়েছে ইনদাল্লাহ, আল্লাহর দৃষ্টিতে। একই সূচনা আবার ফিরে আসে ৮:৫৫ আয়াতে: আল্লাহর কাছে নিকৃষ্টতম প্রাণী তারা, যারা কুফরি করেছে। সেখানে মাপকাঠি একটি অবস্থা। এখানে মাপকাঠি তিনটি অকেজো ক্ষমতা: বধির, বোবা, আর যারা বুদ্ধি খাটায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deaf in the Heart Alone",
+          "bn": "কানে নয়, অন্তরে বধির"
+        },
+        "p": [
+          {
+            "en": "At-Tabari carries a sentence from Ibn Zayd that settles what kind of deafness is meant: not the deaf in this world, nor the dumb, but the deaf of the hearts, their dumb and their blind. Ibn Zayd then recited 22:46: it is not the eyes that are blinded, but blinded are the hearts within the breasts. At-Tabari's own gloss says the same in other words. These are people who make themselves deaf to the truth so as not to listen to it, take a lesson from it and be admonished by it.",
+            "bn": "তাবারী ইবন যায়দের একটি বাক্য উদ্ধৃত করেন, যা পরিষ্কার করে দেয় এখানে কোন বধিরতার কথা। তাঁর কথায়, এরা দুনিয়ার অর্থে বধির নয়, বোবাও নয়। এরা অন্তরের দিক থেকে বধির, অন্তরের দিক থেকে বোবা, অন্তরের দিক থেকে অন্ধ। তারপর ইবন যায়দ ২২:৪৬ আয়াত পড়েন: চোখ তো অন্ধ হয় না, অন্ধ হয় বুকের ভেতরের অন্তর। তাবারীর নিজের ব্যাখ্যাও একই কথা বলে, ভিন্ন শব্দে। এরা ইচ্ছা করেই সত্যের বেলায় কান বন্ধ রাখে, যাতে তা শুনতে না হয়, তা থেকে শিক্ষা নিতে না হয়, উপদেশ গ্রহণ করতে না হয়।"
+          },
+          {
+            "en": "This needs saying plainly. The deaf and the dumb of this verse are people whose ears and tongues worked. What it describes is a refusal to hear the truth and a refusal to speak it, and the Muyassar puts it exactly so: ears closed against hearing the truth, tongues mute from uttering it. Nothing here is said against anyone born without hearing or speech, or who lost them. A person who cannot hear a sound and takes the truth to heart is outside the verse; a person with perfect hearing who refuses it is the person it describes.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ আয়াতের বধির ও বোবা লোকদের কান ঠিকই কাজ করত, জিহ্বাও ঠিকই চলত। আয়াত যা বর্ণনা করে তা হলো সত্য শুনতে অস্বীকার করা আর সত্য বলতে অস্বীকার করা। মুয়াসসার ঠিক এভাবেই বলে: সত্য শোনার পথে তাদের কান বন্ধ, সত্য উচ্চারণের বেলায় তাদের জিহ্বা বোবা। যে মানুষ জন্ম থেকেই শুনতে বা বলতে পারে না, কিংবা পরে সে ক্ষমতা হারিয়েছে, তার বিরুদ্ধে এখানে কোনো কথা নেই। যে কোনো শব্দই শুনতে পায় না, অথচ সত্যকে অন্তরে গ্রহণ করে, সে এ আয়াতের বাইরে। আর যার শ্রবণশক্তি নিখুঁত, অথচ সত্য প্রত্যাখ্যান করে, আয়াতের বর্ণনা তারই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the same line from the other side. Even someone who is deaf and dumb, it says, can make himself understood through simple gestures in a two-way exchange, if he has the least share of reason. The people of this verse are not only deaf and dumb; they are short of reason as well, so every line of communication stays blocked and there is no way for them to understand or be made to understand. On this reading, the barrier is the want of reason, not the want of hearing.",
+            "bn": "মাআরিফুল কুরআন একই সীমারেখা টানে অন্য দিক থেকে। সেখানে বলা হয়েছে, যে মানুষ বধির ও বোবা, তার মধ্যে যদি সামান্য বুদ্ধিও থাকে, সহজ ইশারা দিয়েই সে আদানপ্রদানে নিজের কথা বুঝিয়ে দিতে পারে। এ আয়াতের লোকেরা শুধু বধির ও বোবা নয়, তাদের বুদ্ধিরও ঘাটতি। ফলে যোগাযোগের সব পথ বন্ধ থাকে। তারা নিজেরা বোঝে না, তাদের বোঝানোরও কোনো উপায় থাকে না। এ পাঠ অনুযায়ী আসল বাধা শ্রবণশক্তির অভাব নয়, বুদ্ধি খাটানোর অভাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dumb to Speak, or to Grasp",
+          "bn": "বলায় বোবা, নাকি বোঝায়"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators read the pair as hearing and speaking. As-Sa'di has them deaf to listening to the truth and dumb from uttering it; al-Baghawi, that they neither hear it nor say it. At-Tabari's gloss on al-bukm adds a turn: they draw back from the truth even if they utter it. Ibn Kathir reads the second word differently. They are deaf to hearing the truth and dumb to understanding it, he says, and that is why the verse goes on, who do not reason.",
+            "bn": "বেশির ভাগ তাফসীরকার শব্দজোড়াকে পড়েন শোনা আর বলার অর্থে। সা'দীর মতে তারা সত্য শোনার বেলায় বধির, সত্য উচ্চারণের বেলায় বোবা। বাগাভী বলেন, তারা সত্য শোনেও না, বলেও না। আল-বুকম শব্দের ব্যাখ্যায় তাবারী আরেকটু যোগ করেন: মুখে উচ্চারণ করলেও তারা সত্য থেকে পিছিয়ে যায়। ইবন কাসীর দ্বিতীয় শব্দটিকে পড়েন ভিন্নভাবে। তাঁর মতে তারা সত্য শোনায় বধির, আর সত্য বোঝায় বোবা। এ কারণেই আয়াত এরপর বলে, যারা বুদ্ধি খাটায় না।"
+          },
+          {
+            "en": "The closing clause, alladhina la ya'qilun, is glossed in three ways. At-Tabari: they do not understand from Allah His command and His prohibition, so as to put their bodies to work by them. As-Sa'di: they do not understand what benefits them and prefer it to what harms them. Mujahid, in at-Tabari's chain, says only: those who do not follow the truth. The three readings converge. Reason is measured by what it leads a person to do. Ibn Kathir says as much: such people may have some kind of reason, but neither sound understanding nor a good aim.",
+            "bn": "শেষ অংশ, আল্লাযীনা লা ইয়া'কিলূন, তিনভাবে ব্যাখ্যা করা হয়েছে। তাবারী বলেন, আল্লাহর আদেশ ও নিষেধ তারা বোঝে না, যাতে সে অনুযায়ী নিজেদের শরীরকে কাজে লাগাতে পারত। সা'দী বলেন, কিসে তাদের লাভ তা তারা বোঝে না, আর ক্ষতিকর জিনিসের ওপর লাভজনক জিনিসকে প্রাধান্য দেয় না। তাবারীর সনদে মুজাহিদ শুধু বলেন: যারা সত্যের অনুসরণ করে না। তিনটি ব্যাখ্যা এক জায়গায় গিয়ে মেলে। বুদ্ধির মাপ হয় মানুষ তা দিয়ে কী করে তা দেখে। ইবন কাসীরও তা-ই বলেন: এদের হয়তো একরকম বুদ্ধি আছে, কিন্তু সঠিক বোঝাও নেই, ভালো উদ্দেশ্যও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Below the Cattle, and Why",
+          "bn": "গবাদি পশুরও নিচে কেন"
+        },
+        "p": [
+          {
+            "en": "Why should a person rank beneath an animal? Ibn Kathir's answer is short: every creature other than these obeys Allah in what He created it for, while these were created for worship and disbelieved. That is why, he says, Allah likened them to cattle in 2:171, him who shouts at what hears nothing but a call and a cry, deaf, dumb and blind, so they do not reason; and in 7:179: they are like cattle, rather they are more astray.",
+            "bn": "মানুষ কেন পশুরও নিচে নামবে? ইবন কাসীরের উত্তর সংক্ষিপ্ত। এরা ছাড়া বাকি প্রতিটি প্রাণী আল্লাহর আনুগত্য করে সেই কাজে, যার জন্য তিনি তাকে সৃষ্টি করেছেন। আর এদের সৃষ্টি করা হয়েছিল ইবাদতের জন্য, অথচ এরা কুফরি করেছে। তাঁর মতে এ কারণেই আল্লাহ এদের গবাদি পশুর সঙ্গে তুলনা করেছেন। ২:১৭১ আয়াতে আছে সেই লোকের উপমা, যে এমন কিছুকে ডাকে যা হাঁকডাক ছাড়া কিছুই শোনে না: বধির, বোবা, অন্ধ, তাই তারা বোঝে না। আর ৭:১৭৯ আয়াতে: তারা গবাদি পশুর মতো, বরং তার চেয়েও বেশি পথভ্রষ্ট।"
+          },
+          {
+            "en": "Al-Baghawi gives the reason in the word itself: He called them dawabb because of how little they benefit from their minds, and he too cites 7:179. As-Sa'di sets the loss against what was given. Allah gave them hearing, sight and hearts to use in His obedience, and they used them in disobeying Him, and so lost a great deal of good. They were placed to become among the best of creatures, he says. They refused that road and chose for themselves to be among the worst.",
+            "bn": "বাগাভী কারণটা খুঁজে পান শব্দের ভেতরেই। নিজেদের বুদ্ধি থেকে তারা এত কম উপকার নেয় বলেই আল্লাহ তাদের দাওয়াব্ব বলেছেন। তিনিও ৭:১৭৯ আয়াত উদ্ধৃত করেন। সা'দী ক্ষতির হিসাব মেলান যা দেওয়া হয়েছিল তার সঙ্গে। আল্লাহ তাদের কান, চোখ আর অন্তর দিয়েছিলেন তাঁর আনুগত্যে কাজে লাগানোর জন্য। তারা সেগুলো লাগিয়েছে তাঁর নাফরমানিতে, আর এভাবে বিপুল কল্যাণ হারিয়েছে। সা'দীর ভাষায়, তারা সৃষ্টির সেরাদের দলে যাওয়ার পথেই ছিল। সে পথ তারা প্রত্যাখ্যান করেছে, আর নিজেরাই বেছে নিয়েছে নিকৃষ্টদের দল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an measures the fall by the height on offer. Human beings were made the most honoured of creation, and these blessings depend on listening to the truth and obeying it. It cites Tafsir Ruh al-Bayan: by original creation a human being stands above the animals and below the angels; striving in obedience raises him above the angels too, and turning from it brings him lower than the animals. The verse ranks what was done with the faculties, not the faculties themselves.",
+            "bn": "মাআরিফুল কুরআন পতন মাপে যে উচ্চতা দেওয়া হয়েছিল তা দিয়ে। মানুষকে করা হয়েছে সৃষ্টির মধ্যে সবচেয়ে সম্মানিত, আর এসব নিয়ামত নির্ভর করে সত্য শোনা ও তা মেনে চলার ওপর। সেখানে তাফসীরে রূহুল বায়ান থেকে উদ্ধৃতি আছে। মূল সৃষ্টিতে মানুষ পশুর ওপরে, ফেরেশতার নিচে। আল্লাহর আনুগত্যে চেষ্টা করলে সে ফেরেশতাদেরও ছাড়িয়ে যায়, আর আনুগত্য থেকে মুখ ফেরালে নেমে যায় পশুরও নিচে। আয়াত তাই ক্ষমতাগুলোর বিচার করে না, বিচার করে সেগুলো দিয়ে কী করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Clan of Quraysh, or Hypocrites",
+          "bn": "কুরাইশের এক গোত্র, নাকি মুনাফিক"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records in his Sahih (4646): Narrated Ibn 'Abbas: Regarding the Verse: \"Verily! The worst of beasts in the Sight of Allah are the deaf and the dumb, those who understand not.\" (8.22) (The people referred to here) were some persons from the tribe of Bani 'Abd-Addar. It is Ibn 'Abbas (RA) explaining whom the verse means, not a saying of the Prophet ﷺ, and none of the tafsirs read for this verse attaches a hadith of the Prophet ﷺ to it.",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (৪৬৪৬) বর্ণনা করেন: ইবন আব্বাস (রাঃ) আয়াতটি সম্পর্কে, ‘আল্লাহর কাছে নিকৃষ্টতম প্রাণী তারা, যারা বধির, বোবা, যারা বোঝে না’ (৮.২২), বলেন: এরা বনু আবদিদ দার গোত্রের কিছু লোক। এখানে ইবন আব্বাস (রাঃ) নিজে ব্যাখ্যা করছেন আয়াত কাদের কথা বলছে। এটি নবী ﷺ-এর বাণী নয়। আর এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই নবী ﷺ-এর কোনো হাদীস এর সঙ্গে যুক্ত করেনি।"
+          },
+          {
+            "en": "At-Tabari says the scholars differed over whom the verse means. Some said a group of the idolaters: he gives it from Mujahid, from Ibn 'Abbas, a group of Banu 'Abd ad-Dar who do not follow the truth. Others said the hypocrites, and he gives that from Ibn Ishaq. His own judgement is that the sounder view is Ibn 'Abbas's: the verse means the idolaters of Quraysh, because it sits in the course of the account about them. Ibn Kathir names both views and declines to choose, saying there is no contradiction between them.",
+            "bn": "তাবারী বলেন, আয়াত কাদের উদ্দেশ করেছে তা নিয়ে আলেমদের মধ্যে মতভেদ আছে। কেউ বলেছেন মুশরিকদের একটি দল। তিনি তা আনেন মুজাহিদের সূত্রে ইবন আব্বাস থেকে: বনু আবদিদ দারের কিছু লোক, যারা সত্যের অনুসরণ করে না। অন্যরা বলেছেন মুনাফিকরা, আর তা তিনি আনেন ইবন ইসহাক থেকে। তাবারীর নিজের রায়, ইবন আব্বাসের মতটিই অধিক সঠিক। আয়াতের উদ্দেশ্য কুরাইশের মুশরিকরা, কারণ আয়াতটি তাদের সম্পর্কে চলমান বর্ণনার ধারাতেই এসেছে। ইবন কাসীর দুটি মতই উল্লেখ করেন, কিন্তু কোনোটিকে বেছে নেন না। তাঁর মতে দুইয়ের মধ্যে কোনো বিরোধ নেই।"
+          },
+          {
+            "en": "Ibn Kathir's reason is that idolater and hypocrite alike are stripped of sound understanding and of the aim to do righteous work. Two further reports fill in the clan. At-Tabari carries from 'Ikrimah, through Ibn Jurayj, that they used to say: we are deaf and dumb to what Muhammad calls to, we do not hear it from him nor answer him with belief; and that they were all killed at Uhud, being the bearers of the banner. Al-Baghawi gives a similar account in Ibn 'Abbas's name without a chain, and neither report is graded in the sources read.",
+            "bn": "ইবন কাসীরের যুক্তি হলো, মুশরিক আর মুনাফিক দুজনেই সঠিক বোঝা থেকে বঞ্চিত, নেক আমলের ইচ্ছা থেকেও বঞ্চিত। গোত্রটির কথা আরও দুটি বর্ণনায় পাওয়া যায়। তাবারী ইবন জুরাইজের সূত্রে ইকরিমা থেকে আনেন, তারা বলত: মুহাম্মাদ যেদিকে ডাকে, সে ব্যাপারে আমরা বধির ও বোবা। আমরা তার কাছ থেকে তা শুনি না, বিশ্বাস করে তার ডাকে সাড়াও দিই না। আর তারা সবাই উহুদে নিহত হয়, কারণ তারাই ছিল পতাকাবাহী। বাগাভী প্রায় একই বর্ণনা আনেন ইবন আব্বাসের নামে, কোনো সনদ ছাড়া। যে উৎসগুলো পড়া হয়েছে, তার কোথাও এ দুটি বর্ণনার মান নির্ণয় করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard Enough to Answer For",
+          "bn": "জবাবদিহির জন্য যথেষ্ট শোনা"
+        },
+        "p": [
+          {
+            "en": "Calling them deaf does not excuse them, and as-Sa'di closes that door. The hearing Allah denies them, he says, is the hearing of meaning that works upon the heart. As for hearing the proof, Allah's proof was established against them by what they heard of His verses. They heard enough to be answerable; what they lacked was the hearing that changes a person. 67:10 gives the same two faculties in the mouths of the people of the Fire: had we been listening or reasoning, we would not be among the companions of the Blaze.",
+            "bn": "বধির বললেই তাদের অজুহাত তৈরি হয় না, আর সা'দী সে পথ বন্ধ করে দেন। তাঁর মতে আল্লাহ তাদের যে শোনা অস্বীকার করেছেন, তা হলো এমন অর্থ শোনা যা অন্তরে প্রভাব ফেলে। আর প্রমাণ শোনার কথা যদি বলা হয়, আল্লাহর আয়াত থেকে তারা যা শুনেছে, তাতেই তাদের বিরুদ্ধে আল্লাহর প্রমাণ প্রতিষ্ঠিত হয়ে গেছে। জবাবদিহির জন্য যতটুকু শোনা দরকার, তারা শুনেছিল। তাদের ছিল না সেই শোনা, যা মানুষকে বদলে দেয়। ৬৭:১০ আয়াতে জাহান্নামীদের মুখে এই দুই ক্ষমতারই উল্লেখ: আমরা যদি শুনতাম বা বুদ্ধি খাটাতাম, তাহলে জ্বলন্ত আগুনের বাসিন্দাদের দলে থাকতাম না।"
+          },
+          {
+            "en": "8:23 gives the cause. As-Sa'di says Allah did not let them hear with a beneficial hearing because He knew no good in them that would make them fit to hear His verses. Ibn Kathir has it that, had Allah known any good in them, He would have helped them understand; and had He let them hear and understand, they would still have turned away, deliberately and out of stubbornness, even after they had comprehended. The call that follows in 8:24 turns back to the believers.",
+            "bn": "৮:২৩ আয়াত এর কারণ বলে দেয়। সা'দী বলেন, আল্লাহ তাদের উপকারী শোনা শুনতে দেননি, কারণ তিনি জানতেন, তাদের মধ্যে এমন কোনো কল্যাণ নেই যা তাদের তাঁর আয়াত শোনার উপযুক্ত করে তোলে। ইবন কাসীরের ব্যাখ্যা, আল্লাহ যদি জানতেন যে তাদের মধ্যে কোনো ভালো আছে, তাহলে তাদের বোঝার তাওফীক দিতেন। আর শুনতে ও বুঝতে দিলেও তারা মুখ ফিরিয়ে নিত, জেনেবুঝে, জেদের বশে, বোঝার পরেও। এরপর ৮:২৪ আয়াতের ডাক আবার ফিরে যায় মুমিনদের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ranking Stays With Allah",
+          "bn": "মূল্যায়নের অধিকার কেবল আল্লাহর"
+        },
+        "p": [
+          {
+            "en": "The verse describes those it describes: on at-Tabari's reading, a group of the idolaters of Quraysh in the Prophet's ﷺ own time; on Ibn Ishaq's, the hypocrites of that time. It licenses nothing against any living person or community. No one may point at a clan, a people or a neighbour and call them the worst of creatures; the ranking is 'inda Allah, in His sight, and it is His. Even in the clan the reports name, al-Baghawi's account says two men accepted Islam: Mus'ab ibn 'Umayr and Suwaybit ibn Harmala.",
+            "bn": "আয়াতটি যাদের বর্ণনা দেয়, শুধু তাদেরই। তাবারীর পাঠে তারা নবী ﷺ-এর নিজের সময়ের কুরাইশ মুশরিকদের একটি দল, ইবন ইসহাকের পাঠে সে সময়ের মুনাফিকরা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো গোত্র, কোনো জাতি, কিংবা কোনো প্রতিবেশীর দিকে আঙুল তুলে কেউ তাদের নিকৃষ্টতম সৃষ্টি বলতে পারে না। এই মূল্যায়ন ইনদাল্লাহ, আল্লাহর কাছে, আর তা কেবল তাঁরই। বর্ণনাগুলো যে গোত্রের নাম নেয়, বাগাভীর বর্ণনা অনুযায়ী তার মধ্য থেকেও দুজন ইসলাম গ্রহণ করেছিলেন: মুসআব ইবন উমাইর আর সুওয়াইবিত ইবন হারমালা।"
+          },
+          {
+            "en": "The passage itself points the warning inward. It was spoken to believers, in 8:20 and 8:21, as a picture of what not to become. On Ibn Zayd's reading, deafness of the heart is a condition and not a fixed class of people, and a hearer can drift into it one ignored reminder at a time. At-Tabari's gloss supplies the test: whether what is heard of Allah's command and His prohibition reaches the body and is put to work, or stays a sound that passed through the ear.",
+            "bn": "এ অংশটি নিজেই সতর্কবাণীর মুখ ভেতরের দিকে ফিরিয়ে দেয়। ৮:২০ ও ৮:২১ আয়াতে কথাগুলো বলা হয়েছিল মুমিনদের, কী হওয়া চলবে না তার ছবি হিসেবে। ইবন যায়দের ব্যাখ্যায় অন্তরের বধিরতা একটা অবস্থা, নির্দিষ্ট কোনো শ্রেণির মানুষ নয়। যে শোনে, সে-ও একটার পর একটা উপদেশ এড়িয়ে যেতে যেতে ধীরে ধীরে সেদিকে সরে যেতে পারে। পরীক্ষাটা দেয় তাবারীর ব্যাখ্যা। আল্লাহর আদেশ ও নিষেধ যা শোনা হলো, তা কি শরীর পর্যন্ত পৌঁছে কাজে রূপ নিল, নাকি কান ছুঁয়ে চলে যাওয়া শব্দ হয়েই রইল?"
+          },
+          {
+            "en": "Three small checks follow from the verse's three words. For the ear: hear a reminder, or a criticism, through to its end before answering it. For the tongue: when a truth is known, say it where it is needed, even in company that will not welcome it. For the mind: ask, as as-Sa'di frames it, what benefits and what harms, and prefer the first. And a reader who turns these words on others, to mock the deaf or to brand an enemy, has missed the verse twice.",
+            "bn": "আয়াতের তিনটি শব্দ থেকে তিনটি ছোট পরীক্ষা বেরিয়ে আসে। কানের জন্য: উপদেশ হোক বা সমালোচনা, জবাব দেওয়ার আগে শেষ পর্যন্ত শুনুন। জিহ্বার জন্য: কোনো সত্য জানা থাকলে যেখানে দরকার সেখানে তা বলুন, শ্রোতারা পছন্দ না করলেও। বুদ্ধির জন্য: সা'দী যেভাবে বলেন, ভাবুন কিসে লাভ আর কিসে ক্ষতি, আর লাভেরটাকে আগে রাখুন। আর যে পাঠক এ শব্দগুলো অন্যের দিকে ছুঁড়ে দেয়, বধিরকে ঠাট্টা করতে বা শত্রুর গায়ে তকমা লাগাতে, সে আয়াতটিকে দুবার হারিয়ে ফেলল।"
+          }
+        ]
+      }
+    ]
+  },
   "8:24": {
     "sections": [
       {

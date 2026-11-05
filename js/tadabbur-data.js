@@ -20951,6 +20951,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When anger or temptation touches you, remember Allah, His promise and His warning, and you will see the fault clearly enough to step back from it.",
     "lessonBn": "রাগ বা প্রলোভন যখন ছুঁয়ে যায়, আল্লাহকে, তাঁর ওয়াদা আর সতর্কবাণীকে মনে করুন। তখন ভুলটা এত স্পষ্ট দেখবেন যে তা থেকে সরে আসতে পারবেন।"
+  },
+  "8:22": {
+    "reflectionEn": "The verse before warns against those who say, we have heard, while they do not hear. Then comes the sharpest ranking in the passage: the worst of all that walks the earth, in Allah's sight, are the deaf and the dumb who do not reason. Their ears and tongues worked perfectly well. What was shut was the heart, which heard the truth and would neither take it in nor say it back. Every creature that walks does what it was made for. A person can be the one creature that refuses. So the question for me is not whether I hear the Qur'an, but whether anything in me moves when I do, and whether my tongue will say what my heart has understood.",
+    "reflectionBn": "ঠিক আগের আয়াতে সতর্ক করা হয়েছে তাদের ব্যাপারে, যারা বলে আমরা শুনলাম, অথচ শোনে না। তারপর আসে এ অংশের সবচেয়ে কঠিন তুলনা: আল্লাহর কাছে পৃথিবীতে চলাফেরা করা সব প্রাণীর মধ্যে নিকৃষ্টতম তারা, যারা বধির, বোবা, যারা বুদ্ধি খাটায় না। তাদের কান ঠিকই শুনত, জিহ্বাও ঠিকই চলত। বন্ধ ছিল অন্তর। সত্য কানে এসেছে, কিন্তু অন্তর তা গ্রহণ করেনি, মুখও তা উচ্চারণ করেনি। যত প্রাণী হেঁটে বেড়ায়, সবাই সেই কাজই করে যার জন্য তাকে বানানো হয়েছে। মানুষই পারে একমাত্র অস্বীকারকারী প্রাণী হতে। তাই আমার প্রশ্ন এটা নয় যে আমি কুরআন শুনি কি না। প্রশ্ন হলো, শোনার সময় আমার ভেতরে কিছু নড়ে কি না, আর অন্তর যা বুঝেছে, মুখ তা বলতে রাজি কি না।",
+    "pointsEn": [
+      "The last time I heard a verse or a sound reminder, did anything change in what I did afterwards, or did I only nod?",
+      "Is there a truth I know well but would not say aloud in the company I usually keep?",
+      "Which of my faculties, my hearing, my sight, my thinking, do I spend mostly on what does me no good?",
+      "Do I ever use words like deaf or blind as an insult for a person, when the Qur'an uses them here for a heart that refuses?",
+      "What would it take for me to hear out advice I dislike, all the way to the end, before I answer it?"
+    ],
+    "pointsBn": [
+      "শেষবার কোনো আয়াত বা ভালো উপদেশ শোনার পর আমার কাজে কি কিছু বদলেছিল, নাকি শুধু মাথা নেড়ে সায় দিয়েছিলাম?",
+      "এমন কোনো সত্য কি আছে যা আমি ভালো করেই জানি, অথচ যাদের সঙ্গে সাধারণত ওঠাবসা করি তাদের সামনে মুখে আনব না?",
+      "আমার শোনা, দেখা, ভাবা, এই ক্ষমতাগুলোর কোনটা আমি বেশির ভাগ সময় এমন কাজে খরচ করি যাতে আমার কোনো লাভ নেই?",
+      "কুরআন এখানে বধির বা অন্ধ শব্দ ব্যবহার করেছে অস্বীকারকারী অন্তরের জন্য। আমি কি কখনো এ শব্দগুলো কোনো মানুষকে খোঁটা দিতে ব্যবহার করি?",
+      "অপছন্দের উপদেশও জবাব দেওয়ার আগে শেষ পর্যন্ত শুনে নিতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Hearing is not yet listening: let the truth you hear reach your heart and your tongue, and use the faculties you were given for what they were made for.",
+    "lessonBn": "কানে শোনা মানেই শোনা নয়। যে সত্য শুনলেন, তা অন্তর পর্যন্ত আর মুখ পর্যন্ত পৌঁছাতে দিন, আর যে ক্ষমতাগুলো পেয়েছেন, সেগুলো কাজে লাগান যে কাজের জন্য সেগুলো দেওয়া হয়েছে।"
   }
 };
 
