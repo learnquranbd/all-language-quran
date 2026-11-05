@@ -20811,6 +20811,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Losing to the truth does not make you small; turning away from it does. When you are shown wrong, bow to what is right instead of walking off with your pride.",
     "lessonBn": "সত্যের কাছে হারলে মানুষ ছোট হয় না, ছোট হয় সত্য থেকে মুখ ফিরিয়ে নিলে। ভুল ধরা পড়লে অহংকার নিয়ে সরে যাবেন না, যা সঠিক তার সামনে মাথা নত করুন।"
+  },
+  "7:152": {
+    "reflectionEn": "Musa (AS) has come home to the calf and prayed for himself and his brother. Then the verdict falls on those who took it as a god: anger from their Lord, and humiliation in this life. The verse does not end with them. It closes on a rule: thus do We repay those who fabricate. The calf was a lie told about God, a thing of melted ornaments given a name that belongs to Him alone. Lies of that kind are not always cast in metal. I can tell myself what He wants without asking what He said. And the next verse leaves the door open for whoever turns back. Have I said about Allah what He never said? If I have, am I still standing outside that door?",
+    "reflectionBn": "মূসা (আঃ) ফিরে এসে বাছুরটা দেখেছেন, তারপর নিজের ও ভাইয়ের জন্য দু‘আ করেছেন। এরপর রায় আসে তাদের উপর, যারা বাছুরটাকে ইলাহ বানিয়েছিল: রবের পক্ষ থেকে গযব, আর দুনিয়ার জীবনে লাঞ্ছনা। কিন্তু আয়াত তাদের কথায় থেমে থাকে না। শেষ হয় একটা নিয়ম দিয়ে: মিথ্যা রচনাকারীদের আমরা এভাবেই প্রতিফল দিই। বাছুরটা ছিল আল্লাহর নামে বানানো এক মিথ্যা। গলানো গয়নার একটা জিনিস, যাকে দেওয়া হলো এমন নাম যা কেবল তাঁরই। এমন মিথ্যা সবসময় ধাতু দিয়ে ঢালাই হয় না। তিনি কী বলেছেন তা না খুঁজেই আমি নিজেকে বুঝিয়ে ফেলতে পারি যে তিনি এটাই চান। আর ঠিক পরের আয়াতটি ফিরে আসা মানুষের জন্য দরজা খোলা রাখে। আল্লাহ যা বলেননি, তা কি আমি তাঁর নামে বলেছি? যদি বলে থাকি, আমি কি এখনো সেই দরজার বাইরে দাঁড়িয়ে আছি?",
+    "pointsEn": [
+      "Is there anything I say is from the religion that I have never actually checked against what Allah and His Messenger ﷺ said?",
+      "What in my life has quietly taken a place that belongs to Allah alone, even if I would never call it a god?",
+      "The verse names humiliation in this life. Where have I seen a lie I told cost me more than it ever gave me?",
+      "When I read a warning about a people of the past, do I look for myself in it first, or for someone else?",
+      "What would turning back look like for me this week, in the words of the next verse: repent after the deed, and believe?"
+    ],
+    "pointsBn": [
+      "দীনের কথা বলে আমি এমন কিছু কি বলি, যা আল্লাহ ও তাঁর রাসূল ﷺ আসলে কী বলেছেন তার সঙ্গে কখনো মিলিয়ে দেখিনি?",
+      "আমার জীবনে কোন জিনিস চুপচাপ এমন জায়গা দখল করেছে যা কেবল আল্লাহর, যদিও তাকে আমি কখনো ইলাহ বলব না?",
+      "আয়াতটি দুনিয়ার জীবনে লাঞ্ছনার কথা বলে। নিজের বলা কোন মিথ্যা আমাকে যা দিয়েছে তার চেয়ে বেশি কেড়ে নিয়েছে?",
+      "অতীতের কোনো জাতির উপর সতর্কবাণী পড়লে আমি আগে নিজেকে খুঁজি, নাকি অন্য কাউকে?",
+      "পরের আয়াতের ভাষায়, গুনাহর পর তওবা করা আর ঈমান আনা, এ সপ্তাহে আমার ফিরে আসাটা দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Never give Allah's place to anything or put words in His mouth; humiliation follows that lie, and the repentance promised in the next verse is still open.",
+    "lessonBn": "আল্লাহর জায়গা কাউকে দেবেন না, তিনি যা বলেননি তা তাঁর নামে বলবেন না। এমন মিথ্যার পেছনে আসে লাঞ্ছনা, আর পরের আয়াতের প্রতিশ্রুত তওবার দরজা এখনো খোলা।"
   }
 };
 

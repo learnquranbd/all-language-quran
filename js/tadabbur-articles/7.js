@@ -5523,6 +5523,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:152": {
+    "sections": [
+      {
+        "h": {
+          "en": "Fifteen Words After a Prayer",
+          "bn": "দু‘আর পরে পনেরো শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse arrives straight after a prayer. In 7:148 the people of Musa (AS) took a calf from their ornaments, a body that lowed; in 7:149 they saw they had gone astray and asked for mercy; in 7:150 he came back angry and grieved; and in 7:151 he asked forgiveness for himself and his brother. Then, in fifteen Arabic words, the passage turns from the two brothers to the people who took the calf. This reading leaves the making of the calf aside and stays with the sentence passed on them.",
+            "bn": "আয়াতটি আসে একটা দু‘আর ঠিক পরে। ৭:১৪৮ আয়াতে মূসা (আঃ)-এর জাতি নিজেদের গয়না দিয়ে একটা বাছুর বানাল, এমন এক দেহ যা হাম্বা রব করত। ৭:১৪৯ আয়াতে তারা বুঝল যে পথ হারিয়েছে, আর রহমত চাইল। ৭:১৫০ আয়াতে তিনি ফিরলেন ক্রোধ আর দুঃখ নিয়ে। ৭:১৫১ আয়াতে নিজের ও ভাইয়ের জন্য মাগফিরাত চাইলেন। এরপর আরবিতে মাত্র পনেরোটি শব্দে আলোচনা দুই ভাই থেকে সরে যায় তাদের দিকে, যারা বাছুরটাকে গ্রহণ করেছিল। বাছুর বানানোর গল্প এখানে থাক, এই পাঠ থাকবে তাদের উপর ঘোষিত রায় নিয়ে।"
+          },
+          {
+            "en": "It moves in three steps. Inna alladhina ittakhadhu al-'ijl: those who took the calf. Sa-yanaluhum ghadabun min rabbihim wa dhillatun fi al-hayat al-dunya: anger from their Lord will reach them, and humiliation in the life of this world. Wa kadhalika najzi al-muftarin: and thus do We repay those who fabricate. The first step names a deed, the second passes a sentence, and the third turns the sentence into a rule. Then 7:153 follows at once, with those who did evil deeds, repented after them and believed, and a Lord who after that is Forgiving, Merciful.",
+            "bn": "আয়াতটি এগোয় তিনটি ধাপে। ইন্নাল্লাযীনাত তাখাযুল ‘ইজল: যারা বাছুরকে গ্রহণ করেছে। সাইয়ানালুহুম গাদাবুম মির রাব্বিহিম ওয়া যিল্লাতুন ফিল হায়াতিদ দুনইয়া: তাদের রবের পক্ষ থেকে গযব তাদের পেয়ে বসবে, আর দুনিয়ার জীবনে লাঞ্ছনা। ওয়া কাযালিকা নাজযিল মুফতারীন: আর মিথ্যা রচনাকারীদের আমরা এভাবেই প্রতিফল দিই। প্রথম ধাপে একটা কাজের নাম, দ্বিতীয় ধাপে শাস্তির ঘোষণা, আর তৃতীয় ধাপে সেই শাস্তি হয়ে ওঠে এক সাধারণ নিয়ম। তারপরই আসে ৭:১৫৩ আয়াত: যারা মন্দ কাজ করে, তারপর তওবা করে ও ঈমান আনে, তাদের রব এরপর অবশ্যই ক্ষমাশীল, পরম দয়ালু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anger Now, or Later",
+          "bn": "গযব এখন, নাকি পরে"
+        },
+        "p": [
+          {
+            "en": "The verb ittakhadha normally names two things: what was taken, and what it was taken as. The verse names only the first. At-Tabari, al-Baghawi, as-Sa'di and the Muyassar all supply the missing word the same way: ilahan, as a god. The charge is not that they shaped a figure but that they gave it worship. Al-Qurtubi defines the anger plainly: al-ghadab min Allah al-'uquba, anger from Allah is punishment. The Muyassar calls it a severe anger and gives its cause in a phrase: because of their disbelief in their Lord.",
+            "bn": "ইত্তাখাযা ক্রিয়ার সঙ্গে সাধারণত দুটি জিনিসের উল্লেখ থাকে: কী গ্রহণ করা হলো, আর কী হিসেবে। আয়াতে আছে শুধু প্রথমটি। তাবারী, বাগাভী, সা’দী আর মুয়াসসার, চারজনই বাকি শব্দটা বসান একইভাবে: ইলাহান, অর্থাৎ ইলাহ হিসেবে। অভিযোগটা তাই একটা মূর্তি গড়া নিয়ে নয়, তাকে ইবাদত দেওয়া নিয়ে। কুরতুবী গযবের সংজ্ঞা দেন সোজা কথায়: আল্লাহর গযব মানে তাঁর শাস্তি। মুয়াসসার একে বলে কঠিন গযব, আর কারণটাও বলে দেয় এক কথায়: রবের সঙ্গে তাদের কুফরি।"
+          },
+          {
+            "en": "When does the anger land? At-Tabari reads sa-yanaluhum as Allah hastening it to them, and glosses fi al-hayat al-dunya as the near-at-hand of this world, before the deferred of the Hereafter. Dhilla, for him, is hawan, abasement, as Allah's punishment for their disbelief. Al-Baghawi divides the verse differently: the anger is in the Hereafter, and the humiliation in this world. Ma'arif al-Qur'an reads it the same way, as a warning of their sad fate in the Hereafter and of a disgraced life here.",
+            "bn": "গযব নামবে কখন? তাবারী সাইয়ানালুহুম পড়েন এভাবে: আল্লাহ তা তাদের উপর তাড়াতাড়ি এনে দেবেন। ফিল হায়াতিদ দুনইয়ার ব্যাখ্যায় বলেন, আখেরাতের বিলম্বিত হিসাবের আগে দুনিয়ার নগদ হিসাবেই। তাঁর কাছে যিল্লাহ মানে হাওয়ান, অপমান, যা রবের সঙ্গে কুফরির জন্য আল্লাহর দেওয়া শাস্তি। বাগাভী আয়াতটাকে ভাগ করেন অন্যভাবে: গযব আখেরাতে, লাঞ্ছনা দুনিয়ায়। মাআরিফুল কুরআনও একই পথে চলে। তার মতে আয়াতটি সতর্ক করছে আখেরাতের করুণ পরিণতি আর দুনিয়ার অপমানের জীবন সম্পর্কে।"
+          },
+          {
+            "en": "As-Sa'di adds a note of measure. The anger and the humiliation reached them, he says, kama aghdabu rabbahum wa-stahanu bi-amrihi: just as they had angered their Lord and treated His command as something cheap. The word he uses for their contempt, istihana, shares its root with the hawan that at-Tabari uses for their abasement. Read side by side, the two commentators describe a sentence that answers the deed in its own kind: those who made light of Allah's command were themselves made light of.",
+            "bn": "সা’দী এখানে একটা মাপের কথা যোগ করেন। তাঁর ভাষায় গযব আর লাঞ্ছনা তাদের পেয়েছিল কামা আগদাবূ রাব্বাহুম ওয়াসতাহানূ বিআমরিহি: যেমন তারা রবকে রাগিয়েছিল আর তাঁর আদেশকে তুচ্ছ জ্ঞান করেছিল। তুচ্ছ করার জন্য তিনি যে শব্দ নেন, ইসতিহানা, তার মূল আর তাবারীর হাওয়ান শব্দের মূল একই। দুই তাফসীর পাশাপাশি রাখলে শাস্তিটাকে দেখা যায় কাজেরই জবাব হিসেবে। যারা আল্লাহর আদেশকে হালকা করে দেখেছিল, তাদেরকেই হালকা করে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All of Them, or Some",
+          "bn": "সবাই, নাকি কেউ কেউ"
+        },
+        "p": [
+          {
+            "en": "Who exactly falls under the sentence? At-Tabari reports Ibn Jurayj narrowing it: hadha li-man mata mimman ittakhadha al-'ijl qabla an yarji'a Musa, this is for those of the calf-takers who died before Musa (AS) returned, and for those of them who fled when he ordered them to kill one another. On that reading the verse speaks only of the ones who never repented, and the rest stand outside it.",
+            "bn": "রায়টা ঠিক কাদের উপর? তাবারী ইবন জুরাইজের একটা মত আনেন, যিনি পরিধিটা ছোট করে আনেন। তাঁর কথায়, এ হলো বাছুর-গ্রহণকারীদের মধ্যে যারা মূসা (আঃ) ফেরার আগেই মারা গিয়েছিল তাদের জন্য। আর তাদের জন্য, যারা পালিয়ে গিয়েছিল যখন তিনি একে অপরকে হত্যার আদেশ দিলেন। এ পাঠ অনুযায়ী আয়াতটি কেবল তওবা না করা লোকদের কথা বলে, বাকিরা এর বাইরে।"
+          },
+          {
+            "en": "At-Tabari grants that this is a reading with some face to it, and then sets it aside: the apparent sense of Allah's Book, with the interpretation of most commentators, runs against it. Allah made the statement general about whoever took the calf. Reports from the Companions and the Followers, he says, agree that when Musa (AS) returned, Allah accepted the calf-worshippers' repentance through the command recorded in 2:54: turn to your Creator and kill yourselves. They did as their prophet told them.",
+            "bn": "তাবারী মানেন, এ মতেরও একটা দিক আছে। তবু তিনি একে সরিয়ে রাখেন, কারণ আল্লাহর কিতাবের বাহ্যিক অর্থ আর অধিকাংশ তাফসীরকারের ব্যাখ্যা এর বিপক্ষে। আল্লাহ খবরটি দিয়েছেন সাধারণভাবে, যে-ই বাছুর গ্রহণ করেছে তার সম্পর্কে। তাঁর ভাষ্যে সাহাবী ও তাবেয়ীদের বর্ণনা এ ব্যাপারে একমত যে মূসা (আঃ) ফেরার পর আল্লাহ বাছুরপূজারীদের তওবা কবুল করেন ২:৫৪ আয়াতের সেই আদেশের মধ্য দিয়ে: তোমাদের স্রষ্টার দিকে ফিরে যাও, আর নিজেদের হত্যা কর। নবী যা বললেন, তারা তা-ই করল।"
+          },
+          {
+            "en": "So for at-Tabari the anger and the humiliation were not a separate fate for a few. The command to kill one another came from Allah's anger at their worship of the calf; the killing itself was the humiliation He brought on them in this world, and it was also their repentance, which He accepted. He adds a rule of reading: no one may confine a general statement of the Book to a particular group without proof from a report or from reason, and he knows of neither here.",
+            "bn": "তাই তাবারীর কাছে গযব আর লাঞ্ছনা গুটিকয়েক লোকের আলাদা কোনো পরিণতি নয়। একে অপরকে হত্যার আদেশ এসেছিল বাছুরপূজার কারণে আল্লাহর গযব থেকে। সেই হত্যাই ছিল দুনিয়ার জীবনে আল্লাহর দেওয়া লাঞ্ছনা, আবার সেটাই ছিল তাদের তওবা, যা তিনি কবুল করলেন। তিনি পড়ার একটা নিয়মও জুড়ে দেন। কিতাবের কোনো সাধারণ বক্তব্যকে বর্ণনা বা যুক্তির প্রমাণ ছাড়া কোনো বিশেষ দলের মধ্যে আটকে ফেলার অধিকার কারও নেই। আর এখানে তেমন কোনো প্রমাণ তাঁর জানা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Killing, Tribute, or Descendants",
+          "bn": "হত্যা, জিযিয়া, নাকি বংশধর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and as-Sa'di stand close to at-Tabari. Ibn Kathir says the anger was that Allah did not accept their repentance until some had killed others, as told in al-Baqara, and that a humiliation and smallness, dhull wa saghar, followed it in this life. As-Sa'di says the anger reached them when Allah commanded them to kill themselves and would be pleased with them by nothing less; the battle cleared to leave many dead, and then Allah turned to them. Al-Baghawi reports Abu al-'Aliya identifying the humiliation with that same command.",
+            "bn": "ইবন কাসীর আর সা’দী তাবারীর কাছাকাছি দাঁড়ান। ইবন কাসীর বলেন, গযব ছিল এই যে আল্লাহ তাদের তওবা কবুল করেননি যতক্ষণ না তারা একে অপরকে হত্যা করল, সূরা বাকারায় যেমনটা এসেছে। এরপর দুনিয়ার জীবনে তাদের পিছু নিল অপমান আর হীনতা, যুল্ল ও সাগার। সা’দীর ভাষায়, গযব তাদের পেয়েছিল যখন আল্লাহ তাদের নিজেদের হত্যার আদেশ দিলেন, আর এর কমে তাদের উপর সন্তুষ্ট হলেন না। লড়াই থামলে পড়ে রইল অনেক লাশ, তারপর আল্লাহ তাদের তওবা কবুল করলেন। বাগাভী আবুল আলিয়া থেকে আনেন যে লাঞ্ছনা বলতে সেই আদেশটাই বোঝায়।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the other readings, each under qila, it is said. The humiliation is the jizya, though he finds that far-fetched, because the jizya was never taken from them but from their descendants. The ones meant are a group in whose hearts the love of the calf had been made to sink, and who did not repent. They are those who died before Musa (AS) came back from the appointed meeting. Or the verse means their children, and what befell Qurayza and an-Nadir. He closes with wa-Allahu a'lam, and Allah knows best.",
+            "bn": "কুরতুবী বাকি মতগুলো একত্র করেন, প্রতিটির আগে ‘বলা হয়’ জুড়ে দিয়ে। এক মত: লাঞ্ছনা মানে জিযিয়া। তবে তাঁর কাছে এটা দূরের কথা, কারণ জিযিয়া তাদের কাছ থেকে নেওয়া হয়নি, নেওয়া হয়েছে তাদের বংশধরদের কাছ থেকে। আরেক মত: উদ্দেশ্য সেই দল, যাদের অন্তরে বাছুরের ভালোবাসা ঢেলে দেওয়া হয়েছিল আর যারা তওবা করেনি। আরেক মত: যারা মূসা (আঃ) নির্ধারিত সাক্ষাৎ থেকে ফেরার আগেই মারা গিয়েছিল। আরেক মত: তাদের সন্তানেরা, অর্থাৎ কুরাইযা ও নাদীরের উপর যা ঘটেছিল। শেষে তিনি বলেন, ওয়াল্লাহু আ‘লাম, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Al-Baghawi puts names to two of these. 'Atiyya al-'Awfi held that the verse means the Jews of the Prophet's ﷺ time, reproached for what their forefathers had done, so that the deed is ascribed to them; the humiliation is the killing and the exile that struck Qurayza and an-Nadir. Ibn 'Abbas, in al-Baghawi's report, says it is the jizya. Al-Qurtubi's objection stands against that last reading, and the disagreement is left open here. Ma'arif al-Qur'an takes yet another line: the warning is for those who worshipped the calf and persisted in it.",
+            "bn": "এর দুটি মতের সঙ্গে বাগাভী নাম জুড়ে দেন। আতিয়্যা আল-আওফীর মতে আয়াতের উদ্দেশ্য নবী ﷺ-এর যুগের ইহুদিরা। পূর্বপুরুষদের কাজের জন্য তাদের ভর্ৎসনা করা হচ্ছে, তাই কাজটা তাদের নামেই বলা হলো। আর লাঞ্ছনা মানে কুরাইযা ও নাদীরের উপর নেমে আসা হত্যা ও নির্বাসন। বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, এ হলো জিযিয়া। কুরতুবীর আপত্তি ঠিক এই শেষ মতের বিপরীতে দাঁড়ায়, আর এখানে মতভেদটা খোলাই রাখা হলো। মাআরিফুল কুরআন নেয় আরেক পথ: সতর্কবাণী তাদের জন্য, যারা বাছুরের পূজা করেছিল আর তাতে অটল থেকেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Life Without Touch",
+          "bn": "ছোঁয়াহীন এক জীবন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws a principle from the verse: part of the punishment of some sins is given in this life. Its example is the Samiri. Musa (AS) commanded him to live apart from the people, touching no one and touched by no one, the sentence the Qur'an records in 20:97 as la misas, no touching. So, Ma'arif says, he lived out the rest of his life deserted and secluded, walking about with animals, and no human being came near him.",
+            "bn": "মাআরিফুল কুরআন এ আয়াত থেকে একটা মূলনীতি বের করে: কিছু গুনাহর শাস্তির একাংশ দুনিয়াতেই দেওয়া হয়। উদাহরণ হিসেবে আনে সামিরীকে। মূসা (আঃ) তাকে আদেশ দিলেন মানুষ থেকে আলাদা থাকতে। সে কাউকে ছোঁবে না, কেউ তাকে ছোঁবে না। কুরআন ২০:৯৭ আয়াতে এ দণ্ড ধরে রেখেছে দুটি শব্দে: লা মিসাস, ছোঁয়া নিষেধ। মাআরিফের বর্ণনায় এরপর সে বাকি জীবন কাটায় নিঃসঙ্গ আর একা, পশুদের সঙ্গে ঘুরে বেড়িয়ে। কোনো মানুষ তার কাছে ঘেঁষত না।"
+          },
+          {
+            "en": "It adds, citing al-Qurtubi, a report from Qatada that whenever the Samiri touched someone or was touched, both were struck with fever. Al-Qurtubi's own comment on this verse carries a different scene, again under qila: Musa (AS) had the calf slaughtered so that blood ran from it, filed it down, cast it with the blood into the sea and told the people to drink of that water, and in whoever had worshipped it the trace showed at the edges of the mouth. Both are reports about that generation. Neither is a rule about anyone after it.",
+            "bn": "সঙ্গে কুরতুবীর বরাতে কাতাদার একটা বর্ণনাও আনে: সামিরী কাউকে ছুঁলে বা কেউ তাকে ছুঁলে দুজনেরই জ্বর এসে যেত। এ আয়াতে কুরতুবীর নিজের আলোচনায় আছে অন্য এক দৃশ্য, সেটাও ‘বলা হয়’ দিয়ে। মূসা (আঃ) বাছুরটা জবাই করালেন, তা থেকে রক্ত বের হলো। তারপর উখা দিয়ে ঘষে গুঁড়া করে রক্তসহ সাগরে ফেলে দিলেন, আর লোকদের সেই পানি পান করতে বললেন। যে বাছুরের পূজা করেছিল, তার ঠোঁটের কিনারায় দাগ ফুটে উঠল। দুটোই সেই প্রজন্মের বর্ণনা। পরের কারও উপর এর কোনোটাই নিয়ম হয়ে বসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Fabricator Until the Hour",
+          "bn": "কিয়ামত পর্যন্ত প্রত্যেক রচনাকারী"
+        },
+        "p": [
+          {
+            "en": "Then the closing clause, wa kadhalika najzi al-muftarin. At-Tabari reads it close to the story: as I repaid these, who took the calf as a god, with anger and with humiliation in this world for their disbelief and for turning from their religion after faith, so do I repay everyone who fabricates against Allah, lies about Him, affirms the divinity of another and worships idols after affirming His oneness. He attaches a condition to it: if that person does not repent of his disbelief before he is killed.",
+            "bn": "এরপর শেষ বাক্য: ওয়া কাযালিকা নাজযিল মুফতারীন। তাবারী একে কাহিনির সঙ্গে বেঁধেই পড়েন। যারা বাছুরকে ইলাহ বানিয়েছিল, কুফরি আর ঈমানের পর দীন থেকে ফিরে যাওয়ার জন্য তাদের যেমন গযব আর দুনিয়ার লাঞ্ছনা দিয়ে প্রতিফল দিলাম, তেমনি প্রতিফল দিই প্রত্যেককে, যে আল্লাহর নামে মিথ্যা রচনা করে। যে তাঁর ব্যাপারে মিথ্যা বলে, অন্য কাউকে ইলাহ বলে মেনে নেয়, আর তাঁর একত্ব স্বীকারের পর মূর্তির ইবাদত করে। সঙ্গে তিনি একটা শর্ত জোড়েন: যদি নিহত হওয়ার আগে সে কুফরি থেকে তওবা না করে।"
+          },
+          {
+            "en": "Other voices widen the clause. At-Tabari, Ibn Kathir and al-Baghawi all carry Abu Qilaba's comment on it. Through Ayyub, at-Tabari and Ibn Kathir give it as hiya wa-Allahi li-kulli muftarin ila yawm al-qiyama: by Allah, it is for every fabricator until the Day of Resurrection. In another of at-Tabari's chains, also from Ayyub, and in al-Baghawi, it is the repayment of every fabricator until that Day, that Allah humiliates him. Sufyan ibn 'Uyayna, in at-Tabari and Ibn Kathir, says kullu sahibi bid'atin dhalil: every person of innovation is humiliated. The Muyassar uses the same sentence without naming him.",
+            "bn": "অন্যরা বাক্যটির পরিধি বাড়িয়ে দেন। তাবারী, ইবন কাসীর আর বাগাভী, তিনজনই আবু কিলাবার মন্তব্য আনেন। আইয়ূবের সূত্রে তাবারী ও ইবন কাসীর কথাটা আনেন এভাবে: আল্লাহর কসম, কিয়ামত পর্যন্ত প্রত্যেক মিথ্যা রচনাকারীর জন্য এটাই। তাবারীর আরেক সূত্রে, সেটাও আইয়ূব থেকে, আর বাগাভীতে কথাটা এমন: কিয়ামত পর্যন্ত প্রত্যেক মিথ্যা রচনাকারীর প্রতিফল এটাই যে আল্লাহ তাকে লাঞ্ছিত করবেন। তাবারী ও ইবন কাসীরে সুফিয়ান ইবন উয়াইনা বলেন, কুল্লু সাহিবি বিদ‘আতিন যালীল: প্রত্যেক বিদ‘আতী লাঞ্ছিত। মুয়াসসার তাঁর নাম না নিয়ে হুবহু এ বাক্যটিই ব্যবহার করে।"
+          },
+          {
+            "en": "Ibn Kathir explains the link: the humiliation of innovation and of opposing the Message runs from the heart onto the shoulders. He quotes al-Hasan al-Basri that the humiliation of innovation sits on their shoulders even when mules trot under them and fine horses clatter beneath them. Al-Qurtubi reports Malik ibn Anas: there is no innovator but you find humiliation above his head, and then he recited this verse. As-Sa'di puts it in his own terms: everyone who lies about Allah's law and says of Him what He did not say has a share of that anger and that humiliation.",
+            "bn": "ইবন কাসীর যোগসূত্রটা বুঝিয়ে দেন। বিদ‘আত আর রিসালাতের বিরোধিতার লাঞ্ছনা অন্তর থেকে নেমে আসে কাঁধ পর্যন্ত। তিনি হাসান বসরীর কথা আনেন: খচ্চর তাদের নিয়ে দুলকি চালে ছুটুক, তেজি ঘোড়া খটখট করে চলুক, বিদ‘আতের লাঞ্ছনা তবু তাদের কাঁধেই চেপে থাকে। কুরতুবী আনেন মালিক ইবন আনাসের কথা: এমন কোনো বিদ‘আতী নেই যার মাথার উপর লাঞ্ছনা দেখবে না। তারপর তিনি এ আয়াত তিলাওয়াত করেন। সা’দী বলেন নিজের ভাষায়: যে আল্লাহর শরীয়তের নামে মিথ্যা বলে, আল্লাহ যা বলেননি তা তাঁর নামে চালায়, সেই গযব আর লাঞ্ছনায় তারও ভাগ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Door in Verse 153",
+          "bn": "১৫৩ আয়াতের খোলা দরজা"
+        },
+        "p": [
+          {
+            "en": "The verdict does not stand alone. At-Tabari's own condition, unless he repents, points straight at the next verse: those who did evil deeds, then repented after them and believed, will find their Lord Forgiving and Merciful after it. Ibn Kathir, on 7:153 in the abridged English, says Allah accepts repentance from His servants for any sin, even shirk, disbelief, hypocrisy and disobedience. Al-Qurtubi ends his comment on 7:152 the same way: Allah then told that He accepts the repentance of the one who turns back from shirk and from other sins.",
+            "bn": "রায়টা একা দাঁড়িয়ে নেই। তাবারীর নিজের শর্ত, যদি না সে তওবা করে, সোজা দেখিয়ে দেয় পরের আয়াতের দিকে: যারা মন্দ কাজ করে, তারপর তওবা করে ও ঈমান আনে, তারা এরপর তাদের রবকে পাবে ক্ষমাশীল ও দয়ালু। সংক্ষিপ্ত ইংরেজি ইবন কাসীরে ৭:১৫৩ আয়াতের আলোচনায় আছে, আল্লাহ বান্দার যেকোনো গুনাহর তওবা কবুল করেন, এমনকি শিরক, কুফরি, নিফাক আর নাফরমানিরও। কুরতুবীও ৭:১৫২ আয়াতের আলোচনা শেষ করেন একই কথায়: এরপর আল্লাহ জানিয়ে দিলেন, শিরক বা অন্য যেকোনো গুনাহ থেকে যে ফিরে আসে, তিনি তার তওবা কবুল করেন।"
+          },
+          {
+            "en": "Al-Qurtubi also records, under qila, that the verdict belongs to the words of Musa (AS), which Allah reports from him, said before the people repented by killing themselves. When they had repented and been pardoned after the great killing, Musa told them that whoever of them had died slain was a martyr, and whoever remained alive was forgiven. None of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it; what they carry are the words of a Companion, of Followers and of later scholars.",
+            "bn": "কুরতুবী ‘বলা হয়’ দিয়ে আরেকটা মতও আনেন। রায়টা মূসা (আঃ)-এর কথারই অংশ, আল্লাহ যা তাঁর পক্ষ থেকে জানিয়েছেন, আর কথাটা বলা হয়েছিল লোকেরা নিজেদের হত্যার মাধ্যমে তওবা করার আগে। সেই বিরাট হত্যাকাণ্ডের পর যখন তারা তওবা করল আর ক্ষমা পেল, মূসা (আঃ) তাদের জানালেন: তাদের মধ্যে যে নিহত হয়ে মারা গেছে সে শহীদ, আর যে বেঁচে আছে তাকে ক্ষমা করা হয়েছে। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তাদের কাছে আছে একজন সাহাবী, তাবেয়ী আর পরবর্তী আলেমদের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Licensing Nothing Against Anyone",
+          "bn": "কারও বিরুদ্ধে কোনো ছাড়পত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse describes a people of the past and the sentence Allah passed on them, and every commentator above reads that sentence as falling on a people of history: those who took the calf, the killing of 2:54, or, in 'Atiyya's reading, events in the Prophet's ﷺ time that befell two named tribes. It licenses nothing against any living person or community, Jews today included. It makes no reader a judge: no one may humiliate another in its name, or call a neighbour's misfortune Allah's anger. What humiliation means here is Allah's to decide.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের এক জাতি আর তাদের উপর আল্লাহর দেওয়া রায়ের বর্ণনা দেয়। উপরের প্রত্যেক তাফসীরকারের চোখে সেই রায় পড়েছে ইতিহাসের এক জাতির উপর: যারা বাছুর গ্রহণ করেছিল, ২:৫৪ আয়াতের হত্যার আদেশ, কিংবা আতিয়্যার পাঠে নবী ﷺ-এর যুগে নির্দিষ্ট দুই গোত্রের উপর ঘটে যাওয়া ঘটনা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, আজকের ইহুদিদের বিরুদ্ধেও, এ আয়াত কোনো অনুমতি দেয় না। কোনো পাঠককে এটা বিচারক বানায় না। এর দোহাই দিয়ে কাউকে অপমান করা যায় না, প্রতিবেশীর বিপদকে আল্লাহর গযব বলে দেওয়া যায় না। এখানে লাঞ্ছনা বলতে কী, তা ঠিক করবেন আল্লাহ।"
+          },
+          {
+            "en": "Notice, too, where the widening points. When Abu Qilaba, Sufyan, Malik and as-Sa'di carry the clause past that generation, they carry it to the fabricator and the innovator, and the Muyassar names them as those who innovate in Allah's religion. The verse turns back on its reader. The question it leaves is not who else has earned humiliation, but whether I have said of Allah what He did not say, or given His place to anything at all, and whether I have yet walked through the door of 7:153.",
+            "bn": "আরেকটা বিষয় খেয়াল করুন, পরিধিটা কোন দিকে বাড়ানো হয়েছে। আবু কিলাবা, সুফিয়ান, মালিক আর সা’দী যখন বাক্যটিকে সেই প্রজন্মের বাইরে নিয়ে যান, নিয়ে যান মিথ্যা রচনাকারী আর বিদ‘আতীর দিকে। মুয়াসসার তাদের চিহ্নিত করে আল্লাহর দীনে বিদ‘আত সৃষ্টিকারী হিসেবে। আয়াতটি তাই ফিরে আসে পাঠকের নিজের দিকে। প্রশ্নটা এই নয় যে আর কে লাঞ্ছনার যোগ্য। প্রশ্ন হলো, আল্লাহ যা বলেননি তা কি আমি তাঁর নামে বলেছি? তাঁর জায়গা কি অন্য কিছুকে দিয়েছি? আর ৭:১৫৩ আয়াতের দরজা দিয়ে আমি কি এখনো ঢুকেছি?"
+          }
+        ]
+      }
+    ]
+  },
   "7:156": {
     "sections": [
       {
