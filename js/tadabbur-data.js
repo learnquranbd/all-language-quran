@@ -21511,6 +21511,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Knowledge came to unite them, and they divided over it. Let what you learn draw you nearer to the people around you, and leave the final verdict on every dispute to Allah.",
     "lessonBn": "জ্ঞান এসেছিল তাদের এক করতে, অথচ সেটা নিয়েই তারা ভাগ হয়ে গেল। আপনার শেখা যেন আপনাকে চারপাশের মানুষের কাছে টানে। আর প্রতিটি বিবাদের শেষ রায় আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "10:104": {
+    "reflectionEn": "Near the end of Yunus the Prophet ﷺ is told to address everyone at once: O people, if you are in doubt about my religion. He does not ask them to settle the doubt first, or wait for it to pass. He tells them where he stands. I do not worship what you worship besides Allah. I worship Allah, the One who takes your souls. Then he names the order he lives under: I was commanded to be of the believers. No threat of force is in it, and no bargaining. The doubt stays theirs to work through. The position is his, and it does not move. When others doubt what I hold, do I go quiet, start trading, or say it plainly and leave the rest to Allah?",
+    "reflectionBn": "সূরা ইউনুসের শেষ দিকে নবী ﷺ-কে বলা হচ্ছে সবাইকে একসঙ্গে ডেকে বলতে: হে মানুষ, আমার দ্বীন নিয়ে তোমাদের যদি সন্দেহ থাকে। আগে সন্দেহ মিটিয়ে আসতে তিনি বলছেন না, সন্দেহ কেটে যাওয়ার অপেক্ষাতেও বসে নেই। তিনি শুধু জানিয়ে দিচ্ছেন তিনি কোথায় দাঁড়িয়ে। আল্লাহকে ছেড়ে তোমরা যাদের ইবাদত করো, আমি তাদের ইবাদত করি না। আমি ইবাদত করি আল্লাহর, যিনি তোমাদের প্রাণ কবজ করেন। তারপর তিনি সেই হুকুমের কথা বলেন যার অধীনে তিনি চলেন: আমাকে মুমিনদের একজন হতে আদেশ করা হয়েছে। এতে জোর খাটানোর হুমকি নেই, দরদামও নেই। সন্দেহের মীমাংসা তাদের নিজেদের কাজ। অবস্থানটা তাঁর, আর তা একচুলও নড়ে না। আমি যা আঁকড়ে আছি তা নিয়ে কেউ সন্দেহ তুললে আমি কি চুপ হয়ে যাই, দরদাম শুরু করি, নাকি সোজা কথায় বলে দিয়ে বাকিটা আল্লাহর হাতে ছেড়ে দিই?",
+    "pointsEn": [
+      "When someone doubts my faith out loud, is my first reflex to defend myself, to soften it, or simply to say what I worship?",
+      "The verse names Allah as the One who takes their souls, something every listener will meet. What in my own life reminds me most honestly whom I belong to?",
+      "The Prophet ﷺ speaks of himself as commanded. Do I hold my religion as an order I received or as an opinion I happen to have?",
+      "Is there a conversation where I have crossed from stating my position into pressing someone to adopt it?",
+      "Who around me needs to hear my belief stated calmly, without heat, and without any demand on them?"
+    ],
+    "pointsBn": [
+      "কেউ মুখের ওপর আমার ঈমান নিয়ে সন্দেহ প্রকাশ করলে আমার প্রথম প্রতিক্রিয়া কী হয়: নিজের সাফাই গাওয়া, কথাটা নরম করে ফেলা, নাকি শুধু বলে দেওয়া যে আমি কার ইবাদত করি?",
+      "আয়াতটি আল্লাহর পরিচয় দেয় এভাবে: তিনি তোমাদের প্রাণ কবজ করেন, যার মুখোমুখি প্রত্যেক শ্রোতাকে একদিন হতে হবে। আমার জীবনে কোন জিনিস আমাকে সবচেয়ে সৎভাবে মনে করিয়ে দেয় আমি কার?",
+      "নবী ﷺ নিজের কথা বলছেন আদিষ্ট একজন হিসেবে। আমি আমার দ্বীনকে কীভাবে ধরে আছি: পাওয়া হুকুম হিসেবে, নাকি নিজের একটা মত হিসেবে?",
+      "এমন কোনো আলাপ কি আছে, যেখানে আমি নিজের অবস্থান জানানোর সীমা পেরিয়ে অন্যকে তা মেনে নিতে চাপ দিতে শুরু করেছি?",
+      "আমার আশপাশে কার কাছে আমার বিশ্বাসের কথা শান্তভাবে, উত্তাপ ছাড়া, কোনো দাবি না চাপিয়ে বলা দরকার?"
+    ],
+    "lessonEn": "State what you worship plainly when others doubt it, without bargaining and without force. Their doubt is theirs to resolve; your firmness is yours to keep before Allah.",
+    "lessonBn": "অন্যরা সন্দেহ করলে আপনি কার ইবাদত করেন তা সোজা কথায় বলে দিন, দরদাম ছাড়া, জোর ছাড়া। তাদের সন্দেহের মীমাংসা তাদের কাজ, আর আল্লাহর সামনে নিজের দৃঢ়তা ধরে রাখা আপনার কাজ।"
   }
 };
 

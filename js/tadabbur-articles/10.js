@@ -3879,6 +3879,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:104": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Waiting to Declaring",
+          "bn": "অপেক্ষা থেকে ঘোষণায়"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier the Prophet ﷺ was told to say: then wait, I am waiting with you. 10:103 followed with a promise, that Allah saves His messengers and those who believe. Here the surah turns from waiting to declaring. Qul ya ayyuha an-nas: say, O people. The verse runs to 26 Arabic words and names no tribe and no town. Al-Qurtubi supplies the address in three words, yurid kuffar Makkah: He means the disbelievers of Makkah.",
+            "bn": "দুই আয়াত আগে নবী ﷺ-কে বলতে বলা হয়েছিল: তাহলে অপেক্ষা করো, আমিও তোমাদের সঙ্গে অপেক্ষায় আছি। এরপর ১০:১০৩ এক প্রতিশ্রুতি দিল: আল্লাহ তাঁর রাসূলদের আর মুমিনদের রক্ষা করেন। এবার সূরা অপেক্ষা থেকে ঘোষণার দিকে মোড় নেয়। কুল ইয়া আইয়ুহান নাস: বলো, হে মানুষ। আয়াতটিতে আরবি শব্দ ২৬টি, কোনো গোত্র বা জনপদের নাম এতে নেই। কাদের ডাকা হচ্ছে, কুরতুবী তা তিনটি শব্দে বলে দেন: ইউরীদু কুফফারা মাক্কাহ, অর্থাৎ মক্কার কাফিরদের বোঝানো হয়েছে।"
+          },
+          {
+            "en": "At-Tabari fills in who they were. Say, O Muhammad, he paraphrases, to these idolaters of your people who were amazed that revelation came to you. His gloss recalls the surah's own opening, where 10:2 asks whether it was a wonder to people that revelation came to a man from among them. Yunus opens on that astonishment, and by his gloss the same people are being addressed near its close. What they hear this time is not a further argument but a plain statement of where the Messenger stands.",
+            "bn": "তারা কারা ছিল, তাবারী তা আরও খুলে বলেন। তাঁর ভাষ্যে কথাটা এমন: হে মুহাম্মাদ, তোমার কওমের এই মুশরিকদের বলো, তোমার কাছে ওহি আসায় যারা অবাক হয়েছিল। তাঁর এ ব্যাখ্যা সূরার শুরুর কথা মনে করিয়ে দেয়। ১০:২ আয়াতে প্রশ্ন ছিল, তাদেরই একজন মানুষের কাছে ওহি এসেছে, এতে কি লোকেরা অবাক হলো? ইউনুস শুরু হয় সেই বিস্ময় দিয়ে, আর তাবারীর ব্যাখ্যা মানলে সূরার শেষ দিকে সেই লোকদেরই ডাকা হচ্ছে। এবার তারা নতুন কোনো যুক্তি শুনছে না। শুনছে রাসূল কোথায় দাঁড়িয়ে আছেন, তার সোজা ঘোষণা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Condition, Three Answers",
+          "bn": "এক শর্ত, তিন জবাব"
+        },
+        "p": [
+          {
+            "en": "The verse is built on a single condition. In kuntum fi shakkin min dini: if you are in doubt about my religion. What answers it comes in three parts. A refusal: fa-la a'budu alladhina ta'buduna min dunillah, then I do not worship those you worship besides Allah. An affirmation: wa lakin a'budu Allaha alladhi yatawaffakum, but I worship Allah, who takes your souls. And a statement of obedience: wa umirtu an akuna min al-mu'minin, and I have been commanded to be of the believers.",
+            "bn": "পুরো আয়াত দাঁড়িয়ে আছে একটিমাত্র শর্তের ওপর। ইন কুনতুম ফী শাক্কিম মিন দীনী: আমার দ্বীন নিয়ে তোমাদের যদি সন্দেহ থাকে। এর জবাব আসে তিনটি ভাগে। প্রথমে অস্বীকার: ফালা আ'বুদুল্লাযীনা তা'বুদূনা মিন দূনিল্লাহ, আল্লাহকে ছেড়ে তোমরা যাদের ইবাদত করো, আমি তাদের ইবাদত করি না। তারপর ঘোষণা: ওয়া লাকিন আ'বুদুল্লাহাল্লাযী ইয়াতাওয়াফফাকুম, বরং আমি ইবাদত করি আল্লাহর, যিনি তোমাদের প্রাণ কবজ করেন। শেষে আনুগত্যের কথা: ওয়া উমিরতু আন আকূনা মিনাল মু'মিনীন, আর আমাকে মুমিনদের একজন হতে আদেশ করা হয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi raises the obvious objection himself. How can it say if you are in doubt, when they believed that what he brought was false? He gives two answers and does not choose between them. There were doubters among them, and they are the ones the verse means. Or, when they saw the signs, they were shaken and fell into doubt about their own affair and the affair of the Prophet ﷺ. Either way, the condition describes something real in the listeners, not a hypothetical.",
+            "bn": "সবচেয়ে স্বাভাবিক আপত্তিটা বাগাভী নিজেই তোলেন। যারা বিশ্বাস করত যে তিনি যা এনেছেন তা বাতিল, তাদের বেলায় 'যদি সন্দেহ থাকে' কথাটা কীভাবে খাটে? তিনি দুটি জবাব দেন, কোনোটিকে অন্যটির ওপর প্রাধান্য দেন না। এক, তাদের মধ্যে সন্দেহে থাকা লোকও ছিল, আয়াত তাদেরই উদ্দেশ করছে। দুই, নিদর্শনগুলো দেখার পর তারা টলে গিয়েছিল, নিজেদের ব্যাপারে আর নবী ﷺ-এর ব্যাপারে সন্দেহে পড়ে গিয়েছিল। যেভাবেই ধরা হোক, শর্তটা শ্রোতাদের ভেতরের বাস্তব এক অবস্থার কথা বলছে, নিছক কল্পনার নয়।"
+          },
+          {
+            "en": "Two commentators widen what the doubt covered. The Muyassar makes it doubt about the soundness of his religion, which is Islam, and also about his own firmness and steadiness upon it, and adds that they hoped to turn him away from it. As-Sa'di glosses shakk as uncertainty and confusion, then has the Prophet ﷺ answer for himself: I am in no doubt about it; I have certain knowledge that it is the truth and that what you call on besides Allah is false, and clear proofs for it.",
+            "bn": "দুজন তাফসীরকার সন্দেহের পরিধি আরও বড় করে দেখান। মুয়াসসারের ভাষ্যে সন্দেহটা ছিল তাঁর দ্বীন, অর্থাৎ ইসলাম ঠিক কি না তা নিয়ে। আবার সেই দ্বীনে তিনি কতটা অটল ও অবিচল থাকবেন, তা নিয়েও। মুয়াসসার যোগ করে, তারা আশা করত তাঁকে এ পথ থেকে সরিয়ে আনা যাবে। সা'দী শাক্কের অর্থ করেন দ্বিধা আর ধোঁয়াশা। তারপর নবী ﷺ-এর মুখে জবাব বসান: এ নিয়ে আমার কোনো সন্দেহ নেই। আমার নিশ্চিত জ্ঞান আছে যে এটাই সত্য, আর আল্লাহকে ছেড়ে তোমরা যাদের ডাকো তারা বাতিল। এর পক্ষে আমার কাছে স্পষ্ট দলিলও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Doubt Handed Back",
+          "bn": "সন্দেহ ফেরত গেল যার কাছে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari hears more in the sentence than its surface. He calls it ta'rid and lahn, an indirect and subtle turn of speech. The meaning of the words, he says, is this: if you are in doubt about my religion, you have no business doubting it. What you ought to doubt is the thing you are on, the worship of idols that understand nothing and neither harm nor benefit. As for my religion, there is no room to doubt it, because I worship Allah.",
+            "bn": "তাবারী বাক্যটির ওপরের অর্থের চেয়ে বেশি কিছু শোনেন। তিনি একে বলেন তা'রীদ ও লাহন, অর্থাৎ ঘুরিয়ে বলা কথা, আর তা খুব সূক্ষ্ম। তাঁর মতে কথার আসল মানে এই: আমার দ্বীন নিয়ে তোমাদের যদি সন্দেহ থাকে, তবে এতে সন্দেহ করার কিছু নেই। সন্দেহ যদি করতেই হয়, করো নিজেদের অবস্থান নিয়ে। তোমরা যে মূর্তিগুলোর পূজা করো, সেগুলো কিছুই বোঝে না, কোনো ক্ষতিও করতে পারে না, উপকারও না। আর আমার দ্বীনে সন্দেহের অবকাশ নেই, কারণ আমি ইবাদত করি আল্লাহর।"
+          },
+          {
+            "en": "The editor's note in at-Tabari's text defines lahn as allusion and hinting instead of saying a thing outright: you turn the speech away from its direct line, and that makes it finer and more apt to rouse the listener's own understanding. Read this way, the verse does not open by telling the Makkans that they are wrong. It sets two objects of worship side by side and lets the comparison do the work. The doubt has not been answered for them. It has been handed back to them.",
+            "bn": "তাবারীর গ্রন্থের সম্পাদকীয় টীকায় লাহনের সংজ্ঞা দেওয়া আছে: সরাসরি না বলে ইঙ্গিতে, আভাসে বলা। কথাকে তার সোজা পথ থেকে একটু ঘুরিয়ে দেওয়া হয়, তাতে কথা হয় আরও সুন্দর, আর শ্রোতার নিজের বোধকে তা আরও বেশি নাড়া দেয়। এভাবে পড়লে আয়াতটি শুরুতেই মক্কাবাসীদের মুখের ওপর বলে না যে তোমরা ভুল। দুই মাবুদকে পাশাপাশি রেখে দেয়, তুলনাটাই বাকি কাজ করে। তাদের সন্দেহের জবাব তাদের হয়ে কেউ দিয়ে দেয়নি। সন্দেহটা ফিরিয়ে দেওয়া হয়েছে তাদেরই হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The One Who Takes Your Souls",
+          "bn": "যিনি তোমাদের প্রাণ কবজ করেন"
+        },
+        "p": [
+          {
+            "en": "Of everything that could have been said about Allah here, the verse chooses one attribute: alladhi yatawaffakum. Al-Qurtubi, al-Baghawi and the Muyassar all gloss it in nearly the same words, He causes you to die and seizes your souls. At-Tabari adds when: He seizes your souls and causes you to die at your appointed terms. Notice also whose death is named. The clause does not say the One who will take my soul. It says yours, and every listener in the gathering is included.",
+            "bn": "আল্লাহ সম্পর্কে এখানে অনেক কিছুই বলা যেত। আয়াতটি বেছে নিয়েছে একটিমাত্র গুণ: আল্লাযী ইয়াতাওয়াফফাকুম। কুরতুবী, বাগাভী আর মুয়াসসার প্রায় একই ভাষায় এর ব্যাখ্যা দেন: তিনি তোমাদের মৃত্যু দেন, তোমাদের প্রাণ কবজ করেন। তাবারী সময়টাও জুড়ে দেন: তিনি তোমাদের প্রাণ কবজ করেন, নির্ধারিত মেয়াদ এলে তোমাদের মৃত্যু ঘটান। আরেকটা জিনিস খেয়াল করার মতো: কার মৃত্যুর কথা বলা হচ্ছে। বাক্যটি বলছে না, যিনি আমার প্রাণ নেবেন। বলছে তোমাদের প্রাণ, আর মজলিসের প্রত্যেক শ্রোতা এর ভেতরে পড়ে যায়।"
+          },
+          {
+            "en": "Why this attribute? The commentators give their reasons in different keys. At-Tabari makes it a matter of the sound natural disposition: I worship Allah who seizes creation and causes them to die if He wills, and benefits and harms them if He wills, and the worship of one like that is something no one of sound fitra objects to, while every person of sound mind rejects the worship of idols. Ibn Kathir sets the death inside a sequence: He takes you as He gave you life, and then to Him is your return.",
+            "bn": "এই গুণটিই কেন? তাফসীরকারেরা কারণ দেখান ভিন্ন ভিন্ন সুরে। তাবারী বিষয়টাকে সুস্থ ফিতরাতের প্রশ্ন বানান। তাঁর ভাষ্যে: আমি সেই আল্লাহর ইবাদত করি, যিনি চাইলে সৃষ্টিকে কবজ করে মৃত্যু দেন, চাইলে তাদের উপকার করেন, চাইলে ক্ষতি। এমন সত্তার ইবাদতে সুস্থ ফিতরাতের কোনো মানুষ আপত্তি তোলে না। অথচ মূর্তিপূজাকে সুস্থ বুদ্ধির প্রত্যেক মানুষ অস্বীকার করে। ইবন কাসীর মৃত্যুকে একটা ধারাবাহিকতার মধ্যে রাখেন: তিনি যেমন তোমাদের জীবন দিয়েছেন, তেমনি তোমাদের মৃত্যু দেন, তারপর তাঁর কাছেই তোমাদের ফিরে যাওয়া।"
+          },
+          {
+            "en": "As-Sa'di carries the sequence to its end. He is Allah who created you, who causes you to die, then raises you, to repay you for your deeds, so He alone deserves to be worshipped, prayed to, submitted to and bowed down to. The idols, he says, create nothing, provide nothing and govern nothing; they are themselves created and made to serve. None of the commentaries fetched for this verse calls the phrase a threat in so many words. The furthest they go is as-Sa'di's mention of repayment for deeds.",
+            "bn": "সা'দী এই ধারাকে শেষ পর্যন্ত নিয়ে যান। তিনি সেই আল্লাহ, যিনি তোমাদের সৃষ্টি করেছেন, তোমাদের মৃত্যু দেন, তারপর আবার জীবিত করে ওঠাবেন, তোমাদের আমলের প্রতিদান দিতে। তাই ইবাদত, নামায, বিনয় আর সিজদা কেবল তাঁরই প্রাপ্য। আর মূর্তিগুলো, তাঁর ভাষায়, কিছু সৃষ্টি করে না, রিজিক দেয় না, কোনো কিছু পরিচালনাও করে না। তারা নিজেরাই সৃষ্ট, অন্যের অধীনে খাটানো। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই কথাকে সরাসরি হুমকি বলে না। সবচেয়ে দূর পর্যন্ত যান সা'দী, আমলের প্রতিদানের কথা তুলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Call Them, Let Them Harm",
+          "bn": "ডাকো তাদের, ক্ষতি করুক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir turns the refusal into a challenge. If these gods you call on besides Allah are real, he has the Prophet ﷺ say, I still do not worship them; so call on them and let them harm me. They neither harm nor benefit. Harm and benefit lie in the hand of Allah alone, with no partner. The challenge draws on the surah's own vocabulary, since harm and benefit are the words it has used for the idols from 10:18 onward.",
+            "bn": "ইবন কাসীর অস্বীকারটাকে চ্যালেঞ্জে রূপ দেন। তাঁর ভাষ্যে নবী ﷺ বলছেন: আল্লাহকে ছেড়ে তোমরা যে উপাস্যদের ডাকো, তারা যদি সত্যিই কিছু হয়ে থাকে, তবু আমি তাদের ইবাদত করি না। কাজেই ডাকো তাদের, তারা আমার ক্ষতি করে দেখাক। তারা ক্ষতিও করতে পারে না, উপকারও না। ক্ষতি আর উপকার যাঁর হাতে, তিনি কেবল আল্লাহ, তাঁর কোনো শরীক নেই। চ্যালেঞ্জটা সূরার নিজের ভাষা থেকেই নেওয়া। মূর্তিদের কথা বলতে গিয়ে ১০:১৮ থেকেই সূরাটি ক্ষতি আর উপকারের এই জোড়া শব্দ ব্যবহার করে আসছে।"
+          },
+          {
+            "en": "10:18 describes people who worship besides Allah what neither harms them nor benefits them, and who say these are our intercessors with Allah. The surah also gives the challenge an earlier voice. In 10:71, Nuh (AS) tells his people to gather their plan and their partners, and then carry it out against him and give him no respite. The order that follows this verse returns to the same pair of words: 10:106 forbids calling, besides Allah, on what neither benefits nor harms.",
+            "bn": "১০:১৮ আয়াতে এমন লোকদের কথা আছে, যারা আল্লাহকে ছেড়ে এমন কিছুর ইবাদত করে যা তাদের ক্ষতিও করে না, উপকারও না, আর বলে, এরা আল্লাহর কাছে আমাদের সুপারিশকারী। এ চ্যালেঞ্জের আগের একটা কণ্ঠও সূরায় আছে। ১০:৭১ আয়াতে নূহ (আঃ) তাঁর কওমকে বলেন, তোমরা তোমাদের পরিকল্পনা আর শরীকদের এক জায়গায় জড়ো করো, তারপর আমার ওপর তা কার্যকর করো, আমাকে একটুও সময় দিয়ো না। এ আয়াতের পরের হুকুমও সেই দুই শব্দে ফিরে আসে। ১০:১০৬ নিষেধ করে, আল্লাহকে ছেড়ে এমন কিছুকে ডেকো না যা উপকারও করে না, ক্ষতিও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Messenger Who Was Commanded",
+          "bn": "আদেশপ্রাপ্ত এক রাসূল"
+        },
+        "p": [
+          {
+            "en": "The last clause moves from what he does to why. Wa umirtu: and I have been commanded. At-Tabari glosses it as, He is the One who commanded me to be of those who affirm as true what came to me from Him. Al-Qurtubi has the believers as those who affirm the signs of their Lord, and the Muyassar as those who affirm Him and act by His law. The Messenger ﷺ does not present his worship as a preference. He presents it as an order he received.",
+            "bn": "শেষ বাক্যে কথা সরে যায় তিনি কী করেন থেকে কেন করেন সেদিকে। ওয়া উমিরতু: আর আমাকে আদেশ করা হয়েছে। তাবারী এর ব্যাখ্যা দেন এভাবে: তিনিই আমাকে আদেশ করেছেন, যেন তাঁর কাছ থেকে আমার কাছে যা এসেছে তা সত্য বলে মেনে নেওয়া লোকদের একজন হই। কুরতুবীর ভাষ্যে মুমিন তারা, যারা তাদের রবের আয়াতগুলোকে সত্য বলে মানে। মুয়াসসারের ভাষ্যে, যারা তাঁকে সত্য বলে মানে আর তাঁর শরীয়ত অনুযায়ী আমল করে। রাসূল ﷺ নিজের ইবাদতকে পছন্দের ব্যাপার হিসেবে পেশ করছেন না। পেশ করছেন পাওয়া এক হুকুম হিসেবে।"
+          },
+          {
+            "en": "The same surah has already put these words in another prophet's mouth. In 10:72, after telling his people that he asked them for no payment and that his reward is only from Allah, Nuh (AS) says wa umirtu an akuna min al-muslimin: and I have been commanded to be of those who submit. 6:162 and 6:163 frame it the same way: my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds, no partner has He, and this I have been commanded.",
+            "bn": "এই সূরাতেই আরেক নবীর মুখে প্রায় একই কথা আগে এসেছে। ১০:৭২ আয়াতে নূহ (আঃ) কওমকে বলেন, আমি তোমাদের কাছে কোনো পারিশ্রমিক চাইনি, আমার প্রতিদান কেবল আল্লাহর কাছে। তারপর বলেন: ওয়া উমিরতু আন আকূনা মিনাল মুসলিমীন, আর আমাকে আত্মসমর্পণকারীদের একজন হতে আদেশ করা হয়েছে। ৬:১৬২ ও ৬:১৬৩ আয়াতেও কথাটা একই ছাঁচে বলা: আমার নামায, আমার কুরবানি, আমার জীবন, আমার মরণ বিশ্বজগতের রব আল্লাহর জন্য। তাঁর কোনো শরীক নেই, আর আমাকে এরই আদেশ দেওয়া হয়েছে।"
+          },
+          {
+            "en": "What the command contains is spelled out in the next verse, and two commentators read the verses as one. Ibn Kathir, in the abridged English edition, says that 10:105, set your face to the religion, hanif, is directly connected to and I have been commanded to be of the believers, and explains hanif as one who turns away from associating partners with Allah. As-Sa'di, writing on this verse, runs straight into the next: make your deeds, outward and inward, sincerely for Allah, turning to Him and away from everything else.",
+            "bn": "আদেশের ভেতরে কী আছে, তা খুলে বলা হয়েছে পরের আয়াতে। দুজন তাফসীরকার আয়াত দুটিকে একসঙ্গে পড়েন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, ১০:১০৫ আয়াতের কথা, দ্বীনের দিকে নিজের মুখ স্থির করো হানীফ হয়ে, সরাসরি যুক্ত 'আমাকে মুমিনদের একজন হতে আদেশ করা হয়েছে' কথাটির সঙ্গে। হানীফের ব্যাখ্যা দেন এভাবে: যে আল্লাহর সঙ্গে শরীক করা থেকে মুখ ফিরিয়ে নেয়। সা'দী এ আয়াতের ব্যাখ্যা করতে গিয়ে সরাসরি পরের আয়াতে চলে যান। তাঁর ভাষ্যে: প্রকাশ্য আর গোপন সব আমল খাঁটিভাবে আল্লাহর জন্য করো, তাঁর দিকে মুখ ফেরাও, আর সবকিছু থেকে মুখ ঘুরিয়ে নাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Al-Kafirun Says It Again",
+          "bn": "সূরা কাফিরূনে একই কথা"
+        },
+        "p": [
+          {
+            "en": "Readers who know the Qur'an will hear Surat al-Kafirun in this verse. 109:1 and 109:2: say, O disbelievers, I do not worship what you worship. The verb and the refusal are the same, and the word din closes both: here min dini, about my religion, and in 109:6, for you is your religion and for me is mine. The differences are small and visible. This verse calls out O people where al-Kafirun says O disbelievers, and it says alladhina, those whom, where 109:2 says ma, what.",
+            "bn": "কুরআন যাঁরা চেনেন, তাঁরা এ আয়াতে সূরা কাফিরূনের সুর শুনতে পাবেন। ১০৯:১ ও ১০৯:২: বলো, হে কাফিররা, তোমরা যার ইবাদত করো, আমি তার ইবাদত করি না। ক্রিয়া একই, অস্বীকারও একই। দুই জায়গাতেই দ্বীন শব্দটা আছে: এখানে মিন দীনী, আমার দ্বীন সম্পর্কে। আর ১০৯:৬ আয়াতে, তোমাদের জন্য তোমাদের দ্বীন, আমার জন্য আমার দ্বীন। পার্থক্যও আছে, ছোট কিন্তু চোখে পড়ার মতো। এ আয়াত ডাকছে হে মানুষ বলে, কাফিরূনে আছে হে কাফিররা। এখানে আল্লাযীনা, অর্থাৎ যাদের, আর ১০৯:২ আয়াতে মা, অর্থাৎ যা।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse stops on those differences, so they are left here as observations and not explained. Inside Yunus itself the closer echo is 10:41: if they deny you, say, for me are my deeds and for you are your deeds; you are free of what I do and I am free of what you do. And four verses on, 10:108 opens with the same call, O people, and ends with the Messenger's words that he is not set over them as a guardian.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই পার্থক্যগুলো নিয়ে কথা বলে না। তাই এখানে সেগুলো শুধু চোখে পড়ার বিষয় হিসেবে রাখা হলো, ব্যাখ্যা ছাড়া। ইউনুসের ভেতরে এর কাছাকাছি প্রতিধ্বনি ১০:৪১ আয়াতে: তারা যদি তোমাকে মিথ্যাবাদী বলে, তবে বলো, আমার আমল আমার, তোমাদের আমল তোমাদের। আমি যা করি তার দায় থেকে তোমরা মুক্ত, তোমরা যা করো তার দায় থেকে আমি মুক্ত। আর আরও চারটি আয়াত পরে ১০:১০৮ শুরু হয় সেই একই ডাকে, হে মানুষ। শেষ হয় রাসূলের এই কথায় যে তিনি তাদের ওপর দায়িত্বপ্রাপ্ত তত্ত্বাবধায়ক নন।"
+          },
+          {
+            "en": "Some things are absent from the sources, and their absence is part of the record. None of the commentaries fetched for this verse speaks of abrogation in connection with it, so none is claimed here. None attaches a saying of the Prophet ﷺ to it, and none gives an occasion of revelation beyond al-Qurtubi's naming of the Makkan disbelievers as those addressed. The grouped section of Ma'arif al-Qur'an that covers this verse spends its pages on the people of Yunus (AS) and does not take this verse up.",
+            "bn": "সূত্রে কী নেই, সেটাও হিসাবের অংশ। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াত প্রসঙ্গে নাসখ বা রহিত হওয়ার কথা বলে না। তাই এখানেও তেমন কোনো দাবি করা হচ্ছে না। কোনো তাফসীর এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করে না। নাযিলের কোনো উপলক্ষও কেউ উল্লেখ করে না, কুরতুবী শুধু বলে দেন যে সম্বোধন মক্কার কাফিরদের প্রতি। মাআরিফুল কুরআনের যে অংশে এ আয়াতটি পড়েছে, তার পুরোটাই ইউনুস (আঃ)-এর কওমের আলোচনা, এ আয়াত নিয়ে সেখানে কিছু বলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unmoved, and Pressing No One",
+          "bn": "অটল, তবু কারও ওপর চাপ নেই"
+        },
+        "p": [
+          {
+            "en": "Look at what the verse contains and what it leaves out. There is a refusal, an affirmation and an order received, and no clause that demands anything of the listeners. The firmness lies in what the Messenger ﷺ will not do, which answers the hope the Muyassar describes, that he could be turned. The restraint lies in what he does not require of them. 2:256 states that principle as law: there is no compulsion in religion; the right way has become distinct from the wrong.",
+            "bn": "আয়াতে কী আছে আর কী নেই, খেয়াল করুন। আছে একটি অস্বীকার, একটি ঘোষণা আর পাওয়া একটি হুকুমের কথা। শ্রোতাদের কাছে কিছু দাবি করার মতো একটি বাক্যও নেই। দৃঢ়তা হলো রাসূল ﷺ যা করবেন না তাতে। মুয়াসসার যে আশার কথা বলে, তাঁকে পথ থেকে সরানো যাবে, এ দৃঢ়তা তারই জবাব। আর সংযম হলো তিনি তাদের ওপর যা চাপিয়ে দেন না তাতে। ২:২৫৬ আয়াত এ নীতিকে বিধান আকারে বলে: দ্বীনের ব্যাপারে কোনো জবরদস্তি নেই, সঠিক পথ ভুল পথ থেকে স্পষ্ট হয়ে গেছে।"
+          },
+          {
+            "en": "The people addressed were, by al-Qurtubi and at-Tabari, the idolaters of Makkah in the Prophet's lifetime. The verse describes what it describes and licenses nothing against any living person or community, and it gives no warrant for contempt toward anyone of another faith. When your own belief is doubted at work or at home, it offers a way to answer: say whom you worship and why, say you were commanded, and leave the doubt with its owner. O Allah, keep me among the believers, firm without harshness.",
+            "bn": "কুরতুবী ও তাবারীর ভাষ্যে যাদের সম্বোধন করা হয়েছিল, তারা নবী ﷺ-এর জীবদ্দশার মক্কার মুশরিক। আয়াতটি যা বর্ণনা করে তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না, অন্য ধর্মের কাউকে তুচ্ছ করার সনদও দেয় না। কর্মস্থলে বা ঘরে কেউ আপনার বিশ্বাস নিয়ে সন্দেহ তুললে, এ আয়াত জবাবের একটা ধরন শিখিয়ে দেয়। বলুন আপনি কার ইবাদত করেন আর কেন করেন, বলুন যে আপনাকে আদেশ করা হয়েছে, তারপর সন্দেহটা যার, তার কাছেই রেখে দিন। হে আল্লাহ, আমাকে মুমিনদের মধ্যে রাখুন, অটল রাখুন, কিন্তু কঠোর হতে দেবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "10:109": {
     "sections": [
       {
