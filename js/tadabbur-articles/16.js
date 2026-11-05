@@ -307,6 +307,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Rain, the Sky",
+          "bn": "বৃষ্টির পরে আকাশ"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nahl has been counting gifts. In 16:10 Allah sends down water from the sky for drink and pasture; in 16:11 that water brings up crops, olives, palms, grapes and every kind of fruit. Then 16:12 lifts the gaze from the soil: wa sakhkhara lakumu al-layla wa al-nahara wa al-shamsa wa al-qamar, and He subjected for you the night and the day, the sun and the moon. At-Tabari ties it to what came before: among His favours to you, people, alongside those He mentioned earlier, is that He subjected these for you.",
+            "bn": "সূরা নাহল একের পর এক নিয়ামত গুনে চলেছে। ১৬:১০ আয়াতে আল্লাহ আকাশ থেকে পানি নামান, তাতে পানীয় আর পশুর চারণভূমি। ১৬:১১ আয়াতে সেই পানিতে জন্মায় শস্য, যায়তূন, খেজুর, আঙুর আর সব রকমের ফল। এরপর ১৬:১২ দৃষ্টিকে মাটি থেকে তুলে নেয়: ওয়া সাখখারা লাকুমুল লাইলা ওয়ান নাহারা ওয়াশ শামসা ওয়াল কামার, আর তিনি তোমাদের জন্য অধীন করে দিয়েছেন রাত ও দিন, সূর্য ও চাঁদ। তাবারী আয়াতটিকে আগের কথার সঙ্গে জুড়ে দেন: হে মানুষ, আগে যেসব নিয়ামতের কথা বলা হয়েছে, তার সঙ্গে তোমাদের প্রতি তাঁর আরেক নিয়ামত হলো, তিনি এগুলোকে তোমাদের জন্য অধীন করে দিয়েছেন।"
+          },
+          {
+            "en": "The verse is fifteen words in the Arabic, and it moves in three steps. First one verb takes four objects, two of them times and two of them lights. Then the stars come in a clause of their own in the reading this app's text follows: wa al-nujumu musakhkharatun bi-amrih, and the stars are subjected by His command. Last comes the verdict: inna fi dhalika la-ayatin li-qawmin ya'qilun, in that are signs for a people who reason. Ibn Kathir reads the whole as Allah alerting His servants to His great signs and His immense favours.",
+            "bn": "আরবিতে আয়াতটি পনেরো শব্দের, আর তা এগোয় তিনটি ধাপে। প্রথমে একটি ক্রিয়া, তার অধীনে চারটি জিনিস: দুটি সময়, দুটি আলো। তারপর এ অ্যাপের আরবি পাঠ যে কিরাআত অনুসরণ করে, তাতে তারকারাজি আসে আলাদা এক বাক্যে: ওয়ান নুজূমু মুসাখখারাতুম বিআমরিহ, আর তারকারাজি তাঁর হুকুমে অধীন। শেষে আসে রায়: ইন্না ফী যালিকা লাআয়াতিল লিকাওমিই ইয়া'কিলূন, এতে নিদর্শন রয়েছে সেই লোকদের জন্য যারা বুদ্ধি খাটায়। ইবন কাসীরের পাঠে পুরো আয়াতটি হলো বান্দাদের প্রতি আল্লাহর সতর্ক-ইশারা, তাঁর মহান নিদর্শন আর বিপুল অনুগ্রহের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rest by Night, Work by Day",
+          "bn": "রাতে বিশ্রাম, দিনে জীবিকা"
+        },
+        "p": [
+          {
+            "en": "The night and the day come first, and the commentators read them as a working pair. At-Tabari says He subjected them to alternate over you, the one for going about your livelihood and the other for your rest. The Muyassar puts it in two phrases: the night for your rest, the day for your living. Al-Qurtubi says the pair is for stillness and for work, and supports it with 28:73: out of His mercy He made for you the night and the day, that you may rest in it and seek of His bounty.",
+            "bn": "প্রথমে রাত ও দিন, আর তাফসীরকারেরা দুটিকে দেখেন একজোড়া কর্মী হিসেবে। তাবারী বলেন, তিনি এ দুটিকে অধীন করেছেন যাতে তোমাদের উপর পালা করে আসে। একটি তোমাদের জীবিকার ছোটাছুটির জন্য, অন্যটি বিশ্রামের জন্য। মুয়াসসার কথাটা বলে দুই টুকরোয়: রাত তোমাদের আরামের জন্য, দিন তোমাদের রুজির জন্য। কুরতুবী বলেন, জোড়াটি স্থিরতা আর কাজের জন্য, এবং দলিল আনেন ২৮:৭৩ থেকে: তিনি নিজ রহমতে তোমাদের জন্য রাত ও দিন বানিয়েছেন, যাতে তোমরা রাতে বিশ্রাম নাও আর দিনে তাঁর অনুগ্রহ তালাশ কর।"
+          },
+          {
+            "en": "As-Sa'di widens the day's share. By night you settle, sleep and rest; by day you spread out in your livelihoods and in what benefits your religion and your world. The day, in his reading, is not only for earning: its hours also carry whatever serves one's faith. He opens his gloss with a strong claim about all these gifts together. Allah subjected them for your benefit and your many interests, in such a way that you can never do without them.",
+            "bn": "সা'দী দিনের ভাগটা আরেকটু বড় করে দেখেন। রাতে তোমরা থিতু হও, ঘুমাও, বিশ্রাম নাও। দিনে ছড়িয়ে পড় জীবিকার খোঁজে, দ্বীন আর দুনিয়ার কল্যাণের কাজে। তাঁর পাঠে দিন শুধু রোজগারের সময় নয়। ঈমানের কাজে যা লাগে, তাও দিনের আলোয় হয়। তাফসীরের শুরুতেই তিনি এই সব নিয়ামত নিয়ে একটা জোরালো কথা বলেন: আল্লাহ এগুলোকে তোমাদের উপকার আর নানা প্রয়োজনের জন্য এমনভাবে অধীন করেছেন যে এগুলো ছাড়া তোমাদের কখনো চলবে না।"
+          },
+          {
+            "en": "What subjection means here, Ma'arif al-Qur'an states on this very verse. Allah made the night and the day subservient to His command so that they serve human beings: the night brings comfort, and the day smooths the ways of work. It adds that the word never means the day and the night begin to alternate at human command. The page for 14:32 draws the same line more fully, and it holds here unchanged: the benefit is given to people, while the command stays with Allah.",
+            "bn": "এখানে 'অধীন করা' মানে কী, মাআরিফুল কুরআন এই আয়াতেই তা বলে দেয়। আল্লাহ রাত ও দিনকে নিজের হুকুমের অনুগত করেছেন, যাতে তারা মানুষের সেবা করে। রাত আনে আরাম, দিন সহজ করে দেয় কাজের পথ। সঙ্গে সে বলে, এর অর্থ কখনোই এ নয় যে রাত-দিন মানুষের হুকুমে পালা বদলায়। ১৪:৩২ আয়াতের পাতায় এই সীমারেখা আরও বিস্তারে টানা হয়েছে, আর এখানেও তা হুবহু খাটে: উপকার পায় মানুষ, হুকুম থাকে আল্লাহর হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Light and the Count of Years",
+          "bn": "আলো আর বছরের হিসাব"
+        },
+        "p": [
+          {
+            "en": "Then the sun and the moon. At-Tabari names their purpose as knowing the times of your ages, your months and your years, and the soundness of your livelihoods. The Muyassar separates the two lights: He subjected the sun as radiance and the moon as light, and for knowing the years and the reckoning, among other benefits. Its wording follows 10:5, where the sun is made a radiance and the moon a light, measured out in stations so that you may know the number of years and the count.",
+            "bn": "এরপর সূর্য ও চাঁদ। তাবারী এদের কাজ বলেন এভাবে: তোমাদের কাল, মাস আর বছরের সময় জানা, আর জীবিকার কাজ ঠিকঠাক চলা। মুয়াসসার দুই আলোকে আলাদা করে: সূর্যকে অধীন করেছেন দীপ্তি হিসেবে, চাঁদকে আলো হিসেবে, আর বছর ও হিসাব জানার জন্য, সঙ্গে আরও নানা উপকার। তার এ ভাষা ১০:৫ আয়াতের সঙ্গে মেলে। সেখানে সূর্যকে করা হয়েছে দীপ্তিময়, চাঁদকে আলো, আর চাঁদের জন্য মনযিল নির্ধারিত, যাতে তোমরা বছরের সংখ্যা আর হিসাব জানতে পার।"
+          },
+          {
+            "en": "As-Sa'di gives the longest list. From the sun and the moon come brightness, light and radiance; the good of trees, fruits and plants; the drying of damp; the removal of cold that harms the land and the body; and other necessities that follow from their being there. Al-Qurtubi, glossing the sun, the moon and the stars together, adds the ripening of fruit and crops, and the Muyassar ties that ripening to the stars. None of this is offered as a lesson on the sky's workings. It is a list of gifts, read at the level of a farmer's year.",
+            "bn": "সবচেয়ে লম্বা তালিকা দেন সা'দী। সূর্য আর চাঁদ থেকে আসে উজ্জ্বলতা, আলো আর কিরণ। গাছপালা, ফলমূল আর উদ্ভিদের পরিচর্যা হয় তাদের দিয়ে। ভেজা জিনিস শুকায়, জমি আর শরীরের ক্ষতিকর ঠান্ডা দূর হয়। আর আছে আরও এমন সব প্রয়োজন, যা তাদের থাকার সঙ্গেই জুড়ে আছে। কুরতুবী সূর্য, চাঁদ আর তারকাকে একসঙ্গে ব্যাখ্যা করে যোগ করেন ফল আর শস্য পাকার কথা। মুয়াসসার এই পাকার কথাটা জোড়ে তারকার সঙ্গে। এর কোনোটাই আকাশের কলকব্জা শেখানোর পাঠ নয়। এ হলো নিয়ামতের তালিকা, এক কৃষকের সারা বছরের চোখ দিয়ে দেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lamps for the Dark Roads",
+          "bn": "অন্ধকার পথের প্রদীপ"
+        },
+        "p": [
+          {
+            "en": "The stars are named for one use above all. At-Tabari says they are subjected for you by the command of Allah, running in their orbit, so that you find your way by them in the darkness of land and sea. As-Sa'di gives the sun, the moon and the stars together the adornment of the sky as well as guidance, the knowing of times and the reckoning of ages. Four verses later the surah says it in its own words: wa bi-al-najmi hum yahtadun, and by the star they find their way (16:16).",
+            "bn": "তারকারাজির কথা আসে মূলত একটি কাজের জন্য। তাবারী বলেন, আল্লাহর হুকুমে এরা তোমাদের জন্য অধীন, নিজ কক্ষপথে চলে, যাতে স্থল আর সমুদ্রের অন্ধকারে তোমরা এদের দেখে পথ খুঁজে পাও। সা'দী সূর্য, চাঁদ আর তারকাকে একসঙ্গে ধরে বলেন, এদের মধ্যে আছে আকাশের শোভা, পথের দিশা, সময় জানা আর কালের হিসাব। চারটি আয়াত পরে সূরাটি নিজের ভাষাতেই কথাটা বলে: ওয়া বিন নাজমি হুম ইয়াহতাদূন, আর তারকা দেখে তারা পথ পায় (১৬:১৬)।"
+          },
+          {
+            "en": "Ibn Kathir dwells on order. The stars, fixed and moving, spread through the heavens as light for those who seek their way in the darkness, and each travels in the orbit Allah set for it, with a measured motion that neither adds to it nor falls short. All of them are under His power, His authority, His subjecting, His decree and His directing. He then quotes 7:54, where the same words appear: and the sun, the moon and the stars, subjected by His command. That verse has its own page; here it confirms the phrase.",
+            "bn": "ইবন কাসীর জোর দেন শৃঙ্খলার উপর। স্থির আর চলমান তারাগুলো আকাশজুড়ে ছড়ানো, অন্ধকারে যারা পথ খোঁজে তাদের জন্য আলো হয়ে। প্রত্যেকটি চলে আল্লাহর ঠিক করে দেওয়া কক্ষপথে, মাপা গতিতে, এক চুল বেশি নয়, কমও নয়। সবই তাঁর ক্ষমতা, তাঁর কর্তৃত্ব, তাঁর অধীনতা, তাঁর নির্ধারণ আর তাঁর পরিচালনার নিচে। এরপর তিনি উদ্ধৃত করেন ৭:৫৪, যেখানে একই শব্দ এসেছে: আর সূর্য, চাঁদ ও তারকারাজি, তাঁর হুকুমে অধীন। সে আয়াতের আলাদা পাতা আছে। এখানে তা শুধু শব্দবন্ধটির সাক্ষ্য দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Reciters Read It",
+          "bn": "কারীদের পাঠে ভিন্নতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records how the reciters differ over the end of the verse. Ibn 'Amir and the people of Sham read wa al-shamsu wa al-qamaru wa al-nujumu musakhkharatun, all in the nominative, as a subject and its predicate. The rest read the accusative, joined to what comes before as further objects of the verb. Hafs, from 'Asim, puts wa al-nujumu alone in the nominative, with musakhkharatun as its predicate. Al-Baghawi reports Hafs's reading the same way, as a fresh subject. The Arabic text shown in this app follows Hafs.",
+            "bn": "আয়াতের শেষ অংশ কারীরা কীভাবে পড়েছেন, কুরতুবী তার বিবরণ দেন। ইবন আমির আর শামবাসীরা পড়েছেন ওয়াশ শামসু ওয়াল কামারু ওয়ান নুজূমু মুসাখখারাতুন, পুরোটাই পেশ দিয়ে, উদ্দেশ্য আর বিধেয় হিসেবে। বাকিরা পড়েছেন যবর দিয়ে, আগের শব্দগুলোর সঙ্গে জুড়ে, একই ক্রিয়ার আরও কর্ম হিসেবে। আসিম থেকে হাফস শুধু ওয়ান নুজূমু পেশ দিয়ে পড়েছেন, আর মুসাখখারাতুন তার বিধেয়। বাগাভীও হাফসের কিরাআত একইভাবে উল্লেখ করেন, নতুন বাক্যের শুরু হিসেবে। এ অ্যাপে যে আরবি পাঠ দেখানো হয়, তা হাফসের কিরাআত।"
+          },
+          {
+            "en": "Al-Qurtubi adds a reading reported without a name: the three nouns in the accusative and musakhkharatun alone in the nominative, as the predicate of an unstated subject, they are subjected. And where musakhkharatin is read in the accusative, he calls it a confirming circumstantial phrase, which restates what the verb already said, like musaddiqan in wa huwa al-haqqu musaddiqan, while it is the truth, confirming (2:91). In that reading the stars are a further object of He subjected for you, and the word subjected comes twice for emphasis.",
+            "bn": "কুরতুবী আরেকটি কিরাআতের কথা বলেন, কারও নাম ছাড়া: তিনটি বিশেষ্য যবর দিয়ে, আর শুধু মুসাখখারাতুন পেশ দিয়ে, এক উহ্য উদ্দেশ্যের বিধেয় হিসেবে, অর্থাৎ 'সেগুলো অধীন'। আর যেখানে মুসাখখারাতিন যবরের দিকে পড়া হয়, সেখানে তিনি একে বলেন তাকিদের হাল, অর্থাৎ ক্রিয়াটি যা বলে দিয়েছে সেটাই আবার জোর দিয়ে বলা। উদাহরণ দেন ২:৯১ আয়াতের ওয়া হুওয়াল হাক্কু মুসাদ্দিকান থেকে: অথচ তা-ই সত্য, সত্যায়নকারী হয়ে। এ পাঠে তারকারাজি 'তিনি তোমাদের জন্য অধীন করেছেন' ক্রিয়ারই আরেকটি কর্ম, আর 'অধীন' কথাটা জোর দিতে দুবার এসেছে।"
+          },
+          {
+            "en": "None of the fetched commentaries spells out what the difference does to the sense, so this is the article's own reading of the grammar al-Qurtubi gives. In the majority reading one verb runs through the whole list, and the stars are subjected for you like the night and the sun. In Hafs's reading the list closes at the moon and a new sentence begins, a statement about the stars' standing condition, ending on bi-amrih, by His command, which al-Baghawi glosses as by His permission. The readings do not pull apart: what is subjected for you is subjected by His command.",
+            "bn": "এই পার্থক্যে অর্থে কী বদলায়, সংগৃহীত কোনো তাফসীর তা খুলে বলেনি। তাই নিচের কথাটা কুরতুবীর দেওয়া ব্যাকরণ থেকে এ লেখার নিজস্ব পাঠ। অধিকাংশের কিরাআতে একটি ক্রিয়াই গোটা তালিকা জুড়ে চলে, রাত আর সূর্যের মতো তারকাও তোমাদের জন্য অধীন। হাফসের কিরাআতে তালিকা চাঁদে এসে থামে, তারপর শুরু হয় নতুন বাক্য। সে বাক্য তারকার স্থায়ী অবস্থার কথা বলে, আর শেষ হয় বিআমরিহ দিয়ে, তাঁর হুকুমে। বাগাভী এর ব্যাখ্যা করেন: তাঁর অনুমতিতে। দুই পাঠ পরস্পরবিরোধী নয়। যা তোমাদের জন্য অধীন, তা অধীন তাঁরই হুকুমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Signs for Minds at Work",
+          "bn": "সচল বুদ্ধির জন্য বহু নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "16:11 ends with ayah, a sign, and so does 16:13. Of the three, this verse alone says ayat, signs. As-Sa'di gives the reason. In the sun, the moon and the stars lie the adornment of the sky, guidance in the darkness of land and sea, and the knowing of times and the reckoning of ages, whose indications vary and whose signs turn many ways, and for this He gathered them in the plural. One verse about the sky holds many separate proofs, not one.",
+            "bn": "১৬:১১ আয়াত শেষ হয়েছে আয়াহ দিয়ে, অর্থাৎ একটি নিদর্শন। ১৬:১৩-ও তাই। তিনটির মধ্যে শুধু এই আয়াতে আছে আয়াত, বহুবচনে, অর্থাৎ বহু নিদর্শন। সা'দী এর কারণ বলেন। সূর্য, চাঁদ আর তারকায় আছে আকাশের শোভা, স্থল আর সমুদ্রের অন্ধকারে পথের দিশা, সময় জানা আর কালের হিসাব। এদের ইঙ্গিত নানা রকম, এদের নিদর্শন নানা দিকে মোড় নেয়। এ কারণেই তিনি সেগুলোকে বহুবচনে একত্র করেছেন। আকাশ নিয়ে একটি আয়াতের ভেতরে তাই একটি নয়, অনেকগুলো আলাদা প্রমাণ।"
+          },
+          {
+            "en": "Then li-qawmin ya'qilun, for a people who reason. As-Sa'di: for those who have minds and put them to use in pondering and thought, minds ready for what they were made for, that grasp what they see and hear, not like the gaze of the heedless, whose share of looking is the share of beasts without reason. At-Tabari: people who understand the proofs of Allah and grasp His alerting them. Ibn Kathir and al-Qurtubi both say the people reason 'an Allah, an understanding taken from Allah, of what He alerted them to.",
+            "bn": "এরপর লিকাওমিই ইয়া'কিলূন, যারা বুদ্ধি খাটায় তাদের জন্য। সা'দীর ব্যাখ্যা: যাদের বুদ্ধি আছে আর তারা তা কাজে লাগায় গভীর ভাবনা ও চিন্তায়। সে বুদ্ধি যে কাজের জন্য তৈরি, তার জন্য প্রস্তুত, যা দেখে আর শোনে তা বোঝে। গাফিলদের দেখার মতো নয়, যাদের দেখার ভাগ বুদ্ধিহীন পশুর ভাগের সমান। তাবারীর ব্যাখ্যা: যারা আল্লাহর প্রমাণগুলো বোঝে আর তাঁর সতর্ক-ইশারা ধরতে পারে। ইবন কাসীর আর কুরতুবী দুজনেই বলেন, তারা বোঝে আল্লাহর কাছ থেকে, অর্থাৎ তিনি যার দিকে ইশারা করেছেন সেই বুঝ তাঁর কাছ থেকেই নেয়।"
+          },
+          {
+            "en": "Why does this verse end with reason, when 16:11 ends with yatafakkarun, who give thought, and 16:13 with yadhdhakkarun, who take heed? None of the commentaries fetched for this verse addresses the change, so what follows is this article's own observation and no more. Growth from rain is a process thought can follow, seed to harvest. The sky's signs are many and regular, and they ask the mind for a conclusion: what never strays is held by Someone. Ibn Kathir, in the English abridgement, glosses the next verse's heeding as remembering Allah's blessings and thanking Him.",
+            "bn": "১৬:১১ শেষ হয়েছে ইয়াতাফাক্কারূন দিয়ে, যারা চিন্তা করে। ১৬:১৩ শেষ হয়েছে ইয়াযযাক্কারূন দিয়ে, যারা উপদেশ নেয়। তাহলে এ আয়াত কেন শেষ হলো বুদ্ধির কথায়? সংগৃহীত কোনো তাফসীর এ বদল নিয়ে কিছু বলেনি, তাই নিচের কথাটা এ লেখার নিজস্ব পর্যবেক্ষণ, এর বেশি কিছু নয়। বৃষ্টি থেকে ফসল ফলা এমন এক ধারা, বীজ থেকে কাটা পর্যন্ত চিন্তা যার পিছু নিতে পারে। আকাশের নিদর্শন অনেক, আর নিয়মে বাঁধা। সেগুলো বুদ্ধির কাছে একটা সিদ্ধান্ত চায়: যা কখনো পথ ছাড়ে না, তাকে কেউ ধরে রেখেছেন। ইংরেজি সংক্ষিপ্ত ইবন কাসীর পরের আয়াতের উপদেশ নেওয়াকে ব্যাখ্যা করেন আল্লাহর নিয়ামত মনে রাখা আর তাঁর শোকর করা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Sun Is Eclipsed",
+          "bn": "সূর্যগ্রহণের দিনে"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it. A narration in al-Bukhari's Sahih uses the verse's own word for the two lights, and it is quoted here as a general report, not tied to 16:12. Abu Mas'ud (RA) narrated that the Prophet ﷺ said: The sun and the moon do not eclipse because of the death of someone from the people but they are two signs amongst the signs of Allah. When you see them stand up and pray. Al-Bukhari records it in his Sahih (1041).",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। বুখারীর সহীহ গ্রন্থের একটি বর্ণনায় দুই আলোর জন্য আয়াতের নিজের শব্দটিই এসেছে। এখানে তা উদ্ধৃত হলো সাধারণ বর্ণনা হিসেবে, ১৬:১২ আয়াতের সঙ্গে যুক্ত বর্ণনা হিসেবে নয়। আবু মাসঊদ (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: কোনো মানুষের মৃত্যুর কারণে সূর্য ও চাঁদে গ্রহণ লাগে না, বরং এ দুটি আল্লাহর নিদর্শনগুলোর মধ্যে দুটি নিদর্শন। যখন তোমরা তা দেখবে, দাঁড়িয়ে যাও আর নামায পড়। বুখারী তাঁর সহীহ গ্রন্থে এটি বর্ণনা করেছেন (১০৪১)।"
+          },
+          {
+            "en": "The narration answers a belief its own words imply, that an eclipse marks someone's death. The Prophet ﷺ turned that reading around. An eclipse is an ayah of Allah, a sign that points to Him, and its fitting answer is prayer. The sun and the moon serve people; they do not report on people's fortunes. What the verse calls signs for a people who reason, the narration shows in practice: reason looks at a darkened sun and turns towards its Lord, and stands to pray.",
+            "bn": "বর্ণনাটির ভাষা থেকেই বোঝা যায়, কারও কারও ধারণা ছিল গ্রহণ লাগে কারও মৃত্যুর কারণে। নবী ﷺ সেই ধারণা উল্টে দিলেন। গ্রহণ আল্লাহর এক আয়াহ, এমন নিদর্শন যা তাঁর দিকেই ইশারা করে, আর তার যথাযথ জবাব নামায। সূর্য আর চাঁদ মানুষের সেবা করে, মানুষের ভাগ্যের খবর দেয় না। আয়াত যাকে বলে বুদ্ধিমান লোকদের জন্য নিদর্শন, বর্ণনাটি তা হাতে-কলমে দেখায়। বুদ্ধি অন্ধকার হয়ে আসা সূর্যের দিকে তাকিয়ে নিজের রবের দিকে ফেরে, আর নামাযে দাঁড়িয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping Time by the Sky",
+          "bn": "আকাশ দেখে সময় চেনা"
+        },
+        "p": [
+          {
+            "en": "The verse gives no command, yet it suggests a daily practice. Take the night as at-Tabari and the Muyassar read it, as rest that was given, and lie down as one who has received a gift, not only as one who has stopped. Take the day as as-Sa'di reads it, as time for livelihood and for the good of one's religion, so that work and worship share the light. When a new moon begins a month, remember who set it, in at-Tabari's words, to mark months and years.",
+            "bn": "আয়াতে কোনো আদেশ নেই, তবু তা রোজকার একটা অভ্যাসের দিকে ইঙ্গিত করে। রাতকে নিন তাবারী আর মুয়াসসারের পাঠ অনুযায়ী, দেওয়া বিশ্রাম হিসেবে। শুতে যান উপহার পাওয়া মানুষের মতো, শুধু কাজ থামানো মানুষের মতো নয়। দিনকে নিন সা'দীর পাঠ অনুযায়ী, জীবিকা আর দ্বীনের কল্যাণের সময় হিসেবে, যাতে কাজ আর ইবাদত একই আলো ভাগ করে নেয়। নতুন চাঁদ যখন নতুন মাস শুরু করে, মনে করুন তাবারীর ভাষায় কে তাকে মাস আর বছর চেনানোর কাজে লাগিয়েছেন।"
+          },
+          {
+            "en": "And look up now and then, as the verse asks, with reason and not with the gaze of the heedless. The sun rises without being asked, and the stars keep their places by His command; no person orders them, and none needs to. That they serve people at all is a gift, which is why the surah keeps counting until 16:18 says the favours of Allah cannot be numbered. Signs for a people who reason: the reasoning ends where at-Tabari's gloss begins, with a favour, and a Giver to thank.",
+            "bn": "আর মাঝে মাঝে মাথা তুলে তাকান, আয়াত যেমন চায়, বুদ্ধি নিয়ে, গাফিলের চোখে নয়। কেউ না বললেও সূর্য ওঠে, আর তারারা তাঁর হুকুমে নিজের জায়গায় থাকে। কোনো মানুষ তাদের আদেশ দেয় না, দেওয়ার দরকারও পড়ে না। তারা যে মানুষের কাজে লাগে, সেটাই এক নিয়ামত। এ কারণেই সূরাটি গুনতে থাকে, শেষে ১৬:১৮ বলে দেয় আল্লাহর নিয়ামত গুনে শেষ করা যায় না। বুদ্ধিমানদের জন্য নিদর্শন: সে বুদ্ধি গিয়ে থামে সেখানে, যেখান থেকে তাবারীর ব্যাখ্যা শুরু হয়েছিল। সামনে থাকে এক নিয়ামত, আর এক দাতা, যাঁর শোকর করতে হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "16:18": {
     "sections": [
       {

@@ -22271,6 +22271,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet another's fear first with a word that settles it, and do not assume that what unsettles you cannot be carrying good news from Allah.",
     "lessonBn": "অন্যের ভয়কে আগে এমন কথা দিয়ে সামলান যা তাকে শান্ত করে, আর যা আপনাকে অস্থির করছে তা আল্লাহর পক্ষ থেকে সুসংবাদ বয়ে আনতে পারে না, এমন ধরে নেবেন না।"
+  },
+  "16:12": {
+    "reflectionEn": "The verses before this one speak of rain and what it grows. This one lifts the eyes. Night comes so that I can rest, day so that I can work, and the sun and the moon keep the count of my days, months and years. The stars hold their places by His command, and travellers have long found their way by them in the dark. I use all of this every day and command none of it. I cannot call the dawn an hour early or hold the night back. The verse calls these signs for a people who use their reason. Does the plain turning of evening and morning ever reason with me, or does it pass over me like weather?",
+    "reflectionBn": "এর আগের আয়াতগুলো বৃষ্টির কথা বলেছে, বৃষ্টিতে কী কী জন্মায় তার কথা বলেছে। এ আয়াত চোখ তুলে দেয় আকাশের দিকে। রাত আসে যাতে আমি বিশ্রাম নিতে পারি, দিন আসে যাতে কাজ করতে পারি। সূর্য আর চাঁদ আমার দিন, মাস আর বছরের হিসাব রাখে। তারাগুলো তাঁরই হুকুমে নিজ নিজ জায়গায় স্থির, অন্ধকারে মুসাফির বহুকাল ধরে সেগুলো দেখে পথ চিনেছে। এর সবই আমি রোজ কাজে লাগাই, অথচ কোনোটার উপর আমার হুকুম চলে না। ভোরকে এক ঘণ্টা আগে ডেকে আনতে পারি না, রাতকে আটকেও রাখতে পারি না। আয়াত বলছে, যারা বুদ্ধি খাটায় তাদের জন্য এসব নিদর্শন। সন্ধ্যা আর সকালের এই চেনা আসা-যাওয়া কি কখনো আমার বুদ্ধিকে কিছু বলে, নাকি আবহাওয়ার মতো মাথার উপর দিয়ে চলে যায়?",
+    "pointsEn": [
+      "When I lie down tonight, will I take the night as something given to me for rest, or only as the end of a long day?",
+      "What would change if the sun's rising and setting marked my prayers first and my plans second?",
+      "Which part of my life do I treat as my own, when it was only placed in my service by Someone else's command?",
+      "When did I last look at the night sky long enough for it to remind me of anything?",
+      "Do I use my reason on the signs around me, or only on my worries and my work?"
+    ],
+    "pointsBn": [
+      "আজ রাতে শুতে গিয়ে কি রাতটাকে বিশ্রামের জন্য পাওয়া উপহার হিসেবে নেব, নাকি শুধু লম্বা একটা দিনের শেষ হিসেবে?",
+      "সূর্য ওঠা আর ডোবা যদি আগে আমার নামাযের সময় বলে দিত আর পরে আমার কাজের পরিকল্পনা, তাহলে দিনটা কেমন বদলে যেত?",
+      "জীবনের কোন জিনিসটাকে আমি নিজের মালিকানা ভাবি, অথচ সেটা অন্য কারও হুকুমে শুধু আমার কাজে লাগানো হয়েছে?",
+      "শেষ কবে রাতের আকাশের দিকে এতক্ষণ তাকিয়েছি যে তা আমাকে কিছু মনে করিয়ে দিয়েছে?",
+      "চারপাশের নিদর্শন নিয়ে কি আমি বুদ্ধি খাটাই, নাকি বুদ্ধি খরচ হয় শুধু দুশ্চিন্তা আর কাজের পেছনে?"
+    ],
+    "lessonEn": "Take the night for rest and the day for work as gifts set to serve you by Allah's command, and let the ordered sky lead your reason to Him.",
+    "lessonBn": "রাতের বিশ্রাম আর দিনের কাজকে আল্লাহর হুকুমে আপনার সেবায় নিয়োজিত উপহার হিসেবে নিন, আর সুশৃঙ্খল আকাশ আপনার বুদ্ধিকে তাঁর দিকে নিয়ে যাক।"
   }
 };
 
