@@ -2787,6 +2787,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:74": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ashore, and a Second Road",
+          "bn": "তীরে নেমে দ্বিতীয় পথ"
+        },
+        "p": [
+          {
+            "en": "Fa-ntalaqa: so the two of them set out. The same verb opened the ship scene in 18:71 and will open the town scene in 18:77, and each time it marks a fresh trial. Ibn Kathir reads it simply as after that. The Muyassar fills the gap between the scenes: al-Khidr accepted the excuse of Musa (AS), the two left the ship, and as they walked along the shore they saw a boy playing with other boys, and al-Khidr killed him. As-Sa'di glosses ghulam with one word: young.",
+            "bn": "ফানতালাকা: অতঃপর তারা দুজন চলতে লাগলেন। এই একই ক্রিয়া দিয়ে ১৮:৭১ আয়াতে নৌকার দৃশ্য শুরু হয়েছিল, আর ১৮:৭৭ আয়াতে জনপদের দৃশ্যও শুরু হবে এ দিয়েই। প্রতিবারই এটি নতুন এক পরীক্ষার সূচনা। ইবন কাসীর সোজাসুজি এর মানে করেন: এরপর। দুই দৃশ্যের মাঝখানের ফাঁকটুকু মুয়াসসার ভরে দেয়। খিযির মূসা (আঃ)-এর ওজর মেনে নিলেন, দুজন নৌকা থেকে নামলেন। সাগরতীর ধরে হাঁটতে হাঁটতে তারা দেখলেন এক বালক অন্য বালকদের সঙ্গে খেলছে। খিযির তাকে হত্যা করলেন। গুলাম শব্দের ব্যাখ্যায় সাদী একটি শব্দই বলেন: ছোট।"
+          },
+          {
+            "en": "The commentators relay differing reports of how the boy was killed. Al-Qurtubi sets them side by side, suggests they need not conflict, and closes: Allah knows best what took place, and what came in the sound narration is enough for you. This article stops where he points. He also keeps a remark of Abu al-Aliya: none saw it but Musa (AS), and had the others seen it they would have stood between al-Khidr and the boy. The names given for the boy differ from report to report, and the verse rests on none of them.",
+            "bn": "বালকটিকে কীভাবে হত্যা করা হয়েছিল, সে নিয়ে তাফসীরকারেরা ভিন্ন ভিন্ন বর্ণনা আনেন। কুরতুবী সেগুলো পাশাপাশি রাখেন, বলেন এগুলোর মধ্যে বিরোধ না থাকারও সম্ভাবনা আছে। তারপর থামেন এ কথায়: কী ঘটেছিল আল্লাহই ভালো জানেন, আর সহীহ বর্ণনায় যা এসেছে তা-ই আপনার জন্য যথেষ্ট। এ লেখাও সেখানেই থামছে। কুরতুবী আবুল আলিয়ার একটি মন্তব্যও রেখেছেন: মূসা (আঃ) ছাড়া আর কেউ তা দেখেনি। অন্যরা দেখলে খিযির আর বালকের মাঝে বাধা হয়ে দাঁড়াত। বালকের নাম নিয়েও বর্ণনাগুলো একেক রকম, আর আয়াতের কোনো কথা সেসব নামের উপর নির্ভর করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Child, or a Grown Youth?",
+          "bn": "শিশু, নাকি সাবালক যুবক?"
+        },
+        "p": [
+          {
+            "en": "Was the boy a child at all? Al-Qurtubi says plainly that the scholars differed over whether he had reached maturity. The majority, he reports, held that he had not, which is why Musa (AS) called him a soul that had never sinned; and this is what the word ghulam requires, since among males it is said of a boy not yet mature. Al-Baghawi reports Ibn Abbas: he was a boy who had not reached the age of responsibility, and this, he adds, is the view of most.",
+            "bn": "বালকটি কি আদৌ শিশু ছিল? কুরতুবী স্পষ্ট বলেন, সে সাবালক হয়েছিল কি না, এ নিয়ে আলেমদের মতভেদ আছে। তাঁর বর্ণনায় অধিকাংশের মত হলো, সে সাবালক হয়নি। এ কারণেই মূসা (আঃ) তাকে এমন প্রাণ বলেছিলেন যে কখনো গুনাহ করেনি। গুলাম শব্দটিও এ অর্থই দাবি করে, কারণ পুরুষদের মধ্যে যে এখনো সাবালক হয়নি তাকেই গুলাম বলা হয়। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: সে এমন বালক ছিল যে তখনো দায়িত্বের বয়সে পৌঁছায়নি। বাগাভী যোগ করেন, অধিকাংশ আলেমের মতও এটাই।"
+          },
+          {
+            "en": "Al-Baghawi also has Ibn Abbas reason from Musa's own words: the prophet of Allah would only say have you killed a pure soul of a boy not yet grown. Ma'arif al-Qur'an follows the same line. Ghulam in Arabic usage means a minor, it says, Ibn Abbas and most commentators confirm it, and zakiyya, free of sin, fits either a prophet or a child for whom nothing is yet written against him. The Muyassar paraphrases him as a pure soul who had not reached the age of obligation.",
+            "bn": "বাগাভী ইবন আব্বাস (রাঃ)-এর আরেকটি যুক্তিও আনেন, মূসা (আঃ)-এর নিজের কথা থেকে: আল্লাহর নবী 'আপনি কি এক নিষ্পাপ প্রাণকে হত্যা করলেন' কথাটি কেবল তখনই বলতে পারেন, যখন সে অপ্রাপ্তবয়স্ক বালক। মাআরিফুল কুরআনও একই পথে চলে। তার কথায়, আরবি ব্যবহারে গুলাম মানে নাবালক, ইবন আব্বাস ও অধিকাংশ মুফাসসির এর সমর্থন করেন। আর যাকিয়্যাহ মানে গুনাহমুক্ত, যা হয় নবীর গুণ, নয়তো এমন শিশুর, যার আমলনামায় এখনো কোনো গুনাহ লেখা হয় না। মুয়াসসারও তাকে বলে এমন পবিত্র প্রাণ, যে শরীয়তের দায়িত্বের বয়সে পৌঁছায়নি।"
+          },
+          {
+            "en": "Others held the reverse. Al-Baghawi reports al-Hasan saying he was a man, and al-Kalbi describing a youth who robbed and then took shelter with his parents. Al-Qurtubi relays a report from Ibn Abbas, too, that he was a young man who waylaid travellers, so Ibn Abbas is quoted on both sides. This group argued that the Arabs keep the name ghulam for a young man, and that not in return for a soul implies a grown man, since a boy who has not reached puberty is not put to death for a life. Al-Qurtubi records both views.",
+            "bn": "অন্যরা উল্টো মত দিয়েছেন। বাগাভীর বর্ণনায় হাসান বলেন, সে ছিল প্রাপ্তবয়স্ক পুরুষ। আর কালবী বলেন, সে ছিল এক যুবক, যে ডাকাতি করত, তারপর গিয়ে মা-বাবার কাছে আশ্রয় নিত। কুরতুবী ইবন আব্বাস (রাঃ) থেকেও এক বর্ণনা আনেন যে সে ছিল পথে ডাকাতি করা এক যুবক। ফলে দুই মতের পক্ষেই ইবন আব্বাসের নাম আসে। এই দলের যুক্তি দুটি। আরবরা যুবককেও গুলাম বলে থাকে। আর 'প্রাণের বদলে নয়' কথাটি বোঝায় সে প্রাপ্তবয়স্ক, কারণ নাবালককে কারও প্রাণের বদলে মৃত্যুদণ্ড দেওয়া হয় না। কুরতুবী দুটি মতই লিপিবদ্ধ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zakiya and Zakiyya",
+          "bn": "যাকিয়াহ ও যাকিয়্যাহ"
+        },
+        "p": [
+          {
+            "en": "The word for pure comes in two readings. At-Tabari reports that most readers of the Hijaz and Basra read zakiya, with a long a, explaining it as a purified soul that has no sin and never sinned because of its youth, while most readers of Kufa read zakiyya, which they took as a repentant soul whose sins are forgiven. Al-Baghawi names the readers: Ibn Kathir the Makkan reader, Nafi', Abu Ja'far and Abu Amr read zakiya, and the rest zakiyya. Al-Qurtubi gives zakiyya to the Kufans and Ibn Amir.",
+            "bn": "পবিত্র অর্থের শব্দটি দুইভাবে পড়া হয়। তাবারী জানান, হিজায ও বসরার অধিকাংশ কারী পড়েছেন যাকিয়াহ, দীর্ঘ আ-সহ। তাঁদের ব্যাখ্যায় এর মানে এমন পবিত্র প্রাণ, যার কোনো গুনাহ নেই, অল্প বয়সের কারণে যে কখনো গুনাহই করেনি। কুফার অধিকাংশ কারী পড়েছেন যাকিয়্যাহ। তাঁরা এর মানে নিয়েছেন তওবাকারী প্রাণ, যার গুনাহ মাফ হয়ে গেছে। বাগাভী কারীদের নাম বলেন: মক্কার কারী ইবন কাসীর, নাফি, আবু জাফর ও আবু আমর পড়েছেন যাকিয়াহ, বাকিরা যাকিয়্যাহ। কুরতুবী যাকিয়্যাহ পাঠটি কুফাবাসী ও ইবন আমিরের বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "At-Tabari lists those who glossed the word as repentant: Ibn Abbas, Qatadah, al-Hasan and ad-Dahhak, each saying ta'iba. He then opens a second heading, for those who took it as a Muslim soul without sin, under which a report glosses it simply as muslima. Abu Amr ibn al-Ala', in both al-Baghawi and al-Qurtubi, drew a line between the two forms: zakiya is the one that never sinned, and zakiyya the one that sinned and then repented. Tha'lab, in al-Qurtubi, held zakiyya to be the more intense of the two.",
+            "bn": "যাঁরা শব্দটির মানে করেছেন তওবাকারী, তাবারী তাঁদের নাম দেন: ইবন আব্বাস, কাতাদা, হাসান ও দাহহাক। প্রত্যেকেই বলেছেন তাইবাহ। এরপর তিনি আলাদা শিরোনামে আনেন তাঁদের কথা, যাঁরা এর মানে নিয়েছেন গুনাহহীন মুসলিম প্রাণ। সেখানে একটি বর্ণনায় শব্দটির ব্যাখ্যা শুধু মুসলিমাহ। বাগাভী ও কুরতুবী দুজনেই আবু আমর ইবনুল আলার একটি পার্থক্য উদ্ধৃত করেন। যাকিয়াহ সেই প্রাণ, যে কখনো গুনাহ করেনি। আর যাকিয়্যাহ সেই প্রাণ, যে গুনাহ করে তারপর তওবা করেছে। কুরতুবীর বর্ণনায় সালাব মনে করতেন, দুটির মধ্যে যাকিয়্যাহ অর্থের দিক থেকে বেশি জোরালো।"
+          },
+          {
+            "en": "At-Tabari weighs it and settles on one meaning. He reports a Kufan scholar of Arabic who held zakiyya and zakiya to be the same, like qasiya and qasiyya, a soul that has committed no wrong, and he calls this correct in his view, since he found no difference between them anywhere in the speech of the Arabs. Both readings, he concludes, are widely transmitted with one meaning, so whichever a reader follows, he is right. Al-Kisa'i and al-Farra', in al-Baghawi, say the meaning is one.",
+            "bn": "তাবারী বিষয়টি ওজন করে একটি অর্থেই স্থির হন। তিনি কুফার এক আরবিভাষাবিদের মত আনেন, যাঁর কাছে যাকিয়্যাহ আর যাকিয়াহ একই, যেমন কাসিয়াহ আর কাসিয়্যাহ। দুটোরই মানে এমন প্রাণ, যে কোনো অপরাধ করেনি। তাবারী বলেন, তাঁর কাছে এটাই সঠিক, কারণ আরবদের ভাষায় কোথাও তিনি দুটির মধ্যে কোনো পার্থক্য পাননি। তাঁর সিদ্ধান্ত: দুটি পাঠই বিভিন্ন অঞ্চলে ব্যাপকভাবে প্রচলিত, অর্থও এক। তাই কারী যেটাই পড়ুন, ঠিকই পড়েছেন। বাগাভীর বর্ণনায় কিসাঈ ও ফাররাও বলেন, দুটির অর্থ এক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Life Owed for a Life",
+          "bn": "প্রাণের বদলে প্রাণের দায় নেই"
+        },
+        "p": [
+          {
+            "en": "Bi-ghayri nafsin: not in return for a soul. At-Tabari explains it as without retaliation for a soul it had killed, such that death became due upon it in requital. Al-Baghawi: it had not killed a soul by which death became due on it. Ibn Kathir: with no basis for killing him. In two words Musa (AS) names the ground on which the law he carried allowed a life to be taken in requital, and finds it absent. The same two words stand in 5:32, where whoever kills a soul, not in return for a soul or for corruption in the land, is as if he had killed all people.",
+            "bn": "বিগাইরি নাফস: কোনো প্রাণের বদলে নয়। তাবারীর ব্যাখ্যা, কেউ যদি কাউকে হত্যা করে, তবে কিসাস হিসেবে তার উপর মৃত্যুদণ্ড ওয়াজিব হয়। এখানে এমন কোনো কিসাস ছিল না। বাগাভী বলেন, সে এমন কোনো প্রাণ হত্যা করেনি যার কারণে তার মৃত্যুদণ্ড ওয়াজিব হতো। ইবন কাসীরের ভাষায়, তাকে হত্যা করার কোনো ভিত্তিই ছিল না। মূসা (আঃ) যে শরীয়ত বহন করতেন, তাতে কিসাস হিসেবে প্রাণ নেওয়ার যে ভিত্তি ছিল, দুটি শব্দে তিনি সেটার উল্লেখ করে দেখালেন যে তা এখানে নেই। এই দুটি শব্দই এসেছে ৫:৩২ আয়াতে। সেখানে বলা হয়েছে, কেউ যদি কোনো প্রাণের বদলে কিংবা দুনিয়ায় ফাসাদ ছড়ানোর কারণ ছাড়া কাউকে হত্যা করে, সে যেন সব মানুষকেই হত্যা করল।"
+          },
+          {
+            "en": "As-Sa'di, gathering lessons at the story's close on 18:82, draws two from this verse. Killing is among the greatest of sins, he says, because of what Musa (AS) said of the boy's killing, you have done a terrible thing. And killing in lawful retaliation is not condemned, because of the words not in return for a soul. The objection, then, is not to every taking of life but to taking a life the law has not judged. Musa speaks here as the outward law speaks, and the verse records his words as they were said.",
+            "bn": "কাহিনির শেষে ১৮:৮২ আয়াতের আলোচনায় সাদী যে শিক্ষাগুলো একত্র করেন, তার দুটি এই আয়াত থেকে নেওয়া। তিনি বলেন, হত্যা সবচেয়ে বড় গুনাহগুলোর একটি। কারণ বালকটির হত্যা নিয়ে মূসা (আঃ) বলেছিলেন, আপনি তো ভয়ংকর এক কাজ করলেন। আবার ন্যায়সংগত কিসাসে প্রাণদণ্ড নিন্দনীয় নয়, কারণ তিনি বলেছিলেন, প্রাণের বদলে নয়। আপত্তিটা তাই সব প্রাণদণ্ডের বিরুদ্ধে নয়। আপত্তি সেই প্রাণ নেওয়ার বিরুদ্ধে, যার বিচার শরীয়ত করেনি। মূসা (আঃ) এখানে বাহ্যিক শরীয়তের ভাষাতেই কথা বলছেন, আর আয়াত তাঁর কথাগুলো ঠিক যেমন বলা হয়েছিল তেমনই রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heavier Than the Holed Ship",
+          "bn": "ছিদ্র করা নৌকার চেয়েও ভারী"
+        },
+        "p": [
+          {
+            "en": "La-qad ji'ta shay'an nukran: you have done a terrible thing. At-Tabari glosses it as something munkar, a deed not recognised as right. Ibn Kathir: plainly reprehensible. The Muyassar: a gravely reprehensible thing. At the ship, in 18:71, Musa (AS) had used another word, imr. At-Tabari closes on Qatadah's line that nukr is more severe than imr, and Ibn Kathir notes that Musa objected this time more strongly than the first, and spoke at once.",
+            "bn": "লাকাদ জি'তা শাইআন নুকরা: আপনি তো ভয়ংকর এক কাজ করলেন। তাবারী এর ব্যাখ্যা করেন মুনকার দিয়ে, অর্থাৎ এমন কাজ যাকে ভালো বলে চেনা যায় না। ইবন কাসীরের ভাষায়, যার মন্দ হওয়া স্পষ্ট। মুয়াসসার বলে, গুরুতর এক মন্দ কাজ। নৌকার ঘটনায়, ১৮:৭১ আয়াতে, মূসা (আঃ) অন্য একটি শব্দ বলেছিলেন: ইমর। তাবারী শেষ করেন কাতাদার এ কথায় যে নুকর ইমরের চেয়ে কঠিন। ইবন কাসীরও লক্ষ করেন, এবার মূসা (আঃ) প্রথমবারের চেয়ে বেশি জোর দিয়ে আপত্তি করেছিলেন, আর বলেছিলেন সঙ্গে সঙ্গেই।"
+          },
+          {
+            "en": "Why more severe? Al-Baghawi gives Qatadah's reason: here the destruction was real, while at the ship there was only the fear of it. He then reports the reverse view, that imr was the greater because the ship threatened to drown many. Al-Qurtubi sets out the same two camps and adds Ibn Atiyya, who held that the words carry two different meanings: imr is the more dreadful as a great thing still awaited, while nukr is plain in its wrong because the harm has already fallen.",
+            "bn": "কেন বেশি কঠিন? বাগাভী কাতাদার কারণটা জানান। এখানে প্রাণনাশ সত্যিই ঘটেছে, আর নৌকায় ছিল কেবল প্রাণনাশের আশঙ্কা। এরপর তিনি উল্টো মতও আনেন: ইমরই বড়, কারণ নৌকায় অনেক মানুষের ডুবে মরার আশঙ্কা ছিল। কুরতুবীও এই দুই পক্ষের কথা তুলে ধরেন, সঙ্গে আনেন ইবন আতিয়্যার মত। তাঁর মতে শব্দ দুটির অর্থই আলাদা। ইমর বেশি ভয়ংকর, কারণ তা আসন্ন এক বড় বিপদ। আর নুকরের অন্যায় স্পষ্ট, কারণ ক্ষতিটা এরই মধ্যে ঘটে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Forgetfulness This Time",
+          "bn": "এবার আর ভুলে যাওয়া নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the moment through Musa's (AS) own state. When al-Khidr killed a young boy who had not sinned, he writes, anger rose strongly in Musa and religious zeal took hold of him, and he said: what reprehensible thing is like killing a child who carries no sin and has killed no one? Then as-Sa'di draws the contrast with the ship. The first, from Musa, was forgetfulness; this time it was not forgetfulness but a lack of patience. That is as-Sa'di's reading, and it is given here as his.",
+            "bn": "সাদী মুহূর্তটি পড়েন মূসা (আঃ)-এর মনের অবস্থা দিয়ে। তিনি লেখেন, খিযির যখন গুনাহহীন এক ছোট বালককে হত্যা করলেন, তখন মূসা (আঃ)-এর ভেতরে প্রবল রাগ জেগে উঠল, দ্বীনি আত্মমর্যাদা তাঁকে পেয়ে বসল। তিনি বললেন: যে শিশুর কোনো গুনাহ নেই, যে কাউকে হত্যা করেনি, তাকে হত্যা করার মতো মন্দ কাজ আর কী হতে পারে? এরপর সাদী নৌকার ঘটনার সঙ্গে তুলনা টানেন। প্রথমবার মূসা (আঃ)-এর দিক থেকে ছিল ভুলে যাওয়া। এবার তা ভুলে যাওয়া নয়, বরং ধৈর্য রাখতে না পারা। এটি সাদীর পাঠ, আর এখানে তাঁর পাঠ হিসেবেই তা রাখা হলো।"
+          },
+          {
+            "en": "The word forgetfulness for the ship has its source in the Prophet's ﷺ own telling. In the long narration of the journey in Sahih al-Bukhari (122), from Ubayy ibn Ka'b, after Musa says do not blame me for what I forgot, the text runs: so the first, from Musa, was forgetfulness. It then brings the two to the boy among his playmates and gives Musa's words, have you killed a pure soul, not in return for a soul? At al-Khidr's reply, Sufyan ibn Uyayna, a narrator in its chain, remarks that this was more emphatic, a point that belongs to the next verse.",
+            "bn": "নৌকার ঘটনায় ভুলে যাওয়ার কথাটির উৎস নবী ﷺ-এর নিজের বর্ণনা। সফরের দীর্ঘ বর্ণনাটি সহীহ বুখারীতে (১২২) আছে, উবাই ইবন কাব (রাঃ) থেকে। সেখানে মূসা (আঃ) যখন বলেন, আমি যা ভুলে গেছি তার জন্য আমাকে পাকড়াও করবেন না, তার পরেই আছে: প্রথমটি মূসার দিক থেকে ছিল ভুলে যাওয়া। এরপর বর্ণনাটি দুজনকে নিয়ে যায় সঙ্গীদের সঙ্গে খেলতে থাকা বালকটির কাছে, আর তুলে ধরে মূসা (আঃ)-এর কথা: আপনি কি এক নিষ্পাপ প্রাণকে হত্যা করলেন, কোনো প্রাণের বদলে নয়? খিযিরের জবাবের জায়গায় বর্ণনাকারী সুফিয়ান ইবন উয়াইনা মন্তব্য করেন, এটি আগেরটির চেয়ে বেশি জোরালো। সে কথা পরের আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge No One Inherits",
+          "bn": "যে জ্ঞানের উত্তরাধিকারী কেউ নেই"
+        },
+        "p": [
+          {
+            "en": "The commentators are plain about this. Al-Khidr did not act on a suspicion, nor on any right of his own. Al-Qurtubi writes that he killed the boy for what he knew of his hidden state, that the boy had been stamped a disbeliever as the sound hadith says, and that the killing of a child is not impossible if Allah permits it. On 18:80, on the view that the words we feared are al-Khidr's own, he adds that Allah had permitted him to use his judgement in taking a life in this way. As-Sa'di, there, has al-Khidr say he killed him because he had been shown it.",
+            "bn": "এ বিষয়ে তাফসীরকারেরা স্পষ্ট। খিযির কোনো সন্দেহের বশে বা নিজের কোনো অধিকারে কাজটি করেননি। কুরতুবী লেখেন, বালকটির ভেতরের গোপন অবস্থা তিনি জানতেন বলেই তাকে হত্যা করেছিলেন। সহীহ হাদীসের ভাষায়, তাকে কাফির হিসেবেই গড়া হয়েছিল। কুরতুবী আরও বলেন, আল্লাহ অনুমতি দিলে শিশুকে হত্যা করা অসম্ভব কিছু নয়। ১৮:৮০ আয়াতে 'আমরা আশঙ্কা করলাম' কথাটি খিযিরের নিজের, এই মত ধরে কুরতুবী যোগ করেন: এভাবে প্রাণ নেওয়ার ব্যাপারে নিজের বিবেচনা খাটানোর অনুমতি আল্লাহ খিযিরকেই দিয়েছিলেন। সাদীও সেই আয়াতে খিযিরের মুখে বলান: আমাকে তা জানিয়ে দেওয়া হয়েছিল বলেই আমি তাকে হত্যা করেছি।"
+          },
+          {
+            "en": "Closing the story, as-Sa'di calls these acts pure decree, which Allah carried out by the hand of this righteous servant, and from the same story he draws the rule for everyone else: rulings run on what is outward, and the judgements of this world in wealth and in blood attach to it. That is why Musa (AS) objected. Al-Khidr himself says in 18:82 that he did none of it of his own accord, and the article on that verse sets out why no one may claim his exemption for himself.",
+            "bn": "কাহিনির শেষে সাদী এই কাজগুলোকে বলেন নিরেট তাকদীর, যা আল্লাহ তাঁর এই নেক বান্দার হাত দিয়ে ঘটিয়েছেন। আর একই কাহিনি থেকে বাকি সবার জন্য তিনি নিয়ম টানেন: বিধান চলে বাহ্যিক অবস্থার উপর। সম্পদ আর রক্তের বিষয়ে দুনিয়ার সব ফয়সালা বাহ্যিক অবস্থা দেখেই হয়। এ কারণেই মূসা (আঃ) আপত্তি করেছিলেন। খিযির নিজেও ১৮:৮২ আয়াতে বলেন, এর কোনোটাই তিনি নিজের ইচ্ছায় করেননি। কেউ কেন তাঁর এই ব্যতিক্রম নিজের জন্য দাবি করতে পারে না, সে কথা ওই আয়াতের প্রবন্ধে বিস্তারিত আছে।"
+          },
+          {
+            "en": "So let it be said without any qualification: this story licenses nothing for any human being. No one may harm anyone on the strength of it, still less kill a child or an adult, and no one may claim to know, as al-Khidr was told, what another person will become. Ibn Abbas was asked in a letter about the killing of children, and Sahih Muslim (1812) records his reply: the Messenger of Allah did not kill them, so do not kill them, unless you know of them what the companion of Musa knew of the boy he killed. That knowledge came from Allah alone, so the door is shut.",
+            "bn": "তাই কোনো শর্ত ছাড়াই বলে রাখা দরকার: এ কাহিনি কোনো মানুষকে কোনো কিছুর অনুমতি দেয় না। এর জোরে কেউ কারও ক্ষতি করতে পারে না, শিশু বা প্রাপ্তবয়স্ক কাউকে হত্যা করা তো দূরের কথা। খিযিরকে যেমন জানানো হয়েছিল, তেমন করে অন্য কেউ ভবিষ্যতে কী হবে তা জানার দাবিও কেউ করতে পারে না। ইবন আব্বাস (রাঃ)-কে চিঠিতে শিশুদের হত্যা করার বিষয়ে জিজ্ঞেস করা হয়েছিল। সহীহ মুসলিম (১৮১২) তাঁর জবাব লিপিবদ্ধ করেছে: আল্লাহর রাসূল ﷺ তাদের হত্যা করেননি, তুমিও তাদের হত্যা করবে না, যদি না তুমি তাদের সম্পর্কে তা জানো, যা মূসার সঙ্গী জানতেন সেই বালক সম্পর্কে, যাকে তিনি হত্যা করেছিলেন। সে জ্ঞান এসেছিল কেবল আল্লাহর কাছ থেকে। তাই এ দরজা চিরতরে বন্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reason Held in Reserve",
+          "bn": "যে কারণ তোলা রইল পরে"
+        },
+        "p": [
+          {
+            "en": "The verse itself gives no reason. Musa (AS) objects, and the answer waits until al-Khidr gives it in 18:80 and 18:81: the boy's parents were believers, we feared, he says, that the boy would burden them with transgression and disbelief, and we intended that their Lord give them in his place one better in purity and nearer in mercy. The word for purity there, zakah, is from the same root as the zakiyya Musa spoke here. Sahih Muslim (2662) records the Prophet ﷺ saying: the young man whom al-Khidr killed was stamped a disbeliever, and had he lived he would have burdened his parents with transgression and disbelief.",
+            "bn": "আয়াতটি নিজে কোনো কারণ বলে না। মূসা (আঃ) আপত্তি করেন, আর জবাবের জন্য অপেক্ষা করতে হয় ১৮:৮০ ও ১৮:৮১ আয়াত পর্যন্ত, যেখানে খিযির তা খুলে বলেন। বালকের মা-বাবা ছিলেন মুমিন। খিযির বলেন, আমরা আশঙ্কা করলাম, সে বিদ্রোহ আর কুফর দিয়ে তাঁদের কষ্টে ফেলবে। তাই আমরা চাইলাম, তাঁদের রব তার বদলে তাঁদের এমন একজন সন্তান দিন, যে পবিত্রতায় উত্তম, মমতায় আরও কাছের। সেখানে পবিত্রতার শব্দ যাকাহ, মূসা (আঃ) এখানে যে যাকিয়্যাহ বলেছেন তারই ধাতু থেকে। সহীহ মুসলিম (২৬৬২) নবী ﷺ-এর এ বাণী লিপিবদ্ধ করেছে: খিযির যে বালককে হত্যা করেছিলেন, তাকে কাফির হিসেবেই গড়া হয়েছিল। সে বেঁচে থাকলে মা-বাবাকে বিদ্রোহ ও কুফরে জড়িয়ে ফেলত।"
+          },
+          {
+            "en": "What the verse leaves the reader holding is the space between an act and its reason. Ibn Kathir, on 18:80, relays Qatadah: the boy's parents rejoiced at his birth and grieved when he was killed, and had he remained he would have been their ruin, so let a person be content with Allah's decree, for what Allah decrees for a believer in what he dislikes is better for him than what He decrees in what he loves. That consolation is for those who suffer a loss they cannot explain. It is never a reason to cause such a loss.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় কাজ আর তার কারণের মাঝখানের ফাঁকটুকু। ১৮:৮০ আয়াতের আলোচনায় ইবন কাসীর কাতাদার কথা আনেন। বালকটি জন্মালে তার মা-বাবা খুশি হয়েছিলেন, তাকে হত্যা করা হলে শোক করেছিলেন। অথচ সে বেঁচে থাকলে তাদের ধ্বংসের কারণ হতো। তাই মানুষ যেন আল্লাহর ফয়সালায় সন্তুষ্ট থাকে। কারণ অপছন্দের বিষয়ে মুমিনের জন্য আল্লাহর ফয়সালা তার পছন্দের বিষয়ের ফয়সালার চেয়েও ভালো। এ সান্ত্বনা তাদের জন্য, যারা এমন ক্ষতির শিকার যার ব্যাখ্যা তারা জানে না। কারও ক্ষতি ঘটানোর অজুহাত এটা কখনোই নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "18:77": {
     "sections": [
       {

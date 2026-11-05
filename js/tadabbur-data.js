@@ -22891,6 +22891,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Knowledge is never finished. When you learn that something lies beyond what you know, set out for it with resolve, however long the road.",
     "lessonBn": "জ্ঞান কখনো ফুরায় না। আপনার জানার বাইরে কিছু আছে টের পেলে দৃঢ় সংকল্প নিয়ে তার খোঁজে বেরিয়ে পড়ুন, পথ যত লম্বাই হোক।"
+  },
+  "18:74": {
+    "reflectionEn": "The two set out again, and on the road they meet a boy. Al-Khidr kills him, and Musa cannot hold to the silence he has only just promised: have you killed a pure soul, not in return for a soul? You have done a terrible thing. His protest is the voice of the law, and the Qur'an lets it stand. The reason comes later, and it came to al-Khidr from Allah alone. No one else will ever hold such knowledge, so the story gives no one any right to harm a living soul. What it asks of me is quieter. When a loss lands that I cannot explain, can I grieve it, keep hold of what is right, and still trust a wisdom I cannot yet see?",
+    "reflectionBn": "দুজন আবার পথে নামেন। চলতে চলতে দেখা হয় এক বালকের সঙ্গে। খিযির তাকে হত্যা করেন। মূসা (আঃ) একটু আগেই চুপ থাকার কথা দিয়েছিলেন, কিন্তু আর পারেন না: আপনি কি এক নিষ্পাপ প্রাণকে হত্যা করলেন, অথচ সে কাউকে হত্যা করেনি? আপনি তো ভয়ংকর এক কাজ করলেন! তাঁর এই আপত্তি শরীয়তেরই কণ্ঠ, আর কুরআন তা যেমন ছিল তেমনই রেখে দিয়েছে। কারণটা জানা যায় পরে, আর সে জ্ঞান খিযিরের কাছে এসেছিল কেবল আল্লাহর পক্ষ থেকে। এমন জ্ঞান আর কারও হাতে কখনো আসবে না। তাই কাহিনিটি কাউকে কোনো জীবিত প্রাণের ক্ষতি করার অধিকার দেয় না। আমার কাছে এর দাবি আরও নিভৃত। এমন কোনো ক্ষতি যখন আসে যার ব্যাখ্যা আমি জানি না, তখন কি আমি শোক করেও ন্যায়ের পথ আঁকড়ে থাকতে পারি, আর যে হিকমত এখনো চোখে পড়ে না তার উপর ভরসা রাখতে পারি?",
+    "pointsEn": [
+      "When I see something that looks plainly wrong, do I speak for what is right, or keep quiet because silence is easier?",
+      "Do I hold every life, a stranger's child included, as sacred as the words a soul for a soul require?",
+      "Have I ever leaned on a story, or on a claim to know hidden reasons, to excuse a harm that the law plainly forbids?",
+      "When a loss I cannot understand reaches my family, can I grieve it without accusing Allah's wisdom?",
+      "Which promise of patience have I made that turned out far harder to keep than I imagined when I made it?"
+    ],
+    "pointsBn": [
+      "স্পষ্টতই অন্যায় মনে হয় এমন কিছু দেখলে আমি কি ন্যায়ের পক্ষে মুখ খুলি, নাকি চুপ থাকাটা সহজ বলে চুপ থাকি?",
+      "অচেনা মানুষের সন্তানসহ প্রতিটি প্রাণকে কি আমি ততটাই পবিত্র মনে করি, প্রাণের বদলে প্রাণ কথাটি যতটা দাবি করে?",
+      "শরীয়ত যে ক্ষতি স্পষ্ট হারাম করেছে, তার পক্ষে সাফাই গাইতে আমি কি কখনো কোনো কাহিনির, কিংবা গোপন কারণ জানার দাবির আশ্রয় নিয়েছি?",
+      "যে ক্ষতির মানে আমি বুঝি না, তা আমার পরিবারে এলে কি আমি আল্লাহর হিকমতকে দোষ না দিয়ে শোক করতে পারি?",
+      "ধৈর্যের কোন কথাটা আমি দিয়েছিলাম, যা রাখতে গিয়ে দেখি দেওয়ার সময় যতটা ভেবেছিলাম তার চেয়ে অনেক কঠিন?"
+    ],
+    "lessonEn": "Hold every life sacred and never claim a hidden reason to harm anyone; where a loss stays unexplained, keep to what is right and trust Allah's wisdom.",
+    "lessonBn": "প্রতিটি প্রাণকে পবিত্র জানুন, কারও ক্ষতি করতে কখনো গোপন কারণের দাবি তুলবেন না। আর যে ক্ষতির ব্যাখ্যা মেলে না, সেখানে ন্যায়ের পথে থাকুন এবং আল্লাহর হিকমতের উপর ভরসা রাখুন।"
   }
 };
 
