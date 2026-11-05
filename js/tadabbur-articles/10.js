@@ -2795,6 +2795,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:75": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Nuh, After the Messengers",
+          "bn": "নূহের পর, রসূলদের পর"
+        },
+        "p": [
+          {
+            "en": "The verse is fourteen Arabic words, and it only makes sense in its row. 10:71 opens with an order to recite the news of Nuh (AS); 10:73 closes his story with the ship, the drowning, and the call to see how those who were warned ended. 10:74 then folds a whole age into one line: thumma ba'athna min ba'dihi rusulan, then We sent after him messengers to their peoples, who came with clear proofs, and the people would not believe what they had denied before. 10:75 opens with the same words, and one pronoun has changed: ba'dihi, after him, becomes ba'dihim, after them.",
+            "bn": "আয়াতটি আরবিতে চৌদ্দ শব্দের, আর আগের আয়াতগুলোর সারিতে রেখে পড়লেই এর অর্থ খোলে। ১০:৭১ শুরু হয় নূহ (আঃ)-এর খবর পড়ে শোনানোর আদেশ দিয়ে। ১০:৭৩ তাঁর কাহিনি শেষ করে নৌকা, ডুবে যাওয়া আর এই ডাকে: দেখো, যাদের সতর্ক করা হয়েছিল তাদের পরিণাম কী হলো। ১০:৭৪ এরপর পুরো এক যুগকে এক লাইনে ভাঁজ করে রাখে। সুমমা বাআসনা মিন বা'দিহী রুসুলান: তাঁর পর আমি রসূলদের তাদের কওমের কাছে পাঠালাম। তাঁরা সুস্পষ্ট প্রমাণ নিয়ে এলেন, কিন্তু আগে যা অস্বীকার করেছিল, লোকেরা তাতে ঈমান আনল না। ১০:৭৫ শুরু হয় একই শব্দে, শুধু একটি সর্বনাম বদলেছে। বা'দিহী, তাঁর পর, হয়ে গেছে বা'দিহিম, তাদের পর।"
+          },
+          {
+            "en": "The commentators agree on who 'them' are. At-Tabari reads it as these messengers whom We sent after Nuh to their peoples; Ibn Kathir, briefly, as those messengers. Al-Qurtubi widens it to the messengers and the nations together. As-Sa'di adds what became of those nations: they were the messengers Allah sent to peoples who denied and were destroyed. Read this way, the verse is the third panel of one picture. First Nuh by name, then messengers with no names, then Musa and Harun by name again, and the same thing happens in each: proof arrives, and a people turns it away.",
+            "bn": "'তাদের' বলতে কারা, এ নিয়ে তাফসীরকারেরা একমত। তাবারীর ব্যাখ্যায়, নূহের পর যে রসূলদের আমি তাদের কওমের কাছে পাঠিয়েছিলাম, তাঁরাই। ইবন কাসীর সংক্ষেপে বলেন, ঐ রসূলগণ। কুরতুবী পরিধি বাড়িয়ে রসূল আর উম্মত দুটোকেই ধরেন। সা'দী জানিয়ে দেন ঐ উম্মতদের কী হয়েছিল: আল্লাহ এই রসূলদের পাঠিয়েছিলেন মিথ্যা প্রতিপন্নকারী এমন সব সম্প্রদায়ের কাছে, যাদের ধ্বংস করা হয়েছে। এভাবে পড়লে আয়াতটি একই ছবির তৃতীয় অংশ। প্রথমে নাম ধরে নূহ, তারপর নামহীন রসূলেরা, তারপর আবার নাম ধরে মূসা ও হারূন। প্রতিবারই একই ঘটনা: প্রমাণ আসে, আর এক সম্প্রদায় তা ফিরিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Names in the Sending",
+          "bn": "প্রেরণে দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "Musa wa Harun: Musa and Harun (AS). At-Tabari names them together as the two sons of 'Imran, sent to the Pharaoh of Egypt, and the Muyassar adds the blessing on both, 'alayhima as-salam. As-Sa'di gives Musa the longer line: the son of 'Imran, the one to whom the Most Merciful spoke, one of the messengers of firm resolve, one of the great ones whose example is followed, and one of those to whom vast and weighty laws were sent down. Of Harun he says one thing only: and We placed with him his brother Harun as a wazir, a minister and helper.",
+            "bn": "মূসা ওয়া হারূন: মূসা ও হারূন (আঃ)। তাবারী দুজনকে একসঙ্গে উল্লেখ করেন ইমরানের দুই ছেলে হিসেবে, যাঁদের পাঠানো হয়েছিল মিসরের ফিরআউনের কাছে। মুয়াসসার দুজনের জন্যই সালাম জুড়ে দেয়, আলাইহিমাস সালাম। মূসার পরিচয় সা'দী দেন বিস্তারিত। তিনি ইমরানের পুত্র, রহমান যাঁর সঙ্গে কথা বলেছেন। দৃঢ়সংকল্প রসূলদের একজন, সেই মহান ব্যক্তিদের একজন যাঁদের অনুসরণ করা হয়, যাঁদের উপর নাজিল হয়েছে বিশাল ও মর্যাদাপূর্ণ শরীয়ত। হারূন সম্পর্কে তিনি বলেন একটি কথাই: আর তাঁর সঙ্গে আমি তাঁর ভাই হারূনকে উযীর, অর্থাৎ সহকারী বানিয়ে দিলাম।"
+          },
+          {
+            "en": "That phrase is close to the wording of 25:35, wa ja'alna ma'ahu akhahu Haruna waziran, and in 20:29 and 20:30 Musa's own request had been for a wazir from his family, Harun my brother. The commentaries fetched for this verse say nothing further about why Harun is named here, and this article will not supply a reason they do not give. The text itself shows only a contrast worth noticing: 7:103, which opens with the same four words, thumma ba'athna min ba'dihim, names Musa alone. Here the sending names two men, and the verbs that follow are about those who received them.",
+            "bn": "সা'দীর কথাটি ২৫:৩৫-এর শব্দের খুব কাছাকাছি: ওয়া জাআলনা মাআহূ আখাহু হারূনা ওয়াযীরা। আর ২০:২৯ ও ২০:৩০-এ মূসা (আঃ) নিজেই চেয়েছিলেন নিজের পরিবার থেকে একজন উযীর, আমার ভাই হারূন। এখানে হারূনের নাম কেন এল, এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো তা নিয়ে আর কিছু বলে না। তারা যে কারণ দেয়নি, এ লেখাও তা বানিয়ে দেবে না। পাঠ্য নিজে শুধু একটি পার্থক্য দেখায়। ৭:১০৩ শুরু হয় একই চারটি শব্দে, সুমমা বাআসনা মিন বা'দিহিম, কিন্তু সেখানে নাম কেবল মূসার। এখানে প্রেরণে দুজনের নাম, আর পরের ক্রিয়াগুলো তাদের নিয়ে, যাদের কাছে তাঁদের পাঠানো হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chiefs, or a Whole People",
+          "bn": "সর্দারেরা, নাকি গোটা কওম"
+        },
+        "p": [
+          {
+            "en": "Ila Fir'awna wa mala'ihi: to Pharaoh and his mala'. Here the commentators part slightly. Ibn Kathir glosses mala' with a single word, qawmihi, his people. At-Tabari narrows it to the nobles of his people and their leaders, ashraf qawmihi wa sadatuhum, and al-Qurtubi, al-Baghawi and the Muyassar all give ashraf qawmihi, the nobles of his people. On Ibn Kathir's reading the message went to Pharaoh's nation at large; on the others' it went to the circle that ruled with him. Neither reading is pressed here over the other.",
+            "bn": "ইলা ফিরআউনা ওয়া মালায়িহী: ফিরআউন ও তার মালা-র কাছে। এখানে তাফসীরকারদের পথ একটু আলাদা হয়ে যায়। ইবন কাসীর মালা শব্দের ব্যাখ্যা দেন এক শব্দে, কওমিহী, তার কওম। তাবারী অর্থটা সরু করে আনেন: তার কওমের অভিজাত লোক আর নেতারা, আশরাফু কওমিহী ওয়া সাদাতুহুম। কুরতুবী, বাগাভী আর মুয়াসসার সবাই বলেন আশরাফু কওমিহী, তার কওমের অভিজাতেরা। ইবন কাসীরের পাঠে দাওয়াত গিয়েছিল ফিরআউনের গোটা জাতির কাছে। অন্যদের পাঠে গিয়েছিল তার সঙ্গে যারা শাসন চালাত, সেই মহলের কাছে। এখানে কোনো একটি মতকে অন্যটির উপর চাপানো হচ্ছে না।"
+          },
+          {
+            "en": "As-Sa'di takes the narrower reading and gives it a reason. The mala' are the great men of Pharaoh's state and their heads, he says, because the common people follow the heads: li-anna 'ammatahum tabi'un lir-ru'asa'. The verse's grammar keeps ruler and circle together, since the verb fa-stakbaru is plural, and the arrogance it reports is not one man's alone. Later in the same surah, 10:83 brings the pair back, Fir'awna wa mala'ihim, as the source of the fear under which only a dhurriyyah, a few of the young, believed in Musa.",
+            "bn": "সা'দী সরু অর্থটাই নেন, আর তার কারণও বলেন। তাঁর ভাষায়, মালা হলো ফিরআউনের রাষ্ট্রের বড় বড় লোক আর তাদের নেতারা, কারণ সাধারণ মানুষ নেতাদেরই অনুসারী: লিআন্না আম্মাতাহুম তাবিউন লির রুআসা। আয়াতের ব্যাকরণও শাসক আর তার মহলকে একসঙ্গে রাখে। ফাস্তাকবারূ ক্রিয়াটি বহুবচন, তাই যে অহংকারের কথা বলা হলো, তা কেবল এক ব্যক্তির নয়। একই সূরায় পরে ১০:৮৩ এই জোড়াটিকে আবার আনে, ফিরআউনা ওয়া মালায়িহিম। সেখানে এরাই সেই ভয়ের উৎস, যার মাঝেও কেবল যুররিয়্যাহ, অল্প কিছু তরুণ, মূসা (আঃ)-এর উপর ঈমান এনেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proofs, Miracles, or Nine",
+          "bn": "প্রমাণ, মুজিযা, না নয় নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "Bi-ayatina: with Our signs. Ibn Kathir reads it as Our arguments and proofs, hujajuna wa barahinuna. At-Tabari has Our evidences for the truth of what the two called them to, which he names as yielding to Allah in worship and acknowledging the two as messengers. The Muyassar has the miracles that showed the two were truthful. Al-Qurtubi is the most specific: he means the nine signs, which, he says, have already been mentioned. As-Sa'di ties the signs to the message itself: they showed the truth of what the two brought, the oneness of Allah and the forbidding of worship of anything besides Him.",
+            "bn": "বিআয়াতিনা: আমার নিদর্শনসমূহ নিয়ে। ইবন কাসীরের ব্যাখ্যায়, আমার যুক্তি ও প্রমাণ, হুজাজুনা ওয়া বারাহীনুনা। তাবারীর মতে, তাঁরা দুজন যে দিকে ডেকেছিলেন তার সত্যতার পক্ষে আমার দলিল। সেই ডাকের বিষয়ও তিনি বলে দেন: ইবাদতে আল্লাহর কাছে নত হওয়া, আর তাঁদের দুজনকে রসূল বলে মেনে নেওয়া। মুয়াসসার বলে, এমন মুজিযা যা তাঁদের সত্যবাদিতা প্রমাণ করেছিল। কুরতুবী সবচেয়ে নির্দিষ্ট: এখানে উদ্দেশ্য সেই নয়টি নিদর্শন, যেগুলোর কথা তাঁর ভাষায় আগেই এসেছে। সা'দী নিদর্শনকে জুড়ে দেন দাওয়াতের বিষয়ের সঙ্গে। এগুলো প্রমাণ করেছিল তাঁরা যা এনেছিলেন তার সত্যতা: আল্লাহর একত্ব, আর তিনি ছাড়া অন্য কারও ইবাদতের নিষেধ।"
+          },
+          {
+            "en": "These are less rival readings than different weights. Ibn Kathir and at-Tabari speak of proof, the Muyassar of miracle, al-Qurtubi of a counted set, as-Sa'di of the message the signs confirmed. The text fetched for al-Qurtubi does not list the nine at this verse, and this article does not list them from memory; the staff and the contest with the sorcerers belong to other verses. What this verse stresses is ownership. They are ayatina, Our signs, by the verse's own possessive, not the two messengers' signs, and whatever was refused was refused from Him.",
+            "bn": "এগুলোকে পরস্পরবিরোধী মত বলার চেয়ে ভিন্ন ভিন্ন জোর বলাই ঠিক। ইবন কাসীর ও তাবারী বলেন প্রমাণের কথা, মুয়াসসার মুজিযার কথা, কুরতুবী গুনে রাখা এক তালিকার কথা, আর সা'দী সেই দাওয়াতের কথা, নিদর্শনগুলো যার সত্যতা দেখিয়েছিল। কুরতুবীর যে লেখা এ আয়াতের জন্য আনা হয়েছে, তাতে নয়টির তালিকা নেই। এ লেখাও স্মৃতি থেকে তালিকা দেবে না। লাঠি আর যাদুকরদের সঙ্গে মোকাবেলার কথা অন্য আয়াতের বিষয়। এ আয়াত জোর দেয় মালিকানায়। আয়াতিনা, আমার নিদর্শন। আয়াতের নিজের শব্দেই এগুলো আল্লাহর, দুই রসূলের নয়। তাই যা ফিরিয়ে দেওয়া হলো, তা ফিরিয়ে দেওয়া হলো তাঁরই কাছ থেকে আসা জিনিস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arrogance Before the Verdict",
+          "bn": "রায়ের আগে অহংকার"
+        },
+        "p": [
+          {
+            "en": "Fa-stakbaru: but they behaved arrogantly. The commentators agree on the shape of the act, a refusal of something offered, and differ only in how they name the thing refused. Ibn Kathir: they were too proud to follow the truth and to submit to it, al-inqiyad lahu. At-Tabari: too proud to acknowledge what Musa and Harun called them to. The Muyassar: too proud to accept the truth. Al-Qurtubi: too proud for the truth, 'an al-haqq. In every reading the pride is measured against a particular demand that they yield.",
+            "bn": "ফাস্তাকবারূ: কিন্তু তারা অহংকার করল। কাজটার চেহারা নিয়ে তাফসীরকারেরা একমত: সামনে যা রাখা হলো, তা প্রত্যাখ্যান। পার্থক্য শুধু প্রত্যাখ্যাত জিনিসটার নামে। ইবন কাসীর বলেন, সত্যের অনুসরণ আর তার কাছে বশ্যতা, আল-ইনকিয়াদু লাহু, এ দুটো থেকে তারা অহংকারে সরে রইল। তাবারী বলেন, মূসা ও হারূন যে দিকে ডেকেছিলেন, তা মেনে নিতে তারা অহংকার করল। মুয়াসসারের ভাষায়, সত্য কবুল করতে। কুরতুবীর ভাষায়, সত্য থেকে, আনিল হাক্ক। প্রতিটি ব্যাখ্যায় অহংকারটা মাপা হয়েছে একটি নির্দিষ্ট দাবির সামনে: নত হও।"
+          },
+          {
+            "en": "As-Sa'di adds two things the others do not. They were proud toward the signs zulman wa 'uluwwan, wrongfully and in haughtiness, and ba'da ma istayqanuha, after they had become certain of them. His words echo 27:14, where those same people denied the signs though their own souls were convinced of them; Ibn Kathir quotes that verse at 10:76, in the passage grouped with this verse. Read with as-Sa'di, the order matters. Fa- joins the arrogance straight to the signs, and only then comes wa kanu qawman mujrimin. The refusal did not wait on a shortage of evidence.",
+            "bn": "সা'দী এমন দুটি কথা যোগ করেন, যা অন্যরা বলেননি। নিদর্শনের সামনে তাদের অহংকার ছিল যুলমান ওয়া উলুওয়্যান, অন্যায়ভাবে ও ঔদ্ধত্যে। আর তা ছিল বা'দা মাস্তাইকানূহা, নিদর্শনগুলোর ব্যাপারে নিশ্চিত হয়ে যাওয়ার পর। এ শব্দগুলোতে ২৭:১৪-এর প্রতিধ্বনি। সেখানে এই লোকেরাই নিদর্শন অস্বীকার করেছিল, অথচ তাদের মন সেগুলোর সত্যতায় নিশ্চিত ছিল। ইবন কাসীর এ আয়াতের সঙ্গে একত্রে রাখা অংশে, ১০:৭৬-এর আলোচনায়, ঐ আয়াতটি উদ্ধৃত করেছেন। সা'দীর সঙ্গে মিলিয়ে পড়লে ক্রমটা গুরুত্বপূর্ণ। ফা অব্যয়টি অহংকারকে সরাসরি নিদর্শনের সঙ্গে জুড়ে দেয়, তারপর আসে ওয়া কানূ কওমান মুজরিমীন। প্রমাণের অভাবে প্রত্যাখ্যান আটকে থাকেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Yunus Keeps Using",
+          "bn": "সূরা ইউনুসের চেনা শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa kanu qawman mujrimin: and they were a criminal people. At-Tabari reads it as athimina bi-rabbihim, sinners against their Lord, through their disbelief in Allah. Al-Qurtubi narrows it to a single word, mushrikin, those who associate partners. The Muyassar strings three together, mushrikin, mujrimin, mukadhdhibin: associating, criminal, denying. As-Sa'di makes it a standing description, wasfuhum al-ijram wat-takdhib, their trait was crime and denial. Ibn Kathir's abridged English leaves the word as it is. The readings run from one named sin to a general guilt, and as-Sa'di's turns it into a character.",
+            "bn": "ওয়া কানূ কওমান মুজরিমীন: আর তারা ছিল অপরাধী এক সম্প্রদায়। তাবারী একে পড়েন আসিমীনা বিরাব্বিহিম, নিজেদের রবের বিরুদ্ধে গুনাহগার, আল্লাহর সঙ্গে কুফরির কারণে। কুরতুবী অর্থটা এক শব্দে সরু করে আনেন: মুশরিকীন, যারা আল্লাহর সঙ্গে শরিক করে। মুয়াসসার তিনটি শব্দ পাশাপাশি রাখে: মুশরিক, অপরাধী, মিথ্যা প্রতিপন্নকারী। সা'দী একে স্থায়ী বৈশিষ্ট্য বানিয়ে দেন: ওয়াসফুহুমুল ইজরামু ওয়াত তাকযীব, অপরাধ আর অস্বীকারই ছিল তাদের পরিচয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠ শব্দটি যেমন আছে তেমনই রাখে। ব্যাখ্যাগুলো একটি নির্দিষ্ট গুনাহ থেকে সাধারণ অপরাধ পর্যন্ত ছড়ানো, আর সা'দীর পাঠে তা হয়ে ওঠে চরিত্র।"
+          },
+          {
+            "en": "Surah Yunus has used the word before this verse and uses it again after. 10:13 says Allah destroyed generations before when they did wrong; their messengers had come to them with clear proofs, and they would not believe: kadhalika najzi l-qawma l-mujrimin, thus do We repay the criminal people. That is nearly the line of 10:74 and 10:75, set down some sixty verses earlier. 10:17 says the criminals will not succeed, and 10:82, a few verses on, says Allah establishes the truth by His words, even if the criminals dislike it. The Pharaoh episode opens inside a word the surah has already given weight.",
+            "bn": "সূরা ইউনুস এ আয়াতের আগেও শব্দটি ব্যবহার করেছে, পরেও করবে। ১০:১৩ বলে, আগের বহু প্রজন্ম যখন যুলম করল, আল্লাহ তাদের ধ্বংস করলেন। তাদের রসূলেরা সুস্পষ্ট প্রমাণ নিয়ে এসেছিলেন, কিন্তু তারা ঈমান আনার ছিল না। কাযালিকা নাজযিল কওমাল মুজরিমীন: অপরাধী সম্প্রদায়কে আমি এভাবেই প্রতিফল দিই। এ যেন ১০:৭৪ আর ১০:৭৫-এর কথাই, প্রায় ষাট আয়াত আগে লিখে রাখা। ১০:১৭ বলে, অপরাধীরা সফল হয় না। আর কয়েক আয়াত পরে ১০:৮২ বলে, অপরাধীরা অপছন্দ করলেও আল্লাহ নিজের বাণী দিয়ে সত্যকে প্রতিষ্ঠিত করেন। ফিরআউনের কাহিনি তাই শুরু হয় এমন এক শব্দের ভেতরে, যাকে সূরা আগেই ভারী করে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ending Heard Again",
+          "bn": "যে সমাপ্তি আবার শোনা যায়"
+        },
+        "p": [
+          {
+            "en": "The closing words are not unique to this verse. 7:133 lists the flood, the locusts, the qummal, the frogs and the blood as signs set out in detail, and ends with exactly the same words, fa-stakbaru wa kanu qawman mujrimin. 7:103 opens as this verse does, with Musa sent bi-ayatina to Pharaoh and his mala', but ends otherwise: fa-zalamu biha, and they did wrong by them, then the call to see how the corrupters ended. 23:45 and 23:46 send Musa and his brother Harun with Our signs and a clear authority to Pharaoh and his mala', and close fa-stakbaru wa kanu qawman 'alin.",
+            "bn": "শেষের শব্দগুলো শুধু এ আয়াতেরই নয়। ৭:১৩৩ তুফান, পঙ্গপাল, কুম্মাল, ব্যাঙ আর রক্তকে আলাদা আলাদা স্পষ্ট নিদর্শন হিসেবে গুনিয়ে শেষ হয় হুবহু এই কথায়: ফাস্তাকবারূ ওয়া কানূ কওমান মুজরিমীন। ৭:১০৩ শুরু হয় এ আয়াতের মতোই। মূসাকে বিআয়াতিনা পাঠানো হয় ফিরআউন ও তার মালা-র কাছে। কিন্তু শেষটা আলাদা: ফাযালামূ বিহা, তারা সেগুলোর সঙ্গে অন্যায় করল। তারপর ডাক আসে, দেখো ফাসাদকারীদের পরিণাম কী হলো। ২৩:৪৫ ও ২৩:৪৬-এ মূসা আর তাঁর ভাই হারূনকে আমার নিদর্শন ও স্পষ্ট প্রমাণ দিয়ে পাঠানো হয় ফিরআউন ও তার মালা-র কাছে। সেখানে শেষ কথা: ফাস্তাকবারূ ওয়া কানূ কওমান আলীন।"
+          },
+          {
+            "en": "No commentary fetched for this verse explains why the wording repeats, so what follows is only the text laid side by side. The verb stays fixed, fa-stakbaru, while what the people were changes with the passage: mujrimin, criminal, here and in 7:133; 'alin, self-exalting, in 23:46; and in 7:103 their wrong is named instead. In 45:31 the same pair turns into an address to those who disbelieved: were My verses not recited to you? Fa-stakbartum wa kuntum qawman mujrimin, but you were arrogant and were a criminal people. A sentence told about Pharaoh's court becomes a question put to anyone.",
+            "bn": "শব্দগুলো কেন বারবার আসে, এ আয়াতের জন্য আনা কোনো তাফসীর তা ব্যাখ্যা করেনি। তাই এখানে শুধু পাঠগুলো পাশাপাশি রাখা হলো। ক্রিয়াটি বদলায় না, ফাস্তাকবারূ। বদলায় তারা কী ছিল সেই বর্ণনা। এখানে আর ৭:১৩৩-এ মুজরিমীন, অপরাধী। ২৩:৪৬-এ আলীন, নিজেকে উঁচু ভাবা লোক। আর ৭:১০৩-এ বলা হয়েছে তাদের অন্যায়ের কথা। ৪৫:৩১-এ এই জোড়াটাই হয়ে যায় কাফিরদের প্রতি সরাসরি সম্বোধন: আমার আয়াত কি তোমাদের পড়ে শোনানো হয়নি? ফাস্তাকবারতুম ওয়া কুনতুম কওমান মুজরিমীন, তবু তোমরা অহংকার করেছিলে, তোমরা ছিলে অপরাধী সম্প্রদায়। ফিরআউনের দরবার নিয়ে বলা বাক্য তখন প্রশ্ন হয়ে দাঁড়ায় যে কারও সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past People, No Licence",
+          "bn": "অতীতের এক কওম, কোনো অনুমতি নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes Pharaoh, his chiefs and his people, a people of the past, and what it says of them it says of them. It licenses nothing against any living person or community, Egyptians today included, though at-Tabari's phrase for the king is Fir'awn Misr, the Pharaoh of Egypt. Mujrimin is a verdict Allah gave on those who received those signs and turned them away. It is not a label a reader may lift from the page and fix on a neighbour, a rival, a party or a nation.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে ফিরআউন, তার সর্দারদের আর তার কওমকে, যারা অতীতের এক কওম। তাদের সম্পর্কে আয়াত যা বলে, তা তাদের সম্পর্কেই। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, আজকের মিসরীয়রাও এর বাইরে নয়, এ আয়াত কোনো অনুমতি দেয় না। তাবারী অবশ্য রাজাকে বলেন ফিরআউনু মিসর, মিসরের ফিরআউন, কিন্তু তাতে কিছু বদলায় না। মুজরিমীন হলো আল্লাহর দেওয়া রায়, তাদের উপর যারা সেই নিদর্শন পেয়ে ফিরিয়ে দিয়েছিল। পাতা থেকে তুলে নিয়ে প্রতিবেশী, প্রতিপক্ষ, কোনো দল বা কোনো জাতির গায়ে সেঁটে দেওয়ার তকমা এটা নয়।"
+          },
+          {
+            "en": "None of the seven commentary texts consulted for this verse attaches a saying of the Prophet ﷺ to it, and none reports an occasion of revelation, so the placement after 10:74 is the context. Sound narrations on pride exist, and the article on 10:78 already brings two of them as general principles beside that verse's vocabulary. They are not repeated here, because nothing in the sources fetched ties them to this ayah, and a narration should not be made to look attached where no commentator attached it. The verse is left to speak in its own fourteen words.",
+            "bn": "এ আয়াতের জন্য দেখা সাতটি তাফসীরের কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। কোনোটিই নাজিলের প্রেক্ষাপটও বলেনি। তাই ১০:৭৪-এর পরে এর অবস্থানই এর প্রেক্ষাপট। অহংকার নিয়ে সহীহ হাদীস আছে। ১০:৭৮-এর আলোচনায় দুটি হাদীস সাধারণ নীতি হিসেবে সে আয়াতের শব্দের পাশে আনা হয়েছে। এখানে সেগুলো আবার আনা হলো না। কারণ যে উৎসগুলো দেখা হয়েছে, তার কোনোটিই এগুলোকে এ আয়াতের সঙ্গে জোড়েনি। কোনো তাফসীরকার যেখানে হাদীস জোড়েননি, সেখানে জোড়া লাগানো আছে বলে দেখানো ঠিক নয়। আয়াতটি তাই নিজের চৌদ্দ শব্দেই কথা বলুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bending When the Proof Comes",
+          "bn": "প্রমাণ এলে নত হওয়া"
+        },
+        "p": [
+          {
+            "en": "The order of the verse is a mirror. The signs came first; what came next was not doubt but pride; and only then the verdict on what kind of people they were. Pride seldom announces itself by name. It sounds like loyalty to how things have always been, like care for one's standing, like the feeling that the one bringing the truth is beneath us. As-Sa'di's phrase, after they had become certain of them, is the uncomfortable part. Refusal can sit right beside knowledge, and the knowing makes it heavier, not lighter.",
+            "bn": "আয়াতের ক্রমটা একটা আয়না। আগে এল নিদর্শন। তারপর যা এল, তা সন্দেহ নয়, অহংকার। আর সবশেষে রায়: তারা কেমন লোক ছিল। অহংকার সাধারণত নিজের নাম বলে আসে না। কখনো তা শোনায় পূর্বপুরুষের রীতির প্রতি বিশ্বস্ততার মতো, কখনো নিজের মর্যাদা নিয়ে চিন্তার মতো, কখনো এই অনুভূতির মতো যে সত্য নিয়ে আসা লোকটা আমার চেয়ে ছোট। সা'দীর কথাটা, নিশ্চিত হয়ে যাওয়ার পর, এখানেই অস্বস্তিকর। জেনেশুনেও প্রত্যাখ্যান করা যায়। আর জানা থাকলে দায় হালকা হয় না, বরং ভারী হয়।"
+          },
+          {
+            "en": "As-Sa'di's other phrase, that the common people follow their heads, cuts both ways. Whoever has people who look to him, a parent, a teacher, a manager, an elder, carries his refusals into their lives as well as his own. Whoever follows has not handed over his own judgement by following. The test is small and daily. When a clear truth reaches me, from a verse, from my spouse, from a junior colleague, the first move is to weigh it, and if it holds, to give way to it before pride has time to find its reasons.",
+            "bn": "সা'দীর আরেকটি কথা, সাধারণ মানুষ নেতাদের অনুসরণ করে, দুই দিকেই কাটে। যার দিকে অন্যরা তাকিয়ে থাকে, হোক সে বাবা-মা, শিক্ষক, অফিসের কর্তা বা সমাজের মুরুব্বি, তার প্রত্যাখ্যান শুধু তার জীবনে থাকে না, তাদের জীবনেও ঢুকে পড়ে। আর যে অনুসরণ করে, অনুসরণ করেছে বলে নিজের বিচারবুদ্ধি সে কারও হাতে তুলে দেয়নি। পরীক্ষাটা ছোট, আর রোজকার। কোনো স্পষ্ট সত্য যখন আমার কাছে আসে, কোনো আয়াত থেকে, জীবনসঙ্গীর মুখ থেকে, কিংবা অধীনস্থ কোনো সহকর্মীর কাছ থেকে, প্রথম কাজ তা ওজন করা। আর টিকে গেলে, অহংকার অজুহাত খোঁজার আগেই তার কাছে নত হওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "10:78": {
     "sections": [
       {

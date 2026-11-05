@@ -21471,6 +21471,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Enjoyment is not success. Whatever this world gives is brief and ends in the return to Allah, so use it as provision for the road, not as proof you were right.",
     "lessonBn": "ভোগ মানেই সাফল্য নয়। দুনিয়া যা দেয় তা ক্ষণিকের, আর তার শেষ আল্লাহর কাছে ফেরায়। তাই একে পথের পাথেয় হিসেবে কাজে লাগান, নিজে সঠিক থাকার প্রমাণ হিসেবে নয়।"
+  },
+  "10:75": {
+    "reflectionEn": "After Nuh, and after the messengers who followed him, the surah reaches Musa and Harun, sent to Pharaoh and the men of rank around him with Allah's signs. The verse does not say the signs were faint or the case unclear. It says they behaved arrogantly, and only then that they were a criminal people. Pride stands first in the sentence. The proof was already in front of them; what stood between them and it was a self that would not bend. That order is worth knowing from the inside. When a clear truth reaches me, through a verse, a sound argument, or a person I would rather not hear, is my first move to weigh it, or to guard my standing?",
+    "reflectionBn": "নূহের পর, তাঁর পরে আসা রসূলদের পর, সূরা এবার পৌঁছায় মূসা ও হারূনের কাছে। আল্লাহর নিদর্শন দিয়ে তাঁদের পাঠানো হলো ফিরআউন আর তার চারপাশের প্রভাবশালী লোকদের কাছে। আয়াত বলে না যে নিদর্শন দুর্বল ছিল, বা ব্যাপারটা অস্পষ্ট ছিল। বলে, তারা অহংকার করল। তারপর বলে, তারা ছিল অপরাধী এক সম্প্রদায়। বাক্যে অহংকার আগে। প্রমাণ তো চোখের সামনেই ছিল। মাঝখানে দাঁড়িয়ে ছিল এমন এক মন, যা নত হতে রাজি নয়। এই ক্রমটা ভেতর থেকে চিনে রাখার মতো। কোনো স্পষ্ট সত্য যখন আমার কাছে আসে, হোক তা একটি আয়াত, একটি মজবুত যুক্তি, কিংবা এমন কারও মুখে যার কথা শুনতে মন চায় না, তখন আমার প্রথম কাজ কী হয়? কথাটা ওজন করা, নাকি নিজের মর্যাদা বাঁচানো?",
+    "pointsEn": [
+      "When did a clear proof last reach me, and was my first reaction to weigh it or to defend my position?",
+      "Is there a truth I already accept in private but will not act on, because giving way would cost me face?",
+      "Do I use the people of rank around me as cover, following them where I would not go on my own?",
+      "If others follow me at home, at work or among friends, what does my refusal of a plain truth teach them?",
+      "What would it take for me to say this week, without excuses, \"You are right, and I was wrong\"?"
+    ],
+    "pointsBn": [
+      "শেষবার কখন কোনো স্পষ্ট প্রমাণ আমার কাছে এসেছিল? তখন প্রথমেই কি আমি তা ওজন করেছি, নাকি নিজের অবস্থান রক্ষায় নেমে পড়েছি?",
+      "এমন কোনো সত্য কি আছে, যা মনে মনে মেনে নিয়েছি, কিন্তু মানলে মুখ ছোট হবে বলে কাজে আনছি না?",
+      "চারপাশের প্রভাবশালী লোকদের কি আমি আড়াল বানাই? একা যেখানে যেতাম না, তাদের পেছনে পেছনে কি সেখানে চলে যাই?",
+      "ঘরে, কাজে বা বন্ধুদের মাঝে কেউ যদি আমাকে অনুসরণ করে, তবে কোনো স্পষ্ট সত্য আমি ফিরিয়ে দিলে তারা কী শেখে?",
+      "এ সপ্তাহে কোনো অজুহাত ছাড়া \"আপনার কথাই ঠিক, আমি ভুল ছিলাম\" বলতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Arrogance comes before the crime. When a clear truth reaches you, bend to it before pride finds its reasons; rank, and the crowd behind it, never excuse refusing what you can see.",
+    "lessonBn": "অপরাধের আগে আসে অহংকার। স্পষ্ট সত্য আপনার কাছে এলে অহংকার অজুহাত খোঁজার আগেই তার কাছে নত হোন। পদমর্যাদা বা পেছনের ভিড়, কোনোটাই চোখের সামনের সত্য ফিরিয়ে দেওয়ার অজুহাত নয়।"
   }
 };
 
