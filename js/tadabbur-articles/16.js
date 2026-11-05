@@ -2067,6 +2067,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Udder to the Orchard",
+          "bn": "ওলান থেকে বাগানে"
+        },
+        "p": [
+          {
+            "en": "Wa-min thamarati an-nakhili wal-a'nabi tattakhidhuna minhu sakaran wa rizqan hasana: and from the fruits of the date palms and the grapevines you take sakar and good provision. Ibn Kathir reads it from the order of the passage. Having mentioned milk, and that Allah made it a drink easy for people to swallow, He follows it with the drinks people take from the fruits of the palm and the vine, and with what they used to make of intoxicating nabidh before it was forbidden.",
+            "bn": "ওয়া মিন সামারাতিন নাখীলি ওয়াল আ'নাবি তাত্তাখিযূনা মিনহু সাকারাও ওয়া রিযকান হাসানা: আর খেজুর গাছ ও আঙুরলতার ফল থেকে তোমরা সাকার আর উত্তম রিজিক গ্রহণ কর। ইবন কাসীর আয়াতটি পড়েন আলোচনার ধারাবাহিকতা থেকে। আল্লাহ আগে দুধের কথা বলেছেন, যা তিনি মানুষের জন্য সহজে গেলা যায় এমন পানীয় বানিয়েছেন। তারপর তিনি আনেন সেসব পানীয়ের কথা, যা মানুষ খেজুর আর আঙুর থেকে বানায়। সঙ্গে আসে নেশাধরা নাবীযের কথা, যা তারা হারাম হওয়ার আগে বানাত।"
+          },
+          {
+            "en": "At-Tabari makes the link with the previous verse explicit. You also have a lesson, people, in what We give you from the fruits of the palms and the vines, alongside the milk We give you to drink from the bellies of livestock, drawn out from between dung and blood. Ma'arif al-Qur'an notices a change of verb. Of milk the previous verse says nusqikum, We give you to drink: the processing has already happened inside the animal, and the drink arrives finished, needing no human effort at all.",
+            "bn": "আগের আয়াতের সঙ্গে যোগসূত্রটা তাবারী খোলাখুলি বলে দেন। হে মানুষ, গবাদি পশুর পেট থেকে গোবর আর রক্তের মাঝখান দিয়ে যে দুধ আমি তোমাদের পান করাই, তার পাশাপাশি খেজুর আর আঙুরের ফল থেকে যা দিই, তাতেও তোমাদের জন্য শিক্ষা আছে। মাআরিফুল কুরআন খেয়াল করে, ক্রিয়াপদ বদলে গেছে। দুধের বেলায় আগের আয়াত বলেছে নুসকীকুম, আমি তোমাদের পান করাই। পশুর ভেতরেই সব প্রক্রিয়া শেষ, পানীয় আসে তৈরি হয়ে। মানুষের কোনো খাটুনি সেখানে লাগে না।"
+          },
+          {
+            "en": "Here the verb is tattakhidhun, you take or make. Ma'arif sees in it a hint that human ingenuity steps in between the fruit and what comes of it, and from that step, it says, two kinds of thing were made: what intoxicates, and good provision such as dates and grapes, eaten fresh or dried and stored. On minhu, from it, al-Qurtubi relays at-Tabari's view that a ma, that which, has dropped out of the sentence, then prefers to read it as from what has been mentioned, so that nothing is left out.",
+            "bn": "এখানে ক্রিয়াপদ তাত্তাখিযূন, তোমরা গ্রহণ কর বা বানাও। মাআরিফের মতে এতে ইঙ্গিত আছে যে ফল আর তা থেকে তৈরি জিনিসের মাঝখানে মানুষের বুদ্ধি ও কারিগরি ঢোকে। আর সেই হাত লাগানো থেকেই দুই রকম জিনিস তৈরি হয়েছে। একটি নেশা ধরায়। অন্যটি উত্তম রিজিক, যেমন খেজুর আর আঙুর, যা তাজা খাওয়া যায়, শুকিয়ে রেখেও দেওয়া যায়। মিনহু, অর্থাৎ তা থেকে, শব্দটি নিয়ে কুরতুবী তাবারীর মত উল্লেখ করেন যে বাক্য থেকে একটি মা, অর্থাৎ যা, উহ্য রয়ে গেছে। তারপর তিনি নিজে পছন্দ করেন একে উল্লিখিত জিনিস থেকে অর্থে পড়া, যাতে কোনো শব্দ উহ্য ধরতে না হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Senses of Sakar",
+          "bn": "সাকার শব্দের চার অর্থ"
+        },
+        "p": [
+          {
+            "en": "Everything turns on one word. At-Tabari lists four senses of sakar in the speech of the Arabs. It can mean a drink that intoxicates. It can mean food, what is eaten, for which he cites a line of verse: I made the faults of the noblest my food. It can mean a settling or dying down, as of the hot wind. And it can be the verbal noun of becoming drunk. Al-Qurtubi gives the plain default first: sakar is what intoxicates, and that, he says, is its well-known meaning in the language.",
+            "bn": "পুরো আলোচনা ঘোরে একটি শব্দকে ঘিরে। তাবারী আরবদের ভাষায় সাকার শব্দের চারটি অর্থ গুনিয়ে দেন। এক, নেশা ধরানো পানীয়। দুই, খাবার, অর্থাৎ যা খাওয়া হয়। এর পক্ষে তিনি একটি কবিতার চরণ আনেন: সম্মানিতদের দোষকে আমি নিজের খাবার বানিয়েছি। তিন, থেমে যাওয়া বা স্তিমিত হওয়া, যেমন গরম হাওয়া থিতিয়ে আসে। চার, মাতাল হওয়ার ক্রিয়াবিশেষ্য। কুরতুবী সোজা অর্থটাই আগে বলেন: সাকার মানে যা নেশা ধরায়। তাঁর ভাষায়, এটাই শব্দটির প্রসিদ্ধ অর্থ।"
+          },
+          {
+            "en": "Other readings were built on the rarer senses. Al-Baghawi and al-Qurtubi both relay Abu 'Ubayda's view that sakar means food: it is said, this is sakar for you, meaning food. Al-Qurtubi then records al-Zajjaj's objection. The sense is unknown, the exegetes hold otherwise, and the line of verse proves nothing, since others read it as describing someone drunk on people's faults. Al-Qurtubi also mentions the view that sakar was sweet juice, so named because it may turn intoxicating if left standing, and is forbidden once it does.",
+            "bn": "অপ্রচলিত অর্থগুলোর উপর ভর করে আরও কিছু ব্যাখ্যা দাঁড়িয়েছে। বাগাভী ও কুরতুবী দুজনেই আবূ উবায়দার মত উল্লেখ করেন যে সাকার মানে খাবার। আরবরা বলে, এ তোমার সাকার, মানে তোমার খাবার। কুরতুবী এরপর যাজ্জাজের আপত্তি তুলে ধরেন। এ অর্থ অপরিচিত, তাফসীরকারেরা এর উল্টো মত দেন, আর ওই কবিতার চরণেও কোনো দলিল নেই। অন্যদের মতে চরণটি এমন লোকের বর্ণনা, যে মানুষের দোষ নিয়ে মাতাল হয়ে থাকে। কুরতুবী আরেকটি মতও আনেন: সাকার হলো মিষ্টি রস। ফেলে রাখলে তা নেশাধরা হয়ে যেতে পারে বলেই এ নাম, আর নেশা ধরালেই তা হারাম।"
+          },
+          {
+            "en": "A report through al-'Awfi has Ibn 'Abbas (RA) say that the Abyssinians call vinegar sakar. At-Tabari carries a report from him that keeps both halves: Ibn 'Abbas held that sakar here was wine, which people used to call sakar and used to drink, and he also held that the Abyssinians use the word for vinegar. So the vinegar sense is a note on usage, not his reading of the verse, and al-Qurtubi names him at the head of those who took sakar to mean wine.",
+            "bn": "আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনায় আছে, হাবশার লোকেরা সিরকাকে সাকার বলে। তাবারী তাঁর কাছ থেকে যে বর্ণনা আনেন, তাতে দুটো কথাই আছে। ইবন আব্বাসের মতে এখানে সাকার মানে মদ। লোকে মদকে সাকার বলত এবং তা পান করত। পাশাপাশি তিনি এটাও বলতেন যে হাবশিরা শব্দটি সিরকার জন্য ব্যবহার করে। অর্থাৎ সিরকার অর্থটা শব্দের ব্যবহার নিয়ে একটা তথ্য, আয়াতের ব্যাখ্যা নয়। কুরতুবীও সাকারকে মদ অর্থে যাঁরা নিয়েছেন, তাঁদের তালিকার শুরুতে ইবন আব্বাসের নাম রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Before the Prohibition",
+          "bn": "নিষেধ নাজিলের আগের কথা"
+        },
+        "p": [
+          {
+            "en": "The reading most commentators give is that sakar here is wine, and that the verse describes what people made before wine was forbidden. At-Tabari carries Ibn 'Abbas (RA) through many chains: sakar is what was forbidden of the two fruits, and good provision is what was made lawful of them. Mujahid says: wine before it was forbidden, and good provision means food. Abu Razin says the verse came down while they were still drinking wine. Al-Muyassar puts it in a parenthesis: they made it into intoxicating wine, and this was before it was forbidden.",
+            "bn": "অধিকাংশ তাফসীরকারের ব্যাখ্যা হলো, এখানে সাকার মানে মদ। আর আয়াতটি বর্ণনা দিচ্ছে, মদ হারাম হওয়ার আগে লোকে কী বানাত। তাবারী বহু সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: সাকার হলো দুই ফলের যে অংশ হারাম করা হয়েছে, আর উত্তম রিজিক হলো যা হালাল করা হয়েছে। মুজাহিদ বলেন, সাকার মানে হারাম হওয়ার আগের মদ, আর উত্তম রিজিক মানে খাবার। আবূ রাযীন বলেন, আয়াতটি যখন নাজিল হয়, লোকে তখনো মদ পান করত। মুয়াসসার বন্ধনীর ভেতরে একই কথা জুড়ে দেয়: তারা তা দিয়ে নেশাধরা মদ বানাত, আর এটা ছিল মদ হারাম হওয়ার আগে।"
+          },
+          {
+            "en": "Qatada names where the prohibition arrived. Sakar, he says, is the wines of these foreigners; good provision is what you steep, what you turn into vinegar and what you eat. The verse came down when wine had not yet been forbidden, and its prohibition came afterwards in Surat al-Ma'ida. Al-Qurtubi lists the majority who took sakar as wine: Ibn Mas'ud, Ibn 'Umar, Abu Razin, al-Hasan, Mujahid, Ibn Abi Layla, al-Kalbi and others, all saying it is what Allah forbade of the two fruits. Al-Baghawi names a similar group.",
+            "bn": "নিষেধাজ্ঞা কোথায় এসেছে, কাতাদা তা বলে দেন। তাঁর মতে সাকার হলো এই অনারবদের মদ। আর উত্তম রিজিক হলো যা তোমরা পানিতে ভিজিয়ে রাখ, যা দিয়ে সিরকা বানাও আর যা খাও। আয়াতটি যখন নাজিল হয়, মদ তখনো হারাম হয়নি। হারামের বিধান এসেছে পরে, সূরা মায়েদায়। কুরতুবী সাকারকে মদ অর্থে নেওয়া অধিকাংশের নাম গুনিয়ে দেন: ইবন মাসউদ, ইবন উমার, আবূ রাযীন, হাসান, মুজাহিদ, ইবন আবী লায়লা, কালবী এবং আরও অনেকে। তাঁদের সবার কথা, সাকার হলো দুই ফলের যে অংশ আল্লাহ হারাম করেছেন। বাগাভীও প্রায় একই দলের নাম নেন।"
+          },
+          {
+            "en": "On this reading the clause was later superseded. At-Tabari reports Ibrahim an-Nakha'i, ash-Sha'bi and Abu Razin saying it is abrogated, and Ibrahim adding that the prohibition of wine abrogated it. Al-Qurtubi relays Ibn al-'Arabi: the soundest view is that of Ibn 'Abbas, and the correct position is that this came before wine was forbidden, so it is abrogated, because the verse is Makkan by agreement of the scholars and the prohibition of wine is Madinan. Al-Baghawi likewise calls abrogation the most fitting of the views.",
+            "bn": "এ ব্যাখ্যা অনুযায়ী অংশটির বিধান পরে রহিত হয়ে গেছে। তাবারী ইবরাহীম নাখঈ, শা'বী ও আবূ রাযীন থেকে বর্ণনা করেন যে এটি মানসূখ। ইবরাহীম আরও বলেন, মদ হারামের বিধানই একে রহিত করেছে। কুরতুবী ইবনুল আরাবীর কথা আনেন: সবচেয়ে মজবুত মত ইবন আব্বাসের। সঠিক কথা হলো, এটি ছিল মদ হারাম হওয়ার আগের। তাই এটি মানসূখ। কারণ আলেমদের সর্বসম্মতিক্রমে আয়াতটি মক্কী, আর মদ হারামের বিধান মাদানী। বাগাভীও বলেন, মতগুলোর মধ্যে সবচেয়ে সংগত হলো রহিত হওয়ার মত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Keeps It in Force",
+          "bn": "তাবারীর মতে বিধান বহাল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari chose a different reading. He reports a third group for whom sakar is whatever is lawful to drink, such as lawful nabidh and vinegar, with good provision meaning dates and raisins. Ash-Sha'bi was asked whether the verse meant the sakar the Nabataeans make. He answered: no, that is wine; the sakar Allah meant is nabidh and vinegar. On this reading, at-Tabari says, the verse is not abrogated and its ruling stands, and in his view this is the most fitting of the interpretations.",
+            "bn": "তাবারী ভিন্ন একটি ব্যাখ্যা বেছে নিয়েছেন। তিনি তৃতীয় একটি দলের কথা আনেন, যাদের মতে সাকার হলো যা পান করা হালাল, যেমন হালাল নাবীয ও সিরকা। আর উত্তম রিজিক হলো খেজুর ও কিশমিশ। শা'বীকে জিজ্ঞেস করা হয়েছিল, আয়াতে কি নাবাতীরা যে সাকার বানায় সেটার কথা বলা হয়েছে? তিনি বললেন, না, ওটা তো মদ। আল্লাহ যে সাকারের কথা বলেছেন, তা হলো নাবীয আর সিরকা। তাবারী বলেন, এ ব্যাখ্যায় আয়াতটি মানসূখ নয়, এর বিধান বহাল আছে। আর তাঁর মতে আয়াতের ব্যাখ্যায় এটিই সবচেয়ে সংগত।"
+          },
+          {
+            "en": "His argument starts from a premise he does not doubt: what intoxicates is forbidden, as he says he has shown in another of his books. Abrogation, he reasons, applies only where a later ruling negates an earlier ruling, so that both cannot stand together. The prohibition of wine is no evidence that a sakar which is not wine, and does not intoxicate, is forbidden. Nothing in the revelation, no report from the Prophet ﷺ and no consensus of the community says the clause is abrogated. So sakar here is whatever is lawful to drink from palm and vine.",
+            "bn": "তাঁর যুক্তির শুরুই এমন এক কথা দিয়ে, যাতে তাঁর কোনো সন্দেহ নেই: যা নেশা ধরায় তা হারাম। তিনি বলেন, এ কথা তিনি তাঁর আরেকটি বইয়ে প্রমাণ করেছেন। তাঁর যুক্তি হলো, নাসখ তখনই হয়, যখন পরের বিধান আগের বিধানকে নাকচ করে দেয় এবং দুটো একসঙ্গে টিকতে পারে না। মদ হারাম হওয়া এ কথার দলিল নয় যে, যে সাকার মদ নয় এবং নেশাও ধরায় না, তা-ও হারাম। আয়াতে, নবী ﷺ-এর কোনো হাদীসে বা উম্মাহর ইজমায় কোথাও বলা হয়নি যে অংশটি মানসূখ। তাই এখানে সাকার মানে খেজুর আর আঙুর থেকে তৈরি এমন সব কিছু, যা পান করা হালাল।"
+          },
+          {
+            "en": "The reports from ash-Sha'bi pull in more than one direction. At-Tabari also lists him among those who called the clause abrogated, al-Baghawi has him say that sakar is what you drank and good provision what you ate, and al-Qurtubi places him with those who read sakar as wine. Al-Qurtubi calls at-Tabari's choice good, with no abrogation, before recording al-Zajjaj's objection. What divides the two sides is the meaning of one word. On the ruling itself, that intoxicants are forbidden, every commentator cited here speaks with one voice.",
+            "bn": "শা'বী থেকে আসা বর্ণনাগুলো এক দিকে যায় না। তাবারী তাঁকে মানসূখ বলা লোকদের তালিকাতেও রাখেন। বাগাভীর বর্ণনায় শা'বী বলেন, সাকার হলো যা তুমি পান করেছ, আর উত্তম রিজিক হলো যা তুমি খেয়েছ। কুরতুবী আবার তাঁকে রাখেন সাকারকে মদ অর্থে নেওয়া লোকদের দলে। কুরতুবী তাবারীর পছন্দকে ভালো বলেন, এতে নাসখও মানতে হয় না। তারপর তিনি যাজ্জাজের আপত্তি তুলে ধরেন। দুই পক্ষের মতভেদ একটি শব্দের অর্থ নিয়ে। কিন্তু মূল বিধানে, অর্থাৎ নেশাদার জিনিস হারাম হওয়ার প্রশ্নে, এখানে উদ্ধৃত সব তাফসীরকারের কথা এক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report, Not a Permit",
+          "bn": "খবর দেওয়া, অনুমতি নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi records that some took sakar as intoxicating nabidh, steeped dates or raisins once the drink has grown strong. Those who forbid it reply that the verse is a report, not a permission: it tells what people did and does not declare it lawful. Ma'arif al-Qur'an reaches the same point from the verse's purpose. It describes the blessings and the forms they take in use, so it cannot prove that liquor is lawful. And setting good provision against sakar, it adds, is a quiet hint that sakar is not good provision.",
+            "bn": "বাগাভী উল্লেখ করেন, কেউ কেউ সাকারকে নেশাধরা নাবীয অর্থে নিয়েছেন। অর্থাৎ পানিতে ভেজানো খেজুর বা কিশমিশ, যখন তা কড়া হয়ে যায়। যাঁরা একে হারাম বলেন, তাঁদের জবাব হলো: আয়াতটি খবর দিচ্ছে, অনুমতি দিচ্ছে না। মানুষ কী করত তা জানাচ্ছে, তাকে হালাল ঘোষণা করছে না। মাআরিফুল কুরআন আয়াতের উদ্দেশ্য থেকে একই জায়গায় পৌঁছায়। আয়াতটি নিয়ামতের কথা বলে, আর মানুষ ব্যবহার করতে গিয়ে নিয়ামতকে কী কী রূপ দেয় তা বলে। তাই এ আয়াত দিয়ে মদ হালাল প্রমাণ করা যায় না। মাআরিফ আরও বলে, সাকারের বিপরীতে উত্তম রিজিক রাখার মধ্যেই সূক্ষ্ম ইঙ্গিত আছে যে সাকার উত্তম রিজিক নয়।"
+          },
+          {
+            "en": "Al-Qurtubi records two further readings. One takes the clause as a statement with the force of a rebuking question: do you take intoxicant from it, and leave the good provision of vinegar, raisins and dates? The other says the verse was given for reflection: whoever can create these things can raise the dead, and that lesson holds whether wine is lawful or forbidden. He compares it with 2:219, which says of wine and gambling that in them is great sin and some benefit for people, and that their sin is greater than their benefit.",
+            "bn": "কুরতুবী আরও দুটি ব্যাখ্যা উল্লেখ করেন। একটি অনুযায়ী বাক্যটি বিবৃতির আকারে ভর্ৎসনার প্রশ্ন: তোমরা কি তা থেকে নেশার জিনিস বানাবে, আর সিরকা, কিশমিশ ও খেজুরের মতো উত্তম রিজিক ছেড়ে দেবে? অন্যটি অনুযায়ী আয়াতটি এসেছে চিন্তার খোরাক হিসেবে। যিনি এসব সৃষ্টি করতে পারেন, তিনি মৃতকে জীবিত করতেও পারেন। মদ হালাল হোক বা হারাম, এ শিক্ষা তাতে বদলায় না। তিনি এর তুলনা দেন ২:২১৯ আয়াতের সঙ্গে। সেখানে মদ ও জুয়া সম্পর্কে বলা হয়েছে, এ দুটিতে বড় গুনাহ আছে, মানুষের জন্য কিছু উপকারও আছে, তবে উপকারের চেয়ে গুনাহই বড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Ruling Came to Rest",
+          "bn": "বিধান যেখানে চূড়ান্ত হলো"
+        },
+        "p": [
+          {
+            "en": "Whatever the reading of one word, the commentators leave no doubt about the ruling. Qatada places the prohibition in Surat al-Ma'ida, where 5:90 calls wine, gambling, stone altars and divining arrows defilement from the work of Satan and commands the believers to avoid it, and 5:91 names what Satan wants through them: enmity, hatred, and turning people from the remembrance of Allah and from prayer. As-Sa'di says Allah abrogated the lawfulness of intoxicants and gave in their place good, lawful drinks. The stages between are traced in the reflection on 4:43.",
+            "bn": "একটি শব্দের অর্থ যা-ই ধরা হোক, বিধান নিয়ে তাফসীরকারেরা কোনো সন্দেহ রাখেন না। কাতাদা নিষেধাজ্ঞার জায়গা দেখান সূরা মায়েদায়। সেখানে ৫:৯০ আয়াত মদ, জুয়া, পূজার বেদি আর ভাগ্য নির্ণয়ের তীরকে বলেছে শয়তানের কাজের অপবিত্র জিনিস, আর মুমিনদের হুকুম দিয়েছে তা থেকে দূরে থাকতে। ৫:৯১ আয়াত বলে দিয়েছে এগুলোর মাধ্যমে শয়তান কী চায়: শত্রুতা ও বিদ্বেষ ছড়াতে, আর আল্লাহর জিকির ও নামায থেকে মানুষকে ফিরিয়ে রাখতে। সা'দী বলেন, আল্লাহ মাদকের হালাল হওয়ার বিধান রহিত করেছেন এবং তার বদলে দিয়েছেন উত্তম ও হালাল পানীয়। মাঝখানের ধাপগুলোর আলোচনা আছে ৪:৪৩ আয়াতের তাদাব্বুরে।"
+          },
+          {
+            "en": "Ibn Kathir draws a further ruling from the verse itself. By naming the palm and the vine together, it shows that an intoxicant made from dates is the same as one made from grapes, the position of Malik, ash-Shafi'i, Ahmad and the majority of scholars, and the same holds for drinks made from wheat, barley, corn and honey. What stays lawful, he says, is the dried fruit, the date and the raisin, and what is made from them, such as molasses, vinegar and nabidh drunk before it turns strong.",
+            "bn": "ইবন কাসীর আয়াত থেকেই আরেকটি বিধান বের করেন। খেজুর গাছ আর আঙুরলতার নাম একসঙ্গে নেওয়ায় বোঝা যায়, খেজুর থেকে তৈরি নেশার জিনিস আর আঙুর থেকে তৈরি নেশার জিনিসের বিধান এক। এটি মালিক, শাফেঈ, আহমাদ ও অধিকাংশ আলেমের মত। গম, যব, ভুট্টা আর মধু থেকে তৈরি পানীয়ের বিধানও একই। তিনি বলেন, হালাল থাকে শুকনো ফল, অর্থাৎ খেজুর ও কিশমিশ। আর এগুলো থেকে তৈরি জিনিসও হালাল, যেমন গুড়ের মতো ঘন রস, সিরকা আর কড়া হওয়ার আগে পান করা নাবীয।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Intoxicant Is Khamr",
+          "bn": "প্রতিটি নেশাদার জিনিসই খামর"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports that Hanafi jurists read sakar here as nabidh that does not intoxicate, reasoning that Allah reminds His servants of a favour only with what is lawful. He grants the premise and answers that the favour can be read as coming before wine was forbidden, and that the Prophet ﷺ was firmly reported to have said that every intoxicant is forbidden. Muslim records from Ibn 'Umar (RA) that the Messenger of Allah ﷺ said: every intoxicant is khamr, and every intoxicant is forbidden.",
+            "bn": "কুরতুবী জানান, হানাফী ফকীহরা এখানে সাকারকে এমন নাবীয অর্থে নিয়েছেন, যা নেশা ধরায় না। তাঁদের যুক্তি, আল্লাহ বান্দাকে নিয়ামতের কথা মনে করিয়ে দেন কেবল হালাল জিনিস দিয়েই। কুরতুবী এ মূলনীতি মেনে নিয়েই জবাব দেন: নিয়ামতের এ উল্লেখকে মদ হারাম হওয়ার আগের বলে ধরা যায়। আর নবী ﷺ থেকে মজবুত সূত্রে এসেছে যে প্রতিটি নেশাদার জিনিস হারাম। মুসলিম ইবন উমার (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: প্রতিটি নেশাদার জিনিসই খামর, আর প্রতিটি নেশাদার জিনিসই হারাম।"
+          },
+          {
+            "en": "Al-Bukhari records from 'A'isha (RA) that the Prophet ﷺ said: every drink that intoxicates is forbidden. Both collectors placed these reports in their Sahih collections. Neither is told about this verse, and they are brought here as the settled ruling, not as the occasion of its revelation. None of the commentators read for this verse attaches an established report of why it came down; what they give is its place, Makkan and before the prohibition, and that is all this article claims.",
+            "bn": "বুখারী আয়েশা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে পানীয় নেশা ধরায়, তা-ই হারাম। দুজন সংকলকই এ বর্ণনাগুলো তাঁদের সহীহ গ্রন্থে রেখেছেন। দুটির কোনোটিই এ আয়াত প্রসঙ্গে বলা হয়নি। এখানে এগুলো আনা হয়েছে চূড়ান্ত বিধান হিসেবে, আয়াত নাজিলের কারণ হিসেবে নয়। এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর নাজিলের প্রমাণিত কোনো কারণ উল্লেখ করেনি। তারা জানায় শুধু এর সময়কাল: আয়াতটি মক্কী, নিষেধাজ্ঞার আগের। এ লেখা এর বেশি কিছু দাবি করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reason, the Thing Protected",
+          "bn": "যে বুদ্ধিকে আগলে রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Inna fi dhalika la-ayatan li-qawmin ya'qilun: in that is a sign for a people who reason. Ibn Kathir finds the word fitting here, because reason is the noblest thing in a human being, and that is why Allah forbade intoxicating drinks to this community: to protect its reason. At-Tabari reads it as people who understand Allah's proofs and take His admonitions to heart. As-Sa'di sees His power in fruit drawn out of trees that look like firewood, and His mercy in spreading it among His servants.",
+            "bn": "ইন্না ফী যালিকা লাআয়াতাল লিকাওমিই ইয়া'কিলূন: নিশ্চয়ই এতে নিদর্শন আছে এমন লোকদের জন্য, যারা বুদ্ধি খাটায়। ইবন কাসীরের মতে এখানে বুদ্ধির কথা বলাটা খুবই মানানসই। কারণ মানুষের ভেতরে সবচেয়ে মর্যাদার জিনিস তার বুদ্ধি। আর এ কারণেই আল্লাহ এ উম্মতের জন্য নেশাধরা পানীয় হারাম করেছেন, যাতে তাদের বুদ্ধি সুরক্ষিত থাকে। তাবারীর ব্যাখ্যায় এরা সেই লোক, যারা আল্লাহর দলিল বোঝে আর তাঁর উপদেশ মনে গেঁথে নেয়। সা'দী এখানে দেখেন আল্লাহর কুদরত: লাকড়ির মতো দেখতে গাছ থেকে তিনি সুস্বাদু ফল বের করেন। আর দেখেন তাঁর রহমত: সে ফল তিনি সব বান্দার মাঝে ছড়িয়ে দিয়েছেন।"
+          },
+          {
+            "en": "Ibn Zayd sums the verse up: the fruit was lawful as it was, until they changed it and made sakar of it. Ibn Kathir closes with 36:34 and 36:35: gardens of palms and vines, and springs made to gush, so that they may eat of their fruit. Will they not give thanks? The same date that nourishes a household can, through human hands, become what clouds the mind. The verse asks whoever reasons to look at the gift, thank its Giver, and keep his hands on the side of good provision.",
+            "bn": "ইবন যায়দ পুরো আয়াতটা এক কথায় বলে দেন: ফল যেমন ছিল তেমনই হালাল ছিল, যতক্ষণ না মানুষ তা বদলে সাকার বানাল। ইবন কাসীর শেষ করেন ৩৬:৩৪ ও ৩৬:৩৫ আয়াত দিয়ে। সেখানে আছে খেজুর ও আঙুরের বাগান আর উৎসারিত ঝরনার কথা, যাতে মানুষ তার ফল খায়। তবু কি তারা শুকরিয়া আদায় করবে না? যে খেজুর গোটা পরিবারের মুখে খাবার তোলে, মানুষের হাতে পড়ে সেটাই হতে পারে বুদ্ধি ঘোলা করার জিনিস। যে বুদ্ধি খাটায়, আয়াত তাকে বলে নিয়ামতের দিকে তাকাতে, দাতার শুকরিয়া করতে, আর নিজের হাতকে উত্তম রিজিকের পক্ষে রাখতে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:72": {
     "sections": [
       {

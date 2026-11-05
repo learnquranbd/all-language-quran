@@ -22371,6 +22371,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask what you argue for and lean on, and let go of whatever will not stand with you before Allah. Seek knowledge that speaks the truth.",
     "lessonBn": "আপনি কীসের পক্ষে তর্ক করেন আর কীসের উপর ভরসা রাখেন, ভেবে দেখুন। আল্লাহর সামনে যা আপনার পাশে দাঁড়াবে না, তা ছেড়ে দিন। এমন জ্ঞান খুঁজুন যা সত্য বলে।"
+  },
+  "16:67": {
+    "reflectionEn": "The verse before spoke of milk, given to drink pure, with nothing for us to do but drink. Here the gift comes as fruit, dates and grapes, and the verse names two things people take from it: sakar, a drink that clouds the mind, and good provision. It came down in Makkah, before intoxicants were forbidden, and the final word on them came later as a clear prohibition. Yet even here, only one of the two is called good. The same fruit passes through human hands and comes out either as nourishment or as something that steals reason. And the verse closes by addressing people who use their reason. What am I making of the good I have been given?",
+    "reflectionBn": "আগের আয়াতে ছিল দুধের কথা। খাঁটি দুধ পান করানো হয়, আমাদের শুধু পান করলেই চলে। এখানে নিয়ামত আসে ফল হয়ে, খেজুর আর আঙুর। আয়াতটি বলে, মানুষ তা থেকে দুটি জিনিস বানায়: সাকার, অর্থাৎ বুদ্ধি ঘোলা করে দেওয়া পানীয়, আর উত্তম রিজিক। আয়াতটি নাজিল হয়েছিল মক্কায়, মাদক হারাম হওয়ার আগে। পরে এ নিয়ে চূড়ান্ত বিধান এসেছে স্পষ্ট নিষেধ হয়ে। তবু এখানেও দুটির মধ্যে উত্তম বলা হয়েছে কেবল একটিকে। একই ফল মানুষের হাত ঘুরে কখনো হয় পুষ্টি, কখনো হয় বুদ্ধি কেড়ে নেওয়ার জিনিস। আর আয়াত শেষ হয় তাদের সম্বোধন করে, যারা বুদ্ধি খাটায়। আমাকে যে ভালো জিনিস দেওয়া হয়েছে, তা দিয়ে আমি কী বানাচ্ছি?",
+    "pointsEn": [
+      "Which blessing in my hands am I turning into something that harms me or the people around me?",
+      "When I eat a date or a handful of grapes, do I remember that it came out of wood and soil by His command?",
+      "Besides drink, what clouds my judgement, and do I guard my mind from it as the law guards it from intoxicants?",
+      "When a verse seems to mention something that is now forbidden, do I read it alongside the rest of the Qur'an and its final ruling?",
+      "Do I use my reason to see Allah's signs, or mostly to find excuses for what I already want?"
+    ],
+    "pointsBn": [
+      "আমার হাতে থাকা কোন নিয়ামতকে আমি এমন কিছুতে বদলে ফেলছি, যা আমার বা আশপাশের মানুষের ক্ষতি করে?",
+      "একটা খেজুর বা এক মুঠো আঙুর খাওয়ার সময় কি মনে পড়ে যে তাঁর হুকুমেই তা কাঠ আর মাটি থেকে বেরিয়ে এসেছে?",
+      "মদ ছাড়া আর কী আমার বিচারবুদ্ধি ঘোলা করে দেয়? শরিয়ত যেমন মাদক থেকে বুদ্ধিকে আগলে রাখে, আমি কি তেমনি সেটা থেকে মনকে আগলে রাখি?",
+      "কোনো আয়াতে যদি এমন কিছুর উল্লেখ দেখি যা এখন হারাম, আমি কি তা কুরআনের বাকি অংশ আর তার চূড়ান্ত বিধানের সঙ্গে মিলিয়ে পড়ি?",
+      "আমি কি বুদ্ধি খাটাই আল্লাহর নিদর্শন দেখতে, নাকি বেশিরভাগ সময় মনের ইচ্ছার পক্ষে অজুহাত খুঁজতে?"
+    ],
+    "lessonEn": "The same fruit can become good provision or a drink that clouds the mind. Intoxicants are forbidden, so use Allah's gifts in ways that keep your reason clear and your gratitude alive.",
+    "lessonBn": "একই ফল হতে পারে উত্তম রিজিক, আবার হতে পারে বুদ্ধি ঘোলা করা পানীয়। মাদক হারাম। তাই আল্লাহর নিয়ামত এমনভাবে কাজে লাগান, যাতে বুদ্ধি থাকে পরিষ্কার আর শুকরিয়া থাকে জীবন্ত।"
   }
 };
 
