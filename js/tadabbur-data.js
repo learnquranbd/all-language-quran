@@ -21351,6 +21351,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pray for the guidance of the living you love, treat them with kindness, and leave every person's final end to Allah, who alone knows it.",
     "lessonBn": "যে প্রিয়জনেরা বেঁচে আছেন তাঁদের হিদায়াতের জন্য দোয়া করুন, তাঁদের সঙ্গে সদয় আচরণ করুন, আর প্রত্যেকের শেষ পরিণাম আল্লাহর হাতে ছেড়ে দিন, তিনিই একমাত্র তা জানেন।"
+  },
+  "10:47": {
+    "reflectionEn": "Every nation was sent a messenger. The verse opens on that and moves straight to a judgment: when their messenger comes, the matter between them is settled with justice, and no one is wronged. The commentators differ over which coming is meant, the messenger arriving among his people in this world, or standing with them as a witness on the Day. Either way the order holds. First the message is delivered, then the verdict follows, and no one is judged by a message that never reached them. That order is mercy, and it is also a warning, because the message has reached me. So the question the verse leaves me with is not whether I was told. It is what I did once I was.",
+    "reflectionBn": "প্রত্যেক জাতির কাছে একজন রসূল পাঠানো হয়েছে। আয়াত এ কথা দিয়ে শুরু করে সোজা চলে যায় ফায়সালায়: তাদের রসূল যখন আসেন, তখন তাদের মাঝে ন্যায়ের সঙ্গে মীমাংসা হয়, আর কারও প্রতি যুলম হয় না। কোন আসার কথা বলা হচ্ছে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কারও মতে দুনিয়ায় নিজের কওমের মাঝে রসূলের আগমন, কারও মতে কিয়ামতের দিন সাক্ষী হয়ে তাদের সঙ্গে তাঁর উপস্থিতি। যেটাই হোক, ক্রমটা একই থাকে। আগে বার্তা পৌঁছায়, তারপর রায় আসে। যে বার্তা কারও কাছে পৌঁছায়নি, তা দিয়ে তাকে বিচার করা হয় না। এই ক্রম রহমত, আবার সতর্কবাণীও, কারণ বার্তা আমার কাছে পৌঁছে গেছে। তাই আয়াত আমার সামনে যে প্রশ্ন রেখে যায়, তা এই নয় যে আমাকে জানানো হয়েছিল কি না। প্রশ্ন হলো, জানার পর আমি কী করেছি।",
+    "pointsEn": [
+      "If my messenger were asked on that Day whether he conveyed the message to me, what would my life say in reply?",
+      "Which part of what has reached me do I still treat as though I had never heard it?",
+      "When I feel judged unfairly, do I remember that Allah's judgment waits for the proof and wrongs no one?",
+      "Do I hold others to things they were never told, while excusing myself for things I was told plainly?",
+      "What would change this week if I lived as someone whose warning has already arrived?"
+    ],
+    "pointsBn": [
+      "সেদিন যদি আমার রসূলকে জিজ্ঞেস করা হয়, তিনি আমার কাছে বার্তা পৌঁছে দিয়েছিলেন কি না, তবে আমার জীবন তার কী জবাব দেবে?",
+      "যা আমার কাছে পৌঁছে গেছে, তার কোন অংশকে আমি এখনো এমনভাবে দেখি, যেন কখনো শুনিইনি?",
+      "নিজেকে অন্যায়ভাবে বিচারিত মনে হলে আমার কি মনে পড়ে যে আল্লাহর ফায়সালা প্রমাণ পৌঁছানোর অপেক্ষা করে, আর কারও প্রতি যুলম করে না?",
+      "যা অন্যদের কখনো জানানো হয়নি, তার জন্য কি আমি তাদের ধরি, অথচ যা আমাকে পরিষ্কার করে জানানো হয়েছে, তার বেলায় নিজেকে ছাড় দিই?",
+      "যার কাছে সতর্কবাণী এসে গেছে, তার মতো করে বাঁচলে এ সপ্তাহে আমার জীবনে কী বদলাত?"
+    ],
+    "lessonEn": "Allah judges no one before His message reaches them, and it has reached you. Live by what you were told, for the judgment will be just.",
+    "lessonBn": "বার্তা পৌঁছানোর আগে আল্লাহ কাউকে বিচার করেন না, আর আপনার কাছে তা পৌঁছে গেছে। যা জানানো হয়েছে সে অনুযায়ী চলুন, কারণ ফায়সালা হবে ন্যায়ের সঙ্গে।"
   }
 };
 

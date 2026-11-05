@@ -1415,6 +1415,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:47": {
+    "sections": [
+      {
+        "h": {
+          "en": "Show You, or Take You",
+          "bn": "দেখানো হোক বা তুলে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse before this one speaks to the Prophet ﷺ: whether We show you some of what We promise them, or take you in death, to Us is their return, and Allah is witness over what they do. Ibn Kathir's abridged English heads 10:46 and 10:47 together: the criminals will certainly be avenged, whether in this world or in the Hereafter. That heading already holds both readings this article must keep apart.",
+            "bn": "আগের আয়াতটি নবী ﷺ-কে উদ্দেশ করে বলা: তাদের যে প্রতিশ্রুতি দিয়েছি তার কিছু তোমাকে দেখাই, কিংবা তোমাকে তুলে নিই, তাদের ফিরে আসা আমারই কাছে, আর তারা যা করে আল্লাহ তার সাক্ষী। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১০:৪৬ ও ১০:৪৭ আয়াতের উপর একটাই শিরোনাম বসায়: অপরাধীদের থেকে প্রতিশোধ নেওয়া হবেই, দুনিয়ায় হোক বা আখিরাতে। এ প্রবন্ধে যে দুটি ব্যাখ্যা আলাদা রাখতে হবে, দুটিই ওই শিরোনামে ধরা আছে।"
+          },
+          {
+            "en": "Then comes the verse itself, twelve Arabic words: wa li-kulli ummatin rasul, fa-idha ja'a rasuluhum qudiya baynahum bil-qisti wa hum la yuzlamun. And for every nation is a messenger; so when their messenger comes, it is judged between them with justice, and they are not wronged. The next verse, 10:48, gives the deniers' reply in their own words: when is this promise, if you are truthful? So the verse stands between a promise about the end and a demand to name its date.",
+            "bn": "তারপর আসে এ আয়াত, আরবিতে বারোটি শব্দ: ওয়া লিকুল্লি উম্মাতির রাসূল, ফাইযা জাআ রাসূলুহুম কুদিয়া বাইনাহুম বিলকিসতি ওয়া হুম লা ইউযলামূন। প্রত্যেক জাতির জন্য আছেন একজন রসূল। তাদের রসূল যখন আসেন, তখন ন্যায়ের সঙ্গে তাদের মাঝে ফায়সালা হয়, আর তাদের প্রতি যুলম করা হয় না। পরের আয়াত ১০:৪৮ অস্বীকারকারীদের জবাব তাদের নিজের ভাষায় তুলে ধরে: তোমরা সত্যবাদী হলে বলো, এ প্রতিশ্রুতি কবে? আয়াতটি তাই দাঁড়িয়ে আছে শেষ পরিণামের এক প্রতিশ্রুতি আর তার তারিখ জানতে চাওয়া এক দাবির মাঝখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qudiya, Qist, Yuzlamun",
+          "bn": "কুদিয়া, কিসত, ইউযলামূন"
+        },
+        "p": [
+          {
+            "en": "The verse moves in four clauses. Li-kulli ummatin rasul puts the nation first: for every nation there is someone sent. Fa-idha, so when, ties the judgment to that coming. Qudiya baynahum is passive, it is judged between them, and it names no judge, because there is no other. Wa hum la yuzlamun is passive again: and they are not wronged.",
+            "bn": "আয়াতটি চলে চারটি অংশে। লিকুল্লি উম্মাতির রাসূল অংশে জাতির উল্লেখ আগে: প্রত্যেক জাতির জন্য একজন প্রেরিত আছেন। ফাইযা, অর্থাৎ যখনই, ফায়সালাকে বেঁধে দেয় সেই আগমনের সঙ্গে। কুদিয়া বাইনাহুম কর্মবাচ্যে: তাদের মাঝে ফায়সালা করা হয়। বিচারকের নাম নেই, কারণ তিনি ছাড়া আর কোনো বিচারক নেই। ওয়া হুম লা ইউযলামূনও কর্মবাচ্যে: তাদের প্রতি যুলম করা হয় না।"
+          },
+          {
+            "en": "Al-qist is defined the same way by every commentator fetched for this verse who stops on it. At-Tabari glosses it as al-'adl, justice, and backs the gloss with a report from Mujahid through Ibn Abi Najih: bil-qist, he said, means with justice. Al-Qurtubi and the Muyassar give the same word. Two verses on, 10:49 repeats the opening shape with one noun changed, li-kulli ummatin ajal, every nation has a term; that verse's own article takes up the pairing, so this one leaves it there.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো আনা হয়েছে, তার যেগুলো কিসত শব্দে থেমেছে, সবগুলো একই অর্থ দেয়। তাবারী একে বলেন আল-আদল, অর্থাৎ ন্যায়বিচার। সমর্থনে তিনি ইবন আবী নাজীহের সূত্রে মুজাহিদের একটি বর্ণনা আনেন: বিলকিসত মানে ন্যায়ের সঙ্গে। কুরতুবী ও মুয়াসসারও একই শব্দ দেন। দুই আয়াত পরে ১০:৪৯ আয়াতে শুরুর গড়নটা ফিরে আসে, শুধু একটি শব্দ বদলে: লিকুল্লি উম্মাতিন আজাল, প্রত্যেক জাতির আছে এক নির্ধারিত মেয়াদ। জোড়াটা নিয়ে সে আয়াতের প্রবন্ধেই আলোচনা আছে, তাই এখানে কথা ওইটুকুতেই থাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent Into Every Nation",
+          "bn": "প্রত্যেক জাতির কাছে প্রেরিত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari makes the first clause a word to the listeners: to every nation that passed before you, O people, there was a messenger I sent to them, as I sent Muhammad to you, and they called those they were sent to towards Allah's religion and obedience to Him. The Muyassar repeats his sentence almost word for word. As-Sa'di says the same of the past nations and names the content of the call: the oneness of Allah and His religion. Al-Qurtubi adds a function: a messenger who is a witness over them.",
+            "bn": "তাবারী প্রথম অংশটিকে শ্রোতাদের প্রতি সরাসরি কথা হিসেবে পড়েন: হে মানুষ, তোমাদের আগে যত জাতি গত হয়েছে, তাদের প্রত্যেকের কাছে আমি একজন রসূল পাঠিয়েছিলাম, যেমন মুহাম্মাদকে পাঠিয়েছি তোমাদের কাছে। তাঁরা নিজ নিজ জাতিকে ডেকেছেন আল্লাহর দীন ও তাঁর আনুগত্যের দিকে। মুয়াসসার তাঁর বাক্যটি প্রায় হুবহু দোহরায়। সা'দীও অতীতের জাতিগুলোর কথাই বলেন, আর ডাকের বিষয়টা স্পষ্ট করেন: আল্লাহর একত্ব ও তাঁর দীন। কুরতুবী যোগ করেন রসূলের আরেকটি ভূমিকা: তিনি তাদের উপর সাক্ষী।"
+          },
+          {
+            "en": "The Qur'an says this elsewhere in its own words. 16:36: We certainly sent into every nation a messenger, saying, worship Allah and avoid taghut. 35:24: there was no nation but a warner passed within it. Neither verse lists the nations or names their messengers, and 40:78 explains why: of the messengers before you are some whose stories We have told you, and some whose stories We have not. The Qur'an names some prophets and their peoples; for the rest it gives the rule and keeps back the names. To attach a particular prophet to a nation it does not name is to say more than it says.",
+            "bn": "কুরআন অন্য জায়গাতেও নিজের ভাষায় একই কথা বলে। ১৬:৩৬ আয়াতে: প্রত্যেক জাতির কাছে আমি রসূল পাঠিয়েছি এ বার্তা দিয়ে যে, আল্লাহর ইবাদত করো আর তাগূতকে বর্জন করো। ৩৫:২৪ আয়াতে: এমন কোনো জাতি নেই, যার মাঝে একজন সতর্ককারী আসেননি। কোনো আয়াতেই জাতিগুলোর তালিকা নেই, রসূলদের নামও নেই। কেন নেই, তা বলে দেয় ৪০:৭৮: তোমার আগের রসূলদের কারও কাহিনি তোমাকে শুনিয়েছি, কারও শোনাইনি। কুরআন কয়েকজন নবী ও তাঁদের কওমের নাম বলেছে। বাকিদের বেলায় নিয়মটা জানিয়েছে, নামগুলো জানায়নি। কুরআন যে জাতির নাম নেয়নি, তার সঙ্গে নির্দিষ্ট কোনো নবীকে জুড়ে দেওয়া মানে কুরআনের চেয়ে বেশি বলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Witness Is Brought",
+          "bn": "যখন সাক্ষীকে হাজির করা হবে"
+        },
+        "p": [
+          {
+            "en": "Fa-idha ja'a rasuluhum, so when their messenger comes: which coming? The commentators fetched for this verse divide here, and both sides deserve a hearing. The first reading places it on the Day of Resurrection. At-Tabari says so in his own voice, fi al-akhira, in the Hereafter, and supports it with a report from Mujahid through Ibn Jurayj: when their messenger comes, he said, means the Day of Resurrection. Ibn Kathir quotes the same words from Mujahid, al-Baghawi gives them from Mujahid and Muqatil together, and the Muyassar adopts the Hereafter reading outright.",
+            "bn": "ফাইযা জাআ রাসূলুহুম, যখন তাদের রসূল আসেন। কোন আসা? এখানে এসে আনা তাফসীরগুলো দুই ভাগ হয়ে যায়, আর দুই পক্ষের কথাই শোনার মতো। প্রথম ব্যাখ্যায় এ আসা কিয়ামতের দিন। তাবারী নিজের ভাষায় বলেন, ফিল আখিরাহ, অর্থাৎ আখিরাতে। সমর্থনে আনেন ইবন জুরাইজের সূত্রে মুজাহিদের বর্ণনা: তাদের রসূল যখন আসেন, মানে কিয়ামতের দিন। ইবন কাসীর মুজাহিদের একই কথা উদ্ধৃত করেন। বাগাভী কথাটি আনেন মুজাহিদ ও মুকাতিল দুজনের নামে। মুয়াসসার সরাসরি আখিরাতের ব্যাখ্যাই গ্রহণ করে।"
+          },
+          {
+            "en": "Al-Qurtubi gives this reading first and frames it through 4:41: so how will it be when We bring from every nation a witness? On this view each nation's messenger is a witness over it, and judgment follows his coming on that Day. He then cites Ibn Abbas: tomorrow the disbelievers will deny that the messengers came to them, so the messenger will be brought and will say, I conveyed the message to you; then the punishment is decreed against them. His proof is 2:143: and the Messenger will be a witness over you.",
+            "bn": "কুরতুবী এ ব্যাখ্যা আগে আনেন, আর তা বোঝান ৪:৪১ আয়াত দিয়ে: তখন কী অবস্থা হবে, যখন আমি প্রত্যেক জাতি থেকে একজন সাক্ষী হাজির করব? এ মতে প্রত্যেক জাতির রসূল তাদের উপর সাক্ষী, আর সেদিন তাঁর আসার পরই ফায়সালা। তারপর তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: কাল কাফিররা অস্বীকার করবে যে রসূলরা তাদের কাছে এসেছিলেন। তখন রসূলকে আনা হবে, তিনি বলবেন, আমি তোমাদের কাছে বার্তা পৌঁছে দিয়েছি। তখনই তাদের বিরুদ্ধে শাস্তির ফায়সালা হবে। তাঁর প্রমাণ ২:১৪৩: আর রসূল হবেন তোমাদের উপর সাক্ষী।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 39:69, which draws the same scene at length: the earth shines with the light of its Lord, the record is laid down, the prophets and the witnesses are brought, it is judged between them in truth, and they are not wronged. That last clause is word for word the close of 10:47. Ibn Kathir fills in the picture: every nation presented to Allah in its messenger's presence, its record laid down as a witness, its guardian angels witnesses too.",
+            "bn": "ইবন কাসীর আয়াতটি রাখেন ৩৯:৬৯ আয়াতের পাশে, যেখানে একই দৃশ্য বিস্তারে আঁকা: জমিন তার রবের নূরে ঝলমল করে উঠবে, আমলনামা সামনে রাখা হবে, নবী ও সাক্ষীদের হাজির করা হবে, তাদের মাঝে সত্যের সঙ্গে ফায়সালা হবে, আর তাদের প্রতি যুলম করা হবে না। শেষ অংশটি হুবহু ১০:৪৭ আয়াতের শেষ অংশ। ইবন কাসীর ছবিটা পূর্ণ করেন: প্রত্যেক জাতিকে তার রসূলের উপস্থিতিতে আল্লাহর সামনে পেশ করা হবে, তার আমলনামা সাক্ষী হিসেবে রাখা থাকবে, আর পাহারাদার ফেরেশতারাও সাক্ষী থাকবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rescue and Ruin Here",
+          "bn": "এই দুনিয়াতেই মুক্তি ও ধ্বংস"
+        },
+        "p": [
+          {
+            "en": "The second reading keeps the scene in this world. As-Sa'di explains it as the history of the past nations: their messenger came to them with signs, some believed him and others denied him, and Allah judged between them with justice by rescuing the believers and destroying the deniers. Al-Baghawi opens with the same reading before he quotes Mujahid: when their messenger came and they denied him, the judgment was that they were punished in this world and destroyed; before the messenger came, he adds, there was neither reward nor punishment.",
+            "bn": "দ্বিতীয় ব্যাখ্যা দৃশ্যটিকে এই দুনিয়াতেই রাখে। সা'দী একে অতীত জাতিগুলোর ইতিহাস হিসেবে ব্যাখ্যা করেন। তাদের রসূল নিদর্শন নিয়ে এসেছিলেন। কেউ তাঁকে সত্য বলে মেনেছে, কেউ মিথ্যা বলেছে। তখন আল্লাহ ন্যায়ের সঙ্গে তাদের মাঝে ফায়সালা করেছেন: মুমিনদের বাঁচিয়েছেন, অস্বীকারকারীদের ধ্বংস করেছেন। বাগাভীও মুজাহিদের কথা আনার আগে এই ব্যাখ্যা দিয়েই শুরু করেন। তাঁর মতে, রসূল এলেন আর তারা তাঁকে মিথ্যা বলল, তখন ফায়সালা হলো দুনিয়াতেই শাস্তি আর ধ্বংস। তিনি যোগ করেন, রসূল আসার আগে কোনো পুরস্কারও নেই, শাস্তিও নেই।"
+          },
+          {
+            "en": "Al-Qurtubi, having given the first reading, allows this one as well: the meaning may be that they are not punished in this world until a messenger has been sent to them, so whoever believes succeeds and is saved, and whoever does not perishes. His proof is 17:15: and never would We punish until We sent a messenger. Ahsanul Bayaan, the Bengali commentary carried in this app, sets out both meanings in turn and keeps both. This article does the same, since the fetched texts give no ground for choosing between them.",
+            "bn": "প্রথম ব্যাখ্যা দেওয়ার পর কুরতুবী এটিকেও সম্ভব বলেন: অর্থ হতে পারে, কোনো জাতির কাছে রসূল না পাঠানো পর্যন্ত দুনিয়ায় তাদের শাস্তি দেওয়া হয় না। তারপর যে ঈমান আনে, সে সফল হয় ও রক্ষা পায়। যে আনে না, সে ধ্বংস হয়। তাঁর প্রমাণ ১৭:১৫ আয়াত: রসূল না পাঠানো পর্যন্ত আমি শাস্তি দিই না। এ অ্যাপে থাকা বাংলা তাফসীর আহসানুল বায়ানও দুটি অর্থ একের পর এক তুলে ধরে, আর দুটিকেই রাখে। এ প্রবন্ধও তা-ই করছে, কারণ আনা তাফসীরগুলোতে একটিকে বেছে নেওয়ার কোনো ভিত্তি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Last to Come, First Judged",
+          "bn": "সবার শেষে এসে সবার আগে বিচার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, still on the first reading, adds a point about order. This nation, he says, though the last of the nations in creation, is the first on the Day of Resurrection to have its case decided, and he cites the Prophet ﷺ from the two Sahihs: we are the last and the foremost on the Day of Resurrection, for whom judgment is given before all creation. The wording that carries the clause about judgment was confirmed in Sahih Muslim, hadith 856a, from Abu Hurayra and Hudhayfa, and Muslim includes it in his Sahih.",
+            "bn": "প্রথম ব্যাখ্যার ধারাতেই ইবন কাসীর ক্রম নিয়ে একটি কথা যোগ করেন। তাঁর ভাষায়, এই উম্মত সৃষ্টির দিক থেকে সব জাতির শেষে এলেও কিয়ামতের দিন সবার আগে এর ফায়সালা হবে। প্রমাণে তিনি দুই সহীহ গ্রন্থের বরাতে নবী ﷺ-এর কথা আনেন: আমরা সবার শেষে, অথচ কিয়ামতের দিন সবার আগে, সমস্ত সৃষ্টির আগে আমাদের ফায়সালা হবে। ফায়সালার অংশসহ শব্দগুলো যাচাই করা গেছে সহীহ মুসলিমে, হাদীস ৮৫৬ক, আবূ হুরাইরা (রাঃ) ও হুযাইফা (রাঃ)-এর বর্ণনায়। ইমাম মুসলিম এটি তাঁর সহীহ গ্রন্থে এনেছেন।"
+          },
+          {
+            "en": "In full it reads: Allah turned those who came before us away from Friday. The Jews had Saturday and the Christians had Sunday. Then Allah brought us and guided us to Friday. So He made Friday, Saturday and Sunday, and in the same way they will follow us on the Day of Resurrection. We are the last of the people of this world and the first on the Day of Resurrection, for whom judgment is given before all creation. In the narration of Wasil, one of Muslim's two teachers here, the end reads: between whom judgment is given.",
+            "bn": "পুরো হাদীসটি এই: আমাদের আগের লোকদের আল্লাহ জুমুআর দিন থেকে সরিয়ে দিয়েছেন। ইহুদিদের জন্য হলো শনিবার, খ্রিস্টানদের জন্য রবিবার। তারপর আল্লাহ আমাদের আনলেন এবং জুমুআর দিকে পথ দেখালেন। এভাবে তিনি ক্রম বানালেন জুমুআ, শনিবার, রবিবার। কিয়ামতের দিনও তারা এভাবে আমাদের পেছনে থাকবে। দুনিয়াবাসীর মধ্যে আমরা সবার শেষে, আর কিয়ামতের দিন সবার আগে, সমস্ত সৃষ্টির আগে আমাদের পক্ষে ফায়সালা হবে। এখানে ইমাম মুসলিমের দুই উস্তাদের একজন ওয়াসিলের বর্ণনায় শেষ কথাটি: যাদের মাঝে ফায়সালা হবে।"
+          },
+          {
+            "en": "Sahih al-Bukhari (876), from Abu Hurayra, has the opening words, we are the last and the foremost on the Day of Resurrection, in a hadith about Friday, without the clause on judgment. Ibn Kathir gives the reason for the precedence: this nation won the lead only through the honour of its Messenger ﷺ. No fetched commentator attaches another hadith or an occasion of revelation to this verse.",
+            "bn": "সহীহ বুখারীর ৮৭৬ নম্বর হাদীসে, আবূ হুরাইরা (রাঃ)-এর বর্ণনায়, শুরুর কথাটুকু আছে: আমরা সবার শেষে, অথচ কিয়ামতের দিন সবার আগে। হাদীসটি জুমুআ নিয়ে, তবে সেখানে ফায়সালার অংশটি নেই। এ অগ্রাধিকারের কারণ ইবন কাসীর বলেন এভাবে: এই উম্মত আগে থাকার মর্যাদা পেয়েছে কেবল তার রসূল ﷺ-এর মর্যাদার কারণে। আনা তাফসীরগুলোর কোনোটি এ আয়াতের সঙ্গে আর কোনো হাদীস বা নাযিলের প্রেক্ষাপট জোড়েনি।"
+          },
+          {
+            "en": "A further narration bears on the scene, though no fetched commentator attaches it to this verse. Sahih al-Bukhari (4487), from Abu Sa'id al-Khudri: Nuh will be called on the Day of Resurrection and will say, here I am at Your service, my Lord. He will say, did you convey? He will say, yes. His nation will be asked, did he convey to you? They will say, no warner came to us. He will say, who testifies for you? He will say, Muhammad and his nation. So you will testify that he conveyed.",
+            "bn": "আরেকটি বর্ণনা এ দৃশ্যের সঙ্গে মেলে, যদিও আনা তাফসীরগুলোর কোনোটি একে এ আয়াতের সঙ্গে জোড়েনি। সহীহ বুখারী (৪৪৮৭), আবূ সাঈদ খুদরী (রাঃ)-এর বর্ণনা: কিয়ামতের দিন নূহ (আঃ)-কে ডাকা হবে। তিনি বলবেন, হে আমার রব, আমি হাজির, আপনার খেদমতে। আল্লাহ বলবেন, তুমি কি পৌঁছে দিয়েছিলে? তিনি বলবেন, হ্যাঁ। তাঁর কওমকে জিজ্ঞেস করা হবে, তিনি কি তোমাদের কাছে পৌঁছে দিয়েছিলেন? তারা বলবে, আমাদের কাছে কোনো সতর্ককারী আসেনি। আল্লাহ বলবেন, তোমার পক্ষে কে সাক্ষ্য দেবে? তিনি বলবেন, মুহাম্মাদ ও তাঁর উম্মত। তখন তোমরা সাক্ষ্য দেবে যে তিনি পৌঁছে দিয়েছিলেন।"
+          },
+          {
+            "en": "The report then recites 2:143, the verse al-Qurtubi gave as proof for Ibn Abbas's words, and glosses its wasat as 'adl, just. Al-Bukhari includes it in his Sahih. It shows the coming al-Qurtubi describes: the messenger affirms he conveyed, his people deny it, and witnesses settle it. Here it stands as a general narration about the Day, not as any commentator's explanation of this verse.",
+            "bn": "বর্ণনাটি এরপর ২:১৪৩ আয়াত পাঠ করে, যে আয়াত কুরতুবী ইবন আব্বাস (রাঃ)-এর কথার প্রমাণে এনেছিলেন, আর বলে দেয় ওয়াসাত মানে আদল, ন্যায়পরায়ণ। ইমাম বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন। কুরতুবী যে আসার কথা বলেন, এখানে তা-ই দেখা যায়: রসূল বলেন তিনি পৌঁছে দিয়েছেন, তাঁর কওম তা অস্বীকার করে, আর সাক্ষীরা মীমাংসা করে দেন। তবে এটি কিয়ামত নিয়ে একটি সাধারণ বর্ণনা, কোনো তাফসীরকারের দেওয়া এ আয়াতের ব্যাখ্যা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Wronged in Any Measure",
+          "bn": "এতটুকু যুলমও নয়"
+        },
+        "p": [
+          {
+            "en": "Wa hum la yuzlamun, and they are not wronged. At-Tabari specifies: not wronged in anything of the recompense of their deeds. Then he sets out what the just decision contains. Whoever did good is repaid for it; the believer who did evil Allah either punishes or pardons; and the disbeliever abides in the Fire. That, he says, is Allah's judgment between them with justice, and it is without doubt justice and not wrong.",
+            "bn": "ওয়া হুম লা ইউযলামূন, আর তাদের প্রতি যুলম করা হবে না। তাবারী খুলে বলেন: তাদের আমলের প্রতিদানের কোনো কিছুতেই তাদের প্রতি যুলম হবে না। তারপর ন্যায়ের ফায়সালায় কী থাকে, তা তিনি সাজিয়ে দেন। যে ভালো করেছে, সে তার ভালোর প্রতিদান পাবে। মুমিনদের মধ্যে যে মন্দ করেছে, আল্লাহ হয় তাকে শাস্তি দেবেন, নয়তো মাফ করে দেবেন। আর কাফির চিরকাল থাকবে জাহান্নামে। তাঁর ভাষায়, এটাই তাদের মাঝে আল্লাহর ন্যায়ের ফায়সালা, আর এ নিঃসন্দেহে ন্যায়, যুলম নয়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi give the clause the same two edges: they are not punished without a sin, and they are not taken to account without a proof. Al-Baghawi adds two more: their good deeds are not reduced, and their bad deeds are not increased. As-Sa'di, on his worldly reading, gives a matching pair: no punishment before the messenger is sent and the proof made clear, and no punishment for anything but their own crime. 10:44 said it from Allah's side; this verse says it from the side of those judged.",
+            "bn": "কুরতুবী ও বাগাভী এ অংশের দুটি দিক একইভাবে বলেন: গুনাহ ছাড়া শাস্তি দেওয়া হবে না, প্রমাণ ছাড়া পাকড়াও করা হবে না। বাগাভী আরও দুটি যোগ করেন: তাদের নেকি কমানো হবে না, গুনাহ বাড়ানো হবে না। সা'দী তাঁর দুনিয়ার ব্যাখ্যায় একই রকম দুটি কথা বলেন: রসূল পাঠানো ও প্রমাণ স্পষ্ট করার আগে শাস্তি নেই, আর নিজের অপরাধ ছাড়া অন্য কিছুর জন্যও শাস্তি নেই। ১০:৪৪ আয়াত কথাটি বলেছিল আল্লাহর দিক থেকে। এ আয়াত বলছে যাদের বিচার হবে, তাদের দিক থেকে।"
+          },
+          {
+            "en": "This verse describes what the text describes: past nations, each sent a messenger, and a judgment that Allah gave between them, in this world or on the Day. It licenses nothing against any living person or community. It does not tell a reader which people today stand among the deniers, and it hands no one the role of judge. The verdict in it belongs to Allah alone, and so does the justice that the verse promises in it.",
+            "bn": "এ আয়াত শুধু তা-ই বর্ণনা করে, যা তার শব্দে আছে: অতীতের জাতিগুলো, প্রত্যেকের কাছে একজন রসূল, আর তাদের মাঝে আল্লাহর ফায়সালা, দুনিয়ায় হোক বা কিয়ামতের দিন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আজ কারা অস্বীকারকারীদের দলে, তা-ও পাঠককে বলে দেয় না, আর কাউকে বিচারকের আসনেও বসায় না। এখানে রায় একমাত্র আল্লাহর, আর আয়াত যে ন্যায়ের কথা দেয়, তা-ও তাঁরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told, and Then What",
+          "bn": "জানানো হলো, তারপর?"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his note by turning the verse on its first listeners: let those who deny you, he tells the Prophet ﷺ, beware of resembling the nations that were destroyed, lest what came down on them come down on these. Read inward, the warning reaches further. Whichever coming the verse means, its order does not change: the message arrives first, and the judgment follows it. No one is held to a message that never reached him. I cannot plead that excuse. The Qur'an is open in front of me.",
+            "bn": "সা'দী তাঁর আলোচনা শেষ করেন আয়াতটি প্রথম শ্রোতাদের দিকে ফিরিয়ে। নবী ﷺ-কে উদ্দেশ করে তিনি বলেন: যারা তোমাকে মিথ্যা বলছে, তারা যেন ধ্বংস হওয়া জাতিগুলোর মতো হয়ে যাওয়া থেকে সাবধান থাকে, নইলে তাদের উপর যা নেমেছিল, এদের উপরও তা নামবে। নিজের দিকে ফিরিয়ে পড়লে সতর্কবাণী আরও দূরে পৌঁছায়। আয়াতে যে আসার কথাই হোক, ক্রম বদলায় না: আগে বার্তা পৌঁছায়, তারপর ফায়সালা। যার কাছে বার্তা পৌঁছায়নি, তাকে তা দিয়ে ধরা হয় না। এ অজুহাত আমার নেই। কুরআন আমার সামনে খোলা।"
+          },
+          {
+            "en": "The deniers in the next verse ask when the promise will come. This verse has already given the useful answer, and it is not a date. It is an order: the messenger, then the judgment, with justice in it. So my question is not when, but what I am doing with what was delivered to me. O Allah, You wrong no one: make me act on what has reached me before the Day it is weighed, and make my messenger's witness a witness for me, not against me.",
+            "bn": "পরের আয়াতে অস্বীকারকারীরা জানতে চায়, প্রতিশ্রুতি কবে আসবে। এ আয়াত কাজের জবাবটা আগেই দিয়ে রেখেছে, আর সে জবাব কোনো তারিখ নয়। জবাব হলো এক ক্রম: আগে রসূল, তারপর ফায়সালা, আর তাতে পুরো ন্যায়। তাই আমার প্রশ্ন কবে নয়। প্রশ্ন হলো, আমার কাছে যা পৌঁছানো হয়েছে, তা নিয়ে আমি কী করছি। হে আল্লাহ, আপনি কারও প্রতি যুলম করেন না। যা আমার কাছে পৌঁছেছে, তা ওজন হওয়ার দিনের আগেই আমাকে তার উপর আমল করার তাওফীক দিন। আর আমার রসূলের সাক্ষ্যকে আমার পক্ষে করুন, বিপক্ষে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "10:49": {
     "sections": [
       {
