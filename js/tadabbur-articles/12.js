@@ -3439,6 +3439,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:92": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eleven Words After a Confession",
+          "bn": "স্বীকারোক্তির জবাবে এগারো শব্দ"
+        },
+        "p": [
+          {
+            "en": "In 12:91 the brothers swear by Allah that He has preferred Yusuf (AS) over them, and they add, wa-in kunna la-khati'in: and we were indeed in the wrong. 12:92 is his answer, and it is short: eleven Arabic words in three clauses. La tathriba 'alaykum al-yawm, no blame upon you today. Yaghfiru Allahu lakum, may Allah forgive you. Wa-huwa arhamu ar-rahimin, and He is the most merciful of the merciful. Nothing in it mentions the well, the shirt or the years between.",
+            "bn": "১২:৯১ আয়াতে ভাইয়েরা আল্লাহর কসম খেয়ে বলে, আল্লাহ ইউসুফ (আঃ)-কে তাদের উপর মর্যাদা দিয়েছেন। সঙ্গে যোগ করে, ওয়া ইন কুন্না লাখাতিঈন: আর আমরাই ছিলাম অপরাধী। ১২:৯২ আয়াত তাঁর জবাব, আর জবাবটা ছোট। আরবিতে মাত্র ১১টি শব্দ, তিনটি বাক্যাংশে ভাগ করা। লা তাছরীবা আলাইকুমুল ইয়াওম: আজ তোমাদের কোনো দোষারোপ নেই। ইয়াগফিরুল্লাহু লাকুম: আল্লাহ তোমাদের মাফ করুন। ওয়া হুয়া আরহামুর রাহিমীন: তিনি দয়ালুদের মধ্যে সবচেয়ে বড় দয়ালু। কূপ, জামা কিংবা মাঝের বছরগুলোর কোনো উল্লেখই এতে নেই।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir both relate, through as-Suddi, how the exchange went: the brothers apologised to Yusuf, i'tadharu ilayhi, and he replied with these words, meaning, I will not mention your sin to you. Al-Qurtubi and al-Baghawi each open his reply with a note on the speaker: he was halim, forbearing, and al-Qurtubi adds muwaffaq, granted success. As-Sa'di says he spoke out of karam and jud, nobility and generosity. Ibn Kathir's abridged English, which treats 12:89 to 12:92 as one passage, notes that he felt compassion for his father and brothers while he held kingship, authority and power.",
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই সুদ্দীর সূত্রে কথোপকথনটা বর্ণনা করেন। ভাইয়েরা ইউসুফের কাছে ওজর পেশ করেছিল, ই'তাযারূ ইলাইহি। জবাবে তিনি এ কথাগুলো বললেন, যার অর্থ: তোমাদের গুনাহের কথা আমি আর তুলব না। কুরতুবী ও বাগাভী দুজনেই তাঁর জবাবের শুরুতে বক্তার পরিচয় দেন: তিনি ছিলেন হালীম, সহনশীল। কুরতুবী আরও বলেন, মুওয়াফফাক, আল্লাহর দেওয়া তাওফীকপ্রাপ্ত। সা'দীর ভাষায় তিনি কথাটা বলেছিলেন কারাম ও জূদ থেকে, অর্থাৎ মহত্ত্ব আর উদারতা থেকে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১২:৮৯ থেকে ১২:৯২ পর্যন্ত একটি অংশ ধরে আলোচনা করে। সেখানে বলা হয়েছে, রাজত্ব, কর্তৃত্ব আর ক্ষমতা হাতে থাকা অবস্থায় পিতা ও ভাইদের জন্য তাঁর মনে মমতা জেগেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tathrib, a Word for Taunting",
+          "bn": "তাছরীব: খোঁটা দেওয়ার শব্দ"
+        },
+        "p": [
+          {
+            "en": "What exactly is being waived? At-Tabari glosses la tathriba as la ta'yir 'alaykum, no taunting you with it, and records the same gloss from Sufyan. From Ibn Ishaq he gives la ta'nib, no rebuke, and from Qatada the plain statement that Yusuf (AS) did not reproach them for their deeds. Al-Qurtubi lists three words together, ta'yir, tawbikh and lawm: taunting, rebuke and blame. Al-Muyassar keeps to one, ta'nib. Al-Qurtubi also cites al-Asma'i, for whom tharraba 'alayhi means to denounce someone's deed as ugly.",
+            "bn": "ঠিক কোন জিনিসটা মাফ করা হলো? তাবারী লা তাছরীবার ব্যাখ্যা দেন লা তা'য়ীরা আলাইকুম দিয়ে, অর্থাৎ এ নিয়ে তোমাদের খোঁটা দেওয়া হবে না। সুফিয়ান থেকেও তিনি একই ব্যাখ্যা আনেন। ইবন ইসহাক থেকে আনেন লা তা'নীব, কোনো ভর্ৎসনা নেই। কাতাদা থেকে আনেন সোজা কথা: ইউসুফ (আঃ) তাদের কাজের জন্য তাদের তিরস্কার করেননি। কুরতুবী একসঙ্গে তিনটি শব্দ আনেন: তা'য়ীর, তাওবীখ ও লাওম, মানে খোঁটা, ভর্ৎসনা আর দোষারোপ। মুয়াসসার একটি শব্দেই থামে, তা'নীব। কুরতুবী আসমাঈর কথাও আনেন। তাঁর মতে ছাররাবা আলাইহি মানে কারও কাজকে কুৎসিত বলে ধিক্কার দেওয়া।"
+          },
+          {
+            "en": "At-Tabari's gloss does not stop at the tongue. No taunting, he says, and no spoiling of what lies between me and you: the hurma, the sanctity, and the right of brotherhood; rather, you have from me pardon and overlooking, as-safh wa-l-'afw. Al-Qurtubi gives the same explanation from az-Zajjaj, followed in the same passage by a note on the root: the original sense of tathrib is ifsad, spoiling, and this is the dialect of the people of the Hijaz. On this reading the brothers are told that the bond itself stays whole, not only that they will be spared a lecture.",
+            "bn": "তাবারীর ব্যাখ্যা শুধু মুখের কথায় সীমাবদ্ধ নয়। তিনি বলেন, খোঁটা তো নেই-ই, তোমাদের আর আমার মাঝে যা আছে, তাও নষ্ট হবে না। সেটা হলো হুরমত, পারস্পরিক মর্যাদা, আর ভ্রাতৃত্বের হক। বরং আমার কাছে তোমাদের জন্য আছে সাফহ ও আফও, উপেক্ষা আর ক্ষমা। কুরতুবী একই ব্যাখ্যা আনেন যাজ্জাজ থেকে, আর একই অনুচ্ছেদে ধাতুটি নিয়ে একটি কথা আছে: তাছরীবের মূল অর্থ ইফসাদ, নষ্ট করা, আর এটি হিজাযবাসীর ভাষা। এ ব্যাখ্যায় ভাইদের শুধু এটুকু জানানো হচ্ছে না যে তাদের লম্বা উপদেশ শুনতে হবে না। জানানো হচ্ছে, সম্পর্কটাই অটুট থাকবে।"
+          },
+          {
+            "en": "Al-Qurtubi also quotes a line by the poet Bishr that uses the word: I pardoned them with the pardon of one who does not reproach, ghayra muthrib, and left them to the punishment of an endless day. The line separates two things easily run together. A person can let a wrong go and still remind the wrongdoer of it at every turn; the poet claims to have pardoned without the reminder. Yusuf (AS) goes further. Where the poet leaves his enemies to punishment, he asks Allah to forgive his brothers.",
+            "bn": "কুরতুবী কবি বিশরের একটি চরণও উদ্ধৃত করেন, যেখানে শব্দটি এসেছে: আমি তাদের মাফ করেছি এমনভাবে, যেভাবে খোঁটা না দেওয়া মানুষ মাফ করে, গাইরা মুছাররিব, আর তাদের ছেড়ে দিয়েছি অনন্ত এক দিনের শাস্তির হাতে। দুটি জিনিস প্রায়ই এক হয়ে যায়, চরণটি সে দুটিকে আলাদা করে দেখায়। মানুষ অন্যায় মাফ করেও প্রতিটি সুযোগে অন্যায়কারীকে তা মনে করিয়ে দিতে পারে। কবির দাবি, তিনি মাফ করেছেন খোঁটা ছাড়াই। ইউসুফ (আঃ) আরও এক ধাপ এগিয়ে যান। কবি শত্রুদের ছেড়ে দেন শাস্তির হাতে, আর তিনি ভাইদের জন্য আল্লাহর কাছে ক্ষমা চান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Verb in a Hadith",
+          "bn": "হাদীসে একই ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi points to a use of the same verb by the Prophet ﷺ. Sahih Muslim records it, number 1703, from Abu Hurayra (RA), in this English rendering: \"When the slave-woman of any of you commits adultery and this (offence of hers) becomes clear, she should be flogged (as the prescribed) punishment, but hurl no reproach at her. If she commits adultery again, she should (again be punished) by flogging, but hurl no reproach upon her. If she commits fornication for the third time and it becomes clear, then he should sell her, even if only for a rope of hair.\"",
+            "bn": "কুরতুবী দেখান, নবী ﷺ-ও একই ক্রিয়া ব্যবহার করেছেন। সহীহ মুসলিমে আবু হুরায়রা (রাঃ) থেকে হাদীসটি আছে, নম্বর ১৭০৩। আরবি থেকে তার অর্থ: \"তোমাদের কারও দাসী যদি যিনা করে এবং তার যিনা স্পষ্ট হয়ে যায়, তবে সে যেন তাকে হদের বেত্রাঘাত করে, আর তাকে খোঁটা না দেয়। তারপর আবার যিনা করলে আবার বেত্রাঘাত করবে, আর খোঁটা দেবে না। তারপর তৃতীয়বার যিনা করলে এবং তা স্পষ্ট হলে সে যেন তাকে বিক্রি করে দেয়, চুলের একটি রশির বিনিময়ে হলেও।\""
+          },
+          {
+            "en": "The narration concerns a legal penalty, not this verse, and none of the commentaries consulted attaches it to 12:92; al-Qurtubi cites it only for the meaning of la yuthrib 'alayha, do not taunt her. Still, the usage is instructive. Even where a penalty has been carried out in full, the Prophet ﷺ forbids adding reproach on top of it. Yusuf's (AS) brothers faced no penalty at all, and the reproach was waived as well. In both cases, once the matter is settled, reminding the person of it is no part of the settlement.",
+            "bn": "হাদীসটি একটি শরয়ী শাস্তি নিয়ে, এ আয়াত নিয়ে নয়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই একে ১২:৯২ আয়াতের সঙ্গে যুক্ত করেনি। কুরতুবী এটি এনেছেন কেবল লা ইউছাররিব আলাইহা, তাকে খোঁটা দিয়ো না, কথাটির অর্থ বোঝাতে। তবু শব্দের এ ব্যবহার থেকে শেখার আছে। শাস্তি পুরোপুরি কার্যকর হয়ে যাওয়ার পরও নবী ﷺ তার উপর খোঁটা চাপাতে নিষেধ করেছেন। ইউসুফ (আঃ)-এর ভাইদের তো কোনো শাস্তিই পেতে হয়নি, খোঁটাও মাফ হয়ে গেছে। দুই ক্ষেত্রেই বিষয়টা মীমাংসা হয়ে যাওয়ার পর তা মনে করিয়ে দেওয়া মীমাংসার অংশ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Does Today Belong?",
+          "bn": "'আজ' কোন বাক্যের অংশ"
+        },
+        "p": [
+          {
+            "en": "The Arabic can be paused in two places, and the pause changes the sense. Al-Qurtubi reads la tathriba 'alaykum al-yawm as one complete statement, wa-tamma al-kalam, with today attached to the blame: no reproach on you today. Yaghfiru Allahu lakum then begins a new sentence. He reports that al-Akhfash allowed a pause after 'alaykum instead, so that the verse would run: no blame upon you; today Allah forgives you. The printed mushaf places its pause mark after al-yawm, the first way.",
+            "bn": "আরবি বাক্যটিতে দুই জায়গায় থামা যায়, আর থামার জায়গা বদলালে অর্থও বদলায়। কুরতুবী লা তাছরীবা আলাইকুমুল ইয়াওমকে একটি পূর্ণ বাক্য ধরেন, ওয়া তাম্মাল কালাম। এতে 'আজ' যুক্ত হয় দোষারোপের সঙ্গে: আজ তোমাদের কোনো দোষারোপ নেই। এরপর ইয়াগফিরুল্লাহু লাকুম থেকে নতুন বাক্য শুরু। তিনি জানান, আখফাশ এর বদলে আলাইকুমের পরে থামা জায়েয বলেছেন। তখন আয়াতের অর্থ দাঁড়ায়: তোমাদের কোনো দোষারোপ নেই, আজ আল্লাহ তোমাদের মাফ করছেন। ছাপা মুসহাফে থামার চিহ্নটি আছে আল-ইয়াওমের পরে, অর্থাৎ প্রথম পদ্ধতিতে।"
+          },
+          {
+            "en": "Al-Qurtubi says the first is in common use, al-musta'mal, and gives his reason. To pause on 'alaykum and begin al-yawm yaghfiru Allahu lakum would make the forgiveness a firm statement about that very day, and that, he says, could only come from revelation. Read the first way, yaghfiru is an imperfect verb carrying the sense of a prayer. He does not deny that al-Akhfash permitted the other pause. He reports it, and gives his own reason for keeping to the common reading.",
+            "bn": "কুরতুবী বলেন, প্রথম পদ্ধতিটিই প্রচলিত, আল-মুস্তা'মাল। কারণও তিনি বলেন। আলাইকুমে থেমে আল-ইয়াওমা ইয়াগফিরুল্লাহু লাকুম দিয়ে শুরু করলে কথাটা হয়ে যায় ঠিক সেদিনই ক্ষমা হয়ে যাওয়ার নিশ্চিত ঘোষণা। তাঁর মতে এমন ঘোষণা ওহী ছাড়া সম্ভব নয়। প্রথম পদ্ধতিতে পড়লে ইয়াগফিরু হলো ভবিষ্যৎকালের ক্রিয়া, যার ভেতরে আছে দোয়ার অর্থ। আখফাশ যে অন্য জায়গায় থামা জায়েয বলেছেন, কুরতুবী তা অস্বীকার করেন না। তিনি মতটি উল্লেখ করেন, আর প্রচলিত পদ্ধতিতে থাকার পক্ষে নিজের যুক্তি দেন।"
+          },
+          {
+            "en": "Ibn Kathir and al-Baghawi spell out what joining today to the reproach implies. Ibn Kathir: no rebuke on you and no blame on you today, and I will not bring up your sin against me after today. Al-Baghawi, in nearly the same words: no taunting on you today, and I will not mention your sin to you after today. On this gloss, today is not a limit after which reproach may resume; it marks the start of a silence meant to last. Al-Qurtubi adds that al-yawm here means al-waqt: the time, now.",
+            "bn": "'আজ'-কে দোষারোপের সঙ্গে যুক্ত করলে কী দাঁড়ায়, ইবন কাসীর ও বাগাভী তা খুলে বলেন। ইবন কাসীরের ভাষায়: আজ তোমাদের কোনো ভর্ৎসনা নেই, কোনো তিরস্কার নেই, আর আজকের পর আমার প্রতি তোমাদের অন্যায়ের কথা আমি আর তুলব না। বাগাভী বলেন প্রায় একই ভাষায়: আজ তোমাদের কোনো খোঁটা নেই, আর আজকের পর তোমাদের গুনাহের কথা আমি উল্লেখ করব না। এ ব্যাখ্যায় 'আজ' কোনো মেয়াদ নয়, যার পরে আবার খোঁটা শুরু হবে। বরং এখান থেকে শুরু এমন এক নীরবতার, যা স্থায়ী হওয়ার কথা। কুরতুবী যোগ করেন, এখানে আল-ইয়াওম মানে আল-ওয়াক্ত, অর্থাৎ সময়টা, এখন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer, Not a Pronouncement",
+          "bn": "রায় নয়, দোয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari calls yaghfiru Allahu lakum a du'a from Yusuf (AS) for his brothers: that Allah forgive them the wrong they did him and the injustice they committed, and cover it over for them. Ibn Kathir says that having waived the reproach he gave them more, zadahum, by praying for their forgiveness. Al-Qurtubi: he asked Allah to cover them and to have mercy on them. Ibn Ishaq and ath-Thawri, in Ibn Kathir, explain the verb as yasturu: Allah will veil what you did. The waiver is Yusuf's own; the forgiveness he asks of Allah.",
+            "bn": "তাবারী ইয়াগফিরুল্লাহু লাকুমকে বলেন ভাইদের জন্য ইউসুফ (আঃ)-এর দোয়া। তিনি চাইছেন, তাঁর প্রতি তারা যে অন্যায় করেছে আর যে জুলুম করেছে, আল্লাহ যেন তা মাফ করেন এবং ঢেকে দেন। ইবন কাসীর বলেন, খোঁটা মাফ করার পর তিনি তাদের আরও দিলেন, যাদাহুম: তাদের মাগফিরাতের জন্য দোয়া করলেন। কুরতুবীর ভাষায়, তিনি আল্লাহর কাছে চাইলেন যেন তিনি তাদের দোষ ঢেকে দেন আর তাদের উপর রহম করেন। ইবন কাসীরের তাফসীরে ইবন ইসহাক ও সাওরী ক্রিয়াটির অর্থ করেন ইয়াস্তুরু: তোমরা যা করেছ, আল্লাহ তা গোপন রাখবেন। খোঁটা মাফ করাটা ইউসুফের নিজের কাজ, আর মাগফিরাত তিনি চেয়ে নেন আল্লাহর কাছে।"
+          },
+          {
+            "en": "The closing clause gives the ground of the prayer. Wa-huwa arhamu ar-rahimin: and He is the most merciful of all who show mercy. At-Tabari and al-Muyassar both attach the same condition to it: most merciful to whoever repents of his sin and returns to obeying Him. At-Tabari also records from Ibn Ishaq that the words came when they confessed their sin, hina i'tarafu bi-dhanbihim. The order matters. The brothers' admission in 12:91 comes first, and the prayer answers it. Allah's forgiveness is asked for, not presumed.",
+            "bn": "শেষ বাক্যাংশে দোয়ার ভিত্তি। ওয়া হুয়া আরহামুর রাহিমীন: যারা দয়া করে, তাদের সবার চেয়ে তিনি বড় দয়ালু। তাবারী ও মুয়াসসার দুজনেই এর সঙ্গে একই শর্ত জুড়ে দেন: যে নিজের গুনাহ থেকে তওবা করে আর তাঁর আনুগত্যে ফিরে আসে, তার প্রতি তিনি সবচেয়ে দয়ালু। তাবারী ইবন ইসহাক থেকে আরও আনেন, কথাটা এসেছিল যখন তারা নিজেদের গুনাহ স্বীকার করল, হীনা ই'তারাফূ বিযাম্বিহিম। ক্রমটা খেয়াল করার মতো। আগে ১২:৯১ আয়াতে ভাইদের স্বীকারোক্তি, তারপর তার জবাবে দোয়া। আল্লাহর মাগফিরাত এখানে চেয়ে নেওয়া হচ্ছে, ধরে নেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pardon Without the Reminder",
+          "bn": "খোঁটাহীন মাফ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the fullest account of what the verse achieves. He paraphrases: I will not reproach you or blame you. Then he says Yusuf (AS) pardoned them completely, samaha lahum samahan tamman, without taunting them by mentioning the earlier sin, and prayed for their forgiveness and mercy. This, he concludes, is the utmost of ihsan, which comes only from the elect of creation and the best of the chosen. Three things are joined in his reading: the pardon, the silence about the past, and the prayer.",
+            "bn": "আয়াতটি কী করে দেখায়, তার সবচেয়ে পূর্ণ বিবরণ দেন সা'দী। তাঁর ভাষ্যে কথাটা এমন: আমি তোমাদের খোঁটা দেব না, দোষও দেব না। তারপর তিনি বলেন, ইউসুফ (আঃ) তাদের পুরোপুরি মাফ করে দিলেন, সামাহা লাহুম সামাহান তাম্মান। আগের গুনাহের কথা তুলে কোনো খোঁটা দিলেন না, আর তাদের মাগফিরাত ও রহমতের জন্য দোয়া করলেন। সা'দীর উপসংহার: এ হলো ইহসানের চূড়ান্ত রূপ, যা কেবল সৃষ্টির বিশেষ বান্দা আর বাছাই করা শ্রেষ্ঠ মানুষদের কাছ থেকেই আসে। তাঁর পাঠে তিনটি জিনিস একসঙ্গে বাঁধা: মাফ, অতীত নিয়ে নীরবতা, আর দোয়া।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the waiver as a step beyond forgiveness. It paraphrases: never mind taking revenge for your injustices against me; today I would not even blame you. Then, on the same verse, it says the declaration was made from the highest level of good character, whereby the oppressor was not only forgiven but spared reproach as well. Pardon is one act. Refusing to rehearse the wrong is a second, and the verse contains both.",
+            "bn": "মাআরিফুল কুরআন খোঁটা মাফ করাকে দেখে ক্ষমার চেয়েও এক ধাপ উপরে। তার ভাষ্য: আমার উপর তোমাদের জুলুমের প্রতিশোধ নেওয়ার কথা তো বাদই দাও, আজ আমি তোমাদের দোষও দেব না। এরপর একই আয়াত প্রসঙ্গে বলে, ঘোষণাটি এসেছিল উত্তম চরিত্রের সর্বোচ্চ স্তর থেকে। সেখানে জালিমকে শুধু মাফই করা হয়নি, খোঁটা থেকেও রেহাই দেওয়া হয়েছে। মাফ করা এক কাজ। অন্যায়টা বারবার আওড়াতে অস্বীকার করা আরেক কাজ। আয়াতে দুটোই আছে।"
+          },
+          {
+            "en": "The setting gives this its weight. Ibn Kathir's abridged English notes that Yusuf (AS) was then in possession of kingship, authority and power, and 12:88 shows the brothers arriving to plead for grain and charity. Nothing compelled leniency. Forgiveness from someone who has no choice is close to resignation; forgiveness from someone who could punish, or could at least speak, is a choice. The commentators' word for him, halim, names the quality that holds back when it could act.",
+            "bn": "প্রেক্ষাপটই কথাটাকে ভার দেয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ মনে করিয়ে দেয়, ইউসুফ (আঃ)-এর হাতে তখন রাজত্ব, কর্তৃত্ব আর ক্ষমতা। আর ১২:৮৮ আয়াতে দেখা যায়, ভাইয়েরা এসেছে খাদ্যশস্য আর দান চাইতে। নরম হওয়ার কোনো বাধ্যবাধকতা তাঁর ছিল না। যার আর কোনো উপায় নেই, তার ক্ষমা অনেকটা হাল ছেড়ে দেওয়ার মতো। কিন্তু যে শাস্তি দিতে পারত, অন্তত দুকথা শোনাতে পারত, তার ক্ষমা একটা সিদ্ধান্ত। তাফসীরকারেরা তাঁকে যে শব্দে চিনিয়েছেন, হালীম, তা এমন গুণের নাম, যা করার সামর্থ্য থাকতেও নিজেকে সংযত রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report From the Conquest",
+          "bn": "মক্কা বিজয়ের দিনের এক বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relates from Ibn 'Abbas (RA) that on the day of the conquest of Makkah, while people sheltered at the House, the Prophet ﷺ took hold of the two posts of the door and praised Allah, who fulfilled His promise, helped His servant and alone defeated the confederates. He asked Quraysh what they expected. They said: good; a noble brother and son of a noble brother, and you have power. He said: I say as my brother Yusuf said, no blame upon you today. 'Umar (RA) is reported as saying he sweated with shame, having told them on entering, today we take revenge on you.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: মক্কা বিজয়ের দিন লোকেরা কা'বার কাছে আশ্রয় নিয়েছিল। নবী ﷺ দরজার দুই চৌকাঠ ধরে আল্লাহর প্রশংসা করলেন, যিনি তাঁর ওয়াদা সত্য করেছেন, তাঁর বান্দাকে সাহায্য করেছেন আর একাই সম্মিলিত বাহিনীকে পরাস্ত করেছেন। তারপর কুরাইশকে জিজ্ঞেস করলেন, তোমরা কী আশা করো? তারা বলল: ভালো কিছু। আপনি সম্মানিত ভাই, সম্মানিত ভাইয়ের ছেলে, আর এখন ক্ষমতা আপনার হাতে। তিনি বললেন: আমি তা-ই বলছি, যা আমার ভাই ইউসুফ বলেছিলেন, আজ তোমাদের কোনো দোষারোপ নেই। বর্ণনায় আছে, উমর (রাঃ) বলেছেন, লজ্জায় তিনি ঘেমে গিয়েছিলেন। কারণ মক্কায় ঢোকার সময় তিনি তাদের বলেছিলেন, আজ আমরা তোমাদের উপর প্রতিশোধ নেব।"
+          },
+          {
+            "en": "The report is well known, and moving, but this article cannot present it as a confirmed hadith. Al-Qurtubi gives it without a chain in the text fetched, and no page from al-Bukhari, Muslim or the four Sunan confirming it was found for this draft. Other wordings of the scene circulate, and none of them was confirmed on a fetched page either. None of the eight commentaries consulted attaches a sound hadith to this verse. What this article rests on is the Qur'an's own wording, and the commentators' readings of it.",
+            "bn": "বর্ণনাটি সুপরিচিত, হৃদয়ও ছুঁয়ে যায়। তবু এ লেখায় একে প্রমাণিত হাদীস হিসেবে পেশ করা যাচ্ছে না। যে পাঠ দেখা হয়েছে, তাতে কুরতুবী কোনো সনদ ছাড়াই এটি এনেছেন। বুখারী, মুসলিম কিংবা চারটি সুনানগ্রন্থের কোনো পাতায় এর সমর্থন এ লেখার জন্য পাওয়া যায়নি। ঘটনাটির আরও নানা ভাষ্য প্রচলিত আছে, সেগুলোর কোনোটিও দেখা কোনো পাতায় নিশ্চিত হয়নি। যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। এ লেখার ভিত্তি তাই কুরআনের নিজের শব্দ আর তার উপর তাফসীরকারদের ব্যাখ্যা।"
+          },
+          {
+            "en": "One more thing needs saying plainly. The verse describes brothers in a story who wronged one of their own and then admitted it. It licenses nothing against any living person or community, and it makes no family's past a charge against it. The commentaries fetched for this verse do not discuss the brothers' later standing, and this article does not either. It weighs the deed and the reply; the Qur'an reports their repentance in their own words, here in 12:91 and again in 12:97.",
+            "bn": "আরেকটি কথা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনির কয়েকজন ভাইয়ের কথা বলে, যারা নিজেদেরই একজনের উপর জুলুম করেছিল, পরে তা স্বীকারও করেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো পরিবারের অতীতকেও তার বিরুদ্ধে অভিযোগ বানায় না। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, সেগুলো ভাইদের পরবর্তী মর্যাদা নিয়ে আলোচনা করেনি, এ লেখাও করছে না। এখানে বিচার শুধু কাজটার আর তার জবাবের। তাদের তওবা কুরআন তাদেরই মুখে তুলে ধরেছে, এখানে ১২:৯১ আয়াতে, আবার ১২:৯৭ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiving From the Stronger Side",
+          "bn": "ক্ষমতার জায়গা থেকে ক্ষমা"
+        },
+        "p": [
+          {
+            "en": "The practical shape of the verse is unusually clear. Most of us forgive, when we do, from weakness, or long after the person has gone. The harder moment is what Yusuf (AS) faced: the person who wronged you stands in front of you, admits it, and needs something from you. That is when the pull to collect is strongest: to make them hear it all once, to extract a fuller apology, to grant the favour with a sigh that keeps the debt open.",
+            "bn": "আয়াতটির বাস্তব শিক্ষা অস্বাভাবিক রকম স্পষ্ট। আমরা যদি ক্ষমা করিও, বেশিরভাগ সময় করি দুর্বল অবস্থায়, কিংবা মানুষটা জীবন থেকে চলে যাওয়ার অনেক পরে। কঠিন মুহূর্ত সেটাই, যার মুখোমুখি হয়েছিলেন ইউসুফ (আঃ)। যে আপনার উপর অন্যায় করেছে, সে আপনার সামনে দাঁড়িয়ে, দোষ স্বীকার করছে, আর আপনার কাছে তার কিছু দরকার। ঠিক তখনই পাওনা আদায়ের টান সবচেয়ে জোরালো। ইচ্ছা হয় একবার সবটা শুনিয়ে দিতে, আরও পূর্ণ ক্ষমা চাওয়াতে, কিংবা দীর্ঘশ্বাস ফেলে অনুগ্রহটা করতে, যাতে দেনাটা খোলাই থাকে।"
+          },
+          {
+            "en": "Try it on something small this week. Find one admitted wrong you still mention, aloud or to yourself, and decide that this is its last outing; after today, in Ibn Kathir's and al-Baghawi's words, it is not to be raised again. If the person is still in your life and you hold some advantage, as a parent, a manager or the one they owe, give what they need without the speech. Then make a quiet du'a for them by name, asking Allah, the most merciful of the merciful, to forgive them. None of this asks you to pretend nothing happened. It asks that what happened stop being used.",
+            "bn": "এ সপ্তাহে ছোট কিছু দিয়ে শুরু করে দেখুন। এমন একটি অন্যায় খুঁজে বের করুন, যা অন্যজন স্বীকার করেছে, অথচ আপনি এখনো মুখে বা মনে মনে তা টেনে আনেন। ঠিক করুন, এই শেষবার। ইবন কাসীর ও বাগাভীর কথায়, আজকের পর তা আর তোলা হবে না। মানুষটা যদি এখনো আপনার জীবনে থাকে, আর বাবা-মা, ঊর্ধ্বতন বা পাওনাদার হিসেবে আপনার হাত যদি উঁচুতে থাকে, তবে উপদেশের ঝাঁপি না খুলে তার যা দরকার তা দিন। তারপর চুপিচুপি তার নাম নিয়ে দোয়া করুন, দয়ালুদের শ্রেষ্ঠ দয়ালু আল্লাহ যেন তাকে মাফ করেন। এর কোনোটিই আপনাকে ভান করতে বলে না যে কিছুই ঘটেনি। শুধু বলে, যা ঘটেছে তাকে আর অস্ত্র বানাবেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "12:97": {
     "sections": [
       {

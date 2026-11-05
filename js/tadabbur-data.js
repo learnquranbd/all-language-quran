@@ -21911,6 +21911,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give in a way that does not ask to be seen, and be someone who cannot rest while holding what belongs to another.",
     "lessonBn": "এমনভাবে দিন যাতে দেখানোর কিছু না থাকে, আর এমন মানুষ হোন, পরের জিনিস হাতে রেখে যার স্বস্তি আসে না।"
+  },
+  "12:92": {
+    "reflectionEn": "Years after the well, the brothers stand before the man they wronged, and he now holds their grain, their freedom and their good name. They have just said it themselves: Allah has preferred you over us, and we were in the wrong. He could list it all: the well, the lie, the shirt, the lost years. He says eleven words instead: no blame on you today; may Allah forgive you; He is the most merciful of the merciful. He does not make them earn it, and he does not keep the story back to use later. I hold far less power over people who wronged me far less. When they finally admit it, do I let the admission end the matter, or make them pay for it again?",
+    "reflectionBn": "কূপের ঘটনার বহু বছর পর ভাইয়েরা দাঁড়িয়ে আছে সেই মানুষের সামনে, যার উপর তারা জুলুম করেছিল। তাদের খাবার, স্বাধীনতা, মান-সম্মান, সবই এখন তাঁর হাতে। একটু আগেই তারা নিজের মুখে বলেছে: আল্লাহ তোমাকে আমাদের উপর মর্যাদা দিয়েছেন, আর দোষ আমাদেরই ছিল। তিনি চাইলে সব গুনে গুনে শোনাতে পারতেন: কূপ, মিথ্যা, রক্তমাখা জামা, হারানো বছরগুলো। তিনি বললেন মাত্র এগারোটি শব্দ: আজ তোমাদের কোনো দোষারোপ নেই, আল্লাহ তোমাদের মাফ করুন, তিনি দয়ালুদের মধ্যে সবচেয়ে বড় দয়ালু। ক্ষমা পেতে তাদের কোনো দাম দিতে হলো না। পরে খোঁটা দেওয়ার জন্য কাহিনিটা তিনি জমিয়েও রাখলেন না। আমার হাতে এর চেয়ে অনেক কম ক্ষমতা, আর আমার উপর যারা অন্যায় করেছে, তাদের অন্যায়ও অনেক ছোট। শেষে যখন তারা স্বীকার করে, আমি কি স্বীকারোক্তিতেই বিষয়টা শেষ হতে দিই, নাকি তার দাম আবার আদায় করি?",
+    "pointsEn": [
+      "Who has admitted a wrong against me, and do I still bring it up, aloud or in my head?",
+      "When I forgive, do I attach a speech, a reminder or a condition that quietly takes half of it back?",
+      "Where do I hold the upper hand right now, at home or at work, over someone who once hurt me?",
+      "Have I ever asked Allah to forgive a person who wronged me, or have I only said that I forgive?",
+      "If I were the one confessing, what words would I hope to hear, and do I give others those words?"
+    ],
+    "pointsBn": [
+      "কে আমার কাছে নিজের অন্যায় স্বীকার করেছে, অথচ মুখে হোক বা মনে মনে, আমি এখনো সেটা টেনে আনি?",
+      "ক্ষমা করার সময় আমি কি সঙ্গে জুড়ে দিই লম্বা উপদেশ, খোঁটা বা কোনো শর্ত, যা চুপিসারে অর্ধেক ক্ষমাই ফিরিয়ে নেয়?",
+      "ঘরে বা কাজের জায়গায় এমন কেউ কি আছে, যে একসময় আমাকে কষ্ট দিয়েছিল, আর আজ তার উপর আমার হাত উঁচু?",
+      "যে আমার উপর জুলুম করেছে, তার জন্য কখনো কি আল্লাহর কাছে মাগফিরাত চেয়েছি, নাকি শুধু মুখে বলেছি যে মাফ করলাম?",
+      "দোষ স্বীকার করার জায়গায় আমি থাকলে কোন কথাটা শুনতে চাইতাম? অন্যকে কি আমি সেই কথাটা শোনাই?"
+    ],
+    "lessonEn": "When someone who wronged you admits it and you hold the upper hand, forgive without reproach, do not raise it again, and ask Allah to forgive them.",
+    "lessonBn": "যে আপনার উপর অন্যায় করেছে সে যখন তা স্বীকার করে, আর ক্ষমতা আপনার হাতে, তখন খোঁটা না দিয়ে মাফ করুন, বিষয়টা আর তুলবেন না, আর তার জন্য আল্লাহর কাছে মাগফিরাত চান।"
   }
 };
 
