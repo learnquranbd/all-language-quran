@@ -21731,6 +21731,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a crowd moves toward a wrong, point to the lawful way, remind them of Allah, and be the one person of sound mind the question is looking for.",
     "lessonBn": "ভিড় যখন অন্যায়ের দিকে এগোয়, তখন হালাল পথটা দেখিয়ে দিন, আল্লাহর কথা মনে করিয়ে দিন, আর প্রশ্নটা যে সুবুদ্ধির মানুষকে খুঁজছে, নিজেই সেই মানুষ হয়ে উঠুন।"
+  },
+  "11:120": {
+    "reflectionEn": "For most of its length Surah Hud has told of messengers who were mocked, threatened and called fools by their own people. Here it says why. These accounts were told to make a heart firm: the heart of a man in Makkah who was being mocked and threatened himself. A story of someone who held on under the same pressure does what an argument cannot. It tells you that you are not the first, and that the road did not end where the mockers said it would. When I am shaken, I reach for distraction or for company that agrees with me. The verse points me to another company. When did I last read the prophets' stories to steady myself, and not only to know them?",
+    "reflectionBn": "সূরা হূদের বড় অংশ জুড়ে এমন রাসূলদের কথা এসেছে, যাদের নিজের কওমই তাঁদের ঠাট্টা করেছে, হুমকি দিয়েছে, বোকা বলেছে। এবার সূরাটি জানায়, কেন এসব শোনানো হলো। উদ্দেশ্য একটি হৃদয়কে মজবুত করা। সে হৃদয় মক্কার এমন এক মানুষের, যিনি নিজেও তখন ঠাট্টা আর হুমকির মুখে। একই চাপে যিনি টিকে ছিলেন, তাঁর কাহিনি যা পারে, কোনো যুক্তি তা পারে না। কাহিনি বলে দেয়, আপনি প্রথম নন। আর ঠাট্টাকারীরা পথের যে শেষ দেখিয়েছিল, পথ সেখানে শেষ হয়নি। মন নড়ে উঠলে আমি খুঁজি মন ভোলানোর কিছু, কিংবা এমন লোক, যারা আমার কথায় সায় দেবে। আয়াতটি আমাকে দেখায় অন্য এক সঙ্গ। শেষ কবে আমি নবীদের কাহিনি পড়েছি নিজেকে স্থির রাখতে, শুধু জানার জন্য নয়?",
+    "pointsEn": [
+      "What pressure is shaking me right now, and which prophet's account in the Qur'an met something like it?",
+      "When I read the stories of the prophets, do I read for the plot or for what kept them standing?",
+      "Whose mockery or doubt has made me want to drop part of what I know is right?",
+      "Do I read the accounts of ruined peoples as warnings to myself, or as verdicts on other people?",
+      "Which one account will I read slowly this week, asking what the messenger bore and how he kept going?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে কোন চাপ আমাকে নাড়িয়ে দিচ্ছে? কুরআনে কোন নবীর কাহিনিতে এমন কিছুর মুখোমুখি হওয়ার কথা আছে?",
+      "নবীদের কাহিনি পড়ার সময় আমি কি শুধু ঘটনা খুঁজি, নাকি খুঁজি কোন জিনিস তাঁদের অবিচল রেখেছিল?",
+      "কার ঠাট্টা বা সন্দেহের কারণে আমার মনে হয়েছে, যা সঠিক জানি তার কিছুটা ছেড়ে দিই?",
+      "ধ্বংস হওয়া জাতিদের কাহিনি কি আমি নিজের জন্য সতর্কবাণী হিসেবে পড়ি, নাকি অন্যদের উপর রায় হিসেবে?",
+      "এ সপ্তাহে কোন একটি কাহিনি আমি ধীরে ধীরে পড়ব, আর খেয়াল করব রাসূল কী সয়েছেন আর কীভাবে এগিয়ে গেছেন?"
+    ],
+    "lessonEn": "When you are shaken, read the prophets' stories for what kept them standing, and take your firmness from those who held on before you.",
+    "lessonBn": "মন নড়ে উঠলে নবীদের কাহিনি পড়ুন, খুঁজুন কী তাঁদের অবিচল রেখেছিল। আপনার আগে যাঁরা টিকে ছিলেন, তাঁদের থেকেই দৃঢ়তা নিন।"
   }
 };
 

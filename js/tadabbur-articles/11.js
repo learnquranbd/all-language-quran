@@ -5330,5 +5330,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "11:120": {
+    "sections": [
+      {
+        "h": {
+          "en": "Why Hud Told Its Stories",
+          "bn": "হূদের কাহিনিগুলো কেন"
+        },
+        "p": [
+          {
+            "en": "Surah Hud is nearly done. Its accounts of the messengers have been told, the summing up in 11:100 to 11:103 has drawn the lesson of the ruined towns. Now, just before the surah tells the Prophet ﷺ what to say to those who do not believe, it turns to him and names the purpose of everything it has narrated. As-Sa'di frames the placement in a single clause: having mentioned in this surah the reports of the prophets that He mentioned, Allah then mentioned the wisdom in mentioning them.",
+            "bn": "সূরা হূদ শেষের দিকে এসে পৌঁছেছে। রাসূলদের কাহিনিগুলো বলা হয়ে গেছে। ১১:১০০ থেকে ১১:১০৩ আয়াতের সারকথা ধ্বংস হওয়া জনপদগুলোর শিক্ষা টেনে দিয়েছে। এরপর অবিশ্বাসীদের কী বলতে হবে, তা নবী ﷺ-কে জানানোর ঠিক আগে সূরাটি তাঁর দিকে ফেরে। এতক্ষণ যা কিছু বলা হলো, তার উদ্দেশ্য এবার নাম ধরে জানায়। সা'দী এই অবস্থানটা এক বাক্যে বুঝিয়ে দেন: এ সূরায় নবীদের যেসব খবর আল্লাহ উল্লেখ করেছেন, সেগুলো বলার পর তিনি বললেন সেগুলো উল্লেখ করার হিকমত।"
+          },
+          {
+            "en": "What follows confirms that this is a closing. 11:121 and 11:122 tell him to say to those who do not believe: work according to your position, we are working; and wait, we too are waiting. 11:123 ends the surah with the unseen of the heavens and the earth belonging to Allah, every matter returning to Him, and the command to worship Him and rely on Him. None of the commentaries consulted for this verse reports an occasion of revelation, so its place carries its meaning.",
+            "bn": "পরের আয়াতগুলোও বলে দেয়, এটি সমাপ্তির পালা। ১১:১২১ ও ১১:১২২ আয়াতে তাঁকে বলা হয়েছে অবিশ্বাসীদের জানাতে: তোমরা নিজেদের অবস্থানে থেকে কাজ করে যাও, আমরাও কাজ করছি; আর অপেক্ষা কর, আমরাও অপেক্ষায় আছি। ১১:১২৩ আয়াতে সূরা শেষ হয় এই কথায়: আসমান ও যমীনের গায়েব আল্লাহরই, সব বিষয় তাঁর কাছেই ফেরে, কাজেই তাঁরই ইবাদত কর, তাঁর উপরই ভরসা রাখ। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই শানে নুযূল উল্লেখ করেনি। তাই সূরার ভেতরে এর অবস্থানই অর্থের বড় বাহক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All That You Needed",
+          "bn": "যতটুকু প্রয়োজন ছিল"
+        },
+        "p": [
+          {
+            "en": "The verse puts its object first: wa kullan naqussu 'alayka, and each We relate to you. At-Tabari records that the grammarians differed over why kullan is accusative. A Basran grammarian took it as a verbal noun of naqussu, as if to say: We relate to you all the relating. Another rejected that as impermissible. Kullan is the object of naqussu, he said, because the word is built to carry a possessive, stated or not; the sense is all of it We relate to you, with ma nuthabbitu referring back to kullan.",
+            "bn": "আয়াতের শুরুতেই এসেছে কর্মপদটি: ওয়া কুল্লান নাকুসসু আলাইকা, আর প্রত্যেকটিই আমি তোমার কাছে বর্ণনা করি। তাবারী জানান, কুল্লান শব্দটি কেন যবরযুক্ত, তা নিয়ে ব্যাকরণবিদেরা একমত হননি। বসরার এক ব্যাকরণবিদের মতে এটি নাকুসসু ক্রিয়ারই ক্রিয়ামূল, যেন বলা হচ্ছে: আমি তোমাকে পুরো বর্ণনাটাই শোনাই। আরেকজন এ মত নাকচ করে বলেছেন, এমনটা চলে না। তাঁর মতে কুল্লান হলো নাকুসসু-এর কর্ম। শব্দটির গঠনই এমন যে তার সঙ্গে সম্বন্ধপদ থাকুক বা না থাকুক, অর্থে তা থাকে। তাই মানে দাঁড়ায়: এর সবটাই আমি তোমাকে শোনাই। আর মা নুসাব্বিতু অংশটি ফিরে যায় কুল্লান-এর দিকেই।"
+          },
+          {
+            "en": "Al-Qurtubi takes the accusative from naqussu and gives the sense: all that you need from the news of the messengers, We relate to you. He reports al-Akhfash's alternative, that kullan is a circumstantial word placed first, and treats ma as a substitute for kullan: We relate to you, from the news of the messengers, that by which We make your heart firm. Al-Baghawi and the Muyassar give the same gloss of need. On that reading the verse does not promise every story there is. It promises the ones he needed.",
+            "bn": "কুরতুবীও কুল্লান-কে নাকুসসু-এর কর্ম ধরেন, আর অর্থ দেন এভাবে: রাসূলদের খবরের মধ্যে তোমার যা কিছু প্রয়োজন, তার সবই আমি তোমাকে শোনাই। আখফাশের ভিন্ন মতটিও তিনি উল্লেখ করেন: কুল্লান এখানে আগে বসানো অবস্থাবাচক পদ। আর মা শব্দটিকে তিনি কুল্লান-এর বদল ধরেন। তখন অর্থ হয়: রাসূলদের খবর থেকে আমি তোমাকে তা-ই শোনাই, যা দিয়ে তোমার হৃদয়কে মজবুত করি। বাগাভী আর মুয়াসসারও প্রয়োজনের কথাটাই বলেন। এ পাঠে আয়াত দুনিয়ার সব কাহিনি শোনানোর প্রতিশ্রুতি দিচ্ছে না। প্রতিশ্রুতি দিচ্ছে সেগুলোর, যা তাঁর দরকার ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Heart That Does Not Panic",
+          "bn": "যে হৃদয় অস্থির হয় না"
+        },
+        "p": [
+          {
+            "en": "Ma nuthabbitu bihi fu'adak: that by which We make your heart firm. At-Tabari spells out what firmness meant then. Do not be distressed, he paraphrases, at the denial of those of your people who reject what you brought them, and do not let your chest grow tight, so that you leave some of what I sent down to you because they said: why has no treasure been sent down to him, or an angel come with him? Those are the words of 11:12, near the surah's start. Firmness comes, he adds, once you know what My messengers before you met from their nations.",
+            "bn": "মা নুসাব্বিতু বিহী ফুআদাক: যা দিয়ে আমি তোমার হৃদয়কে মজবুত করি। সে সময় মজবুতির মানে কী ছিল, তাবারী তা খুলে বলেন। তাঁর ভাষ্যে: তোমার কওমের যারা তোমাকে মিথ্যাবাদী বলে, তুমি যা এনেছ তা ফিরিয়ে দেয়, তাদের অস্বীকারে তুমি অস্থির হয়ো না। তোমার বুক যেন সংকুচিত না হয়, যাতে তারা বলেছে বলে আমার নাযিল করা কিছু অংশ তুমি ছেড়ে দাও। তারা বলেছিল: তার কাছে কোনো ধনভাণ্ডার নাযিল হলো না কেন, কিংবা তার সঙ্গে কোনো ফেরেশতা এল না কেন? এ কথাগুলো সূরার শুরুর দিকের ১১:১২ আয়াতের। তাবারী যোগ করেন, তোমার আগে আমার রাসূলেরা নিজ নিজ উম্মতের কাছে কী পেয়েছেন, তা জানলেই আসবে সেই মজবুতি।"
+          },
+          {
+            "en": "Al-Qurtubi gathers several glosses. Firm upon delivering the message, and upon patience with the harm that reaches you in it; and, it is said, We increase you by it in firmness and certainty. Ibn 'Abbas (RA): that by which We strengthen your heart. Ibn Jurayj: We make your heart patient by it, so that you do not panic. The scholars of meanings, al-Qurtubi adds, said: We soothe it. He judges all these senses close to each other.",
+            "bn": "কুরতুবী কয়েকটি ব্যাখ্যা একসঙ্গে আনেন। প্রথমত, রিসালাত পৌঁছে দেওয়ার উপর মজবুত রাখা, আর এ পথে যে কষ্ট আসে তাতে সবর করার উপর। আরেক মতে, এর দ্বারা আমি তোমার দৃঢ়তা আর ইয়াকীন বাড়িয়ে দিই। ইবন আব্বাস (রাঃ) বলেছেন: যা দিয়ে আমি তোমার হৃদয়কে শক্ত করি। ইবন জুরাইজ বলেছেন: এর দ্বারা আমি তোমার হৃদয়কে ধৈর্যশীল করি, যাতে তুমি অস্থির না হও। কুরতুবী আরও বলেন, অর্থবিদেরা বলেছেন: আমি তোমার হৃদয়কে প্রশান্ত করি। তাঁর বিচারে এসব অর্থ কাছাকাছি।"
+          },
+          {
+            "en": "Al-Baghawi says it worked so in practice: when the Prophet ﷺ heard these accounts, they strengthened his heart for patience against the harm of his people. Ibn Kathir lists what the accounts contain: the arguments and disputes between the earlier messengers and their nations, the denial and harm the prophets bore, and how Allah helped His party of believers and forsook His enemies who disbelieved. All of that, he says, is what makes your heart firm, so that you have an example in your brothers, the messengers who went before you.",
+            "bn": "বাগাভী বলেন, বাস্তবেও তা-ই ঘটত। নবী ﷺ যখন এ কাহিনিগুলো শুনতেন, তাঁর কওমের দেওয়া কষ্টে সবর করার জন্য তাঁর হৃদয় শক্তি পেত। ইবন কাসীর জানান, এ কাহিনিগুলোতে কী আছে। আগের রাসূলদের সঙ্গে তাঁদের উম্মতের তর্ক আর বিবাদ, নবীরা যে অস্বীকার আর কষ্ট সয়েছেন, আর আল্লাহ কীভাবে তাঁর মুমিন দলকে সাহায্য করেছেন এবং তাঁর কাফির শত্রুদের সাহায্যহীন ছেড়ে দিয়েছেন। তিনি বলেন, এ সবই তোমার হৃদয়কে মজবুত করার উপকরণ, যাতে তোমার আগে চলে যাওয়া তোমার ভাই রাসূলদের মধ্যে তুমি পাও এক আদর্শ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort in Good Company",
+          "bn": "সঙ্গীদের মাঝে স্বস্তি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the fullest account of how a story steadies. The heart is made firm, he says, so that it settles, stands firm and is patient, as the messengers of resolve, ulu al-'azm, were patient. Then he gives reasons. Souls find comfort in following an example. They grow eager for deeds. They want to compete with others. And the truth is strengthened by recalling its witnesses and the great number of those who upheld it.",
+            "bn": "কাহিনি কীভাবে মনকে স্থির করে, তার সবচেয়ে পূর্ণ ব্যাখ্যা দেন সা'দী। তিনি বলেন, হৃদয়কে মজবুত করা হয় যাতে তা প্রশান্ত হয়, অটল থাকে আর সবর করে, যেমন সবর করেছিলেন দৃঢ়প্রতিজ্ঞ রাসূলেরা, উলুল আযম। তারপর তিনি কারণ দেখান। মানুষের মন কারও অনুসরণ করতে পেলে স্বস্তি পায়। আমলে উৎসাহ পায়। অন্যদের সঙ্গে পাল্লা দিতে চায়। আর সত্যের সাক্ষীদের কথা, যারা তা আঁকড়ে ধরেছিল তাদের বিপুল সংখ্যার কথা মনে করলে সত্য আরও জোর পায়।"
+          },
+          {
+            "en": "The last reason is worth pausing on. Anyone who stands nearly alone against a whole town can feel the weight of numbers. A line of messengers who met the same answer changes the count: Nuh (AS), Hud (AS), Salih (AS), Shu'ayb (AS) and Musa (AS) each met rejection in turn, and the truth they carried had many bearers before it reached Makkah. The stories do not lift the pressure. They lift the loneliness inside it, which is often the heavier part.",
+            "bn": "শেষ কারণটার কাছে একটু থামা দরকার। গোটা জনপদের বিরুদ্ধে যিনি প্রায় একা দাঁড়ান, সংখ্যার ভার তিনি টের পান। একই জবাব পাওয়া রাসূলদের সারি সেই হিসাব বদলে দেয়। নূহ (আঃ), হূদ (আঃ), সালিহ (আঃ), শুআইব (আঃ) আর মূসা (আঃ), প্রত্যেকেই একে একে প্রত্যাখ্যানের মুখে পড়েছেন। মক্কায় পৌঁছানোর আগে তাঁদের বয়ে আনা সত্যের বাহক ছিলেন অনেকে। কাহিনিগুলো চাপ সরিয়ে দেয় না। সরিয়ে দেয় চাপের ভেতরের একাকীত্ব, যা অনেক সময় বেশি ভারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This Surah, or This World",
+          "bn": "এই সূরা, নাকি এই দুনিয়া"
+        },
+        "p": [
+          {
+            "en": "Then a phrase read two ways: wa ja'aka fi hadhihi al-haqq, and there has come to you in this the truth. At-Tabari reports that the people of interpretation differed. Some said: in this surah. He gives it from Abu Musa (RA), and from Ibn 'Abbas (RA) by several routes. In one, Ibn 'Abbas recited this surah to the people until he reached these words; in another he read them from the pulpit; each time he said, in this surah. At-Tabari gives the same from Mujahid, Sa'id ibn Jubayr, Abu al-'Aliya, al-Hasan and Qatada.",
+            "bn": "এরপর এমন একটি বাক্য, যা দুইভাবে পড়া হয়েছে: ওয়া জাআকা ফী হাযিহিল হাক্কু, আর এর মধ্যে তোমার কাছে এসেছে সত্য। তাবারী জানান, তাফসীরকারেরা এখানে ভিন্নমত পোষণ করেছেন। কেউ বলেছেন: এই সূরার মধ্যে। এ মত তিনি আনেন আবূ মূসা (রাঃ) থেকে, আর ইবন আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে। এক বর্ণনায় ইবন আব্বাস (রাঃ) লোকদের সামনে এ সূরা তিলাওয়াত করতে করতে এই কথায় পৌঁছান। আরেক বর্ণনায় তিনি মিম্বারে তা পড়েন। দুবারই বলেন: এই সূরার মধ্যে। একই কথা তাবারী আনেন মুজাহিদ, সাঈদ ইবন জুবাইর, আবুল আলিয়া, হাসান আর কাতাদা থেকে।"
+          },
+          {
+            "en": "Others said: in this world. At-Tabari gives that from Qatada, and from Qatada reporting that al-Hasan used to say, in the world. So the same two names stand on both sides of his list. Ibn Kathir marks this with care: al-Hasan, in one narration from him, and Qatada said in this world. Al-Qurtubi gives Qatada and al-Hasan for this world and adds what they meant by it: prophethood. Al-Baghawi names the same two for this world, and says the surah is the view of most.",
+            "bn": "অন্যরা বলেছেন: এই দুনিয়ার মধ্যে। তাবারী এ মত আনেন কাতাদা থেকে। আরেক বর্ণনায় কাতাদা জানান, হাসান বলতেন: দুনিয়ার মধ্যে। ফলে তাবারীর তালিকায় একই দুটি নাম দুই পক্ষেই আছে। ইবন কাসীর এ বিষয়টি সাবধানে উল্লেখ করেন: হাসান তাঁর থেকে বর্ণিত একটি রেওয়ায়েতে, আর কাতাদা বলেছেন, এই দুনিয়ার মধ্যে। কুরতুবী এই দুনিয়ার মতের জন্য কাতাদা ও হাসানের নাম নেন, আর বলেন, এর দ্বারা তাঁরা বুঝিয়েছেন নবুওয়াত। বাগাভীও এই দুজনকে দুনিয়ার মতের পক্ষে রাখেন, আর জানান, সূরার মতটিই অধিকাংশের মত।"
+          },
+          {
+            "en": "Those who weigh the two prefer the surah. At-Tabari calls it the more correct interpretation, because the authoritative body of interpreters agree on it. Ibn Kathir calls it the correct view: this surah, which contains the stories of the prophets, how Allah saved them and the believers with them and destroyed the disbelievers. As-Sa'di and the Muyassar read it as the surah without discussion, the Muyassar adding the reports the surah contains. The other reading stands in their own lists with named authorities, and it is set down here as they set it down.",
+            "bn": "যাঁরা দুই মত মেপে দেখেছেন, তাঁরা সূরার মতকেই অগ্রাধিকার দেন। তাবারী একে বেশি সঠিক ব্যাখ্যা বলেছেন, কারণ নির্ভরযোগ্য তাফসীরকারেরা এর উপর একমত। ইবন কাসীর একে সঠিক মত বলেন। তাঁর ব্যাখ্যায় এটি সেই সূরা, যাতে আছে নবীদের কাহিনি, আল্লাহ কীভাবে তাঁদের আর তাঁদের সঙ্গী মুমিনদের রক্ষা করেছেন এবং কাফিরদের ধ্বংস করেছেন। সা'দী আর মুয়াসসার কোনো আলোচনা ছাড়াই একে সূরা হিসেবে পড়েন। মুয়াসসার সঙ্গে জুড়ে দেয় সূরায় থাকা খবরগুলোর কথা। তবু অন্য মতটি তাঁদেরই তালিকায় নাম ধরে উল্লেখিত আছে। এখানেও তা রাখা হলো, তাঁরা যেভাবে রেখেছেন সেভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Honour for One Surah",
+          "bn": "একটি সূরার বিশেষ মর্যাদা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the obvious objection himself. Did the truth reach the Prophet ﷺ from no surah of the Qur'an but this, that it should be said, in this surah came the truth? Yes, he answers, it came to him in all of them. The sense is that in this surah the truth came along with what came to him in the other surahs of the Qur'an, not in this surah to the exclusion of the rest.",
+            "bn": "স্পষ্ট আপত্তিটা তাবারী নিজেই তোলেন। কুরআনের অন্য কোনো সূরা থেকে কি নবী ﷺ-এর কাছে সত্য আসেনি, যে বলা হবে এই সূরাতেই সত্য এসেছে? তিনি উত্তর দেন, অবশ্যই এসেছে, সব সূরাতেই এসেছে। কথাটার মানে হলো, কুরআনের অন্যান্য সূরায় যে সত্য তাঁর কাছে এসেছে, তার সঙ্গে এই সূরাতেও সত্য এসেছে। অন্য সূরাগুলো বাদ দিয়ে শুধু এটিতে, এমন নয়।"
+          },
+          {
+            "en": "Al-Qurtubi gives two reasons for the naming. The surah was singled out because it holds the reports of the prophets, and of Paradise and the Fire; or, it is said, it was named for emphasis, though the truth is in the whole Qur'an. He calls it an honour for this surah, since other surahs brought the truth, admonition and reminder, yet were not described so pointedly. Al-Baghawi agrees that it was singled out as an honour, though the truth came to him in every surah.",
+            "bn": "নাম ধরে বলার দুটি কারণ দেন কুরতুবী। এক, সূরাটিকে আলাদা করা হয়েছে কারণ এতে আছে নবীদের খবর, জান্নাত ও জাহান্নামের কথা। দুই, কেউ কেউ বলেন, জোর দেওয়ার জন্যই নামটি এসেছে, যদিও গোটা কুরআনেই সত্য আছে। তাঁর মতে এ হলো এই সূরার বিশেষ মর্যাদা। অন্য সূরাতেও সত্য, উপদেশ আর স্মরণ এসেছে, কিন্তু সেগুলোর বেলায় এমন আলাদা করে বলা হয়নি। বাগাভীও একমত যে মর্যাদা দিতেই সূরাটিকে আলাদা করা হয়েছে, যদিও প্রতিটি সূরাতেই তাঁর কাছে সত্য এসেছে।"
+          },
+          {
+            "en": "A report in at-Tirmidhi (no. 3297) also singles out Hud, though no commentary consulted on this verse attaches it here. Ibn 'Abbas (RA) said: \"Abu Bakr said: 'O Messenger of Allah! You have become gray.' He said: 'I have gone gray from (Surat) Hud, Al-Waqi'ah, Al-Mursalat and 'Amma Yatasa'alun and Idhash-Shamsu Kuwwirat.'\" At-Tirmidhi grades it hasan gharib, says he knows it from Ibn 'Abbas only by this route, and lists other routes, one of them mursal. The article on 11:112 discusses it; here it is a reminder that one surah can weigh on a heart and steady it.",
+            "bn": "তিরমিযীর একটি বর্ণনাতেও (নং ৩২৯৭) সূরা হূদকে আলাদা করে বলা হয়েছে, যদিও এ আয়াতের জন্য দেখা কোনো তাফসীর বর্ণনাটিকে এখানে যুক্ত করেনি। ইবন আব্বাস (রাঃ) বলেন: \"আবূ বকর (রাঃ) বললেন, 'হে আল্লাহর রাসূল! আপনার চুল পেকে গেছে।' তিনি বললেন, 'হূদ, আল-ওয়াকিআ, আল-মুরসালাত, আম্মা ইয়াতাসাআলূন আর ইযাশ শামসু কুওভিরাত আমার চুল পাকিয়ে দিয়েছে।'\" তিরমিযী একে হাসান গরীব বলেছেন। তিনি জানান, ইবন আব্বাস থেকে এটি তিনি কেবল এই সূত্রেই জানেন, আর অন্য কয়েকটি সূত্রের কথাও বলেন, যার একটি মুরসাল। ১১:১১২ আয়াতের প্রবন্ধে এর আলোচনা আছে। এখানে এটুকুই মনে করিয়ে দেয়, একই সূরা হৃদয়ে ভারও চাপাতে পারে, আবার তাকে স্থিরও করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Things That Arrived",
+          "bn": "যে তিনটি জিনিস এল"
+        },
+        "p": [
+          {
+            "en": "What came in this, the verse says, is three things: al-haqq wa maw'izatun wa dhikra lil-mu'minin, the truth, an admonition and a reminder for the believers. As-Sa'di calls the truth certain, with no doubt in it from any direction, and says that knowing it belongs to knowledge of the truth, the greatest of the soul's virtues. At-Tabari divides the other two by audience. The admonition admonishes those ignorant of Allah and shows them the lessons in those who disbelieved and denied His messengers. The reminder reminds the believers of Allah and His messengers, so they do not neglect what they owe Him.",
+            "bn": "আয়াত বলছে, এর মধ্যে এসেছে তিনটি জিনিস: আল-হাক্কু ওয়া মাওইযাতুন ওয়া যিকরা লিল মু'মিনীন, সত্য, উপদেশ আর মুমিনদের জন্য স্মরণ। সা'দীর ভাষায় এ সত্য সুনিশ্চিত, কোনো দিক থেকেই তাতে সন্দেহের জায়গা নেই। তিনি বলেন, একে জানা মানে সত্যকে জানা, আর সেটাই মানুষের মনের সবচেয়ে বড় গুণ। বাকি দুটিকে তাবারী ভাগ করেন শ্রোতা অনুযায়ী। উপদেশ তাদের জন্য, যারা আল্লাহ সম্পর্কে অজ্ঞ। যারা কুফরি করেছে আর রাসূলদের অস্বীকার করেছে, তাদের পরিণতির শিক্ষা এটি তাদের সামনে তুলে ধরে। আর স্মরণ মুমিনদেরকে আল্লাহ ও তাঁর রাসূলদের কথা মনে করিয়ে দেয়, যাতে আল্লাহর প্রতি তাদের দায়িত্বে তারা গাফেল না হয়।"
+          },
+          {
+            "en": "Ibn Kathir and the Muyassar draw the same line: an admonition by which the disbelievers are deterred, and a reminder by which the believers, in Ibn Kathir's word, grow composed, and in the Muyassar's, take heed. Al-Qurtubi defines the admonition as what one learns from the destruction of past nations that denied, and the reminder as believers recalling what befell those who perished, and repenting. Believers are named, he says, because they are the ones who take admonition when they hear the prophets' stories. As-Sa'di ends with action: they refrain from what is disliked, and do what Allah loves.",
+            "bn": "ইবন কাসীর আর মুয়াসসারও একই রেখা টানেন: উপদেশ, যা কাফিরদের নিবৃত্ত করে; আর স্মরণ, যা দিয়ে মুমিনেরা ইবন কাসীরের ভাষায় স্থির ও গম্ভীর হয়, আর মুয়াসসারের ভাষায় শিক্ষা নেয়। কুরতুবীর সংজ্ঞায় উপদেশ হলো অস্বীকারকারী অতীত জাতিগুলোর ধ্বংস থেকে নেওয়া শিক্ষা। আর স্মরণ হলো, যারা ধ্বংস হয়েছে তাদের কী ঘটেছিল তা মুমিনদের মনে পড়া, তারপর তওবা করা। তিনি বলেন, মুমিনদের নাম আলাদা করে এসেছে, কারণ নবীদের কাহিনি শুনে তারাই উপদেশ গ্রহণ করে। সা'দী শেষ করেন আমলের কথায়: অপছন্দনীয় কাজ থেকে তারা বিরত থাকে, আর আল্লাহ যা ভালোবাসেন তা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Prophets to Stand",
+          "bn": "অবিচল থাকতে নবীদের পাঠ"
+        },
+        "p": [
+          {
+            "en": "The verse gives a reason for reading that is easy to lose. The stories are not told for their plot, or only as history; they are told so that a heart holds. At-Tabari's paraphrase names the two dangers they answer: distress at being denied, and a tightening chest tempted to leave part of the message unsaid because of what people say. On a far smaller scale, both are familiar to anyone who tries to live by the truth among people who mock it.",
+            "bn": "পড়ার এমন একটি উদ্দেশ্য আয়াতটি জানায়, যা সহজেই চোখ এড়িয়ে যায়। কাহিনিগুলো ঘটনার টানে বলা হয়নি, শুধু ইতিহাস হিসেবেও নয়। বলা হয়েছে, যাতে হৃদয় টিকে থাকে। তাবারীর ব্যাখ্যায় দুটি বিপদের নাম আছে, যার জবাব এ কাহিনিগুলো। এক, অস্বীকারের মুখে অস্থির হয়ে পড়া। দুই, বুক সংকুচিত হয়ে আসা, যাতে লোকে কী বলবে ভেবে বার্তার কিছু অংশ না বলার ইচ্ছা জাগে। অনেক ছোট পরিসরে হলেও, ঠাট্টাকারীদের মাঝে যে সত্য নিয়ে বাঁচতে চায়, এ দুটি তার চেনা।"
+          },
+          {
+            "en": "That suggests a practice. When a pressure shakes you, choose one account and read it slowly, not for what happened next but for what the messenger bore and how he kept going. Surah Hud supplies several, from Nuh (AS) to Musa (AS). Ask what each was told about himself, what he answered, and what he refused to give up. The verses that follow show the posture: 11:121 and 11:122 have him say, work according to your position, we are working, and wait, we too are waiting; 11:123 turns to worship and reliance.",
+            "bn": "এ থেকে একটি অভ্যাসের কথা আসে। কোনো চাপে মন নড়ে উঠলে একটি কাহিনি বেছে নিন, আর ধীরে ধীরে পড়ুন। এরপর কী ঘটল তা খোঁজার জন্য নয়। খুঁজুন রাসূল কী সয়েছেন, আর কীভাবে এগিয়ে গেছেন। সূরা হূদেই আছে কয়েকটি, নূহ (আঃ) থেকে মূসা (আঃ) পর্যন্ত। দেখুন, প্রত্যেককে লোকেরা কী বলেছে, তিনি কী জবাব দিয়েছেন, আর কী ছাড়তে রাজি হননি। পরের আয়াতগুলো সেই ভঙ্গিটা দেখায়। ১১:১২১ ও ১১:১২২ আয়াতে তিনি বলেন, তোমরা নিজেদের অবস্থানে কাজ কর, আমরাও কাজ করছি; অপেক্ষা কর, আমরাও অপেক্ষায় আছি। আর ১১:১২৩ আয়াত ফেরে ইবাদত ও ভরসার দিকে।"
+          },
+          {
+            "en": "One caution keeps the reading honest. The reminder is for the believers, and al-Qurtubi has them recall what befell the destroyed and repent: the lesson is turned on oneself. The verse describes the messengers and their nations as the surah describes them, and it licenses nothing against any living person or community. Read the prophets to stand, and leave the verdicts where 11:123 leaves the whole matter: with Allah, to whom every affair returns.",
+            "bn": "একটি সতর্কতা এ পাঠকে সৎ রাখে। স্মরণ মুমিনদের জন্য। কুরতুবীর ব্যাখ্যায় তারা ধ্বংসপ্রাপ্তদের পরিণতি মনে করে তওবা করে, অর্থাৎ শিক্ষার তীর ফেরে নিজের দিকেই। সূরাটি রাসূল আর তাঁদের জাতিদের যেভাবে বর্ণনা করেছে, আয়াতটি সেটুকুই বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। নবীদের পড়ুন অবিচল থাকার জন্য। আর রায়ের ভার রেখে দিন সেখানে, যেখানে ১১:১২৩ আয়াত সব বিষয় রেখে দেয়: আল্লাহর কাছে, যাঁর দিকে সব বিষয় ফেরে।"
+          }
+        ]
+      }
+    ]
   }
 });
