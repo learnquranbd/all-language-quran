@@ -17,7 +17,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 ## WAVE 2 (2026-11-02): more ayahs.
 WAVE 2 resumed 2026-11-05 (USER: "continue enrich waves"): 7d 22% at start, NORMAL.
 USER 2026-11-05: "don't push and deploy, until I said so - keep running the Enrich wave, with 10 agents". -> commit locally only; NO push, NO firebase deploy until the user says; 10 drafters in parallel (overrides budget.js cap of 5). Unpushed from 76364b2d (v1396) on.
-STOPPED 2026-11-05 at v1531 (21:49 last; this session v1396-v1531 = 136 ayat). Nothing in flight. Pushed origin+pro and deployed (see below). RESUME in a FRESH session: queue.js -> 21:81 21:96 (PREP ready) ...; 10 drafters.
+STOPPED 2026-11-05 at v1531 (21:49 last; this session v1396-v1531 = 136 ayat). Nothing in flight. Pushed origin+pro (22940490) and DEPLOYED: live sw.js = lq-v1531 (verified with cache-buster). RESUME in a FRESH session: queue.js -> 21:81 21:96 (PREP ready) ...; 10 drafters.
 USER 2026-11-05 (latest): "once done, stop for today, deploy and commit" + "push both remotes too" -> no new launches; ship the 10 in flight, commit, push origin+pro, firebase deploy.
 RESUMED 2026-11-05 after v1511 (USER: "don't push and deploy, until I said so - keep running the Enrich wave, with 10 agents"): 10 drafters; NO push/deploy.
 STOPPED 2026-11-05 at v1511 (116 ayat this run, v1396-v1511, 19:82 last). Nothing in flight. 7d 36% (reset Mon 9 Nov 16:00). ALL v1396-v1511 COMMITTED LOCALLY, NOT PUSHED, NOT DEPLOYED (user hold). RESUME: queue.js -> 19:87 (PREP ready) 19:91 20:18 ...; 10 drafters.
