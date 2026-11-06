@@ -25929,6 +25929,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your duty is to say the truth sincerely, not to make others accept it. Who answers and who refuses is recorded, and the outcome belongs to Allah alone.",
     "lessonBn": "আপনার দায়িত্ব আন্তরিকভাবে সত্য বলা, অন্যকে দিয়ে তা মানিয়ে নেওয়া নয়। কে সাড়া দিল আর কে ফিরিয়ে দিল, সব লেখা থাকে, আর পরিণতি একমাত্র আল্লাহর হাতে।"
+  },
+  "37:136": {
+    "reflectionEn": "Three words close the account: then We destroyed the others. The surah could have stopped there. Instead it turns to the people listening and says: you pass by them in the morning, and at night. Will you not reason? The ruins were not hidden. They lay beside a road the listeners used for trade, going out at dawn and coming back after dark, so often the place had become part of the journey. That is the danger the verse names. A warning seen every day can stop being seen at all. What do I pass each day without letting it reach me: a grave, an illness, a life that ended before it expected to? And when did I last stop and ask what it was telling me?",
+    "reflectionBn": "তিনটি শব্দে কাহিনিটা শেষ হয়: তারপর বাকিদের আমি ধ্বংস করে দিলাম। সূরা এখানেই থামতে পারত। থামেনি। যারা শুনছে, তাদের দিকে ফিরে বলছে: তোমরা তো সকালে তাদের উপর দিয়ে যাও, রাতেও যাও। তবু কি বুঝবে না? ধ্বংসস্তূপ লুকানো ছিল না। শ্রোতারা যে পথে ব্যবসায় যেত, সেই পথের পাশেই তা পড়ে ছিল। ভোরে রওনা, রাতে ফেরা। এত বার যাওয়া-আসা যে জায়গাটা সফরেরই একটা অংশ হয়ে গিয়েছিল। আয়াত ঠিক এই বিপদটাই ধরিয়ে দেয়। যে সতর্কবাণী রোজ চোখে পড়ে, একসময় তা আর চোখেই পড়ে না। রোজ আমি কোন জিনিসের পাশ দিয়ে যাই, অথচ তা আমার ভেতরে পৌঁছাতে দিই না? একটা কবর, একটা অসুখ, সময়ের আগে থেমে যাওয়া কোনো জীবন? শেষ কবে থেমে জিজ্ঞেস করেছি, এটা আমাকে কী বলছে?",
+    "pointsEn": [
+      "Which warning have I seen so often that it has turned into scenery?",
+      "When I pass a graveyard or hear of a death, do I let it slow me down, or do I hurry on unchanged?",
+      "The verse asks me to reason, not to gaze. What conclusion about my own life have I been putting off drawing?",
+      "Do I read the ruin of others as a lesson for myself, or only as a story about them?",
+      "What would change this week if I took one familiar reminder as though I were seeing it for the first time?"
+    ],
+    "pointsBn": [
+      "কোন সতর্কবাণী এত বার দেখেছি যে তা এখন নিছক চারপাশের দৃশ্য হয়ে গেছে?",
+      "কবরস্থানের পাশ দিয়ে গেলে বা কারও মৃত্যুর খবর শুনলে আমি কি একটু থামি, নাকি যেমন ছিলাম তেমনই তাড়াহুড়ো করে চলে যাই?",
+      "আয়াত আমাকে শুধু তাকিয়ে দেখতে বলেনি, বুঝতে বলেছে। নিজের জীবন নিয়ে কোন সিদ্ধান্তটা আমি টানতে টানতে পিছিয়ে রেখেছি?",
+      "অন্যের ধ্বংসকে আমি কি নিজের জন্য শিক্ষা হিসেবে পড়ি, নাকি শুধু তাদের নিয়ে একটা গল্প হিসেবে?",
+      "পরিচিত একটা স্মরণ-চিহ্নকে যদি প্রথম দেখার মতো করে দেখি, এ সপ্তাহে আমার কী বদলাবে?"
+    ],
+    "lessonEn": "A warning you pass every day can stop being seen. Let the familiar reminders of the end reach your reasoning, and draw their lesson for yourself.",
+    "lessonBn": "যে সতর্কবাণীর পাশ দিয়ে রোজ যান, একসময় তা আর চোখে পড়ে না। শেষ পরিণতির চেনা স্মরণ-চিহ্নগুলোকে বিবেক পর্যন্ত পৌঁছাতে দিন, আর শিক্ষাটা নিজের জন্য নিন।"
   }
 };
 

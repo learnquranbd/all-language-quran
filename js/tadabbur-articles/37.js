@@ -5239,6 +5239,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:136": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Account Faces Outward",
+          "bn": "কাহিনি যেখানে শ্রোতার দিকে ফেরে"
+        },
+        "p": [
+          {
+            "en": "Thumma dammarna al-akharin: then We destroyed the others. Three Arabic words, and with the passage's last verse the shortest in the account of Lut (AS) in as-Saffat, which runs from 37:133 to 37:138. The two verses before it tell of the rescue of Lut and his family and of the one woman left behind. The account does not end on the destruction. It ends two verses later, on a question put to the people hearing it.",
+            "bn": "সুম্মা দাম্মারনাল আখারীন: তারপর বাকিদের আমি ধ্বংস করে দিলাম। আরবিতে মাত্র তিনটি শব্দ। সূরা সাফফাতে লূত (আঃ)-এর কাহিনি চলেছে ৩৭:১৩৩ থেকে ৩৭:১৩৮ পর্যন্ত, আর শেষ আয়াতটির সঙ্গে এটিই সেখানে সবচেয়ে ছোট। আগের দুই আয়াতে আছে লূত ও তাঁর পরিবারের উদ্ধার, আর পেছনে থেকে যাওয়া একজন নারীর কথা। কাহিনিটা ধ্বংসে গিয়ে থামেনি। থেমেছে আরও দুই আয়াত পরে, যারা শুনছে তাদের সামনে একটা প্রশ্ন রেখে।"
+          },
+          {
+            "en": "Compare the accounts before it. Nuh's closes at 37:79 and 37:80 with peace upon Nuh among all the worlds, and thus do We reward the doers of good. Ibrahim's closes the same way at 37:109 and 37:110, Musa and Harun's at 37:120 and 37:121, Ilyas's at 37:130 and 37:131. Lut's account carries neither line. In their place stand 37:137 and 37:138: and indeed you pass by them in the morning, and at night; will you not reason? The article reads this as a shape the text gives the passage.",
+            "bn": "এ সূরার আগের কাহিনিগুলোর সঙ্গে মিলিয়ে দেখুন। নূহ (আঃ)-এর কাহিনি শেষ হয় ৩৭:৭৯ ও ৩৭:৮০ আয়াতে: বিশ্বজগতে নূহের প্রতি সালাম, আর এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। ইবরাহীম (আঃ)-এর কাহিনিও একইভাবে শেষ হয় ৩৭:১০৯ ও ৩৭:১১০ আয়াতে, মূসা ও হারূন (আঃ)-এর ৩৭:১২০ ও ৩৭:১২১ আয়াতে, ইলিয়াস (আঃ)-এর ৩৭:১৩০ ও ৩৭:১৩১ আয়াতে। লূত (আঃ)-এর কাহিনিতে এ দুটি বাক্যের কোনোটিই নেই। তাদের জায়গায় এসেছে ৩৭:১৩৭ ও ৩৭:১৩৮: তোমরা তো সকালে তাদের উপর দিয়ে যাও, রাতেও যাও, তবু কি বুঝবে না? এ লেখার পাঠে এটা অংশটির নিজস্ব গড়ন।"
+          },
+          {
+            "en": "The wording marks the turn. The account opened at 37:133 with wa-inna Lutan la-mina l-mursalin, and indeed Lut was among the messengers, framed by inna and the emphatic lam. 37:137 opens inside the same frame, wa-innakum la-tamurruna, and indeed you pass, but now the subject is you. In the article's reading, the emphasis that affirmed a messenger's mission now affirms the listeners' own journeys, as a fact laid before them that they could not deny.",
+            "bn": "শব্দের গড়নেই মোড়টা ধরা পড়ে। ৩৭:১৩৩ আয়াতে কাহিনি শুরু হয়েছিল ওয়া ইন্না লূতান লামিনাল মুরসালীন দিয়ে: লূত অবশ্যই রাসূলদের একজন ছিলেন। জোর এসেছে ইন্না আর জোরদার লাম দিয়ে। ৩৭:১৩৭ আয়াত খোলে ঠিক সেই কাঠামোয়, ওয়া ইন্নাকুম লাতামুররূন: তোমরা অবশ্যই যাতায়াত কর। শুধু কর্তা এবার বদলে গেছে, এখন তোমরা। এ লেখার পাঠে, যে জোর দিয়ে একজন রাসূলের রিসালাত নিশ্চিত করা হয়েছিল, সেই একই জোরে এখন নিশ্চিত করা হচ্ছে শ্রোতাদের নিজেদের সফর। এ এমন এক সত্য, যা তাদের সামনে রাখা হয়েছে আর যা অস্বীকার করার উপায় তাদের নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Glosses on Dammarna",
+          "bn": "দাম্মারনার ছয়টি ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "The commentators gloss the verse in a line or two each. Al-Baghawi gives the word's meaning: at-tadmir is al-ihlak, destroying is bringing to ruin. Al-Qurtubi adds only bi-l-'uquba, by the punishment. Al-Muyassar names who is meant by the others: We destroyed those who remained, the deniers among his people. Ibn Kathir, in his Arabic, says Allah destroyed them with kinds of punishments. At-Tabari is the most concrete: then We hurled stones upon them from above them, and destroyed them by that.",
+            "bn": "তাফসীরকারেরা আয়াতটির ব্যাখ্যা দিয়েছেন এক-দুই লাইনে। বাগাভী শব্দের অর্থ বলেন: তাদমীর মানে ইহলাক, অর্থাৎ ধ্বংস করে দেওয়া। কুরতুবী শুধু যোগ করেন, বিল উকূবা, শাস্তি দিয়ে। আখারীন বা বাকিরা কারা, মুয়াসসার তা স্পষ্ট করে: তাঁর কওমের যারা রয়ে গিয়েছিল, সেই মিথ্যা প্রতিপন্নকারীদের আমি ধ্বংস করলাম। ইবন কাসীর তাঁর আরবি তাফসীরে বলেন, আল্লাহ নানা রকম শাস্তি দিয়ে তাদের ধ্বংস করেছেন। তাবারী সবচেয়ে নির্দিষ্ট: তারপর আমি উপর থেকে তাদের উপর পাথর ছুড়লাম, আর তা দিয়েই তাদের ধ্বংস করলাম।"
+          },
+          {
+            "en": "As-Sa'di explains the verse by another verse. We destroyed them, he says, by overturning their homes upon them, and he quotes 11:82: We made its highest part its lowest and rained upon it stones of layered baked clay. He closes with two rhyming verbs, hamadu wa-khamadu, until they were stilled and their fire went out. The same three words close the account of Lut in ash-Shu'ara at 26:172, and the manner of the punishment is weighed there.",
+            "bn": "সা'দী এক আয়াতের ব্যাখ্যা দেন আরেক আয়াত দিয়ে। তিনি বলেন, তাদের ঘরবাড়ি তাদের উপরেই উল্টে দিয়ে তাদের ধ্বংস করা হয়েছিল। তারপর উদ্ধৃত করেন ১১:৮২: আমি জনপদের উপরের অংশ নিচে করে দিলাম আর তার উপর স্তরে স্তরে পোড়া মাটির পাথর বর্ষণ করলাম। শেষ করেন ছন্দ মেলানো দুটি ক্রিয়ায়, হামাদূ ওয়া খামাদূ: শেষে তারা নিথর হয়ে গেল, তাদের আগুন নিভে গেল। এই তিনটি শব্দেই সূরা শুআরার ২৬:১৭২ আয়াতে লূত (আঃ)-এর কাহিনি শেষ হয়েছে। শাস্তির ধরন নিয়ে আলোচনা সেখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Addressed to Those Who Travelled",
+          "bn": "যারা সফরে যেত, তাদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "Who is the you of 37:137? At-Tabari says Allah is speaking to the idolaters of Quraysh: you pass by the people of Lut whom We destroyed as morning comes upon you, by day, and at night. Al-Muyassar: O people of Makkah. Al-Qurtubi puts it more widely: khataba al-'Arab, He addressed the Arabs. Ma'arif al-Qur'an names the people of Makkah and the reason they passed: their trade caravans to the land of Syria went by the site of Sadum day and night.",
+            "bn": "৩৭:১৩৭ আয়াতের তোমরা কারা? তাবারী বলেন, আল্লাহ এখানে কুরাইশের মুশরিকদের সম্বোধন করছেন: আমি যে লূতের কওমকে ধ্বংস করেছি, দিনে যখন তোমাদের সকাল হয়, আর রাতে, তোমরা তাদের উপর দিয়ে যাও। মুয়াসসারে আছে: হে মক্কাবাসী। কুরতুবী পরিধিটা আরেকটু বড় করেন: খাতাবাল আরাব, তিনি আরবদের সম্বোধন করেছেন। মাআরিফুল কুরআনও মক্কাবাসীর কথা বলে, সঙ্গে তাদের যাতায়াতের কারণটাও: সিরিয়ার দিকে তাদের বাণিজ্য কাফেলা দিনরাত সাদূমের জায়গাটার পাশ দিয়ে যেত।"
+          },
+          {
+            "en": "The three differ in breadth, not in substance: Quraysh, the people of Makkah, the Arabs at large. All of them hear the address as spoken to listeners who knew the route. Ma'arif adds what that knowledge cost them: the place held an event full of vital lessons, yet they failed to learn any. In the article's reading, this is what gives the question its edge. The passage does not ask the hearers to picture a ruin from a distant story. It points to a place they had already seen.",
+            "bn": "তিনটি মতের পার্থক্য পরিধিতে, মূল কথায় নয়: কুরাইশ, মক্কাবাসী, কিংবা গোটা আরব। সবার কাছেই সম্বোধনটা এমন শ্রোতাদের প্রতি, যারা পথটা চিনত। মাআরিফুল কুরআন যোগ করে, এই চেনা থেকে তারা কী হারাল: জায়গাটায় ঘটেছিল শিক্ষায় ভরা এক ঘটনা, অথচ তারা তা থেকে কিছুই শেখেনি। এ লেখার পাঠে প্রশ্নটার ধার আসে এখান থেকেই। দূরের কোনো গল্পের ধ্বংসস্তূপ কল্পনা করতে বলা হচ্ছে না। আঙুল তোলা হচ্ছে এমন এক জায়গার দিকে, যা তারা নিজের চোখে দেখে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Treading Sadum on the Road North",
+          "bn": "উত্তরের পথে সাদূম মাড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari brings two early readers. From Qatada, through Bishr, Yazid and Sa'id: yes, by Allah, morning and evening they tread it underfoot; whoever took the road from al-Madina to ash-Sham took it by way of Sadum, the town of the people of Lut. Qatada's verb, yata'unaha wat'an, is strong: not a glimpse from afar but feet on the ground. From as-Suddi, through Asbat, a shorter gloss: you pass by them in your journeys. Al-Muyassar joins the two: in your journeys, over their dwellings and their traces.",
+            "bn": "তাবারী এখানে আগের যুগের দুজনের কথা আনেন। বিশর, ইয়াযীদ ও সাঈদের মাধ্যমে কাতাদা থেকে: হ্যাঁ, আল্লাহর কসম, সকাল-সন্ধ্যা তারা জায়গাটা পায়ে মাড়িয়ে যায়। মদীনা থেকে শামের পথে যে-ই যেত, সে যেত লূতের কওমের জনপদ সাদূমের উপর দিয়ে। কাতাদার ক্রিয়াটা জোরালো, ইয়াতাঊনাহা ওয়াত'আন। দূর থেকে এক পলক দেখা নয়, মাটিতে পা ফেলে হাঁটা। আসবাতের মাধ্যমে সুদ্দী থেকে ছোট ব্যাখ্যা: তোমাদের সফরে। মুয়াসসার দুটোকে মিলিয়ে বলে: তোমাদের সফরে, তাদের ঘরবাড়ি আর চিহ্নগুলোর উপর দিয়ে।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi name what is passed in the same pair, their manazil and athar, their dwellings and their traces. As-Sa'di says diyar qawm Lut, the homes of Lut's people. The verse itself says only 'alayhim, by them, a pronoun for the people and not a name for a place. The commentators read through it to the ground where they had lived. In the article's reading, the pronoun keeps the people in view: the traveller passes not merely a site, but those who were destroyed there.",
+            "bn": "বাগাভী ও কুরতুবী যা পার হয়ে যাওয়া হয়, তার নাম দেন একই জোড়া শব্দে: মানাযিল ও আসার, তাদের বাসস্থান আর চিহ্ন। সা'দী বলেন দিয়ারু কওমি লূত, লূতের কওমের ঘরবাড়ি। আয়াত নিজে বলে শুধু আলাইহিম, তাদের উপর দিয়ে। এটা মানুষের জন্য সর্বনাম, কোনো জায়গার নাম নয়। তাফসীরকারেরা সর্বনামের ভেতর দিয়ে পৌঁছেছেন সেই মাটিতে, যেখানে তারা বাস করত। এ লেখার পাঠে সর্বনামটা মানুষগুলোকে চোখের সামনে রাখে। পথিক কেবল একটা জায়গা পেরোয় না, পেরোয় সেখানে ধ্বংস হয়ে যাওয়া মানুষদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving at Dawn, Arriving After Dark",
+          "bn": "ভোরে রওনা, আঁধারে পৌঁছানো"
+        },
+        "p": [
+          {
+            "en": "Why morning and night? Ma'arif al-Qur'an says the people of Arabia generally passed through at these very hours, and quotes Qadi Abu-s-Sa'ud: perhaps the site lay at a stage on the route, so that those leaving it left in the morning and those reaching it arrived in the evening. The word perhaps is his. Al-Baghawi gives a related picture from the traveller's side: you pass by them by day and by night, when you set out on your journeys and when you return.",
+            "bn": "সকাল আর রাত কেন? মাআরিফুল কুরআন বলে, আরবের লোকেরা সাধারণত ঠিক এই সময়গুলোতেই সেখান দিয়ে যেত। সঙ্গে কাযী আবুস সাঊদের কথা উদ্ধৃত করে: সম্ভবত জায়গাটা পথের এমন এক মঞ্জিলে ছিল, যেখান থেকে লোকে রওনা দিত সকালে, আর যেখানে পৌঁছাত সন্ধ্যায়। 'সম্ভবত' শব্দটা তাঁর নিজের। বাগাভী পথিকের দিক থেকে কাছাকাছি একটা ছবি দেন: দিনে ও রাতে তোমরা তাদের উপর দিয়ে যাও, যখন সফরে বের হও, আর যখন ফিরে আস।"
+          },
+          {
+            "en": "As-Sa'di reads the two times another way. At these hours, he says, your going back and forth there and your passing by it are frequent, so the matter leaves no room for doubt or uncertainty. Ibn Kathir's Arabic says travellers pass by it night and day. So two explanations stand side by side: a stage on the road that set the hours, and the two times standing for how often the place was passed. Neither excludes the other, and the article chooses neither.",
+            "bn": "সা'দী দুই সময়কে পড়েন অন্যভাবে। তাঁর কথায়, এই সময়গুলোতে সেখানে তোমাদের আসা-যাওয়া আর পার হওয়া বার বার ঘটে। তাই ব্যাপারটায় সন্দেহ বা দ্বিধার কোনো জায়গা নেই। ইবন কাসীরের আরবিতে আছে, মুসাফিররা রাতে-দিনে সে পথ দিয়ে যায়। ফলে পাশাপাশি দুটি ব্যাখ্যা দাঁড়ায়। একটি হলো পথের এমন মঞ্জিল, যা সময়টা ঠিক করে দিত। অন্যটি হলো, দুই সময় আসলে কত ঘন ঘন যাওয়া হতো তারই ইঙ্গিত। একটি অন্যটিকে বাতিল করে না, এ লেখাও কোনোটিকে বেছে নিচ্ছে না।"
+          },
+          {
+            "en": "Al-Qurtubi marks where the sentence ends. On wa-bi-l-layl he writes: you pass by them at night as well, and the speech is complete, wa-tamma l-kalam. The question afala ta'qilun then begins on its own, and the mushaf text carries a pause mark at that point. In the article's reading, the pause gives the hearer a moment between the two halves of 37:138: first the plain fact of the journeys, morning and night, and only then the question of what those journeys had taught.",
+            "bn": "বাক্য কোথায় শেষ, কুরতুবী তা চিহ্নিত করেন। ওয়া বিল লাইল প্রসঙ্গে তিনি লেখেন: রাতেও তোমরা তাদের উপর দিয়ে যাও, আর এখানে কথা পূর্ণ হলো, ওয়া তাম্মাল কালাম। এরপর আফালা তা'কিলূন প্রশ্নটা শুরু হয় আলাদা করে। মুসহাফের পাঠেও ঠিক সেখানে একটা ওয়াকফের চিহ্ন আছে। এ লেখার পাঠে, এই বিরতি ৩৭:১৩৮ আয়াতের দুই অংশের মাঝে শ্রোতাকে একটু সময় দেয়। প্রথমে সোজা সত্যটা: সকালে যাওয়া, রাতে যাওয়া। তারপর প্রশ্ন: এত যাওয়া-আসা তোমাদের কী শেখাল?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lake Beside the Abiding Road",
+          "bn": "চলতি পথের ধারে এক হ্রদ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's Arabic, on this verse, describes the place. Allah destroyed them with kinds of punishments, he writes, and made their place on the earth a buhayra muntina, a foul lake, ugly in its look, its taste and its smell, and set it bi-sabil muqim, on an abiding road, which travellers pass by night and day. The phrase bi-sabil muqim is the Qur'an's own. In 15:76, after the overturning of the town in 15:74, the text says: and indeed it lies on an established road.",
+            "bn": "ইবন কাসীর এ আয়াতের আরবি তাফসীরে জায়গাটার বর্ণনা দেন। তিনি লেখেন, আল্লাহ নানা রকম শাস্তি দিয়ে তাদের ধ্বংস করেছেন, আর পৃথিবীতে তাদের বসতির জায়গাটাকে বানিয়ে দিয়েছেন বুহাইরা মুনতিনা, এক দুর্গন্ধময় হ্রদ। দেখতে কুৎসিত, স্বাদে কুৎসিত, গন্ধে কুৎসিত। আর সেটাকে রেখেছেন বিসাবীলিম মুকীম, এক চলতি পথের ধারে, যেখান দিয়ে মুসাফিররা রাতে-দিনে যাতায়াত করে। বিসাবীলিম মুকীম কথাটা কুরআনেরই। ১৫:৭৪ আয়াতে জনপদ উল্টে দেওয়ার পর ১৫:৭৬ আয়াতে বলা হয়েছে: আর তা তো এক প্রতিষ্ঠিত পথের পাশেই রয়েছে।"
+          },
+          {
+            "en": "The abridged English of Ibn Kathir adds a bracket: the Dead Sea, close to the cities of Sodom and Gomorrah on the highway between Arabia and Syria. That identification is not in the Arabic text fetched for this passage, so the article leaves it in its bracket. The place was not lost; the road ran beside it. And the Qur'an sets the road among the signs: 15:75 speaks of signs for those who discern, and 15:77, right after the road, of a sign for the believers.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে একটা বন্ধনী যোগ করা আছে: মৃত সাগর, যা আরব ও সিরিয়ার মাঝের মহাসড়কে সাদূম ও আমূরা শহরের কাছে। এই শনাক্তকরণ এ অংশের জন্য আনা আরবি পাঠে নেই, তাই এ লেখা সেটাকে বন্ধনীর ভেতরেই রেখে দিচ্ছে। জায়গাটা হারিয়ে যায়নি, পথটা তার পাশ দিয়েই চলত। আর কুরআন সেই পথকে নিদর্শনের মধ্যে গণ্য করে। ১৫:৭৫ আয়াতে আছে অন্তর্দৃষ্টিসম্পন্নদের জন্য নিদর্শনের কথা, আর পথের উল্লেখের ঠিক পরে ১৫:৭৭ আয়াতে মুমিনদের জন্য এক নিদর্শনের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reasoning Was For",
+          "bn": "বুঝতে বলা হলো কেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens afala ta'qilun into a full sentence. Have you no minds, he paraphrases, with which to reflect and think, and so know that whoever of Allah's servants walks the path of these people of Lut, in disbelief in Him and in belying His messengers, will meet the like of the punishment that came down on them; so that this restrains you from associating partners with Allah and from belying Muhammad ﷺ?",
+            "bn": "তাবারী আফালা তা'কিলূনকে খুলে পুরো একটা বাক্য বানান। তাঁর ভাষায়: তোমাদের কি এমন বুদ্ধি নেই, যা দিয়ে ভাবতে আর চিন্তা করতে পার? তাহলে বুঝতে, আল্লাহর বান্দাদের যে কেউ তাঁকে অস্বীকার করে আর তাঁর রাসূলদের মিথ্যা বলে লূতের এই কওমের পথে হাঁটবে, তার উপরও নেমে আসবে তাদের উপর নেমে আসা শাস্তির মতো শাস্তি। আর সেই বোঝা তোমাদের আল্লাহর সঙ্গে শিরক থেকে এবং মুহাম্মাদ ﷺ-কে মিথ্যা বলা থেকে ফিরিয়ে রাখত।"
+          },
+          {
+            "en": "He then brings Ibn Zayd, through Ibn Wahb: will you not think about what befell them for disobeying Allah, that what befell them may befall you? And Ibn Zayd adds a short note on the passing in the verse before: it means passing by them. Ibn Kathir's Arabic: will you not take a lesson from them, how Allah destroyed them, and know that for the disbelievers there is the like of it? His phrasing follows 47:10 closely: Allah destroyed them, and for the disbelievers is the like of it.",
+            "bn": "এরপর তিনি ইবন ওয়াহবের মাধ্যমে ইবন যায়দের কথা আনেন: আল্লাহর নাফরমানির কারণে তাদের উপর যা এসেছিল, তা নিয়ে কি তোমরা ভাববে না? ভাববে না যে তাদের উপর যা এসেছিল, তা তোমাদের উপরও আসতে পারে? আগের আয়াত নিয়ে ইবন যায়দ ছোট্ট একটা কথাও যোগ করেন: সেই যাতায়াত মানে তাদের উপর দিয়ে যাওয়া। ইবন কাসীরের আরবিতে: তোমরা কি তাদের থেকে শিক্ষা নেবে না, আল্লাহ কীভাবে তাদের ধ্বংস করলেন? জানবে না যে কাফিরদের জন্যও আছে এর অনুরূপ? তাঁর এই শব্দগুলো ৪৭:১০ আয়াতের খুব কাছাকাছি: আল্লাহ তাদের ধ্বংস করেছেন, আর কাফিরদের জন্য আছে এর অনুরূপ।"
+          },
+          {
+            "en": "The others gloss the verb to the same end. Al-Qurtubi: ta'tabiruna wa-tatadabbaruna, you take a lesson and reflect. Al-Baghawi: so that you take a lesson from them. As-Sa'di: reason about the signs and the lessons, and hold back from what brings ruin. Al-Muyassar: so that you fear the like of what struck them striking you. For all of them, reason has one task, to carry a conclusion from the ruin to oneself. 29:35 says of the same town: We left of it a clear sign for a people who reason, using the same verb.",
+            "bn": "বাকিরাও ক্রিয়াটার ব্যাখ্যা দেন একই লক্ষ্যে। কুরতুবী: তা'তাবিরূন ওয়া তাতাদাব্বারূন, তোমরা শিক্ষা নেবে আর গভীরভাবে ভাববে। বাগাভী: যাতে তোমরা তাদের থেকে শিক্ষা নাও। সা'দী: নিদর্শন আর শিক্ষাগুলো বুঝবে, আর যা ধ্বংস ডেকে আনে তা থেকে বিরত থাকবে। মুয়াসসার: যাতে তোমরা ভয় পাও যে তাদের উপর যা এসেছিল, তা তোমাদের উপরও আসতে পারে। সবার কাছে এখানে বুদ্ধির কাজ একটাই: ধ্বংসস্তূপ থেকে একটা সিদ্ধান্ত নিজের কাছে বয়ে আনা। ২৯:৩৫ আয়াতে সেই জনপদ সম্পর্কেই আছে: বুঝতে পারে এমন সম্প্রদায়ের জন্য আমি তাতে এক স্পষ্ট নিদর্শন রেখে দিয়েছি। ক্রিয়াটা সেখানেও একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Head Covered Through the Valley",
+          "bn": "মাথা ঢেকে উপত্যকা পার"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for 37:136 to 37:138 attaches a hadith to these verses, and none gives an occasion of revelation for them. One sound narration bears on how a believer passes the dwellings of the punished, though it is not about this verse or about the people of Lut. Sahih al-Bukhari (4419), from Ibn Umar: when the Prophet ﷺ passed by al-Hijr, he said, do not enter the dwellings of those who wronged themselves, lest what befell them befall you, unless you are weeping. Then he covered his head and quickened his pace until he had crossed the valley.",
+            "bn": "৩৭:১৩৬ থেকে ৩৭:১৩৮ পর্যন্ত যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এ আয়াতগুলোর সঙ্গে কোনো হাদীস জোড়েনি, নাযিলের কোনো উপলক্ষও বলেনি। তবে একটি সহীহ বর্ণনা আছে, শাস্তিপ্রাপ্তদের বসতির পাশ দিয়ে একজন মুমিন কীভাবে যাবে সে বিষয়ে। বর্ণনাটি এ আয়াত বা লূতের কওম নিয়ে নয়। সহীহ বুখারী (৪৪১৯), ইবন উমার (রাঃ) থেকে: নবী ﷺ যখন হিজরের পাশ দিয়ে গেলেন, বললেন, যারা নিজেদের উপর যুলম করেছিল তাদের বাসস্থানে প্রবেশ করো না, পাছে তাদের উপর যা এসেছিল তা তোমাদের উপরও আসে। তবে কাঁদতে কাঁদতে হলে ভিন্ন কথা। তারপর তিনি মাথা ঢেকে নিলেন এবং দ্রুত চলে উপত্যকা পার হয়ে গেলেন।"
+          },
+          {
+            "en": "The narration does not say who those people were, and the article names no one. What it carries is a manner of passing. The reason the Prophet ﷺ gave was fear for the ones passing, lest the same befall you, which is the very thought al-Muyassar and Ibn Zayd find in afala ta'qilun. In the article's reading, he shows what reasoning at such a place looks like: not curiosity and not a show of disgust, but tears, a covered head, and no lingering.",
+            "bn": "সেই লোকেরা কারা ছিল, বর্ণনাটি তা বলে না, এ লেখাও কারও নাম নিচ্ছে না। বর্ণনাটি যা দেয়, তা হলো পার হওয়ার একটা ধরন। নবী ﷺ যে কারণ বলেছেন, তা পথিকদের নিয়েই ভয়: পাছে তোমাদের উপরও তা আসে। মুয়াসসার আর ইবন যায়দ আফালা তা'কিলূনের মধ্যে ঠিক এই কথাটাই খুঁজে পান। এ লেখার পাঠে, এমন জায়গায় বুঝতে পারা দেখতে কেমন, নবী ﷺ নিজেই তা দেখিয়ে দিয়েছেন। কৌতূহল নয়, ঘৃণার প্রদর্শনী নয়। চোখে পানি, ঢাকা মাথা, আর সেখানে দেরি না করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Conclusion Turns Inward",
+          "bn": "সিদ্ধান্তের মুখ নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the end of one people, by Allah's decree, after a messenger had been sent to them. It licenses nothing against any living person or community. It makes no one the carrier of that decree, and it gives no warrant to point at others and call them heirs of those destroyed. The passage here does not even name the people's wrong, and this article has not supplied it. What the text asks for is reasoning, not a verdict.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা পাঠে আছে: আল্লাহর ফয়সালায় এক কওমের পরিণতি, তাদের কাছে একজন রাসূল পাঠানোর পর। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। কাউকে সেই ফয়সালা কার্যকর করার দায়িত্ব দেয় না। অন্যের দিকে আঙুল তুলে তাদের ধ্বংসপ্রাপ্তদের উত্তরসূরি বলারও কোনো ভিত্তি দেয় না। সূরা সাফফাতের এ অংশ ওই কওমের অপরাধের নামটুকুও নেয়নি, এ লেখাও তা যোগ করেনি। পাঠ চাইছে বুঝতে, কারও বিচার করতে নয়।"
+          },
+          {
+            "en": "And every commentator above turns the question back on whoever hears it. At-Tabari's restraint is restraint for you; Ibn Zayd's fear is that it may befall you. The caravans were not asked what the dead had done, but what their own journeys had taught them. The road still runs past reminders: graves at the edge of a town, a life that ended sooner than expected. The verse asks of its reader what it asked of the traveller: not to let what is passed every day stop being seen.",
+            "bn": "আর উপরের প্রত্যেক তাফসীরকার প্রশ্নটা ফিরিয়ে দেন যে শুনছে, তার দিকেই। তাবারীর বিরত থাকা তোমাদেরই বিরত থাকা। ইবন যায়দের ভয়, পাছে তা তোমাদের উপর আসে। কাফেলার লোকদের জিজ্ঞেস করা হয়নি মৃতরা কী করেছিল। জিজ্ঞেস করা হয়েছে, নিজেদের এত সফর তাদের কী শেখাল। পথ আজও স্মরণ-চিহ্নের পাশ দিয়ে চলে: শহরের কিনারে কবরস্থান, সময়ের আগে থেমে যাওয়া কোনো জীবন। মুসাফিরের কাছে আয়াত যা চেয়েছিল, পাঠকের কাছেও তা-ই চায়: রোজ যার পাশ দিয়ে যাই, তা যেন চোখের আড়ালে চলে না যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "37:142": {
     "sections": [
       {
