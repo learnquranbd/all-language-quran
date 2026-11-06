@@ -743,6 +743,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "53:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "Sixteen Words, Then a Reason",
+          "bn": "ষোলো শব্দ, তারপর একটি কারণ"
+        },
+        "p": [
+          {
+            "en": "Wa lillahi ma fi as-samawati wa ma fi al-ard: and to Allah belongs whatever is in the heavens and whatever is in the earth. Then li-yajziya: that He may recompense those who did evil for what they did, and recompense those who did good with the best. The verse runs to sixteen Arabic words. It makes a statement of ownership and then gives a purpose, and they are joined by a single letter, the lam at the front of li-yajziya.",
+            "bn": "ওয়া লিল্লাহি মা ফিস সামাওয়াতি ওয়া মা ফিল আরদ: আকাশে যা আছে আর জমিনে যা আছে, সবই আল্লাহর। তারপর লিয়াজযিয়া: যাতে তিনি মন্দকারীদের প্রতিফল দেন তাদের কাজ অনুযায়ী, আর সৎকর্মশীলদের প্রতিদান দেন সবচেয়ে উত্তমটা দিয়ে। আরবিতে আয়াতটি ষোলো শব্দের। প্রথমে মালিকানার ঘোষণা, তারপর একটি উদ্দেশ্য। দুটিকে জুড়ে রেখেছে একটিমাত্র হরফ, লিয়াজযিয়া শব্দের শুরুর লাম।"
+          },
+          {
+            "en": "The verse follows a run of answers to those who named the angels with female names and followed nothing but conjecture (53:27 and 53:28). In 53:29 the Prophet ﷺ is told to turn from whoever turns away from Allah's reminder and wants only the life of this world, and 53:30 closes: your Lord is most knowing of who strays from His way, and most knowing of who is guided. Here that knowledge is followed by dominion, and dominion by recompense. The next verse, which describes the good-doers, has its own article.",
+            "bn": "এর আগের আয়াতগুলোতে জবাব এসেছে তাদের উদ্দেশে, যারা ফেরেশতাদের নারীর নামে ডাকত আর অনুমান ছাড়া কিছুই মানত না (৫৩:২৭ ও ৫৩:২৮)। ৫৩:২৯ আয়াতে নবী ﷺ-কে বলা হয়েছে, যে আল্লাহর জিকির থেকে মুখ ফিরিয়ে নেয় আর দুনিয়ার জীবন ছাড়া কিছু চায় না, তাকে এড়িয়ে চলতে। ৫৩:৩০ শেষ হয় এভাবে: তোমার রব ভালো করেই জানেন কে তাঁর পথ থেকে সরে গেছে, আর ভালো করেই জানেন কে হিদায়াত পেয়েছে। এই আয়াতে সেই জ্ঞানের পরে আসে মালিকানা, আর মালিকানার পরে প্রতিফল। পরের আয়াতে সৎকর্মশীলদের বর্ণনা আছে, সেটির আলোচনা আলাদা প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Owner Who Needs Nothing",
+          "bn": "যে মালিকের কোনো অভাব নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari supplies the word the verse leaves understood: to Allah belongs the dominion, mulk, of whatever is in the heavens and the earth, of anything at all. He then adds, before reaching the purpose clause, that He leads astray whom He wills and is most knowing of them. The ownership is not a new topic for him. It picks up the closing words of 53:30, where the Lord is most knowing of whoever strays and whoever is guided.",
+            "bn": "আয়াতে যে শব্দটা উহ্য, তাবারী সেটা খুলে বলেন: আকাশ ও জমিনে যা কিছু আছে, তার মুলক, অর্থাৎ রাজত্ব ও মালিকানা আল্লাহর। উদ্দেশ্যের অংশে পৌঁছানোর আগে তিনি আরও যোগ করেন, আল্লাহ যাকে চান পথভ্রষ্ট করেন, আর তাদের সম্পর্কে তিনিই সবচেয়ে ভালো জানেন। তাবারীর কাছে এই মালিকানা নতুন কোনো প্রসঙ্গ নয়। এটা ৫৩:৩০ আয়াতের শেষ কথাগুলোরই ধারাবাহিকতা, যেখানে রব ভালো জানেন কে পথ হারিয়েছে আর কে পথ পেয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir sets three descriptions in front of the purpose clause. Allah informs us, he says, that He is the owner of the heavens and the earth; that He is al-ghani 'amma siwahu, free of need for anything besides Himself; and that He judges among His creation with justice, having created the creation with truth. Only then does he quote li-yajziya. In his summary, ownership, independence and justice come first, and recompense is what follows from them.",
+            "bn": "উদ্দেশ্যের অংশের আগে ইবন কাসীর তিনটি গুণ সাজিয়ে রাখেন। তিনি বলেন, আল্লাহ জানাচ্ছেন যে তিনিই আকাশ ও জমিনের মালিক। তিনি আল-গনিয়্যু আম্মা সিওয়াহু, নিজেকে ছাড়া আর কারও মুখাপেক্ষী নন। আর তিনি নিজের সৃষ্টির মাঝে ইনসাফের সঙ্গে ফয়সালা করেন, সৃষ্টিকে তিনি সৃষ্টি করেছেন হক দিয়ে। এরপরই ইবন কাসীর লিয়াজযিয়া উদ্ধৃত করেন। তাঁর সারকথায় আগে আসে মালিকানা, অমুখাপেক্ষিতা আর ইনসাফ। প্রতিফল আসে এগুলোর ফল হিসেবে।"
+          },
+          {
+            "en": "As-Sa'di gives the ownership its full reach. Allah alone holds the dominion of this world and the next, and everyone in the heavens and the earth is His possession. He deals with them as a mighty king deals with his servants: He carries out His decree in them, runs His law over them, commands them and forbids them, and repays them for what He commanded and forbade, rewarding the obedient and punishing the disobedient. On this account, owning creation includes the right to legislate for it and the right to judge it.",
+            "bn": "সা'দী মালিকানাকে তার পুরো বিস্তারে দেখান। দুনিয়া ও আখিরাতের রাজত্ব একমাত্র আল্লাহর, আর আকাশ ও জমিনের সবাই তাঁর মালিকানাধীন। এক মহান বাদশাহ যেমন নিজের বান্দা ও গোলামদের উপর কর্তৃত্ব চালান, তিনিও তাদের উপর তেমনি কর্তৃত্ব চালান। তাদের মাঝে নিজের তাকদীর কার্যকর করেন, তাদের উপর নিজের শরীয়ত জারি করেন, আদেশ দেন, নিষেধ করেন। তারপর সেই আদেশ-নিষেধের ভিত্তিতে প্রতিফল দেন: অনুগতকে সওয়াব দেন, নাফরমানকে শাস্তি দেন। এ ব্যাখ্যায় সৃষ্টির মালিক হওয়া মানে তার জন্য বিধান দেওয়ার অধিকার, আবার তার বিচার করার অধিকারও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Lam, Three Attachments",
+          "bn": "এক লাম, তিন সংযোগ"
+        },
+        "p": [
+          {
+            "en": "The lam of li-yajziya has to hang on something, and al-Qurtubi lists three possibilities. The first he gives without qualification: it attaches to the meaning that to Allah belongs whatever is in the heavens and the earth implies. It is as if the verse said: He is the owner of all that, He guides whom He wills and leads astray whom He wills, in order to repay the doer of good for his good and the doer of evil for his evil.",
+            "bn": "লিয়াজযিয়ার লাম কোনো একটা কিছুর সঙ্গে যুক্ত হতেই হবে। কুরতুবী তিনটি সম্ভাবনার কথা বলেন। প্রথমটি তিনি কোনো শর্ত ছাড়াই উল্লেখ করেন: লামটি যুক্ত সেই অর্থের সঙ্গে, যা 'আকাশ ও জমিনে যা আছে সব আল্লাহর' কথাটি থেকে বোঝা যায়। যেন আয়াত বলছে: তিনিই এসবের মালিক, যাকে চান হিদায়াত দেন, যাকে চান পথভ্রষ্ট করেন, যাতে সৎকর্মশীলকে তার সৎকর্মের আর মন্দকারীকে তার মন্দের প্রতিফল দিতে পারেন।"
+          },
+          {
+            "en": "The second he introduces with wa qila, it has been said: the ownership clause is mu'tarid, a parenthesis, and the lam reaches back past it to 53:30. Your Lord is most knowing of who strays from His way and most knowing of who is guided, in order to repay. Al-Baghawi holds this reading as his own. The clause stands between the previous verse and li-yajziya, he says, and the lam belongs to the meaning of that earlier verse, because if He knows them best, He repays each as he deserves.",
+            "bn": "দ্বিতীয়টি কুরতুবী আনেন ওয়া কীলা, অর্থাৎ 'বলা হয়েছে' কথাটি দিয়ে। এ মতে মালিকানার বাক্যটি মু'তারিদ, মাঝখানে বসানো একটি অন্তর্বর্তী বাক্য। লাম সেটা ডিঙিয়ে ফিরে যায় ৫৩:৩০ আয়াতে: তোমার রব ভালো জানেন কে তাঁর পথ থেকে সরে গেছে আর কে হিদায়াত পেয়েছে, যাতে তিনি প্রতিফল দেন। বাগাভী এ পাঠটিকেই নিজের মত হিসেবে গ্রহণ করেন। তিনি বলেন, বাক্যটি আগের আয়াত আর লিয়াজযিয়ার মাঝে বসেছে, আর লাম যুক্ত আগের আয়াতের অর্থের সঙ্গে। কারণ তিনি যখন তাদের সবচেয়ে ভালো জানেন, তখন প্রত্যেককে তার প্রাপ্য অনুযায়ীই প্রতিফল দেন।"
+          },
+          {
+            "en": "The third, also under wa qila, makes it lam al-'aqiba, the lam of outcome. To Allah belongs whatever is in the heavens and the earth, and the outcome of the affair of creation is that among them there are doers of evil and doers of good. For whoever did evil there is al-su'a, the worst, which is Jahannam; for whoever did good, al-husna, the best, which is the Garden. On this reading the lam tells where things end rather than what they were aimed at. Al-Qurtubi sets the three side by side without choosing.",
+            "bn": "তৃতীয়টিও ওয়া কীলা দিয়ে: এটি লামুল আকিবা, পরিণতির লাম। আকাশ ও জমিনে যা আছে সব আল্লাহর, আর সৃষ্টির ব্যাপারটার পরিণতি এই যে তাদের মধ্যে কেউ মন্দকারী, কেউ সৎকর্মশীল। মন্দকারীর জন্য আছে আস-সুওয়া, সবচেয়ে মন্দটা, অর্থাৎ জাহান্নাম। আর সৎকর্মশীলের জন্য আল-হুসনা, সবচেয়ে উত্তমটা, অর্থাৎ জান্নাত। এ পাঠে লাম বলে দেয় সবকিছু কোথায় গিয়ে শেষ হয়, কোন লক্ষ্যে চালানো হয়েছিল তা নয়। কুরতুবী তিনটি মত পাশাপাশি রেখে দেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Dominion Is Named First",
+          "bn": "রাজত্বের কথা কেন আগে"
+        },
+        "p": [
+          {
+            "en": "Even on his parenthesis reading, al-Baghawi explains why the clause is placed where it is. He is only able to repay the good-doer and the evil-doer, he writes, when His dominion is vast, and for that reason He said: to Allah belongs whatever is in the heavens and whatever is in the earth. So the passage brings a pair together. 53:30 shows a Judge who knows exactly who strayed and who was guided, and 53:31 shows an Owner with the power to carry the verdict out.",
+            "bn": "মাঝখানে বসানো বাক্যের পাঠ মেনেও বাগাভী ব্যাখ্যা করেন, বাক্যটি ঠিক ওখানেই কেন। তিনি লেখেন, সৎকর্মশীল আর মন্দকারীকে প্রতিফল দেওয়ার সামর্থ্য তখনই থাকে, যখন রাজত্ব হয় বিশাল। সে কারণেই তিনি বলেছেন: আকাশে যা আছে আর জমিনে যা আছে, সবই আল্লাহর। তাই এখানে একটি জোড়া একসঙ্গে এসেছে। ৫৩:৩০ আয়াতে এমন এক বিচারক, যিনি ঠিক ঠিক জানেন কে পথ হারিয়েছে আর কে পথ পেয়েছে। আর ৫৩:৩১ আয়াতে এমন এক মালিক, যাঁর রায় কার্যকর করার পুরো ক্ষমতা আছে।"
+          },
+          {
+            "en": "As a reflection, set this beside Ibn Kathir's word al-ghani. A human court can fail in three ways: the judge does not know what happened, or knows but cannot enforce the verdict, or needs something from a party and leans toward him. The passage closes each door in turn. He knows best, He owns everything, and He needs nothing from anyone.",
+            "bn": "চিন্তার খোরাক হিসেবে এর পাশে রাখুন ইবন কাসীরের শব্দটি, আল-গনী। মানুষের আদালত তিনভাবে ব্যর্থ হতে পারে। বিচারক জানেন না আসলে কী ঘটেছে। অথবা জানেন, কিন্তু রায় কার্যকর করার ক্ষমতা নেই। অথবা কোনো এক পক্ষের কাছে তাঁর কিছু পাওয়ার আছে, তাই সেদিকে ঝুঁকে পড়েন। এই আয়াতগুলো একে একে তিনটি দরজাই বন্ধ করে দেয়। তিনি সবচেয়ে ভালো জানেন, সবকিছুর মালিক তিনি, আর কারও কাছে তাঁর কোনো প্রয়োজন নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Stands in Each Group",
+          "bn": "কোন দলে কারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the two groups through obedience. Those who did evil are those of His creation who disobeyed Him and did evil by that disobedience, and He repays them for it with the Fire. Those who did good are those who obeyed Him and did good by their obedience in the world, and He repays them with al-husna, which is the Garden. On his own reading the line runs between obedience and disobedience in general, without naming any particular sin or creed.",
+            "bn": "তাবারী দুই দলকে দেখেন আনুগত্যের মাপে। মন্দকারী তারা, যারা আল্লাহর সৃষ্টির মধ্যে থেকে তাঁর নাফরমানি করেছে আর সেই নাফরমানির মাধ্যমে মন্দ করেছে। এর প্রতিফলে তিনি তাদের দেবেন জাহান্নাম। সৎকর্মশীল তারা, যারা তাঁর আনুগত্য করেছে আর দুনিয়ায় সেই আনুগত্যের মাধ্যমে ভালো কাজ করেছে। তাদের তিনি দেবেন আল-হুসনা, অর্থাৎ জান্নাত। তাবারীর নিজের পাঠে সীমারেখাটি টানা হয়েছে সাধারণভাবে আনুগত্য আর নাফরমানির মাঝে। কোনো নির্দিষ্ট গুনাহ বা আকীদার নাম সেখানে নেই।"
+          },
+          {
+            "en": "He then reports a narrower reading, under wa qila: the people of shirk and the people of faith are meant. As its source he gives, through Yunus, Ibn Wahb and 'Abdullah ibn 'Ayyash, the words of Zayd ibn Aslam on this verse, that those who did good are the believers. Al-Baghawi takes the narrower line as his own. Those who did evil associated partners with Allah and are repaid for the shirk they committed; those who did good affirmed the oneness of their Lord and are repaid with the Garden.",
+            "bn": "এরপর তাবারী ওয়া কীলা দিয়ে একটি সংকীর্ণ পাঠ উল্লেখ করেন: এখানে উদ্দেশ্য শিরককারী আর ঈমানদার। এর সূত্র হিসেবে তিনি ইউনুস, ইবন ওয়াহব ও আবদুল্লাহ ইবন আইয়াশের মাধ্যমে যায়দ ইবন আসলামের কথা আনেন। যায়দ এ আয়াত সম্পর্কে বলেছেন, সৎকর্মশীল বলতে মুমিনদের বোঝানো হয়েছে। বাগাভী এই সংকীর্ণ রেখাকেই নিজের মত হিসেবে নেন। তাঁর ব্যাখ্যায় মন্দকারীরা আল্লাহর সঙ্গে শরিক করেছে, আর সেই শিরকেরই প্রতিফল পাবে। সৎকর্মশীলরা তাদের রবের তাওহীদ মেনেছে, আর তাদের প্রতিদান জান্নাত।"
+          },
+          {
+            "en": "As-Sa'di goes wide in both directions. Evil deeds run from kufr down to whatever is less than it, and they are repaid with a severe punishment. Doing good has two objects: excellence in the worship of Allah, and doing good to His creation through every kind of benefit. So the commentators differ over the verse's reach. At-Tabari and as-Sa'di read the two groups broadly, while al-Baghawi and the report from Zayd ibn Aslam draw the line between shirk and faith. The article keeps both readings and does not choose.",
+            "bn": "সা'দী দুই দিকেই পরিধি বাড়িয়ে দেন। মন্দ আমলের শুরু কুফর থেকে, তারপর তার চেয়ে ছোট সব গুনাহ। এর প্রতিফল কঠোর শাস্তি। আর ইহসানের দুটি ক্ষেত্র: আল্লাহর ইবাদতে উত্তমতা, আর নানা রকম উপকারের মাধ্যমে তাঁর সৃষ্টির প্রতি ভালো আচরণ। অর্থাৎ আয়াতের পরিধি নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। তাবারী ও সা'দী দুই দলকে পড়েন ব্যাপক অর্থে। আর বাগাভী এবং যায়দ ইবন আসলামের বর্ণনা রেখা টানেন শিরক আর ঈমানের মাঝে। এ প্রবন্ধ দুটি পাঠই রেখে দেয়, কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "By the Deed, by the Best",
+          "bn": "কাজের মাপে, আর উত্তমের মাপে"
+        },
+        "p": [
+          {
+            "en": "Look at the wording of the two halves. Those who did evil are repaid bima 'amilu, for what they did: the deed itself names the measure. Those who did good are repaid bil-husna, with the best: a word that names no deed at all, only the quality of what is given. This is an observation on the verse's wording; none of the tafsirs fetched for it comments on the difference.",
+            "bn": "দুই অংশের শব্দচয়ন খেয়াল করুন। মন্দকারীদের প্রতিফল বিমা আমিলু, তারা যা করেছে তার জন্য। মাপটা কাজ নিজেই ঠিক করে দেয়। সৎকর্মশীলদের প্রতিদান বিল-হুসনা, সবচেয়ে উত্তমটা দিয়ে। এ শব্দে কোনো কাজের নাম নেই, আছে শুধু যা দেওয়া হবে তার গুণ। এটা আয়াতের শব্দের দিকে তাকিয়ে একটি পর্যবেক্ষণ। এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই পার্থক্য নিয়ে কিছু বলে না।"
+          },
+          {
+            "en": "What is al-husna? At-Tabari, al-Baghawi and the Muyassar all answer: the Garden. Al-Qurtubi, under the lam of outcome, pairs it with al-su'a, Jahannam. As-Sa'di reads it more widely: the good state in this world and the Hereafter, the greatest and loftiest part of which is their Lord's pleasure and the winning of the bliss of the Garden. On his reading the best reward begins before death. Ibn Kathir's summary keeps the two sides level: each is repaid by his deed, good for good and evil for evil.",
+            "bn": "আল-হুসনা কী? তাবারী, বাগাভী ও মুয়াসসার, তিনটিরই উত্তর: জান্নাত। কুরতুবী পরিণতির লামের ব্যাখ্যায় একে জোড়া বাঁধেন আস-সুওয়ার সঙ্গে, যা জাহান্নাম। সা'দী একে পড়েন আরও ব্যাপক অর্থে: দুনিয়া ও আখিরাতে উত্তম অবস্থা। তার মধ্যে সবচেয়ে বড় ও সবচেয়ে মর্যাদাপূর্ণ হলো তাদের রবের সন্তুষ্টি আর জান্নাতের নিয়ামত লাভ। তাঁর পাঠে সর্বোত্তম প্রতিদানের শুরু মৃত্যুর আগেই। ইবন কাসীরের সারকথায় দুই দিক সমান থাকে: প্রত্যেককে তার কাজ অনুযায়ী প্রতিফল দেওয়া হবে, ভালোর বদলে ভালো, মন্দের বদলে মন্দ।"
+          },
+          {
+            "en": "Elsewhere the Qur'an states the two measures outright. In 6:160: whoever comes with a good deed will have ten times the like of it, and whoever comes with an evil deed will be recompensed only with its like, and they will not be wronged. No tafsir fetched for 53:31 cites it; the pairing is this article's own. Read together, the two verses agree: evil is met with its equal and never more, and good is met with more than itself.",
+            "bn": "কুরআনের অন্য জায়গায় এই দুই মাপ সরাসরি বলা আছে। ৬:১৬০ আয়াতে: যে একটি ভালো কাজ নিয়ে আসবে, সে পাবে তার মতো দশটি নেকি। আর যে একটি মন্দ কাজ নিয়ে আসবে, তাকে শুধু তার সমান প্রতিফলই দেওয়া হবে, আর তাদের উপর জুলুম করা হবে না। ৫৩:৩১ আয়াতের দেখা কোনো তাফসীর ওই আয়াতটি আনেনি। দুটিকে পাশাপাশি রাখা এ প্রবন্ধের নিজের কাজ। একসঙ্গে পড়লে দুই আয়াত একই কথা বলে: মন্দের জবাব তার সমান, কখনো বেশি নয়। আর ভালোর জবাব তার চেয়ে বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration Beside the Verse",
+          "bn": "আয়াতের পাশে একটি হাদীস"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none reports an occasion of revelation for it. The narrations Ibn Kathir brings in the same passage belong to al-lamam in 53:32, and they are discussed there. The hadith below is a general one. No commentator cited here ties it to 53:31, and it is quoted only because it states, in the Prophet's ﷺ words, the same pairing of exact justice and generous reward.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও বর্ণনা করেনি। একই অংশে ইবন কাসীর যেসব বর্ণনা এনেছেন, সেগুলো ৫৩:৩২ আয়াতের আল-লামাম প্রসঙ্গে, আর সেখানেই সেগুলোর আলোচনা। নিচের হাদীসটি সাধারণ। এখানে উল্লেখ করা কোনো মুফাসসির একে ৫৩:৩১ আয়াতের সঙ্গে যুক্ত করেননি। এটি আনা হয়েছে শুধু এজন্য যে নবী ﷺ-এর ভাষায় এতে একই জোড়ার কথা আছে: নিখুঁত ইনসাফ আর উদার প্রতিদান।"
+          },
+          {
+            "en": "Al-Bukhari (6491) records from Ibn 'Abbas that the Prophet ﷺ, relating from his Lord, said: Allah wrote down the good deeds and the bad deeds, then made that clear. Whoever intends a good deed and does not do it, Allah writes it with Himself as one complete good deed. If he intends it and does it, Allah writes it with Himself as ten good deeds, up to 700 times, up to many times more. Whoever intends a bad deed and does not do it, Allah writes it with Himself as one complete good deed. If he intends it and does it, Allah writes it as one bad deed.",
+            "bn": "বুখারী (৬৪৯১) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ তাঁর রবের পক্ষ থেকে বর্ণনা করে বলেছেন: আল্লাহ ভালো কাজ ও মন্দ কাজ লিখে রেখেছেন, তারপর তা স্পষ্ট করে দিয়েছেন। কেউ একটি ভালো কাজের ইচ্ছা করল কিন্তু করল না, আল্লাহ নিজের কাছে তার জন্য একটি পূর্ণ নেকি লিখে রাখেন। আর যদি ইচ্ছা করে কাজটি করেই ফেলে, আল্লাহ নিজের কাছে তার জন্য দশটি নেকি লেখেন, ৭০০ গুণ পর্যন্ত, তারও বহু গুণ পর্যন্ত। কেউ একটি মন্দ কাজের ইচ্ছা করল কিন্তু করল না, আল্লাহ নিজের কাছে তার জন্য একটি পূর্ণ নেকি লেখেন। আর যদি ইচ্ছা করে কাজটি করে ফেলে, আল্লাহ তার জন্য একটিমাত্র গুনাহ লেখেন।"
+          },
+          {
+            "en": "A bad deed carried out is written as one, its own size and no larger, and a bad deed held back becomes a good deed. A good deed only intended is already counted, and one carried out is multiplied. That is the same shape the wording of 53:31 suggests: the evil-doer meets exactly what he did, and the good-doer meets something better than what he brought.",
+            "bn": "মন্দ কাজ করে ফেললে লেখা হয় একটিই, তার নিজের মাপে, এর বেশি নয়। আর মন্দ কাজ থেকে বিরত থাকলে সেটাই হয়ে যায় নেকি। ভালো কাজের শুধু ইচ্ছাটাই গোনা হয়ে যায়, আর করে ফেললে তা বহুগুণ হয়। ৫৩:৩১ আয়াতের শব্দচয়ন যে ছবির ইঙ্গিত দেয়, এটা সেই একই ছবি। মন্দকারী পায় ঠিক ততটুকু, যা সে করেছে। আর সৎকর্মশীল পায় তার আনা আমলের চেয়েও উত্তম কিছু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living Under a Just Owner",
+          "bn": "ন্যায়বান মালিকের অধীনে জীবন"
+        },
+        "p": [
+          {
+            "en": "The verse speaks of deeds and their doers in general terms. It names no one, and it gives no reader the right to place a living person in either group. Sorting belongs to the One described a verse earlier as most knowing of who strays and who is guided. What the verse asks of the reader is a look inward: which of the two measures am I filling, and do I bring my deeds before a Judge I trust to be both exact and generous?",
+            "bn": "আয়াতটি আমল আর আমলকারীর কথা বলে সাধারণভাবে। কারও নাম নেয় না, আর কোনো পাঠককে এ অধিকারও দেয় না যে জীবিত কোনো মানুষকে সে এই দুই দলের কোনো একটিতে বসিয়ে দেবে। কে কোন দলে, সে ফয়সালা তাঁর, যাঁর পরিচয় এক আয়াত আগে দেওয়া হয়েছে: কে পথ হারিয়েছে আর কে পথ পেয়েছে, তিনিই সবচেয়ে ভালো জানেন। পাঠকের কাছে আয়াতের দাবি নিজের ভেতরে তাকানো। আমি কোন মাপটা ভরছি? আর আমার আমল কি এমন এক বিচারকের সামনে নিয়ে যাচ্ছি, যাঁকে আমি নিখুঁত আর উদার, দুটোই বলে বিশ্বাস করি?"
+          },
+          {
+            "en": "Two habits follow from it. The first concerns what I hold. If whatever is in the heavens and the earth belongs to Allah, then my money, my time and my authority are a trust held from their Owner. The second concerns how I judge others. A parent, a teacher or a manager who wants to carry something of this verse can keep penalties to the size of the fault and let thanks run larger than the effort.",
+            "bn": "এ আয়াত থেকে দুটি অভ্যাস জন্ম নেয়। প্রথমটি আমার হাতে যা আছে তা নিয়ে। আকাশ ও জমিনে যা আছে সবই যদি আল্লাহর হয়, তবে আমার টাকা, আমার সময়, আমার কর্তৃত্ব, সবই তাঁর দেওয়া আমানত। দ্বিতীয়টি অন্যদের বিচার নিয়ে। বাবা-মা, শিক্ষক বা কর্মস্থলের দায়িত্বশীল কেউ যদি এ আয়াতের কিছুটা নিজের জীবনে আনতে চান, তবে শাস্তি রাখবেন ভুলের মাপে, আর প্রশংসা দেবেন পরিশ্রমের চেয়ে বেশি।"
+          }
+        ]
+      }
+    ]
+  },
   "53:32": {
     "sections": [
       {

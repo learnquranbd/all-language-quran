@@ -27589,6 +27589,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not meet every warning with a ready ordinary explanation; a mind that has decided in advance will call even a falling sky a cloud.",
     "lessonBn": "প্রতিটি সতর্কবার্তার সামনে তৈরি করা সাধারণ ব্যাখ্যা নিয়ে দাঁড়াবেন না। যে মন আগেই সিদ্ধান্ত নিয়ে বসে আছে, সে ভেঙে পড়া আকাশকেও মেঘ বলে।"
+  },
+  "53:31": {
+    "reflectionEn": "Right after saying that your Lord knows best who strays and who is guided, the surah steps back to name the Owner: whatever is in the heavens and whatever is in the earth belongs to Allah. Then it gives a reason. He will repay those who did evil with what they did, and those who did good with the best. Look at the two measures. Evil is answered by its own weight. Good is answered by something better than itself. The Owner of everything needs nothing from me, so His justice cannot be bought and His generosity costs Him nothing. That leaves one question for me. Which of the two measures am I filling today, and do I trust the One who holds them?",
+    "reflectionBn": "তোমার রব ভালো করেই জানেন কে পথ হারিয়েছে আর কে পথ পেয়েছে, এ কথা বলার ঠিক পরেই সূরাটি একটু পিছিয়ে এসে মালিকের নাম বলে দেয়: আকাশে যা আছে আর জমিনে যা আছে, সবই আল্লাহর। তারপর আসে একটা কারণ। যারা মন্দ করেছে, তিনি তাদের প্রতিফল দেবেন তাদের কাজ অনুযায়ী। আর যারা ভালো করেছে, তাদের দেবেন সবচেয়ে উত্তমটা। দুটো মাপ খেয়াল করুন। মন্দের জবাব তার নিজের ওজনে। ভালোর জবাব তার চেয়েও ভালো কিছু দিয়ে। সবকিছুর মালিক আমার কাছে কিছুই চান না। তাই তাঁর ইনসাফ কেনা যায় না, আর তাঁর দানে তাঁর কিছু কমে না। আমার জন্য বাকি থাকে একটাই প্রশ্ন। আজ আমি কোন মাপটা ভরছি? আর যিনি দুটো মাপই হাতে রাখেন, তাঁর উপর কি আমার ভরসা আছে?",
+    "pointsEn": [
+      "When I think about being repaid for what I have done, which do I feel more, fear of the fair measure or hope in the generous one, and is that balance right?",
+      "Is there a wrong I keep repeating because nobody with any power over me seems to be watching?",
+      "What good did I do this week that no one thanked me for, and can I leave its reward with the Owner of the heavens and the earth?",
+      "With the people who depend on me, am I fair when they fall short and generous when they do well, or the other way round?",
+      "Which thing do I call mine that this verse says belongs to Allah?"
+    ],
+    "pointsBn": [
+      "নিজের আমলের প্রতিফলের কথা ভাবলে কোনটা আমাকে বেশি নাড়া দেয়, ইনসাফের মাপের ভয়, নাকি দয়ার মাপের আশা? আর সেই ভারসাম্য কি ঠিক আছে?",
+      "এমন কোনো অন্যায় কি আছে, যা বারবার করি শুধু এজন্য যে আমার উপর ক্ষমতা রাখে এমন কেউ দেখছে বলে মনে হয় না?",
+      "এ সপ্তাহে এমন কী ভালো কাজ করেছি, যার জন্য কেউ ধন্যবাদ দেয়নি? তার প্রতিদান কি আসমান-জমিনের মালিকের হাতে ছেড়ে দিতে পারি?",
+      "যারা আমার উপর নির্ভর করে, তারা ভুল করলে কি আমি ন্যায্য থাকি আর ভালো করলে উদার হই, নাকি করি ঠিক উল্টোটা?",
+      "কোন জিনিসটাকে আমি নিজের বলে ডাকি, অথচ এ আয়াত বলছে তা আল্লাহর?"
+    ],
+    "lessonEn": "Everything belongs to Allah, who repays evil only by its measure and good with the best; be fair, do good generously, and leave your reward with Him.",
+    "lessonBn": "সবকিছু আল্লাহর। মন্দের প্রতিফল তিনি দেন তার মাপেই, আর ভালোর প্রতিফল দেন সবচেয়ে উত্তমটা দিয়ে। তাই ন্যায্য থাকুন, উদার হাতে ভালো করুন, আর প্রতিদান তাঁর কাছেই রেখে দিন।"
   }
 };
 
