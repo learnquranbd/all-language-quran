@@ -26369,6 +26369,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every sleep is a taking and every waking a return from Allah: lie down remembering Him, and spend the day He sends you back for as a term that will end.",
     "lessonBn": "প্রতিটি ঘুম আল্লাহর কাছে প্রাণ চলে যাওয়া, প্রতিটি জাগরণ তাঁর কাছ থেকে ফিরে পাওয়া। তাই তাঁকে স্মরণ করে শুয়ে পড়ুন, আর যে দিনের জন্য তিনি ফিরিয়ে দেন, তা কাটান এই জেনে যে মেয়াদ একদিন ফুরাবে।"
+  },
+  "40:18": {
+    "reflectionEn": "A day is called near before it arrives, and that is the mercy in the warning. The verse shows the end of the road: hearts risen to the throat, neither going back down nor letting the body go, and people holding in what they cannot say. Then it closes two doors at once. There is no close friend who cares enough to step in, and no intercessor whose word is accepted for those who did wrong. The verse is not a picture to stare at; it is a notice served while there is still time. The heart is still in its place today. What am I doing with the days in which it still is?",
+    "reflectionBn": "যে দিন এখনো আসেনি, তাকে কাছে বলে ডাকা হচ্ছে। সতর্কবাণীর রহমত এখানেই। আয়াতটি পথের শেষ মাথা দেখিয়ে দেয়: কলিজা উঠে এসেছে গলার কাছে, নিচেও নামে না, দেহ ছেড়েও যায় না। মানুষ মুখে আনতে না পারা কষ্ট বুকে চেপে রাখছে। তারপর একসঙ্গে দুটো দরজা বন্ধ হয়ে যায়। অন্যায়কারীদের জন্য এমন কোনো আপনজন নেই যে দরদ নিয়ে এগিয়ে আসবে, এমন কোনো সুপারিশকারীও নেই যার কথা কবুল হবে। এ ছবি তাকিয়ে দেখার জন্য নয়। সময় থাকতে হাতে ধরিয়ে দেওয়া এক নোটিশ। আজ কলিজা এখনো নিজের জায়গায় আছে। যে দিনগুলোতে তা জায়গায় আছে, সেগুলো দিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "If that Day is near, what am I still putting off as though I had years to spare?",
+      "What do I hold inside today that I could still say, set right or ask forgiveness for, before speech is taken from me?",
+      "Whose closeness am I counting on to save me, and does that closeness lead me towards my Lord or away from Him?",
+      "Which wrong in my life, even a small one, would I least want to face with no one to speak for me?",
+      "When I read about the wrongdoers here, do I look for them among others, or check first whether the description fits me?"
+    ],
+    "pointsBn": [
+      "সে দিন যদি কাছেই হয়, তবে কোন কাজটা আমি এখনো এমনভাবে ফেলে রাখছি যেন হাতে বহু বছর পড়ে আছে?",
+      "আজ বুকের ভেতর কী চেপে রেখেছি, যা মুখ বন্ধ হয়ে যাওয়ার আগে এখনো বলা যায়, শুধরে নেওয়া যায় বা যার জন্য ক্ষমা চাওয়া যায়?",
+      "কার ঘনিষ্ঠতার ভরসায় আমি বাঁচার আশা করছি? সে ঘনিষ্ঠতা কি আমাকে রবের দিকে নিয়ে যায়, নাকি তাঁর থেকে দূরে সরায়?",
+      "আমার জীবনের কোন অন্যায়টা, ছোট হলেও, এমন অবস্থায় মুখোমুখি হতে আমি সবচেয়ে কম চাইব যখন আমার পক্ষে বলার কেউ থাকবে না?",
+      "এখানে অন্যায়কারীদের কথা পড়ে আমি কি তাদের অন্যদের মধ্যে খুঁজি, নাকি আগে দেখি বর্ণনাটা আমার সঙ্গে মিলে যায় কি না?"
+    ],
+    "lessonEn": "The Day is called near so that you prepare while you still can: no close friend or accepted intercessor will stand for those who did wrong.",
+    "lessonBn": "দিনটিকে কাছে বলা হয়েছে, যাতে সময় থাকতেই প্রস্তুতি নেন। অন্যায়কারীদের পক্ষে সেদিন কোনো আপনজন বা কবুল হওয়া সুপারিশকারী দাঁড়াবে না।"
   }
 };
 

@@ -595,6 +595,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Same Day, Told Again",
+          "bn": "একই দিন, আবার বলা"
+        },
+        "p": [
+          {
+            "en": "The surah has already named this Day once. In 40:15 the One exalted above all degrees casts revelation on whom He wills so that he may warn of yawm at-talaq, the Day of Meeting, and 40:16 and 40:17 describe it: people come forth with nothing about them hidden from Allah, sovereignty is declared His alone, and there is no injustice that Day. Our verse adds no new subject. It turns the description into a command, wa-andhirhum, and warn them, and gives the same Day a second name.",
+            "bn": "এই দিনের নাম সূরাটি আগেও একবার নিয়েছে। ৪০:১৫ আয়াতে সব মর্যাদার ঊর্ধ্বে যিনি, তিনি যাকে চান তার উপর ওয়াহী নাযিল করেন, যাতে সে ইয়াওমুত তালাক, অর্থাৎ সাক্ষাতের দিন সম্পর্কে সতর্ক করে। ৪০:১৬ ও ৪০:১৭ আয়াত সে দিনের বিবরণ দেয়। মানুষ বেরিয়ে আসবে, তাদের কিছুই আল্লাহর কাছে গোপন থাকবে না। ঘোষণা হবে, কর্তৃত্ব একমাত্র তাঁর। আর সেদিন কোনো যুলম নেই। আমাদের আয়াত নতুন কোনো বিষয় আনে না। বিবরণটাকে সে আদেশে রূপ দেয়, ওয়া আনযিরহুম, তাদের সতর্ক করুন। আর একই দিনকে দেয় দ্বিতীয় একটি নাম।"
+          },
+          {
+            "en": "At-Tabari reads the command as Allah's words to His Prophet: warn, O Muhammad, the mushriks of your people of yawm al-azifah, meaning the Day of Resurrection, that they will come to Allah on it with their foul deeds and so earn His painful punishment. As-Sa'di opens the same way: Allah says to His Prophet Muhammad ﷺ. Al-Muyassar widens the audience in its paraphrase, warn, O Messenger, the people, and adds a clause the others do not have: of the Day of Resurrection, which is near, even if they think it far.",
+            "bn": "তাবারীর পাঠে আদেশটি আল্লাহর পক্ষ থেকে তাঁর নবীর প্রতি: হে মুহাম্মাদ, আপনার কওমের মুশরিকদের ইয়াওমুল আযিফাহ সম্পর্কে সতর্ক করুন। তা হলো কিয়ামতের দিন, যেদিন তারা নিজেদের নোংরা আমল নিয়ে আল্লাহর সামনে হাজির হবে আর এর ফলে তাঁর যন্ত্রণাদায়ক শাস্তির উপযুক্ত হবে। সা'দীও শুরু করেন একইভাবে: আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন। মুয়াসসার শ্রোতার পরিধি বাড়িয়ে দেয়: হে রাসূল, মানুষকে সতর্ক করুন। সঙ্গে এমন একটি কথা জোড়ে যা অন্যদের লেখায় নেই। কিয়ামতের দিন কাছেই, যদিও তারা একে দূরের ভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Drawn From Nearness",
+          "bn": "কাছে আসা থেকে নাম"
+        },
+        "p": [
+          {
+            "en": "Yawm al-azifah, Ibn Kathir says, is one of the names of the Day of Resurrection, so called because of its nearness. He sets verses beside it. 53:57 and 53:58: the approaching has approached, none besides Allah can remove it. 54:1: the Hour has drawn near and the moon has split. 21:1: their reckoning has drawn near to people. 16:1: the command of Allah has come, so do not seek to hasten it. And 67:27, where those who disbelieved see it close at hand and their faces turn grim.",
+            "bn": "ইবন কাসীর বলেন, ইয়াওমুল আযিফাহ কিয়ামতের দিনের নামগুলোর একটি। এ নাম তার নিকটবর্তিতার কারণে। তিনি পাশে পাশে আয়াত সাজিয়ে দেন। ৫৩:৫৭ ও ৫৩:৫৮: আসন্ন জিনিস আসন্ন হয়ে গেছে, আল্লাহ ছাড়া কেউ তা সরাতে পারে না। ৫৪:১: কিয়ামত কাছে এসেছে, চাঁদ বিদীর্ণ হয়েছে। ২১:১: মানুষের হিসাব কাছে এসে গেছে। ১৬:১: আল্লাহর আদেশ এসে গেছে, তাই তা তাড়াতাড়ি চেয়ো না। আর ৬৭:২৭, যেখানে কাফিররা তাকে কাছে দেখে, আর তাদের চেহারা মলিন হয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari says the people of interpretation agreed, and names four, each with his chain: Mujahid, Qatada, as-Suddi and Ibn Zayd. All four gloss yawm al-azifah with the same words, the Day of Resurrection. Ibn Zayd adds one thing: he recited 53:57 and 53:58, the same pair Ibn Kathir opens with. Al-Baghawi and al-Qurtubi give the reason for the name in nearly the same sentence. It is called so because it is near, since everything that is coming is near.",
+            "bn": "তাবারী বলেন, তাফসীরবিদেরা তাঁর দেওয়া ব্যাখ্যাই গ্রহণ করেছেন। তিনি চারজনের নাম আনেন, প্রত্যেকের আলাদা সনদসহ: মুজাহিদ, কাতাদা, সুদ্দী আর ইবন যায়দ। চারজনই ইয়াওমুল আযিফাহর অর্থ বলেন একই কথায়: কিয়ামতের দিন। ইবন যায়দ শুধু একটি জিনিস যোগ করেন। তিনি ৫৩:৫৭ ও ৫৩:৫৮ তিলাওয়াত করেন, ঠিক যে দুটি আয়াত দিয়ে ইবন কাসীর শুরু করেছেন। বাগাভী আর কুরতুবী নামের কারণটা বলেন প্রায় একই বাক্যে: দিনটিকে এ নামে ডাকা হয় কারণ তা কাছে, যা কিছু আসছে তা-ই তো কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Departure Has Drawn Near",
+          "bn": "যাত্রার সময় ঘনিয়ে এল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi stays with the word itself. Azifa fulan, he says, means that someone came near, ya'zafu azafan. His witness is a line of an-Nabighah: azifa at-tarahhulu, departure has drawn near, except that our riding camels have not yet moved off with our saddles, and yet it is as though it already had. Someone, he adds, used to quote of himself a line on the same verb: departure has drawn near, and I have no provision but sins, to my wretchedness and my misfortune.",
+            "bn": "কুরতুবী শব্দটার কাছেই থাকেন। তিনি বলেন, আযিফা ফুলান মানে অমুক কাছে এল, ইয়া'যাফু আযাফান। প্রমাণ হিসেবে আনেন নাবিগার একটি পঙক্তি: আযিফাত তারাহহুলু, যাত্রার সময় ঘনিয়ে এসেছে। তবে আমাদের সওয়ারি উটগুলো হাওদা নিয়ে এখনো নড়েনি, অথচ মনে হয় যেন রওনা হয়েই গেছে। তিনি আরও জানান, কেউ একজন নিজের বেলায় একই ক্রিয়া দিয়ে গড়া আরেকটি পঙক্তি আওড়াতেন: যাত্রার সময় ঘনিয়ে এসেছে, অথচ গুনাহ ছাড়া আমার কোনো পাথেয় নেই, এ আমার দুর্ভাগ্য, আমার দুর্দশা।"
+          },
+          {
+            "en": "Al-Qurtubi also records a different reading of the Day. Qutrub, he reports, took yawm al-azifah to be the day death arrives, hudur al-maniyyah, and read the hearts at the throats in the same way, as the moment of dying. Al-Qurtubi answers briefly, wa-l-awwalu azhar: the first reading, the Day of Resurrection, is the more apparent. The other commentators fetched for this verse read the Day of Resurrection and mention no alternative.",
+            "bn": "দিনটি নিয়ে কুরতুবী ভিন্ন একটি ব্যাখ্যাও লিখে রাখেন। তাঁর বর্ণনায় কুতরুব ইয়াওমুল আযিফাহকে ধরেছেন মৃত্যু হাজির হওয়ার দিন, হুদূরুল মানিয়্যাহ। গলার কাছে কলিজা ওঠার কথাটাও তিনি পড়েছেন একইভাবে, মৃত্যুর মুহূর্ত হিসেবে। কুরতুবীর জবাব ছোট্ট: ওয়াল আওয়ালু আযহার, প্রথম ব্যাখ্যা, অর্থাৎ কিয়ামতের দিন, বেশি স্পষ্ট। এ আয়াতের জন্য আনা বাকি সব তাফসীর কিয়ামতের দিনই বোঝে, অন্য কোনো মতের উল্লেখ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Down Nor Out",
+          "bn": "নামেও না, বেরোয়ও না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari paints the second clause in full. The hearts of the servants, out of fear of Allah's punishment, have risen from their breasts and caught at their throats, while they hold them in. They try to return the hearts to their places in their breasts, and the hearts do not go back; nor do they leave the bodies, so that their owners might die. He then gives two early glosses with their chains. Qatada: the hearts fell into the throats from fear, neither leaving nor returning to their places. As-Suddi: their af'idah rose from their places and lodged in their throats.",
+            "bn": "দ্বিতীয় অংশের পুরো ছবি তাবারী এঁকে দেন। আল্লাহর শাস্তির ভয়ে বান্দাদের কলিজা বুক থেকে উঠে এসে গলায় আটকে গেছে, আর তারা তা চেপে ধরে আছে। তারা চায় কলিজাকে বুকের ভেতর নিজের জায়গায় ফিরিয়ে দিতে, কিন্তু তা ফেরে না। আবার দেহ ছেড়ে বেরিয়েও যায় না যে তারা মরে যাবে। এরপর তিনি সনদসহ পূর্বসূরিদের দুটি ব্যাখ্যা আনেন। কাতাদা বলেন: ভয়ে কলিজা গলায় এসে পড়েছে, বেরোয়ও না, নিজের জায়গায় ফেরেও না। সুদ্দী বলেন: তাদের আফইদা নিজ নিজ স্থান থেকে উঠে এসে গলায় বিঁধে গেছে।"
+          },
+          {
+            "en": "As-Suddi's report finishes the thought: the hearts did not leave their insides, so that they might die, and did not return to their places, so that they might settle. Ibn Kathir gives Qatada's line and says 'Ikrimah, as-Suddi and others said the same. In al-Baghawi the hearts move from their places out of fear until they reach the throats, and neither return nor come out of their mouths, so that they might die and be at rest. Al-Muyassar keeps the same image and adds that they are filled with grief and sorrow.",
+            "bn": "সুদ্দীর বর্ণনা কথাটা শেষ করে: কলিজা পেটের ভেতর থেকে বেরিয়ে যায়নি যে তারা মরে যাবে, আবার জায়গায় ফিরেও যায়নি যে স্থির হবে। ইবন কাসীর কাতাদার কথাটা আনেন এবং বলেন, ইকরিমা, সুদ্দী ও আরও অনেকে একই কথা বলেছেন। বাগাভীর বর্ণনায় ভয়ে কলিজা নিজের জায়গা থেকে সরে যেতে যেতে গলায় পৌঁছে যায়। তা ফেরেও না, মুখ দিয়ে বেরিয়েও যায় না যে তারা মরে গিয়ে রেহাই পাবে। মুয়াসসার একই ছবি রাখে, আর যোগ করে যে তারা দুঃখ আর বেদনায় ভরে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Event or Image of Terror",
+          "bn": "ঘটনা, নাকি আতঙ্কের ছবি"
+        },
+        "p": [
+          {
+            "en": "Is the throat here the hearts' actual place, or a figure for fear? Al-Qurtubi gives each reading separately. Qatada's description is followed in his text by the remark that this can only happen on the Day of Resurrection, with 14:43, wa-af'idatuhum hawa', and their hearts are empty. Then, under the words wa-qila, it has been said, he gives a second reading: the phrase is a report of the utmost limit of panic, nihayat al-jaza', and he cites 33:10, and the hearts reached the throats. He does not weigh them.",
+            "bn": "গলা কি এখানে কলিজার সত্যিকারের অবস্থান, নাকি ভয়ের একটি রূপক? কুরতুবী প্রতিটি ব্যাখ্যা আলাদা করে আনেন। তাঁর লেখায় কাতাদার বর্ণনার পরেই মন্তব্য আসে, এমনটা কেবল কিয়ামতের দিনেই ঘটতে পারে। সঙ্গে আসে ১৪:৪৩, ওয়া আফইদাতুহুম হাওয়া, আর তাদের অন্তর থাকবে শূন্য। তারপর ওয়া কীলা, বলা হয়েছে, এ কথা দিয়ে তিনি দ্বিতীয় ব্যাখ্যা আনেন। কথাটি আসলে চরম আতঙ্কের খবর, নিহায়াতুল জাযা'। প্রমাণ দেন ৩৩:১০ থেকে: আর কলিজা গলায় এসে ঠেকেছিল। কোনোটিকে তিনি প্রাধান্য দেন না।"
+          },
+          {
+            "en": "The other sources fall on the literal side without naming the second view. At-Tabari, al-Baghawi and al-Muyassar describe hearts that have actually left the breast and cannot either return or exit. As-Sa'di writes in the same physical language: the hearts have risen, and their af'idah are empty, the same phrase from 14:43; the hearts have reached the throats from fright and anguish, and their eyes are staring. All agree on the terror; only al-Qurtubi sets the figurative reading beside the literal.",
+            "bn": "বাকি উৎসগুলো দ্বিতীয় মতের নাম না নিয়ে আক্ষরিক অর্থের দিকেই থাকে। তাবারী, বাগাভী আর মুয়াসসার এমন কলিজার কথা বলেন যা সত্যিই বুক ছেড়ে উঠে এসেছে, ফিরতেও পারে না, বেরোতেও পারে না। সা'দীও একই শারীরিক ভাষায় লেখেন: কলিজা উপরে উঠে গেছে, তাদের আফইদা শূন্য, ১৪:৪৩ আয়াতের সেই একই কথা। ভয় আর যন্ত্রণায় কলিজা গলায় পৌঁছে গেছে, চোখ স্থির হয়ে তাকিয়ে আছে। আতঙ্কের ব্যাপারে সবাই একমত। রূপক ব্যাখ্যাটি আক্ষরিকটির পাশে রাখেন শুধু কুরতুবী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silent, Weeping, Held In",
+          "bn": "নীরব, কাঁদছে, চেপে রাখছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir glosses it as sakitin, silent: no one speaks except by His permission. He quotes 78:38, the Day the Ruh and the angels stand in rows, not speaking, except one whom the Most Merciful permits and who says what is right. Then he reports from Ibn Jurayj a different gloss: kazimin means weeping. He does not choose between them. As-Sa'di quotes the same words of 78:38, and then adds a second sense: holding in the severe fright and the dreadful alarms within their hearts.",
+            "bn": "ইবন কাসীর কাযিমীন শব্দের অর্থ বলেন সাকিতীন, নীরব: তাঁর অনুমতি ছাড়া কেউ কথা বলবে না। তিনি ৭৮:৩৮ উদ্ধৃত করেন। সেদিন রূহ ও ফেরেশতারা সারি বেঁধে দাঁড়াবে, কেউ কথা বলবে না, কেবল সে ছাড়া যাকে পরম দয়াময় অনুমতি দেবেন আর যে সঠিক কথা বলবে। তারপর ইবন জুরাইজ থেকে ভিন্ন একটি অর্থ আনেন: কাযিমীন মানে কাঁদছে। কোনোটি তিনি বেছে নেন না। সা'দী ৭৮:৩৮ আয়াতের একই অংশ উদ্ধৃত করেন। তারপর দ্বিতীয় একটি অর্থ যোগ করেন: অন্তরের তীব্র ভয় আর ভয়ংকর অস্থিরতা তারা চেপে রাখছে।"
+          },
+          {
+            "en": "Al-Baghawi defines from the root. Kazimin are makrubin, the anguished, filled with fear and grief, and al-kazm itself is the surging back and forth of anger, fear and grief in the heart until the heart is constricted by it. Set beside the image of the hearts, the definition describes a pressure rising inside with nowhere to go. At-Tabari keeps the participle in his paraphrase, kazimiha, holding them in, and says the people of interpretation read the clause as he did.",
+            "bn": "বাগাভী অর্থ বের করেন ধাতু থেকে। কাযিমীন মানে মাকরূবীন, যন্ত্রণায় কাতর, ভয় আর দুঃখে ভরা। আর কাযম হলো অন্তরে রাগ, ভয় আর দুঃখের বারবার ঘুরপাক খাওয়া, যতক্ষণ না অন্তর তাতে সংকুচিত হয়ে আসে। কলিজার ছবির পাশে রাখলে সংজ্ঞাটি এমন এক চাপের কথা বলে যা ভেতরে উঠছে, অথচ বেরোনোর পথ নেই। তাবারী তাঁর ব্যাখ্যায় শব্দটি রেখে দেন, কাযিমীহা, সেগুলো চেপে ধরে। তিনি বলেন, তাফসীরবিদেরা অংশটি তাঁর মতোই বুঝেছেন।"
+          },
+          {
+            "en": "The word also raised a grammatical question, because kazimin is a masculine plural for people, while the subject before it is al-qulub, the hearts. At-Tabari reports that some Basran grammarians took it as a circumstantial accusative: the hearts at the throats in this state. Some Kufans said the definite article stands in for a possessive, their hearts at their throats while they hold it in. Another Kufan tied it to the people meant in the hearts and throats, or to the pronoun in andhirhum, and judged his first option the better Arabic. Al-Qurtubi gives az-Zajjaj's version of the circumstantial reading, and al-Farra's alternative: warn them, kazimin.",
+            "bn": "শব্দটি একটি ব্যাকরণের প্রশ্নও তুলেছে। কাযিমীন মানুষের জন্য ব্যবহৃত পুংলিঙ্গ বহুবচন, অথচ তার আগে আছে আল-কুলূব, অন্তরসমূহ। তাবারী জানান, বসরার কিছু ব্যাকরণবিদ একে হাল ধরেছেন: এমন অবস্থায় কলিজা গলার কাছে। কূফার কেউ কেউ বলেছেন, নির্দিষ্টবাচক আলিফ-লাম এখানে সম্বন্ধের জায়গা নিয়েছে: তাদের কলিজা তাদের গলায়, তারা যখন তা চেপে রাখছে। কূফার আরেকজন একে জুড়েছেন কলিজা ও গলার আড়ালে থাকা মানুষগুলোর সঙ্গে, নয়তো আনযিরহুম শব্দের সর্বনামের সঙ্গে। আর নিজের প্রথম প্রস্তাবকেই আরবিতে উত্তম বলেছেন। কুরতুবী হালের ব্যাখ্যায় যাজ্জাজের ভাষ্য আনেন, আর ফাররার বিকল্পটিও: তাদের সতর্ক করুন, কাযিমীন অবস্থায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Friend Moved by Concern",
+          "bn": "দরদে কাতর এক আপনজন"
+        },
+        "p": [
+          {
+            "en": "Ma li-z-zalimina min hamim: the wrongdoers have no hamim. At-Tabari explains the word through the verb behind it. A hamim is someone who yahimmu lahum, who is stirred with concern for them, and so would push back from them the great punishment of Allah that has come down on them. As-Suddi, in at-Tabari's chain, glosses it as man ya'nihi amruhum, a person whom their affair concerns. Ibn Kathir has a relative of theirs who would benefit them, and al-Qurtubi and al-Baghawi likewise a near relative who benefits. As-Sa'di and al-Muyassar have a relative, or a companion.",
+            "bn": "মা লিয যালিমীনা মিন হামীম: যালিমদের কোনো হামীম নেই। তাবারী শব্দটি বোঝান এর পেছনের ক্রিয়া দিয়ে। হামীম সেই লোক যে ইয়াহিম্মু লাহুম, তাদের জন্য যার মনে দুশ্চিন্তা জাগে, আর তাই সে তাদের উপর নেমে আসা আল্লাহর ভয়াবহ শাস্তি ঠেকাতে চাইত। তাবারীর সনদে সুদ্দী এর অর্থ বলেন মান ইয়া'নীহি আমরুহুম, যার কাছে তাদের ব্যাপারটা গুরুত্ব রাখে। ইবন কাসীরের ভাষায় তাদের এমন আত্মীয় যে উপকার করবে। কুরতুবী আর বাগাভীও বলেন উপকারে আসা নিকটজন। সা'দী ও মুয়াসসার বলেন আত্মীয়, কিংবা সাথী।"
+          },
+          {
+            "en": "The second denial carries its own qualifier: wa-la shafi'in yuta', and no intercessor who is obeyed. At-Tabari treats yuta' as a silah, a clause attached to the intercessor, and spells out the sense. They have neither a hamim nor an intercessor who, when he intercedes, is obeyed in it, so that he is answered and his intercession for them accepted. Al-Muyassar puts it plainly: no intercessor for them with their Lord who is answered. Al-Qurtubi and al-Baghawi gloss yuta' with fa-yashfa'u fihim: obeyed, and so able to intercede for them.",
+            "bn": "দ্বিতীয় অস্বীকৃতির সঙ্গে নিজস্ব একটি শর্ত জোড়া: ওয়া লা শাফী'ইন ইউতা', আর এমন কোনো সুপারিশকারীও নেই যার কথা মানা হয়। তাবারী ইউতা' শব্দকে ধরেন সিলাহ হিসেবে, সুপারিশকারীর সঙ্গে জোড়া একটি বিশেষণ বাক্য। তারপর অর্থটা খুলে বলেন। তাদের কোনো হামীম নেই, এমন সুপারিশকারীও নেই যে সুপারিশ করলে তার কথা মানা হবে, তার ডাকে সাড়া দেওয়া হবে, তার সুপারিশ কবুল হবে। মুয়াসসার একই কথা বলে সহজ ভাষায়: এমন কোনো সুপারিশকারী নেই যে রবের কাছে তাদের জন্য সুপারিশ করবে আর তা কবুল হবে। কুরতুবী আর বাগাভী ইউতা'-এর ব্যাখ্যা দেন ফা-ইয়াশফা'উ ফীহিম: যার কথা মানা হয়, ফলে তাদের পক্ষে সুপারিশ করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrongdoers, as They Define Them",
+          "bn": "তাফসীরে যালিম কারা"
+        },
+        "p": [
+          {
+            "en": "Who are az-zalimun here? The commentators answer alike. At-Tabari paraphrases them as al-kafirun bi-llah, those who disbelieve in Allah. Ibn Kathir says: those who wronged themselves by associating partners with Allah, and adds that every means to good has been cut off from them. As-Sa'di gives the reason the intercessor is not obeyed in the same terms. The intercessors do not intercede for one who wronged himself by shirk; and even if their intercession were supposed, Allah is not pleased with it, and so does not accept it.",
+            "bn": "এখানে আয-যালিমূন কারা? তাফসীরকারদের উত্তর একই রকম। তাবারী তাদের বলেন আল-কাফিরূনা বিল্লাহ, যারা আল্লাহকে অস্বীকার করে। ইবন কাসীর বলেন: যারা আল্লাহর সঙ্গে শিরক করে নিজেদের উপর যুলম করেছে। তিনি যোগ করেন, কল্যাণের প্রতিটি মাধ্যম তাদের কাছ থেকে ছিন্ন হয়ে গেছে। সুপারিশকারীর কথা কেন মানা হবে না, সা'দী সে কারণও বলেন একই ভাষায়। শিরক করে যে নিজের উপর যুলম করেছে, সুপারিশকারীরা তার জন্য সুপারিশ করেন না। আর তাদের সুপারিশ যদি ধরেও নেওয়া হয়, আল্লাহ তাতে সন্তুষ্ট নন, তাই তা কবুল করেন না।"
+          },
+          {
+            "en": "That is as far as these sources go on intercession. None of the tafsirs fetched for this verse takes up here the question of intercession for believers who sinned, and this article does not supply an answer from elsewhere. As they read it, the denial in this verse falls on wrongdoing in the sense of shirk and disbelief. As-Sa'di's sentence has ash-shufa'a', the intercessors, as its subject; what it rules out is their interceding for a person who committed shirk. No tafsir fetched for the verse attaches a hadith to it, so none is quoted.",
+            "bn": "সুপারিশ প্রসঙ্গে এই উৎসগুলো এ পর্যন্তই যায়। গুনাহগার মুমিনদের জন্য সুপারিশের প্রশ্ন এ আয়াতের জন্য আনা কোনো তাফসীর এখানে তোলেনি, আর এ প্রবন্ধও অন্য জায়গা থেকে তার উত্তর জুড়ে দেয় না। তাঁদের পাঠে এ আয়াতের অস্বীকৃতি পড়ে শিরক ও কুফর অর্থে যুলমের উপর। সা'দীর বাক্যের কর্তা আশ-শুফা'আ, অর্থাৎ সুপারিশকারীরা। তাঁর বাক্য যা নাকচ করে তা হলো শিরককারীর পক্ষে তাদের সুপারিশ। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a Day, a state of the hearts, and a denial that falls on az-zalimun as the commentators define them. It licenses nothing against any living person or community. It gives no one the right to point at a neighbour, a relative or a people and say that they will stand friendless on that Day. The warning was given to the Prophet ﷺ to deliver, and its first claim on any reader is the reader's own life.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একটি দিন, কলিজার একটি অবস্থা, আর এমন এক অস্বীকৃতি যা পড়ে তাফসীরকারদের সংজ্ঞায়িত যালিমদের উপর। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতির দিকে আঙুল তুলে বলার অধিকার এ আয়াত কাউকে দেয় না যে সেদিন তারা বন্ধুহীন দাঁড়াবে। সতর্কবাণী পৌঁছে দেওয়ার দায়িত্ব দেওয়া হয়েছিল নবী ﷺ-কে। আর যে-ই পড়ুক, এর প্রথম দাবি তার নিজের জীবনের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Heart Still Rests",
+          "bn": "কলিজা যখনো জায়গায় আছে"
+        },
+        "p": [
+          {
+            "en": "The next verse, 40:19, turns from the Day to Him who judges on it: He knows the treachery of the eyes and what the breasts conceal. Placed after this verse, it reminds the reader that nothing held in on that Day was hidden before it. The breast that will press down its anguish then is the same breast whose secrets are known now. Al-Muyassar's small clause, near even if they think it far, is where the verse leaves its reader, with the distance still unspent.",
+            "bn": "পরের আয়াত ৪০:১৯ দিন থেকে দৃষ্টি ফেরায় সেদিনের বিচারকের দিকে: তিনি চোখের খেয়ানত জানেন, আর জানেন বুক যা লুকিয়ে রাখে। তবে এ আয়াতের পরে বসে তা মনে করিয়ে দেয়, সেদিন যা চেপে রাখা হবে, তার আগেও তা গোপন ছিল না। যে বুক তখন যন্ত্রণা চেপে রাখবে, তার গোপন কথা এখনই তাঁর জানা। মুয়াসসারের ছোট্ট কথাটি, কাছেই, যদিও তারা দূরের ভাবে, সেখানেই আয়াতটি পাঠককে রেখে যায়। মাঝখানের দূরত্বটুকু এখনো ফুরিয়ে যায়নি।"
+          },
+          {
+            "en": "What the verse asks of a reader is not to rehearse the image but to answer it. A Day called near is a Day that has not yet come, and that gap is the whole of the warning's mercy. The heart is still in its place and speech is still possible; repentance, restitution and asking pardon of those one has wronged are all still open. The tafsirs place the denial of friend and intercessor on shirk. The reader's way out lies in its opposite, the sincerity in religion to Allah alone that 40:14 commanded just before.",
+            "bn": "আয়াতটি পাঠকের কাছে চায় না যে সে ছবিটা বারবার মনে আঁকুক। চায় যে সে এর জবাব দিক। যে দিনকে কাছে বলা হচ্ছে, তা এখনো আসেনি। সতর্কবাণীর সবটুকু রহমত এই ফাঁকটুকুতেই। কলিজা এখনো জায়গায় আছে, কথা বলা এখনো সম্ভব। তওবা, অন্যের হক ফিরিয়ে দেওয়া, যার উপর অন্যায় করেছি তার কাছে মাফ চাওয়া, সবই এখনো খোলা। তাফসীরগুলো আপনজন আর সুপারিশকারীর অস্বীকৃতিকে শিরকের সঙ্গে জুড়েছে। পাঠকের মুক্তির পথ তার বিপরীতে: দ্বীনকে একমাত্র আল্লাহর জন্য খাঁটি করা, ঠিক আগেই ৪০:১৪ আয়াত যার আদেশ দিয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:24": {
     "sections": [
       {
