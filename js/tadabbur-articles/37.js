@@ -11,6 +11,166 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "37:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "Reciters Called as Witnesses",
+          "bn": "পাঠকারীদের সাক্ষী করে ডাকা"
+        },
+        "p": [
+          {
+            "en": "Fa-t-taliyati dhikra: then by those who recite a reminder. It is the third of the oaths that open Surah as-Saffat, after those ranged in rows (37:1) and those who drive (37:2), and like each of them it is two words long. At-Tabari glosses it in three words of his own: fal-qari'ati kitaban, then by those who read out a book. The verb tala means to read aloud, to recite, and its object here is dhikr, a reminder. Ma'arif al-Qur'an gives the word two root senses: a word of good counsel, and the remembrance of Allah.",
+            "bn": "ফাত-তালিয়াতি যিকরা: অতঃপর শপথ তাদের, যারা জিকির পাঠ করে। সূরা আস-সাফফাতের শুরুর শপথগুলোর মধ্যে এটি তৃতীয়। এর আগে এসেছে সারিবদ্ধদের শপথ (৩৭:১) আর হাঁকিয়ে নেওয়াদের শপথ (৩৭:২)। আগের দুটির মতো এটিও মাত্র দুই শব্দের। তাবারী নিজের তিনটি শব্দে এর অর্থ বলে দেন: ফাল-কারিআতি কিতাবান, অতঃপর শপথ তাদের, যারা কোনো কিতাব পড়ে শোনায়। তালা ক্রিয়ার অর্থ উচ্চস্বরে পড়া, তিলাওয়াত করা। আর এখানে তার কর্ম যিকর। মাআরিফুল কুরআন শব্দটির মূলে দুটি অর্থ দেখায়: কল্যাণের উপদেশবাণী, আর আল্লাহর স্মরণ।"
+          },
+          {
+            "en": "The three oaths lead to one statement in 37:4: inna ilahakum la-wahid, indeed your God is One. That is what is being sworn to. The present verse is the last voice called before that sentence arrives, and the voice it calls is a reciting one. This article stays with that third oath: who the reciters are, what the commentators disagree about, why the oath runs on fa, then, and what it means that Allah swears by things He made.",
+            "bn": "তিনটি শপথ গিয়ে থামে ৩৭:৪ আয়াতের একটি ঘোষণায়: ইন্না ইলাহাকুম লা-ওয়াহিদ, নিশ্চয় তোমাদের ইলাহ একজন। শপথ করা হচ্ছে এই কথার উপরেই। সে বাক্য আসার আগে সর্বশেষ যাদের সাক্ষী হিসেবে ডাকা হয়, এ আয়াত তাদের কথা বলে। আর তারা পাঠকারী। এ লেখা সেই তৃতীয় শপথ নিয়েই। পাঠকারী কারা, তাফসীরকারেরা কোথায় ভিন্নমত করেছেন, শপথগুলো কেন 'ফা', অর্থাৎ 'অতঃপর' দিয়ে জোড়া, আর আল্লাহ যখন নিজের সৃষ্টির শপথ করেন, তার অর্থ কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels at Their Reading",
+          "bn": "পাঠে রত ফেরেশতারা"
+        },
+        "p": [
+          {
+            "en": "Most of the early authorities read the reciters as angels. Al-Qurtubi defines them as the angels reading the Book of Allah, and gives the view to Ibn Mas'ud, Ibn 'Abbas, al-Hasan, Mujahid, Ibn Jubayr and as-Suddi. Ibn Kathir says simply that they are the angels, and names Ibn 'Abbas, Masruq, Sa'id ibn Jubayr, 'Ikrima, Mujahid, as-Suddi, Qatada and ar-Rabi' ibn Anas as saying the same. At-Tabari carries the view with his own chains, from Mujahid and from as-Suddi.",
+            "bn": "প্রথম যুগের অধিকাংশ আলিম এই পাঠকারীদের ফেরেশতা বলেছেন। কুরতুবীর সংজ্ঞায় তারা সেই ফেরেশতা, যারা আল্লাহর কিতাব পাঠ করে। মতটি তিনি সম্পৃক্ত করেন ইবন মাসঊদ (রাঃ), ইবন আব্বাস (রাঃ), হাসান, মুজাহিদ, ইবন জুবাইর ও সুদ্দীর সঙ্গে। ইবন কাসীর সোজাসুজি বলেন, এরা ফেরেশতা। একই কথা যাঁরা বলেছেন, তাঁদের নামও দেন: ইবন আব্বাস (রাঃ), মাসরূক, সাঈদ ইবন জুবাইর, ইকরিমা, মুজাহিদ, সুদ্দী, কাতাদা ও রাবী ইবন আনাস। তাবারী নিজের সনদে মতটি আনেন মুজাহিদ ও সুদ্দী থেকে।"
+          },
+          {
+            "en": "The later works keep to the same line. As-Sa'di says they are the angels who recite the speech of Allah. Al-Baghawi says they are the angels reciting the remembrance of Allah, the Mighty and Majestic. The Muyassar, reading 37:1 to 37:4 together, says that Allah swears by angels ranged in their worship, by angels driving the clouds, and by angels reciting the remembrance of Allah and His speech. Ma'arif al-Qur'an, introducing the three oaths, says that the angels are the explanation that found the widest acceptance among commentators.",
+            "bn": "পরবর্তী তাফসীরগুলোও একই পথে চলে। সা'দী বলেন, এরা সেই ফেরেশতা, যারা আল্লাহর কালাম তিলাওয়াত করে। বাগাভী বলেন, এরা ফেরেশতা, যারা মহান ও পরাক্রমশালী আল্লাহর জিকির পাঠ করে। মুয়াসসার ৩৭:১ থেকে ৩৭:৪ পর্যন্ত একসঙ্গে পড়ে বলে, আল্লাহ শপথ করছেন ইবাদতে সারিবদ্ধ ফেরেশতাদের, মেঘ হাঁকিয়ে নেওয়া ফেরেশতাদের, আর আল্লাহর জিকির ও তাঁর কালাম পাঠকারী ফেরেশতাদের। মাআরিফুল কুরআন তিনটি শপথের ভূমিকায় জানায়, তাফসীরকারদের মধ্যে সবচেয়ে বেশি গ্রহণযোগ্যতা পেয়েছে ফেরেশতা-ব্যাখ্যাটিই।"
+          },
+          {
+            "en": "At-Tabari gives a reason for this reading, though he gives it on the second oath rather than the third. Under 37:2 he prefers Mujahid's view that the drivers are angels, because Allah began the oath with a kind of angel, the ones ranged in rows, by the consensus of the interpreters, so it is closer that what follows is an oath by their other kinds. On the present verse he sets out the two views side by side and does not choose between them.",
+            "bn": "এ ব্যাখ্যার পক্ষে তাবারী একটি যুক্তি দেন, তবে তৃতীয় শপথে নয়, দ্বিতীয় শপথের আলোচনায়। ৩৭:২ আয়াতে তিনি মুজাহিদের মত বেছে নেন যে হাঁকিয়ে নেওয়ারা ফেরেশতা। কারণ আল্লাহ শপথ শুরু করেছেন এক শ্রেণির ফেরেশতা দিয়ে, অর্থাৎ সারিবদ্ধদের দিয়ে। আর তারা যে ফেরেশতা, এতে ব্যাখ্যাকারদের ঐকমত্য আছে। তাই পরের শপথগুলো তাদেরই অন্য শ্রেণির শপথ হওয়াই বেশি সংগত। আর এ আয়াতে তিনি দুটি মত পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bringing the Book Down",
+          "bn": "কিতাব নিয়ে অবতরণ"
+        },
+        "p": [
+          {
+            "en": "Within the angelic reading there is a narrower one. Ibn Kathir quotes as-Suddi: the angels come with the Book and the Qur'an from Allah to people. On this view the reciting is a delivery. The angels read out what they were given to those it was sent for. Ibn Kathir sets the verse beside 77:5 and 77:6, fal-mulqiyati dhikran 'udhran aw nudhra, by those who cast down a reminder, as an excuse or a warning. There too the oath turns on a reminder that is brought down.",
+            "bn": "ফেরেশতা-ব্যাখ্যার ভেতরেও একটি সরু ব্যাখ্যা আছে। ইবন কাসীর সুদ্দীর কথা উদ্ধৃত করেন: ফেরেশতারা আল্লাহর কাছ থেকে মানুষের কাছে কিতাব ও কুরআন নিয়ে আসে। এ মতে পাঠ মানে পৌঁছে দেওয়া। ফেরেশতাদের যা দেওয়া হয়েছে, যাদের জন্য পাঠানো হয়েছে, তাদের কাছে তা পড়ে শোনানো। ইবন কাসীর আয়াতটিকে রাখেন ৭৭:৫ ও ৭৭:৬ আয়াতের পাশে: ফাল-মুলকিয়াতি যিকরান উযরান আও নুযরা, শপথ তাদের, যারা জিকির নামিয়ে আনে, ওজরের পথ বন্ধ করতে কিংবা সতর্ক করতে। সেখানেও শপথ ঘোরে নামিয়ে আনা এক জিকিরকে ঘিরে।"
+          },
+          {
+            "en": "Al-Qurtubi records a narrower view still, under the words it is said: that the reciter meant is Jibril alone, named in the plural because he is the chief of the angels and is never without troops and followers. Ma'arif al-Qur'an keeps the delivery reading among its options. It may mean, it says, the angels who bring revelation to the prophets, since they recite these scriptures of good counsel before the prophets, peace be upon them, and so convey the message of Allah to them.",
+            "bn": "কুরতুবী 'বলা হয়' বলে আরও সরু একটি মত উল্লেখ করেন। তা হলো, এখানে পাঠকারী বলতে শুধু জিবরীল (আঃ)। বহুবচনে তাঁর উল্লেখ, কারণ তিনি ফেরেশতাদের প্রধান, আর তাঁর সঙ্গে সব সময় বাহিনী ও অনুসারী থাকে। মাআরিফুল কুরআনও পৌঁছে দেওয়ার ব্যাখ্যাটিকে সম্ভাবনার তালিকায় রাখে। তাদের কথায়, এর অর্থ হতে পারে সেই ফেরেশতারা, যারা নবীদের কাছে ওহি নিয়ে আসে। কারণ তারা উপদেশে ভরা এই কিতাবগুলো নবীদের (আঃ) সামনে পাঠ করে, আর এভাবেই আল্লাহর বার্তা তাঁদের কাছে পৌঁছায়।"
+          },
+          {
+            "en": "Ma'arif then lays out the other senses the angelic reading allows. If dhikr is good counsel, the angels recite all that Allah revealed through His scriptures, and they may do so to earn blessing and as an act of worship, not only to deliver it. If dhikr is the remembrance of Allah, they are kept busy reciting the words that affirm His glory and His holiness. Either way the reciters are servants at work, and the oath points at that work.",
+            "bn": "এরপর মাআরিফুল কুরআন ফেরেশতা-ব্যাখ্যার অন্য অর্থগুলো দেখায়। যিকর যদি হয় কল্যাণের উপদেশ, তবে ফেরেশতারা আল্লাহ তাঁর কিতাবসমূহে যা নাজিল করেছেন তার সবই পাঠ করে। আর তা শুধু পৌঁছে দেওয়ার জন্য নয়, বরকত লাভের উপায় হিসেবে এবং ইবাদত হিসেবেও হতে পারে। যিকর যদি হয় আল্লাহর স্মরণ, তবে তারা সারাক্ষণ সেই বাক্যগুলো পাঠে মগ্ন, যা তাঁর মহিমা ও পবিত্রতার সাক্ষ্য দেয়। যেভাবেই ধরা হোক, পাঠকারীরা কাজে ব্যস্ত বান্দা, আর শপথ সেই কাজের দিকেই ইশারা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prophets, Verses and Believers",
+          "bn": "নবী, আয়াত আর মুমিনেরা"
+        },
+        "p": [
+          {
+            "en": "Not everyone read the reciters as angels, and the commentators name the other side. At-Tabari reports it as a second view held by others: that the dhikr meant is what is recited in the Qur'an of the reports of earlier nations. His chain runs to Qatada, who said: what is recited to you in the Qur'an of the reports of people and of nations before you. On this reading the reciting things are the passages themselves, the stories the Qur'an tells.",
+            "bn": "সবাই পাঠকারীদের ফেরেশতা বলেননি, আর তাফসীরকারেরা অন্য পক্ষের নামও উল্লেখ করেন। তাবারী একে আনেন অন্যদের দ্বিতীয় মত হিসেবে: এখানে যিকর বলতে কুরআনে পূর্ববর্তী জাতিগুলোর যে বৃত্তান্ত পাঠ করা হয়, তা-ই উদ্দেশ্য। তাঁর সনদ গিয়ে পৌঁছায় কাতাদা পর্যন্ত। কাতাদা বলেন, কুরআনে তোমাদের সামনে তোমাদের আগের মানুষ ও জাতিগুলোর যেসব খবর পাঠ করা হয়, সেগুলোই। এ ব্যাখ্যায় পাঠকারী হলো খোদ সেই অংশগুলো, অর্থাৎ কুরআন যেসব কাহিনি শোনায়।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more. One view, which he relays from al-Qushayri, is that the reciters are the verses of the Qur'an, described as reciting just as Allah says in 27:76 that this Qur'an relates to the Children of Israel. Verses may be called taliyat, al-Qushayri adds, because their letters follow one another. Al-Qurtubi also relays from al-Mawardi that the reciters are the prophets, who recite the reminder to their nations.",
+            "bn": "কুরতুবী আরও কয়েকটি মত একত্র করেন। কুশাইরী থেকে তিনি একটি মত আনেন: পাঠকারী হলো কুরআনের আয়াত। আয়াতকে পাঠকারী বলা হয়েছে সেভাবেই, যেভাবে আল্লাহ ২৭:৭৬ আয়াতে বলেন, এ কুরআন বনী ইসরাঈলের কাছে বর্ণনা করে। কুশাইরী আরও বলেন, আয়াতগুলোকে তালিয়াত বলা চলে, কারণ এর হরফগুলো একটির পর আরেকটি আসে। কুরতুবী মাওয়ার্দী থেকেও একটি মত আনেন: পাঠকারী হলেন নবীগণ (আঃ), যাঁরা নিজ নিজ উম্মতের কাছে জিকির পাঠ করে শোনান।"
+          },
+          {
+            "en": "A third group of readings turns to believers. Al-Qurtubi relays from Qatada that the verse means everyone who recites the remembrance of Allah and His books. Al-Baghawi records, under the words it is said, that they are a company of Qur'an reciters. Ma'arif al-Qur'an, introducing the three oaths, mentions commentators who took all three to describe worshippers or fighters in the way of Allah, standing in rows and keeping to remembrance and recitation. Beyond these, it adds, a few further explanations fit the words of the Qur'an poorly.",
+            "bn": "তৃতীয় এক গুচ্ছ ব্যাখ্যা মুমিনদের দিকে ফেরে। কুরতুবী কাতাদা থেকে আনেন, আয়াতের উদ্দেশ্য এমন প্রত্যেকে, যে আল্লাহর জিকির ও তাঁর কিতাবসমূহ পাঠ করে। বাগাভী 'বলা হয়' বলে উল্লেখ করেন, এরা কুরআনের কারীদের একটি দল। মাআরিফুল কুরআন তিনটি শপথের ভূমিকায় এমন তাফসীরকারদের কথা বলে, যাঁরা তিনটিকেই নামাজি অথবা আল্লাহর পথের যোদ্ধাদের বর্ণনা ধরেছেন। তাঁরা সারি বেঁধে দাঁড়ান আর জিকির ও তিলাওয়াতে লেগে থাকেন। মাআরিফ এটাও বলে, এগুলোর বাইরে আরও কিছু ব্যাখ্যা আছে, যা কুরআনের শব্দের সঙ্গে খুব একটা মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qatada, Reported Three Ways",
+          "bn": "কাতাদা: তিন বর্ণনায় তিন রূপ"
+        },
+        "p": [
+          {
+            "en": "One name turns up on more than one side, and the reader should see it. Ibn Kathir lists Qatada among those who said the oaths are by angels. At-Tabari, with a chain to Qatada, has him say the reciters are what the Qur'an recites of earlier nations. Al-Qurtubi has him say they are everyone who recites the remembrance of Allah and His books. These are three reports of one early authority, carried by three commentators, and they do not say the same thing.",
+            "bn": "একটি নাম একাধিক পক্ষে দেখা যায়, আর পাঠকের সেটা জানা দরকার। ইবন কাসীর কাতাদাকে তাঁদের তালিকায় রাখেন, যাঁরা বলেছেন শপথগুলো ফেরেশতাদের। তাবারী কাতাদা পর্যন্ত সনদ দিয়ে তাঁর কথা আনেন: পাঠকারী হলো কুরআনে পূর্ববর্তী জাতিগুলোর যে বৃত্তান্ত পাঠ করা হয়, তা। কুরতুবীর বর্ণনায় কাতাদা বলেন, এরা আল্লাহর জিকির ও তাঁর কিতাবসমূহ পাঠকারী প্রত্যেকে। প্রথম যুগের একজন আলিমের তিনটি বর্ণনা, তিনজন তাফসীরকারের হাত দিয়ে এসেছে। আর তিনটি একই কথা বলে না।"
+          },
+          {
+            "en": "At-Tabari's own pages help a little. There Qatada reads the first oath as angels in rows in the heaven, and calls the three an oath by a creation, then another, then another. On the second oath he reads the drivers as the restraints of the Qur'an, what Allah forbids in it. So in at-Tabari's reports Qatada begins with angels and moves to the Qur'an. Yet Ibn Kathir's Arabic sets his list directly after the words of this verse. The sources here do not settle the difference, so it is left open.",
+            "bn": "তাবারীর নিজের পাতাগুলো খানিকটা সাহায্য করে। সেখানে কাতাদা প্রথম শপথকে বলেন আসমানে সারিবদ্ধ ফেরেশতা। আর তিনটি শপথকে বলেন এক সৃষ্টির শপথ, তারপর আরেক সৃষ্টির, তারপর আরেকটির। দ্বিতীয় শপথে তিনি হাঁকিয়ে নেওয়াদের ব্যাখ্যা করেন কুরআনের নিষেধবাণী দিয়ে, অর্থাৎ কুরআনে আল্লাহ যা থেকে বারণ করেছেন। তাহলে তাবারীর বর্ণনায় কাতাদা শুরু করেন ফেরেশতা দিয়ে, তারপর চলে যান কুরআনে। অথচ ইবন কাসীরের আরবি পাঠে তালিকাটি বসেছে ঠিক এ আয়াতের শব্দের পরেই। হাতের উৎসগুলো এই ফারাকের মীমাংসা করে না, তাই প্রশ্নটা খোলাই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Small Word Fa",
+          "bn": "ছোট্ট শব্দ 'ফা'"
+        },
+        "p": [
+          {
+            "en": "The first oath opens with wa, and the second and third with fa, then. Al-Qurtubi asks what fa does when it joins descriptions, and answers from az-Zamakhshari with three rules. It may show that the meanings follow one another in existence, as when a poet says the one who raided at dawn, then took spoil, then came home. It may show a rise in degree, as in take the better, then the more complete.",
+            "bn": "প্রথম শপথ শুরু হয় 'ওয়া' দিয়ে, দ্বিতীয় ও তৃতীয়টি 'ফা' দিয়ে, যার অর্থ অতঃপর। কুরতুবী প্রশ্ন তোলেন, গুণবাচক শব্দগুলোকে জুড়তে গিয়ে 'ফা' কী কাজ করে। জবাব তিনি আনেন যামাখশারী থেকে, তিনটি নিয়মে। এক, এটি দেখাতে পারে যে অর্থগুলো বাস্তবে একটির পর একটি ঘটে। যেমন এক কবি বলেন, যে ভোরে হামলা করল, তারপর গনিমত নিল, তারপর ঘরে ফিরল। দুই, এটি মর্যাদার ধাপ দেখাতে পারে। যেমন বলা হয়, ভালোটা নাও, তারপর আরও পূর্ণটা।"
+          },
+          {
+            "en": "Or it may order the ones described, as in the phrase: may Allah have mercy on those who shave their heads, then on those who shorten their hair. On these three rules, al-Qurtubi says, the joining fa in descriptions runs. He does not choose one for this verse. He also records the reading of Hamza, who merged the t of each opening word into the letter that follows it. Ahmad ibn Hanbal recoiled from it on hearing it, and an-Nahhas judged it remote in Arabic on three grounds.",
+            "bn": "তিন, এটি বর্ণিত ব্যক্তিদের ক্রম দেখাতে পারে। যেমন এই বাক্য: আল্লাহ মাথা মুণ্ডনকারীদের উপর রহম করুন, তারপর চুল ছোটকারীদের উপর। কুরতুবী বলেন, গুণবাচক শব্দে জোড়া লাগানো 'ফা' এই তিন নিয়মেই চলে। এ আয়াতের জন্য তিনি কোনো একটিকে বেছে নেন না। তিনি হামযার কিরাআতও উল্লেখ করেন। শুরুর প্রতিটি শব্দের 'তা' হরফকে তিনি পরের হরফের সঙ্গে মিলিয়ে পড়তেন। আহমাদ ইবন হাম্বল তা শুনে বিমুখ হয়েছিলেন। আর নাহহাস তিনটি কারণে একে আরবি ভাষায় দূরবর্তী বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sworn by What He Made",
+          "bn": "নিজের সৃষ্টির নামে শপথ"
+        },
+        "p": [
+          {
+            "en": "Why would Allah swear by things He created? The commentators give more than one answer. The Muyassar, closing its reading of 37:1 to 37:4, states a rule: Allah swears by whatever of His creation He wills, but a created being may swear only by Allah, and swearing by other than Allah is shirk. Al-Qurtubi reads the grammar another way: the wa of the oath stands in for bi, and the meaning is by the Lord of those ranged in rows. On his reading the oath reaches the Lord through the creature.",
+            "bn": "আল্লাহ কেন নিজের সৃষ্টির শপথ করবেন? তাফসীরকারেরা এর একাধিক জবাব দেন। মুয়াসসার ৩৭:১ থেকে ৩৭:৪ আয়াতের ব্যাখ্যা শেষ করে একটি নিয়ম বলে দেয়: আল্লাহ তাঁর সৃষ্টির যার ইচ্ছা শপথ করেন। কিন্তু সৃষ্টির জন্য আল্লাহ ছাড়া আর কারও নামে শপথ করা জায়েজ নয়, আর আল্লাহ ছাড়া অন্যের নামে কসম খাওয়া শিরক। কুরতুবী ব্যাকরণের দিক থেকে ভিন্নভাবে পড়েন। শপথের 'ওয়া' এখানে 'বি'-এর স্থলে বসেছে, আর অর্থ হলো সারিবদ্ধদের রবের শপথ। তাঁর পাঠে শপথ সৃষ্টির ভেতর দিয়ে গিয়ে রবের কাছে পৌঁছায়।"
+          },
+          {
+            "en": "As-Sa'di looks at what the creatures are doing. He calls the opening an oath by the noble angels in the state of their worship and of their carrying out what they carry out by their Lord's leave, sworn upon His divinity and His lordship. The witnesses are chosen for their service. Al-Qurtubi names the sentence that follows, inna ilahakum la-wahid, as the jawab al-qasam, the answer the oath was sworn for. The reciters are called up so that their reciting can stand behind that answer.",
+            "bn": "সা'দী নজর দেন সৃষ্টিগুলো কী করছে তার দিকে। তাঁর কথায়, এ শপথ সম্মানিত ফেরেশতাদের নামে, তাদের ইবাদতের অবস্থায় এবং রবের অনুমতিক্রমে তারা যা পরিচালনা করে তা পরিচালনার অবস্থায়। আর শপথ করা হয়েছে আল্লাহর উলূহিয়্যাত ও রুবূবিয়্যাতের উপর। সাক্ষীদের বাছাই করা হয়েছে তাদের খিদমতের জন্যই। কুরতুবী পরের বাক্য ইন্না ইলাহাকুম লা-ওয়াহিদকে বলেন জাওয়াবুল কাসাম, অর্থাৎ যে জবাবের জন্য শপথ। পাঠকারীদের ডাকা হয়েছে, যাতে তাদের পাঠ সেই জবাবের পেছনে সাক্ষী হয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a reason from the surah's setting. The idolaters of Makkah called the angels daughters of God, and the surah, it says, keeps the refutation of that belief in marked sight. So it opens with an oath by the angels joined to a statement of their servitude. The very beings the idolaters called God's daughters are shown standing in rows, holding back and reciting, and they are brought forward to witness that your God is One.",
+            "bn": "মাআরিফুল কুরআন সূরার প্রেক্ষাপট থেকে একটি কারণ যোগ করে। মক্কার মুশরিকরা ফেরেশতাদের বলত আল্লাহর কন্যা। মাআরিফের মতে, সূরাটি সেই বিশ্বাস খণ্ডনের দিকে বিশেষ নজর রেখেছে। তাই শুরু হয়েছে ফেরেশতাদের শপথ দিয়ে, সঙ্গে তাদের দাসত্বের গুণের বর্ণনা। মুশরিকরা যাদের আল্লাহর কন্যা বলত, তাদেরকেই দেখানো হচ্ছে সারি বেঁধে দাঁড়ানো, বাধা দেওয়া আর পাঠরত অবস্থায়। আর তাদেরই সামনে আনা হচ্ছে সাক্ষী হিসেবে: তোমাদের ইলাহ একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rows Like the Angels' Rows",
+          "bn": "ফেরেশতাদের মতো কাতার"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched for this verse attaches a hadith to the reciting itself. Ibn Kathir, discussing the opening oaths together, attaches narrations to the rows of 37:1. Sahih Muslim (430) records from Jabir ibn Samura, within a longer report, that the Prophet ﷺ said: \"Why don't you draw yourselves up in rows as angels do in the presence of their Lord?\" They asked how the angels do it, and he said: \"They make the first rows complete and keep close together in the row.\"",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর খোদ পাঠের সঙ্গে কোনো হাদীস জোড়েনি। ইবন কাসীর শুরুর শপথগুলো একসঙ্গে আলোচনা করতে গিয়ে ৩৭:১ আয়াতের সারির সঙ্গে কিছু বর্ণনা যুক্ত করেন। সহীহ মুসলিম (৪৩০) একটি দীর্ঘ বর্ণনার ভেতরে জাবির ইবন সামুরা (রাঃ) থেকে আনে, নবী ﷺ বলেছেন: \"ফেরেশতারা যেভাবে তাদের রবের সামনে কাতারবন্দী হয়, তোমরা কেন সেভাবে কাতারবন্দী হও না?\" তাঁরা জিজ্ঞেস করলেন, ফেরেশতারা কীভাবে কাতার বাঁধে? তিনি বললেন: \"তারা প্রথম কাতারগুলো পূর্ণ করে, আর কাতারে গায়ে গায়ে মিলে দাঁড়ায়।\""
+          },
+          {
+            "en": "Ibn Kathir also cites from Muslim the report of Hudhayfa (Sahih Muslim 522) that the Prophet ﷺ said we have been made to excel other people in three things, the first being that our rows were made like the rows of the angels. Both narrations belong to the rows of the first oath, not to the reciters of this verse, and are given here only as the setting Ibn Kathir supplies. Ma'arif al-Qur'an relays the Jabir report too, citing Tafsir Mazhari. For the third oath itself, the sources fetched carry no sound hadith.",
+            "bn": "ইবন কাসীর মুসলিম থেকে হুযাইফা (রাঃ)-এর বর্ণনাও আনেন (সহীহ মুসলিম ৫২২): নবী ﷺ বলেছেন, তিনটি বিষয়ে আমাদের অন্য মানুষের উপর শ্রেষ্ঠত্ব দেওয়া হয়েছে। তার প্রথমটি হলো, আমাদের কাতারকে ফেরেশতাদের কাতারের মতো করা হয়েছে। দুটি বর্ণনাই প্রথম শপথের সারি নিয়ে, এ আয়াতের পাঠকারীদের নিয়ে নয়। এখানে আনা হলো শুধু ইবন কাসীরের দেওয়া প্রেক্ষাপট হিসেবে। মাআরিফুল কুরআনও তাফসীরে মাযহারীর বরাতে জাবির (রাঃ)-এর বর্ণনাটি আনে। তৃতীয় শপথের জন্য সংগৃহীত উৎসগুলোতে কোনো সহীহ হাদীস নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reciting, for Oneself and Others",
+          "bn": "নিজের জন্য পাঠ, অন্যের জন্যও"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws the three oaths together into a picture of servanthood: standing in ordered rows for worship, holding rebellious forces back from disobeying Allah, and reciting His counsel and commands, in person and to others. No act of service, it says, is without these three. The third oath is the one a reader can take up at once. To recite the reminder for one's own heart, and then to carry it to someone else, is to stand where the oath's witnesses stand.",
+            "bn": "মাআরিফুল কুরআন তিনটি শপথকে এক করে বন্দেগির একটি ছবি আঁকে। ইবাদতের জন্য সুশৃঙ্খল কাতারে দাঁড়ানো, বিদ্রোহী শক্তিকে আল্লাহর নাফরমানি থেকে ঠেকানো, আর তাঁর উপদেশ ও হুকুম নিজে পাঠ করা এবং অন্যের কাছে পৌঁছে দেওয়া। মাআরিফের কথায়, বন্দেগির কোনো কাজই এই তিনটি থেকে খালি নয়। এর মধ্যে তৃতীয় শপথটা একজন পাঠক এখনই হাতে নিতে পারেন। নিজের অন্তরের জন্য জিকির পাঠ করা, তারপর তা আরেকজনের কাছে বয়ে নেওয়া মানেই শপথের সাক্ষীরা যেখানে দাঁড়িয়ে, সেখানে গিয়ে দাঁড়ানো।"
+          }
+        ]
+      }
+    ]
+  },
   "37:5": {
     "sections": [
       {

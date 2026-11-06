@@ -25649,6 +25649,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Paradise is pictured as rest shared with one's spouse. Help the one beside you toward Allah, so that your companionship here may continue there, in the shade of the Garden.",
     "lessonBn": "জান্নাতের ছবি আঁকা হয়েছে জীবনসঙ্গীর সঙ্গে ভাগ করে নেওয়া বিশ্রাম হিসেবে। পাশের মানুষটিকে আল্লাহর দিকে এগিয়ে দিন, যেন এখানকার সাহচর্য সেখানেও, জান্নাতের ছায়ায়, অটুট থাকে।"
+  },
+  "37:3": {
+    "reflectionEn": "The surah opens by swearing three times, and the third oath is by those who recite a reminder. Most of the early explainers took them to be angels: servants of His, spending themselves in reading out the words of their Lord, and carrying His Book down to the prophets. Others heard in it the prophets reciting to their peoples, or the believers who keep reciting. Either way, the oath leads to one sentence, that your God is One. So the reciting is not decoration. It is the witness. His own servants are called to testify, and their testimony is that they recite. What, then, do I recite in a day, and does any of it testify to Him?",
+    "reflectionBn": "সূরাটি শুরু হয় পরপর তিনটি শপথ দিয়ে। তৃতীয় শপথ তাদের, যারা জিকির পাঠ করে। প্রথম যুগের ব্যাখ্যাকারদের বেশিরভাগ বলেছেন, এরা ফেরেশতা। তাঁরা তাঁরই বান্দা। নিজেদের ঢেলে দেন রবের কালাম পাঠে, আর তাঁর কিতাব নবীদের কাছে বয়ে আনেন। কেউ কেউ এখানে দেখেছেন নবীদের, যাঁরা নিজ নিজ কওমকে পাঠ করে শোনাতেন, কিংবা সেই মুমিনদের, যাঁরা পাঠ চালিয়ে যান। যে অর্থই হোক, শপথ গিয়ে থামে একটি বাক্যে: তোমাদের ইলাহ একজন। তাই এই পাঠ নিছক সাজসজ্জা নয়, এটাই সাক্ষ্য। তাঁর নিজের বান্দাদের সাক্ষী হিসেবে ডাকা হয়েছে, আর তাদের সাক্ষ্য হলো তারা পাঠ করে। তাহলে সারাদিনে আমি কী পাঠ করি, আর তার কোনোটা কি তাঁর পক্ষে সাক্ষ্য দেয়?",
+    "pointsEn": [
+      "If even the angels spend themselves reciting His words, what is my reason for leaving the Qur'an closed for days?",
+      "When I recite, am I only reading the words, or also passing their counsel on to someone who needs it?",
+      "Which words do I repeat most often in a day, and would they stand as testimony that my God is One?",
+      "The oath calls on servants to witness to their Lord. Does anything in how I spend my day bear witness to whom I serve?",
+      "Who in my life recited the reminder to me first, and have I thanked Allah for them or passed it on as they did?"
+    ],
+    "pointsBn": [
+      "ফেরেশতারাও যদি তাঁর কালাম পাঠে নিজেদের ঢেলে দেন, তবে দিনের পর দিন কুরআন বন্ধ রাখার পেছনে আমার অজুহাতটা কী?",
+      "পাঠ করার সময় আমি কি শুধু শব্দগুলো পড়ে যাই, নাকি তার উপদেশটুকু এমন কারও কাছে পৌঁছে দিই যার তা দরকার?",
+      "দিনে কোন কথাগুলো আমি সবচেয়ে বেশি আওড়াই? সেগুলো কি সাক্ষ্য দেবে যে আমার ইলাহ একজন?",
+      "শপথে বান্দাদের ডাকা হয়েছে তাদের রবের পক্ষে সাক্ষী হতে। আমার দিন কাটানোর ধরনে কি কিছু আছে, যা সাক্ষ্য দেয় আমি কার বান্দা?",
+      "আমার জীবনে প্রথম কে আমাকে জিকির পাঠ করে শুনিয়েছিলেন? তাঁর জন্য কি আমি আল্লাহর শোকর করেছি, কিংবা তাঁর মতো করে অন্যের কাছে পৌঁছে দিয়েছি?"
+    ],
+    "lessonEn": "Those Allah calls as witnesses to His Oneness are servants who recite His reminder, so let His words be what you recite and pass on.",
+    "lessonBn": "আল্লাহ তাঁর একত্বের সাক্ষী হিসেবে যাদের ডাকেন, তারা তাঁর জিকির পাঠকারী বান্দা। তাই আপনার মুখে যা পাঠ হয় আর যা আপনি অন্যকে পৌঁছে দেন, তা হোক তাঁরই কালাম।"
   }
 };
 
