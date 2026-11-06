@@ -26929,6 +26929,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take the reminder while it is plain before you and still yours to heed, rather than waiting for hardship to wring out promises you may not keep.",
     "lessonBn": "উপদেশ যখন সামনে স্পষ্ট আর তা গ্রহণের সুযোগ হাতে আছে, তখনই তা গ্রহণ করুন। বিপদ এসে এমন ওয়াদা আদায় করে নেবে, যা হয়তো রাখতে পারবেন না, সে অপেক্ষায় থাকবেন না।"
+  },
+  "44:45": {
+    "reflectionEn": "The tree has been named, and its eater. Now the verse says what that food does once it is swallowed: like al-muhl, it boils in the bellies. To explain the word, the Companions reached for things people could see: the black dregs left at the bottom of the oil, silver melted until it ran and foamed. One of them, showing the molten metal as the nearest likeness, added that the real thing is hotter. The punishment here is not around the body but inside it, in the very place where food is meant to bring comfort. The warning reaches me while fire is still only something I cook with. What would I change if I believed it as surely as I believe that fire burns?",
+    "reflectionBn": "গাছের নাম বলা হয়ে গেছে, কে তা খাবে তাও। এবার আয়াতটি জানায়, গিলে ফেলার পর সেই খাবার কী করে: মুহলের মতো, পেটের ভেতর ফুটতে থাকে। শব্দটা বোঝাতে সাহাবীরা হাত বাড়িয়েছিলেন চোখে দেখা জিনিসের দিকে। তেলের তলায় জমে থাকা কালো গাদ, কিংবা আগুনে গলে টগবগ করে ফেনা ওঠা রুপা। তাঁদের একজন গলানো ধাতু দেখিয়ে বলেছিলেন, দুনিয়ায় এটাই সবচেয়ে কাছের নমুনা, তবে আসলটা এর চেয়েও গরম। শাস্তিটা এখানে শরীরের বাইরে নয়, ভেতরে। ঠিক সেই জায়গায়, যেখানে খাবার মানুষকে স্বস্তি দেওয়ার কথা। সতর্কবাণীটা আমার কাছে পৌঁছাচ্ছে এমন সময়ে, যখন আগুন আমার কাছে কেবল রান্নার জিনিস। আগুন যে পোড়ায়, এ কথা যতটা নিশ্চিত জানি, এ আয়াতকে ততটা নিশ্চিত বিশ্বাস করলে আমি কী বদলাতাম?",
+    "pointsEn": [
+      "When I hear a warning about the Fire, do I let it reach me, or do I hold it at a distance as a picture meant for other people?",
+      "The nearest likeness in this world still falls short of the real thing. Does that make me take the warning more seriously, or less?",
+      "What am I taking in each day, through my food, my earnings or my eyes, that I would not want to meet again?",
+      "When I speak to others about the Hereafter, do I do it with the Companions' care, showing what can be known and stopping where the texts stop?",
+      "Which one habit would I change today if this verse were as real to me as the heat of my own stove?"
+    ],
+    "pointsBn": [
+      "জাহান্নামের সতর্কবাণী শুনলে আমি কি তা নিজের ভেতরে ঢুকতে দিই? নাকি অন্যদের জন্য আঁকা এক ছবি ভেবে দূরে সরিয়ে রাখি?",
+      "দুনিয়ার সবচেয়ে কাছের নমুনাও আসলের সমান নয়। এ কথা জেনে আমি সতর্কবাণীটাকে বেশি গুরুত্ব দিই, নাকি কম?",
+      "খাবার, উপার্জন আর চোখের পথে প্রতিদিন আমি কী গ্রহণ করছি, যার মুখোমুখি আর কখনো হতে চাইব না?",
+      "অন্যদের সঙ্গে আখিরাত নিয়ে কথা বলার সময় আমি কি সাহাবীদের মতো সাবধান থাকি? যতটুকু জানা যায় ততটুকু দেখাই, আর যেখানে বর্ণনা থেমেছে সেখানে থামি?",
+      "আমার নিজের চুলার তাপ যতটা সত্য, এ আয়াত যদি ততটাই সত্য মনে হত, তবে আজ কোন একটা অভ্যাস আমি বদলে ফেলতাম?"
+    ],
+    "lessonEn": "The Qur'an describes the food of the Fire boiling inside the body; let that warning reach your heart now, while what you take in and what you turn from is still your choice.",
+    "lessonBn": "কুরআন জানায়, জাহান্নামের খাবার শরীরের ভেতরে ফুটতে থাকবে। এই সতর্কবাণী এখনই অন্তরে পৌঁছাতে দিন, যখন কী গ্রহণ করবেন আর কী থেকে ফিরবেন, তা এখনো আপনার হাতে।"
   }
 };
 

@@ -1315,6 +1315,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Tree to the Body",
+          "bn": "গাছ থেকে শরীরের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "Ka-l-muhli yaghli fi al-butun: like al-muhl, it boils in the bellies. Four Arabic words follow the naming of the tree of zaqqum in 44:43 and of its eater in 44:44, and they give the first thing said about what that food does. The tree itself has its own articles under 44:43 and 37:65, not retold here. This verse turns from the tree to the body. The food is now inside, and it is boiling.",
+            "bn": "কাল মুহলি ইয়াগলী ফিল বুতূন: মুহলের মতো, পেটের ভেতর ফুটতে থাকবে। ৪৪:৪৩ আয়াতে যাক্কুম গাছের নাম এসেছে, ৪৪:৪৪ আয়াতে এসেছে কে তা খাবে। তার পরেই এই চারটি আরবি শব্দ, যেখানে প্রথমবার বলা হচ্ছে সেই খাবার কী করে। গাছটি নিয়ে ৪৪:৪৩ ও ৩৭:৬৫ আয়াতের আলাদা প্রবন্ধ আছে, এখানে সেসব আবার বলা হবে না। এ আয়াতের নজর গাছ থেকে সরে শরীরের দিকে। খাবারটা এখন ভেতরে, আর তা ফুটছে।"
+          },
+          {
+            "en": "The sentence does not end here. The next verse, ka-ghalyi al-hamim, like the boiling of scalding water, completes the likeness, and the Muyassar reads the two together: the fruit of the tree of zaqqum, like molten metal, boils in the bellies of the polytheists like the boiling of water that has reached the limit of heat. Ibn Kathir, quoting both verses, gives the reason for the boiling: its heat and its rancidity. A substance like al-muhl is joined to a boiling like that of hamim.",
+            "bn": "বাক্যটা এখানেই শেষ হয় না। পরের আয়াত কা গালয়িল হামীম, ফুটন্ত পানির ফোটার মতো, তুলনাটা সম্পূর্ণ করে। মুয়াসসার দুটো আয়াত মিলিয়ে একসঙ্গে পড়ে: যাক্কুম গাছের ফল গলানো ধাতুর মতো মুশরিকদের পেটে ফুটতে থাকবে, ঠিক যেমন ফোটে চরম তাপে পৌঁছানো পানি। ইবন কাসীরও দুই আয়াত একসঙ্গে উদ্ধৃত করে ফোটার কারণ বলেন: এর তাপ আর এর পচা দুর্গন্ধ। মুহলের মতো বস্তুর সঙ্গে এভাবে জুড়ে যায় হামীমের মতো ফুটে ওঠা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, condensing Bayan al-Qur'an, notes the order: the command to seize the sinner and drag him into the midst of the Blaze comes in 44:47, after the feeding. Some commentators take this to mean the zaqqum is served before entry, as nuzul, the first dish set before an arriving guest (56:56). The wording, it adds, also allows the feeding after entry, with the dragging taking him deeper into the fire. It ends with Allah knows best, and this article leaves it there.",
+            "bn": "মাআরিফুল কুরআন বয়ানুল কুরআন থেকে সংক্ষেপ করে অংশটির ক্রমের দিকে নজর দেয়। পাপীকে ধরে জাহান্নামের মাঝখানে টেনে নেওয়ার হুকুম আসে ৪৪:৪৭ আয়াতে, খাওয়ানোর পরে। কিছু তাফসীরকারের মত সেখানে উল্লেখ আছে: যাক্কুম দেওয়া হবে জাহান্নামে ঢোকার আগেই, নুযুল হিসেবে (৫৬:৫৬)। নুযুল হলো আগত মেহমানের সামনে রাখা প্রথম খাবার। মাআরিফ যোগ করে, শব্দগুলো এ সম্ভাবনাও রাখে যে খাওয়ানো হবে ঢোকার পরে, আর টেনে নেওয়া মানে আগুনের আরও গভীরে নেওয়া। শেষে বলে, আল্লাহই ভালো জানেন। এ প্রবন্ধও সেখানেই থামছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Black Dregs of Oil",
+          "bn": "তেলের তলার কালো গাদ"
+        },
+        "p": [
+          {
+            "en": "What is al-muhl? The answer most often reported from the Companions is the sediment of oil, and at-Tabari records it from Ibn Abbas through several chains. Through Qabus from his father: ka-durdiyyi al-zayt, like the dregs of oil. Through Ali ibn Abi Talha: aswadu ka-muhli al-zayt, black like the muhl of oil. Through Atiyya ibn Sa'd: ma'un ghalizun ka-durdiyyi al-zayt, a thick liquid like the dregs of oil. He also records Ibn Abbas giving the same gloss on 70:8, the Day the sky will be like al-muhl.",
+            "bn": "মুহল কী? সাহাবীদের কাছ থেকে সবচেয়ে বেশি যে জবাব এসেছে, তা হলো তেলের তলানি। তাবারী ইবন আব্বাস (রাঃ)-এর কথা কয়েকটি সনদে বর্ণনা করেন। কাবূস তাঁর পিতার সূত্রে: কা দুরদিয়্যিয যাইত, তেলের গাদের মতো। আলী ইবন আবী তালহার সূত্রে: আসওয়াদু কা মুহলিয যাইত, তেলের মুহলের মতো কালো। আতিয়্যা ইবন সা'দের সূত্রে: মাউন গালীযুন কা দুরদিয়্যিয যাইত, তেলের গাদের মতো ঘন তরল। ৭০:৮ আয়াতে, যেদিন আকাশ হবে মুহলের মতো, সেখানেও ইবন আব্বাস (রাঃ)-এর একই ব্যাখ্যা তাবারী উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn Umar, in another of at-Tabari's reports, put it as a question to those around him: do you know what al-muhl is? It is the muhl of oil, meaning its last part. Ibn Kathir, in his Arabic tafsir, gives the same meaning without naming anyone: qalu, ka-'akari al-zayt, they said, like the sediment of oil. Al-Baghawi's gloss is durdiyyu al-zayt al-aswad, the black dregs of oil. The abridged English Ibn Kathir renders the word simply as like the dregs of oil.",
+            "bn": "তাবারীর আরেক বর্ণনায় ইবন উমর (রাঃ) কথাটা প্রশ্ন আকারে রাখেন আশপাশের লোকদের সামনে: তোমরা কি জানো মুহল কী? মুহল হলো তেলের মুহল, অর্থাৎ তেলের শেষাংশ। ইবন কাসীর তাঁর আরবি তাফসীরে কারও নাম না নিয়ে একই অর্থ দেন: কালূ, কা আকারিয যাইত, তাঁরা বলেছেন, তেলের তলানির মতো। বাগাভীর ব্যাখ্যা দুরদিয়্যুয যাইতিল আসওয়াদ, তেলের কালো গাদ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও শব্দটিকে সোজাসুজি তেলের গাদ বলে অনুবাদ করেছে।"
+          },
+          {
+            "en": "Two of these glosses, Ali ibn Abi Talha's report and al-Baghawi's, add the colour: black. The picture they share is of something thick and dark, the part of the oil that settles at the bottom and stays after the rest is gone. It is the residue, not the clean oil. And the verse does not stop at the substance; it says this residue boils, inside whoever ate it.",
+            "bn": "এর মধ্যে দুটি ব্যাখ্যা, আলী ইবন আবী তালহার বর্ণনা আর বাগাভীর কথা, রংটাও জানিয়ে দেয়: কালো। সবগুলো মিলে যে ছবি দাঁড়ায়, তা ঘন আর কালচে এক জিনিসের। তেলের যে অংশ তলায় জমে থাকে, বাকিটা ফুরিয়ে গেলেও যা রয়ে যায়। এটা তলানি, পরিষ্কার তেল নয়। আর আয়াতটি বস্তুর বর্ণনাতেই থামে না। বলে, এই তলানি ফোটে, যে খেয়েছে তার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Metal Run to Liquid",
+          "bn": "গলে তরল হওয়া ধাতু"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own paraphrase takes the word another way. The tree of zaqqum, whose fruit Allah made the food of the disbeliever in Jahannam, is like lead or silver, or whatever is melted in fire, when it is melted until its heat reaches its limit and its fierceness grows strong, in an intense blackness. He adds that he explained al-muhl earlier, with the commentators' disagreement over it, and here gives only reports he did not give there.",
+            "bn": "তাবারী নিজের ভাষায় শব্দটির আরেক অর্থ ধরেন। যাক্কুম গাছ, যার ফলকে আল্লাহ জাহান্নামে কাফিরের খাবার বানিয়েছেন, তা সীসা বা রুপার মতো, কিংবা আগুনে গলে এমন যেকোনো কিছুর মতো। গলাতে গলাতে তার তাপ চরমে পৌঁছে যায়, ঝাঁঝ প্রচণ্ড হয়ে ওঠে, আর রং হয় ঘোর কালো। তিনি জানিয়ে দেন, মুহলের ব্যাখ্যা আর তা নিয়ে তাফসীরকারদের মতভেদ তিনি আগের এক জায়গায় দিয়ে এসেছেন। এখানে কেবল সেসব বর্ণনা আনবেন, যা সেখানে আনেননি।"
+          },
+          {
+            "en": "Al-Qurtubi names a single metal: al-muhl is al-nuhas al-mudhab, molten copper. What reaches their bellies from the tree, he says, is likened to it, and it boils in them as hot water boils. The Muyassar keeps the word general, al-ma'dan al-mudhab, molten metal. Al-Hasan, in at-Tabari, reports that Ibn Abbas once saw silver that had been melted and said: hadha al-muhl, this is al-muhl. So Ibn Abbas is reported with both meanings, and the sources do not set them against each other.",
+            "bn": "কুরতুবী একটি নির্দিষ্ট ধাতুর নাম বলেন: মুহল হলো আন-নুহাসুল মুযাব, গলানো তামা। তাঁর ভাষায়, গাছ থেকে যা তাদের পেটে পৌঁছায় তাকে এর সঙ্গে তুলনা করা হয়েছে, আর তা তাদের ভেতরে ফোটে গরম পানির মতো। মুয়াসসার শব্দটা সাধারণ রাখে: আল-মা'দিনুল মুযাব, গলানো ধাতু। তাবারীর বর্ণনায় হাসান জানান, ইবন আব্বাস (রাঃ) একবার গলানো রুপা দেখে বলেছিলেন: হাযাল মুহল, এটাই মুহল। তাহলে ইবন আব্বাস (রাঃ) থেকে দুটো অর্থই এসেছে, আর সূত্রগুলো একটিকে অন্যটির বিপক্ষে দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lesson at the Treasury Fire",
+          "bn": "বাইতুল মালের আগুনে এক শিক্ষা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gathers a set of reports about Abdullah ibn Mas'ud, who had charge of the treasury. In the first, through Amr ibn Maymun from his father, given on ka-l-muhli yashwi al-wujuh (18:29), Abdullah went into the treasury, brought out what was left there, and lit a fire over it until it glittered. Then he said: where is he who asked about al-muhl? This is al-muhl. Al-A'mash has a shorter version: Ibn Mas'ud melted silver, then said, whoever wants to look at al-muhl, let him look at this.",
+            "bn": "এরপর তাবারী আবদুল্লাহ ইবন মাসউদ (রাঃ)-কে নিয়ে কয়েকটি বর্ণনা একত্র করেন, যিনি তখন বাইতুল মালের দায়িত্বে ছিলেন। প্রথমটি আমর ইবন মাইমূন তাঁর পিতার সূত্রে বর্ণনা করেন, কা মুহলি ইয়াশউইল উজূহ (১৮:২৯) আয়াতের আলোচনায়। আবদুল্লাহ (রাঃ) বাইতুল মালে ঢুকে সেখানে পড়ে থাকা অবশিষ্ট জিনিস বের করে আনলেন, তার উপর আগুন জ্বাললেন, শেষে তা ঝিকমিক করে উঠল। তখন বললেন: মুহল সম্পর্কে যে জিজ্ঞেস করেছিল সে কোথায়? এটাই মুহল। আ'মাশের সূত্রে ছোট এক বর্ণনাও আছে: ইবন মাসউদ (রাঃ) রুপা গলিয়ে বললেন, যে মুহল দেখতে চায়, সে এটা দেখুক।"
+          },
+          {
+            "en": "Al-Hasan tells it with more detail, opening with balaghani, it reached me. Ibn Mas'ud was asked about the muhl that people said would be the drink of the people of the Fire. He called for gold and silver and melted them, and said: this is the thing in this world most like al-muhl, which is the colour of the sky on the Day of Resurrection and the drink of the people of the Fire, except that that is hotter than this. Another version from al-Hasan has broken silver melted in a trench until it flowed, foamed and turned colours.",
+            "bn": "হাসান ঘটনাটা আরও বিস্তারিত বলেন, শুরুতেই জানিয়ে দেন: বালাগানী, আমার কাছে এ খবর পৌঁছেছে। ইবন মাসউদ (রাঃ)-কে সেই মুহল সম্পর্কে জিজ্ঞেস করা হলো, লোকে যাকে জাহান্নামিদের পানীয় বলত। তিনি সোনা আর রুপা আনিয়ে গলালেন। তারপর বললেন: দুনিয়াতে মুহলের সবচেয়ে কাছাকাছি জিনিস এটাই। মুহল কিয়ামতের দিন আকাশের রং, আর জাহান্নামিদের পানীয়। তবে সেটা এর চেয়ে বেশি গরম। হাসানের আরেক বর্ণনায় ভাঙা রুপা নালায় রেখে গলানো হয়, শেষে তা গলে ফেনা তোলে আর নানা রং ধরে।"
+          },
+          {
+            "en": "Qatada introduces his version with dhukira lana, it was mentioned to us: a vessel of gold and silver had been given to Ibn Mas'ud, and he had it melted the same way and called in men of Kufa to see. The reports differ in detail, and some come at second hand, but they share a method. He did not describe the unseen thing; he showed the nearest thing this world could offer, and in the fullest version he named the gap himself: that is hotter than this.",
+            "bn": "কাতাদা তাঁর বর্ণনা শুরু করেন যুকিরা লানা দিয়ে, অর্থাৎ আমাদের কাছে উল্লেখ করা হয়েছে। ইবন মাসউদ (রাঃ)-কে সোনা-রুপার একটি পাত্র উপহার দেওয়া হয়েছিল। তিনি সেটি একইভাবে গলিয়ে কূফার কিছু লোককে ডেকে দেখালেন। বর্ণনাগুলোর খুঁটিনাটি আলাদা, কয়েকটি এসেছে পরোক্ষ সূত্রে, তবু পদ্ধতি সবার এক। তিনি অদেখা জিনিসের বর্ণনা দেননি। দুনিয়া যতটা কাছের নমুনা দিতে পারে, সেটাই চোখের সামনে রেখেছেন। আর সবচেয়ে পূর্ণ বর্ণনায় ফারাকটা তিনি নিজেই বলে দিয়েছেন: সেটা এর চেয়ে বেশি গরম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Foul Pus, and a Wide Word",
+          "bn": "দুর্গন্ধ পুঁজ, এক বিস্তৃত শব্দ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives a third meaning. Ka-l-muhl, he writes: like foul-smelling pus, al-sadid al-muntin, vile in smell and taste and intensely hot, boiling in their bellies like the boiling of hamim. The sources consulted therefore give three explanations of the word: the dregs of oil, from Ibn Abbas, Ibn Umar, Ibn Kathir and al-Baghawi; molten metal, from at-Tabari's paraphrase, al-Qurtubi's copper, the Muyassar and the Ibn Mas'ud reports; and pus, from as-Sa'di. At-Tabari's paraphrase already joins two of them, molten metal and deep blackness.",
+            "bn": "সা'দী তৃতীয় এক অর্থ দেন। কাল মুহল, তিনি লেখেন: দুর্গন্ধময় পুঁজের মতো, আস-সাদীদুল মুনতিন। গন্ধে ও স্বাদে জঘন্য, প্রচণ্ড গরম, যা তাদের পেটে ফোটে হামীমের মতো। তাহলে দেখা সূত্রগুলোতে শব্দটির তিনটি ব্যাখ্যা পাওয়া যায়। এক, তেলের গাদ: ইবন আব্বাস (রাঃ), ইবন উমর (রাঃ), ইবন কাসীর ও বাগাভী। দুই, গলানো ধাতু: তাবারীর নিজের ব্যাখ্যা, কুরতুবীর তামা, মুয়াসসার, আর ইবন মাসউদ (রাঃ)-এর বর্ণনাগুলো। তিন, পুঁজ: সা'দী। তাবারীর ব্যাখ্যায় অবশ্য দুটো আগে থেকেই মিশে আছে, গলানো ধাতু আর ঘোর কালো রং।"
+          },
+          {
+            "en": "The word is not confined to this verse. Two other places appear inside at-Tabari's reports here: the water like al-muhl that scalds the faces in 18:29, and the sky that will be like al-muhl in 70:8. Ibn Mas'ud's fullest report ties those uses together, calling al-muhl both the colour of the sky on that Day and the drink of the people of the Fire. None of the commentators consulted chooses one meaning and rules out the rest, and this article does not either.",
+            "bn": "শব্দটি শুধু এ আয়াতেই নেই। এখানে তাবারীর বর্ণনাগুলোর ভেতরেই আরও দুটি জায়গা উঠে আসে। ১৮:২৯ আয়াতে মুহলের মতো পানি, যা মুখমণ্ডল ঝলসে দেয়। আর ৭০:৮ আয়াতে আকাশ, যা হবে মুহলের মতো। ইবন মাসউদ (রাঃ)-এর সবচেয়ে পূর্ণ বর্ণনা এ ব্যবহারগুলোকে এক সুতোয় গেঁথেছে। সেখানে মুহল একই সঙ্গে সেদিনের আকাশের রং এবং জাহান্নামিদের পানীয়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই একটি অর্থ বেছে নিয়ে বাকিগুলো বাদ দেয়নি। এ প্রবন্ধও তা করছে না।"
+          },
+          {
+            "en": "What the three explanations share is easier to say. Each pairs the substance with heat: at-Tabari's metal melted to the limit of its heat, al-Qurtubi's water that boils, as-Sa'di's pus that is intensely hot, Ibn Kathir's heat and rancidity. Each is also something the body would refuse if it could. The verse puts it where the eater cannot set it down, and the next verse says it boils as hamim boils.",
+            "bn": "তিনটি ব্যাখ্যার মিলটা বলা সহজ। প্রত্যেকটিতে বস্তুর সঙ্গে জুড়ে আছে তাপ। তাবারীর ধাতু গলে তাপের চরমে পৌঁছায়, কুরতুবীর পানি টগবগ করে ফোটে, সা'দীর পুঁজ প্রচণ্ড গরম, ইবন কাসীর বলেন তাপ আর পচা দুর্গন্ধের কথা। প্রত্যেকটিই এমন জিনিস, যা পারলে শরীর ফিরিয়ে দিত। আয়াতটি তা রাখে এমন জায়গায়, যেখান থেকে খাওয়া লোকটি তা নামিয়ে রাখতে পারে না। আর পরের আয়াত বলে, তা ফোটে যেমন ফোটে হামীম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taghli or Yaghli: What Boils",
+          "bn": "তাগলী না ইয়াগলী: ফোটে কোনটি"
+        },
+        "p": [
+          {
+            "en": "The verb is read two ways. At-Tabari reports that most readers of Medina, Basra and Kufa read taghli, with the feminine prefix ta, meaning that the tree boils in their bellies, since shajara, tree, is feminine. Some readers of Kufa read yaghli, with the masculine ya. Of these, he says, some made it masculine for al-ta'am, the food of the sinful, so that the food boils, and some for al-muhl, so that the boiling describes al-muhl itself.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়। তাবারী জানান, মদীনা, বসরা ও কূফার বেশিরভাগ কারী পড়েন তাগলী, স্ত্রীবাচক তা দিয়ে। অর্থ: গাছটি তাদের পেটে ফোটে, কারণ শাজারা বা গাছ শব্দটি স্ত্রীবাচক। কূফার কিছু কারী পড়েন ইয়াগলী, পুংবাচক ইয়া দিয়ে। তাবারী বলেন, এঁদের কেউ পুংবাচক ধরেছেন আত-তাআম শব্দের জন্য, অর্থাৎ পাপীর খাবারই ফোটে। আবার কেউ ধরেছেন মুহলের জন্য, তখন ফোটাটা মুহলেরই বিশেষণ।"
+          },
+          {
+            "en": "Al-Qurtubi names the readers of yaghli: Ibn Kathir, the reader and not the commentator of the same name, with Hafs, Ibn Muhaysin, and Ruways from Ya'qub. He refers the verb to al-ta'am, the food, which in meaning is the tree, and he rules out al-muhl, since al-muhl is mentioned only as a comparison. Al-Baghawi names Ibn Kathir and Hafs for yaghli and says the opposite: they gave the verb to al-muhl. The rest, he says, read taghli for the femininity of the tree.",
+            "bn": "কুরতুবী ইয়াগলী পাঠের কারীদের নাম বলেন: ইবন কাসীর, যিনি কারী, একই নামের তাফসীরকার নন, সঙ্গে হাফস, ইবন মুহাইসিন, আর ইয়াকূবের সূত্রে রুওয়াইস। তিনি ক্রিয়াটিকে যুক্ত করেন আত-তাআম বা খাবারের সঙ্গে, যা অর্থের দিক থেকে গাছই। মুহলের সঙ্গে যুক্ত করাকে তিনি নাকচ করেন, কারণ মুহল এসেছে কেবল তুলনা হিসেবে। বাগাভী ইয়াগলী পাঠে ইবন কাসীর ও হাফসের নাম নেন, আর বলেন ঠিক উল্টো কথা: তাঁরা ক্রিয়াটিকে মুহলের সঙ্গে জুড়েছেন। বাকিরা, তাঁর ভাষায়, গাছ স্ত্রীবাচক বলে তাগলী পড়েছেন।"
+          },
+          {
+            "en": "So the commentators differ on what yaghli refers to. Al-Baghawi gives it to al-muhl; al-Qurtubi refuses that and gives it to the food; at-Tabari reports both views among the Kufan readers. On the readings themselves at-Tabari is clear: both are well known and sound in meaning, and whichever a reciter uses, he is correct. The Mushaf text this site displays has yaghli, the reading of Hafs. On either reading, what boils is what was eaten.",
+            "bn": "তাহলে ইয়াগলী কার দিকে ফেরে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। বাগাভী একে মুহলের সঙ্গে জোড়েন। কুরতুবী তা মানেন না, জোড়েন খাবারের সঙ্গে। তাবারী কূফার কারীদের মধ্যে দুটো মতই উল্লেখ করেন। তবে পাঠ দুটি নিয়ে তাবারীর কথা পরিষ্কার: দুটোই সুপরিচিত, অর্থের দিক থেকে দুটোই সঠিক, যেকোনোটি পড়লে পাঠক ঠিকই পড়লেন। এ সাইটে যে মুসহাফের পাঠ দেখানো হয়, তাতে আছে ইয়াগলী, হাফসের পাঠ। যে পাঠই ধরা হোক, যা ফোটে তা খাওয়া জিনিসটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report the Collector Flagged",
+          "bn": "সংকলক নিজেই যে বর্ণনায় সতর্ক করেছেন"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs consulted attaches a sound hadith to this verse; the reports above are not the Prophet's ﷺ words. At-Tabari does carry a report raised to the Prophet ﷺ, from Abu Sa'id al-Khudri, but he places it on bi-ma'in ka-l-muhl, water like al-muhl, in 18:29. At-Tirmidhi records it (2581) in this wording: \"Like boiling oil, such that when it is brought close to his face, the skin of his face will fall off into it.\" The Arabic he records reads ka-'akari al-zayt, like the sediment of oil.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। উপরের বর্ণনাগুলো নবী ﷺ-এর বাণী নয়। তাবারী অবশ্য আবু সাঈদ খুদরী (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন, তবে তা রাখেন ১৮:২৯ আয়াতের বিমাইন কাল মুহল, মুহলের মতো পানি, অংশের আলোচনায়। তিরমিযী এটি বর্ণনা করেছেন (২৫৮১) এই ভাষায়: \"ফুটন্ত তেলের মতো, যখন তা মুখের কাছে আনা হবে, মুখের চামড়া খসে তাতে পড়ে যাবে।\" তাঁর বর্ণিত আরবি পাঠে আছে কা আকারিয যাইত, তেলের তলানির মতো।"
+          },
+          {
+            "en": "At-Tirmidhi adds his own judgement after it: we know this hadith only through Rishdin ibn Sa'd, and Rishdin has been criticised for his memory. The article therefore builds nothing on it. Its gloss agrees with what Ibn Abbas and Ibn Umar are reported to have said, but agreement does not strengthen a chain the collector himself questioned. The meaning of al-muhl rests on the Companions and the commentators, who leave it a word of several senses.",
+            "bn": "বর্ণনার পরেই তিরমিযী নিজের মন্তব্য যোগ করেন: এ হাদীস আমরা কেবল রিশদীন ইবন সা'দের সূত্রেই জানি, আর স্মৃতিশক্তির কারণে রিশদীনকে নিয়ে সমালোচনা হয়েছে। তাই এ প্রবন্ধ এর উপর কিছুই দাঁড় করায় না। ইবন আব্বাস (রাঃ) ও ইবন উমর (রাঃ) থেকে যা বর্ণিত, তার সঙ্গে এর ব্যাখ্যা মেলে ঠিকই। কিন্তু সংকলক নিজে যে সনদ নিয়ে প্রশ্ন তুলেছেন, অর্থ মিলে গেলেই তা মজবুত হয়ে যায় না। মুহলের অর্থ দাঁড়িয়ে আছে সাহাবী ও তাফসীরকারদের ব্যাখ্যার উপর, আর তাঁরা শব্দটিকে কয়েক অর্থের শব্দ হিসেবেই রেখে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Food Should Comfort",
+          "bn": "যেখানে খাবারের স্বস্তি দেওয়ার কথা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the food of the sinful does in the Fire; the Muyassar calls the bellies those of the polytheists, and al-Baghawi those of the disbelievers. It describes what the text describes and licenses nothing against any living person or community. No one may point at a neighbour, a people or a faith and assign them this verse. Who ends as al-athim is known to Allah alone, and the passage has just named, in 44:42, those on whom Allah has mercy.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বলছে, জাহান্নামে পাপীর খাবার কী করে। মুয়াসসার এই পেটগুলোকে বলে মুশরিকদের পেট, বাগাভী বলেন কাফিরদের। আয়াত যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। প্রতিবেশী, কোনো জাতি বা কোনো ধর্মের দিকে আঙুল তুলে কেউ এ আয়াত তাদের ঘাড়ে চাপাতে পারে না। শেষ পর্যন্ত কে আল-আসীম হবে, তা কেবল আল্লাহই জানেন। আর ঠিক আগে ৪৪:৪২ আয়াতে এ অংশটিই বলে দিয়েছে, যাদের প্রতি আল্লাহ রহম করবেন তাদের কথা আলাদা।"
+          },
+          {
+            "en": "For the reader, the verse turns on a single place in the body. The belly is where food is meant to settle and comfort. Here it becomes the place of burning, and a punishment inside cannot be stepped away from. The Companions explained al-muhl with restraint, showing the nearest thing they could, dregs at the bottom of a jar, metal melted until it foamed, and Ibn Mas'ud, in al-Hasan's report, said plainly that the real thing is hotter.",
+            "bn": "পাঠকের জন্য আয়াতটির কেন্দ্র শরীরের একটি জায়গা। পেট সেই জায়গা, যেখানে খাবার গিয়ে থিতু হয়, স্বস্তি দেয়। এখানে সেই জায়গাটাই হয়ে যায় জ্বলুনির জায়গা। শাস্তি ভেতরে হলে তা থেকে সরে দাঁড়ানোর উপায় থাকে না। সাহাবীরা মুহলের ব্যাখ্যা দিয়েছেন সংযমের সঙ্গে। যতটা কাছের জিনিস দেখানো যায়, তাই দেখিয়েছেন: পাত্রের তলার গাদ, ফেনা ওঠা পর্যন্ত গলানো ধাতু। আর হাসানের বর্ণনায় ইবন মাসউদ (রাঃ) স্পষ্ট বলে দিয়েছেন, আসলটা এর চেয়ে বেশি গরম।"
+          },
+          {
+            "en": "That restraint is a model for how to carry this verse. It is not material for frightening others with details the texts do not give, nor a picture to study and put away. Everyone who hears it has seen oil darken in a pan and metal glow in a flame. The warning comes in the language of the kitchen and the forge so that it can be understood now, while what a person takes in and turns from is still in his own hands.",
+            "bn": "এই সংযমই আয়াতটি বহন করার নমুনা। বর্ণনায় যা নেই, এমন খুঁটিনাটি দিয়ে অন্যকে ভয় দেখানোর উপকরণ এটা নয়। আবার একবার দেখে তুলে রাখার মতো ছবিও নয়। যে-ই আয়াতটি শোনে, সে কড়াইয়ে তেল কালো হতে দেখেছে, আগুনে ধাতু লাল হতে দেখেছে। সতর্কবাণীটা এসেছে রান্নাঘর আর কামারশালার ভাষায়, যাতে এখনই বোঝা যায়। এখন, যখন মানুষ কী গ্রহণ করবে আর কী থেকে ফিরবে, তা এখনো তার নিজের হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "44:51": {
     "sections": [
       {
