@@ -29167,6 +29167,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The surah is a reminder that leaves the choice with you: take a way to your Lord, and if you find yourself on it, thank the One who willed it.",
     "lessonBn": "সূরাটি এক উপদেশ, বাছাইয়ের ভার আপনার উপর রাখে: রবের দিকে পথ ধরুন, আর সে পথে নিজেকে পেলে শোকর করুন তাঁর, যিনি তা চেয়েছেন।"
+  },
+  "77:5": {
+    "reflectionEn": "Before the surah turns to the Day, it swears by those who cast down a reminder: the angels who carry Allah's word to His messengers. That reminder has travelled a long way. It was received from its Lord, brought down, given to a messenger, and passed on from one generation to the next until it reached a recitation I can hear and a page I can open. By the time it reaches me, everything needed for it to arrive has already been done. Only my part is left. The next verse says it comes as an excuse or a warning. When the reminder reaches me today, do I take it in the way it was sent, or let it fall and walk on?",
+    "reflectionBn": "কিয়ামতের দিনের কথায় যাওয়ার আগে সূরাটি শপথ করে তাদের নামে, যারা যিকর নামিয়ে দেয়। তারা ফেরেশতা, যারা আল্লাহর বাণী তাঁর রাসূলদের কাছে পৌঁছে দেয়। এই যিকর অনেক পথ পেরিয়ে এসেছে। রবের কাছ থেকে গ্রহণ করা হয়েছে, নামিয়ে আনা হয়েছে, রাসূলের হাতে দেওয়া হয়েছে। তারপর এক প্রজন্ম থেকে আরেক প্রজন্মে হাতবদল হয়ে পৌঁছেছে এমন তিলাওয়াতে, যা আমি শুনতে পাই, এমন পাতায়, যা আমি খুলতে পারি। আমার কাছে পৌঁছানোর জন্য যা যা দরকার ছিল, সবই করা হয়ে গেছে। বাকি শুধু আমার অংশটুকু। পরের আয়াত বলছে, এ যিকর আসে ওজর শেষ করতে অথবা সতর্ক করতে। আজ যখন যিকর আমার কাছে পৌঁছায়, আমি কি তা গ্রহণ করি যেভাবে পাঠানো হয়েছে, নাকি মাটিতে পড়ে থাকতে দিয়ে হেঁটে চলে যাই?",
+    "pointsEn": [
+      "When did a reminder last reach me, from a verse, a talk or a friend, and what had I done with it by the end of that day?",
+      "The reminder came down through angels and messengers with great care; do I give it even a little of that care when I recite or listen?",
+      "Is there a warning I keep hearing and keep treating as if it were meant for someone else?",
+      "Now that the message has reached me, what excuse could I honestly offer for leaving it unanswered?",
+      "Who passes the reminder on to me, and to whom am I passing it on?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কোনো আয়াত, আলোচনা বা বন্ধুর কথায় আমার কাছে উপদেশ পৌঁছেছিল? সেদিন শেষ হওয়ার আগে আমি তা নিয়ে কী করেছিলাম?",
+      "ফেরেশতা আর রাসূলদের হাত হয়ে যিকর নেমে এসেছে পরম যত্নে। তিলাওয়াত করার সময় বা শোনার সময় আমি কি তার সামান্য যত্নও দিই?",
+      "এমন কোনো সতর্কবাণী কি আছে, যা আমি বারবার শুনি অথচ ধরে নিই অন্য কারও জন্য বলা?",
+      "বার্তা তো আমার কাছে পৌঁছে গেছে। জবাব না দিয়ে ফেলে রাখার পক্ষে আমি সৎভাবে কোন ওজর দেখাতে পারব?",
+      "কে আমার কাছে যিকর পৌঁছে দেয়, আর আমি কার কাছে তা পৌঁছে দিচ্ছি?"
+    ],
+    "lessonEn": "Angels carried the reminder down so that it would reach you. Receive it with care and act on it, for once it has arrived, the excuse of not knowing is gone.",
+    "lessonBn": "ফেরেশতারা যিকর নামিয়ে এনেছে যাতে তা আপনার কাছে পৌঁছায়। যত্ন নিয়ে তা গ্রহণ করুন, তার উপর আমল করুন, কারণ পৌঁছে যাওয়ার পর না-জানার ওজর আর থাকে না।"
   }
 };
 

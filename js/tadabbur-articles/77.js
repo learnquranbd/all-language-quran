@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "77:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Those Who Cast a Reminder",
+          "bn": "যারা যিকর পৌঁছে দেয়"
+        },
+        "p": [
+          {
+            "en": "Fa-l-mulqiyati dhikra: then by those who cast down a reminder. Two Arabic words, and they close a run of five. Like the four before it, the first word is a feminine plural participle with no noun beside it: al-mulqiyat, those that cast, from alqa, to throw down or to deliver. The second word, dhikran, names what is cast. At-Tabari glosses the participle as al-muballighat, those that convey, and says that what they convey is Allah's revelation to His messengers.",
+            "bn": "ফাল-মুলকিয়াতি যিকরা: অতঃপর শপথ তাদের, যারা যিকর নামিয়ে দেয়। আরবিতে দুটি শব্দ, আর এ দুটি দিয়েই পাঁচ শপথের সারি শেষ হয়। আগের চারটির মতো প্রথম শব্দটিও স্ত্রীলিঙ্গ বহুবচনের কর্তৃবাচক রূপ, পাশে কোনো বিশেষ্য নেই। আল-মুলকিয়াত মানে যারা ফেলে বা পৌঁছে দেয়, এসেছে আলকা থেকে, যার অর্থ নিচে ছুঁড়ে দেওয়া বা হাতে তুলে দেওয়া। দ্বিতীয় শব্দ যিকরান বলে দেয় কী পৌঁছানো হচ্ছে। তাবারী শব্দটির ব্যাখ্যা দেন আল-মুবাল্লিগাত দিয়ে, অর্থাৎ যারা পৌঁছে দেয়। আর যা তারা পৌঁছায়, তা আল্লাহর ওহি, তাঁর রাসূলদের কাছে।"
+          },
+          {
+            "en": "The opening fa joins the verse to the one before it, as it joins 77:2 to 77:1 and 77:4 to 77:3, so the five descriptions run on without a pause. Then 77:6 says why the reminder is cast, 'udhran aw nudhra, as an excuse or a warning, and 77:7 gives the sentence the oaths were sworn for: what you are promised will surely occur. The page on 77:1 follows the oath through to that answer. This page stays with the fifth link, the one that names the reminder itself.",
+            "bn": "শুরুর ফা আয়াতটিকে আগের আয়াতের সঙ্গে জুড়ে দেয়, যেমন জুড়েছে ৭৭:২-কে ৭৭:১-এর সঙ্গে আর ৭৭:৪-কে ৭৭:৩-এর সঙ্গে। তাই পাঁচটি বিবরণ একটানা চলে, মাঝে থামে না। এরপর ৭৭:৬ জানায় যিকর কেন পৌঁছানো হয়: উযরান আও নুযরা, ওজর শেষ করতে অথবা সতর্ক করতে। আর ৭৭:৭ আয়াতে আসে সেই বাক্য, যার জন্য এত শপথ: তোমাদের যে ওয়াদা দেওয়া হয়েছে, তা অবশ্যই ঘটবে। ৭৭:১ আয়াতের পাতা শপথটিকে সেই জবাব পর্যন্ত অনুসরণ করেছে। এ পাতা থাকবে পঞ্চম কড়িটির কাছে, যেখানে যিকরের নাম এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Disputed, One Settled",
+          "bn": "চারটিতে মতভেদ, একটিতে মীমাংসা"
+        },
+        "p": [
+          {
+            "en": "Who the first four are is disputed, and the page for 77:1 sets the dispute out. In brief: Ibn Kathir, in the abridged English text covering 77:1 to 77:10, reports Ibn Mas'ud (RA), Ibn 'Abbas (RA), Mujahid and Qatadah reading the first three as winds, and Abu Hurayrah (RA), Masruq and others reading the mursalat as angels. Abu Salih is reported once as saying they are messengers. Ibn Kathir himself judges the first three to be winds, citing 15:22 and 7:57, and turns to the angels at 77:4.",
+            "bn": "প্রথম চারটি কারা, তা নিয়ে মতভেদ আছে, আর ৭৭:১ আয়াতের পাতায় সে আলোচনা বিস্তারিত এসেছে। সংক্ষেপে বলা যায়: ইবন কাসীর তাঁর সংক্ষিপ্ত ইংরেজি পাঠে, যা ৭৭:১ থেকে ৭৭:১০ পর্যন্ত জুড়ে আছে, জানান যে ইবন মাসঊদ (রাঃ), ইবন আব্বাস (রাঃ), মুজাহিদ ও কাতাদা প্রথম তিনটিকে বাতাস বলেছেন। আবূ হুরায়রা (রাঃ), মাসরূক ও আরও কয়েকজন মুরসালাতকে বলেছেন ফেরেশতা। আবু সালিহ থেকে একটি বর্ণনায় এসেছে, এরা রাসূল। ইবন কাসীর নিজে প্রথম তিনটিকে বাতাস ধরেন, দলিল দেন ১৫:২২ ও ৭:৫৭ আয়াত থেকে, আর ৭৭:৪ থেকে ফেরেশতার দিকে যান।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, on 77:1 to 77:5, lists the range: some say all five attributes are angels, some that different groups of angels bear them, some that they are kinds of winds, and some that they are the prophets and messengers. It adopts Ibn Kathir's division as the reading that needs the least stretching. The Muyassar, which treats 77:2 to 77:7 together, reads two winds and then three companies of angels: those who drive the clouds, those who bring what separates truth from falsehood, and those who receive the revelation and bring it down.",
+            "bn": "মাআরিফুল কুরআন ৭৭:১ থেকে ৭৭:৫ আয়াতের আলোচনায় মতগুলো গুনে দেখায়। কেউ বলেন পাঁচটি গুণই ফেরেশতাদের, কেউ বলেন ফেরেশতাদের ভিন্ন ভিন্ন দল এগুলোর ধারক। কারও মতে এগুলো নানা ধরনের বাতাস, আর কারও মতে নবী ও রাসূলগণ। মাআরিফ শেষে ইবন কাসীরের ভাগটাই গ্রহণ করে, কারণ এতে টেনেটুনে অর্থ মেলাতে হয় সবচেয়ে কম। মুয়াসসার ৭৭:২ থেকে ৭৭:৭ একসঙ্গে ব্যাখ্যা করে। তার পাঠে প্রথমে দুই রকম বাতাস, তারপর ফেরেশতাদের তিনটি দল: যারা মেঘ হাঁকিয়ে নেয়, যারা হক ও বাতিলের মধ্যে পার্থক্য করার বাণী নিয়ে নামে, আর যারা ওহি গ্রহণ করে তা নিয়ে নেমে আসে।"
+          },
+          {
+            "en": "So the first four descriptions are contested in more than one direction; the fifth very nearly is not. Every commentator consulted for this verse names the angels, and the one dissent on record comes through al-Qurtubi, with a name attached. What remains is a difference of emphasis: what the angels do with the reminder, and what the reminder is.",
+            "bn": "অর্থাৎ প্রথম চারটি বিবরণ নিয়ে টানাটানি একাধিক দিকে, পঞ্চমটি নিয়ে প্রায় কোনো মতভেদ নেই। এ আয়াতের জন্য যত তাফসীর দেখা হয়েছে, সবগুলোই ফেরেশতার কথা বলে। একমাত্র ভিন্নমতটি আসে কুরতুবীর মাধ্যমে, একজনের নাম সহ। বাকি যা থাকে, তা জোরের তফাত: যিকর নিয়ে ফেরেশতারা কী করে, আর যিকর জিনিসটা কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Disagreement Here",
+          "bn": "এখানে কোনো মতভেদ নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's Arabic text on this verse is a single sentence, and it is worth reading whole. It means the angels, he says, and he names those who said so: Ibn Mas'ud, Ibn 'Abbas, Masruq, Mujahid, Qatadah, ar-Rabi' ibn Anas, as-Suddi and ath-Thawri. Then: there is no disagreement here, for they descend by Allah's command upon the messengers and cast revelation to them. Ibn Mas'ud (RA), reported in the same tafsir as reading the opening oaths as winds, is the first name on this list.",
+            "bn": "এ আয়াতে ইবন কাসীরের আরবি পাঠ মাত্র এক বাক্যের, আর পুরোটাই পড়ার মতো। তিনি বলেন, এর অর্থ ফেরেশতা। কারা এ কথা বলেছেন, তাও জানান: ইবন মাসঊদ, ইবন আব্বাস, মাসরূক, মুজাহিদ, কাতাদা, রাবী ইবন আনাস, সুদ্দী ও সাওরী। তারপর বলেন: এখানে কোনো মতভেদ নেই। কারণ ফেরেশতারাই আল্লাহর আদেশে রাসূলদের কাছে নেমে আসে এবং তাঁদের কাছে ওহি পৌঁছে দেয়। লক্ষ করার মতো বিষয়, ইবন মাসঊদ (রাঃ) এই তালিকার প্রথম নাম। অথচ একই তাফসীরে তাঁর থেকেই বর্ণিত হয়েছে যে শুরুর শপথগুলো বাতাসের।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an describes at-Tabari as declining to side with either reading of the opening oaths. On this verse he names one party without hesitation. Fa-l-mulqiyati dhikra, he says, means those that convey Allah's revelation to His messengers, and they are the angels; the people of interpretation said the same. He gives four reports. From Ibn 'Abbas (RA): the angels. From Qatadah, by two routes: the angels who cast the reminder to the messengers and convey it, and, in the other, the angels cast the Qur'an. From Sufyan: the angels.",
+            "bn": "মাআরিফুল কুরআনের বর্ণনায় তাবারী শুরুর শপথগুলোর ব্যাপারে কোনো একটি পাঠের পক্ষ নেননি। কিন্তু এ আয়াতে তিনি দ্বিধা ছাড়াই একটি পক্ষের নাম বলেন। তাঁর ব্যাখ্যায় ফাল-মুলকিয়াতি যিকরা মানে যারা আল্লাহর ওহি তাঁর রাসূলদের কাছে পৌঁছে দেয়, আর তারা ফেরেশতা। তিনি জানান, তাফসীরবিদরাও এ কথাই বলেছেন। এর পক্ষে তিনি চারটি বর্ণনা আনেন। ইবন আব্বাস (রাঃ) থেকে: ফেরেশতারা। কাতাদা থেকে দুই সূত্রে: একটিতে, ফেরেশতারা রাসূলদের কাছে যিকর পৌঁছে দেয় ও প্রচার করে; অন্যটিতে, ফেরেশতারা কুরআন পৌঁছে দেয়। সুফইয়ান থেকে: ফেরেশতারা।"
+          },
+          {
+            "en": "As-Sa'di and al-Baghawi agree in a line each: the angels, casting the reminder to the messengers, or in al-Baghawi's word, to the prophets. Al-Baghawi adds a parallel from the Qur'an, 40:15, yulqi ar-ruha min amrihi, He casts the spirit by His command. The verb is the same one. In 40:15 Allah is its subject, and the verse goes on, upon whom He wills of His servants, to warn of the Day of Meeting. In 77:5 the angels carry out the casting, and 77:6 names the same purpose: a warning.",
+            "bn": "সা'দী আর বাগাভী এক লাইনেই একমত: এরা ফেরেশতা, যারা রাসূলদের কাছে যিকর পৌঁছে দেয়, বাগাভীর ভাষায় নবীদের কাছে। বাগাভী কুরআন থেকে একটি মিল দেখান, ৪০:১৫ আয়াত: ইউলকির রূহা মিন আমরিহী, তিনি নিজ আদেশে রূহ নাজিল করেন। ক্রিয়াটি একই। ৪০:১৫ আয়াতে কর্তা আল্লাহ নিজে, আর আয়াতটি এগিয়ে যায়: তাঁর বান্দাদের মধ্যে যার উপর তিনি চান, যাতে সে সাক্ষাতের দিন সম্পর্কে সতর্ক করে। ৭৭:৫ আয়াতে পৌঁছে দেওয়ার কাজটি করে ফেরেশতারা। আর ৭৭:৬ আয়াতও একই উদ্দেশ্যের নাম নেয়: সতর্ক করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Consensus and Two Asides",
+          "bn": "ইজমা, আর পাশে দুটি কথা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens with the strongest word available. The mulqiyat are the angels bi-ijma', by consensus, casting the books of Allah to the prophets, and he credits that wording to al-Mahdawi. Then, in the manner of his tafsir, he records what else has been said. One view, introduced with it was said, is that Jibril alone is meant, called by a plural because he was the one who brought the revelation down. That does not leave the angels reading; it narrows the group to a single angel.",
+            "bn": "কুরতুবী শুরু করেন সবচেয়ে জোরালো শব্দ দিয়ে। মুলকিয়াত হলো ফেরেশতা, বিল-ইজমা, অর্থাৎ সর্বসম্মতভাবে। তারা আল্লাহর কিতাবসমূহ নবীদের কাছে পৌঁছে দেয়, আর এ ভাষ্য তিনি মাহদাভীর বলে উল্লেখ করেন। তারপর নিজের তাফসীরের ধারা মেনে আর কী কী বলা হয়েছে, তা লিখে রাখেন। 'বলা হয়েছে' দিয়ে আনা একটি মত হলো, এখানে শুধু জিবরীলকে বোঝানো হয়েছে। বহুবচনে তাঁর নাম এসেছে, কারণ ওহি নিয়ে তিনিই নামতেন। এ মত ফেরেশতার ব্যাখ্যা থেকে সরে যায় না, দলটিকে শুধু একজন ফেরেশতায় এনে ঠেকায়।"
+          },
+          {
+            "en": "The second aside is a real dissent. It was said, al-Qurtubi continues, that the messengers are meant, who cast to their nations what Allah sent down to them, and he names who held it: Qutrub. On this reading the casting happens one step further down, from messenger to people. Al-Qurtubi does not explain how a named dissent sits beside the word consensus, and this page does not try to settle it. The consensus is his claim and Qutrub's view is his report; both stand as he gives them.",
+            "bn": "দ্বিতীয় কথাটি সত্যিকারের ভিন্নমত। কুরতুবী লেখেন, বলা হয়েছে এখানে রাসূলদের বোঝানো হয়েছে, যারা আল্লাহর নাজিল করা বাণী নিজ নিজ উম্মতের কাছে পৌঁছে দেন। মতটি কার, তাও তিনি জানান: কুতরুবের। এ পাঠে পৌঁছে দেওয়ার কাজটা ঘটে এক ধাপ নিচে, রাসূল থেকে মানুষের কাছে। সর্বসম্মতির কথা বলার পর নাম সহ একটি ভিন্নমত কীভাবে পাশাপাশি থাকে, কুরতুবী তা ব্যাখ্যা করেননি। এ পাতাও তার মীমাংসা করতে যাবে না। ইজমার দাবি তাঁর নিজের, আর কুতরুবের মত তাঁর বর্ণনা। দুটোই থাকুক যেভাবে তিনি রেখেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi also records a variant reading from Ibn 'Abbas (RA), with the qaf given a fatha and doubled. He offers no gloss, only a parallel, 27:6, wa innaka la-tulaqqa al-Qur'an, and indeed you receive the Qur'an. The parallel points from casting towards receiving. The Muyassar, without mentioning any variant, describes the angels of this verse in just those terms: those who receive the revelation from Allah and bring it down to His prophets. Receiving and delivering are the two halves of one errand.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর একটি ভিন্ন কিরাআতও উল্লেখ করেন, যেখানে কাফ বর্ণে যবর ও তাশদীদ। তিনি কোনো ব্যাখ্যা দেন না, শুধু মিলিয়ে দেখান ২৭:৬ আয়াতের সঙ্গে: ওয়া ইন্নাকা লাতুলাক্কাল কুরআন, নিশ্চয়ই আপনি কুরআন গ্রহণ করছেন। এই মিল ইঙ্গিত দেয়, অর্থটা পৌঁছে দেওয়া থেকে গ্রহণ করার দিকে সরে যায়। মুয়াসসার কোনো কিরাআতের উল্লেখ না করেই এ আয়াতের ফেরেশতাদের বর্ণনা দেয় ঠিক সেভাবে: যারা আল্লাহর কাছ থেকে ওহি গ্রহণ করে আর তা নিয়ে তাঁর নবীদের কাছে নেমে আসে। গ্রহণ আর পৌঁছানো একই দায়িত্বের দুই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Revelation, Qur'an, or Books",
+          "bn": "ওহি, কুরআন, নাকি কিতাবসমূহ"
+        },
+        "p": [
+          {
+            "en": "The second word is dhikran, a reminder, and the commentators consulted give it different widths. At-Tabari's gloss makes it revelation in general, Allah's wahy to His messengers. Qatadah, in the second report at-Tabari gives, makes it the Qur'an. Ma'arif al-Qur'an keeps both: dhikr, it says, refers to the Qur'an or to revelation in general. Al-Qurtubi, through al-Mahdawi, speaks of the books of Allah, in the plural, cast to the prophets. The word in the verse is indefinite, and the readings do not compete: each names a reminder.",
+            "bn": "দ্বিতীয় শব্দ যিকরান, অর্থাৎ উপদেশ বা স্মরণ করিয়ে দেওয়ার বাণী। যে তাফসীরগুলো দেখা হয়েছে, সেগুলো শব্দটিকে ভিন্ন ভিন্ন পরিসরে বোঝে। তাবারীর ব্যাখ্যায় এ হলো সাধারণভাবে ওহি, রাসূলদের প্রতি আল্লাহর প্রত্যাদেশ। তাবারীর আনা দ্বিতীয় বর্ণনায় কাতাদা একে বলেন কুরআন। মাআরিফুল কুরআন দুটোই রাখে: যিকর মানে কুরআন, অথবা সাধারণভাবে ওহি। কুরতুবী মাহদাভীর সূত্রে বলেন আল্লাহর কিতাবসমূহের কথা, বহুবচনে, যা নবীদের কাছে পৌঁছানো হয়। আয়াতের শব্দটি অনির্দিষ্ট। তাই এ পাঠগুলো পরস্পরের প্রতিদ্বন্দ্বী নয়, প্রতিটিই কোনো না কোনো যিকরের নাম।"
+          },
+          {
+            "en": "As-Sa'di describes what the reminder contains rather than what form it takes. The angels, he says, cast the noblest of commands, and that is the dhikr by which Allah shows mercy to His servants, reminding them in it of what benefits them and what sets their affairs right. In his reading the reminder is first of all a mercy. His verb for what it does, yudhakkiruhum, he reminds them, is from the same root as dhikr. The revelation brings the servant back to what is good for him.",
+            "bn": "সা'দী যিকরের রূপ নয়, তার ভেতরের কথা বলেন। তাঁর মতে ফেরেশতারা পৌঁছে দেয় সবচেয়ে মর্যাদাপূর্ণ আদেশ। সেটিই যিকর, যার মাধ্যমে আল্লাহ তাঁর বান্দাদের প্রতি রহমত করেন। এতে তিনি তাদের মনে করিয়ে দেন কোনটা তাদের উপকারে আসে, কোনটা তাদের জীবন ঠিকঠাক রাখে। সা'দীর পাঠে যিকর সবার আগে রহমত। যিকর কী করে, তা বোঝাতে তিনি যে ক্রিয়া ব্যবহার করেন, ইউযাক্কিরুহুম, অর্থাৎ তিনি তাদের মনে করিয়ে দেন, সেটি যিকরেরই ধাতু থেকে। ওহি বান্দাকে ফিরিয়ে আনে তার নিজের কল্যাণের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Angel in a Man's Form",
+          "bn": "মানুষের রূপ ধরে আসা ফেরেশতা"
+        },
+        "p": [
+          {
+            "en": "No commentator consulted attaches a hadith to this verse, and Ma'arif al-Qur'an notes that no traceable hadith fixes the meaning of these five descriptions. The report of the surah coming down in a cave at Mina is given on the page for 77:1 and is not repeated here. One sound narration, attached to this verse by none of these commentators, does describe the delivery the verse speaks of, told from the side of the one who received it.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। মাআরিফুল কুরআন জানায়, এই পাঁচ বিবরণের অর্থ নির্দিষ্ট করে দেয় এমন কোনো সূত্রযুক্ত হাদীস নেই। মিনার একটি গুহায় সূরাটি নাজিল হওয়ার বর্ণনা ৭৭:১ আয়াতের পাতায় এসেছে, এখানে আর তা দোহরানো হলো না। তবে একটি সহীহ বর্ণনা আছে, যা এ তাফসীরকারদের কেউ এ আয়াতের সঙ্গে যুক্ত করেননি। সেটি এই আয়াতে বলা পৌঁছে দেওয়ার কাজটিকেই বর্ণনা করে, যিনি গ্রহণ করতেন তাঁর দিক থেকে।"
+          },
+          {
+            "en": "In al-Bukhari's Sahih, Hadith 2, it reads: Narrated 'Aisha: (the mother of the faithful believers) Al-Harith bin Hisham asked Allah's Messenger (ﷺ) \"O Allah's Messenger (ﷺ)! How is the Divine Inspiration revealed to you?\" Allah's Messenger (ﷺ) replied, \"Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired. Sometimes the Angel comes in the form of a man and talks to me and I grasp whatever he says.\"",
+            "bn": "সহীহ বুখারীর ২ নম্বর হাদীসে এসেছে: উম্মুল মুমিনীন আয়েশা (রাঃ) বর্ণনা করেন, হারিস ইবন হিশাম (রাঃ) রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করলেন, হে আল্লাহর রাসূল, আপনার কাছে ওহি কীভাবে আসে? রাসূলুল্লাহ ﷺ বললেন: কখনো তা আসে ঘণ্টার ঝনঝন ধ্বনির মতো, আর এটাই আমার জন্য সবচেয়ে কঠিন। তারপর সে অবস্থা কেটে যায়, ততক্ষণে তিনি যা বলেছেন তা আমি আত্মস্থ করে নিই। আর কখনো ফেরেশতা মানুষের রূপ ধরে আমার সামনে আসেন, আমার সঙ্গে কথা বলেন, আর তিনি যা বলেন আমি তা আত্মস্থ করি।"
+          },
+          {
+            "en": "The report goes on: 'Aisha added: Verily I saw the Prophet (ﷺ) being inspired divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over). The hadith speaks of revelation to the Prophet ﷺ in general and does not mention this verse; it is quoted to show what the verse's two words carry. Al-Bukhari placed it in his Sahih, and that is the collector's own standing for it.",
+            "bn": "বর্ণনাটি আরও বলে: আয়েশা (রাঃ) বলেন, আমি প্রচণ্ড শীতের দিনেও তাঁর উপর ওহি নাজিল হতে দেখেছি। ওহি শেষ হলে দেখতাম তাঁর কপাল থেকে ঘাম ঝরছে। হাদীসটি সাধারণভাবে নবী ﷺ-এর কাছে ওহি আসার কথা বলে, এ আয়াতের উল্লেখ এতে নেই। এখানে আনা হয়েছে শুধু এটুকু দেখাতে যে আয়াতের দুটি শব্দের ভেতরে কী আছে। ইমাম বুখারী হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন। সংকলকের নিজের দেওয়া মর্যাদা এটুকুই।"
+          },
+          {
+            "en": "Set beside the verse, the hadith fills in what the commentators summarise. Sometimes the reminder came as a sound so heavy that it passed only once its words were taken in; sometimes the angel spoke as a man and the Prophet ﷺ grasped what he said. Either way it arrived whole, at a cost the body showed: the casting of 77:5, seen from the receiving end.",
+            "bn": "আয়াতের পাশে রাখলে তাফসীরকারেরা যা সংক্ষেপে বলেছেন, হাদীসটি তা ভরাট করে দেয়। কখনো যিকর আসত এমন ভারী ধ্বনিতে, যা কেটে যেত কেবল কথাগুলো আত্মস্থ হওয়ার পর। কখনো ফেরেশতা মানুষের রূপে কথা বলতেন, আর নবী ﷺ তাঁর কথা আত্মস্থ করতেন। দুই অবস্থাতেই যিকর পৌঁছাত পুরোপুরি, আর তার ভার দেখা যেত শরীরে। গ্রহণকারীর দিক থেকে দেখলে ৭৭:৫ আয়াতের পৌঁছে দেওয়া এমনই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cast as Excuse or Warning",
+          "bn": "ওজর শেষ করতে, নয়তো সতর্ক করতে"
+        },
+        "p": [
+          {
+            "en": "77:6 finishes the thought: 'udhran aw nudhra. At-Tabari reads it straight on from 77:5: those who cast a reminder to the messengers, as an excuse from Allah to His creation and a warning from Him to them. Al-Qurtubi lists, among the grammatical options, that the two words may stand in apposition to dhikran, so that the reminder itself is the excuse or the warning. As-Sa'di explains both halves: it warns people of the fears that lie ahead of them and cuts off their excuse, so they have no argument against Allah.",
+            "bn": "৭৭:৬ আয়াতে কথাটি পূর্ণ হয়: উযরান আও নুযরা। তাবারী একে পড়েন ৭৭:৫ আয়াতের সঙ্গে টানা: যারা রাসূলদের কাছে যিকর পৌঁছে দেয়, সৃষ্টির প্রতি আল্লাহর পক্ষ থেকে ওজর শেষ করে দিতে এবং তাঁর পক্ষ থেকে তাদের সতর্ক করতে। কুরতুবী ব্যাকরণের সম্ভাব্য দিকগুলোর মধ্যে উল্লেখ করেন, শব্দ দুটি যিকরান-এর বদল হতে পারে। তখন যিকর নিজেই ওজর শেষ করার বাণী, অথবা সতর্কবাণী। সা'দী দুটো দিকই খুলে বলেন: সামনে যে ভয়ের বিষয়গুলো আছে, যিকর মানুষকে সে সম্পর্কে সতর্ক করে আর তাদের অজুহাতের পথ বন্ধ করে দেয়। ফলে আল্লাহর বিরুদ্ধে তাদের কোনো যুক্তি থাকে না।"
+          },
+          {
+            "en": "Who each half is for, the early authorities put differently. Qatadah, in both at-Tabari and al-Qurtubi, says: an excuse for Allah to His creation, and a warning for the believers, who benefit from it and take it up. Al-Qurtubi also brings Ibn 'Abbas (RA), through ad-Dahhak, reading 'udhr as what Allah casts of the excuses of His friends, which is repentance, and nudhr as the warning to His enemies. From Abu Salih he reports that the messengers are meant, who excuse and warn.",
+            "bn": "কোন অংশ কার জন্য, এ নিয়ে পূর্বসূরিদের কথা ভিন্ন। তাবারী ও কুরতুবী দুজনের কাছেই কাতাদার কথা আছে: সৃষ্টির প্রতি আল্লাহর ওজর শেষ করা, আর মুমিনদের জন্য সতর্কবাণী, যারা তা থেকে উপকার নেয় ও তা আঁকড়ে ধরে। কুরতুবী দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যাও আনেন। তাঁর মতে উযর হলো আল্লাহ তাঁর বন্ধুদের যে ওজর দান করেন, আর সেটি হলো তওবা। আর নুযর হলো তাঁর শত্রুদের প্রতি সতর্কবাণী। আবু সালিহ থেকে কুরতুবী বর্ণনা করেন, এখানে রাসূলদের বোঝানো হয়েছে, যারা ওজর শেষ করেন ও সতর্ক করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delivered the Whole Way",
+          "bn": "পুরো পথ পেরিয়ে পৌঁছেছে"
+        },
+        "p": [
+          {
+            "en": "Read together, the commentators describe a chain of handing on. In the Muyassar the angels receive the revelation from Allah and bring it down; in at-Tabari they convey it to the messengers; in Ibn Kathir they descend by His command and cast it; in Qutrub's view the messengers cast it on to their nations. Each link is someone sent, carrying what is not his own. By the time a verse is recited in a mosque near you, or read from a printed copy, the reminder has come the whole way.",
+            "bn": "সব তাফসীর একসঙ্গে পড়লে হাতবদলের একটি ধারা চোখে পড়ে। মুয়াসসারে ফেরেশতারা আল্লাহর কাছ থেকে ওহি গ্রহণ করে তা নিয়ে নামে। তাবারীতে তারা তা রাসূলদের কাছে পৌঁছে দেয়। ইবন কাসীরে তারা আল্লাহর আদেশে নেমে এসে তা পৌঁছায়। আর কুতরুবের মতে রাসূলরা তা পৌঁছে দেন নিজ নিজ উম্মতের কাছে। প্রতিটি কড়িই কারও পাঠানো, আর বহন করে এমন কিছু যা তার নিজের নয়। আপনার কাছের মসজিদে যখন একটি আয়াত তিলাওয়াত হয়, বা ছাপা মুসহাফ থেকে পড়া হয়, ততক্ষণে যিকর পুরো পথ পেরিয়ে এসেছে।"
+          },
+          {
+            "en": "That is why 77:6 follows so closely. As-Sa'di says the reminder cuts off excuses, and the Muyassar says it is sent so that people have no argument left. The verse does not ask anyone to go and fetch the reminder; others have carried it. Only the receiving is left. Ibn 'Abbas's reading keeps the gentler half in view as well: for Allah's friends, the excuse He gives is repentance. Then 77:7 names what the reminder is about, a promise that will surely occur.",
+            "bn": "এ কারণেই ৭৭:৬ আয়াত এত কাছাকাছি আসে। সা'দী বলেন, যিকর অজুহাতের পথ বন্ধ করে দেয়। মুয়াসসার বলে, যিকর পাঠানো হয় যাতে মানুষের হাতে আর কোনো যুক্তি না থাকে। আয়াতটি কাউকে যিকর খুঁজে আনতে বলে না, অন্যরা তা বয়ে এনেছে। বাকি আছে শুধু গ্রহণ করা। ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা কোমল দিকটিও সামনে রাখে: আল্লাহর বন্ধুদের জন্য তাঁর দেওয়া ওজর হলো তওবা। তারপর ৭৭:৭ আয়াত বলে দেয় যিকরের বিষয় কী: এমন এক ওয়াদা, যা অবশ্যই ঘটবে।"
+          }
+        ]
+      }
+    ]
+  },
   "77:8": {
     "sections": [
       {
