@@ -1587,6 +1587,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Sentence Lands",
+          "bn": "বাক্য যেখানে গিয়ে থামে"
+        },
+        "p": [
+          {
+            "en": "Nusari'u lahum fi al-khayrat; bal la yash'urun: is it that We hasten for them in good things? Rather, they do not perceive. These seven Arabic words are the second half of a sentence that began in 23:55 with the wealth and children God extends to the deniers. That first half, and the assumption it exposes, has its own reflection. This verse holds what is left: the predicate the question was waiting for, and the reply to it. The full weight of the thought falls here, on a verb about speed and a phrase about good.",
+            "bn": "নুসারিউ লাহুম ফিল খাইরাত, বাল লা ইয়াশউরূন: আমি কি তাদের জন্য কল্যাণে দ্রুততা করছি? না, বরং তারা বোঝে না। আরবি এই সাতটি শব্দ আসলে একটি বাক্যের দ্বিতীয় অংশ। বাক্যটা শুরু হয়েছিল ২৩:৫৫ আয়াতে, অস্বীকারকারীদের আল্লাহ যে ধন আর সন্তান দিয়ে যাচ্ছেন সেই কথা দিয়ে। প্রথম অংশ আর তার ভেতরের ভুল ধারণা নিয়ে আলাদা আলোচনা আছে। এ আয়াতে বাকিটুকু: প্রশ্ন যে বিধেয়ের অপেক্ষায় ছিল সেটা, আর তার জবাব। পুরো ভাবনার ভার এসে পড়ে এখানেই, দ্রুততার একটি ক্রিয়া আর কল্যাণের একটি শব্দবন্ধের উপর।"
+          },
+          {
+            "en": "At-Tabari, explaining the sentence under 23:55, shows how the two verses join. He reads the ma of annama as alladhi, that which, so the question runs: do they reckon that what We give them in this passing world of wealth and children is Us hastening for them? The clause nusari'u lahum is therefore not a fresh statement. It is the conclusion the deniers have drawn, quoted back to them in God's own voice and held up for inspection. The reply, bal la yash'urun, follows in the same breath, with no pause left for an answer.",
+            "bn": "দুই আয়াত কীভাবে জোড়া লাগে, তাবারী তা দেখান ২৩:৫৫ আয়াতের ব্যাখ্যায়। তিনি আন্নামা শব্দের মা-কে পড়েন আল্লাযী অর্থে, অর্থাৎ যা কিছু। তাহলে প্রশ্নটা দাঁড়ায়: দুনিয়ার এই নগদ জীবনে আমি তাদের যে ধন আর সন্তান দিচ্ছি, তারা কি ভাবে তা দিয়ে আমি তাদের জন্য দ্রুততা করছি? কাজেই নুসারিউ লাহুম নতুন কোনো ঘোষণা নয়। অস্বীকারকারীরা নিজেরা যে সিদ্ধান্তে পৌঁছেছে, আল্লাহ সেটাই নিজের ভাষায় তাদের সামনে তুলে ধরছেন, যাচাই করে দেখার জন্য। জবাব বাল লা ইয়াশউরূন আসে একই নিঃশ্বাসে। উত্তর দেওয়ার কোনো ফাঁক রাখা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Racing on Their Behalf",
+          "bn": "তাদের হয়ে দৌড়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the verb with two others of the same pattern: nusabiqu lahum fi khayrat al-akhira wa-nubadiru lahum fiha, We race ahead for them in the good things of the Hereafter and hurry to bring them those good things. Notice where he places the good. It is not in this world but in the next. On his reading the deniers have not merely enjoyed their wealth; they have taken it as an early instalment of a reward still to come. The money in the hand becomes, in their minds, a sign of a seat already reserved.",
+            "bn": "তাবারী ক্রিয়াটির ব্যাখ্যা দেন একই গড়নের আরও দুটি ক্রিয়া দিয়ে: নুসাবিকু লাহুম ফী খাইরাতিল আখিরাহ, ওয়া নুবাদিরু লাহুম ফীহা। অর্থাৎ আখিরাতের কল্যাণে আমি তাদের হয়ে আগে আগে দৌড়াচ্ছি, তাড়াতাড়ি তা তাদের কাছে পৌঁছে দিচ্ছি। কল্যাণটা তিনি কোথায় রাখছেন, খেয়াল করুন। দুনিয়ায় নয়, আখিরাতে। তাঁর পাঠে অস্বীকারকারীরা শুধু সম্পদ ভোগই করেনি। তারা সেটাকে ধরে নিয়েছে সামনে আসা পুরস্কারের অগ্রিম কিস্তি হিসেবে। হাতের টাকা তাদের মনে হয়ে ওঠে আগেভাগে সংরক্ষিত আসনের প্রমাণ।"
+          },
+          {
+            "en": "The verb is God's, and the deniers stand only as beneficiaries: lahum, for them. They do not hasten; they are hastened for. Al-Baghawi spells out what they imagine that hastening to be: na'ajjilu lahum fi al-khayrat, We bring good things forward for them early, and set them before them as a reward for their deeds, because We are pleased with them. Two assumptions sit inside that gloss. Their deeds, they suppose, have earned something, and God's pleasure with them is the reason it arrived so quickly.",
+            "bn": "ক্রিয়াটি আল্লাহর, আর অস্বীকারকারীরা কেবল প্রাপক: লাহুম, তাদের জন্য। তারা নিজেরা ছোটে না, তাদের জন্য ছোটা হয়। এই ছোটাকে তারা কী ভাবে, বাগাভী তা খুলে বলেন: নুআজ্জিলু লাহুম ফিল খাইরাত। অর্থাৎ আমি তাদের জন্য কল্যাণ আগেভাগে এনে দিচ্ছি, তাদের আমলের সওয়াব হিসেবে সামনে রেখে দিচ্ছি, কারণ আমি তাদের উপর সন্তুষ্ট। এই ব্যাখ্যার ভেতরে দুটি ধারণা লুকিয়ে আছে। এক, তাদের আমল কিছু একটা অর্জন করেছে। দুই, তাদের উপর আল্লাহর সন্তুষ্টিই কারণ, যে জন্য তা এত তাড়াতাড়ি এসেছে।"
+          },
+          {
+            "en": "Al-Muyassar, which the API groups across 23:55 and 23:56, adds one word that names the mood: a good hastened to them that they deserve, yastahiqqunahu. Put the three glosses together and the presumption has a clear outline. Deserved, early, and a token of approval: that is how the comfortable denier reads his own prosperity. The verse does not argue with each part in turn. It sets the whole frame aside at once, and, as its last words will show, the error it names lies not in the gift but in the one reading it.",
+            "bn": "মুয়াসসার, যাকে API ২৩:৫৫ ও ২৩:৫৬ একসঙ্গে ধরে রেখেছে, একটি শব্দ যোগ করে মনের অবস্থাটা ধরিয়ে দেয়: এমন কল্যাণ, যা তাদের প্রাপ্য, ইয়াসতাহিক্কূনাহু। তিনটি ব্যাখ্যা পাশাপাশি রাখলে ধারণাটার চেহারা পরিষ্কার হয়ে যায়। প্রাপ্য, আগাম, আর সন্তুষ্টির চিহ্ন। সচ্ছল অস্বীকারকারী নিজের সচ্ছলতাকে এভাবেই পড়ে। আয়াতটি একেকটা অংশ ধরে তর্ক করে না। পুরো কাঠামোটাই এক ধাক্কায় সরিয়ে দেয়। আর শেষ শব্দগুলো দেখিয়ে দেবে, ভুলটা দানে নয়, দান যে পড়ছে তার পাঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mujahid Names the Audience",
+          "bn": "মুজাহিদ শ্রোতার নাম বলেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari carries a report from Mujahid, through Ibn Abi Najih, that glosses each verb in turn. On annama numidduhum he said: We give them. On nusari'u lahum he said: We increase them in good, numli lahum, We grant them respite. Then he added: this is about Quraysh. At-Tabari gives the same from Ibn Jurayj from Mujahid. The gloss does something careful with the word good. It keeps it, an increase in good, and then sets beside it the word for a reprieve, as if the two were a single act seen from two sides.",
+            "bn": "তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদের একটি বক্তব্য এনেছেন, যেখানে তিনি ক্রিয়াগুলোর অর্থ একে একে বলেছেন। আন্নামা নুমিদ্দুহুম সম্পর্কে তিনি বলেন: আমি তাদের দিই। নুসারিউ লাহুম সম্পর্কে বলেন: আমি তাদের কল্যাণে বাড়িয়ে দিই, নুমলী লাহুম, তাদের অবকাশ দিই। তারপর যোগ করেন: এ কথা কুরাইশ সম্পর্কে। ইবন জুরাইজের সূত্রেও তাবারী মুজাহিদ থেকে একই কথা এনেছেন। কল্যাণ শব্দটা নিয়ে এ ব্যাখ্যা বেশ সাবধানী। শব্দটা সে রেখে দেয়, কল্যাণে বৃদ্ধি। তারপর তার পাশে বসায় অবকাশের শব্দ। যেন দুটো একই কাজ, শুধু দুই দিক থেকে দেখা।"
+          },
+          {
+            "en": "At-Tabari's own gloss under 23:55 ties the pronoun to the factions just described, those who split their religion into pieces. Mujahid's naming of Quraysh points to a narrower first audience, the Prophet's own opponents in Makkah. The two are reported side by side, one broad and one specific, and neither text sets them against each other. Either way the verse is aimed at a definite group who denied the message and took their comfort as proof that all was well with them. It describes them. It does not hand anyone a list of names for today.",
+            "bn": "২৩:৫৫ আয়াতে তাবারী নিজে সর্বনামটিকে জুড়েছেন ঠিক আগে বর্ণিত দলগুলোর সঙ্গে, যারা নিজেদের দ্বীনকে টুকরো টুকরো করেছিল। মুজাহিদ কুরাইশের নাম নিয়ে প্রথম শ্রোতাদের আরও নির্দিষ্ট করেন: মক্কায় নবী ﷺ-এর নিজের বিরোধীরা। দুটি বক্তব্য পাশাপাশি এসেছে, একটি ব্যাপক, অন্যটি নির্দিষ্ট। কোনো লেখাই একটাকে অন্যটার বিপরীতে দাঁড় করায়নি। যেভাবেই পড়া হোক, আয়াতের লক্ষ্য এক নির্দিষ্ট দল, যারা বার্তাকে অস্বীকার করেছিল আর নিজেদের সচ্ছলতাকে ধরে নিয়েছিল সব ঠিক থাকার প্রমাণ বলে। আয়াত তাদের বর্ণনা দেয়। আজকের কারও নামের তালিকা কারও হাতে তুলে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read With a Different Letter",
+          "bn": "ভিন্ন হরফে পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records that Abu 'Abd al-Rahman as-Sulami and 'Abd al-Rahman ibn Abi Bakra read yusari'u, with a ya in place of the nun. The subject then becomes imdaduna, Our extending: the provision itself hastens for them in good things. He allows a second sense on that reading, with a word understood, so that it means Allah hastens for them. At-Tabari preserves the exchange behind it. Khalid al-Hadhdha' asked 'Abd al-Rahman ibn Abi Bakra about the phrase and he recited it with the ya, which at-Tabari takes to mean: Our supply of wealth and sons hastens for them in good things.",
+            "bn": "কুরতুবী জানান, আবূ আবদির রহমান আস-সুলামী ও আবদুর রহমান ইবন আবী বাকরা পড়েছেন ইউসারিউ, নূনের জায়গায় ইয়া দিয়ে। তখন কর্তা হয়ে যায় ইমদাদুনা, আমার জোগান দেওয়া। অর্থাৎ জোগানটাই তাদের জন্য কল্যাণে দ্রুত এগিয়ে চলে। এই পাঠে তিনি আরেকটি অর্থও সম্ভব মনে করেন, একটি শব্দ উহ্য ধরে: আল্লাহ তাদের জন্য দ্রুততা করেন। এর পেছনের কথোপকথনটা তাবারী সংরক্ষণ করেছেন। খালিদ আল-হাযযা আবদুর রহমান ইবন আবী বাকরাকে শব্দগুলো সম্পর্কে জিজ্ঞেস করেন, আর তিনি তা ইয়া দিয়ে পড়ে শোনান। তাবারীর ধারণা, তিনি বোঝাতে চেয়েছেন: ধন আর সন্তান দিয়ে আমার জোগান তাদের জন্য কল্যাণে দ্রুত এগোয়।"
+          },
+          {
+            "en": "Al-Qurtubi lists further readings. One, reported by an-Nahhas, has yusara'u in the passive, with three possible ways to parse it. Al-Mahdawi reports that al-Hurr an-Nahwi read nusri'u, which, the report adds, carries the same meaning as the reading of the majority. Ath-Tha'labi then gives the verdict al-Qurtubi relays: the correct reading is that of the generality, nusari'u, because it matches numidduhum, We extend, in the verse before. The first-person voice of the giving runs on unbroken into the first-person voice of the hastening.",
+            "bn": "কুরতুবী আরও কয়েকটি পাঠের কথা বলেন। নাহহাসের বর্ণনায় একটি পাঠ ইউসারাউ, যেখানে কে দ্রুততা করছে তার নাম নেই, আর এর বিশ্লেষণ তিনটি উপায়ে হতে পারে। মাহদাবী জানান, হুর আন-নাহবী পড়েছেন নুসরিউ। বর্ণনায় এও আছে যে এর অর্থ অধিকাংশের পাঠের অর্থই। এরপর সা'লাবীর রায় কুরতুবী উদ্ধৃত করেন: সঠিক পাঠ সাধারণের পাঠ, নুসারিউ। কারণ এটা আগের আয়াতের নুমিদ্দুহুম, আমি জোগান দিই, শব্দের সঙ্গে মিলে যায়। দেওয়ার কথা শুরু হয়েছিল আল্লাহর নিজের 'আমি' দিয়ে, দ্রুততার কথাও সেই 'আমি'-র মুখেই এগিয়ে চলে।"
+          },
+          {
+            "en": "What the readings show is worth a moment. Whether the subject is God, His extending, or left unnamed, the thing being questioned does not move. In every version someone has concluded that a flow of provision is a race run for his good, and in every version the reply is the same three words. The grammar can be turned several ways; the assumption beneath it is denied in all of them. A reader who meets a different recitation of this phrase meets the same warning, in the same place.",
+            "bn": "এই পাঠগুলো থেকে একটা জিনিস চোখে পড়ে। কর্তা আল্লাহ হোন, তাঁর জোগান হোক, বা কর্তার নামই না থাকুক, প্রশ্নের বিষয়টা নড়ে না। প্রতিটি পাঠেই কেউ একজন ধরে নিয়েছে, রিজিকের এই স্রোত তার কল্যাণের জন্য চলা এক দৌড়। আর প্রতিটি পাঠেই জবাব সেই একই তিনটি শব্দ। ব্যাকরণ কয়েক দিকে ঘোরানো যায়, কিন্তু তার নিচের ধারণাটা সবখানেই নাকচ। এ বাক্যের ভিন্ন কোনো কিরাআত যিনি শুনবেন, তিনিও একই জায়গায় একই সতর্কবার্তা পাবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word Turns It",
+          "bn": "এক শব্দে মোড় ঘোরে"
+        },
+        "p": [
+          {
+            "en": "The reply does not say no. It begins with bal, rather, and moves past the question to the questioner. The deniers supposed that God was rushing good to them; the verse does not dispute that good has reached them. It points instead at what they lack: la yash'urun, they do not perceive. Al-Qurtubi completes the clause: they do not perceive that this is a fitna for them and an istidraj, a trial and a drawing-on. Al-Baghawi completes it more briefly: they do not perceive that it is a drawing-on for them.",
+            "bn": "জবাবটা সরাসরি 'না' বলে না। শুরু হয় বাল দিয়ে, অর্থাৎ বরং, আর প্রশ্ন পেরিয়ে চলে যায় প্রশ্নকারীর কাছে। অস্বীকারকারীরা ভেবেছিল, আল্লাহ তাদের দিকে কল্যাণ ছুটিয়ে পাঠাচ্ছেন। তাদের কাছে কল্যাণ যে পৌঁছেছে, আয়াত তা নিয়ে বিতর্ক করে না। আঙুল তোলে তাদের ঘাটতির দিকে: লা ইয়াশউরূন, তারা বোঝে না। কুরতুবী বাক্যটা পূর্ণ করেন এভাবে: তারা বোঝে না যে এটা তাদের জন্য ফিতনা আর ইসতিদরাজ, অর্থাৎ পরীক্ষা আর ধাপে ধাপে টেনে নেওয়া। বাগাভী আরও সংক্ষেপে বলেন: তারা বোঝে না যে এ তাদের জন্য ইসতিদরাজ।"
+          },
+          {
+            "en": "The commentators render the verb two ways. Under 23:55, at-Tabari puts it as la ya'lamun, they do not know that My extending to them is only a respite and a drawing-on. Al-Muyassar puts it as la yuhissuna, they do not sense it. One is the language of knowing, the other closer to feeling, and the verse leaves room for both. The failure is the same in each case: the comfort is seen clearly and its purpose missed entirely. The deniers are not blind to the gift. They are blind to the test inside it.",
+            "bn": "তাফসীরকারেরা ক্রিয়াটির অর্থ বলেন দুইভাবে। ২৩:৫৫ আয়াতের আলোচনায় তাবারী বলেন লা ইয়া'লামূন: তারা জানে না যে তাদের প্রতি আমার জোগান কেবল অবকাশ আর ধাপে ধাপে টেনে নেওয়া। মুয়াসসার বলে লা ইউহিসসূন: তারা টের পায় না। একটি জানার ভাষা, অন্যটি অনুভবের কাছাকাছি। আয়াতে দুটোরই জায়গা আছে। ব্যর্থতা দুই ক্ষেত্রেই এক: আরামটা পরিষ্কার চোখে পড়ে, অথচ তার উদ্দেশ্য পুরোপুরি চোখ এড়িয়ে যায়। অস্বীকারকারীরা দানের ব্যাপারে অন্ধ নয়। তারা অন্ধ দানের ভেতরে লুকানো পরীক্ষার ব্যাপারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Given as Trial",
+          "bn": "পরীক্ষা হয়ে আসা কল্যাণ"
+        },
+        "p": [
+          {
+            "en": "Al-Muyassar's gloss turns on a single admission. It does not call the good false. It says: We only hasten the good to them as a fitna for them and as istidraj, but they do not sense it. The good stays good; what changes is its purpose. Mujahid's word, numli lahum, points the same way: a respite granted, a rope lengthened. Respite here is neither neglect nor approval. It is time given, and time given is time that will be asked about, which is why the verse calls the failure a failure to perceive.",
+            "bn": "মুয়াসসারের ব্যাখ্যা একটি স্বীকারোক্তির উপর দাঁড়িয়ে। কল্যাণকে সে মিথ্যা বলে না। বলে: আমি তাদের জন্য কল্যাণ তাড়াতাড়ি আনি কেবল ফিতনা আর ইসতিদরাজ হিসেবে, কিন্তু তারা টের পায় না। কল্যাণ কল্যাণই থাকে, বদলে যায় তার উদ্দেশ্য। মুজাহিদের শব্দ নুমলী লাহুমও একই দিকে ইঙ্গিত করে: অবকাশ দেওয়া, দড়ি লম্বা করে ছেড়ে দেওয়া। এই অবকাশ অবহেলা নয়, সন্তুষ্টিও নয়। এ হলো দেওয়া সময়, আর দেওয়া সময়ের হিসাব চাওয়া হবে। সেজন্যই আয়াত ব্যর্থতাটাকে বলে না-বোঝার ব্যর্থতা।"
+          },
+          {
+            "en": "Ibn Kathir reads the whole sentence through three words, istidraj, inzar and imla', a drawing-on, a deferment and a lengthening of the rope, and his chain of supporting verses belongs to the sentence as a whole, already traced under 23:55. Here it is enough to see what this half adds. The test sits inside the verb itself. What feels to the deniers like speed towards good is, seen from the other side, a delay before the reckoning. They feel the hastening keenly. The delay is the part they do not perceive.",
+            "bn": "ইবন কাসীর পুরো বাক্যটা পড়েন তিনটি শব্দ দিয়ে: ইসতিদরাজ, ইনযার আর ইমলা। ধাপে ধাপে টেনে নেওয়া, সময় পিছিয়ে দেওয়া, আর দড়ি লম্বা করা। সমর্থনে তিনি যে আয়াতগুলো এনেছেন, সেগুলো গোটা বাক্যের, আর ২৩:৫৫ আয়াতের আলোচনায় তা দেখা হয়ে গেছে। এখানে শুধু দেখার বিষয়, এই অর্ধেক কী যোগ করে। পরীক্ষাটা লুকিয়ে আছে ক্রিয়ার ভেতরেই। অস্বীকারকারীদের কাছে যা কল্যাণের দিকে দ্রুত ছুটে চলা, উল্টো দিক থেকে দেখলে তা হিসাবের আগে দেওয়া বিলম্ব। দ্রুততাটা তারা ভালোই টের পায়। বিলম্বটাই তারা বোঝে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hastened For, or Hastening",
+          "bn": "কারও জন্য ছোটা, নাকি নিজে ছোটা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi closes his note on this verse with a bridge: then He mentioned those who hasten in good things. Five verses on, in 23:61, the phrase returns: ula'ika yusari'una fi al-khayrat wa-hum laha sabiqun, it is those who hasten to good deeds, and they outstrip others in them. The verb and the phrase are the same, and the grammar is reversed. In 23:56 God is the subject and the deniers only receive, lahum. In 23:61 the believers are the subject, and they themselves do the hastening.",
+            "bn": "বাগাভী এ আয়াতের আলোচনা শেষ করেন একটি সেতু দিয়ে: তারপর তিনি কল্যাণে দ্রুতগামীদের কথা বললেন। পাঁচ আয়াত পরে, ২৩:৬১ আয়াতে, শব্দবন্ধটা ফিরে আসে: উলাইকা ইউসারিঊনা ফিল খাইরাতি ওয়া হুম লাহা সাবিকূন। এরাই কল্যাণকাজে দ্রুত ছোটে, আর তাতে তারা অগ্রগামী। ক্রিয়া এক, শব্দবন্ধও এক, কিন্তু ভূমিকা উল্টে গেছে। ২৩:৫৬ আয়াতে কর্তা আল্লাহ, অস্বীকারকারীরা কেবল গ্রহীতা, লাহুম। ২৩:৬১ আয়াতে কর্তা মুমিনরা, ছোটার কাজটা তারা নিজেরাই করে।"
+          },
+          {
+            "en": "Between the two stand the believers of 23:57 to 23:60: apprehensive from fear of their Lord, believing in His signs, associating no one with Him, and giving what they give while their hearts are fearful that they will return to Him. Those are the people the Qur'an calls hasteners. The contrast is brief but pointed. The deniers wait for good to be raced towards them and take its arrival as a verdict; the believers race towards good and still give with fearful hearts. In this passage the speed belongs to whoever runs.",
+            "bn": "দুই আয়াতের মাঝখানে ২৩:৫৭ থেকে ২৩:৬০ আয়াতের মুমিনরা। তারা রবের ভয়ে শঙ্কিত, তাঁর নিদর্শনে বিশ্বাসী, তাঁর সঙ্গে কাউকে শরিক করে না। যা দেওয়ার দেয়, অথচ অন্তর কাঁপে এই ভয়ে যে তাঁর কাছেই ফিরে যেতে হবে। কুরআন এদেরই বলে দ্রুতগামী। তুলনাটা ছোট, কিন্তু ধারালো। অস্বীকারকারীরা বসে থাকে, কল্যাণ তাদের দিকে ছুটে আসবে বলে, আর এসে পড়লে সেটাকেই রায় ধরে নেয়। মুমিনরা নিজেরাই কল্যাণের দিকে ছোটে, তবু ভয়ে কাঁপা অন্তর নিয়ে দান করে। এ অংশে দ্রুততার কৃতিত্ব তারই, যে নিজে দৌড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Turned Inward",
+          "bn": "প্রশ্ন এবার পাঠকের দিকে"
+        },
+        "p": [
+          {
+            "en": "The verse describes a particular group: the deniers this passage addresses, who read their wealth and sons as proof that all was well with them. It describes what the text describes and licenses nothing against any living person or community. It passes no sentence on anyone who is rich today, prosperous or blessed with children, and it gives no one the right to look at a neighbour's comfort and call it istidraj. Nor does it turn poverty into a mark of favour. It denies one inference only: that provision, by itself, is approval.",
+            "bn": "আয়াতটি একটি নির্দিষ্ট দলের বর্ণনা দেয়: এ অংশ যাদের উদ্দেশ করে বলা, সেই অস্বীকারকারীরা, যারা নিজেদের ধন আর সন্তানকে সব ঠিক থাকার প্রমাণ বলে পড়েছিল। পাঠ যা বর্ণনা করে, আয়াত শুধু সেটুকুই বলে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো অনুমতি দেয় না। আজ যিনি ধনী, সচ্ছল বা সন্তানে ভরা সংসারের মালিক, তাঁর উপর এ আয়াত কোনো রায় দেয় না। প্রতিবেশীর আরাম দেখে তাকে ইসতিদরাজ বলার অধিকারও কাউকে দেয় না। আবার দারিদ্র্যকেও সন্তুষ্টির চিহ্ন বানায় না। আয়াত নাকচ করে কেবল একটি সিদ্ধান্ত: রিজিক নিজে নিজেই সন্তুষ্টির প্রমাণ।"
+          },
+          {
+            "en": "On hadith: Ibn Kathir cites under this verse a narration from the Musnad of Imam Ahmad on the authority of Ibn Mas'ud (RA), about God giving the world to those He loves and those He does not. It could not be confirmed on a hadith page carrying its collector's own grading, so this article leaves it aside. None of the other commentaries fetched for the verse attaches a hadith to it, and none gives an occasion of revelation. Its placement does that work instead, between the divided factions and the hastening believers.",
+            "bn": "হাদীসের কথা: এ আয়াতের আলোচনায় ইবন কাসীর ইমাম আহমাদের মুসনাদ থেকে ইবন মাসঊদ (রাঃ)-এর সূত্রে একটি বর্ণনা এনেছেন। তাতে আছে, আল্লাহ দুনিয়া দেন যাকে ভালোবাসেন তাকেও, যাকে ভালোবাসেন না তাকেও। সংকলকের নিজের মাননির্ণয়সহ কোনো হাদীস-পাতায় বর্ণনাটি মিলিয়ে দেখা সম্ভব হয়নি। তাই এ লেখায় সেটি রাখা হয়নি। এ আয়াতের জন্য সংগ্রহ করা অন্য কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদীস জোড়েনি, কোনো শানে নুযূলও দেয়নি। সে কাজটা করে আয়াতের অবস্থান: একদিকে বিভক্ত দলগুলো, অন্যদিকে কল্যাণে ছুটে চলা মুমিনরা।"
+          },
+          {
+            "en": "What remains is the question turned on the reader. Any blessing can be taken the deniers' way, as a race run on my behalf that proves I am in the right. Or it can be taken as a trust, received with thanks and spent in the race the believers run. The verse offers no formula for telling, from the outside, which is which in another person's life. It asks only that I stop reading my own ease as a verdict, and start asking what I am hastening towards.",
+            "bn": "বাকি থাকে প্রশ্নটা, এবার পাঠকের দিকে ফেরানো। যে-কোনো নিয়ামতকে অস্বীকারকারীদের মতো করে নেওয়া যায়, যেন আমার হয়ে কেউ দৌড়াচ্ছে আর তাতেই প্রমাণ হয় আমি ঠিক আছি। আবার আমানত হিসেবেও নেওয়া যায়: শোকরের সঙ্গে গ্রহণ করা, আর মুমিনদের সেই দৌড়ে খরচ করা। অন্যের জীবনে কোনটা কী, বাইরে থেকে তা মাপার কোনো সূত্র আয়াত দেয় না। সে শুধু চায়, আমি নিজের স্বাচ্ছন্দ্যকে রায় ভেবে পড়া বন্ধ করি, আর নিজেকে জিজ্ঞেস করি: আমি কোন দিকে ছুটছি?"
+          }
+        ]
+      }
+    ]
+  },
   "23:62": {
     "sections": [
       {

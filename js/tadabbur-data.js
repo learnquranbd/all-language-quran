@@ -23811,6 +23811,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Strive for Allah with all you have, knowing He placed no dead end in His religion; then pray, give, and hold fast to Him, the best Protector and Helper.",
     "lessonBn": "যা কিছু আছে সব দিয়ে আল্লাহর জন্য চেষ্টা করুন, জেনে রাখুন তাঁর দ্বীনে বেরোনোর পথহীন কোনো সংকট নেই। তারপর নামায কায়েম করুন, যাকাত দিন, আর তাঁকে আঁকড়ে ধরুন, তিনিই সেরা অভিভাবক ও সাহায্যকারী।"
+  },
+  "23:56": {
+    "reflectionEn": "Some people look at their lives and see a race being run on their behalf. The money comes early, the children do well, doors open before they knock. Surely, they think, God is hurrying good their way. The verse repeats that thought in His own voice and answers it with a single turn: no, rather, they do not perceive. The gifts are real; what is missing is the reading of them. A few verses later the same words return with the roles reversed, describing believers who hasten to good things themselves. Nothing here faults the gift or the one who holds it. It asks something else. Am I waiting to be raced for, or am I running?",
+    "reflectionBn": "কেউ কেউ নিজের জীবনের দিকে তাকিয়ে দেখে, যেন তার হয়ে কেউ দৌড়ে চলেছে। টাকা আসে সময়ের আগেই, সন্তানরা ভালো করে, কড়া নাড়ার আগেই দরজা খুলে যায়। মনে হয়, আল্লাহ নিশ্চয়ই কল্যাণ তাড়াতাড়ি তার দিকে পাঠাচ্ছেন। আয়াতটি এই ভাবনাটাই আল্লাহর নিজের ভাষায় তুলে ধরে, তারপর এক কথায় ঘুরিয়ে দেয়: না, বরং তারা বোঝে না। দানগুলো সত্যি। যা নেই, তা হলো দানগুলোর সঠিক পাঠ। কয়েক আয়াত পরেই একই শব্দ ফিরে আসে, কিন্তু ভূমিকা উল্টে যায়। সেখানে মুমিনরা নিজেরাই কল্যাণের দিকে ছুটে যায়। এখানে দানের বা দানপ্রাপ্ত মানুষের কোনো দোষ ধরা হয়নি। প্রশ্নটা অন্য জায়গায়। আমি কি বসে আছি, কেউ আমার হয়ে দৌড়াবে বলে? নাকি আমি নিজেই দৌড়াচ্ছি?",
+    "pointsEn": [
+      "When things come easily to me, do I take the ease itself as proof that I am on the right path?",
+      "In my own life, am I mostly waiting for good to be hurried towards me, or hurrying towards good myself?",
+      "Which blessing have I enjoyed for years without once asking what it is testing in me?",
+      "If a respite is a test, what would passing it look like for me this month?",
+      "When I see someone else prospering, do I envy them, judge them, or turn the question back on myself?"
+    ],
+    "pointsBn": [
+      "কাজ যখন সহজে হয়ে যায়, আমি কি সেই সহজতাকেই ধরে নিই যে আমি ঠিক পথে আছি?",
+      "নিজের জীবনে আমি বেশিরভাগ সময় কী করি: কল্যাণ আমার দিকে ছুটে আসবে বলে অপেক্ষা করি, নাকি নিজেই কল্যাণের দিকে ছুটি?",
+      "কোন নিয়ামত আমি বছরের পর বছর ভোগ করছি, অথচ একবারও ভাবিনি সেটা আমার ভেতরের কোন জিনিসের পরীক্ষা নিচ্ছে?",
+      "অবকাশ যদি পরীক্ষা হয়, তবে এ মাসে সেই পরীক্ষায় পাস করা আমার জন্য দেখতে কেমন হবে?",
+      "অন্য কাউকে সচ্ছল হতে দেখলে আমি কী করি: হিংসা করি, তার বিচার করি, নাকি প্রশ্নটা নিজের দিকেই ফিরিয়ে আনি?"
+    ],
+    "lessonEn": "Do not wait for good to be hurried your way and read it as approval; hasten to good yourself, and treat every ease as a test still running.",
+    "lessonBn": "কল্যাণ আপনার দিকে ছুটে আসছে দেখে তাকে সন্তুষ্টির সনদ ভাববেন না; নিজেই কল্যাণের দিকে ছুটুন, আর প্রতিটি স্বাচ্ছন্দ্যকে চলমান পরীক্ষা মনে করুন।"
   }
 };
 
