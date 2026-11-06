@@ -1459,6 +1459,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "69:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Messenger to the Hearers",
+          "bn": "রাসূল থেকে শ্রোতার দিকে"
+        },
+        "p": [
+          {
+            "en": "Wa-innahu la-tadhkiratun lil-muttaqin: and indeed it is a reminder for the God-conscious. The verse is three Arabic words and follows directly on 69:44 to 69:47, where the surah supposes the impossible: had the Messenger ﷺ made up sayings against Allah, he would have been seized and none could have shielded him. Ibn Kathir's abridged English sums up the point of that passage: the Prophet ﷺ is truthful, righteous and guided, because Allah determined what he conveys. Only then, in its order, comes this verse, which it renders as a Reminder for those who have Taqwa.",
+            "bn": "ওয়া ইন্নাহু লাতাযকিরাতুল লিলমুত্তাকীন: আর নিশ্চয়ই এটা মুত্তাকীদের জন্য উপদেশ। আয়াতটি তিনটি আরবি শব্দের। এর ঠিক আগে ৬৯:৪৪ থেকে ৬৯:৪৭ আয়াতে সূরাটি এক অসম্ভব অবস্থা ধরে নিয়ে কথা বলেছে: রাসূল ﷺ যদি আল্লাহর নামে কোনো কথা বানিয়ে বলতেন, তাঁকে পাকড়াও করা হত, আর কেউ তাঁকে রক্ষা করতে পারত না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ওই অংশের সারকথা বলে দেয়। নবী ﷺ সত্যবাদী, সৎ ও হিদায়াতপ্রাপ্ত, কারণ তিনি কী পৌঁছাবেন তা আল্লাহই নির্ধারণ করেছেন। তার পরেই সেখানে আসে এ আয়াত, যার ইংরেজি অনুবাদে মুত্তাকীদের বলা হয়েছে তাকওয়ার অধিকারী।"
+          },
+          {
+            "en": "Al-Muyassar treats 69:44 to 69:48 as a single passage and closes it on this verse: this Qur'an is an admonition for the God-conscious. Read in that order, the line shifts the gaze. The verses before it speak about the Messenger who brought the Book and whether he could have forged it. This verse speaks about what the Book does to those who receive it. The question is no longer only whether it is true, but whom it reaches. The verse opens with inna, indeed, and fixes a lam of emphasis to tadhkirah, so the statement arrives with weight.",
+            "bn": "মুয়াসসার ৬৯:৪৪ থেকে ৬৯:৪৮ পর্যন্ত এক টানা অংশ হিসেবে ব্যাখ্যা করেছে, আর শেষ করেছে এই আয়াতে: এ কুরআন মুত্তাকীদের জন্য নসিহত। এই ক্রমে পড়লে চোখ অন্য দিকে ঘুরে যায়। আগের আয়াতগুলোর আলোচনা কিতাবের বাহককে নিয়ে, তিনি তা বানাতে পারতেন কি না। এ আয়াতের আলোচনা কিতাবটি নিয়ে, যারা তা গ্রহণ করে তাদের উপর তার কী প্রভাব পড়ে। প্রশ্ন এখন শুধু এটা সত্য কি না, তা নয়। প্রশ্ন হল, এটা কার কাছে পৌঁছায়। আয়াতের শুরুতে ইন্না, নিশ্চয়ই, আর তাযকিরাহ শব্দের সঙ্গে জোর বোঝানোর লাম। তাই কথাটি আসে পূর্ণ ভার নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book, or Its Bearer",
+          "bn": "কিতাব, নাকি তার বাহক"
+        },
+        "p": [
+          {
+            "en": "Who is the it of wa-innahu? At-Tabari answers that this Qur'an is a reminder, and says that the people of interpretation said much the same; he gives Qatada's words through his chain, and they are a single word: al-Qur'an. Al-Baghawi, as-Sa'di and al-Muyassar all name the Qur'an. Ibn Kathir's Arabic says it means the Qur'an, and al-Qurtubi opens his comment the same way: it means the Qur'an.",
+            "bn": "ওয়া ইন্নাহু, নিশ্চয়ই এটা। এখানে এটা বলতে কী বোঝানো হয়েছে? তাবারীর জবাব, এ কুরআনই উপদেশ। তিনি বলেন, তাফসীরের আলেমরাও প্রায় একই কথা বলেছেন। নিজের সনদে তিনি কাতাদার কথা আনেন, আর সে কথা মাত্র এক শব্দের: আল কুরআন। বাগাভী, সা'দী ও মুয়াসসার সবাই কুরআনের নাম নেন। ইবন কাসীরের আরবি তাফসীরও বলে, এর অর্থ কুরআন। কুরতুবীও তাঁর ব্যাখ্যা শুরু করেন একই কথায়: এর মানে কুরআন।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second view, introduced with qila, it has been said: that what is meant is Muhammad ﷺ, so that he is a reminder, a mercy and a means of salvation. None of the other commentaries consulted for this verse mentions this reading, and al-Qurtubi does not argue for it or against it. He simply sets it after the first. Both are kept here as he gives them, the first stated as the meaning and the second reported as something said.",
+            "bn": "এরপর কুরতুবী আরেকটি মত উল্লেখ করেন, শুরু করেন কীলা, বলা হয়েছে, শব্দ দিয়ে। এ মতে উদ্দেশ্য মুহাম্মাদ ﷺ। তিনি নিজেই উপদেশ, রহমত ও মুক্তির উপায়। এ আয়াতের জন্য দেখা অন্য কোনো তাফসীরে এ মতের উল্লেখ নেই। কুরতুবী নিজেও এর পক্ষে বা বিপক্ষে যুক্তি দেন না, প্রথম মতের পরে শুধু রেখে দেন। এখানে দুটোই রাখা হল যেভাবে তিনি দিয়েছেন। প্রথমটি তিনি বলেছেন অর্থ হিসেবে, দ্বিতীয়টি এনেছেন বর্ণিত কথা হিসেবে।"
+          },
+          {
+            "en": "The placement makes both readings understandable, though no commentator here gives that reason. The four verses just before speak of the Messenger in the third person, he and him; the verses before those, from 69:40 to 69:43, speak of the word he brought, a revelation from the Lord of the worlds. A reader standing at 69:48 has both in view. On either reading the reminder comes from the same place, since the Messenger ﷺ conveyed only what Allah determined.",
+            "bn": "আয়াতের অবস্থান দেখলে দুটো মতই বোঝা যায়, যদিও এখানকার কোনো তাফসীরকার এ কারণ উল্লেখ করেননি। ঠিক আগের চারটি আয়াতে রাসূলের কথা এসেছে অনুপস্থিত কারও মতো করে, 'সে' আর 'তাকে' বলে। তার আগের আয়াতগুলোতে, ৬৯:৪০ থেকে ৬৯:৪৩ পর্যন্ত, কথা হয়েছে তাঁর আনা বাণী নিয়ে, যা বিশ্বজগতের রবের কাছ থেকে অবতীর্ণ। ৬৯:৪৮-এ দাঁড়ালে পাঠকের সামনে দুটোই থাকে। যে মতই ধরা হোক, উপদেশের উৎস একই, কারণ রাসূল ﷺ তা-ই পৌঁছেছেন যা আল্লাহ নির্ধারণ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Tadhkirah Does",
+          "bn": "তাযকিরাহর কাজ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains tadhkirah with the word 'izah, an admonition, and then describes how it works: it is something one is reminded by, yatadhakkaru bihi, and takes admonition from, yatta'izu bihi. Al-Baghawi and al-Muyassar also gloss it as 'izah. The definitions place the reminder in a relationship. A tadhkirah is not defined by its contents alone but by what happens in the one it reaches: he recalls, and he is moved to take heed.",
+            "bn": "তাবারী তাযকিরাহর ব্যাখ্যা দেন ইযাহ শব্দ দিয়ে, যার মানে নসিহত। তারপর বলেন এটা কীভাবে কাজ করে। এ এমন জিনিস, যা দিয়ে মানুষের মনে পড়ে, ইয়াতাযাক্কারু বিহী, আর যা থেকে সে শিক্ষা নেয়, ইয়াত্তাইযু বিহী। বাগাভী আর মুয়াসসারও এর অর্থ করেছেন ইযাহ। এই সংজ্ঞাগুলো উপদেশকে একটা সম্পর্কের ভেতরে রাখে। তাযকিরাহ শুধু তার বিষয়বস্তু দিয়ে চেনা যায় না। চেনা যায়, যার কাছে তা পৌঁছায় তার ভেতরে কী ঘটে তা দিয়ে। তার মনে পড়ে, আর সে সতর্ক হয়।"
+          },
+          {
+            "en": "The root of the word, dh-k-r, appears in only three verses of al-Haqqa. In 69:11 Allah recalls carrying you in the running ship when the water rose, and 69:12 gives the purpose: that We might make it a tadhkirah for you, and that a heeding ear might take it in. In 69:42 the deniers are told, qalilan ma tadhakkarun, little do you remember. Here in 69:48 the Qur'an itself is the tadhkirah. The surah thus names a past event as a reminder, faults its hearers for remembering little, and then offers the Book as the reminder that remains.",
+            "bn": "আল হাক্কা সূরায় এ শব্দের মূল ধাতু, য-ক-র, এসেছে মাত্র তিনটি আয়াতে। ৬৯:১১ আয়াতে আল্লাহ স্মরণ করিয়ে দেন, পানি যখন সীমা ছাড়িয়েছিল, তিনি তোমাদের চলমান নৌকায় তুলে নিয়েছিলেন। ৬৯:১২ আয়াত বলে দেয় কেন: যেন আমি একে তোমাদের জন্য তাযকিরাহ বানাই, আর মনোযোগী কান তা ধরে রাখে। ৬৯:৪২ আয়াতে অস্বীকারকারীদের বলা হয়েছে, কালীলান মা তাযাক্কারূন, তোমরা খুব কমই উপদেশ নাও। আর এখানে ৬৯:৪৮ আয়াতে স্বয়ং কুরআনই তাযকিরাহ। সূরাটি তাই প্রথমে অতীতের এক ঘটনাকে উপদেশ বলেছে, তারপর শ্রোতাদের দোষ ধরেছে যে তারা কমই মনে রাখে। শেষে কিতাবকে সামনে রেখেছে, যে উপদেশ রয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Portraits of the Muttaqin",
+          "bn": "মুত্তাকীর চার রকম পরিচয়"
+        },
+        "p": [
+          {
+            "en": "The commentators describe the muttaqin in words that overlap but lean in different directions. At-Tabari says they are those who guard against Allah's punishment by carrying out what He made obligatory and avoiding disobedience to Him. Al-Baghawi keeps only the first half: whoever guards against Allah's punishment. Al-Muyassar describes them by conduct alone, as those who comply with Allah's commands and avoid what He has forbidden.",
+            "bn": "মুত্তাকীদের পরিচয় তাফসীরকারেরা যে ভাষায় দেন, তা অনেকখানি মেলে, তবু প্রত্যেকে একটু ভিন্ন দিকে ঝোঁকেন। তাবারী বলেন, তারা হল সেসব লোক, যারা আল্লাহর ফরজগুলো আদায় করে আর তাঁর নাফরমানি থেকে দূরে থেকে তাঁর শাস্তি থেকে নিজেদের বাঁচায়। বাগাভী রাখেন শুধু প্রথম অংশটুকু: যে আল্লাহর শাস্তি থেকে বেঁচে থাকে। মুয়াসসার পরিচয় দেয় কেবল আচরণ দিয়ে: যারা আল্লাহর আদেশ মানে আর তাঁর নিষেধ থেকে দূরে থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi turns inward. The muttaqin, he says, are al-kha'ifin, the fearful, those who are in awe of Allah, using the verb yakhshawn. Where at-Tabari and al-Muyassar describe what the God-conscious do, al-Qurtubi names what they feel. These are not rival definitions, and none of the commentators sets one against another. Each brings forward a different face of the same person: one who fears Allah, guards against His punishment, and shows that guarding by what he does and what he leaves.",
+            "bn": "কুরতুবী তাকান ভেতরের দিকে। তাঁর মতে মুত্তাকী হল আল খাইফীন, ভীত লোকেরা, যারা আল্লাহকে ভয় করে। এখানে তিনি ক্রিয়া ব্যবহার করেছেন ইয়াখশাওন। তাবারী আর মুয়াসসার বলেন মুত্তাকীরা কী করে, কুরতুবী বলেন তাদের অন্তরে কী থাকে। এগুলো একে অন্যের বিরোধী সংজ্ঞা নয়, আর কোনো তাফসীরকার একটিকে অন্যটির বিপরীতে দাঁড় করাননি। প্রত্যেকে একই মানুষের ভিন্ন এক দিক সামনে আনেন। সে আল্লাহকে ভয় করে, তাঁর শাস্তি থেকে বাঁচতে চায়, আর সেই বাঁচার চেষ্টা দেখা যায় সে কী করে আর কী ছাড়ে তাতে।"
+          },
+          {
+            "en": "Read together, the definitions suggest why the reminder is tied to them. At-Tabari's two verbs, reminded by it and admonished by it, describe the response of exactly the person he then defines: someone already turned towards Allah's commands and wary of His punishment. A reminder recalls a person to something; the muttaqi is the one who has something to be recalled to, and the will to act on it.",
+            "bn": "সংজ্ঞাগুলো পাশাপাশি পড়লে একটা ইঙ্গিত মেলে, উপদেশকে কেন তাদের সঙ্গেই জুড়ে দেওয়া হয়েছে। তাবারীর দুটি ক্রিয়া, যা দিয়ে মনে পড়ে আর যা থেকে শিক্ষা নেয়, ঠিক সেই মানুষের সাড়া বোঝায়, যার সংজ্ঞা তিনি পরের বাক্যেই দেন। সে আগে থেকেই আল্লাহর আদেশের দিকে ফিরে আছে, তাঁর শাস্তির ব্যাপারে সজাগ। উপদেশ মানুষকে কোনো কিছুর দিকে ফিরিয়ে নেয়। মুত্তাকীর কাছে ফিরে যাওয়ার মতো কিছু আছে, আর সে অনুযায়ী চলার ইচ্ছাও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Named for Them",
+          "bn": "কেন তাদের নামেই"
+        },
+        "p": [
+          {
+            "en": "The Qur'an is called a revelation from the Lord of the worlds in 69:43, and it addressed people who denied it as well as people who believed. Why then is it a reminder for the God-conscious in particular? The commentators answer by setting the verse beside others. Al-Qurtubi gives as its counterpart the opening of al-Baqara, fihi hudan lil-muttaqin, in it is guidance for the God-conscious (2:2), and refers the reader to what he explained there.",
+            "bn": "৬৯:৪৩ আয়াতে কুরআনকে বলা হয়েছে বিশ্বজগতের রবের কাছ থেকে অবতীর্ণ। এর সম্বোধন ছিল যারা অস্বীকার করেছে তাদের প্রতিও, যারা ঈমান এনেছে তাদের প্রতিও। তাহলে এটা বিশেষ করে মুত্তাকীদের জন্য উপদেশ কেন? তাফসীরকারেরা জবাব দেন আয়াতটিকে অন্য আয়াতের পাশে রেখে। কুরতুবী এর জোড়া হিসেবে আনেন সূরা বাকারার শুরু, ফীহি হুদাল লিলমুত্তাকীন, এতে আছে মুত্তাকীদের জন্য পথনির্দেশ (২:২)। সেখানে তিনি যা ব্যাখ্যা করেছেন, পাঠককে সেদিকে ফিরিয়ে দেন।"
+          },
+          {
+            "en": "Ibn Kathir, in both his Arabic and the abridged English, places beside it 41:44: say, it is for those who believe a guidance and a healing, and those who do not believe have heaviness in their ears, and it is blindness upon them. He adds no argument of his own. The pairing does the work: one Book, received in two opposite ways, with the difference lying in the hearers rather than in the words.",
+            "bn": "ইবন কাসীর, আরবি তাফসীরে আর সংক্ষিপ্ত ইংরেজি তাফসীরে দুই জায়গাতেই, এর পাশে রাখেন ৪১:৪৪: বলুন, যারা ঈমান আনে তাদের জন্য এটা পথনির্দেশ ও আরোগ্য। আর যারা ঈমান আনে না, তাদের কানে আছে ভার, আর এটা তাদের জন্য অন্ধত্ব। নিজের পক্ষ থেকে তিনি কোনো যুক্তি জোড়েন না। আয়াত দুটির জোড়াই কথাটা বুঝিয়ে দেয়। কিতাব একটাই, অথচ গ্রহণ হয় সম্পূর্ণ উল্টো দুইভাবে। পার্থক্যটা কথায় নয়, শ্রোতার ভেতরে।"
+          },
+          {
+            "en": "Two other verses, offered here as this article's own pointers, use the same word tadhkirah. In 20:3 the Qur'an was sent down only as a reminder for whoever fears, liman yakhsha, the very verb al-Qurtubi uses for the muttaqin. In 73:19 this is a reminder, so whoever wills may take a way to his Lord. Read with 69:48, they suggest that the reminder is offered to all, while those who fear and choose are the ones it takes hold of.",
+            "bn": "আরও দুটি আয়াতে একই শব্দ তাযকিরাহ এসেছে। এ দুটির উল্লেখ এ লেখার নিজস্ব সংযোজন। ২০:৩ আয়াতে কুরআন নাযিল হয়েছে কেবল তার জন্য উপদেশ হিসেবে, যে ভয় করে, লিমান ইয়াখশা। কুরতুবী মুত্তাকীর পরিচয়ে এই ক্রিয়াটিই ব্যবহার করেছেন। ৭৩:১৯ আয়াতে বলা হয়েছে, এটা উপদেশ, কাজেই যার ইচ্ছা সে তার রবের দিকে পথ ধরুক। ৬৯:৪৮-এর সঙ্গে মিলিয়ে পড়লে বোঝা যায়, উপদেশ সবার সামনেই রাখা হয়েছে। তবে তা আঁকড়ে ধরে তাদের, যারা ভয় করে আর বেছে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief, Character and Law Recalled",
+          "bn": "আকীদা, আখলাক ও বিধান মনে পড়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di is the only commentator consulted here who says what the reminder brings back. The God-conscious, he writes, are reminded by it of what is good for them in their religion and in their worldly life; they come to know those things and act on them. He does not limit the reminder to the next life. On his account the Qur'an speaks to how a person lives now, in both spheres, and the knowing is meant to end in doing.",
+            "bn": "কুরআন কী মনে করিয়ে দেয়, এখানে দেখা তাফসীরগুলোর মধ্যে সে কথা বলেন কেবল সা'দী। তিনি লেখেন, মুত্তাকীরা এর মাধ্যমে নিজেদের দ্বীন ও দুনিয়ার কল্যাণের কথা মনে করে। সেগুলো তারা চিনে নেয়, আর সে অনুযায়ী আমল করে। তিনি উপদেশকে শুধু আখিরাতের মধ্যে আটকে রাখেন না। তাঁর ব্যাখ্যায় কুরআন কথা বলে মানুষ এখন কীভাবে বাঁচে তা নিয়ে, দুই ক্ষেত্রেই। আর জানার শেষ গন্তব্য হল আমল।"
+          },
+          {
+            "en": "He then names three things it reminds them of: religious beliefs, al-'aqa'id; pleasing character, al-akhlaq al-mardiyyah; and the rulings of the Shari'ah, al-ahkam. Belief, conduct and law are set side by side, none left out. A reader who takes the Qur'an only as a source of rulings, or only as moral uplift, or only as a creed, has heard one part of what as-Sa'di says it brings back.",
+            "bn": "এরপর তিনি তিনটি জিনিসের নাম করেন, যা কুরআন তাদের মনে করিয়ে দেয়। দ্বীনের আকীদা, আল আকাইদ। পছন্দনীয় চরিত্র, আল আখলাকুল মারদিয়্যাহ। আর শরীয়তের বিধান, আল আহকাম। বিশ্বাস, আচরণ আর বিধান, তিনটিই পাশাপাশি, কোনোটি বাদ নেই। কেউ যদি কুরআনকে কেবল বিধানের উৎস ভাবে, বা কেবল নৈতিক প্রেরণা, বা কেবল আকীদার বই, তবে সা'দী যা বলেন কুরআন ফিরিয়ে আনে, তার একটা অংশই সে শুনেছে।"
+          },
+          {
+            "en": "Finally he describes where this leads. Those who are reminded in this way become, in his words, scholars devoted to their Lord, al-'ulama' ar-rabbaniyyin; worshippers who know, al-'ubbad al-'arifin; and rightly guided leaders, al-a'immah al-mahdiyyin. The reminder, in as-Sa'di's reading, does not leave a person where it found him. It forms knowledge, worship and leadership out of what was recalled.",
+            "bn": "শেষে তিনি বলেন, এ পথ কোথায় গিয়ে পৌঁছায়। যাদের এভাবে মনে করিয়ে দেওয়া হয়, তাঁর ভাষায় তারা হয় রবের প্রতি নিবেদিত আলেম, আল উলামাউর রাব্বানিয়্যীন। হয় জ্ঞানী ইবাদতকারী, আল উব্বাদুল আরিফীন। আর হয় হিদায়াতপ্রাপ্ত ইমাম, আল আইম্মাতুল মাহদিয়্যীন। সা'দীর পাঠে উপদেশ মানুষকে যেখানে পেয়েছিল, সেখানে রেখে যায় না। যা মনে পড়েছে, তা দিয়েই গড়ে তোলে জ্ঞান, ইবাদত আর নেতৃত্ব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reminder, Deniers, Regret",
+          "bn": "উপদেশ, অস্বীকার, আফসোস"
+        },
+        "p": [
+          {
+            "en": "The next two verses complete the picture of how the Book is received, and they are context here rather than the subject. In 69:49 Allah says He knows that among you are deniers. Ibn Kathir's abridged English explains: even with this explanation and clarification, there will still be among you those who reject the Qur'an. In 69:50 it is a regret upon the disbelievers, and Ibn Kathir reports at-Tabari as saying that this rejection will be anguish for them on the Day of Judgement.",
+            "bn": "পরের দুটি আয়াত কিতাব গ্রহণের ছবিটা পূর্ণ করে। এখানে এগুলো প্রসঙ্গ হিসেবে, মূল আলোচনা হিসেবে নয়। ৬৯:৪৯ আয়াতে আল্লাহ বলেন, তিনি জানেন তোমাদের মধ্যে অস্বীকারকারী আছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ব্যাখ্যা করে: এত ব্যাখ্যা আর এত স্পষ্ট করে বলার পরও তোমাদের মধ্যে এমন লোক থাকবে, যারা কুরআন প্রত্যাখ্যান করবে। ৬৯:৫০ আয়াতে বলা হয়েছে, এটা কাফিরদের জন্য আফসোসের কারণ। ইবন কাসীর তাবারীর কথা উল্লেখ করেন, এই প্রত্যাখ্যানই কিয়ামতের দিন তাদের জন্য মনস্তাপ হবে।"
+          },
+          {
+            "en": "So the reminder of 69:48 is set between two kinds of response, and the Qur'an names both without softening either. These verses describe the response of those the Qur'an first addressed, and a regret on the Day of Resurrection. They license nothing against any living person or community, and they hand no reader the right to sort others into the God-conscious and the deniers. The only hearer each of us can place is the one reading.",
+            "bn": "৬৯:৪৮ আয়াতের উপদেশ তাই দুই রকম সাড়ার মাঝখানে বসানো, আর কুরআন দুটোর কথাই বলেছে, কোনোটিকে নরম না করে। এ আয়াতগুলো বর্ণনা করে কুরআন প্রথম যাদের সম্বোধন করেছিল তাদের সাড়া, আর কিয়ামতের দিনের এক আফসোস। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কিছুই বৈধ করে না। কোনো পাঠককে এ অধিকারও দেয় না যে সে অন্যদের মুত্তাকী আর অস্বীকারকারী, এই দুই দলে ভাগ করবে। আমরা প্রত্যেকে কেবল একজন শ্রোতারই জায়গা ঠিক করতে পারি, যে এখন পড়ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading to Be Reminded",
+          "bn": "মনে পড়ার জন্য পড়া"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it, so none is quoted here, and none gives a cause of revelation for it. What they do give is enough to live by. The Qur'an is a reminder; a reminder is something a person is recalled by and takes heed from; and those it takes hold of are the ones who fear Allah, guard against His punishment, keep His commands and leave what He forbids.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরে এর সঙ্গে কোনো হাদীস যুক্ত করা হয়নি, তাই এখানে কোনো হাদীস আনা হয়নি। কোনো তাফসীরে এর নাযিলের প্রেক্ষাপটও নেই। তবে তাঁরা যা দিয়েছেন, তা নিয়ে চলার জন্য যথেষ্ট। কুরআন উপদেশ। উপদেশ এমন জিনিস, যা দিয়ে মনে পড়ে আর যা থেকে মানুষ সতর্ক হয়। আর তা আঁকড়ে ধরে তাদের, যারা আল্লাহকে ভয় করে, তাঁর শাস্তি থেকে বাঁচতে চায়, তাঁর আদেশ মানে আর নিষেধ থেকে দূরে থাকে।"
+          },
+          {
+            "en": "That turns the verse into a question about the reader rather than the Book. Many of us read the Qur'an and are informed by it without being reminded by it; the words pass through and nothing is recalled. The verse suggests the remedy lies on our side. Before reading, ask Allah for the fear that opens a person to His words. While reading, notice which line brings back something you already knew and had let slip.",
+            "bn": "এতে আয়াতটি কিতাব নিয়ে প্রশ্ন না থেকে পাঠককে নিয়ে প্রশ্ন হয়ে দাঁড়ায়। আমরা অনেকেই কুরআন পড়ি, তথ্য পাই, কিন্তু কিছু মনে পড়ে না। কথাগুলো ভেতর দিয়ে চলে যায়, ফিরে আসে না কিছুই। আয়াতের ইঙ্গিত হল, প্রতিকার আমাদের দিকেই। পড়ার আগে আল্লাহর কাছে সেই ভয় চেয়ে নিন, যা মানুষকে তাঁর কথার জন্য খুলে দেয়। পড়ার সময় খেয়াল করুন, কোন লাইনটা এমন কিছু ফিরিয়ে আনছে, যা আপনি জানতেন অথচ ভুলে বসে ছিলেন।"
+          },
+          {
+            "en": "Then do what as-Sa'di describes the God-conscious doing: know it and act on it. Take one belief to hold more firmly, one trait of character to practise, or one ruling to keep, and carry it out before the reading is forgotten. The surah faulted its first hearers for remembering little. A reader who acts on even one recalled line has begun to be among those for whom the Book is a reminder.",
+            "bn": "তারপর তা-ই করুন, যা সা'দীর বর্ণনায় মুত্তাকীরা করে: চিনে নিন, আর আমল করুন। একটা আকীদা আরও মজবুত করে ধরুন, কিংবা একটা চারিত্রিক গুণ চর্চা করুন, কিংবা একটা বিধান মেনে চলুন। পড়াটা ভুলে যাওয়ার আগেই কাজটা সেরে ফেলুন। সূরাটি তার প্রথম শ্রোতাদের দোষ ধরেছিল, তারা কমই মনে রাখে। যে পাঠক মনে পড়া একটি লাইন অনুযায়ীও আমল করে, সে সেই লোকদের দলে ঢোকার পথে, যাদের জন্য এ কিতাব উপদেশ।"
+          }
+        ]
+      }
+    ]
+  },
   "69:51": {
     "sections": [
       {

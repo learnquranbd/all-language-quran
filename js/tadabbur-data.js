@@ -28629,6 +28629,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The fruit of Paradise is brought near to those who sent good ahead; send it ahead today, and hope for it by your Lord's mercy, not as a price you paid.",
     "lessonBn": "যারা নেক আমল আগে পাঠিয়েছে, জান্নাতের ফল তাদের হাতের কাছে এনে দেওয়া হয়। আজই তা আগে পাঠান, আর পরিশোধ করা দাম ভেবে নয়, রবের রহমতের ভরসায় তা আশা করুন।"
+  },
+  "69:48": {
+    "reflectionEn": "The surah has just made its strongest case: had the Messenger invented a single word, he would have been seized and could not have been shielded. Then it turns from the one who brought the Book to the ones who hear it. It is a reminder, and a reminder for the God-conscious. The same words reach every ear, yet only some are moved by them. A reminder does not bring news from nowhere; it brings back what the heart half knows and has let slip. Whether it lands depends on whether I guard myself, and on what I do with what it brings back. When I read the Qur'an, am I someone it reminds, or someone it merely passes?",
+    "reflectionBn": "সূরাটি এইমাত্র সবচেয়ে জোরালো যুক্তি দিয়েছে: রাসূল যদি একটি কথাও বানিয়ে বলতেন, তাঁকে পাকড়াও করা হত, কেউ তাঁকে রক্ষা করতে পারত না। এরপর দৃষ্টি সরে যায়, যিনি কিতাব এনেছেন তাঁর থেকে যারা তা শোনে তাদের দিকে। এটা উপদেশ, তবে মুত্তাকীদের জন্য উপদেশ। একই কথা সবার কানে পৌঁছায়, অথচ নাড়া খায় কেবল কেউ কেউ। উপদেশ আকাশ থেকে নতুন খবর আনে না। অন্তর যা আধো জানে, অথচ ভুলে বসে আছে, সেটাই ফিরিয়ে আনে। তা মনে গিয়ে বসবে কি না, তা নির্ভর করে আমি নিজেকে বাঁচিয়ে চলি কি না, আর ফিরে আসা কথাটা দিয়ে কী করি তার উপর। কুরআন পড়ার সময় আমি কি এমন কেউ, যাকে তা মনে করিয়ে দেয়, নাকি তা কেবল আমার পাশ কাটিয়ে চলে যায়?",
+    "pointsEn": [
+      "Which verse have I heard many times without it ever reminding me of anything?",
+      "What do I already know to be right that I have let slip, and which page of the Qur'an keeps bringing it back?",
+      "Is my guarding against Allah's displeasure mostly a feeling, mostly a set of deeds, or both together?",
+      "When a verse reminds me of something, what do I do with it before the day is out?",
+      "Do I listen to the Qur'an as if it were meant for other people?"
+    ],
+    "pointsBn": [
+      "কোন আয়াত আমি বহুবার শুনেছি, অথচ তা আমাকে কখনো কিছু মনে করিয়ে দেয়নি?",
+      "কোন জিনিস ঠিক বলে জানি, অথচ ভুলে বসে আছি? কুরআনের কোন পাতা সেটা বারবার ফিরিয়ে আনে?",
+      "আল্লাহর অসন্তুষ্টি থেকে বেঁচে থাকা আমার কাছে কি শুধুই মনের ভয়, নাকি শুধুই কিছু আমল, নাকি দুটো একসাথে?",
+      "কোনো আয়াত যখন কিছু মনে করিয়ে দেয়, দিন শেষ হওয়ার আগে আমি তা নিয়ে কী করি?",
+      "কুরআন শোনার সময় কি মনে হয়, এর কথাগুলো অন্য লোকদের জন্য?"
+    ],
+    "lessonEn": "The Qur'an reminds everyone who hears it, but it takes hold in those who guard themselves; read it to be reminded, then act on what it brings back.",
+    "lessonBn": "কুরআন যে শোনে তাকেই মনে করিয়ে দেয়, তবে তা গেঁথে যায় তাদের মনে, যারা নিজেদের বাঁচিয়ে চলে। মনে পড়ার জন্য পড়ুন, তারপর যা মনে পড়ল সে অনুযায়ী আমল করুন।"
   }
 };
 
