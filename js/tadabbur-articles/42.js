@@ -1043,6 +1043,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Rain, an Accounting",
+          "bn": "বৃষ্টির পরে হিসাবের কথা"
+        },
+        "p": [
+          {
+            "en": "The verse arrives at the end of a run of signs. In 42:27 Allah sends provision down in the measure He wills; in 42:28 He sends rain after people had despaired; in 42:29 He scatters living creatures through the heavens and the earth and is able to gather them. Then the address turns to the listener: wa ma asabakum min musibatin fa-bima kasabat aydikum wa ya'fu 'an kathir, and whatever affliction strikes you is for what your hands have earned, and He pardons much.",
+            "bn": "আয়াতটি আসে একের পর এক নিদর্শনের শেষে। ৪২:২৭ আয়াতে আল্লাহ নিজের ইচ্ছামতো পরিমাণে রিযিক নাযিল করেন। ৪২:২৮ আয়াতে মানুষ নিরাশ হয়ে পড়ার পর তিনি বৃষ্টি পাঠান। ৪২:২৯ আয়াতে আসমান ও যমীনে তিনি প্রাণী ছড়িয়ে দেন, আর তাদের একত্র করতেও তিনি সক্ষম। এরপর কথা ঘুরে যায় শ্রোতার দিকে: ওয়া মা আসাবাকুম মিন মুসীবাতিন ফাবিমা কাসাবাত আইদীকুম ওয়া ইয়া'ফূ আন কাসীর। তোমাদের উপর যে বিপদই আসে, তা তোমাদের হাতের কামাই, আর তিনি অনেক কিছুই মাফ করে দেন।"
+          },
+          {
+            "en": "At-Tabari gives musiba a concrete reach: whatever strikes you, O people, in this world, in yourselves, your families and your wealth. It strikes you, he says, as a punishment from Allah for the wrongs you committed between yourselves and your Lord, and your Lord pardons much of your wrongdoing and does not punish you for it. As-Sa'di lists bodies, wealth, children and whatever a person loves and holds dear. The Muyassar names two fields at once: affliction in your religion and in your worldly life.",
+            "bn": "মুসীবত কতদূর পৌঁছায়, তাবারী তা স্পষ্ট করে দেন: হে মানুষ, দুনিয়াতে তোমাদের নিজেদের উপর, পরিবারের উপর, সম্পদের উপর যা কিছু আসে। তাঁর ভাষায়, তোমাদের আর তোমাদের রবের মাঝে যে গুনাহ তোমরা করেছ, তারই শাস্তি হিসেবে আল্লাহর পক্ষ থেকে তা আসে। আর তোমাদের রব তোমাদের অনেক অপরাধ মাফ করে দেন, সেগুলোর জন্য শাস্তি দেন না। সা'দী তালিকা দেন শরীর, সম্পদ, সন্তান, আর মানুষের প্রিয় ও আদরের সবকিছুর। মুয়াসসার একসঙ্গে দুটি ক্ষেত্রের নাম নেয়: দ্বীনের বিপদ আর দুনিয়ার বিপদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With the Fa, or Without",
+          "bn": "'ফা' সহ, নাকি 'ফা' ছাড়া"
+        },
+        "p": [
+          {
+            "en": "The verse is read two ways at one point. Al-Qurtubi reports that Nafi' and Ibn 'Amir read bima kasabat without the fa, while the rest read fa-bima with it, and that Abu 'Ubayd and Abu Hatim preferred the fa for the extra letter and the extra reward it carries. Al-Baghawi says the people of Madina and Sham read it without the fa. Whoever drops the fa, he explains, takes ma to mean that which: that which struck you is by what your hands earned.",
+            "bn": "আয়াতের এক জায়গায় দুই রকম পাঠ আছে। কুরতুবী জানান, নাফি' ও ইবন আমির পড়েছেন 'বিমা কাসাবাত', অর্থাৎ 'ফা' ছাড়া। বাকিরা পড়েছেন 'ফাবিমা', 'ফা' সহ। আবূ উবাইদ ও আবূ হাতিম 'ফা'-যুক্ত পাঠটি বেছে নিয়েছেন, কারণ এতে একটি হরফ বেশি, তাই নেকিও বেশি। বাগাভী বলেন, মদীনা ও শামের লোকেরা 'ফা' ছাড়া পড়েন। তাঁর ব্যাখ্যায়, যিনি 'ফা' বাদ দেন, তিনি শুরুর 'মা' শব্দটিকে ধরেন 'যা' অর্থে। তখন মানে দাঁড়ায়: যা তোমাদের উপর এসেছে, তা তোমাদের হাতের কামাইয়ের কারণে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the grammar through al-Mahdawi. If ma is the relative pronoun, the fa may be dropped or kept, and keeping it is better. If ma is the conditional particle, Sibawayh did not allow dropping it, while al-Akhfash did, citing 6:121, wa in ata'tumuhum innakum la-mushrikun, a condition answered without a fa. On every reading, the affliction and the earning stay joined.",
+            "bn": "ব্যাকরণের দিকটা কুরতুবী তুলে ধরেন মাহদাভীর সূত্রে। 'মা' যদি সম্বন্ধবাচক সর্বনাম হয়, তবে 'ফা' রাখা বা বাদ দেওয়া দুটোই চলে, তবে রাখাটাই উত্তম। আর 'মা' যদি শর্তবাচক হয়, তবে সীবাওয়াইহের মতে 'ফা' বাদ দেওয়া চলে না। আখফাশ তা জায়েয বলেছেন, আর দলিল দিয়েছেন ৬:১২১ আয়াত দিয়ে: ওয়া ইন আতা'তুমূহুম ইন্নাকুম লামুশরিকূন। সেখানে শর্তের জবাব এসেছে 'ফা' ছাড়াই। যে পাঠই ধরা হোক, বিপদ আর কামাই একসঙ্গে বাঁধা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believers, Deniers, or Penalties",
+          "bn": "মুমিন, অস্বীকারকারী, নাকি হদ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the address as general: whatever afflictions strike you, O people, come from wrongs you committed before. Al-Qurtubi narrows it. His scholars, he says, take the verse as concerning the believers, since the disbeliever's punishment is deferred to the Hereafter. Another view makes it an address to the disbelievers, who used to say when harm struck them that it came from the ill omen of Muhammad ﷺ; the verse answered that it came from the ill omen of their own disbelief. Al-Qurtubi calls the first view more common, clearer and better known.",
+            "bn": "ইবন কাসীর সম্বোধনটিকে সবার জন্য ধরেন: হে মানুষ, তোমাদের উপর যে বিপদই আসে, তা আগে করা গুনাহের কারণে। কুরতুবী আরও সংকীর্ণ এক আলোচনা আনেন। তিনি বলেন, তাঁদের আলেমদের মতে আয়াতটি মুমিনদের নিয়ে, কারণ কাফিরের শাস্তি আখিরাত পর্যন্ত পিছিয়ে রাখা হয়। আরেক মতে এটি কাফিরদের উদ্দেশে বলা। তাদের উপর খারাপ কিছু এলে তারা বলত, এ মুহাম্মাদ ﷺ-এর অশুভ প্রভাব। আয়াত জবাব দিল, এ তোমাদের নিজেদের কুফরের অশুভ ফল। কুরতুবীর মতে প্রথম মতটিই বেশি প্রচলিত, বেশি স্পষ্ট, বেশি পরিচিত।"
+          },
+          {
+            "en": "At-Tabari states his own, broad reading first, and says the interpreters said the like. Under it he relays from Ibn 'Abbas that Allah hastens the believers' punishment for their sins in this world, and they are not taken to account for them in the Hereafter. He then records a second reading under the words others said: the verse concerns the legal penalties, so that a penalty you receive for a sin is for what your hands earned. Its source is al-Hasan: this is about the hudud.",
+            "bn": "তাবারী প্রথমে নিজের ব্যাখ্যা দেন, যা ব্যাপক অর্থের, আর বলেন তাফসীরকারেরাও এমনই বলেছেন। এর পক্ষে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল্লাহ মুমিনদের গুনাহের শাস্তি দুনিয়াতেই দ্রুত দিয়ে দেন, আখিরাতে সেজন্য আর তাদের পাকড়াও করা হয় না। তারপর 'অন্যরা বলেছেন' বলে তিনি দ্বিতীয় একটি ব্যাখ্যা আনেন। এ মতে আয়াতটি শরীয়তের নির্ধারিত শাস্তি নিয়ে। কোনো গুনাহের জন্য যে হদ আপনার উপর কায়েম হয়, তা আপনার হাতের কামাই। এ মতের উৎস হাসান বসরী: এ কথা হদ সম্পর্কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Far More Is Let Go",
+          "bn": "ছেড়ে দেওয়া হয় ঢের বেশি"
+        },
+        "p": [
+          {
+            "en": "The second half of the verse is the larger one. Ibn Kathir glosses wa ya'fu 'an kathir as: of sins; He does not requite you for them but pardons them. Beside it he sets 35:45: if Allah were to take people to task for what they earned, He would not leave a single creature on its back. As-Sa'di says that what Allah pardons is more, that Allah does not wrong His servants but they wrong themselves, and that His delaying of punishments is neither neglect on His part nor inability.",
+            "bn": "আয়াতের দ্বিতীয় অংশটাই বড়। 'ওয়া ইয়া'ফূ আন কাসীর'-এর ব্যাখ্যায় ইবন কাসীর বলেন: অনেক গুনাহ, যেগুলোর বদলা তিনি দেন না, বরং মাফ করে দেন। পাশে তিনি রাখেন ৩৫:৪৫ আয়াত: মানুষকে যদি আল্লাহ তাদের কামাইয়ের জন্য পাকড়াও করতেন, তবে পৃথিবীর বুকে একটি প্রাণীকেও ছাড়তেন না। সা'দী বলেন, আল্লাহ যা মাফ করেন তা-ই বেশি। আল্লাহ বান্দাদের উপর জুলুম করেন না, তারাই নিজেদের উপর জুলুম করে। আর শাস্তি পিছিয়ে দেওয়া তাঁর উদাসীনতা নয়, অক্ষমতাও নয়।"
+          },
+          {
+            "en": "Al-Qurtubi gives two senses. Following al-Hasan, He pardons many sins by attaching no legal penalty to them; on another view, He pardons many sinners by not hastening punishment upon them. He names a parallel in meaning, 4:123: whoever does evil will be recompensed for it. Within ash-Shura the phrase returns in 42:34, where the ships could be wrecked for what their people earned, and He pardons much. The surah does not let the accounting stand without the pardon beside it.",
+            "bn": "কুরতুবী দুটি অর্থ দেন। হাসান বসরীর মত অনুসারে, তিনি বহু গুনাহ মাফ করেন সেগুলোর উপর কোনো হদ না রেখে। আরেক মতে, তিনি বহু গুনাহগারকে মাফ করেন, তাদের উপর তাড়াতাড়ি শাস্তি না এনে। অর্থের দিক থেকে মিল আছে এমন আয়াত হিসেবে তিনি উল্লেখ করেন ৪:১২৩: যে মন্দ কাজ করবে, তাকে তার বদলা দেওয়া হবে। সূরা শূরাতেই ৪২:৩৪-এ কথাটি আবার ফিরে আসে। সেখানে জাহাজ ডুবে যেতে পারে আরোহীদের কামাইয়ের কারণে, আর তিনি অনেক কিছুই মাফ করে দেন। হিসাবের কথা এ সূরা কখনো মাফের কথা ছাড়া একা রাখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Thorn That Raises a Rank",
+          "bn": "যে কাঁটা মর্যাদা বাড়ায়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings here a hadith he calls sahih, on the believer's fatigue and grief. Its wording in al-Bukhari, number 5641, from Abu Sa'id al-Khudri and Abu Hurayra, is: \"No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.\" The hadith is general. It was not said about this verse, and al-Bukhari's wording stands here for the one Ibn Kathir cites.",
+            "bn": "এখানে ইবন কাসীর মুমিনের ক্লান্তি ও দুঃখ নিয়ে একটি হাদীস আনেন, যাকে তিনি সহীহ বলেন। বুখারী ৫৬৪১ নম্বরে আবূ সাঈদ খুদরী (রাঃ) ও আবূ হুরায়রা (রাঃ) থেকে এর যে ভাষ্য এনেছেন, তা এই: নবী ﷺ বলেছেন, \"মুসলিমের উপর যে ক্লান্তি, রোগ, দুশ্চিন্তা, দুঃখ, কষ্ট বা মনোবেদনাই আসুক, এমনকি একটি কাঁটাও যদি তার গায়ে বিঁধে, তার বিনিময়ে আল্লাহ তার কিছু গুনাহ মাফ করে দেন।\" হাদীসটি সাধারণ কথা, এ আয়াত প্রসঙ্গে বলা নয়। ইবন কাসীরের শব্দের জায়গায় এখানে বুখারীর শব্দ রাখা হলো।"
+          },
+          {
+            "en": "Affliction does more than settle accounts. In Sahih Muslim, number 2572a, some young men of Quraysh came laughing to 'A'isha at Mina because a man had tripped over a tent rope and nearly lost his neck or his eye. She told them not to laugh, for she had heard the Messenger of Allah ﷺ say: \"No Muslim is pricked by a thorn, or anything greater, but a rank is written for him by it and a sin is erased from him by it.\" This too is general and not attached to the verse.",
+            "bn": "কষ্ট শুধু হিসাব চুকিয়ে দেয় না, আরও কিছু করে। সহীহ মুসলিমের ২৫৭২ক নম্বরে আছে: মিনায় কুরাইশের কয়েকজন যুবক হাসতে হাসতে আয়েশা (রাঃ)-এর কাছে এল। এক লোক তাঁবুর রশিতে হোঁচট খেয়ে পড়ে গিয়েছিল, তার ঘাড় ভাঙতে বা চোখ যেতে বসেছিল। তিনি বললেন, হেসো না। আমি রাসূলুল্লাহ ﷺ-কে বলতে শুনেছি: \"কোনো মুসলিমের গায়ে একটি কাঁটা বা তার চেয়ে বড় কিছু বিঁধলে, তার বদলে তার জন্য একটি মর্যাদা লেখা হয় এবং তার একটি গুনাহ মুছে দেওয়া হয়।\" এ হাদীসও সাধারণ, আয়াতটির সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "'Ikrima, in both al-Qurtubi and al-Baghawi, says the same of every calamity, from a small mishap upward: it comes for a sin Allah would forgive only through it, or for a rank He would bring the servant to only through it. Al-Qurtubi adds a saying Thabit al-Bunani reports from earlier people: hours of hurt carry away hours of sins. The commentators themselves keep open what the verse's first half might seem to close. One pain may be a debt being cleared or a step being climbed, and no onlooker is told which.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই ইকরিমার একটি কথা আনেন, যা ছোট-বড় সব বিপদের বেলায় খাটে। কোনো বান্দার উপর যে বিপদই আসে, হয় তা এমন গুনাহের জন্য যা আল্লাহ এ ছাড়া মাফ করতেন না, নয়তো এমন মর্যাদার জন্য যেখানে এ ছাড়া তিনি তাকে পৌঁছাতেন না। কুরতুবী সাবিত বুনানীর সূত্রে আগের যুগের একটি কথাও আনেন: কষ্টের প্রহরগুলো গুনাহের প্রহরগুলোকে মুছে নিয়ে যায়। আয়াতের প্রথম অংশ যে দরজা বন্ধ করে দিচ্ছে বলে মনে হয়, তাফসীরকারেরা নিজেরাই তা খোলা রাখেন। একই কষ্টে হয়তো ঋণ শোধ হচ্ছে, হয়তো মর্যাদা বাড়ছে। কোনটা ঘটছে, বাইরের কাউকে তা জানানো হয় না।"
+          },
+          {
+            "en": "Two reports tied to the verse lack a full chain to the Prophet ﷺ. Al-Hasan al-Basri says, naming no Companion, that when it was revealed the Prophet said no scratch of a twig, throb of a vein or slip of a foot comes except through a sin, and what Allah pardons is more. Abu Qilaba relays that Abu Bakr stopped eating when 99:7 and 99:8 came down, and was told that what he disliked was the evil's atom-weights, the good being stored for the Resurrection. At-Tabari calls the version naming Anas a mistake; Abu Idris saw its confirmation here.",
+            "bn": "আয়াতটির সঙ্গে জোড়া দুটি বর্ণনার সনদ নবী ﷺ পর্যন্ত পুরো পৌঁছায় না। হাসান বসরী কোনো সাহাবীর নাম না নিয়ে বলেন, আয়াতটি নাযিল হলে নবী ﷺ বলেছিলেন: গাছের ডালের আঁচড়, শিরার কাঁপুনি, পায়ের হোঁচট, সবই কোনো গুনাহের কারণে, আর আল্লাহ যা মাফ করেন তা আরও বেশি। আবূ কিলাবা বর্ণনা করেন, ৯৯:৭ ও ৯৯:৮ নাযিল হলে আবূ বকর (রাঃ) খাওয়া থামিয়ে দেন। তাঁকে বলা হয়, অপছন্দের যা কিছু তুমি দেখো, তা মন্দের অণু-পরিমাণের হিসাব, আর ভালোগুলো কিয়ামতের জন্য জমা থাকে। তাবারী বলেন, আনাস (রাঃ)-এর নামযুক্ত সংস্করণটি ভুল। আবূ ইদরীস এর সমর্থন দেখেছেন এ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Settled Here, Not Twice",
+          "bn": "এখানে চুকলে আর দ্বিতীয়বার নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports that 'Ali said this is the most hopeful verse in the Book of Allah, and gives the reasoning: if He expiates for me through afflictions and pardons much, what is left after His expiation and His pardon? He adds that the meaning has also been narrated from 'Ali as words of the Prophet ﷺ, calling it the best verse in the Book of Allah. No fetched text grades that version, and it could not be checked in a hadith collection here, so its wording is not quoted and nothing rests on it.",
+            "bn": "কুরতুবী জানান, আলী (রাঃ) বলেছেন, আল্লাহর কিতাবে এটিই সবচেয়ে আশা জাগানো আয়াত। কারণটাও তিনি বলেন: তিনি যদি বিপদ দিয়ে আমার গুনাহ মুছে দেন, আবার অনেক কিছু মাফও করে দেন, তবে তাঁর কাফফারা আর মাফের পর আর বাকি থাকে কী? কুরতুবী আরও জানান, একই কথা আলী (রাঃ) থেকে নবী ﷺ-এর বাণী হিসেবেও বর্ণিত হয়েছে, যেখানে একে আল্লাহর কিতাবের সর্বোত্তম আয়াত বলা হয়েছে। সংগৃহীত কোনো লেখা সেই বর্ণনার মান উল্লেখ করেনি, আর এখানে কোনো হাদীস সংকলনে তা মিলিয়ে দেখা যায়নি। তাই এর শব্দ উদ্ধৃত করা হলো না, কোনো কিছুর ভিত্তিও এর উপর রাখা হলো না।"
+          },
+          {
+            "en": "The explanation continues: Allah is too generous to repeat the punishment in the Hereafter, and what He pardoned in this world He is too forbearing to punish after pardoning. Ibn Kathir has the two attributes the other way round. He also gives the chains: Ibn Abi Hatim has it through Abu Sakhila from 'Ali, raised to the Prophet ﷺ, and Ahmad narrated it likewise; al-Baghawi gives the same raised version. A second chain, through Abu Juhayfa, stops at 'Ali. None of the commentaries consulted grades these reports, so they stand here as reports about the verse, not established words of the Prophet.",
+            "bn": "ব্যাখ্যার বাকিটা এই: আখিরাতে দ্বিতীয়বার শাস্তি দেওয়ার চেয়ে আল্লাহ অনেক বেশি দয়ালু। আর দুনিয়াতে যা তিনি মাফ করেছেন, মাফের পর তার জন্য শাস্তি দেওয়ার চেয়ে তিনি অনেক বেশি সহনশীল। ইবন কাসীরের বর্ণনায় এ দুটি গুণ উল্টো জায়গায় বসেছে। তিনি সনদগুলোও দেন। ইবন আবী হাতিম এটি আবূ সুখাইলার সূত্রে আলী (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছে বর্ণনা করেছেন, ইমাম আহমাদও তেমনি। বাগাভীও এই সংস্করণ আনেন। আবূ জুহাইফার সূত্রে আরেকটি সনদ আলী (রাঃ)-এ গিয়ে থেমে যায়। এখানে দেখা কোনো তাফসীর এসব বর্ণনার মান নির্ণয় করেনি। তাই এগুলো আয়াত সম্পর্কে বর্ণনা হিসেবেই রইল, নবী ﷺ-এর প্রমাণিত বাণী হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Never Earned It",
+          "bn": "যাদের কোনো কামাই নেই"
+        },
+        "p": [
+          {
+            "en": "Who falls under the verse at all? Ma'arif al-Qur'an, citing al-Baydawi and others, says it is meant for people who are liable to commit sins. The hardships that befall the prophets, who are free of sin, children who have not reached puberty, and the insane, who commit no sin, are not covered by it. There are other reasons for them, such as being raised in reward, and in reality a person cannot fathom the depth of the wisdom behind them.",
+            "bn": "আয়াতের আওতায় আসলে কারা পড়ে? মাআরিফুল কুরআন বায়দাভী ও অন্যদের উদ্ধৃত করে বলে, আয়াতটি তাদের জন্য, যাদের দ্বারা গুনাহ হওয়া সম্ভব। নবীগণ গুনাহমুক্ত, বালেগ না হওয়া শিশু আর পাগলের কোনো গুনাহ হয় না। তাদের উপর যে কষ্ট আসে, তা এ আয়াতের আওতায় পড়ে না। তার পেছনে অন্য কারণ আছে, যেমন সওয়াবে তাদের মর্যাদা বাড়ানো। আর সত্যি বলতে, এর পেছনের হিকমতের গভীরতা মানুষ মাপতে পারে না।"
+          },
+          {
+            "en": "Al-Qurtubi records two views on the verse's reach. The first: it is particular, a punishment for those who have reached maturity and, for children, a reward. The second: it is a general punishment, falling on adults in their own persons and, through children, on others, the father and the mother. Ibn Kathir carries a related exchange: Abu l-Bilad asked al-'Ala' ibn Badr how the verse fit him, since he had lost his sight as a boy, and al-'Ala' answered: through your parents' sins. Al-Qurtubi leaves both views standing, and so does this article.",
+            "bn": "আয়াতের পরিধি নিয়ে কুরতুবী দুটি মত আনেন। প্রথম মতে, আয়াতটি বিশেষ: বালেগদের জন্য তা শাস্তি, আর শিশুদের জন্য সওয়াব। দ্বিতীয় মতে, এটি সাধারণ শাস্তি। বালেগদের উপর তা আসে তাদের নিজেদের মধ্যে, আর শিশুদের কষ্টের মধ্য দিয়ে তা আসে অন্যদের উপর, মানে বাবা-মায়ের উপর। ইবন কাসীর এর সঙ্গে সম্পর্কিত একটি কথোপকথন আনেন। আবুল বিলাদ আলা ইবন বদরকে জিজ্ঞেস করেছিলেন, ছোটবেলাতেই তো আমার চোখ চলে গেছে, তাহলে আয়াতটি আমার বেলায় খাটে কীভাবে? আলা জবাব দিলেন: তোমার বাবা-মায়ের গুনাহের কারণে। কুরতুবী দুটি মতই রেখে দিয়েছেন, এ লেখাও তাই রাখছে।"
+          },
+          {
+            "en": "A saying of ad-Dahhak shows how quickly such a rule needs limits. In Ibn Kathir and al-Qurtubi, he said no one memorises the Qur'an and then forgets it except through a sin, and asked what calamity is greater than forgetting the Qur'an. Abu 'Ubayd, in al-Qurtubi, confined this to the one who abandons it; the one who keeps reciting and strives to retain it, yet is overcome by forgetting, has no part in it. Al-Qurtubi supports him with 'A'isha's report that the Prophet ﷺ was once reminded by a man's recitation of verses he had been made to forget.",
+            "bn": "এমন নিয়মের যে দ্রুতই সীমা টানতে হয়, দাহহাকের একটি কথা তা দেখিয়ে দেয়। ইবন কাসীর ও কুরতুবীর বর্ণনায় তিনি বলেছেন, কেউ কুরআন মুখস্থ করে তারপর ভুলে যায় কেবল কোনো গুনাহের কারণে। তারপর জিজ্ঞেস করেছেন, কুরআন ভুলে যাওয়ার চেয়ে বড় বিপদ আর কী? কুরতুবীর বর্ণনায় আবূ উবাইদ এ কথাকে সীমিত করেছেন তার মধ্যে, যে কুরআন ছেড়ে দেয়। যে নিয়মিত তিলাওয়াত করে, ধরে রাখতে প্রাণপণ চেষ্টা করে, তবু ভুলে যায়, এ কথা তার বেলায় খাটে না। কুরতুবী এর সমর্থনে আয়েশা (রাঃ)-এর বর্ণনা আনেন: এক লোকের তিলাওয়াত একবার নবী ﷺ-কে এমন কিছু আয়াত মনে করিয়ে দিয়েছিল, যা তাঁকে ভুলিয়ে দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said of Oneself, Never of Another",
+          "bn": "নিজের বেলায় বলা, অন্যের বেলায় নয়"
+        },
+        "p": [
+          {
+            "en": "Notice how the early figures in these commentaries use the verse: on themselves. 'Imran ibn Husayn, afflicted in his body, told visitors who grieved for him not to, for what they saw was through a sin and what Allah pardons is more; that is Ibn Kathir's wording, and in al-Qurtubi's he adds that he loves the pain. Shurayh, asked about a sore on the back of his hand, answered with the verse. Ibn Sirin, weighed down by debt, said he knew this gloom: it came from a sin of forty years before.",
+            "bn": "এ তাফসীরগুলোতে আগের যুগের মানুষেরা আয়াতটি কীভাবে ব্যবহার করেছেন, খেয়াল করুন: নিজেদের উপর। ইমরান ইবন হুসাইন (রাঃ) শারীরিক কষ্টে ভুগছিলেন। যারা তাঁকে দেখে দুঃখ পাচ্ছিল, তিনি তাদের দুঃখ করতে নিষেধ করলেন। বললেন, যা দেখছ তা কোনো গুনাহের কারণে, আর আল্লাহ যা মাফ করেন তা আরও বেশি। এ হলো ইবন কাসীরের ভাষ্য। কুরতুবীর ভাষ্যে তিনি আরও বলেন, আমি এ ব্যথাকে ভালোবাসি। শুরাইহের হাতের পিঠে একটি ঘা দেখে কেউ জিজ্ঞেস করলে তিনি জবাবে আয়াতটি পড়লেন। ইবন সীরীন ঋণে জর্জরিত হয়ে বললেন, এ বিষাদ আমি চিনি। চল্লিশ বছর আগের এক গুনাহ থেকে এর শুরু।"
+          },
+          {
+            "en": "Abu Sulayman ad-Darani was asked, in al-Qurtubi, why the wise stopped blaming those who wronged them. Because they knew, he said, that Allah had tried them through their own sins. Read this way, the verse turns a person's eyes from whoever hurt him to his own record, and from his record to the Lord who pardons much. It is a verse for examining oneself, and a verse for hope: in 'Ali's reported words, what has been settled here is not punished twice.",
+            "bn": "কুরতুবীর বর্ণনায় আবূ সুলাইমান দারানীকে জিজ্ঞেস করা হয়েছিল, বুদ্ধিমানেরা কেন যারা তাদের সঙ্গে মন্দ আচরণ করেছে তাদের দোষ দেওয়া ছেড়ে দিয়েছেন? তিনি বললেন, কারণ তাঁরা জানতেন, আল্লাহ তাঁদের পরীক্ষায় ফেলেছেন তাঁদের নিজেদের গুনাহের কারণে। এভাবে পড়লে আয়াতটি মানুষের চোখ ফিরিয়ে দেয়। যে কষ্ট দিয়েছে তার দিক থেকে নিজের আমলনামার দিকে, আর আমলনামা থেকে সেই রবের দিকে, যিনি অনেক কিছু মাফ করে দেন। এ আয়াত নিজেকে যাচাই করার আয়াত, আবার আশারও আয়াত। আলী (রাঃ)-এর বলে বর্ণিত কথায়, এখানে যার হিসাব চুকে গেছে, তার জন্য দ্বিতীয়বার শাস্তি নেই।"
+          },
+          {
+            "en": "So it must be said plainly. No reader may tell a person who is sick, bereaved, poor or in pain that the suffering is a punishment for their sins. The verse states a general rule about affliction and pardon. It does not tell any onlooker whether a given hardship is a sin being expiated, a rank being raised, or a trial whose wisdom, as Ma'arif says of those without sin, no one can fathom. It licenses no verdict against any living person or community. Its use is on oneself: in pain, look to your own hands, ask pardon, and hope.",
+            "bn": "তাই কথাটা সোজাসুজি বলা দরকার। অসুস্থ, স্বজনহারা, অভাবী বা কষ্টে থাকা কোনো মানুষকে কোনো পাঠক বলতে পারেন না যে তার কষ্ট তার গুনাহের শাস্তি। আয়াতটি বিপদ আর মাফ সম্পর্কে একটি সাধারণ নিয়ম জানায়। কোনো নির্দিষ্ট কষ্টে গুনাহ মোছা হচ্ছে, নাকি মর্যাদা বাড়ছে, নাকি এমন পরীক্ষা চলছে যার হিকমত, গুনাহমুক্তদের প্রসঙ্গে মাআরিফের ভাষায়, কেউ মাপতে পারে না, বাইরে থেকে দেখা কাউকে আয়াতটি তা জানায় না। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো রায় দেওয়ার অনুমতি এ আয়াত দেয় না। এর ব্যবহার নিজের উপর: কষ্টে পড়লে নিজের হাতের দিকে তাকান, মাফ চান, আর আশা রাখুন।"
+          }
+        ]
+      }
+    ]
+  },
   "42:33": {
     "sections": [
       {

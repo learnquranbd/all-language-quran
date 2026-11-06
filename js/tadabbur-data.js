@@ -26649,6 +26649,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Receive the Qur'an as a word sent by the Mighty and the Wise, the same Sender who spoke to every messenger before, and let it carry its full weight.",
     "lessonBn": "কুরআনকে গ্রহণ করুন মহাপরাক্রমশালী, মহাজ্ঞানীর পাঠানো বাণী হিসেবে, যিনি আগের প্রত্যেক রাসূলকেও বাণী দিয়েছেন, আর একে তার পুরো ভার নিয়ে বসতে দিন।"
+  },
+  "42:30": {
+    "reflectionEn": "Ten words, and they reach every wound: whatever strikes you is for what your hands have earned, and He pardons much. Read alone, the first half can sound like a verdict. Read whole, it is an account kept by One who lets far more go than He ever settles. The verse speaks to me about my own hands. It gives me no measure for anyone else's pain, and it does not tell me which hardship is a debt being cleared and which is a step being raised. When something hurts, can I look first to my own record and ask for pardon, without despair? And when someone else is hurting, can I keep my verdicts to myself and simply help?",
+    "reflectionBn": "আরবিতে মাত্র দশটি শব্দ, অথচ তা পৌঁছে যায় প্রতিটি ক্ষতে: তোমাদের উপর যে বিপদই আসে, তা তোমাদের হাতের কামাই, আর তিনি অনেক কিছুই মাফ করে দেন। প্রথম অংশটুকু আলাদা করে পড়লে রায়ের মতো শোনায়। পুরোটা পড়লে বোঝা যায়, হিসাবটা এমন একজনের হাতে, যিনি যতটুকু আদায় করেন তার চেয়ে ঢের বেশি ছেড়ে দেন। আয়াতটি আমার সঙ্গে কথা বলছে আমার নিজের হাত নিয়ে। অন্যের কষ্ট মাপার কোনো দাঁড়িপাল্লা এ আয়াত আমার হাতে তুলে দেয় না। কোন কষ্টে ঋণ শোধ হচ্ছে আর কোন কষ্টে মর্যাদা বাড়ছে, তাও বলে দেয় না। কষ্ট এলে আমি কি আগে নিজের আমলনামার দিকে তাকিয়ে, হতাশ না হয়ে, মাফ চাইতে পারি? আর অন্য কেউ কষ্টে থাকলে আমি কি নিজের রায়টা মনে চেপে রেখে শুধু তার পাশে দাঁড়াতে পারি?",
+    "pointsEn": [
+      "When something went wrong for me this week, did my first thought turn to my own conduct, or to someone else's?",
+      "Have I ever let a sick or grieving person feel, even by a look, that they must have deserved it?",
+      "Which of my faults do I suspect has been quietly passed over, and have I thanked Him for that and asked pardon for it?",
+      "If the much that He pardons were counted against me as well, what would be left of me?",
+      "How can I sit with someone in pain this week as a helper, and not as a judge?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আমার কোনো কিছু খারাপ হলে প্রথম চিন্তাটা কোন দিকে গেছে, নিজের আচরণের দিকে, নাকি অন্য কারও দিকে?",
+      "অসুস্থ বা শোকাহত কাউকে কখনো কি আমি, হোক শুধু চাহনিতে, বুঝিয়ে দিয়েছি যে এটা তার প্রাপ্য ছিল?",
+      "আমার কোন দোষগুলো চুপচাপ ছাড় পেয়ে গেছে বলে মনে হয়? সেজন্য কি আমি শুকরিয়া আদায় করেছি, মাফ চেয়েছি?",
+      "যা কিছু তিনি মাফ করে দেন, তার সবই যদি আমার হিসাবে ধরা হতো, আমার আর কী বাকি থাকত?",
+      "এ সপ্তাহে কষ্টে থাকা কারও পাশে আমি কীভাবে বসতে পারি সাহায্যকারী হয়ে, বিচারক হয়ে নয়?"
+    ],
+    "lessonEn": "When hardship touches you, look to your own hands and ask His pardon; when it touches others, help them, and never call their pain a punishment.",
+    "lessonBn": "কষ্ট যখন আপনাকে ছোঁয়, নিজের হাতের দিকে তাকান আর তাঁর কাছে মাফ চান। কষ্ট যখন অন্যকে ছোঁয়, তার পাশে দাঁড়ান, আর তার কষ্টকে কখনো শাস্তি বলবেন না।"
   }
 };
 
