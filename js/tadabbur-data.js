@@ -25869,6 +25869,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Look beneath what you do to what you want. Whatever is wanted in Allah's place is a lie that cannot stand, however long it has been believed.",
     "lessonBn": "আপনি কী করেন, তার নিচে তাকিয়ে দেখুন আপনি কী চান। আল্লাহর জায়গায় যা-ই চাওয়া হোক, তা এমন মিথ্যা যা টেকে না, যত দিন ধরেই তা বিশ্বাস করা হোক।"
+  },
+  "37:92": {
+    "reflectionEn": "The town has gone out to its festival, and the temple stands empty except for one man and a row of carved figures. He speaks to them as you would speak to people: will you not eat? Then, when nothing moves: what is wrong with you, that you do not speak? He expects no reply. The silence is the reply, and he lets it fill the room. Something that cannot answer one question has no claim to be asked for help. The verse turns the question back on me. What do I lean on that has never once answered? Money, a title, the approval of people who cannot help even themselves? If I asked them to speak, what would I hear?",
+    "reflectionBn": "গোটা জনপদ উৎসবে চলে গেছে। মন্দির ফাঁকা, ভেতরে শুধু একজন মানুষ আর সারি সারি খোদাই করা মূর্তি। তিনি ওদের সঙ্গে কথা বলেন, যেভাবে মানুষের সঙ্গে বলা হয়: আপনারা খান না কেন? কিছুই নড়ে না। তখন আবার: কী হয়েছে আপনাদের, কথা বলেন না কেন? তিনি জবাবের আশা করেননি। নীরবতাই জবাব, আর সেই নীরবতাকে তিনি পুরো ঘরে ছড়িয়ে পড়তে দেন। যে একটা প্রশ্নেরও উত্তর দিতে পারে না, তার কাছে সাহায্য চাওয়ার কোনো মানে নেই। আয়াতটি প্রশ্নটা আমার দিকেই ফিরিয়ে দেয়। আমি কিসের উপর ভরসা করি, যা কোনো দিন একবারও সাড়া দেয়নি? টাকা, পদবি, নাকি এমন মানুষের সমর্থন, যারা নিজেদেরও বাঁচাতে পারে না? ওদের কথা বলতে বললে আমি কী শুনব?",
+    "pointsEn": [
+      "When I am afraid, what do I turn to first, and has it ever actually answered me?",
+      "Is there anything I treat as if it could rescue me that, examined honestly, can neither hear nor reply?",
+      "Do I speak to Allah, who hears, less often and with less expectation than I speak to people who cannot help me?",
+      "Can I ask hard questions about what others rely on without mocking the people who rely on it?",
+      "Which habit or dependence of mine would fall silent if I simply asked it to justify its place in my life?"
+    ],
+    "pointsBn": [
+      "ভয় পেলে সবার আগে আমি কিসের দিকে ছুটি? সেটা কি কখনো সত্যিই আমার ডাকে সাড়া দিয়েছে?",
+      "এমন কিছু কি আছে, যাকে আমি উদ্ধারকারী ভাবি, অথচ খোলা চোখে দেখলে সে না শুনতে পায়, না জবাব দিতে পারে?",
+      "যে আল্লাহ শোনেন, তাঁর সঙ্গে কি আমি কম কথা বলি, কম আশা নিয়ে বলি, অথচ যারা কিছুই করতে পারে না তাদের সঙ্গে বেশি?",
+      "অন্যরা যার উপর ভরসা করে, সে বিষয়ে কঠিন প্রশ্ন কি আমি সেই মানুষগুলোকে ঠাট্টা না করে তুলতে পারি?",
+      "আমার কোন অভ্যাস বা কোন নির্ভরতাকে জীবনে তার জায়গার কারণ জিজ্ঞেস করলেই সে চুপ হয়ে যাবে?"
+    ],
+    "lessonEn": "Test what you rely on by asking it to answer. Whatever cannot hear, reply or help has no claim on your worship, fear or hope; give those to the One who answers.",
+    "lessonBn": "যার উপর ভরসা করেন, তাকে জবাব দিতে বলে যাচাই করুন। যে শুনতে পায় না, সাড়া দেয় না, সাহায্যও করতে পারে না, আপনার ইবাদত, ভয় বা আশার উপর তার কোনো হক নেই। এগুলো দিন তাঁকে, যিনি সাড়া দেন।"
   }
 };
 

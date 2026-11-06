@@ -3651,6 +3651,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:92": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Questions in an Empty Hall",
+          "bn": "ফাঁকা ঘরে দুটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse is four Arabic words: ma lakum la tantiqun, what is wrong with you that you do not speak? It is the second half of a pair. The town of Ibrahim (AS) had gone out to its festival, and the preceding verse says he turned to their gods and asked, a la ta'kulun, will you not eat? This verse is what he said next, when nothing in the room moved. The verse after it, 37:93, turns from his words to his hand, and that belongs to its own place.",
+            "bn": "আয়াতটি আরবিতে মাত্র চারটি শব্দ: মা লাকুম লা তানতিকূন, কী হয়েছে আপনাদের, কথা বলেন না কেন? এটি একজোড়া প্রশ্নের দ্বিতীয়টি। ইবরাহীম (আঃ)-এর জনপদের লোকেরা উৎসবে বেরিয়ে গিয়েছিল। ঠিক আগের আয়াত বলছে, তিনি তাদের উপাস্যদের দিকে গেলেন আর জিজ্ঞেস করলেন: আলা তা'কুলূন, আপনারা খান না কেন? ঘরের কিছুই যখন নড়ল না, তখন তিনি যা বললেন, সেটাই এ আয়াত। পরের আয়াত, ৩৭:৯৩, কথা ছেড়ে তাঁর হাতের কাজের দিকে যায়। সে আলোচনা তার নিজের জায়গায়।"
+          },
+          {
+            "en": "Two commentators describe how he came to be standing there. Al-Baghawi explains the verb of 37:91, raagha, as turning aside towards something in secret, and says the word is not used unless the one moving hides his going and coming. Ibn Kathir has him go to the idols after the people had left, quickly and out of sight. So both questions are spoken in an empty building, to an audience of stone, with no worshipper there to hear them. Who, then, were they for? That question runs through the rest of this article.",
+            "bn": "তিনি কীভাবে সেখানে পৌঁছালেন, দুজন তাফসীরকার তা বলেন। বাগাভী ৩৭:৯১ আয়াতের ক্রিয়া রাগা-র ব্যাখ্যা দেন: গোপনে কোনো কিছুর দিকে সরে যাওয়া। তাঁর কথায়, যে যাচ্ছে সে নিজের যাওয়া-আসা লুকিয়ে না রাখলে এ শব্দ বলা হয় না। ইবন কাসীরের বর্ণনায় লোকেরা চলে যাওয়ার পর তিনি দ্রুত, চোখের আড়ালে মূর্তিগুলোর কাছে যান। তাহলে প্রশ্ন দুটি উচ্চারিত হয়েছে এক ফাঁকা ঘরে, শ্রোতা কেবল পাথর, শোনার মতো একজন পূজারিও নেই। তবে প্রশ্নগুলো কার জন্য? এ লেখার বাকি অংশ জুড়ে সেই প্রশ্নটাই থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Food Lay Before Them",
+          "bn": "মূর্তির সামনে কার খাবার"
+        },
+        "p": [
+          {
+            "en": "The first question assumes food, and the Qur'an does not say whose. The commentators fill that gap in different ways, and what they give is report, not the verse's own wording. Ibn Kathir writes that the people had placed food before the idols as an offering, so that it would be blessed for them. He then quotes as-Suddi: Ibrahim (AS) entered the house of the gods and found a great hall, a huge idol facing its door and smaller ones beside it in descending size, with food set before them. The people had said: when we return and the gods have blessed our food, we will eat it.",
+            "bn": "প্রথম প্রশ্নটা ধরে নেয় যে সামনে খাবার ছিল, অথচ কুরআন বলে না খাবারটা কার। তাফসীরকারেরা এই ফাঁক ভরেছেন নানাভাবে। তাঁরা যা দেন তা বর্ণনা, আয়াতের নিজের কথা নয়। ইবন কাসীর লেখেন, লোকেরা বরকতের আশায় মূর্তিগুলোর সামনে খাবার রেখেছিল নজরানা হিসেবে। এরপর তিনি সুদ্দীর বর্ণনা আনেন। ইবরাহীম (আঃ) দেবতাদের ঘরে ঢুকে দেখলেন বিশাল এক হলঘর। দরজার মুখোমুখি এক বিরাট মূর্তি, তার পাশে ক্রমে ছোট হয়ে আসা আরও মূর্তি, আর সবার সামনে খাবার রাখা। লোকেরা বলে গিয়েছিল, ফিরে এসে দেখব দেবতারা খাবারে বরকত দিয়েছে, তখন খাব।"
+          },
+          {
+            "en": "Al-Qurtubi gives three accounts, each under the words it was said. One: the people left food before the idols to eat on their return from the festival, so that it would catch their idols' blessing, as they claimed. Two: it had been left for the custodians. Three: Ibrahim (AS) himself brought food near to them, by way of mockery. At-Tabari gives the third picture as his own reading, not as a report. He says a phrase is left unspoken because the context shows it: he brought the food close to them, saw that they did not eat, and said, will you not eat?",
+            "bn": "কুরতুবী তিনটি বর্ণনা দেন, প্রতিটির শুরুতে 'বলা হয়'। এক, উৎসব থেকে ফিরে লোকেরা খাবে বলে খাবারটা মূর্তির সামনে রেখে গিয়েছিল, যাতে তাদের ধারণামতে মূর্তির বরকত তাতে লাগে। দুই, খাবারটা রাখা হয়েছিল মন্দিরের সেবায়েতদের জন্য। তিন, ইবরাহীম (আঃ) নিজেই ঠাট্টা করে খাবার ওদের কাছে এগিয়ে দিয়েছিলেন। তাবারীর ছবিটাও এই তৃতীয় বর্ণনার মতো, তবে তিনি তা দেন কোনো বর্ণনা হিসেবে নয়, নিজের ব্যাখ্যা হিসেবে। তাঁর মতে আয়াতে একটা অংশ উহ্য আছে, কারণ প্রসঙ্গই তা বুঝিয়ে দেয়। তিনি খাবার ওদের কাছে এগিয়ে দিলেন, দেখলেন ওরা খায় না, তখন বললেন: খান না কেন?"
+          },
+          {
+            "en": "The Muyassar speaks of this food which your custodians present to you, and al-Baghawi of the food that is before you. So the commentators who mention it agree that food stood in front of the idols, and differ over whose hands put it there: the worshippers', the custodians', or his own. That difference is kept here as it stands, with no side taken. None of it changes the verse. Whoever set the dish down, the figures behind it never reached for it, and that was all the first question needed to show.",
+            "bn": "মুয়াসসার বলে, সেবায়েতরা আপনাদের সামনে যে খাবার এনে দেয়। বাগাভী বলেন, আপনাদের সামনে রাখা খাবার। যাঁরা খাবারের কথা বলেন, তাঁরা সবাই একমত যে মূর্তিগুলোর সামনে খাবার ছিল। মতভেদ শুধু এ নিয়ে যে কার হাতে তা রাখা হয়েছিল: পূজারিদের, সেবায়েতদের, নাকি তাঁর নিজের। এখানে সে মতভেদ যেমন আছে তেমনই রাখা হলো, কোনো পক্ষ নেওয়া হলো না। আয়াতের অর্থ এতে বদলায় না। থালা যে-ই রাখুক, পেছনের মূর্তিগুলো কখনো হাত বাড়ায়নি। প্রথম প্রশ্নের দেখানোর কথা ছিল এটুকুই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Asked in Scorn",
+          "bn": "বিদ্রূপের সুরে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "On the tone of the two questions, the commentators speak with one voice. At-Tabari, on this verse: he did not see them speak, so he said to them, what is wrong with you that you do not speak, mustahzi'an biha, mocking them. The Muyassar uses the same word across both questions: he hurried over to his people's idols and said, mocking them, will you not eat this food? What is wrong with you that you do not speak, and do not answer whoever asks you? Al-Baghawi, on the verse before, has him speak istihza'an biha, in mockery of them.",
+            "bn": "প্রশ্ন দুটির সুর নিয়ে তাফসীরকারদের কথা এক। এ আয়াতে তাবারী বলেন, তিনি দেখলেন ওরা কথা বলে না, তখন বললেন, কী হয়েছে আপনাদের, কথা বলেন না কেন? আর বললেন মুসতাহযিআন বিহা, অর্থাৎ ওদের নিয়ে উপহাস করে। মুয়াসসার দুই প্রশ্নেই একই শব্দ রাখে। তিনি দ্রুত নিজ জাতির মূর্তিগুলোর কাছে গেলেন আর উপহাস করে বললেন: এই খাবার খান না কেন? কী হয়েছে আপনাদের, কথা বলেন না, যে জিজ্ঞেস করে তাকে জবাবও দেন না? বাগাভী আগের আয়াতে বলেন, তিনি কথাটা বলেছিলেন ইসতিহযাআন বিহা, ওদের প্রতি বিদ্রূপ করে।"
+          },
+          {
+            "en": "As-Sa'di picks a sharper word for the first question: mutahakkiman biha, deriding them, sarcasm rather than inquiry. None of these readers takes the questions as sincere. A man who has just challenged his people over what they worship (37:85) is not now hoping to be proved wrong. The questions are rhetorical in the plainest sense, asked so that the lack of an answer can be seen. And their scorn lands on carved objects, not on any person: the people who carved them are not in the room.",
+            "bn": "প্রথম প্রশ্নের বেলায় সা'দী আরও ধারালো শব্দ বেছে নেন: মুতাহাক্কিমান বিহা, ওদের নিয়ে তামাশা করে। এ জিজ্ঞাসা কিছু জানার জন্য নয়, ব্যঙ্গ। এই তাফসীরকারদের কেউই প্রশ্নগুলোকে আন্তরিক জিজ্ঞাসা মনে করেন না। তারা কিসের ইবাদত করে, এ নিয়ে যিনি একটু আগেই নিজের জাতিকে চ্যালেঞ্জ করেছেন (৩৭:৮৫), তিনি এখন নিজের কথা ভুল প্রমাণের আশায় দাঁড়িয়ে নেই। প্রশ্ন দুটি সোজা অর্থেই অলংকারিক। করা হয়েছে যাতে জবাব না আসাটা চোখে পড়ে। আর বিদ্রূপটা পড়ছে খোদাই করা বস্তুর উপর, কোনো মানুষের উপর নয়। যারা এগুলো খোদাই করেছে, তারা তো ঘরেই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken To as Though They Reasoned",
+          "bn": "বুদ্ধিমানের মতো সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notices something in the wording itself. He writes that Ibrahim (AS) addressed them as one addresses beings who reason, because the people had given them that rank. The address bears him out: you, and the plural verbs you eat and you speak, treat the figures as persons rather than things. Ibrahim (AS) speaks to the idols in the very terms their worshippers had granted them. He takes the people's claim at its word, that these are beings one can talk to, and then lets the stone fail it in silence.",
+            "bn": "কুরতুবী শব্দচয়নের ভেতরেই একটা জিনিস লক্ষ করেন। তিনি লেখেন, ইবরাহীম (আঃ) ওদের সম্বোধন করেছেন বুদ্ধিসম্পন্ন সত্তাকে যেভাবে সম্বোধন করা হয় সেভাবে, কারণ লোকেরা ওদের সেই মর্যাদায় বসিয়েছিল। সম্বোধনটাই তার সাক্ষী। আপনারা, আপনারা খান, আপনারা কথা বলেন: এসব শব্দ মূর্তিগুলোকে বস্তু নয়, ব্যক্তি হিসেবে ধরে। পূজারিরা ওদের যে মর্যাদা দিয়েছিল, ইবরাহীম (আঃ) ঠিক সেই ভাষাতেই ওদের সঙ্গে কথা বলেন। ওদের সঙ্গে কথা বলা যায়, লোকদের এই দাবি তিনি মেনে নিয়েই শুরু করেন। তারপর পাথরের নীরবতাই দাবিটাকে ভেঙে দেয়।"
+          },
+          {
+            "en": "At-Tabari also records, through his chain to Qatada, a one-word gloss on the pair of questions: yastantiquhum, he was asking them to speak. The verb means to call for speech, to invite someone to talk. On Qatada's reading the questions were an invitation the idols could not take up. Set side by side, the readings fit together: al-Qurtubi explains why he spoke to them as persons, Qatada names what he was asking of them, and at-Tabari, the Muyassar, al-Baghawi and as-Sa'di name the spirit in which he asked it.",
+            "bn": "তাবারী নিজের সনদে কাতাদা থেকে প্রশ্ন দুটির উপর এক শব্দের একটা ব্যাখ্যাও আনেন: ইয়াসতানতিকুহুম, তিনি ওদের কথা বলাতে চাইছিলেন। শব্দটার মানে কাউকে কথা বলতে ডাকা, মুখ খুলতে আহ্বান করা। কাতাদার পাঠে প্রশ্নগুলো ছিল এমন এক আমন্ত্রণ, যা গ্রহণ করার সাধ্য মূর্তিদের ছিল না। পাশাপাশি রাখলে ব্যাখ্যাগুলো একে অন্যকে পূর্ণ করে। কুরতুবী বলেন কেন তিনি ওদের ব্যক্তির মতো সম্বোধন করলেন। কাতাদা বলেন তিনি ওদের কাছে কী চাইছিলেন। আর তাবারী, মুয়াসসার, বাগাভী ও সা'দী বলেন কোন মনোভাব নিয়ে তিনি তা চাইছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Less Than Any Animal",
+          "bn": "যেকোনো প্রাণীর চেয়েও কম"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the argument out of the two questions. On this verse he writes: how could it be fitting for them to be worshipped, when they are less than the animals, which eat or speak? These are lifeless objects; they neither eat nor speak. Read this way, the two questions test the two plainest signs of life, taking food in and giving a voice out. Any living creature passes at least one of those tests. The figures in the hall pass neither, and still they were the ones being worshipped.",
+            "bn": "সা'দী প্রশ্ন দুটি থেকে যুক্তিটা বের করে আনেন। এ আয়াতে তিনি লেখেন: এদের ইবাদত করা কী করে শোভা পায়, যখন এরা প্রাণীদের চেয়েও অধম? প্রাণীরা তো খায়, কিংবা ডাকে। এগুলো জড় বস্তু, খায়ও না, কথাও বলে না। এভাবে পড়লে প্রশ্ন দুটি জীবনের সবচেয়ে সাধারণ দুটি চিহ্ন যাচাই করে: খাবার গ্রহণ আর আওয়াজ দেওয়া। যেকোনো জীবন্ত প্রাণী অন্তত একটা পরীক্ষায় পাস করে। হলঘরের মূর্তিগুলো পাস করে না কোনোটাতেই। অথচ ইবাদত পাচ্ছিল ওরাই।"
+          },
+          {
+            "en": "The Muyassar's paraphrase adds a clause that ties the test to worship itself: and do not answer whoever asks you. A god is asked for things. Its worshippers bring it their needs and wait for a response. Something that cannot so much as reply to a question put to it in an empty room cannot be the one who answers prayer. The silence is not a small flaw in an otherwise working deity. It removes the one thing the deity was being kept for, and the question was built to make that loss audible.",
+            "bn": "মুয়াসসারের ব্যাখ্যায় একটা বাড়তি অংশ আছে, যা পরীক্ষাটাকে সরাসরি ইবাদতের সঙ্গে জুড়ে দেয়: যে জিজ্ঞেস করে, তাকে জবাবও দেন না। উপাস্যের কাছে মানুষ কিছু চায়। পূজারিরা প্রয়োজন নিয়ে আসে, সাড়ার অপেক্ষায় থাকে। ফাঁকা ঘরে করা একটা প্রশ্নেরও যে জবাব দিতে পারে না, দোয়ার জবাব সে দেবে কী করে? এই নীরবতা কোনো সচল দেবতার ছোটখাটো খুঁত নয়। যে একটা কাজের জন্য তাকে রাখা হয়েছিল, নীরবতা সেটাই শেষ করে দেয়। আর প্রশ্নটা সাজানো হয়েছিল যাতে সেই শূন্যতা কানে বাজে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Test Returns in Other Surahs",
+          "bn": "অন্য সূরায় একই পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes, on the verses that follow, that the story is told briefly here and in more detail in Surat al-Anbiya. The verb of this verse returns there, in the people's own mouths. After they found their idols broken and questioned Ibrahim (AS), they were turned over on their heads, in the verse's own image, and said: you already know that these do not speak, ma ha'ula'i yantiqun (21:65). The test he put to the idols alone in this verse, with no one listening, ends in Surat al-Anbiya as the people's own admission, spoken to his face.",
+            "bn": "পরের আয়াতগুলোর আলোচনায় ইবন কাসীর বলেন, কাহিনিটা এখানে সংক্ষেপে এসেছে, আর সূরা আল-আম্বিয়ায় এসেছে বিস্তারিত। এ আয়াতের ক্রিয়াটি সেখানে ফিরে আসে, তবে এবার লোকদের নিজেদের মুখে। মূর্তিগুলো ভাঙা পেয়ে তারা ইবরাহীম (আঃ)-কে জেরা করল, তারপর, আয়াতের ভাষায়, তাদের মাথা উল্টে গেল, আর তারা বলল: তুমি তো জানোই, এরা কথা বলে না, মা হা-উলা-ই ইয়ানতিকূন (২১:৬৫)। এ আয়াতে যে পরীক্ষা তিনি একা ফাঁকা ঘরে মূর্তিদের সামনে রেখেছিলেন, সূরা আল-আম্বিয়ায় তার শেষ হয় লোকদের নিজেদের স্বীকারোক্তিতে, তাঁর মুখের উপর।"
+          },
+          {
+            "en": "Elsewhere Ibrahim (AS) puts the same kind of question to his people directly: do they hear you when you call on them, or do they benefit you, or harm you (26:72 and 26:73)? And the Qur'an turns the same measure on the calf made by the people of Musa (AS): did they not see that it could not speak to them or guide them to a way (7:148), that it could not return to them any word (20:89)? Across these passages one standard holds. Whatever cannot hear, speak or answer has no claim to be called a god.",
+            "bn": "আরেক জায়গায় ইবরাহীম (আঃ) একই ধরনের প্রশ্ন সরাসরি নিজের জাতিকে করেন: তোমরা যখন ডাকো, ওরা কি তোমাদের কথা শোনে? নাকি তোমাদের উপকার বা ক্ষতি করে (২৬:৭২ ও ২৬:৭৩)? মূসা (আঃ)-এর জাতির বানানো বাছুরের বেলাতেও কুরআন একই মাপকাঠি ব্যবহার করে। তারা কি দেখল না, সেটা তাদের সঙ্গে কথা বলে না, পথও দেখায় না (৭:১৪৮)? তাদের কথার কোনো জবাবও ফিরিয়ে দেয় না (২০:৮৯)? এসব জায়গায় মাপকাঠি একটাই। যে শোনে না, বলে না, সাড়া দেয় না, উপাস্য হওয়ার কোনো দাবি তার নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meant for Those Coming Back",
+          "bn": "যারা ফিরে আসবে, তাদের জন্য"
+        },
+        "p": [
+          {
+            "en": "If the idols could not hear, the questions had another audience. Ma'arif al-Qur'an explains why Ibrahim (AS) stayed behind: to go into the temple while everyone was away and break the idols, so that on their return the people would see the helplessness of their false gods with their own eyes. Perhaps, it adds, the sight would light the spark of faith in someone's heart, and he would repent and turn from shirk. The questions in these two verses belong to that plan: the helplessness spoken aloud before it was made visible.",
+            "bn": "মূর্তিরা যদি শুনতেই না পায়, তবে প্রশ্নগুলোর শ্রোতা অন্য কেউ। মাআরিফুল কুরআন ব্যাখ্যা করে ইবরাহীম (আঃ) কেন পেছনে রয়ে গেলেন। সবাই যখন বাইরে, তখন মন্দিরে ঢুকে মূর্তিগুলো ভাঙবেন, যাতে লোকেরা ফিরে এসে নিজের চোখে দেখে তাদের মিথ্যা উপাস্যরা কতটা অসহায়। হয়তো, মাআরিফুল কুরআন যোগ করে, সেই দৃশ্য কারও অন্তরে ঈমানের আলো জ্বালাবে, সে তওবা করে শিরক ছেড়ে দেবে। এ দুই আয়াতের প্রশ্ন সেই পরিকল্পনারই অংশ। অসহায়ত্বটা চোখে দেখানোর আগে তিনি তা মুখে উচ্চারণ করে দিলেন।"
+          },
+          {
+            "en": "There is a second audience as well: everyone who has heard the Qur'an recite the scene. Two questions said in an empty hall, which no human ear caught at the time, were kept and handed on. None of the tafsirs consulted for this verse attaches a hadith to it, and none reports an occasion of revelation; the verse sits inside a narrative, and the narrative carries its meaning. What reaches the listener is the question itself, and the silence that met it, and the invitation to ask the same question of whatever the listener worships.",
+            "bn": "আরেক দল শ্রোতাও আছে: যারা কুরআনের তিলাওয়াতে এ দৃশ্য শুনেছে, তারা সবাই। ফাঁকা হলঘরে বলা দুটি প্রশ্ন, তখন কোনো মানুষের কানে যা পৌঁছায়নি, তা সংরক্ষিত হয়ে যুগ যুগ ধরে পৌঁছে গেছে। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও বলেনি। আয়াতটি একটি কাহিনির অংশ, আর কাহিনিই এর অর্থ বহন করে। শ্রোতার কাছে যা পৌঁছায় তা প্রশ্নটা নিজে, তার জবাবে নেমে আসা নীরবতা, আর নিজের উপাস্যকে একই প্রশ্ন করার আহ্বান।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one ancient people and the idols they kept, addressed by their prophet in an empty temple. It licenses nothing against any living person or community, and it does not make mockery of other people's sacred things into a method. The Qur'an itself tells believers not to insult those whom others call on besides Allah, lest they insult Allah in ignorance (6:108). Ibrahim (AS)'s scorn here was spoken to stone, not thrown at worshippers; when they came to him, Ibn Kathir notes, he met them with reproof and an argument (37:95 and 37:96).",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি প্রাচীন জাতি আর তাদের রাখা মূর্তিগুলোর কথা বলে, যাদের তাদেরই নবী সম্বোধন করেছিলেন এক ফাঁকা মন্দিরে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। অন্যের পবিত্র জিনিস নিয়ে উপহাস করাকেও এটি কোনো পদ্ধতি বানায় না। কুরআন নিজেই মুমিনদের বলেছে, আল্লাহকে ছেড়ে অন্যরা যাদের ডাকে তাদের গালি দিয়ো না, তাহলে তারা অজ্ঞতাবশে আল্লাহকে গালি দেবে (৬:১০৮)। ইবরাহীম (আঃ)-এর বিদ্রূপ ছিল পাথরের প্রতি, পূজারিদের প্রতি ছুড়ে দেওয়া নয়। ইবন কাসীর বলেন, লোকেরা যখন তাঁর কাছে এল, তিনি তাদের সামনে দাঁড়ালেন তিরস্কার আর যুক্তি নিয়ে (৩৭:৯৫ ও ৩৭:৯৬)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ask It to Answer",
+          "bn": "তাকে জবাব দিতে বলুন"
+        },
+        "p": [
+          {
+            "en": "The two questions reach past that temple. Most people today keep no carved figures, but the habit the verse exposes is older than any statue: trusting something that has never once answered. Wealth, rank, a circle of useful people, a cherished routine can each be given the place of the one who answers. The test Ibrahim (AS) used is simple enough to carry anywhere. Ask what you depend on to hear you, to speak, to help you in the hour you need help, and listen honestly to what comes back.",
+            "bn": "প্রশ্ন দুটি ওই মন্দিরের সীমা ছাড়িয়ে যায়। আজ বেশির ভাগ মানুষের ঘরে খোদাই করা মূর্তি নেই। কিন্তু আয়াতটি যে অভ্যাস ধরিয়ে দেয়, তা যেকোনো মূর্তির চেয়ে পুরোনো: এমন কিছুর উপর ভরসা, যা কোনো দিন একবারও সাড়া দেয়নি। ধনসম্পদ, পদমর্যাদা, কাজের লোকদের একটা বৃত্ত, প্রিয় কোনো রুটিন, এর যেকোনোটাকেই সাড়াদাতার জায়গায় বসানো যায়। ইবরাহীম (আঃ)-এর পরীক্ষাটা এত সহজ যে যেকোনো জায়গায় নিয়ে যাওয়া যায়। যার উপর নির্ভর করেন, তাকে বলুন আপনার কথা শুনতে, মুখ খুলতে, বিপদের মুহূর্তে সাহায্য করতে। তারপর সৎভাবে শুনুন কী ফিরে আসে।"
+          },
+          {
+            "en": "Against that silence the surah sets a Lord who answers. A few verses earlier it records that Nuh (AS) called, and Allah says of Himself: how excellent were We as Responders (37:75). The contrast is the point of the scene. A god that cannot answer a question in an empty room is no refuge; the One who answered Nuh (AS) is. This verse does not argue that at length. It asks two short questions, lets nothing reply, and leaves the silence to make the case to everyone who hears it.",
+            "bn": "সেই নীরবতার বিপরীতে সূরাটি দাঁড় করায় এমন এক রবকে, যিনি সাড়া দেন। কয়েক আয়াত আগে সূরাটি জানায়, নূহ (আঃ) ডেকেছিলেন, আর আল্লাহ বলেন: আমি কতই না উত্তম সাড়াদাতা (৩৭:৭৫)। দৃশ্যটার মূল কথা এই বৈপরীত্যেই। ফাঁকা ঘরে একটা প্রশ্নের জবাব যে দিতে পারে না, সে কোনো আশ্রয় নয়। আশ্রয় তিনিই, যিনি নূহ (আঃ)-এর ডাকে সাড়া দিয়েছিলেন। আয়াতটি এ নিয়ে লম্বা যুক্তি দেয় না। দুটি ছোট প্রশ্ন করে, কোনো জবাব আসতে দেয় না, আর বাকিটা বুঝিয়ে দেওয়ার ভার ছেড়ে দেয় সেই নীরবতার উপর, যে-ই তা শুনুক।"
+          }
+        ]
+      }
+    ]
+  },
   "37:97": {
     "sections": [
       {
