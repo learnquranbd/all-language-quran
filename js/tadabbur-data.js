@@ -28089,6 +28089,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an describes bellies filled with what never nourishes while there is still time to listen; seek what truly satisfies, and never read the scene as a verdict on others.",
     "lessonBn": "যা কখনো পুষ্টি দেয় না, তা দিয়ে পেট ভরানোর ছবি কুরআন দেখাচ্ছে এখনই, যখন শোনার সময় আছে। যা সত্যিই তৃপ্তি দেয় তা খুঁজুন, আর এ দৃশ্যকে কখনো অন্যের উপর রায় বানাবেন না।"
+  },
+  "56:65": {
+    "reflectionEn": "The seed is in the ground. You chose it, ploughed for it, paid for it and watered it. Now the verse speaks of what might have been: if We willed, We could make it debris, and you would be left standing over the field, marvelling, blaming, regretting. The next verses give the voice of that loss: we are ruined; no, we are simply deprived. None of this has happened to your field this year, and that is the point. The harvest that stood was kept standing. The work was yours; the growing never was. Do I thank the Giver for the crop that came in, or only notice Him when it fails? And when something I built is spoiled, what do my first words say?",
+    "reflectionBn": "বীজ এখন মাটির নিচে। বীজটা আপনিই বেছেছেন, জমি চষেছেন, খরচ করেছেন, পানি দিয়েছেন। আয়াত এবার বলে, কী হতে পারত: আমি চাইলে একে খড়কুটা বানিয়ে দিতাম, আর আপনারা ক্ষেতের পাশে দাঁড়িয়ে থাকতেন হতবাক হয়ে, একে অন্যকে দোষ দিয়ে, আফসোস করে। পরের আয়াতে সেই ক্ষতির ভাষা: আমরা তো সর্বনাশে পড়লাম, না, আমরা একেবারে বঞ্চিত। এ বছর আপনার ক্ষেতে এর কিছুই ঘটেনি, আর আসল কথাটা সেখানেই। যে ফসল দাঁড়িয়ে আছে, তাকে দাঁড় করিয়ে রাখা হয়েছে। খাটুনি আপনার ছিল, কিন্তু গজিয়ে তোলা কখনো আপনার হাতে ছিল না। ঘরে ওঠা ফসলের জন্য কি আমি দাতার শোকর করি, নাকি তাঁকে মনে পড়ে শুধু ফসল নষ্ট হলে? আর নিজের গড়া কিছু নষ্ট হলে আমার মুখের প্রথম কথাগুলো কী বলে?",
+    "pointsEn": [
+      "What did I work hard for this year that came out well, and have I thanked Allah for it as His gift and not only my effort?",
+      "When a plan of mine was ruined, were my first words a complaint about my luck or a turn back to the One who gives?",
+      "How much of my security rests on things I can tend but cannot make grow?",
+      "Do I blame others, or myself, so loudly after a loss that I forget to ask what Allah is teaching me?",
+      "What would change in my week if I treated every meal as a harvest that was allowed to stand?"
+    ],
+    "pointsBn": [
+      "এ বছর কোন কাজে খেটেছি আর তা ভালোভাবে ফল দিয়েছে? সেটাকে কি শুধু নিজের চেষ্টার ফল ভেবেছি, নাকি আল্লাহর দান মনে করে শোকর করেছি?",
+      "আমার কোনো পরিকল্পনা যখন ভেস্তে গেছে, মুখের প্রথম কথা কি ছিল কপালের দোষ, নাকি দাতার দিকে ফিরে যাওয়া?",
+      "আমার নিশ্চিন্ত থাকার কতখানি এমন জিনিসের উপর দাঁড়িয়ে, যার যত্ন আমি নিতে পারি কিন্তু যাকে গজিয়ে তুলতে পারি না?",
+      "ক্ষতির পর অন্যকে বা নিজেকে দোষ দিতে দিতে আমি কি এত ব্যস্ত হয়ে পড়ি যে আল্লাহ কী শেখাচ্ছেন, সে প্রশ্নটাই ভুলে যাই?",
+      "প্রতিটি খাবারকে যদি এমন ফসল ভাবি যাকে টিকে থাকতে দেওয়া হয়েছে, তাহলে আমার সপ্তাহটা কেমন বদলে যেত?"
+    ],
+    "lessonEn": "You sow, but Allah makes it grow and keeps it from turning to debris; thank Him for the harvest that stood, and meet a loss by turning to Him.",
+    "lessonBn": "বীজ আপনি বোনেন, কিন্তু গজিয়ে তোলেন আল্লাহ, আর তিনিই একে খড়কুটা হতে দেন না। যে ফসল টিকে আছে তার জন্য শোকর করুন, আর ক্ষতির মুখে তাঁর দিকেই ফিরুন।"
   }
 };
 

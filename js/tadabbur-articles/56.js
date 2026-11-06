@@ -2367,6 +2367,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "56:65": {
+    "sections": [
+      {
+        "h": {
+          "en": "Sown, Then Held in Suspense",
+          "bn": "বোনা হলো, তারপর ঝুলে রইল"
+        },
+        "p": [
+          {
+            "en": "56:63 asks the listeners to consider what they sow, and 56:64 asks who makes it grow: is it you, or are We the Grower? This verse does not wait for an answer. It moves straight to a condition: law nasha'u la-ja'alnahu hutaman, if We willed, We would make it debris. The pronoun in ja'alnahu, it, points back to the crop of the two verses before. The second sign of the passage, the field, therefore ends not on a harvest but on the picture of one that never comes in.",
+            "bn": "৫৬:৬৩ শ্রোতাদের বলে, যা তোমরা বোনো তা ভেবে দেখো। ৫৬:৬৪ জানতে চায়, একে গজিয়ে তোলো কি তোমরা, নাকি উৎপাদনকারী আমি? এ আয়াত উত্তরের অপেক্ষা করে না। সোজা চলে যায় একটা শর্তে: লাও নাশাউ লাজাআলনাহু হুতামা, আমি চাইলে একে খড়কুটা বানিয়ে দিতাম। জাআলনাহু শব্দের শেষের সর্বনাম, এটি, আগের দুই আয়াতের সেই ফসলের দিকেই ইঙ্গিত করে। তাই এই অংশের দ্বিতীয় নিদর্শন, অর্থাৎ ক্ষেত, শেষ হয় ফসল কাটার ছবিতে নয়, বরং এমন এক ফসলের ছবিতে যা কখনো ঘরে ওঠে না।"
+          },
+          {
+            "en": "Ibn Kathir reads the condition against what actually happened. We made it grow, he paraphrases, by Our gentleness and mercy, and kept it for you as a mercy to you; had We willed, We would have dried it out before it ripened and was ready to be reaped. The Muyassar gives the whole group in a single sweep: you plough, but it is We who settle the seed in its place and make it sprout, and had We willed We would have made that crop broken stalks with no use as food.",
+            "bn": "ইবন কাসীর শর্তটাকে মিলিয়ে দেখেন বাস্তবে যা ঘটেছে তার সঙ্গে। তাঁর ভাষায়, আমিই একে গজিয়ে তুলেছি নিজের কোমলতা আর রহমতে, আর তোমাদের প্রতি দয়া করে টিকিয়ে রেখেছি। চাইলে পাকার আর কাটার উপযোগী হওয়ার আগেই একে শুকিয়ে দিতাম। মুয়াসসার পুরো আয়াতগুচ্ছ এক নিঃশ্বাসে বলে দেয়: তোমরা জমি চষো, কিন্তু বীজকে মাটিতে স্থির করি আর অঙ্কুরিত করি আমিই। আমি চাইলে সেই ফসলকে এমন ভাঙা খড় বানিয়ে দিতাম, যা খাবার হিসেবে কোনো কাজে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Straw Without a Grain",
+          "bn": "দানাহীন খড়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's first gloss on hutam is mutakassiran, broken, and he names the crop as the thing broken. He then defines the noun: withered, perished stalks of no use for food or nourishment. At-Tabari uses almost the same words: hashim, dry fragments that give no benefit as food or sustenance. Al-Baghawi reports from 'Ata' a more concrete picture, straw with no wheat in it. As-Sa'di widens the object of the verb to the tilled crop and the fruit it carries, made crumbled fragments with neither use nor provision in them.",
+            "bn": "হুতামের প্রথম ব্যাখ্যায় কুরতুবী বলেন মুতাকাসসিরা, ভাঙাচোরা। আর যা ভাঙছে, তা হলো ফসল। এরপর তাঁর সংজ্ঞায় হুতাম হলো শুকিয়ে নষ্ট হয়ে যাওয়া খড়, যা খাবার বা পুষ্টি কোনো কাজেই আসে না। তাবারীর শব্দও প্রায় একই: হাশীম, শুকনো টুকরো, খাদ্য বা জীবিকা হিসেবে যার কোনো উপকার নেই। বাগাভী আতা থেকে আরও স্পষ্ট এক ছবি আনেন: এমন খড়, যাতে গমের একটি দানাও নেই। সা'দী ক্রিয়ার কর্মকে আরও বড় করে দেখেন। চষা জমির ফসল আর তাতে ধরা ফল, সবই হয়ে যায় চূর্ণ টুকরো, যাতে না আছে উপকার, না রিজিক।"
+          },
+          {
+            "en": "Notice what the verse does not threaten. It does not say the seed would fail to sprout. The crop is allowed to rise, to be seen, to be counted on, and only then is it imagined broken. Ibn Kathir's paraphrase places the loss at the last stage, before it ripens and is harvested. That is the hardest point at which to lose a field, when every expense has already been paid. As-Sa'di says as much on the next clause: the loss comes after you have toiled over it and spent heavily on it.",
+            "bn": "আয়াতটি কোন ভয় দেখায় না, সেটাও লক্ষ করার মতো। বীজ অঙ্কুরিত হবে না, এমন কথা বলে না। ফসল মাথা তোলে, চোখে পড়ে, মানুষ তার উপর ভরসা করে বসে, আর তারপরই কল্পনায় তা ভেঙে পড়ে। ইবন কাসীরের ব্যাখ্যাও ক্ষতিটাকে রাখে শেষ ধাপে: পাকার আর কাটার আগেই। ক্ষেত হারানোর এর চেয়ে কঠিন সময় আর নেই, কারণ তখন সব খরচ মেটানো হয়ে গেছে। পরের অংশে সা'দীও একই কথা বলেন: এ ক্ষতি আসে তোমরা তাতে খাটার আর অনেক খরচ করার পর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left Standing Over the Field",
+          "bn": "ক্ষেতের পাশে থমকে থাকা"
+        },
+        "p": [
+          {
+            "en": "Fa-zaltum comes next, and you would remain. Al-Baghawi and al-Qurtubi both explain the form: its root shape is zalaltum, and one of the two lams was dropped to lighten it. Al-Qurtubi adds that the common reading opens the za', while 'Abdullah read it with a kasra, fa-ziltum, a reading Harun reported from Husayn from Abu Bakr. Either way the verb describes staying in a state. At-Tabari renders it fa-aqamtum, you would stay on, and as-Sa'di as fa-sirtum, you would become, because it was made debris.",
+            "bn": "এরপর আসে ফাযালতুম, অর্থাৎ তোমরা থেকে যেতে। বাগাভী আর কুরতুবী দুজনেই শব্দের গড়নটা বুঝিয়ে দেন। মূল রূপ যালালতুম, উচ্চারণ হালকা করতে দুটি লামের একটি বাদ পড়েছে। কুরতুবী আরও জানান, সাধারণ কিরাআতে যা-তে যবর, কিন্তু আবদুল্লাহ পড়েছেন যের দিয়ে, ফাযিলতুম। এ কিরাআত হারূন বর্ণনা করেছেন হুসাইন থেকে, তিনি আবূ বকর থেকে। যেভাবেই পড়া হোক, ক্রিয়াটি কোনো অবস্থায় আটকে থাকার কথা বলে। তাবারী এর অর্থ করেন ফাআকামতুম, তোমরা পড়ে থাকতে। সা'দী করেন ফাসিরতুম, ফসল খড়কুটা হয়ে যাওয়ার কারণে তোমরা হয়ে যেতে।"
+          },
+          {
+            "en": "The grammar paints a scene. The farmers are not pictured moving on to the next season or the next plan. They stay where the loss found them, and what they do there is named by one word, tafakkahun. Al-Qurtubi notes that the word has a second dialect form, tafakkanun, and quotes al-Farra' that the nun belongs to the speech of 'Ukl; he adds from the Sihah that tafakkun means regret over what has slipped away. What, then, are they doing as they stand there? The commentators do not agree.",
+            "bn": "ব্যাকরণ এখানে একটা দৃশ্য আঁকে। কৃষকদের দেখানো হয় না যে তারা পরের মৌসুম বা নতুন পরিকল্পনার দিকে এগিয়ে যাচ্ছে। ক্ষতি তাদের যেখানে ধরেছে, তারা সেখানেই থমকে আছে। আর সেখানে তারা কী করছে, তা বলা হয়েছে একটিমাত্র শব্দে: তাফাক্কাহূন। কুরতুবী জানান, শব্দটির আরেকটি আঞ্চলিক রূপ আছে, তাফাক্কানূন। ফাররার উদ্ধৃতি দিয়ে বলেন, নূন দিয়ে বলাটা উকল গোত্রের ভাষা। সিহাহ থেকে যোগ করেন, তাফাক্কুন মানে হাতছাড়া হয়ে যাওয়া জিনিসের জন্য আফসোস। তাহলে সেখানে দাঁড়িয়ে তারা আসলে কী করছে? এ প্রশ্নে তাফসীরকারেরা একমত নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wonder, Blame, Regret and Grief",
+          "bn": "বিস্ময়, দোষারোপ, আফসোস, দুঃখ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying that the interpreters differed. The first group: you would marvel at the calamity that struck your crop when it burned and perished. He gives this with chains to Ibn 'Abbas, Mujahid and Qatada, each saying only ta'ajjabun, you would marvel. At the end of his list the same sense returns from Ibn Zayd: marvel when your tilth was dealt with as it was, after which he recites 56:66 and 56:67. Al-Baghawi attributes the same sense, marvelling at what befell your crop, to 'Ata', al-Kalbi and Muqatil.",
+            "bn": "তাবারী শুরুতেই জানান, ব্যাখ্যাকারেরা এখানে ভিন্নমত পোষণ করেছেন। প্রথম দলের মতে অর্থ: ফসল পুড়ে নষ্ট হয়ে যাওয়ার যে বিপদ তোমাদের উপর এল, তাতে তোমরা হতবাক হয়ে থাকতে। ইবন আব্বাস (রাঃ), মুজাহিদ আর কাতাদা পর্যন্ত সনদসহ তিনি এ মত আনেন। তাঁদের প্রত্যেকের কথা একটিই: তাআজ্জাবূন, তোমরা বিস্মিত হতে। তালিকার শেষে একই অর্থ আবার আসে ইবন যায়দ থেকে: তোমাদের ক্ষেতের যে দশা হলো, তা দেখে বিস্মিত হতে। এরপর তিনি তিলাওয়াত করেন ৫৬:৬৬ ও ৫৬:৬৭। বাগাভী একই অর্থ, অর্থাৎ ফসলের দশা দেখে বিস্ময়, আতা, কালবী আর মুকাতিলের মত বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "A second group, in at-Tabari, reads it as blame. 'Ikrimah says talawamun, you would reproach each other, which at-Tabari explains as blaming each other for neglecting obedience to your Lord until the loss of the crop reached you. A third reads it as regret. Al-Hasan says tandamun, which at-Tabari explains as regret for past disobedience that made Allah's punishment due; he also reports tandamun from Qatada by a second chain, so Qatada stands in both lists. Yaman, in al-Qurtubi and al-Baghawi, makes it regret over what you spent, citing 18:42.",
+            "bn": "তাবারীর বর্ণনায় দ্বিতীয় দল একে দোষারোপ অর্থে নেন। ইকরিমা বলেন তালাওয়ামূন, তোমরা একে অন্যকে দোষ দিতে। তাবারীর ব্যাখ্যায়, রবের আনুগত্যে গাফিলতির জন্য, যার ফলে ফসল হারানোর এ বিপদ তোমাদের ধরল। তৃতীয় দল একে আফসোস অর্থে নেন। হাসান বলেন তানদামূন, আর তাবারী বোঝান: অতীতের সেই নাফরমানির জন্য আফসোস, যা আল্লাহর শাস্তিকে অবধারিত করেছে। কাতাদা থেকেও তিনি আরেক সনদে তানদামূন আনেন, তাই কাতাদার নাম দুই তালিকাতেই আছে। কুরতুবী আর বাগাভীর বর্ণনায় ইয়ামান একে বলেন খরচের জন্য আফসোস। প্রমাণ হিসেবে আনেন ১৮:৪২।"
+          },
+          {
+            "en": "Others name grief. Ibn Kaysan says tahzanun, you would grieve, and al-Qurtubi remarks that the meanings lie close together. Al-Kisa'i, in al-Baghawi, calls it longing for what has passed. Ibn Kathir reports from Mujahid that they would be stricken and grieve over the crop they had missed, then says this returns to the first meaning, marvelling at the cause for which they were struck in their wealth, and that this is the choice of Ibn Jarir. As-Sa'di, without naming anyone, glosses it as regret and sorrow over what has befallen you.",
+            "bn": "কেউ কেউ বলেন দুঃখের কথা। ইবন কায়সান বলেন তাহযানূন, তোমরা দুঃখে ভেঙে পড়তে। কুরতুবীর মন্তব্য, অর্থগুলো কাছাকাছি। বাগাভীর বর্ণনায় কিসাঈ বলেন, যা চলে গেছে তার জন্য হা-হুতাশ। ইবন কাসীর মুজাহিদ থেকে আনেন, ফসল হাতছাড়া হওয়ায় তারা আঘাত পেয়ে দুঃখ করত। তারপর বলেন, এ অর্থ গিয়ে মেলে প্রথমটার সঙ্গে: যে কারণে তাদের সম্পদে আঘাত এল, তা নিয়ে বিস্ময়। তিনি জানান, এটাই ইবন জারীরের পছন্দ। সা'দী কারও নাম না নিয়ে ব্যাখ্যা করেন: যে বিপদ এল, তার জন্য আফসোস আর মনস্তাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Facing Two Ways",
+          "bn": "দুই দিকে মুখ ফেরানো শব্দ"
+        },
+        "p": [
+          {
+            "en": "The word itself pulls in two directions. Al-Kisa'i, as both Ibn Kathir and al-Baghawi report him, counts tafakkaha among the addad, words that carry a meaning and its opposite: the Arabs say tafakkahtu for I enjoyed myself, and tafakkahtu for I grieved. Al-Qurtubi gives the cheerful sense too: tafakkahtu bi-sh-shay', I took pleasure in a thing. He adds, under it is said, that tafakkuh is talk about what does not concern you, hence fukaha for jesting, while fakaha is the quality of a man who is light-hearted and fond of jokes.",
+            "bn": "শব্দটা নিজেই দুই দিকে টানে। ইবন কাসীর আর বাগাভী দুজনেই কিসাঈর কথা আনেন: তাফাক্কাহা শব্দটি আদদাদ শ্রেণির, অর্থাৎ যে শব্দ একটি অর্থ আর তার বিপরীত দুটোই বহন করে। আরবরা তাফাক্কাহতু বলে আনন্দ উপভোগ বোঝাতে, আবার দুঃখ পাওয়া বোঝাতেও। কুরতুবীও আনন্দের অর্থটি দেন: তাফাক্কাহতু বিশ-শাই, কোনো জিনিস উপভোগ করলাম। 'বলা হয়' কথাটি জুড়ে তিনি আরও আনেন, তাফাক্কুহ মানে অপ্রয়োজনীয় বিষয়ে কথা বলা। সে থেকেই রসিকতাকে বলা হয় ফুকাহা। আর ফাকাহা হলো সেই মানুষের গুণ, যার মন হালকা আর যে ঠাট্টা-মশকরা ভালোবাসে।"
+          },
+          {
+            "en": "At-Tabari builds his choice on that talkative sense. The soundest view, he says, is that fa-zaltum means you would stay on marvelling at what struck your crop, and its root is tafakkuh bi-l-hadith: when one man tells another something that amazes him and keeps him occupied. So the picture is of people making each other marvel at what has befallen them. Ibn Kathir arrives at a similar scene: you would vary your talk, saying at one moment one thing and at another something else, and the next two verses give what is said.",
+            "bn": "তাবারী তাঁর পছন্দের মত দাঁড় করান কথা বলার এই অর্থের উপর। তাঁর মতে সবচেয়ে সঠিক কথা: ফাযালতুম মানে ফসলের উপর যা নামল তা নিয়ে তোমরা বিস্মিত হয়েই থাকতে। মূলে আছে তাফাক্কুহ বিল-হাদীস, অর্থাৎ একজন আরেকজনকে এমন কথা শোনায় যাতে সে অবাক হয়, তাতেই মজে থাকে। তাই দৃশ্যটা এমন: যে বিপদ এসেছে, তা নিয়ে তারা একে অন্যকে অবাক করে চলেছে। ইবন কাসীরও প্রায় একই দৃশ্যে পৌঁছান। তোমরা নানা রকম কথা বলতে, একবার এক কথা, আরেকবার আরেক কথা। আর সেসব কথা কী, তা জানায় পরের দুই আয়াত।"
+          },
+          {
+            "en": "As-Sa'di uses the cheerful sense differently. With the crop broken, he says, your joy, your delight and your tafakkuh would vanish, so the word that once named their pleasure in the field now names what they are left with. The difference stays open. At-Tabari judges marvelling the soundest reading; as-Sa'di gives regret and sorrow; 'Ikrimah gives mutual blame. This page leaves the choice where the commentators left it. Each reading pictures people standing over a ruined field and talking, and none of them pictures the field being restored.",
+            "bn": "সা'দী আনন্দের অর্থটা কাজে লাগান অন্যভাবে। তাঁর কথায়, ফসল ভেঙে পড়লে তোমাদের খুশি, আনন্দ আর তাফাক্কুহ সবই মিলিয়ে যেত। মানে, যে শব্দে একসময় ক্ষেত নিয়ে তাদের আনন্দের কথা বলা হতো, সেই শব্দেই এখন বলা হচ্ছে তাদের হাতে কী রইল। মতভেদটা খোলাই থাকে। তাবারী বিস্ময়কে সবচেয়ে সঠিক মনে করেন, সা'দী বলেন আফসোস আর মনস্তাপ, ইকরিমা বলেন পরস্পরকে দোষারোপ। তাফসীরকারেরা যেখানে প্রশ্নটা রেখে গেছেন, এ লেখাও সেখানেই রাখল। প্রতিটি অর্থেই ছবিটা এক: নষ্ট ক্ষেতের পাশে দাঁড়িয়ে মানুষ কথা বলছে, আর কোনো অর্থেই ক্ষেত আর ফিরে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruined, Punished or Unlucky",
+          "bn": "সর্বনাশ, শাস্তি, নাকি কপালের দোষ"
+        },
+        "p": [
+          {
+            "en": "The words the farmers speak in 56:66 arrive without a verb of saying. At-Tabari points to the omission: the sense is you would remain marvelling, saying: inna la-mughramun. The word saying was left out because the context makes it plain. Al-Qurtubi and al-Baghawi report that Abu Bakr, from 'Asim, read a-inna with two hamzas, as a question, and al-Qurtubi adds that 'Asim had it from Zirr ibn Hubaysh; the others read it as a statement. In that reading the farmers ask aloud: are we really ruined?",
+            "bn": "৫৬:৬৬ আয়াতে কৃষকদের কথাগুলো আসে 'বলা' ক্রিয়া ছাড়াই। তাবারী এই বাদ পড়াটা দেখিয়ে দেন। অর্থ হলো, তোমরা বিস্মিত হয়ে থাকতে আর বলতে: ইন্না লামুগরামূন। 'বলতে' শব্দটা বাদ দেওয়া হয়েছে, কারণ প্রসঙ্গ থেকেই তা বোঝা যায়। কুরতুবী আর বাগাভী জানান, আবূ বকর আসিম থেকে পড়েছেন আ-ইন্না, দুই হামযা দিয়ে, প্রশ্ন হিসেবে। কুরতুবী যোগ করেন, আসিম এটা পেয়েছেন যির ইবন হুবাইশ থেকে। বাকিরা পড়েছেন সংবাদ হিসেবে। প্রশ্নের কিরাআতে কৃষকেরা যেন জোরে জিজ্ঞেস করছে: আমরা কি সত্যিই সর্বনাশে পড়লাম?"
+          },
+          {
+            "en": "Mughramun gathers several glosses. Mujahid and 'Ikrimah say mula'un bina, something has fastened on us, and al-Qurtubi ties this to gharam as harm that clings. Qatada, with Ibn 'Abbas in al-Qurtubi, says mu'adhdhabun, punished, and at-Tabari prefers this because gharam among the Arabs means punishment, citing a line of al-A'sha. Mujahid is also reported as saying thrown into harm, and Muqatil ibn Hayyan as saying destroyed. Ad-Dahhak and Ibn Kaysan take it from ghurm: the mughram is one whose wealth went without return, so we have lost the seed we sowed.",
+            "bn": "মুগরামূন শব্দের কয়েকটি ব্যাখ্যা আছে। মুজাহিদ আর ইকরিমা বলেন মূলাউন বিনা, কিছু একটা আমাদের পেছনে লেগে গেছে। কুরতুবী এর সূত্র মেলান গারামের সঙ্গে, যার অর্থ লেগে থাকা অনিষ্ট। কাতাদা বলেন মুআযযাবূন, শাস্তিপ্রাপ্ত। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ)-ও তাঁর সঙ্গে আছেন। তাবারী এ মতই পছন্দ করেন, কারণ আরবদের কাছে গারাম মানে শাস্তি। প্রমাণে তিনি আশার একটি পঙক্তি আনেন। মুজাহিদ থেকে আরেক বর্ণনায় আছে, অনিষ্টের মুখে নিক্ষিপ্ত। মুকাতিল ইবন হাইয়ান বলেন, ধ্বংসপ্রাপ্ত। দাহহাক আর ইবন কায়সান শব্দটা নেন গুরম থেকে। মুগরাম সেই লোক, যার সম্পদ চলে গেছে কোনো বিনিময় ছাড়া। অর্থাৎ যে বীজ বুনেছিলাম, তা পুরোটাই গচ্চা গেল।"
+          },
+          {
+            "en": "As-Sa'di puts it simply: we have been diminished, and a calamity has swept over us. The English rendering in debt sits nearest to the reading of ad-Dahhak and Ibn Kaysan. Then 56:67 corrects the first complaint with bal, rather: nahnu mahrumun, we are deprived. The Muyassar says deprived of provision. Ibn Kathir reports Qatada as muharafun, people with whom no wealth stays and for whom no profit comes, and Mujahid as majdudun, people with no share of fortune. He presents the two sayings as alternating: now the first, now the second.",
+            "bn": "সা'দী সহজ কথায় বলেন: আমাদের ক্ষতি হয়ে গেল, এক বিপদ এসে সব ভাসিয়ে নিল। ইংরেজি অনুবাদের 'ঋণগ্রস্ত' কথাটা দাহহাক আর ইবন কায়সানের ব্যাখ্যার সবচেয়ে কাছাকাছি। এরপর ৫৬:৬৭ প্রথম অভিযোগটা শুধরে নেয় বাল দিয়ে, অর্থাৎ বরং: নাহনু মাহরূমূন, আমরা বঞ্চিত। মুয়াসসার বলে, রিজিক থেকে বঞ্চিত। ইবন কাসীর কাতাদা থেকে আনেন মুহারাফূন, যাদের হাতে সম্পদ টেকে না, লাভও আসে না। আর মুজাহিদ থেকে মাজদূদূন, ভাগ্যে যাদের কোনো হিস্যা নেই। তাঁর উপস্থাপনায় দুটি কথা পালা করে আসে: একবার প্রথমটা, আরেকবার দ্বিতীয়টা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks for What Was Spared",
+          "bn": "যা রক্ষা পেল, তার শোকর"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi says the verse alerts its hearers to two things. The first is the favour He showed them in their crops by not making them debris, so that they would thank Him. The second is a lesson about themselves: just as He makes the crop debris when He wills, so He destroys them when He wills, that they might take heed and hold back. The verse, then, is about the field and about the farmer at once. Ibn Kathir's paraphrase points the same way: the harvest that stood was kept for you as a mercy.",
+            "bn": "কুরতুবী বলেন, আয়াতটি শ্রোতাদের দুটি বিষয়ে সজাগ করে। প্রথমটি সেই নিয়ামত, যা তিনি তাদের ফসলে দিয়েছেন, ফসলকে খড়কুটা না বানিয়ে, যাতে তারা তাঁর শোকর করে। দ্বিতীয়টি তাদের নিজেদের ব্যাপারে শিক্ষা। তিনি যেমন চাইলে ফসলকে খড়কুটা বানান, তেমনি চাইলে তাদেরও ধ্বংস করেন, যাতে তারা উপদেশ নেয় আর বিরত থাকে। তাই আয়াতটি একসঙ্গে ক্ষেতের কথা, কৃষকের কথাও। ইবন কাসীরের ব্যাখ্যাও একই দিকে ইশারা করে: যে ফসল দাঁড়িয়ে আছে, তা তোমাদের জন্য রহমত হিসেবে টিকিয়ে রাখা হয়েছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, on the group, describes the farmer's part as real but limited: he ploughs, enriches and softens the soil so that a shoot will not be held back by hard ground, and tends it once it sprouts. He is not, it says, the cause of the shoot pushing out of the seed, and a man absorbed in such secondary causes can lose sight of his Creator. None of the commentaries consulted attaches a hadith to this verse itself, so none is cited here, and none is borrowed from neighbouring verses.",
+            "bn": "মাআরিফুল কুরআন আয়াতগুচ্ছের আলোচনায় কৃষকের ভূমিকাকে সত্য বলে, তবে সীমিত। সে জমি চষে, সার দেয়, মাটি নরম করে, যাতে শক্ত মাটিতে চারা আটকে না যায়। অঙ্কুর বের হলে তার যত্ন নেয়। কিন্তু বীজ ফুঁড়ে চারা বের করে আনার কারণ সে নয়। আর এসব বাহ্যিক উপায়ে যে মানুষ ডুবে থাকে, সে নিজের সৃষ্টিকর্তাকেই ভুলে যেতে পারে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি, পাশের আয়াত থেকেও ধার করে আনা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Harvest Fails",
+          "bn": "ফসল যখন মার খায়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks in a condition, if We willed, and it names no field, no season and no people. Some early readers, al-Hasan and 'Ikrimah among them, picture the farmers regretting or blaming each other for sins, but that is their reading of a hypothetical. The verse licenses no one to point at a farmer whose crop has failed, or a region struck by drought, and call it a punishment. That judgement is not handed to any reader. What the verse hands the reader is a question about his own field.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কথা বলে শর্তের ভাষায়, আমি চাইলে, আর এতে কোনো ক্ষেত, কোনো মৌসুম বা কোনো জনগোষ্ঠীর নাম নেই। হাসান আর ইকরিমার মতো কয়েকজন প্রাচীন ব্যাখ্যাকার কৃষকদের ছবি আঁকেন গুনাহের জন্য আফসোস বা পরস্পরকে দোষারোপ করা মানুষ হিসেবে। কিন্তু সেটা একটা কাল্পনিক অবস্থার ব্যাখ্যা। যার ফসল নষ্ট হয়েছে, বা যে এলাকায় খরা নেমেছে, তার দিকে আঙুল তুলে একে শাস্তি বলার অনুমতি এ আয়াত কাউকে দেয় না। এ রায় কোনো পাঠকের হাতে দেওয়া হয়নি। পাঠকের হাতে আয়াত দেয় তার নিজের ক্ষেত নিয়ে একটা প্রশ্ন।"
+          },
+          {
+            "en": "Read that way, the verse is about dependence. The ploughing, the seed, the expense and the waiting are yours; the growing and the keeping never were. Every meal is a harvest that was allowed to stand. Notice too what the farmers in 56:66 and 56:67 talk about: ruin, punishment, bad luck, deprivation. Their words circle their own loss and never reach Him who made the field grow. When something you built is spoiled, the verse leaves you free to choose other first words, and to turn back to the Giver.",
+            "bn": "এভাবে পড়লে আয়াতটির কথা নির্ভরতা নিয়ে। জমি চষা, বীজ, খরচ, অপেক্ষা, এসব আপনার। কিন্তু গজিয়ে তোলা আর টিকিয়ে রাখা কখনো আপনার হাতে ছিল না। প্রতিটি খাবার এমন এক ফসল, যাকে দাঁড়িয়ে থাকতে দেওয়া হয়েছে। ৫৬:৬৬ ও ৫৬:৬৭ আয়াতে কৃষকেরা কী নিয়ে কথা বলে, সেটাও খেয়াল করুন: সর্বনাশ, শাস্তি, কপালের দোষ, বঞ্চনা। তাদের কথা নিজেদের ক্ষতির চারপাশেই ঘোরে, ক্ষেত যিনি গজিয়েছেন, তাঁর কাছে পৌঁছায় না। নিজের গড়া কিছু নষ্ট হলে আপনার সামনে পথ খোলা: মুখের প্রথম কথাগুলো অন্য রকম হতে পারে, আর ফিরে যাওয়া যায় দাতার কাছে।"
+          }
+        ]
+      }
+    ]
+  },
   "56:69": {
     "sections": [
       {
