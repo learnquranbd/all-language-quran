@@ -24371,6 +24371,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A righteous forefather is worth nothing to you unless you walk his path; let the news of Ibrahim question you before it flatters you.",
     "lessonBn": "নেক পূর্বপুরুষের পথে না হাঁটলে তাঁর নাম আপনার কোনো কাজে আসবে না; ইবরাহীম (আঃ)-এর বৃত্তান্ত আপনাকে খুশি করার আগে আপনাকে প্রশ্ন করুক।"
+  },
+  "26:117": {
+    "reflectionEn": "He has just been told that if he does not stop, he will be stoned. He could answer the crowd in kind, or fall silent. Nuh turns away from them and speaks to his Lord instead: my Lord, my people have denied me. He tells Allah nothing Allah does not already know. He sets out his case before he asks for anything, and he still calls them my people. The request comes in the next verse: judge between me and them, and save me and the believers with me. A grievance carried to the One who judges is different from a grievance spread among people. When I am rejected for something true, where does my complaint go first?",
+    "reflectionBn": "এইমাত্র তাঁকে শাসানো হয়েছে, থামো, নইলে পাথর মেরে শেষ করে দেব। তিনি পাল্টা কড়া জবাব দিতে পারতেন, কিংবা চুপ করে যেতে পারতেন। নূহ (আঃ) তাদের দিক থেকে মুখ ফিরিয়ে রবের সঙ্গে কথা বলেন: হে আমার রব, আমার কওম আমাকে মিথ্যাবাদী বলেছে। আল্লাহ যা জানেন না, এমন কোনো খবর তিনি দিচ্ছেন না। কিছু চাওয়ার আগে নিজের মামলাটা শুধু তুলে ধরছেন, আর তখনো তাদের বলছেন 'আমার কওম'। চাওয়াটা আসে পরের আয়াতে: আমার আর তাদের মাঝে ফয়সালা করে দিন, আর আমাকে ও আমার সঙ্গী মুমিনদের বাঁচান। যিনি বিচার করেন, তাঁর কাছে নিয়ে যাওয়া নালিশ আর মানুষের মাঝে ছড়িয়ে দেওয়া নালিশ এক জিনিস নয়। সত্য কথা বলে প্রত্যাখ্যাত হলে আমার নালিশ প্রথমে কোথায় যায়?",
+    "pointsEn": [
+      "When someone rejects what I said in good faith, do I take it to Allah first, or to everyone around me?",
+      "Can I name a wrong done to me plainly, in one sentence, without adding insults to it?",
+      "Before deciding that the people closest to me will never listen, how long have I actually kept calling them?",
+      "Do I still speak of those who oppose me as my own people, or have I already written them out of my life?",
+      "When I ask Allah to judge between me and someone, am I ready for His judgement to examine me as well?"
+    ],
+    "pointsBn": [
+      "সরল মনে বলা আমার কথা কেউ ফিরিয়ে দিলে আমি কি আগে আল্লাহর কাছে যাই, নাকি আশপাশের সবার কাছে?",
+      "আমার উপর হওয়া অন্যায়টা কি আমি গালমন্দ না জুড়ে এক বাক্যে সোজাসুজি বলতে পারি?",
+      "কাছের মানুষেরা কখনো শুনবে না, এই সিদ্ধান্তে পৌঁছানোর আগে আসলে কতদিন তাদের ডেকেছি?",
+      "যারা আমার বিরোধিতা করে, তাদের কি এখনো আপন লোক বলি, নাকি মন থেকে আগেই বাদ দিয়ে ফেলেছি?",
+      "কারও আর আমার মাঝে আল্লাহর ফয়সালা চাইলে আমি কি প্রস্তুত যে সেই ফয়সালা আমাকেও যাচাই করবে?"
+    ],
+    "lessonEn": "When you are rejected for the truth, carry the grievance to Allah, state it plainly, and ask Him to judge, instead of answering threats with threats.",
+    "lessonBn": "সত্যের জন্য প্রত্যাখ্যাত হলে হুমকির জবাবে হুমকি না দিয়ে নালিশটা আল্লাহর কাছে নিয়ে যান, সোজা কথায় বলুন, আর ফয়সালার ভার তাঁকেই দিন।"
   }
 };
 

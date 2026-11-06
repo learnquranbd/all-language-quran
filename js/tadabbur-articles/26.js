@@ -3883,6 +3883,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:117": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turning From Them to Him",
+          "bn": "কওম থেকে মুখ ফিরিয়ে রবের দিকে"
+        },
+        "p": [
+          {
+            "en": "The verse comes straight after a threat. Nuh (AS) has told the chiefs of his people that he will not drive the believers away and that he is only a clear warner. Their answer, in 26:116, is that if he does not stop, he will be among al-marjumin, those who are stoned. The next words in the passage are his, but they are not spoken to the chiefs. Qala rabbi inna qawmi kadhdhabun: he said, my Lord, my people have denied me.",
+            "bn": "আয়াতটি আসে একটা হুমকির ঠিক পরে। নূহ (আঃ) কওমের সর্দারদের বলে দিয়েছেন, তিনি মুমিনদের তাড়িয়ে দেবেন না, তিনি কেবল একজন স্পষ্ট সতর্ককারী। ২৬:১১৬ আয়াতে তাদের জবাব: থামো, নইলে তুমি হবে আল-মারজূমীনদের একজন, যাদের পাথর মারা হয়। এরপর কথাগুলো তাঁরই, কিন্তু সর্দারদের উদ্দেশে নয়। কালা রব্বি ইন্না কওমী কাযযাবূন: তিনি বললেন, হে আমার রব, আমার কওম আমাকে মিথ্যাবাদী বলেছে।"
+          },
+          {
+            "en": "Until this point every word of Nuh (AS) in the account has been addressed to his people: the call to fear Allah, the refusal of a wage, the defence of his followers. Here, for the first time in the passage, he speaks to his Lord. The sentence is short and holds one fact. Rabbi, my Lord. Inna, the particle that makes a statement firm. Qawmi, my people, the possessive he has not dropped even now. Kadhdhabun, they have denied me, with the \"me\" carried by the final vowel. There is no insult in it and no list of grievances.",
+            "bn": "এ পর্যন্ত ঘটনায় নূহ (আঃ)-এর প্রতিটি কথা ছিল কওমের প্রতি: আল্লাহকে ভয় করার ডাক, পারিশ্রমিক না নেওয়ার ঘোষণা, অনুসারীদের পক্ষে দাঁড়ানো। এখানে এসে এই বর্ণনায় প্রথমবার তিনি রবের সঙ্গে কথা বলছেন। বাক্যটি ছোট, তাতে একটাই তথ্য। রব্বি, হে আমার রব। ইন্না, যে শব্দ কথাটাকে দৃঢ় করে। কওমী, আমার কওম, এখনো তিনি 'আমার' শব্দটা ছাড়েননি। কাযযাবূন, তারা আমাকে মিথ্যাবাদী বলেছে, শেষের স্বরধ্বনিতেই 'আমাকে' লুকানো। এতে কোনো গালি নেই, অভিযোগের লম্বা তালিকাও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denied in What He Brought",
+          "bn": "যা এনেছিলেন, তাতেই অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "What exactly had they denied? At-Tabari answers in one line. Nuh (AS) is saying that they denied him in the truth he had brought them from his Lord, and that they threw his sincere counsel back at him. Two things are refused in that gloss: the message, which came from Allah, and the nasiha, the well-meant advice of a man who wanted good for them. The verb's object is Nuh himself, but at-Tabari shows that the person and what he carried cannot be pulled apart.",
+            "bn": "তারা ঠিক কী অস্বীকার করেছিল? তাবারী এক লাইনে উত্তর দেন। নূহ (আঃ) বলছেন, রবের কাছ থেকে যে সত্য তিনি তাদের কাছে এনেছিলেন, তাতেই তারা তাঁকে মিথ্যাবাদী বলেছে, আর তাঁর আন্তরিক নসীহত তাঁর মুখের উপর ফিরিয়ে দিয়েছে। তাবারীর ব্যাখ্যায় দুটি জিনিস প্রত্যাখ্যাত হয়। একটা বার্তা, যা এসেছিল আল্লাহর কাছ থেকে। আরেকটা নসীহত, এমন একজন মানুষের হিতকথা যিনি তাদের ভালো চাইতেন। ক্রিয়ার কর্ম নূহ (আঃ) নিজে, তবে তাবারী দেখিয়ে দেন, মানুষটি আর তাঁর বয়ে আনা বার্তাকে আলাদা করা যায় না।"
+          },
+          {
+            "en": "The Muyassar reads the same past tense as something settled: my people have persisted in denying me. It is not one rejection on one afternoon but a stance they have held and will not leave. The surah had already named the whole story by this verb. Its opening line, 26:105, says that the people of Nuh denied the messengers. What the Qur'an stated at the start, Nuh (AS) now says in his own voice at the end, and he says it to the only listener who can act on it.",
+            "bn": "মুয়াসসার একই অতীতকালকে পড়ে স্থায়ী অবস্থা হিসেবে: আমার কওম আমাকে মিথ্যাবাদী বলায় অনড় হয়ে আছে। কোনো এক বিকেলের একবারের প্রত্যাখ্যান এটা নয়। এ এমন এক অবস্থান, যা তারা আঁকড়ে আছে, ছাড়বে না। সূরাটি এই ক্রিয়া দিয়েই গোটা কাহিনির নাম দিয়ে রেখেছিল। শুরুর আয়াত ২৬:১০৫ বলে, নূহের কওম রাসূলদের মিথ্যাবাদী বলেছিল। কুরআন শুরুতে যা জানিয়েছিল, শেষে এসে নূহ (আঃ) নিজের মুখে তা-ই বলছেন, আর বলছেন এমন একজনকে, যিনি একাই এর প্রতিকার করতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why He Spoke Then",
+          "bn": "ঠিক তখনই কেন এ কথা"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on what the sentence says but place its moment a little differently. Al-Qurtubi's whole note on the verse is a single clause: he said that when he had despaired of their believing. His weight falls on what had happened inside Nuh (AS), the end of a hope he had carried. The Muyassar puts the weight on what had just happened outside him: when Nuh heard this saying of theirs, the threat of 26:116, he called on his Lord with these words.",
+            "bn": "বাক্যটি কী বলছে, তা নিয়ে মুফাসসিররা একমত, তবে মুহূর্তটা একটু ভিন্নভাবে বসান। এ আয়াতে কুরতুবীর পুরো টীকা একটিমাত্র বাক্যাংশ: তাদের ঈমান আনার ব্যাপারে নিরাশ হয়ে তিনি এ কথা বলেছিলেন। তাঁর জোর নূহ (আঃ)-এর ভেতরে যা ঘটেছিল তার উপর, দীর্ঘদিন বয়ে বেড়ানো এক আশার অবসান। মুয়াসসার জোর দেয় বাইরে এইমাত্র যা ঘটল তার উপর। নূহ (আঃ) যখন তাদের এই কথা শুনলেন, মানে ২৬:১১৬ আয়াতের হুমকি, তখন এই কথাগুলো বলে রবকে ডাকলেন।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di, writing on 26:116, join the two. Ibn Kathir says the prophet's stay among them grew long, calling them to Allah by night and by day, openly and in secret, and each time he repeated the call they set themselves harder in dense disbelief and fierce refusal, until at the last they spoke the threat. At that point, he says, Nuh made a supplication against them, and Allah answered it. He gives no count of the years; he says only that the stay grew long.",
+            "bn": "ইবন কাসীর আর সা'দী ২৬:১১৬ আয়াতের আলোচনায় দুটিকে মিলিয়ে দেন। ইবন কাসীর বলেন, তাদের মাঝে আল্লাহর নবীর অবস্থান দীর্ঘ হয়েছিল। রাতে-দিনে, প্রকাশ্যে-গোপনে তিনি তাদের আল্লাহর দিকে ডেকেছেন। যতবার ডাক ফিরিয়ে এনেছেন, ততবার তারা ঘন কুফর আর কঠোর অস্বীকারে আরও শক্ত হয়ে বসেছে। শেষে তারা হুমকিটা উচ্চারণ করল। ইবন কাসীর বলেন, ঠিক তখনই নূহ (আঃ) তাদের বিরুদ্ধে দোয়া করলেন, আর আল্লাহ তা কবুল করলেন। বছরের কোনো হিসাব তিনি এখানে দেন না, শুধু বলেন, অবস্থান দীর্ঘ হয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di tells it the same way: Nuh (AS) kept calling them night and day, in secret and in public, and they grew only in aversion, until their wrongdoing reached its limit and their disbelief became severe. Then, on this verse, he writes simply: and here he said, my Lord, my people have denied me. These are differences of emphasis, not a dispute. Despair, the threat, and a long history of refusal all stand behind the one sentence, and each commentator lights a different side of it.",
+            "bn": "সা'দীর বর্ণনাও একই রকম। নূহ (আঃ) রাতে-দিনে, গোপনে-প্রকাশ্যে তাদের ডেকে গেছেন, আর তাদের বিমুখতা কেবল বেড়েছে। শেষে তাদের জুলুম চরমে পৌঁছাল, কুফর কঠিন হয়ে উঠল। তারপর এ আয়াতে এসে তিনি সংক্ষেপে লেখেন: আর এখানেই তিনি বললেন, হে আমার রব, আমার কওম আমাকে মিথ্যাবাদী বলেছে। এগুলো জোরের পার্থক্য, মতবিরোধ নয়। নিরাশা, হুমকি আর দীর্ঘ প্রত্যাখ্যানের ইতিহাস, সবই এই এক বাক্যের পেছনে দাঁড়িয়ে আছে। প্রত্যেক মুফাসসির তার একেকটা দিকে আলো ফেলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stones, Death, or Insults",
+          "bn": "পাথর, মৃত্যু, না গালাগাল"
+        },
+        "p": [
+          {
+            "en": "What the threat meant is itself disputed, and the answer shapes what Nuh (AS) was facing. Al-Qurtubi gives Qatada's reading, stoned with stones, then Ibn 'Abbas and Muqatil, who say killed, and relays from ath-Thumali that every marjumin in the Qur'an means killing except in Maryam, where Ibrahim's father's threat means I will revile you. He also gives as-Suddi's reading: reviled. Al-Baghawi has Muqatil and al-Kalbi say killed with stones, and ad-Dahhak say reviled. At-Tabari takes the second line outright: we will abuse you with words.",
+            "bn": "হুমকিটার মানে কী, তা নিয়েই মতভেদ আছে, আর সেই উত্তরেই বোঝা যায় নূহ (আঃ) কিসের মুখোমুখি ছিলেন। কুরতুবী কাতাদার মত আনেন: পাথর দিয়ে পাথর মারা। এরপর ইবন আব্বাস ও মুকাতিলের মত: হত্যা করা। সুমালী থেকে তিনি বর্ণনা করেন, কুরআনে যত জায়গায় মারজূমীন আছে, সবখানে মানে হত্যা, কেবল সূরা মারইয়াম ছাড়া। সেখানে ইবরাহীম (আঃ)-কে তাঁর পিতার হুমকির মানে, আমি তোমাকে গালি দেব। সুদ্দীর মতও তিনি আনেন: গালি দেওয়া। বাগাভীর বর্ণনায় মুকাতিল ও কালবী বলেন পাথর মেরে হত্যা, আর দাহহাক বলেন গালি। তাবারী সরাসরি দ্বিতীয় মতটাই নেন: আমরা তোমাকে গালাগাল করব।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di read it as stoning, and as-Sa'di makes it as harsh as it can be: we will kill you in the worst way, pelting you with stones as a dog is killed. Then he pauses on it. How ugly, he writes, is this return: they meet the sincere, trustworthy adviser, who cared for them more than they cared for themselves, with the worst of answers. Whichever reading is right, abuse or death, the reply in 26:117 is not a counter-threat. It is a sentence spoken upward.",
+            "bn": "ইবন কাসীর ও সা'দী একে পাথর মারা অর্থে পড়েন, আর সা'দী একে সবচেয়ে কঠিন রূপে আনেন: আমরা তোমাকে নিকৃষ্টতম উপায়ে মারব, কুকুরকে যেভাবে পাথর ছুড়ে মারা হয়। তারপর তিনি সেখানে থামেন। কী জঘন্য এই প্রতিদান, তিনি লেখেন। যে আন্তরিক ও আমানতদার হিতাকাঙ্ক্ষী তাদের প্রতি তাদের নিজেদের চেয়েও বেশি দরদি, তাকে তারা দিচ্ছে সবচেয়ে খারাপ জবাব। গালি হোক বা মৃত্যু, যে অর্থই ঠিক হোক, ২৬:১১৭ আয়াতের জবাব পাল্টা হুমকি নয়। এ বাক্য উচ্চারিত হয়েছে উপরের দিকে, রবের উদ্দেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not News, but a Plea",
+          "bn": "খবর নয়, ফরিয়াদ"
+        },
+        "p": [
+          {
+            "en": "Nuh (AS) is not informing his Lord of something his Lord had missed. The One who sent him knew every answer his people had given. The commentators treat the sentence as the opening of a prayer. The Muyassar introduces it with the words he called on his Lord, and runs this verse and the next together as one supplication. Al-Baghawi, too, glosses the two verses as a single sentence, carrying straight on from kadhdhabun into fa-ftah, then judge.",
+            "bn": "নূহ (আঃ) রবকে এমন কোনো খবর দিচ্ছেন না, যা তাঁর অজানা। যিনি তাঁকে পাঠিয়েছেন, কওমের প্রতিটি জবাব তিনি জানতেন। মুফাসসিররা বাক্যটিকে দোয়ার সূচনা হিসেবে পড়েন। মুয়াসসার এর আগে বসায় 'তিনি রবকে ডাকলেন' কথাটি, আর এ আয়াত ও পরের আয়াতকে মিলিয়ে একটাই দোয়া বানায়। বাগাভীও দুই আয়াতের ব্যাখ্যা দেন এক বাক্যে, কাযযাবূন থেকে সোজা চলে যান ফাফতাহ-তে, অর্থাৎ তাহলে ফয়সালা করে দিন।"
+          },
+          {
+            "en": "Ibn Kathir quotes the two verses together and sets beside them another of Nuh's prayers, from 54:10: so he invoked his Lord, indeed I am overpowered, so help. Both prayers have the same shape. First the servant states his condition, plainly and without decoration: they have denied me; I am overpowered. Then comes the fa, the so, and the request follows from what was stated. The complaint is not a report for its own sake. It is the ground on which the request is made.",
+            "bn": "ইবন কাসীর দুই আয়াত একসঙ্গে উদ্ধৃত করেন, আর পাশে রাখেন নূহ (আঃ)-এর আরেকটি দোয়া, ৫৪:১০ আয়াত থেকে: তখন তিনি রবকে ডাকলেন, আমি পরাস্ত, তাই আপনি প্রতিকার করুন। দুটো দোয়ার গড়ন এক। আগে বান্দা নিজের অবস্থা বলে, সোজা কথায়, কোনো সাজসজ্জা ছাড়া: তারা আমাকে মিথ্যাবাদী বলেছে, আমি পরাস্ত। তারপর আসে 'ফা', মানে 'তাই', আর যা বলা হলো তার উপর দাঁড়িয়েই চাওয়াটা আসে। নালিশটা নিছক বিবরণ নয়। চাওয়ার ভিত্তি এটাই।"
+          },
+          {
+            "en": "Placing the complaint first also shows where the case is being heard. Nuh (AS) does not appeal to the crowd, to the tribe's elders, or to anyone's sense of fairness. He takes the matter to the court whose judgement is final. As-Sa'di, explaining the next verse, adds a detail about how Nuh asked. The request amounts to: destroy whichever of us is the transgressor. Yet, as-Sa'di notes, Nuh knew that they were the transgressors and the wrongdoers, and that is why he went on: and save me and the believers with me.",
+            "bn": "নালিশটা আগে রাখায় বোঝা যায় মামলাটা কোথায় উঠছে। নূহ (আঃ) জনতার কাছে আবেদন করছেন না, গোত্রের মুরুব্বিদের কাছেও না, কারও ন্যায়বোধের দোহাই দিচ্ছেন না। তিনি বিষয়টা নিয়ে যাচ্ছেন সেই আদালতে, যার রায়ই শেষ কথা। পরের আয়াতের ব্যাখ্যায় সা'দী জুড়ে দেন, নূহ (আঃ) কীভাবে চেয়েছিলেন। চাওয়াটার সারকথা: আমাদের মধ্যে যে সীমালঙ্ঘনকারী, তাকে ধ্বংস করুন। তবে সা'দী বলেন, নূহ (আঃ) জানতেন সীমালঙ্ঘনকারী আর জালিম তারাই। এ কারণেই তিনি বললেন: আর আমাকে ও আমার সঙ্গী মুমিনদের বাঁচান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Judgement He Asked For",
+          "bn": "যে ফয়সালা তিনি চাইলেন"
+        },
+        "p": [
+          {
+            "en": "The request in 26:118 uses the word fath, literally an opening. Al-Qurtubi says it plainly: al-fath is judgement. Al-Baghawi glosses both the verb and the noun the same way, judge between me and them with a judgement. At-Tabari relays Qatada, decide between me and them with a decision, and Ibn Zayd, judge between me and them. In this reading Nuh (AS) asks Allah to open a case that has stayed closed, to settle at last what argument and patience could not settle between a prophet and his people.",
+            "bn": "২৬:১১৮ আয়াতের চাওয়ায় শব্দটা ফাতহ, আক্ষরিক অর্থে খুলে দেওয়া। কুরতুবী সোজা বলেন: আল-ফাতহ মানে ফয়সালা। বাগাভী ক্রিয়া ও বিশেষ্য দুটোরই একই ব্যাখ্যা দেন: আমার ও তাদের মাঝে এক ফয়সালায় ফয়সালা করে দিন। তাবারী কাতাদার কথা আনেন, আমার ও তাদের মাঝে মীমাংসা করে দিন, আর ইবন যায়দের কথা, আমার ও তাদের মাঝে বিচার করুন। এই পাঠে নূহ (আঃ) আল্লাহর কাছে চাইছেন, এতদিন বন্ধ থাকা মামলাটা খুলে দিন। নবী আর তাঁর কওমের মাঝে যুক্তি আর সবর যা মেটাতে পারেনি, তা শেষবারের মতো মিটিয়ে দিন।"
+          },
+          {
+            "en": "At-Tabari spells out what that judgement would be: a judgement by which Allah destroys the party in falsehood and takes retribution on whoever disbelieved in Him, rejected His oneness and called His messenger a liar. The Muyassar says it more briefly, a judgement that destroys whoever rejected His oneness. Save me, at-Tabari adds, means save me from that punishment which comes as the judgement between us. The verse's own words name only judgement and rescue. The next two verses then record the answer: so We saved him and those with him in the laden ship, then We drowned the rest.",
+            "bn": "তাবারী খুলে বলেন, সেই ফয়সালা কেমন হবে: এমন ফয়সালা, যা দিয়ে আল্লাহ বাতিলপন্থীদের ধ্বংস করবেন, আর যারা তাঁর সঙ্গে কুফরি করেছে, তাঁর তাওহীদ অস্বীকার করেছে ও তাঁর রাসূলকে মিথ্যাবাদী বলেছে, তাদের থেকে প্রতিশোধ নেবেন। মুয়াসসার আরও সংক্ষেপে বলে: এমন ফয়সালা, যা তাওহীদ অস্বীকারকারীদের ধ্বংস করবে। তাবারী যোগ করেন, 'আমাকে বাঁচান' মানে, আমাদের মাঝে ফয়সালা হিসেবে যে আযাব আসবে, তা থেকে আমাকে বাঁচান। আয়াতের নিজের শব্দে আছে কেবল ফয়সালা আর উদ্ধারের কথা। এর পরের দুই আয়াত জানিয়ে দেয় সাড়া কী ছিল: আমি তাঁকে ও তাঁর সঙ্গীদের বোঝাই নৌকায় বাঁচালাম, তারপর বাকি সবাইকে ডুবিয়ে দিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Long Patience Before It",
+          "bn": "এর আগে দীর্ঘ সবর"
+        },
+        "p": [
+          {
+            "en": "The complaint comes late, not early. Nuh's own account in another surah, 71:5 and 71:6, reads: my Lord, indeed I invited my people night and day, but my invitation increased them only in flight. Ibn Kathir and as-Sa'di describe his call in that same language of night and day, secret and open. The Qur'an also records, in 11:36, that it was revealed to Nuh that none of his people would believe except those who already had. Al-Qurtubi's note does not cite that verse; the two are only set side by side here.",
+            "bn": "নালিশটা আসে দেরিতে, শুরুতে নয়। অন্য এক সূরায়, ৭১:৫ ও ৭১:৬ আয়াতে, নূহ (আঃ)-এর নিজের বিবরণ: হে আমার রব, আমি আমার কওমকে রাতদিন ডেকেছি, কিন্তু আমার ডাক তাদের কেবল পালিয়ে যাওয়াই বাড়িয়েছে। ইবন কাসীর ও সা'দী তাঁর দাওয়াতের বর্ণনা দেন সেই একই ভাষায়: রাতে-দিনে, গোপনে-প্রকাশ্যে। কুরআন ১১:৩৬ আয়াতে আরও জানায়, নূহ (আঃ)-এর কাছে ওহী এসেছিল যে, যারা ঈমান এনেছে তারা ছাড়া তাঁর কওমের আর কেউ ঈমান আনবে না। কুরতুবীর টীকায় এ আয়াতের উল্লেখ নেই। দুটিকে এখানে শুধু পাশাপাশি রাখা হলো।"
+          },
+          {
+            "en": "As-Sa'di, on 26:116, also ties this moment to the prayer recorded in 71:26: my Lord, do not leave upon the earth from among the disbelievers an inhabitant. He calls it a supplication that encompassed them, made once their wrongdoing had reached its end. That link is as-Sa'di's, and the article goes no further with it; the commentaries drawn on here do not weigh that supplication, and neither does this page. None of them attaches a hadith to the verse either, and none is quoted here.",
+            "bn": "২৬:১১৬ আয়াতের আলোচনায় সা'দী এই মুহূর্তটিকে ৭১:২৬ আয়াতে বর্ণিত দোয়ার সঙ্গেও জুড়ে দেন: হে আমার রব, পৃথিবীর বুকে কাফিরদের একজন বাসিন্দাকেও রেহাই দেবেন না। তিনি বলেন, এ দোয়া তাদের সবাইকে ঘিরে ফেলেছিল, আর তা এসেছিল যখন তাদের জুলুম চরমে পৌঁছেছিল। এই সংযোগ সা'দীর, এ লেখা এর বেশি এগোয় না। এখানে যেসব তাফসীর থেকে নেওয়া হয়েছে, সেগুলো ওই দোয়ার বিচার-বিশ্লেষণে যায় না, এ লেখাও যায় না। তাদের কেউ এ আয়াতের সঙ্গে কোনো হাদীসও যুক্ত করেননি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nuh's People, Not Ours",
+          "bn": "নূহের কওম, আমাদের প্রতিবেশী নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what Nuh's people did to their prophet and what he said to his Lord about them, in a story the Qur'an closes with their drowning. It licenses nothing against any living person or community. No one today is a prophet; no one receives word that a people will never believe; no one can declare their neighbours deniers whose case is closed. Whoever uses this verse to threaten others, or to pray ruin on those who disagree with them, has taken the side of the crowd in 26:116.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, নূহ (আঃ)-এর কওম তাদের নবীর সঙ্গে কী করেছিল, আর তাদের ব্যাপারে তিনি রবকে কী বলেছিলেন। কাহিনিটা কুরআন শেষ করে তাদের ডুবে যাওয়ার কথা দিয়ে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজ কেউ নবী নন। কারও কাছে এ খবর আসে না যে অমুক কওম কখনো ঈমান আনবে না। কেউ প্রতিবেশীদের এমন অস্বীকারকারী বলে ঘোষণা করতে পারে না, যাদের মামলা চিরতরে বন্ধ। কেউ যদি এ আয়াত দিয়ে অন্যকে শাসায়, বা ভিন্নমতের মানুষের ধ্বংস কামনা করে, সে আসলে দাঁড়িয়েছে ২৬:১১৬ আয়াতের সেই জনতার কাতারে।"
+          },
+          {
+            "en": "What the verse does hand the reader is a manner. When you are refused for something true, take the grievance to Allah before you take it anywhere else. Say it plainly, in one sentence, without decoration or abuse. Keep calling them yours. Then ask for judgement, knowing that a judge examines both parties. The passage itself ends, in 26:121 and 26:122, by calling the account a sign and naming your Lord the Exalted in Might, the Merciful. Both names are offered to the listener, who still has time to answer.",
+            "bn": "আয়াতটি পাঠককে যা দেয়, তা একটা আচরণ। সত্য কথা বলে প্রত্যাখ্যাত হলে নালিশ আর কোথাও নেওয়ার আগে আল্লাহর কাছে নিন। সোজা কথায় বলুন, এক বাক্যে, কোনো সাজসজ্জা বা গালমন্দ ছাড়া। তাদের তখনো 'আমার লোক' বলুন। তারপর ফয়সালা চান, এ কথা মনে রেখে যে বিচারক দুই পক্ষকেই যাচাই করেন। ২৬:১২১ ও ২৬:১২২ আয়াতে এসে অংশটি নিজেই শেষ হয় এ ঘটনাকে নিদর্শন বলে, আর আপনার রবকে পরাক্রমশালী, পরম দয়ালু নামে ডেকে। দুটো নামই শ্রোতার সামনে রাখা, যার হাতে জবাব দেওয়ার সময় এখনো আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "26:123": {
     "sections": [
       {
