@@ -1015,6 +1015,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Cast Down Before a Queen",
+          "bn": "রানির সামনে ফেলা চিঠি"
+        },
+        "p": [
+          {
+            "en": "In 27:28 Sulayman (AS) had told the hoopoe: take this letter of mine, cast it to them, then draw back and see what they return. Our verse opens with the errand already done. At-Tabari, in his comment filed under 27:30, carries ad-Dahhak's account: the hoopoe went on with the letter until, coming level with the queen as she sat on her throne, it cast the letter to her. Al-Muyassar adds the steps the verse leaves out: she read it and gathered the nobles of her people.",
+            "bn": "২৭:২৮ আয়াতে সুলাইমান (আঃ) হুদহুদকে বলেছিলেন: আমার এই চিঠি নিয়ে যাও, তাদের কাছে ফেলে দাও, তারপর সরে গিয়ে দেখো তারা কী জবাব দেয়। আমাদের আয়াত শুরু হয় কাজটা সারা হয়ে যাওয়ার পর। তাবারীর যে আলোচনা এপিআই ২৭:৩০-এর ঘরে রেখেছে, সেখানে তিনি দাহহাকের বর্ণনা আনেন। হুদহুদ চিঠি নিয়ে উড়ে চলল। রানি তখন সিংহাসনে বসা। তাঁর বরাবর পৌঁছে পাখিটা চিঠি তাঁর দিকে ফেলে দিল। আয়াত যে ধাপগুলো বাদ রেখেছে, মুয়াসসার তা জুড়ে দেয়: রানি চিঠি পড়লেন, তারপর নিজের সম্প্রদায়ের অভিজাতদের এক জায়গায় ডাকলেন।"
+          },
+          {
+            "en": "Al-Qurtubi names the gap outright. There is an ellipsis in the speech, he says, and the sense is that the bird went, cast the letter to them, and heard her saying, O chiefs. The Qur'an skips the flight and the landing and comes straight to her first words. Who were al-mala'? At-Tabari and al-Baghawi agree: the nobles of her people, its great men. Ibn Kathir names them: her commanders, her ministers and the leading men of her kingdom.",
+            "bn": "কুরতুবী এই ফাঁকটার কথা সরাসরি বলেন। তাঁর মতে এখানে কথার একটা অংশ উহ্য আছে। অর্থ দাঁড়ায়: পাখিটা গেল, চিঠি তাদের কাছে ফেলল, আর শুনল রানি বলছেন, হে সভাসদগণ। কুরআন ওড়া আর নামার বিবরণ ছেড়ে দিয়ে সোজা চলে আসে তাঁর প্রথম কথায়। আল-মালা কারা? তাবারী আর বাগাভী একই কথা বলেন: তাঁর সম্প্রদায়ের অভিজাত ও নেতৃস্থানীয় লোকেরা। ইবন কাসীরের তালিকায় আছেন তাঁর সেনাপতি, মন্ত্রী আর রাজ্যের বড় বড় মানুষ।"
+          },
+          {
+            "en": "Her verb is passive: ulqiya ilayya, it has been cast to me. It shares its root with the command fa-alqih, cast it, in 27:28, so the errand ordered in one verse is reported done in the next by the one who received it. In her sentence the letter is described before its sender is named; the name Sulayman comes only in 27:30. What she tells her council first is not who wrote, but what kind of letter it is.",
+            "bn": "রানির ক্রিয়াপদটা কর্মবাচ্যে: উলকিয়া ইলাইয়্যা, আমার কাছে ফেলা হয়েছে। ২৭:২৮ আয়াতের আদেশ ফাআলকিহ, ফেলে দাও, একই ধাতু থেকে এসেছে। ফলে এক আয়াতে যে কাজের হুকুম হলো, পরের আয়াতে তা সম্পন্ন হওয়ার খবর এল প্রাপকের নিজের মুখে। তাঁর বাক্যে প্রেরকের নামের আগেই চিঠির পরিচয় আসে। সুলাইমান নামটা আসে ২৭:৩০ আয়াতে গিয়ে। সভাসদদের তিনি প্রথমে জানান না কে লিখেছে, জানান চিঠিটা কেমন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Through a Window at Sunrise",
+          "bn": "সূর্য ওঠার মুহূর্তে জানালা দিয়ে"
+        },
+        "p": [
+          {
+            "en": "The Qur'an does not say how the bird delivered it; what at-Tabari collects are reports. One comes through Ibn Ishaq, from some people of knowledge, from Wahb ibn Munabbih. In it the letter was addressed to Bilqis bint Dhi Sarh and her people. The hoopoe carried it in its foot. She had an opening in her chamber through which she watched the sun rise and bowed to it. The bird blocked the opening with its wings until the sun was up, then dropped the letter through it, and it fell upon her.",
+            "bn": "পাখিটা চিঠি কীভাবে পৌঁছাল, কুরআন তা বলে না। তাবারী এ নিয়ে যা জড়ো করেছেন, তা বর্ণনামাত্র। একটি এসেছে ইবন ইসহাকের সূত্রে, কিছু জ্ঞানী লোক থেকে, তাঁরা ওয়াহব ইবন মুনাব্বিহ থেকে। এ বর্ণনায় চিঠির প্রাপক ছিলেন বিলকিস বিনতে যী সারহ ও তাঁর সম্প্রদায়। হুদহুদ পায়ে চিঠি নিয়ে উড়ে গেল। রানির ঘরে একটা ফোকর ছিল। সূর্য উঠলে তিনি সেদিকে তাকাতেন আর সূর্যকে সেজদা করতেন। পাখিটা ডানা মেলে ফোকরটা ঢেকে রাখল, রানি টেরও পেলেন না, আর এর মধ্যে সূর্য উপরে উঠে গেল। তারপর সেই ফোকর দিয়ে চিঠি ফেলল, আর তা গিয়ে পড়ল ঠিক তাঁর উপর।"
+          },
+          {
+            "en": "A second report, from Qatada, begins with balaghani, it has reached me: she was a woman called Bilqis, and the narrator adds, I think he said, daughter of Sharahil. Her land was Ma'rib. The doors were locked when the hoopoe came; she would lock them and keep the keys under her head. The bird entered through a window and cast the sheet upon her, and she read it.",
+            "bn": "দ্বিতীয় বর্ণনাটি কাতাদার। তিনি শুরু করেন বালাগানী দিয়ে, অর্থাৎ আমার কাছে খবর পৌঁছেছে। তাঁর কথায়, রানির নাম বিলকিস। বর্ণনাকারী যোগ করেন, আমার মনে হয় তিনি বলেছিলেন শারাহীলের কন্যা। তাঁর দেশ মারিব। হুদহুদ যখন পৌঁছায়, দরজাগুলো বন্ধ ছিল। রানি দরজা বন্ধ করে চাবি মাথার নিচে রাখতেন। পাখিটা একটা জানালা দিয়ে ঢুকে কাগজখানা তাঁর উপর ফেলল, আর রানি তা পড়লেন।"
+          },
+          {
+            "en": "So the reports give her father two names, and Qatada's own wording marks his as hearsay; none of these details is in the verse. They also show, as 27:24 had, a queen and a people who bowed to the sun. That describes what the text describes, at a particular time and place, and it licenses nothing against any living person or community. Nor does the story leave her there. The same queen ends the surah's account saying: I submit with Sulayman to Allah, Lord of the worlds (27:44).",
+            "bn": "অর্থাৎ বর্ণনাগুলোতে রানির পিতার দুই রকম নাম পাওয়া যায়, আর কাতাদার নিজের শব্দই বলে দেয় যে তাঁর খবরটা শোনা কথা। এসব খুঁটিনাটির কোনোটাই আয়াতে নেই। ২৭:২৪ আয়াতের মতো এগুলোও এমন এক রানি আর জাতির ছবি দেখায়, যারা সূর্যকে সেজদা করত। এ হলো নির্দিষ্ট সময় আর নির্দিষ্ট জায়গার এক বিবরণ, পাঠ যা বলে ঠিক ততটুকুই। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। কাহিনিও তাঁকে সেখানে রেখে দেয় না। সূরায় তাঁর কাহিনি শেষ হয় তাঁরই এই কথায়: আমি সুলাইমানের সঙ্গে জগৎসমূহের রব আল্লাহর কাছে আত্মসমর্পণ করলাম (২৭:৪৪)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sealed, or Noble in Its Sender",
+          "bn": "মোহরের গুণে, নাকি প্রেরকের"
+        },
+        "p": [
+          {
+            "en": "Why karim? At-Tabari says plainly that the people of knowledge differed over why she described the letter so. Some said: because it was sealed. Others said: because it came from a king, so she called it noble for the nobility of its author, and among those who held this was Ibn Zayd. The report he gives from Ibn Zayd is brief: it is the letter of Sulayman, when he wrote to her. He sets the two views side by side and does not choose.",
+            "bn": "কারীম কেন? তাবারী সোজাসুজি বলেন, রানি কেন চিঠিটাকে এই বিশেষণ দিলেন, তা নিয়ে আলেমদের মধ্যে মতভেদ আছে। কেউ বলেছেন, কারণ চিঠিটা মোহর করা ছিল। অন্যরা বলেছেন, কারণ চিঠি এসেছিল এক বাদশাহর কাছ থেকে, তাই প্রেরকের মর্যাদার কারণে তিনি চিঠিকেও মর্যাদাবান বললেন। এই মত যাঁদের, তাঁদের একজন ইবন যায়দ। ইবন যায়দ থেকে তাবারী যে বর্ণনা আনেন তা ছোট: এ হলো সুলাইমানের চিঠি, যখন তিনি তাঁকে লিখলেন। দুই মত পাশাপাশি রেখে দেন তাবারী, কোনোটাকে বেছে নেন না।"
+          },
+          {
+            "en": "Al-Baghawi adds names and more readings. 'Ata' and ad-Dahhak: she called it karim because it was sealed. Qatada and Muqatil: karim means good, and this was the choice of az-Zajjaj, who said, good in what it contains. From Ibn 'Abbas it is narrated: karim means honoured, by its sender's honour. And it was said: because it was headed with In the name of Allah, the Entirely Merciful, the Especially Merciful. In al-Baghawi alone the nobility sits in four places: the seal, the content, the sender and the opening.",
+            "bn": "বাগাভী আরও নাম আর আরও ব্যাখ্যা যোগ করেন। আতা ও দাহহাক বলেন, মোহর করা ছিল বলে রানি একে কারীম বলেছেন। কাতাদা ও মুকাতিলের মতে কারীম মানে সুন্দর। যাজ্জাজও এটাই গ্রহণ করেছেন, তাঁর কথায়: ভেতরে যা লেখা, তা সুন্দর। ইবন আব্বাস (রাঃ) থেকে বর্ণিত, কারীম মানে সম্মানিত, প্রেরকের সম্মানে সম্মানিত। আরেকটি মত বলা হয়েছে: চিঠির শুরুতে ছিল বিসমিল্লাহির রাহমানির রাহীম। শুধু বাগাভীতেই তাহলে মর্যাদার চারটি উৎস পাওয়া গেল: মোহর, বিষয়বস্তু, প্রেরক আর শুরুর বাক্য।"
+          },
+          {
+            "en": "The same names do not always stand behind the same reading. Ma'arif al-Qur'an counts Ibn 'Abbas and Qatada among those who read karim as sealed, while al-Baghawi has Qatada for good and Ibn 'Abbas for the sender's honour. As-Sa'di and al-Muyassar fold the reasons into the sender. As-Sa'di: of great worth, from among the greatest of the kings of the earth. Al-Muyassar has her say: a letter of great worth has reached me from a person of great standing.",
+            "bn": "একই নামের পেছনে সব সময় একই ব্যাখ্যা থাকে না। মাআরিফুল কুরআন ইবন আব্বাস (রাঃ) ও কাতাদাকে সেই দলে রাখে, যাঁরা কারীম অর্থ করেছেন মোহর করা। অথচ বাগাভীতে কাতাদার মত সুন্দর অর্থে, আর ইবন আব্বাস (রাঃ)-এর মত প্রেরকের সম্মানের অর্থে। সা'দী ও মুয়াসসার সব কারণকে প্রেরকের মধ্যেই গুটিয়ে আনেন। সা'দীর কথায়: অতি মূল্যবান, পৃথিবীর সবচেয়ে বড় বাদশাহদের একজনের কাছ থেকে আসা। মুয়াসসারে রানি বলছেন: এক মহান ব্যক্তির কাছ থেকে আমার কাছে অতি মূল্যবান এক চিঠি এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Courier No King Commands",
+          "bn": "যে বাহক কোনো রাজার নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir finds the nobility somewhere else: in how the letter came. By calling it karim, he says, she meant the wonder she had seen in it. A bird brought it, cast it to her, then turned away out of courtesy, and this is a thing no king is able to do, nor has any way to. Only then, in his account, did she read it out to them. On this reading the courier itself made the letter noble.",
+            "bn": "ইবন কাসীর মর্যাদার উৎস খোঁজেন অন্য জায়গায়: চিঠিটা যেভাবে এসেছে, তাতে। তাঁর মতে কারীম বলে রানি বোঝাতে চেয়েছেন চিঠির সঙ্গে দেখা আশ্চর্য ব্যাপারটা। একটা পাখি চিঠি নিয়ে এল, তাঁর দিকে ফেলল, তারপর আদব রক্ষা করে সরে গেল। কোনো বাদশাহর এমন ক্ষমতা নেই, এমন কিছু করার কোনো পথও তাদের নেই। তাঁর বর্ণনায় এরপরই রানি চিঠিটা সভাসদদের পড়ে শোনান। এই ব্যাখ্যায় বাহকই চিঠিকে মর্যাদা দিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the widest list. It came from one great in her eyes and theirs, so she honoured it out of reverence for Sulayman, the view of Ibn Zayd. Or she pointed to its being stamped with a seal. Or, it was said, because it began with the name of Allah. Or because its writer began with himself, which only the great do. Or she imagined it had come from heaven, since its bearer was a bird.",
+            "bn": "সবচেয়ে লম্বা তালিকা দেন কুরতুবী। চিঠি এসেছিল এমন একজনের কাছ থেকে, যিনি রানি আর তাঁর লোকদের চোখে মহান। তাই সুলাইমান (আঃ)-এর প্রতি সম্ভ্রমে রানি চিঠিটাকে সম্মান দিলেন। এ মত ইবন যায়দের। অথবা রানি ইঙ্গিত করছিলেন যে চিঠির উপর মোহর লাগানো ছিল। অথবা, বলা হয়েছে, চিঠির শুরু আল্লাহর নামে। অথবা লেখক শুরু করেছেন নিজের নাম দিয়ে, আর এমনটা কেবল বড় মানুষেরাই করেন। অথবা বাহক পাখি দেখে রানি ভেবেছিলেন চিঠিটা আসমান থেকে এসেছে।"
+          },
+          {
+            "en": "Last he gives the reading he prefers. She described it so for what it held: gentle words and counsel in calling to the worship of Allah, a kindly appeal with no abuse or cursing, nothing to sour the soul, nothing low and nothing obscure, after the way of the messengers. He cites 16:125, call to the way of your Lord with wisdom and good counsel, and Allah's word to Musa and Harun (AS) in 20:44, speak to him a gentle word. All of these are fine readings, he says, and this is the finest.",
+            "bn": "শেষে তিনি সেই ব্যাখ্যা দেন, যা তাঁর কাছে সবচেয়ে পছন্দের। রানি এ বিশেষণ দিয়েছিলেন চিঠির ভেতরের কথার জন্য। আল্লাহর ইবাদতের দিকে ডাকতে গিয়ে তাতে ছিল নরম কথা আর নসিহত, ছিল আন্তরিক আবেদন। কোনো গালি নেই, অভিশাপ নেই, মন বিগড়ে দেওয়ার মতো কিছু নেই। নেই কোনো হীন কথা, নেই দুর্বোধ্য কথা। রাসূলদের পথ এমনই। তিনি উদ্ধৃত করেন ১৬:১২৫: হিকমত ও সুন্দর নসিহতের মাধ্যমে তোমার রবের পথে ডাকো। আর ২০:৪৪ আয়াতে মূসা ও হারূন (আঃ)-কে আল্লাহর নির্দেশ: তার সঙ্গে নরম কথা বলো। কুরতুবী বলেন, এ সবই ভালো ব্যাখ্যা, আর এটাই সবচেয়ে ভালো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Honour Kept by a Seal",
+          "bn": "মোহর যে সম্মান রক্ষা করে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an explains the seal reading. Karim literally means respectable or honoured, it says, and idiomatically the word was used for a letter when it was sealed. That is why Ibn 'Abbas, Qatada, Zuhair and others read the phrase as the sealed letter, which indicates that Sulayman (AS) had put his seal on it. Sealing a letter, it says, shows respect to the letter and to its addressee, and today an envelope does the same work.",
+            "bn": "মাআরিফুল কুরআন মোহরের ব্যাখ্যাটা বুঝিয়ে বলে। কারীম শব্দের আক্ষরিক অর্থ সম্মানযোগ্য, মর্যাদাবান। আর প্রচলিত ব্যবহারে চিঠি মোহর করা হলে তাকে এই শব্দে ডাকা হতো। সে কারণেই ইবন আব্বাস (রাঃ), কাতাদা, যুহাইর প্রমুখ এর অর্থ করেছেন মোহর করা চিঠি। এ থেকে বোঝা যায়, সুলাইমান (আঃ) চিঠিতে নিজের মোহর লাগিয়েছিলেন। তার কথায়, চিঠিতে মোহর দেওয়া মানে চিঠির প্রতি, আর যাকে পাঠানো হচ্ছে তার প্রতিও সম্মান দেখানো। আজকের খাম সেই কাজটাই করে।"
+          },
+          {
+            "en": "No fetched tafsir attaches a sound hadith to this verse. The sound narration on sealing is general, and Ma'arif and al-Qurtubi both point to it. Al-Qurtubi notes that scholars agreed on writing the name of Allah at the head of letters and on sealing them, since a seal keeps a letter further from suspicion. The narration is in al-Bukhari, from Anas ibn Malik:",
+            "bn": "সংগৃহীত কোনো তাফসীর এই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। মোহর নিয়ে সহীহ বর্ণনাটি সাধারণ, আয়াতের সঙ্গে বাঁধা নয়। মাআরিফুল কুরআন আর কুরতুবী দুজনেই সেদিকে ইঙ্গিত করেন। কুরতুবী জানান, চিঠির শুরুতে আল্লাহর নাম লেখা আর চিঠিতে মোহর দেওয়ার ব্যাপারে আলেমরা একমত হয়েছেন, কারণ মোহর চিঠিকে সন্দেহ থেকে দূরে রাখে। বুখারী আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন:"
+          },
+          {
+            "en": "'Once the Prophet (ﷺ) wrote a letter or had an idea of writing a letter. The Prophet (ﷺ) was told that they (rulers) would not read letters unless they were sealed. So the Prophet (ﷺ) got a silver ring made with \"Muhammad Allah's Messenger (ﷺ)\" engraved on it. As if I were just observing its white glitter in the hand of the Prophet.' (Sahih al-Bukhari 65).",
+            "bn": "'নবী ﷺ একটি চিঠি লিখলেন, অথবা লেখার ইচ্ছা করলেন। তাঁকে বলা হলো, তারা মোহর ছাড়া কোনো চিঠি পড়ে না। তখন তিনি রুপার একটি আংটি বানালেন, যার উপর খোদাই করা ছিল: মুহাম্মাদ রাসূলুল্লাহ। আমি যেন এখনো তাঁর হাতে আংটিটার শুভ্র ঝলক দেখতে পাচ্ছি।' (সহীহ বুখারী ৬৫)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Few Lines, Nothing Added",
+          "bn": "অল্প কয়েক লাইন, বাড়তি কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "The next verses give the letter as she read it: it is from Sulayman, and it is, In the name of Allah, the Entirely Merciful, the Especially Merciful; do not rise above me, but come to me in submission (27:30 and 27:31). Qatada, in at-Tabari, remarks: so the prophets used to write, not at length; they wrote only a few sentences. Ibn Jurayj says Sulayman added nothing to what Allah relates in His Book. Ibn Kathir calls it the utmost in brevity and eloquence.",
+            "bn": "পরের আয়াত দুটিতে আছে রানি চিঠিতে যা পড়লেন: এটা সুলাইমানের কাছ থেকে, আর তা হলো, পরম দয়ালু, অতি দয়াময় আল্লাহর নামে; আমার উপর বড় হতে চেয়ো না, অনুগত হয়ে আমার কাছে এসো (২৭:৩০ ও ২৭:৩১)। তাবারীতে কাতাদা বলেন: নবীরা এভাবেই লিখতেন, কথা টেনে লম্বা করতেন না, লিখতেন অল্প কয়েকটা বাক্য। ইবন জুরাইজ বলেন, আল্লাহ তাঁর কিতাবে যা জানিয়েছেন, সুলাইমান তার বেশি কিছু লেখেননি। ইবন কাসীরের মতে চিঠিটা সংক্ষেপ আর বাগ্মিতার চূড়ান্ত নমুনা।"
+          },
+          {
+            "en": "Al-Qurtubi adds a report, given with ruwiya, it is narrated, that no one wrote In the name of Allah before Sulayman; it stands as a report. He also records that the early custom was for a writer to begin with himself, from so-and-so to so-and-so. Abu al-Layth, whom he quotes, preferred in his own time to begin with the addressee, lest beginning with oneself seem to slight him. The form of address could change with the age; the name of Allah at the head was agreed on.",
+            "bn": "কুরতুবী 'রুবিয়া', অর্থাৎ বর্ণিত আছে, বলে একটা খবর আনেন: সুলাইমান (আঃ)-এর আগে কেউ বিসমিল্লাহির রাহমানির রাহীম লেখেনি। এটা বর্ণনা হিসেবেই থাকে। তিনি আরও জানান, আগের যুগের রীতি ছিল লেখক নিজের নাম দিয়ে শুরু করবেন: অমুকের পক্ষ থেকে অমুকের প্রতি। তিনি আবুল লাইসের মত উদ্ধৃত করেন। তাঁর মতে নিজের যুগে প্রাপকের নাম দিয়ে শুরু করাই ভালো, কারণ নিজের নাম আগে লিখলে তা প্রাপককে তুচ্ছ করা বলে ধরা হতে পারে। সম্বোধনের ধরন যুগে যুগে বদলাতে পারে। কিন্তু শুরুতে আল্লাহর নাম লেখার ব্যাপারে সবাই একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named Fairly Before Her Council",
+          "bn": "সভার সামনে ন্যায্য নাম"
+        },
+        "p": [
+          {
+            "en": "Look at what the queen does with a letter that asks her to submit. She does not hide it from her council. She calls her chiefs, names the letter karim before them, and reads it out. The verses after (27:32 and 27:33) show her asking their counsel and refusing to settle the matter without them. The verse itself records only her words, and they are words of fair description. Whatever she would decide, she began by giving the thing before her its proper name.",
+            "bn": "যে চিঠি রানিকে আনুগত্যের দিকে ডাকছে, তা নিয়ে তিনি কী করলেন, লক্ষ করুন। তিনি সভাসদদের কাছ থেকে চিঠিটা লুকাননি। নেতাদের ডেকে আনলেন, তাঁদের সামনে চিঠিকে কারীম বললেন, তারপর পড়ে শোনালেন। পরের দুই আয়াতে (২৭:৩২ ও ২৭:৩৩) দেখা যায়, তিনি তাঁদের পরামর্শ চাইছেন আর তাঁদের ছাড়া সিদ্ধান্ত নিতে রাজি নন। আয়াতটি নিজে কেবল তাঁর কথাগুলো ধরে রেখেছে, আর সে কথা ন্যায্য বর্ণনার কথা। সিদ্ধান্ত যা-ই হোক, সামনে যা এসেছে, তিনি শুরু করলেন তাকে তার ঠিক নামে ডেকে।"
+          },
+          {
+            "en": "A letter that arrives also asks for something back. Al-Qurtubi's fourth point is that whoever receives a letter of greeting should answer it, because a letter from someone absent is like a greeting from someone present. He reports that Ibn 'Abbas held answering a letter to be obligatory, as returning a greeting is. The queen's answer would come first as a gift sent to see what the messengers bring back (27:35), and, in the end, as her own submission (27:44).",
+            "bn": "যে চিঠি আসে, সে কিছু ফেরতও চায়। কুরতুবীর চতুর্থ কথা হলো, কারও কাছে সালাম বা এ রকম কিছু নিয়ে চিঠি এলে তার জবাব দেওয়া উচিত। কারণ অনুপস্থিত মানুষের চিঠি উপস্থিত মানুষের সালামের মতো। তিনি জানান, ইবন আব্বাস (রাঃ) চিঠির জবাব দেওয়াকে ওয়াজিব মনে করতেন, যেমন সালামের জবাব দেওয়া ওয়াজিব। রানির জবাব প্রথমে আসবে উপহারের আকারে, দূতেরা কী নিয়ে ফেরে তা দেখার জন্য (২৭:৩৫)। আর শেষ পর্যন্ত আসবে তাঁর নিজের আত্মসমর্পণ হয়ে (২৭:৪৪)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letters Worth the Word",
+          "bn": "যে চিঠি সেই শব্দের যোগ্য"
+        },
+        "p": [
+          {
+            "en": "The verse leaves a reader two tests. The first is fairness. A king had told her to come to him in submission, and her first word for his letter was noble. Disagreeing with a sender is no reason to misname what he sent. The second test is the letter itself. Nearly every reason the commentators gave for its nobility is something a writer chooses: to seal what is private, to open with the name of Allah, to say what is needed and no more, and to call without insult.",
+            "bn": "আয়াতটি পাঠকের সামনে দুটি পরীক্ষা রেখে যায়। প্রথমটি ন্যায্যতার। এক বাদশাহ তাঁকে অনুগত হয়ে নিজের কাছে আসতে বলেছিলেন। তবু চিঠি সম্পর্কে রানির প্রথম কথা ছিল, এটা সম্মানিত। প্রেরকের সঙ্গে মতের অমিল থাকলেই তার পাঠানো জিনিসকে ভুল নামে ডাকা যায় না। দ্বিতীয় পরীক্ষা চিঠিটা নিজেই। তাফসীরকারেরা এর মর্যাদার যত কারণ দেখিয়েছেন, তার প্রায় সবই লেখকের নিজের হাতে। গোপন কথা মোহর করে রাখা, আল্লাহর নামে শুরু করা, যতটুকু দরকার ততটুকুই বলা, আর গালমন্দ ছাড়া ডাকা।"
+          },
+          {
+            "en": "Much of what we send today is unsealed, hurried and opened with nothing. Ma'arif's envelope is a small reminder that care for a letter is care for the person who will read it, and al-Qurtubi's preferred reading places the honour in gentleness, the way of the messengers. Sulayman's letter was read aloud to a gathered room by the queen it called to submit, and she still called it karim. If what we write were read out the same way, what would the room call it?",
+            "bn": "আজ আমরা যা পাঠাই, তার অনেকটাই খোলা, তাড়াহুড়োয় লেখা, শুরুতে কিছুই নেই। মাআরিফুল কুরআনের খামের কথাটা ছোট্ট এক মনে করিয়ে দেওয়া: চিঠির যত্ন মানে যে পড়বে তার যত্ন। আর কুরতুবীর পছন্দের ব্যাখ্যা মর্যাদা খুঁজে পায় কোমলতায়, যা রাসূলদের পথ। সুলাইমান (আঃ)-এর চিঠি ভরা সভায় পড়ে শোনানো হয়েছিল তাঁরই মুখে, যাঁকে চিঠিটা আনুগত্যের দিকে ডাকছিল। তবু তিনি তাকে কারীম বললেন। আমরা যা লিখি, তা যদি এভাবে পড়ে শোনানো হতো, সভা তাকে কী নামে ডাকত?"
+          }
+        ]
+      }
+    ]
+  },
   "27:34": {
     "sections": [
       {

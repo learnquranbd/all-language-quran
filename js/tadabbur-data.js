@@ -24669,6 +24669,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Walk the land and read how those who mocked the warning came to their end; then take the warning seriously yourself while the way back is still open.",
     "lessonBn": "দেশে দেশে ঘুরে পড়ে নিন, যারা সতর্কবাণী নিয়ে ঠাট্টা করেছিল তাদের শেষটা কেমন হয়েছিল। তারপর ফেরার পথ খোলা থাকতেই সতর্কবাণীটা নিজে গুরুত্বের সঙ্গে নিন।"
+  },
+  "27:29": {
+    "reflectionEn": "A bird drops a letter before a queen and draws back. She gathers her chiefs, and the first word she gives the letter is karim: noble, worthy of honour. It comes from a king, telling her not to rise above him but to come to him in submission. She has not yet decided what to do, and still she names it fairly. The commentators find the reasons in the letter itself: a seal, a name of Allah at its head, a strange courier, a message without insult. Before she weighed the demand, she gave the letter its due. When a word reaches me from someone I may oppose, can I still call it what it is? And do the letters I send deserve the name she gave this one?",
+    "reflectionBn": "একটা পাখি এক রানির সামনে চিঠি ফেলে দিয়ে সরে দাঁড়ায়। রানি সভাসদদের ডেকে আনেন, আর চিঠিটার জন্য তাঁর মুখে প্রথম যে শব্দ আসে তা হলো কারীম: সম্মানিত, মর্যাদার যোগ্য। চিঠি এসেছে এক বাদশাহর কাছ থেকে। তাতে বলা হয়েছে, তাঁর উপর বড় হতে চেয়ো না, অনুগত হয়ে তাঁর কাছে এসো। কী করবেন, রানি তখনো ঠিক করেননি। তবু চিঠিকে তিনি ন্যায্য নামেই ডাকলেন। তাফসীরকারেরা এর কারণ খুঁজে পান চিঠির ভেতরেই: মোহর, শুরুতে আল্লাহর নাম, অদ্ভুত এক বাহক, আর গালমন্দহীন এক বার্তা। দাবিটা ওজন করার আগে তিনি চিঠির প্রাপ্য মর্যাদা দিয়েছেন। যার বিরোধিতা আমি হয়তো করি, তার কাছ থেকে কোনো কথা এলে আমি কি সেটাকে তার আসল নামে ডাকতে পারি? আর আমার পাঠানো চিঠিগুলো কি সেই নামের যোগ্য, যে নাম তিনি এই চিঠিকে দিয়েছিলেন?",
+    "pointsEn": [
+      "When a message reaches me from someone I disagree with, do I describe it fairly to others before I answer it?",
+      "Which of my recent messages would I be glad to have read aloud to a room of people, as this one was?",
+      "Do I open my letters, my emails, my work, with the name of Allah, or only my own?",
+      "Can I say what I need to say as briefly as this letter did, without a single insult in it?",
+      "Before I decide a hard matter, whom do I bring in to hear it with me?"
+    ],
+    "pointsBn": [
+      "যার সঙ্গে আমার মতের অমিল, তার কাছ থেকে বার্তা এলে জবাব দেওয়ার আগে কি আমি অন্যদের কাছে সেটা ন্যায্যভাবে তুলে ধরি?",
+      "সম্প্রতি পাঠানো আমার কোন বার্তাটা পুরো এক সভার সামনে পড়ে শোনানো হলে আমি খুশি হতাম, যেমন এই চিঠিটা পড়া হয়েছিল?",
+      "আমার চিঠি, ইমেইল, আমার কাজ কি আমি আল্লাহর নামে শুরু করি, নাকি শুধু নিজের নামে?",
+      "যা বলার, তা কি আমি এই চিঠির মতো অল্প কথায়, একটাও কটু শব্দ ছাড়া বলতে পারি?",
+      "কঠিন কোনো বিষয়ে সিদ্ধান্ত নেওয়ার আগে কাকে আমি সঙ্গে নিয়ে বিষয়টা শুনি?"
+    ],
+    "lessonEn": "Call a good thing by its right name even when it comes from someone you may oppose, and make your own words worthy of that name: brief, gentle and begun with Allah's name.",
+    "lessonBn": "ভালো জিনিস যার কাছ থেকেই আসুক, এমনকি যার বিরোধিতা আপনি করেন, তাকে তার ন্যায্য নামে ডাকুন। আর নিজের কথাকেও সেই নামের যোগ্য করুন: সংক্ষিপ্ত, কোমল, আর আল্লাহর নামে শুরু।"
   }
 };
 
