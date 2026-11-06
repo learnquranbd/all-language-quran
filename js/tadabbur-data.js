@@ -23851,6 +23851,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah lifts you clear of harm, make your first word praise to the One who saved you, said at once, not saved for the shore, and never turned into gloating.",
     "lessonBn": "আল্লাহ যখন আপনাকে বিপদ থেকে তুলে আনেন, প্রথম কথাটাই হোক তাঁর প্রশংসা, যিনি বাঁচালেন। তা বলুন তখনই, তীরে নামার অপেক্ষায় না রেখে। আর সে প্রশংসাকে কখনো অন্যের দুর্দশায় উল্লাসে পরিণত করবেন না।"
+  },
+  "23:71": {
+    "reflectionEn": "Imagine the truth rearranged to suit every wish: each person's preference made law, each craving made the measure of right. The verse says what would follow. The heavens, the earth and everyone in them would be ruined, because wishes pull against each other and cannot see where they lead. Instead the truth came as it is, and with it a reminder that was also an honour for those who received it, and they turned away from both. The question is not only about them. When a ruling or a verse cuts against what I want, do I bend myself to it, or quietly wait for it to bend to me? And do I carry the Qur'an as a burden, or as the honour it was sent to be?",
+    "reflectionBn": "ভাবুন তো, সত্যকে যদি প্রত্যেকের ইচ্ছেমতো সাজানো হতো। যার যা পছন্দ, তা-ই হতো আইন। যার যা চাওয়া, তা-ই হতো ন্যায়ের মাপকাঠি। আয়াত বলে দিচ্ছে তখন কী ঘটত: আকাশ, পৃথিবী আর এর ভেতরের সবাই ধ্বংস হয়ে যেত। কারণ এক ইচ্ছা আরেক ইচ্ছাকে উল্টো দিকে টানে, আর কোনো ইচ্ছাই দেখতে পায় না শেষে কোথায় গিয়ে ঠেকবে। সত্য তাই এসেছে নিজের চেহারায়। সঙ্গে এসেছে এমন উপদেশ, যা পাওয়া লোকদের জন্য সম্মানও ছিল। তারা দুটো থেকেই মুখ ফিরিয়ে নিল। প্রশ্নটা কিন্তু শুধু তাদের নিয়ে নয়। কোনো বিধান বা আয়াত যখন আমার চাওয়ার উল্টো দিকে যায়, আমি কি নিজেকে সেদিকে নোয়াই, নাকি চুপচাপ অপেক্ষা করি কবে সেটাই আমার দিকে নুয়ে আসবে? আর কুরআনকে আমি কি ঘাড়ের বোঝা ভাবি, নাকি সেই সম্মান, যা দিয়ে একে পাঠানো হয়েছে?",
+    "pointsEn": [
+      "Which command of Allah do I quietly wish were different, and what does that wish say about whom I am taking as the measure?",
+      "When two of my own desires pull against each other, which one usually wins, and how often has it turned out to be the wrong one?",
+      "If my preferences ran my home or my work unchecked for a month, what would be spoiled first?",
+      "Do I read the Qur'an as an honour given to me, or only as a duty I owe?",
+      "Which reminder have I been turning away from, not by denying it, but by simply never facing it?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন হুকুমটা অন্যরকম হলে ভালো হতো বলে মনে মনে চাই? সেই চাওয়া থেকে কী বোঝা যায়, মাপকাঠি আমি কাকে বানিয়েছি?",
+      "আমার নিজেরই দুটো ইচ্ছা যখন দুদিকে টানে, সাধারণত কোনটা জেতে? আর কতবার দেখা গেছে, জিতেছে ভুলটাই?",
+      "একটা মাস যদি আমার পছন্দ-অপছন্দই কোনো বাধা ছাড়া আমার ঘর বা কাজ চালাত, সবার আগে কী নষ্ট হতো?",
+      "কুরআনকে আমি কি আমাকে দেওয়া সম্মান হিসেবে পড়ি, নাকি কেবল আদায় করার মতো একটা দায়িত্ব হিসেবে?",
+      "কোন উপদেশ থেকে আমি মুখ ফিরিয়ে আছি, অস্বীকার করে নয়, বরং কখনো তার মুখোমুখি না হয়ে?"
+    ],
+    "lessonEn": "The truth does not bend to anyone's desires, and the world holds because it does not; bend your wishes to it, and take the Qur'an as the honour it is.",
+    "lessonBn": "সত্য কারও ইচ্ছার কাছে নোয়ায় না, আর নোয়ায় না বলেই পৃথিবী টিকে আছে। তাই নিজের চাওয়াকে সত্যের দিকে নোয়ান, আর কুরআনকে গ্রহণ করুন সেই সম্মান হিসেবে, যা সে সত্যিই।"
   }
 };
 

@@ -2163,6 +2163,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Word Taken Up Again",
+          "bn": "একই শব্দ আবার ফিরে এল"
+        },
+        "p": [
+          {
+            "en": "The verse before this one closes on a single word said twice: he brought them al-haqq, the truth, and most of them are averse to al-haqq. This verse opens with the same word a third time. Wa-law ittaba'a al-haqqu ahwa'ahum: and if the truth had followed their desires, the heavens and the earth and whoever is in them would have been ruined. Then a turn with bal, rather: We brought them their dhikr, and from their dhikr they are turning away.",
+            "bn": "আগের আয়াতটি শেষ হয়েছে একটি শব্দ দুবার বলে: তিনি তাদের কাছে আল-হক, অর্থাৎ সত্য নিয়ে এসেছেন, আর তাদের বেশির ভাগই আল-হককে অপছন্দ করে। এ আয়াত শুরু হয় সেই শব্দটি তৃতীয়বার এনে। ওয়া লাওয়িত তাবাআল হাক্কু আহওয়াআহুম: সত্য যদি তাদের খেয়ালখুশির অনুসরণ করত, তবে আকাশমণ্ডলী, পৃথিবী আর এগুলোর ভেতরে যারা আছে, সবাই ধ্বংস হয়ে যেত। তারপর 'বাল' দিয়ে মোড় ঘোরে: বরং আমি তাদের কাছে এনেছি তাদের যিকর, আর নিজেদের সেই যিকর থেকেই তারা মুখ ফিরিয়ে আছে।"
+          },
+          {
+            "en": "So the sixteen Arabic words fall into two halves. The first is a conditional about something that did not happen: truth bending to what people wanted. The second names what did happen instead and what was done with it. As-Sa'di reads the first half as the answer to an unspoken objection. If it is asked why the truth was not made to agree with their desires, so that they would believe and hurry to submit, Allah answered with this verse.",
+            "bn": "ষোলোটি আরবি শব্দ তাই দুই ভাগে ভাগ হয়ে যায়। প্রথম ভাগ এমন এক শর্ত, যা কখনো ঘটেনি: মানুষের চাওয়ার দিকে সত্যের নুয়ে পড়া। দ্বিতীয় ভাগ বলে, তার বদলে আসলে কী ঘটেছে আর সেটার সঙ্গে তারা কী আচরণ করেছে। সা'দী প্রথম ভাগকে পড়েন না-বলা এক আপত্তির জবাব হিসেবে। কেউ যদি প্রশ্ন তোলে, সত্যকে তাদের খেয়ালখুশির সঙ্গে মিলিয়ে দেওয়া হলো না কেন, তাহলে তো তারা ঈমান আনত আর তাড়াতাড়ি মেনে নিত? আল্লাহ এ আয়াত দিয়েই তার জবাব দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Truth, or the True One",
+          "bn": "সত্য, নাকি সত্যের মালিক"
+        },
+        "p": [
+          {
+            "en": "Who or what is al-haqq here? One answer is Allah Himself. Ibn Kathir reports it from Mujahid, Abu Salih and as-Suddi: al-haqq is Allah, Mighty and Majestic. At-Tabari gives it with chains: as-Suddi from Abu Salih, Allah; Isma'il ibn Abi Khalid from Abu Salih, al-haqq is Allah; and Ibn Jurayj, al-haqq is Allah. Al-Qurtubi calls this the view of most, naming Mujahid, Ibn Jurayj and Abu Salih, while al-Baghawi names Ibn Jurayj, Muqatil, as-Suddi and a group.",
+            "bn": "এখানে আল-হক কে, বা কী? একটি উত্তর হলো, স্বয়ং আল্লাহ। ইবন কাসীর এটি বর্ণনা করেন মুজাহিদ, আবু সালিহ ও সুদ্দী থেকে: আল-হক হলেন মহাপরাক্রমশালী, মহিমাময় আল্লাহ। তাবারী কথাটি আনেন সনদসহ। সুদ্দী আবু সালিহ থেকে বর্ণনা করেন: আল্লাহ। ইসমাঈল ইবন আবী খালিদও আবু সালিহ থেকে বর্ণনা করেন: আল-হক হলেন আল্লাহ। আর ইবন জুরাইজ বলেন: আল-হক মানে আল্লাহ। কুরতুবী একে অধিকাংশের মত বলেন এবং নাম নেন মুজাহিদ, ইবন জুরাইজ ও আবু সালিহের। বাগাভী নাম নেন ইবন জুরাইজ, মুকাতিল, সুদ্দী ও আরও একদল আলেমের।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note on the grammar from an-Nahhas: in Arabic the phrase is to be understood as if the Possessor of the truth had followed. Read this way, the verse does not picture an abstract idea following anyone. It pictures the Lord of creation answering their wishes. At-Tabari's own paraphrase is built on that reading: if the Lord acted by what these polytheists desire, ran the governing of things on their will and wish, and left the truth they hate.",
+            "bn": "কুরতুবী নাহহাসের বরাতে ব্যাকরণের একটি কথা যোগ করেন: আরবিতে বাক্যটির অর্থ ধরা হবে এভাবে, সত্যের মালিক যদি অনুসরণ করতেন। এভাবে পড়লে আয়াতে কোনো বিমূর্ত ধারণা কারও পিছু নিচ্ছে না। ছবিটা হলো, গোটা সৃষ্টির রব তাদের ইচ্ছা পূরণ করে চলছেন। তাবারীর নিজের ব্যাখ্যাও এই পাঠের উপর দাঁড়ানো। তিনি লেখেন: রব যদি এই মুশরিকদের খেয়ালখুশিমতো কাজ করতেন, সবকিছুর পরিচালনা তাদের ইচ্ছা ও চাওয়ার উপর চালাতেন, আর যে সত্যকে তারা অপছন্দ করে তা ছেড়ে দিতেন।"
+          },
+          {
+            "en": "The other answer takes al-haqq to be the Qur'an. Al-Baghawi reports it from al-Farra' and az-Zajjaj: if the Qur'an had come down with what they love, a partner and a son for Allah as they believed. Al-Qurtubi lists the same view with it was said. He also records a reading that treats following as a figure of speech for agreeing: if the truth had agreed with their desires. The tafsirs keep both answers, and neither is set aside here.",
+            "bn": "অন্য উত্তরটি হলো, আল-হক মানে কুরআন। বাগাভী এটি বর্ণনা করেন ফাররা ও যাজ্জাজ থেকে: কুরআন যদি তাদের পছন্দমতো নাযিল হতো, তাদের বিশ্বাস অনুযায়ী আল্লাহর শরিক ও সন্তান সাব্যস্ত করে। কুরতুবীও 'বলা হয়েছে' কথাটি দিয়ে এ মত উল্লেখ করেন। তিনি আরেকটি পাঠও আনেন, যেখানে 'অনুসরণ' শব্দটি রূপক, আসল অর্থ মিলে যাওয়া: সত্য যদি তাদের খেয়ালখুশির সঙ্গে মিলে যেত। তাফসীরগুলো দুটি উত্তরই রেখেছে, এখানেও কোনোটিকে বাদ দেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Had It Bent to Them",
+          "bn": "সত্য যদি তাদের দিকে নুইত"
+        },
+        "p": [
+          {
+            "en": "What would following their desires have looked like? The tafsirs name two areas. One is law. Ibn Kathir puts it as Allah answering the desire in their souls and laying down matters to fit it, and al-Muyassar says, if Allah had legislated for them what agrees with their desires. The other is the running of creation itself. At-Tabari speaks of tadbir, the ordering of affairs, being made to run on their will. Either way, the verse imagines human wanting placed in the seat of the measure.",
+            "bn": "তাদের খেয়ালখুশির অনুসরণ বাস্তবে কেমন হতো? তাফসীরগুলো দুটি ক্ষেত্রের কথা বলে। একটি হলো বিধান। ইবন কাসীরের ভাষায়, আল্লাহ যদি তাদের মনের কামনায় সাড়া দিতেন আর সেই অনুযায়ী বিধান দিতেন। মুয়াসসার বলে, আল্লাহ যদি তাদের জন্য তাদের খেয়ালখুশির মানানসই শরীয়ত দিতেন। অন্যটি হলো সৃষ্টিজগতের পরিচালনা। তাবারী তাদবীরের কথা বলেন, অর্থাৎ সবকিছুর বন্দোবস্ত, যা তাদের ইচ্ছামতো চলত। যেভাবেই ধরা হোক, আয়াতটি কল্পনা করছে মানুষের চাওয়াকে মাপকাঠির আসনে বসানো।"
+          },
+          {
+            "en": "Al-Baghawi gives the reading on Allah a sharper edge: if Allah had followed their wish in what He does, or, as another view has it, followed their wish so far as to name for Himself a partner and a son, as they said. Al-Qurtubi explains the reading of following as agreeing this way. If they could deny the messengers and disobey Allah and then face no punishment and no recompense, whether from inability or from ignorance, the heavens and the earth would be ruined. On that view, a world without consequences is itself the ruin.",
+            "bn": "আল্লাহ-অর্থের পাঠটিকে বাগাভী আরও ধারালো করেন: আল্লাহ যদি নিজের কাজে তাদের চাওয়ার অনুসরণ করতেন। আরেক মতে, তাদের চাওয়া মেনে যদি নিজের জন্য শরিক ও সন্তান সাব্যস্ত করতেন, যেমনটা তারা বলত। অনুসরণকে মিলে যাওয়া অর্থে নেওয়ার পাঠটি কুরতুবী ব্যাখ্যা করেন এভাবে। তারা রাসূলদের অস্বীকার করবে, আল্লাহর নাফরমানি করবে, অথচ কোনো শাস্তি বা প্রতিফল পাবে না, হয় অক্ষমতার কারণে, নয়তো না জানার কারণে। এমন হলে আকাশ ও পৃথিবী ধ্বংস হয়ে যেত। এ মতে, যে জগতে কাজের কোনো পরিণাম নেই, সেই জগৎটাই আসল ধ্বংস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Wishes Cannot Govern",
+          "bn": "চাওয়া কেন শাসন চালাতে পারে না"
+        },
+        "p": [
+          {
+            "en": "Why would the world break? At-Tabari gives the reason in a sentence. They do not know the outcomes of affairs, nor sound ordering from corrupt. If things ran on their wishes, while most of them prefer falsehood to truth, the heavens and the earth and the creatures in them would not hold steady, because all of that stands by the truth. The weakness he names is not only bad intention but short sight: wanting something says nothing about where it leads.",
+            "bn": "পৃথিবী ভেঙে পড়ত কেন? তাবারী কারণটা বলেন এক বাক্যে। কাজের শেষ পরিণাম তারা জানে না, ঠিক আর ভুল বন্দোবস্তের পার্থক্যও বোঝে না। তাদের বেশির ভাগ সত্যের চেয়ে বাতিলকে বেশি পছন্দ করে। এ অবস্থায় সবকিছু তাদের ইচ্ছামতো চললে আকাশ, পৃথিবী আর এর ভেতরের সৃষ্টি স্থির থাকত না, কারণ এ সবকিছু সত্যের উপরই দাঁড়িয়ে আছে। তিনি যে দুর্বলতার কথা বলছেন, তা শুধু খারাপ নিয়ত নয়, দৃষ্টির সংকীর্ণতাও। কোনো কিছু চাওয়া থেকে বোঝা যায় না, তা শেষে কোথায় নিয়ে যাবে।"
+          },
+          {
+            "en": "Ibn Kathir points to the corruption of their desires and to how they clash with one another, and he shows it from their own words. They asked why this Qur'an was not sent down to some great man of the two towns, and were answered: is it they who share out the mercy of your Lord (43:31 and 43:32)? He adds 17:100, that if they held the treasuries of His mercy they would hold back for fear of spending, and 4:53, that given a share of dominion they would not give people a speck.",
+            "bn": "ইবন কাসীর দেখান তাদের খেয়ালখুশির বিকৃতি আর একটির সঙ্গে আরেকটির সংঘাত, এবং দেখান তাদেরই কথা থেকে। তারা বলেছিল, এ কুরআন দুই জনপদের কোনো বড় মানুষের উপর নাযিল হলো না কেন? জবাব এসেছিল: তারাই কি তোমার রবের রহমত ভাগ করে দেয়? (৪৩:৩১ ও ৪৩:৩২)। তিনি যোগ করেন ১৭:১০০, তারা যদি আল্লাহর রহমতের ভাণ্ডারের মালিক হতো, খরচ হয়ে যাওয়ার ভয়ে আটকে রাখত। আরও আনেন ৪:৫৩, রাজত্বের ভাগ পেলে তারা মানুষকে তিল পরিমাণও দিত না।"
+          },
+          {
+            "en": "From all this, Ibn Kathir concludes, appear the helplessness of the servants and the divergence of their opinions and desires, and that Allah alone is perfect in His attributes, words and acts, His law and His decree, and His ordering of creation. Al-Qurtubi says desires differ and contradict each other; the way of truth is to be followed, and the way of people is to yield to it. As-Sa'di adds that their desires were bound up with injustice and unbelief, while the heavens and the earth stand upright only by truth and justice.",
+            "bn": "ইবন কাসীর এ থেকে সিদ্ধান্ত টানেন: এসব দেখায় বান্দাদের অক্ষমতা আর তাদের মত ও খেয়ালখুশির বিভেদ। আরও দেখায়, একমাত্র আল্লাহই পূর্ণ, তাঁর গুণে, কথায় ও কাজে, তাঁর শরীয়ত ও তাকদীরে, আর সৃষ্টির পরিচালনায়। কুরতুবী বলেন, মানুষের কামনা নানা রকম, একটি আরেকটির বিপরীত। সত্যের পথ হলো অনুসৃত হওয়া, আর মানুষের পথ হলো তার কাছে নত হওয়া। সা'দী যোগ করেন, তাদের খেয়ালখুশি জড়িয়ে ছিল জুলুম আর কুফরের সঙ্গে, অথচ আকাশ ও পৃথিবী সোজা দাঁড়িয়ে আছে কেবল সত্য ও ন্যায়ের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Wills, One Sky",
+          "bn": "বহু ইচ্ছা, এক আকাশ"
+        },
+        "p": [
+          {
+            "en": "Two of the tafsirs tie the ruin to the false gods. Al-Qurtubi records the view that the meaning is: if the truth were what they claim, taking other gods beside Allah, those gods would be at odds, some wanting what others did not, the ordering of things would be thrown into confusion, and the heavens and the earth would be ruined. Al-Baghawi, after the reading of al-Farra' and az-Zajjaj, sets beside it 21:22: had there been gods in them other than Allah, both would have been ruined.",
+            "bn": "দুটি তাফসীর এই ধ্বংসকে জুড়ে দেয় মিথ্যা উপাস্যদের সঙ্গে। কুরতুবী একটি মত উল্লেখ করেন: তারা যা দাবি করে, অর্থাৎ আল্লাহর সঙ্গে আরও উপাস্য গ্রহণ করা, সেটাই যদি সত্য হতো, তবে সেই উপাস্যরা পরস্পর বিরোধে জড়াত। একজন যা চাইত, আরেকজন তা চাইত না। সবকিছুর বন্দোবস্ত এলোমেলো হয়ে যেত, আর আকাশ ও পৃথিবী ধ্বংস হয়ে যেত। বাগাভী ফাররা ও যাজ্জাজের পাঠটি উল্লেখ করার পর পাশে রাখেন ২১:২২: আকাশ ও পৃথিবীতে যদি আল্লাহ ছাড়া আরও উপাস্য থাকত, দুটোই ধ্বংস হয়ে যেত।"
+          },
+          {
+            "en": "That argument is treated at 21:22 and 23:91, so it is only marked here. What this verse adds is the words wa-man fihinna, and whoever is in them. Al-Qurtubi relays al-Mawardi: the phrase points to those who have reason, the angels of the heavens and the humans and jinn of the earth. Al-Kalbi takes it to mean whatever creation lies between them, which al-Qurtubi notes is also the reading of Ibn Mas'ud: the heavens and the earth and what is between them.",
+            "bn": "এ যুক্তির আলোচনা ২১:২২ ও ২৩:৯১ আয়াতে, তাই এখানে শুধু ইঙ্গিত রাখা হলো। এ আয়াত নতুন যা যোগ করে, তা হলো 'ওয়া মান ফীহিন্না', আর এগুলোর ভেতরে যারা আছে। কুরতুবী মাওয়ার্দীর বরাতে বলেন, কথাটি বুদ্ধিসম্পন্নদের দিকে ইশারা করে: আকাশের ফেরেশতা আর পৃথিবীর মানুষ ও জিন। কালবী এর অর্থ নেন, এ দুয়ের মাঝখানে যত সৃষ্টি আছে। কুরতুবী জানান, ইবন মাসউদ (রাঃ)-এর কিরাআতও এমন: আকাশমণ্ডলী, পৃথিবী আর এ দুয়ের মাঝখানে যা আছে।"
+          },
+          {
+            "en": "On the common reading, al-Qurtubi explains, the ruin falls first on those with reason, and the rest follows them, since what lacks reason is managed by those who have it. For the angels, the corruption would be to be made lords though they are under a Lord, worshipped though they are themselves held in servitude. For humans it would take two forms: following desire, which destroys, and worshipping other than Allah, which is unbelief. Everything else would be spoiled only as a consequence.",
+            "bn": "অধিকাংশ কারীর পাঠ অনুযায়ী, কুরতুবী বুঝিয়ে বলেন, ধ্বংস প্রথমে নামে বুদ্ধিসম্পন্নদের উপর, বাকি সব তাদের অনুগামী। কারণ যার বুদ্ধি নেই, তার দেখভাল করে বুদ্ধিসম্পন্নরাই। ফেরেশতাদের বেলায় বিকৃতি হতো এই যে, তাঁরা নিজেরা প্রতিপালিত হয়েও তাঁদের রব বানানো হতো, নিজেরা দাসত্বে বাঁধা হয়েও তাঁদের ইবাদত করা হতো। মানুষের বেলায় বিকৃতির দুটি রূপ: খেয়ালখুশির অনুসরণ, যা ধ্বংস ডেকে আনে, আর আল্লাহ ছাড়া অন্যের ইবাদত, যা কুফর। বাকি সবকিছু নষ্ট হতো শুধু তারই ফল হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Reminder, or Their Renown",
+          "bn": "তাদের উপদেশ, নাকি তাদের মর্যাদা"
+        },
+        "p": [
+          {
+            "en": "Then bal ataynahum bi-dhikrihim: rather, We brought them their dhikr. At-Tabari says the interpreters differed over the word. Some took it as the making plain of the truth to them, through this Qur'an sent down to a man from among them; Ibn Abbas, in a report at-Tabari gives with its chain, said, We made it clear to them. Others said it means their honour, since this Qur'an was an honour for them, coming down to one of their own, and they turned from it. They compared 43:44: it is a dhikr for you and your people.",
+            "bn": "তারপর 'বাল আতাইনাহুম বিযিকরিহিম': বরং আমি তাদের কাছে এনেছি তাদের যিকর। তাবারী বলেন, শব্দটির ব্যাখ্যায় আলেমদের মতভেদ আছে। কারও মতে এর অর্থ তাদের সামনে সত্যকে স্পষ্ট করে দেওয়া, তাদেরই একজনের উপর নাযিল হওয়া এই কুরআনের মাধ্যমে। তাবারী সনদসহ ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: আমি তাদের কাছে স্পষ্ট করে দিয়েছি। অন্যদের মতে এর অর্থ তাদের মর্যাদা। কারণ এ কুরআন তাদের জন্য সম্মান, তা নাযিল হয়েছে তাদেরই একজনের উপর, অথচ তারা তা থেকে মুখ ফিরিয়েছে। তাঁরা এর তুলনা দেন ৪৩:৪৪ দিয়ে: এটি তোমার ও তোমার কওমের জন্য যিকর।"
+          },
+          {
+            "en": "At-Tabari calls the two sayings close in meaning: Allah sent this Qur'an down as a clear account of what His creation needs in their religion, and it is at the same time a dhikr for His Messenger ﷺ and his people, and an honour for them. Al-Qurtubi has three positions. As-Suddi and Sufyan say it is what holds their honour and standing; Qatada, what mentions their reward and punishment; Ibn Abbas, the making plain of the truth and of what they need in religion.",
+            "bn": "তাবারীর মতে দুটি কথার অর্থ কাছাকাছি। আল্লাহ এ কুরআন নাযিল করেছেন বান্দাদের দ্বীনের যা কিছু দরকার, তার স্পষ্ট বর্ণনা হিসেবে। সেই সঙ্গে এটি তাঁর রাসূল ﷺ ও তাঁর কওমের জন্য যিকর, তাদের জন্য সম্মান। কুরতুবীর কাছে তিনটি মত পাওয়া যায়। সুদ্দী ও সুফিয়ান বলেন, এর অর্থ যাতে তাদের সম্মান ও মর্যাদা নিহিত। কাতাদা বলেন, যাতে তাদের সওয়াব ও শাস্তির কথা আছে। আর ইবন আব্বাস (রাঃ) বলেন, সত্যের স্পষ্ট বর্ণনা আর দ্বীনের প্রয়োজনীয় বিষয়ের আলোচনা।"
+          },
+          {
+            "en": "Al-Baghawi first glosses the word as what reminds them, then reports Ibn Abbas as saying it is what holds their pride and honour, meaning the Qur'an, and joins it to 21:10, a Book in which is your dhikr, and 43:44. So Ibn Abbas is reported with making plain in at-Tabari and al-Qurtubi, and with honour in al-Baghawi. Al-Muyassar takes honour. Ibn Kathir says only that it is the Qur'an. As-Sa'di holds both: the Qur'an that reminds them of every good, their honour when they stand by it.",
+            "bn": "বাগাভী প্রথমে শব্দটির অর্থ করেন, যা তাদের স্মরণ করিয়ে দেয়। তারপর ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর অর্থ যাতে তাদের গৌরব ও সম্মান, অর্থাৎ কুরআন। সঙ্গে জুড়ে দেন ২১:১০, এমন কিতাব যাতে তোমাদের যিকর আছে, এবং ৪৩:৪৪। ফলে ইবন আব্বাস (রাঃ)-এর বর্ণনা তাবারী ও কুরতুবীতে স্পষ্ট বর্ণনার অর্থে, আর বাগাভীতে সম্মানের অর্থে। মুয়াসসার সম্মানের অর্থ নেয়। ইবন কাসীর শুধু বলেন, এটি কুরআন। সা'দী দুটোই ধরে রাখেন: সেই কুরআন, যা তাদের সব কল্যাণের কথা মনে করিয়ে দেয়, আর যা আঁকড়ে ধরলে তাদের সম্মান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning From What Raised Them",
+          "bn": "নিজেদের সম্মান থেকেই বিমুখ"
+        },
+        "p": [
+          {
+            "en": "The verse ends fa-hum 'an dhikrihim mu'ridun, and from their dhikr they are turning away. The word comes twice and keeps its pronoun both times: their reminder, their honour. Al-Baghawi spells out the second as from their honour. As-Sa'di adds that the Qur'an is what they would take pride in, and by which they would become leaders of people, if they stood by it. What they turned from was no stranger's demand but something of their own that would have raised them.",
+            "bn": "আয়াত শেষ হয় 'ফাহুম আন যিকরিহিম মু'রিদূন' দিয়ে: আর নিজেদের যিকর থেকেই তারা মুখ ফিরিয়ে আছে। শব্দটি দুবার এসেছে, আর দুবারই সঙ্গে আছে 'তাদের': তাদের উপদেশ, তাদের সম্মান। বাগাভী দ্বিতীয়টির ব্যাখ্যা করেন, তাদের সম্মান থেকে। সা'দী যোগ করেন, কুরআনকে আঁকড়ে ধরলে তা নিয়েই তারা গর্ব করতে পারত, আর এর মাধ্যমেই তারা হতে পারত মানুষের নেতা। কাজেই যা থেকে তারা মুখ ফিরিয়েছে, তা অচেনা কারও দাবি নয়, বরং তাদেরই এমন জিনিস, যা তাদের উঁচুতে তুলত।"
+          },
+          {
+            "en": "As-Sa'di names the cause as wretchedness on their part and an absence of divine help, and he places the verse beside two others: they forgot Allah, so He forgot them (9:67), and they forgot Allah, so He made them forget themselves (59:19). The Qur'an and the Messenger who brought it, he says, were the greatest blessing Allah sent their way, and they met it with nothing but refusal and turning away. Then he asks: is there any deprivation after this deprivation, and what lies beyond it but the furthest loss?",
+            "bn": "সা'দী এর কারণ বলেন তাদের দুর্ভাগ্য আর আল্লাহর তাওফীক না পাওয়া। আয়াতটিকে তিনি রাখেন আরও দুটি আয়াতের পাশে: তারা আল্লাহকে ভুলে গেছে, তাই তিনিও তাদের ভুলে গেছেন (৯:৬৭)। আর: তারা আল্লাহকে ভুলে গেছে, তাই তিনি তাদের নিজেদেরকেই ভুলিয়ে দিয়েছেন (৫৯:১৯)। তাঁর কথায়, কুরআন আর তা যিনি নিয়ে এসেছেন, এ দুটি ছিল আল্লাহর পাঠানো সবচেয়ে বড় নিয়ামত। অথচ তারা এর জবাব দিয়েছে কেবল প্রত্যাখ্যান আর বিমুখতা দিয়ে। তারপর তিনি প্রশ্ন রাখেন: এই বঞ্চনার পরে আর কোনো বঞ্চনা আছে কি? এর পেছনে চরম ক্ষতি ছাড়া আর কী থাকতে পারে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Wish Meets the Measure",
+          "bn": "চাওয়া যখন মাপকাঠির মুখোমুখি"
+        },
+        "p": [
+          {
+            "en": "A plain word on scope. In its setting the verse speaks of those who rejected the Prophet ﷺ and the Qur'an he brought; at-Tabari calls them these polytheists. It describes what the text describes, and licenses nothing against any living person or community. The tafsirs read it as truth set against desire, not as a verdict on any modern group or system. None of the fetched tafsirs attaches a hadith to this verse.",
+            "bn": "পরিসর নিয়ে একটা সোজা কথা। প্রসঙ্গ অনুযায়ী আয়াতটি তাদের কথা বলছে, যারা নবী ﷺ আর তাঁর আনা কুরআনকে প্রত্যাখ্যান করেছিল। তাবারী তাদের বলেন 'এই মুশরিকরা'। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে। বর্তমানের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। তাফসীরগুলো একে পড়ে খেয়ালখুশির মুখোমুখি সত্য হিসেবে, আজকের কোনো দল বা ব্যবস্থার উপর রায় হিসেবে নয়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি।"
+          },
+          {
+            "en": "What remains is a test for any heart. When a ruling, a verse, or a plain duty cuts against what I want, the verse tells me where the fault lies: in the wish, not the truth. Ibn Kathir's point is that only Allah is perfect in His law and decree, while human desires are many and at odds, often within one person. At-Tabari's is that wanting cannot see outcomes. Both ask the same of the reader: let the measure stay where it is, and bring the wish to it.",
+            "bn": "যা বাকি থাকে, তা যেকোনো অন্তরের পরীক্ষা। কোনো বিধান, কোনো আয়াত বা কোনো স্পষ্ট দায়িত্ব যখন আমার চাওয়ার উল্টো দিকে যায়, আয়াতটি বলে দেয় দোষ কোথায়: চাওয়ায়, সত্যে নয়। ইবন কাসীরের কথা হলো, শরীয়ত ও তাকদীরে পূর্ণ কেবল আল্লাহ। মানুষের কামনা অনেক রকম, পরস্পরবিরোধী, অনেক সময় একই মানুষের ভেতরেই। তাবারীর কথা হলো, চাওয়া পরিণাম দেখতে পায় না। দুটি কথাই পাঠকের কাছে একই জিনিস চায়: মাপকাঠি যেখানে আছে সেখানেই থাকুক, চাওয়াকে নিয়ে যান তার কাছে।"
+          },
+          {
+            "en": "The second half turns the same test toward the Qur'an itself. If dhikr means reminder, it is a voice that keeps naming what I would rather not hear. If it means honour, it is the thing that would raise me, and I have been treating it as a weight. As-Sa'di's condition is the key: it is their honour when they stand by it. The verse asks for more than acceptance: that the gift be held, read and acted on.",
+            "bn": "আয়াতের দ্বিতীয় ভাগ একই পরীক্ষা ফিরিয়ে আনে কুরআনের দিকে। যিকর যদি হয় উপদেশ, তবে কুরআন এমন এক কণ্ঠ, যা বারবার সে কথাই মনে করিয়ে দেয়, যা আমি শুনতে চাই না। আর যিকর যদি হয় সম্মান, তবে এ সেই জিনিস, যা আমাকে উঁচুতে তুলত, অথচ আমি একে বোঝা ভেবে বয়ে বেড়াচ্ছি। সা'দীর শর্তটাই এখানে আসল কথা: আঁকড়ে ধরলে তবেই তা সম্মান। আয়াতটি শুধু মেনে নেওয়ার চেয়ে বেশি চায়: উপহারটিকে ধরে রাখা, পড়া আর তার উপর আমল করা।"
+          }
+        ]
+      }
+    ]
+  },
   "23:75": {
     "sections": [
       {
