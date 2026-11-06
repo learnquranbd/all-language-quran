@@ -25309,6 +25309,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nothing set beside Allah has made or provided anything you could point to; give your worship, hope and fear to Him alone, the Mighty, the Wise.",
     "lessonBn": "আল্লাহর পাশে যাকেই দাঁড় করানো হোক, দেখানোর মতো কিছুই সে সৃষ্টি করেনি, কিছুই দেয়নি। তাই ইবাদত, আশা আর ভয় শুধু তাঁকেই দিন, যিনি মহাপরাক্রমশালী, মহাপ্রজ্ঞাময়।"
+  },
+  "34:6": {
+    "reflectionEn": "Just before this verse, some people work hard to make the revelation fail. Then the verse turns to another group: those who were given knowledge. They look at what came down to the Prophet ﷺ from his Lord and see that it is the truth, and that it leads to the path of the Mighty, the Praiseworthy. The verb is not that they were told, but that they see, as if truth were something one could look at. And the knowledge was given to them, not seized. Right after, the deniers ask whether the messenger is a liar or mad. One revelation, two ways of looking. When I read it, what do I see: a load of rules, or a road with a Praiseworthy Lord at its end?",
+    "reflectionBn": "এ আয়াতের ঠিক আগে কিছু মানুষের কথা এসেছে, যারা ওহিকে ব্যর্থ করতে উঠেপড়ে লেগেছে। তারপর আয়াতটি ফেরে আরেক দলের দিকে, যাদের জ্ঞান দেওয়া হয়েছে। নবী ﷺ-এর কাছে তাঁর রবের পক্ষ থেকে যা নেমেছে, তারা তার দিকে তাকায় এবং দেখে, এটাই সত্য। আরও দেখে, এটা নিয়ে যায় মহাপরাক্রমশালী, প্রশংসিত সত্তার পথে। আয়াত বলছে না যে তাদের শুধু জানানো হয়েছে। বলছে, তারা দেখে, যেন সত্য চোখে দেখার মতো কিছু। আর জ্ঞানটা তাদের দেওয়া হয়েছে, তারা নিজেরা ছিনিয়ে আনেনি। ঠিক পরেই অস্বীকারকারীরা প্রশ্ন তোলে, রাসূল কি মিথ্যাবাদী, নাকি পাগল। ওহি একটাই, দেখার চোখ দুই রকম। আমি যখন পড়ি, কী দেখি? নিয়মের একটা বোঝা, নাকি এমন এক পথ যার শেষে আছেন প্রশংসিত রব?",
+    "pointsEn": [
+      "When I open the Qur'an, do I come to see whether it is true, or have I already decided what I will find?",
+      "What knowledge have I been given that should make the truth clearer to me, and have I let it do that?",
+      "Which of its commands still feels to me like a weight rather than a path, and what would change if I saw where it leads?",
+      "Do I look for the truth of the revelation only in argument, or also in what I see come true around me and within me?",
+      "When I count myself among those who know, does it humble me, or does it let me look down on others?"
+    ],
+    "pointsBn": [
+      "কুরআন খুললে আমি কি দেখতে আসি এটা সত্য কি না, নাকি কী পাব তা আগেই ঠিক করে রেখেছি?",
+      "আমাকে কোন জ্ঞান দেওয়া হয়েছে, যা দিয়ে সত্যটা আরও পরিষ্কার দেখার কথা? আর আমি কি সেটাকে সে কাজ করতে দিয়েছি?",
+      "এর কোন আদেশটা এখনো আমার কাছে পথ না হয়ে বোঝা মনে হয়? সেটা কোথায় নিয়ে যায় দেখতে পেলে কী বদলাত?",
+      "ওহির সত্যতা কি আমি শুধু যুক্তিতর্কে খুঁজি, নাকি আমার চারপাশে আর আমার ভেতরে যা সত্য হয়ে ফলতে দেখি, তাতেও?",
+      "নিজেকে জ্ঞানীদের একজন ভাবলে তা কি আমাকে বিনয়ী করে, নাকি অন্যদের ছোট করে দেখার সুযোগ করে দেয়?"
+    ],
+    "lessonEn": "Knowledge from Allah should open your eyes to the revelation as the truth and as a path to the Mighty, the Praiseworthy; let what you learn lead you along it.",
+    "lessonBn": "আল্লাহর দেওয়া জ্ঞান আপনার চোখ খুলে দিক, যাতে ওহিকে সত্য বলে দেখেন এবং মহাপরাক্রমশালী, প্রশংসিত রবের পথ বলে চেনেন। যা শিখছেন, তা যেন আপনাকে সে পথে এগিয়ে নেয়।"
   }
 };
 

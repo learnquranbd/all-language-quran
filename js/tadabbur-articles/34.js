@@ -163,6 +163,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Strivers Answered by Seers",
+          "bn": "বাধাদানকারীর বিপরীতে দ্রষ্টা"
+        },
+        "p": [
+          {
+            "en": "Surah Saba opens with praise and with Allah's knowledge of what enters the earth and what rises from it. Then the deniers speak: the Hour will not come to us. The sworn answer stands in 34:3, and 34:4 and 34:5 name its purpose: to reward those who believe and do good, while those who strive against His signs, seeking to frustrate them, face a painful punishment. Then 34:6 opens with a waw and turns to another figure: those who were given knowledge, and what they see.",
+            "bn": "সূরা সাবা শুরু হয় প্রশংসা দিয়ে, আর আল্লাহর সেই জ্ঞানের কথা দিয়ে, যা মাটিতে ঢোকা আর মাটি থেকে ওঠা সব কিছু জানে। তারপর অস্বীকারকারীরা মুখ খোলে: কিয়ামত আমাদের কাছে আসবে না। শপথ করে দেওয়া জবাবটি আছে ৩৪:৩ আয়াতে। ৩৪:৪ ও ৩৪:৫ বলে দেয় তার উদ্দেশ্য: যারা ঈমান এনে নেক আমল করে তাদের প্রতিদান দেওয়া, আর যারা তাঁর আয়াতকে ব্যর্থ করার চেষ্টায় দৌড়ঝাঁপ করে তাদের জন্য যন্ত্রণাদায়ক শাস্তি। এরপর ৩৪:৬ একটি ওয়াও দিয়ে শুরু হয়ে অন্য এক দলের দিকে ফেরে: যাদের জ্ঞান দেওয়া হয়েছে, আর তারা কী দেখে।"
+          },
+          {
+            "en": "The commentators read the turn as a deliberate contrast. Al-Qurtubi: after mentioning those who strove to undo prophethood, Allah made clear that those given knowledge see the Qur'an as true. As-Sa'di frames it from the other side. Having mentioned those who deny the resurrection and hold that what was sent down to His Messenger is not the truth, He mentions the state of the servants granted success, the people of knowledge. Ma'arif al-Qur'an likewise reads the verse as speaking of believers, set against those who denied the Qiyamah.",
+            "bn": "তাফসীরকারেরা এই মোড়টাকে দেখেন সচেতন বৈপরীত্য হিসেবে। কুরতুবী বলেন, যারা নবুওয়াতকে বাতিল করার চেষ্টা করেছিল তাদের কথা বলার পর আল্লাহ জানিয়ে দিলেন, জ্ঞানপ্রাপ্তরা কুরআনকে সত্য বলে দেখে। সা'দী একই কথা বলেন উল্টো দিক থেকে। যারা পুনরুত্থান অস্বীকার করে আর মনে করে রাসূলের উপর যা নেমেছে তা সত্য নয়, তাদের কথা বলার পর আল্লাহ বলছেন তাওফীকপ্রাপ্ত বান্দাদের অবস্থা, অর্থাৎ জ্ঞানের অধিকারীদের। মাআরিফুল কুরআনও আয়াতটি পড়ে মুমিনদের কথা হিসেবে, যারা কিয়ামত অস্বীকারকারীদের বিপরীতে দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Knowledge Was Given",
+          "bn": "জ্ঞান কাদের দেওয়া হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own reading names a particular group. By those given knowledge, he says, Allah meant the Muslims among the People of the Book, such as 'Abdullah ibn Salam and his peers, who had read the Books of Allah revealed before the Furqan. His paraphrase makes the knowledge specific: so that these, who were given knowledge of Allah's Book, the Torah, may see that the Book sent down to you, Muhammad, from your Lord is the truth. On this reading the seeing is a recognition by people who had already read earlier scripture.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা একটি নির্দিষ্ট দলের নাম নেয়। তাঁর মতে জ্ঞানপ্রাপ্ত বলতে আল্লাহ বুঝিয়েছেন আহলে কিতাবের মধ্যে যারা মুসলিম হয়েছিলেন তাঁদের, যেমন আবদুল্লাহ ইবন সালাম (রাঃ) ও তাঁর মতো আরও কয়েকজন। ফুরকানের আগে নাজিল হওয়া আল্লাহর কিতাবগুলো তাঁরা পড়েছিলেন। তাবারীর ব্যাখ্যামূলক বাক্যে জ্ঞানটা নির্দিষ্ট হয়ে যায়: আল্লাহর কিতাব তাওরাতের জ্ঞান যাঁদের দেওয়া হয়েছে, তাঁরা যেন দেখেন, হে মুহাম্মাদ, আপনার রবের পক্ষ থেকে আপনার কাছে যে কিতাব নেমেছে তা-ই সত্য। এ ব্যাখ্যায় দেখাটা আসলে চিনে নেওয়া, আগের কিতাব পড়া মানুষের চিনে নেওয়া।"
+          },
+          {
+            "en": "At-Tabari then records a second view, introduced with 'it was said': that they are the Companions of the Messenger of Allah ﷺ. He gives it a chain, through Bishr, Yazid and Sa'id, to Qatada, who said: the Companions of Muhammad. Al-Baghawi has the same pair: first the believers of the People of the Book, 'Abdullah ibn Salam and his companions, then Qatada's view that they are the Companions of Muhammad ﷺ. Al-Qurtubi assigns the two differently, reporting the People of the Book view from Muqatil and the Companions view from Ibn 'Abbas.",
+            "bn": "এরপর তাবারী 'বলা হয়েছে' কথাটি দিয়ে দ্বিতীয় একটি মত আনেন: এঁরা আল্লাহর রাসূল ﷺ-এর সাহাবিগণ। মতটির জন্য তিনি সনদও দেন, বিশর, ইয়াযীদ ও সাঈদের মাধ্যমে কাতাদা পর্যন্ত। কাতাদা বলেছেন: মুহাম্মাদের সাহাবিগণ। বাগাভীর কাছেও একই দুটি মত। প্রথমে আহলে কিতাবের মুমিনরা, আবদুল্লাহ ইবন সালাম (রাঃ) ও তাঁর সঙ্গীরা। তারপর কাতাদার মত, এঁরা মুহাম্মাদ ﷺ-এর সাহাবিগণ। কুরতুবী মত দুটির উৎস বলেন অন্যভাবে। আহলে কিতাবের মতটি তিনি আনেন মুকাতিল থেকে, আর সাহাবিদের মতটি ইবন আব্বাস (রাঃ) থেকে।"
+          },
+          {
+            "en": "Al-Qurtubi then adds a third view, again with 'it was said': all the Muslims. He calls it the more correct, because of its generality. As-Sa'di does not tie the phrase to any group of the first generation at all; he speaks of the people of knowledge as such, and, as a later section shows, measures belonging by degree. So three answers stand side by side: the believers among the People of the Book, the Companions, and every Muslim, each with its named holders. The verse's own wording names no group.",
+            "bn": "কুরতুবী এরপর আবারও 'বলা হয়েছে' দিয়ে তৃতীয় একটি মত যোগ করেন: সব মুসলিম। ব্যাপকতার কারণে তিনি এ মতকেই বেশি সঠিক বলেন। সা'দী শব্দগুচ্ছটিকে প্রথম প্রজন্মের কোনো দলের সঙ্গে বাঁধেনই না। তিনি কথা বলেন জ্ঞানের অধিকারীদের নিয়ে, আর পরের এক অংশে দেখা যাবে, কে তাঁদের মধ্যে পড়ে তা তিনি মাপেন মাত্রা দিয়ে। ফলে তিনটি জবাব পাশাপাশি দাঁড়িয়ে আছে: আহলে কিতাবের মুমিনরা, সাহাবিগণ, আর প্রত্যেক মুসলিম। প্রতিটির পেছনে আছেন নাম-জানা আলিমরা। আয়াতের নিজের শব্দ কোনো দলের নাম নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known Before, Seen Then",
+          "bn": "আগে জানা, তখন দেখা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse forward, toward the Day itself. He calls it another wisdom, joined to the wisdom before it: the Hour comes so that believers and deniers are each repaid, and also so that those who believed in what was sent down to the messengers, when they witness the Hour arrive and the righteous and the wicked repaid, see then with the certainty of the eye, 'ayn al-yaqin, what they had known in this world from the Books of Allah. Knowledge held by report becomes something seen.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন সামনের দিকে, সেই দিনটির দিকে তাকিয়ে। তিনি একে বলেন আরেকটি হিকমত, আগেরটির সঙ্গে জোড়া। কিয়ামত আসবে যাতে মুমিন ও অস্বীকারকারী প্রত্যেকে প্রতিফল পায়। আরও আসবে এজন্য যে, রাসূলদের উপর যা নেমেছিল তাতে যারা ঈমান এনেছিল, তারা যখন কিয়ামতের আগমন আর নেককার ও বদকারের প্রতিফল নিজের চোখে দেখবে, তখন দুনিয়াতে আল্লাহর কিতাব থেকে যা জেনেছিল, তা দেখবে আইনুল ইয়াকীন দিয়ে, চোখে দেখা নিশ্চয়তায়। শোনা জ্ঞান তখন হয়ে যায় দেখা জিনিস।"
+          },
+          {
+            "en": "He gathers verses for what is said on that Day. The believers say, in 7:43, that the messengers of our Lord came with the truth. In 36:52 it is said: this is what the Most Merciful promised, and the messengers told the truth. And from 30:56: you remained, by the decree of Allah, until the Day of Resurrection, and this is the Day of Resurrection. Ibn Kathir quotes only those words, but in the Qur'an 30:56 opens by naming its speakers: those who were given knowledge and faith, nearly the phrase of this verse.",
+            "bn": "সেদিন কী বলা হবে, তার জন্য তিনি কয়েকটি আয়াত একসঙ্গে আনেন। ৭:৪৩ আয়াতে মুমিনরা বলে, আমাদের রবের রাসূলগণ সত্য নিয়েই এসেছিলেন। ৩৬:৫২ আয়াতে বলা হয়: এ-ই তো দয়াময়ের প্রতিশ্রুতি, আর রাসূলগণ সত্যই বলেছিলেন। আর ৩০:৫৬ থেকে: আল্লাহর লিখন অনুযায়ী তোমরা পুনরুত্থান দিবস পর্যন্ত অবস্থান করেছ, আর এই তো পুনরুত্থান দিবস। ইবন কাসীর শুধু এ কথাগুলোই উদ্ধৃত করেন। কিন্তু কুরআনে ৩০:৫৬ আয়াত শুরুই হয় বক্তাদের পরিচয় দিয়ে: যাদের জ্ঞান ও ঈমান দেওয়া হয়েছিল। এ আয়াতের শব্দগুচ্ছের প্রায় হুবহু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Joined to the Reward, or Fresh",
+          "bn": "প্রতিদানের সঙ্গে, না নতুন বাক্য"
+        },
+        "p": [
+          {
+            "en": "The grammar of the opening verb, wa-yara, decides how the verse hangs on what comes before. At-Tabari makes it accusative, joined to yajziya in the li-yajziya of 34:4, 'so that He may reward'. His paraphrase reads both as purposes of the record: He set it down in a clear Book so that He may repay the believers and those who strove against Our signs, and so that those given knowledge may see. Ibn Kathir's 'another wisdom, joined to the wisdom before it' also reads it as a further purpose, though he ties it to the Hour's coming.",
+            "bn": "শুরুর ক্রিয়া ওয়া-ইয়ারা কীভাবে পড়া হবে, তার উপর নির্ভর করে আয়াতটি আগের কথার সঙ্গে কীভাবে যুক্ত। তাবারী একে নসব অবস্থায় ধরেন, ৩৪:৪ আয়াতের লি-ইয়াজযিয়া, অর্থাৎ 'যাতে তিনি প্রতিদান দেন', তার ইয়াজযিয়ার সঙ্গে জোড়া। তাঁর ব্যাখ্যায় দুটোই লিখে রাখার উদ্দেশ্য। আল্লাহ তা স্পষ্ট কিতাবে লিখে রেখেছেন, যাতে মুমিনদের আর যারা আমার আয়াতের বিরুদ্ধে দৌড়ঝাঁপ করেছে তাদের প্রতিফল দেন, আর যাতে জ্ঞানপ্রাপ্তরা দেখে। ইবন কাসীরের 'আগেরটির সঙ্গে জোড়া আরেকটি হিকমত' কথাতেও এটি বাড়তি এক উদ্দেশ্য, তবে তিনি তা বাঁধেন কিয়ামতের আগমনের সঙ্গে।"
+          },
+          {
+            "en": "Al-Qurtubi records the same joining, 'so that He may reward, and so that they may see', from az-Zajjaj and al-Farra', and then questions it. Li-yajziya, he says, attaches to 'it will surely come to you', the sworn promise of the Hour. One cannot say the Hour will come so that those given knowledge see that the Qur'an is true, for they see it as true even if the Hour has not come to them. The sound view, he says, is that the verb is nominative, a new sentence, as al-Qushayri mentioned.",
+            "bn": "কুরতুবী একই জোড়ার কথা আনেন যাজ্জাজ ও ফাররা থেকে, 'যাতে প্রতিদান দেন, আর যাতে তারা দেখে'। তারপর এতে আপত্তি তোলেন। তাঁর কথা হলো, লি-ইয়াজযিয়া যুক্ত 'তা অবশ্যই তোমাদের কাছে আসবে' কথার সঙ্গে, অর্থাৎ কিয়ামতের শপথ-করা প্রতিশ্রুতির সঙ্গে। অথচ এমন বলা যায় না যে কিয়ামত আসবে যাতে জ্ঞানপ্রাপ্তরা কুরআনকে সত্য বলে দেখে। কিয়ামত না এলেও তো তারা কুরআনকে সত্য বলেই দেখে। তাঁর মতে সঠিক হলো, ক্রিয়াটি রফা অবস্থায়, নতুন বাক্যের শুরু। কুশাইরী এ কথা উল্লেখ করেছেন।"
+          },
+          {
+            "en": "Then he adds his own 'I say'. If li-yajziya attaches instead to the sense of 'He set it down in a clear Book', the joining reads well: He recorded it also so that those given knowledge may see that the Qur'an is true. And it may also be a new sentence. So al-Qurtubi leaves both open, depending on what 34:4 hangs on, and at-Tabari's paraphrase already uses the record as that anchor. Ibn Kathir's seeing, set beside the objection, belongs to a different moment: it happens at the Hour itself.",
+            "bn": "এরপর কুরতুবী যোগ করেন নিজের কথা, 'আমি বলি' দিয়ে। লি-ইয়াজযিয়া যদি বরং যুক্ত হয় 'তিনি তা স্পষ্ট কিতাবে লিখে রেখেছেন' অর্থের সঙ্গে, তবে জোড়াটা সুন্দরভাবেই মেলে: তিনি তা লিখে রেখেছেন এজন্যও যে জ্ঞানপ্রাপ্তরা দেখবে কুরআন সত্য। আবার নতুন বাক্য হওয়াও সম্ভব। অর্থাৎ ৩৪:৪ কিসের সঙ্গে যুক্ত, তার উপর নির্ভর করে কুরতুবী দুটো পথই খোলা রাখেন। তাবারীর ব্যাখ্যা আগেই লিখে রাখাকে সেই ভিত্তি ধরেছে। আর আপত্তির পাশে রাখলে ইবন কাসীরের দেখা অন্য এক মুহূর্তের। তা ঘটে কিয়ামতের সময়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Seeing That Is Knowing",
+          "bn": "দেখা যখন জানা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi glosses the seeing as knowledge: ar-ru'ya here is in the sense of 'ilm. Al-Muyassar renders the verb accordingly, 'and those who were given knowledge know'. The Arabic still says see, and on this gloss the seeing is of the mind, a conviction firm enough to be called sight. The commentators also make the thing seen explicit. At-Tabari and al-Baghawi say that what was sent down is the Qur'an, and al-Baghawi glosses 'it is the truth' as: that it is from Allah.",
+            "bn": "কুরতুবী দেখাকে ব্যাখ্যা করেন জানা দিয়ে: এখানে রু'ইয়া মানে ইলম। মুয়াসসারও ক্রিয়াটির অর্থ করে সেভাবে, 'আর যাদের জ্ঞান দেওয়া হয়েছে তারা জানে'। আরবি শব্দটা কিন্তু দেখাই বলছে। এ ব্যাখ্যায় দেখাটা মনের দেখা, এমন দৃঢ় বিশ্বাস যাকে দৃষ্টি বলা চলে। কী দেখা হচ্ছে, তাফসীরকারেরা তাও স্পষ্ট করেন। তাবারী ও বাগাভী বলেন, যা নাজিল হয়েছে তা কুরআন। আর 'তা-ই সত্য' কথার ব্যাখ্যায় বাগাভী লেখেন: অর্থাৎ তা আল্লাহর কাছ থেকে।"
+          },
+          {
+            "en": "The clause carries a small pronoun between its two parts: alladhi unzila ilayka ... huwa al-haqq, what was sent down to you ... it is the truth. Al-Qurtubi parses it: alladhi is the first object of yara, al-haqq the second, and huwa a separating pronoun, a fasila, which the grammarians of Kufa call 'imad, a support. He allows the nominative as well, subject and predicate, but notes that all the grammarians favour the accusative where the predicate carries the definite article, as al-haqq does.",
+            "bn": "বাক্যটির দুই অংশের মাঝে আছে ছোট্ট একটি সর্বনাম: আল্লাযী উনযিলা ইলাইকা ... হুওয়াল হাক্ক, তোমার কাছে যা নাজিল হয়েছে ... তা-ই সত্য। কুরতুবী এর গঠন খুলে বলেন। আল্লাযী ইয়ারা ক্রিয়ার প্রথম কর্ম, আল-হাক্ক দ্বিতীয় কর্ম, আর হুওয়া মাঝখানের পৃথককারী সর্বনাম, ফাসিলা। কূফার নাহবিদরা একে বলেন ইমাদ, অর্থাৎ ঠেস। তিনি রফা পড়াকেও বৈধ বলেন, উদ্দেশ্য ও বিধেয় হিসেবে। তবে জানান, বিধেয়তে আলিফ-লাম থাকলে, যেমন আল-হাক্কে আছে, সব নাহবিদের কাছে নসবই বেশি প্রচলিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Roads to Certainty",
+          "bn": "ইয়াকীনে পৌঁছার পাঁচ পথ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws out what 'it is the truth' means: the truth is confined to it, and whatever opposes and contradicts it is falsehood, because they have reached in knowledge the degree of certainty, yaqin. The knowers, on his reading, do not merely find the revelation plausible. They see it as the measure. Then he asks how they reached that certainty, and answers that they were sure of the truth of its reports from many directions, which he goes on to list.",
+            "bn": "'তা-ই সত্য' কথার অর্থ সা'দী খুলে বলেন: সত্য কেবল এর মধ্যেই সীমাবদ্ধ, আর যা কিছু এর বিরোধী ও এর সঙ্গে সাংঘর্ষিক, তা বাতিল। কারণ জ্ঞানে তাঁরা পৌঁছে গেছেন ইয়াকীনের স্তরে, পূর্ণ নিশ্চয়তায়। তাঁর ব্যাখ্যায় জ্ঞানীরা ওহিকে শুধু সম্ভবত সত্য মনে করেন না। তাঁরা একেই মাপকাঠি হিসেবে দেখেন। এরপর সা'দী প্রশ্ন তোলেন, এ নিশ্চয়তায় তাঁরা পৌঁছলেন কীভাবে। জবাবে বলেন, এর দেওয়া খবরের সত্যতায় তাঁরা নিশ্চিত হয়েছেন নানা দিক থেকে। তারপর দিকগুলো একে একে গোনান।"
+          },
+          {
+            "en": "First, their knowledge of the truthfulness of the one who brought the news. Second, its agreement with things as they actually happen, and with the earlier Books. Third, what they witness of its reports coming to pass before their eyes. Fourth, the great signs they see in the horizons and in themselves that point to it, a phrase in the wording of 41:53, which ends its own clause on al-haqq. Fifth, its agreement with what His names and attributes indicate. The certainty does not rest on one pillar.",
+            "bn": "এক, যিনি খবর এনেছেন তাঁর সত্যবাদিতা সম্পর্কে তাঁদের জ্ঞান। দুই, বাস্তবে যা ঘটে তার সঙ্গে এবং আগের কিতাবগুলোর সঙ্গে এর মিল। তিন, এর দেওয়া খবরগুলো চোখের সামনে সত্য হয়ে ঘটতে দেখা। চার, দিগন্তে ও নিজেদের ভেতরে যে মহান নিদর্শনগুলো তাঁরা দেখেন, যা এর দিকেই ইঙ্গিত করে। কথাটি ৪১:৫৩ আয়াতের শব্দে বলা, আর সে আয়াতের বাক্যও শেষ হয় আল-হাক্ক শব্দে। পাঁচ, আল্লাহর নাম ও গুণাবলি যা নির্দেশ করে, তার সঙ্গে এর মিল। নিশ্চয়তা তাই একটিমাত্র খুঁটির উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Road to Its Owner",
+          "bn": "পথটি যাঁর, তাঁর কাছে"
+        },
+        "p": [
+          {
+            "en": "Wa-yahdi: and it guides. At-Tabari, al-Baghawi and al-Qurtubi make the Qur'an the subject, and the path Islam. At-Tabari says whom it guides: it directs whoever follows it and acts by what is in it to the way of Allah, and he sums up that the Book sent down to Muhammad guides to Islam. As-Sa'di folds the guidance into the seeing: the people of knowledge also see, in its commands and prohibitions, that it guides to the path. Either way, the verse adds a second claim to the first: true as report, a road as command.",
+            "bn": "ওয়া-ইয়াহদী: আর তা পথ দেখায়। তাবারী, বাগাভী ও কুরতুবী এ ক্রিয়ার কর্তা ধরেন কুরআনকে, আর পথটি ইসলাম। কাকে পথ দেখায়, তাবারী তাও বলেন: যে এর অনুসরণ করে আর এতে যা আছে সে অনুযায়ী আমল করে, তাকে এটি আল্লাহর পথের দিশা দেয়। তাঁর সারকথা, মুহাম্মাদ ﷺ-এর উপর নাজিল হওয়া কিতাব ইসলামের দিকে পথ দেখায়। সা'দী এই পথ দেখানোকে দেখার মধ্যেই রাখেন। জ্ঞানীরা এর আদেশ-নিষেধেও দেখেন যে তা সরল পথে নিয়ে যায়। যেভাবেই পড়ি, আয়াত প্রথম দাবির সঙ্গে দ্বিতীয়টি যোগ করে: খবর হিসেবে সত্য, আদেশ হিসেবে পথ।"
+          },
+          {
+            "en": "The path belongs to al-'Aziz al-Hamid. At-Tabari: mighty in His vengeance on His enemies, praiseworthy among His creation for the favours He has placed with them. Ibn Kathir: the Mighty is the One whose majesty is beyond reach, who is neither overcome nor resisted but has subdued everything; the Praiseworthy is praised in all His words, deeds, law and decree. Al-Muyassar keeps nearly the same wording. Al-Qurtubi says what each name rules out: al-'Aziz shows He cannot be overcome, al-Hamid that no attribute of incapacity befits Him.",
+            "bn": "পথটি আল-আযীয আল-হামীদের। তাবারী বলেন: শত্রুদের থেকে প্রতিশোধ নেওয়ায় তিনি পরাক্রমশালী, আর সৃষ্টির কাছে প্রশংসিত, কারণ তাদের উপর ছড়িয়ে আছে তাঁর অনুগ্রহ ও নিয়ামত। ইবন কাসীর বলেন: আল-আযীয তিনি, যাঁর মহিমার নাগাল কেউ পায় না। কেউ তাঁকে পরাস্ত করতে পারে না, বাধা দিতেও পারে না, বরং সব কিছুই তাঁর অধীন। আল-হামীদ তিনি, যিনি তাঁর সব কথা, কাজ, শরীআত ও তাকদীরে প্রশংসিত। মুয়াসসারের ভাষাও প্রায় একই। কুরতুবী বলেন, প্রতিটি নাম কী নাকচ করে। আল-আযীয বোঝায় তাঁকে হারানো যায় না, আর আল-হামীদ বোঝায় অক্ষমতার কোনো গুণ তাঁর শানে মানায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Path Asks For",
+          "bn": "এ পথ যা চায়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then says what the guidance looks like in a life. The path the people of knowledge see commands every trait that purifies the soul, grows the reward and benefits the doer and others too: truthfulness, sincerity, kindness to parents, keeping the ties of kinship, and doing good to all creation. It forbids every ugly trait that soils the soul, wipes out reward and brings sin and burden: associating partners with Allah, fornication, usury, and wrongdoing against people's lives, property and honour.",
+            "bn": "জীবনে এই পথ দেখানো কেমন চেহারা নেয়, সা'দী তা বলেন। জ্ঞানীরা যে পথ দেখেন, তা এমন প্রতিটি গুণের আদেশ দেয় যা নফসকে পবিত্র করে, নেকি বাড়ায়, আর আমলকারী ও অন্যদের উপকারে আসে: সত্যবাদিতা, ইখলাস, মা-বাবার সঙ্গে সদ্ব্যবহার, আত্মীয়তার সম্পর্ক রক্ষা, আর সব সৃষ্টির প্রতি ইহসান। আবার এমন প্রতিটি মন্দ স্বভাব থেকে নিষেধ করে, যা নফসকে মলিন করে, নেকি নষ্ট করে, আর গুনাহ ও বোঝা চাপায়: শিরক, যিনা, সুদ, আর মানুষের জান, মাল ও সম্মানের উপর জুলুম।"
+          },
+          {
+            "en": "He closes with a word about knowledge itself. The verse is a merit and a distinction for the people of knowledge, and a mark by which they are known. The greater a servant's knowledge and acceptance of what the Messenger ﷺ brought, and the greater his grasp of the wisdom in its commands and prohibitions, the more he is among those whom Allah made a proof for that message, citing them against the stubborn deniers, as in this verse and others. On this account belonging is a matter of degree.",
+            "bn": "শেষে সা'দী জ্ঞান নিয়েই একটি কথা বলেন। এ আয়াত জ্ঞানের অধিকারীদের মর্যাদা ও শ্রেষ্ঠত্বের কথা, আর তাঁদের চেনার একটি আলামত। রাসূল ﷺ যা এনেছেন, তার খবরের ব্যাপারে কোনো বান্দার জ্ঞান ও বিশ্বাস যত বেশি হয়, তার আদেশ-নিষেধের হিকমত সে যত গভীরভাবে বোঝে, ততই সে তাঁদের দলে পড়ে, যাঁদের আল্লাহ সে বার্তার পক্ষে দলিল বানিয়েছেন। এ আয়াতে ও অন্য আয়াতে আল্লাহ জেদি অস্বীকারকারীদের বিরুদ্ধে তাঁদেরকেই প্রমাণ হিসেবে পেশ করেন। এ হিসাবে তাঁদের দলে পড়া মাত্রার ব্যাপার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Verse Draws Lines",
+          "bn": "আয়াতটি যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so the verse is read here in its placement. That placement sets the knowers beside the deniers: those of 34:5, who strive against the signs to frustrate them, and those of 34:7 and 34:8, who mock the messenger as a forger of lies or a madman. The verse describes what the text describes. It licenses nothing against any living person or community.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। তাই আয়াতটি এখানে পড়া হয়েছে তার অবস্থান দেখে। সে অবস্থান জ্ঞানীদের দাঁড় করায় অস্বীকারকারীদের পাশে। ৩৪:৫ আয়াতের সেই লোকেরা, যারা আয়াতকে ব্যর্থ করতে দৌড়ঝাঁপ করে। আর ৩৪:৭ ও ৩৪:৮ আয়াতের লোকেরা, যারা রাসূলকে ঠাট্টা করে বলে, সে হয় মিথ্যা বানায়, নয়তো পাগল। আয়াতটি বর্ণনা করে কেবল তা-ই, যা পাঠে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না।"
+          },
+          {
+            "en": "Nor is it a tool for sorting scholars today, for naming a circle 'those given knowledge' and dismissing another. The commentators could not agree on whom it first meant, and al-Qurtubi's preferred view opens it to every Muslim. As-Sa'di's measure turns inward: knowledge and acceptance of what the Messenger ﷺ brought, and grasp of the wisdom of its commands. The question the verse leaves the reader is not who else sees, but what I see when I read it, and whether I walk the path I see.",
+            "bn": "আজকের আলিমদের ভাগ করার হাতিয়ারও এ আয়াত নয়, যাতে এক দলকে 'জ্ঞানপ্রাপ্ত' বলে আরেক দলকে উড়িয়ে দেওয়া যায়। প্রথমে কাদের বোঝানো হয়েছিল, তাফসীরকারেরা নিজেরাই তাতে একমত হননি। আর কুরতুবী যে মতকে বেশি সঠিক বলেছেন, তা আয়াতটিকে প্রত্যেক মুসলিমের জন্য খুলে দেয়। সা'দীর মাপকাঠি ফেরে নিজের দিকে: রাসূল ﷺ যা এনেছেন তার জ্ঞান ও তাতে বিশ্বাস, আর তাঁর আদেশের হিকমত বোঝা। আয়াত পাঠকের সামনে যে প্রশ্ন রেখে যায়, তা অন্য কে দেখে তা নয়। প্রশ্ন হলো, পড়ার সময় আমি কী দেখি, আর যে পথ দেখি, তাতে হাঁটি কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "34:12": {
     "sections": [
       {
