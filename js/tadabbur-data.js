@@ -29505,6 +29505,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were measured and your way was eased before you could do anything for yourself; answer that with gratitude, not pride, and walk the way you have been shown.",
     "lessonBn": "নিজের জন্য কিছু করার আগেই আপনাকে মেপে গড়া হয়েছে, আপনার পথ সহজ করা হয়েছে। এর জবাব দিন অহংকারে নয়, শুকরিয়ায়, আর যে পথ দেখানো হয়েছে সে পথে চলুন।"
+  },
+  "82:2": {
+    "reflectionEn": "On a clear night the stars look like the most settled things I know. They hung over my grandparents, and I quietly assume they will hang over whoever comes after me. The surah takes that assumption away in three Arabic words: and when the stars scatter. The sky has split in the verse before; now what was set in it comes loose and falls, and its beauty goes with it. None of this is told to make me afraid of the stars. The sentence is heading somewhere: a soul will then know what it sent ahead and what it held back. If even the stars are not permanent, what am I building on that I have treated as if it were?",
+    "reflectionBn": "পরিষ্কার রাতে তারাগুলোকে মনে হয় আমার চেনা সবচেয়ে স্থির জিনিস। আমার দাদা-দাদির মাথার ওপরেও এরা ছিল। মনে মনে ধরে নিই, আমার পরে যারা আসবে তাদের মাথার ওপরেও থাকবে। সূরাটি আরবি তিনটি শব্দে এই ধারণা কেড়ে নেয়: আর যখন তারকারা ছড়িয়ে পড়বে। আগের আয়াতে আকাশ ফেটে গেছে। এবার তাতে যা বসানো ছিল তা খসে পড়ে, আর সঙ্গে চলে যায় তার সৌন্দর্যও। তারাদের নিয়ে আমাকে ভয় দেখানো এখানে উদ্দেশ্য নয়। বাক্যটা কোথাও পৌঁছাতে চায়: তখন প্রত্যেক প্রাণ জানবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে এসেছে। তারারাও যদি চিরস্থায়ী না হয়, তাহলে চিরস্থায়ী ভেবে আমি কিসের ওপর ঘর বাঁধছি?",
+    "pointsEn": [
+      "Which thing in my life do I treat as fixed, the way I treat the stars, though Allah could undo it in a moment?",
+      "The next time I look up at a night sky, can I let its beauty remind me that it is lent, and that its Owner will one day take it back?",
+      "If the scattering of the stars is only the setting for a sentence about my deeds, what have I sent ahead this week that I would want to find there?",
+      "What have I kept back, a good deed put off or a wrong not yet put right, because I assumed there would always be time?",
+      "Do I read verses about the end of the world as a spectacle, or do I let them turn me back to my own record?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জিনিসটাকে আমি তারাদের মতোই অটল ধরে নিয়েছি, অথচ আল্লাহ চাইলে মুহূর্তে তা ভেঙে দিতে পারেন?",
+      "এরপর রাতের আকাশের দিকে তাকালে আমি কি তার সৌন্দর্য দেখে মনে করতে পারব যে এটা ধার দেওয়া, আর এর মালিক একদিন তা ফিরিয়ে নেবেন?",
+      "তারাদের ঝরে পড়া যদি কেবল আমার আমল নিয়ে একটি বাক্যের পটভূমি হয়, তাহলে এ সপ্তাহে আমি কী আগে পাঠিয়েছি, যা সেদিন সামনে পেলে খুশি হব?",
+      "সময় তো সবসময় থাকবে, এই ভেবে আমি কী পেছনে ফেলে রেখেছি? কোনো নেক কাজ, যা পিছিয়ে দিয়েছি, নাকি কোনো অন্যায়, যা এখনো শোধরাইনি?",
+      "দুনিয়ার শেষ নিয়ে আয়াতগুলো কি আমি তামাশার মতো পড়ি, নাকি সেগুলোকে আমার নিজের আমলনামার দিকে ফিরিয়ে আনতে দিই?"
+    ],
+    "lessonEn": "The stars that seem fixed will one day fall and scatter; build on what lasts, and send ahead now the deeds you would want to find on that Day.",
+    "lessonBn": "যে তারাগুলোকে অটল মনে হয়, একদিন সেগুলোও ঝরে ছড়িয়ে পড়বে। তাই যা টিকে থাকে তার ওপর ভর করুন, আর সেদিন যে আমল সামনে পেতে চান তা এখনই আগে পাঠান।"
   }
 };
 

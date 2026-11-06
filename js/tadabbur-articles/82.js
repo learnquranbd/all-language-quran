@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "82:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, Second Scene",
+          "bn": "তিন শব্দ, দ্বিতীয় দৃশ্য"
+        },
+        "p": [
+          {
+            "en": "Wa-idha al-kawakibu ntatharat: and when the stars scatter. The verse is three Arabic words. Wa-idha, and when, joins it to the verse before; al-kawakib, the stars, is the subject; and intatharat is a single verb that carries the whole event. The verse has no object, no place and no time of its own. It borrows all three from its surroundings, which is how the opening of Surat al-Infitar works: four short clauses, each beginning with idha, stand one behind another before the sentence says where they lead.",
+            "bn": "ওয়া ইযাল কাওয়াকিবুন তাসারাত: আর যখন তারকারা ছড়িয়ে পড়বে। আয়াতটি আরবিতে মাত্র তিন শব্দের। ওয়া ইযা, অর্থাৎ আর যখন, একে আগের আয়াতের সঙ্গে জুড়ে দেয়। আল-কাওয়াকিব, তারকারা, বাক্যের কর্তা। আর ইনতাসারাত একটিমাত্র ক্রিয়া, পুরো ঘটনাটা এর ভেতরেই। আয়াতের নিজের কোনো কর্ম নেই, স্থান নেই, সময়ও নেই। তিনটিই সে নেয় আশপাশ থেকে। সূরা ইনফিতারের শুরুটা এভাবেই গড়া: ইযা দিয়ে শুরু হওয়া চারটি ছোট বাক্যাংশ একটার পেছনে আরেকটা দাঁড়িয়ে থাকে। তারপর বাক্যটি জানায়, এরা গিয়ে থামবে কোথায়।"
+          },
+          {
+            "en": "The order is plain to read. In 82:1 the sky breaks apart. In 82:2 the stars scatter. In 82:3 the seas are made to burst, and in 82:4 the graves are overturned. Only then, in 82:5, does the answer arrive: a soul will know what it has put forth and kept back. The Muyassar reads the five verses as one sentence and ends it there: at that time every soul will know all its deeds, those that came first and those that came after, and will be recompensed for them.",
+            "bn": "ক্রমটা সহজেই চোখে পড়ে। ৮২:১-এ আকাশ ফেটে যায়। ৮২:২-এ তারকারা ছড়িয়ে পড়ে। ৮২:৩-এ সমুদ্রগুলোকে উত্তাল করে ফাটিয়ে দেওয়া হয়, আর ৮২:৪-এ কবরগুলো উল্টে দেওয়া হয়। এরপর ৮২:৫-এ আসে জবাব: প্রত্যেক প্রাণ জানবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে এসেছে। মুয়াসসার পাঁচটি আয়াতকে একটিমাত্র বাক্য হিসেবে পড়ে, আর সেখানেই শেষ করে। তখন প্রত্যেক প্রাণ তার সব আমল জেনে যাবে, যা আগে করেছে আর যা পরে করেছে, এবং সেগুলোর প্রতিদান পাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Root N-TH-R Holds",
+          "bn": "ন-স-র ধাতুর ভেতরে যা আছে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi is the one commentator here who stops on the word itself. He gives the root in use: nathartu ash-shay'a anthuruhu nathran fa-ntathara, I scattered the thing, scattering it, and it scattered. The example shows the pattern. Nathara is what is done to a thing; intathara is what the thing then does. The verse uses the second form, so it shows the stars in the act of coming apart, while the One who scatters them is not named in the verse.",
+            "bn": "এখানকার মুফাসসিরদের মধ্যে একমাত্র কুরতুবী শব্দটির কাছে থেমে দাঁড়ান। তিনি ধাতুটির ব্যবহার দেখান: নাসারতুশ শাইআ আনসুরুহু নাসরান ফানতাসারা। মানে, আমি জিনিসটা ছড়িয়ে দিলাম, আর তা ছড়িয়ে পড়ল। উদাহরণেই রূপটা বোঝা যায়। নাসারা হলো কোনো কিছুর ওপর করা কাজ। ইনতাসারা হলো এরপর সেই জিনিসটার নিজের অবস্থা। আয়াতে দ্বিতীয় রূপটি এসেছে। তাই আয়াত তারকাদের দেখায় খুলে খুলে ছড়িয়ে পড়ার মুহূর্তে। যিনি এদের ছড়িয়ে দেন, তাঁর নাম আয়াতে নেওয়া হয়নি।"
+          },
+          {
+            "en": "He then lists the nouns the root gives. The noun of the act is nithar. With a damma on the first letter, nuthar is whatever has scattered off a thing, the bits strewn about. And he closes with a phrase from ordinary speech, durrun munaththar, pearls strewn about, noting that the verb is doubled there to show how many are scattered. The note is about language; al-Qurtubi does not liken the stars to pearls. But his one example shows the kind of thing the word is used for in plain speech: many small pieces, strewn where they were not before.",
+            "bn": "এরপর তিনি এই ধাতু থেকে আসা বিশেষ্যগুলো গোনেন। কাজটির নাম নিসার। প্রথম অক্ষরে পেশ দিয়ে নুসার মানে কোনো কিছু থেকে যা ছিটকে ছড়িয়ে পড়েছে, এদিক-ওদিক পড়ে থাকা টুকরো। শেষে তিনি আনেন রোজকার কথার একটি শব্দবন্ধ: দুররুন মুনাসসার, ছড়ানো মুক্তা। সেখানে ক্রিয়াটি দ্বিগুণ করা হয়েছে সংখ্যার আধিক্য বোঝাতে, এ কথাও তিনি বলেন। টীকাটি ভাষা নিয়ে। কুরতুবী তারকাদের মুক্তার সঙ্গে তুলনা করেননি। তবে তাঁর একমাত্র উদাহরণ থেকেই বোঝা যায়, সাধারণ কথায় শব্দটি কিসের বেলায় বসে: অনেকগুলো ছোট টুকরো, যেগুলো এমন জায়গায় ছড়িয়ে পড়েছে যেখানে আগে ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word for Falling",
+          "bn": "পতনের জন্য একটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "For most of the commentators fetched here, the meaning is short. Ibn Kathir writes ay tasaqatat, that is, they fell, and the abridged English of his tafsir gives meaning, fallen. Al-Baghawi quotes the verse and adds the same single word. Al-Qurtubi opens with it before turning to the root. The Muyassar, reading 82:1 to 82:5 together, says wa-idha al-kawakibu tasaqatat, and when the stars fell. None of them pauses to describe how the falling looks, and none adds a report from the early generations on this verse.",
+            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, তার বেশিরভাগে অর্থটা খুব সংক্ষিপ্ত। ইবন কাসীর লেখেন: আই তাসাকাতাত, অর্থাৎ ঝরে পড়ল। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও আছে: অর্থাৎ পতিত হলো। বাগাভী আয়াতটি উদ্ধৃত করে ঠিক এই একটি শব্দই যোগ করেন। কুরতুবীও এ শব্দ দিয়ে শুরু করে তারপর ধাতুর আলোচনায় যান। মুয়াসসার ৮২:১ থেকে ৮২:৫ একসঙ্গে পড়ে বলে: আর যখন তারকারা ঝরে পড়বে। পতনটা দেখতে কেমন, তা বর্ণনা করতে কেউ থামেননি। এ আয়াতে পূর্বসূরিদের কোনো বর্ণনাও কেউ আনেননি।"
+          },
+          {
+            "en": "That restraint stands out beside the next verse. On 82:3 the same commentators bring several voices, Ibn Abbas, al-Hasan, Qatada and others, on how the seas are made to burst. On 82:2 they bring none. Whatever the reason, the reader is left with a plain gloss and no more, and this article keeps to it. It makes no claim about the stars beyond what these texts say: that they will fall, and, in two of them, that they will scatter.",
+            "bn": "পরের আয়াতের পাশে রাখলে এই সংযম চোখে পড়ে। ৮২:৩-এ সমুদ্র কীভাবে ফাটানো হবে, সে বিষয়ে এই মুফাসসিররাই কয়েকজনের কথা আনেন: ইবন আব্বাস (রাঃ), হাসান, কাতাদা এবং আরও কেউ কেউ। ৮২:২-এ কারও কথা আনেন না। কারণ যা-ই হোক, পাঠকের হাতে থাকে একটি সাদামাটা ব্যাখ্যা, এর বেশি কিছু নয়। এই লেখাও সেখানেই থাকবে। তারকাদের ব্যাপারে এই তাফসীরগুলো যা বলে, তার বাইরে কোনো দাবি এখানে নেই: তারা ঝরে পড়বে, আর দুটি তাফসীরের ভাষায়, ছড়িয়েও পড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loosed From Their Sky",
+          "bn": "নিজের আকাশ থেকে খসে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the first two verses as one picture and paraphrases them in one breath: when the sky splits, that is, is cleft, and when its stars scatter from it and so fall. Two small changes in his paraphrase carry his reading. Where the verse says al-kawakib, the stars, he says kawakibuha, its stars, tying them to the sky of 82:1. And where the verse has one verb, he gives two, in order: intatharat minha, they scattered from it, fa-tasaqatat, and so they fell.",
+            "bn": "তাবারী প্রথম দুটি আয়াতকে একটি ছবি হিসেবে পড়েন, ব্যাখ্যাও দেন এক নিঃশ্বাসে: যখন আকাশ ফেটে যাবে, মানে চিরে যাবে, আর যখন তার তারকারা তা থেকে ছড়িয়ে পড়ে ঝরে যাবে। তাঁর এই ব্যাখ্যায় দুটি ছোট পরিবর্তনেই তাঁর পাঠটা ধরা আছে। আয়াতে আছে আল-কাওয়াকিব, তারকারা। তিনি বলেন কাওয়াকিবুহা, তার তারকারা। এতে তারকারা বাঁধা পড়ে ৮২:১-এর আকাশের সঙ্গে। আর আয়াতে যেখানে একটি ক্রিয়া, তিনি সেখানে দেন দুটি, পরপর: ইনতাসারাত মিনহা, তা থেকে ছড়িয়ে পড়ল, ফা-তাসাকাতাত, ফলে ঝরে গেল।"
+          },
+          {
+            "en": "So in at-Tabari the stars do not simply drop. They first come loose from the sky that held them, and then they fall. The particle fa, and so, puts the falling after the scattering and makes it the result. The shorter glosses give only the fall; at-Tabari keeps the verse's own verb and adds the fall to it. The two are not in conflict. One names where the movement ends; the other names where it begins and where it ends.",
+            "bn": "তাহলে তাবারীর পাঠে তারকারা হঠাৎ খসে পড়ে না। আগে যে আকাশ তাদের ধরে রেখেছিল, সেখান থেকে আলগা হয়, তারপর পড়ে যায়। ফা অব্যয়টি, যার অর্থ ফলে, পতনকে ছড়িয়ে পড়ার পরে বসায় এবং তার পরিণতি বানায়। ছোট ব্যাখ্যাগুলো কেবল পতনের কথা বলে। তাবারী আয়াতের নিজের ক্রিয়াটি রেখে তার সঙ্গে পতন যোগ করেন। দুই ব্যাখ্যায় কোনো বিরোধ নেই। একটি বলে চলাটা কোথায় গিয়ে শেষ হয়। অন্যটি বলে কোথায় শুরু, আর কোথায় শেষ।"
+          },
+          {
+            "en": "As-Sa'di also ties the stars to the sky, and adds something no one else here does. In his running commentary on the opening of the surah, the sky splits and breaks apart, wa-ntatharat nujumuha, wa-zala jamaluha: its stars scattered, and its beauty departed. For him the scattering is also a loss of beauty. He uses nujum for the stars where the verse has kawakib; none of the commentators fetched here explains a difference between the two words, so this article draws none.",
+            "bn": "সা'দীও তারকাদের আকাশের সঙ্গে জুড়ে দেন, আর এমন একটি কথা যোগ করেন যা এখানে আর কেউ বলেননি। সূরার শুরু নিয়ে তাঁর টানা ব্যাখ্যায় আকাশ ফেটে চিরে যায়, ওয়ানতাসারাত নুজূমুহা, ওয়া যালা জামালুহা: তার তারকারা ছড়িয়ে পড়ল, আর তার সৌন্দর্য চলে গেল। তাঁর কাছে এই ছড়িয়ে পড়া মানে সৌন্দর্য হারানোও। আয়াতে যেখানে কাওয়াকিব, তিনি সেখানে তারকা বোঝাতে লেখেন নুজূম। এখানে দেখা কোনো মুফাসসির এই দুই শব্দের পার্থক্য ব্যাখ্যা করেননি। তাই এ লেখাও কোনো পার্থক্য টানছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Order Gives Way",
+          "bn": "যখন শৃঙ্খলা ভেঙে পড়ে"
+        },
+        "p": [
+          {
+            "en": "The falling of the stars is read against the verse before it. Al-Qurtubi says the sky splits by Allah's command for the angels to descend, and cites 25:25, the day the sky is split open with clouds and the angels are sent down. He adds a second view, introduced with qila, it is said: that it splits in awe of Allah. Ibn Kathir sets 82:1 beside 73:18, the sky broken apart by it. Neither of them mentions the stars at that point; at-Tabari's its stars is what joins the two verses.",
+            "bn": "তারকাদের ঝরে পড়া পড়তে হয় আগের আয়াতের আলোয়। কুরতুবী বলেন, আকাশ ফাটবে আল্লাহর হুকুমে, ফেরেশতাদের নেমে আসার জন্য। প্রমাণ হিসেবে আনেন ২৫:২৫, যেদিন মেঘমালাসহ আকাশ বিদীর্ণ হবে আর ফেরেশতাদের নামিয়ে দেওয়া হবে। এরপর কীলা, বলা হয়, দিয়ে আরেকটি মত আনেন: আল্লাহর ভয়ে আকাশ ফেটে যাবে। ইবন কাসীর ৮২:১-এর পাশে রাখেন ৭৩:১৮, যেখানে বলা হয়েছে, এর কারণে আকাশ ফেটে যাবে। ওখানে তাঁরা কেউ তারকাদের কথা তোলেননি। দুই আয়াতকে জোড়া লাগায় তাবারীর ওই শব্দ, তার তারকারা।"
+          },
+          {
+            "en": "The Muyassar puts a phrase into its account of 82:1 that bears directly on 82:2: the sky splits, wa-khtalla nizamuha, and its order falls into disarray. Read with that phrase, the falling stars are what a broken order looks like. The sky that people know for its steadiness loses the very order that made it seem permanent. The verse does not explain how this happens, and the commentators do not either. They report the event and its place in the sequence, and stop there.",
+            "bn": "মুয়াসসার ৮২:১-এর ব্যাখ্যায় এমন একটি কথা রাখে যা সরাসরি ৮২:২-কে ছুঁয়ে যায়: আকাশ ফেটে যাবে, ওয়াখতাল্লা নিযামুহা, আর তার শৃঙ্খলা এলোমেলো হয়ে যাবে। এই কথাটি মাথায় রেখে পড়লে ঝরে পড়া তারকাগুলোই ভেঙে যাওয়া শৃঙ্খলার চেহারা। যে আকাশকে মানুষ চেনে তার স্থিরতা দিয়ে, সে হারায় সেই শৃঙ্খলাই, যার জন্য তাকে চিরস্থায়ী মনে হতো। এটা কীভাবে ঘটবে, আয়াত তা ব্যাখ্যা করে না, মুফাসসিররাও করেন না। তাঁরা ঘটনাটা আর ধারাবাহিকতায় তার জায়গাটুকু জানান, তারপর থামেন।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note on timing in his comment on 82:3: hadhihi al-ashya'u bayna yaday as-sa'a, these things are before the Hour, referring the reader back to what he wrote on 81:1. Bayna yaday, literally between the hands of, is the Arabic way of saying directly ahead of something. So in his reading the scattering of the stars belongs among the events that come before the Hour, not to some separate story about the heavens.",
+            "bn": "৮২:৩-এর ব্যাখ্যায় কুরতুবী সময় নিয়ে একটি কথা যোগ করেন: হাযিহিল আশইয়াউ বাইনা ইয়াদাইস সাআহ, এ সবই কিয়ামতের আগে ঘটবে। সঙ্গে পাঠককে ফিরিয়ে দেন ৮১:১-এ তাঁর লেখা আলোচনার দিকে। বাইনা ইয়াদাই, শব্দে শব্দে দুই হাতের মাঝে, আরবিতে বোঝায় কোনো কিছুর ঠিক সামনে যা আছে। তাই তাঁর পাঠে তারকাদের ছড়িয়ে পড়া কিয়ামতের আগের ঘটনাগুলোরই একটি। আকাশ নিয়ে আলাদা কোনো কাহিনি এটা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Answer the Clauses Await",
+          "bn": "বাক্যটি যেখানে গিয়ে থামে"
+        },
+        "p": [
+          {
+            "en": "An Arabic conditional is not complete until its answer comes, and Surat al-Infitar keeps the reader waiting through four conditions. Ibn Kathir names the link plainly at 82:5: meaning, when this happens, then this will occur. The scattering of the stars is therefore not told for its own sake. It is one of the things that must happen before a soul knows what it sent forward and what it kept back, and the verse is shaped to hand the reader on to that knowledge.",
+            "bn": "আরবিতে শর্তবাক্য জবাব না আসা পর্যন্ত পূর্ণ হয় না। সূরা ইনফিতার পাঠককে চারটি শর্ত পার করিয়ে তবে জবাবে পৌঁছায়। ৮২:৫-এ ইবন কাসীর সংযোগটা সোজাসুজি বলে দেন: অর্থাৎ যখন এটা ঘটবে, তখন ওটা হবে। কাজেই তারকাদের ছড়িয়ে পড়ার কথা নিজের জন্য বলা হয়নি। প্রত্যেক প্রাণ নিজের আগে পাঠানো আর পেছনে রেখে আসা আমল জানার আগে যা যা ঘটবে, এটা তার একটি। আয়াতটির গড়নই এমন যে পাঠককে সে ওই জানার দিকে এগিয়ে দেয়।"
+          },
+          {
+            "en": "That is also why the surah spends so few words on each scene. Three words for the sky, three for the stars, three for the seas, three for the graves: the clauses are of equal length, and none is allowed to grow into a description of its own. Each is a step toward 82:5. A reader who stops at the picture of falling stars has stopped short of where the surah is going. Ibn Kathir's pairing of this verse with 77:8 is taken up in the article on that verse.",
+            "bn": "এ কারণেই প্রতিটি দৃশ্যে সূরাটি এত কম শব্দ খরচ করে। আকাশের জন্য তিনটি শব্দ, তারকাদের জন্য তিন, সমুদ্রের জন্য তিন, কবরের জন্যও তিন। বাক্যাংশগুলো সমান মাপের, কোনোটিকে আলাদা বর্ণনায় ফুলে উঠতে দেওয়া হয়নি। প্রত্যেকটি ৮২:৫-এর দিকে এক কদম। যে পাঠক ঝরে পড়া তারকার ছবিতে এসে থেমে যান, সূরা যেখানে যাচ্ছে, সেখানে পৌঁছানোর আগেই তিনি থেমে গেছেন। ৭৭:৮-এর পাশে ইবন কাসীর এ আয়াতকে যেভাবে রেখেছেন, সে আলোচনা আছে ওই আয়াতের লেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Light for the Congregation",
+          "bn": "জামাআতের জন্য হালকা রাখা"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched here attaches a hadith to 82:2 itself. What Ibn Kathir does bring, at the head of the surah, is a narration about the surah as a whole, not tied to this verse. Sunan an-Nasa'i records it as number 997, from Jabir: Muadh stood up and prayed Isha', and made it lengthy. The Prophet ﷺ said: Do you want to cause hardship to the people, O Mu'adh; do you want to cause hardship to the people O Mu'adh? Why didn't you recite Glorify the Name of your Lord Most High or ad-Duha or When the heaven is cleft asunder?",
+            "bn": "এখানে দেখা কোনো মুফাসসির ৮২:২ আয়াতের সঙ্গে কোনো হাদীস জোড়েননি। ইবন কাসীর সূরার শুরুতে যা আনেন, তা পুরো সূরা নিয়ে একটি বর্ণনা, এই আয়াতের সঙ্গে বাঁধা নয়। সুনান নাসাঈ ৯৯৭ নম্বরে জাবির (রাঃ) থেকে এটি বর্ণনা করেছে: মুআয (রাঃ) দাঁড়িয়ে এশার নামায পড়লেন এবং তা দীর্ঘ করলেন। নবী ﷺ বললেন: হে মুআয, তুমি কি লোকদের কষ্টে ফেলতে চাও? হে মুআয, তুমি কি লোকদের কষ্টে ফেলতে চাও? সাব্বিহিসমা রাব্বিকাল আ'লা, কিংবা আদ-দুহা, কিংবা ইযাস সামাউন ফাতারাত কেন পড়লে না?"
+          },
+          {
+            "en": "An-Nasa'i gives no grading of his own for it. Ibn Kathir adds that the basis of the hadith is in the two Sahihs, but that the mention of this surah is found only in an-Nasa'i. He also recalls a narration from Ibn Umar about reciting this surah together with at-Takwir and al-Inshiqaq, which at-Tirmidhi records and grades hasan gharib; it is only mentioned here, and is discussed in the article on 81:1.",
+            "bn": "নাসাঈ নিজে এর কোনো মান উল্লেখ করেননি। ইবন কাসীর যোগ করেন, হাদীসটির মূল দুই সহীহ গ্রন্থে, অর্থাৎ বুখারী ও মুসলিমে আছে, তবে এই সূরার উল্লেখ কেবল নাসাঈর বর্ণনায়। তিনি ইবন উমর (রাঃ) থেকে আরেকটি বর্ণনার কথাও মনে করিয়ে দেন, যার বিষয় তাকভীর ও ইনশিকাকের সঙ্গে এই সূরা পাঠ করা। তিরমিযী সেটি বর্ণনা করে মান দিয়েছেন হাসান গরীব। এখানে শুধু তার উল্লেখ রইল। আলোচনা আছে ৮১:১ আয়াতের লেখায়।"
+          },
+          {
+            "en": "What the narration in an-Nasa'i shows is modest and practical. The surah is named as a recitation fit for a congregation, short enough not to weigh on people at the night prayer. So the falling of the stars was meant to be heard by ordinary worshippers at the end of an ordinary day, in a prayer kept light for their sake. Its warning is not reserved for people with long hours to spare; it reaches the tired worker standing in the back row.",
+            "bn": "নাসাঈর বর্ণনা থেকে যা বোঝা যায় তা সাদামাটা আর কাজের কথা। জামাআতে পড়ার উপযোগী তিলাওয়াত হিসেবে সূরাটির নাম এসেছে। রাতের নামাযে লোকদের ওপর বোঝা না হয়, এমনই ছোট। অর্থাৎ তারকাদের ঝরে পড়ার কথা শোনার কথা ছিল সাধারণ মুসল্লিদের, সাধারণ এক দিনের শেষে, তাদের খাতিরে হালকা রাখা এক নামাযে। এর সতর্কবাণী কেবল হাতে অঢেল সময় থাকা লোকদের জন্য তোলা নেই। পেছনের কাতারে দাঁড়ানো ক্লান্ত মানুষটির কাছেও তা পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Adornment Held on Loan",
+          "bn": "ধার করা সাজ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's phrase, its beauty departed, can be set beside 37:6, where Allah says: Indeed, We have adorned the nearest heaven with an adornment of stars, bi-zinatin al-kawakib. The word for stars there is the same as in 82:2. As-Sa'di does not cite that verse here; the pairing is this article's, not his. But it makes the point plainly. The stars were given to the sky as its adornment, and He who set them there will at last loose them, and the adornment will go.",
+            "bn": "সা'দীর কথাটি, তার সৌন্দর্য চলে গেল, রাখা যায় ৩৭:৬-এর পাশে। সেখানে আল্লাহ বলেন: আমি নিকটবর্তী আসমানকে তারকারাজির সৌন্দর্য দিয়ে সাজিয়েছি, বিযীনাতিনিল কাওয়াকিব। ওখানে তারকার জন্য যে শব্দ, ৮২:২-এও সেই শব্দ। সা'দী এখানে ওই আয়াত উল্লেখ করেননি। জোড়াটা এই লেখার, তাঁর নয়। তবু কথাটা এতে পরিষ্কার হয়। তারকাদের আকাশকে দেওয়া হয়েছিল তার সাজ হিসেবে। যিনি এদের সেখানে বসিয়েছেন, একদিন তিনিই এদের খুলে দেবেন, আর সাজটাও চলে যাবে।"
+          },
+          {
+            "en": "That is a sobering thought about things that look permanent. The night sky is the picture people reach for when they want to say that something will always be there. The surah uses it the other way. If what hangs above every generation alike can fall and scatter, then nothing a person leans on is exempt: health, wealth, family, standing, or the quiet sense that there is always more time. None of these is bad. Each is held in place, like the stars, for as long as its Lord wills.",
+            "bn": "যা কিছু চিরস্থায়ী দেখায়, তাদের নিয়ে এ এক গম্ভীর ভাবনা। কোনো কিছু সবসময় থাকবে বোঝাতে মানুষ রাতের আকাশের উপমা টানে। সূরাটি উপমাটা ব্যবহার করে উল্টো দিকে। প্রতিটি প্রজন্মের মাথার ওপর যা একইভাবে ঝুলে আছে, তা-ও যদি ঝরে ছড়িয়ে পড়তে পারে, তাহলে মানুষ যার ওপর ভর দেয় তার কোনোটিই এর বাইরে নয়। স্বাস্থ্য, সম্পদ, পরিবার, মর্যাদা, কিংবা মনের ভেতরের সেই চুপচাপ ধারণা যে সময় তো আরও আছে। এগুলোর কোনোটিই মন্দ নয়। তারকাদের মতো প্রত্যেকটিই টিকে আছে ততদিন, যতদিন তার রব চান।"
+          },
+          {
+            "en": "The verse then hands the reader on to 82:5. The fitting response to falling stars is not fear of the sky but attention to the reader's own record: what has been sent forward, and what has been kept back. While the stars still hold their places, a person can still add to the first and put right the second. The surah describes the scattering in advance so that, when it comes, the reader will already have done both. The time to do it is the time in which the verse is being read.",
+            "bn": "এরপর আয়াতটি পাঠককে তুলে দেয় ৮২:৫-এর হাতে। ঝরে পড়া তারকার কথা শুনে আকাশকে ভয় পাওয়া আসল জবাব নয়। আসল জবাব নিজের আমলনামার দিকে নজর দেওয়া: কী আগে পাঠানো হয়েছে, আর কী পেছনে রেখে আসা হয়েছে। তারকারা যতক্ষণ নিজের জায়গায় আছে, ততক্ষণ মানুষ প্রথমটিতে আরও যোগ করতে পারে, দ্বিতীয়টি শুধরে নিতে পারে। সূরাটি ছড়িয়ে পড়ার দৃশ্য আগেভাগে শোনায়, যেন তা যখন আসবে, পাঠক ততদিনে দুটোই সেরে রাখেন। সেই কাজের সময় এখনই, যখন আয়াতটি পড়া হচ্ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "82:6": {
     "sections": [
       {
