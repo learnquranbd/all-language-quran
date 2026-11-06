@@ -24589,6 +24589,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What you let pass through your heart again and again becomes its grain. Guard what you take in, and let the truth catch before refusal hardens into a trait.",
     "lessonBn": "যা আপনি বারবার অন্তরের ভেতর দিয়ে যেতে দেন, তা-ই একসময় অন্তরের স্বভাব হয়ে যায়। কী গ্রহণ করছেন সে ব্যাপারে সতর্ক থাকুন, আর অস্বীকার স্বভাবে পরিণত হওয়ার আগেই সত্যকে ভেতরে আটকাতে দিন।"
+  },
+  "27:45": {
+    "reflectionEn": "One brother, one sentence: worship Allah. No army, no new law, only that call. And at once the people who heard it were two camps, quarrelling. One said he was sent; the other said he was not. Each was sure the truth was on its side. The message did not make the split. It showed a line that had been there all along, between those willing to answer and those set against it. The quarrel could be loud and long, and it still settled nothing. What settled everything was where each person stood when it ended. So the question is not who argued better. When a clear call to Allah reaches me, which way do I lean, and do I act on it?",
+    "reflectionBn": "একজন ভাই, একটিমাত্র কথা: আল্লাহর ইবাদত কর। কোনো সৈন্যদল নেই, নতুন কোনো আইন নেই, শুধু এই ডাক। আর সঙ্গে সঙ্গে যারা শুনল তারা দুই দলে ভাগ হয়ে ঝগড়ায় নামল। একদল বলল, তিনি প্রেরিত। অন্যদল বলল, না। দুই দলই নিশ্চিত, সত্য তাদের পক্ষে। ভাগটা দাওয়াত তৈরি করেনি। আগে থেকেই যে রেখা ছিল, দাওয়াত শুধু তা সামনে এনেছে: একদিকে যারা সাড়া দিতে রাজি, অন্যদিকে যারা তার বিরুদ্ধে দাঁড়িয়ে। ঝগড়া যত জোরেই হোক, যত লম্বাই হোক, তাতে কিছুই মীমাংসা হয়নি। মীমাংসা হয়েছে শেষে কে কোথায় দাঁড়িয়ে ছিল, তা দিয়ে। তাই প্রশ্নটা এই নয় যে কে ভালো তর্ক করল। আল্লাহর দিকে স্পষ্ট ডাক যখন আমার কাছে আসে, আমি কোন দিকে ঝুঁকি, আর সে অনুযায়ী কি কাজ করি?",
+    "pointsEn": [
+      "When a reminder about Allah reaches me, is my first move to answer it or to argue about the one who brought it?",
+      "Have I ever felt certain I was in the right camp only because my camp was large or loud?",
+      "Which of Allah's commands do I still debate in my head instead of simply doing?",
+      "In a dispute about faith, do I come out of it more obedient, or only more convinced that I won?",
+      "Salih's next words were a call to seek forgiveness, not a closing argument. What would that look like in my own disagreements?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কথা মনে করিয়ে দেওয়া কোনো ডাক যখন আমার কাছে আসে, আমার প্রথম কাজ কি সাড়া দেওয়া, নাকি যে এনেছে তাকে নিয়ে তর্ক জুড়ে দেওয়া?",
+      "নিজের দল বড় বা সরব বলেই কি কখনো নিশ্চিত হয়েছি যে আমি ঠিক দলে আছি?",
+      "আল্লাহর কোন আদেশ নিয়ে আমি এখনো মনে মনে বিতর্ক চালাই, অথচ সোজা পালন করে ফেলা যেত?",
+      "দ্বীন নিয়ে কোনো বিতর্ক থেকে আমি কি আরও অনুগত হয়ে বের হই, নাকি শুধু এটুকু বিশ্বাস নিয়ে যে আমি জিতেছি?",
+      "সালিহ (আঃ)-এর পরের কথা ছিল ইস্তিগফারের ডাক, তর্কের শেষ যুক্তি নয়। আমার নিজের মতভেদে এর চেহারা কেমন হবে?"
+    ],
+    "lessonEn": "A clear call to Allah divides hearers by their response, not by their arguments; make sure your answer to it is obedience, not only a side in the quarrel.",
+    "lessonBn": "আল্লাহর দিকে স্পষ্ট ডাক শ্রোতাদের ভাগ করে তাদের সাড়া দিয়ে, তর্ক দিয়ে নয়; খেয়াল রাখুন, আপনার জবাব যেন হয় আনুগত্য, শুধু ঝগড়ার এক পক্ষ নয়।"
   }
 };
 

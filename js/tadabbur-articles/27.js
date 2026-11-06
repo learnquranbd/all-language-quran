@@ -1139,6 +1139,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Queen, Thamud",
+          "bn": "রানির পরে সামূদ"
+        },
+        "p": [
+          {
+            "en": "The verse before closes a long story with a ruler's surrender. The queen of Saba, having seen the throne and the glass floor, says in 27:44: my Lord, I have wronged myself, and I submit with Sulaiman to Allah, Lord of the worlds. Then, with wa-laqad arsalna, and We had certainly sent, the surah opens a new account. The scene moves from a palace to a whole people, and from one woman weighing signs to a tribe hearing a single command from one of its own.",
+            "bn": "আগের আয়াতটি এক দীর্ঘ কাহিনি শেষ করে এক শাসকের আত্মসমর্পণ দিয়ে। সিংহাসন আর কাঁচের মেঝে দেখার পর সাবার রানি ২৭:৪৪ আয়াতে বলেন: হে আমার রব, আমি নিজের উপর যুলম করেছি, আর আমি সুলাইমানের সঙ্গে বিশ্বজগতের রব আল্লাহর কাছে আত্মসমর্পণ করলাম। এরপর ওয়া লাকাদ আরসালনা, আর নিশ্চয়ই আমি পাঠিয়েছিলাম, এই কথায় সূরা নতুন বিবরণ শুরু করে। দৃশ্য সরে যায় প্রাসাদ থেকে গোটা এক জাতির কাছে। একজন নারী নিদর্শন যাচাই করছিলেন, এবার একটি গোত্র নিজেদেরই একজনের মুখে একটিমাত্র আদেশ শুনছে।"
+          },
+          {
+            "en": "Thirteen Arabic words carry the whole opening: who was sent, to whom, with what, and what happened next. The surah does not stop to describe Thamud's land or wealth here. It names the people, names the messenger as their brother, gives his message in one short clause, an u'budu Allah, worship Allah, and then reports the result. The story of the she-camel, told in ash-Shu'ara' and elsewhere, is not retold in this passage; an-Naml goes straight from the call to the split that followed it.",
+            "bn": "পুরো সূচনাটা তেরোটি আরবি শব্দে: কে প্রেরিত, কার কাছে, কী নিয়ে, আর তারপর কী ঘটল। সামূদের দেশ বা সম্পদের বর্ণনায় সূরা এখানে থামে না। জাতির নাম বলে, রাসূলকে তাদের ভাই বলে পরিচয় দেয়, তাঁর বার্তা একটি ছোট বাক্যাংশে জানায়: আনি'বুদুল্লাহ, আল্লাহর ইবাদত কর। তারপর ফলাফল জানিয়ে দেয়। উটনীর কাহিনি সূরা শুআরা ও অন্যান্য জায়গায় এসেছে, এই অংশে তা আর বলা হয়নি। সূরা নামল ডাক থেকে সোজা চলে যায় সেই ভাঙনে, যা ডাকের পরপরই দেখা দিল।"
+          },
+          {
+            "en": "The two stories sit side by side without comment, and the contrast lies in the surah's own arrangement. The queen came from a court that bowed to the sun, as 27:24 reports; she received a letter, sent a gift, travelled, and ended by submitting with Sulaiman. Thamud were addressed by a man of their own blood, in their own land, with a single plain command, and the first thing reported of them is that they split. Nearness to a messenger did not settle the matter. What each listener did with the call settled it.",
+            "bn": "দুটি কাহিনি পাশাপাশি বসানো, কোনো মন্তব্য ছাড়াই। বৈপরীত্যটা সূরার নিজের বিন্যাসে। রানি এসেছিলেন এমন এক দরবার থেকে, যেখানে সূর্যকে সিজদা করা হতো, ২৭:২৪ আয়াত যেমন জানায়। তিনি চিঠি পেলেন, উপহার পাঠালেন, সফর করলেন, আর শেষে সুলাইমানের সঙ্গে আত্মসমর্পণ করলেন। আর সামূদকে ডাকলেন তাদেরই রক্তের একজন, তাদেরই দেশে, একটিমাত্র সহজ আদেশ দিয়ে। অথচ তাদের সম্পর্কে প্রথম যে খবর আসে, তা হলো তারা ভাগ হয়ে গেল। রাসূলের কাছাকাছি থাকা বিষয়টার মীমাংসা করেনি। মীমাংসা করেছে, প্রত্যেক শ্রোতা ডাকটাকে নিয়ে কী করল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Alone, With No Partner",
+          "bn": "একক, কোনো শরিক ছাড়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the opening plainly. Allah sent to Thamud, the well-known tribe, their brother in lineage, Salih, and commanded them to worship Allah alone and to leave the rivals and idols they set beside Him. The word brother, then, ties Salih to them by descent; the message is what separated him from them. At-Tabari adds the same limit to the command: worship Allah alone, with no partner, and set up no other god with Him. It is the call Salih gives in fuller words in 7:73 and 11:61: worship Allah, you have no god other than Him.",
+            "bn": "সা'দী শুরুটা সহজভাবে পড়েন। আল্লাহ সুপরিচিত গোত্র সামূদের কাছে পাঠালেন বংশের দিক থেকে তাদের ভাই সালিহ (আঃ)-কে। তিনি আদেশ দিলেন, একমাত্র আল্লাহর ইবাদত কর, আর তাঁর সঙ্গে যেসব প্রতিদ্বন্দ্বী ও মূর্তি দাঁড় করিয়েছ, সেগুলো ছেড়ে দাও। ভাই শব্দটি তাই সালিহ (আঃ)-কে তাদের সঙ্গে বাঁধে রক্তের সম্পর্কে। তাদের থেকে আলাদা করেছে তাঁর বার্তা। তাবারীও আদেশের সঙ্গে একই সীমা জুড়ে দেন: একমাত্র আল্লাহর ইবাদত কর, তাঁর কোনো শরিক নেই, তাঁর সঙ্গে অন্য কোনো ইলাহ বানিও না। ৭:৭৩ ও ১১:৬১ আয়াতে সালিহ (আঃ) এই ডাকই দেন আরও পূর্ণ ভাষায়: আল্লাহর ইবাদত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই।"
+          },
+          {
+            "en": "The Muyassar puts the command in a single verb, wahhidu Allah, single out Allah, and frames what follows as a sequence: when Salih came to them calling to Allah's oneness and His sole worship, his people became two groups. At-Tabari uses the same frame, when Salih came to them calling them to Allah, his people became two parties over what he called them to. The verse's own wording is shorter: fa-idha hum fariqani, and at once they were two parties. No interval is described between the call and the division.",
+            "bn": "মুয়াসসার আদেশটাকে এক ক্রিয়ায় বলে: ওয়াহহিদুল্লাহ, আল্লাহকে একক বলে মান। তারপর ঘটনাকে সাজায় ধাপে ধাপে। সালিহ (আঃ) যখন আল্লাহর তাওহীদ ও একমাত্র তাঁরই ইবাদতের দিকে ডাকলেন, তাঁর জাতি দুই দলে ভাগ হয়ে গেল। তাবারীর কাঠামোও একই। সালিহ (আঃ) যখন তাদের আল্লাহর দিকে ডাকলেন, যে বিষয়ে ডাকলেন তা নিয়ে তাঁর জাতি দুই পক্ষ হয়ে গেল। আয়াতের নিজের ভাষা আরও ছোট: ফাইযা হুম ফারীকানি, আর সঙ্গে সঙ্গে তারা দুই দল। ডাক আর ভাঙনের মাঝে কোনো বিরতির কথা আয়াতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mujahid Names the Camps",
+          "bn": "মুজাহিদের মুখে দুই দলের নাম"
+        },
+        "p": [
+          {
+            "en": "Who were the two parties? The answer that runs through every commentary fetched here goes back to Mujahid: mu'min wa-kafir, a believer and a disbeliever. At-Tabari reports it from him by two routes, one through Ibn Abi Najih and one through Ibn Jurayj, with the same two words in each. Ibn Kathir and al-Qurtubi both quote it under Mujahid's name, and al-Baghawi gives the identical gloss, believer and disbeliever, as his own explanation without naming anyone.",
+            "bn": "দুই দল কারা? এখানে আনা প্রতিটি তাফসীরে যে উত্তর পাওয়া যায়, তার উৎস মুজাহিদ: মু'মিন ওয়া কাফির, একজন মুমিন আর একজন কাফির। তাবারী কথাটি তাঁর থেকে দুই সূত্রে বর্ণনা করেন, একটি ইবন আবী নাজীহের মাধ্যমে, অন্যটি ইবন জুরাইজের মাধ্যমে। দুই সূত্রেই একই দুই শব্দ। ইবন কাসীর ও কুরতুবী দুজনেই মুজাহিদের নামে এটি উদ্ধৃত করেন। বাগাভী কারও নাম না নিয়ে নিজের ব্যাখ্যা হিসেবে হুবহু একই কথা বলেন: মুমিন আর কাফির।"
+          },
+          {
+            "en": "At-Tabari's longer report from Mujahid gives the content of each side's position in a few words: their saying, Salih is sent, and their saying, Salih is not sent. At-Tabari's own paraphrase matches it. One party affirmed Salih and believed in him; the other called him a liar and disbelieved in what he brought. He adds that the people of interpretation said much the same, and Mujahid's chains then follow under the heading of those who said so, as support rather than as a rival view.",
+            "bn": "মুজাহিদ থেকে তাবারীর দীর্ঘ বর্ণনায় দুই পক্ষের অবস্থান কয়েক শব্দে ধরা আছে। একদলের কথা: সালিহ প্রেরিত। অন্যদলের কথা: সালিহ প্রেরিত নন। তাবারীর নিজের ব্যাখ্যাও তাই। একটি দল সালিহ (আঃ)-কে সত্য বলে মেনে তাঁর উপর ঈমান আনল। অন্যদল তাঁকে মিথ্যাবাদী বলল, তিনি যা এনেছেন তা অস্বীকার করল। তাবারী যোগ করেন, ব্যাখ্যাকারেরা প্রায় এমনই বলেছেন। তারপর 'যারা এমন বলেছেন' শিরোনামে মুজাহিদের সূত্রগুলো আসে, সমর্থন হিসেবে, ভিন্নমত হিসেবে নয়।"
+          },
+          {
+            "en": "As-Sa'di adds a detail about size that the others do not give: among them was the believer and among them the disbeliever, and the disbelievers were most of them. So two parties does not mean two equal halves. The Muyassar describes the same pair, one believing in Salih and the other rejecting his call, and then adds a clause that becomes important below: each of them claimed that the truth was with him.",
+            "bn": "সা'দী আকারের একটা তথ্য যোগ করেন, যা অন্যরা দেন না: তাদের মধ্যে মুমিন ছিল, কাফিরও ছিল, আর কাফিররাই ছিল সংখ্যায় বেশি। তাই দুই দল মানে সমান দুই ভাগ নয়। মুয়াসসারও একই জোড়ার কথা বলে। একদল সালিহ (আঃ)-এর উপর ঈমান আনল, অন্যদল তাঁর দাওয়াত প্রত্যাখ্যান করল। তারপর একটি কথা যোগ করে, যা সামনে গুরুত্বপূর্ণ হয়ে উঠবে: প্রত্যেকেই দাবি করত, সত্য তার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Quarrel on Record",
+          "bn": "ঝগড়ার লিখিত বিবরণ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports Mujahid going further: the dispute is what Allah narrates in al-A'raf, from do you know that Salih is sent from his Lord to disbelievers, that is 7:75 and 7:76. Ibn Kathir sets the same two verses beside 27:45 as a parallel. Those verses name the sides. The arrogant chiefs of his people speak to those counted weak, the ones who believed: do you know Salih is sent? The believers answer, we believe in what he was sent with. The arrogant reply, we disbelieve in what you believe.",
+            "bn": "কুরতুবী মুজাহিদের আরেকটু বিস্তারিত কথা আনেন: ঝগড়াটা সেটাই, যা আল্লাহ সূরা আ'রাফে বর্ণনা করেছেন, 'তোমরা কি জানো সালিহ তাঁর রবের প্রেরিত' থেকে 'কাফির' পর্যন্ত, অর্থাৎ ৭:৭৫ ও ৭:৭৬। ইবন কাসীরও এই দুই আয়াতকে ২৭:৪৫ আয়াতের পাশে মিল হিসেবে রাখেন। সেখানে দুই পক্ষের নাম আছে। তাঁর জাতির অহংকারী সর্দাররা কথা বলে দুর্বল বলে গণ্য লোকদের সঙ্গে, যারা ঈমান এনেছিল: তোমরা কি জানো সালিহ প্রেরিত? মুমিনরা বলে, তিনি যা নিয়ে প্রেরিত, আমরা তাতে ঈমান রাখি। অহংকারীরা বলে, তোমরা যাতে ঈমান এনেছ, আমরা তা অস্বীকার করি।"
+          },
+          {
+            "en": "Al-Baghawi cites Muqatil for the same identification with a longer range: their disputing is what is mentioned in al-A'raf, from 7:75 up to O Salih, bring us what you promise us, if you are of the messengers, which is 7:77. On Mujahid's range the quarrel is between the two camps. On Muqatil's, it runs one verse further, to the point where the deniers stop answering the believers and turn to Salih himself with a challenge. The two do not conflict; one simply carries the scene further.",
+            "bn": "বাগাভী মুকাতিলের বরাতে একই কথা বলেন, তবে পরিসর আরেকটু বড়: তাদের ঝগড়া সূরা আ'রাফে যা এসেছে তা-ই, ৭:৭৫ থেকে 'হে সালিহ, তুমি আমাদের যার প্রতিশ্রুতি দিচ্ছ তা নিয়ে এসো, যদি তুমি রাসূলদের একজন হও' পর্যন্ত, অর্থাৎ ৭:৭৭। মুজাহিদের পরিসরে ঝগড়াটা দুই দলের মধ্যে। মুকাতিলের পরিসরে তা এক আয়াত সামনে গড়ায়। সেখানে অস্বীকারকারীরা মুমিনদের জবাব দেওয়া থামিয়ে সরাসরি সালিহ (আঃ)-কে চ্যালেঞ্জ করে। দুই বক্তব্যে কোনো বিরোধ নেই, একটি শুধু দৃশ্যটাকে আরেকটু এগিয়ে নেয়।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second description, introduced with wa-qila, and it was said: their disputing was that each faction said, we are on the truth and you are not. The Muyassar's closing clause says the same. This reading locates the quarrel less in one recorded exchange than in the rival claims themselves. Al-Qurtubi places it after Mujahid's without choosing between them, so both are given here as he gives them.",
+            "bn": "এরপর কুরতুবী 'ওয়া কীলা', বলা হয়েছে, দিয়ে দ্বিতীয় একটি বিবরণ আনেন: তাদের ঝগড়া ছিল এই যে প্রত্যেক দল বলত, সত্যের উপর আমরা, তোমরা নও। মুয়াসসারের শেষ কথাটিও তাই। এই ব্যাখ্যায় ঝগড়াটা কোনো একটি লিখিত কথোপকথনে যতটা, তার চেয়ে বেশি দুই পক্ষের পাল্টাপাল্টি দাবিতে। কুরতুবী এটিকে মুজাহিদের কথার পরে রাখেন, কোনোটিকে বেছে নেন না। তাই এখানে দুটিই রাখা হলো, যেভাবে তিনি রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Parties, Many Voices",
+          "bn": "দুই দল, অনেক কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "A small feature of the wording is worth seeing. Fariqani, two parties, is a dual noun, but the verb that follows, yakhtasimun, is plural rather than dual. The verse counts the camps as two and then describes the quarrelling as something many people were doing. None of the commentaries fetched for this verse remarks on the grammar, so it is offered only as what the text shows: the division was not a tidy debate between two spokesmen but a people arguing among themselves.",
+            "bn": "শব্দচয়নের একটি ছোট দিক খেয়াল করার মতো। ফারীকানি, দুই দল, দ্বিবচন বিশেষ্য। কিন্তু পরের ক্রিয়া ইয়াখতাসিমূন দ্বিবচন নয়, বহুবচন। আয়াত দল গোনে দুটি, আর ঝগড়াকে দেখায় বহু মানুষের কাজ হিসেবে। এ আয়াতের জন্য আনা কোনো তাফসীর এই ব্যাকরণ নিয়ে কিছু বলেনি। তাই কথাটা শুধু পাঠের দেখা অংশ হিসেবেই রাখা হলো: ভাঙনটা দুই মুখপাত্রের পরিপাটি বিতর্ক ছিল না, ছিল গোটা জাতির নিজেদের মধ্যে বিবাদ।"
+          },
+          {
+            "en": "What were they disputing about? In at-Tabari's report from Mujahid, yakhtasimun is glossed as yakhtalifun, they differed. Al-Baghawi specifies the subject: they disputed fi al-din, about the religion. So the quarrel was not over land, water or leadership; it was over whether Salih was sent and whether Allah alone was to be worshipped. In the commentaries the parties to it are the two camps. Salih enters the quarrel directly only in Muqatil's longer range, where the deniers address their challenge to him.",
+            "bn": "ঝগড়াটা কী নিয়ে? মুজাহিদ থেকে তাবারীর বর্ণনায় ইয়াখতাসিমূনের ব্যাখ্যা ইয়াখতালিফূন, তারা মতভেদ করল। বাগাভী বিষয়টা নির্দিষ্ট করে দেন: তারা ঝগড়া করেছিল দ্বীন নিয়ে। তাই বিবাদ জমি, পানি বা নেতৃত্ব নিয়ে ছিল না। প্রশ্ন ছিল, সালিহ (আঃ) প্রেরিত কি না, আর ইবাদত কি একমাত্র আল্লাহর। তাফসীরগুলোতে এ ঝগড়ার পক্ষ দুই দল। সালিহ (আঃ) সরাসরি এতে আসেন শুধু মুকাতিলের বড় পরিসরে, যেখানে অস্বীকারকারীরা তাদের চ্যালেঞ্জ তাঁর দিকেই ছোড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering a Split With Istighfar",
+          "bn": "ভাঙনের জবাবে ইস্তিগফার"
+        },
+        "p": [
+          {
+            "en": "The next verse shows how Salih met the division, and it is not with a closing argument. In 27:46 he says: O my people, why do you hasten the evil before the good? Why do you not seek Allah's forgiveness, that you may receive mercy? Ma'arif al-Qur'an explains that the deniers had demanded he bring the divine punishment on them in this world, as proof that he was truthful. Evil here is that punishment, and good is their repentance and turning to Allah's mercy.",
+            "bn": "পরের আয়াতে দেখা যায়, সালিহ (আঃ) ভাঙনের মুখে কী করলেন। তিনি তর্কের শেষ যুক্তি দেননি। ২৭:৪৬ আয়াতে তিনি বলেন: হে আমার জাতি, কল্যাণের আগে তোমরা অকল্যাণকে তাড়াতাড়ি ডেকে আনছ কেন? আল্লাহর কাছে ক্ষমা চাও না কেন, যাতে তোমাদের উপর রহম করা হয়? মাআরিফুল কুরআন ব্যাখ্যা করে, অস্বীকারকারীরা দাবি করেছিল, তাঁর সত্যবাদিতার প্রমাণ হিসেবে তিনি যেন দুনিয়াতেই আল্লাহর আযাব নিয়ে আসেন। এখানে অকল্যাণ মানে সেই আযাব। আর কল্যাণ মানে তাদের তওবা আর আল্লাহর রহমতের দিকে ফেরা।"
+          },
+          {
+            "en": "Ibn Kathir reads it the same way: why are you praying for the punishment to come, and not asking Allah for His mercy? Their reply in 27:47, we see an ill omen in you and in those with you, confirms that the believing party had become a known group around him. Beyond that the passage moves to the plotters of 27:48 and 27:49, who belong to other verses. None of the commentaries fetched for 27:45 attaches a hadith to it, and none is offered here.",
+            "bn": "ইবন কাসীরও একইভাবে পড়েন: তোমরা আযাব আসার জন্য দোয়া করছ কেন, আল্লাহর কাছে তাঁর রহমত চাইছ না কেন? ২৭:৪৭ আয়াতে তাদের জবাব, আমরা তোমাকে আর তোমার সঙ্গীদের অশুভ মনে করি। এ কথা থেকে বোঝা যায়, মুমিনদের দলটি তাঁর চারপাশে পরিচিত এক দল হয়ে উঠেছিল। এরপর অংশটি চলে যায় ২৭:৪৮ ও ২৭:৪৯ আয়াতের ষড়যন্ত্রকারীদের দিকে, যারা অন্য আয়াতের বিষয়। ২৭:৪৫ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past Division, Not a Map",
+          "bn": "অতীতের ভাঙন, আজকের মানচিত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: one people, Thamud, long past, dividing when their prophet called them to Allah, in an account that ends with the destruction of the plotters and their people in 27:51 and the rescue of the believers in 27:53. It licenses nothing against any living person or community. It gives no reader the right to name today's two parties, or to place a neighbour, a family, a group or a nation in the deniers' camp.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা পাঠে আছে: বহু আগের একটি জাতি, সামূদ, নবী আল্লাহর দিকে ডাকলে দুই ভাগ হয়ে গেল। এ বিবরণ শেষ হয় ২৭:৫১ আয়াতে ষড়যন্ত্রকারী ও তাদের জাতির ধ্বংসে, আর ২৭:৫৩ আয়াতে মুমিনদের রক্ষায়। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের দুই দল কারা, তা ঠিক করে দেওয়ার অধিকার কোনো পাঠককে এটি দেয় না। প্রতিবেশী, পরিবার, কোনো দল বা জাতিকে অস্বীকারকারীদের দলে বসানোর অধিকারও দেয় না।"
+          },
+          {
+            "en": "The Muyassar's small clause stands against that use of the verse. Each party claimed the truth was with it. The deniers of Salih did not think of themselves as deniers of the truth; they thought they were right and the others mistaken. A feeling of being in the right camp is therefore exactly what both camps had, and it proves nothing. The verse is better read as a question the reader puts to himself than as a verdict he hands to anyone else.",
+            "bn": "মুয়াসসারের ছোট কথাটিই আয়াতের এমন ব্যবহারের বিরুদ্ধে দাঁড়ায়। প্রত্যেক দল দাবি করত, সত্য তাদের সঙ্গে। সালিহ (আঃ)-কে যারা অস্বীকার করেছিল, তারা নিজেদের সত্য অস্বীকারকারী ভাবেনি। তারা ভেবেছিল, তারাই ঠিক, অন্যরা ভুল। ঠিক দলে থাকার অনুভূতি তাই দুই দলেরই ছিল, এ অনুভূতি কিছুই প্রমাণ করে না। আয়াতটিকে তাই অন্য কারও উপর রায় হিসেবে না পড়ে নিজের কাছে প্রশ্ন হিসেবে পড়াই ভালো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Call Reaches You",
+          "bn": "ডাক যখন আপনার কাছে আসে"
+        },
+        "p": [
+          {
+            "en": "The call itself was short and not harsh: worship Allah. What divided Thamud was not its tone but the fact that it asked for an answer. The verse places the split straight after the call, so the camps formed by how people responded. The same happens on a small scale whenever a reminder of Allah's right reaches someone, in a verse, a sermon or a friend's word. Two camps can form inside one heart: the part that wants to answer and the part that wants to argue.",
+            "bn": "ডাকটা ছিল ছোট, কঠোরও নয়: আল্লাহর ইবাদত কর। সামূদকে ভাগ করেছিল তার সুর নয়, বরং এই যে ডাকটা জবাব চাইছিল। আয়াত ভাঙনকে রাখে ডাকের ঠিক পরে। অর্থাৎ দল তৈরি হয়েছে মানুষ কীভাবে সাড়া দিল তা দিয়ে। ছোট পরিসরে একই জিনিস ঘটে, যখনই আল্লাহর হকের কথা কারও কাছে পৌঁছায়, কোনো আয়াতে, খুতবায় বা বন্ধুর কথায়। এক অন্তরের ভেতরেই দুই দল তৈরি হতে পারে: একটা অংশ সাড়া দিতে চায়, আরেকটা অংশ তর্ক করতে চায়।"
+          },
+          {
+            "en": "A quarrel can feel like taking religion seriously. Thamud's deniers talked a great deal about Salih, whether he was sent, what he promised, what omen he brought. Talking about the messenger is not the same as answering the message. Salih's own reply to the split points to the better course: seek Allah's forgiveness, that you may receive mercy. He moved the conversation from who was right to who would turn back to Allah.",
+            "bn": "ঝগড়াকে অনেক সময় দ্বীনকে গুরুত্ব দেওয়া বলে মনে হয়। সামূদের অস্বীকারকারীরা সালিহ (আঃ)-কে নিয়ে অনেক কথা বলেছিল। তিনি প্রেরিত কি না, কীসের প্রতিশ্রুতি দেন, কোন অশুভ বয়ে আনেন। কিন্তু রাসূলকে নিয়ে কথা বলা আর বার্তার জবাব দেওয়া এক নয়। ভাঙনের মুখে সালিহ (আঃ)-এর নিজের জবাবই ভালো পথ দেখায়: আল্লাহর কাছে ক্ষমা চাও, যাতে রহম পাও। আলাপটাকে তিনি সরিয়ে নিলেন কে ঠিক সেই প্রশ্ন থেকে, কে আল্লাহর দিকে ফিরবে সেই প্রশ্নে।"
+          },
+          {
+            "en": "So before defending a position in any religious disagreement, it is worth asking whether the part that is not in dispute has been done: worshipping Allah alone, leaving what is set beside Him, seeking His forgiveness. That much both of Thamud's camps were called to, and only one answered. Which camp others belong to is Allah's to judge. Which one is forming in me, when the call comes, is the question this verse leaves on my side of the page.",
+            "bn": "তাই দ্বীনি কোনো মতভেদে নিজের অবস্থান রক্ষা করার আগে একবার জিজ্ঞেস করা ভালো: যে অংশ নিয়ে কোনো বিরোধ নেই, তা কি পালন করেছি? একমাত্র আল্লাহর ইবাদত, তাঁর সঙ্গে যা দাঁড় করানো হয় তা ছেড়ে দেওয়া, তাঁর কাছে ক্ষমা চাওয়া। সামূদের দুই দলকেই এর দিকে ডাকা হয়েছিল, সাড়া দিয়েছিল শুধু একদল। অন্যরা কোন দলে, তার বিচার আল্লাহর। ডাক এলে আমার ভেতরে কোন দল গড়ে উঠছে, এ প্রশ্নটাই আয়াত আমার হাতে রেখে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "27:52": {
     "sections": [
       {
