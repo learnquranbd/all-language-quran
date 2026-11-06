@@ -27509,6 +27509,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Look honestly at the truth while looking still helps; do not hide behind a dismissive word, for on that Day what was called magic will stand before every eye.",
     "lessonBn": "দেখা যখনো কাজে আসে, তখনই সত্যের দিকে সৎভাবে তাকান। অবজ্ঞার কোনো শব্দের আড়ালে লুকাবেন না, কারণ সেদিন যাকে যাদু বলা হতো, তা প্রত্যেকের চোখের সামনে দাঁড়িয়ে থাকবে।"
+  },
+  "52:24": {
+    "reflectionEn": "The cup has just passed from hand to hand, and now the verse turns to those who carry it. Youths go round the people of the Garden, youths of theirs, as if they were pearls kept hidden in the shell. One commentator remarks that the Garden holds no weariness and no real need of service; the picture is there to show how complete the ease has become. Two verses later the same people say that, among their own families, they used to live in fear. Those served there were watchful here. What am I carrying now, for whom, and with what care? And does the ease I hope for there shape the way I live here?",
+    "reflectionBn": "পানপাত্র এইমাত্র হাত থেকে হাতে ঘুরে গেছে। এবার আয়াতের দৃষ্টি যারা তা বয়ে আনে তাদের দিকে। জান্নাতবাসীদের চারপাশে ঘুরে বেড়ায় কিশোরেরা, তাদেরই জন্য নির্দিষ্ট, যেন ঝিনুকে লুকিয়ে রাখা মুক্তা। এক তাফসীরকার মনে করিয়ে দেন, জান্নাতে ক্লান্তি নেই, সেবার আসল কোনো প্রয়োজনও নেই। ছবিটা আছে এটুকু দেখাতে যে আরাম সেখানে কতটা পূর্ণ। দুই আয়াত পরেই এই মানুষগুলো বলবে, দুনিয়ায় নিজেদের পরিবারের মধ্যে তারা ভয়ে ভয়ে থাকত। সেখানে যাদের সেবা করা হচ্ছে, এখানে তারা ছিল সজাগ। আজ আমি কী বয়ে বেড়াচ্ছি, কার জন্য, আর কতটা যত্নে? যে আরামের আশা করি, সেই আশা কি আমার আজকের জীবনকে গড়ে দিচ্ছে?",
+    "pointsEn": [
+      "When I picture the Garden, do I picture only the ease, or also the fear and the prayer that 52:26 to 52:28 say came before it?",
+      "A pearl stays clear because it is kept covered. What in my own life needs guarding from whatever would dull it?",
+      "Who serves me every day, at home or at work, and when did I last thank them properly?",
+      "Do I think of serving others as beneath me, or as work that is seen and counted?",
+      "If the comfort of the Garden is His gift, what am I doing today that asks Him for it?"
+    ],
+    "pointsBn": [
+      "জান্নাতের কথা ভাবলে আমি কি শুধু আরামের ছবিই দেখি? নাকি সেই ভয় আর দু‘আও দেখি, যা ৫২:২৬ থেকে ৫২:২৮ আয়াত অনুযায়ী তার আগে ছিল?",
+      "ঢেকে রাখা হয় বলেই মুক্তা ঝকঝকে থাকে। আমার জীবনের কোন জিনিসটাকে মলিন হওয়া থেকে আগলে রাখা দরকার?",
+      "ঘরে বা কাজে প্রতিদিন কারা আমার সেবা করে? শেষ কবে আমি তাদের ঠিকমতো ধন্যবাদ দিয়েছি?",
+      "অন্যের সেবা করাকে আমি কি নিচু কাজ মনে করি, নাকি এমন আমল মনে করি যা দেখা হয় আর হিসাবে ওঠে?",
+      "জান্নাতের আরাম যদি তাঁরই দান হয়, তবে আজ আমি এমন কী করছি যা দিয়ে তাঁর কাছে তা চাওয়া যায়?"
+    ],
+    "lessonEn": "The ease of the Garden is His gift, pictured even in those who serve its people; let the hope of it keep you watchful now, as its people once were.",
+    "lessonBn": "জান্নাতের আরাম তাঁরই দান, তার ছবি ফুটে আছে জান্নাতবাসীদের সেবকদের মধ্যেও। সেই আশা আজ আপনাকে সজাগ রাখুক, যেমন সজাগ ছিলেন জান্নাতের মানুষেরা।"
   }
 };
 

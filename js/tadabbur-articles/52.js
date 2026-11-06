@@ -895,6 +895,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "52:24": {
+    "sections": [
+      {
+        "h": {
+          "en": "Cups, Then Those Who Carry Them",
+          "bn": "পানপাত্রের পর বাহকেরা"
+        },
+        "p": [
+          {
+            "en": "For several verses the passage has been describing the people of the Garden. In 52:22 Allah supplies them with fruit and with meat of whatever they desire. In 52:23 they pass a cup among themselves, a cup that brings no idle talk and no sin. Verse 52:24 stays inside the same scene and turns to those who bring it: wa-yatufu 'alayhim ghilmanun lahum ka-annahum lu'lu'un maknun, and there go round them youths of theirs, as if they were hidden pearls. The whole verse is seven Arabic words.",
+            "bn": "কয়েক আয়াত ধরে আলোচনা চলছে জান্নাতবাসীদের নিয়ে। ৫২:২২ আয়াতে আল্লাহ তাদের দেন ফলমূল আর মনের মতো গোশত। ৫২:২৩ আয়াতে তারা নিজেদের মধ্যে পানপাত্র বিনিময় করে, যে পাত্রে না আছে বেহুদা কথা, না আছে গুনাহ। ৫২:২৪ আয়াত একই দৃশ্যের ভেতরে থেকে দৃষ্টি ফেরায় বাহকদের দিকে: ওয়া ইয়াতূফু আলাইহিম গিলমানুল লাহুম কাআন্নাহুম লু'লু'উম মাকনূন। তাদের চারপাশে ঘুরে বেড়াবে তাদেরই কিশোরেরা, যেন লুকিয়ে রাখা মুক্তা। পুরো আয়াতটি আরবিতে মাত্র সাতটি শব্দ।"
+          },
+          {
+            "en": "The verse after it changes direction again. In 52:25 the people of the Garden turn towards each other, asking questions, and in 52:26 they recall that before, among their own families, they used to live in fear. So 52:24 stands between the meal and the conversation. The commentaries fetched for it are short, the longest no more than a paragraph. This article goes through what they say about the verb, about who the youths are, and about the pearl, and keeps their differences as differences, without choosing between them.",
+            "bn": "পরের আয়াতে দৃশ্য আবার মোড় নেয়। ৫২:২৫ আয়াতে জান্নাতবাসীরা একে অপরের দিকে ফিরে পরস্পরকে প্রশ্ন করে। ৫২:২৬ আয়াতে তারা স্মরণ করে, আগে নিজেদের পরিবারের মধ্যে তারা ভয়ে ভয়ে থাকত। অর্থাৎ ৫২:২৪ আয়াতের জায়গা খাওয়া-দাওয়া আর আলাপের ঠিক মাঝখানে। এ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে সেগুলো ছোট, সবচেয়ে বড়টিও এক অনুচ্ছেদের বেশি নয়। ক্রিয়াপদ নিয়ে, কিশোরেরা কারা তা নিয়ে, আর মুক্তা নিয়ে তাঁরা কী বলেন, এ লেখা তা একে একে দেখবে। যেখানে তাঁদের মত আলাদা, সেখানে কোনো পক্ষ না নিয়ে মতভেদটাই তুলে ধরবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Going Round, and for Whom",
+          "bn": "ঘুরে ঘুরে, কাদের জন্য"
+        },
+        "p": [
+          {
+            "en": "Yatufu means to go round, to circulate among people. The commentators fill in what the youths go round with. At-Tabari ties the verse to the one before: these youths go round the believers in the Garden with the cups of drink whose description Allah has just given. Al-Baghawi says only that they go round with service, bi-l-khidma. Al-Qurtubi widens the tray to fruit, gifts, food and drink, and points to two verses that use the same verb: 43:71, on platters of gold, and 37:45, on a cup from a flowing spring.",
+            "bn": "ইয়াতূফু মানে ঘুরে বেড়ানো, মানুষের মাঝে চক্কর দেওয়া। কিশোরেরা কী নিয়ে ঘোরে, তাফসীরকারেরা তা খুলে বলেন। তাবারী আয়াতটিকে আগের আয়াতের সঙ্গে জুড়ে দেন: এই কিশোরেরা জান্নাতে মুমিনদের চারপাশে ঘোরে সেই পানপাত্র নিয়ে, যার বর্ণনা আল্লাহ এইমাত্র দিয়েছেন। বাগাভী শুধু বলেন, তারা ঘোরে সেবা নিয়ে, বিল খিদমাহ। কুরতুবী তালিকাটা বড় করেন: ফলমূল, উপহার, খাবার আর পানীয়। প্রমাণ হিসেবে তিনি একই ক্রিয়ার দুটি আয়াত দেখান। ৪৩:৭১ আয়াতে আছে সোনার থালা, আর ৩৭:৪৫ আয়াতে বহমান ঝরনার পানপাত্র।"
+          },
+          {
+            "en": "Then the small word lahum, theirs or for them. At-Tabari keeps the phrase as it stands, youths of theirs. The Muyassar spells it out: youths made ready for their service, mu'addun li-khidmatihim. As-Sa'di calls them khadam shabab, young servants, who go round with service and with seeing to whatever the people of the Garden need. Ibn Kathir reads the verse as news of their khadam and hasham, their servants and their retinue. All of these glosses rest on lahum: the youths belong to the people of the Garden and are there to serve them.",
+            "bn": "এরপর ছোট্ট শব্দ লাহুম, অর্থাৎ তাদের, বা তাদের জন্য। তাবারী শব্দবন্ধটা যেমন আছে তেমনই রাখেন: তাদের কিশোরেরা। মুয়াসসার খোলাসা করে বলে, তাদের সেবার জন্য প্রস্তুত রাখা কিশোরেরা, মুআদ্দূনা লি-খিদমাতিহিম। সা'দী তাদের বলেন খাদাম শাবাব, তরুণ সেবক। তারা সেবা নিয়ে ঘোরে, জান্নাতবাসীদের যা কিছু দরকার তা মিটিয়ে দেয়। ইবন কাসীর আয়াতটিকে পড়েন তাদের খাদাম ও হাশাম, অর্থাৎ সেবক আর পরিচারকদলের খবর হিসেবে। এই সব ব্যাখ্যার ভিত্তি ওই লাহুম শব্দ। কিশোরেরা জান্নাতবাসীদেরই, আর আছে তাদেরই সেবার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Answers on Who They Are",
+          "bn": "তারা কারা, তিন রকম উত্তর"
+        },
+        "p": [
+          {
+            "en": "Most of the commentaries fetched for this verse do not stop to ask who the youths are. At-Tabari, al-Baghawi, as-Sa'di, Ibn Kathir and the Muyassar all call them servants and move on to describing them. It is al-Qurtubi who raises the question. He records three answers, each introduced with qila, it has been said, and none of them carrying a name. He does not choose between them, and he gives no chain or proof for any of the three in the text fetched.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার বেশিরভাগই কিশোরেরা কারা, সে প্রশ্নে থামে না। তাবারী, বাগাভী, সা'দী, ইবন কাসীর আর মুয়াসসার সবাই তাদের সেবক বলে পরিচয় দিয়ে সোজা তাদের বর্ণনায় চলে যান। প্রশ্নটা তোলেন কুরতুবী। তিনি তিনটি উত্তর উল্লেখ করেন। প্রতিটির শুরুতে আছে কীলা, অর্থাৎ বলা হয়েছে, আর কোনোটির সঙ্গেই কারও নাম নেই। তিনি কোনোটিকে বেছে নেন না। সংগৃহীত লেখায় তিনটির কোনোটির পক্ষে সনদ বা দলিলও তিনি দেন না।"
+          },
+          {
+            "en": "The first answer: they are the young children of the believers themselves, who went on ahead of them, and Allah delighted their parents' eyes with them, fa-aqarra Allahu bihim a'yunahum. The second: they are children of other people, whom Allah has given to the believers as servants. The third: they are youths created in the Garden itself. After the three, al-Qurtubi quotes al-Kalbi on their description: they never grow older, and in beauty and whiteness they are like a pearl hidden in its shell.",
+            "bn": "প্রথম উত্তর: তারা মুমিনদের নিজেদেরই ছোট সন্তান, যারা আগে চলে গিয়েছিল। আল্লাহ তাদের দিয়ে বাবা-মায়ের চোখ জুড়িয়ে দেন, ফাআক্কারাল্লাহু বিহিম আ'য়ুনাহুম। দ্বিতীয় উত্তর: তারা অন্যদের সন্তান, যাদের আল্লাহ মুমিনদের সেবক করে দিয়েছেন। তৃতীয় উত্তর: তারা জান্নাতেই সৃষ্টি করা কিশোর। তিনটি মত উল্লেখের পর কুরতুবী তাদের বর্ণনায় কালবীর কথা আনেন। তারা কখনো বড় হয় না। সৌন্দর্যে আর শুভ্রতায় তারা যেন ঝিনুকে লুকানো মুক্তা।"
+          },
+          {
+            "en": "A reader who has just come from 52:21 may feel the pull of the first answer. That verse promises that believers whose descendants followed them in faith will have those descendants joined with them. Al-Qurtubi does not draw that line in the text fetched for 52:24, and this article does not draw it for him. The verse itself says only ghilmanun lahum, youths of theirs. Who they are beyond that rests on reports al-Qurtubi leaves unnamed, and they are best held as he holds them: as possibilities, side by side.",
+            "bn": "যিনি সবেমাত্র ৫২:২১ আয়াত পড়ে এসেছেন, প্রথম উত্তরটা তাঁর মনে টান দিতে পারে। সে আয়াতে প্রতিশ্রুতি আছে, যে মুমিনদের সন্তানেরা ঈমানের সঙ্গে তাদের অনুসরণ করেছে, তাদের সন্তানদের তাদের সঙ্গে মিলিয়ে দেওয়া হবে। কিন্তু ৫২:২৪ আয়াতের সংগৃহীত লেখায় কুরতুবী এই দুইয়ের মধ্যে কোনো যোগসূত্র টানেন না, আর এ লেখাও তাঁর হয়ে তা টানবে না। আয়াত নিজে শুধু বলে গিলমানুল লাহুম, তাদের কিশোরেরা। এর বাইরে তারা কারা, তা নির্ভর করে এমন সব বর্ণনার উপর, যাদের বক্তার নাম কুরতুবী বলেননি। তাই তিনি যেভাবে রেখেছেন সেভাবেই রাখা ভালো: পাশাপাশি কয়েকটি সম্ভাবনা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pearl Kept in Its Shell",
+          "bn": "ঝিনুকে আগলে রাখা মুক্তা"
+        },
+        "p": [
+          {
+            "en": "The likeness rests on one word, maknun, from the root k-n-n, whose noun kinn is a cover or shelter. At-Tabari explains it as guarded inside a covering, and gives the reason that matters: kept that way, a pearl stays purer and its whiteness clearer. The Muyassar says a pearl protected in its shells. Al-Baghawi writes stored away, protected, untouched by any hand, and adds Sa'id ibn Jubayr's gloss, in the shell. Al-Kalbi, as al-Qurtubi quotes him, says the same.",
+            "bn": "উপমার পুরো ভার একটি শব্দের উপর: মাকনূন। ধাতু ক-ন-ন, যার বিশেষ্য কিন্ন মানে আবরণ বা আশ্রয়। তাবারী ব্যাখ্যা করেন, আবরণের ভেতরে সুরক্ষিত। কারণটাও বলেন, আর সেটাই আসল কথা: এভাবে রাখলে মুক্তা থাকে আরও নিখুঁত, তার শুভ্রতা থাকে আরও উজ্জ্বল। মুয়াসসার বলে, নিজের ঝিনুকের ভেতরে সুরক্ষিত মুক্তা। বাগাভী লেখেন, জমা করে রাখা, সুরক্ষিত, কোনো হাত যাকে ছোঁয়নি। সঙ্গে আনেন সাঈদ ইবন জুবাইরের ব্যাখ্যা: ঝিনুকের ভেতরে। কুরতুবী কালবীর যে কথা উদ্ধৃত করেন, তাতেও একই অর্থ।"
+          },
+          {
+            "en": "Al-Qurtubi adds two notes on the verb. Al-Kisa'i, he reports, separated two forms: kanantu for covering a thing and shielding it from the sun, and aknantu for keeping something hidden in oneself. Abu Zayd held that either form serves both senses, so that you may say kanantu al-'ilm or aknantuhu, and call a thing maknun or mukann. Whichever way the grammarians divide it, the word joins two ideas, shelter and concealment. A pearl that is maknun has been kept back, from the sun and from handling alike.",
+            "bn": "ক্রিয়াপদটি নিয়ে কুরতুবী দুটি টীকা যোগ করেন। তাঁর বর্ণনায় কিসাঈ দুটি রূপ আলাদা করেছেন। কানানতু মানে কোনো কিছু ঢেকে রোদ থেকে বাঁচানো, আর আকনানতু মানে কোনো কিছু মনের ভেতরে গোপন রাখা। আবূ যায়দের মতে দুটি রূপই দুই অর্থে চলে। তাই বলা যায় কানানতুল ইলম বা আকনানতুহু, আর জিনিসটিকে বলা যায় মাকনূন বা মুকান্ন। ব্যাকরণবিদেরা যেভাবেই ভাগ করুন, শব্দটিতে দুটি ভাব একসঙ্গে আছে: আশ্রয় আর আড়াল। মাকনূন মুক্তা তাই রোদ থেকেও দূরে, হাতের ছোঁয়া থেকেও দূরে রাখা মুক্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Likeness Praises",
+          "bn": "উপমায় কোন গুণের কথা"
+        },
+        "p": [
+          {
+            "en": "What, then, makes the youths like pearls? The commentators answer with a short list of qualities, and the lists overlap. At-Tabari names whiteness and clarity. Al-Baghawi names beauty, whiteness and clarity. The Muyassar names clarity, whiteness and harmony of form. As-Sa'di names beauty and radiance. Ibn Kathir compares them to the fresh pearl, al-lu'lu' ar-ratb, in their beauty, their radiance, their cleanliness and the fineness of their clothing. His abridged English edition renders this as beautiful, graceful in appearance, clean and neat as well-preserved pearls.",
+            "bn": "তাহলে কিশোরেরা মুক্তার মতো কেন? উত্তরে তাফসীরকারেরা কয়েকটি গুণের নাম বলেন, আর তালিকাগুলো অনেকটাই মিলে যায়। তাবারী বলেন শুভ্রতা আর স্বচ্ছতা। বাগাভী বলেন সৌন্দর্য, শুভ্রতা আর স্বচ্ছতা। মুয়াসসার বলে স্বচ্ছতা, শুভ্রতা আর গড়নের সামঞ্জস্য। সা'দী বলেন সৌন্দর্য আর দীপ্তি। ইবন কাসীর তাদের তুলনা করেন তাজা মুক্তার সঙ্গে, আল-লু'লু'উর রাতব। তুলনার জায়গা তাদের সৌন্দর্য, দীপ্তি, পরিচ্ছন্নতা আর পোশাকের সৌষ্ঠব। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটা এসেছে এভাবে: সুন্দর, দেখতে মনোরম, সযত্নে রাখা মুক্তার মতো পরিষ্কার আর পরিপাটি।"
+          },
+          {
+            "en": "Ibn Kathir then sets the verse beside 56:17 and 56:18: there go round them youths made eternal, wildanun mukhalladun, with goblets and jugs and a cup from a flowing spring. The noun differs, wildan in place of ghilman, but the verb and the scene are the same, and the cups come back. Al-Qurtubi also quotes the phrase wildanun mukhalladun in his comment. Taken together, the commentators read the pearl as praise of purity, brightness, cleanliness and good order. Nothing further is drawn from it in the texts fetched, and nothing further is drawn here.",
+            "bn": "এরপর ইবন কাসীর আয়াতটিকে রাখেন ৫৬:১৭ ও ৫৬:১৮ আয়াতের পাশে: তাদের চারপাশে ঘুরবে চিরকিশোরেরা, উইলদানুম মুখাল্লাদূন, পানপাত্র, কুঁজো আর বহমান ঝরনার পেয়ালা নিয়ে। বিশেষ্যটা আলাদা, গিলমানের জায়গায় উইলদান। কিন্তু ক্রিয়া এক, দৃশ্যও এক, পানপাত্রও আবার ফিরে আসে। কুরতুবীও তাঁর আলোচনায় উইলদানুম মুখাল্লাদূন শব্দবন্ধটি উদ্ধৃত করেন। সব মিলিয়ে তাফসীরকারেরা মুক্তার উপমাকে পড়েন পবিত্রতা, উজ্জ্বলতা, পরিচ্ছন্নতা আর পরিপাটির প্রশংসা হিসেবে। সংগৃহীত লেখায় এর বাইরে কিছু টানা হয়নি, এখানেও টানা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Weariness to Relieve",
+          "bn": "যেখানে ক্লান্তিই নেই"
+        },
+        "p": [
+          {
+            "en": "The picture invites a question. Why would anyone need serving in a place of perfect rest? Al-Qurtubi answers it directly. In the Garden, he writes, there is no fatigue, nasab, and no need of service; rather, Allah is telling us that its people are at the furthest limit of bliss, nihayat an-na'im. On this reading the youths do not go round because the people of the Garden would otherwise be tired or left wanting. They go round as a sign of how far the ease reaches.",
+            "bn": "ছবিটা একটা প্রশ্ন জাগায়। পরিপূর্ণ বিশ্রামের জায়গায় কারও সেবার দরকার হবে কেন? কুরতুবী সরাসরি এর জবাব দেন। তিনি লেখেন, জান্নাতে কোনো ক্লান্তি নেই, নাসাব নেই, সেবারও কোনো প্রয়োজন নেই। আল্লাহ আসলে জানিয়ে দিচ্ছেন, জান্নাতবাসীরা নিয়ামতের শেষ সীমায় আছে, নিহায়াতুন নাঈম। এই পাঠ অনুযায়ী কিশোরেরা এ কারণে ঘোরে না যে নইলে জান্নাতবাসীরা ক্লান্ত হয়ে পড়ত বা কিছুর অভাবে থাকত। তারা ঘোরে এ কথা দেখাতে যে আরাম সেখানে কতদূর পৌঁছেছে।"
+          },
+          {
+            "en": "As-Sa'di reaches the same place by another road. The youths go round with service and with meeting whatever the people of the Garden need, and this, he says, shows how plentiful and how wide their bliss is, and how complete their rest, kamal rahatihim. Neither commentator treats the service as filling a gap. Both read it as fullness on display. That fits the passage, which keeps naming the Giver: in 52:18 they enjoy what their Lord has given them, and in 52:22 Allah says, We supplied them.",
+            "bn": "সা'দী অন্য পথে একই জায়গায় পৌঁছান। কিশোরেরা সেবা নিয়ে ঘোরে, জান্নাতবাসীদের যা দরকার তা মিটিয়ে দেয়। তাঁর মতে এতে বোঝা যায় তাদের নিয়ামত কত প্রচুর আর কত বিস্তৃত, আর তাদের বিশ্রাম কত পূর্ণ, কামালু রাহাতিহিম। দুজনের কেউই এই সেবাকে কোনো ঘাটতি পূরণ হিসেবে দেখেন না। দুজনেই একে পড়েন প্রাচুর্যের প্রকাশ হিসেবে। পুরো অংশটার সঙ্গেও তা মেলে, কারণ এখানে বারবার দাতার নাম আসে। ৫২:১৮ আয়াতে তারা উপভোগ করে যা তাদের রব তাদের দিয়েছেন, আর ৫২:২২ আয়াতে আল্লাহ বলেন, আমি তাদের দিয়েছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If the Servant Is a Pearl",
+          "bn": "সেবক যদি মুক্তা হয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his comment with a report from Qatada, through two chains. In the first, Qatada says: it was mentioned to us that a man said, O Prophet of Allah, this is the servant, so what of the one served? He said: By the One in whose hand is the soul of Muhammad, the excellence of the one served over the servant is like the excellence of the moon on the night it is full over all the other stars. In the second, through Ma'mar, Qatada begins with it has reached me.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন কাতাদার একটি বর্ণনা দিয়ে, দুটি সূত্রে। প্রথম সূত্রে কাতাদা বলেন: আমাদের কাছে উল্লেখ করা হয়েছে, এক ব্যক্তি বলল, হে আল্লাহর নবী, এ তো সেবক, তাহলে যার সেবা করা হয় সে কেমন? তিনি বললেন: যাঁর হাতে মুহাম্মাদের প্রাণ, তাঁর কসম, সেবকের উপর সেবিতের মর্যাদা তেমন, যেমন পূর্ণিমার রাতে চাঁদের মর্যাদা অন্য সব তারার উপর। মা'মারের মাধ্যমে আসা দ্বিতীয় সূত্রে কাতাদা শুরু করেন এভাবে: আমার কাছে পৌঁছেছে।"
+          },
+          {
+            "en": "Al-Baghawi carries the same exchange from Qatada, and also from al-Hasan, who is reported to have mentioned it when he recited this verse. Al-Qurtubi gives al-Hasan's wording of the answer: between the two is as between the moon on the night it is full and the smallest of the stars. In every version the words reach the Prophet ﷺ without the name of anyone who heard them from him. Qatada's own phrases are it was mentioned to us and it has reached me. None of the commentaries grades the report or traces it to a collection.",
+            "bn": "বাগাভীও একই কথোপকথন আনেন কাতাদা থেকে, আবার হাসান থেকেও। বর্ণনা আছে, হাসান এ আয়াত তিলাওয়াত করে কথাটি বলেছিলেন। কুরতুবী জবাবটা দেন হাসানের ভাষায়: দুজনের মধ্যে ব্যবধান পূর্ণিমার চাঁদ আর সবচেয়ে ছোট তারার ব্যবধানের মতো। প্রতিটি রূপেই কথাগুলো নবী ﷺ পর্যন্ত পৌঁছায়, কিন্তু তাঁর কাছ থেকে কে শুনেছেন সেই নাম থাকে না। কাতাদার নিজের ভাষা হলো, আমাদের কাছে উল্লেখ করা হয়েছে, আর আমার কাছে পৌঁছেছে। কোনো তাফসীরই বর্ণনাটির মান যাচাই করে বলেনি, কোনো হাদীসগ্রন্থের সূত্রও দেয়নি।"
+          },
+          {
+            "en": "So no commentary fetched for this verse attaches a sound hadith from a graded collection to it, and this article does not supply one. The Qatada report is given here as the commentators give it, with its limits stated. Al-Qurtubi also carries two reports on how many servants each person of the Garden will have, one from 'A'isha and one that he and al-Baghawi attribute differently, to the Prophet ﷺ and to Ibn 'Umar himself. Neither comes with a chain in the texts fetched, so their numbers are left out here.",
+            "bn": "অর্থাৎ এ আয়াতের সংগৃহীত কোনো তাফসীর মান-নির্ণীত কোনো হাদীসগ্রন্থ থেকে সহীহ হাদীস এ আয়াতের সঙ্গে যুক্ত করেনি, আর এ লেখাও নিজে থেকে তা জোগাবে না। কাতাদার বর্ণনাটি এখানে আনা হলো তাফসীরকারেরা যেভাবে এনেছেন সেভাবেই, তার সীমাবদ্ধতা স্পষ্ট করে। প্রত্যেক জান্নাতবাসীর সেবক কতজন হবে, সে বিষয়ে কুরতুবী আরও দুটি বর্ণনা আনেন। একটি আয়েশা (রাঃ) থেকে। অন্যটি কুরতুবী নবী ﷺ-এর কথা হিসেবে আনেন, আর বাগাভী আনেন ইবন উমার (রাঃ)-এর নিজের কথা হিসেবে। সংগৃহীত লেখায় কোনোটিরই সনদ নেই, তাই সংখ্যাগুলো এখানে বাদ রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Served There, Watchful Here",
+          "bn": "সেখানে সেবা, এখানে সজাগ"
+        },
+        "p": [
+          {
+            "en": "The verse that follows shows who these served people are. In 52:25 to 52:28 they turn to each other and say: we used to be fearful among our own families, mushfiqin; then Allah was gracious to us and protected us from the punishment of the Scorching Fire; we used to call on Him before, and He is the Good, the Merciful. They claim nothing for themselves. The ones attended by youths like hidden pearls credit everything to His favour, fa-manna Allahu 'alayna, and to a life of calling on Him.",
+            "bn": "পরের আয়াতগুলো দেখায়, যাদের সেবা করা হচ্ছে তারা কারা। ৫২:২৫ থেকে ৫২:২৮ আয়াতে তারা একে অপরের দিকে ফিরে বলে: আমরা নিজেদের পরিবারের মধ্যে ভয়ে ভয়ে থাকতাম, মুশফিকীন। তারপর আল্লাহ আমাদের উপর অনুগ্রহ করেছেন, ঝলসানো বাতাসের আযাব থেকে বাঁচিয়েছেন। আগে আমরা তাঁকেই ডাকতাম, তিনিই পরম কল্যাণকারী, পরম দয়ালু। নিজেদের কৃতিত্ব বলে তারা কিছুই দাবি করে না। লুকানো মুক্তার মতো কিশোরেরা যাদের সেবায় ঘোরে, তারা সবকিছু ফিরিয়ে দেয় তাঁর অনুগ্রহের দিকে, ফামান্নাল্লাহু আলাইনা, আর তাঁকে ডেকে কাটানো এক জীবনের দিকে।"
+          },
+          {
+            "en": "That gives the verse its use for a reader now. The ease it pictures is a gift, and the people who receive it are remembered for watchfulness and prayer, not for comfort sought. Al-Qurtubi's remark also cuts the other way: in the Garden service costs no one any weariness, while here it always does. Those who serve us at home, at work, on the road, are tired by it. Hoping for the Garden's rest is a reason to thank them, to lighten their load where we can, and to keep calling on Him.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটির কাজ এখানেই। আয়াত যে আরামের ছবি আঁকে তা একটি দান। যারা সে দান পায়, তাদের মনে রাখা হয় সজাগ থাকা আর দু‘আর জন্য, আরাম খোঁজার জন্য নয়। কুরতুবীর কথাটা উল্টো দিক থেকেও খাটে। জান্নাতে সেবা কাউকে ক্লান্ত করে না, কিন্তু দুনিয়ায় সবসময় করে। ঘরে, কাজে, পথে যারা আমাদের সেবা করে, তারা এতে ক্লান্ত হয়। জান্নাতের বিশ্রামের আশা তাই আমাদের শেখায় তাদের ধন্যবাদ দিতে, যতটা পারি তাদের বোঝা হালকা করতে, আর তাঁকে ডেকে যেতে।"
+          }
+        ]
+      }
+    ]
+  },
   "52:29": {
     "sections": [
       {
