@@ -24291,6 +24291,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A true call to God does not stop at belief: ask plainly, with others beside you, for the freedom of those who are held down.",
     "lessonBn": "আল্লাহর দিকে খাঁটি দাওয়াত শুধু বিশ্বাসে থেমে থাকে না। পাশে যারা আছে তাদের নিয়ে, যাদের দাবিয়ে রাখা হয়েছে তাদের মুক্তি সোজাসুজি চেয়ে নিন।"
+  },
+  "26:52": {
+    "reflectionEn": "The contest is over, the magicians have believed, and Pharaoh still will not let the people go. Then the word comes to Moses: set out by night with My servants. In the same breath comes a warning: you will be pursued. Allah does not hide the chase from them. He names it before the first step, so the sound of an army behind them will not feel like abandonment, only the thing they were told. Faith here is no promise that nothing will come after you. It is leaving anyway, at the hour you were given, on the road you are shown. When I am warned of hardship ahead, do I take it as a reason to stay, or as a sign that I am being looked after?",
+    "reflectionBn": "প্রতিযোগিতা শেষ, জাদুকরেরা ঈমান এনেছে, তবু ফেরাউন এই জাতিকে ছাড়বে না। তখন মূসা (আঃ)-এর কাছে হুকুম আসে: আমার বান্দাদের নিয়ে রাতের বেলা বেরিয়ে পড়ো। সেই একই বাক্যে আসে সতর্কবার্তা: তোমাদের পিছু নেওয়া হবে। আল্লাহ ধাওয়ার খবর গোপন রাখেননি। প্রথম পা ফেলার আগেই তিনি তা জানিয়ে দিয়েছেন। ফলে পেছনে বাহিনীর আওয়াজ শুনে তাদের মনে হবে না যে তাদের ফেলে রাখা হয়েছে। এ তো সেই জিনিস, যার কথা আগেই বলা হয়েছিল। এখানে ঈমান মানে এই নিশ্চয়তা নয় যে পেছনে কেউ আসবে না। ঈমান মানে তবুও বেরিয়ে পড়া, বলে দেওয়া সময়ে, দেখিয়ে দেওয়া পথে। সামনে কষ্ট আছে, এমন খবর পেলে আমি কি সেটাকে থেমে থাকার অজুহাত বানাই, নাকি বুঝি যে আমার দেখাশোনা চলছে?",
+    "pointsEn": [
+      "What has Allah already told me to expect, so that when it comes it should steady me rather than shake me?",
+      "Is there a leaving I keep putting off because I know someone will come after me?",
+      "When I am given a command but not the whole route, do I insist on seeing the map before I take a step?",
+      "If I call myself one of His servants, does the way I move through a hard night show whose I am?",
+      "Do I prepare for the hardship I have been warned of, or only hope that it will not arrive?"
+    ],
+    "pointsBn": [
+      "আল্লাহ আগে থেকেই আমাকে কী কী আশা করতে বলেছেন, যা এলে আমার মন কেঁপে ওঠার বদলে শক্ত হওয়ার কথা?",
+      "পেছনে কেউ ধাওয়া করবে জেনে কোন বেরিয়ে পড়াটা আমি দিনের পর দিন পিছিয়ে যাচ্ছি?",
+      "হুকুম পেয়েছি কিন্তু পুরো রাস্তা জানি না, এমন অবস্থায় কি আমি আগে নকশা দেখতে চাই, তারপর পা ফেলি?",
+      "নিজেকে তাঁর বান্দা বলি। কঠিন রাতে আমার চলাফেরা কি বলে দেয় আমি কার?",
+      "যে কষ্টের ব্যাপারে আমাকে সতর্ক করা হয়েছে, তার জন্য কি আমি প্রস্তুতি নিই, নাকি শুধু আশা করি যে তা আসবে না?"
+    ],
+    "lessonEn": "Being warned of hardship ahead is part of being cared for; set out at the hour you are told, and let the warning steady you rather than hold you back.",
+    "lessonBn": "সামনের কষ্টের খবর আগে পাওয়াও আল্লাহর যত্নেরই অংশ। যে সময়ে বেরোতে বলা হয়েছে, সে সময়েই বেরিয়ে পড়ুন, আর সতর্কবার্তা যেন আপনাকে আটকে না রাখে, বরং মন শক্ত করে।"
   }
 };
 

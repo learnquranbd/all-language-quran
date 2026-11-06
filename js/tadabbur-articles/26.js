@@ -1735,6 +1735,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Years of Signs",
+          "bn": "বহু বছরের নিদর্শনের পর"
+        },
+        "p": [
+          {
+            "en": "Wa-awhayna ila Musa an asri bi-'ibadi innakum muttaba'un: and We inspired Musa (AS): travel by night with My servants; you will be pursued. The verse comes straight after the magicians' declaration of faith and their hope of forgiveness in 26:51, and it moves the story a long way in a single line. The contest before the crowd is finished. What follows is no longer argument but departure, and the verses after it turn to Pharaoh's answer.",
+            "bn": "ওয়া আওহাইনা ইলা মূসা আন আসরি বিইবাদী, ইন্নাকুম মুত্তাবাউন: আর আমি মূসা (আঃ)-এর কাছে ওহী পাঠালাম, আমার বান্দাদের নিয়ে রাতে বেরিয়ে পড়ো, তোমাদের পিছু নেওয়া হবে। জাদুকরদের ঈমানের ঘোষণা আর ক্ষমা পাওয়ার আশা শোনা গেছে ২৬:৫১ আয়াতে। ঠিক তার পরেই এ আয়াত, আর এক লাইনেই কাহিনি অনেক দূর এগিয়ে যায়। জনতার সামনের প্রতিযোগিতা শেষ। এখন আর তর্ক নয়, এখন বেরিয়ে যাওয়ার পালা। পরের আয়াতগুলো দেখায় ফেরাউন এর জবাবে কী করল।"
+          },
+          {
+            "en": "At-Tabari fixes the moment with a clause of his own: We inspired Musa when Pharaoh had persisted in his error and refused anything but to stand fast in his tyranny, after We had shown him Our signs. Ibn Kathir widens the frame. Musa (AS) had stayed long in Egypt and set out Allah's proofs before Pharaoh and his chiefs, and they went on in arrogance and obstinacy until nothing was left for them but punishment. Al-Jalalayn speaks of many years spent calling them to the truth with Allah's signs, which only increased their insolence.",
+            "bn": "মুহূর্তটা কখন, তাবারী নিজের একটি বাক্যে তা বেঁধে দেন: আমি মূসার কাছে ওহী পাঠালাম তখন, যখন ফেরাউন নিজের গোমরাহিতে লেগে রইল, আমার নিদর্শন দেখানোর পরেও সীমালঙ্ঘনে অটল থাকা ছাড়া আর কিছু মানল না। ইবন কাসীর ছবিটা আরও বড় করেন। মূসা (আঃ) দীর্ঘ দিন মিসরে ছিলেন। ফেরাউন ও তার সভাসদদের সামনে আল্লাহর দলিল-প্রমাণ তুলে ধরেছিলেন। তবু তারা অহংকার আর জেদ ছাড়েনি, শেষে আজাব ছাড়া তাদের জন্য আর কিছু বাকি রইল না। জালালাইন বলে, বহু বছর তিনি আল্লাহর নিদর্শন দিয়ে তাদের সত্যের দিকে ডেকেছেন, আর তাতে তাদের ঔদ্ধত্য কেবল বেড়েছে।"
+          },
+          {
+            "en": "Abul A'la Maududi reads the compression as deliberate. The command to leave, he notes, did not follow the contest at once; the intervening history is told in al-A'raf 7:127 to 7:135 and in Yunus 10:83 to 10:89. Here the story is cut short to show only its final phase: the end of a ruler who stayed obdurate after clear signs, and the success of a messenger with divine support behind him. The silence between 26:51 and 26:52 holds years of that history.",
+            "bn": "মওদূদী এই সংক্ষেপকে ইচ্ছাকৃত বলে পড়েন। তাঁর মতে, প্রতিযোগিতার পরপরই বেরিয়ে যাওয়ার হুকুম আসেনি। মাঝখানের ইতিহাস বলা আছে সূরা আরাফের ৭:১২৭ থেকে ৭:১৩৫ আয়াতে আর সূরা ইউনুসের ১০:৮৩ থেকে ১০:৮৯ আয়াতে। এখানে কাহিনি ছেঁটে শুধু শেষ পর্বটা দেখানো হয়েছে। একদিকে এমন এক শাসকের পরিণতি, যে স্পষ্ট নিদর্শন দেখেও জেদ ধরে ছিল। অন্যদিকে এমন এক রাসূলের সফলতা, যাঁর পেছনে ছিল আল্লাহর সাহায্য। ২৬:৫১ আর ২৬:৫২ আয়াতের মাঝের নীরবতায় তাই লুকিয়ে আছে বহু বছর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Hour of the Night",
+          "bn": "রাতের কোন প্রহরে"
+        },
+        "p": [
+          {
+            "en": "An asri: travel by night. Al-Jalalayn notes a second reading, an isri, from the verb sara alongside asra; both name a journey made by night. At-Tabari glosses the command plainly: travel with the Children of Israel by night out of the land of Egypt. Al-Jalalayn adds a direction, towards the sea, and Ibn Kathir adds what the command left open: Musa (AS) was to go on with them wherever he would be commanded, and he did as his Lord told him.",
+            "bn": "আন আসরি: রাতের বেলা চলো। জালালাইন আরেকটি পাঠের কথা জানায়, আন ইসরি। সেটা এসেছে সারা ক্রিয়া থেকে, আর প্রচলিত পাঠ আসরা থেকে। দুটোরই অর্থ রাতে পথ চলা। তাবারী হুকুমটার ব্যাখ্যা দেন সরল ভাষায়: বনী ইসরাঈলকে নিয়ে রাতে মিসর ভূমি থেকে বেরিয়ে যাও। জালালাইন দিক বলে দেয়, সমুদ্রের দিকে। ইবন কাসীর যোগ করেন সেই কথা, যা হুকুমে খোলা রাখা হয়েছিল: যেখানে যেতে বলা হবে, মূসা (আঃ) তাদের নিয়ে সেখানেই যাবেন। আর রবের হুকুম তিনি ঠিক সেভাবেই পালন করলেন।"
+          },
+          {
+            "en": "Which part of the night is a question the commentators answer differently. As-Sa'di reads it as the start of the night, so that they would have time and could go at an unhurried pace. Al-Qurtubi has Musa (AS) set out with them at sahar, the last stretch before dawn. Ibn Kathir reports, from a number of the commentators, that they left at moonrise, and relays from Mujahid that the moon was eclipsed that night, closing the report with: and Allah knows best.",
+            "bn": "রাতের কোন অংশে, এ প্রশ্নে তাফসীরকারদের উত্তর এক নয়। সা'দী বলেন, রাতের শুরুতে, যাতে তারা সময় পায় আর ধীরেসুস্থে পথ চলতে পারে। কুরতুবীর বর্ণনায় মূসা (আঃ) তাদের নিয়ে বের হন সাহরির সময়ে, অর্থাৎ ভোরের ঠিক আগের প্রহরে। ইবন কাসীর একাধিক তাফসীরকারের বরাতে বলেন, তারা বেরিয়েছিল চাঁদ ওঠার সময়ে। মুজাহিদ থেকে তিনি আরও আনেন যে সে রাতে চন্দ্রগ্রহণ হয়েছিল, আর বর্ণনাটা শেষ করেন এই বলে: আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "The verse itself names only the night, and none of the three timings can be lifted into its words. They are readings, held side by side. What they share is the cover of darkness for a people leaving a land whose ruler meant to keep them. As-Sa'di closes the scene with its result: when morning came, the Children of Israel had all gone by night with Musa (AS). Ibn Kathir, moving into the next verse, has Pharaoh find their quarters empty the following morning.",
+            "bn": "আয়াত নিজে শুধু রাতের কথা বলে। তিনটি সময়ের কোনোটিকেই আয়াতের শব্দের ভেতরে ঢোকানো যায় না। এগুলো ব্যাখ্যা, পাশাপাশি রাখা। তিনটির মিল এক জায়গায়: অন্ধকারের আড়াল। যে দেশের শাসক তাদের আটকে রাখতে চায়, সেখান থেকে বেরোনোর জন্য সেই আড়ালই দরকার ছিল। সা'দী দৃশ্যটা শেষ করেন ফলাফল দিয়ে। সকাল হলে দেখা গেল, বনী ইসরাঈলের সবাই রাতেই মূসা (আঃ)-এর সঙ্গে চলে গেছে। পরের আয়াতের আলোচনায় ইবন কাসীর বলেন, পরদিন সকালে ফেরাউন তাদের বসতি খালি পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named by Allah as His",
+          "bn": "আল্লাহ যাদের বললেন আমার"
+        },
+        "p": [
+          {
+            "en": "Bi-'ibadi: with My servants. Al-Qurtubi stops on the word. Allah, he says, called them His servants because they had believed in Musa (AS). Al-Muyassar renders the phrase as those of the Children of Israel who had believed, and Tanwir al-Miqbas, the commentary carried in Ibn Abbas's name, as whoever believes in you among them. At-Tabari simply names the Children of Israel. The difference is one of emphasis: a people, or a people marked out by their faith.",
+            "bn": "বিইবাদী: আমার বান্দাদের নিয়ে। কুরতুবী এই শব্দে থেমে যান। তিনি বলেন, আল্লাহ তাদের নিজের বান্দা বলেছেন, কারণ তারা মূসা (আঃ)-এর উপর ঈমান এনেছিল। মুয়াসসার অর্থ করে, বনী ইসরাঈলের মধ্যে যারা ঈমান এনেছে। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস বলে, তাদের মধ্যে যে তোমার উপর ঈমান আনে। তাবারী সরাসরি বনী ইসরাঈলের নাম নেন। পার্থক্যটা জোরের জায়গায়। একদিকে একটি জাতি, অন্যদিকে সেই জাতি, যার পরিচয় তার ঈমান।"
+          },
+          {
+            "en": "Al-Qurtubi sets the whole command inside a pattern. It was Allah's way with His servants, he writes, to save the believers among His friends who affirm His messengers, and to destroy those of His enemies who deny them. In 26:22 Musa (AS) had reminded Pharaoh that he had enslaved the Children of Israel. Now their Lord calls them His. Before any word about escape, the verse settles whose they are, and only then tells them where to go.",
+            "bn": "কুরতুবী পুরো হুকুমটাকে একটি নিয়মের ভেতরে রাখেন। তিনি লেখেন, বান্দাদের সঙ্গে আল্লাহর রীতি এই: তাঁর যে বন্ধুরা ঈমান আনে আর রাসূলদের সত্য বলে মানে, তিনি তাদের বাঁচান। আর তাঁর যে দুশমনরা রাসূলদের মিথ্যা বলে, তাদের ধ্বংস করেন। ২৬:২২ আয়াতে মূসা (আঃ) ফেরাউনকে মনে করিয়ে দিয়েছিলেন, সে বনী ইসরাঈলকে গোলাম বানিয়ে রেখেছে। এখন তাদের রব তাদের বলছেন আমার বান্দা। পালানোর কথা বলার আগেই আয়াত ঠিক করে দেয় তারা কার। তারপর বলে, কোথায় যেতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Chase Announced Beforehand",
+          "bn": "ধাওয়ার খবর আগেই"
+        },
+        "p": [
+          {
+            "en": "Innakum muttaba'un: you will be pursued. The commentators agree on who would pursue and differ only slightly on the aim. At-Tabari says Pharaoh and his troops would follow Musa (AS) and his people to come between them and their leaving the land of Egypt; al-Baghawi says the same in almost the same words. Al-Qurtubi puts the purpose as bringing them back. Either way, the pursuit was meant to undo the exodus, not merely to watch it go.",
+            "bn": "ইন্নাকুম মুত্তাবাউন: তোমাদের পিছু নেওয়া হবে। কে পিছু নেবে, তাতে তাফসীরকারেরা একমত। উদ্দেশ্য নিয়ে তাঁদের কথায় সামান্য তফাত। তাবারী বলেন, ফেরাউন ও তার সৈন্যরা মূসা (আঃ) ও তাঁর কওমের পিছু নেবে, যাতে মিসর ভূমি ছেড়ে যাওয়ার পথে বাধা হয়ে দাঁড়াতে পারে। বাগাভীও প্রায় হুবহু একই কথা বলেন। কুরতুবীর ভাষায় উদ্দেশ্য ছিল তাদের ফিরিয়ে আনা। যেভাবেই বলা হোক, ধাওয়াটা নিছক চেয়ে দেখার জন্য ছিল না। ছিল বেরিয়ে যাওয়াটাকে পণ্ড করার জন্য।"
+          },
+          {
+            "en": "Why tell them at all? Al-Muyassar joins the two halves of the verse as cause and command: travel by night, because Pharaoh and his armies will follow you, so that they do not overtake you before you reach the sea. Maududi reads the warning the same way, as showing the wisdom of the night departure: before Pharaoh could come out with his hosts, the people should already be far enough to be out of his reach. On this reading the warning is practical. It tells them why the hour matters.",
+            "bn": "তাদের আগে থেকে জানানো হলো কেন? মুয়াসসার আয়াতের দুই অংশকে কারণ আর হুকুম হিসেবে জুড়ে দেয়। রাতে বেরিয়ে পড়ো, কারণ ফেরাউন ও তার বাহিনী তোমাদের পিছু নেবে, যেন সমুদ্রে পৌঁছানোর আগে তারা তোমাদের ধরে ফেলতে না পারে। মওদূদীও সতর্কবার্তাটা এভাবেই পড়েন। তাঁর মতে এতে বোঝা যায় রাতে রওনা দেওয়ার হিকমত। ফেরাউন বাহিনী নিয়ে বের হওয়ার আগেই তারা যেন এতটা দূরে চলে যায় যে তার নাগাল না পায়। এই ব্যাখ্যায় সতর্কবার্তার কাজ বাস্তব। সময়টা কেন জরুরি, তা বুঝিয়ে দেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi hears a second note in the same words: folded into this speech, he says, is the information that Allah would save them from their pursuers. Al-Jalalayn spells the plan out in Allah's voice: Pharaoh and his armies will pursue you, and when they enter the sea after you, I will deliver you and drown them. The pursuit, then, was no threat that slipped past the decree. It was foretold before the first step, and as-Sa'di adds that it came about exactly as He had said.",
+            "bn": "কুরতুবী একই কথার ভেতরে আরেকটি সুর শোনেন। তিনি বলেন, এই বাক্যের ভেতরেই তাদের জানিয়ে দেওয়া হয়েছে যে আল্লাহ ধাওয়াকারীদের হাত থেকে তাদের বাঁচাবেন। জালালাইন পরিকল্পনাটা আল্লাহর জবানিতে খুলে বলে: ফেরাউন ও তার বাহিনী তোমাদের পিছু নেবে, আর তারা যখন তোমাদের পেছনে সমুদ্রে ঢুকবে, আমি তোমাদের বাঁচাব আর তাদের ডুবিয়ে দেব। তাহলে ধাওয়াটা এমন কোনো বিপদ ছিল না, যা তাকদিরের নজর এড়িয়ে ঘটে গেছে। প্রথম পা ফেলার আগেই তার খবর দেওয়া হয়েছিল। সা'দী যোগ করেন, তিনি যেমন বলেছিলেন, ঠিক তেমনই ঘটেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Off the Road to Sham",
+          "bn": "শামের পথ বাঁয়ে রেখে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's phrase, wherever he would be commanded, finds its picture in al-Qurtubi. Musa (AS) went out with the Children of Israel at sahar, left the road to Sham on his left and turned towards the sea. A man of the Children of Israel would speak to him about leaving the road, and he would answer: this is how I was commanded. Al-Qurtubi tells this as narrative, with no chain of transmission given, and the verse itself names no route at all.",
+            "bn": "ইবন কাসীরের কথা, যেখানে যেতে বলা হবে, তার ছবি পাওয়া যায় কুরতুবীর বর্ণনায়। মূসা (আঃ) সাহরির সময়ে বনী ইসরাঈলকে নিয়ে বের হলেন। শামের দিকের পথটা বাঁ হাতে রেখে তিনি মুখ ফেরালেন সমুদ্রের দিকে। বনী ইসরাঈলের কোনো লোক পথ ছেড়ে দেওয়া নিয়ে তাঁকে কিছু বললে তিনি জবাব দিতেন: আমাকে এভাবেই হুকুম করা হয়েছে। কুরতুবী এটি বর্ণনা হিসেবে বলেন, কোনো সনদ উল্লেখ করেন না। আর আয়াত নিজে কোনো পথের নামই নেয় না।"
+          },
+          {
+            "en": "The familiar road seemed the way out of danger; the commanded one led, to every human eye, towards a dead end. Musa (AS) is not given the whole route, only the hour, the company and the warning. What happens at the water belongs to verses still ahead. Here the point is nearer: obedience that begins before it understands, from a messenger who meets a reasonable question with the one answer he has, the command he was given.",
+            "bn": "চেনা পথটাকেই মনে হচ্ছিল বিপদ থেকে বেরোনোর রাস্তা। আর যে পথে যেতে বলা হয়েছে, মানুষের চোখে তা গিয়ে ঠেকেছে এক বন্ধ জায়গায়। মূসা (আঃ)-কে পুরো রাস্তা দেখানো হয়নি। দেওয়া হয়েছে শুধু সময়, সঙ্গী আর সতর্কবার্তা। সমুদ্রের পাড়ে কী ঘটল, তা সামনের আয়াতের বিষয়। এখানকার শিক্ষা আরও কাছের। আনুগত্য শুরু হয় সব বোঝার আগেই। যুক্তিসঙ্গত প্রশ্নের জবাবে এক রাসূল দেন তাঁর কাছে থাকা একটিমাত্র উত্তর: যে হুকুম তিনি পেয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Told of That Night",
+          "bn": "সে রাত নিয়ে নানা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Around the bare command the commentators gather details the verse does not give. Ibn Kathir says Musa (AS) led them out after they had borrowed a great deal of jewellery from Pharaoh's people. He tells too that Musa asked after the grave of Yusuf (AS), that an old woman of the Children of Israel showed him where it was, and that they carried his coffin with them, since Yusuf, it is said, had asked in his will to be taken along whenever they left Egypt. The verse is silent on all of it.",
+            "bn": "খালি হুকুমটার চারপাশে তাফসীরকারেরা এমন সব খুঁটিনাটি জড়ো করেন, যা আয়াতে নেই। ইবন কাসীর বলেন, ফেরাউনের লোকদের কাছ থেকে প্রচুর গয়না ধার নেওয়ার পর মূসা (আঃ) তাদের নিয়ে বের হন। তিনি আরও বলেন, মূসা (আঃ) ইউসুফ (আঃ)-এর কবরের খোঁজ করেছিলেন। বনী ইসরাঈলের এক বৃদ্ধা তাঁকে জায়গাটা দেখিয়ে দেয়, আর তারা তাঁর কফিন সঙ্গে নিয়ে যায়। বলা হয়, ইউসুফ (আঃ) অসিয়ত করে গিয়েছিলেন, বনী ইসরাঈল যখনই মিসর ছাড়বে, তাঁকে যেন সঙ্গে নেয়। এর কোনোটির কথাই আয়াতে নেই।"
+          },
+          {
+            "en": "Ibn Kathir then cites a narration through Ibn Abi Hatim, from Abu Musa, in which the Prophet ﷺ tells of that old woman, who asked, as her price for showing the grave, to be with Musa (AS) in Paradise. His own verdict follows at once: a very strange hadith, and the likelier view is that it is mawquf, stopping at the Companion rather than reaching the Prophet ﷺ. It is reported here with that grading and no more. None of the commentaries read for this verse attaches a sound hadith to it.",
+            "bn": "এরপর ইবন কাসীর ইবন আবী হাতিমের সূত্রে আবু মূসা (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে নবী ﷺ সেই বৃদ্ধার কথা বলেন। কবর দেখিয়ে দেওয়ার বিনিময়ে সে চেয়েছিল জান্নাতে মূসা (আঃ)-এর সঙ্গে থাকতে। সঙ্গে সঙ্গেই ইবন কাসীর নিজের রায় দেন: হাদীসটি খুবই গরীব, আর বেশি সম্ভাবনা এটি মাওকূফ, অর্থাৎ সাহাবী পর্যন্ত গিয়ে থেমেছে, নবী ﷺ পর্যন্ত পৌঁছায়নি। এখানে তাঁর এই মান নির্ণয়সহই বর্ণনাটা উল্লেখ করা হলো, এর বেশি কিছু নয়। এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস জোড়েনি।"
+          },
+          {
+            "en": "Al-Baghawi relays a longer account that stops at Ibn Jurayj: households gathered four to a house, lambs slaughtered and their blood struck on the doors so that the angels would not enter, the firstborn of Pharaoh's people struck down, unleavened bread baked because it was quicker, and then the night march to the sea. It even numbers the host Pharaoh sent after them, in figures running into the millions. It has the shape of the isra'iliyyat and is recorded here as a report, neither affirmed nor denied. The Qur'an gives no count for either side.",
+            "bn": "বাগাভী আরও লম্বা একটি বর্ণনা আনেন, যা ইবন জুরাইজে গিয়ে থেমেছে। তাতে আছে: চারটি করে পরিবার এক ঘরে জড়ো হওয়া, ভেড়ার বাচ্চা জবাই করে তার রক্ত দরজায় মাখানো, যাতে ফেরেশতারা সে ঘরে না ঢোকে, ফেরাউনের লোকদের প্রথম সন্তানদের মৃত্যু, তাড়াতাড়ি হয় বলে খামিরবিহীন রুটি সেঁকা, তারপর রাতের অন্ধকারে সমুদ্রের দিকে যাত্রা। ফেরাউন তাদের পেছনে যে বাহিনী পাঠায়, বর্ণনাটি তার সংখ্যাও দেয়, লাখ লাখ ছাড়িয়ে যাওয়া হিসাবে। এর গড়ন ইসরাঈলী বর্ণনার মতো। এখানে তা কেবল বর্ণনা হিসেবেই রাখা হলো, সত্য বা মিথ্যা কোনোটাই বলা হলো না। কুরআন কোনো পক্ষেরই সংখ্যা দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Heirs to That Night",
+          "bn": "সে রাতের কোনো উত্তরাধিকারী নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a ruler and his armies who would chase a people Allah had told to leave, and whose end the following verses go on to show. It licenses nothing against any living person or community. No one now alive is Pharaoh's people, and no nation, government, faith community or ethnic group inherits his guilt, or may be treated as his army, by anyone who reads this story.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত সেটুকুই বর্ণনা করে, যা তার শব্দে আছে: এক শাসক আর তার বাহিনী, যারা এমন এক জাতির পিছু নেবে, যাদের আল্লাহ বেরিয়ে যেতে বলেছেন। তাদের পরিণতি পরের আয়াতগুলো দেখায়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজ বেঁচে থাকা কেউ ফেরাউনের লোক নয়। কোনো জাতি, সরকার, ধর্মীয় সম্প্রদায় বা জনগোষ্ঠী তার অপরাধের উত্তরাধিকারী নয়। এ কাহিনি পড়ে কেউ কাউকে তার বাহিনী বলে গণ্য করতে পারে না।"
+          },
+          {
+            "en": "Nor are the Children of Israel of that night to be identified with any present-day state. The verse calls them My servants because, as al-Qurtubi says, they believed in Musa (AS). The honour belongs to that faith in that hour; it is not a title handed down to any modern polity, and it argues neither for nor against any such state. The story is read for what it teaches about Allah and His servants, not as a map of anyone's politics.",
+            "bn": "তেমনি সে রাতের বনী ইসরাঈলকে আজকের কোনো রাষ্ট্রের সঙ্গে এক করে দেখা যাবে না। কুরতুবীর কথায়, আয়াত তাদের আমার বান্দা বলেছে, কারণ তারা মূসা (আঃ)-এর উপর ঈমান এনেছিল। এই সম্মান সেই ঈমানের, সেই মুহূর্তের। এটি এমন কোনো উপাধি নয়, যা বংশপরম্পরায় আধুনিক কোনো রাষ্ট্রের হাতে এসেছে। কোনো রাষ্ট্রের পক্ষে বা বিপক্ষে এ আয়াত কোনো যুক্তিও দেয় না। কাহিনিটা পড়া হয় আল্লাহ আর তাঁর বান্দাদের সম্পর্কে শিক্ষা নিতে, কারও রাজনীতির নকশা হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warned, Then Sent Out",
+          "bn": "আগে সতর্ক, তারপর যাত্রা"
+        },
+        "p": [
+          {
+            "en": "The command and the warning arrive in one breath, and the order matters. Allah does not send them out first and let them discover the danger on the road. He tells them while they are still in their homes, and the night departure becomes the answer to the warning rather than a gamble. The believer is not promised a road without pursuit. He is told the truth about the road, given what he needs for the hour, and asked to trust the One who told him.",
+            "bn": "হুকুম আর সতর্কবার্তা আসে একই নিঃশ্বাসে, আর এই ক্রমটার গুরুত্ব আছে। আল্লাহ তাদের আগে বের করে দিয়ে পথে গিয়ে বিপদ টের পেতে দেননি। তারা ঘরে থাকতেই তিনি খবরটা দিয়েছেন। ফলে রাতে রওনা হওয়াটা ঝুঁকির জুয়া থাকে না, হয়ে যায় সতর্কবার্তার জবাব। মুমিনকে এমন পথের কথা দেওয়া হয় না, যেখানে কেউ পিছু নেবে না। তাকে পথের সত্যটা জানানো হয়। সময়ের জন্য যা দরকার তা দেওয়া হয়। তারপর বলা হয়, যিনি জানিয়েছেন, তাঁর উপর ভরসা রাখো।"
+          },
+          {
+            "en": "Most of what lies ahead of us is not announced so exactly, yet much has been. Faith will be tested (29:2); with hardship comes ease (94:5 and 94:6); and Musa (AS) himself told his people that the outcome belongs to the God-fearing (7:128). These are told beforehand for the same reason as innakum muttaba'un, so that the trial finds us expecting it. The question the verse leaves is whether I hear such warnings as reasons to stay where I am, or as the care of a Lord who has already planned the way through.",
+            "bn": "সামনে যা আছে, তার বেশির ভাগের খবর এত নিখুঁতভাবে দেওয়া হয় না। তবু অনেক কিছুই জানিয়ে দেওয়া হয়েছে। ঈমানের পরীক্ষা হবে (২৯:২)। কষ্টের সঙ্গেই আছে স্বস্তি (৯৪:৫ ও ৯৪:৬)। আর মূসা (আঃ) নিজেই তাঁর কওমকে বলেছিলেন, শেষ পরিণাম মুত্তাকীদের জন্য (৭:১২৮)। ইন্নাকুম মুত্তাবাউন যে কারণে আগে বলা হয়েছিল, এসবও আগে বলা হয়েছে সেই কারণেই, যাতে পরীক্ষা এলে আমরা প্রস্তুত থাকি। আয়াত শেষে একটি প্রশ্ন রেখে যায়। এমন সতর্কবার্তা শুনে আমি কি থেমে থাকার কারণ খুঁজি, নাকি বুঝি এ সেই রবের যত্ন, যিনি পার হওয়ার পথ আগেই ঠিক করে রেখেছেন?"
+          }
+        ]
+      }
+    ]
+  },
   "26:57": {
     "sections": [
       {
