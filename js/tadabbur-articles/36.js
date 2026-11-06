@@ -1735,6 +1735,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:65": {
+    "sections": [
+      {
+        "h": {
+          "en": "Today, Said a Third Time",
+          "bn": "তৃতীয়বার আজ"
+        },
+        "p": [
+          {
+            "en": "Eleven Arabic words: al-yawma nakhtimu 'ala afwahihim wa tukallimuna aydihim wa tashhadu arjuluhum bima kanu yaksibun. The scene that leads here opens at 36:59, when the criminals are told to stand apart today. Allah reminds the children of Adam of His charge not to worship Satan (36:60 to 36:62), shows them the Jahannam they were promised (36:63), and tells them to enter it today for what they used to deny (36:64). The word al-yawm, today, has now come three times, and here it opens the sentence.",
+            "bn": "১১টি আরবি শব্দ: আল-ইয়াওমা নাখতিমু আলা আফওয়াহিহিম, ওয়া তুকাল্লিমুনা আইদীহিম, ওয়া তাশহাদু আরজুলুহুম বিমা কানূ ইয়াকসিবূন। দৃশ্যটা শুরু হয়েছে ৩৬:৫৯ আয়াতে, যেখানে অপরাধীদের বলা হয়: আজ তোমরা আলাদা হয়ে যাও। তারপর আল্লাহ আদম সন্তানদের মনে করিয়ে দেন, তিনি শয়তানের ইবাদত না করার নির্দেশ দিয়েছিলেন (৩৬:৬০ থেকে ৩৬:৬২)। তাদের সামনে আনা হয় সেই জাহান্নাম, যার ভয় দেখানো হয়েছিল (৩৬:৬৩)। বলা হয়, অস্বীকারের কারণে আজ তাতে প্রবেশ কর (৩৬:৬৪)। আল-ইয়াওম, আজ, শব্দটা এ নিয়ে তিনবার এল। এবার বাক্যটা শুরুই হচ্ছে তা দিয়ে।"
+          },
+          {
+            "en": "Something shifts in the grammar. Up to 36:64 these people are addressed directly: you were promised, you used to disbelieve. Here the speech turns to speak about them: their mouths, their hands, their feet. Those who had been answering are no longer the ones answered, and the next witnesses are named as though their owners had left the conversation. The verse after this one, 36:66, turns to what Allah could do in this world if He willed, wiping out their eyes; it has its own readings and stays context here.",
+            "bn": "ব্যাকরণে একটা বদল ঘটে। ৩৬:৬৪ পর্যন্ত এদের সরাসরি সম্বোধন করা হচ্ছিল: তোমাদের ভয় দেখানো হয়েছিল, তোমরা অস্বীকার করতে। এ আয়াতে কথা চলে যায় তাদের সম্পর্কে: তাদের মুখ, তাদের হাত, তাদের পা। যারা এতক্ষণ জবাব দিচ্ছিল, তাদের সঙ্গে আর কথা হচ্ছে না। পরের সাক্ষীদের নাম আসছে এমনভাবে, যেন মালিকেরা কথোপকথন থেকে বাদ পড়ে গেছে। পরের আয়াত ৩৬:৬৬ বলে, আল্লাহ চাইলে এ দুনিয়াতেই তাদের চোখ মুছে দিতে পারতেন। সে আয়াতের নিজস্ব ব্যাখ্যা আছে, এখানে তা শুধু প্রসঙ্গ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Stamp Upon the Mouth",
+          "bn": "মুখের উপর মোহর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses nakhtimu as natba'u: We will stamp a seal upon the mouths of the idolaters, and that is on the Day of Resurrection. The Muyassar uses the same verb and adds the result: so they do not speak. As-Sa'di explains it as making them mute, khurs, so that they cannot talk, and then names what the silence does: they are unable to deny the disbelief and the belying they committed. On his reading the seal shuts the one door through which denial could still come.",
+            "bn": "তাবারী নাখতিমু শব্দের ব্যাখ্যা দেন নাতবাউ দিয়ে: আমি মুশরিকদের মুখে মোহর এঁটে দেব, আর সেটা কিয়ামতের দিন। মুয়াসসার একই ক্রিয়া ব্যবহার করে ফলটাও জুড়ে দেয়: ফলে তারা কথা বলতে পারবে না। সা'দীর ব্যাখ্যায় তাদের বোবা, খুরস, বানিয়ে দেওয়া হবে, যাতে মুখ খুলতে না পারে। তারপর তিনি বলে দেন, এই নীরবতা কী কাজ করে: যে কুফর আর মিথ্যারোপ তারা করেছিল, তা অস্বীকার করার ক্ষমতা আর থাকে না। তাঁর পাঠে মোহরটা বন্ধ করে দেয় সেই একমাত্র দরজা, যেখান দিয়ে তখনো অস্বীকার বেরিয়ে আসতে পারত।"
+          },
+          {
+            "en": "Whose mouths? At-Tabari and the Muyassar say the idolaters, al-mushrikin. Ibn Kathir widens the circle: this is the state of the disbelievers and the hypocrites on the Day of Resurrection, when they deny the crimes they committed in the world and swear that they did not do them, so Allah seals their mouths and makes their limbs speak of what they did. Al-Baghawi ties it to a moment: this is when the disbelievers deny their disbelief and their belying of the messengers.",
+            "bn": "কাদের মুখ? তাবারী ও মুয়াসসার বলেন মুশরিকদের। ইবন কাসীর পরিধিটা বাড়ান: কিয়ামতের দিন কাফির আর মুনাফিকদের এই অবস্থা হবে। দুনিয়ায় যে অপরাধ তারা করেছে তা অস্বীকার করবে, কসম খেয়ে বলবে তারা এসব করেনি। তখন আল্লাহ তাদের মুখে মোহর এঁটে দেবেন, আর অঙ্গগুলোকে দিয়ে বলাবেন তারা কী করেছে। বাগাভী একে একটা নির্দিষ্ট মুহূর্তের সঙ্গে বাঁধেন: এটা তখন, যখন কাফিররা নিজেদের কুফর আর রাসূলদের মিথ্যা বলার কথা অস্বীকার করবে।"
+          },
+          {
+            "en": "The verse describes what it describes: a scene on the Day of Judgement, among people the commentators name by their deeds and their end. It licenses nothing against any living person or community. No reader may lift the words idolater or hypocrite from these explanations and fasten them on a neighbour, a rival or a group. What the verse hands the living is a question about their own hands and feet, and the commentators below keep returning to it.",
+            "bn": "আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: বিচারের দিনের একটি দৃশ্য, যেখানকার মানুষদের তাফসীরকারেরা চিনিয়ে দেন তাদের আমল আর পরিণতি দিয়ে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এসব ব্যাখ্যা থেকে মুশরিক বা মুনাফিক শব্দ তুলে নিয়ে প্রতিবেশী, প্রতিপক্ষ বা কোনো দলের গায়ে লাগিয়ে দেওয়ার অধিকার কোনো পাঠকের নেই। জীবিতদের হাতে আয়াতটি তুলে দেয় নিজের হাত আর পা নিয়ে একটা প্রশ্ন। নিচের তাফসীরকারেরা বারবার সেই প্রশ্নেই ফিরে আসেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Doer and the Bystander",
+          "bn": "যে করেছে আর যে হাজির ছিল"
+        },
+        "p": [
+          {
+            "en": "The verse gives the hands one verb and the feet another: tukallimuna aydihim, their hands speak to Us, and tashhadu arjuluhum, their feet testify. Al-Qurtubi asks the question outright: why make what comes from the hand speech, and what comes from the foot testimony? His answer is that the hand carries out the deed, while the foot is present at it. What one who was present says about another is testimony; what the doer says about himself is an admission of what he said or did.",
+            "bn": "আয়াতটি হাতের জন্য একটি ক্রিয়া আর পায়ের জন্য আরেক ক্রিয়া বেছে নিয়েছে: তুকাল্লিমুনা আইদীহিম, তাদের হাত আমার সঙ্গে কথা বলবে। তাশহাদু আরজুলুহুম, তাদের পা সাক্ষ্য দেবে। কুরতুবী প্রশ্নটা সরাসরি তোলেন: হাত থেকে যা আসে তাকে কথা, আর পা থেকে যা আসে তাকে সাক্ষ্য বলা হলো কেন? তাঁর উত্তর: কাজটা হাত নিজে করে, পা শুধু সেখানে হাজির থাকে। যে হাজির ছিল, সে অন্যের ব্যাপারে যা বলে তা সাক্ষ্য। আর যে নিজে করেছে, সে নিজের ব্যাপারে যা বলে তা স্বীকারোক্তি।"
+          },
+          {
+            "en": "So, in al-Qurtubi's reading, the hands confess and the feet bear witness. The Muyassar fills the two verbs with deeds: their hands speak of what they seized by force, batashat, and their feet testify to what they strove towards in the world and the sins they earned. At-Tabari reads the hands' speech as the acts of disobedience to Allah they committed in the world. As-Sa'di puts both under one heading: their limbs testify against them with what they did, made to speak by the One who made everything speak.",
+            "bn": "কুরতুবীর পাঠে তাই হাত দোষ স্বীকার করে, আর পা সাক্ষী হয়। মুয়াসসার দুই ক্রিয়ার ভেতরে কাজগুলো বসিয়ে দেয়: হাত বলবে জোর খাটিয়ে কী ধরেছিল, বাতাশাত। পা সাক্ষ্য দেবে দুনিয়ায় কোন দিকে ছুটেছিল, আর কোন গুনাহ কামিয়েছিল। তাবারীর পাঠে হাতের কথা মানে দুনিয়ায় আল্লাহর যেসব নাফরমানি তারা করেছিল তার বিবরণ। সা'দী দুটোকে একই শিরোনামের নিচে আনেন: তাদের অঙ্গগুলো তাদের কাজের সাক্ষ্য দেবে। তাদের কথা বলাবেন তিনি, যিনি সব কিছুকে কথা বলান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Mouth Is Closed",
+          "bn": "মুখ বন্ধের কারণ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then lists four views on why the mouths are sealed. The first, which he credits to Abu Musa al-Ash'ari (RA), is that they said, by Allah, our Lord, we were not those who associated partners (6:23), so Allah sealed their mouths until their limbs spoke. The second is that the people gathered at the standing place should recognise them, so that they are marked out from the rest. Both make the seal an answer to something: the first to a lie, the second to a crowd.",
+            "bn": "এরপর কুরতুবী মুখে মোহর দেওয়ার কারণ নিয়ে চারটি মত তুলে ধরেন। প্রথম মতটি তিনি আবু মূসা আশআরী (রাঃ)-এর নামে আনেন: তারা বলেছিল, আল্লাহর কসম, হে আমাদের রব, আমরা শিরককারী ছিলাম না (৬:২৩)। তাই আল্লাহ তাদের মুখে মোহর দিলেন, যতক্ষণ না অঙ্গগুলো কথা বলল। দ্বিতীয় মত: হাশরের ময়দানে সমবেত মানুষ যেন তাদের চিনতে পারে, আর তারা বাকিদের থেকে আলাদা হয়ে যায়। দুটো মতেই মোহর কোনো কিছুর জবাব। প্রথমটায় এক মিথ্যার জবাব, দ্বিতীয়টায় এক ভিড়ের সামনে।"
+          },
+          {
+            "en": "The third is about the weight of the proof. An admission from something that does not normally speak is more conclusive than a speaker's, because it comes as a wonder, even on a day that needs no wonder. The fourth reaches the centre of the scene: that the person should know the limbs which had been his helpers in his own interest have become witnesses against him in his Lord's right. The hand that served his wants now serves the truth about him.",
+            "bn": "তৃতীয় মতটি প্রমাণের ওজন নিয়ে। যে জিনিস সাধারণত কথা বলে না, তার স্বীকারোক্তি কথা-বলা মুখের স্বীকারোক্তির চেয়ে বেশি অকাট্য। কারণ তা আসে অলৌকিক হয়ে, যদিও সেদিন অলৌকিকের কোনো প্রয়োজন নেই। চতুর্থ মতটি দৃশ্যের একেবারে মাঝখানে পৌঁছে যায়। মানুষটা যেন জেনে নেয়, যে অঙ্গগুলো নিজের স্বার্থে তার সহায় ছিল, রবের হকের প্রশ্নে সেগুলোই তার বিরুদ্ধে সাক্ষী হয়ে গেছে। যে হাত তার চাহিদা মেটাত, সেই হাতই এখন তার সম্পর্কে সত্য বলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Oaths First, Then Silence",
+          "bn": "আগে কসম, তারপর নীরবতা"
+        },
+        "p": [
+          {
+            "en": "Elsewhere the Qur'an has these same people speaking on the Day, even swearing. Ma'arif al-Qur'an sets the two side by side. At the reckoning everyone will be free to offer whatever excuse he has, and the idolaters will declare on oath that they never had anything to do with shirk, as in 6:23: by Allah, our Lord, we were not idolaters. Some will also say they are free of what the angels wrote in their record. At that point, Ma'arif says, Allah seals their mouths.",
+            "bn": "কুরআনের অন্য জায়গায় এই মানুষেরাই সেদিন কথা বলে, এমনকি কসমও খায়। মাআরিফুল কুরআন দুটি কথাকে পাশাপাশি রাখে। হিসাবের সময় প্রত্যেকে নিজের যত অজুহাত আছে পেশ করার সুযোগ পাবে। মুশরিকরা কসম খেয়ে বলবে, শিরক আর কুফরের সঙ্গে তাদের কোনো সম্পর্কই ছিল না, যেমন ৬:২৩ আয়াতে: আল্লাহর কসম, হে আমাদের রব, আমরা মুশরিক ছিলাম না। কেউ কেউ এ কথাও বলবে, ফেরেশতারা আমলনামায় যা লিখেছে তার দায় তাদের নয়। মাআরিফুল কুরআন বলে, ঠিক তখনই আল্লাহ তাদের মুখে মোহর এঁটে দেবেন।"
+          },
+          {
+            "en": "Qatada, in at-Tabari's report, puts the order in one sentence: there were disputes and talk, and this was the last of it, We seal their mouths. On this reading the verses where they speak and the verse where they are silenced do not collide; they describe moments in sequence, and the seal falls after the denials have been spoken. The hadith in the next section keeps the same order and adds a step: once the limbs have spoken, the man is left free to talk again.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা ক্রমটা এক বাক্যে বলে দেন: ঝগড়া-বিবাদ আর কথাবার্তা হয়েছিল, আর এটাই ছিল তার শেষ, আমি তাদের মুখে মোহর এঁটে দিই। এই পাঠে যে আয়াতগুলোতে তারা কথা বলে আর যে আয়াতে তাদের চুপ করানো হয়, সেগুলোর মধ্যে কোনো বিরোধ থাকে না। এগুলো পরপর ঘটা ভিন্ন ভিন্ন মুহূর্তের বর্ণনা। অস্বীকারের কথাগুলো বলা হয়ে যাওয়ার পরেই মোহর পড়ে। পরের অংশের হাদিসটিও একই ক্রম রাখে, সঙ্গে আরেকটা ধাপ যোগ করে: অঙ্গগুলোর কথা শেষ হলে মানুষটাকে আবার কথা বলার সুযোগ দেওয়া হয়।"
+          },
+          {
+            "en": "A second question comes from 24:24, where their tongues too testify against them. Ma'arif al-Qur'an answers that this does not contradict the seal, because the seal means they cannot say anything of their own will; the tongue then speaks against its owner's choice and testifies to the truth. Ma'arif also places this verse beside 41:20, where hearing, eyes and skins testify, and 41:21, where the limbs say that Allah, who gave speech to everything, gave it to them. Those verses are read in their own places.",
+            "bn": "দ্বিতীয় প্রশ্ন ওঠে ২৪:২৪ আয়াত থেকে, যেখানে তাদের জিভও তাদের বিরুদ্ধে সাক্ষ্য দেয়। মাআরিফুল কুরআনের জবাব: এতে মোহরের সঙ্গে কোনো বিরোধ নেই। মোহরের অর্থ, নিজের ইচ্ছায় তারা কিছুই বলতে পারবে না। জিভ তখন মালিকের ইচ্ছার বিরুদ্ধে কথা বলবে, সত্যের সাক্ষ্য দেবে। মাআরিফুল কুরআন এ আয়াতকে ৪১:২০ আয়াতের পাশেও রাখে, যেখানে কান, চোখ আর চামড়া সাক্ষ্য দেয়। আর ৪১:২১ আয়াতের পাশে, যেখানে অঙ্গগুলো বলে, যে আল্লাহ সব কিছুকে কথা বলিয়েছেন, তিনিই তাদের কথা বলিয়েছেন। সেসব আয়াতের আলোচনা তাদের নিজ নিজ জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Servant Who Asked for Himself",
+          "bn": "যে বান্দা নিজেকেই সাক্ষী চাইল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, al-Qurtubi and al-Baghawi all bring one narration from Anas ibn Malik (RA) to this verse. Al-Qurtubi and al-Baghawi give it from Sahih Muslim; Ibn Kathir gives it through Ibn Abi Hatim and then notes that Muslim and an-Nasa'i recorded it. It appears here in one collection's wording only, Sahih Muslim (2969), whole, as the English rendering on quranx.com has it. It begins: \"Anas b. Malik reported: We were in the company of Allah's Messenger (ﷺ) when he smiled, and said: Do you know why I laughed?",
+            "bn": "ইবন কাসীর, কুরতুবী ও বাগাভী তিনজনই এ আয়াতের আলোচনায় আনাস ইবন মালিক (রাঃ)-এর একটি বর্ণনা আনেন। কুরতুবী ও বাগাভী সেটি নেন সহীহ মুসলিম থেকে। ইবন কাসীর আনেন ইবন আবী হাতিমের সূত্রে, তারপর জানান যে মুসলিম ও নাসাঈ এটি বর্ণনা করেছেন। এখানে শুধু একটি গ্রন্থের ভাষ্য পুরোটা দেওয়া হলো, সহীহ মুসলিম (২৯৬৯)। আনাস (রাঃ) বলেন: আমরা আল্লাহর রাসূল ﷺ-এর কাছে ছিলাম। তিনি হাসলেন, তারপর বললেন: তোমরা কি জানো আমি কেন হাসছি?"
+          },
+          {
+            "en": "We said: Allah and His Messenger, know best. Thereupon he said: It was because (there came to my mind the) talk which the servant would have with his Lord (on the Day of judgment). He would say: My Lord, have you not guaranteed me protection against injustice? He would say: Yes. Then the servant would say: I do not deem valid any witness against me but my own self, and He would say: Well, enough would be the witness of your self against you and that of the two angels who had been appointed to record your deeds.",
+            "bn": "আমরা বললাম: আল্লাহ ও তাঁর রাসূলই ভালো জানেন। তিনি বললেন: বান্দা তার রবের সঙ্গে যে কথা বলবে, তা থেকে। সে বলবে: হে আমার রব, আপনি কি আমাকে জুলুম থেকে নিরাপত্তা দেননি? তিনি বলবেন: হ্যাঁ। বান্দা বলবে: তাহলে আমার বিরুদ্ধে আমার নিজের ভেতরের সাক্ষী ছাড়া আর কারও সাক্ষ্য আমি মানব না। তিনি বলবেন: আজ তোমার বিরুদ্ধে সাক্ষী হিসেবে তুমি নিজেই যথেষ্ট, আর সাক্ষী হিসেবে যথেষ্ট তোমার আমল লেখার দায়িত্বে থাকা দুই সম্মানিত ফেরেশতা।"
+          },
+          {
+            "en": "Then the seal would be set upon his mouth and it would be said to his hands and feet to speak and they would speak of his deeds. Then the mouth would be made free to talk, he would say (to the hands and feet): Be away, let there be curse of Allah upon you. It was for your safety that I contended.\" That is the whole narration. Muslim placed it in his Sahih, which is his own judgement of it, and nothing more is claimed for it here.",
+            "bn": "তারপর তার মুখে মোহর এঁটে দেওয়া হবে, আর তার অঙ্গপ্রত্যঙ্গকে বলা হবে: কথা বলো। তখন সেগুলো তার আমলের কথা বলে দেবে। এরপর তাকে কথা বলার সুযোগ ফিরিয়ে দেওয়া হবে। সে বলবে: দূর হও তোমরা, ধ্বংস হও। তোমাদের হয়েই তো আমি লড়ছিলাম। এটুকুই পুরো বর্ণনা। মুসলিম একে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন, সেটাই তাঁর নিজের রায়। এখানে এর বেশি কিছু দাবি করা হচ্ছে না।"
+          },
+          {
+            "en": "Two notes. Where the English has hands and feet, the Arabic has arkanihi, his supports, the members of his body. And the servant's demand carries the turn of the scene: he asks for a witness from his own self, sure that none could be brought against him, and he receives exactly that. His last words, it was for you that I was contending, are spoken to the very limbs he had been defending. The Prophet ﷺ laughed as he told of it; for the servant who lives it, nothing in it is light.",
+            "bn": "দুটি কথা খেয়াল করার মতো। quranx-এর ইংরেজি অনুবাদে আছে হাত ও পা। আরবিতে শব্দটা আরকানিহি, তার দেহের খুঁটিগুলো, অর্থাৎ অঙ্গপ্রত্যঙ্গ। আর বান্দার দাবির ভেতরেই দৃশ্যের মোড়। সে নিজের ভেতর থেকে সাক্ষী চায়, ভাবে এমন সাক্ষী কেউ আনতে পারবে না। ঠিক সেটাই তাকে দেওয়া হয়। তার শেষ কথা, তোমাদের হয়েই তো লড়ছিলাম, সে বলে সেই অঙ্গগুলোকেই, যাদের পক্ষ নিয়ে এতক্ষণ সে তর্ক করছিল। নবী ﷺ কথাটা বলতে গিয়ে হেসেছিলেন। কিন্তু যে বান্দার জীবনে এটা ঘটবে, তার জন্য এতে হালকা কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Admitted in Private, Then Covered",
+          "bn": "গোপনে স্বীকার, তারপর ঢেকে রাখা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and Ibn Kathir also carry a statement of Abu Musa al-Ash'ari (RA), given as his own words rather than the Prophet's. The believer is called to account on the Day of Resurrection, and his Lord shows him his deeds privately, between Himself and him. He admits them: yes, my Lord, I did, I did, I did. Allah forgives him his sins and conceals them, so that no creature on earth sees any of them, while his good deeds appear, and he wishes all people could see those.",
+            "bn": "তাবারী ও ইবন কাসীর আবু মূসা আশআরী (রাঃ)-এর একটি কথাও আনেন। এটি তাঁর নিজের কথা হিসেবেই বর্ণিত, নবী ﷺ-এর বাণী হিসেবে নয়। কিয়ামতের দিন মুমিনকে হিসাবের জন্য ডাকা হবে। তার রব তাকে তার আমল দেখাবেন একান্তে, শুধু তাঁর আর তার মাঝে। সে স্বীকার করবে: হ্যাঁ, হে রব, আমি করেছি, করেছি, করেছি। আল্লাহ তার গুনাহ মাফ করে দেবেন, ঢেকে রাখবেন। পৃথিবীর কোনো সৃষ্টি সেসব গুনাহর কিছুই দেখবে না। আর তার নেক আমলগুলো প্রকাশ পাবে, সে চাইবে সব মানুষ সেগুলো দেখুক।"
+          },
+          {
+            "en": "Then the disbeliever and the hypocrite are called, shown their deeds, and deny them: by Your might, my Lord, this angel has written against me what I did not do. The angel says: did you not do such a thing, on such a day, in such a place? He says: no, by Your might, my Lord, I did not. When he does that, his mouth is sealed. Abu Musa adds that he thinks the first of him to speak will be his right thigh, and then he recites this verse.",
+            "bn": "তারপর কাফির আর মুনাফিককে ডাকা হবে, তাদের আমল দেখানো হবে, আর তারা অস্বীকার করবে: হে রব, আপনার ইজ্জতের কসম, এই ফেরেশতা আমার নামে এমন কিছু লিখেছে যা আমি করিনি। ফেরেশতা বলবে: অমুক দিন, অমুক জায়গায় তুমি কি অমুক কাজ করোনি? সে বলবে: না, হে রব, আপনার ইজ্জতের কসম, আমি তা করিনি। এ কথা বলতেই তার মুখে মোহর পড়বে। আবু মূসা যোগ করেন, তাঁর ধারণা, তার শরীরের যে অংশ প্রথম কথা বলবে তা ডান উরু। তারপর তিনি এ আয়াত তিলাওয়াত করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Helpers Who Turn Witness",
+          "bn": "সহায় যখন সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's fourth reason gives the verse its edge for the living: the limbs that were helpers become witnesses. Every hand and foot is in that double role already. They act for us now and will report on us later, and nothing they report will be news to them. The servant in Anas's narration argued on their behalf, and they spoke against him. The believer in Abu Musa's words argued with no one, admitted what he had done, and was covered. Between the two lies the use of the mouth while it is still free.",
+            "bn": "কুরতুবীর চতুর্থ কারণটি জীবিতদের জন্য আয়াতটিকে ধারালো করে তোলে: যে অঙ্গ সহায় ছিল, সে-ই সাক্ষী হয়ে যায়। প্রতিটি হাত আর পা এখনই এই দুই ভূমিকায় আছে। আজ তারা আমাদের হয়ে কাজ করে, পরে আমাদের সম্পর্কে খবর দেবে, আর যা বলবে তার কিছুই তাদের অজানা নয়। আনাস (রাঃ)-এর বর্ণনার বান্দা তাদের পক্ষ নিয়ে তর্ক করেছিল, আর তারাই তার বিরুদ্ধে কথা বলেছিল। আবু মূসা (রাঃ)-এর কথার মুমিন কারও সঙ্গে তর্ক করেনি, যা করেছিল স্বীকার করেছিল, আর তাকে ঢেকে দেওয়া হয়েছিল। দুজনের ফারাক এখানেই: মুখ খোলা থাকতে থাকতে তা কীভাবে ব্যবহার করা হয়েছে।"
+          },
+          {
+            "en": "A few practices follow. Before sleep, give the hands and feet a short hearing: where did you go today, what did you take, what did you give? Whatever they report, take it to Allah in istighfar while the mouth is still free and the admission is still private. When a fault of yours is named and it is true, let the first words be an admission rather than an oath. And give the limb that most often serves you in disobedience some act of obedience, so that it has better things to describe.",
+            "bn": "এ থেকে কয়েকটি অভ্যাস বেরিয়ে আসে। ঘুমানোর আগে হাত আর পায়ের কাছে ছোট্ট একটা হিসাব নিন: আজ কোথায় গেলে, কী নিলে, কী দিলে? তারা যা জানায়, তা ইস্তিগফারে আল্লাহর কাছে নিয়ে যান, মুখ যতক্ষণ খোলা আর স্বীকারোক্তি যতক্ষণ গোপন। কেউ আপনার কোনো দোষ ধরিয়ে দিলে, আর তা সত্য হলে, প্রথম কথাটা হোক স্বীকারোক্তি, কসম নয়। আর যে অঙ্গটি সবচেয়ে বেশি নাফরমানিতে আপনার কাজে লাগে, তাকে কোনো আনুগত্যের কাজে লাগান, যাতে সেদিন বলার মতো ভালো কিছু তার কাছে থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "36:69": {
     "sections": [
       {

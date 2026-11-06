@@ -25589,6 +25589,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The animals that carry and feed you were made to yield by Allah, not by your strength, so let every ride and every meal become thanks to Him.",
     "lessonBn": "যে পশু আপনাকে বহন করে আর খাওয়ায়, তাকে আপনার শক্তি নয়, আল্লাহই বশ করে দিয়েছেন। তাই প্রতিটি সওয়ারি আর প্রতিটি খাবার হোক তাঁর শুকরিয়া।"
+  },
+  "36:65": {
+    "reflectionEn": "The Fire has just been shown: this is what you were promised, enter it today. Then the voice stops speaking to them and speaks about them. Their mouths are sealed. The hands that did the deeds now speak, and the feet that carried them to it bear witness. A tongue can swear, deny and argue, but these witnesses were present for everything. The verse is not only about strangers on a distant Day. My hands are already keeping a record of what they take and give. My feet already know where they have walked. What would they say about me if they were asked today, and would I want to hear it before that Day comes?",
+    "reflectionBn": "জাহান্নাম সামনে আনা হয়েছে: এটাই সেই আগুন, যার ভয় তোমাদের দেখানো হয়েছিল, আজ এতে প্রবেশ কর। তারপর কথা আর তাদের দিকে ফেরানো থাকে না, কথা হয় তাদের সম্পর্কে। তাদের মুখে মোহর পড়ে যায়। যে হাত কাজগুলো করেছিল, সে-ই এখন কথা বলে। যে পা তাকে সেখানে বয়ে নিয়ে গিয়েছিল, সে সাক্ষ্য দেয়। জিভ কসম খেতে পারে, অস্বীকার করতে পারে, তর্ক জুড়তে পারে। কিন্তু এই সাক্ষীরা প্রতিটি ঘটনায় হাজির ছিল। আয়াতটি কেবল দূরের কোনো দিনের অচেনা লোকদের কথা নয়। আমার হাত এখনই হিসাব রাখছে, কী নিচ্ছে আর কী দিচ্ছে। আমার পা জানে কোথায় কোথায় গেছে। আজই যদি তাদের জিজ্ঞেস করা হতো, তারা আমার সম্পর্কে কী বলত? সেদিন আসার আগেই কি আমি সেটা শুনে নিতে চাইব?",
+    "pointsEn": [
+      "If my hands were asked tonight what they took and what they gave this week, which answer would I least want to hear?",
+      "Where have my feet carried me that I would not choose to have described aloud?",
+      "When I am caught in a fault, do I reach first for an oath or an argument, or for a plain admission?",
+      "Which of my limbs serves me most in disobedience, and what would it look like to turn that same limb to obedience?",
+      "What can I confess to Allah privately now, so that no witness has to speak against me later?"
+    ],
+    "pointsBn": [
+      "আজ রাতে যদি আমার হাতকে জিজ্ঞেস করা হয়, এ সপ্তাহে সে কী নিয়েছে আর কী দিয়েছে, কোন উত্তরটা শুনতে আমার সবচেয়ে খারাপ লাগবে?",
+      "আমার পা আমাকে এমন কোথায় নিয়ে গেছে, যার বর্ণনা জোরে শোনানো হোক তা আমি চাইব না?",
+      "কোনো ভুলে ধরা পড়লে আমি কি আগে কসম বা যুক্তির আশ্রয় নিই, নাকি সোজাসুজি দোষ স্বীকার করি?",
+      "আমার কোন অঙ্গটি নাফরমানিতে আমার সবচেয়ে বেশি কাজে লাগে? সেই অঙ্গটিকেই আনুগত্যের কাজে লাগালে চেহারাটা কেমন হবে?",
+      "আল্লাহর কাছে আজ গোপনে কী স্বীকার করে নিতে পারি, যাতে পরে আমার বিরুদ্ধে কোনো সাক্ষীকে মুখ খুলতে না হয়?"
+    ],
+    "lessonEn": "Your hands and feet will one day speak of what they did. Use them now for what you would be glad to hear them describe.",
+    "lessonBn": "একদিন আপনার হাত আর পা নিজেরাই বলবে তারা কী করেছে। আজ তাদের সেই কাজে লাগান, যার বর্ণনা শুনে আপনি খুশি হবেন।"
   }
 };
 
