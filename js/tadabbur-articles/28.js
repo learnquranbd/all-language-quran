@@ -1455,6 +1455,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:50": {
+    "sections": [
+      {
+        "h": {
+          "en": "Silence After the Challenge",
+          "bn": "চ্যালেঞ্জের পরের নীরবতা"
+        },
+        "p": [
+          {
+            "en": "In 28:48 the truth reaches the deniers and they ask why the Prophet was not given the like of what Musa (AS) was given; they call the two revelations two works of magic backing each other, and say they reject both. In 28:49 the Prophet is told to answer: then bring a book from Allah that guides better than these two, and I will follow it, if you are truthful. Our verse opens on what follows: fa-in lam yastajibu laka, and if they do not respond to you.",
+            "bn": "২৮:৪৮ আয়াতে সত্য অস্বীকারকারীদের কাছে পৌঁছায়, আর তারা প্রশ্ন তোলে: মূসা (আঃ)-কে যা দেওয়া হয়েছিল, নবীকে তেমন কেন দেওয়া হলো না? দুই ওহীকে তারা বলে দুই জাদু, যা একটা আরেকটাকে মদদ দেয়। তারপর ঘোষণা দেয়, আমরা দুটোই মানি না। ২৮:৪৯ আয়াতে নবী ﷺ-কে জবাব শেখানো হয়: তাহলে আল্লাহর কাছ থেকে এমন কিতাব আনো, যা এ দুটির চেয়ে ভালো পথ দেখায়, তোমরা সত্যবাদী হলে আমি সেটাই মেনে চলব। আমাদের আয়াত শুরু হয় এর পরের কথায়: ফা ইন লাম ইয়াসতাজীবূ লাকা, আর তারা যদি তোমার ডাকে সাড়া না দেয়।"
+          },
+          {
+            "en": "What would a response have been? Al-Baghawi keeps it tight: they did not bring what you asked for. As-Sa'di says the same: they did not bring a book more guiding than the two. The Muyassar adds the result: they did not answer by bringing the book, and no argument was left to them. Ibn Kathir widens it. In his reading the clause means they did not answer what you said to them and did not follow the truth.",
+            "bn": "সাড়া দেওয়া মানে এখানে কী হতো? বাগাভী কথাটা আঁটসাঁট রাখেন: তুমি যা চেয়েছিলে, তারা তা আনেনি। সা'দীও একই কথা বলেন: এ দুটির চেয়ে বেশি পথ দেখায় এমন কোনো কিতাব তারা আনেনি। মুয়াসসার ফলটাও জুড়ে দেয়: কিতাব এনে তারা জবাব দেয়নি, আর তাদের হাতে কোনো যুক্তি বাকি থাকেনি। ইবন কাসীর অর্থটা আরও ছড়িয়ে দেন। তাঁর ব্যাখ্যায় এর মানে, তুমি তাদের যা বলেছ তার জবাব তারা দেয়নি, সত্যের অনুসরণও করেনি।"
+          },
+          {
+            "en": "Al-Qurtubi, on 28:49, explains why the demand was put this way. Since you disbelieve in these two books, he paraphrases, bring a book from Allah more guiding than both, so that it would be an excuse for you in your disbelief, if you are truthful that they are magic. It named the one thing that could have justified the refusal. When nothing of the kind arrives, the refusal stands with nothing to lean on.",
+            "bn": "২৮:৪৯ আয়াতের আলোচনায় কুরতুবী বোঝান, দাবিটা কেন এভাবে রাখা হলো। তাঁর ভাষ্যে কথাটা এমন: তোমরা যখন এ দুই কিতাব অস্বীকারই করছ, তখন আল্লাহর কাছ থেকে এ দুটির চেয়ে বেশি পথ দেখায় এমন কিতাব আনো, যাতে সেটা তোমাদের কুফরের পক্ষে একটা ওজর হয়, যদি এ দুটোকে জাদু বলার দাবিতে তোমরা সত্যবাদী হও। প্রত্যাখ্যানকে যা একমাত্র ন্যায্য করতে পারত, দাবিটা ঠিক সেটার নাম নিয়েছিল। তেমন কিছু যখন এল না, প্রত্যাখ্যান দাঁড়িয়ে রইল ভর দেওয়ার কিছু ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Two Books?",
+          "bn": "কোন দুই কিতাব?"
+        },
+        "p": [
+          {
+            "en": "The commentators differ over 28:48. At-Tabari, on 28:48, records the readers split between sihran, two works of magic, and sahiran, two magicians, and the early exegetes split with them: Musa and Muhammad, Musa and Harun, 'Isa and Muhammad, the Torah and the Qur'an, the Torah and the Injil. His own preference is sihran meaning the Torah and the Injil, because the words before and after speak of a book. On 28:50 he names the speakers to match: those of the Jews who called the Torah and the Injil two magics.",
+            "bn": "২৮:৪৮ আয়াত নিয়ে তাফসীরকারদের মত ভিন্ন। ২৮:৪৮ আয়াতে তাবারী জানান, কারীরা দুই ভাগ: কেউ পড়েন সিহরান, দুই জাদু, কেউ সাহিরান, দুই জাদুকর। আগের মুফাসসিররাও সেভাবে ভাগ হয়েছেন। কারও মতে এ দুজন মূসা ও মুহাম্মাদ, কারও মতে মূসা ও হারূন, কারও মতে ঈসা ও মুহাম্মাদ। কেউ বলেছেন তাওরাত ও কুরআন, কেউ তাওরাত ও ইনজীল। তাবারী নিজে পছন্দ করেন সিহরান, অর্থ তাওরাত ও ইনজীল, কারণ আগে-পরের কথা কিতাব নিয়েই। ২৮:৫০ আয়াতে তিনি সেই হিসাবেই বক্তাদের চিনিয়ে দেন: ইহুদিদের সেই লোকেরা, যারা তাওরাত ও ইনজীলকে দুই জাদু বলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir sets two reports side by side. From Mujahid, Sa'id ibn Jubayr and Abu Razin, the two are Musa and Harun (AS), which he calls a good suggestion. From Ibn 'Abbas (RA), through 'Ali ibn Abi Talhah and al-'Awfi, they are the Torah and the Qur'an. Al-Qurtubi, on 28:49, addresses the challenge to the polytheists and names the books of Musa and Muhammad. Both at-Tabari and Ibn Kathir relay Mujahid that the Jews told Quraysh what to ask. Whichever reading holds, those challenged in 28:49 brought nothing.",
+            "bn": "ইবন কাসীর দুটি বর্ণনা পাশাপাশি রাখেন। মুজাহিদ, সাঈদ ইবন জুবাইর ও আবূ রাযীনের মতে এ দুজন মূসা ও হারূন (আঃ)। এ মতকে তিনি ভালো মত বলেছেন। আলী ইবন আবী তালহা ও আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে এসেছে, এ দুটি তাওরাত ও কুরআন। ২৮:৪৯ আয়াতে কুরতুবী চ্যালেঞ্জটা মুশরিকদের দিকে ফেরান, আর নাম নেন মূসা ও মুহাম্মাদের কিতাবের। তাবারী ও ইবন কাসীর দুজনেই মুজাহিদের কথা আনেন যে ইহুদিরা কুরাইশকে শিখিয়ে দিত কী চাইতে হবে। যে পাঠই ধরা হোক, ২৮:৪৯ আয়াতে যাদের চ্যালেঞ্জ দেওয়া হয়েছিল, তারা কিছুই আনেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told to Know What He Knew",
+          "bn": "যা জানতেন, তা-ই জানার আদেশ"
+        },
+        "p": [
+          {
+            "en": "Then comes fa-'lam, then know. At-Tabari raises the obvious objection himself. Did the Prophet not already know that what the Jews and others said of the Torah and the Injil, calling them two magics, was false, before they failed to bring a better book? His answer is that the sentence takes the form of an address to the Messenger, while what is meant by it is the people to whom it is to be said. The knowing is meant for those listeners.",
+            "bn": "তারপর আসে ফা'লাম, তাহলে জেনে রাখো। প্রশ্নটা তাবারী নিজেই তোলেন। ইহুদি ও অন্যরা তাওরাত আর ইনজীলকে দুই জাদু বলে যা বলছিল, তা যে মিথ্যা, নবী ﷺ কি তা আগে থেকে জানতেন না? তারা ভালো কিতাব আনতে ব্যর্থ হওয়ার পরেই কি কেবল জানলেন? তাবারীর জবাব: বাক্যটির চেহারা রাসূলকে সম্বোধনের, কিন্তু উদ্দেশ্য তারা, যাদের কাছে কথাটা বলা হবে। অর্থাৎ জানার কথাটা আসলে সেই শ্রোতাদের জন্য।"
+          },
+          {
+            "en": "He then spells out the scene. The Prophet is to say to the polytheists of Quraysh: did not those who told you to ask why Muhammad was not given what Musa was given disbelieve in what Musa was given, and call what came to Musa and 'Isa two magics? Then you say to them: if you are truthful that it is magic, bring a book from Allah more guiding than both. If they do not answer you, know that they are liars, following their own desires in denying Muhammad and leaving the truth while they know it.",
+            "bn": "এরপর তাবারী নিজের পাঠ অনুযায়ী পুরো দৃশ্যটা খুলে বলেন। নবী ﷺ কুরাইশের মুশরিকদের বলবেন: যারা তোমাদের শিখিয়ে দিয়েছে, মুহাম্মাদকে মূসার মতো কেন দেওয়া হলো না, তারাই কি এর আগে মূসাকে দেওয়া জিনিস অস্বীকার করেনি? মূসা ও ঈসার কাছে যা এসেছিল, তাকেই কি তারা দুই জাদু বলেনি? এবার তোমরাই তাদের বলো: এ জাদু, এ দাবিতে সত্যবাদী হলে আল্লাহর কাছ থেকে এ দুটির চেয়ে বেশি পথ দেখায় এমন কিতাব আনো। তারা তোমাদের জবাব না দিলে জেনে রাখো, তারা মিথ্যাবাদী। মুহাম্মাদকে অস্বীকার করার বেলায় তারা চলছে নিজেদের মনের খেয়াল ধরে, আর সত্য জেনেশুনেই তা ছেড়ে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desire With Empty Hands",
+          "bn": "খালি হাতে খেয়ালখুশি"
+        },
+        "p": [
+          {
+            "en": "Annama yattabi'una ahwa'ahum: they only follow their desires. Ahwa' is the plural of hawa, and the commentators define it less by what it is than by what it lacks. Ibn Kathir glosses the phrase briefly: without evidence and without proof. Al-Qurtubi says their desires are the opinions of their hearts, what they think good, and what Satan makes dear to them, and he adds at once that they have no argument. In both glosses, what marks out this desire is the proof that is missing behind it.",
+            "bn": "আন্নামা ইয়াত্তাবিঊনা আহওয়াআহুম: তারা শুধু নিজেদের প্রবৃত্তির অনুসরণ করে। আহওয়া শব্দটি হাওয়ার বহুবচন। তাফসীরকারেরা এর সংজ্ঞা দেন, এটা কী তার চেয়ে বেশি, এতে কী নেই তা দিয়ে। ইবন কাসীর অল্প কথায় ব্যাখ্যা সারেন: কোনো দলিল ছাড়া, কোনো প্রমাণ ছাড়া। কুরতুবী বলেন, তাদের প্রবৃত্তি হলো তাদের অন্তরের মতামত, যা তারা ভালো মনে করে, আর শয়তান যা তাদের কাছে প্রিয় করে তোলে। সঙ্গে সঙ্গে তিনি যোগ করেন, তাদের হাতে কোনো যুক্তি নেই। দুই ব্যাখ্যাতেই এই প্রবৃত্তিকে আলাদা করে চেনায় একটা জিনিস: এর পেছনে কোনো প্রমাণ নেই।"
+          },
+          {
+            "en": "At-Tabari calls them the desires of their own selves, and says that what they utter about the two books is a lie and a falsehood with no reality to it. As-Sa'di explains the clause by what the deniers were not doing. Their refusal to follow you, he says, is not a going towards some truth they know, nor towards any guidance; it is the mere following of their desires. The refusal looks like a position, but there is nothing on the other side of it.",
+            "bn": "তাবারী একে বলেন তাদের নিজেদের মনের খেয়াল। তিনি আরও বলেন, দুই কিতাব নিয়ে তারা যা বলে, তা মিথ্যা ও বাতিল কথা, এর কোনো বাস্তবতা নেই। সা'দী আয়াতের এ অংশ বোঝান অস্বীকারকারীরা কী করছিল না, তা দিয়ে। তাঁর কথায়, তোমার অনুসরণ ছেড়ে দিয়ে তারা এমন কোনো সত্যের দিকে যাচ্ছে না যা তারা চেনে, কোনো হিদায়াতের দিকেও না। এ শুধু প্রবৃত্তির পেছনে চলা। বাইরে থেকে প্রত্যাখ্যানটাকে একটা অবস্থান মনে হয়, কিন্তু এর অপর পাশে কিছুই নেই।"
+          },
+          {
+            "en": "The verse then moves from a plural to a singular. First they follow ahwa'ahum, their desires; then comes man ittaba'a hawahu, whoever follows his desire. The second sentence names no group. It describes anyone who fits it. As-Sa'di draws the general rule in so many words: in this verse is evidence that everyone who does not respond to the Messenger, and goes to a saying that contradicts the Messenger's saying, has not gone to guidance; he has gone to desire.",
+            "bn": "এরপর আয়াতটি বহুবচন থেকে একবচনে আসে। প্রথমে তারা অনুসরণ করে আহওয়াআহুম, নিজেদের প্রবৃত্তিগুলো। তারপর আসে মান ইত্তাবাআ হাওয়াহু, যে নিজের প্রবৃত্তির অনুসরণ করে। দ্বিতীয় বাক্যে কোনো দলের নাম নেই, এর বর্ণনায় যে-ই পড়ে, সে-ই এর আওতায়। সা'দী সোজাসুজি সাধারণ নিয়মটা বের করেন: এ আয়াতে প্রমাণ আছে, যে-ই রাসূলের ডাকে সাড়া দেয় না, আর রাসূলের কথার বিপরীত কোনো কথার দিকে যায়, সে হিদায়াতের দিকে যায়নি, গেছে প্রবৃত্তির দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hawa Set Against Huda",
+          "bn": "হুদার মুখোমুখি হাওয়া"
+        },
+        "p": [
+          {
+            "en": "The question follows: wa-man adallu mimman ittaba'a hawahu bi-ghayri hudan min Allah, and who is more astray than whoever follows his desire without guidance from Allah? At-Tabari fills in each side. More astray, he says, from the path of right conduct; following the desire of his own self without a clear statement from Allah and a covenant from Allah, and leaving the covenant that Allah made with His creation in His revelation. Ibn Kathir's gloss is shorter: without guidance taken from the Book of Allah.",
+            "bn": "তারপর প্রশ্ন: ওয়া মান আদাল্লু মিম্মানিত্তাবাআ হাওয়াহু বিগাইরি হুদাম মিনাল্লাহ, আল্লাহর হিদায়াত ছাড়া যে নিজের প্রবৃত্তির অনুসরণ করে, তার চেয়ে বড় পথভ্রষ্ট আর কে? তাবারী দুই দিকই ভরাট করে দেন। বেশি পথভ্রষ্ট, অর্থাৎ সঠিক আচরণের রাস্তা থেকে। সে চলে নিজের মনের খেয়াল ধরে, আল্লাহর কাছ থেকে কোনো স্পষ্ট বর্ণনা বা অঙ্গীকার ছাড়াই। আর আল্লাহ তাঁর ওহী ও নাযিল করা বাণীতে সৃষ্টির সঙ্গে যে অঙ্গীকার করেছেন, তা সে ছেড়ে দেয়। ইবন কাসীরের ব্যাখ্যা আরও ছোট: আল্লাহর কিতাব থেকে নেওয়া কোনো হিদায়াত ছাড়া।"
+          },
+          {
+            "en": "As-Sa'di turns the question into a scene. This man, he says, is among the most astray of people, because guidance was offered to him, and the straight path that leads to Allah and to the abode of His honour, and he did not turn to it or come towards it. His desire called him to the roads that lead to ruin and wretchedness, and he followed it and left the guidance.",
+            "bn": "সা'দী প্রশ্নটাকে একটা দৃশ্যে রূপ দেন। তাঁর কথায়, এ লোক মানুষের মধ্যে সবচেয়ে পথভ্রষ্টদের একজন। কারণ তার সামনে হিদায়াত পেশ করা হয়েছিল, পেশ করা হয়েছিল সেই সরল পথ, যা আল্লাহর কাছে আর তাঁর সম্মানের ঘরে পৌঁছে দেয়। সে সেদিকে ফিরেও তাকায়নি, এগিয়েও আসেনি। তার প্রবৃত্তি তাকে ডেকেছে ধ্বংস আর দুর্ভাগ্যের দিকে যাওয়া রাস্তাগুলোয়। সে সেই ডাক মেনেছে, হিদায়াত ফেলে রেখেছে।"
+          },
+          {
+            "en": "Al-Qurtubi and the Muyassar answer the question as a statement: no one is more astray than he is. Read together, the commentators set two leaders side by side. One comes from Allah: a clear statement, a covenant, a proof drawn from His Book, a path offered. The other comes from the self: what the heart approves and what Satan makes dear. As-Sa'di's closing line on the verse puts the pair in its sharpest form. Whoever leaves the Messenger's word for another, he says, has not gone to huda; he has gone to hawa.",
+            "bn": "কুরতুবী ও মুয়াসসার প্রশ্নটির জবাব দেন সরাসরি বিবৃতিতে: তার চেয়ে বড় পথভ্রষ্ট কেউ নেই। তাফসীরগুলো একসঙ্গে পড়লে দেখা যায়, পাশাপাশি দুই পথপ্রদর্শক দাঁড়িয়ে। একজন আসে আল্লাহর কাছ থেকে: স্পষ্ট বর্ণনা, অঙ্গীকার, তাঁর কিতাব থেকে নেওয়া প্রমাণ, সামনে পেশ করা পথ। অন্যজন আসে নিজের ভেতর থেকে: অন্তর যা ভালো মনে করে, আর শয়তান যা প্রিয় করে তোলে। আয়াতের শেষে সা'দীর বাক্যটি এই জোড়াকে সবচেয়ে ধারালো রূপ দেয়। রাসূলের কথা ছেড়ে যে অন্য কথার দিকে যায়, সে হুদার দিকে যায়নি, গেছে হাওয়ার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Doors Shut From Within",
+          "bn": "ভেতর থেকে বন্ধ দরজা"
+        },
+        "p": [
+          {
+            "en": "The verse closes: inna Allaha la yahdi al-qawma al-zalimin, Allah does not guide the wrongdoing people. At-Tabari reads la yahdi as la yuwaffiq: He does not grant them success in reaching the truth and the path of right guidance. He then names who they are by what they did. They opposed Allah's command, abandoned His obedience, denied His Messenger, altered His covenant, and followed the desires of their own selves, preferring obedience to Satan over obedience to their Lord.",
+            "bn": "আয়াতের শেষ কথা: ইন্নাল্লাহা লা ইয়াহদিল কাওমায যালিমীন, আল্লাহ যালিম সম্প্রদায়কে হিদায়াত দেন না। তাবারী লা ইয়াহদি-র ব্যাখ্যা করেন লা ইউওয়াফফিক দিয়ে: সত্যে পৌঁছানোর আর সঠিক পথে চলার তাওফীক তিনি তাদের দেন না। তারপর তারা কারা, তা তিনি চেনান তাদের কাজ দিয়ে। তারা আল্লাহর হুকুমের বিরোধিতা করেছে, তাঁর আনুগত্য ছেড়েছে, তাঁর রাসূলকে মিথ্যা বলেছে, তাঁর অঙ্গীকার বদলে দিয়েছে। আর নিজেদের মনের খেয়াল ধরে চলেছে, রবের আনুগত্যের চেয়ে শয়তানের আনুগত্যকে বেশি পছন্দ করে।"
+          },
+          {
+            "en": "The Muyassar uses the same word, la yuwaffiq, and describes the wrongdoers as those who opposed Allah's command and overstepped His limits. As-Sa'di explains the link between the wrong and the outcome. It was their wrongdoing and hostility, and their lack of love for the truth, he says, that made it necessary that they remain in their misguidance and that Allah not guide them. The wrongdoers here are those for whom wrong has become a description and stubbornness a trait.",
+            "bn": "মুয়াসসারও একই শব্দ ব্যবহার করে, লা ইউওয়াফফিক। তার বর্ণনায় যালিম তারা, যারা আল্লাহর হুকুমের বিরোধিতা করেছে আর তাঁর সীমা লঙ্ঘন করেছে। যুলুম আর পরিণামের মধ্যে যোগসূত্রটা সা'দী ব্যাখ্যা করেন। তাঁর কথায়, তাদের যুলুম, শত্রুতা আর সত্যের প্রতি ভালোবাসার অভাবই অনিবার্য করে তুলেছে যে তারা গোমরাহিতে থেকে যাবে, আর আল্লাহ তাদের হিদায়াত দেবেন না। এখানে যালিম তারা, যুলুম যাদের পরিচয় হয়ে গেছে, আর হঠকারিতা যাদের স্বভাব।"
+          },
+          {
+            "en": "He goes on with an image of two sets of doors. Guidance came to them and they rejected it; desire presented itself and they followed it. They shut upon themselves the doors and roads of guidance, and opened upon themselves the doors and paths of error. Each reading ties the verse's closing words to a described conduct. The surah returns to guidance a few verses later, in 28:56, which has its own page.",
+            "bn": "এরপর সা'দী দুই সারি দরজার ছবি আঁকেন। হিদায়াত তাদের কাছে এসেছিল, তারা তা ফিরিয়ে দিয়েছে। প্রবৃত্তি সামনে এসে দাঁড়িয়েছিল, তারা তার পেছনে চলেছে। হিদায়াতের দরজা আর রাস্তা তারা নিজেরাই নিজেদের উপর বন্ধ করেছে, আর গোমরাহির দরজা আর পথ নিজেরাই খুলে দিয়েছে। প্রতিটি ব্যাখ্যাই আয়াতের শেষ কথাকে বেঁধে দেয় বর্ণিত এক আচরণের সঙ্গে। কয়েক আয়াত পরে ২৮:৫৬ আয়াতে সূরাটি আবার হিদায়াতের প্রসঙ্গে ফেরে, সে আয়াতের আলাদা পাতা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Label for Others",
+          "bn": "অন্যের গায়ে লাগানোর তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "The verse describes particular people in a particular exchange: in the commentators' readings, those who called the revealed books magic, were asked for a better book, and brought nothing. It licenses nothing against any living person or community. It is not a label to fasten on a neighbour of another faith, or on a fellow Muslim who disagrees, and it gives no one the right to declare what moves another person's heart. In at-Tabari's reading the knowledge that they followed desire came through revelation, not through anyone's guess.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা দেয় নির্দিষ্ট এক কথোপকথনের নির্দিষ্ট কিছু মানুষের। তাফসীরকারদের ব্যাখ্যায় তারা ছিল সেই লোকেরা, যারা নাযিল হওয়া কিতাবকে জাদু বলেছিল, যাদের কাছে ভালো কিতাব চাওয়া হয়েছিল, আর যারা কিছুই আনতে পারেনি। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। ভিন্ন ধর্মের প্রতিবেশী বা দ্বিমত করা কোনো মুসলিম ভাইয়ের গায়ে লাগানোর তকমা এটা নয়। অন্যের অন্তর কী চালাচ্ছে, তা ঘোষণা করার অধিকারও এ আয়াত কাউকে দেয় না। তাবারীর ব্যাখ্যায় তারা যে প্রবৃত্তির পেছনে চলছে, এ জ্ঞান এসেছিল ওহীর মাধ্যমে, কারও অনুমান থেকে নয়।"
+          },
+          {
+            "en": "Two further notes on sources. None of the tafsirs fetched for this verse attaches a hadith to it, so this page quotes none. Nor do they give a separate occasion of revelation for it; the verse's setting is its place in the passage, as the answer to the challenge of 28:49. Each reading above is named for the commentator in whose text it was found.",
+            "bn": "উৎস নিয়ে আরও দুটি কথা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ পাতায় কোনো হাদীস উদ্ধৃত হয়নি। আয়াতটির আলাদা কোনো শানে নুযূলও তারা বলেনি। আয়াতের প্রেক্ষাপট তার অবস্থানই: ২৮:৪৯ আয়াতের চ্যালেঞ্জের জবাব। ওপরের প্রতিটি ব্যাখ্যা যে তাফসীরকারের লেখায় পাওয়া গেছে, তাঁর নামেই উল্লেখ করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Desire Nearest to Me",
+          "bn": "আমার সবচেয়ে কাছের প্রবৃত্তি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's rule is the place where the verse turns to the reader. When a clear word of the Messenger reaches me and I go to some other saying, he asks in effect whether I have gone to guidance or to desire. The verse supplies the test it gave the deniers: bring something more guiding. If I can name a stronger proof, I am weighing evidence. If I cannot, my refusal has nothing in its hands but what I happen to want.",
+            "bn": "সা'দীর নিয়মটাই সেই জায়গা, যেখানে আয়াতটি পাঠকের দিকে মুখ ফেরায়। রাসূলের কোনো স্পষ্ট কথা আমার কাছে পৌঁছানোর পর আমি যদি অন্য কোনো কথার দিকে যাই, তাঁর প্রশ্নটা কার্যত এই দাঁড়ায়: আমি কি হিদায়াতের দিকে গেলাম, নাকি প্রবৃত্তির দিকে? অস্বীকারকারীদের যে পরীক্ষা দেওয়া হয়েছিল, আয়াতটি সেটাই আমার সামনে রাখে: এর চেয়ে বেশি পথ দেখায় এমন কিছু আনো। আরও শক্ত কোনো দলিল দেখাতে পারলে আমি প্রমাণ মাপছি। না পারলে আমার প্রত্যাখ্যানের হাতে আছে শুধু আমার চাওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi's definition explains why this is hard to see from inside. Desire is the opinion of the heart and what it thinks good, so it rarely announces itself as desire. It arrives as a view, an exception, a sense that my case is different. A command about prayer, honest dealing, or a guarded tongue reaches me, and I find reasons. The verse does not ask me to stop wanting things. It asks whether, at the point where my wanting and Allah's guidance part ways, I can tell which one I am following.",
+            "bn": "ভেতর থেকে কেন এটা দেখা কঠিন, কুরতুবীর সংজ্ঞাই তা বুঝিয়ে দেয়। প্রবৃত্তি হলো অন্তরের মত আর অন্তর যা ভালো মনে করে, তাই সে কদাচিৎ নিজেকে প্রবৃত্তি বলে পরিচয় দেয়। সে আসে একটা মত হয়ে, একটা ব্যতিক্রম হয়ে, এই অনুভূতি হয়ে যে আমার ব্যাপারটা আলাদা। নামায, সৎ লেনদেন কিংবা জবান সামলানোর কোনো হুকুম আমার কাছে আসে, আর আমি কারণ খুঁজে বের করি। আয়াতটি আমাকে চাওয়া বন্ধ করতে বলে না। জিজ্ঞেস করে, যেখানে আমার চাওয়া আর আল্লাহর হিদায়াত দুই দিকে ভাগ হয়ে যায়, সেখানে আমি কি বুঝতে পারি কোনটার পেছনে চলছি?"
+          },
+          {
+            "en": "At-Tabari's phrase is the warning in it: they leave the truth while they know it. As-Sa'di's picture is the hope in it, read the other way round: the man he describes was offered guidance and did not turn towards it, so the remedy is to turn towards it while it is offered. The verse's own first verb names the act. Istijaba is a response, an answer given to a call. The call has already reached the reader; what remains is to answer it.",
+            "bn": "তাবারীর একটি বাক্যে এখানে সতর্কবার্তা আছে: সত্য জেনেশুনেই তারা তা ছেড়ে দেয়। আর সা'দীর ছবিটা উল্টো দিক থেকে পড়লে এতে আশার কথা আছে। যার কথা তিনি বলছেন, তার সামনে হিদায়াত পেশ করা হয়েছিল, সে সেদিকে ফেরেনি। তাই প্রতিকার হলো, হিদায়াত সামনে থাকতে থাকতেই সেদিকে ফেরা। আয়াতের প্রথম ক্রিয়াই কাজটার নাম বলে দেয়। ইসতিজাবা মানে সাড়া দেওয়া, ডাকের জবাব দেওয়া। ডাক পাঠকের কাছে পৌঁছে গেছে। বাকি শুধু জবাব দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "28:56": {
     "sections": [
       {

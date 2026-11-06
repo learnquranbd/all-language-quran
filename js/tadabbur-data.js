@@ -24809,6 +24809,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The enjoyment of this world runs out, and a promise from Allah is met. Live toward the promise, so that the Day finds you meeting it, not brought.",
     "lessonBn": "দুনিয়ার ভোগ ফুরিয়ে যায়, আর আল্লাহর ওয়াদা পূরণ হয়ই। ওয়াদার দিকে তাকিয়ে বাঁচুন, যাতে সেদিন আপনি তা পেয়ে যান, অপরাধীর মতো হাজির না হন।"
+  },
+  "28:50": {
+    "reflectionEn": "The challenge had been laid down: bring a book from Allah that guides better than these two, and I will follow it. No such book came. Then the verse tells the Prophet what that silence means. When people turn from the truth with nothing better in their hands, what moves them is not evidence but desire. And who strays further than one who follows his own desire with no guidance from Allah? Reading this about others is easy; hearing it about myself is harder. When a clear command reaches me and I set it aside, do I hold a better proof, or only a preference? The verse names the gap between what I want and what I have been shown, and asks which of the two I walk behind.",
+    "reflectionBn": "চ্যালেঞ্জটা দেওয়া হয়ে গিয়েছিল: আল্লাহর কাছ থেকে এমন কিতাব আনো, যা এ দুটির চেয়ে ভালো পথ দেখায়, আমি তা মেনে চলব। তেমন কোনো কিতাব আসেনি। তখন আয়াতটি নবী ﷺ-কে জানিয়ে দেয় এই নীরবতার মানে কী। হাতে ভালো কিছু না নিয়েই যারা সত্য থেকে মুখ ফেরায়, তাদের চালায় প্রমাণ নয়, প্রবৃত্তি। আর আল্লাহর হিদায়াত ছাড়া যে নিজের খেয়ালখুশির পেছনে চলে, তার চেয়ে বড় পথভ্রষ্ট কে? অন্যদের ব্যাপারে এ কথা পড়া সহজ। নিজের ব্যাপারে শোনা কঠিন। আল্লাহর কোনো স্পষ্ট হুকুম যখন আমার কাছে পৌঁছায় আর আমি তা পাশে সরিয়ে রাখি, তখন কি আমার হাতে এর চেয়ে ভালো কোনো দলিল থাকে, নাকি শুধু নিজের পছন্দ? আমি যা চাই আর আমাকে যা দেখানো হয়েছে, এ দুয়ের মাঝের ফাঁকটা আয়াতটি চিনিয়ে দেয়। তারপর জিজ্ঞেস করে, আমি এ দুয়ের কোনটার পেছনে হাঁটছি।",
+    "pointsEn": [
+      "The last time I set aside a clear instruction from Allah, what reason did I give myself, and was it a proof or a preference?",
+      "Do I ask for better evidence only when the evidence I already have asks something of me?",
+      "Which of my habits would I defend with an argument, and which would I defend only because I like them?",
+      "When someone does not respond to what I say, do I rush to name their motive, or leave their heart to the One who knows it?",
+      "What guidance have I already been given that I have not yet started to walk by?"
+    ],
+    "pointsBn": [
+      "শেষবার আল্লাহর কোনো স্পষ্ট নির্দেশ যখন পাশে সরিয়ে রেখেছি, নিজেকে কী কারণ দেখিয়েছিলাম? সেটা কি দলিল ছিল, নাকি নিছক পছন্দ?",
+      "হাতের প্রমাণ যখন আমার কাছে কিছু দাবি করে, কেবল তখনই কি আমি আরও ভালো প্রমাণ চেয়ে বসি?",
+      "আমার কোন অভ্যাসগুলো আমি যুক্তি দিয়ে টিকিয়ে রাখতে পারব, আর কোনগুলো টিকিয়ে রাখি শুধু ভালো লাগে বলে?",
+      "কেউ আমার কথায় সাড়া না দিলে আমি কি তাড়াহুড়া করে তার মতলব ঠিক করে ফেলি, নাকি তার মনের খবর তাঁর হাতে ছেড়ে দিই, যিনি তা জানেন?",
+      "যে হিদায়াত আমি আগেই পেয়ে গেছি, তার কোনটা ধরে এখনো চলা শুরু করিনি?"
+    ],
+    "lessonEn": "Turning from what Allah has made clear, with nothing better in hand, is desire leading you. Walk instead by the guidance you have already been shown.",
+    "lessonBn": "হাতে ভালো কিছু না নিয়েই আল্লাহর স্পষ্ট করা পথ থেকে মুখ ফেরানো মানে প্রবৃত্তির পেছনে চলা। তাই যে হিদায়াত আপনাকে দেখানো হয়েছে, সেটা ধরেই চলুন।"
   }
 };
 
