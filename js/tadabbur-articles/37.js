@@ -2335,6 +2335,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:57": {
+    "sections": [
+      {
+        "h": {
+          "en": "Built on What Did Not Happen",
+          "bn": "যা ঘটেনি, তার উপর দাঁড়ানো কথা"
+        },
+        "p": [
+          {
+            "en": "The man in Paradise has looked down, found his old companion in the middle of the Fire, and sworn in 37:56 that this friend almost ruined him. His next sentence explains why the ruin did not happen: wa-lawla ni'matu rabbi la-kuntu mina l-muhdarin, were it not for the favour of my Lord, I would have been among those brought in. Six Arabic words hold two histories side by side, the one that took place and the one that very nearly did.",
+            "bn": "জান্নাতের মানুষটি নিচে তাকিয়েছে, পুরোনো সাথীকে আগুনের মাঝখানে দেখতে পেয়েছে, আর ৩৭:৫৬ আয়াতে কসম খেয়ে বলেছে, এই বন্ধু তাকে প্রায় ধ্বংস করে দিয়েছিল। ধ্বংসটা কেন ঘটল না, তার পরের বাক্যে সে সেটাই বলে: ওয়া লাওলা নি'মাতু রাব্বী লাকুনতু মিনাল মুহদারীন। আমার রবের অনুগ্রহ না থাকলে আমিও হাজির করা লোকদের দলে থাকতাম। আরবিতে মাত্র ছয়টি শব্দ, অথচ তাতে পাশাপাশি দুটি ইতিহাস। একটা যা সত্যিই ঘটেছে, আরেকটা যা প্রায় ঘটে যাচ্ছিল।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the grammar of lawla. Following Sibawayh, he says the noun after it is a subject in the nominative and its predicate is left out. The sentence never states that the favour existed or arrived; it takes that for granted and moves straight to what would otherwise have followed. The favour is the one thing in the verse too certain to need saying. Everything the speaker spells out is the alternative, and the alternative is the Fire his friend is standing in.",
+            "bn": "কুরতুবী লাওলা শব্দের ব্যাকরণে একটু থামেন। সিবওয়াইহের মত অনুসারে তিনি বলেন, লাওলার পরের বিশেষ্যটি কর্তা, পেশযুক্ত, আর তার বিধেয় উহ্য রাখা হয়েছে। অর্থাৎ অনুগ্রহটা ছিল বা এসেছিল, বাক্য সে কথা মুখে আনে না। ওটা ধরে নিয়েই সোজা চলে যায়, না থাকলে কী হত সেখানে। আয়াতে অনুগ্রহটাই একমাত্র জিনিস, যা এত নিশ্চিত যে বলার দরকার পড়ে না। বক্তা যা খুলে বলে, তা হল বিকল্পটা। আর সেই বিকল্প হল ঠিক সেই আগুন, যার মাঝে তার বন্ধু দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Favour Actually Was",
+          "bn": "অনুগ্রহটা আসলে কী ছিল"
+        },
+        "p": [
+          {
+            "en": "The verse says only ni'ma, favour, and leaves its content open. The commentators fill it in, and none of them reaches for wealth, health or worldly safety. Ibn Kathir paraphrases the speaker: were it not for Allah's grace upon me, I would be like you in the middle of Hell where you are, brought in with you to the punishment; but He favoured me, had mercy on me, guided me to faith and directed me to His oneness. Al-Baghawi is shorter: His mercy, and His blessing upon me with Islam.",
+            "bn": "আয়াত শুধু বলে নি'মা, অনুগ্রহ। ভেতরে কী আছে, খোলা রাখে। মুফাসসিররা তা পূরণ করেন, আর তাঁদের কেউই ধন, স্বাস্থ্য বা দুনিয়ার নিরাপত্তার দিকে যান না। ইবন কাসীর বক্তার কথাটা এভাবে খুলে বলেন: আমার উপর আল্লাহর দয়া না থাকলে আমিও তোমার মতো জাহান্নামের মাঝখানে থাকতাম, যেখানে তুমি আছ, তোমার সঙ্গে আজাবে হাজির হতাম। কিন্তু তিনি আমার উপর দয়া করেছেন, রহম করেছেন, আমাকে ঈমানের পথ দেখিয়েছেন, তাঁর তাওহীদের দিকে চালিয়েছেন। বাগাভী আরও সংক্ষেপে বলেন: তাঁর রহমত, আর ইসলাম দিয়ে আমার উপর তাঁর নিয়ামত।"
+          },
+          {
+            "en": "At-Tabari names the favour more precisely: that Allah blessed me with His guidance and with tawfiq, the enabling grace, to believe in the resurrection after death. That detail fits the scene. The doubt the companion used to press, in 37:53, was precisely whether the dead would be raised and repaid. The favour the believer now names is the gift of believing exactly what his friend denied. On at-Tabari's reading, it was not a general goodness that parted the two men but one specific conviction, and the speaker does not claim it as his own discovery.",
+            "bn": "তাবারী অনুগ্রহটাকে আরও নির্দিষ্ট করে বলেন: আল্লাহ আমাকে তাঁর হিদায়াত দিয়েছেন, আর মৃত্যুর পর পুনরুত্থানে ঈমান আনার তাওফীক দিয়েছেন। দৃশ্যের সঙ্গে কথাটা মিলে যায়। ৩৭:৫৩ আয়াতে সাথীটি যে সন্দেহ বারবার তুলত, তা ছিল ঠিক এটাই: মরে যাওয়ার পর কি সত্যিই ওঠানো হবে, প্রতিদান দেওয়া হবে? বন্ধু যা অস্বীকার করত, ঠিক সেটা বিশ্বাস করতে পারাই সেই অনুগ্রহ, যার কথা মুমিন এখন বলছে। তাবারীর ব্যাখ্যায় দুজনকে আলাদা করেছে কোনো সাধারণ ভালোমানুষি নয়, একটি নির্দিষ্ট বিশ্বাস। আর বক্তা সেটাকে নিজের আবিষ্কার বলে দাবি করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guided, Then Held in Place",
+          "bn": "পথ পাওয়া, তারপর পথে টিকে থাকা"
+        },
+        "p": [
+          {
+            "en": "A second group of glosses looks past the first step. As-Sa'di reads the favour as this: that He kept me firm upon Islam. Al-Muyassar, covering 37:56 and 37:57 together, joins both halves: the favour of my Lord in guiding me to faith and keeping me firm upon it. Al-Qurtubi gives the fullest list: His protection, and His tawfiq to hold fast to the handhold of Islam and to stand clear of the bad companion. Here the favour is not only arrival at faith but staying in it.",
+            "bn": "আরেক দল ব্যাখ্যা প্রথম পদক্ষেপের পরের দিকেও তাকায়। সা'দীর মতে অনুগ্রহটা হল: তিনি আমাকে ইসলামের উপর অবিচল রেখেছেন। মুয়াসসার ৩৭:৫৬ ও ৩৭:৫৭ একসঙ্গে ব্যাখ্যা করে দুটো দিক জুড়ে দেয়: আমার রব আমাকে ঈমানের পথ দেখিয়েছেন, আবার তার উপর স্থির রেখেছেন। কুরতুবীর তালিকা সবচেয়ে লম্বা: আল্লাহর হেফাজত, ইসলামের রশি আঁকড়ে ধরার তাওফীক, আর মন্দ সাথী থেকে দূরে সরে থাকার তাওফীক। এখানে অনুগ্রহ মানে শুধু ঈমানে পৌঁছানো নয়, তাতে টিকে থাকাও।"
+          },
+          {
+            "en": "These two emphases are not a disagreement. No commentator here denies what another affirms; Ibn Kathir and at-Tabari speak of being guided, as-Sa'di of being kept, and al-Muyassar and al-Qurtubi name both. Read together, they answer a question the verse invites. The believer did not merely hear the truth once and keep it by his own grip. His friend, Ibn Kathir notes on 37:52, used to put that question out of astonishment, disbelief and stubbornness, and he still did not let go. Several of the commentators credit that, too, to his Lord.",
+            "bn": "এই দুই ঝোঁক মতভেদ নয়। এখানে কোনো মুফাসসির অন্যজনের কথা অস্বীকার করেন না। ইবন কাসীর ও তাবারী বলেন পথ পাওয়ার কথা, সা'দী বলেন টিকিয়ে রাখার কথা, আর মুয়াসসার ও কুরতুবী দুটোই বলেন। একসঙ্গে পড়লে আয়াতের একটা প্রশ্নের জবাব মেলে। মুমিন একবার সত্য শুনে শুধু নিজের হাতের জোরে তা ধরে রাখেনি। ইবন কাসীর ৩৭:৫২ আয়াতের আলোচনায় বলেন, বন্ধুটি প্রশ্নটা করত বিস্ময়, অবিশ্বাস আর জেদ নিয়ে। তবু সে হাত ছাড়েনি। কয়েকজন মুফাসসির এই টিকে থাকাটাকেও তার রবের দান বলে ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Kept for Harm",
+          "bn": "যে শব্দ শুধু মন্দের জন্য"
+        },
+        "p": [
+          {
+            "en": "The sentence ends on al-muhdarin, those brought in. The word is a passive participle: the people it describes do not come, they are made to be present. Al-Qurtubi gives two notes on it. From al-Farra': I would have been with you in the Fire, muhdaran, brought there. From al-Mawardi: the verb ahdara, used without any qualifier, is used only for evil. On that observation, the bare word already points toward harm, and the verse needs no further phrase to say where the speaker would have been taken.",
+            "bn": "বাক্যটা শেষ হয় আল মুহদারীন শব্দে, হাজির করা লোকেরা। শব্দটা কর্মবাচ্যের। এরা নিজেরা আসে না, এদের এনে হাজির করা হয়। কুরতুবী শব্দটা নিয়ে দুটি কথা তুলে আনেন। ফাররার ব্যাখ্যা: আমিও তোমার সঙ্গে আগুনে থাকতাম, সেখানে এনে হাজির করা অবস্থায়। আর মাওয়ার্দীর পর্যবেক্ষণ: আহদারা ক্রিয়াটি কোনো বাড়তি শব্দ ছাড়া ব্যবহার হলে তা কেবল মন্দের ক্ষেত্রেই আসে। এ কথা মানলে শব্দটা একা দাঁড়িয়েই ক্ষতির দিকে ইঙ্গিত করে। বক্তাকে কোথায় নিয়ে যাওয়া হত, তা বলার জন্য আয়াতের আর কোনো শব্দ লাগে না।"
+          },
+          {
+            "en": "At-Tabari records two early glosses, both short. Qatada: in the punishment of Allah. As-Suddi: among those punished. The same participle returns twice later in this surah, in 37:127 of the people who denied Ilyas (AS) and in 37:158, in the verse on the lineage claimed between Allah and the jinn, and in both places it stands with nothing after it. Here it is not a verdict on anyone but the speaker's own account of the place he was spared, said about himself.",
+            "bn": "তাবারী দুটো পুরোনো ব্যাখ্যা তুলে আনেন, দুটোই ছোট। কাতাদা বলেন: আল্লাহর আজাবে। সুদ্দী বলেন: শাস্তিপ্রাপ্তদের মধ্যে। একই শব্দ এই সূরায় পরে আরও দুবার ফিরে আসে। ৩৭:১২৭ আয়াতে ইলইয়াস (আঃ)-কে যারা মিথ্যা বলেছিল তাদের সম্পর্কে, আর ৩৭:১৫৮ আয়াতে, যেখানে আল্লাহ ও জিনদের মধ্যে বংশের সম্পর্ক দাবি করার কথা এসেছে। দুই জায়গাতেই শব্দটা একা দাঁড়ায়, পরে আর কিছু থাকে না। তবে এখানে এটা কারও উপর রায় নয়। যে জায়গা থেকে সে বেঁচে গেছে, এ তার নিজের সম্পর্কে নিজের বিবরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Small Word the Glosses Add",
+          "bn": "ব্যাখ্যায় জুড়ে দেওয়া ছোট্ট শব্দ"
+        },
+        "p": [
+          {
+            "en": "One small word appears in nearly every gloss on this verse, though the verse itself does not contain it: ma'aka, with you. Ibn Kathir: brought in with you to the punishment. At-Tabari: among those brought with you into the punishment of Allah. Al-Muyassar and as-Sa'di: in the punishment with you. Al-Baghawi: with you in the Fire. Al-Farra', through al-Qurtubi: with you in the Fire. The Arabic says only that the speaker would have been among those brought in. The commentators read the companion straight back into the sentence.",
+            "bn": "এই আয়াতের প্রায় প্রতিটি ব্যাখ্যায় একটা ছোট্ট শব্দ আছে, অথচ আয়াতে শব্দটা নেই: মা'আকা, তোমার সঙ্গে। ইবন কাসীর বলেন: তোমার সঙ্গে আজাবে হাজির। তাবারী বলেন: তোমার সঙ্গে আল্লাহর আজাবে হাজির করা লোকদের মধ্যে। মুয়াসসার ও সা'দী বলেন: তোমার সঙ্গে আজাবে। বাগাভী বলেন: তোমার সঙ্গে আগুনে। কুরতুবীর সূত্রে ফাররাও একই কথা বলেন: তোমার সঙ্গে আগুনে। আরবি বাক্য শুধু বলে, বক্তাও হাজির করা লোকদের দলে থাকত। সাথীটিকে মুফাসসিররা নিজেরাই আবার বাক্যের ভেতরে ফিরিয়ে আনেন।"
+          },
+          {
+            "en": "The addition is natural, because the speech is addressed to that friend. It also shows what the favour undid. These two had shared a life on earth; without the favour, the commentators' paraphrase says, they would have shared the punishment as well, the friendship running on into the Fire. What actually happened is that one look across an unbridgeable distance is all that remains of it. Al-Qurtubi's list had already named this part of the gift: tawfiq to stand clear of the bad companion.",
+            "bn": "শব্দটা জুড়ে দেওয়া স্বাভাবিক, কারণ কথাগুলো বলা হচ্ছে সেই বন্ধুকেই উদ্দেশ করে। সেই সঙ্গে এটাও বোঝা যায়, অনুগ্রহ আসলে কী ঠেকিয়েছে। দুনিয়ায় এ দুজনের জীবন ছিল একসঙ্গে বাঁধা। মুফাসসিরদের ব্যাখ্যা অনুযায়ী, অনুগ্রহ না থাকলে আজাবেও তারা একসঙ্গে থাকত, বন্ধুত্বটা গড়িয়ে যেত আগুন পর্যন্ত। বাস্তবে যা ঘটেছে, তাতে সেই বন্ধুত্বের বাকি আছে শুধু অতিক্রম করা যায় না এমন এক দূরত্বের ওপার থেকে একটা চাহনি। কুরতুবীর তালিকায় দানের এই অংশটার নাম আগেই এসেছে: মন্দ সাথী থেকে দূরে থাকার তাওফীক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Confession, Many Voices",
+          "bn": "একই স্বীকারোক্তি, বহু কণ্ঠে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his gloss with a verse from al-A'raf, 7:43: wa ma kunna li-nahtadiya lawla an hadana Allah, and we would never have been guided had Allah not guided us. It is spoken by the people of Paradise together, and it turns on the same lawla. Our verse is one man's personal form of what 7:43 has the whole company say. In both, the words come after arrival, when nothing remains to be gained by modesty and the speakers are simply describing what happened.",
+            "bn": "ইবন কাসীর তাঁর ব্যাখ্যা শেষ করেন সূরা আরাফের ৭:৪৩ আয়াত দিয়ে: ওয়া মা কুন্না লিনাহতাদিয়া লাওলা আন হাদানাল্লাহ, আল্লাহ পথ না দেখালে আমরা কিছুতেই পথ পেতাম না। কথাটা জান্নাতবাসীরা বলে সবাই মিলে, আর এখানেও ভর সেই লাওলার উপর। ৭:৪৩ আয়াতে যে কথা পুরো দল বলে, আমাদের আয়াতে একজন মানুষ সেটাই বলে নিজের ভাষায়। দুই জায়গাতেই কথাটা আসে পৌঁছে যাওয়ার পরে। তখন বিনয় দেখিয়ে পাওয়ার আর কিছু নেই, তারা শুধু যা ঘটেছে তাই বলছে।"
+          },
+          {
+            "en": "The same verse 7:43 ends with a call: this is Paradise, which you have been made to inherit for what you used to do. So one verse holds both the confession that guidance was Allah's and the announcement that deeds were counted. Placing 24:21 beside it is this article's own step, not a commentator's: wa lawla fadlu Allahi 'alaykum wa rahmatuhu ma zaka minkum min ahadin abada, were it not for Allah's favour upon you and His mercy, not one of you would ever have been pure. The same construction, said to believers still in this world.",
+            "bn": "সেই ৭:৪৩ আয়াতই শেষ হয় এক ঘোষণায়: এই সেই জান্নাত, দুনিয়ায় তোমরা যা আমল করতে তার বিনিময়ে তোমাদের এর উত্তরাধিকারী করা হয়েছে। একই আয়াতে তাই দুটোই আছে। হিদায়াত ছিল আল্লাহর, এই স্বীকারোক্তি, আর আমলের হিসাব রাখা হয়েছে, এই ঘোষণা। ২৪:২১ আয়াতকে এর পাশে রাখা এই লেখার নিজের সিদ্ধান্ত, কোনো মুফাসসিরের নয়: ওয়া লাওলা ফাদলুল্লাহি আলাইকুম ওয়া রাহমাতুহু মা যাকা মিনকুম মিন আহাদিন আবাদা। তোমাদের উপর আল্লাহর অনুগ্রহ ও রহমত না থাকলে তোমাদের একজনও কখনো পবিত্র হতে পারত না। একই গঠন, তবে বলা হয়েছে দুনিয়াতে থাকা মুমিনদের।"
+          },
+          {
+            "en": "No tafsir consulted here attaches a hadith. A general narration not attached to it says the same: Sahih al-Bukhari 6463 reports from Abu Hurairah (RA) that the Messenger of Allah ﷺ said, \"The deeds of anyone of you will not save you.\" They said, \"Even you, O Allah's Messenger?\" He said, \"No, even I, unless and until Allah bestows His Mercy on me. Therefore, do good deeds properly, sincerely and moderately, and worship Allah in the forenoon and in the afternoon and during a part of the night, and always adopt a middle, moderate, regular course whereby you will reach your target.\" Al-Bukhari placed it in his Sahih.",
+            "bn": "এই আয়াতের জন্য দেখা কোনো তাফসীর আয়াতটির সঙ্গে হাদীস যুক্ত করেনি। তবে এ আয়াতের সঙ্গে যুক্ত নয় এমন একটি সাধারণ হাদীস একই কথা বলে। সহীহ বুখারী ৬৪৬৩-তে আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন, \"তোমাদের কাউকেই তার আমল বাঁচাতে পারবে না।\" সাহাবিরা বললেন, \"আপনাকেও নয়, হে আল্লাহর রাসূল?\" তিনি বললেন, \"আমাকেও নয়, যতক্ষণ না আল্লাহ আমাকে তাঁর রহমতে ঢেকে নেন। তাই ঠিকঠাক, আন্তরিকভাবে ও মাঝামাঝি পথে আমল করো। সকালে, বিকেলে আর রাতের কিছু অংশে আল্লাহর ইবাদত করো। সবসময় মধ্যপন্থা আঁকড়ে থাকো, তাহলে লক্ষ্যে পৌঁছে যাবে।\" বুখারী হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Close the Ruin Came",
+          "bn": "সর্বনাশ কত কাছে এসেছিল"
+        },
+        "p": [
+          {
+            "en": "Our verse answers the oath just before it, in kidta la-turdin, you almost ruined me. Al-Muyassar, explaining 37:56 and 37:57 together, says how: you came near to destroying me by turning me away from faith, had I obeyed you. Ibn Kathir's paraphrase of 37:56 carries the same condition, if I had obeyed you. On both readings the danger was never the friend's power over him. It was his own possible agreement, and the favour is what stood between him and it.",
+            "bn": "আমাদের আয়াত ঠিক আগের কসমের জবাব দেয়: ইন কিদতা লাতুরদীন, তুমি তো আমাকে প্রায় ধ্বংস করে দিয়েছিলে। মুয়াসসার ৩৭:৫৬ ও ৩৭:৫৭ একসঙ্গে ব্যাখ্যা করে বলে, কীভাবে: আমাকে ঈমান থেকে ফিরিয়ে তুমি প্রায় ধ্বংস করে ফেলছিলে, যদি আমি তোমার কথা মানতাম। ৩৭:৫৬ আয়াতের ব্যাখ্যায় ইবন কাসীরও একই শর্ত রাখেন: যদি আমি তোমার কথা মানতাম। দুই ব্যাখ্যাতেই বিপদটা বন্ধুর ক্ষমতায় ছিল না। বিপদ ছিল তার নিজের রাজি হয়ে যাওয়ার সম্ভাবনায়। আর মাঝখানে দাঁড়িয়ে ছিল সেই অনুগ্রহ।"
+          },
+          {
+            "en": "So the favour worked inside a living friendship, not by removing the friend. Nothing in the verses says the speaker was spared the mockery; he heard it often enough to quote it word for word in 37:52 and 37:53. The word almost measures the margin, and he does not pretend it was wide. His next words, in 37:58 and 37:59, turn to the joy of a life with no second death, and they belong to those verses. Here he is still looking at how near he came.",
+            "bn": "অনুগ্রহ তাই কাজ করেছে চলমান এক বন্ধুত্বের ভেতরেই, বন্ধুকে সরিয়ে দিয়ে নয়। আয়াতগুলোর কোথাও বলা নেই, ঠাট্টা থেকে বক্তা রেহাই পেয়েছিল। ঠাট্টাটা সে এত শুনেছে যে ৩৭:৫২ ও ৩৭:৫৩ আয়াতে হুবহু উদ্ধৃত করতে পারে। প্রায় শব্দটা ব্যবধান মাপে, আর ব্যবধান যে বড় ছিল, সে ভান সে করে না। পরের কথাগুলো, ৩৭:৫৮ ও ৩৭:৫৯ আয়াতে, আর কখনো না মরার আনন্দের দিকে ফেরে। সেগুলো ওই আয়াতগুলোর আলোচনা। এখানে সে এখনো তাকিয়ে আছে, কত কাছে চলে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Qur'an Withholds",
+          "bn": "নাম, যা কুরআন গোপন রেখেছে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an says plainly that the Qur'an does not identify this man, and nothing about him can be said with certainty. It then relays, through Tafsir Mazhari, that some commentators named the believer Yahudah and his companion Matrus and took them to be the two men of the parable in al-Kahf, 18:32. It also relays, from as-Suyuti's ad-Durr al-Manthur with reference to Ibn Jarir and others, a story from several of the Successors about two business partners. The notes on 37:53 retell that story; only its ending belongs here.",
+            "bn": "মাআরিফুল কুরআন সোজাসুজি বলে, কুরআন এই মানুষটির পরিচয় দেয়নি, আর তার সম্পর্কে নিশ্চিত করে কিছু বলা যায় না। তারপর তাফসীরে মাযহারীর সূত্রে জানায়, কিছু মুফাসসির মুমিনের নাম বলেছেন ইয়াহুদা, সাথীর নাম মাতরূস, আর তাদের ধরেছেন সূরা কাহফের ১৮:৩২ আয়াতের উপমার সেই দুই ব্যক্তি বলে। সুয়ূতীর আদ দুররুল মানসূর থেকে, ইবন জারীর ও অন্যদের বরাতে, তাবেয়ীদের কয়েকজনের কাছ থেকে দুই ব্যবসায়িক অংশীদারের এক কাহিনিও মাআরিফ তুলে আনে। ৩৭:৫৩ আয়াতের আলোচনায় কাহিনিটা বলা হয়েছে। এখানে শুধু তার শেষটুকু প্রাসঙ্গিক।"
+          },
+          {
+            "en": "In the version Ibn Kathir records through Ibn Jarir from Furat ibn Tha'laba al-Bahrani, the believer is told that his partner is in Hell, looks, and sees him there, and his reply is 37:56 and our verse; the report closes on this sentence. These are reports about the verse, not hadith of the Prophet ﷺ, and not a cause of revelation, and none of the commentators here ties the verse to a named occasion. Ma'arif itself adds that whoever this person was, it does not matter.",
+            "bn": "ইবন কাসীর ইবন জারীরের মাধ্যমে ফুরাত ইবন সা'লাবা আল বাহরানী থেকে যে বর্ণনা আনেন, তাতে মুমিনকে জানানো হয়, তার অংশীদার জাহান্নামে। সে তাকিয়ে তাকে সেখানে দেখতে পায়। তার জবাব হল ৩৭:৫৬ আর আমাদের এই আয়াত। বর্ণনাটা শেষ হয় এই বাক্যেই। এগুলো আয়াত সম্পর্কে বর্ণনা, নবী ﷺ-এর হাদীস নয়, শানে নুযূলও নয়। এখানকার কোনো মুফাসসির আয়াতটিকে নির্দিষ্ট কোনো ঘটনার সঙ্গে জুড়ে দেননি। মাআরিফ নিজেই যোগ করে, মানুষটি যে-ই হোক, তাতে কিছু যায় আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift, Not a Ranking",
+          "bn": "দান, শ্রেষ্ঠত্বের সনদ নয়"
+        },
+        "p": [
+          {
+            "en": "Look at whom the speaker is facing. Of everyone in creation, the friend who mocked him and lost is the one who could most tempt him to say, I was right. He says instead, my Lord's favour. That is the verse's lesson: guidance is Allah's favour before it is a person's achievement. It asks three things of a believer looking at his own faith: to thank Allah for it, to ask to be kept firm in it, as as-Sa'di and al-Muyassar describe the favour, and never to treat it as grounds for contempt.",
+            "bn": "বক্তা কার মুখোমুখি, সেটা খেয়াল করুন। সারা সৃষ্টির মধ্যে যে বন্ধু তাকে ঠাট্টা করেছিল আর হেরে গেছে, সে-ই সেই একজন, যার সামনে বলতে সবচেয়ে বেশি ইচ্ছে হওয়ার কথা: আমিই ঠিক ছিলাম। সে বরং বলে, আমার রবের অনুগ্রহ। এটাই আয়াতের শিক্ষা। হিদায়াত মানুষের কৃতিত্ব হওয়ার আগে আল্লাহর অনুগ্রহ। নিজের ঈমানের দিকে তাকানো মুমিনের কাছে আয়াতটি তিনটি জিনিস চায়। এর জন্য আল্লাহর শুকরিয়া আদায় করা। এতে অবিচল থাকার দোয়া করা, যেমন সা'দী ও মুয়াসসার অনুগ্রহটাকে বুঝিয়েছেন। আর একে কখনো কাউকে তুচ্ছ করার কারণ না বানানো।"
+          },
+          {
+            "en": "This verse describes what the text describes: one man's end in one scene of the Hereafter, seen with permission by the friend he once mocked. It licenses nothing against any living person or community, and it gives no one standing to say who among the living will be among those brought in. The only person the speaker passes judgement on is himself, and his judgement is that without a gift he would have been there too. A reader who takes the verse seriously begins with that same sentence, said about himself.",
+            "bn": "এ আয়াত শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: আখিরাতের এক দৃশ্যে এক মানুষের পরিণতি, যা অনুমতি নিয়ে দেখছে সেই বন্ধু, যাকে সে একসময় ঠাট্টা করত। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। জীবিতদের মধ্যে কে হাজির করা লোকদের দলে যাবে, সে কথা বলার অধিকারও কাউকে দেয় না। বক্তা রায় দেয় শুধু একজনের ব্যাপারে, নিজের। আর তার রায় হল, একটা দান না পেলে সেও ওখানেই থাকত। যে পাঠক আয়াতটিকে গুরুত্ব দিয়ে পড়েন, তিনি শুরু করেন ঠিক এই কথাটা দিয়ে, নিজের সম্পর্কে।"
+          }
+        ]
+      }
+    ]
+  },
   "37:63": {
     "sections": [
       {

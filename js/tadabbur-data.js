@@ -25789,6 +25789,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Paradise pairs beauty with a gaze that stays home. Guard your eyes now, keep your loyalty in your glances as well as your deeds, and let contentment end the searching.",
     "lessonBn": "জান্নাত সৌন্দর্যকে জুড়ে দেয় এমন দৃষ্টির সঙ্গে, যা নিজের ঘর ছেড়ে বেরোয় না। এখনই চোখের হেফাজত করুন, বিশ্বস্ততা রাখুন কাজের মতো দৃষ্টিতেও, আর তৃপ্তি দিয়ে খোঁজাখুঁজির ইতি টানুন।"
+  },
+  "37:57": {
+    "reflectionEn": "A man in Paradise looks down and finds the friend who used to laugh at the resurrection, standing in the middle of the Fire. He has just sworn that this friend almost ruined him. Now he says why he is not down there too: were it not for my Lord's favour, I would have been among those brought in. He does not mention a sharper mind, a stronger will or better choices. He names one thing, a favour from his Lord. The line between where he stands and where his friend stands, he says, was drawn by a gift. When I look at my own faith, how much of it do I quietly count as my own achievement?",
+    "reflectionBn": "জান্নাতের এক মানুষ নিচে তাকিয়ে দেখে, যে বন্ধু পুনরুত্থানের কথা শুনে হাসত, সে দাঁড়িয়ে আছে আগুনের ঠিক মাঝখানে। একটু আগেই সে কসম খেয়ে বলেছে, এই বন্ধু তাকে প্রায় ধ্বংস করে দিয়েছিল। এবার সে বলে, সে নিজে কেন ওখানে নেই: আমার রবের অনুগ্রহ না থাকলে আমিও হাজির করা লোকদের দলে থাকতাম। নিজের তীক্ষ্ণ বুদ্ধি, শক্ত মনোবল বা ভালো সিদ্ধান্তের কথা সে তোলে না। সে একটাই জিনিসের নাম নেয়, রবের অনুগ্রহ। তার দাঁড়ানোর জায়গা আর বন্ধুর দাঁড়ানোর জায়গার মাঝের রেখাটা টেনেছে একটা দান। নিজের ঈমানের দিকে তাকালে আমি এর কতটুকু চুপচাপ নিজের কৃতিত্ব বলে ধরে রাখি?",
+    "pointsEn": [
+      "When I compare myself with someone who has drifted from faith, is my first feeling gratitude, or a quiet sense that I was simply wiser?",
+      "Which friendship once pulled me toward a path I am now glad I left, and have I ever thanked Allah for the way out?",
+      "Do I ask Allah to keep me firm, or do I assume that because I believe today I will surely believe tomorrow?",
+      "If I truly saw my guidance as a gift, how would I speak about people who doubt?",
+      "When did I last praise Allah for faith itself, and not only for health or provision?"
+    ],
+    "pointsBn": [
+      "ঈমান থেকে সরে যাওয়া কারও সঙ্গে নিজেকে মেলালে আমার মনে প্রথমে কী জাগে? শুকরিয়া, নাকি চুপচাপ এই ভাবনা যে আমি তো বেশি বুঝদার ছিলাম?",
+      "কোন বন্ধুত্ব একসময় আমাকে এমন পথের দিকে টানছিল, যা ছেড়ে এসে এখন আমি খুশি? সেখান থেকে বেরোনোর পথের জন্য আমি কি কখনো আল্লাহর শুকরিয়া আদায় করেছি?",
+      "আমি কি আল্লাহর কাছে অবিচল থাকার দোয়া করি, নাকি ধরে নিই আজ ঈমান আছে মানে কালও নিশ্চয়ই থাকবে?",
+      "নিজের হিদায়াতকে যদি সত্যিই দান বলে দেখতাম, তাহলে যারা সন্দেহে আছে তাদের নিয়ে আমার কথা কেমন হত?",
+      "শুধু সুস্থতা বা রিজিকের জন্য নয়, ঈমানের জন্যই শেষ কবে আমি আল্লাহর প্রশংসা করেছি?"
+    ],
+    "lessonEn": "Your faith is your Lord's favour before it is your achievement. Thank Him for it, ask Him to keep it, and never look down on anyone from it.",
+    "lessonBn": "আপনার ঈমান আপনার কৃতিত্ব হওয়ার আগে আপনার রবের অনুগ্রহ। এর জন্য তাঁর শুকরিয়া আদায় করুন, তা ধরে রাখার দোয়া করুন, আর এর জোরে কাউকে কখনো ছোট করে দেখবেন না।"
   }
 };
 
