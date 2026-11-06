@@ -24889,6 +24889,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh people by their faith and character, not their wealth; set fair terms, leave room for generosity, and keep your word as one who hopes to be found among the righteous.",
     "lessonBn": "মানুষকে মাপুন তার দ্বীন ও চরিত্র দিয়ে, সম্পদ দিয়ে নয়। শর্ত রাখুন ন্যায্য, সদিচ্ছার জন্য জায়গা ছাড়ুন, আর কথা রাখুন সৎকর্মশীলদের মধ্যে গণ্য হওয়ার আশা নিয়ে।"
+  },
+  "29:10": {
+    "reflectionEn": "He said \"we believe in Allah\" while saying it cost him nothing. Then the cost arrived: a blow, a lost livelihood, a mocking tongue, all of it suffered for Allah's sake. And he weighed it as though it were the punishment of Allah Himself, though one comes from people and passes, and the other does not. When help reached the believers, he was back among them at once: we were with you all along. The verse closes with a question rather than a verdict: does Allah not know best what lies in every breast? So the mirror turns on me, not on the frightened. Which pressure from people do I treat as if it were final? And when the hard days have passed, where was I standing?",
+    "reflectionBn": "মুখে বলেছিল, ‘আমরা আল্লাহর প্রতি ঈমান এনেছি।’ তখন কথাটার কোনো দাম দিতে হয়নি। তারপর দাম চাওয়া হলো: মার, রুজি হারানো, লোকের ঠাট্টা, সবই আল্লাহর জন্য। আর সে এই কষ্টকে মেপে নিল আল্লাহর আজাবের সমান করে। অথচ একটা আসে মানুষের হাত থেকে, ফুরিয়েও যায়। অন্যটা ফুরায় না। মুমিনদের কাছে সাহায্য পৌঁছাতেই সে আবার তাদের ভিড়ে: আমরা তো সব সময় তোমাদের সঙ্গেই ছিলাম। আয়াত শেষ হয় রায় দিয়ে নয়, প্রশ্ন দিয়ে: প্রত্যেকের বুকে কী আছে, আল্লাহ কি তা সবচেয়ে ভালো জানেন না? তাই আয়নাটা ঘুরে আসে আমার দিকে, ভয় পাওয়া মানুষগুলোর দিকে নয়। মানুষের কোন চাপকে আমি শেষ কথা ধরে নিই? আর কঠিন দিন পার হয়ে গেলে দেখা যাবে, আমি তখন কোথায় দাঁড়িয়ে ছিলাম?",
+    "pointsEn": [
+      "What would it cost me today to hold to my faith in front of people who mock it, and have I already paid less than that to keep quiet?",
+      "Which threat from people, to my job, my name or my comfort, do I fear as if it came from Allah?",
+      "When good news reaches the believers, do I rush to say I was with them, having stood nowhere near them when it was hard?",
+      "Is there someone who gave way under pressure whom I look down on, when I have never carried what they carried?",
+      "Does it steady me or unsettle me that Allah knows what is in my breast better than anyone who sees my outside?"
+    ],
+    "pointsBn": [
+      "যারা ঈমান নিয়ে ঠাট্টা করে, তাদের সামনে আজ ঈমান আঁকড়ে থাকতে আমার কী দাম দিতে হবে? চুপ থাকার জন্য কি এর চেয়ে কম দামেই আমি রাজি হয়ে যাইনি?",
+      "চাকরি, সুনাম বা আরামের উপর মানুষের কোন হুমকিকে আমি এমন ভয় পাই, যেন তা আল্লাহর কাছ থেকে এসেছে?",
+      "মুমিনদের কাছে সুখবর এলে কি আমি ছুটে গিয়ে বলি, আমি তো তোমাদের সঙ্গেই ছিলাম, অথচ কঠিন সময়ে তাদের ধারেকাছেও ছিলাম না?",
+      "চাপের মুখে ভেঙে পড়েছে এমন কাউকে কি আমি তুচ্ছ চোখে দেখি, যদিও তার বোঝা আমাকে কখনো বইতে হয়নি?",
+      "আমার বাইরেটা যারা দেখে, তাদের সবার চেয়ে ভালো করে আল্লাহ জানেন আমার বুকে কী আছে। এ কথা আমাকে স্থির করে, নাকি অস্থির?"
+    ],
+    "lessonEn": "Hold to your faith when holding it costs you, remember that people's harm is not Allah's punishment, and never look down on those it has shaken.",
+    "lessonBn": "ঈমান ধরে রাখতে দাম দিতে হলেও ধরে রাখুন। মনে রাখুন, মানুষের দেওয়া কষ্ট আল্লাহর আজাব নয়। আর যারা সেই কষ্টে টলে গেছে, তাদের কখনো তুচ্ছ ভাববেন না।"
   }
 };
 

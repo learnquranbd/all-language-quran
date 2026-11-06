@@ -307,6 +307,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Said Easily, Tested Soon",
+          "bn": "সহজে বলা, শিগগিরই যাচাই"
+        },
+        "p": [
+          {
+            "en": "Surat al-Ankabut opened by asking whether people would be left to say we believe and not be tried (29:2 and 29:3), and 29:8 then took up parents who press a child toward shirk. Our verse turns to a kind of person who meets that trial and fails it. As-Sa'di draws the line between them: having said that whoever claims faith must be tested so the truthful appear apart from the liar, Allah makes clear that among people is a group with no patience under trials and no firmness under some of the shocks.",
+            "bn": "সূরা আনকাবূত শুরু হয়েছিল এক প্রশ্ন দিয়ে: মানুষ কি ভেবেছে, ‘আমরা ঈমান এনেছি’ বললেই তাদের পরীক্ষা ছাড়া ছেড়ে দেওয়া হবে (২৯:২ ও ২৯:৩)? এরপর ২৯:৮ আয়াতে এসেছে সেই বাবা-মায়ের কথা, যারা সন্তানকে শিরকের দিকে ঠেলে। আমাদের আয়াত এবার এমন এক ধরনের মানুষকে দেখায়, যে সেই পরীক্ষার মুখোমুখি হয়ে হেরে যায়। সা'দী দুই জায়গার মধ্যে যোগসূত্রটা টেনে দেন। ঈমানের দাবিদারকে পরীক্ষা করা হবেই, যাতে সত্যবাদী মিথ্যাবাদী থেকে আলাদা হয়ে যায়। এ কথা বলার পর আল্লাহ জানিয়ে দিলেন, মানুষের মধ্যে এমন একদল আছে, যাদের বিপদে ধৈর্য নেই, কিছু ধাক্কা এলেই যারা আর স্থির থাকে না।"
+          },
+          {
+            "en": "The verse runs to thirty-one Arabic words: wa mina an-nasi man yaqulu amanna billahi fa-idha udhiya fi Allahi ja'ala fitnata an-nasi ka-'adhabi Allah. It begins in the singular, one who says, is harmed and makes, and then in the second half moves to the plural, they will surely say, we were with you. The words from your Lord are addressed to the Prophet ﷺ, at-Tabari and Ibn Kathir both supplying O Muhammad, while with you, at-Tabari says, speaks to the believers.",
+            "bn": "আরবিতে আয়াতটি একত্রিশ শব্দের: ওয়া মিনান নাসি মাই ইয়াকূলু আমান্না বিল্লাহি ফা ইযা ঊযিয়া ফিল্লাহি জাআলা ফিতনাতান নাসি কাআযাবিল্লাহ। শুরুটা একবচনে: একজন বলে, একজনকে কষ্ট দেওয়া হয়, একজন মেপে নেয়। দ্বিতীয় ভাগে এসে ক্রিয়া বহুবচন হয়ে যায়: তারা অবশ্যই বলবে, আমরা তোমাদের সঙ্গে ছিলাম। ‘তোমার রবের পক্ষ থেকে’ কথাটি নবী ﷺ-কে উদ্দেশ করে, তাবারী আর ইবন কাসীর দুজনেই সেখানে ‘হে মুহাম্মাদ’ যোগ করে পড়েন। আর তাবারী বলেন, ‘তোমাদের সঙ্গে’ কথাটি মুমিনদের উদ্দেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harm Suffered for Allah",
+          "bn": "আল্লাহর জন্য পাওয়া কষ্ট"
+        },
+        "p": [
+          {
+            "en": "Amanna billah, we believe in Allah: at-Tabari glosses it as we acknowledged Allah and affirmed His oneness. Then fa-idha udhiya fi Allah, and when he is harmed for Allah. At-Tabari names the source and the reason: the polytheists harmed him for his acknowledgment of Allah. As-Sa'di lists what the harm looks like: beating, the taking of wealth, or taunting, all of it aimed at making him leave his religion and go back to falsehood. Al-Baghawi puts it briefly: affliction from people struck him, and he was tried.",
+            "bn": "আমান্না বিল্লাহ, আমরা আল্লাহর প্রতি ঈমান এনেছি। তাবারীর ব্যাখ্যায় এর মানে, আমরা আল্লাহকে স্বীকার করেছি আর তাঁর একত্ব মেনে নিয়েছি। তারপর ফা ইযা ঊযিয়া ফিল্লাহ, আর যখন আল্লাহর ব্যাপারে তাকে কষ্ট দেওয়া হয়। কষ্ট কে দিল আর কেন, তাবারী দুটোই বলেন: আল্লাহকে স্বীকার করার কারণে মুশরিকরা তাকে কষ্ট দিল। সা'দী কষ্টের চেহারাটা গুনে দেখান: মারধর, সম্পদ কেড়ে নেওয়া, কিংবা খোঁটা আর বিদ্রূপ। সবকিছুর লক্ষ্য একটাই, সে যেন দ্বীন ছেড়ে আবার বাতিলের দিকে ফিরে যায়। বাগাভী অল্প কথায় সারেন: মানুষের কাছ থেকে বিপদ এল, আর সে ফিতনায় পড়ল।"
+          },
+          {
+            "en": "Mujahid, in a report at-Tabari carries with its chain and al-Qurtubi gives in shorter form, draws the circle wider. He speaks of people who believe with their tongues, and when an affliction from Allah or a calamity in their own persons strikes them, they are thrown into trial and make it, in this world, like Allah's punishment in the Hereafter. On his reading the test is not only persecution by enemies. Any hardship can expose a faith that lived only on the tongue.",
+            "bn": "মুজাহিদের এক বর্ণনা তাবারী সনদসহ এনেছেন, কুরতুবী এনেছেন সংক্ষেপে। মুজাহিদ বৃত্তটা আরও বড় করে আঁকেন। তিনি এমন মানুষের কথা বলেন, যারা ঈমান আনে কেবল মুখে। আল্লাহর পক্ষ থেকে কোনো বিপদ এলে, কিংবা নিজেদের জানের উপর কোনো মুসিবত নামলে, তারা ফিতনায় পড়ে যায়। দুনিয়ার সেই কষ্টকে তারা আখিরাতে আল্লাহর আজাবের মতো ধরে নেয়। তাঁর ব্যাখ্যায় পরীক্ষা শুধু শত্রুর নির্যাতন নয়। যে ঈমান কেবল জিভে বেঁচে থাকে, যেকোনো কষ্ট তাকে খুলে দেখিয়ে দিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Unequal Weights",
+          "bn": "অসমান দুই পাল্লা"
+        },
+        "p": [
+          {
+            "en": "Ja'ala fitnata an-nasi ka-'adhabi Allah: he made the trial from people like the punishment of Allah. At-Tabari spells out both sides of the comparison: he made people's trial of him in this world like Allah's punishment in the Hereafter, and so he turned back from his faith to disbelief. Ibn 'Abbas, in a report at-Tabari carries and Ibn Kathir repeats, gives the core in a line: his trial is that he leaves Allah's religion when he is harmed for Allah.",
+            "bn": "জাআলা ফিতনাতান নাসি কাআযাবিল্লাহ: মানুষের দেওয়া পরীক্ষাকে সে আল্লাহর আজাবের মতো বানিয়ে নিল। তাবারী তুলনার দুই দিকই খুলে বলেন। দুনিয়ায় মানুষ তাকে যে পরীক্ষায় ফেলল, সেটাকে সে আখিরাতে আল্লাহর আজাবের সমান ধরে নিল, আর তাই ঈমান ছেড়ে কুফরের দিকে ফিরে গেল। তাবারী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা এনেছেন, ইবন কাসীরও তা উল্লেখ করেছেন। তাতে মূল কথাটা এক বাক্যে: তার ফিতনা হলো, আল্লাহর ব্যাপারে কষ্ট পেলে সে আল্লাহর দ্বীন ছেড়ে দেয়।"
+          },
+          {
+            "en": "Al-Baghawi locates the error in fear and obedience. The man panicked at the punishment people dealt him and did not bear it, and so he obeyed people the way someone who fears Allah's punishment obeys Allah. The Muyassar reads it as alarm: he was as distressed by the polytheists' torment and harm as anyone is distressed by the punishment of Allah, and did not endure their harm. In both, the fear that belongs to Allah alone has been handed to His creatures, and their orders followed accordingly.",
+            "bn": "বাগাভী ভুলটা খুঁজে পান ভয় আর আনুগত্যের জায়গায়। মানুষ যে শাস্তি দিল, তাতে লোকটা অস্থির হয়ে পড়ল, সইতে পারল না। ফলে আল্লাহর আজাবকে যে ভয় করে সে যেভাবে আল্লাহর আনুগত্য করে, ঠিক সেভাবে সে মানুষের আনুগত্য করল। মুয়াসসার একে দেখে ঘাবড়ে যাওয়া হিসেবে। মুশরিকদের নির্যাতন আর কষ্টে সে এমনভাবে ভেঙে পড়ল, যেমন মানুষ ভেঙে পড়ে আল্লাহর আজাবের সামনে। তাদের দেওয়া কষ্টে সে ধৈর্য ধরল না। দুই ব্যাখ্যাতেই যে ভয় কেবল আল্লাহর প্রাপ্য, তা তুলে দেওয়া হয়েছে তাঁর সৃষ্টির হাতে, আর হুকুমও মানা হয়েছে তাদেরই।"
+          },
+          {
+            "en": "As-Sa'di explains the comparison through what punishment does. Punishment holds a person back from the deed that brings it on, and this man lets people's harm hold him back in the same way from faith and from standing firm in it. Ibn Kathir gives another angle: such people take the trial and hardship that come in this world to be Allah's vengeance upon them, and so they leave Islam. Across the readings the fault is one of measure: harm that passes, set on the scale as though it weighed what Allah's punishment weighs.",
+            "bn": "সা'দী তুলনাটা বোঝান শাস্তির কাজ দিয়ে। শাস্তি মানুষকে সেই কাজ থেকে থামিয়ে রাখে, যার কারণে শাস্তি আসে। এই লোকটিও মানুষের দেওয়া কষ্টকে একইভাবে নিজের উপর কাজ করতে দেয়: সে থেমে যায় ঈমান থেকে, ঈমানে অটল থাকা থেকে। ইবন কাসীর অন্য দিক থেকে দেখেন। দুনিয়ায় পরীক্ষা আর কঠিন সময় এলে এরা ভাবে, এটা তাদের উপর আল্লাহর গজব, আর তাই ইসলাম ছেড়ে দেয়। সব ব্যাখ্যায় দোষটা মাপের। যে কষ্ট একদিন শেষ হয়ে যায়, তাকে পাল্লায় তোলা হলো এমনভাবে, যেন তার ওজন আল্লাহর আজাবের সমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hypocrite or Shaken Believer",
+          "bn": "মুনাফিক, নাকি টলে যাওয়া মুমিন"
+        },
+        "p": [
+          {
+            "en": "Who is the verse describing? One line of reports says hypocrites. Al-Qurtubi opens with it: the verse came down about the hypocrites, who used to say we believe in Allah. Ad-Dahhak, in at-Tabari and in al-Qurtubi, places them in Makkah: people among the hypocrites there who professed faith, and when they were harmed and afflicted by the polytheists went back to disbelief, in at-Tabari's wording out of fear of those harming them. Ibn Zayd, in at-Tabari, says it is the hypocrite, and al-Baghawi gives the same view from as-Suddi and Ibn Zayd together.",
+            "bn": "আয়াতটি কাদের কথা বলছে? এক ধারার বর্ণনা বলে, মুনাফিকদের। কুরতুবী এ কথা দিয়েই শুরু করেন: আয়াতটি নাযিল হয়েছে মুনাফিকদের ব্যাপারে, যারা বলত, আমরা আল্লাহর প্রতি ঈমান এনেছি। তাবারী আর কুরতুবী দুজনেই দাহহাকের মত আনেন, আর দাহহাক তাদের জায়গা দেখান মক্কায়। সেখানকার কিছু মুনাফিক মুখে ঈমানের কথা বলত। মুশরিকদের হাতে কষ্ট আর বিপদ এলে তারা আবার কুফরে ফিরে যেত। তাবারীর ভাষায়, যারা কষ্ট দিত তাদের ভয়ে। তাবারীর বর্ণনায় ইবন যায়দ বলেন, এ হলো মুনাফিক। বাগাভী একই মত আনেন সুদ্দী আর ইবন যায়দ দুজনের নামে।"
+          },
+          {
+            "en": "Ibn Kathir describes them as a people who claim faith with their tongues while it has not settled in their hearts, and Ma'arif al-Qur'an says they did not believe in Islam with their hearts. A second line of reports, which at-Tabari introduces with the words it is mentioned, says the verse came down about a people of faith in Makkah who set out as emigrants, were overtaken and seized, and, when the harm reached them, gave the polytheists what they wanted. The commentators set the two lines side by side, and neither is ranked here.",
+            "bn": "ইবন কাসীর তাদের বর্ণনা দেন এভাবে: তারা মুখে ঈমানের দাবি করে, অথচ ঈমান তাদের অন্তরে স্থির হয়নি। মাআরিফুল কুরআনও বলে, তারা অন্তর দিয়ে ইসলামে বিশ্বাস করেনি। দ্বিতীয় ধারার বর্ণনা তাবারী শুরু করেন ‘উল্লেখ করা হয়’ বলে। তাতে বলা হয়, আয়াতটি নাযিল হয়েছে মক্কার একদল ঈমানদারকে নিয়ে। তারা হিজরতের উদ্দেশে বেরিয়েছিল, পথে ধরা পড়ে বন্দি হয়। কষ্ট যখন চরমে পৌঁছাল, মুশরিকরা যা চাইছিল তারা তা-ই দিয়ে দিল। তাফসীরকারেরা দুই ধারাকে পাশাপাশি রেখেছেন, এখানেও কোনোটিকে অন্যটির উপরে রাখা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Overtaken on the Road Out",
+          "bn": "বেরোনোর পথে ধরা পড়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives that second line with its chain, from 'Ikrima from Ibn 'Abbas. Some people of Makkah had accepted Islam and were keeping it hidden. The polytheists took them out with them on the day of Badr, and some were wounded and some killed. The Muslims said: these companions of ours were Muslims and were compelled, and they asked forgiveness for them. Then 4:97 came down, about those whom the angels take while they wrong themselves. It was written to the Muslims still in Makkah that they had no excuse, and they set out.",
+            "bn": "এরপর তাবারী দ্বিতীয় ধারাটি সনদসহ আনেন, ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে। মক্কার কিছু মানুষ ইসলাম গ্রহণ করেছিল, কিন্তু তা গোপন রাখত। বদরের দিন মুশরিকরা তাদের নিজেদের সঙ্গে নিয়ে বের হলো। তাদের কেউ আহত হলো, কেউ নিহত। মুসলিমরা বলল, আমাদের এই সাথীরা তো মুসলিম ছিল, তাদের বাধ্য করা হয়েছিল। তারা তাদের জন্য ইস্তিগফার করল। তখন নাযিল হলো ৪:৯৭ আয়াত, যাদের প্রাণ ফেরেশতারা নেয় এমন অবস্থায় যে তারা নিজেদের উপর জুলুম করছিল। মক্কায় থেকে যাওয়া মুসলিমদের কাছে লিখে জানানো হলো, তাদের আর কোনো ওজর নেই। তারা বেরিয়ে পড়ল।"
+          },
+          {
+            "en": "The polytheists caught up with them, and they gave them the trial, yielding what was demanded, and this verse came down about them. The Muslims wrote it to them, and they went out despairing of every good. Then 16:110 came down about them: then your Lord, for those who emigrated after they had been tried, then strove and were patient, your Lord after that is Forgiving, Merciful. The Muslims wrote: Allah has made a way out for you. They set out, were overtaken, and fought, until whoever escaped escaped and whoever was killed was killed.",
+            "bn": "মুশরিকরা পথে তাদের ধরে ফেলল, আর তারা চাপের মুখে মুশরিকদের দাবি মেনে নিল। তাদের নিয়েই নাযিল হলো এই আয়াত। মুসলিমরা চিঠিতে তা তাদের জানাল। তারা বেরোল সব কল্যাণের আশা হারিয়ে। তারপর তাদের নিয়েই নাযিল হলো ১৬:১১০ আয়াত: তারপর যারা ফিতনায় পড়ার পর হিজরত করেছে, তারপর জিহাদ করেছে আর ধৈর্য ধরেছে, তোমার রব তাদের জন্য, এরপর অবশ্যই ক্ষমাশীল, পরম দয়ালু। মুসলিমরা লিখে পাঠাল: আল্লাহ তোমাদের জন্য বেরোনোর পথ করে দিয়েছেন। তারা আবার বেরোল। মুশরিকরা ধরে ফেলল, লড়াই হলো। যার বাঁচার ছিল সে বাঁচল, যার নিহত হওয়ার ছিল সে নিহত হলো।"
+          },
+          {
+            "en": "Al-Qurtubi gives 'Ikrima's account more briefly, saying some of them were tried. He also gives, under the words it is said, 'Ayyash ibn Abi Rabi'a (RA), who accepted Islam and emigrated, then was harmed and beaten and recanted; those who tormented him were Abu Jahl and al-Harith, his brothers through his mother. Ibn 'Abbas said, he adds, that 'Ayyash lived a long time after and his Islam became good. Qatada, in at-Tabari, ties 29:10 and 29:11 to those the polytheists returned to Makkah. As-Sa'di, without naming anyone, calls it a sort of people.",
+            "bn": "কুরতুবী ইকরিমার বিবরণ আনেন আরও সংক্ষেপে: তাদের কেউ কেউ ফিতনায় পড়ে গেল। তিনি ‘বলা হয়’ বলে আরেকটি বর্ণনাও আনেন, আইয়াশ ইবন আবী রাবীআ (রাঃ)-কে নিয়ে। তিনি ইসলাম গ্রহণ করে হিজরত করেছিলেন। তারপর তাঁকে কষ্ট দেওয়া হলো, মারধর করা হলো, আর তিনি দ্বীন থেকে ফিরে গেলেন। তাঁকে নির্যাতন করেছিল আবু জাহল আর হারিস, মায়ের দিক থেকে তাঁর দুই ভাই। কুরতুবী যোগ করেন, ইবন আব্বাস (রাঃ) বলেছেন, এরপর আইয়াশ দীর্ঘকাল বেঁচে ছিলেন এবং তাঁর ইসলাম সুন্দর হয়েছিল। তাবারীর বর্ণনায় কাতাদা ২৯:১০ ও ২৯:১১ আয়াতকে জোড়েন তাদের সঙ্গে, যাদের মুশরিকরা মক্কায় ফিরিয়ে নিয়েছিল। সা'দী কারও নাম নেন না, শুধু বলেন, এ এক ধরনের মানুষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back When Victory Comes",
+          "bn": "বিজয় এলে আবার হাজির"
+        },
+        "p": [
+          {
+            "en": "Wa la'in ja'a nasrun min rabbika la-yaqulunna inna kunna ma'akum: and if help comes from your Lord, they will surely say, we were with you. Ibn Kathir reads the help as a near victory, with conquest and spoils, and their words as we were your brothers in religion. Al-Baghawi reads it as conquest and the upper hand for the believers. At-Tabari, followed closely by the Muyassar, gives their claim in full: we were with you, helping you against your enemies. At-Tabari adds two words of his own about it: lying and falsehood.",
+            "bn": "ওয়া লাইন জাআ নাসরুম মির রাব্বিকা লাইয়াকূলুন্না ইন্না কুন্না মাআকুম: আর তোমার রবের পক্ষ থেকে সাহায্য এলে তারা অবশ্যই বলবে, আমরা তো তোমাদের সঙ্গেই ছিলাম। ইবন কাসীরের ব্যাখ্যায় সাহায্য মানে কাছাকাছি কোনো বিজয়, সঙ্গে জয় আর গনিমত। আর তাদের কথার মানে, আমরা তো দ্বীনের দিক থেকে তোমাদের ভাই। বাগাভী একে পড়েন মুমিনদের বিজয় আর ক্ষমতা হিসেবে। তাবারী তাদের দাবিটা পুরো বলেন, মুয়াসসারও প্রায় একই কথায়: আমরা তোমাদের সঙ্গে ছিলাম, শত্রুর বিরুদ্ধে তোমাদের সাহায্য করছিলাম। তাবারী নিজে এর সঙ্গে জুড়ে দেন দুটি শব্দ: মিথ্যা আর বানোয়াট।"
+          },
+          {
+            "en": "Al-Baghawi has them add an excuse: we were Muslims, and we were only compelled until we said what we said. Ma'arif al-Qur'an describes the same move, people who joined the unbelievers fearing torture and, when Allah's help came to the Muslims, pleaded that fear alone had made them do it. Al-Baghawi says Allah gave them the lie with the closing words of the verse, which he explains as knowing what is in hearts of faith and of hypocrisy. As-Sa'di gives the motive for the claim: it agrees with what they desire.",
+            "bn": "বাগাভীর বর্ণনায় তারা একটা অজুহাতও জুড়ে দেয়: আমরা তো মুসলিমই ছিলাম, আমাদের বাধ্য করা হয়েছিল, তাই যা বলার বলেছি। মাআরিফুল কুরআনও একই চালের কথা বলে। নির্যাতনের ভয়ে তারা কাফিরদের দলে ভিড়েছিল। মুসলিমদের কাছে আল্লাহর সাহায্য আসতেই তারা বলল, শুধু ভয়ের কারণেই অমন করেছিলাম। বাগাভী বলেন, আয়াতের শেষ কথাগুলো দিয়ে আল্লাহ তাদের মিথ্যা ধরিয়ে দিয়েছেন। সেই কথার ব্যাখ্যা তিনি দেন এভাবে: অন্তরে কার ঈমান আর কার নিফাক, আল্লাহ তা জানেন। সা'দী দাবিটার পেছনের কারণ বলেন: এটা তাদের মনের খেয়ালের সঙ্গে মিলে যায়।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 4:141, those who wait and watch you: if a victory from Allah is yours, they say, were we not with you? Both he and as-Sa'di set it beside 22:11 as well: among people is he who worships Allah on an edge; if good reaches him he is content with it, and if a trial reaches him he turns on his face, losing this world and the Hereafter.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন ৪:১৪১ আয়াতের পাশে। যারা তোমাদের ব্যাপারে ওত পেতে থাকে, আল্লাহর পক্ষ থেকে তোমাদের বিজয় এলে তারা বলে, আমরা কি তোমাদের সঙ্গে ছিলাম না? ইবন কাসীর আর সা'দী দুজনেই একে মেলান ২২:১১ আয়াতের সঙ্গেও। মানুষের মধ্যে কেউ আল্লাহর ইবাদত করে কিনারায় দাঁড়িয়ে। ভালো কিছু পেলে তাতে নিশ্চিন্ত থাকে, আর পরীক্ষা এলে মুখ ফিরিয়ে চলে যায়। দুনিয়া আর আখিরাত দুটোই সে হারায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Every Breast Holds",
+          "bn": "প্রতিটি বুকের ভেতরের খবর"
+        },
+        "p": [
+          {
+            "en": "A-wa laysa Allahu bi-a'lama bi-ma fi suduri al-'alamin: is Allah not most knowing of what is in the breasts of all creatures? At-Tabari: He knows it better than anyone, of all His creation; so how can He be deceived, from whom nothing hidden is hidden, secret or open? Ibn Kathir: He knows what their hearts hold and their consciences conceal, even when they show you agreement. As-Sa'di finds the proof in the verse itself: by telling you of this group, He lets you see how complete His knowledge is.",
+            "bn": "আওয়া লাইসাল্লাহু বিআ'লামা বিমা ফী সুদূরিল আলামীন: সব সৃষ্টির বুকে কী আছে, আল্লাহ কি তা সবচেয়ে ভালো জানেন না? তাবারী বলেন, তাঁর গোটা সৃষ্টির মধ্যে কে কী লুকিয়ে রাখে, তিনি তা সবার চেয়ে ভালো জানেন। যাঁর কাছে কোনো গোপন কথা গোপন থাকে না, প্রকাশ্য বা অপ্রকাশ্য, তাঁকে কে ধোঁকা দেবে? ইবন কাসীর বলেন, বাইরে তারা তোমাদের সঙ্গে একমত দেখালেও তাদের অন্তর কী ধরে রাখে, মন কী লুকায়, আল্লাহ তা জানেন। সা'দী প্রমাণটা খুঁজে পান আয়াতের ভেতরেই। এই দলের খবর জানিয়ে দিয়ে আল্লাহ তোমাদের দেখিয়ে দিলেন, তাঁর জ্ঞান কত পূর্ণ।"
+          },
+          {
+            "en": "The next verse, 29:11, says Allah will surely make evident those who believe and the hypocrites, and Ibn Kathir explains that He tests people with hardship and ease to tell the two apart: who obeys Allah in hardship and in ease alike, and who obeys Him only while things go as he wishes. No commentator here attaches a sound hadith to 29:10; the reports above come from Companions and Followers.",
+            "bn": "পরের আয়াত ২৯:১১ বলে, আল্লাহ অবশ্যই প্রকাশ করে দেবেন কারা ঈমান এনেছে আর কারা মুনাফিক। ইবন কাসীর ব্যাখ্যা করেন, কষ্ট আর স্বস্তি দিয়ে আল্লাহ মানুষকে পরীক্ষা করেন, যাতে দুই দল আলাদা হয়ে যায়। কে কষ্টে আর স্বস্তিতে সমানভাবে আল্লাহর আনুগত্য করে, আর কে আনুগত্য করে কেবল ততক্ষণ, যতক্ষণ সবকিছু তার মনমতো চলে। এখানকার কোনো তাফসীরকার ২৯:১০ আয়াতের সঙ্গে কোনো সহীহ হাদীস জোড়েননি। ওপরের বর্ণনাগুলো সাহাবি আর তাবিয়ীদের।"
+          },
+          {
+            "en": "A general narration, not attached to this verse, describes the opposite weighing. Al-Bukhari relates in his Sahih, number 21, from Anas (RA) that the Prophet ﷺ said: Three things, whoever has them finds the sweetness of faith: that Allah and His Messenger are dearer to him than all else; that he loves a servant, loving him only for Allah; and that he hates to return to disbelief after Allah has rescued him from it, as he hates to be thrown into the Fire. Its place in his Sahih is al-Bukhari's own grading. Here it is disbelief, not people's harm, that is feared like the Fire.",
+            "bn": "একটি সাধারণ হাদীস, যা এ আয়াতের সঙ্গে যুক্ত নয়, উল্টো দিকের মাপটা দেখায়। বুখারী ২১ নম্বরে আনাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: তিনটি জিনিস যার মধ্যে থাকে, সে ঈমানের মিষ্টতা পায়। আল্লাহ আর তাঁর রাসূল তার কাছে অন্য সবকিছুর চেয়ে প্রিয় হবেন। সে কোনো বান্দাকে ভালোবাসবে শুধু আল্লাহর জন্য। আর আল্লাহ তাকে কুফর থেকে উদ্ধার করার পর আবার সেখানে ফিরে যাওয়াকে সে এমন অপছন্দ করবে, যেমন অপছন্দ করে আগুনে নিক্ষিপ্ত হওয়াকে। বুখারী হাদীসটি তাঁর সহীহ গ্রন্থে রেখেছেন, সেটাই তাঁর নিজের দেওয়া মান। এখানে আগুনের মতো ভয় করা হচ্ছে কুফরে ফেরাকে, মানুষের দেওয়া কষ্টকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firm, Without Scorn for the Shaken",
+          "bn": "নিজে অটল, টলে যাওয়াদের প্রতি নরম"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: one who claims faith, breaks under harm, and claims a share when victory comes, with what was in his breast left to Allah. It licenses nothing against any living person or community, and gives no reader the right to sort the persecuted into the sincere and the hypocrites. In at-Tabari's report, those who gave way set out again and 16:110 promised forgiveness; of 'Ayyash, Ibn 'Abbas said his Islam became good.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে যা পাঠে আছে: একজন ঈমানের দাবি করে, কষ্টে ভেঙে পড়ে, আবার বিজয় এলে ভাগ চাইতে আসে। আর তার বুকে কী ছিল, সেই বিচার আল্লাহর হাতে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। নির্যাতিতদের খাঁটি আর মুনাফিকে ভাগ করার অধিকারও কোনো পাঠককে দেয় না। তাবারীর বর্ণনায় যারা চাপে নতি স্বীকার করেছিল, তারা আবার বেরিয়েছিল, আর ১৬:১১০ আয়াত তাদের ক্ষমার কথা শুনিয়েছিল। আইয়াশ (রাঃ) সম্পর্কে ইবন আব্বাস (রাঃ) বলেছেন, তাঁর ইসলাম সুন্দর হয়েছিল।"
+          },
+          {
+            "en": "What the verse asks of its reader is steadiness. Harm for Allah's sake still comes in the forms as-Sa'di lists, the blow, the loss, the taunt, and at-Tabari's measure answers each of them: this harm belongs to this world, and Allah's punishment to the Hereafter. Hold that measure when the cost arrives. And hold the shaken gently, since the reports that name them end not in contempt but with a door left open.",
+            "bn": "আয়াতটি পাঠকের কাছে চায় দৃঢ়তা। আল্লাহর জন্য কষ্ট আজও আসে সা'দীর গোনা সেই চেহারাগুলোতেই: মার, ক্ষতি আর খোঁটা। তাবারীর মাপকাঠি এর প্রত্যেকটির জবাব দেয়। এই কষ্ট দুনিয়ার, আর আল্লাহর আজাব আখিরাতের। দাম দেওয়ার সময় এলে সেই মাপকাঠি শক্ত করে ধরে রাখুন। আর যারা টলে গেছে, তাদের নরম হাতে ধরুন। যে বর্ণনাগুলো তাদের কথা বলে, সেগুলো শেষ হয়েছে অবজ্ঞায় নয়, খোলা রাখা এক দরজায়।"
+          }
+        ]
+      }
+    ]
+  },
   "29:14": {
     "sections": [
       {
