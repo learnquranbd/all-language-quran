@@ -319,6 +319,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Scoffers to a Servant",
+          "bn": "বিদ্রূপকারীদের পর এক বান্দা"
+        },
+        "p": [
+          {
+            "en": "The verses before this one belong to the deniers. In 34:7 and 34:8 they mock a man who says they will be raised after their bodies are torn apart, and ask whether he has lied about Allah or is possessed. 34:9 answers by pointing at the sky above them and the ground beneath them, and closes: in that is a sign for every servant who turns back, munib. Then, with wa-laqad, and We certainly, the surah turns to a servant of Allah and to what he was given.",
+            "bn": "এর আগের আয়াতগুলো অস্বীকারকারীদের। ৩৪:৭ ও ৩৪:৮ আয়াতে তারা এমন একজন মানুষকে নিয়ে ঠাট্টা করে, যিনি বলেন শরীর ছিন্নভিন্ন হয়ে যাওয়ার পরও তাদের আবার ওঠানো হবে। তারা প্রশ্ন তোলে, লোকটা কি আল্লাহর নামে মিথ্যা বানিয়েছে, নাকি তাকে জিনে ধরেছে? ৩৪:৯ আয়াত জবাব দেয় মাথার উপরের আকাশ আর পায়ের নিচের মাটি দেখিয়ে। আয়াতটি শেষ হয় এ কথায়: এতে নিদর্শন আছে আল্লাহর দিকে ফিরে আসা প্রত্যেক বান্দার জন্য, মুনীব। তারপর ওয়া লাকাদ, নিশ্চয়ই আমি, এই শব্দে সূরা ফিরে তাকায় আল্লাহর এক বান্দার দিকে, আর তাঁকে কী দেওয়া হয়েছিল সেদিকে।"
+          },
+          {
+            "en": "Two of the commentaries name the purpose of the turn, and they place it differently. Al-Qurtubi reads it as addressed to those who denied the prophethood of Muhammad ﷺ: sending messengers is nothing new, for We sent messengers before, supported them with miracles and punished those who opposed them. Ma'arif al-Qur'an ties it to the denial of resurrection just answered: the stories of Dawud and Sulayman (AS) show Allah's power through acts people thought impossible, such as making iron as soft as wax. The verse itself names neither audience.",
+            "bn": "এই মোড় ঘোরার উদ্দেশ্য দুটি তাফসীর বলে দেয়, তবে দুই রকমভাবে। কুরতুবীর মতে কথাটা তাদের উদ্দেশে, যারা মুহাম্মাদ ﷺ-এর নবুওয়াত অস্বীকার করত। রাসূল পাঠানো নতুন কিছু নয়। আগেও আমি রাসূল পাঠিয়েছি, মুজিযা দিয়ে তাঁদের সাহায্য করেছি, আর বিরোধীদের শাস্তি দিয়েছি। মাআরিফুল কুরআন একে জুড়ে দেয় সদ্য জবাব পাওয়া পুনরুত্থান-অস্বীকারের সঙ্গে। দাঊদ ও সুলাইমান (আঃ)-এর কাহিনি দেখায়, মানুষ যা অসম্ভব ভাবত, যেমন লোহাকে মোমের মতো নরম করা, আল্লাহ তা ঘটিয়ে নিজের কুদরত দেখিয়েছেন। আয়াত নিজে কোনো শ্রোতার নাম নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bounty, and Its Source",
+          "bn": "অনুগ্রহ ও তার উৎস"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad atayna Dawuda minna fadlan: and We certainly gave Dawud bounty from Us. Al-Qurtubi glosses fadl as a matter by which We preferred him over others, then records that the scholars named nine things it might be: prophethood; the Zabur; knowledge, citing 27:15; strength, citing 38:17, the possessor of might; the subjecting of mountains and people; and four more, among them just judgement, the softening of iron and beauty of voice. Ma'arif al-Qur'an glosses the word as excess, favour or grace: attributes given to him beyond others.",
+            "bn": "ওয়া লাকাদ আতাইনা দাঊদা মিন্না ফাদলা: আর নিশ্চয়ই আমি দাঊদকে আমার পক্ষ থেকে অনুগ্রহ দিয়েছিলাম। কুরতুবী ফাদলের অর্থ করেন এমন বিষয়, যা দিয়ে আমি তাঁকে অন্যদের উপর মর্যাদা দিয়েছি। তারপর জানান, এ অনুগ্রহ কী ছিল তা নিয়ে আলিমরা নয়টি জিনিসের কথা বলেছেন। নবুওয়াত; যাবূর; জ্ঞান, প্রমাণ ২৭:১৫; শক্তি, প্রমাণ ৩৮:১৭ আয়াতের 'যাল আইদ'; পাহাড় ও মানুষকে বশীভূত করা; আর বাকি চারটি, যার মধ্যে আছে ন্যায়বিচার, লোহা নরম করা ও সুন্দর কণ্ঠ। মাআরিফুল কুরআন শব্দটির অর্থ করে বাড়তি, অনুগ্রহ বা দয়া: অন্যদের চেয়ে বেশি করে তাঁকে দেওয়া কিছু গুণ।"
+          },
+          {
+            "en": "The other commentators give shorter lists that fall inside his. Al-Baghawi names prophethood and the Book, then, under it is said, kingship, and then everything Dawud was singled out for, beauty of voice, softened iron and the rest. The Muyassar says prophethood, a Book and knowledge. Ibn Kathir speaks of prophethood joined with firm kingship and numerous troops, and of a mighty voice. As-Sa'di widens it to beneficial knowledge, righteous action, and blessings of religion and of this world. Whatever the content, the small word minna, from Us, names the Giver before the gift.",
+            "bn": "অন্য তাফসীরকারদের তালিকা ছোট, আর সবগুলোই কুরতুবীর তালিকার ভেতরে পড়ে। বাগাভী বলেন নবুওয়াত ও কিতাব। তারপর 'বলা হয়' দিয়ে আনেন রাজত্ব, আর এরপর দাঊদ (আঃ)-কে বিশেষভাবে যা কিছু দেওয়া হয়েছিল: সুন্দর কণ্ঠ, নরম লোহা ইত্যাদি। মুয়াসসার বলে নবুওয়াত, কিতাব ও জ্ঞান। ইবন কাসীর বলেন নবুওয়াতের সঙ্গে মজবুত রাজত্ব আর বিপুল সৈন্যবাহিনীর কথা, আর এক বিশাল কণ্ঠের কথা। সা'দী একে আরও প্রশস্ত করেন: উপকারী জ্ঞান, নেক আমল, দ্বীন ও দুনিয়ার নিয়ামত। অনুগ্রহটা যা-ই হোক, ছোট্ট শব্দ মিন্না, আমার পক্ষ থেকে, দানের আগে দাতার কথা বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Send the Praise Back",
+          "bn": "তাসবীহ ফিরিয়ে দাও"
+        },
+        "p": [
+          {
+            "en": "Ya jibalu awwibi ma'ahu: O mountains, awwibi with him. At-Tabari supplies the unspoken and We said, and glosses the command as glorify with him when he glorifies. He then gathers the early authorities who said sabbihi, glorify: Ibn Abbas by two routes, Mujahid by two, Qatada with the addition when he glorified, Ibn Zayd, who adds and the birds too, ad-Dahhak and Abu Abd ar-Rahman. Ibn Kathir names Ibn Abbas and Mujahid for the same gloss.",
+            "bn": "ইয়া জিবালু আওয়িবী মাআহু: হে পর্বতমালা, তার সঙ্গে আওয়িবী। তাবারী না-বলা কথাটা জুড়ে দেন, 'আর আমি বললাম', আর আদেশটির অর্থ করেন: সে যখন তাসবীহ পড়ে, তোমরাও তার সঙ্গে তাসবীহ পড়ো। এরপর তিনি একে একে আনেন আগের যুগের সেই আলিমদের, যাঁরা অর্থ বলেছেন সাব্বিহী, তাসবীহ পড়ো। ইবন আব্বাস (রাঃ) দুই সূত্রে, মুজাহিদ দুই সূত্রে, কাতাদা 'যখন সে তাসবীহ পড়ে' যোগ করে, ইবন যায়দ 'পাখিরাও' যোগ করে, আর দাহহাক ও আবু আবদুর রহমান। ইবন কাসীরও এ অর্থের জন্য ইবন আব্বাস ও মুজাহিদের নাম নেন।"
+          },
+          {
+            "en": "Two of them add a note on the word. At-Tabari says that ta'wib among the Arabs means returning, and a man's spending the night at home with his family, and cites a line of verse for it. Abu Maysara, reported by at-Tabari and al-Qurtubi, said the word means glorify in the language of Abyssinia. Ibn Kathir finds that doubtful, because ta'wib in Arabic already means tarji', sending back: the mountains and birds were ordered to send their voices back with his. The right meaning, he concludes, is return with him, glorifying with him.",
+            "bn": "দুজন শব্দটি নিয়ে আলাদা মন্তব্য করেন। তাবারী বলেন, আরবদের কাছে তা'বীব মানে ফিরে আসা, আর রাতে নিজের ঘরে পরিবারের কাছে থাকা। এর পক্ষে তিনি একটি কবিতার চরণ উদ্ধৃত করেন। আবু মাইসারা বলেছিলেন, শব্দটি হাবশার ভাষায় 'তাসবীহ পড়ো' অর্থে। তাবারী ও কুরতুবী দুজনেই তাঁর কথা এনেছেন। ইবন কাসীর এ মত সন্দেহজনক মনে করেন, কারণ আরবিতে তা'বীব শব্দের মানেই তারজী', অর্থাৎ ফিরিয়ে দেওয়া। পাহাড় ও পাখিকে আদেশ করা হয়েছিল তাঁর কণ্ঠের সঙ্গে নিজেদের কণ্ঠ ফিরিয়ে দিতে। তাঁর সিদ্ধান্ত: সঠিক অর্থ হলো, তার সঙ্গে ফিরিয়ে বলো, তার সঙ্গে তাসবীহ পড়তে পড়তে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an follows the same line, deriving awwibi from ta'wib, to return or repeat: once Dawud (AS) began his remembrance and glorification, the mountains were to repeat the same words after him. As-Sa'di describes the mountains and birds repeating the glorification and praise of their Lord in answer to him. Across these glosses one thing does not move. The hills are not told simply to praise; they are told to praise ma'ahu, with him, keeping time with one man's voice.",
+            "bn": "মাআরিফুল কুরআনও একই পথে চলে। আওয়িবী এসেছে তা'বীব থেকে, যার অর্থ ফিরে আসা বা পুনরাবৃত্তি করা। দাঊদ (আঃ) যখন জিকির ও তাসবীহ শুরু করতেন, পাহাড়ের কাজ ছিল তাঁর পরে সেই একই শব্দগুলো আবার বলা। সা'দীর ভাষায়, পাহাড় ও পাখি তাঁর জবাবে নিজেদের রবের তাসবীহ ও প্রশংসা ফিরিয়ে ফিরিয়ে বলত। এই সব ব্যাখ্যায় একটা কথা স্থির থাকে। পাহাড়কে শুধু তাসবীহ পড়তে বলা হয়নি, বলা হয়েছে মাআহু, তার সঙ্গে। একজন মানুষের কণ্ঠের তালে তাল মিলিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day's Journey, or a Lament",
+          "bn": "দিনভর পথচলা, নাকি বিলাপ"
+        },
+        "p": [
+          {
+            "en": "Another line of meaning comes from travel. Ibn Kathir reports that az-Zajjaji, in his grammar al-Jumal, read it as travel with him the whole day, ta'wib being the day's journey and isad the night's. Ibn Kathir calls this very strange, found with no one else; the language allows it, he grants, but it is far from the meaning here. Al-Baghawi, citing al-Qutaybi, keeps the travel sense but turns it to praise: as if Allah said, spend the whole day glorifying with him. Ibn Kathir's rejection and al-Qutaybi's use of the travel sense stand side by side.",
+            "bn": "অর্থের আরেকটি ধারা এসেছে পথচলা থেকে। ইবন কাসীর জানান, যাজ্জাজী তাঁর ব্যাকরণগ্রন্থ আল-জুমালে এর অর্থ করেছেন: সারাদিন তার সঙ্গে চলো। তাঁর মতে তা'বীব হলো দিনভর চলা, আর ইসআদ রাতভর চলা। ইবন কাসীর একে খুবই অদ্ভুত বলেন, আর কারও কাছে তিনি এ মত পাননি। ভাষায় এর সুযোগ আছে, তিনি মানেন, কিন্তু এখানে আয়াতের অর্থ থেকে তা অনেক দূরে। বাগাভী কুতাইবীর বরাতে পথচলার অর্থটা রাখেন, তবে তাকে তাসবীহের দিকে ঘুরিয়ে দেন। যেন আল্লাহ বলছেন: সারাটা দিন তার সঙ্গে তাসবীহে কাটাও। ইবন কাসীরের প্রত্যাখ্যান আর কুতাইবীর পথচলা-অর্থের ব্যবহার, দুটোই পাশাপাশি থাকে।"
+          },
+          {
+            "en": "There was also a variant reading. At-Tabari reports that some read ubi ma'ahu, from aba ya'ubu, meaning go about with him, and says he does not permit it, because it departs from the reading of the authoritative body of reciters. Al-Qurtubi names al-Hasan and Qatada among those who read ubi, return with him. Wahb ibn Munabbih, in al-Baghawi and al-Qurtubi, gave a different sense again: lament with him. No chain to the Prophet ﷺ stands behind it.",
+            "bn": "একটি ভিন্ন কিরাআতও ছিল। তাবারী জানান, কেউ কেউ পড়তেন ঊবী মাআহু, আবা ইয়াঊবু থেকে, অর্থ: তার সঙ্গে ঘুরে বেড়াও। তাবারী বলেন, এভাবে পড়া তিনি জায়েয মনে করেন না, কারণ তা প্রামাণ্য কারীদের সম্মিলিত কিরাআতের বিপরীত। কুরতুবী জানান, যাঁরা ঊবী পড়তেন, অর্থাৎ তার সঙ্গে ফিরে এসো, তাঁদের মধ্যে ছিলেন হাসান ও কাতাদা। ওয়াহব ইবন মুনাব্বিহ আবার আরেক অর্থ দেন: তার সঙ্গে বিলাপ করো। বাগাভী ও কুরতুবী দুজনেই তা এনেছেন। নবী ﷺ পর্যন্ত কোনো সনদ এ ব্যাখ্যার পেছনে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift, Not an Echo",
+          "bn": "প্রতিধ্বনি নয়, অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di asks why this was a blessing and gives several answers. It was among Dawud's particular gifts, given to no one before or after him. Seeing solid things and animals answer one another in praise would stir him, and stir others, to remember Allah. Many scholars, he adds, said it was delight at Dawud's voice: when he repeated glorification in a voice beyond any other, all who heard were moved, humans and jinn, even birds and mountains. Lastly, he may earn the reward of their glorifying, since he was its cause.",
+            "bn": "এ ঘটনা কেন অনুগ্রহ, সা'দী সে প্রশ্ন তোলেন আর কয়েকটি জবাব দেন। এটা দাঊদ (আঃ)-এর বিশেষ দানগুলোর একটি, যা তাঁর আগে বা পরে আর কাউকে দেওয়া হয়নি। নিষ্প্রাণ বস্তু আর প্রাণীদের পরস্পর তাসবীহে সাড়া দিতে দেখলে তাঁর মনে, অন্যদের মনেও, আল্লাহর জিকিরের আগ্রহ জেগে উঠত। তিনি আরও বলেন, অনেক আলিমের মতে এটা ছিল দাঊদের কণ্ঠে মুগ্ধ হওয়া। অতুলনীয় সেই কণ্ঠে তিনি তাসবীহ ফিরিয়ে ফিরিয়ে পড়লে যে-ই শুনত সে-ই আবিষ্ট হতো, মানুষ, জিন, এমনকি পাখি আর পাহাড়ও। শেষে বলেন, হয়তো তাদের তাসবীহের সওয়াবও তিনি পাবেন, কারণ তিনিই এর উপলক্ষ।"
+          },
+          {
+            "en": "Al-Qurtubi gives the theological account: Allah created glorification in the mountains as He created speech in the tree, so that people heard from them what is heard from a person glorifying, a miracle for Dawud. Wahb, as al-Qurtubi reports him, offers a more physical picture, which al-Baghawi also gives. When Dawud called out, the mountains answered with their echo and the birds gathered over him, and the echo people hear in mountains today, he says, dates from that.",
+            "bn": "কুরতুবী দেন আকীদাগত ব্যাখ্যা। আল্লাহ যেমন গাছের ভেতর কথা সৃষ্টি করেছিলেন, তেমনি পাহাড়ের ভেতর তাসবীহ সৃষ্টি করেছিলেন। ফলে তাসবীহ পাঠকারীর মুখে যা শোনা যায়, মানুষ পাহাড় থেকেও তা-ই শুনত। এটা ছিল দাঊদ (আঃ)-এর মুজিযা। কুরতুবীর বর্ণনায় ওয়াহবের ছবিটা আরও বস্তুগত, বাগাভীতেও একই ছবি আছে। দাঊদ ডাক দিলে পাহাড় প্রতিধ্বনিতে জবাব দিত, আর পাখিরা তাঁর মাথার উপর এসে জড়ো হতো। ওয়াহবের দাবি, আজ পাহাড়ে মানুষ যে প্রতিধ্বনি শোনে তার শুরু সেখান থেকেই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an argues against reading the scene as an echo. The mountains repeating after Dawud, it says, was not the reverberation heard inside a dome or a well, because the Qur'an presents it as a special grace given to him, while reverberation is a physical thing that works for anyone, even a disbeliever. Being a miracle, it adds, the glorifying must have been heard and understood by ordinary listeners, and it goes beyond the praise of all creation in 17:44. The two pictures are left side by side.",
+            "bn": "মাআরিফুল কুরআন দৃশ্যটিকে প্রতিধ্বনি ভাবার বিপক্ষে যুক্তি দেয়। দাঊদের পরে পাহাড়ের ফিরিয়ে বলা গম্বুজ বা কুয়ার ভেতরের প্রতিধ্বনির মতো ছিল না। কারণ কুরআন একে তাঁর প্রতি বিশেষ অনুগ্রহ হিসেবে উল্লেখ করেছে। আর প্রতিধ্বনি নিছক বস্তুগত ব্যাপার, যেকোনো মানুষের বেলায় ঘটে, কাফিরের বেলায়ও। মাআরিফ আরও বলে, মুজিযা ছিল বলেই সাধারণ শ্রোতারা এ তাসবীহ শুনত ও বুঝত। আর ১৭:৪৪ আয়াতে সমস্ত সৃষ্টির যে তাসবীহের কথা আছে, এটা তার অতিরিক্ত কিছু। ওয়াহবের প্রতিধ্বনি আর মাআরিফের প্রত্যাখ্যান, দুই ছবিই এখানে পাশাপাশি রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Birds in the Same Company",
+          "bn": "একই দলে পাখিরাও"
+        },
+        "p": [
+          {
+            "en": "Wa-t-tayra, and the birds, follows the vocative in the accusative case, and the commentators explain why. At-Tabari gives two ways: either the birds were addressed as the mountains were, which is Ibn Zayd's view, or a verb is understood, and We subjected the birds to him. Al-Qurtubi cites Sibawayh for the first, Abu Amr ibn al-Ala for an implied subjected, and al-Kisa'i for a link back to We gave: and We gave him the birds. He and al-Baghawi also report a nominative reading, wa-t-tayru.",
+            "bn": "ওয়াত তাইরা, আর পাখিরা। সম্বোধনের পরে শব্দটি যবর নিয়ে এসেছে, তাফসীরকারেরা এর কারণ ব্যাখ্যা করেন। তাবারী দুটি পথ দেখান। হয় পাহাড়ের মতো পাখিদেরও ডাকা হয়েছিল, এটা ইবন যায়দের মত। নয়তো একটি ক্রিয়া উহ্য আছে: আর আমি পাখিদের তার বশীভূত করেছিলাম। কুরতুবী প্রথম মতের জন্য সীবাওয়াইহের নাম নেন, উহ্য 'বশীভূত করলাম'-এর জন্য আবু আমর ইবনুল আলার, আর 'আমি দিয়েছিলাম'-এর দিকে ফেরানোর জন্য কিসাঈর: আর তাকে পাখিও দিয়েছিলাম। তিনি ও বাগাভী পেশ দিয়ে ওয়াত তাইরু পড়ার কথাও জানান।"
+          },
+          {
+            "en": "Whether the birds were summoned with the hills or subjected beside them, every reading keeps them in the same company. Ma'arif al-Qur'an links the scene to 38:18 and 38:19: the mountains glorifying with him at evening and sunrise, and the birds gathered. The wording there repays notice. 38:17 calls Dawud awwab, and 38:19 ends kullun lahu awwab; both words come from the root of awwibi. The command to the hills carries the very quality the Qur'an praises in the man.",
+            "bn": "পাখিদের পাহাড়ের সঙ্গে ডাকা হোক বা পাশাপাশি বশ করা হোক, প্রতিটি কিরাআতে তারা একই দলে থাকে। মাআরিফুল কুরআন দৃশ্যটি জুড়ে দেয় ৩৮:১৮ ও ৩৮:১৯ আয়াতের সঙ্গে: পাহাড় সন্ধ্যায় ও সকালে তাঁর সঙ্গে তাসবীহ পড়ত, আর পাখিরা জড়ো হতো। সেখানকার শব্দচয়ন লক্ষ করার মতো। ৩৮:১৭ আয়াতে দাঊদকে বলা হয়েছে আওয়াব, আর ৩৮:১৯ শেষ হয়েছে কুল্লুন লাহু আওয়াব দিয়ে। দুটো শব্দই আওয়িবীর ধাতু থেকে। পাহাড়কে দেওয়া আদেশে সেই গুণটিই আছে, যে গুণের জন্য কুরআন মানুষটির প্রশংসা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Flutes of the Family of Dawud",
+          "bn": "দাঊদ পরিবারের বাঁশি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Qurtubi both bring a hadith here. Ibn Kathir, citing the Sahih, says the Prophet ﷺ heard Abu Musa al-Ash'ari (RA) reciting at night, stopped and listened. Al-Bukhari records the words from Abu Musa himself (Sahih al-Bukhari 5048): O Abu Musa! You have been given one of the mazamir (sweet melodious voices) of the family of David. Muslim has it too (Sahih Muslim 793), one of his chains adding that the Prophet ﷺ had listened to Abu Musa's recitation the night before.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনেই এখানে একটি হাদীস আনেন। ইবন কাসীর সহীহের বরাতে বলেন, নবী ﷺ রাতে আবু মূসা আশআরী (রাঃ)-এর তিলাওয়াত শুনে থেমে দাঁড়ান, মন দিয়ে শোনেন। বুখারী আবু মূসার নিজের বর্ণনায় কথাটি এনেছেন (সহীহ বুখারী ৫০৪৮): হে আবু মূসা! তোমাকে দাঊদ পরিবারের মাযামীর, অর্থাৎ সুমধুর কণ্ঠগুলোর একটি দেওয়া হয়েছে। মুসলিমও হাদীসটি এনেছেন (সহীহ মুসলিম ৭৯৩)। তাঁর এক সনদে আছে, নবী ﷺ আগের রাতে আবু মূসার তিলাওয়াত শুনছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi explains the word: the scholars say mizmar and mazmur mean a beautiful voice, and the piping instrument took its name from it. A beautiful voice, he says, is a gift and favour from Allah, and he counts it the ninth of the nine bounties. Many jurists of the great cities, he adds, approved of reciting with adornment and tarji', the very word Ibn Kathir used for the mountains' answer. The hadith is not about the verse's revelation; the two commentators attach it to show what Dawud's gift sounded like.",
+            "bn": "কুরতুবী শব্দটির ব্যাখ্যা দেন। আলিমদের মতে মিযমার ও মাযমূর মানে সুন্দর কণ্ঠ, আর বাঁশির মতো বাদ্যযন্ত্রের নাম মিযমার হয়েছে সেখান থেকেই। তিনি বলেন, সুন্দর কণ্ঠ আল্লাহর দান ও অনুগ্রহ, আর নয়টি অনুগ্রহের নবমটি হিসেবে একে গণ্য করেন। তিনি আরও জানান, বিভিন্ন শহরের অনেক ফকীহ সুন্দর করে, তারজী' সহকারে তিলাওয়াত পছন্দ করেছেন। পাহাড়ের জবাব বোঝাতে ইবন কাসীর ঠিক এই শব্দটিই ব্যবহার করেছিলেন। হাদীসটি এ আয়াত নাযিলের প্রেক্ষাপট নয়। দাঊদ (আঃ)-এর দান কেমন শোনাত তা বোঝাতে দুই তাফসীরকার একে এখানে জুড়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Iron Like Dough in His Hand",
+          "bn": "তাঁর হাতে খামিরের মতো লোহা"
+        },
+        "p": [
+          {
+            "en": "Wa-alanna lahu al-hadid: and We made iron soft for him. At-Tabari says it is reported that iron was in his hand like wet clay, shaped as he wished without fire or hammering, and gives Qatada: he would shape it by hand without putting it in fire. Ibn Kathir names al-Hasan al-Basri, Qatada and al-A'mash: he needed neither fire nor hammer, but twisted it in his hand like threads. In al-Qurtubi, Ibn Abbas says it became like wax for him, al-Hasan like dough, and as-Suddi like wet clay, dough and wax.",
+            "bn": "ওয়া আলান্না লাহুল হাদীদ: আর আমি তার জন্য লোহাকে নরম করে দিয়েছিলাম। তাবারী বলেন, বর্ণিত আছে যে লোহা তাঁর হাতে ভেজা মাটির মতো ছিল, আগুন বা হাতুড়ি ছাড়াই তিনি ইচ্ছেমতো আকার দিতেন। কাতাদার কথাও তিনি আনেন: আগুনে না দিয়েই তিনি হাত দিয়ে তা গড়তেন। ইবন কাসীর নাম নেন হাসান বসরী, কাতাদা ও আ'মাশের: তাঁর আগুন বা হাতুড়ি লাগত না, সুতার মতো হাতে পাকিয়ে নিতেন। কুরতুবীতে ইবন আব্বাস (রাঃ) বলেন মোমের মতো, হাসান বলেন খামিরের মতো, আর সুদ্দী বলেন ভেজা মাটি, খামির ও মোমের মতো।"
+          },
+          {
+            "en": "The Muyassar and al-Baghawi also say like dough, al-Baghawi with wax beside it. These are the early commentators' likenesses, not words of the Prophet ﷺ. Al-Qurtubi also records, under it is said, that Dawud was given a strength with which he bent iron. So the wonder is placed in the metal made soft or in the hand made strong, while the verse says only We softened it. Its purpose comes in 34:11, make full coats of mail; Qatada, in Ibn Kathir's abridged English, and al-Qurtubi say Dawud was the first to make them, where before people wore plates.",
+            "bn": "মুয়াসসার ও বাগাভীও বলেন খামিরের মতো, বাগাভী সঙ্গে মোমের কথাও বলেন। এগুলো আগের যুগের তাফসীরকারদের উপমা, নবী ﷺ-এর বাণী নয়। কুরতুবী 'বলা হয়' দিয়ে আরেকটি মত আনেন: দাঊদকে এমন শক্তি দেওয়া হয়েছিল যা দিয়ে তিনি লোহা বাঁকাতেন। তাহলে বিস্ময়টা কেউ দেখেন ধাতু নরম হওয়ায়, কেউ হাত শক্ত হওয়ায়। আয়াত শুধু বলে: আমি নরম করেছিলাম। কী জন্য, তা আসে ৩৪:১১ আয়াতে: পূর্ণ মাপের বর্ম বানাও। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে কাতাদা, আর কুরতুবীও বলেন, দাঊদই প্রথম এমন বর্ম বানান, তার আগে মানুষ পাত পরত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eating From His Own Work",
+          "bn": "নিজ হাতের উপার্জনে আহার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from the verse: people of virtue may learn crafts, and living by them does not lower their standing but adds to their merit, since it brings humility, independence from others and lawful earning free of anyone's favour. He then cites a hadith in the Sahih. Al-Bukhari records it from al-Miqdam (Sahih al-Bukhari 2072): Nobody has ever eaten a better meal than that which one has earned by working with one's own hands. The Prophet (ﷺ) of Allah, David used to eat from the earnings of his manual labor. Al-Baghawi quotes a shorter wording.",
+            "bn": "কুরতুবী আয়াত থেকে একটি মাসআলা বের করেন। মর্যাদাবান মানুষও হাতের কাজ শিখতে পারেন, আর তা দিয়ে জীবিকা চালালে তাঁদের মর্যাদা কমে না, বরং বাড়ে। কারণ এতে মনে বিনয় আসে, অন্যের মুখাপেক্ষী থাকতে হয় না, আর কারও খোঁটা ছাড়া হালাল রুজি মেলে। এরপর তিনি সহীহ থেকে একটি হাদীস আনেন। বুখারী তা মিকদাম (রাঃ)-এর বর্ণনায় এনেছেন (সহীহ বুখারী ২০৭২): নিজ হাতের উপার্জনের চেয়ে উত্তম খাবার কেউ কখনো খায়নি। আল্লাহর নবী দাঊদ (আঃ) নিজ হাতের উপার্জন থেকে খেতেন। বাগাভী এর চেয়ে ছোট একটি ভাষ্য উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Both commentators also relay a story of why the iron was softened, which al-Baghawi introduces as what is narrated in the akhbar: an angel in human form met Dawud while he went about in disguise and spoke of his living from the public treasury, and Dawud asked Allah for a means of his own. It has no chain to the Prophet ﷺ, and its price for a coat changes from one telling to the next. It belongs with the isra'iliyyat, told and not built on. What stands is the verse and the sound hadith: a prophet given iron worked it and ate from his work.",
+            "bn": "দুই তাফসীরকার লোহা নরম হওয়ার কারণ নিয়ে একটি কাহিনিও বর্ণনা করেন। বাগাভী শুরু করেন 'আখবারে যেমন বর্ণিত' বলে। ছদ্মবেশে ঘুরে বেড়ানো দাঊদের সঙ্গে মানুষের রূপে এক ফেরেশতার দেখা হয়। ফেরেশতা বাইতুল মাল থেকে তাঁর জীবিকা চালানোর কথা তোলেন, আর দাঊদ আল্লাহর কাছে নিজের উপার্জনের একটা উপায় চান। এর পেছনে নবী ﷺ পর্যন্ত কোনো সনদ নেই, এক বর্মের দামও এক বর্ণনা থেকে আরেক বর্ণনায় বদলে যায়। এটা ইসরাঈলিয়্যাতের অংশ, বলা যায় কিন্তু এর উপর কিছু দাঁড় করানো যায় না। টিকে থাকে আয়াত আর সহীহ হাদীসের কথা: লোহা পেয়ে একজন নবী তা দিয়ে কাজ করেছেন, আর নিজের কাজের উপার্জন খেয়েছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "34:12": {
     "sections": [
       {

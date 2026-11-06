@@ -25449,6 +25449,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give honest counsel to those who trust you, and let the fear of Allah, not the talk of people, decide what you say and do.",
     "lessonBn": "যে আপনার উপর ভরসা করে, তাকে খাঁটি পরামর্শ দিন। আর আপনি কী বলবেন, কী করবেন, তা ঠিক করুক আল্লাহর ভয়, মানুষের কথা নয়।"
+  },
+  "34:10": {
+    "reflectionEn": "Mountains do not speak, and iron does not bend in a bare hand. In this verse both happen, for one man. Allah calls out to the hills, O mountains, return the praise with him, and the birds, and He makes iron soft for Dawud (AS). Yet the verse files all of it under one word: bounty from Us. The voice, the answering hills, the yielding metal: none was his own making. What he did with them is the lesson. He glorified, and creation glorified with him; he took the softened iron and, as the next verse says, made coats of mail. No hills answer me. But I have a voice, two hands and some skill. Whose praise does my voice carry, and whose bounty do my hands remember?",
+    "reflectionBn": "পাহাড় কথা বলে না, খালি হাতে লোহাও বাঁকে না। এ আয়াতে একজন মানুষের জন্য দুটোই ঘটেছে। আল্লাহ পাহাড়কে ডেকে বলছেন: হে পর্বতমালা, তার সঙ্গে তাসবীহ ফিরিয়ে দাও, আর পাখিরাও। আর দাঊদ (আঃ)-এর জন্য তিনি লোহাকে নরম করে দিয়েছেন। তবু আয়াত সবকিছুকে একটি শব্দের নিচে রেখেছে: আমার পক্ষ থেকে অনুগ্রহ। কণ্ঠ, সাড়া দেওয়া পাহাড়, নরম হয়ে আসা লোহা, কোনোটাই তাঁর নিজের গড়া নয়। শিক্ষাটা লুকিয়ে আছে তিনি এগুলো দিয়ে কী করলেন তাতে। তিনি তাসবীহ পড়লেন, সৃষ্টিও তাঁর সঙ্গে তাসবীহ পড়ল। নরম লোহা হাতে নিয়ে তিনি বর্ম বানালেন, পরের আয়াত সে কথাই বলে। আমার ডাকে কোনো পাহাড় সাড়া দেয় না। কিন্তু আমার একটা কণ্ঠ আছে, দুটো হাত আছে, কিছু দক্ষতাও আছে। আমার কণ্ঠ কার প্রশংসা বয়ে বেড়ায়? আর আমার হাত কার অনুগ্রহের কথা মনে রাখে?",
+    "pointsEn": [
+      "Which ability that I call my own talent would I speak of differently if I named it what this verse names it, bounty from Allah?",
+      "When I glorify Allah, do I do it with a presence that could draw others in, or do I rush through it alone and unheard?",
+      "Have I ever looked down on a trade or a craft as beneath a person of faith, when the verse hands a prophet the work of iron?",
+      "What did I last make or do with my own hands, and did I do it with the care of someone who knows Allah sees the work?",
+      "If the hills once answered praise, what in my day answers mine, and what drowns it out?"
+    ],
+    "pointsBn": [
+      "যে যোগ্যতাকে আমি নিজের প্রতিভা বলি, এ আয়াতের ভাষায় আল্লাহর অনুগ্রহ বললে সে সম্পর্কে আমার কথা কতটা বদলে যেত?",
+      "আল্লাহর তাসবীহ পড়ার সময় আমার মন কি এমনভাবে হাজির থাকে যে অন্যরাও তাতে শামিল হতে চায়? নাকি একা একা তাড়াহুড়া করে শেষ করি?",
+      "কোনো পেশা বা হাতের কাজকে কি কখনো দ্বীনদার মানুষের অযোগ্য ভেবেছি? অথচ এ আয়াত একজন নবীর হাতে তুলে দিয়েছে লোহার কাজ।",
+      "শেষবার নিজের হাতে কী বানিয়েছি বা করেছি? আল্লাহ কাজটা দেখছেন, এ কথা মনে রেখে কি যত্ন নিয়ে করেছি?",
+      "একসময় পাহাড় তাসবীহের জবাব দিত। আমার দিনে কোন জিনিস আমার জিকিরে সাড়া দেয়, আর কোন জিনিস তা ঢেকে দেয়?"
+    ],
+    "lessonEn": "Every voice, skill and strength you have is bounty from Allah; spend your voice in glorifying Him and your hands in honest, careful work, as Dawud (AS) did.",
+    "lessonBn": "আপনার কণ্ঠ, দক্ষতা ও শক্তি সবই আল্লাহর অনুগ্রহ। দাঊদ (আঃ)-এর মতো কণ্ঠকে তাঁর তাসবীহে আর হাতকে সৎ ও যত্নশীল কাজে লাগান।"
   }
 };
 
