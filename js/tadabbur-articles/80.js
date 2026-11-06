@@ -443,6 +443,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "80:19-20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words Answer a Question",
+          "bn": "সাত শব্দে এক প্রশ্নের জবাব"
+        },
+        "p": [
+          {
+            "en": "Qutila al-insanu ma akfarah: perish man, how ungrateful he is (80:17). Ibn Kathir's abridged English carries, from ad-Dahhak from Ibn 'Abbas (RA), the gloss may man be cursed. The Muyassar makes him the disbelieving man and exclaims at how severe his disbelief in his Lord is. Then 80:18 asks: min ayyi shay'in khalaqah, from what thing did He create him? Our two verses are the answer, four Arabic words and then three.",
+            "bn": "কুতিলাল ইনসানু মা আকফারাহ: মানুষ ধ্বংস হোক, সে কত অকৃতজ্ঞ (৮০:১৭)! ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আছে: মানুষের উপর লানত হোক। মুয়াসসার এখানে মানুষ বলতে কাফির মানুষকে বোঝায়, আর বিস্ময় প্রকাশ করে, রবের প্রতি তার কুফরি কত তীব্র! এরপর ৮০:১৮ প্রশ্ন করে: মিন আইয়ি শাইইন খালাকাহ, কোন জিনিস থেকে তিনি তাকে সৃষ্টি করেছেন? আমাদের দুই আয়াত সেই প্রশ্নেরই জবাব। প্রথমটিতে আরবি চারটি শব্দ, দ্বিতীয়টিতে তিনটি।"
+          },
+          {
+            "en": "At-Tabari opens his comment on 80:19 with the link: then Allah, exalted be His praise, made clear what He created him from. Al-Baghawi: then He explained it. Ibn Kathir's abridgement names the purpose: Allah explains how He created man from something despised, and that He is able to bring him back to life just as He created him the first time. The curse in 80:17 falls on the denier the text describes. It licenses no one to curse any living person or community.",
+            "bn": "তাবারী ৮০:১৯-এর ব্যাখ্যা শুরু করেন এই যোগসূত্র দিয়ে: এরপর আল্লাহ, যাঁর প্রশংসা মহান, স্পষ্ট করে দিলেন কী থেকে তাকে সৃষ্টি করেছেন। বাগাভী বলেন: তারপর তিনি তা ব্যাখ্যা করলেন। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ উদ্দেশ্যটাও বলে দেয়। আল্লাহ জানাচ্ছেন, তিনি মানুষকে তুচ্ছ এক জিনিস থেকে কীভাবে সৃষ্টি করেছেন, আর প্রথমবার যেভাবে সৃষ্টি করেছেন, সেভাবেই তাকে আবার জীবিত করতে সক্ষম। ৮০:১৭-এর অভিশাপ পড়েছে আয়াত যে অস্বীকারকারীর বর্ণনা দেয় তার উপর। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়কে অভিশাপ দেওয়ার অনুমতি এ আয়াত কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water Held Cheap",
+          "bn": "সামান্য পানির শুরু"
+        },
+        "p": [
+          {
+            "en": "Min nutfatin khalaqah: from a nutfah He created him. The Muyassar: a little water, that is, the mani. As-Sa'di: ma' mahin, lowly water. Al-Qurtubi piles up the descriptions, a small, lowly, lifeless water, and then asks the question the verse is driving at: He created him from that, so why does he go wrong about himself? The smallness is named to correct a man's estimate of himself, not to shame the body.",
+            "bn": "মিন নুতফাতিন খালাকাহ: এক নুতফা থেকে তিনি তাকে সৃষ্টি করেছেন। মুয়াসসার বলে: অল্প একটু পানি, অর্থাৎ বীর্য। সা'দী বলেন: মা-উন মাহীন, তুচ্ছ পানি। কুরতুবী একের পর এক বিশেষণ জোড়েন: সামান্য, তুচ্ছ, প্রাণহীন পানি। তারপর সেই প্রশ্ন তোলেন, আয়াত যেদিকে ইশারা করছে: তিনি তো তাকে এ থেকেই সৃষ্টি করেছেন, তবে নিজের ব্যাপারে সে ভুল করে কেন? ছোট শুরুর কথা বলা হয়েছে মানুষের নিজের সম্পর্কে ধারণা শোধরাতে, দেহকে লজ্জা দিতে নয়।"
+          },
+          {
+            "en": "Al-Qurtubi then quotes al-Hasan: how can someone be proud who has come out of the passage of urine twice? The sentence is blunt, and it belongs to al-Hasan, not to the verse. But it shows how early readers heard 80:19 after 80:17. The ingratitude of the man in 80:17 feeds on forgetting where he started. Its answer reminds every person, the proud one included, that he began in exactly the same way as everyone he might look down on.",
+            "bn": "এরপর কুরতুবী হাসানের একটি কথা উদ্ধৃত করেন: যে প্রস্রাবের পথ দিয়ে দুবার বেরিয়ে এসেছে, সে অহংকার করে কীভাবে? কথাটা রূঢ়, আর এটা হাসানের কথা, আয়াতের নয়। তবে এ থেকে বোঝা যায়, পূর্বসূরিরা ৮০:১৭-এর পর ৮০:১৯ কীভাবে শুনতেন। ৮০:১৭-এর মানুষটির অকৃতজ্ঞতার গোড়ায় আছে নিজের শুরুটা ভুলে যাওয়া। সূরার প্রশ্নের জবাব তাই প্রত্যেক মানুষকে, অহংকারীকেও, মনে করিয়ে দেয়: যাদের সে ছোট চোখে দেখে, তাদের মতো ঠিক একইভাবে তারও শুরু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured Through Its States",
+          "bn": "অবস্থা থেকে অবস্থায়"
+        },
+        "p": [
+          {
+            "en": "Then fa-qaddarah, and He measured him out. One reading takes the measuring as stages. At-Tabari: He measured him through states, a nutfah at one time, then an 'alaqah, then a mudghah, until his states had run their course while he was in his mother's womb. Al-Baghawi: in stages, a nutfah, then an 'alaqah, to the end of his making. The Muyassar: He measured him out in stages. Al-Qurtubi gives it last, under it is said: from state to state, until his making was complete.",
+            "bn": "তারপর ফাকাদ্দারাহ: আর তিনি তাকে মেপে গড়লেন। একটি ব্যাখ্যায় এই মাপজোখ মানে ধাপ। তাবারী বলেন: তিনি তাকে নানা অবস্থার ভেতর দিয়ে মেপে গড়েছেন। কখনো নুতফা, তারপর আলাকা, তারপর মুদগা, এভাবে মায়ের গর্ভে থাকতেই তার সব অবস্থা পূর্ণ হয়েছে। বাগাভী বলেন: ধাপে ধাপে, নুতফা, তারপর আলাকা, গড়ন শেষ হওয়া পর্যন্ত। মুয়াসসার বলে: তিনি তাকে ধাপে ধাপে মেপে গড়েছেন। কুরতুবী এ মতটি রাখেন সবার শেষে, 'বলা হয়' কথাটি দিয়ে: এক অবস্থা থেকে আরেক অবস্থায়, যতক্ষণ না তার গড়ন পূর্ণ হয়।"
+          },
+          {
+            "en": "The stages themselves have their own pages in the articles on 22:5 and 23:14. The commentators on 80:19 give them a single line and move on, and this article does the same; it adds nothing about how a body forms beyond the words just quoted. What this reading stresses is that every change was measured, and none of it was the drop's own doing.",
+            "bn": "ধাপগুলোর বিস্তারিত আলোচনা আছে ২২:৫ ও ২৩:১৪-এর প্রবন্ধে। ৮০:১৯-এর তাফসীরকারেরা ধাপগুলো এক লাইনে সেরে সামনে এগিয়ে যান, এ প্রবন্ধও তাই করে। দেহ কীভাবে গড়ে ওঠে, সে বিষয়ে ওপরে উদ্ধৃত কথার বাইরে এখানে কিছু যোগ করা হয়নি। এ ব্যাখ্যার জোর একটা কথায়: প্রতিটি পরিবর্তন মাপা ছিল, আর তার কোনোটাই ফোঁটাটির নিজের কাজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hands, Eyes and Balanced Form",
+          "bn": "হাত, চোখ আর সুষম গড়ন"
+        },
+        "p": [
+          {
+            "en": "A second reading takes qaddarah as the measuring of the body's parts. Al-Qurtubi reports it from ad-Dahhak from Ibn 'Abbas (RA): He measured him in his mother's belly, his hands, his feet, his eyes and the rest of his limbs, handsome or plain, short or tall, wretched or happy. Al-Baghawi has a shorter list from al-Kalbi: He measured his making, his head, his eyes, his hands and his feet. Ibn 'Abbas's list runs on past the body to the person's final state.",
+            "bn": "দ্বিতীয় ব্যাখ্যায় কাদ্দারাহ মানে দেহের অঙ্গগুলোর মাপ। কুরতুবী এটি বর্ণনা করেন দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে: মায়ের পেটে তিনি তাকে মেপে গড়েছেন, তার দুই হাত, দুই পা, দুই চোখ আর বাকি সব অঙ্গ। সে সুশ্রী হবে না অসুন্দর, খাটো হবে না লম্বা, হতভাগা হবে না সৌভাগ্যবান, সেটাও। বাগাভী কালবী থেকে একটা ছোট তালিকা দেন: তিনি তার গড়ন মেপেছেন, তার মাথা, চোখ, হাত ও পা। খেয়াল করুন, ইবন আব্বাসের তালিকা দেহ পেরিয়ে মানুষের শেষ পরিণাম পর্যন্ত গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi adds, under it is said, that qaddarah means sawwah, He made him even, and brings two verses: 18:37, have you disbelieved in Him who created you from dust, then from a drop, then proportioned you as a man; and 82:7, who created you and proportioned you. As-Sa'di reads it the same way: Allah measured his making, proportioned him into a well-formed human, and made his outer and inner faculties exact. Ma'arif al-Qur'an spells it out: stature, face, limbs, joints, eyes, nose and ears, all in proportion.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেকটি মত আনেন: কাদ্দারাহ মানে সাওয়াহ, তাকে সুঠাম করেছেন। সঙ্গে দুটি আয়াত দেন। ১৮:৩৭: তুমি কি তাঁকে অস্বীকার করছ, যিনি তোমাকে মাটি থেকে, তারপর নুতফা থেকে সৃষ্টি করেছেন, তারপর তোমাকে পূর্ণাঙ্গ মানুষ বানিয়েছেন? আর ৮২:৭: যিনি তোমাকে সৃষ্টি করেছেন, তারপর সুঠাম করেছেন। সা'দীও একই দিকে যান। আল্লাহ তার গড়ন মেপেছেন, তাকে সুগঠিত মানুষ বানিয়েছেন, আর তার বাইরের ও ভেতরের শক্তিগুলো নিখুঁত করেছেন। মাআরিফুল কুরআন খুলে বলে: দেহের উচ্চতা, মুখ, অঙ্গের দৈর্ঘ্য, জোড়া, চোখ, নাক, কান, সবই পরিমিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Term, Provision, Deeds, Ending",
+          "bn": "আয়ু, রিজিক, আমল, পরিণাম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the word as decree. In his words: He decreed his term, his provision, his deeds, and whether he would be wretched or happy. Ma'arif al-Qur'an keeps both senses open. It explains qaddara first as designing in due proportion, then notes that the word comes from taqdir, also used for predestination, and that in this sense the verse may mean that while man is being formed in his mother's womb, Allah determines four things for him: his life span, his sustenance, his deeds, and whether he will be miserable or happy.",
+            "bn": "ইবন কাসীর শব্দটিকে তাকদীর অর্থে পড়েন। তাঁর ভাষায়: তিনি তার আয়ু, রিজিক, আমল নির্ধারণ করেছেন, আর সে হতভাগা হবে না সৌভাগ্যবান, তাও। মাআরিফুল কুরআন দুটি অর্থই খোলা রাখে। প্রথমে কাদ্দারা-র ব্যাখ্যা দেয় পরিমিতভাবে নকশা করা। তারপর জানায়, শব্দটি এসেছে তাকদীর থেকে, যা ভাগ্য নির্ধারণ অর্থেও ব্যবহৃত হয়। এ অর্থে আয়াতের মানে হতে পারে: মানুষ যখন মায়ের গর্ভে গড়ে উঠছে, আল্লাহ তখন তার জন্য চারটি জিনিস নির্ধারণ করেন। তার আয়ুষ্কাল, তার রিজিক, তার আমল, আর সে হতভাগা হবে না সৌভাগ্যবান।"
+          },
+          {
+            "en": "Ma'arif ties that list to the hadith of 'Abdullah ibn Mas'ud (RA) in the two Sahihs. Al-Bukhari records it as hadith 3208, and in it the Prophet ﷺ says an angel is ordered to write four things: his deeds, his livelihood, his date of death, and whether he will be blessed or wretched. It is quoted whole in the articles on 22:5 and 40:67 and is not repeated here; al-Bukhari gives it no grading beyond placing it in his Sahih. None of the fetched commentators argues against another's reading of qaddarah.",
+            "bn": "মাআরিফ এ তালিকাকে যুক্ত করে আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর হাদীসের সঙ্গে, যা দুই সহীহ গ্রন্থে আছে। বুখারী এটি এনেছেন ৩২০৮ নম্বরে। সেখানে নবী ﷺ বলেন, একজন ফেরেশতাকে চারটি জিনিস লেখার হুকুম দেওয়া হয়: তার আমল, তার রিজিক, তার মৃত্যুর সময়, আর সে সৌভাগ্যবান হবে না হতভাগা। পুরো হাদীসটি ২২:৫ ও ৪০:৬৭-এর প্রবন্ধে উদ্ধৃত আছে, এখানে আর পুনরাবৃত্তি করা হলো না। বুখারী একে নিজের সহীহ গ্রন্থে রাখা ছাড়া আলাদা কোনো মান উল্লেখ করেননি। কাদ্দারাহ-র ব্যাখ্যায় এখানে উদ্ধৃত তাফসীরকারদের কেউ অন্যের মত খণ্ডন করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Womb's Exit, or a Road",
+          "bn": "গর্ভ থেকে বেরোনো, নাকি জীবনের পথ"
+        },
+        "p": [
+          {
+            "en": "Thumma as-sabila yassarah: then the way, He made it easy for him. At-Tabari says plainly that the people of interpretation differed over which way is meant. Some said it is his coming out of his mother's belly. At-Tabari gives this from Ibn 'Abbas (RA), as-Suddi and Qatada, and from Abu Salih, whose wording is the way of the womb. Ibn Kathir adds 'Ikrimah and ad-Dahhak to the names, and al-Qurtubi adds Muqatil.",
+            "bn": "সুম্মাস সাবীলা ইয়াসসারাহ: তারপর পথ, তিনি তা তার জন্য সহজ করেছেন। তাবারী সোজাসুজি জানান, কোন পথ বোঝানো হয়েছে তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। কেউ বলেছেন, এ হলো মায়ের পেট থেকে তার বেরিয়ে আসা। তাবারী এ মত আনেন ইবন আব্বাস (রাঃ), সুদ্দী ও কাতাদা থেকে, আর আবু সালিহ থেকে, যাঁর ভাষায় এটা গর্ভের পথ। ইবন কাসীর এ নামের তালিকায় ইকরিমা ও দাহহাককে যোগ করেন, কুরতুবী যোগ করেন মুকাতিলকে।"
+          },
+          {
+            "en": "Others said it is the way of truth and falsehood, made clear and made easy to act on. At-Tabari gives this from Mujahid, who said it is like 76:3, We guided him to the way, whether grateful or ungrateful; in another report Mujahid calls it the way of wretchedness and felicity. Al-Hasan said the way of good, and Ibn Zayd the way of Islam, which Allah made easy for him and taught him. Al-Qurtubi and al-Baghawi set 90:10 beside 76:3: and We showed him the two ways.",
+            "bn": "অন্যরা বলেছেন, এ হলো সত্য আর মিথ্যার পথ, যা স্পষ্ট করে দেখানো হয়েছে আর যার উপর আমল করা সহজ করা হয়েছে। তাবারী এ মত আনেন মুজাহিদ থেকে। তিনি বলেছেন, এটা ৭৬:৩-এর মতো: আমি তাকে পথ দেখিয়েছি, এখন সে কৃতজ্ঞ হোক বা অকৃতজ্ঞ। আরেক বর্ণনায় মুজাহিদ একে বলেছেন দুর্ভাগ্য আর সৌভাগ্যের পথ। হাসান বলেছেন কল্যাণের পথ। ইবন যায়দ বলেছেন ইসলামের পথ, যা আল্লাহ তার জন্য সহজ করেছেন আর তাকে জানিয়েছেন। কুরতুবী ও বাগাভী ৭৬:৩-এর পাশে রাখেন ৯০:১০: আর আমি তাকে দুটি পথ দেখিয়েছি।"
+          },
+          {
+            "en": "Two of the commentators state a preference, and they do not agree. At-Tabari chooses the birth reading: it is closer to the apparent sense, since what comes before and after the clause is Allah's account of how He created man, managed his body and moved him through his states, so the middle should match what surrounds it. Ibn Kathir gives the birth reading, notes that Ibn Jarir chose it, then sets out Mujahid's view and says: this is the weightier view, and Allah knows best. Both preferences are reported here as theirs.",
+            "bn": "দুজন তাফসীরকার নিজের পছন্দ জানিয়েছেন, আর তাঁদের মত মেলেনি। তাবারী জন্মের ব্যাখ্যাটি বেছে নেন। তাঁর যুক্তি, এটাই আয়াতের বাহ্যিক অর্থের বেশি কাছে। এ অংশের আগে আর পরে আল্লাহ বলছেন তিনি মানুষকে কীভাবে সৃষ্টি করেছেন, তার দেহের ব্যবস্থাপনা করেছেন, তাকে এক অবস্থা থেকে আরেক অবস্থায় নিয়েছেন। তাই মাঝের কথাটাও আশপাশের কথার মতো হওয়াই সংগত। ইবন কাসীর জন্মের ব্যাখ্যা উল্লেখ করেন, জানান যে ইবন জারীর এটি বেছে নিয়েছেন। তারপর মুজাহিদের মত তুলে ধরে বলেন: এটাই বেশি অগ্রগণ্য, আর আল্লাহই ভালো জানেন। দুটি পছন্দই এখানে তাঁদের নিজেদের মত হিসেবে উদ্ধৃত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names That Change Columns",
+          "bn": "এক নাম, দুই তালিকায়"
+        },
+        "p": [
+          {
+            "en": "The lists of names do not line up perfectly. Abu Salih stands with the birth reading in at-Tabari and Ibn Kathir, yet al-Qurtubi gives the second reading from Ibn 'Abbas in the report of Abu Salih. As-Suddi is on the birth side in all three, while al-Baghawi lists as-Suddi and Muqatil with al-Hasan and Mujahid for the way of truth and falsehood. Al-Baghawi's own first gloss, given without a name, is the way out of the mother's belly.",
+            "bn": "কে কোন মত দিয়েছেন, সে তালিকাগুলো হুবহু মেলে না। তাবারী ও ইবন কাসীরে আবু সালিহ আছেন জন্মের ব্যাখ্যার পক্ষে। অথচ কুরতুবী দ্বিতীয় ব্যাখ্যাটি আনেন আবু সালিহর বর্ণনায় ইবন আব্বাস (রাঃ) থেকে। সুদ্দী তিনজনের কাছেই জন্মের পক্ষে। কিন্তু বাগাভী সুদ্দী ও মুকাতিলকে রাখেন হাসান ও মুজাহিদের সঙ্গে, সত্য-মিথ্যার পথের পক্ষে। বাগাভীর নিজের প্রথম ব্যাখ্যা অবশ্য কারও নাম ছাড়াই দেওয়া: মায়ের পেট থেকে বেরোনোর পথ।"
+          },
+          {
+            "en": "The two shorter commentaries each take one side without discussion. The Muyassar's paraphrase reads: then He made clear to him the road of good and evil. Ma'arif al-Qur'an follows the birth reading and dwells on it. The child is formed stage after stage within three darknesses, which it names as the belly, the womb and the membrane, while the mother knows nothing of the details. Then, when the child is complete, Allah makes it possible for it to come out through an extremely narrow passage, and the mother does not suffer unduly.",
+            "bn": "দুটি সংক্ষিপ্ত তাফসীর কোনো আলোচনা ছাড়াই একটি করে দিক নেয়। মুয়াসসারের ভাষ্য: তারপর তিনি তার সামনে ভালো আর মন্দের পথ স্পষ্ট করে দিলেন। মাআরিফুল কুরআন জন্মের ব্যাখ্যা গ্রহণ করে, আর তা নিয়ে খানিকটা থামে। তিনটি অন্ধকারের ভেতরে শিশুটি ধাপে ধাপে গড়ে ওঠে। মাআরিফ অন্ধকার তিনটির নাম দেয়: পেট, গর্ভাশয় আর ঝিল্লি। অথচ যে মায়ের পেটে এসব ঘটছে, তিনি এর খুঁটিনাটি কিছুই জানেন না। তারপর শিশু যখন পূর্ণাঙ্গ হয়, আল্লাহ তাকে অত্যন্ত সরু এক পথ দিয়ে বেরিয়ে আসার ব্যবস্থা করেন, আর মাকে অযথা কষ্ট পেতে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eased Toward What Was Written",
+          "bn": "যার জন্য সৃষ্টি, তা-ই সহজ"
+        },
+        "p": [
+          {
+            "en": "A third reading sits beside the two. Al-Qurtubi gives it from Abu Bakr ibn Tahir: He made easy for each person what He created him for and decreed for him. Al-Baghawi gives the same words under it is said. As-Sa'di's gloss is broader: Allah eased for him the means of religion and of the world, guided him to the way, made it clear, and tested him with command and prohibition. Al-Qurtubi names a proof for Abu Bakr ibn Tahir's reading, the Prophet's ﷺ words: act, for each is eased toward what he was created for.",
+            "bn": "এ দুটির পাশে তৃতীয় একটি ব্যাখ্যাও আছে। কুরতুবী এটি আনেন আবু বকর ইবন তাহির থেকে: আল্লাহ প্রত্যেকের জন্য সেটাই সহজ করেছেন, যার জন্য তাকে সৃষ্টি করেছেন আর যা তার জন্য নির্ধারণ করেছেন। বাগাভী একই কথা আনেন 'বলা হয়' দিয়ে। সা'দীর ব্যাখ্যা আরও বিস্তৃত। আল্লাহ তার জন্য দ্বীন আর দুনিয়ার উপায়-উপকরণ সহজ করেছেন, তাকে পথ দেখিয়েছেন, পথটা স্পষ্ট করেছেন, আর আদেশ-নিষেধ দিয়ে তাকে পরীক্ষা করেছেন। আবু বকর ইবন তাহিরের ব্যাখ্যার দলিল হিসেবে কুরতুবী নবী ﷺ-এর বাণী উল্লেখ করেন: আমল করে যাও, প্রত্যেকের জন্য সেটাই সহজ, যার জন্য তাকে সৃষ্টি করা হয়েছে।"
+          },
+          {
+            "en": "Al-Bukhari records the narration in his Sahih, hadith 4949, and gives it no grading beyond placing it there; another version, 4946, is quoted whole in the article on 92:7. In the Dar-us-Salam English, 4949 opens: Narrated `Ali: While the Prophet (ﷺ) was in a funeral procession. he picked up something and started scraping the ground with it, and said, \"There is none among you but has his place written for him either in the Hell Fire or in Paradise.\" They said, \"O Allah's Messenger (ﷺ)! Shall we not depend upon what has been written for us and give up deeds?",
+            "bn": "বুখারী হাদীসটি এনেছেন তাঁর সহীহ গ্রন্থের ৪৯৪৯ নম্বরে, সেখানে রাখা ছাড়া আলাদা কোনো মান উল্লেখ করেননি। এর আরেকটি বর্ণনা, ৪৯৪৬ নম্বর, ৯২:৭-এর প্রবন্ধে পুরো উদ্ধৃত আছে। ৪৯৪৯-এ আলী (রাঃ) বর্ণনা করেন: নবী ﷺ এক জানাযায় ছিলেন। তিনি কিছু একটা হাতে নিয়ে তা দিয়ে মাটিতে আঁচড় কাটতে লাগলেন, আর বললেন: \"তোমাদের প্রত্যেকেরই ঠিকানা লেখা হয়ে গেছে, জাহান্নামে অথবা জান্নাতে।\" সাহাবীরা বললেন: \"হে আল্লাহর রাসূল! তাহলে আমরা কি আমাদের লেখার উপর ভরসা করে আমল ছেড়ে দেব না?\""
+          },
+          {
+            "en": "He said, \"Carry on doing (good) deeds, for everybody will find easy to do such deeds as will lead him to his destined place for which he has been created. So he who is destined to be among the happy (in the Hereafter), will find it easy to do the deeds characteristic of such people, while he who is destined to be among the miserable ones, will find it easy to do the deeds characteristic of such people.\" Then he recited: 'As for him who gives (in charity) and fears Allah, and believes in the best....' (92.5-10)",
+            "bn": "তিনি বললেন: \"আমল করে যাও। প্রত্যেকের জন্য সেটাই সহজ করা হয়, যার জন্য তাকে সৃষ্টি করা হয়েছে। যে সৌভাগ্যবানদের একজন, তার জন্য সৌভাগ্যবানদের আমল সহজ করে দেওয়া হয়। আর যে হতভাগাদের একজন, তার জন্য হতভাগাদের আমল সহজ করে দেওয়া হয়।\" তারপর তিনি তিলাওয়াত করলেন: 'অতএব যে দান করে আর তাকওয়া অবলম্বন করে, এবং যা উত্তম তাকে সত্য বলে মানে...' (৯২.৫-১০)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Between the Cradle and Grave",
+          "bn": "দোলনা থেকে কবর পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Thumma amatahu fa-aqbarah: then He causes him to die and gives him a grave (80:21); thumma idha sha'a ansharah: then, when He wills, He raises him (80:22). Ibn Kathir's abridgement glosses: after creating man, Allah causes him to die and makes him the inhabitant of a grave, then resurrects him after his death, which is called al-ba'th and an-nushur. The Muyassar adds the purpose of the raising: the reckoning and the recompense.",
+            "bn": "সুম্মা আমাতাহু ফাআকবারাহ: তারপর তিনি তাকে মৃত্যু দেন আর কবরে রাখেন (৮০:২১)। সুম্মা ইযা শাআ আনশারাহ: তারপর যখন চাইবেন, তাকে আবার উঠাবেন (৮০:২২)। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ বলে: মানুষকে সৃষ্টি করার পর আল্লাহ তাকে মৃত্যু দেন আর কবরের বাসিন্দা বানান। তারপর মৃত্যুর পরে তাকে আবার জীবিত করেন, যার নাম বা'স আর নুশূর। মুয়াসসার পুনরুত্থানের উদ্দেশ্যও বলে দেয়: হিসাব আর প্রতিদান।"
+          },
+          {
+            "en": "Read as one line, the passage answers the ingratitude of 80:17 with a list of things done to man, not by him: created, measured, given an easy way, made to die, given a grave, raised. Whichever way the reader takes the way of 80:20, the exit from the womb or the road of good and evil, it was made easy before he chose anything. Then 80:23: he has not yet done what He commanded him, which the Muyassar glosses as faith and acting in obedience to Him.",
+            "bn": "পুরো অংশটা একটানা পড়লে দেখা যায়, ৮০:১৭-এর অকৃতজ্ঞতার জবাব এসেছে এমন কিছু কাজের তালিকায়, যা মানুষের উপর করা হয়েছে, মানুষ নিজে করেনি। সৃষ্টি, মাপজোখ, পথ সহজ করা, মৃত্যু, কবর, পুনরুত্থান। ৮০:২০-এর পথ পাঠক যেভাবেই বুঝুন, গর্ভ থেকে বেরোনো কিংবা ভালো-মন্দের পথ, মানুষ কিছু বেছে নেওয়ার আগেই তা সহজ করে রাখা হয়েছিল। তারপর ৮০:২৩: আল্লাহ তাকে যে হুকুম দিয়েছিলেন, সে এখনো তা পালন করেনি। মুয়াসসারের ব্যাখ্যায় সেই হুকুম হলো ঈমান আর তাঁর আনুগত্যের আমল।"
+          },
+          {
+            "en": "What remains for the listener is to answer the measuring with thanks. A body, a span, a provision and a way have already been set out, and the part left open is the walking. The verses give every reader a reason to stop crediting himself, and to spend the time between the eased way out and the grave on what he was commanded.",
+            "bn": "শ্রোতার কাজ তাহলে এই মাপজোখের জবাব দেওয়া শুকরিয়া দিয়ে। দেহ, আয়ু, রিজিক আর পথ আগেই ঠিক করে রাখা হয়েছে। খোলা আছে শুধু হাঁটার অংশটুকু। আয়াতগুলো প্রত্যেক পাঠককে কারণ দেয় নিজের কৃতিত্ব দাবি করা থামাতে। আর সহজ করে দেওয়া সেই বেরোনো থেকে কবর পর্যন্ত সময়টা কাজে লাগাতে, যে কাজের হুকুম তাকে দেওয়া হয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "80:24": {
     "sections": [
       {

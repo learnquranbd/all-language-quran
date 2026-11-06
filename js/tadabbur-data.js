@@ -29485,6 +29485,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Receive the Qur'an as a message carried by an honoured, trustworthy messenger from its Lord, and pass on what is entrusted to you with the same care.",
     "lessonBn": "কুরআনকে গ্রহণ করুন তার রবের কাছ থেকে এক সম্মানিত, বিশ্বস্ত রাসূলের বয়ে আনা বাণী হিসেবে, আর আপনার কাছে যা আমানত রাখা হয়, তাও একই যত্নে অন্যের কাছে পৌঁছে দিন।"
+  },
+  "80:19-20": {
+    "reflectionEn": "The surah has just asked a sharp question: from what thing did He create him? The answer takes seven Arabic words. A drop, then a measuring, then a way made easy. Nobody in that list did anything for himself. He was measured before he could measure anything, and the way, whether out into the world or the road of right and wrong, was smoothed before he took one step. Then come death, a grave and a raising, and the verdict that man has not yet done what he was told. So when I feel proud, or ungrateful, or fully in charge of my own life, these two verses walk me back to the start: who measured me, and who made my way easy?",
+    "reflectionBn": "সূরাটি এইমাত্র একটা ধারালো প্রশ্ন করেছে: কোন জিনিস থেকে তিনি তাকে সৃষ্টি করেছেন? জবাব এসেছে আরবি সাতটি শব্দে। এক ফোঁটা, তারপর মাপজোখ, তারপর সহজ করে দেওয়া পথ। এ তালিকায় মানুষ নিজের জন্য কিছুই করেনি। কোনো কিছু মাপার আগেই তাকে মেপে গড়া হয়েছে। আর পথটা, দুনিয়ায় বেরিয়ে আসার পথ হোক বা ভালো-মন্দের পথ, তার প্রথম পা ফেলার আগেই মসৃণ করে রাখা হয়েছে। এরপর আসে মৃত্যু, কবর আর পুনরুত্থান, আর সেই রায়: মানুষ এখনো তা করেনি যার হুকুম তাকে দেওয়া হয়েছিল। তাই যখন অহংকার জাগে, অকৃতজ্ঞ হয়ে পড়ি, কিংবা ভাবি নিজের জীবনের লাগাম পুরোটাই আমার হাতে, এই দুই আয়াত আমাকে শুরুতে ফিরিয়ে নেয়: কে আমাকে মেপে গড়েছেন, আর কে আমার পথ সহজ করেছেন?",
+    "pointsEn": [
+      "What in my life today did I never measure out for myself: my body, my span, my provision?",
+      "Which way has been made easy for me this year, and have I thanked the One who eased it, or quietly credited myself?",
+      "When I am tempted to look down on someone, do I remember that we both began from the same small water?",
+      "If the way of good has been shown to me plainly, which step on it am I still putting off?",
+      "What has Allah commanded me that I have not yet done, while the time between my birth and my grave is still running?"
+    ],
+    "pointsBn": [
+      "আজ আমার জীবনের কোন কোন জিনিস আমি নিজে কখনো মেপে ঠিক করিনি: আমার দেহ, আমার আয়ু, আমার রিজিক?",
+      "এ বছর কোন পথটা আমার জন্য সহজ করে দেওয়া হয়েছে? যিনি সহজ করেছেন তাঁর শুকরিয়া কি আদায় করেছি, নাকি চুপচাপ কৃতিত্বটা নিজের ঘরে তুলেছি?",
+      "কাউকে ছোট চোখে দেখতে মন চাইলে কি মনে পড়ে, আমরা দুজনেই একই সামান্য পানি থেকে শুরু করেছি?",
+      "ভালোর পথ যদি আমাকে স্পষ্ট করে দেখানো হয়ে থাকে, সে পথের কোন পদক্ষেপটা আমি এখনো পিছিয়ে রাখছি?",
+      "জন্ম আর কবরের মাঝের সময়টা যখন এখনো চলছে, আল্লাহর কোন হুকুম আমি আজও পালন করিনি?"
+    ],
+    "lessonEn": "You were measured and your way was eased before you could do anything for yourself; answer that with gratitude, not pride, and walk the way you have been shown.",
+    "lessonBn": "নিজের জন্য কিছু করার আগেই আপনাকে মেপে গড়া হয়েছে, আপনার পথ সহজ করা হয়েছে। এর জবাব দিন অহংকারে নয়, শুকরিয়ায়, আর যে পথ দেখানো হয়েছে সে পথে চলুন।"
   }
 };
 
