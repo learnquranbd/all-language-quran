@@ -28269,6 +28269,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask honestly why you turn toward Allah, accept others' word about their faith, leave hearts to the One who knows them, and repay what you owe even to an opponent.",
     "lessonBn": "আল্লাহর দিকে কেন ফিরছেন, সৎভাবে নিজেকে জিজ্ঞেস করুন। অন্যের ঈমানের কথা মেনে নিন, অন্তরের বিচার তাঁর হাতে ছেড়ে দিন যিনি তা জানেন, আর প্রতিপক্ষের পাওনাও ফিরিয়ে দিন।"
+  },
+  "61:10": {
+    "reflectionEn": "A merchant leans in when someone says, I know a deal that cannot lose. This verse opens in just that way, and the one making the offer is Allah: shall I point you to a trade that will save you from a painful punishment? He does not begin with a command. He makes an offer and lets the question hang until the next verse names the terms: faith in Allah and His Messenger, and striving in His cause with wealth and self. Every day I trade something, hours, money, attention, for a return I expect. The verse asks me to open my ledger honestly. What am I spending myself on, and will it still be worth anything when every account is settled?",
+    "reflectionBn": "কেউ যদি বলে, এমন এক কারবারের খোঁজ জানি যাতে লোকসান নেই, ব্যবসায়ী কান খাড়া করে শোনে। এ আয়াত ঠিক এভাবেই শুরু হয়, আর প্রস্তাবটা দিচ্ছেন স্বয়ং আল্লাহ: আমি কি তোমাদের এমন এক ব্যবসার সন্ধান দেব, যা তোমাদের যন্ত্রণাদায়ক আযাব থেকে বাঁচাবে? শুরুতে কোনো হুকুম নেই। আছে একটা প্রস্তাব, আর প্রশ্নটা ঝুলে থাকে পরের আয়াত পর্যন্ত। সেখানে শর্তগুলো খুলে বলা হয়: আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান, আর মাল ও জান দিয়ে তাঁর পথে জিহাদ। আমিও প্রতিদিন কিছু না কিছু বিনিময় করি। সময়, টাকা, মনোযোগ দিয়ে আশা করি কিছু ফিরে পাব। আয়াতটি আমাকে নিজের হিসাবের খাতা সৎভাবে খুলে দেখতে বলে। আমি নিজেকে কীসের পেছনে খরচ করছি? সব হিসাব যেদিন চুকিয়ে দেওয়া হবে, সেদিন এর কোনো দাম থাকবে তো?",
+    "pointsEn": [
+      "If I listed where my hours and money went this week, which entries would I be glad to have shown to me on the Day of Judgement?",
+      "Do I listen to Allah's offer with the attention I give a promising business opportunity?",
+      "The verse names faith before any spending. Is my giving rooted in belief, or in habit and reputation?",
+      "Which sacrifice for Allah's sake do I keep postponing because its return is not yet visible?",
+      "Whom could I point towards this trade by my own example, the way the verse points me?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আমার সময় আর টাকা কোথায় কোথায় গেল, তার তালিকা করলে কোন হিসাবগুলো কিয়ামতের দিন আমাকে দেখানো হলে আমি খুশি হব?",
+      "লাভের সম্ভাবনাওয়ালা কোনো ব্যবসার খবর যতটা মন দিয়ে শুনি, আল্লাহর প্রস্তাব কি ততটা মন দিয়ে শুনি?",
+      "আয়াতটি খরচের আগে ঈমানের কথা বলে। আমার দান কি ঈমান থেকে আসে, নাকি অভ্যাস আর সুনামের টানে?",
+      "আল্লাহর জন্য কোন ত্যাগটা আমি বারবার পিছিয়ে দিচ্ছি, শুধু এজন্য যে তার লাভ এখনো চোখে পড়ে না?",
+      "আয়াতটি যেমন আমাকে পথ দেখায়, তেমনি নিজের আমল দিয়ে কাকে আমি এই ব্যবসার দিকে পথ দেখাতে পারি?"
+    ],
+    "lessonEn": "Treat faith in Allah and His Messenger, and striving in His cause with wealth and self, as the one trade that never loses, and weigh every other deal against it.",
+    "lessonBn": "আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আর মাল ও জান দিয়ে তাঁর পথে জিহাদকে এমন ব্যবসা মনে করুন যাতে কখনো লোকসান নেই, আর বাকি সব লেনদেন এর পাল্লায় মেপে দেখুন।"
   }
 };
 

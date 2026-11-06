@@ -159,6 +159,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "61:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Offered Before It Is Commanded",
+          "bn": "হুকুমের আগে প্রস্তাব"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha alladhina amanu, hal adullukum 'ala tijaratin tunjikum min 'adhabin alim: O you who believe, shall I guide you to a transaction that will save you from a painful punishment? The verse follows 61:9, where Allah sent His Messenger with guidance and the religion of truth, and it holds back its own answer until 61:11. Eleven Arabic words end on a question. Nothing is commanded yet. Something is offered, and the listener is left wanting to hear what it is.",
+            "bn": "ইয়া আইয়ুহাল্লাযীনা আমানূ, হাল আদুল্লুকুম আলা তিজারাতিন তুনজীকুম মিন আযাবিন আলীম: হে মুমিনগণ, আমি কি তোমাদের এমন এক ব্যবসার সন্ধান দেব, যা তোমাদের যন্ত্রণাদায়ক আযাব থেকে বাঁচাবে? এর ঠিক আগে ৬১:৯ আয়াতে বলা হয়েছে, আল্লাহ তাঁর রাসূলকে হিদায়াত ও সত্য দীন দিয়ে পাঠিয়েছেন। আর এ আয়াত নিজের উত্তরটা ধরে রাখে ৬১:১১ পর্যন্ত। আরবিতে ১১টি শব্দ, শেষ হয় একটি প্রশ্নে। এখনো কোনো হুকুম আসেনি। এসেছে একটা প্রস্তাব, আর শ্রোতা অপেক্ষায় থাকে জিনিসটা কী তা শোনার।"
+          },
+          {
+            "en": "As-Sa'di reads meaning into the form. The verse uses the particle of offer, adat al-'ard, which shows that this is something every clear-sighted person longs for and every intelligent person rises towards, as though the hearer asks: what is this trade of such worth? He calls it counsel and guidance from the Most Merciful to His believing servants. The Muyassar glosses adullukum as urshidukum, shall I direct you, and calls the trade one of great standing. Al-Qurtubi records that adullukum was also taken as sa-adullukum, I will guide you, which turns the question into a promise.",
+            "bn": "সা'দী প্রশ্নের ধরন থেকেই অর্থ বের করেন। আয়াতে ব্যবহার হয়েছে প্রস্তাবের অব্যয়, আদাতুল আরদ। তাঁর মতে এটা বোঝায়, বিষয়টা এমন যা প্রত্যেক দূরদর্শী মানুষ চায়, প্রত্যেক বুদ্ধিমান মানুষ যার দিকে উঠে যেতে চায়। শ্রোতা যেন জিজ্ঞেস করে, এত দামি ব্যবসাটা কী? সা'দী একে বলেন পরম দয়ালুর পক্ষ থেকে তাঁর মুমিন বান্দাদের জন্য উপদেশ ও পথনির্দেশ। মুয়াসসার আদুল্লুকুম-এর অর্থ করে উরশিদুকুম, অর্থাৎ আমি কি তোমাদের পথ দেখাব, আর ব্যবসাটিকে বলে মহা মর্যাদার। কুরতুবী জানান, কেউ কেউ আদুল্লুকুম-কে সা-আদুল্লুকুম অর্থে নিয়েছেন: আমি তোমাদের পথ দেখাব। তখন প্রশ্নটা নিজেই হয়ে যায় একটা প্রতিশ্রুতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Call Faith a Trade",
+          "bn": "ঈমানকে কেন ব্যবসা বলা হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi answers the question the image raises. Allah made this the equivalent of trade, he says, because by it they make a profit: the pleasure of Allah, the attainment of His Paradise and rescue from the Fire. Ma'arif al-Qur'an, on 61:11, draws the comparison out. A man invests wealth and labour in trade and gains a profit; when he believes in Allah and invests his life and wealth in His cause, he gains Allah's pleasure and the lasting blessings of the Hereafter.",
+            "bn": "ছবিটা যে প্রশ্ন জাগায়, বাগাভী তার উত্তর দেন। আল্লাহ এ কাজকে ব্যবসার সমান ধরেছেন, কারণ এর মাধ্যমে তারা লাভ করে আল্লাহর সন্তুষ্টি, তাঁর জান্নাত আর জাহান্নাম থেকে মুক্তি। মাআরিফুল কুরআন ৬১:১১ আয়াতের আলোচনায় তুলনাটা খুলে বলে। মানুষ ব্যবসায় মাল আর শ্রম খাটায়, বিনিময়ে মুনাফা পায়। তেমনি সে যখন আল্লাহর প্রতি ঈমান আনে আর তাঁর পথে জান ও মাল খাটায়, তখন পায় আল্লাহর সন্তুষ্টি আর আখিরাতের চিরস্থায়ী নিয়ামত।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, names the trade simply as jihad and quotes 9:111: Indeed, Allah has purchased from the believers their lives and their properties. There Allah is the buyer; here the believers are invited to the market. On 61:11 he widens the point through the grammarian al-Farra': the trade was not known until it was explained by faith and striving, so that in meaning the trade is those two. At-Tabari and al-Baghawi likewise say that 61:11 makes the trade plain, beginning with faith.",
+            "bn": "কুরতুবী এ আয়াতের আলোচনায় ব্যবসাটিকে সরাসরি জিহাদ বলেছেন এবং উদ্ধৃত করেছেন ৯:১১১: নিশ্চয়ই আল্লাহ মুমিনদের কাছ থেকে তাদের জান ও মাল কিনে নিয়েছেন। সেখানে আল্লাহ ক্রেতা। আর এখানে মুমিনদের ডাকা হচ্ছে বাজারে। ৬১:১১ আয়াতে এসে তিনি ব্যাকরণবিদ ফাররার সূত্রে কথাটা প্রশস্ত করেন। ব্যবসাটা কী, তা জানা ছিল না যতক্ষণ না ঈমান ও জিহাদ দিয়ে তা ব্যাখ্যা করা হলো। ফলে অর্থের দিক থেকে ব্যবসা মানে ওই দুটিই। তাবারী আর বাগাভীও বলেন, ৬১:১১ ব্যবসাটা স্পষ্ট করে দেয়, আর শুরু করে ঈমান দিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir calls it this great trade that does not fail, one that secures what is sought and removes what is feared. On 61:11 he says what it is better than: the trade of this world, toiling for it and devoting oneself to it alone. The Muyassar says the same in brief, better for you than worldly trade.",
+            "bn": "ইবন কাসীর একে বলেন সেই মহান ব্যবসা যা কখনো মার খায় না, যা কাঙ্ক্ষিত জিনিস এনে দেয় আর আশঙ্কার জিনিস দূর করে। ৬১:১১ আয়াতে তিনি বলেন এটা কীসের চেয়ে উত্তম: দুনিয়ার ব্যবসা, তার জন্য খাটুনি আর কেবল তাতেই ডুবে থাকার চেয়ে। মুয়াসসার সংক্ষেপে একই কথা বলে: দুনিয়ার ব্যবসার চেয়ে এটা তোমাদের জন্য উত্তম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rescue Comes First",
+          "bn": "আগে মুক্তি, পরে পুরস্কার"
+        },
+        "p": [
+          {
+            "en": "The first return on the trade is named inside the verse itself: tunjikum, it will save you. At-Tabari glosses alim as muji', painful, and says plainly that this is the punishment of Jahannam. The Muyassar uses the same word, a punishment that hurts. The verse does not open by promising gardens. It opens with rescue, and leaves forgiveness and the gardens of perpetual residence for 61:12, as the reward of those who complete the exchange.",
+            "bn": "ব্যবসার প্রথম লাভের কথা আয়াতের ভেতরেই আছে: তুনজীকুম, তা তোমাদের বাঁচাবে। তাবারী আলীম শব্দের অর্থ করেন মূজি, অর্থাৎ যন্ত্রণাদায়ক। তিনি সোজাসুজি বলেন, এ হলো জাহান্নামের আযাব। মুয়াসসারও একই শব্দ ব্যবহার করে: কষ্টদায়ক আযাব। আয়াতটি জান্নাতের ওয়াদা দিয়ে শুরু হয় না, শুরু হয় মুক্তি দিয়ে। মাগফিরাত আর চিরস্থায়ী জান্নাতের কথা রেখে দেয় ৬১:১২ আয়াতের জন্য, যারা লেনদেনটা পূর্ণ করে তাদের প্রতিদান হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both record two readings of the verb. The general reading is tunjikum, with the nun unvoiced, from injā', to rescue. Ibn 'Amir read tunajjikum with a doubled jim, from tanjiya; al-Qurtubi adds al-Hasan and Abu Haywa to that reading, while al-Baghawi sets Ibn 'Amir alone against the rest. Al-Qurtubi glosses the verb as it will free you, and neither commentator draws a different meaning from the doubled form.",
+            "bn": "কুরতুবী ও বাগাভী দুজনই ক্রিয়াটির দুটি কিরাআত উল্লেখ করেছেন। অধিকাংশের পাঠ তুনজীকুম, নূন সাকিনসহ, ইনজা থেকে, যার অর্থ উদ্ধার করা। ইবন আমির পড়েছেন তুনাজ্জীকুম, জীম তাশদীদসহ, তানজিয়া থেকে। কুরতুবী এই পাঠে হাসান আর আবু হাইওয়ার নামও যোগ করেন। বাগাভী শুধু ইবন আমিরকে বাকিদের বিপরীতে রাখেন। কুরতুবী শব্দটির অর্থ করেন: তোমাদের মুক্ত করবে। দুই রূপের মধ্যে কেউই অর্থের আলাদা কোনো তফাত দেখাননি।"
+          },
+          {
+            "en": "As-Sa'di joins the two outcomes. By this trade, he writes, the believer gains rescue from the painful punishment and success in a lasting bliss, al-fawz bi-n-na'im al-muqim. He calls it the greatest trade, the most noble thing sought and the highest thing desired. The rescue is what this verse states; the bliss is what 61:12 goes on to describe.",
+            "bn": "সা'দী দুটি ফলকে এক সঙ্গে বাঁধেন। তাঁর কথায়, এই ব্যবসা দিয়ে মেলে যন্ত্রণাদায়ক আযাব থেকে মুক্তি আর চিরস্থায়ী নিয়ামতের সাফল্য, আল-ফাওযু বিন-নাঈমিল মুকীম। তিনি একে বলেন সবচেয়ে বড় ব্যবসা, সবচেয়ে মহৎ চাওয়া, সবচেয়ে উঁচু আকাঙ্ক্ষা। মুক্তির কথা এ আয়াতে, আর নিয়ামতের বিবরণ আসে ৬১:১২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qatada Gives Thanks",
+          "bn": "কাতাদার শুকরিয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari preserves two short remarks from Qatada on this verse. In the first, Qatada says that had Allah not made the trade clear and pointed the believers to it, men would have pined to know it; but Allah has pointed you to it and taught it to you, and he recites 61:11. In the second, through Ma'mar, Qatada recites the verses and then says only: praise be to Allah, who made it clear.",
+            "bn": "এ আয়াত নিয়ে কাতাদার দুটি ছোট মন্তব্য তাবারী সংরক্ষণ করেছেন। প্রথমটিতে কাতাদা বলেন, আল্লাহ যদি ব্যবসাটা খুলে না বলতেন, মুমিনদের এর পথ না দেখাতেন, তবে মানুষ তা জানার জন্য ছটফট করত। কিন্তু আল্লাহ তোমাদের পথ দেখিয়েছেন, জানিয়ে দিয়েছেন। এরপর তিনি ৬১:১১ তিলাওয়াত করেন। দ্বিতীয়টি মা'মারের সূত্রে। কাতাদা আয়াতগুলো তিলাওয়াত করে শুধু বলেন: সমস্ত প্রশংসা আল্লাহর, যিনি তা স্পষ্ট করে দিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari also explains why 61:11 begins tu'minun, you believe, rather than an tu'minu, that you believe. When the Arabs explain a noun by a verb, he says, they sometimes put an before the verb and sometimes leave it out, and one hears both forms of the same invitation. So tu'minun stands as the explanation of tijara. Both at-Tabari and al-Qurtubi add that in the reading of 'Abdullah the word appears as the command aminu, believe.",
+            "bn": "৬১:১১ আয়াত কেন আন তু'মিনূ, অর্থাৎ যে তোমরা ঈমান আনবে, না বলে সরাসরি তু'মিনূন, তোমরা ঈমান আনবে, দিয়ে শুরু হলো, তাবারী তাও ব্যাখ্যা করেন। তাঁর কথায়, আরবরা যখন কোনো বিশেষ্যের ব্যাখ্যা ক্রিয়া দিয়ে দেয়, তখন কখনো ক্রিয়ার আগে আন বসায়, কখনো বসায় না। একই দাওয়াতের দুই রূপই শোনা যায়। তাই তু'মিনূন হলো তিজারা শব্দের ব্যাখ্যা। তাবারী ও কুরতুবী দুজনই জানান, আবদুল্লাহর কিরাআতে শব্দটি আছে আদেশের রূপে: আমিনূ, ঈমান আনো।"
+          },
+          {
+            "en": "Al-Qurtubi sets out a disagreement that turns on this. For al-Mubarrad and az-Zajjaj, tu'minun carries the sense of a command, which is why yaghfir in 61:12 is jussive: it answers the command. Al-Farra' held that yaghfir answers the question, will I guide you. Al-Qurtubi says this holds only when read for the sense, with faith and striving explaining the trade, and quotes az-Zamakhshari: it is as if one were asked, will you trade in faith and striving? Both positions stand in his text.",
+            "bn": "এ নিয়েই কুরতুবী একটি মতভেদ তুলে ধরেন। মুবাররাদ ও যাজ্জাজের মতে তু'মিনূন আসলে আদেশের অর্থ বহন করে। এজন্যই ৬১:১২ আয়াতের ইয়াগফির শব্দটি জযমযুক্ত, কারণ তা আদেশের জবাব। ফাররার মত ভিন্ন: ইয়াগফির হলো প্রশ্নের জবাব, অর্থাৎ আমি কি তোমাদের পথ দেখাব, তার। কুরতুবী বলেন, এ মত টেকে কেবল অর্থের দিকে তাকালে, যখন ঈমান ও জিহাদ ব্যবসার ব্যাখ্যা। তিনি যামাখশারীর কথাও আনেন: যেন জিজ্ঞেস করা হলো, তোমরা কি ঈমান ও জিহাদ দিয়ে ব্যবসা করবে? দুটি মতই তাঁর লেখায় পাশাপাশি রয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believers Called to Believe",
+          "bn": "মুমিনদেরই ঈমানের ডাক"
+        },
+        "p": [
+          {
+            "en": "If the verse addresses those who have already believed, why does its answer tell them to believe? At-Tabari raises the objection himself and refers the reader to his answer on the parallel wording, O you who believe, believe in Allah, saying he has explained it in its place and need not repeat it. The Muyassar's paraphrase of 61:11 shows one way to take it: tudawimuna 'ala imanikum, you keep steadily to your faith in Allah and His Messenger.",
+            "bn": "আয়াতটি যদি আগে থেকেই ঈমানদারদের সম্বোধন করে, তবে এর উত্তরে আবার ঈমান আনার কথা কেন? প্রশ্নটা তাবারী নিজেই তোলেন। এর জবাবে পাঠককে তিনি পাঠান একই ধাঁচের আরেকটি বাক্যের আলোচনায়: হে মুমিনগণ, আল্লাহর প্রতি ঈমান আনো। বলেন, সেখানে ব্যাখ্যা দেওয়া হয়ে গেছে, তাই আবার বলার দরকার নেই। ৬১:১১ আয়াতের যে ভাষ্য মুয়াসসার দেয়, তাতে একটা পথ দেখা যায়: তুদাওয়িমূনা আলা ঈমানিকুম, আল্লাহ ও তাঁর রাসূলের প্রতি তোমাদের ঈমানে তোমরা অবিচল থাকবে।"
+          },
+          {
+            "en": "As-Sa'di takes it further. Complete faith, he writes, is firm assent to all that Allah has commanded belief in, an assent that requires the deeds of the limbs, and among the greatest of those deeds is striving in Allah's cause. That, he says, is why the striving is named next. On his reading the second part of the trade grows out of the first rather than standing beside it as a separate purchase.",
+            "bn": "সা'দী কথাটা আরও এগিয়ে নেন। তাঁর মতে পূর্ণ ঈমান হলো আল্লাহ যা কিছু বিশ্বাস করতে বলেছেন তার প্রতি দৃঢ় সত্যায়ন। এই সত্যায়ন অঙ্গপ্রত্যঙ্গের আমল দাবি করে, আর সেসব আমলের মধ্যে অন্যতম শ্রেষ্ঠ হলো আল্লাহর পথে জিহাদ। এজন্যই, তিনি বলেন, ঈমানের পরেই জিহাদের কথা এসেছে। তাঁর ব্যাখ্যায় ব্যবসার দ্বিতীয় অংশ প্রথমটির পাশে আলাদা কোনো কেনাকাটা নয়, প্রথমটি থেকেই তার জন্ম।"
+          },
+          {
+            "en": "Who exactly is addressed? Al-Qurtubi gives two views. The first is that this is an address to all the believers. The second, introduced with qila, it was said, is that it addresses the People of the Book. He does not develop the second view or choose between them. The Muyassar paraphrases the address as those who affirmed Allah and His Messenger and acted on His law.",
+            "bn": "ঠিক কাদের সম্বোধন করা হয়েছে? কুরতুবী দুটি মত দেন। প্রথম মত, এটা সব মুমিনের প্রতি সম্বোধন। দ্বিতীয় মতটি তিনি আনেন কীলা, অর্থাৎ বলা হয়েছে, শব্দ দিয়ে: এ সম্বোধন আহলে কিতাবের প্রতি। দ্বিতীয় মতটি তিনি আর বিস্তার করেননি, কোনোটিকে বেছেও নেননি। মুয়াসসার সম্বোধনটির ব্যাখ্যা করে এভাবে: যারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনেছে এবং তাঁর শরীয়ত অনুযায়ী আমল করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth Before Self",
+          "bn": "জানের আগে মাল"
+        },
+        "p": [
+          {
+            "en": "The second part of the trade is tujahiduna fi sabili-llah bi-amwalikum wa anfusikum, you strive in Allah's cause with your wealth and your selves. At-Tabari glosses it as striving in the religion of Allah and the path He has laid down for you. The Muyassar names its aim, to support His religion with what you own of wealth and life. As-Sa'di describes it as giving up life itself to face the enemies of Islam, with the purpose of helping Allah's religion and raising His word, and spending whatever wealth is within reach for that end.",
+            "bn": "ব্যবসার দ্বিতীয় অংশ: তুজাহিদূনা ফী সাবীলিল্লাহি বিআমওয়ালিকুম ওয়া আনফুসিকুম, তোমরা তোমাদের মাল ও জান দিয়ে আল্লাহর পথে জিহাদ করবে। তাবারী এর অর্থ করেন আল্লাহর দীনে এবং তিনি তোমাদের জন্য যে পথ বিধিবদ্ধ করেছেন তাতে জিহাদ। মুয়াসসার এর লক্ষ্য জানিয়ে দেয়: তোমাদের মালিকানায় যে মাল আর জান আছে তা দিয়ে তাঁর দীনের সাহায্য করা। সা'দীর বর্ণনায় এর মানে ইসলামের শত্রুদের মোকাবিলায় নিজের প্রাণ পর্যন্ত সঁপে দেওয়া, যার উদ্দেশ্য আল্লাহর দীনের সাহায্য আর তাঁর কালিমাকে উঁচু করা, সঙ্গে সাধ্যমতো মাল খরচ করা।"
+          },
+          {
+            "en": "Al-Qurtubi notices the order of the two. Wealth is mentioned first, he says, because it is with wealth that spending begins. As-Sa'di admits that this striving may be disliked by souls and hard on them, and says it is better for you all the same, because it carries worldly good as well: victory over enemies, an honour that removes humiliation, ample provision, and a heart opened and at ease.",
+            "bn": "দুটির ক্রম কুরতুবীর চোখ এড়ায়নি। মালের কথা আগে এসেছে, তিনি বলেন, কারণ খরচ শুরু হয় মাল দিয়েই। সা'দী স্বীকার করেন, এ জিহাদ মনের কাছে অপছন্দের আর কঠিন হতে পারে। তবু তা তোমাদের জন্য উত্তম, কারণ এতে দুনিয়ার কল্যাণও আছে: শত্রুর ওপর বিজয়, অপমান দূর করা মর্যাদা, প্রশস্ত রিযিক, আর বুকের প্রশস্ততা ও প্রশান্তি।"
+          },
+          {
+            "en": "Dhalikum khayrun lakum in kuntum ta'lamun: that is best for you, if you only knew. At-Tabari reads the comparison as better than neglecting it and falling short in it, and the knowledge meant as knowledge of what harms and what benefits. The Muyassar closes its gloss with a plain instruction: so carry it out. The verse leaves the choice with the listener, but not the value of the trade.",
+            "bn": "যালিকুম খাইরুল লাকুম ইন কুনতুম তা'লামূন: এটাই তোমাদের জন্য উত্তম, যদি তোমরা জানতে। তাবারী তুলনাটা পড়েন এভাবে: এটা অবহেলা আর গাফিলতির চেয়ে উত্তম। আর এখানে জানা মানে কোনটা ক্ষতিকর আর কোনটা উপকারী তা জানা। মুয়াসসার নিজের ব্যাখ্যা শেষ করে সোজা নির্দেশ দিয়ে: অতএব তা পালন করো। সিদ্ধান্তটা আয়াত শ্রোতার হাতে ছেড়ে দেয়, কিন্তু ব্যবসার মূল্য নিয়ে কোনো সংশয় রাখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question They Had Asked",
+          "bn": "যে প্রশ্ন তাঁরা করেছিলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Baghawi tie this verse to the occasion of the surah's opening. The Companions wished to know which deeds were most beloved to Allah so that they could do them, and Allah sent down the surah, this verse among it. Ibn Kathir points back to the hadith of 'Abdullah ibn Salam (RA) for this; that narration and its chains are set out in the article on 61:2 and are not repeated here. Read with it, this verse and the next answer the question they had asked.",
+            "bn": "ইবন কাসীর ও বাগাভী এ আয়াতকে সূরার শুরুর প্রেক্ষাপটের সঙ্গে যুক্ত করেন। সাহাবীরা জানতে চেয়েছিলেন, কোন আমল আল্লাহর কাছে সবচেয়ে প্রিয়, যাতে তাঁরা তা করতে পারেন। তখন আল্লাহ সূরাটি নাযিল করেন, আর এ আয়াত তারই অংশ। ইবন কাসীর এর জন্য আবদুল্লাহ ইবন সালাম (রাঃ)-এর হাদীসের দিকে ইঙ্গিত করেন। সেই বর্ণনা ও তার সনদের আলোচনা আছে ৬১:২ আয়াতের প্রবন্ধে, এখানে তার পুনরাবৃত্তি নেই। সে বর্ণনার আলোয় পড়লে এ আয়াত আর পরের আয়াত মিলে তাঁদের প্রশ্নেরই উত্তর।"
+          },
+          {
+            "en": "Al-Qurtubi records a different occasion from Muqatil, with no chain: that the verse came down about 'Uthman ibn Maz'un (RA), who had asked leave to give up marriage and ordinary comforts for unbroken worship, was turned back from it, and then said he wished to know which trade was dearest to Allah so that he could trade in it. Al-Qurtubi gives nothing beyond Muqatil's name. The Prophetic words inside that report are not confirmed in any collection fetched for this verse, so they are not quoted here.",
+            "bn": "কুরতুবী মুকাতিলের বরাতে ভিন্ন এক প্রেক্ষাপট উল্লেখ করেন, কোনো সনদ ছাড়া। সে বর্ণনা অনুযায়ী আয়াতটি নাযিল হয় উসমান ইবন মাযঊন (রাঃ)-কে কেন্দ্র করে। তিনি বিয়ে আর স্বাভাবিক আরাম-আয়েশ ছেড়ে একটানা ইবাদতে ডুবে থাকার অনুমতি চেয়েছিলেন। তাঁকে তা থেকে ফিরিয়ে দেওয়া হয়। তখন তিনি বলেন, তিনি জানতে চান কোন ব্যবসা আল্লাহর কাছে সবচেয়ে প্রিয়, যাতে সেটাই করতে পারেন। মুকাতিলের নাম ছাড়া কুরতুবী আর কোনো সূত্র দেননি। ওই বর্ণনার ভেতরে নবী ﷺ-এর যে কথাগুলো আছে, এ আয়াতের জন্য সংগৃহীত কোনো হাদীসগ্রন্থে তা যাচাই হয়নি, তাই এখানে উদ্ধৃত করা হলো না।"
+          },
+          {
+            "en": "A sound narration that is not attached to this verse follows the same order as 61:11. Al-Bukhari records from Abu Hurayra (RA) that the Messenger of Allah ﷺ was asked: Which deed is best? He said: Faith in Allah and His Messenger. It was said: Then what? He said: Jihad in the cause of Allah. It was said: Then what? He said: A Hajj that is accepted, hajjun mabrur. It stands in his Sahih, number 26 in the Darussalam numbering.",
+            "bn": "একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, ৬১:১১ আয়াতের ক্রমই অনুসরণ করে। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করা হলো: কোন আমল সর্বোত্তম? তিনি বললেন: আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান। বলা হলো: তারপর কোনটি? তিনি বললেন: আল্লাহর পথে জিহাদ। বলা হলো: তারপর কোনটি? তিনি বললেন: মাবরূর হজ্জ, অর্থাৎ কবুল হওয়া হজ্জ। হাদীসটি তাঁর সহীহ গ্রন্থে আছে, দারুস সালাম নম্বর অনুযায়ী ২৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opening the Ledger Today",
+          "bn": "আজকের হিসাবের খাতা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse invites the believers it addresses to faith and to striving in Allah's cause, and the commentators explain that striving in their own words, as quoted above. The verse names no present-day enemy, and it licenses nothing against any living person or community. No reader may lift the word jihad from it and fasten it to a conflict of today or to a neighbour of another faith. What it asks of a reader now begins with faith, and with what that reader spends and for whose sake.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যাদের সম্বোধন করেছে, সেই মুমিনদের ঈমান আর আল্লাহর পথে জিহাদের দিকে ডাকে। সে জিহাদের ব্যাখ্যা তাফসীরকারেরা নিজেদের ভাষায় দিয়েছেন, যা ওপরে উদ্ধৃত হয়েছে। আজকের কোনো শত্রুর নাম এ আয়াতে নেই, আর কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতিও এটি দেয় না। এ আয়াত থেকে জিহাদ শব্দটি তুলে নিয়ে আজকের কোনো সংঘাতে, কিংবা ভিন্ন ধর্মের কোনো প্রতিবেশীর গায়ে জুড়ে দেওয়ার অধিকার কোনো পাঠকের নেই। আজকের পাঠকের কাছে এর দাবি শুরু হয় ঈমান দিয়ে, তারপর এ প্রশ্ন দিয়ে: সে কী খরচ করে, আর কার জন্য।"
+          },
+          {
+            "en": "What every reader can carry from the verse is the image of the ledger. It speaks to people who already trade every day, giving hours, money and attention for a return they expect. It offers a better exchange and names its first return as rescue. Wealth comes first in the answer, as al-Qurtubi observed, and that is where most readers can begin, with an honest look at where their wealth goes.",
+            "bn": "প্রত্যেক পাঠক এ আয়াত থেকে যা সঙ্গে নিতে পারেন, তা হিসাবের খাতার ছবিটা। আয়াতটি এমন মানুষদের সঙ্গে কথা বলে, যারা রোজই কিছু না কিছু বিনিময় করে। সময়, টাকা আর মনোযোগ দেয়, ফিরে কিছু পাওয়ার আশায়। আয়াত বরং আরও ভালো এক লেনদেনের প্রস্তাব দেয়, যার প্রথম লাভের নাম মুক্তি। উত্তরে মালের কথা আগে এসেছে, কুরতুবী যেমন লক্ষ করেছেন। অধিকাংশ পাঠক শুরু করতে পারেন সেখান থেকেই: নিজের মাল কোথায় যাচ্ছে, তার দিকে সৎভাবে একবার তাকিয়ে।"
+          },
+          {
+            "en": "Qatada's response makes a fitting close: praise be to Allah, who made it clear. The trade has been pointed out, so no one need pine to discover it. What remains is whether the believer who hears the offer, shall I guide you, answers it by making the exchange, starting with faith and continuing with whatever wealth and effort can be given for Allah's sake.",
+            "bn": "কাতাদার কথাটাই এখানে মানানসই সমাপ্তি: সমস্ত প্রশংসা আল্লাহর, যিনি তা স্পষ্ট করে দিয়েছেন। ব্যবসার পথ দেখানো হয়ে গেছে, তা খুঁজে পেতে আর কাউকে ছটফট করতে হবে না। বাকি থাকে শুধু এটুকু: আমি কি তোমাদের পথ দেখাব, এই প্রস্তাব শোনার পর মুমিন কি লেনদেনটা করে? শুরু ঈমান দিয়ে, তারপর আল্লাহর জন্য যতটুকু মাল আর শ্রম দেওয়া যায় তা দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "61:14": {
     "sections": [
       {
