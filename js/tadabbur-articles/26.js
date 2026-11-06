@@ -155,6 +155,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turning Away Named as Denial",
+          "bn": "মুখ ফেরানোর আসল নাম"
+        },
+        "p": [
+          {
+            "en": "Fa-qad kadhdhabu fa-sa-ya'tihim anba'u ma kanu bihi yastahzi'un: they have denied, so there will come to them the news of what they used to ridicule. The verse is eight Arabic words, and it opens with fa, so it answers the verse before it: no new reminder comes to them from the Most Merciful but they turn away from it (26:5). At-Tabari keeps the two joined and keeps the address to the Prophet ﷺ: these idolaters, O Muhammad, have denied the reminder that came to them from God, and turned away from it.",
+            "bn": "ফাকাদ কাযযাবূ ফাসাইয়া'তীহিম আমবাউ মা কানূ বিহী ইয়াসতাহযিঊন: তারা অস্বীকার করেছে, তাই যা নিয়ে তারা বিদ্রূপ করত, তার খবর তাদের কাছে আসবে। আরবিতে আয়াতটি মাত্র আটটি শব্দ। শুরু হয়েছে ফা দিয়ে, তাই এটি আগের আয়াতের জবাব। সেখানে বলা হয়েছে, দয়াময়ের কাছ থেকে তাদের কাছে যে নতুন উপদেশই আসে, তারা তা থেকে মুখ ফিরিয়ে নেয় (২৬:৫)। তাবারী দুটিকে একসঙ্গে পড়েন, আর নবী ﷺ-কে সম্বোধনও বজায় রাখেন। তাঁর ভাষায়: হে মুহাম্মাদ, এই মুশরিকরা আল্লাহর কাছ থেকে আসা উপদেশকে অস্বীকার করেছে, আর তা থেকে মুখ ফিরিয়ে নিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi makes the link explicit. Kadhdhabu, he writes, means a'radu, they turned away, because whoever turns away from a thing and does not accept it has denied it. On his reading the verse does not add a second offence to the first. It gives the first its true name. Denial here is not only a spoken no; refusing to receive is already a denial. Ibn Kathir says they denied the truth that came to them, and as-Sa'di likewise says they denied the truth.",
+            "bn": "কুরতুবী যোগসূত্রটা খোলাখুলি বলে দেন। তাঁর মতে কাযযাবূ মানে আ'রাদূ, অর্থাৎ তারা মুখ ফিরিয়ে নিয়েছে। কারণ কেউ কোনো জিনিস থেকে মুখ ফিরিয়ে নিলে আর তা গ্রহণ না করলে, সেটাই তাকে অস্বীকার করা। এভাবে পড়লে আয়াতটি প্রথম অপরাধের উপর দ্বিতীয় কোনো অপরাধ চাপায় না। প্রথমটারই আসল নাম বলে দেয়। এখানে অস্বীকার মানে শুধু মুখে না বলা নয়। গ্রহণ করতে রাজি না হওয়াটাই অস্বীকার। ইবন কাসীর বলেন, তাদের কাছে যে সত্য এসেছিল, তারা তা অস্বীকার করেছে। সা'দীও একই কথা বলেন: তারা সত্যকে অস্বীকার করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reminder Arriving Fresh",
+          "bn": "যে উপদেশ আসে টাটকা হয়ে"
+        },
+        "p": [
+          {
+            "en": "The reminder they turned from is called muhdath in 26:5, new. Al-Baghawi explains dhikr there as admonition and reminding, and muhdath as new in its sending down. He relays al-Kalbi: whenever something of the Qur'an came down after something else, it was newer than the first. The Qur'an reached its first hearers piece by piece, and each piece was fresh when it arrived. So the turning in 26:5 was not a single refusal of an old message. It was repeated with every new arrival.",
+            "bn": "২৬:৫ আয়াতে যে উপদেশ থেকে তারা মুখ ফিরিয়েছিল, তাকে বলা হয়েছে মুহদাস, অর্থাৎ নতুন। বাগাভী সেখানে যিকরের অর্থ করেন ওয়াজ ও স্মরণ করিয়ে দেওয়া, আর মুহদাসের অর্থ করেন নাযিলের দিক থেকে নতুন। তিনি কালবীর কথা উদ্ধৃত করেন: কুরআনের কোনো অংশ আরেক অংশের পরে নাযিল হলে, পরেরটি আগেরটির চেয়ে নতুন। প্রথম শ্রোতাদের কাছে কুরআন এসেছিল অল্প অল্প করে, আর প্রতিটি অংশ পৌঁছানোর সময় ছিল টাটকা। তাই ২৬:৫ আয়াতের মুখ ফেরানো কোনো পুরোনো বার্তাকে একবার ফিরিয়ে দেওয়া নয়। প্রতিটি নতুন অংশ আসার সঙ্গে সঙ্গে তা বারবার ঘটেছে।"
+          },
+          {
+            "en": "At-Tabari describes what that reminder carried. It was a reminding and an alerting to the places where God's proofs stood against them, proofs that the Prophet ﷺ was truthful and that what he called them to was real. They turned away from listening to it, he says, and gave up applying their thought to it and its tadabbur. The word this module is named for appears in his account of the refusal. Turning away, as he describes it, is first of all a decision not to think.",
+            "bn": "সেই উপদেশে কী ছিল, তাবারী তা বলেন। তাতে ছিল স্মরণ করিয়ে দেওয়া আর সজাগ করা: তাদের বিরুদ্ধে আল্লাহর প্রমাণ কোথায় কোথায় দাঁড়িয়ে আছে, যে প্রমাণ বলে নবী ﷺ সত্যবাদী আর তাঁর দাওয়াত সত্য। তাবারী বলেন, তারা তা শোনা থেকে মুখ ফিরিয়ে নিয়েছিল, তা নিয়ে চিন্তা খাটানো আর তার তাদাব্বুর ছেড়ে দিয়েছিল। যে শব্দের নামে এই অংশটি, সেটাই এসেছে তাঁর বর্ণনায়, প্রত্যাখ্যানের কথা বলতে গিয়ে। তাঁর বর্ণনায় মুখ ফেরানো সবার আগে ভাবতে না চাওয়ার সিদ্ধান্ত।"
+          },
+          {
+            "en": "As-Sa'di, also on 26:5, says the reminder commanded them and forbade them, and reminded them of what would benefit and what would harm them. They turned from it with their hearts and their bodies. He then makes an argument from the word new: a fresh reminder ordinarily lands more forcefully than any other. If they turned from that one, he asks, how much more would they turn from the rest? The freshness that should have helped them only showed how settled the turning was.",
+            "bn": "সা'দী, তিনিও ২৬:৫ আয়াতে, বলেন সেই উপদেশ তাদের আদেশ দিত, নিষেধ করত, আর কিসে তাদের লাভ আর কিসে ক্ষতি তা মনে করিয়ে দিত। তারা অন্তর দিয়েও মুখ ফিরিয়েছে, শরীর দিয়েও। তারপর নতুন শব্দটা থেকে তিনি একটা যুক্তি দাঁড় করান। নতুন উপদেশ সাধারণত অন্য যেকোনো উপদেশের চেয়ে গভীরে গিয়ে লাগে। সেটা থেকেই যদি তারা মুখ ফেরায়, তবে বাকিগুলো থেকে আরও কত বেশি ফেরাবে? যে নতুনত্ব তাদের কাজে আসার কথা ছিল, তা শুধু দেখিয়ে দিল মুখ ফেরানোটা কতটা পাকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Denial Becomes Nature",
+          "bn": "অস্বীকার যখন স্বভাব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads fa-qad kadhdhabu as more than a single act. They denied the truth, he says, and denial became a sajiyya for them, a settled trait that does not change or alter. On 26:5 he gives the reason in a blunt clause: there is no good in them, and admonitions do not take effect in them. His words describe the people these verses describe, those who met each new portion of revelation with refusal. They are not a rule for judging any listener today.",
+            "bn": "সা'দী ফাকাদ কাযযাবূ কথাটিকে একবারের কাজ হিসেবে পড়েন না। তিনি বলেন, তারা সত্যকে অস্বীকার করেছে, আর অস্বীকার তাদের সাজিয়্যা হয়ে গেছে, এমন স্থায়ী স্বভাব যা বদলায় না, পাল্টায় না। ২৬:৫ আয়াতে তিনি কারণটা বলেন এক কাটা বাক্যে: তাদের মধ্যে কোনো কল্যাণ নেই, উপদেশ তাদের উপর কাজ করে না। তাঁর এ কথা সেই লোকদের বর্ণনা, যাদের কথা এ আয়াতগুলো বলছে, যারা ওহির প্রতিটি নতুন অংশকে প্রত্যাখ্যান দিয়ে বরণ করেছে। আজকের কোনো শ্রোতাকে বিচার করার মাপকাঠি এটি নয়।"
+          },
+          {
+            "en": "The wording of the two verses carries the same sense of habit. Both frame what the people did with kanu: kanu 'anhu mu'ridin, they were ones who turned away from it, and kanu bihi yastahzi'un, they used to ridicule it. The form describes a standing pattern, not a lapse. Read in order, the two verses move from turning away, to the denial that turning amounted to, to the ridicule they had been keeping up all along. Mockery is named last, but it was already their practice.",
+            "bn": "দুই আয়াতের শব্দচয়নেও অভ্যাসের সেই সুর আছে। লোকেরা কী করত, দুই জায়গাতেই তা বলা হয়েছে কানূ দিয়ে। কানূ আনহু মু'রিদীন: তারা তা থেকে মুখ ফেরানো লোক ছিল। কানূ বিহী ইয়াসতাহযিঊন: তারা তা নিয়ে বিদ্রূপ করে আসছিল। এ গঠন একবারের পদস্খলন নয়, চলমান ধারার কথা বলে। পরপর পড়লে আয়াত দুটি এগোয় মুখ ফেরানো থেকে, সেই মুখ ফেরানো যে অস্বীকার তার দিকে, তারপর সেই বিদ্রূপে, যা তারা বরাবর করে আসছিল। বিদ্রূপের নাম আসে সবার শেষে, অথচ তা আগেই তাদের অভ্যাস ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News That Carries Consequences",
+          "bn": "যে খবর পরিণাম বয়ে আনে"
+        },
+        "p": [
+          {
+            "en": "Anba' is the plural of naba', news of weight. Al-Baghawi glosses it with two words, akhbar wa-'awaqib, reports and consequences, and reads the sa of sa-ya'tihim as fa-sawfa ya'tihim, it will come to them in time. Al-Qurtubi calls the clause a wa'id, a threat, and explains it as the consequence of what they denied, and of what they mocked, coming to them. Jalalayn likewise reads the news as the consequences of what they used to deride. The news, on these readings, is not information about an outcome. It is the outcome.",
+            "bn": "আমবা শব্দটি নাবা-র বহুবচন, অর্থাৎ গুরুতর খবর। বাগাভী এর ব্যাখ্যা দেন দুটি শব্দে: আখবার ও আওয়াকিব, খবর আর পরিণাম। সাইয়া'তীহিম-এর সা-কে তিনি পড়েন ফাসাওফা ইয়া'তীহিম, অর্থাৎ সময় হলে তাদের কাছে আসবে। কুরতুবী বাক্যটিকে বলেন ওয়াঈদ, হুমকি। তাঁর ব্যাখ্যায়, তারা যা অস্বীকার করেছে আর যা নিয়ে বিদ্রূপ করেছে, তার পরিণাম তাদের কাছে আসবে। জালালাইনও খবর বলতে বোঝেন তারা যা নিয়ে ঠাট্টা করত তার পরিণাম। এসব ব্যাখ্যায় খবরটা কোনো পরিণামের সংবাদমাত্র নয়। খবরটাই পরিণাম।"
+          },
+          {
+            "en": "At-Tabari puts it in plain prose: there will come to them the reports of the matter they used to scoff at, and that is a threat from God that He will bring His punishment down on them for persisting in their disbelief and rebelling against their Lord. The Muyassar is close to him: they denied the Qur'an and mocked it, and the punishment will descend on them as recompense for their rebellion against their Lord. As-Sa'di adds a reason: the punishment will befall them because the word of punishment has become due against them.",
+            "bn": "তাবারী কথাটা সহজ ভাষায় বলেন: যে বিষয় নিয়ে তারা উপহাস করত, তার খবর তাদের কাছে আসবে। এটা আল্লাহর পক্ষ থেকে হুমকি যে, কুফরিতে লেগে থাকা আর রবের বিরুদ্ধে অবাধ্যতার কারণে তিনি তাদের উপর নিজের শাস্তি নামাবেন। মুয়াসসার তাঁর খুব কাছাকাছি: তারা কুরআনকে অস্বীকার করেছে, তা নিয়ে বিদ্রূপ করেছে, আর রবের বিরুদ্ধে অবাধ্যতার প্রতিফল হিসেবে তাদের উপর শাস্তি নামবে। সা'দী একটা কারণ যোগ করেন: শাস্তি তাদের উপর আপতিত হবে, কারণ তাদের বিরুদ্ধে শাস্তির বাণী সাব্যস্ত হয়ে গেছে।"
+          },
+          {
+            "en": "Tanwir al-Miqbas, the commentary attributed to Ibn Abbas, gives two readings. In the first, the news is of the chastisement, the thing they used to scoff at. Then it adds, under it is also said, that the news is of their own derision of Muhammad ﷺ and of the Qur'an. On that second reading, what reaches them is the report of what they themselves did. Their mockery comes back to them as an account of their own conduct, delivered to them as news. The commentary gives the second reading only as something said, and it is kept here as such.",
+            "bn": "তানবীরুল মিকবাস, যে তাফসীর ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত, দুটি ব্যাখ্যা দেয়। প্রথমটিতে খবর মানে সেই আযাবের খবর, যা নিয়ে তারা উপহাস করত। তারপর 'বলা হয়' কথাটি দিয়ে যোগ করে, খবরটি মুহাম্মাদ ﷺ ও কুরআনকে নিয়ে তাদের নিজেদের বিদ্রূপেরই খবর। দ্বিতীয় ব্যাখ্যায় তাদের কাছে যা পৌঁছায়, তা তাদের নিজেদের কাজের বিবরণ। তাদের বিদ্রূপই খবর হয়ে তাদের কাছে ফিরে আসে, তাদের নিজেদের আচরণের হিসাব হয়ে। তাফসীরটি দ্বিতীয় ব্যাখ্যাকে শুধু 'বলা হয়' হিসেবে এনেছে, এখানেও তা সেভাবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise Without a Date",
+          "bn": "তারিখহীন এক প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "When will the news come? The verse does not say, and Ibn Kathir answers only with ba'da hin, after a while: they denied the truth that came to them, so they will come to know the news of this denial after a while. He joins it at once to 26:227, the last verse of the surah: and those who did wrong will come to know by what overturning they will be overturned. The surah thus states this warning near its opening and returns to it in its final words.",
+            "bn": "খবরটা কবে আসবে? আয়াত তা বলে না। ইবন কাসীরও শুধু বলেন বা'দা হীন, কিছুকাল পরে: তাদের কাছে আসা সত্যকে তারা অস্বীকার করেছে, তাই কিছুকাল পরে তারা এই অস্বীকারের খবর জানতে পারবে। সঙ্গে সঙ্গে তিনি এটিকে জুড়ে দেন সূরার শেষ আয়াত ২৬:২২৭-এর সঙ্গে: আর যারা জুলুম করেছে, তারা শিগগিরই জানবে কোন পরিণতির দিকে তারা ফিরে যাচ্ছে। এভাবে সূরাটি শুরুর দিকে এ সতর্কবাণী দেয়, আর শেষ কথাতেও সেখানে ফিরে আসে।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an, treats 26:3 to 26:6 together and widens the range. Those who meet every attempt to guide them with indifference and then scorn, he says, deserve to be shown their evil end, and that end can come in several ways. The truth they opposed may prevail in the world before their eyes. They may be struck by a painful torment and removed from the world. Or after a few years of misguided life they may meet death and see for themselves that what they followed was false.",
+            "bn": "মওদূদী তাফহীমুল কুরআনে ২৬:৩ থেকে ২৬:৬ পর্যন্ত একসঙ্গে আলোচনা করেন, আর পরিসরটা বড় করে দেখান। তাঁর কথা, যারা হেদায়াতের প্রতিটি চেষ্টাকে প্রথমে উদাসীনতা আর পরে অবজ্ঞা দিয়ে ফিরিয়ে দেয়, তাদের মন্দ পরিণাম দেখানোই তাদের প্রাপ্য। সেই পরিণাম আসতে পারে কয়েক রকমে। যে সত্যের তারা বিরোধিতা করেছে, তা হয়তো তাদের চোখের সামনেই দুনিয়ায় জয়ী হবে। হয়তো কঠিন আযাব এসে তাদের দুনিয়া থেকে মুছে দেবে। কিংবা ভুল পথে কয়েক বছর কাটিয়ে তাদের মৃত্যু আসবে, আর তখন নিজেরাই দেখবে, যার পেছনে তারা ছুটেছিল তা ছিল মিথ্যা।"
+          },
+          {
+            "en": "He adds that the evil end can take place differently for different people, as it did in the past. The other commentaries read for this verse, at-Tabari, al-Qurtubi, as-Sa'di, al-Baghawi and the Muyassar, speak of punishment and consequence without fixing a time or naming an event. None of them ties the news to a particular battle or a particular day. The verse leaves its date unnamed, and so do they; the honest reading leaves it open as well.",
+            "bn": "মওদূদী আরও বলেন, অতীতে যেমন হয়েছে, তেমনি ভিন্ন ভিন্ন মানুষের বেলায় মন্দ পরিণাম ভিন্ন ভিন্নভাবে আসতে পারে। এ আয়াতের জন্য পড়া বাকি তাফসীরগুলো, তাবারী, কুরতুবী, সা'দী, বাগাভী আর মুয়াসসার, শাস্তি ও পরিণামের কথা বলে, কিন্তু সময় বেঁধে দেয় না, কোনো ঘটনার নামও করে না। খবরটাকে কেউই নির্দিষ্ট কোনো যুদ্ধ বা নির্দিষ্ট কোনো দিনের সঙ্গে বাঁধেননি। আয়াত তারিখের নাম বলেনি, তাঁরাও বলেননি। সৎ পাঠও তাই প্রশ্নটা খোলা রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Laughed At Arrives",
+          "bn": "হাসির জিনিসটাই এসে হাজির"
+        },
+        "p": [
+          {
+            "en": "The object of the news is ma kanu bihi yastahzi'un, the thing they used to ridicule. At-Tabari names it al-amr alladhi kanu yaskharun minhu, the matter they made fun of, and he reads the whole clause as God's threat of punishment. What they laughed at, then, included the warning itself. As-Sa'di's wording makes the turn plain: what they denied will come down upon them. The warning they treated as a joke does not remain a claim to argue over. It arrives as fact.",
+            "bn": "খবরের বিষয়বস্তু মা কানূ বিহী ইয়াসতাহযিঊন, যা নিয়ে তারা বিদ্রূপ করত। তাবারী এর নাম দেন আল-আমরুল্লাযী কানূ ইয়াসখারূনা মিনহু, যে বিষয় নিয়ে তারা ঠাট্টা করত। পুরো বাক্যটিকে তিনি পড়েন আল্লাহর শাস্তির হুমকি হিসেবে। তাহলে তারা যা নিয়ে হাসত, তার মধ্যে সতর্কবাণীটাও ছিল। সা'দীর ভাষায় মোড়টা স্পষ্ট: তারা যা অস্বীকার করেছে, তা-ই তাদের উপর নেমে আসবে। যে সতর্কবাণীকে তারা ঠাট্টা মনে করেছিল, তা তর্কের বিষয় হয়ে পড়ে থাকে না। বাস্তব হয়ে এসে পৌঁছায়।"
+          },
+          {
+            "en": "Ibn Kathir shows that the pattern is older than Makkah. On 26:5 he brings 36:30: alas for the servants, no messenger ever came to them but they used to mock him. He adds 23:44: every time its messenger came to a nation, they denied him. And 12:103: most people will not believe, however much you long for it. The surah itself then turns, from 26:10 onward, to the accounts of earlier messengers and the peoples who denied them, so the warning of 26:6 is followed by what it looked like before.",
+            "bn": "ইবন কাসীর দেখান, এ ধারা মক্কার চেয়েও পুরোনো। ২৬:৫ আয়াতে তিনি আনেন ৩৬:৩০: আফসোস বান্দাদের জন্য, তাদের কাছে যে রাসূলই এসেছেন, তারা তাঁকে নিয়ে বিদ্রূপ করেছে। তিনি আনেন ২৩:৪৪ আয়াতও: যখনই কোনো জাতির কাছে তার রাসূল এসেছেন, তারা তাঁকে মিথ্যাবাদী বলেছে। আর ১২:১০৩: আপনি যত আগ্রহই করুন, বেশিরভাগ মানুষ ঈমান আনবে না। সূরাটি নিজেও ২৬:১০ থেকে আগের রাসূলদের আর তাঁদের অস্বীকারকারী জাতিদের কাহিনিতে চলে যায়। ফলে ২৬:৬ আয়াতের সতর্কবাণীর পরেই আসে, আগে তা দেখতে কেমন ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told to a Grieving Prophet",
+          "bn": "দুঃখভারাক্রান্ত নবীকে বলা কথা"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier the Prophet ﷺ is told: perhaps you would destroy yourself that they do not become believers (26:3). Ibn Kathir explains it as destroying yourself through your keenness that they be guided and your grief over them, and calls it God consoling His Messenger. At-Tabari's O Muhammad in 26:6 keeps the same address. Their refusal, and what will follow it, is reported to the Prophet ﷺ. Its outcome is not laid on him to bring about.",
+            "bn": "দুই আয়াত আগে নবী ﷺ-কে বলা হয়েছে: তারা মুমিন হচ্ছে না বলে আপনি হয়তো নিজেকেই শেষ করে দেবেন (২৬:৩)। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: তারা হেদায়াত পাক, এই প্রবল আকাঙ্ক্ষা আর তাদের জন্য দুঃখে নিজেকে শেষ করে দেওয়া। তিনি একে বলেন আল্লাহর পক্ষ থেকে রাসূলকে সান্ত্বনা। ২৬:৬ আয়াতে তাবারীর 'হে মুহাম্মাদ' সম্বোধনও সেই ধারা বজায় রাখে। তাদের প্রত্যাখ্যান আর তার পরে যা আসবে, দুটোই নবী ﷺ-কে জানানো হচ্ছে। তার পরিণাম ঘটানোর দায় তাঁর কাঁধে চাপানো হচ্ছে না।"
+          },
+          {
+            "en": "26:4 explains why no overpowering sign is sent. Ibn Kathir: if We so willed, We could send down a sign that would force them to believe, but We will not, because We do not want anyone to believe except by choice. Ma'arif al-Qur'an, on 26:4 and citing al-Qurtubi, says wisdom requires that the truth not be made self-evident but left dependent on reflection and pondering, and that this pondering is the test on which reward and punishment are judged. 26:6 compels no one. It tells them where refusal leads.",
+            "bn": "২৬:৪ আয়াত বলে দেয়, কেন এমন কোনো নিদর্শন পাঠানো হয় না যা মানুষকে মানতে বাধ্য করবে। ইবন কাসীরের ব্যাখ্যা: আমি চাইলে এমন নিদর্শন নামাতে পারতাম যা তাদের ঈমান আনতে বাধ্য করত, কিন্তু তা করব না। কারণ আমি চাই না কেউ নিজের ইচ্ছা ছাড়া ঈমান আনুক। মাআরিফুল কুরআন ২৬:৪ আয়াতে কুরতুবীর বরাতে বলে, হিকমতের দাবি হলো সত্যকে চোখে দেখার মতো স্পষ্ট করে দেওয়া হবে না। তা নির্ভর করবে চিন্তা আর গভীর ভাবনার উপর, আর এই ভাবনাই মানুষের পরীক্ষা, যার ভিত্তিতে পুরস্কার ও শাস্তি ঠিক হয়। ২৬:৬ কাউকে বাধ্য করে না। শুধু জানিয়ে দেয়, প্রত্যাখ্যান কোথায় গিয়ে ঠেকে।"
+          },
+          {
+            "en": "Then 26:9: your Lord is al-'Aziz, al-Rahim. Ibn Kathir says He is Most Merciful towards His creation, for He does not hasten to punish a sinner but gives him time to repent, and if he does not, He seizes him with a mighty punishment. He relays Sa'id ibn Jubayr: Most Merciful towards those who repent and turn to Him. The reminder of 26:5 came from al-Rahman. Read beside 26:9, the interval in sa-ya'tihim is time given, and the door to repentance is still open within it.",
+            "bn": "তারপর ২৬:৯: আপনার রব আল-আযীয, আর-রহীম। ইবন কাসীর বলেন, তিনি নিজের সৃষ্টির প্রতি পরম দয়ালু। গুনাহগারকে শাস্তি দিতে তিনি তাড়াহুড়া করেন না, তওবার জন্য সময় দেন। তওবা না করলে তখন কঠিন শাস্তিতে পাকড়াও করেন। তিনি সাঈদ ইবন জুবাইরের কথাও উদ্ধৃত করেন: যারা তওবা করে তাঁর দিকে ফেরে, তিনি তাদের প্রতি পরম দয়ালু। ২৬:৫ আয়াতের উপদেশ এসেছিল আর-রহমানের কাছ থেকে। ২৬:৯ পাশে রেখে পড়লে সাইয়া'তীহিম-এর মাঝের সময়টুকু দেওয়া অবকাশ, আর তার ভেতরে তওবার দরজা এখনো খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat Not Ours to Wield",
+          "bn": "এ হুমকি আমাদের হাতিয়ার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes, as at-Tabari has it, the idolaters who denied and mocked the reminder as it came to the Prophet ﷺ, and it threatens them with what God alone brings, at a time He alone sets. It describes what the text describes and licenses nothing against any living person or community. It gives no one the right to declare another person a denier whose end is sealed, to threaten anyone in God's name, or to mock in return. As-Sa'di's remark that punishment had become due is his reading of the people addressed, not a verdict for readers to pass.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাবারীর ভাষায়, আয়াতটি সেই মুশরিকদের বর্ণনা দেয়, যারা নবী ﷺ-এর কাছে আসা উপদেশকে অস্বীকার করেছিল আর তা নিয়ে বিদ্রূপ করেছিল। তাদের সে এমন কিছুর হুমকি দেয়, যা শুধু আল্লাহই আনেন, আর আনেন শুধু তাঁরই ঠিক করা সময়ে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি সে দেয় না। কাউকে চূড়ান্ত অস্বীকারকারী ঘোষণা করার, আল্লাহর নামে কাউকে হুমকি দেওয়ার, কিংবা পাল্টা বিদ্রূপ করার অধিকার এ আয়াত কাউকে দেয় না। শাস্তি সাব্যস্ত হয়ে গেছে, সা'দীর এ কথা আয়াতের সম্বোধিত লোকদের নিয়ে তাঁর ব্যাখ্যা, পাঠকের হাতে তুলে দেওয়া কোনো রায় নয়।"
+          },
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it, and none gives an occasion of revelation; the verse stands on its own words and its place in the passage. What it asks of a reader is the reverse of what at-Tabari describes: to give the next reminder a hearing, thought and tadabbur, to notice the first small turning before it settles into habit, and to refuse to laugh at what God has spoken in earnest. The news will come either way. The time before it is still open.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও বলেনি। আয়াতটি দাঁড়িয়ে আছে নিজের শব্দে আর অনুচ্ছেদে নিজের জায়গায়। পাঠকের কাছে তার চাওয়া তাবারীর বর্ণনার ঠিক উল্টো। পরের উপদেশটা মন দিয়ে শোনা, তা নিয়ে ভাবা, তার তাদাব্বুর করা। প্রথম ছোট্ট মুখ ফেরানোটা অভ্যাসে জমে যাওয়ার আগেই টের পাওয়া। আর আল্লাহ যা গুরুত্ব দিয়ে বলেছেন, তা নিয়ে হাসতে অস্বীকার করা। খবর তো আসবেই। তার আগের সময়টুকু এখনো খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "26:10": {
     "sections": [
       {

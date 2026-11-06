@@ -24211,6 +24211,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your ties of blood and marriage are Allah's own making from a humble beginning; honour your relatives and in-laws as part of His design.",
     "lessonBn": "রক্তের ও বিয়ের সব সম্পর্ক আল্লাহ নিজেই গড়েছেন সামান্য এক শুরু থেকে। তাই আত্মীয় ও শ্বশুরপক্ষের মানুষদের তাঁর নকশার অংশ মনে করে সম্মান করুন।"
+  },
+  "26:6": {
+    "reflectionEn": "Every time a fresh reminder came to them from the Most Merciful, they turned away. This verse names what that turning had become: they have denied. Then comes a promise with no date on it: the news of what they used to laugh at will reach them. What is mocked does not stay a joke. It comes back as news, as a consequence that arrives in its own time. The verse speaks of people who heard the Qur'an as it came down and made it a target, and it is not mine to aim at anyone else. It is a warning to read about myself. Which reminder have I learned to wave away? And what have I laughed at that God takes seriously?",
+    "reflectionBn": "দয়াময়ের কাছ থেকে যখনই তাদের কাছে নতুন কোনো উপদেশ এসেছে, তারা মুখ ফিরিয়ে নিয়েছে। এ আয়াত বলে দেয়, সেই মুখ ফেরানো শেষে কী হয়ে দাঁড়াল: তারা অস্বীকার করেছে। তারপর আসে এমন এক প্রতিশ্রুতি, যার কোনো তারিখ বলা নেই: যা নিয়ে তারা হাসাহাসি করত, তার খবর তাদের কাছে পৌঁছাবেই। ঠাট্টার জিনিস চিরকাল ঠাট্টা হয়ে থাকে না। একদিন খবর হয়ে ফেরে, পরিণাম হয়ে আসে নিজের সময়ে। আয়াতটি সেই লোকদের কথা বলে, যারা নাযিল হওয়ার সময়েই কুরআন শুনেছে আর তাকে বিদ্রূপের নিশানা বানিয়েছে। অন্য কারও দিকে এটি তাক করার অধিকার আমার নেই। এ সতর্কবাণী আগে নিজের বেলায় পড়ার। কোন উপদেশকে আমি হাত নেড়ে উড়িয়ে দিতে শিখে গেছি? আর আল্লাহ যা গুরুত্ব দিয়ে বলেন, তার কোনটা নিয়ে আমি হেসেছি?",
+    "pointsEn": [
+      "Which reminder, whether a verse, a warning or a friend's honest word, have I grown used to turning away from simply because it keeps coming?",
+      "Have I ever laughed at something sacred to fit in with the people around me, and what would it take for me to stop?",
+      "When the consequence of a wrong is delayed, do I read the delay as permission, or as time given to turn back?",
+      "Do I hear this verse as a verdict on other people, or as a warning addressed first to me?",
+      "What would change if I listened to the next reminder as if it had just come down?"
+    ],
+    "pointsBn": [
+      "কোন উপদেশ থেকে মুখ ফিরিয়ে নেওয়া আমার অভ্যাস হয়ে গেছে, শুধু এ কারণে যে তা বারবার আসে? হোক তা কোনো আয়াত, কোনো সতর্কবাণী, কিংবা বন্ধুর মুখের সৎ কথা।",
+      "আশপাশের লোকদের সঙ্গে মিশে যেতে আমি কি কখনো পবিত্র কোনো বিষয় নিয়ে হেসেছি? সেটা ছাড়তে আমার কী লাগবে?",
+      "কোনো অন্যায়ের পরিণাম দেরিতে এলে আমি কি সেই দেরিকে অনুমতি ভাবি, নাকি ফিরে আসার জন্য পাওয়া সময়?",
+      "এ আয়াতকে আমি কি অন্যদের উপর রায় হিসেবে শুনি, নাকি সবার আগে আমাকেই দেওয়া সতর্কবাণী হিসেবে?",
+      "পরের উপদেশটা যদি এমনভাবে শুনি যেন তা এইমাত্র নাযিল হলো, তাহলে কী বদলাবে?"
+    ],
+    "lessonEn": "Turning from God's reminders hardens into denial, and what is mocked returns as news. Meet each reminder as new, and use the time before any consequence to turn back.",
+    "lessonBn": "আল্লাহর উপদেশ থেকে মুখ ফেরানো একসময় অস্বীকারে জমে যায়, আর বিদ্রূপের জিনিস খবর হয়ে ফেরে। প্রতিটি উপদেশকে নতুন করে গ্রহণ করুন, আর পরিণাম আসার আগের সময়টুকু ফিরে আসার কাজে লাগান।"
   }
 };
 
