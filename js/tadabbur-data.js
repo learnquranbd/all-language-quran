@@ -26449,6 +26449,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Wait for Allah's promise with patience, keep seeking His forgiveness, and give your mornings and evenings to glorifying Him with praise.",
     "lessonBn": "আল্লাহর ওয়াদার অপেক্ষায় সবর করুন, তাঁর কাছে ক্ষমা চাইতে থাকুন, আর সকাল-সন্ধ্যা তাঁর প্রশংসাসহ পবিত্রতা ঘোষণায় কাটান।"
+  },
+  "40:70": {
+    "reflectionEn": "The verse before this one asks a question: do you not see those who argue about Allah's signs, how they are turned away? This verse answers it by naming them through what they do. They deny the Book, and with it everything the messengers were sent to say. Then come three words: fa-sawfa ya'lamun, they will come to know. The verse does not say what they will know or how; the next two verses finish the sentence. The weight rests on one plain fact: the knowledge they push away now will reach them anyway. What is left to choose is when it arrives. Knowledge that comes while I can still act on it is guidance. Knowledge that comes after that is only a verdict.",
+    "reflectionBn": "আগের আয়াতটি একটি প্রশ্ন রাখে: যারা আল্লাহর নিদর্শন নিয়ে তর্ক করে, তুমি কি তাদের দেখো না, তাদের কীভাবে ফিরিয়ে নেওয়া হচ্ছে? এ আয়াত তার জবাব দেয়, তাদের কাজ দিয়েই তাদের চিনিয়ে দেয়। তারা কিতাবকে মিথ্যা বলে, আর তার সঙ্গে রসূলদের যা দিয়ে পাঠানো হয়েছে, সবকিছুকেই। তারপর তিনটি শব্দ: ফাসাওফা ইয়া'লামূন, শীঘ্রই তারা জানবে। কী জানবে, কীভাবে জানবে, এ আয়াতে তা বলা নেই। পরের দুই আয়াত বাক্যটা শেষ করে। ভার পড়েছে একটি সোজা সত্যের উপর: যে জ্ঞান তারা আজ ঠেলে সরিয়ে দিচ্ছে, তা একদিন তাদের কাছে পৌঁছাবেই। বাছাই করার আছে শুধু সময়টা। যে জ্ঞান আসে আমল করার সুযোগ থাকতে থাকতে, সেটা হেদায়েত। যে জ্ঞান আসে তার পরে, সেটা কেবল রায়।",
+    "pointsEn": [
+      "Which truth do I already suspect is right, yet keep arguing with because accepting it would cost me something?",
+      "When I question a verse, am I asking in order to understand it, or looking for a way around it?",
+      "Sincere worship, leaving every rival to Allah, belief in the return: which of these three does my week show least?",
+      "If I knew today, with full certainty, what I will one day see, what would I change before tonight?",
+      "Do I read warnings like this one to judge other people, or to examine myself?"
+    ],
+    "pointsBn": [
+      "কোন সত্যকে আমি মনে মনে ঠিক বলেই জানি, অথচ মেনে নিলে কিছু ছাড়তে হবে বলে তা নিয়ে তর্ক চালিয়ে যাই?",
+      "কোনো আয়াত নিয়ে যখন প্রশ্ন তুলি, তখন কি বোঝার জন্য তুলি, নাকি পাশ কাটানোর পথ খুঁজি?",
+      "খাঁটি মনে ইবাদত, আল্লাহর সব প্রতিদ্বন্দ্বীকে ত্যাগ করা, আর ফিরে যাওয়ার উপর বিশ্বাস: আমার সপ্তাহে এই তিনটির কোনটি সবচেয়ে কম চোখে পড়ে?",
+      "একদিন যা দেখব, তা যদি আজই পুরো নিশ্চয়তার সঙ্গে জানতাম, তাহলে আজ রাতের আগেই কী বদলাতাম?",
+      "এ ধরনের সতর্কবাণী আমি কি অন্যদের বিচার করতে পড়ি, নাকি নিজেকে যাচাই করতে?"
+    ],
+    "lessonEn": "Accept now what the messengers brought, sincere worship and belief in the return, because what is denied today will be known anyway, at a time when knowing no longer helps.",
+    "lessonBn": "রসূলেরা যা এনেছেন, খাঁটি ইবাদত আর ফিরে যাওয়ার উপর বিশ্বাস, তা এখনই মেনে নিন। আজ যা অস্বীকার করা হয়, তা একদিন জানা হবেই, তবে তখন জানায় আর কোনো লাভ থাকবে না।"
   }
 };
 

@@ -2543,6 +2543,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:70": {
+    "sections": [
+      {
+        "h": {
+          "en": "Naming the Disputers",
+          "bn": "বিতর্ককারীদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Surah Ghafir has just walked through the signs of the Creator: the earth made a place to settle, the human form made fair, a life brought through its stages from dust, and life and death in His hand. Then 40:69 turns to the listener with a question that is half wonder: do you not see those who dispute about Allah's signs, how they are turned away? Ibn Kathir reads it as Allah saying to the Prophet ﷺ: do you not wonder at those who deny His signs and argue against the truth with falsehood, how their minds are turned from guidance to error?",
+            "bn": "সূরা গাফির এইমাত্র স্রষ্টার নিদর্শনগুলো একে একে দেখিয়ে এসেছে। যমীনকে করা হয়েছে থাকার জায়গা, মানুষের আকৃতিকে করা হয়েছে সুন্দর, মাটি থেকে ধাপে ধাপে জীবন এনেছেন তিনি, আর জীবন ও মৃত্যু তাঁরই হাতে। তারপর ৪০:৬৯ আয়াত শ্রোতার দিকে ফিরে এমন এক প্রশ্ন রাখে, যার অর্ধেকটা বিস্ময়: যারা আল্লাহর নিদর্শন নিয়ে তর্ক করে, তুমি কি তাদের দেখো না, কীভাবে তাদের ফিরিয়ে নেওয়া হচ্ছে? ইবন কাসীর এর অর্থ করেন এভাবে: আল্লাহ নবী ﷺ-কে বলছেন, যারা তাঁর নিদর্শন মিথ্যা বলে আর বাতিল দিয়ে হকের বিরুদ্ধে তর্ক করে, তাদের দেখে কি তুমি অবাক হও না? কীভাবে তাদের বুদ্ধি হেদায়েত ছেড়ে গোমরাহির দিকে ঘুরে যায়!"
+          },
+          {
+            "en": "Verse 70 then says who these people are. At-Tabari reads the two verses as one sentence: do you not see those who dispute about Allah's signs, how they are turned away, those who denied the Book of Allah, which is this Qur'an. He notes that the second alladhina, those who, stands in the genitive as a description of the first. So 40:70 does not introduce a new group. It defines the disputers of 40:69 by what they did: they denied.",
+            "bn": "এরপর ৭০ নম্বর আয়াত জানিয়ে দেয়, এরা কারা। তাবারী দুই আয়াতকে একটি বাক্য হিসেবে পড়েন: যারা আল্লাহর নিদর্শন নিয়ে তর্ক করে, তুমি কি তাদের দেখো না, কীভাবে তাদের ফিরিয়ে নেওয়া হচ্ছে, যারা আল্লাহর কিতাবকে মিথ্যা বলেছে, আর সে কিতাব এই কুরআন। তিনি দেখান, দ্বিতীয় 'আল্লাযীনা' শব্দটি প্রথমটির বিশেষণ হয়ে সম্বন্ধপদে বসেছে। তাই ৪০:৭০ নতুন কোনো দলের কথা বলছে না। ৪০:৬৯-এর তর্ককারীদেরই সে চিনিয়ে দিচ্ছে তাদের কাজ দিয়ে: তারা অস্বীকার করেছে।"
+          },
+          {
+            "en": "As-Sa'di hears the wonder in the question and presses it. The signs, he says, are clear and plain, so how do these people swerve from them, and towards what do they go after the explanation has been made complete? Do they find clear signs that stand against the signs of Allah? No, by Allah. Or do they find doubts that agree with their desires, and charge about with them for the sake of their falsehood? The dispute, in his reading, is not a search for the truth.",
+            "bn": "প্রশ্নের ভেতরের বিস্ময়টা সা'দী ধরেছেন, আর আরও জোর দিয়ে তুলে ধরেছেন। তিনি বলেন, নিদর্শনগুলো তো স্পষ্ট, পরিষ্কার। তাহলে এরা কীভাবে সেগুলো থেকে সরে যায়? পুরো ব্যাখ্যা হয়ে যাওয়ার পর তারা যায় কোন দিকে? তারা কি এমন স্পষ্ট নিদর্শন পায়, যা আল্লাহর নিদর্শনের বিপরীতে দাঁড়াতে পারে? না, আল্লাহর কসম। নাকি তারা এমন কিছু সংশয় খুঁজে পায়, যা তাদের খেয়ালখুশির সঙ্গে মেলে, আর সেগুলো নিয়েই নিজেদের বাতিলের পক্ষে দাপিয়ে বেড়ায়? তাঁর পাঠে এ তর্ক সত্যের খোঁজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Disputers Are Meant",
+          "bn": "কোন তর্ককারীদের কথা"
+        },
+        "p": [
+          {
+            "en": "Who exactly are they? At-Tabari records that the people of interpretation differed. Some said the passage means a group who disputed divine decree. He gives this from Muhammad ibn Sirin, who said that if these verses, from 40:69 to 'thus does Allah send astray the disbelievers' in 40:74, were not revealed about those people, then he did not know about whom they were revealed. Others said they mean the idolaters, and at-Tabari gives that from Ibn Zayd: these are the mushrikun.",
+            "bn": "ঠিক কারা এরা? তাবারী জানান, এ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। কেউ বলেছেন, এখানে উদ্দেশ্য এমন এক দল, যারা তাকদীর নিয়ে তর্ক করত। এ মত তিনি এনেছেন মুহাম্মাদ ইবন সীরীন থেকে। ইবন সীরীন বলতেন, ৪০:৬৯ থেকে ৪০:৭৪-এর 'এভাবেই আল্লাহ কাফিরদের পথভ্রষ্ট করেন' পর্যন্ত আয়াতগুলো যদি তাদের ব্যাপারে নাযিল না হয়ে থাকে, তবে কাদের ব্যাপারে নাযিল হয়েছে তা আমি জানি না। অন্যরা বলেছেন, এখানে উদ্দেশ্য মুশরিকরা। তাবারী এ মত এনেছেন ইবন যায়দ থেকে: এরা মুশরিক।"
+          },
+          {
+            "en": "At-Tabari takes a side. The correct view, he says, is Ibn Zayd's, and Allah has made the matter clear with the words that follow: those who deny the Book and what We sent Our messengers with. Al-Qurtubi sets out the same two views but counts them the other way, saying that most commentators held the first; he gives Ibn Zayd's view with the same proof drawn from 40:70. Al-Baghawi reports the idolaters with 'it was said', and the other view from Ibn Sirin and a group.",
+            "bn": "তাবারী একটি মত বেছে নেন। তাঁর মতে সঠিক কথা ইবন যায়দের, আর পরের শব্দগুলো দিয়েই আল্লাহ বিষয়টা পরিষ্কার করে দিয়েছেন: যারা কিতাবকে আর আমি আমার রসূলদের যা দিয়ে পাঠিয়েছি তাকে মিথ্যা বলে। কুরতুবীও এই দুই মত আনেন, তবে পাল্লা দেখান উল্টো দিকে। তিনি বলেন, বেশির ভাগ তাফসীরকার প্রথম মতের পক্ষে। ইবন যায়দের মতটিও তিনি আনেন, সঙ্গে ৪০:৭০ থেকে সেই একই দলিল। বাগাভী মুশরিকদের কথাটা আনেন 'বলা হয়েছে' দিয়ে, আর অন্য মতটি ইবন সীরীন ও একদল আলেম থেকে।"
+          },
+          {
+            "en": "This article leaves the difference where the commentators left it. Both readings carry the same warning; they differ on whom the passage first addressed. Two narrations appear in the discussion. At-Tabari quotes, with a chain, a report from 'Uqba ibn 'Amir about people who learn the Book and argue with the believers, and adds Abu Qabil's own guess about whom it meant. Al-Qurtubi relays, through al-Mahdawi and with no chain, a report naming the group outright. Neither comes with a collector's grading, so nothing here rests on them.",
+            "bn": "আলেমেরা মতভেদটা যেখানে রেখেছেন, এ লেখাও সেখানেই রাখছে। দুই পাঠেই সতর্কবাণী একই। পার্থক্য শুধু এ নিয়ে যে আয়াতগুলো প্রথমে কাদের উদ্দেশ করে এসেছে। আলোচনায় দুটি বর্ণনাও আসে। তাবারী সনদসহ উকবা ইবন আমির (রাঃ) থেকে একটি বর্ণনা আনেন, যাতে এমন লোকদের কথা আছে যারা আল্লাহর কিতাব শেখে আর মুমিনদের সঙ্গে তর্ক করে। সঙ্গে তিনি জুড়ে দেন, এর দ্বারা কাদের বোঝানো হয়েছে, সে বিষয়ে বর্ণনাকারী আবু কাবীলের নিজের অনুমান। কুরতুবী মাহদাবীর সূত্রে, কোনো সনদ ছাড়াই, এমন একটি বর্ণনা আনেন যাতে দলটির নাম সরাসরি আছে। কোনোটির সঙ্গেই কোনো সংকলকের মান নির্ণয় নেই, তাই এ লেখা এগুলোর উপর ভর করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book, Then the Message",
+          "bn": "কিতাব, তারপর রিসালাত"
+        },
+        "p": [
+          {
+            "en": "Al-kitab: the Book. At-Tabari says plainly that it is this Qur'an. Al-Muyassar widens it to the Qur'an and the heavenly scriptures that Allah sent down to His messengers to guide people. The next phrase, wa-bima arsalna bihi rusulana, and that with which We sent Our messengers, names a second object of the denial. At-Tabari explains the joining: along with denying the Book of Allah, they also denied what We sent Our messengers with.",
+            "bn": "আল-কিতাব মানে কিতাব। তাবারী সোজাসুজি বলেন, এ হলো এই কুরআন। মুয়াসসার পরিধিটা বাড়িয়ে দেন: কুরআন, আর মানুষকে পথ দেখাতে আল্লাহ তাঁর রসূলদের উপর যেসব আসমানী কিতাব নাযিল করেছেন সেগুলোও। পরের অংশ 'ওয়া বিমা আরসালনা বিহী রুসুলানা', আর আমি আমার রসূলদের যা দিয়ে পাঠিয়েছি। এখানে অস্বীকারের দ্বিতীয় বিষয়ের নাম এসেছে। দুটি অংশ কেন জোড়া, তাবারী বুঝিয়ে দেন: আল্লাহর কিতাবকে মিথ্যা বলার পাশাপাশি তারা রসূলদের আনা বাণীকেও মিথ্যা বলেছে।"
+          },
+          {
+            "en": "What was that message? At-Tabari lists it in three parts: making worship sincerely Allah's, disowning the gods and rivals worshipped besides Him, and affirming the raising after death for reward and punishment. Ibn Kathir names it more briefly: al-huda wa-l-bayan, guidance and clear exposition. The two glosses sit well together. One names what the message says; the other names what it gives to whoever accepts it, a road to walk and the light to see it by.",
+            "bn": "সে বাণী কী ছিল? তাবারী তিনটি ভাগে তা গুনিয়ে দেন: ইবাদতকে খাঁটিভাবে আল্লাহর জন্য করা, তাঁকে ছেড়ে যেসব উপাস্য আর প্রতিদ্বন্দ্বীর পূজা হয় তাদের থেকে সম্পর্ক ছিন্ন করা, আর প্রতিদান ও শাস্তির জন্য মৃত্যুর পরে আবার ওঠানোকে মেনে নেওয়া। ইবন কাসীর আরও সংক্ষেপে বলেন: আল-হুদা ওয়াল-বায়ান, হেদায়েত আর স্পষ্ট ব্যাখ্যা। দুটি ব্যাখ্যা পাশাপাশি ভালোই মানায়। একটি বলে, বাণীতে কী আছে। অন্যটি বলে, যে তা গ্রহণ করে সে কী পায়: চলার একটি পথ, আর সে পথ দেখার আলো।"
+          },
+          {
+            "en": "As-Sa'di turns to the messengers themselves. Those who denied, he says, denied the Book that came to them from Allah and what Allah sent His messengers with, and the messengers are the best of creation, the most truthful of them and the greatest of them in intellect. He opens with a verdict on the choice itself: how wretched is what they took in exchange and chose for themselves. Denial, in his reading, is not a mere absence of belief. It is a trade, and a poor one.",
+            "bn": "সা'দী নজর দেন রসূলদের দিকে। তিনি বলেন, যারা অস্বীকার করেছে, তারা আল্লাহর কাছ থেকে আসা কিতাবকেও মিথ্যা বলেছে, আর রসূলদের যা দিয়ে আল্লাহ পাঠিয়েছেন তাকেও। অথচ রসূলেরা সৃষ্টির সেরা, সবচেয়ে সত্যবাদী, আর বুদ্ধিতে সবচেয়ে মহান। তাঁর কথা শুরু হয় এই বাছাইয়ের উপর রায় দিয়ে: কত নিকৃষ্ট সেই জিনিস, যা তারা বদলে নিয়েছে আর নিজেদের জন্য বেছে নিয়েছে! তাঁর পাঠে অস্বীকার শুধু বিশ্বাসের অভাব নয়। এ একটি লেনদেন, আর খুবই লোকসানের লেনদেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Message, Many Messengers",
+          "bn": "এক বাণী, বহু রসূল"
+        },
+        "p": [
+          {
+            "en": "The verse says rusulana, Our messengers, in the plural, though the Book in at-Tabari's reading is the Qur'an. Read with his three-part list, the phrase implies that the heart of the Book is not new. Sincere worship, leaving every rival, and the return to Allah are what the messengers were sent with. To deny the Book is therefore to deny more than one book. It sets the denier against the whole line of messengers at once.",
+            "bn": "আয়াতে আছে 'রুসুলানা', আমার রসূলগণ, বহুবচনে। অথচ তাবারীর পাঠে কিতাব বলতে এখানে কুরআন। তাঁর তিন ভাগের তালিকার সঙ্গে মিলিয়ে পড়লে বোঝা যায়, এ কিতাবের মূল কথা নতুন নয়। খাঁটি ইবাদত, সব প্রতিদ্বন্দ্বীকে ত্যাগ, আর আল্লাহর কাছে ফিরে যাওয়া, এ নিয়েই রসূলেরা এসেছেন। তাই কিতাবকে অস্বীকার করা মানে শুধু একটি বইকে অস্বীকার করা নয়। অস্বীকারকারী একসঙ্গে দাঁড়িয়ে যায় রসূলদের গোটা ধারার বিরুদ্ধে।"
+          },
+          {
+            "en": "The verses just before carry the same three things. 40:65 says: so call upon Him, making the religion sincerely His. 40:66 has the Prophet ﷺ say that he has been forbidden to worship those they call upon besides Allah, now that clear proofs have come to him from his Lord. And 40:67 and 40:68 speak of Him who brings a life out of dust and gives life and death, which is the ground of the return. What 40:70 says they denied is exactly what the surrounding verses have just laid out.",
+            "bn": "ঠিক আগের আয়াতগুলোতেও এই তিনটি কথাই আছে। ৪০:৬৫ বলে: কাজেই দ্বীনকে তাঁর জন্য খাঁটি করে তাঁকেই ডাকো। ৪০:৬৬-তে নবী ﷺ-কে দিয়ে বলানো হয়েছে, রবের কাছ থেকে স্পষ্ট প্রমাণ আসার পর আল্লাহকে ছেড়ে তারা যাদের ডাকে তাদের ইবাদত করতে তাঁকে নিষেধ করা হয়েছে। আর ৪০:৬৭ ও ৪০:৬৮ আয়াত বলে সেই সত্তার কথা, যিনি মাটি থেকে জীবন আনেন, আর জীবন দেন ও মৃত্যু ঘটান। ফিরে যাওয়ার বিশ্বাস দাঁড়িয়ে আছে এরই উপর। ৪০:৭০ যে জিনিস অস্বীকারের কথা বলে, তা হুবহু সেটাই, যা আশপাশের আয়াতগুলো এইমাত্র খুলে বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge That Is Coming",
+          "bn": "যে জ্ঞান আসছেই"
+        },
+        "p": [
+          {
+            "en": "Fa-sawfa ya'lamun: then they are going to know. Sawfa places the knowing ahead in time, and the verse does not name what will be known. Ibn Kathir calls the phrase a severe threat and a firm warning from the Lord, exalted is His majesty, to these people, and sets it beside 77:15: woe, that Day, to the deniers. The deniers there, al-mukadhdhibin, take their name from the same root as kadhdhabu, they denied, in this verse.",
+            "bn": "ফাসাওফা ইয়া'লামূন: অতএব শীঘ্রই তারা জানবে। 'সাওফা' শব্দটি জানাকে সামনের সময়ে রেখে দেয়। আর কী জানবে, আয়াত তা বলে না। ইবন কাসীর বলেন, এ হলো মহিমাময় রবের পক্ষ থেকে এদের প্রতি কঠিন হুমকি আর পাকা সতর্কবাণী। তিনি এর পাশে রাখেন ৭৭:১৫ আয়াত: সেদিন দুর্ভোগ মিথ্যারোপকারীদের জন্য। সেখানে 'আল-মুকাযযিবীন' আর এখানে 'কাযযাবু', তারা মিথ্যা বলেছে, দুটি শব্দ একই ধাতু থেকে এসেছে।"
+          },
+          {
+            "en": "The commentators fill in the unspoken object in different ways. Al-Muyassar: they will know the outcome of their denial. At-Tabari: they will know the reality of what you tell them, O Muhammad, and the truth of what they deny today in this Book. Al-Qurtubi: before long they will know the falsity of what they are upon. One names the consequence, one the truth of the message, one the emptiness of their own position. Each is a face of the same knowledge.",
+            "bn": "যে কথাটা আয়াতে উহ্য, তাফসীরকারেরা তা ভিন্ন ভিন্নভাবে পূরণ করেন। মুয়াসসার বলেন: তারা জানবে নিজেদের মিথ্যারোপের পরিণাম। তাবারী বলেন: হে মুহাম্মাদ, তুমি তাদের যা জানাচ্ছ তার বাস্তবতা তারা জানবে, আর এই কিতাবের যে কথাগুলো আজ মিথ্যা বলছে, সেগুলো যে সত্য তাও জানবে। কুরতুবী বলেন: অল্প দিনের মধ্যেই তারা জানবে, যে পথে আছে তা কতটা বাতিল। একজন বলেন পরিণামের কথা, একজন বাণীর সত্যতার কথা, আরেকজন তাদের নিজেদের অবস্থানের শূন্যতার কথা। তিনটিই একই জ্ঞানের তিন দিক।"
+          },
+          {
+            "en": "As-Sa'di ties the phrase to the choice they made. For such people there is no recompense but the blazing Fire, he says, and that is why Allah threatened them with its punishment and said, they will come to know. The threat, in his reading, follows from the trade itself. There is also an irony the verse leaves for its reader to notice. These people turned away knowledge that was offered to them by the messengers, and knowledge will come to them all the same.",
+            "bn": "সা'দী কথাটাকে বাঁধেন তাদের নিজেদের বাছাইয়ের সঙ্গে। তিনি বলেন, এমন লোকদের জন্য উত্তপ্ত আগুন ছাড়া আর কোনো প্রতিদান নেই। এ জন্যই আল্লাহ তার শাস্তির হুমকি দিয়েছেন আর বলেছেন, শীঘ্রই তারা জানবে। তাঁর পাঠে হুমকিটা এসেছে সেই লেনদেন থেকেই। আয়াতে একটা পরিহাসও আছে, যা পাঠকের চোখে পড়ার জন্য রেখে দেওয়া। রসূলেরা এদের সামনে জ্ঞান এনে দিয়েছিলেন, এরা তা ফিরিয়ে দিয়েছে। অথচ জ্ঞান একদিন এদের কাছে আসবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Sentence Ends",
+          "bn": "বাক্যটা যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "The sentence does not stop at 40:70. At-Tabari reads straight on into the next verse: they will come to know, idh, when the shackles are on their necks, and the chains. Then 40:72 completes it: dragged in the boiling water, then in the Fire they are kindled. The word idh fixes the moment of knowing. At-Tabari puts it this way: they will know the truth of what they deny today when the shackles and chains are placed on their necks in Jahannam.",
+            "bn": "বাক্যটা ৪০:৭০-এ থামে না। তাবারী সোজা পরের আয়াতে চলে যান: শীঘ্রই তারা জানবে, 'ইয', যখন তাদের গলায় থাকবে বেড়ি আর শিকল। তারপর ৪০:৭২ বাক্যটা শেষ করে: তাদের টেনে নেওয়া হবে ফুটন্ত পানিতে, তারপর আগুনে তাদের জ্বালানো হবে। 'ইয' শব্দটি জানার মুহূর্তটা নির্দিষ্ট করে দেয়। তাবারী কথাটা বলেন এভাবে: আজ যা তারা মিথ্যা বলছে, তার সত্যতা তারা জানবে তখন, যখন জাহান্নামে তাদের গলায় বেড়ি আর শিকল পরানো হবে।"
+          },
+          {
+            "en": "The commentators explain these words briefly and move on, and this article does the same. At-Tabari defines al-hamim as water whose heat has reached its limit. On yusjarun he gives Mujahid, the Fire is kindled with them, and as-Suddi, they are burned. Al-Qurtubi notes a second sense in the root: sajartu means to kindle, and also to fill, as in al-bahr al-masjur, the sea that is filled. As-Sa'di adds that after this they are rebuked for their shirk and their lying.",
+            "bn": "তাফসীরকারেরা এ শব্দগুলোর ব্যাখ্যা দেন অল্প কথায়, তারপর এগিয়ে যান। এ লেখাও তাই করছে। তাবারী বলেন, 'আল-হামীম' সেই পানি, যার উত্তাপ শেষ সীমায় পৌঁছে গেছে। 'ইউসজারূন' শব্দে তিনি আনেন মুজাহিদের কথা: তাদের দিয়ে আগুন জ্বালানো হবে। আর সুদ্দীর কথা: তাদের পোড়ানো হবে। কুরতুবী ধাতুটির আরেকটি অর্থ দেখান। 'সাজারতু' মানে জ্বালানো, আবার ভরে দেওয়াও, যেমন 'আল-বাহরুল মাসজূর', ভরা সমুদ্র। সা'দী যোগ করেন, এর পর তাদের শিরক আর মিথ্যারোপের জন্য তিরস্কার করা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Partners Vanish",
+          "bn": "শরীকেরা যখন উধাও"
+        },
+        "p": [
+          {
+            "en": "What follows shows what kind of knowledge this is. In 40:73 and 40:74 it is said to them: where are those you used to associate, besides Allah? They answer: they have strayed away from us; no, we did not use to call upon anything before. Ibn Kathir explains that they first admit their gods have gone and can do nothing for them, then deny ever having worshipped them, and he sets this beside 6:23: by Allah, our Lord, we were not associators.",
+            "bn": "এরপর যা আসে, তা দেখিয়ে দেয় এ জ্ঞান কেমন জ্ঞান। ৪০:৭৩ ও ৪০:৭৪ আয়াতে তাদের বলা হবে: আল্লাহকে ছেড়ে যাদের তোমরা শরীক করতে, তারা কোথায়? তারা বলবে: তারা আমাদের কাছ থেকে হারিয়ে গেছে। না, আগে আমরা কোনো কিছুকেই ডাকতাম না। ইবন কাসীর বুঝিয়ে দেন, প্রথমে তারা মেনে নেয় যে তাদের উপাস্যরা চলে গেছে, তাদের কোনো কাজে আসছে না। তারপর তারা অস্বীকার করে বসে যে কখনো তাদের ইবাদত করেছে। এর পাশে তিনি রাখেন ৬:২৩ আয়াত: আমাদের রব আল্লাহর কসম, আমরা মুশরিক ছিলাম না।"
+          },
+          {
+            "en": "So the knowledge promised in fa-sawfa ya'lamun arrives complete, and arrives too late. They now see that the partners were nothing, which is just what 40:66 had told them. The surah states the rule near its close, in 40:84 and 40:85: when they saw Our punishment they said, we believe in Allah alone; but their faith did not benefit them once they had seen it, the way of Allah that has passed among His servants. The knowing came. Its use had already gone.",
+            "bn": "তাহলে 'ফাসাওফা ইয়া'লামূন'-এ যে জ্ঞানের কথা, তা আসে পুরোপুরি, কিন্তু আসে দেরিতে। এখন তারা দেখে, শরীকেরা কিছুই ছিল না। ঠিক এ কথাই ৪০:৬৬ তাদের বলে দিয়েছিল। সূরার শেষের দিকে ৪০:৮৪ ও ৪০:৮৫ আয়াত নিয়মটা জানিয়ে দেয়: আমার শাস্তি দেখে তারা বলল, আমরা এক আল্লাহর উপর ঈমান আনলাম। কিন্তু শাস্তি দেখে ফেলার পর তাদের ঈমান তাদের কোনো উপকারে আসেনি। বান্দাদের মধ্যে এটাই আল্লাহর চলে আসা রীতি। জানাটা এসেছিল ঠিকই, কিন্তু তার কাজে লাগার সময় তখন পার হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard in Time, a Mercy",
+          "bn": "সময়মতো শুনলে রহমত"
+        },
+        "p": [
+          {
+            "en": "The verse describes those whom the text describes: people who heard the Book and the messengers' message and denied them, and whom 40:69 calls disputers turned away from the truth. It licenses nothing against any living person or community. It gives no one the right to name a neighbour, a relative or a people as those who will wear the shackles, and no right to treat anyone harshly on its strength. The judgement it announces belongs to Allah alone, on the Day He has appointed.",
+            "bn": "আয়াতটি তাদেরই বর্ণনা দেয়, যাদের কথা আয়াতে আছে: যারা কিতাব আর রসূলদের বাণী শুনেছে, তবু মিথ্যা বলেছে, আর ৪০:৬৯ যাদের বলেছে সত্য থেকে ফিরিয়ে নেওয়া তর্ককারী। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা কোনো জাতিকে বেড়ি পরার লোক বলে দাগিয়ে দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। এর জোরে কারও সঙ্গে কঠোর আচরণের অধিকারও দেয় না। যে বিচারের কথা আয়াত জানায়, তা একমাত্র আল্লাহর, তাঁর নির্ধারিত দিনে।"
+          },
+          {
+            "en": "On narrations, a short word is enough. None of the tafsir fetched for this verse attaches a sound hadith to it, and the two reports on 40:69 mentioned earlier come with no collector's grading. No commentator fetched here gives an occasion of revelation for 40:70 itself. This reflection therefore stands on the verses and on the commentators' explanation of them. That is sufficient, because the verse's own logic is plain: what is denied now will be known later.",
+            "bn": "বর্ণনার বিষয়ে অল্প কথাই যথেষ্ট। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ৪০:৬৯ প্রসঙ্গে আগে যে দুটি বর্ণনার কথা এসেছে, সেগুলোর সঙ্গেও কোনো সংকলকের মান নির্ণয় নেই। ৪০:৭০ আয়াতের নাযিলের কোনো উপলক্ষও এই তাফসীরগুলোর কেউ উল্লেখ করেননি। তাই এ লেখা দাঁড়িয়ে আছে আয়াতগুলো আর সেগুলোর উপর তাফসীরকারদের ব্যাখ্যার উপর। এটুকুই যথেষ্ট, কারণ আয়াতের নিজের যুক্তি পরিষ্কার: আজ যা অস্বীকার করা হচ্ছে, কাল তা জানা হবেই।"
+          },
+          {
+            "en": "For the one reading it, the verse is an invitation turned inside out. Everything it says the deniers will one day know, the reader can know today, from the same Book: that worship belongs to Allah alone, that the rivals come to nothing, that the dead are raised for reward and punishment. Ibn Kathir calls the phrase a threat. A threat heard in time is a mercy. The question it leaves is simple: will I know this while knowing can still change what I do?",
+            "bn": "যে পাঠক আয়াতটি পড়ছেন, তাঁর জন্য এ যেন উল্টো দিক থেকে লেখা এক দাওয়াত। অস্বীকারকারীরা একদিন যা জানবে বলে আয়াত জানায়, পাঠক তা আজই জানতে পারেন, সেই একই কিতাব থেকে: ইবাদত একমাত্র আল্লাহর প্রাপ্য, প্রতিদ্বন্দ্বীরা শেষে কিছুই না, আর প্রতিদান ও শাস্তির জন্য মৃতদের আবার ওঠানো হবে। ইবন কাসীর কথাটিকে হুমকি বলেছেন। সময়মতো শোনা হুমকি আসলে রহমত। আয়াত তাই সহজ একটি প্রশ্ন রেখে যায়: এ কথা কি আমি এমন সময়ে জানব, যখন জানাটা আমার কাজ বদলে দিতে পারে?"
+          }
+        ]
+      }
+    ]
+  },
   "40:78-79": {
     "sections": [
       {
