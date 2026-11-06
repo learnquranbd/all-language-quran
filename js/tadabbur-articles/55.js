@@ -163,6 +163,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "55:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Speech, the Sky",
+          "bn": "কথার পরে আকাশ"
+        },
+        "p": [
+          {
+            "en": "Surat ar-Rahman opens with four short verses about what Allah gave from His mercy: He taught the Qur'an, created man and taught him al-bayan, clear expression (55:1 to 55:4). Then the gaze lifts. Ash-shamsu wa-l-qamaru bi-husban: the sun and the moon, by reckoning. The verse is three Arabic words, and none of them is a verb. It opens a run of things placed above and around us that the next verses continue: the star and the tree, the raised sky and the balance (55:6 and 55:7).",
+            "bn": "সূরা আর-রাহমান শুরু হয় চারটি ছোট আয়াতে, যেখানে আল্লাহ নিজের রহমত থেকে কী দিয়েছেন তার কথা: তিনি কুরআন শিখিয়েছেন, মানুষ সৃষ্টি করেছেন, আর তাকে শিখিয়েছেন আল-বায়ান, অর্থাৎ স্পষ্ট করে মনের কথা প্রকাশ (৫৫:১ থেকে ৫৫:৪)। তারপর দৃষ্টি ওপরে ওঠে। আশ-শামসু ওয়াল-কামারু বিহুসবান: সূর্য ও চাঁদ, হিসাব মেনে। আরবিতে আয়াতটি মাত্র তিনটি শব্দের, আর তার একটিও ক্রিয়াপদ নয়। এখান থেকে শুরু হয় আমাদের মাথার ওপরের আর চারপাশের জিনিসগুলোর একটি ধারা, পরের আয়াতগুলো যা এগিয়ে নেয়: তারকা ও গাছ, সমুন্নত আকাশ আর মানদণ্ড (৫৫:৬ ও ৫৫:৭)।"
+          },
+          {
+            "en": "As-Sa'di supplies what the three words leave unsaid. Allah created the sun and the moon and subjected them, so that they run by a fixed reckoning and an appointed measure. He gives the reason in the same breath: as a mercy to His servants and a care for them, so that their interests may be served by it, and so that they may know the number of years and the reckoning. The sky is not a change of subject. The verse belongs to the same list of mercies the surah's first word announced.",
+            "bn": "তিনটি শব্দে যা বলা হয়নি, সা'দী তা পূরণ করে দেন। আল্লাহ সূর্য ও চাঁদ সৃষ্টি করেছেন এবং তাদের কাজে লাগিয়েছেন, ফলে তারা চলে নির্ধারিত হিসাব আর মাপা পরিমাণ মেনে। কারণটাও তিনি একই সঙ্গে বলেন: বান্দাদের প্রতি রহমত আর যত্ন হিসেবে, যাতে এর মাধ্যমে তাদের প্রয়োজন মেটে, আর তারা বছরের সংখ্যা ও হিসাব জানতে পারে। তাই আকাশের কথা এখানে প্রসঙ্গ বদল নয়। সূরার প্রথম শব্দটি যে রহমতের তালিকা শুরু করেছিল, আয়াতটি সেই তালিকারই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word, Two Forms",
+          "bn": "এক শব্দ, দুই গঠন"
+        },
+        "p": [
+          {
+            "en": "Husban comes from the root h-s-b, to count. At-Tabari takes it as a verbal noun: one says hasabtuhu, I counted it, hisaban and husbanan, just as one says kafartuhu kufranan and ghafartuhu ghufranan. He then records that it has also been said to be the plural of hisab, as shuhban is the plural of shihab. Al-Qurtubi gives the same two options and names al-Akhfash for the plural, and al-Baghawi sets rukban, riders, beside shuhban as a second pattern of the same kind.",
+            "bn": "হুসবান এসেছে হ-স-ব ধাতু থেকে, যার অর্থ গোনা। তাবারী একে ক্রিয়াবাচক বিশেষ্য ধরেন। আরবিতে বলা হয় হাসাবতুহু, আমি তা গুনলাম, আর তার বিশেষ্য হিসাবান ও হুসবানান, যেমন কাফারতুহু থেকে কুফরান আর গাফারতুহু থেকে গুফরান। তারপর তিনি উল্লেখ করেন, কেউ কেউ একে হিসাব শব্দের বহুবচনও বলেছেন, যেমন শিহাবের বহুবচন শুহবান। কুরতুবী একই দুটি সম্ভাবনা দেন এবং বহুবচনের মতটি আখফাশের নামে বলেন। বাগাভী শুহবানের পাশে রুকবান, অর্থাৎ আরোহীরা, শব্দটিও রাখেন একই ধাঁচের আরেক উদাহরণ হিসেবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an follows both forms to their meaning. Read as the verbal noun, the verse says that the two bodies on which human life depends run on fixed courses and perform their tasks regularly and punctually: the alternation of night and day, the change of seasons, the fixing of years and months. Read as a plural, it says that the sun and the moon each have reckonings of their own, each its own calculated course. Either way the word names a count that is kept, and the grammar only decides whether it is one count or many.",
+            "bn": "মাআরিফুল কুরআন দুটি গঠনকেই তাদের অর্থ পর্যন্ত টেনে নেয়। ক্রিয়াবাচক বিশেষ্য ধরলে কথাটা দাঁড়ায় এমন: মানুষের গোটা জীবন যে দুটি জিনিসের ওপর নির্ভরশীল, তারা চলে নির্ধারিত পথে, আর নিয়ম মেনে, সময়মতো নিজেদের দায়িত্ব পালন করে। রাত-দিনের পালাবদল, ঋতুর পরিবর্তন, বছর ও মাসের নির্ধারণ তারই ফল। বহুবচন ধরলে অর্থ হয়, সূর্য ও চাঁদ দুটিরই আলাদা আলাদা হিসাব আছে, প্রত্যেকের আছে নিজস্ব মাপা পথ। যেভাবেই পড়া হোক, শব্দটি এমন এক গণনার নাম যা রক্ষা করা হয়। ব্যাকরণ শুধু ঠিক করে, গণনা একটি না অনেক।"
+          },
+          {
+            "en": "Al-Qurtubi also records the word's wider range. Husban, he notes, can mean punishment and short arrows, a sense he says was treated at Surat al-Kahf, where its singular is husbana; and a husbana is also a small cushion, so that ghayr muhsab in a line he quotes means unpillowed, which he glosses as neither honoured nor shrouded. He lists these to show what the word can carry. None of the commentaries fetched for this verse reads the sun and the moon by any of them.",
+            "bn": "কুরতুবী শব্দটির আরও বিস্তৃত অর্থও লিখে রাখেন। তিনি বলেন, হুসবান মানে শাস্তি হতে পারে, ছোট তিরও হতে পারে। এ অর্থের আলোচনা সূরা আল-কাহফে হয়ে গেছে, সেখানে এর একবচন হুসবানা। আবার হুসবানা মানে ছোট বালিশও। তাই তাঁর উদ্ধৃত এক কবিতার পঙক্তিতে গায়র মুহসাব মানে বালিশহীন, আর তিনি এর ব্যাখ্যা দেন এভাবে: যাকে সম্মানও করা হয়নি, কাফনও দেওয়া হয়নি। শব্দটি কী কী অর্থ বহন করতে পারে, তা দেখাতেই তিনি এগুলো তালিকায় রাখেন। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই সূর্য ও চাঁদকে এসব অর্থে পড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stations, Measure and a Millstone",
+          "bn": "মনজিল, পরিমাপ আর যাঁতা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with the words: the people of interpretation differed. The first group read husban as reckoning and stations. From Ibn 'Abbas, through 'Ikrima, he relays: by reckoning and stations they are sent on their way; and through a second chain: they run by number and reckoning. Abu Malik said: by reckoning and stations. Qatada said: by reckoning and a term, and in another report, they run within a reckoning. Al-Qurtubi gathers Ibn 'Abbas, Qatada and Abu Malik into one line: they run by reckoning in stations they neither pass beyond nor swerve from.",
+            "bn": "তাবারী শুরু করেন এই কথায়: তাফসীরবিদরা এখানে মতভেদ করেছেন। প্রথম দলটি হুসবান পড়েছেন হিসাব ও মনজিল অর্থে। ইকরিমার সূত্রে তিনি ইবন আব্বাস (রাঃ) থেকে আনেন: হিসাব ও মনজিল মেনে তাদের চালানো হয়। আরেক সূত্রে: তারা চলে সংখ্যা ও হিসাব মেনে। আবু মালিক বলেছেন: হিসাব ও মনজিল মেনে। কাতাদা বলেছেন: হিসাব ও নির্ধারিত মেয়াদ মেনে, আর আরেক বর্ণনায়, তারা চলে এক হিসাবের ভেতরে। কুরতুবী ইবন আব্বাস, কাতাদা ও আবু মালিককে একটি বাক্যে মেলান: তারা হিসাব মেনে এমন মনজিলে চলে, যা তারা পেরিয়ে যায় না, যা থেকে সরেও যায় না।"
+          },
+          {
+            "en": "Two other readings follow in at-Tabari, each introduced as the view of others. Ad-Dahhak said: they run by a measure, bi-qadar. Mujahid, by several chains through Ibn Abi Najih, said: like the husban of a millstone. Al-Qurtubi explains the image: he means its pivot, so that the two turn as if around such a pivot. Al-Baghawi places Mujahid's saying first and the reading of reckoning and stations after it. The image of the millstone also appears in the commentaries on 36:40, where it explains a different word, falak, and the article on that verse treats it.",
+            "bn": "তাবারীর কাছে এরপর আরও দুটি মত আসে, প্রতিটিই অন্যদের মত হিসেবে। দাহহাক বলেছেন: তারা চলে নির্দিষ্ট পরিমাপে, বিকাদার। মুজাহিদ, ইবন আবী নাজীহের মাধ্যমে কয়েকটি সূত্রে, বলেছেন: যাঁতার হুসবানের মতো। কুরতুবী ছবিটা খুলে বলেন। মুজাহিদ বোঝাচ্ছেন যাঁতার কেন্দ্রের খুঁটি, অর্থাৎ সূর্য ও চাঁদ যেন তেমনই এক খুঁটির চারপাশে ঘোরে। বাগাভী মুজাহিদের কথাটি আগে রাখেন, হিসাব ও মনজিলের মতটি তার পরে। যাঁতার এই উপমা ৩৬:৪০ আয়াতের তাফসীরেও আসে, তবে সেখানে তা আরেকটি শব্দের ব্যাখ্যা, ফালাক। সে আলোচনা ওই আয়াতের প্রবন্ধে আছে।"
+          },
+          {
+            "en": "At-Tabari then chooses. The most correct of these sayings, he writes, is that the sun and the moon run by reckoning and stations, because husban is a verbal noun from hasabtuhu, I counted it. His reason is the word's form, not a preference among the early authorities. Ibn Kathir and the Muyassar give a plain sense close to his: the two run in succession by a precisely fixed reckoning that neither varies nor falters. Mujahid's image is not refuted in any of these texts; it is simply not the reading at-Tabari chose.",
+            "bn": "এরপর তাবারী নিজের মত বেছে নেন। তিনি লেখেন, এসব মতের মধ্যে সবচেয়ে সঠিক হলো, সূর্য ও চাঁদ হিসাব ও মনজিল মেনে চলে। কারণ হুসবান এসেছে হাসাবতুহু থেকে, অর্থাৎ আমি তা গুনলাম, এটি তারই ক্রিয়াবাচক বিশেষ্য। তাঁর যুক্তি শব্দের গঠন, পূর্বসূরিদের কাউকে বেশি পছন্দ করা নয়। ইবন কাসীর ও মুয়াসসার তাঁর কাছাকাছি সরল অর্থ দেন: দুটি একের পর এক চলে নিখুঁতভাবে নির্ধারিত এক হিসাবে, যা বদলায় না, টলেও না। এসব লেখার কোথাও মুজাহিদের উপমা খণ্ডন করা হয়নি। শুধু তাবারী সেটি বেছে নেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Count We Live By",
+          "bn": "যে হিসাবে আমরা বাঁচি"
+        },
+        "p": [
+          {
+            "en": "A different reading turns the word towards us. Ibn Zayd, in at-Tabari, said that by the two of them time and the passing years are reckoned. Were it not for night and day, the sun and the moon, no one would grasp how to count anything: if all time were night, how would anyone count, or if it were all day, how would anyone count? Al-Qurtubi and al-Baghawi report this from Ibn Zayd and Ibn Kaysan together, and al-Qurtubi spells out what is counted: times, terms and lifespans.",
+            "bn": "আরেকটি মত শব্দটিকে আমাদের দিকে ফিরিয়ে আনে। তাবারীর বর্ণনায় ইবন যায়দ বলেছেন, এ দুটির সাহায্যেই সময় আর বয়ে চলা যুগের হিসাব রাখা হয়। রাত-দিন আর সূর্য-চাঁদ না থাকলে কেউ বুঝতেই পারত না কীভাবে কিছু গুনতে হয়। সব সময় যদি রাত হতো, কী দিয়ে গুনত? আর সবটাই যদি দিন হতো, তবেই বা কী দিয়ে গুনত? কুরতুবী ও বাগাভী কথাটি ইবন যায়দ ও ইবন কাইসান দুজনের নামে একসঙ্গে আনেন। কুরতুবী আরও খুলে বলেন কী গোনা হয়: সময়, মেয়াদ আর মানুষের আয়ু।"
+          },
+          {
+            "en": "On this reading the reckoning is not only something the sun and the moon keep, but something they give. Ibn Kathir sets beside the verse another in which Allah made the sun and the moon husban: He is the Cleaver of daybreak, who made the night for rest, and the sun and the moon for reckoning; that is the measuring of the Almighty, the All-Knowing (6:96). As-Sa'di's closing words point the same way: so that the servants may know the number of years and the reckoning. Every calendar a person has used was read off that sky.",
+            "bn": "এ মত অনুযায়ী হিসাবটা শুধু সূর্য ও চাঁদ নিজেরাই মেনে চলে না, তারা তা আমাদের হাতেও তুলে দেয়। ইবন কাসীর আয়াতটির পাশে আরেকটি আয়াত রাখেন, যেখানে আল্লাহ সূর্য ও চাঁদকে বানিয়েছেন হুসবান: তিনিই ভোরের উন্মেষকারী, রাতকে করেছেন বিশ্রামের সময়, আর সূর্য ও চাঁদকে হিসাবের মাধ্যম। এ হলো মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ (৬:৯৬)। সা'দীর শেষ কথাও একই দিকে ইঙ্গিত করে: যাতে বান্দারা বছরের সংখ্যা ও হিসাব জানতে পারে। মানুষ যত পঞ্জিকা ব্যবহার করেছে, সবই পড়ে নেওয়া হয়েছে ওই আকাশ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Term Like Ours",
+          "bn": "আমাদের মতোই এক মেয়াদ"
+        },
+        "p": [
+          {
+            "en": "A further reading, which al-Qurtubi relays from as-Suddi, hears in husban the measuring of the two lights' own terms. They run to appointed terms like the terms of people, he said, and when their term comes they perish. Al-Qurtubi gives its counterpart in the Qur'an's words: kullun yajri li-ajalin musamma, each runs for a term appointed, a phrase that stands, among other places, in 13:2 beside the sun and the moon. Qatada's wording in at-Tabari, by reckoning and a term, already joins the two ideas.",
+            "bn": "আরেকটি মত কুরতুবী আনেন সুদ্দী থেকে। এ মতে হুসবান মানে দুই আলোর নিজেদের মেয়াদের হিসাব। সুদ্দী বলেছেন, মানুষের যেমন নির্ধারিত মেয়াদ আছে, তারাও তেমনই নির্ধারিত মেয়াদ পর্যন্ত চলে, আর মেয়াদ ফুরালে তারা ধ্বংস হয়। কুরতুবী কুরআনের ভাষাতেই এর সমার্থক দেখান: কুল্লুন ইয়াজরি লিআজালিম মুসাম্মা, প্রত্যেকে চলে এক নির্দিষ্ট মেয়াদ পর্যন্ত। অন্যান্য জায়গার মধ্যে ১৩:২ আয়াতে সূর্য ও চাঁদের পাশেই কথাটি আছে। তাবারীর বর্ণনায় কাতাদার শব্দ, হিসাব ও মেয়াদ মেনে, দুটি ধারণাকে আগেই একসঙ্গে বেঁধে দেয়।"
+          },
+          {
+            "en": "This reading changes how the sun looks. The steadiest thing a person sees is itself counted down. It has risen every morning of every life, and still it has a last morning written for it, as each of us has a last breath written. The reckoning that keeps it exact is the same reckoning that will close its account. A heart that grasps this stops treating the world's regularity as permanence, and starts treating each day it brings as one of a number Allah has fixed.",
+            "bn": "এ মত সূর্যের দিকে তাকানোর চোখটাই বদলে দেয়। মানুষ যা দেখে তার মধ্যে সবচেয়ে স্থির জিনিসটিরও দিন গোনা চলছে। প্রতিটি জীবনের প্রতিটি সকালে সে উঠেছে, তবু তার জন্যও একটি শেষ সকাল লেখা আছে, যেমন আমাদের প্রত্যেকের জন্য লেখা আছে শেষ নিঃশ্বাস। যে হিসাব তাকে নিখুঁত রাখে, সেই হিসাবই একদিন তার খাতা বন্ধ করবে। যে মন এটা বোঝে, সে দুনিয়ার নিয়মিত চলাকে চিরস্থায়িত্ব ভাবা ছেড়ে দেয়। প্রতিটি দিনকে সে দেখে আল্লাহর নির্ধারিত, গোনা দিনগুলোর একটি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Verb Went",
+          "bn": "ক্রিয়াপদটি কোথায় গেল"
+        },
+        "p": [
+          {
+            "en": "The missing verb divided the grammarians, and at-Tabari records the dispute without naming them. Some said the predicate is implied: the sense is, they run by reckoning. Al-Qurtubi reads it this way too, glossing the verse as they run by a known reckoning and adding that the predicate was left unstated. Others rejected this outright and called it a mistake. For them bi-husban is itself the predicate: the sun and the moon are by reckoning. A verb, they argued, is dropped and left to be supplied only rarely in speech.",
+            "bn": "অনুপস্থিত ক্রিয়াপদ নিয়ে ব্যাকরণবিদরা ভাগ হয়ে গিয়েছিলেন। তাবারী বিতর্কটি লিখে রাখেন, তবে কারও নাম বলেন না। কেউ কেউ বলেছেন, বিধেয় এখানে উহ্য, অর্থাৎ মূল কথা: তারা চলে হিসাব মেনে। কুরতুবীও এভাবেই পড়েন। তাঁর ব্যাখ্যায় আয়াতের অর্থ, তারা চলে এক জানা হিসাবে, আর তিনি যোগ করেন যে বিধেয়টি উহ্য রাখা হয়েছে। অন্যরা এ মত সরাসরি নাকচ করে একে ভুল বলেছেন। তাঁদের মতে বিহুসবান নিজেই বিধেয়: সূর্য ও চাঁদ হিসাবের অধীন। তাঁদের যুক্তি, কথার মধ্যে ক্রিয়াপদ বাদ দিয়ে উহ্য রাখা হয় কেবল কালেভদ্রে।"
+          },
+          {
+            "en": "The second group made a further connection. Al-bayan, they said, bears on this: He taught him al-bayan, that the sun and the moon are by reckoning. On that reading 55:5 is not only the next favour in the list but the content of the one before it: what the newly taught speaker learns to say. At-Tabari reports both positions and does not settle between them here. Either way the two verses sit side by side: a creature given words, and a sky that keeps count.",
+            "bn": "দ্বিতীয় দলটি আরও একটি সংযোগ টানেন। তাঁরা বলেন, আল-বায়ানের সঙ্গে এর সম্পর্ক এমন: তিনি তাকে বায়ান শিখিয়েছেন যে সূর্য ও চাঁদ হিসাবের অধীন। এ পাঠে ৫৫:৫ তালিকার পরের নিয়ামত মাত্র নয়, আগের আয়াতের নিয়ামতের বিষয়বস্তুও। সদ্য কথা শেখা মানুষ যা বলতে শেখে, এটি সেই কথা। তাবারী দুটি মতই উল্লেখ করেন, এখানে কোনোটির পক্ষে রায় দেন না। যেভাবেই পড়া হোক, দুটি আয়াত পাশাপাশি দাঁড়িয়ে: এক সৃষ্টি, যাকে ভাষা দেওয়া হয়েছে, আর এক আকাশ, যে হিসাব রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lights That Also Bow",
+          "bn": "যে আলোরাও সিজদা করে"
+        },
+        "p": [
+          {
+            "en": "The next verse reads: wa-n-najmu wa-sh-shajaru yasjudan, the najm and the trees prostrate (55:6). Ibn Kathir, commenting on the passage, reports that the scholars differed over najm. Ibn 'Abbas, in one report, took it as plants that lie along the ground, and Ibn Jarir preferred this; Mujahid, al-Hasan and Qatada took it as the star in the sky. Ibn Kathir calls the star the more evident sense and cites 22:18, where the sun, the moon, the stars and the trees are all named among those that prostrate to Allah.",
+            "bn": "পরের আয়াত: ওয়ান-নাজমু ওয়াশ-শাজারু ইয়াসজুদান, নাজম ও গাছপালা সিজদা করে (৫৫:৬)। ইবন কাসীর এ অংশের আলোচনায় জানান, নাজম শব্দ নিয়ে আলিমরা মতভেদ করেছেন। একটি বর্ণনায় ইবন আব্বাস (রাঃ) একে মাটির ওপর বিছিয়ে থাকা লতাগুল্ম ধরেছেন, আর ইবন জারীর এ মতকেই অগ্রাধিকার দিয়েছেন। মুজাহিদ, হাসান ও কাতাদা ধরেছেন আকাশের তারকা। ইবন কাসীর তারকার অর্থটিকে বেশি স্পষ্ট বলেন, আর দলিল দেন ২২:১৮ আয়াত থেকে, যেখানে আল্লাহকে সিজদাকারীদের মধ্যে সূর্য, চাঁদ, তারকারাজি ও গাছপালা সবার নাম আছে।"
+          },
+          {
+            "en": "Read together, the two verses show the reckoning from the inside. The sun and the moon keep their count, and the same sun and moon are named among those that prostrate. Their exactness is their obedience. Ma'arif al-Qur'an adds a comparison of its own: human machines, however strong, break down and need servicing and repair, while this divine order needs none. Neither the sun overtakes the moon nor the moon outstrips the sun; each moves in its own course.",
+            "bn": "দুটি আয়াত একসঙ্গে পড়লে হিসাবটাকে ভেতর থেকে দেখা যায়। সূর্য ও চাঁদ নিজেদের গণনা রক্ষা করে, আবার সেই সূর্য ও চাঁদের নামই আছে সিজদাকারীদের তালিকায়। তাদের নির্ভুলতাই তাদের আনুগত্য। মাআরিফুল কুরআন নিজের পক্ষ থেকে একটি তুলনা যোগ করে। মানুষের তৈরি যন্ত্র যত মজবুতই হোক, বিকল হয়, তার দেখভাল আর মেরামত লাগে। অথচ আল্লাহর এই ব্যবস্থার কোনো মেরামত লাগে না। সূর্য চাঁদকে ধরে ফেলে না, চাঁদও সূর্যকে ছাড়িয়ে যায় না। প্রত্যেকে চলে নিজের পথে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs, Never Omens",
+          "bn": "নিদর্শন, অশুভ লক্ষণ নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. Ibn Kathir does relay, through Ibn Abi Hatim, a saying of 'Ikrima about the sun's light, but it is a Successor's words, not the Prophet's ﷺ, and it is left aside here. A general narration, not attached to this verse, speaks to the same sky. Al-Bukhari records in his Sahih (1042) from Ibn 'Umar (RA) that the Prophet ﷺ said: \"The sun and the moon do not eclipse because of the death or life (i.e. birth) of someone but they are two signs amongst the signs of Allah. When you see them offer the prayer.\"",
+            "bn": "এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীর ইবন আবী হাতিমের সূত্রে সূর্যের আলো নিয়ে ইকরিমার একটি উক্তি আনেন বটে, তবে তা একজন তাবেয়ীর কথা, নবী ﷺ-এর নয়, তাই এখানে তা রাখা হয়নি। একটি সাধারণ হাদীস, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই আকাশের কথা বলে। বুখারী তাঁর সহীহ গ্রন্থে (১০৪২) ইবন উমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"সূর্য ও চাঁদের গ্রহণ কারও মৃত্যু বা জন্মের কারণে হয় না, বরং এ দুটি আল্লাহর নিদর্শনগুলোর মধ্যে দুটি নিদর্শন। যখন তোমরা তা দেখবে, নামাজ পড়বে।\""
+          },
+          {
+            "en": "The narration sets the two lights where the verse sets them. Their movements answer to Allah's reckoning, not to the fortunes of any person, and the right response to them, ordinary or startling, is to turn to Him. A world run by reckoning leaves no room for omens read in the sky, and no reason to fear it. What it asks of the one watching is prayer and thanks.",
+            "bn": "হাদীসটি দুই আলোকে ঠিক সেখানেই রাখে, যেখানে আয়াত তাদের রেখেছে। তাদের চলাফেরা আল্লাহর হিসাব মেনে চলে, কোনো মানুষের ভাগ্যের ওঠানামা মেনে নয়। তারা সাধারণ নিয়মে চলুক বা চমকে দিক, তাদের দেখে করণীয় একটাই: তাঁর দিকে ফেরা। যে জগৎ হিসাব মেনে চলে, সেখানে আকাশ দেখে অশুভ লক্ষণ পড়ার কোনো জায়গা নেই, তাকে ভয় পাওয়ারও কারণ নেই। যে তাকিয়ে দেখে, তার কাছে এ আকাশ চায় নামাজ আর শুকরিয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping Hours, Giving Thanks",
+          "bn": "সময় রক্ষা, শুকরিয়া আদায়"
+        },
+        "p": [
+          {
+            "en": "The verse's lesson runs in three steps. First, order: the sky we were born under keeps its count without a single lapse, and a believer's day, set by that same sun's rising, height and setting, is meant to have an order of its own. Second, time: if the sun and the moon run to a term, so do we, and the hours they hand out are counted. Third, gratitude: as-Sa'di called all this a mercy and a care for the servants, and a mercy is answered with thanks.",
+            "bn": "আয়াতের শিক্ষা তিনটি ধাপে। প্রথম ধাপ শৃঙ্খলা। যে আকাশের নিচে আমরা জন্মেছি, তা একবারও এদিক-ওদিক না করে নিজের হিসাব রক্ষা করে। মুমিনের দিনও সেই সূর্যের উদয়, মধ্যগগন আর অস্তের সঙ্গে বাঁধা, তাই তার দিনেরও নিজস্ব শৃঙ্খলা থাকার কথা। দ্বিতীয় ধাপ সময়। সূর্য ও চাঁদ যদি নির্দিষ্ট মেয়াদ পর্যন্ত চলে, আমরাও তাই, আর তারা যে প্রহরগুলো দেয় তা গোনা। তৃতীয় ধাপ শুকরিয়া। সা'দী এসবকে বলেছেন বান্দাদের প্রতি রহমত ও যত্ন, আর রহমতের জবাব শুকরিয়া।"
+          },
+          {
+            "en": "So the verse can be carried into an ordinary day. When the light changes at dawn, the prayer whose time it marks can be met on time. When a new month's crescent appears, its count can be begun with remembrance. And when a year is added to one's age, it can be weighed for what it held. The sun and the moon have kept their appointments for every life before ours. It remains for us to keep ours.",
+            "bn": "তাই আয়াতটিকে সাধারণ একটি দিনের ভেতরেও বয়ে নেওয়া যায়। ভোরে আলো বদলালে, যে নামাজের ওয়াক্ত তা জানিয়ে দেয়, তা সময়মতো আদায় করা যায়। নতুন মাসের চাঁদ উঠলে তার গণনা শুরু করা যায় আল্লাহর জিকিরে। আর বয়সে একটি বছর যোগ হলে ভেবে দেখা যায়, বছরটিতে কী ছিল। আমাদের আগের প্রতিটি জীবনের জন্য সূর্য ও চাঁদ নিজেদের নির্ধারিত সময় রক্ষা করেছে। এখন বাকি আমাদের নিজেদের সময়গুলো রক্ষা করা।"
+          }
+        ]
+      }
+    ]
+  },
   "55:9": {
     "sections": [
       {

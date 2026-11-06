@@ -27689,6 +27689,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer the Qur'an with your whole self: bow to Allah alone, and let that prostration spread into every word and deed He loves.",
     "lessonBn": "কুরআনের জবাব দিন পুরো নিজেকে দিয়ে: শুধু আল্লাহর সামনে মাথা নোয়ান, আর সেই সিজদা ছড়িয়ে দিন তাঁর পছন্দের প্রতিটি কথা ও কাজে।"
+  },
+  "55:5": {
+    "reflectionEn": "Ar-Rahman has just taught the Qur'an, created man and taught him to speak his mind. Then, in three Arabic words, He points upward: the sun and the moon, by reckoning. They keep a count they never lose, station after station, and by them people have always counted their days, months and years. Every date I write down, every prayer time I keep, every year I add to my age is borrowed from that reckoning. The question is what I do with time that arrives so faithfully. The sun has not been late once in my life. Have I kept my own appointments with Allah half as well, and have I ever thanked Him for the hours themselves?",
+    "reflectionBn": "আর-রাহমান এইমাত্র কুরআন শিখিয়েছেন, মানুষ সৃষ্টি করেছেন, তাকে মনের কথা বলতে শিখিয়েছেন। তারপর আরবি তিনটি শব্দে তিনি দৃষ্টি তুলে দেন আকাশের দিকে: সূর্য ও চাঁদ, হিসাব মেনে। তারা এমন এক গণনা রাখে যা কখনো হারায় না, এক মনজিল থেকে আরেক মনজিলে। আর তাদের দেখেই মানুষ চিরকাল দিন, মাস আর বছর গুনে এসেছে। যে তারিখ আমি লিখি, যে নামাজের ওয়াক্ত মানি, বয়সে যে বছর যোগ হয়, সবই ধার করা ওই হিসাব থেকে। প্রশ্ন হলো, এত বিশ্বস্তভাবে যে সময় আসে, তা দিয়ে আমি কী করি। আমার জীবনে সূর্য একদিনও দেরি করেনি। আল্লাহর সঙ্গে আমার নির্ধারিত সময়গুলো কি আমি তার অর্ধেকও রক্ষা করেছি? আর সময়ের জন্যই কি কখনো তাঁর শুকরিয়া আদায় করেছি?",
+    "pointsEn": [
+      "Which of my daily prayers most often slips past its time, and what usually pushes it there?",
+      "If my days are counted by the sun and the moon, what have I been counting them towards?",
+      "Where in my week is there no order at all, and what small fixed habit could give it one?",
+      "When did I last thank Allah not for something that happened, but for the morning itself arriving?",
+      "The sun keeps its course without complaint; which limit in my own life do I keep resenting?"
+    ],
+    "pointsBn": [
+      "আমার দৈনিক নামাজগুলোর কোনটি সবচেয়ে বেশি ওয়াক্ত পার হয়ে যায়? সাধারণত কী সেটাকে ঠেলে সরিয়ে দেয়?",
+      "আমার দিনগুলো যদি সূর্য আর চাঁদের হিসাবে গোনা হয়, তবে আমি সেগুলো গুনে কোন দিকে এগোচ্ছি?",
+      "সপ্তাহের কোন অংশে কোনো শৃঙ্খলাই নেই? কোন ছোট নিয়মিত অভ্যাস সেখানে শৃঙ্খলা আনতে পারে?",
+      "শেষ কবে আল্লাহর শুকরিয়া আদায় করেছি কোনো ঘটনার জন্য নয়, বরং শুধু সকালটা আসার জন্য?",
+      "সূর্য অভিযোগ ছাড়াই নিজের পথে চলে। আমার জীবনের কোন সীমাটা নিয়ে আমি এখনো মনে মনে অসন্তুষ্ট?"
+    ],
+    "lessonEn": "Read the sun and moon's faithful reckoning as His mercy: keep your own hours in order, and thank Him for the time itself.",
+    "lessonBn": "সূর্য ও চাঁদের নির্ভুল হিসাবকে তাঁর রহমত হিসেবে দেখুন: নিজের সময়গুলো শৃঙ্খলায় রাখুন, আর সময়ের জন্যই তাঁর শুকরিয়া আদায় করুন।"
   }
 };
 
