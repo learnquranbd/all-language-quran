@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "59:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Wealth That Came Back",
+          "bn": "যে সম্পদ ফিরে এল"
+        },
+        "p": [
+          {
+            "en": "The verse begins almost as the previous verse did. In 59:6 Allah spoke of what He gave back to His Messenger from them, for which you spurred neither horse nor camel. Here the opening repeats, ma afa'a Allahu 'ala rasulihi, but the source widens to min ahl al-qura, from the people of the towns, and the verse now names who the wealth is for. Ma'arif al-Qur'an derives afa'a from fay', a return, the word also used for the afternoon shade as it turns back east.",
+            "bn": "আগের আয়াত যেভাবে শুরু হয়েছিল, এ আয়াতও প্রায় সেভাবেই শুরু। ৫৯:৬ আয়াতে আল্লাহ বলেছিলেন, তাদের কাছ থেকে তিনি যা তাঁর রসূলকে ফিরিয়ে দিয়েছেন, তার জন্য তোমরা ঘোড়াও ছোটাওনি, উটও না। এখানে সেই শুরুর কথাটাই ফিরে আসে, মা আফাআল্লাহু আলা রসূলিহী। তবে উৎসটা বড় হয়ে যায়: মিন আহলিল কুরা, জনপদবাসীদের কাছ থেকে। আর এবার আয়াত বলে দেয়, সম্পদটা কাদের জন্য। মাআরিফুল কুরআন আফাআ শব্দটিকে ফায় থেকে এনেছে, যার মানে ফিরে আসা। বিকেলে বস্তুর ছায়া যখন পুবের দিকে ঘুরে যায়, তাকেও ফায় বলা হয়।"
+          },
+          {
+            "en": "Ma'arif adds why the wealth carries that name: its ownership returns to its real Owner, Allah. Which towns? Al-Baghawi and al-Qurtubi both report from Ibn Abbas: Qurayza and an-Nadir, Fadak, Khaybar and the villages of 'Urayna, with al-Qurtubi's version adding Yanbu'. Ibn Kathir reads it as every land taken in this way, its ruling being that of Banu an-Nadir's property, and as-Sa'di reads it as holding after the Messenger's time too.",
+            "bn": "এ সম্পদের নাম কেন ফায়, মাআরিফুল কুরআন তারও কারণ দেখায়: এর মালিকানা ফিরে যায় আসল মালিক আল্লাহর কাছে। কোন জনপদের কথা? বাগাভী ও কুরতুবী দুজনেই ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: কুরাইযা ও নাদীর, ফাদাক, খাইবার আর উরাইনার গ্রামগুলো। কুরতুবীর বর্ণনায় ইয়াম্বুও আছে। ইবন কাসীর এর আওতা বাড়িয়ে বলেন, এভাবে যত ভূখণ্ড হাতে আসবে, সবগুলোর বিধান বনু নাদীরের সম্পদের বিধানের মতো। সা'দীও বলেন, রসূলের যুগের পরেও এ বিধান বহাল থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Names on the Purse",
+          "bn": "থলির গায়ে ছয়টি নাম"
+        },
+        "p": [
+          {
+            "en": "The list is the same six that 8:41 gives for the fifth of the spoils: Allah, the Messenger, the near kin, orphans, the needy and the wayfarer. Ma'arif says Allah's name stands first by way of blessing, marking the wealth as lawful and pure, and attributes this to al-Hasan al-Basri, Qatada, 'Ata', Ibrahim, ash-Sha'bi and the commentators generally. Al-Muyassar and as-Sa'di both say the share of Allah and His Messenger is spent on the general welfare of the Muslims.",
+            "bn": "তালিকাটা হুবহু সেই ছয়টি নাম, যা ৮:৪১ আয়াতে গনীমতের এক-পঞ্চমাংশের জন্য এসেছে: আল্লাহ, রসূল, নিকটাত্মীয়, ইয়াতীম, মিসকীন আর মুসাফির। মাআরিফুল কুরআনের মতে আল্লাহর নাম সবার আগে এসেছে বরকতের জন্য। এতে বোঝা যায়, সম্পদটি হালাল ও পবিত্র। এ মত তারা হাসান বসরী, কাতাদা, আতা, ইবরাহীম, শা'বী এবং সাধারণভাবে তাফসীরকারদের দিকে সম্বন্ধ করে। মুয়াসসার ও সা'দী দুজনেই বলেন, আল্লাহ ও তাঁর রসূলের অংশটি খরচ হয় মুসলিমদের সার্বিক কল্যাণে।"
+          },
+          {
+            "en": "Who are dhu al-qurba, the near kin? At-Tabari, al-Muyassar and as-Sa'di answer: the Prophet's kin of Banu Hashim and Banu al-Muttalib. As-Sa'di explains why Banu al-Muttalib joined them and the rest of Banu Abd Manaf did not: they shared the mountain pass with Banu Hashim when Quraysh agreed to boycott them. Al-Qurtubi gives another reason: they were barred from sadaqa, so a right in the fay' was made for them. Al-Qurtubi records a dispute over their rich: most give to them, as it is their right; Malik gives only to their poor.",
+            "bn": "যুল কুরবা, অর্থাৎ নিকটাত্মীয় কারা? তাবারী, মুয়াসসার ও সা'দী একই উত্তর দেন: নবী ﷺ-এর আত্মীয়দের মধ্যে বনু হাশিম ও বনু মুত্তালিব। বনু আবদে মানাফের বাকিরা বাদ পড়ল, অথচ বনু মুত্তালিব কেন যুক্ত হলো, সা'দী তার কারণও বলেন। কুরাইশ যখন তাদের বয়কটের চুক্তি করেছিল, তখন বনু মুত্তালিব বনু হাশিমের সঙ্গে গিরিপথে অবরুদ্ধ জীবন ভাগ করে নিয়েছিল। কুরতুবী আরেকটি কারণ দেন: তাদের জন্য সদকা নিষিদ্ধ, তাই ফায়ে তাদের হক রাখা হয়েছে। তাদের ধনীরাও অংশ পাবে কি না, কুরতুবী সে মতভেদও উল্লেখ করেন। অধিকাংশের মতে পাবে, কারণ এটা তাদের হক। ইমাম মালিকের মতে শুধু তাদের দরিদ্ররা পাবে।"
+          },
+          {
+            "en": "At-Tabari defines the rest with care. The orphans are the needy children of the Muslims who have no wealth; as-Sa'di adds that an orphan is a child who has lost his father and has not reached maturity. The needy are those who carry both want and the humiliation of having to ask. The wayfarer is the traveller left stranded, provided his journey is not in disobedience to Allah. Al-Muyassar describes him as the stranger on the road whose provision has run out and whose wealth is cut off from him.",
+            "bn": "বাকিদের সংজ্ঞা তাবারী যত্ন করে দেন। ইয়াতীম হলো মুসলিমদের অভাবী শিশু, যাদের কোনো সম্পদ নেই। সা'দী যোগ করেন, ইয়াতীম সে, যার বাবা নেই এবং যে এখনো সাবালক হয়নি। মিসকীন তারা, যাদের উপর অভাব আর হাত পাতার লাঞ্ছনা দুটোই একসঙ্গে চেপে বসেছে। মুসাফির সেই পথিক, যে পথে আটকে পড়েছে, তবে শর্ত হলো তার সফর আল্লাহর নাফরমানির জন্য নয়। মুয়াসসারের বর্ণনায় সে এমন বিদেশি পথিক, যার পাথেয় ফুরিয়ে গেছে আর নিজের সম্পদ থেকেও সে বিচ্ছিন্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Wealth Is Meant Here?",
+          "bn": "এখানে কোন সম্পদের কথা?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari notes that scholars differed over which wealth this verse means. Ma'mar said it had reached him that it was the jizya and the kharaj of the towns. Yazid ibn Ruman, through Ibn Ishaq, took it as wealth won by fighting and taken by force. Qatada said the fay' first went to these classes, and that this was then abrogated by 8:41, which gives four-fifths of spoils to those who fought. And some later jurists read it as explaining how the treaty wealth of 59:6 is divided.",
+            "bn": "তাবারী শুরুতেই জানান, এ আয়াতে কোন ধরনের সম্পদ বোঝানো হয়েছে, তা নিয়ে আলেমদের মধ্যে মতভেদ আছে। মা'মার বলেন, তাঁর কাছে খবর পৌঁছেছে যে এটা জনপদগুলোর জিযিয়া ও খারাজ। ইবন ইসহাকের সূত্রে ইয়াযীদ ইবন রূমানের মতে এটা যুদ্ধ করে জোরপূর্বক হাতে আসা সম্পদ। কাতাদা বলেন, শুরুতে ফায় এই শ্রেণিগুলোর জন্যই ছিল, পরে ৮:৪১ আয়াত তা রহিত করে, যেখানে গনীমতের চার-পঞ্চমাংশ যোদ্ধাদের দেওয়া হয়েছে। আর পরবর্তী যুগের কিছু ফকীহ বলেছেন, ৫৯:৬ আয়াতে সন্ধির মাধ্যমে আসা যে সম্পদের কথা, এ আয়াত তারই বণ্টন বুঝিয়ে দিচ্ছে।"
+          },
+          {
+            "en": "At-Tabari's own view is that this verse rules on a different wealth. What 59:6 describes Allah gave His Messenger alone, and he cites Umar's report: Banu an-Nadir's property was the Prophet's own, he took his family's provision for a year from it and put the rest into the wealth of Allah. A verse about wealth for several classes must therefore mean other wealth. Al-Qurtubi records Ibn al-Arabi reading 59:6, 59:7 and 8:41 as three meanings for three sets of recipients, and calls that choice good.",
+            "bn": "তাবারীর নিজের মত হলো, এ আয়াত ভিন্ন এক সম্পদের বিধান দেয়। ৫৯:৬ আয়াতে যে সম্পদের কথা, আল্লাহ তা শুধু তাঁর রসূলকেই দিয়েছিলেন। প্রমাণ হিসেবে তিনি উমর (রাঃ)-এর বর্ণনা আনেন: বনু নাদীরের সম্পদ ছিল একান্তই নবী ﷺ-এর। সেখান থেকে তিনি পরিবারের এক বছরের খরচ নিতেন, বাকিটা রাখতেন আল্লাহর সম্পদে। কাজেই যে আয়াত কয়েকটি শ্রেণির জন্য সম্পদ নির্ধারণ করে, তা অন্য সম্পদের কথাই বলছে। কুরতুবী ইবনুল আরাবীর মত উদ্ধৃত করেন: ৫৯:৬, ৫৯:৭ আর ৮:৪১, তিন আয়াতে তিনটি আলাদা অর্থ, তিন দল প্রাপকের জন্য। কুরতুবী এ মতকে উত্তম বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fifths, or One Pool?",
+          "bn": "পাঁচ ভাগ, নাকি এক তহবিল?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds that al-Hashr is said to have come down after al-Anfal, and the earlier cannot abrogate the later. A second question is how the fay' is divided. As-Sa'di sets the verse beside 8:41 and divides it into five fifths. Ash-Shafi'i, as al-Qurtubi reports him, held that both verses mean one thing: four-fifths for the Prophet ﷺ, the last fifth divided as the fifth of spoils. Al-Baghawi says some held it is divided into fifths, while most held its whole use is one, with every Muslim having a right in it.",
+            "bn": "কুরতুবী আরও বলেন, বর্ণিত আছে যে সূরা হাশর নাযিল হয়েছে সূরা আনফালের পরে। আর আগের আয়াত পরের আয়াতকে রহিত করতে পারে না। দ্বিতীয় প্রশ্ন হলো, ফায় ভাগ হবে কীভাবে। সা'দী আয়াতটিকে ৮:৪১ আয়াতের পাশে রেখে ফায়কে পাঁচ ভাগে ভাগ করেন। কুরতুবীর বর্ণনায় ইমাম শাফিঈর মত, দুই আয়াতের অর্থ এক: চার-পঞ্চমাংশ নবী ﷺ-এর, আর বাকি এক-পঞ্চমাংশ গনীমতের খুমুসের মতো করে ভাগ হবে। বাগাভী জানান, কেউ কেউ ফায়কে পাঁচ ভাগে ভাগ করার পক্ষে, তবে অধিকাংশের মতে পুরোটার খাত একটাই, আর তাতে প্রত্যেক মুসলিমের হক আছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives Malik's view that the matter is left to the ruler, who may hold the fay' for emergencies or divide it, beginning with the poor. These are jurists' positions, recorded side by side. Behind the widest of them stands Umar. At-Tabari reports that he recited 9:60, on the alms, and said, this is for these; then 8:41, this is for these; then this verse through to 59:10, and said: this has taken in the Muslims in general; there is no one without a right in it. Al-Baghawi gives a shorter form.",
+            "bn": "কুরতুবী ইমাম মালিকের মতও আনেন: বিষয়টি শাসকের বিবেচনার উপর ছেড়ে দেওয়া। তিনি চাইলে বিপদ-আপদের জন্য ফায় জমা রাখবেন, চাইলে ভাগ করে দেবেন, আর ভাগ শুরু করবেন দরিদ্রদের দিয়ে। এগুলো ফকীহদের মত, পাশাপাশি লিপিবদ্ধ। এর মধ্যে সবচেয়ে ব্যাপক যে মত, তার পেছনে দাঁড়িয়ে আছেন উমর (রাঃ)। তাবারী বর্ণনা করেন, তিনি সদকার আয়াত ৯:৬০ পড়ে বললেন, এটা এদের জন্য। তারপর ৮:৪১ পড়ে বললেন, এটা এদের জন্য। তারপর এ আয়াত থেকে ৫৯:১০ পর্যন্ত পড়ে বললেন: এ আয়াত সব মুসলিমকে শামিল করে নিয়েছে, এমন কেউ নেই যার এতে হক নেই। বাগাভীতে এর সংক্ষিপ্ত রূপ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Passed Hand to Hand",
+          "bn": "হাতে হাতে ঘোরা সম্পদ"
+        },
+        "p": [
+          {
+            "en": "Kay la yakuna dulatan bayna al-aghniya'i minkum: so that it does not become a dula among the rich of you. Al-Qurtubi records Abu Amr ibn al-Ala: dawla, with a, is victory in war and the like; dula, with u, is the name of wealth that is passed around. Isa ibn Umar, Yunus and al-Asma'i held the two forms mean the same. Abu Ja'far read takuna dulatun; at-Tabari accepts only the common reading, yakuna dulatan, because the authorities agree on it.",
+            "bn": "কাই লা ইয়াকূনা দূলাতান বাইনাল আগনিয়াই মিনকুম: যাতে তা তোমাদের ধনীদের মধ্যে দূলা হয়ে না থাকে। কুরতুবী আবু আমর ইবনুল আলার কথা উদ্ধৃত করেন: যবর দিয়ে দাওলা মানে যুদ্ধ বা অন্য কিছুতে বিজয়, আর পেশ দিয়ে দূলা হলো সেই সম্পদের নাম, যা হাতে হাতে ঘোরে। ঈসা ইবন উমর, ইউনুস ও আসমাঈর মতে দুটো একই অর্থের দুই রূপ। আবু জা'ফর পড়েছেন তাকূনা দূলাতুন। তাবারী শুধু প্রচলিত পাঠ ইয়াকূনা দূলাতান গ্রহণ করেন, কারণ প্রামাণ্য কারীগণ এ পাঠে একমত।"
+          },
+          {
+            "en": "At-Tabari's gloss is striking. Allah assigned the fay' to these classes so that it would not be a dula the rich pass among themselves, one spending it now on his own needs, another on works of piety and good, each placing it where he liked; instead a way was laid down that is not altered. On his reading, even good causes picked at will by the rich are not the verse's way. Ibn Kathir: lest it become a meal the rich seize and spend by appetite and opinion, giving nothing of it to the poor.",
+            "bn": "তাবারীর ব্যাখ্যাটা মনে দাগ কাটে। আল্লাহ ফায়কে এই শ্রেণিগুলোর জন্য নির্ধারণ করেছেন, যাতে তা ধনীদের নিজেদের মধ্যে হাতবদলের জিনিস না হয়। একজন একবার তা খরচ করবে নিজের প্রয়োজনে, আরেকজন নেকি ও কল্যাণের কাজে, যে যেখানে খুশি রাখবে। তার বদলে এমন এক নিয়ম বেঁধে দেওয়া হলো, যা বদলায় না। তাঁর ব্যাখ্যা অনুযায়ী ধনীরা নিজেদের খুশিমতো ভালো খাত বেছে নিলেও সেটা আয়াতের পথ নয়। ইবন কাসীর বলেন, যাতে তা এমন খাবার না হয়ে যায়, যা ধনীরা দখল করে নিজেদের খেয়ালখুশি ও মর্জিমতো খরচ করে, আর গরিবদের কিছুই দেয় না।"
+          },
+          {
+            "en": "As-Sa'di: had Allah not fixed it, the rich and strong would have passed it round and nothing would have reached the weak, with harm only Allah knows. Al-Baghawi and al-Qurtubi tie the phrase to a custom of the Jahiliyya: the chief took a quarter of the spoils, al-mirba', then picked what he wished from the rest. Allah gave this to His Messenger, to divide where He commanded. The commentators speak of the fay' and the chief's quarter; the reader keeps the verse's question.",
+            "bn": "সা'দী বলেন, আল্লাহ যদি এটা নির্ধারণ করে না দিতেন, তবে ধনী ও শক্তিশালীরা নিজেদের মধ্যেই তা ঘোরাত, দুর্বলদের হাতে কিছুই পৌঁছাত না। তাতে যে অনিষ্ট হতো, তা আল্লাহ ছাড়া কেউ জানে না। বাগাভী ও কুরতুবী বাক্যটিকে জাহিলী যুগের এক প্রথার সঙ্গে মিলিয়ে দেখান। তখন গোত্রপতি গনীমতের এক-চতুর্থাংশ নিজে নিত, যার নাম মিরবা। তারপর বাকিটা থেকেও যা খুশি বেছে নিত। আল্লাহ এ সম্পদ তাঁর রসূলের হাতে দিলেন, যাতে তিনি তা আল্লাহর নির্দেশিত খাতে ভাগ করেন। তাফসীরকারেরা কথা বলেছেন ফায় আর গোত্রপতির ভাগ নিয়ে। পাঠকের কাছে থেকে যায় আয়াতের প্রশ্নটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Handed Over, Meaning Commanded",
+          "bn": "হাতে তুলে দেওয়া, মানে আদেশ"
+        },
+        "p": [
+          {
+            "en": "Wa ma atakumu ar-rasulu fa-khudhuhu: and what the Messenger gives you, take it. Some read it within the context. At-Tabari: what he gave you of the fay' of the towns, take; what he forbade you, of ghulul, stealing from the spoils, and the like, refrain from. Al-Hasan, in at-Tabari and al-Qurtubi: he gives them the spoils and stops them from ghulul. As-Suddi, in al-Qurtubi: what he gives of the fay', accept; what he withholds, do not seek.",
+            "bn": "ওয়া মা আতাকুমুর রসূলু ফাখুযূহু: রসূল তোমাদের যা দেন, তা গ্রহণ করো। কেউ কেউ এটাকে প্রসঙ্গের ভেতরেই পড়েছেন। তাবারী বলেন, জনপদগুলোর ফায় থেকে তিনি তোমাদের যা দিয়েছেন, তা নাও। আর গুলূল, অর্থাৎ গনীমত থেকে চুরি, এবং এ জাতীয় যা কিছু থেকে নিষেধ করেছেন, তা থেকে বিরত থাকো। তাবারী ও কুরতুবীতে হাসান বসরীর কথা: তিনি তাদের গনীমত দেন, আর গুলূল থেকে ফিরিয়ে রাখেন। কুরতুবীতে সুদ্দীর কথা: ফায় থেকে তিনি যা দেন, তা কবুল করো, আর যা দেন না, তা চেয়ো না।"
+          },
+          {
+            "en": "Ma'arif explains the fit: the classes are fixed, but how much each receives was left to the Prophet ﷺ, so the believers are told to accept gladly what he grants. Others read it widely. Ibn Jurayj, in al-Qurtubi: what he brings you of obedience to Me, do. Al-Baghawi: it came down about the fay' and is general in all he commanded and forbade. Al-Qurtubi adds a point of language: the verb is ita', handing over, yet it means command, since it is set against forbidding.",
+            "bn": "প্রসঙ্গের সঙ্গে এটা কেন মেলে, মাআরিফুল কুরআন তা বুঝিয়ে দেয়: প্রাপক শ্রেণি নির্ধারিত, কিন্তু কে কতটা পাবে, তা নবী ﷺ-এর বিবেচনায় ছেড়ে দেওয়া হয়েছিল। তাই মুমিনদের বলা হয়েছে, তিনি যা দেন খুশিমনে নিতে। আবার কেউ কেউ আয়াতটিকে ব্যাপক অর্থে পড়েছেন। কুরতুবীতে ইবন জুরাইজের কথা: আমার আনুগত্যের যা কিছু তিনি তোমাদের কাছে আনেন, তা পালন করো। বাগাভী বলেন, আয়াত নাযিল হয়েছে ফায় নিয়ে, কিন্তু তাঁর সব আদেশ-নিষেধে তা প্রযোজ্য। কুরতুবী ভাষার দিক থেকে একটা কথা যোগ করেন: ক্রিয়াটি ঈতা, হাতে তুলে দেওয়া, তবু এর অর্থ আদেশ, কারণ এর বিপরীতে রাখা হয়েছে নিষেধকে।"
+          },
+          {
+            "en": "Only a command, he reasons, stands opposite a prohibition. Al-Mahdawi, in al-Qurtubi, draws the consequence: whatever the Prophet ﷺ commanded is a command from Allah. As-Sa'di calls the clause the universal rule, covering the faith's roots and branches, outward and inward; the Messenger's word on a ruling is like Allah's, and no one's word may be put before his. Al-Muyassar calls the verse a foundation for acting on the Sunnah in word, deed or approval. Ibn Kathir: he commands only good and forbids only evil.",
+            "bn": "তাঁর যুক্তি হলো, নিষেধের বিপরীতে কেবল আদেশই দাঁড়াতে পারে। কুরতুবীর উদ্ধৃতিতে মাহদাবী এর ফল টেনে বলেন: নবী ﷺ যা আদেশ করেছেন, তা আল্লাহরই আদেশ। সা'দী এ অংশকে বলেন সর্বব্যাপী নীতি, যা দ্বীনের মূল ও শাখা, প্রকাশ্য ও গোপন সবকিছুকে শামিল করে। কোনো বিধানের ব্যাপারে রসূলের বক্তব্য আল্লাহর বক্তব্যের মতো, আর কারও কথাকে তাঁর কথার আগে রাখা চলে না। মুয়াসসার বলে, আয়াতটি কথা, কাজ বা মৌন সমর্থন, সব রূপে সুন্নাহর উপর আমল করার মূল ভিত্তি। ইবন কাসীর বলেন, তিনি কেবল কল্যাণেরই আদেশ দেন, আর কেবল অকল্যাণ থেকেই নিষেধ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read Between the Covers",
+          "bn": "দুই মলাটের মাঝে যা পড়া হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi, through his chain to al-Bukhari, and Ibn Kathir bring the report that made this clause a proof for following the Sunnah. In Sahih al-Bukhari (4886): Narrated Alqama: 'Abdullah (bin Masud) said, \"Allah curses those ladies who practice tattooing and those who get themselves tattooed, and those ladies who remove the hair from their faces and those who make artificial spaces between their teeth in order to look more beautiful whereby they change Allah's creation.\"",
+            "bn": "বাগাভী নিজের সনদে বুখারী পর্যন্ত পৌঁছে, আর ইবন কাসীরও, সেই বর্ণনাটি আনেন, যার কারণে এ অংশটি সুন্নাহ মানার স্থায়ী দলিল হয়ে উঠেছে। সহীহ বুখারীতে (৪৮৮৬) আলকামা বর্ণনা করেন, আবদুল্লাহ ইবন মাসউদ (রাঃ) বলেছেন: আল্লাহ লানত করেছেন সেই নারীদের, যারা উল্কি আঁকে আর যারা উল্কি আঁকিয়ে নেয়, যারা মুখের লোম তুলে ফেলে, আর যারা সৌন্দর্যের জন্য দাঁতের মাঝে ফাঁক তৈরি করে আল্লাহর সৃষ্টিতে বদল ঘটায়।"
+          },
+          {
+            "en": "\"His saying reached a lady from Bani Asd called Um Yaqub who came (to 'Abdullah) and said, 'I have come to know that you have cursed such-and-such (ladies)?' He replied, 'Why should I not curse these whom Allah's Messenger (ﷺ) has cursed and who are (cursed) in Allah's Book!' Um Yaqub said, 'I have read the whole Qur'an, but I did not find in it what you say.' He said, 'Verily, if you have read it (i.e. the Qur'an), you have found it.'\"",
+            "bn": "কথাটি বনু আসাদের উম্মু ইয়াকূব নামের এক নারীর কানে গেল। তিনি এসে বললেন, শুনলাম আপনি অমুক অমুক নারীদের লানত করেছেন? ইবন মাসউদ (রাঃ) বললেন, আল্লাহর রসূল ﷺ যাদের লানত করেছেন, আর আল্লাহর কিতাবে যাদের কথা আছে, আমি তাদের লানত করব না কেন? উম্মু ইয়াকূব বললেন, দুই মলাটের মাঝে যা আছে, সবটাই আমি পড়েছি, আপনি যা বলছেন তা কোথাও পাইনি। তিনি বললেন, তুমি যদি সত্যিই পড়ে থাকো, তবে নিশ্চয়ই তা পেয়েছ।"
+          },
+          {
+            "en": "\"Didn't you read: 'And whatsoever the Apostle gives you take it and whatsoever he forbids you, you abstain (from it)' (59:7)? She replied, 'Yes, I did.' He said, 'Verily, Allah's Messenger (ﷺ) forbade such things.' She said, 'But I see your wife doing these things?' He said, 'Go and watch her.' She went and watched her but could not see anything in support of her statement. On that he said, 'If my wife was as you thought, I would not keep her in my company.'\"",
+            "bn": "তুমি কি পড়োনি: রসূল তোমাদের যা দেন তা গ্রহণ করো, আর যা থেকে তোমাদের নিষেধ করেন তা থেকে বিরত থাকো (৫৯:৭)? তিনি বললেন, হ্যাঁ, পড়েছি। ইবন মাসউদ (রাঃ) বললেন, তিনি তো এ কাজ নিষেধ করেছেন। মহিলা বললেন, কিন্তু আপনার স্ত্রীকে তো আমি এসব করতে দেখি। তিনি বললেন, যাও, গিয়ে দেখে এসো। মহিলা গিয়ে দেখলেন, কিন্তু তাঁর কথার পক্ষে কিছুই পেলেন না। তখন ইবন মাসউদ (রাঃ) বললেন, আমার স্ত্রী যদি তেমন হতো, আমি তাকে নিয়ে ঘর করতাম না।"
+          },
+          {
+            "en": "Ibn Mas'ud did not claim that the details were written out in the mushaf. He pointed to the verse that sends its reader to the Messenger, and took the Prophet's prohibition as found in Allah's Book by way of that verse. Then he let the woman test his own house against his words. As al-Baghawi says of this clause, it came down about the fay', and it holds for everything the Prophet ﷺ commanded and forbade.",
+            "bn": "ইবন মাসউদ (রাঃ) দাবি করেননি যে খুঁটিনাটি সবকিছু মুসহাফে লেখা আছে। তিনি দেখিয়ে দিলেন সেই আয়াত, যা পাঠককে রসূলের কাছে পাঠিয়ে দেয়। আর নবী ﷺ-এর নিষেধকে তিনি এ আয়াতের পথ ধরেই আল্লাহর কিতাবে পাওয়া নিষেধ বলে গণ্য করলেন। তারপর নিজের ঘরকেই তিনি মহিলার যাচাইয়ের সামনে খুলে দিলেন, নিজের কথার সঙ্গে মিলিয়ে দেখতে। বাগাভী এ অংশ সম্পর্কে যেমন বলেন, আয়াতটি নাযিল হয়েছে ফায় নিয়ে, কিন্তু নবী ﷺ-এর সব আদেশ ও নিষেধে তা প্রযোজ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taqwa, and What Is Not Licensed",
+          "bn": "তাকওয়া, আর যার অনুমতি নেই"
+        },
+        "p": [
+          {
+            "en": "The verse closes: wa-ttaqu Allah, inna Allaha shadidu al-'iqab, and fear Allah; Allah is severe in penalty. At-Tabari reads the fear as caution against opposing His Messenger by overstepping what he forbade. Ibn Kathir: fear Him by doing what He commands and leaving what He restrains, for He is severe in penalty to whoever disobeys Him. Ma'arif ties it to the fay': whoever takes more than he was granted on a false pretext, Allah knows it.",
+            "bn": "আয়াত শেষ হয় এ কথায়: ওয়াত্তাকুল্লাহ, ইন্নাল্লাহা শাদীদুল ইকাব, আল্লাহকে ভয় করো, নিশ্চয়ই আল্লাহ শাস্তিদানে কঠোর। তাবারীর ব্যাখ্যায় এ ভয় হলো সতর্কতা, যাতে রসূলের নিষেধ ডিঙিয়ে তাঁর বিরোধিতা করা না হয়। ইবন কাসীর বলেন, তিনি যা আদেশ করেন তা পালন করে আর যা থেকে বিরত রাখেন তা ছেড়ে দিয়ে তাঁকে ভয় করো, কারণ যে তাঁর নাফরমানি করে, তার জন্য তিনি শাস্তিদানে কঠোর। মাআরিফুল কুরআন একে ফায়ের সঙ্গে জুড়ে দেয়: কেউ মিথ্যা অজুহাতে বরাদ্দের বেশি নিলে আল্লাহ তা জানেন।"
+          },
+          {
+            "en": "One thing needs saying plainly. The towns named by the commentators, Banu an-Nadir among them, belong to one set of events in Madinah, reported as the sources report them. The verse describes what it describes and licenses nothing against any living person or community. What it asks of its reader is near at hand: where his wealth goes, whom it never reaches, and whether he takes the Messenger's word when it withholds as readily as when it gives.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। তাফসীরকারেরা যে জনপদগুলোর নাম করেছেন, বনু নাদীরসহ, সেগুলো মদীনার একটি নির্দিষ্ট ঘটনাপ্রবাহের অংশ, সূত্রগুলো যেভাবে বর্ণনা করেছে সেভাবেই। আয়াত শুধু ততটুকুই বর্ণনা করে, যতটুকু সে বলে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। পাঠকের কাছে আয়াতের দাবি একেবারে কাছের: তার সম্পদ কোথায় যায়, কাদের কাছে কখনো পৌঁছায় না, আর রসূলের কথা যখন কিছু দেয় না বরং আটকে দেয়, তখনও কি সে তা একইভাবে মেনে নেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "59:9": {
     "sections": [
       {

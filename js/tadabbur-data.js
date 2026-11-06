@@ -28209,6 +28209,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Look past outward unity to the hearts: mend the quiet resentments in your own circle, and let the truth, not a shared opponent, be what holds you together.",
     "lessonBn": "বাইরের ঐক্য পেরিয়ে অন্তরের দিকে তাকান। নিজের মহলের চাপা ক্ষোভগুলো মিটিয়ে নিন, আর অভিন্ন প্রতিপক্ষ নয়, সত্যই যেন আপনাদের একসঙ্গে বেঁধে রাখে।"
+  },
+  "59:7": {
+    "reflectionEn": "Wealth reaches the Messenger from whole towns without a single horse spurred for it, and before anyone can ask whose it is, the verse names the hands it must reach: his kin, the orphan, the needy, the traveller cut off from home. Then it names the danger: that wealth should become something the rich pass among themselves. Then it turns from the purse to the person: what he gives you, take; what he forbids you, leave. The verse that keeps money moving also keeps the heart obedient. It is easy to read it about other people's fortunes. It is harder to ask where my own surplus goes, whom it never reaches, and whether I take his guidance as gladly when it withholds as when it gives.",
+    "reflectionBn": "গোটা জনপদের সম্পদ রসূলের হাতে এল, অথচ তার জন্য একটি ঘোড়াও ছোটাতে হয়নি। এ সম্পদ কার, সে প্রশ্ন ওঠার আগেই আয়াত বলে দেয় কোন কোন হাতে তা পৌঁছাতে হবে: তাঁর আত্মীয়, ইয়াতীম, মিসকীন, আর ঘর থেকে বিচ্ছিন্ন মুসাফির। তারপর আয়াত বিপদটার নাম নেয়: সম্পদ যেন ধনীদের নিজেদের মধ্যেই হাতবদল হতে না থাকে। এরপর কথা থলি থেকে মানুষের দিকে ফেরে: রসূল যা দেন, নিন; যা থেকে নিষেধ করেন, ছেড়ে দিন। যে আয়াত সম্পদকে চলমান রাখে, সেই আয়াতই অন্তরকে আনুগত্যে বেঁধে রাখে। অন্যদের ধনসম্পদ নিয়ে এ আয়াত পড়া সহজ। কঠিন হলো নিজেকে জিজ্ঞেস করা: আমার প্রয়োজনের বাড়তি অংশ কোথায় যায়, কাদের কাছে কখনো পৌঁছায় না? আর রসূলের নির্দেশনা যখন কিছু দেয় না, বরং আটকে দেয়, তখনও কি আমি তা একই খুশিমনে মেনে নিই?",
+    "pointsEn": [
+      "Where does what I have beyond my needs actually go, and does it ever leave the circle of people who are already comfortable?",
+      "When I give, do I choose the recipients by my own taste, or do I begin with those Allah names: the orphan, the needy, the stranded traveller?",
+      "Is there a teaching of the Messenger ﷺ that I welcome when it gives me something but argue with when it holds me back?",
+      "Have I ever waved away a clear prohibition because I could not find it spelled out in the Qur'an, without asking what the Qur'an tells me to take from him?",
+      "Is there a share I have quietly wished for that was never mine, when I could have been content with what I was given?"
+    ],
+    "pointsBn": [
+      "আমার প্রয়োজনের বাড়তি যা আছে, তা আসলে কোথায় যায়? যারা আগে থেকেই সচ্ছল, তাদের গণ্ডি পেরিয়ে কি তা কখনো বাইরে যায়?",
+      "দান করার সময় কাকে দেব, তা কি নিজের পছন্দমতো ঠিক করি? নাকি আল্লাহ যাদের নাম নিয়েছেন, সেই ইয়াতীম, মিসকীন আর পথে আটকে পড়া মুসাফির দিয়ে শুরু করি?",
+      "রসূল ﷺ-এর এমন কোনো শিক্ষা কি আছে, যা আমাকে কিছু দিলে সাদরে নিই, কিন্তু আমাকে থামিয়ে দিলে তর্ক জুড়ে দিই?",
+      "কুরআনে হুবহু লেখা পাইনি বলে কোনো স্পষ্ট নিষেধ কি কখনো উড়িয়ে দিয়েছি? অথচ কুরআন নিজেই তো বলে দিয়েছে, তাঁর কাছ থেকে যা আসে তা গ্রহণ করতে।",
+      "যে অংশ কখনো আমার ছিল না, মনে মনে কি তার আশা করে বসে আছি, অথচ যা পেয়েছি তাতেই সন্তুষ্ট থাকা যেত?"
+    ],
+    "lessonEn": "Let your wealth reach those Allah names instead of circling among the comfortable, and take what the Messenger ﷺ brings and leave what he forbids, gladly.",
+    "lessonBn": "আপনার সম্পদ যেন সচ্ছলদের মধ্যেই ঘুরপাক না খেয়ে আল্লাহ যাদের নাম নিয়েছেন তাদের কাছে পৌঁছায়। আর রসূল ﷺ যা আনেন খুশিমনে গ্রহণ করুন, যা নিষেধ করেন তা ছেড়ে দিন।"
   }
 };
 
