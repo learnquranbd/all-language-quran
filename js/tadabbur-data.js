@@ -28787,6 +28787,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The earth that gave you your beginning will hold you at death and give you back on the Day of Raising; walk on it as one who will be brought out.",
     "lessonBn": "যে মাটি থেকে আপনার শুরু, মৃত্যুর পর সে-ই আপনাকে ধরে রাখবে, আর পুনরুত্থানের দিন ফিরিয়ে দেবে; তাই এর উপর এমনভাবে চলুন, যেন একদিন এখান থেকে আপনাকে বের করে আনা হবে।"
+  },
+  "71:28": {
+    "reflectionEn": "The last words of Surah Nuh are a circle of forgiveness that keeps widening. Nuh (AS) begins with himself, then his parents, then whoever enters his house a believer, then every believing man and woman, and only at the very end does he name the wrongdoers. A messenger who had called his people for centuries still opens with forgive me. He does not hold up his long patience as a claim on his Lord. His circle also reaches people he would never meet, believers who came long after him. So the verse asks whom my own prayers actually reach. Do they begin with my need for pardon, and do they stretch past my family to strangers who share my faith?",
+    "reflectionBn": "সূরা নূহের শেষ কথাগুলো ক্ষমা চাওয়ার এক বৃত্ত, যা ক্রমেই বড় হতে থাকে। নূহ (আঃ) শুরু করেন নিজেকে দিয়ে, তারপর বাবা-মা, তারপর যে মু'মিন হয়ে তাঁর ঘরে ঢোকে, তারপর সব মু'মিন পুরুষ ও নারী। একেবারে শেষে গিয়ে তিনি যালিমদের কথা তোলেন। শত শত বছর ধরে কওমকে ডেকে যাওয়া একজন রাসূল তখনো শুরু করছেন 'আমাকে ক্ষমা করো' বলে। নিজের দীর্ঘ ধৈর্যকে তিনি রবের কাছে কোনো পাওনা হিসেবে তুলে ধরেন না। তাঁর দোয়ার বৃত্ত পৌঁছে যায় এমন মানুষদের কাছেও, যাদের সঙ্গে তাঁর কখনো দেখা হবে না, তাঁর অনেক পরে আসা মু'মিনদের কাছে। তাই আয়াতটি প্রশ্ন রাখে: আমার দোয়া আসলে কাদের কাছে পৌঁছায়? সেগুলো কি শুরু হয় নিজের ক্ষমার প্রয়োজন দিয়ে? সেগুলো কি পরিবারের সীমা পেরিয়ে এমন অচেনা মানুষদের কাছে যায়, যাদের সঙ্গে আমার মিল কেবল ঈমানে?",
+    "pointsEn": [
+      "When did I last begin a du'a by asking forgiveness for myself, before asking for anything else?",
+      "Do my parents, living or gone, have a fixed place in my prayers, or do they appear only when I remember?",
+      "Who enters my home, and would my home make it easier or harder for a guest to keep his faith?",
+      "Have I ever prayed by name for a believer I have never met, or for the believers of past generations?",
+      "When I am angry at people who wrong me, do my prayers still have more room for forgiveness than for ruin?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি কিছু চাওয়ার আগে নিজের জন্য ক্ষমা চেয়ে দোয়া শুরু করেছি?",
+      "আমার বাবা-মা, জীবিত হোন বা চলে গিয়ে থাকুন, আমার দোয়ায় কি তাঁদের নির্দিষ্ট জায়গা আছে, নাকি মনে পড়লে তবেই তাঁরা আসেন?",
+      "আমার ঘরে কারা আসে? আমার ঘরের পরিবেশ কি মেহমানের ঈমান ধরে রাখা সহজ করে, নাকি কঠিন?",
+      "এমন কোনো মু'মিনের জন্য কি কখনো দোয়া করেছি, যাকে আমি চিনি না, কিংবা আগের প্রজন্মের মু'মিনদের জন্য?",
+      "যারা আমার উপর অন্যায় করে, তাদের উপর রাগের সময়ও কি আমার দোয়ায় ধ্বংসের চেয়ে ক্ষমার জায়গা বেশি থাকে?"
+    ],
+    "lessonEn": "Begin your prayers by asking forgiveness for yourself, then widen them to your parents, your household and every believer, living and dead.",
+    "lessonBn": "দোয়া শুরু করুন নিজের ক্ষমা চেয়ে, তারপর তা ছড়িয়ে দিন বাবা-মা, ঘরের মানুষ আর জীবিত ও মৃত সব মু'মিনের দিকে।"
   }
 };
 

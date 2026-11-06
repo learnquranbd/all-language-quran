@@ -1022,5 +1022,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "71:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Surah Comes to Rest",
+          "bn": "যেখানে এসে সূরাটি থামে"
+        },
+        "p": [
+          {
+            "en": "Rabbi-ghfir li wa li-walidayya wa li-man dakhala baytiya mu'minan wa lil-mu'minina wal-mu'minat, wa la tazidi az-zalimina illa tabara: my Lord, forgive me and my parents and whoever enters my house a believer, and the believing men and the believing women, and do not increase the wrongdoers except in ruin. These fifteen Arabic words are the last verse of Surah Nuh. The surah opened in 71:1 with the command to warn his people before a painful punishment reached them. It closes on a prophet asking forgiveness.",
+            "bn": "রব্বিগফিরলী ওয়া লিওয়ালিদাইয়া ওয়া লিমান দাখালা বাইতিয়া মু'মিনান ওয়া লিলমু'মিনীনা ওয়াল মু'মিনাত, ওয়ালা তাযিদিয যালিমীনা ইল্লা তাবারা: হে আমার রব, আমাকে ক্ষমা করো, আমার বাবা-মাকে, যে মু'মিন হয়ে আমার ঘরে প্রবেশ করে তাকে, আর মু'মিন পুরুষ ও মু'মিন নারীদের। আর যালিমদের ধ্বংস ছাড়া আর কিছুই বাড়িয়ে দিও না। আরবিতে পনেরোটি শব্দ, আর এটিই সূরা নূহের শেষ আয়াত। সূরার শুরু ৭১:১ আয়াতে, কওমের উপর যন্ত্রণাদায়ক শাস্তি আসার আগেই তাদের সতর্ক করার হুকুম দিয়ে। আর শেষ হচ্ছে একজন নবীর ক্ষমা চাওয়ায়।"
+          },
+          {
+            "en": "At-Tabari, under the verses before, relays from Qatada how the passage moves. Nuh (AS) prayed against his people in 71:26 and 71:27, and then, in Qatada's words, he prayed a general prayer and said: and this verse follows. As-Sa'di reads the verse itself the same way. Nuh singled out those he named first because their right on him is more emphatic and dutifulness to them comes first, and then he made the prayer general. Ten of the fifteen words ask forgiveness; the last five ask for ruin. This article follows that order.",
+            "bn": "আগের আয়াতের আলোচনায় তাবারী কাতাদা থেকে বর্ণনা করেন, অংশটা কীভাবে এগোয়। ৭১:২৬ ও ৭১:২৭ আয়াতে নূহ (আঃ) তাঁর কওমের বিরুদ্ধে দোয়া করেন। কাতাদার ভাষায়, তারপর তিনি সবার জন্য এক সাধারণ দোয়া করলেন, আর সেটাই এই আয়াত। সা'দীও আয়াতটি একইভাবে পড়েন। প্রথমে যাঁদের নাম নিয়েছেন, নূহ (আঃ) তাঁদের আলাদা করে উল্লেখ করেছেন, কারণ তাঁর উপর তাঁদের হক বেশি জোরালো, আর তাঁদের সঙ্গে সদাচরণ সবার আগে। তারপর তিনি দোয়াকে সবার জন্য ছড়িয়ে দিয়েছেন। পনেরো শব্দের দশটিই ক্ষমা চাওয়া, শেষ পাঁচটি ধ্বংসের দোয়া। এই লেখাও সেই ক্রম ধরে এগোবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only After the Door Closed",
+          "bn": "দরজা বন্ধ হওয়ার পরেই"
+        },
+        "p": [
+          {
+            "en": "The prayer against them comes first, and the commentators fetched frame it with care. At-Tabari: it is mentioned that Nuh said this and made this prayer after his Lord revealed to him that none of your people will believe except those who have already believed, the words of 11:36. He then gives Qatada's report: by Allah, he did not pray against them until that revelation came from heaven. Al-Qurtubi says he prayed against them when he despaired of their following him, and gives Qatada's report as well.",
+            "bn": "কওমের বিরুদ্ধে দোয়াটা আগে এসেছে, আর যে তাফসীরগুলো দেখা হয়েছে সেগুলো এর পটভূমি সাবধানে বলে দেয়। তাবারী বলেন, বর্ণিত আছে যে নূহ (আঃ) এই কথা বলেছেন আর এই দোয়া করেছেন তখন, যখন তাঁর রব তাঁর কাছে ওহী পাঠালেন: তোমার কওমের যারা ঈমান এনেছে, তারা ছাড়া আর কেউ ঈমান আনবে না। এ হলো ১১:৩৬ আয়াতের কথা। এরপর তিনি কাতাদার বর্ণনা আনেন: আল্লাহর কসম, আসমান থেকে সেই ওহী না আসা পর্যন্ত তিনি তাদের বিরুদ্ধে দোয়া করেননি। কুরতুবী বলেন, কওম তাঁর অনুসরণ করবে, এ আশা যখন ফুরিয়ে গেল, তখনই তিনি তাদের বিরুদ্ধে দোয়া করলেন। কাতাদার বর্ণনাটিও তিনি উল্লেখ করেন।"
+          },
+          {
+            "en": "The Muyassar says the same in a single phrase: after his despair of his people. Ibn Kathir, on 71:27, says Nuh spoke from what he knew of them, having stayed among them a thousand years less fifty. And under this very verse at-Tabari relays from Mujahid that they used to beat Nuh until he fainted, and when he came round he would say: my Lord, forgive my people, for they do not know. On these reports he prayed for them through the beatings, and against them only once revelation had spoken.",
+            "bn": "মুয়াসসার একই কথা বলে এক বাক্যাংশে: কওমের ব্যাপারে নিরাশ হওয়ার পর। ইবন কাসীর ৭১:২৭ আয়াতের আলোচনায় বলেন, নূহ (আঃ) কথাটা বলেছেন তাদের সম্পর্কে নিজের জানা থেকে, কারণ তিনি তাদের মাঝে কাটিয়েছেন পঞ্চাশ কম এক হাজার বছর। আর এই আয়াতের নিচেই তাবারী মুজাহিদ থেকে বর্ণনা করেন: তারা নূহ (আঃ)-কে এমন মারত যে তিনি বেহুঁশ হয়ে যেতেন। হুঁশ ফিরলে তিনি বলতেন, হে আমার রব, আমার কওমকে ক্ষমা করো, ওরা জানে না। এসব বর্ণনা অনুযায়ী মার খেতে খেতেও তিনি তাদের জন্য দোয়া করে গেছেন। তাদের বিরুদ্ধে দোয়া করেছেন কেবল ওহী আসার পর।"
+          },
+          {
+            "en": "Al-Qurtubi also quotes Ibn al-'Arabi: a particular disbeliever whose end is not known is not to be prayed against, because his outcome is unknown to us, and with Allah it may be known as an end in felicity. The prayer of 71:26 rested, on these reports, on a revelation about one people that no one after him has received. This verse describes what Nuh (AS) asked concerning his own people, and it licenses no one today to pray it against any living person or community on that basis.",
+            "bn": "কুরতুবী ইবনুল আরাবীর কথাও উদ্ধৃত করেন: নির্দিষ্ট কোনো কাফির, যার শেষ পরিণতি জানা নেই, তার বিরুদ্ধে বদদোয়া করা যাবে না। কারণ তার পরিণাম আমাদের অজানা, আর আল্লাহর কাছে হয়তো জানা আছে যে তার শেষটা সৌভাগ্যের। এই বর্ণনাগুলো অনুযায়ী ৭১:২৬ আয়াতের দোয়ার ভিত্তি ছিল একটি নির্দিষ্ট কওম সম্পর্কে আসা ওহী, যা তাঁর পরে আর কেউ পায়নি। আয়াতটি শুধু বলছে, নূহ (আঃ) নিজের কওমের ব্যাপারে কী চেয়েছিলেন। এর ভিত্তিতে আজ কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এই দোয়া করার অনুমতি কেউ পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prophet Begins With Himself",
+          "bn": "নবী শুরু করেন নিজেকে দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Rabbi-ghfir li: my Lord, forgive me. Before his parents, before his household, before the believers, Nuh (AS) names himself. At-Tabari paraphrases the request as: my Lord, pardon me, and cover my sins and those of my parents. That is the commentator's gloss on the words of the prayer. None of the tafsirs fetched names any fault behind it, and this article does not supply one. What the verse shows is the posture of a servant before his Lord, kept by a messenger at the end of his mission.",
+            "bn": "রব্বিগফিরলী: হে আমার রব, আমাকে ক্ষমা করো। বাবা-মা, ঘরের মানুষ বা মু'মিনদের আগে নূহ (আঃ) নিজের নাম নেন। তাবারী দোয়াটির ব্যাখ্যা দেন এভাবে: হে আমার রব, আমাকে মাফ করো, আমার আর আমার বাবা-মায়ের গুনাহ ঢেকে রাখো। এটা দোয়ার শব্দের উপর তাফসীরকারের ব্যাখ্যা। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর পেছনে কোনো ভুলের কথা বলেনি, আর এই লেখাও তেমন কিছু জুড়ে দেবে না। আয়াতটি যা দেখায় তা হলো রবের সামনে একজন বান্দার ভঙ্গি, যা একজন রাসূল তাঁর দাওয়াতের একেবারে শেষেও ধরে রেখেছেন।"
+          },
+          {
+            "en": "The length of that mission is given by the Qur'an itself in 29:14: he remained among them a thousand years less fifty. A person could be forgiven for presenting such service as a claim. Nuh (AS) does the opposite. He asks first for what every servant needs, and only then for others. It is also the very thing he had urged on his people in 71:10, ask forgiveness of your Lord, for He is ever Much-Forgiving. The surah's last verse finds the caller doing what he called them to.",
+            "bn": "সেই দাওয়াত কত দীর্ঘ ছিল, তা কুরআন নিজেই বলেছে ২৯:১৪ আয়াতে: তিনি তাদের মাঝে ছিলেন পঞ্চাশ কম এক হাজার বছর। এত দীর্ঘ খেদমতকে কেউ যদি রবের কাছে নিজের পাওনা হিসেবে তুলে ধরত, মানুষ হয়তো তাকে দোষ দিত না। নূহ (আঃ) করেন ঠিক উল্টোটা। প্রত্যেক বান্দার যা দরকার, আগে তিনি সেটাই চান, তারপর অন্যদের জন্য। আর ৭১:১০ আয়াতে নিজের কওমকে তিনি এই কাজেরই তাগিদ দিয়েছিলেন: তোমাদের রবের কাছে ক্ষমা চাও, তিনি অতিশয় ক্ষমাশীল। সূরার শেষ আয়াতে দেখা যায়, যিনি ডাকছিলেন, তিনি নিজেও সেই কাজটাই করছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Parents Who Believed",
+          "bn": "ঈমানদার বাবা-মা"
+        },
+        "p": [
+          {
+            "en": "Wa li-walidayya: and my parents. Al-Qurtubi says it plainly: he prayed for himself and his parents, and both were believers. He names them Lamk ibn Mattushalakh and Shamkha bint Anush, citing al-Qushayri and ath-Tha'labi, and records from al-Mawardi another name for the mother. Al-Baghawi also says both were believers and gives the father the same name, but names the mother differently and adds a further view in brackets. The sources vary on the names; on the parents' faith, the two who speak to it agree.",
+            "bn": "ওয়া লিওয়ালিদাইয়া: আর আমার বাবা-মাকে। কুরতুবী সোজাসুজি বলেন, তিনি নিজের জন্য আর বাবা-মায়ের জন্য দোয়া করেছেন, আর তাঁরা দুজনই ছিলেন মু'মিন। কুশাইরী ও সা'লাবীর বরাতে তিনি তাঁদের নাম দেন লামক ইবন মাতূশালাখ আর শামখা বিনতে আনূশ, আর মাওয়ার্দী থেকে মায়ের আরেকটি নাম উল্লেখ করেন। বাগাভীও বলেন, দুজনই মু'মিন ছিলেন। বাবার নাম তিনি একই দেন, কিন্তু মায়ের নাম দেন ভিন্ন, আর বন্ধনীর মধ্যে আরেকটি মতও যোগ করেন। নাম নিয়ে সূত্রগুলোর মধ্যে ভিন্নতা আছে। কিন্তু বাবা-মায়ের ঈমানের প্রশ্নে যে দুজন কথা বলেছেন, তাঁরা একমত।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more. Ibn 'Abbas: no father of Nuh between him and Adam disbelieved. Al-Kalbi: there were ten fathers between him and Adam, all of them believers. Sa'id ibn Jubayr took a narrower view, that he meant his father and his grandfather, and he read li-walidi, in the singular. Ibrahim (AS) makes a similar request in 14:41, where the commentators had to explain a father who opposed him; the article on 14:40 and 14:41 takes that up. In the sources fetched here, no such question arises.",
+            "bn": "কুরতুবী আরও কিছু মত জড়ো করেন। ইবন আব্বাস (রাঃ): নূহ (আঃ) আর আদম (আঃ)-এর মাঝে নূহের কোনো পূর্বপুরুষ কাফির ছিলেন না। কালবী: তাঁর আর আদম (আঃ)-এর মাঝে ১০ জন পূর্বপুরুষ, সবাই মু'মিন। সাঈদ ইবন জুবাইরের মত আরেকটু সংকীর্ণ: এখানে বাবা আর দাদাকে বোঝানো হয়েছে। তিনি শব্দটি একবচনে পড়তেন, লিওয়ালিদী। ১৪:৪১ আয়াতে ইবরাহীম (আঃ)-ও প্রায় একই দোয়া করেছেন। সেখানে তাফসীরকারদের ব্যাখ্যা করতে হয়েছে এমন এক বাবার কথা, যিনি তাঁর বিরোধিতা করেছিলেন। ১৪:৪০ ও ১৪:৪১ আয়াতের লেখায় সে আলোচনা আছে। এখানে যে সূত্রগুলো দেখা হয়েছে, তাতে এমন কোনো প্রশ্ন ওঠে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mosque, Home, Faith or Ark",
+          "bn": "মসজিদ, ঘর, দ্বীন, না নৌকা"
+        },
+        "p": [
+          {
+            "en": "Wa li-man dakhala baytiya mu'minan: and whoever enters my house a believer. Which house? Ad-Dahhak said: my mosque. At-Tabari relays it by two chains, and Ibn Kathir and al-Qurtubi report it; al-Baghawi gives it from ad-Dahhak and al-Kalbi. At-Tabari adopts it: whoever enters my mosque and my place of prayer, praying, a believer, affirming what You have made obligatory on him. Al-Qurtubi gives the same reading from Ibn 'Abbas too, and a reason: only those who believed used to enter the houses of the prophets, so he made the mosque a ground for the prayer of forgiveness.",
+            "bn": "ওয়া লিমান দাখালা বাইতিয়া মু'মিনান: আর যে মু'মিন হয়ে আমার ঘরে প্রবেশ করে। কোন ঘর? দাহহাক বলেছেন: আমার মসজিদ। তাবারী কথাটি দুটি সনদে বর্ণনা করেন, ইবন কাসীর ও কুরতুবীও তা উল্লেখ করেন, আর বাগাভী এটি আনেন দাহহাক ও কালবী থেকে। তাবারী নিজে এ মতই গ্রহণ করেন: যে আমার মসজিদে, আমার নামাযের জায়গায় নামাযি হয়ে প্রবেশ করে, মু'মিন হয়ে, তোমার ফরয করা বিধানকে সত্য মেনে। কুরতুবী একই ব্যাখ্যা ইবন আব্বাস (রাঃ) থেকেও আনেন, সঙ্গে একটি কারণও দেন: নবীদের ঘরে কেবল ঈমানদাররাই ঢুকত। তাই তিনি মসজিদকেই ক্ষমার দোয়ার উপলক্ষ বানিয়েছেন।"
+          },
+          {
+            "en": "Other readings sit beside it. Ibn Kathir sees no objection to the plain sense: Nuh (AS) prayed for every believer who entered his dwelling, and al-Baghawi's first gloss is simply my home. Al-Qurtubi gathers more, also from Ibn 'Abbas: my religion, with bayt meaning din, reported by al-Qushayri and said by Juwaybir; and my friend who enters my dwelling, reported by al-Mawardi. Under it is said he adds my house, and my ship, and al-Baghawi records the ship as well. At-Tabari settles on the mosque, Ibn Kathir allows the plain sense beside it, and al-Qurtubi lists the rest without ranking them.",
+            "bn": "এর পাশে আরও কিছু ব্যাখ্যা আছে। ইবন কাসীর বলেন, শব্দটিকে বাহ্যিক অর্থে নিতে কোনো বাধা নেই: নূহ (আঃ) দোয়া করেছেন তাঁর বাসায় ঢোকা প্রত্যেক মু'মিনের জন্য। বাগাভীর প্রথম ব্যাখ্যাও সোজা: আমার বাড়ি। কুরতুবী আরও কয়েকটি মত জড়ো করেন, সেগুলোও ইবন আব্বাস (রাঃ) থেকে। একটি হলো আমার দ্বীন, অর্থাৎ এখানে ঘর মানে দ্বীন। এটি কুশাইরী বর্ণনা করেছেন, আর জুওয়াইবিরের মতও এটাই। আরেকটি হলো আমার বাসায় আসা আমার বন্ধু, মাওয়ার্দীর বর্ণনায়। 'বলা হয়' কথাটি দিয়ে তিনি আরও আনেন: আমার বাড়ি, আর আমার নৌকা। বাগাভীও নৌকার মতটি উল্লেখ করেন। তাবারী মসজিদের মতটিই নেন, ইবন কাসীর তার পাশে বাহ্যিক অর্থকেও জায়গা দেন, আর কুরতুবী বাকি মতগুলো কোনো ক্রম না করে পাশাপাশি রাখেন।"
+          },
+          {
+            "en": "Whichever house is meant, the verse attaches one condition: mu'minan, as a believer. Crossing the threshold is not what earns the prayer; entering with faith is. Read as a mosque, it covers those who come to pray. Read as a home, it covers family and guests who share the faith. Read as the ark, it covers those who boarded with him. Each reading asks the reader the same thing: who enters the places I keep, and what do they find there?",
+            "bn": "যে ঘরই হোক, আয়াত একটি শর্ত জুড়ে দিয়েছে: মু'মিনান, মু'মিন হয়ে। শুধু চৌকাঠ পার হলেই এ দোয়ায় শামিল হওয়া যায় না, ঈমান নিয়ে ঢুকতে হয়। মসজিদ অর্থে পড়লে এর মধ্যে আসে যারা নামায পড়তে আসে। ঘর অর্থে পড়লে আসে পরিবার আর এমন মেহমান, যারা একই ঈমানের। নৌকা অর্থে পড়লে আসে যারা তাঁর সঙ্গে নৌকায় উঠেছিল। প্রতিটি অর্থই পাঠককে একই প্রশ্ন করে: আমার জায়গাগুলোতে কারা আসে, আর এসে তারা কী পায়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Narrations at the Threshold",
+          "bn": "চৌকাঠের পাশে দুটি হাদীস"
+        },
+        "p": [
+          {
+            "en": "Beside the plain reading of house, Ibn Kathir cites a hadith of Abu Sa'id al-Khudri (RA). At-Tirmidhi's wording (2395): the Messenger of Allah ﷺ said, do not keep company except with a believer, and let no one eat your food except one who is God-fearing. At-Tirmidhi grades it hasan and adds that it is known only by this route. Ibn Kathir also names Ahmad, and Abu Dawud has it at 4832. It is a general narration about the company one keeps, not a report about this verse.",
+            "bn": "ঘরের বাহ্যিক অর্থের পাশে ইবন কাসীর আবূ সাঈদ খুদরী (রাঃ)-এর একটি হাদীস আনেন। তিরমিযীর ভাষ্যে (২৩৯৫): রাসূলুল্লাহ ﷺ বলেছেন, মু'মিন ছাড়া কাউকে সঙ্গী বানিও না, আর মুত্তাকী ছাড়া কেউ যেন তোমার খাবার না খায়। তিরমিযী হাদীসটিকে হাসান বলেছেন, আর যোগ করেছেন যে এটি কেবল এই সূত্রেই জানা যায়। ইবন কাসীর আহমাদের নামও নেন, আর আবূ দাঊদে এটি আছে ৪৮৩২ নম্বরে। এটি কার সঙ্গে চলাফেরা করা হবে সে বিষয়ে একটি সাধারণ হাদীস, এই আয়াত সম্পর্কে কোনো বর্ণনা নয়।"
+          },
+          {
+            "en": "Beside the mosque reading, al-Qurtubi recalls the angels' prayer for a worshipper who stays where he prayed. Al-Bukhari's wording (445), from Abu Hurayra (RA): the Messenger of Allah ﷺ said, the angels pray for any of you as long as he is in the place where he prayed, so long as he does not break his ablution, saying: O Allah, forgive him; O Allah, have mercy on him. This too is general and not about the verse. No tafsir fetched attaches a sound hadith, or an occasion of revelation, to 71:28 itself.",
+            "bn": "মসজিদের অর্থের পাশে কুরতুবী সেই হাদীসের কথা মনে করিয়ে দেন, যেখানে নামাযের জায়গায় বসে থাকা ব্যক্তির জন্য ফেরেশতাদের দোয়ার কথা আছে। বুখারীর ভাষ্যে (৪৪৫), আবূ হুরাইরা (রাঃ) থেকে: রাসূলুল্লাহ ﷺ বলেছেন, তোমাদের কেউ যতক্ষণ যে জায়গায় নামায পড়েছে সেখানে থাকে, আর তার ওযু না ভাঙে, ততক্ষণ ফেরেশতারা তার জন্য দোয়া করতে থাকে। তারা বলে: হে আল্লাহ, তাকে ক্ষমা করো; হে আল্লাহ, তার উপর রহম করো। এটিও সাধারণ হাদীস, এই আয়াত নিয়ে নয়। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই ৭১:২৮ আয়াতের সঙ্গে সরাসরি যুক্ত কোনো সহীহ হাদীস বা শানে নুযূল উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living and Dead Alike",
+          "bn": "জীবিত ও মৃত, সবার জন্য"
+        },
+        "p": [
+          {
+            "en": "Wa lil-mu'minina wal-mu'minat: and the believing men and the believing women. At-Tabari: those who affirm Your oneness, men and women. Al-Baghawi: it is general, covering everyone who believed in Allah and affirmed the messengers. Ibn Kathir: a prayer for all the believing men and women, which includes the living among them and the dead. For this reason, he says, it is recommended to pray like this, following the example of Nuh (AS) and what has come in the narrations and the well-known prescribed supplications.",
+            "bn": "ওয়া লিলমু'মিনীনা ওয়াল মু'মিনাত: আর মু'মিন পুরুষ ও মু'মিন নারীদের। তাবারী: যারা তোমার তাওহীদকে সত্য বলে মেনেছে, পুরুষ ও নারী। বাগাভী: কথাটি সাধারণ, আল্লাহর উপর ঈমান এনেছে আর রাসূলদের সত্য মেনেছে এমন প্রত্যেকের জন্য। ইবন কাসীর: এ দোয়া সব মু'মিন পুরুষ ও নারীর জন্য, জীবিত-মৃত সবাই এর মধ্যে পড়ে। তিনি বলেন, এ কারণেই এভাবে দোয়া করা মুস্তাহাব, নূহ (আঃ)-এর অনুসরণে, আর হাদীস-আসারে যা এসেছে এবং প্রচলিত শরীয়তসম্মত দোয়াগুলোর অনুসরণে।"
+          },
+          {
+            "en": "How far does the circle reach? Al-Qurtubi gives three answers. Ad-Dahhak: it is general, to the Day of Resurrection. Al-Kalbi: the believers of the community of Muhammad ﷺ. And under it is said: the believers of his own people. Al-Qurtubi calls the first the more apparent. On the first two readings, a prophet of the earliest generations prayed for people he would never see, and the believers reading this verse today are among those he named. The verse also names the women separately, so none of them is left to inference.",
+            "bn": "বৃত্তটা কতদূর পৌঁছায়? কুরতুবী তিনটি উত্তর দেন। দাহহাক: কথাটি সাধারণ, কিয়ামত পর্যন্ত সবার জন্য। কালবী: মুহাম্মাদ ﷺ-এর উম্মতের মু'মিনরা। আর 'বলা হয়' দিয়ে আরেকটি মত: তাঁর নিজের কওমের মু'মিনরা। কুরতুবী প্রথম মতটিকে বেশি স্পষ্ট বলেছেন। প্রথম দুটি মত অনুযায়ী, একেবারে প্রথম যুগের একজন নবী এমন মানুষদের জন্য দোয়া করেছেন, যাদের তিনি কখনো দেখবেন না। আজ যে মু'মিনরা আয়াতটি পড়ছেন, তাঁরাও তাঁর দোয়ায় আছেন। আয়াতটি নারীদের কথাও আলাদা করে বলেছে, তাই তাঁদের কাউকেই অনুমানের উপর ছেড়ে দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tabar, the Surah's Last Word",
+          "bn": "তাবার, সূরার শেষ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa la tazidi az-zalimina illa tabara: and do not increase the wrongdoers except in tabar. As-Suddi glosses it as destruction; Mujahid as loss, which at-Tabari relays by chain, and Ibn Kathir adds: in this world and the next. At-Tabari's own gloss: do not increase those who wronged themselves by their disbelief except in loss. As-Sa'di gathers three words: loss, ruin, destruction. Al-Qurtubi defines tabar as destruction, notes that as-Suddi gave both senses, and links it to 7:139, where what a people are engaged in is mutabbar, doomed to ruin.",
+            "bn": "ওয়ালা তাযিদিয যালিমীনা ইল্লা তাবারা: আর যালিমদের তাবার ছাড়া আর কিছু বাড়িয়ে দিও না। সুদ্দী এর অর্থ করেন ধ্বংস, মুজাহিদ করেন ক্ষতি। মুজাহিদের কথাটি তাবারী সনদসহ বর্ণনা করেন, আর ইবন কাসীর যোগ করেন: দুনিয়া ও আখিরাত দুই জায়গাতেই। তাবারীর নিজের ব্যাখ্যা: কুফরির মাধ্যমে যারা নিজেদের উপর যুলম করেছে, তাদের ক্ষতি ছাড়া আর কিছু বাড়িয়ে দিও না। সা'দী তিনটি শব্দ একসঙ্গে আনেন: ক্ষতি, বরবাদি, ধ্বংস। কুরতুবী তাবারের অর্থ বলেন ধ্বংস, জানান যে সুদ্দী দুটি অর্থই বলেছেন, আর এর সঙ্গে মিলিয়ে দেখান ৭:১৩৯ আয়াত, যেখানে এক কওম যে কাজে লিপ্ত, তাকে বলা হয়েছে মুতাব্বার, ধ্বংস হতে চলা।"
+          },
+          {
+            "en": "Who are the wrongdoers here? Al-Qurtubi says the disbelievers, so the request is general to every disbeliever and polytheist; then, under it is said, that he meant the polytheists of his own people. The Muyassar puts the disbelievers in its paraphrase, and al-Baghawi adds that Allah answered the prayer and destroyed them. The line echoes 71:24, where Nuh (AS) asked that the wrongdoers be increased only in straying. Here, as the surah ends, the word is ruin, and 71:25 has already told how it came.",
+            "bn": "এখানে যালিম কারা? কুরতুবী বলেন, কাফিররা, তাই দোয়াটি সব কাফির ও মুশরিকের ক্ষেত্রে সাধারণ। তারপর 'বলা হয়' দিয়ে আনেন আরেকটি মত: তিনি নিজের কওমের মুশরিকদের বুঝিয়েছেন। মুয়াসসার তার ব্যাখ্যায় কাফিরদের কথা বলে, আর বাগাভী যোগ করেন, আল্লাহ তাঁর দোয়া কবুল করেছেন আর তাদের ধ্বংস করেছেন। এ লাইনটি ৭১:২৪ আয়াতের প্রতিধ্বনি, যেখানে নূহ (আঃ) চেয়েছিলেন, যালিমদের যেন শুধু গোমরাহিই বাড়ে। এখানে, সূরার শেষে, শব্দটি ধ্বংস, আর তা কীভাবে এসেছিল, ৭১:২৫ আয়াত আগেই বলে দিয়েছে।"
+          },
+          {
+            "en": "The last five words stay Nuh's words about the people he had warned, answered in the flood. As said above, they give no one a warrant against anyone living. The ten words before them are open to every reader, and Ibn Kathir recommends praying them: forgiveness for oneself, for one's parents, for whoever enters one's house in faith, and for every believing man and woman. A surah of rejection ends on a prayer that gives most of its words to forgiveness.",
+            "bn": "শেষ পাঁচটি শব্দ নূহ (আঃ)-এর নিজের কথা, যাদের তিনি সতর্ক করেছিলেন সেই কওম সম্পর্কে, আর তার জবাব এসেছিল প্লাবনে। আগেই বলা হয়েছে, এ থেকে কোনো জীবিত মানুষের বিরুদ্ধে কেউ কোনো ছাড়পত্র পায় না। তার আগের দশটি শব্দ প্রত্যেক পাঠকের জন্য খোলা, আর ইবন কাসীর এভাবে দোয়া করাকে মুস্তাহাব বলেছেন: নিজের জন্য ক্ষমা, বাবা-মায়ের জন্য, ঈমান নিয়ে যে ঘরে ঢোকে তার জন্য, আর প্রত্যেক মু'মিন পুরুষ ও নারীর জন্য। প্রত্যাখ্যানের কাহিনিতে ভরা একটি সূরা শেষ হয় এমন এক দোয়ায়, যার বেশির ভাগ শব্দই ক্ষমা চাওয়া।"
+          }
+        ]
+      }
+    ]
   }
 });
