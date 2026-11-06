@@ -2663,6 +2663,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Prayer Mat to Purse",
+          "bn": "জায়নামাজ থেকে টাকার থলি"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina idha anfaqu lam yusrifu wa lam yaqturu wa kana bayna dhalika qawama: and those who, when they spend, are neither extravagant nor tight, and their spending is, between that, a level stand. Arabic has 11 words here. The verses just before it showed the servants of the Most Merciful at night, standing and prostrating, then pleading to be spared a punishment that clings. Now the portrait moves from the prayer mat to the purse. Ma'arif al-Qur'an, counting their traits, heads this verse 'The Sixth Characteristic'.",
+            "bn": "ওয়াল্লাযীনা ইযা আনফাকূ লাম ইউসরিফূ ওয়া লাম ইয়াকতুরূ ওয়া কানা বাইনা যালিকা কাওয়ামা: আর যারা খরচ করার সময় অপব্যয় করে না, কৃপণতাও করে না, বরং তাদের খরচ থাকে এ দুইয়ের মাঝে, সোজা ও ভারসাম্যপূর্ণ। আরবিতে মাত্র ১১টি শব্দ। ঠিক আগের আয়াতগুলোতে রহমানের বান্দাদের দেখা গেছে রাতের বেলা, কখনো দাঁড়িয়ে, কখনো সিজদায়। তারপর তারা দোয়া করেছে এমন শাস্তি থেকে রেহাই চেয়ে, যা আঁকড়ে ধরে থাকে। এবার ছবিটা জায়নামাজ ছেড়ে চলে আসে টাকার থলিতে। মাআরিফুল কুরআন তাদের গুণগুলো গুনে গুনে এ আয়াতের শিরোনাম দিয়েছে ‘ষষ্ঠ বৈশিষ্ট্য’।"
+          },
+          {
+            "en": "The Muyassar gives the plain line: when they spend from their wealth, they do not pass the limit in giving and do not narrow in spending, and their spending is a middle between squandering and constriction. As-Sa'di widens what anfaqu covers, naming both the spending that is obligatory and the spending that is recommended. The verse itself names no amount and no object. The commentators' work, as the next sections show, is to say what israf and iqtar actually are, and on that they did not agree.",
+            "bn": "মুয়াসসার সহজ কথায় অর্থ বলে দেয়: নিজেদের সম্পদ থেকে খরচ করার সময় তারা দানে সীমা ছাড়ায় না, খরচে টানাটানিও করে না। তাদের ব্যয় থাকে অপচয় আর সংকীর্ণতার মাঝামাঝি। সা'দী আনফাকূ শব্দের পরিধি বাড়িয়ে দেন। তাঁর মতে এর ভেতরে আছে ফরজ খরচ, আছে মুস্তাহাব খরচও। আয়াত নিজে কোনো অঙ্ক বলেনি, কোন খাতে খরচ তাও বলেনি। মুফাসসিরদের কাজ তাই ইসরাফ আর ইকতার আসলে কী, সেটা খুলে বলা। পরের অংশগুলোতে দেখা যাবে, এ প্রশ্নে তাঁরা একমত হননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where It Goes, Not How Much",
+          "bn": "কত নয়, কোথায় যায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying that the people of interpretation differed over which spending Allah meant here, and over what israf and iqtar in it are. The first group held that israf is any spending in disobedience to Allah, however small, and that this is what Allah meant and named israf; iqtar is withholding the right of Allah. He gives it from Ibn 'Abbas, through 'Ali ibn Abi Talha: these are the believers, who do not overspend by spending in disobedience to Allah, and do not hold back by withholding His rights.",
+            "bn": "তাবারী শুরুতেই জানান, আয়াতের ব্যাখ্যাকারেরা দুটি বিষয়ে ভিন্নমত করেছেন। এখানে আল্লাহ কোন খরচের কথা বলছেন, আর সেই খরচে ইসরাফ ও ইকতার কী। প্রথম দলের মতে ইসরাফ হলো আল্লাহর নাফরমানিতে করা যেকোনো খরচ, তা যত অল্পই হোক। আল্লাহ এটাকেই বুঝিয়েছেন এবং এরই নাম দিয়েছেন ইসরাফ। আর ইকতার হলো আল্লাহর হক আটকে রাখা। তাবারী এ মত বর্ণনা করেন ইবনে আব্বাস (রাঃ) থেকে, আলী ইবনে আবী তালহার সূত্রে: এরা মুমিন। এরা আল্লাহর নাফরমানিতে খরচ করে অপব্যয় করে না, আবার আল্লাহর হকগুলো আটকে রেখে কৃপণতাও করে না।"
+          },
+          {
+            "en": "Mujahid puts the same rule in a picture that at-Tabari preserves: if you spent the bulk of Abu Qubays in gold in obedience to Allah, it would not be saraf, and if you spent a single sa' in disobedience to Allah, it would be. Ibn Jurayj speaks of spending on what they were forbidden, even a single dirham. Ibn Zayd states the matching rule for the other side: whatever is held back from obedience to Allah, even if it is much, is iqtar. 'Umar, the freedman of Ghufra, asked what israf is, answered that it is everything spent outside obedience to Allah.",
+            "bn": "মুজাহিদ একই কথা বলেছেন একটা ছবি এঁকে, যা তাবারী সংরক্ষণ করেছেন: আবু কুবাইসের সমান সোনাও যদি আল্লাহর আনুগত্যে খরচ করো, তা অপচয় নয়। আর আল্লাহর নাফরমানিতে এক সা' খরচ করলেও তা অপচয়। ইবনে জুরাইজ বলেন নিষিদ্ধ খাতে খরচের কথা, হোক তা মাত্র এক দিরহাম। ইবনে যায়দ অন্য দিকের নিয়মটাও বলে দেন: আল্লাহর আনুগত্য থেকে যা আটকে রাখা হয়, তা অনেক বেশি হলেও ইকতার। গুফরার আযাদকৃত গোলাম উমরকে জিজ্ঞেস করা হয়েছিল ইসরাফ কী। তিনি বলেন, আল্লাহর আনুগত্যের বাইরে যা কিছু খরচ করেছ, সবই অপচয়।"
+          },
+          {
+            "en": "Al-Baghawi lists this view under Ibn 'Abbas, Mujahid, Qatada and Ibn Jurayj, and adds al-Hasan's wording: they did not spend in sins against Allah and did not hold back from what He made obligatory. Al-Qurtubi reports that an-Nahhas counted it among the best things said on the verse: spending outside obedience to Allah is israf, holding back from obedience is iqtar, and spending in obedience is qawam. His version from Ibn 'Abbas sets the scale plainly: a hundred thousand spent in a right is not saraf, a single dirham spent outside its right is.",
+            "bn": "বাগাভী এ মতটি ইবনে আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও ইবনে জুরাইজের নামে উল্লেখ করেন। সঙ্গে যোগ করেন হাসানের কথা: তারা আল্লাহর নাফরমানির কাজে খরচ করেনি, আবার আল্লাহর ফরজ করা খাত থেকে হাতও গুটিয়ে নেয়নি। কুরতুবী জানান, নাহহাস এ ব্যাখ্যাকে আয়াতের সবচেয়ে সুন্দর ব্যাখ্যাগুলোর একটি মনে করতেন। আনুগত্যের বাইরে খরচ ইসরাফ, আনুগত্য থেকে হাত গুটানো ইকতার, আর আনুগত্যে খরচই কাওয়াম। কুরতুবীর বর্ণনায় ইবনে আব্বাস (রাঃ) মাপকাঠিটা সোজা করে দেন: ন্যায্য খাতে এক লাখ খরচও অপচয় নয়। অন্যায্য খাতে এক দিরহামও অপচয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Much of a Lawful Thing",
+          "bn": "হালালেও মাত্রা ছাড়ানো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's second group defines the words by measure rather than by destination: saraf is passing the limit in spending, and iqtar is falling short of what cannot be done without. He gives it from Ibrahim, whom al-Qurtubi names as Ibrahim an-Nakha'i: he does not let them go hungry, does not leave them unclothed, and does not spend in a way that makes people say he has been extravagant. Al-Baghawi states the view as overstepping the limit in spending until it enters tabdhir, squandering, and calls Ibrahim's words its meaning.",
+            "bn": "তাবারীর দ্বিতীয় দলটি শব্দ দুটির সংজ্ঞা দেয় খাত দিয়ে নয়, মাত্রা দিয়ে। তাদের মতে খরচে সীমা ছাড়ানোই অপচয়, আর যা ছাড়া চলে না তাতে কমতি করাই ইকতার। তাবারী এটি বর্ণনা করেন ইবরাহীম থেকে, কুরতুবী যাঁর পুরো নাম বলেন ইবরাহীম নাখাঈ। তিনি বলেন: সে তাদের অভুক্ত রাখে না, বস্ত্রহীন রাখে না, আবার এমনভাবে খরচও করে না যে লোকে বলবে, লোকটা অপচয় করেছে। বাগাভী মতটি তুলে ধরেন এভাবে: খরচে সীমা এতটা ছাড়ানো যে তা তাবযীর বা অপচয়ের ঘরে ঢুকে পড়ে। আর ইবরাহীমের কথাকে তিনি এ মতেরই অর্থ বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse this way and makes the family explicit. They are not squanderers who spend beyond need, nor misers towards their households who fall short of their right and do not give them enough; they are fair and choice, and the best of matters is the middle, neither this nor that. As-Sa'di keeps both halves in view. Israf is going beyond the limit so as to enter squandering and the neglect of obligatory rights; qatr is entering the door of bukhl and shuhh, stinginess and avarice.",
+            "bn": "ইবনে কাসীর আয়াতটি এভাবেই পড়েন, আর পরিবারের কথাটা স্পষ্ট করে দেন। তারা অপচয়কারী নয় যে প্রয়োজনের বেশি খরচ করবে। আবার পরিবারের প্রতি কৃপণও নয় যে তাদের হকে কমতি করবে, তাদের প্রয়োজন মেটাবে না। তারা ন্যায়ের উপর, উত্তম পথে। কাজের মধ্যে সেরা হলো মাঝামাঝিটা, এদিকেও নয়, ওদিকেও নয়। সা'দী দুই দিকই চোখের সামনে রাখেন। ইসরাফ হলো সীমা এতটা ছাড়ানো যে মানুষ অপচয়ে ঢুকে পড়ে, ফরজ হকগুলো অবহেলায় পড়ে থাকে। আর কাতর হলো বুখল ও শুহের দরজায় ঢোকা, অর্থাৎ কৃপণতা ও লোভী হাতটানে।"
+          },
+          {
+            "en": "A third view in at-Tabari is narrower still. 'Awn ibn 'Abdillah ibn 'Utba said that the musrif is not the one who consumes his own wealth; the musrif is the one who consumes the wealth of someone else. At-Tabari files it under those who said israf is consuming another's wealth without right. Al-Qurtubi relays Ibn 'Atiyya's verdict on this reading and others like it: they are not tied to the verse. His reason is the subject of the next section.",
+            "bn": "তাবারীর বর্ণনায় তৃতীয় একটি মত আছে, যা আরও সংকীর্ণ। আওন ইবনে আবদিল্লাহ ইবনে উতবা বলেন, নিজের সম্পদ যে খায় সে মুসরিফ নয়। মুসরিফ সে, যে অন্যের সম্পদ খায়। তাবারী এ কথাটি রেখেছেন তাদের মতের অধীনে, যারা বলেছে অন্যের সম্পদ অন্যায়ভাবে খাওয়াই ইসরাফ। কুরতুবী এ ব্যাখ্যা ও এ ধরনের অন্য ব্যাখ্যা সম্পর্কে ইবনে আতিয়্যার রায় তুলে ধরেন: আয়াতের সঙ্গে এগুলোর যোগ নেই। কেন নেই, সে যুক্তি আসছে পরের অংশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Definitions Set Side by Side",
+          "bn": "দুই সংজ্ঞা পাশাপাশি"
+        },
+        "p": [
+          {
+            "en": "Ibn 'Atiyya's argument, as al-Qurtubi gives it, runs like this. Spending in disobedience is something the Shari'a has forbidden in little and in much, and so is encroaching on another's wealth; the people this verse describes are already clear of both. The discipline of the verse lies in spending on acts of obedience and on permitted things. A person should not overdo it until another right or his dependents are lost, nor tighten until his dependents go hungry and he goes too far in avarice. The good here is qawam, which he glosses as justice.",
+            "bn": "কুরতুবী ইবনে আতিয়্যার যুক্তিটা তুলে ধরেন এভাবে। নাফরমানির খাতে খরচ শরীয়ত নিষেধ করেছে, অল্প হোক বা বেশি। অন্যের সম্পদে হাত দেওয়াও নিষিদ্ধ। এ আয়াত যাদের ছবি আঁকছে, তারা আগে থেকেই এ দুটো থেকে মুক্ত। আয়াতের শিক্ষাটা তাই আনুগত্যের কাজে আর বৈধ বিষয়ে খরচের ক্ষেত্রে। মানুষ এতটা বাড়াবাড়ি করবে না যে অন্য কোনো হক বা তার পরিবার-পরিজন অবহেলায় পড়ে যায়। আবার এতটা টানাটানিও করবে না যে পরিবারের লোকেরা ক্ষুধার্ত থাকে আর সে কৃপণতায় সীমা ছাড়ায়। এর মাঝের সুন্দর পথটাই কাওয়াম, যার অর্থ তিনি বলেন ইনসাফ।"
+          },
+          {
+            "en": "At-Tabari then gives his own judgement. The correct view is that the israf Allah meant here is whatever goes beyond the limit He has permitted His servants, to what lies above it; iqtar is whatever falls short of what He commanded; and qawam is between. His reason is a short argument: if israf and iqtar in spending were allowed, neither would be blamed, nor would whoever does them, since whoever does what Allah has permitted does not deserve blame. His formula speaks of a limit set by Allah within spending, without confining it to spending in sin.",
+            "bn": "এরপর তাবারী নিজের রায় দেন। সঠিক কথা হলো, এখানে আল্লাহ যে ইসরাফের কথা বলছেন, তা হলো বান্দাদের জন্য তিনি যে সীমা বৈধ করেছেন, তা পেরিয়ে আরও উপরে চলে যাওয়া। আর ইকতার হলো আল্লাহর আদেশের চেয়ে কম করা। কাওয়াম এ দুইয়ের মাঝে। তাঁর যুক্তি ছোট্ট: খরচে ইসরাফ আর ইকতার যদি অনুমোদিত হতো, তাহলে এ দুটোর নিন্দা হতো না, যে এগুলো করে তারও নিন্দা হতো না। আল্লাহ যা করার অনুমতি দিয়েছেন, তা করে কেউ নিন্দার যোগ্য হয় না। তাঁর সংজ্ঞায় সীমাটা আল্লাহর ঠিক করা, খরচের ভেতরেই, শুধু গুনাহর খাতে সীমাবদ্ধ নয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Mazhari, tries to fold one reading into the other. It gives Ibn 'Abbas, Mujahid, Qatada and Ibn Jurayj for spending on anything sinful, however little, and others for wasteful overspending even on allowed things; then it argues that wasteful spending is itself a sin, quoting 17:27, that the squanderers are brothers of the devils, so the second view falls inside the first. Iqtar, it says, is being tight-fisted where a believer is directed to spend. The two readings still measure differently, one by where the money goes, the other by how much.",
+            "bn": "মাআরিফুল কুরআন মাযহারীর বরাতে এক ব্যাখ্যাকে অন্যটির ভেতরে মিলিয়ে নেওয়ার চেষ্টা করে। সে জানায়, ইবনে আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও ইবনে জুরাইজের মতে গুনাহর কাজে খরচ, যত অল্পই হোক, ইসরাফ। অন্যদের মতে বৈধ বিষয়েও অপচয়মূলক বাড়তি খরচ ইসরাফ। তারপর যুক্তি দেয়, অপচয় নিজেই গুনাহ। প্রমাণ ১৭:২৭, অপচয়কারীরা শয়তানের ভাই। তাই দ্বিতীয় মতটি প্রথমটির ভেতরেই পড়ে। আর ইকতার মানে, যেখানে মুমিনকে খরচ করতে বলা হয়েছে, সেখানে হাত আঁটসাঁট করা। তবু দুই ব্যাখ্যার মাপকাঠি আলাদাই থাকে। একটি দেখে টাকা কোথায় যায়, অন্যটি দেখে কতটা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word for a Balanced Build",
+          "bn": "সুগঠিত দেহের শব্দ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains the word itself. Qawam, with the qaf vowelled a, is in the speech of the Arabs the thing between two things; of a woman of balanced build one says that her qawam is fine in its evenness, and he cites a line of al-Hutay'a. With the qaf vowelled i, qiwam ahlihi means that by which a family's affairs stand. So he paraphrases the verse: their spending was, between israf and iqtar, a balanced qawam, neither passing Allah's limit nor falling short of what He made obligatory, but a justice between, within what He permitted.",
+            "bn": "তাবারী শব্দটির অর্থও খুলে বলেন। কাফে যবর দিয়ে কাওয়াম আরবদের ভাষায় দুই জিনিসের মাঝের জিনিস। কোনো নারীর দেহের গড়ন সুষম হলে বলা হয়, তার কাওয়াম ভারসাম্যে সুন্দর। এর সমর্থনে তিনি হুতাইআর একটি পঙক্তি উদ্ধৃত করেন। কাফে যের দিয়ে কিওয়ামু আহলিহী মানে সেই জিনিস, যার উপর পরিবারের কাজকর্ম দাঁড়িয়ে থাকে। তাই তাবারী আয়াতের মর্ম বলেন এভাবে: ইসরাফ আর ইকতারের মাঝে তাদের খরচ ছিল সুষম কাওয়াম। আল্লাহর সীমা পেরোয়নি, তাঁর ফরজ করা বিষয়ে কমতিও করেনি। আল্লাহ যা বৈধ করেছেন, তার ভেতরে থেকে মাঝের ইনসাফ।"
+          },
+          {
+            "en": "Al-Qurtubi records that Abu 'Amr and most readers say qawaman, meaning justice, while Hassan ibn 'Abd ar-Rahman read qiwaman, meaning sufficiency, soundness and what holds one's condition together, since qiwam is that on which a matter rests and stays settled; some said the two are forms of one meaning. On the grammar he gives al-Farra': qawaman is the predicate of kana, whose subject is implied, so that the spending was qawam between israf and qatr. At-Tabari gives this and a second option, in which bayna itself is the subject: the middle of that was qawam.",
+            "bn": "কুরতুবী জানান, আবু আমর ও অধিকাংশ কারী পড়েছেন কাওয়ামান, অর্থ ইনসাফ। হাসসান ইবনে আবদির রহমান পড়েছেন কিওয়ামান, অর্থ যথেষ্ট পরিমাণ, সঠিকতা, আর যা দিয়ে মানুষের অবস্থা টিকে থাকে। কারণ কিওয়াম মানে সেই ভিত, যার উপর কোনো বিষয় স্থির হয়ে থাকে। কেউ কেউ বলেছেন, দুটো একই অর্থের দুই রূপ। ব্যাকরণের প্রশ্নে কুরতুবী ফাররার মত দেন: কাওয়ামান হলো কানা-র খবর, আর এর ইসম উহ্য, অর্থাৎ খরচটা ছিল ইসরাফ ও কাতরের মাঝে কাওয়াম। তাবারী এ মত দেন, সঙ্গে দ্বিতীয় একটি সম্ভাবনাও: বাইনা নিজেই ইসম, অর্থাৎ এর মাঝেরটাই ছিল কাওয়াম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Good Deed Between Two Wrongs",
+          "bn": "দুই মন্দের মাঝে এক ভালো"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi glosses qawam as a middle course between israf and iqtar, a good deed between the two bad ones. At-Tabari traces that phrase. Mutarrif ibn 'Abdillah said that the best of these matters is their middle, and the good deed lies between the two bad deeds; the narrator asked Qatada what the good deed between the two bad deeds was, and Qatada recited this verse. Yazid ibn Murra al-Ju'fi is reported saying the same, explained as: when they spend, they neither overspend nor hold back, and the best of deeds are the middle ones.",
+            "bn": "বাগাভী কাওয়ামের অর্থ বলেন ইসরাফ আর ইকতারের মাঝামাঝি পথ, দুই মন্দের মাঝে এক ভালো। তাবারী কথাটির উৎস খুঁজে দেখান। মুতাররিফ ইবনে আবদিল্লাহ বলেছিলেন, এসব বিষয়ের সেরা হলো মাঝেরটা, আর ভালো কাজ থাকে দুই মন্দের মাঝখানে। বর্ণনাকারী কাতাদাকে জিজ্ঞেস করেন, দুই মন্দের মাঝের ভালোটা কী? কাতাদা উত্তরে এ আয়াতটিই তিলাওয়াত করেন। ইয়াযীদ ইবনে মুররা জু'ফী থেকেও একই কথা বর্ণিত। তার ব্যাখ্যা দেওয়া হয়েছে এভাবে: খরচের সময় তারা অপচয়ও করে না, কৃপণতাও করে না। আর আমলের মধ্যে সেরা হলো মাঝেরগুলো।"
+          },
+          {
+            "en": "Al-Qurtubi gives the phrase a scene. When 'Abd al-Malik ibn Marwan married his daughter Fatima to 'Umar ibn 'Abd al-'Aziz, he asked him what his spending was. 'Umar answered, the good deed between two bad ones, and recited this verse. Ibn Kathir sets 17:29 beside it, as Abu 'Ubayda does in al-Qurtubi's account: do not make your hand chained to your neck, nor stretch it out to its full reach. Both treat it as the same two extremes pictured as a hand. Al-Qurtubi adds a poet's line: do not go to excess in anything, keep to the middle, for both ends are blamed.",
+            "bn": "কুরতুবী কথাটির সঙ্গে একটি ঘটনাও জুড়ে দেন। আবদুল মালিক ইবনে মারওয়ান তাঁর মেয়ে ফাতিমাকে উমর ইবনে আবদিল আযীযের সঙ্গে বিয়ে দেওয়ার সময় জিজ্ঞেস করেছিলেন, তোমার খরচের ধরন কেমন? উমর বললেন, দুই মন্দের মাঝে এক ভালো। তারপর এ আয়াতটি তিলাওয়াত করলেন। ইবনে কাসীর এর পাশে রাখেন ১৭:২৯ আয়াত, কুরতুবীর বর্ণনায় আবু উবাইদাও তাই করেন: তোমার হাত গলায় বেঁধে রেখো না, আবার পুরোপুরি মেলেও দিয়ো না। দুজনের কাছেই এ সেই দুই প্রান্ত, শুধু হাতের ছবিতে আঁকা। কুরতুবী এক কবির পঙক্তিও আনেন: কোনো কিছুতে বাড়াবাড়ি কোরো না, মাঝপথে থাকো, দুই প্রান্তই নিন্দিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain Fare and a Friday Garment",
+          "bn": "সাদামাটা খাবার, জুমার পোশাক"
+        },
+        "p": [
+          {
+            "en": "Some reports read the verse austerely. Yazid ibn Abi Habib said of it that they did not wear clothes for beauty or eat food for pleasure; they wanted from clothing what covered them and kept off heat and cold, and from food what stilled hunger and gave them strength to worship their Lord. In al-Baghawi and al-Qurtubi he names them as the Companions of Muhammad ﷺ. 'Umar ibn al-Khattab, in both, says it is extravagance enough that a man craves nothing without buying it and eating it.",
+            "bn": "কিছু বর্ণনা আয়াতটিকে কঠোর সংযমের দিকে টেনে পড়ে। ইয়াযীদ ইবনে আবী হাবীব এ আয়াত সম্পর্কে বলেন, তারা সৌন্দর্যের জন্য পোশাক পরত না, স্বাদের জন্য খাবার খেত না। পোশাক থেকে তারা চাইত এতটুকু, যা সতর ঢাকে আর গরম-ঠান্ডা থেকে বাঁচায়। খাবার থেকে চাইত এতটুকু, যা ক্ষুধা মেটায় আর রবের ইবাদতের শক্তি দেয়। বাগাভী ও কুরতুবীর বর্ণনায় তিনি নাম করে বলেন, এরা ছিলেন মুহাম্মাদ ﷺ-এর সাহাবীগণ। দুজনের বর্ণনাতেই উমর ইবনুল খাত্তাব (রাঃ) বলেন: মানুষের অপচয়ের জন্য এটুকুই যথেষ্ট যে, মন যা চায় তা-ই কিনে খায়।"
+          },
+          {
+            "en": "At-Tabari draws the line with more room. The limit, he says, is understood in food, drink, clothing, charity and good works alike. Eating past fullness until the body weakens and is kept from its duties is israf; refusing food within reach until the body fails at them is iqtar. A good garment for gatherings, Fridays and Eids beside work clothes is qawam, because the Prophet ﷺ commanded or encouraged some of this. One proof he cites is close to at-Tirmidhi's (2819): 'Indeed Allah loves that the trace of His blessing be seen upon His servant.' At-Tirmidhi grades it hasan; it is not narrated about this verse.",
+            "bn": "তাবারী সীমারেখাটা টানেন আরেকটু প্রশস্ত করে। তাঁর মতে সীমাটা বোঝা যায় খাবার, পানীয়, পোশাক, দান আর নেক আমল, সব ক্ষেত্রেই। পেট ভরার পরও এতটা খাওয়া যে শরীর দুর্বল হয়ে ফরজ আদায়ে বাধা পড়ে, তা ইসরাফ। খাবার হাতের কাছে থাকতেও না খেয়ে শরীরকে ফরজ আদায়ে অক্ষম করে ফেলা ইকতার। কাজের পোশাকের বাইরে মজলিস, জুমা আর ঈদের জন্য সুন্দর পোশাক কাওয়ামের ভেতরে পড়ে। কারণ নবী ﷺ এর কিছুটার আদেশ দিয়েছেন, কিছুটায় উৎসাহ দিয়েছেন। তাঁর একটি দলিল তিরমিযীর বর্ণনার (২৮১৯) কাছাকাছি: ‘নিশ্চয় আল্লাহ পছন্দ করেন, তাঁর বান্দার উপর তাঁর নিয়ামতের চিহ্ন দেখা যাক।’ তিরমিযী একে হাসান বলেছেন। তবে এটি এ আয়াত প্রসঙ্গে বর্ণিত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured by Each Household",
+          "bn": "প্রতিটি ঘরের নিজস্ব মাপ"
+        },
+        "p": [
+          {
+            "en": "In al-Qurtubi's account Ibn 'Atiyya adds that qawam differs for each person according to his dependents and his situation, how light his burden is, and his patience and endurance in earning, or their opposites. That, the argument runs, is why the Prophet ﷺ let Abu Bakr give away all his wealth, since for him it was the middle given his endurance in religion, while he kept others from it. At-Tirmidhi (3675) records 'Umar's account: he brought half his wealth, and Abu Bakr brought everything, saying, 'I left Allah and His Messenger for them.' At-Tirmidhi grades it hasan sahih.",
+            "bn": "কুরতুবীর বর্ণনায় ইবনে আতিয়্যা আরও বলেন, কাওয়াম প্রত্যেকের জন্য আলাদা। তা নির্ভর করে তার পোষ্য কতজন, তার অবস্থা কেমন, দায়ের বোঝা কতটা হালকা, আর উপার্জনে তার ধৈর্য ও সহনশক্তি কতটা, অথবা এসবের উল্টোটার উপর। এ কারণেই, যুক্তিটি বলে, নবী ﷺ আবু বকর (রাঃ)-কে তাঁর সব সম্পদ দান করতে দিয়েছিলেন। দ্বীনের পথে তাঁর সহনশক্তির বিচারে সেটাই তাঁর জন্য মাঝামাঝি ছিল। অন্যদের তিনি তা করতে দেননি। তিরমিযী (৩৬৭৫) উমর (রাঃ)-এর বিবরণ বর্ণনা করেছেন: তিনি এনেছিলেন অর্ধেক সম্পদ, আর আবু বকর (রাঃ) এনেছিলেন সবকিছু, বলেছিলেন, ‘তাদের জন্য আল্লাহ ও তাঁর রাসূলকে রেখে এসেছি।’ তিরমিযী একে হাসান সহীহ বলেছেন।"
+          },
+          {
+            "en": "None of these commentaries ties a sound hadith or an occasion of revelation to the verse itself. What it leaves a household is a set of questions rather than figures: are those I support fed and clothed, are the rights I owe others paid, does charity have a settled place, and does anything I buy come only from craving? The amounts belong to each person's means and duties, and the detailed rulings of zakat and maintenance to the books of fiqh. The verse asks only that the hand stay level.",
+            "bn": "এসব তাফসীরের কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস বা নাযিলের প্রেক্ষাপট জুড়ে দেয়নি। একটা সংসারের জন্য আয়াতটি রেখে যায় কিছু প্রশ্ন, কোনো অঙ্ক নয়। যাদের ভরণপোষণ আমার দায়িত্বে, তারা কি খেতে-পরতে পাচ্ছে? অন্যের যে হক আমার উপর, তা কি শোধ হচ্ছে? দানের জন্য কি একটা নির্দিষ্ট জায়গা আছে? আর আমার কোনো কেনাকাটা কি শুধুই মনের টানে? পরিমাণ ঠিক হবে প্রত্যেকের সামর্থ্য আর দায় দেখে। যাকাত আর ভরণপোষণের খুঁটিনাটি বিধান ফিকহের কিতাবের বিষয়। আয়াত শুধু চায়, হাতটা সমান থাকুক।"
+          }
+        ]
+      }
+    ]
+  },
   "25:70": {
     "sections": [
       {

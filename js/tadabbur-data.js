@@ -24251,6 +24251,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are mocked for the truth, answer with plain evidence and a call to think, not insult; every sunrise and sunset already points to its Lord.",
     "lessonBn": "সত্যের জন্য ঠাট্টার শিকার হলে গালি নয়, পরিষ্কার প্রমাণ আর ভেবে দেখার আহ্বান দিয়ে জবাব দিন; প্রতিটি সূর্যোদয় আর সূর্যাস্ত আগেই তার রবের দিকে ইশারা করছে।"
+  },
+  "25:67": {
+    "reflectionEn": "The servants of the Most Merciful have just been shown standing in prayer through the night and pleading to be spared the Fire. Then the verse turns to their money. When they spend, they neither overspend nor hold back, and their spending stands level between the two. No figure is named. The measure moves with what each household has and what it owes: no family left hungry or unclothed so that more can be saved, no right of others crowded out by what one craves, no charity choked by fear of tomorrow. The people who stand at night are also known by where their money goes. What would my spending this month say about me? Where am I loose, and where am I tight?",
+    "reflectionBn": "রহমানের বান্দাদের এইমাত্র দেখা গেল রাত জেগে নামাজে দাঁড়িয়ে থাকতে, জাহান্নাম থেকে রেহাই চেয়ে কাতর হয়ে দোয়া করতে। এরপর আয়াত চলে আসে তাদের টাকাপয়সার কথায়। তারা যখন খরচ করে, সীমা ছাড়িয়ে যায় না, আবার হাতও গুটিয়ে রাখে না। তাদের ব্যয় থাকে দুইয়ের মাঝখানে, সোজা ও সমান। কোনো অঙ্ক এখানে বেঁধে দেওয়া হয়নি। মাপটা বদলায় প্রতিটি সংসারের সামর্থ্য আর দায় অনুযায়ী। টাকা জমাতে গিয়ে পরিবারকে অভুক্ত বা বস্ত্রহীন রাখা চলে না। নিজের শখের চাপে অন্যের হক হারিয়ে যেতে দেওয়া চলে না। কালকের ভয়ে দানের হাত বন্ধ করাও চলে না। যারা রাতে দাঁড়ায়, তাদের চেনা যায় টাকা কোথায় যায় তা দেখেও। এ মাসে আমার খরচের হিসাব আমার সম্পর্কে কী বলবে? কোথায় আমি ঢিলেঢালা, আর কোথায় আঁটসাঁট?",
+    "pointsEn": [
+      "Looking at last month's spending, where did money go only because I wanted something, and did anyone I am responsible for go short?",
+      "Is there a right I owe, to my family, to someone in need or to Allah, that I keep putting off in the name of being careful?",
+      "When I give in charity, is it from a settled habit, or in sudden bursts that leave others I owe uncovered?",
+      "Do I treat thrift as a virtue even when it makes life narrow and hard for the people in my home?",
+      "What is one purchase I make out of habit that I could stop without anyone being worse off?"
+    ],
+    "pointsBn": [
+      "গত মাসের খরচের দিকে তাকালে দেখি, কোন টাকাটা গেছে শুধু মন চেয়েছিল বলে? আর আমার দায়িত্বে থাকা কেউ কি তাতে টানাটানিতে পড়েছে?",
+      "পরিবারের, কোনো অভাবী মানুষের বা আল্লাহর এমন কোনো হক কি আমার উপর আছে, যা আমি সাবধানতার নাম করে বারবার পিছিয়ে দিচ্ছি?",
+      "আমি যখন দান করি, তা কি নিয়মিত অভ্যাস থেকে আসে, নাকি হঠাৎ এক ঝোঁকে, যাতে যাদের হক আমার উপর তারা বঞ্চিত থেকে যায়?",
+      "মিতব্যয়িতাকে আমি কি গুণ ভাবি এমনকি তখনও, যখন তা আমার ঘরের মানুষদের জীবন সংকীর্ণ আর কষ্টের করে তোলে?",
+      "অভ্যাসের বশে করা এমন একটা কেনাকাটা কোনটা, যা বন্ধ করলে কারও কোনো ক্ষতি হবে না?"
+    ],
+    "lessonEn": "Spend on what is right and on those you owe without waste or tightness, letting your means and duties, not cravings or fears, set the measure.",
+    "lessonBn": "যা ন্যায্য আর যাদের হক আপনার উপর, তাদের জন্য খরচ করুন অপচয় ছাড়া, কৃপণতাও ছাড়া। মাপ ঠিক করুক আপনার সামর্থ্য আর দায়, শখ বা ভয় নয়।"
   }
 };
 
