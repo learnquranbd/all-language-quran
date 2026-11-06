@@ -26669,6 +26669,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When hardship touches you, look to your own hands and ask His pardon; when it touches others, help them, and never call their pain a punishment.",
     "lessonBn": "কষ্ট যখন আপনাকে ছোঁয়, নিজের হাতের দিকে তাকান আর তাঁর কাছে মাফ চান। কষ্ট যখন অন্যকে ছোঁয়, তার পাশে দাঁড়ান, আর তার কষ্টকে কখনো শাস্তি বলবেন না।"
+  },
+  "42:48": {
+    "reflectionEn": "The call has just gone out: respond to your Lord before a Day comes that cannot be turned back. Then the verse turns to the one who made the call. If they turn away, you were not sent to stand guard over them; your task is only to deliver. In the same breath the verse turns to all of us. Give a person a taste of mercy and he is delighted with it. Let hardship reach him for what his own hands sent ahead, and he forgets every good thing that came before. Two mirrors in one verse. When I have said the truth plainly, can I let go of the result? And when a hard day comes, does it wipe out years of gifts?",
+    "reflectionBn": "ডাক এইমাত্র দেওয়া হয়েছে: যে দিন ফেরানো যাবে না, তা আসার আগেই রবের ডাকে সাড়া দাও। এরপর আয়াত ফিরে তাকায় যিনি ডাকছেন তাঁর দিকে। ওরা মুখ ফিরিয়ে নিলে নিক, তোমাকে ওদের পাহারাদার করে পাঠানো হয়নি, তোমার কাজ শুধু পৌঁছে দেওয়া। অন্যেরা কী জবাব দেবে, সেই বোঝা আহ্বানকারীর কাঁধ থেকে নামিয়ে নেওয়া হলো। একই নিঃশ্বাসে আয়াত তাকায় আমাদের সবার দিকে। মানুষকে রহমতের একটু স্বাদ দিলে সে খুশিতে ভরে ওঠে। আর নিজের হাতের কামাইয়ের কারণে কষ্ট এলে আগের সব ভালো সে ভুলে যায়। এক আয়াতে দুটি আয়না। সত্য কথাটা পরিষ্কার করে বলার পর ফলাফলের চিন্তা কি আমি ছেড়ে দিতে পারি? আর একটা কঠিন দিন এলে কি তা বছরের পর বছরের দান মুছে দেয়?",
+    "pointsEn": [
+      "When someone I advised does not change, do I carry it as my own failure, or remember that my part was to say it well and leave the rest?",
+      "Have I ever pressed someone so hard that I behaved more like their keeper than their caller?",
+      "When something good is given to me, does my joy reach the One who gave it, or stop at the gift?",
+      "Which blessing of this past year did my last bad week make me forget?",
+      "When I describe my life to others, do I count the hardships and leave out the favours?"
+    ],
+    "pointsBn": [
+      "যাকে উপদেশ দিয়েছি সে না বদলালে আমি কি সেটাকে নিজের ব্যর্থতা ধরে বয়ে বেড়াই? নাকি মনে রাখি, আমার কাজ ছিল কথাটা সুন্দর করে বলা, বাকিটা ছেড়ে দেওয়া?",
+      "কাউকে কি কখনো এতটা চাপ দিয়েছি যে তার আহ্বানকারী না হয়ে আমি তার পাহারাদার সেজে বসেছি?",
+      "ভালো কিছু পেলে আমার খুশি কি দাতা পর্যন্ত পৌঁছায়, নাকি দানটাতেই থেমে যায়?",
+      "গত এক সপ্তাহের কষ্ট এ বছরের কোন নিয়ামতটা আমাকে ভুলিয়ে দিয়েছে?",
+      "অন্যের কাছে নিজের জীবনের কথা বলার সময় আমি কি বিপদগুলো গুনে গুনে বলি আর অনুগ্রহগুলো বাদ দিয়ে যাই?"
+    ],
+    "lessonEn": "Deliver the truth and leave the response to Allah; in ease, thank the Giver and not just the gift, and in hardship, do not let one bad day erase His past favours.",
+    "lessonBn": "সত্য পৌঁছে দিন, সাড়া দেওয়ার ভার আল্লাহর হাতে ছেড়ে দিন। সুখের দিনে শুধু দান নয়, দাতার শোকর করুন, আর কষ্টের একটা দিনকে তাঁর আগের সব অনুগ্রহ মুছে দিতে দেবেন না।"
   }
 };
 

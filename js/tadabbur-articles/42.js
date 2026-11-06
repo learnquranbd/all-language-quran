@@ -1791,6 +1791,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "If the Call Goes Unanswered",
+          "bn": "ডাকে সাড়া না এলে"
+        },
+        "p": [
+          {
+            "en": "Fa-in a'radu: so if they turn away. The verse picks up where 42:47 left off. There people were told to respond to their Lord before a Day comes from Allah that cannot be turned back, a Day with no refuge and no denial. Now the verse looks at the other outcome, the call refused. Ibn Kathir names those meant: the idolaters, al-mushrikun. Al-Baghawi says they turn away from answering, and al-Qurtubi says they turn away from faith. Either way, the turning is the refusal of the very response 42:47 asked for.",
+            "bn": "ফাইন আ'রাদূ: যদি তারা মুখ ফিরিয়ে নেয়। ৪২:৪৭ আয়াত যেখানে থেমেছিল, এ আয়াত সেখান থেকেই শুরু। সেখানে বলা হয়েছিল, আল্লাহর পক্ষ থেকে এমন দিন আসার আগেই রবের ডাকে সাড়া দাও, যে দিন ফেরানো যাবে না, যেদিন কোনো আশ্রয় থাকবে না, অস্বীকারেরও সুযোগ থাকবে না। এবার আয়াত তাকায় উল্টো ফলের দিকে: ডাক প্রত্যাখ্যাত হলে কী হবে। ইবন কাসীর বলেন, এখানে উদ্দেশ্য মুশরিকরা। বাগাভী বলেন, তারা সাড়া দেওয়া থেকে মুখ ফেরায়। কুরতুবী বলেন, তারা ঈমান থেকে মুখ ফেরায়। দুই ব্যাখ্যাতেই এই মুখ ফেরানো মানে ৪২:৪৭ আয়াত যে সাড়া চেয়েছিল, ঠিক সেটাকেই ফিরিয়ে দেওয়া।"
+          },
+          {
+            "en": "At-Tabari draws the scene out in full. If these idolaters turn away, O Muhammad, from the truth you brought them and the right guidance you called them to, and do not answer you, and refuse to accept it from you, then leave them, fa-da'hum. Ma'arif al-Qur'an hears the first half as consolation. The Prophet ﷺ is comforted and reassured: if these people do not come to their senses, despite his preaching again and again and despite his tireless efforts, he should not worry. The command and the comfort arrive together.",
+            "bn": "তাবারী দৃশ্যটা পুরোপুরি খুলে বলেন। হে মুহাম্মাদ, তুমি তাদের কাছে যে সত্য এনেছ আর যে সঠিক পথের দিকে ডেকেছ, তা থেকে এই মুশরিকরা যদি মুখ ফিরিয়ে নেয়, তোমার ডাকে সাড়া না দেয়, তোমার কাছ থেকে তা গ্রহণ করতে অস্বীকার করে, তবে তাদের ছেড়ে দাও: ফাদা'হুম। মাআরিফুল কুরআন প্রথম অংশটিকে সান্ত্বনা হিসেবে পড়ে। নবী ﷺ-কে আশ্বস্ত করা হচ্ছে। বারবার দাওয়াত দেওয়ার পরও, অক্লান্ত চেষ্টার পরও এরা যদি হুঁশে না ফেরে, তাঁর দুশ্চিন্তার কিছু নেই। নির্দেশ আর সান্ত্বনা এখানে একসঙ্গে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Watchman Over Their Deeds",
+          "bn": "আমলের পাহারাদার নন"
+        },
+        "p": [
+          {
+            "en": "Fa-ma arsalnaka 'alayhim hafizan: then We have not sent you over them as a hafiz. The commentators agree on the kind of keeping denied. At-Tabari: not as a raqib, a watcher, keeping their deeds over them and counting them up. Al-Muyassar and al-Qurtubi's first gloss: a guardian of their deeds, to bring them to account for them. As-Sa'di: to keep their deeds and be questioned about them. Each time the hafiz holds the record and does the reckoning, and that office the verse withholds from the Messenger.",
+            "bn": "ফামা আরসালনাকা আলাইহিম হাফীযা: আমি তোমাকে তাদের উপর হাফীয করে পাঠাইনি। কোন ধরনের পাহারাদারির কথা অস্বীকার করা হচ্ছে, তাফসীরকারেরা তাতে একমত। তাবারী বলেন, আমি তোমাকে তাদের কাছে রাকীব, অর্থাৎ নজরদার করে পাঠাব না, যে তাদের আমল আগলে রাখবে আর গুনে গুনে হিসাব রাখবে। মুয়াসসার এবং কুরতুবীর প্রথম ব্যাখ্যা: তাদের আমলের রক্ষক, যাতে তুমি সেগুলোর জন্য তাদের হিসাব নিতে পারো। সা'দী বলেন, তাদের আমল সংরক্ষণ করা আর সে বিষয়ে জিজ্ঞাসিত হওয়া। প্রতিটি ব্যাখ্যায় হাফীয সেই ব্যক্তি, যার হাতে খাতা আর হিসাব। আয়াত রাসূলকে সেই দায়িত্ব দেয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a second gloss, introduced with qila, it was said: appointed over them, never leaving them until they believe; that is, it is not for you to compel them to faith, laysa laka ikrahuhum 'ala al-iman. Ibn Kathir uses another word: lasta 'alayhim bi-musaytir, you hold no control over them. So the glosses look from two sides: the reckoning that comes afterwards, and the forcing of belief now. Both lift from the Prophet ﷺ a burden that belongs elsewhere.",
+            "bn": "কুরতুবী 'কীলা', অর্থাৎ 'বলা হয়েছে' দিয়ে দ্বিতীয় একটি ব্যাখ্যা আনেন: তাদের উপর নিযুক্ত, ঈমান না আনা পর্যন্ত তাদের পিছু না ছাড়া। তারপর খুলে বলেন: তাদের ঈমান আনতে বাধ্য করা তোমার কাজ নয়, লাইসা লাকা ইকরাহুহুম আলাল ঈমান। ইবন কাসীর ভিন্ন শব্দ ব্যবহার করেন: লাসতা আলাইহিম বিমুসাইতির, তাদের উপর তোমার কোনো কর্তৃত্ব নেই। ব্যাখ্যাগুলো তাই দুই দিক থেকে দেখে। একটি পরের হিসাব-নিকাশের কথা, অন্যটি এখনই জোর করে ঈমান আনানোর কথা। দুটোই নবী ﷺ-এর কাঁধ থেকে এমন বোঝা নামিয়ে দেয়, যা অন্য কারও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delivering Is the Whole Task",
+          "bn": "পৌঁছে দেওয়াই পুরো দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "In 'alayka illa al-balagh: upon you is nothing but the conveying. Al-Baghawi glosses the opening in as ma, a plain negation, so the phrase is a negation closed by illa, except: every other duty is shut out and one is left. At-Tabari puts it in the Prophet's ﷺ terms: nothing is upon you, O Muhammad, except to convey to them the message We sent you to them with, and once you have conveyed it, you have discharged what was upon you. The task has an edge, and the edge is reached when the words have been delivered.",
+            "bn": "ইন আলাইকা ইল্লাল বালাগ: পৌঁছে দেওয়া ছাড়া তোমার উপর আর কিছু নেই। বাগাভী শুরুর 'ইন'-কে 'মা' দিয়ে ব্যাখ্যা করেন, অর্থাৎ এটি সরল না-বাচক শব্দ। ফলে বাক্যটা এক না-বাচক কথা, যার শেষে 'ইল্লা', ছাড়া। বাকি সব দায় বাদ পড়ে যায়, থাকে একটিই। তাবারী কথাটা বলেন নবী ﷺ-কে সম্বোধন করে: হে মুহাম্মাদ, যে বার্তা দিয়ে আমি তোমাকে তাদের কাছে পাঠিয়েছি, তা পৌঁছে দেওয়া ছাড়া তোমার আর কোনো দায় নেই। পৌঁছে দিলেই তোমার দায়িত্ব আদায় হয়ে গেল। কাজটার একটা সীমা আছে, আর কথা পৌঁছে গেলেই সে সীমায় পৌঁছানো হয়।"
+          },
+          {
+            "en": "Ibn Kathir glosses it as all We charged you with is to convey Allah's message to them, and sets two verses beside it. One is 2:272: not upon you is their guidance, but Allah guides whom He wills. The other is 13:40: your duty is only to convey, and upon Us is the reckoning. The second half of 13:40 answers a question 42:48 leaves open. If the Messenger is not the keeper of their deeds, who is? The reckoning has not been cancelled. It has simply been placed with the One to whom it belongs.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা: আমি তোমাকে শুধু এ দায়িত্বই দিয়েছি যে আল্লাহর বার্তা তাদের কাছে পৌঁছে দেবে। পাশে তিনি দুটি আয়াত রাখেন। একটি ২:২৭২: তাদের হিদায়াতের দায় তোমার নয়, বরং আল্লাহ যাকে চান হিদায়াত দেন। অন্যটি ১৩:৪০: তোমার দায়িত্ব শুধু পৌঁছে দেওয়া, আর হিসাব নেওয়া আমার কাজ। ৪২:৪৮ আয়াত একটা প্রশ্ন খোলা রেখে দেয়, ১৩:৪০ আয়াতের শেষাংশ তার জবাব দেয়। রাসূল যদি তাদের আমলের পাহারাদার না হন, তবে কে? হিসাব বাতিল হয়নি। সেটা রাখা হয়েছে তাঁর হাতে, যাঁর কাজ সেটা।"
+          },
+          {
+            "en": "As-Sa'di carries the thought to its end. When you have done what is upon you, your reward is owed by Allah, whether they respond or turn away, and their reckoning is with Allah, who keeps over them their deeds small and great, outward and hidden. The worth of the caller's work is settled at delivery, before any answer comes. For anyone who calls to good today, the verse offers the same relief: a refusal does not cancel the deed of having said the truth well.",
+            "bn": "সা'দী চিন্তাটাকে শেষ পর্যন্ত নিয়ে যান। তোমার যা দায়িত্ব তা যখন আদায় করেছ, তোমার প্রতিদান আল্লাহর কাছে প্রাপ্য হয়ে গেছে, তারা সাড়া দিক বা মুখ ফিরিয়ে নিক। আর তাদের হিসাব আল্লাহর কাছে, যিনি তাদের ছোট-বড়, প্রকাশ্য-গোপন সব আমল সংরক্ষণ করেন। অর্থাৎ জবাব আসার আগেই, পৌঁছে দেওয়ার মুহূর্তেই আহ্বানকারীর কাজের মূল্য স্থির হয়ে যায়। আজ যে কেউ ভালোর দিকে ডাকে, এ আয়াত তাকেও একই স্বস্তি দেয়। কেউ ফিরিয়ে দিলেও সত্য কথাটা সুন্দর করে বলার আমল বাতিল হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Line on Abrogation",
+          "bn": "রহিত হওয়ার এক বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Right after in 'alayka illa al-balagh, al-Qurtubi records another view, again with qila, it was said: this was abrogated by the verse of fighting, ayat al-qital. He names no one who held it and does not weigh it. None of the other commentaries fetched for this verse, at-Tabari, Ibn Kathir, as-Sa'di, al-Baghawi, al-Muyassar or Ma'arif al-Qur'an, mentions abrogation here; they explain the words as they read. This article reports the view as al-Qurtubi relays it, unattributed, and takes no position on whether it is right.",
+            "bn": "ইন আলাইকা ইল্লাল বালাগ-এর ঠিক পরেই কুরতুবী আরেকটি মত উল্লেখ করেন, এবারও 'কীলা', বলা হয়েছে, দিয়ে: এ অংশটি কিতালের আয়াত দিয়ে রহিত হয়ে গেছে। কে এ মত দিয়েছেন, তিনি তার নাম বলেন না, মতটিকে যাচাইও করেন না। এ আয়াতের জন্য আর যেসব তাফসীর দেখা হয়েছে, অর্থাৎ তাবারী, ইবন কাসীর, সা'দী, বাগাভী, মুয়াসসার ও মাআরিফুল কুরআন, তাদের কেউই এখানে রহিত হওয়ার কথা তোলেননি। তাঁরা শব্দগুলো যেমন আছে তেমনই ব্যাখ্যা করেছেন। এ প্রবন্ধ মতটি কুরতুবী যেভাবে নামহীন অবস্থায় এনেছেন সেভাবেই জানিয়ে দিল। সেটা ঠিক কি না, এ নিয়ে কোনো অবস্থান নিচ্ছে না।"
+          },
+          {
+            "en": "The verse speaks of people who turned away from the Prophet's ﷺ call in his own time, at-Tabari's these idolaters, and tells the Prophet what his role toward them was. It describes what the text describes and licenses nothing against any living person or community. Nor does it hand any reader the office it withholds even from the Messenger, keeper of other people's deeds and their reckoner. If the Messenger was told to leave the reckoning to Allah, no one after him has been given it.",
+            "bn": "আয়াতটি সেই লোকদের কথা বলে, যারা নবী ﷺ-এর নিজের যুগে তাঁর দাওয়াত থেকে মুখ ফিরিয়ে নিয়েছিল, তাবারীর ভাষায় 'এই মুশরিকরা'। আর নবীকে জানিয়ে দেয়, তাদের ব্যাপারে তাঁর ভূমিকা কী ছিল। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। যে দায়িত্ব রাসূলকেও দেওয়া হয়নি, অন্যের আমলের পাহারাদার আর তাদের হিসাব নেওয়ার দায়িত্ব, তা কোনো পাঠকের হাতেও তুলে দেয় না। রাসূলকেই যখন হিসাবের ভার আল্লাহর কাছে ছেড়ে দিতে বলা হয়েছে, তাঁর পরে আসা কাউকে সে ভার দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy Given as a Taste",
+          "bn": "রহমতের স্বাদ"
+        },
+        "p": [
+          {
+            "en": "The second half turns from them to al-insan, man. Wa-inna idha adhaqna al-insana minna rahmatan: and when We let man taste mercy from Us. The commentators fill the word mercy with the goods of this world. At-Tabari: when We make the son of Adam rich and give him abundance from Us, that is the mercy meant. Al-Baghawi reports Ibn Abbas: wealth and health. Al-Qurtubi: ease and health. Ibn Kathir: ease and blessing. As-Sa'di: bodily health, plentiful provision, standing and the like. Al-Muyassar: wealth and ample means, and more besides.",
+            "bn": "দ্বিতীয় অংশ 'তাদের' থেকে ফিরে আসে আল-ইনসান, অর্থাৎ মানুষের দিকে। ওয়া ইন্না ইযা আযাকনাল ইনসানা মিন্না রাহমাতান: আমি যখন মানুষকে আমার পক্ষ থেকে রহমতের স্বাদ দিই। রহমত শব্দটিকে তাফসীরকারেরা দুনিয়ার নিয়ামত দিয়ে ভরে দেন। তাবারী বলেন, আমি যখন আদমসন্তানকে সচ্ছল করি, নিজের কাছ থেকে প্রাচুর্য দিই, সেটাই এখানকার রহমত। বাগাভী ইবন আব্বাস (রাঃ)-এর বক্তব্য আনেন: সম্পদ আর সুস্থতা। কুরতুবী বলেন, সচ্ছলতা আর সুস্থতা। ইবন কাসীর বলেন, স্বাচ্ছন্দ্য আর নিয়ামত। সা'দী বলেন, শরীরের সুস্থতা, প্রশস্ত রিযিক, মর্যাদা ইত্যাদি। মুয়াসসার বলে, সম্পদ, প্রাচুর্য, আরও অনেক কিছু।"
+          },
+          {
+            "en": "Fariha biha: he rejoices in it. Here the commentators differ in tone. At-Tabari keeps it plain: he is pleased with the wealth We gave him and the abundance and plenty of property We provided. Al-Qurtubi's gloss is sharper: batira biha, he grows insolent with it. Ibn Kathir joins the two words: when blessing reaches him, ashira wa batira, he becomes giddy and insolent. So at-Tabari describes delight, and the other two name it as excess. The verse's own word is farah, joy, and which joy is meant is the question the commentators answer differently.",
+            "bn": "ফারিহা বিহা: সে তাতে আনন্দিত হয়। এখানে তাফসীরকারদের সুর ভিন্ন। তাবারী কথাটা সাদামাটা রাখেন: আমি যে সচ্ছলতা দিয়েছি, যে প্রাচুর্য আর বিপুল সম্পদ দিয়েছি, তাতে সে খুশি হয়। কুরতুবীর ব্যাখ্যা আরও কড়া: বাতিরা বিহা, তা পেয়ে সে দম্ভে ফুলে ওঠে। ইবন কাসীর দুটি শব্দ একসঙ্গে আনেন: নিয়ামত পেলে সে আশিরা ওয়া বাতিরা, উল্লাসে মাতে আর অহংকারী হয়ে ওঠে। অর্থাৎ এক ব্যাখ্যায় আছে শুধু খুশি, অন্যগুলোতে সেই খুশিকে বাড়াবাড়ি বলা হয়েছে। আয়াতের নিজের শব্দ 'ফারাহ', আনন্দ। কোন আনন্দের কথা, সেই প্রশ্নের জবাব তাফসীরকারেরা ভিন্নভাবে দেন।"
+          },
+          {
+            "en": "As-Sa'di places the fault in where the joy stops. He rejoices in it with a joy confined to it that does not pass beyond it, and from that follow his resting content in the gift and his turning away from the Giver, al-mun'im. On this reading the gift is not the problem, and neither is gladness at it. The problem is gladness with nowhere further to go. The verse itself has already named the source with minna, from Us, and that is exactly what the confined joy forgets.",
+            "bn": "সা'দী দোষটা খুঁজে পান আনন্দ কোথায় গিয়ে থামে, সেখানে। তাঁর ভাষায়, সে এমন আনন্দে মাতে যা দানটাতেই সীমাবদ্ধ, তার বাইরে যায় না। এর ফলে সে দানের উপরই নিশ্চিন্ত হয়ে বসে থাকে, আর দাতা আল-মুনইম থেকে মুখ ফিরিয়ে নেয়। এ ব্যাখ্যায় দান সমস্যা নয়, দান পেয়ে খুশি হওয়াও সমস্যা নয়। সমস্যা হলো এমন খুশি, যার আর কোথাও যাওয়ার পথ নেই। আয়াত নিজেই এক শব্দে উৎসের নাম বলে দিয়েছে: মিন্না, আমার পক্ষ থেকে। আটকে থাকা আনন্দ ঠিক এই কথাটাই ভুলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Man Who Is Many",
+          "bn": "এক মানুষ, অনেক মানুষ"
+        },
+        "p": [
+          {
+            "en": "The grammar of the verse shifts in midstream. It says al-insan, man, in the singular, then wa-in tusibhum, and if evil befalls them, in the plural, then returns to al-insan. At-Tabari stops on this. The pronoun comes out in the masculine plural, he explains, though man was mentioned before as one, because al-insan here carries the meaning of a plural: man as a kind, not one man. Ibn Kathir glosses the them in the same way, as an-nas, the people. The single word was a whole population all along.",
+            "bn": "আয়াতের ব্যাকরণ মাঝপথে বদলে যায়। প্রথমে একবচনে আল-ইনসান, মানুষ। তারপর বহুবচনে ওয়া ইন তুসিবহুম, আর যদি তাদের উপর মন্দ আসে। তারপর আবার আল-ইনসান। তাবারী এখানে থামেন। তিনি বলেন, মানুষ শব্দটি আগে একবচনে এলেও সর্বনাম এসেছে পুরুষবাচক বহুবচনে, কারণ এখানে আল-ইনসান মানে বহু: একজন মানুষ নয়, গোটা মানবজাতি। ইবন কাসীরও 'তাদের' শব্দটির ব্যাখ্যা করেন একইভাবে: আন-নাস, মানুষজন। একবচনের শব্দটির ভেতরে শুরু থেকেই ছিল গোটা মানবসমাজ।"
+          },
+          {
+            "en": "Then who is this man? Here the commentators genuinely differ. Al-Qurtubi narrows him: al-insan al-kafir, the disbelieving human, so that the verse continues its account of those who turned away. As-Sa'di widens him to the human condition. He opens the half with the words then He mentions the state of man, and he calls ingratitude for the earlier blessing man's nature, tabi'atuhu. Ibn Kathir stands between them: this is the state of most people, except whom Allah has guided and inspired with right conduct, and who are among those who believe and do righteous deeds.",
+            "bn": "তাহলে এই মানুষটি কে? এখানে তাফসীরকারদের মধ্যে সত্যিকারের মতভেদ আছে। কুরতুবী পরিসর ছোট করেন: আল-ইনসান আল-কাফির, কাফির মানুষ। তাঁর ব্যাখ্যায় আয়াত মুখ ফেরানো লোকদের কথাই বলে চলেছে। সা'দী পরিসর বড় করে গোটা মানব-অবস্থায় নিয়ে যান। এ অংশ তিনি শুরু করেন এ কথা দিয়ে: এরপর আল্লাহ মানুষের অবস্থার কথা বলেন। আগের নিয়ামতের নাশোকরিকে তিনি বলেন মানুষের তবিয়ত, তার স্বভাব। ইবন কাসীর দুজনের মাঝামাঝি। তিনি বলেন, এ হলো অধিকাংশ মানুষের অবস্থা, তারা ছাড়া যাদের আল্লাহ হিদায়াত দিয়েছেন, সঠিক পথের বুঝ দিয়েছেন, আর যারা ঈমান এনে নেক আমল করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting Losses, Denying Gifts",
+          "bn": "বিপদ গোনে, নিয়ামত ভোলে"
+        },
+        "p": [
+          {
+            "en": "Wa-in tusibhum sayyi'atun: and if an evil befalls them. The glosses mirror the mercy. At-Tabari: want, poverty and a narrow living. Ibn Kathir: drought, retribution, trial and hardship. Al-Baghawi: drought. As-Sa'di: sickness or poverty. Al-Muyassar: poverty and sickness. Then bima qaddamat aydihim, for what their hands sent ahead: at-Tabari reads it as the disobedience to Allah they committed before, the hardship being its punishment. The verse names the cause in a phrase and moves on, and so does this article; 42:30 takes up that phrase.",
+            "bn": "ওয়া ইন তুসিবহুম সাইয়িআতুন: আর যদি তাদের উপর কোনো মন্দ এসে পড়ে। এ শব্দের ব্যাখ্যা রহমতের ব্যাখ্যারই উল্টো ছবি। তাবারী বলেন, অভাব, দারিদ্র্য আর টানাটানির জীবন। ইবন কাসীর বলেন, খরা, শাস্তি, পরীক্ষা আর কষ্ট। বাগাভী বলেন, খরা। সা'দী বলেন, অসুখ বা দারিদ্র্য। মুয়াসসার বলে, দারিদ্র্য আর অসুখ। তারপর বিমা কাদ্দামাত আইদীহিম, তাদের হাত যা আগে পাঠিয়েছে তার কারণে। তাবারী বলেন, আগে তারা আল্লাহর যে নাফরমানি করেছে, কষ্টটা তারই শাস্তি। আয়াত এক টুকরো কথায় কারণটা বলে এগিয়ে যায়, এ প্রবন্ধও তা-ই করছে। এ কথাটা নিয়ে বিস্তারিত আলোচনা ৪২:৩০ আয়াতে।"
+          },
+          {
+            "en": "Fa-inna al-insana kafur: then man is ungrateful. At-Tabari: man is a denier of his Lord's blessings; he counts up the calamities and denies the blessings, yu'addidu al-masa'ib wa yajhadu al-ni'am. Al-Muyassar and al-Qurtubi say nearly the same, with forgets the blessings in place of denies them, and al-Qurtubi ties it to the blessing that came before. At-Tabari also gives the inner side of it: when the hardship came, he denied Allah's blessing and despaired of any good.",
+            "bn": "ফাইন্নাল ইনসানা কাফূর: তখন মানুষ বড়ই অকৃতজ্ঞ। তাবারী বলেন, মানুষ তার রবের নিয়ামত অস্বীকারকারী। সে বিপদগুলো গুনে গুনে বলে, আর নিয়ামতগুলো অস্বীকার করে: ইউআদ্দিদুল মাসাইবা ওয়া ইয়াজহাদুন নিআম। মুয়াসসার আর কুরতুবীও প্রায় একই কথা বলেন, শুধু 'অস্বীকার করে'-র জায়গায় বলেন 'ভুলে যায়'। কুরতুবী কথাটা জুড়ে দেন আগে পাওয়া নিয়ামতের সঙ্গে। তাবারী ভেতরের দিকটাও দেখান: কষ্ট আসতেই সে আল্লাহর নিয়ামত অস্বীকার করে বসে, আর সব কল্যাণের ব্যাপারে নিরাশ হয়ে যায়।"
+          },
+          {
+            "en": "Others name what is lost. Al-Baghawi: at the first hardship he forgets and denies all of Allah's blessings that went before. Ibn Kathir: he denies the blessing that came first and knows nothing but the present hour; if blessing reaches him he grows giddy and insolent, and if trial reaches him he despairs and loses hope. As-Sa'di: his nature is ingratitude for the earlier blessing and resentment at the evil that struck him. The common thread is memory. One hard season is allowed to outweigh every gift before it.",
+            "bn": "অন্যেরা বলেন কী হারিয়ে যায়। বাগাভী বলেন, প্রথম কষ্টেই সে আল্লাহর আগের সব নিয়ামত ভুলে যায়, অস্বীকার করে। ইবন কাসীর বলেন, আগের নিয়ামত সে অস্বীকার করে, বর্তমান মুহূর্ত ছাড়া আর কিছু চেনে না। নিয়ামত পেলে উল্লাসে মাতে আর অহংকারী হয়, পরীক্ষা এলে হতাশ হয়ে আশা ছেড়ে দেয়। সা'দী বলেন, আগের নিয়ামতের নাশোকরি আর বিপদের সময় অসন্তোষ, এ-ই তার স্বভাব। সবগুলো ব্যাখ্যার মিল এক জায়গায়: স্মৃতি। একটি কঠিন সময়কে সে আগের সব দানের চেয়ে ভারী হতে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Believer Does Instead",
+          "bn": "মুমিন যা করে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes with the opposite picture, and cites the Messenger of Allah ﷺ for it. Sahih Muslim (2999) gives the wording from Suhayb: How wondrous is the affair of the believer! All of his affair is good, and that is for no one but the believer. If something pleasing befalls him, he gives thanks, and that is good for him; and if something harmful befalls him, he is patient, and that is good for him. The narration is general and is not reported about this verse; Ibn Kathir brings it as a contrast.",
+            "bn": "ইবন কাসীর শেষ করেন উল্টো ছবিটা দিয়ে, আর তার জন্য আল্লাহর রাসূল ﷺ-এর বাণী আনেন। সহীহ মুসলিমে (২৯৯৯) সুহাইব (রাঃ)-এর বর্ণনায় শব্দগুলো এমন: মুমিনের ব্যাপারটা কী আশ্চর্য! তার সব ব্যাপারই কল্যাণকর, আর এ সুযোগ মুমিন ছাড়া আর কারও নেই। খুশির কিছু ঘটলে সে শোকর করে, তা তার জন্য কল্যাণ। আর কষ্টের কিছু ঘটলে সে সবর করে, তা-ও তার জন্য কল্যাণ। এ হাদীস সাধারণ কথা, এ আয়াত সম্পর্কে বর্ণিত হয়নি। ইবন কাসীর এটি এনেছেন বৈপরীত্য দেখাতে।"
+          },
+          {
+            "en": "Set beside the verse, the hadith answers both moments. The man of the verse meets mercy with joy that stops at the gift, and meets hardship by forgetting the gift. The believer of the hadith meets the pleasing with thanks and the harmful with patience, and both become good. None of the commentaries fetched for this verse reports a sound hadith as its occasion of revelation. What Ibn Kathir offers is a mirror held up to the verse, not a cause behind it.",
+            "bn": "আয়াতের পাশে রাখলে হাদীসটি দুই মুহূর্তেরই জবাব দেয়। আয়াতের মানুষটি রহমত পেলে খুশি হয়, কিন্তু সে খুশি দানেই আটকে থাকে। কষ্ট এলে দানটাই ভুলে যায়। হাদীসের মুমিন খুশির জিনিস পেলে শোকর করে, কষ্টের জিনিস এলে সবর করে, আর দুটোই তার জন্য কল্যাণ হয়ে যায়। এ আয়াতের জন্য দেখা কোনো তাফসীর এর শানে নুযূল হিসেবে কোনো সহীহ হাদীস বর্ণনা করেনি। ইবন কাসীর যা দেন, তা আয়াতের সামনে ধরা একটি আয়না, আয়াতের পেছনের কারণ নয়।"
+          },
+          {
+            "en": "The commentaries fetched here do not draw a link between the verse's two halves, so what follows is a reader's observation, not theirs. The first half tells the Messenger that the response of others is not his to own. The second shows man treating the gift as if it were his to keep. One lesson runs through both: what is ours is the deed, the delivery and the thanks. The outcome, the gift and the reckoning are held by the One who said minna, from Us.",
+            "bn": "এখানে দেখা তাফসীরগুলো আয়াতের দুই অংশের মধ্যে কোনো যোগসূত্র টানেনি। তাই এরপরের কথাটা পাঠকের পর্যবেক্ষণ, তাঁদের নয়। প্রথম অংশ রাসূলকে জানায়, অন্যদের সাড়া দেওয়া না-দেওয়ার মালিক তিনি নন। দ্বিতীয় অংশ দেখায়, মানুষ দানকে এমনভাবে আঁকড়ে ধরে যেন সেটা তার নিজের সম্পত্তি। দুই অংশে একই শিক্ষা: আমাদের ভাগে আছে আমল, পৌঁছে দেওয়া আর শোকর। ফলাফল, দান আর হিসাব থাকে তাঁর হাতে, যিনি বলেছেন 'মিন্না', আমার পক্ষ থেকে।"
+          }
+        ]
+      }
+    ]
+  },
   "42:52": {
     "sections": [
       {
